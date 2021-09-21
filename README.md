@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
+<a href="https://github.com/TranNgocTam-19211TT2494/TranNgocTam-19211TT2494">
     <img src="https://komarev.com/ghpvc/?username=TranNgocTam-19211TT2494&color=blueviolet&style=plastic">
 </a>
 
