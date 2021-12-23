@@ -10,7 +10,6 @@ This is the place where I opensource stuff and break things 🤣
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning ReatJs , VueJs , Wordpress 
 - ⚡ Fun fact: I ❤️ 🐶s
-- 📫 How to reach me: @ngoctam2303001 or https://join.skype.com/invite/yqQVkkDvnlOr
 
 **Languages and Tools:**  
 
