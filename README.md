@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-| <a href="https://github.com/TranNgocTam-19211TT2494/github-readme-stats"><img  width="500" height="300" align="center" src="lam-anh-gif1.gif"/></a> |
+<img  width="500" height="300" align="center" src="lam-anh-gif1.gif"/>
 
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
