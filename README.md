@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img  width="100" height="100" style="text-alight: center;" src="lam-anh-gif1.gif">
+<img  width="500" height="300" style="text-align: center;" src="lam-anh-gif1.gif">
 
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
