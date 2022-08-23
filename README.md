@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Gokku Tamu (ゴックタム)!
 
 <img width="500" height="300" src="hinh-anh-gif-thanh-pho-hien-dai.gif" align="right" alt="GIF"/>
 
