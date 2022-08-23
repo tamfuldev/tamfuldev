@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Gokku Tamu (ゴックタム).
 
-<img width="200" height="200" src="programmer.gif" align="right" alt="GIF"/>
+<img width="400" height="200" src="programmer.gif" align="right" alt="GIF"/>
 
 ## Talking about Personal Stuffs:
 
