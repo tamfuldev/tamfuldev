@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <img width="500" height="300" src="hinh-anh-gif-thanh-pho-hien-dai.gif" align="right" alt="GIF"/>
-**Talking about Personal Stuffs:**
+
+## Talking about Personal Stuffs:
 
 - 🌱 I’m currently learning NodeJs and Docker Learning; 
 - 💬 Ask me about anything, I am happy to help;
