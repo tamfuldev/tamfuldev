@@ -4,7 +4,7 @@
 
 ## Talking about Personal Stuffs:
 
-- 🌱 I’m currently learning NodeJs and Docker Learning; 
+- 🌱 I’m currently learning NodeJs and Docker Learning;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: tngoctam2303001@gmail.com;
 
