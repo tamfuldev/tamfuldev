@@ -8,8 +8,8 @@
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: tngoctam2303001@gmail.com;
 
-<a href="https://github.com/gokkutamu/github-readme-stats">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokkutamu&show_icons=true&locale=en&layout=compact" /></a>
+
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokkutamu&show_icons=true&locale=en&layout=compact" />
  
  **Languages and Tools:**  
 
