@@ -9,7 +9,7 @@
 - 📫 How to reach me: tngoctam2303001@gmail.com;
 
 <a href="https://github.com/gokkutamu/github-readme-stats">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokkutamu&layout=compact&theme=github_light&hide_border=true" /></a>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokkutamu&show_icons=true&locale=en&layout=compact" /></a>
  
  **Languages and Tools:**  
 
