@@ -13,30 +13,30 @@
  
  **Languages and Tools:**  
 
-<a href="https://www.php.net/">
+<a href="https://www.php.net/" target="_blank">
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 </a>
-<a href="https://laravel.com/">
+<a href="https://laravel.com/" target="_blank">
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 </a>
-<a href="https://developer.mozilla.org/">
+<a href="https://developer.mozilla.org/" target="_blank">
    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 </a>
-<a href="https://reactjs.org/">
+<a href="https://reactjs.org/" target="_blank">
    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 </a>
-<a href="https://graphql.org/">
+<a href="https://graphql.org/" target="_blank">
    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 </a>
-<a href="https://nodejs.dev/">
+<a href="https://nodejs.dev/" target="_blank">
    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 </a>
-<a href="https://dev.mysql.com/">
+<a href="https://dev.mysql.com/" target="_blank">
    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 </a>
-<a href="https://git-scm.com/">
+<a href="https://git-scm.com/" target="_blank">
    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 </a>
-<a href="https://stripe.com/docs/terminal">
+<a href="https://stripe.com/docs/terminal" target="_blank">
    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 </a>
