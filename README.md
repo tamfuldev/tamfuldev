@@ -9,8 +9,6 @@
 - 📫 How to reach me: tngoctam2303001@gmail.com;
 
 
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokkutamu&show_icons=true&locale=en&layout=compact" />
- 
  **Languages and Tools:**  
 
 <a href="https://www.php.net/" target="_blank">
