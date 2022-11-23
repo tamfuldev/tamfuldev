@@ -78,7 +78,6 @@
            </div>
          </td>
          <td valign="top" width="20%">
-            <h4>Database</3><br>
            <div align="center" dir="auto">
                <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="50" style="max-width: 100%;">
