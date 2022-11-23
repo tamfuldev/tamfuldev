@@ -3,75 +3,112 @@
 <img width="400" height="300" src="programmer.gif" align="right" alt="GIF"/>
 
 ## Talking about Personal Stuffs:
-
+```
 - 🌱 I’m currently learning NodeJs and Docker Learning;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: tngoctam2303001@gmail.com;
-
-
-## Languages and Tools:
+```
+>
+>
+>
+## Skills:
 <table>
-    <tbody>
-        <tr>
-            <td valign="top" width="33%">
-                <h3 dir="auto"><a id="user-content-frontend" class="anchor" aria-hidden="true" href="#frontend"><svg class="octicon octicon-link" viewBox="0 0 16 16"                       version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Frontend</h3>
-<div align="center" dir="auto">  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/518977ed5e52020624daf41cf644046368af610f19a7b1220dd1d58377d08288/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f72656163742d6f726967696e616c2d776f72646d61726b2e737667"><img src="https://camo.githubusercontent.com/518977ed5e52020624daf41cf644046368af610f19a7b1220dd1d58377d08288/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f72656163742d6f726967696e616c2d776f72646d61726b2e737667" alt="React" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" style="max-width: 100%;"></a>  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7a2b6137fa6818b1c85f86347a6b4a75ee52681d4a190c506df972e3c5459980/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6a6176617363726970742d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/7a2b6137fa6818b1c85f86347a6b4a75ee52681d4a190c506df972e3c5459980/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6a6176617363726970742d6f726967696e616c2e737667" alt="JavaScript" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" style="max-width: 100%;"></a>  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/94890eb1b8c3ce19ea73189dade730fa967a8fe08899f25cab17b57a5d4339dc/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f747970657363726970742d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/94890eb1b8c3ce19ea73189dade730fa967a8fe08899f25cab17b57a5d4339dc/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f747970657363726970742d6f726967696e616c2e737667" alt="TypeScript" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" style="max-width: 100%;"></a>  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bfa71fe5e1eb3ca57a7e4ef9c6b2ca21414c4fdab27ac6861e211e7cfe8f7d9f/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f68746d6c352d6f726967696e616c2d776f72646d61726b2e737667"><img src="https://camo.githubusercontent.com/bfa71fe5e1eb3ca57a7e4ef9c6b2ca21414c4fdab27ac6861e211e7cfe8f7d9f/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f68746d6c352d6f726967696e616c2d776f72646d61726b2e737667" alt="HTML5" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" style="max-width: 100%;"></a>  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1f14c9c472b21cf8790a4fb6914be3a3181e957ecc2b397775f06a989d20cb37/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f637373332d6f726967696e616c2d776f72646d61726b2e737667"><img src="https://camo.githubusercontent.com/1f14c9c472b21cf8790a4fb6914be3a3181e957ecc2b397775f06a989d20cb37/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f637373332d6f726967696e616c2d776f72646d61726b2e737667" alt="CSS3" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" style="max-width: 100%;"></a>  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3523bd4e344ec5909336e3891b7511da62905e8953381f6fa69c11983e8fd9f6/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f626f6f7473747261702d706c61696e2e737667"><img src="https://camo.githubusercontent.com/3523bd4e344ec5909336e3891b7511da62905e8953381f6fa69c11983e8fd9f6/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f626f6f7473747261702d706c61696e2e737667" alt="Bootstrap" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" style="max-width: 100%;"></a>  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/34be724565315ff2235ad3237bb21f3db805f559e94b878ce7cd722e4e358cac/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f736173732d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/34be724565315ff2235ad3237bb21f3db805f559e94b878ce7cd722e4e358cac/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f736173732d6f726967696e616c2e737667" alt="Sass" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" style="max-width: 100%;"></a>  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b44c84ce9c2fd580a8df419ea97d086de4b40ac53f96d3f76039c459b291c106/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f7765627061636b2d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/b44c84ce9c2fd580a8df419ea97d086de4b40ac53f96d3f76039c459b291c106/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f7765627061636b2d6f726967696e616c2e737667" alt="Webpack" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" style="max-width: 100%;"></a>  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b81456c0e15928e93c1e5f4d06b6a6938718d8f106a8169a570cd42b5e32f608/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f72656475782d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/b81456c0e15928e93c1e5f4d06b6a6938718d8f106a8169a570cd42b5e32f608/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f72656475782d6f726967696e616c2e737667" alt="Redux" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" style="max-width: 100%;"></a>  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5ef323398644d0544cbf5284d118cd027594a32f1ad973d13667f169d245e382/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6c6f676f2d7469746c652e737667"><img src="https://camo.githubusercontent.com/5ef323398644d0544cbf5284d118cd027594a32f1ad973d13667f169d245e382/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6c6f676f2d7469746c652e737667" alt="Chart.js" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" style="max-width: 100%;"></a>  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2565a785189e0dccadaa91c5a6a4dc2d872ea848193f93f52aec55b7e854b3fc/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f70686f746f73686f702d706c61696e2e737667"><img src="https://camo.githubusercontent.com/2565a785189e0dccadaa91c5a6a4dc2d872ea848193f93f52aec55b7e854b3fc/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f70686f746f73686f702d706c61696e2e737667" alt="Photoshop" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" style="max-width: 100%;"></a>  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/db639beaeee1c24ed7979a95becbfb0e8067e8e0526d7ce3a74dcb488e6d41fc/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6669676d612d69636f6e2e737667"><img src="https://camo.githubusercontent.com/db639beaeee1c24ed7979a95becbfb0e8067e8e0526d7ce3a74dcb488e6d41fc/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6669676d612d69636f6e2e737667" alt="Figma" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" style="max-width: 100%;"></a>  
-</div>
-</td><td valign="top" width="33%">
-<h3 dir="auto"><a id="user-content-backend" class="anchor" aria-hidden="true" href="#backend"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Backend</h3>
-<div align="center" dir="auto">  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8cba877c9729b9af2c1e0952ce007c05a4be5bc723d56e50cf2f9f9c384a9d8e/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f7068702d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/8cba877c9729b9af2c1e0952ce007c05a4be5bc723d56e50cf2f9f9c384a9d8e/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f7068702d6f726967696e616c2e737667" alt="PHP" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/php-original.svg" style="max-width: 100%;"></a>  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/59a85b448aad371c42861b800fd8d1442f1a454404c4c0def396af80b9e14313/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6c61726176656c2d706c61696e2d776f72646d61726b2e737667"><img src="https://camo.githubusercontent.com/59a85b448aad371c42861b800fd8d1442f1a454404c4c0def396af80b9e14313/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6c61726176656c2d706c61696e2d776f72646d61726b2e737667" alt="Laravel" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" style="max-width: 100%;"></a>  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ef8a5aaa11f861e3692439d030c83a18d6d5ebc387d6e74ca4bba728aaeac7ad/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6d7973716c2d6f726967696e616c2d776f72646d61726b2e737667"><img src="https://camo.githubusercontent.com/ef8a5aaa11f861e3692439d030c83a18d6d5ebc387d6e74ca4bba728aaeac7ad/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6d7973716c2d6f726967696e616c2d776f72646d61726b2e737667" alt="MySQL" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" style="max-width: 100%;"></a>  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e643754982a9dba595811285c08c4667f1062a17d9e7eca8dd16b43995bf372b/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6d6f6e676f64622d6f726967696e616c2d776f72646d61726b2e737667"><img src="https://camo.githubusercontent.com/e643754982a9dba595811285c08c4667f1062a17d9e7eca8dd16b43995bf372b/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6d6f6e676f64622d6f726967696e616c2d776f72646d61726b2e737667" alt="MongoDB" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" style="max-width: 100%;"></a>  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/48c9507b62d83559dc3aef4f3951293b15ab2f5fa1029bdf6ec42f9fa062e775/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6e6f64656a732d6f726967696e616c2d776f72646d61726b2e737667"><img src="https://camo.githubusercontent.com/48c9507b62d83559dc3aef4f3951293b15ab2f5fa1029bdf6ec42f9fa062e775/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6e6f64656a732d6f726967696e616c2d776f72646d61726b2e737667" alt="Node.js" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" style="max-width: 100%;"></a>  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/93acca6a99de2894799bf5e78396c83a682e46a4b1d98aa3127ae7b25c3754b6/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f657870726573732d6f726967696e616c2d776f72646d61726b2e737667"><img src="https://camo.githubusercontent.com/93acca6a99de2894799bf5e78396c83a682e46a4b1d98aa3127ae7b25c3754b6/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f657870726573732d6f726967696e616c2d776f72646d61726b2e737667" alt="Express.js" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" style="max-width: 100%;"></a>  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1485e92b04f4e5a9b05d6ca5d4f349e54e2a7e242e81b3c7df6660c86e31b02e/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6772617068716c2e706e67"><img src="https://camo.githubusercontent.com/1485e92b04f4e5a9b05d6ca5d4f349e54e2a7e242e81b3c7df6660c86e31b02e/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6772617068716c2e706e67" alt="GraphQL" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/graphql.png" style="max-width: 100%;"></a>  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e6e7e4e720421db277c77244ec2cdbc925f09ee2555a718b061f7063ed8c6799/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f66697265626173652e706e67"><img src="https://camo.githubusercontent.com/e6e7e4e720421db277c77244ec2cdbc925f09ee2555a718b061f7063ed8c6799/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f66697265626173652e706e67" alt="Firebase" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/firebase.png" style="max-width: 100%;"></a>  
-</div>
-</td><td valign="top" width="33%">
-<h3 dir="auto"><a id="user-content-others" class="anchor" aria-hidden="true" href="#others"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Others</h3>
-<div align="center" dir="auto">  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b7ea09b0c030ae14623cfc3a52ab3ee0d07e0259a1b230139e65ba00454327c9/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6769742d73636d2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/b7ea09b0c030ae14623cfc3a52ab3ee0d07e0259a1b230139e65ba00454327c9/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6769742d73636d2d69636f6e2e737667" alt="Git" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" style="max-width: 100%;"></a>  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6386100a1c3ba57e20dbfb04e59cb057d4210332eeafd510a5f77f4af1c604cb/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6769746c61622e737667"><img src="https://camo.githubusercontent.com/6386100a1c3ba57e20dbfb04e59cb057d4210332eeafd510a5f77f4af1c604cb/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6769746c61622e737667" alt="GitLab" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" style="max-width: 100%;"></a>  
-</div>
-</td></tr></tbody></table>
-<a href="https://www.php.net/" target="_blank">
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-</a>
-<a href="https://laravel.com/" target="_blank">
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-</a>
-<a href="https://developer.mozilla.org/" target="_blank">
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-</a>
-<a href="https://reactjs.org/" target="_blank">
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-</a>
-<a href="https://graphql.org/" target="_blank">
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-</a>
-<a href="https://nodejs.dev/" target="_blank">
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-</a>
-<a href="https://dev.mysql.com/" target="_blank">
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-</a>
-<a href="https://git-scm.com/" target="_blank">
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-</a>
-<a href="https://stripe.com/docs/terminal" target="_blank">
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-</a>
+   <tbody>
+      <tr>
+         <td valign="top" width="33%">
+            ## Programming Languages
+           <div align="center" dir="auto">
+               <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" height="50" style="max-width: 100%;">
+               </a>
+               <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="50" style="max-width: 100%;">
+               </a>
+               <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="50" style="max-width: 100%;">
+               </a>
+               <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" height="50" style="max-width: 100%;">
+               </a>
+           </div>
+         </td>
+         <td valign="top" width="33%">
+            ## Frontend Development
+           <div align="center" dir="auto">
+               <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" height="50" style="max-width: 100%;">
+               </a>
+               <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
+                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" height="50" style="max-width: 100%;">
+               </a>
+               <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" height="50" style="max-width: 100%;">
+               </a>
+               <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
+                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="50" style="max-width: 100%;">
+               </a>
+               <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="50" style="max-width: 100%;">
+               </a>
+               <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg">
+                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" height="50" style="max-width: 100%;">
+               </a>
+               <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg">
+                  <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" height="50" style="max-width: 100%;">
+               </a>
+           </div>
+         </td>
+         <td valign="top" width="33%">
+            ## Backend Development & Framework
+           <div align="center" dir="auto">
+               <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="50" style="max-width: 100%;">
+               </a>
+               <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
+                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" height="50" style="max-width: 100%;">
+               </a>
+               <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
+                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" height="50" style="max-width: 100%;">
+               </a>
+               <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg">
+                  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" height="50" style="max-width: 100%;">
+               </a>
+           </div>
+         </td>
+         <td valign="top" width="33%">
+            ## Database
+           <div align="center" dir="auto">
+               <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="50" style="max-width: 100%;">
+               </a>
+               <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="50" style="max-width: 100%;">
+               </a>
+               <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
+                  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="microsoft" height="50" style="max-width: 100%;">
+               </a>
+               <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg">
+                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" height="50" style="max-width: 100%;">
+               </a>
+           </div>
+         </td>
+         <td valign="top" width="33%">
+            ## Other
+           <div align="center" dir="auto">
+               <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+                  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="50" style="max-width: 100%;">
+               </a>
+               <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+                  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="getpostman" height="50" style="max-width: 100%;">
+               </a>
+               <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="50" style="max-width: 100%;">
+               </a>
+               <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+                  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50" style="max-width: 100%;">
+               </a>
+           </div>
+         </td>
+      </tr>
+   </tbody>
+</table>
