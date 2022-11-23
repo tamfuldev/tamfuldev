@@ -14,7 +14,7 @@
    <tbody>
       <tr>
          <td valign="top" width="20%">
-            ## Programming Languages
+            <h4>Programming Languages</h4><br>
            <div align="center" dir="auto">
                <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" height="50" style="max-width: 100%;">
@@ -31,7 +31,7 @@
            </div>
          </td>
          <td valign="top" width="20%">
-            ## Frontend Development
+            <h4>Frontend Development</h4><br>
            <div align="center" dir="auto">
                <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" height="50" style="max-width: 100%;">
@@ -57,7 +57,7 @@
            </div>
          </td>
          <td valign="top" width="20%">
-            ## Backend Development & Framework
+            <h4>Backend Development & Framework</h4><br>
            <div align="center" dir="auto">
                <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="50" style="max-width: 100%;">
@@ -74,7 +74,7 @@
            </div>
          </td>
          <td valign="top" width="20%">
-            ## Database
+            <h4>Database</3><br>
            <div align="center" dir="auto">
                <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="50" style="max-width: 100%;">
@@ -91,7 +91,7 @@
            </div>
          </td>
          <td valign="top" width="20%">
-            ## Other
+            <h4>Other</h4><br>
            <div align="center" dir="auto">
                <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
                   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="50" style="max-width: 100%;">
@@ -104,6 +104,30 @@
                </a>
                <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
                   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50" style="max-width: 100%;">
+               </a>
+           </div>
+         </td>
+      </tr>
+   </tbody>
+</table>
+
+## Social:
+<table>
+   <tbody>
+      <tr>
+         <td valign="top" width="50%">
+            <h4>Github</h4><br>
+           <div align="center" dir="auto">
+               <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" height="50" style="max-width: 100%;">
+               </a>
+           </div>
+         </td>
+         <td valign="top" width="50%">
+            <h4>MXH</h4><br>
+           <div align="center" dir="auto">
+               <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" height="50" style="max-width: 100%;">
                </a>
            </div>
          </td>
