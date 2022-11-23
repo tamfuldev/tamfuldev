@@ -8,14 +8,12 @@
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: tngoctam2303001@gmail.com;
 ```
->
->
->
+<br><br><br><br>
 ## Skills:
 <table>
    <tbody>
       <tr>
-         <td valign="top" width="33%">
+         <td valign="top" width="20%">
             ## Programming Languages
            <div align="center" dir="auto">
                <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
@@ -32,7 +30,7 @@
                </a>
            </div>
          </td>
-         <td valign="top" width="33%">
+         <td valign="top" width="20%">
             ## Frontend Development
            <div align="center" dir="auto">
                <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
@@ -58,7 +56,7 @@
                </a>
            </div>
          </td>
-         <td valign="top" width="33%">
+         <td valign="top" width="20%">
             ## Backend Development & Framework
            <div align="center" dir="auto">
                <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
@@ -75,7 +73,7 @@
                </a>
            </div>
          </td>
-         <td valign="top" width="33%">
+         <td valign="top" width="20%">
             ## Database
            <div align="center" dir="auto">
                <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
@@ -92,7 +90,7 @@
                </a>
            </div>
          </td>
-         <td valign="top" width="33%">
+         <td valign="top" width="20%">
             ## Other
            <div align="center" dir="auto">
                <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
