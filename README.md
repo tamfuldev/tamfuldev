@@ -2,14 +2,14 @@
 
 <img width="400" height="300" src="programmer.gif" align="right" alt="GIF"/>
 
-## Talking about Personal Stuffs:
+## Talking about me:
 ```
 - 🌱 I’m currently learning NodeJs and Docker Learning;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: tngoctam2303001@gmail.com;
 ```
 <br><br><br><br>
-## Skills:
+## Skills about me:
 <table>
    <tbody>
       <tr>
@@ -108,32 +108,24 @@
                <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
                   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50" style="max-width: 100%;">
                </a>
+               <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
+                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="50" style="max-width: 100%;">
+               </a>
+               <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
+                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="50" style="max-width: 100%;">
+               </a>
            </div>
          </td>
       </tr>
    </tbody>
 </table>
 
-## Social:
-<table>
-   <tbody>
-      <tr>
-         <td valign="top" width="50%">
-            <h4>Github</h4><br>
-           <div align="center" dir="auto">
-               <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" height="50" style="max-width: 100%;">
-               </a>
-           </div>
-         </td>
-         <td valign="top" width="50%">
-            <h4>MXH</h4><br>
-           <div align="center" dir="auto">
-               <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" height="50" style="max-width: 100%;">
-               </a>
-           </div>
-         </td>
-      </tr>
-   </tbody>
-</table>
+## Social about me:
+```
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="50" style="max-width: 100%;">
+</a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" align="right">
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="50" style="max-width: 100%;">
+</a>
+```
