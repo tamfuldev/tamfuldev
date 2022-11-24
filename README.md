@@ -31,9 +31,9 @@
                <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="50" style="max-width: 100%;">
                </a>
-               <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+               <!-- <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" height="50" style="max-width: 100%;">
-               </a>
+               </a> -->
            </div>
          </td>
          <td valign="top" width="20%">
@@ -56,9 +56,9 @@
                <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg">
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" height="50" style="max-width: 100%;">
                </a>
-               <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg">
+               <!-- <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg">
                   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" height="50" style="max-width: 100%;">
-               </a>
+               </a> -->
            </div>
          </td>
          <td valign="top" width="20%">
@@ -69,12 +69,12 @@
                <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" height="50" style="max-width: 100%;">
                </a>
-               <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
+               <!-- <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" height="50" style="max-width: 100%;">
-               </a>
-               <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg">
+               </a> -->
+               <!-- <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg">
                   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" height="50" style="max-width: 100%;">
-               </a>
+               </a> -->
            </div>
          </td>
          <td valign="top" width="20%">
@@ -88,9 +88,9 @@
                <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
                   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="microsoft" height="50" style="max-width: 100%;">
                </a>
-               <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg">
+               <!-- <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg">
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" height="50" style="max-width: 100%;">
-               </a>
+               </a> -->
            </div>
          </td>
          <td valign="top" width="20%">
@@ -107,9 +107,9 @@
                <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
                   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50" style="max-width: 100%;">
                </a>
-               <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
+               <!-- <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="50" style="max-width: 100%;">
-               </a>
+               </a> -->
            </div>
          </td>
       </tr>
