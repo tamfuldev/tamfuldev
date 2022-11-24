@@ -129,6 +129,12 @@
       <img src="https://camo.githubusercontent.com/5e3d78e5310a41c0667e07077cf93596229de398b154b83885dc068874ed5365/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333145373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="github" height="50" style="max-width: 100%;">
    </a>
 </div>
+<br><br>
+##
 <div align="center" dir="auto">
-   <h2>Thanks very much!</h2>
+   <div style="width:100%;height:0;padding-bottom:75%;position:relative;">
+      <iframe src="https://giphy.com/embed/l3q2FnW3yZRJVZH2g" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+   </div>
+   <p><a href="https://giphy.com/gifs/animation-animated-l3q2FnW3yZRJVZH2g">via GIPHY</a></p>
 </div>
+##
