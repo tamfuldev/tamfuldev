@@ -120,11 +120,9 @@
 </table>
 
 ## Social about me:
-```
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">
    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="50" style="max-width: 100%;">
 </a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" align="right">
    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="50" style="max-width: 100%;">
 </a>
-```
