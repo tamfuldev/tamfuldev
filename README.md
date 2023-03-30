@@ -128,6 +128,3 @@
 </div>
 <br><br>
 <h2 dir="auto"></h2>
-<div align="center" dir="auto">
-   <img src="giphy.gif" alt="thanks-very-much" style="max-width: 100%;">
-</div>
