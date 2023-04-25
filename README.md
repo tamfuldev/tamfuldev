@@ -34,8 +34,8 @@ I'm Tran Ngoc Tam (ゴックタム)
 </a>
 
 ### SOCIAL ABOUT ME
-   <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/gokkutamu">
-      <img src="https://camo.githubusercontent.com/b2d1ae072c968dbeaf2232f0e1071ae5a7b218b11caec1ae5c69c10ef370a3cc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333234323932652e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" height="50" style="max-width: 100%;">
+   <a target="_blank" rel="noopener noreferrer nofollow" href="[**https://github.com/gokkutamu**](https://www.instagram.com/ngoc.tam.2303/)">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" data-canonical-src="https://img.shields.io/badge/instagram-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="instagram" height="50" style="max-width: 100%;">
    </a>
 
 
