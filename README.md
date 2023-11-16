@@ -38,6 +38,7 @@ I'm Tran Ngoc Tam (ゴックタム)
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" data-canonical-src="https://img.shields.io/badge/instagram-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="instagram" height="50" style="max-width: 100%;">
    </a>
 
-
-   <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="tam001" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://vn.linkedin.com/in/tam001?trk=profile-badge">Tran Ngoc Tam</a></div>
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/ngoc-tam-036578216/" align="right">
+      <img src="https://camo.githubusercontent.com/5e3d78e5310a41c0667e07077cf93596229de398b154b83885dc068874ed5365/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333145373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="github" height="50" style="max-width: 100%;">
+   </a>
               
