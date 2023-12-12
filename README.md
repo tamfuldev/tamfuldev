@@ -4,11 +4,11 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Programar sin Título Universitario](https://dev.to/javascriptchile/programar-sin-titulo-universitario-2c42)
 - [I made a simple website 100% for FREE! 🤯](https://dev.to/best_codes/i-made-a-simple-website-100-for-free-hnf)
 - [Alembic with Async SQLAlchemy](https://dev.to/mbrignone/alembic-with-async-sqlalchemy-1ga)
 - [An open source Spotify-like yearly recap using your Github contributions](https://dev.to/dhruvagarwal/an-open-source-spotify-like-yearly-recap-using-your-github-contributions-43p)
 - [Hardening Cluster Security in Google Kubernetes Engine](https://dev.to/monarene/hardening-cluster-security-in-google-kubernetes-engine-3n30)
-- [Implementing HMR for Pinia in NativeScript-Vue with Webpack 5](https://dev.to/vladyslav_uk/implementing-hmr-for-pinia-in-nativescript-vue-with-webpack-5-580l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
