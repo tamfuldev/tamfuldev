@@ -4,11 +4,11 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [🔥 Top 9 Tech Trends of 2024 &lpar;Key Insights &amp; Forecasts&rpar;](https://dev.to/codewithshahan/top-9-tech-trends-of-2024-key-insights-forecasts-3mk0)
+- [What is Machine Learning?](https://dev.to/terieyenike/what-is-machine-learning-3j3e)
 - [Understanding the Event Loop in JavaScript](https://dev.to/ryver_dev/understanding-the-event-loop-in-javascript-4051)
+- [Ruby on Rails Payment Gateway Integration with Rapyd API](https://dev.to/rapyd/ruby-on-rails-payment-gateway-integration-with-rapyd-api-14l6)
 - [Discover da RocketSeat - Módulo 1.](https://dev.to/licia-afk/discover-da-rocketseat-modulo-1-2hb)
-- [Which Skills Are Essential for Juniors Front End Developers? ✅ 👩‍💻](https://dev.to/brian_curricular/which-skills-are-essential-for-juniors-front-end-developers-4lhm)
-- [Unit Test Like a Pro: Automock, My Open Source Answer to Mocking Frustration 🤓💡🎭](https://dev.to/omermorad/unit-test-like-a-pro-automock-my-open-source-answer-to-mocking-frustration-31p4)
-- [Getting Started With Kubectl: A Guide To Kubernetes](https://dev.to/fizy_hector/getting-started-with-kubectl-a-guide-to-kubernetes-2e7n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
