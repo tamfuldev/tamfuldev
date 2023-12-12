@@ -2,13 +2,13 @@
 
 ---
 
-# 📕Latest blog
+# Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-# 📕Latest blog
+# Latest StackOverflow Activity
 <table>
   <tr><th>Title</th><th>Link</th></tr>
   <!-- STACKOVERFLOW:START -->
@@ -24,3 +24,5 @@
 <!--END_SECTION:activity-->
 
 </details>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trngtam10d&" alt="trngtam10d" /></p>
