@@ -16,7 +16,7 @@
 # Latest StackOverflow Activity
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><tr><td>RFID Door locks integration with Laravel</td><td>https://stackoverflow.com/questions/77646370/rfid-door-locks-integration-with-laravel</td></tr><tr><td>SceneKit - extra t geometry depth into an image</td><td>https://stackoverflow.com/questions/77646368/scenekit-extra-t-geometry-depth-into-an-image</td></tr><tr><td>Create xml from attributes in a text file</td><td>https://stackoverflow.com/questions/77646366/create-xml-from-attributes-in-a-text-file</td></tr><tr><td>Justify Content for DialogActions in MudBlazor</td><td>https://stackoverflow.com/questions/77646364/justify-content-for-dialogactions-in-mudblazor</td></tr><tr><td>Home Page 404 Error - ASP.NET Website on IIS</td><td>https://stackoverflow.com/questions/77646362/home-page-404-error-asp-net-website-on-iis</td></tr><!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:START --><tr><td>Jenkins Template job for AnsibleTower</td><td>https://stackoverflow.com/questions/77646710/jenkins-template-job-for-ansibletower</td></tr><tr><td>Save JSON file from datagridview.NET</td><td>https://stackoverflow.com/questions/77646709/save-json-file-from-datagridview-net</td></tr><tr><td>Azure ML batch endpoint JobOutputType error</td><td>https://stackoverflow.com/questions/77646708/azure-ml-batch-endpoint-joboutputtype-error</td></tr><tr><td>R package ebal for Entropy Balancing: Error message</td><td>https://stackoverflow.com/questions/77646707/r-package-ebal-for-entropy-balancing-error-message</td></tr><tr><td>Filter OData always returns all entries</td><td>https://stackoverflow.com/questions/77646706/filter-odata-always-returns-all-entries</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 
 ---
