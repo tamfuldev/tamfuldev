@@ -16,8 +16,7 @@
 # Latest StackOverflow Activity
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START -->
-  <!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:START --><tr><td>HTML: Social Media Meta Tag &quot;og:image&quot; not working for iOS/macOS WhatsApp</td><td>https://stackoverflow.com/questions/77644633/html-social-media-meta-tag-ogimage-not-working-for-ios-macos-whatsapp</td></tr><tr><td>how to calculate profits from re-occurring, combined order from reoccurring and combined invoice no?</td><td>https://stackoverflow.com/questions/77644632/how-to-calculate-profits-from-re-occurring-combined-order-from-reoccurring-and</td></tr><tr><td>Connecting Alpaca to Python in AWS</td><td>https://stackoverflow.com/questions/77644631/connecting-alpaca-to-python-in-aws</td></tr><tr><td>Flutter google_sign_in Unhandled Exception: PlatformException&lpar;sign_in_failed, com.google.android.gms.common.api.ApiException: 10: , null, null&rpar;</td><td>https://stackoverflow.com/questions/77644630/flutter-google-sign-in-unhandled-exception-platformexceptionsign-in-failed-co</td></tr><tr><td>composer dependencies injection</td><td>https://stackoverflow.com/questions/77644629/composer-dependencies-injection</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 
 ---
