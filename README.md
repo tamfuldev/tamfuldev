@@ -4,11 +4,11 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [🔥 Top 9 Tech Trends of 2024 &lpar;Key Insights &amp; Forecasts&rpar;](https://dev.to/codewithshahan/top-9-tech-trends-of-2024-key-insights-forecasts-3mk0)
-- [What is Machine Learning?](https://dev.to/terieyenike/what-is-machine-learning-3j3e)
-- [Understanding the Event Loop in JavaScript](https://dev.to/ryver_dev/understanding-the-event-loop-in-javascript-4051)
-- [Ruby on Rails Payment Gateway Integration with Rapyd API](https://dev.to/rapyd/ruby-on-rails-payment-gateway-integration-with-rapyd-api-14l6)
-- [Discover da RocketSeat - Módulo 1.](https://dev.to/licia-afk/discover-da-rocketseat-modulo-1-2hb)
+- [An open source Spotify-like yearly recap using your Github contributions](https://dev.to/dhruvagarwal/an-open-source-spotify-like-yearly-recap-using-your-github-contributions-43p)
+- [Hardening Cluster Security in Google Kubernetes Engine](https://dev.to/monarene/hardening-cluster-security-in-google-kubernetes-engine-3n30)
+- [Implementing HMR for Pinia in NativeScript-Vue with Webpack 5](https://dev.to/vladyslav_uk/implementing-hmr-for-pinia-in-nativescript-vue-with-webpack-5-580l)
+- [Edge Functions: Node and native npm compatibility](https://dev.to/supabase/edge-functions-node-and-native-npm-compatibility-77f)
+- [🔥 Top 9 Tech Trends Insights &amp; Industry Impacts 2024](https://dev.to/codewithshahan/top-9-tech-trends-of-2024-key-insights-forecasts-3mk0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
