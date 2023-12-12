@@ -16,8 +16,7 @@
 # 📕Latest blog
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START -->
-  <!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:START --><tr><td>Problem with jumping list elements with onMove &lpar;SwiftUI&rpar;</td><td>https://stackoverflow.com/questions/77644548/problem-with-jumping-list-elements-with-onmove-swiftui</td></tr><tr><td>Error reporting when transmitting signal to parent window in Qt</td><td>https://stackoverflow.com/questions/77644543/error-reporting-when-transmitting-signal-to-parent-window-in-qt</td></tr><tr><td>Secure Spring GW route with rewritePath and token relay</td><td>https://stackoverflow.com/questions/77644539/secure-spring-gw-route-with-rewritepath-and-token-relay</td></tr><tr><td>Add video&#39;s link using Dialogflow CX</td><td>https://stackoverflow.com/questions/77644538/add-videos-link-using-dialogflow-cx</td></tr><tr><td>this.props.history.replace in react-router-dom v6</td><td>https://stackoverflow.com/questions/77644536/this-props-history-replace-in-react-router-dom-v6</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 
 ---
