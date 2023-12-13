@@ -4,11 +4,11 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Welcome Thread - v255](https://dev.to/devteam/welcome-thread-v255-2m85)
+- [The Strictest TypeScript Config](https://dev.to/what1s1ove/the-strictest-typescript-config-mad)
+- [Install and Configure CloudWatch Agent on Windows EC2 using System Manager](https://dev.to/osamagamal/install-and-configure-cloudwatch-agent-on-windows-ec2-using-system-manager-419i)
 - [[TechStory]: How to add distributed tracing using Jaeger and OpenTelemetry into a Golang application](https://dev.to/arshamalh/techstory-how-to-add-distributed-tracing-using-jaeger-and-opentelemetry-into-a-golang-application-1p37)
 - [How to Get Preview Environments for Every Pull Request](https://dev.to/livecycle/how-to-get-preview-environments-for-every-pull-request-3fg0)
-- [Relational Algebra Is the Root of SQL Problems](https://dev.to/esproc_spl/relational-algebra-is-the-root-of-sql-problems-1cg5)
-- [StyleX - The new Game changer?](https://dev.to/tani1964/stylex-the-new-game-changer-54mn)
-- [Swift and Strategic Response: Dealing with Exposed IAM Access Keys](https://dev.to/aws-heroes/swift-and-strategic-response-dealing-with-exposed-iam-access-keys-4a6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
