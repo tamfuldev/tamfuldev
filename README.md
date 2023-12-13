@@ -4,11 +4,11 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is New Tech Always Better?](https://dev.to/hasanelsherbiny/is-new-tech-always-better-2hdd)
+- [Intro to Python&#39;s &quot;Lock&quot; w/ Flask](https://dev.to/thetrebelcc/intro-to-pythons-lock-w-flask-2o88)
 - [Programar sin Título Universitario](https://dev.to/javascriptchile/programar-sin-titulo-universitario-2c42)
+- [Open Source Document Signing: Revolutionizing Digital Authentication](https://dev.to/opensign/open-source-document-signing-revolutionizing-digital-authentication-33m0)
 - [I made a simple website 100% for FREE! 🤯](https://dev.to/best_codes/i-made-a-simple-website-100-for-free-hnf)
-- [Alembic with Async SQLAlchemy](https://dev.to/mbrignone/alembic-with-async-sqlalchemy-1ga)
-- [An open source Spotify-like yearly recap using your Github contributions](https://dev.to/dhruvagarwal/an-open-source-spotify-like-yearly-recap-using-your-github-contributions-43p)
-- [Hardening Cluster Security in Google Kubernetes Engine](https://dev.to/monarene/hardening-cluster-security-in-google-kubernetes-engine-3n30)
 <!-- BLOG-POST-LIST:END -->
 
 ---
