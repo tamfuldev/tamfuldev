@@ -4,7 +4,7 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [What Programming Languages are Employed for Developing Web Applications?](https://dev.to/dhruvjoshi9/what-programming-languages-are-employed-for-developing-web-applications-7kg)
+- [New Meteor.js 2.14, updates to CLI and Tracker changes](https://dev.to/meteor/new-meteorjs-214-updates-to-cli-and-tracker-changes-3k49)
 - [Demystifying Deref Coercion in Rust](https://dev.to/melbournebaldove/demystifying-deref-coercion-in-rust-4kbn)
 - [Make your background task easy with Hangfire in .NET](https://dev.to/ifourtechnolab/make-your-background-task-easy-with-hangfire-in-net-3kfe)
 - [Color Encyclopedia](https://dev.to/colortools/color-encyclopedia-298e)
