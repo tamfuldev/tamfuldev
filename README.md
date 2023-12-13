@@ -4,11 +4,11 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Nesting web components in vanilla JavaScript](https://dev.to/logrocket/nesting-web-components-in-vanilla-javascript-hhb)
 - [10 Tips for junior developers](https://dev.to/nandinishinduja/10-tips-for-junior-developers-kfb)
 - [Circular liquid loader using html css](https://dev.to/freecodez/circular-liquid-loader-using-html-css-4lbj)
 - [12 Senior Developer Traits Junior Developers Need To Master 🔥](https://dev.to/dragosnedelcu/12-senior-developer-traits-junior-developers-need-to-master-285m)
 - [When you want to use js/ts to obtain a large amount of network data, you may want to try x-crawl](https://dev.to/coderhxl/when-you-want-to-use-jsts-to-obtain-a-large-amount-of-network-data-you-may-want-to-try-x-crawl-4g8c)
-- [Application Binary Interfaces &lpar;ABIs&rpar; for Smart Contracts](https://dev.to/scofieldidehen/application-binary-interfaces-abis-for-smart-contracts-1lb7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
