@@ -4,11 +4,11 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Demo Highlight: Angles](https://dev.to/joestrout/demo-highlight-angles-56o3)
+- [&quot;Thoughts on Degrees and Bootcamps&quot;: CodeNewbie Podcast S26E7](https://dev.to/codenewbieteam/thoughts-on-degrees-and-bootcamps-codenewbie-podcast-s26e7-33eb)
+- [Bandit Level 17 Level 18](https://dev.to/christianpaez/bandit-level-17-level-18-5dgf)
+- [🤩 11 AMAZING Bookmarklets for Web Devs 🔖 🚀 &lpar;What Are They, Anyway? 🤔&rpar;](https://dev.to/best_codes/11-amazing-bookmarklets-for-web-devs-what-are-they-anyways--3pk6)
 - [Advent of Code 2023 - December 12th](https://dev.to/robvanderleek/advent-of-code-2023-december-12th-5a2g)
-- [Gana $50 dólares en créditos de AWS mientras aprendes sobre DevOps y AWS en español](https://dev.to/aws-builders/gana-50-dolares-en-creditos-de-aws-mientras-aprendes-sobre-devops-y-aws-en-espanol-mpp)
-- [Gana $50 dólares en créditos de AWS mientras aprendes sobre DevOps y AWS en español](https://dev.to/aws-espanol/gana-50-dolares-en-creditos-de-aws-mientras-aprendes-sobre-devops-y-aws-en-espanol-7k3)
-- [How to get good at competitive programming](https://dev.to/codewithshahan/how-to-get-good-at-competitive-programming-1dm7)
-- [Pains and solutions in localization for the web](https://dev.to/this-is-learning/pains-and-solutions-in-localization-for-the-web-3mdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
