@@ -4,11 +4,11 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Web scraping with cURL &lpar;fetching RAW HTML data&rpar;](https://dev.to/serpapi/web-scraping-with-curl-fetching-raw-html-data-5c6n)
 - [81 nextjs starters, don&#39;t reinvent the wheel](https://dev.to/johnrushx/81-nextjs-starters-so-that-u-dont-reinvent-the-wheel-35cl)
 - [My prediction for tech founders for 2024-2026](https://dev.to/johnrushx/my-prediction-for-tech-founders-for-2024-2026-2ap1)
 - [Supabase Branching](https://dev.to/supabase/supabase-branching-2m64)
 - [Demo Highlight: Angles](https://dev.to/joestrout/demo-highlight-angles-56o3)
-- [&quot;Thoughts on Degrees and Bootcamps&quot;: CodeNewbie Podcast S26E7](https://dev.to/codenewbieteam/thoughts-on-degrees-and-bootcamps-codenewbie-podcast-s26e7-33eb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
