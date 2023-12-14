@@ -4,11 +4,11 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to build a Google Meet AI assistant app in 10 minutes without coding](https://dev.to/bobur/how-to-build-a-google-meet-ai-assistant-app-in-10-minutes-without-coding-1g06)
 - [Generative AI Frameworks and Tools Every Developer Should Know!](https://dev.to/pavanbelagatti/generative-ai-frameworks-and-tools-every-developer-should-know-39jk)
 - [AWS Well-Architected Review in Action](https://dev.to/aws-heroes/aws-well-architected-review-in-action-15a9)
 - [Using ChatGPT To Translate React App into Over 40 Languages in Just 100 Seconds](https://dev.to/idurar/using-chatgpt-to-translate-react-app-into-over-40-languages-in-just-100-seconds-1c8n)
 - [Venciendo al Impostor: Cómo este Síndrome Puede Limitar tu Crecimiento en el Desarrollo de Software](https://dev.to/javascriptchile/venciendo-al-impostor-como-este-sindrome-puede-limitar-tu-crecimiento-en-el-desarrollo-de-software-55in)
-- [Setting up Next.js project with prisma](https://dev.to/isaacdyor/setting-up-nextjs-project-with-prisma-200j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
