@@ -4,11 +4,11 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Celebrating Small Achievements: The Key to Sustained Motivation in Your Development Projects](https://dev.to/marmariadev/celebrating-small-achievements-the-key-to-sustained-motivation-in-your-development-projects-2h45)
+- [Discussion of the Week: Which is your first programming language?](https://dev.to/devteam/discussion-of-the-week-money-or-passion-3kd5)
 - [A bit about Agile](https://dev.to/nandinishinduja/history-of-agile-mja)
 - [Supabase Auth: Identity Linking, Hooks, and HaveIBeenPwned integration](https://dev.to/supabase/supabase-auth-identity-linking-hooks-and-haveibeenpwned-integration-19e1)
 - [Agile Tools](https://dev.to/nandinishinduja/agile-tools-3c0m)
-- [Clean Code: Lições essenciais do terceiro capítulo](https://dev.to/giovannamoeller/clean-code-licoes-essenciais-do-terceiro-capitulo-488a)
-- [Impacts Of Not Setting Requests, Limits, and Quotas](https://dev.to/thenjdevopsguy/impacts-of-not-setting-requests-limits-and-quotas-5f4b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
