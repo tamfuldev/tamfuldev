@@ -4,11 +4,11 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [WWCode App Deploy Hackathon 2nd Place Winner: BragDoc](https://dev.to/eevajonnapanula/wwcode-app-deploy-hackathon-2nd-place-winner-bragdoc-58pk)
+- [Migrating from Jest to Vitest for your React Application](https://dev.to/opensauced/migrating-from-jest-to-vitest-for-your-react-application-1b75)
 - [OpenPose ControlNet: A Beginner&#39;s Guide](https://dev.to/novita_ai/openpose-controlnet-a-beginners-guide-3dm9)
 - [Free Online Courses](https://dev.to/brojenuel/free-online-courses-5f38)
 - [Building a Tech-Savvy Brand in the Sportswear Industry](https://dev.to/cristinematuran/building-a-tech-savvy-brand-in-the-sportswear-industry-2jkk)
-- [Stable Diffusion: The Ultimate Upscaler Guide](https://dev.to/novita_ai/stable-diffusion-the-ultimate-upscaler-guide-1de2)
-- [Refactoring a serverless application to use Step Functions third-party API call integration](https://dev.to/aws-builders/refactoring-a-serverless-application-to-use-step-functions-third-party-api-call-integration-4ogl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
