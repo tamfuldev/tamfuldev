@@ -4,11 +4,11 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Pretty Laravel x Tailwind emails](https://dev.to/jxd-dev/pretty-laravel-x-tailwind-emails-2145)
-- [Building a signature capture widget with an Appsmith Iframe and SignaturePad.js](https://dev.to/appsmith/building-a-signature-capture-widget-with-an-appsmith-iframe-and-signaturepadjs-fkn)
-- [9 Projects to Master Frontend Web Development in 2024 | **with resource**](https://dev.to/mukeshkuiry/9-projects-to-master-frontend-web-development-in-2024-with-resource-d0k)
-- [Convert Image Format In Javascript](https://dev.to/codeboxx/convert-image-format-in-javascript-5b49)
-- [Zod - TypeScript-first schema declaration and validation library #9](https://dev.to/nhannguyendevjs/zod-typescript-first-schema-declaration-and-validation-library-9-5gd6)
+- [Common Mistakes of Building a Productivity Tool](https://dev.to/devslovecoffee/common-mistakes-of-building-a-productivity-tool-52a0)
+- [The best and fastest cli generator for .ignore files](https://dev.to/neptunsk1y/the-best-and-fastest-cli-generator-for-ignore-files-19cp)
+- [🔥 Top 12 Github Repositories To Master NextJS 🏆](https://dev.to/random_ti/top-12-github-repositories-to-master-nextjs-34oe)
+- [Eleventy vs. Next.js for static site generation](https://dev.to/logrocket/eleventy-vs-nextjs-for-static-site-generation-c4)
+- [Efficient Workflow in Frontend development with React.js](https://dev.to/begenchg/efficient-workflow-in-frontend-development-with-reactjs-4bdg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
