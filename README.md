@@ -4,11 +4,11 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The best and fastest cli generator for .ignore files](https://dev.to/neptunsk1y/the-best-and-fastest-cli-generator-for-ignore-files-1p0i)
+- [Pitfalls in software design reasoning](https://dev.to/m0n0x41d/pitfalls-in-software-design-reasoning-36jh)
 - [Seasonal Surge in RPC Nodes: GetBlock Unveils Triple RPS Enhancement](https://dev.to/getblockapi/seasonal-surge-in-rpc-nodes-getblock-unveils-triple-rps-enhancement-aai)
 - [Apache APISIX plugin priority, a leaky abstraction?](https://dev.to/apisix/apache-apisix-plugin-priority-a-leaky-abstraction-4oj1)
 - [Final Year Project, Lungs Cancer Detection Project using machine learning](https://dev.to/freecodez/final-year-project-lungs-cancer-detection-project-using-machine-learning-5gb9)
-- [WWCode App Deploy Hackathon 2nd Place Winner: BragDoc](https://dev.to/eevajonnapanula/wwcode-app-deploy-hackathon-2nd-place-winner-bragdoc-58pk)
-- [Migrating from Jest to Vitest for your React Application](https://dev.to/opensauced/migrating-from-jest-to-vitest-for-your-react-application-1b75)
 <!-- BLOG-POST-LIST:END -->
 
 ---
