@@ -4,11 +4,11 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [🎉Monitor your Javascript application like a pro🧙‍♂️💫](https://dev.to/odigos/monitor-your-javascript-application-like-a-pro-581p)
+- [The best and fastest cli generator for .ignore files](https://dev.to/neptunsk1y/the-best-and-fastest-cli-generator-for-ignore-files-bfl)
+- [Use @use e não @import no SASS](https://dev.to/doccaio/use-use-e-nao-import-no-sass-3dde)
 - [Automated Roblox Limited Items Sniping with Python: Introducing AMP UGC Sniper](https://dev.to/incasedname/automated-roblox-limited-items-sniping-with-python-introducing-amp-ugc-sniper-i5e)
 - [JavaScript Snow](https://dev.to/codebubb/javascript-snow-52im)
-- [Load Balancers Explained](https://dev.to/gpiechnik/load-balancers-explained-14k3)
-- [The best and fastest cli generator for .ignore files](https://dev.to/neptunsk1y/the-best-and-fastest-cli-generator-for-ignore-files-1p0i)
-- [Pitfalls in software design reasoning](https://dev.to/m0n0x41d/pitfalls-in-software-design-reasoning-36jh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
