@@ -4,11 +4,11 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Seasonal Surge in RPC Nodes: GetBlock Unveils Triple RPS Enhancement](https://dev.to/getblockapi/seasonal-surge-in-rpc-nodes-getblock-unveils-triple-rps-enhancement-aai)
+- [Apache APISIX plugin priority, a leaky abstraction?](https://dev.to/apisix/apache-apisix-plugin-priority-a-leaky-abstraction-4oj1)
+- [Final Year Project, Lungs Cancer Detection Project using machine learning](https://dev.to/freecodez/final-year-project-lungs-cancer-detection-project-using-machine-learning-5gb9)
 - [WWCode App Deploy Hackathon 2nd Place Winner: BragDoc](https://dev.to/eevajonnapanula/wwcode-app-deploy-hackathon-2nd-place-winner-bragdoc-58pk)
 - [Migrating from Jest to Vitest for your React Application](https://dev.to/opensauced/migrating-from-jest-to-vitest-for-your-react-application-1b75)
-- [OpenPose ControlNet: A Beginner&#39;s Guide](https://dev.to/novita_ai/openpose-controlnet-a-beginners-guide-3dm9)
-- [Free Online Courses](https://dev.to/brojenuel/free-online-courses-5f38)
-- [Building a Tech-Savvy Brand in the Sportswear Industry](https://dev.to/cristinematuran/building-a-tech-savvy-brand-in-the-sportswear-industry-2jkk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
