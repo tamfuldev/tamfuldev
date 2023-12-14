@@ -4,11 +4,11 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [🎉Monitor your Javascript application like a pro🧙‍♂️💫](https://dev.to/odigos/monitor-your-javascript-application-like-a-pro-581p)
-- [The best and fastest cli generator for .ignore files](https://dev.to/neptunsk1y/the-best-and-fastest-cli-generator-for-ignore-files-bfl)
-- [Use @use e não @import no SASS](https://dev.to/doccaio/use-use-e-nao-import-no-sass-3dde)
-- [Automated Roblox Limited Items Sniping with Python: Introducing AMP UGC Sniper](https://dev.to/incasedname/automated-roblox-limited-items-sniping-with-python-introducing-amp-ugc-sniper-i5e)
-- [JavaScript Snow](https://dev.to/codebubb/javascript-snow-52im)
+- [How to Do Authorization - A Decision Framework: Part 1](https://dev.to/zenstack/how-to-do-authorization-a-decision-framework-part-1-4ado)
+- [The Advent of Monitoring, Day 3: Easy Monitoring for Self-Hosted Projects with Checkly](https://dev.to/checkly/the-advent-of-monitoring-day-3-easy-monitoring-for-self-hosted-projects-with-checkly-38c9)
+- [Deploying a Go backend to Kubernetes with Automatic Cluster Provisioning](https://dev.to/encore/deploying-a-go-backend-to-kubernetes-with-automatic-cluster-provisioning-4omm)
+- [How to Create Fully Reusable React Components](https://dev.to/theodorusclarence/how-to-create-fully-reusable-react-components-5f8o)
+- [Understanding the Leaky Bucket Problem with Redis](https://dev.to/kingjotaro/understanding-the-leaky-bucket-problem-with-redis-35o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
