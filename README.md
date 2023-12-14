@@ -4,11 +4,11 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Setting up Next.js project with prisma](https://dev.to/isaacdyor/setting-up-nextjs-project-with-prisma-200j)
+- [Next.js Deploy as a Static Site using Github Pages](https://dev.to/lico/nextjs-deploy-as-static-site-using-github-pages-3bhm)
 - [Web scraping with cURL &lpar;fetching RAW HTML data&rpar;](https://dev.to/serpapi/web-scraping-with-curl-fetching-raw-html-data-5c6n)
 - [81 nextjs starters, don&#39;t reinvent the wheel](https://dev.to/johnrushx/81-nextjs-starters-so-that-u-dont-reinvent-the-wheel-35cl)
 - [My prediction for tech founders for 2024-2026](https://dev.to/johnrushx/my-prediction-for-tech-founders-for-2024-2026-2ap1)
-- [Supabase Branching](https://dev.to/supabase/supabase-branching-2m64)
-- [Demo Highlight: Angles](https://dev.to/joestrout/demo-highlight-angles-56o3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
