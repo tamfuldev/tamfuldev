@@ -4,11 +4,11 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Navigating the Cyber Battlefield: Unmasking Various Types of Online Threats 🤖](https://dev.to/layanyashoda/navigating-the-cyber-battlefield-unmasking-various-types-of-online-threats-2a5c)
+- [Ugly Sweater CSS: Spider-man.](https://dev.to/jarvisscript/ugly-sweater-css-spider-man-2ke2)
+- [Thank you Community Builder Leaders &#39;23](https://dev.to/aws-builders/thank-you-community-builder-leaders-23-82a)
 - [💳 Payments 101 for a Developer👨‍💻](https://dev.to/vedantkhairnar/payments-101-for-a-developer-1g4k)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-11d5)
-- [⭐Crafting Effective Documentation](https://dev.to/kibumpng/crafting-effective-documentation-4odj)
-- [🚀 Lambda Test Revolution: Master Mocking &amp; Slash Costs with HTTP-Interceptor!](https://dev.to/slsbytheodo/lambda-test-revolution-master-mocking-slash-costs-with-http-interceptor-1i9l)
-- [Use SQL without Databases](https://dev.to/qbentil/use-sql-without-databases-54on)
+- [10 Essential Concepts Every Developer Should Know 🚀](https://dev.to/baransel/10-essential-concepts-every-developer-should-know-5d3k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
