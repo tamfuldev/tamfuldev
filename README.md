@@ -4,11 +4,11 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [💳 Payments 101 for a Developer👨‍💻](https://dev.to/vedantkhairnar/payments-101-for-a-developer-1g4k)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-11d5)
+- [⭐Crafting Effective Documentation](https://dev.to/kibumpng/crafting-effective-documentation-4odj)
+- [🚀 Lambda Test Revolution: Master Mocking &amp; Slash Costs with HTTP-Interceptor!](https://dev.to/slsbytheodo/lambda-test-revolution-master-mocking-slash-costs-with-http-interceptor-1i9l)
 - [Use SQL without Databases](https://dev.to/qbentil/use-sql-without-databases-54on)
-- [Gradually upgrading a Meteor.js project to 3.0](https://dev.to/meteor/gradually-upgrading-a-meteorjs-project-to-30-5aj0)
-- [Einstein&#39;s special relativity, Distributed systems and state machines](https://dev.to/triyanox/einsteins-special-relativity-distributed-systems-and-state-machines-3n14)
-- [Knowledge Ascent: A Stairway Where Plateaus Lead to Descent](https://dev.to/iamthebuilder/knowledge-ascent-a-stairway-where-plateaus-lead-to-descent-194e)
-- [Introdução a templating em Go](https://dev.to/mfbmina/introducao-a-templating-em-go-42gf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
