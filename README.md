@@ -4,11 +4,11 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [5 GitHub Repos To Make You a Better for Learning Developer.](https://dev.to/durgesh4993/5-github-repos-to-make-you-a-better-for-learning-developer-n1m)
 - [JavaScript Tricks: Device Fingerprint](https://dev.to/wangliwen/javascript-tricks-device-fingerprint-34l3)
-- [Mastering TraceOptions in execution-engine: Advanced Code Tracing](https://dev.to/tabkram/mastering-traceoptions-in-execution-engine-advanced-code-tracing-263e)
+- [Create and configure a file with a directory.](https://dev.to/ulomaekpe/create-and-configure-a-file-with-a-directory-3cn9)
+- [Mastering TraceOptions in execution-engine: Advanced Code Tracing &lpar;part 2&rpar;](https://dev.to/tabkram/mastering-traceoptions-in-execution-engine-advanced-code-tracing-263e)
 - [My Must Have VSCode Plugins](https://dev.to/nikacodes/my-must-have-vscode-plugins-23c5)
-- [Deploy a Django application to AWS Lambda using Serverless Framework](https://dev.to/joaomarcos/deploy-a-django-application-to-aws-lambda-using-serverless-framework-1jpe)
-- [Celebrating Small Achievements: The Key to Sustained Motivation in Your Development Projects](https://dev.to/marmariadev/celebrating-small-achievements-the-key-to-sustained-motivation-in-your-development-projects-2h45)
 <!-- BLOG-POST-LIST:END -->
 
 ---
