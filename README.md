@@ -4,11 +4,11 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Looking for when you have work with dependents](https://dev.to/adam_cyclones/looking-for-when-you-have-work-with-dependents-m28)
+- [Introducing Read Replicas](https://dev.to/supabase/introducing-read-replicas-4j7j)
 - [Better Discord.js Chatbots: Revamped AI Plugin for Robo.js](https://dev.to/waveplay/better-discordjs-chatbots-revamped-ai-plugin-for-robojs-115f)
 - [Collecting data for Gamedev.js Survey 2023](https://dev.to/end3r/collecting-data-for-gamedevjs-survey-2023-ppd)
 - [5 Open Source tools written in Golang that you should know about](https://dev.to/digger/5-open-source-tools-written-in-golang-that-you-should-know-about-3jad)
-- [How to Project Organic Search Traffic and the Cost of Acquiring It](https://dev.to/daedtech/how-to-project-organic-search-traffic-and-the-cost-of-acquiring-it-4a50)
-- [Zod - TypeScript-first schema declaration and validation library #10](https://dev.to/nhannguyendevjs/zod-typescript-first-schema-declaration-and-validation-library-10-5gl5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
