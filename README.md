@@ -4,11 +4,11 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Just open-sourced 24 website code starters](https://dev.to/momciloo/just-open-sourced-24-website-code-starters-43on)
+- [Save these 24 free website code starters](https://dev.to/momciloo/just-open-sourced-24-website-code-starters-43on)
 - [Looking for when you have work with dependents](https://dev.to/adam_cyclones/looking-for-when-you-have-work-with-dependents-m28)
 - [Getting Started with Actix Web - The Battle-tested Rust Framework](https://dev.to/shuttle_dev/getting-started-with-actix-web-the-battle-tested-rust-framework-50ok)
-- [Introducing Read Replicas](https://dev.to/supabase/introducing-read-replicas-4j7j)
-- [Better Discord.js Chatbots: Revamped AI Plugin for Robo.js](https://dev.to/waveplay/better-discordjs-chatbots-revamped-ai-plugin-for-robojs-115f)
+- [Navigating the AR Landscape in React Native with Kotlin](https://dev.to/9bytes/navigating-the-ar-landscape-in-react-native-with-kotlin-2caj)
+- [API User-Experience Design for Beginners](https://dev.to/apidna/api-user-experience-design-for-beginners-1ain)
 <!-- BLOG-POST-LIST:END -->
 
 ---
