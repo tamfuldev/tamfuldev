@@ -6,9 +6,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [🫵 5 achievable side hustles for developers💰](https://dev.to/quine/5-achievable-side-hustles-for-developers-4bcg)
 - [This Week In React #166: Waku, React-Forget, React-Native, Expo, Million, Remotion, Next.js, Storybook, Remix...](https://dev.to/sebastienlorber/this-week-in-react-166-waku-react-forget-react-native-expo-million-remotion-nextjs-storybook-remix-3f1b)
+- [Engineering Bolt ⚡: #1 Friday Developer Fun 😎](https://dev.to/alexr/engineering-bolt-1-friday-developer-fun-36k7)
 - [Building a Simple AI-Powered Text Summarizer with Transformers in Python](https://dev.to/ryver_dev/building-a-simple-ai-powered-text-summarizer-with-transformers-in-python-42le)
 - [What is Google Hacking Database &lpar;GHDB&rpar;?](https://dev.to/shivamchamoli18/what-is-google-hacking-database-ghdb-2o9d)
-- [Introduction to Mantine UI Library](https://dev.to/refine/introduction-to-mantine-ui-library-16k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
