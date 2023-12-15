@@ -4,11 +4,11 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [🌟 Celebrate Your Impact: #DEVImpact2023 Reflections](https://dev.to/devteam/celebrate-your-impact-devimpact2023-reflections-g3f)
+- [Mejorando Rendimiento y Escalabilidad: Guía de Caché Distribuido en ASP.NET Core](https://dev.to/isaacojeda/mejorando-rendimiento-y-escalabilidad-guia-de-cache-distribuido-en-aspnet-core-3149)
+- [Time Saving Tip #2 - User Snippets in VSCode](https://dev.to/wraith/time-saving-tip-2-user-snippets-in-vscode-5d54)
+- [Mastering Chaos: de MVC a una Arquitectura Basada en el Dominio y con Enfoque en el Testing](https://dev.to/javascriptchile/mastering-chaos-de-mvc-a-una-arquitectura-basada-en-el-dominio-y-con-enfoque-en-el-testing-2ehj)
 - [Save these 24 free website code starters](https://dev.to/momciloo/just-open-sourced-24-website-code-starters-43on)
-- [Looking for when you have work with dependents](https://dev.to/adam_cyclones/looking-for-when-you-have-work-with-dependents-m28)
-- [Getting Started with Actix Web - The Battle-tested Rust Framework](https://dev.to/shuttle_dev/getting-started-with-actix-web-the-battle-tested-rust-framework-50ok)
-- [Navigating the AR Landscape in React Native with Kotlin](https://dev.to/9bytes/navigating-the-ar-landscape-in-react-native-with-kotlin-2caj)
-- [API User-Experience Design for Beginners](https://dev.to/apidna/api-user-experience-design-for-beginners-1ain)
 <!-- BLOG-POST-LIST:END -->
 
 ---
