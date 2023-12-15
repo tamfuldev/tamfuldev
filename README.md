@@ -4,11 +4,11 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Tricks: Device Fingerprint](https://dev.to/wangliwen/javascript-tricks-device-fingerprint-34l3)
+- [Mastering TraceOptions in execution-engine: Advanced Code Tracing](https://dev.to/tabkram/mastering-traceoptions-in-execution-engine-advanced-code-tracing-263e)
 - [My Must Have VSCode Plugins](https://dev.to/nikacodes/my-must-have-vscode-plugins-23c5)
+- [Deploy a Django application to AWS Lambda using Serverless Framework](https://dev.to/joaomarcos/deploy-a-django-application-to-aws-lambda-using-serverless-framework-1jpe)
 - [Celebrating Small Achievements: The Key to Sustained Motivation in Your Development Projects](https://dev.to/marmariadev/celebrating-small-achievements-the-key-to-sustained-motivation-in-your-development-projects-2h45)
-- [Discussion of the Week: Which is your first programming language?](https://dev.to/devteam/discussion-of-the-week-money-or-passion-3kd5)
-- [A bit about Agile](https://dev.to/nandinishinduja/history-of-agile-mja)
-- [Supabase Auth: Identity Linking, Hooks, and HaveIBeenPwned integration](https://dev.to/supabase/supabase-auth-identity-linking-hooks-and-haveibeenpwned-integration-19e1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
