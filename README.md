@@ -4,11 +4,11 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Best ChatGPT Prompts for Financial Accountants](https://dev.to/chatgptpromptsforprofessionals/best-chatgpt-prompts-for-financial-accountants-56bm)
-- [Redis Keyspace Notifications with Docker](https://dev.to/serhatayata/redis-keyspace-notifications-with-docker-4o90)
-- [Kubectl Cheat Sheet - With Examples](https://dev.to/refine/kubectl-cheat-sheet-with-examples-4e6l)
-- [The Ultimate Showdown: Linux vs. Windows - Unveiling the Battle of Operating Systems](https://dev.to/codewithsom/the-ultimate-showdown-linux-vs-windows-unveiling-the-battle-of-operating-systems-g20)
-- [DevOps Simplified: Easy-to-Use Container Projects Deployment](https://dev.to/mrmissx/devops-simplified-easy-to-use-container-projects-deployment-96d)
+- [Like htmx, but with only one attribute per element - a prototype](https://dev.to/mrhdias/like-htmx-but-with-only-one-attribute-per-element-a-prototype-4n24)
+- [The best and fastest cli generator for .ignore files](https://dev.to/neptunsk1y/the-best-and-fastest-cli-generator-for-ignore-files-58o4)
+- [Programmatically Setting File Inputs in JavaScript](https://dev.to/code_rabbi/programmatically-setting-file-inputs-in-javascript-2p7i)
+- [Why Flutter is Used? 2024 Guide](https://dev.to/knayan/why-flutter-is-used-2024-guide-3lg0)
+- [Coloring console text easily with Terminaux](https://dev.to/aptivi/coloring-console-text-easily-with-terminaux-1a4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
