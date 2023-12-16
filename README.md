@@ -4,11 +4,11 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Kubectl Cheat Sheet - With Examples](https://dev.to/refine/kubectl-cheat-sheet-with-examples-4e6l)
 - [The Ultimate Showdown: Linux vs. Windows - Unveiling the Battle of Operating Systems](https://dev.to/codewithsom/the-ultimate-showdown-linux-vs-windows-unveiling-the-battle-of-operating-systems-g20)
 - [DevOps Simplified: Easy-to-Use Container Projects Deployment](https://dev.to/mrmissx/devops-simplified-easy-to-use-container-projects-deployment-96d)
 - [Creating an IOT Hub on Azure Portal and Authenticate using Raspberry Pi](https://dev.to/lanreogunlade1998/creating-an-iot-hub-on-azure-portal-and-authenticate-using-raspberry-pi-587a)
-- [First 15 Open Source Advent projects](https://dev.to/chrischurilo/first-15-open-source-advent-projects-7d)
-- [Flutter: An Easy Introduction to Building Cross-Platform Apps](https://dev.to/shariqahmed525/flutter-an-easy-introduction-to-building-cross-platform-apps-6cc)
+- [Why a SQL Statement Often Consists of Hundreds of Lines, Measured by KBs？](https://dev.to/vivi9876/why-a-sql-statement-often-consists-of-hundreds-of-lines-measured-by-kbs-35o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
