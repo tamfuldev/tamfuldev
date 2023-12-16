@@ -4,11 +4,11 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Understand Humans](https://dev.to/codenewbieteam/how-to-understand-humans-n22)
+- [Community Cheers🥂 Who Inspired You in 2023?](https://dev.to/devteam/community-cheers-who-inspired-you-in-2023-5e6h)
+- [🌟 #DEVImpact2023 Reflections](https://dev.to/mihailtd/devimpact2023-reflections-1gef)
 - [When is it right to make code less efficient?](https://dev.to/best_codes/when-is-it-right-to-make-code-less-efficient-3ld1)
 - [Master LLM Hallucinations 💭](https://dev.to/tanyarai/master-llm-hallucinations-2210)
-- [How I Used Electron and React to Create a Sweet UI for FFMPEG](https://dev.to/designly/how-i-used-electron-and-react-to-create-a-sweet-ui-for-ffmpeg-1f22)
-- [C#: Bug ou Feature?](https://dev.to/angelobelchior/c-bug-ou-feature-443i)
-- [Thankful for the AWS Community Builders Program &amp; Building](https://dev.to/brianhhough/thankful-for-the-aws-community-builders-program-building-19bi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
