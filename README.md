@@ -4,11 +4,11 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Understand Humans](https://dev.to/codenewbieteam/how-to-understand-humans-n22)
+- [Milvus Adventures Dec 15, 2023](https://dev.to/chrischurilo/milvus-adventures-dec-15-2023-fp5)
+- [132 noCode WebSite Builders in Dec 2023](https://dev.to/johnrushx/132-nocode-website-builders-in-dec-2023-262b)
+- [React Tutorial: Tic-Tac-Toe - Interactive Remaster!](https://dev.to/igorfilippov3/react-tutorial-tic-tac-toe-interactive-remaster-4d1)
 - [Community Cheers🥂 Who Inspired You in 2023?](https://dev.to/devteam/community-cheers-who-inspired-you-in-2023-5e6h)
-- [🌟 #DEVImpact2023 Reflections](https://dev.to/mihailtd/devimpact2023-reflections-1gef)
-- [When is it right to make code less efficient?](https://dev.to/best_codes/when-is-it-right-to-make-code-less-efficient-3ld1)
-- [Master LLM Hallucinations 💭](https://dev.to/tanyarai/master-llm-hallucinations-2210)
+- [How to Understand Humans](https://dev.to/codenewbieteam/how-to-understand-humans-n22)
 <!-- BLOG-POST-LIST:END -->
 
 ---
