@@ -4,11 +4,11 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Beginning of My Glow-Up Journey](https://dev.to/jay818/the-beginning-of-my-glow-up-journey-4229)
 - [Object manipulation technique.js](https://dev.to/techthatconnect/object-manipulation-technique-1gm7)
 - [How to create a hash for a STRING in Swift](https://dev.to/bibinjaimon/how-to-create-a-hash-for-a-string-in-swift-114g)
 - [Is Javascript Object.groupBy&lpar;&rpar; worth the hype? let&#39;s find out](https://dev.to/svidlak/is-javascript-objectgroupby-worth-the-hype-lets-find-out-48lc)
 - [Advent of Code 2023: Day 11 - Cosmic Expansion](https://dev.to/gweaths/advent-of-code-2023-day-11-cosmic-expansion-5fo1)
-- [How I am documenting my interfaces in Kotlin](https://dev.to/theplebdev/how-i-am-documenting-my-interfaces-in-kotlin-50bp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
