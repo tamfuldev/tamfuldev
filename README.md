@@ -4,11 +4,11 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A arte do erro sem mensagem: por que meu código Python interpretou minha variável como tupla ao invés de int](https://dev.to/feministech/a-arte-do-erro-sem-mensagem-por-que-meu-codigo-python-interpretou-minha-variavel-como-tupla-ao-inves-de-int-56bf)
 - [The Beginning of My Glow-Up Journey](https://dev.to/jay818/the-beginning-of-my-glow-up-journey-4229)
+- [How I Built A Santa Chatbot To Mess With My Brother](https://dev.to/aws-heroes/how-i-built-a-santa-chatbot-to-mess-with-my-brother-21mm)
 - [Object manipulation technique.js](https://dev.to/techthatconnect/object-manipulation-technique-1gm7)
-- [How to create a hash for a STRING in Swift](https://dev.to/bibinjaimon/how-to-create-a-hash-for-a-string-in-swift-114g)
-- [Is Javascript Object.groupBy&lpar;&rpar; worth the hype? let&#39;s find out](https://dev.to/svidlak/is-javascript-objectgroupby-worth-the-hype-lets-find-out-48lc)
-- [Advent of Code 2023: Day 11 - Cosmic Expansion](https://dev.to/gweaths/advent-of-code-2023-day-11-cosmic-expansion-5fo1)
+- [Improving a web component, one step at a time](https://dev.to/tbroyer/improving-a-web-component-one-step-at-a-time-2673)
 <!-- BLOG-POST-LIST:END -->
 
 ---
