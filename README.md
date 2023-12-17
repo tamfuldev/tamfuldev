@@ -4,11 +4,11 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [A Design Newbie&#39;s Guide to Using Color](https://dev.to/theoriginalbpc/a-design-newbies-guide-to-using-color-4f1f)
-- [Stun Server: What is Session Traversal Utilities for NAT?](https://dev.to/alakkadshaw/stun-server-what-is-session-traversal-utilities-for-nat-2d8k)
-- [Understanding Object-Oriented Programming: Unveiling the Power of Classes](https://dev.to/mzunairtariq/understanding-object-oriented-programming-unveiling-the-power-of-classes-2kd0)
-- [Bandit Level 19 Level 20](https://dev.to/christianpaez/bandit-level-19-level-20-1ljg)
-- [SQL to Python Pandas: A SQL User&#39;s Quick Guide](https://dev.to/r0mymendez/sql-to-python-pandas-a-sql-users-quick-guide-2d57)
+- [#Bitcoin fee hits $37👀](https://dev.to/irmakork/bitcoin-fee-hits-37-3gc3)
+- [Advent of Code #14 &lpar;in Crystal&rpar;](https://dev.to/sethcalebweeks/advent-of-code-14-in-crystal-4dmm)
+- [Advent of Code 2023 Day 16](https://dev.to/nickymeuleman/advent-of-code-2023-day-16-2gg6)
+- [SQL Server &amp; MongoDB sync &lpar;Kafka + Kubernetes + Debezium&rpar;](https://dev.to/gustavo_gordillo_aec0b580/sql-server-mongodb-sync-kafka-kubernetes-debezium-1alc)
+- [How to use Network Security Group &lpar;NSG&rpar; to allow and deny access to a virtual machine.](https://dev.to/olalekan_oladiran_d74b7a6/how-to-use-network-security-group-nsg-to-allow-and-deny-access-to-a-virtual-machine-621)
 <!-- BLOG-POST-LIST:END -->
 
 ---
