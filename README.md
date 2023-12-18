@@ -8,7 +8,7 @@
 - [Run Go + HTMX in the Cloud with Acorn](https://dev.to/calvinmclean/run-go-htmx-in-the-cloud-with-acorn-5egd)
 - [React Native PSA - select and highlight text with custom context menus](https://dev.to/rob117/react-native-psa-select-and-highlight-text-with-custom-context-menus-lml)
 - [🤨 Who owns the internet?](https://dev.to/best_codes/who-owns-the-internet-3jp5)
-- [How Do You Celebrate While Working Remotely?](https://dev.to/codenewbieteam/how-do-you-celebrate-while-working-remotely-2jfe)
+- [What Is Agile Software Development - How Does It Work?](https://dev.to/maddy/what-is-agile-software-development-how-does-it-work-hk9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
