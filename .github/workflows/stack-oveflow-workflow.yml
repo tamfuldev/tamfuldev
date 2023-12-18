@@ -14,5 +14,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "STACKOVERFLOW"
-          feed_list: "https://stackoverflow.com/feeds"
+          feed_list: "https://api.stackexchange.com/docs/collectives#order=desc&sort=name&filter=default&site=stackoverflow&run=true"
           template: "<tr><td>$title</td><td>$url</td></tr>"
