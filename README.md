@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How fast is JS tiktoken?](https://dev.to/maximsaplin/how-fast-is-js-tiktoken-3fmk)
 - [How to fix error: invalid character in entity name in RSS feeds](https://dev.to/whitep4nth3r/how-to-fix-error-invalid-character-in-entity-name-in-rss-feeds-3op8)
 - [🔥Awesome Dev Portfolios - Your Portfolio Belongs Here!😍](https://dev.to/dev_kiran/awesome-dev-portfolios-your-portfolio-belongs-here-3n8m)
+- [🦊 GitLab CI YAML Modifications: Tackling the Feedback Loop Problem](https://dev.to/zenika/gitlab-ci-yaml-modifications-tackling-the-feedback-loop-problem-4ib1)
 - [Fallbacks for HTTP 404 images in HTML and JavaScript](https://dev.to/whitep4nth3r/fallbacks-for-http-404-images-in-html-and-javascript-5da1)
-- [Exploiting the Hype Cycle in Tech](https://dev.to/this-is-learning/exploiting-the-hype-cycle-in-tech-29a3)
-- [Kubernetes Interview Questions: Kubernetes Architecture: Node](https://dev.to/tutunak/kubernetes-interview-questions-kubernetes-architecture-node-26ef)
 <!-- BLOG-POST-LIST:END -->
 
 ---
