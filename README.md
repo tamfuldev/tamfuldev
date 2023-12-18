@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Roundup 031 &lpar;Dec 11&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-031-dec-11-hot-topics-in-workplace-sharepoint-and-powerplatform-4co9)
+- [`Get Abstract` for Lex Fridman and Jeff Bezos talk &lpar;December 2023&rpar;](https://dev.to/maximsaplin/get-abstract-for-lex-fridman-and-jeff-bezos-talk-december-2023-36n)
 - [Building Secure Neon-Infused Web Apps with Auth0, Express, and EJS](https://dev.to/terieyenike/building-secure-neon-infused-web-apps-with-auth0-express-and-ejs-32dn)
+- [OpenSauced: Your fast track to open source](https://dev.to/codingcatdev/opensauced-your-fast-track-to-open-source-a77)
 - [Power Apps Tracks Santa](https://dev.to/wyattdave/power-apps-tracks-santa-80h)
-- [Understanding Reverse Proxy with Nginx - Step By Step Guide](https://dev.to/shubhamkcloud/understanding-reverse-proxy-with-nginx-step-by-step-guide-18a0)
-- [React Navbar on Scroll Change - Background Color ,Padding, More - React JS](https://dev.to/speaklouder/react-navbar-on-scroll-change-background-color-padding-more-react-js-2fi6)
-- [Audit Vigilance: Lighting the Way for Audit Analysis - Unleashing the Bat Computer](https://dev.to/balagmadhu/audit-vigilance-lighting-the-way-for-audit-analysis-unleashing-the-bat-computer-21ff)
 <!-- BLOG-POST-LIST:END -->
 
 ---
