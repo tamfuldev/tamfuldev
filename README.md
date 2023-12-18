@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How to fix error: invalid character in entity name in RSS feeds](https://dev.to/whitep4nth3r/how-to-fix-error-invalid-character-in-entity-name-in-rss-feeds-3op8)
+- [🔥Awesome Dev Portfolios - Your Portfolio Belongs Here!😍](https://dev.to/dev_kiran/awesome-dev-portfolios-your-portfolio-belongs-here-3n8m)
+- [Fallbacks for HTTP 404 images in HTML and JavaScript](https://dev.to/whitep4nth3r/fallbacks-for-http-404-images-in-html-and-javascript-5da1)
 - [Exploiting the Hype Cycle in Tech](https://dev.to/this-is-learning/exploiting-the-hype-cycle-in-tech-29a3)
 - [Kubernetes Interview Questions: Kubernetes Architecture: Node](https://dev.to/tutunak/kubernetes-interview-questions-kubernetes-architecture-node-26ef)
-- [GitLab 💚 Kubernetes : act 2](https://dev.to/jphi_baconnais/gitlab-kubernetes-act-2-14ni)
-- [Weekly Roundup 031 &lpar;Dec 11&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-031-dec-11-hot-topics-in-workplace-sharepoint-and-powerplatform-4co9)
-- [`Get Abstract` for Lex Fridman and Jeff Bezos talk &lpar;December 2023&rpar;](https://dev.to/maximsaplin/get-abstract-for-lex-fridman-and-jeff-bezos-talk-december-2023-36n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
