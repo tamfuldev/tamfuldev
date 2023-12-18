@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Bubble](https://dev.to/kingjotaro/the-bubble-281l)
-- [How to Train your Transformer 🐲](https://dev.to/akshayballal/how-to-train-your-transformer-21om)
-- [Linux VPS vs. Windows VPS: Which One Should You Choose?](https://dev.to/kemuhost/linux-vps-vs-windows-vps-which-one-should-you-choose-3mkh)
-- [Complexity by Simplicity - A Deep Dive Into Kubernetes Components](https://dev.to/cyclops-ui/complexity-by-simplicity-a-deep-dive-into-kubernetes-components-4l59)
-- [How fast is JS tiktoken?](https://dev.to/maximsaplin/how-fast-is-js-tiktoken-3fmk)
+- [11 free and fun APIs you must use in your side project](https://dev.to/firecampdev/11-free-and-fun-apis-you-must-use-in-your-side-project-219m)
+- [Valida automáticamente tus respuestas de AWS Bedrock LLM](https://dev.to/aws-espanol/valida-automaticamente-tus-respuestas-de-aws-bedrock-llm-32a6)
+- [Building a cloud backend in Go using REST and PostgreSQL](https://dev.to/encore/building-a-cloud-backend-in-go-using-rest-and-postgresql-147l)
+- [Is tech boring lately or is it me?? 😐](https://dev.to/nombrekeff/is-tech-boring-lately-or-is-it-me-336)
+- [From Listings to Closings: Unveiling the Power of AI in Real Estate](https://dev.to/janzaib/from-listings-to-closings-unveiling-the-power-of-ai-in-real-estate-1520)
 <!-- BLOG-POST-LIST:END -->
 
 ---
