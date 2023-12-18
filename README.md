@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What are your goals for the week of Dec 18?](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-of-dec-18-40na)
-- [Dev.to and &quot;The Missing Middle&quot; Economics](https://dev.to/terabytetiger/devto-and-the-missing-middle-economics-59ip)
-- [Shell Scripting For DevOps: Quick Beginner&#39;s Guide 💎](https://dev.to/aniket762/shell-scripting-for-devops-quick-beginners-guide-24hk)
-- [Top 42 🐍 Python libraries you need to know 🦾](https://dev.to/taipy/top-42-python-libraries-you-need-to-know-1omo)
-- [Introducing Flama for Robust Machine Learning APIs](https://dev.to/vortico/introducing-flama-for-robust-machine-learning-apis-b3n)
+- [Exploring the World of Minuscule Windows Executables](https://dev.to/ercin/exploring-the-world-of-minuscule-windows-executables-1imk)
+- [TDD is a personal practice](https://dev.to/thiht/tdd-is-a-personal-practice-3o76)
+- [What they DO NOT Tell you about Freelancing as a Web Developer](https://dev.to/brendamichellle/what-they-do-not-tell-you-about-freelancing-as-a-web-developer-mmi)
+- [Raku Blog Posts 2023.51](https://dev.to/lizmat/raku-blog-posts-202351-47ob)
+- [🚅 Building a Cypress Accessibility Pipeline with Next.js and Axe](https://dev.to/lundjrl/building-a-cypress-accessibility-pipeline-with-nextjs-and-axe-5146)
 <!-- BLOG-POST-LIST:END -->
 
 ---
