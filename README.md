@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Most Meaningful Jobs](https://dev.to/nandinishinduja/most-meaningful-jobs-3fp8)
 - [Equality Comparisons](https://dev.to/catherineisonline/equality-comparisons-7hj)
 - [Hooks in React](https://dev.to/izmroen/hooks-in-react-4nkl)
 - [ZooKeeper Chronicles: Navigating EOFException and the Enigma of 0-Length Files](https://dev.to/suavebajaj/zookeeper-chronicles-navigating-eofexception-and-the-enigma-of-0-length-files-1h24)
 - [break and continue statements in C programming.](https://dev.to/sujithvsuresh/break-and-continue-statements-in-c-programming-o70)
-- [What do we look in a Software Engineer](https://dev.to/woovi/what-do-we-look-in-a-software-engineer-470b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
