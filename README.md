@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [What are your goals for the week of Dec 18?](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-of-dec-18-40na)
 - [Dev.to and &quot;The Missing Middle&quot; Economics](https://dev.to/terabytetiger/devto-and-the-missing-middle-economics-59ip)
 - [Shell Scripting For DevOps: Quick Beginner&#39;s Guide 💎](https://dev.to/aniket762/shell-scripting-for-devops-quick-beginners-guide-24hk)
 - [Top 42 🐍 Python libraries you need to know 🦾](https://dev.to/taipy/top-42-python-libraries-you-need-to-know-1omo)
 - [Introducing Flama for Robust Machine Learning APIs](https://dev.to/vortico/introducing-flama-for-robust-machine-learning-apis-b3n)
-- [Unveiling CodiumAI PR-Agent: A Comparative Analysis Against GitHub Copilot for Pull Requests](https://dev.to/shittu_olumide_/unveiling-codiumai-pr-agent-a-comparative-analysis-against-github-copilot-for-pull-requests-36jd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
