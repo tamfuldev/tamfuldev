@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Why You Should Use k3d for Local Development. A Developer&#39;s Guide](https://dev.to/cloudx/why-you-should-use-k3d-for-local-development-a-developers-guide-2cp5)
 - [Exploring the World of Minuscule Windows Executables](https://dev.to/ercin/exploring-the-world-of-minuscule-windows-executables-1imk)
 - [TDD is a personal practice](https://dev.to/thiht/tdd-is-a-personal-practice-3o76)
 - [What they DO NOT Tell you about Freelancing as a Web Developer](https://dev.to/brendamichellle/what-they-do-not-tell-you-about-freelancing-as-a-web-developer-mmi)
 - [Raku Blog Posts 2023.51](https://dev.to/lizmat/raku-blog-posts-202351-47ob)
-- [🚅 Building a Cypress Accessibility Pipeline with Next.js and Axe](https://dev.to/lundjrl/building-a-cypress-accessibility-pipeline-with-nextjs-and-axe-5146)
 <!-- BLOG-POST-LIST:END -->
 
 ---
