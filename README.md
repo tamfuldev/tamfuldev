@@ -4,11 +4,11 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Run Go + HTMX in the Cloud with Acorn](https://dev.to/calvinmclean/run-go-htmx-in-the-cloud-with-acorn-5egd)
 - [🤨 Who owns the internet?](https://dev.to/best_codes/who-owns-the-internet-3jp5)
 - [#Bitcoin fee hits $37👀](https://dev.to/irmakork/bitcoin-fee-hits-37-3gc3)
 - [Using Flask-SQLAlchemy Validations](https://dev.to/tranmatt/using-flask-sqlalchemy-validations-31bi)
 - [Advent of Code #14 &lpar;in Crystal&rpar;](https://dev.to/sethcalebweeks/advent-of-code-14-in-crystal-4dmm)
-- [Advent of Code #13 &lpar;in Crystal&rpar;](https://dev.to/sethcalebweeks/advent-of-code-13-in-crystal-4hl4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
