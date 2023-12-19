@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Functions in C programming.](https://dev.to/sujithvsuresh/functions-in-c-programming-3bce)
+- [🔥 Big frontend update: the Gowebly CLI now supports Bootstrap and Bulma](https://dev.to/koddr/big-frontend-update-the-gowebly-cli-now-supports-bootstrap-and-bulma-1c45)
+- [IDE Extension for AWS Application Composer](https://dev.to/aws-builders/ide-extension-for-aws-application-composer-3k3a)
 - [Coding with crustaceans?🦐 - CodeLobster IDE🦞 review](https://dev.to/thormeier/coding-with-crustaceans-codelobster-ide-review-la5)
 - [Mixtral, OpenAI and the race to bottom](https://dev.to/govindsb/mixtral-openai-and-the-race-to-bottom-1l38)
-- [Asynchronous Programming in JavaScript: An Essential Guide](https://dev.to/marmariadev/asynchronous-programming-in-javascript-an-essential-guide-28h1)
-- [Create a Carousel with Progress Indicators using Tailwind and Alpine.js](https://dev.to/cruip_com/create-a-carousel-with-progress-indicators-using-tailwind-and-alpinejs-1de5)
-- [Top Developer Communities to Join in 2024 👨‍💻👩‍💻](https://dev.to/madza/top-developer-communities-to-join-in-2024-1ogm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
