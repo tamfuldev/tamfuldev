@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Launch of the VPN service](https://dev.to/serverspace/launch-of-the-vpn-service-2d62)
+- [📦 React Props - The Animated Guide](https://dev.to/codeanimated/react-props-the-animated-guide-2o3b)
 - [Top 10 Rusty Repositories for you to start your Open Source Journey](https://dev.to/vedantkhairnar/top-10-rusty-repositories-for-you-to-start-your-open-source-journey-l9b)
+- [How to keep state between page refreshes in React](https://dev.to/jorensm/how-to-keep-state-between-page-refreshes-in-react-3801)
 - [7 Image APIs To Use On Your Product In 2023](https://dev.to/camposped/7-image-apis-to-use-on-your-product-in-2023-2kd7)
-- [What&#39;s new in Novu 0.22?](https://dev.to/novu/whats-new-in-novu-022-3afm)
-- [Playing a piano with your eyes - Gaze estimation](https://dev.to/miguelaeh/playing-a-piano-with-your-eyes-gaze-estimation-3e07)
-- [Functions in C programming.](https://dev.to/sujithvsuresh/functions-in-c-programming-3bce)
 <!-- BLOG-POST-LIST:END -->
 
 ---
