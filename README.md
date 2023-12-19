@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Launch of the VPN service](https://dev.to/serverspace/launch-of-the-vpn-service-2d62)
-- [📦 React Props - The Animated Guide](https://dev.to/codeanimated/react-props-the-animated-guide-2o3b)
-- [Top 10 Rusty Repositories for you to start your Open Source Journey](https://dev.to/vedantkhairnar/top-10-rusty-repositories-for-you-to-start-your-open-source-journey-l9b)
-- [How to keep state between page refreshes in React](https://dev.to/jorensm/how-to-keep-state-between-page-refreshes-in-react-3801)
-- [7 Image APIs To Use On Your Product In 2023](https://dev.to/camposped/7-image-apis-to-use-on-your-product-in-2023-2kd7)
+- [8 Awesome JavaScript String Manipulation Techniques](https://dev.to/serenepine/8-awesome-javascript-string-manipulation-techniques-fdh)
+- [Build a full stack app with Rust, Next.js and Docker](https://dev.to/francescoxx/build-a-full-stack-app-with-rust-nextjs-and-docker-436h)
+- [Basics of Deployment 03: 6 Best Practices for Security](https://dev.to/seal-io/basics-of-deployment-03-6-best-practices-for-security-4a74)
+- [A Comprehensive Guide to Writing Custom Hooks ✨&quot;](https://dev.to/prathamisonline/a-comprehensive-guide-to-writing-custom-hooks--33d4)
+- [I Created a Dev.to Users Blog Post Fetcher Using its API](https://dev.to/shubhadip_bhowmik/i-created-a-devto-users-blog-post-fetcher-using-its-api-19o2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
