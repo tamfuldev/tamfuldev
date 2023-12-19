@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Add Localization Translate to React App with redux &lpar;without i18next&rpar;](https://dev.to/idurar/add-localization-translate-to-react-app-with-redux-without-i18next-2hoi)
+- [🚀 DevSecOps ⚙️: &quot;A Deep Dive into Scanning External Docker Images with Aqua Trivy in Amazon CodePipeline&quot; 💭](https://dev.to/aws-builders/devsecops-a-deep-dive-into-scanning-external-docker-images-with-aqua-trivy-in-amazon-codepipeline-4ocb)
+- [Mocking Requests in Python](https://dev.to/quame_jnr1/mocking-requests-in-python-2anc)
 - [How to determine if your idea for a new business is viable](https://dev.to/intesar/how-to-determine-if-your-idea-for-a-new-business-is-viable-3ldk)
 - [CSS subgrid: Designing advanced layouts](https://dev.to/logrocket/css-subgrid-designing-advanced-layouts-44d1)
-- [Pimp your CLI](https://dev.to/josemunoz/pimp-your-cli-3i5e)
-- [Enchula Mi Consola](https://dev.to/josemunoz/enchula-mi-consola-5d70)
-- [Retail software: Key challenges and benefits](https://dev.to/abtosoftware/retail-software-key-challenges-and-benefits-3ca2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
