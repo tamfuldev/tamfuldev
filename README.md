@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Open Source Impact: Reflecting on 2023 Contributions](https://dev.to/devteam/open-source-impact-reflecting-on-2023-contributions-2h6d)
+- [Laravel Octane and FrankenPHP](https://dev.to/robertobutti/laravel-octane-and-frankenphp-240o)
 - [Java monitoring: Exploring Cryostat 2.4 features on OpenShift](https://dev.to/sshaaf/java-monitoring-exploring-cryostat-24-features-on-openshift-5527)
 - [Azure Load Testing](https://dev.to/amilkardev/azure-load-testing-36f)
 - [What I&#39;ve Learned By Building DEV Analytics Dashboard 💡](https://dev.to/rgolawski/what-ive-learned-by-building-dev-analytics-dashboard-4foa)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1bd)
-- [Meme Monday](https://dev.to/ben/meme-monday-gph)
 <!-- BLOG-POST-LIST:END -->
 
 ---
