@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Top Developer Communities to Join in 2024 👨‍💻👩‍💻](https://dev.to/madza/top-developer-communities-to-join-in-2024-1ogm)
+- [Building a modern landing page with Next.js and One Entry Headless CMS](https://dev.to/arshadayvid/building-a-modern-landing-page-with-nextjs-and-one-entry-headless-cms-34ne)
 - [Best 33 YouTube Channels Every Coder Must Subscribe Now](https://dev.to/gpt-prompt-coder/best-33-youtube-channels-every-coder-must-subscribe-now-18d2)
 - [How to Use Substring in C#: A Detailed Guide](https://dev.to/bytehide/how-to-use-substring-in-c-a-detailed-guide-165d)
-- [Phi-2 is available for chat through LM Studio Beta](https://dev.to/maximsaplin/phi-2-is-available-for-chat-through-lm-studio-beta-449b)
-- [Redux Toolkit Simplified](https://dev.to/tanmaycode/redux-toolkit-simplified-1iig)
-- [Is Microsoft Teams More Than Just a Chat App?](https://dev.to/jaloplo/is-microsoft-teams-more-than-just-a-chat-app-106)
+- [Writing a chapter in English](https://dev.to/gotoxavier2333/writing-a-chapter-in-english-1lpa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
