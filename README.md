@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [8 Awesome JavaScript String Manipulation Techniques](https://dev.to/serenepine/8-awesome-javascript-string-manipulation-techniques-fdh)
-- [Build a full stack app with Rust, Next.js and Docker](https://dev.to/francescoxx/build-a-full-stack-app-with-rust-nextjs-and-docker-436h)
-- [Basics of Deployment 03: 6 Best Practices for Security](https://dev.to/seal-io/basics-of-deployment-03-6-best-practices-for-security-4a74)
-- [A Comprehensive Guide to Writing Custom Hooks ✨&quot;](https://dev.to/prathamisonline/a-comprehensive-guide-to-writing-custom-hooks--33d4)
-- [I Created a Dev.to Users Blog Post Fetcher Using its API](https://dev.to/shubhadip_bhowmik/i-created-a-devto-users-blog-post-fetcher-using-its-api-19o2)
+- [Featured Mod of the Month: Helen Anderson](https://dev.to/devteam/featured-mod-of-the-month-helen-anderson-38mc)
+- [How to Generate Swagger Docs Easily with Apitoolkit&#39;s Live Traffic](https://dev.to/elliot_brenya/how-to-generate-swagger-docs-easily-with-apitoolkits-live-traffic-4e1h)
+- [What You Need to Know About Domain and Hosting](https://dev.to/theoriginalbpc/what-you-need-to-know-about-domain-and-hosting-2bdh)
+- [How to Set Up Website Styles Using CSS](https://dev.to/theoriginalbpc/how-to-set-up-website-styles-using-css-1949)
+- [How to Set Up the Structure and Content on a Website](https://dev.to/theoriginalbpc/how-to-set-up-the-structure-and-content-on-a-website-ehn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
