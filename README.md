@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Operadores numéricos são mais complexos do que parece](https://dev.to/lucas_ac_am/operadores-numericos-sao-mais-complexos-do-que-parece-2f16)
 - [&quot;Being Open to the Unexpected&quot;: CodeNewbie Podcast S26E8](https://dev.to/codenewbieteam/being-open-to-the-unexpected-codenewbie-podcast-s26e8-1li0)
+- [My criticism about the new Observables API](https://dev.to/artalar/my-criticism-about-the-new-observables-api-37d5)
 - [Migrating From until-destroy To Angular takeUntilDestroyed](https://dev.to/this-is-angular/migrating-from-until-destroy-to-angular-takeuntildestroyed-3chl)
 - [How to Keep a History of MQTT Data With Node.js](https://dev.to/reductstore/how-to-keep-a-history-of-mqtt-data-with-nodejs-5044)
-- [Books That Helped Me Become a Tech Lead](https://dev.to/frosnerd/books-that-helped-me-become-a-tech-lead-3831)
-- [7 Courses To Help You Master CSS in 2024 🏅🚀](https://dev.to/brian_curricular/7-courses-to-help-you-master-css-in-2024-3n6o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
