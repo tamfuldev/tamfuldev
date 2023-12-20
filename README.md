@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Master Prompt Engineering with OpenAI 🧠](https://dev.to/tanyarai/master-prompt-engineering-with-openai-1he3)
-- [DEV Top Stats &amp; Trends in 2023](https://dev.to/devteam/dev-top-stats-trends-in-2023-530c)
-- [Parallax in Email with fallback - HTML Email Experiment](https://dev.to/nivenranchhod/parallax-in-email-with-fallback-html-email-experiment-27en)
-- [Building an Archiver in Rust](https://dev.to/sighgone/building-an-archiver-in-rust-2bdi)
-- [Exploring Modern Mobile App Development: A Comprehensive Guide](https://dev.to/kiraaziz/exploring-modern-mobile-app-development-a-comprehensive-guide-1724)
+- [🔥 The Single Best Tip To Attract More Contributors To Your GitHub Project💡](https://dev.to/flipt/the-single-best-tip-to-attract-more-contributors-to-your-github-project-4o2l)
+- [Deploy Server App to EC2](https://dev.to/akbarnafisa/deploy-server-app-to-ec2-1dlo)
+- [Tech Hype Unwrapped: Overrated Holiday Gadgets? 🤔🎁](https://dev.to/devteam/tech-hype-unwrapped-overrated-holiday-gadgets-1nio)
+- [What Tech-Related DIY Project Do You Recommend?](https://dev.to/codenewbieteam/what-tech-related-diy-project-do-you-recommend-486)
+- [Simple Database Software For MySQL](https://dev.to/domfive/simple-database-software-for-mysql-502n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
