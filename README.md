@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [7 Portfolio Websites That Will Make You Jealous](https://dev.to/mukeshkuiry/7-portfolio-websites-that-will-make-you-jealous-332b)
-- [Discrimination Faced by Women In Tech](https://dev.to/nandinishinduja/women-in-tech-1gpm)
-- [🌟 #DEVImpact2023 Reflections](https://dev.to/pachicodes/devimpact2023-reflections-4jgn)
-- [How to Use Shoulda Matchers with RSpec for Ruby on Rails](https://dev.to/appsignal/how-to-use-shoulda-matchers-with-rspec-for-ruby-on-rails-2m47)
-- [Unlocking the Power of Large Language Models with Kel: Enhancing Workflow and Productivity](https://dev.to/qainsights/unlocking-the-power-of-large-language-models-with-kel-enhancing-workflow-and-productivity-22cb)
+- [Angular Signals: Na Prática](https://dev.to/matheusriann/angular-signals-na-pratica-140o)
+- [KALI LINUX TOOL: SECRET UNICORN POWERS YOU WON&#39;T BELIEVE! &lpar;Don&#39;t Hack Grandma!&rpar;](https://dev.to/walterowuor/kali-linux-tool-secret-unicorn-powers-you-wont-believe-dont-hack-grandma-84p)
+- [Choosing Between Controllers and Minimal API for .NET APIs](https://dev.to/michaeljolley/choosing-between-controllers-and-minimal-api-for-net-apis-1pf9)
+- [Building AR face masks in React Native](https://dev.to/logrocket/building-ar-face-masks-in-react-native-2gnl)
+- [CAN YOU REALLY MAKE MONEY WITH KALI LINUX? I MADE $10,000 IN ONE WEEK!](https://dev.to/walterowuor/can-you-really-make-money-with-kali-linux-i-made-10000-in-one-week-19pl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
