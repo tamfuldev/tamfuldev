@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Host WordPress for Free on Vercel: A Step-by-Step Guide](https://dev.to/yunuserturk/how-to-host-wordpress-for-free-on-vercel-a-step-by-step-guide-8cd)
-- [ERC Token Standards - Everything You Need to Know](https://dev.to/braxton/erc-token-standards-everything-you-need-to-know-388b)
-- [Is OUT: The 10 AI Most Used by Devs in 2023 &lpar;by StackOverflow&rpar;](https://dev.to/opensourcee/is-out-the-most-used-ai-devtools-of-2023-3ld7)
-- [Building a desktop app with JavaScript](https://dev.to/opensourcee/building-a-desktop-app-with-javascript-4lge)
-- [Exploring Electron: A JavaScript Developer&#39;s Guide](https://dev.to/opensourcee/exploring-electron-a-javascript-developers-guide-1fjm)
+- [Unlocking the Power of Large Language Models with Kel: Enhancing Workflow and Productivity](https://dev.to/qainsights/unlocking-the-power-of-large-language-models-with-kel-enhancing-workflow-and-productivity-22cb)
+- [Setting Up AWS Config: A Practical Guide to Real-World Implementation and Use Cases](https://dev.to/osamagamal/setting-up-aws-config-a-practical-guide-to-real-world-implementation-and-use-cases-2lkh)
+- [Tech Talk: React in the Terminal? Hold my Beer 🍺](https://dev.to/manuartero/tech-talk-react-in-the-terminal-hold-my-beer-2pnf)
+- [The Top 10 GitHub Repositories Making Waves 🌊📊](https://dev.to/arjuncodess/the-top-10-github-repositories-making-waves-4p1o)
+- [❄️24 Must-Try Open Source Projects &lpar;for your Christmas Coding&rpar;🎅🏽☃️](https://dev.to/copilotkit/24-must-try-open-source-projects-for-your-christmas-coding-3603)
 <!-- BLOG-POST-LIST:END -->
 
 ---
