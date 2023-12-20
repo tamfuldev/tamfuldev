@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [echo3D Uses AI to Streamline 3D Asset Management](https://dev.to/echo3d/echo3d-uses-ai-to-streamline-3d-asset-management-5if)
-- [The best and fastest cli generator for .ignore files](https://dev.to/neptunsk1y/the-best-and-fastest-cli-generator-for-ignore-files-76m)
-- [Announcing @ngneat/avvvatars](https://dev.to/shhdharmen/announcing-ngneatavvvatars-1bbj)
-- [Angular Signals: Na Prática](https://dev.to/matheusriann/angular-signals-na-pratica-140o)
-- [KALI LINUX TOOL: SECRET UNICORN POWERS YOU WON&#39;T BELIEVE! &lpar;Don&#39;t Hack Grandma!&rpar;](https://dev.to/walterowuor/kali-linux-tool-secret-unicorn-powers-you-wont-believe-dont-hack-grandma-84p)
+- [The &quot;Censorship Brush&quot; - GIMP enabled Invoice Redaction](https://dev.to/realvorl/the-censorship-brush-gimp-enabled-invoice-redaction-42mh)
+- [What&#39;s going on in the Zilliz Universe? December 2023](https://dev.to/zilliz/whats-going-on-in-the-zilliz-universe-december-2023-51od)
+- [Nx 17.2 Update!!](https://dev.to/nx/nx-172-update-5ag8)
+- [🐧5 useful resources for anyone learning Linux](https://dev.to/kwnaidoo/5-useful-resources-for-anyone-learning-linux-1f7f)
+- [How Programming to an Interface Affects Testability](https://dev.to/ant_f_dev/how-programming-to-an-interface-affects-testability-1c86)
 <!-- BLOG-POST-LIST:END -->
 
 ---
