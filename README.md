@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Automated Labeling or Tagging using Google Gemini](https://dev.to/ranjancse/automated-labeling-or-tagging-using-google-gemini-37h)
+- [Devfest Dijon 2023](https://dev.to/onepoint/devfest-dijon-2023-5f97)
+- [Unraveling the Kubernetes ImagePullBackOff Error](https://dev.to/refine/unraveling-the-kubernetes-imagepullbackoff-error-55fj)
 - [Day 1, January 2023](https://dev.to/devteam/day-1-january-2023-4a9i)
-- [Authorize on the edge with Cerbos Hub and Embedded PDP bundles](https://dev.to/cerbos/authorize-on-the-edge-with-cerbos-hub-and-embedded-pdp-bundles-5e6g)
-- [Deploying Super Mario on Kubernetes🎮🎮](https://dev.to/swapi123/deploying-super-mario-on-kubernetes-3ojc)
-- [Topic and Subtopic Extraction with Google Gemini Pro](https://dev.to/ranjancse/topic-and-subtopic-extraction-with-the-google-gemini-pro-1e52)
-- [Systemd vs sysVinit - Initializing the system](https://dev.to/akshay_khoje/systemd-vs-sysvinit-initializing-the-system-5h71)
+- [Keyword Extraction with Google Gemini Pro](https://dev.to/ranjancse/keyword-extraction-with-google-gemini-pro-2ab7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
