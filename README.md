@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Automated Labeling or Tagging using Google Gemini](https://dev.to/ranjancse/automated-labeling-or-tagging-using-google-gemini-37h)
-- [Devfest Dijon 2023](https://dev.to/onepoint/devfest-dijon-2023-5f97)
-- [Unraveling the Kubernetes ImagePullBackOff Error](https://dev.to/refine/unraveling-the-kubernetes-imagepullbackoff-error-55fj)
-- [Day 1, January 2023](https://dev.to/devteam/day-1-january-2023-4a9i)
-- [Keyword Extraction with Google Gemini Pro](https://dev.to/ranjancse/keyword-extraction-with-google-gemini-pro-2ab7)
+- [Variable scope in C programming.](https://dev.to/sujithvsuresh/variable-scope-in-c-programming-4ebd)
+- [Breaking Barriers: Chat with PDF Made Easy with Walles.AI](https://dev.to/geekyqee/breaking-barriers-chat-with-pdf-made-easy-with-wallesai-2o2j)
+- [Events in C#: When and How to Implement Them](https://dev.to/bytehide/events-in-c-when-and-how-to-implement-them-4mcb)
+- [Welcome Thread - v256](https://dev.to/devteam/welcome-thread-v257-5g3e)
+- [CSS Z-index and Stacking Context : A Comprehensive Beginner’s Guide](https://dev.to/devshefali/css-z-index-and-stacking-context-a-comprehensive-beginners-guide-cbo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
