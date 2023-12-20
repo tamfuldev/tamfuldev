@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Top 5 Ways To Host Your Full-Stack App For Free 🚀✨](https://dev.to/wasp/top-5-ways-to-host-your-full-stack-app-for-free-c2j)
+- [Information Extraction with Google Gemini](https://dev.to/ranjancse/information-extraction-with-google-gemini-253e)
+- [Programming Paradigms in JavaScript: OOP, Functional and Event-Driven](https://dev.to/marmariadev/programming-paradigms-in-javascript-oop-functional-and-event-driven-57kn)
+- [&quot;Back-end as a Front-end&quot; or How admin dashboards can drive your apps](https://dev.to/voltra/back-end-as-a-front-end-or-how-admin-dashboards-can-drive-your-apps-57)
 - [Mastering API Design: 26 Resources for Software Engineers](https://dev.to/alexr/mastering-api-design-26-resources-for-software-engineers-8e8)
-- [🛠️ Ready to Launch: Our TOP 11 OPEN SOURCE Tools to START your business! 💻✨](https://dev.to/glasskube/ready-to-launch-our-top-11-open-source-tools-to-start-your-business-358f)
-- [Variable scope in C programming.](https://dev.to/sujithvsuresh/variable-scope-in-c-programming-4ebd)
-- [Breaking Barriers: Chat with PDF Made Easy with Walles.AI](https://dev.to/geekyqee/breaking-barriers-chat-with-pdf-made-easy-with-wallesai-2o2j)
-- [Events in C#: When and How to Implement Them](https://dev.to/bytehide/events-in-c-when-and-how-to-implement-them-4mcb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
