@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Being Open to the Unexpected&quot;: CodeNewbie Podcast S26E8](https://dev.to/codenewbieteam/being-open-to-the-unexpected-codenewbie-podcast-s26e8-1li0)
+- [Migrating From until-destroy To Angular takeUntilDestroyed](https://dev.to/this-is-angular/migrating-from-until-destroy-to-angular-takeuntildestroyed-3chl)
 - [How to Keep a History of MQTT Data With Node.js](https://dev.to/reductstore/how-to-keep-a-history-of-mqtt-data-with-nodejs-5044)
 - [Books That Helped Me Become a Tech Lead](https://dev.to/frosnerd/books-that-helped-me-become-a-tech-lead-3831)
 - [7 Courses To Help You Master CSS in 2024 🏅🚀](https://dev.to/brian_curricular/7-courses-to-help-you-master-css-in-2024-3n6o)
-- [Unveiling the power of Inheritance in Object Oriented Programming](https://dev.to/mzunairtariq/unveiling-thepower-of-inheritance-in-object-oriented-programming-4f8k)
-- [Rust Learning Note: Smart Pointer](https://dev.to/raineyanguoft/rust-learning-note-smart-pointer-2k2m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
