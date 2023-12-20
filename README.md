@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Abstract Classes in Python](https://dev.to/sarahmarie73/abstract-classes-in-python-55mj)
-- [Top Tips for Overcoming Budget Issues in a Software Startup](https://dev.to/dhruvjoshi9/top-tips-for-overcoming-budget-issues-in-a-software-startup-j46)
-- [On Writing Well &lpar;Part I The Transaction&rpar;](https://dev.to/gotoxavier2333/on-writing-well-part-i-3ndg)
-- [Mastering Terraform: How to Manage Multiple Environments with Dynamic S3 Backends](https://dev.to/aws-builders/mastering-terraform-how-to-manage-multiple-environments-with-dynamic-s3-backends-1p9)
-- [Vulnerabilities in Guilded.gg](https://dev.to/antogarand/vulnerabilities-in-guildedgg-58m6)
+- [Day 1, January 2023](https://dev.to/devteam/day-1-january-2023-4a9i)
+- [Authorize on the edge with Cerbos Hub and Embedded PDP bundles](https://dev.to/cerbos/authorize-on-the-edge-with-cerbos-hub-and-embedded-pdp-bundles-5e6g)
+- [Deploying Super Mario on Kubernetes🎮🎮](https://dev.to/swapi123/deploying-super-mario-on-kubernetes-3ojc)
+- [Topic and Subtopic Extraction with Google Gemini Pro](https://dev.to/ranjancse/topic-and-subtopic-extraction-with-the-google-gemini-pro-1e52)
+- [Systemd vs sysVinit - Initializing the system](https://dev.to/akshay_khoje/systemd-vs-sysvinit-initializing-the-system-5h71)
 <!-- BLOG-POST-LIST:END -->
 
 ---
