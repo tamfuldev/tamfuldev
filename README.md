@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [echo3D Uses AI to Streamline 3D Asset Management](https://dev.to/echo3d/echo3d-uses-ai-to-streamline-3d-asset-management-5if)
+- [The best and fastest cli generator for .ignore files](https://dev.to/neptunsk1y/the-best-and-fastest-cli-generator-for-ignore-files-76m)
+- [Announcing @ngneat/avvvatars](https://dev.to/shhdharmen/announcing-ngneatavvvatars-1bbj)
 - [Angular Signals: Na Prática](https://dev.to/matheusriann/angular-signals-na-pratica-140o)
 - [KALI LINUX TOOL: SECRET UNICORN POWERS YOU WON&#39;T BELIEVE! &lpar;Don&#39;t Hack Grandma!&rpar;](https://dev.to/walterowuor/kali-linux-tool-secret-unicorn-powers-you-wont-believe-dont-hack-grandma-84p)
-- [Choosing Between Controllers and Minimal API for .NET APIs](https://dev.to/michaeljolley/choosing-between-controllers-and-minimal-api-for-net-apis-1pf9)
-- [Building AR face masks in React Native](https://dev.to/logrocket/building-ar-face-masks-in-react-native-2gnl)
-- [CAN YOU REALLY MAKE MONEY WITH KALI LINUX? I MADE $10,000 IN ONE WEEK!](https://dev.to/walterowuor/can-you-really-make-money-with-kali-linux-i-made-10000-in-one-week-19pl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
