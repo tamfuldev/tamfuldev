@@ -6,9 +6,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Master Prompt Engineering with OpenAI 🧠](https://dev.to/tanyarai/master-prompt-engineering-with-openai-1he3)
 - [DEV Top Stats &amp; Trends in 2023](https://dev.to/devteam/dev-top-stats-trends-in-2023-530c)
+- [Parallax in Email with fallback - HTML Email Experiment](https://dev.to/nivenranchhod/parallax-in-email-with-fallback-html-email-experiment-27en)
 - [Building an Archiver in Rust](https://dev.to/sighgone/building-an-archiver-in-rust-2bdi)
 - [Exploring Modern Mobile App Development: A Comprehensive Guide](https://dev.to/kiraaziz/exploring-modern-mobile-app-development-a-comprehensive-guide-1724)
-- [Apps which will become famous in 2024](https://dev.to/nandinishinduja/apps-which-will-become-famous-in-2024-1djl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
