@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Who’s That Pokémon? | JavaScript Project](https://dev.to/codingcss/whos-that-pokemon-javascript-project-45m5)
-- [Create VM on Microsoft Azure with Terraform](https://dev.to/iharshbhavsar/create-vm-on-microsoft-azure-with-terraform-55n6)
-- [The difference between framework and library in JavaScript](https://dev.to/hugaidas/the-difference-between-framework-and-library-in-javascript-219i)
-- [Introducing Loco: The Rails of Rust](https://dev.to/shuttle_dev/introducing-loco-the-rails-of-rust-4l86)
-- [Demystifying HTML: A Comprehensive Guide for Beginners](https://dev.to/rohitashsingh89/demystifying-html-a-comprehensive-guide-for-beginners-4ebe)
+- [Managing Access Control Policies and PDPs with Cerbos Hub](https://dev.to/cerbos/managing-access-control-policies-and-pdps-with-cerbos-hub-39o3)
+- [I installed Metasploit on my android device. check out.](https://dev.to/walterowuor/i-installed-metasploit-on-my-android-device-check-out-pj6)
+- [Block Time](https://dev.to/chainspect_app/block-time-2p98)
+- [How to Translate Open Source Contributions into Career Opportunities](https://dev.to/opensauced/how-to-translate-open-source-contributions-into-career-opportunities-1ib3)
+- [A Guide to Monetizing Your WordPress Skills](https://dev.to/piouskenny/a-guide-to-monetizing-your-wordpress-skills-34ce)
 <!-- BLOG-POST-LIST:END -->
 
 ---
