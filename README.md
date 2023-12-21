@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Trend Detection and Analysis with the AiConfig](https://dev.to/ranjancse/trend-detection-and-analysis-with-the-aiconfig-2ek)
-- [Project Twenty One: Rich Text](https://dev.to/valeriavg/project-twenty-one-rich-text-23c8)
-- [Essentials of TypeScript Classes](https://dev.to/refine/essentials-of-typescript-classes-4mi8)
-- [Amazon Simple Storage Service &lpar;Amazon S3&rpar;](https://dev.to/oncloud7/amazon-simple-storage-service-amazon-s3-4d53)
-- [KNIP | unused files detector](https://dev.to/shubhamtiwari909/knip-unused-files-detector-l1d)
+- [Enhancing Content Creation: Visual Editing with Sanity and Storyblok for Next.js](https://dev.to/focusreactive/enhancing-content-creation-visual-editing-with-sanity-and-storyblok-for-nextjs-279a)
+- [Navigating the Educational Landscape: A Deeper Dive into Essay Typer Tools](https://dev.to/jessicatyler/navigating-the-educational-landscape-a-deeper-dive-into-essay-typer-tools-3poe)
+- [Unlocking the Magic of JavaScript: A Beginner&#39;s Guide to Hello World Alerts](https://dev.to/aniketsaini65/unlocking-the-magic-of-javascript-a-beginners-guide-to-hello-world-alerts-4afm)
+- [Recreating YouTube Using HTML and CSS](https://dev.to/huericnan/recreating-youtube-using-html-and-css-2147)
+- [📚 8 repos used by the top 1% of React devs 🏆](https://dev.to/quine/8-repos-used-by-the-top-1-of-react-devs-2758)
 <!-- BLOG-POST-LIST:END -->
 
 ---
