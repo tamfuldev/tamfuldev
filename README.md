@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Testing Defer Blocks in Angular with Cypress](https://dev.to/angular/testing-defer-blocks-in-angular-with-cypress-21j8)
 - [Beginner’s Guide to Pandas](https://dev.to/buzzpy/beginners-guide-to-pandas-2fb6)
 - [Standard library functions in C programming.](https://dev.to/sujithvsuresh/standard-library-functions-in-c-programming-3egg)
 - [Unleashing Generative AI Capabilities: The Power of Large Language Models Explained](https://dev.to/invonto/unleashing-generative-ai-capabilities-the-power-of-large-language-models-explained-4hpp)
 - [Bridging the Industry-Academia Divide](https://dev.to/mcsee/bridging-the-industry-academia-divide-27dk)
-- [Top 5 Vector Database Videos of 2023 🎥](https://dev.to/zilliz/top-5-vector-database-videos-of-2023-26hc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
