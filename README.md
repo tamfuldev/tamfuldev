@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Demystifying HTML: A Comprehensive Guide for Beginners](https://dev.to/rohitashsingh89/demystifying-html-a-comprehensive-guide-for-beginners-4ebe)
+- [What will happen to the full-stack framework in the future?](https://dev.to/zenstack/what-will-happen-to-the-full-stack-framework-in-the-future-4c00)
+- [API completa em Golang - Parte 4](https://dev.to/wiliamvj/api-completa-em-golang-parte-4-i5p)
 - [Enhancing Content Creation: Visual Editing with Sanity and Storyblok for Next.js](https://dev.to/focusreactive/enhancing-content-creation-visual-editing-with-sanity-and-storyblok-for-nextjs-279a)
-- [Navigating the Educational Landscape: A Deeper Dive into Essay Typer Tools](https://dev.to/jessicatyler/navigating-the-educational-landscape-a-deeper-dive-into-essay-typer-tools-3poe)
 - [Unlocking the Magic of JavaScript: A Beginner&#39;s Guide to Hello World Alerts](https://dev.to/aniketsaini65/unlocking-the-magic-of-javascript-a-beginners-guide-to-hello-world-alerts-4afm)
-- [Recreating YouTube Using HTML and CSS](https://dev.to/huericnan/recreating-youtube-using-html-and-css-2147)
-- [📚 8 repos used by the top 1% of React devs 🏆](https://dev.to/quine/8-repos-used-by-the-top-1-of-react-devs-2758)
 <!-- BLOG-POST-LIST:END -->
 
 ---
