@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Five Apache projects you probably didn&#39;t know about](https://dev.to/nfrankel/five-apache-projects-you-probably-didnt-know-about-4c5f)
 - [Day 2 - The 12 Days of DEV: February 2023](https://dev.to/devteam/day-2-the-12-days-of-dev-february-2023-5c2j)
 - [The Impact of AI on Writing Code](https://dev.to/iaauteco/the-impact-of-ai-on-writing-code-1c4i)
+- [What makes a solution &quot;Premium&quot;](https://dev.to/kkazala/what-makes-a-solution-premium-2l8n)
 - [Hydra: The Multi-Headed Beast of Password Cracking](https://dev.to/walterowuor/hydra-the-multi-headed-beast-of-password-cracking-327a)
-- [CRACK ANY PASSWORD IN SECONDS! This KALI LINUX TOOL is ILLEGAL &lpar;But AMAZING!&rpar;](https://dev.to/walterowuor/crack-any-password-in-seconds-this-kali-linux-tool-is-illegal-but-amazing-65n)
-- [Getting Started with Prompt Engineering](https://dev.to/ranjancse/getting-started-with-prompt-engineering-3hbc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
