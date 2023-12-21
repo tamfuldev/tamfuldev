@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Loco: The Rails of Rust](https://dev.to/shuttle_dev/introducing-loco-the-rails-of-rust-4l86)
 - [Demystifying HTML: A Comprehensive Guide for Beginners](https://dev.to/rohitashsingh89/demystifying-html-a-comprehensive-guide-for-beginners-4ebe)
+- [Advent of Typescript 2023 Day 21 : TIC TAC TOE](https://dev.to/ecyrbe/advent-of-typescript-2023-day-20-tic-tac-toe-3l14)
 - [What will happen to the full-stack framework in the future?](https://dev.to/zenstack/what-will-happen-to-the-full-stack-framework-in-the-future-4c00)
 - [API completa em Golang - Parte 4](https://dev.to/wiliamvj/api-completa-em-golang-parte-4-i5p)
-- [Enhancing Content Creation: Visual Editing with Sanity and Storyblok for Next.js](https://dev.to/focusreactive/enhancing-content-creation-visual-editing-with-sanity-and-storyblok-for-nextjs-279a)
-- [Unlocking the Magic of JavaScript: A Beginner&#39;s Guide to Hello World Alerts](https://dev.to/aniketsaini65/unlocking-the-magic-of-javascript-a-beginners-guide-to-hello-world-alerts-4afm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
