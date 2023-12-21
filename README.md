@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Trend Detection and Analysis with the AiConfig](https://dev.to/ranjancse/trend-detection-and-analysis-with-the-aiconfig-2ek)
+- [Essentials of TypeScript Classes](https://dev.to/refine/essentials-of-typescript-classes-4mi8)
+- [Amazon Simple Storage Service &lpar;Amazon S3&rpar;](https://dev.to/oncloud7/amazon-simple-storage-service-amazon-s3-4d53)
+- [KNIP | unused files detector](https://dev.to/shubhamtiwari909/knip-unused-files-detector-l1d)
 - [Five Apache projects you probably didn&#39;t know about](https://dev.to/nfrankel/five-apache-projects-you-probably-didnt-know-about-4c5f)
-- [Day 2 - The 12 Days of DEV: February 2023](https://dev.to/devteam/day-2-the-12-days-of-dev-february-2023-5c2j)
-- [The Impact of AI on Writing Code](https://dev.to/iaauteco/the-impact-of-ai-on-writing-code-1c4i)
-- [What makes a solution &quot;Premium&quot;](https://dev.to/kkazala/what-makes-a-solution-premium-2l8n)
-- [Hydra: The Multi-Headed Beast of Password Cracking](https://dev.to/walterowuor/hydra-the-multi-headed-beast-of-password-cracking-327a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
