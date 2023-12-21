@@ -6,8 +6,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Playground for Generative AI](https://dev.to/tanyarai/playground-for-generative-ai-40nc)
 - [Your 2023 Coding Triumphs: What&#39;s Your Proudest Moment?](https://dev.to/devteam/your-2023-coding-triumphs-whats-your-proudest-moment-3p64)
+- [Tech in Everyday Life: When Did Your Coding Skills Unexpectedly Shine?](https://dev.to/codenewbieteam/tech-in-everyday-life-when-did-your-coding-skills-unexpectedly-shine-39f8)
 - [12 Free and Fun API for your next Project](https://dev.to/mukeshkuiry/12-free-and-fun-api-for-your-next-project-5eem)
-- [No Listicles! The chrome add-on that removes list-type articles from your DEV.TO feed](https://dev.to/lnahrf/no-listicles-the-chrome-add-on-that-removes-list-type-articles-from-your-devto-feed-3i8)
 - [A simple website that displays the weather and upcoming games for NFL and MLB &lpar;First project&rpar;.](https://dev.to/emaclean03/a-simple-website-that-displays-the-weather-and-upcoming-games-for-nfl-and-mlb-first-project-pca)
 <!-- BLOG-POST-LIST:END -->
 
