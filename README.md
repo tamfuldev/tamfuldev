@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [#Cardano Analysis for December 21](https://dev.to/irmakork/cardano-analysis-for-december-21-2gp)
-- [Operadores numéricos são mais complexos do que parece](https://dev.to/lucas_ac_am/operadores-numericos-sao-mais-complexos-do-que-parece-2f16)
-- [&quot;Being Open to the Unexpected&quot;: CodeNewbie Podcast S26E8](https://dev.to/codenewbieteam/being-open-to-the-unexpected-codenewbie-podcast-s26e8-1li0)
-- [My criticism about the new Observables API](https://dev.to/artalar/my-criticism-about-the-new-observables-api-37d5)
-- [Migrating From until-destroy To Angular takeUntilDestroyed](https://dev.to/this-is-angular/migrating-from-until-destroy-to-angular-takeuntildestroyed-3chl)
+- [Playground for Generative AI](https://dev.to/tanyarai/playground-for-generative-ai-40nc)
+- [Your 2023 Coding Triumphs: What&#39;s Your Proudest Moment?](https://dev.to/devteam/your-2023-coding-triumphs-whats-your-proudest-moment-3p64)
+- [12 Free and Fun API for your next Project](https://dev.to/mukeshkuiry/12-free-and-fun-api-for-your-next-project-5eem)
+- [No Listicles! The chrome add-on that removes list-type articles from your DEV.TO feed](https://dev.to/lnahrf/no-listicles-the-chrome-add-on-that-removes-list-type-articles-from-your-devto-feed-3i8)
+- [A simple website that displays the weather and upcoming games for NFL and MLB &lpar;First project&rpar;.](https://dev.to/emaclean03/a-simple-website-that-displays-the-weather-and-upcoming-games-for-nfl-and-mlb-first-project-pca)
 <!-- BLOG-POST-LIST:END -->
 
 ---
