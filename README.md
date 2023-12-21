@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Who’s That Pokémon? | JavaScript Project](https://dev.to/codingcss/whos-that-pokemon-javascript-project-45m5)
+- [Create VM on Microsoft Azure with Terraform](https://dev.to/iharshbhavsar/create-vm-on-microsoft-azure-with-terraform-55n6)
+- [The difference between framework and library in JavaScript](https://dev.to/hugaidas/the-difference-between-framework-and-library-in-javascript-219i)
 - [Introducing Loco: The Rails of Rust](https://dev.to/shuttle_dev/introducing-loco-the-rails-of-rust-4l86)
 - [Demystifying HTML: A Comprehensive Guide for Beginners](https://dev.to/rohitashsingh89/demystifying-html-a-comprehensive-guide-for-beginners-4ebe)
-- [Advent of Typescript 2023 Day 21 : TIC TAC TOE](https://dev.to/ecyrbe/advent-of-typescript-2023-day-20-tic-tac-toe-3l14)
-- [What will happen to the full-stack framework in the future?](https://dev.to/zenstack/what-will-happen-to-the-full-stack-framework-in-the-future-4c00)
-- [API completa em Golang - Parte 4](https://dev.to/wiliamvj/api-completa-em-golang-parte-4-i5p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
