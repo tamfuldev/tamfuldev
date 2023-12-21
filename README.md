@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Simplified Networking - Crafting Isolated Echo Server with Rust](https://dev.to/douglasmakey/simplified-networking-crafting-isolated-echo-server-with-rust-c72)
+- [⚡ Levenshtein Distance: A Powerful Algorithm for String Comparison ⚡](https://dev.to/best_codes/understanding-levenshtein-distance-a-powerful-algorithm-for-string-comparison-4p4a)
+- [Manage Your Cypress Logs Like a Pro](https://dev.to/elaichenkov/manage-your-cypress-logs-like-a-pro-23dc)
 - [Why you MUST Add Logger To your project?](https://dev.to/hasanelsherbiny/why-you-must-add-logger-to-your-project-i31)
 - [Tailwind CSS - Beginner&#39;s Guide: Where to Start?](https://dev.to/cezarymazur/tailwind-css-beginners-guide-where-to-start-18lo)
-- [Testing Defer Blocks in Angular with Cypress](https://dev.to/angular/testing-defer-blocks-in-angular-with-cypress-21j8)
-- [Beginner’s Guide to Pandas](https://dev.to/buzzpy/beginners-guide-to-pandas-2fb6)
-- [Standard library functions in C programming.](https://dev.to/sujithvsuresh/standard-library-functions-in-c-programming-3egg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
