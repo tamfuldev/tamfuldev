@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Trends in Software Architecture and Design for the year 2023](https://dev.to/yogini16/trends-in-software-architecture-and-design-for-the-year-2023-3m3k)
 - [I have taken advantage of Excel&#39;s functionality to develop a CLI tool to better manage data](https://dev.to/limingcan562/i-have-taken-advantage-of-excels-functionality-to-develop-a-cli-tool-to-better-manage-data-44o6)
 - [Integrating Sanity&#39;s Presentation Tool with Next.js: Comprehensive Guide](https://dev.to/focusreactive/integrating-sanitys-presentation-tool-with-nextjs-comprehensive-guide-1d0j)
 - [Using Docker Cache Layer to Speed Up Build Time](https://dev.to/akbarnafisa/using-docker-cache-layer-to-speed-up-build-time-2gm)
 - [JavaScript Frameworks - Heading into 2024](https://dev.to/this-is-learning/javascript-frameworks-heading-into-2024-i3l)
-- [Simplified Networking - Crafting Isolated Echo Server with Rust](https://dev.to/douglasmakey/simplified-networking-crafting-isolated-echo-server-with-rust-c72)
 <!-- BLOG-POST-LIST:END -->
 
 ---
