@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [My Top Spatial Web Posts from 2023](https://dev.to/matthewbcool/my-top-spatial-web-posts-from-2023-30od)
+- [Building A Crousal Maker Tool with NextJS ⭐](https://dev.to/random_ti/building-a-crousal-maker-tool-with-nextjs-4pd0)
 - [Lambda Persistent Storage with EFS using CDK](https://dev.to/emmamoinat/lambda-persistent-storage-with-efs-using-cdk-48ie)
 - [Practical ECS scaling: horizontally scaling an application based on its response time](https://dev.to/aws-builders/practical-ecs-scaling-horizontally-scaling-an-application-based-on-its-response-time-bap)
 - [Part 5 - Data Types, Variables, Variable files in Terraform](https://dev.to/aws-builders/part-5-data-types-variables-variable-files-in-terraform-2pgd)
-- [How To Nail The Technical Interview In 2024: Step By Step Guide 🚀](https://dev.to/dragosnedelcu/how-to-nail-your-next-technical-interview-in-2024-step-by-step-4jh0)
-- [How to Maintain Your Online Presence with Social Media](https://dev.to/theoriginalbpc/how-to-maintain-your-online-presence-with-social-media-3ci7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
