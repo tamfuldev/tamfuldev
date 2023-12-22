@@ -16,7 +16,7 @@
 # Latest stack oveflow activity
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><tr><td>Why can&#39;t I get values ​from the form?</td><td>https://stackoverflow.com/questions/77704527/why-cant-i-get-values-from-the-form</td></tr><tr><td>PHP script work well in local but not on hosting</td><td>https://stackoverflow.com/questions/77704454/php-script-work-well-in-local-but-not-on-hosting</td></tr><tr><td>SendGrid Response PHP</td><td>https://stackoverflow.com/questions/77704429/sendgrid-response-php</td></tr><tr><td>Auth driver [ldap] for guard [ldap] is not defined</td><td>https://stackoverflow.com/questions/77704116/auth-driver-ldap-for-guard-ldap-is-not-defined</td></tr><tr><td>404 error when I click link in my codeigniter site</td><td>https://stackoverflow.com/questions/77703860/404-error-when-i-click-link-in-my-codeigniter-site</td></tr><!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:START --><tr><td>ERR_CONNECTION_CLOSED on WIndows 11 Chrome</td><td>https://stackoverflow.com/questions/77704745/err-connection-closed-on-windows-11-chrome</td></tr><tr><td>Why can&#39;t I get values ​from the form?</td><td>https://stackoverflow.com/questions/77704527/why-cant-i-get-values-from-the-form</td></tr><tr><td>PHP script work well in local but not on hosting</td><td>https://stackoverflow.com/questions/77704454/php-script-work-well-in-local-but-not-on-hosting</td></tr><tr><td>SendGrid Response PHP</td><td>https://stackoverflow.com/questions/77704429/sendgrid-response-php</td></tr><tr><td>Auth driver [ldap] for guard [ldap] is not defined</td><td>https://stackoverflow.com/questions/77704116/auth-driver-ldap-for-guard-ldap-is-not-defined</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 
 ---
