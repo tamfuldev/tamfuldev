@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Change comment color visibility in a VS Code theme](https://dev.to/amanhimself/change-comment-color-visibility-in-a-vs-code-theme-12aj)
 - [Instalando a Wiki Outline em Docker com Autenticação via GitLab](https://dev.to/alfredotavio/instalando-a-wiki-outline-em-docker-com-autenticacao-via-gitlab-2fk7)
 - [Surgical insertion — Neovim From Scratch](https://dev.to/aminnairi/surgical-insertion-neovim-from-scratch-4ccf)
 - [All the new javascript array methods you missed in 2023](https://dev.to/kalashin1/all-the-new-javascript-array-methods-you-missed-in-2023-484g)
 - [🌟 #DEVImpact2023 Reflections](https://dev.to/alais29/devimpact2023-reflections-36i2)
-- [Svelte : Toji Fushiguro of Javascript Frameworks.](https://dev.to/kiritocode1/svelte-toji-fushiguro-of-javascript-frameworks-99k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
