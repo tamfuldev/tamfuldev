@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Angular V17 Update: Top Things You Need to Know](https://dev.to/dhruvjoshi9/angular-v17-update-top-things-you-need-to-know-15gc)
 - [Trends in Software Architecture and Design for the year 2023](https://dev.to/yogini16/trends-in-software-architecture-and-design-for-the-year-2023-3m3k)
 - [I have taken advantage of Excel&#39;s functionality to develop a CLI tool to better manage data](https://dev.to/limingcan562/i-have-taken-advantage-of-excels-functionality-to-develop-a-cli-tool-to-better-manage-data-44o6)
 - [A Review of IDs, Labelling Bootstrap Buttons, and Commenting Code](https://dev.to/theoriginalbpc/a-review-of-ids-labelling-bootstrap-buttons-and-commenting-code-2m29)
 - [What You Need to Create a jQuery Playground with Bootstrap](https://dev.to/theoriginalbpc/what-you-need-to-create-a-jquery-playground-with-bootstrap-4ed4)
-- [How to Style Your Website with Bootstrap](https://dev.to/theoriginalbpc/how-to-style-your-website-with-bootstrap-3dd4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
