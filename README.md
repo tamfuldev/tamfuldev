@@ -4,7 +4,7 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Top Spatial Web Posts from 2023](https://dev.to/matthewbcool/my-top-spatial-web-posts-from-2023-30od)
+- [🌟 #DEVImpact2023 Reflections](https://dev.to/alais29/devimpact2023-reflections-36i2)
 - [Building A Crousal Maker Tool with NextJS ⭐](https://dev.to/random_ti/building-a-crousal-maker-tool-with-nextjs-4pd0)
 - [Lambda Persistent Storage with EFS using CDK](https://dev.to/emmamoinat/lambda-persistent-storage-with-efs-using-cdk-48ie)
 - [Practical ECS scaling: horizontally scaling an application based on its response time](https://dev.to/aws-builders/practical-ecs-scaling-horizontally-scaling-an-application-based-on-its-response-time-bap)
