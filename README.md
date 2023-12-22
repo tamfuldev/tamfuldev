@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [HashMap in C#: Detailed Guide](https://dev.to/bytehide/hashmap-in-c-detailed-guide-1p9p)
-- [Access Current Entry in Custom Validation Rule](https://dev.to/visuellverstehen/access-current-entry-in-custom-validation-rule-5ao3)
-- [MySQL: Everything You Need To Know](https://dev.to/serverspace/mysql-everything-you-need-to-know-4mg6)
-- [Database relationships: many-to-one, one-to-one and many-to-many](https://dev.to/ilija/database-relationships-many-to-one-one-to-one-and-many-to-many-3819)
-- [Day 3 - The 12 Days of DEV: March 2023](https://dev.to/devteam/day-3-the-12-days-of-dev-march-2023-4dp2)
+- [Growing from Junior to Senior Designer: How to Climb the Career Ladder](https://dev.to/rafikke_lion/growing-from-junior-to-senior-designer-how-to-climb-the-career-ladder-e4o)
+- [TypeScript vs JavaScript - A Detailed Comparison](https://dev.to/refine/typescript-vs-javascript-a-detailed-comparison-479f)
+- [A Comprehensive Guide to Creative Resources for UI development](https://dev.to/rubiin/a-comprehensive-guide-to-creative-resources-for-ui-development-11ac)
+- [10 mejores programas para pequeñas empresas compatibles con Mac](https://dev.to/oroscoloyamena/10-mejores-programas-para-pequenas-empresas-compatibles-con-mac-2nen)
+- [CI/CI deploy a static website to AWS S3 bucket through Github Actions](https://dev.to/rebecamurillo/cici-deploy-a-static-website-to-aws-s3-bucket-through-github-actions-2g97)
 <!-- BLOG-POST-LIST:END -->
 
 ---
