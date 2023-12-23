@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Guide to Installing and Configuring Grafana on AWS EC2 with MySQL Database Integration](https://dev.to/randiakm/guide-to-installing-and-configuring-grafana-on-aws-ec2-with-mysql-database-integration-d37)
 - [Unveiling the Essence of Requirements in Software Development](https://dev.to/ivangavlik/beyond-code-unveiling-the-true-essence-of-requirements-in-software-development-p20)
 - [🔐 Session-Based vs. Token-Based Authentication: Which is better?🤔](https://dev.to/fidalmathew/session-based-vs-token-based-authentication-which-is-better-227o)
 - [Day 4 - The 12 Days of DEV: April 2023](https://dev.to/devteam/day-4-the-12-days-of-dev-april-2023-2k7m)
 - [Getting started with the Azure Content Safety API.](https://dev.to/drkclw/getting-started-with-the-azure-content-safety-api-59mo)
-- [The Basics: Everything About Hypertext Transfer Protocol](https://dev.to/arijit_m_1/the-basics-everything-about-hypertext-transfer-protocol-1pb8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
