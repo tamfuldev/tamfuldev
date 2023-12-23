@@ -5,10 +5,10 @@
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
 - [Getting started with the Azure Content Safety API.](https://dev.to/drkclw/getting-started-with-the-azure-content-safety-api-59mo)
+- [The Basics: Everything About Hypertext Transfer Protocol](https://dev.to/arijit_m_1/the-basics-everything-about-hypertext-transfer-protocol-1pb8)
 - [Serverless Site Health Check Notification System](https://dev.to/rdarrylr/serverless-site-health-check-notification-system-5bed)
 - [Excited to share my latest creations on AWS PartyRock!](https://dev.to/aws-builders/excited-to-share-my-latest-creation-on-aws-partyrock-2jk)
 - [Top Coding Tools 2023: What Won Your Heart?](https://dev.to/devteam/top-coding-tools-2023-what-won-your-heart-51cn)
-- [Change comment color visibility in a VS Code theme](https://dev.to/amanhimself/change-comment-color-visibility-in-a-vs-code-theme-12aj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
