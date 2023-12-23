@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Getting started with the Azure Content Safety API.](https://dev.to/drkclw/getting-started-with-the-azure-content-safety-api-59mo)
+- [Serverless Site Health Check Notification System](https://dev.to/rdarrylr/serverless-site-health-check-notification-system-5bed)
 - [Excited to share my latest creations on AWS PartyRock!](https://dev.to/aws-builders/excited-to-share-my-latest-creation-on-aws-partyrock-2jk)
 - [Top Coding Tools 2023: What Won Your Heart?](https://dev.to/devteam/top-coding-tools-2023-what-won-your-heart-51cn)
 - [Change comment color visibility in a VS Code theme](https://dev.to/amanhimself/change-comment-color-visibility-in-a-vs-code-theme-12aj)
-- [Project Twenty Two: Graphs](https://dev.to/valeriavg/project-twenty-two-graphs-5e7n)
-- [Instalando a Wiki Outline em Docker com Autenticação via GitLab](https://dev.to/alfredotavio/instalando-a-wiki-outline-em-docker-com-autenticacao-via-gitlab-2fk7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
