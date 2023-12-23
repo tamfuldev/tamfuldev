@@ -7,8 +7,8 @@
 - [Excited to share my latest creations on AWS PartyRock!](https://dev.to/aws-builders/excited-to-share-my-latest-creation-on-aws-partyrock-2jk)
 - [Top Coding Tools 2023: What Won Your Heart?](https://dev.to/devteam/top-coding-tools-2023-what-won-your-heart-51cn)
 - [Change comment color visibility in a VS Code theme](https://dev.to/amanhimself/change-comment-color-visibility-in-a-vs-code-theme-12aj)
+- [Project Twenty Two: Graphs](https://dev.to/valeriavg/project-twenty-two-graphs-5e7n)
 - [Instalando a Wiki Outline em Docker com Autenticação via GitLab](https://dev.to/alfredotavio/instalando-a-wiki-outline-em-docker-com-autenticacao-via-gitlab-2fk7)
-- [Surgical insertion — Neovim From Scratch](https://dev.to/aminnairi/surgical-insertion-neovim-from-scratch-4ccf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
