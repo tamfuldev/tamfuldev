@@ -6,9 +6,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Remove Duplicate CSS Online Tool](https://dev.to/foxinfotech/remove-duplicate-css-online-tool-7bp)
 - [JavaScript est un Langage de Programmation](https://dev.to/tonux_samb/javascript-est-un-langage-de-programmation-5fk5)
+- [Breaking Into Cybersecurity Without Experience or a Degree: A Practical Guide](https://dev.to/neviarrawlinson/breaking-into-cybersecurity-without-experience-or-a-degree-a-practical-guide-23oi)
 - [Areon&#39;s network hackathon](https://dev.to/directorjohnny/areons-network-hackathon-3e92)
 - [Android DevOps CI/CD Pipeline Architecture 📲⚙️](https://dev.to/tharunbalaji31/android-devops-cicd-pipeline-architecture-4ma8)
-- [AREON POST HACKATHON](https://dev.to/ediboy/areon-post-hackathon-575l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
