@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Get Custom Email Notification for EC2 State Changes](https://dev.to/aws-builders/how-to-get-custom-email-notification-for-ec2-state-changes-3jno)
-- [How to Update NPM Packages:](https://dev.to/ashwan_lal/how-to-update-npm-packages-41aa)
-- [5 Ways to Instantly Optimize Your React Application](https://dev.to/ryver_dev/5-ways-to-instantly-optimize-your-react-application-5fii)
-- [🚀Hack Your Design Skills: Basic Rules of Design for Non-Designers 🎨🌎](https://dev.to/lovestaco/hack-your-design-skills-basic-rules-of-design-for-non-designers-42ip)
-- [Yet Another Newsletter LOL: Time to Recharge](https://dev.to/nickytonline/yet-another-newsletter-lol-time-to-recharge-1h24)
+- [Creating a TikTok-like Scrolling Video Feed with React Native Expo](https://dev.to/albertocabrerajr/implement-tiktok-like-feed-using-react-native-expo-1le2)
+- [Contributing to the cause: doing it the open-source way](https://dev.to/thecodersden/contributing-to-the-cause-doing-it-the-open-source-way-3f1)
+- [If only someone told me this before my 1st startup](https://dev.to/johnrushx/if-only-someone-told-me-this-before-my-1st-startup-13aj)
+- [Spent the weekend crafting a delightful animated card using @chakra_ui and @framer motion! 🌟✨](https://dev.to/m_ahmad/spent-the-weekend-crafting-a-delightful-animated-card-using-chakraui-and-framer-motion-2h70)
+- [Introduction to TensorFlow for Deep Learning](https://dev.to/metal0bird/introduction-to-tensorflow-for-deep-learning-3lok)
 <!-- BLOG-POST-LIST:END -->
 
 ---
