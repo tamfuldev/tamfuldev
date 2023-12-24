@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Yet Another Newsletter LOL: Time to Recharge](https://dev.to/nickytonline/yet-another-newsletter-lol-time-to-recharge-1h24)
+- [Play Games, Learn Code - 7 Top CSS Resources 🎉](https://dev.to/random_ti/play-games-learn-code-7-top-css-resources-1982)
 - [Uno Bomb is yet another Uno-like game with fun complications](https://dev.to/cieux1/uno-bomb-is-yet-another-uno-like-game-with-fun-complications-13gj)
 - [Capturing Code Chronicles: A Guide to Git Snapshotting](https://dev.to/iredox10/capturing-code-chronicles-a-guide-to-git-snapshotting-557c)
 - [Tublian Internship Journey: Navigating the Internship Landscape in Week One](https://dev.to/lymah/tublian-internship-journey-navigating-the-internship-landscape-in-week-one-3dj7)
-- [AI 2023: The Year In A Nutshell!](https://dev.to/mitchiemt11/ai-2023-the-year-in-a-nutshell-119e)
-- [Day 5 - The 12 Days of DEV: May 2023](https://dev.to/devteam/day-5-the-12-days-of-dev-may-2023-1ngg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
