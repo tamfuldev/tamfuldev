@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript est un Langage de Programmation](https://dev.to/tonux_samb/javascript-est-un-langage-de-programmation-5fk5)
 - [Android DevOps CI/CD Pipeline Architecture 📲⚙️](https://dev.to/tharunbalaji31/android-devops-cicd-pipeline-architecture-4ma8)
 - [Coding Growth 2023: Share Your Milestones and Learnings](https://dev.to/devteam/coding-growth-2023-share-your-milestones-and-learnings-27la)
 - [Twilio TURN Server Alternative](https://dev.to/alakkadshaw/twilio-turn-server-alternative-290m)
 - [Building the Bubble Estimator Game: A JavaScript Project with SVG and Sound Effects](https://dev.to/piko/building-the-bubble-estimator-game-a-javascript-project-with-svg-and-sound-effects-akb)
-- [Tech/Non-tech books which Tech people should read](https://dev.to/nandinishinduja/technon-tech-books-which-tech-people-should-read-1kh0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
