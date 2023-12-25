@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Drag and Drop Kanban board from scratch with React 🔥](https://dev.to/nasif2ahmed/drag-and-drop-kanban-board-from-scratch-with-react-1j9a)
 - [🚀Extensões usadas em 2023 🚀 *Especial Fim de Ano*](https://dev.to/iamthiago/extensoes-usadas-em-2023-especial-fim-de-ano-3i0i)
 - [JS Design Patterns: A Comprehensive Guide](https://dev.to/topefasasi/js-design-patterns-a-comprehensive-guide-h3m)
 - [Getting Started with AWS ECS: A Beginner&#39;s Guide](https://dev.to/devopshere/getting-started-with-aws-ecs-a-beginners-guide-fkd)
 - [Android cmdline-tools component is missing - Flutter installation issue](https://dev.to/yuridevat/android-cmdline-tools-component-is-missing-flutter-installation-issue-30e3)
-- [Writing Conway&#39;s Game of Life on JavaScript](https://dev.to/vladimirschneider/coding-conways-game-of-life-on-javascript-4epj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
