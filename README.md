@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [The CTO DevOps Handbook: Simple Principles and Examples](https://dev.to/meteorops/the-cto-devops-handbook-simple-principles-and-examples-2jcb)
+- [RBAC in Kubernetes: Elevating Access Control](https://dev.to/fpesre/rbac-in-kubernetes-elevating-access-control-2dfn)
 - [Drag and Drop Kanban board from scratch with React 🔥](https://dev.to/nasif2ahmed/drag-and-drop-kanban-board-from-scratch-with-react-1j9a)
+- [2- Your first ARGO-CD](https://dev.to/sambo2021/2-your-first-argo-cd-5cn7)
 - [🚀Extensões usadas em 2023 🚀 *Especial Fim de Ano*](https://dev.to/iamthiago/extensoes-usadas-em-2023-especial-fim-de-ano-3i0i)
-- [JS Design Patterns: A Comprehensive Guide](https://dev.to/topefasasi/js-design-patterns-a-comprehensive-guide-h3m)
-- [Getting Started with AWS ECS: A Beginner&#39;s Guide](https://dev.to/devopshere/getting-started-with-aws-ecs-a-beginners-guide-fkd)
-- [Android cmdline-tools component is missing - Flutter installation issue](https://dev.to/yuridevat/android-cmdline-tools-component-is-missing-flutter-installation-issue-30e3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
