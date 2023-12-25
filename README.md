@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Embarking on a Coding Adventure with CodeCompanion: Revolutionizing Collaboration and Efficiency](https://dev.to/lotfijb/embarking-on-a-coding-adventure-with-codecompanion-revolutionizing-collaboration-and-efficiency-2740)
+- [Weekly Roundup 032 &lpar;Dec 18&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-032-dec-18-hot-topics-in-workplace-sharepoint-and-powerplatform-4d8g)
+- [The 7 HTML Tags You Most Probably Do Not Know](https://dev.to/muthuannamalai12/the-7-html-tags-you-most-probably-do-not-know-388e)
 - [Learn SQL Quickly &amp; Join Data Easily, With This Simple Method &amp; Get into 11 New Professions !!!!](https://dev.to/linuxguist/learn-sql-quickly-join-data-easily-with-this-simple-method-get-into-11-new-professions--223g)
 - [What&#39;s your biggest nightmare as a developer?](https://dev.to/shricodev/whats-your-biggest-nightmare-as-a-developer-49kp)
-- [Byte-sized Brilliance: JARVIS Picks the Top 5 Tech Trends of the Year](https://dev.to/balagmadhu/byte-sized-brilliance-jarvis-picks-the-top-5-tech-trends-of-the-year-5h11)
-- [Real-time updates in Vue apps with Polling](https://dev.to/jacobandrewsky/real-time-updates-in-vue-apps-with-polling-35eg)
-- [String to Byte Array Conversion in C#: Tutorial](https://dev.to/bytehide/string-to-byte-array-conversion-in-c-tutorial-4h1a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
