@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Lets connect on X](https://dev.to/baransel/lets-connect-on-x-1048)
+- [I built the same app 7 times! Which JS Framework is best?](https://dev.to/johnrushx/i-built-the-same-app-7-times-which-js-framework-is-best-39e0)
 - [The CTO DevOps Handbook: Simple Principles and Examples](https://dev.to/meteorops/the-cto-devops-handbook-simple-principles-and-examples-2jcb)
 - [RBAC in Kubernetes: Elevating Access Control](https://dev.to/fpesre/rbac-in-kubernetes-elevating-access-control-2dfn)
-- [Drag and Drop Kanban board from scratch with React 🔥](https://dev.to/nasif2ahmed/drag-and-drop-kanban-board-from-scratch-with-react-1j9a)
-- [2- Your first ARGO-CD](https://dev.to/sambo2021/2-your-first-argo-cd-5cn7)
-- [🚀Extensões usadas em 2023 🚀 *Especial Fim de Ano*](https://dev.to/iamthiago/extensoes-usadas-em-2023-especial-fim-de-ano-3i0i)
+- [Project Twenty Five: Portfolio](https://dev.to/valeriavg/project-twenty-five-portfolio-38ng)
 <!-- BLOG-POST-LIST:END -->
 
 ---
