@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Day 6 - The 12 Days of DEV: June 2023](https://dev.to/devteam/day-6-the-12-days-of-dev-june-2023-3kam)
+- [Top 7&#39;s Top Authors of the Year](https://dev.to/devteam/top-7s-top-authors-of-the-year-120m)
+- [Figma to HTML: Convert designs to clean HTML code in a click](https://dev.to/builderio/figma-to-html-convert-designs-to-clean-html-code-in-a-click-214)
 - [PDF generation in Laravel](https://dev.to/mazimez/pdf-generation-in-laravel-127d)
-- [Digital Image Processing Notes](https://dev.to/hrshihab/digital-image-processing-notes-851)
-- [Computer Network Notes](https://dev.to/hrshihab/computer-network-notes-2ihn)
-- [Mastering SOLID Principles in C# Building Robust and Maintainable Software](https://dev.to/sardarmudassaralikhan/mastering-solid-principles-in-c-building-robust-and-maintainable-software-1mgo)
-- [Coding Challenges 2024: What&#39;s Your New Year&#39;s Resolution?](https://dev.to/devteam/coding-challenges-2024-whats-your-new-years-resolution-4228)
+- [Basics of Typescript](https://dev.to/ayyanaruto/basics-of-typescript-29nf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
