@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [FLaNK 25 December 2023](https://dev.to/tspannhw/flank-25-december-2023-54i5)
+- [Top 9 AI APIs you must try in 2024](https://dev.to/firecampdev/top-9-ai-apis-you-must-try-in-2024-3pma)
+- [Resources I wish I knew when I started my career](https://dev.to/harshitkumar31/resources-i-wish-i-knew-when-i-started-my-career-4gh6)
+- [Systematic Modern Artwork with AiConfig](https://dev.to/ranjancse/systematic-modern-artwork-with-aiconfig-1ol8)
 - [🚀 API Maker : Release Notes for v1.0.2](https://dev.to/apimaker/api-maker-release-notes-for-v102-2189)
-- [The 7 HTML Tags You Most Probably Do Not Know](https://dev.to/baransel/the-7-html-tags-you-most-probably-do-not-know-2odi)
-- [Optimizing AWS ECS for Cost and Performance: A Comprehensive Guide](https://dev.to/devopshere/optimizing-aws-ecs-for-cost-and-performance-a-comprehensive-guide-f2d)
-- [Fluent Bit with ECS: Configuration Tips and Tricks](https://dev.to/aws-builders/fluent-bit-with-ecs-configuration-tips-and-tricks-4acp)
-- [My GitHub Sponsors Revenue @ 2023](https://dev.to/azu/my-github-sponsors-revenue-2023-1m3d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
