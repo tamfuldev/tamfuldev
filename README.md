@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [I made a website to create memorial pages quickly and easily](https://dev.to/mariorojas/i-made-a-website-to-create-memorial-websites-quickly-and-easily-5fjf)
+- [JavaScript Object Accessors](https://dev.to/elaoqby/javascript-object-accessors-2gf4)
 - [JavaScript Object Methods](https://dev.to/elaoqby/javascript-object-methods-3dgf)
-- [How To Make A Budgeting App In C# With Blazor](https://dev.to/devleader/how-to-make-a-budgeting-app-in-c-with-blazor-28p1)
-- [5 Most Common Security Misconfiguration Vulnerabilities and Their Mitigation](https://dev.to/yayabobi/5-most-common-security-misconfiguration-vulnerabilities-and-their-mitigation-31bc)
-- [Publishing documentation with Astro Starlight](https://dev.to/mrrobot/publishing-documentation-with-astro-starlight-691)
-- [Building an AI Image Classification Tool with Next.js](https://dev.to/codingcss/building-an-ai-image-classification-tool-with-nextjs-470)
+- [Should I Write Articles in English or in My Native Language?](https://dev.to/victorbueno/should-i-write-articles-in-english-or-in-my-native-language-p19)
+- [JavaScript Object Properties](https://dev.to/elaoqby/javascript-object-properties-31ck)
 <!-- BLOG-POST-LIST:END -->
 
 ---
