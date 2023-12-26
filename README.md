@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I made a website to create memorial pages quickly and easily](https://dev.to/mariorojas/i-made-a-website-to-create-memorial-websites-quickly-and-easily-5fjf)
-- [JavaScript Object Accessors](https://dev.to/elaoqby/javascript-object-accessors-2gf4)
-- [JavaScript Object Methods](https://dev.to/elaoqby/javascript-object-methods-3dgf)
-- [Should I Write Articles in English or in My Native Language?](https://dev.to/victorbueno/should-i-write-articles-in-english-or-in-my-native-language-p19)
-- [JavaScript Object Properties](https://dev.to/elaoqby/javascript-object-properties-31ck)
+- [How to make resources more reusable in Laravel](https://dev.to/yasserelgammal/how-to-make-resources-more-reusable-in-laravel-2n3b)
+- [How to get the Top Software Engineering Practices Voice Badge on LinkedIn](https://dev.to/nandinishinduja/how-to-get-the-top-software-engineering-practices-voice-badge-on-linkedin-2imb)
+- [Ugly Sweater CSS: Christmas on Endor](https://dev.to/jarvisscript/ugly-sweater-css-christmas-on-endor-pjp)
+- [Introduction to SVG in html5: Creating basic shapes](https://dev.to/hariet/introduction-to-svg-in-html5-creating-basic-shapes-4l2p)
+- [Convert CSV to DynamoDB Using Lambda - &lpar;Let&#39;s Build 🏗️ Series&rpar;](https://dev.to/aws-builders/convert-csv-to-dynamodb-using-lambda-lets-build-series-5edp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
