@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Instruction driven &quot;State of the Artwork&quot; with AiConfig](https://dev.to/ranjancse/instruction-drive-state-of-the-artwork-with-aiconfig-3i6a)
+- [Day 7 - The 12 Days of DEV: July 2023](https://dev.to/devteam/day-7-the-12-days-of-dev-july-2023-11a4)
+- [👀 Under the Hood at DevHunt 🚀](https://dev.to/livecycle/under-the-hood-at-devhunt-94j)
+- [API Vs Web Scraping: Online Data Extraction Tools](https://dev.to/newsdataio/api-vs-web-scraping-online-data-extraction-tools-5e78)
 - [You NEED to learn GOLANG in 2024 because Every Company is using it!](https://dev.to/mukeshkuiry/you-need-to-learn-golang-in-2024-because-every-company-is-using-it-596b)
-- [Prompt Routing with Zeroshot Technique -AiConfig](https://dev.to/ranjancse/prompt-routing-with-zeroshot-technique-aiconfig-3115)
-- [Convert text links in a text area to clickable links](https://dev.to/phuocng/convert-text-links-in-a-text-area-to-clickable-links-58e5)
-- [How to manage user authentication With React JS](https://dev.to/miracool/how-to-manage-user-authentication-with-react-js-3ic5)
-- [First Contributions: learn how to contribute to open source projects](https://dev.to/shalakadeshan/first-contributions-learn-how-to-contribute-to-open-source-projects-4aom)
 <!-- BLOG-POST-LIST:END -->
 
 ---
