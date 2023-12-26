@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [You NEED to learn GOLANG in 2024 because Every Company is using it!](https://dev.to/mukeshkuiry/you-need-to-learn-golang-in-2024-because-every-company-is-using-it-596b)
 - [Prompt Routing with Zeroshot Technique -AiConfig](https://dev.to/ranjancse/prompt-routing-with-zeroshot-technique-aiconfig-3115)
+- [Convert text links in a text area to clickable links](https://dev.to/phuocng/convert-text-links-in-a-text-area-to-clickable-links-58e5)
 - [How to manage user authentication With React JS](https://dev.to/miracool/how-to-manage-user-authentication-with-react-js-3ic5)
 - [First Contributions: learn how to contribute to open source projects](https://dev.to/shalakadeshan/first-contributions-learn-how-to-contribute-to-open-source-projects-4aom)
-- [Lets connect on X](https://dev.to/baransel/lets-connect-on-x-1048)
-- [I built the same app 7 times! Which JS Framework is best?](https://dev.to/johnrushx/i-built-the-same-app-7-times-which-js-framework-is-best-39e0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
