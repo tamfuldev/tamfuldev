@@ -7,8 +7,8 @@
 - [5 Most Common Security Misconfiguration Vulnerabilities and Their Mitigation](https://dev.to/yayabobi/5-most-common-security-misconfiguration-vulnerabilities-and-their-mitigation-31bc)
 - [Building an AI Image Classification Tool with Next.js](https://dev.to/codingcss/building-an-ai-image-classification-tool-with-nextjs-470)
 - [Go + TypeScript full stack web app, with nextjs, PostgreSQL and Docker](https://dev.to/francescoxx/go-typescript-full-stack-web-app-with-nextjs-postgresql-and-docker-42ln)
+- [Efficiently Managing Data with SELECT During INSERT Queries](https://dev.to/rubab2020/efficiently-managing-data-with-select-during-insert-queries-4l63)
 - [First Try on AWS Security Hub Central Configuration](https://dev.to/aws-builders/first-try-on-aws-security-hub-central-configuration-4kni)
-- [Embracing the AWS Community: Unpacking My AWS Community Builder Welcome Swag Kit 🚀](https://dev.to/aws-builders/embracing-the-aws-community-unpacking-my-aws-community-builder-welcome-swag-kit-5d1l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
