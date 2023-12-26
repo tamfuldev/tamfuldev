@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Fluent Bit with ECS: Configuration Tips and Tricks](https://dev.to/aws-builders/fluent-bit-with-ecs-configuration-tips-and-tricks-4acp)
+- [My GitHub Sponsors Revenue @ 2023](https://dev.to/azu/my-github-sponsors-revenue-2023-1m3d)
+- [Interview: Can You Stop “forEach” in JavaScript?](https://dev.to/polakshahar/interview-can-you-stop-foreach-in-javascript-57h0)
 - [Running stateful workloads on Kubernetes with Rook Ceph](https://dev.to/donaldsebleung/running-stateful-workloads-on-kubernetes-with-rook-ceph-cnl)
 - [Extending GitOps: Effortless continuous integration and deployment on Kubernetes](https://dev.to/amplication/extending-gitops-effortless-continuous-integration-and-deployment-on-kubernetes-1oem)
-- [Instruction driven &quot;State of the Artwork&quot; with AiConfig](https://dev.to/ranjancse/instruction-drive-state-of-the-artwork-with-aiconfig-3i6a)
-- [Day 7 - The 12 Days of DEV: July 2023](https://dev.to/devteam/day-7-the-12-days-of-dev-july-2023-11a4)
-- [👀 Under the Hood at DevHunt 🚀](https://dev.to/livecycle/under-the-hood-at-devhunt-94j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
