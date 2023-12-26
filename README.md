@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Extending GitOps: Effortless continuous integration and deployment on Kubernetes](https://dev.to/amplication/extending-gitops-effortless-continuous-integration-and-deployment-on-kubernetes-1oem)
 - [Instruction driven &quot;State of the Artwork&quot; with AiConfig](https://dev.to/ranjancse/instruction-drive-state-of-the-artwork-with-aiconfig-3i6a)
 - [Day 7 - The 12 Days of DEV: July 2023](https://dev.to/devteam/day-7-the-12-days-of-dev-july-2023-11a4)
 - [👀 Under the Hood at DevHunt 🚀](https://dev.to/livecycle/under-the-hood-at-devhunt-94j)
-- [API Vs Web Scraping: Online Data Extraction Tools](https://dev.to/newsdataio/api-vs-web-scraping-online-data-extraction-tools-5e78)
-- [You NEED to learn GOLANG in 2024 because Every Company is using it!](https://dev.to/mukeshkuiry/you-need-to-learn-golang-in-2024-because-every-company-is-using-it-596b)
+- [Svelte journey | Motion, Transitions, Animations](https://dev.to/chillyhill/svelte-journey-advanced-motion-transitions-animations-32d5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
