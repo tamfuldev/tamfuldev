@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Arrays vs Objetos en JavaScript: Cuándo y Por Qué Utilizarlos](https://dev.to/soyclaradev/arrays-vs-objetos-en-javascript-cuando-y-por-que-utilizarlos-iil)
+- [🚀 Introducing GitLoop: Revolutionize Your Coding Workflow with AI - Join Our Beta!](https://dev.to/akirasato/introducing-gitloop-revolutionize-your-coding-workflow-with-ai-join-our-beta-b86)
+- [20 Button Effects That Will Wow Your User](https://dev.to/canopassoftware/20-button-effects-that-will-wow-your-user-3hc4)
 - [Understanding Default NestJS Project Structure](https://dev.to/shameel/understanding-default-nestjs-project-structure-4ff2)
-- [Transform Text into Speech Instantly - Free &amp; No Signup Required](https://dev.to/foxinfotech/transform-text-into-speech-instantly-free-no-signup-required-k72)
-- [I created a list of all Stripe alternatives.](https://dev.to/alexanderisora/i-created-a-list-of-all-stripe-alternatives-4gbj)
-- [Array in C programming.](https://dev.to/sujithvsuresh/array-in-c-programming-37g3)
-- [Recursion in C programming.](https://dev.to/sujithvsuresh/recursion-in-c-programming-3p8p)
+- [Heap Data Structure: A Comprehensive Guide](https://dev.to/wahidmaster00/heap-data-structure-a-comprehensive-guide-811)
 <!-- BLOG-POST-LIST:END -->
 
 ---
