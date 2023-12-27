@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Create Generative AI assistant with Amazon Q](https://dev.to/vng_bach/create-generative-ai-assistant-with-amazon-q-3d6c)
+- [Implementing App Security – Here’s How To Do It](https://dev.to/michaelperez098/implementing-app-security-heres-how-to-do-it-2c3h)
+- [🚀 Master the Art of Frontend: Essential Free Image Tools to Use in 2024! 🚀](https://dev.to/ritesh2204/essential-free-image-tools-for-frontend-developers-in-2023-2ecp)
 - [Display a confirm modal when closing the browser](https://dev.to/phuocng/display-a-confirm-modal-when-closing-the-browser-52co)
 - [The Syntax of Discreteness - Using SQL as an Example](https://dev.to/esproc_spl/the-syntax-of-discreteness-using-sql-as-an-example-32k3)
-- [Add a special message when users copy text](https://dev.to/phuocng/add-a-special-message-when-users-copy-text-1i0j)
-- [TailwindCSS: The Objective Truth](https://dev.to/aarvinr/tailwindcss-the-objective-truth-3pdf)
-- [What are Your Strategies for Mastering Small Talk?](https://dev.to/codenewbieteam/what-are-your-strategies-for-mastering-small-talk-2nh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
