@@ -5,10 +5,10 @@
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
 - [Tailwind CSS on Hacks: Get to know Preline UI](https://dev.to/cezarymazur/tailwindcss-on-hacks-get-to-know-prelineui-4kmo)
+- [Creating a Searchable Video List in React](https://dev.to/vignalbrice/creating-a-searchable-video-list-in-react-1ja5)
+- [Creating a Searchable Video List in React](https://dev.to/vignalbrice/creating-a-searchable-video-list-in-react-oaj)
+- [Rundeck](https://dev.to/mouni123/rundeck-12d2)
 - [Mastering Standard Commits: Quick Guide to Structured Commit Messages](https://dev.to/tharakamts/mastering-standard-commits-quick-guide-to-structured-commit-messages-2nm1)
-- [Quick guide to CSS Grid](https://dev.to/tlakomy/quick-guide-to-css-grid-1b95)
-- [Exploring the shift from CSS-in-JS to headless UI libraries](https://dev.to/logrocket/exploring-the-shift-from-css-in-js-to-headless-ui-libraries-43o2)
-- [Terraform - Using GitHub Copilot Chat with Terraform](https://dev.to/pwd9000/terraform-using-github-copilot-chat-with-terraform-6ih)
 <!-- BLOG-POST-LIST:END -->
 
 ---
