@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 #DevImpact2023: My 2023 year-in Review](https://dev.to/dumebii/devimpact2023-my-2023-year-in-review-b78)
-- [How to use `.env` file v:20.6.0 `dotenv` npm package do not use.](https://dev.to/zobaidulkazi/how-to-use-env-file-v2060-dotenv-npm-package-do-not-use-930)
-- [Action in C#: Tutorial](https://dev.to/bytehide/action-in-c-tutorial-3o89)
-- [Welcome Thread - v257](https://dev.to/devteam/welcome-thread-v258-5f23)
-- [Key Strategies for Effective Decision-Making in Software Engineering](https://dev.to/marmariadev/key-strategies-for-effective-decision-making-in-software-engineering-2jkf)
+- [Understanding Default NestJS Project Structure](https://dev.to/shameel/understanding-default-nestjs-project-structure-4ff2)
+- [Transform Text into Speech Instantly - Free &amp; No Signup Required](https://dev.to/foxinfotech/transform-text-into-speech-instantly-free-no-signup-required-k72)
+- [I created a list of all Stripe alternatives.](https://dev.to/alexanderisora/i-created-a-list-of-all-stripe-alternatives-4gbj)
+- [Array in C programming.](https://dev.to/sujithvsuresh/array-in-c-programming-37g3)
+- [Recursion in C programming.](https://dev.to/sujithvsuresh/recursion-in-c-programming-3p8p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
