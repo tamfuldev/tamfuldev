@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Day 8 - The 12 Days of DEV: August 2023](https://dev.to/devteam/day-8-the-12-days-of-dev-august-2023-9p4)
+- [Docker for the Absolute Beginner](https://dev.to/abhixsh/docker-for-the-absolute-beginner-3h1p)
+- [Understanding Azure Availability Sets: Ensuring High Availability for Your Applications](https://dev.to/yogini16/understanding-azure-availability-sets-ensuring-high-availability-for-your-applications-297l)
 - [Create Generative AI assistant with Amazon Q](https://dev.to/vng_bach/create-generative-ai-assistant-with-amazon-q-3d6c)
 - [Implementing App Security – Here’s How To Do It](https://dev.to/michaelperez098/implementing-app-security-heres-how-to-do-it-2c3h)
-- [🚀 Master the Art of Frontend: Essential Free Image Tools to Use in 2024! 🚀](https://dev.to/ritesh2204/essential-free-image-tools-for-frontend-developers-in-2023-2ecp)
-- [Display a confirm modal when closing the browser](https://dev.to/phuocng/display-a-confirm-modal-when-closing-the-browser-52co)
-- [The Syntax of Discreteness - Using SQL as an Example](https://dev.to/esproc_spl/the-syntax-of-discreteness-using-sql-as-an-example-32k3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
