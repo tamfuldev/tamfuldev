@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How to copy table data easily with this Chrome Extension](https://dev.to/gbti/how-to-copy-table-data-easily-with-this-chrome-extension-3724)
 - [3 Important Lessons I Learned From My First Paid Tech Writing Gig](https://dev.to/cbid2/3-important-lessons-i-learned-from-my-first-paid-tech-writing-gig-51kl)
+- [Fillable, Guarded in Laravel ! What’s the difference](https://dev.to/kepsondiaz/fillable-guarded-in-laravel-whats-the-difference-589j)
 - [How to get the Top Software Engineering Practices Voice Badge on LinkedIn](https://dev.to/nandinishinduja/how-to-get-the-top-software-engineering-practices-voice-badge-on-linkedin-2imb)
 - [Ugly Sweater CSS: Christmas on Endor](https://dev.to/jarvisscript/ugly-sweater-css-christmas-on-endor-pjp)
-- [Introduction to SVG in html5: Creating basic shapes](https://dev.to/hariet/introduction-to-svg-in-html5-creating-basic-shapes-4l2p)
-- [Convert CSV to DynamoDB Using Lambda - &lpar;Let&#39;s Build 🏗️ Series&rpar;](https://dev.to/aws-builders/convert-csv-to-dynamodb-using-lambda-lets-build-series-5edp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
