@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Standard Commits: Quick Guide to Structured Commit Messages](https://dev.to/tharakamts/mastering-standard-commits-quick-guide-to-structured-commit-messages-2nm1)
+- [Quick guide to CSS Grid](https://dev.to/tlakomy/quick-guide-to-css-grid-1b95)
+- [Terraform - Using GitHub Copilot Chat with Terraform](https://dev.to/pwd9000/terraform-using-github-copilot-chat-with-terraform-6ih)
 - [TWC is not a revolution but…](https://dev.to/jsfez/twc-is-not-a-revolution-but-mb9)
 - [Evitando SQL Injection com Golang](https://dev.to/wiliamvj/evitando-sql-injection-com-golang-1od6)
-- [5 Things Most Developers Learn Too Late](https://dev.to/dragosnedelcu/5-things-most-developers-learn-too-late-5gj3)
-- [Mastering the Art of Web Development Debugging: Strategies and Tools for Efficient Troubleshooting](https://dev.to/iamdoncarey/mastering-the-art-of-web-development-debugging-strategies-and-tools-for-efficient-troubleshooting-47gn)
-- [Lambda Unleashed: Mastering Massive Data Responses](https://dev.to/epilot/lambda-unleashed-mastering-massive-data-responses-3gka)
 <!-- BLOG-POST-LIST:END -->
 
 ---
