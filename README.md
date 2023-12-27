@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v257](https://dev.to/devteam/welcome-thread-v258-5f23)
+- [🚀 #DevImpact2023: My 2023 year-in Review](https://dev.to/dumebii/devimpact2023-my-2023-year-in-review-b78)
+- [How to use `.env` file v:20.6.0 `dotenv` npm package do not use.](https://dev.to/zobaidulkazi/how-to-use-env-file-v2060-dotenv-npm-package-do-not-use-930)
 - [Action in C#: Tutorial](https://dev.to/bytehide/action-in-c-tutorial-3o89)
+- [Welcome Thread - v257](https://dev.to/devteam/welcome-thread-v258-5f23)
 - [Key Strategies for Effective Decision-Making in Software Engineering](https://dev.to/marmariadev/key-strategies-for-effective-decision-making-in-software-engineering-2jkf)
-- [Day 8 - The 12 Days of DEV: August 2023](https://dev.to/devteam/day-8-the-12-days-of-dev-august-2023-9p4)
-- [Docker for the Absolute Beginner](https://dev.to/abhixsh/docker-for-the-absolute-beginner-3h1p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
