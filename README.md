@@ -16,7 +16,7 @@
 # Latest stack oveflow activity
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><tr><td>Issue with CURL</td><td>https://stackoverflow.com/questions/77723357/issue-with-curl</td></tr><tr><td>Pretty URL specific example</td><td>https://stackoverflow.com/questions/77723240/pretty-url-specific-example</td></tr><tr><td>Why isn&#39;t my PHP cURL working on SendGrid?</td><td>https://stackoverflow.com/questions/77723218/why-isnt-my-php-curl-working-on-sendgrid</td></tr><tr><td>How to keep the selected option for company_turnover after reload the page?</td><td>https://stackoverflow.com/questions/77723194/how-to-keep-the-selected-option-for-company-turnover-after-reload-the-page</td></tr><tr><td>How can I shorten Laravel API response time?</td><td>https://stackoverflow.com/questions/77722894/how-can-i-shorten-laravel-api-response-time</td></tr><!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:START --><tr><td>Sum time &lpar;in hours minute&rpar; for each employee</td><td>https://stackoverflow.com/questions/77723582/sum-time-in-hours-minute-for-each-employee</td></tr><tr><td>What are the correct permission settings for WP CLI</td><td>https://stackoverflow.com/questions/77723413/what-are-the-correct-permission-settings-for-wp-cli</td></tr><tr><td>Laravel: How to flatten a multi-dimensional eager loaded Collection</td><td>https://stackoverflow.com/questions/77723409/laravel-how-to-flatten-a-multi-dimensional-eager-loaded-collection</td></tr><tr><td>Issue with CURL</td><td>https://stackoverflow.com/questions/77723357/issue-with-curl</td></tr><tr><td>Pretty URL specific example</td><td>https://stackoverflow.com/questions/77723240/pretty-url-specific-example</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 
 ---
