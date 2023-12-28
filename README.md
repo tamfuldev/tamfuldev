@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Modular System Using ASP.NET Core?](https://dev.to/elanatframework/how-to-build-a-modular-system-using-aspnet-core-401o)
-- [Bandit Level 20 Level 21](https://dev.to/christianpaez/bandit-level-20-level-21-1pm5)
-- [Understanding Git: A Beginner&#39;s Guide !!](https://dev.to/izmroen/understanding-git-a-beginners-guide--5dha)
-- [Tailwind CSS on Hacks: Get to know Preline UI](https://dev.to/cezarymazur/tailwindcss-on-hacks-get-to-know-prelineui-4kmo)
-- [Creating a Searchable Video List in React](https://dev.to/vignalbrice/creating-a-searchable-video-list-in-react-1ja5)
+- [Make Like a Binary Search Tree and...Node?](https://dev.to/greenteaisgreat/make-like-a-binary-search-tree-andnode-1fng)
+- [Generate Photos Of Yourself In Different Cities &amp; Different Fancy Suits With SDXL DreamBooth Training For Free](https://dev.to/furkangozukara/generate-photos-of-yourself-in-different-cities-different-fancy-suits-with-sdxl-dreambooth-training-for-free-5bhf)
+- [Set up Laravel in few steps](https://dev.to/mktheitguy/set-up-laravel-in-few-steps-234n)
+- [My First AWS Event Experience: AWS Summit Berlin 2023](https://dev.to/bongoe/my-first-aws-event-experience-aws-summit-berlin-2023-1795)
+- [WordPress Vs Drupal](https://dev.to/mktheitguy/wordpress-vs-drupal-aa5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
