@@ -5,10 +5,10 @@
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
 - [Stay Playful, Neurodiversity](https://dev.to/adam_cyclones/stay-playful-neurodiversity-3kg6)
+- [I Build a GitHub Worth Estimate Generator](https://dev.to/random_ti/i-build-a-github-worth-estimate-generator-4jjd)
 - [Developing Next.js microservices with Nx](https://dev.to/logrocket/developing-nextjs-microservices-with-nx-3h2a)
 - [Nest.js Controller in Easier Terms](https://dev.to/shameel/nestjs-controller-in-easier-terms-37og)
 - [Tackling Deployment Failures with Git Hooks](https://dev.to/ravishanker/tackling-deployment-failures-with-git-hooks-4gfb)
-- [Let&#39;s code together in 2024](https://dev.to/toviszsolt/lets-code-together-in-2024-347b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
