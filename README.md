@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Free Icons for your reactjs and web applications](https://dev.to/apicrud/free-icons-for-your-reactjs-and-web-applications-ld1)
-- [Factory — JavaScript Design Patterns — Part 3](https://dev.to/jaimaldullat/factory-javascript-design-patterns-part-3-3odl)
-- [2024’s Tech Trend: Frontend for Backend](https://dev.to/opensourcee/2024-is-the-year-of-frontend-for-backend-ffb-6fg)
-- [Code Smell 236 - Unwrapped Lines](https://dev.to/mcsee/code-smell-236-unwrapped-lines-8n7)
-- [Turn Websites into Android Apps with Xtaapp: A Game-Changing Solution for Developers](https://dev.to/aieeeo/turn-websites-into-android-apps-with-xtaapp-a-game-changing-solution-for-developers-3ac)
+- [Enums and Events in Solidity](https://dev.to/scofieldidehen/enums-and-events-in-solidity-36i1)
+- [Do Crypto Price Predictions Actually Predict?](https://dev.to/endeo/do-crypto-price-predictions-actually-predict-3koa)
+- [CSS in Perl](https://dev.to/smonff/css-in-perl-1pl8)
+- [Effortless API Documentation: Accelerating Development with FastAPI, Swagger, and ReDoc](https://dev.to/seracoder/effortless-api-documentation-accelerating-development-with-fastapi-swagger-and-redoc-lb9)
+- [Introduction to unit testing in Java](https://dev.to/ishansoni22/introduction-to-unit-testing-in-java-g0j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
