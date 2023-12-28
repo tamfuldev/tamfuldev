@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Web3 Scams Targeting Your Crypto in 2024](https://dev.to/scofieldidehen/web3-scams-targeting-your-crypto-in-2024-4fcd)
+- [Sloan&#39;s Inbox: Feeling like I&#39;m not doing enough...](https://dev.to/devteam/sloans-inbox-feeling-like-im-not-doing-enough-3b4a)
+- [Array Rotation in JavaScript](https://dev.to/imkrunalkanojiya/array-rotation-in-javascript-2i79)
+- [Setting Up PL/SQL on Linux Ubuntu/WSL](https://dev.to/ayon_ssp/setting-up-plsql-on-linux-ubuntuwsl-376d)
 - [[Beginner] Tailwind quick Introduction and Review](https://dev.to/rodonguyen/beginner-tailwind-quick-introduction-and-review-5all)
-- [Top 10 Things to Add to Your Angular App Coding: A Recipe for Programmer Success](https://dev.to/dhruvjoshi9/top-10-things-to-add-to-your-angular-app-coding-a-recipe-for-programmer-success-2fjg)
-- [Angular v17 Benefits for App Development in 2024](https://dev.to/dhruvjoshi9/angular-v17-benefits-for-app-development-in-2024-528p)
-- [AI Artist of your choice with AiConfig](https://dev.to/ranjancse/ai-artist-of-your-choice-with-aiconfig-359j)
-- [AWS FARGATE OVERVIEW](https://dev.to/aws-builders/aws-fargate-overview-487c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
