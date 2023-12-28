@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [[Beginner] Tailwind quick Introduction and Review](https://dev.to/rodonguyen/beginner-tailwind-quick-introduction-and-review-5all)
+- [Top 10 Things to Add to Your Angular App Coding: A Recipe for Programmer Success](https://dev.to/dhruvjoshi9/top-10-things-to-add-to-your-angular-app-coding-a-recipe-for-programmer-success-2fjg)
+- [Angular v17 Benefits for App Development in 2024](https://dev.to/dhruvjoshi9/angular-v17-benefits-for-app-development-in-2024-528p)
 - [AI Artist of your choice with AiConfig](https://dev.to/ranjancse/ai-artist-of-your-choice-with-aiconfig-359j)
 - [AWS FARGATE OVERVIEW](https://dev.to/aws-builders/aws-fargate-overview-487c)
-- [Animate the removal or addition of an item in a list](https://dev.to/phuocng/animate-the-removal-or-addition-of-an-item-in-a-list-3l2i)
-- [1 Year. 12 Languages.](https://dev.to/jd2r/1-year-12-languages-4k5n)
-- [Unlock Complex Time Series Analysis in SQL with Range Queries](https://dev.to/greptime/unlock-complex-time-series-analysis-in-sql-with-range-queries-3ig9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
