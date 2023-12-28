@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [AI Artist of your choice with AiConfig](https://dev.to/ranjancse/ai-artist-of-your-choice-with-aiconfig-359j)
 - [AWS FARGATE OVERVIEW](https://dev.to/aws-builders/aws-fargate-overview-487c)
+- [Animate the removal or addition of an item in a list](https://dev.to/phuocng/animate-the-removal-or-addition-of-an-item-in-a-list-3l2i)
 - [1 Year. 12 Languages.](https://dev.to/jd2r/1-year-12-languages-4k5n)
-- [Positive Self-Talk Wins: Share Your Triumph?](https://dev.to/codenewbieteam/positive-self-talk-wins-share-your-triumph-499c)
-- [Journey Over Goals: Share a Pivotal Story?](https://dev.to/devteam/journey-over-goals-share-a-pivotal-story-5ai5)
-- [Make Like a Binary Search Tree and...Node?](https://dev.to/greenteaisgreat/make-like-a-binary-search-tree-andnode-1fng)
+- [Unlock Complex Time Series Analysis in SQL with Range Queries](https://dev.to/greptime/unlock-complex-time-series-analysis-in-sql-with-range-queries-3ig9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
