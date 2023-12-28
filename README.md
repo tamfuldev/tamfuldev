@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Let&#39;s code together in 2024](https://dev.to/toviszsolt/lets-code-together-in-2024-347b)
 - [How we built a Swift app that uses Rust](https://dev.to/build-trust/how-we-built-a-swift-app-that-uses-rust-102f)
 - [Enums and Events in Solidity](https://dev.to/scofieldidehen/enums-and-events-in-solidity-36i1)
 - [Encryption ,Hashing , Encoding,...](https://dev.to/hasanelsherbiny/encryption-hashing-encoding-2lpi)
 - [Automate the task of creating requirements.txt with pyreqs!](https://dev.to/arnavrneo/automate-the-task-of-creating-requirementstxt-with-pyreqs-85)
-- [Do Crypto Price Predictions Actually Predict?](https://dev.to/endeo/do-crypto-price-predictions-actually-predict-3koa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
