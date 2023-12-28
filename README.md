@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding eBook Layouts: Fixed vs. Reflowable Formats](https://dev.to/alphaebook/understanding-ebook-layouts-fixed-vs-reflowable-formats-1ogd)
-- [Web3 Scams Targeting Your Crypto in 2024](https://dev.to/scofieldidehen/web3-scams-targeting-your-crypto-in-2024-4fcd)
-- [Sloan&#39;s Inbox: Feeling like I&#39;m not doing enough...](https://dev.to/devteam/sloans-inbox-feeling-like-im-not-doing-enough-3b4a)
-- [Array Rotation in JavaScript](https://dev.to/imkrunalkanojiya/array-rotation-in-javascript-2i79)
-- [Setting Up PL/SQL on Linux Ubuntu/WSL](https://dev.to/ayon_ssp/setting-up-plsql-on-linux-ubuntuwsl-376d)
+- [Day 9 - The 12 Days of DEV: September 2023](https://dev.to/devteam/day-9-the-12-days-of-dev-september-2023-44ag)
+- [DevOps : An emerging need of tech-world](https://dev.to/ghubrakesh/devops-an-emerging-need-of-tech-world-1194)
+- [Writing a toy ECMAScript parser](https://dev.to/ndesmic/writing-a-parser-3658)
+- [Publishing to my blog from Obsidian](https://dev.to/cassidoo/publishing-to-my-blog-from-obsidian-45o8)
+- [2023 Forecast: Predicting Market Dynamics and Adoption of Machine Vision](https://dev.to/eliamartin/2023-forecast-predicting-market-dynamics-and-adoption-of-machine-vision-1gpn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
