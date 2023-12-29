@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [My 2023 recap in two words: THANK YOU](https://dev.to/balastrong/my-2023-recap-in-two-words-thank-you-2ah0)
 - [The new CSS pseudo-classes explained :has&lpar;&rpar;](https://dev.to/cezarymazur/the-new-css-pseudo-classes-explained-has-21pc)
+- [Avoid These 6 Common React useState Hook Mistakes &lpar;Code Example&rpar;](https://dev.to/iamakshaykaushik/avoid-these-6-common-react-usestate-hook-mistakes-code-example-4kgi)
 - [Getting started with Google&#39;s Multi-modal &quot;Gemini Pro Vision&quot; LLM with Javascript for Beginners](https://dev.to/oyemade/getting-started-with-googles-multi-modal-gemini-pro-vision-llm-with-javascript-for-beginners-4144)
 - [The New York Times Files Lawsuit Against OpenAI and Microsoft Over A.I. Usage](https://dev.to/mayankvikash/the-new-york-times-files-lawsuit-against-openai-and-microsoft-over-ai-usage-h3)
-- [Coming to grips with JS: a Rubyist&#39;s deep dive](https://dev.to/fpsvogel/coming-to-grips-with-js-a-rubyists-deep-dive-2oaj)
-- [🌟 #DEVImpact2023: My End of Year Reflections](https://dev.to/adiatiayu/devimpact2023-my-end-of-year-reflections-2pok)
 <!-- BLOG-POST-LIST:END -->
 
 ---
