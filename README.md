@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Dominando las Estructuras de Datos en JavaScript: Arrays, Objects, Sets y Maps](https://dev.to/soyclaradev/dominando-las-estructuras-de-datos-en-javascript-arrays-objects-sets-y-maps-35e3)
+- [High System quality with Spring integration tests](https://dev.to/alexferreiradev/high-system-quality-with-spring-integration-tests-3b53)
+- [What Are Your Daily Rituals &amp; Happiness Habits?](https://dev.to/codenewbieteam/what-are-your-daily-rituals-happiness-habits-1mhi)
 - [Dominando Object en JavaScript: Una Guía Completa](https://dev.to/soyclaradev/dominando-object-en-javascript-una-guia-completa-3k6p)
 - [Dominando Array en JavaScript: Una Guía Completa](https://dev.to/soyclaradev/dominando-array-en-javascript-una-guia-completa-3o6c)
-- [Dominando Map en JavaScript: Una Guía Completa](https://dev.to/soyclaradev/dominando-map-en-javascript-una-guia-completa-para-profesionales-5d11)
-- [When 0.2 + 0.1 Isn&#39;t Quite 0.3: A Comedic Guide to Floating-Point Shenanigans](https://dev.to/ishanbagchi/when-02-01-isnt-quite-03-a-comedic-guide-to-floating-point-shenanigans-7lg)
-- [Dominando Set en JavaScript: Una Guía completa](https://dev.to/soyclaradev/dominando-set-en-javascript-una-guia-completa-2mo6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
