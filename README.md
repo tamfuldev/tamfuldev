@@ -5,10 +5,10 @@
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
 - [Dominando las Estructuras de Datos en JavaScript: Arrays, Objects, Sets y Maps](https://dev.to/soyclaradev/dominando-las-estructuras-de-datos-en-javascript-arrays-objects-sets-y-maps-35e3)
+- [Why standard deviation is important in performance tests](https://dev.to/gpiechnik/why-standard-deviation-is-important-in-performance-tests-1hm7)
 - [High System quality with Spring integration tests](https://dev.to/alexferreiradev/high-system-quality-with-spring-integration-tests-3b53)
+- [Clipboards, Terminals, and Linux](https://dev.to/djmitche/clipboards-terminals-and-linux-3pk5)
 - [What Are Your Daily Rituals &amp; Happiness Habits?](https://dev.to/codenewbieteam/what-are-your-daily-rituals-happiness-habits-1mhi)
-- [Dominando Object en JavaScript: Una Guía Completa](https://dev.to/soyclaradev/dominando-object-en-javascript-una-guia-completa-3k6p)
-- [Dominando Array en JavaScript: Una Guía Completa](https://dev.to/soyclaradev/dominando-array-en-javascript-una-guia-completa-3o6c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
