@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Refactorización de código JavaScript para Startups: Eficiencia con Set y Map](https://dev.to/soyclaradev/refactorizacion-de-codigo-javascript-para-startups-eficiencia-con-set-y-map-7l4)
+- [Set up your Node.js environment in few seconds.](https://dev.to/humjerry/set-up-your-nodejs-environment-in-few-seconds-59jm)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5015)
+- [Casos de Uso de Arrays, Objects, Sets y Maps en Aplicaciones Modernas](https://dev.to/soyclaradev/casos-de-uso-de-arrays-objects-sets-y-maps-en-aplicaciones-modernas-54a1)
 - [Arithmetic Operators in JavaScript](https://dev.to/codingcss/arithmetic-operators-in-javascript-1bnb)
-- [My Mozilla contribution sprint](https://dev.to/bogomil/my-mozilla-contribution-sprint-11d9)
-- [Setting up environment - Godot with VSCode](https://dev.to/eduardojuliao/setting-up-environment-godot-with-vscode-1i90)
-- [Summary of &quot;A Philosophy of Software Design&quot; by John Ousterhout](https://dev.to/carstenbehrens/summary-of-a-philosophy-of-software-design-by-john-ousterhout-c52)
-- [A Brief History of JavaScript Frameworks](https://dev.to/feketegy/a-brief-history-of-javascript-frameworks-2g44)
 <!-- BLOG-POST-LIST:END -->
 
 ---
