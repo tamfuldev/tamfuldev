@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Data Science](https://dev.to/shaheryaryousaf/introduction-to-data-science-for-beginners-1ci6)
-- [Top 10 Projects for Top 1% Frontend Engineers in 2024](https://dev.to/ombharatiya/top-10-projects-for-top-1-frontend-engineers-1443)
-- [Stay Playful, Neurodiversity](https://dev.to/adam_cyclones/stay-playful-neurodiversity-3kg6)
-- [I Build a GitHub Worth Estimate Generator](https://dev.to/random_ti/i-build-a-github-worth-estimate-generator-4jjd)
-- [Developing Next.js microservices with Nx](https://dev.to/logrocket/developing-nextjs-microservices-with-nx-3h2a)
+- [Dominando Object en JavaScript: Una Guía Completa](https://dev.to/soyclaradev/dominando-object-en-javascript-una-guia-completa-3k6p)
+- [Dominando Array en JavaScript: Una Guía Completa](https://dev.to/soyclaradev/dominando-array-en-javascript-una-guia-completa-3o6c)
+- [Dominando Map en JavaScript: Una Guía Completa](https://dev.to/soyclaradev/dominando-map-en-javascript-una-guia-completa-para-profesionales-5d11)
+- [When 0.2 + 0.1 Isn&#39;t Quite 0.3: A Comedic Guide to Floating-Point Shenanigans](https://dev.to/ishanbagchi/when-02-01-isnt-quite-03-a-comedic-guide-to-floating-point-shenanigans-7lg)
+- [Dominando Set en JavaScript: Una Guía completa](https://dev.to/soyclaradev/dominando-set-en-javascript-una-guia-completa-2mo6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
