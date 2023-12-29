@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Refactorización de código JavaScript para Startups: Eficiencia con Set y Map](https://dev.to/soyclaradev/refactorizacion-de-codigo-javascript-para-startups-eficiencia-con-set-y-map-7l4)
-- [Set up your Node.js environment in few seconds.](https://dev.to/humjerry/set-up-your-nodejs-environment-in-few-seconds-59jm)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5015)
-- [Casos de Uso de Arrays, Objects, Sets y Maps en Aplicaciones Modernas](https://dev.to/soyclaradev/casos-de-uso-de-arrays-objects-sets-y-maps-en-aplicaciones-modernas-54a1)
-- [Arithmetic Operators in JavaScript](https://dev.to/codingcss/arithmetic-operators-in-javascript-1bnb)
+- [The New York Times Files Lawsuit Against OpenAI and Microsoft Over A.I. Usage](https://dev.to/mayankvikash/the-new-york-times-files-lawsuit-against-openai-and-microsoft-over-ai-usage-h3)
+- [🌟 #DEVImpact2023: My End of Year Reflections](https://dev.to/adiatiayu/devimpact2023-my-end-of-year-reflections-2pok)
+- [A better, faster approach to downloading docker images without docker-pull: Skopeo](https://dev.to/cprime50/a-better-faster-approach-to-downloading-docker-images-without-docker-pull-skopeo-1n1j)
+- [15 Maneras de usar Excel en la Gestión de Proyectos](https://dev.to/oroscoloyamena/15-maneras-de-usar-excel-en-la-gestion-de-proyectos-4ie2)
+- [Roadmap - Senior Java Developer 2024](https://dev.to/antofik/senior-java-developer-2024-2cof)
 <!-- BLOG-POST-LIST:END -->
 
 ---
