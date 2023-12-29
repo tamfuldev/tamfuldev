@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [What I&#39;ll be learning in 2024](https://dev.to/mukeshkuiry/what-ill-be-leaning-in-2024-1n9i)
+- [Prometheus Fundamentals &lpar;Lesson-01&rpar;](https://dev.to/randiakm/prometheus-fundamentals-lesson-01-568n)
+- [Navigating the Tech Landscape: My journey with Django, JavaScript, and Unfinished Projects](https://dev.to/kimani/navigating-the-tech-landscape-my-journey-with-django-javascript-and-unfinished-projects-4p9f)
 - [Tech-nically Speaking: 30 Days In](https://dev.to/nerajno/tech-nically-speaking-30-days-in-4i70)
 - [The Ultimate Mobile Accessibility Resource Guide](https://dev.to/steady5063/the-ultimate-mobile-accessibility-resource-guide-53gh)
-- [2023 in review... What a year, again and again!!](https://dev.to/aurelievache/2023-in-review-what-a-year-again-and-again-51f2)
-- [My 2023 recap in two words: THANK YOU](https://dev.to/balastrong/my-2023-recap-in-two-words-thank-you-2ah0)
-- [I became a Serverless AWS Community Builder, but this was just the beginning of my journey.](https://dev.to/aws-builders/i-became-a-serverless-aws-community-builder-but-this-was-just-the-beginning-of-my-journey-5gce)
 <!-- BLOG-POST-LIST:END -->
 
 ---
