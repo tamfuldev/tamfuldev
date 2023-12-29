@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [A Brief History of JavaScript Frameworks](https://dev.to/feketegy/a-brief-history-of-javascript-frameworks-2g44)
+- [Year in review, 2023](https://dev.to/aws-heroes/year-in-review-2023-gij)
 - [Supporting the future of open source](https://dev.to/appwrite/supporting-the-future-of-open-source-25bg)
 - [HttpClientHandler in C# - Easy Guide](https://dev.to/bytehide/httpclienthandler-in-c-easy-guide-3490)
-- [Day 10 - The 12 Days of DEV: October 2023](https://dev.to/devteam/day-10-the-12-days-of-dev-october-2023-591d)
-- [A Look Back at 2023&#39;s Top Workplace, SharePoint, and Power Platform Digests](https://dev.to/jaloplo/a-look-back-at-2023s-top-workplace-sharepoint-and-power-platform-digests-2j63)
-- [Pycharm for Python Developers: A Beginners Guide](https://dev.to/scofieldidehen/pycharm-for-python-developers-a-beginners-guide-592o)
+- [Javascript Object.groupBy&lpar;&rpar;, an important method](https://dev.to/vvkkumar06/javascript-objectgroupby-an-important-method-482)
 <!-- BLOG-POST-LIST:END -->
 
 ---
