@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Player Character - First steps &lpar;literally&rpar;](https://dev.to/eduardojuliao/player-character-first-steps-literally-1agm)
+- [Distributed Systems: Challenges, Experiences and Tips](https://dev.to/sirneij/distributed-systems-challenges-experiences-and-tips-eik)
 - [How Do You Keep Your Productivity Killers at Bay?](https://dev.to/codenewbieteam/how-do-you-keep-your-productivity-killers-at-bay-3io9)
 - [Simplify Life: Your Life-hack Playbook?](https://dev.to/devteam/simplify-life-your-life-hack-playbook-283n)
-- [How to make your test case easy to understand by using test naming conventions](https://dev.to/tiuwill/how-to-make-your-test-case-easy-to-understand-by-using-test-naming-conventions-h3g)
-- [Creating your first scene](https://dev.to/eduardojuliao/creating-your-first-scene-5d5e)
-- [🌟 #DEVImpact2023 Reflections](https://dev.to/abbeyperini/devimpact2023-reflections-3p32)
+- [Customize Cognito Access Token with Rust](https://dev.to/aws-builders/customize-cognito-access-token-with-rust-3o3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
