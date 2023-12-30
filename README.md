@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Connect-Four Game](https://dev.to/armaanbarak/connect-four-game-1376)
+- [Day 11 - The 12 Days of DEV: November 2023](https://dev.to/devteam/day-11-the-12-days-of-dev-november-2023-1153)
 - [Best Crypto To Invest in 2024 [Expert Guide]](https://dev.to/scofieldidehen/best-crypto-to-invest-in-2024-expert-guide-4kda)
-- [Your Tech Journey - 2023 Highlights, 2024 Previews! 💻📆](https://dev.to/dev_kiran/your-tech-journey-2023-highlights-2024-previews-mcp)
+- [Your Tech Journey - 2023 Highlights, 2024 Previews! 💻](https://dev.to/dev_kiran/your-tech-journey-2023-highlights-2024-previews-mcp)
 - [I have made my first ever npm package &quot;log-glow&quot;](https://dev.to/ritesh2204/i-have-made-my-first-ever-npm-package-log-glow-1k86)
-- [I created a Dark-Web Search Engine](https://dev.to/mohammadtaseenkhan/i-created-a-dark-web-search-engine-j7i)
-- [Top 10 AR &amp; VR Uses in Mobile App Development to see in 2024](https://dev.to/dhruvjoshi9/top-10-ar-vr-uses-in-mobile-app-development-to-see-in-2024-3adp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
