@@ -5,10 +5,10 @@
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
 - [Power of Tokens:Refresh Tokens and Access Tokens in Backend Development](https://dev.to/speaklouder/power-of-tokensrefresh-tokens-and-access-tokens-in-backend-development-4bc1)
+- [🕺🏼 My life update and the Open Source #DEVImpact2023](https://dev.to/thomasbnt/my-life-update-and-the-open-source-devimpact2023-41h1)
 - [Player Character - First steps &lpar;literally&rpar;](https://dev.to/eduardojuliao/player-character-first-steps-literally-1agm)
 - [Distributed Systems: Challenges, Experiences and Tips](https://dev.to/sirneij/distributed-systems-challenges-experiences-and-tips-eik)
 - [From Concept to Creation: My Story Behind Snoozle](https://dev.to/designly/from-concept-to-creation-my-story-behind-snoozle-1hee)
-- [How Do You Keep Your Productivity Killers at Bay?](https://dev.to/codenewbieteam/how-do-you-keep-your-productivity-killers-at-bay-3io9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
