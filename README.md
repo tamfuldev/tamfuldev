@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Access EC2 Instances Privately Using AWS Systems Manager](https://dev.to/codehirise/access-instances-privately-using-aws-systems-manager-28cm)
 - [What you learning about this weekend? 🧠](https://dev.to/codenewbieteam/what-you-learning-about-this-weekend-22h1)
 - [Engineering Bolt ⚡: #2 Friday Developer Fun 😎](https://dev.to/alexr/engineering-bolt-2-friday-developer-fun-27p6)
 - [Optimising Performance with Next.js [Part 1]](https://dev.to/eddyoc/optimising-performance-with-nextjs-part-1-5d7f)
 - [Top 10 AI trends for 2025](https://dev.to/durgesh4993/top-10-ai-trends-for-2025-1290)
-- [Expressões encadeadas e agrupamento](https://dev.to/lucas_ac_am/expressoes-encadeadas-e-agrupamento-14g6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
