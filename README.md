@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How Do You Keep Your Productivity Killers at Bay?](https://dev.to/codenewbieteam/how-do-you-keep-your-productivity-killers-at-bay-3io9)
+- [Simplify Life: Your Life-hack Playbook?](https://dev.to/devteam/simplify-life-your-life-hack-playbook-283n)
+- [How to make your test case easy to understand by using test naming conventions](https://dev.to/tiuwill/how-to-make-your-test-case-easy-to-understand-by-using-test-naming-conventions-h3g)
 - [Creating your first scene](https://dev.to/eduardojuliao/creating-your-first-scene-5d5e)
-- [Plotting and Data Visualization with Matplotlib](https://dev.to/terieyenike/plotting-and-data-visualization-with-matplotlib-278j)
-- [¿React, Vue o Angular?](https://dev.to/soyclaradev/react-vue-o-angular-1en0)
-- [How we managed GPT-4 API cost at scale](https://dev.to/coderabbitai/how-we-managed-gpt-4-api-cost-at-scale-2893)
-- [What I&#39;ll be learning in 2024](https://dev.to/mukeshkuiry/what-ill-be-leaning-in-2024-1n9i)
+- [🌟 #DEVImpact2023 Reflections](https://dev.to/abbeyperini/devimpact2023-reflections-3p32)
 <!-- BLOG-POST-LIST:END -->
 
 ---
