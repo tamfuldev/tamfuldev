@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Optimising Performance with Next.js [Part 1]](https://dev.to/eddyoc/optimising-performance-with-nextjs-part-1-5d7f)
 - [Top 10 AI trends for 2025](https://dev.to/durgesh4993/top-10-ai-trends-for-2025-1290)
 - [Expressões encadeadas e agrupamento](https://dev.to/lucas_ac_am/expressoes-encadeadas-e-agrupamento-14g6)
 - [Nest.js Nested Routing, Wildcard, Request](https://dev.to/shameel/nestjs-nested-routing-wildcard-request-5888)
 - [The Agile Community is the Priesthood of the 21st Century](https://dev.to/polterguy/the-agile-community-is-the-priesthood-of-the-21st-century-283o)
-- [DjangoConUS 2023: A Wish Fulfilled](https://dev.to/veldakiara/djangoconus-2023-a-wish-fulfilled-2mmc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
