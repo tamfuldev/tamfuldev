@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Nest.js Request | Param, Body, Query, Headers, IP](https://dev.to/shameel/nestjs-request-param-body-query-headers-ip-5e6k)
-- [Why you should only use TypeScript ☝️](https://dev.to/disane/why-you-should-only-use-typescript-5c8b)
-- [Warum du nur noch TypeScript nutzen solltest ☝️](https://dev.to/disane/warum-du-nur-noch-typescript-nutzen-solltest-4onm)
-- [Enabling CORS in a .NET Core Server-Side Application](https://dev.to/ussdlover/enabling-cors-in-a-net-core-server-side-application-2akk)
-- [Everything you need to know about Inheritance in programming](https://dev.to/ishitajuneja/everything-you-need-to-know-about-inheritance-in-programming-4j3h)
+- [CSS Grid vs. Flexbox: Choosing the Right Layout Technique](https://dev.to/braide/css-grid-vs-flexbox-choosing-the-right-layout-technique-1hfa)
+- [Setting up VSCode, Git, and GitHub](https://dev.to/samuellubliner/setting-up-vscode-git-and-github-1akh)
+- [What are Types in TypeScript](https://dev.to/harshit_senpai/what-are-types-in-typescript-pm4)
+- [Context API: What and Why?](https://dev.to/nitintwt27/context-api-what-and-why-544l)
+- [10 Best Javascript Newsletters in 2024](https://dev.to/bigtechdigest/10-best-javascript-newsletters-in-2024-1lii)
 <!-- BLOG-POST-LIST:END -->
 
 ---
