@@ -6,9 +6,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Player Character - First steps &lpar;literally&rpar;](https://dev.to/eduardojuliao/player-character-first-steps-literally-1agm)
 - [Distributed Systems: Challenges, Experiences and Tips](https://dev.to/sirneij/distributed-systems-challenges-experiences-and-tips-eik)
+- [From Concept to Creation: My Story Behind Snoozle](https://dev.to/designly/from-concept-to-creation-my-story-behind-snoozle-1hee)
 - [How Do You Keep Your Productivity Killers at Bay?](https://dev.to/codenewbieteam/how-do-you-keep-your-productivity-killers-at-bay-3io9)
 - [Simplify Life: Your Life-hack Playbook?](https://dev.to/devteam/simplify-life-your-life-hack-playbook-283n)
-- [Customize Cognito Access Token with Rust](https://dev.to/aws-builders/customize-cognito-access-token-with-rust-3o3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
