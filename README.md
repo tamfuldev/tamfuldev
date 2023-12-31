@@ -7,8 +7,8 @@
 - [Make your player roll and animations!](https://dev.to/eduardojuliao/make-your-player-roll-and-animations-4ch8)
 - [Why Angular will shine more in 2024](https://dev.to/swebdev/why-angular-will-shine-more-in-2024-1gmn)
 - [Stock options, vesting, and exercising, oh my](https://dev.to/cassidoo/stock-options-vesting-and-exercising-oh-my-228c)
+- [Using facts and the GitHub API in Ansible](https://dev.to/rimelek/using-facts-and-the-github-api-in-ansible-4i00)
 - [CSS Grid vs. Flexbox: Choosing the Right Layout Technique](https://dev.to/braide/css-grid-vs-flexbox-choosing-the-right-layout-technique-1hfa)
-- [Setting up VSCode, Git, and GitHub](https://dev.to/samuellubliner/setting-up-vscode-git-and-github-1akh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
