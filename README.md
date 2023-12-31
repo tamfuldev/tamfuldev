@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Make your player roll and animations!](https://dev.to/eduardojuliao/make-your-player-roll-and-animations-4ch8)
+- [Why Angular will shine more in 2024](https://dev.to/swebdev/why-angular-will-shine-more-in-2024-1gmn)
+- [Stock options, vesting, and exercising, oh my](https://dev.to/cassidoo/stock-options-vesting-and-exercising-oh-my-228c)
 - [CSS Grid vs. Flexbox: Choosing the Right Layout Technique](https://dev.to/braide/css-grid-vs-flexbox-choosing-the-right-layout-technique-1hfa)
 - [Setting up VSCode, Git, and GitHub](https://dev.to/samuellubliner/setting-up-vscode-git-and-github-1akh)
-- [What are Types in TypeScript](https://dev.to/harshit_senpai/what-are-types-in-typescript-pm4)
-- [Context API: What and Why?](https://dev.to/nitintwt27/context-api-what-and-why-544l)
-- [10 Best Javascript Newsletters in 2024](https://dev.to/bigtechdigest/10-best-javascript-newsletters-in-2024-1lii)
 <!-- BLOG-POST-LIST:END -->
 
 ---
