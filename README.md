@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Navigating Week Two: Insights and Experiences from My Tublian Internship Journey](https://dev.to/lymah/navigating-week-two-insights-and-experiences-from-my-tublian-internship-journey-3ima)
 - [IMPLEMENTING APP SESSION TIMEOUT IN React.JS](https://dev.to/danmusembi/implementing-app-session-timeout-in-reactjs-5c5e)
 - [In-Home Dog Training &amp; Behavior Modification: Transforming Canine Behavior in the Comfort of Home](https://dev.to/comesitstay/in-home-dog-training-behavior-modification-transforming-canine-behavior-in-the-comfort-of-home-4e99)
 - [A Simple Guide to Organizing Api Services in Your Web App](https://dev.to/tazdecoder/a-simple-guide-to-organizing-api-services-in-your-web-app-1o2o)
 - [Dissecting the hell that is Jest setup with ESM and Typescript](https://dev.to/jenc/dissecting-the-hell-that-is-jest-setup-with-esm-and-typescript-2bcp)
-- [My checklist for a production-ready website](https://dev.to/hunghvu/my-checklist-for-a-production-ready-website-3lm7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
