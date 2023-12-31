@@ -4,9 +4,9 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [What to Expect from Angular in 2024](https://dev.to/swebdev/what-to-expect-from-angular-in-2024-43hd)
 - [Optimizing User Experience: Using Ajax for Dynamic Web Page Loading](https://dev.to/braide/optimizing-user-experience-using-ajax-for-dynamic-web-page-loading-3g43)
 - [Make your player roll and animations!](https://dev.to/eduardojuliao/make-your-player-roll-and-animations-4ch8)
-- [Why Angular will shine more in 2024](https://dev.to/swebdev/why-angular-will-shine-more-in-2024-1gmn)
 - [Stock options, vesting, and exercising, oh my](https://dev.to/cassidoo/stock-options-vesting-and-exercising-oh-my-228c)
 - [Using facts and the GitHub API in Ansible](https://dev.to/rimelek/using-facts-and-the-github-api-in-ansible-4i00)
 <!-- BLOG-POST-LIST:END -->
