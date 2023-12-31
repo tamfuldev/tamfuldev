@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Day 12 - The 12 Days of DEV: December 2023](https://dev.to/devteam/day-12-the-12-days-of-dev-december-2023-1hdf)
 - [Future of LLM Interaction](https://dev.to/ranjancse/future-of-llm-interaction-4lcl)
 - [10 Facts Proving NFTs are Scams in 2024](https://dev.to/scofieldidehen/10-facts-proving-nfts-are-scams-in-2024-1he8)
 - [Kubernetes concepts part -3 Introduction to services &amp; Ingress](https://dev.to/pavithra_sandamini/kubernetes-concepts-part-3-introduction-to-services-ingress-4gff)
 - [GitOps for Devs - Part 2: Navigating the Code](https://dev.to/krishanthisera/gitops-for-devs-part-2-the-code-4g5f)
-- [What to Expect from Angular in 2024](https://dev.to/swebdev/what-to-expect-from-angular-in-2024-43hd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
