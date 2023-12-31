@@ -8,7 +8,7 @@
 - [7 Web Components I maybe should have blogged about in 2023](https://dev.to/dannyengelman/7-web-components-i-maybe-should-have-blogged-about-in-2023-28ph)
 - [Enhancing Machine Learning Models: A Deep Dive into Feature Engineering](https://dev.to/salmank/enhancing-machine-learning-models-a-deep-dive-into-feature-engineering-2dh7)
 - [Dev Recap: A Look Back at 2023 in Coding and Open‐Source Development](https://dev.to/hlexnc/dev-recap-a-look-back-at-2023-in-coding-and-open-source-development-ofn)
-- [Top 8 Tech Skills You Must Learn in 2024 to Get a Job in Today&#39;s Dynamic Job Market](https://dev.to/mukeshkuiry/top-8-tech-skills-you-must-learn-in-2024-to-get-a-job-in-todays-dynamic-job-market-55pf)
+- [Programming YouTubers I recommend](https://dev.to/bhumit070/programming-youtubers-i-recommend-38e3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
