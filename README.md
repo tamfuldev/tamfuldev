@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [My checklist for a production-ready website](https://dev.to/hunghvu/my-checklist-for-a-production-ready-website-3lm7)
 - [FLaNK Weekly 31 December 2023](https://dev.to/tspannhw/flank-weekly-31-december-2023-7l8)
+- [Regex is not your enemy](https://dev.to/aloisseckar/regex-is-not-your-enemy-4mgb)
 - [How to get a tech job](https://dev.to/nandinishinduja/how-to-get-a-tech-job-3046)
 - [Happy New Year 🥳](https://dev.to/fernandezbaptiste/happy-new-year-51ff)
-- [Docker - Setup a local JS and Python Development environment &lpar;Part 2&rpar;](https://dev.to/jagkush/docker-setup-a-local-js-and-python-development-environment-part-2-bbh)
-- [Principios de Desarrollo Frontend Avanzado: Una Guía Profesional](https://dev.to/soyclaradev/principios-de-desarrollo-frontend-avanzado-una-guia-del-profesional-30lf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
