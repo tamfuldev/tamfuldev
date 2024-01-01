@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [6 Best JavaScript Courses Online in 2024 &lpar;Free and Paid&rpar;](https://dev.to/stakedesigner/6-best-javascript-courses-online-in-2024-free-and-paid-1oj7)
-- [Test your Code Efficiently using pytest Module](https://dev.to/sachingeek/test-your-code-efficiently-using-pytest-module-4pi7)
-- [Popularity is not Efficiency: Solid.js vs React.js](https://dev.to/miracool/popularity-is-not-efficiency-solidjs-vs-reactjs-de7)
-- [How to make CSS :has&lpar;&rpar; pseudo-class work on Firefox](https://dev.to/yuridevat/how-to-make-css-has-selector-work-on-firefox-1087)
-- [Viral Paper Tested MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model](https://dev.to/furkangozukara/viral-paper-tested-magicanimate-temporally-consistent-human-image-animation-using-diffusion-model-n9c)
+- [How to Add Dashboards to Unleashed X – 2024 Guides](https://dev.to/zaraellie457/how-to-add-dashboards-to-unleashed-x-2024-guides-i4)
+- [Travel Agency Landing Page](https://dev.to/codingcss/travel-agency-landing-page-3g61)
+- [Happy New Year! 🎉 As we welcome 2024](https://dev.to/marmariadev/happy-new-year-as-we-welcome-2024-15k1)
+- [6 Security Measures: A Guide to Safeguarding AI Applications with API Gateway](https://dev.to/api7/6-security-measures-a-guide-to-safeguarding-ai-applications-with-api-gateway-14np)
+- [My data safari &lpar;journey&rpar; as a woman in Tech from Kenya with opinions from my perspective.](https://dev.to/sharonsinei/my-data-safari-journey-as-a-woman-in-tech-from-kenya-with-opinions-from-my-perspective-lg1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
