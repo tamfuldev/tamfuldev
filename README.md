@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Viral Paper Tested MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model](https://dev.to/furkangozukara/viral-paper-tested-magicanimate-temporally-consistent-human-image-animation-using-diffusion-model-n9c)
+- [Music Monday — What are you listening to? &lpar;New Year&#39;s Edition 🥳&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-new-years-edition--29ih)
 - [Redirection in Nest.js](https://dev.to/shameel/redirection-in-nestjs-2lba)
 - [What is Machine Learning?](https://dev.to/burakboduroglu/what-is-machine-learning-1nn4)
 - [Interview Questions for Web Developer - JavaScript](https://dev.to/cookiemonsterdev/interview-questions-for-web-developer-javascript-31b7)
-- [Mastering TypeScript: Looping with Types](https://dev.to/alexanderop/mastering-typescript-looping-with-types-2f92)
-- [🌟 Mastering the Art of Consistency in Tech: My Journey and Strategies 🌟](https://dev.to/nikitakoselev/mastering-the-art-of-consistency-in-tech-my-journey-and-strategies-2npp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
