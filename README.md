@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Player camera](https://dev.to/eduardojuliao/player-camera-1ga9)
 - [Top Android &amp; React Native events to attend in 2024](https://dev.to/amazonappdev/top-android-react-native-events-to-attend-in-2024-477e)
 - [Let&#39;s Test Your CSS skill](https://dev.to/melnik909/lets-test-your-css-skill-5d3m)
 - [Securing Your App: TOTP Authentication with Spring Boot and Angular — Part One — Overview &amp; Project Setup](https://dev.to/amailath/securing-your-app-totp-authentication-with-spring-boot-and-angular-part-one-overview-project-setup-1f3f)
 - [Will AI also replace automation testers? 🤖💭](https://dev.to/gpiechnik/will-ai-also-replace-automation-testers-5eoe)
-- [The DevRel Digest December 2023: DevRel You Should Know Part Two and Reflections on 2023](https://dev.to/lizzzzz/the-devrel-digest-december-2023-devrel-you-should-know-part-two-and-reflections-on-2023-5fk5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
