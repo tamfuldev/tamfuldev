@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 API Maker : Release Notes for v1.0.5](https://dev.to/apimaker/api-maker-release-notes-for-v105-2336)
-- [How to do local setup of API Maker 🚀](https://dev.to/apimaker/how-to-do-local-setup-of-api-maker-3hje)
-- [Player camera](https://dev.to/eduardojuliao/player-camera-1ga9)
-- [Top Android &amp; React Native events to attend in 2024](https://dev.to/amazonappdev/top-android-react-native-events-to-attend-in-2024-477e)
-- [Let&#39;s Test Your CSS skill](https://dev.to/melnik909/lets-test-your-css-skill-5d3m)
+- [What is Master Data Management &lpar;MDM&rpar;](https://dev.to/kedark/what-is-master-data-management-mdm-2mae)
+- [Harmony Within: Sacred Pathways to Spiritual Healing Services.](https://dev.to/suyoug94/harmony-within-sacred-pathways-to-spiritual-healing-services-n7)
+- [The Ultimate React Reading List: Top 15 Must-Read Articles in 2024](https://dev.to/kothariji/the-ultimate-react-reading-list-top-15-must-read-articles-in-2024-2c3)
+- [Best Practices for Seamless EKS Cluster Upgrades with Fargate: A Hands-On Guide](https://dev.to/robinamirbahar/best-practices-for-seamless-eks-cluster-upgrades-with-fargate-a-hands-on-guide-2epf)
+- [Elevate Your Website with Flawless WordPress Theme Integration](https://dev.to/stevejacob45678/elevate-your-website-with-flawless-wordpress-theme-integration-4c0l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
