@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [⏰ setTimeout: Why You Can&#39;t Always Trust It 🤔🚫](https://dev.to/fidalmathew/settimeout-why-you-cant-always-trust-it-4g4c)
 - [Coding Without Coding](https://dev.to/polterguy/coding-without-coding-48bj)
 - [Como se tornar uma pessoa desenvolvedora em 2024?](https://dev.to/feministech/como-se-tornar-uma-pessoa-desenvolvedora-em-2024-2lk0)
-- [Requirement Analysis: Rules vs Lexicons](https://dev.to/xuanphuoc92/requirement-analysis-rules-vs-lexicons-2c7p)
+- [Requirement Analysis - Rules vs Lexicons](https://dev.to/xuanphuoc92/requirement-analysis-rules-vs-lexicons-2c7p)
 - [What are your goals for week 1 of 2024?](https://dev.to/jarvisscript/what-are-your-goals-for-week-1-of-2024-1114)
-- [Introdução ao Protocolo IP](https://dev.to/bl4cktux89/protocolo-ip-2200)
 <!-- BLOG-POST-LIST:END -->
 
 ---
