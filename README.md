@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [⏰ setTimeout: Why You Can&#39;t Always Trust It 🤔🚫](https://dev.to/fidalmathew/settimeout-why-you-cant-always-trust-it-4g4c)
+- [⏰ setTimeout: Why You Can&#39;t Always Trust It? 🤔🚫](https://dev.to/fidalmathew/settimeout-why-you-cant-always-trust-it-4g4c)
 - [Coding Without Coding](https://dev.to/polterguy/coding-without-coding-48bj)
+- [NestJS tip: how to inject the native logger as any other provider](https://dev.to/micalevisk/nestjs-tip-how-to-inject-the-native-logger-as-any-other-provider-5caj)
 - [Como se tornar uma pessoa desenvolvedora em 2024?](https://dev.to/feministech/como-se-tornar-uma-pessoa-desenvolvedora-em-2024-2lk0)
 - [Requirement Analysis - Rules vs Lexicons](https://dev.to/xuanphuoc92/requirement-analysis-rules-vs-lexicons-2c7p)
-- [What are your goals for week 1 of 2024?](https://dev.to/jarvisscript/what-are-your-goals-for-week-1-of-2024-1114)
 <!-- BLOG-POST-LIST:END -->
 
 ---
