@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Coding Without Coding](https://dev.to/polterguy/coding-without-coding-48bj)
+- [Como se tornar uma pessoa desenvolvedora em 2024?](https://dev.to/feministech/como-se-tornar-uma-pessoa-desenvolvedora-em-2024-2lk0)
+- [Requirement Analysis: Rules vs Lexicons](https://dev.to/xuanphuoc92/requirement-analysis-rules-vs-lexicons-2c7p)
+- [What are your goals for week 1 of 2024?](https://dev.to/jarvisscript/what-are-your-goals-for-week-1-of-2024-1114)
 - [Introdução ao Protocolo IP](https://dev.to/bl4cktux89/protocolo-ip-2200)
-- [Join Virtual Coffee in New Year, New Goals!](https://dev.to/virtualcoffee/join-virtual-coffee-in-new-year-new-goals-241m)
-- [Setting Up a WordPress Test Environment With wp-env](https://dev.to/adatole/setting-up-a-wordpress-test-environment-with-wp-env-4fd9)
-- [How to Add Dashboards to Unleashed X – 2024 Guides](https://dev.to/zaraellie457/how-to-add-dashboards-to-unleashed-x-2024-guides-i4)
-- [Travel Agency Landing Page](https://dev.to/codingcss/travel-agency-landing-page-3g61)
 <!-- BLOG-POST-LIST:END -->
 
 ---
