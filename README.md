@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Decimal in C# : How and Where to Use It?](https://dev.to/bytehide/decimal-in-c-how-and-where-to-use-it-387b)
-- [#DEVResolutions2024](https://dev.to/nandinishinduja/devresolutions2024-56h8)
-- [My #DEVResolutions2024 🌟](https://dev.to/robinamirbahar/devresolutions2024-dfj)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5boj)
-- [MongoDB on Your Local Machine Using Docker: A Step-by-Step Guide](https://dev.to/speaklouder/mongodb-on-your-local-machine-using-docker-a-step-by-step-guide-4b2h)
+- [Redirection in Nest.js](https://dev.to/shameel/redirection-in-nestjs-2lba)
+- [What is Machine Learning?](https://dev.to/burakboduroglu/what-is-machine-learning-1nn4)
+- [Interview Questions for Web Developer - JavaScript](https://dev.to/cookiemonsterdev/interview-questions-for-web-developer-javascript-31b7)
+- [Mastering TypeScript: Looping with Types](https://dev.to/alexanderop/mastering-typescript-looping-with-types-2f92)
+- [🌟 Mastering the Art of Consistency in Tech: My Journey and Strategies 🌟](https://dev.to/nikitakoselev/mastering-the-art-of-consistency-in-tech-my-journey-and-strategies-2npp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
