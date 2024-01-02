@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Basics of Statistics in Data Science](https://dev.to/shaheryaryousaf/basics-of-statistics-in-data-science-5ag0)
-- [Building an AI Game Bot 🤖Using Imitation Learning and 3D Convolution ResNet](https://dev.to/akshayballal/building-an-ai-game-bot-using-imitation-learning-and-3d-convolution-resnet-3fe4)
-- [Three tricks to rolling out GitHub Copilot to your team](https://dev.to/github/three-tricks-to-rolling-out-github-copilot-to-your-team-1m07)
-- [Pseudo-Classes In CSS](https://dev.to/shahidbugti/pseudo-classes-in-css-5emh)
-- [HTTP Status Code and HTTP Header in Nest.js Response](https://dev.to/shameel/http-status-code-and-http-header-in-nestjs-response-2bj7)
+- [The Essential Guide to Prompt Engineering for Creators and Innovators](https://dev.to/jeremycmorgan/the-essential-guide-to-prompt-engineering-for-creators-and-innovators-28pk)
+- [HTTP Status Codes: A Guide for Developers](https://dev.to/m__mdy__m/http-status-codes-a-guide-for-developers-822)
+- [Why and When to use Docker, Developing React App using Docker Container with Live Reload](https://dev.to/alaa-m1/why-and-when-to-use-docker-developing-react-app-using-docker-container-with-live-reload-5ei2)
+- [GO vs RUST speed test | Which one to choose in 2024](https://dev.to/mukeshkuiry/go-vs-rust-speed-test-which-one-to-choose-in-2024-1ck)
+- [Use IceStack to build your CSS UI](https://dev.to/sonofmagic/use-icestack-to-build-your-css-ui-2hb2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
