@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Python 🐍 fullstack REST API app with Docker 🐳](https://dev.to/francescoxx/python-fullstack-rest-api-app-with-docker-1101)
-- [Getting started with Microfontends: Key Concepts and Strategies](https://dev.to/this-is-angular/getting-started-with-microfontends-key-concepts-and-strategies-510k)
-- [How tf does Docker Networking even work?!😵‍💫](https://dev.to/code42cate/how-tf-does-docker-networking-even-work-137l)
-- [How to auto-instrument your applications](https://dev.to/woovi/how-to-auto-instrument-your-applications-455c)
-- [Creating a URL Shortener with FastAPI, ReactJs and TailwindCSS](https://dev.to/highcenburg/creating-a-url-shortener-with-fastapi-reactjs-and-tailwindcss-51km)
+- [Um Dia De Trabalho Async - A Rotina Ideal](https://dev.to/lincolixavier/um-dia-trabalho-async-a-rotina-ideal-4ngd)
+- [How to Write Down Your Own Retrospective of 2023](https://dev.to/jmfayard/how-to-write-down-your-own-retrospective-of-2023-15pp)
+- [FREE Resources to Learn Web Development](https://dev.to/shubhamcodes/free-resources-to-learn-web-development-5fgd)
+- [Success Against The Odds](https://dev.to/sgfdevs/success-against-the-odds-5dg7)
+- [Percona Operator for PostgreSQL V2.3](https://dev.to/edithpuclla/percona-operator-for-postgresql-v23-d7g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
