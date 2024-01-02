@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Create Tags Input Field in React.js — No package Required!](https://dev.to/stephengade/create-tags-input-field-in-reactjs-s-no-package-required-5ae4)
+- [Streamlining Email Verification: A Step-by-Step Guide with Spring Boot and Angular](https://dev.to/amailath/streamlining-email-verification-a-step-by-step-guide-with-spring-boot-and-angular-eff)
 - [Bandit Level 21 Level 22](https://dev.to/christianpaez/bandit-level-21-level-22-4ojh)
-- [Troubleshooting permission issues when building Docker containers](https://dev.to/moozzyk/troubleshooting-permission-issues-when-building-docker-containers-55n)
-- [How To Connect a Form to a Database](https://dev.to/domfive/how-to-connect-a-form-to-a-database-4d68)
-- [50 API tools for Every Budget and Requirement](https://dev.to/elliot_brenya/50-api-tools-for-every-budget-and-requirement-3ok2)
-- [My first post](https://dev.to/thrashraf/my-first-post-b1m)
+- [How Have You Contributed to the DEV Community?](https://dev.to/devteam/how-have-you-contributed-to-the-dev-community-1m5g)
+- [Coding Wisdom: Insights from Your Interview Experiences?](https://dev.to/codenewbieteam/coding-wisdom-insights-from-your-interview-experiences-117n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
