@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Start building my AWS Clean Rooms lab](https://dev.to/aws-builders/start-building-my-aws-clean-rooms-lab-1dii)
 - [100 dias de JAVA: Dias 21 a 30](https://dev.to/leitoraincomum/100-dias-de-java-dias-21-a-30-41d6)
+- [Day 7: Uninstalling NixOS from my Macbook Pro](https://dev.to/raymondgh/day-7-uninstalling-nixos-from-my-macbook-pro-3fc9)
+- [Scraping the full snippet from Google search result](https://dev.to/serpapi/scraping-the-full-snippet-from-google-search-result-2i8)
 - [Create Tags Input Field in React.js — No package Required!](https://dev.to/stephengade/create-tags-input-field-in-reactjs-s-no-package-required-5ae4)
-- [Understanding CSS Box Sizing: A Guide to &#39;content-box&#39; and &#39;border-box&#39;](https://dev.to/rawas_aditya/understanding-css-box-sizing-a-guide-to-content-box-and-border-box-3ini)
-- [Streamlining Email Verification: A Step-by-Step Guide with Spring Boot and Angular](https://dev.to/amailath/streamlining-email-verification-a-step-by-step-guide-with-spring-boot-and-angular-eff)
-- [Bandit Level 21 Level 22](https://dev.to/christianpaez/bandit-level-21-level-22-4ojh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
