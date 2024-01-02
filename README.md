@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Building an AI Game Bot 🤖Using Imitation Learning and 3D Convolution ResNet](https://dev.to/akshayballal/building-an-ai-game-bot-using-imitation-learning-and-3d-convolution-resnet-3fe4)
+- [Three tricks to rolling out GitHub Copilot to your team](https://dev.to/github/three-tricks-to-rolling-out-github-copilot-to-your-team-1m07)
+- [Pseudo-Classes In CSS](https://dev.to/shahidbugti/pseudo-classes-in-css-5emh)
+- [HTTP Status Code and HTTP Header in Nest.js Response](https://dev.to/shameel/http-status-code-and-http-header-in-nestjs-response-2bj7)
 - [Unlocking Infinite Possibilities with LangChain 🦜🚀](https://dev.to/jaydeepb21/unlocking-infinite-possibilities-with-langchain-4543)
-- [SOLID: Princípios para um Design de Software Eficaz](https://dev.to/vitorrios1001/solid-principios-para-um-design-de-software-eficaz-19c9)
-- [Navigating the AWS Cloud: My Cloud Resume Challenge Adventure 🚀](https://dev.to/harveyarchitect1/navigating-the-aws-cloud-my-cloud-resume-challenge-adventure-58nb)
-- [Build your first Django app part 2](https://dev.to/doreen970/build-your-first-django-app-part-2-5a4g)
-- [Como criar um bot do discord com javascript](https://dev.to/falcao_g/como-criar-um-bot-do-discord-com-javascript-19im)
 <!-- BLOG-POST-LIST:END -->
 
 ---
