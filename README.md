@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a URL Shortener with FastAPI, ReactJs and TailwindCSS](https://dev.to/highcenburg/creating-a-url-shortener-with-fastapi-reactjs-and-tailwindcss-51km)
 - [Creating a computer vision app in minutes with just two Python functions](https://dev.to/miguelaeh/creating-a-computer-vision-app-in-minutes-with-just-two-python-functions-jmk)
 - [Integrate AI Chatbot into Your App in 2024🏆🥳](https://dev.to/shricodev/integrate-ai-chatbot-into-your-app-in-2024-1i3p)
 - [Top Hacker News Story Aggregator Using Next.js, Resend and Cron Atlas](https://dev.to/pmbanugo/top-hacker-news-story-aggregator-using-nextjs-resend-and-cron-atlas-18k2)
 - [How to Use API7 Enterprise to Proxy gRPC Services?](https://dev.to/api7/how-to-use-api7-enterprise-to-proxy-grpc-services-1j4e)
-- [How To Install Lemon Rat In Termux 2024](https://dev.to/h4ck3r/how-to-install-lemon-rat-in-termux-2024-4pb1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
