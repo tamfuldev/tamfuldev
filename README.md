@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Start building my AWS Clean Rooms lab](https://dev.to/aws-builders/start-building-my-aws-clean-rooms-lab-1dii)
-- [100 dias de JAVA: Dias 21 a 30](https://dev.to/leitoraincomum/100-dias-de-java-dias-21-a-30-41d6)
-- [Day 7: Uninstalling NixOS from my Macbook Pro](https://dev.to/raymondgh/day-7-uninstalling-nixos-from-my-macbook-pro-3fc9)
-- [Scraping the full snippet from Google search result](https://dev.to/serpapi/scraping-the-full-snippet-from-google-search-result-2i8)
-- [Create Tags Input Field in React.js — No package Required!](https://dev.to/stephengade/create-tags-input-field-in-reactjs-s-no-package-required-5ae4)
+- [Beyond the Mug: Exploring the First Decade of AWS Transformation](https://dev.to/ahmedattia/beyond-the-mug-exploring-the-first-decade-of-aws-transformation-1gc0)
+- [Software Dev Interviews: What I look for in a Candidate](https://dev.to/nestedsoftware/software-dev-interviews-what-i-look-for-in-a-candidate-25h6)
+- [PDLC: Prompt Development Life Cycle](https://dev.to/justinmacorin/pdlc-prompt-development-life-cycle-16e6)
+- [10 Ways for Kubernetes Declarative Configuration Management](https://dev.to/peefy/10-ways-for-kubernetes-declarative-configuration-management-5pb)
+- [Cloud Migration Testing with HeadSpin: A Comprehensive Guide](https://dev.to/berthaw82414312/cloud-migration-testing-with-headspin-a-comprehensive-guide-3d4c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
