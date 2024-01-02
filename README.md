@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [HIPAA Compliance Checklist: Key to Expediting HIPAA](https://dev.to/clouddefenseai/hipaa-compliance-checklist-key-to-expediting-hipaa-34kh)
+- [Cloud Computing Market Growth 2023: Optimizing Operations Worldwide](https://dev.to/pkp9/cloud-computing-market-growth-2023-optimizing-operations-worldwide-1fh3)
+- [IoT and Its Impact on IT Networking](https://dev.to/ajaytie/iot-and-its-impact-on-it-networking-3l8k)
 - [Beyond the Mug: Exploring the First Decade of AWS Transformation](https://dev.to/ahmedattia/beyond-the-mug-exploring-the-first-decade-of-aws-transformation-1gc0)
 - [Software Dev Interviews: What I look for in a Candidate](https://dev.to/nestedsoftware/software-dev-interviews-what-i-look-for-in-a-candidate-25h6)
-- [PDLC: Prompt Development Life Cycle](https://dev.to/justinmacorin/pdlc-prompt-development-life-cycle-16e6)
-- [10 Ways for Kubernetes Declarative Configuration Management](https://dev.to/peefy/10-ways-for-kubernetes-declarative-configuration-management-5pb)
-- [Cloud Migration Testing with HeadSpin: A Comprehensive Guide](https://dev.to/berthaw82414312/cloud-migration-testing-with-headspin-a-comprehensive-guide-3d4c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
