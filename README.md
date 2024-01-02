@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Bookmarklets, and why you should use them](https://dev.to/yawaramin/bookmarklets-and-why-you-should-use-them-33j0)
-- [A key constraint blunder ruined my MySQL practical exam. Don&#39;t let it happen to you.](https://dev.to/vedangit/a-key-constraint-blunder-ruined-my-mysql-practical-exam-dont-let-it-happen-to-you-3j6n)
-- [hello &lpar;dev.to&rpar; world](https://dev.to/localhost-run/hello-devto-world-4ppd)
-- [Kick off Your New Year Goals with #100DaysOfOSS](https://dev.to/opensauced/kick-off-your-new-year-goals-with-100daysofoss-12n8)
-- [After using RawJS, I&#39;m never touching React again &lpar;or any framework&rpar;. Vanilla JavaScript is the future.](https://dev.to/paulgordon/after-using-rawjs-im-never-touching-react-again-or-any-framework-vanilla-javascript-is-the-future-3ac1)
+- [Unlocking Infinite Possibilities with LangChain 🦜🚀](https://dev.to/jaydeepb21/unlocking-infinite-possibilities-with-langchain-4543)
+- [SOLID: Princípios para um Design de Software Eficaz](https://dev.to/vitorrios1001/solid-principios-para-um-design-de-software-eficaz-19c9)
+- [Navigating the AWS Cloud: My Cloud Resume Challenge Adventure 🚀](https://dev.to/harveyarchitect1/navigating-the-aws-cloud-my-cloud-resume-challenge-adventure-58nb)
+- [Build your first Django app part 2](https://dev.to/doreen970/build-your-first-django-app-part-2-5a4g)
+- [Como criar um bot do discord com javascript](https://dev.to/falcao_g/como-criar-um-bot-do-discord-com-javascript-19im)
 <!-- BLOG-POST-LIST:END -->
 
 ---
