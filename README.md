@@ -7,8 +7,8 @@
 - [HIPAA Compliance Checklist: Key to Expediting HIPAA](https://dev.to/clouddefenseai/hipaa-compliance-checklist-key-to-expediting-hipaa-34kh)
 - [Cloud Computing Market Growth 2023: Optimizing Operations Worldwide](https://dev.to/pkp9/cloud-computing-market-growth-2023-optimizing-operations-worldwide-1fh3)
 - [IoT and Its Impact on IT Networking](https://dev.to/ajaytie/iot-and-its-impact-on-it-networking-3l8k)
-- [Beyond the Mug: Exploring the First Decade of AWS Transformation](https://dev.to/ahmedattia/beyond-the-mug-exploring-the-first-decade-of-aws-transformation-1gc0)
-- [Software Dev Interviews: What I look for in a Candidate](https://dev.to/nestedsoftware/software-dev-interviews-what-i-look-for-in-a-candidate-25h6)
+- [Top Signs Your E-commerce Store Needs Professional Magento Support Services](https://dev.to/markdenial/top-signs-your-e-commerce-store-needs-professional-magento-support-services-4pd7)
+- [Entendendo o que são middlewares em uma aplicação ASP.NET](https://dev.to/wmscode/entendendo-o-que-sao-middlewares-em-uma-aplicacao-aspnet-5gm0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
