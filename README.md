@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [18 Awesome GitHub Repositories to Bookmark in 2024 🚀🏆](https://dev.to/madza/18-awesome-github-repositories-to-bookmark-in-2024-17kh)
 - [2D Arrays in C#: How To Use Them](https://dev.to/bytehide/2d-arrays-in-c-how-to-use-them-4jgi)
+- [Decoding the Protected Internal Access Modifier in C#: A Balance of Encapsulation and Collaboration](https://dev.to/hamidmolareza/decoding-the-protected-internal-access-modifier-in-c-a-balance-of-encapsulation-and-collaboration-49e3)
+- [CSS in Stylesheets](https://dev.to/lebbe/css-in-stylesheets-bke)
 - [A Guide for Delete Pods from Kubernetes Nodes - kubectl delete](https://dev.to/refine/a-guide-for-delete-pods-from-kubernetes-nodes-kubectl-delete-394e)
-- [A Nazi Christmas at Substack](https://dev.to/jmfayard/a-nazi-christmas-at-substack-1m6f)
-- [6 Database Optimization Techniques](https://dev.to/yogini16/6-database-optimization-techniques-2588)
-- [What is the best and easiest-to-learn programming language in 2024?](https://dev.to/ooosys/what-is-the-best-and-easiest-to-learn-programming-language-in-2024-3934)
 <!-- BLOG-POST-LIST:END -->
 
 ---
