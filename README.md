@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Unreasonable Requirements for Audio Producer Jobs &lpar;Yes, Even At Tech Companies&rpar;](https://dev.to/levisharpe/unreasonable-requirements-for-audio-producer-jobsyes-even-at-tech-companies-2i40)
-- [How to Include Version, Git Commit, and Build Date in Your Angular Builds](https://dev.to/rensjaspers/how-to-include-version-git-commit-and-build-date-in-your-angular-builds-53ok)
-- [Using TypeScript with WebGL to render graphics on the web](https://dev.to/logrocket/using-typescript-with-webgl-to-render-graphics-on-the-web-5dpi)
-- [“Can&#39;t perform a React state update on an unmounted component” warning in React 18](https://dev.to/alaa-m1/cant-perform-a-react-state-update-on-an-unmounted-component-warning-in-react-18-5747)
-- [LangChain&#39;s 1st Module: Model I/O 🤖](https://dev.to/jaydeepb21/1st-module-model-io-4b6a)
+- [How To Change Default Python On A Linux Machine](https://dev.to/furkangozukara/how-to-change-default-python-on-a-linux-machine-5ef)
+- [🚀 7 AI Tools to Improve your productivity: A Deep Dive 🪄✨](https://dev.to/ukanwat/7-ai-tools-to-improve-your-productivity-a-deep-dive-307)
+- [Generating temporary access actions in policies using Terraform with DATE and TIME conditions in AWS.](https://dev.to/segoja7/generating-temporary-access-actions-in-policies-using-terraform-with-date-and-time-conditions-in-aws-1e75)
+- [10 Cool CodePen Demos &lpar;December 2023&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-december-2023-5105)
+- [Boost Your Productivity with Shell Commands: A beginner&#39;s guide to creating aliases and functions](https://dev.to/jemeni11/boost-your-productivity-with-shell-commands-a-beginners-guide-to-creating-aliases-and-functions-255e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
