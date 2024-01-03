@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [What is Open Source &amp; How to contribute to it?](https://dev.to/xkrishguptaa/what-is-open-source-how-to-contribute-to-it-3m13)
+- [The Definitive Programming Roadmap: From Novice to Expert](https://dev.to/mmainulhasan/the-definitive-programming-roadmap-from-novice-to-expert-e1k)
 - [Kubernetes Made Simple - Introducing Cyclops](https://dev.to/cyclops-ui/kubernetes-made-simple-introducing-cyclops-44g0)
+- [Using the ScrollTimeline API for scroll-linked animations](https://dev.to/logrocket/using-the-scrolltimeline-api-for-scroll-linked-animations-5dn6)
 - [How to authenticate to the GitHub REST API with PowerShell](https://dev.to/omiossec/how-to-authenticate-to-the-github-rest-api-with-powershell-blh)
-- [Boost SEO: A Comprehensive Guide to Crawl Budget Optimization &lpar;2024&rpar;](https://dev.to/tomaslau/boost-seo-a-comprehensive-guide-to-crawl-budget-optimization-2024-2f3n)
-- [How to allow users to add Contextual Comments to anywhere on your page](https://dev.to/superviz/how-to-allow-users-to-add-contextual-comments-to-anywhere-on-your-page-428n)
-- [Gitpod CLI Cheatsheet](https://dev.to/gitpod/gitpod-cli-cheatsheet-55hj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
