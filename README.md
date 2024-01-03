@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [“Can&#39;t perform a React state update on an unmounted component” warning in React 18](https://dev.to/alaa-m1/cant-perform-a-react-state-update-on-an-unmounted-component-warning-in-react-18-5747)
+- [Unveiling the Power of Window and Ranking Functions in SQL](https://dev.to/ridhiarora/unveiling-the-power-of-window-and-ranking-functions-in-sql-f8f)
+- [Cloudformation templates for Cloudfront automatic cache invalidation using Lambda within CodePipeline](https://dev.to/maguzzi/cloudformation-templates-for-cloudfront-automatic-cache-invalidation-using-lambda-within-codepipeline-39ko)
+- [Mastering Caching in Nuxt 3: A Comprehensive Guide](https://dev.to/ymir/mastering-caching-in-nuxt-3-a-comprehensive-guide-22ea)
 - [What is Open Source &amp; How to contribute to it?](https://dev.to/xkrishguptaa/what-is-open-source-how-to-contribute-to-it-3m13)
-- [The Definitive Programming Roadmap: From Novice to Expert](https://dev.to/mmainulhasan/the-definitive-programming-roadmap-from-novice-to-expert-e1k)
-- [Kubernetes Made Simple - Introducing Cyclops](https://dev.to/cyclops-ui/kubernetes-made-simple-introducing-cyclops-44g0)
-- [Using the ScrollTimeline API for scroll-linked animations](https://dev.to/logrocket/using-the-scrolltimeline-api-for-scroll-linked-animations-5dn6)
-- [How to authenticate to the GitHub REST API with PowerShell](https://dev.to/omiossec/how-to-authenticate-to-the-github-rest-api-with-powershell-blh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
