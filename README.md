@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Multi-dimensional Array](https://dev.to/sujithvsuresh/multi-dimensional-array-3mdi)
+- [Improving JOIN Performance: Foreign Key Pointerization](https://dev.to/esproc_spl/improving-join-performance-foreign-key-pointerization-4efl)
 - [Crushing it: My New Year&#39;s Resolutions for 2024](https://dev.to/cbid2/crushing-it-my-new-years-resolutions-for-2024-541l)
 - [Unveiling the Future of React: A Dive into Concurrent Mode and Suspense](https://dev.to/ryver_dev/unveiling-the-future-of-react-a-dive-into-concurrent-mode-and-suspense-2m98)
 - [6 Proven Steps for a Recovery Plan After a Career Setback](https://dev.to/brighty_miriam/6-proven-steps-for-a-recovery-plan-after-a-career-setback-m8i)
-- [Building Your First Streamlit Application: A Beginner&#39;s Guide](https://dev.to/shaheryaryousaf/building-your-first-streamlit-application-a-beginners-guide-14ki)
-- [Animated Sprite 2D](https://dev.to/eduardojuliao/animated-sprite-2d-147a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
