@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT Systems: Prompt Injection and How to avoid ?](https://dev.to/shahwar_ai/chatgpt-systems-prompt-injection-and-how-to-avoid--2nc5)
+- [𝟓 𝐎𝐩𝐩𝐨𝐫𝐭𝐮𝐧𝐢𝐭𝐢𝐞𝐬 𝐭𝐨 𝐫𝐞𝐢𝐧𝐯𝐞𝐧𝐭 𝐭𝐡𝐞 𝐖𝐨𝐫𝐥𝐝 𝐢𝐧 𝟐𝟎𝟐𝟒](https://dev.to/johnrushx/-to-reinvent-the-world-in-2024-1f7p)
 - [18 Awesome GitHub Repositories to Bookmark in 2024 🚀🏆](https://dev.to/madza/18-awesome-github-repositories-to-bookmark-in-2024-17kh)
 - [2D Arrays in C#: How To Use Them](https://dev.to/bytehide/2d-arrays-in-c-how-to-use-them-4jgi)
 - [Decoding the Protected Internal Access Modifier in C#: A Balance of Encapsulation and Collaboration](https://dev.to/hamidmolareza/decoding-the-protected-internal-access-modifier-in-c-a-balance-of-encapsulation-and-collaboration-49e3)
-- [CSS in Stylesheets](https://dev.to/lebbe/css-in-stylesheets-bke)
-- [A Guide for Delete Pods from Kubernetes Nodes - kubectl delete](https://dev.to/refine/a-guide-for-delete-pods-from-kubernetes-nodes-kubectl-delete-394e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
