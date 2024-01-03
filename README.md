@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [String in C programming.](https://dev.to/sujithvsuresh/string-in-c-programming-1egj)
+- [AI Agents in 2024](https://dev.to/tereza_tizkova/ai-agents-in-2024-lmi)
+- [Mastering Tailwind CSS: A Quick Guide](https://dev.to/arsalanmee/mastering-tailwind-css-a-quick-guide-2mg1)
+- [The Discord Plan for open-source in 2024](https://dev.to/github20k/the-discord-plan-for-open-source-in-2024-2596)
 - [In Rust for Python: A Match from Heaven](https://dev.to/proteusiq/in-rust-for-python-a-match-from-heaven-51fn)
-- [Building an Email-Protected Notion Page Using Next.js and React-Notion-X](https://dev.to/papermark/building-an-email-protected-notion-page-using-nextjs-and-react-notion-x-2mki)
-- [ChatGPT Systems: Prompt Injection and How to avoid ?](https://dev.to/shahwar_ai/chatgpt-systems-prompt-injection-and-how-to-avoid--2nc5)
-- [𝟓 𝐎𝐩𝐩𝐨𝐫𝐭𝐮𝐧𝐢𝐭𝐢𝐞𝐬 𝐭𝐨 𝐫𝐞𝐢𝐧𝐯𝐞𝐧𝐭 𝐭𝐡𝐞 𝐖𝐨𝐫𝐥𝐝 𝐢𝐧 𝟐𝟎𝟐𝟒](https://dev.to/johnrushx/-to-reinvent-the-world-in-2024-1f7p)
-- [Why Woovi bet on JavaScript?](https://dev.to/woovi/why-woovi-bets-in-javascript-5fn4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
