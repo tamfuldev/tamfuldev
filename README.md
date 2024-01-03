@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [String in C programming.](https://dev.to/sujithvsuresh/string-in-c-programming-1egj)
-- [AI Agents in 2024](https://dev.to/tereza_tizkova/ai-agents-in-2024-lmi)
-- [Mastering Tailwind CSS: A Quick Guide](https://dev.to/arsalanmee/mastering-tailwind-css-a-quick-guide-2mg1)
-- [The Discord Plan for open-source in 2024](https://dev.to/github20k/the-discord-plan-for-open-source-in-2024-2596)
-- [In Rust for Python: A Match from Heaven](https://dev.to/proteusiq/in-rust-for-python-a-match-from-heaven-51fn)
+- [Terraform - Keep dependencies up to date with Dependabot &lpar;Azure DevOps version&rpar;](https://dev.to/pwd9000/terraform-keep-dependencies-up-to-date-with-dependabot-azure-devops-version-40kp)
+- [Paracetamol.py🐍| #09: Explica este código Python](https://dev.to/duxtech/paracetamolpy-09-explica-este-codigo-python-146g)
+- [A Better Alternative To Any CMS](https://dev.to/sskyy/a-better-alternative-to-any-cms-490f)
+- [Understanding the CSS Child Combinator: A Guide to Targeting Direct Descendants](https://dev.to/rawas_aditya/understanding-the-css-child-combinator-a-guide-to-targeting-direct-descendants-232a)
+- [String functions in C programming.](https://dev.to/sujithvsuresh/string-functions-in-c-programming-28hh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
