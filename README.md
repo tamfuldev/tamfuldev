@@ -25,11 +25,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/trngtam10d/comic-site/pull/1) in [trngtam10d/comic-site](https://github.com/trngtam10d/comic-site)
-2. 💪 Opened PR [#1](https://github.com/trngtam10d/comic-site/pull/1) in [trngtam10d/comic-site](https://github.com/trngtam10d/comic-site)
-3. 💪 Opened PR [#32](https://github.com/trngtam10d/trngtam10d.github.io/pull/32) in [trngtam10d/trngtam10d.github.io](https://github.com/trngtam10d/trngtam10d.github.io)
-4. 💪 Opened PR [#31](https://github.com/trngtam10d/trngtam10d.github.io/pull/31) in [trngtam10d/trngtam10d.github.io](https://github.com/trngtam10d/trngtam10d.github.io)
-5. 💪 Opened PR [#30](https://github.com/trngtam10d/trngtam10d.github.io/pull/30) in [trngtam10d/trngtam10d.github.io](https://github.com/trngtam10d/trngtam10d.github.io)
+1. 💪 Opened PR [#2](https://github.com/trngtam10d/comic-site/pull/2) in [trngtam10d/comic-site](https://github.com/trngtam10d/comic-site)
+2. 🎉 Merged PR [#1](https://github.com/trngtam10d/comic-site/pull/1) in [trngtam10d/comic-site](https://github.com/trngtam10d/comic-site)
+3. 💪 Opened PR [#1](https://github.com/trngtam10d/comic-site/pull/1) in [trngtam10d/comic-site](https://github.com/trngtam10d/comic-site)
+4. 💪 Opened PR [#32](https://github.com/trngtam10d/trngtam10d.github.io/pull/32) in [trngtam10d/trngtam10d.github.io](https://github.com/trngtam10d/trngtam10d.github.io)
+5. 💪 Opened PR [#31](https://github.com/trngtam10d/trngtam10d.github.io/pull/31) in [trngtam10d/trngtam10d.github.io](https://github.com/trngtam10d/trngtam10d.github.io)
 <!--END_SECTION:activity-->
 
 </details>
