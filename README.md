@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Create a Registration API in 15 minutes](https://dev.to/polterguy/create-a-registration-api-in-15-minutes-7nk)
 - [Improving Azure AI Search results with semantic search](https://dev.to/willvelida/improving-azure-ai-search-results-with-semantic-search-1mpk)
+- [Improving Cloud performance and Availability](https://dev.to/aws-builders/improving-cloud-performance-and-availability-1lah)
+- [Mastering Metaclasses in Python using real-life scenarios](https://dev.to/iihsan/mastering-metaclasses-in-python-using-real-life-scenarios-57f4)
 - [Introduction to Pandas and NumPy for Data Analysis](https://dev.to/ankithajitwta/introduction-to-pandas-and-numpy-for-data-analysis-2ip2)
-- [December NFT Highlights: Robust Growth and Key Shifts Shape Year-End Trends](https://dev.to/footprint-analytics/december-nft-highlights-robust-growth-and-key-shifts-shape-year-end-trends-3ile)
-- [Morocoin&#39;s Tokenization and Blockchain Insights](https://dev.to/morocoin12545/morocoins-tokenization-and-blockchain-insights-4c03)
-- [4.4 Network Scanning, Monitoring, and Patching](https://dev.to/daisychew/44-network-scanning-monitoring-and-patching-3me1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
