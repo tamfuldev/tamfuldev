@@ -5,10 +5,10 @@
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
 - [No jobs for juniors in IT? 💻👩‍💻](https://dev.to/gpiechnik/no-jobs-for-juniors-in-it-3fii)
+- [[JS] The top-level scope is NOT always the global scope](https://dev.to/yutakusuno/js-the-top-level-scope-is-not-always-the-global-scope-4p84)
 - [Kubernetes Gateway API v1.0: Should You Switch?](https://dev.to/apisix/kubernetes-gateway-api-v10-should-you-switch-45c0)
 - [Quase tudo o que um usuário precisa saber sobre a Stack Overflow](https://dev.to/wonderwanny/quase-tudo-o-que-um-usuario-precisa-saber-sobre-a-stack-overflow-lo)
 - [How Did One Moment Alter Your Path?](https://dev.to/devteam/how-did-a-one-moment-alter-your-path-2g65)
-- [How To Change Default Python On A Linux Machine](https://dev.to/furkangozukara/how-to-change-default-python-on-a-linux-machine-5ef)
 <!-- BLOG-POST-LIST:END -->
 
 ---
