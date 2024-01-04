@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Interview: Run loop without pre-determined method](https://dev.to/shameel/javascript-interview-run-loop-without-pre-determined-method-36g7)
 - [Exploring the World of AWS Badges: A Comprehensive Guide](https://dev.to/davidshaek/almost-all-aws-badges-egi)
 - [Mastering the Art of Dynamic Content: A Guide to Harnessing DraftJS in React for Seamless Post Creation and Server Integration](https://dev.to/astrodev5945/mastering-the-art-of-dynamic-content-a-guide-to-harnessing-draftjs-in-react-for-seamless-post-creation-and-server-integration-5fgh)
 - [&lpar;de&rpar;Bugging](https://dev.to/drewclem/debugging-3lfn)
 - [Exploring Popular Go Frameworks and Libraries](https://dev.to/luthfisauqi17/exploring-popular-go-frameworks-and-libraries-3412)
-- [Cryptoflow: Building a secure and scalable system with Axum and SvelteKit - Part 0](https://dev.to/sirneij/cryptoflow-building-a-secure-and-scalable-system-with-axum-and-sveltekit-part-0-mn5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
