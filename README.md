@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How To Structure a Perfect Technical Tutorial?](https://dev.to/dunithd/how-to-structure-a-perfect-technical-tutorial-21h9)
+- [Codium | AI Assistant for DEVs](https://dev.to/shubhamtiwari909/codium-ai-assistant-for-devs-57of)
+- [Understanding the Twitter Hack of 2020: A Deep Dive](https://dev.to/nikitakoselev/understanding-the-twitter-hack-of-2020-a-deep-dive-2cf4)
+- [Use WorkManager Mindfully and Don’t Make These Mistakes](https://dev.to/brightdevs/use-workmanager-mindfully-and-dont-make-these-mistakes-2gb4)
 - [🔥Matomo 5 UPGRADE - A step-by-step GUIDE 🤌](https://dev.to/glasskube/matomo-5-upgrade-a-step-by-step-guide-1ohe)
-- [🐍 8 backend repos used by the top 1% of python devs 🏆](https://dev.to/quine/8-backend-repos-used-by-the-top-1-of-python-devs-1fbj)
-- [Pointers in C programming.](https://dev.to/sujithvsuresh/pointers-in-c-programming-3ngp)
-- [Why is it Hard to Find a Job? Tips to Find a Job](https://dev.to/m_midas/why-is-it-hard-to-find-a-job-tips-to-find-a-job-ojb)
-- [Deploy NodeJS REST API on ECS Fargate using AWS CodePipeline](https://dev.to/aws-builders/deploy-nodejs-rest-api-on-ecs-fargate-using-aws-codepipeline-coa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
