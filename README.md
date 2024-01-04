@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Small Business Ideas Make Money 2024](https://dev.to/johnmichaelkrohn/small-business-ideas-make-money-2024-3gm8)
+- [How to build your own SAAS business](https://dev.to/kwnaidoo/how-to-build-your-own-saas-business-2op0)
+- [Styleguide in TailwindCSS: Step by step](https://dev.to/cezarymazur/styleguide-in-tailwindcss-step-by-step-2elb)
+- [From Docker Enthusiast to Captain: My Journey with the Whale](https://dev.to/sarthaksavvy/from-docker-enthusiast-to-captain-my-journey-with-the-whale-751)
 - [Create a Registration API in 15 minutes](https://dev.to/polterguy/create-a-registration-api-in-15-minutes-7nk)
-- [Improving Azure AI Search results with semantic search](https://dev.to/willvelida/improving-azure-ai-search-results-with-semantic-search-1mpk)
-- [Improving Cloud performance and Availability](https://dev.to/aws-builders/improving-cloud-performance-and-availability-1lah)
-- [Mastering Metaclasses in Python using real-life scenarios](https://dev.to/iihsan/mastering-metaclasses-in-python-using-real-life-scenarios-57f4)
-- [Introduction to Pandas and NumPy for Data Analysis](https://dev.to/ankithajitwta/introduction-to-pandas-and-numpy-for-data-analysis-2ip2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
