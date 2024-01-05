@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes CrashLoopBackOff - What is it and how to fix it?](https://dev.to/refine/kubernetes-crashloopbackoff-what-is-it-and-how-to-fix-it-4oad)
+- [📌 How to design cloud architectures?](https://dev.to/brainboard/how-to-design-cloud-architectures-bb6)
 - [Amazon Bedrock: Game-changing disruption in 4 sectors](https://dev.to/softwebsolution/amazon-bedrock-game-changing-disruption-in-4-sectors-2j72)
+- [Building a Modular Ecosystem for Code Reusability](https://dev.to/zelcion/meta-system-addons-building-a-modular-ecosystem-for-code-reusability-28ai)
 - [AI For DevOps — Concepts, Benefits, and Tools](https://dev.to/hatica/ai-for-devops-concepts-benefits-and-tools-4lla)
-- [Do you know Closure in JavaScript ?](https://dev.to/mohammad1105/do-you-know-closure-in-javascript--4j95)
-- [[JS] What happens when “use strict” is defined](https://dev.to/yutakusuno/js-what-happens-when-use-strict-is-defined-566f)
-- [How Has a DEV Friendship Enriched Your Experience?](https://dev.to/devteam/how-has-a-dev-friendship-enriched-your-experience-5bh5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
