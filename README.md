@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [¡Oportunidad única en el Microsoft Learn Cloud Skills Challenge!](https://dev.to/danieljsaldana/oportunidad-unica-en-el-microsoft-learn-cloud-skills-challenge-423f)
+- [Top React UI libraries for 2024](https://dev.to/alakkadshaw/top-react-ui-libraries-for-2024-4f21)
+- [Free tools for developers to build their apps](https://dev.to/zainbutt/free-tools-for-developers-to-build-their-apps-412h)
+- [SSH key on github - Windows and Linux](https://dev.to/ryrden/ssh-key-on-github-windows-and-linux-877)
 - [Who&#39;s looking for open source contributors? &lpar;week 64&rpar;](https://dev.to/bekahhw/whos-looking-for-open-source-contributors-week-64-n91)
-- [Criando modal/popover sem JS e CSS em 1 min!](https://dev.to/iurynogueira/criando-modalpopover-sem-js-e-css-em-1-min-5ebk)
-- [Node.js Explained: A Beginner&#39;s Guide to Server-Side JavaScript Runtime](https://dev.to/ihssmaheel/nodejs-explained-a-beginners-guide-to-server-side-javascript-runtime-319n)
-- [The Lua Tutorial](https://dev.to/jd2r/the-lua-tutorial-544b)
-- [ngx-gooey - The gooey effect for Angular 🧽](https://dev.to/wadie/ngx-gooey-the-gooey-effect-for-angular-5bni)
 <!-- BLOG-POST-LIST:END -->
 
 ---
