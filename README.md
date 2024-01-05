@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Criando modal/popover sem JS e CSS em 1 min!](https://dev.to/iurynogueira/criando-modalpopover-sem-js-e-css-em-1-min-5ebk)
+- [Node.js Explained: A Beginner&#39;s Guide to Server-Side JavaScript Runtime](https://dev.to/ihssmaheel/nodejs-explained-a-beginners-guide-to-server-side-javascript-runtime-319n)
 - [The Lua Tutorial](https://dev.to/jd2r/the-lua-tutorial-544b)
 - [Google Docs Viewer - view/embed various file types directly in their BROWSER without the need for downloading](https://dev.to/sh20raj/google-docs-viewer-viewembed-various-file-types-directly-in-their-browser-without-the-need-for-downloading-59p8)
 - [Bisecting vendors](https://dev.to/greg0ire/bisecting-vendors-12kd)
-- [Ditch REST, go intent based](https://dev.to/alertpix/ditch-rest-go-intent-based-34hp)
-- [Why should you use a monorepo for your Product?](https://dev.to/woovi/why-should-you-use-a-monorepo-for-your-product-3led)
 <!-- BLOG-POST-LIST:END -->
 
 ---
