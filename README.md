@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Google Docs Viewer - view/embed various file types directly in their BROWSER without the need for downloading](https://dev.to/sh20raj/google-docs-viewer-viewembed-various-file-types-directly-in-their-browser-without-the-need-for-downloading-59p8)
+- [Ditch REST, go intent based](https://dev.to/alertpix/ditch-rest-go-intent-based-34hp)
+- [Why should you use a monorepo for your Product?](https://dev.to/woovi/why-should-you-use-a-monorepo-for-your-product-3led)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-6l8)
 - [Isolation Levels - part XIII: Explicit Locking with SELECT &lpar;FOR UPDATE&rpar; intention](https://dev.to/yugabyte/isolation-levels-part-xiii-explicit-locking-with-select-for-update-intention-4na3)
-- [Testing Fastify with Node:Test](https://dev.to/massimobiagioli/testing-fastify-with-nodetest-34lm)
-- [Beginners Guide to Managing User Roles and Pemissions in Node.js](https://dev.to/oyedeletemitope/beginners-guide-to-managing-user-roles-and-pemissions-4glc)
-- [Method Usage in C#: Detailed Guide](https://dev.to/bytehide/method-usage-in-c-detailed-guide-o9b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
