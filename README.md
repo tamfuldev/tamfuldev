@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Beginners Guide to Managing User Roles and Pemissions in Node.js](https://dev.to/oyedeletemitope/beginners-guide-to-managing-user-roles-and-pemissions-4glc)
+- [Method Usage in C#: Detailed Guide](https://dev.to/bytehide/method-usage-in-c-detailed-guide-o9b)
 - [Kubernetes CrashLoopBackOff - What is it and how to fix it?](https://dev.to/refine/kubernetes-crashloopbackoff-what-is-it-and-how-to-fix-it-4oad)
 - [📌 How to design cloud architectures?](https://dev.to/brainboard/how-to-design-cloud-architectures-bb6)
-- [Amazon Bedrock: Game-changing disruption in 4 sectors](https://dev.to/softwebsolution/amazon-bedrock-game-changing-disruption-in-4-sectors-2j72)
-- [Building a Modular Ecosystem for Code Reusability](https://dev.to/zelcion/meta-system-addons-building-a-modular-ecosystem-for-code-reusability-28ai)
-- [AI For DevOps — Concepts, Benefits, and Tools](https://dev.to/hatica/ai-for-devops-concepts-benefits-and-tools-4lla)
+- [Nginx and Keycloak: A Perfect Pair for Gateway Security](https://dev.to/sergey-dudik/nginx-and-keycloak-a-perfect-pair-for-gateway-security-3ief)
 <!-- BLOG-POST-LIST:END -->
 
 ---
