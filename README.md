@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [¡Oportunidad única en el Microsoft Learn Cloud Skills Challenge!](https://dev.to/danieljsaldana/oportunidad-unica-en-el-microsoft-learn-cloud-skills-challenge-423f)
-- [Top React UI libraries for 2024](https://dev.to/alakkadshaw/top-react-ui-libraries-for-2024-4f21)
-- [Free tools for developers to build their apps](https://dev.to/zainbutt/free-tools-for-developers-to-build-their-apps-412h)
-- [SSH key on github - Windows and Linux](https://dev.to/ryrden/ssh-key-on-github-windows-and-linux-877)
-- [Who&#39;s looking for open source contributors? &lpar;week 64&rpar;](https://dev.to/bekahhw/whos-looking-for-open-source-contributors-week-64-n91)
+- [Vite makes your Remix dev productivity 10x in SaasRock v0.9.4](https://dev.to/alexandromtzg/vite-makes-your-remix-dev-productivity-10x-in-saasrock-v094-2978)
+- [Key Takeaways for Developers: iOS Development Trends in 2024](https://dev.to/romanburdiuzha/key-takeaways-for-developers-ios-development-trends-in-2024-2gki)
+- [Understanding the basics of React Refs](https://dev.to/programmergeek/understanding-the-basics-of-react-refs-3g1a)
+- [Cancel an Escrow](https://dev.to/rapyd/cancel-an-escrow-3553)
+- [Day 3-4: Variables and Data types](https://dev.to/gitanshu_sankhla/day-3-4-variables-and-data-types-4o6p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
