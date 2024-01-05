@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Who&#39;s looking for open source contributors? &lpar;week 64&rpar;](https://dev.to/bekahhw/whos-looking-for-open-source-contributors-week-64-n91)
 - [Criando modal/popover sem JS e CSS em 1 min!](https://dev.to/iurynogueira/criando-modalpopover-sem-js-e-css-em-1-min-5ebk)
 - [Node.js Explained: A Beginner&#39;s Guide to Server-Side JavaScript Runtime](https://dev.to/ihssmaheel/nodejs-explained-a-beginners-guide-to-server-side-javascript-runtime-319n)
 - [The Lua Tutorial](https://dev.to/jd2r/the-lua-tutorial-544b)
-- [Google Docs Viewer - view/embed various file types directly in their BROWSER without the need for downloading](https://dev.to/sh20raj/google-docs-viewer-viewembed-various-file-types-directly-in-their-browser-without-the-need-for-downloading-59p8)
-- [Bisecting vendors](https://dev.to/greg0ire/bisecting-vendors-12kd)
+- [ngx-gooey - The gooey effect for Angular 🧽](https://dev.to/wadie/ngx-gooey-the-gooey-effect-for-angular-5bni)
 <!-- BLOG-POST-LIST:END -->
 
 ---
