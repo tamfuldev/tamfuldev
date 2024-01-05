@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Turbocharge Your Website: Tips for Lightning-Fast Page Speed ⚡](https://dev.to/baransel/turbocharge-your-website-tips-for-lightning-fast-page-speed-428e)
+- [Build and Deploy a ReactJS App to AWS EC2 with Docker, NGINX, and Automate with GitHub Actions.](https://dev.to/kilamaelie/build-and-deploy-a-reactjs-app-to-aws-ec2-with-docker-nginx-and-automate-with-github-actions-4bk9)
+- [5 Ways to Convert String to a Number in JavaScript](https://dev.to/alakkadshaw/5-ways-to-convert-string-to-a-number-in-javascript-1c0)
+- [Lua Quick Reference 🔎](https://dev.to/jd2r/lua-quick-reference-4ij0)
 - [We Tested 40 Python Courses. Here Are the Best. 👨‍💻🚀](https://dev.to/brian_curricular/we-tested-40-python-courses-here-are-the-best-1jb1)
-- [10 Must-Know Git Commands for Software Engineers](https://dev.to/mukeshkuiry/10-must-know-git-commands-for-software-engineers-3733)
-- [How to test the performance of a webpage](https://dev.to/nandinishinduja/how-to-test-the-performance-of-a-webpage-59pm)
-- [We are multi-talented](https://dev.to/nandinishinduja/we-are-multi-talented-2n63)
-- [Top 5 High Demand Programming Languages in 2024](https://dev.to/jaydeepb21/top-5-highly-sought-after-programming-languages-in-2024-548l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
