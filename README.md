@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How to build filter functionality in an e-commerce website in React js](https://dev.to/ewenikeemmanue4/how-to-build-filter-functionality-in-an-e-commerce-website-in-react-js-3b2a)
+- [Dependency Injection without classes](https://dev.to/cherif_b/dependency-injection-without-classes-4mch)
 - [Enhancing Merge Requests with Vedro and GitLab Test Reports](https://dev.to/mickeystreicher/enhancing-merge-requests-with-vedro-and-gitlab-test-reports-1cl9)
 - [Writing type safe API clients in TypeScript](https://dev.to/nazeelashraf/writing-type-safe-api-clients-in-typescript-1j92)
 - [Learn NextGenCSS🔥 with Project in 4 minutes !?!?](https://dev.to/rudransh61/learn-nextgencss-with-project-in-4-minutes--23b0)
-- [Create a custom cursor](https://dev.to/phuocng/create-a-custom-cursor-2imf)
-- [Mobile Marketing: Optimizing Strategies for a Mobile-First World](https://dev.to/bytesfarms/mobile-marketing-optimizing-strategies-for-a-mobile-first-world-h94)
 <!-- BLOG-POST-LIST:END -->
 
 ---
