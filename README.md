@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Make Money in 2024 as a Freelance Developer](https://dev.to/kemuhost/how-to-make-money-in-2024-as-a-freelance-developer-2mn3)
+- [Meow | HackTheBox Write-up](https://dev.to/shiahalan/meow-hackthebox-write-up-3j0b)
+- [Unveiling the Power of AWS EC2: An Introduction to Elastic Compute Cloud.](https://dev.to/oncloud7/unveiling-the-power-of-aws-ec2-an-introduction-to-elastic-compute-cloud-471m)
+- [Build, Collaborate, Learn: Remote Projects V46 Showcase](https://dev.to/chingu/build-collaborate-learn-remote-projects-v46-showcase-2fkb)
 - [GANs 101: Unraveling the Wonders of Generative Adversarial Networks 🌌](https://dev.to/sahilmadhyan/gans-101-unraveling-the-wonders-of-generative-adversarial-networks-5a18)
 - [What Is Whirling Machine？](https://dev.to/ahmadgbob/what-is-whirling-machine-52nd)
-- [How to build filter functionality in an e-commerce website in React js](https://dev.to/ewenikeemmanue4/how-to-build-filter-functionality-in-an-e-commerce-website-in-react-js-3b2a)
-- [Os benefícios de usar Form Objects em seus projetos](https://dev.to/rodrigonbarreto_86/os-beneficios-de-usar-form-objects-em-seus-projetos-4eml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
