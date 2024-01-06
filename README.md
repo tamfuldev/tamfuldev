@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Create your own GenAI Image Generator App like MidJourney or DALLE-2](https://dev.to/techygeeky/create-your-own-genai-image-generator-app-like-midjourney-or-dalle-2-lej)
-- [⚡Top GitHub Repositories for UI Components](https://dev.to/dev_kiran/top-github-repositories-for-ui-components-dg4)
-- [Master Git with Interactive Learning Platforms! 🚀](https://dev.to/kevinrawal/master-git-with-interactive-learning-platforms-4ohk)
-- [Django Stripe Tutorial](https://dev.to/learndjango/django-stripe-tutorial-3kco)
-- [Milvus Adventures Jan 5, 2023](https://dev.to/chrischurilo/milvus-adventures-jan-5-2023-24eb)
+- [Learn NextGenCSS🔥 with Project in 4 minutes !?!?](https://dev.to/rudransh61/learn-nextgencss-with-project-in-4-minutes--23b0)
+- [Day 5: Mastering Docker Volumes and Data Persistence](https://dev.to/madhuprakashbehara/day-5-mastering-docker-volumes-and-data-persistence-4co4)
+- [Optimizing C++ Exception Debugging with GDB: Effective Strategies for Troubleshooting](https://dev.to/lightcity/optimizing-c-exception-debugging-with-gdb-effective-strategies-for-troubleshooting-4db7)
+- [🟨 JavaScript 2 | Random Quote](https://dev.to/gregor_schafroth/javascript-2-random-quote-2g23)
+- [Study Plan for the week: AWS Cloud Practitioner Certification](https://dev.to/mitha1248/study-plan-for-the-week-aws-cloud-practitioner-certification-2gb6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
