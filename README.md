@@ -8,7 +8,7 @@
 - [Mini Micro Web-Runner CLI](https://dev.to/sebnozzi/mini-micro-web-runner-cli-268f)
 - [2024, me voilà ! 🤩](https://dev.to/thomasbnt/2024-me-voila--45ec)
 - [T3 stack with app router and supabase](https://dev.to/isaacdyor/t3-stack-with-app-router-and-supabase-jh9)
-- [Do You Have a Mantra That Guides You?](https://dev.to/devteam/do-you-have-a-mantra-that-guides-you-17bf)
+- [Interview Mastery: Lessons from Mistakes?](https://dev.to/codenewbieteam/interview-mastery-lessons-from-mistakes-2cb4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
