@@ -6,9 +6,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Comparing CodiumAI PR Agent To GitHub Copilot](https://dev.to/speaklouder/comparing-codiumai-pr-agent-to-github-copilot-5fkj)
 - [🚀 Mastering Frontend Development: A Comprehensive Roadmap 🌐💻](https://dev.to/aajinkya/mastering-frontend-development-a-comprehensive-roadmap-30b6)
+- [About Software Complexity...](https://dev.to/gabotechs/about-software-complexity-569d)
+- [Creating Portals in React with the usePortal Hook](https://dev.to/serifcolakel/creating-portals-in-react-with-the-useportal-hook-e6m)
 - [Creating a modular typography scale with CSS](https://dev.to/carmenansio/creating-a-modular-typography-scale-with-css-2d29)
-- [Year summary - books I recommend](https://dev.to/grzegorzgrzegorz/year-summary-books-i-recommend-26n9)
-- [Rust Learning Note: Writing a Simple Tokio](https://dev.to/raineyanguoft/rust-learning-notewriting-a-simple-tokio-2h2g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
