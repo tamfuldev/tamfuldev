@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Meow | HackTheBox Write-up](https://dev.to/shiahalan/meow-hackthebox-write-up-3j0b)
-- [Unveiling the Power of AWS EC2: An Introduction to Elastic Compute Cloud.](https://dev.to/oncloud7/unveiling-the-power-of-aws-ec2-an-introduction-to-elastic-compute-cloud-471m)
-- [Build, Collaborate, Learn: Remote Projects V46 Showcase](https://dev.to/chingu/build-collaborate-learn-remote-projects-v46-showcase-2fkb)
-- [GANs 101: Unraveling the Wonders of Generative Adversarial Networks 🌌](https://dev.to/sahilmadhyan/gans-101-unraveling-the-wonders-of-generative-adversarial-networks-5a18)
-- [What Is Whirling Machine？](https://dev.to/ahmadgbob/what-is-whirling-machine-52nd)
+- [mdka: Rust crate to convert HTML to Markdown](https://dev.to/nabbisen/mdka-rust-crate-to-convert-html-to-markdown-3bf1)
+- [Unleash the Power of AI with Menu Generator](https://dev.to/aimenugenerator/unleash-the-power-of-ai-with-menu-generator-d1c)
+- [What you learning about this weekend? 🧠](https://dev.to/codenewbieteam/what-you-learning-about-this-weekend-3p4j)
+- [Thank you 2023, onwards to 2024](https://dev.to/anuradhakumari/thank-you-2023-onwards-to-2024-m56)
+- [API completa em Golang - Parte 5](https://dev.to/wiliamvj/api-completa-em-golang-parte-5-4lbo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
