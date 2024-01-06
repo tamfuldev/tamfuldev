@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Large migration projects are complex battles](https://dev.to/matks/large-migration-projects-are-complex-battles-1l4)
 - [Comparing CodiumAI PR Agent To GitHub Copilot](https://dev.to/speaklouder/comparing-codiumai-pr-agent-to-github-copilot-5fkj)
+- [Understanding Volume Mounting in Docker](https://dev.to/jazzybruno/understanding-volume-mounting-in-docker-1ip0)
 - [🚀 Mastering Frontend Development: A Comprehensive Roadmap 🌐💻](https://dev.to/aajinkya/mastering-frontend-development-a-comprehensive-roadmap-30b6)
 - [About Software Complexity...](https://dev.to/gabotechs/about-software-complexity-569d)
-- [Creating Portals in React with the usePortal Hook](https://dev.to/serifcolakel/creating-portals-in-react-with-the-useportal-hook-e6m)
-- [Creating a modular typography scale with CSS](https://dev.to/carmenansio/creating-a-modular-typography-scale-with-css-2d29)
 <!-- BLOG-POST-LIST:END -->
 
 ---
