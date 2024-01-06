@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Enhancing Merge Requests with Vedro and GitLab Test Reports](https://dev.to/mickeystreicher/enhancing-merge-requests-with-vedro-and-gitlab-test-reports-1cl9)
+- [Writing type safe API clients in TypeScript](https://dev.to/nazeelashraf/writing-type-safe-api-clients-in-typescript-1j92)
 - [Learn NextGenCSS🔥 with Project in 4 minutes !?!?](https://dev.to/rudransh61/learn-nextgencss-with-project-in-4-minutes--23b0)
-- [Day 5: Mastering Docker Volumes and Data Persistence](https://dev.to/madhuprakashbehara/day-5-mastering-docker-volumes-and-data-persistence-4co4)
-- [Optimizing C++ Exception Debugging with GDB: Effective Strategies for Troubleshooting](https://dev.to/lightcity/optimizing-c-exception-debugging-with-gdb-effective-strategies-for-troubleshooting-4db7)
-- [🟨 JavaScript 2 | Random Quote](https://dev.to/gregor_schafroth/javascript-2-random-quote-2g23)
-- [Study Plan for the week: AWS Cloud Practitioner Certification](https://dev.to/mitha1248/study-plan-for-the-week-aws-cloud-practitioner-certification-2gb6)
+- [Create a custom cursor](https://dev.to/phuocng/create-a-custom-cursor-2imf)
+- [Mobile Marketing: Optimizing Strategies for a Mobile-First World](https://dev.to/bytesfarms/mobile-marketing-optimizing-strategies-for-a-mobile-first-world-h94)
 <!-- BLOG-POST-LIST:END -->
 
 ---
