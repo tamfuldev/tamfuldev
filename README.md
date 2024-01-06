@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [⚡Top GitHub Repositories for UI Components](https://dev.to/dev_kiran/top-github-repositories-for-ui-components-dg4)
+- [Master Git with Interactive Learning Platforms! 🚀](https://dev.to/kevinrawal/master-git-with-interactive-learning-platforms-4ohk)
+- [Django Stripe Tutorial](https://dev.to/learndjango/django-stripe-tutorial-3kco)
 - [Milvus Adventures Jan 5, 2023](https://dev.to/chrischurilo/milvus-adventures-jan-5-2023-24eb)
 - [Mini Micro Web-Runner CLI](https://dev.to/sebnozzi/mini-micro-web-runner-cli-268f)
-- [2024, me voilà ! 🤩](https://dev.to/thomasbnt/2024-me-voila--45ec)
-- [T3 stack with app router and supabase](https://dev.to/isaacdyor/t3-stack-with-app-router-and-supabase-jh9)
-- [Interview Mastery: Lessons from Mistakes?](https://dev.to/codenewbieteam/interview-mastery-lessons-from-mistakes-2cb4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
