@@ -7,8 +7,8 @@
 - [My 2023 Year in Review](https://dev.to/nickytonline/my-2023-year-in-review-33ep)
 - [S3MER - Advanced Customizable Live Streaming Platform](https://dev.to/ricardogesteves/s3mer-advanced-customizable-live-streaming-platform-3g8j)
 - [Del caos a la eficiencia: Descubre el poder de DevOps](https://dev.to/aws-builders/del-caos-a-la-eficiencia-descubre-el-poder-de-devops-5931)
+- [Lazy.nvim: plugin configuration](https://dev.to/vonheikemen/lazynvim-plugin-configuration-3opi)
 - [Del caos a la eficiencia: Descubre el poder de DevOps](https://dev.to/aws-espanol/del-caos-a-la-eficiencia-descubre-el-poder-de-devops-1oia)
-- [Why You Should Learn Docker 🐋 &amp; Kubernetes ☸️?](https://dev.to/mukeshkuiry/why-you-should-learn-docker-kubernetes--2gim)
 <!-- BLOG-POST-LIST:END -->
 
 ---
