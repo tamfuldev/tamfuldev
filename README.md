@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How to write code fast and efficiently ❓](https://dev.to/dhanushnehru/how-to-write-code-fast-and-efficiently-3ji7)
+- [How I manage to optimize my Active Admin in 4 simple tricks](https://dev.to/justthev/how-i-manage-to-optimize-my-active-admin-in-4-simple-tricks-aij)
 - [Handle component state using local storage: useLocalStorage with Typescript](https://dev.to/alaa-m1/handle-component-state-using-local-storage-uselocalstorage-with-typescript-29g4)
 - [SwiftUI UI Layout Introduction](https://dev.to/happyer/swiftui-ui-layout-introduction-l16)
 - [OneTrainer Stable Diffusion XL &lpar;SDXL&rpar; Fine Tuning Best Presets](https://dev.to/furkangozukara/onetrainer-stable-diffusion-xl-sdxl-fine-tuning-best-presets-28am)
-- [Face Hop animation using CSS and Js](https://dev.to/codingcss/face-hop-animation-using-css-and-js-3co0)
-- [Build Docker images faster using build cache](https://dev.to/kylegalbraith/build-docker-images-faster-using-build-cache-4bk4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
