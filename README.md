@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [What is Semantic Versioning and why you should use it for your software ?](https://dev.to/zied_ghalleb/what-is-semantic-versioning-and-why-you-should-use-it-for-your-software--3449)
+- [Authenticate nextjs application with hanko frontend auth.](https://dev.to/ismailmirza/authenticate-nextjs-application-with-hanko-frontend-auth-4i39)
+- [Data Diaries: Unveiling Weekly Insights Chapter by Chapter 🚀 | #DataScience #DataAnalysis #DataEngineering #LearningJourney](https://dev.to/nitinbhatt46/data-diaries-unveiling-weekly-insights-chapter-by-chapter-datascience-dataanalysis-dataengineering-learningjourney-4ch5)
 - [How to write code fast and efficiently ❓](https://dev.to/dhanushnehru/how-to-write-code-fast-and-efficiently-3ji7)
 - [How I manage to optimize my Active Admin in 4 simple tricks](https://dev.to/justthev/how-i-manage-to-optimize-my-active-admin-in-4-simple-tricks-aij)
-- [Handle component state using local storage: useLocalStorage with Typescript](https://dev.to/alaa-m1/handle-component-state-using-local-storage-uselocalstorage-with-typescript-29g4)
-- [SwiftUI UI Layout Introduction](https://dev.to/happyer/swiftui-ui-layout-introduction-l16)
-- [OneTrainer Stable Diffusion XL &lpar;SDXL&rpar; Fine Tuning Best Presets](https://dev.to/furkangozukara/onetrainer-stable-diffusion-xl-sdxl-fine-tuning-best-presets-28am)
 <!-- BLOG-POST-LIST:END -->
 
 ---
