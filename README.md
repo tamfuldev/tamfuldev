@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Brainfuck Interpreter in C](https://dev.to/timgabrikowski/brainfuck-interpreter-in-c-1b6p)
 - [🌟 Embracing the Single Responsibility Principle for Better Code Quality in Object-Oriented Programming 🚀🌈🖋️](https://dev.to/mohitkadwe19/embracing-the-single-responsibility-principle-for-better-code-quality-in-object-oriented-programming-20f4)
 - [Learn Ruby From A to Z](https://dev.to/sagarkattel/learn-ruby-from-a-to-z-2kb4)
 - [Securing Web Applications: Identifying and Mitigating Common Vulnerabilities](https://dev.to/zee_codes/securing-web-applications-identifying-and-mitigating-common-vulnerabilities-490o)
 - [Architecture design: Crypto Exchange example](https://dev.to/amirsabahi/architecture-design-crypto-exchange-example-20ce)
-- [Space Complexity for Java Dev : Beginners](https://dev.to/dashgriva/space-complexity-for-java-dev-beginners-5688)
 <!-- BLOG-POST-LIST:END -->
 
 ---
