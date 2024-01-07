@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Large migration projects are complex battles](https://dev.to/matks/large-migration-projects-are-complex-battles-1l4)
-- [Comparing CodiumAI PR Agent To GitHub Copilot](https://dev.to/speaklouder/comparing-codiumai-pr-agent-to-github-copilot-5fkj)
-- [Understanding Volume Mounting in Docker](https://dev.to/jazzybruno/understanding-volume-mounting-in-docker-1ip0)
-- [🚀 Mastering Frontend Development: A Comprehensive Roadmap 🌐💻](https://dev.to/aajinkya/mastering-frontend-development-a-comprehensive-roadmap-30b6)
-- [About Software Complexity...](https://dev.to/gabotechs/about-software-complexity-569d)
+- [My 2023 Year in Review](https://dev.to/nickytonline/my-2023-year-in-review-33ep)
+- [S3MER - Advanced Customizable Live Streaming Platform](https://dev.to/ricardogesteves/s3mer-advanced-customizable-live-streaming-platform-3g8j)
+- [Del caos a la eficiencia: Descubre el poder de DevOps](https://dev.to/aws-builders/del-caos-a-la-eficiencia-descubre-el-poder-de-devops-5931)
+- [Del caos a la eficiencia: Descubre el poder de DevOps](https://dev.to/aws-espanol/del-caos-a-la-eficiencia-descubre-el-poder-de-devops-1oia)
+- [Why You Should Learn Docker 🐋 &amp; Kubernetes ☸️?](https://dev.to/mukeshkuiry/why-you-should-learn-docker-kubernetes--2gim)
 <!-- BLOG-POST-LIST:END -->
 
 ---
