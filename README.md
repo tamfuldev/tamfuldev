@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Securing Web Applications: Identifying and Mitigating Common Vulnerabilities](https://dev.to/zee_codes/securing-web-applications-identifying-and-mitigating-common-vulnerabilities-490o)
 - [Space Complexity for Java Dev : Beginners](https://dev.to/dashgriva/space-complexity-for-java-dev-beginners-5688)
-- [My 2023 Year in Review](https://dev.to/nickytonline/my-2023-year-in-review-33ep)
-- [Optimizing Docker Images with Multi-Stage Builds and Distroless Approach](https://dev.to/suzuki0430/optimizing-docker-images-with-multi-stage-builds-and-distroless-approach-h0l)
-- [S3MER - Advanced Customizable Live Streaming Platform](https://dev.to/ricardogesteves/s3mer-advanced-customizable-live-streaming-platform-3g8j)
-- [Del caos a la eficiencia: Descubre el poder de DevOps](https://dev.to/aws-builders/del-caos-a-la-eficiencia-descubre-el-poder-de-devops-5931)
+- [MiniScript Roundup #12](https://dev.to/synapticbytes/miniscript-roundup-12-1dcd)
+- [Build an OTP input field](https://dev.to/phuocng/build-an-otp-input-field-33m8)
+- [Compiler, Transpiler and Interpreter](https://dev.to/godinhojoao/compiler-transpiler-and-interpreter-2eh8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
