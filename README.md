@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [CodeBehind 2.1; aspx Back to ASP.NET Core](https://dev.to/elanatframework/codebehind-21-aspx-back-to-aspnet-core-5bj6)
+- [Mastering UI Psychology: A Technical Deep Dive with React, TypeScript, and Tailwind CSS](https://dev.to/bobbyhalljr/mastering-ui-psychology-a-technical-deep-dive-with-react-typescript-and-tailwind-css-2nc7)
 - [Excel Wizardry in Laravel 🚀](https://dev.to/mazimez/excel-wizardry-in-laravel-100)
 - [Stop using Google to lookup error codes and write your own error lookup class.](https://dev.to/antidisestablishmentarianism/stop-using-google-to-lookup-error-codes-and-write-your-own-error-lookup-class-2369)
 - [Building a Kubernetes Operator with the Operator Framework](https://dev.to/patrickdomnick/building-a-kubernetes-operator-with-the-operator-framework-5fh0)
-- [What is Semantic Versioning and why you should use it for your software ?](https://dev.to/zied_ghalleb/what-is-semantic-versioning-and-why-you-should-use-it-for-your-software--3449)
-- [Authenticate nextjs application with hanko frontend auth.](https://dev.to/ismailmirza/authenticate-nextjs-application-with-hanko-frontend-auth-4i39)
 <!-- BLOG-POST-LIST:END -->
 
 ---
