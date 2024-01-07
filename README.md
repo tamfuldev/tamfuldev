@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [🌟 Embracing the Single Responsibility Principle for Better Code Quality in Object-Oriented Programming 🚀🌈🖋️](https://dev.to/mohitkadwe19/embracing-the-single-responsibility-principle-for-better-code-quality-in-object-oriented-programming-20f4)
+- [Learn Ruby From A to Z](https://dev.to/sagarkattel/learn-ruby-from-a-to-z-2kb4)
 - [Securing Web Applications: Identifying and Mitigating Common Vulnerabilities](https://dev.to/zee_codes/securing-web-applications-identifying-and-mitigating-common-vulnerabilities-490o)
+- [Architecture design: Crypto Exchange example](https://dev.to/amirsabahi/architecture-design-crypto-exchange-example-20ce)
 - [Space Complexity for Java Dev : Beginners](https://dev.to/dashgriva/space-complexity-for-java-dev-beginners-5688)
-- [MiniScript Roundup #12](https://dev.to/synapticbytes/miniscript-roundup-12-1dcd)
-- [Build an OTP input field](https://dev.to/phuocng/build-an-otp-input-field-33m8)
-- [Compiler, Transpiler and Interpreter](https://dev.to/godinhojoao/compiler-transpiler-and-interpreter-2eh8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
