@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Python super&lpar;&rpar; vs Base.__init__ Method](https://dev.to/bhavaniravi/python-super-vs-baseinit-method-1mmp)
-- [Graph Data Storage with Apache AGE: PostgreSQL Extensions](https://dev.to/danielwambo/graph-data-storage-with-apache-age-postgresql-extensions-2l67)
-- [My Mozilla Sprint #2. Why don&#39;t you join me?](https://dev.to/bogomil/my-mozilla-sprint-2-1gic)
-- [Mastering Object Comparison in JavaScript: 4 techniques to compare](https://dev.to/ale3oula/mastering-object-comparison-in-javascript-4-techniques-to-compare-548l)
-- [The Art of Small Steps in Cybersecurity: Inspired by Stephen Duneier](https://dev.to/nikitakoselev/the-art-of-small-steps-in-cybersecurity-inspired-by-stephen-duneier-4o30)
+- [Watch Out When Overriding Memoized Methods](https://dev.to/productive/watch-out-when-overriding-memoized-methods-5dj7)
+- [If Statements in C#: Undestanding and Best Practices](https://dev.to/bytehide/if-statements-in-c-undestanding-and-best-practices-kin)
+- [How to bring more contributors to your Open Source project](https://dev.to/pradumnasaraf/how-to-bring-more-contributors-to-your-open-source-project-284k)
+- [Using SVG in React](https://dev.to/refine/using-svgs-in-react-17bg)
+- [AWS open source newsletter, #183](https://dev.to/aws/aws-open-source-newsletter-183-3inf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
