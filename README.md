@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Parenting vs. Cloud Computing: Overcoming Challenges and Embracing Growth](https://dev.to/aws-builders/parenting-vs-cloud-computing-overcoming-challenges-and-embracing-growth-1i3b)
+- [Meme Monday](https://dev.to/ben/meme-monday-357l)
 - [How to Learn React in 2024](https://dev.to/codebootcamp/how-to-learn-react-in-2024-cp4)
+- [How to write USEFUL documentation](https://dev.to/miasalazar/how-to-write-useful-documentation-k0a)
 - [Odoo : Choosing Between `related` and `compute` Attributes in Odoo Models](https://dev.to/jeevanizm/odoo-choosing-between-related-and-compute-attributes-in-odoo-models-2l83)
-- [Membuat Web To-Do List dengan HTML, CSS, dan JavaScript](https://dev.to/mhdhanif/membuat-web-to-do-list-dengan-html-css-dan-javascript-2c07)
-- [XCP - Universal &lpar;X&rpar; Measurement and Calibration &lpar;C&rpar; Protocol &lpar;P&rpar;.](https://dev.to/arvind_b_n_luxoft/xcp-universal-x-measurement-and-calibration-c-protocol-p-1f0m)
-- [Demystifying Apache Kafka: An exploratory journey for newcomers](https://dev.to/ladmerc/demystifying-apache-kafka-an-exploratory-journey-for-newcomers-18k9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
