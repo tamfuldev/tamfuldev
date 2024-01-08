@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Navigating 2024 with Software Development, Tech Training, and Open Source Aspirations](https://dev.to/evansifyke/navigating-2024-with-software-development-tech-training-and-open-source-aspirations-1e)
+- [Exploring Electron.js with GitLoop&#39;s AI Assistant: A Use Case Example](https://dev.to/akirasato/exploring-electronjs-with-gitloops-ai-assistant-a-use-case-example-3g2a)
 - [How to safely use dangerouslySetInnerHTML in React](https://dev.to/alakkadshaw/how-to-safely-use-dangerouslysetinnerhtml-in-react-57l1)
+- [Accessibility and allowing zoom in your projects](https://dev.to/miasalazar/accessibility-and-allowing-zoom-in-your-projects-2gfi)
 - [Weekly Roundup 034 &lpar;Jan 01&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-034-jan-01-hot-topics-in-workplace-sharepoint-and-powerplatform-12kg)
-- [Create an NFT as a Developer: Deep Dive into Smart Contracts](https://dev.to/scofieldidehen/create-an-nft-as-a-developer-deep-dive-into-smart-contracts-27ic)
-- [Parenting vs. Cloud Computing: Overcoming Challenges and Embracing Growth](https://dev.to/aws-builders/parenting-vs-cloud-computing-overcoming-challenges-and-embracing-growth-1i3b)
-- [How to collect marketing campaign email leads with Mailgun and Appwrite in minutes](https://dev.to/hackmamba/how-to-collect-marketing-campaign-email-leads-with-mailgun-and-appwrite-in-minutes-83g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
