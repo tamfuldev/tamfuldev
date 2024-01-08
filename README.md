@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Create Hello World application in Ruby On Rails](https://dev.to/sagarkattel/create-hello-world-application-in-ruby-on-rails-42e8)
 - [Watch Out When Overriding Memoized Methods](https://dev.to/productive/watch-out-when-overriding-memoized-methods-5dj7)
 - [If Statements in C#: Undestanding and Best Practices](https://dev.to/bytehide/if-statements-in-c-undestanding-and-best-practices-kin)
+- [Ssstyles - a classless stylsheet](https://dev.to/iamschulz/ssstyles-4mkn)
 - [How to bring more contributors to your Open Source project](https://dev.to/pradumnasaraf/how-to-bring-more-contributors-to-your-open-source-project-284k)
-- [Using SVG in React](https://dev.to/refine/using-svgs-in-react-17bg)
-- [AWS open source newsletter, #183](https://dev.to/aws/aws-open-source-newsletter-183-3inf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
