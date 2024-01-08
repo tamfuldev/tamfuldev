@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Roundup 034 &lpar;Jan 01&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-034-jan-01-hot-topics-in-workplace-sharepoint-and-powerplatform-12kg)
+- [Create an NFT as a Developer: Deep Dive into Smart Contracts](https://dev.to/scofieldidehen/create-an-nft-as-a-developer-deep-dive-into-smart-contracts-27ic)
 - [Parenting vs. Cloud Computing: Overcoming Challenges and Embracing Growth](https://dev.to/aws-builders/parenting-vs-cloud-computing-overcoming-challenges-and-embracing-growth-1i3b)
+- [How to collect marketing campaign email leads with Mailgun and Appwrite in minutes](https://dev.to/hackmamba/how-to-collect-marketing-campaign-email-leads-with-mailgun-and-appwrite-in-minutes-83g)
 - [Meme Monday](https://dev.to/ben/meme-monday-357l)
-- [How to Learn React in 2024](https://dev.to/codebootcamp/how-to-learn-react-in-2024-cp4)
-- [How to write USEFUL documentation](https://dev.to/miasalazar/how-to-write-useful-documentation-k0a)
-- [Odoo : Choosing Between `related` and `compute` Attributes in Odoo Models](https://dev.to/jeevanizm/odoo-choosing-between-related-and-compute-attributes-in-odoo-models-2l83)
 <!-- BLOG-POST-LIST:END -->
 
 ---
