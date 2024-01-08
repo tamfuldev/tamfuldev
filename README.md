@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Python super&lpar;&rpar; vs Base.__init__ Method](https://dev.to/bhavaniravi/python-super-vs-baseinit-method-1mmp)
+- [Graph Data Storage with Apache AGE: PostgreSQL Extensions](https://dev.to/danielwambo/graph-data-storage-with-apache-age-postgresql-extensions-2l67)
+- [My Mozilla Sprint #2. Why don&#39;t you join me?](https://dev.to/bogomil/my-mozilla-sprint-2-1gic)
+- [Mastering Object Comparison in JavaScript: 4 techniques to compare](https://dev.to/ale3oula/mastering-object-comparison-in-javascript-4-techniques-to-compare-548l)
 - [The Art of Small Steps in Cybersecurity: Inspired by Stephen Duneier](https://dev.to/nikitakoselev/the-art-of-small-steps-in-cybersecurity-inspired-by-stephen-duneier-4o30)
-- [How to Become a Docker Captain](https://dev.to/docker/how-to-become-a-docker-captain-5cik)
-- [Deploying Static React app on AWS S3 -Route53 Domain and email setup Workmail,Dos and Donts](https://dev.to/aws-builders/deploying-static-react-app-on-aws-s3-route53-domain-and-email-setup-workmaildos-and-donts-15lm)
-- [How to Configure CORS in Node.js With Express](https://dev.to/speaklouder/how-to-configure-cors-in-nodejs-with-express-11h)
-- [Ağ Sanallaştırma ve overlay protokoller](https://dev.to/aciklab/ag-sanallastirma-ve-overlay-protokoller-59db)
 <!-- BLOG-POST-LIST:END -->
 
 ---
