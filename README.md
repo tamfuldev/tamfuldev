@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Create Hello World application in Ruby On Rails](https://dev.to/sagarkattel/create-hello-world-application-in-ruby-on-rails-42e8)
-- [Watch Out When Overriding Memoized Methods](https://dev.to/productive/watch-out-when-overriding-memoized-methods-5dj7)
-- [If Statements in C#: Undestanding and Best Practices](https://dev.to/bytehide/if-statements-in-c-undestanding-and-best-practices-kin)
-- [Ssstyles - a classless stylsheet](https://dev.to/iamschulz/ssstyles-4mkn)
-- [How to bring more contributors to your Open Source project](https://dev.to/pradumnasaraf/how-to-bring-more-contributors-to-your-open-source-project-284k)
+- [When do you know you should change teams](https://dev.to/nandinishinduja/when-do-you-know-you-should-change-teams-2m29)
+- [When do you know if you should switch projects?](https://dev.to/nandinishinduja/when-do-you-know-if-you-should-switch-projects-2ol7)
+- [Beating annoying minigames with Java☕ - Or: How to create a smart auto-clicker 🤖🎮](https://dev.to/thormeier/beating-annoying-minigames-with-java-or-how-to-create-a-smart-auto-clicker-2gog)
+- [No Idea...](https://dev.to/mithunsreeram/no-idea-4456)
+- [The Anatomy of the Web Development in 2024](https://dev.to/refine/the-anatomy-of-the-web-development-in-2024-4mi3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
