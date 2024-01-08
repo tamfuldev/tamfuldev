@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Improve your work - Windows keyboard shortcuts](https://dev.to/wlepczynski/improve-your-work-windows-keyboard-shortcuts-21lk)
+- [Who is coming to FOSDEM 2024?](https://dev.to/bogomil/who-is-coming-to-fosdem-2024-572c)
+- [Cyclops: Making Kubernetes Simple for Everyone](https://dev.to/sarathadhithya/cyclops-making-kubernetes-simple-for-everyone-4741)
 - [When do you know you should change teams](https://dev.to/nandinishinduja/when-do-you-know-you-should-change-teams-2m29)
-- [When do you know if you should switch projects?](https://dev.to/nandinishinduja/when-do-you-know-if-you-should-switch-projects-2ol7)
-- [Beating annoying minigames with Java☕ - Or: How to create a smart auto-clicker 🤖🎮](https://dev.to/thormeier/beating-annoying-minigames-with-java-or-how-to-create-a-smart-auto-clicker-2gog)
-- [No Idea...](https://dev.to/mithunsreeram/no-idea-4456)
-- [The Anatomy of the Web Development in 2024](https://dev.to/refine/the-anatomy-of-the-web-development-in-2024-4mi3)
+- [How to mix colors in css?](https://dev.to/dhutaryan/how-to-mix-colors-in-css-316l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
