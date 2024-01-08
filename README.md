@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Lazy-loading the animations package in Angular](https://dev.to/this-is-angular/lazy-loading-the-animations-package-in-angular-6c6)
 - [#BTC has broken through the $47,000 mark! 🚀🚀🚀🚀🚀](https://dev.to/irmakork/btc-has-broken-through-the-47000-mark-d9f)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1i5k)
 - [Mastering Pattern-Matching in Elixir](https://dev.to/olaleyeblessing/mastering-pattern-matching-in-elixir-5hb1)
 - [Why does DEV not respect blocking?](https://dev.to/ooosys/why-does-dev-not-respect-blocking-2mg)
-- [Lazy Load Fonts in Next.js with Web Components](https://dev.to/seeratawan01/lazy-load-fonts-in-nextjs-with-web-components-54cd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
