@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Fortify Your Elastic Load Balancer: Best Practices for Secure API Gateway Integration](https://dev.to/vng_bach/fortify-your-elastic-load-balancer-best-practices-for-secure-api-gateway-integration-iab)
-- [What are your goals for week 2 of 2024?](https://dev.to/jarvisscript/what-are-your-goals-for-week-2-of-2024-4dce)
-- [FLaNK Weekly 08 Jan 2024](https://dev.to/tspannhw/flank-weekly-08-jan-2024-49do)
-- [Know about HTTP/1.0 &amp; HTTP/2](https://dev.to/seek4samurai/know-about-http10-http2-1ep6)
-- [20 Days of DynamoDB](https://dev.to/abhirockzz/20-days-of-dynamodb-3bfi)
+- [How to Learn React in 2024](https://dev.to/codebootcamp/how-to-learn-react-in-2024-cp4)
+- [Odoo : Choosing Between `related` and `compute` Attributes in Odoo Models](https://dev.to/jeevanizm/odoo-choosing-between-related-and-compute-attributes-in-odoo-models-2l83)
+- [Membuat Web To-Do List dengan HTML, CSS, dan JavaScript](https://dev.to/mhdhanif/membuat-web-to-do-list-dengan-html-css-dan-javascript-2c07)
+- [XCP - Universal &lpar;X&rpar; Measurement and Calibration &lpar;C&rpar; Protocol &lpar;P&rpar;.](https://dev.to/arvind_b_n_luxoft/xcp-universal-x-measurement-and-calibration-c-protocol-p-1f0m)
+- [Demystifying Apache Kafka: An exploratory journey for newcomers](https://dev.to/ladmerc/demystifying-apache-kafka-an-exploratory-journey-for-newcomers-18k9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
