@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Ağ Sanallaştırma ve overlay protokoller](https://dev.to/aciklab/ag-sanallastirma-ve-overlay-protokoller-59db)
+- [Reflowable eBooks Guide: Why Use Reflowable Text in Your eBooks?](https://dev.to/alphaebook/reflowable-ebooks-guide-why-use-reflowable-text-in-your-ebooks-2pic)
 - [Convert MP4 File To Black And White Using GStreamer](https://dev.to/ethand91/convert-mp4-file-to-black-and-white-using-gstreamer-3dp6)
 - [What is DevFinOps? Why It is Important?](https://dev.to/hatica/what-is-devfinops-why-it-is-important-2jgk)
-- [Build a 3D Earth Globe Model in Three.js &lpar;PS: It&#39;s easier than you think&rpar; 🌏😱](https://dev.to/arjuncodess/build-a-3d-earth-globe-model-in-threejs-ps-its-easier-than-you-think-3a7g)
-- [5 Reasons Why You Need to Try htmx as a React Developer](https://dev.to/ryver_dev/5-reasons-why-you-need-to-try-htmx-as-a-react-developer-5bl5)
-- [Sealed: Preventing Inheritance in C#](https://dev.to/hamidmolareza/-sealed-preventing-inheritance-in-c-3cl3)
+- [How to add Astro social share to your Astro application](https://dev.to/femi_dev/how-to-add-astro-social-share-to-your-astro-application-4bl1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
