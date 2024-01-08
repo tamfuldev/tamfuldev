@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Build a 3D Earth Globe Model in Three.js &lpar;PS: It&#39;s easier than you think&rpar; 🌏😱](https://dev.to/arjuncodess/build-a-3d-earth-globe-model-in-threejs-ps-its-easier-than-you-think-3a7g)
 - [5 Reasons Why You Need to Try htmx as a React Developer](https://dev.to/ryver_dev/5-reasons-why-you-need-to-try-htmx-as-a-react-developer-5bl5)
 - [Sealed: Preventing Inheritance in C#](https://dev.to/hamidmolareza/-sealed-preventing-inheritance-in-c-3cl3)
 - [The Front End Essentials: Top 15 FREE APIs Every Developer Should Have in Their Arsenal](https://dev.to/aajinkya/the-front-end-essentials-top-15-free-apis-every-developer-should-have-in-their-arsenal-463l)
 - [An intro to Appwrite | Building a To-do list with SvelteKit](https://dev.to/itzami/an-intro-to-appwrite-building-a-to-do-list-with-sveltekit-3m9b)
-- [12in24 - One language a month](https://dev.to/kaamkiya/12in24-one-language-a-month-105b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
