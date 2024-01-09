@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [7 Projects With Resources to Learn Web Development](https://dev.to/bigsondev/7-projects-with-resources-to-learn-web-development-2ile)
+- [Best 5 CSS Frameworks](https://dev.to/wahidmaster00/best-5-css-frameworks-4j3h)
+- [Centralized S3 backup with AWS Backup in terraform](https://dev.to/aws-builders/centralized-s3-backup-with-aws-backup-in-terraform-46bd)
+- [abi.encode, abi.encodePacked, and abi.decode in Solidity](https://dev.to/scofieldidehen/abiencode-abiencodepacked-and-abidecode-in-solidity-31o9)
 - [My MacBook Setup For Development 2024](https://dev.to/lilxyzz/my-macbook-setup-for-development-2024-54ke)
-- [Observables and Observers in RxJS](https://dev.to/rajrathod/observables-and-observers-in-rxjs-1jk5)
-- [Take the First Step: the Open Source Game](https://dev.to/opensauced/take-the-first-step-the-open-source-game-15n5)
-- [[20 Days of DynamoDB] Day 2 - GetItem add-on benefits](https://dev.to/aws/20-days-of-dynamodb-day-2-getitem-add-on-benefits-54nm)
-- [Getting to Know Copilot Plugins](https://dev.to/jaloplo/getting-to-know-copilot-plugins-1egb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
