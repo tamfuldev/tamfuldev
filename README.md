@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How To Install React-Native on Windows, A Step-By-Step Guide. Possible Errors And How To Fix Them](https://dev.to/dev_cody/how-to-install-react-native-on-windows-a-step-by-step-guide-possible-errors-and-how-to-fix-them-23kg)
+- [2023 Reflection: a pivotal year for the open source journey](https://dev.to/a0m0rajab/2023-reflection-a-pivotal-year-for-the-open-source-journey-57k0)
 - [Achieve GitOps on Day One with IaC Automation](https://dev.to/rsiv/achieve-gitops-on-day-one-with-iac-automation-1eb9)
 - [Top 9 Hacks in Web3 in 2024](https://dev.to/scofieldidehen/top-9-hacks-in-web3-in-2024-2e37)
 - [Release v1.1.0](https://dev.to/surrealdb/release-v110-5376)
-- [Coming Out as an Eldritch God](https://dev.to/neohaskell/coming-out-as-an-eldritch-god-1nha)
-- [How to add AI analytics to a Langchain agent?](https://dev.to/oulianov/how-to-add-ai-analytics-to-a-langchain-agent-137l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
