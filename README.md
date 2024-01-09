@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Create a Carousel with Progress Indicators using Tailwind and Vue](https://dev.to/cruip_com/create-a-carousel-with-progress-indicators-using-tailwind-and-vue-3o49)
+- [Create a Carousel with Progress Indicators using Tailwind and Next.js](https://dev.to/cruip_com/create-a-carousel-with-progress-indicators-using-tailwind-and-nextjs-4ddb)
+- [MicroFrontend - React | Solid | Vue](https://dev.to/shubhamtiwari909/microfrontend-react-solid-vue-333b)
 - [7 Projects With Resources to Learn Web Development](https://dev.to/bigsondev/7-projects-with-resources-to-learn-web-development-2ile)
 - [Best 5 CSS Frameworks](https://dev.to/wahidmaster00/best-5-css-frameworks-4j3h)
-- [Centralized S3 backup with AWS Backup in terraform](https://dev.to/aws-builders/centralized-s3-backup-with-aws-backup-in-terraform-46bd)
-- [abi.encode, abi.encodePacked, and abi.decode in Solidity](https://dev.to/scofieldidehen/abiencode-abiencodepacked-and-abidecode-in-solidity-31o9)
-- [My MacBook Setup For Development 2024](https://dev.to/lilxyzz/my-macbook-setup-for-development-2024-54ke)
 <!-- BLOG-POST-LIST:END -->
 
 ---
