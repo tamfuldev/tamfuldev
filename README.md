@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Leveraging TypeScript for domain-driven design](https://dev.to/logrocket/leveraging-typescript-for-domain-driven-design-jnl)
-- [New way of work with V-Model in Vue.js 3!](https://dev.to/cn-2k/new-way-of-work-with-v-model-in-vuejs-3-3l96)
-- [What This Senior Developer Learned From His First Big Rust Project](https://dev.to/awwsmm/what-this-senior-developer-learned-from-his-first-big-rust-project-44ia)
-- [Integration Testing Vercel Serverless Functions with OpenTelemetry](https://dev.to/kubeshop/integration-testing-vercel-serverless-functions-with-opentelemetry-1clj)
-- [️🚀🚀 3 Must Know Tools for Top DevOps Engineers 👷](https://dev.to/flipt/3-must-know-tools-for-top-devops-engineers-3752)
+- [Release v1.1.0](https://dev.to/surrealdb/release-v110-5376)
+- [How to add AI analytics to a Langchain agent?](https://dev.to/oulianov/how-to-add-ai-analytics-to-a-langchain-agent-137l)
+- [Devops learning complete guide&lpar;4&rpar;](https://dev.to/surajvast/devops-learning-complete-guide4-3043)
+- [Deep Cloning Objects in JavaScript](https://dev.to/shubhambattoo/deep-cloning-objects-in-javascript-1816)
+- [Secure Your Secrets with .env](https://dev.to/gitguardiangregb/secure-your-secrets-with-env-4c5m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
