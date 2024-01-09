@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [A Step-by-Step Guide to Launching Your Profitable Micro-SaaS in 2024](https://dev.to/rajeshj3/a-step-by-step-guide-to-launching-your-profitable-micro-saas-in-2024-2ffh)
+- [🎁 20 Open Source projects you shouldn&#39;t miss in 2024](https://dev.to/anmolbaranwal/20-open-source-projects-you-shouldnt-miss-in-2024-3ja4)
+- [Rust 🦀 Installation + Hello World](https://dev.to/francescoxx/rust-installation-hello-world-1omk)
 - [REST vs GraphQL - Choosing the right API for your project](https://dev.to/marmariadev/rest-vs-graphql-choosing-the-right-api-for-your-project-5fkd)
 - [REST vs GraphQL - Elegir la API adecuada para su proyecto](https://dev.to/marmariadev/rest-vs-graphql-elegir-la-api-adecuada-para-su-proyecto-3go2)
-- [SQL vs NoSQL - Choosing the right database for your project](https://dev.to/marmariadev/sql-vs-nosql-choosing-the-right-database-for-your-project-2bb8)
-- [Optimizing pseudo-random SVG animations](https://dev.to/ingosteinke/optimizing-pseudo-random-svg-animations-5b1j)
-- [We open sourced our AI gateway written in TS](https://dev.to/portkey/we-open-sourced-our-ai-gateway-written-in-ts-43nk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
