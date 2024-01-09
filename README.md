@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Getting to Know Copilot Plugins](https://dev.to/jaloplo/getting-to-know-copilot-plugins-1egb)
+- [Mastering Data Management in React and Next.js: A Practical Guide](https://dev.to/jps27cse/mastering-data-management-in-react-and-nextjs-a-practical-guide-1bol)
 - [How to Build a Web App in 10 steps in 2024](https://dev.to/refine/how-to-build-a-web-app-in-10-steps-in-2024-56c2)
 - [Delivering Quality at Speed in Testing](https://dev.to/talenttinaapi/delivering-quality-at-speed-in-testing-17lb)
 - [Build a 3D Earth Globe Model in Three.js &lpar;PS: It&#39;s easier than you think&rpar; 🌏😱](https://dev.to/arjuncodess/build-a-3d-earth-globe-model-in-threejs-ps-its-easier-than-you-think-1ln3)
-- [4 Platform Engineering Tools that every developer must explore in 2024](https://dev.to/yogini16/4-platform-engineering-tools-that-every-developer-must-explore-in-2024-3mi4)
-- [Mestrado em TI em Portugal: todos os detalhes da minha experiência](https://dev.to/laricavitoriano/mestrado-em-ti-em-portugal-todos-os-detalhes-da-minha-experiencia-47dm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
