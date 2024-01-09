@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How to Build a Web App in 10 steps in 2024](https://dev.to/refine/how-to-build-a-web-app-in-10-steps-in-2024-56c2)
+- [Delivering Quality at Speed in Testing](https://dev.to/talenttinaapi/delivering-quality-at-speed-in-testing-17lb)
+- [Build a 3D Earth Globe Model in Three.js &lpar;PS: It&#39;s easier than you think&rpar; 🌏😱](https://dev.to/arjuncodess/build-a-3d-earth-globe-model-in-threejs-ps-its-easier-than-you-think-1ln3)
 - [4 Platform Engineering Tools that every developer must explore in 2024](https://dev.to/yogini16/4-platform-engineering-tools-that-every-developer-must-explore-in-2024-3mi4)
 - [Mestrado em TI em Portugal: todos os detalhes da minha experiência](https://dev.to/laricavitoriano/mestrado-em-ti-em-portugal-todos-os-detalhes-da-minha-experiencia-47dm)
-- [CryptoFlow: Building a secure and scalable system with Axum and SvelteKit - Part 4](https://dev.to/sirneij/cryptoflow-building-a-secure-and-scalable-system-with-axum-and-sveltekit-part-4-5hc2)
-- [What should go on my test code?](https://dev.to/scarlet/what-should-go-on-my-test-code-4de7)
-- [Why Angular&#39;s Opinionated Approach Clicked For Me!](https://dev.to/akilahngqueen/why-angulars-opinionated-approach-works-20df)
 <!-- BLOG-POST-LIST:END -->
 
 ---
