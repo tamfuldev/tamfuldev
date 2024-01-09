@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Create a Carousel with Progress Indicators using Tailwind and Vue](https://dev.to/cruip_com/create-a-carousel-with-progress-indicators-using-tailwind-and-vue-3o49)
-- [Create a Carousel with Progress Indicators using Tailwind and Next.js](https://dev.to/cruip_com/create-a-carousel-with-progress-indicators-using-tailwind-and-nextjs-4ddb)
-- [MicroFrontend - React | Solid | Vue](https://dev.to/shubhamtiwari909/microfrontend-react-solid-vue-333b)
-- [7 Projects With Resources to Learn Web Development](https://dev.to/bigsondev/7-projects-with-resources-to-learn-web-development-2ile)
-- [Best 5 CSS Frameworks](https://dev.to/wahidmaster00/best-5-css-frameworks-4j3h)
+- [Optimizing pseudo-random SVG animations](https://dev.to/ingosteinke/optimizing-pseudo-random-svg-animations-5b1j)
+- [REST vs. GraphQL: Which One Should I Choose?](https://dev.to/marmariadev/rest-vs-graphql-which-one-should-i-choose-47lm)
+- [We open sourced our AI gateway written in TS](https://dev.to/portkey/we-open-sourced-our-ai-gateway-written-in-ts-43nk)
+- [REST vs. GraphQL, Guía para Elegir la API Adecuada en tus Proyectos](https://dev.to/marmariadev/rest-vs-graphql-guia-para-elegir-la-api-adecuada-en-tus-proyectos-5gog)
+- [Deploy React App to Google App Engine with Github Actions CI/CD - A Complete Guide](https://dev.to/rushi-patel/deploy-react-app-to-google-app-engine-with-github-actions-cicd-a-complete-guide-67h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
