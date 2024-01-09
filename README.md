@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Git Rebasing: A Detailed Guide with Commands](https://dev.to/aixart/understanding-git-rebasing-a-detailed-guide-with-commands-5fag)
+- [At Least Skim The Manual](https://dev.to/oculus42/at-least-skim-the-manual-14j2)
 - [Understanding the Monotonic Stack To UP Your Data Structure Game](https://dev.to/about14sheep/understanding-the-monotonic-stack-to-up-your-data-structure-game-4llh)
 - [About well designed REST APIs](https://dev.to/yelldutz/about-well-designed-rest-apis-4m5i)
-- [CryptoFlow: Building a secure and scalable system with Axum and SvelteKit - Part 3](https://dev.to/sirneij/cryptoflow-building-a-secure-and-scalable-system-with-axum-and-sveltekit-part-3-1bh5)
-- [Lazy-loading the animations package in Angular](https://dev.to/this-is-angular/lazy-loading-the-animations-package-in-angular-6c6)
-- [#BTC has broken through the $47,000 mark! 🚀🚀🚀🚀🚀](https://dev.to/irmakork/btc-has-broken-through-the-47000-mark-d9f)
+- [From Visual Studio Code to the Cloud: Why Codespace Should Be Your New Beginner&#39;s IDE](https://dev.to/shay90210/from-visual-studio-code-to-the-cloud-why-codespace-should-be-your-new-beginners-ide-mcc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
