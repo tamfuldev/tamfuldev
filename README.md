@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [OpenSwoole Docker Generator](https://dev.to/sebk69/openswoole-docker-generator-165g)
+- [What This Senior Developer Learned From His First Big Rust Project](https://dev.to/awwsmm/what-this-senior-developer-learned-from-his-first-big-rust-project-44ia)
+- [Integration Testing Vercel Serverless Functions with OpenTelemetry](https://dev.to/kubeshop/integration-testing-vercel-serverless-functions-with-opentelemetry-1clj)
+- [️🚀🚀 3 Must Know Tools for Top DevOps Engineers 👷](https://dev.to/flipt/3-must-know-tools-for-top-devops-engineers-3752)
 - [A Step-by-Step Guide to Launching Your Profitable Micro-SaaS in 2024](https://dev.to/rajeshj3/a-step-by-step-guide-to-launching-your-profitable-micro-saas-in-2024-2ffh)
-- [🎁 20 Open Source projects you shouldn&#39;t miss in 2024](https://dev.to/anmolbaranwal/20-open-source-projects-you-shouldnt-miss-in-2024-3ja4)
-- [Rust 🦀 Installation + Hello World](https://dev.to/francescoxx/rust-installation-hello-world-1omk)
-- [REST vs GraphQL - Choosing the right API for your project](https://dev.to/marmariadev/rest-vs-graphql-choosing-the-right-api-for-your-project-5fkd)
-- [REST vs GraphQL - Elegir la API adecuada para su proyecto](https://dev.to/marmariadev/rest-vs-graphql-elegir-la-api-adecuada-para-su-proyecto-3go2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
