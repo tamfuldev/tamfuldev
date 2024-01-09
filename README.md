@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding the Monotonic Stack To UP Your Data Structure Game](https://dev.to/about14sheep/understanding-the-monotonic-stack-to-up-your-data-structure-game-4llh)
+- [About well designed REST APIs](https://dev.to/yelldutz/about-well-designed-rest-apis-4m5i)
+- [CryptoFlow: Building a secure and scalable system with Axum and SvelteKit - Part 3](https://dev.to/sirneij/cryptoflow-building-a-secure-and-scalable-system-with-axum-and-sveltekit-part-3-1bh5)
 - [Lazy-loading the animations package in Angular](https://dev.to/this-is-angular/lazy-loading-the-animations-package-in-angular-6c6)
 - [#BTC has broken through the $47,000 mark! 🚀🚀🚀🚀🚀](https://dev.to/irmakork/btc-has-broken-through-the-47000-mark-d9f)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1i5k)
-- [Mastering Pattern-Matching in Elixir](https://dev.to/olaleyeblessing/mastering-pattern-matching-in-elixir-5hb1)
-- [Why does DEV not respect blocking?](https://dev.to/ooosys/why-does-dev-not-respect-blocking-2mg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
