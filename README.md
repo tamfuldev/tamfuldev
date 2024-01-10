@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Migration of Mario 5 to Serverless](https://dev.to/florianrappl/migration-of-mario-5-to-serverless-b00)
 - [Unveiling the Power of Ruby Generators: A Comprehensive Exploration with Extensive Code Examples](https://dev.to/daviducolo/unveiling-the-power-of-ruby-generators-a-comprehensive-exploration-with-extensive-code-examples-c8m)
 - [Share your Docker Compose app logs remotely](https://dev.to/pradumnasaraf/share-your-docker-compose-app-logs-remotely-5965)
+- [💻 Web Development Resources #180](https://dev.to/vincenius/web-development-resources-180-5g5k)
 - [JavaScript Advance Concepts](https://dev.to/tanmaycode/javascript-advance-concepts-2f09)
-- [Build a 3D Earth Globe Model in Three.js &lpar;PS: It&#39;s easier than you think&rpar; 🌏😱](https://dev.to/arjuncodess/build-a-3d-earth-globe-model-in-threejs-ps-its-easier-than-you-think-2pod)
-- [Solidity Saga: Day 1 Dive into the Blockchain Realm Unveiling the Secrets of Smart Contracts 🚀 #SoliditySprints #DevJourney&quot;](https://dev.to/pushkarmondal/solidity-saga-day-1-dive-into-the-blockchain-realm-unveiling-the-secrets-of-smart-contracts-soliditysprints-devjourney-551n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
