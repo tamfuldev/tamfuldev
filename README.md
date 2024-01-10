@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Rust Programming Quick Start Guide](https://dev.to/hriztam/rust-programming-quick-start-guide-b39)
+- [Tools for creating 3D assets for games](https://dev.to/nandinishinduja/tools-for-creating-3d-assets-for-games-1kj7)
+- [Demystifying Python Loops: A Beginner&#39;s Guide to Crafting a Multiplication Table](https://dev.to/shaheryaryousaf/demystifying-python-loops-a-beginners-guide-to-crafting-a-multiplication-table-g8k)
 - [Excited to Launch: danieljsaldana.dev Portfolio! 🎉](https://dev.to/danieljsaldana/excited-to-launch-danieljsaldanadev-portfolio-186d)
 - [the silliest UI mistake](https://dev.to/lukeberrypi/the-silliest-ui-mistake-86d)
-- [#DEVResolutions2024](https://dev.to/michaeltharrington/devresolutions2024-2ib0)
-- [Tools for creating 2D assets for games](https://dev.to/nandinishinduja/tools-for-creating-2d-assets-for-games-1mml)
-- [Programming Languages used for Game Development](https://dev.to/nandinishinduja/programming-languages-used-for-game-development-57l5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
