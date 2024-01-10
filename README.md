@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Excited to Launch: danieljsaldana.dev Portfolio! 🎉](https://dev.to/danieljsaldana/excited-to-launch-danieljsaldanadev-portfolio-186d)
+- [the silliest UI mistake](https://dev.to/lukeberrypi/the-silliest-ui-mistake-86d)
+- [#DEVResolutions2024](https://dev.to/michaeltharrington/devresolutions2024-2ib0)
 - [Tools for creating 2D assets for games](https://dev.to/nandinishinduja/tools-for-creating-2d-assets-for-games-1mml)
 - [Programming Languages used for Game Development](https://dev.to/nandinishinduja/programming-languages-used-for-game-development-57l5)
-- [Tools used for Game Development &lpar;Different Game Engines&rpar;](https://dev.to/nandinishinduja/tools-used-for-game-development-different-game-engines-47n9)
-- [What is Technical Debt and its Associated Cost Implications?](https://dev.to/hatica/what-is-technical-debt-and-its-associated-cost-implications-3g12)
-- [How to increase Grafana refresh rate frequency](https://dev.to/questdb/how-to-increase-grafana-refresh-rate-frequency-468b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
