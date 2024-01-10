@@ -7,8 +7,8 @@
 - [Adding &quot;Created At&quot; and &quot;Last Updated&quot; Dates to Jekyll](https://dev.to/irrelevantspace/adding-created-at-and-last-updated-dates-to-jekyll-4cdc)
 - [Character encoding](https://dev.to/untilyou58/character-encoding-lgb)
 - [Webcam para capturar imágenes en DotVVM &amp; ASP.NET](https://dev.to/esdanielgomez/webcam-para-capturar-imagenes-en-dotvvm-aspnet-hd4)
+- [Gratitude Practices: Positive Effects on Health?](https://dev.to/devteam/gratitude-practices-positive-effects-on-health-11o8)
 - [How To Use Google Calendar API with Node.js](https://dev.to/joshuaakanetuk/how-to-use-google-calendar-api-with-nodejs-2o69)
-- [Gatsby Site Search Plugin](https://dev.to/alakkadshaw/gatsby-site-search-plugin-4edg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
