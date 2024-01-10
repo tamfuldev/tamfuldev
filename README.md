@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [TIP: how to boost your app&#39;s performance with &lpar;Angular&rpar; computed signals](https://dev.to/fabiobiondi/tip-how-to-boost-your-apps-performance-with-angular-computed-signals-51c3)
+- [Top 6 Github Slack integrations to try in 2024](https://dev.to/gabrielpineda/top-6-github-slack-integrations-to-try-in-2024-2ecj)
 - [FIRST_VALUE Function In SQL Server](https://dev.to/rashtech/firstvalue-function-in-sql-server-2mmg)
 - [Astro: the new frontier of Frontend Frameworks 🪐](https://dev.to/dvalin99/astro-the-new-frontier-of-frontend-frameworks-27f2)
-- [Programmatically deploy your GitHub Repo on Netlify](https://dev.to/giuliano1993/programmatically-deploy-your-github-on-netlify-3lp0)
-- [Be ready for input signals in Angular](https://dev.to/this-is-angular/be-ready-for-input-signals-in-angular-3djf)
-- [Migration of Mario 5 to Serverless](https://dev.to/florianrappl/migration-of-mario-5-to-serverless-b00)
+- [My new GameBoy style portfolio](https://dev.to/matteosant_dev/my-new-portfolio-1acn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
