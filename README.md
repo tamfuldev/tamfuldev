@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Instantly Transfer Face By Using IP-Adapter-FaceID: Full Tutorial &amp; GUI For Windows, RunPod &amp; Kaggle](https://dev.to/furkangozukara/instantly-transfer-face-by-using-ip-adapter-faceid-full-tutorial-gui-for-windows-runpod-kaggle-4p1b)
+- [WebP vs. PNG vs. JPEG: Which is The Right Image Format For Your Website?](https://dev.to/kemuhost/webp-vs-png-vs-jpeg-which-is-the-right-image-format-for-your-website-186f)
+- [Dockerizing Laravel &lpar;With compose&rpar; [Alpine + NGINX + PHP FPM + MariaDB + PHPMyAdmin] 🛳️🛳️](https://dev.to/adnanbabakan/dockerizing-laravel-with-compose-nginx-php-fpm-mariadb-phpmyadmin-8n1)
 - [README or I&#39;ll devour you: How to write a good README](https://dev.to/pachicodes/readme-or-ill-devour-you-how-to-write-a-good-readme-592n)
-- [Photon Lockdown | HackTheBox Write-up](https://dev.to/shiahalan/photon-lockdown-hackthebox-write-up-p45)
-- [✨ Top 5 Best Yet Underrated Projects that no one talks about 😎😭](https://dev.to/shricodev/top-5-best-yet-underrated-projects-that-no-one-talks-about-343h)
-- [Using JavaScript: as a package or as CDN](https://dev.to/superviz/using-javascript-as-a-package-or-as-cdn-4n14)
-- [3 Programming Myths That Keep You Stuck, Frustrated And Underpaid](https://dev.to/dragosnedelcu/3-programming-myths-that-keep-you-stuck-frustrated-and-underpaid-27bg)
+- [Experience of building a complete? font optimization package for Astro websites](https://dev.to/reeshee/experience-of-building-a-complete-font-optimization-package-for-astro-websites-35hj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
