@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [#MyDEVResolutions2024](https://dev.to/aneeqakhan/mydevresolutions2024-pmd)
 - [Demystifying advanced asynchronous patterns: Generators, Iterators, and RxJS](https://dev.to/best_codes/demystifying-advanced-asynchronous-patterns-generators-iterators-and-rxjs-4jgh)
 - [Welcome Thread - v258](https://dev.to/devteam/welcome-thread-v256-d15)
 - [The basics of WebDev&#39;in: Client/Server Architecture](https://dev.to/venturacodes/the-basics-of-webdevin-clientserver-architecture-1l2d)
 - [CS fundamentals: How Data Storage actually works](https://dev.to/joelbonetr/cs-fundamentals-how-data-storage-actually-works-1o4a)
-- [What is Inheritance in OOP in Python? What are the Different Types of Inheritance](https://dev.to/sachingeek/what-is-inheritance-in-oop-in-python-what-are-the-different-types-of-inheritance-a3j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
