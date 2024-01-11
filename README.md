@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [[20 Days of DynamoDB] Day 4 - Conditional UpdateItem](https://dev.to/aws/20-days-of-dynamodb-day-4-conditional-updateitem-dac)
 - [Unleash the Power of Obsidian with GitHub: A Guide to Organizing Your Digital Brain](https://dev.to/yanpi/unleash-the-power-of-obsidian-with-github-a-guide-to-organizing-your-digital-brain-38cl)
 - [Don&#39;t upload your PWA to the app stores](https://dev.to/progressier/dont-upload-your-pwa-to-the-app-stores-3mg4)
 - [Bitcoin ETFs: Everything You Should Know](https://dev.to/scofieldidehen/bitcoin-etfs-everything-you-should-know-4la0)
 - [Evolution of Docker &amp; Kubernetes &lpar;Virtualization&rpar;](https://dev.to/mukeshkuiry/evolution-of-docker-kubernetes-virtualization-1a9f)
-- [Bandit Level 22 Level 23](https://dev.to/christianpaez/bandit-level-22-level-23-61d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
