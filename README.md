@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Which Abstraction Track Will You Hack To Win Over $15,000 in Prizes?](https://dev.to/starpause/which-abstraction-track-will-you-hack-to-win-over-15000-in-prizes-3701)
-- [🎉 The Gowebly CLI has grown to v2.0.0](https://dev.to/koddr/the-gowebly-cli-has-grown-to-v200-d1c)
-- [How To Design a MySQL Database for your Basic Notification System?](https://dev.to/nikl/how-to-design-a-mysql-database-for-your-basic-notification-system-2fln)
-- [Python for Beginners - Introduction](https://dev.to/tina_popli/python-for-beginners-introduction-1pa2)
-- [A Deep Dive into Angular and Tanstack Query with Our Demo Store](https://dev.to/railsstudent/a-deep-dive-into-angular-and-tanstack-query-with-our-demo-store-1gah)
+- [2023 in retrospective](https://dev.to/nfrankel/2023-in-retrospective-3db9)
+- [Ukrainian embroidery CSS Art](https://dev.to/rodzyk/ukrainian-embroidery-css-art-aa5)
+- [What metrics and key performance indicators &lpar;KPIs&rpar; are commonly used in Scrum to measure team productivity and project success?](https://dev.to/nebeltech11/what-metrics-and-key-performance-indicators-kpis-are-commonly-used-in-scrum-to-measure-team-productivity-and-project-success-55oa)
+- [Angular is not for everyone, and probably not for you](https://dev.to/misterion96/angular-is-not-for-everyone-and-probably-not-for-you-404n)
+- [2024 Ultimate Guide to JavaScript Interview Questions and Answers](https://dev.to/mmainulhasan/2024-ultimate-guide-to-javascript-interview-questions-and-answers-4jmh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
