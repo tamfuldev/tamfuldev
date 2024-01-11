@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Building background email notifications with Next.js, Resend and Trigger.dev](https://dev.to/mfts/building-background-email-notifications-with-nextjs-resend-and-triggerdev-4cem)
+- [Resume](https://dev.to/mainarthur/resume-4pf8)
 - [2023 in retrospective](https://dev.to/nfrankel/2023-in-retrospective-3db9)
+- [Journey to the center of DevRel - Part 1](https://dev.to/sparkfabrik/journey-to-the-center-of-devrel-part-1-4k10)
 - [Ukrainian embroidery CSS Art](https://dev.to/rodzyk/ukrainian-embroidery-css-art-aa5)
-- [What metrics and key performance indicators &lpar;KPIs&rpar; are commonly used in Scrum to measure team productivity and project success?](https://dev.to/nebeltech11/what-metrics-and-key-performance-indicators-kpis-are-commonly-used-in-scrum-to-measure-team-productivity-and-project-success-55oa)
-- [Angular is not for everyone, and probably not for you](https://dev.to/misterion96/angular-is-not-for-everyone-and-probably-not-for-you-404n)
-- [2024 Ultimate Guide to JavaScript Interview Questions and Answers](https://dev.to/mmainulhasan/2024-ultimate-guide-to-javascript-interview-questions-and-answers-4jmh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
