@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [ArrayBuffer and TypedArray](https://dev.to/kshitij978/arraybuffer-and-typedarray-3ege)
+- [Mastering Git: Resolving &quot;Not Possible to Fast-Forward, Aborting&quot; Error](https://dev.to/saint_vandora/mastering-git-resolving-not-possible-to-fast-forward-aborting-error-1pac)
 - [Creating k-NN with C++ &lpar;from Scratch&rpar;](https://dev.to/vodoanminhhieuvn/creating-k-nn-with-c-from-scratch-2ek9)
 - [Snowflake Introduction](https://dev.to/aryamasinha/snowflake-introduction-4863)
 - [How to authenticate a Next.js Route Handler using Clerk](https://dev.to/ably/how-to-authenticate-a-nextjs-route-handler-using-clerk-36pm)
-- [✨ Top 5 Underrated Open Source Projects that no one talks about 🫵🤐](https://dev.to/shricodev/top-5-underrated-open-source-projects-that-no-one-talks-about-2gki)
-- [PostCSS - my initial experience](https://dev.to/tanim_mahbub/postcss-my-initial-experience-23fp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
