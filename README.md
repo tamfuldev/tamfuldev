@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Unleash the Power of Obsidian with GitHub: A Guide to Organizing Your Digital Brain](https://dev.to/yanpi/unleash-the-power-of-obsidian-with-github-a-guide-to-organizing-your-digital-brain-38cl)
+- [Don&#39;t upload your PWA to the app stores](https://dev.to/progressier/dont-upload-your-pwa-to-the-app-stores-3mg4)
 - [Bitcoin ETFs: Everything You Should Know](https://dev.to/scofieldidehen/bitcoin-etfs-everything-you-should-know-4la0)
 - [Evolution of Docker &amp; Kubernetes &lpar;Virtualization&rpar;](https://dev.to/mukeshkuiry/evolution-of-docker-kubernetes-virtualization-1a9f)
 - [Bandit Level 22 Level 23](https://dev.to/christianpaez/bandit-level-22-level-23-61d)
-- [How to Lower the Cost of Changing Software - Part 1](https://dev.to/lpand/how-to-lower-the-cost-of-changing-software-part-1-56h4)
-- [Growth Habits: Essentials for 2024?](https://dev.to/devteam/growth-habits-essentials-for-2024-49pk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
