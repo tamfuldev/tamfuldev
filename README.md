@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Instantly Transfer Face By Using IP-Adapter-FaceID: Full Tutorial &amp; GUI For Windows, RunPod &amp; Kaggle](https://dev.to/furkangozukara/instantly-transfer-face-by-using-ip-adapter-faceid-full-tutorial-gui-for-windows-runpod-kaggle-4p1b)
-- [WebP vs. PNG vs. JPEG: Which is The Right Image Format For Your Website?](https://dev.to/kemuhost/webp-vs-png-vs-jpeg-which-is-the-right-image-format-for-your-website-186f)
-- [Dockerizing Laravel &lpar;With compose&rpar; [Alpine + NGINX + PHP FPM + MariaDB + PHPMyAdmin] 🛳️🛳️](https://dev.to/adnanbabakan/dockerizing-laravel-with-compose-nginx-php-fpm-mariadb-phpmyadmin-8n1)
-- [README or I&#39;ll devour you: How to write a good README](https://dev.to/pachicodes/readme-or-ill-devour-you-how-to-write-a-good-readme-592n)
-- [Experience of building a complete? font optimization package for Astro websites](https://dev.to/reeshee/experience-of-building-a-complete-font-optimization-package-for-astro-websites-35hj)
+- [Creating k-NN with C++ &lpar;from Scratch&rpar;](https://dev.to/vodoanminhhieuvn/creating-k-nn-with-c-from-scratch-2ek9)
+- [Snowflake Introduction](https://dev.to/aryamasinha/snowflake-introduction-4863)
+- [How to authenticate a Next.js Route Handler using Clerk](https://dev.to/ably/how-to-authenticate-a-nextjs-route-handler-using-clerk-36pm)
+- [✨ Top 5 Underrated Open Source Projects that no one talks about 🫵🤐](https://dev.to/shricodev/top-5-underrated-open-source-projects-that-no-one-talks-about-2gki)
+- [PostCSS - my initial experience](https://dev.to/tanim_mahbub/postcss-my-initial-experience-23fp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
