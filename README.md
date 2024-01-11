@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [ArrayBuffer and TypedArray](https://dev.to/kshitij978/arraybuffer-and-typedarray-3ege)
-- [Mastering Git: Resolving &quot;Not Possible to Fast-Forward, Aborting&quot; Error](https://dev.to/saint_vandora/mastering-git-resolving-not-possible-to-fast-forward-aborting-error-1pac)
-- [Creating k-NN with C++ &lpar;from Scratch&rpar;](https://dev.to/vodoanminhhieuvn/creating-k-nn-with-c-from-scratch-2ek9)
-- [Snowflake Introduction](https://dev.to/aryamasinha/snowflake-introduction-4863)
-- [How to authenticate a Next.js Route Handler using Clerk](https://dev.to/ably/how-to-authenticate-a-nextjs-route-handler-using-clerk-36pm)
+- [Demystifying advanced asynchronous patterns: Generators, Iterators, and RxJS](https://dev.to/best_codes/demystifying-advanced-asynchronous-patterns-generators-iterators-and-rxjs-4jgh)
+- [Welcome Thread - v258](https://dev.to/devteam/welcome-thread-v256-d15)
+- [The basics of WebDev&#39;in: Client/Server Architecture](https://dev.to/venturacodes/the-basics-of-webdevin-clientserver-architecture-1l2d)
+- [CS fundamentals: How Data Storage actually works](https://dev.to/joelbonetr/cs-fundamentals-how-data-storage-actually-works-1o4a)
+- [What is Inheritance in OOP in Python? What are the Different Types of Inheritance](https://dev.to/sachingeek/what-is-inheritance-in-oop-in-python-what-are-the-different-types-of-inheritance-a3j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
