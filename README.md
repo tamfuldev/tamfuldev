@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Worst Advice Ever *](https://dev.to/johnrushx/worst-advice-ever--2mkm)
-- [authentication &amp;&amp; authorization](https://dev.to/mustafacam/authenticate-authorization-3dhe)
-- [Como usar Flex-Box?](https://dev.to/alisson1228/como-usar-flex-box-1pij)
-- [Layout Patterns - EN](https://dev.to/guscarpim/layout-patterns-en-2p27)
-- [Layout Patterns - PT](https://dev.to/guscarpim/layout-patterns-pt-45c5)
+- [Bandit Level 22 Level 23](https://dev.to/christianpaez/bandit-level-22-level-23-61d)
+- [Empowering Others: Delegation and Mentorship Impact?](https://dev.to/codenewbieteam/empowering-others-delegation-and-mentorship-impact-1pef)
+- [How to Lower the Cost of Changing Software - Part 1](https://dev.to/lpand/how-to-lower-the-cost-of-changing-software-part-1-56h4)
+- [Growth Habits: Essentials for 2024?](https://dev.to/devteam/growth-habits-essentials-for-2024-49pk)
+- [Maximizando la Productividad: Cómo Finalizar tu Jornada de Desarrollo de Software de Manera Efectiva](https://dev.to/marmariadev/maximizando-la-productividad-como-finalizar-tu-jornada-de-desarrollo-de-software-de-manera-efectiva-5587)
 <!-- BLOG-POST-LIST:END -->
 
 ---
