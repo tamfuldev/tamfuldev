@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Sloan&#39;s Inbox: How do improve focus?](https://dev.to/devteam/sloans-inbox-how-do-improve-focus-4i51)
 - [Mentor Matching Monthly](https://dev.to/devteam/mentor-matching-monthly-3iae)
 - [How to animate state change in Svelte](https://dev.to/abdulmuminyqn/how-to-animate-state-change-in-svelte-3of2)
 - [Exploring GraphQL: Advantages Over REST and Implementation Tips](https://dev.to/bartzalewski/exploring-graphql-advantages-over-rest-and-implementation-tips-33o8)
 - [Writing simple Python scripts faster with Amazon Q](https://dev.to/aws/writing-simple-python-scripts-faster-with-amazon-q-6n4)
-- [McDeepNet: A Step-by-Step Guide to Building and Training a TensorFlow RNN on McDonald’s Reviews 🍟](https://dev.to/zanepearton/mcdeepnet-a-step-by-step-guide-to-building-and-training-a-tensorflow-rnn-for-mcdonalds-reviews-analysis-3898)
 <!-- BLOG-POST-LIST:END -->
 
 ---
