@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Can Design Make Websites an Effortless Experience?](https://dev.to/kawward/how-can-design-make-websites-an-effortless-experience-57po)
-- [Deepspeed Wheels For Windows](https://dev.to/furkangozukara/deepspeed-wheels-for-windows-4chh)
-- [Setting Up A PostgreSQL Database on AWS: A Step-by-Step Guide to Generate a Service Connection String](https://dev.to/han_kami/setting-up-a-postgresql-database-on-aws-a-step-by-step-guide-to-generate-your-services-connection-string-2bap)
-- [Entendendo o funcionamento do Try...Catch no javascript](https://dev.to/webdavi/entendendo-o-funcionamento-do-trycatch-no-javascript-346g)
-- [About being some steps ahead](https://dev.to/yelldutz/about-being-some-steps-ahead-2k4o)
+- [Mentor Matching Monthly](https://dev.to/devteam/mentor-matching-monthly-3iae)
+- [How to animate state change in Svelte](https://dev.to/abdulmuminyqn/how-to-animate-state-change-in-svelte-3of2)
+- [Exploring GraphQL: Advantages Over REST and Implementation Tips](https://dev.to/bartzalewski/exploring-graphql-advantages-over-rest-and-implementation-tips-33o8)
+- [Writing simple Python scripts faster with Amazon Q](https://dev.to/aws/writing-simple-python-scripts-faster-with-amazon-q-6n4)
+- [McDeepNet: A Step-by-Step Guide to Building and Training a TensorFlow RNN on McDonald’s Reviews 🍟](https://dev.to/zanepearton/mcdeepnet-a-step-by-step-guide-to-building-and-training-a-tensorflow-rnn-for-mcdonalds-reviews-analysis-3898)
 <!-- BLOG-POST-LIST:END -->
 
 ---
