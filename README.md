@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How to get Github PR Notifications in Slack &lpar;in under a minute!&rpar;](https://dev.to/gabrielpineda/how-to-get-github-pr-notifications-in-slack-in-under-a-minute-4noh)
+- [🚀 Exciting News! 🚀 I&#39;m thrilled to share my latest project on GitHub: Get-Github-Achievements! 🎉](https://dev.to/yasindehfuli/exciting-news-im-thrilled-to-share-my-latest-project-on-github-get-github-achievements-5cjp)
+- [Hover Effect Pricing Section JS &amp; Bootstrap 5.3](https://dev.to/yasindehfuli/hover-effect-pricing-section-js-bootstrap-53-2c90)
+- [Glassy Scroll Mega Menu Bootstrap v.5.3 JS](https://dev.to/yasindehfuli/glassy-scroll-mega-menu-bootstrap-v53-js-5b88)
 - [Building background email notifications with Next.js, Resend and Trigger.dev](https://dev.to/mfts/building-background-email-notifications-with-nextjs-resend-and-triggerdev-4cem)
-- [Resume](https://dev.to/mainarthur/resume-4pf8)
-- [2023 in retrospective](https://dev.to/nfrankel/2023-in-retrospective-3db9)
-- [Journey to the center of DevRel - Part 1](https://dev.to/sparkfabrik/journey-to-the-center-of-devrel-part-1-4k10)
-- [Ukrainian embroidery CSS Art](https://dev.to/rodzyk/ukrainian-embroidery-css-art-aa5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
