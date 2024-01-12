@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4fp1)
+- [Figma to Code: An Automated Journey from Design to Implementation](https://dev.to/happyer/figma-to-code-an-automated-journey-from-design-to-implementation-5dol)
+- [Mastering data with 7 new JavaScript Set methods](https://dev.to/veranikabarel/mastering-data-with-7-new-javascript-set-methods-583o)
+- [Entregar y recibir feedback de calidad](https://dev.to/dennistobar/entregar-y-recibir-feedback-de-calidad-1h8d)
 - [12 Websites That Every Developer Must know 🤩](https://dev.to/random_ti/top-12-websites-that-every-developer-must-know-2a67)
-- [Top 10 Software Development Trends in 2024](https://dev.to/durgesh4993/top-10-software-development-trends-in-2024-4h7o)
-- [&quot;Have fun with it&quot;. RunnerXBT – On Trading, Mentality, and Losses](https://dev.to/endeo/have-fun-with-it-runnerxbt-on-trading-mentality-and-losses-1h6l)
-- [Who wants to be a millionaire - Computer Science edition &lpar;Python&rpar;](https://dev.to/joshdreckmeyr/who-wants-to-be-a-millionaire-computer-science-edition-python-4108)
-- [Dominando las pruebas en DevOps: Una guía exhaustiva de tipos y técnicas](https://dev.to/danieljsaldana/dominando-las-pruebas-en-devops-una-guia-exhaustiva-de-tipos-y-tecnicas-3fn6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
