@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How to Integrate Neo4j With SSO on Azure — One Login to Rule Them All](https://dev.to/msenechal/how-to-integrate-neo4j-with-sso-on-azure-one-login-to-rule-them-all-408a)
+- [Development of the new Code Repo version](https://dev.to/antonioobra/development-of-the-new-code-repo-version-3kkg)
+- [The Secret to Mastering Distributed Systems: CAP Theorem and Its Extensions](https://dev.to/iwooky/the-secret-to-mastering-distributed-systems-cap-theorem-and-its-extensions-4ii4)
 - [Is AI Dangerous For Developers?](https://dev.to/hasanelsherbiny/is-ai-dangerous-for-developers-1a69)
 - [Double the Dreams: #DEVResolutions2024 Round 2](https://dev.to/devteam/double-the-dreams-devresolutions2024-round-2-2dnk)
-- [Discussion of the Week: I need feedback on my first website](https://dev.to/devteam/discussion-of-the-week-i-need-feedback-on-my-first-website-26jh)
-- [Dear MLE&#39;s..](https://dev.to/nocode3000/dear-mles-neg)
-- [Job search week … umm 4](https://dev.to/adam_cyclones/job-search-week-umm-4-3695)
 <!-- BLOG-POST-LIST:END -->
 
 ---
