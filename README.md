@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Learn For Loop By Coding this Fun Project! JavaScript Hands-On Tutorial for Beginners!](https://dev.to/piko/i-made-a-hands-on-tutorial-for-learning-forloops-2bng)
+- [Why I Built a Vscode Extension](https://dev.to/goslek/why-i-built-a-vscode-extension-430h)
+- [Build your SaaS landing page in 15 minutes using Mantine](https://dev.to/tthroo/build-your-saas-landing-page-in-15-minutes-using-mantine-111a)
 - [💻Vim Text Editor: 15 Must-Know Commands for Developers](https://dev.to/zanepearton/vim-text-editor-15-must-know-commands-for-developers-29n7)
 - [Setting up a SOCKS Proxy Server with Dante on AWS](https://dev.to/idrisakintobi/setting-up-a-socks-proxy-server-with-dante-on-aws-m54)
-- [Sloan&#39;s Inbox: How do improve focus?](https://dev.to/devteam/sloans-inbox-how-do-improve-focus-4i51)
-- [Mentor Matching Monthly](https://dev.to/devteam/mentor-matching-monthly-3iae)
-- [How to animate state change in Svelte](https://dev.to/abdulmuminyqn/how-to-animate-state-change-in-svelte-3of2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
