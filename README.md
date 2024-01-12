@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How to Create a database in SQL Server 2022?](https://dev.to/anilsingh/how-to-create-a-database-in-sql-server-2022-4b0l)
 - [Build a Streamlit app with LangChain and Amazon Bedrock](https://dev.to/aws/build-a-streamlit-app-with-langchain-and-amazon-bedrock-106l)
 - [36 Courses/Certifications for Web Developers 🔥](https://dev.to/arjuncodess/36-coursescertifications-for-web-developers-19hc)
 - [Next.js 14 and Vercel Edge Network](https://dev.to/lexyerresta/nextjs-14-and-vercel-edge-network-4p1m)
 - [How To Implement Caching in Node.js Using Redis](https://dev.to/speaklouder/how-to-implement-caching-in-nodejs-using-redis-188c)
-- [Why do I ♥ debugging?](https://dev.to/buzzpy/why-do-i-debugging-5h51)
 <!-- BLOG-POST-LIST:END -->
 
 ---
