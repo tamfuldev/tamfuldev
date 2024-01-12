@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Is AI Dangerous For Developers?](https://dev.to/hasanelsherbiny/is-ai-dangerous-for-developers-1a69)
+- [Double the Dreams: #DEVResolutions2024 Round 2](https://dev.to/devteam/double-the-dreams-devresolutions2024-round-2-2dnk)
+- [Discussion of the Week: I need feedback on my first website](https://dev.to/devteam/discussion-of-the-week-i-need-feedback-on-my-first-website-26jh)
 - [Dear MLE&#39;s..](https://dev.to/nocode3000/dear-mles-neg)
-- [Securing Virtual Memory in Operating Systems](https://dev.to/syedmuhammadaliraza/securing-virtual-memory-in-operating-systems-31oj)
-- [People are motivated by progress, mastery and controle - KAWWARD](https://dev.to/kawward/people-are-motivated-by-progress-mastery-and-controle-kawward-3hoo)
-- [How to get started with Progressive Web Apps.](https://dev.to/michellebuchiokonicha/how-to-get-started-with-progressive-web-apps-3f44)
-- [Howto: WASM runtimes in Docker / Colima](https://dev.to/bguijt/howto-wasm-runtimes-in-docker-colima-52c2)
+- [Job search week … umm 4](https://dev.to/adam_cyclones/job-search-week-umm-4-3695)
 <!-- BLOG-POST-LIST:END -->
 
 ---
