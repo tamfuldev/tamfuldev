@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Elevando a Qualidade: Guia Prático de Testes em Cypress para Componentes e E2E em Aplicações React](https://dev.to/williammdsilva/elevando-a-qualidade-guia-pratico-de-testes-em-cypress-para-componentes-e-e2e-em-aplicacoes-react-2k35)
 - [Learn For Loop By Coding this Fun Project! JavaScript Hands-On Tutorial for Beginners!](https://dev.to/piko/i-made-a-hands-on-tutorial-for-learning-forloops-2bng)
 - [Why I Built a Vscode Extension](https://dev.to/goslek/why-i-built-a-vscode-extension-430h)
-- [Build your SaaS landing page in 15 minutes using Mantine](https://dev.to/tthroo/build-your-saas-landing-page-in-15-minutes-using-mantine-111a)
-- [💻Vim Text Editor: 15 Must-Know Commands for Developers](https://dev.to/zanepearton/vim-text-editor-15-must-know-commands-for-developers-29n7)
-- [Setting up a SOCKS Proxy Server with Dante on AWS](https://dev.to/idrisakintobi/setting-up-a-socks-proxy-server-with-dante-on-aws-m54)
+- [Web Development Journey: Overcoming Misleading Advice?](https://dev.to/codenewbieteam/web-development-journey-overcoming-misleading-advice-16a7)
+- [Tech Certifications in 2024?](https://dev.to/devteam/tech-certifications-in-2024-3bf0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
