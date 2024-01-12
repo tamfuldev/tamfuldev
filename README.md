@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Modélisation d’entreprise : un accélérateur de transformation digitale](https://dev.to/jmegnidro/modelisation-dentreprise-un-accelerateur-de-transformation-digitale-78e)
+- [Exploring Health Connect Pt. 1 - Setting Up Permissions](https://dev.to/eevajonnapanula/exploring-health-connect-pt-1-setting-up-permissions-2kn1)
 - [Blocked users&#39; posts featured in &quot;relevant&quot; feed](https://dev.to/ingosteinke/blocked-users-posts-featured-in-relevant-feed-3j6g)
+- [How I Built a NuGet Package](https://dev.to/ishrarg/how-i-built-a-nuget-package-38gi)
 - [Introducing gdocweb](https://dev.to/codenameone/introducing-gdocweb-29g7)
-- [100+ Free HTML CSS Website Templates](https://dev.to/templatesjungle/100-free-html-css-website-templates-5d6h)
-- [Building an Appointment Booking app in Go](https://dev.to/encore/building-an-appointment-booking-app-in-go-3kl7)
-- [Public Chain Development in 2023](https://dev.to/footprint-analytics/public-chain-development-in-2023-ia0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
