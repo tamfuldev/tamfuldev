@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4fp1)
-- [Figma to Code: An Automated Journey from Design to Implementation](https://dev.to/happyer/figma-to-code-an-automated-journey-from-design-to-implementation-5dol)
-- [Mastering data with 7 new JavaScript Set methods](https://dev.to/veranikabarel/mastering-data-with-7-new-javascript-set-methods-583o)
-- [Entregar y recibir feedback de calidad](https://dev.to/dennistobar/entregar-y-recibir-feedback-de-calidad-1h8d)
-- [12 Websites That Every Developer Must know 🤩](https://dev.to/random_ti/top-12-websites-that-every-developer-must-know-2a67)
+- [Ultimate Guide to Hire Remote and Dedicated Developers: Fuel Your Startup&#39;s Success](https://dev.to/navecktech/ultimate-guide-to-hire-remote-and-dedicated-developers-fuel-your-startups-success-36bk)
+- [This Week In React #169: useMemo, 2 Reacts, Next.js, Remix, JS Rising Stars, Docusaurus, Astro, Fresnel, Mutative, JSX emails...](https://dev.to/sebastienlorber/this-week-in-react-169-usememo-2-reacts-nextjs-remix-js-rising-stars-docusaurus-astro-fresnel-mutative-jsx-emails-4lla)
+- [Tools used by the top 1% of Platform Engineers and their Commercial Open Source Alternatives](https://dev.to/digger/tools-used-by-the-top-1-of-platform-engineers-and-their-commercial-open-source-alternatives-6l7)
+- [Unwrap GitHub Organization Contributions in 2023](https://dev.to/vauntdev/unwrap-github-organization-contributions-in-2023-3p2n)
+- [The Evolution of User Experience &lpar;UX&rpar; Design in the Digital Age](https://dev.to/qbentil/the-evolution-of-user-experience-ux-design-in-the-digital-age-1077)
 <!-- BLOG-POST-LIST:END -->
 
 ---
