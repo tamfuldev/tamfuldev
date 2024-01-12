@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Modélisation d’entreprise : un accélérateur de transformation digitale](https://dev.to/jmegnidro/modelisation-dentreprise-un-accelerateur-de-transformation-digitale-78e)
-- [Exploring Health Connect Pt. 1 - Setting Up Permissions](https://dev.to/eevajonnapanula/exploring-health-connect-pt-1-setting-up-permissions-2kn1)
-- [Blocked users&#39; posts featured in &quot;relevant&quot; feed](https://dev.to/ingosteinke/blocked-users-posts-featured-in-relevant-feed-3j6g)
-- [How I Built a NuGet Package](https://dev.to/ishrarg/how-i-built-a-nuget-package-38gi)
-- [Introducing gdocweb](https://dev.to/codenameone/introducing-gdocweb-29g7)
+- [My K8s Cheatsheet](https://dev.to/barbara/my-k8s-cheatsheet-2d8p)
+- [Dancing | HackTheBox Write-up](https://dev.to/shiahalan/dancing-hackthebox-write-up-2o35)
+- [Easy Guide to Creating Smart Chatbots with Langchain &amp; GPT-4](https://dev.to/zanepearton/easy-guide-to-creating-smart-chatbots-with-langchain-gpt-4-i5c)
+- [A Note to Developers: Considerations for Using &quot;Acme&quot; in Japanese Market](https://dev.to/ku_suke/a-note-to-developers-considerations-for-using-acme-in-japanese-market-3p75)
+- [Paracetamol.py💊| #21: Explica este código Python](https://dev.to/duxtech/paracetamolpy-21-explica-este-codigo-python-4j4n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
