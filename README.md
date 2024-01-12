@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Dear MLE&#39;s..](https://dev.to/nocode3000/dear-mles-neg)
+- [Securing Virtual Memory in Operating Systems](https://dev.to/syedmuhammadaliraza/securing-virtual-memory-in-operating-systems-31oj)
+- [People are motivated by progress, mastery and controle - KAWWARD](https://dev.to/kawward/people-are-motivated-by-progress-mastery-and-controle-kawward-3hoo)
+- [How to get started with Progressive Web Apps.](https://dev.to/michellebuchiokonicha/how-to-get-started-with-progressive-web-apps-3f44)
 - [Howto: WASM runtimes in Docker / Colima](https://dev.to/bguijt/howto-wasm-runtimes-in-docker-colima-52c2)
-- [What&#39;s new in the GitHub Community - 2024.01.12](https://dev.to/github/whats-new-in-the-github-community-20240112-3e7g)
-- [A simple React app: fetch GitHub users information via API](https://dev.to/baransel/a-simple-react-app-fetch-github-users-information-via-api-52f5)
-- [Ultimate Guide to Hire Remote and Dedicated Developers: Fuel Your Startup&#39;s Success](https://dev.to/navecktech/ultimate-guide-to-hire-remote-and-dedicated-developers-fuel-your-startups-success-36bk)
-- [This Week In React #169: useMemo, 2 Reacts, Next.js, Remix, JS Rising Stars, Docusaurus, Astro, Fresnel, Mutative, JSX emails...](https://dev.to/sebastienlorber/this-week-in-react-169-usememo-2-reacts-nextjs-remix-js-rising-stars-docusaurus-astro-fresnel-mutative-jsx-emails-4lla)
 <!-- BLOG-POST-LIST:END -->
 
 ---
