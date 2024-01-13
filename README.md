@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How to integrate Imagen2 AI in NodeJS](https://dev.to/msveshnikov/integrating-imagen-ai-for-image-generation-26ac)
 - [What are you learning about this weekend? 🧠](https://dev.to/codenewbieteam/what-are-you-learning-about-this-weekend-42k3)
 - [What I learn from Google Cloud Study Jam: GenAI](https://dev.to/d75435911173/what-i-learn-from-google-cloud-study-jam-genai-2mfp)
 - [I Launched The Most Awaited Complete React Course](https://dev.to/myogeshchavan97/i-launched-the-most-awaited-complete-react-course-1efe)
 - [𝐖𝐡𝐚𝐭 𝐢𝐬 𝐰𝐰𝐰? 𝐖𝐡𝐚𝐭 𝐢𝐬 𝐰𝐰𝐰𝟐 &amp; 𝐰𝐰𝐰𝟑? 𝐈𝐧𝐭𝐞𝐫𝐧𝐞𝐭, 𝐖𝐖𝐖, 𝐁𝐫𝐨𝐰𝐬𝐞𝐫](https://dev.to/rounit08/--443j)
-- [EC2 Configuration using Ansible &amp; GitHub Actions](https://dev.to/aws-builders/ec2-configuration-using-ansible-github-actions-25bj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
