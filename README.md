@@ -5,10 +5,10 @@
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
 - [Create Your Own Local Chatbot with Next.js, Llama.cpp, and ModelFusion](https://dev.to/lgrammel/create-your-own-local-chatbot-with-nextjs-llamacpp-and-modelfusion-461j)
-- [Transformation in the restaurant food delivery system and their upgraded features](https://dev.to/outfleet/transformation-in-the-restaurant-food-delivery-system-and-their-upgraded-features-32mh)
 - [Unlocking State Management Simplicity with Zustand! 🚀](https://dev.to/sarathadhithya/unlocking-state-management-simplicity-with-zustand-2adl)
 - [Multiple themes with one object](https://dev.to/shreyvijayvargiya/multiple-themes-with-one-object-3ha6)
 - [Postman&#39;de pretty&#39;nin aktif olması için](https://dev.to/mustafacam/postmande-prettynin-aktif-olmasi-icin-4c8a)
+- [What I learn from Google Cloud Study Jam: GenAI with Cloud Core](https://dev.to/d75435911173/what-i-learn-from-google-cloud-study-jam-genai-51k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
