@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Starting with Rector PHP: Improving Your PHP Code with Automation](https://dev.to/robertobutti/starting-with-rector-php-improving-your-php-code-with-automation-1ahd)
-- [Tackling a large volume of simple problems in an Open Source project](https://dev.to/manchicken/tackling-a-large-volume-of-simple-problems-in-an-open-source-project-5fn3)
-- [Tublian Internship Diaries: A Look Back at Week 3 in Open Source](https://dev.to/lymah/tublian-internship-diaries-a-look-back-at-week-3-in-open-source-1l8i)
-- [Working with ListView in Windows Forms](https://dev.to/karenpayneoregon/working-with-listview-in-windows-forms-205d)
-- [How to use Sass or Scss in Svelte/Sveltekit](https://dev.to/abdulmuminyqn/how-to-use-sass-or-scss-in-sveltesveltekit-25f6)
+- [A Tiny Peep into CSS Houdini](https://dev.to/braide/a-tiny-peep-into-css-houdini-3o7b)
+- [Deploy an EC2 Instance in AWS, connect to it and install nginx](https://dev.to/lanreogunlade1998/deploy-an-ec2-instance-in-aws-connect-to-it-and-install-nginx-118g)
+- [How to Update PHP in Linux to any version](https://dev.to/xxzeroxx/how-to-update-php-in-linux-to-any-version-16mp)
+- [Unions in C](https://dev.to/pauljlucas/unions-in-c-1ojj)
+- [Point of Incidence](https://dev.to/rmion/point-of-incidence-a1p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
