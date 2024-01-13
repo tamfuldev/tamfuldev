@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [What are you learning about this weekend? 🧠](https://dev.to/codenewbieteam/what-are-you-learning-about-this-weekend-42k3)
 - [I Launched The Most Awaited Complete React Course](https://dev.to/myogeshchavan97/i-launched-the-most-awaited-complete-react-course-1efe)
 - [𝐖𝐡𝐚𝐭 𝐢𝐬 𝐰𝐰𝐰? 𝐖𝐡𝐚𝐭 𝐢𝐬 𝐰𝐰𝐰𝟐 &amp; 𝐰𝐰𝐰𝟑? 𝐈𝐧𝐭𝐞𝐫𝐧𝐞𝐭, 𝐖𝐖𝐖, 𝐁𝐫𝐨𝐰𝐬𝐞𝐫](https://dev.to/rounit08/--443j)
+- [EC2 Configuration using Ansible &amp; GitHub Actions](https://dev.to/aws-builders/ec2-configuration-using-ansible-github-actions-25bj)
 - [Water Wave Animation in Flutter](https://dev.to/raman04byte/water-wave-animation-in-flutter-io5)
-- [How to generate QR Code Using Spring Boot](https://dev.to/realnamehidden1_61/how-to-generate-qr-code-using-spring-boot-3k1j)
-- [Creating an Engaging Curriculum vitae using Github Pages: A Step-by-Step Guide](https://dev.to/zanepearton/creating-an-engaging-github-page-cv-a-step-by-step-guide-1e4h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
