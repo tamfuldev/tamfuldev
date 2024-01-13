@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Async Iterators in JavaScript](https://dev.to/_staticvoid/understanding-async-iterators-in-javascript-aog)
 - [A Tiny Peep into CSS Houdini](https://dev.to/braide/a-tiny-peep-into-css-houdini-3o7b)
 - [Deploy an EC2 Instance in AWS, connect to it and install nginx](https://dev.to/lanreogunlade1998/deploy-an-ec2-instance-in-aws-connect-to-it-and-install-nginx-118g)
 - [How to Update PHP in Linux to any version](https://dev.to/xxzeroxx/how-to-update-php-in-linux-to-any-version-16mp)
 - [Unions in C](https://dev.to/pauljlucas/unions-in-c-1ojj)
-- [Point of Incidence](https://dev.to/rmion/point-of-incidence-a1p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
