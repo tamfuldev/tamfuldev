@@ -16,7 +16,7 @@
 # Latest stack oveflow activity
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><tr><td>Facing error on login authentication laravel</td><td>https://stackoverflow.com/questions/77814904/facing-error-on-login-authentication-laravel</td></tr><tr><td>filter url in laravel</td><td>https://stackoverflow.com/questions/77814897/filter-url-in-laravel</td></tr><tr><td>Uploading data to Database via a Webpage</td><td>https://stackoverflow.com/questions/77814880/uploading-data-to-database-via-a-webpage</td></tr><tr><td>Why a Certain Path Causes an Automatic Download on Request?</td><td>https://stackoverflow.com/questions/77814870/why-a-certain-path-causes-an-automatic-download-on-request</td></tr><tr><td>Easy to get authorization for google ads api</td><td>https://stackoverflow.com/questions/77814868/easy-to-get-authorization-for-google-ads-api</td></tr><!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:START --><tr><td>How can repair that?</td><td>https://stackoverflow.com/questions/77815126/how-can-repair-that</td></tr><tr><td>Image Upload - if no image uploaded</td><td>https://stackoverflow.com/questions/77815075/image-upload-if-no-image-uploaded</td></tr><tr><td>HTACCESS - Problems with non existent pages</td><td>https://stackoverflow.com/questions/77815063/htaccess-problems-with-non-existent-pages</td></tr><tr><td>Facing error on login authentication laravel</td><td>https://stackoverflow.com/questions/77814904/facing-error-on-login-authentication-laravel</td></tr><tr><td>filter url in laravel</td><td>https://stackoverflow.com/questions/77814897/filter-url-in-laravel</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 
 ---
