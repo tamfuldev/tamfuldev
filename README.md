@@ -16,7 +16,7 @@
 # Latest stack oveflow activity
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><tr><td>php web-security sql injection</td><td>https://stackoverflow.com/questions/77813695/php-web-security-sql-injection</td></tr><tr><td>PHP isn’t querying WordPress database</td><td>https://stackoverflow.com/questions/77813678/php-isn-t-querying-wordpress-database</td></tr><tr><td>Spreadsheet_Excel_Writer Compatibility for PHP 8</td><td>https://stackoverflow.com/questions/77813658/spreadsheet-excel-writer-compatibility-for-php-8</td></tr><tr><td>Rename file on image upload</td><td>https://stackoverflow.com/questions/77813646/rename-file-on-image-upload</td></tr><tr><td>Attempt to read property &quot;image&quot; on null</td><td>https://stackoverflow.com/questions/77813578/attempt-to-read-property-image-on-null</td></tr><!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:START --><tr><td>FPDM cant print € when Merge&lpar;true&rpar;</td><td>https://stackoverflow.com/questions/77813732/fpdm-cant-print-%e2%82%ac-when-mergetrue</td></tr><tr><td>php web-security sql injection [closed]</td><td>https://stackoverflow.com/questions/77813695/php-web-security-sql-injection</td></tr><tr><td>PHP isn’t querying WordPress database</td><td>https://stackoverflow.com/questions/77813678/php-isn-t-querying-wordpress-database</td></tr><tr><td>Spreadsheet_Excel_Writer Compatibility for PHP 8</td><td>https://stackoverflow.com/questions/77813658/spreadsheet-excel-writer-compatibility-for-php-8</td></tr><tr><td>Rename file on image upload</td><td>https://stackoverflow.com/questions/77813646/rename-file-on-image-upload</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 
 ---
