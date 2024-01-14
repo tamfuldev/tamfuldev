@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4k8i)
-- [How to use Elm extensible records](https://dev.to/csaltos/elm-extensible-records-usage-5707)
-- [Swift Best Practices: The Crucial Importance of Executing Code on the Main Thread or Main Actor](https://dev.to/paolinsky/swift-best-practices-the-crucial-importance-of-executing-code-on-the-main-thread-or-main-actor-5ham)
-- [The Claim-Check Pattern &lpar;reference-based messaging&rpar;](https://dev.to/willvelida/the-claim-check-pattern-reference-based-messaging-5gn7)
-- [Understanding Async Iterators in JavaScript](https://dev.to/_staticvoid/understanding-async-iterators-in-javascript-aog)
+- [OAuth In a Nutshell](https://dev.to/roylee0704/oauth-in-a-nutshell-2p8l)
+- [My Rules for Being a Tech Speaker](https://dev.to/mattdark/my-rules-for-being-a-tech-speaker-4g4o)
+- [10 YouTube Channels for Software Developer](https://dev.to/durgesh4993/10-youtube-channels-software-developer-should-follow-18p2)
+- [How to Build a Decentralized Charity Platform with Next.js, TypeScript, and Solidity](https://dev.to/daltonic/how-to-build-a-decentralized-charity-platform-with-nextjs-typescript-and-solidity-52g4)
+- [How Does Bravery Affect Software Success?](https://dev.to/devteam/how-does-bravery-affect-software-success-44p6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
