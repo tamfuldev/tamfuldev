@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [SaaS Landing Page](https://dev.to/codingcss/saas-landing-page-4nba)
+- [Streams and React Server Components](https://dev.to/aslemammad/streams-and-react-server-components-3fak)
 - [Keep Your Email out of Recipients’ Spam Folders](https://dev.to/this-is-learning/keep-your-email-out-of-recipients-spam-folders-177b)
 - [🚀 Exciting Open-Source Opportunities in 2024! 🌐](https://dev.to/farhakousar1601/exciting-open-source-opportunities-in-2024-4je9)
 - [Maximizing Efficiency with GitHub Actions: Advanced Strategies for Software Engineers](https://dev.to/marmariadev/maximizing-efficiency-with-github-actions-advanced-strategies-for-software-engineers-11m5)
-- [Maximizando la Eficacia con GitHub Actions: Estrategias Avanzadas para Ingenieros de Software](https://dev.to/marmariadev/maximizando-la-eficacia-con-github-actions-estrategias-avanzadas-para-ingenieros-de-software-2g69)
-- [The comprehensive plan to play at re:invent](https://dev.to/aws-builders/the-comprehensive-plan-to-play-at-reinvent-2dkp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
