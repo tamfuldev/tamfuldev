@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4k8i)
 - [How to use Elm extensible records](https://dev.to/csaltos/elm-extensible-records-usage-5707)
 - [Swift Best Practices: The Crucial Importance of Executing Code on the Main Thread or Main Actor](https://dev.to/paolinsky/swift-best-practices-the-crucial-importance-of-executing-code-on-the-main-thread-or-main-actor-5ham)
+- [The Claim-Check Pattern &lpar;reference-based messaging&rpar;](https://dev.to/willvelida/the-claim-check-pattern-reference-based-messaging-5gn7)
 - [Understanding Async Iterators in JavaScript](https://dev.to/_staticvoid/understanding-async-iterators-in-javascript-aog)
-- [A Tiny Peep into CSS Houdini](https://dev.to/braide/a-tiny-peep-into-css-houdini-3o7b)
-- [Deploy an EC2 Instance in AWS, connect to it and install nginx](https://dev.to/lanreogunlade1998/deploy-an-ec2-instance-in-aws-connect-to-it-and-install-nginx-118g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
