@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How can you learn to code and get a job?](https://dev.to/horsecoder/how-can-you-learn-to-code-and-get-a-job-4mc4)
+- [Deploy WordPress on EC2](https://dev.to/oncloud7/deploy-wordpress-on-ec2-1af7)
 - [SaaS Landing Page](https://dev.to/codingcss/saas-landing-page-4nba)
 - [Streams and React Server Components](https://dev.to/aslemammad/streams-and-react-server-components-3fak)
 - [Keep Your Email out of Recipients’ Spam Folders](https://dev.to/this-is-learning/keep-your-email-out-of-recipients-spam-folders-177b)
-- [🚀 Exciting Open-Source Opportunities in 2024! 🌐](https://dev.to/farhakousar1601/exciting-open-source-opportunities-in-2024-4je9)
-- [Maximizing Efficiency with GitHub Actions: Advanced Strategies for Software Engineers](https://dev.to/marmariadev/maximizing-efficiency-with-github-actions-advanced-strategies-for-software-engineers-11m5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
