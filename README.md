@@ -16,7 +16,7 @@
 # Latest stack oveflow activity
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><tr><td>How can repair that?</td><td>https://stackoverflow.com/questions/77815126/how-can-repair-that</td></tr><tr><td>Image Upload - if no image uploaded</td><td>https://stackoverflow.com/questions/77815075/image-upload-if-no-image-uploaded</td></tr><tr><td>HTACCESS - Problems with non existent pages</td><td>https://stackoverflow.com/questions/77815063/htaccess-problems-with-non-existent-pages</td></tr><tr><td>Facing error on login authentication laravel</td><td>https://stackoverflow.com/questions/77814904/facing-error-on-login-authentication-laravel</td></tr><tr><td>filter url in laravel</td><td>https://stackoverflow.com/questions/77814897/filter-url-in-laravel</td></tr><!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:START --><tr><td>PHP Curl download remote XML File</td><td>https://stackoverflow.com/questions/77815317/php-curl-download-remote-xml-file</td></tr><tr><td>Is there a way to connect my app and website so the app gets content from the website</td><td>https://stackoverflow.com/questions/77815271/is-there-a-way-to-connect-my-app-and-website-so-the-app-gets-content-from-the-we</td></tr><tr><td>How can repair that? [closed]</td><td>https://stackoverflow.com/questions/77815126/how-can-repair-that</td></tr><tr><td>Image Upload - if no image uploaded</td><td>https://stackoverflow.com/questions/77815075/image-upload-if-no-image-uploaded</td></tr><tr><td>HTACCESS - Problems with non existent pages</td><td>https://stackoverflow.com/questions/77815063/htaccess-problems-with-non-existent-pages</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 
 ---
