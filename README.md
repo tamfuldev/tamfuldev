@@ -8,7 +8,7 @@
 - [My Rules for Being a Tech Speaker](https://dev.to/mattdark/my-rules-for-being-a-tech-speaker-4g4o)
 - [10 YouTube Channels for Software Developer](https://dev.to/durgesh4993/10-youtube-channels-software-developer-should-follow-18p2)
 - [How to Build a Decentralized Charity Platform with Next.js, TypeScript, and Solidity](https://dev.to/daltonic/how-to-build-a-decentralized-charity-platform-with-nextjs-typescript-and-solidity-52g4)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4k8i)
+- [How Does Bravery Affect Software Success?](https://dev.to/devteam/how-does-bravery-affect-software-success-44p6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
