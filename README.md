@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m creating a new tech community](https://dev.to/danielhe4rt/im-creating-a-new-tech-community-42mh)
-- [SetControlValue From ClientExecSQL With Parameter](https://dev.to/fazliakca/setcontrolvalue-from-clientexecsql-with-parameter-991)
-- [Better DX for .env](https://dev.to/woovi/better-dx-for-env-4419)
-- [Build you kick-ass personal website not portfolio](https://dev.to/triyanox/build-you-kick-ass-personal-website-not-portfolio-4d44)
-- [Linux Command Line Notes](https://dev.to/morinoko/linux-command-line-notes-4lgm)
+- [Next.js: Internationalisation &lpar;i18n&rpar; for the `app directory`](https://dev.to/martinkr/nextjs-internationalisation-i18n-for-the-app-directory-1o2o)
+- [🐍 Python Playground: 16 ways 📚 to get started](https://dev.to/taipy/python-playground-16-ways-to-get-started-4fgg)
+- [Clean Architecture And The Benefits Of Structured Software Design](https://dev.to/adrianbailador/clean-architecture-and-the-benefits-of-structured-software-design-4476)
+- [Navigating the Database Landscape: Relational vs. Non-relational](https://dev.to/khuramgill/navigating-the-database-landscape-relational-vs-non-relational-1ilm)
+- [Time Management](https://dev.to/vedansh0412/time-management-2578)
 <!-- BLOG-POST-LIST:END -->
 
 ---
