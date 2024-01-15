@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Embracing Kubernetes: The Future of Containerized Applications](https://dev.to/zanepearton/embracing-kubernetes-the-future-of-containerized-applications-4n52)
-- [Everything you didn&#39;t know you needed to know about Power Platform Solutions](https://dev.to/wyattdave/everything-you-didnt-know-you-needed-to-know-about-power-platform-solutions-1b4)
-- [Creating a Restaurant Finder Application Using ReactJS and Amplication](https://dev.to/amplication/creating-a-restaurant-finder-application-using-reactjs-and-amplication-56o5)
-- [Code Syntax highlighting in Next Js](https://dev.to/preetsuthar17/code-syntax-highlighting-in-next-js-15h2)
-- [Introduction to Generative AI and why it&#39;s a game-changer in the business world](https://dev.to/ahtealeb82/generative-ai-is-and-why-its-a-game-changer-in-the-business-world-42b4)
+- [SQL looks like English is a well-intentioned error](https://dev.to/esproc_spl/sql-looks-like-english-is-a-well-intentioned-error-34c3)
+- [AWS open source newsletterm #184](https://dev.to/aws/aws-open-source-newsletterm-184-28c0)
+- [How to build a sorting Algorithm visualizer](https://dev.to/abdulmuminyqn/how-to-build-a-sorting-algorithm-visualizer-4an9)
+- [The best of Angular: a collection of my favorite resources of 2023](https://dev.to/this-is-angular/the-best-of-angular-a-collection-of-my-favorite-resources-of-2023-4p8l)
+- [How To Implement Data Streaming In PyTorch From A Remote Database](https://dev.to/reductstore/how-to-implement-data-streaming-in-pytorch-from-a-remote-database-1d6p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
