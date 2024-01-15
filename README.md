@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [I made a website teaching you how to calculate the weekday for any past or future date](https://dev.to/kiledal/i-made-a-website-teaching-you-how-to-calculate-the-weekday-for-any-past-or-future-date-1pnb)
 - [GitHub issues from top Open Source Golang Repositories that you should contribute to](https://dev.to/digger/github-issues-from-top-open-source-golang-repositories-that-you-should-contribute-to-4gp8)
 - [Unleashing the Power of AI in Your IDE: Amazon CodeWhisperer Streamlines Development and Supercharges Productivity](https://dev.to/sumsuzzaman/unleashing-the-power-of-ai-in-your-ide-amazon-codewhisperer-streamlines-development-and-supercharges-productivity-3c1b)
 - [Music Monday — What are you listening to? &lpar;Dubstep Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-dubstep-edition-195m)
 - [Check out this visual and audio feast created with open source malware 👾](https://dev.to/jess/check-out-this-visual-and-audio-feast-created-with-open-source-malware-4ldi)
-- [6 Amazing Headers for Freelancer/Agency Website](https://dev.to/codingcss/6-amazing-headers-for-freelanceragency-website-1cgd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
