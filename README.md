@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Restaurant Finder Application Using ReactJS and Amplication](https://dev.to/amplication/creating-a-restaurant-finder-application-using-reactjs-and-amplication-56o5)
+- [Code Syntax highlighting in Next Js](https://dev.to/preetsuthar17/code-syntax-highlighting-in-next-js-15h2)
 - [std::optional? Proceed with caution!](https://dev.to/moozzyk/stdoptional-proceed-with-caution-3c0n)
 - [Stuck in Fun Land and unable to program my game](https://dev.to/jacklehamster/stuck-in-fun-land-and-unable-to-program-my-game-5273)
 - [[JS] CommonJS vs. ES Modules: Synchronous and Asynchronous Module Loading](https://dev.to/yutakusuno/js-commonjs-vs-es-modules-synchronous-and-asynchronous-module-loading-58jf)
-- [[20 Days of DynamoDB] Day 6 - Atomic counters with UpdateItem](https://dev.to/aws/20-days-of-dynamodb-day-6-atomic-counters-with-updateitem-p5l)
-- [Unleash the Power of AI: Unveiling Amazon Bedrock, Your Gateway to Generative Innovation](https://dev.to/sumsuzzaman/unleash-the-power-of-ai-unveiling-amazon-bedrock-your-gateway-to-generative-innovation-47dm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
