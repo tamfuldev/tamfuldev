@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [FLaNK 15 Jan 2024](https://dev.to/tspannhw/flank-15-jan-2024-4fcb)
-- [Meme Monday](https://dev.to/ben/meme-monday-5h8i)
-- [🎀 Five tools to make your K8s experience more enjoyable 🎀](https://dev.to/cyclops-ui/five-tools-to-make-your-k8s-experience-more-enjoyable-5d85)
-- [Next.js: Internationalisation &lpar;i18n&rpar; for the `app directory`](https://dev.to/martinkr/nextjs-internationalisation-i18n-for-the-app-directory-1o2o)
-- [🐍 Python Playground: 16 ways 📚 to get started](https://dev.to/taipy/python-playground-16-ways-to-get-started-4fgg)
+- [GitHub issues from top Open Source Golang Repositories that you should contribute to](https://dev.to/digger/github-issues-from-top-open-source-golang-repositories-that-you-should-contribute-to-4gp8)
+- [Unleashing the Power of AI in Your IDE: Amazon CodeWhisperer Streamlines Development and Supercharges Productivity](https://dev.to/sumsuzzaman/unleashing-the-power-of-ai-in-your-ide-amazon-codewhisperer-streamlines-development-and-supercharges-productivity-3c1b)
+- [Music Monday — What are you listening to? &lpar;Dubstep Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-dubstep-edition-195m)
+- [Check out this visual and audio feast created with open source malware 👾](https://dev.to/jess/check-out-this-visual-and-audio-feast-created-with-open-source-malware-4ldi)
+- [6 Amazing Headers for Freelancer/Agency Website](https://dev.to/codingcss/6-amazing-headers-for-freelanceragency-website-1cgd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
