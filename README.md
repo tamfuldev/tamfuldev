@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [500+ Vue.js Tailwind CSS UI Components - TailGrids Vue](https://dev.to/tailwindcss/vuejs-tailwind-css-ui-components-103i)
+- [🎉 Celebrating 5000+ followers on DEV](https://dev.to/mukeshkuiry/celebrating-5000-followers-on-dev-23k8)
+- [VPC peering connection 2024](https://dev.to/aws-builders/vpc-peering-connection-2024-4o30)
 - [Containerized Application Deployment on Amazon EKS with Jenkins Pipeline](https://dev.to/ken_mwaura1/containerized-application-deployment-on-amazon-eks-with-jenkins-pipeline-3103)
 - [Nuxt authorization: How to implement fine-grained access control](https://dev.to/cerbos/nuxt-authorization-how-to-implement-fine-grained-access-control-2c67)
-- [Optimizing SQL Queries by 23x!!!](https://dev.to/navneet7716/optimizing-sql-queries-h9j)
-- [Terminal Style CV Using GitHub Pages](https://dev.to/zanepearton/terminal-style-cv-using-github-pages-obp)
-- [McDeepNet: Training TensorFlow on McDonald’s Reviews](https://dev.to/zanepearton/mcdeepnet-training-tensorflow-on-mcdonalds-reviews-21e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
