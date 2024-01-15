@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [9 Steps to Build a RESTful API with Node.js, MongoDB, and Express](https://dev.to/devshefali/9-steps-to-build-a-restful-api-with-nodejs-mongodb-and-express-27fh)
-- [Game monetization strategies](https://dev.to/nandinishinduja/game-monetization-strategies-5491)
-- [Weekly Roundup 035 &lpar;Jan 08&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-035-jan-08-hot-topics-in-workplace-sharepoint-and-powerplatform-1abb)
-- [Our open-source project for building AI / Data full-stack apps got funded! 🎉 🎉](https://dev.to/taipy/our-open-source-project-for-building-ai-data-full-stack-apps-got-funded-4e68)
-- [Day 15: Crafting Cars in Rust – A Symphony of Geeky Dialogues and Struct Choreography 🚗🛠️](https://dev.to/aniket_botre/day-15-crafting-cars-in-rust-a-symphony-of-geeky-dialogues-and-struct-choreography-4o6c)
+- [I&#39;m creating a new tech community](https://dev.to/danielhe4rt/im-creating-a-new-tech-community-42mh)
+- [SetControlValue From ClientExecSQL With Parameter](https://dev.to/fazliakca/setcontrolvalue-from-clientexecsql-with-parameter-991)
+- [Better DX for .env](https://dev.to/woovi/better-dx-for-env-4419)
+- [Build you kick-ass personal website not portfolio](https://dev.to/triyanox/build-you-kick-ass-personal-website-not-portfolio-4d44)
+- [Linux Command Line Notes](https://dev.to/morinoko/linux-command-line-notes-4lgm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
