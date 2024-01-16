@@ -5,10 +5,10 @@
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
 - [Lidando com exceções: como fazer erros práticos e elegantes no Express js](https://dev.to/clintonrocha98/lidando-com-excecoes-como-fazer-erros-praticos-e-elegantes-no-express-js-4k5b)
+- [How Do You Restart Your Career After 55?](https://dev.to/devteam/how-do-you-restart-your-career-after-55-doe)
 - [How to handle concurrency in Clojure with core.async](https://dev.to/j0suetm/how-to-handle-concurrency-in-clojure-with-coreasync-5n5)
 - [Job scheduling with tmux](https://dev.to/jpmcb/job-scheduling-with-tmux-5hb4)
 - [Complexidade de Espaço dos Algoritmos](https://dev.to/analaura/complexidade-de-espaco-dos-algoritmos-166a)
-- [Strategies for Crafting High-Performance Web Apps with Smaller Bundle Sizes](https://dev.to/codebeast/strategies-for-crafting-high-performance-web-apps-with-smaller-bundle-sizes-2mmj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
