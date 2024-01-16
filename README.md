@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Lidando com exceções: como fazer erros práticos e elegantes no Express js](https://dev.to/clintonrocha98/lidando-com-excecoes-como-fazer-erros-praticos-e-elegantes-no-express-js-4k5b)
+- [How to handle concurrency in Clojure with core.async](https://dev.to/j0suetm/how-to-handle-concurrency-in-clojure-with-coreasync-5n5)
+- [Job scheduling with tmux](https://dev.to/jpmcb/job-scheduling-with-tmux-5hb4)
+- [Complexidade de Espaço dos Algoritmos](https://dev.to/analaura/complexidade-de-espaco-dos-algoritmos-166a)
 - [Strategies for Crafting High-Performance Web Apps with Smaller Bundle Sizes](https://dev.to/codebeast/strategies-for-crafting-high-performance-web-apps-with-smaller-bundle-sizes-2mmj)
-- [What is Jamstack in 2024?](https://dev.to/remotesynth/what-is-jamstack-in-2024-3kc6)
-- [DevRel: A Beginner&#39;s Guide](https://dev.to/miracool/devrel-a-beginners-guide-32c1)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5bei)
-- [Exploring Bun: A High-Performance JavaScript Toolkit](https://dev.to/ricardogesteves/exploring-bun-a-high-performance-javascript-toolkit-4k13)
 <!-- BLOG-POST-LIST:END -->
 
 ---
