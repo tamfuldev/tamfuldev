@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Hyper IDE, using No-Code and Low-Code to Generate Software](https://dev.to/polterguy/hyper-ide-using-no-code-and-low-code-to-generate-software-4i6)
-- [Virtual Environments in Python - All You Need To Know](https://dev.to/tosinkupolati/virtual-environments-in-python-all-you-need-to-know-2nda)
-- [How To Get C-suite Buy-in for DevEx Investments](https://dev.to/hatica/how-to-get-c-suite-buy-in-for-devex-investments-1ob)
-- [From Zero to LinkedIn Top Voice: My Journey in Tech Storytelling!](https://dev.to/pavanbelagatti/from-zero-to-linkedin-top-voice-my-journey-in-tech-storytelling-3kdd)
-- [How To Handle Data With GraphQL Relay Client Schema Extensions](https://dev.to/woovi/how-to-handle-data-with-graphql-relay-client-schema-extensions-4o3)
+- [Why you should stop using google forms in 2024?](https://dev.to/sididev/why-you-should-stop-using-google-forms-in-2024-bg3)
+- [Look into MediaPipe solutions with Python](https://dev.to/opencv/look-into-mediapipe-solutions-with-python-2bjp)
+- [Adversarial Attacks Against Gradientless Models](https://dev.to/govind/adversarial-attacks-against-gradientless-models-1l51)
+- [Fantastic JSON Schemas and where to find them](https://dev.to/this-is-learning/fantastic-json-schemas-and-where-to-find-them-i5j)
+- [Dead or not dead 💀 - Exploring the term and why Meteor.js is super-alive! ☄️](https://dev.to/meteor/dead-or-not-dead-exploring-the-term-and-why-meteorjs-is-super-alive-4j2c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
