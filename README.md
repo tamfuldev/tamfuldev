@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [The one thing I do not like about the Nix package manager &lpar;and a fix for it&rpar;](https://dev.to/arnu515/the-one-thing-i-do-not-like-about-the-nix-package-manager-and-a-fix-for-it-33ln)
+- [A Year of Consistent Leetcode 🏆](https://dev.to/dhanushnehru/a-year-of-consistent-leetcode-1b8b)
+- [I made a Full-Stack Template for NextJS 14 - Check it out](https://dev.to/fredy/i-made-a-full-stack-template-with-nextjs-14-check-it-out-imo)
 - [Terraform y la Nube: Compatible con AWS, Azure, Google Cloud y Más](https://dev.to/aws-espanol/terraform-y-la-nube-compatible-con-aws-azure-google-cloud-y-mas-4nmi)
 - [Terraform y la Nube: Compatible con AWS, Azure, Google Cloud y Más](https://dev.to/aws-builders/terraform-y-la-nube-compatible-con-aws-azure-google-cloud-y-mas-4im6)
-- [Creating an Automated Documentation Pipeline in PHP with Autodocs and GitHub Actions](https://dev.to/erikaheidi/creating-an-automated-documentation-pipeline-in-php-with-autodocs-and-github-actions-1464)
-- [What is YOUR theme part.2?!](https://dev.to/lunaaaxo/what-is-your-theme-part2-k3g)
-- [5 Crazy Things To Get Your Developer Career Unstuck 🚀](https://dev.to/dragosnedelcu/5-crazy-things-to-get-your-developer-career-unstuck-8bp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
