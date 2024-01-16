@@ -5,10 +5,10 @@
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
 - [Profile Card Hover Effect](https://dev.to/codewithnitish/profile-card-hover-effect-55eo)
+- [React, where are you going?](https://dev.to/matfrana/react-where-are-you-going-5284)
+- [Wedding invitation](https://dev.to/codewithnitish/wedding-invitation-2mf3)
 - [Angular signals vs. observables: How and when to use each](https://dev.to/logrocket/angular-signals-vs-observables-how-and-when-to-use-each-14ec)
 - [AWS Cloud Club C3 Captains Cohort Opens for Applications on Feb 5](https://dev.to/aws/aws-cloud-club-c3-captains-cohort-opens-for-applications-on-feb-5-2i6k)
-- [Beyond the Mug - re:Invent Cloud Computing 2.0](https://dev.to/ahmedattia/beyond-the-mug-reinvent-cloud-computing-20-1f7p)
-- [How to Conduct a Digital Marketing Audit to Grow Your Business in 2024](https://dev.to/trustedmarketer/how-to-conduct-a-digital-marketing-audit-to-grow-your-business-in-2024-1j6m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
