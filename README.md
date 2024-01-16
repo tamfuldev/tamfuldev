@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Walles.AI Unleashed: A Rollercoaster Ride of Emotion in Every Keystroke](https://dev.to/geekyqee/wallesai-unleashed-a-rollercoaster-ride-of-emotion-in-every-keystroke-4p0e)
+- [Mental battle that I face, looking for support](https://dev.to/johnthecoder/mental-battle-that-i-face-40n)
 - [4 Methods to Send Emails Using Node.js &lpar;w/ Codes - Nodemailer Module, Gmail API, Postmark API &amp; SuprSend&rpar;](https://dev.to/suprsend/4-methods-to-send-emails-using-nodejs-w-codes-nodemailer-module-gmail-api-postmark-api-suprsend-4d5j)
 - [VLAN](https://dev.to/mithunsreeram/vlan-1n8e)
 - [Using SSH to connect local project to github](https://dev.to/ibearua/using-ssh-to-connect-local-project-to-github-19pe)
-- [You don&#39;t need to know all SharePoint field types](https://dev.to/jaloplo/you-dont-need-to-know-all-sharepoint-field-types-3d1c)
-- [👩‍💻🏆 5 tips for surviving &lpar;and winning!&rpar; a Hackathon](https://dev.to/audreyk/5-tips-for-surviving-and-winning-a-hackathon-3bfm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
