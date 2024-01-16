@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Cloud Club C3 Captains Cohort Opens for Applications on Feb 5](https://dev.to/aws/aws-cloud-club-c3-captains-cohort-opens-for-applications-on-feb-5-2i6k)
+- [Beyond the Mug re:Invent Cloud Computing 2.0](https://dev.to/ahmedattia/beyond-the-mug-reinvent-cloud-computing-20-1f7p)
 - [How to Conduct a Digital Marketing Audit to Grow Your Business in 2024](https://dev.to/trustedmarketer/how-to-conduct-a-digital-marketing-audit-to-grow-your-business-in-2024-1j6m)
 - [Unleashing Advanced Array Concepts: A Comprehensive Exploration](https://dev.to/wahidmaster00/unleashing-advanced-array-concepts-a-comprehensive-exploration-1goi)
 - [Mastering Next.js: Unleashing the Power of Modern Web Development](https://dev.to/hriztam/mastering-nextjs-unleashing-the-power-of-modern-web-development-p09)
-- [Let&#39;s learn Shopping Mall Architecture of Relational Database](https://dev.to/samchon/lets-learn-shopping-mall-architecture-of-relational-database-56b4)
-- [TypeScript Might Not Be Your God: Case Study of Migration from TS to JSDoc](https://dev.to/what1s1ove/typescript-might-not-be-your-god-case-study-of-migration-from-ts-to-jsdoc-o99)
 <!-- BLOG-POST-LIST:END -->
 
 ---
