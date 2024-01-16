@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Learn serverless on AWS step-by-step - Schedule tasks with EventBridge Scheduler](https://dev.to/slsbytheodo/learn-serverless-on-aws-step-by-step-schedule-tasks-with-eventbridge-scheduler-4cbh)
-- [Variables, Shadowing, and Constants in Rust](https://dev.to/francescoxx/variables-shadowing-and-constants-in-rust-1fcj)
-- [Why you should stop using google forms in 2024?](https://dev.to/sididev/why-you-should-stop-using-google-forms-in-2024-bg3)
-- [Structuring a Clean Architecture Folder](https://dev.to/adrianbailador/structuring-a-clean-architecture-folder-243d)
-- [Look into MediaPipe solutions with Python](https://dev.to/opencv/look-into-mediapipe-solutions-with-python-2bjp)
+- [Terraform y la Nube: Compatible con AWS, Azure, Google Cloud y Más](https://dev.to/aws-espanol/terraform-y-la-nube-compatible-con-aws-azure-google-cloud-y-mas-4nmi)
+- [Terraform y la Nube: Compatible con AWS, Azure, Google Cloud y Más](https://dev.to/aws-builders/terraform-y-la-nube-compatible-con-aws-azure-google-cloud-y-mas-4im6)
+- [Creating an Automated Documentation Pipeline in PHP with Autodocs and GitHub Actions](https://dev.to/erikaheidi/creating-an-automated-documentation-pipeline-in-php-with-autodocs-and-github-actions-1464)
+- [What is YOUR theme part.2?!](https://dev.to/lunaaaxo/what-is-your-theme-part2-k3g)
+- [5 Crazy Things To Get Your Developer Career Unstuck 🚀](https://dev.to/dragosnedelcu/5-crazy-things-to-get-your-developer-career-unstuck-8bp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
