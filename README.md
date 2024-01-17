@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Scalability for a development team](https://dev.to/gianmarcog/scalability-for-a-development-team-3f1n)
+- [How I Bulk Closed 1000+ GitHub Issues with GitHub Actions 🚀](https://dev.to/github/how-i-bulk-closed-1000-github-issues-with-github-actions-d3b)
+- [Drag and Drop Components with basic CSS &amp; Javascript](https://dev.to/mayankhttps/drag-and-drop-components-with-basic-css-javascript-3jbd)
 - [Shift Left Vs. Shift Right, Which Approach to Choose when it comes to Testing?](https://dev.to/talenttinaapi/shift-left-vs-shift-right-which-approach-to-choose-when-it-comes-to-testing-1lnh)
-- [Getting Started with AWS and Terraform: A Hands-On Guide for Beginners](https://dev.to/chinmay13/getting-started-with-aws-and-terraform-a-hands-on-guide-for-beginners-2pe0)
-- [Multiplication Without Multiplication Operators](https://dev.to/shalomdev/multiplication-without-multiplication-a-divide-and-conquer-approach-27dc)
-- [Junior a Senior: Superando a falta de confiança](https://dev.to/lincolixavier/junior-a-senior-superando-a-falta-de-confianca-1mje)
-- [Elevate Your Node.js Experience: Migrating from Express to Hono](https://dev.to/ricardogesteves/elevate-your-nodejs-experience-migrating-from-express-to-hono-39ei)
+- [Pivot Challenge: Can you analyze this aggregated data?](https://dev.to/ottava_io/pivot-challenge-can-you-analyze-this-aggregated-data-4ncg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
