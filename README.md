@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Minecraft Server on AWS](https://dev.to/aws-heroes/minecraft-server-on-aws-5g61)
 - [This year, I will learn to code &lpar;I hope&rpar;.](https://dev.to/rachelfazio/this-year-i-will-learn-to-code-i-hope-1n06)
 - [9 ways to improve how you ship software](https://dev.to/flybayer/9-ways-to-improve-how-you-ship-software-1pb9)
 - [Make it Happen in January with &lpar;DEV&rpar;eloper Goals! 💜✨](https://dev.to/devteam/choose-3-developer-goals-customize-your-checklist-4497)
 - [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; Folder Structure](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-folder-structure-3bak)
-- [Git Lesson: How to Use .gitignore and .gitkeep?](https://dev.to/ritaly/git-lesson-how-to-use-gitignore-and-gitkeep-5edm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
