@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Top 5+ NextJS &amp; ReactJS Boilerplates for 2024](https://dev.to/fredy/top-5-nextjs-reactjs-boilerplates-for-2024-ll9)
 - [Learning DSA after 4 years of experience](https://dev.to/shreyvijayvargiya/learning-dsa-after-4-years-of-experience-2k7f)
+- [What Is the Purpose of Using Symbols in a Flowchart or Process Map?](https://dev.to/rafikke_lion/what-is-the-purpose-of-using-symbols-in-a-flowchart-or-process-map-1c3e)
 - [Enhancing AWS Security: A Guide to IAM User Deletion Notifications](https://dev.to/aws-builders/enhancing-aws-security-a-guide-to-iam-user-deletion-notifications-19bk)
 - [Automating Storage Account and Service Principal Creation with Terraform](https://dev.to/techielass/automating-storage-account-and-service-principal-creation-with-terraform-16in)
-- [𝗛𝗼𝘄 𝘁𝗼 𝘂𝘀𝗲 𝗥𝗲𝗴𝗘𝘅 𝗶𝗻 𝗗𝗮𝗿𝘁?](https://dev.to/amrazzam31/-5a3i)
-- [Create A Simple Crypto Currency Tracker With NodeJS](https://dev.to/ethand91/create-a-simple-crypto-currency-tracker-with-nodejs-34k0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
