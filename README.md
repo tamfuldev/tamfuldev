@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Multiplication Without Multiplication Operators](https://dev.to/shalomdev/multiplication-without-multiplication-a-divide-and-conquer-approach-27dc)
+- [Junior a Senior: Superando a falta de confiança](https://dev.to/lincolixavier/junior-a-senior-superando-a-falta-de-confianca-1mje)
+- [Elevate Your Node.js Experience: Migrating from Express to Hono](https://dev.to/ricardogesteves/elevate-your-nodejs-experience-migrating-from-express-to-hono-39ei)
 - [Welcome Thread - v259](https://dev.to/devteam/welcome-thread-v259-j4c)
 - [Symbiote.js 2.0](https://dev.to/symbiotejs/symbiotejs-20-2mj8)
-- [418 I&#39;m a Teapot](https://dev.to/arjuncodess/418-im-a-teapot-2jf5)
-- [AWS Community Builders: O que é e como se tornar [PT/BR]](https://dev.to/aws-builders/aws-community-builders-o-que-e-e-como-se-tornar-ptbr-3h4m)
-- [Building an Amazon Bedrock JIRA Agent with Source Code Knowledge Base - Part 2](https://dev.to/makit/building-an-amazon-bedrock-jira-agent-with-source-code-knowledge-base-part-2-13pc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
