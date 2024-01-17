@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A NodeJS Package that verifies if a string contains a potential SSRF attack: ssrfcheck](https://dev.to/felipperegazio/a-nodjs-package-that-verifies-if-a-string-contains-a-potential-ssrf-attack-ssrfcheck-1lpp)
-- [fdasfas](https://dev.to/y_li_87ef3bcc243af15b48c6/fdasfas-4m0l)
-- [JavaScript: Iterators and Generators &lpar;Part-1&rpar;💡📌](https://dev.to/rahmanmajeed/javascript-iterators-and-generators-part-1-4gj9)
-- [Minecraft Server on AWS](https://dev.to/aws-heroes/minecraft-server-on-aws-5g61)
-- [Reduce Cognitive Load in Software Engineering through Platform Engineering](https://dev.to/seal-io/reduce-cognitive-load-in-software-engineering-through-platform-engineering-4176)
+- [Create A Simple Crypto Currency Tracker With NodeJS](https://dev.to/ethand91/create-a-simple-crypto-currency-tracker-with-nodejs-34k0)
+- [[20 Days of DynamoDB] Day 8 - Conditional Delete operation](https://dev.to/aws/20-days-of-dynamodb-day-8-conditional-delete-operation-9b5)
+- [MVC: 5 Reasons Why You Need It in Your Toolbox](https://dev.to/tutortacademy/mvc-5-reasons-why-you-need-it-in-your-toolbox-3jbi)
+- [Examples of new signal inputs in Angular](https://dev.to/railsstudent/examples-of-new-signal-inputs-in-angular-k0c)
+- [Functions in JavaScript](https://dev.to/annoh_karlgusta/functions-in-javascript-glg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
