@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [9 ways to improve how you ship software](https://dev.to/flybayer/9-ways-to-improve-how-you-ship-software-1pb9)
+- [Make it Happen in January with &lpar;DEV&rpar;eloper Goals! 💜✨](https://dev.to/devteam/choose-3-developer-goals-customize-your-checklist-4497)
 - [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; Folder Structure](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-folder-structure-3bak)
 - [Git Lesson: How to Use .gitignore and .gitkeep?](https://dev.to/ritaly/git-lesson-how-to-use-gitignore-and-gitkeep-5edm)
 - [14 Essential Checks Before Deploying Your Website](https://dev.to/rezwan/14-essential-checks-before-deploying-your-website-5gc1)
-- [Profile Card Hover Effect](https://dev.to/codewithnitish/profile-card-hover-effect-55eo)
-- [Wedding invitation](https://dev.to/codewithnitish/wedding-invitation-2mf3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
