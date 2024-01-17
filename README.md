@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Unveiling the Ultimate Guide to Heart Health: Top Strategies for a Stronger Heart](https://dev.to/fitandcure/unveiling-the-ultimate-guide-to-heart-health-top-strategies-for-a-stronger-heart-2dd8)
+- [Edge: Create screenshots of a page without addons](https://dev.to/disane/edge-create-screenshots-of-a-page-without-addons-m0e)
+- [WebSecurity e a sua importância](https://dev.to/hanniel09/websecurity-e-a-sua-importancia-1db5)
 - [Scalability for a development team](https://dev.to/gianmarcog/scalability-for-a-development-team-3f1n)
 - [How I Bulk Closed 1000+ GitHub Issues with GitHub Actions 🚀](https://dev.to/github/how-i-bulk-closed-1000-github-issues-with-github-actions-d3b)
-- [Drag and Drop Components with basic CSS &amp; Javascript](https://dev.to/mayankhttps/drag-and-drop-components-with-basic-css-javascript-3jbd)
-- [Shift Left Vs. Shift Right, Which Approach to Choose when it comes to Testing?](https://dev.to/talenttinaapi/shift-left-vs-shift-right-which-approach-to-choose-when-it-comes-to-testing-1lnh)
-- [Pivot Challenge: Can you analyze this aggregated data?](https://dev.to/ottava_io/pivot-challenge-can-you-analyze-this-aggregated-data-4ncg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
