@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [1 Click Download 160 Very Best Stable Diffusion 1.5 Based &lpar;SD 1.5&rpar; Models](https://dev.to/furkangozukara/download-160-very-best-stable-diffusion-15-based-sd-15-models-with-1-click-chf)
-- [How Epilot Builds a Powerful Webhook Feature with AWS](https://dev.to/epilot/how-epilot-builds-a-powerful-webhook-feature-with-aws-4glo)
-- [NestJS Emails with react-email and nodemailer](https://dev.to/olamide_dev/nestjs-emails-with-react-email-and-nodemailer-17gd)
-- [OR VS Array Includes](https://dev.to/alwarg/or-vs-array-includes-4mad)
-- [🏞️5 beautiful open-source web apps to learn from and get inspired 🙇‍♀️💡](https://dev.to/matijasos/5-beautiful-open-source-web-apps-to-learn-from-and-get-inspired-280f)
+- [Welcome Thread - v259](https://dev.to/devteam/welcome-thread-v259-j4c)
+- [Symbiote.js 2.0](https://dev.to/symbiotejs/symbiotejs-20-2mj8)
+- [418 I&#39;m a Teapot](https://dev.to/arjuncodess/418-im-a-teapot-2jf5)
+- [AWS Community Builders: O que é e como se tornar [PT/BR]](https://dev.to/aws-builders/aws-community-builders-o-que-e-e-como-se-tornar-ptbr-3h4m)
+- [Building an Amazon Bedrock JIRA Agent with Source Code Knowledge Base - Part 2](https://dev.to/makit/building-an-amazon-bedrock-jira-agent-with-source-code-knowledge-base-part-2-13pc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
