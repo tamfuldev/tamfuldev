@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How to build an Anomaly Detector using BigQuery](https://dev.to/chloecaroneng/how-to-build-an-anomaly-detector-using-bigquery-274e)
+- [Funções Serverless na AWS: Simplificando o nosso Processo de Desenvolvimento](https://dev.to/nodebr/funcoes-serverless-na-aws-simplificando-o-nosso-processo-de-desenvolvimento-3l5i)
 - [Model, View, Controller in Rails: A Deep Dive into the MVC Architecture](https://dev.to/dumebii/model-view-controller-in-rails-a-deep-dive-into-the-mvc-architecture-4oi1)
-- [10 Game-Changing Benefits DevOps Brings to Your Business](https://dev.to/pravinuttarwarmb/10-game-changing-benefits-devops-brings-to-your-business-3f85)
-- [How to add the OSS Friends page to your Next.js website](https://dev.to/mfts/how-to-add-the-oss-friends-page-to-your-nextjs-website-2d7h)
-- [10 great web developer tools that will make you 10 years younger &lpar;or at least alleviate some stress 😄&rpar;](https://dev.to/ispmanager/10-great-web-developer-tools-that-will-make-you-10-years-younger-or-at-least-alleviate-some-stress--3a64)
-- [How to Dockerise a NodeJS - TypeScript API || A Comprehensive Guide from Environment Setup to Deployment with a CI/CD Pipeline](https://dev.to/abeinevincent/how-to-dockerise-a-nodejs-typescript-api-a-comprehensive-guide-from-environment-setup-to-deployment-with-a-cicd-pipeline-b40)
+- [Build a Serverless GenAI solution with Lambda, DynamoDB, LangChain and Amazon Bedrock](https://dev.to/aws/build-a-serverless-genai-solution-with-lambda-dynamodb-langchain-and-amazon-bedrock-57h5)
+- [How to choose your API Performance testing tool – A guide for different use cases](https://dev.to/keploy/how-to-choose-your-api-performance-testing-tool-a-guide-for-different-use-cases-1n2p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
