@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What is Network Hosting? A Detailed Guide](https://dev.to/josiepeterson/what-is-network-hosting-a-detailed-guide-2f9i)
+- [How to add the OSS Friends page to your Next.js website](https://dev.to/mfts/how-to-add-the-oss-friends-page-to-your-nextjs-website-2d7h)
+- [10 great web developer tools that will make you 10 years younger &lpar;or at least alleviate some stress 😄&rpar;](https://dev.to/ispmanager/10-great-web-developer-tools-that-will-make-you-10-years-younger-or-at-least-alleviate-some-stress--3a64)
+- [What is Network Hosting? A Detailed Guide](https://dev.to/kemuhost/what-is-network-hosting-a-detailed-guide-2f9i)
 - [Hey, hey we&#39;re the translate, scale, and rotate CSS properties - and we don&#39;t monkey around](https://dev.to/robole/hey-hey-were-the-translate-scale-and-rotate-css-properties-and-we-dont-monkey-around-1m11)
 - [Kicking the tires of Docker Scout](https://dev.to/nfrankel/kicking-the-tires-of-docker-scout-14pf)
-- [Principios SOLID](https://dev.to/eloyparga/principios-solid-4nlj)
-- [Hadoop&amp;Spark is too heavy, esProc SPL is light](https://dev.to/vivi9876/hadoopspark-is-too-heavy-esproc-spl-is-light-31bd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
