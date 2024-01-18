@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Why Math Matters &lpar;More Than You Think!&rpar;](https://dev.to/muhammad_salem/why-math-matters-more-than-you-think-1je4)
 - [An Introduction to Objects &amp; Functions](https://dev.to/theoriginalbpc/an-introduction-to-objects-functions-1elf)
+- [Scrolling Secrets: Make Your Website Awesome!](https://dev.to/kawward/scrolling-secrets-make-your-website-awesome-36k7)
 - [Career treasure hunt: A comprehensive guide to mentoring from both sides](https://dev.to/veruu/career-treasure-hunt-a-comprehensive-guide-to-mentoring-from-both-sides-3fb2)
 - [How To Get Experience &lpar;Even When You Don’t Have Any&rpar; 💡](https://dev.to/dragosnedelcu/how-to-get-experience-even-when-you-dont-have-any-2e00)
-- [VS Code - Fix a task automation issue - `The terminal process failed to launch &lpar;exit code: 127`](https://dev.to/robole/vs-code-fix-a-task-automation-issue-the-terminal-process-failed-to-launch-exit-code-127-oof)
-- [Clean Code - Part 1](https://dev.to/sumisastri/clean-code-part-1-7h3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
