@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [AWS services in nutshell](https://dev.to/er_saifullah/aws-services-in-nutshell-9mb)
 - [Why Math Matters &lpar;More Than You Think!&rpar;](https://dev.to/muhammad_salem/why-math-matters-more-than-you-think-1je4)
 - [An Introduction to Objects &amp; Functions](https://dev.to/theoriginalbpc/an-introduction-to-objects-functions-1elf)
 - [Scrolling Secrets: Make Your Website Awesome!](https://dev.to/kawward/scrolling-secrets-make-your-website-awesome-36k7)
 - [Career treasure hunt: A comprehensive guide to mentoring from both sides](https://dev.to/veruu/career-treasure-hunt-a-comprehensive-guide-to-mentoring-from-both-sides-3fb2)
-- [How To Get Experience &lpar;Even When You Don’t Have Any&rpar; 💡](https://dev.to/dragosnedelcu/how-to-get-experience-even-when-you-dont-have-any-2e00)
 <!-- BLOG-POST-LIST:END -->
 
 ---
