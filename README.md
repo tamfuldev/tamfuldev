@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How to Serve LLM Completions in Production](https://dev.to/mcharytoniuk/how-to-serve-llm-completions-in-production-33c2)
 - [First Week of My Python 60 Days of Coding Challenge: Solutions on GitHub](https://dev.to/ctechsolutions/first-week-of-my-python-60-days-of-coding-challenge-solutions-on-github-1cci)
 - [SinisterChef&#39;s #DEVResolutions2024](https://dev.to/sinisterchef/sinisterchefs-devresolutions2024-n82)
 - [Making Infinite Scroll in Angular Easier and Cleaner](https://dev.to/rensjaspers/making-infinite-scroll-in-angular-easier-and-cleaner-38a9)
 - [Why to Use Css Animation?](https://dev.to/hasanelsherbiny/why-to-use-css-animation-34e7)
-- [Vector Database 101: Resources and Events to Learn about Vector DBs in 2024](https://dev.to/zilliz/vector-database-101-resources-and-events-to-learn-about-vector-dbs-in-2024-27og)
 <!-- BLOG-POST-LIST:END -->
 
 ---
