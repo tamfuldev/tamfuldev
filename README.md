@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Trigger.dev v3: Durable Serverless functions. No timeouts.](https://dev.to/triggerdotdev/triggerdev-v3-durable-serverless-functions-no-timeouts-bp3)
 - [Mastering Docker Multistage Builds](https://dev.to/raunakgurud09/mastering-docker-multistage-builds-1e0m)
 - [GraphQL benefits and why you should adopt it in 2024](https://dev.to/graphqleditor/graphql-benefits-and-why-you-should-adopt-it-in-2024-4d2c)
 - [Referential equality: Where variables check-in and rarely check-out.](https://dev.to/subaash_b/referential-equality-where-variables-check-in-and-rarely-check-out-14gp)
 - [Scaling Real-Time Leaderboards with Dragonfly](https://dev.to/dragonflydbio/scaling-real-time-leaderboards-with-dragonfly-2h4p)
-- [Css Module Type + Vite!](https://dev.to/rezamoosavidweb/css-module-type-vite-5hlm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
