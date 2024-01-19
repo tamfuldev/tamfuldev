@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Take your GitHub readme to the next level! 💪🏼[Responsive and light and dark modes! 🤯]](https://dev.to/grahamthedev/take-your-github-readme-to-the-next-level-responsive-and-light-and-dark-modes--3kpc)
+- [10 Mistakes to Avoid When Using Cypress](https://dev.to/elaichenkov/10-mistakes-to-avoid-when-using-cypress-411o)
+- [Mountain Bikes and Code: Making the Best Decisions to Become Senior](https://dev.to/gabriel-palhares/mountain-bikes-and-code-making-the-best-decisions-to-become-senior-436j)
+- [10 Game-Changing Tools You should Bookmark Now😎🔖](https://dev.to/dev_kiran/10-game-changing-tools-you-should-bookmark-now-2a10)
 - [How to use your Thunderbird-generated OpenPGP key to set your Web Key Directory&lpar;WKD&rpar;](https://dev.to/bogomil/how-to-use-your-thunderbird-generated-openpgp-key-to-set-your-web-key-directorywkd-5ffj)
-- [This Week In React #170: Waku, Remix, Donuts, RSC resentment, React 19, streams, atob, Maestro, Orbit, Tamagui...](https://dev.to/sebastienlorber/this-week-in-react-170-waku-remix-donuts-rsc-resentment-react-19-streams-atob-maestro-orbit-tamagui-294l)
-- [🎈The [Block] Party: A Beginner&#39;s Guide to Data Structures](https://dev.to/zanepearton/the-block-party-a-beginners-guide-to-data-structures-f3b)
-- [Why should you care about the “security.txt” file on your website?](https://dev.to/darkotodoric/why-should-you-care-about-the-securitytxt-file-on-your-website-116j)
-- [Derivations in Reactivity](https://dev.to/this-is-learning/derivations-in-reactivity-4fo1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
