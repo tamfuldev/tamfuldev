@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Divergent Change](https://dev.to/julianrubisch/divergent-change-54om)
+- [Real case of Python Metaclass application](https://dev.to/anbagu/real-case-of-python-metaclass-application-2pj8)
 - [Game marketing strategies](https://dev.to/nandinishinduja/game-marketing-strategies-bk6)
 - [AWS Community Builders 2024 - conclusions after 2 years](https://dev.to/aws-builders/aws-community-builders-2024-conclusions-after-2-years-2pm4)
-- [Wrapping Up the Journey: Reflections on the Final Week of Tublian&#39;s Open Source Internship](https://dev.to/lymah/wrapping-up-the-journey-reflections-on-the-final-week-of-tublians-open-source-internship-5df6)
-- [Explorando a integração entre Google Sheets e Python para automação de dados no sheets](https://dev.to/starch1/explorando-a-integracao-entre-google-sheets-e-python-para-automacao-de-dados-no-sheets-2o71)
-- [La mejor app](https://dev.to/aliriodi/la-mejor-app-3dld)
+- [From Basics to Advanced: Vue.js Internationalization Explained](https://dev.to/chaimamehrzi/from-basics-to-advanced-vuejs-internationalization-explained-55a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
