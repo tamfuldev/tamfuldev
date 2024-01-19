@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How to mass import YouTube videos into a Reddit subreddit [Python]](https://dev.to/gbti/how-to-mass-import-youtube-videos-into-a-reddit-subreddit-python-51o5)
+- [The Best PUBG Saudi UC Store](https://dev.to/pubgucstore/the-best-pubg-saudi-uc-store-43jn)
 - [Divergent Change](https://dev.to/julianrubisch/divergent-change-54om)
 - [Real case of Python Metaclass application](https://dev.to/anbagu/real-case-of-python-metaclass-application-2pj8)
 - [Game marketing strategies](https://dev.to/nandinishinduja/game-marketing-strategies-bk6)
-- [AWS Community Builders 2024 - conclusions after 2 years](https://dev.to/aws-builders/aws-community-builders-2024-conclusions-after-2-years-2pm4)
-- [From Basics to Advanced: Vue.js Internationalization Explained](https://dev.to/chaimamehrzi/from-basics-to-advanced-vuejs-internationalization-explained-55a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
