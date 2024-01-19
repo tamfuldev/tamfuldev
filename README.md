@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Is it worth learning Flutter in 2024?](https://dev.to/svprdga/is-it-worth-learning-flutter-in-2024-16i)
+- [The Road to Adoption: A Product and Strategy Perspective](https://dev.to/prove/the-road-to-adoption-a-product-and-strategy-perspective-gbn)
 - [Let&#39;s talk #DEVResolutions - what strikes a chord with you?](https://dev.to/devteam/lets-talk-devresolutions-what-strikes-a-chord-with-you-21i7)
 - [Blog Comments](https://dev.to/codenameone/blog-comments-1l0a)
 - [Open Lakehouse Engineering/Apache Iceberg Lakehouse Engineering - A Directory of Resources](https://dev.to/alexmercedcoder/open-lakehouse-engineeringapache-iceberg-lakehouse-engineering-a-directory-of-resources-54ng)
-- [Pseudo-multithreading in Web Development | DataTableDev](https://dev.to/datatabledev/pseudo-multithreading-in-web-development-datatabledev-3b02)
-- [3 tools increasing your productivity](https://dev.to/corners2wall/3-tools-increasing-your-productivity-k9f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
