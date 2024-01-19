@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [This Week In React #170: Waku, Remix, Donuts, RSC resentment, React 19, streams, atob, Maestro, Orbit, Tamagui...](https://dev.to/sebastienlorber/this-week-in-react-170-waku-remix-donuts-rsc-resentment-react-19-streams-atob-maestro-orbit-tamagui-294l)
 - [🎈The [Block] Party: A Beginner&#39;s Guide to Data Structures](https://dev.to/zanepearton/the-block-party-a-beginners-guide-to-data-structures-f3b)
 - [Why should you care about the “security.txt” file on your website?](https://dev.to/darkotodoric/why-should-you-care-about-the-securitytxt-file-on-your-website-116j)
 - [Derivations in Reactivity](https://dev.to/this-is-learning/derivations-in-reactivity-4fo1)
 - [How To Set Up A Mailserver Within A Docker Swarm](https://dev.to/paulknulst/how-to-set-up-a-mailserver-within-a-docker-swarm-2n76)
-- [A Guide to ESLint, Prettier, and VSCode Setup for Code Linting &amp; Formatting](https://dev.to/hkp22/optimizing-javascript-development-a-guide-to-eslint-prettier-and-vscode-setup-for-code-linting-formatting-37b3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
