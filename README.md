@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Did a Moth Really Shape the Destiny of Computers ⁉️](https://dev.to/arjuncodess/did-a-moth-really-shape-the-destiny-of-computers-59p1)
+- [Engineering Bolt ⚡: #3 Friday Developer Fun 🐞](https://dev.to/alexr/engineering-bolt-3-friday-developer-fun-1da6)
 - [🌟 Keep Calm and Code On: Positive Strategies for Handling Frustration in Web Development 🚀](https://dev.to/marmariadev/keep-calm-and-code-on-positive-strategies-for-handling-frustration-in-web-development-m2k)
 - [🌟 Mantén la Calma y Código On: Estrategias Positivas para Manejar la Frustración en Desarrollo Web 🚀](https://dev.to/marmariadev/manten-la-calma-y-codigo-on-estrategias-positivas-para-manejar-la-frustracion-en-desarrollo-web-1hjl)
 - [Create Custom Actions for your Hyperlambda Workflows](https://dev.to/polterguy/create-custom-actions-for-your-hyperlambda-workflows-5del)
-- [La evolución de las herramientas de trabajo: del papel al software de gestión de proyectos](https://dev.to/denisluce/la-evolucion-de-las-herramientas-de-trabajo-del-papel-al-software-de-gestion-de-proyectos-8gj)
-- [Day-10 of Learning JavaScript: Whip Up Weather Wonders: Craft Your Own City-Ready Weather App with JavaScript Magic!](https://dev.to/aniketsaini65/day-10-of-learning-javascript-whip-up-weather-wonders-craft-your-own-city-ready-weather-app-with-javascript-magic-5a2b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
