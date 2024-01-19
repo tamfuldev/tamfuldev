@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Game marketing strategies](https://dev.to/nandinishinduja/game-marketing-strategies-bk6)
+- [AWS Community Builders 2024 - conclusions after 2 years](https://dev.to/aws-builders/aws-community-builders-2024-conclusions-after-2-years-2pm4)
 - [Wrapping Up the Journey: Reflections on the Final Week of Tublian&#39;s Open Source Internship](https://dev.to/lymah/wrapping-up-the-journey-reflections-on-the-final-week-of-tublians-open-source-internship-5df6)
+- [Explorando a integração entre Google Sheets e Python para automação de dados no sheets](https://dev.to/starch1/explorando-a-integracao-entre-google-sheets-e-python-para-automacao-de-dados-no-sheets-2o71)
 - [La mejor app](https://dev.to/aliriodi/la-mejor-app-3dld)
-- [Trigger.dev v3: Durable Serverless functions. No timeouts.](https://dev.to/triggerdotdev/triggerdev-v3-durable-serverless-functions-no-timeouts-bp3)
-- [I analyzed the 18 best dev tools launched on Product Hunt in 2023. Here&#39;s what I found.](https://dev.to/fmerian/i-analyzed-the-18-best-dev-tools-launched-on-product-hunt-in-2023-heres-what-i-found-4i73)
-- [Mastering Docker Multistage Builds](https://dev.to/raunakgurud09/mastering-docker-multistage-builds-1e0m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
