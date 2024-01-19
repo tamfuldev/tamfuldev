@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Is it worth learning Flutter in 2024?](https://dev.to/svprdga/is-it-worth-learning-flutter-in-2024-16i)
-- [The Road to Adoption: A Product and Strategy Perspective](https://dev.to/prove/the-road-to-adoption-a-product-and-strategy-perspective-gbn)
-- [Let&#39;s talk #DEVResolutions - what strikes a chord with you?](https://dev.to/devteam/lets-talk-devresolutions-what-strikes-a-chord-with-you-21i7)
-- [Blog Comments](https://dev.to/codenameone/blog-comments-1l0a)
-- [Open Lakehouse Engineering/Apache Iceberg Lakehouse Engineering - A Directory of Resources](https://dev.to/alexmercedcoder/open-lakehouse-engineeringapache-iceberg-lakehouse-engineering-a-directory-of-resources-54ng)
+- [Mastering Docker Multistage Builds](https://dev.to/raunakgurud09/mastering-docker-multistage-builds-1e0m)
+- [GraphQL benefits and why you should adopt it in 2024](https://dev.to/graphqleditor/graphql-benefits-and-why-you-should-adopt-it-in-2024-4d2c)
+- [Referential equality: Where variables check-in and rarely check-out.](https://dev.to/subaash_b/referential-equality-where-variables-check-in-and-rarely-check-out-14gp)
+- [Scaling Real-Time Leaderboards with Dragonfly](https://dev.to/dragonflydbio/scaling-real-time-leaderboards-with-dragonfly-2h4p)
+- [Css Module Type + Vite!](https://dev.to/rezamoosavidweb/css-module-type-vite-5hlm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
