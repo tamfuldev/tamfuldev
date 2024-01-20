@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [I Tried Every Coding Path - Here&#39;s how I chose my first dev domain.](https://dev.to/jatinshihora/i-tried-every-coding-path-heres-how-i-chose-my-first-dev-domain-39c2)
+- [🌌 5 Open-Source GPT Wrappers to Boost Your AI Experience 🎁](https://dev.to/milasuperstar/5-open-source-gpt-wrappers-to-boost-your-ai-experience-3aj9)
+- [Why AWS is poised to lead the Gartner Magic Quadrant for APM and Observability in 2024](https://dev.to/aws-builders/why-aws-is-poised-to-lead-the-gartner-magic-quadrant-for-apm-and-observability-in-2024-2b0l)
 - [Balancing Act: Code Less or Lead More?](https://dev.to/devteam/balancing-act-code-less-or-lead-more-4hf4)
-- [Improving Data Quality in ClickHouse Databases with Soda](https://dev.to/ranjbaryshahab/improving-data-quality-in-clickhouse-databases-with-soda-4kp4)
-- [How to mass import YouTube videos into a Reddit subreddit [Python]](https://dev.to/gbti/how-to-mass-import-youtube-videos-into-a-reddit-subreddit-python-51o5)
-- [Divergent Change](https://dev.to/julianrubisch/divergent-change-54om)
-- [Real case of Python Metaclass application](https://dev.to/anbagu/real-case-of-python-metaclass-application-2pj8)
+- [Advanced Terraform: Getting Started With Terragrunt](https://dev.to/kelvinskell/advanced-terraform-getting-started-with-terragrunt-b9b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
