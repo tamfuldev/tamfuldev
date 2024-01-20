@@ -5,10 +5,10 @@
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
 - [🪄✨How I built this Twitter scheduler using React and Hasura🔥](https://dev.to/kaushik94/how-i-built-this-twitter-scheduler-using-react-and-hasura-26jo)
+- [Unleash the Power of PyQt: Your Fun Guide to Mastering Python GUIs](https://dev.to/matinmollapur0101/unleash-the-power-of-pyqt-your-fun-guide-to-mastering-python-guis-1jka)
 - [Title: Crafting Compelling Narratives: A Guide to Writing Stories with GitBook – Free Scrivener Alternative](https://dev.to/sh20raj/title-crafting-compelling-narratives-a-guide-to-writing-stories-with-gitbook-free-scrivener-alternative-4b72)
 - [Top JavaScript Projects of 2023 on GitHub](https://dev.to/kiraaziz/top-javascript-projects-of-2023-on-github-189h)
 - [12 Best Free FontAwesome Alternatives in 2024](https://dev.to/sh20raj/12-best-free-fontawesome-alternatives-in-2024-3k4p)
-- [20 Best Websites For Free Bootstrap Templates](https://dev.to/luciantartea/best-websites-for-free-bootstrap-templates-11ep)
 <!-- BLOG-POST-LIST:END -->
 
 ---
