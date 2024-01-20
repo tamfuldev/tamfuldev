@@ -16,7 +16,7 @@
 # Latest stack oveflow activity
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><tr><td>Lumen PHP change field name in JSON</td><td>https://stackoverflow.com/questions/77851713/lumen-php-change-field-name-in-json</td></tr><tr><td>Getting 404 on post request for Lemon squeezy Integration in a Laravel app</td><td>https://stackoverflow.com/questions/77851667/getting-404-on-post-request-for-lemon-squeezy-integration-in-a-laravel-app</td></tr><tr><td>Image Embedding</td><td>https://stackoverflow.com/questions/77851617/image-embedding</td></tr><tr><td>PHPModbus Fails to Connect</td><td>https://stackoverflow.com/questions/77851595/phpmodbus-fails-to-connect</td></tr><tr><td>Class PDO not found Laravel 10 php 8.2 or 8.2 [closed]</td><td>https://stackoverflow.com/questions/77851440/class-pdo-not-found-laravel-10-php-8-2-or-8-2</td></tr><!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:START --><tr><td>How to pass a javascript variable to php session</td><td>https://stackoverflow.com/questions/77851742/how-to-pass-a-javascript-variable-to-php-session</td></tr><tr><td>Lumen PHP change field name in JSON</td><td>https://stackoverflow.com/questions/77851713/lumen-php-change-field-name-in-json</td></tr><tr><td>Getting 404 on post request for Lemon squeezy Integration in a Laravel app</td><td>https://stackoverflow.com/questions/77851667/getting-404-on-post-request-for-lemon-squeezy-integration-in-a-laravel-app</td></tr><tr><td>Image Embedding [duplicate]</td><td>https://stackoverflow.com/questions/77851617/image-embedding</td></tr><tr><td>PHPModbus Fails to Connect</td><td>https://stackoverflow.com/questions/77851595/phpmodbus-fails-to-connect</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 
 ---
