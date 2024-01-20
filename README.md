@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Announcing Lumberjack v16: Life improvements, deprecations and an ambicius roadmap](https://dev.to/lumberjack-js/announcing-lumberjack-v16-life-improvements-deprecations-and-an-ambicius-roadmap-5ffk)
+- [Advanced Stability and Fault Tolerance Mechanisms of Apache APISIX](https://dev.to/apisix/advanced-stability-and-fault-tolerance-mechanisms-of-apache-apisix-198b)
+- [AWS Cost Management: Strategies and Examples](https://dev.to/aws-builders/aws-cost-management-strategies-and-examples-5gma)
+- [Kubernetes for Beginners: Introduction, Functionality, and Cost](https://dev.to/camelcaseguy/kubernetes-for-beginners-introduction-functionality-and-cost-1n68)
 - [🪄✨How I built this Twitter scheduler using React and Hasura🔥](https://dev.to/kaushik94/how-i-built-this-twitter-scheduler-using-react-and-hasura-26jo)
-- [Unleash the Power of PyQt: Your Fun Guide to Mastering Python GUIs](https://dev.to/matinmollapur0101/unleash-the-power-of-pyqt-your-fun-guide-to-mastering-python-guis-1jka)
-- [Title: Crafting Compelling Narratives: A Guide to Writing Stories with GitBook – Free Scrivener Alternative](https://dev.to/sh20raj/title-crafting-compelling-narratives-a-guide-to-writing-stories-with-gitbook-free-scrivener-alternative-4b72)
-- [Top JavaScript Projects of 2023 on GitHub](https://dev.to/kiraaziz/top-javascript-projects-of-2023-on-github-189h)
-- [12 Best Free FontAwesome Alternatives in 2024](https://dev.to/sh20raj/12-best-free-fontawesome-alternatives-in-2024-3k4p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
