@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Improving Data Quality in ClickHouse Databases with Soda](https://dev.to/ranjbaryshahab/improving-data-quality-in-clickhouse-databases-with-soda-4kp4)
 - [How to mass import YouTube videos into a Reddit subreddit [Python]](https://dev.to/gbti/how-to-mass-import-youtube-videos-into-a-reddit-subreddit-python-51o5)
-- [The Best PUBG Saudi UC Store](https://dev.to/pubgucstore/the-best-pubg-saudi-uc-store-43jn)
 - [Divergent Change](https://dev.to/julianrubisch/divergent-change-54om)
 - [Real case of Python Metaclass application](https://dev.to/anbagu/real-case-of-python-metaclass-application-2pj8)
-- [Game marketing strategies](https://dev.to/nandinishinduja/game-marketing-strategies-bk6)
+- [How To Perform JOIN Queries With JPA Criteria API](https://dev.to/writech/how-to-perform-join-queries-with-jpa-criteria-api-34aa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
