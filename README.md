@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [useRequest: Create a Basic Declarative React hook for Managing API Requests as an Alternative to useQuery](https://dev.to/shcheglov/userequest-create-a-basic-declarative-react-hook-for-managing-api-requests-as-an-alternative-to-usequery-28ci)
-- [lowercase saves data? with Huffman encoding ex.](https://dev.to/nikl/lowercase-saves-data-with-huffman-encoding-ex-396)
-- [Cache Conundrum: A Daily Dialogue in the World of Code and QA](https://dev.to/jagroop2001/cache-conundrum-a-daily-dialogue-in-the-world-of-code-and-qa-290m)
-- [🌟 The Open-Closed Principle: Making Coding Fun &amp; Flexible! 🎉](https://dev.to/mohitkadwe19/the-open-closed-principle-making-coding-fun-flexible-14mb)
-- [AI Playground you can run from your laptop 🚀](https://dev.to/tanyarai/ai-playground-you-can-run-from-your-laptop-2ee5)
+- [🪄✨How I built this Twitter scheduler using React and Hasura🔥](https://dev.to/kaushik94/how-i-built-this-twitter-scheduler-using-react-and-hasura-26jo)
+- [Title: Crafting Compelling Narratives: A Guide to Writing Stories with GitBook – Free Scrivener Alternative](https://dev.to/sh20raj/title-crafting-compelling-narratives-a-guide-to-writing-stories-with-gitbook-free-scrivener-alternative-4b72)
+- [Top JavaScript Projects of 2023 on GitHub](https://dev.to/kiraaziz/top-javascript-projects-of-2023-on-github-189h)
+- [12 Best Free FontAwesome Alternatives in 2024](https://dev.to/sh20raj/12-best-free-fontawesome-alternatives-in-2024-3k4p)
+- [20 Best Websites For Free Bootstrap Templates](https://dev.to/luciantartea/best-websites-for-free-bootstrap-templates-11ep)
 <!-- BLOG-POST-LIST:END -->
 
 ---
