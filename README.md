@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [My Wrap Up of 2023: A Year of Growth and Recognition](https://dev.to/this-is-learning/my-wrap-up-of-2023-a-year-of-growth-and-recognition-4b6n)
+- [The future of frontend development](https://dev.to/codewithshahan/the-future-of-frontend-development-1amd)
+- [Using Codeium in VS Code](https://dev.to/oldtechaa/using-codeium-in-vs-code-6fe)
 - [Virtual Machine with Azure Portal](https://dev.to/beingwizard/virtual-machine-with-azure-portal-43kf)
 - [Update: Tackling a large volume of simple problems in an Open Source project](https://dev.to/manchicken/update-tackling-a-large-volume-of-simple-problems-in-an-open-source-project-306c)
-- [5 GitHub Repositories to Learn From: Open-Source Web Apps](https://dev.to/sarathadhithya/5-github-repositories-to-learn-from-open-source-web-apps-4f1i)
-- [Top 10 React JS Interview Theory Questions and Answers 🌟🔥](https://dev.to/arjuncodess/top-10-react-js-interview-theory-questions-and-answers-3e5d)
-- [Exploring useMemo in React: Optimization and Real-World Applications](https://dev.to/ayako_yk/exploring-usememo-in-react-optimization-and-real-world-applications-5djp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
