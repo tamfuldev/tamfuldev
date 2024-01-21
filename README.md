@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Future: A Deep Dive into Apple Vision Pro and the Versatile World of VisionOS](https://dev.to/happyer/exploring-the-future-a-deep-dive-into-apple-vision-pro-and-the-versatile-world-of-visionos-3i3h)
-- [I pre-released my project &quot;json-responder&quot; written in Rust](https://dev.to/nabbisen/i-pre-released-my-project-json-responder-written-in-rust-464c)
-- [Angular 17 Tutorial for Beginners](https://dev.to/anilsingh/angular-17-tutorial-for-beginners-3a76)
-- [Adding Google AdMob to Expo Apps](https://dev.to/josie/adding-google-admob-to-expo-apps-2din)
-- [Nuxt 3 as frontend for Tauri.](https://dev.to/kinxyo/nuxt-3-as-frontend-for-tauri-34gf)
+- [Your AI Code Reviewer in CLI](https://dev.to/rudransh61/your-ai-code-reviewer-in-cli-1loc)
+- [Embracing the Linux Adventure: A Journey from Essential Skills to WSL2 Woes](https://dev.to/fathinafiff/embracing-the-linux-adventure-a-journey-from-essential-skills-to-wsl2-woes-kfg)
+- [Understanding CORS, CSRF attacks and enabling valid CORS](https://dev.to/mugunthanselvaraj/understanding-cors-csrf-attacks-and-enabling-valid-cors-3ko6)
+- [Next-Gen Real Estate: The Technical Evolution of Property Listings and Search Features](https://dev.to/webdigisoft/next-gen-real-estate-the-technical-evolution-of-property-listings-and-search-features-ka3)
+- [Flutter Google Sign In Without Firebase](https://dev.to/thanasistraitsis/flutter-google-sign-in-without-firebase-55bi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
