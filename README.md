@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How to Rewrite Angular Apps to be Nearly Observable and Subscribe-Free](https://dev.to/duluca/how-to-rewrite-angular-apps-to-be-nearly-observable-and-subscribe-free-53h7)
 - [Mastering OOP: Unveiling the Power of Constructors for Efficient Code Creation and Optimization](https://dev.to/mzunairtariq/mastering-oop-unveiling-the-power-of-constructors-for-efficient-code-creation-and-optimization-1i74)
 - [What is Security Breach?](https://dev.to/sagorbro005/what-is-security-breach-14be)
 - [How to work with multiple git branches simultaneously.](https://dev.to/afrieirham/how-to-work-with-multiple-git-branches-simultaneously-35mc)
 - [Safe guarding Sensitive Data in ASP.NET Core with Secret Manager](https://dev.to/mohammadkarimi/safe-guarding-sensitive-data-in-aspnet-core-with-secret-manager-5c6l)
-- [Deploying Apps to AWS with Terraform - Network Setup 01](https://dev.to/randiakm/deploying-apps-to-aws-with-terraform-network-setup-01-28m4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
