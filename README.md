@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Angular 17 Tutorial for Beginners](https://dev.to/anilsingh/angular-17-tutorial-for-beginners-3a76)
+- [Adding Google AdMob to Expo Apps](https://dev.to/josie/adding-google-admob-to-expo-apps-2din)
+- [Nuxt 3 as frontend for Tauri.](https://dev.to/kinxyo/nuxt-3-as-frontend-for-tauri-34gf)
 - [9 Free VS Code Extensions to Boost Your Productivity! 🚀](https://dev.to/mukeshkuiry/9-free-vs-code-extensions-to-boost-your-productivity-3nm4)
 - [How to Build a Decentralized House Rental Platform with Next.js, Redux, and Solidity](https://dev.to/daltonic/how-to-build-a-decentralized-house-rental-platform-with-nextjs-redux-and-solidity-329a)
-- [TwoSum Example in C#: Print and Count Pairs with Given Sum](https://dev.to/homolibere/twosum-example-in-c-print-and-count-pairs-with-given-sum-1f34)
-- [Understanding Pointers in Go](https://dev.to/oyedeletemitope/understanding-pointers-in-go-1fa6)
-- [Manga TV](https://dev.to/msveshnikov/manga-tv-1mp4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
