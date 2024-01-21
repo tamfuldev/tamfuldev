@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [📈 Top 5 Beginner-Friendly Open Source Libraries for RAG 🚀](https://dev.to/llmware/top-5-beginner-friendly-open-source-libraries-for-rag-1mhb)
-- [PyTorch / Jupyter notebook: ModuleNotFoundError: No module named &#39;torch&#39;](https://dev.to/vidyasagarmsc/pytorch-jupyter-notebook-modulenotfounderror-no-module-named-torch-2c1o)
-- [Yet Another Newsletter LOL: Heading to the SPA](https://dev.to/nickytonline/yet-another-newsletter-lol-heading-to-the-spa-18h1)
-- [How to Improve Development Experience of your React Project](https://dev.to/pavelkeyzik/how-to-improve-development-experience-of-your-react-project-l5j)
-- [6 Kubernetes Ports: A Definitive Look - Expose, NodePort, TargetPort, &amp; More](https://dev.to/lovestaco/6-kubernetes-ports-a-definitive-look-expose-nodeport-targetport-more-2enc)
+- [Mastering OOP: Unveiling the Power of Constructors for Efficient Code Creation and Optimization](https://dev.to/mzunairtariq/mastering-oop-unveiling-the-power-of-constructors-for-efficient-code-creation-and-optimization-1i74)
+- [What is Security Breach?](https://dev.to/sagorbro005/what-is-security-breach-14be)
+- [How to work with multiple git branches simultaneously.](https://dev.to/afrieirham/how-to-work-with-multiple-git-branches-simultaneously-35mc)
+- [Safe guarding Sensitive Data in ASP.NET Core with Secret Manager](https://dev.to/mohammadkarimi/safe-guarding-sensitive-data-in-aspnet-core-with-secret-manager-5c6l)
+- [Deploying Apps to AWS with Terraform - Network Setup 01](https://dev.to/randiakm/deploying-apps-to-aws-with-terraform-network-setup-01-28m4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
