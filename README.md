@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Me as a game dev team leader](https://dev.to/philopaterwaheed/me-as-a-game-dev-team-leader-43c7)
-- [How I made it impossible to write spaghetti code.](https://dev.to/denzyldick/how-i-made-it-impossible-to-write-spaghetti-code-dg4)
-- [Conways Law and Ownership](https://dev.to/cbui/conways-law-and-ownership-4pjn)
-- [Introduction to Functional Programming in Scala](https://dev.to/kartikmehta8/introduction-to-functional-programming-in-scala-1cgp)
-- [8 Tips for Effective Design Reviews](https://dev.to/suhavi/8-tips-for-effective-design-reviews-1611)
+- [Top 10 React JS Interview Theory Questions and Answers 🌟🔥](https://dev.to/arjuncodess/top-10-react-js-interview-theory-questions-and-answers-3e5d)
+- [Exploring useMemo in React: Optimization and Real-World Applications](https://dev.to/ayako_yk/exploring-usememo-in-react-optimization-and-real-world-applications-5djp)
+- [Cool Tool: ASDF — A single solution for managing versions](https://dev.to/amburi/cool-tool-asdf-a-single-solution-for-managing-versions-4bcd)
+- [Monolithic, Microservices and Mono Repo Architecture](https://dev.to/amburi/monolithic-microservices-and-mono-repo-architecture-4o33)
+- [Most commonly used Git command shortcuts](https://dev.to/amburi/most-commonly-used-git-command-shortcuts-nck)
 <!-- BLOG-POST-LIST:END -->
 
 ---
