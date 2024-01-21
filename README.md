@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [9 Free VS Code Extensions to Boost Your Productivity! 🚀](https://dev.to/mukeshkuiry/9-free-vs-code-extensions-to-boost-your-productivity-3nm4)
+- [How to Build a Decentralized House Rental Platform with Next.js, Redux, and Solidity](https://dev.to/daltonic/how-to-build-a-decentralized-house-rental-platform-with-nextjs-redux-and-solidity-329a)
+- [TwoSum Example in C#: Print and Count Pairs with Given Sum](https://dev.to/homolibere/twosum-example-in-c-print-and-count-pairs-with-given-sum-1f34)
 - [Understanding Pointers in Go](https://dev.to/oyedeletemitope/understanding-pointers-in-go-1fa6)
 - [Manga TV](https://dev.to/msveshnikov/manga-tv-1mp4)
-- [SSR React in Go](https://dev.to/k_penguin_sato/ssr-react-in-go-3ej)
-- [JavaScript: The Klassic Way!](https://dev.to/alimobasheri/javascript-the-klassic-way-pfg)
-- [Intro to game development](https://dev.to/nandinishinduja/intro-to-game-development-27cn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
