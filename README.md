@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Web frameworks📊: Your 🐍Python Picks](https://dev.to/taipy/web-frameworks-your-python-picks-3a46)
-- [Should Sensitive Systems Be Open Source ?](https://dev.to/usamaa/should-sensitive-systems-be-open-source--4j56)
-- [Implementing an E-Commerce &quot;Add to Cart&quot; Feature in React: A Step-by-Step Guide](https://dev.to/rohitashsingh89/implementing-an-e-commerce-add-to-cart-feature-in-react-a-step-by-step-guide-3d5a)
-- [Deploying React apps to production on AWS ☁️](https://dev.to/artur_ceschin/deploying-react-apps-to-production-on-aws-2hn)
-- [AWS open source newsletter, #185](https://dev.to/aws/aws-open-source-newsletter-185-8ab)
+- [How to Create a DEX: Important Steps and Considerations](https://dev.to/rocknblock/how-to-create-a-dex-important-steps-and-considerations-3hja)
+- [FLaNK Stack Weekly 22 January 2024](https://dev.to/tspannhw/flank-stack-weekly-22-january-2024-4i93)
+- [5 traits to go from Junior to Senior Software Engineer](https://dev.to/jenesh/5-traits-to-go-from-junior-to-senior-software-engineer-11ol)
+- [How Karate Kid teach me coding.](https://dev.to/ismaelguerrib/how-karate-kid-teach-me-coding-5c5f)
+- [What is Incremental Testing in Software Testing](https://dev.to/amritaangappa01/what-is-incremental-testing-in-software-testing-22lm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
