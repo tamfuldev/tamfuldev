@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Deploying React apps to production on AWS ☁️](https://dev.to/artur_ceschin/deploying-react-apps-to-production-on-aws-2hn)
+- [AWS open source newsletter, #185](https://dev.to/aws/aws-open-source-newsletter-185-8ab)
+- [Why learn Spanish?](https://dev.to/aliriodi/why-learn-spanish-1iji)
+- [15 open-source tools to elevate your software design workflow](https://dev.to/tqbit/15-open-source-tools-to-elevate-your-software-design-workflow-4nbd)
 - [Writing Style Guide for Technical Articles](https://dev.to/surajondev/writing-style-guide-for-technical-articles-6e)
-- [🚀 API Maker : Release Notes for v1.1.0](https://dev.to/apimaker/api-maker-release-notes-for-v110-250m)
-- [Building Server-Side Rendering &lpar;SSR&rpar; Applications with Deno and JSX](https://dev.to/franciscomendes10866/building-server-side-rendering-ssr-applications-with-deno-and-jsx-bk4)
-- [Do you need to code a portfolio in this digital world? 🚀](https://dev.to/anmolbaranwal/do-you-need-to-code-a-portfolio-in-this-digital-world-5ge1)
-- [Mastering Small Talk Online: How Walles.AI Helps You Strike Up Engaging Conversations](https://dev.to/geekyqee/mastering-small-talk-online-how-wallesai-helps-you-strike-up-engaging-conversations-4aom)
 <!-- BLOG-POST-LIST:END -->
 
 ---
