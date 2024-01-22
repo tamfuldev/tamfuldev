@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [🗺️ The React Roadmap for 2024](https://dev.to/codebootcamp/the-react-roadmap-for-2024-1g24)
 - [Use the Azure AI Vision multi-modal embeddings API for image retrieval](https://dev.to/sfoteini/use-the-azure-ai-vision-multi-modal-embeddings-api-for-image-retrieval-3p11)
 - [A Comprehensive Guide to Using SQLite with Node.js](https://dev.to/simonmackie/a-comprehensive-guide-to-using-sqlite-with-nodejs-549i)
 - [Top 10 Front-End Tools Of 2024 - Part 1](https://dev.to/codingcss/top-10-front-end-tools-of-2024-part-1-10f3)
 - [Solving the Reserved Instance Resale Ban With K8s Automation](https://dev.to/cast_ai/solving-the-reserved-instance-resale-ban-with-k8s-automation-agi)
-- [What Is User Acceptance Testing &lpar;UAT&rpar;: With Best Practices](https://dev.to/amritaangappa01/what-is-user-acceptance-testing-uat-with-best-practices-pg0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
