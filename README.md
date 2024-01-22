@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Small Talk Online: How Walles.AI Helps You Strike Up Engaging Conversations](https://dev.to/geekyqee/mastering-small-talk-online-how-wallesai-helps-you-strike-up-engaging-conversations-4aom)
+- [Walles.AI&#39;s Heatwave: Igniting Professional Articles, Sizzling PDF Chats, and More!](https://dev.to/geekyqee/wallesais-heatwave-igniting-professional-articles-sizzling-pdf-chats-and-more-4occ)
 - [Walles.AI for Business: How Can Leverage the Chrome Extension for Improved Communication](https://dev.to/geekyqee/wallesai-for-business-how-can-leverage-the-chrome-extension-for-improved-communication-ca6)
 - [Ethical Considerations with ChatGPT: Addressing Bias and Controversies](https://dev.to/geekyqee/ethical-considerations-with-chatgpt-addressing-bias-and-controversies-804)
 - [tsParticles 3.1.0 Released](https://dev.to/tsparticles/tsparticles-310-released-38m2)
-- [Weekly Roundup 036 &lpar;Jan 15&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-036-jan-15-hot-topics-in-workplace-sharepoint-and-powerplatform-4mm7)
-- [Easy Guide to Integrating Kafka: Practical Solutions for Managing Blob Data](https://dev.to/reductstore/easy-guide-to-integrating-kafka-practical-solutions-for-managing-blob-data-3400)
 <!-- BLOG-POST-LIST:END -->
 
 ---
