@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Writing Style Guide for Technical Articles](https://dev.to/surajondev/writing-style-guide-for-technical-articles-6e)
 - [🚀 API Maker : Release Notes for v1.1.0](https://dev.to/apimaker/api-maker-release-notes-for-v110-250m)
+- [Building Server-Side Rendering &lpar;SSR&rpar; Applications with Deno and JSX](https://dev.to/franciscomendes10866/building-server-side-rendering-ssr-applications-with-deno-and-jsx-bk4)
 - [Do you need to code a portfolio in this digital world? 🚀](https://dev.to/anmolbaranwal/do-you-need-to-code-a-portfolio-in-this-digital-world-5ge1)
 - [Mastering Small Talk Online: How Walles.AI Helps You Strike Up Engaging Conversations](https://dev.to/geekyqee/mastering-small-talk-online-how-wallesai-helps-you-strike-up-engaging-conversations-4aom)
-- [Walles.AI&#39;s Heatwave: Igniting Professional Articles, Sizzling PDF Chats, and More!](https://dev.to/geekyqee/wallesais-heatwave-igniting-professional-articles-sizzling-pdf-chats-and-more-4occ)
-- [Walles.AI for Business: How Can Leverage the Chrome Extension for Improved Communication](https://dev.to/geekyqee/wallesai-for-business-how-can-leverage-the-chrome-extension-for-improved-communication-ca6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
