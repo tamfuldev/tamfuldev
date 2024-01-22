@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [12 Resources To Crush Any Technical Interview 🔥⚡](https://dev.to/arjuncodess/12-resources-to-crush-any-technical-interview-30fe)
-- [Seeking Insights on Serverless Application Development](https://dev.to/iamspathan/seeking-insights-on-serverless-application-development-40ec)
-- [18 JavaScript Tips : You Should Know for Clean and Efficient Code](https://dev.to/devshefali/18-javascript-tips-you-should-know-for-clean-and-efficient-code-1bk3)
-- [Essential steps to consider before Deploying your Website - A Comprehensive Guide](https://dev.to/prathameshhw/essential-steps-to-consider-before-deploying-your-website-a-comprehensive-guide-440k)
-- [A Linux distro recommendation framework and my picks for 2024](https://dev.to/unsungnovelty/a-linux-distro-recommendation-framework-and-my-picks-for-2024-45ob)
+- [Walles.AI for Business: How Can Leverage the Chrome Extension for Improved Communication](https://dev.to/geekyqee/wallesai-for-business-how-can-leverage-the-chrome-extension-for-improved-communication-ca6)
+- [Ethical Considerations with ChatGPT: Addressing Bias and Controversies](https://dev.to/geekyqee/ethical-considerations-with-chatgpt-addressing-bias-and-controversies-804)
+- [tsParticles 3.1.0 Released](https://dev.to/tsparticles/tsparticles-310-released-38m2)
+- [Weekly Roundup 036 &lpar;Jan 15&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-036-jan-15-hot-topics-in-workplace-sharepoint-and-powerplatform-4mm7)
+- [Easy Guide to Integrating Kafka: Practical Solutions for Managing Blob Data](https://dev.to/reductstore/easy-guide-to-integrating-kafka-practical-solutions-for-managing-blob-data-3400)
 <!-- BLOG-POST-LIST:END -->
 
 ---
