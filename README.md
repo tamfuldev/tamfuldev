@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [What Is User Acceptance Testing &lpar;UAT&rpar;: With Best Practices](https://dev.to/amritaangappa01/what-is-user-acceptance-testing-uat-with-best-practices-pg0)
+- [What you don&#39;t know about sass 🤯](https://dev.to/saifmohamedsv/what-you-dont-know-about-sass-1hll)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-11k3)
 - [🔥 FAST &amp; FURIOUS WEBSITE 2024 🔥Tips &amp; Links for performance optimization](https://dev.to/serverspace/fast-furious-website-2024-tips-links-for-performance-optimization-3lcd)
 - [Any tool available to export all slack threads from channels and create a wiki kind of website?](https://dev.to/nikl/any-tool-available-to-export-all-slack-threads-from-channels-and-create-a-wiki-kind-of-website-53li)
-- [How to Create a DEX: Important Steps and Considerations](https://dev.to/rocknblock/how-to-create-a-dex-important-steps-and-considerations-3hja)
-- [FLaNK Stack Weekly 22 January 2024](https://dev.to/tspannhw/flank-stack-weekly-22-january-2024-4i93)
 <!-- BLOG-POST-LIST:END -->
 
 ---
