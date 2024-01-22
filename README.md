@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-11k3)
+- [🔥 FAST &amp; FURIOUS WEBSITE 2024 🔥Tips &amp; Links for performance optimization](https://dev.to/serverspace/fast-furious-website-2024-tips-links-for-performance-optimization-3lcd)
+- [Any tool available to export all slack threads from channels and create a wiki kind of website?](https://dev.to/nikl/any-tool-available-to-export-all-slack-threads-from-channels-and-create-a-wiki-kind-of-website-53li)
 - [How to Create a DEX: Important Steps and Considerations](https://dev.to/rocknblock/how-to-create-a-dex-important-steps-and-considerations-3hja)
 - [FLaNK Stack Weekly 22 January 2024](https://dev.to/tspannhw/flank-stack-weekly-22-january-2024-4i93)
-- [5 traits to go from Junior to Senior Software Engineer](https://dev.to/jenesh/5-traits-to-go-from-junior-to-senior-software-engineer-11ol)
-- [How Karate Kid teach me coding.](https://dev.to/ismaelguerrib/how-karate-kid-teach-me-coding-5c5f)
-- [What is Incremental Testing in Software Testing](https://dev.to/amritaangappa01/what-is-incremental-testing-in-software-testing-22lm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
