@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [The Art of Image Processing: Mastering the Ultimate Techniques for Image Element Segmentation](https://dev.to/happyer/the-art-of-image-processing-mastering-the-ultimate-techniques-for-image-element-segmentation-id1)
+- [Uploading file in chunks from React to Node-Express](https://dev.to/vvkkumar06/uploading-file-in-chunks-from-react-to-node-express-3plf)
+- [Six Costly Findings in AWS Serverless Computing](https://dev.to/miguelacallesmba/seven-costly-findings-in-aws-serverless-computing-46h7)
 - [Unlocking the Power of HTML&#39;s Native Browser Dialog Element](https://dev.to/opensauced/the-native-browser-dialog-element-1nhn)
 - [Building gdocweb with Java 21, Spring Boot 3.x and Beyond](https://dev.to/codenameone/building-gdocweb-with-java-21-spring-boot-3x-and-beyond-276k)
-- [typeof in C23](https://dev.to/pauljlucas/typeof-in-c23-55p2)
-- [Houston, we&#39;ve got code quality problem here](https://dev.to/oopas/houston-weve-got-code-quality-problem-here-501j)
-- [Metaprogramming - how to be lazy and reach high levels of productivity](https://dev.to/mahezer/metaprogramming-how-to-be-lazy-and-reach-high-levels-of-productivity-1lhf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
