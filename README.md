@@ -8,7 +8,7 @@
 - [S3 Lifecycle Rules and S3 Analytics](https://dev.to/farrukhkhalid/s3-lifecycle-rules-with-s3-analytics-3o3b)
 - [How Crucial Code Are Reviews?](https://dev.to/devteam/how-crucial-code-are-reviews-43nk)
 - [Embarking on a Flutter CustomPaint adventure: Part 1; Unveiling the Canvas with Custom Paint Basics 🎨](https://dev.to/gabbygreat/embarking-on-a-flutter-custompaint-adventure-part-1-unveiling-the-canvas-with-custom-paint-basics-356b)
-- [DynamoDB Data Modeling: An Effective way to start...](https://dev.to/aws-builders/dynamodb-data-modeling-an-effective-way-to-start-22e9)
+- [React-Router-Dom as told by a noob :&rpar;](https://dev.to/hroney/react-router-dom-as-told-by-a-noob--4bng)
 <!-- BLOG-POST-LIST:END -->
 
 ---
