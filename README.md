@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Enhancing Python GUIs with Augmented Markdown](https://dev.to/taipy/enhancing-python-guis-with-augmented-markdown-477g)
+- [How To Add Controllers To A Blazor Server App](https://dev.to/this-is-learning/how-to-add-controllers-to-a-blazor-server-app-a9)
+- [Can Someone Recommend a SharePoint Professional?](https://dev.to/jaloplo/can-someone-recommend-a-sharepoint-professional-4onh)
 - [Securing Docker Images: A Comprehensive Guide to Integrating Docker Scout in GitHub Workflow](https://dev.to/pradumnasaraf/securing-docker-images-a-comprehensive-guide-to-integrating-docker-scout-in-github-workflow-2nbk)
 - [Best Practices for Optimizing Performance in Cloud Application Environments](https://dev.to/hyscaler/best-practices-for-optimizing-performance-in-cloud-application-environments-34fc)
-- [Accessibility](https://dev.to/haribhandari/accessibility-3no4)
-- [React: Build your own composable, headless components](https://dev.to/haribhandari/react-build-your-own-composable-headless-components-170b)
-- [Graph Databases: A Comprehensive Overview and Guide. Part1](https://dev.to/0x113/graph-databases-a-comprehensive-overview-and-guide-part1-4mfa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
