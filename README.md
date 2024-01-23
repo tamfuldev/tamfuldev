@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [All the metatags you might need for SEO in one React component.](https://dev.to/seven/all-the-metatags-you-might-need-for-seo-in-one-react-component-146c)
+- [New client-side hooks coming to React 19](https://dev.to/fzaninotto/new-client-side-hooks-coming-to-react-19-5098)
+- [Enhancing the Security of Your Node.js Applications: A Comprehensive Guide](https://dev.to/gkhan205/enhancing-the-security-of-your-nodejs-applications-a-comprehensive-guide-1emf)
 - [3 Principles for Component-Driven Development](https://dev.to/bitdev_/3-principles-for-component-driven-development-13hc)
 - [A Summary of My Activities in the 5 Years Since Discovering AWS Amplify](https://dev.to/aws-heroes/a-summary-of-my-activities-in-the-5-years-since-discovering-aws-amplify-2be5)
-- [The Power of Leaving Your Comfort Zone](https://dev.to/wlepczynski/the-power-of-leaving-your-comfort-zone-2e06)
-- [Real-World Use Cases: Success Stories of Companies Implementing Walles.AI](https://dev.to/geekyqee/real-world-use-cases-success-stories-of-companies-implementing-wallesai-1fb1)
-- [Innovations in AI: Walles.AI&#39;s Approach to Enhancing Online Communication](https://dev.to/geekyqee/innovations-in-ai-wallesais-approach-to-enhancing-online-communication-36id)
 <!-- BLOG-POST-LIST:END -->
 
 ---
