@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Props: Comunicação entre Componentes Pai e Filho no React](https://dev.to/rayzaoliveira/props-comunicacao-entre-componentes-pai-e-filho-no-react-58eh)
+- [DORA Metrics: What are they, and what&#39;s new in 2024?](https://dev.to/jreock/dora-metrics-what-are-they-and-whats-new-in-2023-4l50)
 - [To Adopt or Not to Adopt? Assessing New Tech in a Quickly Moving Field](https://dev.to/kathryngrayson/to-adopt-or-not-to-adopt-assessing-new-tech-in-a-quickly-moving-field-33j9)
-- [Exploring Redux Toolkit 2.0 and the Redux second generation](https://dev.to/logrocket/exploring-redux-toolkit-20-and-the-redux-second-generation-59cj)
-- [SOLID para desenvolvedores iniciantes.](https://dev.to/klleriston/solid-para-desenvolvedores-iniciantes-3m04)
-- [Deploy Next.js to Contabo VPS](https://dev.to/igorfilippov3/deploy-nextjs-to-contabo-vps-56f7)
-- [Top Material Design 3 web frameworks of 2024](https://dev.to/leonardorafael/best-material-design-3-web-frameworks-of-2024-3k45)
+- [How Lambda starts containers 15x faster &lpar;deep dive&rpar;](https://dev.to/aws-heroes/how-lambda-starts-containers-15x-faster-deep-dive-5077)
+- [[HELP] Best practices for pagination using EF Core 8](https://dev.to/atmosphere/best-practise-for-pagination-using-ef-core-8-2hed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
