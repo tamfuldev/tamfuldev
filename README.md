@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [What is JSDoc and why you may not need typescript for your next project?](https://dev.to/cherryramatis/what-is-jsdoc-and-why-you-may-not-need-typescript-for-your-next-project-54n1)
+- [S3 Lifecycle Rules and S3 Analytics](https://dev.to/farrukhkhalid/s3-lifecycle-rules-with-s3-analytics-3o3b)
 - [How Crucial Code Are Reviews?](https://dev.to/devteam/how-crucial-code-are-reviews-43nk)
 - [Embarking on a Flutter CustomPaint adventure: Part 1; Unveiling the Canvas with Custom Paint Basics 🎨](https://dev.to/gabbygreat/embarking-on-a-flutter-custompaint-adventure-part-1-unveiling-the-canvas-with-custom-paint-basics-356b)
 - [DynamoDB Data Modeling: An Effective way to start...](https://dev.to/aws-builders/dynamodb-data-modeling-an-effective-way-to-start-22e9)
-- [Mastering the DevOps Interview: A Guide for Junior Candidates](https://dev.to/kubeden/mastering-the-devops-interview-a-guide-for-junior-candidates-fe0)
-- [Mastering SQL Aggregate Functions: SUM, MAX, MIN, AVG](https://dev.to/nathalia_friederichs/mastering-sql-aggregate-functions-sum-max-min-avg-3ga)
 <!-- BLOG-POST-LIST:END -->
 
 ---
