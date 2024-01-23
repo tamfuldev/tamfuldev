@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Houston, we&#39;ve got code quality problem here](https://dev.to/oopas/houston-weve-got-code-quality-problem-here-501j)
+- [Metaprogramming - how to be lazy and reach high levels of productivity](https://dev.to/mahezer/metaprogramming-how-to-be-lazy-and-reach-high-levels-of-productivity-1lhf)
+- [😎 9 Top Trending Open Source Projects to Watch for in 2024](https://dev.to/winglang/9-top-trending-open-source-projects-to-watch-for-in-2024-emb)
 - [Rust Data Types](https://dev.to/francescoxx/rust-data-types-1mlg)
 - [📝 Writing a professional resume: Ultimate guide](https://dev.to/mainarthur/writing-a-professional-resume-ultimate-guide-kj8)
-- [Navigating the Future: The Crucial Role of Cloud Computing in DevOps](https://dev.to/sushantjadhav416/navigating-the-future-the-crucial-role-of-cloud-computing-in-devops-ce5)
-- [Best free, open-source SaaS starters for React &amp; NextJS 2024](https://dev.to/vincanger/best-free-open-source-saas-starters-for-react-nextjs-2024-4nbn)
-- [SEO 101: A Fun and Easy Guide to Crushing It in Digital Marketing](https://dev.to/cygnis-media/seo-101-a-fun-and-easy-guide-to-crushing-it-in-digital-marketing-167a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
