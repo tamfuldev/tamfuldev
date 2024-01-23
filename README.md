@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What is JSDoc and why you may not need typescript for your next project?](https://dev.to/cherryramatis/what-is-jsdoc-and-why-you-may-not-need-typescript-for-your-next-project-54n1)
-- [S3 Lifecycle Rules and S3 Analytics](https://dev.to/farrukhkhalid/s3-lifecycle-rules-with-s3-analytics-3o3b)
-- [How Crucial Code Are Reviews?](https://dev.to/devteam/how-crucial-code-are-reviews-43nk)
-- [Embarking on a Flutter CustomPaint adventure: Part 1; Unveiling the Canvas with Custom Paint Basics 🎨](https://dev.to/gabbygreat/embarking-on-a-flutter-custompaint-adventure-part-1-unveiling-the-canvas-with-custom-paint-basics-356b)
-- [React-Router-Dom as told by a noob :&rpar;](https://dev.to/hroney/react-router-dom-as-told-by-a-noob--4bng)
+- [Securing Docker Images: A Comprehensive Guide to Integrating Docker Scout in GitHub Workflow](https://dev.to/pradumnasaraf/securing-docker-images-a-comprehensive-guide-to-integrating-docker-scout-in-github-workflow-2nbk)
+- [Best Practices for Optimizing Performance in Cloud Application Environments](https://dev.to/hyscaler/best-practices-for-optimizing-performance-in-cloud-application-environments-34fc)
+- [Accessibility](https://dev.to/haribhandari/accessibility-3no4)
+- [React: Build your own composable, headless components](https://dev.to/haribhandari/react-build-your-own-composable-headless-components-170b)
+- [Graph Databases: A Comprehensive Overview and Guide. Part1](https://dev.to/0x113/graph-databases-a-comprehensive-overview-and-guide-part1-4mfa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
