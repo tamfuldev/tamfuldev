@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [All the metatags you might need for SEO in one React component.](https://dev.to/seven/all-the-metatags-you-might-need-for-seo-in-one-react-component-146c)
-- [New client-side hooks coming to React 19](https://dev.to/fzaninotto/new-client-side-hooks-coming-to-react-19-5098)
-- [Enhancing the Security of Your Node.js Applications: A Comprehensive Guide](https://dev.to/gkhan205/enhancing-the-security-of-your-nodejs-applications-a-comprehensive-guide-1emf)
-- [3 Principles for Component-Driven Development](https://dev.to/bitdev_/3-principles-for-component-driven-development-13hc)
-- [A Summary of My Activities in the 5 Years Since Discovering AWS Amplify](https://dev.to/aws-heroes/a-summary-of-my-activities-in-the-5-years-since-discovering-aws-amplify-2be5)
+- [Rust Data Types](https://dev.to/francescoxx/rust-data-types-1mlg)
+- [📝 Writing a professional resume: Ultimate guide](https://dev.to/mainarthur/writing-a-professional-resume-ultimate-guide-kj8)
+- [Navigating the Future: The Crucial Role of Cloud Computing in DevOps](https://dev.to/sushantjadhav416/navigating-the-future-the-crucial-role-of-cloud-computing-in-devops-ce5)
+- [Best free, open-source SaaS starters for React &amp; NextJS 2024](https://dev.to/vincanger/best-free-open-source-saas-starters-for-react-nextjs-2024-4nbn)
+- [SEO 101: A Fun and Easy Guide to Crushing It in Digital Marketing](https://dev.to/cygnis-media/seo-101-a-fun-and-easy-guide-to-crushing-it-in-digital-marketing-167a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
