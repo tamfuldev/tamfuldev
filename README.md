@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How Crucial Code Are Reviews?](https://dev.to/devteam/how-crucial-code-are-reviews-43nk)
+- [Embarking on a Flutter CustomPaint adventure: Part 1; Unveiling the Canvas with Custom Paint Basics 🎨](https://dev.to/gabbygreat/embarking-on-a-flutter-custompaint-adventure-part-1-unveiling-the-canvas-with-custom-paint-basics-356b)
+- [DynamoDB Data Modeling: An Effective way to start...](https://dev.to/aws-builders/dynamodb-data-modeling-an-effective-way-to-start-22e9)
 - [Mastering the DevOps Interview: A Guide for Junior Candidates](https://dev.to/kubeden/mastering-the-devops-interview-a-guide-for-junior-candidates-fe0)
-- [Beginning the Journey into ML, AI and GenAI on AWS](https://dev.to/aws-builders/beginning-the-journey-into-ml-ai-and-genai-on-aws-1hdc)
-- [Understanding JavaScript Scope: Global and Local](https://dev.to/mgbejxi/understanding-javascript-scope-global-and-local-2jp0)
-- [Playing devil&#39;s advocate with Terraform](https://dev.to/livioribeiro/playing-devils-advocate-with-terraform-92n)
-- [🗞 Rapyd Developer Newsletter: January 2024](https://dev.to/rapyd/rapyd-developer-newsletter-january-2024-1214)
+- [Mastering SQL Aggregate Functions: SUM, MAX, MIN, AVG](https://dev.to/nathalia_friederichs/mastering-sql-aggregate-functions-sum-max-min-avg-3ga)
 <!-- BLOG-POST-LIST:END -->
 
 ---
