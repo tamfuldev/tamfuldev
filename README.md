@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Demystifying React Memoization: Understanding React.memo&lpar;&rpar; and the useMemo hook](https://dev.to/nwhitmont/demystifying-react-memoization-understanding-reactmemo-and-the-usememo-hook-5de4)
+- [API completa em Golang - Parte 6](https://dev.to/wiliamvj/api-completa-em-golang-parte-6-22e9)
 - [Props: Comunicação entre Componentes Pai e Filho no React](https://dev.to/rayzaoliveira/props-comunicacao-entre-componentes-pai-e-filho-no-react-58eh)
 - [DORA Metrics: What are they, and what&#39;s new in 2024?](https://dev.to/jreock/dora-metrics-what-are-they-and-whats-new-in-2023-4l50)
 - [To Adopt or Not to Adopt? Assessing New Tech in a Quickly Moving Field](https://dev.to/kathryngrayson/to-adopt-or-not-to-adopt-assessing-new-tech-in-a-quickly-moving-field-33j9)
-- [How Lambda starts containers 15x faster &lpar;deep dive&rpar;](https://dev.to/aws-heroes/how-lambda-starts-containers-15x-faster-deep-dive-5077)
-- [[HELP] Best practices for pagination using EF Core 8](https://dev.to/atmosphere/best-practise-for-pagination-using-ef-core-8-2hed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
