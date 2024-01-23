@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [3 Principles for Component-Driven Development](https://dev.to/bitdev_/3-principles-for-component-driven-development-13hc)
+- [A Summary of My Activities in the 5 Years Since Discovering AWS Amplify](https://dev.to/aws-heroes/a-summary-of-my-activities-in-the-5-years-since-discovering-aws-amplify-2be5)
+- [The Power of Leaving Your Comfort Zone](https://dev.to/wlepczynski/the-power-of-leaving-your-comfort-zone-2e06)
 - [Real-World Use Cases: Success Stories of Companies Implementing Walles.AI](https://dev.to/geekyqee/real-world-use-cases-success-stories-of-companies-implementing-wallesai-1fb1)
 - [Innovations in AI: Walles.AI&#39;s Approach to Enhancing Online Communication](https://dev.to/geekyqee/innovations-in-ai-wallesais-approach-to-enhancing-online-communication-36id)
-- [Delving into the Depths of React.js Ecosystem: Next.js 14 and Emerging Open Source Projects](https://dev.to/ricardogesteves/delving-into-the-depths-of-reactjs-ecosystem-nextjs-14-and-emerging-open-source-projects-4jga)
-- [10 Web Dev Tips to Stay on the Wave in 2024](https://dev.to/nikpoltoratsky/10-web-dev-tips-to-stay-on-the-wave-in-2024-45la)
-- [Don&#39;t sleep on native lazy loading iframes - now available in a browser near you](https://dev.to/robole/dont-sleep-on-native-lazy-loading-iframes-now-available-in-a-browser-near-you-k0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
