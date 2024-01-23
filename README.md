@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking the Power of HTML&#39;s Native Browser Dialog Element](https://dev.to/opensauced/the-native-browser-dialog-element-1nhn)
+- [Building gdocweb with Java 21, Spring Boot 3.x and Beyond](https://dev.to/codenameone/building-gdocweb-with-java-21-spring-boot-3x-and-beyond-276k)
+- [typeof in C23](https://dev.to/pauljlucas/typeof-in-c23-55p2)
 - [Houston, we&#39;ve got code quality problem here](https://dev.to/oopas/houston-weve-got-code-quality-problem-here-501j)
 - [Metaprogramming - how to be lazy and reach high levels of productivity](https://dev.to/mahezer/metaprogramming-how-to-be-lazy-and-reach-high-levels-of-productivity-1lhf)
-- [😎 9 Top Trending Open Source Projects to Watch for in 2024](https://dev.to/winglang/9-top-trending-open-source-projects-to-watch-for-in-2024-emb)
-- [Rust Data Types](https://dev.to/francescoxx/rust-data-types-1mlg)
-- [📝 Writing a professional resume: Ultimate guide](https://dev.to/mainarthur/writing-a-professional-resume-ultimate-guide-kj8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
