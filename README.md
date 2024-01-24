@@ -6,9 +6,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [18 GitHub Repositories You Need to Star Right Now! 🌟🔥](https://dev.to/arjuncodess/18-github-repositories-you-need-to-star-right-now-m0d)
 - [Implementing WebView With Jetpack Compose](https://dev.to/ethand91/implementing-webview-with-jetpack-compose-7mi)
+- [Does Your Company Prioritize Tech Learning?](https://dev.to/devteam/does-your-company-prioritize-tech-learning-21k2)
 - [Welcome Thread - v260](https://dev.to/devteam/welcome-thread-v260-aca)
 - [Generate knowledge with Semantic Graphs and RAG](https://dev.to/neuml/generate-knowledge-with-semantic-graphs-and-rag-525m)
-- [Call APIs from Step Functions using SAM](https://dev.to/aws-builders/call-apis-from-step-functions-using-sam-143l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
