@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Desplegar imagen docker usando AWS CodeBuild.](https://dev.to/kcatucuamba/desplegar-imagen-docker-usando-aws-codebuild-2jgh)
 - [28 Years Strong: Java&#39;s Journey](https://dev.to/shanu-kumawat/28-years-strong-javas-journey-41e7)
 - [How to see Who-Is-Online at your page with JavaScript](https://dev.to/superviz/how-to-see-who-is-online-at-your-page-with-javascript-9mj)
 - [Introduction to Jsonnet: The YAML/JSON templating language](https://dev.to/kubeden/introduction-to-jsonnet-the-yamljson-templating-language-n5g)
-- [Cloud, why so difficult? 🤷‍♀️](https://dev.to/winglang/cloud-why-so-difficult-3j33)
-- [Part 2: Introduction to HTML](https://dev.to/delia_code/part-2-introduction-to-html-3c19)
+- [Bootstrapping AWS CDK Automation With Amazon CodeCatalyst](https://dev.to/aws-builders/bootstrapping-aws-cdk-automation-with-amazon-codecatalyst-4pa8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
