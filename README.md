@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [AWS CDK For Noobs: Deploying NextJS Apps](https://dev.to/aws-builders/aws-cdk-for-noobs-deploying-nextjs-apps-4oii)
+- [🗃️ Building a Pocket Database with Telegra.ph — create your database in just a single function! 😱](https://dev.to/creuserr/building-a-pocket-database-with-telegraph-1pop)
 - [How to dualboot Hyprland with Gnome Desktops on Linux](https://dev.to/renhiyama/how-to-dualboot-hyprland-with-gnome-desktops-on-linux-1pa4)
 - [Exploring the Charm of Ghent: A Journey Through Picturesque Delights](https://dev.to/anuradhakumari/exploring-the-charm-of-ghent-a-journey-through-picturesque-delights-mi4)
-- [How Much Is One Terabyte of Data?](https://dev.to/esproc_spl/how-much-is-one-terabyte-of-data-4h85)
-- [The Programmer&#39;s Brain: How it works and how to make it work](https://dev.to/buzzpy/the-programmers-brain-how-it-works-and-how-to-make-it-work-glo)
-- [Keeping ServiceNow Updated with Automated AWS Discovery](https://dev.to/aws-builders/keeping-servicenow-updated-with-automated-aws-discovery-3p08)
+- [Securing the Frontend: Navigating the Maze of Authentication Techniques](https://dev.to/codeparrot/securing-the-frontend-navigating-the-maze-of-authentication-techniques-4ko1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
