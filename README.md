@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [UX is becoming less important in the age of AI?](https://dev.to/mrgoonie/ux-is-becoming-less-important-in-the-age-of-ai-41n)
+- [Building A Heart Disease Prediction Model Using Machine Learning](https://dev.to/oluseyej/building-a-heart-disease-prediction-model-using-machine-learning-5fd8)
+- [Shielding Your Apps in the Cloud: Integrating CloudFront and AWS WAF with Terraform](https://dev.to/lpossamai/shielding-your-apps-in-the-cloud-integrating-cloudfront-and-aws-waf-with-terraform-4c3c)
 - [18 GitHub Repositories You Need to Star Right Now! 🌟🔥](https://dev.to/arjuncodess/18-github-repositories-you-need-to-star-right-now-m0d)
-- [Implementing WebView With Jetpack Compose](https://dev.to/ethand91/implementing-webview-with-jetpack-compose-7mi)
-- [Does Your Company Prioritize Tech Learning?](https://dev.to/devteam/does-your-company-prioritize-tech-learning-21k2)
-- [Welcome Thread - v260](https://dev.to/devteam/welcome-thread-v260-aca)
-- [Generate knowledge with Semantic Graphs and RAG](https://dev.to/neuml/generate-knowledge-with-semantic-graphs-and-rag-525m)
+- [Finally, Golang from Python &lpar;Pogo Pt:8&rpar;](https://dev.to/chigbeef_77/finally-golang-from-python-pogo-pt8-20pm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
