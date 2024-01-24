@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My portfolio website](https://dev.to/sintayew4/my-portfolio-website-43l3)
-- [Cloud Deployment Anomalies that send us down rabbit holes](https://dev.to/rsiv/cloud-deployment-anomalies-that-send-us-down-rabbit-holes-16b8)
-- [Meteor is getting new docs!](https://dev.to/meteor/meteor-is-getting-new-docs-h6g)
-- [Why do I need a unit testing tool?](https://dev.to/keploy/why-do-i-need-a-unit-testing-tool-gb)
-- [Desplegar imagen docker usando AWS CodeBuild.](https://dev.to/kcatucuamba/desplegar-imagen-docker-usando-aws-codebuild-2jgh)
+- [Announcing AdonisJS v6](https://dev.to/adonisframework/announcing-adonisjs-v6-ac0)
+- [AdonisJS V6 is Out, and it&#39;s a Developer&#39;s Dream](https://dev.to/aarvinr/adonisjs-v6-is-out-and-its-a-developers-dream-1n7h)
+- [Transform your R Dataframes: Styles, 🎨 Colors, and 😎 Emojis](https://dev.to/r0mymendez/transform-your-r-dataframes-styles-colors-and-emojis-bd5)
+- [Open-Source Framework that understands Your Application Infrastructure Needs](https://dev.to/rsiv/open-source-framework-that-understands-your-application-infrastructure-needs-1kjj)
+- [Creating your first S3 bucket in AWS](https://dev.to/gathungu/creating-your-first-s3-bucket-in-aws-4c00)
 <!-- BLOG-POST-LIST:END -->
 
 ---
