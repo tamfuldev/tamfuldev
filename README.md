@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [18 GitHub Repositories You Need to Star Right Now! 🌟🔥](https://dev.to/arjuncodess/18-github-repositories-you-need-to-star-right-now-m0d)
+- [Implementing WebView With Jetpack Compose](https://dev.to/ethand91/implementing-webview-with-jetpack-compose-7mi)
 - [Welcome Thread - v260](https://dev.to/devteam/welcome-thread-v260-aca)
 - [Generate knowledge with Semantic Graphs and RAG](https://dev.to/neuml/generate-knowledge-with-semantic-graphs-and-rag-525m)
-- [Demystifying React Memoization: Understanding React.memo&lpar;&rpar; and the useMemo hook](https://dev.to/nwhitmont/demystifying-react-memoization-understanding-reactmemo-and-the-usememo-hook-5de4)
-- [API completa em Golang - Parte 6](https://dev.to/wiliamvj/api-completa-em-golang-parte-6-22e9)
-- [How to handle CORS issues when deploying a nodeJS express app on vercel??](https://dev.to/kartikeykjjaiswal/how-to-handle-cors-issues-when-deploying-a-nodejs-express-app-on-vercel-10kh)
+- [Call APIs from Step Functions using SAM](https://dev.to/aws-builders/call-apis-from-step-functions-using-sam-143l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
