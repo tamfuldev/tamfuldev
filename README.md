@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Aren’t we all self-taught!?](https://dev.to/citycoderus/arent-we-all-self-taught-jh)
-- [Open Source Project Ideas](https://dev.to/adiatiayu/open-source-project-ideas-4n3b)
-- [Navigating CSE Success: Learning, Contributing, Balancing Priorities](https://dev.to/jps27cse/navigating-cse-success-learning-contributing-balancing-priorities-pf3)
-- [NextJS examples: 60 popular websites built with NextJS and headless CMS](https://dev.to/momciloo/nextjs-examples-60-popular-websites-built-with-nextjs-and-headless-cms-co5)
-- [🤯 How to Build the 𝘃𝟬.𝗱𝗲𝘃 𝗼𝗳 𝗿𝗲𝘀𝘂𝗺𝗲𝘀 with Next.js &amp; OpenAI 🪄✨](https://dev.to/copilotkit/how-to-build-the-with-nextjs-openai-1mhb)
+- [28 Years Strong: Java&#39;s Journey](https://dev.to/shanu-kumawat/28-years-strong-javas-journey-41e7)
+- [How to see Who-Is-Online at your page with JavaScript](https://dev.to/superviz/how-to-see-who-is-online-at-your-page-with-javascript-9mj)
+- [Introduction to Jsonnet: The YAML/JSON templating language](https://dev.to/kubeden/introduction-to-jsonnet-the-yamljson-templating-language-n5g)
+- [Cloud, why so difficult? 🤷‍♀️](https://dev.to/winglang/cloud-why-so-difficult-3j33)
+- [Part 2: Introduction to HTML](https://dev.to/delia_code/part-2-introduction-to-html-3c19)
 <!-- BLOG-POST-LIST:END -->
 
 ---
