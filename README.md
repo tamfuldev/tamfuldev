@@ -7,8 +7,8 @@
 - [My portfolio website](https://dev.to/sintayew4/my-portfolio-website-43l3)
 - [Cloud Deployment Anomalies that send us down rabbit holes](https://dev.to/rsiv/cloud-deployment-anomalies-that-send-us-down-rabbit-holes-16b8)
 - [Meteor is getting new docs!](https://dev.to/meteor/meteor-is-getting-new-docs-h6g)
+- [Why do I need a unit testing tool?](https://dev.to/keploy/why-do-i-need-a-unit-testing-tool-gb)
 - [Desplegar imagen docker usando AWS CodeBuild.](https://dev.to/kcatucuamba/desplegar-imagen-docker-usando-aws-codebuild-2jgh)
-- [28 Years Strong: Java&#39;s Journey](https://dev.to/shanu-kumawat/28-years-strong-javas-journey-41e7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
