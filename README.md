@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Aren’t we all self-taught!?](https://dev.to/citycoderus/arent-we-all-self-taught-jh)
 - [Open Source Project Ideas](https://dev.to/adiatiayu/open-source-project-ideas-4n3b)
 - [Navigating CSE Success: Learning, Contributing, Balancing Priorities](https://dev.to/jps27cse/navigating-cse-success-learning-contributing-balancing-priorities-pf3)
 - [NextJS examples: 60 popular websites built with NextJS and headless CMS](https://dev.to/momciloo/nextjs-examples-60-popular-websites-built-with-nextjs-and-headless-cms-co5)
 - [🤯 How to Build the 𝘃𝟬.𝗱𝗲𝘃 𝗼𝗳 𝗿𝗲𝘀𝘂𝗺𝗲𝘀 with Next.js &amp; OpenAI 🪄✨](https://dev.to/copilotkit/how-to-build-the-with-nextjs-openai-1mhb)
-- [Desbloqueando el crecimiento profesional: El poder de compartir conocimiento y participar en comunidades](https://dev.to/javascriptchile/desbloqueando-el-crecimiento-profesional-el-poder-de-compartir-conocimiento-y-participar-en-comunidades-1j9i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
