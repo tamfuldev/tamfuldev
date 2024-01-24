@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Implement private properties in a JavaScript class](https://dev.to/phuocng/implement-private-properties-in-a-javascript-class-3pp4)
-- [Tackling Clickbait on DEV: Strategy and Technical Approach](https://dev.to/devteam/tackling-clickbait-on-dev-strategy-and-technical-approach-3dh9)
-- [How to create a POST api With Mongo DB and Node JS](https://dev.to/rshrmcse/how-to-create-a-post-api-with-mongo-db-and-node-js-2473)
-- [How to Scale Fonts Responsively with CSS for Different Screen Sizes](https://dev.to/sikirumomodu/how-to-scale-fonts-responsively-with-css-for-different-screen-sizes-4p4c)
-- [Recursion in Javascript](https://dev.to/thehomelessdev/recursion-in-javascript-50nm)
+- [Open Source Project Ideas](https://dev.to/adiatiayu/open-source-project-ideas-4n3b)
+- [Navigating CSE Success: Learning, Contributing, Balancing Priorities](https://dev.to/jps27cse/navigating-cse-success-learning-contributing-balancing-priorities-pf3)
+- [NextJS examples: 60 popular websites built with NextJS and headless CMS](https://dev.to/momciloo/nextjs-examples-60-popular-websites-built-with-nextjs-and-headless-cms-co5)
+- [🤯 How to Build the 𝘃𝟬.𝗱𝗲𝘃 𝗼𝗳 𝗿𝗲𝘀𝘂𝗺𝗲𝘀 with Next.js &amp; OpenAI 🪄✨](https://dev.to/copilotkit/how-to-build-the-with-nextjs-openai-1mhb)
+- [Desbloqueando el crecimiento profesional: El poder de compartir conocimiento y participar en comunidades](https://dev.to/javascriptchile/desbloqueando-el-crecimiento-profesional-el-poder-de-compartir-conocimiento-y-participar-en-comunidades-1j9i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
