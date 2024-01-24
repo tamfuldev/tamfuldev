@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Redeemer | HackTheBox Write-up](https://dev.to/shiahalan/meow-hackthebox-write-up-46c5)
-- [Nightmare DX &lpar;Developer Experience&rpar;: HubSpot](https://dev.to/starbist/nightmare-dx-developer-experience-hubspot-5el8)
-- [Best Practices for Effective Software Testing in Agile Development](https://dev.to/talenttinaapi/best-practices-for-effective-software-testing-in-agile-development-i7n)
-- [Revisiting the HTML Problem Space and Introducing OOHTML](https://dev.to/oxharris/revisiting-the-html-problem-space-and-introducing-oohtml-3oh5)
-- [A Beginner’s Guide to JavaScript Fundamentals](https://dev.to/sikirumomodu/a-beginners-guide-to-javascript-fundamentals-2gmh)
+- [Implement private properties in a JavaScript class](https://dev.to/phuocng/implement-private-properties-in-a-javascript-class-3pp4)
+- [Tackling Clickbait on DEV: Strategy and Technical Approach](https://dev.to/devteam/tackling-clickbait-on-dev-strategy-and-technical-approach-3dh9)
+- [How to create a POST api With Mongo DB and Node JS](https://dev.to/rshrmcse/how-to-create-a-post-api-with-mongo-db-and-node-js-2473)
+- [How to Scale Fonts Responsively with CSS for Different Screen Sizes](https://dev.to/sikirumomodu/how-to-scale-fonts-responsively-with-css-for-different-screen-sizes-4p4c)
+- [Recursion in Javascript](https://dev.to/thehomelessdev/recursion-in-javascript-50nm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
