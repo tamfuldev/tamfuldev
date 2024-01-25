@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 Google Gemini Ultra Uses You Should Know](https://dev.to/dhruvjoshi9/top-10-gemini-ultra-uses-you-should-know-4l97)
+- [Advanced use of JavaScript toString&lpar;&rpar; and parseInt&lpar;&rpar;](https://dev.to/vvkkumar06/advanced-use-of-javascript-tostring-and-parseint-po6)
 - [What is the onion address system? How does it work?](https://dev.to/satya900/what-is-the-onion-address-system-how-does-it-work-4jl2)
 - [How to Build &amp; Deploy Scalable Microservices with NodeJS, TypeScript and Docker || A Comprehesive Guide](https://dev.to/abeinevincent/how-to-build-deploy-scalable-microservices-with-nodejs-typescript-and-docker-a-comprehesive-guide-2bcc)
 - [VfyJs Package](https://dev.to/m__mdy__m/vfyjs-package-2li0)
-- [How to Stream Video from Raspberry Pi Camera to Computer](https://dev.to/shilleh/how-to-stream-video-from-raspberry-pi-camera-to-computer-198n)
-- [10 VSCode Shortcuts That Will Make Your Life Easier As A Programmer](https://dev.to/arjuncodess/10-vscode-shortcuts-that-will-make-your-life-easier-as-a-programmer-3fl6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
