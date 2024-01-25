@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [#100DaysOfCode Redux + Week 1 Review](https://dev.to/devencourt/my-100daysofcode-challenge-redux-4k6j)
-- [A day in the life of a developer - Building a dashboard app with SQL, Node.js, Django and Next.js](https://dev.to/andrewbaisden/a-day-in-the-life-of-a-developer-building-a-dashboard-app-with-sql-nodejs-django-and-nextjs-5en7)
-- [Stoic Driven Development](https://dev.to/michi/stoic-driven-development-2iaf)
-- [Elixir clustering using Postgres](https://dev.to/supabase/elixir-clustering-using-postgres-3e86)
-- [Paracetamol.py💊| #35: Explica este código Python](https://dev.to/duxtech/paracetamolpy-35-explica-este-codigo-python-fen)
+- [Step-by-Step Guide to Setting Up Your First AWS EC2 Instance](https://dev.to/ankur0904/step-by-step-guide-to-setting-up-your-first-aws-ec2-instance-1ph5)
+- [Mastering JavaScript: Essential Concepts and Best Practices for Developers](https://dev.to/srinureddy/mastering-javascript-essential-concepts-and-best-practices-for-developers-545f)
+- [How To Be A Cowboy Coder](https://dev.to/sreno77/how-to-be-a-cowboy-coder-25ol)
+- [Jsonnet Adventures: Functions, Conditionals, and Advanced Templates](https://dev.to/kubeden/jsonnet-adventures-functions-conditionals-and-advanced-templates-4cd3)
+- [The Strong Frog Practice: Make DevSecOps Part of Cloud-Based Development](https://dev.to/loransha256/the-strong-frog-practice-make-devsecops-part-of-cloud-based-development-31ik)
 <!-- BLOG-POST-LIST:END -->
 
 ---
