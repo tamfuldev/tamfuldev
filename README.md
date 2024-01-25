@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Step-by-Step Guide to Setting Up Your First AWS EC2 Instance](https://dev.to/ankur0904/step-by-step-guide-to-setting-up-your-first-aws-ec2-instance-1ph5)
-- [Mastering JavaScript: Essential Concepts and Best Practices for Developers](https://dev.to/srinureddy/mastering-javascript-essential-concepts-and-best-practices-for-developers-545f)
-- [How To Be A Cowboy Coder](https://dev.to/sreno77/how-to-be-a-cowboy-coder-25ol)
-- [Jsonnet Adventures: Functions, Conditionals, and Advanced Templates](https://dev.to/kubeden/jsonnet-adventures-functions-conditionals-and-advanced-templates-4cd3)
-- [The Strong Frog Practice: Make DevSecOps Part of Cloud-Based Development](https://dev.to/loransha256/the-strong-frog-practice-make-devsecops-part-of-cloud-based-development-31ik)
+- [Engine - Yet Another Programming Language](https://dev.to/hady_eslam/engine-yet-another-programming-language-lbl)
+- [Build a Multivendor E-commerce Website using Django, React &amp; Django Rest Framework](https://dev.to/desphixs/build-a-multivendor-e-commerce-website-using-django-react-django-rest-framework-4115)
+- [5 Crazy Things To Get Your Developer Career Unstuck in 2024](https://dev.to/dragosnedelcu/5-crazy-things-to-get-your-developer-career-unstuck-mcp)
+- [XRPL Grants - New Expert Judges Join with a Focus on Financial Inclusion and Emerging Markets](https://dev.to/ripplexdev/xrpl-grants-new-expert-judges-join-with-a-focus-on-financial-inclusion-and-emerging-markets-k07)
+- [Documentation using Docusaurus](https://dev.to/dianaiminza/documentation-using-docusaurus-40g5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
