@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Wordle Clone with Lua! 🕹](https://dev.to/jd2r/building-a-wordle-clone-with-lua-2nh)
+- [How to Automatically Consume RESTful APIs in Your Frontend](https://dev.to/vorillaz/how-to-automatically-consume-restful-apis-in-your-frontend-48ba)
 - [Engine - Yet Another Programming Language](https://dev.to/hady_eslam/engine-yet-another-programming-language-lbl)
 - [Build a Multivendor E-commerce Website using Django, React &amp; Django Rest Framework](https://dev.to/desphixs/build-a-multivendor-e-commerce-website-using-django-react-django-rest-framework-4115)
 - [Three Human Problems in a Technical Trench Coat](https://dev.to/abbeyperini/three-human-problems-in-a-technical-trench-coat-90k)
-- [5 Crazy Things To Get Your Developer Career Unstuck in 2024](https://dev.to/dragosnedelcu/5-crazy-things-to-get-your-developer-career-unstuck-mcp)
-- [XRPL Grants - New Expert Judges Join with a Focus on Financial Inclusion and Emerging Markets](https://dev.to/ripplexdev/xrpl-grants-new-expert-judges-join-with-a-focus-on-financial-inclusion-and-emerging-markets-k07)
 <!-- BLOG-POST-LIST:END -->
 
 ---
