@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Sloan&#39;s Inbox: Any advice for overcoming a fear of public speaking?](https://dev.to/devteam/sloans-inbox-any-advice-for-overcoming-a-fear-of-public-speaking-1261)
+- [&quot;Web3 Odyssey: Adventures in the Era of Decentralization and Blockchain&quot;](https://dev.to/klimd1389/web3-odyssey-adventures-in-the-era-of-decentralization-and-blockchain-29mn)
+- [F&#39;*!# Passwords. Get Passkeys! Corbado is Now Live on Product Hunt 🚀](https://dev.to/corbado_tech/f-passwords-get-passkeys-corbado-is-now-live-on-product-hunt-2dm)
+- [Inlang / ParaglideJS blew my mind 🤯](https://dev.to/robertosnap/inlang-paraglidejs-blew-my-mind-3984)
 - [Keeping your fonts in embedded SVG](https://dev.to/nfrankel/keeping-your-fonts-in-embedded-svg-50ok)
-- [Recursion in JavaScriprt](https://dev.to/hriztam/recursion-in-javascriprt-2499)
-- [Top 10 Google Gemini Ultra Uses You Should Know](https://dev.to/dhruvjoshi9/top-10-gemini-ultra-uses-you-should-know-4l97)
-- [Advanced use of JavaScript toString&lpar;&rpar; and parseInt&lpar;&rpar;](https://dev.to/vvkkumar06/advanced-use-of-javascript-tostring-and-parseint-po6)
-- [What is the onion address system? How does it work?](https://dev.to/satya900/what-is-the-onion-address-system-how-does-it-work-4jl2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
