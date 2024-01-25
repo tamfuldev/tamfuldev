@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Comprehensive set of Flutter resources:](https://dev.to/pablonax/comprehensive-set-of-flutter-resources-17g0)
+- [Programming in the 21st Century - Object-Oriented vs. Functional](https://dev.to/aarvinr/programming-in-the-21st-century-object-oriented-vs-functional-12e4)
+- [A Step-by-Step Guide to Deploying a Machine Learning Model in a Docker Container](https://dev.to/cyber_holics/a-step-by-step-guide-to-deploying-a-machine-learning-model-in-a-docker-container-nkp)
+- [Art of Headless CMS: 🚀 Build a next-gen product 🤯 with 20+ resources 🎁](https://dev.to/anmolbaranwal/art-of-headless-cms-build-a-next-gen-product-with-20-resources-1bpp)
 - [Building a Wordle Clone with Lua! 🕹](https://dev.to/jd2r/building-a-wordle-clone-with-lua-2nh)
-- [How to Automatically Consume RESTful APIs in Your Frontend](https://dev.to/vorillaz/how-to-automatically-consume-restful-apis-in-your-frontend-48ba)
-- [Engine - Yet Another Programming Language](https://dev.to/hady_eslam/engine-yet-another-programming-language-lbl)
-- [Build a Multivendor E-commerce Website using Django, React &amp; Django Rest Framework](https://dev.to/desphixs/build-a-multivendor-e-commerce-website-using-django-react-django-rest-framework-4115)
-- [Three Human Problems in a Technical Trench Coat](https://dev.to/abbeyperini/three-human-problems-in-a-technical-trench-coat-90k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
