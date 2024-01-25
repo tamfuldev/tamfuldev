@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Deploy a WebAssembly-powered Next.js app on Vercel serverless functions](https://dev.to/mfts/deploy-a-webassembly-powered-nextjs-app-on-vercel-serverless-functions-20b0)
+- [Guide to Setting Up Prettier, Airbnb ESLint, and Husky for Your Next Project](https://dev.to/emmanuelo/guide-to-setting-up-prettier-airbnb-eslint-and-husky-for-your-next-project-17ge)
 - [Using the Logger Class in Python for Effective Logging](https://dev.to/luca1iu/using-the-logger-class-in-python-for-effective-logging-4ghc)
 - [The Need for Secure Cloud Development Environments](https://dev.to/loransha256/the-need-for-secure-cloud-development-environments-105g)
-- [Fail interview? 😭😕 Strategy for fix mistakes 📈](https://dev.to/corners2wall/fail-interview-strategy-for-fix-mistakes-2fag)
-- [How Sirius Technologies Reduces IT Costs by 46% With Secure Cloud Development Environments](https://dev.to/loransha256/how-sirius-technologies-reduces-it-costs-by-46-with-secure-cloud-development-environments-40c6)
-- [Secure Cloud Development: Ten Tenets for Enterprise Data Security](https://dev.to/loransha256/secure-cloud-development-ten-tenets-for-enterprise-data-security-4661)
+- [Git, Git &#39;heads&#39; and branch management](https://dev.to/sumisastri/git-git-heads-and-branch-management-2agh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
