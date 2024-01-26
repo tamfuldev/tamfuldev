@@ -16,7 +16,7 @@
 # Latest stack oveflow activity
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><tr><td>AWS Elastic Beanstalk - PHP session</td><td>https://stackoverflow.com/questions/77888230/aws-elastic-beanstalk-php-session</td></tr><tr><td>Filedata in upload script not storing data in DB</td><td>https://stackoverflow.com/questions/77888171/filedata-in-upload-script-not-storing-data-in-db</td></tr><tr><td>multi agent live chat crm</td><td>https://stackoverflow.com/questions/77888099/multi-agent-live-chat-crm</td></tr><tr><td>Whatsapp api: sends several messages on request</td><td>https://stackoverflow.com/questions/77888039/whatsapp-api-sends-several-messages-on-request</td></tr><tr><td>Issues with Property Initialization in PHP: Typed vs. Untyped - On improving legacy code</td><td>https://stackoverflow.com/questions/77887883/issues-with-property-initialization-in-php-typed-vs-untyped-on-improving-leg</td></tr><!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:START --><tr><td>Twig timezone issue with Asia/Amman</td><td>https://stackoverflow.com/questions/77888505/twig-timezone-issue-with-asia-amman</td></tr><tr><td>Issues with array_rand in PHP?</td><td>https://stackoverflow.com/questions/77888316/issues-with-array-rand-in-php</td></tr><tr><td>AWS Elastic Beanstalk - PHP session</td><td>https://stackoverflow.com/questions/77888230/aws-elastic-beanstalk-php-session</td></tr><tr><td>Filedata in upload script not storing data in DB</td><td>https://stackoverflow.com/questions/77888171/filedata-in-upload-script-not-storing-data-in-db</td></tr><tr><td>multi agent live chat crm</td><td>https://stackoverflow.com/questions/77888099/multi-agent-live-chat-crm</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 
 ---
