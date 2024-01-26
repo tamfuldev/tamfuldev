@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ember-cli config](https://dev.to/michalbryxi/ember-cli-global-config-defaults-1mdk)
-- [Salma Alam-Naylor&#39;s &quot;Entertainment as Code&quot;](https://dev.to/jarvisscript/salma-alam-naylors-entertainment-as-code-59d7)
-- [ELI5: Data Lake vs. Data Warehouse vs. Data Pond etc.](https://dev.to/peter/eli5-data-lake-vs-data-warehouse-vs-data-pond-etc-3b9e)
-- [Comprehensive Exploration of Flutter: A Detailed Guide](https://dev.to/happyer/comprehensive-exploration-of-flutter-a-detailed-guide-159f)
-- [Unlocking the Power of Caching in Laravel](https://dev.to/mazimez/unlocking-the-power-of-caching-in-laravel-1e9m)
+- [How to build a WhatsApp AI assistant](https://dev.to/ben_james/how-to-build-a-whatsapp-ai-assistant-38l2)
+- [React isn’t just JSX and a few hooks.](https://dev.to/prakhart111/react-isnt-just-jsx-and-a-few-hooks-l09)
+- [Multi-Cluster Prometheus: Scaling Metrics Across Kubernetes Clusters](https://dev.to/danquack/multi-cluster-prometheus-scaling-metrics-across-kubernetes-clusters-1eko)
+- [WebSockets and NodeJs: Real time chat app](https://dev.to/alakkadshaw/websockets-and-nodejs-real-time-chat-app-714)
+- [What is overengineering](https://dev.to/hasanelsherbiny/what-is-overengineering-6jm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
