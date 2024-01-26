@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Transform MongoDB into an AI development and deployment powerhouse](https://dev.to/guerra2fernando/transform-mongodb-into-an-ai-development-and-deployment-powerhouse-31cc)
+- [This Week In React #171: Expo, Next.js, React-Email, Storybook, TypeScript, Vocs, Skottie, Harmony, VisionOS...](https://dev.to/sebastienlorber/this-week-in-react-171-expo-nextjs-react-email-storybook-typescript-vocs-skottie-harmony-visionos-7c)
+- [Dear Web Component](https://dev.to/dannyengelman/dear-web-component-1m51)
 - [Apple DMA changes - for better or for worse?](https://dev.to/aexol-studio/apple-dma-changes-for-better-or-for-worse-40i1)
 - [🔄 Class Components vs Functional Components: A Lifecycle Journey in React 🔄](https://dev.to/tmayank860/class-components-vs-functional-components-a-lifecycle-journey-in-react-5dmm)
-- [Optimizing GitLab CI for Readability and Maintainability : From 1K to 600 Lines!](https://dev.to/ridaehamdani/optimizing-gitlab-ci-for-readability-and-maintainability-from-1k-to-600-lines-9bp)
-- [Enhancing User Experience with Gestures in Jetpack Compose](https://dev.to/audu97/enhancing-user-experience-with-gestures-in-jetpack-compose-408e)
-- [How to integrate AWS Real-time transcription using expo-av react native android](https://dev.to/alomgir27/how-to-integrate-aws-real-time-transcription-using-expo-av-1o0k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
