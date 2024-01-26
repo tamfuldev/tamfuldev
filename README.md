@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Deep Dive into Go Reflection: Crafting a Dynamic Open Source Config Package](https://dev.to/josemukorivo/deep-dive-into-go-reflection-crafting-a-dynamic-open-source-config-package-13kn)
-- [The IT job market is tough right now. What are your best tips to create a developer portfolio ?](https://dev.to/jmfayard/show-your-work-3hpg)
-- [Node.js Roadmap: Mastering the Essentials](https://dev.to/nabroleonx/nodejs-roadmap-mastering-the-essentials-3o18)
-- [I learned* 12 languages in 2023: a retrospective](https://dev.to/sethcalebweeks/i-learned-12-languages-in-2023-a-retrospective-3e68)
-- [How to add CI/CD to my SAM project](https://dev.to/aws-builders/how-to-add-cicd-to-my-sam-project-5hm4)
+- [Apple DMA changes - for better or for worse?](https://dev.to/aexol-studio/apple-dma-changes-for-better-or-for-worse-40i1)
+- [🔄 Class Components vs Functional Components: A Lifecycle Journey in React 🔄](https://dev.to/tmayank860/class-components-vs-functional-components-a-lifecycle-journey-in-react-5dmm)
+- [Optimizing GitLab CI for Readability and Maintainability : From 1K to 600 Lines!](https://dev.to/ridaehamdani/optimizing-gitlab-ci-for-readability-and-maintainability-from-1k-to-600-lines-9bp)
+- [Enhancing User Experience with Gestures in Jetpack Compose](https://dev.to/audu97/enhancing-user-experience-with-gestures-in-jetpack-compose-408e)
+- [How to integrate AWS Real-time transcription using expo-av react native android](https://dev.to/alomgir27/how-to-integrate-aws-real-time-transcription-using-expo-av-1o0k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
