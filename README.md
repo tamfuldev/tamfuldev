@@ -6,7 +6,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Navigating the 2024 Web Development Roadmap: A Comprehensive Guide](https://dev.to/ricardogesteves/navigating-the-2024-web-development-roadmap-a-comprehensive-guide-4402)
 - [Next.js and GPT-4: A Guide to Streaming Generated Content as UI Components](https://dev.to/lgrammel/nextjs-and-gpt-4-a-guide-to-streaming-generated-content-as-ui-components-87n)
-- [Integrating ChatGPT into My Whatsapp &lpar;with a Custom Knowledge Base&rpar;](https://dev.to/sojinsamuel/integrating-chatgpt-into-my-whatsapp-with-a-custom-knowledge-base-2pl2)
+- [How to Integrate ChatGPT into your Whatsapp &lpar;with a Custom Knowledge Base&rpar;](https://dev.to/sojinsamuel/integrating-chatgpt-into-my-whatsapp-with-a-custom-knowledge-base-2pl2)
 - [Discussion of the Week: &quot;What is the ideal Tech stack to build a website in 2024?&quot;](https://dev.to/devteam/discussion-of-the-week-what-is-the-ideal-tech-stack-to-build-a-website-in-2024-2ja0)
 - [What is a Vector Database?](https://dev.to/qdrant/what-is-a-vector-database-2h0b)
 <!-- BLOG-POST-LIST:END -->
