@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m Building an AI Project: Here Are the Libraries I&#39;m Going to Use...](https://dev.to/copilotkit/im-building-an-ai-project-here-are-the-libraries-im-going-to-use-pd0)
 - [Transform MongoDB into an AI development and deployment powerhouse](https://dev.to/guerra2fernando/transform-mongodb-into-an-ai-development-and-deployment-powerhouse-31cc)
 - [This Week In React #171: Expo, Next.js, React-Email, Storybook, TypeScript, Vocs, Skottie, Harmony, VisionOS...](https://dev.to/sebastienlorber/this-week-in-react-171-expo-nextjs-react-email-storybook-typescript-vocs-skottie-harmony-visionos-7c)
+- [Discord Clone Using Next.js and Tailwind - Part 2: Server List](https://dev.to/stefanblos/discord-clone-using-nextjs-and-tailwind-part-2-server-list-1993)
 - [Dear Web Component](https://dev.to/dannyengelman/dear-web-component-1m51)
-- [Apple DMA changes - for better or for worse?](https://dev.to/aexol-studio/apple-dma-changes-for-better-or-for-worse-40i1)
-- [🔄 Class Components vs Functional Components: A Lifecycle Journey in React 🔄](https://dev.to/tmayank860/class-components-vs-functional-components-a-lifecycle-journey-in-react-5dmm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
