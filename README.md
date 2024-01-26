@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Basics](https://dev.to/srinivasuluparanduru/fundaments-of-docker-lbd)
-- [ESP32 Embedded Rust at the HAL: I2C Scanner](https://dev.to/apollolabsbin/esp32-embedded-rust-at-the-hal-i2c-scanner-54mg)
-- [Styling and Dark Mode](https://dev.to/codenameone/styling-and-dark-mode-eh2)
-- [How to store and calculate historical big data with lower usage frequency!](https://dev.to/pavanbelagatti/how-to-store-and-calculate-historical-big-data-with-lower-usage-frequency-40md)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-32bb)
+- [Unlocking the Power of Caching in Laravel](https://dev.to/mazimez/unlocking-the-power-of-caching-in-laravel-1e9m)
+- [JSON Responder first stable release](https://dev.to/nabbisen/json-responderfirst-stable-release-48ec)
+- [How To Enhance AG Grid with Avatars: Building a Collaborative Grid with React and Ably](https://dev.to/ably/how-to-enhance-ag-grid-with-avatars-building-a-collaborative-grid-with-react-and-ably-1od7)
+- [Docker Basics](https://dev.to/aws-builders/fundaments-of-docker-lbd)
+- [&#39;Create-react-tailwindcss &#39; an npm package to setup react-tailwindcss configuration](https://dev.to/virumons/create-react-tailwindcss-an-npm-package-to-setup-react-tailwindcss-configuration-5dl2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
