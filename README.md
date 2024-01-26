@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Docker Basics](https://dev.to/srinivasuluparanduru/fundaments-of-docker-lbd)
 - [ESP32 Embedded Rust at the HAL: I2C Scanner](https://dev.to/apollolabsbin/esp32-embedded-rust-at-the-hal-i2c-scanner-54mg)
 - [If you&#39;re a Developer You have to Start Using AI](https://dev.to/brojenuel/if-youre-a-developer-you-have-to-start-using-ai-6gp)
 - [Styling and Dark Mode](https://dev.to/codenameone/styling-and-dark-mode-eh2)
 - [How to store and calculate historical big data with lower usage frequency!](https://dev.to/pavanbelagatti/how-to-store-and-calculate-historical-big-data-with-lower-usage-frequency-40md)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-32bb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
