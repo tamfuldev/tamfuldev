@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How to implement toggle all option in Angular Material Select](https://dev.to/ngmaterialdev/how-to-implement-toggle-all-option-in-angular-material-select-20pk)
+- [100 Tips from The Pragmatic Programmers Book: Part 1/10](https://dev.to/rajeshroyal/care-about-your-craft-pragmatic-programmer-series-1-3b84)
+- [How Endel App Boosted My Productivity as a Developer and CTO](https://dev.to/this-is-learning/how-endel-app-boosted-my-productivity-as-a-developer-and-cto-5b7n)
+- [Streamlining JavaScript Development with PackageFlex: One-Click Copy for npm Install Commands](https://dev.to/bhumit070/streamlining-javascript-development-with-packageflex-one-click-copy-for-npm-install-commands-40mg)
 - [Bun: An All-in-One Toolkit for JavaScript and TypeScript Apps](https://dev.to/asodariyap/unleashing-the-power-of-bun-an-all-in-one-toolkit-for-javascript-and-typescript-apps-1pe7)
-- [How to use Fluvio to build self hosted Github Stargazer Bots on Discord and Slack.](https://dev.to/debadyuti/how-to-use-fluvio-to-build-self-hosted-github-stargazer-bots-on-discord-and-slack-38f5)
-- [How to set up your own proxy server in minutes?](https://dev.to/dhairyashah/how-to-set-up-your-own-proxy-server-in-minutes-4ke)
-- [WebSockets Unlocked: Mastering scale of websockets](https://dev.to/raunakgurud09/websockets-unlocked-mastering-scale-of-websockets-3p54)
-- [Java January vs. JS January… Which Do You Pick? 🔥](https://dev.to/best_codes/java-january-vs-js-january-which-do-you-pick-15o6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
