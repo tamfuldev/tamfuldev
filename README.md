@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with GitHub Actions](https://dev.to/iarchitsharma/getting-started-with-github-actions-5b4i)
+- [How do I make a Git commit in the past?](https://dev.to/atultrp/how-do-i-make-a-git-commit-in-the-past-4l8b)
+- [Become a pedantic coder](https://dev.to/noriller/become-a-pedantic-coder-5cfp)
 - [🌟 Embracing the Power of Community in Tech 🌟](https://dev.to/pachicodes/embracing-the-power-of-community-in-tech-334b)
 - [Minified React error #426](https://dev.to/mingming-ma/minified-react-error-426-317k)
-- [Cognito Starter Kit with Rust and Lambda](https://dev.to/aws-builders/cognito-starter-kit-with-rust-and-lambda-1k25)
-- [What is GSoC? Full Information](https://dev.to/durgesh4993/what-you-need-to-know-about-gsoc-n9d)
-- [Open Source History, a Computing History](https://dev.to/abcsxyz/open-source-history-a-computing-history-13gc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
