@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Why Javascript has to be slower than C++](https://dev.to/codeparrot/why-javascript-has-to-be-slower-than-c-4inj)
 - [100 Tips from The Pragmatic Programmers Book: Part 2/10](https://dev.to/rajeshroyal/100-tips-from-the-pragmatic-programmers-book-part-210-2knl)
+- [Reactive Change Detection](https://dev.to/ninjin/reactive-change-detection-1nei)
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-3m1c)
 - [Preact: Lightweight React Alternative](https://dev.to/codeparrot/preact-lightweight-react-alternative-15kn)
-- [Stop Overloading Your Angular Components: Start Using Host Directives!](https://dev.to/rensjaspers/stop-overloading-your-angular-components-use-host-directives-4pne)
-- [How to implement toggle all option in Angular Material Select](https://dev.to/ngmaterialdev/how-to-implement-toggle-all-option-in-angular-material-select-20pk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
