@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [🌟 Embracing the Power of Community in Tech 🌟](https://dev.to/pachicodes/embracing-the-power-of-community-in-tech-334b)
+- [Minified React error #426](https://dev.to/mingming-ma/minified-react-error-426-317k)
+- [Cognito Starter Kit with Rust and Lambda](https://dev.to/aws-builders/cognito-starter-kit-with-rust-and-lambda-1k25)
 - [What is GSoC? Full Information](https://dev.to/durgesh4993/what-you-need-to-know-about-gsoc-n9d)
 - [Open Source History, a Computing History](https://dev.to/abcsxyz/open-source-history-a-computing-history-13gc)
-- [Serializing Python Object Using the pickle Module](https://dev.to/sachingeek/serializing-python-object-using-the-pickle-module-2jg0)
-- [F-Droid, Keyboard Libraries, and Choosing a Browser](https://dev.to/jsspen/f-droid-keyboard-libraries-and-choosing-a-browser-2m7k)
-- [Best YouTube Channels For JEE Preparation](https://dev.to/sh20raj/best-youtube-channels-for-jee-preparation-5683)
 <!-- BLOG-POST-LIST:END -->
 
 ---
