@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT is Offering 10+ FREE Courses 🌟🚀](https://dev.to/arjuncodess/chatgpt-is-offering-10-free-courses-16d9)
+- [Decorator Patterns In Go](https://dev.to/mrkresnofatih/decorator-patterns-in-go-3i33)
+- [Jetpack Compose Mastery Part 2: Advanced Tools and Resources for Mastering Compose UI](https://dev.to/happyer/jetpack-compose-mastery-part-2-advanced-tools-and-resources-for-mastering-compose-ui-27l1)
+- [OpenAI ChatGPT is Offering 10+ FREE Courses 🌟🚀](https://dev.to/arjuncodess/chatgpt-is-offering-10-free-courses-16d9)
 - [7 Super Helpful AI Tools Every Developer Should Know 🤯](https://dev.to/hosseinyazdi/7-super-helpful-ai-tools-every-developer-should-know-60c)
-- [Comprehensive re:Cap security practice on AWS](https://dev.to/aws-builders/comprehensive-recap-security-practice-on-aws-24kg)
-- [Jetpack Compose Mastery Part 1: A Comprehensive Guide to Building Your First Compose Application](https://dev.to/happyer/jetpack-compose-mastery-part-1-a-comprehensive-guide-to-building-your-first-compose-application-jng)
-- [Effortless Testing Setup for React with Vite, TypeScript, Jest, and React Testing Library](https://dev.to/teyim/effortless-testing-setup-for-react-with-vite-typescript-jest-and-react-testing-library-1c48)
+- [A First Look at Apples New Switch Control](https://dev.to/madsstoumann/a-first-look-at-apples-new-switch-control-3pnd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
