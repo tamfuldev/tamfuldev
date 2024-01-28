@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Be a inventer Not &#39;Frameworker&#39;](https://dev.to/rudransh61/be-a-inventer-not-frameworker-1ehk)
 - [Decorator Patterns In Go](https://dev.to/mrkresnofatih/decorator-patterns-in-go-3i33)
 - [Jetpack Compose Mastery Part 2: Advanced Tools and Resources for Mastering Compose UI](https://dev.to/happyer/jetpack-compose-mastery-part-2-advanced-tools-and-resources-for-mastering-compose-ui-27l1)
 - [OpenAI ChatGPT is Offering 10+ FREE Courses 🌟🚀](https://dev.to/arjuncodess/chatgpt-is-offering-10-free-courses-16d9)
 - [7 Super Helpful AI Tools Every Developer Should Know 🤯](https://dev.to/hosseinyazdi/7-super-helpful-ai-tools-every-developer-should-know-60c)
-- [A First Look at Apples New Switch Control](https://dev.to/madsstoumann/a-first-look-at-apples-new-switch-control-3pnd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
