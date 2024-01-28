@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [I made a follow-up package, scikit-multilearn-ng, to the widely used scikit-multilearn package for multilabel classification](https://dev.to/northern64bit/i-made-a-follow-up-package-scikit-multilearn-ng-to-the-widely-used-scikit-multilearn-package-for-multilabel-classification-jf0)
 - [Next.js starter template](https://dev.to/skolaczk/nextjs-starter-template-5cf2)
 - [Yet Another Newsletter LOL: A Solid and Astronomical Week](https://dev.to/nickytonline/yet-another-newsletter-lol-a-solid-and-astronomical-week-1ccc)
 - [Be a inventer Not &#39;Frameworker&#39;](https://dev.to/rudransh61/be-a-inventer-not-frameworker-1ehk)
 - [How to build a zero-ETL DynamoDB integration with OpenSearch Service using AWS CDK](https://dev.to/aws-builders/how-to-build-a-zero-etl-dynamodb-integration-with-opensearch-service-using-aws-cdk-hih)
-- [Decorator Patterns In Go](https://dev.to/mrkresnofatih/decorator-patterns-in-go-3i33)
 <!-- BLOG-POST-LIST:END -->
 
 ---
