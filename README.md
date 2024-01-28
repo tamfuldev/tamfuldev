@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [30+ Prompts That Are Short, Silly, But Highly EFFECTIVE! + Examples 🔥⚡️](https://dev.to/arjuncodess/30-prompts-that-are-short-silly-but-highly-effective-examples-504c)
+- [UUID in PostgreSQL](https://dev.to/aws-heroes/uuid-in-postgresql-3n53)
 - [🦊 GitLab CI: The Majestic Single Server Runner](https://dev.to/zenika/gitlab-ci-the-majestic-single-server-runner-1b5b)
 - [How do API&#39;s Speaks to Each Other](https://dev.to/apitoolkit/how-do-apis-speaks-to-each-other-5c9l)
 - [How to implement Theme Switcher in JavaScript](https://dev.to/pavelkeyzik/how-to-implement-theme-switcher-in-javascript-53e)
-- [Getting Started with GitHub Actions](https://dev.to/iarchitsharma/getting-started-with-github-actions-5b4i)
-- [How do I make a Git commit in the past?](https://dev.to/atultrp/how-do-i-make-a-git-commit-in-the-past-4l8b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
