@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Comprehensive re:Cap security practice on AWS](https://dev.to/aws-builders/comprehensive-recap-security-practice-on-aws-24kg)
+- [Jetpack Compose Mastery Part 1: A Comprehensive Guide to Building Your First Compose Application](https://dev.to/happyer/jetpack-compose-mastery-part-1-a-comprehensive-guide-to-building-your-first-compose-application-jng)
+- [Effortless Testing Setup for React with Vite, TypeScript, Jest, and React Testing Library](https://dev.to/teyim/effortless-testing-setup-for-react-with-vite-typescript-jest-and-react-testing-library-1c48)
 - [A Guide to Styling Tables](https://dev.to/madsstoumann/a-guide-to-styling-tables-28d2)
 - [How to connect to a MongoDB database in Sveltekit](https://dev.to/abdulmuminyqn/how-to-connect-to-a-mongodb-database-in-sveltekit-k5h)
-- [Webpack Vs Parcel: A quick Look for Developers](https://dev.to/temid/webpack-vs-parcel-a-quick-look-for-developers-1n30)
-- [🔥Build A Movie Search App Using Redux Toolkit And React Router 6🔥](https://dev.to/myogeshchavan97/build-a-movie-search-app-using-redux-toolkit-and-react-router-6-4j3d)
-- [Securing Sensitive Data with Encryption Algorithms](https://dev.to/rubab2020/securing-sensitive-data-with-encryption-algorithms-3mc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
