@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Jetpack Compose Mastery Series Finale: 38 Key Issues in Compose UI](https://dev.to/happyer/jetpack-compose-mastery-series-finale-38-key-issues-in-compose-ui-50f8)
-- [How to Create Exam Marker with Power Automate and MS Forms](https://dev.to/wyattdave/how-to-create-exam-marker-with-power-automate-and-ms-forms-2mop)
-- [Common Mistakes in JavaScript Naming Conventions and How to Avoid Them](https://dev.to/hyscaler/common-mistakes-in-javascript-naming-conventions-and-how-to-avoid-them-1og3)
-- [Integrating CKEditor 5 with Next.js 13.4 &lpar;Page Router&rpar;: A Step-by-Step Guide](https://dev.to/fazlay/integrating-ckeditor-5-with-nextjs-134-page-router-a-step-by-step-guide-iak)
-- [Top 10 Topics for System Design Interviews](https://dev.to/somadevtoo/top-10-topics-for-system-design-interviews-4c2f)
+- [Expo SDK 50: Top 5 things you need to know 🚀](https://dev.to/mitchiemt11/expo-sdk-50-top-5-things-you-need-to-know-295n)
+- [AWS open source newsletter, #186](https://dev.to/aws/aws-open-source-newsletter-186-539n)
+- [Boletín AWS Open Source, January Edition](https://dev.to/aws-espanol/boletin-aws-open-source-january-edition-31in)
+- [Getting Started with TypeScript: A Comprehensive Guide](https://dev.to/jps27cse/getting-started-with-typescript-a-comprehensive-guide-1djm)
+- [API7 Enterprise&#39;s Canary Traffic Shifting Strategy for Precise Traffic Control](https://dev.to/apisix/api7-enterprises-canary-traffic-shifting-strategy-for-precise-traffic-control-5904)
 <!-- BLOG-POST-LIST:END -->
 
 ---
