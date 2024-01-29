@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Amplify Gen 2 - code first experience!](https://dev.to/vng_bach/amplify-gen-2-code-first-experience-2h47)
+- [Outbound Voice Calls on AWS](https://dev.to/aws-heroes/outbound-voice-calls-on-aws-40mb)
+- [Solving the Puzzle: Lambda Function URLs with IAM Authorization and CloudFront Custom Domains](https://dev.to/aws-builders/solving-the-puzzle-lambda-function-urls-with-iam-authorization-and-cloudfront-custom-domains-55jo)
+- [A new way to build websites? Feedback is needed for my application themex.](https://dev.to/karsten_biedermann_de037d/a-new-way-to-build-websites-ask-for-feedback-for-themex-1oj6)
 - [Expo SDK 50: Top 5 things you need to know 🚀](https://dev.to/mitchiemt11/expo-sdk-50-top-5-things-you-need-to-know-295n)
-- [AWS open source newsletter, #186](https://dev.to/aws/aws-open-source-newsletter-186-539n)
-- [Boletín AWS Open Source, January Edition](https://dev.to/aws-espanol/boletin-aws-open-source-january-edition-31in)
-- [Getting Started with TypeScript: A Comprehensive Guide](https://dev.to/jps27cse/getting-started-with-typescript-a-comprehensive-guide-1djm)
-- [API7 Enterprise&#39;s Canary Traffic Shifting Strategy for Precise Traffic Control](https://dev.to/apisix/api7-enterprises-canary-traffic-shifting-strategy-for-precise-traffic-control-5904)
 <!-- BLOG-POST-LIST:END -->
 
 ---
