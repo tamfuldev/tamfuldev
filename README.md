@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [🐍4️⃣ Advanced Python Concepts Every Programmer Needs 🔥⚡️](https://dev.to/arjuncodess/4-advanced-python-concepts-every-programmer-needs-2gf8)
+- [Ambiente wordpress com CDN provisionado como código — Terraform](https://dev.to/paulofponciano/ambiente-wordpress-com-cdn-provisionado-como-codigo-terraform-5b4l)
+- [RubyConf: Scholar Edition](https://dev.to/avikdal/rubyconf-scholar-edition-24n5)
+- [Understanding Go/Golang: part 1 – Variable](https://dev.to/aurelievache/understanding-gogolang-part-1-variable-1eim)
 - [Getting started with Ruby on Rails and Postgres on Supabase](https://dev.to/supabase/getting-started-with-ruby-on-rails-and-postgres-on-supabase-1a03)
-- [Store embeddings in Azure Cosmos DB for PostgreSQL with pgvector](https://dev.to/sfoteini/store-embeddings-in-azure-cosmos-db-for-postgresql-with-pgvector-2b1c)
-- [How to Develop an IntelliJ Plugin: A DIY Guide to Adding Drag and Drop with Custom DataFlavors](https://dev.to/get_pieces/how-to-develop-an-intellij-plugin-a-diy-guide-to-adding-drag-and-drop-with-custom-dataflavors-52o8)
-- [This year, I&#39;ll commit at least one line of code 😃](https://dev.to/jess/this-year-ill-commit-at-least-one-line-of-code-4lfd)
-- [Vue Nice Validate](https://dev.to/yogeshgalav7/vue-nice-validate-1bd7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
