@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Gru&#39;s Talent Strategy: Checklist for Building Your Dream Team](https://dev.to/balagmadhu/grus-talent-strategy-checklist-for-building-your-dream-team-mmg)
 - [Database 101: How to Model Leaderboards for 1M Player&#39;s Game.](https://dev.to/danielhe4rt/database-101-how-to-model-leaderboards-for-1m-players-game-2pfa)
+- [Building a Side Hustle 💸 as a Developer: Capitalize on the Global Economy with Integrated Payments](https://dev.to/rapyd/building-a-side-hustle-as-a-developer-capitalize-on-the-global-economy-with-integrated-payments-59m1)
 - [How We Stopped Our ClickHouse DB From Exploding](https://dev.to/dittofeed-max/how-we-stopped-our-clickhouse-db-from-exploding-2969)
-- [Why I decided to go headless...](https://dev.to/jhanawee/why-i-decided-to-go-headless-2bam)
 - [TypeScript&#39;s Successor is Waiting, and You&#39;ll Never Want to Turn Back](https://dev.to/aarvinr/typescripts-successor-is-waiting-and-youll-never-want-to-turn-back-5cb0)
-- [Charting My Path for February-March: What&#39;s Yours?](https://dev.to/elvissautet/charting-my-path-for-february-march-whats-yours-24ek)
 <!-- BLOG-POST-LIST:END -->
 
 ---
