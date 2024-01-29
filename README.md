@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Database 101: How to Model Leaderboards for 1M Player&#39;s Game.](https://dev.to/danielhe4rt/database-101-how-to-model-leaderboards-for-1m-players-game-2pfa)
+- [How We Stopped Our ClickHouse DB From Exploding](https://dev.to/dittofeed-max/how-we-stopped-our-clickhouse-db-from-exploding-2969)
+- [Why I decided to go headless...](https://dev.to/jhanawee/why-i-decided-to-go-headless-2bam)
+- [TypeScript&#39;s Successor is Waiting, and You&#39;ll Never Want to Turn Back](https://dev.to/aarvinr/typescripts-successor-is-waiting-and-youll-never-want-to-turn-back-5cb0)
 - [Charting My Path for February-March: What&#39;s Yours?](https://dev.to/elvissautet/charting-my-path-for-february-march-whats-yours-24ek)
-- [Employee-Driven Sponsorship: Open Source Day 2024](https://dev.to/claranet/employee-driven-sponsorship-open-source-day-2024-10m1)
-- [Uniting Africa with Umoja: The Africai Vision](https://dev.to/cypriantinasheaarons/uniting-africa-with-umoja-the-africai-vision-5dec)
-- [Terraform - Understanding Dynamic Blocks](https://dev.to/pwd9000/terraform-understanding-dynamic-blocks-6f9)
-- [A Tribute to React](https://dev.to/aantipov/a-tribute-to-react-2dci)
 <!-- BLOG-POST-LIST:END -->
 
 ---
