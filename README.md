@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I need some feedback on my work.](https://dev.to/maxjerry0107/i-need-some-feedback-on-my-work-57gn)
-- [Preventing Equivalent Reactive Computing](https://dev.to/ninjin/preventing-equivalent-reactive-computing-4hk5)
-- [Meme Monday](https://dev.to/ben/meme-monday-3p7n)
-- [Weekly Roundup 037 &lpar;Jan 22&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-037-jan-22-hot-topics-in-workplace-sharepoint-and-powerplatform-11j7)
-- [First Open-Source Contribution](https://dev.to/juanjefry23/first-open-source-contribution-300b)
+- [FLaNK Stack 29 Jan 2024](https://dev.to/tspannhw/flank-stack-29-jan-2024-1cl4)
+- [Mastering the DevOps Interview: A Guide for Mid-Level Candidates](https://dev.to/kubeden/mastering-the-devops-interview-a-guide-for-mid-level-candidates-546a)
+- [What are your goals for week 5 0f 2024?](https://dev.to/jarvisscript/what-are-your-goals-for-week-5-0f-2024-4l4g)
+- [My AWS Cloud Club Journey](https://dev.to/awscloudclubs/my-aws-cloud-club-journey-d90)
+- [Building a Flask todo web application from scratch](https://dev.to/ankur0904/building-a-flask-todo-web-application-from-scratch-2ahg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
