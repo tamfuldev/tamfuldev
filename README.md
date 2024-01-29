@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Amplify Gen 2 - code first experience!](https://dev.to/vng_bach/amplify-gen-2-code-first-experience-2h47)
-- [Outbound Voice Calls on AWS](https://dev.to/aws-heroes/outbound-voice-calls-on-aws-40mb)
-- [Solving the Puzzle: Lambda Function URLs with IAM Authorization and CloudFront Custom Domains](https://dev.to/aws-builders/solving-the-puzzle-lambda-function-urls-with-iam-authorization-and-cloudfront-custom-domains-55jo)
-- [A new way to build websites? Feedback is needed for my application themex.](https://dev.to/karsten_biedermann_de037d/a-new-way-to-build-websites-ask-for-feedback-for-themex-1oj6)
-- [Expo SDK 50: Top 5 things you need to know 🚀](https://dev.to/mitchiemt11/expo-sdk-50-top-5-things-you-need-to-know-295n)
+- [Vite js: The Lightweight and Lightning-fast Build Tool for Your Next Web Project](https://dev.to/teyim/vite-js-the-lightweight-and-lightning-fast-build-tool-for-your-next-web-project-541i)
+- [Create reusable button Components with React,Typescript , Tailwind and Tailwind-variants](https://dev.to/teyim/create-reusable-button-components-with-reacttypescript-tailwind-and-tailwind-variants-2j7d)
+- [NestJS Dependency Injection - Overview](https://dev.to/shameel/nestjs-dependency-injection-overview-29h3)
+- [Grommet - A UI framework to create intuitive and visually appealing React components](https://dev.to/subha35/grommet-a-ui-framework-to-create-intuitive-and-visually-appealing-react-components-53i3)
+- [Features and Cost to Make Real Estate Mobile App Development Like Redfin](https://dev.to/piyalidebroy/features-and-cost-to-make-real-estate-mobile-app-development-like-redfin-1bnb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
