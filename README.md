@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Jetpack Compose Mastery Series Finale: 38 Key Issues in Compose UI](https://dev.to/happyer/jetpack-compose-mastery-series-finale-38-key-issues-in-compose-ui-50f8)
+- [How to Create Exam Marker with Power Automate and MS Forms](https://dev.to/wyattdave/how-to-create-exam-marker-with-power-automate-and-ms-forms-2mop)
+- [Common Mistakes in JavaScript Naming Conventions and How to Avoid Them](https://dev.to/hyscaler/common-mistakes-in-javascript-naming-conventions-and-how-to-avoid-them-1og3)
+- [Integrating CKEditor 5 with Next.js 13.4 &lpar;Page Router&rpar;: A Step-by-Step Guide](https://dev.to/fazlay/integrating-ckeditor-5-with-nextjs-134-page-router-a-step-by-step-guide-iak)
 - [Top 10 Topics for System Design Interviews](https://dev.to/somadevtoo/top-10-topics-for-system-design-interviews-4c2f)
-- [Building a Dropdown Menu in React: A Step-by-Step Guide](https://dev.to/michaellarocca/building-a-dropdown-menu-in-react-a-step-by-step-guide-nof)
-- [What is the Difference Between ePUB and eBook?](https://dev.to/alphaebook/what-is-the-difference-between-epub-and-ebook-535j)
-- [Mastering Azure Peering: Commanding Your Network with Precision](https://dev.to/beingwizard/mastering-azure-peering-commanding-your-network-with-precision-51e5)
-- [Test your Compute apps end-to-end with JavaScript](https://dev.to/fastly/test-your-compute-apps-end-to-end-with-javascript-3nko)
 <!-- BLOG-POST-LIST:END -->
 
 ---
