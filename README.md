@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Gru&#39;s Talent Strategy: Checklist for Building Your Dream Team](https://dev.to/balagmadhu/grus-talent-strategy-checklist-for-building-your-dream-team-mmg)
-- [Database 101: How to Model Leaderboards for 1M Player&#39;s Game.](https://dev.to/danielhe4rt/database-101-how-to-model-leaderboards-for-1m-players-game-2pfa)
-- [Building a Side Hustle 💸 as a Developer: Capitalize on the Global Economy with Integrated Payments](https://dev.to/rapyd/building-a-side-hustle-as-a-developer-capitalize-on-the-global-economy-with-integrated-payments-59m1)
-- [How We Stopped Our ClickHouse DB From Exploding](https://dev.to/dittofeed-max/how-we-stopped-our-clickhouse-db-from-exploding-2969)
-- [TypeScript&#39;s Successor is Waiting, and You&#39;ll Never Want to Turn Back](https://dev.to/aarvinr/typescripts-successor-is-waiting-and-youll-never-want-to-turn-back-5cb0)
+- [This year, I&#39;ll commit at least one line of code 😃](https://dev.to/jess/this-year-ill-commit-at-least-one-line-of-code-4lfd)
+- [Vue Nice Validate](https://dev.to/yogeshgalav7/vue-nice-validate-1bd7)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3jad)
+- [Observabilidade de microsserviços com OpenTelemetry e Amazon OpenSearch [Lab Session]](https://dev.to/paulofponciano/observabilidade-de-microsservicos-com-opentelemetry-e-amazon-opensearch-lab-session-2jk3)
+- [The Basics of React](https://dev.to/gagecantrelle/the-basics-of-react-57a1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
