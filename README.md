@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Next Level SD 1.5 Based Models Training - Took Me 70+ Empirical Trainings To Find Out](https://dev.to/furkangozukara/next-level-sd-15-based-models-training-took-me-70-empirical-trainings-to-find-out-5362)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-ol6)
 - [Make layout with bidirectional text has never been so easy 🙌](https://dev.to/dhutaryan/make-layout-with-bidirectional-text-has-never-been-so-easy-bac)
 - [Deploying an E-commerce Website on Amazon EKS Using Terraform](https://dev.to/gbenga700/deploying-an-e-commerce-website-on-amazon-eks-using-terraform-23df)
 - [9️⃣ Open Source Projects Every Sr. Dev Should Explore Once🚀 &lpar;Open for Contribution&rpar; 🤝](https://dev.to/nikl/9-open-source-projects-every-sr-dev-should-explore-once-open-for-contribution-ffg)
-- [#2 React Query: Infinite Scroll](https://dev.to/kevin-uehara/2-react-query-infinite-scroll-1mg8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
