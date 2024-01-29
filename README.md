@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Terraform - Understanding Dynamic Blocks](https://dev.to/pwd9000/terraform-understanding-dynamic-blocks-6f9)
+- [A Tribute to React](https://dev.to/aantipov/a-tribute-to-react-2dci)
+- [How Do You Balance Social Media in Your Career?](https://dev.to/devteam/how-do-you-balance-social-media-in-your-career-b9c)
+- [Cross-Region Transit Gateway Peering in AWS](https://dev.to/aws-builders/cross-region-transit-gateway-peering-in-aws-3oc4)
 - [FLaNK Stack 29 Jan 2024](https://dev.to/tspannhw/flank-stack-29-jan-2024-1cl4)
-- [Mastering the DevOps Interview: A Guide for Mid-Level Candidates](https://dev.to/kubeden/mastering-the-devops-interview-a-guide-for-mid-level-candidates-546a)
-- [What are your goals for week 5 0f 2024?](https://dev.to/jarvisscript/what-are-your-goals-for-week-5-0f-2024-4l4g)
-- [My AWS Cloud Club Journey](https://dev.to/awscloudclubs/my-aws-cloud-club-journey-d90)
-- [Building a Flask todo web application from scratch](https://dev.to/ankur0904/building-a-flask-todo-web-application-from-scratch-2ahg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
