@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [I need some feedback on my work.](https://dev.to/maxjerry0107/i-need-some-feedback-on-my-work-57gn)
+- [Preventing Equivalent Reactive Computing](https://dev.to/ninjin/preventing-equivalent-reactive-computing-4hk5)
+- [Meme Monday](https://dev.to/ben/meme-monday-3p7n)
 - [Weekly Roundup 037 &lpar;Jan 22&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-037-jan-22-hot-topics-in-workplace-sharepoint-and-powerplatform-11j7)
 - [First Open-Source Contribution](https://dev.to/juanjefry23/first-open-source-contribution-300b)
-- [A Deep dive into CSR, SSR, SSG and ISR](https://dev.to/teyim/a-deep-dive-into-csr-ssr-ssg-and-isr-3513)
-- [Vite js: The Lightweight and Lightning-fast Build Tool for Your Next Web Project](https://dev.to/teyim/vite-js-the-lightweight-and-lightning-fast-build-tool-for-your-next-web-project-541i)
-- [Create reusable button Components with React,Typescript , Tailwind and Tailwind-variants](https://dev.to/teyim/create-reusable-button-components-with-reacttypescript-tailwind-and-tailwind-variants-2j7d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
