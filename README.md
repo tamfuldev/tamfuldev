@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Directions of Reactivity](https://dev.to/ninjin/directions-of-reactivity-1h4b)
+- [DTrace Revisited: Advanced Debugging Techniques](https://dev.to/codenameone/dtrace-revisited-advanced-debugging-techniques-lc9)
+- [Learning Microservices with Go&lpar;Part 2&rpar;. Service Discovery](https://dev.to/manavkush/learning-microservices-with-gopart-2-service-discovery-168g)
 - [🎉📣 Exciting Moments at the AWS Hong Kong re:cap! 🚀🌟](https://dev.to/aws-builders/exciting-moments-at-the-aws-conference-2cjp)
 - [Functions in Rust: a good introduction](https://dev.to/francescoxx/functions-in-rust-a-good-introduction-5a23)
-- [Stop Contributing to Open Source](https://dev.to/jitendrachoudhary/stop-contributing-to-open-source-13nb)
-- [Implementing JWT Authentication in a Golang Application](https://dev.to/permify/implementing-jwt-authentication-in-a-golang-application-onf)
-- [Open-Source Headless CMS in 2024](https://dev.to/nikpoltoratsky/open-source-headless-cms-in-2024-57ko)
 <!-- BLOG-POST-LIST:END -->
 
 ---
