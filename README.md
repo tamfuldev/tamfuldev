@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Mistake: Learning too fast](https://dev.to/mjhossain/my-mistake-learning-too-fast-3cd6)
-- [What about starting a new platform?](https://dev.to/andreik/what-about-starting-a-new-platform-27mi)
-- [Fetch data when empty](https://dev.to/hejliang/fetch-data-when-empty-1771)
-- [qk.rs | search quicker](https://dev.to/nathanpuls/qkrs-search-quicker-3b54)
-- [Build and Deploy Images on AWS ECR Using Github Workflow Action](https://dev.to/kenechukwujosiah/build-and-deploy-images-on-aws-ecr-using-github-workflow-action-5b69)
+- [Have you tried the Arc browser?](https://dev.to/ben/have-you-tried-the-arc-browser-3n9o)
+- [Javascript Promise](https://dev.to/barrisam/javascript-promise-3g6o)
+- [Pascal rodando na JVM](https://dev.to/alexgarzao/pascal-rodando-na-jvm-1m3b)
+- [Rapid Prototyping with Flask, Bootstrap and Secutio](https://dev.to/mrhdias/rapid-prototyping-with-flask-bootstrap-and-secutio-1719)
+- [Do Manual ao Automatizado: Explorando o Potencial do ModelMapper](https://dev.to/lutiu1245/do-manual-ao-automatizado-explorando-o-potencial-do-modelmapper-5k7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
