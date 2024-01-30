@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [[20 Days of DynamoDB] Day 14 - Using the DynamoDB expression package to build Key Condition and Filter expressions](https://dev.to/aws/20-days-of-dynamodb-day-14-using-the-dynamodb-expression-package-to-build-key-condition-and-filter-expressions-2i27)
 - [Configurando Amazon SES para envio de e-mail](https://dev.to/alfredotavio/configurando-amazon-ses-para-envio-de-e-mail-25)
 - [10 unusual programming languages that will drive you nuts 🤪](https://dev.to/ispmanager/10-unusual-programming-languages-that-will-drive-you-nuts-bcm)
 - [🚀Navigating the GraphQL Galaxy🌌: A Comprehensive Roadmap for Developers 🚀](https://dev.to/mohitkadwe19/navigating-the-graphql-galaxy-a-comprehensive-roadmap-for-developers-43nm)
-- [Tech work is n-dimensional](https://dev.to/chasm/tech-work-is-n-dimensional-gna)
-- [Why It&#39;s Harder Than Ever to Learn Something New in 2024](https://dev.to/lucaschitolina/why-its-harder-than-ever-to-learn-something-new-in-2024-4009)
+- [C Const Conundrum](https://dev.to/pauljlucas/c-const-conundrum-j2l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
