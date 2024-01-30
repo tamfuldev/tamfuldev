@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [🎉📣 Exciting Moments at the AWS Hong Kong re:cap! 🚀🌟](https://dev.to/aws-builders/exciting-moments-at-the-aws-conference-2cjp)
+- [Functions in Rust: a good introduction](https://dev.to/francescoxx/functions-in-rust-a-good-introduction-5a23)
+- [Stop Contributing to Open Source](https://dev.to/jitendrachoudhary/stop-contributing-to-open-source-13nb)
 - [Implementing JWT Authentication in a Golang Application](https://dev.to/permify/implementing-jwt-authentication-in-a-golang-application-onf)
 - [Open-Source Headless CMS in 2024](https://dev.to/nikpoltoratsky/open-source-headless-cms-in-2024-57ko)
-- [ReductStore v1.8.0 Has Been Released with Data Replication](https://dev.to/reductstore/reductstore-v180-has-been-released-with-data-replication-94b)
-- [Publishing Nuget in GitHub Packages](https://dev.to/reniciuspagotto/publishing-nuget-in-github-packages-399l)
-- [Navigating Docker With Captains - Bret Fisher](https://dev.to/livecycle/navigating-docker-with-captains-bret-fisher-3i0m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
