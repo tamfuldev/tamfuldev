@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Do Rubber Ducks Work?](https://dev.to/zenstack/why-do-rubber-ducks-work-27ia)
-- [[20 Days of DynamoDB] Day 14 - Using the DynamoDB expression package to build Key Condition and Filter expressions](https://dev.to/aws/20-days-of-dynamodb-day-14-using-the-dynamodb-expression-package-to-build-key-condition-and-filter-expressions-2i27)
-- [Configurando Amazon SES para envio de e-mail](https://dev.to/alfredotavio/configurando-amazon-ses-para-envio-de-e-mail-25)
-- [10 unusual programming languages that will drive you nuts 🤪](https://dev.to/ispmanager/10-unusual-programming-languages-that-will-drive-you-nuts-bcm)
-- [🚀Navigating the GraphQL Galaxy🌌: A Comprehensive Roadmap for Developers 🚀](https://dev.to/mohitkadwe19/navigating-the-graphql-galaxy-a-comprehensive-roadmap-for-developers-43nm)
+- [Angular 17 Encrypting Decrypting Data with CryptoJs | Angular 17 Tutorial | React](https://dev.to/anilsingh/angular-17-encrypting-decrypting-data-with-cryptojs-angular-17-tutorial-react-30mh)
+- [Dive into the Mind of Lead Power Platform Developer, David Wyatt](https://dev.to/jaloplo/empower-your-skills-dive-into-the-mind-of-lead-power-platform-developer-david-wyatt-68o)
+- [Tackling React&#39;s Most Loathed Interview Question - Diffing and Reconciliation Unveiled](https://dev.to/fahadachaudhry/tackling-reacts-most-loathed-interview-question-diffing-and-reconciliation-unveiled-4pcd)
+- [Vector Search as a dedicated service](https://dev.to/qdrant/vector-search-as-a-dedicated-service-1iil)
+- [Add CSS Framework in Angular](https://dev.to/venkateshpensalwar/add-css-framework-in-angular-5e2f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
