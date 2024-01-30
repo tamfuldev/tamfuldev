@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How Do You Navigate Success beyond the Paycheck?](https://dev.to/devteam/how-do-you-navigate-success-beyond-the-paycheck-n4g)
+- [😁12 things you didn&#39;t know you could do with DEV](https://dev.to/anmolbaranwal/12-things-you-didnt-know-you-could-do-with-dev-2041)
 - [Using Azure OpenAI Service &lpar;GPT-4&rpar; in .NET](https://dev.to/esdanielgomez/using-azure-openai-service-gpt-4-in-net-2l1f)
 - [Enabling children in disastrous regions through technology](https://dev.to/a0m0rajab/enabling-children-in-disastrous-regions-through-technology-3209)
 - [How to Build a GraphQL API with Spring Boot](https://dev.to/oktadev/how-to-build-a-graphql-api-with-spring-boot-11ke)
-- [LeetCode 2. Add Two Numbers](https://dev.to/daveson217/leetcode-2-add-two-numbers-3j11)
-- [Hooking-up a headless CMS to React apps](https://dev.to/flotiq/hooking-up-a-headless-cms-to-react-apps-d4l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
