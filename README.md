@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing JWT Authentication in a Golang Application](https://dev.to/permify/implementing-jwt-authentication-in-a-golang-application-onf)
+- [Open-Source Headless CMS in 2024](https://dev.to/nikpoltoratsky/open-source-headless-cms-in-2024-57ko)
+- [ReductStore v1.8.0 Has Been Released with Data Replication](https://dev.to/reductstore/reductstore-v180-has-been-released-with-data-replication-94b)
+- [Publishing Nuget in GitHub Packages](https://dev.to/reniciuspagotto/publishing-nuget-in-github-packages-399l)
 - [Navigating Docker With Captains - Bret Fisher](https://dev.to/livecycle/navigating-docker-with-captains-bret-fisher-3i0m)
-- [The Journey from Idea to Launch: A Step-by-Step Guide to Software Development](https://dev.to/rajatp/the-journey-from-idea-to-launch-a-step-by-step-guide-to-software-development-515m)
-- [You don&#39;t need to pay for SaaS boilerplates - Open SaaS](https://dev.to/wasp/you-dont-need-to-pay-for-saas-boilerplates-open-saas-56lj)
-- [User Experience &lpar;UX&rpar; Design Mistakes to Avoid](https://dev.to/clikitnow/user-experience-ux-design-mistakes-to-avoid-382e)
-- [Large Language Models](https://dev.to/danielwambo/large-language-model-7ab)
 <!-- BLOG-POST-LIST:END -->
 
 ---
