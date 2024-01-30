@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Terraform in Plain English](https://dev.to/oloruntobiolurombi/terraform-in-plain-english-2eac)
+- [❓🤔 Mystery of Vite server.port Number 5173 🤯](https://dev.to/kvetoslavnovak/mystery-of-vite-serverport-number-5173-43lm)
+- [Adding a Subscription Service to a NextJS, Prisma &amp; Upstash](https://dev.to/brightonmboya/adding-a-subscription-service-to-a-nextjs-prisma-upstash-19le)
 - [Angular 17 Encrypting Decrypting Data with CryptoJs | Angular 17 Tutorial | React](https://dev.to/anilsingh/angular-17-encrypting-decrypting-data-with-cryptojs-angular-17-tutorial-react-30mh)
-- [Dive into the Mind of Lead Power Platform Developer, David Wyatt](https://dev.to/jaloplo/empower-your-skills-dive-into-the-mind-of-lead-power-platform-developer-david-wyatt-68o)
-- [Tackling React&#39;s Most Loathed Interview Question - Diffing and Reconciliation Unveiled](https://dev.to/fahadachaudhry/tackling-reacts-most-loathed-interview-question-diffing-and-reconciliation-unveiled-4pcd)
-- [Vector Search as a dedicated service](https://dev.to/qdrant/vector-search-as-a-dedicated-service-1iil)
-- [Add CSS Framework in Angular](https://dev.to/venkateshpensalwar/add-css-framework-in-angular-5e2f)
+- [TypeScript Secrets Part 1: &quot;as const&quot;](https://dev.to/ctnkaan/typescript-secrets-part-1-as-const-57ne)
 <!-- BLOG-POST-LIST:END -->
 
 ---
