@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Navigating Docker With Captains - Bret Fisher](https://dev.to/livecycle/navigating-docker-with-captains-bret-fisher-3i0m)
+- [The Journey from Idea to Launch: A Step-by-Step Guide to Software Development](https://dev.to/rajatp/the-journey-from-idea-to-launch-a-step-by-step-guide-to-software-development-515m)
+- [You don&#39;t need to pay for SaaS boilerplates - Open SaaS](https://dev.to/wasp/you-dont-need-to-pay-for-saas-boilerplates-open-saas-56lj)
+- [User Experience &lpar;UX&rpar; Design Mistakes to Avoid](https://dev.to/clikitnow/user-experience-ux-design-mistakes-to-avoid-382e)
 - [Large Language Models](https://dev.to/danielwambo/large-language-model-7ab)
-- [Exploring Component Testing in Vue with Playwright](https://dev.to/mayashavin/exploring-component-testing-in-vue-with-playwright-27mi)
-- [Best Crypto To Invest in 2024 [Expert Guide]](https://dev.to/scofieldidehen/best-crypto-to-invest-in-2024-expert-guide-3mkp)
-- [Superpowers with Directives and Dependency Injection: Part 7](https://dev.to/this-is-angular/superpowers-with-directives-and-dependency-injection-part-7-4ll9)
-- [Confidently Incorrect - Pico-8](https://dev.to/bradley-hill/confidently-incorrect-pico-8-id8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
