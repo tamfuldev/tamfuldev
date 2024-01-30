@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Superpowers with Directives and Dependency Injection: Part 7](https://dev.to/this-is-angular/superpowers-with-directives-and-dependency-injection-part-7-4ll9)
+- [Npm vs Yarn](https://dev.to/codeparrot/npm-vs-yarn-35d6)
+- [Coexistence of containers and Helm charts - OCI based registries](https://dev.to/cyclops-ui/coexistence-of-containers-and-helm-charts-oci-based-registries-b6b)
+- [Building a AI Assistant to chat with your documents using Next.js and OpenAI](https://dev.to/mfts/building-a-ai-assistant-to-chat-with-your-documents-using-nextjs-and-openai-4ab6)
 - [Object-Oriented Programming](https://dev.to/scofieldidehen/object-oriented-programming-1c5h)
-- [In-app surveys for React Native Apps](https://dev.to/nsmet/in-app-surveys-for-react-native-apps-5h7g)
-- [Terraform in Plain English](https://dev.to/oloruntobiolurombi/terraform-in-plain-english-2eac)
-- [❓🤔 Mystery of Vite server.port Number 5173 🤯](https://dev.to/kvetoslavnovak/mystery-of-vite-serverport-number-5173-43lm)
-- [Adding a Subscription Service to a NextJS, Prisma &amp; Upstash](https://dev.to/brightonmboya/adding-a-subscription-service-to-a-nextjs-prisma-upstash-19le)
 <!-- BLOG-POST-LIST:END -->
 
 ---
