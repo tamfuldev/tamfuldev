@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Using Azure OpenAI Service &lpar;GPT-4&rpar; in .NET](https://dev.to/esdanielgomez/using-azure-openai-service-gpt-4-in-net-2l1f)
+- [Enabling children in disastrous regions through technology](https://dev.to/a0m0rajab/enabling-children-in-disastrous-regions-through-technology-3209)
 - [How to Build a GraphQL API with Spring Boot](https://dev.to/oktadev/how-to-build-a-graphql-api-with-spring-boot-11ke)
+- [LeetCode 2. Add Two Numbers](https://dev.to/daveson217/leetcode-2-add-two-numbers-3j11)
 - [Hooking-up a headless CMS to React apps](https://dev.to/flotiq/hooking-up-a-headless-cms-to-react-apps-d4l)
-- [Day 29:🌐 Navigating Shared State Concurrency in Rust:- Sync, Send, and Atomic Wonders](https://dev.to/aniket_botre/day-29-navigating-shared-state-concurrency-in-rust-sync-send-and-atomic-wonders-4c49)
-- [4 Ins and Outs of 2024: Vector Database Edition](https://dev.to/zilliz/4-ins-and-outs-of-2024-vector-database-edition-31k1)
-- [Category Cleanup: 4 Ways Your Discussions Categories Can Be Better Optimized](https://dev.to/github/category-cleanup-4-ways-your-discussions-categories-can-be-better-optimized-46mj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
