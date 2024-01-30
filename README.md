@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Large Language Models](https://dev.to/danielwambo/large-language-model-7ab)
+- [Exploring Component Testing in Vue with Playwright](https://dev.to/mayashavin/exploring-component-testing-in-vue-with-playwright-27mi)
+- [Best Crypto To Invest in 2024 [Expert Guide]](https://dev.to/scofieldidehen/best-crypto-to-invest-in-2024-expert-guide-3mkp)
 - [Superpowers with Directives and Dependency Injection: Part 7](https://dev.to/this-is-angular/superpowers-with-directives-and-dependency-injection-part-7-4ll9)
-- [Npm vs Yarn](https://dev.to/codeparrot/npm-vs-yarn-35d6)
-- [Coexistence of containers and Helm charts - OCI based registries](https://dev.to/cyclops-ui/coexistence-of-containers-and-helm-charts-oci-based-registries-b6b)
-- [Building a AI Assistant to chat with your documents using Next.js and OpenAI](https://dev.to/mfts/building-a-ai-assistant-to-chat-with-your-documents-using-nextjs-and-openai-4ab6)
-- [Object-Oriented Programming](https://dev.to/scofieldidehen/object-oriented-programming-1c5h)
+- [Confidently Incorrect - Pico-8](https://dev.to/bradley-hill/confidently-incorrect-pico-8-id8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
