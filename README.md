@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How To Customize the Browser&#39;s Scrollbar with CSS](https://dev.to/sh20raj/how-to-customize-the-browsers-scrollbar-with-css-1443)
+- [13 Mind-Blowing CSS Tricks for Web Design Wizards ✨](https://dev.to/sh20raj/13-mind-blowing-css-tricks-for-web-design-wizards-3b4e)
+- [How to Add Preloader in HTML Page](https://dev.to/sh20raj/how-to-add-preloader-in-html-page-1koc)
 - [SES Observability with CDK + TS](https://dev.to/aws-builders/ses-observability-with-cdk-ts-1oop)
 - [Interview Question MongoDB](https://dev.to/avinashrepo/interview-question-mongodb-2oii)
-- [2024&#39;s Top Web Design Trends: Stay Ahead of the Curve](https://dev.to/ackomjnr/2024s-top-web-design-trends-stay-ahead-of-the-curve-45dn)
-- [Por que a sua desorganização financeira vai acabar com a sua carreira de dev!](https://dev.to/alexdlli/por-que-a-sua-desorganizacao-financeira-vai-acabar-com-a-sua-carreira-de-dev-5egh)
-- [Use CSS accent-color to style your inputs](https://dev.to/cassidoo/use-css-accent-color-to-style-your-inputs-54fk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
