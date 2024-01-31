@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [15 Google Drive Alternatives](https://dev.to/sh20raj/15-google-drive-alternatives-2140)
+- [Codepen Alternative - Codes20](https://dev.to/sh20raj/codepen-alternative-codes20-16i6)
+- [How to use redis with node.js](https://dev.to/divine_nnanna2/how-to-use-redis-with-nodejs-14id)
+- [Spoof Github as Google Drive for sharing PDFs](https://dev.to/harshkumar77/spoof-github-as-google-drive-for-sharing-pdfs-2dpi)
 - [Enhancing User Experience With Innovative Web Design Trends](https://dev.to/rajatp/enhancing-user-experience-with-innovative-web-design-trends-4mh3)
-- [UI for K8s - 👍🏻 / 👎🏻 ?](https://dev.to/cyclops-ui/ui-for-k8s--3eoj)
-- [How to Edit and Customize Your WordPress Theme?](https://dev.to/kemuhost/how-to-edit-and-customize-your-wordpress-theme-2hah)
-- [Responsible AI For Developers: Resources For Self-Guided Learning](https://dev.to/azure/responsible-ai-for-developers-resources-for-self-guided-learning-3lf9)
-- [Strategies for Success: Unveiling Potential AWS Migration Risks](https://dev.to/dhruvil_joshi14/strategies-for-success-unveiling-potential-aws-migration-risks-1ch9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
