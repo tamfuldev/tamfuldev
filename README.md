@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Enhancing User Experience With Innovative Web Design Trends](https://dev.to/rajatp/enhancing-user-experience-with-innovative-web-design-trends-4mh3)
+- [UI for K8s - 👍🏻 / 👎🏻 ?](https://dev.to/cyclops-ui/ui-for-k8s--3eoj)
+- [How to Edit and Customize Your WordPress Theme?](https://dev.to/kemuhost/how-to-edit-and-customize-your-wordpress-theme-2hah)
+- [Responsible AI For Developers: Resources For Self-Guided Learning](https://dev.to/azure/responsible-ai-for-developers-resources-for-self-guided-learning-3lf9)
 - [Strategies for Success: Unveiling Potential AWS Migration Risks](https://dev.to/dhruvil_joshi14/strategies-for-success-unveiling-potential-aws-migration-risks-1ch9)
-- [↔️ Sideway selection in CSS with :has&lpar;&rpar;](https://dev.to/francescovetere/-sideway-selection-in-css-with-has-28im)
-- [Correct way to upload File&lpar;s&rpar;](https://dev.to/codeparrot/correct-way-to-upload-files-40p)
-- [11 Slides CTOs Must Present In Their Next Board Meeting](https://dev.to/hatica/11-slides-ctos-must-present-in-their-next-board-meeting-4md7)
-- [Level Up Your Data Management Game: Unleash Performance in Aurora Limitless](https://dev.to/aws-builders/level-up-your-data-management-game-unleash-performance-in-aurora-limitless-375j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
