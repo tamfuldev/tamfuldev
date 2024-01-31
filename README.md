@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Removing React is just weakness leaving your codebase](https://dev.to/begin/removing-react-is-just-weakness-leaving-your-codebase-4pin)
-- [How to Recover Locally Deleted Files From Github](https://dev.to/alanscodelog/how-to-recover-locally-deleted-files-from-github-147k)
-- [Nx FullStack: Angular + NestJS](https://dev.to/matheusriann/nx-fullstack-angular-nestjs-5gfn)
-- [Cómo Integrar un Componente React en WordPress con Elementor: Mi Experiencia y Solución](https://dev.to/mendozalz/como-integrar-un-componente-react-en-wordpress-con-elementor-mi-experiencia-y-solucion-26c8)
-- [Jsonnet Adventures: Deploying our application to ArgoCD!](https://dev.to/kubeden/jsonnet-adventures-deploying-our-application-to-argocd-4fk2)
+- [Supercharging Localization in VS Code with inlang](https://dev.to/felixhaeberle/supercharging-localization-in-vs-code-with-inlang-2ii6)
+- [Writing a REST API in Rust](https://dev.to/shuttle_dev/writing-a-rest-api-in-rust-5f2m)
+- [Create Your E-Book: Converting Markdown to PDF and EPUB](https://dev.to/robertobutti/create-your-e-book-converting-markdown-to-pdf-and-epub-ekm)
+- [Updating your programs for S3 Express One Zone](https://dev.to/aws-builders/updating-your-programs-for-s3-express-one-zone-4j65)
+- [Salesforce Flow deactivation using Metadata API](https://dev.to/tdrnk/salesforce-flow-deactivation-using-metadata-api-5dn4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
