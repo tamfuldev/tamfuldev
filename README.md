@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Do You Overcome Leadership Loneliness?](https://dev.to/devteam/how-do-you-overcome-leadership-loneliness-11jb)
-- [Scraping Websites With Python Scrapy Spiders](https://dev.to/scofieldidehen/scraping-websites-with-python-scrapy-spiders-57f8)
-- [JavaScript Web APIs Series: File and Storage APIs](https://dev.to/olodocoder/javascript-web-apis-series-file-and-storage-apis-584o)
-- [10 Must-Have Qualities and Skills of an Angular Developer](https://dev.to/manavbhati25/10-must-have-qualities-and-skills-of-an-angular-developer-2hek)
-- [15 Google Drive Alternatives](https://dev.to/sh20raj/15-google-drive-alternatives-2140)
+- [Join Virtual Coffee in the Month of Learning Challenge!](https://dev.to/virtualcoffee/join-virtual-coffee-in-the-month-of-learning-challenge-bdi)
+- [Staying Consistent and Motivated as a Newbie in Coding and Tech 💻🚀](https://dev.to/fonyuygita/staying-consistent-and-motivated-as-a-newbie-in-coding-and-tech-285n)
+- [syntackle.live is now syntackle.com](https://dev.to/murtuzaalisurti/syntacklelive-is-now-syntacklecom-oi2)
+- [pgvector 0.6.0: 30x faster with parallel index builds](https://dev.to/supabase/pgvector-060-30x-faster-with-parallel-index-builds-i1l)
+- [Typical challenges faced while setting up CI/CD for Terraform at scale](https://dev.to/digger/typical-challenges-faced-while-setting-up-cicd-for-terraform-at-scale-37hn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
