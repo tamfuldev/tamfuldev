@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How Do You Overcome Leadership Loneliness?](https://dev.to/devteam/how-do-you-overcome-leadership-loneliness-11jb)
+- [Scraping Websites With Python Scrapy Spiders](https://dev.to/scofieldidehen/scraping-websites-with-python-scrapy-spiders-57f8)
+- [JavaScript Web APIs Series: File and Storage APIs](https://dev.to/olodocoder/javascript-web-apis-series-file-and-storage-apis-584o)
+- [10 Must-Have Qualities and Skills of an Angular Developer](https://dev.to/manavbhati25/10-must-have-qualities-and-skills-of-an-angular-developer-2hek)
 - [15 Google Drive Alternatives](https://dev.to/sh20raj/15-google-drive-alternatives-2140)
-- [Codepen Alternative - Codes20](https://dev.to/sh20raj/codepen-alternative-codes20-16i6)
-- [How to use redis with node.js](https://dev.to/divine_nnanna2/how-to-use-redis-with-nodejs-14id)
-- [Spoof Github as Google Drive for sharing PDFs](https://dev.to/harshkumar77/spoof-github-as-google-drive-for-sharing-pdfs-2dpi)
-- [Enhancing User Experience With Innovative Web Design Trends](https://dev.to/rajatp/enhancing-user-experience-with-innovative-web-design-trends-4mh3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
