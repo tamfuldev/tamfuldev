@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Sending Emails Made Easy Integrating Nodemailer with Reactjs](https://dev.to/scofieldidehen/sending-emails-made-easy-integrating-nodemailer-with-reactjs-2hl7)
+- [Why React Query is an awesome tool to manage Remote State in your applications](https://dev.to/ricardogesteves/why-react-query-is-an-awesome-tool-to-manage-remote-state-in-your-applications-4l6a)
+- [Welcome Thread - v261](https://dev.to/devteam/welcome-thread-v261-1goi)
+- [Understanding DevOps : A Step-by-Step Guide for Beginners](https://dev.to/xcoder03/devops-essentials-a-beginners-guide-22n9)
 - [Have you tried the Arc browser?](https://dev.to/ben/have-you-tried-the-arc-browser-3n9o)
-- [Javascript Promise](https://dev.to/barrisam/javascript-promise-3g6o)
-- [Pascal rodando na JVM](https://dev.to/alexgarzao/pascal-rodando-na-jvm-1m3b)
-- [Rapid Prototyping with Flask, Bootstrap and Secutio](https://dev.to/mrhdias/rapid-prototyping-with-flask-bootstrap-and-secutio-1719)
-- [Do Manual ao Automatizado: Explorando o Potencial do ModelMapper](https://dev.to/lutiu1245/do-manual-ao-automatizado-explorando-o-potencial-do-modelmapper-5k7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
