@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What to do if the query calculation is moved out of database but is too slow using java](https://dev.to/esproc_spl/what-to-do-if-the-query-calculation-is-moved-out-of-database-but-is-too-slow-using-java-4j86)
-- [Help us win the streak - Vote SuprSend](https://dev.to/nikl/help-us-win-the-streak-vote-suprsend-1ii6)
-- [Implementing Saga Pattern in Microservices with .NET Core: A Practical Guide](https://dev.to/yogini16/implementing-saga-pattern-in-microservices-with-net-core-a-practical-guide-5h54)
-- [How To Customize the Browser&#39;s Scrollbar with CSS](https://dev.to/sh20raj/how-to-customize-the-browsers-scrollbar-with-css-1443)
-- [13 Mind-Blowing CSS Tricks for Web Design Wizards ✨](https://dev.to/sh20raj/13-mind-blowing-css-tricks-for-web-design-wizards-3b4e)
+- [Embed Your GitHub Repo Files like Gists Using EdGitHub](https://dev.to/sh20raj/embed-your-github-repo-files-like-gists-using-edgithub-1a91)
+- [GitHub Actions Explained](https://dev.to/akebu6/github-actions-explained-bne)
+- [Plyr.io Video Player - Integration - Skin Customizing - Adding Download Button](https://dev.to/sh20raj/plyrio-video-player-integration-skin-customizing-adding-download-button-24ee)
+- [How to add Fluid Player to Simple HTML5 Video Player in your website](https://dev.to/sh20raj/how-to-add-fluid-player-to-simple-html5-video-player-in-your-website-3k96)
+- [Custom HTML5 Video Player with Vanilla JavaScript - KWG Video Player](https://dev.to/sh20raj/custom-html5-video-player-with-vanilla-javascript-kwg-video-player-560b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
