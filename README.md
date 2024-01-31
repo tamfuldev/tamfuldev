@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [next&lpar;&rpar;](https://dev.to/mustafacam/next-gp8)
+- [Amazon Q a new generative AI-powered assistant By AWS](https://dev.to/aws-builders/amazon-q-a-new-generative-ai-powered-assistant-by-aws-1i62)
+- [Handling Exceptions to impress in your Tech Interview](https://dev.to/lukeskw/handling-exceptions-to-impress-in-your-tech-interview-4hmf)
+- [Git Rebase vs. Merge Secrets](https://dev.to/hichem_fantar/git-rebase-vs-merge-secrets-4p75)
+- [AI for Web Devs: Addressing Bugs, Security, &amp; Reliability](https://dev.to/austingil/ai-for-web-devs-addressing-bugs-security-reliability-4jnm)
 - [Meet &#39;Awesome Topics&#39;](https://dev.to/mahmoudz/meet-awesome-topics-mkk)
-- [A guide to enabling partial pre-rendering in Next.js](https://dev.to/logrocket/a-guide-to-enabling-partial-pre-rendering-in-nextjs-127h)
-- [Firebase Firestore Security Rules Tutorial](https://dev.to/akashmallick/firebase-firestore-security-rules-tutorial-28lp)
-- [Build Binary Tree from Array](https://dev.to/sibprogrammer/build-binary-tree-from-array-1f5o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
