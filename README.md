@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Improving upon my OpenTelemetry Tracing demo](https://dev.to/apisix/improving-upon-my-opentelemetry-tracing-demo-1bjj)
-- [Understanding SSE&lpar;Server-Sent Events&rpar; and Its Benefits](https://dev.to/apisix/understanding-sseserver-sent-events-and-its-benefits-2bgo)
-- [A complete guide to open source - 100x simpler](https://dev.to/anmolbaranwal/a-complete-guide-to-open-source-100x-simpler-2d6c)
-- [Innovating for Equality: How Can Technology Address Racial Disparities?](https://dev.to/devteam/innovating-for-equality-how-can-technology-address-racial-disparities-bo8)
-- [Resize Image Uploads with Phoenix LiveView](https://dev.to/andersbjorkland/resize-image-uploads-with-phoenix-liveview-589n)
+- [The Importance of Software Testing: Ensuring Quality and Reliability](https://dev.to/talenttinaapi/the-importance-of-software-testing-ensuring-quality-and-reliability-5bdf)
+- [Introducing CodeSandbox CDE](https://dev.to/codesandboxio/introducing-codesandbox-cde-57am)
+- [🛡️4 Top Database Security Tools in 2024 🏆🔥](https://dev.to/bytebase/4-top-database-security-tools-22jj)
+- [WebScrapperJS - Get Content/HTML of any website without being blocked by CORS even using JavaScript by WhollyAPI](https://dev.to/sh20raj/webscrapperjs-get-contenthtml-of-any-website-without-being-blocked-by-cors-even-using-javascript-by-whollyapi-4fl0)
+- [Barrel files: A case study](https://dev.to/thepassle/barrel-files-a-case-study-o5p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
