@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [We&#39;re hiring!](https://dev.to/surrealdb/were-hiring-lgn)
+- [Exploring and testing API behavior with OpenAPI DevTools](https://dev.to/logrocket/exploring-and-testing-api-behavior-with-openapi-devtools-4be2)
 - [Navigating React&#39;s Seas of Data: The Enchantment of useContext - Part One](https://dev.to/capwellmurimi/navigating-reacts-seas-of-data-the-enchantment-of-usecontext-part-one-31d3)
+- [Reactive Computing Order](https://dev.to/ninjin/reactive-computing-order-1ef5)
 - [Using Azure OpenAI Service to generate images with DALL-E in .NET](https://dev.to/esdanielgomez/using-azure-openai-service-to-generate-images-with-dall-e-in-net-49n9)
-- [Visual Generated Blogging](https://dev.to/adam_cyclones/visual-generated-blogging-58c4)
-- [How to get promoted at your software job](https://dev.to/nandinishinduja/how-to-get-promoted-at-your-software-job-48gd)
-- [How to create modals with Rails and Hotwire &lpar;and Tailwind CSS&rpar;](https://dev.to/railsdesigner/how-to-create-modals-with-rails-and-hotwire-and-tailwind-css-55a7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
