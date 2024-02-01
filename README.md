@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Beautiful Custom Scrollbar for Website Using CSS ✨](https://dev.to/sh20raj/creating-a-beautiful-custom-scrollbar-for-website-using-css-4jo9)
+- [10 Organizations to Support for Black History Month](https://dev.to/devteam/10-organizations-to-support-for-black-history-month-2op0)
+- [Angular Tips: Transforming Observables into Signals for Enhanced Reactivity](https://dev.to/this-is-angular/angular-tips-transforming-observables-into-signals-for-enhanced-reactivity-8fh)
+- [Understanding Amazon S3 Pricing](https://dev.to/aws-builders/understanding-amazon-s3-pricing-4j4c)
 - [Announcing CrabNebula Cloud](https://dev.to/crabnebula/announcing-crabnebula-cloud-15hp)
-- [Crafting Custom Platforms in a Cloudy World ☁️](https://dev.to/winglang/crafting-custom-platforms-in-a-cloudy-world-3ib1)
-- [Sum of the diagonals of a matrice](https://dev.to/kecbm/sum-of-the-diagonals-of-a-matrice-g0f)
-- [Game Development and Multimedia: Godot Engine, A Game-Changer in Game Development](https://dev.to/opensauced/game-development-and-multimedia-godot-engine-a-game-changer-in-game-development-20l7)
-- [Best Hacking Tools for Beginners 2024](https://dev.to/scofieldidehen/best-hacking-tools-for-beginners-2024-a0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
