@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Innovating for Equality: How Can Technology Address Racial Disparities?](https://dev.to/devteam/innovating-for-equality-how-can-technology-address-racial-disparities-bo8)
 - [Silly Javascript, says true when asked if &lpar;0 == -null&rpar;; here&#39;s why...](https://dev.to/fahadachaudhry/silly-javascript-says-true-when-asked-if-0-null-heres-why-59l4)
 - [30 Bootstrap Navbar Examples](https://dev.to/sh20raj/30-bootstrap-navbar-examples-5ehk)
+- [A Beginner&#39;s Guide to Winning Smart India Hackathon](https://dev.to/ishikajain/a-beginners-guide-to-winning-smart-india-hackathon-1pei)
 - [Prepress Services UK: Hire Professionals For Printing Projects](https://dev.to/alphabpo/prepress-services-uk-hire-professionals-for-printing-projects-5780)
-- [Leveraging Free Templates for Website Development](https://dev.to/templatesjungle/leveraging-free-templates-for-website-development-5g6a)
-- [Top Sites to Get Remote Role in 2024](https://dev.to/scofieldidehen/top-sites-to-get-remote-role-in-2024-730)
 <!-- BLOG-POST-LIST:END -->
 
 ---
