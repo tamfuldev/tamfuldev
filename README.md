@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Discovery needs context](https://dev.to/qdrant/discovery-needs-context-45l)
-- [The Future of Staying Healthy: 10 Ways IOT Make Care Easier!](https://dev.to/devella/the-future-of-staying-healthy-10-ways-iot-make-care-easier-3g01)
-- [Automated Backups Made Easy: &amp; Lessons Learned From This Project](https://dev.to/stanleyogada/automated-backups-made-easy-lessons-learned-from-this-project-44h4)
-- [Career Paths in Front-End Development: Navigating the Opportunities](https://dev.to/hyscaler/career-paths-in-front-end-development-navigating-the-opportunities-d8p)
-- [The New Computer: Use Serverless to Build Your First AI-OS App](https://dev.to/dawiddahl/the-new-computer-use-serverless-to-build-your-first-ai-os-app-409)
+- [Announcing CrabNebula Cloud](https://dev.to/crabnebula/announcing-crabnebula-cloud-15hp)
+- [Crafting Custom Platforms in a Cloudy World ☁️](https://dev.to/winglang/crafting-custom-platforms-in-a-cloudy-world-3ib1)
+- [Sum of the diagonals of a matrice](https://dev.to/kecbm/sum-of-the-diagonals-of-a-matrice-g0f)
+- [Game Development and Multimedia: Godot Engine, A Game-Changer in Game Development](https://dev.to/opensauced/game-development-and-multimedia-godot-engine-a-game-changer-in-game-development-20l7)
+- [Best Hacking Tools for Beginners 2024](https://dev.to/scofieldidehen/best-hacking-tools-for-beginners-2024-a0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
