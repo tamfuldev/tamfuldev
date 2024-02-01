@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Beautiful Custom Scrollbar for Website Using CSS ✨](https://dev.to/sh20raj/creating-a-beautiful-custom-scrollbar-for-website-using-css-4jo9)
-- [10 Organizations to Support for Black History Month](https://dev.to/devteam/10-organizations-to-support-for-black-history-month-2op0)
-- [Angular Tips: Transforming Observables into Signals for Enhanced Reactivity](https://dev.to/this-is-angular/angular-tips-transforming-observables-into-signals-for-enhanced-reactivity-8fh)
-- [Understanding Amazon S3 Pricing](https://dev.to/aws-builders/understanding-amazon-s3-pricing-4j4c)
-- [Announcing CrabNebula Cloud](https://dev.to/crabnebula/announcing-crabnebula-cloud-15hp)
+- [Navigating React&#39;s Seas of Data: The Enchantment of useContext - Part One](https://dev.to/capwellmurimi/navigating-reacts-seas-of-data-the-enchantment-of-usecontext-part-one-31d3)
+- [Using Azure OpenAI Service to generate images with DALL-E in .NET](https://dev.to/esdanielgomez/using-azure-openai-service-to-generate-images-with-dall-e-in-net-49n9)
+- [Visual Generated Blogging](https://dev.to/adam_cyclones/visual-generated-blogging-58c4)
+- [How to get promoted at your software job](https://dev.to/nandinishinduja/how-to-get-promoted-at-your-software-job-48gd)
+- [How to create modals with Rails and Hotwire &lpar;and Tailwind CSS&rpar;](https://dev.to/railsdesigner/how-to-create-modals-with-rails-and-hotwire-and-tailwind-css-55a7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
