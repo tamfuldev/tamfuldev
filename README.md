@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tr Ngoc Tam</h1>
+<h1 align="center">Hi 👋, I'm Tran Ngoc Tam</h1>
 
 ---
 
