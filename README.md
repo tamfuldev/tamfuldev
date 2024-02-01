@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [BMF 📹 + Hugging Face🤗, The New Video Processing BFFs](https://dev.to/bytedanceoss/bmf-hugging-face-the-new-video-processing-bffs-59m8)
+- [CSS Grid vs. Flexbox: Choosing the Right Layout Technique for Your Project](https://dev.to/ackomjnr/css-grid-vs-flexbox-choosing-the-right-layout-technique-for-your-project-502e)
 - [Ultimate Collection of 60 YouTube Courses for 21 Programming Languages [MEGA LIST] 🔥🌟](https://dev.to/arjuncodess/ultimate-collection-of-60-youtube-courses-for-21-programming-languages-mega-list-47b5)
 - [Best Free and Paid GitHub Copilot Alternatives](https://dev.to/get_pieces/best-free-and-paid-github-copilot-alternatives-4mbe)
 - [Supercharging Localization in VS Code with inlang](https://dev.to/felixhaeberle/supercharging-localization-in-vs-code-with-inlang-2ii6)
-- [Writing a REST API in Rust](https://dev.to/shuttle_dev/writing-a-rest-api-in-rust-5f2m)
-- [Restful API Testing &lpar;my way&rpar; with Express, Maria DB, Docker Compose and Github Action](https://dev.to/lico/restful-api-testing-my-way-with-express-maria-db-docker-compose-and-github-action-1g0p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
