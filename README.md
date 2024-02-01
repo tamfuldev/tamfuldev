@@ -5,10 +5,10 @@
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
 - [Improving upon my OpenTelemetry Tracing demo](https://dev.to/apisix/improving-upon-my-opentelemetry-tracing-demo-1bjj)
+- [Understanding SSE&lpar;Server-Sent Events&rpar; and Its Benefits](https://dev.to/apisix/understanding-sseserver-sent-events-and-its-benefits-2bgo)
 - [A complete guide to open source - 100x simpler](https://dev.to/anmolbaranwal/a-complete-guide-to-open-source-100x-simpler-2d6c)
 - [Innovating for Equality: How Can Technology Address Racial Disparities?](https://dev.to/devteam/innovating-for-equality-how-can-technology-address-racial-disparities-bo8)
 - [Resize Image Uploads with Phoenix LiveView](https://dev.to/andersbjorkland/resize-image-uploads-with-phoenix-liveview-589n)
-- [Silly Javascript, says true when asked if &lpar;0 == -null&rpar;; here&#39;s why...](https://dev.to/fahadachaudhry/silly-javascript-says-true-when-asked-if-0-null-heres-why-59l4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
