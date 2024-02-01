@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [The New Computer: Use Serverless to Build Your First AI-OS App](https://dev.to/dawiddahl/the-new-computer-use-serverless-to-build-your-first-ai-os-app-409)
+- [How to Secure Your Network from Hackers?](https://dev.to/kemuhost/how-to-secure-your-network-from-hackers-3p9i)
 - [🚀 API Maker : Release Notes for v1.2.0](https://dev.to/apimaker/api-maker-release-notes-for-v120-5eof)
 - [Review: Logitech Litra Glow Premium LED Streaming Light with TrueSoft](https://dev.to/nickytonline/review-logitech-litra-glow-premium-led-streaming-light-with-truesoft-2p60)
 - [Personality&#39;s Impact on Career Growth](https://dev.to/mufli_mohideen/personalitys-impact-on-career-growth-57e)
-- [The Importance of Software Testing: Ensuring Quality and Reliability](https://dev.to/talenttinaapi/the-importance-of-software-testing-ensuring-quality-and-reliability-5bdf)
-- [Introducing CodeSandbox CDE](https://dev.to/codesandboxio/introducing-codesandbox-cde-57am)
 <!-- BLOG-POST-LIST:END -->
 
 ---
