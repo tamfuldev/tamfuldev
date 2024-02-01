@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [gli.js - lightweight jQuery Alternative](https://dev.to/sh20raj/glijs-lightweight-jquery-alternative-oem)
 - [BMF 📹 + Hugging Face🤗, The New Video Processing BFFs](https://dev.to/bytedanceoss/bmf-hugging-face-the-new-video-processing-bffs-59m8)
 - [CSS Grid vs. Flexbox: Choosing the Right Layout Technique for Your Project](https://dev.to/ackomjnr/css-grid-vs-flexbox-choosing-the-right-layout-technique-for-your-project-502e)
 - [Ultimate Collection of 60 YouTube Courses for 21 Programming Languages [MEGA LIST] 🔥🌟](https://dev.to/arjuncodess/ultimate-collection-of-60-youtube-courses-for-21-programming-languages-mega-list-47b5)
 - [Best Free and Paid GitHub Copilot Alternatives](https://dev.to/get_pieces/best-free-and-paid-github-copilot-alternatives-4mbe)
-- [Supercharging Localization in VS Code with inlang](https://dev.to/felixhaeberle/supercharging-localization-in-vs-code-with-inlang-2ii6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
