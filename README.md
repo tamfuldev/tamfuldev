@@ -5,10 +5,10 @@
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
 - [⟨ Cursor.sh ⟩ - a competitor to GitHub CoPilot](https://dev.to/maximsaplin/-cursorsh-a-competitor-to-github-copilot-58k4)
+- [Bianca Trinkenreich vence o Prêmio SIGSOFT 2024 na categoria Tese de Doutorado de Destaque](https://dev.to/fronteirases/bianca-trinkenreich-vence-o-premio-sigsoft-2024-na-categoria-tese-de-doutorado-de-destaque-14e)
 - [SOLID Principles: They&#39;re Rock-Solid for Good Reason!](https://dev.to/lukeskw/solid-principles-theyre-rock-solid-for-good-reason-31hn)
 - [Make Invalid States Unrepresentable](https://dev.to/awwsmm/make-invalid-states-unrepresentable-40np)
 - [Easiest way to add a video huddle to your application](https://dev.to/superviz/easiest-way-to-add-a-video-huddle-to-your-application-2nkj)
-- [Refining Your Code Craft: A Journey Through &#39;Five Lines of Code&#39;](https://dev.to/dev3l/refining-your-code-craft-a-journey-through-five-lines-of-code-4l9f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
