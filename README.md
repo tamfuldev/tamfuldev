@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Apache APISIX vs NGINX](https://dev.to/apisix/apache-apisix-vs-nginx-5h79)
 - [Hooking-up a headless CMS to React apps](https://dev.to/flotiq/hooking-up-a-headless-cms-to-react-apps-19d6)
 - [A simple guide to addressing single point of failure &lpar;SPOF&rpar; while evaluating external tools](https://dev.to/fyno/a-simple-guide-to-addressing-single-point-of-failure-spof-while-evaluating-external-tools-49k9)
 - [Innovation lessons from GitHub Chat and GitHub Copilot Labs](https://dev.to/opensauced/innovation-lessons-from-github-chat-and-github-copilot-labs-4lpi)
 - [The Top 10 CSS Frameworks for 2024](https://dev.to/sh20raj/the-top-10-css-frameworks-for-2024-431l)
-- [How to Remove or Extract Metadata from Markdown Files in JavaScript](https://dev.to/sh20raj/how-to-remove-or-extract-metadata-from-markdown-files-in-javascript-424c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
