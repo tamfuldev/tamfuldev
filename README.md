@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [⟨ Cursor.sh ⟩ - a competitor to GitHub CoPilot](https://dev.to/maximsaplin/-cursorsh-a-competitor-to-github-copilot-58k4)
+- [SOLID Principles: They&#39;re Rock-Solid for Good Reason!](https://dev.to/lukeskw/solid-principles-theyre-rock-solid-for-good-reason-31hn)
+- [Make Invalid States Unrepresentable](https://dev.to/awwsmm/make-invalid-states-unrepresentable-40np)
 - [Easiest way to add a video huddle to your application](https://dev.to/superviz/easiest-way-to-add-a-video-huddle-to-your-application-2nkj)
 - [Refining Your Code Craft: A Journey Through &#39;Five Lines of Code&#39;](https://dev.to/dev3l/refining-your-code-craft-a-journey-through-five-lines-of-code-4l9f)
-- [FastEmbed: Fast and Lightweight Embedding Generation for Text](https://dev.to/qdrant/fastembed-fast-and-lightweight-embedding-generation-for-text-4i6c)
-- [Build an Advanced Contact Form in React with Nodemailer](https://dev.to/scofieldidehen/build-an-advanced-contact-form-in-react-with-nodemailer-53f7)
-- [Elevating Customer Support With a LLM Whatsapp Travel Assistant.](https://dev.to/aws/elevating-customer-support-with-a-llm-whatsapp-travel-assistant-2f64)
 <!-- BLOG-POST-LIST:END -->
 
 ---
