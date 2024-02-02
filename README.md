@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Should you learn web development in 2024?](https://dev.to/ali-al-khuwaja/should-you-learn-web-development-in-2024-4dke)
+- [Programming Memes 😅](https://dev.to/sh20raj/programming-memes-3569)
+- [Engineering Bolt ⚡: #3 Friday Developer Fun 👻](https://dev.to/alexr/engineering-bolt-3-friday-developer-fun-230k)
+- [10 Hacks to Find a Remote Job in 2024](https://dev.to/scofieldidehen/10-hacks-to-find-a-remote-job-in-2024-35pc)
 - [How Google Drive handles HUGE File Uploads 🔥🔥](https://dev.to/codeparrot/how-google-drive-handles-huge-file-uploads-4c58)
-- [Migrating from Supabase and Prisma Accelerate to Convex](https://dev.to/ricardogesteves/migrating-from-supabase-and-prisma-accelerate-to-convex-jdk)
-- [60+ Amazing Free HTML Bootstrap Starter Templates to Jumpstart Your Projects](https://dev.to/purnimashrestha/60-amazing-free-html-bootstrap-starter-templates-to-jumpstart-your-projects-35pi)
-- [What Is Really A Senior Developer: Core Principles](https://dev.to/dragosnedelcu/what-is-really-a-senior-developer-core-principles-2dgm)
-- [Tailwind CSS vs Foundation: A Comparison of CSS Frameworks](https://dev.to/sikirumomodu/tailwind-css-vs-foundation-a-comparison-of-css-frameworks-47k7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
