@@ -16,7 +16,7 @@
 # Latest stack oveflow activity
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><tr><td>Strange Case of Colon in PHP</td><td>https://stackoverflow.com/questions/77924163/strange-case-of-colon-in-php</td></tr><tr><td>I can&#39;t Figure Out Why My Profile Pictures Aren&#39;t Appearing on my Profile Card</td><td>https://stackoverflow.com/questions/77924138/i-cant-figure-out-why-my-profile-pictures-arent-appearing-on-my-profile-card</td></tr><tr><td>Sum identical item id</td><td>https://stackoverflow.com/questions/77924115/sum-identical-item-id</td></tr><tr><td>Foreach of sum value with condition always increment</td><td>https://stackoverflow.com/questions/77923979/foreach-of-sum-value-with-condition-always-increment</td></tr><tr><td>Sorting a PHP array by date</td><td>https://stackoverflow.com/questions/77923828/sorting-a-php-array-by-date</td></tr><!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:START --><tr><td>It is a Telegram bot API bug?</td><td>https://stackoverflow.com/questions/77924353/it-is-a-telegram-bot-api-bug</td></tr><tr><td>Strange Case of Colon in PHP</td><td>https://stackoverflow.com/questions/77924163/strange-case-of-colon-in-php</td></tr><tr><td>I can&#39;t Figure Out Why My Profile Pictures Aren&#39;t Appearing on my Profile Card</td><td>https://stackoverflow.com/questions/77924138/i-cant-figure-out-why-my-profile-pictures-arent-appearing-on-my-profile-card</td></tr><tr><td>Sum identical item id</td><td>https://stackoverflow.com/questions/77924115/sum-identical-item-id</td></tr><tr><td>Foreach of sum value with condition always increment</td><td>https://stackoverflow.com/questions/77923979/foreach-of-sum-value-with-condition-always-increment</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 
 ---
