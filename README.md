@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [60+ Amazing Free HTML Bootstrap Starter Templates to Jumpstart Your Projects](https://dev.to/purnimashrestha/60-amazing-free-html-bootstrap-starter-templates-to-jumpstart-your-projects-35pi)
+- [What Is Really A Senior Developer: Core Principles](https://dev.to/dragosnedelcu/what-is-really-a-senior-developer-core-principles-2dgm)
 - [Tailwind CSS vs Foundation: A Comparison of CSS Frameworks](https://dev.to/sikirumomodu/tailwind-css-vs-foundation-a-comparison-of-css-frameworks-47k7)
-- [Introducing Glasskube🧊 — The Missing Package Manager For Kubernetes 📦](https://dev.to/glasskube/introducing-glasskube-the-missing-package-manager-for-kubernetes-1dfi)
-- [ParseMark.js - A lightweight JavaScript library for parsing Markdown metadata and content separately](https://dev.to/sh20raj/parsemarkjs-a-lightweight-javascript-library-for-parsing-markdown-metadata-and-content-separately-1o6j)
-- [Apache APISIX vs NGINX](https://dev.to/apisix/apache-apisix-vs-nginx-5h79)
-- [Hooking-up a headless CMS to React apps](https://dev.to/flotiq/hooking-up-a-headless-cms-to-react-apps-19d6)
+- [Ripple Co-Founder Chris Larsen Hacked For $112 Million](https://dev.to/endeo/ripple-co-founder-chris-larsen-hacked-for-112-million-371e)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-cga)
 <!-- BLOG-POST-LIST:END -->
 
 ---
