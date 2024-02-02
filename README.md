@@ -25,11 +25,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/trngtam10d/comic-site/pull/6) in [trngtam10d/comic-site](https://github.com/trngtam10d/comic-site)
-2. 💪 Opened PR [#40](https://github.com/trngtam10d/trngtam10d.github.io/pull/40) in [trngtam10d/trngtam10d.github.io](https://github.com/trngtam10d/trngtam10d.github.io)
-3. 💪 Opened PR [#39](https://github.com/trngtam10d/trngtam10d.github.io/pull/39) in [trngtam10d/trngtam10d.github.io](https://github.com/trngtam10d/trngtam10d.github.io)
-4. 💪 Opened PR [#38](https://github.com/trngtam10d/trngtam10d.github.io/pull/38) in [trngtam10d/trngtam10d.github.io](https://github.com/trngtam10d/trngtam10d.github.io)
-5. 💪 Opened PR [#37](https://github.com/trngtam10d/trngtam10d.github.io/pull/37) in [trngtam10d/trngtam10d.github.io](https://github.com/trngtam10d/trngtam10d.github.io)
+1. 💪 Opened PR [#45](https://github.com/trngtam10d/trngtam10d.github.io/pull/45) in [trngtam10d/trngtam10d.github.io](https://github.com/trngtam10d/trngtam10d.github.io)
+2. 💪 Opened PR [#44](https://github.com/trngtam10d/trngtam10d.github.io/pull/44) in [trngtam10d/trngtam10d.github.io](https://github.com/trngtam10d/trngtam10d.github.io)
+3. 💪 Opened PR [#43](https://github.com/trngtam10d/trngtam10d.github.io/pull/43) in [trngtam10d/trngtam10d.github.io](https://github.com/trngtam10d/trngtam10d.github.io)
+4. 💪 Opened PR [#42](https://github.com/trngtam10d/trngtam10d.github.io/pull/42) in [trngtam10d/trngtam10d.github.io](https://github.com/trngtam10d/trngtam10d.github.io)
+5. 💪 Opened PR [#41](https://github.com/trngtam10d/trngtam10d.github.io/pull/41) in [trngtam10d/trngtam10d.github.io](https://github.com/trngtam10d/trngtam10d.github.io)
 <!--END_SECTION:activity-->
 
 </details>
