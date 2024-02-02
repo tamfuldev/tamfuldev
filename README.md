@@ -8,7 +8,7 @@
 - [Programming Memes 😅](https://dev.to/sh20raj/programming-memes-3569)
 - [Engineering Bolt ⚡: #3 Friday Developer Fun 👻](https://dev.to/alexr/engineering-bolt-3-friday-developer-fun-230k)
 - [10 Hacks to Find a Remote Job in 2024](https://dev.to/scofieldidehen/10-hacks-to-find-a-remote-job-in-2024-35pc)
-- [How Google Drive handles HUGE File Uploads 🔥🔥](https://dev.to/codeparrot/how-google-drive-handles-huge-file-uploads-4c58)
+- [CSS: Position fixed div center container](https://dev.to/greggcbs/css-position-fixed-div-center-container-2g8c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
