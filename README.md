@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How to Remove or Extract Metadata from Markdown Files in JavaScript](https://dev.to/sh20raj/how-to-remove-or-extract-metadata-from-markdown-files-in-javascript-424c)
 - [NoteYard - Piano Notes | Keyboard Notes](https://dev.to/sh20raj/noteyard-piano-notes-keyboard-notes-363)
 - [Despidiéndome de Console.log](https://dev.to/altaskur/despidiendome-de-consolelog-5a6a)
 - [AI Grant Traction in OSS Startups](https://dev.to/opensauced/ai-grant-traction-in-oss-startups-20aa)
 - [How To Easily Make Your .NET AWS Lambda Function Idempotent](https://dev.to/rahulpnath/how-to-easily-make-your-net-aws-lambda-function-idempotent-4ij7)
-- [Event Driven Processing of ip-ranges.json](https://dev.to/mbacchi/event-driven-processing-of-ip-rangesjson-16i1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
