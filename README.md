@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Real-world Prometheus Deployment: A Practical Guide for Kubernetes Monitoring](https://dev.to/sre_panchanan/real-world-prometheus-deployment-a-practical-guide-for-kubernetes-monitoring-49nd)
+- [Efficiency: The Transformative Power of Time-Boxing](https://dev.to/stan8086/efficiency-the-transformative-power-of-time-boxing-4m3e)
 - [npm vs npx: Friends or Enemy?](https://dev.to/codeparrot/npm-vs-npx-friends-or-enemy-185k)
 - [Creating new Gist Using GitHub Access Token](https://dev.to/sh20raj/creating-new-gist-using-github-access-token-57il)
 - [Image zoom animation](https://dev.to/frikishaan/image-zoom-animation-2081)
-- [Introduction to Redis: A Powerful In-Memory Database](https://dev.to/jps27cse/introduction-to-redis-a-powerful-in-memory-database-13en)
-- [Web-Based Notifications with Firebase: A Comprehensive Guide](https://dev.to/madmax/web-based-notifications-with-firebase-a-comprehensive-guide-35pf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
