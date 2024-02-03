@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Boost Your Solidity Development Game with VS Code The Ultimate Setup Guide](https://dev.to/scofieldidehen/boost-your-solidity-development-game-with-vs-code-the-ultimate-setup-guide-37fa)
-- [Decoding PromQL: A Deep Dive into Prometheus Query Language](https://dev.to/sre_panchanan/decoding-promql-a-deep-dive-into-prometheus-query-language-4h23)
-- [Inversion of Control &lpar;Design Principle&rpar; &amp; Dependency Injection &lpar;Design Pattern&rpar;](https://dev.to/shameel/inversion-of-control-design-principle-dependency-injection-design-pattern-51c0)
-- [Git Good: Best Practices for Branch Naming and Commit Messages](https://dev.to/shinjithdev/git-good-best-practices-for-branch-naming-and-commit-messages-oj4)
-- [Real-world Prometheus Deployment: A Practical Guide for Kubernetes Monitoring](https://dev.to/sre_panchanan/real-world-prometheus-deployment-a-practical-guide-for-kubernetes-monitoring-49nd)
+- [API completa em Golang - Parte 7](https://dev.to/wiliamvj/api-completa-em-golang-parte-7-4ekg)
+- [How to Install KVM on Ubuntu? A Complete Guide](https://dev.to/serversupportexperts/how-to-install-kvm-on-ubuntu-a-complete-guide-m52)
+- [What is Regression?](https://dev.to/m__mdy__m/what-is-regression-1gno)
+- [A Comprehensive Guide to Log Query Language&lpar;LogQL&rpar;](https://dev.to/sre_panchanan/a-comprehensive-guide-to-log-query-languagelogql-12a6)
+- [Numpy Cheatsheet](https://dev.to/jagroop2001/numpy-cheetsheet-168o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
