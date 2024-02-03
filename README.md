@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Hashnode Blog GitHub Action - fetch and display the latest blogs in a nice format](https://dev.to/sachinchaurasiya/hashnode-blog-github-action-fetch-and-display-the-latest-blogs-in-a-nice-format-4f25)
+- [How Do You Declare Custom Classes in a Tailwindcss-React-ts project?](https://dev.to/hossain45/how-do-you-declare-custom-classes-in-a-tailwindcss-react-ts-project-1jag)
+- [Cloudflare Pages NextJs + D1 Database ᐧ My experience developing sharejson](https://dev.to/shrihari/cloudflare-pages-nextjs-d1-database-w-my-experience-developing-sharejson-ma3)
+- [YouTube Thumbnail Downloader](https://dev.to/sh20raj/youtube-thumbnail-downloader-5ff8)
 - [Introducing Grafana Loki: A Log Aggregation Tool](https://dev.to/sre_panchanan/introducing-grafana-loki-a-log-aggregation-tool-1e49)
-- [10 Cool CodePen Demos &lpar;January 2024&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-january-2024-1keg)
-- [How to Ensure Pixel-Perfect Comparisons Between Websites?](https://dev.to/sidmohanty11/how-to-ensure-pixel-perfect-comparisons-between-websites-26h6)
-- [Keyboard Shortcut Showdown: Mac vs. Windows](https://dev.to/sh20raj/keyboard-shortcut-showdown-mac-vs-windows-11if)
-- [Windows Keyboard Shortcuts](https://dev.to/sh20raj/windows-keyboard-shortcuts-17fk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
