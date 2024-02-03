@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Blogger Post Title Parsing Error Issue](https://dev.to/sh20raj/blogger-post-title-parsing-error-issue-1cc7)
+- [A new product : Need Feedback](https://dev.to/rudransh61/a-new-product-need-feedback-2m77)
+- [Code/Syntax Highlighting Using highlight.js - Displaying Code on Website/Blogger with jsDelivr CDN](https://dev.to/sh20raj/codesyntax-highlighting-using-highlightjs-displaying-code-on-websiteblogger-with-jsdelivr-cdn-pfd)
 - [GitCodeEmbedder - Free Embedder of GitHub Repo To Your Website / Blog](https://dev.to/sh20raj/gitcodeembedder-free-embedder-of-github-repo-to-your-website-blog-1he5)
 - [Mastering macOS: 17 Common Development Challenges and How to Overcome Them](https://dev.to/happyer/mastering-macos-17-common-development-challenges-and-how-to-overcome-them-1c5l)
-- [API completa em Golang - Parte 7](https://dev.to/wiliamvj/api-completa-em-golang-parte-7-4ekg)
-- [How to Install KVM on Ubuntu? A Complete Guide](https://dev.to/serversupportexperts/how-to-install-kvm-on-ubuntu-a-complete-guide-m52)
-- [What is Regression?](https://dev.to/m__mdy__m/what-is-regression-1gno)
 <!-- BLOG-POST-LIST:END -->
 
 ---
