@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Spring Scheduled and monitoring the task with Spring Actuator ️🕛️📈️](https://dev.to/ichwansh/introduction-to-spring-scheduled-and-monitoring-the-task-with-spring-actuator-5emj)
+- [Exploring Thanos Kube Chaos - A Kubernetes Chaos Engineering Tool](https://dev.to/angu10/exploring-thanos-kube-chaos-a-kubernetes-chaos-engineering-tool-2ld2)
+- [State Management in Angular with NgRx](https://dev.to/kartikmehta8/state-management-in-angular-with-ngrx-42fc)
 - [Top 5 Productivity tools for 2024 for Developers](https://dev.to/durgesh4993/top-5-productivity-tools-for-2024-for-developers-2hhp)
 - [What Are Some Strategies for Achieving Team Alignment?](https://dev.to/devteam/what-are-some-strategies-for-achieving-team-alignment-21ji)
-- [Tutorial: Integración de Azure Text-to-Speech en Astro.js](https://dev.to/danieljsaldana/tutorial-integracion-de-azure-text-to-speech-en-astrojs-1lga)
-- [MongoDB Quries](https://dev.to/avinashrepo/mongodb-quries-4a74)
-- [The Single Most Important Lesson I’ve Learned Working As A Software Engineer For 5+ Years](https://dev.to/_ndeyefatoudiop/the-single-most-important-lesson-ive-learned-working-as-a-software-engineer-for-5-years-169c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
