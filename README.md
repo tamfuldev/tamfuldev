@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [GitCodeEmbedder - Free Embedder of GitHub Repo To Your Website / Blog](https://dev.to/sh20raj/gitcodeembedder-free-embedder-of-github-repo-to-your-website-blog-1he5)
+- [Mastering macOS: 17 Common Development Challenges and How to Overcome Them](https://dev.to/happyer/mastering-macos-17-common-development-challenges-and-how-to-overcome-them-1c5l)
 - [API completa em Golang - Parte 7](https://dev.to/wiliamvj/api-completa-em-golang-parte-7-4ekg)
 - [How to Install KVM on Ubuntu? A Complete Guide](https://dev.to/serversupportexperts/how-to-install-kvm-on-ubuntu-a-complete-guide-m52)
 - [What is Regression?](https://dev.to/m__mdy__m/what-is-regression-1gno)
-- [A Comprehensive Guide to Log Query Language&lpar;LogQL&rpar;](https://dev.to/sre_panchanan/a-comprehensive-guide-to-log-query-languagelogql-12a6)
-- [Numpy Cheatsheet](https://dev.to/jagroop2001/numpy-cheetsheet-168o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
