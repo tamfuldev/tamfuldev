@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Image zoom animation](https://dev.to/frikishaan/image-zoom-animation-2081)
+- [Introduction to Redis: A Powerful In-Memory Database](https://dev.to/jps27cse/introduction-to-redis-a-powerful-in-memory-database-13en)
+- [Web-Based Notifications with Firebase: A Comprehensive Guide](https://dev.to/madmax/web-based-notifications-with-firebase-a-comprehensive-guide-35pf)
 - [End-to-end Flutter Architecture Guide](https://dev.to/yatendra2001/end-to-end-flutter-architecture-guide-1pbh)
 - [Introducing Prometheus: A Dive into Advanced System Monitoring 🚀](https://dev.to/sre_panchanan/introducing-prometheus-a-dive-into-advanced-system-monitoring-2hnj)
-- [ArticlePlanet - Write, Learn and Share Stories with the world](https://dev.to/sh20raj/articleplanet-write-learn-and-share-stories-with-the-world-b3n)
-- [JS ES6 Features](https://dev.to/avinashrepo/js-es6-features-2d4m)
-- [Exploring OAuth 2.0: Enabling Google Authentication in a Pure Browser-Based Web App &lpar;1&rpar;](https://dev.to/wanggithub0/exploring-oauth-20-enabling-google-authentication-in-a-pure-browser-based-web-app-1-59mg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
