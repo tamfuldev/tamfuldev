@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Blogger Post Title Parsing Error Issue](https://dev.to/sh20raj/blogger-post-title-parsing-error-issue-1cc7)
-- [A new product : Need Feedback](https://dev.to/rudransh61/a-new-product-need-feedback-2m77)
-- [Code/Syntax Highlighting Using highlight.js - Displaying Code on Website/Blogger with jsDelivr CDN](https://dev.to/sh20raj/codesyntax-highlighting-using-highlightjs-displaying-code-on-websiteblogger-with-jsdelivr-cdn-pfd)
-- [GitCodeEmbedder - Free Embedder of GitHub Repo To Your Website / Blog](https://dev.to/sh20raj/gitcodeembedder-free-embedder-of-github-repo-to-your-website-blog-1he5)
-- [Mastering macOS: 17 Common Development Challenges and How to Overcome Them](https://dev.to/happyer/mastering-macos-17-common-development-challenges-and-how-to-overcome-them-1c5l)
+- [Introducing Grafana Loki: A Log Aggregation Tool](https://dev.to/sre_panchanan/introducing-grafana-loki-a-log-aggregation-tool-1e49)
+- [10 Cool CodePen Demos &lpar;January 2024&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-january-2024-1keg)
+- [How to Ensure Pixel-Perfect Comparisons Between Websites?](https://dev.to/sidmohanty11/how-to-ensure-pixel-perfect-comparisons-between-websites-26h6)
+- [Keyboard Shortcut Showdown: Mac vs. Windows](https://dev.to/sh20raj/keyboard-shortcut-showdown-mac-vs-windows-11if)
+- [Windows Keyboard Shortcuts](https://dev.to/sh20raj/windows-keyboard-shortcuts-17fk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
