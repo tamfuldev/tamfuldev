@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [npm vs npx: Friends or Enemy?](https://dev.to/codeparrot/npm-vs-npx-friends-or-enemy-185k)
+- [Creating new Gist Using GitHub Access Token](https://dev.to/sh20raj/creating-new-gist-using-github-access-token-57il)
 - [Image zoom animation](https://dev.to/frikishaan/image-zoom-animation-2081)
 - [Introduction to Redis: A Powerful In-Memory Database](https://dev.to/jps27cse/introduction-to-redis-a-powerful-in-memory-database-13en)
 - [Web-Based Notifications with Firebase: A Comprehensive Guide](https://dev.to/madmax/web-based-notifications-with-firebase-a-comprehensive-guide-35pf)
-- [End-to-end Flutter Architecture Guide](https://dev.to/yatendra2001/end-to-end-flutter-architecture-guide-1pbh)
-- [Introducing Prometheus: A Dive into Advanced System Monitoring 🚀](https://dev.to/sre_panchanan/introducing-prometheus-a-dive-into-advanced-system-monitoring-2hnj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
