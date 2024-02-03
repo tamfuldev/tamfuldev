@@ -7,8 +7,8 @@
 - [Introduction to Spring Scheduled and monitoring the task with Spring Actuator ️🕛️📈️](https://dev.to/ichwansh/introduction-to-spring-scheduled-and-monitoring-the-task-with-spring-actuator-5emj)
 - [Exploring Thanos Kube Chaos - A Kubernetes Chaos Engineering Tool](https://dev.to/angu10/exploring-thanos-kube-chaos-a-kubernetes-chaos-engineering-tool-2ld2)
 - [State Management in Angular with NgRx](https://dev.to/kartikmehta8/state-management-in-angular-with-ngrx-42fc)
-- [Top 5 Productivity tools for 2024 for Developers](https://dev.to/durgesh4993/top-5-productivity-tools-for-2024-for-developers-2hhp)
 - [What Are Some Strategies for Achieving Team Alignment?](https://dev.to/devteam/what-are-some-strategies-for-achieving-team-alignment-21ji)
+- [API Requests Validation With Express Validator.](https://dev.to/emmabase/api-requests-validation-with-express-validator-43gf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
