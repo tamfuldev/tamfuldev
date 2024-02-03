@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Build Chat PDF app in Python with LangChain, OpenAI, Streamlit | Full project | Learn Coding](https://dev.to/imrankh13332994/build-chat-pdf-app-in-python-with-langchain-openai-streamlit-full-project-learn-coding-2ii9)
 - [Hashnode Blog GitHub Action - fetch and display the latest blogs in a nice format](https://dev.to/sachinchaurasiya/hashnode-blog-github-action-fetch-and-display-the-latest-blogs-in-a-nice-format-4f25)
 - [How Do You Declare Custom Classes in a Tailwindcss-React-ts project?](https://dev.to/hossain45/how-do-you-declare-custom-classes-in-a-tailwindcss-react-ts-project-1jag)
 - [Cloudflare Pages NextJs + D1 Database ᐧ My experience developing sharejson](https://dev.to/shrihari/cloudflare-pages-nextjs-d1-database-w-my-experience-developing-sharejson-ma3)
 - [YouTube Thumbnail Downloader](https://dev.to/sh20raj/youtube-thumbnail-downloader-5ff8)
-- [Introducing Grafana Loki: A Log Aggregation Tool](https://dev.to/sre_panchanan/introducing-grafana-loki-a-log-aggregation-tool-1e49)
 <!-- BLOG-POST-LIST:END -->
 
 ---
