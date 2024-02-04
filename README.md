@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [🚀 DevSecOps ⚙️: &quot;Implementing OWASP Scanning on Maven Packages in AWS CodePipeline&quot;💭](https://dev.to/aws-builders/devsecops-implementing-owasp-scanning-on-maven-packages-in-aws-codepipeline-3cbf)
 - [Top 3 Exceptional Websites for Free Web Development Learning](https://dev.to/iamdoncarey/top-3-exceptional-websites-for-free-web-development-learning-5en5)
 - [A Dive into the React Native Buzz! 🚀](https://dev.to/mitchiemt11/a-dive-into-the-react-native-buzz-bb5)
 - [When Was the Last Time You Felt Truly Alive?](https://dev.to/devteam/when-was-the-last-time-you-felt-truly-alive-11ee)
 - [Deploy app to AWS by using Serverless Framework](https://dev.to/laurenceho/deploy-app-to-aws-by-using-serverless-framework-2gen)
-- [Have You Met Redux Toolkit? A Friendly Companion for Simpler State Management in React 🤗!](https://dev.to/respect17/have-you-met-redux-toolkit-a-friendly-companion-for-simpler-state-management-in-react--4kpj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
