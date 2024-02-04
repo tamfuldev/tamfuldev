@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [AWS open source newsletter, #187](https://dev.to/094459/aws-open-source-newsletter-187-9bi)
 - [Make followers count available publicly](https://dev.to/jagroop2001/make-followers-count-available-public-21j8)
+- [How I Raised My ML Skills Using This Simple Project](https://dev.to/lincemathew/how-i-raised-my-ml-skills-using-this-simple-project-57in)
 - [Classification in Machine Learning](https://dev.to/m__mdy__m/classification-in-machine-learning-411b)
 - [Getting started with Next.js and Github API](https://dev.to/varshithvhegde/getting-started-with-nextjs-and-github-api-k2h)
-- [Make your web feed easy to find, autodiscoverable even](https://dev.to/robole/make-your-web-feed-easy-to-find-autodiscoverable-even-21dh)
-- [Building an Advanced To-Do List with HTML, CSS, and JavaScript](https://dev.to/sh20raj/building-an-advanced-to-do-list-with-html-css-and-javascript-4emm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
