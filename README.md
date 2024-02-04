@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How to use Tabler Icons in your React Native project?](https://dev.to/burakgur/how-to-use-tabler-icons-in-your-react-native-project-h77)
 - [Enhancing Team Productivity with Jira: A Comprehensive Guide](https://dev.to/stan8086/enhancing-team-productivity-with-jira-a-comprehensive-guide-54oj)
 - [Goals For 2024](https://dev.to/manishmehra/goals-for-2024-3m8k)
 - [Effortless &amp; Serverless File Uploading: Unleashing the Power of AWS S3 presigned urls with Lambda 📂](https://dev.to/aws-builders/effortless-serverless-file-uploading-unleashing-the-power-of-aws-s3-presigned-urls-with-lambda-5704)
 - [How to Minimize React Bundle Size for Faster Loading Times](https://dev.to/tanishk15sharma/how-to-minimize-react-bundle-size-for-faster-loading-times-1gfm)
-- [Building Infinite Animated Scroll for React components](https://dev.to/snoblomma/building-infinite-animated-scroll-for-react-components-101f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
