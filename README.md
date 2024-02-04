@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Convert entire div data into image and save it into directory using JavaScript ft html2canvas.js](https://dev.to/sh20raj/convert-entire-div-data-into-image-and-save-it-into-directory-using-javascript-ft-html2canvasjs-b8k)
+- [Simplifying Data Analysis With AI and DevTools - for the non-Python developer!](https://dev.to/azure/simplifying-data-analysis-with-ai-and-devtools-for-the-non-python-developer-g94)
+- [C#: functional approaches explained solving one specific problem](https://dev.to/taqmuraz/c-functional-approaches-explained-solving-one-specific-problem-20k2)
+- [Unions &amp; std::variant in C++](https://dev.to/pauljlucas/unions-stdvariant-in-c-2op1)
 - [SMTP.js: Everything You Must Know](https://dev.to/scofieldidehen/smtpjs-everything-you-must-know-2iop)
-- [Struggling to Learn React Or Any JavaScript Framework? Here are 7 Mistakes Holding Back &lpar;And What To Do Instead&rpar; 💪🎉](https://dev.to/_ndeyefatoudiop/struggling-to-learn-react-or-any-javascript-framework-here-are-7-mistakes-holding-back-and-what-to-do-instead-31fn)
-- [AWS open source newsletter, #187](https://dev.to/094459/aws-open-source-newsletter-187-9bi)
-- [Make followers count available publicly](https://dev.to/jagroop2001/make-followers-count-available-public-21j8)
-- [How I Raised My ML Skills Using This Simple Project](https://dev.to/lincemathew/how-i-raised-my-ml-skills-using-this-simple-project-57in)
 <!-- BLOG-POST-LIST:END -->
 
 ---
