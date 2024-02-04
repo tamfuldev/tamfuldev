@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Enhancing Team Productivity with Jira: A Comprehensive Guide](https://dev.to/stan8086/enhancing-team-productivity-with-jira-a-comprehensive-guide-54oj)
 - [Goals For 2024](https://dev.to/manishmehra/goals-for-2024-3m8k)
+- [Effortless &amp; Serverless File Uploading: Unleashing the Power of AWS S3 presigned urls with Lambda 📂](https://dev.to/aws-builders/effortless-serverless-file-uploading-unleashing-the-power-of-aws-s3-presigned-urls-with-lambda-5704)
 - [How to Minimize React Bundle Size for Faster Loading Times](https://dev.to/tanishk15sharma/how-to-minimize-react-bundle-size-for-faster-loading-times-1gfm)
-- [&lpar;Easier&rpar; Root Cause Analysis of the Failure](https://dev.to/saint/easier-root-cause-analysis-of-the-failure-29gh)
-- [Top Soft Skills to Learn in 2024 for Career Development](https://dev.to/scofieldidehen/top-soft-skills-to-learn-in-2024-for-career-development-1mhf)
-- [Convert entire div data into image and save it into directory using JavaScript ft html2canvas.js](https://dev.to/sh20raj/convert-entire-div-data-into-image-and-save-it-into-directory-using-javascript-ft-html2canvasjs-b8k)
+- [Building Infinite Animated Scroll for React components](https://dev.to/snoblomma/building-infinite-animated-scroll-for-react-components-101f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
