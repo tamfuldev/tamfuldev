@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Deploy app to AWS by using Serverless Framework](https://dev.to/laurenceho/deploy-app-to-aws-by-using-serverless-framework-2gen)
+- [Have You Met Redux Toolkit? A Friendly Companion for Simpler State Management in React 🤗!](https://dev.to/respect17/have-you-met-redux-toolkit-a-friendly-companion-for-simpler-state-management-in-react--4kpj)
 - [Taking an Open Source Project to Release 1.1 🚀](https://dev.to/amnish04/taking-an-open-source-project-to-release-11-2ngg)
+- [What is Angular Query?](https://dev.to/this-is-angular/what-is-angular-query-276f)
 - [Apple Vision Pro is the best marketing campaign for Meta&#39;s Quest 3](https://dev.to/maximsaplin/apple-vision-pro-is-the-best-marketing-campaign-for-metas-quest-3-f6e)
-- [Demystifying Go Generics](https://dev.to/vivekalhat/demystifying-go-generics-5881)
-- [Unleashing the Power of PHP 8 Match Expression](https://dev.to/jeevanizm/unleashing-the-power-of-php-8-match-expression-38i6)
-- [Streamlining Role-Based Access Control in Next.js with Descope and Auth.js: A Step-by-Step Guide](https://dev.to/tmosko/streamlining-role-based-access-control-in-nextjs-with-descope-and-authjs-a-step-by-step-guide-hf5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
