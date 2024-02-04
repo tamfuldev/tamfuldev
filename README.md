@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [SMTP.js: Everything You Must Know](https://dev.to/scofieldidehen/smtpjs-everything-you-must-know-2iop)
+- [Struggling to Learn React Or Any JavaScript Framework? Here are 7 Mistakes Holding Back &lpar;And What To Do Instead&rpar; 💪🎉](https://dev.to/_ndeyefatoudiop/struggling-to-learn-react-or-any-javascript-framework-here-are-7-mistakes-holding-back-and-what-to-do-instead-31fn)
 - [AWS open source newsletter, #187](https://dev.to/094459/aws-open-source-newsletter-187-9bi)
 - [Make followers count available publicly](https://dev.to/jagroop2001/make-followers-count-available-public-21j8)
 - [How I Raised My ML Skills Using This Simple Project](https://dev.to/lincemathew/how-i-raised-my-ml-skills-using-this-simple-project-57in)
-- [Classification in Machine Learning](https://dev.to/m__mdy__m/classification-in-machine-learning-411b)
-- [Getting started with Next.js and Github API](https://dev.to/varshithvhegde/getting-started-with-nextjs-and-github-api-k2h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
