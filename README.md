@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Mystery Solved: 3 Ways to Center a Div](https://dev.to/sikirumomodu/mystery-solved-3-ways-to-center-a-div-3amd)
 - [AI Websites Collection](https://dev.to/sh20raj/ai-websites-collection-2eep)
+- [In What Ways Can Tech Be a Medium for Cultural Expression?](https://dev.to/devteam/in-what-ways-can-tech-be-a-medium-for-cultural-expression-4cng)
 - [Data Scientist Vs. Data Analyst: Which one fits you?](https://dev.to/evansifyke/data-scientist-vs-data-analyst-which-one-fits-you-2obb)
 - [Free High-Quality Photos, Videos, Music and More: A Guide to Royalty-Free Media](https://dev.to/sh20raj/free-high-quality-photos-videos-music-and-more-a-guide-to-royalty-free-media-148a)
-- [Generate Unlimited AI Images for Free Online](https://dev.to/sh20raj/generate-unlimited-ai-images-for-free-online-215h)
-- [🚀 DevSecOps ⚙️: &quot;Implementing OWASP Scanning on Maven Packages in AWS CodePipeline&quot;💭](https://dev.to/aws-builders/devsecops-implementing-owasp-scanning-on-maven-packages-in-aws-codepipeline-3cbf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
