@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Classification in Machine Learning](https://dev.to/m__mdy__m/classification-in-machine-learning-411b)
+- [Getting started with Next.js and Github API](https://dev.to/varshithvhegde/getting-started-with-nextjs-and-github-api-k2h)
 - [Make your web feed easy to find, autodiscoverable even](https://dev.to/robole/make-your-web-feed-easy-to-find-autodiscoverable-even-21dh)
 - [Building an Advanced To-Do List with HTML, CSS, and JavaScript](https://dev.to/sh20raj/building-an-advanced-to-do-list-with-html-css-and-javascript-4emm)
 - [Serverless Apache Zeppelin on AWS](https://dev.to/aws-builders/serverless-apache-zeppelin-on-aws-4m52)
-- [MongoDB - Animated, beginner overview](https://dev.to/techvision/mongodb-animated-beginner-overview-1m70)
-- [Regenerate Immediately and RSS](https://dev.to/codenameone/regenerate-immediately-and-rss-3dig)
 <!-- BLOG-POST-LIST:END -->
 
 ---
