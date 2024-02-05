@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How To Deploy A Pod On RunPod And Verify It Is Working](https://dev.to/furkangozukara/how-to-deploy-a-pod-on-runpod-and-verify-it-is-working-3pop)
+- [Autenticação com Golang e AWS Cognito](https://dev.to/wiliamvj/autenticacao-com-golang-e-aws-cognito-4ckh)
 - [Some great first posts from new authors 💞](https://dev.to/devteam/some-great-first-posts-from-new-authors-3g4d)
+- [Crafting Clean Code with Tailwind CSS and Vue Composition API](https://dev.to/bonbisu/crafting-clean-code-with-tailwind-css-and-vue-composition-api-3ile)
 - [How I saved 90% by switching NATs](https://dev.to/petegleeson/how-i-saved-90-by-switching-nats-36i)
-- [Featured Mod of the Month: Fabrizio Bagalá](https://dev.to/devteam/featured-mod-of-the-month-fabrizio-bagala-26ob)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2j17)
-- [DevRel Discussion](https://dev.to/lizzzzz/devrel-discussion-11kl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
