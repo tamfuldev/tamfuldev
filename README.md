@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Our New Writing Streak Badges! ✏️👌](https://dev.to/devteam/introducing-our-new-writing-streak-badges-2jh9)
-- [Meme Monday](https://dev.to/ben/meme-monday-27n8)
-- [What Is a Mobile Proxy - How Do They Work?](https://dev.to/toniaread/what-is-a-mobile-proxy-how-do-they-work-g84)
-- [What is Test Data in Software Testing](https://dev.to/devanshbhardwaj13/what-is-test-data-in-software-testing-4eam)
-- [What is toast notification? Implement react native toast message](https://dev.to/suprsend/what-is-toast-notification-implement-react-native-toast-message-2b8c)
+- [Getting Started in your Contributing Journey](https://dev.to/taipy/getting-started-in-your-contributing-journey-bel)
+- [Development Tools and Platforms: A Closer Look at API Testing with Hoppscotch](https://dev.to/opensauced/development-tools-and-platforms-a-closer-look-at-api-testing-with-hoppscotch-5hc3)
+- [Discover the Perfect Email Server: Sendmail vs. Postfix vs. Exchange vs Gmail](https://dev.to/scofieldidehen/discover-the-perfect-email-server-sendmail-vs-postfix-vs-exchange-vs-gmail-2ap0)
+- [Stop creating HTTP clients manually - Part I](https://dev.to/marcelowa/stop-creating-http-clients-manually-part-i-ce)
+- [React Native Storybook 7](https://dev.to/dannyhw/react-native-storybook-7-28n5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
