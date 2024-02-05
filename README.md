@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Agile Environment Security: Top DevOps Techniques](https://dev.to/cloudzenix24/agile-environment-security-top-devops-techniques-ef5)
+- [Learn Lambda Calculus in 10 minutes with OCaml](https://dev.to/chshersh/learn-lambda-calculus-in-10-minutes-with-ocaml-56ba)
+- [DynamicLoaderJS - Load content into web pages without page refresh](https://dev.to/sh20raj/dynamicloaderjs-load-content-into-web-pages-without-page-refresh-pih)
+- [Pyppeteer Tutorial: The Ultimate Guide to Using Puppeteer with Python](https://dev.to/lambdatest/pyppeteer-tutorial-the-ultimate-guide-to-using-puppeteer-with-python-1621)
+- [Elysia: A Bun-first Web Framework](https://dev.to/oggy107/elysia-a-bun-first-web-framework-1kf3)
 - [Authentication Best Practices: Building a Robust Authentication System](https://dev.to/vrtikaaa/authentication-best-practices-building-a-robust-authentication-system-3jj8)
-- [Banana encryption: Decoding Caesar Cipher with Power Automate](https://dev.to/balagmadhu/banana-encryption-decoding-caesar-cipher-with-power-automate-f1b)
-- [Using Microsoft Learn API to Validate Power Platform Makers](https://dev.to/wyattdave/using-microsoft-learn-api-to-validate-power-platform-makers-2moh)
-- [How to make a Coding Learning Environment Website in React JS?](https://dev.to/rohitashsingh89/how-to-make-a-coding-learning-environment-website-in-react-js-47d7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
