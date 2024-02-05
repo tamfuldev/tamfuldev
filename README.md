@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [FLaNK Stack 05 Feb 2024](https://dev.to/tspannhw/flank-stack-05-feb-2024-9fk)
-- [Machine Learning Algorithms](https://dev.to/m__mdy__m/machine-learning-algorithms-3hbc)
-- [The Rise of AI in Chatbot Development](https://dev.to/hyscaler/the-rise-of-ai-in-chatbot-development-34j9)
-- [Simplify Your Tests and Save Time: A Guide to Test Data Builders](https://dev.to/tiuwill/simplify-your-tests-and-save-time-a-guide-to-test-data-builders-51l2)
-- [Strategies for Success: Unveiling Potential AWS Migration Risks](https://dev.to/dhruvil_joshi14/strategies-for-success-unveiling-potential-aws-migration-risks-27lm)
+- [🚀HTTP Methods Explained](https://dev.to/dumebii/http-methods-explained-ki2)
+- [What is an Responsive Web Design?](https://dev.to/swamithedev/what-is-an-responsive-web-design-2d49)
+- [Everything you need to know about GIT](https://dev.to/reenatoteixeira/everything-that-you-need-to-know-about-git-2440)
+- [Best DEV.to Alternatives and Competitors in 2024](https://dev.to/sh20raj/best-devto-alternatives-and-competitors-in-2024-fc6)
+- [How to convert a TypeScript built-in enum to a GraphQL enum](https://dev.to/woovi/how-to-convert-a-typescript-built-in-enum-to-a-graphql-enum-2neh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
