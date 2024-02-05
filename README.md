@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [What is Test Data in Software Testing](https://dev.to/devanshbhardwaj13/what-is-test-data-in-software-testing-4eam)
+- [What is toast notification? Implement react native toast message](https://dev.to/suprsend/what-is-toast-notification-implement-react-native-toast-message-2b8c)
+- [I have optimized my work with text-to-SQL translator improved with vector search](https://dev.to/zakharsmirnoff/text-to-sql-translator-improved-with-vector-search-4km4)
 - [🚀HTTP Methods Explained](https://dev.to/dumebii/http-methods-explained-ki2)
 - [What is an Responsive Web Design?](https://dev.to/swamithedev/what-is-an-responsive-web-design-2d49)
-- [Everything you need to know about GIT](https://dev.to/reenatoteixeira/everything-that-you-need-to-know-about-git-2440)
-- [Best DEV.to Alternatives and Competitors in 2024](https://dev.to/sh20raj/best-devto-alternatives-and-competitors-in-2024-fc6)
-- [How to convert a TypeScript built-in enum to a GraphQL enum](https://dev.to/woovi/how-to-convert-a-typescript-built-in-enum-to-a-graphql-enum-2neh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
