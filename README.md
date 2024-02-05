@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Learn Lambda Calculus in 10 minutes with OCaml](https://dev.to/chshersh/learn-lambda-calculus-in-10-minutes-with-ocaml-56ba)
-- [DynamicLoaderJS - Load content into web pages without page refresh](https://dev.to/sh20raj/dynamicloaderjs-load-content-into-web-pages-without-page-refresh-pih)
-- [Pyppeteer Tutorial: The Ultimate Guide to Using Puppeteer with Python](https://dev.to/lambdatest/pyppeteer-tutorial-the-ultimate-guide-to-using-puppeteer-with-python-1621)
-- [Elysia: A Bun-first Web Framework](https://dev.to/oggy107/elysia-a-bun-first-web-framework-1kf3)
-- [Authentication Best Practices: Building a Robust Authentication System](https://dev.to/vrtikaaa/authentication-best-practices-building-a-robust-authentication-system-3jj8)
+- [Generative HTTP API Clients](https://dev.to/nguyenhongphat0/generative-http-api-clients-ica)
+- [Xata + Flutter: A getting started guide.](https://dev.to/hackmamba/xata-flutter-a-getting-started-guide-4a5b)
+- [Xata + Go: A getting started guide.](https://dev.to/hackmamba/xata-go-a-getting-started-guide-5aie)
+- [Xata + Rust: A getting started guide.](https://dev.to/hackmamba/xata-rust-a-getting-started-guide-5p4)
+- [One AI Tool For All Your Needs❗️](https://dev.to/grayhat/one-ai-tool-for-all-your-needs-l38)
 <!-- BLOG-POST-LIST:END -->
 
 ---
