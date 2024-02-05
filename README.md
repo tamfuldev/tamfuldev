@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey as a Hard of Hearing Software Engineer](https://dev.to/lauratesan/my-journey-as-a-hard-of-hearing-software-engineer-2ddc)
+- [How Do You Shift the Focus from Individual to Collective Success?](https://dev.to/devteam/how-do-you-shift-the-focus-from-individual-to-collective-success-433l)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-2n8e)
+- [Mastering Vue 3: A Comprehensive Guide to Building Modern Web Applications &lt;Part 7 /&gt;](https://dev.to/hanytaha61/mastering-vue-3-a-comprehensive-guide-to-building-modern-web-applications-3nnd)
+- [🚀 Quick guide to set up and customize your GitHub profile README!](https://dev.to/kibumpng/quick-guide-to-set-up-and-customize-your-github-profile-readme-4eb5)
 - [How to use Tabler Icons in your React Native project?](https://dev.to/burakgur/how-to-use-tabler-icons-in-your-react-native-project-h77)
-- [Enhancing Team Productivity with Jira: A Comprehensive Guide](https://dev.to/stan8086/enhancing-team-productivity-with-jira-a-comprehensive-guide-54oj)
-- [Goals For 2024](https://dev.to/manishmehra/goals-for-2024-3m8k)
-- [Effortless &amp; Serverless File Uploading: Unleashing the Power of AWS S3 presigned urls with Lambda 📂](https://dev.to/aws-builders/effortless-serverless-file-uploading-unleashing-the-power-of-aws-s3-presigned-urls-with-lambda-5704)
 <!-- BLOG-POST-LIST:END -->
 
 ---
