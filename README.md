@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Simplify Your Tests and Save Time: A Guide to Test Data Builders](https://dev.to/tiuwill/simplify-your-tests-and-save-time-a-guide-to-test-data-builders-51l2)
+- [Strategies for Success: Unveiling Potential AWS Migration Risks](https://dev.to/dhruvil_joshi14/strategies-for-success-unveiling-potential-aws-migration-risks-27lm)
 - [FOSDEM 2024 - Summary and Reflections](https://dev.to/janderssonse/fosdem-2024-summary-and-reflections-j3)
 - [Writing Python scripts to automate infrastructure in Terraform](https://dev.to/scofieldidehen/writing-python-scripts-to-automate-infrastructure-in-terraform-1li6)
 - [Choosing the Right AI Assistant Extension: A Comprehensive Guide](https://dev.to/geekyqee/choosing-the-right-ai-assistant-extension-a-comprehensive-guide-4c6m)
-- [🌐 Fundamental Pillars of Cloud Computing: IaaS, PaaS, SaaS](https://dev.to/serverspace/fundamental-pillars-of-cloud-computing-iaas-paas-saas-4k7m)
-- [Learn to Create Flowers Grid in CSS](https://dev.to/munimiftikhar/learn-to-create-flowers-grid-in-css-g6l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
