@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [S.O.L.I.D: The 5 Golden Rules to Level Up Your Coding Skills](https://dev.to/idanref/solid-the-5-golden-rules-to-level-up-your-coding-skills-2p82)
+- [Load balancers and Club Bouncers.](https://dev.to/rakoski___/load-balancers-and-a-comparison-with-club-bouncers-1mkj)
 - [How Do You Shift the Focus from Individual to Collective Success?](https://dev.to/devteam/how-do-you-shift-the-focus-from-individual-to-collective-success-433l)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-2n8e)
-- [Mastering Vue 3: A Comprehensive Guide to Building Modern Web Applications &lt;Part 7 /&gt;](https://dev.to/hanytaha61/mastering-vue-3-a-comprehensive-guide-to-building-modern-web-applications-3nnd)
-- [🚀 Quick guide to set up and customize your GitHub profile README!](https://dev.to/kibumpng/quick-guide-to-set-up-and-customize-your-github-profile-readme-4eb5)
-- [How to use Tabler Icons in your React Native project?](https://dev.to/burakgur/how-to-use-tabler-icons-in-your-react-native-project-h77)
+- [My Redemption Arc](https://dev.to/lessthan3/my-redemption-arc-4ebc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
