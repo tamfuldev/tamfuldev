@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Some great first posts from new authors 💞](https://dev.to/devteam/some-great-first-posts-from-new-authors-3g4d)
+- [How I saved 90% by switching NATs](https://dev.to/petegleeson/how-i-saved-90-by-switching-nats-36i)
 - [Featured Mod of the Month: Fabrizio Bagalá](https://dev.to/devteam/featured-mod-of-the-month-fabrizio-bagala-26ob)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2j17)
 - [DevRel Discussion](https://dev.to/lizzzzz/devrel-discussion-11kl)
-- [Vercel vs Netlify vs GitHub Pages](https://dev.to/sh20raj/vercel-vs-netlify-vs-github-pages-bem)
-- [Top Online IDE Websites in 2024 ⌨️](https://dev.to/sh20raj/top-online-ide-websites-in-2024-3kbd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
