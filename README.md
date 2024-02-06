@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Revolutionizing Design with AI: Transforming Wireframes into Polished Design Drafts](https://dev.to/happyer/revolutionizing-design-with-ai-transforming-wireframes-into-polished-design-drafts-4j5l)
+- [Delete git branches in batches](https://dev.to/akclown/delete-git-branches-in-batches-1h3m)
+- [Can you create a SharePoint library to upload documents?](https://dev.to/jaloplo/can-you-create-a-sharepoint-library-to-upload-documents-4760)
+- [Component Testing in Vue: Using routing for states](https://dev.to/mayashavin/component-testing-in-vue-using-routing-for-states-189n)
 - [Why I won&#39;t use Next.js anymore 😡](https://dev.to/codeparrot/why-i-wont-use-nextjs-anymore-2k77)
-- [Challenging the Skeptics: Unveiling the Undeniable Goodness of Tailwind CSS](https://dev.to/opensauced/challenging-the-skeptics-unveiling-the-undeniable-goodness-of-tailwind-css-4doc)
-- [Adding a View Counter to Static Website with ViewCounter.io](https://dev.to/sh20raj/adding-a-view-counter-to-static-website-with-viewcounterio-5gp5)
-- [A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev](https://dev.to/sh20raj/a-list-of-saas-paas-and-iaas-offerings-that-have-free-tiers-of-interest-to-devops-and-infradev-9j4)
-- [🌟⚒️ How to Learn Web Development and Land a Job Faster in 2024 &lpar;Beginners&#39; Guide With Free Resources&rpar;](https://dev.to/chaoocharles/how-to-learn-web-development-and-land-a-job-faster-in-2024-beginners-guide-with-free-resources-3074)
 <!-- BLOG-POST-LIST:END -->
 
 ---
