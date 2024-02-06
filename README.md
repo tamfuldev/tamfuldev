@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Top 15 Tips to Make Your Webpage Load Faster](https://dev.to/sh20raj/top-15-tips-to-make-your-webpage-load-faster-3pmb)
+- [Habilidades en informática en la nube para 2024](https://dev.to/scofieldidehen/habilidades-en-informatica-en-la-nube-para-2024-2a7o)
+- [Building a CD Pipeline with GitOps and ArgoCD 🛠️](https://dev.to/sre_panchanan/building-a-cd-pipeline-with-gitops-and-argocd-51bk)
 - [Restore deleted/lost files with git](https://dev.to/this-is-learning/restore-deletedlost-files-with-git-3lf7)
-- [Value Over Features](https://dev.to/thenjdevopsguy/value-over-features-3c57)
-- [20+ Essential VS Code Shortcuts to Become a Ninja Coder &lpar;No Mouse Needed!&rpar;](https://dev.to/jitendrachoudhary/20-essential-vs-code-shortcuts-to-become-a-ninja-coder-no-mouse-needed-3pf4)
-- [The Liskov Substitution Principle Demystified](https://dev.to/thomasheniart/the-liskov-substitution-principle-demystified-cma)
-- [a solution to contributors creating multiple issues in open source - need feedback 🤞](https://dev.to/anmolbaranwal/a-solution-to-contributors-creating-multiple-issues-in-open-source-need-feedback-31cg)
+- [Building an MVP](https://dev.to/thiagomotasantos/building-a-mvp-23c3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
