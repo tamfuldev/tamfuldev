@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What is Hybrid Search?](https://dev.to/qdrant/what-is-hybrid-search-383g)
-- [Flight Slider in HTML + CSS](https://dev.to/alvaromontoro/flight-slider-in-html-css-3024)
-- [Comparing TypeScript state management solutions](https://dev.to/logrocket/comparing-typescript-state-management-solutions-228d)
-- [🔟 Short and Sweet JavaScript One-Liners for Mastery ⚡️🚀](https://dev.to/arjuncodess/short-and-sweet-javascript-one-liners-for-mastery-m74)
-- [strace Revisited: Simple is Beautiful](https://dev.to/codenameone/strace-revisited-simple-is-beautiful-4hge)
+- [Backup Sitecore Media Library items with a PowerShell script](https://dev.to/esdanielgomez/backup-sitecore-media-library-items-with-a-powershell-script-2bfc)
+- [Development Tools and Platforms: Create your Dev.to + Pipedream Automation in under 20 minutes](https://dev.to/opensauced/development-tools-and-platforms-create-your-devto-pipedream-automation-in-under-20-minutes-55b3)
+- [10 example of filter using in js](https://dev.to/avinashrepo/10-example-of-filter-using-in-js-5h6i)
+- [Software Career Advice](https://dev.to/pauljlucas/software-career-advice-15d)
+- [Exploring Top 5 CMS Alternatives to Strapi: Advantages and Real-World Applications](https://dev.to/nitin-rachabathuni/exploring-top-5-cms-alternatives-to-strapi-advantages-and-real-world-applications-5ck4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
