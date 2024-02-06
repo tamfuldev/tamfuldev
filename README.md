@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [What is Hybrid Search?](https://dev.to/qdrant/what-is-hybrid-search-383g)
+- [Flight Slider in HTML + CSS](https://dev.to/alvaromontoro/flight-slider-in-html-css-3024)
+- [Comparing TypeScript state management solutions](https://dev.to/logrocket/comparing-typescript-state-management-solutions-228d)
 - [🔟 Short and Sweet JavaScript One-Liners for Mastery ⚡️🚀](https://dev.to/arjuncodess/short-and-sweet-javascript-one-liners-for-mastery-m74)
 - [strace Revisited: Simple is Beautiful](https://dev.to/codenameone/strace-revisited-simple-is-beautiful-4hge)
-- [Control flow in Rust](https://dev.to/francescoxx/control-flow-in-rust-1fkp)
-- [Top 15 Tips to Make Your Webpage Load Faster](https://dev.to/sh20raj/top-15-tips-to-make-your-webpage-load-faster-3pmb)
-- [Habilidades en informática en la nube para 2024](https://dev.to/scofieldidehen/habilidades-en-informatica-en-la-nube-para-2024-2a7o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
