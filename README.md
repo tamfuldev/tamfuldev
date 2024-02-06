@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [A Code Newbie&#39;s Guide to Creating a Two-Column Layout](https://dev.to/theoriginalbpc/a-code-newbies-guide-to-creating-a-two-column-layout-1dp5)
+- [React Libraries to Use in Your Projects in 2024](https://dev.to/chanchals7/react-libraries-to-use-in-your-projects-in-2024-9eh)
+- [Choosing a FE framework in 2024, a practical tale](https://dev.to/n1tzan/choosing-a-fe-framework-in-2024-a-practical-tale-19ej)
+- [Open-source Python Youtube Downloader](https://dev.to/timotheemm/python-youtube-downloader-37ld)
 - [Backup Sitecore Media Library items with a PowerShell script](https://dev.to/esdanielgomez/backup-sitecore-media-library-items-with-a-powershell-script-2bfc)
-- [Development Tools and Platforms: Create your Dev.to + Pipedream Automation in under 20 minutes](https://dev.to/opensauced/development-tools-and-platforms-create-your-devto-pipedream-automation-in-under-20-minutes-55b3)
-- [10 example of filter using in js](https://dev.to/avinashrepo/10-example-of-filter-using-in-js-5h6i)
-- [Software Career Advice](https://dev.to/pauljlucas/software-career-advice-15d)
-- [Exploring Top 5 CMS Alternatives to Strapi: Advantages and Real-World Applications](https://dev.to/nitin-rachabathuni/exploring-top-5-cms-alternatives-to-strapi-advantages-and-real-world-applications-5ck4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
