@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Node.js CLI: Best Practices and Tips](https://dev.to/boudydegeer/mastering-nodejs-cli-best-practices-and-tips-7j5)
+- [Best Online IDE Websites in 2024 ⌨️](https://dev.to/sh20raj/best-online-ide-websites-in-2024-128b)
+- [Best Online IDE Websites in 2024 ⌨️](https://dev.to/sh20raj/best-online-ide-websites-in-2024-3m46)
+- [Bridging the Empathy Gap - Inclusive Web Development for Everyone](https://dev.to/josefine/bridging-the-empathy-gap-inclusive-web-development-for-everyone-3f9d)
 - [Revolutionizing Design with AI: Transforming Wireframes into Polished Design Drafts](https://dev.to/happyer/revolutionizing-design-with-ai-transforming-wireframes-into-polished-design-drafts-4j5l)
-- [Delete git branches in batches](https://dev.to/akclown/delete-git-branches-in-batches-1h3m)
-- [Can you create a SharePoint library to upload documents?](https://dev.to/jaloplo/can-you-create-a-sharepoint-library-to-upload-documents-4760)
-- [Component Testing in Vue: Using routing for states](https://dev.to/mayashavin/component-testing-in-vue-using-routing-for-states-189n)
-- [Why I won&#39;t use Next.js anymore 😡](https://dev.to/codeparrot/why-i-wont-use-nextjs-anymore-2k77)
 <!-- BLOG-POST-LIST:END -->
 
 ---
