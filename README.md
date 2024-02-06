@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [a solution to contributors creating multiple issues in open source - need feedback 🤞](https://dev.to/anmolbaranwal/a-solution-to-contributors-creating-multiple-issues-in-open-source-need-feedback-31cg)
 - [How to Apply Sorting on Tables in HTML Using JavaScript: Sortable Paginated Tables](https://dev.to/speaklouder/how-to-apply-sorting-on-tables-in-html-using-javascript-sortable-paginated-tables-590g)
 - [Harnessing the Power of Digital Mind Mapping: A Guide for the Productive Mind](https://dev.to/stan8086/harnessing-the-power-of-digital-mind-mapping-a-guide-for-the-productive-mind-2h3f)
+- [Advanced Usage of Angular Dependency Injection](https://dev.to/oz/advanced-usage-of-angular-dependency-injection-40op)
 - [gRPC Name Resolution &amp; Load Balancing on Kubernetes: Everything you need to know &lpar;and probably a bit more&rpar;](https://dev.to/homayoonalimohammadi/grpc-name-resolution-load-balancing-on-kubernetes-everything-you-need-to-know-and-probably-a-bit-more-3if6)
-- [Cloud Computing Skills for 2024](https://dev.to/scofieldidehen/cloud-computing-skills-for-2024-1o9a)
-- [Signals: the Do-s and the Don&#39;t-s](https://dev.to/this-is-angular/signals-the-do-s-and-the-dont-s-40fk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
