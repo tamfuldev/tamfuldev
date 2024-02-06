@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Cloud Computing Skills for 2024](https://dev.to/scofieldidehen/cloud-computing-skills-for-2024-1o9a)
+- [oImprove your README.md profile with these amazing badges 🚀](https://dev.to/sh20raj/improve-your-readmemd-profile-with-these-amazing-badges-5cii)
+- [Deep Learning: How to Accelerate Application Development](https://dev.to/wowohaha/deep-learning-how-to-accelerate-application-development-4dln)
 - [Mastering Node.js CLI: Best Practices and Tips](https://dev.to/boudydegeer/mastering-nodejs-cli-best-practices-and-tips-7j5)
 - [Best Online IDE Websites in 2024 ⌨️](https://dev.to/sh20raj/best-online-ide-websites-in-2024-128b)
-- [Best Online IDE Websites in 2024 ⌨️](https://dev.to/sh20raj/best-online-ide-websites-in-2024-3m46)
-- [Bridging the Empathy Gap - Inclusive Web Development for Everyone](https://dev.to/josefine/bridging-the-empathy-gap-inclusive-web-development-for-everyone-3f9d)
-- [Revolutionizing Design with AI: Transforming Wireframes into Polished Design Drafts](https://dev.to/happyer/revolutionizing-design-with-ai-transforming-wireframes-into-polished-design-drafts-4j5l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
