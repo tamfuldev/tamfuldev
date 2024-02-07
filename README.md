@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome Thread - v262](https://dev.to/devteam/welcome-thread-v262-140l)
+- [My Developer Nightmare](https://dev.to/johnrushx/my-developer-nightmare-2o1c)
+- [Fingerprint your native runtime with @expo/fingerprint](https://dev.to/expo/fingerprint-your-native-runtime-with-expofingerprint-13hb)
 - [O poder do FilamentPHP](https://dev.to/adryannekelly/o-poder-do-filamentphp-557h)
 - [System as a Canvas: A Visual Approach to System Documentation](https://dev.to/tamerssonis/system-as-a-canvas-a-visual-approach-to-system-documentation-hai)
-- [Interview Preparation](https://dev.to/rfornal/interview-preparation-247f)
-- [Analyze and debug Quarkus based AWS Lambda functions with X-Ray](https://dev.to/aws-builders/analyze-and-debug-quarkus-based-aws-lambda-functions-with-x-ray-3ke7)
-- [Simple Flask Integration for an Elastic Semantic Search App](https://dev.to/iuliaferoli/simple-flask-integration-for-an-elastic-semantic-search-app-587i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
