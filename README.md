@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [5 Web Development Project With Their GitHub Repository](https://dev.to/durgesh4993/5-web-development-project-with-their-github-repository-1jl0)
-- [The Impact of IoT on Mobile Application Development](https://dev.to/hyscaler/the-impact-of-iot-on-mobile-application-development-4jih)
-- [Primeiros passos no Docker](https://dev.to/clintonrocha98/primeiros-passos-no-docker-m0k)
-- [Attribute Based Access Control &lpar;ABAC&rpar; Implementation with Open Policy Agent &lpar;OPA&rpar;](https://dev.to/permify/attribute-based-access-control-abac-implementation-with-open-policy-agent-opa-479g)
-- [Unveiling the Top 5 Software Testing Techniques That Will Blow Your Mind!](https://dev.to/talenttinaapi/unveiling-the-top-5-software-testing-techniques-that-will-blow-your-mind-6jl)
+- [Making of AI tool Chatpdf.so](https://dev.to/alokkumar8/making-of-ai-tool-chatpdfso-1de1)
+- [New guidelines for email senders? &lpar;action might be required&rpar;](https://dev.to/nikoldimit/new-guidelines-for-email-senders-action-might-be-required-4if8)
+- [Simplifying Cybersecurity: Key Principles for a Robust Defense 🌐](https://dev.to/sre_panchanan/simplifying-cybersecurity-key-principles-for-a-robust-defense-377)
+- [Faster Postgres Queries with Cloudflare Hyperdrive and Neon](https://dev.to/hackmamba/faster-postgres-queries-with-cloudflare-hyperdrive-and-neon-4200)
+- [Rapyd Developer Demo: White Label Solutions with Tal](https://dev.to/uxdrew/rapyd-developer-demo-white-label-solutions-with-tal-3ncf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
