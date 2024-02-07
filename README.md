@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Making of AI tool Chatpdf.so](https://dev.to/alokkumar8/making-of-ai-tool-chatpdfso-1de1)
-- [New guidelines for email senders? &lpar;action might be required&rpar;](https://dev.to/nikoldimit/new-guidelines-for-email-senders-action-might-be-required-4if8)
-- [Simplifying Cybersecurity: Key Principles for a Robust Defense 🌐](https://dev.to/sre_panchanan/simplifying-cybersecurity-key-principles-for-a-robust-defense-377)
-- [Faster Postgres Queries with Cloudflare Hyperdrive and Neon](https://dev.to/hackmamba/faster-postgres-queries-with-cloudflare-hyperdrive-and-neon-4200)
-- [Rapyd Developer Demo: White Label Solutions with Tal](https://dev.to/uxdrew/rapyd-developer-demo-white-label-solutions-with-tal-3ncf)
+- [The Metamodern Data Stack - Built for the age of AI](https://dev.to/guerra2fernando/the-metamodern-data-stack-built-for-the-age-of-ai-24pa)
+- [🐱Product Hunt has become pay-to-win 💰, but you should still use it to launch your product 🚀](https://dev.to/wasp/product-hunt-has-become-pay-to-win-but-you-should-still-use-it-to-launch-your-product-508d)
+- [Comprehensive Guide to Flutter Development for macOS](https://dev.to/happyer/comprehensive-guide-to-flutter-development-for-macos-3182)
+- [Documenso v. Docusign: THE SHOWDOWN](https://dev.to/opensauced/documenso-v-docusign-the-showdown-g0c)
+- [Developer&#39;s Toolkit: Your Essential Open Source DevTools](https://dev.to/winglang/developers-toolkit-your-essential-open-source-devtools-hgc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
