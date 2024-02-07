@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [CI/CD Mastery Using DevOps Pipelines](https://dev.to/cloudzenix24/cicd-mastery-using-devops-pipelines-1jb4)
+- [Format numbers easily and nicely](https://dev.to/dhutaryan/format-numbers-easily-and-nicely-17a8)
 - [What Are the Chances of You Creating a Programming Language](https://dev.to/zenstack/what-are-the-chances-of-you-creating-a-programming-language-11d2)
 - [Tech Trends 2024: What&#39;s on the Horizon?](https://dev.to/dhruvjoshi9/tech-trends-2024-whats-on-the-horizon-47fh)
 - [Introducing MiniRx Signal Store](https://dev.to/this-is-angular/introducing-minirx-signal-store-cbo)
-- [7 Best WordPress AI Plugins to Try in 2024](https://dev.to/thenomadevel/7-best-wordpress-ai-plugins-to-try-in-2024-4kgf)
-- [10 INTERESTING STATISTICS ON API&lpar;s&rpar; FOR 2024](https://dev.to/mwendwabundi/10-interesting-statistics-on-apis-for-2024-1c5f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
