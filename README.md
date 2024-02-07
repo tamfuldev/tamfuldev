@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Get start with AWS!](https://dev.to/vng_bach/get-start-with-aws-104l)
 - [AI: The Modern Mage&#39;s Grimoire 🧙‍♂️✨](https://dev.to/aixart/ai-the-modern-mages-grimoire-34p1)
 - [System Design is More Important Than You Think](https://dev.to/dezhango/system-design-is-more-important-than-you-think-g0e)
 - [Welcome Thread - v262](https://dev.to/devteam/welcome-thread-v262-140l)
 - [My Developer Nightmare](https://dev.to/johnrushx/my-developer-nightmare-2o1c)
-- [Dynamic components – is it worth it?](https://dev.to/marcelluscaio/dynamic-components-is-it-worth-it-28m5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
