@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [AI: The Modern Mage&#39;s Grimoire 🧙‍♂️✨](https://dev.to/aixart/ai-the-modern-mages-grimoire-34p1)
+- [System Design is More Important Than You Think](https://dev.to/dezhango/system-design-is-more-important-than-you-think-g0e)
 - [Welcome Thread - v262](https://dev.to/devteam/welcome-thread-v262-140l)
 - [My Developer Nightmare](https://dev.to/johnrushx/my-developer-nightmare-2o1c)
-- [Fingerprint your native runtime with @expo/fingerprint](https://dev.to/expo/fingerprint-your-native-runtime-with-expofingerprint-13hb)
-- [O poder do FilamentPHP](https://dev.to/adryannekelly/o-poder-do-filamentphp-557h)
-- [System as a Canvas: A Visual Approach to System Documentation](https://dev.to/tamerssonis/system-as-a-canvas-a-visual-approach-to-system-documentation-hai)
+- [Dynamic components – is it worth it?](https://dev.to/marcelluscaio/dynamic-components-is-it-worth-it-28m5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
