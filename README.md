@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Building an uptime monitoring web service in Rust](https://dev.to/shuttle_dev/building-an-uptime-monitoring-web-service-in-rust-1o25)
+- [Terraform drift detection and remediation - a primer](https://dev.to/digger/terraform-drift-detection-and-remediation-a-primer-d1)
+- [The &quot;Mom Test&quot; in software development: asking good questions when everyone is lying to you](https://dev.to/graphite/the-mom-test-in-software-development-asking-good-questions-when-everyone-is-lying-to-you-2l3m)
 - [Supercharge Your Front-End Workflow in 2024: Must-Have VS Code Extensions](https://dev.to/daviewisdm/supercharge-your-front-end-workflow-in-2024-must-have-vs-code-extensions-9cj)
 - [The Lord of Playwright: The Two Traces](https://dev.to/kubeshop/the-lord-of-playwright-the-two-traces-358l)
-- [Glasskube is now part of the CNCF Landscape](https://dev.to/pmig/glasskube-is-now-part-of-the-cncf-landscape-1ae5)
-- [Writing Code like a Senior Developer in Laravel](https://dev.to/martintonev/writing-code-like-a-senior-developer-in-laravel-ddn)
-- [How Promoting Open-Source Can Become Problematic](https://dev.to/cyclops-ui/how-promoting-open-source-can-become-problematic-d3a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
