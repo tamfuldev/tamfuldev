@@ -7,8 +7,8 @@
 - [Authorization and Authentication in Django](https://dev.to/devendra_2806/authorization-and-authentication-in-django-j53)
 - [Rust wont save us, but it&#39;s ideas will](https://dev.to/glitchbyte/rust-wont-save-us-but-its-ideas-will-3f5p)
 - [Github Actions certificate](https://dev.to/rafael_svieira/github-actions-certificate-2hnj)
+- [GoF- Strategy Pattern](https://dev.to/binoy123/gof-strategy-pattern-3fg1)
 - [OOP via FP : functional nature of classes and objects](https://dev.to/taqmuraz/oop-via-fp-functional-nature-of-classes-and-objects-1i3m)
-- [Async and Await in JavaScript: A Comprehensive Guide](https://dev.to/mktheitguy/async-and-await-in-javascript-a-comprehensive-guide-1oka)
 <!-- BLOG-POST-LIST:END -->
 
 ---
