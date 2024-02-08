@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Behind The Scenes of console.log&lpar;&rpar; 😶‍🌫](https://dev.to/arjuncodess/behind-the-scenes-of-consolelog-2ojm)
+- [Understanding AWS Amplify Monitoring Metrics Definitions](https://dev.to/aws-builders/understanding-aws-amplify-monitoring-metrics-definitions-43c2)
+- [Why we chose Bun](https://dev.to/alertpix/why-we-chose-bun-28dk)
+- [Embracing the Future: Emerging Trends in Software Engineering](https://dev.to/daviewisdm/embracing-the-future-emerging-trends-in-software-engineering-2k0e)
 - [Beyond the Firewall: In-Depth Defense Strategies for Blue Teams, Part 1](https://dev.to/mohabgabber/beyond-the-firewall-in-depth-defense-strategies-for-blue-teams-part-1-46pg)
-- [React Usecallback for Kids/Beginners](https://dev.to/csituma/react-usecallback-for-kidsbeginners-18df)
-- [Simple SEO optimization for your Sveltekit website](https://dev.to/abdulmuminyqn/simple-seo-optimization-for-your-sveltekit-website-4lil)
-- [Why it is Important to Update Linters and How to Do it Right](https://dev.to/what1s1ove/why-it-is-important-to-update-linters-and-how-to-do-it-right-28gh)
-- [What is Motion Sensitivity? How to Design Accessible Web Animations](https://dev.to/ilizette/what-is-motion-sensitivity-how-to-design-accessible-web-animations-5dej)
 <!-- BLOG-POST-LIST:END -->
 
 ---
