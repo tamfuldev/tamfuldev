@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Web3 Vs Web2: The Untold Lies of Blockchain Technology](https://dev.to/scofieldidehen/web3-vs-web2-the-untold-lies-of-blockchain-technology-4l8m)
-- [The Mythical Data Team](https://dev.to/burakkarakan/the-mythical-data-team-mnm)
-- [Lets design a simple UI sign up glassmorphism page](https://dev.to/evansifyke/lets-design-a-simple-ui-sign-up-glassmorphism-page-o99)
-- [Getting User Feedback for Success: Tips and Tools](https://dev.to/opensauced/getting-user-feedback-for-success-tips-and-tools-42mo)
-- [Documenting Your Tech Journey: The Key to Success](https://dev.to/stanleyogada/documenting-your-tech-journey-the-key-to-success-5hkg)
+- [Supercharge Your Front-End Workflow in 2024: Must-Have VS Code Extensions](https://dev.to/daviewisdm/supercharge-your-front-end-workflow-in-2024-must-have-vs-code-extensions-9cj)
+- [The Lord of Playwright: The Two Traces](https://dev.to/kubeshop/the-lord-of-playwright-the-two-traces-358l)
+- [Glasskube is now part of the CNCF Landscape](https://dev.to/pmig/glasskube-is-now-part-of-the-cncf-landscape-1ae5)
+- [Writing Code like a Senior Developer in Laravel](https://dev.to/martintonev/writing-code-like-a-senior-developer-in-laravel-ddn)
+- [How Promoting Open-Source Can Become Problematic](https://dev.to/cyclops-ui/how-promoting-open-source-can-become-problematic-d3a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
