@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Beyond the Firewall: In-Depth Defense Strategies for Blue Teams, Part 1](https://dev.to/mohabgabber/beyond-the-firewall-in-depth-defense-strategies-for-blue-teams-part-1-46pg)
+- [React Usecallback for Kids/Beginners](https://dev.to/csituma/react-usecallback-for-kidsbeginners-18df)
 - [Simple SEO optimization for your Sveltekit website](https://dev.to/abdulmuminyqn/simple-seo-optimization-for-your-sveltekit-website-4lil)
 - [Why it is Important to Update Linters and How to Do it Right](https://dev.to/what1s1ove/why-it-is-important-to-update-linters-and-how-to-do-it-right-28gh)
 - [What is Motion Sensitivity? How to Design Accessible Web Animations](https://dev.to/ilizette/what-is-motion-sensitivity-how-to-design-accessible-web-animations-5dej)
-- [Hardening Apache APISIX with the OWASP&#39;s Coraza and Core Ruleset](https://dev.to/apisix/hardening-apache-apisix-with-the-owasps-coraza-and-core-ruleset-8la)
-- [CSS Cartoons](https://dev.to/alvaromontoro/css-cartoons-29bp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
