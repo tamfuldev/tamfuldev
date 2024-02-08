@@ -7,8 +7,8 @@
 - [OOP via FP : functional nature of classes and objects](https://dev.to/taqmuraz/oop-via-fp-functional-nature-of-classes-and-objects-1i3m)
 - [Async and Await in JavaScript: A Comprehensive Guide](https://dev.to/mktheitguy/async-and-await-in-javascript-a-comprehensive-guide-1oka)
 - [Generating Videos from Images with Stable Video Diffusion and FiftyOne](https://dev.to/voxel51/generating-videos-from-images-with-stable-video-diffusion-and-fiftyone-2ilm)
+- [Elevate Your GitHub README Game](https://dev.to/voxel51/elevate-your-github-readme-game-49mg)
 - [Debugging ☕ Kubernetes Pods Like A Champ 🦸🏻‍♂️](https://dev.to/awedis/debugging-kubernetes-pods-like-a-champ-1946)
-- [How to Build a Semantic Search Engine for Emojis](https://dev.to/voxel51/how-to-build-a-semantic-search-engine-for-emojis-1jbp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
