@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Ethernet and Fiber Op](https://dev.to/odoth4kz/wrapping-minds-around-cable-4d4e)
+- [Git Mastery: A Complete Guide](https://dev.to/hriztam/git-mastery-a-complete-guide-2450)
 - [How to run an AWS CIS v3.0 assessment in CloudShell](https://dev.to/aws-builders/how-to-run-an-aws-cis-v30-assessment-in-cloudshell-16o4)
 - [Next.js starter template](https://dev.to/skolaczk/nextjs-starter-template-26i6)
 - [LOOP, EXIT, CONTINUE and WHILE statements in PostgreSQL](https://dev.to/hyperkai/loop-exit-continue-and-while-statements-in-postgresql-1gbo)
-- [Usefull tools for svg](https://dev.to/designthinkerer/usefull-tools-for-svg-3132)
-- [Laravel code-quality tools](https://dev.to/honeybadger/laravel-code-quality-tools-44ml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
