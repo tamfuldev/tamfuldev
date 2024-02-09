@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [This Week In React #173: Million, Storybook, visionOS, Expo, Conform, Next.js, Remix, Astro, Apollo, useFormStatus...](https://dev.to/sebastienlorber/this-week-in-react-173-million-storybook-visionos-expo-conform-nextjs-remix-astro-apollo-useformstatus-49fj)
+- [The Weird Side Of JavaScript](https://dev.to/arafat4693/the-weird-side-of-javascript-5kl)
+- [.NET Core vs. .NET: Making the Right Choice for 2024](https://dev.to/glenallen/net-core-vs-net-making-the-right-choice-for-2024-p00)
+- [How to create a good README.md file](https://dev.to/yuridevat/how-to-create-a-good-readmemd-file-4pa2)
 - [My Coding Adventure: Balancing a full-time job, evening classes, and a Drum &amp; Bass events and DJing side hustle](https://dev.to/saradomincroft/my-coding-adventure-balancing-a-full-time-job-evening-classes-and-a-drum-bass-events-and-djing-side-hustle-4i0)
-- [10 Jobs Requiring Little Formal Education](https://dev.to/scofieldidehen/10-jobs-requiring-little-formal-education-5444)
-- [How to Format an eBook For Publishing?](https://dev.to/alphaebook/how-to-format-an-ebook-for-publishing-29h8)
-- [Docker Hands-On Part 02](https://dev.to/randiakm/docker-hands-on-part-02-34cj)
-- [Streamlining Infrastructure: Installing Backstage Developer Portal and Managing Azure Resources with Terraform &lpar;Part-2&rpar;](https://dev.to/gittest20202/streamlining-infrastructure-installing-backstage-developer-portal-and-managing-azure-resources-with-terraform-part-2-37bg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
