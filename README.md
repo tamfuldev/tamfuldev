@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [My Coding Adventure: Balancing a full-time job, evening classes, and a Drum &amp; Bass events and DJing side hustle](https://dev.to/saradomincroft/my-coding-adventure-balancing-a-full-time-job-evening-classes-and-a-drum-bass-events-and-djing-side-hustle-4i0)
 - [10 Jobs Requiring Little Formal Education](https://dev.to/scofieldidehen/10-jobs-requiring-little-formal-education-5444)
 - [How to Format an eBook For Publishing?](https://dev.to/alphaebook/how-to-format-an-ebook-for-publishing-29h8)
 - [Docker Hands-On Part 02](https://dev.to/randiakm/docker-hands-on-part-02-34cj)
 - [Streamlining Infrastructure: Installing Backstage Developer Portal and Managing Azure Resources with Terraform &lpar;Part-2&rpar;](https://dev.to/gittest20202/streamlining-infrastructure-installing-backstage-developer-portal-and-managing-azure-resources-with-terraform-part-2-37bg)
-- [Why use Obsidian for software development?](https://dev.to/sc0v0ne/why-use-obsidian-for-software-development-3j42)
 <!-- BLOG-POST-LIST:END -->
 
 ---
