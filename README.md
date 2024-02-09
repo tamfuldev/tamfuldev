@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Services](https://dev.to/vromanov/kubernetes-services-1bj)
-- [🔟Lesser-Used Yet Valuable HTML Tags👨‍💻](https://dev.to/sudhil/lesser-used-yet-valuable-html-tags-3ndh)
-- [Introduction To Tensors: The Building Blocks Of Artificial Intelligence](https://dev.to/cyber_holics/introduction-to-tensors-the-building-blocks-of-artificial-intelligence-3lcb)
-- [What Kinds of Projects Belong in Your Developer Portfolio? 🚀](https://dev.to/brian_curricular/what-kinds-of-projects-belong-in-your-portfolio-n9g)
-- [Cloudflare Workers: Unpacking My Fundamental Misunderstanding](https://dev.to/aantipov/cloudflare-workers-unpacking-my-fundamental-misunderstanding-5hjm)
+- [100+ JavaScript Projects With Source Code](https://dev.to/shantanu_jana/100-javascript-projects-with-source-code-59lo)
+- [Struggles with css](https://dev.to/eshwanthkartitr/struggles-with-css-405j)
+- [Reactivity Practicality in Popular JS Libraries](https://dev.to/ninjin/reactivity-practicality-in-popular-libraries-d6m)
+- [New React dev-tools](https://dev.to/trikiahmed/new-react-dev-tools-4g9a)
+- [The GitHub Community Roundup – 2024.02.09](https://dev.to/github/the-github-community-roundup-20240209-2pdj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
