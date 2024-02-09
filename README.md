@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [The Future of Blockchain in Digital Security](https://dev.to/codedecoders/the-future-of-blockchain-in-digital-security-42in)
+- [Optimizing DevOps automation in the AWS cloud with GitHub Actions](https://dev.to/devsatasurion/optimizing-devops-automation-in-the-aws-cloud-with-github-actions-42o8)
+- [Understanding RESTful API Development with Node.js and Express: A Guide to Controller Methods](https://dev.to/humjerry/understanding-restful-api-development-with-nodejs-and-express-a-guide-to-controller-methods-2al1)
+- [5 Best Instant Messaging APIs](https://dev.to/ably/5-best-instant-messaging-apis-4g7e)
 - [Boost Your Productivity with These 10 AI-Powered Tools!](https://dev.to/yogini16/boost-your-productivity-with-these-10-ai-powered-tools-34al)
-- [Dynamic URL routing with Kontent.ai](https://dev.to/byteminds_agency/dynamic-url-routing-with-kontentai-5d46)
-- [ChatGPT: 5 Common Mistakes And How To Prevent Them](https://dev.to/kwan/chatgpt-5-common-mistakes-and-how-to-prevent-them-3049)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1c72)
-- [20 Free HTML landing page templates](https://dev.to/purnimashrestha/20-free-html-landing-page-templates-484n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
