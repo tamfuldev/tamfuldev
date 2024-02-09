@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Docker With ASP.net](https://dev.to/hasanelsherbiny/docker-with-aspnet-4c0i)
 - [yararlı linkler](https://dev.to/mustafacam/yararli-linkler-22ab)
-- [Por que &quot;tudo junto&quot; é separado e &quot;separado&quot; é tudo junto? : divagações sobre estrutura de testes em .NET](https://dev.to/yanjustino/tudo-junto-e-separado-ou-separado-e-tudo-junto-divagacoes-sobre-estrutura-de-testes-em-net-4kmf)
+- [Por que &quot;tudo junto&quot; é separado e &quot;separado&quot; é tudo junto? Ou... divagações sobre estrutura de testes em .NET](https://dev.to/yanjustino/tudo-junto-e-separado-ou-separado-e-tudo-junto-divagacoes-sobre-estrutura-de-testes-em-net-4kmf)
 - [Versioning and Releasing Packages in a Monorepo](https://dev.to/nx/versioning-and-releasing-packages-in-a-monorepo-31pk)
 - [6 Essential Steps to Adding CSS to the Vision Board Website](https://dev.to/theoriginalbpc/6-essential-steps-to-adding-css-to-the-vision-board-website-4h03)
-- [HighLoad Saga. Part Two, Chapter 1: Storing the Data](https://dev.to/m0n0x41d/highload-saga-part-two-chapter-1-storing-the-data-hf2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
