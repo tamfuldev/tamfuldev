@@ -6,9 +6,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Why use Obsidian for software development?](https://dev.to/sc0v0ne/why-use-obsidian-for-software-development-3j42)
 - [Updates from the 100th TC39 meeting](https://dev.to/hemanth/updates-from-the-100th-tc39-meeting-4j2f)
+- [Configuring Prettier and ESLint in Your VSCode TypeScript Project](https://dev.to/nwhitmont/configuring-prettier-and-eslint-in-your-vscode-typescript-project-3fa9)
 - [Can Redis be used as a Primary database?](https://dev.to/nnomier/can-redis-be-used-as-a-primary-database-5d4b)
-- [⚡ I Made a JavaScript Library that Leaves Profanity Speechless! 🤬](https://dev.to/best_codes/how-i-built-a-profanity-blocking-javascript-library-f8f)
-- [Understanding Ethernet and Fiber Op](https://dev.to/odoth4kz/wrapping-minds-around-cable-4d4e)
+- [Array Destructuring no Javascript, você sabe o que é?](https://dev.to/falcao_g/array-destructuring-no-javascript-voce-sabe-o-que-e-1m6o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
