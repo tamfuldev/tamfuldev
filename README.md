@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [All Javascript Conferences in 2024](https://dev.to/techtalksweekly/all-javascript-conferences-in-2024-1l9c)
 - [100+ JavaScript Projects With Source Code](https://dev.to/shantanu_jana/100-javascript-projects-with-source-code-59lo)
 - [Struggles with css](https://dev.to/eshwanthkartitr/struggles-with-css-405j)
 - [Reactivity Practicality in Popular JS Libraries](https://dev.to/ninjin/reactivity-practicality-in-popular-libraries-d6m)
 - [New React dev-tools](https://dev.to/trikiahmed/new-react-dev-tools-4g9a)
-- [The GitHub Community Roundup – 2024.02.09](https://dev.to/github/the-github-community-roundup-20240209-2pdj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
