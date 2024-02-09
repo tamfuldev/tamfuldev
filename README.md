@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Build a Documentation Website with Gatsby in 10 Mins](https://dev.to/scofieldidehen/build-a-documentation-website-with-gatsby-in-10-mins-3b3m)
+- [A new online form builder alternative just dropped](https://dev.to/sididev/a-new-online-form-builder-alternative-just-dropped-4hl0)
 - [This Week In React #173: Million, Storybook, visionOS, Expo, Conform, Next.js, Remix, Astro, Apollo, useFormStatus...](https://dev.to/sebastienlorber/this-week-in-react-173-million-storybook-visionos-expo-conform-nextjs-remix-astro-apollo-useformstatus-49fj)
 - [The Weird Side Of JavaScript](https://dev.to/arafat4693/the-weird-side-of-javascript-5kl)
 - [.NET Core vs. .NET: Making the Right Choice for 2024](https://dev.to/glenallen/net-core-vs-net-making-the-right-choice-for-2024-p00)
-- [How to create a good README.md file](https://dev.to/yuridevat/how-to-create-a-good-readmemd-file-4pa2)
-- [My Coding Adventure: Balancing a full-time job, evening classes, and a Drum &amp; Bass events and DJing side hustle](https://dev.to/saradomincroft/my-coding-adventure-balancing-a-full-time-job-evening-classes-and-a-drum-bass-events-and-djing-side-hustle-4i0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
