@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Choosing Between a Streaming Database and a Stream Processing Framework in Python](https://dev.to/bobur/choosing-between-a-streaming-database-and-a-stream-processing-framework-in-python-2enp)
 - [Ultimate Cross-Platform Framework Selection: Flutter or React Native](https://dev.to/happyer/ultimate-cross-platform-framework-selection-flutter-or-react-native-5e11)
 - [Locally hosted AI writing assistant](https://dev.to/wagenrace/locally-hosted-ai-writing-assistant-1bfa)
 - [Do you use bcrypt or other 3rd-party npm packages when hashing user password?](https://dev.to/iamgreenintro/do-you-use-bcrypt-or-other-3rd-party-npm-packages-when-hashing-user-password-49bi)
 - [Advanced End-to-End DevOps Project: Deploying A Microservices APP To AWS EKS using Terraform, Helm, Jenkins And ArgoCD &lpar;Part I&rpar;](https://dev.to/kelvinskell/advanced-end-to-end-devops-project-deploying-a-microservices-app-to-aws-eks-using-terraform-helm-jenkins-and-argocd-part-i-3a53)
-- [I suck at writing!](https://dev.to/twomodone/i-suck-at-writing-22n3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
