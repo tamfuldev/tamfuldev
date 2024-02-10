@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Cracking the JD Code: How Important Are Job Requirements?](https://dev.to/devteam/cracking-the-jd-code-how-important-are-job-requirements-5f14)
 - [ChatCraft week 5: Storing multiple providers](https://dev.to/katiel/chatcraft-week-5-storing-multiple-providers-2mab)
 - [Fraud Capture: Identity Theft from a Data Science Perspective](https://dev.to/prove/fraud-capture-identity-theft-from-a-data-science-perspective-1bii)
 - [Why would you use Backend as a Service &lpar;BaaS&rpar;?](https://dev.to/opensauced/why-would-you-use-backend-as-a-service-baas-la7)
 - [Docker With ASP.net](https://dev.to/hasanelsherbiny/docker-with-aspnet-4c0i)
-- [yararlı linkler](https://dev.to/mustafacam/yararli-linkler-22ab)
 <!-- BLOG-POST-LIST:END -->
 
 ---
