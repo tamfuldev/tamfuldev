@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [JSON.stringify: JavaScript Serialization Simplified](https://dev.to/mitchiemt11/jsonstringify-javascript-serialization-simplified-5akf)
+- [Behind the Scenes: What Really Happens When You Type a URL in Your Browser](https://dev.to/markrizkalla/behind-the-scenes-what-really-happens-when-you-type-a-url-in-your-browser-4mcp)
+- [require Vs import: Old Vs New war in Javascript](https://dev.to/codeparrot/require-vs-import-old-vs-new-war-in-javascript-29gj)
+- [Encryption vs Hashing 🤔 Lets decode](https://dev.to/repana_tech_docs/encryption-vs-hashing-lets-decode-2a24)
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-4na)
-- [Understanding `this` keyword in javascript](https://dev.to/codeparrot/understanding-this-keyword-in-javascript-27bp)
-- [Angular 17.1 Testing Signal Inputs with Jest](https://dev.to/borisjenicek/harnessing-the-power-of-angular-signal-inputs-next-level-component-testing-4dg3)
-- [Plugin for Building and Managing Plugins!](https://dev.to/voxel51/plugin-for-building-and-managing-plugins-oap)
-- [8 Common Mistakes Web Developers Make and How They Can Be Avoided](https://dev.to/syedbalkhi/8-common-mistakes-web-developers-make-and-how-they-can-be-avoided-5c1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
