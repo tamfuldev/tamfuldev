@@ -16,7 +16,7 @@
 # Latest stack oveflow activity
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><tr><td>prefilled values in edit modal issue</td><td>https://stackoverflow.com/questions/77975761/prefilled-values-in-edit-modal-issue</td></tr><tr><td>No MySQL connection on ionos VPS</td><td>https://stackoverflow.com/questions/77975721/no-mysql-connection-on-ionos-vps</td></tr><tr><td>Change Width size of pdf print</td><td>https://stackoverflow.com/questions/77975692/change-width-size-of-pdf-print</td></tr><tr><td>Bulk Copy/Generate same file with different names</td><td>https://stackoverflow.com/questions/77975457/bulk-copy-generate-same-file-with-different-names</td></tr><tr><td>Log&lpar;&rpar; and Abs&lpar;&rpar; in PHP &lpar;Laravel&rpar;</td><td>https://stackoverflow.com/questions/77975439/log-and-abs-in-php-laravel</td></tr><!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:START --><tr><td>how to get set-cookie from response PHP?</td><td>https://stackoverflow.com/questions/77975974/how-to-get-set-cookie-from-response-php</td></tr><tr><td>PHP issuesCould not find PHP executable</td><td>https://stackoverflow.com/questions/77975921/php-issuescould-not-find-php-executable</td></tr><tr><td>prefilled values in edit modal issue</td><td>https://stackoverflow.com/questions/77975761/prefilled-values-in-edit-modal-issue</td></tr><tr><td>No MySQL connection on ionos VPS</td><td>https://stackoverflow.com/questions/77975721/no-mysql-connection-on-ionos-vps</td></tr><tr><td>Change Width size of pdf print</td><td>https://stackoverflow.com/questions/77975692/change-width-size-of-pdf-print</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 
 ---
