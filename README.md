@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Blogging Site with React and PHP: A Step-by-Step Guide](https://dev.to/mmainulhasan/building-a-blogging-site-with-react-and-php-a-step-by-step-guide-5bfi)
 - [Yet Another Newsletter LOL: Madden 2025](https://dev.to/nickytonline/yet-another-newsletter-lol-madden-2025-5g1m)
+- [Unlocking Data Potential with VS Code Data Wrangler: A Game-Changer for Developers and Data Analysts](https://dev.to/tahmidbintaslim/unlocking-data-potential-with-vs-code-data-wrangler-a-game-changer-for-developers-and-data-analysts-57dk)
 - [Efficient batch processing for event-driven chunking](https://dev.to/seongjin605/efficient-batch-processing-for-event-driven-chunking-imd)
 - [Headers y Spring Boot HTTP Interface](https://dev.to/agustinventura/headers-y-spring-boot-http-interface-4515)
-- [OWASP API3:2023 Broken Object Property Level Authorization 💔🔑🛠️](https://dev.to/sre_panchanan/broken-object-property-level-authorization-bk8)
-- [GitHub Repo Quick Setup on Terminal](https://dev.to/sh20raj/github-repo-quick-setup-on-terminal-4kf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
