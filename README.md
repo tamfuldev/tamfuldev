@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How to Force Quit Unresponsive Applications via CLI on macOS](https://dev.to/mochafreddo/how-to-force-quit-unresponsive-applications-via-cli-on-macos-490g)
 - [Dev.to Top Supported Embedding Liquid Syntax](https://dev.to/sh20raj/devto-top-liquid-syntax-2n07)
 - [Programming Memes](https://dev.to/programmingmemes/programming-memes-3ehl)
 - [Coding on a Chromebook](https://dev.to/kaamkiya/coding-on-a-chromebook-3egj)
 - [The CORS Conundrum](https://dev.to/umangsinha12/the-cors-conundrum-4k83)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4f8c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
