@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Programming Memes](https://dev.to/programmingmemes/programming-memes-3ehl)
+- [Coding on a Chromebook](https://dev.to/kaamkiya/coding-on-a-chromebook-3egj)
 - [The CORS Conundrum](https://dev.to/umangsinha12/the-cors-conundrum-4k83)
-- [Should You Be Documenting Your Coding Journey?](https://dev.to/devteam/should-you-be-documenting-your-coding-journey-56lm)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4f8c)
-- [🏆 Ultimate productivity system](https://dev.to/hexnickk/ultimate-productivity-system-2foo)
-- [Java Testing tools for 2024](https://dev.to/ivangavlik/java-testing-tools-for-2024-2di0)
+- [Should You Be Documenting Your Coding Journey?](https://dev.to/devteam/should-you-be-documenting-your-coding-journey-56lm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
