@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Music Monday — What are you listening to? &lpar;Blues &amp; Jazz Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-blues-jazz-edition-9ne)
+- [Discovering the Magic of Service Mesh: Navigating the Microservices Maze 🌐🕸️🕵️‍♂️](https://dev.to/sre_panchanan/discovering-the-magic-of-service-mesh-navigating-the-microservices-maze-40gf)
+- [What&#39;s new in Novu 0.23?](https://dev.to/novu/whats-new-in-novu-023-cfa)
+- [json-responder 1.1: dynamic path resolution](https://dev.to/nabbisen/json-responder-11-dynamic-path-resolution-3beg)
 - [More About File Operations in C Including File Descriptors](https://dev.to/thecodingcivilengineer/more-about-file-operations-in-c-including-file-descriptors-1ip8)
-- [Implementing a Service Oriented Architecture in 2024](https://dev.to/giteden/implementing-a-service-oriented-architecture-in-2024-56mn)
-- [AWS open source newsletter, #188](https://dev.to/aws/aws-open-source-newsletter-188-1fib)
-- [Top websites using NextJS](https://dev.to/sh20raj/top-websites-using-nextjs-4fin)
-- [Banana Decryption: Unpacking Caesar Cipher with Power Automate](https://dev.to/balagmadhu/banana-decryption-unpacking-caesar-cipher-with-power-automate-595p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
