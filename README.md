@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Guide to Creating Lambda Functions within AWS CDK Constructs](https://dev.to/saidurgach/guide-to-creating-lambda-functions-within-aws-cdk-constructs-1jbc)
+- [Codia AI: Shaping the Design and Code Revolution of 2024](https://dev.to/happyer/codia-ai-shaping-the-design-and-code-revolution-of-2024-1jf3)
+- [Meme Monday](https://dev.to/ben/meme-monday-4nn9)
+- [🇹🇭 A Trip to Thailand…Did it change my life as a Dev?](https://dev.to/evergrowingdev/a-trip-to-thailanddid-it-change-my-life-as-a-dev-3j3h)
 - [Install Go on Ubuntu: A Step-By-Step Guide](https://dev.to/serversupportexperts/install-go-on-ubuntu-a-step-by-step-guide-4goh)
-- [How you can create your own custom chatbot with your own custom data using Google Gemini API all for free](https://dev.to/wmisingo/how-you-can-create-your-own-custom-chatbot-with-your-own-custom-data-using-google-gemini-api-all-for-free-iap)
-- [🛠️ 7 React Projects to Build in 2024](https://dev.to/codebootcamp/7-react-projects-to-build-in-2024-1mhd)
-- [Button Component with CVA and Tailwind](https://dev.to/shubhamtiwari909/button-component-with-cva-and-tailwind-1fn8)
-- [Top 10 Healthcare App Development Tips &amp; Tricks in 2024](https://dev.to/dhruvjoshi9/top-10-healthcare-app-development-tips-tricks-in-2024-5c0j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
