@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Valentine day - Ask your girlfriend out in a geeky way](https://dev.to/saurabhnemade/valentine-day-ask-your-girlfriend-out-in-a-geeky-way-m61)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3180)
+- [7 Must-Have Figma Plugins for Effortless HTML &amp; CSS Conversion](https://dev.to/thenomadevel/7-must-have-figma-plugins-for-effortless-html-css-conversion-29m1)
+- [Creating Resizable Elements in Web Development](https://dev.to/sh20raj/creating-resizable-elements-in-web-development-3601)
 - [Notifications in flutter](https://dev.to/akashpattnaik/notifications-in-flutter-1ado)
 - [#100DaysOfCode with Daily Web Frontend Challenges](https://dev.to/bigsondev/100daysofcode-with-daily-challenges-3cm4)
-- [🔥🔥🔥 Awesome libs &amp; packages for WEB applications &amp; development &lpar;2024&rpar; 🔥🔥🔥](https://dev.to/cookiemonsterdev/awesome-libs-packages-for-web-applications-development-2024-44lj)
-- [Create Next js app in current directory](https://dev.to/sh20raj/create-next-js-app-in-current-directory-5f0d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
