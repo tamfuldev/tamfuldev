@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [StateX](https://dev.to/andrious/statex-4f99)
+- [[20 Days of DynamoDB] Day 19 - PartiQL Batch Operations](https://dev.to/aws/20-days-of-dynamodb-day-19-partiql-batch-operations-mg6)
 - [Performance at scale: Amazon Aurora](https://dev.to/farrukhkhalid/performance-at-scale-amazon-aurora-1o14)
+- [Goodbye Electron. Hello Tauri!](https://dev.to/dedsyn4ps3/goodbye-electron-hello-tauri-26d5)
 - [How Crucial is Your LinkedIn Profile?](https://dev.to/devteam/how-crucial-is-your-linkedin-profile-689)
-- [Optimizing Codebases for AI Development Era](https://dev.to/sip/optimizing-codebases-for-ai-development-era-2ajn)
-- [Sprint 1: Introduction to Ruby on Rails](https://dev.to/jpfababaer/sprint-1-introduction-to-ruby-on-rails-2g20)
-- [6 Ways You&#39;re Using ORMs Wrong and How To Fix](https://dev.to/nirtayeb/6-ways-youre-using-orms-wrong-and-how-to-fix-4edp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
