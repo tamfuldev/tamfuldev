@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Roundup 039 &lpar;Feb 5&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-039-feb-5-hot-topics-in-workplace-sharepoint-and-powerplatform-21a4)
+- [18 Must-Bookmark GitHub Repositories Every Developer Should Know](https://dev.to/devshefali/18-must-bookmark-github-repositories-every-developer-should-know-54ll)
+- [Learning AWS S3 on Localhost: Best Practices with Boto3 and LocalStack](https://dev.to/r0mymendez/learning-aws-s3-on-localhost-best-practices-with-boto3-and-localstack-cmn)
 - [Tech roles which are out there](https://dev.to/nandinishinduja/tech-roles-which-are-out-there-jlh)
 - [Build a Blog with React and Google Sheets | FullStack Course | PART 2 | Learn Coding](https://dev.to/imrankh13332994/build-a-blog-with-react-and-google-sheets-fullstack-course-part-2-learn-coding-18pd)
-- [Build a Blog with React and Google Sheets | FullStack Course | PART 1 | Learn Coding](https://dev.to/imrankh13332994/build-a-blog-with-react-and-google-sheets-fullstack-course-part-1-learn-coding-5gb7)
-- [Twitter Firings: the hatred towards programmers](https://dev.to/latobibor/twitter-firings-the-hatred-towards-programmers-4kgm)
-- [JavaScript Promises](https://dev.to/narenmnp/javascript-promises-3lgm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
