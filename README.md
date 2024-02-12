@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Valentine day - Ask your girlfriend out in a geeky way](https://dev.to/saurabhnemade/valentine-day-ask-your-girlfriend-out-in-a-geeky-way-m61)
+- [Notifications in flutter](https://dev.to/akashpattnaik/notifications-in-flutter-1ado)
 - [#100DaysOfCode with Daily Web Frontend Challenges](https://dev.to/bigsondev/100daysofcode-with-daily-challenges-3cm4)
+- [🔥🔥🔥 Awesome libs &amp; packages for WEB applications &amp; development &lpar;2024&rpar; 🔥🔥🔥](https://dev.to/cookiemonsterdev/awesome-libs-packages-for-web-applications-development-2024-44lj)
 - [Create Next js app in current directory](https://dev.to/sh20raj/create-next-js-app-in-current-directory-5f0d)
-- [Live Streaming from Unity with Amazon IVS - Part 1](https://dev.to/aws/live-streaming-from-unity-with-amazon-ivs-part-1-52nc)
-- [Add Tweets to Your React App using react-tweet](https://dev.to/arindam_1729/add-tweets-to-your-react-app-using-react-tweet-1o1)
-- [Private Routes in React](https://dev.to/arindam_1729/private-routes-in-react-1hh4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
