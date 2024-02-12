@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Top websites using NextJS](https://dev.to/sh20raj/top-websites-using-nextjs-4fin)
+- [Banana Decryption: Unpacking Caesar Cipher with Power Automate](https://dev.to/balagmadhu/banana-decryption-unpacking-caesar-cipher-with-power-automate-595p)
+- [Ensuring Business Continuity: How Penetration Testing Services Safeguard B2B Operations](https://dev.to/micromindercs/ensuring-business-continuity-how-penetration-testing-services-safeguard-b2b-operations-3phm)
+- [Un cóctel perfecto 🍹 ECS Fargate, Service Connect,Terraform y Github Actions.](https://dev.to/aws-espanol/un-coctel-perfecto-ecs-fargate-service-connectterraform-y-github-actions-139k)
 - [Weekly Roundup 039 &lpar;Feb 5&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-039-feb-5-hot-topics-in-workplace-sharepoint-and-powerplatform-21a4)
-- [18 Must-Bookmark GitHub Repositories Every Developer Should Know](https://dev.to/devshefali/18-must-bookmark-github-repositories-every-developer-should-know-54ll)
-- [Learning AWS S3 on Localhost: Best Practices with Boto3 and LocalStack](https://dev.to/r0mymendez/learning-aws-s3-on-localhost-best-practices-with-boto3-and-localstack-cmn)
-- [Tech roles which are out there](https://dev.to/nandinishinduja/tech-roles-which-are-out-there-jlh)
-- [Build a Blog with React and Google Sheets | FullStack Course | PART 2 | Learn Coding](https://dev.to/imrankh13332994/build-a-blog-with-react-and-google-sheets-fullstack-course-part-2-learn-coding-18pd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
