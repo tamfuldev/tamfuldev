@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Performance at scale: Amazon Aurora](https://dev.to/farrukhkhalid/performance-at-scale-amazon-aurora-1o14)
+- [How Crucial is Your LinkedIn Profile?](https://dev.to/devteam/how-crucial-is-your-linkedin-profile-689)
 - [Optimizing Codebases for AI Development Era](https://dev.to/sip/optimizing-codebases-for-ai-development-era-2ajn)
-- [Resolving Memory Fragmentation for Linkedlist Heap Allocator](https://dev.to/raineyanguoft/resolving-memory-fragmentation-for-linkedlist-heap-allocator-3j4a)
-- [Harnessing the Power of React: Unveiling its Strengths Over Other JavaScript Frameworks](https://dev.to/rukundoprince/harnessing-the-power-of-react-unveiling-its-strengths-over-other-javascript-frameworks-5fpa)
-- [Vector Database and Spring IA](https://dev.to/lucasnscr/vector-database-and-spring-ia-4dll)
-- [Unraveling the Layers of System Requirements in Software Architecture](https://dev.to/ndohjapan/unraveling-the-layers-of-system-requirements-in-software-architecture-api)
+- [Sprint 1: Introduction to Ruby on Rails](https://dev.to/jpfababaer/sprint-1-introduction-to-ruby-on-rails-2g20)
+- [6 Ways You&#39;re Using ORMs Wrong and How To Fix](https://dev.to/nirtayeb/6-ways-youre-using-orms-wrong-and-how-to-fix-4edp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
