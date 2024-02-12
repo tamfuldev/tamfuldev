@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Guide to Creating Lambda Functions within AWS CDK Constructs](https://dev.to/saidurgach/guide-to-creating-lambda-functions-within-aws-cdk-constructs-1jbc)
-- [Codia AI: Shaping the Design and Code Revolution of 2024](https://dev.to/happyer/codia-ai-shaping-the-design-and-code-revolution-of-2024-1jf3)
-- [Meme Monday](https://dev.to/ben/meme-monday-4nn9)
-- [🇹🇭 A Trip to Thailand…Did it change my life as a Dev?](https://dev.to/evergrowingdev/a-trip-to-thailanddid-it-change-my-life-as-a-dev-3j3h)
-- [Install Go on Ubuntu: A Step-By-Step Guide](https://dev.to/serversupportexperts/install-go-on-ubuntu-a-step-by-step-guide-4goh)
+- [#100DaysOfCode with Daily Web Frontend Challenges](https://dev.to/bigsondev/100daysofcode-with-daily-challenges-3cm4)
+- [Create Next js app in current directory](https://dev.to/sh20raj/create-next-js-app-in-current-directory-5f0d)
+- [Live Streaming from Unity with Amazon IVS - Part 1](https://dev.to/aws/live-streaming-from-unity-with-amazon-ivs-part-1-52nc)
+- [Add Tweets to Your React App using react-tweet](https://dev.to/arindam_1729/add-tweets-to-your-react-app-using-react-tweet-1o1)
+- [Private Routes in React](https://dev.to/arindam_1729/private-routes-in-react-1hh4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
