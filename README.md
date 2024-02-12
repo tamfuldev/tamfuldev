@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Build a simple code snippet manager with Neon’s serverless driver, Clerk, and Nextjs](https://dev.to/hackmamba/build-a-simple-code-snippet-manager-with-neons-serverless-driver-clerk-and-nextjs-2jeh)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3180)
 - [7 Must-Have Figma Plugins for Effortless HTML &amp; CSS Conversion](https://dev.to/thenomadevel/7-must-have-figma-plugins-for-effortless-html-css-conversion-29m1)
 - [Creating Resizable Elements in Web Development](https://dev.to/sh20raj/creating-resizable-elements-in-web-development-3601)
 - [Notifications in flutter](https://dev.to/akashpattnaik/notifications-in-flutter-1ado)
-- [#100DaysOfCode with Daily Web Frontend Challenges](https://dev.to/bigsondev/100daysofcode-with-daily-challenges-3cm4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
