@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [More About File Operations in C Including File Descriptors](https://dev.to/thecodingcivilengineer/more-about-file-operations-in-c-including-file-descriptors-1ip8)
+- [Implementing a Service Oriented Architecture in 2024](https://dev.to/giteden/implementing-a-service-oriented-architecture-in-2024-56mn)
+- [AWS open source newsletter, #188](https://dev.to/aws/aws-open-source-newsletter-188-1fib)
 - [Top websites using NextJS](https://dev.to/sh20raj/top-websites-using-nextjs-4fin)
 - [Banana Decryption: Unpacking Caesar Cipher with Power Automate](https://dev.to/balagmadhu/banana-decryption-unpacking-caesar-cipher-with-power-automate-595p)
-- [Ensuring Business Continuity: How Penetration Testing Services Safeguard B2B Operations](https://dev.to/micromindercs/ensuring-business-continuity-how-penetration-testing-services-safeguard-b2b-operations-3phm)
-- [Un cóctel perfecto 🍹 ECS Fargate, Service Connect,Terraform y Github Actions.](https://dev.to/aws-espanol/un-coctel-perfecto-ecs-fargate-service-connectterraform-y-github-actions-139k)
-- [Weekly Roundup 039 &lpar;Feb 5&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-039-feb-5-hot-topics-in-workplace-sharepoint-and-powerplatform-21a4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
