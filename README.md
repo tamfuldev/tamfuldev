@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter Firings: the hatred towards programmers](https://dev.to/latobibor/twitter-firings-the-hatred-towards-programmers-4kgm)
+- [JavaScript Promises](https://dev.to/narenmnp/javascript-promises-3lgm)
 - [StateX](https://dev.to/andrious/statex-4f99)
 - [[20 Days of DynamoDB] Day 19 - PartiQL Batch Operations](https://dev.to/aws/20-days-of-dynamodb-day-19-partiql-batch-operations-mg6)
-- [Performance at scale: Amazon Aurora](https://dev.to/farrukhkhalid/performance-at-scale-amazon-aurora-1o14)
-- [Goodbye Electron. Hello Tauri!](https://dev.to/dedsyn4ps3/goodbye-electron-hello-tauri-26d5)
-- [How Crucial is Your LinkedIn Profile?](https://dev.to/devteam/how-crucial-is-your-linkedin-profile-689)
+- [Understanding JavaScript Operators: A Comprehensive Guide](https://dev.to/devendra_2806/understanding-javascript-operators-a-comprehensive-guide-57j1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
