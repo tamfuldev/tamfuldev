@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Tech roles which are out there](https://dev.to/nandinishinduja/tech-roles-which-are-out-there-jlh)
+- [Build a Blog with React and Google Sheets | FullStack Course | PART 2 | Learn Coding](https://dev.to/imrankh13332994/build-a-blog-with-react-and-google-sheets-fullstack-course-part-2-learn-coding-18pd)
+- [Build a Blog with React and Google Sheets | FullStack Course | PART 1 | Learn Coding](https://dev.to/imrankh13332994/build-a-blog-with-react-and-google-sheets-fullstack-course-part-1-learn-coding-5gb7)
 - [Twitter Firings: the hatred towards programmers](https://dev.to/latobibor/twitter-firings-the-hatred-towards-programmers-4kgm)
 - [JavaScript Promises](https://dev.to/narenmnp/javascript-promises-3lgm)
-- [StateX](https://dev.to/andrious/statex-4f99)
-- [[20 Days of DynamoDB] Day 19 - PartiQL Batch Operations](https://dev.to/aws/20-days-of-dynamodb-day-19-partiql-batch-operations-mg6)
-- [Understanding JavaScript Operators: A Comprehensive Guide](https://dev.to/devendra_2806/understanding-javascript-operators-a-comprehensive-guide-57j1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
