@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [kbar-svelte-mini - ctrl+k menu for your Svelte website](https://dev.to/abdulmuminyqn/kbar-svelte-mini-ctrlk-menu-for-your-svelte-website-5g49)
+- [Building a Twilio-Powered App with Next.js and OpenAI GPT-3.](https://dev.to/temid/building-a-twilio-powered-app-with-nextjs-and-openai-gpt-3-3l91)
 - [Guide for Increasing Productivity with Linux and Shell Scripting](https://dev.to/cloudzenix24/guide-for-increasing-productivity-with-linux-and-shell-scripting-8ba)
 - [Doc as code, un parcours initiatique pour publier !](https://dev.to/onepoint/doc-as-code-un-parcours-initiatique-pour-publier--4799)
 - [Stop using obsolete methods to create CSS Triangles! ⚠️](https://dev.to/afif/stop-using-obsolete-methods-to-create-css-triangles-4lo5)
-- [Build a Blog with React and Google Sheets | FullStack Course | PART 3 | Learn Coding](https://dev.to/imrankh13332994/build-a-blog-with-react-and-google-sheets-fullstack-course-part-3-learn-coding-5oe)
-- [Dev.to APIs 🚀](https://dev.to/whollyapi/devto-apis-347l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
