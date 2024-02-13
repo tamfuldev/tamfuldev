@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [5 Ways to Skin a Lambda Function. A DevTools Comparison guide](https://dev.to/winglang/5-ways-to-write-a-simple-function-in-your-cloud-app-1jgl)
+- [5 Ways to Skin a Lambda Function. A DevTools Comparison Guide](https://dev.to/winglang/5-ways-to-write-a-simple-function-in-your-cloud-app-1jgl)
 - [Contentrain 2.0 is Live on Product Hunt! 🚀](https://dev.to/contentrain_io/contentrain-20-is-live-on-product-hunt-17l1)
 - [5 JavaScript mapping APIs compared](https://dev.to/logrocket/5-javascript-mapping-apis-compared-1jjj)
 - [The Best Way to Diagnose a Patient is to Cut Him Open](https://dev.to/codenameone/the-best-way-to-diagnose-a-patient-is-to-cut-him-open-5eo0)
-- [How to Make an Animated Search Bar with using only HTML and CSS](https://dev.to/alteca/how-to-make-an-animated-search-bar-with-using-only-html-and-css-2ago)
+- [Sharing Recommended VSCode Settings in Your Project Repository](https://dev.to/receter/sharing-recommended-vscode-settings-in-your-project-repository-2l74)
 <!-- BLOG-POST-LIST:END -->
 
 ---
