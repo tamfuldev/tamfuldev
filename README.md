@@ -16,7 +16,7 @@
 # Latest stack oveflow activity
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><tr><td>PHP Duplicate Files on Server</td><td>https://stackoverflow.com/questions/77984891/php-duplicate-files-on-server</td></tr><tr><td>How to access a stored value in symfony secret</td><td>https://stackoverflow.com/questions/77984845/how-to-access-a-stored-value-in-symfony-secret</td></tr><tr><td>How can I run this ftp_get script?</td><td>https://stackoverflow.com/questions/77984825/how-can-i-run-this-ftp-get-script</td></tr><tr><td>machine learning model for phone prefixes [closed]</td><td>https://stackoverflow.com/questions/77984818/machine-learning-model-for-phone-prefixes</td></tr><tr><td>Clean symfony 7 demo app hangs with max execution exceded</td><td>https://stackoverflow.com/questions/77984631/clean-symfony-7-demo-app-hangs-with-max-execution-exceded</td></tr><!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:START --><tr><td>Check background image is visible on the page using JavsScript</td><td>https://stackoverflow.com/questions/77985212/check-background-image-is-visible-on-the-page-using-javsscript</td></tr><tr><td>I want to save how many button clicked</td><td>https://stackoverflow.com/questions/77985191/i-want-to-save-how-many-button-clicked</td></tr><tr><td>PHP Duplicate Files on Server</td><td>https://stackoverflow.com/questions/77984891/php-duplicate-files-on-server</td></tr><tr><td>How to access a stored value in symfony secret</td><td>https://stackoverflow.com/questions/77984845/how-to-access-a-stored-value-in-symfony-secret</td></tr><tr><td>How can I run this ftp_get script?</td><td>https://stackoverflow.com/questions/77984825/how-can-i-run-this-ftp-get-script</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 
 ---
