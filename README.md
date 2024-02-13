@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Stop using obsolete methods to create CSS Triangles! ⚠️](https://dev.to/afif/stop-using-obsolete-methods-to-create-css-triangles-4lo5)
+- [Build a Blog with React and Google Sheets | FullStack Course | PART 3 | Learn Coding](https://dev.to/imrankh13332994/build-a-blog-with-react-and-google-sheets-fullstack-course-part-3-learn-coding-5oe)
+- [Dev.to APIs 🚀](https://dev.to/whollyapi/devto-apis-347l)
 - [Serverless Chat GPT Assistant](https://dev.to/apoffa/serverless-chat-gpt-assistant-176g)
 - [Running workloads at the edge with MicroK8s](https://dev.to/donaldsebleung/running-workloads-at-the-edge-with-microk8s-4cbc)
-- [Typewriter 2.0: search for the perfect writing experience on iPad](https://dev.to/sapegin/typewriter-20-search-for-the-perfect-writing-experience-on-ipad-2n42)
-- [Arguments vs Parameters in JavaScript](https://dev.to/hriztam/arguments-vs-parameters-in-javascript-4kl2)
-- [The Past, Present, and Future of Database Technology](https://dev.to/vera778/the-past-present-and-future-of-database-technology-29o7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
