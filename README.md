@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Best Practices for Massive-Scale Deployments: Multitenancy and Custom Sharding](https://dev.to/qdrant/best-practices-for-massive-scale-deployments-multitenancy-and-custom-sharding-1mjb)
+- [Conventional Comments: Stop Fighting in Code Reviews](https://dev.to/this-is-learning/conventional-comments-stop-fighting-in-code-reviews-nia)
+- [How to create Supabase admin dashboard?](https://dev.to/nikpoltoratsky/how-to-create-supabase-admin-dashboard-4glj)
+- [Headless CMS for dummies](https://dev.to/jhanawee/headless-cms-for-dummies-3ab1)
 - [Improving Your GitHub Profile README](https://dev.to/sh20raj/improving-your-github-profile-readme-5ee1)
-- [Web frameworks we are most excited for in 2024](https://dev.to/wasp/web-frameworks-we-are-most-excited-for-in-2024-4d15)
-- [Top 50 Useful Regex Patterns](https://dev.to/sh20raj/top-50-useful-regex-patterns-2jab)
-- [Top 50 One-Liners JavaScript](https://dev.to/sh20raj/top-50-one-liners-javascript-mp5)
-- [Integrate Pop up in JavaScript without any Library](https://dev.to/sh20raj/integrate-pop-up-in-javascript-without-any-library-5g8e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
