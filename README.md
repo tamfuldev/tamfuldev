@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Typewriter 2.0: search for the perfect writing experience on iPad](https://dev.to/sapegin/typewriter-20-search-for-the-perfect-writing-experience-on-ipad-2n42)
+- [Arguments vs Parameters in JavaScript](https://dev.to/hriztam/arguments-vs-parameters-in-javascript-4kl2)
+- [The Past, Present, and Future of Database Technology](https://dev.to/vera778/the-past-present-and-future-of-database-technology-29o7)
+- [Reactive Resources Management](https://dev.to/ninjin/reactive-resources-management-39i5)
 - [🚀 Building Dynamic Web Applications with Preact: A Lightweight Alternative to React](https://dev.to/madzimai/building-dynamic-web-applications-with-preact-a-lightweight-alternative-to-react-k73)
-- [YouTube Tags Generator API](https://dev.to/sh20raj/youtube-tags-generator-api-276f)
-- [The New HTML Search Element 🔎](https://dev.to/brianmtreese/the-new-html-search-element-3cic)
-- [How to Use Angular&#39;s New Control Flow Syntax](https://dev.to/brianmtreese/how-to-use-angulars-new-control-flow-syntax-4h2k)
-- [CSS Scroll-Driven Animations: First Look](https://dev.to/brianmtreese/css-scroll-driven-animations-first-look-56d1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
