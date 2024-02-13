@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [❤️ Valentine&#39;s Day! | Heart Shape &lpar;CSS&rpar; &amp; Confetti Animation 💫](https://dev.to/best_codes/valentines-day-heart-shape-css-confetti-animation-40b9)
 - [Data Modeling: Good vs. Perfect](https://dev.to/mongodb/data-modeling-good-vs-perfect-3do5)
 - [Make your portfolio in just 4 hours? It&#39;s possible.](https://dev.to/anmolbaranwal/make-your-portfolio-in-just-4-hours-its-possible-2p3)
 - [5 Ways to Skin a Lambda Function: A DevTools Comparison Guide](https://dev.to/winglang/5-ways-to-write-a-simple-function-in-your-cloud-app-1jgl)
 - [Contentrain 2.0 is Live on Product Hunt! 🚀](https://dev.to/contentrain_io/contentrain-20-is-live-on-product-hunt-17l1)
-- [5 JavaScript mapping APIs compared](https://dev.to/logrocket/5-javascript-mapping-apis-compared-1jjj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
