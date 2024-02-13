@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube Tags Generator API](https://dev.to/sh20raj/youtube-tags-generator-api-276f)
+- [The New HTML Search Element 🔎](https://dev.to/brianmtreese/the-new-html-search-element-3cic)
 - [How to Use Angular&#39;s New Control Flow Syntax](https://dev.to/brianmtreese/how-to-use-angulars-new-control-flow-syntax-4h2k)
 - [CSS Scroll-Driven Animations: First Look](https://dev.to/brianmtreese/css-scroll-driven-animations-first-look-56d1)
 - [How To Set Up Dependency Injection in Lambda Functions Using Annotations Framework](https://dev.to/rahulpnath/how-to-set-up-dependency-injection-in-lambda-functions-using-annotations-framework-41fk)
-- [60+ Best Programming Memes for 2023](https://dev.to/programmingmemes/60-best-programming-memes-for-2023-5bpb)
-- [50+ Programming Memes 😅](https://dev.to/programmingmemes/50-programming-memes-12le)
 <!-- BLOG-POST-LIST:END -->
 
 ---
