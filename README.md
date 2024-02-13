@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Improving Your GitHub Profile README](https://dev.to/sh20raj/improving-your-github-profile-readme-5ee1)
+- [Web frameworks we are most excited for in 2024](https://dev.to/wasp/web-frameworks-we-are-most-excited-for-in-2024-4d15)
 - [Top 50 Useful Regex Patterns](https://dev.to/sh20raj/top-50-useful-regex-patterns-2jab)
 - [Top 50 One-Liners JavaScript](https://dev.to/sh20raj/top-50-one-liners-javascript-mp5)
 - [Integrate Pop up in JavaScript without any Library](https://dev.to/sh20raj/integrate-pop-up-in-javascript-without-any-library-5g8e)
-- [Stop User from closing page in JavaScript](https://dev.to/sh20raj/stop-user-from-closing-page-in-javascript-483j)
-- [Python libraries for your DataScience CV in 2024](https://dev.to/marisogo/python-libraries-for-your-datascience-cv-in-2024-5cl7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
