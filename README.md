@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [5 Ways to Skin a Lambda Function. A DevTools Comparison guide](https://dev.to/winglang/5-ways-to-write-a-simple-function-in-your-cloud-app-1jgl)
+- [Contentrain 2.0 is Live on Product Hunt! 🚀](https://dev.to/contentrain_io/contentrain-20-is-live-on-product-hunt-17l1)
+- [5 JavaScript mapping APIs compared](https://dev.to/logrocket/5-javascript-mapping-apis-compared-1jjj)
 - [The Best Way to Diagnose a Patient is to Cut Him Open](https://dev.to/codenameone/the-best-way-to-diagnose-a-patient-is-to-cut-him-open-5eo0)
 - [How to Make an Animated Search Bar with using only HTML and CSS](https://dev.to/alteca/how-to-make-an-animated-search-bar-with-using-only-html-and-css-2ago)
-- [Evaluating Secrets Detection Platforms Is Complex: GitGuardian is here to help you navigate the process](https://dev.to/gitguardian/evaluating-secrets-detection-platforms-is-complex-gitguardian-is-here-to-help-you-navigate-the-process-1odg)
-- [WebApplicationFactory In ASP.NET Core: Practical Tips For C# Developers](https://dev.to/devleader/webapplicationfactory-in-aspnet-core-practical-tips-for-c-developers-2mo)
-- [How To Configure Dynamic Build Agents In Jenkins Using AWS And Terraform](https://dev.to/kelvinskell/how-to-configure-dynamic-build-agents-in-jenkins-using-aws-and-terraform-3dlb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
