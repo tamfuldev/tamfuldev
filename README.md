@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Are Tech Certifications Important to Have?](https://dev.to/scofieldidehen/are-tech-certifications-important-to-have-639)
 - [Get Slug in NextJS](https://dev.to/sh20raj/get-slug-in-nextjs-293k)
 - [7 ways to step up your API performance.](https://dev.to/yokwejuste/7-ways-to-step-up-your-api-performance-1j04)
+- [Introducing Tempo • A new date library for JavaScript &lpar;and TypeScript&rpar;.](https://dev.to/justinschroeder/introducing-tempo-a-new-date-library-for-javascript-and-typescript-359a)
 - [ABP Suite: Best CRUD Page Generation Tool for .NET](https://dev.to/engincanv/abp-suite-best-crud-page-generation-tool-for-net-2p8a)
-- [LearningToCode == &quot;Boring&quot;? Try These Out! ⚡️](https://dev.to/arjuncodess/is-learning-to-code-boring-for-you-try-these-out-25o0)
-- [Understanding the HTML `&lt;dialog&gt;` Element](https://dev.to/r4nd3l/understanding-the-html-element-56en)
 <!-- BLOG-POST-LIST:END -->
 
 ---
