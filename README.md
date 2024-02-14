@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Get Slug in NextJS](https://dev.to/sh20raj/get-slug-in-nextjs-293k)
+- [7 ways to step up your API performance.](https://dev.to/yokwejuste/7-ways-to-step-up-your-api-performance-1j04)
 - [ABP Suite: Best CRUD Page Generation Tool for .NET](https://dev.to/engincanv/abp-suite-best-crud-page-generation-tool-for-net-2p8a)
 - [LearningToCode == &quot;Boring&quot;? Try These Out! ⚡️](https://dev.to/arjuncodess/is-learning-to-code-boring-for-you-try-these-out-25o0)
 - [Understanding the HTML `&lt;dialog&gt;` Element](https://dev.to/r4nd3l/understanding-the-html-element-56en)
-- [Biden’s Laser Eyes, Elon Musk’s Court, And Other Things That Happened in Crypto Over The Weekend](https://dev.to/deniz_tutku/bidens-laser-eyes-elon-musks-court-and-other-things-that-happened-in-crypto-over-the-weekend-cpp)
-- [Who&#39;s Your DEValentine? Spread the Love! 💖&quot;](https://dev.to/devteam/whos-your-devalentine-spread-the-love--1i20)
 <!-- BLOG-POST-LIST:END -->
 
 ---
