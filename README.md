@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [accessing rows and columns in a 2d array and insert method&lpar;python&rpar;](https://dev.to/drvcodenta/accessing-rows-and-columns-in-a-2d-array-and-insert-methodpython-2plo)
+- [Setting Up for Java on Linux.](https://dev.to/mtendekuyokwa19/setting-up-for-java-on-linux-133f)
 - [Transitioning From PyTorch to Burn](https://dev.to/laggui/transitioning-from-pytorch-to-burn-45m)
+- [3 Common Object-Oriented Programming Mistakes Junior Devs Make](https://dev.to/codemom/3-common-object-oriented-programming-mistakes-junior-devs-make-me2)
 - [Deploying your Rust WASM Game to Web with Shuttle &amp; Axum](https://dev.to/askrodney/deploying-your-rust-wasm-game-to-web-with-shuttle-axum-1n5h)
-- [Developer Experience is Dead: Long Live Developer Experience! 🫠](https://dev.to/jreock/developer-experience-is-dead-long-live-developer-experience-1col)
-- [Explaining Open Source to My Doctor](https://dev.to/jitendrachoudhary/explaining-open-source-to-my-doctor-4e5a)
-- [How Web3 Decentralization Can Dismantle Big Tech Monopolies in 2024](https://dev.to/scofieldidehen/how-web3-decentralization-can-dismantle-big-tech-monopolies-in-2024-pl0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
