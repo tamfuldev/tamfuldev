@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Developer Experience is Dead: Long Live Developer Experience! 🫠](https://dev.to/jreock/developer-experience-is-dead-long-live-developer-experience-1col)
 - [Explaining Open Source to My Doctor](https://dev.to/jitendrachoudhary/explaining-open-source-to-my-doctor-4e5a)
 - [How Web3 Decentralization Can Dismantle Big Tech Monopolies in 2024](https://dev.to/scofieldidehen/how-web3-decentralization-can-dismantle-big-tech-monopolies-in-2024-pl0)
 - [Creating &quot;Past&quot; Commits in Git ⏳](https://dev.to/kibumpng/creating-past-commits-in-git-59fj)
 - [React Mini Projects For Beginners](https://dev.to/sanx/react-mini-projects-for-beginners-4876)
-- [How to Make a Webhook in Discord | Send Automated Massages](https://dev.to/sh20raj/how-to-make-a-webhook-in-discord-send-automated-massages-2hgd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
