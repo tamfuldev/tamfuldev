@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Transitioning From PyTorch to Burn](https://dev.to/laggui/transitioning-from-pytorch-to-burn-45m)
 - [Deploying your Rust WASM Game to Web with Shuttle &amp; Axum](https://dev.to/askrodney/deploying-your-rust-wasm-game-to-web-with-shuttle-axum-1n5h)
 - [Developer Experience is Dead: Long Live Developer Experience! 🫠](https://dev.to/jreock/developer-experience-is-dead-long-live-developer-experience-1col)
 - [Explaining Open Source to My Doctor](https://dev.to/jitendrachoudhary/explaining-open-source-to-my-doctor-4e5a)
 - [How Web3 Decentralization Can Dismantle Big Tech Monopolies in 2024](https://dev.to/scofieldidehen/how-web3-decentralization-can-dismantle-big-tech-monopolies-in-2024-pl0)
-- [Creating &quot;Past&quot; Commits in Git ⏳](https://dev.to/kibumpng/creating-past-commits-in-git-59fj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
