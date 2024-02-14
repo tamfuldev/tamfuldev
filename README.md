@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Active theme switch in flutter](https://dev.to/akashpattnaik/active-theme-switch-in-flutter-680)
+- [Fine-Tuning LlaMa 2 on Custom Data!](https://dev.to/pavanbelagatti/fine-tuning-llama-2-on-custom-data-3o3c)
 - [Build a Blog with React and Google Sheets | PART 4 | FullStack Course | Learn Coding](https://dev.to/imrankh13332994/build-a-blog-with-react-and-google-sheets-part-4-fullstack-course-learn-coding-f2i)
 - [Using the Ollama API to run LLMs and generate responses locally](https://dev.to/jayantaadhikary/using-the-ollama-api-to-run-llms-and-generate-responses-locally-18b7)
 - [DO comment your TS code](https://dev.to/dmrompav/do-comment-your-ts-code-1bl4)
-- [Stable Cascade Prompt Following Is Amazing — This Model Has Huge Potential — High Resolutions Uses Lesser VRAM](https://dev.to/furkangozukara/stable-cascade-prompt-following-is-amazing-this-model-has-huge-potential-high-resolutions-uses-lesser-vram-p9h)
-- [Fork me on GitHub Css Ribbon - Animated](https://dev.to/sh20raj/fork-me-on-github-css-ribbon-animated-mnm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
