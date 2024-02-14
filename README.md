@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Best Programming Memes](https://dev.to/programmingmemes/the-best-programming-memes-22a0)
-- [Unmasking LinkedIn&#39;s Connection Logic 🤯](https://dev.to/ujjawaltyagi/unmasking-linkedins-connection-logic-29ff)
-- [Modernizing File Management with Spacedrive – Is it worth it?](https://dev.to/opensauced/modernizing-file-management-with-spacedrive-is-it-worth-it-ff0)
-- [REST API Vs GraphQL](https://dev.to/bikodes/rest-vs-graphql-api-afg)
-- [An Introduction to Testing with Django for Python](https://dev.to/appsignal/an-introduction-to-testing-with-django-for-python-26k8)
+- [React Mini Projects For Beginners](https://dev.to/sanx/react-mini-projects-for-beginners-4876)
+- [How to Make a Webhook in Discord | Send Automated Massages](https://dev.to/sh20raj/how-to-make-a-webhook-in-discord-send-automated-massages-2hgd)
+- [one of the Codia AI Design technologies: OCR Technology](https://dev.to/happyer/one-of-the-codia-ai-design-technologies-ocr-technology-3oi2)
+- [Build a Discord Bot with Go - Step-by-Step Tutorial via Webhooks](https://dev.to/nikl/build-a-discord-bot-with-go-step-by-step-tutorial-via-webhooks-3g3e)
+- [Building a serverless GraphQL API with NeonDB and Prisma](https://dev.to/logrocket/building-a-serverless-graphql-api-with-neondb-and-prisma-1222)
 <!-- BLOG-POST-LIST:END -->
 
 ---
