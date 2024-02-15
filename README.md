@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Boost Your Efficiency with These Helpful AI Tools](https://dev.to/sanx/boost-your-efficiency-with-these-helpful-ai-tools-3793)
+- [OWASP API7:2023 Server Side Request Forgery&lpar;SSRF&rpar;](https://dev.to/sre_panchanan/owasp-api72023-server-side-request-forgeryssrf-2e8b)
 - [From Chaos to Control: Mastering Chaos Engineering for Unstoppable Software Success!](https://dev.to/talenttinaapi/from-chaos-to-control-mastering-chaos-engineering-for-unstoppable-software-success-4i2p)
 - [ARM EMBEDDED SYSTEM AND ARM PROCESSOR FUNDAMENTALS - PART 3](https://dev.to/sanakousar776/arm-embedded-system-and-arm-processor-fundamentals-part-3-45ij)
-- [Deploy config rules across your organization](https://dev.to/aws-builders/deploy-config-rules-across-your-organization-3njj)
-- [The Importance of Formal Mobile Testing in Boosting your Chances of App Success](https://dev.to/abhayit2000/the-importance-of-formal-mobile-testing-in-boosting-your-chances-of-app-success-k10)
-- [Monolithic or Microservices?](https://dev.to/yokwejuste/monolithic-or-microservices-47ga)
+- [Title: Top 20 JavaScript One-Liners That Don&#39;t Actually Work](https://dev.to/darkwiiplayer/title-top-20-javascript-one-liners-that-dont-actually-work-30mj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
