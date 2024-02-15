@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [What Is Middleware?](https://dev.to/hasanelsherbiny/what-is-middleware-26mk)
+- [Extracting data with dlt](https://dev.to/cmcrawford2/extracting-data-with-dlt-9hl)
+- [Building an Observability Stack with Docker](https://dev.to/kubeshop/building-an-observability-stack-with-docker-3de8)
 - [After 3 years: Bets I made as Head of Engineering rewriting the epilot SaaS – worth it?](https://dev.to/epilot/after-3-years-bets-i-made-as-head-of-engineering-rewriting-the-epilot-saas-worth-it-2bc1)
 - [Future of CSS: Functions and Mixins](https://dev.to/link2twenty/future-of-css-functions-and-mixins-229c)
-- [How to Use Google Gemini with Node.js](https://dev.to/arindam_1729/how-to-use-google-gemini-with-nodejs-2d39)
-- [Seven Python Projects to Elevate Your Coding Skills](https://dev.to/chasestevens/seven-python-projects-to-elevate-your-coding-skills-cil)
-- [Bandit Level 23 Level 24](https://dev.to/christianpaez/bandit-level-23-level-24-10lo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
