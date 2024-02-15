@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [🚀 API Maker : Release Notes for v1.3.0](https://dev.to/apimaker/api-maker-release-notes-for-v130-5i8)
+- [Variant](https://dev.to/akankshastark/variant-4nkb)
+- [Web Development with Vite, Vue, and Flask &lpar;Update&rpar;](https://dev.to/atsu/web-development-with-vite-vue-and-flask-update-43k2)
+- [Node.js: 5 Essential Syntax Examples for Beginners](https://dev.to/mandeepsng/nodejs-5-essential-syntax-examples-for-beginners-26ol)
 - [Boost Your Efficiency with These Helpful AI Tools](https://dev.to/sanx/boost-your-efficiency-with-these-helpful-ai-tools-3793)
-- [OWASP API7:2023 Server Side Request Forgery&lpar;SSRF&rpar;](https://dev.to/sre_panchanan/owasp-api72023-server-side-request-forgeryssrf-2e8b)
-- [From Chaos to Control: Mastering Chaos Engineering for Unstoppable Software Success!](https://dev.to/talenttinaapi/from-chaos-to-control-mastering-chaos-engineering-for-unstoppable-software-success-4i2p)
-- [ARM EMBEDDED SYSTEM AND ARM PROCESSOR FUNDAMENTALS - PART 3](https://dev.to/sanakousar776/arm-embedded-system-and-arm-processor-fundamentals-part-3-45ij)
-- [Title: Top 20 JavaScript One-Liners That Don&#39;t Actually Work](https://dev.to/darkwiiplayer/title-top-20-javascript-one-liners-that-dont-actually-work-30mj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
