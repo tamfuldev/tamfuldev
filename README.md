@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [What We Learned When We Built a Vector Database-and Our Customers Started Using It &lpar;part 1&rpar;](https://dev.to/datastax/what-we-learned-when-we-built-a-vector-database-and-our-customers-started-using-it-part-1-1c6h)
 - [Illustrated JavaScript Coding Course](https://dev.to/codeguppy/illustrated-javascript-coding-course-m9i)
 - [Terraform - Understanding Implicit and Explicit Dependencies](https://dev.to/pwd9000/terraform-understanding-implicit-and-explicit-dependencies-n9l)
-- [Don&#39;t Pay for EAS! How to Set Up an EAS Local Build on GitHub Actions](https://dev.to/rgomezp/how-to-set-up-an-eas-local-build-on-github-actions-1l0i)
-- [Using Stripe Docs in your RAG pipeline with LlamaIndex](https://dev.to/stripe/using-stripe-docs-in-your-rag-pipeline-with-llamaindex-2j23)
-- [Debugging Stress: A Tech Worker&#39;s Guide to Protecting Mental Health](https://dev.to/codemom/debugging-stress-a-tech-workers-guide-to-protecting-mental-health-2e2n)
+- [Understanding Key Components in DevOps](https://dev.to/bartzalewski/understanding-key-components-in-devops-26a7)
+- [Website audit definition?](https://dev.to/alexsend/website-audit-definition-9ka)
 <!-- BLOG-POST-LIST:END -->
 
 ---
