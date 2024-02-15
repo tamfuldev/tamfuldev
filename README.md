@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Statement Coverage in Software Testing](https://dev.to/arindam_1729/understanding-statement-coverage-in-software-testing-4enn)
 - [New accordion component](https://dev.to/meschacirung/new-accordion-component-54ah)
 - [Python Loops: A Comprehensive Guide for Beginners](https://dev.to/scofieldidehen/python-loops-a-comprehensive-guide-for-beginners-ej8)
 - [A Comprehensive Guide to Using React Query&#39;s useQuery for API Calls](https://dev.to/parth24072001/a-comprehensive-guide-to-using-react-querys-usequery-for-api-calls-fki)
-- [Sota Image Captioning Model Kosmos-2 Added To Our Image Captioning Scripts Arsenal](https://dev.to/furkangozukara/sota-image-captioning-model-kosmos-2-added-to-our-image-captioning-scripts-arsenal-489e)
-- [How to flatten a PHP array](https://dev.to/graceman9/how-to-flatten-a-php-array-56no)
+- [Building a Calculator App with JavaScript: A Beginner&#39;s Guide](https://dev.to/codevicky/building-a-calculator-app-with-javascript-a-beginners-guide-343b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
