@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [What Should Every Manager Do Daily?](https://dev.to/devteam/what-should-every-manager-do-daily-2a69)
+- [Cross-Domain Tracking Implementation](https://dev.to/seeratawan01/cross-domain-tracking-implementation-22ob)
 - [How to Generate B2B Leads using LinkedIn Data?](https://dev.to/abacusdatasys/how-to-generate-b2b-leads-using-linkedin-data-54pa)
 - [The Only Guide To Slack Mrkdwn &lpar;not markdown&rpar; Formatting w Codes](https://dev.to/suprsend/the-only-guide-to-slack-mrkdwn-not-markdown-formatting-w-codes-4329)
 - [Understanding Statement Coverage in Software Testing](https://dev.to/arindam_1729/understanding-statement-coverage-in-software-testing-4enn)
-- [New accordion component](https://dev.to/meschacirung/new-accordion-component-54ah)
-- [Python Loops: A Comprehensive Guide for Beginners](https://dev.to/scofieldidehen/python-loops-a-comprehensive-guide-for-beginners-ej8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
