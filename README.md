@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [SQL vs NoSQL: Choosing the Right One, Future Trends &amp; Best Practices](https://dev.to/mmainulhasan/sql-vs-nosql-choosing-the-right-one-future-trends-best-practices-315c)
+- [Launch Nx Week Recap!!](https://dev.to/nx/launch-nx-week-recap-51og)
+- [Rust Tooling: 8 tools that will increase your productivity](https://dev.to/shuttle_dev/rust-tooling-8-tools-that-will-increase-your-productivity-1244)
 - [Streamlining Infrastructure as Code: A Guide to Terraform Automation, Collaboration, and Governance in Large Organizations](https://dev.to/digger/streamlining-infrastructure-as-code-a-guide-to-terraform-automation-collaboration-and-governance-in-large-organizations-lb1)
 - [Composability on Flow: Unlocking Technical and Business Opportunities](https://dev.to/mbogan/composability-on-flow-unlocking-technical-and-business-opportunities-4c4h)
-- [Announcing our Capture the Flag Challenge: broken-navigator](https://dev.to/crabnebula/announcing-our-capture-the-flag-challenge-broken-navigator-3bld)
-- [Animated countdown in react with @react-spring/web](https://dev.to/multivoltage/animated-countdown-in-react-with-react-springweb-13o8)
-- [Storybook’s Visual Tests addon enters beta](https://dev.to/storybookjs/storybooks-visual-tests-addon-enters-beta-3o5l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
