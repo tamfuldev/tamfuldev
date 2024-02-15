@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Announcing our Capture the Flag Challenge: broken-navigator](https://dev.to/crabnebula/announcing-our-capture-the-flag-challenge-broken-navigator-3bld)
+- [Animated countdown in react with @react-spring/web](https://dev.to/multivoltage/animated-countdown-in-react-with-react-springweb-13o8)
+- [Storybook’s Visual Tests addon enters beta](https://dev.to/storybookjs/storybooks-visual-tests-addon-enters-beta-3o5l)
 - [Building a PHP SDK for Replicate AI](https://dev.to/treblle/building-a-php-sdk-for-replicate-ai-lcp)
-- [How to get developer support for the Amazon Appstore](https://dev.to/mosesroth/how-to-get-developer-support-for-the-amazon-appstore-50j0)
-- [Exploring Interaction to Next Paint, a new Core Web Vital](https://dev.to/logrocket/exploring-interaction-to-next-paint-a-new-core-web-vital-5efh)
-- [Authentication&lpar; SignUp and Login &rpar; with Express,MongoDB and Jwt.](https://dev.to/fredabod/authentication-signup-and-login-with-expressmongodb-and-jwt-2n64)
-- [What are Python Decorators?](https://dev.to/k0nze/what-are-python-decorators-k0p)
+- [Ruby-on-Rails ERB vs HAML](https://dev.to/bdavidxyz/ruby-on-rails-erb-vs-haml-4ego)
 <!-- BLOG-POST-LIST:END -->
 
 ---
