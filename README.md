@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [one of the Codia AI technologies: 2023-24 Mainstream Object Detection Models](https://dev.to/happyer/one-of-the-codia-ai-technologies-2023-24-mainstream-object-detection-models-43de)
+- [Understanding JavaScript Scopes: A Comprehensive Guide with Real-life Examples](https://dev.to/jps27cse/understanding-javascript-scopes-a-comprehensive-guide-with-real-life-examples-5e1j)
+- [Maximizing User Engagement: Tips for App Developers](https://dev.to/hyscaler/maximizing-user-engagement-tips-for-app-developers-o7k)
+- [Easily create mock data for unit tests 🧪](https://dev.to/kinginit/easily-create-mock-data-for-unit-tests-3fji)
 - [🚀 API Maker : Release Notes for v1.3.0](https://dev.to/apimaker/api-maker-release-notes-for-v130-5i8)
-- [Variant](https://dev.to/akankshastark/variant-4nkb)
-- [Web Development with Vite, Vue, and Flask &lpar;Update&rpar;](https://dev.to/atsu/web-development-with-vite-vue-and-flask-update-43k2)
-- [Node.js: 5 Essential Syntax Examples for Beginners](https://dev.to/mandeepsng/nodejs-5-essential-syntax-examples-for-beginners-26ol)
-- [Boost Your Efficiency with These Helpful AI Tools](https://dev.to/sanx/boost-your-efficiency-with-these-helpful-ai-tools-3793)
 <!-- BLOG-POST-LIST:END -->
 
 ---
