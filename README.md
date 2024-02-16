@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [OWASP API8:2023 Security Misconfiguration 🔐🚨](https://dev.to/sre_panchanan/owasp-api82023-security-misconfiguration-pgf)
 - [Open source and free software events in Bulgaria for 2024](https://dev.to/bogomil/open-source-and-free-software-events-in-bulgaria-for-2024-4778)
 - [Understanding Code Coverage in Software Testing](https://dev.to/arindam_1729/understanding-code-coverage-in-software-testing-59i3)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5f0l)
 - [Prompt Engineering For Developers: A Complete Guide!](https://dev.to/pavanbelagatti/prompt-engineering-for-developers-a-complete-guide-1kca)
-- [Using Pub/Sub for event-driven Go backends](https://dev.to/encore/using-pubsub-for-event-driven-go-backends-55h3)
-- [Demystifying JavaScript: let, var, and const Explained with Examples](https://dev.to/jps27cse/demystifying-javascript-let-var-and-const-explained-with-examples-2an4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
