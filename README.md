@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [CRDP is an awesome utility to debug&amp;control remote Chromium](https://dev.to/ivictbor/crdp-is-an-awesome-utility-to-debugcontrol-remote-chromium-10hk)
 - [Wisely series: Chapter 2 Don&#39;t overthink, embrace simplicity](https://dev.to/danc/wisely-series-chapter-2-dont-overthink-embrace-simplicity-2fme)
 - [Wisely series: Chapter 1 Fragile Mission Ruggedized Snowcone](https://dev.to/danc/wisely-series-chapter-1-fragile-mission-ruggedized-snowcone-4pep)
-- [3 Ways To Store Data in Computer Vision Applications](https://dev.to/reductstore/3-ways-to-store-data-in-computer-vision-applications-f59)
-- [Figma to HTML: Streamlining Web Development from Design to Code with Codia AI](https://dev.to/cyberpunker/figma-to-html-streamlining-web-development-from-design-to-code-with-codia-ai-3iah)
-- [Python vs ReactJS: An Extensive Comparison](https://dev.to/scofieldidehen/python-vs-reactjs-an-extensive-comparison-4eho)
+- [INTRODUCTION TO SUPER PROTOCOL](https://dev.to/superprotocol/introduction-to-super-protocol-1adm)
+- [Embracing Modern React: Transitioning from Class Components to Functional Components](https://dev.to/nitin-rachabathuni/embracing-modern-react-transitioning-from-class-components-to-functional-components-4ioh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
