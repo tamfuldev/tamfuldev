@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [SORA : Unbelieve New Text To Video AI Model By OpenAI - 37 Demo Videos - Still Can’t Believe Real](https://dev.to/furkangozukara/sora-unbelieve-new-text-to-video-ai-model-by-openai-37-demo-videos-still-cant-believe-real-45mj)
+- [Blazing Fast Change Data Capture with DynamoDB Streams and Rust](https://dev.to/aws-builders/blazing-fast-change-data-capture-with-dynamodb-streams-and-rust-14i6)
+- [How to add Tailwind CSS to your Django Project](https://dev.to/leonwei/how-to-add-tailwind-css-to-your-django-project-2815)
 - [Enikoko, Level 3 &lpar;Cosplore3D: Pt:14&rpar;](https://dev.to/chigbeef_77/enikoko-level-3-cosplore3d-pt14-4d8f)
-- [Airtable vs Excel: Everything You Need To Know](https://dev.to/domfive/airtable-vs-excel-everything-you-need-to-know-4d0h)
-- [راهنمای خرید فیلتر شکن: نکات کلیدی برای انتخاب بهترین گزینه](https://dev.to/allseooo/rhnmy-khryd-fyltr-shkhn-nkht-khlydy-bry-ntkhb-bhtryn-gzynh-571c)
-- [The GitHub Community Roundup - 2024.02.16](https://dev.to/github/the-github-community-roundup-20240116-1a3a)
-- [What Is Middleware?](https://dev.to/hasanelsherbiny/what-is-middleware-26mk)
+- [Finally Made It Through the Fog!](https://dev.to/annemiriam/finally-made-it-through-the-fog-e5f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
