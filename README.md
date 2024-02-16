@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [An Introduction to the World of Containers with .NET 8](https://dev.to/dotnet/an-introduction-to-the-world-of-containers-with-net-8-4elf)
-- [Best 20 CSS Libraries for Developers and Designers [2024]](https://dev.to/lambdatest/best-20-css-libraries-for-developers-and-designers-2024-56jd)
-- [Live Streaming from Unity - Broadcasting a Game With Full UI &lpar;Part 3&rpar;](https://dev.to/aws/live-streaming-from-unity-broadcasting-a-game-with-full-ui-part-3-4e7o)
-- [Another Video Conferencing Tool? Exploring Jitsi Meet](https://dev.to/opensauced/another-video-conferencing-tool-exploring-jitsi-meet-41gd)
-- [A place for serious and experienced professionnels to join and pitch projects](https://dev.to/youssef_idabdelahe/a-place-for-serious-and-experienced-professionnels-to-join-and-pitch-projects-fhn)
+- [Be a better developer with these Git good practices](https://dev.to/anthonyvii/be-a-better-developer-with-these-git-good-practices-2dim)
+- [Secure Browser Access to code-server VSCode](https://dev.to/ckmo/secure-browser-access-to-code-server-vscode-hkb)
+- [How to test the die&lpar;&rpar; function?](https://dev.to/muhammadmp/how-to-test-the-die-function-1ja7)
+- [PostgreSQL Isolation Levels and Locking Summary](https://dev.to/markadel/postgresql-isolation-levels-and-locking-summary-9ac)
+- [Using test helpers in Go](https://dev.to/eminetto/using-test-helpers-in-go-1o55)
 <!-- BLOG-POST-LIST:END -->
 
 ---
