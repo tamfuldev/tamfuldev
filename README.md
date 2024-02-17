@@ -7,8 +7,8 @@
 - [Will AI Replace Us? 🤖 🫨](https://dev.to/best_codes/will-ai-replace-us-3ijm)
 - [Setting Sail with Docker: Navigating the Container Seas](https://dev.to/arbythecoder/setting-sail-with-docker-navigating-the-container-seas-48n6)
 - [HTML Collection VS Node List](https://dev.to/tapesh/html-collection-vs-node-list-2j3m)
+- [FeedMyFurBabies – Send and Receive MQTT messages between AWS IoT Core and your micro-controller](https://dev.to/chiwaichan/feedmyfurbabies-send-and-receive-mqtt-messages-between-aws-iot-core-and-your-micro-controller-4oam)
 - [Benchmark: Snowflake vs UUIDv4](https://dev.to/josethz00/benchmark-snowflake-vs-uuidv4-2h80)
-- [Understanding State Management in React: Avoiding Pitfalls with Custom Hooks](https://dev.to/mgeovany/understanding-state-management-in-react-avoiding-pitfalls-with-custom-hooks-5554)
 <!-- BLOG-POST-LIST:END -->
 
 ---
