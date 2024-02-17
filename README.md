@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [🏁🐘Winning Race Conditions With PostgreSQL](https://dev.to/mistval/winning-race-conditions-with-postgresql-54gn)
 - [map&lpar;&rpar; in Python](https://dev.to/sachingeek/map-in-python-gdg)
+- [&lpar;1/n&rpar; My adventure of implementing Redis in Rust](https://dev.to/yusufpapurcu/1n-my-adventure-of-implementing-redis-in-rust-41i0)
 - [Best NodeJs Frameworks for Backend development in 2024](https://dev.to/alakkadshaw/best-nodejs-frameworks-for-backend-development-in-2024-3i0h)
-- [Docker para iniciantes: Criando Containers de Bancos de Dados](https://dev.to/jao_dev/docker-para-iniciantes-criando-containers-de-bancos-de-dados-291i)
-- [5 Rust Project Ideas For Absolutely Beginners Devs 🦀](https://dev.to/eleftheriabatsou/5-rust-project-ideas-for-absolutely-beginners-devs-2706)
-- [Setting up Custom Hostname Forwarding On Your Home Network with Nginx Proxy Manager and Pi-Hole](https://dev.to/reprodev/setting-up-custom-hostname-forwarding-on-your-home-network-with-nginx-proxy-manager-and-pi-hole-1im4)
+- [Must-Have Features to Look for in a Blogging Platform](https://dev.to/elastoplastique/must-have-features-to-look-for-in-a-blogging-platform-30a6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
