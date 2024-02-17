@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [map&lpar;&rpar; in Python](https://dev.to/sachingeek/map-in-python-gdg)
 - [Best NodeJs Frameworks for Backend development in 2024](https://dev.to/alakkadshaw/best-nodejs-frameworks-for-backend-development-in-2024-3i0h)
-- [Top 10 Things You Should Avoid While Healthcare App Coding: Valuable Tips for Programmers](https://dev.to/dhruvjoshi9/healthcare-app-coding-tips-559i)
-- [Protegendo APIs da Esquerda para a Direita &lpar;e em td no meio do caminho&rpar; [Tradução +/- Comentada]](https://dev.to/bolhasec/protegendo-apis-da-esquerda-para-a-direita-e-em-td-no-meio-do-caminho-traducao-comentada-11nc)
-- [🚀👩‍💻👨‍💻 ATTENTION SOFTWARE DEVELOPERS! 🚀👩‍💻👨‍💻](https://dev.to/jagroop2001/attention-software-developers-1cb1)
-- [How we Built a 20 Billion Dollar Company in 20 minutes](https://dev.to/polterguy/how-we-built-a-20-billion-dollar-company-in-20-minutes-3j3j)
+- [Docker para iniciantes: Criando Containers de Bancos de Dados](https://dev.to/jao_dev/docker-para-iniciantes-criando-containers-de-bancos-de-dados-291i)
+- [5 Rust Project Ideas For Absolutely Beginners Devs 🦀](https://dev.to/eleftheriabatsou/5-rust-project-ideas-for-absolutely-beginners-devs-2706)
+- [Setting up Custom Hostname Forwarding On Your Home Network with Nginx Proxy Manager and Pi-Hole](https://dev.to/reprodev/setting-up-custom-hostname-forwarding-on-your-home-network-with-nginx-proxy-manager-and-pi-hole-1im4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
