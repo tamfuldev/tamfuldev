@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [What Design Tool Should I Use?](https://dev.to/opensauced/what-design-tool-should-i-use-a05)
+- [Angular&#39;s Evolution: Embracing Change in the Web Development Landscape](https://dev.to/this-is-angular/angulars-evolution-embracing-change-in-the-web-development-landscape-1hb8)
 - [🦊 GitLab CI: Deploy a Majestic Single Server Runner on AWS](https://dev.to/zenika/gitlab-ci-deploy-a-majestic-single-server-runner-on-aws-d3)
 - [Django Signals mastery](https://dev.to/yokwejuste/django-signals-mastery-144d)
 - [What Defines a Senior Software Engineer?](https://dev.to/devteam/what-defines-a-senior-software-engineer-2bkp)
-- [40+ Bash commands for cloud architects &amp; engineers.](https://dev.to/karaniph/40-bash-commands-for-cloud-architects-engineers-35mk)
-- [6 Easy Steps to Make Responsive Website](https://dev.to/ritirathod0/6-easy-steps-to-make-responsive-website-2pl5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
