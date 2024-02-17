@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 Things You Should Avoid While Healthcare App Coding: Valuable Tips for Programmers](https://dev.to/dhruvjoshi9/healthcare-app-coding-tips-559i)
+- [🚀👩‍💻👨‍💻 ATTENTION SOFTWARE DEVELOPERS! 🚀👩‍💻👨‍💻](https://dev.to/jagroop2001/attention-software-developers-1cb1)
+- [Creating Clickable SVG maps in HTML with JS](https://dev.to/manishkumardsd/creating-clickable-svg-maps-in-html-with-js-1jfj)
 - [WordPress.com vs. WordPress.org – The Differences &amp; Which To Choose](https://dev.to/devarshishimpi/wordpresscom-vs-wordpressorg-the-differences-which-to-choose-422h)
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-2f66)
-- [What Design Tool Should I Use?](https://dev.to/opensauced/what-design-tool-should-i-use-a05)
-- [Angular&#39;s Evolution: Embracing Change in the Web Development Landscape](https://dev.to/this-is-angular/angulars-evolution-embracing-change-in-the-web-development-landscape-1hb8)
-- [🦊 GitLab CI: Deploy a Majestic Single Server Runner on AWS](https://dev.to/zenika/gitlab-ci-deploy-a-majestic-single-server-runner-on-aws-d3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
