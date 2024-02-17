@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Streamlining Raw HTML Display in Laravel Blade](https://dev.to/rafaelogic/streamlining-raw-html-display-in-laravel-blade-31lk)
+- [: 🌱 Nurturing the Developer Community: 🤝🌍🚀](https://dev.to/madzimai/-nurturing-the-developer-community-2daj)
+- [Visualizing Deep Learning Annotations - Interactive Video Player](https://dev.to/s-abinash/visualizing-deep-learning-annotations-interactive-video-player-4d3d)
+- [#DevOps para noobs - Proxy Reverso](https://dev.to/camilacodes/devops-para-noobs-proxy-reverso-1lg0)
 - [🏁🐘Winning Race Conditions With PostgreSQL](https://dev.to/mistval/winning-race-conditions-with-postgresql-54gn)
-- [map&lpar;&rpar; in Python](https://dev.to/sachingeek/map-in-python-gdg)
-- [&lpar;1/n&rpar; My adventure of implementing Redis in Rust](https://dev.to/yusufpapurcu/1n-my-adventure-of-implementing-redis-in-rust-41i0)
-- [Best NodeJs Frameworks for Backend development in 2024](https://dev.to/alakkadshaw/best-nodejs-frameworks-for-backend-development-in-2024-3i0h)
-- [Must-Have Features to Look for in a Blogging Platform](https://dev.to/elastoplastique/must-have-features-to-look-for-in-a-blogging-platform-30a6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
