@@ -5,10 +5,10 @@
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
 - [Top 10 Things You Should Avoid While Healthcare App Coding: Valuable Tips for Programmers](https://dev.to/dhruvjoshi9/healthcare-app-coding-tips-559i)
+- [Protegendo APIs da Esquerda para a Direita &lpar;e em td no meio do caminho&rpar; [Tradução +/- Comentada]](https://dev.to/bolhasec/protegendo-apis-da-esquerda-para-a-direita-e-em-td-no-meio-do-caminho-traducao-comentada-11nc)
 - [🚀👩‍💻👨‍💻 ATTENTION SOFTWARE DEVELOPERS! 🚀👩‍💻👨‍💻](https://dev.to/jagroop2001/attention-software-developers-1cb1)
+- [How we Built a 20 Billion Dollar Company in 20 minutes](https://dev.to/polterguy/how-we-built-a-20-billion-dollar-company-in-20-minutes-3j3j)
 - [Creating Clickable SVG maps in HTML with JS](https://dev.to/manishkumardsd/creating-clickable-svg-maps-in-html-with-js-1jfj)
-- [WordPress.com vs. WordPress.org – The Differences &amp; Which To Choose](https://dev.to/devarshishimpi/wordpresscom-vs-wordpressorg-the-differences-which-to-choose-422h)
-- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-2f66)
 <!-- BLOG-POST-LIST:END -->
 
 ---
