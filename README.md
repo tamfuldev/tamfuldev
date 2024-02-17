@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How to create a multiplayer game](https://dev.to/nandinishinduja/how-to-create-a-multiplayer-game-4og3)
+- [How to create a VR game?](https://dev.to/nandinishinduja/how-to-create-a-vr-game-4nh9)
+- [How to create an AR game?](https://dev.to/nandinishinduja/how-to-create-an-ar-game-59o6)
 - [Test](https://dev.to/ahle567880ahmed/test-5ph)
 - [Phase 3 at Flatiron &lpar;Python&rpar;](https://dev.to/jslee13/phase-3-at-flatiron-python-jag)
-- [How to: Create an API Rest with Express - Basic](https://dev.to/davidzcode/how-to-create-an-api-rest-with-express-c2p)
-- [OpenBSD Upgrade 7.3 to 7.4](https://dev.to/nabbisen/openbsd-upgrade-73-to-74-5a1n)
-- [Level 4, Schmeltool &lpar;Coslpore3D Pt:15&rpar;](https://dev.to/chigbeef_77/level-4-schmeltool-coslpore-pt15-395e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
