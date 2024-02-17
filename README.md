@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [What The Hell is &quot;Monkey Patching&quot;? + 11 Software Development Terms ⚡️🙌](https://dev.to/arjuncodess/what-the-hell-is-monkey-patching-11-software-development-terms-17ee)
 - [Devcli - A CLI for Dev.to!](https://dev.to/kaamkiya/devcli-a-cli-for-devto-4a85)
+- [From Canvas to Command-lines](https://dev.to/marciasatie/from-canvas-to-command-lines-2ofh)
+- [Step-by-Step Guide to Creating an Expo Monorepo with Nx](https://dev.to/nx/step-by-step-guide-to-creating-an-expo-monorepo-with-nx-3b17)
 - [Wednesday Links - Edition 2024-02-14 ❤️🤦🏻](https://dev.to/wyhasany/wednesday-links-edition-2024-02-14-3pml)
-- [Lessons Learned Too Late: Reflecting on University Regrets](https://dev.to/opensourceyllen/lessons-learned-too-late-reflecting-on-university-regrets-582n)
-- [pyaction 4.28.0 Released](https://dev.to/cicirello/pyaction-4280-released-4bgl)
-- [Discussion of the Week: &quot;I suck at writing!&quot;](https://dev.to/devteam/discussion-of-the-week-i-suck-at-writing-23d2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
