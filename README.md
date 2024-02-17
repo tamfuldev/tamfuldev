@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [OpenBSD Upgrade 7.3 to 7.4](https://dev.to/nabbisen/openbsd-upgrade-73-to-74-5a1n)
 - [FAANG - Guia Descomplicado de Entrevistas - parte 1](https://dev.to/hugaomarques/faang-guia-descomplicado-de-entrevistas-parte-1-3di0)
+- [Laravel 10 + NGINX + PHP-FPM - my ready to use all in one recipe for your Laravel 10 deployment in Docker](https://dev.to/jdsantos/laravel-10-nginx-php-fpm-my-ready-to-use-all-in-one-recipe-for-your-laravel-10-deployment-in-docker-18lb)
 - [What The Hell is &quot;Monkey Patching&quot;? + 11 Software Development Terms ⚡️🙌](https://dev.to/arjuncodess/what-the-hell-is-monkey-patching-11-software-development-terms-17ee)
 - [Devcli - A CLI for Dev.to!](https://dev.to/kaamkiya/devcli-a-cli-for-devto-4a85)
-- [From Canvas to Command-lines](https://dev.to/marciasatie/from-canvas-to-command-lines-2ofh)
-- [Step-by-Step Guide to Creating an Expo Monorepo with Nx](https://dev.to/nx/step-by-step-guide-to-creating-an-expo-monorepo-with-nx-3b17)
 <!-- BLOG-POST-LIST:END -->
 
 ---
