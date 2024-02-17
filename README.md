@@ -4,10 +4,10 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Django Signals mastery](https://dev.to/yokwejuste/django-signals-mastery-144d)
 - [What Defines a Senior Software Engineer?](https://dev.to/devteam/what-defines-a-senior-software-engineer-2bkp)
 - [6 Easy Steps to Make Responsive Website](https://dev.to/ritirathod0/6-easy-steps-to-make-responsive-website-2pl5)
 - [Building a Decentralized Todo List DApp in React and Solidity](https://dev.to/scofieldidehen/building-a-decentralized-todo-list-dapp-in-react-and-solidity-2p1e)
-- [How to create a multiplayer game](https://dev.to/nandinishinduja/how-to-create-a-multiplayer-game-4og3)
 - [How to create a VR game?](https://dev.to/nandinishinduja/how-to-create-a-vr-game-4nh9)
 <!-- BLOG-POST-LIST:END -->
 
