@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [😻Build your own CLI version of MonkeyType 🙈](https://dev.to/shricodev/build-your-own-cli-version-of-monkeytype-bm7)
+- [This is my post title](https://dev.to/darksoni107/this-is-my-post-title-1p0j)
+- [Front-End Development Roadmap for 6 months](https://dev.to/evansifyke/front-end-development-roadmap-for-6-months-379l)
 - [Build a blog from scratch using Strapi and Sveltekit](https://dev.to/markmunyaka/build-a-blog-from-scratch-using-strapi-and-sveltekit-53ip)
 - [NEED CONTRIBUTORS 🙏](https://dev.to/rudransh61/need-contributors-idg)
-- [How To Installing Ubuntu 22.04.3 LTS on VirtualBox 7](https://dev.to/dapin/how-to-installing-ubuntu-22043-lts-on-virtualbox-7-59he)
-- [Tech and the Future](https://dev.to/scofieldidehen/tech-and-the-future-25l3)
-- [The best software engineers write instead of code](https://dev.to/shailennaidoo/the-best-software-engineers-write-instead-of-code-1heg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
