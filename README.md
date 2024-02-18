@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [My VSCode Config](https://dev.to/namingthingsishard/my-vscode-config-4ohp)
 - [Revolutionizing Real-Time Alerts with AI, NATs and Streamlit](https://dev.to/bobur/revolutionizing-real-time-alerts-with-ai-nats-and-streamlit-4f2j)
 - [Exploring the Magic of Spring Boot: Simplifying Java Development](https://dev.to/rukundoprince/exploring-the-magic-of-spring-boot-simplifying-java-development-4bad)
 - [Unleashing the Power of Customized Array Methods in JavaScript.](https://dev.to/nvish007/unleashing-the-power-of-customized-array-methods-in-javascript-31ih)
 - [FAANG - Guia Descomplicado de Entrevistas - parte 2](https://dev.to/hugaomarques/faang-guia-descomplicado-de-entrevistas-parte-2-587g)
-- [How to Efficiently Monitor and Debug APIs in Real-Time?](https://dev.to/apitoolkit/how-can-i-efficiently-monitor-and-debug-my-apis-in-real-time-3432)
 <!-- BLOG-POST-LIST:END -->
 
 ---
