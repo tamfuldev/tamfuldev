@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Websites That Offer Free Certification Courses](https://dev.to/durgesh4993/websites-that-offer-free-certification-courses-of9)
+- [Sheriffing in Open Source](https://dev.to/amnish04/sheriffing-in-open-source-3mcf)
+- [Title: Boost Your Database Interactions with Prisma! ✨🔍](https://dev.to/madzimai/title-boost-your-database-interactions-with-prisma-1p9c)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-1186)
-- [Elevate Your Website&#39;s Look: Dynamic Favicon with React](https://dev.to/khaled17/elevate-your-websites-look-dynamic-favicon-with-react-3i1h)
-- [Will AI Replace Us? 🤖 🫨](https://dev.to/best_codes/will-ai-replace-us-3ijm)
-- [Setting Sail with Docker: Navigating the Container Seas](https://dev.to/arbythecoder/setting-sail-with-docker-navigating-the-container-seas-48n6)
-- [HTML Collection VS Node List](https://dev.to/tapesh/html-collection-vs-node-list-2j3m)
+- [Building OneFlow: Crafting an Effortless Jekyll Theme for One-Pager Websites](https://dev.to/per-starke-642/building-oneflow-crafting-an-effortless-jekyll-theme-for-one-pager-websites-56oi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
