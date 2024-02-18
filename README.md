@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I made &quot;TypeScript Swagger Editor&quot;, new type of Swagger UI writing TypeScript code in the browser](https://dev.to/samchon/i-made-typescript-swagger-editor-new-type-of-swagger-ui-writing-typescript-code-in-the-browser-56ig)
-- [Yet Another Newsletter LOL: Million](https://dev.to/nickytonline/yet-another-newsletter-lol-million-1nm2)
-- [Tackling Coding Challenges with Innovative Solutions](https://dev.to/nitin-rachabathuni/tackling-coding-challenges-with-innovative-solutions-2cfl)
-- [😻Build your own CLI version of MonkeyType 🙈](https://dev.to/shricodev/build-your-own-cli-version-of-monkeytype-bm7)
-- [This is my post title](https://dev.to/darksoni107/this-is-my-post-title-1p0j)
+- [Can you use Google Docs to create your website?](https://dev.to/document10/can-you-use-google-docs-to-create-your-website-1d4o)
+- [Feature Scaling in ML](https://dev.to/zarinsaima333/feature-scaling-in-ml-a4o)
+- [How to structure your code? Hexagonal Architecture!](https://dev.to/diogodanielsoaresferreira/how-to-structure-your-code-hexagonal-architecture-4pp9)
+- [Tired of Slow Loading Pages? Speed Up Your Web App with WebSockets](https://dev.to/lovestaco/tired-of-slow-loading-pages-speed-up-your-web-app-with-websockets-38dd)
+- [Introduction to HTML Web Components 💻📝](https://dev.to/aryan_shourie/introduction-to-html-web-components-3ijm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
