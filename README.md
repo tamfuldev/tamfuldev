@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Can you use Google Docs to create your website?](https://dev.to/document10/can-you-use-google-docs-to-create-your-website-1d4o)
-- [Feature Scaling in ML](https://dev.to/zarinsaima333/feature-scaling-in-ml-a4o)
-- [How to structure your code? Hexagonal Architecture!](https://dev.to/diogodanielsoaresferreira/how-to-structure-your-code-hexagonal-architecture-4pp9)
-- [Tired of Slow Loading Pages? Speed Up Your Web App with WebSockets](https://dev.to/lovestaco/tired-of-slow-loading-pages-speed-up-your-web-app-with-websockets-38dd)
-- [Introduction to HTML Web Components 💻📝](https://dev.to/aryan_shourie/introduction-to-html-web-components-3ijm)
+- [Figma to React Native: Bridging Design and Mobile App Development with Codia AI](https://dev.to/cyberpunker/figma-to-react-native-bridging-design-and-mobile-app-development-with-codia-ai-1618)
+- [Longest Substring Without Repeating Characters](https://dev.to/dagasatvik10/longest-substring-without-repeating-characters-1oaa)
+- [Build a ChatGPT 4 Blackjack Game with AI Coaching &lpar;49 Lines of Code&rpar;](https://dev.to/aimarkdown/build-a-chatgpt-4-blackjack-game-with-ai-coaching-49-lines-of-code-2l84)
+- [Any Tips on Dealing With the Imposter Syndrome?](https://dev.to/anitaolsen/any-tips-on-dealing-with-the-imposter-syndrome-1k9b)
+- [Calculator](https://dev.to/huzaifaakhtar2/calculator-2ch5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
