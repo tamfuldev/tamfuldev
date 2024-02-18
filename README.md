@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How to test a browser extension locally](https://dev.to/cassidoo/how-to-test-a-browser-extension-locally-4bne)
 - [Websites That Offer Free Certification Courses](https://dev.to/durgesh4993/websites-that-offer-free-certification-courses-of9)
 - [Sheriffing in Open Source](https://dev.to/amnish04/sheriffing-in-open-source-3mcf)
 - [Title: Boost Your Database Interactions with Prisma! ✨🔍](https://dev.to/madzimai/title-boost-your-database-interactions-with-prisma-1p9c)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-1186)
-- [Building OneFlow: Crafting an Effortless Jekyll Theme for One-Pager Websites](https://dev.to/per-starke-642/building-oneflow-crafting-an-effortless-jekyll-theme-for-one-pager-websites-56oi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
