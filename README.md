@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday](https://dev.to/ben/meme-monday-46pb)
-- [Enhanced Starknet Airdrop Experience with GetBlock&#39;s Starknet RPC: Accelerate Your STRK Claim](https://dev.to/getblockapi/enhanced-starknet-airdrop-experience-with-getblocks-starknet-rpc-accelerate-your-strk-claim-2npi)
-- [Harnessing the power of GitOps with Rig](https://dev.to/rigdev/harnessing-the-power-of-gitops-with-rig-1aig)
-- [Do front-end developers fear the back-end?](https://dev.to/bd_perez/do-front-end-developers-fear-the-back-end-41fc)
-- [My Journey Learning AI for Songwriting: LSTMs and Taylor Swift](https://dev.to/olgabraginskaya/my-journey-learning-ai-for-songwriting-lstms-and-taylor-swift-38mb)
+- [Unnecessary Git Quiz](https://dev.to/hyperswitchio/unnecessary-git-quiz-1b61)
+- [20 Things You Should Consider When You Grow as a Developer](https://dev.to/mmainulhasan/20-things-you-should-consider-when-you-grow-as-a-developer-58k9)
+- [Magic is no longer Open Source](https://dev.to/polterguy/magic-is-no-longer-open-source-4pff)
+- [What we&#39;ve achieved with 1 Month of Basement Devs](https://dev.to/danielhe4rt/what-weve-achieved-with-1-month-of-basement-devs-3pec)
+- [The Journey of CSS and SASS Towards Serenity](https://dev.to/sudhil/the-journey-of-css-and-sass-towards-serenity-389f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
