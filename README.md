@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Add Cypress, Playwright, and Storybook to Nx Expo Apps](https://dev.to/nx/add-cypress-playwright-and-storybook-to-nx-expo-apps-2ob1)
+- [Integración de la API de OpenAI Text-to-Speech en Astro con React y Next.js](https://dev.to/danieljsaldana/integracion-de-la-api-de-openai-text-to-speech-en-astro-con-react-y-nextjs-3gia)
 - [Learn Game Hacking](https://dev.to/ghrake/learn-game-hacking-49ca)
 - [How being a designer reduced my pedantry in arguments and affected my language](https://dev.to/ladyofcode/how-being-a-designer-reduced-my-pedantry-in-arguments-and-affected-my-language-1i4m)
 - [Implicit Dependencies Management with Nx: A Practical Guide through Real-World Case Studies](https://dev.to/this-is-learning/implicit-dependencies-management-with-nx-a-practical-guide-through-real-world-case-studies-59kd)
-- [Episode 24/07: Angular 17.2, optional RxJs](https://dev.to/this-is-angular/episode-2407-angular-172-optional-rxjs-2i0c)
-- [Documentação em toda parte](https://dev.to/beatrizoliveira/documentacao-em-toda-parte-e1m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
