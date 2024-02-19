@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Which is going to win, DevOps or Agile?](https://dev.to/cloudzenix24/which-is-going-to-win-devops-or-agile-31c2)
+- [Beyond Basics: Traversing Kali Linux Tools](https://dev.to/up_min_sparcs/beyond-basics-traversing-kali-linux-tools-3gj6)
+- [Eleventy - Create a global production flag](https://dev.to/robole/eleventy-create-a-global-production-flag-56p9)
+- [The Basics of AI Image Generation: How to create your own AI-generated image using Stable Diffusion on your local machine.](https://dev.to/up_min_sparcs/the-basics-of-ai-image-generation-how-to-create-your-own-ai-generated-image-using-stable-diffusion-on-your-local-machine-47mj)
 - [Shielding Your Data: Safeguarding AWS S3 via VPC Endpoints.](https://dev.to/acloudguy/shielding-your-data-safeguarding-aws-s3-via-vpc-endpoints-2lic)
-- [Component Driven Design: efficiency and scalability in digital products](https://dev.to/spykerel04d/component-driven-design-efficiency-and-scalability-in-digital-products-247a)
-- [The Death of RAG: What a 10M Token Breakthrough Means for Developers](https://dev.to/dawiddahl/the-death-of-rag-what-a-10m-token-breakthrough-means-for-developers-3p24)
-- [Tracking Crypto Prices on Autopilot: GitHub Codespaces &amp; Actions Guide](https://dev.to/pizofreude/tracking-crypto-prices-on-autopilot-github-codespaces-actions-guide-1hc8)
-- [S01E02: Website, Mastodon and Event Catalogues](https://dev.to/bogomil/s01e02-website-mastodon-and-event-catalogues-43jb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
