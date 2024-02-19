@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Newsletters, the good, the bad and the ugly](https://dev.to/nickytonline/newsletters-the-good-the-bad-and-the-ugly-43g4)
 - [Kentico Xperience 13: 5 tips on how to ace the Kentico Certified Developer exam](https://dev.to/michael419/kentico-xperience-13-5-tips-on-how-to-ace-the-kentico-certified-developer-exam-3dkh)
 - [Assign alias to your long togo git commands!](https://dev.to/busycaesar/assign-alias-to-your-long-togo-git-commands-3i9j)
 - [Setting Headers with Axios in Node JS](https://dev.to/alakkadshaw/setting-headers-with-axios-in-node-js-p01)
 - [Career Switching........](https://dev.to/mrmatt1010/career-switching-mbi)
-- [Além dos Templates: Uma Crítica Construtiva à Arquitetura Limpa e a Adaptação Pragmática no Design de Software](https://dev.to/yanjustino/alem-dos-templates-uma-critica-construtiva-a-arquitetura-limpa-e-a-adaptacao-pragmatica-no-design-de-software-1l2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
