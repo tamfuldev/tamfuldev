@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Is the Tech Job Market Really as Grim as It Seems?](https://dev.to/devteam/is-the-tech-job-market-really-as-grim-as-it-seems-372d)
+- [Build A React Component with Vite](https://dev.to/vsmentor/build-a-react-component-with-vite-1ifm)
+- [Power Apps - Making a Captcha](https://dev.to/wyattdave/power-apps-making-a-captcha-3j62)
 - [Implement the Singleton pattern](https://dev.to/phuocng/implement-the-singleton-pattern-3mbe)
 - [7 Components of our Notification Service we Shifted from Devs to PMs](https://dev.to/suprsend/7-components-of-our-notification-service-we-shifted-from-devs-to-pms-j7d)
-- [Using Google Gemini With Flask, Vue and Vite](https://dev.to/ethand91/using-google-gemini-with-flask-vue-and-vite-57d)
-- [Newsletters: the good, the bad and the ugly](https://dev.to/nickytonline/newsletters-the-good-the-bad-and-the-ugly-43g4)
-- [Kentico Xperience 13: 5 tips on how to ace the Kentico Certified Developer exam](https://dev.to/michael419/kentico-xperience-13-5-tips-on-how-to-ace-the-kentico-certified-developer-exam-3dkh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
