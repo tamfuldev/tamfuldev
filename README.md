@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Using Google Gemini With Flask, Vue and Vite](https://dev.to/ethand91/using-google-gemini-with-flask-vue-and-vite-57d)
 - [Newsletters: the good, the bad and the ugly](https://dev.to/nickytonline/newsletters-the-good-the-bad-and-the-ugly-43g4)
 - [Kentico Xperience 13: 5 tips on how to ace the Kentico Certified Developer exam](https://dev.to/michael419/kentico-xperience-13-5-tips-on-how-to-ace-the-kentico-certified-developer-exam-3dkh)
 - [Assign alias to your long togo git commands!](https://dev.to/busycaesar/assign-alias-to-your-long-togo-git-commands-3i9j)
 - [Setting Headers with Axios in Node JS](https://dev.to/alakkadshaw/setting-headers-with-axios-in-node-js-p01)
-- [Career Switching........](https://dev.to/mrmatt1010/career-switching-mbi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
