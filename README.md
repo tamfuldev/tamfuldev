@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Learn Game Hacking](https://dev.to/ghrake/learn-game-hacking-49ca)
 - [How being a designer reduced my pedantry in arguments and affected my language](https://dev.to/ladyofcode/how-being-a-designer-reduced-my-pedantry-in-arguments-and-affected-my-language-1i4m)
+- [Implicit Dependencies Management with Nx: A Practical Guide through Real-World Case Studies](https://dev.to/this-is-learning/implicit-dependencies-management-with-nx-a-practical-guide-through-real-world-case-studies-59kd)
+- [Episode 24/07: Angular 17.2, optional RxJs](https://dev.to/this-is-angular/episode-2407-angular-172-optional-rxjs-2i0c)
 - [Documentação em toda parte](https://dev.to/beatrizoliveira/documentacao-em-toda-parte-e1m)
-- [🦉 AthenaDB: Distributed Vector Database Powered by Cloudflare 🌩️](https://dev.to/timesurgelabs/athenadb-distributed-vector-database-powered-by-cloudflare-4p59)
-- [The State Of Open Conference 2024](https://dev.to/nikitakoselev/the-state-of-open-conference-2024-2435)
-- [Difference between Functional and Non Functional Testing](https://dev.to/selvakumar/difference-between-functional-and-non-functional-testing-1aim)
 <!-- BLOG-POST-LIST:END -->
 
 ---
