@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Observability with Express and Busgnag - In a easy way](https://dev.to/yelldutz/observability-with-express-and-busgnag-in-a-easy-way-46bl)
+- [Building Your Brand: How Blogging Can Elevate Your Online Presence](https://dev.to/danielwilhoiti63/building-your-brand-how-blogging-can-elevate-your-online-presence-1hdi)
+- [SQL Server Management Studio &lpar;SSMS&rpar;](https://dev.to/appliedk/sql-server-management-studio-ssms-3b11)
 - [Add Cypress, Playwright, and Storybook to Nx Expo Apps](https://dev.to/nx/add-cypress-playwright-and-storybook-to-nx-expo-apps-2ob1)
 - [Integración de la API de OpenAI Text-to-Speech en Astro con React y Next.js](https://dev.to/danieljsaldana/integracion-de-la-api-de-openai-text-to-speech-en-astro-con-react-y-nextjs-3gia)
-- [Learn Game Hacking](https://dev.to/ghrake/learn-game-hacking-49ca)
-- [How being a designer reduced my pedantry in arguments and affected my language](https://dev.to/ladyofcode/how-being-a-designer-reduced-my-pedantry-in-arguments-and-affected-my-language-1i4m)
-- [Implicit Dependencies Management with Nx: A Practical Guide through Real-World Case Studies](https://dev.to/this-is-learning/implicit-dependencies-management-with-nx-a-practical-guide-through-real-world-case-studies-59kd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
