@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [My Journey Learning AI for Songwriting: LSTMs and Taylor Swift](https://dev.to/olgabraginskaya/my-journey-learning-ai-for-songwriting-lstms-and-taylor-swift-38mb)
+- [Simplifier l’intégration des icônes depuis Figma : De la conception au design system](https://dev.to/mgdis/simplifier-lintegration-des-icones-depuis-figma-de-la-conception-au-design-system-f9j)
+- [The Dilemma of Perfection: Balancing Timeliness and Quality in Product Development](https://dev.to/this-is-learning/the-dilemma-of-perfection-balancing-timeliness-and-quality-in-product-development-4jlj)
+- [Achieve influence in your career with credibility and likeability.](https://dev.to/apotre/achieve-influence-in-your-career-with-credibility-and-likeability-4k6n)
 - [Creating Scroll Progress Bar using CSS and JavaScript in React](https://dev.to/surajondev/creating-scroll-progress-bar-using-css-and-javascript-in-react-85o)
-- [Automating Your Home with Node-RED: A Beginner&#39;s Guide](https://dev.to/kcode96/automating-your-home-with-node-red-a-beginners-guide-2b1e)
-- [Which is going to win, DevOps or Agile?](https://dev.to/cloudzenix24/which-is-going-to-win-devops-or-agile-31c2)
-- [When you need a message broker](https://dev.to/ilyary/when-you-need-a-message-broker-51di)
-- [Dotting and Dashing with Minion Morse Magic](https://dev.to/balagmadhu/dotting-and-dashing-with-minion-morse-magic-5enf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
