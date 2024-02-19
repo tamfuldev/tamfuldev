@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Tracking Crypto Prices on Autopilot: GitHub Codespaces &amp; Actions Guide](https://dev.to/pizofreude/tracking-crypto-prices-on-autopilot-github-codespaces-actions-guide-1hc8)
+- [AWS open source newsletter, #189](https://dev.to/aws/aws-open-source-newsletter-189-4fc)
+- [Weekly Roundup 040 &lpar;Feb 12&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-040-feb-12-hot-topics-in-workplace-sharepoint-and-powerplatform-1mlb)
+- [A Cafe Menu](https://dev.to/huzaifaakhtar2/a-cafe-menu-58l6)
 - [Is the Tech Job Market Really as Grim as It Seems?](https://dev.to/devteam/is-the-tech-job-market-really-as-grim-as-it-seems-372d)
-- [Build A React Component with Vite](https://dev.to/vsmentor/build-a-react-component-with-vite-1ifm)
-- [Power Apps - Making a Captcha](https://dev.to/wyattdave/power-apps-making-a-captcha-3j62)
-- [Implement the Singleton pattern](https://dev.to/phuocng/implement-the-singleton-pattern-3mbe)
-- [7 Components of our Notification Service we Shifted from Devs to PMs](https://dev.to/suprsend/7-components-of-our-notification-service-we-shifted-from-devs-to-pms-j7d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
