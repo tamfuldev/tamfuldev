@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Creating Scroll Progress Bar using CSS and JavaScript in React](https://dev.to/surajondev/creating-scroll-progress-bar-using-css-and-javascript-in-react-85o)
+- [Automating Your Home with Node-RED: A Beginner&#39;s Guide](https://dev.to/kcode96/automating-your-home-with-node-red-a-beginners-guide-2b1e)
 - [Which is going to win, DevOps or Agile?](https://dev.to/cloudzenix24/which-is-going-to-win-devops-or-agile-31c2)
-- [Beyond Basics: Traversing Kali Linux Tools](https://dev.to/up_min_sparcs/beyond-basics-traversing-kali-linux-tools-3gj6)
-- [Eleventy - Create a global production flag](https://dev.to/robole/eleventy-create-a-global-production-flag-56p9)
-- [The Basics of AI Image Generation: How to create your own AI-generated image using Stable Diffusion on your local machine.](https://dev.to/up_min_sparcs/the-basics-of-ai-image-generation-how-to-create-your-own-ai-generated-image-using-stable-diffusion-on-your-local-machine-47mj)
-- [Shielding Your Data: Safeguarding AWS S3 via VPC Endpoints.](https://dev.to/acloudguy/shielding-your-data-safeguarding-aws-s3-via-vpc-endpoints-2lic)
+- [When you need a message broker](https://dev.to/ilyary/when-you-need-a-message-broker-51di)
+- [Dotting and Dashing with Minion Morse Magic](https://dev.to/balagmadhu/dotting-and-dashing-with-minion-morse-magic-5enf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
