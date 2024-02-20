@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Pros and Cons of Arrays in Java](https://dev.to/travelcoder/pros-and-cons-of-arrays-in-java-3if9)
+- [Using == vs the equals&lpar;&rpar; Method in Java](https://dev.to/travelcoder/using-vs-the-equals-method-in-java-1anf)
+- [Top Elements to Consider in Creating Effective Branding Design](https://dev.to/freelancer111/top-elements-to-consider-in-creating-effective-branding-design-2feb)
+- [12 things you didn&#39;t know you could do with Nextjs](https://dev.to/anmolbaranwal/12-things-you-didnt-know-you-could-do-with-nextjs-386b)
 - [Ownership in Rust](https://dev.to/francescoxx/ownership-in-rust-57j2)
-- [Hey Chads, 🗿 share your Neovim and Tmux Config](https://dev.to/shricodev/hey-chads-share-your-neovim-and-tmux-config-26ap)
-- [Building Smarter, Safer Apps: Inside Salesforce&#39;s Einstein Trust Layer](https://dev.to/zorian/building-smarter-safer-apps-inside-salesforces-einstein-trust-layer-2ip4)
-- [Preventing Email Spoofing Attacks on your SMTP Server](https://dev.to/scofieldidehen/preventing-email-spoofing-attacks-on-your-smtp-server-19fc)
-- [Ghost: The Open Source Newsletter Platform You Should Know About](https://dev.to/opensauced/ghost-the-open-source-newsletter-platform-you-should-know-about-526j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
