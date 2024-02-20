@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Aftermath of switching from VSCode to Neovim](https://dev.to/jonnytriestowrite/aftermath-of-switching-from-vscode-to-neovim-4efl)
 - [Observability with Express and Busgnag - In a easy way](https://dev.to/yelldutz/observability-with-express-and-busgnag-in-a-easy-way-46bl)
+- [[05/52] The Beauty of Zig-WASM-Python](https://dev.to/tythos/0552-the-beauty-of-zig-wasm-python-242c)
 - [Building Your Brand: How Blogging Can Elevate Your Online Presence](https://dev.to/danielwilhoiti63/building-your-brand-how-blogging-can-elevate-your-online-presence-1hdi)
 - [SQL Server Management Studio &lpar;SSMS&rpar;](https://dev.to/appliedk/sql-server-management-studio-ssms-3b11)
-- [Add Cypress, Playwright, and Storybook to Nx Expo Apps](https://dev.to/nx/add-cypress-playwright-and-storybook-to-nx-expo-apps-2ob1)
-- [Integración de la API de OpenAI Text-to-Speech en Astro con React y Next.js](https://dev.to/danieljsaldana/integracion-de-la-api-de-openai-text-to-speech-en-astro-con-react-y-nextjs-3gia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
