@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Compare DynamoDB DAX with ElasticCache](https://dev.to/vng_bach/compare-dynamodb-dax-with-elasticcache-haj)
-- [What Habits Are Holding You Back from Success?](https://dev.to/devteam/what-habits-are-holding-you-back-from-success-2n5m)
-- [Why I prefer Maven over Gradle](https://dev.to/dagnelies/why-i-prefer-maven-over-gradle-5ga5)
-- [When to use serverless?](https://dev.to/yokwejuste/when-to-use-serverless-2n3j)
-- [Building an Image Recognition Website with SvelteKit and TensorFlow.js](https://dev.to/estelle-k/building-an-image-recognition-website-with-sveltekit-and-tensorflowjs-474a)
+- [Cybersecurity basics: security mindset](https://dev.to/azasypkin/cybersecurity-basics-security-mindset-2d71)
+- [How not to do CSS](https://dev.to/codeparrot/how-not-to-do-css-1cop)
+- [Look Who is Back: jQuery 4.0.0 is Coming to Town](https://dev.to/brojenuel/look-who-is-back-jquery-400-is-coming-to-town-4jd3)
+- [From Image to Design Draft and Code: Exploring How Codia AI Achieves Automatic Generation](https://dev.to/happyer/from-image-to-design-draft-and-code-exploring-how-codia-ai-achieves-automatic-generation-1go5)
+- [How API Gateways Address Enterprises&#39; Business Challenges?](https://dev.to/apisix/how-api-gateways-address-enterprises-business-challenges-2efk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
