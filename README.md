@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Desestruturação de Arrays em JavaScript](https://dev.to/barobles/desestruturacao-de-arrays-em-javascript-3if5)
 - [one of the Codia AI Design technologies: Font Restoration Technology](https://dev.to/happyer/one-of-the-codia-ai-design-technologies-font-restoration-technology-3p7m)
+- [Observability with OpenTelemetry, Jaeger and Rails](https://dev.to/iamademar/observability-with-opentelemetry-jaeger-and-rails-3g8m)
 - [From Messy to Memorable: Shorten Your Links, Boost Your Brand](https://dev.to/opensauced/from-messy-to-memorable-shorten-your-links-boost-your-brand-hf7)
 - [Implementing API Rate Limiting in Rust](https://dev.to/shuttle_dev/implementing-api-rate-limiting-in-rust-4fjl)
-- [Threading vs Asyncio vs Multiprocessing](https://dev.to/coderatul/threading-vs-asyncio-vs-multiprocessing-10ed)
-- [Review my React-native Based Playground](https://dev.to/suprsend/review-my-react-native-based-playground-2db2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
