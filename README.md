@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to add hotkeys to your Rails app with Stimulus](https://dev.to/railsdesigner/how-to-add-hotkeys-to-your-rails-app-with-stimulus-42bd)
-- [Código Legado: Razões para Respeitar e Valorizar](https://dev.to/kecbm/codigo-legado-razoes-para-respeitar-e-valorizar-4e9o)
-- [GitHub Security Best Practices Every Developer Should Know](https://dev.to/surajondev/github-security-best-practices-every-developer-should-know-604)
-- [Strategies to reduce complexity](https://dev.to/jquinten/strategies-to-reduce-complexity-52gg)
-- [Setting Up SMTP Relay for Enhanced Email Reliability](https://dev.to/scofieldidehen/setting-up-smtp-relay-for-enhanced-email-reliability-1j9i)
+- [Mastering React State Management with useReducer: A Comprehensive Guide](https://dev.to/sharmaprash/mastering-react-state-management-with-usereducer-a-comprehensive-guide-104)
+- [Are programming and coding the same thing?](https://dev.to/erasmuskotoka/are-programming-and-coding-the-same-thing-2nob)
+- [Understanding CSS Website Layouts](https://dev.to/igbojionu/understanding-css-website-layouts-chh)
+- [🎆 THE BEST AND MOST USEFUL VSCODE EXTENSIONS 🎆](https://dev.to/luciano655dev/the-best-and-most-useful-vscode-extensions-jb3)
+- [Browser-to-Browser calling with SIP.js and Routr](https://dev.to/fonoster/browser-to-browser-calling-with-sipjs-and-routr-3l07)
 <!-- BLOG-POST-LIST:END -->
 
 ---
