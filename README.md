@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [NoSQL Postgres: Add MongoDB compatibility to your Supabase projects with FerretDB](https://dev.to/supabase/nosql-postgres-add-mongodb-compatibility-to-your-supabase-projects-with-ferretdb-3bfm)
+- [Email Campaign Solutions: What are you using?](https://dev.to/opensauced/email-campaign-solutions-what-are-you-using-5b8g)
+- [Mastering the :not&lpar;&rpar; CSS Pseudo-Class](https://dev.to/r4nd3l/mastering-the-not-css-pseudo-class-47dh)
+- [How to Build a Perfect API Description](https://dev.to/treblle/how-to-build-a-perfect-api-description-552)
 - [I had created a new Graphics Programming Language &quot;Tortoys&quot; 🐢](https://dev.to/rudransh61/i-had-created-a-new-graphics-programming-language-tortoys-2klg)
-- [Why Python and SQL are Must-Have Skills for Marketing Analysts in the Age of Big Data](https://dev.to/scofieldidehen/why-python-and-sql-are-must-have-skills-for-marketing-analysts-in-the-age-of-big-data-m0e)
-- [Down the Digital Rabbit Hole: EU Investigates TikTok&#39;s Addictive Algorithms](https://dev.to/howtouselinux/down-the-digital-rabbit-hole-eu-investigates-tiktoks-addictive-algorithms-410b)
-- [A Friendly Guide to React Hooks](https://dev.to/respect17/a-friendly-guide-to-react-hooks-m9l)
-- [Top 5+ Best Free AI Humanizers to Humanize AI Texts in 2024](https://dev.to/fredy/top-5-best-free-ai-text-content-humanizers-for-2024-4poe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
