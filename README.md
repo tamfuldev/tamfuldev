@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Shtcut Open Source: Your Friendly Marketing Companion](https://dev.to/funmiayinde/shtcut-open-source-your-friendly-marketing-companion-oi6)
 - [Event-driven architecture: navigating the single threaded nature of Node.js](https://dev.to/joshraphael/event-driven-architecture-navigating-the-single-threaded-nature-of-nodejs-1aj4)
 - [Constraint-based Design](https://dev.to/milandry/constraint-based-design-2lpo)
 - [Exploring CSS where it doesn&#39;t make sense](https://dev.to/samuel-braun/exploring-css-where-it-doesnt-make-sense-417k)
 - [Things that have been happening to me too often lately](https://dev.to/tux0r/things-that-have-been-happening-to-me-too-often-lately-4cid)
-- [Top 10 GitHub Repositories Every Web Developer Should Know](https://dev.to/aayush518/top-10-github-repositories-every-web-developer-should-know-25lf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
