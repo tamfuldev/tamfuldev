@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Java Testing tools for 2024 - part 2](https://dev.to/ivangavlik/java-testing-tools-for-2024-part-2-5dia)
+- [What is Server Side Rendering &lpar;SSR&rpar; and Static Site Generation &lpar;SSG&rpar;?](https://dev.to/this-is-learning/what-is-server-side-rendering-ssr-and-static-site-generation-ssg-308o)
 - [5 Common Mistakes Every Junior Developer Makes &lpar;And How to Avoid Them&rpar;](https://dev.to/jagroop2001/5-common-mistakes-every-junior-developer-makes-and-how-to-avoid-them-334i)
+- [Yet Another Newsletter LOL: Slow Roads](https://dev.to/nickytonline/yet-another-newsletter-lol-slow-roads-169o)
 - [No need to learn Class Names of CSS libraries](https://dev.to/rudransh61/no-need-to-learn-class-names-of-css-libraries-5o)
-- [PassKey in Go](https://dev.to/egregors/passkey-in-go-1efk)
-- [5 Rust Project Ideas For Beginner Devs 🦀](https://dev.to/eleftheriabatsou/5-rust-project-ideas-for-beginner-devs-1am3)
-- [When To Not Use Pointers in Golang?](https://dev.to/nikl/when-to-not-use-pointers-in-golang-kfi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
