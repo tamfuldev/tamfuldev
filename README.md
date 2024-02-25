@@ -5,10 +5,10 @@
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
 - [How Do You Mitigate Miscommunication?](https://dev.to/devteam/how-do-you-mitigate-miscommunication-3bhl)
+- [Web Development Tools and Resources](https://dev.to/lilxyzz/web-development-tools-and-resources-24m8)
 - [Use Doppler instead of traditional .env files 🍕](https://dev.to/pierre/use-doppler-instead-of-traditional-env-files-5p5)
 - [📝 Exploring Palindromic Partitioning: Solving the &quot;Palindrome Partitioning&quot; Problem 📝](https://dev.to/majesticshawarma/exploring-palindromic-partitioning-solving-the-palindrome-partitioning-problem-50hj)
 - [Format strings in OCaml](https://dev.to/yawaramin/format-strings-in-ocaml-59ci)
-- [Simplifying File Management with .NET 8](https://dev.to/admir_live/simplifying-file-management-with-net-8-38m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
