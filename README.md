@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [5 Common Mistakes Every Junior Developer Makes &lpar;And How to Avoid Them&rpar;](https://dev.to/jagroop2001/5-common-mistakes-every-junior-developer-makes-and-how-to-avoid-them-334i)
 - [No need to learn Class Names of CSS libraries](https://dev.to/rudransh61/no-need-to-learn-class-names-of-css-libraries-5o)
+- [PassKey in Go](https://dev.to/egregors/passkey-in-go-1efk)
 - [5 Rust Project Ideas For Beginner Devs 🦀](https://dev.to/eleftheriabatsou/5-rust-project-ideas-for-beginner-devs-1am3)
 - [When To Not Use Pointers in Golang?](https://dev.to/nikl/when-to-not-use-pointers-in-golang-kfi)
-- [8 Best Markdown Note-Taking Apps to Maximizing Efficiency](https://dev.to/stan8086/8-best-markdown-note-taking-apps-to-maximizing-efficiency-3ap6)
-- [Mastering Node.js: 50 Interview Essentials 🚀](https://dev.to/alisamirali/mastering-nodejs-50-interview-essentials-57n9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
