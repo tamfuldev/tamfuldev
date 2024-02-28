@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Model Inputs: Reactive Two-Way Binding](https://dev.to/this-is-angular/model-inputs-reactive-two-way-binding-2538)
+- [Understanding Power of Horizen EON&#39;s Stateful Model: User Experience in Account-Based Transactions](https://dev.to/vanshikasrivastava/understanding-power-of-horizen-eons-stateful-model-user-experience-in-account-based-transactions-58if)
+- [Hashing Password And Generating User Token In Your Schema](https://dev.to/fredabod/hashing-password-and-generating-user-token-in-your-schema-3803)
+- [Azure Cloud Exams](https://dev.to/_eduard26/azure-cloud-exams-26f0)
 - [How and why we ripped our Open Source product apart for a full rebuild](https://dev.to/browserless/how-and-why-we-ripped-our-open-source-product-apart-for-a-full-rebuild-552n)
-- [Be careful with package names](https://dev.to/luca_nicoletti/be-careful-with-package-names-4mn8)
-- [How to make a Keylogger Payload Undectatable](https://dev.to/scofieldidehen/how-to-make-a-keylogger-payload-undectatable-klh)
-- [You are Wrong. Frameworks Do Matter](https://dev.to/mohammadfaisal/you-are-wrong-frameworks-do-matter-dfm)
-- [Using SignalDB with React: A complete guide](https://dev.to/logrocket/using-signaldb-with-react-a-complete-guide-bdc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
