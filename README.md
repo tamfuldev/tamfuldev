@@ -6,9 +6,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Creating a dynamic invoice using react-print-pdf](https://dev.to/onedoc/creating-a-dynamic-invoice-using-react-print-pdf-2624)
 - [How to access Neon Postgres from AWS Lambda functions via serverless driver](https://dev.to/hackmamba/how-to-access-neon-postgres-from-aws-lambda-functions-via-serverless-driver-3ad4)
+- [Best Practices for Branch Naming Conventions and Effective Commit Messages](https://dev.to/faidterence/best-practices-for-branch-naming-conventions-and-effective-commit-messages-ma8)
 - [Styled-Components: Why you should &lpar;or should not&rpar; use it](https://dev.to/pancompany/styled-components-why-you-should-or-should-not-use-it-23c)
 - [It&#39;s Always About Bob](https://dev.to/rfornal/its-always-about-bob-2gcg)
-- [How to add a skeleton UI to Rails with Turbo](https://dev.to/railsdesigner/how-to-add-a-skeleton-ui-to-rails-with-turbo-1ldh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
