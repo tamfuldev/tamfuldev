@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to make a turtle racing game in Python](https://dev.to/codewithshahan/how-to-make-a-turtle-racing-game-in-python-3nfn)
-- [What you need to know about software requirements](https://dev.to/m4rri4nne/what-you-need-to-know-about-software-requirements-2hc0)
-- [Git - Déplacer un commit vers une autre branche](https://dev.to/theobourdel/git-deplacer-un-commit-vers-une-autre-branche-1jeo)
-- [Start your own &lpar;side&rpar; business with open-source in mind](https://dev.to/developuls/start-your-own-side-business-with-open-source-in-mind-2noe)
-- [How to hide files or data in a JPEG Image](https://dev.to/abdulmuminyqn/how-to-hide-files-or-data-in-a-jpeg-image-5gna)
+- [How To Make A Truth Or Dare Bot Discord](https://dev.to/siddheshuncodes/how-to-make-a-truth-or-dare-bot-discord-4lme)
+- [Apple is killing PWA?](https://dev.to/maximsaplin/apple-is-killing-pwa-2kjn)
+- [Why Companies Area Restrict Jobs, Even if They Are Remote](https://dev.to/ugglr/why-companies-area-restrict-jobs-even-if-they-are-remote-35lo)
+- [What I learned in 6 months of working on a CodeGen dev tool GPT Pilot](https://dev.to/zvone187/what-i-learned-in-6-months-of-working-on-a-codegen-dev-tool-gpt-pilot-4fij)
+- [Can you make your website green 🌳♻🌳?](https://dev.to/fanmixco/can-you-make-your-website-green--1lb7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
