@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How to make a turtle racing game in Python](https://dev.to/codewithshahan/how-to-make-a-turtle-racing-game-in-python-3nfn)
+- [What you need to know about software requirements](https://dev.to/m4rri4nne/what-you-need-to-know-about-software-requirements-2hc0)
+- [Git - Déplacer un commit vers une autre branche](https://dev.to/theobourdel/git-deplacer-un-commit-vers-une-autre-branche-1jeo)
+- [Start your own &lpar;side&rpar; business with open-source in mind](https://dev.to/developuls/start-your-own-side-business-with-open-source-in-mind-2noe)
 - [How to hide files or data in a JPEG Image](https://dev.to/abdulmuminyqn/how-to-hide-files-or-data-in-a-jpeg-image-5gna)
-- [What are Object-Relational Mappers &lpar;ORMs&rpar;?](https://dev.to/tahmidbintaslim/what-are-object-relational-mappers-orms-4clb)
-- [Six-Figure Content Programs: A Lesson &lpar;and Change&rpar; in Positioning](https://dev.to/daedtech/six-figure-content-programs-a-lesson-and-change-in-positioning-56bm)
-- [Implementing Stripe Payments in a React App and on Stripe Hosted Page: A Step-by-Step Guide](https://dev.to/mominmahmud/implementing-stripe-payments-in-a-react-app-a-step-by-step-guide-4dd9)
-- [Async vs Defer in JavaScript: Which is Better?🤔](https://dev.to/fidalmathew/async-vs-defer-in-javascript-which-is-better-26gm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
