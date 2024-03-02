@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Deep dive into K8s Probes](https://dev.to/sre_panchanan/deep-dive-into-k8s-probes-4fmk)
+- [What&#39;s Your New Favorite Productivity App?](https://dev.to/devteam/whats-your-new-favorite-productivity-app-5a04)
+- [What are React Server Actions?](https://dev.to/this-is-learning/what-are-react-server-actions-147o)
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-3ml0)
 - [MiniScript on a bare-metal Raspberry Pi](https://dev.to/joestrout/miniscript-on-a-bare-metal-raspberry-pi-59p6)
-- [3 Advanced Famer Motion Effects in React](https://dev.to/salehmubashar/3-advanced-famer-motion-effects-in-react-2jib)
-- [Building an Infinite Scroll Component with Intersection Observer 🚀](https://dev.to/vikas2426/building-an-infinite-scroll-component-with-intersection-observer-17p1)
-- [Somewhat dynamic typing in Rust - magic of traits](https://dev.to/programcrafter/somewhat-dynamic-typing-in-rust-magic-of-traits-1229)
 <!-- BLOG-POST-LIST:END -->
 
 ---
