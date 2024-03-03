@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [The State of Angular SSR Deployment in 2024](https://dev.to/jdgamble555/the-state-of-angular-ssr-deployment-in-2024-17jb)
+- [Embrace that a Career isn’t always Measured by Climbing the Technology Ladder](https://dev.to/aws-builders/embrace-that-a-career-isnt-always-measured-by-climbing-the-technology-ladder-4p5b)
 - [How is your mental health right now?](https://dev.to/elliot_brenya/how-is-your-mental-health-right-now-25bj)
 - [Time to share your RSS feeds 🙌❤️](https://dev.to/thomasbnt/time-to-share-your-rss-feeds-4f28)
 - [Intro to stock analysis](https://dev.to/diegoga/intro-to-stock-analysis-43ga)
-- [Aplicações de Segurança no Desenvolvimento de um Software: Hash e Salt #1](https://dev.to/arthcc/aplicacoes-de-seguranca-no-desenvolvimento-de-um-software-hash-e-salt-1-3lik)
-- [Kubernetes Resources Management](https://dev.to/sre_panchanan/kubernetes-resources-management-479a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
