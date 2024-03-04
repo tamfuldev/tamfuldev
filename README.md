@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Belajar Deploy Aplikasi Web Menggunakan Layanan ECS &lpar;Elastic Compute Service&rpar; Alibaba](https://dev.to/ferryops/belajar-deploy-aplikasi-web-menggunakan-layanan-ecs-elastic-compute-service-alibaba-4cek)
-- [Unveiling General AI and LLMs: A Comprehensive Guide](https://dev.to/asadravian/unveiling-general-ai-and-llms-a-comprehensive-guide-m49)
-- [How I Write Clean Code As A Develeoper : Step By Step](https://dev.to/durgesh4993/how-i-write-clean-code-as-a-develeoper-step-by-step-5l9)
-- [AI Assistants as Engagement?](https://dev.to/cheetah100/ai-assistants-as-engagement-klk)
-- [Guide to building a side project — Without a Tutorial](https://dev.to/jcsmileyjr/guide-to-building-a-side-project-without-a-tutorial-34e6)
+- [JS Toolbox 2024: Essential Picks for Modern Developers Series Overview](https://dev.to/olwiba/js-toolbox-2024-essential-picks-for-modern-developers-series-overview-5cd1)
+- [JS Toolbox 2024: Bundlers and Test Frameworks](https://dev.to/olwiba/js-toolbox-2024-bundlers-and-test-frameworks-30f9)
+- [Why learning digital marketing can make you a be better software engineer](https://dev.to/mctn6/why-learning-digital-marketing-can-make-you-a-better-software-engineer-2o8b)
+- [3 Advanced Famer Motion Effects in React](https://dev.to/salehmubashar/3-advanced-famer-motion-effects-in-react-3nm7)
+- [👑 Top Open Source Projects of 2023 🚀](https://dev.to/milasuperstar/top-open-source-projects-of-2023-1cli)
 <!-- BLOG-POST-LIST:END -->
 
 ---
