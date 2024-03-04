@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Embracing the Future: How AI Revolutionizes IoT Automation](https://dev.to/hyscaler/embracing-the-future-how-ai-revolutionizes-iot-automation-541p)
-- [Which backend languages do you use?](https://dev.to/nandinishinduja/which-backend-languages-do-you-use-j0a)
-- [Adding a React-native In-app Notification Feed for Real-time Updates](https://dev.to/suprsend/adding-a-react-native-in-app-notification-feed-for-real-time-updates-1l0a)
-- [Bridging Logic and Creativity: How IQ Influences Web Development Success and Why Developers Should Care](https://dev.to/christophr/bridging-logic-and-creativity-how-iq-influences-web-development-success-and-why-developers-should-care-5bli)
-- [4 MasterChef lessons for programmers](https://dev.to/martygo/4-masterchef-lessons-for-programmers-4j2a)
+- [Adding passkeys to a Remix App](https://dev.to/hanko/adding-passkeys-to-a-remix-app-31f1)
+- [🔥 Become a RAG Professional in 2024: Go from Beginner to Expert 🚀](https://dev.to/llmware/become-a-rag-professional-in-2024-go-from-beginner-to-expert-41mg)
+- [In-app surveys in React Native](https://dev.to/nsmet/in-app-surveys-in-react-native-ifn)
+- [AWS open source newsletter, #191](https://dev.to/aws/aws-open-source-newsletter-191-5cbb)
+- [Builiding a Live Audio Room - Flutter News 2024 #9 ʚїɞ](https://dev.to/lucianojung/flutter-news-2024-9-eyie-3ig1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
