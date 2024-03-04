@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Power Automate - Scripts with App Scripts](https://dev.to/wyattdave/power-automate-scripts-with-app-scripts-2l9)
-- [Product That I could never Publish, Unveiling Lessons from my failed attempts✨](https://dev.to/delisrey/product-that-i-could-never-publish-unveiling-lessons-from-my-failed-attempts-5ena)
-- [Xavier&#39;s Insight: Overcoming Data Hoarding Disorder](https://dev.to/balagmadhu/xaviers-insight-overcoming-data-hoarding-disorder-227m)
-- [Maximizing Score with Tokens - 948 - Bag of Tokens in Go](https://dev.to/shareef/maximizing-score-with-tokens-948-bag-of-tokens-in-go-2l8m)
-- [Why Not Kill Free Download](https://dev.to/audioloops665/why-not-kill-free-download-50k5)
+- [Embracing the Future: How AI Revolutionizes IoT Automation](https://dev.to/hyscaler/embracing-the-future-how-ai-revolutionizes-iot-automation-541p)
+- [Which backend languages do you use?](https://dev.to/nandinishinduja/which-backend-languages-do-you-use-j0a)
+- [Adding a React-native In-app Notification Feed for Real-time Updates](https://dev.to/suprsend/adding-a-react-native-in-app-notification-feed-for-real-time-updates-1l0a)
+- [Bridging Logic and Creativity: How IQ Influences Web Development Success and Why Developers Should Care](https://dev.to/christophr/bridging-logic-and-creativity-how-iq-influences-web-development-success-and-why-developers-should-care-5bli)
+- [4 MasterChef lessons for programmers](https://dev.to/martygo/4-masterchef-lessons-for-programmers-4j2a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
