@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Data Structures and Null Safety in Dart - Part 4](https://dev.to/sadanandgadwal/data-structures-and-null-safety-in-dart-part-4-1oih)
+- [Using Natural Language Processing for Ad Campaign Analysis](https://dev.to/andrewupton/using-natural-language-processing-for-ad-campaign-analysis-1ff4)
+- [Olympics score website with WordPress](https://dev.to/rs_rashid/olympics-score-website-with-wordpress-2a9f)
+- [Best alternative of Fiverr and Upwork for freelancers](https://dev.to/hashirdev/best-platform-for-freelancers-3kfk)
 - [Adding passkeys to a Remix App](https://dev.to/hanko/adding-passkeys-to-a-remix-app-31f1)
-- [🔥 Become a RAG Professional in 2024: Go from Beginner to Expert 🚀](https://dev.to/llmware/become-a-rag-professional-in-2024-go-from-beginner-to-expert-41mg)
-- [In-app surveys in React Native](https://dev.to/nsmet/in-app-surveys-in-react-native-ifn)
-- [AWS open source newsletter, #191](https://dev.to/aws/aws-open-source-newsletter-191-5cbb)
-- [Builiding a Live Audio Room - Flutter News 2024 #9 ʚїɞ](https://dev.to/lucianojung/flutter-news-2024-9-eyie-3ig1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
