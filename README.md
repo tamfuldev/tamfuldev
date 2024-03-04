@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with SubQuery Managed Service](https://dev.to/yunggenius/getting-started-with-subquery-managed-service-2eb2)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2933)
+- [Getting Started with CloudBees Flow Metrics](https://dev.to/jdpiland6/getting-started-with-cloudbees-flow-metrics-18nh)
+- [Google Clone in HTML and Tailwind CSS](https://dev.to/rohitnirban/google-clone-in-html-and-tailwind-css-2nh4)
 - [Accordion accessible y reutilizable solo con la etiqueta details y css](https://dev.to/micaavigliano/accordion-accessible-y-reutilizable-solo-con-la-etiqueta-details-y-css-3hb4)
-- [Handling files in enterprise web solutions](https://dev.to/denladeside/handling-files-in-enterprise-web-solutions-3mkc)
-- [Conceptual Model of React in the RSC age](https://dev.to/ondrejvelisek/conceptual-model-of-react-in-the-rsc-age-5bn5)
-- [Unlock Your Full Learning Potential with Glasp: The Ultimate Study Tool](https://dev.to/ensamuel/unlock-your-full-learning-potential-with-glasp-the-ultimate-study-tool-4j7h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
