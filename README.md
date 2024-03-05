@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Becoming an AWS and Google Authorised Trainer](https://dev.to/aws-builders/becoming-an-aws-and-google-authorised-trainer-407j)
+- [Styling a CSS pseudo-element with JavaScript](https://dev.to/cassidoo/styling-a-css-pseudo-element-with-javascript-1dip)
 - [Important efficiency lessons when writing for devs! ✍️](https://dev.to/developuls/important-efficiency-lessons-when-writing-for-devs-3d85)
-- [Collaborate, Conquer, &amp; Grow: Mastering the Art of Issue Management for Open Source Projects](https://dev.to/opensauced/collaborate-conquer-grow-mastering-the-art-of-issue-management-for-open-source-projects-49gi)
-- [Python 3 + FastAPI + MongoDB](https://dev.to/programadriano/python-3-fastapi-mongodb-p1j)
-- [SQL vs NoSQL: Which to Choose?](https://dev.to/marmariadev/sql-vs-nosql-which-to-choose-4068)
-- [SQL vs NoSQL: ¿Cuál Elegir?](https://dev.to/marmariadev/sql-vs-nosql-cual-elegir-14o1)
+- [Expo AVD &lpar;Android Virtual Device&rpar; on Windows Subsystem for Linux &lpar;WSL2&rpar;](https://dev.to/alecell/expo-avd-android-virtual-device-on-windows-subsystem-for-linux-wsl2-4d8n)
+- [Expo QR code on Windows Subsystem for Linux &lpar;WSL2&rpar;](https://dev.to/alecell/expo-qr-code-on-windows-subsystem-for-linux-wsl2-1bjf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
