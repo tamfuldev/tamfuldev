@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Difference b/w height 100% and 100vh](https://dev.to/sh20raj/difference-bw-height-100-and-100vh-52kl)
+- [Predictive Fraud Protection](https://dev.to/microai/predictive-fraud-protection-1g32)
 - [AI vs. ML vs. DL vs. DS: A Layman&#39;s Guide](https://dev.to/thenomadevel/ai-vs-ml-vs-dl-vs-ds-a-laymans-guide-355a)
 - [Firebase vs Supabase](https://dev.to/codeparrot/firebase-vs-supabase-4770)
 - [Building a SQL Expert Bot: A Step-by-Step Guide with Vercel AI SDK and OpenAI API](https://dev.to/sachinchaurasiya/building-a-sql-expert-bot-a-step-by-step-guide-with-vercel-ai-sdk-and-openai-api-2oap)
-- [Statistical Essentials for Data Analysts: A Beginner&#39;s Guide](https://dev.to/kammarianand/statistical-essentials-for-data-analysts-a-beginners-guide-3l17)
-- [How To Create a Table of Contents to your Dev.to article](https://dev.to/cbid2/how-to-create-a-table-of-contents-to-your-devto-article-19p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
