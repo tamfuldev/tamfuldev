@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Test automation for AutoCAD Web using Playwright and visual comparison](https://dev.to/chavus/test-automation-for-autocad-web-using-playwright-and-visual-comparison-1kfk)
+- [ExpressoTS Middleware &amp; Controller](https://dev.to/expressots/expressots-middleware-controller-363c)
+- [AI Trash is Destroying the Web](https://dev.to/polterguy/ai-trash-is-destroying-the-web-5d3k)
 - [Difference b/w height 100% and 100vh](https://dev.to/sh20raj/difference-bw-height-100-and-100vh-52kl)
 - [Predictive Fraud Protection](https://dev.to/microai/predictive-fraud-protection-1g32)
-- [AI vs. ML vs. DL vs. DS: A Layman&#39;s Guide](https://dev.to/thenomadevel/ai-vs-ml-vs-dl-vs-ds-a-laymans-guide-355a)
-- [Firebase vs Supabase](https://dev.to/codeparrot/firebase-vs-supabase-4770)
-- [Building a SQL Expert Bot: A Step-by-Step Guide with Vercel AI SDK and OpenAI API](https://dev.to/sachinchaurasiya/building-a-sql-expert-bot-a-step-by-step-guide-with-vercel-ai-sdk-and-openai-api-2oap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
