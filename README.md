@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Javascript | String Methods](https://dev.to/shubhamtiwari909/javascript-string-methods-bfe)
 - [Python Database Connectivity and SQL Basics for EDA 🐍📊](https://dev.to/kammarianand/python-database-connectivity-and-sql-basics-for-eda-22cf)
 - [#Microservices in Nodejs](https://dev.to/tanmaycode/microservices-in-nodejs-24fg)
 - [A Simple CRUD app With GraphQL, Apollo Server, MongoDB, and Express](https://dev.to/fredabod/a-simple-crud-app-with-graphql-apollo-server-mongodb-and-express-227f)
 - [🔟 Things You Must Not Do In Frontend Development](https://dev.to/arjuncodess/things-you-must-not-do-in-frontend-development-294h)
-- [Python Tips &amp; Tricks Day 1](https://dev.to/ahmed__elboshi/python-tips-tricks-day-1-4oge)
 <!-- BLOG-POST-LIST:END -->
 
 ---
