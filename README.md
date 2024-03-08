@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Build Wikipedia Clone with React JS - Full Project with Wiki API](https://dev.to/imrankh13332994/build-wikipedia-clone-with-react-js-full-project-with-wiki-api-40bp)
 - [Dissecting layered architecture](https://dev.to/yokwejuste/dissecting-layered-architecture-2ppb)
 - [Virtual in C#: How to Use it?](https://dev.to/bytehide/virtual-in-c-how-to-use-it-5gp8)
 - [Create a Gantt chart](https://dev.to/phuocng/create-a-gantt-chart-305e)
 - [Open Telemetry: Observing and Monitoring Applications](https://dev.to/sosalejandro/open-telemetry-observing-and-monitoring-applications-5gni)
-- [The Rise of the 1-Bit LLM](https://dev.to/gssakash/the-rise-of-the-1-bit-llm-11ie)
 <!-- BLOG-POST-LIST:END -->
 
 ---
