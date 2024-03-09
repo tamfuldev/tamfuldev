@@ -7,8 +7,8 @@
 - [As a young woman in different dev teams](https://dev.to/_michellemello/as-a-young-woman-in-different-dev-teams-3gke)
 - [Mastering React Hooks: Tips, Tricks, and Best Practices](https://dev.to/mostlyali07/mastering-react-hooks-tips-tricks-and-best-practices-2lad)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4jkd)
+- [Day 923 : City](https://dev.to/dwane/day-923-city-21i7)
 - [My favorite cy.type&lpar;&rpar; tips and tricks](https://dev.to/samelawrence/my-favorite-cytype-tips-and-tricks-3166)
-- [How to Build and Document a Go REST API with Gin and Go-Swagger](https://dev.to/get_pieces/how-to-build-and-document-a-go-rest-api-with-gin-and-go-swagger-jgb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
