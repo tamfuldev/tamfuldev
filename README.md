@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [As a young woman in different dev teams](https://dev.to/_michellemello/as-a-young-woman-in-different-dev-teams-3gke)
+- [Mastering React Hooks: Tips, Tricks, and Best Practices](https://dev.to/mostlyali07/mastering-react-hooks-tips-tricks-and-best-practices-2lad)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4jkd)
 - [My favorite cy.type&lpar;&rpar; tips and tricks](https://dev.to/samelawrence/my-favorite-cytype-tips-and-tricks-3166)
 - [How to Build and Document a Go REST API with Gin and Go-Swagger](https://dev.to/get_pieces/how-to-build-and-document-a-go-rest-api-with-gin-and-go-swagger-jgb)
-- [5 Tips For Writing Technical Documentation That Developers Love](https://dev.to/get_pieces/5-tips-for-writing-technical-documentation-that-developers-love-1ho7)
-- [Setting Up a Local Development Environment with Docker on Mac and Windows](https://dev.to/brownian77/setting-up-a-local-development-environment-with-docker-on-mac-and-windows-peb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
