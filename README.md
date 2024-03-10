@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Things I learned while building my JS library](https://dev.to/mathuraditya7/things-i-learned-while-building-my-js-library-2k06)
+- [Format and Parse Amazon S3 URL](https://dev.to/aws-builders/format-and-parse-amazon-s3-url-5e10)
 - [GenLearn - Your Personalized Learning Assistant!](https://dev.to/aws-builders/genlearn-your-personalized-learning-assistant-56l)
 - [Neovim: A Powerful and Customizable Text Editor - An Introduction for Beginners](https://dev.to/insideee_dev/neovim-a-powerful-and-customizable-text-editor-an-introduction-for-beginners-17gb)
-- [Input Validation - Terraform Tips &amp; Tricks](https://dev.to/coleheard/input-validation-terraform-tips-tricks-3ndl)
-- [How to move an Amazon RDS DB instance from an Amazon Virtual Private Cloud &lpar;Amazon VPC&rpar; to a new VPC](https://dev.to/aws-builders/how-to-move-an-amazon-rds-db-instance-from-an-amazon-virtual-private-cloud-amazon-vpc-to-a-new-vpc-2gp2)
-- [Migrating SQL Server to Azure SQL Database with SQL Server Management Studio &lpar;SSMS&rpar;](https://dev.to/olalekan_oladiran_d74b7a6/migrating-sql-server-to-azure-sql-database-with-sql-server-management-studio-ssms-23g1)
+- [Profiling Python Code for Performance](https://dev.to/rudolfolah/profiling-python-code-for-performance-51gl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
