@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Type Safety in TypeScript - Unknown vs Any](https://dev.to/sachinchaurasiya/type-safety-in-typescript-unknown-vs-any-55c0)
 - [Create an event calendar](https://dev.to/phuocng/create-an-event-calendar-20fg)
 - [Static Code Analysis Tools for Next.js](https://dev.to/fajarriv/static-code-analysis-tools-for-nextjs-m9b)
 - [Github credentials storage through Github CLI](https://dev.to/soumildatta/github-credentials-storage-through-github-cli-od1)
 - [Why You Should Use a Database](https://dev.to/annoh_karlgusta/why-you-should-use-a-database-ccp)
-- [Browser-based Multiplayer Tic Tac Toe Game in React](https://dev.to/pubnub/browser-based-multiplayer-tic-tac-toe-game-in-react-1488)
 <!-- BLOG-POST-LIST:END -->
 
 ---
