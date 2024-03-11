@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [FLaNK AI for 11 March 2024](https://dev.to/tspannhw/flank-ai-for-11-march-2024-2gkf)
 - [OPTICAL CHARACTER RECOGNITION USING NODE JS AND TESSERACT OCR ENGINE](https://dev.to/oluwatobi2001/optical-character-recognition-using-node-js-and-tesseract-ocr-engine-1ab)
 - [Should we be making laws against &quot;dark patterns&quot;?](https://dev.to/moopet/should-we-be-making-laws-against-dark-patterns-1dl8)
 - [Vagrant CLI Commands Cheat Sheet](https://dev.to/chigozieco/vagrant-cli-commands-cheat-sheet-f7c)
 - [Install Virtual Machine With Vagrant &amp; Remotely Access it](https://dev.to/chigozieco/install-virtual-machine-with-vagrant-remotely-access-it-4k5j)
-- [AWS open source newsletter, #192](https://dev.to/aws/aws-open-source-newsletter-192-g1o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
