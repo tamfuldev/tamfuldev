@@ -6,9 +6,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [From Doubt to Growth: Can we think differently about Imposter Syndrome?](https://dev.to/leogopal/from-doubt-to-growth-can-we-think-differently-about-imposter-syndrome-4edl)
 - [How to Generate AI Images with Stable Diffusion XL in 5 Minutes](https://dev.to/jeremycmorgan/how-to-generate-ai-images-with-stable-diffusion-xl-in-5-minutes-4ael)
+- [async/await in Python](https://dev.to/mainpynerds/asyncawait-in-python-j80)
+- [Feature Toggle ou Feature Flag](https://dev.to/leticiabibiano/feature-toggle-ou-feature-flag-4g2)
 - [How to Never Forget: Mastering the Art of Retaining Knowledge](https://dev.to/yanpi/how-to-never-forget-mastering-the-art-of-retaining-knowledge-531h)
-- [I&#39;m sick of Vendor Lock 🤕](https://dev.to/johnrushx/im-sick-of-vendor-lock-1jcb)
-- [I Learned Neovim In A Weekend](https://dev.to/chigbeef_77/i-learned-neovim-in-a-weekend-47pf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
