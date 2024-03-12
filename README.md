@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Meteor Files: Resume interrupted file uploads without losing any progress](https://dev.to/smart_egg/meteor-files-resume-interrupted-file-uploads-without-losing-any-progress-3ge1)
+- [I Published This with Drag and Drop using Vrite](https://dev.to/vrite/i-published-this-with-drag-and-drop-using-vrite-4b1e)
 - [Navigating the Challenges of Scaling Open Source Projects](https://dev.to/opensauced/navigating-the-challenges-of-scaling-open-source-projects-11h2)
+- [Como identificar problemas de ambiente ao tentar instalar BotCity Studio SDK](https://dev.to/botcitydev/como-identificar-problemas-de-ambiente-ao-tentar-instalar-botcity-studio-sdk-17k8)
 - [122 berufliches Vorwärtskommen: Olivenöl zum Salat.](https://dev.to/amustafa16421/122-berufliches-vorwartskommen-olivenol-zum-salat-180g)
-- [Make vs. Zapier: Which One is Better in 2024?](https://dev.to/stan8086/make-vs-zapier-which-one-is-better-in-2024-15mm)
-- [Marp: A Markdown Presentation App That Simplifies Your Tech Talks](https://dev.to/rprabhu/marp-a-markdown-presentation-app-that-simplifies-your-tech-talks-37m4)
-- [Implicit Operators in C#: How To Simplify Type Conversions](https://dev.to/devleader/implicit-operators-in-c-how-to-simplify-type-conversions-3k0p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
