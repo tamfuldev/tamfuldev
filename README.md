@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [React Compiler &amp; React 19 - forget about memoization soon?](https://dev.to/adevnadia/react-compiler-react-19-forget-about-memoization-soon-1hfn)
+- [Make your product collaborative with Convex](https://dev.to/kunga/make-your-product-collaborative-with-convex-2945)
 - [Using CLI Applications to Increase Efficiency in Work](https://dev.to/hoaitx/using-cli-applications-to-increase-efficiency-in-work-1d10)
 - [The Fog of Misinformation: The Extent of AI-Generated False Information](https://dev.to/hikarimaeda/the-fog-of-misinformation-the-extent-of-ai-generated-false-information-10c9)
 - [Building a simple web server in Rust](https://dev.to/shuttle_dev/building-a-simple-web-server-in-rust-5c57)
-- [Top 8 Recent V8 Updates](https://dev.to/appsignal/top-8-recent-v8-updates-1fa3)
-- [Declaring Multiple Variables in a “for” Loop Initialization Clause](https://dev.to/pauljlucas/declaring-multiple-variables-in-a-for-loop-initialization-clause-20n3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
