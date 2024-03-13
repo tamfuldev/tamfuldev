@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s New in API7 Enterprise: Token Management](https://dev.to/api7/whats-new-in-api7-enterprise-token-management-482l)
-- [From Skeptic to Believer: My Docker Story](https://dev.to/alahirajeffrey/from-skeptic-to-believer-my-docker-story-1hof)
-- [How to create a dismissible cookie banner with Tailwind CSS and Alpinejs](https://dev.to/mike_andreuzza/how-to-create-a-dismissiblecookie-banner-withtailwind-css-and-alpinejs-1m5p)
-- [Mastering Backlink Indexing: A Comprehensive Guide to Boosting Your Website&#39;s Visibility in Search Results](https://dev.to/shahseo/mastering-backlink-indexing-a-comprehensive-guide-to-boosting-your-websites-visibility-in-search-results-51l7)
-- [🤯 150 WebDev Articles to Satisfy Your Curiosity](https://dev.to/florianrappl/150-articles-to-satisfy-your-curiosity-3c22)
+- [How to Set Up a Docker Container](https://dev.to/emminex/how-to-set-up-a-docker-container-1m5l)
+- [CSS Cheatsheet](https://dev.to/mikevarenek/css-cheatsheet-3e0e)
+- [Hyperswitch by Juspay](https://dev.to/hyperswitchio/hyperswitch-by-juspay-3244)
+- [Micro Frontends with Vite and Bit](https://dev.to/giteden/micro-frontends-with-vite-and-bit-22a5)
+- [Using cURL Custom Headers: A Simple Guide](https://dev.to/emminex/using-curl-custom-headers-a-simple-guide-164m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
