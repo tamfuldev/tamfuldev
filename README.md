@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Keep react component complexity in check with inversion of control](https://dev.to/francodalmau/keep-react-component-complexity-in-check-with-inversion-of-control-51c4)
-- [accessibility tips from an accessibility engineer](https://dev.to/westbrookc16/accessibility-tips-from-an-accessibility-engineer-4kl8)
-- [GitHub “besieged” by malware repositories and repo confusion: Why you&#39;ll be ok](https://dev.to/snyk/github-besieged-by-malware-repositories-and-repo-confusion-why-youll-be-ok-5hhn)
-- [Create a holy grail layout](https://dev.to/phuocng/create-a-holy-grail-layout-1mb5)
-- [CSS Battle #2 - Carrom](https://dev.to/jitheshpoojari/css-battle-2-carrom-560l)
+- [20 Websites for Free Bootstrap Templates](https://dev.to/devluc/20-websites-for-free-bootstrap-templates-4on4)
+- [PivotTable : Toolkit for Smart Data Exploration and Analysis](https://dev.to/balagmadhu/pivottable-toolkit-for-smart-data-exploration-and-analysis-obp)
+- [Getting Started with Terraform on AWS](https://dev.to/refine/getting-started-with-terraform-on-aws-4dcm)
+- [Build a password strength indicator in ReactJs.](https://dev.to/swastikyadav/build-a-password-strength-indicator-in-reactjs-mfm)
+- [Essential Investments for Remote Programmers?](https://dev.to/devteam/essential-investments-for-remote-programmers-4807)
 <!-- BLOG-POST-LIST:END -->
 
 ---
