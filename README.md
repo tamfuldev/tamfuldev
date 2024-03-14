@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Exit Code 137 - Kubernetes](https://dev.to/refine/exit-code-137-kubernetes-2e08)
-- [Sloan&#39;s Inbox: How to answer &quot;Where do you see yourself in 5 years?&quot; when I&#39;m content where I am.](https://dev.to/devteam/sloans-inbox-how-to-answer-where-do-you-see-yourself-in-5-years-when-im-content-where-i-am-jbm)
-- [All the tools I need to build a perfect AI app.](https://dev.to/taipy/all-the-tools-i-need-to-build-a-perfect-ai-app-2oeh)
-- [JSON Web Token &lpar;JWT&rpar;](https://dev.to/adrianbailador/json-web-token-jwt-40ob)
-- [I made my first game solo with Godot for a Game jam](https://dev.to/yvonnickfrin/i-made-my-first-game-solo-with-godot-for-a-game-jam-3lf8)
+- [Dining Philosophers Problem in Java](https://dev.to/parthasutradhar/dining-philosophers-problem-in-java-a93)
+- [What we built for our Notification Service?](https://dev.to/suprsend/what-we-built-for-our-notification-service-4odd)
+- [Coding in 2024 = Dead? The Best Language to Learn is English? 🤔☠️](https://dev.to/arjuncodess/coding-in-2024-dead-the-best-language-to-learn-is-english-3ol)
+- [利用 AWS Bedrock 释放您的创造力：加入我们的虚拟峰会（第一天）](https://dev.to/aws-builders/li-yong-aws-bedrock-shi-fang-nin-de-chuang-zao-li-jia-ru-wo-men-de-xu-ni-feng-hui-di-tian--52ec)
+- [Grading students](https://dev.to/kecbm/grading-students-5eok)
 <!-- BLOG-POST-LIST:END -->
 
 ---
