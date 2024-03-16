@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [What is Encapsulation](https://dev.to/m__mdy__m/what-is-encapsulation-48b0)
+- [[07/52] Automated Deployment with Terraform and DigitalOcean](https://dev.to/tythos/0752-automated-deployment-with-terraform-and-digitalocean-2m4g)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-5h2g)
 - [Redis is more than a Cache #1 - Delaying Jobs](https://dev.to/lukas8219/redis-is-more-than-a-cache-1-delaying-jobs-139)
 - [Lessons from open-source: Typesafe “getInt” utility function in Next.js source code](https://dev.to/ramunarasinga/lessons-from-open-source-typesafe-getint-utility-function-in-nextjs-source-code-32a3)
-- [Data Science &amp; DevTools: GitHub Codespaces](https://dev.to/azure/data-science-devtools-github-codespaces-2fn)
-- [VSCode top 50 shortcut keys](https://dev.to/patfinder/vscode-top-50-shortcut-keys-27kc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
