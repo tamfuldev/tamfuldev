@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Automate AWS Infrastructure Deployment with AWS CDK: A Lazy Engineer&#39;s Guide](https://dev.to/sanishchirayath1/automate-aws-infrastructure-deployment-with-aws-cdk-a-lazy-engineers-guide-2moj)
 - [Exploring Enhanced Serialization in .NET 9 with System.Text.Json](https://dev.to/ssukhpinder/exploring-enhanced-serialization-in-net-9-with-systemtextjson-59l7)
 - [How to install python in a docker container.](https://dev.to/kiranuknow/how-to-install-python-in-a-docker-container-2n41)
 - [Quick Setup: Jenkins on AWS with Terraform &amp; Bash](https://dev.to/gabbyti/quick-setup-jenkins-on-aws-with-terraform-bash-1mj8)
 - [What is Encapsulation](https://dev.to/m__mdy__m/what-is-encapsulation-48b0)
-- [Code search and refactoring tools - `Code Recycle`](https://dev.to/wszgrcy/code-search-and-refactoring-tools-code-recycle-57lk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
