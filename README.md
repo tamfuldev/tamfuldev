@@ -16,7 +16,7 @@
 # Latest stack oveflow activity
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><tr><td>Set session when on boot</td><td>https://stackoverflow.com/questions/78171867/set-session-when-on-boot</td></tr><tr><td>Why Swagger UI array type field generates a string</td><td>https://stackoverflow.com/questions/78171845/why-swagger-ui-array-type-field-generates-a-string</td></tr><tr><td>Using indexed view to store user balance</td><td>https://stackoverflow.com/questions/78171812/using-indexed-view-to-store-user-balance</td></tr><tr><td>php round after last decimal number</td><td>https://stackoverflow.com/questions/78171787/php-round-after-last-decimal-number</td></tr><tr><td>How mock prevents type hinting failure</td><td>https://stackoverflow.com/questions/78171768/how-mock-prevents-type-hinting-failure</td></tr><!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:START --><tr><td>link external domain to subdomain</td><td>https://stackoverflow.com/questions/78172032/link-external-domain-to-subdomain</td></tr><tr><td>Regex Patterns in Laravel Routes for Complex URL Structures</td><td>https://stackoverflow.com/questions/78172029/regex-patterns-in-laravel-routes-for-complex-url-structures</td></tr><tr><td>cURL POST array results in Invalid argument supplied for foreach&lpar;&rpar;</td><td>https://stackoverflow.com/questions/78172002/curl-post-array-results-in-invalid-argument-supplied-for-foreach</td></tr><tr><td>Set session when on boot</td><td>https://stackoverflow.com/questions/78171867/set-session-when-on-boot</td></tr><tr><td>Why Swagger UI array type field generates a string</td><td>https://stackoverflow.com/questions/78171845/why-swagger-ui-array-type-field-generates-a-string</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 
 ---
