@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [🧙‍♂️Master JavaScript with these 5 GitHub repositories🪄✨🚀](https://dev.to/ziontutorial/master-javascript-with-these-5-github-repositories-5g30)
 - [Why Basic Server Knowledge Is Crucial for Every Developer?](https://dev.to/mmainulhasan/why-basic-server-knowledge-is-crucial-for-every-developer-3ega)
 - [ASP.Net 9.0: Authentication Enhancements](https://dev.to/ssukhpinder/aspnet-core-90-authentication-authorization-enhancements-2ii7)
+- [Python Data Analysis with Developer Tools &amp; AI &lpar;and #14DaysOfDataScience&rpar;](https://dev.to/azure/python-data-analysis-with-developer-tools-ai-and-14daysofdatascience-369)
 - [Slack vs. Discord in the Modern Workplace](https://dev.to/stan8086/slack-vs-discord-in-the-modern-workplace-4p0b)
-- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-355j)
-- [Copy Objects Ways in JavaScript](https://dev.to/fpaghar/copy-objects-ways-in-javascript-24gj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
