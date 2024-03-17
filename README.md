@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Is Workflow Automation The Next Big Trend?](https://dev.to/stan8086/is-workflow-automation-the-next-big-trend-35p9)
 - [The new BottomBar in Flutter](https://dev.to/akashpattnaik/the-new-bottombar-in-flutter-ifm)
 - [Unlocking High-Quality Realistic Pictures: Tips and Tricks with AWS Bedrock](https://dev.to/aws-builders/unlocking-high-quality-realistic-pictures-tips-and-tricks-with-aws-bedrock-28mn)
 - [React Native and Flutter: A Developer&#39;s Dilemma](https://dev.to/codeparrot/react-native-and-flutter-a-developers-dilemma-214d)
 - [解锁高质量逼真图片：AWS Bedrock的技巧与窍门](https://dev.to/danc/jie-suo-gao-zhi-liang-bi-zhen-tu-pian-aws-bedrockde-ji-qiao-yu-qiao-men-1mfh)
-- [Unleash Your Creativity with AWS Bedrock: Formula 1 Championship &lpar;Day 2&rpar;](https://dev.to/aws-builders/unleash-your-creativity-with-aws-bedrock-formula-1-championship-day-2-m1f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
