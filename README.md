@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [New Beginnings](https://dev.to/dillybunn/new-beginnings-2o11)
 - [6 Tools To Help Keep Your Dependencies And Code More Secure](https://dev.to/schalkneethling/6-tools-to-help-keep-your-dependencies-and-code-more-secure-13mi)
 - [Deployments and Load Balancing in Kubernetes](https://dev.to/ken_mwaura1/deployments-and-load-balancing-in-kubernetes-230)
+- [🦀 Axum - Hello World !](https://dev.to/yellowcoder/axum-hello-world--1435)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-nmg)
-- [I trashed a software website just to reboot it 5 years later!](https://dev.to/jordantylerburchett/i-trashed-a-software-website-just-to-reboot-it-5-years-later-2gfo)
-- [“Data has a Dream” — A Short comic about data mesh and how it can transform your company](https://dev.to/berlin-tech-blog/data-has-a-dream-a-short-comic-about-data-mesh-and-how-it-can-transform-your-company-2b38)
 <!-- BLOG-POST-LIST:END -->
 
 ---
