@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How to Build Your Open Source Dream Team: A Guide](https://dev.to/opensauced/how-to-build-your-open-source-dream-team-a-guide-3i90)
+- [Why we changed our hiring process at Hyperswitch 🚀🎸](https://dev.to/hyperswitchio/why-we-changed-our-hiring-process-at-hyperswitch-157)
 - [Clerk Update — March 2024](https://dev.to/clerk/clerk-update-march-2024-5b22)
+- [Beyond Infrastructure](https://dev.to/ahmadbarake/beyond-infrastructure-ofj)
 - [React Select: The complete guide with code examples](https://dev.to/alakkadshaw/react-select-the-complete-guide-with-code-examples-1d1h)
-- [Improve git clone performance in a CI pipeline](https://dev.to/saranshk/improve-git-clone-performance-in-a-ci-pipeline-52pf)
-- [From Chaos to Clarity with AI-driven Categorization](https://dev.to/mikeyoung44/from-chaos-to-clarity-with-ai-driven-categorization-3727)
-- [Building a High-Performance Website with Next.js and WordPress](https://dev.to/hakukonevelhot/building-a-high-performance-website-with-nextjs-and-wordpress-5pn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
