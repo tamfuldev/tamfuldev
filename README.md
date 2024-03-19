@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What is RAG: Understanding Retrieval-Augmented Generation](https://dev.to/qdrant/what-is-rag-understanding-retrieval-augmented-generation-534n)
+- [What is RAG &lpar;Retrieval-Augmented Generation&rpar;?](https://dev.to/qdrant/what-is-rag-understanding-retrieval-augmented-generation-534n)
+- [useState&lpar; &rpar;](https://dev.to/animesh384/usestate--305b)
 - [What is Git Cherry-Pick?](https://dev.to/michaeljolley/what-is-git-cherry-pick-23jp)
 - [Caching Behavior of get Requests in Next.js 13+](https://dev.to/shreyaan/caching-behavior-of-get-requests-in-nextjs-13-2342)
 - [March on Glitch goes in like a lion and out like...an app. Yep, that’s the one.](https://dev.to/glitch/march-on-glitch-goes-in-like-a-lion-and-out-likean-app-yep-thats-the-one-3c55)
-- [Plugin Architecture in C# for Improved Software Design](https://dev.to/devleader/plugin-architecture-in-c-for-improved-software-design-12jc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
