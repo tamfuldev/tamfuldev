@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [&lpar;Docker&rpar; Criando um ambiente LAMP utilizando Docker-Compose](https://dev.to/matsesso/docker-criando-um-ambiente-lamp-utilizando-docker-compose-3ch8)
+- [How to read and write data to the clipboard](https://dev.to/phuocng/how-to-read-and-write-data-to-the-clipboard-5ca)
+- [Tips and Considerations for Using Lazy Containers in SwiftUI](https://dev.to/fatbobman/tips-and-considerations-for-using-lazy-containers-in-swiftui-2pb3)
+- [Tips and Considerations for Using Lazy Containers in SwiftUI](https://dev.to/fatbobman/tips-and-considerations-for-using-lazy-containers-in-swiftui-263k)
 - [Enriquecendo Operações Numéricas com `IntPtr` Numérico no C# 11](https://dev.to/lincolnqjunior/enriquecendo-operacoes-numericas-com-intptr-numerico-no-c-11-4odp)
-- [🎆THE BEST GIT COMMANDS YOU PROBABLY DON&#39;T KNOW FOR 2024 🎆](https://dev.to/luciano655dev/the-best-git-commands-you-probably-dont-know-for-2024-3mjl)
-- [Basic Python Projects for Beginners](https://dev.to/romulogatto/basic-python-projects-for-beginners-2c49)
-- [New Beginnings](https://dev.to/dillybunn/new-beginnings-2o11)
-- [⚔️ Embeddings, Chatbots RAG Arena et forfaits Telecom OPT-NC](https://dev.to/adriens/embeddings-chatbots-rag-arena-et-forfaits-telecom-opt-nc-5d07)
 <!-- BLOG-POST-LIST:END -->
 
 ---
