@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Terraform vs AWS CloudFormation: An In-Depth Comparison](https://dev.to/env0/terraform-vs-aws-cloudformation-an-in-depth-comparison-h6j)
-- [Take IT Shipping with Serverless Technology](https://dev.to/aws-builders/take-it-shipping-with-serverless-technology-ehi)
-- [Secret Hacks: How to Cost Down iOS App Development](https://dev.to/dhruvjoshi9/secret-hacks-how-to-cost-down-ios-app-development-3eo3)
-- [Allow me to introduce myself...](https://dev.to/robertbunch252/allow-me-to-introduce-myself-1e45)
-- [The Basics of Kubernetes CronJob](https://dev.to/refine/the-basics-of-kubernetes-cronjob-42k3)
+- [Using pgvector To Locate Similarities In Enterprise Data](https://dev.to/johnjvester/using-pgvector-to-locate-similarities-in-enterprise-data-3fl8)
+- [Enable a link to a block in a note using Obsidian GitHub Publisher](https://dev.to/somidad/enable-a-link-to-a-block-in-a-note-using-obsidian-github-publisher-98j)
+- [Liman MYS -Senaryolar](https://dev.to/aciklab/liman-mys-senaryolar-4afn)
+- [Liman MYS -Temel Kullanım](https://dev.to/aciklab/liman-mys-temel-kullanim-nc4)
+- [Liman MYS -Standart Ayağa Kaldırma](https://dev.to/aciklab/liman-mys-standart-ayaga-kaldirma-508m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
