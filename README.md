@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [File API](https://dev.to/akashpattnaik/browser-apis-explained-in-1-byte-222h)
+- [DOM API](https://dev.to/akashpattnaik/browser-apis-explained-in-1-byte-24o1)
+- [fetch API](https://dev.to/akashpattnaik/browser-apis-explained-in-1-byte-nno)
 - [7 Tech Articles on How to Grow as Engineer](https://dev.to/alexr/7-tech-articles-on-how-to-grow-as-engineer-1793)
 - [Testes Unitários com JUnit no Java](https://dev.to/andersonleite/testes-unitarios-com-junit-no-java-26lf)
-- [Keeping secrets from your pipelines](https://dev.to/denisrendler/keeping-secrets-from-your-pipelines-h5f)
-- [WordPress Local Development Mac OS Using Valet](https://dev.to/dhimaskirana/wordpress-local-development-mac-os-using-valet-efj)
-- [How to Integrate Astro With ApostropheCMS pt. 1](https://dev.to/apostrophecms/how-to-integrate-astro-with-apostrophecms-pt-1-366m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
