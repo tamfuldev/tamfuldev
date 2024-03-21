@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Precisamos falar sobre ipdb: Uma Jornada para um debugger mais Eficiente em Python](https://dev.to/carineneris/precisamos-falar-sobre-ipdb-uma-jornada-para-um-debugger-mais-eficiente-em-python-4blj)
 - [Making a notification service with Rust &amp; AWS SNS](https://dev.to/shuttle_dev/making-a-notification-service-with-rust-aws-sns-1of3)
 - [One Byte Explainer: matchMedia](https://dev.to/link2twenty/one-byte-explainer-matchmedia-14k5)
 - [Mastering React: A Simplified Guide for Folder Structure](https://dev.to/mgeovany/mastering-react-a-simplified-guide-for-folder-structure-3927)
 - [Shadow DOM API](https://dev.to/sarahokolo/shadow-dom-api-2jim)
-- [Service Worker API](https://dev.to/ethernmyth/service-worker-api-4a46)
 <!-- BLOG-POST-LIST:END -->
 
 ---
