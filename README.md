@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [File API](https://dev.to/akashpattnaik/browser-apis-explained-in-1-byte-222h)
-- [DOM API](https://dev.to/akashpattnaik/browser-apis-explained-in-1-byte-24o1)
-- [fetch API](https://dev.to/akashpattnaik/browser-apis-explained-in-1-byte-nno)
-- [7 Tech Articles on How to Grow as Engineer](https://dev.to/alexr/7-tech-articles-on-how-to-grow-as-engineer-1793)
-- [Testes Unitários com JUnit no Java](https://dev.to/andersonleite/testes-unitarios-com-junit-no-java-26lf)
+- [Data Streaming Hands-On: High-scale data streaming with AWS Kinesis Data Streams](https://dev.to/aws-builders/data-streaming-hands-on-high-scale-data-streaming-with-aws-kinesis-data-streams-326p)
+- [Understanding Closures in Rust](https://dev.to/dipankarpaul/understanding-closures-in-rust-2a3n)
+- [A Comprehensive Guide to CSS: Insights from the King of CSS, Kevin Powell](https://dev.to/michaellarocca/a-comprehensive-guide-to-css-insights-from-the-king-of-css-kevin-powell-1c06)
+- [Getting Started with Lodash: A Beginner&#39;s Guide to JavaScript Utility Functions](https://dev.to/webjoe/getting-started-with-lodash-a-beginners-guide-to-javascript-utility-functions-386h)
+- [A quick example of how to model complex state in Jetpack compose](https://dev.to/theplebdev/a-quick-example-of-how-to-model-complex-state-in-jetpack-compose-43mf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
