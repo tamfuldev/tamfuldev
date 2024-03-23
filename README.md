@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4fff)
 - [Let&#39;s Go Camping!](https://dev.to/cbid2/lets-go-camping-4g02)
 - [Primary Constructors in C# 12](https://dev.to/ssukhpinder/primary-constructors-in-c-12-3ol1)
 - [Featured Org of the Month: Feministech](https://dev.to/devteam/featured-org-of-the-month-feministech-39bb)
 - [Next.js Uploads: The Edge Store Boost](https://dev.to/codeparrot/nextjs-uploads-the-edge-store-boost-1o2j)
-- [Configure Amazon RDS Proxy](https://dev.to/parth7802/configure-amazon-rds-proxy-2ibn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
