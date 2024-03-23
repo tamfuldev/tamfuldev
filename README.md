@@ -5,10 +5,10 @@
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4fff)
+- [Security news weekly round-up - 22nd March 2024](https://dev.to/ziizium/security-news-weekly-round-up-22nd-march-2024-nij)
 - [Let&#39;s Go Camping!](https://dev.to/cbid2/lets-go-camping-4g02)
 - [Primary Constructors in C# 12](https://dev.to/ssukhpinder/primary-constructors-in-c-12-3ol1)
 - [Featured Org of the Month: Feministech](https://dev.to/devteam/featured-org-of-the-month-feministech-39bb)
-- [Next.js Uploads: The Edge Store Boost](https://dev.to/codeparrot/nextjs-uploads-the-edge-store-boost-1o2j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
