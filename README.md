@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Artificial Intelligence in Finance](https://dev.to/shaheryaryousaf/artificial-intelligence-in-finance-3omg)
 - [On The Importance of End-to-End Monitoring for IoT](https://dev.to/stefanhudelmaier/on-the-importance-of-end-to-end-monitoring-for-iot-1c6o)
 - [Understanding Cross-Origin Resource Sharing &lpar;CORS&rpar; for Web Developers](https://dev.to/tomiloba2/understanding-cross-origin-resource-sharing-cors-for-web-developers-31oa)
 - [The AI Toolbox: Everything You Need in One Place](https://dev.to/spandan/the-ai-toolbox-everything-you-need-in-one-place-4b7j)
 - [Nasty ass code](https://dev.to/matthijsschuurman/nasty-ass-code-4afo)
-- [🚀 Architecting Dreams: My Journey Through the AWS Cloud Cosmos 🌌🌟](https://dev.to/swapnilvishwakarma/architecting-dreams-my-journey-through-the-aws-cloud-cosmos-252p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
