@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Email testing with Codeception](https://dev.to/yatsenkolesh/email-testing-with-codeception-4b5g)
+- [The DevRel Guide to Business Jargon](https://dev.to/ceceliacreates/the-devrel-guide-to-business-jargon-2042)
+- [Learning Rust: Enumerating Excellence](https://dev.to/link2twenty/learning-rust-enumerating-excellence-1ohh)
+- [Caixa de ferramentas da Arquitetura de Software [Parte-1]](https://dev.to/ezambomsantana/caixa-de-ferramentas-da-arquitetura-de-software-parte-1-2i7a)
 - [I parsed 968 launches from /r/SideProject and analyzed them with Claude 3 Opus](https://dev.to/alexanderisora/i-parsed-968-launches-from-rsideproject-and-analyzed-them-with-claude-3-opus-5ag0)
-- [What are your goals for week 13 of 2024?](https://dev.to/jarvisscript/what-are-your-goals-for-week-13-of-2024-1ed)
-- [What Are Const Generics and How Are They Used in Rust?](https://dev.to/awwsmm/what-are-const-generics-and-how-are-they-used-in-rust-ohm)
-- [Tweets Scheduler Built using NextJS, Gemini API, Appwrite and Twitter API](https://dev.to/thevinitgupta/tweets-scheduler-built-using-nextjs-gemini-api-appwrite-and-twitter-api-5gjl)
-- [Unlock the Twitterverse: Your 2024 Tech &amp; Dev Insider&#39;s Guide](https://dev.to/serverspace/unlock-the-twitterverse-your-2024-tech-dev-insiders-guide-o3f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
