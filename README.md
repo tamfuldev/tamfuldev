@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [I parsed 968 launches from /r/SideProject and analyzed them with Claude 3 Opus](https://dev.to/alexanderisora/i-parsed-968-launches-from-rsideproject-and-analyzed-them-with-claude-3-opus-5ag0)
+- [What are your goals for week 13 of 2024?](https://dev.to/jarvisscript/what-are-your-goals-for-week-13-of-2024-1ed)
+- [What Are Const Generics and How Are They Used in Rust?](https://dev.to/awwsmm/what-are-const-generics-and-how-are-they-used-in-rust-ohm)
+- [Tweets Scheduler Built using NextJS, Gemini API, Appwrite and Twitter API](https://dev.to/thevinitgupta/tweets-scheduler-built-using-nextjs-gemini-api-appwrite-and-twitter-api-5gjl)
 - [Unlock the Twitterverse: Your 2024 Tech &amp; Dev Insider&#39;s Guide](https://dev.to/serverspace/unlock-the-twitterverse-your-2024-tech-dev-insiders-guide-o3f)
-- [FLaNK AI Weekly 25 March 2025](https://dev.to/tspannhw/flank-ai-weekly-25-march-2025-3cgm)
-- [Announcing Espresso; a different kind of Java build tool.](https://dev.to/hlafaille/announcing-espresso-a-different-kind-of-java-build-tool-4k0c)
-- [Music Monday — What are you listening to? &lpar;Suno.AI Edition 🤖&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-sunoai-edition--2aoa)
-- [Unlocking Smooth Downloads: A Guide to User-Friendly File Download After User Actions &lpar;POST Requests&rpar;](https://dev.to/shreyaan/unlocking-smooth-downloads-a-guide-to-user-friendly-file-download-after-user-actions-post-requests-3b5c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
