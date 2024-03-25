@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Podcast Palooza— What are you listening to? &lpar;Best-of- all-time edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-best-of-all-time-edition-3gll)
+- [Day 2 &amp; 3 Completed](https://dev.to/jay818/day-2-3-completed-2o87)
 - [The transitory nature of MLOps: Advocating for DevOps/MLOps coalescence](https://dev.to/jwilliamsr/the-transitory-nature-of-mlops-advocating-for-devopsmlops-coalescence-1k6j)
 - [Scripts should be written using the project main language](https://dev.to/freitzzz/scripts-should-be-written-using-the-project-main-language-40hj)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3hik)
-- [API Testing with Clerk and Express](https://dev.to/mad/api-testing-with-clerk-and-express-2i56)
-- [A Step-by-Step Guide to Creating a 3D Rendering Engine Using C++ and OpenGL](https://dev.to/dexterxt/a-step-by-step-guide-to-creating-a-3d-rendering-engine-using-c-and-opengl-1e7n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
