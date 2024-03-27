@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [SEOGenius — Crafted with ChatGPT](https://dev.to/ssukhpinder/seogenius-crafted-with-chatgpt-14h8)
 - [Improve Your Workflow with APItoolkit](https://dev.to/apitoolkit/improve-your-workflow-with-apitoolkit-3m3b)
 - [GetBlock Introduces Subscriptions: Save 50% on RPC Node](https://dev.to/getblockapi/getblock-introduces-subscriptions-save-50-on-rpc-node-27gl)
 - [Announcing pre-release of &quot;All-Access&quot;](https://dev.to/ngmaterialdev/announcing-pre-release-of-all-access-4b5m)
 - [Get Random Images API for free from Lorem Picsum](https://dev.to/sh20raj/get-random-images-api-for-free-from-lorem-picsum-1ffi)
-- [Most Common JavaScript Array Methods](https://dev.to/praneshcodecraft/most-common-javascript-array-methods-3dna)
 <!-- BLOG-POST-LIST:END -->
 
 ---
