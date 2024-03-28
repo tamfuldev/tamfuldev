@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Top 5 Best Courses for administrator by Microsoft with certificate](https://dev.to/rani4849/top-5-best-courses-for-administrator-by-microsoft-with-certificate-19n9)
+- [glad to be here](https://dev.to/williamsmile4/glad-to-be-here-2k70)
 - [Maximizing Value: A Guide to Cost Optimization in Microsoft Azure](https://dev.to/theyasirr/maximizing-value-a-guide-to-cost-optimization-in-microsoft-azure-2989)
 - [Getting Started with React: A Beginner&#39;s Guide](https://dev.to/akchauhan2/getting-started-with-react-a-beginners-guide-lip)
 - [Smart Contract Verification And Deploying Using Hardhat](https://dev.to/amity808/smart-contract-verification-and-deploying-using-hardhat-3map)
-- [How To Reduce Tech Debt to Keep Your Ruby on Rails Application Effortlessly Adaptable](https://dev.to/julianrubisch/how-to-reduce-tech-debt-to-keep-your-ruby-on-rails-application-effortlessly-adaptable-1mg5)
-- [Boletín AWS Open Source, March Edition](https://dev.to/aws-espanol/boletin-aws-open-source-march-edition-1l4n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
