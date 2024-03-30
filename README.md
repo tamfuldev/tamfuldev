@@ -16,7 +16,7 @@
 # Latest stack oveflow activity
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><tr><td>Undot Array in Laravel</td><td>https://stackoverflow.com/questions/78249626/undot-array-in-laravel</td></tr><tr><td>API addition to web based application &lpar;Laravel&rpar; [closed]</td><td>https://stackoverflow.com/questions/78249513/api-addition-to-web-based-application-laravel</td></tr><tr><td>php $_FILE variable undefined index</td><td>https://stackoverflow.com/questions/78249397/php-file-variable-undefined-index</td></tr><tr><td>Prefill Stripe Shipping Address fields?</td><td>https://stackoverflow.com/questions/78249274/prefill-stripe-shipping-address-fields</td></tr><tr><td>hex2bin&lpar;&rpar; returning a base64 encoded string [closed]</td><td>https://stackoverflow.com/questions/78249184/hex2bin-returning-a-base64-encoded-string</td></tr><!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:START --><tr><td>What should I use instead of id in Laravel?</td><td>https://stackoverflow.com/questions/78249784/what-should-i-use-instead-of-id-in-laravel</td></tr><tr><td>Laravel spatie permission many to through? query</td><td>https://stackoverflow.com/questions/78249743/laravel-spatie-permission-many-to-through-query</td></tr><tr><td>How to add deeplink to the new FCM v1 API for push notification</td><td>https://stackoverflow.com/questions/78249715/how-to-add-deeplink-to-the-new-fcm-v1-api-for-push-notification</td></tr><tr><td>Open Web Library [closed]</td><td>https://stackoverflow.com/questions/78249689/open-web-library</td></tr><tr><td>Undot Array in Laravel</td><td>https://stackoverflow.com/questions/78249626/undot-array-in-laravel</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 
 ---
