@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [A Summary of the Battery Status API](https://dev.to/desoga/a-summary-of-the-battery-status-api-1hke)
+- [10 Tips for Mastering TypeScript Generics](https://dev.to/mr_mornin_star/10-tips-for-mastering-typescript-generics-1aph)
 - [Dockerizing a Flask application](https://dev.to/felipearcaro/dockerizing-a-flask-application-2e5e)
-- [Angular Material Update Guide](https://dev.to/ngmaterialdev/angular-material-update-guide-1cb)
-- [Day 5— Azure Open AI Challenge: Document Intelligence](https://dev.to/ssukhpinder/day-5-azure-open-ai-challenge-document-intelligence-30d5)
-- [Automate Your Workflow With AI](https://dev.to/stan8086/automate-your-workflow-with-ai-5hh6)
-- [Mastering React Hooks: A Comprehensive Guide for Frontend Developers](https://dev.to/galabeketov/mastering-react-hooks-a-comprehensive-guide-for-frontend-developers-41c3)
+- [Schema Extension and Reuse](https://dev.to/shaharke/schema-extension-and-reuse-clc)
+- [The future of Typescript in Production-Grade Applications](https://dev.to/martinpersson/the-future-of-typescript-in-production-grade-applications-lke)
 <!-- BLOG-POST-LIST:END -->
 
 ---
