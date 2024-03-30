@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Automate Your Workflow With AI](https://dev.to/stan8086/automate-your-workflow-with-ai-5hh6)
+- [THE HISTORY OF AI 2022-24](https://dev.to/mince/the-history-of-ai-2022-24-19d2)
 - [How to use Kubectl Exec Command?](https://dev.to/cicube/how-to-use-kubectl-exec-command-3e4n)
 - [CORS Error Explained and How to Fix It?](https://dev.to/codeparrot/cors-error-explained-and-how-to-fix-it-12bh)
 - [Latest Newsletter: Eating Glass &lpar;Issue #157&rpar;](https://dev.to/mjgs/latest-newsletter-eating-glass-issue-157-2cb0)
-- [Docker](https://dev.to/gavindang2911/docker-32bk)
-- [What is Project Lombok? Is it still relevant in 2023?](https://dev.to/nilan/what-is-project-lombok-is-it-still-relevant-in-2023-477h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
