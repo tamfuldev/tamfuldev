@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How Do You Learn New Things When You&#39;re So Busy?](https://dev.to/devteam/how-do-you-learn-new-things-when-youre-so-busy-5efo)
+- [MindMap for revision of DSA in 30 days !! 🎯](https://dev.to/khushindpatel/mindmap-for-revision-of-dsa-in-30-days--16jm)
 - [One Byte Explainer: IndexedDB](https://dev.to/gambhirsharma/one-byte-explainer-indexeddb-40h3)
 - [Dev Coffee](https://dev.to/gambhirsharma/dev-coffee-2c8o)
 - [The Pros and Cons of Routine for Developers](https://dev.to/jahid2121/the-pros-and-cons-of-routine-for-developers-35ck)
-- [Leitura obrigatória para novos desenvolvedores: Rejeições da PlayStore em 5 minutos](https://dev.to/zmsoft/leitura-obrigatoria-para-novos-desenvolvedores-rejeicoes-da-playstore-em-5-minutos-50gb)
-- [The DevRel Digest March 2024: Must Be the Season of the Queen](https://dev.to/lizzzzz/the-devrel-digest-march-2024-must-be-the-season-of-the-queen-3do0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
