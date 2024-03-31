@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [gliJS - Tiny jQuery Alternatives](https://dev.to/sh20raj/glijs-tiny-jquery-alternatives-280e)
+- [MASTER WEB DEV](https://dev.to/mince/master-web-dev-1pj7)
+- [Create React components using CSS Only!! 🚀](https://dev.to/sajidrsk/create-react-components-using-css-only-40m9)
 - [10 Сustom Utility Types for TypeScript Projects](https://dev.to/antonzo/10-sustom-utility-types-for-typescript-projects-48pe)
 - [Beginners guide to AWS EC2](https://dev.to/vivekalhat/beginners-guide-to-aws-ec2-2adk)
-- [WHAT IS GAS IN BLOCKCHAIN?](https://dev.to/csituma/gas-25p9)
-- [10 Common SEO Mistakes to Avoid in Your Digital Strategy](https://dev.to/rogeliohowell/10-common-seo-mistakes-to-avoid-in-your-digital-strategy-2af1)
-- [Full Tutorial : How to Clone a Smaller Boot Disk onto a Larger Disk for Free with Clonezilla &amp; Delete Disk Partition](https://dev.to/furkangozukara/full-tutorial-how-to-clone-a-smaller-boot-disk-onto-a-larger-disk-for-free-with-clonezilla-delete-disk-partition-3d5i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
