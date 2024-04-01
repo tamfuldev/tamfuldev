@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Free Resources for Learning CSS](https://dev.to/melnik909/my-free-resources-for-learning-css-56pc)
-- [Building a Game Engine Using Java with LWJGL](https://dev.to/dexterxt/building-a-game-engine-using-java-with-lwjgl-4c6o)
-- [3 AI Tools to Finish Hours of Work in Minutes! ⚡🤖](https://dev.to/arjuncodess/3-ai-tools-to-finish-hours-of-work-in-minutes-2fg)
-- [The Many Ways Not to Build an API](https://dev.to/zenstack/the-many-ways-not-to-build-an-api-41o6)
-- [TweetX: HTML5 Twitter like Video Player for Your Website ✨](https://dev.to/sh20raj/tweetx-html5-twitter-like-video-player-for-your-website-31kh)
+- [Winning Strategies for Gaining Instagram Followers](https://dev.to/socialbuddies/winning-strategies-for-gaining-instagram-followers-e5k)
+- [Productivity Directory: First Two-Month Report](https://dev.to/stan8086/productivity-directory-first-two-month-report-4p5e)
+- [Advanced Strategies For Boosting Your Instagram Story Views](https://dev.to/socialbuddies/advanced-strategies-for-boosting-your-instagram-story-views-3eo5)
+- [Functional Interface in Kotlin](https://dev.to/khushpanchal123/functional-interface-in-kotlin-3o78)
+- [Earn your C# Certification with new Learning Series](https://dev.to/dotnet/earn-your-c-certification-with-new-learning-series-1eka)
 <!-- BLOG-POST-LIST:END -->
 
 ---
