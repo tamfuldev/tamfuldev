@@ -7,8 +7,8 @@
 - [JavaScript Primitive Data Types](https://dev.to/imashwani/javascript-primitive-data-types-1l5)
 - [Gatsby vs Next.js vs Remix: Which to Choose?](https://dev.to/marmariadev/gatsby-vs-nextjs-vs-remix-which-to-choose-3fdn)
 - [Embracing the Fun: Share Your Favorite Tech April Fools&#39;!](https://dev.to/link2twenty/embracing-the-fun-share-your-favorite-tech-april-fools-3nnm)
+- [What are your goals for week 14 of 2024?](https://dev.to/jarvisscript/what-are-your-goals-for-week-14-of-2024-1e2b)
 - [How to Handle N+1 Queries for Optimal Database Performance in Django?](https://dev.to/pragativerma18/how-to-handle-n1-queries-for-optimal-database-performance-in-django-37ko)
-- [JavaScript Basic Coding Challenges for Beginners Part-1](https://dev.to/adilrasheed/javascript-basic-coding-challenges-for-beginners-292f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
