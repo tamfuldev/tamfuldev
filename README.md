@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Winning Strategies for Gaining Instagram Followers](https://dev.to/socialbuddies/winning-strategies-for-gaining-instagram-followers-e5k)
-- [Productivity Directory: First Two-Month Report](https://dev.to/stan8086/productivity-directory-first-two-month-report-4p5e)
-- [Advanced Strategies For Boosting Your Instagram Story Views](https://dev.to/socialbuddies/advanced-strategies-for-boosting-your-instagram-story-views-3eo5)
-- [Functional Interface in Kotlin](https://dev.to/khushpanchal123/functional-interface-in-kotlin-3o78)
-- [Earn your C# Certification with new Learning Series](https://dev.to/dotnet/earn-your-c-certification-with-new-learning-series-1eka)
+- [WebRTC in Just One Byte](https://dev.to/codewithtee/webrtc-in-just-one-byte-25l6)
+- [Must know blockchain Terminologies.](https://dev.to/csituma/must-know-blockchain-terminologies-5295)
+- [FLaNK AI - 01 April 2024](https://dev.to/tspannhw/flank-ai-01-april-2024-17o0)
+- [Execute .dmg &lpar;Mac&rpar; and .exe &lpar;Windows&rpar; Files Using Terminal](https://dev.to/sh20raj/execute-dmg-mac-and-exe-windows-files-using-terminal-4np9)
+- [📎 Extending #SemanticKernel using OllamaSharp for chat and text completion](https://dev.to/azure/extending-semantickernel-using-ollamasharp-for-chat-and-text-completion-4m10)
 <!-- BLOG-POST-LIST:END -->
 
 ---
