@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Primitive Data Types](https://dev.to/imashwani/javascript-primitive-data-types-1l5)
-- [Gatsby vs Next.js vs Remix: Which to Choose?](https://dev.to/marmariadev/gatsby-vs-nextjs-vs-remix-which-to-choose-3fdn)
-- [Embracing the Fun: Share Your Favorite Tech April Fools&#39;!](https://dev.to/link2twenty/embracing-the-fun-share-your-favorite-tech-april-fools-3nnm)
-- [What are your goals for week 14 of 2024?](https://dev.to/jarvisscript/what-are-your-goals-for-week-14-of-2024-1e2b)
-- [How to Handle N+1 Queries for Optimal Database Performance in Django?](https://dev.to/pragativerma18/how-to-handle-n1-queries-for-optimal-database-performance-in-django-37ko)
+- [My Free Resources for Learning CSS](https://dev.to/melnik909/my-free-resources-for-learning-css-56pc)
+- [Building a Game Engine Using Java with LWJGL](https://dev.to/dexterxt/building-a-game-engine-using-java-with-lwjgl-4c6o)
+- [3 AI Tools to Finish Hours of Work in Minutes! ⚡🤖](https://dev.to/arjuncodess/3-ai-tools-to-finish-hours-of-work-in-minutes-2fg)
+- [The Many Ways Not to Build an API](https://dev.to/zenstack/the-many-ways-not-to-build-an-api-41o6)
+- [TweetX: HTML5 Twitter like Video Player for Your Website ✨](https://dev.to/sh20raj/tweetx-html5-twitter-like-video-player-for-your-website-31kh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
