@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Google Gemini Free API](https://dev.to/sh20raj/google-gemini-free-api-269o)
-- [Svelte for Beginners: Easy Guide](https://dev.to/codeparrot/svelte-for-beginners-easy-guide-3fam)
-- [What I have in my portfolio 😎](https://dev.to/locnguyenpv/what-i-have-in-my-portfolio-44bd)
-- [10 Tips to Maximize Productivity in Tailwind CSS](https://dev.to/mario130/10-tips-to-maximize-productivity-in-tailwind-css-1eep)
-- [Building a dynamic Canvas rendering engine using JSX](https://dev.to/aha/building-a-dynamic-canvas-rendering-engine-using-jsx-3237)
+- [Congrats to our Frontend Challenge Winners!](https://dev.to/devteam/congrats-to-our-frontend-challenge-winners-2h5f)
+- [What Does Tech Mean?](https://dev.to/scofieldidehen/what-does-tech-mean-1kbh)
+- [Let Us Code](https://dev.to/kaydacode/let-us-code-1ph5)
+- [Bun - The One Tool for All Your JavaScript/Typescript Project&#39;s Needs?](https://dev.to/this-is-learning/bun-the-one-tool-for-all-your-javascripttypescript-projects-needs-5f13)
+- [PDF 2.0, what&#39;s new?](https://dev.to/onedoc/pdf-20-whats-new-5cbo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
