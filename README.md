@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Penggunaan OpenSSH](https://dev.to/reizzo/penggunaan-openssh-5e1m)
+- [Finding Best Training Hyper Parameters / Configuration Is Neither Cheap Nor Easy](https://dev.to/furkangozukara/finding-best-training-hyper-parameters-configuration-is-neither-cheap-nor-easy-37n4)
 - [Modelling be like...](https://dev.to/theprogrammingpod/modelling-be-like-4d6k)
 - [The Dark Side of AI/AGI](https://dev.to/scofieldidehen/the-dark-side-of-aiagi-2914)
-- [data mining vs. machine learning](https://dev.to/askyt/data-mining-vs-machine-learning-1hjc)
-- [Embed Codes on Dev.to Using Liquid Syntax with Code Runner](https://dev.to/sh20raj/embed-codes-on-devto-using-liquid-syntax-with-runner-3hl4)
-- [DevOps with Guruu | Chapter 18 : Build and Deploy DevSecOps Chatbot Use generative AI [ Full ]](https://dev.to/aws-builders/devops-with-guruu-chapter-18-build-and-deploy-devsecops-chatbot-use-generative-ai-full--8pf)
+- [Failing as a Software Engineer: Embracing Failure, Retrospection, and Overcoming Imposter Syndrome](https://dev.to/rechidesigns/failing-as-a-software-engineer-embracing-failure-retrospection-and-overcoming-imposter-syndrome-4j3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
