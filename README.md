@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Congrats to our Frontend Challenge Winners!](https://dev.to/devteam/congrats-to-our-frontend-challenge-winners-2h5f)
-- [What Does Tech Mean?](https://dev.to/scofieldidehen/what-does-tech-mean-1kbh)
-- [Let Us Code](https://dev.to/kaydacode/let-us-code-1ph5)
-- [Bun - The One Tool for All Your JavaScript/Typescript Project&#39;s Needs?](https://dev.to/this-is-learning/bun-the-one-tool-for-all-your-javascripttypescript-projects-needs-5f13)
-- [PDF 2.0, what&#39;s new?](https://dev.to/onedoc/pdf-20-whats-new-5cbo)
+- [How to set up a server with Vultr](https://dev.to/serverauth/how-to-set-up-a-server-with-vultr-2m74)
+- [Is creativity inversely proportional to discipline?](https://dev.to/shreyvijayvargiya/is-creativity-inversely-proportional-to-discipline-36mj)
+- [Understanding Angular&#39;s Dependency Injection](https://dev.to/sanjayms/understanding-angulars-dependency-injection-433e)
+- [CS50 - Week 0](https://dev.to/udilbar/cs50-week-0-4eo0)
+- [Unveiling the Truth about &quot;Fast&quot; Software Development: Why a Deliberate Approach Wins the Race](https://dev.to/peterm/unveiling-the-truth-about-fast-software-development-why-a-deliberate-approach-wins-the-race-3dn1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
