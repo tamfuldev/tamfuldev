@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [CSS Rounded Corners Examples](https://dev.to/refine/css-rounded-corners-examples-3hha)
+- [I created an AI Chatbot 🚀](https://dev.to/sh20raj/i-created-ai-chatbot-33m1)
 - [Generate AI Songs for Free - Gemini API](https://dev.to/sh20raj/generate-ai-songs-for-free-gemini-api-186k)
-- [Understanding Layers, Tiers, and N-Tier Architecture in Application Development](https://dev.to/3bdelrahman/understanding-layers-tiers-and-n-tier-architecture-in-application-development-1hlb)
-- [Expand Promox storage with external enclosures in a homelab environment](https://dev.to/hunghvu/expand-promox-storage-with-external-enclosures-in-a-homelab-environment-13kn)
-- [Configuring and Securing SSH](https://dev.to/karlitaayu1/configuring-and-securing-ssh-3a11)
-- [AWS open source newsletter, #194](https://dev.to/aws/aws-open-source-newsletter-194-h60)
+- [Day 15 of 30-Day .NET Challenge: Lazy Initialization](https://dev.to/ssukhpinder/day-15-of-30-day-net-challenge-lazy-initialization-3ob6)
+- [Control dependencies with structs in Swift](https://dev.to/agapovone/control-dependencies-with-structs-in-swift-379g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
