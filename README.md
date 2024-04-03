@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Rounded Corners Examples](https://dev.to/refine/css-rounded-corners-examples-3hha)
-- [I created an AI Chatbot 🚀](https://dev.to/sh20raj/i-created-ai-chatbot-33m1)
-- [Generate AI Songs for Free - Gemini API](https://dev.to/sh20raj/generate-ai-songs-for-free-gemini-api-186k)
-- [Day 15 of 30-Day .NET Challenge: Lazy Initialization](https://dev.to/ssukhpinder/day-15-of-30-day-net-challenge-lazy-initialization-3ob6)
-- [Control dependencies with structs in Swift](https://dev.to/agapovone/control-dependencies-with-structs-in-swift-379g)
+- [Managing Global State with useReducer and Context API in Next JS 14](https://dev.to/muhammadazfaraslam/managing-global-state-with-usereducer-and-context-api-in-next-js-14-2m17)
+- [How to convert XML files to CSV format using Boomi in Docker](https://dev.to/eyer-ai/how-to-convert-xml-files-to-csv-format-using-boomi-in-docker-30c8)
+- [Upgrading Hundreds of Kubernetes Clusters](https://dev.to/kuberada/upgrading-hundreds-of-kubernetes-clusters-8h0)
+- [Live reload a Rails 7 application, an unsatisfaying attempt](https://dev.to/bdavidxyz/live-reload-a-rails-7-application-an-unsatisfaying-attempt-d82)
+- [1.Describe Selenium Architecture in detail?2.What is the significance of the Python Virtual Environment? Give some examples?](https://dev.to/selvaranisekar/1describe-selenium-architecture-in-detail2what-is-the-significance-of-the-python-virtual-environment-give-some-examples-2mmm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
