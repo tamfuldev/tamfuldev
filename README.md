@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [21 AI Tools that are changing the World](https://dev.to/taipy/21-ai-tools-that-are-changing-the-world-1o54)
+- [Building a Secure and Resilient Infra with Infrastructure as Code &lpar;IaC&rpar;: Early Birds](https://dev.to/blackrossay/building-a-secure-and-resilient-infra-with-infrastructure-as-code-iac-early-birds-h2c)
+- [Bubble Sort in Java &lpar;With Intuition + Dry run + Code&rpar;](https://dev.to/tanujav/bubble-sort-in-java-with-intuition-dry-run-code-1hmj)
+- [How I Built an Open-Source Admin Dashboard Template with Mantine and Next.js](https://dev.to/kelvink96/how-i-built-an-open-source-admin-dashboard-template-with-mantine-and-nextjs-339m)
 - [Managing Global State with useReducer and Context API in Next JS 14](https://dev.to/muhammadazfaraslam/managing-global-state-with-usereducer-and-context-api-in-next-js-14-2m17)
-- [How to convert XML files to CSV format using Boomi in Docker](https://dev.to/eyer-ai/how-to-convert-xml-files-to-csv-format-using-boomi-in-docker-30c8)
-- [Upgrading Hundreds of Kubernetes Clusters](https://dev.to/kuberada/upgrading-hundreds-of-kubernetes-clusters-8h0)
-- [Live reload a Rails 7 application, an unsatisfaying attempt](https://dev.to/bdavidxyz/live-reload-a-rails-7-application-an-unsatisfaying-attempt-d82)
-- [1.Describe Selenium Architecture in detail?2.What is the significance of the Python Virtual Environment? Give some examples?](https://dev.to/selvaranisekar/1describe-selenium-architecture-in-detail2what-is-the-significance-of-the-python-virtual-environment-give-some-examples-2mmm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
