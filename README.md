@@ -6,9 +6,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [A glimpse into the algebra of type systems](https://dev.to/alex_escalante/a-glimpse-into-the-algebra-of-type-systems-2gee)
 - [Hash Map As a Service](https://dev.to/mvmendonca/hash-map-as-a-service-1pk2)
+- [Design Memorable Logos with Lyzr&#39;s Logo Generator](https://dev.to/prajjwalsule21/design-memorable-logos-with-lyzrs-logo-generator-3j6i)
 - [How to close attack vectors for exposed secrets in Docker](https://dev.to/siranjeevi/how-to-close-attack-vectors-for-exposed-secrets-in-docker-26c)
 - [Mastering Global Functions in Laravel: Easy Methods for Versions 8,9,10,11.](https://dev.to/frankliniwobi/mastering-global-functions-in-laravel-easy-methods-for-versions-891011-4e02)
-- [Decoupling Dependencies in Clean Architecture: A Practical Guide](https://dev.to/ijash/decoupling-dependencies-in-clean-architecture-with-dependency-injection-25do)
 <!-- BLOG-POST-LIST:END -->
 
 ---
