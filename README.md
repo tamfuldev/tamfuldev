@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Easy Peasy Form Validation Errors with Rails Turbo Frames &lpar;modals&rpar;](https://dev.to/railsdesigner/easy-peasy-form-validation-errors-with-rails-turbo-frames-modals-67n)
+- [How to duplicate a Sanity Dataset for FREE](https://dev.to/julimancan/how-to-duplicate-a-sanity-dataset-for-free-392i)
+- [Riding the Waves of #Solana #Web3: An Adventure for Developers](https://dev.to/abhishektilkar/riding-the-waves-of-solana-web3-an-adventure-for-developers-2166)
+- [5 CSS authors that you should read](https://dev.to/melnik909/5-css-authors-that-you-should-read-5c0a)
 - [24 Essential Async/Await Best Practices for Basic to Advanced C# Developers](https://dev.to/ssukhpinder/24-essential-asyncawait-best-practices-for-basic-to-advanced-c-developers-2kgg)
-- [Consistency Is All That Matters! Lessons from Atomic Habits 🌱🚀](https://dev.to/arjuncodess/consistency-is-all-that-matters-lessons-from-atomic-habits-1bmf)
-- [Using nmap for Continuous Vulnerability Monitoring](https://dev.to/stefanhudelmaier/using-nmap-for-continuous-vulnerability-monitoring-3d9e)
-- [Building a Managed Service Provider Business With Open Source](https://dev.to/schalkneethling/building-a-managed-service-provider-business-with-open-source-1olk)
-- [Top 6 Alternatives to XAMPP for Local Development Environments](https://dev.to/bytecrusher99/top-6-alternatives-to-xampp-for-local-development-environments-5po)
 <!-- BLOG-POST-LIST:END -->
 
 ---
