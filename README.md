@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [ACL File](https://dev.to/reizzo/acl-file-4i34)
+- [Remote job offers this week](https://dev.to/krlz/remote-job-offers-this-week-521j)
 - [Core Web Vitals: UX além da interface](https://dev.to/techinrio/core-web-vitals-ux-alem-da-interface-410m)
 - [The Fascinating History of Java](https://dev.to/dbillion/the-fascinating-history-of-java-2al7)
 - [7 Frameworks, One SAML Jackson - Your Open Source Single Sign-On Solution](https://dev.to/boxyhq/7-frameworks-one-saml-jackson-your-open-source-single-sign-on-solution-3cdf)
-- [Batect in a nutshell](https://dev.to/otter13/batect-in-a-nutshell-3f1g)
-- [Golang: out-of-box backpressure handling with gRPC, proven by a Grafana dashboard](https://dev.to/tcm/golang-out-of-box-backpressure-handling-with-grpc-proven-by-a-grafana-dashboard-4hkc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
