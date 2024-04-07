@@ -16,7 +16,7 @@
 # Latest stack oveflow activity
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><tr><td>Can&#39;t find php.ini</td><td>https://stackoverflow.com/questions/78287200/cant-find-php-ini</td></tr><tr><td>How to Filter collection based on key?</td><td>https://stackoverflow.com/questions/78287191/how-to-filter-collection-based-on-key</td></tr><tr><td>My Wordpress php code snippets not working</td><td>https://stackoverflow.com/questions/78287118/my-wordpress-php-code-snippets-not-working</td></tr><tr><td>Delete function does not work &lpar;PHP, JS, HTML, Tailwind&rpar; [closed]</td><td>https://stackoverflow.com/questions/78287101/delete-function-does-not-work-php-js-html-tailwind</td></tr><tr><td>CURL ignore Query String parametrs in URL</td><td>https://stackoverflow.com/questions/78287070/curl-ignore-query-string-parametrs-in-url</td></tr><!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:START --><tr><td>My HTML form not work but in code is all fine, actually</td><td>https://stackoverflow.com/questions/78287326/my-html-form-not-work-but-in-code-is-all-fine-actually</td></tr><tr><td>PHP detecting no result for PDO query</td><td>https://stackoverflow.com/questions/78287261/php-detecting-no-result-for-pdo-query</td></tr><tr><td>Can&#39;t find php.ini</td><td>https://stackoverflow.com/questions/78287200/cant-find-php-ini</td></tr><tr><td>How to Filter collection based on key?</td><td>https://stackoverflow.com/questions/78287191/how-to-filter-collection-based-on-key</td></tr><tr><td>My Wordpress php code snippets not working</td><td>https://stackoverflow.com/questions/78287118/my-wordpress-php-code-snippets-not-working</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 
 ---
