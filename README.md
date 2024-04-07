@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [A Guide to Common Web Application Security Vulnerabilities and Mitigation](https://dev.to/mmainulhasan/a-guide-to-common-web-application-security-vulnerabilities-and-mitigation-nmm)
 - [Run Local LLMs Using LM Studio](https://dev.to/wydoinn/run-local-llms-using-lm-studio-4h2a)
 - [Implementing JavaScript Concepts from Scratch](https://dev.to/antonzo/implementing-javascript-concepts-from-scratch-4623)
 - [How to launch AWS EC2 Instance &lpar;Windows&rpar;](https://dev.to/cloudairx/how-to-launch-aws-ec2-instance-windows-jo6)
 - [ARCore For Android](https://dev.to/sandeepsatpute9271/arcore-for-android-12l0)
-- [10 Must Know System Design Concepts for Interviews](https://dev.to/somadevtoo/10-must-know-system-design-concepts-for-interviews-2fii)
 <!-- BLOG-POST-LIST:END -->
 
 ---
