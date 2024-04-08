@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Unveiling the Mechanics Behind Next.js Path Matching](https://dev.to/yhshanto/unveiling-the-mechanics-behind-nextjs-path-matching-4ia8)
+- [Microsoft Upcoming Events!! Join Now](https://dev.to/rani4849/microsoft-upcoming-events-join-now-1eal)
+- [Microsoft Upcoming Events!! Join Now](https://dev.to/ankita482/microsoft-upcoming-events-join-now-2d3k)
+- [Microsoft Upcoming Events!! Join Now](https://dev.to/radhika59/microsoft-upcoming-events-join-now-38ng)
 - [Planning Poker Jira integration](https://dev.to/mattlewandowski93/planning-poker-jira-integration-k7e)
-- [My New Podcast: AI With Alex](https://dev.to/alex_the_dev/my-new-podcast-ai-with-alex-1plg)
-- [Why Go is great choice for Software engineering.](https://dev.to/megabytee/why-go-is-great-choice-for-software-engineering-4o7c)
-- [How to Extend a Filament Resource](https://dev.to/andreiabohner/how-to-extend-a-filament-resource-2cl1)
-- [Using Git and GitHub for collaboration](https://dev.to/symplymuslimah12/using-git-and-github-for-collaboration-1dmo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
