@@ -8,7 +8,7 @@
 - [Microsoft Upcoming Events!! Join Now](https://dev.to/rani4849/microsoft-upcoming-events-join-now-1eal)
 - [Microsoft Upcoming Events!! Join Now](https://dev.to/ankita482/microsoft-upcoming-events-join-now-2d3k)
 - [Microsoft Upcoming Events!! Join Now](https://dev.to/radhika59/microsoft-upcoming-events-join-now-38ng)
-- [Planning Poker Jira integration](https://dev.to/mattlewandowski93/planning-poker-jira-integration-k7e)
+- [How to Make your Web App Super-Satisfying in less than 5 minutes with Davstack Sound](https://dev.to/dawidcodes/make-your-web-app-stand-out-in-less-than-5-minutes-with-davstack-sound-3ea)
 <!-- BLOG-POST-LIST:END -->
 
 ---
