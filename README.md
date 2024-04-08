@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Responsive Lightbox Gallery with Thumbnails using HTML, CSS, and JavaScript](https://dev.to/chiboy_001/how-to-create-a-responsive-lightbox-gallery-with-thumbnails-using-html-css-and-javascript-4d2h)
-- [Easiest Explanation of DOM, Even a 6 year old can understand](https://dev.to/shubhsharma19/easiest-explanation-of-dom-even-a-6-year-old-can-understand-3njl)
-- [Creating an animated loading spinner with pure CSS](https://dev.to/peboy/creating-an-animated-loading-spinner-with-pure-css-24h0)
-- [How to create a set of tabs with Tailwind CSS and Alpinejs](https://dev.to/mike_andreuzza/how-to-create-a-set-of-tabs-with-tailwind-css-and-alpinejs-8kd)
-- [Building User Story &amp; Use Case Generator using Lyzr SDK](https://dev.to/akshay007/building-user-story-use-case-generator-using-lyzr-sdk-2c6b)
+- [🎣 Reeling in React Hooks](https://dev.to/sh20raj/reeling-in-react-hooks-6lj)
+- [React Hooks 🎣](https://dev.to/sh20raj/reeling-in-react-hooks-18e)
+- [How API7 Gateway Overcomes Exceptions with High Availability Strategies](https://dev.to/api7/how-api7-gateway-overcomes-exceptions-with-high-availability-strategies-34j5)
+- [Mastering Python iteration: Loops and the magic of list comprehensions](https://dev.to/mercykiria/mastering-python-iteration-loops-and-the-magic-of-list-comprehensions-7fp)
+- [Yocto: roll your own embedded Linux distribution](https://dev.to/khozaei/yocto-roll-your-own-embedded-linux-distribution-5h5k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
