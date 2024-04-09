@@ -25,11 +25,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/tam-internship21/lv-web-car-rental/pull/1) in [tam-internship21/lv-web-car-rental](https://github.com/tam-internship21/lv-web-car-rental)
-2. 💪 Opened PR [#59](https://github.com/trngtam10d/trngtam10d.github.io/pull/59) in [trngtam10d/trngtam10d.github.io](https://github.com/trngtam10d/trngtam10d.github.io)
-3. 💪 Opened PR [#58](https://github.com/trngtam10d/trngtam10d.github.io/pull/58) in [trngtam10d/trngtam10d.github.io](https://github.com/trngtam10d/trngtam10d.github.io)
-4. 💪 Opened PR [#57](https://github.com/trngtam10d/trngtam10d.github.io/pull/57) in [trngtam10d/trngtam10d.github.io](https://github.com/trngtam10d/trngtam10d.github.io)
-5. 💪 Opened PR [#56](https://github.com/trngtam10d/trngtam10d.github.io/pull/56) in [trngtam10d/trngtam10d.github.io](https://github.com/trngtam10d/trngtam10d.github.io)
+1. ❌ Closed PR [#34](https://github.com/trngtam10d/trngtam10d.github.io/pull/34) in [trngtam10d/trngtam10d.github.io](https://github.com/trngtam10d/trngtam10d.github.io)
+2. ❌ Closed PR [#33](https://github.com/trngtam10d/trngtam10d.github.io/pull/33) in [trngtam10d/trngtam10d.github.io](https://github.com/trngtam10d/trngtam10d.github.io)
+3. ❌ Closed PR [#32](https://github.com/trngtam10d/trngtam10d.github.io/pull/32) in [trngtam10d/trngtam10d.github.io](https://github.com/trngtam10d/trngtam10d.github.io)
+4. ❌ Closed PR [#31](https://github.com/trngtam10d/trngtam10d.github.io/pull/31) in [trngtam10d/trngtam10d.github.io](https://github.com/trngtam10d/trngtam10d.github.io)
+5. ❌ Closed PR [#30](https://github.com/trngtam10d/trngtam10d.github.io/pull/30) in [trngtam10d/trngtam10d.github.io](https://github.com/trngtam10d/trngtam10d.github.io)
 <!--END_SECTION:activity-->
 
 </details>
