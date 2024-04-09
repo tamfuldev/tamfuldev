@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Code Smell 246 - Expiration Date](https://dev.to/mcsee/code-smell-246-expiration-date-boi)
 - [Plotting Financial Data in Kotlin with Kandy](https://dev.to/andrei_kingsley/plotting-financial-data-in-kotlin-with-kandy-4gc3)
 - [A Love Letter to Gen Z from Gen Y: Understanding React&#39;s Evolution](https://dev.to/anishamalde/a-love-letter-to-gen-z-from-gen-y-understanding-reacts-evolution-4abm)
+- [Python - How &quot;Import&quot; Directive Works](https://dev.to/sm0ke/python-how-import-directive-works-17n2)
 - [Playlists for Coding: Top10 for different moods](https://dev.to/serverspace/playlists-for-coding-top10-for-different-moods-g4g)
-- [More expansive GPU doesn’t mean better always actually in many case in AI. Here a great example.](https://dev.to/furkangozukara/more-expansive-gpu-doesnt-mean-better-always-actually-in-many-case-in-ai-here-a-great-example-3meg)
-- [The Ultimate Guide to Laravel Reverb: Real-Time Notifications](https://dev.to/novu/the-ultimate-guide-to-laravel-reverb-real-time-notifications-48h4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
