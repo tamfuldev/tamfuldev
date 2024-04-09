@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [🧙‍♂️ Tutorial Typescript para Iniciantes](https://dev.to/magoacademico/tutorial-typescript-para-iniciantes-1fj4)
 - [Wealthy? Or WELLthy?](https://dev.to/devteam/wealthy-or-wellthy-2h8)
 - [Web Performance Optimization Techniques](https://dev.to/rounit08/web-performance-optimization-techniques-1n9h)
 - [Exploring Microsoft Whiteboard&#39;s Copilot Function](https://dev.to/jaloplo/exploring-microsoft-whiteboards-copilot-function-1gen)
-- [The Merits &amp; Demerits of Selenium Automation Testing](https://dev.to/grjoeay/the-merits-demerits-of-selenium-automation-testing-5amn)
-- [New Support Portal: Fresh Look &amp; Expanded Knowledge Base Launched](https://dev.to/getambassador2024/new-support-portal-fresh-look-expanded-knowledge-base-launched-lke)
+- [Improve your EKS cluster with Istio and Cilium : Better networking and security](https://dev.to/aws-builders/improve-your-eks-cluster-with-istio-and-cilium-better-networking-and-security-1fcp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
