@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL or MySQL: What Should I Choose for My Full-Stack Project?](https://dev.to/digitalpollution/postgresql-or-mysql-what-should-i-choose-for-my-full-stack-project-4h2k)
-- [DevLog #7 - Pair Programming in XP](https://dev.to/amilarangana/devlog-7-pair-programming-in-xp-53d5)
-- [Choose Your Own AIdventure - A CloudFlare Challenge](https://dev.to/phalkmin/choose-your-own-aidventure-a-cloudflare-challenge-28nf)
-- [Zed and AI will save us millions... and you might soon lose your job](https://dev.to/huly/zed-and-ai-will-save-us-millions-1n55)
-- [Bringing Security to the Forefront of DevOps: The Power of Threat Intelligence Integration](https://dev.to/digitalpollution/bringing-security-to-the-forefront-of-devops-the-power-of-threat-intelligence-integration-32om)
+- [Welcome Thread - v271](https://dev.to/devteam/welcome-thread-v271-1e8o)
+- [RESTful APIs with Laravel: Best Practices](https://dev.to/mikevarenek/restful-apis-with-laravel-best-practices-811)
+- [8 SaaS Ideas You Can Start Today](https://dev.to/domfive/8-saas-ideas-you-can-start-today-fl6)
+- [zeros&lpar;&rpar;, zeros_like&lpar;&rpar;, ones&lpar;&rpar; and ones_like&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/zeros-zeroslike-ones-and-oneslike-in-pytorch-26jm)
+- [Breaking News: AWS Bedrock Lands in Sydney](https://dev.to/aws-builders/breaking-news-aws-bedrock-lands-in-sydney-36go)
 <!-- BLOG-POST-LIST:END -->
 
 ---
