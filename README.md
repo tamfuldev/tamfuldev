@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Use Chat GPT 4 for Free ✨](https://dev.to/sh20raj/use-chat-gpt-4-for-free-4fd2)
 - [Why Coding is Scary and How To Learn Better](https://dev.to/annoh_karlgusta/why-coding-is-scary-and-how-to-learn-better-4i25)
 - [XValidatorX: A Lightweight Validation Library for JavaScript](https://dev.to/sh20raj/xvalidatorx-a-lightweight-validation-library-for-javascript-2c59)
 - [Getting Started with MongoDB: A Beginner&#39;s Guide](https://dev.to/tirthraval1999/getting-started-with-mongodb-a-beginners-guide-25g5)
 - [Empowering Web Privacy with Rust: Building a Decentralized Identity Management System](https://dev.to/zhukmax/empowering-web-privacy-with-rust-building-a-decentralized-identity-management-system-224c)
-- [Use Central configuration for AWS Security Hub operation in AWS multi-accounts](https://dev.to/nishikawaakira/use-central-configuration-for-aws-security-hub-operation-in-aws-multi-accounts-23n8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
