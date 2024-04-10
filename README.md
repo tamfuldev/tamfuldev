@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Bra Asks Liang Ding&#39;an: The Second Spring of Manufacturing Industry Awakened by the Industrial Internet](https://dev.to/naizhao/bra-asks-liang-dingan-the-second-spring-of-manufacturing-industry-awakened-by-the-industrial-internet-38i7)
-- [WHY REACT IS OVER REACTIVE ?](https://dev.to/mince/why-react-is-over-reactive--7p)
-- [Bra Asks - New Preface](https://dev.to/naizhao/bra-asks-new-preface-p77)
-- [Bra Asks - Preface](https://dev.to/naizhao/bra-asks-preface-2c5d)
-- [Setup odigos in Ubuntu](https://dev.to/ankur0904/setup-odigos-in-ubuntu-2da4)
+- [Content Encoding](https://dev.to/lakshanfernando/content-encoding-48po)
+- [Lesser know JavaScript array methods part -1](https://dev.to/shreenidhibatavi/lesser-know-javascript-array-methods-11d4)
+- [✨ AI Fairytale generator](https://dev.to/programordie/ai-fairytale-generator-385d)
+- [Day 10/366](https://dev.to/vishalmx3/day-10366-bia)
+- [Cloudflare AI Challenge Submission: ImageHarmony 🎵🖌](https://dev.to/floscode/cloudflare-ai-challenge-submission-imageharmony-e7o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
