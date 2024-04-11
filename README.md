@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [What I learned from 29 Days of OSS Alternatives](https://dev.to/opensauced/what-i-learned-from-29-days-of-oss-alternatives-1ca5)
+- [01 - Journey into Backend Engineering: Exploring the Core Components &amp; Concepts](https://dev.to/louaiboumediene/01-journey-into-backend-engineering-exploring-the-core-components-concepts-2a15)
+- [Bridging Analog to Angular with esbuild and Vite](https://dev.to/analogjs/bridging-analog-to-angular-with-esbuild-and-vite-472j)
 - [Expense journal with Cloudflare AI](https://dev.to/lyqht/expense-journal-with-cloudflare-ai-5f05)
-- [Celebrating One Year Working on Axelar: Building the Interoperability Future](https://dev.to/olanetsoft/celebrating-one-year-working-on-axelar-building-the-interoperability-future-42ki)
-- [Umami: Best free Go-To Google Analytics Alternative](https://dev.to/basskibo/umami-best-free-go-to-google-analytics-alternative-1gg8)
-- [How to build: an AI-powered blogging platform &lpar;Next.js, Langchain, &amp; Supabase&rpar;](https://dev.to/copilotkit/how-to-build-an-ai-powered-blogging-platform-nextjs-langchain-supabase-1hdp)
-- [Remove Duplicates Ways from an Array in Javascript](https://dev.to/fpaghar/remove-duplicates-ways-from-an-array-in-javascript-3k1d)
+- [Number Line Jumps](https://dev.to/kecbm/number-line-jumps-1ig)
 <!-- BLOG-POST-LIST:END -->
 
 ---
