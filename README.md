@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Uncover Hidden Flaws: How Gap Analysis Can Revolutionize Your Software Testing Strategy](https://dev.to/talenttinaapi/uncover-hidden-flaws-how-gap-analysis-can-revolutionize-your-software-testing-strategy-3hnf)
-- [Tic Tac Toe Terminal Game](https://dev.to/ioanpapuc/tic-tac-toe-terminal-game-4efp)
-- [My First Youtube live stream](https://dev.to/westbrookc16/my-first-youtube-live-stream-2p41)
-- [In-Flight Estimation of Instrument Spectral Response Functions Using Sparse Representations](https://dev.to/mikeyoung44/in-flight-estimation-of-instrument-spectral-response-functions-using-sparse-representations-2hce)
-- [Learning Prehensile Dexterity by Imitating and Emulating State-only Observations](https://dev.to/mikeyoung44/learning-prehensile-dexterity-by-imitating-and-emulating-state-only-observations-1kf2)
+- [Rethinking the Role of Token Retrieval in Multi-Vector Retrieval](https://dev.to/mikeyoung44/rethinking-the-role-of-token-retrieval-in-multi-vector-retrieval-1hl9)
+- [Mixture-of-Depths: Dynamically allocating compute in transformer-based language models](https://dev.to/mikeyoung44/mixture-of-depths-dynamically-allocating-compute-in-transformer-based-language-models-moe)
+- [Experimental demonstration of magnetic tunnel junction-based computational random-access memory](https://dev.to/mikeyoung44/experimental-demonstration-of-magnetic-tunnel-junction-based-computational-random-access-memory-4nbm)
+- [LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders](https://dev.to/mikeyoung44/llm2vec-large-language-models-are-secretly-powerful-text-encoders-2ehe)
+- [Does Transformer Interpretability Transfer to RNNs?](https://dev.to/mikeyoung44/does-transformer-interpretability-transfer-to-rnns-59e2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
