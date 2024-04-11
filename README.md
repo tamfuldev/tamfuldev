@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Left and Right Shift: Bitwise Operators in Python](https://dev.to/muuviana/left-and-right-shift-bitwise-operators-in-python-4j9f)
+- [Run a Linux Distro in your Android device](https://dev.to/emasuriano/run-a-linux-distro-in-your-android-device-3fnd)
+- [Growth Hacking Killed GitHub Stars](https://dev.to/opensauced/growth-hacking-killed-github-stars-40on)
 - [Don&#39;t &quot;Trust&quot; GitHub Code Just Because It&#39;s Got Lots Of Stars](https://dev.to/rossli/dont-trust-github-code-just-because-its-got-lots-of-stars-533b)
 - [What Will You Choose?](https://dev.to/stephrp12/what-will-you-choose-2be4)
-- [My history about being the only programmer in the company](https://dev.to/sazardev/my-history-about-being-the-only-programmer-in-the-company-1jbe)
-- [Top 5 Vscode Alternative Worth Consider](https://dev.to/j4acks0n/top-5-vscode-alternative-worth-consider-5gjb)
-- [Building a Dynamic Client-Side Blog with Secutio &amp; Bootstrap](https://dev.to/mrhdias/building-a-dynamic-client-side-blog-with-secutio-and-bootstrap-29nf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
