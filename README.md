@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to create a progress-bar with Tailwind CSS and Alpinejs](https://dev.to/mike_andreuzza/how-to-create-a-progress-bar-with-tailwind-css-and-alpinejs-4p9k)
-- [How to effectively use PUT and DELETE HTTP methods in Django Class-Based Views?](https://dev.to/mamadou762/how-to-effectively-use-put-and-delete-http-methods-in-django-class-based-views-ip9)
-- [How to Use AI for Code Documentation - A DocuWriter Tutorial](https://dev.to/magarrent/how-to-use-ai-for-code-documentation-a-docuwriter-tutorial-32hn)
-- [Should I use Virtual Threads in Java?](https://dev.to/diogodanielsoaresferreira/should-i-use-virtual-threads-in-java-3986)
-- [How to Use Intellicode in Visual Studio](https://dev.to/bytehide/how-to-use-intellicode-in-visual-studio-56c3)
+- [Integrating Strapi with ChatGPT and Next.js](https://dev.to/strapi/integrating-strapi-with-chatgpt-and-nextjs-cc5)
+- [Terraform vs. AWS CloudFormation](https://dev.to/spacelift/terraform-vs-aws-cloudformation-gl3)
+- [Imperative-reactive vs Functional-reactive: can you tell the difference?](https://dev.to/dariomannu/imperative-reactive-vs-functional-reactive-can-you-tell-the-difference-43cj)
+- [How to Troubleshoot Connectivity Issues with Minikube on Docker](https://dev.to/venom90/how-to-troubleshoot-connectivity-issues-with-minikube-on-docker-16m5)
+- [Bugs that buzzed a lot](https://dev.to/anogneva/bugs-that-buzzed-a-lot-o01)
 <!-- BLOG-POST-LIST:END -->
 
 ---
