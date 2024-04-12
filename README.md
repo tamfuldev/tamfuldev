@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How AutoMQ addresses the disk read side effects in Apache Kafka](https://dev.to/automq_lab/how-automq-addresses-the-disk-read-side-effects-in-apache-kafka-4926)
-- [Cryptocurrency Payments: Implementing the Optimal Payment Solution for Your Platform](https://dev.to/epakconsultant/cryptocurrency-payments-implementing-the-optimal-payment-solution-for-your-platform-249d)
-- [10 Best C++ Projects for Beginners with Source Code](https://dev.to/shameer_hassan/10-best-c-projects-for-beginners-with-source-code-5448)
-- [Creating functions in JavaScript - Part 2](https://dev.to/dindustack/creating-functions-in-javascript-part-2-21db)
-- [10 deep learning projects for final year](https://dev.to/shameer_hassan/10-deep-learning-projects-for-final-year-2fkb)
+- [The Power of console.log&lpar;&rpar; in JavaScript Debugging](https://dev.to/davidomisakin/the-power-of-consolelog-in-javascript-debugging-3409)
+- [Essential Array Methods for Front-End Developers](https://dev.to/meertanveer/essential-array-methods-for-front-end-developers-jgf)
+- [API Inspection Best Practices: Ensuring API Gateway Stability and Efficiency](https://dev.to/api7/api-inspection-best-practices-ensuring-api-gateway-stability-and-efficiency-4jpa)
+- [Choosing the Right Uptime Monitoring Solution for Your Needs](https://dev.to/upzillaco/choosing-the-right-uptime-monitoring-solution-for-your-needs-2ebe)
+- [TCS Recruitment for Batch 2024 for PAN India locations](https://dev.to/srinivasuluparanduru/tcs-recruitment-for-batch-2024-for-pan-india-locations-fa6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
