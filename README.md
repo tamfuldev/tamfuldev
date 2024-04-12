@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating Strapi with ChatGPT and Next.js](https://dev.to/strapi/integrating-strapi-with-chatgpt-and-nextjs-cc5)
-- [Terraform vs. AWS CloudFormation](https://dev.to/spacelift/terraform-vs-aws-cloudformation-gl3)
-- [Imperative-reactive vs Functional-reactive: can you tell the difference?](https://dev.to/dariomannu/imperative-reactive-vs-functional-reactive-can-you-tell-the-difference-43cj)
-- [How to Troubleshoot Connectivity Issues with Minikube on Docker](https://dev.to/venom90/how-to-troubleshoot-connectivity-issues-with-minikube-on-docker-16m5)
-- [Bugs that buzzed a lot](https://dev.to/anogneva/bugs-that-buzzed-a-lot-o01)
+- [How AutoMQ addresses the disk read side effects in Apache Kafka](https://dev.to/automq_lab/how-automq-addresses-the-disk-read-side-effects-in-apache-kafka-4926)
+- [Cryptocurrency Payments: Implementing the Optimal Payment Solution for Your Platform](https://dev.to/epakconsultant/cryptocurrency-payments-implementing-the-optimal-payment-solution-for-your-platform-249d)
+- [10 Best C++ Projects for Beginners with Source Code](https://dev.to/shameer_hassan/10-best-c-projects-for-beginners-with-source-code-5448)
+- [Creating functions in JavaScript - Part 2](https://dev.to/dindustack/creating-functions-in-javascript-part-2-21db)
+- [10 deep learning projects for final year](https://dev.to/shameer_hassan/10-deep-learning-projects-for-final-year-2fkb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
