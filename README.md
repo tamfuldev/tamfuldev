@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Cookies, Local Storage, and Session Storage: A Beginner&#39;s Guide](https://dev.to/madhusaini22/understanding-cookies-local-storage-and-session-storage-a-beginners-guide-5gkk)
-- [The ABCs of the Critical Path Method](https://dev.to/chadriebe/the-abcs-of-the-critical-path-method-2kmf)
-- [New EC2 Instance Type - Designed For AI / ML Workloads](https://dev.to/faye_ellis/new-ec2-instance-type-designed-for-ai-ml-workloads-5f8a)
-- [Automating Docker Deployment Security and Efficiency with CI/CD Pipelines using GitHub Actions](https://dev.to/aws-builders/automating-docker-deployment-security-and-efficiency-with-cicd-pipelines-using-github-actions-26i5)
-- [🚀Secure Rails Authentication: A Step-by-Step Guide to Sign Up, Log In, and Log Out](https://dev.to/dumebii/secure-rails-authentication-a-step-by-step-guide-to-sign-up-log-in-and-log-out-plk)
+- [对 RTIC 框架的探索](https://dev.to/jenswritescode/dui-rtic-kuang-jia-de-tan-suo-2ibc)
+- [What are y&#39;all&#39;s favorite 404 pages?](https://dev.to/michaeltharrington/what-are-yalls-favorite-404-pages-5fdd)
+- [How to Implement NetSuite Salesforce Migration in Retail](https://dev.to/doriansabitov/how-to-implement-netsuite-salesforce-migration-in-retail-3clj)
+- [Kompyuter nima va U Qanday ishlaydi ?](https://dev.to/ozodbeksoft2024/kompyuter-nima-va-u-qanday-ishlaydi--4e4g)
+- [Skills2Jobs - Premios a los mejores trabajos finales &lpar;grado y masters&rpar;, proyectos finales y AWS Academy Lab Projects.](https://dev.to/aws-espanol/skills2jobs-premios-a-los-mejores-trabajos-finales-grado-y-masters-proyectos-finales-y-aws-academy-lab-projects-303f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
