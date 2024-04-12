@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Power of console.log&lpar;&rpar; in JavaScript Debugging](https://dev.to/davidomisakin/the-power-of-consolelog-in-javascript-debugging-3409)
-- [Essential Array Methods for Front-End Developers](https://dev.to/meertanveer/essential-array-methods-for-front-end-developers-jgf)
-- [API Inspection Best Practices: Ensuring API Gateway Stability and Efficiency](https://dev.to/api7/api-inspection-best-practices-ensuring-api-gateway-stability-and-efficiency-4jpa)
-- [Choosing the Right Uptime Monitoring Solution for Your Needs](https://dev.to/upzillaco/choosing-the-right-uptime-monitoring-solution-for-your-needs-2ebe)
-- [TCS Recruitment for Batch 2024 for PAN India locations](https://dev.to/srinivasuluparanduru/tcs-recruitment-for-batch-2024-for-pan-india-locations-fa6)
+- [50 Types of Social Media Posts 🌎](https://dev.to/sh20raj/50-types-of-social-media-posts-gbm)
+- [Rendering&lpar; or How to Render&rpar; Animation in JSON format with LottieFiles animation in React application](https://dev.to/dejetem/rendering-or-how-to-render-animation-in-json-format-with-lottiefiles-animation-in-react-application-1ha8)
+- [Hello, World!](https://dev.to/akashsharma202/hello-world-52c9)
+- [Hello, World!](https://dev.to/akashsharma202/hello-world-58ha)
+- [Hello, World!](https://dev.to/akashsharma202/hello-world-1jb1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
