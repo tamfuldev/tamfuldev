@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [1 way to become a developer](https://dev.to/valvonvorn/1-way-to-become-a-developer-4h8a)
-- [Blue-Green Deployment on Single Machines Starting from Scratch, Using Your Dockerfiles: Examples in PHP, Java, and Node.js](https://dev.to/andrewkangg/blue-green-deployment-on-single-machines-starting-from-scratch-using-your-dockerfiles-examples-in-php-java-and-nodejs-4ab6)
-- [The &lpar;Mostly&rpar; Complete Guide to Installing Kentik NMS](https://dev.to/kentik/the-mostly-complete-guide-to-installing-kentik-nms-150j)
-- [Spring Boot 3 boilerplate for easily customizing traditional OAuth2 Password Grant](https://dev.to/andrewkangg/spring-boot-3-boilerplate-for-easily-customizing-traditional-oauth2-password-grant-50ld)
-- [Simplify Website Development with Fusion: Markdown Content Management](https://dev.to/robertobutti/simplify-website-development-with-fusion-markdown-content-management-45lf)
+- [Understanding Cookies, Local Storage, and Session Storage: A Beginner&#39;s Guide](https://dev.to/madhusaini22/understanding-cookies-local-storage-and-session-storage-a-beginners-guide-5gkk)
+- [The ABCs of the Critical Path Method](https://dev.to/chadriebe/the-abcs-of-the-critical-path-method-2kmf)
+- [New EC2 Instance Type - Designed For AI / ML Workloads](https://dev.to/faye_ellis/new-ec2-instance-type-designed-for-ai-ml-workloads-5f8a)
+- [Automating Docker Deployment Security and Efficiency with CI/CD Pipelines using GitHub Actions](https://dev.to/aws-builders/automating-docker-deployment-security-and-efficiency-with-cicd-pipelines-using-github-actions-26i5)
+- [🚀Secure Rails Authentication: A Step-by-Step Guide to Sign Up, Log In, and Log Out](https://dev.to/dumebii/secure-rails-authentication-a-step-by-step-guide-to-sign-up-log-in-and-log-out-plk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
