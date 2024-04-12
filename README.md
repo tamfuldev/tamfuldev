@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [对 RTIC 框架的探索](https://dev.to/jenswritescode/dui-rtic-kuang-jia-de-tan-suo-2ibc)
-- [What are y&#39;all&#39;s favorite 404 pages?](https://dev.to/michaeltharrington/what-are-yalls-favorite-404-pages-5fdd)
-- [How to Implement NetSuite Salesforce Migration in Retail](https://dev.to/doriansabitov/how-to-implement-netsuite-salesforce-migration-in-retail-3clj)
-- [Kompyuter nima va U Qanday ishlaydi ?](https://dev.to/ozodbeksoft2024/kompyuter-nima-va-u-qanday-ishlaydi--4e4g)
-- [Skills2Jobs - Premios a los mejores trabajos finales &lpar;grado y masters&rpar;, proyectos finales y AWS Academy Lab Projects.](https://dev.to/aws-espanol/skills2jobs-premios-a-los-mejores-trabajos-finales-grado-y-masters-proyectos-finales-y-aws-academy-lab-projects-303f)
+- [The Optimal Choice of Hypothesis Is the Weakest, Not the Shortest](https://dev.to/mikeyoung44/the-optimal-choice-of-hypothesis-is-the-weakest-not-the-shortest-2821)
+- [From Words to Numbers: Your Large Language Model Is Secretly A Capable Regressor When Given In-Context Examples](https://dev.to/mikeyoung44/from-words-to-numbers-your-large-language-model-is-secretly-a-capable-regressor-when-given-in-context-examples-526a)
+- [From Model-centered to Human-Centered: Revision Distance as a Metric for Text Evaluation in LLMs-based Applications](https://dev.to/mikeyoung44/from-model-centered-to-human-centered-revision-distance-as-a-metric-for-text-evaluation-in-llms-based-applications-1hoa)
+- [The Topos of Transformer Networks](https://dev.to/mikeyoung44/the-topos-of-transformer-networks-kid)
+- [Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning](https://dev.to/mikeyoung44/learning-agile-soccer-skills-for-a-bipedal-robot-with-deep-reinforcement-learning-4keg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
