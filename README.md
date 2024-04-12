@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Recipe Generator](https://dev.to/rebeccapeltz/recipe-generator-25c5)
+- [How I Easily Used My Custom Color in My SwiftUI Project](https://dev.to/simplykyra/how-i-easily-used-my-custom-color-in-my-swiftui-project-3k6c)
+- [Building a Voice and Eye-Controlled To-Do App - Part 3](https://dev.to/gerpea/building-a-voice-and-eye-controlled-to-do-app-part-3-14e7)
+- [Controlling Access to Files with ACLs](https://dev.to/saputri/controlling-access-to-files-with-acls-5e7n)
 - [Gemini-1.5-pro Function Calling with Java, Spring and HTTP](https://dev.to/vishalmysore/gemini-15-pro-function-calling-with-java-2k19)
-- [Tutorial Cara Instal Composer di Linux](https://dev.to/risekucom/tutorial-cara-instal-composer-di-linux-20ei)
-- [Debugging Node.js apps with Chrome DevTools debugger](https://dev.to/zsevic/debugging-nodejs-apps-with-chrome-devtools-debugger-50lf)
-- [Boost Threat Detection with Amazon GuardDuty &amp; Inspector](https://dev.to/8carroll/boost-threat-detection-with-amazon-guardduty-inspector-1oi9)
-- [Construindo um web server em Assembly x86, parte II, história e arquitetura](https://dev.to/leandronsp/construindo-um-web-server-em-assembly-x86-parte-ii-historia-e-arquitetura-2jb9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
