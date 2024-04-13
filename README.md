@@ -16,7 +16,7 @@
 # Latest stack oveflow activity
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><tr><td>Laravel Route Model Binding with custom key</td><td>https://stackoverflow.com/questions/78321824/laravel-route-model-binding-with-custom-key</td></tr><tr><td>Parsing a funky JSON response by JavaScript</td><td>https://stackoverflow.com/questions/78321761/parsing-a-funky-json-response-by-javascript</td></tr><tr><td>PHP and Stripe Integration on LocalHost MAMP Issue</td><td>https://stackoverflow.com/questions/78321759/php-and-stripe-integration-on-localhost-mamp-issue</td></tr><tr><td>Docker PHP-FPM port conflict</td><td>https://stackoverflow.com/questions/78321657/docker-php-fpm-port-conflict</td></tr><tr><td>How adding a trait to a model from a package</td><td>https://stackoverflow.com/questions/78321444/how-adding-a-trait-to-a-model-from-a-package</td></tr><!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:START --><tr><td>Laravel Route Model Binding with custom key</td><td>https://stackoverflow.com/questions/78321824/laravel-route-model-binding-with-custom-key</td></tr><tr><td>Parsing a funky JSON response by JavaScript [closed]</td><td>https://stackoverflow.com/questions/78321761/parsing-a-funky-json-response-by-javascript</td></tr><tr><td>PHP and Stripe Integration on LocalHost MAMP Issue</td><td>https://stackoverflow.com/questions/78321759/php-and-stripe-integration-on-localhost-mamp-issue</td></tr><tr><td>Docker PHP-FPM port conflict</td><td>https://stackoverflow.com/questions/78321657/docker-php-fpm-port-conflict</td></tr><tr><td>How adding a trait to a model from a package</td><td>https://stackoverflow.com/questions/78321444/how-adding-a-trait-to-a-model-from-a-package</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 
 ---
