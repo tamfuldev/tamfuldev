@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [wsl arch setup for oh my posh](https://dev.to/karleeov/wsl-arch-setup-for-oh-my-posh-51pa)
-- [Deploy with vercel](https://dev.to/karleeov/deploy-with-vercel-4o25)
-- [skillo.me - Trade Skills!](https://dev.to/ahmetilhan24/skillome-trade-skills-582a)
-- [Optimize feed in ChatCraft](https://dev.to/wanggithub0/optimize-feed-in-chatcraft-56bo)
-- [Diary - Building my own social midia - Picking the tech stack - 3/X](https://dev.to/nickthecapy/diary-building-my-own-social-midia-picking-the-tech-stack-3x-5di5)
+- [UI Memory Recognition and Recall Strategies for Enhanced User Experience](https://dev.to/sachinabs/ui-memory-recognition-and-recall-strategies-for-enhanced-user-experience-5be4)
+- [AI-Driven Crypto Trading Methods](https://dev.to/epakconsultant/ai-driven-crypto-trading-methods-16i3)
+- [Better Threat Detection with CloudWatch Logs and Generative AI](https://dev.to/8carroll/better-threat-detection-with-cloudwatch-logs-and-generative-ai-2e7e)
+- [Stripes Integration for Cryptocurrency Payment](https://dev.to/epakconsultant/stripes-integration-for-cryptocurrency-payment-5gc2)
+- [Design and Implementation of Smart Contracts](https://dev.to/epakconsultant/design-and-implementation-of-smart-contracts-3j7c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
