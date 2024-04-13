@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Java&#39;s own EJB and Spring framework](https://dev.to/abuhasib/javas-own-ejb-and-spring-framework-2gn9)
+- [AI enthusiasm #4 - Your stable diffusion chatbot🐠](https://dev.to/astrabert/ai-enthusiasm-4-your-stable-diffusion-chatbot-93p)
+- [sum&lpar;&rpar; and prod&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/sum-and-prod-in-pytorch-4bl3)
+- [MongoDB Shell Commands - A Comprehensive Guide](https://dev.to/dhananjayharidas/mongodb-shell-commands-a-comprehensive-guide-35cl)
 - [MongoDB Installation Guide for Windows Subsystem for Linux &lpar;WSL&rpar;](https://dev.to/dhananjayharidas/mongodb-installation-guide-for-windows-subsystem-for-linux-wsl-21kj)
-- [Understanding Cache vs Cookie vs Session in 100 seconds.](https://dev.to/jamescroissant/understanding-cache-vs-cookie-vs-session-in-100-seconds-4hj8)
-- [Building a Dynamic Learning Experience with Django LMS](https://dev.to/collins_lincoln/building-a-dynamic-learning-experience-with-django-lms-25e3)
-- [Deploying AWS Solution for a company&#39;s Websites](https://dev.to/jtoguntoye/deploying-aws-solution-for-a-companys-websites-20ol)
-- [How to divide two numbers in JavaScript with out using the &quot;/&quot; operator?](https://dev.to/ticha/how-to-divide-two-numbers-in-javascript-with-out-using-the-operator-2e8i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
