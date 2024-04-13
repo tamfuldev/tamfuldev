@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Here are the 10 projects I am contributing to over the next 6 months. Share yours](https://dev.to/schalkneethling/here-are-the-10-projects-i-am-contributing-to-over-the-next-6-months-share-yours-4h0l)
-- [100 Days of Code](https://dev.to/painprogramming/100-days-of-code-4hhp)
-- [Project Reactor: About Scannable interface](https://dev.to/saladlam/project-reactor-about-scannable-interface-1l32)
-- [CSS Eclipse](https://dev.to/jarvisscript/css-eclipse-22p7)
-- [What is ListNode in JS?](https://dev.to/nadim_ch0wdhury/what-is-listnode-in-js-4845)
+- [Learning AWS Day by Day — Day 36 — AWS Services — At a Glance — Part 1](https://dev.to/rksalo88/learning-aws-day-by-day-day-36-aws-services-at-a-glance-part-1-2ldb)
+- [Day 13/366](https://dev.to/vishalmx3/day-13366-1oko)
+- [Gamedev.js Jam 2024 start and theme announcement!](https://dev.to/end3r/gamedevjs-jam-2024-start-and-theme-announcement-3nke)
+- [Docker](https://dev.to/jaybamaniya66/docker-3ndp)
+- [Running VLC in the Browser](https://dev.to/krowemoh/running-vlc-in-the-browser-2f2f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
