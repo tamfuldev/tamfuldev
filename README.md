@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How to Make Money from Unused Internet](https://dev.to/ssukhpinder/how-to-make-money-from-unused-internet-37m0)
+- [Grouping the Same Products in Java](https://dev.to/yangbongsoo/grouping-the-same-products-in-java-36ll)
+- [How to Adjust Shopify Store Product Image Resolution](https://dev.to/huangcong12/how-to-adjust-shopify-store-product-image-resolution-474h)
+- [TypeScript Tip #1: forEach vs for loop](https://dev.to/tusharshahi/typescript-tip-1-foreach-vs-for-loop-56og)
 - [Getting started with Azure OpenAI](https://dev.to/juanstoppa/getting-started-with-azure-openai-2ppd)
-- [Styling Slaughter: CSS Techniques in React JS](https://dev.to/kigazon/styling-slaughter-css-techniques-in-react-js-59pe)
-- [Generate my Pet](https://dev.to/habibahmad/generate-my-pet-3hnf)
-- [Bundle frontend into axum binary using include_dir](https://dev.to/konstantin/bundle-frontend-with-axum-build-using-includedir-g8i)
-- [The laptop&#39;s External Keyboard Doesn&#39;t have a Fn Key in Linux. Use these alternatives](https://dev.to/labasubagia/the-laptops-external-keyboard-doesnt-have-a-fn-key-in-linux-use-these-alternatives-2a0a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
