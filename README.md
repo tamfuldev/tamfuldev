@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Java&#39;s own EJB and Spring framework](https://dev.to/abuhasib/javas-own-ejb-and-spring-framework-2gn9)
-- [AI enthusiasm #4 - Your stable diffusion chatbot🐠](https://dev.to/astrabert/ai-enthusiasm-4-your-stable-diffusion-chatbot-93p)
-- [sum&lpar;&rpar; and prod&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/sum-and-prod-in-pytorch-4bl3)
-- [MongoDB Shell Commands - A Comprehensive Guide](https://dev.to/dhananjayharidas/mongodb-shell-commands-a-comprehensive-guide-35cl)
-- [MongoDB Installation Guide for Windows Subsystem for Linux &lpar;WSL&rpar;](https://dev.to/dhananjayharidas/mongodb-installation-guide-for-windows-subsystem-for-linux-wsl-21kj)
+- [min&lpar;&rpar;, max&lpar;&rpar;, aminmax&lpar;&rpar;, amin&lpar;&rpar;, amax&lpar;&rpar;, argmin&lpar;&rpar; and argmax&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/min-max-aminmax-amin-amax-argmin-and-argmax-in-pytorch-ahk)
+- [MATT AI](https://dev.to/demosjarco/matt-ai-99f)
+- [ChatCraft 2.0 is almost Here!](https://dev.to/amnish04/chatcraft-20-is-almost-here-3b8a)
+- [Introducing WP Setup](https://dev.to/lucascarvalhopl/introducing-wp-setup-11fb)
+- [Factors for burnout as a software developer - part 1](https://dev.to/ehrbhein/factors-for-burnout-as-a-software-developer-part-1-1l43)
 <!-- BLOG-POST-LIST:END -->
 
 ---
