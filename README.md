@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [min&lpar;&rpar;, max&lpar;&rpar;, aminmax&lpar;&rpar;, amin&lpar;&rpar;, amax&lpar;&rpar;, argmin&lpar;&rpar; and argmax&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/min-max-aminmax-amin-amax-argmin-and-argmax-in-pytorch-ahk)
-- [MATT AI](https://dev.to/demosjarco/matt-ai-99f)
-- [ChatCraft 2.0 is almost Here!](https://dev.to/amnish04/chatcraft-20-is-almost-here-3b8a)
-- [Introducing WP Setup](https://dev.to/lucascarvalhopl/introducing-wp-setup-11fb)
-- [Factors for burnout as a software developer - part 1](https://dev.to/ehrbhein/factors-for-burnout-as-a-software-developer-part-1-1l43)
+- [Getting started with Azure OpenAI](https://dev.to/juanstoppa/getting-started-with-azure-openai-2ppd)
+- [Styling Slaughter: CSS Techniques in React JS](https://dev.to/kigazon/styling-slaughter-css-techniques-in-react-js-59pe)
+- [Generate my Pet](https://dev.to/habibahmad/generate-my-pet-3hnf)
+- [Bundle frontend into axum binary using include_dir](https://dev.to/konstantin/bundle-frontend-with-axum-build-using-includedir-g8i)
+- [The laptop&#39;s External Keyboard Doesn&#39;t have a Fn Key in Linux. Use these alternatives](https://dev.to/labasubagia/the-laptops-external-keyboard-doesnt-have-a-fn-key-in-linux-use-these-alternatives-2a0a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
