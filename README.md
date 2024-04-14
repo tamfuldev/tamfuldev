@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Global Variables in Unity Using Scriptable Objects](https://dev.to/bearevans/global-variables-in-unity-using-scriptable-objects-26kl)
+- [Cognita : A Truly Unified RAG Framework : Part 1](https://dev.to/exploredataaiml/cognita-a-truly-unified-rag-framework-part-1-24ne)
 - [How to Make Money from Unused Internet](https://dev.to/ssukhpinder/how-to-make-money-from-unused-internet-37m0)
 - [Grouping the Same Products in Java](https://dev.to/yangbongsoo/grouping-the-same-products-in-java-36ll)
 - [How to Adjust Shopify Store Product Image Resolution](https://dev.to/huangcong12/how-to-adjust-shopify-store-product-image-resolution-474h)
-- [TypeScript Tip #1: forEach vs for loop](https://dev.to/tusharshahi/typescript-tip-1-foreach-vs-for-loop-56og)
-- [Getting started with Azure OpenAI](https://dev.to/juanstoppa/getting-started-with-azure-openai-2ppd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
