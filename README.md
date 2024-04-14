@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Global Variables in Unity Using Scriptable Objects](https://dev.to/bearevans/global-variables-in-unity-using-scriptable-objects-26kl)
-- [Cognita : A Truly Unified RAG Framework : Part 1](https://dev.to/exploredataaiml/cognita-a-truly-unified-rag-framework-part-1-24ne)
-- [How to Make Money from Unused Internet](https://dev.to/ssukhpinder/how-to-make-money-from-unused-internet-37m0)
-- [Grouping the Same Products in Java](https://dev.to/yangbongsoo/grouping-the-same-products-in-java-36ll)
-- [How to Adjust Shopify Store Product Image Resolution](https://dev.to/huangcong12/how-to-adjust-shopify-store-product-image-resolution-474h)
+- [Principles of Code - Five Key Points to Better Systems](https://dev.to/dev3l/principles-of-code-five-key-points-to-better-systems-29jb)
+- [CSS Text Handling: text-overflow, overflow-wrap, and More!](https://dev.to/sh20raj/css-text-handling-text-overflow-overflow-wrap-and-more-3k8d)
+- [CodeLlama: The Next-Gen Coding Assistant](https://dev.to/rutamstwt/codellama-the-next-gen-coding-assistant-2eh)
+- [Remember to use break in switch](https://dev.to/ivanyu2021/remember-to-use-break-in-switch-1p2i)
+- [LeetCode](https://dev.to/allyn/leetcode-1i2h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
