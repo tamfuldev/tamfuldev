@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday](https://dev.to/ben/meme-monday-22jl)
-- [SQL Injection Isn&#39;t Dead Yet](https://dev.to/owasp/sql-injection-isnt-dead-yet-48ic)
-- [The Future of Subscription-Based Membership Models](https://dev.to/skyla/the-future-of-subscription-based-membership-models-34hn)
-- [Thoughts about AI on UI design](https://dev.to/mingming-ma/thoughts-about-ai-on-ui-design-6c4)
-- [Design: Mônadas](https://dev.to/wsantosdev/design-monadas-3ndb)
+- [Measuring and Enhancing DevSecOps Posture: Key Metrics](https://dev.to/sophie_wilson0412/measuring-and-enhancing-devsecops-posture-key-metrics-160l)
+- [To craftmanship ...](https://dev.to/quirky-goof/to-craftmanship--186o)
+- [Custom Resource Definitions &lpar;CRDs&rpar; with Flux CD](https://dev.to/platform_engineers/custom-resource-definitions-crds-with-flux-cd-2274)
+- [Intro to Flask](https://dev.to/yirs1016/intro-to-flask-4idh)
+- [How to Learn Machine Learning in 2024](https://dev.to/askyt/how-to-learn-machine-learning-in-2024-27ng)
 <!-- BLOG-POST-LIST:END -->
 
 ---
