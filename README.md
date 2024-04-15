@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating the Accounting Software Landscape: A Comprehensive Guide](https://dev.to/jasskarley/navigating-the-accounting-software-landscape-a-comprehensive-guide-3hpp)
-- [What LLMs Can and Cannot Do in Small Game Creation](https://dev.to/abagames/what-llms-can-and-cannot-do-in-small-game-creation-4bnj)
-- [Steps To Build An E-Commerce Jewelry Store](https://dev.to/julianevan/steps-to-build-an-e-commerce-jewelry-store-2k8h)
-- [11 Essential KPIs for Software Development](https://dev.to/remotebase/11-essential-kpis-for-software-development-kph)
-- [Choosing the Right API Gateway: Pricing Models for Amazon API Gateway, Apigee, Kong, and Apache APISIX](https://dev.to/api7/choosing-the-right-api-gateway-pricing-models-for-amazon-api-gateway-apigee-kong-and-apache-apisix-5bd9)
+- [Unveiling the Monitoring Landscape: OpenTelemetry Logging, APM vs. Observability, and Telemetry for Enhanced Visibility](https://dev.to/stackify/unveiling-the-monitoring-landscape-opentelemetry-logging-apm-vs-observability-and-telemetry-for-enhanced-visibility-33e1)
+- [LeetCode Meditations — Chapter 7: Trees](https://dev.to/rivea0/leetcode-meditations-chapter-7-trees-4bpi)
+- [Getting Started with React.js: Setting Up Your Development Environment](https://dev.to/davidomisakin/getting-started-with-reactjs-setting-up-your-development-environment-1jon)
+- [Weekly Roundup 048 &lpar;Apr 08&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-048-apr-08-hot-topics-in-workplace-sharepoint-and-powerplatform-4g8k)
+- [The Compounded Interest of Good Software: An example of Carousel Components](https://dev.to/slobodan4nista/the-compounded-interest-of-good-software-an-example-of-carousel-components-1cm6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
