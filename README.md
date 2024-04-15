@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling the Monitoring Landscape: OpenTelemetry Logging, APM vs. Observability, and Telemetry for Enhanced Visibility](https://dev.to/stackify/unveiling-the-monitoring-landscape-opentelemetry-logging-apm-vs-observability-and-telemetry-for-enhanced-visibility-33e1)
-- [LeetCode Meditations — Chapter 7: Trees](https://dev.to/rivea0/leetcode-meditations-chapter-7-trees-4bpi)
-- [Getting Started with React.js: Setting Up Your Development Environment](https://dev.to/davidomisakin/getting-started-with-reactjs-setting-up-your-development-environment-1jon)
-- [Weekly Roundup 048 &lpar;Apr 08&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-048-apr-08-hot-topics-in-workplace-sharepoint-and-powerplatform-4g8k)
-- [The Compounded Interest of Good Software: An example of Carousel Components](https://dev.to/slobodan4nista/the-compounded-interest-of-good-software-an-example-of-carousel-components-1cm6)
+- [FastAPI Part 3: Pydantic Data Models](https://dev.to/jamesbmour/part-3-pydantic-data-models-4gnb)
+- [Making a &lpar;Sidekiq&rpar; Batch Recipe](https://dev.to/kevin_j_m/making-a-sidekiq-batch-recipe-n29)
+- [What is RDBMS?](https://dev.to/annoh_karlgusta/what-is-rdbms-3c2h)
+- [Exploring the Top AI Blogs of 2024: Illuminating Insights into Artificial Intelligence](https://dev.to/jahan/exploring-the-top-ai-blogs-of-2024-illuminating-insights-into-artificial-intelligence-1bl8)
+- [EHS Safety](https://dev.to/recohehs/ehs-safety-1ni1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
