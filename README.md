@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [FastAPI Part 3: Pydantic Data Models](https://dev.to/jamesbmour/part-3-pydantic-data-models-4gnb)
-- [Making a &lpar;Sidekiq&rpar; Batch Recipe](https://dev.to/kevin_j_m/making-a-sidekiq-batch-recipe-n29)
-- [What is RDBMS?](https://dev.to/annoh_karlgusta/what-is-rdbms-3c2h)
-- [Exploring the Top AI Blogs of 2024: Illuminating Insights into Artificial Intelligence](https://dev.to/jahan/exploring-the-top-ai-blogs-of-2024-illuminating-insights-into-artificial-intelligence-1bl8)
-- [EHS Safety](https://dev.to/recohehs/ehs-safety-1ni1)
+- [Meme Monday](https://dev.to/ben/meme-monday-22jl)
+- [SQL Injection Isn&#39;t Dead Yet](https://dev.to/owasp/sql-injection-isnt-dead-yet-48ic)
+- [The Future of Subscription-Based Membership Models](https://dev.to/skyla/the-future-of-subscription-based-membership-models-34hn)
+- [Thoughts about AI on UI design](https://dev.to/mingming-ma/thoughts-about-ai-on-ui-design-6c4)
+- [Design: Mônadas](https://dev.to/wsantosdev/design-monadas-3ndb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
