@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Creating an Interactive Time-Tracking Report with React and TypeScript](https://dev.to/rodionchachura/creating-an-interactive-time-tracking-report-with-react-and-typescript-2ke1)
-- [TherapistAI: AI-powered mental health support](https://dev.to/erickluis/therapistai-ai-powered-mental-health-support-lg2)
-- [Managing File System Permissions from the Command Line](https://dev.to/zahroo/managing-file-system-permissions-from-the-command-line-g52)
-- [Gaining Superuser Access](https://dev.to/zahroo/gaining-superuser-access-12lk)
-- [gt&lpar;&rpar;, lt&lpar;&rpar;, ge&lpar;&rpar; and le&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/gt-lt-ge-and-le-in-pytorch-idd)
+- [CFassist - Visual smart assistant for visually impaired](https://dev.to/captain0jay/cfassist-visual-smart-assistant-for-visually-impaired-1fm4)
+- [My project](https://dev.to/alibiaphanuel/my-project-3m9d)
+- [4章３](https://dev.to/aaattt/4zhang-3-22an)
+- [Simplify Your System Design Process with Lyzr Automata,OpenAI and Streamlit](https://dev.to/harshitlyzr/simplify-your-system-design-process-with-lyzr-automataopenai-and-streamlit-l5g)
+- [My flip gallery journey](https://dev.to/simoneveitch/my-flip-gallery-journey-282i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
