@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CFassist - Visual smart assistant for visually impaired](https://dev.to/captain0jay/cfassist-visual-smart-assistant-for-visually-impaired-1fm4)
-- [My project](https://dev.to/alibiaphanuel/my-project-3m9d)
-- [4章３](https://dev.to/aaattt/4zhang-3-22an)
-- [Simplify Your System Design Process with Lyzr Automata,OpenAI and Streamlit](https://dev.to/harshitlyzr/simplify-your-system-design-process-with-lyzr-automataopenai-and-streamlit-l5g)
-- [My flip gallery journey](https://dev.to/simoneveitch/my-flip-gallery-journey-282i)
+- [Understanding SQL Subqueries: A Brief Overview](https://dev.to/dbvismarketing/understanding-sql-subqueries-a-brief-overview-290j)
+- [How Do You Define &quot;Meaningful Work?&quot;](https://dev.to/devteam/how-do-you-define-meaningful-work-36ha)
+- [Secure the software supply chain with AWS Signer for signing and validating OCI artifacts](https://dev.to/aws-builders/secure-the-software-supply-chain-with-aws-signer-for-signing-and-validating-oci-artifacts-58l9)
+- [Leveraging Dependency Injection for Clean and SOLID Code in Node.js](https://dev.to/arvindkhadri/leveraging-dependency-injection-for-clean-and-solid-code-in-nodejs-40d4)
+- [DEPLOYING A LINUX VIRTUAL MACHINE IN AZURE](https://dev.to/temiloluwa_adediji/deploying-a-linux-virtual-machine-in-azure-1gl9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
