@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The best SWEs need SCA](https://dev.to/apchapcomputing/the-best-swes-need-sca-87k)
-- [5章7](https://dev.to/aaattt/5zhang-7-1ah4)
-- [５章６](https://dev.to/aaattt/5zhang-6-de7)
-- [Why are foreign keys and primary keys used in databases?](https://dev.to/dgihost/why-are-foreign-keys-and-primary-keys-used-in-databases-30j6)
-- [５章５](https://dev.to/aaattt/5zhang-5-4e)
+- [RAG Redefined : Ready-to-Deploy RAG for Organizations at Scale.](https://dev.to/exploredataaiml/rag-redefined-ready-to-deploy-rag-for-organizations-at-scale-3lep)
+- [FactoryBot: the secret weapon called @overrides](https://dev.to/povilasjurcys/factorybot-the-secret-weapon-called-overrides-n31)
+- [Code Smell 247 - Javascript Replace](https://dev.to/mcsee/code-smell-247-javascript-replace-ee1)
+- [tile&lpar;&rpar; and repeat_interleave&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/tile-and-repeatinterleave-in-pytorch-3pgn)
+- [５章８](https://dev.to/aaattt/5zhang-8-24mj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
