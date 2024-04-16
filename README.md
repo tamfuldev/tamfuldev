@@ -16,7 +16,7 @@
 # Latest stack oveflow activity
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><tr><td>Second input not working with post method php</td><td>https://stackoverflow.com/questions/78333678/second-input-not-working-with-post-method-php</td></tr><tr><td>how to solve this laravel error connection with mailtrap?</td><td>https://stackoverflow.com/questions/78333653/how-to-solve-this-laravel-error-connection-with-mailtrap</td></tr><tr><td>Who is the best web development company In Tripunithura? [closed]</td><td>https://stackoverflow.com/questions/78333641/who-is-the-best-web-development-company-in-tripunithura</td></tr><tr><td>Data Quality Rules in Redcap</td><td>https://stackoverflow.com/questions/78333619/data-quality-rules-in-redcap</td></tr><tr><td>Can&#39;t use Laravel</td><td>https://stackoverflow.com/questions/78333618/cant-use-laravel</td></tr><!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:START --><tr><td>PDF lib remove page from pdf file</td><td>https://stackoverflow.com/questions/78333815/pdf-lib-remove-page-from-pdf-file</td></tr><tr><td>Second input not working with post method php [closed]</td><td>https://stackoverflow.com/questions/78333678/second-input-not-working-with-post-method-php</td></tr><tr><td>how to solve this laravel error connection with mailtrap?</td><td>https://stackoverflow.com/questions/78333653/how-to-solve-this-laravel-error-connection-with-mailtrap</td></tr><tr><td>Can&#39;t use Laravel [closed]</td><td>https://stackoverflow.com/questions/78333618/cant-use-laravel</td></tr><tr><td>PHP cURL parsing of site adidas.de returns 403 error</td><td>https://stackoverflow.com/questions/78333534/php-curl-parsing-of-site-adidas-de-returns-403-error</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 
 ---
