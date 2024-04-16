@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [RAG Redefined : Ready-to-Deploy RAG for Organizations at Scale.](https://dev.to/exploredataaiml/rag-redefined-ready-to-deploy-rag-for-organizations-at-scale-3lep)
-- [FactoryBot: the secret weapon called @overrides](https://dev.to/povilasjurcys/factorybot-the-secret-weapon-called-overrides-n31)
-- [Code Smell 247 - Javascript Replace](https://dev.to/mcsee/code-smell-247-javascript-replace-ee1)
-- [tile&lpar;&rpar; and repeat_interleave&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/tile-and-repeatinterleave-in-pytorch-3pgn)
-- [５章８](https://dev.to/aaattt/5zhang-8-24mj)
+- [How to Test Logging with FakeLogger](https://dev.to/canro91/how-to-test-logging-with-fakelogger-4dgc)
+- [Concurrent Dictionary: Your Go-To Guide](https://dev.to/yogini16/concurrent-dictionary-your-go-to-guide-20n3)
+- [Unveiling Pine Script: The Language of TradingView](https://dev.to/epakconsultant/unveiling-pine-script-the-language-of-tradingview-4adh)
+- [YAML vs. JSON: Decoding the Differences in Data Structure](https://dev.to/epakconsultant/yaml-vs-json-decoding-the-differences-in-data-structure-3ej8)
+- [Phrase CLI Debug locale_mapping Error](https://dev.to/ahandsel/phrase-cli-debug-localemapping-error-4ipd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
