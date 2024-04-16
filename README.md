@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Featured Mod of the Month: Phil Ashby](https://dev.to/devteam/featured-mod-of-the-month-phil-ashby-25oc)
-- [How I use Ansible to automate routine tasks by running an Adhoc script](https://dev.to/aws-builders/how-i-use-ansible-to-automate-routine-tasks-by-running-an-adhoc-script-4174)
-- [Coding Playlist: Albums for Every Mood](https://dev.to/julles/coding-playlist-albums-for-every-mood-4052)
-- [Workshop: Effective Evaluation of Automation Tools [Spartans Summit 2024]](https://dev.to/lambdatest/workshop-effective-evaluation-of-automation-tools-spartans-summit-2024-115p)
-- [Next js Testing](https://dev.to/syedmuhammadaliraza/next-js-testing-4iog)
+- [The Dark Modal: Crafting Reusable React Modals](https://dev.to/kigazon/the-dark-modal-crafting-reusable-react-modals-1h8i)
+- [AI Inference now available in Supabase Edge Functions](https://dev.to/supabase/ai-inference-now-available-in-supabase-edge-functions-3ae1)
+- [Applying graph theory for inferring your BigQuery SQL transformations: an experimental DataOps tool](https://dev.to/stack-labs/applying-graph-theory-for-inferring-your-bigquery-sql-transformations-an-experimental-dataops-tool-463n)
+- [Measuring Developer Experience and Improving it through Platform Engineering &lpar;feat. Ajay Chankramath&rpar;](https://dev.to/vpalania/measuring-developer-experience-and-improving-it-through-platform-engineering-feat-ajay-chankramath-1h8k)
+- [Plugin for Cloudflare AI API](https://dev.to/luisfun/plugin-for-cloudflare-ai-api-4e5f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
