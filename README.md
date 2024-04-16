@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Get started with Drizzle ORM and Xata&#39;s Postgres service](https://dev.to/xata/get-started-with-drizzle-orm-and-xatas-postgres-service-43mi)
-- [Why mastering programming requires failing](https://dev.to/huntereducative/why-mastering-programming-requires-failing-37oe)
-- [Why mastering programming requires failing](https://dev.to/educative/why-mastering-programming-requires-failing-4c4g)
-- [Overcoming Fintech Challenges – How?](https://dev.to/abhayit2000/overcoming-fintech-challenges-how-1872)
-- [[623. Add One Row to Tree]&lpar;https://leetcode.com/problems/add-one-row-to-tree/&rpar;](https://dev.to/mshashikanth1/623-add-one-row-to-treehttpsleetcodecomproblemsadd-one-row-to-tree-27og)
+- [Top 5 Resources to Learn JavaScript Online](https://dev.to/skillreactor/top-5-resources-to-learn-javascript-online-3emf)
+- [Why use Open Source Feature Flags?](https://dev.to/pradumnasaraf/why-use-open-source-feature-flags-57me)
+- [How to Add Google Maps to Your Web App Using React](https://dev.to/aneeqakhan/how-to-add-google-maps-to-your-web-app-using-react-3c3e)
+- [Quantum Computing: Definition, How It Works and Example](https://dev.to/shaiquehossain/quantum-computing-definition-how-it-works-and-example-2359)
+- [Users table wiped out after testing.](https://dev.to/kowston/users-table-wiped-out-after-testing-5e14)
 <!-- BLOG-POST-LIST:END -->
 
 ---
