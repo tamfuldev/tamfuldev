@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Putting a video on a ESP32 powered SSD1306 OLED screen](https://dev.to/afcm/putting-a-video-on-a-esp32-powered-ssd1306-oled-screen-30ka)
-- [Deploy NextJS App on Firebase 🔥](https://dev.to/sh20raj/deploy-nextjs-app-on-firebase-dic)
-- [30+ app ideas with complete source code](https://dev.to/copilotkit/30-app-ideas-with-complete-source-code-5f76)
-- [Exploring Synchronous and Asynchronous Programming](https://dev.to/_hm/exploring-synchronous-and-asynchronous-programming-lo2)
-- [The Top 7 Modpacks to Install on Your Minecraft Server](https://dev.to/aaronsmithcs/the-top-7-modpacks-to-install-on-your-minecraft-server-4b8l)
+- [TASK 14](https://dev.to/hameed1206/task-14-4j4k)
+- [MongoDB Associate Data Modeler Exam](https://dev.to/aws-heroes/mongodb-associate-data-modeler-exam-46df)
+- [AutoCodeRover: Autonomous Program Improvement](https://dev.to/mikeyoung44/autocoderover-autonomous-program-improvement-3857)
+- [The Illusion of State in State-Space Models](https://dev.to/mikeyoung44/the-illusion-of-state-in-state-space-models-2gnj)
+- [Zero-shot Building Age Classification from Facade Image Using GPT-4](https://dev.to/mikeyoung44/zero-shot-building-age-classification-from-facade-image-using-gpt-4-29bh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
