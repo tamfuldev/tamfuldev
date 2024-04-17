@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Converting BlogCFC blog to Eleventy](https://dev.to/akbarsait/converting-blogcfc-blog-to-eleventy-26cj)
-- [Sequelize의 include 안에서 order 적용하기](https://dev.to/__aa3e4bc832ba7032bfa3/sequelizeyi-include-aneseo-order-jeogyonghagi-5113)
-- [&quot;Just Start!&quot; - A double-edged sword.](https://dev.to/thejoernal/just-start-a-double-edged-sword-3285)
-- [Add basic animations to your site using Animate.css and wow.js](https://dev.to/thejoernal/add-basic-animations-to-your-site-using-animatecss-and-wowjs-5hni)
-- [LLM Security: Using Automated Tools for Vulnerability Scans](https://dev.to/rutamstwt/llm-security-using-automated-tools-for-vulnerability-scans-4hoa)
+- [What is a recruiter and why should you care?](https://dev.to/marcconci/what-is-a-recruiter-and-why-should-you-care-592p)
+- [Cách đưa biến môi trường thành một phần của một commandline ở PowerShell](https://dev.to/bachhuynh/cach-dua-bien-moi-truong-thanh-mot-phan-cua-mot-commandline-o-powershell-598n)
+- [All About Custom Hooks: Supercharge Your React Components](https://dev.to/madhusaini22/all-about-custom-hooks-supercharge-your-react-components-413g)
+- [Java Concepts](https://dev.to/utkarsha114/java-concepts-4gjo)
+- [What is the importance of learning linear algebra for data science?](https://dev.to/marcconci/what-is-the-importance-of-learning-linear-algebra-for-data-science-3ec9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
