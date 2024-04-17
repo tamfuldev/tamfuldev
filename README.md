@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Sustainability Impacts of ChatGPT: A Comprehensive Analysis](https://dev.to/thebadcoder96/the-sustainability-impacts-of-chatgpt-a-comprehensive-analysis-2ll8)
-- [Show your personality](https://dev.to/aws-heroes/show-your-personality-7f2)
-- [Computação não depende da existencia de computadores [PT-BR]](https://dev.to/andredarcie/computacao-nao-depende-da-existencia-de-computadores-pt-br-1i9c)
-- [Tic-Tac-Toe JavaScript game for beginners](https://dev.to/marcconci/tic-tac-toe-javascript-game-for-beginners-1ei3)
-- [Python antivirus or security operation solution and potentially machine learning.](https://dev.to/olatunjiayodel9/python-antivirus-or-security-operation-solution-and-potentially-machine-learning-kpg)
+- [Resolving npm EACCES Errors: Fixing Permissions to Install Global Packages](https://dev.to/sh20raj/resolving-npm-eacces-errors-fixing-permissions-to-install-global-packages-8lk)
+- [Boom 💥, Supabase Marks Its GA Milestone](https://dev.to/mitchiemt11/boom-supabase-marks-its-ga-milestone-4ego)
+- [You Probably Lose a Part of Your Potential Audience for Your Online Courses](https://dev.to/kramin_alexey/you-probably-lose-a-part-of-your-potential-audience-for-your-online-courses-4g9j)
+- [10 Distributed Data Structures and System Design Algorithms for Interviews](https://dev.to/somadevtoo/10-distributed-data-structures-and-system-design-algorithms-for-interviews-a4j)
+- [Text entry tricks in Mini Micro](https://dev.to/joestrout/text-entry-tricks-in-mini-micro-1p65)
 <!-- BLOG-POST-LIST:END -->
 
 ---
