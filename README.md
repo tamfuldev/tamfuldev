@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [TASK 14](https://dev.to/hameed1206/task-14-4j4k)
-- [MongoDB Associate Data Modeler Exam](https://dev.to/aws-heroes/mongodb-associate-data-modeler-exam-46df)
-- [AutoCodeRover: Autonomous Program Improvement](https://dev.to/mikeyoung44/autocoderover-autonomous-program-improvement-3857)
-- [The Illusion of State in State-Space Models](https://dev.to/mikeyoung44/the-illusion-of-state-in-state-space-models-2gnj)
-- [Zero-shot Building Age Classification from Facade Image Using GPT-4](https://dev.to/mikeyoung44/zero-shot-building-age-classification-from-facade-image-using-gpt-4-29bh)
+- [✨ Stunning HTML &amp; CSS Card Animation Tutorial on Hover 💻](https://dev.to/robsonmuniz16/stunning-html-css-card-animation-tutorial-on-hover-1lci)
+- [Webhooks and WebSockets](https://dev.to/ricardogesteves/webhooks-and-websockets-3p53)
+- [Caching RESTful API requests with Heroku’s Redis Add-on](https://dev.to/heroku/caching-restful-api-requests-with-herokus-redis-add-on-3bg8)
+- [EDA Messaging: SNS Topic Subscriptions Filter Demo](https://dev.to/evefonwu/eda-messaging-sns-topic-subscriptions-filter-demo-5cf8)
+- [Google Play Biometrics Verification Method: Should You Turn It On?](https://dev.to/luxandcloud/google-play-biometrics-verification-method-should-you-turn-it-on-1k4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
