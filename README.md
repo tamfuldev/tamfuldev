@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [✨ Stunning HTML &amp; CSS Card Animation Tutorial on Hover 💻](https://dev.to/robsonmuniz16/stunning-html-css-card-animation-tutorial-on-hover-1lci)
-- [Webhooks and WebSockets](https://dev.to/ricardogesteves/webhooks-and-websockets-3p53)
-- [Caching RESTful API requests with Heroku’s Redis Add-on](https://dev.to/heroku/caching-restful-api-requests-with-herokus-redis-add-on-3bg8)
-- [EDA Messaging: SNS Topic Subscriptions Filter Demo](https://dev.to/evefonwu/eda-messaging-sns-topic-subscriptions-filter-demo-5cf8)
-- [Google Play Biometrics Verification Method: Should You Turn It On?](https://dev.to/luxandcloud/google-play-biometrics-verification-method-should-you-turn-it-on-1k4)
+- [The Sustainability Impacts of ChatGPT: A Comprehensive Analysis](https://dev.to/thebadcoder96/the-sustainability-impacts-of-chatgpt-a-comprehensive-analysis-2ll8)
+- [Show your personality](https://dev.to/aws-heroes/show-your-personality-7f2)
+- [Computação não depende da existencia de computadores [PT-BR]](https://dev.to/andredarcie/computacao-nao-depende-da-existencia-de-computadores-pt-br-1i9c)
+- [Tic-Tac-Toe JavaScript game for beginners](https://dev.to/marcconci/tic-tac-toe-javascript-game-for-beginners-1ei3)
+- [Python antivirus or security operation solution and potentially machine learning.](https://dev.to/olatunjiayodel9/python-antivirus-or-security-operation-solution-and-potentially-machine-learning-kpg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
