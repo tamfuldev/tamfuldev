@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Personalized Chatbot with a 3D Twist: A Developer&#39;s Journey](https://dev.to/yashdatir/building-a-personalized-chatbot-with-a-3d-twist-a-developers-journey-466o)
-- [Running boosts memory](https://dev.to/exerciseinsights/running-boosts-memory-417e)
-- [Angular Addicts #24: Angular 17.3, Signals and unit testing best practices, Storybook 8 &amp; more](https://dev.to/this-is-angular/angular-addicts-24-angular-173-signals-and-unit-testing-best-practices-storybook-8-more-jgj)
-- [Unleashing the Power of React Custom Hooks](https://dev.to/sivakumar00/unleashing-the-power-of-react-custom-hooks-5dp8)
-- [Mastering Frontend Web Development: Best Practices](https://dev.to/keshavkhatri/mastering-frontend-web-development-best-practices-2nof)
+- [React.memo - Optimize React Functional Components](https://dev.to/ashsajal/reactmemo-optimize-react-functional-components-516m)
+- [In a Multilevel Relationship, How to Replace Null Values at Nodes by Corresponding Values at Their Parent Nodes](https://dev.to/esproc_spl/in-a-multilevel-relationship-how-to-replace-null-values-at-nodes-by-corresponding-values-at-their-parent-nodes-21ci)
+- [Automating Slack Greetings to Community with Orkes Conductor](https://dev.to/orkes/automating-slack-greetings-to-community-with-orkes-conductor-5gap)
+- [Bypass CORS errors while testing your APIs using Hoppscotch 🔧](https://dev.to/hoppscotch/bypass-cors-errors-while-testing-your-apis-using-hoppscotch-35je)
+- [Build a Cross-Platform Messaging App with React Native Expo](https://dev.to/amosgyamfi/build-a-cross-platform-messaging-app-with-react-native-expo-4nl3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
