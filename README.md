@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [React.memo - Optimize React Functional Components](https://dev.to/ashsajal/reactmemo-optimize-react-functional-components-516m)
-- [In a Multilevel Relationship, How to Replace Null Values at Nodes by Corresponding Values at Their Parent Nodes](https://dev.to/esproc_spl/in-a-multilevel-relationship-how-to-replace-null-values-at-nodes-by-corresponding-values-at-their-parent-nodes-21ci)
-- [Automating Slack Greetings to Community with Orkes Conductor](https://dev.to/orkes/automating-slack-greetings-to-community-with-orkes-conductor-5gap)
-- [Bypass CORS errors while testing your APIs using Hoppscotch 🔧](https://dev.to/hoppscotch/bypass-cors-errors-while-testing-your-apis-using-hoppscotch-35je)
-- [Build a Cross-Platform Messaging App with React Native Expo](https://dev.to/amosgyamfi/build-a-cross-platform-messaging-app-with-react-native-expo-4nl3)
+- [Introduction to Kubernetes](https://dev.to/shasheeshpurohit/introduction-to-kubernetes-450h)
+- [Composing Decorators in Python](https://dev.to/krish120003/composing-decorators-in-python-dgd)
+- [How to showcase your GitHub repositories on LinkedIn 🐱](https://dev.to/monicafidalgo/how-to-showcase-your-github-repositories-on-linkedin-1non)
+- [Utilizing Intersection Observer in React](https://dev.to/ihesami/utilizing-intersection-observer-in-react-1i9l)
+- [From Buying a Domain to a Fully Configured Server in 15 Minutes](https://dev.to/janbuild/from-buying-a-domain-to-a-fully-configured-server-in-15-minutes-553j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
