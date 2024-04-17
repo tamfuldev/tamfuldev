@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What is a recruiter and why should you care?](https://dev.to/marcconci/what-is-a-recruiter-and-why-should-you-care-592p)
-- [Cách đưa biến môi trường thành một phần của một commandline ở PowerShell](https://dev.to/bachhuynh/cach-dua-bien-moi-truong-thanh-mot-phan-cua-mot-commandline-o-powershell-598n)
-- [All About Custom Hooks: Supercharge Your React Components](https://dev.to/madhusaini22/all-about-custom-hooks-supercharge-your-react-components-413g)
-- [Java Concepts](https://dev.to/utkarsha114/java-concepts-4gjo)
-- [What is the importance of learning linear algebra for data science?](https://dev.to/marcconci/what-is-the-importance-of-learning-linear-algebra-for-data-science-3ec9)
+- [AI+Node.js x-crawl crawler: Why are traditional crawlers no longer the first choice for data crawling?](https://dev.to/coderhxl/ainodejs-x-crawl-crawler-why-are-traditional-crawlers-no-longer-the-first-choice-for-data-crawling-18a)
+- [Efficient Angular Effects Patterns](https://dev.to/this-is-angular/efficient-angular-effects-patterns-4396)
+- [React JS Fragments](https://dev.to/vishnusatheesh/react-js-fragments-14gc)
+- [🕵🏽 Investigating python Callables : functions, methods and more...](https://dev.to/wassafshahzad/investigating-python-callables-functions-methods-and-more-5cp1)
+- [Slack Automation: No More Hardcoding channel_ids for Event Triggers!](https://dev.to/seratch/slack-automation-no-more-hardcoding-channelids-for-event-triggers-4d5b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
