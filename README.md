@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Difference between technology and methodology - Dgi Host.com](https://dev.to/dgihost/difference-between-technology-and-methodology-dgi-hostcom-58ll)
-- [Rocket Game C++/QT/QML](https://dev.to/kastuv/rocket-game-cqtqml-38id)
-- [A BRIEF REVIEW OF CSS CASCADING, CSS SELECTORS and CSS SPECIFICITY.](https://dev.to/lighteni/a-brief-review-of-css-cascading-css-selectors-and-css-specificity-4j6a)
-- [Data Analysis 1: Scraping web pages](https://dev.to/deaxparadox/data-analysis-1-scraping-web-pages-27ji)
-- [Your opinion matters!](https://dev.to/huseyn0w/your-opinion-matters-13i4)
+- [DevLog #14 - Activities of the Scrum Master](https://dev.to/amilarangana/devlog-14-activities-of-the-scrum-master-mae)
+- [Crafting Code and BBQ Smoke](https://dev.to/handmadebbq/crafting-code-and-bbq-smoke-4jf5)
+- [Roles and Responsibilities of a Lead Engineer in Driving Technical Excellence and Innovation](https://dev.to/balrajola/roles-and-responsibilities-of-a-lead-engineer-in-driving-technical-excellence-and-innovation-i7l)
+- [Keeping Users Up-to-Date: A Guide to Mobile App Version Control](https://dev.to/iamthejahid/keeping-users-up-to-date-a-guide-to-mobile-app-version-control-4em)
+- [Understanding Technical Research Papers](https://dev.to/salika_dave/understanding-technical-research-papers-1c1f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
