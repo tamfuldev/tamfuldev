@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [IIoT Security: 5 Essential Steps to Secure your IoT Devices and OS](https://dev.to/yayabobi/iiot-security-5-essential-steps-to-secure-your-iot-devices-and-os-1kn0)
-- [Ensuring Software Excellence with Testing Your Code](https://dev.to/admirmujkic/ensuring-software-excellence-with-testing-your-code-h9d)
-- [463. Island Perimeter](https://dev.to/mdarifulhaque/463-island-perimeter-2dmi)
-- [Optimizing String Searches in C# with SearchValues](https://dev.to/admirmujkic/optimizing-string-searches-in-c-with-searchvalues-1105)
-- [Embracing a Blogging Voyage After 7 Years in Code](https://dev.to/codeferreira/embracing-a-blogging-voyage-after-7-years-in-code-2l3g)
+- [Next js + 3D elements with spline](https://dev.to/nyctonio/next-js-3d-elements-with-spline-3m84)
+- [Effective Annotating of Strace Output for MySQL Performance Troubleshooting](https://dev.to/shiviyer/effective-annotating-of-strace-output-for-mysql-performance-troubleshooting-2bj6)
+- [Basic Terms in Machine Learning &lpar;Model Training&rpar;](https://dev.to/jjokah/basic-terms-in-machine-learning-model-training-454c)
+- [Global toast in Vue3](https://dev.to/heliomsolivas/global-toast-in-vue3-1bmc)
+- [Kubernetes: Monolithic vs Microservice](https://dev.to/shrest/kubernetes-monolithic-vs-microservice-2jfp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
