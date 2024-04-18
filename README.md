@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Expand Your Horizons: Promoting Your Website Beyond Google 🚀](https://dev.to/sh20raj/expand-your-horizons-promoting-your-website-beyond-google-3k1f)
-- [Ibuprofeno.py💊| #84: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-84-explica-este-codigo-python-4p6g)
-- [Interview with Mo Rajabi, co-founder and CEO of Noor](https://dev.to/crabnebula/interview-with-mo-rajabi-co-founder-and-ceo-of-noor-2g3c)
-- [Choosing a CSS selector](https://dev.to/prais_e/choosing-a-css-selector-3m1n)
-- [How To Use AI Developer Tools In 2024](https://dev.to/fanatixan/how-to-use-ai-developer-tools-in-2024-1loo)
+- [The Complete Guide to Logging in Django](https://dev.to/pragativerma18/the-complete-guide-to-logging-in-django-5fde)
+- [Unlocking Cash Flow: Pros, Cons, and Best Practices of Accounts Receivable Factoring](https://dev.to/carolinabennett/unlocking-cash-flow-pros-cons-and-best-practices-of-accounts-receivable-factoring-3b4e)
+- [Rolling your own CAPTCHA solution](https://dev.to/polterguy/rolling-your-own-captcha-solution-40jk)
+- [Without looking it up, do you know what jpeg stands for?](https://dev.to/ben/without-looking-it-up-do-you-know-what-jpeg-stands-for-17bp)
+- [After 10 years of building B2B SaaS, going open-source has been a breath of fresh air](https://dev.to/latitude/after-10-years-of-building-b2b-saas-going-open-source-has-been-a-breath-of-fresh-air-1h09)
 <!-- BLOG-POST-LIST:END -->
 
 ---
