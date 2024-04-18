@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DevLog #14 - Activities of the Scrum Master](https://dev.to/amilarangana/devlog-14-activities-of-the-scrum-master-mae)
-- [Crafting Code and BBQ Smoke](https://dev.to/handmadebbq/crafting-code-and-bbq-smoke-4jf5)
-- [Roles and Responsibilities of a Lead Engineer in Driving Technical Excellence and Innovation](https://dev.to/balrajola/roles-and-responsibilities-of-a-lead-engineer-in-driving-technical-excellence-and-innovation-i7l)
-- [Keeping Users Up-to-Date: A Guide to Mobile App Version Control](https://dev.to/iamthejahid/keeping-users-up-to-date-a-guide-to-mobile-app-version-control-4em)
-- [Understanding Technical Research Papers](https://dev.to/salika_dave/understanding-technical-research-papers-1c1f)
+- [Biome.js : Prettier+ESLint killer ?](https://dev.to/thibaultwalterspieler/biomejs-prettiereslint-killer--4mnk)
+- [Playwright Web Scraping 2024 - Tutorial](https://dev.to/crawlbase/playwright-web-scraping-2024-tutorial-37db)
+- [Day 947 : Asleep](https://dev.to/dwane/day-947-asleep-3013)
+- [Introducing &quot;keyv&quot;: A Key-Value Storage for Rust](https://dev.to/chrisllontop/introducing-keyv-a-key-value-storage-for-rust-2bdc)
+- [Recapping the AI, Machine Learning and Data Science Meetup — April 18, 2024](https://dev.to/voxel51/recapping-the-ai-machine-learning-and-data-science-meetup-april-18-2024-2eon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
