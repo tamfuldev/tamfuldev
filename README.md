@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [When to Hire More Engineers?](https://dev.to/devteam/when-to-hire-more-engineers-1nhm)
-- [Top 12 Mind Mapping Apps for Enhanced Productivity](https://dev.to/stan8086/top-12-mind-mapping-apps-for-enhanced-productivity-1o3)
-- [&lpar;Part 1&rpar; Golang Framework Hands-on - KisFlow Streaming Computing Framework - Overview](https://dev.to/aceld/part-1-golang-framework-hands-on-kisflow-streaming-computing-framework-overview-8fh)
-- [Plausible as an alternative to Google Analytics](https://dev.to/polterguy/plausible-as-an-alternative-to-google-analytics-2l1p)
-- [Creating an Animated Loader Using HTML and CSS](https://dev.to/withaarzoo/creating-an-animated-loader-using-html-and-css-57c1)
+- [If you are planning to build yet another SaaS boilerplate to earn Internet money, please don&#39;t.](https://dev.to/alexanderisora/if-you-are-planning-to-build-yet-another-saas-boilerplate-to-earn-internet-money-please-dont-834)
+- [OpenTofu vs Hashicorp, Google Cloud Next 24 Highlights, Apple ReALM beats GPT-4](https://dev.to/mkdev/opentofu-vs-hashicorp-google-cloud-next-24-highlights-apple-realm-beats-gpt-4-pf1)
+- [The rise of newsletters](https://dev.to/exerciseinsights/the-rise-of-newsletters-1jdo)
+- [Supabase: A Guide to Setting Up Your Local Environment](https://dev.to/sreejinsreenivasan/supabase-a-guide-to-setting-up-your-local-environment-4cgf)
+- [How to create a scroll to top button with Tailwind CSS and Alpinejs](https://dev.to/mike_andreuzza/how-to-create-a-scroll-to-top-button-with-tailwind-css-and-alpinejs-1hoj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
