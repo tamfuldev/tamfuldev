@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Components for Developers: Why I Joined Novu](https://dev.to/novu/components-for-developers-why-i-joined-novu-1egj)
-- [Contributing to Open Source Project ChatCraft](https://dev.to/wanggithub0/contributing-to-open-source-project-chatcraft-1dh3)
-- [Episode 24/15: Wiz behind the curtain, Copilot in VSCode](https://dev.to/this-is-angular/episode-2415-wiz-behind-the-curtain-copilot-in-vscode-2h6k)
-- [Instalando e Configurando o Servidor de E-mail Carbonio CE na AWS &lpar;Substituto do Zimbra&rpar;](https://dev.to/alfredotavio/instalando-e-configurando-o-servidor-de-e-mail-carbonio-ce-na-aws-substituto-do-zimbra-4lj8)
-- [The Endless Journey: When Does Learning Really Stop?](https://dev.to/sweelam/when-does-learning-stop-4883)
+- [Swift: Passing data between view controllers](https://dev.to/anurag31oct/swift-passing-data-between-view-controllers-2jib)
+- [Submission Of Project For Front-end Challenge 2024-Earth Day Edition: Glam up My Markup](https://dev.to/codevsom/submission-of-project-for-front-end-challenge-2024-earth-day-edition-glam-up-my-markup-4l2b)
+- [Expert Tips to Fix Test Automation Mistakes](https://dev.to/jamescantor38/expert-tips-to-fix-test-automation-mistakes-224b)
+- [Functors, Monads and Promises in Functional Programming with JavaScript](https://dev.to/team3/functors-monads-and-promises-in-functional-programming-with-javascript-1pkd)
+- [Error: Cannot find module &#39;/path/.next/build-manifest.json&#39;](https://dev.to/anurag31oct/error-cannot-find-module-pathnextbuild-manifestjson-1mm1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
