@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🫶 The Most Productive Programmers Share This One Thing](https://dev.to/evergrowingdev/the-most-productive-programmers-share-this-one-thing-ejf)
-- [Introducing usage monitoring in Xata](https://dev.to/xata/introducing-usage-monitoring-in-xata-2d8g)
-- [The Adventures of Blink #19: So you wanna be a DevOp? A Practical Guide](https://dev.to/linkbenjamin/the-adventures-of-blink-19-so-you-wanna-be-a-devop-a-practical-guide-4gno)
-- [Build a spreadsheet app with an AI-copilot &lpar;Next.js, gpt4, LangChain, &amp; CopilotKit&rpar;](https://dev.to/copilotkit/build-an-ai-powered-spreadsheet-app-nextjs-langchain-copilotkit-109d)
-- [How to develop a local package and use in a vite app](https://dev.to/pitops/how-to-develop-a-local-package-and-use-in-a-vite-app-1hb3)
+- [Expand Your Horizons: Promoting Your Website Beyond Google 🚀](https://dev.to/sh20raj/expand-your-horizons-promoting-your-website-beyond-google-3k1f)
+- [Ibuprofeno.py💊| #84: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-84-explica-este-codigo-python-4p6g)
+- [Interview with Mo Rajabi, co-founder and CEO of Noor](https://dev.to/crabnebula/interview-with-mo-rajabi-co-founder-and-ceo-of-noor-2g3c)
+- [Choosing a CSS selector](https://dev.to/prais_e/choosing-a-css-selector-3m1n)
+- [How To Use AI Developer Tools In 2024](https://dev.to/fanatixan/how-to-use-ai-developer-tools-in-2024-1loo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
