@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [FreeBSD for Devs](https://dev.to/scovl/freebsd-for-devs-3n0k)
-- [🔬 Fiches emploi Nouvelle-Calédonie et codes ROME](https://dev.to/adriens/fiches-emploi-nouvelle-caledonie-et-codes-rome-29d8)
-- [SObjectizer Tales – 28. If I had a magic wand…](https://dev.to/ilpropheta/sobjectizer-tales-28-if-i-had-a-magic-wand-323h)
-- [DevLog #13 - Role of the Product owner](https://dev.to/amilarangana/devlog-13-role-of-the-product-owner-ci1)
-- [Monitoring MySQL with Prometheus and Grafana in Docker](https://dev.to/mattdark/monitoring-mysql-with-prometheus-and-grafana-in-docker-1ij7)
+- [Using migrations with Golang](https://dev.to/wiliamvj/using-migrations-with-golang-3449)
+- [Utilizando &quot;createAsyncThunk&quot; do Redux para fazer chamada async](https://dev.to/devteles/utilizando-createasyncthunk-do-redux-para-fazer-chamada-async-lkp)
+- [How to dynamically import Swiper.js in Next.js?](https://dev.to/oleygon/how-to-dynamically-import-swiperjs-in-nextjs-4k6i)
+- [Understanding the Flag Register in x86 Assembly Language](https://dev.to/ismielabir/understanding-the-flag-register-in-x86-assembly-language-3gmm)
+- [Selenium and AI: UI Validations with AI](https://dev.to/vishalmysore/selenium-and-ai-ui-validations-with-ai-2mde)
 <!-- BLOG-POST-LIST:END -->
 
 ---
