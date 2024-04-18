@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Complete Guide to Logging in Django](https://dev.to/pragativerma18/the-complete-guide-to-logging-in-django-5fde)
-- [Unlocking Cash Flow: Pros, Cons, and Best Practices of Accounts Receivable Factoring](https://dev.to/carolinabennett/unlocking-cash-flow-pros-cons-and-best-practices-of-accounts-receivable-factoring-3b4e)
-- [Rolling your own CAPTCHA solution](https://dev.to/polterguy/rolling-your-own-captcha-solution-40jk)
-- [Without looking it up, do you know what jpeg stands for?](https://dev.to/ben/without-looking-it-up-do-you-know-what-jpeg-stands-for-17bp)
-- [After 10 years of building B2B SaaS, going open-source has been a breath of fresh air](https://dev.to/latitude/after-10-years-of-building-b2b-saas-going-open-source-has-been-a-breath-of-fresh-air-1h09)
+- [Components for Developers: Why I Joined Novu](https://dev.to/novu/components-for-developers-why-i-joined-novu-1egj)
+- [Contributing to Open Source Project ChatCraft](https://dev.to/wanggithub0/contributing-to-open-source-project-chatcraft-1dh3)
+- [Episode 24/15: Wiz behind the curtain, Copilot in VSCode](https://dev.to/this-is-angular/episode-2415-wiz-behind-the-curtain-copilot-in-vscode-2h6k)
+- [Instalando e Configurando o Servidor de E-mail Carbonio CE na AWS &lpar;Substituto do Zimbra&rpar;](https://dev.to/alfredotavio/instalando-e-configurando-o-servidor-de-e-mail-carbonio-ce-na-aws-substituto-do-zimbra-4lj8)
+- [The Endless Journey: When Does Learning Really Stop?](https://dev.to/sweelam/when-does-learning-stop-4883)
 <!-- BLOG-POST-LIST:END -->
 
 ---
