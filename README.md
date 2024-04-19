@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [String Methods in C#](https://dev.to/kudratswe/string-methods-in-c-4eo6)
-- [How to Transpose Rows to Columns on Multiple Fields in Each Group](https://dev.to/esproc_spl/how-to-transpose-rows-to-columns-on-multiple-fields-in-each-group-1nlb)
-- [Mastering SOLID Principles](https://dev.to/paulund/mastering-solid-principles-2c7k)
-- [Delay-Based Attack Payload](https://dev.to/attaullahshafiq10/delay-based-attack-payload-1ilo)
-- [The Subtle Case For and Against React](https://dev.to/rrsai/the-subtle-case-for-and-against-react-apf)
+- [Implement React v18 from Scratch Using WASM and Rust - [5] Implementation of Complete Work Phase of Render Process](https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-5-implementation-of-complete-work-phase-of-render-process-35fo)
+- [Streamlining Frontend-Backend Integration Using API7 Enterprise](https://dev.to/api7/streamlining-frontend-backend-integration-using-api7-enterprise-2o9k)
+- [21 bugs in 21st version of Apache NetBeans](https://dev.to/anogneva/21-bugs-in-21st-version-of-apache-netbeans-5fom)
+- [Bridging the Language Barrier: Playing a Visual Novel in Another Language with Google Translate&#39;s Camera](https://dev.to/sediak/bridging-the-language-barrier-playing-a-visual-novel-in-another-language-with-google-translates-camera-4bgc)
+- [Set JVM Timezone when running JUnit 5 tests](https://dev.to/saladlam/set-jvm-timezone-when-running-junit-5-tests-1amp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
