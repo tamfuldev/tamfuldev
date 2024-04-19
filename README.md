@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Is Closed-Source Software Really More Secure?](https://dev.to/jhtao/is-closed-source-software-really-more-secure-2fdd)
-- [Finding a Path As a Self-Taught Software Developer](https://dev.to/6tring/finding-a-path-as-a-self-taught-software-developer-1hgd)
-- [Angular Signals Base untracked function](https://dev.to/nhannguyendevjs/angular-signals-base-untracked-function-2m8i)
-- [GWS Admin Tips #1 - Automate work through csv](https://dev.to/belarminobrunoz/gws-admin-tips-1-automate-work-through-csv-29lp)
-- [Desktop App with multiple LLM chat site at same place](https://dev.to/yashwanth2804/desktop-app-with-multiple-llm-chat-site-at-same-place-5cii)
+- [Git Merge vs. Rebase: Key Differences](https://dev.to/codeparrot/git-merge-vs-rebase-key-differences-1pb4)
+- [Mastering the Art of React Native: A Guide to Excelling as a Front-End Engineer](https://dev.to/epakconsultant/mastering-the-art-of-react-native-a-guide-to-excelling-as-a-front-end-engineer-4mb2)
+- [Path Sum | LeetCode | Java](https://dev.to/tanujav/path-sum-leetcode-java-3837)
+- [Operators in C#](https://dev.to/kudratswe/operators-in-c-1c63)
+- [Nuget support will make Selenium coding simpler!](https://dev.to/vinzh05/nuget-support-will-make-selenium-coding-simpler-2n6m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
