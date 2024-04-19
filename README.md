@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [¡Ideas de recaudación de fondos que realmente funcionan!](https://dev.to/whydonatespain/ideas-de-recaudacion-de-fondos-que-realmente-funcionan-3j12)
-- [What is Software Testing ?](https://dev.to/saiprakash05/what-is-software-testing--15aa)
-- [AI: A Massive Shift in How We&#39;ll Work in the Future is Coming. Are You Ready?](https://dev.to/exploredataaiml/ai-a-massive-shift-in-how-well-work-in-the-future-is-coming-are-you-ready-38bj)
-- [Trabalhe com duas branches ou mais ao mesmo tempo com Git Worktree](https://dev.to/dyhalmeida/trabalhe-com-duas-branches-ou-mais-ao-mesmo-tempo-com-git-worktree-3okg)
-- [Simplificando sua Internacionalização](https://dev.to/flutterbrasil/simplificando-sua-internacionalizacao-4nif)
+- [Is Closed-Source Software Really More Secure?](https://dev.to/jhtao/is-closed-source-software-really-more-secure-2fdd)
+- [Finding a Path As a Self-Taught Software Developer](https://dev.to/6tring/finding-a-path-as-a-self-taught-software-developer-1hgd)
+- [Angular Signals Base untracked function](https://dev.to/nhannguyendevjs/angular-signals-base-untracked-function-2m8i)
+- [GWS Admin Tips #1 - Automate work through csv](https://dev.to/belarminobrunoz/gws-admin-tips-1-automate-work-through-csv-29lp)
+- [Desktop App with multiple LLM chat site at same place](https://dev.to/yashwanth2804/desktop-app-with-multiple-llm-chat-site-at-same-place-5cii)
 <!-- BLOG-POST-LIST:END -->
 
 ---
