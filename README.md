@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Implement Face Detection in React Native Using React Native Vision Camera](https://dev.to/thelamina/how-to-implement-face-detection-in-react-native-using-react-native-vision-camera-58ff)
-- [Regression Testing Best Practices for Reliable Software Releases](https://dev.to/abhayit2000/regression-testing-best-practices-for-reliable-software-releases-1boc)
-- [WIP: Node development on iPhone](https://dev.to/rkristelijn/node-development-on-iphone-3b5h)
-- [Object-Oriented Go: Unraveling the Power of OOP in Golang](https://dev.to/parthlaw/object-oriented-go-unraveling-the-power-of-oop-in-golang-49h6)
-- [Exploring the Canvas Series: Creative Brushes Part 2](https://dev.to/leo_song/exploring-the-canvas-series-creative-brushes-part-2-amj)
+- [Building a Playful File Locker with GoFr](https://dev.to/ssshekhu53/building-a-playful-file-locker-with-gofr-3f8a)
+- [Llama3 License Explained](https://dev.to/llm_explorer/llama3-license-explained-2915)
+- [Infinite Scroll using Angular](https://dev.to/rj_skhosana/infinite-scroll-using-angular-52mg)
+- [Mixins without side-effects](https://dev.to/dariomannu/mixins-without-side-effects-964)
+- [Arka Paymaster Service: Empowering Devs with Open-Source Account Abstraction Tool](https://dev.to/etherspot/arka-paymaster-service-empowering-devs-with-open-source-account-abstraction-tool-56bc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
