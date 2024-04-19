@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Biome.js : Prettier+ESLint killer ?](https://dev.to/thibaultwalterspieler/biomejs-prettiereslint-killer--4mnk)
-- [Playwright Web Scraping 2024 - Tutorial](https://dev.to/crawlbase/playwright-web-scraping-2024-tutorial-37db)
-- [Day 947 : Asleep](https://dev.to/dwane/day-947-asleep-3013)
-- [Introducing &quot;keyv&quot;: A Key-Value Storage for Rust](https://dev.to/chrisllontop/introducing-keyv-a-key-value-storage-for-rust-2bdc)
-- [Recapping the AI, Machine Learning and Data Science Meetup — April 18, 2024](https://dev.to/voxel51/recapping-the-ai-machine-learning-and-data-science-meetup-april-18-2024-2eon)
+- [Automating Windows Workloads in AWS using Systems Manager and PowerShell DSC with Terragrunt Part1.](https://dev.to/segoja7/automating-windows-workloads-in-aws-using-systems-manager-and-powershell-dsc-with-terragrunt-part1-i2)
+- [Mastering Next.js 13/14 - Advanced Techniques](https://dev.to/fabrikapp/mastering-nextjs-1314-advanced-techniques-5ba)
+- [Mastering Next.js 13/14 : App Router and API Routes](https://dev.to/fabrikapp/mastering-nextjs-1314-app-router-and-api-routes-fbn)
+- [Memahami Struktur Folder Laravel bagi Pemula](https://dev.to/risekucom/memahami-struktur-folder-laravel-bagi-pemula-56mi)
+- [Mastering Next.js 13/14 - Fundamentals](https://dev.to/fabrikapp/mastering-nextjs-1314-building-dynamic-web-applications-part-1-fundamentals-gh1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
