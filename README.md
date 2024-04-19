@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Implement React v18 from Scratch Using WASM and Rust - [5] Implementation of Complete Work Phase of Render Process](https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-5-implementation-of-complete-work-phase-of-render-process-35fo)
-- [Streamlining Frontend-Backend Integration Using API7 Enterprise](https://dev.to/api7/streamlining-frontend-backend-integration-using-api7-enterprise-2o9k)
-- [21 bugs in 21st version of Apache NetBeans](https://dev.to/anogneva/21-bugs-in-21st-version-of-apache-netbeans-5fom)
-- [Bridging the Language Barrier: Playing a Visual Novel in Another Language with Google Translate&#39;s Camera](https://dev.to/sediak/bridging-the-language-barrier-playing-a-visual-novel-in-another-language-with-google-translates-camera-4bgc)
-- [Set JVM Timezone when running JUnit 5 tests](https://dev.to/saladlam/set-jvm-timezone-when-running-junit-5-tests-1amp)
+- [How to Implement Face Detection in React Native Using React Native Vision Camera](https://dev.to/thelamina/how-to-implement-face-detection-in-react-native-using-react-native-vision-camera-58ff)
+- [Regression Testing Best Practices for Reliable Software Releases](https://dev.to/abhayit2000/regression-testing-best-practices-for-reliable-software-releases-1boc)
+- [WIP: Node development on iPhone](https://dev.to/rkristelijn/node-development-on-iphone-3b5h)
+- [Object-Oriented Go: Unraveling the Power of OOP in Golang](https://dev.to/parthlaw/object-oriented-go-unraveling-the-power-of-oop-in-golang-49h6)
+- [Exploring the Canvas Series: Creative Brushes Part 2](https://dev.to/leo_song/exploring-the-canvas-series-creative-brushes-part-2-amj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
