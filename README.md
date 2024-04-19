@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Does Data Structures and Algorithms Matter in Backend? No BS Answer!](https://dev.to/louaiboumediene/does-data-structures-and-algorithms-matter-in-backend-no-bs-answer-f7c)
-- [Integra múltiples APIs de IA en una sola plataforma](https://dev.to/alvarosdev/integra-multiples-apis-de-ia-en-una-sola-plataforma-3m5a)
-- [Mina Protocol: small chain, big dreams](https://dev.to/denitech/mina-protocol-small-chain-big-dreams-2o02)
-- [chore&lpar;dev.to&rpar;: change to offendingcommit](https://dev.to/offendingcommit/choredevto-change-to-offendingcommit-63l)
-- [The GitHub Community Roundup - 2024.04.19](https://dev.to/scubaninja/the-github-community-roundup-20240419-3g4c)
+- [🗞 Rapyd Developer Newsletter: April 2024 Payroll Payment Processing + New Design for Account Creation](https://dev.to/rapyd/rapyd-developer-newsletter-april-2024-payroll-payment-processing-new-design-for-account-creation-41md)
+- [Setting up a React project using Vite + TypeScript + Vitest](https://dev.to/janoskocs/setting-up-a-react-project-using-vite-typescript-vitest-2gl2)
+- [200. Number of Islands](https://dev.to/mdarifulhaque/200-number-of-islands-5ak4)
+- [Dream Project to Build](https://dev.to/qyrusai/dream-project-to-build-4i02)
+- [Learning New Things](https://dev.to/rohiitbagal/learning-new-things-2m4o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
