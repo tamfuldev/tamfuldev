@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript utility Refine&lt;T, P&gt;](https://dev.to/sylvaindethier/typescript-utility-refinet-p-2e2h)
-- [Var, Let and Const](https://dev.to/ticha/var-let-and-const-4l9n)
-- [The Concept of Expansion in the Linux Command Line](https://dev.to/codedken/the-concept-of-expansion-in-the-linux-command-line-13kb)
-- [Mastering React Hooks: A Comprehensive Guide to Functional Components](https://dev.to/antonmartyniuk/mastering-react-hooks-a-comprehensive-guide-to-functional-components-3lm8)
-- [Building Responsive Design Using Viewport CSS Units](https://dev.to/antonmartyniuk/building-responsive-design-using-viewport-css-units-4gne)
+- [Subscription app &lpar;part 5&rpar;](https://dev.to/hestia/subscription-app-part-5-4cgk)
+- [How I feel about Women Who Code shutting down](https://dev.to/jess/how-i-feel-about-women-who-code-shutting-down-30oj)
+- [Security news weekly round-up - 19th April 2024](https://dev.to/ziizium/security-news-weekly-round-up-19th-april-2024-5e3b)
+- [Publish Your Articles on Medium with NodeJS](https://dev.to/arindam_1729/publish-your-articles-on-medium-with-nodejs-4i4p)
+- [Understanding Modules in JavaScript: Comparing require and ES6 Imports](https://dev.to/vimuth7/understanding-modules-in-javascript-comparing-require-and-es6-imports-11ec)
 <!-- BLOG-POST-LIST:END -->
 
 ---
