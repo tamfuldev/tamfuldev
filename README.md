@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build Infrastructure with Terraform on Google Cloud](https://dev.to/fo_cused/build-infrastructure-with-terraform-on-google-cloud-3n6a)
-- [Sol-Incinerator: Burning Unwanted Solana NFTs](https://dev.to/getblockapi/sol-incinerator-burning-unwanted-solana-nfts-56ib)
-- [Reflecting on “Technical Leadership and Glue Work” / “Being Glue”](https://dev.to/koma_koma_d/reflecting-on-technical-leadership-and-glue-work-being-glue-52g0)
-- [Day 3 of 30 of JavaScript](https://dev.to/akshat0610/day-3-of-30-of-javascript-27cf)
-- [Reading &quot;A Philosophy of Software Design&quot;](https://dev.to/koma_koma_d/reading-a-philosophy-of-software-design-il2)
+- [Does Data Structures and Algorithms Matter in Backend? No BS Answer!](https://dev.to/louaiboumediene/does-data-structures-and-algorithms-matter-in-backend-no-bs-answer-f7c)
+- [Integra múltiples APIs de IA en una sola plataforma](https://dev.to/alvarosdev/integra-multiples-apis-de-ia-en-una-sola-plataforma-3m5a)
+- [Mina Protocol: small chain, big dreams](https://dev.to/denitech/mina-protocol-small-chain-big-dreams-2o02)
+- [chore&lpar;dev.to&rpar;: change to offendingcommit](https://dev.to/offendingcommit/choredevto-change-to-offendingcommit-63l)
+- [The GitHub Community Roundup - 2024.04.19](https://dev.to/scubaninja/the-github-community-roundup-20240419-3g4c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
