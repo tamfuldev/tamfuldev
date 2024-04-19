@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [React Memo Mayhem: Optimizing Functional Components](https://dev.to/kigazon/react-memo-mayhem-optimizing-functional-components-4a9p)
+- [Learning React](https://dev.to/dcjacoby1/learning-react-5bj8)
+- [Exploring Vue.js Directives](https://dev.to/kartikmehta8/exploring-vuejs-directives-jc8)
 - [Automating Windows Workloads in AWS using Systems Manager and PowerShell DSC with Terragrunt Part1.](https://dev.to/segoja7/automating-windows-workloads-in-aws-using-systems-manager-and-powershell-dsc-with-terragrunt-part1-i2)
 - [Mastering Next.js 13/14 - Advanced Techniques](https://dev.to/fabrikapp/mastering-nextjs-1314-advanced-techniques-5ba)
-- [Mastering Next.js 13/14 : App Router and API Routes](https://dev.to/fabrikapp/mastering-nextjs-1314-app-router-and-api-routes-fbn)
-- [Memahami Struktur Folder Laravel bagi Pemula](https://dev.to/risekucom/memahami-struktur-folder-laravel-bagi-pemula-56mi)
-- [Mastering Next.js 13/14 - Fundamentals](https://dev.to/fabrikapp/mastering-nextjs-1314-building-dynamic-web-applications-part-1-fundamentals-gh1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
