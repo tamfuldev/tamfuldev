@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Subscription app &lpar;part 5&rpar;](https://dev.to/hestia/subscription-app-part-5-4cgk)
-- [How I feel about Women Who Code shutting down](https://dev.to/jess/how-i-feel-about-women-who-code-shutting-down-30oj)
-- [Security news weekly round-up - 19th April 2024](https://dev.to/ziizium/security-news-weekly-round-up-19th-april-2024-5e3b)
-- [Publish Your Articles on Medium with NodeJS](https://dev.to/arindam_1729/publish-your-articles-on-medium-with-nodejs-4i4p)
-- [Understanding Modules in JavaScript: Comparing require and ES6 Imports](https://dev.to/vimuth7/understanding-modules-in-javascript-comparing-require-and-es6-imports-11ec)
+- [Code with Musa - 2](https://dev.to/musaaj/code-with-musa-2-405j)
+- [Implement Merge-Sort in python](https://dev.to/mainpynerds/implement-merge-sort-in-python-537b)
+- [csv module in Python](https://dev.to/mainpynerds/csv-module-in-python-kb5)
+- [Building a Production-Ready Web App with T3 Stack](https://dev.to/fabrikapp/building-a-production-ready-web-app-with-t3-stack-4h9e)
+- [Effect 3.0](https://dev.to/effect/effect-30-2mp2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
