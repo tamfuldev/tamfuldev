@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [API Integration Testing: Ensuring Robustness and Reliability](https://dev.to/apidna/api-integration-testing-ensuring-robustness-and-reliability-2ebm)
-- [Using Amazon S3 with Amazon CloudFront](https://dev.to/fo_cused/using-amazon-s3-with-amazon-cloudfront-1728)
-- [What is a Design System and Why Is It Important for Software Engineering?](https://dev.to/codebycorey/what-is-a-design-system-and-why-is-it-important-for-software-engineering-4mdd)
-- [Security Operations Center &lpar;SOC&rpar; Roles and Responsibilities](https://dev.to/clouddefenseai/security-operations-center-soc-roles-and-responsibilities-2l2i)
-- [The three dots &lpar;...&rpar; in JavaScript](https://dev.to/anuragaffection/the-three-dots-in-javascript-b32)
+- [Build Infrastructure with Terraform on Google Cloud](https://dev.to/fo_cused/build-infrastructure-with-terraform-on-google-cloud-3n6a)
+- [Sol-Incinerator: Burning Unwanted Solana NFTs](https://dev.to/getblockapi/sol-incinerator-burning-unwanted-solana-nfts-56ib)
+- [Reflecting on “Technical Leadership and Glue Work” / “Being Glue”](https://dev.to/koma_koma_d/reflecting-on-technical-leadership-and-glue-work-being-glue-52g0)
+- [Day 3 of 30 of JavaScript](https://dev.to/akshat0610/day-3-of-30-of-javascript-27cf)
+- [Reading &quot;A Philosophy of Software Design&quot;](https://dev.to/koma_koma_d/reading-a-philosophy-of-software-design-il2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
