@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Overthinking: Is It a Curse or a Superpower?](https://dev.to/devteam/overthinking-is-it-a-curse-or-a-superpower-428p)
-- [Creating Your First Web App with FlutterFlow: A Comprehensive Guide](https://dev.to/epakconsultant/creating-your-first-web-app-with-flutterflow-a-comprehensive-guide-3fi2)
-- [DevPod in Action](https://dev.to/shemanti/devpod-in-action-5g1f)
-- [See old Object Pascal from new Rust](https://dev.to/teminian/see-old-object-pascal-from-new-rust-1ejc)
-- [낯선 Rust에서 오래된 Object Pascal의 향기를 느끼다](https://dev.to/teminian/nacseon-rusteseo-oraedoen-object-pascalyi-hyanggireul-neuggida-84e)
+- [Google is too powerful!](https://dev.to/kwnaidoo/google-is-too-powerful-4cgo)
+- [Why I Write.](https://dev.to/thejoernal/why-i-write-3kpm)
+- [Getting started with TiniJS framework](https://dev.to/lamnhan/getting-started-with-tinijs-framework-881)
+- [Cats Fatc&#39;s Quick project](https://dev.to/gurux3/cats-fatcs-quick-project-3ma)
+- [Understanding HTTP and HTTPS: How They Work and Secure Data Transmission](https://dev.to/mukulbindal/understanding-http-and-https-how-they-work-and-secure-data-transmission-15cc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
