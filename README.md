@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-244c)
-- [CSS Art 2024 Submission, Earth Day Edition Frontend Challenge](https://dev.to/johnx4321/css-art-2024-submission-earth-day-edition-frontend-challenge-26g6)
-- [Perplexity Playground: A hidden gem](https://dev.to/spandan/perplexity-playground-a-hidden-gem-2ok8)
-- [A Button to Rule Them All &lpar;copy&rpar;](https://dev.to/storychief/a-button-to-rule-them-all-copy-1i2a)
-- [Newbie](https://dev.to/sundus/newbie-4kmf)
+- [Ibuprofeno.py💊| #86: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-86-explica-este-codigo-python-151h)
+- [Démystifier React : Un aperçu des 17 Concepts clés de React](https://dev.to/cub_ger24/demystifier-react-un-apercu-des-17-concepts-cles-de-react-2agp)
+- [Task Execution and Scheduling in Spring Boot](https://dev.to/nilan/task-execution-and-scheduling-in-spring-boot-55e4)
+- [Ensuring Type Safety in Next.js Routing](https://dev.to/kumneger/ensuring-type-safety-in-nextjs-routing-2ddc)
+- [Beware](https://dev.to/yowise/beware-36cl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
