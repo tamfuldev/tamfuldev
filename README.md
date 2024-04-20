@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Two-Way Binding in Angular: Magic Mirror for Your Data](https://dev.to/kavindukarunasena/two-way-binding-in-angular-magic-mirror-for-your-data-1dej)
-- [Deep Dive into Functional Programming in Javascript](https://dev.to/alexmercedcoder/deep-dive-into-functional-programming-in-javascript-851)
-- [BEHAVIORAL PATTERN &lpar;STATE&rpar;](https://dev.to/gabrielmelendez/behavioral-pattern-state-3858)
-- [Why do we need CORS to access CDN links?](https://dev.to/shubhsharma19/why-do-we-need-cors-to-access-cdn-links-bh6)
-- [Conversational AI for Everyone: Create Your Own LLM](https://dev.to/elferrer/conversational-ai-for-everyone-create-your-own-llm-1m6m)
+- [Sinister Styled-Components: CSS in JS with Style](https://dev.to/kigazon/sinister-styled-components-css-in-js-with-style-39bp)
+- [Build a Product Receipt Generator using Python.](https://dev.to/spiff/build-a-product-receipt-generator-using-python-49nm)
+- [HackTheBox - Writeup Surveillance [Retired]](https://dev.to/mrtnsgs/hackthebox-writeup-surveillance-retired-1m1c)
+- [This is a post to help your Selenium automation code become faster and more effective!](https://dev.to/vinzh05/this-is-a-post-to-help-your-selenium-automation-code-become-faster-and-more-effective-42gh)
+- [ChatCraft v2.0.0](https://dev.to/rachit1313/chatcraft-v200-1min)
 <!-- BLOG-POST-LIST:END -->
 
 ---
