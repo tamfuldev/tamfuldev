@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Find All Groups of Farmland](https://dev.to/zeeshanali0704/find-all-groups-of-farmland-36fm)
+- [FreeBSD for Devs #03](https://dev.to/scovl/freebsd-for-devs-03-4dhd)
+- [Stop using Try-Catch everywhere!](https://dev.to/yogeshgalav7/stop-using-try-catch-everywhere-30im)
+- [A Beginner&#39;s Guide to Creating a Basic HTML Front Page.](https://dev.to/saiprakash05/a-beginners-guide-to-creating-a-basic-html-front-page-478g)
 - [YOLO8 The basic functions for beginner!](https://dev.to/sachadee/yolo8-the-basic-functions-for-beginner-1k9)
-- [Unpacking Llama3: A Review of Latest AI Breakthroughs and Upgrades by Meta](https://dev.to/vishwa-ai/unpacking-llama3-a-review-of-latest-ai-breakthroughs-and-upgrades-by-meta-33do)
-- [Mentor Coze AI](https://dev.to/yowise/mentor-coze-ai-aao)
-- [Copia](https://dev.to/imnotleo/copia-49kn)
-- [ChatCraft Advenures #14: ChakraUI Troubles, My First Revert, and Final Recap](https://dev.to/rjwignar/chatcraft-advenures-14-chakraui-troubles-my-first-revert-and-final-recap-1iko)
 <!-- BLOG-POST-LIST:END -->
 
 ---
