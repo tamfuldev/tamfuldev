@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Recursion, it just works](https://dev.to/sokolan/recursion-it-just-works-j7p)
-- [Interview Question: Tell me about a product you launched successfully.](https://dev.to/alexr/tell-me-about-a-product-you-launched-successfully-mj7)
-- [Strange behavior of the code, problem with assigning styles after the animation on the element is finished](https://dev.to/zigglerpl/strange-behavior-of-the-code-problem-with-assigning-styles-after-the-animation-on-the-element-is-finished-4kgj)
-- [Factoring Learning Agility in Appraisals](https://dev.to/jobspikr123/factoring-learning-agility-in-appraisals-4852)
-- [How to add LOGIN with Google in your WEBAPPS using Passport](https://dev.to/dhyaneshsiddhartha15/how-to-add-login-with-google-in-your-webapps-using-passport-36i1)
+- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-244c)
+- [CSS Art 2024 Submission, Earth Day Edition Frontend Challenge](https://dev.to/johnx4321/css-art-2024-submission-earth-day-edition-frontend-challenge-26g6)
+- [Perplexity Playground: A hidden gem](https://dev.to/spandan/perplexity-playground-a-hidden-gem-2ok8)
+- [A Button to Rule Them All &lpar;copy&rpar;](https://dev.to/storychief/a-button-to-rule-them-all-copy-1i2a)
+- [Newbie](https://dev.to/sundus/newbie-4kmf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
