@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [You need a mobility routine](https://dev.to/exerciseinsights/you-need-a-mobility-routine-2ll4)
+- [Understanding Skeleton Loaders: A Guide to Content Loading in React 🦴](https://dev.to/ankitakanchan/understanding-skeleton-loaders-a-guide-to-content-loading-in-react-bc8)
+- [How to Build Email Server with Exim on Alma Linux 9](https://dev.to/budiantoip/how-to-build-email-server-with-exim-on-alma-linux-9-568e)
+- [Introduction](https://dev.to/budiantoip/introduction-3peh)
 - [Google is too powerful!](https://dev.to/kwnaidoo/google-is-too-powerful-4cgo)
-- [Why I Write.](https://dev.to/thejoernal/why-i-write-3kpm)
-- [Getting started with TiniJS framework](https://dev.to/lamnhan/getting-started-with-tinijs-framework-881)
-- [Cats Fatc&#39;s Quick project](https://dev.to/gurux3/cats-fatcs-quick-project-3ma)
-- [Understanding HTTP and HTTPS: How They Work and Secure Data Transmission](https://dev.to/mukulbindal/understanding-http-and-https-how-they-work-and-secure-data-transmission-15cc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
