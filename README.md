@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Análise de Barragens - Parte 1](https://dev.to/devsnorte/analise-de-barragens-parte-1-57fg)
-- [Integrating Java with Popular APIs: A Guide to Enhancing Your Applications](https://dev.to/dbillion/integrating-java-with-popular-apis-a-guide-to-enhancing-your-applications-15p9)
-- [Filament has unsaved change alert feature!](https://dev.to/rmitesh/filament-has-unsaved-change-alert-feature-1djj)
-- [CSS: Do this not this](https://dev.to/ezpieco/css-do-this-not-this-20nf)
-- [That Time I Installed Linux &lpar;Again&rpar; 🐧](https://dev.to/abdualblooshi/that-time-i-installed-linux-again-3bmi)
+- [Making Chatbot Applications with Dialogflow: My HackItTogether 2024 Project](https://dev.to/1grace/making-chatbot-applications-with-dialogflow-with-project-example-5dp7)
+- [Dockerizing Next.js](https://dev.to/renao/dockerizing-nextjs-2opd)
+- [Nodemon running error fixed!](https://dev.to/don_mizzy/nodemon-running-error-fixed-28l0)
+- [Selenium AI Automation: Image Processing with Gemini](https://dev.to/vishalmysore/selenium-ai-automation-image-processing-with-gemini-b3p)
+- [Kafka Consumer/producer monitoring metrics](https://dev.to/brajesh/kafka-consumerproducer-monitoring-metrics-47bc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
