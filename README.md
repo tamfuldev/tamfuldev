@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GETTING STARTED WITH HTML](https://dev.to/bbylumi/getting-started-with-html-38ei)
-- [Measuring performance](https://dev.to/efpage/measuring-performance-2ojj)
-- [Authentication with JWT Tokens in React and Express.js](https://dev.to/devloker/authentication-with-jwt-tokens-in-react-and-expressjs-5o9)
-- [Learn to create your own ROS2 Workspace, Custom Packages, Publisher and Subscriber.](https://dev.to/s_m/learn-to-create-your-own-ros2-workspace-custom-packages-publisher-and-subscriber-25ak)
-- [Learn ROS2 basics with a practical example i.e. using Turtlesim Simulation.](https://dev.to/s_m/learn-ros2-basics-with-a-practical-example-ie-using-turtlesim-simulation-2b2o)
+- [Yokai - a simple, modular and observable Go framework for backend applications.](https://dev.to/ekkinox/yokai-a-simple-modular-and-observable-go-framework-for-backend-applications-116j)
+- [Recreating a GIF with CSS: Earth Day Edition](https://dev.to/arndom/recreating-a-gif-with-css-earth-day-edition-3f5a)
+- [Docker and Kubernetes: Modern Deployment - RazorOps](https://dev.to/madhuk/docker-and-kubernetes-modern-deployment-razorops-5bmn)
+- [Docker and Kubernetes: Modern Deployment - RazorOps](https://dev.to/madhuk/docker-and-kubernetes-modern-deployment-razorops-3k7f)
+- [Tratando erros em promisse](https://dev.to/terminalcoffee/tratando-erros-em-promisse-4mh7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
