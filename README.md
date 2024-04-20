@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Making Chatbot Applications with Dialogflow: My HackItTogether 2024 Project](https://dev.to/1grace/making-chatbot-applications-with-dialogflow-with-project-example-5dp7)
-- [Dockerizing Next.js](https://dev.to/renao/dockerizing-nextjs-2opd)
-- [Nodemon running error fixed!](https://dev.to/don_mizzy/nodemon-running-error-fixed-28l0)
-- [Selenium AI Automation: Image Processing with Gemini](https://dev.to/vishalmysore/selenium-ai-automation-image-processing-with-gemini-b3p)
-- [Kafka Consumer/producer monitoring metrics](https://dev.to/brajesh/kafka-consumerproducer-monitoring-metrics-47bc)
+- [GETTING STARTED WITH HTML](https://dev.to/bbylumi/getting-started-with-html-38ei)
+- [Measuring performance](https://dev.to/efpage/measuring-performance-2ojj)
+- [Authentication with JWT Tokens in React and Express.js](https://dev.to/devloker/authentication-with-jwt-tokens-in-react-and-expressjs-5o9)
+- [Learn to create your own ROS2 Workspace, Custom Packages, Publisher and Subscriber.](https://dev.to/s_m/learn-to-create-your-own-ros2-workspace-custom-packages-publisher-and-subscriber-25ak)
+- [Learn ROS2 basics with a practical example i.e. using Turtlesim Simulation.](https://dev.to/s_m/learn-ros2-basics-with-a-practical-example-ie-using-turtlesim-simulation-2b2o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
