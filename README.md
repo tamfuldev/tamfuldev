@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [HTML &amp; Vue.js, a secrete you may not know about Vue](https://dev.to/kueiapp/html-vuejs-a-secrete-you-may-not-know-about-vue-n9d)
-- [Kubernetes Deployment with Ansible: A Comprehensive Guide to Bootstraping Kubernetes Clusters](https://dev.to/himaatluri/kubernetes-deployment-with-ansible-a-comprehensive-guide-to-bootstraping-kubernetes-clusters-2ebh)
-- [Concluding OSD700](https://dev.to/amnish04/concluding-osd700-3eoh)
-- [Improve Download Speeds with Concurrency](https://dev.to/amnish04/improve-download-speeds-with-concurrency-58hk)
-- [Earth](https://dev.to/elmerurbina/earth-36hk)
+- [Getting Weird: &quot;Hooks&quot; in React Class Components](https://dev.to/tamb/getting-weird-hooks-in-react-class-components-24le)
+- [Go](https://dev.to/risia2753/go-2oo4)
+- [Find if Path Exists in Graph](https://dev.to/zeeshanali0704/find-if-path-exists-in-graph-4hcg)
+- [Small talk TypeScript](https://dev.to/kueiapp/small-talk-typescript-56ep)
+- [Pioneer of JavaScript](https://dev.to/kueiapp/pioneer-of-javascript-2d61)
 <!-- BLOG-POST-LIST:END -->
 
 ---
