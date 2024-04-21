@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Discussion: whats your favorite framework](https://dev.to/dino2328/discussion-whats-your-favorite-framework-3jf9)
-- [Set up an Automation script with Ansible](https://dev.to/joykingoo/set-up-an-automation-script-with-ansible-2g4h)
-- [Help needed with subrouting in Go](https://dev.to/sainig/help-needed-with-subroutine-in-go-4obc)
-- [Difference between WHERE vs HAVING Clause in SQL](https://dev.to/somadevtoo/difference-between-where-vs-having-clause-in-sql-17g5)
-- [Is FaaS the Same as Serverless?](https://dev.to/firstfingerin/is-faas-the-same-as-serverless-h3k)
+- [DOING THE SAME APP IN 9 JAVASCRIPT FRAMEWORKS](https://dev.to/dino2328/doing-the-same-app-in-9-javascript-frameworks-4af0)
+- [React Native’s Flexbox: A Visual Guide](https://dev.to/codeparrot/react-natives-flexbox-a-visual-guide-34f3)
+- [How to Host a Static Website on Amazon S3](https://dev.to/mundianderi/how-to-host-a-static-website-on-amazon-s3-m9f)
+- [Using a Knowledge Base to Connect Amazon Bedrock to your Custom Data](https://dev.to/faye_ellis/using-a-knowledge-base-to-connect-amazon-bedrock-to-your-custom-data-2gd9)
+- [A KEYBOARD USING JUST HTML AND CSS](https://dev.to/dino2328/a-keyboard-using-just-html-and-css-54nb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
