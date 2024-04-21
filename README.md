@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DOING THE SAME APP IN 9 JAVASCRIPT FRAMEWORKS](https://dev.to/dino2328/doing-the-same-app-in-9-javascript-frameworks-4af0)
-- [React Native’s Flexbox: A Visual Guide](https://dev.to/codeparrot/react-natives-flexbox-a-visual-guide-34f3)
-- [How to Host a Static Website on Amazon S3](https://dev.to/mundianderi/how-to-host-a-static-website-on-amazon-s3-m9f)
-- [Using a Knowledge Base to Connect Amazon Bedrock to your Custom Data](https://dev.to/faye_ellis/using-a-knowledge-base-to-connect-amazon-bedrock-to-your-custom-data-2gd9)
-- [A KEYBOARD USING JUST HTML AND CSS](https://dev.to/dino2328/a-keyboard-using-just-html-and-css-54nb)
+- [Essential Git Commands: A Developer’s Guide](https://dev.to/satyakoidala/essential-git-commands-a-developers-guide-4cd2)
+- [Enhancing React App Security: Implementing Inactivity Logout for Peace of Mind](https://dev.to/ingeniouswebster/enhancing-react-app-security-implementing-inactivity-logout-for-peace-of-mind-3nol)
+- [User browser vs. Puppeteer](https://dev.to/adaschevici/user-browser-vs-puppeteer-3a2e)
+- [TESTING TECHNIQUES](https://dev.to/revathykarthik/testing-techniques-58fe)
+- [Clean Code: Definition and Principles - Part 2](https://dev.to/tahsinsoyak/clean-code-definition-and-principles-part-2-1lh5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
