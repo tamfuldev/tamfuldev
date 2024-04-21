@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 2 - SIRF &lpar;Research Congress&rpar;](https://dev.to/kmirafuentes/day-2-sirf-research-congress-43h)
-- [Angular Directive Selector](https://dev.to/nhannguyendevjs/angular-directive-selector-5dna)
-- [software testing and its relevance](https://dev.to/revathykarthik/software-testing-and-its-relevance-47i9)
-- [Quick Tip: Nuxt &amp; Storyblok Error Handling &lpar;e.g. 404&rpar;](https://dev.to/areindl/quick-tip-nuxt-storyblok-error-handling-eg-404-45fh)
-- [Getting started with Open SaaS](https://dev.to/rbatista19/getting-started-with-open-saas-2gnb)
+- [How to Visualize and Analyze Data in Open Source Communities](https://dev.to/justlorain/how-to-visualize-and-analyze-data-in-open-source-communities-1l35)
+- [Feeling overwhelmed by technical articles? Let&#39;s find a solution](https://dev.to/this-is-learning/feeling-overwhelmed-by-technical-articles-lets-find-a-solution-3cn2)
+- [Decoding JavaScript Variables: A Comprehensive Overview](https://dev.to/shaonkabir8/decoding-javascript-variables-a-comprehensive-overview-948)
+- [Php features: Attributes](https://dev.to/xwero/php-features-attributes-32p6)
+- [Self taught developers should avoid these traps](https://dev.to/shubhsharma19/self-taught-developers-should-avoid-these-traps-1fgi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
