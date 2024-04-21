@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Essential Git Commands: A Developer’s Guide](https://dev.to/satyakoidala/essential-git-commands-a-developers-guide-4cd2)
-- [Enhancing React App Security: Implementing Inactivity Logout for Peace of Mind](https://dev.to/ingeniouswebster/enhancing-react-app-security-implementing-inactivity-logout-for-peace-of-mind-3nol)
-- [User browser vs. Puppeteer](https://dev.to/adaschevici/user-browser-vs-puppeteer-3a2e)
-- [TESTING TECHNIQUES](https://dev.to/revathykarthik/testing-techniques-58fe)
-- [Clean Code: Definition and Principles - Part 2](https://dev.to/tahsinsoyak/clean-code-definition-and-principles-part-2-1lh5)
+- [Employee Management System using Python.](https://dev.to/spiff/employee-management-system-using-python-101a)
+- [CSS Cascade, Specificity, and Selectors](https://dev.to/stephaniedev/css-cascade-specificity-and-selectors-2jan)
+- [Bridging Tech and Fashion](https://dev.to/k7x667/bridging-tech-and-fashion-3f9p)
+- [How to Persist User Data with LocalStorage in Vue](https://dev.to/alexanderop/how-to-persist-user-data-with-localstorage-in-vue-12h4)
+- [Jakarta Persistence API &lpar;JPA&rpar; example application: Northwind sample database](https://dev.to/saladlam/jakarta-persistence-api-jpa-example-application-northwind-sample-database-1n7m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
