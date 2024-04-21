@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Weird: &quot;Hooks&quot; in React Class Components](https://dev.to/tamb/getting-weird-hooks-in-react-class-components-24le)
-- [Go](https://dev.to/risia2753/go-2oo4)
-- [Find if Path Exists in Graph](https://dev.to/zeeshanali0704/find-if-path-exists-in-graph-4hcg)
-- [Small talk TypeScript](https://dev.to/kueiapp/small-talk-typescript-56ep)
-- [Pioneer of JavaScript](https://dev.to/kueiapp/pioneer-of-javascript-2d61)
+- [Roles and Responsibilities Matrix](https://dev.to/smashse/roles-and-responsibilities-matrix-527p)
+- [SVGs in React &lpar;almost everything you need to know&rpar;](https://dev.to/vavilov2212/svgs-in-react-almost-everything-you-need-to-know-1nb4)
+- [MiniScript Roundup #22](https://dev.to/synapticbytes/miniscript-roundup-22-1b39)
+- [The Tale of Tailwind CSS and React](https://dev.to/kigazon/the-tale-of-tailwind-css-and-react-a92)
+- [Title: Enhancing Continuous Integration with Jenkins: A DevOps Community Perspective](https://dev.to/amitkolekar/title-enhancing-continuous-integration-with-jenkins-a-devops-community-perspective-5gda)
 <!-- BLOG-POST-LIST:END -->
 
 ---
