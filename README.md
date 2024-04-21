@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Yokai - a simple, modular and observable Go framework for backend applications.](https://dev.to/ekkinox/yokai-a-simple-modular-and-observable-go-framework-for-backend-applications-116j)
-- [Recreating a GIF with CSS: Earth Day Edition](https://dev.to/arndom/recreating-a-gif-with-css-earth-day-edition-3f5a)
-- [Docker and Kubernetes: Modern Deployment - RazorOps](https://dev.to/madhuk/docker-and-kubernetes-modern-deployment-razorops-5bmn)
-- [Docker and Kubernetes: Modern Deployment - RazorOps](https://dev.to/madhuk/docker-and-kubernetes-modern-deployment-razorops-3k7f)
-- [Tratando erros em promisse](https://dev.to/terminalcoffee/tratando-erros-em-promisse-4mh7)
+- [What React beginners should know about React 19 first.](https://dev.to/jamescroissant/what-react-beginners-should-know-about-react-19-first-4n4n)
+- [Software Samurai](https://dev.to/cheetah100/software-samurai-h3o)
+- [Content Delivery Network Explained 🌎⚡️](https://dev.to/iamdevmarcos/content-delivery-network-explained-5cpf)
+- [Exploring the AI Evolution: A Timeline of Key Milestones From 2022 until today](https://dev.to/nhlocal/exploring-the-ai-evolution-a-timeline-of-key-milestones-from-2022-until-today-1a1c)
+- [Hacker News Coze Plugin](https://dev.to/walter0/hacker-news-coze-plugin-16hk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
