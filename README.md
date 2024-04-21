@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Visualize and Analyze Data in Open Source Communities](https://dev.to/justlorain/how-to-visualize-and-analyze-data-in-open-source-communities-1l35)
-- [Feeling overwhelmed by technical articles? Let&#39;s find a solution](https://dev.to/this-is-learning/feeling-overwhelmed-by-technical-articles-lets-find-a-solution-3cn2)
-- [Decoding JavaScript Variables: A Comprehensive Overview](https://dev.to/shaonkabir8/decoding-javascript-variables-a-comprehensive-overview-948)
-- [Php features: Attributes](https://dev.to/xwero/php-features-attributes-32p6)
-- [Self taught developers should avoid these traps](https://dev.to/shubhsharma19/self-taught-developers-should-avoid-these-traps-1fgi)
+- [Date Function in Javascript](https://dev.to/itsvinayak/date-function-in-javascript-57if)
+- [Angular Event Modifier](https://dev.to/wszgrcy/angular-event-modifier-5c3)
+- [Creating a GitHub Repository Collection Using GitHub Lists ✨](https://dev.to/sh20raj/creating-a-github-repository-collection-using-github-lists-1mlg)
+- [Unleash Your Productivity: Embrace the Power of Linux OS](https://dev.to/emmanuelbinen/unleash-your-productivity-embrace-the-power-of-linux-os-1ogk)
+- [Petals: A Step Towards Decentralized AI](https://dev.to/gssakash/petals-a-step-towards-decentralized-ai-4op9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
