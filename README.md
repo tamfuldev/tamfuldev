@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Optimize Your Website for Optimal Performance](https://dev.to/tomiloba2/how-to-optimize-your-website-for-optimal-performance-466n)
-- [Creating, Compiling, and Executing a Java Program](https://dev.to/paulike/creating-compiling-and-executing-a-java-program-4am9)
-- [Unveiling the Mighty Mini: Your Guide to Svelte Mini Apps](https://dev.to/dev_michael/introduction-welcome-to-the-world-of-svelte-mini-apps-3il0)
-- [Introducing LazyKit for JavaScript &amp; TypeScript](https://dev.to/jrtilak/introducing-lazykit-for-javascript-typescript-14gl)
-- [Building a Better RAG: A Practical Guide to Two-Step Retrieval with LangChain](https://dev.to/ahgsql/building-a-better-rag-a-practical-guide-to-two-step-retrieval-with-langchain-3d9m)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-55po)
+- [ATLSECCON 2024: Navigating the Future of Cybersecurity in Halifax](https://dev.to/gitguardian/atlseccon-2024-navigating-the-future-of-cybersecurity-in-halifax-3pm2)
+- [Top 10 Java Frameworks Every Developer Should Know About](https://dev.to/shahid6289/top-10-java-frameworks-every-developer-should-know-about-54kj)
+- [Programming Errors](https://dev.to/paulike/programming-errors-2760)
+- [Mastering LangChain: Part 1 - Introduction to LangChain and Its Key Components](https://dev.to/jamesbmour/mastering-langchain-part-1-introduction-to-langchain-and-its-key-components-4jji)
 <!-- BLOG-POST-LIST:END -->
 
 ---
