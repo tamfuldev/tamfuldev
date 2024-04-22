@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Unity Dev post 7](https://dev.to/timwatsonnz/unity-dev-post-7-3hm9)
-- [Supercharging Rails: Enabling Ruby&#39;s YJIT Compiler in Production](https://dev.to/colinsoleim/supercharging-rails-enabling-rubys-yjit-compiler-in-production-56o0)
-- [11章2](https://dev.to/aaattt/11zhang-2-16be)
-- [Creating Custom Validation Rules in Laravel](https://dev.to/rayiumir/creating-custom-validation-rules-in-laravel-48ec)
-- [Lossless Acceleration of Large Language Model via Adaptive N-gram Parallel Decoding](https://dev.to/mikeyoung44/lossless-acceleration-of-large-language-model-via-adaptive-n-gram-parallel-decoding-cpc)
+- [Go history](https://dev.to/igorcastilhos/go-history-5184)
+- [SAP Basis Snippets #2](https://dev.to/ashwinsharmap/sap-basis-snippets-2-4i97)
+- [Raspberry Pi](https://dev.to/allyn/raspberry-pi-4bgd)
+- [Integrating Rails Backend with React Frontend](https://dev.to/leoneloliver/integrating-rails-backend-with-react-frontend-h3b)
+- [dsplit&lpar;&rpar; and tensor_split&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/dsplit-and-tensorsplit-in-pytorch-1837)
 <!-- BLOG-POST-LIST:END -->
 
 ---
