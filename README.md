@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [752. Open the Lock](https://dev.to/mdarifulhaque/752-open-the-lock-562h)
-- [Basic Concepts in Programming](https://dev.to/musaaj/basic-concepts-in-programming-5d40)
-- [COO of open source tool chats about his POV](https://dev.to/jenwikehuger/coo-of-open-source-tool-chats-about-his-pov-2f63)
-- [AWS Under the Hood - Day 1](https://dev.to/lakhera2015/aws-under-the-hood-day-1-271l)
-- [I switch from Eslint to Biome](https://dev.to/amiceli/i-switch-from-eslint-to-biome-3bem)
+- [Day 949 : Flight Confirmation](https://dev.to/dwane/day-949-flight-confirmation-1fd2)
+- [Meet Cheryl Murphy: Full-Stack Developer, lifelong learner, and volunteer Project Team Lead at Web Dev Path](https://dev.to/wdp/meet-cheryl-murphy-full-stack-developer-lifelong-learner-and-volunteer-project-team-lead-at-web-dev-path-707)
+- [Leveraging Mob Programming for Knowledge Sharing and Instant Code Review](https://dev.to/ivan-klimenkov/leveraging-mob-programming-for-knowledge-sharing-and-instant-code-review-23g9)
+- [12章１３](https://dev.to/aaattt/12zhang-13-2d99)
+- [1971. Find if Path Exists in Graph](https://dev.to/mdarifulhaque/1971-find-if-path-exists-in-graph-18oj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
