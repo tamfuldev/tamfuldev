@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Power Apps - Requirements](https://dev.to/wyattdave/power-apps-requirements-2kca)
-- [Pinescript code for a basic Support and Resistance &lpar;S/R&rpar; indicator](https://dev.to/epakconsultant/pinescript-code-for-a-basic-support-and-resistance-sr-indicator-26dd)
-- [Unlocking Economical Potential: Low-Cost cPanel Hosting Options](https://dev.to/maroon5/unlocking-economical-potential-low-cost-cpanel-hosting-options-1idm)
-- [Unleashing AWS CDK: A Developer&#39;s Gateway to Cloud Infrastructure](https://dev.to/rikinptl/unleashing-aws-cdk-a-developers-gateway-to-cloud-infrastructure-3bg6)
-- [Boosting Reach: The Benefits of Using SMTP Server for Bulk Mailing](https://dev.to/brettjhonson01/boosting-reach-the-benefits-of-using-smtp-server-for-bulk-mailing-58h5)
+- [How Are You Celebrating Earth Day? 🌱💧](https://dev.to/devteam/how-are-you-celebrating-earth-day-29aa)
+- [PostgreSQL and NoSQL Capabilities with JSON and JSONB](https://dev.to/dbvismarketing/postgresql-and-nosql-capabilities-with-json-and-jsonb-54i)
+- [One LLaMa to rule them all](https://dev.to/giuliano1993/one-llama-to-rule-them-all-2je8)
+- [Simplifying Network Administration: BGP Route Servers&#39; Function in the Internet Ecosystem](https://dev.to/decix/simplifying-network-administration-bgp-route-servers-function-in-the-internet-ecosystem-nod)
+- [Revamping a Stagnant Website: A Successful Redesign Case Study](https://dev.to/juc/revamping-a-stagnant-website-a-successful-redesign-case-study-4a5c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
