@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mobile App Navigation: Patterns and Examples for 2023](https://dev.to/pepper_square/mobile-app-navigation-patterns-and-examples-for-2023-3cf9)
-- [Custom Carousel Widget - Flutter News 2024 #16 ʚїɞ](https://dev.to/lucianojung/flutter-news-2024-16-eyie-1m83)
-- [PROM- Architecture](https://dev.to/anhphan2024/prom-architecture-1f47)
-- [I built a game using ChatGPT in 2 weeks that made $10,000](https://dev.to/anulagarwal12/i-built-a-game-using-chatgpt-in-2-weeks-that-made-10000-1n2i)
-- [Mastering Front-End Development: Creating LTR/RTL Layouts - A Comprehensive Guide](https://dev.to/epakconsultant/mastering-front-end-development-creating-ltrrtl-layouts-a-comprehensive-guide-24ec)
+- [Power Apps - Requirements](https://dev.to/wyattdave/power-apps-requirements-2kca)
+- [Pinescript code for a basic Support and Resistance &lpar;S/R&rpar; indicator](https://dev.to/epakconsultant/pinescript-code-for-a-basic-support-and-resistance-sr-indicator-26dd)
+- [Unlocking Economical Potential: Low-Cost cPanel Hosting Options](https://dev.to/maroon5/unlocking-economical-potential-low-cost-cpanel-hosting-options-1idm)
+- [Unleashing AWS CDK: A Developer&#39;s Gateway to Cloud Infrastructure](https://dev.to/rikinptl/unleashing-aws-cdk-a-developers-gateway-to-cloud-infrastructure-3bg6)
+- [Boosting Reach: The Benefits of Using SMTP Server for Bulk Mailing](https://dev.to/brettjhonson01/boosting-reach-the-benefits-of-using-smtp-server-for-bulk-mailing-58h5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
