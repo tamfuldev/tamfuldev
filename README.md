@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-55po)
-- [ATLSECCON 2024: Navigating the Future of Cybersecurity in Halifax](https://dev.to/gitguardian/atlseccon-2024-navigating-the-future-of-cybersecurity-in-halifax-3pm2)
-- [Top 10 Java Frameworks Every Developer Should Know About](https://dev.to/shahid6289/top-10-java-frameworks-every-developer-should-know-about-54kj)
-- [Programming Errors](https://dev.to/paulike/programming-errors-2760)
-- [Mastering LangChain: Part 1 - Introduction to LangChain and Its Key Components](https://dev.to/jamesbmour/mastering-langchain-part-1-introduction-to-langchain-and-its-key-components-4jji)
+- [752. Open the Lock](https://dev.to/mdarifulhaque/752-open-the-lock-562h)
+- [Basic Concepts in Programming](https://dev.to/musaaj/basic-concepts-in-programming-5d40)
+- [COO of open source tool chats about his POV](https://dev.to/jenwikehuger/coo-of-open-source-tool-chats-about-his-pov-2f63)
+- [AWS Under the Hood - Day 1](https://dev.to/lakhera2015/aws-under-the-hood-day-1-271l)
+- [I switch from Eslint to Biome](https://dev.to/amiceli/i-switch-from-eslint-to-biome-3bem)
 <!-- BLOG-POST-LIST:END -->
 
 ---
