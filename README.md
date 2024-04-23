@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What is Kubectl?](https://dev.to/getambassador2024/what-is-kubectl-3309)
-- [Build A Public API with Supabase in 10 Minutes](https://dev.to/psteinroe/build-a-public-api-with-supabase-in-10-minutes-2947)
-- [Being Sustainable on the Power Platform](https://dev.to/wyattdave/being-sustainable-on-the-power-platform-23h7)
-- [How can I update a class component in SyncLane?](https://dev.to/jzhan/how-can-i-update-a-class-component-in-synclane-13k2)
-- [React Carousel](https://dev.to/vimal_adithan/react-carousel-23nb)
+- [Are You Surviving the Software Rollercoaster?](https://dev.to/devteam/are-you-surviving-the-software-rollercoaster-19n2)
+- [What&#39;s the Best Question to Ask in a Meeting?](https://dev.to/devteam/whats-the-best-question-to-ask-in-a-meeting-4fm5)
+- [Unlocking Developer Engagement: The Open-Source Community Playbook](https://dev.to/vauntdev/unlocking-developer-engagement-the-open-source-community-playbook-22ha)
+- [Traditional crawler or AI-assisted crawler? How to choose?](https://dev.to/coderhxl/traditional-crawler-or-ai-assisted-crawler-how-to-choose-46cc)
+- [Enhancing JavaScript with Promise.withResolvers&lpar;&rpar;](https://dev.to/bgdnvarlamov/enhancing-javascript-with-promisewithresolvers-3nlm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
