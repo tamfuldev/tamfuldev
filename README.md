@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [API Key Authentication Middleware In ASP NET Core – A How To Guide](https://dev.to/devleader/api-key-authentication-middleware-in-asp-net-core-a-how-to-guide-2ol9)
-- [React Pure Components](https://dev.to/fatimaalam1234/react-pure-components-32b2)
-- [REST API](https://dev.to/tmrifat87/rest-api-2j0e)
-- [Data Engineering - Practicing for fun](https://dev.to/dentrodailha96/data-engineering-practing-for-fun-178h)
-- [graph](https://dev.to/imnotleo/graph-4l4f)
+- [React Hooks Deep Dive](https://dev.to/mario130/react-hooks-deep-dive-1621)
+- [My last project for 100 React projects in 100 days](https://dev.to/jwhubert91/my-last-project-for-100-react-projects-in-100-days-2el8)
+- [How To Make An Insanely Fast AI App &lpar;Supabase, LLAMA 3 and Groq&rpar;](https://dev.to/isheanesu_dev/how-to-make-an-insanely-fast-ai-app-supabase-llama-3-and-groq-g22)
+- [Bas&#39; Take on Tech: Edge Computing, Digital Markets Act, Job Data](https://dev.to/bascodes/bas-take-on-tech-edge-computing-digital-markets-act-job-data-46km)
+- [Runme Gist: A Pastebin for Terminals Inside Your Docs](https://dev.to/sourishkrout/runme-gist-a-pastebin-for-terminals-inside-your-docs-5h07)
 <!-- BLOG-POST-LIST:END -->
 
 ---
