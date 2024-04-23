@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Sometimes things simply don&#39;t work](https://dev.to/adaschevici/sometimes-things-simply-dont-work-10cf)
-- [Understanding Reconciliation in ReactJs - Keeping the Virtual DOM and the Real DOM in Sync.](https://dev.to/ashsajal/understanding-reconciliation-in-reactjs-keeping-the-virtual-dom-and-the-real-dom-in-sync-25f4)
-- [L&#39;Utilité de ChatGPT Français : Un Essai par Boogie Beckman](https://dev.to/chatgptfr/lutilite-de-chatgpt-francais-un-essai-par-boogie-beckman-4gml)
-- [Beyond Code Generation: Crafting Custom Hive Adapters](https://dev.to/dinko7/beyond-code-generation-crafting-custom-hive-adapters-1p33)
-- [Step-by-Step Guide to Setting Up Let&#39;s Encrypt SSL on Nginx for Ubuntu](https://dev.to/sotergreco/step-by-step-guide-to-setting-up-lets-encrypt-ssl-on-nginx-for-ubuntu-1eg2)
+- [GEMINI 💎 VS CHATGPT ⚔️](https://dev.to/mince/gemini-vs-chatgpt-1eia)
+- [Everything You Need to Know About OpenAPI](https://dev.to/speakeasy/everything-you-need-to-know-about-openapi-17mh)
+- [🚀 21 Tools to take your dev skills to the moon 🌝](https://dev.to/taipy/21-tools-to-take-your-dev-skills-to-the-moon-53mf)
+- [Developing VTable Custom Edit Component with React](https://dev.to/xuanhun/developing-vtable-custom-edit-component-with-react-3l7i)
+- [Prometheus Server](https://dev.to/anhphan2024/prometheus-server-4p93)
 <!-- BLOG-POST-LIST:END -->
 
 ---
