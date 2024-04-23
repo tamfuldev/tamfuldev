@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [React Hooks Deep Dive](https://dev.to/mario130/react-hooks-deep-dive-1621)
-- [My last project for 100 React projects in 100 days](https://dev.to/jwhubert91/my-last-project-for-100-react-projects-in-100-days-2el8)
-- [How To Make An Insanely Fast AI App &lpar;Supabase, LLAMA 3 and Groq&rpar;](https://dev.to/isheanesu_dev/how-to-make-an-insanely-fast-ai-app-supabase-llama-3-and-groq-g22)
-- [Bas&#39; Take on Tech: Edge Computing, Digital Markets Act, Job Data](https://dev.to/bascodes/bas-take-on-tech-edge-computing-digital-markets-act-job-data-46km)
-- [Runme Gist: A Pastebin for Terminals Inside Your Docs](https://dev.to/sourishkrout/runme-gist-a-pastebin-for-terminals-inside-your-docs-5h07)
+- [Open Source Manifesto](https://dev.to/opensourceadvocate/open-source-manifesto-3f0b)
+- [RESTful API: Essential Question &amp; Answers](https://dev.to/princem/restful-api-essential-question-answers-2e8)
+- [spring into spring: basics, API, beans](https://dev.to/ashleyd480/spring-into-spring-basics-api-beans-1dbo)
+- [sum&lpar;&rpar;, prod&lpar;&rpar; and cartesian_prod&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/sum-prod-and-cartesianprod-in-pytorch-22li)
+- [começando à aprender Java](https://dev.to/darcii/comecando-a-aprender-java-3cif)
 <!-- BLOG-POST-LIST:END -->
 
 ---
