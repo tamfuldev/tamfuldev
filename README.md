@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Priority Poker ♣️🃏](https://dev.to/mattlewandowski93/priority-poker-28g4)
-- [Issue 41 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-41-of-aws-cloud-security-weekly-4epo)
-- [Input field validation for forms: A checklist from a designer to a dev with love](https://dev.to/mwanahamuntu_/input-field-validation-for-forms-a-checklist-from-a-designer-to-a-dev-with-love-1c2h)
-- [CRUD Laravel 10 dan Bootstrap 5 #1: Persiapan Awal](https://dev.to/risekucom/crud-laravel-10-dan-bootstrap-5-1-persiapan-awal-4jcl)
-- [Code Like DOOM Guy](https://dev.to/chigbeef_77/code-like-doom-guy-2o7g)
+- [Stop Using the var Keyword!](https://dev.to/michaeljolley/stop-using-the-var-keyword-4ml0)
+- [Delegation is the last thing managers should do](https://dev.to/vietdt89/delegation-is-the-last-thing-managers-should-do-3af0)
+- [🎮📊 Developing Esports OpenAPI Schema: How to integrate SportDevs API?](https://dev.to/marsenikolw3/developing-esports-openapi-schema-how-to-integrate-sportdevs-api-4142)
+- [Cloud Resume Challenge](https://dev.to/gnarlylasagna/cloud-resume-challenge-2jik)
+- [１２章17](https://dev.to/aaattt/12zhang-17-252i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
