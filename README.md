@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Tipos de Aprendizado de Máquina](https://dev.to/analaura/tipos-de-aprendizado-de-maquina-2205)
-- [Despliega una Infraestructura de Red AWS Robusta con Terraform](https://dev.to/francotel/despliega-una-infraestructura-de-red-aws-robusta-con-terraform-440e)
-- [How to measure GitOps success?](https://dev.to/prasannajatla/how-to-measure-gitops-success-3cjj)
-- [Immutable Infrastructure and GitOps](https://dev.to/prasannajatla/immutable-infrastructure-and-gitops-52in)
-- [Mitigating the iconv Vulnerability for PHP &lpar;CVE-2024-2961&rpar;](https://dev.to/garrettmills/mitigating-the-iconv-vulnerability-for-php-cve-2024-2961-44ha)
+- [MobX Mayhem: State Management for the Wicked](https://dev.to/kigazon/mobx-mayhem-state-management-for-the-wicked-nf8)
+- [Mastering the Art of Engagement: Adding Push Notifications to your Flutter App](https://dev.to/epakconsultant/mastering-the-art-of-engagement-adding-push-notifications-to-your-flutter-app-2439)
+- [Creating a React and Typescript app with Webpack](https://dev.to/arpitmalik832/creating-a-react-and-typescript-app-with-webpack-2nc7)
+- [O mito de Sísifo e a busca pela constância](https://dev.to/gbiz0/o-mito-de-sisifo-e-a-busca-pela-constancia-1cm2)
+- [Build a Music Player App using Flutter](https://dev.to/epakconsultant/build-a-music-player-app-using-flutter-1246)
 <!-- BLOG-POST-LIST:END -->
 
 ---
