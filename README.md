@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Rails Designer v0.10.0 released: Stats and Tabs](https://dev.to/railsdesigner/rails-designer-v0100-released-stats-and-tabs-4epb)
-- [Reusing Umbraco Properties in Umbraco v14](https://dev.to/mattbrailsford/reusing-umbraco-properties-in-umbraco-v14-15b7)
-- [Let&#39;s talk about EPIC and USER STORIES](https://dev.to/akshara_chandran_0f2b21d7/lets-talk-about-epic-and-user-stories-3mlc)
-- [Let&#39;s talk a bit about AGILE METHODOLOGY](https://dev.to/akshara_chandran_0f2b21d7/lets-talk-a-bit-about-agile-methodology-259a)
-- [From Zero to CRUD Hero: Building Your First Backend API in JavaScript](https://dev.to/codexive_zech/from-zero-to-crud-hero-building-your-first-backend-api-in-javascript-238n)
+- [Sometimes things simply don&#39;t work](https://dev.to/adaschevici/sometimes-things-simply-dont-work-10cf)
+- [Understanding Reconciliation in ReactJs - Keeping the Virtual DOM and the Real DOM in Sync.](https://dev.to/ashsajal/understanding-reconciliation-in-reactjs-keeping-the-virtual-dom-and-the-real-dom-in-sync-25f4)
+- [L&#39;Utilité de ChatGPT Français : Un Essai par Boogie Beckman](https://dev.to/chatgptfr/lutilite-de-chatgpt-francais-un-essai-par-boogie-beckman-4gml)
+- [Beyond Code Generation: Crafting Custom Hive Adapters](https://dev.to/dinko7/beyond-code-generation-crafting-custom-hive-adapters-1p33)
+- [Step-by-Step Guide to Setting Up Let&#39;s Encrypt SSL on Nginx for Ubuntu](https://dev.to/sotergreco/step-by-step-guide-to-setting-up-lets-encrypt-ssl-on-nginx-for-ubuntu-1eg2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
