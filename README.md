@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 949 : Flight Confirmation](https://dev.to/dwane/day-949-flight-confirmation-1fd2)
-- [Meet Cheryl Murphy: Full-Stack Developer, lifelong learner, and volunteer Project Team Lead at Web Dev Path](https://dev.to/wdp/meet-cheryl-murphy-full-stack-developer-lifelong-learner-and-volunteer-project-team-lead-at-web-dev-path-707)
-- [Leveraging Mob Programming for Knowledge Sharing and Instant Code Review](https://dev.to/ivan-klimenkov/leveraging-mob-programming-for-knowledge-sharing-and-instant-code-review-23g9)
-- [12章１３](https://dev.to/aaattt/12zhang-13-2d99)
-- [1971. Find if Path Exists in Graph](https://dev.to/mdarifulhaque/1971-find-if-path-exists-in-graph-18oj)
+- [Priority Poker ♣️🃏](https://dev.to/mattlewandowski93/priority-poker-28g4)
+- [Issue 41 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-41-of-aws-cloud-security-weekly-4epo)
+- [Input field validation for forms: A checklist from a designer to a dev with love](https://dev.to/mwanahamuntu_/input-field-validation-for-forms-a-checklist-from-a-designer-to-a-dev-with-love-1c2h)
+- [CRUD Laravel 10 dan Bootstrap 5 #1: Persiapan Awal](https://dev.to/risekucom/crud-laravel-10-dan-bootstrap-5-1-persiapan-awal-4jcl)
+- [Code Like DOOM Guy](https://dev.to/chigbeef_77/code-like-doom-guy-2o7g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
