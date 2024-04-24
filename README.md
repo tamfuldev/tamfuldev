@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [rot90&lpar;&rpar; and roll&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/rot90-and-roll-in-pytorch-cpl)
-- [Making The Best Use of DevTools](https://dev.to/christopherchhim/making-the-best-use-of-devtools-181m)
-- [GIT for Beginners](https://dev.to/nerdflash28/git-for-beginners-2hb9)
-- [Week 1: New NOTR Server - Containerization and Data Storage](https://dev.to/aldoportillo/week-1-new-notr-server-containerization-and-data-storage-3n72)
-- [Read csv file using Golang](https://dev.to/santoshanand/read-csv-file-using-golang-2a7m)
+- [&#39;La cocotera&#39;, the Rota Spring Fair booth that you cannot miss this year](https://dev.to/mackness1478/la-cocotera-the-rota-spring-fair-booth-that-you-cannot-miss-this-year-5hh8)
+- [Top 5 Enterprise Software Development Trends for 2024](https://dev.to/kmoda1202/top-5-enterprise-software-development-trends-for-2024-1f8c)
+- [Texted with HTML support released](https://dev.to/thiagomg/texted-with-html-support-released-15gf)
+- [What Is AngularJS? Meaning, Working, Benefits, and Challenges](https://dev.to/hirelaraveldevelopers/what-is-angularjs-meaning-working-benefits-and-challenges-56a9)
+- [The Currency of Connectivity: Exploring Exchange Rate REST APIs](https://dev.to/sameeranthony/the-currency-of-connectivity-exploring-exchange-rate-rest-apis-43nd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
