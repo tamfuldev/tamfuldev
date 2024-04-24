@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Handling Video Streaming and Byte Range Requests in PHP](https://dev.to/sh20raj/handling-video-streaming-and-byte-range-requests-in-php-3337)
-- [API Gateways in Zuplo – Creating an ASCII Art API](https://dev.to/devleader/api-gateways-in-zuplo-creating-an-ascii-art-api-4gle)
-- [PM built another productivity timer](https://dev.to/alexgerasim/pm-built-another-productivity-timer-38ab)
-- [AWS Under the Hood - Day 4](https://dev.to/lakhera2015/aws-under-the-hood-day-4-22eb)
-- [Levantando um SQL Server RDS em AWS](https://dev.to/bccaxias/levantando-um-sql-server-rds-em-aws-31fe)
+- [Mastering Conversations: A Guide to Building and Using a Java-Based Chat &lpar;StarChat&rpar; with IRIS Cloud SQL.](https://dev.to/intersystems/mastering-conversations-a-guide-to-building-and-using-a-java-based-chat-starchat-with-iris-cloud-sql-4gok)
+- [What&#39;s stopping you from coding like this...?](https://dev.to/josefine/whats-stopping-you-from-coding-like-this-58l7)
+- [GraphQL: The Future of APIs and the Exciting Road Ahead](https://dev.to/vaibhav-solanki/graphql-the-future-of-apis-and-the-exciting-road-ahead-33bb)
+- [Pandas for KPIs in InterSystems IRIS BI](https://dev.to/intersystems/pandas-for-kpis-in-intersystems-iris-bi-2ep)
+- [Native Popover API in HTML](https://dev.to/saranshk/native-popover-api-in-html-4kce)
 <!-- BLOG-POST-LIST:END -->
 
 ---
