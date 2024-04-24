@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Conversations: A Guide to Building and Using a Java-Based Chat &lpar;StarChat&rpar; with IRIS Cloud SQL.](https://dev.to/intersystems/mastering-conversations-a-guide-to-building-and-using-a-java-based-chat-starchat-with-iris-cloud-sql-4gok)
-- [What&#39;s stopping you from coding like this...?](https://dev.to/josefine/whats-stopping-you-from-coding-like-this-58l7)
-- [GraphQL: The Future of APIs and the Exciting Road Ahead](https://dev.to/vaibhav-solanki/graphql-the-future-of-apis-and-the-exciting-road-ahead-33bb)
-- [Pandas for KPIs in InterSystems IRIS BI](https://dev.to/intersystems/pandas-for-kpis-in-intersystems-iris-bi-2ep)
-- [Native Popover API in HTML](https://dev.to/saranshk/native-popover-api-in-html-4kce)
+- [📐 Gap vs. Margin: Rethinking Spacing in CSS](https://dev.to/adam/gap-vs-margin-rethinking-spacing-in-css-36jc)
+- [Rubber Ducker - GPT + 🦆💻](https://dev.to/salika_dave/rubber-ducker-gpt--2bcm)
+- [OracleBootCamp - 5 May 2024](https://dev.to/nabhaas/oraclebootcamp-5-may-2024-5f0)
+- [Why don’t we talk about minifying CSS anymore?](https://dev.to/whitep4nth3r/why-dont-we-talk-about-minifying-css-anymore-18cj)
+- [TimeBox](https://dev.to/davidjenner/timebox-27fg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
