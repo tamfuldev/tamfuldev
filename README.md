@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Go program pattern 02: Implementing Class Inheritance and Method Overriding through Composition](https://dev.to/huizhou92/go-program-pattern-02-implementing-class-inheritance-and-method-overriding-through-composition-313i)
-- [Unveiling Insights into Project Management Software and its Demographics](https://dev.to/olivier32621338/unveiling-insights-into-project-management-software-and-its-demographics-3b12)
-- [1 Common Mistake Junior Developers Make](https://dev.to/annoh_karlgusta/1-common-mistake-junior-developers-make-3m7g)
-- [Laravel: Pengenalan Fitur Reverb Di Laravel](https://dev.to/aditiyadwiramadani88/laravel-pengenalan-fitur-reverb-di-laravel-3iic)
-- [Empower your Projects with Face Recognition SDK: 9 Must-Have Features for Developers](https://dev.to/faceplugin/empower-your-projects-with-face-recognition-sdk-9-must-have-features-for-developers-5hj3)
+- [rot90&lpar;&rpar; and roll&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/rot90-and-roll-in-pytorch-cpl)
+- [Making The Best Use of DevTools](https://dev.to/christopherchhim/making-the-best-use-of-devtools-181m)
+- [GIT for Beginners](https://dev.to/nerdflash28/git-for-beginners-2hb9)
+- [Week 1: New NOTR Server - Containerization and Data Storage](https://dev.to/aldoportillo/week-1-new-notr-server-containerization-and-data-storage-3n72)
+- [Read csv file using Golang](https://dev.to/santoshanand/read-csv-file-using-golang-2a7m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
