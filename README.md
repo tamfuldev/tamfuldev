@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [1 Common Mistake Junior Developers Make](https://dev.to/annoh_karlgusta/1-common-mistake-junior-developers-make-3m7g)
+- [tmux toggle status bar](https://dev.to/rahuldhole/tmux-toggle-status-bar-288m)
+- [Laravel: Pengenalan Fitur Reverb Di Laravel](https://dev.to/aditiyadwiramadani88/laravel-pengenalan-fitur-reverb-di-laravel-3iic)
+- [Git commands - most used](https://dev.to/rahuldhole/git-commands-most-used-56h2)
 - [Cloudflare Workers - Serverless Hosting](https://dev.to/rahuldhole/cloudflare-workers-serverless-hosting-1fma)
-- [Empower your Projects with Face Recognition SDK: 9 Must-Have Features for Developers](https://dev.to/faceplugin/empower-your-projects-with-face-recognition-sdk-9-must-have-features-for-developers-5hj3)
-- [１２章４４](https://dev.to/aaattt/12zhang-44-2jpb)
-- [MinIO Quickstart - Object Management](https://dev.to/rahuldhole/minio-quickstart-object-management-23on)
-- [📦 Put dev dependencies in tools.go](https://dev.to/jcbhmr/put-dev-dependencies-in-toolsgo-9e6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
