@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Front-end specialisations: DevOps JS](https://dev.to/r4nd3l/front-end-specialisations-devops-js-1jp3)
-- [WebDevDocs Workflow](https://dev.to/arndom/webdevdocs-workflow-46p0)
-- [Roadmap Javascript tahun 2024](https://dev.to/appardana/roadmap-javascript-tahun-2024-4fep)
-- [Top Node.JS Frameworks for Web Development in 2024](https://dev.to/devendra098/top-nodejs-frameworks-for-web-development-in-2024-eh3)
-- [Enatega: Open Source Solution For Delivery App](https://dev.to/aizaz_22112/enatega-open-source-solution-for-delivery-app-19mj)
+- [6 Common Web Development Myths You Need to Stop Believing](https://dev.to/techno_expert/6-common-web-development-myths-you-need-to-stop-believing-2392)
+- [Gemini API 102: Next steps beyond &quot;Hello World!&quot;](https://dev.to/wescpy/gemini-api-102-next-steps-beyond-hello-world-1pb7)
+- [Let&#39;s Dive into the World of Web Sockets: A Beginner&#39;s Guide](https://dev.to/elizabethsobiya/lets-dive-into-the-world-of-web-sockets-a-beginners-guide-f2c)
+- [Behind The Scene of Under Water Game Development Game Environment Development](https://dev.to/ediiie/behind-the-scene-of-under-water-game-development-game-environment-development-2p8a)
+- [ChatGPT Français : Révolution dans le Paysage Linguistique](https://dev.to/chatgptx/chatgpt-francais-revolution-dans-le-paysage-linguistique-jd1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
