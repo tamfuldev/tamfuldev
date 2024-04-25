@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Developing T-Shapedness In Practice](https://dev.to/kaityhallman/developing-t-shapedness-in-practice-570o)
+- [Top 5 Web3 Wallet Solutions with Social Login to Boost User Onboarding in 2024](https://dev.to/tomtomdu73/top-5-web3-wallet-solutions-with-social-login-to-boost-user-onboarding-in-2024-3n9a)
+- [Java Strings: Understanding string literal and new operator](https://dev.to/bad-logic/java-strings-understanding-string-literal-and-new-operator-3b4m)
+- [Live reload em Go com docker e compile daemon](https://dev.to/nathaliapavan/live-reload-em-go-com-docker-e-compile-daemon-57lj)
 - [5 Uncommon Advices from one beginner coder to another beginner coder!](https://dev.to/manasmoon_/5-uncommon-advices-from-one-beginner-coder-to-another-beginner-coder-2ai)
-- [What we lose at the gates](https://dev.to/schalkneethling/what-we-lose-at-the-gates-45df)
-- [Earth Day Frontend Challenge landing page](https://dev.to/mariela/earth-day-frontend-challenge-landing-page-24dj)
-- [IPCalculator Coze AI](https://dev.to/yowise/ipcalculator-coze-ai-57ko)
-- [The 7 Best Live Streaming SDKs &amp; APIs](https://dev.to/emilyrobertsatstream/the-7-best-live-streaming-sdks-apis-1fng)
 <!-- BLOG-POST-LIST:END -->
 
 ---
