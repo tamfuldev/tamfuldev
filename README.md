@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Developing T-Shapedness In Practice](https://dev.to/kaityhallman/developing-t-shapedness-in-practice-570o)
-- [Top 5 Web3 Wallet Solutions with Social Login to Boost User Onboarding in 2024](https://dev.to/tomtomdu73/top-5-web3-wallet-solutions-with-social-login-to-boost-user-onboarding-in-2024-3n9a)
-- [Java Strings: Understanding string literal and new operator](https://dev.to/bad-logic/java-strings-understanding-string-literal-and-new-operator-3b4m)
-- [Live reload em Go com docker e compile daemon](https://dev.to/nathaliapavan/live-reload-em-go-com-docker-e-compile-daemon-57lj)
-- [5 Uncommon Advices from one beginner coder to another beginner coder!](https://dev.to/manasmoon_/5-uncommon-advices-from-one-beginner-coder-to-another-beginner-coder-2ai)
+- [Enhancing Order in Java Collections with Sequenced Interface](https://dev.to/nichetti/enhancing-order-in-java-collections-with-sequenced-interface-5e51)
+- [Create a linked list in Rust: The RC smart pointer](https://dev.to/cudilala/create-a-linked-list-in-rust-the-rc-smart-pointer-6o3)
+- [Best Practices for API Authentication and Authorization](https://dev.to/ibiyeyellowe/best-practices-for-api-authentication-and-authorization-4165)
+- [Lógica de programação](https://dev.to/amgauna/logica-de-programacao-541j)
+- [Earth rescue - A CSS only game](https://dev.to/schmoris/earth-rescue-a-css-only-game-o0e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
