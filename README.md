@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Jotai Tips](https://dev.to/dai_shi/jotai-tips-1hp1)
-- [Llama 3 Plugin](https://dev.to/programordie/llama-3-plugin-4cnn)
-- [Answer: Mixed Content &lpar;laravel&rpar;](https://dev.to/luislopezdeveloper/answer-mixed-content-laravel-181p)
-- [Complete Coze tutorial: Build AI Chatbots from scratch](https://dev.to/zarazhangrui/complete-coze-tutorial-build-ai-chatbots-from-scratch-e66)
-- [Craft your cover letter with this AI bot run by Coze AI](https://dev.to/elvisans/craft-your-cover-letter-with-this-ai-bot-run-by-coze-ai-128j)
+- [React Testing Torment: Tools and Techniques to Crush Bugs](https://dev.to/kigazon/react-testing-torment-tools-and-techniques-to-crush-bugs-1pm5)
+- [Análisis de Fraude Bancario con AWS Athena, AWS Lambda y Pandas](https://dev.to/pwalvarado/analisis-de-fraude-bancario-con-aws-athena-aws-lambda-y-pandas-42ap)
+- [Update VulnHunterDB](https://dev.to/yowise/update-vulnhunterdb-1935)
+- [Publishing your first npm library](https://dev.to/aneshodza/publishing-your-first-npm-library-51k2)
+- [21 Helpful and trending Ruby gems.](https://dev.to/stanbright/21-helpful-and-trending-in-april-ruby-gems-42en)
 <!-- BLOG-POST-LIST:END -->
 
 ---
