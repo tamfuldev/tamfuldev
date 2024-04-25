@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Tetris Development 3 - Simple Tetris Game in Godot](https://dev.to/xzzz3/tetris-development-3-simple-tetris-game-in-godot-1o2b)
-- [In a World Filled with AI, Where Will Developers Lie?](https://dev.to/mlaposta/in-a-world-filled-with-ai-where-will-developers-lie-1515)
-- [Runtime environmental variables in Next.js 14](https://dev.to/michaliskout/runtime-environmental-variables-in-nextjs-14-4pof)
-- [Part 7: Modeling Microservice](https://dev.to/amirsabahi/part-7-modeling-microservice-5351)
-- [Lambda Internals: Why AWS Lambda Will Not Help With Machine Learning](https://dev.to/fively/lambda-internals-why-aws-lambda-will-not-help-with-machine-learning-3f6g)
+- [Hosting old Node Projects 👴🏼](https://dev.to/wimadev/hosting-old-node-projects-3cgl)
+- [The Ultimate Beginner&#39;s Checklist for Diving into Machine Learning in 2024](https://dev.to/hyscaler/the-ultimate-beginners-checklist-for-diving-into-machine-learning-in-2024-348h)
+- [Hello](https://dev.to/newvo/hello-4e5c)
+- [Understanding TypeScript Method Decorators](https://dev.to/saulodias/understanding-typescript-method-decorators-36he)
+- [Is Comparison the Thief of Joy?](https://dev.to/devteam/is-comparison-the-thief-of-joy-h6f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
