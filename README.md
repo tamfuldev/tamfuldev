@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [React Testing Torment: Tools and Techniques to Crush Bugs](https://dev.to/kigazon/react-testing-torment-tools-and-techniques-to-crush-bugs-1pm5)
-- [Análisis de Fraude Bancario con AWS Athena, AWS Lambda y Pandas](https://dev.to/pwalvarado/analisis-de-fraude-bancario-con-aws-athena-aws-lambda-y-pandas-42ap)
-- [Update VulnHunterDB](https://dev.to/yowise/update-vulnhunterdb-1935)
-- [Publishing your first npm library](https://dev.to/aneshodza/publishing-your-first-npm-library-51k2)
-- [21 Helpful and trending Ruby gems.](https://dev.to/stanbright/21-helpful-and-trending-in-april-ruby-gems-42en)
+- [Cannot render components after the Fetch&lpar;&rpar; call.](https://dev.to/driver3229/cannot-render-components-after-the-fetch-call-3l9a)
+- [Llavero Wallet: My Vault](https://dev.to/el_ranu/explaining-llavero-wallet-my-vault-24nd)
+- [Leveraging Angular DevTools for Enhanced Development Efficiency](https://dev.to/philipjohnbasile/leveraging-angular-devtools-for-enhanced-development-efficiency-2h4h)
+- [Implementation of Melodistiq: Generating Lyrics and Melodies with AI](https://dev.to/aws-builders/unlocking-musical-creativity-with-ai-generating-lyrics-and-melodies-55p0)
+- [Docker - a terminal GUI](https://dev.to/kiranuknow/docker-a-terminal-gui-2fo7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
