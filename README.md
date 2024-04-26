@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My experience on the Public Speaking Challenge](https://dev.to/thaisavieira/my-experience-on-the-public-speaking-challenge-18h4)
-- [Data Structures and Algorithms: Trees](https://dev.to/faraib/data-structures-and-algorithms-trees-34c4)
-- [Awesome COBOL!](https://dev.to/bugmagnet/awesome-cobol-396k)
-- [🤿 Looking for Waterpolo API for Research Consultant Project? 🌊](https://dev.to/nicosleonardo9/looking-for-waterpolo-api-for-research-consultant-project-3la2)
-- [CRUD Laravel 10 dan Bootstrap 5 #2: Menampilkan Data](https://dev.to/risekucom/crud-laravel-10-dan-bootstrap-5-2-menampilkan-data-5epi)
+- [Advanced Strategies for Efficient Cloud-Native Data Protection](https://dev.to/chowter0033/advanced-strategies-for-efficient-cloud-native-data-protection-12f5)
+- [Web Components com Preact](https://dev.to/ricmello/web-components-com-preact-2hhj)
+- [Go program pattern 03：Inversion of Control](https://dev.to/huizhou92/go-program-pattern-03inversion-of-control-20o7)
+- [The Magical Algorithms Written by Two Old Men, Dominating the World](https://dev.to/huizhou92/the-magical-algorithms-written-by-two-old-men-dominating-the-world-3h12)
+- [AWS Under the Hood - Day 7 - If ARNs are not used, what are other methods for identifying and managing resources in AWS?](https://dev.to/lakhera2015/aws-under-the-hood-day-7-if-arns-are-not-used-what-are-other-methods-for-identifying-and-managing-resources-in-aws-5a9p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
