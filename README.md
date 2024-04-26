@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel 11 y Vite](https://dev.to/jcbm2010/laravel-11-y-vite-365m)
-- [#1137. N-th Tribonacci Number](https://dev.to/karleb/1137-n-th-tribonacci-number-4bef)
-- [10 Essential Skills Every Java Developer Should Master in 2024](https://dev.to/myexamcloud/10-essential-skills-every-java-developer-should-master-in-2024-2kp)
-- [#2370. Longest Ideal Subsequence](https://dev.to/karleb/2370-longest-ideal-subsequence-2c6h)
-- [The fundamental concepts of typescript](https://dev.to/epakconsultant/the-fundamental-concepts-of-typescript-34pc)
+- [SwiftData: Solving Filtering by an Entity in the Predicate](https://dev.to/simplykyra/swiftdata-solving-filtering-by-an-entity-in-the-predicate-3l5h)
+- [Earth Day Frontend Challenge landing page: Hugging Earth](https://dev.to/devdongsu/earth-day-frontend-challenge-landing-page-hugging-earth-30j0)
+- [Remy Rhymes: Crafting Dope Bars with AI](https://dev.to/shweta/remy-rhymes-crafting-dope-bars-with-ai-plb)
+- [Boost Your Lambdas with Powertools](https://dev.to/aws-builders/turbocharge-your-lambda-functions-with-aws-lambda-powertools-for-python-fph)
+- [Happy Earth Day](https://dev.to/jorgedelcampo/happy-earth-day-3mgn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
