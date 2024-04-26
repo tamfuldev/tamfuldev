@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SwiftData: Solving Filtering by an Entity in the Predicate](https://dev.to/simplykyra/swiftdata-solving-filtering-by-an-entity-in-the-predicate-3l5h)
-- [Earth Day Frontend Challenge landing page: Hugging Earth](https://dev.to/devdongsu/earth-day-frontend-challenge-landing-page-hugging-earth-30j0)
-- [Remy Rhymes: Crafting Dope Bars with AI](https://dev.to/shweta/remy-rhymes-crafting-dope-bars-with-ai-plb)
-- [Boost Your Lambdas with Powertools](https://dev.to/aws-builders/turbocharge-your-lambda-functions-with-aws-lambda-powertools-for-python-fph)
-- [Happy Earth Day](https://dev.to/jorgedelcampo/happy-earth-day-3mgn)
+- [Did Citizen Development Fail on the Power Platform](https://dev.to/wyattdave/did-citizen-development-fail-on-the-power-platform-4p0c)
+- [Why etcd is matter in Kubernetes](https://dev.to/u2633/why-etcd-is-matter-in-kubernetes-48cn)
+- [A Step-by-Step Guide to Installing and Publishing Your React Native Project](https://dev.to/epakconsultant/a-step-by-step-guide-to-installing-and-publishing-your-react-native-project-4051)
+- [Stay Informed: Using Flight Trackers for Real-Time Updates](https://dev.to/jp5806632/stay-informed-using-flight-trackers-for-real-time-updates-3nhl)
+- [olá, :&rpar;](https://dev.to/soyt0fu/ola--599f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
