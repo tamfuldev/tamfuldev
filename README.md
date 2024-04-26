@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [What is JavaScript and Where Will It be Mostly Used](https://dev.to/annoh_karlgusta/what-is-javascript-and-where-will-it-be-mostly-used-2fl0)
+- [Illuminating the Essence of Design Patterns in Software Development](https://dev.to/suyashsalvi/illuminating-the-essence-of-design-patterns-in-software-development-1o9m)
+- [Setup React Typescript with Vite &amp; ESLint](https://dev.to/phongphanq089/setup-react-typescript-with-vite-eslint-1nfk)
+- [xcrun: Error: Invalid Active Developer Path?](https://dev.to/dwildt/xcrun-error-invalid-active-developer-path-3p8g)
 - [Advanced Strategies for Efficient Cloud-Native Data Protection](https://dev.to/chowter0033/advanced-strategies-for-efficient-cloud-native-data-protection-12f5)
-- [Web Components com Preact](https://dev.to/ricmello/web-components-com-preact-2hhj)
-- [Go program pattern 03：Inversion of Control](https://dev.to/huizhou92/go-program-pattern-03inversion-of-control-20o7)
-- [The Magical Algorithms Written by Two Old Men, Dominating the World](https://dev.to/huizhou92/the-magical-algorithms-written-by-two-old-men-dominating-the-world-3h12)
-- [AWS Under the Hood - Day 7 - If ARNs are not used, what are other methods for identifying and managing resources in AWS?](https://dev.to/lakhera2015/aws-under-the-hood-day-7-if-arns-are-not-used-what-are-other-methods-for-identifying-and-managing-resources-in-aws-5a9p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
