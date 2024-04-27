@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Enhancing Accessibility: The Importance of Focus Management in User Interactions](https://dev.to/emmadawsondev/enhancing-accessibility-the-importance-of-focus-management-in-user-interactions-5djp)
-- [this in JavaScript.](https://dev.to/shinikage/this-in-javascript-1p2i)
-- [Boosting macOS Efficiency: Practical Tips](https://dev.to/lunamiller/boosting-macos-efficiency-practical-tips-293)
-- [Feature Flags: A Beginner&#39;s Guide](https://dev.to/debtech/feature-flags-a-beginners-guide-3ed0)
-- [Reflexões pessoais sobre a BrazilJS 24](https://dev.to/ocodista/reflexoes-pessoais-sobre-a-braziljs-24-1fh1)
+- [The ServBay 1.3.3 Update Gives You Early Access to PHP 8.4. And Node.js 22](https://dev.to/servbay/the-servbay-133-update-gives-you-early-access-to-php-84-and-nodejs-22-3aph)
+- [Lucky like a 7 — Seven SymfonyCasts Courses to Master Symfony 7](https://dev.to/reubenwalker64/lucky-like-a-7-seven-symfonycasts-courses-to-master-symfony-7-143j)
+- [Python Exceptions](https://dev.to/goranvasic/python-exceptions-4e9h)
+- [What are you building this weekend?](https://dev.to/meschacirung/what-are-you-building-this-weekend-1n9j)
+- [Automation of LAMP &lpar;Linux, Apache, MySQL, PHP&rpar; stack deployment using a Bash Script in Ansible](https://dev.to/clouddiadem/automation-of-lamp-linux-apache-mysql-php-stack-deployment-using-a-bash-script-in-ansible-2bd8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
