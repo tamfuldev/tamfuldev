@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Chartty &lpar;Your all-in-one data visualizer&rpar;](https://dev.to/sarahokolo/chartty-your-all-in-one-data-visualizer-2o38)
-- [Emerging Technologies in Mobile App Development: What&#39;s Next?](https://dev.to/robertadler/emerging-technologies-in-mobile-app-development-whats-next-4g6h)
-- [Typescript type grouping a union type of objects by any property discriminating these objects.](https://dev.to/fredleroy/typescript-cheat-sheet-3nm4)
-- [Can AI like Devin or Chatgpt replace human software developers?](https://dev.to/codegirl0101/can-ai-like-devin-or-chatgpt-replace-human-software-developers-3gb5)
-- [Authentication and Authorization in Web Applications](https://dev.to/sanx/authentication-and-authorization-in-web-applications-4p95)
+- [Exploring the Future of Gaming: The Rise of Cloud Gaming Technology](https://dev.to/rahmanarain/exploring-the-future-of-gaming-the-rise-of-cloud-gaming-technology-bpf)
+- [Dry running the code to understand the flow](https://dev.to/abhsiksah/dry-running-the-code-to-understand-the-flow-4gmj)
+- [Let&#39;s check the qdEngine game engine, part one: top 10 warnings issued by PVS-Studio](https://dev.to/anogneva/lets-check-the-qdengine-game-engine-part-one-top-10-warnings-issued-by-pvs-studio-2ako)
+- [Tweet Media Extractor Plugin](https://dev.to/sojinsamuel/tweet-media-extractor-plugin-4a35)
+- [Solving 502 Errors in Microservices Using Node.js and AWS ELB](https://dev.to/gauravsoni1992/solving-502-errors-in-microservices-using-nodejs-and-aws-elb-1mka)
 <!-- BLOG-POST-LIST:END -->
 
 ---
