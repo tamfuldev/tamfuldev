@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Future of Gaming: The Rise of Cloud Gaming Technology](https://dev.to/rahmanarain/exploring-the-future-of-gaming-the-rise-of-cloud-gaming-technology-bpf)
-- [Dry running the code to understand the flow](https://dev.to/abhsiksah/dry-running-the-code-to-understand-the-flow-4gmj)
-- [Let&#39;s check the qdEngine game engine, part one: top 10 warnings issued by PVS-Studio](https://dev.to/anogneva/lets-check-the-qdengine-game-engine-part-one-top-10-warnings-issued-by-pvs-studio-2ako)
-- [Tweet Media Extractor Plugin](https://dev.to/sojinsamuel/tweet-media-extractor-plugin-4a35)
-- [Solving 502 Errors in Microservices Using Node.js and AWS ELB](https://dev.to/gauravsoni1992/solving-502-errors-in-microservices-using-nodejs-and-aws-elb-1mka)
+- [How to get the verified badge on GitHub with SSH key signing](https://dev.to/ccoveille/how-to-get-the-verified-badge-on-github-with-ssh-key-signing-3kbe)
+- [My AWS DevOps Engineer Professional Study Guide](https://dev.to/aws-builders/my-aws-devops-engineer-professional-study-guide-1p6c)
+- [Functions in JavaScript: A Comprehensive Guide](https://dev.to/sadanandgadwal/functions-in-javascript-a-comprehensive-guide-40d6)
+- [Deploy SvelteKit with SSR on Coolify &lpar;Hetzner VPS&rpar;](https://dev.to/mandrasch/deploy-sveltekit-with-ssr-on-coolify-hetzner-vps-24c5)
+- [Leetcode - Weekly Contest #395](https://dev.to/arthurrio/leetcode-weekly-contest-395-3jg1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
