@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Code is craftsmanship](https://dev.to/buildwebcrumbs/code-is-craftsmanship-1mb9)
-- [Machine Learning: Day 1](https://dev.to/christiandarvs/day-1-of-studying-machine-learning-175o)
-- [Harnessing the Power of ReactJS: Why It&#39;s Essential for Modern Website Creation](https://dev.to/jaingurdeep/harnessing-the-power-of-reactjs-why-its-essential-for-modern-website-creation-1736)
-- [Revisiting the &quot;Revealing Module pattern&quot;](https://dev.to/efpage/revisiting-the-revealing-module-pattern-1fp1)
-- [Hora de substituir o Redux](https://dev.to/klauskpm/hora-de-substituir-o-redux-331d)
+- [Pandas reset_index&lpar;&rpar;: How To Reset Indexes in Pandas](https://dev.to/federicotrotta/pandas-resetindex-how-to-reset-indexes-in-pandas-475b)
+- [Unleashing the Power of B2B Social Media Strategies for Solar Branding](https://dev.to/conversioncovecraft/unleashing-the-power-of-b2b-social-media-strategies-for-solar-branding-59j5)
+- [Mastering Code Review: A Guide for Reviewers and PR Creators](https://dev.to/tassiofront/mastering-code-review-a-guide-for-reviewers-and-pr-creators-ac6)
+- [React: You Might Not Need Another Library](https://dev.to/razxssd/react-you-might-not-need-another-library-129h)
+- [Glam Up My Markup » Earth Day Celebration Landing Page](https://dev.to/ngdangtu/glam-up-my-markup-earth-day-celebration-landing-page-4nnp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
