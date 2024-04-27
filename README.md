@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Bitcoin Whitepaper but easier](https://dev.to/nairsreya/bitcoin-whitepaper-but-easier-58pf)
-- [How to Print to Browser Console from Razor View Page in ASP.NET MVC](https://dev.to/shekhartarare/how-to-print-to-browser-console-from-razor-view-page-in-aspnet-mvc-531)
-- [Learning AWS Day by Day — Day 48 — Amazon DynamoDB — Part 4](https://dev.to/rksalo88/learning-aws-day-by-day-day-48-amazon-dynamodb-part-4-32a3)
-- [[Self-Study] Microsoft Azure - Describe the benefits of using cloud services Module](https://dev.to/theasea/self-study-microsoft-azure-describe-the-benefits-of-using-cloud-services-module-49f6)
-- [Please check my portfolio](https://dev.to/izyus/please-check-my-portfolio-2h8k)
+- [10 Essential JavaScript Snippets Every Developer Should Know](https://dev.to/davidomisakin/10-essential-javascript-snippets-every-developer-should-know-465l)
+- [TweetGagger Plugin: getLikes, getRetweets, getReplies](https://dev.to/sojinsamuel/tweetgagger-plugin-getlikes-getretweets-getreplies-544f)
+- [A Comprehensive Guide to HTML for Beginners](https://dev.to/debtech/a-comprehensive-guide-to-html-for-beginners-pbl)
+- [EV Test Drive Project](https://dev.to/aricayajohn/ev-test-drive-project-27o9)
+- [Classificação de Antipadrões em Microsserviços ‐ Parte 01](https://dev.to/yanjustino/classificacao-de-antipadroes-em-microsservicos-parte-01-27c9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
