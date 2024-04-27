@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering GitHub: Cheatsheets, Commands, and Interview Prep](https://dev.to/nirmalyax/mastering-github-cheatsheets-commands-and-interview-prep-49c9)
-- [Why can e be used in the tab of input type=number?](https://dev.to/kueiapp/why-can-e-be-used-in-the-tab-of-input-typenumber-1643)
-- [The Importance of UI Prototyping: Designing for Success](https://dev.to/pepper_square/the-importance-of-ui-prototyping-designing-for-success-4kf3)
-- [Lama Bot &lpar;དླ་མ་བོཏ།&rpar; - helps to coup with depression with the help of Buddhist practice](https://dev.to/t0ha/lama-bot-dl-m-bot-helps-to-coup-with-depression-with-the-help-of-buddhist-practice-2j94)
-- [Logging Tips for Frontend](https://dev.to/solleedata/logging-tips-for-frontend-4e9c)
+- [Flyway e Spring Boot em cenário de banco de dados não vazio.](https://dev.to/joaquimchianca/flyway-e-spring-boot-em-cenario-de-banco-de-dados-nao-vazio-2f57)
+- [How to export images from charts?](https://dev.to/skie1997/how-to-export-images-from-charts-5da)
+- [We gave a lightning talk at the AWS Summit in Sydney 2024.](https://dev.to/aws-builders/we-gave-a-lightning-talk-at-the-aws-summit-in-sydney-2024-o2j)
+- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-2ipc)
+- [Top 50 System Design Interview Questions for 2024](https://dev.to/somadevtoo/top-50-system-design-interview-questions-for-2024-5dbk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
