@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Using Custom React hooks in NextJS?](https://dev.to/hiteshchawla/using-custom-react-hooks-in-nextjs-3gjo)
-- [Discover the 5 Exciting New Features Unveiled in ReactJS 19 Beta](https://dev.to/nilanth/discover-the-5-exciting-new-features-unveiled-in-reactjs-19-beta-3a92)
-- [Mastering Java Development in Visual Studio Code](https://dev.to/gufvr/mastering-java-development-in-visual-studio-code-4jl6)
-- [How to show progress while downloading data in node.js](https://dev.to/sammaji15/how-to-show-progress-while-downloading-data-in-nodejs-5424)
-- [How to Convert PDF File into a Google Docs](https://dev.to/vikramaruchamy/how-to-convert-pdf-file-into-a-google-docs-57li)
+- [Mastering GitHub: Cheatsheets, Commands, and Interview Prep](https://dev.to/nirmalyax/mastering-github-cheatsheets-commands-and-interview-prep-49c9)
+- [Why can e be used in the tab of input type=number?](https://dev.to/kueiapp/why-can-e-be-used-in-the-tab-of-input-typenumber-1643)
+- [The Importance of UI Prototyping: Designing for Success](https://dev.to/pepper_square/the-importance-of-ui-prototyping-designing-for-success-4kf3)
+- [Lama Bot &lpar;དླ་མ་བོཏ།&rpar; - helps to coup with depression with the help of Buddhist practice](https://dev.to/t0ha/lama-bot-dl-m-bot-helps-to-coup-with-depression-with-the-help-of-buddhist-practice-2j94)
+- [Logging Tips for Frontend](https://dev.to/solleedata/logging-tips-for-frontend-4e9c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
