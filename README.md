@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to get the verified badge on GitHub with SSH key signing](https://dev.to/ccoveille/how-to-get-the-verified-badge-on-github-with-ssh-key-signing-3kbe)
-- [My AWS DevOps Engineer Professional Study Guide](https://dev.to/aws-builders/my-aws-devops-engineer-professional-study-guide-1p6c)
-- [Functions in JavaScript: A Comprehensive Guide](https://dev.to/sadanandgadwal/functions-in-javascript-a-comprehensive-guide-40d6)
-- [Deploy SvelteKit with SSR on Coolify &lpar;Hetzner VPS&rpar;](https://dev.to/mandrasch/deploy-sveltekit-with-ssr-on-coolify-hetzner-vps-24c5)
-- [Leetcode - Weekly Contest #395](https://dev.to/arthurrio/leetcode-weekly-contest-395-3jg1)
+- [Code is craftsmanship](https://dev.to/buildwebcrumbs/code-is-craftsmanship-1mb9)
+- [Machine Learning: Day 1](https://dev.to/christiandarvs/day-1-of-studying-machine-learning-175o)
+- [Harnessing the Power of ReactJS: Why It&#39;s Essential for Modern Website Creation](https://dev.to/jaingurdeep/harnessing-the-power-of-reactjs-why-its-essential-for-modern-website-creation-1736)
+- [Revisiting the &quot;Revealing Module pattern&quot;](https://dev.to/efpage/revisiting-the-revealing-module-pattern-1fp1)
+- [Hora de substituir o Redux](https://dev.to/klauskpm/hora-de-substituir-o-redux-331d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
