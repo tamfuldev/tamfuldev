@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-k97)
-- [OpenAI vs Gemini : Function Calling &amp; Autonomous Agent](https://dev.to/vishalmysore/openai-vs-gemini-function-calling-autonomous-agent-4025)
-- [I used Cloudflare Workers and R2 as HTML generating service. It was so easy!](https://dev.to/rabspice/i-used-cloudflare-workers-and-r2-as-html-generating-service-it-was-so-easy-2n8d)
-- [TURBO Rails](https://dev.to/awaiszafar14/turbo-rails-3594)
-- [Maintaining personal growth and mental health: habits and ideas to be aware of during job hunting &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/maintaining-personal-growth-and-mental-health-habits-and-ideas-to-be-aware-of-during-job-hunting-bite-size-article-12cd)
+- [What is react-query? Why should we use react-query?](https://dev.to/chauhoangminhnguyen/what-is-react-query-why-should-we-use-react-query-2dg7)
+- [How to interact with Stripe&#39;s iframes using WebdriverIO](https://dev.to/mauro_laurenzi/how-to-interact-with-stripes-iframes-using-webdriverio-568k)
+- [AWS Intra-Region VPC Peering: Conectando VPCs en la Misma Región con Terraform](https://dev.to/francotel/aws-intra-region-vpc-peering-conectando-vpcs-en-la-misma-region-con-terraform-1bak)
+- [Random way of making a console snake by a random 👍️😃](https://dev.to/jdi/random-way-of-making-a-console-snake-by-a-random-3h6b)
+- [Advanced Git Techniques](https://dev.to/kartikmehta8/advanced-git-techniques-mbb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
