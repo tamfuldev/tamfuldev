@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Randomly Picks a Giveaway Winner on Twitter &lpar;Oops X&rpar;](https://dev.to/sojinsamuel/randomly-picks-a-giveaway-winner-on-twitter-oops-x-10m9)
-- [How to pick the best-performing time-series AI model for your specific data](https://dev.to/mindsdb/how-to-pick-the-best-performing-time-series-ai-model-for-your-specific-data-5k)
-- [20 Books every web developers and designers must read](https://dev.to/ibiyeyellowe/20-books-every-web-developers-and-designers-must-read-58go)
-- [Getting Started With HTML #EP4](https://dev.to/bbylumi/getting-started-with-html-ep3-28kj)
-- [Supercharge Your Number Inputs with Custom Step Sizes](https://dev.to/piotrkulpinski/supercharge-your-number-inputs-with-custom-step-sizes-mlh)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-k97)
+- [OpenAI vs Gemini : Function Calling &amp; Autonomous Agent](https://dev.to/vishalmysore/openai-vs-gemini-function-calling-autonomous-agent-4025)
+- [I used Cloudflare Workers and R2 as HTML generating service. It was so easy!](https://dev.to/rabspice/i-used-cloudflare-workers-and-r2-as-html-generating-service-it-was-so-easy-2n8d)
+- [TURBO Rails](https://dev.to/awaiszafar14/turbo-rails-3594)
+- [Maintaining personal growth and mental health: habits and ideas to be aware of during job hunting &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/maintaining-personal-growth-and-mental-health-habits-and-ideas-to-be-aware-of-during-job-hunting-bite-size-article-12cd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
