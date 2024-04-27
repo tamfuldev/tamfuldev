@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I MADE DEV COMMUNITY LOGO WHICH WAS VERY EASY](https://dev.to/dino2328/i-made-dev-community-logo-which-was-very-easy-3bpn)
-- [Crafting a Dynamic Angular Schema for Streamlined Template Elements](https://dev.to/epakconsultant/crafting-a-dynamic-angular-schema-for-streamlined-template-elements-2igl)
-- [DISCUSSION: YOUR FAVOURITE CODING YOUTUBER](https://dev.to/dino2328/discussion-your-favourite-coding-youtuber-1ha9)
-- [Angular Project: Create Better Structure &amp; Optimize the Overall Code](https://dev.to/epakconsultant/angular-project-create-better-structure-optimize-the-overall-code-18i5)
-- [Clae: Multipurpose Chat Bot &lpar;Coze&rpar;](https://dev.to/flameface/clae-multipurpose-chat-bot-coze-1ioc)
+- [Using Custom React hooks in NextJS?](https://dev.to/hiteshchawla/using-custom-react-hooks-in-nextjs-3gjo)
+- [Discover the 5 Exciting New Features Unveiled in ReactJS 19 Beta](https://dev.to/nilanth/discover-the-5-exciting-new-features-unveiled-in-reactjs-19-beta-3a92)
+- [Mastering Java Development in Visual Studio Code](https://dev.to/gufvr/mastering-java-development-in-visual-studio-code-4jl6)
+- [How to show progress while downloading data in node.js](https://dev.to/sammaji15/how-to-show-progress-while-downloading-data-in-nodejs-5424)
+- [How to Convert PDF File into a Google Docs](https://dev.to/vikramaruchamy/how-to-convert-pdf-file-into-a-google-docs-57li)
 <!-- BLOG-POST-LIST:END -->
 
 ---
