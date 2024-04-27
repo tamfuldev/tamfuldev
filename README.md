@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [First impressions: GPU + GCP Batch](https://dev.to/dchaley/first-impressions-gpu-gcp-batch-4a3)
+- [Como foi fazer um decodificador do zero para o projeto final da 1ª parte do OracleONE](https://dev.to/piluvitu/como-foi-fazer-um-decodificador-do-zero-para-o-projeto-final-da-1a-parte-do-oracleone-3p7h)
 - [Portfólio para desenvolvedoras](https://dev.to/anamaria/portfolio-para-desenvolvedoras-13k3)
 - [Single Responsibility Principle](https://dev.to/codexam/single-responsibility-principle-1ahf)
 - [Mastering UI Consistency: Elevate Your Application&#39;s User Experience](https://dev.to/leoneloliver/mastering-ui-consistency-elevate-your-applications-user-experience-5fni)
-- [Connecting SQLite Database in Java](https://dev.to/prabeshstha/connecting-sqlite-database-in-java-135)
-- [Ignition by Inductive Automation Really Grinds My Gears](https://dev.to/opensourceadvocate/ignition-by-inductive-automation-really-grinds-my-gears-amk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
