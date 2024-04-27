@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Flyway e Spring Boot em cenário de banco de dados não vazio.](https://dev.to/joaquimchianca/flyway-e-spring-boot-em-cenario-de-banco-de-dados-nao-vazio-2f57)
-- [How to export images from charts?](https://dev.to/skie1997/how-to-export-images-from-charts-5da)
-- [We gave a lightning talk at the AWS Summit in Sydney 2024.](https://dev.to/aws-builders/we-gave-a-lightning-talk-at-the-aws-summit-in-sydney-2024-o2j)
-- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-2ipc)
-- [Top 50 System Design Interview Questions for 2024](https://dev.to/somadevtoo/top-50-system-design-interview-questions-for-2024-5dbk)
+- [Astro: Building Content-Driven Websites Faster](https://dev.to/codeparrot/astro-building-content-driven-websites-faster-15pe)
+- [JavaScript in 2024: A Look at the Future](https://dev.to/saiarlen/javascript-in-2024-a-look-at-the-future-53m2)
+- [3D Car Image Just With these two APIs!](https://dev.to/parsafarahani84/3d-car-image-just-with-one-api-40ak)
+- [Containerization and Orchestration: The New Normal for Backend Development](https://dev.to/shivankshuklaa/containerization-and-orchestration-the-new-normal-for-backend-development-3n1l)
+- [Provisioning Ansible on Ubuntu with Vagrant and Virtual box](https://dev.to/audu97/provisioning-ansible-on-ubuntu-with-vagrant-and-virtual-box-4bjj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
