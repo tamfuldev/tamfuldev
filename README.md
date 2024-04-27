@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [First impressions: GPU + GCP Batch](https://dev.to/dchaley/first-impressions-gpu-gcp-batch-4a3)
-- [Como foi fazer um decodificador do zero para o projeto final da 1ª parte do OracleONE](https://dev.to/piluvitu/como-foi-fazer-um-decodificador-do-zero-para-o-projeto-final-da-1a-parte-do-oracleone-3p7h)
-- [Portfólio para desenvolvedoras](https://dev.to/anamaria/portfolio-para-desenvolvedoras-13k3)
-- [Single Responsibility Principle](https://dev.to/codexam/single-responsibility-principle-1ahf)
-- [Mastering UI Consistency: Elevate Your Application&#39;s User Experience](https://dev.to/leoneloliver/mastering-ui-consistency-elevate-your-applications-user-experience-5fni)
+- [How to Generate QR Codes in Laravel 11](https://dev.to/mktheitguy/how-to-generate-qr-codes-in-laravel-11-40ce)
+- [The Ultimate React.js Cheat Sheet for Developers](https://dev.to/dipakahirav/the-ultimate-reactjs-cheat-sheet-for-developers-h90)
+- [LeT&#39;s CoNtRoL YoU tO HeLp Me](https://dev.to/bilalboultif/lets-control-you-to-help-me-ha5)
+- [Open Source Software Facts Ignition Lovers Get Wrong](https://dev.to/opensourceadvocate/open-source-software-facts-ignition-lovers-get-wrong-1gap)
+- [tsx+wat=? A new idea for wasm modularization](https://dev.to/ahaoboy/tsxwat-a-new-idea-for-wasm-modularization-47b6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
