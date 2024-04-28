@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Do You Procrastinate?](https://dev.to/devteam/do-you-procrastinate-5bio)
-- [Understanding Angular Component Lifecycles](https://dev.to/avinashvalluru/understanding-angular-component-lifecycles-3c5i)
-- [Front-end specialisations: Design systems](https://dev.to/r4nd3l/front-end-specialisations-design-systems-3oid)
-- [Leveraging .htaccess on for Efficient API Routing in Main and Stage Environments on apache](https://dev.to/dangeorge35/leveraging-htaccess-on-for-efficient-api-routing-in-main-and-stage-environments-on-apache-4k67)
-- [Amazing scroll effects only using CSS ! 😲](https://dev.to/mince/amazing-scroll-effects-only-using-css--3ka7)
+- [Adding advanced search to a Strapi and Next.js project with Algolia](https://dev.to/strapi/adding-advanced-search-to-a-strapi-and-nextjs-project-with-algolia-4fle)
+- [Part 1: Getting Started with Node.js - An Introduction](https://dev.to/dipakahirav/part-1-getting-started-with-nodejs-an-introduction-44a5)
+- [The LAN transmission manual of productivity application RunFlow](https://dev.to/easepan/the-lan-transmission-manual-of-productivity-application-runflow-18fb)
+- [Nunca es tarde para aprender a programar.](https://dev.to/lluistech/nunca-es-tarde-para-aprender-a-programar-4mj4)
+- [keepsecret.py: a simple way to encrypt secret files in your repository](https://dev.to/kohkimakimoto/keepsecretpy-a-simple-way-to-encrypt-secret-files-in-your-repository-59gn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
