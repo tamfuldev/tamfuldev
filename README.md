@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Do You Procrastinate?](https://dev.to/devteam/do-you-procrastinate-5bio)
+- [Understanding Angular Component Lifecycles](https://dev.to/avinashvalluru/understanding-angular-component-lifecycles-3c5i)
 - [Front-end specialisations: Design systems](https://dev.to/r4nd3l/front-end-specialisations-design-systems-3oid)
 - [Leveraging .htaccess on for Efficient API Routing in Main and Stage Environments on apache](https://dev.to/dangeorge35/leveraging-htaccess-on-for-efficient-api-routing-in-main-and-stage-environments-on-apache-4k67)
 - [Amazing scroll effects only using CSS ! 😲](https://dev.to/mince/amazing-scroll-effects-only-using-css--3ka7)
-- [Unlocking the Power of WebAssembly](https://dev.to/yugandhar_dasari_93/unlocking-the-power-of-webassembly-5fo7)
-- [Unlocking the Power of WebAssembly](https://dev.to/yugandhar_dasari_93/unlocking-the-power-of-webassembly-bfl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
