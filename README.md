@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Adding advanced search to a Strapi and Next.js project with Algolia](https://dev.to/strapi/adding-advanced-search-to-a-strapi-and-nextjs-project-with-algolia-4fle)
-- [Part 1: Getting Started with Node.js - An Introduction](https://dev.to/dipakahirav/part-1-getting-started-with-nodejs-an-introduction-44a5)
-- [The LAN transmission manual of productivity application RunFlow](https://dev.to/easepan/the-lan-transmission-manual-of-productivity-application-runflow-18fb)
-- [Nunca es tarde para aprender a programar.](https://dev.to/lluistech/nunca-es-tarde-para-aprender-a-programar-4mj4)
-- [keepsecret.py: a simple way to encrypt secret files in your repository](https://dev.to/kohkimakimoto/keepsecretpy-a-simple-way-to-encrypt-secret-files-in-your-repository-59gn)
+- [Exploring Bark, the Open Source Text-to-Speech Model](https://dev.to/ibrastartupjourney/exploring-bark-the-open-source-text-to-speech-model-1ehe)
+- [LinKeeper - Lesson 03 - Tests and ressources](https://dev.to/happytodev/linkeeper-lesson-03-tests-and-ressources-50m6)
+- [Impact of Fragmented PostgreSQL Infrastructure on Performance, Scalability, and Security](https://dev.to/shiviyer/impact-of-fragmented-postgresql-infrastructure-on-performance-scalability-and-security-4582)
+- [Uncommon matrix](https://dev.to/simongreennet/uncommon-matrix-4mfh)
+- [Numera: A PHP Library for Number to Words Conversion](https://dev.to/yoosefap/numera-a-php-library-for-number-to-words-conversion-1g25)
 <!-- BLOG-POST-LIST:END -->
 
 ---
