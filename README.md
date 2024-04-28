@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Uma paradinha chamada Axios](https://dev.to/punk-sama/uma-paradinha-chamada-axios-217n)
+- [Exploring the V8 JavaScript Engine](https://dev.to/kartikmehta8/exploring-the-v8-javascript-engine-ka)
+- [Whitelisting URL Paths Using Regular Expressions](https://dev.to/afrazkhan/whitelisting-url-paths-using-regular-expressions-4hb7)
+- [Axios 👾](https://dev.to/punk-sama/uma-paradinha-chamada-axios-217n)
 - [And the nominees for “Best Cypress Helper” are: Utility Function, Custom Command, Custom Query, Task, and External Plugin](https://dev.to/sebastianclavijo/and-the-nominees-for-best-cypress-helper-are-utility-function-custom-command-custom-query-task-and-external-plugin-3bb5)
 - [What are the pros and cons of using GitHub Copilot?](https://dev.to/abbymaribe/what-are-the-pros-and-cons-of-using-github-copilot-1pa4)
-- [DEMO - Voice to PDF - Complete PDF documents with voice commands using the Claude 3 Opus API](https://dev.to/juanstoppa/demo-voice-to-pdf-complete-pdf-documents-with-voice-commands-using-the-claude-3-opus-api-5abd)
-- [Upgrading your GitHub readme](https://dev.to/_michellemello/upgrading-your-github-readme-36e0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
