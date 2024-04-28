@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Showcase Your Tech Skills in Your Resume](https://dev.to/nettreesolutions/how-to-showcase-your-tech-skills-in-your-resume-4jd0)
-- [Calculator](https://dev.to/kritanshu/calculator-3019)
-- [Connecting and Collaborating in Open Source: A Beginner&#39;s Guide](https://dev.to/dhruvabhat24/connecting-and-collaborating-in-open-source-a-beginners-guide-14bp)
-- [5 Selected Platforms To Find Web3 Jobs In 2024](https://dev.to/web3mastery/5-selected-platforms-to-find-web3-jobs-in-2024-dmo)
-- [Git Worktree: Your Ticket to Parallel Development Paradise](https://dev.to/meenachan101/git-worktree-your-ticket-to-parallel-development-paradise-3242)
+- [The Importance of JavaScript Obfuscation: Safeguarding Your Code Integrity](https://dev.to/wangliwen/the-importance-of-javascript-obfuscation-safeguarding-your-code-integrity-4k6f)
+- [I made a Earth Day Challenge website that calls for Humanity for Earth](https://dev.to/hasibrashid/i-made-a-earth-day-challenge-website-that-calls-for-humanity-for-earth-ege)
+- [How to visualise MediaPipe’s Hand Tracking in 2D and 3D with Rerun](https://dev.to/rerunio/how-to-visualise-mediapipes-hand-tracking-in-2d-and-3d-with-rerun-44p0)
+- [Rasengan.js 1.0.0 Beta 🚀](https://dev.to/dilane3/rasenganjs-100-beta-4hkc)
+- [A new cross-platform version manager for SDKs](https://dev.to/moqsien/a-new-cross-platform-version-manager-for-sdks-4mmh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
