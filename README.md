@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Starting Small: A Beginner&#39;s Diary](https://dev.to/dincz/starting-small-a-beginners-diary-2jpn)
-- [Build a Calculator using HTML and JavaScript: A Hands-On Guide](https://dev.to/abelroy/build-a-calculator-using-html-and-javascript-a-hands-on-guide-1olc)
-- [Crack the Code Like Caesar: Build Your Own Secret Message Encrypter! [Python code included]](https://dev.to/leroyleow/crack-the-code-like-caesar-build-your-own-secret-message-encrypter-python-code-included-4pmm)
-- [Deploy Your Node.js App in Minutes: Public IP + Nginx on Ubuntu ⚡](https://dev.to/abhinavk454/deploy-your-nodejs-app-in-minutes-public-ip-nginx-on-ubuntu-18nn)
-- [Tictactoe](https://dev.to/kritanshu/tictactoe-3ph6)
+- [5 Selected Platforms To Find Web3 Jobs In 2024](https://dev.to/web3mastery/5-selected-platforms-to-find-web3-jobs-in-2024-dmo)
+- [Git Worktree: Your Ticket to Parallel Development Paradise](https://dev.to/meenachan101/git-worktree-your-ticket-to-parallel-development-paradise-3242)
+- [Celebrate Earth Day by being aware of it&#39;s importance.](https://dev.to/harishprabhu02/celebrate-earth-day-by-being-aware-of-its-importance-18jm)
+- [MANUAL TESTING](https://dev.to/revathykarthik/manual-testing-1aba)
+- [quick Programming Joke](https://dev.to/rickdelpo1/quick-programming-joke-4774)
 <!-- BLOG-POST-LIST:END -->
 
 ---
