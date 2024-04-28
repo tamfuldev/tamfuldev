@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introdução ao desenvolvimento Mobile: Guia para Iniciantes](https://dev.to/racoelho/introducao-ao-desenvolvimento-mobile-guia-para-iniciantes-178h)
-- [Refactor to UseCases](https://dev.to/asvid/refactor-to-usecases-k8n)
-- [Creating a new blog with Texted](https://dev.to/thiagomg/creating-a-new-blog-with-texted-5bm6)
-- [Agile Methodology Task_4](https://dev.to/mohamed_shajan/agile-methodology-task4-2poc)
-- [Can Artificial Intelligence Be Trusted With Our Security?](https://dev.to/ibiyeyellowe/can-artificial-intelligence-be-trusted-with-our-security-2mhh)
+- [Frontend Developer? Here are 10 resources that can make your work easier.](https://dev.to/friyad/frontend-developer-here-are-10-resources-that-can-make-your-work-easier-4n3n)
+- [Book Report Bot](https://dev.to/rubyjava/book-report-bot-30on)
+- [Dr Seuss on Polymorphism](https://dev.to/eatyourabstractions/dr-seuss-on-polymorphism-43cm)
+- [Login Magic for Your SvelteKit App &lpar;It&#39;s Easier Than You Think!&rpar;](https://dev.to/dev_michael/login-magic-for-your-sveltekit-app-its-easier-than-you-think-51hh)
+- [Introduction to Frontend System Design](https://dev.to/raorahul/introduction-to-frontend-system-design-7nj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
