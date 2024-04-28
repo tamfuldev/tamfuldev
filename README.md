@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How to Showcase Your Tech Skills in Your Resume](https://dev.to/nettreesolutions/how-to-showcase-your-tech-skills-in-your-resume-4jd0)
+- [Calculator](https://dev.to/kritanshu/calculator-3019)
+- [Connecting and Collaborating in Open Source: A Beginner&#39;s Guide](https://dev.to/dhruvabhat24/connecting-and-collaborating-in-open-source-a-beginners-guide-14bp)
 - [5 Selected Platforms To Find Web3 Jobs In 2024](https://dev.to/web3mastery/5-selected-platforms-to-find-web3-jobs-in-2024-dmo)
 - [Git Worktree: Your Ticket to Parallel Development Paradise](https://dev.to/meenachan101/git-worktree-your-ticket-to-parallel-development-paradise-3242)
-- [Celebrate Earth Day by being aware of it&#39;s importance.](https://dev.to/harishprabhu02/celebrate-earth-day-by-being-aware-of-its-importance-18jm)
-- [MANUAL TESTING](https://dev.to/revathykarthik/manual-testing-1aba)
-- [quick Programming Joke](https://dev.to/rickdelpo1/quick-programming-joke-4774)
 <!-- BLOG-POST-LIST:END -->
 
 ---
