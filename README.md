@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ink for Game Design](https://dev.to/goldenxp/ink-for-game-design-2e6d)
-- [Earth Day Frontend Challenge: Our Little Blue Dot 🌎](https://dev.to/mfalconi/earth-day-frontend-challenge-our-little-blue-dot-4dfc)
-- [Airport Helper - Plugin](https://dev.to/sanjaysekaren/airport-helper-plugin-7h8)
-- [Submission for the Coze AI Bot Challenge:](https://dev.to/zeroxdesignx/submission-for-the-coze-ai-bot-challenge-6of)
-- [AI Tools of the 21st Century: Humanoid Robots](https://dev.to/hr21don/ai-tools-of-the-21st-century-humanoid-robots-4b5c)
+- [Analytics slows your sales down, let&#39;s fix it!](https://dev.to/harshkc/analytics-slows-your-sales-down-lets-fix-it-1k42)
+- [VectorDB in Action: Unleashing the Power of Molecular Biology](https://dev.to/itzserag/vectordb-in-action-unleashing-the-power-of-molecular-biology-3b0m)
+- [Building a Workout Planner App with Lyzr SDK](https://dev.to/akshay007/building-a-workout-planner-app-with-lyzr-sdk-3m3n)
+- [Three Tips for Your Next &lpar;Software&rpar; Demo](https://dev.to/giubots/three-tips-for-your-next-software-demo-3p3d)
+- [Claude Function calls with AWS Step Functions](https://dev.to/aws-builders/claude-function-calls-with-aws-step-functions-46l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
