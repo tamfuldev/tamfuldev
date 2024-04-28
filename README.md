@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Coze Trailblazer: Adding image processing capability with Image Wizard](https://dev.to/gabrielsenadev/coze-trailblazer-adding-image-processing-capability-with-image-wizard-2hff)
-- [Tetris Development #5 - The HOLD Piece](https://dev.to/xzzz3/tetris-development-5-the-hold-piece-4cmi)
-- [Unlocking AI Superpowers in DevOps: Master Prompt Engineering to Revolutionize Your Workflow!](https://dev.to/apetryla/unlocking-ai-superpowers-in-devops-master-prompt-engineering-to-revolutionize-your-workflow-kl)
-- [2073. Time Needed to Buy Tickets](https://dev.to/mdarifulhaque/2073-time-needed-to-buy-tickets-429f)
-- [1700. Number of Students Unable to Eat Lunch](https://dev.to/mdarifulhaque/1700-number-of-students-unable-to-eat-lunch-344k)
+- [Introdução ao desenvolvimento Mobile: Guia para Iniciantes](https://dev.to/racoelho/introducao-ao-desenvolvimento-mobile-guia-para-iniciantes-178h)
+- [Refactor to UseCases](https://dev.to/asvid/refactor-to-usecases-k8n)
+- [Creating a new blog with Texted](https://dev.to/thiagomg/creating-a-new-blog-with-texted-5bm6)
+- [Agile Methodology Task_4](https://dev.to/mohamed_shajan/agile-methodology-task4-2poc)
+- [Can Artificial Intelligence Be Trusted With Our Security?](https://dev.to/ibiyeyellowe/can-artificial-intelligence-be-trusted-with-our-security-2mhh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
