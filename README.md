@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [FLaNK AI Weekly for 29 April 2024](https://dev.to/tspannhw/flank-ai-weekly-for-29-april-2024-39ec)
-- [Amazon Bedrock Blueprint: Architecting AI Projects with Amazon Bedrock](https://dev.to/aws-builders/amazon-bedrock-blueprint-architecting-ai-projects-with-amazon-bedrock-4686)
-- [Meme Monday](https://dev.to/ben/meme-monday-44dh)
-- [🅰️🚀 𝗔𝗻𝗴𝘂𝗹𝗮𝗿 𝘃𝟭𝟴 𝗛𝘆𝗯𝗿𝗶𝗱 𝗖𝗵𝗮𝗻𝗴𝗲 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻 𝗠𝗼𝗱𝗲](https://dev.to/khangtrannn/-4gc2)
-- [Scaling Your AWS Infrastructure with Load Balancers, Auto Scaling, and CloudWatch.](https://dev.to/nirmalyax/scaling-your-aws-infrastructure-with-load-balancers-auto-scaling-and-cloudwatch-2kkf)
+- [Stay Updated with PHP/Laravel: Weekly News Summary &lpar;22/04/2024–28/04/2024&rpar;](https://dev.to/poovarasu/stay-updated-with-phplaravel-weekly-news-summary-22042024-28042024-43gl)
+- [Integrating Faceio using HTMX](https://dev.to/0ruko002/integrating-faceio-using-htmx-13nn)
+- [Scale-up and Scale-out](https://dev.to/joaosczip/scale-up-and-scale-out-30fa)
+- [Install Apache Web Server and Serve a Custom Webpage Using Ansible](https://dev.to/chigozieco/install-apache-web-server-and-serve-a-custom-webpage-using-ansible-3n73)
+- [Change mode podcast: Episode 1: Write That Funky Manual with Ryan Weaver 🎧](https://dev.to/platformsh/change-mode-podcast-episode-1-write-that-funky-manual-with-ryan-weaver-5eng)
 <!-- BLOG-POST-LIST:END -->
 
 ---
