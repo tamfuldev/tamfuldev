@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stay Updated with PHP/Laravel: Weekly News Summary &lpar;22/04/2024–28/04/2024&rpar;](https://dev.to/poovarasu/stay-updated-with-phplaravel-weekly-news-summary-22042024-28042024-43gl)
-- [Integrating Faceio using HTMX](https://dev.to/0ruko002/integrating-faceio-using-htmx-13nn)
-- [Scale-up and Scale-out](https://dev.to/joaosczip/scale-up-and-scale-out-30fa)
-- [Install Apache Web Server and Serve a Custom Webpage Using Ansible](https://dev.to/chigozieco/install-apache-web-server-and-serve-a-custom-webpage-using-ansible-3n73)
-- [Change mode podcast: Episode 1: Write That Funky Manual with Ryan Weaver 🎧](https://dev.to/platformsh/change-mode-podcast-episode-1-write-that-funky-manual-with-ryan-weaver-5eng)
+- [Terraform vs Terragrunt](https://dev.to/saumya1/terraform-vs-terragrunt-4lhm)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-79a)
+- [How I Combined Small Language Models to Automate Workflow like Financial Research](https://dev.to/llmware/how-i-combine-small-language-models-to-automate-fact-based-workflow-like-financial-research-29np)
+- [Learning: Performing User and Authorization Maintenance](https://dev.to/dentrodailha96/learning-performing-user-and-authorization-maintenance-28c9)
+- [What are your goals for week 18?](https://dev.to/jarvisscript/what-are-your-goals-for-week-18-3484)
 <!-- BLOG-POST-LIST:END -->
 
 ---
