@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Apk does not establish connection with Back-end](https://dev.to/daniel_010/apk-does-not-establish-connection-with-back-end-n34)
-- [O que é e como trabalhar com Ambientes Virtuais em Python](https://dev.to/carlos-cgs/o-que-e-e-como-trabalhar-com-ambientes-virtuais-em-python-473)
-- [Active Liveness Detection vs Passive Liveness Detection](https://dev.to/faceplugin/active-liveness-detection-vs-passive-liveness-detection-2an6)
-- [Buenas Practicas en Rails](https://dev.to/kattyacuevas/buenas-practicas-en-rails-4bo4)
-- [9 months of Machine Learning and beyond](https://dev.to/airtucha/9-months-of-machine-learning-and-beyond-3c48)
+- [My experience in the job search](https://dev.to/rageltd/my-experience-in-the-job-search-4ij9)
+- [How to use NextJS pathname in Storybook 8](https://dev.to/heymarkkop/how-to-use-nextjs-pathname-in-storybook-8-5ac9)
+- [Rabarber v2: A Major Update for the Role-Based Authorization Gem](https://dev.to/enjaku4/rabarber-v2-a-major-update-for-the-role-based-authorization-gem-jel)
+- [Analyzing Python Compression Libraries: zlib, LZ4, Brotli, and Zstandard](https://dev.to/dhilipsiva/analyzing-python-compression-libraries-zlib-lz4-brotli-and-zstandard-2ne5)
+- [Python&#39;s Secret Weapon: List Comprehension](https://dev.to/mozamaia/pythons-secret-weapon-list-comprehension-5bjn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
