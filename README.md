@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I developed a no-code tool that integrates Anthropic into Slack, Teams, and HubSpot](https://dev.to/snowhale/i-developed-a-no-code-tool-that-integrates-anthropic-into-slack-teams-and-hubspot-354c)
-- [The Frontend Challenge v2: Earth Day Edition🌎](https://dev.to/rafajrg21/the-frontend-challenge-v2-earth-day-edition-1fal)
-- [I have Issues with .ejs](https://dev.to/kmoral/i-have-issues-with-ejs-3aj1)
-- [Facebook](https://dev.to/yassinso/facebook-1j6j)
-- [Exploring Invisible Columns in MySQL 8 and Laravel](https://dev.to/muhammadsaim/exploring-invisible-columns-in-mysql-8-and-laravel-5hk3)
+- [Deploying a Bulletproof Photo Sharing App with DevSecOps Terraform, AWS, EKS and Chaos Engineering](https://dev.to/aws-builders/deploying-a-bulletproof-photo-sharing-app-with-devsecops-terraform-aws-eks-and-chaos-engineering-d25)
+- [Deploying a Bulletproof Photo Sharing App with DevSecOps Terraform, AWS, EKS and Chaos Engineering](https://dev.to/aws-builders/deploying-a-bulletproof-photo-sharing-app-with-devsecops-terraform-aws-eks-and-chaos-engineering-4p57)
+- [How to use Retrieval Augmented Generation &lpar;RAG&rpar; for Go applications](https://dev.to/aws/how-to-use-retrieval-augmented-generation-rag-for-go-applications-3b4j)
+- [Create a Custom GitHub Action in Rust](https://dev.to/pnehrer/create-a-custom-github-action-in-rust-2al1)
+- [How to display segmented linear progress bar?](https://dev.to/neuqzxy/how-to-display-segmented-linear-progress-bar-22k5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
