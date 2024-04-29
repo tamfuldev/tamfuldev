@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Redirecting Guards and Resolvers in Angular v18 with RedirectCommand](https://dev.to/davidepassafaro/advanced-angular-navigation-redirect-guards-and-resolvers-in-angular-v18-15ne)
-- [Who Needs Coffee When You&#39;ve Got...?](https://dev.to/devteam/who-needs-coffee-when-youve-got-4nh2)
-- [Console Ninja - Your logs on steroids](https://dev.to/giuliano1993/console-ninja-your-logs-on-steroids-28ie)
-- [Essentials of PostgreSQL CTEs](https://dev.to/dbvismarketing/essentials-of-postgresql-ctes-32f)
-- [A wordpress plugin to save your development time](https://dev.to/appsdevpk/a-wordpress-plugin-to-save-your-development-time-2pdd)
+- [Calender](https://dev.to/kritanshu/calender-326m)
+- [SQL DATA MANIPULATION](https://dev.to/marklouisalter/sql-data-manipulation-2e4j)
+- [Bloodline of Hooks: Custom Hooks in React for Advanced Devs](https://dev.to/kigazon/bloodline-of-hooks-custom-hooks-in-react-for-advanced-devs-2h4h)
+- [GraphQL Request Cancellation in JavaScript](https://dev.to/the-guild/graphql-request-cancellation-in-javascript-13eo)
+- [Micro Frontend Architecture: A Business Website Game Changer](https://dev.to/nicholaswinst14/micro-frontend-architecture-a-business-website-game-changer-2fgf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
