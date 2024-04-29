@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Apk does not establish connection with Back-end](https://dev.to/daniel_010/apk-does-not-establish-connection-with-back-end-n34)
+- [O que é e como trabalhar com Ambientes Virtuais em Python](https://dev.to/carlos-cgs/o-que-e-e-como-trabalhar-com-ambientes-virtuais-em-python-473)
+- [Active Liveness Detection vs Passive Liveness Detection](https://dev.to/faceplugin/active-liveness-detection-vs-passive-liveness-detection-2an6)
 - [Buenas Practicas en Rails](https://dev.to/kattyacuevas/buenas-practicas-en-rails-4bo4)
-- [Recreating a GIF with CSS: Earth Day Edition](https://dev.to/bhallibhai/recreating-a-gif-with-css-earth-day-edition-1k6m)
-- [Request Safe to get data from request safely in Laravel](https://dev.to/yasserelgammal/request-safe-to-get-data-from-request-safely-in-laravel-fj7)
-- [Using NetBird for Kubernetes Access](https://dev.to/braginini/using-netbird-for-kubernetes-access-3fc2)
-- [Fixed XOR](https://dev.to/stefanalfbo/fixed-xor-j9h)
+- [9 months of Machine Learning and beyond](https://dev.to/airtucha/9-months-of-machine-learning-and-beyond-3c48)
 <!-- BLOG-POST-LIST:END -->
 
 ---
