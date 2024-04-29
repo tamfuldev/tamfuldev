@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Next.js: Part 3 - API Routes](https://dev.to/dipakahirav/getting-started-with-nextjs-part-3-api-routes-11m3)
-- [Share data between microfrontend repos](https://dev.to/aminhp93/share-data-between-microfrontend-repos-32pd)
-- [How to run a PostgreSQL inside docker only using Docker Desktop](https://dev.to/victorcalebeifg/how-to-run-a-postgresql-inside-docker-only-using-docker-desktop-3lkb)
-- [Parsing dates and time in Java](https://dev.to/fluentfuture/parsing-dates-and-time-in-java-3c37)
-- [Getting Started with AWS: Unleashing the Power of the Cloud](https://dev.to/josiahngugicommit/getting-started-with-aws-unleashing-the-power-of-the-cloud-43mn)
+- [I developed a no-code tool that integrates Anthropic into Slack, Teams, and HubSpot](https://dev.to/snowhale/i-developed-a-no-code-tool-that-integrates-anthropic-into-slack-teams-and-hubspot-354c)
+- [The Frontend Challenge v2: Earth Day Edition🌎](https://dev.to/rafajrg21/the-frontend-challenge-v2-earth-day-edition-1fal)
+- [I have Issues with .ejs](https://dev.to/kmoral/i-have-issues-with-ejs-3aj1)
+- [Facebook](https://dev.to/yassinso/facebook-1j6j)
+- [Exploring Invisible Columns in MySQL 8 and Laravel](https://dev.to/muhammadsaim/exploring-invisible-columns-in-mysql-8-and-laravel-5hk3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
