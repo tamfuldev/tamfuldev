@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [1 Mistake Amateur Developers Make That Slow Down Development](https://dev.to/annoh_karlgusta/1-mistake-amateur-developers-make-that-slow-down-development-21go)
-- [Intro to React Hooks](https://dev.to/peytono/intro-to-react-hooks-397h)
-- [Fun Agile Retrospectives with GIFs 😆](https://dev.to/mattlewandowski93/fun-agile-retrospectives-with-gifs-3ope)
-- [How far is too far for a job?](https://dev.to/grimkillingbeck/how-far-is-too-far-for-a-job-15hk)
-- [Dive into Web Development with the MERN Stack](https://dev.to/mibii/dive-into-web-development-with-the-mern-stack-3efn)
+- [Getting Started with Next.js: Part 3 - API Routes](https://dev.to/dipakahirav/getting-started-with-nextjs-part-3-api-routes-11m3)
+- [Share data between microfrontend repos](https://dev.to/aminhp93/share-data-between-microfrontend-repos-32pd)
+- [How to run a PostgreSQL inside docker only using Docker Desktop](https://dev.to/victorcalebeifg/how-to-run-a-postgresql-inside-docker-only-using-docker-desktop-3lkb)
+- [Parsing dates and time in Java](https://dev.to/fluentfuture/parsing-dates-and-time-in-java-3c37)
+- [Getting Started with AWS: Unleashing the Power of the Cloud](https://dev.to/josiahngugicommit/getting-started-with-aws-unleashing-the-power-of-the-cloud-43mn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
