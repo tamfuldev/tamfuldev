@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Libraries.io Coze Plugin](https://dev.to/walter0/librariesio-coze-plugin-513h)
-- [CoderLogon: generate a logo for your GitHub repo🎨](https://dev.to/astrabert/coderlogon-generate-a-logo-for-your-github-repo-45a4)
-- [Why Do Higher Order Functions Make My Life Easier?](https://dev.to/danielle-goldberg/why-do-higher-order-functions-make-my-life-easier-5h9)
-- [JHipster 8 - Analisando o código da nossa primeira aplicação monolítica - Parte 1/3](https://dev.to/meucodigoagil/jhipster-8-analisando-o-codigo-da-nossa-primeira-aplicacao-monolitica-parte-13-2380)
-- [8 Essential VS Code Extensions [2024]](https://dev.to/evotik/8-essential-vs-code-extensions-2024-12i1)
+- [Aprenda a falar inglês](https://dev.to/neppersac/aprenda-a-falar-ingles-4dia)
+- [Earth Day Celebration Landing Page](https://dev.to/yowise/earth-day-celebration-landing-page-10d0)
+- [Mock It Till You Make It: Mocking in Python&#39;s unittest](https://dev.to/lizzzzz/mock-it-till-you-make-it-mocking-in-pythons-unittest-42d4)
+- [I am Recording My college Journey To become a Software Engineer](https://dev.to/divyansh2375/i-am-recording-my-college-journey-to-become-a-software-engineer-co5)
+- [JScrambler vs. JShaman: A Feature Comparison for JavaScript Obfuscation](https://dev.to/wangliwen/jscrambler-vs-jshaman-a-feature-comparison-for-javascript-obfuscation-4dh1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
