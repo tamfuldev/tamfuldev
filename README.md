@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Enhance Security for NodeJS Applications](https://dev.to/chauhoangminhnguyen/enhance-security-for-nodejs-applications-395b)
-- [Issue 42 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-42-of-aws-cloud-security-weekly-3m8b)
-- [Q&amp;A SECTION](https://dev.to/pearlodi/qa-section-52di)
-- [Custom Properties vs. CSS Variables: Understanding the Differences and When to Use Each](https://dev.to/ibiyeyellowe/custom-properties-vs-css-variables-understanding-the-differences-and-when-to-use-each-4om4)
-- [OOP poetry Part II: structural patterns](https://dev.to/eatyourabstractions/oop-poetry-part-ii-structural-patterns-22n8)
+- [Simplifying JOIN syntax](https://dev.to/esproc_spl/simplifying-join-syntax-i1o)
+- [Getting Started with Next.js: Part 4 - Server-Side Rendering &lpar;SSR&rpar;](https://dev.to/dipakahirav/getting-started-with-nextjs-part-4-server-side-rendering-ssr-4kic)
+- [Best approach to find duplicates in an array](https://dev.to/rk042/best-approach-to-find-duplicates-in-an-array-120g)
+- [Best approach to find duplicates in an array](https://dev.to/rk042/best-approach-to-find-duplicates-in-an-array-1if5)
+- [Using dependency injection in node environment](https://dev.to/wszgrcy/using-dependency-injection-in-node-environment-k1e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
