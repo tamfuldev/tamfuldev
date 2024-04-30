@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Hosting a Flask web server on Railway [FREE]](https://dev.to/ankur0904/hosting-a-flask-web-server-on-railway-free-1049)
-- [Understanding SSH Tunneling](https://dev.to/gabi1447/understanding-ssh-tunneling-914)
-- [Do I need a 4-year degree to get a developer job?](https://dev.to/educative/do-i-need-a-4-year-degree-to-get-a-developer-job-5dj1)
-- [Understanding DynamicData in .NET: Reactive Data Management Made Easy](https://dev.to/yhaba/understanding-dynamicdata-in-net-reactive-data-management-made-easy-3p2g)
-- [How to Create Websites Easily with GO54 AI Website Builder](https://dev.to/devsuite/how-to-create-websites-easily-with-go54-ai-website-builder-108j)
+- [What is Manual Testing? What are the benefits and drawbacks of manual testing?](https://dev.to/gayu1999/what-is-manual-testing-what-are-the-benefits-and-drawbacks-of-manual-testing-974)
+- [Create a Chat App With Node.js](https://dev.to/amosgyamfi/create-a-chat-app-with-nodejs-16l2)
+- [Accessibility Exercise #1: Pound Cafe Menu](https://dev.to/mahzeb/accessibility-exercise-1-pound-cafe-menu-4787)
+- [React Magic: How to Create a Custom Hook for Seamless Data Retrieval.](https://dev.to/miracool/react-magic-how-to-create-a-custom-hook-for-seamless-data-retrieval-4hj4)
+- [Disaster Recovery Strategies for EC2 Deployments](https://dev.to/platform_engineers/disaster-recovery-strategies-for-ec2-deployments-7lk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
