@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Pass by value vs pass by reference in JavaScript](https://dev.to/ashsajal/pass-by-value-vs-pass-by-reference-in-javascript-41en)
-- [Diorama - ThreeJS](https://dev.to/true525/diorama-threejs-2nhp)
-- [Effortless HTTP Operations in Java: A Guide Inspired by The Java Workshop](https://dev.to/dbillion/effortless-http-operations-in-java-a-guide-inspired-by-the-java-workshop-50gb)
-- [Demystifying the Best NinjaTrader Indicators for Automated Trading: A Guide to Algorithmic Success](https://dev.to/epakconsultant/demystifying-the-best-ninjatrader-indicators-for-automated-trading-a-guide-to-algorithmic-success-2ec9)
-- [Migrate Heroku to AWS](https://dev.to/huydanggdg/migrate-heroku-to-aws-1d73)
+- [Incremento de precios despues de desastres naturales.](https://dev.to/cesaracjota/incremento-de-precios-despues-de-desastres-naturales-1j02)
+- [Step-by-Step Guide to Backing Up an SQL Database](https://dev.to/chowter0033/step-by-step-guide-to-backing-up-an-sql-database-3pn8)
+- [Mastering JavaScript: Unveiling the Power of DOM Manipulation and the JavaScript Object Model](https://dev.to/epakconsultant/mastering-javascript-unveiling-the-power-of-dom-manipulation-and-the-javascript-object-model-5fif)
+- [Demystifying the JavaScript Giants: A Comparative Analysis of React.js and Vue.js](https://dev.to/epakconsultant/demystifying-the-javascript-giants-a-comparative-analysis-of-reactjs-and-vuejs-1kfp)
+- [Apply SwipeToDismissBox in Android Jetpack Compose](https://dev.to/shivathapaa/apply-swipetodismissbox-in-android-jetpack-compose-5d7n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
