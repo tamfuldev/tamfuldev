@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Simplifying JOIN syntax](https://dev.to/esproc_spl/simplifying-join-syntax-i1o)
-- [Getting Started with Next.js: Part 4 - Server-Side Rendering &lpar;SSR&rpar;](https://dev.to/dipakahirav/getting-started-with-nextjs-part-4-server-side-rendering-ssr-4kic)
-- [Best approach to find duplicates in an array](https://dev.to/rk042/best-approach-to-find-duplicates-in-an-array-120g)
-- [Best approach to find duplicates in an array](https://dev.to/rk042/best-approach-to-find-duplicates-in-an-array-1if5)
-- [Using dependency injection in node environment](https://dev.to/wszgrcy/using-dependency-injection-in-node-environment-k1e)
+- [Pass by value vs pass by reference in JavaScript](https://dev.to/ashsajal/pass-by-value-vs-pass-by-reference-in-javascript-41en)
+- [Diorama - ThreeJS](https://dev.to/true525/diorama-threejs-2nhp)
+- [Effortless HTTP Operations in Java: A Guide Inspired by The Java Workshop](https://dev.to/dbillion/effortless-http-operations-in-java-a-guide-inspired-by-the-java-workshop-50gb)
+- [Demystifying the Best NinjaTrader Indicators for Automated Trading: A Guide to Algorithmic Success](https://dev.to/epakconsultant/demystifying-the-best-ninjatrader-indicators-for-automated-trading-a-guide-to-algorithmic-success-2ec9)
+- [Migrate Heroku to AWS](https://dev.to/huydanggdg/migrate-heroku-to-aws-1d73)
 <!-- BLOG-POST-LIST:END -->
 
 ---
