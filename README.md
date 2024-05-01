@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How to Add Firebase Authentication To Your NodeJS App](https://dev.to/permify/how-to-add-firebase-authentication-to-your-nodejs-app-2e68)
+- [JavaScript Proposal: Signals API](https://dev.to/devsmitra/javascript-proposal-signals-api-3ngm)
+- [ERROR 1130 &lpar;HY000&rpar;: Host &#39;123.32.23.12&#39; is not allowed to connect to this MySQL server](https://dev.to/bukanspot/error-1130-hy000-host-123322312-is-not-allowed-to-connect-to-this-mysql-server-1o7h)
+- [Visualize your JSON data instantly](https://dev.to/bugblitz98/visualizer-your-json-data-instantly-1aen)
 - [Improve your productivity by using more terminal and less mouse &lpar;🚀&rpar;.](https://dev.to/ticha/improve-your-productivity-by-using-more-terminal-and-less-mouse--259n)
-- [MudBlazor with Blazor Interactive SSR – What You Need To Know](https://dev.to/devleader/mudblazor-with-blazor-interactive-ssr-what-you-need-to-know-28i9)
-- [Python &quot;Financial Health&quot; Terminal Project](https://dev.to/alejohenaoe/python-financial-health-terminal-project-315i)
-- [Top 5 Essential Laptop/Mac Maintenance Tasks for Peak Performance](https://dev.to/apoorvtomar/top-5-essential-laptopmac-maintenance-tasks-for-peak-performance-315m)
-- [Featured Org of the Month: Green Software Foundation](https://dev.to/devteam/featured-org-of-the-month-green-software-foundation-41a3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
