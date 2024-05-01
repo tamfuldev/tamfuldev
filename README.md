@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Learn SwiftUI &lpar;Day 10/10&rpar;](https://dev.to/bitecode/learn-swiftui-day-1010-2mcp)
-- [Ensuring Business Continuity: Backup, Disaster Recovery, RTO, and RPO](https://dev.to/ahmadrahimizadeh/ensuring-business-continuity-backup-disaster-recovery-rto-and-rpo-go0)
-- [Android Development](https://dev.to/charumehta0215/android-development-3g44)
-- [Postgres partitioning performance: Hash vs. List](https://dev.to/msdousti/postgres-partitioning-performance-hash-vs-list-2ppn)
-- [What is Vscode](https://dev.to/gigo_dev/what-is-vscode-49fl)
+- [79. Word Search](https://dev.to/mdarifulhaque/79-word-search-5d7b)
+- [How to ditch Neon](https://dev.to/aaronblondeau/how-to-ditch-neon-4l8m)
+- [Learn SwiftUI &lpar;Day 11/100&rpar;](https://dev.to/bitecode/learn-swiftui-day-11100-33c0)
+- [2000. Reverse Prefix of Word](https://dev.to/mdarifulhaque/2000-reverse-prefix-of-word-4hbb)
+- [Code Smell 250 - Premature Memoization](https://dev.to/mcsee/code-smell-250-premature-memoization-aea)
 <!-- BLOG-POST-LIST:END -->
 
 ---
