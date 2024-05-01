@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Add Firebase Authentication To Your NodeJS App](https://dev.to/permify/how-to-add-firebase-authentication-to-your-nodejs-app-2e68)
-- [JavaScript Proposal: Signals API](https://dev.to/devsmitra/javascript-proposal-signals-api-3ngm)
-- [ERROR 1130 &lpar;HY000&rpar;: Host &#39;123.32.23.12&#39; is not allowed to connect to this MySQL server](https://dev.to/bukanspot/error-1130-hy000-host-123322312-is-not-allowed-to-connect-to-this-mysql-server-1o7h)
-- [Visualize your JSON data instantly](https://dev.to/bugblitz98/visualizer-your-json-data-instantly-1aen)
-- [Improve your productivity by using more terminal and less mouse &lpar;🚀&rpar;.](https://dev.to/ticha/improve-your-productivity-by-using-more-terminal-and-less-mouse--259n)
+- [🛠️ Have You Heard of WebAssembly? 🚀 It&#39;s About to Change Browsers and JavaScript Forever! 🤯](https://dev.to/best_codes/have-you-heard-of-webassembly-its-about-to-change-browsers-and-javascript-forever-2em1)
+- [How to Get Started with AI for Business](https://dev.to/maiquangtuan/how-to-get-started-with-aifor-business-3o5p)
+- [Some great first posts from new authors in April 💞](https://dev.to/jess/some-great-first-posts-from-new-authors-in-march-21o0)
+- [Mastering Advanced Coding Techniques for Modern Software Development](https://dev.to/dipakahirav/mastering-advanced-coding-techniques-for-modern-software-development-1eo4)
+- [Import and Export locations on Google Maps](https://dev.to/aneeqakhan/import-and-export-locations-on-google-maps-3kb9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
