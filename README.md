@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The 20 Game Challenge : Game 1](https://dev.to/brittanyblairdesign/the-20-game-challenge-game-1-42jp)
-- [Welcome to deepcodr](https://dev.to/deepcodr/welcome-to-deepcodr-547)
-- [Software Hardening Tools for System Defense](https://dev.to/blacknight318/software-hardening-tools-for-system-defense-5h40)
-- [Building Your First CloudFormation Template: A Simple Guide](https://dev.to/devopsfreak/building-your-first-cloudformation-template-a-simple-guide-2l30)
-- [Week 2: New NOTR Server - User Authentication and Middleware](https://dev.to/aldoportillo/week-2-new-notr-server-user-authentication-and-middleware-1ai0)
+- [Setup Azure Cosmos DB for Gremlin in Spring Boot Java](https://dev.to/jonathan-dev/setup-azure-cosmos-db-for-gremlin-in-spring-boot-java-5h95)
+- [How To Manage an Amazon Bedrock Agent Using Terraform](https://dev.to/aws-builders/how-to-manage-an-amazon-bedrock-agent-using-terraform-1lag)
+- [Learn SwiftUI &lpar;Day 7/100&rpar;](https://dev.to/bitecode/learn-swiftui-day-7100-2e4l)
+- [Free tool: Tailwind CSS Colors ✨](https://dev.to/erwin_ai/tailwind-css-colors-563k)
+- [Hello this is first blog](https://dev.to/deepcodr/hello-this-is-first-blog-4ef2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
