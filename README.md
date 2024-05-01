@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Serverless Doesn&#39;t Stand Still](https://dev.to/aws-builders/serverless-doesnt-stand-still-194)
-- [Uploading Files with React &lpar;POST Request&rpar;](https://dev.to/luqmanshaban/uploading-files-with-react-post-request-48gj)
-- [End-to-end MLOps CI/CD pipeline with Harness and AWS](https://dev.to/harness/end-to-end-mlops-cicd-pipeline-with-harness-and-aws-4084)
-- [User Manual for Automation using Ansible .](https://dev.to/khush_1351/user-manual-for-automation-using-ansible--2ihf)
-- [Beware: Invalid Selectors with SCSS](https://dev.to/teetotum/beware-invalid-selectors-with-scss-5alj)
+- [Join us for the Netlify Dynamic Site Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-netlify-dynamic-site-challenge-3000-in-prizes-3mfn)
+- [Is it possible to have a service only used by an AuthGuard in the same module be a singleton?](https://dev.to/jerotas/is-it-possible-to-have-a-service-only-used-by-an-authguard-in-the-same-module-be-a-singleton-1fi3)
+- [Building a Feature-Rich Telegram Bot: Solana, Ethereum, and Beyond](https://dev.to/prabirsinha/building-a-feature-rich-telegram-bot-solana-ethereum-and-beyond-4588)
+- [Learn SwiftUI &lpar;Day 8/100&rpar;](https://dev.to/bitecode/learn-swiftui-day-8100-2587)
+- [PHP: testing, &quot;Attention please!&quot;](https://dev.to/po0q/php-testing-attention-please-26o7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
