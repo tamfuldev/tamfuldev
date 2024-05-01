@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🛠️ Have You Heard of WebAssembly? 🚀 It&#39;s About to Change Browsers and JavaScript Forever! 🤯](https://dev.to/best_codes/have-you-heard-of-webassembly-its-about-to-change-browsers-and-javascript-forever-2em1)
-- [How to Get Started with AI for Business](https://dev.to/maiquangtuan/how-to-get-started-with-aifor-business-3o5p)
-- [Some great first posts from new authors in April 💞](https://dev.to/jess/some-great-first-posts-from-new-authors-in-march-21o0)
-- [Mastering Advanced Coding Techniques for Modern Software Development](https://dev.to/dipakahirav/mastering-advanced-coding-techniques-for-modern-software-development-1eo4)
-- [Import and Export locations on Google Maps](https://dev.to/aneeqakhan/import-and-export-locations-on-google-maps-3kb9)
+- [How to Create Simple Sketching Art with p5.js: A Step-by-Step Tutorial](https://dev.to/devmirx/how-to-create-simple-sketching-art-with-p5js-a-step-by-step-tutorial-ama)
+- [The easiest and best way to create the gitignore file for .Net repositories](https://dev.to/henriqueholtz/the-easiest-and-best-way-to-create-the-gitignore-file-for-net-repositories-1h35)
+- [How to implement Infinite Scrolling in React Native](https://dev.to/ghostkeeper10/how-to-implement-infinite-scrolling-in-react-native-4h9i)
+- [How to implement Infinite Scrolling in React Native](https://dev.to/ghostkeeper10/how-to-implement-infinite-scrolling-in-react-native-ig)
+- [Custom methods in REST API endpoints](https://dev.to/kirekov/custom-methods-in-rest-api-endpoints-3l29)
 <!-- BLOG-POST-LIST:END -->
 
 ---
