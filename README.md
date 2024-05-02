@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Static Site Generator in 3 steps](https://dev.to/devmount/building-a-static-site-generator-in-3-steps-72e)
-- [A Friendly Guide to Coding Collaboration](https://dev.to/respect17/a-friendly-guide-to-coding-collaboration-33dg)
-- [🎩 5 Top Free Resources for Mastering Refactoring](https://dev.to/evergrowingdev/5-top-free-resources-for-mastering-refactoring-n69)
-- [Generating Random Numbers](https://dev.to/paulike/generating-random-numbers-1fhc)
-- [🕸️ Web development trends we will see in 2024 👀](https://dev.to/wasp/web-development-trends-we-will-see-in-2024-55pi)
+- [Day 2: Setting Up Angular Development Environment](https://dev.to/dipakahirav/day-2-setting-up-angular-development-environment-2ck9)
+- [Advanced Index Rebuild and Maintenance Strategies for SQL Server](https://dev.to/devartteam/advanced-index-rebuild-and-maintenance-strategies-for-sql-server-ig2)
+- [Creating Partitions and Mounting File Systems in Linux](https://dev.to/gabi1447/creating-partitions-and-mounting-file-systems-in-linux-39e9)
+- [The Ultimate Guide to DOM Manipulation: Beginner to Expert](https://dev.to/linusmwiti21/the-ultimate-guide-to-dom-manipulation-beginner-to-expert-4h96)
+- [The Digital-Led Retail Banking Market and its Impact on Financial Landscape Transformation](https://dev.to/sidhantkale5/the-digital-led-retail-banking-market-and-its-impact-on-financial-landscape-transformation-dd4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
