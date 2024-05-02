@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Question About Large Language Models and SwiftUI](https://dev.to/simplykyra/question-about-large-language-models-and-swiftui-1ig8)
-- [Intro to Python](https://dev.to/pedroa54/intro-to-python-54em)
-- [AWS Under the Hood - Day 11 - Monitor Your S3 Bucket: Get Notified on every S3 event](https://dev.to/lakhera2015/aws-under-the-hood-day-11-monitor-your-s3-bucket-get-notified-on-every-s3-event-3lk0)
-- [Effortlessly Create an AI Dungeon Master Bot Using Julep and Chainlit](https://dev.to/philipbalbas/effortlessly-create-an-ai-dungeon-master-bot-using-julep-and-chainlit-2bk1)
-- [Seamlessly Setting Up Server Infrastructure for RKE2 with Semaphore UI&lpar;SemUI&rpar; and Ansible on Proxmox -- QM Commands!](https://dev.to/spaceterran/seamlessly-setting-up-server-infrastructure-for-rke2-with-semaphore-uisemui-and-ansible-on-proxmox-qm-commands-17i6)
+- [How to Implement Authorization in React JS](https://dev.to/avinashdalvi_/how-to-implement-authorization-in-react-js-fbk)
+- [Crafting a Winning Proposal for a Technical Conference](https://dev.to/epam_india_python/crafting-a-winning-proposal-for-a-technical-conference-58ne)
+- [Troubleshooting Kafka Connectivity with spark streaming](https://dev.to/james_kimoune_a3474b030cb/troubleshooting-kafka-connectivity-with-spark-streaming-ga2)
+- [Sticky is-stuck web-component](https://dev.to/neophen/sticky-is-stuck-web-component-59co)
+- [Day 1: Introduction to Angular](https://dev.to/dipakahirav/day-1-introduction-to-angular-38co)
 <!-- BLOG-POST-LIST:END -->
 
 ---
