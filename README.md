@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [10 Remote jobs for frontend dev📢](https://dev.to/remotewlb/10-remote-jobs-for-frontend-dev-532i)
-- [How to import all AWS profiles from AWS LandingZone](https://dev.to/devopspass-ai/how-to-import-all-aws-profiles-from-aws-landingzone-5ba5)
-- [What is Kafka Connect?](https://dev.to/dunithdanushka/what-is-kafka-connect-3eae)
-- [Divisible sum pairs](https://dev.to/kecbm/divisible-sum-pairs-159h)
-- [Configura tu usuario de la cuenta de AWS con la linea de comandos &lpar;CLI&rpar;](https://dev.to/andresguecha/configura-tu-usuario-con-cli-de-aws-5532)
+- [Web Scraping Made Simple with Ruby: Your Gateway to Online Data](https://dev.to/eastking/web-scraping-made-simple-with-ruby-your-gateway-to-online-data-1536)
+- [Your S3 objects could be public &lpar;even though the AWS Console doesn&#39;t say so&rpar;](https://dev.to/aws-builders/your-s3-objects-could-be-public-even-though-the-aws-console-doesnt-say-so-4dcl)
+- [Sloan&#39;s Inbox: How Do I Achieve a Four-Day Work Week?](https://dev.to/devteam/sloans-inbox-how-do-i-achieve-a-four-day-work-week-3jeo)
+- [Step-by-Step Guide: Creating a Windows 11 Virtual Machine in Azure Portal](https://dev.to/kennyonifade/step-by-step-guide-creating-a-windows-11-virtual-machine-in-azure-portal-3oop)
+- [What are Neural Networks? Deep Learning Explained for Beginners](https://dev.to/saidi-souhaieb/what-are-neural-networks-deep-learning-explained-for-beginners-2h4k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
