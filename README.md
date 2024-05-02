@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling WordPress 6.5: The Next Frontier in Website Building](https://dev.to/lannycolvin11/unveiling-wordpress-65-the-next-frontier-in-website-building-1a9m)
-- [The best type for storing money in our posgresql db](https://dev.to/thecoder512/the-best-type-for-storing-money-in-our-posgresql-db-2jfl)
-- [Adding Keyboard Shortcut Functionality to the Windows Quick List Applet in Linux Mint Cinnamon](https://dev.to/shawon/adding-keyboard-shortcut-functionality-to-the-windows-quick-list-applet-in-linux-mint-cinnamon-4lkj)
-- [Customer Case Study – BlueShift ONE System](https://dev.to/andyb1979/customer-case-study-blueshift-one-system-3if2)
-- [JavaScript prototypal and classical inheritance](https://dev.to/ashsajal/javascript-prototypal-and-classical-inheritance-111l)
+- [Selections](https://dev.to/paulike/selections-1l9c)
+- [No-code Real-time Object Detection without training models](https://dev.to/miguelaeh/no-code-real-time-object-detection-without-training-models-59b0)
+- [How to add or modify a validation rule in Trivule?](https://dev.to/claudye/how-to-add-or-modify-a-validation-rule-in-trivule-324b)
+- [Zen of debugging: 5 tips for beginners](https://dev.to/educative/zen-of-debugging-5-tips-for-beginners-18pg)
+- [Machine Learning : Things you don&#39;t know yet !!!](https://dev.to/rishabhjaincodes/machine-learning-things-you-dont-know-yet--8b8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
