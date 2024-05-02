@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Securing Your Cloud: Proactive Strategies for AWS Security](https://dev.to/aws-builders/securing-your-cloud-proactive-strategies-for-aws-security-4040)
-- [How to create a Vue3 Application with Webpack - JavaScript Version](https://dev.to/markliu2013/how-to-create-a-vue3-application-with-webpack-javascript-version-2d93)
-- [Understand How to Transform Images into Text Easily](https://dev.to/ideradevtools/understand-how-to-transform-images-into-text-easily-2nkn)
-- [🌟 Introducing StarSearch: Unlock the Copilot for Git History](https://dev.to/opensauced/introducing-starsearch-unlock-the-copilot-for-git-history-5ddb)
-- [Understanding XML : How It Differs from HTML and Differences](https://dev.to/nourbouch/understanding-xml-how-it-differs-from-html-pj8)
+- [How single message broke all our monitoring and dashboards](https://dev.to/capjavert/how-single-message-broke-all-our-monitoring-and-dashboards-40a6)
+- [Ubiquitous Language: the Good, the Bad, and the Lessons](https://dev.to/upslide/ubiquitous-language-the-good-the-bad-and-the-lessons-c2p)
+- [Laravel Error Fix: How to Handle &quot;Attempt property on null&quot;](https://dev.to/tarequr/laravel-error-fix-how-to-handle-attempt-property-on-null-29e1)
+- [The Magic of keyof and typeof in Typescript](https://dev.to/anjankarmakar/magic-of-keyof-and-typeof-in-typescript-43ma)
+- [How to restore a Mysql backup with XAMP](https://dev.to/automata/how-to-restore-a-mysql-backup-with-xamp-e64)
 <!-- BLOG-POST-LIST:END -->
 
 ---
