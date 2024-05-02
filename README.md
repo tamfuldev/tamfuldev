@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [79. Word Search](https://dev.to/mdarifulhaque/79-word-search-5d7b)
-- [How to ditch Neon](https://dev.to/aaronblondeau/how-to-ditch-neon-4l8m)
-- [Learn SwiftUI &lpar;Day 11/100&rpar;](https://dev.to/bitecode/learn-swiftui-day-11100-33c0)
-- [2000. Reverse Prefix of Word](https://dev.to/mdarifulhaque/2000-reverse-prefix-of-word-4hbb)
-- [Code Smell 250 - Premature Memoization](https://dev.to/mcsee/code-smell-250-premature-memoization-aea)
+- [Renewing Let&#39;s Encrypt Certificates with NGINX Unit](https://dev.to/djangotricks/renewing-lets-encrypt-certificates-with-nginx-unit-2jik)
+- [Lagoon at DrupalCon Portland 2024](https://dev.to/uselagoon/lagoon-at-drupalcon-portland-2024-1abi)
+- [TypeScript dev tools in the Golang world](https://dev.to/henriqueleite42/typescript-dev-tools-in-the-golang-world-3l41)
+- [Golang or TypeScript?](https://dev.to/henriqueleite42/golang-or-typescript-f63)
+- [Managing View State and Client-side Routing in SPAs](https://dev.to/karsonkalt/managing-view-state-and-client-side-routing-in-spas-5d3j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
