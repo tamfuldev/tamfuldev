@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Reflexões sobre SOLID - Princípios Básicos](https://dev.to/mdeamp/reflexoes-sobre-solid-principios-basicos-2c9e)
-- [Handling 404 Error in SPA Deployed on GitHub Pages](https://dev.to/lico/handling-404-error-in-spa-deployed-on-github-pages-246p)
-- [Enhancing Java Web Development Skills: @WebServlet Annotation, JSP, Servlet vs. JSP, and Exception Handling](https://dev.to/vishalwaje/enhancing-java-web-development-skills-webservlet-annotation-jsp-servlet-vs-jsp-and-exception-handling-176d)
-- [Day 32/366](https://dev.to/vishalmx3/day-32366-3flp)
-- [Friend or Foe? Unveiling the Free vs Paid Proxy Truth](https://dev.to/johndone/friend-or-foe-unveiling-the-free-vs-paid-proxy-truth-5540)
+- [Computer Vision Meetup: Making LLMs Safe &amp; Reliable](https://dev.to/voxel51/computer-vision-meetup-making-llms-safe-reliable-5goi)
+- [Developing an Arabic Learning Terminal-Based App!](https://dev.to/tishksuran/developing-an-arabic-learning-terminal-based-app-50n1)
+- [Why Understanding Your Open Source Licenses Matters](https://dev.to/gitguardian/why-understanding-your-open-source-licenses-matters-1pkl)
+- [1st week of WAD Blog](https://dev.to/kazuchikayanagi/1st-week-of-wad-blog-b8g)
+- [chat heap minchild](https://dev.to/imnotleo/chat-heap-minchild-5934)
 <!-- BLOG-POST-LIST:END -->
 
 ---
