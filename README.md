@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Netlify Dynamic Site Challenge - Help Thread!](https://dev.to/netlify/netlify-dynamic-site-challenge-help-thread-2081)
-- [🖋️ Unlock Your Writing Potential with CopilotKit&#39;s AI-Powered Wizardry!](https://dev.to/arnavk-09/unlock-your-writing-potential-with-copilotkits-ai-powered-wizardry-30bb)
-- [Melhorando e configurando seu novo Shell linux. Pt-2](https://dev.to/devhat/melhorando-e-configurando-seu-novo-shell-linux-pt-2-4bfc)
-- [Notes on streaming downloads with progress in Elixir](https://dev.to/ndrean/notes-on-streaming-downloads-with-progress-in-elixir-4nk7)
-- [GIT and GITHUB](https://dev.to/bbylumi/git-and-github-17ba)
+- [Torneo Pokemon](https://dev.to/imnotleo/torneo-pokemon-1o3l)
+- [Exploring the Latest Angular Release: New Features and Advantages for Developers](https://dev.to/cachemerrill/exploring-the-latest-angular-release-new-features-and-advantages-for-developers-5c83)
+- [Where is Frances: An Unemployment Story](https://dev.to/bcornils/where-is-frances-an-unemployment-story-470p)
+- [Understanding AWS: A 101 Guide to Amazon Web Services](https://dev.to/buildwebcrumbs/understanding-aws-a-101-guide-to-amazon-web-services-1ipk)
+- [What Months of Failing in My Habits Taught Me](https://dev.to/lucaschitolina/what-months-of-failing-in-my-habits-taught-me-3198)
 <!-- BLOG-POST-LIST:END -->
 
 ---
