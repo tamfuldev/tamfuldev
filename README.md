@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Torneo Pokemon](https://dev.to/imnotleo/torneo-pokemon-1o3l)
-- [Exploring the Latest Angular Release: New Features and Advantages for Developers](https://dev.to/cachemerrill/exploring-the-latest-angular-release-new-features-and-advantages-for-developers-5c83)
-- [Where is Frances: An Unemployment Story](https://dev.to/bcornils/where-is-frances-an-unemployment-story-470p)
-- [Understanding AWS: A 101 Guide to Amazon Web Services](https://dev.to/buildwebcrumbs/understanding-aws-a-101-guide-to-amazon-web-services-1ipk)
-- [What Months of Failing in My Habits Taught Me](https://dev.to/lucaschitolina/what-months-of-failing-in-my-habits-taught-me-3198)
+- [🌌 May The Fourth Be With You! ⚔️ 🌠](https://dev.to/devteam/may-the-fourth-be-with-you-43p7)
+- [cURL for Web Scraping with Python, JAVA, and PHP](https://dev.to/crawlbase/curl-for-web-scraping-with-python-java-and-php-4875)
+- [Podcast: A candid chat about the developer market with Don the Developer](https://dev.to/rithmschool/podcast-a-candid-chat-about-the-developer-market-with-don-the-developer-2410)
+- [Recapping the AI, Machine Learning and Data Science Meetup — May 2, 2024](https://dev.to/jguerrero-voxel51/recapping-the-ai-machine-learning-and-data-science-meetup-may-2-2024-151h)
+- [heap minchild](https://dev.to/imnotleo/heap-minchild-5h9o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
