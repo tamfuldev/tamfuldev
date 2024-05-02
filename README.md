@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Demystifying Web Application Testing](https://dev.to/leoneloliver/demystifying-web-application-testing-4gi)
+- [Debate about dynamic vs static is pointless](https://dev.to/ucok23/debate-about-dynamic-vs-static-is-pointless-o35)
+- [Survey on the Feasibility of AI Ops Agents Replacing Human Tasks?](https://dev.to/choonho/survey-on-the-feasibility-of-ai-ops-agents-replacing-human-tasks-1fi6)
+- [Developing VR Applications with Unity](https://dev.to/kartikmehta8/developing-vr-applications-with-unity-5fo2)
 - [Renewing Let&#39;s Encrypt Certificates with NGINX Unit](https://dev.to/djangotricks/renewing-lets-encrypt-certificates-with-nginx-unit-2jik)
-- [Lagoon at DrupalCon Portland 2024](https://dev.to/uselagoon/lagoon-at-drupalcon-portland-2024-1abi)
-- [TypeScript dev tools in the Golang world](https://dev.to/henriqueleite42/typescript-dev-tools-in-the-golang-world-3l41)
-- [Golang or TypeScript?](https://dev.to/henriqueleite42/golang-or-typescript-f63)
-- [Managing View State and Client-side Routing in SPAs](https://dev.to/karsonkalt/managing-view-state-and-client-side-routing-in-spas-5d3j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
