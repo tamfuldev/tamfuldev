@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How single message broke all our monitoring and dashboards](https://dev.to/capjavert/how-single-message-broke-all-our-monitoring-and-dashboards-40a6)
-- [Ubiquitous Language: the Good, the Bad, and the Lessons](https://dev.to/upslide/ubiquitous-language-the-good-the-bad-and-the-lessons-c2p)
-- [Laravel Error Fix: How to Handle &quot;Attempt property on null&quot;](https://dev.to/tarequr/laravel-error-fix-how-to-handle-attempt-property-on-null-29e1)
-- [The Magic of keyof and typeof in Typescript](https://dev.to/anjankarmakar/magic-of-keyof-and-typeof-in-typescript-43ma)
-- [How to restore a Mysql backup with XAMP](https://dev.to/automata/how-to-restore-a-mysql-backup-with-xamp-e64)
+- [Reflexões sobre SOLID - Princípios Básicos](https://dev.to/mdeamp/reflexoes-sobre-solid-principios-basicos-2c9e)
+- [Handling 404 Error in SPA Deployed on GitHub Pages](https://dev.to/lico/handling-404-error-in-spa-deployed-on-github-pages-246p)
+- [Enhancing Java Web Development Skills: @WebServlet Annotation, JSP, Servlet vs. JSP, and Exception Handling](https://dev.to/vishalwaje/enhancing-java-web-development-skills-webservlet-annotation-jsp-servlet-vs-jsp-and-exception-handling-176d)
+- [Day 32/366](https://dev.to/vishalmx3/day-32366-3flp)
+- [Friend or Foe? Unveiling the Free vs Paid Proxy Truth](https://dev.to/johndone/friend-or-foe-unveiling-the-free-vs-paid-proxy-truth-5540)
 <!-- BLOG-POST-LIST:END -->
 
 ---
