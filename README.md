@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Selections](https://dev.to/paulike/selections-1l9c)
-- [No-code Real-time Object Detection without training models](https://dev.to/miguelaeh/no-code-real-time-object-detection-without-training-models-59b0)
-- [How to add or modify a validation rule in Trivule?](https://dev.to/claudye/how-to-add-or-modify-a-validation-rule-in-trivule-324b)
-- [Zen of debugging: 5 tips for beginners](https://dev.to/educative/zen-of-debugging-5-tips-for-beginners-18pg)
-- [Machine Learning : Things you don&#39;t know yet !!!](https://dev.to/rishabhjaincodes/machine-learning-things-you-dont-know-yet--8b8)
+- [Building a Static Site Generator in 3 steps](https://dev.to/devmount/building-a-static-site-generator-in-3-steps-72e)
+- [A Friendly Guide to Coding Collaboration](https://dev.to/respect17/a-friendly-guide-to-coding-collaboration-33dg)
+- [🎩 5 Top Free Resources for Mastering Refactoring](https://dev.to/evergrowingdev/5-top-free-resources-for-mastering-refactoring-n69)
+- [Generating Random Numbers](https://dev.to/paulike/generating-random-numbers-1fhc)
+- [🕸️ Web development trends we will see in 2024 👀](https://dev.to/wasp/web-development-trends-we-will-see-in-2024-55pi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
