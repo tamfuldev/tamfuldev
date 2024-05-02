@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 2: Setting Up Angular Development Environment](https://dev.to/dipakahirav/day-2-setting-up-angular-development-environment-2ck9)
-- [Advanced Index Rebuild and Maintenance Strategies for SQL Server](https://dev.to/devartteam/advanced-index-rebuild-and-maintenance-strategies-for-sql-server-ig2)
-- [Creating Partitions and Mounting File Systems in Linux](https://dev.to/gabi1447/creating-partitions-and-mounting-file-systems-in-linux-39e9)
-- [The Ultimate Guide to DOM Manipulation: Beginner to Expert](https://dev.to/linusmwiti21/the-ultimate-guide-to-dom-manipulation-beginner-to-expert-4h96)
-- [The Digital-Led Retail Banking Market and its Impact on Financial Landscape Transformation](https://dev.to/sidhantkale5/the-digital-led-retail-banking-market-and-its-impact-on-financial-landscape-transformation-dd4)
+- [10 Remote jobs for frontend dev📢](https://dev.to/remotewlb/10-remote-jobs-for-frontend-dev-532i)
+- [How to import all AWS profiles from AWS LandingZone](https://dev.to/devopspass-ai/how-to-import-all-aws-profiles-from-aws-landingzone-5ba5)
+- [What is Kafka Connect?](https://dev.to/dunithdanushka/what-is-kafka-connect-3eae)
+- [Divisible sum pairs](https://dev.to/kecbm/divisible-sum-pairs-159h)
+- [Configura tu usuario de la cuenta de AWS con la linea de comandos &lpar;CLI&rpar;](https://dev.to/andresguecha/configura-tu-usuario-con-cli-de-aws-5532)
 <!-- BLOG-POST-LIST:END -->
 
 ---
