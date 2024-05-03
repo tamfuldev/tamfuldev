@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [# Const x Final em Dart. Você sabe a diferença?](https://dev.to/ylanzinhoy/-const-x-final-em-dart-voce-sabe-a-diferenca-5ahc)
-- [I made a whooping 1.60$ from my books-for-indies app and... it&#39;s totally fine.](https://dev.to/majorbaguette/i-made-a-whooping-160from-my-books-for-indiesapp-and-its-totally-fine-3bn7)
-- [Linux Ninja: Master Text Manipulation from Beginner to Badass in the CLI](https://dev.to/fullstackdev/text-ninja-master-text-manipulation-from-beginner-to-badass-5do3)
-- [Navigating Through Slow Connections in Java](https://dev.to/dbillion/navigating-through-slow-connections-in-java-pka)
-- [How to Detect AI Hallucinations](https://dev.to/vishalmysore/how-to-detect-ai-hallucinations-554j)
+- [Tailwind tips I&#39;ve learned while using it !](https://dev.to/patzi275/tailwind-tips-ive-learned-while-using-it--20o4)
+- [Introduction to Docker Containers [With Commands]](https://dev.to/markyu/introduction-to-docker-containers-with-commands-amf)
+- [How to Choose the Proper License for your Project &lpar;and Why It Matters&rpar;](https://dev.to/hjgonzalez06/how-to-choose-the-proper-license-for-your-project-and-why-it-matters-16en)
+- [Unofficial ChatGPT API with simple agent-based](https://dev.to/0xmesto/an-unofficial-chatgpt-api-with-simple-agent-based-2i7m)
+- [How to Create an Interactive Terminal-Based Portfolio](https://dev.to/jcubic/how-to-create-an-interactive-terminal-based-portfolio-n7h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
