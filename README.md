@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Any Favorite Hiking Escapes for Code Breaks?](https://dev.to/devteam/any-favorite-hiking-escapes-for-code-breaks-1f5p)
-- [AWS Cloud - Storage Services](https://dev.to/vineetaparodkar/aws-cloud-storage-services-556f)
-- [System Design - Scalability](https://dev.to/vineetaparodkar/system-design-scaling-h4n)
-- [IAC e Terraform. O que é e porque são tão importantes? Ep.2](https://dev.to/aws-builders/iac-e-terraform-o-que-e-e-porque-sao-tao-importantes-ep2-34fj)
-- [Blockchain and Cryptocurrency: Understanding the Difference](https://dev.to/getblockapi/blockchain-and-cryptocurrency-understanding-the-difference-551b)
+- [[ALPHA 0.1] Chat System Work](https://dev.to/khbc_remake/alpha-01-chat-system-work-3m2j)
+- [The refactors I did to stop my Jetpack Compose LazyColumn from constantly recomposing](https://dev.to/theplebdev/the-refactors-i-did-to-stop-my-jetpack-compose-lazycolumn-from-constantly-recomposing-57l0)
+- [Unlocking secure software distribution with Minder and GitHub Artifact Attestations](https://dev.to/ninfriendos1/unlocking-secure-software-distribution-with-minder-and-github-artifact-attestations-8l5)
+- [Difference between functional and nonfunctional testing](https://dev.to/karvendhan/difference-between-functional-and-nonfunctional-testing-83h)
+- [Machine Learning Models: Linear Regression](https://dev.to/jhalylm/machine-learning-models-linear-regression-56lp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
