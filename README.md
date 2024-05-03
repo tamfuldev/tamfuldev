@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Automatic interfaces generation in the C#](https://dev.to/szymonhalucha/automatic-interfaces-generation-in-the-c-469k)
-- [Demystifying Heuristic Search Algorithms](https://dev.to/markyu/demystifying-heuristic-search-algorithms-59lh)
-- [HTML popover](https://dev.to/vulfh/html-popover-57a0)
-- [Why write a library?](https://dev.to/zin_kg/why-write-a-library-4ceb)
-- [Designing with accessibility in mind: Ubergood Festival](https://dev.to/mahzeb/designing-with-accessibility-in-mind-ubergood-festival-3o40)
+- [How to create an ECS Service with more than one Target Group](https://dev.to/fanmixco/how-to-create-a-ecs-service-more-than-one-target-group-2j2i)
+- [NeoVim for beginners Walkthrough](https://dev.to/bekbrace/neovim-for-beginners-walkthrough-1768)
+- [Access Control Trends in 2024](https://dev.to/blogginger/access-control-trends-in-2024-2h2b)
+- [MediatR Response: Should the Request Handler Return Exceptions?](https://dev.to/sharpassembly/mediatr-response-should-the-request-handler-return-exceptions-1fd9)
+- [Designing Interior Using Lyzr Automata and Dalle 3](https://dev.to/harshitlyzr/designing-interior-using-lyzr-automata-and-dalle-3-5ffb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
