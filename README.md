@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [2024-05-03 my weekly dev.to recommendation](https://dev.to/ccoveille/2024-05-03-my-weekly-devto-recommendation-4e4j)
-- [Docker Containers vs. Virtual Machines](https://dev.to/iamgoncaloalves/docker-containers-vs-virtual-machines-3baj)
-- [Conditional Expressions](https://dev.to/paulike/conditional-expressions-oln)
-- [Why IMDSv1 is a Security Risk for Cloud Infrastructure](https://dev.to/kfir-g/why-imdsv1-is-a-security-risk-for-cloud-infrastructure-295g)
-- [Eliminate IPv4 tax on AWS, is it that easy?](https://dev.to/hunghvu/eliminate-ipv4-tax-on-aws-is-it-that-easy-ib5)
+- [Any Favorite Hiking Escapes for Code Breaks?](https://dev.to/devteam/any-favorite-hiking-escapes-for-code-breaks-1f5p)
+- [AWS Cloud - Storage Services](https://dev.to/vineetaparodkar/aws-cloud-storage-services-556f)
+- [System Design - Scalability](https://dev.to/vineetaparodkar/system-design-scaling-h4n)
+- [IAC e Terraform. O que é e porque são tão importantes? Ep.2](https://dev.to/aws-builders/iac-e-terraform-o-que-e-e-porque-sao-tao-importantes-ep2-34fj)
+- [Blockchain and Cryptocurrency: Understanding the Difference](https://dev.to/getblockapi/blockchain-and-cryptocurrency-understanding-the-difference-551b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
