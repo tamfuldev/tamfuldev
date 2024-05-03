@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Database Scalability in Microservices](https://dev.to/karandaid/optimizing-database-scalability-in-microservices-ca8)
-- [CRUD Laravel 10 dan Bootstrap 5 #4: Mengupdate Data](https://dev.to/risekucom/crud-laravel-10-dan-bootstrap-5-4-mengupdate-data-3ahh)
-- [Latest Python Features That Every Developer Should Know](https://dev.to/cachemerrill/latest-python-features-that-every-developer-should-know-m8g)
-- [Efficiently Deploy Cloud Resources on AWS with Terraform](https://dev.to/audu97/efficiently-deploy-cloud-resources-on-aws-with-terraform-2cbc)
-- [Starter Nuxt Template](https://dev.to/jgngo/starter-nuxt-template-4cb1)
+- [How I use Devbox in my Elm projects](https://dev.to/dwayne/how-i-use-devbox-in-my-elm-projects-2hbg)
+- [Create charts with chart.js](https://dev.to/notesmatic/create-charts-with-chartjs-1dda)
+- [Top Open Source Prompt Engineering Guides &amp; Tools🔧🏗️🚀](https://dev.to/milasuperstar/top-open-source-prompt-engineering-guides-tools-11g3)
+- [Make your resume SEO friendly using JSON Resume with microdata](https://dev.to/scottnath/make-your-resume-seo-friendly-using-json-resume-with-microdata-1kln)
+- [DeploySolo – The SaaS template in 1 file. &lpar;PocketBase/ htmx&rpar;](https://dev.to/manderson/deploysolo-the-saas-boilerplate-in-1-file-pocketbase-htmx-3o2k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
