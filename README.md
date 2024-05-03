@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🌌 May The Fourth Be With You! ⚔️ 🌠](https://dev.to/devteam/may-the-fourth-be-with-you-43p7)
-- [cURL for Web Scraping with Python, JAVA, and PHP](https://dev.to/crawlbase/curl-for-web-scraping-with-python-java-and-php-4875)
-- [Podcast: A candid chat about the developer market with Don the Developer](https://dev.to/rithmschool/podcast-a-candid-chat-about-the-developer-market-with-don-the-developer-2410)
-- [Recapping the AI, Machine Learning and Data Science Meetup — May 2, 2024](https://dev.to/jguerrero-voxel51/recapping-the-ai-machine-learning-and-data-science-meetup-may-2-2024-151h)
-- [heap minchild](https://dev.to/imnotleo/heap-minchild-5h9o)
+- [Optimizing Database Scalability in Microservices](https://dev.to/karandaid/optimizing-database-scalability-in-microservices-ca8)
+- [CRUD Laravel 10 dan Bootstrap 5 #4: Mengupdate Data](https://dev.to/risekucom/crud-laravel-10-dan-bootstrap-5-4-mengupdate-data-3ahh)
+- [Latest Python Features That Every Developer Should Know](https://dev.to/cachemerrill/latest-python-features-that-every-developer-should-know-m8g)
+- [Efficiently Deploy Cloud Resources on AWS with Terraform](https://dev.to/audu97/efficiently-deploy-cloud-resources-on-aws-with-terraform-2cbc)
+- [Starter Nuxt Template](https://dev.to/jgngo/starter-nuxt-template-4cb1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
