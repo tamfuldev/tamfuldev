@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Tailwind tips I&#39;ve learned while using it !](https://dev.to/patzi275/tailwind-tips-ive-learned-while-using-it--20o4)
-- [Introduction to Docker Containers [With Commands]](https://dev.to/markyu/introduction-to-docker-containers-with-commands-amf)
-- [How to Choose the Proper License for your Project &lpar;and Why It Matters&rpar;](https://dev.to/hjgonzalez06/how-to-choose-the-proper-license-for-your-project-and-why-it-matters-16en)
-- [Unofficial ChatGPT API with simple agent-based](https://dev.to/0xmesto/an-unofficial-chatgpt-api-with-simple-agent-based-2i7m)
-- [How to Create an Interactive Terminal-Based Portfolio](https://dev.to/jcubic/how-to-create-an-interactive-terminal-based-portfolio-n7h)
+- [Why I rarely use `getByRole`: Testing Library and the first rule of ARIA](https://dev.to/marktnoonan/why-i-rarely-use-getbyrole-testing-library-and-the-first-rule-of-aria-4581)
+- [Why you should Use Vim In 2024 ?](https://dev.to/divyansh2375/why-you-should-use-vim-in-2024--3fpl)
+- [Is Kotlin actually Good ? + Authentication &lpar;Day 3&rpar; - Creating a SaaS Startup in 30 Days](https://dev.to/sotergreco/is-kotlin-actually-good-authentication-day-3-creating-a-saas-startup-in-30-days-351o)
+- [Panic and Recover in the Go Runtime](https://dev.to/sergerad/panic-and-recover-in-the-go-runtime-21mb)
+- [Criatividade Ampliada: Explorando a Ferramenta Creatie.ia](https://dev.to/somosguix/criatividade-ampliada-explorando-a-ferramenta-creatieia-20h0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
