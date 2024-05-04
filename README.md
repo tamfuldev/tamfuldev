@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Learning AWS Day by Day - Day 55 - Amazon SQS Standard Queue](https://dev.to/rksalo88/learning-aws-day-by-day-day-55-amazon-sqs-standard-queue-455h)
-- [Exploring Functional Programming in Java &lpar;for JavaScript Developers&rpar;](https://dev.to/gervaisamoah/exploring-functional-programming-in-java-for-javascript-developers-3dem)
-- [Welcome](https://dev.to/aminelebrini/welcome-1bih)
-- [Back to Square One](https://dev.to/piyuuussshhh/back-to-square-one-5ehe)
-- [typelevel typescript: a practical view](https://dev.to/eatyourabstractions/typelevel-typescript-a-practical-view-1j1m)
+- [Add a Custom Font to Your XCode Project](https://dev.to/leonardsangoroh/add-a-custom-font-to-your-xcode-project-np2)
+- [FIRST Principles and Test Smells 🚀](https://dev.to/htamagnus/first-principles-and-test-smells-54c6)
+- [Netlify Dynamic Site Challenge Submission: Dynamic Image Gallery with Netlify Image CDN Visual Feast](https://dev.to/suhainafathimam/netlify-dynamic-site-challenge-submission-visual-feast-photo-gallery-4c9)
+- [Lidando com valores negativos no JS](https://dev.to/terminalcoffee/lidando-com-valores-negativos-no-js-27cc)
+- [Clinical Management System](https://dev.to/liong/clinical-management-system-25i6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
