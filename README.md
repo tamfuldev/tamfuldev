@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Securing Data with Java Encryption](https://dev.to/dbillion/securing-data-with-java-encryption-3kjl)
-- [Lazy Loading Components In React](https://dev.to/bipinrajbhar/lazy-loading-components-in-react-3g25)
-- [Installing Multiple Versions of PHP on Ubuntu, Debian &lpar;also WSL&rpar;.](https://dev.to/angelalexqc/installing-multiple-versions-of-php-on-ubuntu-debian-also-wsl-5hjp)
-- [Features, future-proof and interoperable in TiniJS apps](https://dev.to/lamnhan/features-future-proof-and-interoperable-in-tinijs-apps-48dh)
-- [Symfony 7 vs. .NET 8 - same-same but different?](https://dev.to/awons/symfony-7-vs-net-8-same-same-but-different-9ob)
+- [Stop tracking changes to certain files in Git](https://dev.to/benmatselby/stop-tracking-changes-to-certain-files-in-git-24g6)
+- [Exploring the Realm of Java Encryption: Types and Techniques](https://dev.to/dbillion/exploring-the-realm-of-java-encryption-types-and-techniques-20io)
+- [Using Redpanda with OpenTelemetry and Grafana for real-time event monitoring](https://dev.to/akinfiyinfoluwa/using-redpanda-with-opentelemetry-and-grafana-for-real-time-event-monitoring-li6)
+- [Create and Deploy AWS EKS Cluster with Terraform.](https://dev.to/swapi123/create-and-deploy-aws-eks-cluster-with-terraform-41h3)
+- [Started working on a new Travel-based project](https://dev.to/ayush2390/started-working-on-a-new-travel-based-project-3hia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
