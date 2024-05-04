@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Your First Application on Kubernetes: Step-by-Step Tutorial](https://dev.to/getambassador2024/deploying-your-first-application-on-kubernetes-step-by-step-tutorial-jb0)
-- [How to Use Http Request](https://dev.to/sukmarizki04/cara-penggunaan-http-request-4nkm)
-- [Default Interface Implementation or Mix-in design pattern in the C#](https://dev.to/szymonhalucha/default-interface-implementation-or-mix-in-design-pattern-in-the-c-12hi)
-- [[LeetCode] Concatenation of Array with Modular Arithmetic](https://dev.to/lada496/leetcode-concatenation-of-array-with-modular-arithmetic-1b3k)
-- [Implementing 3D Graphics in React](https://dev.to/markyu/implementing-3d-graphics-in-react-9mg)
+- [Securing Data with Java Encryption](https://dev.to/dbillion/securing-data-with-java-encryption-3kjl)
+- [Lazy Loading Components In React](https://dev.to/bipinrajbhar/lazy-loading-components-in-react-3g25)
+- [Installing Multiple Versions of PHP on Ubuntu, Debian &lpar;also WSL&rpar;.](https://dev.to/angelalexqc/installing-multiple-versions-of-php-on-ubuntu-debian-also-wsl-5hjp)
+- [Features, future-proof and interoperable in TiniJS apps](https://dev.to/lamnhan/features-future-proof-and-interoperable-in-tinijs-apps-48dh)
+- [Symfony 7 vs. .NET 8 - same-same but different?](https://dev.to/awons/symfony-7-vs-net-8-same-same-but-different-9ob)
 <!-- BLOG-POST-LIST:END -->
 
 ---
