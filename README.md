@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI enthusiasm #10 - Summarize PDFs with AI🗎](https://dev.to/astrabert/ai-enthusiasm-10-summarize-pdfs-with-ai-236f)
-- [Fixing my deployment mistakes](https://dev.to/jxd-dev/fixing-my-deployment-mistakes-14b8)
-- [CREATING MY FIRST RESOURSE GROUP AND VIRTUAL MACHINE ON MICROSOFT AZURE](https://dev.to/atony07/creating-my-first-resourse-group-and-virtual-machine-on-microsoft-azure-jol)
-- [Understanding the Publisher-Subscriber Pattern in Content Distribution Systems by using Asp.Net Core API](https://dev.to/_hm/understanding-the-publisher-subscriber-pattern-in-content-distribution-systems-by-using-aspnet-core-api-2cd2)
-- [Black + white background](https://dev.to/tidycoder/black-white-background-o30)
+- [New AI Frontend Tool Released This Week](https://dev.to/buildwebcrumbs/new-ai-frontend-tool-released-this-week-96f)
+- [JS output-based Interview question](https://dev.to/payalsasmal/js-output-based-interview-question-1mjf)
+- [Python data types](https://dev.to/fatimaalam1234/python-data-types-59po)
+- [Deploy Django Web App with SSL on VPS using Nginx &amp; Gunicorn](https://dev.to/theprotonguy/deploy-django-web-app-with-ssl-on-vps-using-nginx-gunicorn-mhl)
+- [ChatRTX: The AI Chatbot Revolution by NVIDIA](https://dev.to/saif05/chatrtx-the-ai-chatbot-revolution-by-nvidia-53kb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
