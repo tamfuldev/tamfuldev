@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Power of Images in eCommerce](https://dev.to/msmith99994/the-power-of-images-in-ecommerce-h9k)
-- [React Reconciliation](https://dev.to/gbengacode/react-reconciliation-59am)
-- [How to Resize Images Efficiently](https://dev.to/msmith99994/how-to-resize-images-efficiently-3ngg)
-- [Getting started with Typescript Generics 🚀](https://dev.to/pacholoamit/getting-started-with-typescript-generics-40a)
-- [Configure Renovate to handle nuspec files](https://dev.to/asimmon/configure-renovate-to-handle-nuspec-files-4c79)
+- [A Powerful Git Trick No One Knows About](https://dev.to/moozzyk/a-powerful-git-trick-no-one-knows-about-297d)
+- [Adding search to static websites](https://dev.to/adaschevici/adding-search-to-static-websites-3del)
+- [LeetCode Meditations: Serialize and Deserialize Binary Tree](https://dev.to/rivea0/leetcode-meditations-serialize-and-deserialize-binary-tree-4ebb)
+- [My Pen on CodePen](https://dev.to/yassinso/my-pen-on-codepen-3bm3)
+- [My Pen on CodePen](https://dev.to/yassinso/my-pen-on-codepen-8jn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
