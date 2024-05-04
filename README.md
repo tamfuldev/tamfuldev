@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [New AI Frontend Tool Released This Week](https://dev.to/buildwebcrumbs/new-ai-frontend-tool-released-this-week-96f)
-- [JS output-based Interview question](https://dev.to/payalsasmal/js-output-based-interview-question-1mjf)
-- [Python data types](https://dev.to/fatimaalam1234/python-data-types-59po)
-- [Deploy Django Web App with SSL on VPS using Nginx &amp; Gunicorn](https://dev.to/theprotonguy/deploy-django-web-app-with-ssl-on-vps-using-nginx-gunicorn-mhl)
-- [ChatRTX: The AI Chatbot Revolution by NVIDIA](https://dev.to/saif05/chatrtx-the-ai-chatbot-revolution-by-nvidia-53kb)
+- [Access your Synology NAS with a custom domain on Bunny.net &lpar;DDNS&rpar;](https://dev.to/steeve/access-your-synology-nas-with-a-custom-domain-on-bunnynet-ddns-18ge)
+- [PDF Generation using QuestPDF in ASP.NET Core — Part 1](https://dev.to/olufemi_oyedepo/pdf-generation-using-questpdf-in-aspnet-core-part-1-2a34)
+- [What the heck do y&#39;all do?](https://dev.to/francheese9289/what-do-you-do-for-work-igh)
+- [Choosing the Right CSS Approach: Tailwind CSS vs Bootstrap vs Vanilla CSS](https://dev.to/vparul/choosing-the-right-css-approach-tailwind-css-vs-bootstrap-vs-vanilla-css-1l6g)
+- [How to create a responsive custom video player in React](https://dev.to/jimjunior/how-to-create-a-responsive-custom-video-player-in-react-4m7f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
