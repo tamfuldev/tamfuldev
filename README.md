@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [API Keys vs. Tokens: They&#39;re Not the Same Thing!](https://dev.to/codeparrot/api-keys-vs-tokens-theyre-not-the-same-thing-41fi)
-- [Quick Accessibility: Burts Bees &amp; large target size](https://dev.to/mahzeb/quick-accessibility-burts-bees-large-target-size-3dhn)
-- [Passos que usei para definir uma ferramenta para um portal do desenvolvedor com ChatGPT, engenharia de prompt](https://dev.to/biosbug/passos-que-usei-para-definir-uma-ferramenta-para-um-portal-do-desenvolvedor-com-chatgpt-engenharia-de-prompt-5hcl)
-- [COMMENT RÉSOUDRE L’ERREUR 403 DE GIT ?](https://dev.to/tacite243/comment-resoudre-lerreur-403-git--1la4)
-- [🏉 Looking for Rugby Betting Tips? Any suggestions on how to use the SportDevs API for rugby predictions?](https://dev.to/nicosleonardo9/looking-for-rugby-betting-tips-any-suggestions-on-how-to-use-the-sportdevs-api-for-rugby-predictions-o7d)
+- [AI enthusiasm #10 - Summarize PDFs with AI🗎](https://dev.to/astrabert/ai-enthusiasm-10-summarize-pdfs-with-ai-236f)
+- [Fixing my deployment mistakes](https://dev.to/jxd-dev/fixing-my-deployment-mistakes-14b8)
+- [CREATING MY FIRST RESOURSE GROUP AND VIRTUAL MACHINE ON MICROSOFT AZURE](https://dev.to/atony07/creating-my-first-resourse-group-and-virtual-machine-on-microsoft-azure-jol)
+- [Understanding the Publisher-Subscriber Pattern in Content Distribution Systems by using Asp.Net Core API](https://dev.to/_hm/understanding-the-publisher-subscriber-pattern-in-content-distribution-systems-by-using-aspnet-core-api-2cd2)
+- [Black + white background](https://dev.to/tidycoder/black-white-background-o30)
 <!-- BLOG-POST-LIST:END -->
 
 ---
