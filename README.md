@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Answers to Common Next.js Questions](https://dev.to/perssondennis/answers-to-common-nextjs-questions-1oki)
-- [The right development flow: Better than Agile](https://dev.to/henriqueleite42/the-right-development-flow-better-than-agile-871)
-- [Visualize Autonomous Driving Dataset](https://dev.to/rerunio/visualize-autonomous-driving-dataset-h84)
-- [simple mermaid builder in golang: support ER/sequence diagram, pie chart](https://dev.to/nchika/simple-mermaid-builder-in-golang-support-ersequence-diagram-pie-chart-4109)
-- [What is JavaScript?!!](https://dev.to/smileycode/what-is-javascript-4mac)
+- [Day 35/366](https://dev.to/vishalmx3/day-35366-1e07)
+- [SCRIMBA - LEARN JAVASCRIPT - from a beginners perspective](https://dev.to/virtualsobriety/scrimba-learn-javascript-from-a-beginners-perspective-223h)
+- [Designing an API? Try These Techniques to Avoid Future Headaches](https://dev.to/lincemathew/designing-an-api-try-these-techniques-to-avoid-future-headaches-6hp)
+- [Server-side rendered Web Components](https://dev.to/rrees/server-side-rendered-web-components-34pl)
+- [A Glimpse Beyond &#39;All-in on AI&#39;](https://dev.to/dev3l/a-glimpse-beyond-all-in-on-ai-2g6j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
