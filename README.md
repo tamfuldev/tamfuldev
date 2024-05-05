@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Análise barragens - parte 2](https://dev.to/devsnorte/analise-barragens-parte-2-39dm)
-- [Launch your SaaS faster with OneMix by SaaS King](https://dev.to/adikumarsaroj/launch-your-saas-faster-with-onemix-by-saas-king-27dn)
-- [Everything You need to know about React 19](https://dev.to/samaghapour/everything-you-need-to-know-about-react-19-4o97)
-- [Understanding when to cache your APIs](https://dev.to/sowmenappd/understanding-when-to-cache-your-apis-2m32)
-- [SSH Raspberry Pi via Cell Phone](https://dev.to/shilleh/ssh-raspberry-pi-via-cell-phone-329p)
+- [Answers to Common Next.js Questions](https://dev.to/perssondennis/answers-to-common-nextjs-questions-1oki)
+- [The right development flow: Better than Agile](https://dev.to/henriqueleite42/the-right-development-flow-better-than-agile-871)
+- [Visualize Autonomous Driving Dataset](https://dev.to/rerunio/visualize-autonomous-driving-dataset-h84)
+- [simple mermaid builder in golang: support ER/sequence diagram, pie chart](https://dev.to/nchika/simple-mermaid-builder-in-golang-support-ersequence-diagram-pie-chart-4109)
+- [What is JavaScript?!!](https://dev.to/smileycode/what-is-javascript-4mac)
 <!-- BLOG-POST-LIST:END -->
 
 ---
