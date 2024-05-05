@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 4: Logic](https://dev.to/codernko/day-4-logic-57kf)
-- [study umi of mutiple environment](https://dev.to/zhangwuji/study-umi-of-mutiple-environment-2l7p)
-- [Bento catalog web](https://dev.to/miguelrodriguezp99/bento-catalog-web-35le)
-- [Construyendo un asistente genAI de WhatsApp con Amazon Bedrock y Claude 3](https://dev.to/aws-espanol/construyendo-un-asistente-genai-de-whatsapp-con-amazon-bedrock-y-claude-3-1322)
-- [The Rise of AI-Powered Development Tools: Revolutionizing How We Code](https://dev.to/mktheitguy/the-rise-of-ai-powered-development-tools-revolutionizing-how-we-code-3lgp)
+- [Why Businesses Fail with Android Apps and How to Rescue Them: Top Tips Discussed](https://dev.to/dhruvjoshi9/why-businesses-fail-with-android-apps-and-how-to-rescue-them-top-tips-discussed-3322)
+- [Deploying Your Next.js App on Cloudflare Pages](https://dev.to/akki907/deploying-your-nextjs-app-on-cloudflare-pages-5ccg)
+- [Understanding clearly page transition using libraries in React and Next.js](https://dev.to/jamescroissant/understanding-clearly-page-transition-using-libraries-in-react-and-nextjs-1ojh)
+- [Php features: type hinting](https://dev.to/xwero/php-features-type-hinting-2i2l)
+- [[TS] Consider type-safe localStorage](https://dev.to/yutakusuno/ts-consider-type-safe-localstorage-2p9m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
