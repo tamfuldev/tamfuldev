@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Symfony Station Communiqué — 3 May 2024. A look at Symfony, Drupal, PHP, and Fediverse News!](https://dev.to/reubenwalker64/symfony-station-communique-3-may-2024-a-look-at-symfony-drupal-php-and-fediverse-news-2mmj)
-- [Next.js Failed to compile Deploying to Vercel](https://dev.to/robiulman/nextjs-failed-to-compile-deploying-to-vercel-23al)
-- [Bitcoin Sentiment Analysis using Python and X &lpar;Formerly Twitter&rpar;](https://dev.to/spiff/bitcoin-sentiment-analysis-using-python-and-x-formerly-twitter-359h)
-- [Basic Feature Flags in Laravel](https://dev.to/bennett/basic-feature-flags-in-laravel-1bld)
-- [The Best IDEs for Java Development: A Comparative Analysis](https://dev.to/dbillion/the-best-ides-for-java-development-a-comparative-analysis-3750)
+- [Impress Recruiters and Upskill using these 10 Unconventional Software Engineering Projects](https://dev.to/wewake-dev/impress-recruiters-and-upskill-using-these-10-unconventional-software-engineering-projects-4mpo)
+- [PROJECT ON AZURE AD&lpar;MICROSOFT ENTRA ID&rpar;](https://dev.to/johnshakor/project-on-azure-admicrosoft-entra-id-4eni)
+- [My new open source project](https://dev.to/ariyoaresa/my-new-open-source-project-4l21)
+- [What Happens When You Type https://www.google.com](https://dev.to/azzazakl/what-happens-when-you-type-httpswwwgooglecom-3hfo)
+- [Creating a practice test builder with OctoAI Json mode](https://dev.to/isaacdyor/creating-a-practice-test-builder-with-octoai-json-mode-e5n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
