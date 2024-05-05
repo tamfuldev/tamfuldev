@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 35/366](https://dev.to/vishalmx3/day-35366-1e07)
-- [SCRIMBA - LEARN JAVASCRIPT - from a beginners perspective](https://dev.to/virtualsobriety/scrimba-learn-javascript-from-a-beginners-perspective-223h)
-- [Designing an API? Try These Techniques to Avoid Future Headaches](https://dev.to/lincemathew/designing-an-api-try-these-techniques-to-avoid-future-headaches-6hp)
-- [Server-side rendered Web Components](https://dev.to/rrees/server-side-rendered-web-components-34pl)
-- [A Glimpse Beyond &#39;All-in on AI&#39;](https://dev.to/dev3l/a-glimpse-beyond-all-in-on-ai-2g6j)
+- [Learn Flutter by creating your first Flutter app!](https://dev.to/svprdga/learn-flutter-by-creating-your-first-flutter-app-gfb)
+- [Seeking advice](https://dev.to/j0hanthemoonlightcoder/seeking-advice-4jme)
+- [Image slideshows are boring. Let&#39;s create cubes.](https://dev.to/sarahokolo/image-slideshows-are-boring-lets-create-cubes-593b)
+- [The Document Object Model](https://dev.to/thatohatsi880/the-document-object-model-4dk8)
+- [Transforming AI Concepts into Marketable Realities](https://dev.to/dev3l/transforming-ai-concepts-into-marketable-realities-1opf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
