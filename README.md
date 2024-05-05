@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Businesses Fail with Android Apps and How to Rescue Them: Top Tips Discussed](https://dev.to/dhruvjoshi9/why-businesses-fail-with-android-apps-and-how-to-rescue-them-top-tips-discussed-3322)
-- [Deploying Your Next.js App on Cloudflare Pages](https://dev.to/akki907/deploying-your-nextjs-app-on-cloudflare-pages-5ccg)
-- [Understanding clearly page transition using libraries in React and Next.js](https://dev.to/jamescroissant/understanding-clearly-page-transition-using-libraries-in-react-and-nextjs-1ojh)
-- [Php features: type hinting](https://dev.to/xwero/php-features-type-hinting-2i2l)
-- [[TS] Consider type-safe localStorage](https://dev.to/yutakusuno/ts-consider-type-safe-localstorage-2p9m)
+- [What Guided Your DEV Path?](https://dev.to/devteam/what-guided-your-dev-path-4h9o)
+- [Instant API for databases adds automatic primary keys](https://dev.to/thadguidry/instant-api-for-databases-adds-automatic-primary-keys-5cpk)
+- [Long Time, No See.](https://dev.to/cjtaylor1990/long-time-no-see-6h9)
+- [Netlify Dynamic Site Challenge Submission: Dynamic Image Gallery with Netlify Image CDN Visual Feast](https://dev.to/karthik_n/netlify-dynamic-site-challenge-submission-dynamic-image-gallery-with-netlify-image-cdn-visual-feast-34b4)
+- [¿Cómo guarda Laravel la cookie de sesión y csrf?](https://dev.to/chemisax/como-guarda-laravel-la-cookie-de-sesion-y-csrf-3p17)
 <!-- BLOG-POST-LIST:END -->
 
 ---
