@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Kubernetes is Revolutionizing the AI World: Managing Workloads with Ease](https://dev.to/mamtaj/how-kubernetes-is-revolutionizing-the-ai-world-managing-workloads-with-ease-1oa)
-- [Understanding Java Processes](https://dev.to/dbillion/understanding-java-processes-53j0)
-- [What is Manual Testing/Benefits and drawbacks with some examples](https://dev.to/1234/what-is-manual-testingbenefits-and-drawbacks-with-some-examples-5bmd)
-- [Mockingbird: New tool for your mock environments](https://dev.to/ozkeisar/mockingbird-new-tool-for-your-mock-environments-49j)
-- [Building Book Recommendation Assistant with Lyzr Automata](https://dev.to/akshay007/building-book-recommendation-assistant-with-lyzr-automata-10n7)
+- [Never Lose Changes Again: Mastering Git Reflog for Developers](https://dev.to/ivan-klimenkov/never-lose-changes-again-mastering-git-reflog-for-developers-435l)
+- [Simplify API Testing with Postbot: Postman&#39;s AI Assistant](https://dev.to/lengochoangminh/simplify-api-testing-with-postbot-postmans-ai-assistant-56b)
+- [usememo &amp; useCallback hook](https://dev.to/programmerpramod0296/usememo-usecallback-hook-3ic)
+- [Update! Interactive description of iptables tables](https://dev.to/zersh01/update-interactive-description-of-iptables-tables-22o3)
+- [&quot;Leveling Up: From HTML Lists to CSS Counters](https://dev.to/harshitads44217/leveling-up-from-html-lists-to-css-counters-33ad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
