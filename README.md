@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Never Lose Changes Again: Mastering Git Reflog for Developers](https://dev.to/ivan-klimenkov/never-lose-changes-again-mastering-git-reflog-for-developers-435l)
-- [Simplify API Testing with Postbot: Postman&#39;s AI Assistant](https://dev.to/lengochoangminh/simplify-api-testing-with-postbot-postmans-ai-assistant-56b)
-- [usememo &amp; useCallback hook](https://dev.to/programmerpramod0296/usememo-usecallback-hook-3ic)
-- [Update! Interactive description of iptables tables](https://dev.to/zersh01/update-interactive-description-of-iptables-tables-22o3)
-- [&quot;Leveling Up: From HTML Lists to CSS Counters](https://dev.to/harshitads44217/leveling-up-from-html-lists-to-css-counters-33ad)
+- [Having a type system is more productive](https://dev.to/sergchr/having-a-type-system-is-more-productive-2na9)
+- [Fetching only specific tags or excluding them with git](https://dev.to/waterkip/fetching-only-specific-tags-or-excluding-them-49h6)
+- [How To Reverse A Linked List Recursively In Python](https://dev.to/rk042/how-to-reverse-a-linked-list-recursively-in-python-4n3b)
+- [EXPRESS JS](https://dev.to/eniola/express-js-4j84)
+- [Trusted Web Tester certification — what is it and is it worth your time?](https://dev.to/this-is-learning/trusted-web-tester-certification-what-is-it-and-is-it-worth-your-time-44fb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
