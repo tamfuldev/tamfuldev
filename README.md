@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Zero Shot Text Classification Under the hood](https://dev.to/abderrahimal/zero-shot-text-classification-under-the-hood-3h19)
-- [[HTB] Machine - Lame](https://dev.to/neiwad_/htb-machine-lame-12o6)
-- [Journey to the centre of CPU: Building an ALU](https://dev.to/ishar19/journey-to-the-centre-of-cpu-building-an-alu-1dd7)
-- [Creatin session.sig using sessionID in oidc provider](https://dev.to/vimal_adithan/creatin-sessionsig-using-sessionid-in-oidc-provider-5f35)
-- [Common Table Expressions &lpar;CTEs&rpar; in SQL](https://dev.to/johnkyalo/common-table-expressions-ctes-in-sql-5ba1)
+- [Symfony Station Communiqué — 3 May 2024. A look at Symfony, Drupal, PHP, and Fediverse News!](https://dev.to/reubenwalker64/symfony-station-communique-3-may-2024-a-look-at-symfony-drupal-php-and-fediverse-news-2mmj)
+- [Next.js Failed to compile Deploying to Vercel](https://dev.to/robiulman/nextjs-failed-to-compile-deploying-to-vercel-23al)
+- [Bitcoin Sentiment Analysis using Python and X &lpar;Formerly Twitter&rpar;](https://dev.to/spiff/bitcoin-sentiment-analysis-using-python-and-x-formerly-twitter-359h)
+- [Basic Feature Flags in Laravel](https://dev.to/bennett/basic-feature-flags-in-laravel-1bld)
+- [The Best IDEs for Java Development: A Comparative Analysis](https://dev.to/dbillion/the-best-ides-for-java-development-a-comparative-analysis-3750)
 <!-- BLOG-POST-LIST:END -->
 
 ---
