@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Having a type system is more productive](https://dev.to/sergchr/having-a-type-system-is-more-productive-2na9)
-- [Fetching only specific tags or excluding them with git](https://dev.to/waterkip/fetching-only-specific-tags-or-excluding-them-49h6)
-- [How To Reverse A Linked List Recursively In Python](https://dev.to/rk042/how-to-reverse-a-linked-list-recursively-in-python-4n3b)
-- [EXPRESS JS](https://dev.to/eniola/express-js-4j84)
-- [Trusted Web Tester certification — what is it and is it worth your time?](https://dev.to/this-is-learning/trusted-web-tester-certification-what-is-it-and-is-it-worth-your-time-44fb)
+- [I MADE A GAME IN SCRATCH](https://dev.to/dino2328/i-made-a-game-in-scratch-1oba)
+- [Real-time public communities](https://dev.to/irereemmy/real-time-public-communities-21ng)
+- [Angular Inputs and Single Source of Truth](https://dev.to/oz/angular-inputs-and-single-source-of-truth-4kog)
+- [Arduino un pas en electronique, un pas en informatique &lpar;Une passerelle entre l&#39;électronique et l&#39;informatique&rpar;](https://dev.to/birego/arduino-un-pas-en-electronique-un-pas-en-informatique-une-passerelle-entre-lelectronique-et-linformatique-41d5)
+- [Eat That Frog Method: The Ultimate Guide to Boosting Productivity](https://dev.to/productivity/eat-that-frog-method-the-ultimate-guide-to-boosting-productivity-243o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
