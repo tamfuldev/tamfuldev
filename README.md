@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Help! Our React Routes are more confusing than a maze 😵](https://dev.to/buildwebcrumbs/help-our-react-routes-are-more-confusing-than-a-maze-1hii)
-- [The Ultimate Comparison: Python vs. Java in 2024](https://dev.to/myexamcloud/the-ultimate-comparison-python-vs-java-in-2024-37dg)
-- [how to check if a key is in the Object](https://dev.to/kazoottt/how-to-check-if-a-key-is-in-the-object-54bk)
-- [Changing Databases 5 Times in 48 Hours Boosted Our Launch to 35,000 Views](https://dev.to/supabase/changing-databases-5-times-in-48-hours-boosted-our-launch-to-35000-views-1oc2)
-- [SAP Basis snippets #4](https://dev.to/ashwinsharmap/sap-basis-snippets-4-3kbh)
+- [How the web works](https://dev.to/nas5w/how-the-web-works-1dgj)
+- [Exploring Spring Framework, Spring MVC, and Reinforcing Core Java Concepts](https://dev.to/vishalwaje/exploring-spring-framework-spring-mvc-and-reinforcing-core-java-concepts-9hi)
+- [HttpInterceptor, Observable weirdness](https://dev.to/kenlnetherland/httpinterceptor-observable-weirdness-58i7)
+- [Confidential Smart Contracts &amp; Building w/Oasis Sapphire](https://dev.to/tosynthegeek/confidential-smart-contracts-building-woasis-sapphire-2kkg)
+- [Flutter News 2024 #18 ʚїɞ](https://dev.to/lucianojung/flutter-news-2024-18-eyie-1hgb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
