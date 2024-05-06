@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🌝 15 JavaScript frameworks for your next project ⚔](https://dev.to/winglang/15-javascript-frameworks-for-your-next-project-1o7n)
-- [What is a Data Center?](https://dev.to/clouddefenseai/what-is-a-data-center-4bdk)
-- [Enable Edge to Edge in Android Jetpack Compose &lpar;Transparent Status Bar&rpar;](https://dev.to/shivathapaa/enable-edge-to-edge-in-android-jetpack-compose-transparent-status-bar-15dl)
-- [On-premises vs Cloud. How to make the right choice for your business?](https://dev.to/softwebsolution/on-premises-vs-cloud-how-to-make-the-right-choice-for-your-business-2lkk)
-- [Domain Object Model &lpar;DOM&rpar;](https://dev.to/akhona/domain-object-model-dom-256j)
+- [FLaNK-AIM Weekly 06 May 2024](https://dev.to/tspannhw/flank-aim-weekly-06-may-2024-i4c)
+- [Install Ruby and Rails on Fedora 40](https://dev.to/brunowmoreno/install-ruby-and-rails-on-fedora-40-4bfb)
+- [Don&#39;t &lpar;.git&rpar;ignore .vscode](https://dev.to/jolodev/dont-gitignore-vscode-cnh)
+- [Building a Simple Web Server in Node.js: A Beginner&#39;s Guide](https://dev.to/kiunga1/building-a-simple-web-server-in-nodejs-a-beginners-guide-i8d)
+- [show me the numbers!](https://dev.to/onwritinggames/show-me-the-numbers-3bbf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
