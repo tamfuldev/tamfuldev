@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Our game progress ~ Basic Rule ~](https://dev.to/takeda1411123/our-game-progress-basic-rule--5h8p)
+- [Case Studies on Strings and Characters](https://dev.to/paulike/case-studies-on-strings-and-characters-1dfh)
+- [How to Fix &quot;OpenSlide Library Not Found&quot; Error by Updating .zshrc on macOS](https://dev.to/jam14d/how-to-fix-openslide-library-not-found-error-by-updating-zshrc-on-macos-562n)
+- [JavaScript: Understanding DOM](https://dev.to/stephaniedev/javascript-understanding-dom-43ic)
 - [What&#39;s worse? `NullPointerException` or `try &lpar;error&rpar; {...} catch {// do nothing}`?](https://dev.to/latobibor/whats-worse-nullpointerexception-or-try-error-catch-do-nothing-5002)
-- [W3C Games CG April 2024: GDC](https://dev.to/end3r/w3c-games-cg-april-2024-gdc-3nh0)
-- [A Tale from a Galaxy Far, Far Away](https://dev.to/balagmadhu/a-tale-from-a-galaxy-far-far-away-5797)
-- [Architectural Techniques for React Optimization! Part - 1](https://dev.to/vivekmengu016/architectural-techniques-for-react-optimization-part-1-4dk7)
-- [Three Mechanisms to Protect Your Git Repositories](https://dev.to/letmypeoplecode/three-mechanisms-to-protect-your-git-repositories-dd9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
