@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Find Peak Element | LeetCode | Java](https://dev.to/tanujav/find-peak-element-leetcode-java-48l1)
+- [Part 1: Getting Started with Django - An Introduction](https://dev.to/kihuni/part-1-getting-started-with-django-an-introduction-1b7d)
+- [How and why do we bundle zx?](https://dev.to/antongolub/how-and-why-do-we-bundle-zx-1ca6)
+- [Handling key-value storage efficiently with Unstorage](https://dev.to/jacobandrewsky/handling-key-value-storage-efficiently-with-unstorage-200i)
 - [Common front-end tool library and high-frequency interview questions &lpar;continuously updated...&rpar;](https://dev.to/niexq/common-front-end-tool-library-and-high-frequency-interview-questions-continuously-updated-2hp0)
-- [Creating a Mobile App with Ionic and Vue.js 🚀📱](https://dev.to/amatisse/creating-a-mobile-app-with-ionic-and-vuejs-36ie)
-- [InnOlympics Hackathon 2024](https://dev.to/kngval/innolympics-hackathon-2024-1ikd)
-- [Weekly Roundup 051 &lpar;Apr 29&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-051-apr-29-hot-topics-in-workplace-sharepoint-and-powerplatform-5g5n)
-- [A Guide To Web Accessibility Best Practices](https://dev.to/tasfiaislam/a-guide-to-web-accessibility-best-practices-2e6p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
