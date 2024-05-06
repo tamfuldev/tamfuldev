@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Find Peak Element | LeetCode | Java](https://dev.to/tanujav/find-peak-element-leetcode-java-48l1)
-- [Part 1: Getting Started with Django - An Introduction](https://dev.to/kihuni/part-1-getting-started-with-django-an-introduction-1b7d)
-- [How and why do we bundle zx?](https://dev.to/antongolub/how-and-why-do-we-bundle-zx-1ca6)
-- [Handling key-value storage efficiently with Unstorage](https://dev.to/jacobandrewsky/handling-key-value-storage-efficiently-with-unstorage-200i)
-- [Common front-end tool library and high-frequency interview questions &lpar;continuously updated...&rpar;](https://dev.to/niexq/common-front-end-tool-library-and-high-frequency-interview-questions-continuously-updated-2hp0)
+- [Tired of adding sh*tty looking comments on your code? Try this extension](https://dev.to/amanbhoria/tired-of-adding-shtty-looking-comments-on-your-code-try-this-extension-3099)
+- [Mondays in the World of Developers : Share your thoughts!](https://dev.to/respect17/mondays-in-the-world-of-developers-technologist-share-your-thoughts-4246)
+- [Please stop publishing AWS S3 buckets as static websites! Read here for a secure, fast, and free-ish approach [1st episode]](https://dev.to/maguzzi/please-stop-publishing-aws-s3-buckets-as-static-websites-read-here-for-a-secure-fast-and-free-ish-approach-1st-episode-4968)
+- [From English Teacher to AWS Architect](https://dev.to/aday/from-english-teacher-to-aws-architect-a2h)
+- [I analyzed code review best practices for a year. This is what I learned.](https://dev.to/marcopatino/i-analyzed-code-review-best-practices-for-a-year-this-is-what-i-learned-ace)
 <!-- BLOG-POST-LIST:END -->
 
 ---
