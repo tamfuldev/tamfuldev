@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Power Apps vs Power Automate](https://dev.to/ifourtechnolab/power-apps-vs-power-automate-356h)
-- [creating a map with Laravel](https://dev.to/ashrakt_amin/creating-a-map-with-laravel-3964)
-- [Vector Databases for generative AI applications](https://dev.to/aws/vector-databases-for-generative-ai-applications-1n8e)
-- [Improving Code Reusability in Angular Projects](https://dev.to/oz/improving-code-reusability-in-angular-projects-11bc)
-- [Choosing The Right Devops Consulting Services](https://dev.to/bytesfarms/choosing-the-right-devops-consulting-services-1a59)
+- [🌝 15 JavaScript frameworks for your next project ⚔](https://dev.to/winglang/15-javascript-frameworks-for-your-next-project-1o7n)
+- [What is a Data Center?](https://dev.to/clouddefenseai/what-is-a-data-center-4bdk)
+- [Enable Edge to Edge in Android Jetpack Compose &lpar;Transparent Status Bar&rpar;](https://dev.to/shivathapaa/enable-edge-to-edge-in-android-jetpack-compose-transparent-status-bar-15dl)
+- [On-premises vs Cloud. How to make the right choice for your business?](https://dev.to/softwebsolution/on-premises-vs-cloud-how-to-make-the-right-choice-for-your-business-2lkk)
+- [Domain Object Model &lpar;DOM&rpar;](https://dev.to/akhona/domain-object-model-dom-256j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
