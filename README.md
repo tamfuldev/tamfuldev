@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What are your goals for week 19 of 2024?](https://dev.to/jarvisscript/what-are-your-goals-for-week-19-of-2024-4c8c)
-- [The Age of Smart Applications: How AI is Redefining Business Software](https://dev.to/buildwebcrumbs/the-age-of-smart-applications-how-ai-is-redefining-business-software-mkc)
-- [Blender Tip: Rigging With Mirror](https://dev.to/zaherdirkey/blender-tip-rigging-with-mirror-2hap)
-- [Lerping between 2 Aspect Ratios](https://dev.to/enghqii/lerping-between-2-aspect-ratios-1l8b)
-- [API mocking with Mock Service Worker + Vue.js](https://dev.to/heliomsolivas/api-mocking-with-mock-service-worker-vuejs-5d42)
+- [Help! Our React Routes are more confusing than a maze 😵](https://dev.to/buildwebcrumbs/help-our-react-routes-are-more-confusing-than-a-maze-1hii)
+- [The Ultimate Comparison: Python vs. Java in 2024](https://dev.to/myexamcloud/the-ultimate-comparison-python-vs-java-in-2024-37dg)
+- [how to check if a key is in the Object](https://dev.to/kazoottt/how-to-check-if-a-key-is-in-the-object-54bk)
+- [Changing Databases 5 Times in 48 Hours Boosted Our Launch to 35,000 Views](https://dev.to/supabase/changing-databases-5-times-in-48-hours-boosted-our-launch-to-35000-views-1oc2)
+- [SAP Basis snippets #4](https://dev.to/ashwinsharmap/sap-basis-snippets-4-3kbh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
