@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How the web works](https://dev.to/nas5w/how-the-web-works-1dgj)
-- [Exploring Spring Framework, Spring MVC, and Reinforcing Core Java Concepts](https://dev.to/vishalwaje/exploring-spring-framework-spring-mvc-and-reinforcing-core-java-concepts-9hi)
-- [HttpInterceptor, Observable weirdness](https://dev.to/kenlnetherland/httpinterceptor-observable-weirdness-58i7)
-- [Confidential Smart Contracts &amp; Building w/Oasis Sapphire](https://dev.to/tosynthegeek/confidential-smart-contracts-building-woasis-sapphire-2kkg)
-- [Flutter News 2024 #18 ʚїɞ](https://dev.to/lucianojung/flutter-news-2024-18-eyie-1hgb)
+- [Building for Tomorrow: Part 2 of the Web Application Security Series](https://dev.to/techtobe101/building-for-tomorrow-part-2-of-the-web-application-security-series-oaa)
+- [Securing the Foundation: Part 1 of the Web Application Security Series](https://dev.to/techtobe101/securing-the-foundation-part-1-of-the-web-application-security-series-1883)
+- [How does Wave Analytics handle data from external databases in PostgreSQL?](https://dev.to/shiviyer/how-does-wave-analytics-handle-data-from-external-databases-in-postgresql-3fbh)
+- [Everyone&#39;s Learning Python: 7 Reasons to Catch Up](https://dev.to/fullstackdev/everyones-learning-python-7-reasons-to-catch-up-79e)
+- [How keyshade employs the use of sockets in distributed environment](https://dev.to/keyshade/how-keyshade-employs-the-use-of-sockets-in-distributed-environment-2b0l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
