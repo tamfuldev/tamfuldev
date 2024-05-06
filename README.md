@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [JuiceFS 1.2 Beta 1: Gateway Upgrade, Enhanced Multi-User Permission Management](https://dev.to/daswu/juicefs-12-beta-1-gateway-upgrade-enhanced-multi-user-permission-management-3c3a)
-- [Solving a Leetcode problem daily — Day 5 | Diagonal Traverse](https://dev.to/subhradeep__saha/solving-a-leetcode-problem-daily-day-5-diagonal-traverse-1ckj)
-- [Solving a Leetcode problem daily — Day 4 | Add Binary](https://dev.to/subhradeep__saha/solving-a-leetcode-problem-daily-day-4-add-binary-24d7)
-- [Beautiful Form](https://dev.to/carlosorbegoso/beautiful-form-38i9)
-- [How to create Root CA and Intermediate CA in AWS Private CA to issue private certificates](https://dev.to/aws-builders/how-to-create-external-root-ca-and-intermediate-ca-in-aws-acm-pca-to-issue-private-certificates-56gm)
+- [What do you want to watch next? This is why I built GoodWatch.](https://dev.to/alp/what-do-you-want-to-watch-next-this-is-why-i-built-goodwatch-1cn2)
+- [Message queue with Socket.io](https://dev.to/khoakomlem/message-queue-with-socketio-2d9l)
+- [Streamline Your Workflow: A Guide to Normalising Git Commit and Push Processes](https://dev.to/graezykev/streamline-your-workflow-a-guide-to-normalising-git-commit-and-push-processes-1o7d)
+- [Best Practice for Production Traffic Replication in Trip.com](https://dev.to/lijing-22/best-practice-for-production-traffic-replication-in-tripcom-1p3k)
+- [Mastering Code Quality: Setting Up ESLint with Standard JS in TypeScript Projects](https://dev.to/graezykev/mastering-code-quality-setting-up-eslint-with-standard-js-in-typescript-projects-18gl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
