@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building for Tomorrow: Part 2 of the Web Application Security Series](https://dev.to/techtobe101/building-for-tomorrow-part-2-of-the-web-application-security-series-oaa)
-- [Securing the Foundation: Part 1 of the Web Application Security Series](https://dev.to/techtobe101/securing-the-foundation-part-1-of-the-web-application-security-series-1883)
-- [How does Wave Analytics handle data from external databases in PostgreSQL?](https://dev.to/shiviyer/how-does-wave-analytics-handle-data-from-external-databases-in-postgresql-3fbh)
-- [Everyone&#39;s Learning Python: 7 Reasons to Catch Up](https://dev.to/fullstackdev/everyones-learning-python-7-reasons-to-catch-up-79e)
-- [How keyshade employs the use of sockets in distributed environment](https://dev.to/keyshade/how-keyshade-employs-the-use-of-sockets-in-distributed-environment-2b0l)
+- [Add Webhook Verification, Queueing, Filtering, and Retry Logic to Any Vercel Deployed Endpoint](https://dev.to/leggetter/add-webhook-verification-queueing-filtering-and-retry-logic-to-any-vercel-deployed-endpoint-4bnp)
+- [Maintainer Monday: Community Care](https://dev.to/opensauced/maintainer-monday-community-care-42ig)
+- [Day 36/366](https://dev.to/vishalmx3/day-36366-ch5)
+- [I created a Kubernetes cluster on AWS EC2 instances](https://dev.to/esuivant/i-created-a-kubernetes-cluster-on-aws-ec2-instances-3idj)
+- [Idea Validation for the New Tech Entrepreneur](https://dev.to/zachnology/idea-validation-for-the-new-tech-entrepreneur-5204)
 <!-- BLOG-POST-LIST:END -->
 
 ---
