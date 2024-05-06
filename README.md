@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [FLaNK-AIM Weekly 06 May 2024](https://dev.to/tspannhw/flank-aim-weekly-06-may-2024-i4c)
-- [Install Ruby and Rails on Fedora 40](https://dev.to/brunowmoreno/install-ruby-and-rails-on-fedora-40-4bfb)
-- [Don&#39;t &lpar;.git&rpar;ignore .vscode](https://dev.to/jolodev/dont-gitignore-vscode-cnh)
-- [Building a Simple Web Server in Node.js: A Beginner&#39;s Guide](https://dev.to/kiunga1/building-a-simple-web-server-in-nodejs-a-beginners-guide-i8d)
-- [show me the numbers!](https://dev.to/onwritinggames/show-me-the-numbers-3bbf)
+- [What are your goals for week 19 of 2024?](https://dev.to/jarvisscript/what-are-your-goals-for-week-19-of-2024-4c8c)
+- [The Age of Smart Applications: How AI is Redefining Business Software](https://dev.to/buildwebcrumbs/the-age-of-smart-applications-how-ai-is-redefining-business-software-mkc)
+- [Blender Tip: Rigging With Mirror](https://dev.to/zaherdirkey/blender-tip-rigging-with-mirror-2hap)
+- [Lerping between 2 Aspect Ratios](https://dev.to/enghqii/lerping-between-2-aspect-ratios-1l8b)
+- [API mocking with Mock Service Worker + Vue.js](https://dev.to/heliomsolivas/api-mocking-with-mock-service-worker-vuejs-5d42)
 <!-- BLOG-POST-LIST:END -->
 
 ---
