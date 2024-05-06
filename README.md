@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [PHP MySqli CRUD and Vue.js 3 with Composition API using a CDN](https://dev.to/nathakritbc/php-mysqli-crud-and-vuejs-3-with-composition-api-using-a-cdn-5d77)
-- [Say No to SQL 🙅](https://dev.to/itskunal/say-no-to-sql-hce)
-- [Dev OPinion - Netlify Dynamic Site Challenge Submission](https://dev.to/frikishaan/dev-opinion-netlify-dynamic-site-challenge-submission-1l3c)
-- [JS: Closure](https://dev.to/shangjiezhou/js-closure-18n0)
-- [VS Code extensions for React developers](https://dev.to/sharon-wells/vs-code-extensions-for-react-developers-47b9)
+- [Mastering Angular 17 Routing](https://dev.to/bytebantz/mastering-angular-17-routing-2mf2)
+- [How to Set Up Cost-Effective Email Solutions with AWS SES and Terraform](https://dev.to/radzion/how-to-set-up-cost-effective-email-solutions-with-aws-ses-and-terraform-266g)
+- [A PAGE TALKS ABOUT &lpar;Ai-ERA: Demystified In A Nutshell&rpar;](https://dev.to/rewirebyautomation/a-page-talks-about-ai-era-demystified-in-a-nutshell-bf6)
+- [Cloning A Power Platform Solution](https://dev.to/wyattdave/cloning-a-power-platform-solution-308g)
+- [Tools that keep me productive](https://dev.to/nickytonline/tools-that-keep-me-productive-1no5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
