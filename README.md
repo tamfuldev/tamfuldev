@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Start Learning JavaScript](https://dev.to/thekarlesi/how-to-start-learning-javascript-4p2o)
-- [On Premise Face Recognition SDK and Liveness Detection SDK by FacePlugin](https://dev.to/faceplugin/on-premise-face-recognition-sdk-and-liveness-detection-sdk-by-faceplugin-1mb0)
-- [How I switched from Stack to Cabal](https://dev.to/zelenya/how-i-switched-from-stack-to-cabal-3ai2)
-- [Journey Through the Digital Cosmos: Unraveling the Mysteries of the Internet and the World Wide Web](https://dev.to/kadea-academy/journey-through-the-digital-cosmos-unraveling-the-mysteries-of-the-internet-and-the-world-wide-web-g94)
-- [Journey Through the Digital Cosmos: Unraveling the Mysteries of the Internet and the World Wide Web](https://dev.to/kadea-academy/journey-through-the-digital-cosmos-unraveling-the-mysteries-of-the-internet-and-the-world-wide-web-9i8)
+- [JuiceFS 1.2 Beta 1: Gateway Upgrade, Enhanced Multi-User Permission Management](https://dev.to/daswu/juicefs-12-beta-1-gateway-upgrade-enhanced-multi-user-permission-management-3c3a)
+- [Solving a Leetcode problem daily — Day 5 | Diagonal Traverse](https://dev.to/subhradeep__saha/solving-a-leetcode-problem-daily-day-5-diagonal-traverse-1ckj)
+- [Solving a Leetcode problem daily — Day 4 | Add Binary](https://dev.to/subhradeep__saha/solving-a-leetcode-problem-daily-day-4-add-binary-24d7)
+- [Beautiful Form](https://dev.to/carlosorbegoso/beautiful-form-38i9)
+- [How to create Root CA and Intermediate CA in AWS Private CA to issue private certificates](https://dev.to/aws-builders/how-to-create-external-root-ca-and-intermediate-ca-in-aws-acm-pca-to-issue-private-certificates-56gm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
