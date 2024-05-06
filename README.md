@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Structuring Javascript Code](https://dev.to/donavioli/structuring-javascript-code-4a4n)
-- [Leveraging Brython for Web Development](https://dev.to/saad1926q/leveraging-brython-for-web-development-2eid)
-- [LangChain Memory Management](https://dev.to/rutamstwt/langchain-memory-management-2ogi)
-- [Learn CRO For Developers &lpar;2024 - 2025&rpar;](https://dev.to/elena143/learn-cro-for-developers-2024-2025-oj0)
-- [Common Mathematical Functions](https://dev.to/paulike/common-mathematical-functions-31lk)
+- [Power Apps vs Power Automate](https://dev.to/ifourtechnolab/power-apps-vs-power-automate-356h)
+- [creating a map with Laravel](https://dev.to/ashrakt_amin/creating-a-map-with-laravel-3964)
+- [Vector Databases for generative AI applications](https://dev.to/aws/vector-databases-for-generative-ai-applications-1n8e)
+- [Improving Code Reusability in Angular Projects](https://dev.to/oz/improving-code-reusability-in-angular-projects-11bc)
+- [Choosing The Right Devops Consulting Services](https://dev.to/bytesfarms/choosing-the-right-devops-consulting-services-1a59)
 <!-- BLOG-POST-LIST:END -->
 
 ---
