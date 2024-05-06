@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Our game progress ~ Basic Rule ~](https://dev.to/takeda1411123/our-game-progress-basic-rule--5h8p)
-- [Case Studies on Strings and Characters](https://dev.to/paulike/case-studies-on-strings-and-characters-1dfh)
-- [How to Fix &quot;OpenSlide Library Not Found&quot; Error by Updating .zshrc on macOS](https://dev.to/jam14d/how-to-fix-openslide-library-not-found-error-by-updating-zshrc-on-macos-562n)
-- [JavaScript: Understanding DOM](https://dev.to/stephaniedev/javascript-understanding-dom-43ic)
-- [What&#39;s worse? `NullPointerException` or `try &lpar;error&rpar; {...} catch {// do nothing}`?](https://dev.to/latobibor/whats-worse-nullpointerexception-or-try-error-catch-do-nothing-5002)
+- [Mastering Relational Database Design: A Comprehensive Guide](https://dev.to/louaiboumediene/mastering-relational-database-design-a-comprehensive-guide-3jh8)
+- [A Comprehensive Guide to Queue Data Structures](https://dev.to/guihbc/a-comprehensive-guide-to-queue-data-structures-439e)
+- [Qu&#39;est-ce qu&#39;un projet MERN Stack et comment créer une application CRUD avec? Partie 2/2, Tutoriel](https://dev.to/cub_ger24/quest-ce-quun-projet-mern-stack-et-comment-creer-une-application-crud-avec-partie-22-tutoriel-2dhk)
+- [Introduction to DOM](https://dev.to/lighteni/all-about-dom-2dh6)
+- [Is the Habbo Hotel related to programming?](https://dev.to/moovhe4rt/is-the-habbo-hotel-related-to-programming-fgp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
