@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel 11 Vue 3 Inertia](https://dev.to/dancruise/laravel-11-vue-3-inertia-nno)
-- [Kolmogorov–Arnold Networks &lpar;KANs&rpar;](https://dev.to/gsanjeewadev/kolmogorov-arnold-networks-kans-33pi)
-- [Exploring JavaScript&#39;s Floating Point Arithmetic: Why &lpar;0.1 + 0.2&rpar; !== 0.3](https://dev.to/devmatsu/exploring-javascripts-floating-point-arithmetic-why-01-02-03-efh)
-- [Best free resources for learning to code](https://dev.to/rt68/best-free-resources-for-learning-to-code-1gee)
-- [I&#39;m new as an Indie developer. and I would appreciate your help.](https://dev.to/wolfblast/im-new-as-an-indie-developer-4847)
+- [Module not found: Can&#39;t resolve &#39;pino-pretty&#39;](https://dev.to/dinhkhai0201/module-not-found-cant-resolve-pino-pretty-g6)
+- [Securing Remix Apps with Keycloak](https://dev.to/phasetwo/securing-remix-apps-with-keycloak-43mc)
+- [Advanced Git Techniques: Rebasing and Working with Remotes – Part 3](https://dev.to/dipakahirav/advanced-git-techniques-rebasing-and-working-with-remotes-part-3-2n68)
+- [Dimension alignment](https://dev.to/esproc_spl/dimension-alignment-82m)
+- [Day 2 : Setting up the React Environment](https://dev.to/dipakahirav/day-2-setting-up-the-react-environment-3pal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
