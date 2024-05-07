@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Mantendo seus dados segregados por Padrão](https://dev.to/victorlcampos/mantendo-seus-dados-segregados-por-padrao-3859)
+- [Podcast Palooza— What are you listening to? &lpar;Parenting + Doomsday Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-parenting-doomsday-edition-3eg)
+- [Navigating the Web: A Guide to the DOM](https://dev.to/asmaahamdym/navigating-the-web-a-guide-to-the-dom-10j2)
+- [Navigating the Cosmic Git: A Majestic Journey through Git Exercises](https://dev.to/sabarixr/navigating-the-cosmic-git-a-majestic-journey-through-git-exercises-25bn)
 - [GRAPHIC DESIGNING](https://dev.to/annasdev06/graphic-designing-1mk8)
-- [Linux Essentials/ Vim](https://dev.to/deadpunnk/linux-essentials-vim-47ke)
-- [SOFTWARE ENGINEERING](https://dev.to/annasdev06/software-engineering-3m4j)
-- [Understanding WebSocket and creating from Scratch with JavaScript](https://dev.to/mayanksahai/understanding-websocket-and-creating-from-scratch-with-javascript-3e92)
-- [ARTIFICIAL INTELLIGENCE](https://dev.to/annasdev06/artificial-intelligence-3jdc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
