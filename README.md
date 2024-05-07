@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [create a custom BaseCommand for a Django app](https://dev.to/doridoro/create-a-custom-basecommand-for-a-django-app-38k0)
-- [Scrum was a revolution. Is it time for another?](https://dev.to/horaceshmorace/scrum-was-a-revolution-is-it-time-for-another-20g2)
-- [Top 10 API Automation Testing Tools that Make Automation Easy](https://dev.to/jamescantor38/top-10-api-automation-testing-tools-that-make-automation-easy-3611)
-- [Sorts](https://dev.to/imnotleo/sorts-2pbd)
-- [Handling dates in JavaScript with Tempo](https://dev.to/logrocket/handling-dates-in-javascript-with-tempo-2901)
+- [C# In Practice — Building Tech Support App](https://dev.to/turalsuleymani/c-in-practice-building-tech-support-app-3e98)
+- [DOM... What is it?](https://dev.to/yhuteemoren/dom-what-is-it-3nop)
+- [E-commerce checkout components built with Tailwind CSS and Flowbite](https://dev.to/themesberg/e-commerce-checkout-components-built-with-tailwind-css-and-flowbite-3h6e)
+- [Quick tip: How to Build Local LLM Apps with Ollama and SingleStore](https://dev.to/singlestore/quick-tip-how-to-build-local-llm-apps-with-ollama-and-singlestore-5h1)
+- [What is Abstraction?](https://dev.to/m0n0x41d/what-is-abstraction-44k1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
