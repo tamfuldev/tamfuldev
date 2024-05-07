@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [30+ AI libraries you can use for your next project ideas](https://dev.to/copilotkit/30-ai-libraries-you-can-use-for-your-next-project-ideas-5ded)
-- [Have You Ever Stepped Back to Move Forward?](https://dev.to/devteam/have-you-ever-stepped-back-to-move-forward-45j4)
-- [Difference between Apache Kafka, RabbitMQ, and ActiveMQ](https://dev.to/somadevtoo/difference-between-apache-kafka-rabbitmq-and-activemq-4f1k)
-- [A Guide to Communication Tools in Microsoft 365](https://dev.to/jaloplo/a-guide-to-communication-tools-in-microsoft-365-3169)
-- [How to work with shared dev clusters &lpar;and why&rpar; - Part III: What works, and what doesn&#39;t work](https://dev.to/makky/how-to-work-with-shared-dev-clusters-and-why-part-iii-what-works-and-what-doesnt-work-gf2)
+- [💵 Why Diversity is important. No, really, actually for real.](https://dev.to/samuelfaure/why-diversity-is-important-no-really-actually-for-real-1b7l)
+- [Why you should always set responsive mode to 320px when checking &quot;mobile layout&quot; on your web pages](https://dev.to/lebbe/why-you-should-always-set-responsive-mode-to-320px-when-checking-mobile-layout-on-your-web-pages-3gd9)
+- [Implement React v18 from Scratch Using WASM and Rust - [11] Implement Event System](https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-11-implement-event-system-154)
+- [Application mainpage not loading](https://dev.to/shivam86687/application-mainpage-not-loading-2mg6)
+- [Node.js: A Powerful Backend Framework for Custom Software Development](https://dev.to/vipulgupta/nodejs-a-powerful-backend-framework-for-custom-software-development-2did)
 <!-- BLOG-POST-LIST:END -->
 
 ---
