@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Disappear](https://dev.to/florentb/i-disappear-mo4)
-- [Few new things in Python which I learned last week.](https://dev.to/rajun/few-new-things-in-python-which-i-learned-last-week-3p8k)
-- [Caching PNPM Modules in Docker Builds in GitHub Actions](https://dev.to/henryjw/caching-pnpm-modules-in-docker-builds-in-github-actions-mj7)
-- [Our game progress ~ Mirror Movement ~](https://dev.to/takeda1411123/our-game-progress-mirror-movement--58bm)
-- [🗺️ Neo4J #GraphSummits as data!](https://dev.to/adriens/neo4j-graphsummits-as-data-478l)
+- [Become a Pro Writer: 5 Content Writing Tips](https://dev.to/kachi14/become-a-pro-writer-5-content-writing-tips-42nd)
+- [Shopify Checkout UI Extensions](https://dev.to/yetillc/shopify-checkout-ui-extensions-2ep9)
+- [Should I Be Using IEnumerable, IQueryable, ICollection, or IListd?](https://dev.to/michaeljolley/should-i-be-using-ienumerable-iqueryable-icollection-or-ilistd-37ag)
+- [CRUD Laravel 10 dan Bootstrap 5 #5: Menghapus Data](https://dev.to/risekucom/crud-laravel-10-dan-bootstrap-5-5-menghapus-data-4gh6)
+- [Issue 43 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-43-of-aws-cloud-security-weekly-54a2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
