@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What are single page apps, really?](https://dev.to/nas5w/what-are-single-page-apps-really-3cf4)
-- [What&#39;s New With AWS Security? | April Edition](https://dev.to/aws-builders/whats-new-with-aws-security-april-edition-28c)
-- [animated button](https://dev.to/francescost/animated-button-2bm5)
-- [The Essential Guide to Working at Heights Training in Toronto, Ontario](https://dev.to/alinafern/the-essential-guide-to-working-at-heights-training-in-toronto-ontario-2380)
-- [Cloud Cost Optimization Basics: How to Reduce Costs Without Losing Performance](https://dev.to/zenbittech/cloud-cost-optimization-basics-how-to-reduce-costs-without-losing-performance-44ee)
+- [“Implementing AWS Recycle Bin Service for Enhanced Data Recovery”](https://dev.to/prajwal2023/implementing-aws-recycle-bin-service-for-enhanced-data-recovery-863)
+- [From Stage to Snapshot: Unpacking Git&#39;s Index, Blob, &amp; Commit Operations](https://dev.to/siddhantkcode/from-stage-to-snapshot-unpacking-gits-index-blob-commit-operations-3683)
+- [4.3. Agape: Unconditional love, selfless and compassionate love that seeks the well-being of others.](https://dev.to/ceorohan/43-agape-unconditional-love-selfless-and-compassionate-love-that-seeks-the-well-being-of-others-3ee0)
+- [4.2. Philia: Friendship and companionship, a deep and platonic love often found in strong friendships.](https://dev.to/ceorohan/2-philia-friendship-and-companionship-a-deep-and-platonic-love-often-found-in-strong-friendships-4aeg)
+- [4.1. Eros: Romantic or passionate love, associated with physical desire and attraction.](https://dev.to/ceorohan/41-eros-romantic-or-passionate-love-associated-with-physical-desire-and-attraction-27bc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
