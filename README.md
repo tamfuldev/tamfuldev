@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How MLOps Streamlines Machine Learning Workflows for Maximum Impact](https://dev.to/marufhossain/how-mlops-streamlines-machine-learning-workflows-for-maximum-impact-58me)
-- [Unlocking JavaScript Serialization: A Guide to toJSON&lpar;&rpar; Method](https://dev.to/chintanonweb/unlocking-javascript-serialization-a-guide-to-tojson-method-on)
-- [Kubernetes + RabbitMQ](https://dev.to/nicolasdesouza/kubernetes-rabbitmq-4ed7)
-- [5 useful VSCode shortcuts for GitHub Copilot 🤖](https://dev.to/shortcutmasters/5-useful-vscode-shortcuts-for-github-copilot-2i26)
-- [Algorithms And Data Structures Interview Question - Recursion](https://dev.to/turalsuleymani/algorithms-and-data-structures-interview-question-recursion-3m63)
+- [What are single page apps, really?](https://dev.to/nas5w/what-are-single-page-apps-really-3cf4)
+- [What&#39;s New With AWS Security? | April Edition](https://dev.to/aws-builders/whats-new-with-aws-security-april-edition-28c)
+- [animated button](https://dev.to/francescost/animated-button-2bm5)
+- [The Essential Guide to Working at Heights Training in Toronto, Ontario](https://dev.to/alinafern/the-essential-guide-to-working-at-heights-training-in-toronto-ontario-2380)
+- [Cloud Cost Optimization Basics: How to Reduce Costs Without Losing Performance](https://dev.to/zenbittech/cloud-cost-optimization-basics-how-to-reduce-costs-without-losing-performance-44ee)
 <!-- BLOG-POST-LIST:END -->
 
 ---
