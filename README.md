@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Laravel 11 Vue 3 Inertia](https://dev.to/dancruise/laravel-11-vue-3-inertia-nno)
+- [Kolmogorov–Arnold Networks &lpar;KANs&rpar;](https://dev.to/gsanjeewadev/kolmogorov-arnold-networks-kans-33pi)
+- [Exploring JavaScript&#39;s Floating Point Arithmetic: Why &lpar;0.1 + 0.2&rpar; !== 0.3](https://dev.to/devmatsu/exploring-javascripts-floating-point-arithmetic-why-01-02-03-efh)
 - [Best free resources for learning to code](https://dev.to/rt68/best-free-resources-for-learning-to-code-1gee)
 - [I&#39;m new as an Indie developer. and I would appreciate your help.](https://dev.to/wolfblast/im-new-as-an-indie-developer-4847)
-- [OpenBSD 7.3 を 7.4 へ アップグレード](https://dev.to/nabbisen/openbsd-73-wo-74-he-atupuguredo-4kme)
-- [10 Steps to Become a Web Developer](https://dev.to/web_dev_zakaria/10-steps-to-become-a-web-developer-1nco)
-- [VSCode on Android Phone](https://dev.to/annavi11arrea1/vscode-on-android-phone-4i56)
 <!-- BLOG-POST-LIST:END -->
 
 ---
