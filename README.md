@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Become a Pro Writer: 5 Content Writing Tips](https://dev.to/kachi14/become-a-pro-writer-5-content-writing-tips-42nd)
-- [Shopify Checkout UI Extensions](https://dev.to/yetillc/shopify-checkout-ui-extensions-2ep9)
-- [Should I Be Using IEnumerable, IQueryable, ICollection, or IListd?](https://dev.to/michaeljolley/should-i-be-using-ienumerable-iqueryable-icollection-or-ilistd-37ag)
-- [CRUD Laravel 10 dan Bootstrap 5 #5: Menghapus Data](https://dev.to/risekucom/crud-laravel-10-dan-bootstrap-5-5-menghapus-data-4gh6)
-- [Issue 43 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-43-of-aws-cloud-security-weekly-54a2)
+- [Best free resources for learning to code](https://dev.to/rt68/best-free-resources-for-learning-to-code-1gee)
+- [I&#39;m new as an Indie developer. and I would appreciate your help.](https://dev.to/wolfblast/im-new-as-an-indie-developer-4847)
+- [OpenBSD 7.3 を 7.4 へ アップグレード](https://dev.to/nabbisen/openbsd-73-wo-74-he-atupuguredo-4kme)
+- [10 Steps to Become a Web Developer](https://dev.to/web_dev_zakaria/10-steps-to-become-a-web-developer-1nco)
+- [VSCode on Android Phone](https://dev.to/annavi11arrea1/vscode-on-android-phone-4i56)
 <!-- BLOG-POST-LIST:END -->
 
 ---
