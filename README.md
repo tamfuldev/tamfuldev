@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [ADDING COMMAND ALIASES TO POWERSHELL](https://dev.to/mr_sd_jack_003/adding-command-aliases-to-powershell-87c)
-- [ADDING COMMAND ALIASES TO POWERSHELL](https://dev.to/mr_sd_jack_003/adding-command-aliases-to-powershell-1pkn)
-- [Contribute to ZemProfiles!](https://dev.to/zemerik/contribute-to-zemprofiles-16on)
-- [Harnessing the Benefits of Structured Data for Improved SEO Results](https://dev.to/andybeohar/harnessing-the-benefits-of-structured-data-for-improved-seo-results-1baa)
-- [Harnessing the Benefits of Structured Data for Improved SEO Results](https://dev.to/andybeohar/harnessing-the-benefits-of-structured-data-for-improved-seo-results-43k8)
+- [Custom Fonts In React Native: Pro Tip!](https://dev.to/mitchiemt11/custom-fonts-in-react-native-pro-tip-4693)
+- [Friction: How Human Behavior Influences Code Development](https://dev.to/tiuwill/friction-how-human-behavior-influences-code-development-46on)
+- [Top AI-Enhanced Tools for Learning Management Systems](https://dev.to/digitalsamba/top-ai-enhanced-tools-for-learning-management-systems-10fa)
+- [The Power of Offshore Development Centers in Driving Innovation](https://dev.to/witson/the-power-of-offshore-development-centers-in-driving-innovation-3070)
+- [ViewComponent Cheatsheet](https://dev.to/railsdesigner/viewcomponent-cheatsheet-2kh9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
