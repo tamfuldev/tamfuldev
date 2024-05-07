@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Power of React: Demystifying Client-Side and Server-Side Rendering with Practical Examples](https://dev.to/karthik_n/unlocking-the-power-of-react-demystifying-client-side-and-server-side-rendering-with-practical-examples-2ogd)
-- [Automation: Holidays](https://dev.to/zachnology/automation-holidays-504a)
-- [The Infrastructure Iceberg](https://dev.to/zachnology/the-infrastructure-iceberg-ede)
-- [Part 2: Comprehensive Guide to Django Models](https://dev.to/kihuni/part-2-comprehensive-guide-to-django-models-pol)
-- [Simplifying PATH Management with Bash](https://dev.to/christianpaez/simplifying-path-management-with-bash-4870)
+- [Reducing the Boilerplate for Services Utilizing Subjects in Angular](https://dev.to/bwca/reducing-the-boilerplate-for-services-utilizing-subjects-in-angular-44fp)
+- [Rust Cheatsheet](https://dev.to/syedmuhammadaliraza/rust-cheatsheet-4db9)
+- [Join our ML Reading Group on May 14th ！](https://dev.to/grandelisali/join-our-ml-reading-group-on-may-14th--28no)
+- [Implementing a QR Code Download Feature in React](https://dev.to/graciesharma/implementing-a-qr-code-download-feature-in-react-3p7i)
+- [🔑 Keyed Services in .NET Core 8: The Death of the Factory Pattern? 🔑](https://dev.to/ahmedshahjr/keyed-services-in-net-core-8-the-death-of-the-factory-pattern-41ff)
 <!-- BLOG-POST-LIST:END -->
 
 ---
