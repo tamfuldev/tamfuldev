@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mantendo seus dados segregados por Padrão](https://dev.to/victorlcampos/mantendo-seus-dados-segregados-por-padrao-3859)
-- [Podcast Palooza— What are you listening to? &lpar;Parenting + Doomsday Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-parenting-doomsday-edition-3eg)
-- [Navigating the Web: A Guide to the DOM](https://dev.to/asmaahamdym/navigating-the-web-a-guide-to-the-dom-10j2)
-- [Navigating the Cosmic Git: A Majestic Journey through Git Exercises](https://dev.to/sabarixr/navigating-the-cosmic-git-a-majestic-journey-through-git-exercises-25bn)
-- [GRAPHIC DESIGNING](https://dev.to/annasdev06/graphic-designing-1mk8)
+- [Terragrunt for Multi-Region/Multi-Account Deployments](https://dev.to/aws-builders/terragrunt-for-multi-regionmulti-account-deployments-1o1)
+- [Enhancing User Engagement with Video Widgets](https://dev.to/msmith99994/enhancing-user-engagement-with-video-widgets-30n1)
+- [AZURE ACTIVE DIRECTORY&lpar;microsoft entra&rpar; ROLE ASSIGNMENT](https://dev.to/shaloversal123/azure-active-directorymicrosoft-entra-role-assignment-1fki)
+- [37 Tips from a Senior Frontend Developer](https://dev.to/_ndeyefatoudiop/37-tips-from-a-senior-frontend-developer-251b)
+- [How to use Google Gemini AI for Agriculture Productivity](https://dev.to/vishalmysore/how-to-use-google-gemini-ai-for-agriculture-productivity-556)
 <!-- BLOG-POST-LIST:END -->
 
 ---
