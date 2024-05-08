@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Descomplicando a Configuração de Producers e Consumers com Kafka](https://dev.to/jjeanjacques10/descomplicando-a-configuracao-de-producers-e-consumers-com-kafka-nj8)
-- [SQL Join Types Explained: Inner, Outer, and More in 2024](https://dev.to/nikhilxd/sql-join-types-explained-inner-outer-and-more-in-2024-cki)
-- [Wasp x Supabase: Smokin’ Hot Full-Stack Combo 🌶️ 🔥](https://dev.to/wasp/wasp-x-supabase-smokin-hot-full-stack-combo-ioe)
-- [Unlocking Performance of Enabling Intel Application Optimization on MSI Motherboard](https://dev.to/thetechbasic/unlocking-performance-of-enabling-intel-application-optimization-on-msi-motherboard-1gbl)
-- [Exploring Enhanced Switch in Java](https://dev.to/nikhilxd/exploring-enhanced-switch-in-java-44fh)
+- [The Best UX Research Sites for Developers/Designers Inspirations](https://dev.to/renancferro/the-best-ux-research-sites-for-developersdesigners-inspirations-2d0a)
+- [Overcoming Docker Installation Woes on Windows Server 2019 for Lambda Function Testing](https://dev.to/prachibhende/overcoming-docker-installation-woes-on-windows-server-2019-for-lambda-function-testing-3omh)
+- [Understanding Embedded and Immersive Business Process Flows in Power Automate](https://dev.to/shishsingh/understanding-embedded-and-immersive-business-process-flows-in-power-automate-53ad)
+- [A Chatbot for Sales: 5 Ways AI Assistants Boost Website Conversion](https://dev.to/parth51199/a-chatbot-for-sales-5-ways-ai-assistants-boost-website-conversion-i5f)
+- [Scrum Methodology: A Short Guide](https://dev.to/productivity/scrum-methodology-a-short-guide-4kbj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
