@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [35 Years of Web, Speedometer 3, Chrome 123-124, Firefox 124-125, Vivaldi mobile 6.6, and more | Front End News #108](https://dev.to/adriansandu/35-years-of-web-speedometer-3-chrome-123-124-firefox-124-125-vivaldi-mobile-66-and-more-front-end-news-108-3676)
-- [NestJS Builtin Anti-Pattern](https://dev.to/xpr/nestjs-builtin-anti-pattern-1f5k)
-- [Comparing Hattip vs. Express.js for modern app development](https://dev.to/logrocket/comparing-hattip-vs-expressjs-for-modern-app-development-377m)
-- [Eurovision Gradients](https://dev.to/madsstoumann/eurovision-gradients-4fog)
-- [&quot;--variables &quot; in CSS 🤯 THE COMPLETE GUIDE ⚡](https://dev.to/mince/-variables-in-css-the-complete-guide-2dae)
+- [Accessibility Breakdown](https://dev.to/devsatasurion/accessibility-breakdown-5c65)
+- [Giving Odin Vision](https://dev.to/yevhenk/giving-odin-vision-1fd5)
+- [Mastering Favicon Implementation: A Comprehensive Guide.](https://dev.to/be_rajeevkumar/mastering-favicon-implementation-a-comprehensive-guide-1a85)
+- [[Java] Get file list from specified directory](https://dev.to/masanori_msl/java-get-file-list-from-specified-directory-55eg)
+- [Rapier Physics with Macroquad: Rust Game Physics](https://dev.to/askrodney/rapier-physics-with-macroquad-rust-game-physics-77)
 <!-- BLOG-POST-LIST:END -->
 
 ---
