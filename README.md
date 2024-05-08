@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a CRUD Application with Golang and MySQL](https://dev.to/dexterxt/creating-a-crud-application-with-golang-and-mysql-4mpj)
-- [Afifmetik operatorlar | C++](https://dev.to/islomali99/afifmetik-operatorlar-c-24k8)
-- [Virtual Private Cloud vs On Premises | Key Differences &amp; How to Choose](https://dev.to/dreamfactorysoftware/virtual-private-cloud-vs-on-premises-key-differences-how-to-choose-3l87)
-- [Exploring the AHA stack: Tutorial, demo, and comparison](https://dev.to/logrocket/exploring-the-aha-stack-tutorial-demo-and-comparison-83a)
-- [A Comprehensive Guide to Deploying WordPress on Docker: Simplifying Website Hosting with Containerization](https://dev.to/linsmed/a-comprehensive-guide-to-deploying-wordpress-on-docker-simplifying-website-hosting-with-containerization-1937)
+- [let vs const in JavaScript aka why don&#39;t you learn a bit of C?](https://dev.to/lazarv/let-vs-const-in-javascript-aka-why-dont-you-learn-a-bit-of-c-1c1d)
+- [PHP Warning: file_put_contents&lpar;&rpar;: Failed to open stream: Permission denied](https://dev.to/timausa/php-warning-fileputcontents-failed-to-open-stream-permission-denied-2jmm)
+- [Search Goole Like a Pro [Cheat sheet]](https://dev.to/jacktt/search-goole-like-a-pro-cheat-sheet-4f53)
+- [Advanced Go Build Techniques](https://dev.to/jacktt/advanced-go-build-techniques-4fk1)
+- [help with clearing a list in c#](https://dev.to/taquitosensei/help-with-clearing-a-list-in-c-d98)
 <!-- BLOG-POST-LIST:END -->
 
 ---
