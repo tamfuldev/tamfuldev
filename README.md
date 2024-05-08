@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Bra Asks Yangfei Chao: Who Owns the Copyright to Novels Written by AI?](https://dev.to/naizhao/bra-asks-yangfei-chao-who-owns-the-copyright-to-novels-written-by-ai-1ld8)
-- [Hono on Azure Functions](https://dev.to/marplex/hono-on-azure-functions-15g)
-- [AWS SnapStart - Part 20 Measuring warm starts with Java 17 using different Lambda memory settings](https://dev.to/aws-builders/aws-snapstart-part-20-measuring-warm-starts-with-java-17-using-different-lambda-memory-settings-1p7j)
-- [Linux Essentials / Gerenciador de Pacotes](https://dev.to/deadpunnk/linux-essentials-gerenciador-de-pacotes-fh5)
-- [Basic Routing and Pages in Next.js](https://dev.to/jaydevm/basic-routing-and-pages-in-nextjs-42hd)
+- [35 Years of Web, Speedometer 3, Chrome 123-124, Firefox 124-125, Vivaldi mobile 6.6, and more | Front End News #108](https://dev.to/adriansandu/35-years-of-web-speedometer-3-chrome-123-124-firefox-124-125-vivaldi-mobile-66-and-more-front-end-news-108-3676)
+- [NestJS Builtin Anti-Pattern](https://dev.to/xpr/nestjs-builtin-anti-pattern-1f5k)
+- [Comparing Hattip vs. Express.js for modern app development](https://dev.to/logrocket/comparing-hattip-vs-expressjs-for-modern-app-development-377m)
+- [Eurovision Gradients](https://dev.to/madsstoumann/eurovision-gradients-4fog)
+- [&quot;--variables &quot; in CSS 🤯 THE COMPLETE GUIDE ⚡](https://dev.to/mince/-variables-in-css-the-complete-guide-2dae)
 <!-- BLOG-POST-LIST:END -->
 
 ---
