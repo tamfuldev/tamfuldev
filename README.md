@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [O que são microserviços? Para que servem e quando usar?](https://dev.to/kauegatto/o-que-sao-microservicos-para-que-servem-e-quando-usar-mb3)
+- [How to Cloud: Virtual Machines](https://dev.to/aws-builders/how-to-cloud-virtual-machines-4h0)
+- [Introduction to Low-Code Development Platforms](https://dev.to/kartikmehta8/introduction-to-low-code-development-platforms-2fj5)
 - [Rendering Components in React Native for Different Platforms](https://dev.to/paulocappa/rendering-components-in-react-native-for-different-platforms-4ckg)
 - [Rendering Components in React Native for Different Platforms](https://dev.to/paulocappa/rendering-components-in-react-native-for-different-platforms-e54)
-- [Welcome Thread - v275](https://dev.to/devteam/welcome-thread-v275-5a9f)
-- [The most worrisome health challenges in the future, according to LLMs](https://dev.to/astrabert/the-most-worrisome-health-challenges-in-the-future-according-to-llms-2hgf)
-- [Pj&#39;s First Field Day: A Campus Experts Adventure](https://dev.to/gh-campus-experts/pjs-first-field-day-a-campus-experts-adventure-2nfo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
