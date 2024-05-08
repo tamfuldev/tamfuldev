@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Less Code &lpar;-75%&rpar; &amp; More Power &lpar;💪&rpar; with Remult](https://dev.to/jycouet/less-code-75-more-power-with-remult-325m)
-- [Is Coding Hard?](https://dev.to/devmarket/is-coding-hard-316g)
-- [Laravel 11 : Custom package does not generate CSRF token.](https://dev.to/thephpx/laravel-11-custom-package-does-not-generate-csrf-token-4oi0)
-- [Instalando de maneira rápida e eficiente suas ferramentas no WSL. Pt-3](https://dev.to/devhat/instalando-de-maneira-rapida-e-eficiente-suas-ferramentas-no-wsl-pt-3-307l)
-- [Mastering SQL: Comprehensive Guide To Structured Query Language](https://dev.to/louaiboumediene/mastering-sql-comprehensive-guide-to-structured-query-language-4gh)
+- [Bra Asks Yangfei Chao: Who Owns the Copyright to Novels Written by AI?](https://dev.to/naizhao/bra-asks-yangfei-chao-who-owns-the-copyright-to-novels-written-by-ai-1ld8)
+- [Hono on Azure Functions](https://dev.to/marplex/hono-on-azure-functions-15g)
+- [AWS SnapStart - Part 20 Measuring warm starts with Java 17 using different Lambda memory settings](https://dev.to/aws-builders/aws-snapstart-part-20-measuring-warm-starts-with-java-17-using-different-lambda-memory-settings-1p7j)
+- [Linux Essentials / Gerenciador de Pacotes](https://dev.to/deadpunnk/linux-essentials-gerenciador-de-pacotes-fh5)
+- [Basic Routing and Pages in Next.js](https://dev.to/jaydevm/basic-routing-and-pages-in-nextjs-42hd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
