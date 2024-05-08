@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Struggling with Inventory Management? This Might Help!](https://dev.to/harshitlyzr/struggling-with-inventory-management-this-might-help-5aa)
-- [LangChain Chains: Simple to Advanced Workflows](https://dev.to/rutamstwt/langchain-chains-simple-to-advanced-workflows-17n4)
-- [Top 3 Cloud and DevOps Projects To Supercharge Your Resume](https://dev.to/aws-builders/top-5-cloud-and-devops-projects-to-supercharge-your-resume-62f)
-- [Installing a Nerd Font in Ubuntu](https://dev.to/thiagomg/installing-a-nerd-font-in-ubuntu-558l)
-- [Google Zanzibar implementations](https://dev.to/spaceblocks/google-zanzibar-implementations-56f8)
+- [Do Night Owls Code Better?](https://dev.to/devteam/do-night-owls-code-better-4ddj)
+- [How GetX State Management Library Works in Flutter](https://dev.to/codetradeindia/how-getx-state-management-library-works-in-flutter-3on8)
+- [Setting up older mac mini](https://dev.to/codehiccups/setting-up-older-mac-mini-1124)
+- [Mastering Angular SSR: Enabling Custom HTTP Responses &lpar;404, 301&rpar;](https://dev.to/cubesoft/mastering-angular-ssr-enabling-custom-http-responses-404-301-55pc)
+- [MongoDB vs Snowflake: A Comprehensive Comparison](https://dev.to/techsourabh/mongodb-vs-snowflake-a-comprehensive-comparison-10hj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
