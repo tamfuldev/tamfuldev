@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Best UX Research Sites for Developers/Designers Inspirations](https://dev.to/renancferro/the-best-ux-research-sites-for-developersdesigners-inspirations-2d0a)
-- [Overcoming Docker Installation Woes on Windows Server 2019 for Lambda Function Testing](https://dev.to/prachibhende/overcoming-docker-installation-woes-on-windows-server-2019-for-lambda-function-testing-3omh)
-- [Understanding Embedded and Immersive Business Process Flows in Power Automate](https://dev.to/shishsingh/understanding-embedded-and-immersive-business-process-flows-in-power-automate-53ad)
-- [A Chatbot for Sales: 5 Ways AI Assistants Boost Website Conversion](https://dev.to/parth51199/a-chatbot-for-sales-5-ways-ai-assistants-boost-website-conversion-i5f)
-- [Scrum Methodology: A Short Guide](https://dev.to/productivity/scrum-methodology-a-short-guide-4kbj)
+- [Nice Froala colour palette](https://dev.to/marwelz/nice-froala-colour-palette-4bbj)
+- [What I do when learning a new framework/language](https://dev.to/kervyntjw/what-i-do-when-learning-a-new-frameworklanguage-2p3a)
+- [CDK CodeChecker v2: Breaking Free from Third-Party Dependencies](https://dev.to/aws-builders/cdk-codechecker-v2-breaking-free-from-third-party-dependencies-3ob5)
+- [Solo Hablando Buenos Días Para Vosotros De La Comuniti!](https://dev.to/raphaelproject001/solo-hablando-buenos-dias-para-vosotros-de-la-comuniti-3021)
+- [Introducing the Next Generation Certificate System in PHP: A Leap Forward in Security and Efficiency](https://dev.to/technosmarter/introducing-the-next-generation-certificate-system-in-php-a-leap-forward-in-security-and-efficiency-2edp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
