@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Accessibility Breakdown](https://dev.to/devsatasurion/accessibility-breakdown-5c65)
-- [Giving Odin Vision](https://dev.to/yevhenk/giving-odin-vision-1fd5)
-- [Mastering Favicon Implementation: A Comprehensive Guide.](https://dev.to/be_rajeevkumar/mastering-favicon-implementation-a-comprehensive-guide-1a85)
-- [[Java] Get file list from specified directory](https://dev.to/masanori_msl/java-get-file-list-from-specified-directory-55eg)
-- [Rapier Physics with Macroquad: Rust Game Physics](https://dev.to/askrodney/rapier-physics-with-macroquad-rust-game-physics-77)
+- [Creating a CRUD Application with Golang and MySQL](https://dev.to/dexterxt/creating-a-crud-application-with-golang-and-mysql-4mpj)
+- [Afifmetik operatorlar | C++](https://dev.to/islomali99/afifmetik-operatorlar-c-24k8)
+- [Virtual Private Cloud vs On Premises | Key Differences &amp; How to Choose](https://dev.to/dreamfactorysoftware/virtual-private-cloud-vs-on-premises-key-differences-how-to-choose-3l87)
+- [Exploring the AHA stack: Tutorial, demo, and comparison](https://dev.to/logrocket/exploring-the-aha-stack-tutorial-demo-and-comparison-83a)
+- [A Comprehensive Guide to Deploying WordPress on Docker: Simplifying Website Hosting with Containerization](https://dev.to/linsmed/a-comprehensive-guide-to-deploying-wordpress-on-docker-simplifying-website-hosting-with-containerization-1937)
 <!-- BLOG-POST-LIST:END -->
 
 ---
