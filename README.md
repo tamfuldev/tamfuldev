@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Best Practises for Building Responsive design in 2024](https://dev.to/linusmwiti21/best-practises-for-building-responsive-design-in-2024-48c4)
-- [Quickly Create App Icons by Resizing Your Main Image With a Bash Script](https://dev.to/simplykyra/quickly-create-app-icons-by-resizing-your-main-image-with-a-bash-script-3fif)
-- [6 hard truths about learning to code in 2024](https://dev.to/educative/6-hard-truths-about-learning-to-code-in-2024-ppj)
-- [Keywords break and continue](https://dev.to/paulike/keywords-break-and-continue-488k)
-- [From ETL to Modern Integration Platforms](https://dev.to/ovaisnaseem/from-etl-to-modern-integration-platforms-p5n)
+- [A Code-First Approach to Managing Notification Workflows](https://dev.to/novu/a-code-first-approach-to-managing-notification-workflows-j8j)
+- [The DRY, KISS, and YAGNI Principles in .NET](https://dev.to/adrianbailador/the-dry-kiss-and-yagni-principles-in-net-43dl)
+- [Building a Dynamic Contact Form with Firebase Realtime Database](https://dev.to/chabbasaad/building-a-dynamic-contact-form-with-firebase-realtime-database-4alb)
+- [Create an AI Chart Generator Using ToolJet and OpenAI](https://dev.to/karanrathod316/create-an-ai-chart-generator-using-tooljet-and-openai-2l9)
+- [OLAP: CUBE, ROLLUP, AND GROUPING SETS](https://dev.to/marklouisalter/olap-cube-rollup-and-grouping-sets-50ek)
 <!-- BLOG-POST-LIST:END -->
 
 ---
