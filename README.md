@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Does Personality Boost ChatGPT Interactions?](https://dev.to/devteam/does-personality-boost-chatgpt-interactions-135n)
-- [Unlocking Software Excellence: A Guide to Effective Functional Testing](https://dev.to/berthaw82414312/unlocking-software-excellence-a-guide-to-effective-functional-testing-f3k)
-- [Managing URLs - Part 01 🔗](https://dev.to/gautamvaishnav/managing-urls-part-01-2e1b)
-- [API Prototypes with dbb: Another step to better prototypes](https://dev.to/nicolkill/api-prototypes-with-dbb-another-step-to-better-prototypes-191)
-- [5 of the Best Ways to Make Money Online in 2024](https://dev.to/ahmed_onour/5-of-the-best-ways-to-make-money-online-in-2024-2on8)
+- [Simple Preferences to Any Resource with Ruby on Rails](https://dev.to/railsdesigner/simple-preferences-to-any-resource-for-rails-3hnp)
+- [#506. Relative Ranks](https://dev.to/karleb/506-relative-ranks-1h4c)
+- [Crash Course: Automating .xccrashpoint Exports in MacOS](https://dev.to/vibrazy/crash-course-automating-xccrashpoint-exports-in-macos-1pfc)
+- [What are the common mistakes learners make while learning to code?](https://dev.to/softwaredevelopmentinsights/what-are-the-common-mistakes-learners-make-while-learning-to-code-5b0d)
+- [Guess What? Your JavaScript Array is an Object! 🤔](https://dev.to/itsjp/guess-what-your-javascript-array-is-an-object-5ha7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
