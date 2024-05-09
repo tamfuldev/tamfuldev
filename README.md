@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Code-First Approach to Managing Notification Workflows](https://dev.to/novu/a-code-first-approach-to-managing-notification-workflows-j8j)
-- [The DRY, KISS, and YAGNI Principles in .NET](https://dev.to/adrianbailador/the-dry-kiss-and-yagni-principles-in-net-43dl)
-- [Building a Dynamic Contact Form with Firebase Realtime Database](https://dev.to/chabbasaad/building-a-dynamic-contact-form-with-firebase-realtime-database-4alb)
-- [Create an AI Chart Generator Using ToolJet and OpenAI](https://dev.to/karanrathod316/create-an-ai-chart-generator-using-tooljet-and-openai-2l9)
-- [OLAP: CUBE, ROLLUP, AND GROUPING SETS](https://dev.to/marklouisalter/olap-cube-rollup-and-grouping-sets-50ek)
+- [Migration from Medium to dev.to and Hugo](https://dev.to/jetthoughts_61/migration-from-medium-to-devto-and-hugo-28bj)
+- [A guide to Deno.cron](https://dev.to/logrocket/a-guide-to-denocron-5ejm)
+- [How I built and designed MyWishlist - Part One](https://dev.to/jolamemushaj/how-i-built-and-designed-mywishlist-part-one-27e6)
+- [Zapier Alternatives: Automatisch.io and N8N ⚡️](https://dev.to/steeve/zapier-free-alternatives-automatischio-and-n8n-3bof)
+- [D5L Dictionary](https://dev.to/kazure/d5l-dictionary-1l5j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
