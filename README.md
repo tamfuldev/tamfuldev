@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Simple Preferences to Any Resource with Ruby on Rails](https://dev.to/railsdesigner/simple-preferences-to-any-resource-for-rails-3hnp)
-- [#506. Relative Ranks](https://dev.to/karleb/506-relative-ranks-1h4c)
-- [Crash Course: Automating .xccrashpoint Exports in MacOS](https://dev.to/vibrazy/crash-course-automating-xccrashpoint-exports-in-macos-1pfc)
-- [What are the common mistakes learners make while learning to code?](https://dev.to/softwaredevelopmentinsights/what-are-the-common-mistakes-learners-make-while-learning-to-code-5b0d)
-- [Guess What? Your JavaScript Array is an Object! 🤔](https://dev.to/itsjp/guess-what-your-javascript-array-is-an-object-5ha7)
+- [The Vary HTTP header](https://dev.to/nfrankel/the-vary-http-header-2m5m)
+- [Recap: Microsoft Build AI Day Switzerland 2024](https://dev.to/arindam0310018/recap-microsoft-build-ai-day-switzerland-2024-2b62)
+- [Elasticsearch - The Intro](https://dev.to/yogini16/elasticsearch-the-intro-j67)
+- [Esp32 Rust Board on Macos M-chip in Docker](https://dev.to/wwwxqxq/macos-m-chip-esp32-rust-board-huan-jing-da-jian-3kc)
+- [How to create a 3D Button Tailwind CSS](https://dev.to/mike_andreuzza/how-to-create-a-3d-button-tailwind-css-5f6f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
