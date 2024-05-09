@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [🎨 Exploring the Abstract Factory Design Pattern in Ruby](https://dev.to/davidmrtz-dev/exploring-the-abstract-factory-design-pattern-in-ruby-3206)
+- [Optimizing React Table Rendering By 160x !!!](https://dev.to/navneet7716/optimizing-react-table-rendering-by-160x--5g3c)
+- [Primitive Data Structure](https://dev.to/developedbyjk/primitive-data-structure-3klm)
 - [Why Every Website Needs an SSL Encryption](https://dev.to/me_priya/why-every-website-needs-an-ssl-encryption-4bcb)
 - [Langchain: Question Answering over Documents](https://dev.to/rutamstwt/langchain-question-answering-over-documents-3mh6)
-- [Rápido e Devagar: Dicas para Estimativas que Quase Dão Certo](https://dev.to/pdn/rapido-e-devagar-dicas-para-estimativas-que-quase-dao-certo-a26)
-- [Troubleshoot dependencies in Pipfile/pipenv](https://dev.to/notingin4k/troubleshoot-dependencies-in-pipfilepipenv-27d3)
-- [Install Alpine Linux In Virtualbox](https://dev.to/hardyweb/install-alpine-linux-in-virtualbox-edn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
