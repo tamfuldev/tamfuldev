@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🍱 15 Japanese Techniques for Developers to Boost Your Productivity!](https://dev.to/evergrowingdev/15-japanese-techniques-for-developers-to-boost-your-productivity-2g55)
-- [CSS Challenge Day 1: Styling HTML Elements to Resemble Text](https://dev.to/krunalsinh/css-challenge-day-1-styling-html-elements-to-resemble-text-5ha9)
-- [Case Studies on Loops](https://dev.to/paulike/case-studies-on-loops-27l1)
-- [VTable usage issue: How to implement drag-and-drop adjustment of line-height](https://dev.to/rayssss/vtable-usage-issue-how-to-implement-drag-and-drop-adjustment-of-line-height-709)
-- [The Power of &quot;Thanks&quot;](https://dev.to/bearbob/the-power-of-thanks-1c70)
+- [Best Practises for Building Responsive design in 2024](https://dev.to/linusmwiti21/best-practises-for-building-responsive-design-in-2024-48c4)
+- [Quickly Create App Icons by Resizing Your Main Image With a Bash Script](https://dev.to/simplykyra/quickly-create-app-icons-by-resizing-your-main-image-with-a-bash-script-3fif)
+- [6 hard truths about learning to code in 2024](https://dev.to/educative/6-hard-truths-about-learning-to-code-in-2024-ppj)
+- [Keywords break and continue](https://dev.to/paulike/keywords-break-and-continue-488k)
+- [From ETL to Modern Integration Platforms](https://dev.to/ovaisnaseem/from-etl-to-modern-integration-platforms-p5n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
