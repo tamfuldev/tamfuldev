@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Large UV Flatbed Printers: Enhancing Productivity in Printing Businesses](https://dev.to/abychen/large-uv-flatbed-printers-enhancing-productivity-in-printing-businesses-29jb)
-- [What is C and C++ Used For in 2024?](https://dev.to/thekarlesi/what-is-c-and-c-used-for-in-2024-532m)
-- [How I Crushed My AWS Certification Renewals Back-to-Back &lpar;and Why It Was a Bad Idea&rpar;](https://dev.to/aws-builders/how-i-crushed-my-aws-certification-renewals-back-to-back-and-why-it-was-a-bad-idea-56fh)
-- [React Hand-On Activity for Interview Process](https://dev.to/zeeshanali0704/react-hand-on-activity-for-interview-process-1cl)
-- [Quick start to &quot;Deyan with Code&quot;](https://dev.to/deyanwithcode/quick-start-to-deyan-with-code-5512)
+- [Why Every Website Needs an SSL Encryption](https://dev.to/me_priya/why-every-website-needs-an-ssl-encryption-4bcb)
+- [Langchain: Question Answering over Documents](https://dev.to/rutamstwt/langchain-question-answering-over-documents-3mh6)
+- [Rápido e Devagar: Dicas para Estimativas que Quase Dão Certo](https://dev.to/pdn/rapido-e-devagar-dicas-para-estimativas-que-quase-dao-certo-a26)
+- [Troubleshoot dependencies in Pipfile/pipenv](https://dev.to/notingin4k/troubleshoot-dependencies-in-pipfilepipenv-27d3)
+- [Install Alpine Linux In Virtualbox](https://dev.to/hardyweb/install-alpine-linux-in-virtualbox-edn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
