@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Crossover of Health, Technology and Art: CodeNewbie Podcast S27E6](https://dev.to/codenewbieteam/the-crossover-of-health-technology-and-art-codenewbie-podcast-s27e6-4g1c)
-- [Creating custom pagination component with Angular](https://dev.to/pseudopilot/creating-custom-pagination-component-with-angular-2dl2)
-- [VSCode App Google Play -SUS!](https://dev.to/annavi11arrea1/vscode-app-google-play-sus-h27)
-- [Code Improvements](https://dev.to/walternascimentobarroso/code-improvements-4fj3)
-- [swap the value of two variable Four method [Day-02]](https://dev.to/isjasrajchouhan/swap-the-value-of-two-variable-four-method-day-02-4cp8)
+- [Essential Networking Know-How: Insights for DevOps Engineers](https://dev.to/abhixsh/essential-networking-know-how-insights-for-devops-engineers-1ci4)
+- [Understanding AWS Control Tower: Gateway to Cloud Governance Part 1](https://dev.to/aminabrhm4/understanding-aws-control-tower-gateway-to-cloud-governance-part-1-38f)
+- [GitHub Actions e a Magia dos Triggers: Automatizando Tarefas com C#](https://dev.to/racoelho/github-actions-e-a-magia-dos-triggers-automatizando-tarefas-com-c-mle)
+- [useState&lpar;&rpar; semantic when you need to toggle modal visibility](https://dev.to/sensorario/usestate-semantic-when-you-need-to-toggle-modal-visibility-21o2)
+- [What I learned today 5.8.24](https://dev.to/brandonmichaelhunter/what-i-learned-today-5824-1ppn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
