@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Adventures of Blink #22: Hidden Messages](https://dev.to/linkbenjamin/the-adventures-of-blink-22-hidden-messages-59eg)
-- [C# va .NETga sayohat.](https://dev.to/ozodbek_soft/c-va-netga-sayohat-24kj)
-- [Vonage Welcomes Twilio Programmable Video Customers](https://dev.to/vonagedev/vonage-welcomes-twilio-programmable-video-customers-2edp)
-- [React Hooks : A Comprehensive Beginner’s Guide](https://dev.to/johnnyk/react-hooks-a-comprehensive-beginners-guide-3bgc)
-- [Portfolio built with Typescript and Python](https://dev.to/gfouz/portfolio-built-with-typescript-and-python-e1h)
+- [🍱 15 Japanese Techniques for Developers to Boost Your Productivity!](https://dev.to/evergrowingdev/15-japanese-techniques-for-developers-to-boost-your-productivity-2g55)
+- [CSS Challenge Day 1: Styling HTML Elements to Resemble Text](https://dev.to/krunalsinh/css-challenge-day-1-styling-html-elements-to-resemble-text-5ha9)
+- [Case Studies on Loops](https://dev.to/paulike/case-studies-on-loops-27l1)
+- [VTable usage issue: How to implement drag-and-drop adjustment of line-height](https://dev.to/rayssss/vtable-usage-issue-how-to-implement-drag-and-drop-adjustment-of-line-height-709)
+- [The Power of &quot;Thanks&quot;](https://dev.to/bearbob/the-power-of-thanks-1c70)
 <!-- BLOG-POST-LIST:END -->
 
 ---
