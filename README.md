@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Migration from Medium to dev.to and Hugo](https://dev.to/jetthoughts_61/migration-from-medium-to-devto-and-hugo-28bj)
-- [A guide to Deno.cron](https://dev.to/logrocket/a-guide-to-denocron-5ejm)
-- [How I built and designed MyWishlist - Part One](https://dev.to/jolamemushaj/how-i-built-and-designed-mywishlist-part-one-27e6)
-- [Zapier Alternatives: Automatisch.io and N8N ⚡️](https://dev.to/steeve/zapier-free-alternatives-automatischio-and-n8n-3bof)
-- [D5L Dictionary](https://dev.to/kazure/d5l-dictionary-1l5j)
+- [Durable Execution Explained — How Conductor Delivers Resilient Systems Out Of The Box](https://dev.to/orkes/durable-execution-explained-how-conductor-delivers-resilient-systems-out-of-the-box-3i1p)
+- [Negotiating a Higher Salary as a Junior Developer](https://dev.to/sotergreco/negotiating-a-higher-salary-as-a-junior-developer-nhb)
+- [Solving the Localhost Development Headache with Nanocl](https://dev.to/leone/solving-the-localhost-development-headache-with-nanocl-41ak)
+- [Understanding Android Architecture Patterns: MVC, MVP, and MVVM](https://dev.to/saurabh18071998/understanding-android-architecture-patterns-mvc-mvp-and-mvvm-3h17)
+- [First Project](https://dev.to/taird0/first-project-2mjg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
