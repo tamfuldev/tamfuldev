@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Microservice Orchestration Best Practices](https://dev.to/getambassador2024/microservice-orchestration-best-practices-4bid)
-- [What is a Optical Receiver?](https://dev.to/markrobot/what-is-a-optical-receiver-2aig)
-- [EDFA - Everything you should know](https://dev.to/markrobot/edfa-everything-you-should-know-477n)
-- [A Guide to CI/CD Pipelines using GitHub Action](https://dev.to/snehalkadwe/a-guide-to-cicd-pipelines-using-github-action-5doj)
-- [“Automating VPC Peering in AWS with Terraform”](https://dev.to/prajwal2023/automating-vpc-peering-in-aws-with-terraform-2hgm)
+- [Does Personality Boost ChatGPT Interactions?](https://dev.to/devteam/does-personality-boost-chatgpt-interactions-135n)
+- [Unlocking Software Excellence: A Guide to Effective Functional Testing](https://dev.to/berthaw82414312/unlocking-software-excellence-a-guide-to-effective-functional-testing-f3k)
+- [Managing URLs - Part 01 🔗](https://dev.to/gautamvaishnav/managing-urls-part-01-2e1b)
+- [API Prototypes with dbb: Another step to better prototypes](https://dev.to/nicolkill/api-prototypes-with-dbb-another-step-to-better-prototypes-191)
+- [5 of the Best Ways to Make Money Online in 2024](https://dev.to/ahmed_onour/5-of-the-best-ways-to-make-money-online-in-2024-2on8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
