@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Your First Browser Game with Three.js and React: Part 2 - Implementing 3D Models](https://dev.to/romaixn/building-your-first-browser-game-with-threejs-and-react-part-2-implementing-3d-models-1jlj)
-- [Top Cyber Security Interview Questions and Answers for 2024](https://dev.to/onlineinterviewquestions/top-cyber-security-interview-questions-and-answers-for-2024-3c97)
-- [Understanding the Importance of @Injectable in NestJS](https://dev.to/ivordev/simplifying-dependency-injection-in-nestjs-understanding-the-power-of-injectable-19gp)
-- [A doggerel rhyme to ensure you won&#39;t get confused by HTTP 301 and 302:](https://dev.to/graezykev/a-doggerel-rhyme-to-ensure-you-wont-get-confused-by-http-301-and-302-32l4)
-- [Flask Essentials: Data Validation, Database Connectivity, and Crafting RESTful APIs](https://dev.to/kukhoonryou/flask-essentials-data-validation-database-connectivity-and-crafting-restful-apis-kia)
+- [Comunicar bem é diferente de falar bem!](https://dev.to/nicolasdesouza/comunicar-bem-e-diferente-de-falar-bem-44kb)
+- [Moving from AWS Amplify to Cloudflare Pages: Pursuing Lower Costs](https://dev.to/logarithmicspirals/moving-from-aws-amplify-to-cloudflare-pages-pursuing-lower-costs-4a24)
+- [Tuning de conexiones en MongoDB con Serverless Lambda](https://dev.to/nachosource/tuning-de-conexiones-en-mongodb-con-serverless-lambda-3f50)
+- [Building a niche flashcard app](https://dev.to/xz3dev/building-a-niche-flashcard-app-16d6)
+- [Setup Github SSH keys &lpar;for linux&rpar;](https://dev.to/aditya8raj/setup-github-ssh-keys-for-linux-1hib)
 <!-- BLOG-POST-LIST:END -->
 
 ---
