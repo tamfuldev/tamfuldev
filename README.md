@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Hello! 👋](https://dev.to/petercsiba/hello-l3l)
-- [Learning Statistics with R, Part-2](https://dev.to/afrozansenjuti/learning-statistics-with-r-part-2-3lf8)
-- [Hi, I will be sharing everything that I learned related to web development covering all the topics related to HTML, CSS](https://dev.to/hamzaiqbal007/hi-i-will-be-sharing-everything-that-i-learned-related-to-web-development-covering-all-the-topics-related-to-html-css-4j41)
-- [Zero to Ten: My App Development Journey on Apple&#39;s App Stores](https://dev.to/dlewisdev/zero-to-ten-my-app-development-journey-on-apples-app-stores-471f)
-- [17 Best Developer Productivity Tools to Try](https://dev.to/shohams/17-best-developer-productivity-tools-to-try-1a2a)
+- [How to get URL from sanity Image, videos and Audio files](https://dev.to/oreographer/how-to-get-url-from-sanity-image-videos-and-audio-files-4d99)
+- [Exploring Python&#39;s asyncio for Asynchronous Programming](https://dev.to/emmanuelj/exploring-pythons-asyncio-for-asynchronous-programming-pka)
+- [Functional and Non-functional testing](https://dev.to/rajessh_kumar/functional-and-non-functional-testing-52eo)
+- [From Code to Cloud: Deploying Hybrid SSR-SPA App on AWS Using Bash Script Automation](https://dev.to/alyconr/from-code-to-cloud-deploying-hybrid-ssr-spa-app-on-aws-using-bash-script-automation-24h7)
+- [Using Arbitrary Precision In PHP](https://dev.to/jszutkowski/using-arbitrary-precision-in-php-mme)
 <!-- BLOG-POST-LIST:END -->
 
 ---
