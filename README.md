@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [This Week In Python](https://dev.to/bascodes/this-week-in-python-4o5p)
-- [Tips and Tricks for Optimizing Magento 2 for Better Performance and Faster Load Times](https://dev.to/charleslyman/tips-and-tricks-for-optimizing-magento-2-for-better-performance-and-faster-load-times-25ep)
-- [How to Replace Character at Nth Index in Python String](https://dev.to/techosha/how-to-replace-character-at-nth-index-in-python-string-1b7p)
-- [Salesforce Clouds Overview](https://dev.to/elena_routine/salesforce-clouds-overview-2e8h)
-- [PUT vs POST: An In-Depth Comparison of RESTful API Methods](https://dev.to/satokenta/put-vs-post-an-in-depth-comparison-of-restful-api-methods-4a69)
+- [Building Your First Browser Game with Three.js and React: Part 2 - Implementing 3D Models](https://dev.to/romaixn/building-your-first-browser-game-with-threejs-and-react-part-2-implementing-3d-models-1jlj)
+- [Top Cyber Security Interview Questions and Answers for 2024](https://dev.to/onlineinterviewquestions/top-cyber-security-interview-questions-and-answers-for-2024-3c97)
+- [Understanding the Importance of @Injectable in NestJS](https://dev.to/ivordev/simplifying-dependency-injection-in-nestjs-understanding-the-power-of-injectable-19gp)
+- [A doggerel rhyme to ensure you won&#39;t get confused by HTTP 301 and 302:](https://dev.to/graezykev/a-doggerel-rhyme-to-ensure-you-wont-get-confused-by-http-301-and-302-32l4)
+- [Flask Essentials: Data Validation, Database Connectivity, and Crafting RESTful APIs](https://dev.to/kukhoonryou/flask-essentials-data-validation-database-connectivity-and-crafting-restful-apis-kia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
