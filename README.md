@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Comunicar bem é diferente de falar bem!](https://dev.to/nicolasdesouza/comunicar-bem-e-diferente-de-falar-bem-44kb)
-- [Moving from AWS Amplify to Cloudflare Pages: Pursuing Lower Costs](https://dev.to/logarithmicspirals/moving-from-aws-amplify-to-cloudflare-pages-pursuing-lower-costs-4a24)
-- [Tuning de conexiones en MongoDB con Serverless Lambda](https://dev.to/nachosource/tuning-de-conexiones-en-mongodb-con-serverless-lambda-3f50)
-- [Building a niche flashcard app](https://dev.to/xz3dev/building-a-niche-flashcard-app-16d6)
-- [Setup Github SSH keys &lpar;for linux&rpar;](https://dev.to/aditya8raj/setup-github-ssh-keys-for-linux-1hib)
+- [Project-Based Learning vs. Just Courses: Which is the Real Game-Changer?](https://dev.to/dhruvjoshi9/project-based-learning-vs-just-courses-which-is-the-real-game-changer-3p08)
+- [Flutter Mastery: Easy Step-by-Step Tips from Beginner to Advanced](https://dev.to/abdulrazack23/flutter-mastery-easy-step-by-step-tips-from-beginner-to-advanced-200p)
+- [probabilistic foreshadowing](https://dev.to/onwritinggames/probabilistic-foreshadowing-24g0)
+- [Harnessing Managed GitHub Action Runners on AWS CodeBuild for Efficient DevOps Workflows](https://dev.to/aws-builders/harnessing-managed-github-action-runners-on-aws-codebuild-for-efficient-devops-workflows-57ma)
+- [Refactoring: The Hard Parts](https://dev.to/alexanderop/refactoring-the-hard-parts-48j1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
