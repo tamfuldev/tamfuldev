@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Tenemos avances...](https://dev.to/norman404/tenemos-avances-52fl)
-- [Django dev](https://dev.to/damunene/django-dev-20bc)
-- [GraphQL Vs. REST APIs: A Comprehensive Comparison](https://dev.to/leoneloliver/graphql-vs-rest-apis-a-comprehensive-comparison-5eb7)
-- [Streamlined Guide: Setting Up SSH and GPG Keys on GitHub](https://dev.to/mozes721/streamlined-guide-setting-up-ssh-and-gpg-keys-on-github-o73)
-- [Securing the Cloud #28](https://dev.to/8carroll/securing-the-cloud-28-5h1j)
+- [Hello! 👋](https://dev.to/petercsiba/hello-l3l)
+- [Learning Statistics with R, Part-2](https://dev.to/afrozansenjuti/learning-statistics-with-r-part-2-3lf8)
+- [Hi, I will be sharing everything that I learned related to web development covering all the topics related to HTML, CSS](https://dev.to/hamzaiqbal007/hi-i-will-be-sharing-everything-that-i-learned-related-to-web-development-covering-all-the-topics-related-to-html-css-4j41)
+- [Zero to Ten: My App Development Journey on Apple&#39;s App Stores](https://dev.to/dlewisdev/zero-to-ten-my-app-development-journey-on-apples-app-stores-471f)
+- [17 Best Developer Productivity Tools to Try](https://dev.to/shohams/17-best-developer-productivity-tools-to-try-1a2a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
