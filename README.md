@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Method Abstraction and Stepwise Refinement](https://dev.to/paulike/method-abstraction-and-stepwise-refinement-519l)
-- [How to write memory efficient machine learning model prediction data pipelines in Python,With an Example](https://dev.to/rajun/how-to-write-memory-efficient-machine-learning-model-prediction-data-pipelines-in-pythonwith-an-example-44e1)
-- [Demo: Minder, a software supply chain security platform from Stacklok](https://dev.to/ninfriendos1/demo-minder-a-software-supply-chain-security-platform-from-stacklok-3010)
-- [Computer Vision Meetup: Anomaly Detection with Anomalib and FiftyOne](https://dev.to/voxel51/computer-vision-meetup-anomaly-detection-with-anomalib-and-fiftyone-4gfo)
-- [Snip tool](https://dev.to/abdxzi/snip-tool-1fhh)
+- [Tenemos avances...](https://dev.to/norman404/tenemos-avances-52fl)
+- [Django dev](https://dev.to/damunene/django-dev-20bc)
+- [GraphQL Vs. REST APIs: A Comprehensive Comparison](https://dev.to/leoneloliver/graphql-vs-rest-apis-a-comprehensive-comparison-5eb7)
+- [Streamlined Guide: Setting Up SSH and GPG Keys on GitHub](https://dev.to/mozes721/streamlined-guide-setting-up-ssh-and-gpg-keys-on-github-o73)
+- [Securing the Cloud #28](https://dev.to/8carroll/securing-the-cloud-28-5h1j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
