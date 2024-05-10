@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Project-Based Learning vs. Just Courses: Which is the Real Game-Changer?](https://dev.to/dhruvjoshi9/project-based-learning-vs-just-courses-which-is-the-real-game-changer-3p08)
-- [Flutter Mastery: Easy Step-by-Step Tips from Beginner to Advanced](https://dev.to/abdulrazack23/flutter-mastery-easy-step-by-step-tips-from-beginner-to-advanced-200p)
-- [probabilistic foreshadowing](https://dev.to/onwritinggames/probabilistic-foreshadowing-24g0)
-- [Harnessing Managed GitHub Action Runners on AWS CodeBuild for Efficient DevOps Workflows](https://dev.to/aws-builders/harnessing-managed-github-action-runners-on-aws-codebuild-for-efficient-devops-workflows-57ma)
-- [Refactoring: The Hard Parts](https://dev.to/alexanderop/refactoring-the-hard-parts-48j1)
+- [Dicas e configurações para seu sistema linux](https://dev.to/devhat/dicas-e-configuracoes-para-seu-sistema-linux-5dll)
+- [Deploying React Apps to Github Pages with Github Actions](https://dev.to/codeparrot/deploying-react-apps-to-github-pages-with-github-actions-5gja)
+- [Supercharge Your React Development with VS Code Extensions](https://dev.to/ellis22/supercharge-your-react-development-with-vs-code-extensions-52ff)
+- [JavaScript: The differences between var, let, and const](https://dev.to/jenueldev/javascript-the-differences-between-var-let-and-const-3bao)
+- [What was your win this week? 🙌](https://dev.to/devteam/what-was-your-win-this-week-4hnp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
