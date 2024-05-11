@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Apache SOLR](https://dev.to/ale23yfm/apache-solr-2mli)
-- [HORROR GAME IN SCRATCH](https://dev.to/dino2328/horror-game-in-scratch-51gf)
-- [Functional Programming in Javascript.](https://dev.to/abhishekkrpand1/functional-programming-in-javascript-ia6)
-- [Custom Hooks made easy :&rpar;](https://dev.to/deepak22448/custom-hooks-made-easy--2m0e)
-- [Re-inventing the wheel - Use list](https://dev.to/rjfranco_95/re-inventing-the-wheel-use-list-4gb4)
+- [Differences between CSS transitions, transforms, and animations](https://dev.to/palchandu_dev/differences-between-css-transitions-transforms-and-animations-58hi)
+- [My Pen on CodePen](https://dev.to/dominyke/my-pen-on-codepen-14fl)
+- [Go-like channels in C++](https://dev.to/hardenedsteel/go-like-channels-in-c-3i7h)
+- [AI Strategy Guide: How to Scale AI Across Your Business](https://dev.to/mkdev/ai-strategy-guide-how-to-scale-ai-across-your-business-5f3f)
+- [An ode to Stacks and Pointers in Go!](https://dev.to/__init__abs/an-ode-to-stacks-and-pointers-in-go-525n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
