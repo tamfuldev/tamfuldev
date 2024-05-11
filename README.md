@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Toxic Workplaces: When Is Enough Enough?](https://dev.to/devteam/toxic-workplaces-when-is-enough-enough-3cm)
-- [Building a TODO List App in React.js with Local Storage.](https://dev.to/vyan/building-a-todo-list-app-in-reactjs-with-local-storage-3fkg)
-- [Page Views Counter: Netlify Dynamic Site Challenge using Netlify Blobs](https://dev.to/kanani_nirav/page-views-counter-netlify-dynamic-site-challenge-using-netlify-blobs-314c)
-- [5 Skills Programmers and Developers Should Learn in 2024](https://dev.to/somadevtoo/5-skills-programmers-and-developers-should-learn-in-2024-3bmp)
-- [Unable to Connect Git and Github. So I did this 👇](https://dev.to/vijaythapa/unable-to-connect-git-and-github-so-i-did-this-1353)
+- [Quick reference for UI new emerging stacks and frameworks !!!](https://dev.to/vaibhavpatil123/quick-reference-for-ui-new-emerging-stacks-and-frameworks--593e)
+- [Understanding Key Concepts in Cloud Technology](https://dev.to/toluwani_oluwaloseyi/understanding-key-concepts-in-cloud-technology-5bi0)
+- [Optimizing S3 Bucket Management and Lifecycle with Terraform](https://dev.to/suzuki0430/optimizing-s3-bucket-management-and-lifecycle-with-terraform-45ne)
+- [Bitcoin white paper](https://dev.to/sujay404/bitcoin-white-paper-35n1)
+- [Implementing Concurrency in Shell Scripts](https://dev.to/siddhantkcode/implementing-concurrency-in-shell-scripts-521o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
