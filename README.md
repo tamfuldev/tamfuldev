@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Foreign-key pre-join](https://dev.to/esproc_spl/foreign-key-pre-join-277n)
-- [How to Create a Travel Planner App With Flutter? Quick Guide](https://dev.to/dhruvjoshi9/how-to-create-a-travel-planner-app-with-flutter-quick-guide-57n1)
-- [Laravel Relationship Recipes: Simplifying Queries with whereBelongsTo](https://dev.to/muhammadsaim/laravel-relationship-recipes-simplifying-queries-with-wherebelongsto-17cm)
-- [LangChain: Agents](https://dev.to/rutamstwt/langchain-agents-22af)
-- [Understanding the Basics of Die Sinking Machines](https://dev.to/chuckiedoll00/understanding-the-basics-of-die-sinking-machines-20om)
+- [Toxic Workplaces: When Is Enough Enough?](https://dev.to/devteam/toxic-workplaces-when-is-enough-enough-3cm)
+- [Building a TODO List App in React.js with Local Storage.](https://dev.to/vyan/building-a-todo-list-app-in-reactjs-with-local-storage-3fkg)
+- [Page Views Counter: Netlify Dynamic Site Challenge using Netlify Blobs](https://dev.to/kanani_nirav/page-views-counter-netlify-dynamic-site-challenge-using-netlify-blobs-314c)
+- [5 Skills Programmers and Developers Should Learn in 2024](https://dev.to/somadevtoo/5-skills-programmers-and-developers-should-learn-in-2024-3bmp)
+- [Unable to Connect Git and Github. So I did this 👇](https://dev.to/vijaythapa/unable-to-connect-git-and-github-so-i-did-this-1353)
 <!-- BLOG-POST-LIST:END -->
 
 ---
