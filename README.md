@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [RHEL : A better cheat Sheet](https://dev.to/kaustubhyerkade/rhel-a-better-cheat-sheet-2km1)
-- [Binary Lab](https://dev.to/abenteuerzeit/binary-lab-18j)
-- [What I Learned After Applying to Over 150 Software Engineer Internships](https://dev.to/vitalipri/what-i-learned-after-applying-to-over-150-software-engineer-internships-4og3)
-- [DP with Simple Matrix Traversal](https://dev.to/ashutosh049/dp-with-simple-matrix-traversal-1bjo)
-- [Deep Dive on MYSQL Aurora Database with Global Database Region Availability](https://dev.to/aws-builders/deep-dive-on-mysql-aurora-database-with-global-database-region-availability-27l7)
+- [A litle bit CSS &amp; Variable Fonts Magic](https://dev.to/tetragius/a-litle-bit-css-variable-fonts-magic-41hi)
+- [Zig is the Next Big Programming Language](https://dev.to/dayvster/zig-is-the-next-big-programming-language-4dcl)
+- [Unveiling the Power of the &lt;img&gt; Element in HTML](https://dev.to/gracekid/unveiling-the-power-of-the-element-in-html-54kk)
+- [Mastering Lists in HTML: A Comprehensive Guide](https://dev.to/gracekid/mastering-lists-in-html-a-comprehensive-guide-17og)
+- [Poetry2Nix Development Flake with Matplotlib GTK Support](https://dev.to/hiro98/poetry2nix-development-flake-with-matplotlib-gtk-support-5521)
 <!-- BLOG-POST-LIST:END -->
 
 ---
