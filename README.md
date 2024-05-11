@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [0x11. What happens when you type google.com in your browser and press Enter](https://dev.to/jacques00077/0x11-what-happens-when-you-type-googlecom-in-your-browser-and-press-enter-429l)
-- [cài đặt .net framework 3.5 - 2024](https://dev.to/longtth/cai-dat-net-framework-35-2024-28l9)
-- [Assumptions in Software Development &lpar;with EF Core as example&rpar;](https://dev.to/krste/assumptions-in-software-development-with-ef-core-as-example-3nl0)
-- [Hacking out an AI spider with Node](https://dev.to/adaschevici/hacking-out-an-ai-spider-with-node-1h31)
-- [What should I do if the bottom and right borders of VTable are not displayed when it is scrolled?](https://dev.to/fangsmile/what-should-i-do-if-the-bottom-and-right-borders-of-vtable-are-not-displayed-when-it-is-scrolled-1kj5)
+- [Angular App Inbox](https://dev.to/suprsend/angular-app-inbox-2ik7)
+- [Why NVM is Tremendously Helpful for Web Developers](https://dev.to/mohammadfaisal/why-nvm-is-tremendously-helpful-for-web-developers-17i9)
+- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-1nn8)
+- [7 BASIC GIT COMMANDS](https://dev.to/abbymaribe/7-basic-git-commands-3cnm)
+- [Net Gala: Web Edition](https://dev.to/arndom/net-gala-web-edition-143f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
