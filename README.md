@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Stunning React Photo Gallery](https://dev.to/msmith99994/building-a-stunning-react-photo-gallery-5e66)
-- [Friendly Waffle 🧇](https://dev.to/lizardkinglk/friendly-waffle-81g)
-- [Is null a dataType in Javascript?](https://dev.to/const_variable/is-null-a-datatype-in-javascript-1ol2)
-- [With Makefile - Nest.js docker deployment and versioning automation](https://dev.to/pragmaticfrontend/with-makefile-nestjs-docker-deployment-and-versioning-automation-m6m)
-- [Windows 上，本機用 Docker 安裝 GitLab](https://dev.to/letswrite/windows-shang-ben-ji-yong-docker-an-zhuang-gitlab-3ljh)
+- [New WebGL QR code generator](https://dev.to/matteosant_dev/new-webgl-qr-code-generator-57fk)
+- [1st Day on Dev.](https://dev.to/shweta3103/1st-day-on-dev-43ho)
+- [Monthly Amazon Location Service Updates - 2024.04](https://dev.to/aws-heroes/monthly-amazon-location-service-updates-202403-33n0)
+- [Programming in Python - Introduction](https://dev.to/dchhitarka/programming-in-python-introduction-16k6)
+- [Introduction to PR-Agent: Enhancing Productivity with AI 🚀](https://dev.to/dukeofhazardz/introduction-to-pr-agent-enhancing-productivity-with-ai-14n5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
