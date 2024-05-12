@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [New WebGL QR code generator](https://dev.to/matteosant_dev/new-webgl-qr-code-generator-57fk)
-- [1st Day on Dev.](https://dev.to/shweta3103/1st-day-on-dev-43ho)
-- [Monthly Amazon Location Service Updates - 2024.04](https://dev.to/aws-heroes/monthly-amazon-location-service-updates-202403-33n0)
-- [Programming in Python - Introduction](https://dev.to/dchhitarka/programming-in-python-introduction-16k6)
-- [Introduction to PR-Agent: Enhancing Productivity with AI 🚀](https://dev.to/dukeofhazardz/introduction-to-pr-agent-enhancing-productivity-with-ai-14n5)
+- [Software Engineering Principles Every Frontend Developer Should Know](https://dev.to/gboladetrue/software-engineering-principles-every-frontend-developer-should-know-1ej7)
+- [Installing GitHub Repositories with this package manager](https://dev.to/omegaui/installing-github-repositories-with-this-package-manager-5a3o)
+- [Automatic Image Cropping](https://dev.to/msmith99994/automatic-image-cropping-5f3k)
+- [Topic Modeling: Machine Learning Technique 301](https://dev.to/aftabahmedabro/topic-modeling-machine-learning-technique-301-17og)
+- [Integrating Video in Next.js Projects](https://dev.to/msmith99994/integrating-video-in-nextjs-projects-2g4f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
