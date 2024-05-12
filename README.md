@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Software Engineering Principles Every Frontend Developer Should Know](https://dev.to/gboladetrue/software-engineering-principles-every-frontend-developer-should-know-1ej7)
-- [Installing GitHub Repositories with this package manager](https://dev.to/omegaui/installing-github-repositories-with-this-package-manager-5a3o)
-- [Automatic Image Cropping](https://dev.to/msmith99994/automatic-image-cropping-5f3k)
-- [Topic Modeling: Machine Learning Technique 301](https://dev.to/aftabahmedabro/topic-modeling-machine-learning-technique-301-17og)
-- [Integrating Video in Next.js Projects](https://dev.to/msmith99994/integrating-video-in-nextjs-projects-2g4f)
+- [💎 Using Ruby&#39;s SecureRandom to Strengthen User Authentication](https://dev.to/take0420/using-rubys-securerandom-to-strengthen-user-authentication-he3)
+- [Understanding Load Balancers: How They Work, Types, Algorithms, and Use Cases](https://dev.to/imabhinavdev/understanding-load-balancers-how-they-work-types-algorithms-and-use-cases-3b1l)
+- [Is there a way to fix image upload for Facebook app verification?](https://dev.to/thesiv95/is-there-a-way-to-fix-image-upload-for-facebook-app-verification-31gf)
+- [The Intricacies of Null Values in MySQL](https://dev.to/sachigoto/how-nulls-are-treated-in-mysql-pml)
+- [A list of popular and best platforms for publishing html/css/js codes](https://dev.to/tidycoder/a-list-of-popular-and-best-platforms-for-publishing-htmlcssjs-codes-56aa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
