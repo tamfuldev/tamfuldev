@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [JS Eventloop and Nodejs event loop different or not?](https://dev.to/killjoy__02/js-eventloop-and-nodejs-event-loop-different-or-not-4hbi)
-- [Static Code Analysis — deep dive](https://dev.to/pavlo_lozovikov/static-code-analysis-deep-dive-5e57)
-- [Let&#39;s solve one problem from codeforces today. &lpar;problemset/problem/1766/A&rpar;](https://dev.to/swarnendu0123/lets-solve-one-problem-from-codeforces-today-problemsetproblem1766a-bgp)
-- [Laravel Relationship Recipes: Simplify Querying with oldestOfMany](https://dev.to/muhammadsaim/laravel-relationship-recipes-simplify-querying-with-oldestofmany-1p67)
-- [A fast, powerful, and out of the box TypeScript tool library](https://dev.to/linhanlove/a-fast-powerful-and-out-of-the-box-typescript-tool-library-3g9a)
+- [Static Code Analysis - deep dive](https://dev.to/plozovik/static-code-analysis-deep-dive-2790)
+- [🏆 Pick Your Champion - Netlify Dynamic Site Challenge](https://dev.to/tangweikun/pick-your-champion-netlify-dynamic-site-challenge-502k)
+- [The magical number game](https://dev.to/simongreennet/the-magical-number-game-4jgo)
+- [AI as Your Strategic Partner: Building a Virtual Chief Strategy Officer](https://dev.to/dev3l/ai-as-your-strategic-partner-building-a-virtual-chief-strategy-officer-2i1)
+- [Complete portfolio using HTML](https://dev.to/chaitanya23k/complete-portfolio-using-html-5911)
 <!-- BLOG-POST-LIST:END -->
 
 ---
