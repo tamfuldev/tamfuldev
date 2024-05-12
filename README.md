@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Harnessing Node.js Native File Watching for Enhanced Developer Productivity](https://dev.to/davidking/harnessing-nodejs-native-file-watching-for-enhanced-developer-productivity-fa7)
-- [Publish pure ESM npm package written in TypeScript to JSR](https://dev.to/fabon/publish-pure-esm-npm-package-written-in-typescript-to-jsr-4ih2)
-- [Social Sizer: Perfectly-Sized Images for Every Social Platform](https://dev.to/jeevaramanathan/social-sizer-perfectly-sized-images-for-every-social-platform-1kh3)
-- [Exploring Some Features of HTML5](https://dev.to/debtech/exploring-some-features-of-html5-1md2)
-- [Netlify Dynamic Site Challenge: Web Voyager, a website screenshot service using Netlify Blob storage.](https://dev.to/shikhar13012001/netlify-dynamic-site-challenge-web-voyager-a-website-screenshot-service-using-netlify-blob-storage-l19)
+- [Uploading Large Files Securely with AWS S3 Presigned URLs](https://dev.to/siddhantkcode/uploading-large-files-securely-with-aws-s3-presigned-urls-518i)
+- [Harnessing Screams with Tidal Looper](https://dev.to/jessicagarson/harnessing-screams-with-tidal-looper-5hhp)
+- [How to build an associative graph using React + p5](https://dev.to/jeffml/how-to-build-an-associative-graph-using-react-p5-25ic)
+- [Resilience And Chaos In Kubernetes](https://dev.to/thenjdevopsguy/resilience-and-chaos-in-kubernetes-4lmh)
+- [CSS in a Simplified way and altruism thought](https://dev.to/janmejaisingh/css-in-a-simplified-way-and-altruism-thought-3abk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
