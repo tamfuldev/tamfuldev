@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Manage a multiple websites server with Docker, Traefik and auto SSL certificates](https://dev.to/steeve/manage-a-multiple-websites-server-with-docker-treafik-and-auto-ssl-certificates-2hlj)
-- [Day 11: Abstraction](https://dev.to/codernko/day-11-abstraction-f0k)
-- [Laravel Facades.](https://dev.to/vimuth7/laravel-facades-199j)
-- [在virtualbox中运行openwrt](https://dev.to/thirdblood/zai-virtualboxzhong-yun-xing-openwrt-3ehb)
-- [Custom OTP inputs are dumb. Here is how to build one.](https://dev.to/fibonacid/custom-otp-inputs-are-dumb-here-is-how-to-build-one-2d0m)
+- [Roadmap to Becoming a Java Backend Developer in 2024](https://dev.to/nikhilxd/roadmap-to-becoming-a-java-backend-developerin-2024-55og)
+- [Technologies for implementing a matchmaking and usage of apis related to dating app](https://dev.to/iloveangular/technologies-for-implementing-a-matchmaking-and-usage-of-apis-related-to-dating-app-4n5l)
+- [EasyDeps : brick-ception](https://dev.to/koukibadr/easydeps-brick-ception-2jcl)
+- [How to Implement a Search Box in Next.js](https://dev.to/ayush-rudani/how-to-implement-a-search-box-in-nextjs-2ji7)
+- [Learning AWS Day by Day — Day 62 — AWS Key Management Service](https://dev.to/rksalo88/learning-aws-day-by-day-day-62-aws-key-management-service-4ko)
 <!-- BLOG-POST-LIST:END -->
 
 ---
