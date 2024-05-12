@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Uploading Large Files Securely with AWS S3 Presigned URLs](https://dev.to/siddhantkcode/uploading-large-files-securely-with-aws-s3-presigned-urls-518i)
-- [Harnessing Screams with Tidal Looper](https://dev.to/jessicagarson/harnessing-screams-with-tidal-looper-5hhp)
-- [How to build an associative graph using React + p5](https://dev.to/jeffml/how-to-build-an-associative-graph-using-react-p5-25ic)
-- [Resilience And Chaos In Kubernetes](https://dev.to/thenjdevopsguy/resilience-and-chaos-in-kubernetes-4lmh)
-- [CSS in a Simplified way and altruism thought](https://dev.to/janmejaisingh/css-in-a-simplified-way-and-altruism-thought-3abk)
+- [Firebase Needs More Compatibility for JavaScript Environments](https://dev.to/jdgamble555/firebase-needs-more-compatibility-for-javascript-environments-g50)
+- [Day 42/366](https://dev.to/vishalmx3/day-42366-55gg)
+- [PostgreSQL für django aufsetzen - django in Produktion &lpar;Teil 2&rpar;](https://dev.to/rubenvoss/postgresql-fur-django-aufsetzen-django-in-produktion-teil-2-4cdf)
+- [Please Check Out the CodeBehind Framework](https://dev.to/elanatframework/please-check-out-the-codebehind-framework-1g12)
+- [StoryBlobs: An adventure with Netlify Blobs](https://dev.to/ra_jeeves/storyblobs-an-adventure-with-netlify-blobs-75i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
