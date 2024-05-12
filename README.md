@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Space, Rockets and GPU particles](https://dev.to/nikitaworks/space-rockets-and-gpu-particles-2048)
-- [Top Programming Blogs to Read in 2024](https://dev.to/chinnanj666/top-programming-blogs-to-read-in-2024-3hf2)
-- [PHP static methods.](https://dev.to/vimuth7/php-static-methods-39j1)
-- [Easy guide to solving 404 after deploying react code on vercel/netlify.](https://dev.to/kaysam_dev/easy-guide-to-solving-404-after-deploying-react-code-on-vercelnetlify-1mgo)
-- [Streamlining Your Contribution: How to Get Your TMDB API Key for LDBflix Contribution](https://dev.to/codexive_zech/streamlining-your-contribution-how-to-get-your-tmdb-api-key-for-ldbflix-contribution-52gf)
+- [Manage a multiple websites server with Docker, Traefik and auto SSL certificates](https://dev.to/steeve/manage-a-multiple-websites-server-with-docker-treafik-and-auto-ssl-certificates-2hlj)
+- [Day 11: Abstraction](https://dev.to/codernko/day-11-abstraction-f0k)
+- [Laravel Facades.](https://dev.to/vimuth7/laravel-facades-199j)
+- [在virtualbox中运行openwrt](https://dev.to/thirdblood/zai-virtualboxzhong-yun-xing-openwrt-3ehb)
+- [Custom OTP inputs are dumb. Here is how to build one.](https://dev.to/fibonacid/custom-otp-inputs-are-dumb-here-is-how-to-build-one-2d0m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
