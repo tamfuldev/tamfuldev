@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Netlify Dynamic Site Challenge : Using the power of CDNs and Transformations for a visual feast](https://dev.to/mayankarya/netlify-dynamic-site-challenge-using-the-power-of-cdns-and-transformations-for-a-visual-feast-4kce)
-- [Next.js Zustand Integration Guide for Server and Client Components](https://dev.to/abdullah-dev0/nextjs-zustand-integration-guide-for-server-and-client-components-4ge9)
-- [My first Smart Contract](https://dev.to/astroleaf/my-first-smart-contract-3dda)
-- [Top 12 Tips from a Mid-level Developer](https://dev.to/abdullah-dev0/top-12-tips-from-a-mid-level-developer-2c93)
-- [Unleashing Creativity with React JS: A Guide to Unique and Interactive Web Experiences](https://dev.to/drruvari/unleashing-creativity-with-react-js-a-guide-to-unique-and-interactive-web-experiences-1n96)
+- [Optimizing Performance in Next.js Using Dynamic Imports](https://dev.to/bolajibolajoko51/optimizing-performance-in-nextjs-using-dynamic-imports-5b3)
+- [Leitura comentada - Arquitetura Limpa - Princípios de Design - Capítulos 7](https://dev.to/zodh/leitura-comentada-arquitetura-limpa-principios-de-design-capitulos-7-1k77)
+- [James Webb Image Gallery](https://dev.to/mattryanmtl/james-webb-image-gallery-pc0)
+- [Simplifying Imports in React with Base URL Configuration](https://dev.to/dcs_ink/simplifying-imports-in-react-with-base-url-configuration-32cd)
+- [The key phases of software development &lpar;simply put&rpar;.](https://dev.to/audreymengue/the-key-phases-of-software-development-simply-put-3fpf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
