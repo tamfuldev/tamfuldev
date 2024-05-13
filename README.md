@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Arrays and slices in Go](https://dev.to/charly3pins/arrays-and-slices-in-go-5cml)
-- [&lpar;Part 6&rpar;Golang Framework Hands-on - KisFlow Stream Computing Framework-Configuration Import and Export](https://dev.to/aceld/part-6golang-framework-hands-on-kisflow-stream-computing-framework-configuration-import-and-export-47o1)
-- [How to use NextAuth.JS with Discord](https://dev.to/whyafan/how-to-use-nextauthjs-with-discord-6le)
-- [Langchain: Document Splitting](https://dev.to/rutamstwt/langchain-document-splitting-21im)
-- [Laravel Cache Clear One-Command Solution](https://dev.to/saim_ansari/laravel-cache-clear-one-command-solution-5gkn)
+- [Silicon Valley&#39;s Inevitable Collapse](https://dev.to/polterguy/silicon-valleys-inevitable-collapse-2702)
+- [Spellbinding String Manipulation: Wizardry with Power Automate](https://dev.to/balagmadhu/spellbinding-string-manipulation-wizardry-with-power-automate-3p90)
+- [The Effect Tax](https://dev.to/datner/the-effect-tax-3gn0)
+- [What is RocksDB &lpar;and its role in streaming&rpar;?](https://dev.to/mrkandreev/what-is-rocksdb-and-its-role-in-streaming-3bla)
+- [How to keep data when user was uninstall app on android device &lpar;Java&rpar;?](https://dev.to/oeurn/how-to-keep-data-when-user-was-uninstall-app-on-android-device-java-504c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
