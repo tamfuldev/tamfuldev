@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Copilot Top Features](https://dev.to/codingwithadam/github-copilot-top-features-1p1)
-- [PHP isn&#39;t the worst programming language, so why do so many people criticize it?](https://dev.to/lunamiller/php-isnt-the-worst-programming-language-so-why-do-so-many-people-criticize-it-48ph)
-- [Unleash the Power of Reports in Marketing](https://dev.to/boldreports/unleash-the-power-of-reports-in-marketing-4p97)
-- [Meme Monday](https://dev.to/techdogs_inc/meme-monday-51bp)
-- [Logging Logic errors in PHP](https://dev.to/ravavyr/logging-logic-errors-in-php-764)
+- [The ORM vs. ODM Debate: A Node.js Backend Perspective](https://dev.to/iam-phenomenal/the-orm-vs-odm-debate-a-nodejs-backend-perspective-3pa0)
+- [Noscript: Turn off useless scripts](https://dev.to/devh0us3/noscript-turn-off-useless-scripts-5ank)
+- [Testing in Angular: Replace Karma to Web Test Runner](https://dev.to/danywalls/testing-in-angular-replace-karma-to-web-test-runner-5gag)
+- [Essential AI Reports for Business Leaders: Stanford AI Index Annual Report 2024](https://dev.to/iwooky/essential-ai-reports-for-business-leaders-stanford-ai-index-annual-report-2024-498j)
+- [Easily Turn Your Markdown Into Static Sites Using MKDocs](https://dev.to/jod35/easily-turn-your-markdown-into-static-sites-using-mkdocs-5599)
 <!-- BLOG-POST-LIST:END -->
 
 ---
