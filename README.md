@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Discord CDN Proxy](https://dev.to/useapi/discord-cdn-proxy-211c)
-- [What are CORS? and how to configure it in Node?](https://dev.to/husnain/what-are-cors-and-how-to-configure-it-in-node-4c3n)
-- [6502 Assembly Language Basics](https://dev.to/yuktimulani/6502-assembly-language-basics-idg)
-- [Form Actions in React 19](https://dev.to/makoto0825/form-actions-in-react-19-3ghd)
-- [Building a Sliding Puzzle with Go](https://dev.to/mfbmina/building-a-sliding-puzzle-with-go-3bnj)
+- [Mastering the AWS Security Specialty &lpar;SCS&rpar; Exam - A Quick Guide](https://dev.to/aws-builders/mastering-the-aws-security-specialty-scs-exam-a-quick-guide-2go0)
+- [In technical writing, the devil is NOT in the details](https://dev.to/gewenyu99/in-technical-writing-the-devil-is-not-in-the-details-36fn)
+- [OAuth2.0](https://dev.to/arimayuji/oauth20-5e5g)
+- [Tips from open-source: How redirect in Next.js works under the hood](https://dev.to/ramunarasinga/tips-from-open-source-how-redirect-in-nextjs-works-under-the-hood-1i8g)
+- [How to verify JWT Token Expiry in React/Next](https://dev.to/egnoel/how-to-verify-jwt-token-expiry-in-reactnext-22dn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
