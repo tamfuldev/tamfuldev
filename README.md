@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Do Hard Habits Pay Off?](https://dev.to/devteam/do-hard-habits-pay-off-2cjh)
-- [Git in conditions of extreme branch atomicity](https://dev.to/askepit/git-in-conditions-of-extreme-branch-atomicity-23mp)
-- [Snapi: An editable gallery for photographers](https://dev.to/katriel/snapi-an-editable-gallery-for-photographers-2103)
-- [Video Annotator](https://dev.to/cloudkungfu/video-annotator-375a)
-- [Deploy Token on SUI 🚀 &lpar;Move 2024 edition&rpar; and Tips and Trick.](https://dev.to/doctornasa/deploy-token-on-sui-move-2024-edition-and-tips-and-trick-gok)
+- [Arrays and slices in Go](https://dev.to/charly3pins/arrays-and-slices-in-go-5cml)
+- [&lpar;Part 6&rpar;Golang Framework Hands-on - KisFlow Stream Computing Framework-Configuration Import and Export](https://dev.to/aceld/part-6golang-framework-hands-on-kisflow-stream-computing-framework-configuration-import-and-export-47o1)
+- [How to use NextAuth.JS with Discord](https://dev.to/whyafan/how-to-use-nextauthjs-with-discord-6le)
+- [Langchain: Document Splitting](https://dev.to/rutamstwt/langchain-document-splitting-21im)
+- [Laravel Cache Clear One-Command Solution](https://dev.to/saim_ansari/laravel-cache-clear-one-command-solution-5gkn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
