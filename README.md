@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to check for broken links using Selenium Webdriver on Node.js &lpar;automated testing&rpar;](https://dev.to/adamdsherman/automated-testing-how-to-check-for-broken-links-using-selenium-webdriver-on-nodejs-1akf)
-- [The Pros and Cons of DIY Paint Protection Film Installation](https://dev.to/pande00/the-pros-and-cons-of-diy-paint-protection-film-installation-46m)
-- [Hey!Sound: Upload and Vote for the Best Audios on the Internet](https://dev.to/fazzaamiarso/heysound-upload-and-vote-for-the-best-audios-on-the-internet-57me)
-- [Why Python Is Easier &lpar;Loops edition&rpar;](https://dev.to/chaseteague/why-python-is-easier-loops-edition-8p3)
-- [Introduction to Zero Trust Security Models](https://dev.to/kartikmehta8/introduction-to-zero-trust-security-models-4g1n)
+- [Sorting and Searching in Python&lpar;looking for help&rpar;](https://dev.to/kumatso1/sorting-and-searching-in-pythonlooking-for-help-38lf)
+- [memegraph - search and explore memes](https://dev.to/seanvelasco/memegraph-search-and-explore-memes-533c)
+- [Stay Updated with PHP/Laravel: Weekly News Summary &lpar;06/05/2024 - 12/05/2024&rpar;](https://dev.to/poovarasu/stay-updated-with-phplaravel-weekly-news-summary-06052024-12052024-2hm2)
+- [How To Stay Fit Physically And Mentally And Keep Coding](https://dev.to/thekarlesi/how-to-stay-fit-physically-and-mentally-and-keep-coding-4h5e)
+- [A Guide to Full Text Search in Django Using SearchVector](https://dev.to/azayshrestha/a-guide-to-full-text-search-in-django-using-searchvector-p7b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
