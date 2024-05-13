@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Low-Code/No-Code approach to Strapi Enablement](https://dev.to/strapi/a-low-codeno-code-approach-to-strapi-enablement-53g0)
-- [A Low-Code/No-Code approach to Strapi Enablement](https://dev.to/strapi/a-low-codeno-code-approach-to-strapi-enablement-2jk9)
-- [Staking Triple: Restaking de tokens de Restaking en Solidity &lpar;Con Ejemplos&rpar;](https://dev.to/turupawn/staking-triple-restaking-de-tokens-de-restaking-en-solidity-con-ejemplos-3229)
-- [Create and Deploy a Discord Bot for Free with Fly.io](https://dev.to/columk1/create-and-deploy-a-discord-bot-for-free-with-flyio-dp9)
-- [A Verdade Inconveniente sobre a Lógica de Programação - Por que Ela não Prepara os Alunos para a Orientação a Objetos](https://dev.to/terminalcoffee/a-verdade-inconveniente-sobre-a-logica-de-programacao-por-que-ela-nao-prepara-os-alunos-para-a-orientacao-a-objetos-3l28)
+- [Discord CDN Proxy](https://dev.to/useapi/discord-cdn-proxy-211c)
+- [What are CORS? and how to configure it in Node?](https://dev.to/husnain/what-are-cors-and-how-to-configure-it-in-node-4c3n)
+- [6502 Assembly Language Basics](https://dev.to/yuktimulani/6502-assembly-language-basics-idg)
+- [Form Actions in React 19](https://dev.to/makoto0825/form-actions-in-react-19-3ghd)
+- [Building a Sliding Puzzle with Go](https://dev.to/mfbmina/building-a-sliding-puzzle-with-go-3bnj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
