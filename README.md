@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Creating Azure Resource Group](https://dev.to/opsyog/creating-azure-resource-group-4716)
-- [Run IC-Light on Google Colab Free Tier](https://dev.to/0xkoji/run-ic-light-on-google-colab-free-tier-3lmb)
-- [Mastering Oracle SQL Interview Questions: Tips and Answers](https://dev.to/nikhilxd/mastering-oracle-sql-interview-questions-tips-and-answers-ib5)
-- [Cache-Control, Netlify-CDN-Cache-Control, Cache Invalidation, Oh My](https://dev.to/bytrangle/cache-control-netlify-cdn-cache-control-cache-invalidation-oh-my-56n2)
-- [Degradation in String Deduplication Performance in Recent Java Versions](https://dev.to/ram_lakshmanan_001/degradation-in-string-deduplication-performance-in-recent-java-versions-2ce5)
+- [Do Hard Habits Pay Off?](https://dev.to/devteam/do-hard-habits-pay-off-2cjh)
+- [Git in conditions of extreme branch atomicity](https://dev.to/askepit/git-in-conditions-of-extreme-branch-atomicity-23mp)
+- [Snapi: An editable gallery for photographers](https://dev.to/katriel/snapi-an-editable-gallery-for-photographers-2103)
+- [Video Annotator](https://dev.to/cloudkungfu/video-annotator-375a)
+- [Deploy Token on SUI 🚀 &lpar;Move 2024 edition&rpar; and Tips and Trick.](https://dev.to/doctornasa/deploy-token-on-sui-move-2024-edition-and-tips-and-trick-gok)
 <!-- BLOG-POST-LIST:END -->
 
 ---
