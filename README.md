@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Performance in Next.js Using Dynamic Imports](https://dev.to/bolajibolajoko51/optimizing-performance-in-nextjs-using-dynamic-imports-5b3)
-- [Leitura comentada - Arquitetura Limpa - Princípios de Design - Capítulos 7](https://dev.to/zodh/leitura-comentada-arquitetura-limpa-principios-de-design-capitulos-7-1k77)
-- [James Webb Image Gallery](https://dev.to/mattryanmtl/james-webb-image-gallery-pc0)
-- [Simplifying Imports in React with Base URL Configuration](https://dev.to/dcs_ink/simplifying-imports-in-react-with-base-url-configuration-32cd)
-- [The key phases of software development &lpar;simply put&rpar;.](https://dev.to/audreymengue/the-key-phases-of-software-development-simply-put-3fpf)
+- [How to check for broken links using Selenium Webdriver on Node.js &lpar;automated testing&rpar;](https://dev.to/adamdsherman/automated-testing-how-to-check-for-broken-links-using-selenium-webdriver-on-nodejs-1akf)
+- [The Pros and Cons of DIY Paint Protection Film Installation](https://dev.to/pande00/the-pros-and-cons-of-diy-paint-protection-film-installation-46m)
+- [Hey!Sound: Upload and Vote for the Best Audios on the Internet](https://dev.to/fazzaamiarso/heysound-upload-and-vote-for-the-best-audios-on-the-internet-57me)
+- [Why Python Is Easier &lpar;Loops edition&rpar;](https://dev.to/chaseteague/why-python-is-easier-loops-edition-8p3)
+- [Introduction to Zero Trust Security Models](https://dev.to/kartikmehta8/introduction-to-zero-trust-security-models-4g1n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
