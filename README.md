@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The ORM vs. ODM Debate: A Node.js Backend Perspective](https://dev.to/iam-phenomenal/the-orm-vs-odm-debate-a-nodejs-backend-perspective-3pa0)
-- [Noscript: Turn off useless scripts](https://dev.to/devh0us3/noscript-turn-off-useless-scripts-5ank)
-- [Testing in Angular: Replace Karma to Web Test Runner](https://dev.to/danywalls/testing-in-angular-replace-karma-to-web-test-runner-5gag)
-- [Essential AI Reports for Business Leaders: Stanford AI Index Annual Report 2024](https://dev.to/iwooky/essential-ai-reports-for-business-leaders-stanford-ai-index-annual-report-2024-498j)
-- [Easily Turn Your Markdown Into Static Sites Using MKDocs](https://dev.to/jod35/easily-turn-your-markdown-into-static-sites-using-mkdocs-5599)
+- [Integrating a custom AI copilot into a new](https://dev.to/olatunjiayodel9/integrating-a-custom-ai-copilot-into-a-new-3e37)
+- [Steps to solve Recursive problems](https://dev.to/ashchk/steps-to-solve-recursive-problems-o76)
+- [How AI Tools Are Making Software Creation More Accessible](https://dev.to/marufhossain/how-ai-tools-are-making-software-creation-more-accessible-3kha)
+- [Hosting a Static Website with CloudFront and AWS S3](https://dev.to/clouddiadem/hosting-a-static-website-with-cloudfront-and-aws-s3-g8c)
+- [How to Package Dependency for AWS Lambda with Docker](https://dev.to/lordamola/how-to-package-dependency-for-aws-lambda-with-docker-3mpn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
