@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Next.js App Router](https://dev.to/shieldstring/nextjs-app-router-393i)
+- [Understanding Thymeleaf: A Powerful Java Template Engine](https://dev.to/nikhilxd/understanding-thymeleaf-a-powerful-java-template-engine-3bnh)
+- [Simplificando a Codificação HTML: Atalhos para uma Criação Mais Eficiente](https://dev.to/leehxd/simplificando-a-codificacao-html-atalhos-para-uma-criacao-mais-eficiente-3noi)
 - [Describe the difference between `&lt;script&gt;`, `&lt;script async&gt;` and `&lt;script defer&gt;` for Optimal Website Performance](https://dev.to/anjankarmakar/describe-the-difference-between-and-for-optimal-website-performance-1eel)
 - [Describe the difference between `&lt;script&gt;`, `&lt;script async&gt;` and `&lt;script defer&gt;` for Optimal Website Performance](https://dev.to/anjankarmakar/describe-the-difference-between-and-for-optimal-website-performance-a7l)
-- [Comparing token-based authentication and session-based authentication](https://dev.to/logto/comparing-token-based-authentication-and-session-based-authentication-3dlj)
-- [Exploring the Conversational AI Landscape: A Tour of Leading Platforms](https://dev.to/himanshudevgupta/exploring-the-conversational-ai-landscape-a-tour-of-leading-platforms-i9p)
-- [I created KianKit so you don&#39;t have too](https://dev.to/cowboycodr/i-created-kiankit-so-you-dont-have-too-o29)
 <!-- BLOG-POST-LIST:END -->
 
 ---
