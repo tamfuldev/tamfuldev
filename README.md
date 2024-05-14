@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering the AWS Security Specialty &lpar;SCS&rpar; Exam - A Quick Guide](https://dev.to/aws-builders/mastering-the-aws-security-specialty-scs-exam-a-quick-guide-2go0)
-- [In technical writing, the devil is NOT in the details](https://dev.to/gewenyu99/in-technical-writing-the-devil-is-not-in-the-details-36fn)
-- [OAuth2.0](https://dev.to/arimayuji/oauth20-5e5g)
-- [Tips from open-source: How redirect in Next.js works under the hood](https://dev.to/ramunarasinga/tips-from-open-source-how-redirect-in-nextjs-works-under-the-hood-1i8g)
-- [How to verify JWT Token Expiry in React/Next](https://dev.to/egnoel/how-to-verify-jwt-token-expiry-in-reactnext-22dn)
+- [Panduan Singkat Mengenal Eloquent ORM di Laravel](https://dev.to/risekucom/panduan-singkat-mengenal-eloquent-orm-di-laravel-12il)
+- [Building a Secure dApp: Best Practices and Common Pitfalls](https://dev.to/crypto_headhunter_5150/building-a-secure-dapp-best-practices-and-common-pitfalls-1c8c)
+- [I got a testimonial on Exercism](https://dev.to/venelouis/i-got-a-testimonial-on-exercism-1bgc)
+- [Issue 44 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-44-of-aws-cloud-security-weekly-plb)
+- [How You Can Use Logs to Feed Security](https://dev.to/alvinslee/how-you-can-use-logs-to-feed-security-45l9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
