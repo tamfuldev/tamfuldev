@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Using CSS Custom Properties with Fallbacks for Efficiency](https://dev.to/dainemawer/using-css-custom-properties-with-fallbacks-for-efficiency-3b8p)
-- [Open Source Hardware](https://dev.to/opensourceadvocate/open-source-hardware-3279)
-- [Why isn&#39;t the enrollment API working in my code?](https://dev.to/kabii/why-isnt-the-enrollment-api-working-in-my-code-45hl)
-- [JWT Explained](https://dev.to/manav-1011/jwt-explained-19o6)
-- [Migration from Twilio to Vonage Video: Guides for Web, iOS, and Android](https://dev.to/vonagedev/migration-from-twilio-to-vonage-video-guides-for-web-ios-and-android-4524)
+- [&quot;Learning Styles: A Myth?&quot;](https://dev.to/thejoernal/learning-styles-a-myth-2gce)
+- [Implement Advanced Chart Types like Heatmaps and Contour Plots](https://dev.to/tooljet/implement-advanced-chart-types-like-heatmaps-and-contour-plots-3h1f)
+- [How AI will affect different industries](https://dev.to/techstuff/how-ai-will-affect-different-industries-18j5)
+- [Cloud Computing Concepts](https://dev.to/temmytope86/cloud-computing-concepts-3mln)
+- [How to create a technical post in a short time](https://dev.to/jetthoughts/how-to-create-a-technical-post-in-a-short-time-4i53)
 <!-- BLOG-POST-LIST:END -->
 
 ---
