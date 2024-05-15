@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Are Your Secrets Projects Truly Safe?🔐](https://dev.to/bytehide/are-your-secrets-projects-truly-safe-2573)
-- [Go Simulation](https://dev.to/rudransh61/go-simulation-2jpi)
-- [Getting Started with the React 3D Charts Component](https://dev.to/syncfusion/getting-started-with-the-react-3d-charts-component-529m)
-- [React - Persisting Data on Page Refresh](https://dev.to/jucheng925/react-persisting-data-on-page-refresh-1jhk)
-- [Refactorizar 3º día](https://dev.to/srparis/refactorizar-3o-dia-2pem)
+- [&quot;if&quot; and &quot;?&quot;: how they&#39;re different in Javscript](https://dev.to/const_variable/if-and-how-theyre-different-in-javscript-411e)
+- [Некоторые подходы к архитектуре приложений в Amazon](https://dev.to/faangmaster/niekotoryie-podkhody-k-arkhitiekturie-prilozhienii-v-amazon-1720)
+- [Under The Hood Of Thread Synchronization With LOCK](https://dev.to/rasulhsn/under-the-hood-of-thread-synchronization-with-lock-3h50)
+- [error CS0433: The type &#39;List&lt;T&gt;&#39; exists in both &#39;mscorlib, Version=4.0.0.0, Culture=neutral](https://dev.to/happylifesdev/error-cs0433-the-type-list-exists-in-both-mscorlib-version4000-cultureneutral-3pck)
+- [Why Spec Coder is the Best Alternative to GitHub Copilot](https://dev.to/ellis22/why-spec-coder-is-the-superior-alternative-to-github-copilot-42f2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
