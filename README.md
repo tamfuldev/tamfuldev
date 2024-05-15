@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Meet GPT-4o: Your Multimodal Friend for Seamless Interaction!!](https://dev.to/respect17/meet-gpt-4o-your-multimodal-friend-for-seamless-interaction-2c02)
-- [I Quit Searching For Jobs!!!](https://dev.to/scofieldidehen/i-quit-searching-for-jobs-2jai)
-- [10 Extensões úteis para o seu VSCode](https://dev.to/tassiomed/10-extensoes-uteis-para-o-seu-vscode-56o7)
-- [Using Pavex for Rust web development](https://dev.to/logrocket/using-pavex-for-rust-web-development-5224)
-- [A Terminal Is All AI Needs](https://dev.to/panasenco/a-terminal-is-all-ai-needs-ee)
+- [Bridging Stellar with Allbridge Core on Soroswap: New Possibilities Unveiled](https://dev.to/soroswap/bridging-stellar-with-allbridge-core-on-soroswap-new-possibilities-unveiled-1j78)
+- [Unity 게임에 친구 목록을 추가하는 방법](https://dev.to/pubnub-ko/unity-geime-cingu-mogrogeul-cugahaneun-bangbeob-1a4o)
+- [Jak dodać listę znajomych do gry Unity?](https://dev.to/pubnub-pl/jak-dodac-liste-znajomych-do-gry-unity-27p7)
+- [DevOps vs SRE vs Platform Engineering](https://dev.to/samuel_tobaoyetola_c2ad5/devops-vs-sre-vs-platform-engineering-cpk)
+- [Enhancing NestJS Development: Improving Module Management Efficiency](https://dev.to/amirfakour/enhancing-nestjs-development-improving-module-management-efficiency-5el0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
