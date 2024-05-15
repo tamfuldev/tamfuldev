@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Project Maintainability with Module Resolver](https://dev.to/rv90904/how-to-use-module-resolver-as-pro-a77)
-- [Ever Wondered How to Dive into Java? Let&#39;s Chat About My Journey!](https://dev.to/respect17/ever-wondered-how-to-dive-into-java-lets-chat-about-my-journey-oo8)
-- [New integration with GitLab: Replaces user-generated plug-in](https://dev.to/openproject/new-integration-with-gitlab-replaces-user-generated-plug-in-o21)
-- [Google I/O Explained: Nutshell](https://dev.to/hkdevs/google-io-explained-simple-2863)
-- [Guided Data Access Patterns: A Deal Breaker for Data Platforms](https://dev.to/zirkonium88/guided-data-access-patterns-a-deal-breaker-for-data-platforms-4po0)
+- [Join us for the The AWS Amplify Fullstack TypeScript Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-the-aws-amplify-fullstack-typescript-challenge-3000-in-prizes-ghm)
+- [** ¡Los principios SOLID: una aventura con Johnny Bravo! **😎](https://dev.to/orlidev/-los-principios-solid-una-aventura-con-johnny-bravo--30mk)
+- [3 Reasons Data Engineers Should Embrace Apache Iceberg](https://dev.to/alexmercedcoder/3-reasons-data-engineers-should-embrace-apache-iceberg-39pe)
+- [Optimizando tu día laboral: creando Comandos.](https://dev.to/selene_l21/optimizando-tu-dia-laboral-creando-comandos-2jaa)
+- [keep building.](https://dev.to/seck_mohameth/keep-building-13a8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
