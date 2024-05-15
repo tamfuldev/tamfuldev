@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to add a Feedback Widget to your website](https://dev.to/nsmet/how-to-add-a-feedback-widget-to-your-website-149e)
-- [AI-Powered, No-code Automated Software Testing: What differentiates MagicPod from its peers?](https://dev.to/kingkunte_/ai-powered-no-code-automated-software-testing-what-differentiates-magicpod-from-its-peers-3b7g)
-- [Mastering Higher-Order Components in React: A Guide to DRY Code](https://dev.to/nikuwadaskar/mastering-higher-order-components-in-react-a-guide-to-dry-code-4bil)
-- [AI Software Development Lifecycle](https://dev.to/loganmary689/ai-software-development-lifecycle-3hhn)
-- [Choose the right database for your needs: BASE vs ACID model](https://dev.to/thectogeneral/choose-the-right-database-for-your-needs-base-vs-acid-model-n80)
+- [Meet GPT-4o: Your Multimodal Friend for Seamless Interaction!!](https://dev.to/respect17/meet-gpt-4o-your-multimodal-friend-for-seamless-interaction-2c02)
+- [I Quit Searching For Jobs!!!](https://dev.to/scofieldidehen/i-quit-searching-for-jobs-2jai)
+- [10 Extensões úteis para o seu VSCode](https://dev.to/tassiomed/10-extensoes-uteis-para-o-seu-vscode-56o7)
+- [Using Pavex for Rust web development](https://dev.to/logrocket/using-pavex-for-rust-web-development-5224)
+- [A Terminal Is All AI Needs](https://dev.to/panasenco/a-terminal-is-all-ai-needs-ee)
 <!-- BLOG-POST-LIST:END -->
 
 ---
