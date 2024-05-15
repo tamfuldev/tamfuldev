@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;if&quot; and &quot;?&quot;: how they&#39;re different in Javscript](https://dev.to/const_variable/if-and-how-theyre-different-in-javscript-411e)
-- [Некоторые подходы к архитектуре приложений в Amazon](https://dev.to/faangmaster/niekotoryie-podkhody-k-arkhitiekturie-prilozhienii-v-amazon-1720)
-- [Under The Hood Of Thread Synchronization With LOCK](https://dev.to/rasulhsn/under-the-hood-of-thread-synchronization-with-lock-3h50)
-- [error CS0433: The type &#39;List&lt;T&gt;&#39; exists in both &#39;mscorlib, Version=4.0.0.0, Culture=neutral](https://dev.to/happylifesdev/error-cs0433-the-type-list-exists-in-both-mscorlib-version4000-cultureneutral-3pck)
-- [Why Spec Coder is the Best Alternative to GitHub Copilot](https://dev.to/ellis22/why-spec-coder-is-the-superior-alternative-to-github-copilot-42f2)
+- [📕 Start-ups vs. Big Companies: The Best Takeaways For You To Know 📊](https://dev.to/wasp/start-ups-vs-big-companies-the-best-takeaways-for-you-to-know-28n5)
+- [Mastering Git: Guide to Repository Management](https://dev.to/elainecbennet/mastering-git-guide-to-repository-management-2gdo)
+- [I quit my job and building a productivity app for ADHD. I need your input.](https://dev.to/buditanrim/i-quit-my-job-and-building-a-productivity-app-for-adhd-i-need-your-input-c8i)
+- [Build your own AI Video editor with Node.js, AssemblyAI &amp; StreamPot](https://dev.to/jacksbridger/build-your-own-ai-video-editor-with-nodejs-assemblyai-streampot-45d5)
+- [Localização de Falhas de Software, com Rui Maranhão Abreu](https://dev.to/fronteirases/localizacao-de-falhas-de-software-com-rui-maranhao-abreu-4700)
 <!-- BLOG-POST-LIST:END -->
 
 ---
