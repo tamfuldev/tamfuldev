@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [React Native: An introduction](https://dev.to/jjuarez5/react-native-an-introduction-4l0f)
-- [Deep Dive: Google Apps Script - Testing APIs and Automating Sheets](https://dev.to/mro_automation/deep-dive-google-apps-script-testing-apis-and-automating-sheets-khe)
-- [2812. Find the Safest Path in a Grid](https://dev.to/karleb/2812-find-the-safest-path-in-a-grid-54i9)
-- [Svelte and SvelteKit Explained](https://dev.to/kedzior_io/svelte-and-sveltekit-explained-3513)
-- [Join our free webinar: “Removing Friction from Design System Workflows”](https://dev.to/uxpin/join-our-free-webinar-removing-friction-from-design-system-workflows-9me)
+- [Software Design: Strategies for Modular Programming and Loose Coupling](https://dev.to/ayako_yk/software-design-strategies-for-modular-programming-and-loose-coupling-joi)
+- [JavaScript: Separate Predicate Functions](https://dev.to/oculus42/javascript-separate-predicate-functions-1deh)
+- [Copy/Pasting output from the terminal](https://dev.to/saranshk/copypasting-output-from-the-terminal-1c6g)
+- [Agents in Action - MindsDB Hackathon Recap](https://dev.to/mindsdb/agents-in-action-mindsdb-hackathon-recap-2k71)
+- [Learning ReactJs...again](https://dev.to/bigcityc/learning-reactjsagain-5hef)
 <!-- BLOG-POST-LIST:END -->
 
 ---
