@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Bridging Stellar with Allbridge Core on Soroswap: New Possibilities Unveiled](https://dev.to/soroswap/bridging-stellar-with-allbridge-core-on-soroswap-new-possibilities-unveiled-1j78)
-- [Unity 게임에 친구 목록을 추가하는 방법](https://dev.to/pubnub-ko/unity-geime-cingu-mogrogeul-cugahaneun-bangbeob-1a4o)
-- [Jak dodać listę znajomych do gry Unity?](https://dev.to/pubnub-pl/jak-dodac-liste-znajomych-do-gry-unity-27p7)
-- [DevOps vs SRE vs Platform Engineering](https://dev.to/samuel_tobaoyetola_c2ad5/devops-vs-sre-vs-platform-engineering-cpk)
-- [Enhancing NestJS Development: Improving Module Management Efficiency](https://dev.to/amirfakour/enhancing-nestjs-development-improving-module-management-efficiency-5el0)
+- [Mastering Project Maintainability with Module Resolver](https://dev.to/rv90904/how-to-use-module-resolver-as-pro-a77)
+- [Ever Wondered How to Dive into Java? Let&#39;s Chat About My Journey!](https://dev.to/respect17/ever-wondered-how-to-dive-into-java-lets-chat-about-my-journey-oo8)
+- [New integration with GitLab: Replaces user-generated plug-in](https://dev.to/openproject/new-integration-with-gitlab-replaces-user-generated-plug-in-o21)
+- [Google I/O Explained: Nutshell](https://dev.to/hkdevs/google-io-explained-simple-2863)
+- [Guided Data Access Patterns: A Deal Breaker for Data Platforms](https://dev.to/zirkonium88/guided-data-access-patterns-a-deal-breaker-for-data-platforms-4po0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
