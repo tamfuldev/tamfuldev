@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Revisiting the &quot;Rules of React&quot;](https://dev.to/martinrojas/revisiting-the-rules-of-react-e85)
-- [How to prevent generating new access tokens.](https://dev.to/theprateekgoyal2/how-to-prevent-generating-new-access-tokens-39ig)
-- [Automate Your Web App Deployments: A Beginner&#39;s Guide to CI/CD with Jenkins &lpar;Inspired by Nexascale Mentorship&rpar;](https://dev.to/arbythecoder/automate-your-web-app-deployments-a-beginners-guide-to-cicd-with-jenkins-inspired-by-nexascale-mentorship-29ej)
-- [Dev: Front-end](https://dev.to/r4nd3l/dev-front-end-1n0p)
-- [Fundamentos de JavaScript: Un Viaje desde Cero hasta el Dominio](https://dev.to/miigangls/fundamentos-de-javascript-un-viaje-desde-cero-hasta-el-dominio-5576)
+- [JavaScript Security: Simple Practices to Secure Your Frontend](https://dev.to/buildwebcrumbs/javascript-security-simple-practices-to-secure-your-frontend-18ii)
+- [Dockerfile Instructions](https://dev.to/aun1414/dockerfile-instructions-2o13)
+- [Gushing Over AWS Application Load Balancer Access Logs](https://dev.to/grunet/gushing-over-aws-application-load-balancer-access-logs-2bf)
+- [Open Source vs Proprietary LMS: Choosing the Right Fit for Your Needs](https://dev.to/krestomatio/open-source-vs-proprietary-learning-management-systems-choosing-the-right-fit-for-your-needs-596d)
+- [Easiest program in 6502 emulator part-1](https://dev.to/yuktimulani/easiest-program-in-6502-emulator-part-1-374c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
