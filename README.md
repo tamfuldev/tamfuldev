@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [OIDC Prompt 101: A simple guide for developers](https://dev.to/logto/oidc-prompt-101-a-simple-guide-for-developers-39b2)
-- [I built an open-source schema visualisation tool for mongoose](https://dev.to/abdul_165bf98345e29aea8ef/i-built-an-open-source-schema-visualisation-tool-for-mongoose-44m9)
-- [Understanding GPT-4: How to Access and Utilize OpenAI’s New AI Model](https://dev.to/satokenta/understanding-gpt-4-how-to-access-and-utilize-openais-new-ai-model-5991)
-- [Solving a Leetcode problem daily — Day 11 | Find Minimum in Rotated Sorted Array](https://dev.to/subhradeep__saha/solving-a-leetcode-problem-daily-day-11-find-minimum-in-rotated-sorted-array-3f7g)
-- [Code a Neural Network from scratch to solve the binary MNIST problem](https://dev.to/hoangng/code-a-neural-network-from-scratch-to-solve-the-binary-mnist-problem-k0e)
+- [A Developer&#39;s Guide to Evaluating LLMs!](https://dev.to/pavanbelagatti/a-developers-guide-to-evaluating-llms-281b)
+- [How I built an automated event-driven app](https://dev.to/karaniph/how-i-built-an-automated-event-driven-app-1hib)
+- [Pure Functions](https://dev.to/abhishekkrpand1/pure-functions-130e)
+- [Laravel Relationship Recipes: Simplify Querying with hasManyThrough](https://dev.to/muhammadsaim/laravel-relationship-recipes-simplify-querying-with-hasmanythrough-247m)
+- [Day 1 of Machine learning - Python](https://dev.to/adarshagupta/day-1-of-machine-learning-python-log)
 <!-- BLOG-POST-LIST:END -->
 
 ---
