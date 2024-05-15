@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Meteor 2.16 and Oplog Tailing Optimization](https://dev.to/meteor/meteor-216-and-oplog-tailing-optimization-ckk)
-- [Tips from Open source: Use shadow DOM to avoid potential CSS breaks](https://dev.to/ramunarasinga/tips-from-open-source-use-shadow-dom-to-avoid-potential-css-breaks-41dd)
-- [Developer diary #9. Google I/O](https://dev.to/kiolk/developer-diary-9-google-io-2om7)
-- [5 Essential Features for In-Game Chat Players Will Love](https://dev.to/pubnub/5-essential-features-for-in-game-chat-players-will-love-3k73)
-- [How to add a video into your website in Next.js 14](https://dev.to/autotelico/how-to-add-a-video-into-your-website-in-nextjs-14-2mi3)
+- [Machine Learning for newbies](https://dev.to/catheryn/machine-learning-for-newbies-98h)
+- [How to Update your Github Profile with Your Latest Blog Posts](https://dev.to/nhelchitnis/how-to-update-your-github-profil-with-your-latest-blog-posts-1l0o)
+- [Welcome Thread - v276](https://dev.to/devteam/welcome-thread-v276-4mok)
+- [Cloud Computing Concepts](https://dev.to/peteros/cloud-computing-concepts-18o9)
+- [Race Conditions in React Native](https://dev.to/paulocappa/race-conditions-in-react-native-5bjb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
