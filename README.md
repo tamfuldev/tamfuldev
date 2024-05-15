@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Security: Simple Practices to Secure Your Frontend](https://dev.to/buildwebcrumbs/javascript-security-simple-practices-to-secure-your-frontend-18ii)
-- [Dockerfile Instructions](https://dev.to/aun1414/dockerfile-instructions-2o13)
-- [Gushing Over AWS Application Load Balancer Access Logs](https://dev.to/grunet/gushing-over-aws-application-load-balancer-access-logs-2bf)
-- [Open Source vs Proprietary LMS: Choosing the Right Fit for Your Needs](https://dev.to/krestomatio/open-source-vs-proprietary-learning-management-systems-choosing-the-right-fit-for-your-needs-596d)
-- [Easiest program in 6502 emulator part-1](https://dev.to/yuktimulani/easiest-program-in-6502-emulator-part-1-374c)
+- [React Native: An introduction](https://dev.to/jjuarez5/react-native-an-introduction-4l0f)
+- [Deep Dive: Google Apps Script - Testing APIs and Automating Sheets](https://dev.to/mro_automation/deep-dive-google-apps-script-testing-apis-and-automating-sheets-khe)
+- [2812. Find the Safest Path in a Grid](https://dev.to/karleb/2812-find-the-safest-path-in-a-grid-54i9)
+- [Svelte and SvelteKit Explained](https://dev.to/kedzior_io/svelte-and-sveltekit-explained-3513)
+- [Join our free webinar: “Removing Friction from Design System Workflows”](https://dev.to/uxpin/join-our-free-webinar-removing-friction-from-design-system-workflows-9me)
 <!-- BLOG-POST-LIST:END -->
 
 ---
