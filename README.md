@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How to create a WeCom App to enable WeCom Login for the Web app](https://dev.to/jefftian/how-to-create-a-wecom-app-to-enable-wecom-login-for-the-web-app-539)
+- [Why You are Not Getting Interviews](https://dev.to/thekarlesi/why-you-are-not-getting-interviews-3hn2)
+- [Quick note on HTML and CSS](https://dev.to/viviancreates/quick-note-on-html-and-css-482h)
+- [Frameworks of BunJS: ElysiaJS and Hono](https://dev.to/mlvnthanhvo/frameworks-of-bunjs-elysiajs-and-hono-4all)
 - [Marketing to Developers in 2024](https://dev.to/jeffmorhous/marketing-to-developers-in-2024-13op)
-- [Great News Project Astra is a prototype from @GoogleDeepMind](https://dev.to/dms/great-newsproject-astra-is-a-prototype-from-googledeepmind-4h6i)
-- [Learning to Code Through Real-World Challenges: My Transformative Journey](https://dev.to/kingsleyeghianruwa/learning-to-code-through-real-world-challenges-my-transformative-journey-1ead)
-- [Self-Hosted Coolify on EcoStack Cloud: Your Own PaaS with Effortless App Deployment](https://dev.to/ersinkoc/self-hosted-coolify-on-ecostack-cloud-your-own-paas-with-effortless-app-deployment-56co)
-- [Heading back to the mountain](https://dev.to/landon_lomax_devut/heading-back-to-the-mountain-2k63)
 <!-- BLOG-POST-LIST:END -->
 
 ---
