@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Developer&#39;s Guide to Evaluating LLMs!](https://dev.to/pavanbelagatti/a-developers-guide-to-evaluating-llms-281b)
-- [How I built an automated event-driven app](https://dev.to/karaniph/how-i-built-an-automated-event-driven-app-1hib)
-- [Pure Functions](https://dev.to/abhishekkrpand1/pure-functions-130e)
-- [Laravel Relationship Recipes: Simplify Querying with hasManyThrough](https://dev.to/muhammadsaim/laravel-relationship-recipes-simplify-querying-with-hasmanythrough-247m)
-- [Day 1 of Machine learning - Python](https://dev.to/adarshagupta/day-1-of-machine-learning-python-log)
+- [Mental Burnout: Can We Beat It?](https://dev.to/devteam/mental-burnout-can-we-beat-it-2k2o)
+- [Why I moved from CloudWatch to Errsole!](https://dev.to/mrrishimeena/why-i-moved-from-cloudwatch-to-errsole-769)
+- [Java Code Change Impact Analysis](https://dev.to/oliver_li/java-code-change-impact-analysis-3i64)
+- [8-Step Sales Process in 5 min](https://dev.to/jetthoughts/8-step-sales-process-in-5-min-581g)
+- [Frontend Web Security - Protecting Against Common Threats](https://dev.to/incerro111/frontend-web-security-protecting-against-common-threats-4kb4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
