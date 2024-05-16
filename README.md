@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Password Management : Passwordless Login](https://dev.to/gearoidotreasaigh/password-management-passwordless-login-1j5)
-- [Automating the Boring Stuff](https://dev.to/hxii/automating-the-boring-stuff-38dj)
-- [Building startups with Mina Protocol](https://dev.to/danizeres/building-startups-with-mina-protocol-d)
-- [Do you need a college degree as a developer?](https://dev.to/sotergreco/do-you-need-a-college-degree-as-a-developer-21be)
-- [Creating Simple Server in Go](https://dev.to/anuragaffection/creating-simple-server-in-go-53b5)
+- [Python VS Common Lisp applied: print, log and icecream](https://dev.to/vindarel/python-vs-common-lisp-applied-print-log-and-icecream-2h12)
+- [Processing Foundation 2024 Software Development Grant &lpar;pr05&rpar;: &#39;New Beginnings&#39; Open Call](https://dev.to/soniachoi/processing-foundation-2024-software-development-grant-pr05-new-beginnings-open-call-36b1)
+- [2331. Evaluate Boolean Binary Tree](https://dev.to/mdarifulhaque/2331-evaluate-boolean-binary-tree-6ae)
+- [Introduction to GPT-4o your new Digital Companion](https://dev.to/snehalkadwe/introduction-to-gpt-4o-your-new-digital-companion-220c)
+- [Email deliverability for developers: A technical guide](https://dev.to/sweego/email-deliverability-for-developers-a-technical-guide-4pln)
 <!-- BLOG-POST-LIST:END -->
 
 ---
