@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building your own ChatGPT Graphical Client with NextJS and Wing 🤯](https://dev.to/winglang/building-your-own-chatgpt-graphical-client-with-nextjs-and-wing-29jj)
-- [I Thought I was All okay Until I Realized I need More practice.](https://dev.to/santosh_mal_e04929dbf920e/i-thought-i-was-all-okay-until-i-realized-i-need-more-practice-437p)
-- [Secure OCR and Biometrics Integration in Angular](https://dev.to/ideradevtools/secure-ocr-and-biometrics-integration-in-angular-11en)
-- [React Compiler - New Hero?](https://dev.to/hugaidas/react-compiler-new-hero-5b21)
-- [What is Coinalyze? — Crypto Analysis](https://dev.to/getblockapi/what-is-coinalyze-crypto-analysis-3la9)
+- [Password Management : Passwordless Login](https://dev.to/gearoidotreasaigh/password-management-passwordless-login-1j5)
+- [Automating the Boring Stuff](https://dev.to/hxii/automating-the-boring-stuff-38dj)
+- [Building startups with Mina Protocol](https://dev.to/danizeres/building-startups-with-mina-protocol-d)
+- [Do you need a college degree as a developer?](https://dev.to/sotergreco/do-you-need-a-college-degree-as-a-developer-21be)
+- [Creating Simple Server in Go](https://dev.to/anuragaffection/creating-simple-server-in-go-53b5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
