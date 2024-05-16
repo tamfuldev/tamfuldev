@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [A PAGE TALKS ABOUT &lpar;The Glimpse, Accessibility @evaluation&rpar;](https://dev.to/rewirebyautomation/a-page-talks-about-the-glimpse-accessibility-evaluation-dp)
+- [Handling Nullable Relationships in Laravel Models: Best Practices vs. Manual Checks](https://dev.to/muhammadsaim/handling-nullable-relationships-in-laravel-models-best-practices-vs-manual-checks-2e1c)
+- [NumPy Unleashed: Exploring the Power of Special Arrays](https://dev.to/lohith0512/numpy-unleashed-exploring-the-power-of-special-arrays-55ai)
 - [How to Prevent Sudden Crashes of Eclipse IDE on Ubuntu](https://dev.to/toindranildutta/how-to-prevent-sudden-crashes-of-eclipse-ide-on-ubuntu-5bnl)
 - [How Does Google Treat AI Content?](https://dev.to/scrumdigital/how-does-google-treat-ai-content-2j9o)
-- [Vitest setup with serverless framework: Node.js Express.js](https://dev.to/abdul_165bf98345e29aea8ef/vitest-setup-with-serverless-framework-nodejs-expressjs-550c)
-- [Write a backend server, and you get an Admin Dashboard for free!](https://dev.to/victeoteokw/write-a-backend-server-and-you-get-an-admin-dashboard-for-free-2f5p)
-- [Build Your Own React.js in 400 Lines of Code](https://dev.to/zacharylee/build-your-own-reactjs-in-400-lines-of-code-3l1e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
