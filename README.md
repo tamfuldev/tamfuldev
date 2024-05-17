@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stable Cascade Full Tutorial for Windows, Massed Compute, RunPod &amp; Kaggle — Predecessor of SD3 — 1-Click Install](https://dev.to/furkangozukara/stable-cascade-full-tutorial-for-windows-massed-compute-runpod-kaggle-predecessor-of-sd3-1-click-install-2j1)
-- [Chapter 1: Boring SVG Manipulation](https://dev.to/maxstalker/chapter-1-boring-svg-manipulation-4kod)
-- [Gamedev.js Open Source Challenge Winners 🏆](https://dev.to/github/gamedevjs-open-source-challenge-winners-5076)
-- [Comparing SPLADE Sparse Vectors with BM25](https://dev.to/zilliz/comparing-splade-sparse-vectors-with-bm25-4218)
-- [How to Pick a Vector Index in Your Milvus Instance: A Visual Guide](https://dev.to/zilliz/how-to-pick-a-vector-index-in-your-milvus-instance-a-visual-guide-39kg)
+- [Implementing GraphRAG for Query-Focused Summarization](https://dev.to/stephenc222/implementing-graphrag-for-query-focused-summarization-47ib)
+- [C# dasturlash tili | Record haqida](https://dev.to/ozodbek_soft/c-dasturlash-tili-record-haqida-2o7i)
+- [Python. Flipping Calendars.](https://dev.to/dm8ry/python-flipping-calendars-22f5)
+- [Login problem - cant read get_current_active_user over dependency in student route.](https://dev.to/nemsho_82acce26316/login-problem-cant-read-getcurrentactiveuser-over-dependency-in-student-route-47g8)
+- [10 Essential Questions to Ask When Starting with NumPy Data Manipulation](https://dev.to/marcconci/10-essential-questions-to-ask-when-starting-with-numpy-data-manipulation-da6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
