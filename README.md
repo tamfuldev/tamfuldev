@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Work for It: The Pathway to Your Greatest Achievements](https://dev.to/devdiscove19083/work-for-it-the-pathway-to-your-greatest-achievements-10b2)
-- [Data Sync in JuiceFS 1.2: Enhanced Selective Sync and Performance Optimizations](https://dev.to/daswu/data-sync-in-juicefs-12-enhanced-selective-sync-and-performance-optimizations-1o30)
-- [MAX232 IC:Features,Applications and Types](https://dev.to/candice88771483/max232-icfeaturesapplications-and-types-3g5k)
-- [Importing from GitLab to GitHub](https://dev.to/pulimoodan/importing-from-gitlab-to-github-3bcd)
-- [Implement React v18 from Scratch Using WASM and Rust - [13] Implement Lane and Batch Update](https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-13-implement-lane-and-batch-update-56ip)
+- [Leveraging force_save in Odoo for Boolean Fields Dependent on onchange Methods](https://dev.to/jeevanizm/leveraging-forcesave-in-odoo-for-boolean-fields-dependent-on-onchange-methods-1p7c)
+- [peviitor.ro pe Discord](https://dev.to/ale23yfm/peviitorro-pe-discord-go7)
+- [What is Terratest and How to Use it](https://dev.to/spacelift/what-is-terratest-and-how-to-use-it-1f8f)
+- [Decentralized Autonomous Cooperative in Nepal, Is it possible with blockchain?](https://dev.to/swikar_sharma_aebc309f56f/decentralized-autonomous-cooperative-in-nepal-is-it-possible-with-blockchain-3p8a)
+- [7 common pitfalls in JSON operations in Golang](https://dev.to/brucedu521/7-common-pitfalls-in-json-operations-in-golang-3693)
 <!-- BLOG-POST-LIST:END -->
 
 ---
