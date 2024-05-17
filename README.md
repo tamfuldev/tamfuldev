@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Explain how to create GraphQL API with Nest.js and provide step by step guide with explanation?](https://dev.to/nadim_ch0wdhury/explain-how-to-create-graphql-api-with-nestjs-and-provide-step-by-step-guide-with-explanation-5eig)
-- [How to connect Nest.js backend with PostgreSQL for GraphQL API?](https://dev.to/nadim_ch0wdhury/how-to-connect-nestjs-backend-with-postgresql-for-graphql-api-ddf)
-- [How to do CRUD in GraphQL Nest.js API?](https://dev.to/nadim_ch0wdhury/how-to-do-crud-in-graphql-nestjs-api-2pe6)
-- [How do you make your traits in laravel?](https://dev.to/rohiturane/how-do-you-make-your-traits-in-laravel-4okl)
-- [Debunking Common Kubernetes Myths](https://dev.to/cyclops-ui/debunking-common-kubernetes-myths-1f3e)
+- [Create a CRUD App with Prisma ORM &amp; Node Js](https://dev.to/arindam_1729/create-a-crud-app-with-prisma-orm-node-js-34b1)
+- [java decoder encoder](https://dev.to/mustafacam/java-decoder-encoder-5afb)
+- [Content Hub: Complete guide to a centralized source](https://dev.to/momciloo/content-hub-complete-guide-to-a-centralized-source-682)
+- [java static](https://dev.to/mustafacam/java-static-6i)
+- [java final](https://dev.to/mustafacam/java-final-49cg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
