@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Do not Reinvent the Wheel: Utilize Django’s Built-in Auth App to Create a Robust Authentication System](https://dev.to/odhiambo/do-not-reinvent-the-wheel-utilize-djangos-built-in-auth-app-to-create-a-robust-authentication-system-4840)
-- [Keybindings in Terminal in VS Code](https://dev.to/h3h/keybindings-in-terminal-in-vs-code-1lo7)
-- [Sending SMS Messages with Python and ClickSend](https://dev.to/foysal365/sending-sms-messages-with-python-and-clicksend-phl)
-- [Diving into ReactJS: Understanding the Magic Behind Client and Server Routing.](https://dev.to/barakkenny2/diving-into-reactjs-understanding-the-magic-behind-client-and-server-routing-12ie)
-- [How I fixed this Next.js error: Refused to load the script because it violate Content Security Policy directive](https://dev.to/ramunarasinga/how-i-fixed-this-nextjs-error-refused-to-load-the-script-because-it-violate-content-security-policy-directive-37b4)
+- [Stable Cascade Full Tutorial for Windows, Massed Compute, RunPod &amp; Kaggle — Predecessor of SD3 — 1-Click Install](https://dev.to/furkangozukara/stable-cascade-full-tutorial-for-windows-massed-compute-runpod-kaggle-predecessor-of-sd3-1-click-install-2j1)
+- [Chapter 1: Boring SVG Manipulation](https://dev.to/maxstalker/chapter-1-boring-svg-manipulation-4kod)
+- [Gamedev.js Open Source Challenge Winners 🏆](https://dev.to/github/gamedevjs-open-source-challenge-winners-5076)
+- [Comparing SPLADE Sparse Vectors with BM25](https://dev.to/zilliz/comparing-splade-sparse-vectors-with-bm25-4218)
+- [How to Pick a Vector Index in Your Milvus Instance: A Visual Guide](https://dev.to/zilliz/how-to-pick-a-vector-index-in-your-milvus-instance-a-visual-guide-39kg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
