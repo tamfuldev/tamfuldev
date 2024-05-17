@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Zero to Hero: Disaster Recovery for PostgreSQL with Streaming Replication in Kubernetes](https://dev.to/spronin/from-zero-to-hero-disaster-recovery-for-postgresql-with-streaming-replication-in-kubernetes-2g96)
-- [Shopify - send file to shop with Ruby on Rails](https://dev.to/xao0isb/shopify-send-file-to-shop-with-ruby-on-rails-44i7)
-- [TCP vs UDP with Node.js Examples](https://dev.to/kernelrb/tcp-vs-udp-with-nodejs-examples-43oc)
-- [Inside the Box: April Community Update](https://dev.to/codesandboxio/inside-the-box-april-community-update-1074)
-- [Master Web Components: Create and Host Your Own](https://dev.to/growwwithtalha/master-web-components-create-and-host-your-own-4p7h)
+- [vite build accessing system environment variables](https://dev.to/roshanpshajan/vite-build-accessing-system-environment-variables-41an)
+- [Simplifying Database Optimization: A Beginner&#39;s Guide](https://dev.to/hyscaler/simplifying-database-optimization-a-beginners-guide-5h0i)
+- [Email Marketing Best Practices for Tech Startups](https://dev.to/syedbalkhi/email-marketing-best-practices-for-tech-startups-3dn5)
+- [How to Time an Unexpected Bug to Rise on a Specific Month](https://dev.to/redheadphone/how-to-time-an-unexpected-bug-to-rise-on-a-specific-month-2k6c)
+- [What Is Spyware? Definition, Types, And Protection](https://dev.to/clouddefenseai/what-is-spyware-definition-types-and-protection-ae6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
