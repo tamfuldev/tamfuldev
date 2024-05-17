@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [TryHackMe IR Philosophy and Ethics Walkthrough](https://dev.to/yowise/tryhackme-ir-philosophy-and-ethics-walkthrough-343b)
-- [Exploring fields of Zigaform Estimator Form Builder](https://dev.to/softdiscover/exploring-fields-of-zigaform-estimator-form-builder-368l)
-- [HydePHP - According to GPT-4o](https://dev.to/codewithcaen/hydephp-according-to-gpt-4o-1cmp)
-- [📚 How to see what changed in Composer files](https://dev.to/ionbazan/how-to-see-what-changed-in-composer-files-1ih6)
-- [How to install Wordpress Cost Estimation Form builder by Zigaform](https://dev.to/softdiscover/how-to-install-wordpress-cost-estimation-form-builder-2lli)
+- [Introducing Pieces Copilot+, now with Live Context](https://dev.to/get_pieces/introducing-pieces-copilot-now-with-live-context-4ho9)
+- [Underfitting and Overfitting Concepts in Machine Learning](https://dev.to/praneshcodecraft/underfitting-and-overfitting-concepts-in-machine-learning-5178)
+- [Effective Tools for Tech Enthusiasts this Year](https://dev.to/mrball/effective-tools-for-tech-enthusiasts-this-year-4agi)
+- [Leveraging &#39;os.Stderr&#39; in Go: Best Practices for Effective Error Handling](https://dev.to/wycliffealphus/leveraging-osstderr-in-go-best-practices-for-effective-error-handling-3iof)
+- [Build Beautiful Chart from Any JSON Object](https://dev.to/bugblitz98/online-build-beautiful-chart-from-any-json-object-jmn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
