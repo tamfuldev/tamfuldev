@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [vite build accessing system environment variables](https://dev.to/roshanpshajan/vite-build-accessing-system-environment-variables-41an)
-- [Simplifying Database Optimization: A Beginner&#39;s Guide](https://dev.to/hyscaler/simplifying-database-optimization-a-beginners-guide-5h0i)
-- [Email Marketing Best Practices for Tech Startups](https://dev.to/syedbalkhi/email-marketing-best-practices-for-tech-startups-3dn5)
-- [How to Time an Unexpected Bug to Rise on a Specific Month](https://dev.to/redheadphone/how-to-time-an-unexpected-bug-to-rise-on-a-specific-month-2k6c)
-- [What Is Spyware? Definition, Types, And Protection](https://dev.to/clouddefenseai/what-is-spyware-definition-types-and-protection-ae6)
+- [Explain how to create GraphQL API with Nest.js and provide step by step guide with explanation?](https://dev.to/nadim_ch0wdhury/explain-how-to-create-graphql-api-with-nestjs-and-provide-step-by-step-guide-with-explanation-5eig)
+- [How to connect Nest.js backend with PostgreSQL for GraphQL API?](https://dev.to/nadim_ch0wdhury/how-to-connect-nestjs-backend-with-postgresql-for-graphql-api-ddf)
+- [How to do CRUD in GraphQL Nest.js API?](https://dev.to/nadim_ch0wdhury/how-to-do-crud-in-graphql-nestjs-api-2pe6)
+- [How do you make your traits in laravel?](https://dev.to/rohiturane/how-do-you-make-your-traits-in-laravel-4okl)
+- [Debunking Common Kubernetes Myths](https://dev.to/cyclops-ui/debunking-common-kubernetes-myths-1f3e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
