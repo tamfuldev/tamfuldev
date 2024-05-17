@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [7 reasons why your business needs SEO](https://dev.to/danieldavis/7-reasons-why-your-business-needs-seo-442p)
-- [Order-based Merge Join](https://dev.to/esproc_spl/order-based-merge-join-3iha)
-- [How can I host a repository website in the link https://baponkar.github.io?](https://dev.to/baponkar/how-can-i-host-a-repository-website-in-the-link-httpsbaponkargithubio-3apk)
-- [Screenshots optimization on OpenAI tokens](https://dev.to/adaschevici/screenshots-optimization-on-openai-tokens-27pk)
-- [A Comprehensive and Friendly Guide on Device Cloud for Beginners](https://dev.to/morrismoses149/a-comprehensive-and-friendly-guide-on-device-cloud-for-beginners-4jbh)
+- [Work for It: The Pathway to Your Greatest Achievements](https://dev.to/devdiscove19083/work-for-it-the-pathway-to-your-greatest-achievements-10b2)
+- [Data Sync in JuiceFS 1.2: Enhanced Selective Sync and Performance Optimizations](https://dev.to/daswu/data-sync-in-juicefs-12-enhanced-selective-sync-and-performance-optimizations-1o30)
+- [MAX232 IC:Features,Applications and Types](https://dev.to/candice88771483/max232-icfeaturesapplications-and-types-3g5k)
+- [Importing from GitLab to GitHub](https://dev.to/pulimoodan/importing-from-gitlab-to-github-3bcd)
+- [Implement React v18 from Scratch Using WASM and Rust - [13] Implement Lane and Batch Update](https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-13-implement-lane-and-batch-update-56ip)
 <!-- BLOG-POST-LIST:END -->
 
 ---
