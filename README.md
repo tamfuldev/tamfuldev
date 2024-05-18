@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Impressive Flutter Projects to Skyrocket Your Developer CV](https://dev.to/dhruvjoshi9/top-10-impressive-flutter-projects-to-skyrocket-your-developer-cv-4b1g)
-- [Master React Optimization Technique](https://dev.to/thisisarkajitroy/master-react-optimization-technique-4d2b)
-- [Reactotron: debugging tool for React &amp; React Native](https://dev.to/paulocappa/reactotron-debugging-tool-for-react-react-native-p0b)
-- [SSH Into Raspberry Pi with Tailscale VPN](https://dev.to/shilleh/ssh-into-raspberry-pi-with-tailscale-vpn-5625)
-- [How to create your logging system using SLF4J](https://dev.to/c4rlosmonteiro/how-to-create-your-logging-system-using-slf4j-42o6)
+- [Enhance Your Coding Environment: Making Visual Studio Code Background Translucent](https://dev.to/jaykgupta/enhance-your-coding-environment-making-visual-studio-code-background-translucent-2n8p)
+- [What Not to Do When Learning Flutter as a Beginner](https://dev.to/abdulrazack23/what-not-to-do-when-learning-flutter-as-a-beginner-14a7)
+- [Mobile Proxy Tips for Beginners](https://dev.to/rodneywilham/mobile-proxy-tips-for-beginners-3mm9)
+- [How to Earn Money Using Flutter and Google AdMob](https://dev.to/abdulrazack23/how-to-earn-money-using-flutter-and-google-admob-1n0n)
+- [Webpack4 fix for .mjs files](https://dev.to/amythical/webpack4-fix-for-mjs-files-3ggh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
