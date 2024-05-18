@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [TypeDefs, Resolvers and Mutations](https://dev.to/lovertab/typedefs-resolvers-and-mutations-cgd)
-- [Researcher Ranking Us Pop-Out Effect](https://dev.to/kevgutierrez09_/researcher-ranking-us-pop-out-effect-2ko2)
-- [Micelio.uca.edu.sv-Particles](https://dev.to/kevgutierrez09_/micelioucaedusv-particles-1ljp)
-- [Micelio.uca.edu.sv](https://dev.to/amilcarbib29646/micelioucaedusv-gl9)
-- [About Us Pop-Out Effect](https://dev.to/amilcarbib29646/about-us-pop-out-effect-1fi0)
+- [Navigation in React Native](https://dev.to/codeparrot/navigation-in-react-native-2l8c)
+- [Langchain Retrieval](https://dev.to/rutamstwt/langchain-retrieval-ida)
+- [Preview of PHP 8.4 New Features](https://dev.to/servbay/preview-of-php-84-new-features-5551)
+- [How to Configure Swagger 3 in a Spring Boot Application with Springfox](https://dev.to/toindranildutta/how-to-configure-swagger-3-in-a-spring-boot-application-with-springfox-36na)
+- [¿Cómo crear una base de datos de PostgreSQL en Mac?](https://dev.to/josemiguelsandoval/como-crear-una-base-de-datos-de-postgresql-en-mac-2m42)
 <!-- BLOG-POST-LIST:END -->
 
 ---
