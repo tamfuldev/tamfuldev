@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Navigation in React Native](https://dev.to/codeparrot/navigation-in-react-native-2l8c)
-- [Langchain Retrieval](https://dev.to/rutamstwt/langchain-retrieval-ida)
-- [Preview of PHP 8.4 New Features](https://dev.to/servbay/preview-of-php-84-new-features-5551)
-- [How to Configure Swagger 3 in a Spring Boot Application with Springfox](https://dev.to/toindranildutta/how-to-configure-swagger-3-in-a-spring-boot-application-with-springfox-36na)
-- [¿Cómo crear una base de datos de PostgreSQL en Mac?](https://dev.to/josemiguelsandoval/como-crear-una-base-de-datos-de-postgresql-en-mac-2m42)
+- [Top 10 Impressive Flutter Projects to Skyrocket Your Developer CV](https://dev.to/dhruvjoshi9/top-10-impressive-flutter-projects-to-skyrocket-your-developer-cv-4b1g)
+- [Master React Optimization Technique](https://dev.to/thisisarkajitroy/master-react-optimization-technique-4d2b)
+- [Reactotron: debugging tool for React &amp; React Native](https://dev.to/paulocappa/reactotron-debugging-tool-for-react-react-native-p0b)
+- [SSH Into Raspberry Pi with Tailscale VPN](https://dev.to/shilleh/ssh-into-raspberry-pi-with-tailscale-vpn-5625)
+- [How to create your logging system using SLF4J](https://dev.to/c4rlosmonteiro/how-to-create-your-logging-system-using-slf4j-42o6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
