@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Next.js: Part 7 - Internationalization and Localization](https://dev.to/dipakahirav/getting-started-with-nextjs-part-7-internationalization-and-localization-19ok)
-- [Day 2: AWS Fundamentals](https://dev.to/dipakahirav/day-2-aws-fundamentals-4ap6)
-- [Streamlining Your Workflow with Git Hooks and Automation – Part 5](https://dev.to/dipakahirav/streamlining-your-workflow-with-git-hooks-and-automation-part-5-23ip)
-- [The Importance of Continuous Testing in Software Development](https://dev.to/ray_parker01/the-importance-of-continuous-testing-in-software-development-3f0l)
-- [Day 6: Advanced React Concepts](https://dev.to/dipakahirav/day-6-advanced-react-concepts-4co4)
+- [Stepping into Ubuntu Linux: A VirtualBox Installation Guide.](https://dev.to/pascalpedro/stepping-into-ubuntu-linux-a-virtualbox-installation-guide-2h4m)
+- [All about OpenNotas - What is it?](https://dev.to/hoaitx/all-about-opennotas-what-is-it-1ojo)
+- [Difference between GraphQL, REST, and gRPC](https://dev.to/somadevtoo/difference-between-graphql-rest-and-grpc-58bl)
+- [Rio: WebApps in pure Python. No JavaScript, HTML and CSS needed!](https://dev.to/sn3llius/rio-webapps-in-pure-python-no-javascript-html-and-css-needed-hhh)
+- [Truthy and Falsy Values](https://dev.to/gomigoku/truthy-and-falsy-values-l3g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
