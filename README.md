@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding JWT: Basics of Authentication and Algorithms](https://dev.to/sotergreco/understanding-jwt-basics-of-authentication-and-algorithms-37k2)
-- [React Styling: Navigating CSS Specificity and Precedence](https://dev.to/dcs_ink/react-styling-navigating-css-specificity-and-precedence-50oe)
-- [Open Interpreter Quick Setup Guide](https://dev.to/dcs_ink/open-interpreter-quick-setup-guide-1jgh)
-- [Choosing the right tools for the job](https://dev.to/ahegaoburger/choosing-the-right-tools-for-the-job-4g5m)
-- [I love both, but i can&#39;t choose](https://dev.to/mohamadc21/i-love-both-but-i-cant-choose-27lc)
+- [Advanced Database Design with PostgreSQL](https://dev.to/kartikmehta8/advanced-database-design-with-postgresql-50ia)
+- [Making Shared ESLint, Prettier Config Files](https://dev.to/solleedata/making-shared-eslint-prettier-config-files-fdi)
+- [Enabling Rails 7.0&#39;s New Framework Defaults](https://dev.to/hassanahmed/enabling-rails-70s-new-framework-defaults-hkb)
+- [Symfony Station Communiqué - 17 May 2024: A look at Symfony, Drupal, PHP, Cybersec, and Fediverse News!](https://dev.to/reubenwalker64/symfony-station-communique-17-may-2024-a-look-at-symfony-drupal-php-cybersec-and-fediverse-news-o9a)
+- [Building better softwares: The power of building effective abstraction](https://dev.to/raffaeleloi/building-better-softwares-the-power-of-building-effective-abstraction-3de4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
