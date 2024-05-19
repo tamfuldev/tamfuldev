@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Self Review&lpar;2023&rpar; &amp; New Challenge](https://dev.to/yangbongsoo/self-review2023-new-challenge-2f06)
-- [What do you think about my website?](https://dev.to/bizmavenhub/what-do-you-think-about-this-website-54aj)
-- [Construyendo un Monorepo en Typescript utilizando pnpm](https://dev.to/enolcasielles/construyendo-un-monorepo-en-typescript-utilizando-pnpm-2144)
-- [Designing for Code: Bridging the Gap Between Designers and Developers](https://dev.to/shieldstring/designing-for-code-bridging-the-gap-between-designers-and-developers-2ag8)
-- [Solving a Leetcode problem daily — Day 12 | 347. Top K frequent elements](https://dev.to/subhradeep__saha/solving-a-leetcode-problem-daily-day-12-347-top-k-frequent-elements-2i7h)
+- [Thinking of how we should follow AI.](https://dev.to/ugo/thinking-of-how-we-should-follow-ai-3e19)
+- [How to fix &#39;process&#39; is not defined &lpar;React+Vite&rpar;](https://dev.to/navinduabhishek/how-to-fix-process-is-not-defined-reactvite-1nn4)
+- [Langchain: Data Protection](https://dev.to/rutamstwt/langchain-data-protection-op9)
+- [Python &quot;argparse&quot; library](https://dev.to/nadun96/python-argparse-library-2c1c)
+- [The Evolution of .NET, C#, and the CLR](https://dev.to/ipazooki/the-evolution-of-net-c-and-the-clr-3p8h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
