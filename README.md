@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Next.js: Part 7 - Internationalization and Localization](https://dev.to/dipakahirav/getting-started-with-nextjs-part-7-internationalization-and-localization-19ok)
+- [Day 2: AWS Fundamentals](https://dev.to/dipakahirav/day-2-aws-fundamentals-4ap6)
+- [Streamlining Your Workflow with Git Hooks and Automation – Part 5](https://dev.to/dipakahirav/streamlining-your-workflow-with-git-hooks-and-automation-part-5-23ip)
+- [The Importance of Continuous Testing in Software Development](https://dev.to/ray_parker01/the-importance-of-continuous-testing-in-software-development-3f0l)
 - [Day 6: Advanced React Concepts](https://dev.to/dipakahirav/day-6-advanced-react-concepts-4co4)
-- [Let&#39;s dive into the magical world of React 19 – the latest version of React JS. 🚀✨](https://dev.to/dharamgfx/lets-dive-into-the-magical-world-of-react-19-the-latest-version-of-react-js-g0j)
-- [Lights, Camera, Encode](https://dev.to/ishar19/lights-camera-encode-3mc3)
-- [8 Gmail Hacks that you shouldn&#39;t miss](https://dev.to/sagorbro005/8-gmail-hacks-that-you-shouldnt-miss-3a31)
-- [Understanding immutability for beginners in React](https://dev.to/jamescroissant/understanding-immutability-for-beginners-in-react-346p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
