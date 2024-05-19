@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Apache Hudi on AWS Glue](https://dev.to/sagarlakshmipathy/apache-hudi-on-aws-glue-450l)
+- [I built a free, open-source project manager that helps teams keep costs under $15/month.](https://dev.to/hudy9x/i-built-a-free-open-source-project-manager-that-helps-teams-keep-costs-under-15month-3pmk)
+- [Navigating the Clouds: A Comprehensive Guide to Modern Cloud Infrastructures](https://dev.to/markyu/navigating-the-clouds-a-comprehensive-guide-to-modern-cloud-infrastructures-35b5)
+- [Setting Up MySQL Database in Python](https://dev.to/sachingeek/setting-up-mysql-database-in-python-5c5p)
 - [Cómo desplegar y monitorear aplicaciones web en Azure con Terraform: Guía paso a paso](https://dev.to/danieljsaldana/como-desplegar-y-monitorear-aplicaciones-web-en-azure-con-terraform-guia-paso-a-paso-22b8)
-- [Setting Up and Managing Android Emulators on macOS with Homebrew](https://dev.to/mochafreddo/setting-up-and-managing-android-emulators-on-macos-with-homebrew-3fg0)
-- [Testing Pyramid](https://dev.to/st1p3kolovrat/testing-pyramid-2bj0)
-- [Spring Boot vs. Quarkus vs. Micronaut: The Best Java Frameworks for Modern Development](https://dev.to/nikhilxd/spring-boot-vs-quarkus-vs-micronaut-the-best-java-frameworks-for-modern-development-5ccd)
-- [How to leverage Jest in your JavaScript codebase: A guide to Snapshot Testing](https://dev.to/devmirx/how-to-leverage-jest-in-your-javascript-codebase-a-guide-to-snapshot-testing-p5k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
