@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [测试一下买车记录](https://dev.to/mcxen/ce-shi-xia-mai-che-ji-lu-5dle)
+- [Introducing Bag 1.0: Immutable Values Objects for PHP](https://dev.to/dshafik/introducing-bag-immutable-values-objects-for-php-gmj)
+- [MySQL to BigQuery Migration &lpar;Syntax &amp; Other Conversions&rpar;](https://dev.to/charlottetowell/mysql-to-bigquery-migration-syntax-other-conversions-5bb)
 - [Create your Biography Web Page with AWS Amplify Gen 2](https://dev.to/alejandro_castaneda/create-your-biography-web-page-with-aws-amplify-gen-2-41d8)
 - [Rust](https://dev.to/zhangwuji/rust-cmh)
-- [Kiwi Compiler](https://dev.to/jmorla/kiwi-compiler-2h0h)
-- [AWS Cloud Cost Optimization](https://dev.to/sengarashu/aws-cloud-cost-optimization-427c)
-- [How to Hide the X-Powered-By Header in NestJS](https://dev.to/suzuki0430/how-to-hide-the-x-powered-by-header-in-nestjs-4gbc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
