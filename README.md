@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Different Perspective of Stack Memory in .NET](https://dev.to/rasulhsn/a-different-perspective-of-stack-memory-in-net-33oc)
-- [Quickly Communicate Your Entire Codebase to Any LLM with This VS Code Extension](https://dev.to/jojomondag/quickly-communicate-your-entire-codebase-to-any-llm-with-this-vs-code-extension-3i39)
-- [Elements or something](https://dev.to/simongreennet/elements-or-something-2bl0)
-- [Getting started with Bun: A beginners guide](https://dev.to/growwwithtalha/getting-started-with-bun-a-beginners-guide-m3d)
-- [Como exportar um CSV com dados dos meus posts no DEV.to usando sua API](https://dev.to/msc2020/como-exportar-um-csv-com-dados-dos-meus-posts-no-devto-usando-sua-api-2ckm)
+- [Cómo desplegar y monitorear aplicaciones web en Azure con Terraform: Guía paso a paso](https://dev.to/danieljsaldana/como-desplegar-y-monitorear-aplicaciones-web-en-azure-con-terraform-guia-paso-a-paso-22b8)
+- [Setting Up and Managing Android Emulators on macOS with Homebrew](https://dev.to/mochafreddo/setting-up-and-managing-android-emulators-on-macos-with-homebrew-3fg0)
+- [Testing Pyramid](https://dev.to/st1p3kolovrat/testing-pyramid-2bj0)
+- [Spring Boot vs. Quarkus vs. Micronaut: The Best Java Frameworks for Modern Development](https://dev.to/nikhilxd/spring-boot-vs-quarkus-vs-micronaut-the-best-java-frameworks-for-modern-development-5ccd)
+- [How to leverage Jest in your JavaScript codebase: A guide to Snapshot Testing](https://dev.to/devmirx/how-to-leverage-jest-in-your-javascript-codebase-a-guide-to-snapshot-testing-p5k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
