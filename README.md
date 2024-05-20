@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Rails Designer v0.12.0 released. New utilities category 💖](https://dev.to/railsdesigner/rails-designer-v0120-released-new-utilities-category-4gmd)
-- [Working with JsonObject, JsonNode, JsonValue and JsonArray [System.Text.Json API]](https://dev.to/vparab/working-with-jsonobject-jsonnode-jsonvalue-and-jsonarray-systemtextjson-api-5b8l)
-- [Decomposition.](https://dev.to/robinkiplangat/decomposition-346f)
-- [💖 Write Future-Compatible PHP Code with Symfony Polyfills](https://dev.to/ionbazan/write-future-compatible-php-code-with-symfony-polyfills-380b)
-- [Why I Decided to Leave Frontend Frameworks Behind](https://dev.to/sotergreco/why-i-decided-to-leave-frontend-frameworks-behind-268g)
+- [JavaScript Functions Dumbed down](https://dev.to/jahkamso/javascript-functions-dumbed-down-4h5e)
+- [Highly effective Cornell Notes with Obsidian](https://dev.to/sanathks/highly-effective-cornell-notes-with-obsidian-6le)
+- [Create a Simple React JS Workflow App From Scratch – Your Ultimate Guide](https://dev.to/optimajet/create-a-simple-net-reactjs-workflow-app-from-scratch-your-ultimate-guide-part-2-4fia)
+- [How to create a TODO with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/how-to-create-a-todo-with-tailwind-css-and-javascript-2b9o)
+- [Create a Simple .NET Workflow App From Scratch – Your Ultimate Guide](https://dev.to/optimajetlimited/create-a-simplenet-reactjs-workflow-app-from-scratch-your-ultimate-guide-part-1-2ghk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
