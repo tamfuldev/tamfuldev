@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Functions Dumbed down](https://dev.to/jahkamso/javascript-functions-dumbed-down-4h5e)
-- [Highly effective Cornell Notes with Obsidian](https://dev.to/sanathks/highly-effective-cornell-notes-with-obsidian-6le)
-- [Create a Simple React JS Workflow App From Scratch – Your Ultimate Guide](https://dev.to/optimajet/create-a-simple-net-reactjs-workflow-app-from-scratch-your-ultimate-guide-part-2-4fia)
-- [How to create a TODO with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/how-to-create-a-todo-with-tailwind-css-and-javascript-2b9o)
-- [Create a Simple .NET Workflow App From Scratch – Your Ultimate Guide](https://dev.to/optimajetlimited/create-a-simplenet-reactjs-workflow-app-from-scratch-your-ultimate-guide-part-1-2ghk)
+- [I am suitable for the job but unsure why I can&#39;t get it! 😕](https://dev.to/github20k/i-am-suitable-for-the-job-but-unsure-why-i-cant-get-it-5eg4)
+- [Enhancing Mobile Apps with Effective Widget Development](https://dev.to/cygnismedia/enhancing-mobile-apps-with-effective-widget-development-128o)
+- [How I Created a Simple Weather Web App Using RapidAPI, HTML, CSS, and JS: A Step-by-Step Guide in VS CODE](https://dev.to/shauryaafk/how-i-created-a-simple-weather-web-app-using-rapidapi-html-css-and-js-a-step-by-step-guide-in-vs-code-2bk)
+- [CMPPreference - Compose Multiplatform](https://dev.to/mobileinnovation/cmppreference-compose-multiplatform-1jbf)
+- [[Docker] How to fix &#39;host not found in upstream &quot;host.docker.internal&quot;&#39;.](https://dev.to/fmtweisszwerg/docker-how-to-fix-host-not-found-in-upstream-hostdockerinternal-37od)
 <!-- BLOG-POST-LIST:END -->
 
 ---
