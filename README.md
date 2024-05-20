@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The best domain name generators on the web](https://dev.to/diogocapela/the-best-domain-name-generators-on-the-web-4a4o)
-- [rust2](https://dev.to/zhangwuji/rust2-1ph7)
-- [Balanced Trees - The Experience](https://dev.to/nidheeshmvakharia/balanced-trees-the-experience-1559)
-- [Demystifying Regex in Go](https://dev.to/cherrypick14/demystifying-regex-in-go-4clf)
-- [Phase-1 Project](https://dev.to/silasgebhart/phase-1-project-131f)
+- [How to integrate LiFi Widget on your NextJS app](https://dev.to/elishaokon13/how-to-integrate-lifi-widget-on-your-nextjs-app-5109)
+- [Rename all files and directories in the current folder](https://dev.to/alexander6/rename-all-files-and-directories-in-the-current-folder-1l41)
+- [Factory Design Pattern](https://dev.to/nabim777/factory-design-pattern-4n5j)
+- [GSM8K Will Make AI Hate Humanity](https://dev.to/panasenco/gsm8k-will-make-ai-hate-humanity-o9i)
+- [Enhancing LLMs through RAG Knowledge Integration](https://dev.to/asmisalan/enhancing-llms-through-rag-knowledge-integration-35e2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
