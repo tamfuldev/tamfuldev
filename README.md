@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Effective Strategies for Searching Stored Procedures in Oracle](https://dev.to/luca1iu/effective-strategies-for-searching-stored-procedures-in-oracle-p3m)
-- [Let&#39;s Talk About Power Platform Pipelines](https://dev.to/wyattdave/lets-talk-about-power-platform-pipelines-36e4)
-- [Pathfinding Algorithms Part 1](https://dev.to/excaliburjs/pathfinding-algorithms-part-1-55jk)
-- [Understanding set orientation from the comparison between SQL and Java, and what are the advantages of SQL over Java?](https://dev.to/esproc_spl/understanding-set-orientation-from-the-comparison-between-sql-and-java-and-what-are-the-advantages-of-sql-over-java-1oig)
-- [Union and intersection type in Typescript](https://dev.to/anikdebnath/union-and-intersection-type-in-typescript-5481)
+- [Quick Guide to PostgreSQL&#39;s MVCC](https://dev.to/dbvismarketing/quick-guide-to-postgresqls-mvcc-212j)
+- [Prompt Fuzzer: how to keep your agents on the right path](https://dev.to/giuliano1993/prompt-fuzzer-how-to-keep-your-agents-on-the-right-path-fc2)
+- [Understanding Error Boundaries in React: A Beginner’s Guide](https://dev.to/niketanwadaskar/understanding-error-boundaries-in-react-a-beginners-guide-4pg8)
+- [What&#39;s New in Angular 18: Key Features and Updates](https://dev.to/jaypansuriya/whats-new-in-angular-18-key-features-and-updates-f1d)
+- [Adorn Your Wrist with the Splendor of Moonphase Watches](https://dev.to/nehajangid9087/adorn-your-wrist-with-the-splendor-of-moonphase-watches-27oj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
