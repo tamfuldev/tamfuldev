@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating Expo 📲🫠](https://dev.to/jjuarez5/navigating-expo-5h7l)
-- [Understanding Kotlin’s Any, Unit, Nothing](https://dev.to/khushpanchal123/understanding-kotlins-any-unit-nothing-25hp)
-- [Transformation of Mobile App Designing](https://dev.to/pepper_square/transformation-of-mobile-app-designing-5670)
-- [# Animated Login and Registration Forms with HTML, CSS, and JavaScript 🌟](https://dev.to/dipakahirav/-animated-login-and-registration-forms-with-html-css-and-javascript-d35)
-- [Linking Git with GitHub and Android Studio: A Step-by-Step Guide](https://dev.to/tahirhassan23/linking-git-with-github-and-android-studio-a-step-by-step-guide-1pd0)
+- [Effective Strategies for Searching Stored Procedures in Oracle](https://dev.to/luca1iu/effective-strategies-for-searching-stored-procedures-in-oracle-p3m)
+- [Let&#39;s Talk About Power Platform Pipelines](https://dev.to/wyattdave/lets-talk-about-power-platform-pipelines-36e4)
+- [Pathfinding Algorithms Part 1](https://dev.to/excaliburjs/pathfinding-algorithms-part-1-55jk)
+- [Understanding set orientation from the comparison between SQL and Java, and what are the advantages of SQL over Java?](https://dev.to/esproc_spl/understanding-set-orientation-from-the-comparison-between-sql-and-java-and-what-are-the-advantages-of-sql-over-java-1oig)
+- [Union and intersection type in Typescript](https://dev.to/anikdebnath/union-and-intersection-type-in-typescript-5481)
 <!-- BLOG-POST-LIST:END -->
 
 ---
