@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Terratest vs Terraform/OpenTofu Test: In-Depth Comparison](https://dev.to/env0/terratest-vs-terraformopentofu-test-in-depth-comparison-10le)
-- [Why Digital Ocean and Cloudways Are the Best Choices for Hosting WordPress, AI, and SaaS Application?](https://dev.to/asadravian/which-is-best-cloud-hosting-get-discount-code-308d)
-- [Navigating the New Frontier AI Role in Shaping Government Policies and Services](https://dev.to/asadravian/navigating-the-new-frontier-ai-role-in-shaping-government-policies-and-services-mgp)
-- [Introducing Stalactite ORM](https://dev.to/codefilarete/introducing-stalactite-orm-2n65)
-- [Starting with React](https://dev.to/abhimanyu_naikare/starting-with-react-hi2)
+- [Setting up a standalone SQLAlchemy 2.0 ORM application](https://dev.to/devsnorte/setting-up-a-standalone-sqlalchemy-20-orm-application-298c)
+- [GenAI: Using Amazon Bedrock, API Gateway, Lambda and S3](https://dev.to/aws-builders/genai-using-amazon-bedrock-api-gateway-lambda-and-s3-j6e)
+- [Install Ubuntu 20.04 on Virtualbox on Ubuntu 20.04](https://dev.to/nullity/install-ubuntu-2004-on-virtualbox-on-ubuntu-2004-pck)
+- [Is the tech interview process broken? 🚨](https://dev.to/huseyn0w/is-the-tech-interview-process-broken-68e)
+- [Why Choose .NET Development in 2024](https://dev.to/whotarusharora/why-choose-net-development-in-2024-28g3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
