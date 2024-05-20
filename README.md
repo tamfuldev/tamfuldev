@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Configuring VSCodeVim](https://dev.to/ritek/configuring-vscodevim-54l9)
-- [I&#39;m a complete newbie but I need some help please!](https://dev.to/ryan_yuan_a6ffd8d890bd4f9/im-a-complete-newbie-but-i-need-some-help-please-2mo4)
-- [LeetCode Meditations: Combination Sum](https://dev.to/rivea0/leetcode-meditations-combination-sum-28ll)
-- [Dev: Full-Stack](https://dev.to/r4nd3l/dev-full-stack-lgi)
-- [Jaspersoft Studio: Using a new font in the report](https://dev.to/chanyayun/jaspersoft-studio-using-a-new-font-in-the-report-45h0)
+- [The best domain name generators on the web](https://dev.to/diogocapela/the-best-domain-name-generators-on-the-web-4a4o)
+- [rust2](https://dev.to/zhangwuji/rust2-1ph7)
+- [Balanced Trees - The Experience](https://dev.to/nidheeshmvakharia/balanced-trees-the-experience-1559)
+- [Demystifying Regex in Go](https://dev.to/cherrypick14/demystifying-regex-in-go-4clf)
+- [Phase-1 Project](https://dev.to/silasgebhart/phase-1-project-131f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
