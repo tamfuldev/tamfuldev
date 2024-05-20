@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Google Closed Testing Reject ~You need to think about how to get testers~](https://dev.to/zmsoft/google-closed-testing-reject-you-need-to-think-about-how-to-get-testers-36hj)
-- [Consult Bridge v1](https://dev.to/tdubs/consult-bridge-v1-57en)
-- [Artificial Intelligence is not as bad as you think, you&#39;re just not reading allat](https://dev.to/tpacce/artificial-intelligence-is-not-as-bad-as-you-think-youre-just-not-reading-allat-44m)
-- [Tech Fun Facts: The Quirky Side of Technology](https://dev.to/jackrover/tech-fun-facts-the-quirky-side-of-technology-1d42)
-- [Step by step, use Ocelot as an API Gateway in the .NET Core.](https://dev.to/debug_mode/step-by-step-use-ocelot-as-an-api-gateway-in-the-net-core-47l7)
+- [Navigating Expo 📲🫠](https://dev.to/jjuarez5/navigating-expo-5h7l)
+- [Understanding Kotlin’s Any, Unit, Nothing](https://dev.to/khushpanchal123/understanding-kotlins-any-unit-nothing-25hp)
+- [Transformation of Mobile App Designing](https://dev.to/pepper_square/transformation-of-mobile-app-designing-5670)
+- [# Animated Login and Registration Forms with HTML, CSS, and JavaScript 🌟](https://dev.to/dipakahirav/-animated-login-and-registration-forms-with-html-css-and-javascript-d35)
+- [Linking Git with GitHub and Android Studio: A Step-by-Step Guide](https://dev.to/tahirhassan23/linking-git-with-github-and-android-studio-a-step-by-step-guide-1pd0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
