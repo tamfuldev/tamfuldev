@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Scratch: OIDC Providers](https://dev.to/aws-builders/from-scratch-oidc-providers-252d)
-- [Best 8 Free and Paid Database Design Tools](https://dev.to/devartteam/best-8-free-and-paid-database-design-tools-2dif)
-- [Python Security Essentials for Your Apps](https://dev.to/sharony/python-security-essentials-for-your-apps-1810)
-- [How to automate tests with Tekton](https://dev.to/woovi/how-to-automate-tests-with-tekton-3caj)
-- [Best Affiliate Programs for Beginners](https://dev.to/sakurak02128375/best-affiliate-programs-for-beginners-1k1g)
+- [Terratest vs Terraform/OpenTofu Test: In-Depth Comparison](https://dev.to/env0/terratest-vs-terraformopentofu-test-in-depth-comparison-10le)
+- [Why Digital Ocean and Cloudways Are the Best Choices for Hosting WordPress, AI, and SaaS Application?](https://dev.to/asadravian/which-is-best-cloud-hosting-get-discount-code-308d)
+- [Navigating the New Frontier AI Role in Shaping Government Policies and Services](https://dev.to/asadravian/navigating-the-new-frontier-ai-role-in-shaping-government-policies-and-services-mgp)
+- [Introducing Stalactite ORM](https://dev.to/codefilarete/introducing-stalactite-orm-2n65)
+- [Starting with React](https://dev.to/abhimanyu_naikare/starting-with-react-hi2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
