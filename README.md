@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [React native web view Google signin not working](https://dev.to/sneha_munnoli_056ae025c08/react-native-web-view-google-signin-not-working-2pgj)
-- [Sunucu ve Sunucu İşletim Sistemi Türleri](https://dev.to/teknikbilimler/sunucu-ve-sunucu-isletim-sistemi-turleri-pid)
-- [Simplifying Data Processing with Java Stream API](https://dev.to/tharindufdo/simplifying-data-processing-with-java-stream-api-20pe)
-- [Doc as code, personnaliser vos rendus pour répondre à vos contraintes ou à votre esprit créatif !](https://dev.to/onepoint/doc-as-code-personnaliser-vos-rendus-pour-repondre-a-vos-contraintes-ou-a-votre-esprit-creatif--52ef)
-- [mpip- python package manager](https://dev.to/tong_li_bb2930faa47a421b0/mpip-python-package-manager-3lcd)
+- [How to load env for Nuxt layers](https://dev.to/leamsigc/how-to-load-env-for-nuxt-layers-38g1)
+- [Classes variables early thoughts 🤔](https://dev.to/gaotter/classes-variables-early-thoughts-5h9l)
+- [Simplify Your Kubernetes Multi-Cluster Management: The Secret to Streamlined Add-on Deployments](https://dev.to/gianlucam76/centralized-add-on-management-across-n-kubernetes-clusters-308k)
+- [Cloud Run without VPC Serverless](https://dev.to/mkdev/cloud-run-without-vpc-serverless-3p5p)
+- [Flatlogic Announces Shift from Web Templates to AI-Powered Business Software](https://dev.to/flatlogic/flatlogic-announces-shift-from-web-templates-to-ai-powered-business-software-5ffi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
