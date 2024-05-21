@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Behind the scenes: How we implement user collaboration within a multi-tenant app](https://dev.to/logto/behind-the-scenes-how-we-implement-user-collaboration-within-a-multi-tenant-app-349f)
-- [Doing some prep work for my bootcamp...STUCK...HELP !!!](https://dev.to/kenny_hoyte_fb798a6e1196f/doing-some-prep-work-for-my-bootcampstuckhelp--29fo)
-- [LeetCode Meditations: Word Search](https://dev.to/rivea0/leetcode-meditations-word-search-3bcd)
-- [1863. Sum of All Subset XOR Totals](https://dev.to/karleb/1863-sum-of-all-subset-xor-totals-3hga)
-- [[Game of Purpose] - Day 2](https://dev.to/humberd/game-of-purpose-day-2-17o6)
+- [🚀Cara Mudah Ganti Akun Github di Windows](https://dev.to/ferryops/cara-mudah-ganti-akun-github-di-windows-3am0)
+- [JavaScript Animal Quiz Game](https://dev.to/petrinaropra/animal-quiz-game-3oom)
+- [Memory Management Every Web Developer Should Know](https://dev.to/zacharylee/memory-management-every-web-developer-should-know-2h0k)
+- [Using Panda in Python Programming Language](https://dev.to/emmanuelj/using-panda-in-python-programming-language-4ine)
+- [Five Must-Have Command Line Tools for Developers](https://dev.to/dshafik/five-must-have-command-line-tools-for-developers-1hl6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
