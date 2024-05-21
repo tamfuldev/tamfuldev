@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Master Targeted Communication in Microsoft 365](https://dev.to/jaloplo/master-targeted-communication-in-microsoft-365-525o)
-- [Quantum Computing: Shaping the Future of Problem Solving](https://dev.to/nikhilpandey12/quantum-computing-shaping-the-future-of-problem-solving-h5j)
-- [Exploring the Potential of Blockchain Beyond Cryptocurrencies](https://dev.to/nikhilpandey12/exploring-the-potential-of-blockchain-beyond-cryptocurrencies-d2e)
-- [The Future of Web Development: Embracing Progressive Web Apps &lpar;PWAs&rpar;](https://dev.to/nikhilpandey12/the-future-of-web-development-embracing-progressive-web-apps-pwas-1m1n)
-- [Upgrading Node.js via the terminal &lpar;NVM or brew&rpar;](https://dev.to/sh20raj/upgrading-nodejs-via-the-terminal-nvm-or-brew-220d)
+- [React native web view Google signin not working](https://dev.to/sneha_munnoli_056ae025c08/react-native-web-view-google-signin-not-working-2pgj)
+- [Sunucu ve Sunucu İşletim Sistemi Türleri](https://dev.to/teknikbilimler/sunucu-ve-sunucu-isletim-sistemi-turleri-pid)
+- [Simplifying Data Processing with Java Stream API](https://dev.to/tharindufdo/simplifying-data-processing-with-java-stream-api-20pe)
+- [Doc as code, personnaliser vos rendus pour répondre à vos contraintes ou à votre esprit créatif !](https://dev.to/onepoint/doc-as-code-personnaliser-vos-rendus-pour-repondre-a-vos-contraintes-ou-a-votre-esprit-creatif--52ef)
+- [mpip- python package manager](https://dev.to/tong_li_bb2930faa47a421b0/mpip-python-package-manager-3lcd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
