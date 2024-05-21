@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [3 small projects to help you build big applications.](https://dev.to/audreymengue/3-small-projects-to-help-you-build-big-applications-12p6)
-- [Git, &#39;it&#39;s not terminal&#39; and a trip down &lpar;some&rpar; memory lane.](https://dev.to/codecara/git-its-not-terminal-and-a-trip-down-some-memory-lane-732)
-- [How to use React Server Components components on Storybook 8](https://dev.to/heymarkkop/how-to-use-react-server-components-components-on-storybook-8-5ia)
-- [How to auto import Vue components](https://dev.to/yordan-ramchev/how-to-auto-import-vue-components-2o44)
-- [Transformación Digital en la Diócesis de Canarias: Un Nuevo Enfoque Religioso hacia los Juegos de Azar](https://dev.to/jos_fernando_e09ce1d37e6/transformacion-digital-en-la-diocesis-de-canarias-un-nuevo-enfoque-religioso-hacia-los-juegos-de-azar-2122)
+- [Why Stake&#39;s mines is nearly IMPOSSIBLE TO WIN?](https://dev.to/vaib215/why-stakes-mines-is-nearly-impossible-to-win-i9n)
+- [getRegistryIndex&lpar;&rpar; function in shadcn-ui/ui source code.](https://dev.to/ramunarasinga/getregistryindex-function-in-shadcn-uiui-source-code-1dnp)
+- [10+ Free Tailwind CSS Templates](https://dev.to/mikevarenek/10-free-tailwind-css-templates-32f7)
+- [Dev: Mobile App](https://dev.to/r4nd3l/dev-mobile-app-be6)
+- [Better Performance in C#](https://dev.to/mrgolabvand/better-performance-in-c-2kc0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
