@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Specification-Based Testing: Devise test cases](https://dev.to/tiuwill/specification-based-testing-devise-test-cases-2lcp)
-- [[Discussão] - Como você implementa suas apis ?](https://dev.to/devxbr/discussao-como-voce-implementa-suas-apis--2cml)
-- [How to Add Multiplayer to Your Discord Activity](https://dev.to/waveplay/how-to-add-multiplayer-to-your-discord-activity-lo1)
-- [The role of CI/CD interoperability in Developer Experience](https://dev.to/jerdog/the-role-of-cicd-interoperability-in-developer-experience-26dl)
-- [Streamlining your Developer Experience through CI/CD standardization](https://dev.to/jerdog/streamlining-your-developer-experience-through-cicd-standardization-54ab)
+- [3 small projects to help you build big applications.](https://dev.to/audreymengue/3-small-projects-to-help-you-build-big-applications-12p6)
+- [Git, &#39;it&#39;s not terminal&#39; and a trip down &lpar;some&rpar; memory lane.](https://dev.to/codecara/git-its-not-terminal-and-a-trip-down-some-memory-lane-732)
+- [How to use React Server Components components on Storybook 8](https://dev.to/heymarkkop/how-to-use-react-server-components-components-on-storybook-8-5ia)
+- [How to auto import Vue components](https://dev.to/yordan-ramchev/how-to-auto-import-vue-components-2o44)
+- [Transformación Digital en la Diócesis de Canarias: Un Nuevo Enfoque Religioso hacia los Juegos de Azar](https://dev.to/jos_fernando_e09ce1d37e6/transformacion-digital-en-la-diocesis-de-canarias-un-nuevo-enfoque-religioso-hacia-los-juegos-de-azar-2122)
 <!-- BLOG-POST-LIST:END -->
 
 ---
