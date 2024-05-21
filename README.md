@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Svelte Series-2: How to install Svelte](https://dev.to/frost_gary_90f3cf1699bd02/svelte-series-2-how-to-install-svelte-pe5)
-- [Google Cloud Build + personal GitHub repos?](https://dev.to/dchaley/google-cloud-build-personal-github-repos-4j6a)
-- [FridgeBot — GPT-4o shopping list automation](https://dev.to/saubury/fridgebot-gpt-4o-shopping-list-automation-98d)
-- [Programação Orientada a Objetos e Programação Funcional](https://dev.to/7felipebs/programacao-orientada-a-objetos-e-programacao-funcional-28b2)
-- [Substituindo o Redis pelo Valkey em projetos PHP/Hyperf](https://dev.to/jonas-elias/substituindo-o-redis-pelo-valkey-em-projetos-phphyperf-3lh0)
+- [A Command line memorable password generator. Now in Python.](https://dev.to/msanders5/a-command-line-memorable-password-generator-now-in-python-kcj)
+- [Call C binary from javascript WITHOUT process.exec](https://dev.to/amythical/call-c-binary-from-javascript-without-processexec-4251)
+- [A way to configure an asp.net core site](https://dev.to/sltech/a-way-to-configure-an-aspnet-core-site-45ol)
+- [dlt adds Reverse ETL - build a custom destination in minutes](https://dev.to/dataman/dlt-adds-reverse-etl-build-a-custom-destination-in-minutes-ngd)
+- [A New Redis Sync Tool](https://dev.to/kenanan/a-new-redis-sync-tool-3hc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
