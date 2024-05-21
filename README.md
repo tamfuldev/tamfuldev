@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Behind the scenes: How we implement user collaboration within a multi-tenant app](https://dev.to/logto/behind-the-scenes-how-we-implement-user-collaboration-within-a-multi-tenant-app-349f)
+- [Doing some prep work for my bootcamp...STUCK...HELP !!!](https://dev.to/kenny_hoyte_fb798a6e1196f/doing-some-prep-work-for-my-bootcampstuckhelp--29fo)
+- [LeetCode Meditations: Word Search](https://dev.to/rivea0/leetcode-meditations-word-search-3bcd)
 - [1863. Sum of All Subset XOR Totals](https://dev.to/karleb/1863-sum-of-all-subset-xor-totals-3hga)
 - [[Game of Purpose] - Day 2](https://dev.to/humberd/game-of-purpose-day-2-17o6)
-- [Monorepo architecture in shadcn-ui/ui.](https://dev.to/ramunarasinga/monorepo-architecture-in-shadcn-uiui-6n2)
-- [Good practices that make a difference #1](https://dev.to/superp0sit1on/small-good-practices-that-make-a-difference-part-1-584)
-- [Boas práticas que fazem a diferença #1](https://dev.to/superp0sit1on/pequenas-boas-praticas-que-fazem-a-diferenca-parte-1-24ka)
 <!-- BLOG-POST-LIST:END -->
 
 ---
