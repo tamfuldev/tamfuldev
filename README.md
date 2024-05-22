@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Design Patterns in Ruby | ADAPTER](https://dev.to/rubyhub/design-patterns-in-ruby-adapter-3a49)
-- [Django vs Django REST Framework: ¿Cuál es la diferencia? 🤔](https://dev.to/jlmunozfdev_86/django-vs-django-rest-framework-cual-es-la-diferencia-4ia6)
-- [Caching in Next.js with unstable_cache](https://dev.to/logrocket/caching-in-nextjs-with-unstablecache-4j0j)
-- [Discovering Ethereum ETFs from a Developer’s Lens](https://dev.to/luisrpavanelli/discovering-ethereum-etfs-from-a-developers-lens-3d9p)
-- [Enhancing Software Architecture through Comprehensive Testing in Backend Development](https://dev.to/kfir-g/enhancing-software-architecture-through-comprehensive-testing-in-backend-development-4bn2)
+- [10 Useful Tips for Getting the Most Out of Godot](https://dev.to/hayyanstudio/10-useful-tips-for-getting-the-most-out-of-godot-4454)
+- [Troubleshooting “The File Does Not Have an App Associated with It” Error in Visual Studio](https://dev.to/shekhartarare/troubleshooting-the-file-does-not-have-an-app-associated-with-it-error-in-visual-studio-5eib)
+- [JWT vs PASETO: New Era of Token-Based Authentication](https://dev.to/permify/jwt-vs-paseto-new-era-of-token-based-authentication-4hi)
+- [Top Headless CMS 2024](https://dev.to/usulpro/top-headless-cms-2024-4k4l)
+- [In-depth Analysis of JavaScript Memory Model and Lifecycle](https://dev.to/markyu/in-depth-analysis-of-javascript-memory-model-and-lifecycle-2o55)
 <!-- BLOG-POST-LIST:END -->
 
 ---
