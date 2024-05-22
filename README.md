@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL to NATS Streaming](https://dev.to/levla/postgresql-to-nats-streaming-1o4f)
-- [Automate binary execution at Startup with BASH](https://dev.to/christianpaez/automate-binary-execution-at-startup-with-bash-8pe)
-- [A Lambo - LibSQL Native Extension/Driver/Whatever](https://dev.to/darkterminal/a-lambo-libsql-native-extensiondriverwhatever-2nbc)
-- [Understanding RSA Algorithm](https://dev.to/lordsonsilver/understanding-rsa-algorithm-4g3k)
-- [View transtions API in next.js](https://dev.to/mike_vanoosthuyze_e0489db/view-transtions-api-in-nextjs-3l8e)
+- [Understanding Git Tags: An Essential Tool for Version Control](https://dev.to/mrdanishsaleem/understanding-git-tags-an-essential-tool-for-version-control-3jdc)
+- [How to Integrate a Shipping API: A Step-by-Step Guide for Developers](https://dev.to/ericksmith14/how-to-integrate-a-shipping-api-a-step-by-step-guide-for-developers-4e7g)
+- [Symfony App Config in 2 steps](https://dev.to/yceruto/symfony-app-config-in-2-steps-26dl)
+- [Der Settings Ordner - django in Produktion Teil 4](https://dev.to/rubenvoss/der-settings-ordner-django-in-produktion-teil-4-40e0)
+- [Express vs Nest](https://dev.to/mlodovico/express-vs-nest-4b0k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
