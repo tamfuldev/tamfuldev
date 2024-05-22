@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Start &amp; Setup a React project in 2024 &lpar;7 Different Ways Based on Use Cases&rpar;](https://dev.to/syakirurahman/how-to-start-setup-a-react-project-in-2024-7-different-ways-based-on-use-cases-8b6)
-- [Svelte Series-4: Two-Way Binding](https://dev.to/frost_gary_90f3cf1699bd02/svelte-series-4-two-way-binding-4e9h)
-- [Svelte Series-3: How to Update Data and Use Event Listeners](https://dev.to/frost_gary_90f3cf1699bd02/svelte-series-3-how-to-update-data-and-use-event-listeners-1blb)
-- [F# For Dummys - Day 11 Data Structure Tuple](https://dev.to/pythonzhu/f-for-dummys-day-11-data-structure-tuple-8cd)
-- [HOW TO DECODE JWT TOKEN USING REACTJS](https://dev.to/antony_raj_136505eb3f405b/how-to-decode-jwt-token-using-reactjs-2d4)
+- [Design Patterns in Ruby | ADAPTER](https://dev.to/rubyhub/design-patterns-in-ruby-adapter-3a49)
+- [Django vs Django REST Framework: ¿Cuál es la diferencia? 🤔](https://dev.to/jlmunozfdev_86/django-vs-django-rest-framework-cual-es-la-diferencia-4ia6)
+- [Caching in Next.js with unstable_cache](https://dev.to/logrocket/caching-in-nextjs-with-unstablecache-4j0j)
+- [Discovering Ethereum ETFs from a Developer’s Lens](https://dev.to/luisrpavanelli/discovering-ethereum-etfs-from-a-developers-lens-3d9p)
+- [Enhancing Software Architecture through Comprehensive Testing in Backend Development](https://dev.to/kfir-g/enhancing-software-architecture-through-comprehensive-testing-in-backend-development-4bn2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
