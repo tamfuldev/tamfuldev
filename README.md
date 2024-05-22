@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Discriminated Unions in TypeScript](https://dev.to/antonmartyniuk/mastering-discriminated-unions-in-typescript-2e01)
-- [Optimizing Costs in DevOps: Migrating a Kubernetes App from Amazon to Digital Ocean](https://dev.to/fively/optimizing-costs-in-devops-migrating-a-kubernetes-app-from-amazon-to-digital-ocean-3k90)
-- [Exploring the Flutter Technology Stack](https://dev.to/n968941/exploring-the-flutter-technology-stack-5hfh)
-- [How to Become a Famous Mobile App Developer in BitLife: Lady Luck Challenge Guide](https://dev.to/n968941/how-to-become-a-famous-mobile-app-developer-in-bitlife-lady-luck-challenge-guide-2ahp)
-- [Laravel Passport: API authentication with access and refresh token](https://dev.to/mahmudulhsn/laravel-passport-api-authentication-with-access-and-refresh-token-16d0)
+- [Dr. House — AI Diagnostician in your phone. Passing the Startup Torch to Capable Hands](https://dev.to/markparker5/dr-house-ai-diagnostician-in-your-phone-passing-the-startup-torch-to-capable-hands-13pf)
+- [Livro de Kafka Connect e Kafka Streams em Português](https://dev.to/rodrigovp/livro-de-kafka-connect-e-kafka-streams-em-portugues-p81)
+- [cancel request or abort token](https://dev.to/jamshdbek/cancel-request-or-abort-token-308o)
+- [How AI-Powered Web Development is Transforming the Industry in 2024](https://dev.to/delia_code/how-ai-powered-web-development-is-transforming-the-industry-in-2024-lpo)
+- [The Importance of Cadence, and the trade-offs you make.](https://dev.to/leehambley/the-importance-of-cadence-and-the-trade-offs-you-make-oc9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
