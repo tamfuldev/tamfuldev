@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From leaflet popup marker to photo gallery image and back](https://dev.to/trincadev/from-leaflet-popup-marker-to-photo-gallery-image-and-back-2f6k)
-- [Password Managers - The Future of Logins.](https://dev.to/swayam_248/password-managers-the-future-of-logins-5dkc)
-- [Entendendo o Amazon DynamoDB](https://dev.to/thiagoemidiocorrea/entendendo-o-amazon-dynamodb-mi2)
-- [Your Ticket to the Interview: Referrals](https://dev.to/devmarket/your-ticket-to-the-interview-referrals-5dp4)
-- [JavaScript – Rounding floating point numbers](https://dev.to/latz/javascript-rounding-floating-point-numbers-3a9c)
+- [Mastering the Art of Invisible Indexes in MySQL](https://dev.to/siddhantkcode/mastering-the-art-of-invisible-indexes-in-mysql-862)
+- [The shopping list](https://dev.to/shoeheyot/the-shopping-list-1j81)
+- [Rotate/Pusle Animation in React Native](https://dev.to/saumaypaul20/rotatepusle-animation-in-react-native-19n4)
+- [RESTFUL API](https://dev.to/dillybunn/restful-api-1nh)
+- [You should start creating a View in Supabase!!](https://dev.to/sushialii/you-should-start-creating-a-view-in-supabase-4ahj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
