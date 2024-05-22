@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering the Art of Invisible Indexes in MySQL](https://dev.to/siddhantkcode/mastering-the-art-of-invisible-indexes-in-mysql-862)
-- [The shopping list](https://dev.to/shoeheyot/the-shopping-list-1j81)
-- [Rotate/Pusle Animation in React Native](https://dev.to/saumaypaul20/rotatepusle-animation-in-react-native-19n4)
-- [RESTFUL API](https://dev.to/dillybunn/restful-api-1nh)
-- [You should start creating a View in Supabase!!](https://dev.to/sushialii/you-should-start-creating-a-view-in-supabase-4ahj)
+- [PostgreSQL to NATS Streaming](https://dev.to/levla/postgresql-to-nats-streaming-1o4f)
+- [Automate binary execution at Startup with BASH](https://dev.to/christianpaez/automate-binary-execution-at-startup-with-bash-8pe)
+- [A Lambo - LibSQL Native Extension/Driver/Whatever](https://dev.to/darkterminal/a-lambo-libsql-native-extensiondriverwhatever-2nbc)
+- [Understanding RSA Algorithm](https://dev.to/lordsonsilver/understanding-rsa-algorithm-4g3k)
+- [View transtions API in next.js](https://dev.to/mike_vanoosthuyze_e0489db/view-transtions-api-in-nextjs-3l8e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
