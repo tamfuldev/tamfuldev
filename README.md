@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to create a dark mode toggle with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/how-to-create-a-dark-mode-toggle-with-tailwind-css-and-javascript-1580)
-- [Exploring Flutter: A Comprehensive Overview](https://dev.to/n968941/exploring-flutter-a-comprehensive-overview-51o8)
-- [Reusable Table Component: Compound Component Pattern + Tailwind CSS](https://dev.to/devade/reusable-table-component-compound-component-pattern-tailwind-css-2eii)
-- [Building a BMI Calculator with Angular and Spring Boot](https://dev.to/fullstackjava/building-a-bmi-calculator-with-angular-and-spring-boot-4j51)
-- [Answer: H14 error in heroku - &quot;no web processes running&quot;](https://dev.to/maxangelo987/answer-h14-error-in-heroku-no-web-processes-running-4ja8)
+- [Mastering Discriminated Unions in TypeScript](https://dev.to/antonmartyniuk/mastering-discriminated-unions-in-typescript-2e01)
+- [Optimizing Costs in DevOps: Migrating a Kubernetes App from Amazon to Digital Ocean](https://dev.to/fively/optimizing-costs-in-devops-migrating-a-kubernetes-app-from-amazon-to-digital-ocean-3k90)
+- [Exploring the Flutter Technology Stack](https://dev.to/n968941/exploring-the-flutter-technology-stack-5hfh)
+- [How to Become a Famous Mobile App Developer in BitLife: Lady Luck Challenge Guide](https://dev.to/n968941/how-to-become-a-famous-mobile-app-developer-in-bitlife-lady-luck-challenge-guide-2ahp)
+- [Laravel Passport: API authentication with access and refresh token](https://dev.to/mahmudulhsn/laravel-passport-api-authentication-with-access-and-refresh-token-16d0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
