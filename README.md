@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Best C#/ .NET PDF Library 2024](https://dev.to/derek-compdf/best-c-net-pdf-library-2024-1kn4)
-- [Blade FR MMI](https://dev.to/hugodemont/blade-fr-mmi-2jip)
-- [Profile UI Design CSS](https://dev.to/aniketchugh/profile-ui-design-css-5edl)
-- [Reusable UI structure: Layouts 💱](https://dev.to/dvalin99/a-reusable-ui-structure-layouts-5eh5)
-- [Unlocking Vision: Evaluating LLMs for Home Security](https://dev.to/fr4ncis/unlocking-vision-evaluating-llms-for-home-security-2dmk)
+- [How to create a dark mode toggle with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/how-to-create-a-dark-mode-toggle-with-tailwind-css-and-javascript-1580)
+- [Exploring Flutter: A Comprehensive Overview](https://dev.to/n968941/exploring-flutter-a-comprehensive-overview-51o8)
+- [Reusable Table Component: Compound Component Pattern + Tailwind CSS](https://dev.to/devade/reusable-table-component-compound-component-pattern-tailwind-css-2eii)
+- [Building a BMI Calculator with Angular and Spring Boot](https://dev.to/fullstackjava/building-a-bmi-calculator-with-angular-and-spring-boot-4j51)
+- [Answer: H14 error in heroku - &quot;no web processes running&quot;](https://dev.to/maxangelo987/answer-h14-error-in-heroku-no-web-processes-running-4ja8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
