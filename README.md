@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Stake&#39;s mines is nearly IMPOSSIBLE TO WIN?](https://dev.to/vaib215/why-stakes-mines-is-nearly-impossible-to-win-i9n)
-- [getRegistryIndex&lpar;&rpar; function in shadcn-ui/ui source code.](https://dev.to/ramunarasinga/getregistryindex-function-in-shadcn-uiui-source-code-1dnp)
-- [10+ Free Tailwind CSS Templates](https://dev.to/mikevarenek/10-free-tailwind-css-templates-32f7)
-- [Dev: Mobile App](https://dev.to/r4nd3l/dev-mobile-app-be6)
-- [Better Performance in C#](https://dev.to/mrgolabvand/better-performance-in-c-2kc0)
+- [Game Development Diary #2](https://dev.to/oka/game-development-diary-2-3ime)
+- [Basic painting with Ruby: implementing a flood-fill algorithm with DragonRuby GTK](https://dev.to/megatux/basic-painting-with-ruby-implementing-a-flood-fill-algorithm-with-dragonruby-gtk-334k)
+- [Maintaining Session Data Across Page Redirects: A Comprehensive Guide](https://dev.to/saint_vandora/maintaining-session-data-across-page-redirects-a-comprehensive-guide-412h)
+- [Get more comfortable with IntersectionObserver 🚦👀](https://dev.to/mattlewandowski93/get-more-comfortable-with-intersectionobserver-3i8k)
+- [Welcome Thread - v277](https://dev.to/devteam/welcome-thread-v277-31ho)
 <!-- BLOG-POST-LIST:END -->
 
 ---
