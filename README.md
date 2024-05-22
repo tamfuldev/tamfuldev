@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Game Development Diary #2](https://dev.to/oka/game-development-diary-2-3ime)
-- [Basic painting with Ruby: implementing a flood-fill algorithm with DragonRuby GTK](https://dev.to/megatux/basic-painting-with-ruby-implementing-a-flood-fill-algorithm-with-dragonruby-gtk-334k)
-- [Maintaining Session Data Across Page Redirects: A Comprehensive Guide](https://dev.to/saint_vandora/maintaining-session-data-across-page-redirects-a-comprehensive-guide-412h)
-- [Get more comfortable with IntersectionObserver 🚦👀](https://dev.to/mattlewandowski93/get-more-comfortable-with-intersectionobserver-3i8k)
-- [Welcome Thread - v277](https://dev.to/devteam/welcome-thread-v277-31ho)
+- [JavaScript vs C#: A Comprehensive Comparison](https://dev.to/jtoromats/javascript-vs-c-a-comprehensive-comparison-1bin)
+- [Unveiling an Interactive Integration Experience for Faster Development](https://dev.to/paypaldeveloper/unveiling-an-interactive-integration-experience-for-faster-development-10cg)
+- [Boost Your DevOps Workflow with Traefik](https://dev.to/bansikah/boost-your-devops-workflow-with-traefik-30e2)
+- [Ransomware Defense: Comprehensive Guide to Data and System Safety](https://dev.to/jchristopher0033/ransomware-defense-comprehensive-guide-to-data-and-system-safety-5ei2)
+- [Developing Augmented Reality Apps with Unity and Vuforia](https://dev.to/kartikmehta8/developing-augmented-reality-apps-with-unity-and-vuforia-216e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
