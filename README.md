@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [React: Effective UI Practices](https://dev.to/gokulnathp/react-effective-ui-practices-478o)
-- [Creating Storage For Less Important Data On Azure With Simple Configuration Settings](https://dev.to/olaraph/creating-storage-for-less-important-data-on-azure-with-simple-configuration-settings-3b70)
-- [Mastering ChatGPT Prompts for Developers: A Comprehensive Guide](https://dev.to/dipakahirav/mastering-chatgpt-prompts-for-developers-a-comprehensive-guide-3pp9)
-- [Vulcan - Exposing Eclipse JDT Programmatically](https://dev.to/feroult/vulcan-exposing-eclipse-jdt-programmatically-109g)
-- [BFE.dev | 176. undefined to null](https://dev.to/npranto/bfedev-176-undefined-to-null-2fb8)
+- [Crafting a Developer&#39;s Digital Brain with Note-Taking](https://dev.to/dev3l/crafting-a-developers-digital-brain-with-note-taking-3ioa)
+- [Understanding Remote Procedure Calls and Protocol Buffers](https://dev.to/mochafreddo/understanding-remote-procedure-calls-and-protocol-buffers-150f)
+- [Integrate Kafka with a Serverless application](https://dev.to/aws-builders/integrate-kafka-with-a-serverless-application-2c9n)
+- [The Great Web Challenges](https://dev.to/itskunal/the-great-web-challenges-5bog)
+- [rust trait](https://dev.to/zhangwuji/rust-trait-4n1i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
