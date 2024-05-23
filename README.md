@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to create a Windows Virtual Machine using a QuickStart Templates](https://dev.to/atony07/how-to-create-a-windows-virtual-machine-using-a-quickstart-templates-3lj2)
-- [HTML Tags You Might Not Know About](https://dev.to/dev_kiran/html-tags-you-might-not-know-about-3gk7)
-- [Enhancing PHP Projects With SQL Server](https://dev.to/devartteam/enhancing-php-projects-with-sql-server-3la7)
-- [Deliver your Glitch site through Fastly](https://dev.to/glitch/deliver-your-glitch-site-through-fastly-2ga9)
-- [Introduction to Devin - The First AI Software Developer](https://dev.to/azubuikeduru/introduction-to-devin-the-first-ai-software-developer-59cm)
+- [Internal Developer Platform vs Internal Developer Portal](https://dev.to/shohams/internal-developer-platform-vs-internal-developer-portal-2ohf)
+- [everything-ai v2.0.0: more AI power on your Desktop](https://dev.to/astrabert/everything-ai-v200-more-ai-power-on-your-desktop-2k0b)
+- [&quot;🚀 Streamlining Kubernetes Deployment: Setting Up EKSCTL, Kubectl, and AWS CLI on Amazon Linux 2 🛠️&quot;](https://dev.to/aws-builders/-streamlining-kubernetes-deployment-setting-up-eksctl-kubectl-and-aws-cli-on-amazon-linux-2--1j16)
+- [Truncating Tables with Foreign Keys in Laravel](https://dev.to/rafaelogic/truncating-tables-with-foreign-keys-in-laravel-lac)
+- [Lazy Programmer&#39;s Guide to Automating Price Calculations](https://dev.to/jampamatos/lazy-programmers-guide-to-automating-price-calculations-4g93)
 <!-- BLOG-POST-LIST:END -->
 
 ---
