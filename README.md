@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Then let’s talk about discreteness, and what are the advantages of Java over SQL?](https://dev.to/esproc_spl/then-lets-talk-about-discreteness-and-what-are-the-advantages-of-java-over-sql-2113)
+- [Mhealth App Development: Steps and Trends in 2024](https://dev.to/dmytro_kharyna/mhealth-app-development-steps-and-trends-in-2024-54j2)
+- [My React Experience: From Zero to Hero &lpar;Well, Baby Hero&rpar;](https://dev.to/anshul_bhartiya_37e68ba7b/my-react-experience-from-zero-to-hero-well-baby-hero-3787)
+- [DeepCode: Your AI Assistant for Coding and Code Analysis](https://dev.to/okibayu/deepcode-your-ai-assistant-for-coding-and-code-analysis-3ecb)
 - [Tracking Celebrity Flights in Python!](https://dev.to/digitalizedsnake/tracking-celebrity-flights-in-python-1m86)
-- [Top 10 Trends in BDD Testing 2024](https://dev.to/ngocninh123/top-10-trends-in-bdd-testing-2024-2l30)
-- [Enhancing User Experience with a Bootstrap Range Slider](https://dev.to/okibayu/bootstrap-range-slider-1oi4)
-- [Sloan&#39;s Inbox: Any advice for avoiding burnout?](https://dev.to/devteam/sloans-inbox-ways-to-avoid-burnout-2k49)
-- [New Awwwards inspired portfolio](https://dev.to/hariprasd/new-awwwards-inspired-portfolio-1ipf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
