@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Numeric Data Types in SQL: A Comprehensive Guide](https://dev.to/kellyblaire/numeric-data-types-in-sql-a-comprehensive-guide-3338)
-- [Understanding RxJS: Cold and Hot Observables](https://dev.to/benarambide/understanding-rxjs-cold-and-hot-observables-1g7c)
-- [Mastering Character Data Types in SQL: A Comprehensive Guide](https://dev.to/kellyblaire/mastering-character-data-types-in-sql-a-comprehensive-guide-5984)
-- [Understanding SQL Data Types: A Comprehensive Guide with Examples](https://dev.to/kellyblaire/understanding-sql-data-types-a-comprehensive-guide-with-examples-56o3)
-- [🌟 La Importancia del Portafolio en el Mundo de la Programación 🚀](https://dev.to/yoezequiel/la-importancia-del-portafolio-en-el-mundo-de-la-programacion-24mc)
+- [react-dropzone with web worker](https://dev.to/lgtome/react-dropzone-with-web-worker-mh1)
+- [Qura AI: Revolutionizing Social Media Growth](https://dev.to/qura/qura-ai-revolutionizing-social-media-growth-4hge)
+- [Efficient Data Management with Prisma, Fly.io, and LiteFS Configuration](https://dev.to/femtowork/efficient-data-management-with-prisma-flyio-and-litefs-configuration-hjm)
+- [Mengatasi Masalah Audio di Gentoo GNU/Linux: Siapin Sound Server-nya dulu!](https://dev.to/iiiaann/mengatasi-masalah-audio-di-gentoo-gnulinux-siapin-sound-server-nya-dulu-7bg)
+- [Harnessing Diversity: Managing a Product Development Team with Diverse Personalities](https://dev.to/arooj/harnessing-diversity-managing-a-product-development-team-with-diverse-personalities-3e0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
