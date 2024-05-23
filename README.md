@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Bookmyflight : A web app that helps you find cheap flights and book them based on your budget.](https://dev.to/nitintwt27/bookmyflight-a-web-app-that-helps-you-find-cheap-flights-and-book-them-based-on-your-budget-9b3)
-- [How to use Async/Await in Promise.](https://dev.to/makoto0825/how-to-use-asyncawait-in-promise-38hc)
-- [How to use Promise chaining in Javascript.](https://dev.to/makoto0825/how-to-use-promise-chaining-in-javascript-391c)
-- [“cn” utility function in shadcn-ui/ui:](https://dev.to/ramunarasinga/cn-utility-function-in-shadcn-uiui-3c4k)
-- [async/sync in Javascript](https://dev.to/makoto0825/asyncsync-in-javascript-438e)
+- [My personal AWS account setup - IAM Identity Center, temporary credentials and sandbox account](https://dev.to/aws-builders/my-personal-aws-account-setup-iam-identity-center-temporary-credentials-and-sandbox-account-39mc)
+- [Google Announces Major Updates to Gemini AI: Enhancing Capabilities and Expanding Access](https://dev.to/daisyauma/google-announces-major-updates-to-gemini-ai-enhancing-capabilities-and-expanding-access-41k7)
+- [Classes e Objetos em C# .NET](https://dev.to/felipeamorimdev/classes-e-objetos-em-c-net-1l54)
+- [Mastering Keyboard Shortcuts: An A-Z Guide](https://dev.to/bbylumi/mastering-keyboard-shortcuts-an-a-z-guide-1o55)
+- [How to Use the &lt;select&gt; Tag with Multiple Values Using the map Method in React.js](https://dev.to/vivek_44751fc408644cbd80b/how-to-use-the-tag-with-multiple-values-using-the-map-method-in-reactjs-59df)
 <!-- BLOG-POST-LIST:END -->
 
 ---
