@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Internal Developer Platform vs Internal Developer Portal](https://dev.to/shohams/internal-developer-platform-vs-internal-developer-portal-2ohf)
-- [everything-ai v2.0.0: more AI power on your Desktop](https://dev.to/astrabert/everything-ai-v200-more-ai-power-on-your-desktop-2k0b)
-- [&quot;🚀 Streamlining Kubernetes Deployment: Setting Up EKSCTL, Kubectl, and AWS CLI on Amazon Linux 2 🛠️&quot;](https://dev.to/aws-builders/-streamlining-kubernetes-deployment-setting-up-eksctl-kubectl-and-aws-cli-on-amazon-linux-2--1j16)
-- [Truncating Tables with Foreign Keys in Laravel](https://dev.to/rafaelogic/truncating-tables-with-foreign-keys-in-laravel-lac)
-- [Lazy Programmer&#39;s Guide to Automating Price Calculations](https://dev.to/jampamatos/lazy-programmers-guide-to-automating-price-calculations-4g93)
+- [CryptoFlow: Building a secure and scalable system with Axum and SvelteKit - Part 6](https://dev.to/sirneij/cryptoflow-building-a-secure-and-scalable-system-with-axum-and-sveltekit-part-6-4973)
+- [How to configure PHP in Airflow?](https://dev.to/darkotodoric/how-to-configure-php-in-airflow-5d9i)
+- [** Penélope Glamour y los Secretos del Diseño UI/UX **🙎🏼](https://dev.to/orlidev/-penelope-glamour-y-los-secretos-del-diseno-uiux--4i0e)
+- [Creating a skeleton website &lpar;Django&rpar;](https://dev.to/samuellubliner/creating-a-skeleton-website-django-dg7)
+- [Learn how to deploy virtual machines using Quickstart templates, efficiently monitor workloads, and optimize costs on Azure.](https://dev.to/pelumisat/learn-how-to-deploy-virtual-machines-using-quickstart-templates-efficiently-monitor-workloads-and-optimize-costs-on-azure-5hd8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
