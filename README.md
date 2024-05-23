@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Talk : How often do you document your code ?](https://dev.to/lotfijb/talk-how-often-do-you-document-your-code--4g9b)
-- [Boost your Cloud Security with Network ACLs in your VPC](https://dev.to/fdtm/boost-your-cloud-security-with-network-acls-in-your-vpc-6c7)
-- [Web Extraction with Vision-LLMs: SQL-Ready Data From Any URL with GPT-4o](https://dev.to/emcf/web-extraction-with-vision-llms-done-the-right-way-structured-data-from-any-url-with-gpt-4o-1al8)
-- [I Built an App with Remix in 30 Minutes](https://dev.to/alvinslee/i-built-an-app-with-remix-in-30-minutes-219k)
-- [Understanding the Lottery Factor](https://dev.to/opensauced/understanding-the-lottery-factor-41gc)
+- [Numeric Data Types in SQL: A Comprehensive Guide](https://dev.to/kellyblaire/numeric-data-types-in-sql-a-comprehensive-guide-3338)
+- [Understanding RxJS: Cold and Hot Observables](https://dev.to/benarambide/understanding-rxjs-cold-and-hot-observables-1g7c)
+- [Mastering Character Data Types in SQL: A Comprehensive Guide](https://dev.to/kellyblaire/mastering-character-data-types-in-sql-a-comprehensive-guide-5984)
+- [Understanding SQL Data Types: A Comprehensive Guide with Examples](https://dev.to/kellyblaire/understanding-sql-data-types-a-comprehensive-guide-with-examples-56o3)
+- [🌟 La Importancia del Portafolio en el Mundo de la Programación 🚀](https://dev.to/yoezequiel/la-importancia-del-portafolio-en-el-mundo-de-la-programacion-24mc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
