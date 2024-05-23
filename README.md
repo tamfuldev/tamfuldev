@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Then let’s talk about discreteness, and what are the advantages of Java over SQL?](https://dev.to/esproc_spl/then-lets-talk-about-discreteness-and-what-are-the-advantages-of-java-over-sql-2113)
-- [Mhealth App Development: Steps and Trends in 2024](https://dev.to/dmytro_kharyna/mhealth-app-development-steps-and-trends-in-2024-54j2)
-- [My React Experience: From Zero to Hero &lpar;Well, Baby Hero&rpar;](https://dev.to/anshul_bhartiya_37e68ba7b/my-react-experience-from-zero-to-hero-well-baby-hero-3787)
-- [DeepCode: Your AI Assistant for Coding and Code Analysis](https://dev.to/okibayu/deepcode-your-ai-assistant-for-coding-and-code-analysis-3ecb)
-- [Tracking Celebrity Flights in Python!](https://dev.to/digitalizedsnake/tracking-celebrity-flights-in-python-1m86)
+- [Descriptive Statistics || Part 1&lpar;Central Tendency and Dispersion&rpar;](https://dev.to/ngneha09/descriptive-statistics-part-1central-tendency-and-dispersion-35j8)
+- [How to Set Up a MySQL Master-Slave Replication in Docker](https://dev.to/siddhantkcode/how-to-set-up-a-mysql-master-slave-replication-in-docker-4n0a)
+- [EasyTdd 0.4.0 Release: Introducing the Incremental Builder](https://dev.to/easytdd/easytdd-040-release-introducing-the-incremental-builder-4k09)
+- [Fast string case transformation for the C#](https://dev.to/szymonhalucha/fast-string-case-transformation-for-the-c-3b4e)
+- [⭐Angular 18 Features ⭐](https://dev.to/sandeepbalachandran/angular-18-features-5ajm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
