@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Tracking Celebrity Flights in Python!](https://dev.to/digitalizedsnake/tracking-celebrity-flights-in-python-1m86)
+- [Top 10 Trends in BDD Testing 2024](https://dev.to/ngocninh123/top-10-trends-in-bdd-testing-2024-2l30)
+- [Enhancing User Experience with a Bootstrap Range Slider](https://dev.to/okibayu/bootstrap-range-slider-1oi4)
 - [Sloan&#39;s Inbox: Any advice for avoiding burnout?](https://dev.to/devteam/sloans-inbox-ways-to-avoid-burnout-2k49)
-- [Things I Wish I Knew Before Becoming a Web Developer](https://dev.to/thekarlesi/things-i-wish-i-knew-before-becoming-a-web-developer-2mmf)
-- [Issues with x-axis data overlap and y-axis data not being displayed when using vchart library](https://dev.to/da730/issues-with-x-axis-data-overlap-and-y-axis-data-not-being-displayed-when-using-vchart-library-l1o)
-- [⭐Angular 17 Features ⭐](https://dev.to/sandeepbalachandran/angular-17-features-4mmo)
-- [Os 20 Melhores Motores para Desenvolvimento de Jogos com JavaScript](https://dev.to/marcosplusplus/os-20-melhores-motores-para-desenvolvimento-de-jogos-com-javascript-357f)
+- [New Awwwards inspired portfolio](https://dev.to/hariprasd/new-awwwards-inspired-portfolio-1ipf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
