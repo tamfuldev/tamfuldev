@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My personal AWS account setup - IAM Identity Center, temporary credentials and sandbox account](https://dev.to/aws-builders/my-personal-aws-account-setup-iam-identity-center-temporary-credentials-and-sandbox-account-39mc)
-- [Google Announces Major Updates to Gemini AI: Enhancing Capabilities and Expanding Access](https://dev.to/daisyauma/google-announces-major-updates-to-gemini-ai-enhancing-capabilities-and-expanding-access-41k7)
-- [Classes e Objetos em C# .NET](https://dev.to/felipeamorimdev/classes-e-objetos-em-c-net-1l54)
-- [Mastering Keyboard Shortcuts: An A-Z Guide](https://dev.to/bbylumi/mastering-keyboard-shortcuts-an-a-z-guide-1o55)
-- [How to Use the &lt;select&gt; Tag with Multiple Values Using the map Method in React.js](https://dev.to/vivek_44751fc408644cbd80b/how-to-use-the-tag-with-multiple-values-using-the-map-method-in-reactjs-59df)
+- [[Game of Purpose] Day 5](https://dev.to/humberd/game-of-purpose-day-5-5hl9)
+- [Tutorial: Using Minder to automate management of source code repository configuration and security](https://dev.to/ninfriendos1/tutorial-using-minder-to-automate-management-of-source-code-repository-configuration-and-security-n7e)
+- [My Flatiron Experience](https://dev.to/reecec/my-flatiron-experience-3802)
+- [Angular se reinventa: Bienvenido a la era de Angular v18](https://dev.to/ricardochl/angular-se-reinventa-bienvenido-a-la-era-de-angular-v18-5ac1)
+- [Dev: Game](https://dev.to/r4nd3l/dev-game-p3o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
