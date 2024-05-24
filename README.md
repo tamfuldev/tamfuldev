@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [User Story EP1 : How Alex Built His First GPT Action from Scratch🎉](https://dev.to/dancemove_marscode/user-story-ep1-how-alex-built-his-first-gpt-action-from-scratch-48ca)
-- [Introducing a new router for Vue](https://dev.to/stackoverfloweth/introducing-a-new-router-for-vue-3c22)
-- [【visionOS/ARKit】Simplest sample code for hand tracking](https://dev.to/sfrrvsdbbf/visionosarkit-simplest-sample-code-for-hand-tracking-4g66)
-- [🌟 **Exploring Front End Development with HTML, CSS, and React.js** 🌟](https://dev.to/erasmuskotoka/exploring-front-end-development-with-html-css-and-reactjs-k2p)
-- [How to Create a Virtual Machine &lpar;Windows 11 Pro&rpar;](https://dev.to/opsyog/create-a-virtual-machine-4boj)
+- [Overview of the DevOps Interview Process: From Application to Selection - In 50 min](https://dev.to/lakhera2015/overview-of-the-devops-interview-process-from-application-to-selection-in-50-min-1nlp)
+- [Building a RESTful API with Flask in Python: A Beginner&#39;s Guide](https://dev.to/manavcodaty/building-a-restful-api-with-flask-in-python-a-beginners-guide-meb)
+- [Mastering React Optimization Techniques: Boost Your App&#39;s Performance](https://dev.to/delia_code/mastering-react-optimization-techniques-boost-your-apps-performance-1ka)
+- [Turso - LibSQL Driver Laravel](https://dev.to/darkterminal/turso-libsql-driver-laravel-131k)
+- [JavaScript Closures Cheatsheet](https://dev.to/debojyoti/javascript-closures-cheatsheet-3a6h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
