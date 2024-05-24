@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Molend: the Pioneering Lending Protocol on Mode Network](https://dev.to/modenetwork/introducing-molend-the-pioneering-lending-protocol-on-mode-network-2976)
-- [If Error Messages Were Honest &lpar;and Cats&rpar;](https://dev.to/buildwebcrumbs/if-error-messages-were-honest-and-cats-56ea)
-- [AWS SnapStart - Part 21 Measuring cold starts and deployment time with Java 17 using different compilation options](https://dev.to/aws-builders/aws-snapstart-part-21-measuring-cold-starts-and-deployment-time-with-java-17-using-different-compilation-options-o14)
-- [What is your cloud data backup strategy ?](https://dev.to/nirmalkumar/what-is-your-cloud-data-backup-strategy--5a39)
-- [peviitor.ro pe LinkedIn](https://dev.to/ale23yfm/peviitorro-pe-linkedin-a6k)
+- [Manipulando o hook useState](https://dev.to/devborges/manipulando-o-hook-usestate-b54)
+- [Understanding Idempotency in Software Development 🥇](https://dev.to/_hm/understanding-idempotency-in-software-development-4kgo)
+- [Dunder Methods in Python](https://dev.to/ezekiel_77/dunder-methods-in-python-7nh)
+- [Preparing for the Java Certified Foundations Associate Exam 1Z0-811: Study Plan and Tips](https://dev.to/myexamcloud/preparing-for-the-java-certified-foundations-associate-exam-1z0-811-study-plan-and-tips-2c9m)
+- [JavaScript vs. TypeScript: From Wild West to Five-Star Resort](https://dev.to/muzammil-cyber/javascript-vs-typescript-from-wild-west-to-five-star-resort-299i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
