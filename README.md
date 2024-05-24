@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [User Story EP1 : How Alex Built His First GPT Action from Scratch🎉](https://dev.to/dancemove_marscode/user-story-ep1-how-alex-built-his-first-gpt-action-from-scratch-48ca)
+- [Introducing a new router for Vue](https://dev.to/stackoverfloweth/introducing-a-new-router-for-vue-3c22)
+- [【visionOS/ARKit】Simplest sample code for hand tracking](https://dev.to/sfrrvsdbbf/visionosarkit-simplest-sample-code-for-hand-tracking-4g66)
 - [🌟 **Exploring Front End Development with HTML, CSS, and React.js** 🌟](https://dev.to/erasmuskotoka/exploring-front-end-development-with-html-css-and-reactjs-k2p)
-- [How to Create a Virtual Machine &lpar;Windows 11&rpar;](https://dev.to/opsyog/create-a-virtual-machine-4boj)
-- [Understanding Lasso Regularization: Enhancing Model Performance and Feature Selection](https://dev.to/harsimranjit_singh_0133dc/understanding-lasso-regularization-enhancing-model-performance-and-feature-selection-330p)
-- [Migration of a Workload running in a Corporate Data Center to AWS using the Amazon EC2 and RDS service](https://dev.to/cansu_tekin_b017634d64dfd/migration-of-a-workload-running-in-a-corporate-data-center-to-aws-using-the-amazon-ec2-and-rds-service-5e6h)
-- [Transitioning away from Nursing](https://dev.to/malukanoa/transitioning-away-from-nursing-1i)
+- [How to Create a Virtual Machine &lpar;Windows 11 Pro&rpar;](https://dev.to/opsyog/create-a-virtual-machine-4boj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
