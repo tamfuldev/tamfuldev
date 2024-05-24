@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CONQUERING THE CLOUD RESUME CHALLENGE: MY JOURNEY](https://dev.to/osugodbless/conquering-the-cloud-resume-challenge-my-journey-1lbe)
-- [Microservices With Spring Boot](https://dev.to/oloruntobi600/microservices-with-spring-boot-5457)
-- [How To Setup a Multi-Signature Wallet with Safe &lpar;prev. Gnosis Safe&rpar; on Mode](https://dev.to/modenetwork/how-to-setup-a-multi-signature-wallet-with-safe-prev-gnosis-safe-on-mode-2lk)
-- [Building And Deploying Spring Boot Application](https://dev.to/oloruntobi600/building-and-deploying-spring-boot-application-1ahi)
-- [Creating Azure Virtual Machine &amp; Deploying a Windows 11 VM.](https://dev.to/opsyog/creating-azure-virtual-machine-deploying-a-windows-11-vm-53kp)
+- [How to scale a Django application to serve one million users?](https://dev.to/prox_sea/how-to-scale-a-django-application-to-serve-one-million-users-4m)
+- [Open-Source No-Code/Low-Code Platform NocoBase v1.0.0-alpha.15: New Plugins and Improved “Configure actions” Interaction](https://dev.to/nocobase/open-source-no-codelow-code-platform-nocobase-v100-alpha15-new-plugins-and-improved-configure-actions-interaction-37eh)
+- [Modals with Remix](https://dev.to/ddm4313/modals-with-remix-33kd)
+- [How StarSearch Makes Open Source Collaboration Smarter](https://dev.to/lymah/how-starsearch-makes-open-source-collaboration-smarter-38na)
+- [How StarSearch Makes Open Source Collaboration Smarter](https://dev.to/lymah/how-starsearch-makes-open-source-collaboration-smarter-1hnj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
