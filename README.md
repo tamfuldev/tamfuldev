@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Manipulando o hook useState](https://dev.to/devborges/manipulando-o-hook-usestate-b54)
-- [Understanding Idempotency in Software Development 🥇](https://dev.to/_hm/understanding-idempotency-in-software-development-4kgo)
-- [Dunder Methods in Python](https://dev.to/ezekiel_77/dunder-methods-in-python-7nh)
-- [Preparing for the Java Certified Foundations Associate Exam 1Z0-811: Study Plan and Tips](https://dev.to/myexamcloud/preparing-for-the-java-certified-foundations-associate-exam-1z0-811-study-plan-and-tips-2c9m)
-- [JavaScript vs. TypeScript: From Wild West to Five-Star Resort](https://dev.to/muzammil-cyber/javascript-vs-typescript-from-wild-west-to-five-star-resort-299i)
+- [AWS Amplify Challenge - I Got A Patent Pending 🦄](https://dev.to/vitalipom/aws-amplify-challenge-i-got-a-patent-pending-gch)
+- [Essential React Libraries for Your Next Project](https://dev.to/respect17/essential-react-libraries-for-your-next-project-4c91)
+- [Preventing Memory Leaks using Context Managers in Python](https://dev.to/myexamcloud/preventing-memory-leaks-using-context-managers-in-python-22c4)
+- [Networking Tips for New Developers: Building Your Professional Circle](https://dev.to/bingecoder89/networking-tips-for-new-developers-building-your-professional-circle-hc8)
+- [Step by Step to deploy Go API on AWS lambda and access by function URL](https://dev.to/ppaanngggg/step-by-step-to-deploy-go-api-on-aws-lambda-and-access-by-function-url-4668)
 <!-- BLOG-POST-LIST:END -->
 
 ---
