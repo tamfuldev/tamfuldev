@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Think Golang in oop way](https://dev.to/kingrayhan/think-golang-in-oop-way-1ki)
-- [Top mistakes to avoid when integrating stripe](https://dev.to/softylines/top-mistakes-to-avoid-when-integrating-stripe-be8)
-- [DNS SUNUCUSU NEDİR?](https://dev.to/kinem_duran/dns-sunucusu-nedir-2m3m)
-- [How I React Hook Form with Yup and TypeScript](https://dev.to/dicky54putra/how-i-react-hook-form-with-yup-and-typescript-1hk7)
-- [What&#39;s New in API7 Enterprise 3.2.12: Supporting Stream Routes](https://dev.to/api7/whats-new-in-api7-enterprise-3212-supporting-stream-routes-4oj6)
+- [Mastering Vyper Functions&lpar;part1 &rpar;](https://dev.to/mosesmuwawu/mastering-vyper-functionspart1--1144)
+- [after learning html and css, should I directly dive into a framework or just master both of them??](https://dev.to/yns666/after-learning-html-and-css-should-i-directly-dive-into-a-framework-or-just-master-both-of-them-411a)
+- [Optimizing Performance in Flutter App](https://dev.to/harsh8088/optimizing-performance-in-flutter-app-58dm)
+- [[DAY 12-14] I Built A Piano, City Skyline, Magazine, &amp; More Using HTML &amp; CSS](https://dev.to/thomascansino/day-12-14-i-built-a-piano-city-skyline-magazine-more-using-html-css-2ja)
+- [SQL: Get records having min/max value per group](https://dev.to/jetthoughts/sql-get-records-having-minmax-value-per-group-2cnh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
