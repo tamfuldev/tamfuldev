@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Vyper Functions&lpar;part1 &rpar;](https://dev.to/mosesmuwawu/mastering-vyper-functionspart1--1144)
-- [after learning html and css, should I directly dive into a framework or just master both of them??](https://dev.to/yns666/after-learning-html-and-css-should-i-directly-dive-into-a-framework-or-just-master-both-of-them-411a)
-- [Optimizing Performance in Flutter App](https://dev.to/harsh8088/optimizing-performance-in-flutter-app-58dm)
-- [[DAY 12-14] I Built A Piano, City Skyline, Magazine, &amp; More Using HTML &amp; CSS](https://dev.to/thomascansino/day-12-14-i-built-a-piano-city-skyline-magazine-more-using-html-css-2ja)
-- [SQL: Get records having min/max value per group](https://dev.to/jetthoughts/sql-get-records-having-minmax-value-per-group-2cnh)
+- [Survey: Integrating Large Language Models in Causal Discovery: A Statistical Causal Approach](https://dev.to/tutti/survey-integrating-large-language-models-in-causal-discovery-a-statistical-causal-approach-3p7d)
+- [Socket.io Connection Issues on localhost!](https://dev.to/mrrishimeena/socketio-connection-issues-on-localhost-42o5)
+- [SupaSaaS](https://dev.to/youcef_appmaker/supasaas-1g89)
+- [Prompt engineering is a dumb term](https://dev.to/iamrule/prompt-engineering-is-a-dumb-term-4ij4)
+- [Dynamic Routes and Parameter Passing in Next.js](https://dev.to/adrianbailador/dynamic-routes-and-parameter-passing-in-nextjs-2l7e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
