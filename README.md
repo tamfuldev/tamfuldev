@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How To Setup React Native For Android Using VSCode | Mac Apple Chip &amp; Intel Chip](https://dev.to/sonarsystems/how-to-setup-react-native-for-android-using-vscode-mac-apple-chip-intel-chip-1j5f)
-- [Building Agentic RAG with Rust, OpenAI &amp; Qdrant](https://dev.to/shuttle_dev/building-agentic-rag-with-rust-openai-qdrant-3bjd)
-- [Getting started with Fastly CDN is easier than ever with Glitch](https://dev.to/fastly/getting-started-with-fastly-cdn-is-easier-than-ever-with-glitch-4a05)
-- [#78. Subsets](https://dev.to/karleb/78-subsets-3p5a)
-- [Working with mission-critical data - Azure Files and Azure Blobs](https://dev.to/olawaleoloye/working-with-mission-critical-data-azure-files-and-azure-blobs-26p3)
+- [Think Golang in oop way](https://dev.to/kingrayhan/think-golang-in-oop-way-1ki)
+- [Top mistakes to avoid when integrating stripe](https://dev.to/softylines/top-mistakes-to-avoid-when-integrating-stripe-be8)
+- [DNS SUNUCUSU NEDİR?](https://dev.to/kinem_duran/dns-sunucusu-nedir-2m3m)
+- [How I React Hook Form with Yup and TypeScript](https://dev.to/dicky54putra/how-i-react-hook-form-with-yup-and-typescript-1hk7)
+- [What&#39;s New in API7 Enterprise 3.2.12: Supporting Stream Routes](https://dev.to/api7/whats-new-in-api7-enterprise-3212-supporting-stream-routes-4oj6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
