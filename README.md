@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing react-tools: A Toolbox for Streamlining React Development](https://dev.to/galiprandi/introducing-react-tools-a-toolbox-for-streamlining-react-development-2f23)
-- [region-screenshot-js helps you quickly build the selection screenshot function](https://dev.to/brilliant/region-screenshot-js-helps-you-quickly-build-the-selection-screenshot-function-5mg)
-- [How to scale a Django application to serve one million users?](https://dev.to/prox_sea/how-to-scale-a-django-application-to-serve-one-million-users-4m)
-- [Testando das trincheiras: Como criar mocks e stubs dinâmico com mockito em java](https://dev.to/hugaomarques/testando-das-trincheiras-como-criar-mocks-e-stubs-dinamico-com-mockito-em-java-3bmi)
-- [Open-Source No-Code/Low-Code Platform NocoBase v1.0.0-alpha.15: New Plugins and Improved “Configure actions” Interaction](https://dev.to/nocobase/open-source-no-codelow-code-platform-nocobase-v100-alpha15-new-plugins-and-improved-configure-actions-interaction-37eh)
+- [🌟 **Exploring Front End Development with HTML, CSS, and React.js** 🌟](https://dev.to/erasmuskotoka/exploring-front-end-development-with-html-css-and-reactjs-k2p)
+- [How to Create a Virtual Machine &lpar;Windows 11&rpar;](https://dev.to/opsyog/create-a-virtual-machine-4boj)
+- [Understanding Lasso Regularization: Enhancing Model Performance and Feature Selection](https://dev.to/harsimranjit_singh_0133dc/understanding-lasso-regularization-enhancing-model-performance-and-feature-selection-330p)
+- [Migration of a Workload running in a Corporate Data Center to AWS using the Amazon EC2 and RDS service](https://dev.to/cansu_tekin_b017634d64dfd/migration-of-a-workload-running-in-a-corporate-data-center-to-aws-using-the-amazon-ec2-and-rds-service-5e6h)
+- [Transitioning away from Nursing](https://dev.to/malukanoa/transitioning-away-from-nursing-1i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
