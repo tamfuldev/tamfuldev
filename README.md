@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Nginx WebServer on Ubuntu OS running via EC2 &lpar;AWS&rpar;](https://dev.to/olawaleoloye/nginx-webserver-on-ubuntu-os-running-via-ec2-aws-1l5g)
+- [I give up on AngularFire](https://dev.to/stephenfluin/i-give-up-on-angularfire-4hof)
+- [Best Hosting Options for Developers in 2024](https://dev.to/sotergreco/best-hosting-options-for-developers-in-2024-3h0b)
 - [Typing env variables on typescript](https://dev.to/wmartzh/typing-env-variables-on-typescript-5ee4)
 - [CodeBehind Framework Tutorial Series has Started](https://dev.to/elanatframework/codebehind-framework-tutorial-series-has-started-k8k)
-- [CodeBehind Framework Tutorial Series](https://dev.to/elanatframework/codebehind-framework-tutorial-series-2571)
-- [An alternative to technical tests](https://dev.to/scottharrisondev/an-alternative-to-technical-tests-1e4m)
-- [Complicated math equation generator from answer](https://dev.to/enjeck/complicated-math-equation-generator-from-answer-p17)
 <!-- BLOG-POST-LIST:END -->
 
 ---
