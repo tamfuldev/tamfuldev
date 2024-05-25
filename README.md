@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [5 Powerful TypeScript Tricks](https://dev.to/sachinchaurasiya/5-powerful-typescript-tricks-11lg)
-- [Figma Designs into Web &amp; Mobile Apps](https://dev.to/aakarshsahu15/figma-designs-into-web-mobile-apps-3oh5)
-- [Java Tidbits: Compare your Strings wisely!](https://dev.to/abhinav_nath/java-tidbits-compare-your-strings-wisely-2g2)
-- [Are you still using getYear method in Javascript??](https://dev.to/kupumaru21/are-you-still-using-getyear-method-264e)
-- [Don&#39;t use Typescript if your project is small](https://dev.to/homayunmmdy/dont-use-typescript-if-your-project-is-small-4fmp)
+- [Metadata for win — Apache Parquet](https://dev.to/rahuldubey391/metadata-for-win-apache-parquet-3mb5)
+- [Effective Unit Testing for REST APIs with Node.js, TypeScript](https://dev.to/qbentil/effective-unit-testing-for-rest-apis-with-nodejs-typescript-2e4o)
+- [F# For Dummys - Day 14 Collections Map](https://dev.to/pythonzhu/f-for-dummys-day-14-collections-map-big)
+- [What is Content Delivery Networks &lpar;CDNs&rpar;?](https://dev.to/the_infinity/what-is-content-delivery-networks-cdns-3abd)
+- [Create a React project from scratch](https://dev.to/shehzadhussain/create-a-react-project-from-scratch-3fn8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
