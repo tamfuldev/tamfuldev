@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Comparing WebRTC and WebSocket: Choosing the Right Technology for Real-Time Experience](https://dev.to/arjunkava/comparing-webrtc-and-websocket-choosing-the-right-technology-for-real-time-experience-4ie9)
-- [Does anyone now any literature i can read ?](https://dev.to/kenny_hoyte_fb798a6e1196f/does-anyone-now-any-literature-i-can-read--2g51)
-- [Angular Tutorial: Using @HostBinding with Signals](https://dev.to/brianmtreese/angular-tutorial-using-hostbinding-with-signals-5b59)
-- [Frontend resources! 🚀](https://dev.to/miguelrodriguezp99/frontend-resources-1dl4)
-- [Crafting an Entry-Level Developer Resume: Tips and Best Practices](https://dev.to/bingecoder89/crafting-an-entry-level-developer-resume-tips-and-best-practices-2ie7)
+- [Build Real-time transcription app using React Hooks](https://dev.to/video-sdk/build-real-time-transcription-app-using-react-hooks-1coe)
+- [Coffee Snobs get it right!](https://dev.to/noriller/coffee-snobs-get-it-right-57kc)
+- [Spring Boot Data Access](https://dev.to/oloruntobi600/spring-boot-data-access-59ac)
+- [AWS Code Pipeline - CloudFront - S3 CI/CD Pipeline](https://dev.to/monica_escobar/aws-code-pipeline-cloudfront-s3-cicd-pipeline-55gf)
+- [Deep Dive into Push Nodes: Functionality and Importance](https://dev.to/luffy251/deep-dive-into-push-nodes-functionality-and-importance-2cgl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
