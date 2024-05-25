@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build Real-time transcription app using React Hooks](https://dev.to/video-sdk/build-real-time-transcription-app-using-react-hooks-1coe)
-- [Coffee Snobs get it right!](https://dev.to/noriller/coffee-snobs-get-it-right-57kc)
-- [Spring Boot Data Access](https://dev.to/oloruntobi600/spring-boot-data-access-59ac)
-- [AWS Code Pipeline - CloudFront - S3 CI/CD Pipeline](https://dev.to/monica_escobar/aws-code-pipeline-cloudfront-s3-cicd-pipeline-55gf)
-- [Deep Dive into Push Nodes: Functionality and Importance](https://dev.to/luffy251/deep-dive-into-push-nodes-functionality-and-importance-2cgl)
+- [ASP.NET Core Navigation markers](https://dev.to/karenpayneoregon/aspnet-core-navigation-markers-2j38)
+- [Achieving Success in Online Learning: A Practical Guide](https://dev.to/gift_mugweni_1c055b418706/achieving-success-in-online-learning-a-practical-guide-h86)
+- [Kubernetes Ingress in a nutshell Part01](https://dev.to/sambo2021/kubernetes-ingress-in-a-nutshell-part01-28j)
+- [Understanding the Basics of HTTP Status Codes](https://dev.to/vidyarathna/understanding-the-basics-of-http-status-codes-40b9)
+- [Understanding JUnit: A Comprehensive Guide with Examples](https://dev.to/fullstackjava/understanding-junit-a-comprehensive-guide-with-examples-ei3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
