@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Guide to Python Lists, Tuples, Dictionaries, and Sets](https://dev.to/varshav/a-guide-to-python-lists-tuples-dictionaries-and-sets-gpf)
-- [The Neighborhood Domain will Quickly Improve your Modeling Skills](https://dev.to/aws-builders/the-neighborhood-domain-will-quickly-improve-your-modeling-skills-4d9f)
-- [Very very basic python-binance ThreadedWebSocketManager example does not work... why?](https://dev.to/lukaseber/very-very-basic-python-binance-threadedwebsocketmanager-example-does-not-work-why-2j0o)
-- [#PYTHON SELENIUM ARCHITECTURE AND THE SIGNIFICANT OF PYTHON VIRTUAL ENVIRONMENT#](https://dev.to/krishnavenis/python-selenium-architecture-and-the-significant-of-python-virtual-environment-17dk)
-- [Good Practices For Connecting Go Server To Postgres](https://dev.to/ganesh-kumar/good-practices-for-connecting-go-server-to-postgres-3k4g)
+- [Comparing WebRTC and WebSocket: Choosing the Right Technology for Real-Time Experience](https://dev.to/arjunkava/comparing-webrtc-and-websocket-choosing-the-right-technology-for-real-time-experience-4ie9)
+- [Does anyone now any literature i can read ?](https://dev.to/kenny_hoyte_fb798a6e1196f/does-anyone-now-any-literature-i-can-read--2g51)
+- [Angular Tutorial: Using @HostBinding with Signals](https://dev.to/brianmtreese/angular-tutorial-using-hostbinding-with-signals-5b59)
+- [Frontend resources! 🚀](https://dev.to/miguelrodriguezp99/frontend-resources-1dl4)
+- [Crafting an Entry-Level Developer Resume: Tips and Best Practices](https://dev.to/bingecoder89/crafting-an-entry-level-developer-resume-tips-and-best-practices-2ie7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
