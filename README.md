@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How to Check if a String Contains Only Letters in C#](https://dev.to/dat_ngo_524c98f33bc09e368/how-to-check-if-a-string-contains-only-letters-in-c-5095)
+- [Filter list based on another list](https://dev.to/dat_ngo_524c98f33bc09e368/filter-list-based-on-another-list-18b)
+- [[S.O.L.I.D.] Os Cinco Pilares da Programação Orientada a Objetos. [L] - Liskov Substitution Principle - LSP](https://dev.to/dsb88/solid-os-cinco-pilares-da-programacao-orientada-a-objetos-l-liskov-substitution-principle-lsp-5ebg)
+- [Exploring the Features of HTML5](https://dev.to/kartikmehta8/exploring-the-features-of-html5-iai)
 - [[S.O.L.I.D.] Os Cinco Pilares da Programação Orientada a Objetos. [O] - Open/Closed Principle - OCP](https://dev.to/dsb88/solid-os-cinco-pilares-da-programacao-orientada-a-objetos-o-openclosed-principle-ocp-3bal)
-- [CLI Tools every Developer should know](https://dev.to/codeparrot/cli-tools-every-developer-should-know-6kd)
-- [Idempotência: A Chave para Evitar Duplicações](https://dev.to/yagocosta/idempotencia-a-chave-para-evitar-duplicacoes-8j6)
-- [[Game of Purpose] Day 6](https://dev.to/humberd/game-of-purpose-day-6-1b93)
-- [8 провайдеров «почта на своём домене» для малого бизнеса](https://dev.to/geny/8-provaidierov-dlia-malogho-bizniesa-35me)
 <!-- BLOG-POST-LIST:END -->
 
 ---
