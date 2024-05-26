@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Boost Your Productivity: Essential VSCode Extensions for Developers](https://dev.to/vidyarathna/boost-your-productivity-essential-vscode-extensions-for-developers-25bd)
+- [Create a circle in html css](https://dev.to/tidycoder/create-a-circle-in-html-css-4bne)
 - [552. Student Attendance Record II](https://dev.to/mdarifulhaque/552-student-attendance-record-ii-1n4b)
 - [Introduction to Frida for Reverse Engineering](https://dev.to/phantomthreads/introduction-to-frida-for-reverse-engineering-1gc9)
-- [Learning to Learn: A Tech Girl’s Guide to Staying Ahead](https://dev.to/daisyauma/learning-to-learn-a-tech-girls-guide-to-staying-ahead-30ec)
-- [Managing Machine Learning Projects](https://dev.to/hangry_coder/managing-machine-learning-projects-kfc)
-- [Understanding JS getters and setters](https://dev.to/draczihper/understanding-js-getters-and-setters-436a)
+- [Learning Python](https://dev.to/adarshagupta/learning-python-2n4j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
