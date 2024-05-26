@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Open document in &quot;Viewing&quot; mode](https://dev.to/rationalkunal/open-document-in-viewing-mode-5ej1)
-- [Rule Changing Poker Game &quot;Balatro&quot; recreated in JavaScript - Behind the Code](https://dev.to/michi/rule-changing-poker-game-balatro-recreated-in-javascript-behind-the-code-42bg)
-- [Understanding the Scope Chain in JavaScript🚀](https://dev.to/madhurop/understanding-the-scope-chain-in-javascript-4390)
-- [How to migrate DNS records from CloudFlare to AWS Route53 with Terraform&amp;Terragrunt](https://dev.to/yyarmoshyk/how-to-migrate-dns-records-from-cloudflare-to-aws-route53-with-terraformterragrunt-2ebj)
-- [How to Execute SQL Commands In Another File from the PostgreSQl psql shell in Windows](https://dev.to/johnakindipe/how-to-execute-sql-commands-in-another-file-from-the-postgresql-psql-shell-in-windows-ppa)
+- [Quais as diferenças entre modificadores public, private, protected e abstract no Typescript?](https://dev.to/doccaio/quais-as-diferencas-entre-modificadores-public-private-protected-e-abstract-no-typescript-4g33)
+- [Equalizing positions](https://dev.to/simongreennet/equalizing-positions-2057)
+- [Understanding Core JavaScript Concepts: Objects, Scopes, and Closures](https://dev.to/emmanuelj/understanding-core-javascript-concepts-objects-scopes-and-closures-249a)
+- [Day 3 of my progress as a vue dev](https://dev.to/zain725342/day-2-of-my-progress-as-a-vue-dev-4pkf)
+- [Ethereum Hits the Road to $4,000. Or Not?](https://dev.to/endeo/ethereum-hits-the-road-to-4000-or-not-3d4g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
