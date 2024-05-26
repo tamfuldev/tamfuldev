@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Running Unit Tests with MongoDB in a Node.js Express Application using Jest](https://dev.to/ndohjapan/running-unit-tests-with-mongodb-in-a-nodejs-express-application-using-jest-42de)
-- [Next.js 15 RC Unveiled: A Close Look at the Framework&#39;s Latest Features](https://dev.to/devmirx/nextjs-15-rc-unveiled-a-close-look-at-the-frameworks-latest-features-4lc1)
-- [Mask multiple lines text in GitHub Actions Workflow](https://dev.to/yuyatakeyama/mask-multiple-lines-text-in-github-actions-workflow-1a0)
-- [Backend cheatsheet suggestions &lpar;Upcoming&rpar;](https://dev.to/kervyntjw/backend-cheatsheet-suggestions-upcoming-4g5n)
-- [Understanding the Differences Between SQL and MySQL](https://dev.to/shubhadip_bhowmik/understanding-the-differences-between-sql-and-mysql-1po0)
+- [LISA integrato in SamGIS](https://dev.to/trincadev/lisa-integrato-in-samgis-1f82)
+- [LISA adapted to SamGIS](https://dev.to/trincadev/lisa-adapted-to-samgis-c5k)
+- [Mastering CSS Transforms &amp; Animations🚀](https://dev.to/dharamgfx/mastering-css-transforms-animations-2haf)
+- [Lavish Beauty Studio - Another Frontend Gig.](https://dev.to/craftingbugs/lavish-beauty-studio-another-frontend-project-4o02)
+- [C# PeriodicTimer](https://dev.to/karenpayneoregon/c-periodictimer-2ed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
