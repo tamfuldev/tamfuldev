@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring Web Development: Python + Django](https://dev.to/alexphebert2000/exploring-web-development-python-django-acb)
 - [🚀 Exploring Front-End Development with HTML, CSS, and React.js! 🌟](https://dev.to/erasmuskotoka/exploring-front-end-development-with-html-css-and-reactjs-4h7k)
 - [Why I came over to dev.to](https://dev.to/kination/why-i-came-over-to-devto-3kdm)
 - [JavaScript Promises: Explaining then &amp; catch to a 5 year old.](https://dev.to/geny/javascript-promises-explaining-then-catch-to-a-5-year-old-3agc)
 - [Creating my portfolio my way](https://dev.to/thekrmichaels/creating-my-portfolio-my-way-253e)
-- [First post!](https://dev.to/oscarvege/first-post-5574)
 <!-- BLOG-POST-LIST:END -->
 
 ---
