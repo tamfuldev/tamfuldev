@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Desvendando o Futuro do Desenvolvimento de Aplicativos com .NET MAUI](https://dev.to/jucsantana05/desvendando-o-futuro-do-desenvolvimento-de-aplicativos-com-net-maui-h14)
-- [You&#39;re parsing URLs wrong.](https://dev.to/gewenyu99/youre-parsing-urls-wrong-1eld)
-- [How to scale a Django app to serve one million users?](https://dev.to/prox_sea/how-to-scale-a-django-app-to-serve-one-million-users-24ek)
-- [DISCOVERING ZAP: An Interesting New Part Of The BLAST Ecosystem &lpar;Blockchain World&rpar;](https://dev.to/uchemma001/discovering-zap-an-interesting-new-part-of-the-blast-ecosystem-blockchain-world-40h5)
-- [How to kill laziness or procrastination](https://dev.to/saifullahusmani/how-to-kill-laziness-or-procrastination-2jpc)
+- [🚀 Exploring Front-End Development with HTML, CSS, and React.js! 🌟](https://dev.to/erasmuskotoka/exploring-front-end-development-with-html-css-and-reactjs-4h7k)
+- [Why I came over to dev.to](https://dev.to/kination/why-i-came-over-to-devto-3kdm)
+- [JavaScript Promises: Explaining then &amp; catch to a 5 year old.](https://dev.to/geny/javascript-promises-explaining-then-catch-to-a-5-year-old-3agc)
+- [Creating my portfolio my way](https://dev.to/thekrmichaels/creating-my-portfolio-my-way-253e)
+- [First post!](https://dev.to/oscarvege/first-post-5574)
 <!-- BLOG-POST-LIST:END -->
 
 ---
