@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Boost Your Productivity: Essential VSCode Extensions for Developers](https://dev.to/vidyarathna/boost-your-productivity-essential-vscode-extensions-for-developers-25bd)
-- [Create a circle in html css](https://dev.to/tidycoder/create-a-circle-in-html-css-4bne)
-- [552. Student Attendance Record II](https://dev.to/mdarifulhaque/552-student-attendance-record-ii-1n4b)
-- [Introduction to Frida for Reverse Engineering](https://dev.to/phantomthreads/introduction-to-frida-for-reverse-engineering-1gc9)
-- [Learning Python](https://dev.to/adarshagupta/learning-python-2n4j)
+- [Guide To Choose A Database For Your Next Design](https://dev.to/isurumax26/guide-to-choose-a-database-for-your-next-design-5cam)
+- [**SOLID PRINCIPLE OF SOFTWARE ENGINEERING**](https://dev.to/hussain101/solid-principle-of-software-engineering-8cf)
+- [How to inject simple dummy data at a large scale in MySQL](https://dev.to/siddhantkcode/how-to-inject-simple-dummy-data-at-a-large-scale-in-mysql-eci)
+- [Share Text Securely with AWS Amplify Gen 2](https://dev.to/henryjw/share-text-securely-with-aws-amplify-gen-2-59c5)
+- [AWS Amplify Fullstack TypeScript Challenge Submission](https://dev.to/davidlewisgardin/aws-amplify-fullstack-typescript-challenge-submission-41fn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
