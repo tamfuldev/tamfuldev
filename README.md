@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Nginx WebServer on Ubuntu OS running via EC2 &lpar;AWS&rpar;](https://dev.to/olawaleoloye/nginx-webserver-on-ubuntu-os-running-via-ec2-aws-1l5g)
-- [I give up on AngularFire](https://dev.to/stephenfluin/i-give-up-on-angularfire-4hof)
-- [Best Hosting Options for Developers in 2024](https://dev.to/sotergreco/best-hosting-options-for-developers-in-2024-3h0b)
-- [Typing env variables on typescript](https://dev.to/wmartzh/typing-env-variables-on-typescript-5ee4)
-- [CodeBehind Framework Tutorial Series has Started](https://dev.to/elanatframework/codebehind-framework-tutorial-series-has-started-k8k)
+- [Desvendando o Futuro do Desenvolvimento de Aplicativos com .NET MAUI](https://dev.to/jucsantana05/desvendando-o-futuro-do-desenvolvimento-de-aplicativos-com-net-maui-h14)
+- [You&#39;re parsing URLs wrong.](https://dev.to/gewenyu99/youre-parsing-urls-wrong-1eld)
+- [How to scale a Django app to serve one million users?](https://dev.to/prox_sea/how-to-scale-a-django-app-to-serve-one-million-users-24ek)
+- [DISCOVERING ZAP: An Interesting New Part Of The BLAST Ecosystem &lpar;Blockchain World&rpar;](https://dev.to/uchemma001/discovering-zap-an-interesting-new-part-of-the-blast-ecosystem-blockchain-world-40h5)
+- [How to kill laziness or procrastination](https://dev.to/saifullahusmani/how-to-kill-laziness-or-procrastination-2jpc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
