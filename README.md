@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Join Me on X Now!](https://dev.to/bingecoder89/join-me-on-x-now-3aj7)
-- [[DAY 18-20] I Built A Game &amp; A Calorie Counter In Javascript](https://dev.to/thomascansino/day-18-20-i-built-a-game-a-calorie-counter-in-javascript-32ih)
-- [Number input on Flutter TextFields the RIGHT way!](https://dev.to/gabbygreat/number-input-on-flutter-textfields-the-right-way-4ip0)
-- [Creating GPT Actions with ValTown](https://dev.to/xkonti/creating-gpt-actions-with-valtown-35bp)
-- [Strategies for Optimizing Docker Image Creation and Runtime Container Management](https://dev.to/nevinn/strategies-for-optimizing-docker-image-creation-and-runtime-container-management-j1b)
+- [Why are algorithms called algorithms?](https://dev.to/gfouz/why-are-algorithms-called-algorithms-1292)
+- [Exploring Angular 18: A Deep Dive into New Features and Comparisons with Previous Versions](https://dev.to/fullstackjava/exploring-angular-18-a-deep-dive-into-new-features-and-comparisons-with-previous-versions-2a33)
+- [python command isn&#39;t working and python3 working on mac](https://dev.to/sh20raj/python-command-isnt-working-and-python3-working-on-mac-39nc)
+- [The Ultimate Guide to Building Offline Angular Apps with Service Workers](https://dev.to/bytebantz/the-ultimate-guide-to-building-offline-angular-apps-with-service-workers-2802)
+- [Advanced QA Testing Techniques for Improving ChatGPT’s Interactions](https://dev.to/ray_parker01/advanced-qa-testing-techniques-for-improving-chatgpts-interactions-46k7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
