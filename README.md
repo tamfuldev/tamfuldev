@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why are algorithms called algorithms?](https://dev.to/gfouz/why-are-algorithms-called-algorithms-1292)
-- [Exploring Angular 18: A Deep Dive into New Features and Comparisons with Previous Versions](https://dev.to/fullstackjava/exploring-angular-18-a-deep-dive-into-new-features-and-comparisons-with-previous-versions-2a33)
-- [python command isn&#39;t working and python3 working on mac](https://dev.to/sh20raj/python-command-isnt-working-and-python3-working-on-mac-39nc)
-- [The Ultimate Guide to Building Offline Angular Apps with Service Workers](https://dev.to/bytebantz/the-ultimate-guide-to-building-offline-angular-apps-with-service-workers-2802)
-- [Advanced QA Testing Techniques for Improving ChatGPT’s Interactions](https://dev.to/ray_parker01/advanced-qa-testing-techniques-for-improving-chatgpts-interactions-46k7)
+- [Amazon Macie to detect sensitive data from S3 Buckets](https://dev.to/asankab/amazon-macie-to-detect-sensitive-data-from-s3-buckets-1eol)
+- [Display Flash Messages Using Laravel and Inertia](https://dev.to/paulund/display-flash-messages-using-laravel-and-inertia-2030)
+- [Running Redis with Docker](https://dev.to/itskunal/running-redis-with-docker-323p)
+- [Bangla Tutorial: Design Responsive Headers Using Vuetify 3 &amp; Vue.js 3 | Navigation Drawers Vuetify](https://dev.to/minit61/bangla-tutorial-design-responsive-headers-using-vuetify-3-vuejs-3-navigation-drawers-vuetify-19n7)
+- [Next js 15 RC !! Now available .](https://dev.to/aknankpuria/next-js-15-rc-now-available--2li5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
