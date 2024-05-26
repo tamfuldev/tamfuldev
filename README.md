@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [LISA integrato in SamGIS](https://dev.to/trincadev/lisa-integrato-in-samgis-1f82)
-- [LISA adapted to SamGIS](https://dev.to/trincadev/lisa-adapted-to-samgis-c5k)
-- [Mastering CSS Transforms &amp; Animations🚀](https://dev.to/dharamgfx/mastering-css-transforms-animations-2haf)
-- [Lavish Beauty Studio - Another Frontend Gig.](https://dev.to/craftingbugs/lavish-beauty-studio-another-frontend-project-4o02)
-- [C# PeriodicTimer](https://dev.to/karenpayneoregon/c-periodictimer-2ed)
+- [Learning AWS Day by Day — Day 75 — AWS CloudFront](https://dev.to/rksalo88/learning-aws-day-by-day-day-75-aws-cloudfront-4ndp)
+- [Prototyping different storage scenarios for an IT department in Azure Portal.](https://dev.to/tundeiness/prototyping-different-storage-scenarios-for-an-it-department-in-azure-portal-20mg)
+- [Top-Down Shooter Update: Day 2 &lpar;Done: Health &amp; Score&rpar;](https://dev.to/quantumbyte-studios/top-down-shooter-update-day-2-done-health-score-5cmc)
+- [How to deploy a Windows Server in Azure Portal on MacOS](https://dev.to/tundeiness/how-to-deploy-a-windows-server-in-azure-portal-on-macos-4gjc)
+- [Join Me on X Now!](https://dev.to/bingecoder89/join-me-on-x-now-2n6m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
