@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Quais as diferenças entre modificadores public, private, protected e abstract no Typescript?](https://dev.to/doccaio/quais-as-diferencas-entre-modificadores-public-private-protected-e-abstract-no-typescript-4g33)
-- [Equalizing positions](https://dev.to/simongreennet/equalizing-positions-2057)
-- [Understanding Core JavaScript Concepts: Objects, Scopes, and Closures](https://dev.to/emmanuelj/understanding-core-javascript-concepts-objects-scopes-and-closures-249a)
-- [Day 3 of my progress as a vue dev](https://dev.to/zain725342/day-2-of-my-progress-as-a-vue-dev-4pkf)
-- [Ethereum Hits the Road to $4,000. Or Not?](https://dev.to/endeo/ethereum-hits-the-road-to-4000-or-not-3d4g)
+- [Running Unit Tests with MongoDB in a Node.js Express Application using Jest](https://dev.to/ndohjapan/running-unit-tests-with-mongodb-in-a-nodejs-express-application-using-jest-42de)
+- [Next.js 15 RC Unveiled: A Close Look at the Framework&#39;s Latest Features](https://dev.to/devmirx/nextjs-15-rc-unveiled-a-close-look-at-the-frameworks-latest-features-4lc1)
+- [Mask multiple lines text in GitHub Actions Workflow](https://dev.to/yuyatakeyama/mask-multiple-lines-text-in-github-actions-workflow-1a0)
+- [Backend cheatsheet suggestions &lpar;Upcoming&rpar;](https://dev.to/kervyntjw/backend-cheatsheet-suggestions-upcoming-4g5n)
+- [Understanding the Differences Between SQL and MySQL](https://dev.to/shubhadip_bhowmik/understanding-the-differences-between-sql-and-mysql-1po0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
