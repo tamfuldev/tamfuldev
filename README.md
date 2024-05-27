@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Basics: Creating Repository and Maintaining It](https://dev.to/swahilipotdevs/github-basics-creating-repository-and-maintaining-it-4i04)
-- [How to Create Storage Account With High Availability On Microsoft Azure.](https://dev.to/olaraph/how-to-create-storage-account-with-high-availability-on-microsoft-azure-42a4)
-- [Unable to verify digital signature with public key and detached payload](https://dev.to/shreya_dalvi_40fd31b69610/unable-to-verify-digital-signature-with-public-key-and-detached-payload-3dh5)
-- [Cybersecurity Basics: Beginner’s Guide](https://dev.to/swahilipotdevs/cybersecurity-basics-beginners-guide-381d)
-- [F# For Dummys - Day 15 Collections Set](https://dev.to/pythonzhu/f-for-dummys-day-15-collections-set-3884)
+- [Função de Análise de Dados e Criação de Gráficos na Versão Gratuita do ChatGPT-4o](https://dev.to/ianevictoria/funcao-de-analise-de-dados-e-criacao-de-graficos-na-versao-gratuita-do-chatgpt-4o-2i92)
+- [Setting Up ESLint and Prettier in an Ionic Angular Project](https://dev.to/princekukreja/setting-up-eslint-and-prettier-in-an-ionic-angular-project-2mk5)
+- [External CSS to Inline CSS Converter](https://dev.to/foxinfotech/external-css-to-inline-css-converter-32k5)
+- [A Deep Dive into a Video Rendering Pipeline](https://dev.to/samohovets/a-deep-dive-into-a-video-rendering-pipeline-2e26)
+- [Errores Comunes de Pylint. Guía Práctica](https://dev.to/gfouz/errores-comunes-de-pylint-guia-practica-2ko)
 <!-- BLOG-POST-LIST:END -->
 
 ---
