@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Interact with AI from your Terminal with Gen-ai-chat](https://dev.to/arindam_1729/interact-with-ai-from-your-terminal-with-gen-ai-chat-5862)
-- [Creating Your First Telegram Bot: Step-by-Step Guide with BotFather | Part 1](https://dev.to/eaca89/creating-your-first-telegram-bot-step-by-step-guide-with-botfather-part-1-5do4)
-- [Launch and Connect to AWS EC2 Instance](https://dev.to/suravshrestha/launch-and-connect-to-aws-ec2-instance-47bm)
-- [Power Automate and React Integration: Automate Business Processes](https://dev.to/primado/power-automate-and-react-integration-automate-business-processes-2oli)
-- [Unlock the power of neural networks 🚀](https://dev.to/futuristicgeeks/unlock-the-power-of-neural-networks-mcb)
+- [Integrating Atlantis with OpenTofu.](https://dev.to/jmateusousa/integrating-atlantis-with-opentofu-lnd)
+- [Introducing LibVLCSharp for MAUI](https://dev.to/mfkl/introducing-libvlcsharp-for-maui-naj)
+- [Learning AWS Day by Day — Day 76 — AWS Backup](https://dev.to/rksalo88/learning-aws-day-by-day-day-76-aws-backup-4oop)
+- [C# Excel read/write on the cheap](https://dev.to/karenpayneoregon/c-excel-readwrite-on-the-cheap-36km)
+- [AWS Solution Architect Associate Exam: Experiencia y Recomendaciones](https://dev.to/madriz03/aws-solution-architect-associate-exam-experiencia-y-recomendaciones-1jp5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
