@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Live Feedback](https://dev.to/juliankominovic/introducing-live-feedback-2cg8)
-- [Palindrome Partitioning: An In-Depth Guide](https://dev.to/rk042/palindrome-partitioning-an-in-depth-guide-181n)
-- [Need Guidance on Python Package Development | NFTpy](https://dev.to/coulterstutz/need-guidance-on-python-package-development-nftpy-25ca)
-- [TryOutfit: Virtual Outfit Try-On with AI](https://dev.to/kaarthik108/tryoutfit-virtual-outfit-try-on-with-ai-3ndl)
-- [What Are The Uses of JavaScript](https://dev.to/thekarlesi/what-are-the-uses-of-javascript-32io)
+- [A PAGE TALKS ABOUT &lpar;WCAG — Framework View&rpar;](https://dev.to/rewirebyautomation/a-page-talks-about-wcag-framework-view-53b2)
+- [The Essential Zsh Config for Beginners](https://dev.to/hackman78/the-essential-zsh-config-for-beginners-o40)
+- [Introduction to k6 Load Chaos in LitmusChaos](https://dev.to/litmus-chaos/introduction-to-k6-load-chaos-in-litmuschaos-4l2k)
+- [VideoShift](https://dev.to/kartikjoshiuk/videoshift-g0f)
+- [Provide shared file storage for the company offices.](https://dev.to/opsyog/provide-shared-file-storage-for-the-company-offices-12k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
