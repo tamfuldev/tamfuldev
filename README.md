@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Live Feedback](https://dev.to/juliankominovic/introducing-live-feedback-2cg8)
+- [Palindrome Partitioning: An In-Depth Guide](https://dev.to/rk042/palindrome-partitioning-an-in-depth-guide-181n)
+- [Need Guidance on Python Package Development | NFTpy](https://dev.to/coulterstutz/need-guidance-on-python-package-development-nftpy-25ca)
+- [TryOutfit: Virtual Outfit Try-On with AI](https://dev.to/kaarthik108/tryoutfit-virtual-outfit-try-on-with-ai-3ndl)
 - [What Are The Uses of JavaScript](https://dev.to/thekarlesi/what-are-the-uses-of-javascript-32io)
-- [HTML may be adding a native switch attribute to checkbox inputs!](https://dev.to/rphilippe2/html-may-be-adding-a-native-switch-attribute-to-checkbox-inputs-42db)
-- [Usando a IA do Google SafeSearch em um cenário real](https://dev.to/fillipedornelas/usando-a-ia-do-google-safesearch-em-um-cenario-real-2fii)
-- [What&#39;s the method to hook into the side panel to add panels in the settings group?](https://dev.to/kirk_wallace/whats-the-method-to-hook-into-the-side-panel-to-add-panels-in-the-settings-group-2oca)
-- [Issue with User Role-Based Authorization in ASP.NET Core 5 REST API using JWT](https://dev.to/mcdvoiceforyou/issue-with-user-role-based-authorization-in-aspnet-core-5-rest-api-using-jwt-3hj6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
