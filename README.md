@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Zabbix ile Prometheus Metrik Formatında Kafka İzleme](https://dev.to/aciklab/zabbix-ile-prometheus-metrik-formatinda-kafka-izleme-3knk)
-- [Blog App using AWS Amplify, Angular](https://dev.to/vuchuru27916/blog-app-using-aws-amplify-angular-3dd3)
-- [Recruitify - Where Talent Meets Opportunity](https://dev.to/thegeekyamit/recruitify-where-talent-meets-opportunity-1185)
-- [Perl Weekly #670 - Conference Season ...](https://dev.to/szabgab/perl-weekly-670-conference-season--2c9a)
-- [&#39;CraftCraze&#39; E-commerce Flutter Mobile App for Buyers &amp; Sellers with Admin Web-panel](https://dev.to/ahona_omi/craftcraze-e-commerce-flutter-mobile-app-for-buyers-sellers-with-admin-web-panel-bgn)
+- [How to Use DbVisualizer for Oracle Database Links](https://dev.to/dbvismarketing/how-to-use-dbvisualizer-for-oracle-database-links-467g)
+- [Where MonDev tools comes from](https://dev.to/giuliano1993/where-mondev-tools-comes-from-57ni)
+- [Build Nuxt authentication with Logto](https://dev.to/logto/build-nuxt-authentication-with-logto-5g9h)
+- [Hacked by a Power Automate Trojan Virus](https://dev.to/wyattdave/hacked-by-a-power-automate-trojan-virus-15kc)
+- [News posting website with AWS Amplify](https://dev.to/lizardkinglk/news-posting-website-with-aws-amplify-2oi8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
