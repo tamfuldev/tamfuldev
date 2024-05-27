@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Host a Static Website using Amazon S3 and Serve it Through Amazon CloudFront.](https://dev.to/chigozieco/host-a-static-website-using-amazon-s3-and-serve-it-through-amazon-cloudfront-3om8)
-- [My suitable posts](https://dev.to/hieupham259/my-suitable-posts-5d1i)
-- [Configuring the CodeBehind Framework in the ASP.NET Core Project](https://dev.to/elanatframework/configuring-the-codebehind-framework-in-the-aspnet-core-project-4a0p)
-- [Install Apache Web Server in Ubuntu AWS EC2 Instance](https://dev.to/suravshrestha/install-apache-web-server-in-ubuntu-aws-ec2-instance-5fgf)
-- [Steps To Create A Simple Web Driver Script](https://dev.to/akshara_chandran_0f2b21d7/steps-to-create-a-simple-web-driver-script-30k8)
+- [Interact with AI from your Terminal with Gen-ai-chat](https://dev.to/arindam_1729/interact-with-ai-from-your-terminal-with-gen-ai-chat-5862)
+- [Creating Your First Telegram Bot: Step-by-Step Guide with BotFather | Part 1](https://dev.to/eaca89/creating-your-first-telegram-bot-step-by-step-guide-with-botfather-part-1-5do4)
+- [Launch and Connect to AWS EC2 Instance](https://dev.to/suravshrestha/launch-and-connect-to-aws-ec2-instance-47bm)
+- [Power Automate and React Integration: Automate Business Processes](https://dev.to/primado/power-automate-and-react-integration-automate-business-processes-2oli)
+- [Unlock the power of neural networks 🚀](https://dev.to/futuristicgeeks/unlock-the-power-of-neural-networks-mcb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
