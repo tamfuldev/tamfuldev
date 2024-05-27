@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Disable Dualsence touchpad on Ubuntu](https://dev.to/gordinmitya/disable-dualsence-touchpad-on-ubuntu-2j2i)
-- [How to create a linux VM on Azure &lpar;using PowerShell and install ‘NGINX’ Engine&rpar;](https://dev.to/busybrain/how-to-create-a-linux-vm-on-azure-using-powershell-and-install-nginx-engine-3d27)
-- [Google Apps Script Copilot Gets Supercharged with Retrieval-Augmented Generation &lpar;RAG&rpar; Functionality](https://dev.to/marij_murtaza/google-apps-script-copilot-gets-supercharged-with-retrieval-augmented-generation-rag-functionality-f2h)
-- [A simple introduction to JavaScript promises](https://dev.to/armstrong2035/a-simple-introduction-to-javascript-promises-30oe)
-- [How to Connect an IoT field device&lpar;Raspberry Pi simulator&rpar; from the field to an Azure Cloud IoT Hub for communication and data.](https://dev.to/busybrain/how-to-connect-an-iot-felid-device-from-the-field-to-an-azure-cloud-iot-hub-for-communication-and-data-26lp)
+- [O que é strict mode no JavaScript?](https://dev.to/cristuker/o-que-e-strict-mode-no-javascript-16cb)
+- [Terraform Destroy Command: A Guide to Controlled Infrastructure Removal](https://dev.to/env0/terraform-destroy-command-a-guide-to-controlled-infrastructure-removal-4af8)
+- [VTable usage issue: How to make the table automatically calculate column width based only on the table header](https://dev.to/rayssss/vtable-usage-issue-how-to-make-the-table-automatically-calculate-column-width-based-only-on-the-table-header-1e4p)
+- [Next.js: Unleashing the Power of Performance and SEO for Web Development](https://dev.to/kharkizi/nextjs-unleashing-the-power-of-performance-and-seo-for-web-development-2go)
+- [How I Replaced Gaming with Coding and Became a Web Developer](https://dev.to/proflead/how-i-replaced-gaming-with-coding-and-became-a-web-developer-18bf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
