@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Explaining the Concept of the State Pattern in Flutter](https://dev.to/anurika_joy_c83cb5039b071/explaining-the-concept-of-the-state-pattern-in-flutter-4ool)
-- [How To Build a Data Analytics Dashboard](https://dev.to/domfive/how-to-build-a-data-analytics-dashboard-5805)
-- [Online Journal](https://dev.to/imkarthikeyan/online-journal-2icm)
-- [How to Build a Docker Image from Github and push to Docker Hub using a Jenkins Job](https://dev.to/ericawanja/how-to-push-a-docker-image-to-docker-hub-using-jenkins-job-k5j)
-- [Exploring 64 Bit Asseembly lanaguage](https://dev.to/yuktimulani/exploring-64-bit-asseembly-lanaguage-4fin)
+- [[Game of Purpose] Day 8](https://dev.to/humberd/game-of-purpose-day-8-3bab)
+- [10 Key Data Structures We Use Every Day](https://dev.to/emmauche001/10-key-data-structures-we-use-every-day-2l42)
+- [FileSyncDrive](https://dev.to/godwinagedah/filesyncdrive-3adf)
+- [IP-Adapter-FaceID-PlusV2–0 Shot Face Transfer — Auto Installer &amp; Gradio App — Massed Compute, RunPod, Kaggle, Windows](https://dev.to/furkangozukara/ip-adapter-faceid-plusv2-0-shot-face-transfer-auto-installer-gradio-app-massed-compute-runpod-kaggle-windows-2m20)
+- [AI-assisted coding interview preparation with AWS Amplify Gen 2, React and Bedrock](https://dev.to/thevishnupradeep/ai-assisted-coding-interview-preparation-with-aws-amplify-gen-2-react-and-bedrock-9bd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
