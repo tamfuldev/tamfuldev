@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What are Websockets: The detailed Guide.](https://dev.to/alakkadshaw/what-are-websockets-the-detailed-guide-3hke)
-- [Sorting Arrays](https://dev.to/paulike/sorting-arrays-25n4)
-- [Create AI Assistents with Magic Cloud](https://dev.to/polterguy/create-ai-assistents-with-magic-cloud-3njm)
-- [Mastering Laravel Routing: The Backbone of Robust Applications](https://dev.to/luxauto/mastering-laravel-routing-the-backbone-of-robust-applications-cm5)
-- [Searching Arrays](https://dev.to/paulike/searching-arrays-4fb7)
+- [How to use feature flags for staged rollouts](https://dev.to/pradumnasaraf/how-to-use-feature-flags-for-staged-rollouts-187g)
+- [OWL Odoo framework](https://dev.to/jeevanizm/owl-odoo-framework-48de)
+- [Bridging the Gap Between Observability and Automation with Causal Reasoning](https://dev.to/causely/bridging-the-gap-between-observability-and-automation-with-causal-reasoning-323i)
+- [Why PDF SDKs Fall Short as Fillable Form Solutions](https://dev.to/joyfill/why-pdf-sdks-fall-short-as-fillable-form-solutions-47m6)
+- [1208. Get Equal Substrings Within Budget](https://dev.to/mdarifulhaque/1208-get-equal-substrings-within-budget-31e1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
