@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How we automated displaying error pages based on API responses](https://dev.to/tsudhishnair/how-we-automated-displaying-error-pages-based-on-api-responses-1nkj)
-- [AIM Weekly 27 May 2024](https://dev.to/tspannhw/aim-weekly-27-may-2024-2om0)
-- [ext.kotlin_version = &lt;&#39;latest version&#39;&gt; error on Flutter &lpar;2024&rpar;](https://dev.to/kaif-shariff/extkotlinversion-latest-version-error-on-flutter-2024-20m7)
-- [Difference Between Subject and BehaviorSubject](https://dev.to/benarambide/difference-between-subject-and-behaviorsubject-1g07)
-- [Frontend Developer](https://dev.to/pintu130/frontend-developer-23bi)
+- [Deploying llama.cpp on AWS &lpar;with Troubleshooting&rpar;](https://dev.to/mcharytoniuk/deploying-llamacpp-on-aws-with-troubleshooting-187o)
+- [Securing Your Laravel Backend REST API: A Comprehensive Guide](https://dev.to/asfiaaiman/securing-your-laravel-backend-rest-api-a-comprehensive-guide-ll2)
+- [Congrats to the The AWS Amplify Fullstack TypeScript Challenge Winners!](https://dev.to/devteam/congrats-to-the-the-aws-amplify-fullstack-typescript-challenge-winners-1l37)
+- [🗞 Rapyd Developer Newsletter: May 2024 💳 👛 Card Provisioning for Digital Wallets + Rapyd API Request Signatures in Java](https://dev.to/rapyd/rapyd-developer-newsletter-may-2024-43d3)
+- [How to Pass Data Between Components in React](https://dev.to/dinelkathilina/how-to-pass-data-between-components-in-react-edb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
