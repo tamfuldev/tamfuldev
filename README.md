@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [params key-word](https://dev.to/farkhadk/params-key-word-16n8)
-- [C# 13 dagi yangiliklar!!!](https://dev.to/farkhadk/c-13-dagi-yangiliklar-3e7i)
-- [[Game of Purpose] Day 9](https://dev.to/humberd/game-of-purpose-day-9-bch)
-- [Azure Storage](https://dev.to/irewamide/azure-storage-231e)
-- [Understanding the JVM optimization &lpar;JIT&rpar;](https://dev.to/david_f_santos/understanding-the-jvm-optimization-jit-2d2o)
+- [Whitelisting Specific Paths on Modsecurity 3 with OWASP Rules](https://dev.to/henri_sekeladi/whitelisting-specific-paths-on-modsecurity-3-with-owasp-rules-39d5)
+- [Handy Open source image editor](https://dev.to/nihaojob/handy-open-source-image-editor-2900)
+- [A Comprehensive Guide to NPM &lpar;Node Package Manager&rpar;](https://dev.to/smkbukhari/a-comprehensive-guide-to-npm-node-package-manager-30n4)
+- [Install Modsecurity + OWASP CRS for Nginx Webserver on Centos 7](https://dev.to/henri_sekeladi/install-modsecurity-owasp-crs-for-nginx-webserver-on-centos-7-4fgo)
+- [Install Nginx with Modsecurity 3 + OWASP CRS on Ubuntu 22.04](https://dev.to/henri_sekeladi/install-nginx-with-modsecurity-3-owasp-crs-on-ubuntu-2204-5d6l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
