@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [64-Bit Assembly Language Lab 3 part-3](https://dev.to/yuktimulani/64-bit-assembly-language-lab-3-part-3-3ipi)
-- [Showcase Your GitHub Profile: Contribute to the &quot;Cool GitHub Profile README&quot; Repository!](https://dev.to/nikhilshukla/showcase-your-github-profile-contribute-to-the-cool-github-profile-readme-repository-4c1p)
-- [JavaScript&#39;s Gotchas, also known as &quot;WTF JS](https://dev.to/falselight/javascripts-gotchas-also-known-as-wtf-js-obf)
-- [help with apps script](https://dev.to/emily_tischer_bf4f731fb26/help-with-apps-script-4180)
-- [Structural-Based Testing: A Simple Guide](https://dev.to/tiuwill/structural-based-testing-a-simple-guide-5035)
+- [params key-word](https://dev.to/farkhadk/params-key-word-16n8)
+- [C# 13 dagi yangiliklar!!!](https://dev.to/farkhadk/c-13-dagi-yangiliklar-3e7i)
+- [[Game of Purpose] Day 9](https://dev.to/humberd/game-of-purpose-day-9-bch)
+- [Azure Storage](https://dev.to/irewamide/azure-storage-231e)
+- [Understanding the JVM optimization &lpar;JIT&rpar;](https://dev.to/david_f_santos/understanding-the-jvm-optimization-jit-2d2o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
