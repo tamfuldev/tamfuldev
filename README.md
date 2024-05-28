@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Template Kubernetes manifests with dynamic data using Gomplate functions](https://dev.to/krzwiatrzyk/template-kubernetes-manifests-with-dynamic-data-using-gomplate-functions-4egn)
-- [Use SharpAPI for Translating E-Commerce Product Info](https://dev.to/kornatzky/use-sharpapi-for-translating-e-commerce-product-info-40e8)
-- [day 09](https://dev.to/lordronjuyal/day-09-1gl6)
-- [Pin &amp; Hide Your Way to Teams Channel Glory](https://dev.to/jaloplo/pin-hide-your-way-to-teams-channel-glory-132e)
-- [Build a Safe and Respectful Community with Answer 1.3.1](https://dev.to/answerdev/build-a-safe-and-respectful-community-with-answer-131-1dc7)
+- [The problem with “async void”](https://dev.to/ben-witt/the-problem-with-async-void-5f0j)
+- [Scaling Up Your Design System: From Seedling to Flourishing Forest](https://dev.to/shieldstring/scaling-up-your-design-system-from-seedling-to-flourishing-forest-4l2n)
+- [Creation of Private Storage for Internal Comapny Document with Restricted Access on Azure .](https://dev.to/olaraph/creation-of-private-storage-for-internal-comapny-document-with-restricted-access-on-azure--of0)
+- [Step-By-Step: Learn Parallel Programming with C# and .NET 2024 🧠](https://dev.to/bytehide/step-by-step-learn-parallel-programming-with-c-and-net-2024-61e)
+- [MUST KNOW LINUX COMMANDS FOR BEGINNERS](https://dev.to/shreeprabha_bhat/must-know-linux-commands-for-beginners-14hn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
