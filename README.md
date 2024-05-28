@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Life [1]- Daily update](https://dev.to/fadhilsaheer/life-1-daily-update-1lje)
-- [Built text summarization application to summarize a web page with Angular](https://dev.to/railsstudent/built-text-summarization-application-to-summarize-a-web-page-with-angular-2im1)
-- [Create an AI Version of Yourself with LogiChat](https://dev.to/dalenguyen/create-an-ai-version-of-yourself-with-logichat-2hk8)
-- [hyper &lpar;Rust&rpar; upgrade to v1: Higher-level Server / Client were removed](https://dev.to/nabbisen/hyper-rust-upgrade-to-v1-higher-level-server-client-were-removed-46dl)
-- [Next.js: Three Ways to Call Server Actions from Client Components](https://dev.to/jonathan-dev/nextjs-three-ways-to-call-server-actions-from-client-components-30p3)
+- [Guía Completa sobre Pruebas Unitarias en Angular 16](https://dev.to/nerm_frontend/guia-completa-sobre-pruebas-unitarias-en-angular-16-4djl)
+- [Quantum Convolutional Neural Networks](https://dev.to/zachbenson/quantum-convolutional-neural-networks-clm)
+- [VTable usage issue: How to add column total information to the list](https://dev.to/rayssss/vtable-usage-issue-how-to-add-column-total-information-to-the-list-p1m)
+- [How to deploy your own website on AWS](https://dev.to/rolfstreefkerk/how-to-deploy-your-own-website-on-aws-1l05)
+- [Creating a Custom Log Generator Helper Class in Python](https://dev.to/learn_with_santosh/creating-a-custom-log-generator-helper-class-in-python-40fm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
