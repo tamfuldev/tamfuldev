@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [LeetCode Meditations: Design Add and Search Words Data Structure](https://dev.to/rivea0/leetcode-meditations-design-add-and-search-words-data-structure-58dn)
-- [Integrate APIs using a common function in React JS. The Best Way To Integrate APIs In React JS](https://dev.to/sajithpj/integrate-apis-using-a-common-function-in-react-js-the-best-way-to-integrate-apis-in-react-js-53he)
-- [Understanding JavaScript Blocks and Scope](https://dev.to/bhavesh_jadhav_dc5b8ed28b/understanding-javascript-blocks-and-scope-515l)
-- [#1208. Get Equal Substrings Within Budget](https://dev.to/karleb/1208-get-equal-substrings-within-budget-3b40)
-- [Django: Admin](https://dev.to/samuellubliner/django-admin-2f3i)
+- [My first ever company meeting.](https://dev.to/angeljrp/my-first-ever-business-meeting-1kjl)
+- [React 19 example of new useOptimistic&lpar;&rpar; hook](https://dev.to/sensorario/react-19-example-of-new-useoptimistic-hook-27lf)
+- [Entendendo a Lei de Demeter em Design de Software](https://dev.to/dsb88/entendendo-a-lei-de-demeter-em-design-de-software-3p5g)
+- [Securing My First Internship with Open Source](https://dev.to/iarchitsharma/securing-my-first-internship-with-open-source-15bn)
+- [From Slow Code to Lightning Fast: Mastering the Trampolining Technique](https://dev.to/silverindigo/from-slow-code-to-lightning-fast-mastering-the-trampolining-technique-3cem)
 <!-- BLOG-POST-LIST:END -->
 
 ---
