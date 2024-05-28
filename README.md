@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Streamline Development with Effective API Mocking](https://dev.to/getambassador2024/streamline-development-with-effective-api-mocking-3ji8)
-- [Rejeição de teste fechado do Google ~Você precisa pensar em como conseguir testadores~](https://dev.to/zmsoft/rejeicao-de-teste-fechado-do-google-voce-precisa-pensar-em-como-conseguir-testadores-5bk8)
-- [What is Low Code Test Automation?](https://dev.to/abhayit2000/what-is-low-code-test-automation-47pj)
-- [Zed Editor - My honest opinion](https://dev.to/fadhilsaheer/zed-editor-my-honest-opinion-3818)
-- [ML Intro : IRIS DATASET](https://dev.to/kammarianand/ml-intro-iris-dataset-4e13)
+- [Template Kubernetes manifests with dynamic data using Gomplate functions](https://dev.to/krzwiatrzyk/template-kubernetes-manifests-with-dynamic-data-using-gomplate-functions-4egn)
+- [Use SharpAPI for Translating E-Commerce Product Info](https://dev.to/kornatzky/use-sharpapi-for-translating-e-commerce-product-info-40e8)
+- [day 09](https://dev.to/lordronjuyal/day-09-1gl6)
+- [Pin &amp; Hide Your Way to Teams Channel Glory](https://dev.to/jaloplo/pin-hide-your-way-to-teams-channel-glory-132e)
+- [Build a Safe and Respectful Community with Answer 1.3.1](https://dev.to/answerdev/build-a-safe-and-respectful-community-with-answer-131-1dc7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
