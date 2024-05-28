@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Life [1]- Daily update](https://dev.to/fadhilsaheer/life-1-daily-update-1lje)
+- [Built text summarization application to summarize a web page with Angular](https://dev.to/railsstudent/built-text-summarization-application-to-summarize-a-web-page-with-angular-2im1)
+- [Create an AI Version of Yourself with LogiChat](https://dev.to/dalenguyen/create-an-ai-version-of-yourself-with-logichat-2hk8)
 - [hyper &lpar;Rust&rpar; upgrade to v1: Higher-level Server / Client were removed](https://dev.to/nabbisen/hyper-rust-upgrade-to-v1-higher-level-server-client-were-removed-46dl)
-- [Whitelisting Specific Paths on Modsecurity 3 with OWASP Rules](https://dev.to/henri_sekeladi/whitelisting-specific-paths-on-modsecurity-3-with-owasp-rules-39d5)
-- [Handy Open source image editor](https://dev.to/nihaojob/handy-open-source-image-editor-2900)
-- [A Comprehensive Guide to NPM &lpar;Node Package Manager&rpar;](https://dev.to/smkbukhari/a-comprehensive-guide-to-npm-node-package-manager-30n4)
-- [Install Modsecurity + OWASP CRS for Nginx Webserver on Centos 7](https://dev.to/henri_sekeladi/install-modsecurity-owasp-crs-for-nginx-webserver-on-centos-7-4fgo)
+- [Next.js: Three Ways to Call Server Actions from Client Components](https://dev.to/jonathan-dev/nextjs-three-ways-to-call-server-actions-from-client-components-30p3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
