@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Code With Me: Daily Twitter Tips &amp; Discussions](https://dev.to/m__mdy__m/code-with-me-daily-twitter-tips-discussions-45mg)
-- [Como classificar a sua linguagem - Introdução a sistema de tipos](https://dev.to/terminalcoffee/como-classificar-a-sua-linguagem-introducao-a-sistema-de-tipos-kgk)
-- [Load .env using Config Module in NestJS](https://dev.to/depak379mandal/load-env-using-config-module-in-nestjs-eeo)
-- [Java String Management: String Pool vs String Heap Explained](https://dev.to/nrj-21/java-string-management-string-pool-vs-string-heap-explained-p0a)
-- [Getting started with Nest JS](https://dev.to/depak379mandal/getting-started-with-nestjs-1jhp)
+- [LeetCode Meditations: Design Add and Search Words Data Structure](https://dev.to/rivea0/leetcode-meditations-design-add-and-search-words-data-structure-58dn)
+- [Integrate APIs using a common function in React JS. The Best Way To Integrate APIs In React JS](https://dev.to/sajithpj/integrate-apis-using-a-common-function-in-react-js-the-best-way-to-integrate-apis-in-react-js-53he)
+- [Understanding JavaScript Blocks and Scope](https://dev.to/bhavesh_jadhav_dc5b8ed28b/understanding-javascript-blocks-and-scope-515l)
+- [#1208. Get Equal Substrings Within Budget](https://dev.to/karleb/1208-get-equal-substrings-within-budget-3b40)
+- [Django: Admin](https://dev.to/samuellubliner/django-admin-2f3i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
