@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [MithrilJS component with state management](https://dev.to/pablo_74/mithriljs-component-with-state-management-1l59)
-- [Multidimensional Arrays](https://dev.to/paulike/multidimensional-arrays-5hl1)
-- [The Power of Decorators: Separation Of Concerns &lpar;SOC&rpar; in Python Code](https://dev.to/myexamcloud/the-power-of-decorators-separation-of-concerns-soc-in-python-code-5ci9)
-- [Boost Your Interview Calls: Update Your Resume with ATS Score Checker, ChatGPT, and JobForm Automator](https://dev.to/s_belote_dev/boost-your-interview-calls-update-your-resume-with-ats-score-checker-chatgpt-and-jobform-automator-312h)
-- [Is Serverless Still Relevant? &lpar;GCP Addition&rpar;](https://dev.to/thenjdevopsguy/is-serverless-still-relevant-gcp-addition-ic8)
+- [GCP Cloud Run vs Kubernetes](https://dev.to/thenjdevopsguy/gcp-cloud-run-vs-kubernetes-5g2b)
+- [HFDP&lpar;12&rpar; - Compound Pattern](https://dev.to/jzfrank/hfdp12-compound-pattern-2e2b)
+- [Automate React App Deployment to AWS S3 with a Simple Bash Script](https://dev.to/akki907/automate-react-app-deployment-to-aws-s3-with-a-simple-bash-script-24ag)
+- [Amazon OpenSearch](https://dev.to/aws-builders/amazon-opensearch-2di6)
+- [How to code faster for beginners.](https://dev.to/margret_mauno/how-to-code-faster-for-beginners-2phn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
