@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding MySQL Query Optimizer: COUNT&lpar;id&rpar; vs COUNT&lpar;*&rpar;](https://dev.to/darkotodoric/understanding-mysql-query-optimizer-countid-vs-count-2ed5)
-- [10 Reasons for Flaky Tests](https://dev.to/oyedeletemitope/10-reasons-for-flaky-tests-5a63)
-- [Create a Fullstack app with Vue and Go &lpar;And Tailwindcss v4&rpar;](https://dev.to/maxiim3/create-a-fullstack-app-with-vue-and-go-and-tailwindcss-v4-22ai)
-- [Deploy Ollama with s6-overlay to serve and pull in one shot](https://dev.to/darnahsan/deploy-ollama-with-s6-overlay-to-serve-and-pull-in-one-shot-31cm)
-- [Documentação dos Testes do Sistema SLAVE ONE](https://dev.to/marcela_lage_094e814c6a4e/documentacao-dos-testes-do-sistema-slave-one-2kmb)
+- [🔍 Unleash the Power of ChatGPT - Essential Prompts for Developers](https://dev.to/adam/unleash-the-power-of-chatgpt-essential-prompts-for-developers-7f8)
+- [How Function And Variables Works in JavaScript : Behind the Scenes](https://dev.to/pervez/how-function-and-variables-works-in-javascript-behind-the-scenes-gc5)
+- [Styling HTML Elements with CSS](https://dev.to/harsh_dev26/styling-html-elements-with-css-flf)
+- [Building a Movie Recommendation Program in Python](https://dev.to/medo_id99/building-a-movie-recommendation-program-in-python-2dni)
+- [** ¡Los Caballeros del Zodiaco te enseñan JSON!**🛡️](https://dev.to/orlidev/-los-caballeros-del-zodiaco-te-ensenan-json-20mb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
