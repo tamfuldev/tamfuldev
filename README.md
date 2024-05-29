@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Securing App Development with Managed Identities and Role-Based Access Control](https://dev.to/olaraph/securing-app-development-with-managed-identities-and-role-based-access-control-484h)
-- [Writing Self-Documenting Code 🧑‍💻📜](https://dev.to/mattlewandowski93/writing-self-documenting-code-4lga)
-- [The Struggle is Real: 3 Signs You Need Cloud Development Environments](https://dev.to/ssadasivuni/the-struggle-is-real-3-signs-you-need-cloud-development-environments-3fcb)
-- [Security considerations of configuration management](https://dev.to/puppet/security-considerations-of-configuration-management-122n)
-- [NGINX als Reverse Proxy - Django in Produktion Teil 6](https://dev.to/rubenvoss/nginx-als-reverse-proxy-django-in-produktion-teil-6-33b7)
+- [Event Listeners in Javascript](https://dev.to/spencer_adler_880da14d230/event-listeners-in-javascript-489f)
+- [Streamlining Webpage Deployment on Multi-VMs Using Bash Scripts](https://dev.to/ritik_saxena/streamlining-webpage-deployment-on-multi-vms-using-bash-scripts-2ml2)
+- [How To Host a Static Website in Azure Blob Storage](https://dev.to/emmamag/how-to-host-a-static-website-in-azure-blob-storage-bab)
+- [Instruction Set Architecture, a linguagem das máquinas](https://dev.to/erick_tmr/instruction-set-architecture-a-linguagem-das-maquinas-4o8d)
+- [Generative AI Serverless - RAG using Bedrock Knowledge base, &amp; Single document chat via AWS Console!](https://dev.to/bhatiagirish/generative-ai-serverless-rag-using-bedrock-knowledge-base-single-document-chat-via-aws-console-5adi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
