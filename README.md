@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to monitor all AWS Console logins and failed attempts with CloudTrail and CloudWatch - Terraform automation](https://dev.to/montaigu/how-to-monitor-all-aws-console-logins-and-failed-attempts-with-cloudtrail-and-cloudwatch-terraform-automation-2pi1)
-- [Cloudd](https://dev.to/ozcankara/cloudd-1f7f)
-- [HOW TO CONNECT AN IOT FIELD DEVICE &lpar;RASPBERRY PI SIMULATOR&rpar; FROM THE FIELD TO AN AZURE CLOUD IOT HUB FOR COMMUNICATION AND DATA](https://dev.to/atony07/how-to-connect-an-iot-field-device-raspberry-pi-simulator-from-the-field-to-an-azure-cloud-iot-hub-for-communication-and-data-iob)
-- [Datalists or 50 lines of extra JavaScript and HTML?](https://dev.to/wagenrace/datalists-or-50-lines-of-extra-javascript-and-html-51j1)
-- [Mysterious /sink route in ui.shadcn.com](https://dev.to/ramunarasinga/mysterious-sink-route-in-uishadcncom-13a4)
+- [Securing App Development with Managed Identities and Role-Based Access Control](https://dev.to/olaraph/securing-app-development-with-managed-identities-and-role-based-access-control-484h)
+- [Writing Self-Documenting Code 🧑‍💻📜](https://dev.to/mattlewandowski93/writing-self-documenting-code-4lga)
+- [The Struggle is Real: 3 Signs You Need Cloud Development Environments](https://dev.to/ssadasivuni/the-struggle-is-real-3-signs-you-need-cloud-development-environments-3fcb)
+- [Security considerations of configuration management](https://dev.to/puppet/security-considerations-of-configuration-management-122n)
+- [NGINX als Reverse Proxy - Django in Produktion Teil 6](https://dev.to/rubenvoss/nginx-als-reverse-proxy-django-in-produktion-teil-6-33b7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
