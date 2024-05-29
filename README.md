@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [RabbitMQ Upgrade Best Practices](https://dev.to/stoft/rabbitmq-upgrade-best-practices-1i82)
-- [Setting Up An Angular Project](https://dev.to/reliable25/setting-up-an-angular-project-383n)
-- [Creating Forms in Ruby on Rails with Simple Form](https://dev.to/appsignal/creating-forms-in-ruby-on-rails-with-simple-form-3od1)
-- [Adding external domains in nextjs project.](https://dev.to/shahbaazx786/adding-external-domains-in-nextjs-project-48p2)
-- [Google’s AI Research in Healthcare: Med-PaLM and Beyond](https://dev.to/aishikl/googles-ai-research-in-healthcare-med-palm-and-beyond-2ddg)
+- [Java 21: The Magic Behind Virtual Threads](https://dev.to/elayachiabdelmajid/java-21-virtual-threads-1h5b)
+- [How to setup your own mail server.](https://dev.to/kloudino/how-to-setup-your-own-mail-server-3k41)
+- [Core Concepts of AI](https://dev.to/mohbohlahji/core-concepts-of-ai-g03)
+- [Understanding Hash Tables: The Backbone of Efficient Data Storage](https://dev.to/luisfpedroso/understanding-hash-tables-the-backbone-of-efficient-data-storage-25el)
+- [Robust API Retry Mechanism with AWS Step Functions and Lambda](https://dev.to/aws-builders/robust-api-retry-mechanism-with-aws-step-functions-and-lambda-4lap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
