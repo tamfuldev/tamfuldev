@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GCP Cloud Run vs Kubernetes](https://dev.to/thenjdevopsguy/gcp-cloud-run-vs-kubernetes-5g2b)
-- [HFDP&lpar;12&rpar; - Compound Pattern](https://dev.to/jzfrank/hfdp12-compound-pattern-2e2b)
-- [Automate React App Deployment to AWS S3 with a Simple Bash Script](https://dev.to/akki907/automate-react-app-deployment-to-aws-s3-with-a-simple-bash-script-24ag)
-- [Amazon OpenSearch](https://dev.to/aws-builders/amazon-opensearch-2di6)
-- [How to code faster for beginners.](https://dev.to/margret_mauno/how-to-code-faster-for-beginners-2phn)
+- [Understanding MySQL Query Optimizer: COUNT&lpar;id&rpar; vs COUNT&lpar;*&rpar;](https://dev.to/darkotodoric/understanding-mysql-query-optimizer-countid-vs-count-2ed5)
+- [10 Reasons for Flaky Tests](https://dev.to/oyedeletemitope/10-reasons-for-flaky-tests-5a63)
+- [Create a Fullstack app with Vue and Go &lpar;And Tailwindcss v4&rpar;](https://dev.to/maxiim3/create-a-fullstack-app-with-vue-and-go-and-tailwindcss-v4-22ai)
+- [Deploy Ollama with s6-overlay to serve and pull in one shot](https://dev.to/darnahsan/deploy-ollama-with-s6-overlay-to-serve-and-pull-in-one-shot-31cm)
+- [Documentação dos Testes do Sistema SLAVE ONE](https://dev.to/marcela_lage_094e814c6a4e/documentacao-dos-testes-do-sistema-slave-one-2kmb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
