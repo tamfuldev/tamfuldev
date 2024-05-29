@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Java 21: The Magic Behind Virtual Threads](https://dev.to/elayachiabdelmajid/java-21-virtual-threads-1h5b)
-- [How to setup your own mail server.](https://dev.to/kloudino/how-to-setup-your-own-mail-server-3k41)
-- [Core Concepts of AI](https://dev.to/mohbohlahji/core-concepts-of-ai-g03)
-- [Understanding Hash Tables: The Backbone of Efficient Data Storage](https://dev.to/luisfpedroso/understanding-hash-tables-the-backbone-of-efficient-data-storage-25el)
-- [Robust API Retry Mechanism with AWS Step Functions and Lambda](https://dev.to/aws-builders/robust-api-retry-mechanism-with-aws-step-functions-and-lambda-4lap)
+- [What is Threat Detection and Response &lpar;TDR&rpar;?](https://dev.to/clouddefenseai/what-is-threat-detection-and-response-tdr-1ib1)
+- [How to track your GitHub todos and accomplishments](https://dev.to/sdotson/how-to-track-your-github-todos-and-accomplishments-3n59)
+- [The Ultimate beginners guide to open source – part 1](https://dev.to/dunsincodes/the-ultimate-beginners-guide-to-open-source-part-1-2la9)
+- [for Loops in JavaScript](https://dev.to/vman_eesh/for-loops-in-javascript-48ld)
+- [Different Testing Techniques](https://dev.to/s1eb0d54/different-testing-techniques-4ipf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
