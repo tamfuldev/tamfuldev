@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [150+ FREE Resources Every Developer Needs to Know](https://dev.to/crafting-code/150-free-resources-every-developer-needs-to-know-21l3)
-- [Advanced Solidity: Event Logging and Error Handling](https://dev.to/superxdev/advanced-solidity-event-logging-and-error-handling-4k68)
-- [Build a Personal Target Tracking Application with Flutter Riverpod and Strapi GraphQL](https://dev.to/strapi/build-a-personal-target-tracking-application-with-flutter-riverpod-and-strapi-graphql-467b)
-- [HTTP3之key update](https://dev.to/shouhua_57/http3zhi-key-update-nod)
-- [HTTP3之QUIC协议early data](https://dev.to/shouhua_57/http3zhi-quicxie-yi-early-data-3899)
+- [Amazing React 19 Updates 🔥🔥😍...](https://dev.to/srijanbaniyal/amazing-react-19-updates--4g5a)
+- [Java Unit Testing: A Comprehensive Guide](https://dev.to/keploy/java-unit-testing-a-comprehensive-guide-4930)
+- [How to use Quill Editor with Laravel 10 and Livewire v3](https://dev.to/adetolaaremu/how-to-use-quill-editor-with-laravel-10-and-livewire-v3-2l6c)
+- [10 Microservices Architecture Challenges for System Design Interviews](https://dev.to/somadevtoo/10-microservices-architecture-challenges-for-system-design-interviews-6g0)
+- [Razor pages vs MVC](https://dev.to/ifourtechnolab/razor-pages-vs-mvc-3onb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
