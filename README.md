@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A programming language coding in a grid](https://dev.to/esproc_spl/a-programming-language-coding-in-a-grid-2mhc)
-- [Mastering Matplotlib: A Guide to Bar Charts, Histograms, Scatter Plots, and Pie Charts](https://dev.to/lohith0512/mastering-matplotlib-a-guide-to-bar-charts-histograms-scatter-plots-and-pie-charts-mgb)
-- [Seeking Guidance: How Can a Cloud Data Engineer Harness the Power of GenAI?](https://dev.to/rajaryan/seeking-guidance-how-can-a-cloud-data-engineer-harness-the-power-of-genai-322p)
-- [Creating Eye-Catching Plots with Matplotlib: A Guide to Custom Titles](https://dev.to/lohith0512/creating-eye-catching-plots-with-matplotlib-a-guide-to-custom-titles-558)
-- [Building Vue3 Component Library from Scratch #9 Setting Up and Deploying Documentation with VitePress](https://dev.to/markliu2013/building-vue3-component-library-from-scratch-9-setting-up-and-deploying-documentation-with-vitepress-1hgc)
+- [150+ FREE Resources Every Developer Needs to Know](https://dev.to/crafting-code/150-free-resources-every-developer-needs-to-know-21l3)
+- [Advanced Solidity: Event Logging and Error Handling](https://dev.to/superxdev/advanced-solidity-event-logging-and-error-handling-4k68)
+- [Build a Personal Target Tracking Application with Flutter Riverpod and Strapi GraphQL](https://dev.to/strapi/build-a-personal-target-tracking-application-with-flutter-riverpod-and-strapi-graphql-467b)
+- [HTTP3之key update](https://dev.to/shouhua_57/http3zhi-key-update-nod)
+- [HTTP3之QUIC协议early data](https://dev.to/shouhua_57/http3zhi-quicxie-yi-early-data-3899)
 <!-- BLOG-POST-LIST:END -->
 
 ---
