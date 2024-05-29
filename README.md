@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-160j)
-- [Pele Radiante:Os Melhores Óleos Essenciais para Limpeza Profunda](https://dev.to/vidacomartesanato/pele-radianteos-melhores-oleos-essenciais-para-limpeza-profunda-4lfk)
-- [How to Resolve Node.js ERR_OSSL_EVP_UNSUPPORTED Error](https://dev.to/saint_vandora/how-to-resolve-nodejs-errosslevpunsupported-error-1cd1)
-- [Self-Hosted WordPress Plugin Updates](https://dev.to/drazenbebic/self-hosted-wordpress-plugin-updates-dc9)
-- [Instalar Docker en modo rootless &lpar;Sin privilegios root&rpar;](https://dev.to/systemsapatrick/instalar-docker-en-modo-rootless-sin-privilegios-root-52df)
+- [Welcome Thread - v278](https://dev.to/devteam/welcome-thread-v278-2jha)
+- [Nol indekslangan to&#39;plamlar](https://dev.to/farkhadk/nol-indekslangan-toplamlar-6c3)
+- [View in CodeBehind Framework](https://dev.to/elanatframework/view-in-codebehind-framework-5h8g)
+- [[Game of Purpose] Day 10](https://dev.to/humberd/game-of-purpose-day-10-673)
+- [I&#39;ve been trying Haruki Murakami&#39;s routine &lpar;Wake up at 4 am to get 6 hours of deep work&rpar;](https://dev.to/buditanrim/ive-been-trying-haruki-murakamis-routine-wake-up-at-4-am-to-get-6-hours-of-deep-work-39hk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
