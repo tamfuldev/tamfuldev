@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Contextual Software Development](https://dev.to/rasharm_/contextual-software-development-18c6)
-- [What is Intermediate Representation - A Gist](https://dev.to/k-srivastava/what-is-intermediate-representation-a-gist-225g)
-- [Contextual Targeting vs Cookies: Who will win in 2024?](https://dev.to/silverpush/contextual-targeting-vs-cookies-who-will-win-in-2024-2m5h)
-- [Simplify RAG application with MongoDB Atlas and Amazon Bedrock](https://dev.to/aws/simplify-rag-application-with-mongodb-atlas-and-amazon-bedrock-3fda)
-- [Building Vue3 Component Library from Scratch #12 Vitest](https://dev.to/markliu2013/building-vue3-component-library-from-scratch-12-vitest-2kkf)
+- [How Retrieval Augmented Generation &lpar;RAG&rpar; Work](https://dev.to/cybersasa/how-retrieval-augmented-generation-rag-work-101e)
+- [Natural type of Method group](https://dev.to/farkhadk/natural-type-of-method-group-4kp0)
+- [Natural type of Method group](https://dev.to/farkhadk/natural-type-of-method-group-min)
+- [The No PLAN-B Mindset &amp; How Champions Win](https://dev.to/jobreadyprogrammer/the-no-plan-b-mindset-how-champions-win-37ji)
+- [Exploring Angular v18: Zoneless Change Detection and More](https://dev.to/dipakahirav/exploring-angular-v18-zoneless-change-detection-and-more-565)
 <!-- BLOG-POST-LIST:END -->
 
 ---
