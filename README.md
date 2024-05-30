@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Notre retour &lpar;Build &amp; Deploy&rpar; sur Devoxx France 2024](https://dev.to/onepoint/notre-retour-build-deploy-sur-devoxx-france-2024-kg7)
-- [Buy Some Happiness This Summer! - Web Page](https://dev.to/sarmittal/buy-some-happiness-this-summer-web-page-202h)
-- [Implementing Semantic Caching using Qdrant and Rust](https://dev.to/shuttle_dev/implementing-semantic-caching-using-qdrant-and-rust-4nbj)
-- [Mastering Terraform Contains and Strcontains Functions](https://dev.to/heyvaldemar/mastering-terraform-contains-and-strcontains-functions-2l17)
-- [Network Visibility For Application Performance](https://dev.to/thenjdevopsguy/network-visibility-for-application-performance-4139)
+- [FastAPI Beyond CRUD Part 3 - Buiding a CRUD REST API](https://dev.to/jod35/fastapi-beyond-crud-part-3-buiding-a-crud-rest-api-4fop)
+- [Django: Homepage](https://dev.to/samuellubliner/django-homepage-3lnh)
+- [The Rise of AI-Powered Startups in 2024](https://dev.to/bingecoder89/the-rise-of-ai-powered-startups-in-2024-dlp)
+- [6 Opportunities You Can Capitalize on Using AI-powered Adaptive Learning](https://dev.to/techpcmag/6-opportunities-you-can-capitalize-on-using-ai-powered-adaptive-learning-5f1l)
+- [Simple KV storage on top of indexedDB](https://dev.to/fkrasnowski/simple-kv-storage-on-top-of-indexeddb-3jcg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
