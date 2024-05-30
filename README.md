@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Lesser Known Rails Helpers to Write Cleaner View Code](https://dev.to/railsdesigner/lesser-known-rails-helpers-to-write-cleaner-view-code-5d3n)
-- [Create Stunning Parallax Animations On Your Website](https://dev.to/keploy/create-stunning-parallax-animations-on-your-website-1clc)
-- [The Ultimate Guide to .NET Native AOT: Benefits and Examples 🤫](https://dev.to/bytehide/the-ultimate-guide-to-net-native-aot-benefits-and-examples-pg4)
-- [Thinking of migrating from Confluence but worried about losing data?](https://dev.to/lorina_b/thinking-of-migrating-from-confluence-but-worried-about-losing-data-1gpc)
-- [Load Testing with Locust](https://dev.to/ajt2/load-testing-with-locust-4h1p)
+- [Let&#39;s build a simple MLOps workflow on AWS! #3 - Running ML training as a container](https://dev.to/hikarunakatani/lets-build-a-simple-mlops-workflow-on-aws-3-running-ml-training-as-a-container-1lhl)
+- [The Ultimate Roadmap to Mastering Data Structures](https://dev.to/shabink/the-ultimate-roadmap-to-mastering-data-structures-1o94)
+- [Handling Environment Configurations in Front end Development](https://dev.to/anshulsao/handling-environment-configurations-in-front-end-development-47fk)
+- [[Game of Purpose] Day 11](https://dev.to/humberd/game-of-purpose-day-11-1ac)
+- [Cluster Stickiness for Large Distributed Applications](https://dev.to/chetanhs/cluster-stickiness-for-large-distributed-applications-4hja)
 <!-- BLOG-POST-LIST:END -->
 
 ---
