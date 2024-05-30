@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;s build a simple MLOps workflow on AWS! #3 - Running ML training as a container](https://dev.to/hikarunakatani/lets-build-a-simple-mlops-workflow-on-aws-3-running-ml-training-as-a-container-1lhl)
-- [The Ultimate Roadmap to Mastering Data Structures](https://dev.to/shabink/the-ultimate-roadmap-to-mastering-data-structures-1o94)
-- [Handling Environment Configurations in Front end Development](https://dev.to/anshulsao/handling-environment-configurations-in-front-end-development-47fk)
-- [[Game of Purpose] Day 11](https://dev.to/humberd/game-of-purpose-day-11-1ac)
-- [Cluster Stickiness for Large Distributed Applications](https://dev.to/chetanhs/cluster-stickiness-for-large-distributed-applications-4hja)
+- [Using the New Milvus-Lite](https://dev.to/tspannhw/using-the-new-milvus-lite-4dea)
+- [Using Milvus-Lite Now](https://dev.to/tspannhw/using-milvus-lite-now-4n59)
+- [Navigating Through the Nuances of Various Testing Types: Unit, Integration, and End-to-End Testing](https://dev.to/abhayit2000/navigating-through-the-nuances-of-various-testing-types-unit-integration-and-end-to-end-testing-2lkk)
+- [You’re reporting bugs like cavemen](https://dev.to/qvstio/youre-reporting-bugs-like-cavemen-5bko)
+- [Distributed validator technology with Obol Labs](https://dev.to/st1p3kolovrat/distributed-validator-technology-with-obol-labs-4d38)
 <!-- BLOG-POST-LIST:END -->
 
 ---
