@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [FastAPI Beyond CRUD Part 3 - Buiding a CRUD REST API](https://dev.to/jod35/fastapi-beyond-crud-part-3-buiding-a-crud-rest-api-4fop)
-- [Django: Homepage](https://dev.to/samuellubliner/django-homepage-3lnh)
-- [The Rise of AI-Powered Startups in 2024](https://dev.to/bingecoder89/the-rise-of-ai-powered-startups-in-2024-dlp)
-- [6 Opportunities You Can Capitalize on Using AI-powered Adaptive Learning](https://dev.to/techpcmag/6-opportunities-you-can-capitalize-on-using-ai-powered-adaptive-learning-5f1l)
-- [Simple KV storage on top of indexedDB](https://dev.to/fkrasnowski/simple-kv-storage-on-top-of-indexeddb-3jcg)
+- [Go Lang Advance Concepts](https://dev.to/syedmuhammadaliraza/go-lang-advance-concepts-2dpi)
+- [What is DevOps?](https://dev.to/bhuvaneshwa/what-is-devops-36f6)
+- [Mastering React Hooks: Best Practices for Efficient and Maintainable Code](https://dev.to/shantih_palani/mastering-react-hooks-best-practices-for-efficient-and-maintainable-code-4mp5)
+- [Migrating a SQLite3 Database to PostgreSQL in Dokku](https://dev.to/swanny85/migrating-a-sqlite3-database-to-postgresql-in-dokku-22j0)
+- [HOW TO SECURE A WINDOWS SERVER WITH IIS AND AZURE NETWORK SECURITY FEATURES](https://dev.to/droz79/how-to-secure-a-windows-server-with-iis-and-azure-network-security-features-1g8i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
