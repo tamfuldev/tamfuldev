@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Enabling Slow Query Log Enhances Postgres Observability](https://dev.to/metis/how-enabling-slow-query-log-enhances-postgres-observability-cpb)
-- [Mastering Clipboard Operations in JavaScript: A Guide to Copying Text with the Clipboard API](https://dev.to/iamcymentho/mastering-clipboard-operations-in-javascript-a-guide-to-copying-text-with-the-clipboard-api-180k)
-- [&quot;The ChatGPT: The Ultimate Roller-coaster of AI&quot;](https://dev.to/tanisha_chopra_15/the-chatgpt-the-ultimate-roller-coaster-of-ai-447m)
-- [When I had no ideas for writing a paper, I found a useful tool](https://dev.to/writegoai/when-i-had-no-ideas-for-writing-a-paper-i-found-a-useful-tool-3236)
-- [We have to talk about Dev](https://dev.to/shalaw_fatah_09a3aef863eb/we-have-to-talk-about-dev-3g0d)
+- [Lesser Known Rails Helpers to Write Cleaner View Code](https://dev.to/railsdesigner/lesser-known-rails-helpers-to-write-cleaner-view-code-5d3n)
+- [Create Stunning Parallax Animations On Your Website](https://dev.to/keploy/create-stunning-parallax-animations-on-your-website-1clc)
+- [The Ultimate Guide to .NET Native AOT: Benefits and Examples 🤫](https://dev.to/bytehide/the-ultimate-guide-to-net-native-aot-benefits-and-examples-pg4)
+- [Thinking of migrating from Confluence but worried about losing data?](https://dev.to/lorina_b/thinking-of-migrating-from-confluence-but-worried-about-losing-data-1gpc)
+- [Load Testing with Locust](https://dev.to/ajt2/load-testing-with-locust-4h1p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
