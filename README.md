@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Contextual Software Development](https://dev.to/rasharm_/contextual-software-development-18c6)
+- [What is Intermediate Representation - A Gist](https://dev.to/k-srivastava/what-is-intermediate-representation-a-gist-225g)
 - [Contextual Targeting vs Cookies: Who will win in 2024?](https://dev.to/silverpush/contextual-targeting-vs-cookies-who-will-win-in-2024-2m5h)
 - [Simplify RAG application with MongoDB Atlas and Amazon Bedrock](https://dev.to/aws/simplify-rag-application-with-mongodb-atlas-and-amazon-bedrock-3fda)
-- [How To Apply The GCP Service Account Into On-premise K8S Step By Step](https://dev.to/u2633/how-to-apply-the-gcp-service-account-into-on-premise-k8s-step-by-step-4oc8)
-- [How To Pull The Images on GCP Artifact Registry From On-premise K8S](https://dev.to/u2633/how-to-pull-the-images-on-gcp-artifact-registry-from-on-premise-k8s-6o4)
-- [Day 2: Text Formatting and Links in HTML](https://dev.to/dipakahirav/day-2-text-formatting-and-links-in-html-38jm)
+- [Building Vue3 Component Library from Scratch #12 Vitest](https://dev.to/markliu2013/building-vue3-component-library-from-scratch-12-vitest-2kkf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
