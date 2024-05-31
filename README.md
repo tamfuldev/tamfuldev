@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI and Developers: Positive Impacts, Concerns, and Solutions](https://dev.to/kukhoonryou/ai-and-developers-positive-impacts-concerns-and-solutions-48ie)
-- [Enhance Insights with Azure Digital Twin Integrations into Azure Services](https://dev.to/nicholajones075/enhance-insights-with-azure-digital-twin-integrations-into-azure-services-3jec)
-- [TestNG vs JUnit: A Comparative Analysis of Java Testing Frameworks](https://dev.to/keploy/testng-vs-junit-a-comparative-analysis-of-java-testing-frameworks-5e1i)
-- [Homework](https://dev.to/xojiakbar_abdulaxatov_48e/homework-3pmc)
-- [Easy, sure. Quick, never.](https://dev.to/jonesrussell/easy-sure-quick-never-3m4j)
+- [The Four P’s of Platform Engineering for Prosperity](https://dev.to/getambassador2024/the-four-ps-of-platform-engineering-for-prosperity-25pb)
+- [Think Atomic: Break Complex UI Into React Components For Better Design](https://dev.to/mroman7/think-atomic-break-complex-ui-into-react-components-for-better-design-41c7)
+- [Introduction to Full Stack Development](https://dev.to/suhaspalani/introduction-to-full-stack-development-2bj9)
+- [How to use Midjourney API by Python](https://dev.to/ttapi/how-to-use-midjourney-api-by-python-1i3a)
+- [The Future of Software is Couture: Tailoring Technology to Individual Needs](https://dev.to/shieldstring/the-future-of-software-is-couture-tailoring-technology-to-individual-needs-30aj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
