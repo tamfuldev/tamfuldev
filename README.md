@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Monthly Challenge: Mid-Year Check-In — Recharge and Refocus for an Amazing Second Half!](https://dev.to/virtualcoffee/monthly-challenge-mid-year-check-in-recharge-and-refocus-for-an-amazing-second-half-2k4c)
-- [Top Ionic Interview Questions and Answers](https://dev.to/lalyadav/top-ionic-interview-questions-and-answers-46gh)
-- [Kubernetes Deployment Best Practices: Ensuring Stability and Scalability](https://dev.to/rachgrey/kubernetes-deployment-best-practices-ensuring-stability-and-scalability-14e6)
-- [Anonymous functions in JavaScript](https://dev.to/vman_eesh/anonymous-functions-in-javascript-17b4)
-- [10 Pro Tips for Setting Up Your Large Computer Monitor for Ultimate Comfort](https://dev.to/trammygombez/10-pro-tips-for-setting-up-your-large-computer-monitor-for-ultimate-comfort-58md)
+- [TailwindCSS | Group Selector](https://dev.to/shubhamtiwari909/tailwindcss-group-focus-4pao)
+- [Part 3 Angular&#39;s ngOnInit: Your Key to Component Initialization Excellence](https://dev.to/chintanonweb/part-3-angulars-ngoninit-your-key-to-component-initialization-excellence-11gm)
+- [How to track your Jira todos and accomplishments](https://dev.to/sdotson/how-to-track-your-jira-todos-and-accomplishments-1920)
+- [Understanding Change Tracking for Better Performance in EF Core](https://dev.to/antonmartyniuk/understanding-change-tracking-for-better-performance-in-ef-core-3aai)
+- [10+ Essential JavaScript Functions to Streamline Your Code | JavaScript Guide](https://dev.to/ahsaniftikhar99/10-essential-javascript-functions-to-streamline-your-code-javascript-guide-28mo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
