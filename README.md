@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How To Tell An Amateur Programmer From a Professional](https://dev.to/thekarlesi/how-to-tell-an-amateur-programmer-from-a-professional-1dnn)
+- [Desenvolvimento Full-Stack: Integrando Front-end e Back-end com Eficiência](https://dev.to/thiagohnrt/desenvolvimento-full-stack-integrando-front-end-e-back-end-com-eficiencia-4djk)
+- [AWS Security Groups for Network Engineers](https://dev.to/friday963/aws-security-groups-for-network-engineers-ja7)
 - [Meet MajorDom: a smart home of the future that is really smart](https://dev.to/markparker5/meet-majordom-a-smart-home-of-the-future-that-is-really-smart-22gk)
 - [Build Serverless Application In AWS](https://dev.to/anson_ly/build-serverless-application-in-aws-4b2i)
-- [Book Synopsis &amp; Review - Docs Like Code](https://dev.to/dreamlogic/book-synopsis-review-docs-like-code-5g7c)
-- [Open AI with Vercel: Solution to Gateway Timeouts](https://dev.to/buildwebcrumbs/open-ai-with-vercel-a-way-around-gateway-timeouts-1ec9)
-- [What programming language would be dealing more with AI?](https://dev.to/gaebh/what-programming-language-would-be-dealing-more-with-ai-kgh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
