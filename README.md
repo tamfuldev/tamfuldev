@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding JavaScript Object Accessors](https://dev.to/jps27cse/understanding-javascript-object-accessors-3i25)
-- [A Beginner’s Guide to Using Vuex](https://dev.to/delia_code/a-beginners-guide-to-using-vuex-4egh)
-- [Querying DNS Records with PowerShell](https://dev.to/techielass/querying-dns-records-with-powershell-35pp)
-- [Search a 2D Matrix | LeetCode | Java](https://dev.to/tanujav/search-a-2d-matrix-leetcode-java-1e1n)
-- [Handling Events and Forms in React.js](https://dev.to/erasmuskotoka/handling-events-and-forms-in-reactjs-4mm9)
+- [Compatibility Testing to Create Perfectly Working Apps](https://dev.to/talenttinaapi/compatibility-testing-to-create-perfectly-working-apps-4ikd)
+- [Enterprise Service Bus – Overview, 3 key components, and role in digital transformation](https://dev.to/gem_corporation/enterprise-service-bus-overview-3-key-components-and-role-in-digital-transformation-4a8c)
+- [Exploratory Testing – Exploring the Depths](https://dev.to/jamescantor38/exploratory-testing-exploring-the-depths-3oh1)
+- [Building a Simple Chatbot using GPT model - part 2](https://dev.to/whatminjacodes/building-a-simple-chatbot-using-gpt-model-part-2-45cn)
+- [9 blunders I found in 90% LinkedIn resumes](https://dev.to/amangautam/9-blunders-i-found-in-90-linkedin-resumes-4k8p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
