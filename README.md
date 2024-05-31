@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Compatibility Testing to Create Perfectly Working Apps](https://dev.to/talenttinaapi/compatibility-testing-to-create-perfectly-working-apps-4ikd)
-- [Enterprise Service Bus – Overview, 3 key components, and role in digital transformation](https://dev.to/gem_corporation/enterprise-service-bus-overview-3-key-components-and-role-in-digital-transformation-4a8c)
-- [Exploratory Testing – Exploring the Depths](https://dev.to/jamescantor38/exploratory-testing-exploring-the-depths-3oh1)
-- [Building a Simple Chatbot using GPT model - part 2](https://dev.to/whatminjacodes/building-a-simple-chatbot-using-gpt-model-part-2-45cn)
-- [9 blunders I found in 90% LinkedIn resumes](https://dev.to/amangautam/9-blunders-i-found-in-90-linkedin-resumes-4k8p)
+- [A data analysis engine reducing application cost by N times](https://dev.to/esproc_spl/a-data-analysis-engine-reducing-application-cost-by-n-times-3ph6)
+- [Time Traveling Through Your Repo: Git Reset vs. Revert](https://dev.to/nguonodave/time-traveling-through-your-repo-git-reset-vs-revert-1en4)
+- [Moving Work from the Main Branch to a New Branch in Git](https://dev.to/mochafreddo/moving-work-from-the-main-branch-to-a-new-branch-in-git-o60)
+- [In Excel, Insert Group Headers to Detail Data Rows in Each Group](https://dev.to/judithliu677/in-excel-insert-group-headers-to-detail-data-rows-in-each-group-d7p)
+- [Spiner 0.1.3 beta | New Editor!](https://dev.to/eliaondacs/spiner-013-beta-new-editor-4428)
 <!-- BLOG-POST-LIST:END -->
 
 ---
