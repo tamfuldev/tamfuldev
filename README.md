@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How To Tell An Amateur Programmer From a Professional](https://dev.to/thekarlesi/how-to-tell-an-amateur-programmer-from-a-professional-1dnn)
-- [Desenvolvimento Full-Stack: Integrando Front-end e Back-end com Eficiência](https://dev.to/thiagohnrt/desenvolvimento-full-stack-integrando-front-end-e-back-end-com-eficiencia-4djk)
-- [AWS Security Groups for Network Engineers](https://dev.to/friday963/aws-security-groups-for-network-engineers-ja7)
-- [Meet MajorDom: a smart home of the future that is really smart](https://dev.to/markparker5/meet-majordom-a-smart-home-of-the-future-that-is-really-smart-22gk)
-- [Build Serverless Application In AWS](https://dev.to/anson_ly/build-serverless-application-in-aws-4b2i)
+- [1. Concorrência Java: Threads! Processando em Paralelo e Ganhando Throughput](https://dev.to/kauegatto/1-concorrencia-java-threads-processando-em-paralelo-e-ganhando-throughput-426)
+- [Glam Up My Markup: Beaches](https://dev.to/altafsyah/glam-up-my-markup-beaches-4hfg)
+- [Next.js: Simple Example using revalidateTag](https://dev.to/jonathan-dev/nextjs-simple-example-using-revalidatetag-41f5)
+- [Why You Should Choose TypeScript Over JavaScript](https://dev.to/vyan/why-you-should-choose-typescript-over-javascript-d5m)
+- [Azure - Building Multimodal Generative Experiences. Part 2](https://dev.to/manjunani/azure-building-multimodal-generative-experiences-part-2-i3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
