@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Four P’s of Platform Engineering for Prosperity](https://dev.to/getambassador2024/the-four-ps-of-platform-engineering-for-prosperity-25pb)
-- [Think Atomic: Break Complex UI Into React Components For Better Design](https://dev.to/mroman7/think-atomic-break-complex-ui-into-react-components-for-better-design-41c7)
-- [Introduction to Full Stack Development](https://dev.to/suhaspalani/introduction-to-full-stack-development-2bj9)
-- [How to use Midjourney API by Python](https://dev.to/ttapi/how-to-use-midjourney-api-by-python-1i3a)
-- [The Future of Software is Couture: Tailoring Technology to Individual Needs](https://dev.to/shieldstring/the-future-of-software-is-couture-tailoring-technology-to-individual-needs-30aj)
+- [Understanding JavaScript Object Accessors](https://dev.to/jps27cse/understanding-javascript-object-accessors-3i25)
+- [A Beginner’s Guide to Using Vuex](https://dev.to/delia_code/a-beginners-guide-to-using-vuex-4egh)
+- [Querying DNS Records with PowerShell](https://dev.to/techielass/querying-dns-records-with-powershell-35pp)
+- [Search a 2D Matrix | LeetCode | Java](https://dev.to/tanujav/search-a-2d-matrix-leetcode-java-1e1n)
+- [Handling Events and Forms in React.js](https://dev.to/erasmuskotoka/handling-events-and-forms-in-reactjs-4mm9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
