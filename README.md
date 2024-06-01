@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [FastAPI Beyond CRUD Part 5 - Databases With SQLModel &lpar;Connection, Lifespan Events, And Models&rpar;](https://dev.to/jod35/fastapi-beyond-crud-part-5-databases-with-sqlmodel-connection-lifespan-events-and-models-db2)
-- [React 19 Beta Release: A Quick Guide](https://dev.to/zacharylee/react-19-beta-release-a-quick-guide-3j32)
-- [JavaScript Array methods](https://dev.to/instanceofgod/javascript-array-methods-26n)
-- [Converting an Integer to ASCII String in Go](https://dev.to/zone01kisumu/converting-an-integer-to-ascii-string-in-go-3269)
-- [Apple Security Breach: Protect Yourself from Ransomware and Data Theft](https://dev.to/goktugerol/apple-security-breach-protect-yourself-from-ransomware-and-data-theft-1dg9)
+- [Solidity Alchemy - Course &lpar;ESCROW SMART CONTRACT&rpar;](https://dev.to/zuru122/solidity-alchemy-course-escrow-smart-contract-55ek)
+- [react ant design 5 search bar example](https://dev.to/aaronnfs/react-ant-design-5-search-bar-example-1jnd)
+- [Building Your First Browser Game with Three.js and React: Part 4 - Adding Game Mechanics](https://dev.to/romaixn/building-your-first-browser-game-with-threejs-and-react-part-4-adding-game-mechanics-5ha4)
+- [@Qualifier](https://dev.to/mustafacam/qualifier-mh9)
+- [GSoC’24&lpar;CircuitVerse&rpar; Week 0 — Community Bonding](https://dev.to/niladri_adhikary_f11402dc/gsoc24circuitverse-week-0-community-bonding-1pni)
 <!-- BLOG-POST-LIST:END -->
 
 ---
