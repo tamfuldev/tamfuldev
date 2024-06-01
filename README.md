@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to build a fully-fledged telegram bot in Python](https://dev.to/emiloju/how-to-build-a-fully-fledged-telegram-bot-in-python-2al0)
-- [On VSCode, how to open the selected folder from Explorer view into the current open terminal &lpar;without opening a new one&rpar;?](https://dev.to/eduardohilariodev/on-vscode-how-to-open-the-selected-folder-from-explorer-view-into-the-current-open-terminal-without-opening-a-new-one-2d93)
-- [Cloud Resume Challenge - Chunk 3](https://dev.to/brianhaas/cloud-resume-challenge-chunk-3-4ana)
-- [Node.js is not single-threaded](https://dev.to/nowaliraza/nodejs-is-not-single-threaded-2i1l)
-- [Why Are You Here?](https://dev.to/belsabbagh/why-are-you-here-1ili)
+- [Why Spring Matters for Java Developers](https://dev.to/tiuwill/why-spring-matters-for-java-developers-2jf2)
+- [Practical advice for writing React Components](https://dev.to/lime517/practical-advice-for-writing-react-components-1o85)
+- [Project Stage 1: Preparation&lpar;part-1&rpar;](https://dev.to/yuktimulani/project-stage-1-preparationpart-1-4jad)
+- [Profile Card Using HTML CSS &amp; GSAP](https://dev.to/hussein09/profile-card-using-html-css-gsap-3bjl)
+- [How to Use ThingSpeak with the Raspberry Pi Pico W](https://dev.to/shilleh/how-to-use-thingspeak-with-the-raspberry-pi-pico-w-499m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
