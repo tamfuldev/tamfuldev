@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Lively Search Input with Animated Border Progress](https://dev.to/stefanak-michal/lively-search-input-with-animated-border-progress-37op)
-- [C# - Flatter structure vs Nested structure](https://dev.to/js123/c-flatter-structure-vs-nested-structure-3368)
-- [Optimizing Performance in Next.js 13+ Applications: Techniques for Faster Rendering](https://dev.to/codesensei/optimizing-performance-in-nextjs-13-applications-techniques-for-faster-rendering-1b6l)
-- [Integrate Slack with Jenkins to receive CICD pipeline notification](https://dev.to/rgupta87/integrate-slack-with-jenkins-to-receive-cicd-pipeline-notification-9mi)
-- [Using GPT4o for Learning and Practice Exams &lpar;SAFe Framework as example &rpar;](https://dev.to/devaaai/using-gpt4o-for-learning-and-practice-exams-safe-framework-as-example--330h)
+- [Unlocking the Power of AWS Auto Scaling: A Game-Changer for DevOps](https://dev.to/apetryla/unlocking-the-power-of-aws-auto-scaling-a-game-changer-for-devops-1a97)
+- [Introduction to Artificial Intelligence &lpar;AI&rpar;, Machine Learning, Deep learning, and Generative AI](https://dev.to/muhammedsalie/introduction-to-artificial-intelligence-ai-machine-learning-deep-learning-and-generative-ai-3ho0)
+- [Introduction to Data Structures and Arrays](https://dev.to/harshm03/introduction-to-data-structures-and-arrays-2kk)
+- [API integration in RUST](https://dev.to/syedmuhammadaliraza/api-integration-in-rust-5deh)
+- [TASK 4](https://dev.to/abhisheksam/task-4-65b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
