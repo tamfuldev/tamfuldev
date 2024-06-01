@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Power of AWS Auto Scaling: A Game-Changer for DevOps](https://dev.to/apetryla/unlocking-the-power-of-aws-auto-scaling-a-game-changer-for-devops-1a97)
-- [Introduction to Artificial Intelligence &lpar;AI&rpar;, Machine Learning, Deep learning, and Generative AI](https://dev.to/muhammedsalie/introduction-to-artificial-intelligence-ai-machine-learning-deep-learning-and-generative-ai-3ho0)
-- [Introduction to Data Structures and Arrays](https://dev.to/harshm03/introduction-to-data-structures-and-arrays-2kk)
-- [API integration in RUST](https://dev.to/syedmuhammadaliraza/api-integration-in-rust-5deh)
-- [TASK 4](https://dev.to/abhisheksam/task-4-65b)
+- [Creating a deep copy of a JS Object](https://dev.to/justanordinaryperson/creating-a-deep-copy-of-a-js-object-342e)
+- [Using VSCode for Web Development: HTML, CSS, and JavaScript](https://dev.to/umeshtharukaofficial/using-vscode-for-web-development-html-css-and-javascript-1jpb)
+- [# 5 Testing Frameworks for JavaScript Developers](https://dev.to/oyedeletemitope/-5-testing-frameworks-for-javascript-developers-cb6)
+- [[DAY 36-38] I Built An Ecommerce Webpage](https://dev.to/thomascansino/day-36-38-i-built-an-ecommerce-webpage-1be2)
+- [Join Us in Developing a Flutter Client for Mattermost with AI-Generated Code! 🚀](https://dev.to/princebansal/join-us-in-developing-a-flutter-client-for-mattermost-with-ai-generated-code-2d6h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
