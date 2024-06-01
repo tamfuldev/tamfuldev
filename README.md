@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Solidity Alchemy - Course &lpar;ESCROW SMART CONTRACT&rpar;](https://dev.to/zuru122/solidity-alchemy-course-escrow-smart-contract-55ek)
-- [react ant design 5 search bar example](https://dev.to/aaronnfs/react-ant-design-5-search-bar-example-1jnd)
-- [Building Your First Browser Game with Three.js and React: Part 4 - Adding Game Mechanics](https://dev.to/romaixn/building-your-first-browser-game-with-threejs-and-react-part-4-adding-game-mechanics-5ha4)
-- [@Qualifier](https://dev.to/mustafacam/qualifier-mh9)
-- [GSoC’24&lpar;CircuitVerse&rpar; Week 0 — Community Bonding](https://dev.to/niladri_adhikary_f11402dc/gsoc24circuitverse-week-0-community-bonding-1pni)
+- [Building a Timer Chrome Plugin with ChatGPT: A Journey](https://dev.to/yordiverkroost/building-a-timer-chrome-plugin-with-chatgpt-a-journey-2dbg)
+- [minimal-mvc: Frugal PHP micro-framework with basic routing and templating](https://dev.to/prahladyeri/minimal-mvc-frugal-php-micro-framework-with-basic-routing-and-templating-157)
+- [🎨 Collection of Bento designs CSS &amp; Tailwind 🎨](https://dev.to/miguelrodriguezp99/collection-of-bento-designs-css-tailwind-171b)
+- [Security Features in Push Protocol: Ensuring Safe Communication](https://dev.to/luffy251/security-features-in-push-protocol-ensuring-safe-communication-3051)
+- [Day 2 of 30](https://dev.to/francis_ngugi/day-2-of-30-2bdk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
