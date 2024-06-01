@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [FastAPI Beyond CRUD Part 5 - Databases With SQLModel &lpar;Connection, Lifespan Events, And Models&rpar;](https://dev.to/jod35/fastapi-beyond-crud-part-5-databases-with-sqlmodel-connection-lifespan-events-and-models-db2)
+- [React 19 Beta Release: A Quick Guide](https://dev.to/zacharylee/react-19-beta-release-a-quick-guide-3j32)
+- [JavaScript Array methods](https://dev.to/instanceofgod/javascript-array-methods-26n)
+- [Converting an Integer to ASCII String in Go](https://dev.to/zone01kisumu/converting-an-integer-to-ascii-string-in-go-3269)
 - [Apple Security Breach: Protect Yourself from Ransomware and Data Theft](https://dev.to/goktugerol/apple-security-breach-protect-yourself-from-ransomware-and-data-theft-1dg9)
-- [RESTful APIs: Fundamentos, Práticas e Implementação](https://dev.to/thiagohnrt/restful-apis-fundamentos-praticas-e-implementacao-gle)
-- [Unlocking Business Success: How DevOps Propels Profits for Companies, Big or Small](https://dev.to/arbythecoder/unlocking-business-success-how-devops-propels-profits-for-companies-big-or-small-4p0n)
-- [Announcing the Ultimate JavaScript Project List as Open Source](https://dev.to/dk119819/announcing-the-ultimate-javascript-project-list-as-open-source-24l4)
-- [Day1 #90daysofdevops](https://dev.to/oncloud7/day1-90daysofdevops-2pj0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
