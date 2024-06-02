@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Using AWS Credits effectively as a startup.](https://dev.to/nicholaschun/using-aws-credits-effectively-as-a-startup-2ola)
+- [Why You Should Learn the Swift Programming Language. 🦅](https://dev.to/creuserr/why-you-should-learn-the-swift-programming-language-79)
+- [IOT Raspberry Pi using Azure](https://dev.to/emmyfx1/iot-raspberry-pi-using-azure-58m7)
+- [Exploring the Power of Hooks in React](https://dev.to/kartikmehta8/exploring-the-power-of-hooks-in-react-4a1)
 - [Running Lua C modules in a pure Lua environment &lpar;1&rpar;](https://dev.to/jackmacwindows/running-lua-c-modules-in-a-pure-lua-environment-part-1-2aho)
-- [Software Engineers Learn More from Failures than Wins: A Perspective](https://dev.to/bede_hampo/software-engineers-learn-more-from-failures-than-wins-a-perspective-3a6b)
-- [Re-installing AIO - Azure IoT Operations](https://dev.to/danuw/re-installing-aio-azure-iot-operations-5f73)
-- [Dicas e truques: Ferramentas para produtividade para dev no Sistema operacional 🪟 Windows 11](https://dev.to/neiesc/dicas-e-truques-ferramentas-para-produtividade-para-dev-no-sistema-operacional-windows-11-1627)
-- [Adapt Kotlin 2.0 in Android applications](https://dev.to/marlonlom/adapt-kotlin-20-in-android-applications-3cmk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
