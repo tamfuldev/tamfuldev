@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Engenharia de software: precisa de faculdade?](https://dev.to/lucasheriques/engenharia-de-software-precisa-de-faculdade-1g59)
-- [Engenharia de software: precisa de faculdade?](https://dev.to/lucasheriques/engenharia-de-software-precisa-de-faculdade-4elm)
-- [Understanding Many-to-One Relationships in Java with Practical Examples](https://dev.to/oloruntobi600/understanding-many-to-one-relationships-in-java-with-practical-examples-500d)
-- [Cent&#39;s Two Cents - Start](https://dev.to/centanomics/cents-two-cents-start-1mm4)
-- [Understanding Many-to-Many Relationships in Java](https://dev.to/oloruntobi600/understanding-many-to-many-relationships-in-java-39bp)
+- [Building a Simple Weather Dashboard with JavaScript and Mock APIs](https://dev.to/rharshit82/building-a-simple-weather-dashboard-with-javascript-and-mock-apis-2k7i)
+- [Wave Function Collapse](https://dev.to/excaliburjs/wave-function-collapse-d3c)
+- [A step-by-step guide on how to use the Amazon Bedrock Converse API](https://dev.to/aws-builders/a-step-by-step-guide-on-how-to-use-the-amazon-bedrock-converse-api-2mnl)
+- [React-Compiler: When React becomes Svelte](https://dev.to/artiumws/react-compiler-when-react-becomes-svelte-5969)
+- [DOM is HARD!](https://dev.to/imabhinavdev/dom-is-hard-1c4c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
