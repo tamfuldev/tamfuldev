@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to install lando on mac for Acquia Recipe](https://dev.to/sanjay_mogra/how-to-install-lando-on-mac-for-acquia-recipe-3p15)
-- [Clock App](https://dev.to/sudhanshuambastha/clock-app-1n9m)
-- [Error v/s Exception](https://dev.to/dipesh_the_dev/error-vs-exception-5h7d)
-- [Revolutionizing Development with Type-Safe Dropbox SDK](https://dev.to/bilelsalemdev/revolutionizing-development-with-type-safe-dropbox-sdk-nod)
-- [Let’s highlight](https://dev.to/rationalkunal/lets-highlight-5lc)
+- [21 VS Code Extensions To Boost Your Productivity](https://dev.to/dev_kiran/21-vs-code-extensions-to-boost-your-productivity-1fil)
+- [Laravel 11 Custom Component File Structure](https://dev.to/armanrahman/laravel-11-custom-component-file-structure-33ab)
+- [Top Websites Offering Student Discounts on Essential Developer Tools](https://dev.to/sh20raj/top-websites-offering-student-discounts-on-essential-developer-tools-2p02)
+- [Reclaim Protocol: Verified HTTPS Traffic for Privacy-Preserving Proofs](https://dev.to/realadii/reclaim-protocol-verified-https-traffic-for-privacy-preserving-proofs-1g4j)
+- [How to add profile view counter to your GitHub profile in 3 steps](https://dev.to/perisicnikola37/how-to-add-profile-view-counter-to-your-github-profile-in-3-steps-2887)
 <!-- BLOG-POST-LIST:END -->
 
 ---
