@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Maximizing the 1 bits](https://dev.to/simongreennet/maximizing-the-1-bits-m8a)
 - [Building your own Productivity app using React JS and Mock API&#39;s](https://dev.to/prankurpandeyy/building-your-own-productivity-app-using-react-js-and-mock-apis-3hd2)
 - [Keyoxide Identity Proof](https://dev.to/zelnickb/keyoxide-identity-proof-22b0)
 - [Reactive vs. Template-Driven Approaches: Exploring Angular Forms](https://dev.to/bytebantz/reactive-vs-template-driven-approaches-exploring-angular-forms-e2f)
 - [Understanding Nodes in Java: The Building Blocks of Data Structures](https://dev.to/fullstackjava/understanding-nodes-in-java-the-building-blocks-of-data-structures-5di3)
-- [Middleware to Asp.net Core MVC Application + Custom Middleware](https://dev.to/harshchandwani/middleware-to-aspnet-core-mvc-application-custom-middleware-4k4h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
