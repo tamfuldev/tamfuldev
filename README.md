@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Write SOLID React Hooks](https://dev.to/perssondennis/write-solid-react-hooks-436o)
-- [Multitask - Should I stay or should I go?](https://dev.to/ferjssilva/multitask-should-i-stay-or-should-i-go-2il9)
-- [Sunday Fun: Re-creating a Radiohead cover](https://dev.to/madsstoumann/sunday-fun-re-creating-a-radiohead-cover-20ma)
-- [Creating your own database like join using {code}](https://dev.to/anisriva/creating-your-own-database-like-join-using-code-1jlh)
-- [Introduction to Containerization on AWS ECS &lpar;Elastic Container Service&rpar; and Fargate](https://dev.to/sirlawdin/introduction-to-containerization-on-aws-ecs-elastic-container-service-and-fargate-6oo)
+- [Cómo desplegar un servidor PostgreSQL Flexible en Azure con Terraform y Azure Key Vault](https://dev.to/danieljsaldana/como-desplegar-un-servidor-postgresql-flexible-en-azure-con-terraform-y-azure-key-vault-2pkd)
+- [How to Create, Configure, and Manage a Self-Hosted Agent in Azure DevOps](https://dev.to/aamirkhancr7/how-to-create-configure-and-manage-a-self-hosted-agent-in-azure-devops-2280)
+- [344. Reverse String](https://dev.to/mdarifulhaque/344-reverse-string-43p9)
+- [Panduan Lengkap Belajar Coding buat Pemula](https://dev.to/yogameleniawan/panduan-lengkap-belajar-coding-buat-pemula-k9p)
+- [Top repositories for Laravel developers 2024 edition](https://dev.to/perisicnikola37/top-repositories-for-laravel-developers-2024-edition-34h9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
