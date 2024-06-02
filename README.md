@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [21 VS Code Extensions To Boost Your Productivity](https://dev.to/dev_kiran/21-vs-code-extensions-to-boost-your-productivity-1fil)
-- [Laravel 11 Custom Component File Structure](https://dev.to/armanrahman/laravel-11-custom-component-file-structure-33ab)
-- [Top Websites Offering Student Discounts on Essential Developer Tools](https://dev.to/sh20raj/top-websites-offering-student-discounts-on-essential-developer-tools-2p02)
-- [Reclaim Protocol: Verified HTTPS Traffic for Privacy-Preserving Proofs](https://dev.to/realadii/reclaim-protocol-verified-https-traffic-for-privacy-preserving-proofs-1g4j)
-- [How to add profile view counter to your GitHub profile in 3 steps](https://dev.to/perisicnikola37/how-to-add-profile-view-counter-to-your-github-profile-in-3-steps-2887)
+- [How to get start Elixir](https://dev.to/rhaenyraliang/how-to-get-start-elixir-3l65)
+- [Connect-Four Game](https://dev.to/sarmittal/connect-four-game-5k5)
+- [Supabase: The Open-Source Superhero That Saves You From Firebase](https://dev.to/anshul_bhartiya_37e68ba7b/supabase-the-open-source-superhero-that-saves-you-from-firebase-3klj)
+- [How to add Animations and Transitions in React](https://dev.to/jehnz/mastering-animations-and-transitions-in-react-32ki)
+- [Building a Chat with PDF - RAG Application - NextJS and NestJS](https://dev.to/codexam/building-a-chat-with-pdf-rag-application-nextjs-and-nestjs-j88)
 <!-- BLOG-POST-LIST:END -->
 
 ---
