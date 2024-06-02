@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [50+ resources to learn web dev without going broke.](https://dev.to/swastikyadav/50-resources-to-learn-web-dev-without-going-broke-1aj8)
+- [Use CloudFlare Workers and D1 to Create a Completely Free CRUD API](https://dev.to/designly/use-cloudflare-workers-and-d1-to-create-a-completely-free-crud-api-54a5)
 - [SIP Calculator](https://dev.to/vinkalprajapati/sip-calculator-pgp)
 - [Using AWS Credits effectively as a startup.](https://dev.to/nicholaschun/using-aws-credits-effectively-as-a-startup-2ola)
 - [Why You Should Learn the Swift Programming Language. 🦅](https://dev.to/creuserr/why-you-should-learn-the-swift-programming-language-79)
-- [IOT Raspberry Pi using Azure](https://dev.to/emmyfx1/iot-raspberry-pi-using-azure-58m7)
-- [Exploring the Power of Hooks in React](https://dev.to/kartikmehta8/exploring-the-power-of-hooks-in-react-4a1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
