@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Cómo desplegar un servidor PostgreSQL Flexible en Azure con Terraform y Azure Key Vault](https://dev.to/danieljsaldana/como-desplegar-un-servidor-postgresql-flexible-en-azure-con-terraform-y-azure-key-vault-2pkd)
-- [How to Create, Configure, and Manage a Self-Hosted Agent in Azure DevOps](https://dev.to/aamirkhancr7/how-to-create-configure-and-manage-a-self-hosted-agent-in-azure-devops-2280)
-- [344. Reverse String](https://dev.to/mdarifulhaque/344-reverse-string-43p9)
-- [Panduan Lengkap Belajar Coding buat Pemula](https://dev.to/yogameleniawan/panduan-lengkap-belajar-coding-buat-pemula-k9p)
-- [Top repositories for Laravel developers 2024 edition](https://dev.to/perisicnikola37/top-repositories-for-laravel-developers-2024-edition-34h9)
+- [Engenharia de software: precisa de faculdade?](https://dev.to/lucasheriques/engenharia-de-software-precisa-de-faculdade-1g59)
+- [Engenharia de software: precisa de faculdade?](https://dev.to/lucasheriques/engenharia-de-software-precisa-de-faculdade-4elm)
+- [Understanding Many-to-One Relationships in Java with Practical Examples](https://dev.to/oloruntobi600/understanding-many-to-one-relationships-in-java-with-practical-examples-500d)
+- [Cent&#39;s Two Cents - Start](https://dev.to/centanomics/cents-two-cents-start-1mm4)
+- [Understanding Many-to-Many Relationships in Java](https://dev.to/oloruntobi600/understanding-many-to-many-relationships-in-java-39bp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
