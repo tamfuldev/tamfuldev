@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Install and Configure Cloudflared on Linux](https://dev.to/sh20raj/how-to-install-and-configure-cloudflared-on-linux-4l3)
-- [Array of Objects](https://dev.to/paulike/array-of-objects-3j1l)
-- [Completing a Full-stack Coding Bootcamp - My Experience Attending Flatiron School and a Phase by Phase Breakdown](https://dev.to/khamerling-potts/completing-a-full-stack-coding-bootcamp-my-experience-attending-flatiron-school-and-a-phase-by-phase-breakdown-5531)
-- [React&#39;s useReducer Hook](https://dev.to/saandre0217/reacts-usereducer-hook-1pno)
-- [How to Find the Second Largest Element in an Array](https://dev.to/masum-dev/how-to-find-the-second-largest-element-in-an-array-d6d)
+- [Smart contracts privados con Solidity y Circom](https://dev.to/turupawn/smart-contracts-privados-con-solidity-y-circom-3a8h)
+- [Managing Architectural Tech Debt](https://dev.to/johnjvester/managing-architectural-tech-debt-i82)
+- [Simple &quot;Infinite&quot; Grid Shader](https://dev.to/javiersalcedopuyo/simple-infinite-grid-shader-5fah)
+- [Exploring Weatherstack API: Pricing, Features, and Alternatives](https://dev.to/ericksmith14/exploring-weatherstack-api-pricing-features-and-alternatives-565m)
+- [Investing in Web3 Projects: A Modern Business and Finance Guide](https://dev.to/korofetova_mila/investing-in-web3-projects-a-modern-business-and-finance-guide-3jj4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
