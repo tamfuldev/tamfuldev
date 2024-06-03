@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the differences between JavaScript, Node.js, and Express.js](https://dev.to/richardshaju/understanding-the-differences-between-javascript-nodejs-and-expressjs-5cb9)
-- [The Future of Bug Logging and Internet Security](https://dev.to/owasp/the-future-of-bug-logging-and-internet-security-2fp4)
-- [How to Integrate Firebase in NestJS for Notifications 🚀](https://dev.to/shahharsh/how-to-integrate-firebase-in-nestjs-for-notifications-gik)
-- [How to link your Blob file storage to Azure SQL database](https://dev.to/busybrain/how-to-link-your-blob-file-storage-to-azure-sql-database-2d91)
-- [3 ways to deal with architecture responsibilities in your team](https://dev.to/raphael-dumhart/3-ways-to-deal-with-architecture-responsibilities-in-your-teas-1pg8)
+- [How to Install and Configure Cloudflared on Linux](https://dev.to/sh20raj/how-to-install-and-configure-cloudflared-on-linux-4l3)
+- [Array of Objects](https://dev.to/paulike/array-of-objects-3j1l)
+- [Completing a Full-stack Coding Bootcamp - My Experience Attending Flatiron School and a Phase by Phase Breakdown](https://dev.to/khamerling-potts/completing-a-full-stack-coding-bootcamp-my-experience-attending-flatiron-school-and-a-phase-by-phase-breakdown-5531)
+- [React&#39;s useReducer Hook](https://dev.to/saandre0217/reacts-usereducer-hook-1pno)
+- [How to Find the Second Largest Element in an Array](https://dev.to/masum-dev/how-to-find-the-second-largest-element-in-an-array-d6d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
