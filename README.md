@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Principais Hooks no React com exercícios](https://dev.to/parkournick3/principais-hooks-no-react-com-exercicios-46m7)
-- [Git Commands](https://dev.to/mayas1111/git-commands-2mm)
-- [Testing Bunjs Web Application With Cucumber Js And Keploy](https://dev.to/keploy/testing-bunjs-web-application-with-cucumber-js-and-keploy-4d9d)
-- [Shadcn-ui codebase analysis: Perfect Next.js dark mode in 2 lines of code with next-themes.](https://dev.to/ramunarasinga/shadcn-ui-codebase-analysis-perfect-nextjs-dark-mode-in-2-lines-of-code-with-next-themes-8f5)
-- [Integrate Snowflake with Laravel](https://dev.to/emanuelnav/integrate-snowflake-with-laravel-450g)
+- [Still Struggling with JavaScript Promises?](https://dev.to/godinhojoao/still-struggling-with-javascript-promises-kdh)
+- [Opt-In VS Opt-Out](https://dev.to/cxdezign/opt-in-vs-opt-out-2c48)
+- [[Game of Purpose] Day 16](https://dev.to/humberd/game-of-purpose-day-16-1pm3)
+- [Handle state management and concurrency issues in Terraform and Ansible?](https://dev.to/vaibhavhariaramani/handle-state-management-and-concurrency-issues-in-terraform-and-ansible-2dp8)
+- [Setting Up GitHub Environment Configurations in Neovim on Linux](https://dev.to/gokayburuc/setting-up-github-environment-configurations-in-neovim-on-linux-5499)
 <!-- BLOG-POST-LIST:END -->
 
 ---
