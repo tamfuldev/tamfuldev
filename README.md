@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Key Tips for Database Design](https://dev.to/mauritzkurt/key-tips-for-database-design-1f8)
-- [Demystifying the Cloud: A Beginner&#39;s Guide to Cloud Computing Concepts](https://dev.to/jimi487/demystifying-the-cloud-a-beginners-guide-to-cloud-computing-concepts-9fk)
-- [Playing with the embryonic connections in Java with the Foreign Function](https://dev.to/ulrich/playing-with-the-embryonic-connections-in-java-with-the-foreign-function-24k7)
-- [Entendiendo la Mutabilidad y la Re-asignación](https://dev.to/javascriptchile/entendiendo-la-mutabilidad-y-la-re-asignacion-ihf)
-- [Babylon.js Browser MMO - DevLog - Update #3 - Displaying other players](https://dev.to/maiu/babylonjs-browser-mmo-devlog-update-3-displaying-other-players-ifn)
+- [Building with Supra: Powering Decentralized Applications with Better Data](https://dev.to/tosynthegeek/building-with-supra-powering-decentralized-applications-with-better-data-5d3c)
+- [Merkle Proofs: A Simple Guide](https://dev.to/olanetsoft/merkle-proofs-a-simple-guide-3l02)
+- [Implementing Progressive Web Apps &lpar;PWAs&rpar; with React](https://dev.to/emmanuelj/implementing-progressive-web-apps-pwas-with-react-oem)
+- [El principio](https://dev.to/carlos_ruiz/el-principio-5kb)
+- [Using GDB to develop exploits](https://dev.to/samglish/using-gdb-to-develop-exploits-kec)
 <!-- BLOG-POST-LIST:END -->
 
 ---
