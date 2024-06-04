@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ibuprofeno.py💊| #118: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-118-explica-este-codigo-python-el5)
-- [How to Build a Classic Snake Game Using React.js](https://dev.to/bibekkakati/how-to-build-a-classic-snake-game-using-reactjs-5dn8)
-- [Is Google&#39;s search algorithm hurting smaller websites?](https://dev.to/robole/is-googles-search-algorithm-hurting-smaller-websites-54jm)
-- [Building A Restful API With Amazon S3: Efficient Data Management In The Cloud](https://dev.to/saumya27/building-a-restful-api-with-amazon-s3-efficient-data-management-in-the-cloud-50k0)
-- [Cloudflare&#39;s ZeroTrust Part 1: How can I access to my web/app in private network without NAT](https://dev.to/bachhuynh/cloudflares-zerotrust-part-1-how-can-i-access-to-my-webapp-in-private-network-without-nat-50g3)
+- [Migrating a project from Visual studio to Rider](https://dev.to/doki_kapoki/migrating-a-project-from-visual-studio-to-rider-4o7k)
+- [Internetsicherheit durch Lavalampen](https://dev.to/disane/internetsicherheit-durch-lavalampen-4290)
+- [Unified Framework: Boosting Effortless Collaboration](https://dev.to/yujofficial/unified-framework-boosting-effortless-collaboration-1e46)
+- [Azure API Management: Harnessing Bicep for Effortless User and Subscription Creation](https://dev.to/axeldlv/azure-api-management-harnessing-bicep-for-effortless-user-and-subscription-creation-30c7)
+- [Remote Development: Using VSCode for Remote Coding and Collaboration](https://dev.to/umeshtharukaofficial/remote-development-using-vscode-for-remote-coding-and-collaboration-36ep)
 <!-- BLOG-POST-LIST:END -->
 
 ---
