@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Are Passkeys SCA-Compliant?](https://dev.to/corbado/are-passkeys-sca-compliant-12jp)
-- [How to create an Authentication &amp; Authorization feature in Express JS RESTful API?](https://dev.to/nadim_ch0wdhury/how-to-create-an-authentication-authorization-feature-in-express-js-restful-api-ge8)
-- [How to create an Authentication &amp; Authorization feature in Nest JS GraphQL API?](https://dev.to/nadim_ch0wdhury/how-to-create-an-authentication-authorization-feature-in-nest-js-graphql-api-35em)
-- [How to Connect RESTful API &amp; Express JS backend with MongoDB database?](https://dev.to/nadim_ch0wdhury/how-to-connect-restful-api-express-js-backend-with-mongodb-database-2aaa)
-- [AWS Config for Organizations](https://dev.to/diegotrujillo/aws-config-for-organizations-3i6p)
+- [How to learn Nest JS?](https://dev.to/nadim_ch0wdhury/how-to-learn-nest-js-20nc)
+- [How to Ensure Docker Compose Uses Environment Variables from the `.env` File](https://dev.to/mochafreddo/how-to-ensure-docker-compose-uses-environment-variables-from-the-env-file-2ib6)
+- [Intro to React Native](https://dev.to/ajgamer/intro-to-react-native-3b4g)
+- [ArchitectAI for SharePoint](https://dev.to/jaloplo/architectai-for-sharepoint-1dap)
+- [Kaptan ve Tayfa - Kaptan Sunucu Kurulumu](https://dev.to/aciklab/kaptan-ve-tayfa-kaptan-sunucu-kurulumu-3a82)
 <!-- BLOG-POST-LIST:END -->
 
 ---
