@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating a project from Visual studio to Rider](https://dev.to/doki_kapoki/migrating-a-project-from-visual-studio-to-rider-4o7k)
-- [Internetsicherheit durch Lavalampen](https://dev.to/disane/internetsicherheit-durch-lavalampen-4290)
-- [Unified Framework: Boosting Effortless Collaboration](https://dev.to/yujofficial/unified-framework-boosting-effortless-collaboration-1e46)
-- [Azure API Management: Harnessing Bicep for Effortless User and Subscription Creation](https://dev.to/axeldlv/azure-api-management-harnessing-bicep-for-effortless-user-and-subscription-creation-30c7)
-- [Remote Development: Using VSCode for Remote Coding and Collaboration](https://dev.to/umeshtharukaofficial/remote-development-using-vscode-for-remote-coding-and-collaboration-36ep)
+- [How to Use Firebase Authentication for Secure User Login](https://dev.to/dk119819/how-to-use-firebase-authentication-for-secure-user-login-3df9)
+- [Training-Free Long-Context Scaling of Large Language Models](https://dev.to/mikeyoung44/training-free-long-context-scaling-of-large-language-models-1dpi)
+- [Certifiably Robust RAG against Retrieval Corruption](https://dev.to/mikeyoung44/certifiably-robust-rag-against-retrieval-corruption-3a7p)
+- [Sparse maximal update parameterization: A holistic approach to sparse training dynamics](https://dev.to/mikeyoung44/sparse-maximal-update-parameterization-a-holistic-approach-to-sparse-training-dynamics-270e)
+- [Grokfast: Accelerated Grokking by Amplifying Slow Gradients](https://dev.to/mikeyoung44/grokfast-accelerated-grokking-by-amplifying-slow-gradients-41on)
 <!-- BLOG-POST-LIST:END -->
 
 ---
