@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Exception In java and hierarchy](https://dev.to/rajubora/exception-in-java-and-hierarchy-53f5)
-- [Populating Select Input with data from an API using Nextjs and typescript](https://dev.to/romkev/populating-select-input-with-data-from-an-api-using-nextjs-and-typescript-4jcn)
-- [WinterJS vs. Bun: Comparing JavaScript runtimes](https://dev.to/logrocket/winterjs-vs-bun-comparing-javascript-runtimes-3b2k)
-- [Entenda a diferença entre modelo conceitual e modelo lógico em Banco de Dados](https://dev.to/edsonaraujobr/entenda-a-diferenca-entre-modelo-conceitual-e-modelo-logico-em-banco-de-dados-4bg4)
-- [Elementary Logic And Proof Techniques](https://dev.to/niladridas/elementary-logic-and-proof-techniques-4541)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-pg0)
+- [Resum tècnic de l&#39;&quot;Artificial Intelligence Risk Management Framework &lpar;AI RMF 1.0&rpar;](https://dev.to/gcjordi/resum-tecnic-de-lartificial-intelligence-risk-management-framework-ai-rmf-10-4aia)
+- [What are Shopify theme app extensions? &lpar;and how to build with them&rpar;](https://dev.to/gadget/what-are-shopify-theme-app-extensions-and-how-to-build-with-them-5bf5)
+- [FastAPI Beyond CRUD Part 6 - CRUD With Async SQLModel &lpar;An Introduction to Dependency Injection&rpar;](https://dev.to/jod35/fastapi-beyond-crud-part-6-crud-with-async-sqlmodel-an-introduction-to-dependency-injection-5d1e)
+- [localforage vs localstorage](https://dev.to/dumorando/localforage-vs-localstorage-43ap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
