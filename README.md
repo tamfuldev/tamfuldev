@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Firebase Authentication for Secure User Login](https://dev.to/dk119819/how-to-use-firebase-authentication-for-secure-user-login-3df9)
-- [Training-Free Long-Context Scaling of Large Language Models](https://dev.to/mikeyoung44/training-free-long-context-scaling-of-large-language-models-1dpi)
-- [Certifiably Robust RAG against Retrieval Corruption](https://dev.to/mikeyoung44/certifiably-robust-rag-against-retrieval-corruption-3a7p)
-- [Sparse maximal update parameterization: A holistic approach to sparse training dynamics](https://dev.to/mikeyoung44/sparse-maximal-update-parameterization-a-holistic-approach-to-sparse-training-dynamics-270e)
-- [Grokfast: Accelerated Grokking by Amplifying Slow Gradients](https://dev.to/mikeyoung44/grokfast-accelerated-grokking-by-amplifying-slow-gradients-41on)
+- [Play.HT : Le pouvoir de la voix IA au service de votre communication](https://dev.to/vulgar_ia/playht-le-pouvoir-de-la-voix-ia-au-service-de-votre-communication-17dm)
+- [Building Dynamic Forms in Angular](https://dev.to/bytebantz/building-dynamic-forms-in-angular-476m)
+- [Another Framework What&#39;s So Special About It ?](https://dev.to/oarabiledev/another-framework-whats-so-special-about-it--3ejk)
+- [User Authorization with Postgres Row Level Security Policy](https://dev.to/keming/user-authorization-with-postgres-row-level-security-policy-4g91)
+- [What is an Attack Surface Management?](https://dev.to/clouddefenseai/what-is-an-attack-surface-management-4cja)
 <!-- BLOG-POST-LIST:END -->
 
 ---
