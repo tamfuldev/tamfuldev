@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [One-click MFA integration: Software OTP, Passkey, and backup code](https://dev.to/logto/one-click-mfa-integration-software-otp-passkey-and-backup-code-580e)
-- [Nos conférences à Devoxx France 2024 !!](https://dev.to/onepoint/nos-conferences-a-devoxx-france-2024--37kl)
-- [Monitoring Your Server with Prometheus, Node Exporter, and Grafana Using Docker](https://dev.to/jobinbiju/monitoring-your-server-with-prometheus-node-exporter-and-grafana-using-docker-1ae7)
-- [Atomic Design Pattern: How to set up your Reactjs Project Structure?](https://dev.to/mroman7/atomic-design-pattern-how-to-set-up-your-reactjs-project-structure-44pm)
-- [12 Techniques to Remove Unwanted Objects in Urban Photography](https://dev.to/trammygombez/12-techniques-to-remove-unwanted-objects-in-urban-photography-12i4)
+- [How to set up a Python WebSocket Server with Godot 4&#39;s WebSocketPeer Client. [Tutorial]](https://dev.to/olaf007/how-to-set-up-a-python-websocket-server-with-godot-4s-websocketpeer-client-tutorial-1a5f)
+- [The Product Engineer Checklist](https://dev.to/epilot/the-product-engineer-checklist-469d)
+- [Checked &amp; Unchecked statements in C# reference](https://dev.to/ozodbek_soft/checked-unchecked-statements-in-c-reference-2onk)
+- [100 Days of Swift &lpar;in 30&rpar;](https://dev.to/tonybermea/100-days-of-swift-in-30-5g22)
+- [HELLO WORLD!](https://dev.to/aizeon/hello-world-49gd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
