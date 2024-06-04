@@ -16,7 +16,7 @@
 # Latest stack oveflow activity
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><tr><td>File not writable in localhost</td><td>https://stackoverflow.com/questions/78573041/file-not-writable-in-localhost</td></tr><tr><td>With Livewire 3, how can I use multiple inputs with the same wire:model?</td><td>https://stackoverflow.com/questions/78573006/with-livewire-3-how-can-i-use-multiple-inputs-with-the-same-wiremodel</td></tr><tr><td>why apache server dead?</td><td>https://stackoverflow.com/questions/78572985/why-apache-server-dead</td></tr><tr><td>Formatting Laravel collection based on related data</td><td>https://stackoverflow.com/questions/78572855/formatting-laravel-collection-based-on-related-data</td></tr><tr><td>DDEV - how to access Mailpit POP3 server</td><td>https://stackoverflow.com/questions/78572824/ddev-how-to-access-mailpit-pop3-server</td></tr><!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:START --><tr><td>Laravel Markdown email</td><td>https://stackoverflow.com/questions/78573093/laravel-markdown-email</td></tr><tr><td>File not writable in localhost</td><td>https://stackoverflow.com/questions/78573041/file-not-writable-in-localhost</td></tr><tr><td>With Livewire 3, how can I use multiple inputs with the same wire:model?</td><td>https://stackoverflow.com/questions/78573006/with-livewire-3-how-can-i-use-multiple-inputs-with-the-same-wiremodel</td></tr><tr><td>why apache server dead?</td><td>https://stackoverflow.com/questions/78572985/why-apache-server-dead</td></tr><tr><td>Formatting Laravel collection based on related data</td><td>https://stackoverflow.com/questions/78572855/formatting-laravel-collection-based-on-related-data</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 
 ---
