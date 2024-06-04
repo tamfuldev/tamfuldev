@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Task vs ValueTask](https://dev.to/ben-witt/task-vs-valuetask-499n)
-- [Excel Perform COUNT on Each Category and Concatenate Results into a String](https://dev.to/judith677/excel-perform-count-on-each-category-and-concatenate-results-into-a-string-4fn4)
-- [Installing a Custom Plugin in Docker: Kong Plugin Development](https://dev.to/zelarsoft/installing-a-custom-plugin-in-docker-kong-plugin-development-4m5f)
-- [Common pitfalls when designing widgets in Flutter](https://dev.to/harsh8088/common-pitfalls-when-designing-widgets-in-flutter-afd)
-- [How to setup a free, self-hosted AI model for use with VS Code](https://dev.to/glsolaria/how-to-setup-a-free-self-hosted-ai-model-for-use-with-vs-code-4704)
+- [One-click MFA integration: Software OTP, Passkey, and backup code](https://dev.to/logto/one-click-mfa-integration-software-otp-passkey-and-backup-code-580e)
+- [Nos conférences à Devoxx France 2024 !!](https://dev.to/onepoint/nos-conferences-a-devoxx-france-2024--37kl)
+- [Monitoring Your Server with Prometheus, Node Exporter, and Grafana Using Docker](https://dev.to/jobinbiju/monitoring-your-server-with-prometheus-node-exporter-and-grafana-using-docker-1ae7)
+- [Atomic Design Pattern: How to set up your Reactjs Project Structure?](https://dev.to/mroman7/atomic-design-pattern-how-to-set-up-your-reactjs-project-structure-44pm)
+- [12 Techniques to Remove Unwanted Objects in Urban Photography](https://dev.to/trammygombez/12-techniques-to-remove-unwanted-objects-in-urban-photography-12i4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
