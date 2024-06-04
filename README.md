@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-pg0)
-- [Resum tècnic de l&#39;&quot;Artificial Intelligence Risk Management Framework &lpar;AI RMF 1.0&rpar;](https://dev.to/gcjordi/resum-tecnic-de-lartificial-intelligence-risk-management-framework-ai-rmf-10-4aia)
-- [What are Shopify theme app extensions? &lpar;and how to build with them&rpar;](https://dev.to/gadget/what-are-shopify-theme-app-extensions-and-how-to-build-with-them-5bf5)
-- [FastAPI Beyond CRUD Part 6 - CRUD With Async SQLModel &lpar;An Introduction to Dependency Injection&rpar;](https://dev.to/jod35/fastapi-beyond-crud-part-6-crud-with-async-sqlmodel-an-introduction-to-dependency-injection-5d1e)
-- [localforage vs localstorage](https://dev.to/dumorando/localforage-vs-localstorage-43ap)
+- [💣Not Learning New Things at Work is Destroying Your Career](https://dev.to/lucaschitolina/not-learning-new-things-at-work-is-destroying-your-career-34g9)
+- [Design para programadores](https://dev.to/terminalcoffee/design-para-programadores-1m28)
+- [Why &quot;Chat over Your Data&quot; Is Harder Than You Think](https://dev.to/sahinera/why-chat-over-your-data-is-harder-than-you-think-1e69)
+- [Quick Guide | MERN Stack Application Development](https://dev.to/ishi_hisashi/quick-guide-mern-stack-application-development-4noe)
+- [Nginx Alias Path Traversal](https://dev.to/c4ng4c31r0/nginx-alias-path-traversal-1498)
 <!-- BLOG-POST-LIST:END -->
 
 ---
