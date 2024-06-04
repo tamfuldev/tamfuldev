@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Play.HT : Le pouvoir de la voix IA au service de votre communication](https://dev.to/vulgar_ia/playht-le-pouvoir-de-la-voix-ia-au-service-de-votre-communication-17dm)
-- [Building Dynamic Forms in Angular](https://dev.to/bytebantz/building-dynamic-forms-in-angular-476m)
-- [Another Framework What&#39;s So Special About It ?](https://dev.to/oarabiledev/another-framework-whats-so-special-about-it--3ejk)
-- [User Authorization with Postgres Row Level Security Policy](https://dev.to/keming/user-authorization-with-postgres-row-level-security-policy-4g91)
-- [What is an Attack Surface Management?](https://dev.to/clouddefenseai/what-is-an-attack-surface-management-4cja)
+- [Spiner || community discussion](https://dev.to/eliaondacs/spiner-community-discussion-4hm1)
+- [How we migrated our codebase from fp-ts to Effect](https://dev.to/laurerc/how-we-migrated-our-codebase-from-fp-ts-to-effect-5bbk)
+- [Top External Email Providers for Your Strapi Application](https://dev.to/strapi/top-external-email-providers-for-your-strapi-application-591h)
+- [Heroku for ChatOps: Start and Monitor Deployments from Slack](https://dev.to/thawkin3/heroku-for-chatops-start-and-monitor-deployments-from-slack-3kle)
+- [Do you know how the code you write in JavaScript gets executed? How JavaScript supports asynchronous execution?](https://dev.to/afnan_ahmed/do-you-know-how-the-code-you-write-in-javascript-gets-executed-how-javascript-supports-asynchronous-execution-315d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
