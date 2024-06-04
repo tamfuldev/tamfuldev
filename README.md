@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome to my Blog](https://dev.to/ganatrajay2000/welcome-to-my-blog-1cmh)
-- [Embarking on My Coding Journey](https://dev.to/william_nguyen_88/embarking-on-my-coding-journey-2fl1)
-- [Higher Order Components &lpar;HOC&rpar; React](https://dev.to/fatimaalam1234/higher-order-components-hoc-react-hb2)
-- [Simplifying Dependency Management with Spring IoC](https://dev.to/tiuwill/simplifying-dependency-management-with-spring-ioc-58nl)
-- [We&#39;re software developers, but are we?](https://dev.to/hectorzr/were-software-developers-but-are-we-bd6)
+- [Implement React v18 from Scratch Using WASM and Rust - [15] Implement useEffect](https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-15-implement-useeffect-5gb4)
+- [Social engineering](https://dev.to/logto/social-engineering-5dj2)
+- [Creating a Linux Virtual Machine with Ubuntu Server using Password Authentication.](https://dev.to/opsyog/creating-a-linux-virtual-machine-with-ubuntu-server-using-password-authentication-2nec)
+- [What&#39;s New in ADC 0.8 &amp; 0.9 &amp; 0.10?](https://dev.to/api7/whats-new-in-adc-08-09-010-40b9)
+- [Handling CORS Errors in ReactJS](https://dev.to/vyan/handling-cors-errors-in-reactjs-42pl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
