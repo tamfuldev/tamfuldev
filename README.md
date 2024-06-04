@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Still Struggling with JavaScript Promises?](https://dev.to/godinhojoao/still-struggling-with-javascript-promises-kdh)
-- [Opt-In VS Opt-Out](https://dev.to/cxdezign/opt-in-vs-opt-out-2c48)
-- [[Game of Purpose] Day 16](https://dev.to/humberd/game-of-purpose-day-16-1pm3)
-- [Handle state management and concurrency issues in Terraform and Ansible?](https://dev.to/vaibhavhariaramani/handle-state-management-and-concurrency-issues-in-terraform-and-ansible-2dp8)
-- [Setting Up GitHub Environment Configurations in Neovim on Linux](https://dev.to/gokayburuc/setting-up-github-environment-configurations-in-neovim-on-linux-5499)
+- [Making My Own Karaoke Videos with AI](https://dev.to/muddylemon/making-my-own-karaoke-videos-with-ai-4b8l)
+- [How to get people to use your app as a solopreneur](https://dev.to/leonardoventurini/how-to-get-people-to-use-your-app-as-a-solopreneur-2o2f)
+- [Primeiros Meses como Nômade Digital [PT-BR]](https://dev.to/andredarcie/primeiros-meses-como-nomade-digital-pt-br-42g)
+- [Project Stage 1: Preparation&lpar;part-2&rpar;](https://dev.to/yuktimulani/project-stage-1-preparationpart-2-3oon)
+- [Optimize web content with html video tag](https://dev.to/hussein09/optimize-web-content-with-html-video-tag-no8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
