@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Technology and Programming Help My Hikes](https://dev.to/outofyourcomfortzone/how-technology-and-programming-help-my-hikes-28ap)
-- [Day 10 of my progress as a vue dev](https://dev.to/zain725342/day-10-of-my-progress-as-a-vue-dev-177b)
-- [409. Longest Palindrome](https://dev.to/mdarifulhaque/409-longest-palindrome-127o)
-- [App runner with CloudFormation AWS &lpar;json, nodejs, java &rpar;](https://dev.to/huydanggdg/app-runner-with-cloudformation-aws-json-nodejs-java--433i)
-- [Nvidia&#39;s 1000x Performance Boost Claim Verified](https://dev.to/maximsaplin/nvidias-1000x-performance-boost-claim-verified-j7f)
+- [Exception In java and hierarchy](https://dev.to/rajubora/exception-in-java-and-hierarchy-53f5)
+- [Populating Select Input with data from an API using Nextjs and typescript](https://dev.to/romkev/populating-select-input-with-data-from-an-api-using-nextjs-and-typescript-4jcn)
+- [WinterJS vs. Bun: Comparing JavaScript runtimes](https://dev.to/logrocket/winterjs-vs-bun-comparing-javascript-runtimes-3b2k)
+- [Entenda a diferença entre modelo conceitual e modelo lógico em Banco de Dados](https://dev.to/edsonaraujobr/entenda-a-diferenca-entre-modelo-conceitual-e-modelo-logico-em-banco-de-dados-4bg4)
+- [Elementary Logic And Proof Techniques](https://dev.to/niladridas/elementary-logic-and-proof-techniques-4541)
 <!-- BLOG-POST-LIST:END -->
 
 ---
