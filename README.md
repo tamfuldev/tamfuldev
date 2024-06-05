@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[WIP] Test UI?](https://dev.to/linediconsine/wip-test-ui-dl4)
-- [Millisecond Scale-to-Zero with Unikernels](https://dev.to/plutov/millisecond-scale-to-zero-with-unikernels-5bjl)
-- [Transforming Desktop Browsing Experience: A Proof of Concept](https://dev.to/maleta/transforming-desktop-browsing-experience-a-proof-of-concept-417)
-- [Class Abstraction and Encapsulation](https://dev.to/paulike/class-abstraction-and-encapsulation-2flo)
-- [Implementing UI Automation Testing for Desktop Applications Dealing With Different DBMS](https://dev.to/konstantin_semenenkov/implementing-ui-automation-testing-for-desktop-applications-dealing-with-different-dbms-1fkg)
+- [Understanding Reactive Contexts in Angular 18](https://dev.to/diegoquesadadev/understanding-reactive-contexts-in-angular-18-17b9)
+- [Class Relationships](https://dev.to/paulike/class-relationships-324b)
+- [On-Scroll Animation](https://dev.to/alikhanzada577/on-scroll-animation-11am)
+- [How to debug a Python and Django application inside a Docker container](https://dev.to/danielcandidos/how-to-debug-a-python-and-django-application-inside-a-docker-container-504f)
+- [Leveraging SOAP APIs for Outbound Integration: A Step-by-Step Guide.](https://dev.to/sophiasemga/leveraging-soap-apis-for-outbound-integration-a-step-by-step-guide-245c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
