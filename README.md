@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Recover an Entire Folder in S3 After Accidental Deletion](https://dev.to/siddhantkcode/how-to-recover-an-entire-folder-in-s3-after-accidental-deletion-173f)
-- [AWS Summit Stockholm](https://dev.to/stefanalfbo/aws-summit-stockholm-17k4)
-- [New domain OSINT tool. Your thoughts and feedback?](https://dev.to/osinttechnologies/new-domain-osint-tool-your-thoughts-and-feedback-3in6)
-- [🧠 50 Articles to Level Up](https://dev.to/florianrappl/50-articles-to-level-up-22jk)
-- [Whales Betting on XRP Returns Amidst Coin’s Downsiding Performance](https://dev.to/endeo/whales-betting-on-xrp-returns-amidst-coins-downsiding-performance-553e)
+- [[WIP] Test UI?](https://dev.to/linediconsine/wip-test-ui-dl4)
+- [Millisecond Scale-to-Zero with Unikernels](https://dev.to/plutov/millisecond-scale-to-zero-with-unikernels-5bjl)
+- [Transforming Desktop Browsing Experience: A Proof of Concept](https://dev.to/maleta/transforming-desktop-browsing-experience-a-proof-of-concept-417)
+- [Class Abstraction and Encapsulation](https://dev.to/paulike/class-abstraction-and-encapsulation-2flo)
+- [Implementing UI Automation Testing for Desktop Applications Dealing With Different DBMS](https://dev.to/konstantin_semenenkov/implementing-ui-automation-testing-for-desktop-applications-dealing-with-different-dbms-1fkg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
