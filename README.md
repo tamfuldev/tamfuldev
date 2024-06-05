@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [WEDNESDAY POLL DAY 🤘](https://dev.to/mince/wednesday-poll-day-4p9i)
-- [Identity and Access Management: Why it is an Absolute Necessity Today](https://dev.to/sennovate/identity-and-access-management-why-it-is-an-absolute-necessity-today-5hdi)
-- [How To Memoize False and Nil Values](https://dev.to/jetthoughts/how-to-memoize-false-and-nil-values-50g3)
-- [Test Driven Thinking for Solving Common Ruby Pitfalls](https://dev.to/jetthoughts/test-driven-thinking-for-solving-common-ruby-pitfalls-3gb7)
-- [BMI &amp; Body Fat Percentage Calculator](https://dev.to/sudhanshuambastha/bmi-body-fat-percentage-calculator-cbb)
+- [Onboarding Tests into Legacy Project](https://dev.to/jetthoughts/onboarding-tests-into-legacy-project-54f3)
+- [Checklist for the non-tech founder*](https://dev.to/jetthoughts/checklist-for-the-non-tech-founder-dim)
+- [How We Helped an Existing Product Debug, Grow, and Gain More &lpar;Satisfied&rpar; Customers](https://dev.to/jetthoughts/how-we-helped-an-existing-product-debug-grow-and-gain-more-satisfied-customers-554b)
+- [React + Ruby on Rails without any gems](https://dev.to/jetthoughts/react-ruby-on-rails-without-any-gems-3clf)
+- [Exploring the Cutting-Edge of Genome Hacking with Bioinformatics!](https://dev.to/jnarayan81/exploring-the-cutting-edge-of-genome-hacking-with-bioinformatics-5e57)
 <!-- BLOG-POST-LIST:END -->
 
 ---
