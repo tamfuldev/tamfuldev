@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v279](https://dev.to/devteam/welcome-thread-v279-2mg1)
-- [Implementing Native Code in React Native](https://dev.to/paulocappa/implementing-native-code-in-react-native-2282)
-- [How to Create a Responsive Card Using Plain HTML &amp; CSS](https://dev.to/george_kingi/how-to-create-a-responsive-card-using-plain-html-css-1j3b)
-- [Elanat CMS One Year Birthday](https://dev.to/elanatframework/elanat-cms-one-year-birthday-bif)
-- [React: Design Patterns | Container Components](https://dev.to/andresz74/react-design-patterns-container-components-5g70)
+- [How to make basic express api](https://dev.to/cache/how-to-make-basic-express-api-2o7g)
+- [Understanding Spring Annotations: A Comprehensive Overview](https://dev.to/tiuwill/understanding-spring-annotations-a-comprehensive-overview-2hg3)
+- [it&#39;s all about the least worst combination of trade-offs](https://dev.to/marcostx/its-all-about-the-least-worst-combination-of-trade-offs-17fc)
+- [How to Merge Two Arrays in Java: A Simple Guide](https://dev.to/dk119819/how-to-merge-two-arrays-in-java-a-simple-guide-13hc)
+- [Developing Interactive E-Learning Content with HTML5 and JavaScript](https://dev.to/kartikmehta8/developing-interactive-e-learning-content-with-html5-and-javascript-2hio)
 <!-- BLOG-POST-LIST:END -->
 
 ---
