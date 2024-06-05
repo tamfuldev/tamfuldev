@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Overcame The Imposter Syndrome](https://dev.to/thekarlesi/embracing-and-overcoming-the-imposter-syndrome-oo2)
-- [Understanding Dependency Injection in Spring Boot](https://dev.to/tharindufdo/understanding-dependency-injection-in-spring-boot-2ll0)
-- [Day 14 of 30 of JavaScript](https://dev.to/akshat0610/day-14-of-30-of-javascript-145a)
-- [Work with :through associations made easy](https://dev.to/epigene/work-with-through-associations-made-easy-36o2)
-- [Channel Your Inner Scrooge with Redshift Reserved Instances: Slash Your Cloud Bill Like a Boss](https://dev.to/abhiram_cdx/channel-your-inner-scrooge-with-redshift-reserved-instances-slash-your-cloud-bill-like-a-boss-4kl1)
+- [Streamlining Trade Operations with Intelligent Document Processing &lpar;IDP&rpar;](https://dev.to/john_hall/streamlining-trade-operations-with-intelligent-document-processing-idp-1hpi)
+- [Day 5 of #90daysofdevops Advanced Linux Shell Scripting for DevOps Engineers with User Management](https://dev.to/oncloud7/day-5-of-90daysofdevops-advanced-linux-shell-scripting-for-devops-engineers-with-user-management-2lg2)
+- [✨ 10 useful webdev insight &amp; learning resources!](https://dev.to/thexdev/10-useful-webdev-insight-learning-resources-eoe)
+- [Understanding gRPC: A Modern Approach to Remote Procedure Calls](https://dev.to/arefin6/understanding-grpc-a-modern-approach-to-remote-procedure-calls-59c)
+- [CSS Art: June - 14 de Junho Dia Mundial do Doador de Sangue](https://dev.to/hmontarroyos/css-art-june-14-de-junho-dia-mundial-do-doador-de-sangue-9fj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
