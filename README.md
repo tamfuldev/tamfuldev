@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Evaluation Metrics: Machine Learning Models 🤖🐍](https://dev.to/kammarianand/evaluation-metrics-machine-learning-models-lg5)
-- [What are the most promising decentralized applications available today?](https://dev.to/sanaellie/what-are-the-most-promising-decentralized-applications-available-today-1af1)
-- [Sachin Dev Duggal - Future Employment and AI: Moving Beyond Technological Displacement](https://dev.to/triptivermaa01/sachin-dev-duggal-future-employment-and-ai-moving-beyond-technological-displacement-lf6)
-- [What is MANUAL TESTING its DRAWBACKS and BENEFITS.](https://dev.to/s1eb0d54/what-is-manual-testing-its-drawbacks-and-benefits-4830)
-- [Understanding Type Casting in Java: Importance, Usage, and Necessity](https://dev.to/fullstackjava/understanding-type-casting-in-java-importance-usage-and-necessity-p8f)
+- [How I Overcame The Imposter Syndrome](https://dev.to/thekarlesi/embracing-and-overcoming-the-imposter-syndrome-oo2)
+- [Understanding Dependency Injection in Spring Boot](https://dev.to/tharindufdo/understanding-dependency-injection-in-spring-boot-2ll0)
+- [Day 14 of 30 of JavaScript](https://dev.to/akshat0610/day-14-of-30-of-javascript-145a)
+- [Work with :through associations made easy](https://dev.to/epigene/work-with-through-associations-made-easy-36o2)
+- [Channel Your Inner Scrooge with Redshift Reserved Instances: Slash Your Cloud Bill Like a Boss](https://dev.to/abhiram_cdx/channel-your-inner-scrooge-with-redshift-reserved-instances-slash-your-cloud-bill-like-a-boss-4kl1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
