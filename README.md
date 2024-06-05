@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Streamlining Trade Operations with Intelligent Document Processing &lpar;IDP&rpar;](https://dev.to/john_hall/streamlining-trade-operations-with-intelligent-document-processing-idp-1hpi)
-- [Day 5 of #90daysofdevops Advanced Linux Shell Scripting for DevOps Engineers with User Management](https://dev.to/oncloud7/day-5-of-90daysofdevops-advanced-linux-shell-scripting-for-devops-engineers-with-user-management-2lg2)
-- [✨ 10 useful webdev insight &amp; learning resources!](https://dev.to/thexdev/10-useful-webdev-insight-learning-resources-eoe)
-- [Understanding gRPC: A Modern Approach to Remote Procedure Calls](https://dev.to/arefin6/understanding-grpc-a-modern-approach-to-remote-procedure-calls-59c)
-- [CSS Art: June - 14 de Junho Dia Mundial do Doador de Sangue](https://dev.to/hmontarroyos/css-art-june-14-de-junho-dia-mundial-do-doador-de-sangue-9fj)
+- [Mastering JavaScript: Your Ultimate Guide🚀](https://dev.to/dharamgfx/mastering-javascript-your-ultimate-guide-4mic)
+- [Rusty RAG Quiz Creator](https://dev.to/narroric/rusty-rag-quiz-creator-1d31)
+- [Tightly Coupled Code vs Loosely Coupled Code](https://dev.to/dharmingheewala/tightly-coupled-code-vs-loosely-coupled-code-731)
+- [&quot;Frontend Challenge&quot;](https://dev.to/klimd1389/frontend-challenge-5249)
+- [Configuração de ambiente BackEnd](https://dev.to/anuntech/configuracao-de-ambiente-backend-359c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
