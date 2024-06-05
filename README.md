@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Onboarding Tests into Legacy Project](https://dev.to/jetthoughts/onboarding-tests-into-legacy-project-54f3)
-- [Checklist for the non-tech founder*](https://dev.to/jetthoughts/checklist-for-the-non-tech-founder-dim)
-- [How We Helped an Existing Product Debug, Grow, and Gain More &lpar;Satisfied&rpar; Customers](https://dev.to/jetthoughts/how-we-helped-an-existing-product-debug-grow-and-gain-more-satisfied-customers-554b)
-- [React + Ruby on Rails without any gems](https://dev.to/jetthoughts/react-ruby-on-rails-without-any-gems-3clf)
-- [Exploring the Cutting-Edge of Genome Hacking with Bioinformatics!](https://dev.to/jnarayan81/exploring-the-cutting-edge-of-genome-hacking-with-bioinformatics-5e57)
+- [Rendering a list of elements in JSX](https://dev.to/ark7/rendering-a-list-of-elements-in-jsx-35am)
+- [What is Func Keyword in C#? Main Usages ⭐](https://dev.to/bytehide/what-is-func-keyword-in-c-main-usages-3gmj)
+- [Automating Insulin Ordering: Sending the Email to the Pharmacy &lpar;Part 4&rpar;](https://dev.to/goudekettingrm/automating-insulin-ordering-sending-the-email-to-the-pharmacy-part-4-1bp)
+- [How I made my own screenshot-to-code project](https://dev.to/dancemove_marscode/how-i-made-my-own-screenshot-to-code-project-2enh)
+- [The Magic of Git Stash: How It Saved My Day](https://dev.to/waqaryounis7564/the-magic-of-git-stash-how-it-saved-my-day-119k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
