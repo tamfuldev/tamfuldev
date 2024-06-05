@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [HOW TO HOST AN APPLICATION USING GITHUB](https://dev.to/shreeprabha_bhat/how-to-host-an-application-using-github-49bh)
-- [The Right Way to Do HMAC Authentication in ExpressJS](https://dev.to/burhanahmeed/the-right-way-to-do-hmac-authentication-in-expressjs-5489)
-- [Introducing sudoku-puzzle: Simplify your Sudoku experience with this new NPM Package](https://dev.to/dhanushnehru/introducing-sudoku-puzzle-simplify-your-sudoku-experience-with-this-new-npm-package-1249)
-- [Load Balancer](https://dev.to/mustafacam/load-balancer-1l1d)
-- [Introduction ExpressJS](https://dev.to/dana-fullstack-dev/introduction-expressjs-59bi)
+- [Take Your First Steps for Building on LLMs with Google Gemini](https://dev.to/alvinslee/take-your-first-steps-for-building-on-llms-with-google-gemini-4169)
+- [Implementing Role Based Access Control &lpar;RBAC&rpar; in Node.js and Express App](https://dev.to/permify/implementing-role-based-access-control-rbac-in-nodejs-and-express-app-5df4)
+- [Generative AI: Revolutionizing Content Creation and Beyond](https://dev.to/data_expertise/generative-ai-revolutionizing-content-creation-and-beyond-gi9)
+- [How to get started with OpenProject on-premises installation](https://dev.to/openproject/how-to-get-started-with-openproject-on-premises-installation-22ia)
+- [Perform RAG in JSON formatted data](https://dev.to/samitha10/perform-rag-in-json-formatted-data-15gf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
