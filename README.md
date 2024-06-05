@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [17 Tailwind CSS Tips &amp; Tricks You Probably Don&#39;t Know](https://dev.to/syakirurahman/17-tailwind-css-tips-tricks-you-probably-dont-know-4m68)
-- [In Excel Crosstab, Transpose Cross Cells to Columns and Rows to Cross Cells Respectively](https://dev.to/judith677/in-excel-crosstab-transpose-cross-cells-to-columns-and-rows-to-cross-cells-respectively-5b1e)
-- [The best free, open-source SaaS template for React &amp; NodeJS](https://dev.to/wasp/the-best-free-open-source-saas-template-for-react-nodejs-263)
-- [How to deliver fan engagement - lessons from Xalt, Genius Sports and more...](https://dev.to/ably/how-to-deliver-fan-engagement-lessons-from-xalt-genius-sports-and-more-2a6j)
-- [What is SaaS? How to Plan, Build, and Launch Your Own SaaS](https://dev.to/abdul-haadi/what-is-saas-how-to-plan-build-and-launch-your-own-saas-b0k)
+- [Title: Unpacking the Core Architectural Components of Microsoft Azure](https://dev.to/francis_mbamara_05cc4a12d/title-unpacking-the-core-architectural-components-of-microsoft-azure-2cgo)
+- [☸️ Why Managed Kubernetes is a Viable Solution for even Modest but Actively Developed Applications](https://dev.to/zenika/why-managed-kubernetes-is-a-viable-solution-for-even-modest-but-actively-developed-applications-357g)
+- [Understanding SQL Joins: A Comprehensive Guide](https://dev.to/johnnyk/understanding-sql-joins-a-comprehensive-guide-3c9g)
+- [Angular Material Theming with CSS Variables](https://dev.to/ngmaterialdev/angular-material-theming-with-css-variables-1jne)
+- [A inclusão de pessoas introvertidas no mundo de negócios, um contraponto necessário.](https://dev.to/biosbug/a-inclusao-de-pessoas-introvertidas-no-mundo-de-negocios-um-contraponto-necessario-37n8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
