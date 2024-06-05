@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering JavaScript: Your Ultimate Guide🚀](https://dev.to/dharamgfx/mastering-javascript-your-ultimate-guide-4mic)
-- [Rusty RAG Quiz Creator](https://dev.to/narroric/rusty-rag-quiz-creator-1d31)
-- [Tightly Coupled Code vs Loosely Coupled Code](https://dev.to/dharmingheewala/tightly-coupled-code-vs-loosely-coupled-code-731)
-- [&quot;Frontend Challenge&quot;](https://dev.to/klimd1389/frontend-challenge-5249)
-- [Configuração de ambiente BackEnd](https://dev.to/anuntech/configuracao-de-ambiente-backend-359c)
+- [HOW TO HOST AN APPLICATION USING GITHUB](https://dev.to/shreeprabha_bhat/how-to-host-an-application-using-github-49bh)
+- [The Right Way to Do HMAC Authentication in ExpressJS](https://dev.to/burhanahmeed/the-right-way-to-do-hmac-authentication-in-expressjs-5489)
+- [Introducing sudoku-puzzle: Simplify your Sudoku experience with this new NPM Package](https://dev.to/dhanushnehru/introducing-sudoku-puzzle-simplify-your-sudoku-experience-with-this-new-npm-package-1249)
+- [Load Balancer](https://dev.to/mustafacam/load-balancer-1l1d)
+- [Introduction ExpressJS](https://dev.to/dana-fullstack-dev/introduction-expressjs-59bi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
