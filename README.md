@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying static webs apps with the Azure cli and bicep](https://dev.to/danwright/deploying-static-webs-apps-1dib)
-- [Best Practices for Working with Next.js](https://dev.to/enitanogun1/best-practices-for-working-with-nextjs-49np)
-- [How to create a Storage Account in Microsoft Azure](https://dev.to/atony07/how-to-create-a-storage-account-in-microsoft-azure-44e7)
-- [Mastering Python Comprehensions: Crafting Efficient and Readable Code](https://dev.to/sahilfruitwala/mastering-python-comprehensions-crafting-efficient-and-readable-code-a89)
-- [Day 963 : My Computer](https://dev.to/dwane/day-963-my-computer-4eog)
+- [Welcome Thread - v279](https://dev.to/devteam/welcome-thread-v279-2mg1)
+- [Implementing Native Code in React Native](https://dev.to/paulocappa/implementing-native-code-in-react-native-2282)
+- [How to Create a Responsive Card Using Plain HTML &amp; CSS](https://dev.to/george_kingi/how-to-create-a-responsive-card-using-plain-html-css-1j3b)
+- [Elanat CMS One Year Birthday](https://dev.to/elanatframework/elanat-cms-one-year-birthday-bif)
+- [React: Design Patterns | Container Components](https://dev.to/andresz74/react-design-patterns-container-components-5g70)
 <!-- BLOG-POST-LIST:END -->
 
 ---
