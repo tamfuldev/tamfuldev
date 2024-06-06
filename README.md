@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Key principles to writing better Javascript](https://dev.to/mtendekuyokwa19/key-principles-to-writing-better-javascript-no9)
-- [Python Essentials for Beginners](https://dev.to/tushrv/python-essentials-for-beginners-4edm)
-- [O Poder das Tarefas: Como Pequenas Entregas Levam a Grandes Resultados](https://dev.to/kecbm/o-poder-das-tarefas-como-pequenas-entregas-levam-a-grandes-resultados-2of6)
-- [O que eu diria para meu Eu a 2 anos atrás](https://dev.to/mateussousa00/o-que-eu-diria-para-meu-eu-a-2-anos-atras-c3e)
-- [4 Free Tailwind CSS Badge Components [Open-Source]](https://dev.to/creativetim_official/4-free-tailwind-css-badge-components-open-source-589p)
+- [The difference between the P tag and the PRE tag in HTML](https://dev.to/tidycoder/the-difference-between-the-p-tag-and-the-pre-tag-in-html-15in)
+- [12 Creative Toggle Designs for Your Inspiration &lpar;with Code&rpar; 🎨💖](https://dev.to/madza/12-creative-toggle-designs-for-your-inspiration-with-code-50bn)
+- [HackerRank SQL Preparation: Japanese Cities&#39; Attributes&lpar;MySQL&rpar;](https://dev.to/christianpaez/hackerrank-sql-preparation-japanese-cities-attributesmysql-12e9)
+- [Existing methods to query blockchain data and their trade-offs](https://dev.to/envio/existing-methods-to-query-blockchain-data-and-their-trade-offs-191i)
+- [How to Deploy a Next JS App on IPFS &lpar;InterPlanetary File System&rpar; and automate using Fleek](https://dev.to/amlana24/how-to-deploy-a-next-js-app-on-ipfs-interplanetary-file-system-and-automate-using-fleek-lf8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
