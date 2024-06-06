@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Bahas Tipis Seputar Redis](https://dev.to/revtm/bahas-tipis-seputar-redis-65d)
-- [The Effects of AI in Technical Writing](https://dev.to/cyberlord/the-effects-of-ai-in-technical-writing-4cl4)
-- [Title: My Coding Journey so far:A Dynamic Transformation](https://dev.to/worlu_prince/title-my-coding-journey-so-fara-dynamic-transformation-3li8)
-- [What Are The Differences Between KYC and AML?](https://dev.to/luxandcloud/what-are-the-differences-between-kyc-and-aml-5fnf)
-- [My Tech Journey](https://dev.to/mackey_arsen/my-tech-journey-3ce0)
+- [Sloan&#39;s Inbox: Should You Trust Developers Who Use Light Mode? 😝](https://dev.to/devteam/sloans-inbox-should-you-trust-developers-who-use-light-mode-5009)
+- [JavaScript ES6 Features You need to Know before Learning React](https://dev.to/vaatiesther/javascript-es6-features-you-need-to-know-before-learning-react-4lhm)
+- [Simplifying International Trade: The Role of Product Classification](https://dev.to/john_hall/simplifying-international-trade-the-role-of-product-classification-2g5f)
+- [HOW TO CREATE A RESOUCE GROUP ON AZURE](https://dev.to/edjdeborah/how-to-create-a-resouse-group-on-azure-4kl3)
+- [Day 5](https://dev.to/han_han/day-5-19fg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
