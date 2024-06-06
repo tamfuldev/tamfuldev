@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The difference between the P tag and the PRE tag in HTML](https://dev.to/tidycoder/the-difference-between-the-p-tag-and-the-pre-tag-in-html-15in)
-- [12 Creative Toggle Designs for Your Inspiration &lpar;with Code&rpar; 🎨💖](https://dev.to/madza/12-creative-toggle-designs-for-your-inspiration-with-code-50bn)
-- [HackerRank SQL Preparation: Japanese Cities&#39; Attributes&lpar;MySQL&rpar;](https://dev.to/christianpaez/hackerrank-sql-preparation-japanese-cities-attributesmysql-12e9)
-- [Existing methods to query blockchain data and their trade-offs](https://dev.to/envio/existing-methods-to-query-blockchain-data-and-their-trade-offs-191i)
-- [How to Deploy a Next JS App on IPFS &lpar;InterPlanetary File System&rpar; and automate using Fleek](https://dev.to/amlana24/how-to-deploy-a-next-js-app-on-ipfs-interplanetary-file-system-and-automate-using-fleek-lf8)
+- [🌊 Beach Quest with Finley and Friends !](https://dev.to/everlygif/beach-quest-with-finley-and-friends--bmk)
+- [How To Create a Virtual ATM Card using Plain HTML &amp; CSS](https://dev.to/george_kingi/how-to-create-a-virtual-atm-card-using-plain-html-css-nmj)
+- [Unleash the True Potential of Your Web Applications with React to Next.js](https://dev.to/s0330b/unleash-the-true-potential-of-your-web-applications-with-react-to-nextjs-314k)
+- [Day 2 - Learning basic Linux Commands](https://dev.to/anakin/day-2-learning-basic-linux-commands-2mkl)
+- [Huawei Cloud - Solution Architectures](https://dev.to/ozcankara/huawei-cloud-solution-architectures-5h9p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
