@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Sloan&#39;s Inbox: Should You Trust Developers Who Use Light Mode? 😝](https://dev.to/devteam/sloans-inbox-should-you-trust-developers-who-use-light-mode-5009)
-- [JavaScript ES6 Features You need to Know before Learning React](https://dev.to/vaatiesther/javascript-es6-features-you-need-to-know-before-learning-react-4lhm)
-- [Simplifying International Trade: The Role of Product Classification](https://dev.to/john_hall/simplifying-international-trade-the-role-of-product-classification-2g5f)
-- [HOW TO CREATE A RESOUCE GROUP ON AZURE](https://dev.to/edjdeborah/how-to-create-a-resouse-group-on-azure-4kl3)
-- [Day 5](https://dev.to/han_han/day-5-19fg)
+- [Recovering from burn out by building in public](https://dev.to/liaob/recovering-from-burn-out-by-building-in-public-3lb1)
+- [Terraform Best Practices: State Management, Reusability, Security and Beyond](https://dev.to/env0/terraform-best-practices-state-management-reusability-security-and-beyond-27ch)
+- [🕸️ A Guide to Lean Web Design for Developers](https://dev.to/evergrowingdev/a-guide-to-lean-web-design-for-developers-p90)
+- [Why ModHeader Users Are Moving to Requestly](https://dev.to/requestlyio/why-modheader-users-are-moving-to-requestly-4192)
+- [A simplified version of Clean Arch](https://dev.to/henriqueleite42/a-simplified-version-of-clean-arch-10i5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
