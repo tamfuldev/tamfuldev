@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Tenant isolation in multi-tenant application](https://dev.to/logto/tenant-isolation-in-multi-tenant-application-52f)
-- [So I tried Odoo for the first time](https://dev.to/yuiltripathee/so-i-tried-odoo-for-the-first-time-2o96)
-- [Buffing A 50 Year Old Programming Language](https://dev.to/mantlecore/buffing-a-50-year-old-programming-language-58la)
-- [Inter component communication in React.](https://dev.to/engineeringexpert/inter-component-communication-in-react-300b)
-- [Are multi-tenant apps = SaaS?](https://dev.to/logto/are-multi-tenant-apps-saas-1ph1)
+- [Day 4: Control Structures in JavaScript](https://dev.to/dipakahirav/day-4-control-structures-in-javascript-fnh)
+- [Using a custom domain name in a Private REST API Gateway](https://dev.to/aws-builders/using-a-custom-domain-name-in-a-private-rest-api-gateway-1c2h)
+- [Unraveling the Potential of AI in Testing: A Comprehensive Guide for Gen AI](https://dev.to/sureshayyanna/unraveling-the-potential-of-ai-in-testing-a-comprehensive-guide-for-gen-ai-3k3j)
+- [Robot Framework](https://dev.to/sureshayyanna/robot-framework-3ndn)
+- [Is there any service extracts important keywords through text](https://dev.to/modjm/is-there-any-service-extracts-important-keywords-through-text-402o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
