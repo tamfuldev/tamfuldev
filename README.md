@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Is distributed technology the panacea for big data processing?](https://dev.to/esproc_spl/is-distributed-technology-the-panacea-for-big-data-processing-5hgh)
-- [Book Recommendations](https://dev.to/jobreadyprogrammer/book-recommendations-281h)
-- [Conventional Commits for Writing Effective Git Commit Messages](https://dev.to/armanrahman/conventional-commits-for-writing-effective-git-commit-messages-47b6)
-- [How to Create Custom Product Tours in WooCommerce](https://dev.to/elightwalk/how-to-create-custom-product-tours-in-woocommerce-5faf)
-- [Latest JavaScript Tool Releases: PM2 5.4, Melange 4.0, Neutralinojs 5.2, and More!](https://dev.to/mohammed_jobairhossain_c/latest-javascript-tool-releases-pm2-54-melange-40-neutralinojs-52-and-more-2l6m)
+- [Self-Training LLMs for Text Classification using DQC Toolkit](https://dev.to/sumanthprabhu/self-training-llms-for-text-classification-using-dqc-toolkit-13a4)
+- [A Comprehensive Guide to Game Art Outsourcing for Smooth Collaboration](https://dev.to/ediiie/a-comprehensive-guide-to-game-art-outsourcing-for-smooth-collaboration-3kh8)
+- [15 Libraries You Should Know if You Build with React](https://dev.to/afzalimdad9/15-libraries-you-should-know-if-you-build-with-react-4eg5)
+- [How to become a junior React developer to Senior React Developer](https://dev.to/subhadeep-das/how-to-become-a-junior-react-developer-to-senior-react-developer-3c7k)
+- [Embracing Asynchronous JavaScript: A Deep Dive🚀](https://dev.to/dharamgfx/embracing-asynchronous-javascript-a-deep-dive-559l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
