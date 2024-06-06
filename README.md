@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Not 💩, here&#39;s how to write actually good commit messages &lpar;hint: It&#39;s not just adding commit-lint&rpar;](https://dev.to/middleware/not-heres-how-to-write-actually-good-commit-messages-hint-its-not-just-adding-commit-lint-j2i)
-- [Maximizing ROI: From Google Analytics To Custom Analytics](https://dev.to/sotergreco/maximizing-roi-from-google-analytics-to-custom-analytics-5915)
-- [Why API Flow Diagrams are Needed](https://dev.to/tomjohnson3/why-api-flow-diagrams-are-needed-2049)
-- [Understanding Where Deleted Files Go After Deleting them from Recycle Bin and How to Recover Them](https://dev.to/e-tech/understanding-where-deleted-files-go-after-deleting-them-from-recycle-bin-and-how-to-recover-them-2aej)
-- [Navigating Your Career Path: From Messy Startups to High-End Companies](https://dev.to/nadim_ch0wdhury/navigating-your-career-path-from-messy-startups-to-high-end-companies-9jj)
+- [Bahas Tipis Seputar Redis](https://dev.to/revtm/bahas-tipis-seputar-redis-65d)
+- [The Effects of AI in Technical Writing](https://dev.to/cyberlord/the-effects-of-ai-in-technical-writing-4cl4)
+- [Title: My Coding Journey so far:A Dynamic Transformation](https://dev.to/worlu_prince/title-my-coding-journey-so-fara-dynamic-transformation-3li8)
+- [What Are The Differences Between KYC and AML?](https://dev.to/luxandcloud/what-are-the-differences-between-kyc-and-aml-5fnf)
+- [My Tech Journey](https://dev.to/mackey_arsen/my-tech-journey-3ce0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
