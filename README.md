@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Tenant isolation in multi-tenant application](https://dev.to/logto/tenant-isolation-in-multi-tenant-application-52f)
+- [So I tried Odoo for the first time](https://dev.to/yuiltripathee/so-i-tried-odoo-for-the-first-time-2o96)
+- [Buffing A 50 Year Old Programming Language](https://dev.to/mantlecore/buffing-a-50-year-old-programming-language-58la)
+- [Inter component communication in React.](https://dev.to/engineeringexpert/inter-component-communication-in-react-300b)
 - [Are multi-tenant apps = SaaS?](https://dev.to/logto/are-multi-tenant-apps-saas-1ph1)
-- [Primera parte: Introducción API Rest](https://dev.to/alfredtester/primera-parte-introduccion-api-rest-4109)
-- [Linear Regression Neural Network with nn.Linear&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/linear-regression-neural-network-with-nnlinear-in-pytorch-h4k)
-- [Como utilizar o Ack do RabbitMQ de forma eficiente](https://dev.to/mrdiniz88/como-utilizar-o-ack-do-rabbitmq-de-forma-eficiente-3i2m)
-- [What would I say to my past self 2 years ago?](https://dev.to/mateussousa00/what-would-i-say-to-my-past-self-2-years-ago-fm0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
