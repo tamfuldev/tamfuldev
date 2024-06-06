@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Art of Being Bored: The Upside to Downtime](https://dev.to/tdesseyn/the-art-of-being-bored-the-upside-to-downtime-4ggo)
-- [Google Search themed portfolio website](https://dev.to/enjeck/google-search-themed-portfolio-website-4kim)
-- [GenAI is Shaping the Future of Software Development](https://dev.to/get_pieces/genai-is-shaping-the-future-of-software-development-1m36)
-- [How AI Automation Benefits World-Class Developers](https://dev.to/get_pieces/how-ai-automation-benefits-world-class-developers-2oap)
-- [🚀 Completed my C++ syllabus and course! 🎉 Excited to share this milestone with everyone. #CodeComplete #CPP #AchievementUnlocked](https://dev.to/rishabh_devios/completed-my-c-syllabus-and-course-excited-to-share-this-milestone-with-everyone-codecomplete-cpp-achievementunlocked-4m7c)
+- [AI Excels in Small Domains](https://dev.to/max_prehoda_9cb09ea7c8d07/ai-excels-in-small-domains-50gi)
+- [Understanding Spring&#39;s @Required Annotation: A Legacy Perspective](https://dev.to/tiuwill/understanding-springs-required-annotation-a-legacy-perspective-5il)
+- [I had to create a Guest Mode mechanism in React.JS](https://dev.to/pvinicius/i-had-to-create-a-guest-mode-mechanism-in-reactjs-5abf)
+- [Understanding the core architectural components of Azure](https://dev.to/adah_okwara_3c43c95a89a2e/understanding-the-core-architectural-components-of-azure-26me)
+- [So I Built This: Broadening the Impact of What You’ve Built in the Lab](https://dev.to/jasoncorso/so-i-built-this-broadening-the-impact-of-what-youve-built-in-the-lab-1pb3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
