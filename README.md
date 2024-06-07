@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI tools you can try out 2024](https://dev.to/kevinbenjamin77/ai-tools-you-can-try-out-in-2024-53ck)
-- [17 Developer Tools that keep me productive](https://dev.to/taipy/17-developer-tools-that-keep-me-productive-37e2)
-- [What’s New in JavaScript](https://dev.to/andylarkin677/whats-new-in-javascript-249a)
-- [How to scrape dynamic websites with Python](https://dev.to/apify/how-to-scrape-dynamic-websites-with-python-h0m)
-- [Useful Resources for Web Developers](https://dev.to/christopherchhim/useful-resources-for-web-developers-4dl3)
+- [How to customize the labels of a pie chart in VChart?](https://dev.to/neuqzxy/how-to-customize-the-labels-of-a-pie-chart-in-vchart-55kb)
+- [SIMILAR TERMS USED IN CLOUD COMPUTING](https://dev.to/aizeon/similar-terms-used-in-cloud-computing-53a8)
+- [In Excel, Enter Values of the same Category in Cells on the Right of the Grouping Cell in Order](https://dev.to/judith677/in-excel-enter-values-of-the-same-category-in-cells-on-the-right-of-the-grouping-cell-in-order-3g2f)
+- [How does Amazon explain its value of EKS support](https://dev.to/abhiram_cdx/how-does-amazon-explain-its-value-of-eks-support-5hga)
+- [How AI is Shaping the Future of Education](https://dev.to/arpit_dhiman_afe108fe83fb/how-ai-is-shaping-the-future-of-education-dng)
 <!-- BLOG-POST-LIST:END -->
 
 ---
