@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a CRUD Application With Express and HTMX](https://dev.to/ethand91/creating-a-crud-application-with-express-and-htmx-1o08)
-- [Building Reliable Microservices: Testing Strategies for Success](https://dev.to/akaksha/building-reliable-microservices-testing-strategies-for-success-3i7b)
-- [How to Fetch Data from any API in JavaScript](https://dev.to/tejodeepmitraroy/how-to-fetch-data-from-any-api-in-javascript-5cdd)
-- [Lambda configurations for ALB to reach](https://dev.to/deko39/lambda-permission-for-alb-to-reach-4a1n)
-- [Terragrunt Tutorial – Getting Started &amp; Examples](https://dev.to/spacelift/terragrunt-tutorial-getting-started-examples-5eka)
+- [A Comprehensive Guide to API Endpoints](https://dev.to/getambassador2024/a-comprehensive-guide-to-api-endpoints-1agl)
+- [Version Control Systems and Their Importance](https://dev.to/shariqahmed525/version-control-systems-and-their-importance-1jjk)
+- [Deploy a full-stack cloud-native app with SSL to CloudFront, API Gateway, and Route53 with a custom domain](https://dev.to/joelwembo/deploy-a-full-stack-cloud-native-app-with-ssl-to-cloudfront-api-gateway-and-route53-with-a-custom-domain-3epc)
+- [Technical Guide: End-to-End CI/CD DevOps with Jenkins and Terraform](https://dev.to/joelwembo/technical-guide-end-to-end-cicd-devops-with-jenkins-and-terraform-3im3)
+- [The Art of Creating Microservice Diagrams](https://dev.to/tomjohnson3/the-art-of-creating-microservice-diagrams-3jl6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
