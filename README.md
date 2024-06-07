@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Beginner&#39;s Guide to Nodemailer](https://dev.to/scofieldidehen/a-beginners-guide-to-nodemailer-33d1)
-- [Huawei Cloud - Solution Architectures](https://dev.to/ozcankara/huawei-cloud-solution-architectures-1229)
-- [C++](https://dev.to/anvarbek/c-31ge)
-- [C++ birinchi dars](https://dev.to/dawroun/c-birinchi-dars-gnj)
-- [Migrating from REST to GraphQL: A Step-by-Step Guide](https://dev.to/markwilliams21/migrating-from-rest-to-graphql-a-step-by-step-guide-3mp8)
+- [What was your win this week? 🙌](https://dev.to/devteam/what-was-your-win-this-week-5ep8)
+- [Create your own GenAI Text-to-Speech App in TypeScript](https://dev.to/encore/create-your-own-genai-text-to-speech-app-in-typescript-11h7)
+- [Who&#39;s Hiring?](https://dev.to/opensauced/whos-hiring-4j82)
+- [Select best cluster of game-servers connection using PowerShell like the Wargaming launcher does. 🚀🎮](https://dev.to/uyriq/select-best-cluster-of-game-servers-connection-using-powershell-like-the-wargaming-launcher-does-n20)
+- [How To Set Up Docker Selenium GRID](https://dev.to/debasmita-a/how-to-set-up-docker-selenium-grid-2e8f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
