@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [This week trending news in tech](https://dev.to/shreyvijayvargiya/this-week-trending-news-in-tech-fj)
-- [How To Install and Use Composer on Ubuntu 20.04](https://dev.to/sh20raj/how-to-install-and-use-composer-on-ubuntu-2004-4pe)
-- [The Curious Case of Bugs that Fix Themselves](https://dev.to/moozzyk/the-curious-case-of-bugs-that-fix-themselves-28cl)
-- [Managing POSIX ACL Permissions in JuiceFS](https://dev.to/daswu/managing-posix-acl-permissions-in-juicefs-5hbe)
-- [ZhongAn Insurance&#39;s Wang Kai Analyzes Kafka Network Communication](https://dev.to/automq/zhongan-insurances-wang-kai-analyzes-kafka-network-communication-1p6i)
+- [Creating a CRUD Application With Express and HTMX](https://dev.to/ethand91/creating-a-crud-application-with-express-and-htmx-1o08)
+- [Building Reliable Microservices: Testing Strategies for Success](https://dev.to/akaksha/building-reliable-microservices-testing-strategies-for-success-3i7b)
+- [How to Fetch Data from any API in JavaScript](https://dev.to/tejodeepmitraroy/how-to-fetch-data-from-any-api-in-javascript-5cdd)
+- [Lambda configurations for ALB to reach](https://dev.to/deko39/lambda-permission-for-alb-to-reach-4a1n)
+- [Terragrunt Tutorial – Getting Started &amp; Examples](https://dev.to/spacelift/terragrunt-tutorial-getting-started-examples-5eka)
 <!-- BLOG-POST-LIST:END -->
 
 ---
