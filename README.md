@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Spring Cloud: Get configuration from config server](https://dev.to/saladlam/spring-cloud-get-configuration-from-config-server-19ok)
-- [ReGAL: Refactoring Programs to Discover Generalizable Abstractions](https://dev.to/mikeyoung44/regal-refactoring-programs-to-discover-generalizable-abstractions-225)
-- [The Geometry of Categorical and Hierarchical Concepts in Large Language Models](https://dev.to/mikeyoung44/the-geometry-of-categorical-and-hierarchical-concepts-in-large-language-models-3kf7)
-- [Knockout: A simple way to handle missing inputs](https://dev.to/mikeyoung44/knockout-a-simple-way-to-handle-missing-inputs-396h)
-- [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://dev.to/mikeyoung44/mamba-linear-time-sequence-modeling-with-selective-state-spaces-1g45)
+- [Automatically Test Your Regex Without Writing a Single C# Line of Code](https://dev.to/dimonsmart/automatically-test-your-regex-without-writing-a-single-c-line-of-code-1k9p)
+- [The Fates of Famous Figures Under the Pressure of Power from the Russian Empire to Our Days](https://dev.to/heyvaldemar/the-fates-of-famous-figures-under-the-pressure-of-power-from-the-russian-empire-to-our-days-2ih)
+- [Mastering GitLab CI/CD with Advanced Configuration Techniques](https://dev.to/heyvaldemar/mastering-gitlab-cicd-with-advanced-configuration-techniques-2a4e)
+- [Computer Vision Meetup: Combining Hugging Face Transformer Models and Image Data with FiftyOne](https://dev.to/voxel51/computer-vision-meetup-combining-hugging-face-transformer-models-and-image-data-with-fiftyone-3ii6)
+- [How to Create a Simple Web App with Flask for Python Beginners &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/how-to-create-a-simple-web-app-with-flask-for-python-beginners-bite-size-article-32ja)
 <!-- BLOG-POST-LIST:END -->
 
 ---
