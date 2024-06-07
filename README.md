@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Effortlessly Migrate Your Databases to Azure SQL With Expert Guide](https://dev.to/dhruvil_joshi14/effortlessly-migrate-your-databases-to-azure-sql-with-expert-guide-561o)
-- [Creating Different Build Variants in Android](https://dev.to/matthewluke150/creating-different-build-variants-in-android-1i4k)
-- [Role of AI in Fintech Industry](https://dev.to/ailearning/role-of-ai-in-fintech-industry-24df)
-- [It’s Time For Active Job](https://dev.to/jetthoughts/its-time-for-active-job-eph)
-- [How We Generated a 10K Dataset Using LLM to Fine-Tune Another LLM](https://dev.to/maelghrib/how-we-generated-a-10k-dataset-using-llm-to-fine-tune-another-llm-3nkh)
+- [A Beginner&#39;s Guide to Nodemailer](https://dev.to/scofieldidehen/a-beginners-guide-to-nodemailer-33d1)
+- [Huawei Cloud - Solution Architectures](https://dev.to/ozcankara/huawei-cloud-solution-architectures-1229)
+- [C++](https://dev.to/anvarbek/c-31ge)
+- [C++ birinchi dars](https://dev.to/dawroun/c-birinchi-dars-gnj)
+- [Migrating from REST to GraphQL: A Step-by-Step Guide](https://dev.to/markwilliams21/migrating-from-rest-to-graphql-a-step-by-step-guide-3mp8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
