@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Nếu một ngày Service account và API key trên Google Cloud không cánh mà bay ?](https://dev.to/huydanggdg/neu-mot-ngay-service-account-va-api-key-tren-google-cloud-khong-canh-ma-bay--2l0l)
-- [Keep Your Monorepo Clean in VS Code with a Workspace Checkout Script](https://dev.to/mizanrifat/keep-your-monorepo-clean-in-vs-code-with-a-workspace-checkout-script-fkl)
-- [Laravel 11 + Inertia JS &lpar;VUE&rpar; CRUD Example: Part 1](https://dev.to/snehalkadwe/laravel-11-inertia-js-vue-crud-example-part-1-18oc)
-- [Gerador de currículos otimizado para os sistemas de ATS utilizados no Brasil, como Gupy e 99Jobs &lpar; gratuito 😎&rpar;](https://dev.to/pedrobarreto/gerador-de-curriculos-otimizado-para-os-sistemas-de-ats-utilizados-no-brasil-como-gupy-e-99jobs-gratuito--4po7)
-- [I spent hours debugging an issue which was not even in my code! Docker could have saved my time](https://dev.to/mhm13dev/i-spent-hours-debugging-an-issue-which-was-not-even-in-my-code-docker-could-have-saved-my-time-1al9)
+- [Spring Cloud: Get configuration from config server](https://dev.to/saladlam/spring-cloud-get-configuration-from-config-server-19ok)
+- [ReGAL: Refactoring Programs to Discover Generalizable Abstractions](https://dev.to/mikeyoung44/regal-refactoring-programs-to-discover-generalizable-abstractions-225)
+- [The Geometry of Categorical and Hierarchical Concepts in Large Language Models](https://dev.to/mikeyoung44/the-geometry-of-categorical-and-hierarchical-concepts-in-large-language-models-3kf7)
+- [Knockout: A simple way to handle missing inputs](https://dev.to/mikeyoung44/knockout-a-simple-way-to-handle-missing-inputs-396h)
+- [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://dev.to/mikeyoung44/mamba-linear-time-sequence-modeling-with-selective-state-spaces-1g45)
 <!-- BLOG-POST-LIST:END -->
 
 ---
