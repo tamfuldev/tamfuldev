@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Pong in my own language in my own graphics library in my own game](https://dev.to/chigbeef_77/pong-in-my-own-language-in-my-own-graphics-library-in-my-own-game-3fa9)
+- [How to Install Node.js and npm on Ubuntu Server 22.04](https://dev.to/ersinkoc/how-to-install-nodejs-and-npm-on-ubuntu-server-2204-1g7c)
+- [Fixing Disqus &#39;Auto&#39; theme switching when using Next.js + next-themes](https://dev.to/mahdava/fixing-disqus-auto-theme-switching-when-using-nextjs-next-themes-3l4k)
+- [Understanding and Utilizing TP4056 Modules: A Comprehensive Guide](https://dev.to/dunlop_marshall_57735193b/understanding-and-utilizing-tp4056-modules-a-comprehensive-guide-28f2)
 - [How AI can optimize Continuous Integration and Continuous Deployment &lpar;CI/CD&rpar; processes.](https://dev.to/devops_den/how-ai-can-optimize-continuous-integration-and-continuous-deployment-cicd-processes-4f67)
-- [How the web works?](https://dev.to/34shifty/how-the-web-works-12il)
-- [Route Rider System](https://dev.to/akramghaleb/route-rider-system-3dc8)
-- [The Best Programming Languages for Modern Web Browsers](https://dev.to/karthik_n/the-best-programming-languages-for-modern-web-browsers-2p1a)
-- [Legacy No More: Deprecated JavaScript Methods to Know About](https://dev.to/karthik_n/legacy-no-more-deprecated-javascript-methods-to-know-about-5gkb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
