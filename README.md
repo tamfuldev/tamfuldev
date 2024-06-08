@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Let’s Build One Person Business Using 100% AI](https://dev.to/exploredataaiml/lets-build-one-person-business-using-100-ai-1mgo)
-- [Sleepy Cloud Animation](https://dev.to/umeshsuwal/sleepy-cloud-animation-5g5b)
-- [What are the top-level steps to create an API ?](https://dev.to/mbshehzad/what-are-the-top-level-steps-to-create-an-api--53nc)
-- [Tipos Básicos em Kotlin](https://dev.to/oliversieto/tipos-basicos-em-kotlin-10i2)
-- [Bryan Builds in Public - 1](https://dev.to/liaob/bryan-builds-in-public-1-2kek)
+- [Seamlessly Connect MongoDB with Node.js: A Practical Guide with Mongoose](https://dev.to/vyan/seamlessly-connect-mongodb-with-nodejs-a-practical-guide-with-mongoose-1gk6)
+- [Get wallet address for multiple chains in cosmos app chains](https://dev.to/tqmvt/get-wallet-address-for-multiple-chains-in-cosmos-app-chains-56pb)
+- [Exploring the Tech Stack of Major Banks: Key Tools and Technologies for Software Engineers](https://dev.to/isamarsoftwareengineer/exploring-the-tech-stack-of-major-banks-key-tools-and-technologies-for-software-engineers-3o7f)
+- [PITFALLS OF CONFIRMATION BIAS IN PROGRAMMING](https://dev.to/davidbosah/pitfalls-of-confirmation-bias-in-programming-3mai)
+- [Estudos em Quality Assurance &lpar;QA&rpar; - SDLC](https://dev.to/julianoquites/estudos-em-quality-assurance-qa-sdlc-172p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
