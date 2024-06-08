@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Generative AI and LLMs](https://dev.to/gervaisamoah/understanding-generative-ai-and-llms-47cb)
-- [Exploring Functional Programming in Java &lpar;for JavaScript Developers&rpar;](https://dev.to/gervaisamoah/exploring-functional-programming-in-java-for-javascript-developers-372)
-- [Navigating the Container Orchestration Ocean with AWS ECS](https://dev.to/virajlakshitha/navigating-the-container-orchestration-ocean-with-aws-ecs-pgp)
-- [Seamlessly Connect MongoDB with Node.js: A Practical Guide with Mongoose](https://dev.to/vyan/seamlessly-connect-mongodb-with-nodejs-a-practical-guide-with-mongoose-1gk6)
-- [Setting Up Docker in a Next.js Project: A Comprehensive Guide](https://dev.to/hasancse/setting-up-docker-in-a-nextjs-project-a-comprehensive-guide-3m5d)
+- [Mastering Software Architecture: The Indispensable Role of Diagrams](https://dev.to/tomjohnson3/mastering-software-architecture-the-indispensable-role-of-diagrams-2847)
+- [How many ways to import a package?](https://dev.to/levihoang/how-many-ways-to-import-a-package-32b1)
+- [Writing custom platform-specific code](https://dev.to/levihoang/writing-custom-platform-specific-code-4o14)
+- [Top Redis Use Cases](https://dev.to/raksbisht/top-redis-use-cases-322k)
+- [Populating Next Right Pointers in Each Node | LeetCode | Java](https://dev.to/tanujav/populating-next-right-pointers-in-each-node-leetcode-java-1l9l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
