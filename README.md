@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Generative AI and LLMs](https://dev.to/gervaisamoah/understanding-generative-ai-and-llms-47cb)
+- [Exploring Functional Programming in Java &lpar;for JavaScript Developers&rpar;](https://dev.to/gervaisamoah/exploring-functional-programming-in-java-for-javascript-developers-372)
+- [Navigating the Container Orchestration Ocean with AWS ECS](https://dev.to/virajlakshitha/navigating-the-container-orchestration-ocean-with-aws-ecs-pgp)
 - [Seamlessly Connect MongoDB with Node.js: A Practical Guide with Mongoose](https://dev.to/vyan/seamlessly-connect-mongodb-with-nodejs-a-practical-guide-with-mongoose-1gk6)
-- [Get wallet address for multiple chains in cosmos app chains](https://dev.to/tqmvt/get-wallet-address-for-multiple-chains-in-cosmos-app-chains-56pb)
-- [Exploring the Tech Stack of Major Banks: Key Tools and Technologies for Software Engineers](https://dev.to/isamarsoftwareengineer/exploring-the-tech-stack-of-major-banks-key-tools-and-technologies-for-software-engineers-3o7f)
-- [PITFALLS OF CONFIRMATION BIAS IN PROGRAMMING](https://dev.to/davidbosah/pitfalls-of-confirmation-bias-in-programming-3mai)
-- [Estudos em Quality Assurance &lpar;QA&rpar; - SDLC](https://dev.to/julianoquites/estudos-em-quality-assurance-qa-sdlc-172p)
+- [Setting Up Docker in a Next.js Project: A Comprehensive Guide](https://dev.to/hasancse/setting-up-docker-in-a-nextjs-project-a-comprehensive-guide-3m5d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
