@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Let’s Build One Person Business Using 100% AI](https://dev.to/exploredataaiml/lets-build-one-person-business-using-100-ai-1mgo)
+- [Sleepy Cloud Animation](https://dev.to/umeshsuwal/sleepy-cloud-animation-5g5b)
 - [What are the top-level steps to create an API ?](https://dev.to/mbshehzad/what-are-the-top-level-steps-to-create-an-api--53nc)
 - [Tipos Básicos em Kotlin](https://dev.to/oliversieto/tipos-basicos-em-kotlin-10i2)
 - [Bryan Builds in Public - 1](https://dev.to/liaob/bryan-builds-in-public-1-2kek)
-- [A comprehensive comparison between MySQL and PostgreSQL](https://dev.to/concerate/a-comprehensive-comparison-between-mysql-and-postgresql-53oi)
-- [A Declaration of World Peace](https://dev.to/thedesirfoundation/a-declaration-of-world-peace-44o9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
