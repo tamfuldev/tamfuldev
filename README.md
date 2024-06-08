@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Pong in my own language in my own graphics library in my own game](https://dev.to/chigbeef_77/pong-in-my-own-language-in-my-own-graphics-library-in-my-own-game-3fa9)
-- [How to Install Node.js and npm on Ubuntu Server 22.04](https://dev.to/ersinkoc/how-to-install-nodejs-and-npm-on-ubuntu-server-2204-1g7c)
-- [Fixing Disqus &#39;Auto&#39; theme switching when using Next.js + next-themes](https://dev.to/mahdava/fixing-disqus-auto-theme-switching-when-using-nextjs-next-themes-3l4k)
-- [Understanding and Utilizing TP4056 Modules: A Comprehensive Guide](https://dev.to/dunlop_marshall_57735193b/understanding-and-utilizing-tp4056-modules-a-comprehensive-guide-28f2)
-- [How AI can optimize Continuous Integration and Continuous Deployment &lpar;CI/CD&rpar; processes.](https://dev.to/devops_den/how-ai-can-optimize-continuous-integration-and-continuous-deployment-cicd-processes-4f67)
+- [SQL generation: Golang&#39;s builder pattern vs Clojure&#39;s persistent map](https://dev.to/veer66/sql-generation-builder-pattern-vs-persistent-map-1bfl)
+- [React Server Components: How Did We Get Here?](https://dev.to/modydz/react-server-components-how-did-we-get-here-1oah)
+- [Enhancing Red Wine Quality Prediction: Leveraging Machine Learning for Multiclass Classification and Data Imbalance Management](https://dev.to/martins_adegbaju/enhancing-red-wine-quality-prediction-leveraging-machine-learning-for-multiclass-classification-and-data-imbalance-management-2bk2)
+- [Navigating the Early Days: Essential Tips for Junior Developers, Steering Clear of Common Pitfalls 💡](https://dev.to/g3nt/navigating-the-early-days-essential-tips-for-junior-developers-steering-clear-of-common-pitfalls-71n)
+- [Creating an Interactive Map with the Google Maps API in Next.js](https://dev.to/adrianbailador/creating-an-interactive-map-with-the-google-maps-api-in-nextjs-54a4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
