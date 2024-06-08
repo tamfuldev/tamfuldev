@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Services for Microservice Architectures: A Beginner&#39;s Overview &lpar;Part 1 - Computing&rpar;](https://dev.to/edriste/aws-services-for-microservice-architectures-a-beginners-overview-part-1-computing-4c36)
-- [Resolving the &quot;Length of LOB Data &lpar;78862&rpar; to be Replicated Exceeds Configured Maximum 65536&quot; Error](https://dev.to/shekhartarare/resolving-the-length-of-lob-data-78862-to-be-replicated-exceeds-configured-maximum-65536-error-bfb)
-- [A Step-by-Step Guide to Writing Your First Move Smart Contract on Aptos](https://dev.to/amity808/a-step-by-step-guide-to-writing-your-first-move-smart-contract-on-aptos-ae8)
-- [Understanding Primary Keys and Foreign Keys in SQL: A Simple and Detailed Guide](https://dev.to/kellyblaire/understanding-primary-keys-and-foreign-keys-in-sql-a-simple-and-detailed-guide-28jm)
-- [Fintech&#39;s role in mainstreaming cryptocurrency adoption](https://dev.to/osa_obaseki/fintechs-role-in-mainstreaming-cryptocurrency-adoption-4k9l)
+- [AI&#39;s antibiotic breakthrough](https://dev.to/sam15x6/ais-antibiotic-breakthrough-54nn)
+- [China&#39;s new Sora rival is here](https://dev.to/sam15x6/chinas-new-sora-rival-is-here-lco)
+- [.NET Monthly Roundup - May 2024 - .NET at Build, .NET Aspire GA, and more!](https://dev.to/jongalloway/net-monthly-roundup-may-2024-net-at-build-net-aspire-ga-and-more-3kne)
+- [Exception caught by widgets library, Incorrect use of ParentDataWidget.](https://dev.to/ahmad_rifai_54a20be09025e/exception-caught-by-widgets-library-incorrect-use-of-parentdatawidget-1219)
+- [Learning from Code Reviews: Fostering Collaboration](https://dev.to/aborov/learning-from-code-reviews-fostering-collaboration-pg0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
