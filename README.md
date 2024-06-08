@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI&#39;s antibiotic breakthrough](https://dev.to/sam15x6/ais-antibiotic-breakthrough-54nn)
-- [China&#39;s new Sora rival is here](https://dev.to/sam15x6/chinas-new-sora-rival-is-here-lco)
-- [.NET Monthly Roundup - May 2024 - .NET at Build, .NET Aspire GA, and more!](https://dev.to/jongalloway/net-monthly-roundup-may-2024-net-at-build-net-aspire-ga-and-more-3kne)
-- [Exception caught by widgets library, Incorrect use of ParentDataWidget.](https://dev.to/ahmad_rifai_54a20be09025e/exception-caught-by-widgets-library-incorrect-use-of-parentdatawidget-1219)
-- [Learning from Code Reviews: Fostering Collaboration](https://dev.to/aborov/learning-from-code-reviews-fostering-collaboration-pg0)
+- [What are the top-level steps to create an API ?](https://dev.to/mbshehzad/what-are-the-top-level-steps-to-create-an-api--53nc)
+- [Tipos Básicos em Kotlin](https://dev.to/oliversieto/tipos-basicos-em-kotlin-10i2)
+- [Bryan Builds in Public - 1](https://dev.to/liaob/bryan-builds-in-public-1-2kek)
+- [A comprehensive comparison between MySQL and PostgreSQL](https://dev.to/concerate/a-comprehensive-comparison-between-mysql-and-postgresql-53oi)
+- [A Declaration of World Peace](https://dev.to/thedesirfoundation/a-declaration-of-world-peace-44o9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
