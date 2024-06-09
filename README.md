@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Sailing Smoothly with AWS Container Registry: Your Gateway to Containerized Applications](https://dev.to/virajlakshitha/sailing-smoothly-with-aws-container-registry-your-gateway-to-containerized-applications-3jfm)
-- [Logging Done Right](https://dev.to/markadel/logging-done-right-1nnm)
-- [Mastering Async/Await in TypeScript: A Comprehensive Guide](https://dev.to/hasancse/mastering-asyncawait-in-typescript-a-comprehensive-guide-22kf)
-- [Frontend Challenge: Pride Month Pure CSS Pixel Art](https://dev.to/vivitt/frontend-challenge-pride-month-pure-css-pixel-art-213i)
-- [How To Access Web Camera Using JavaScript And Capture Images And Record Video With Audio](https://dev.to/manojkadam8/how-to-access-web-camera-using-javascript-and-capture-images-and-record-video-with-audio-3kco)
+- [Comparing Vue Component Documentation tools](https://dev.to/thejaredwilcurt/comparing-vue-component-documentation-tools-1b1f)
+- [5 Essential Tips and Tricks for Mastering Next.js](https://dev.to/vyan/5-essential-tips-and-tricks-for-mastering-nextjs-1p7g)
+- [How JavaScript Tries to Imitate Classes and Is There a Better Way?](https://dev.to/huudyy/how-javascript-tries-to-imitate-classes-and-is-there-a-better-way-24pk)
+- [How to validate constructor arguments when using constructor property promotion](https://dev.to/xwero/how-to-validate-constructor-arguments-when-using-constructor-property-promotion-5dp6)
+- [Software Quality Infrastructure Components](https://dev.to/developedbyjk/software-quality-infrastructure-components-2hj7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
