@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [PACX ⁓ Working with solutions](https://dev.to/_neronotte/pacx-working-with-solutions-5fil)
-- [JavaScript Coding Interview Questions](https://dev.to/fatimaalam1234/javascript-interview-questions-576j)
-- [Why You Need a Portfolio Website](https://dev.to/abdullah_ali_eb8b6b0c2208/why-you-need-a-portfolio-website-445l)
-- [Frontend Challenge CSS Beach](https://dev.to/syedmuhammadaliraza/frontend-challenge-css-beach-3lih)
-- [Frontend Challenge Submission](https://dev.to/syedmuhammadaliraza/frontend-challenge-submission-i01)
+- [JavaScript Essentials](https://dev.to/suhaspalani/javascript-essentials-5e44)
+- [How to Handle Side Effects in Angular Using NgRx Effects](https://dev.to/danywalls/how-to-handle-side-effects-in-angular-using-ngrx-effects-hnh)
+- [Unlocking the Power of the Cloud: A Comprehensive Guide to Cloud Computing](https://dev.to/mcckeown/unlocking-the-power-of-the-cloud-a-comprehensive-guide-to-cloud-computing-4cc4)
+- [How To Add HTTP Headers to Requests with Functional Interceptors in Angular](https://dev.to/danywalls/how-to-add-http-headers-to-requests-with-functional-interceptors-in-angular-15n7)
+- [Dominando o Angular: Guia Completo para Iniciantes](https://dev.to/mayra_machado_f50e69498d7/dominando-o-angular-guia-completo-para-iniciantes-3l5p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
