@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AWS 101: An Introduction to Amazon Web Services](https://dev.to/prakash_rao/aws-101-an-introduction-to-amazon-web-services-3mn6)
-- [Why Leveraging PHP Built-in Functions Can Enhance Your Application&#39;s Performance](https://dev.to/shahoriar_fahim/why-leveraging-php-built-in-functions-can-enhance-your-applications-performance-5659)
-- [String Stream in C++](https://dev.to/ars_3010/string-stream-in-c-5cof)
-- [All about MySQL](https://dev.to/shafayeat/all-about-mysql-e30)
-- [Learn In Public!](https://dev.to/gous_sayyad/learn-in-public-4p7j)
+- [I created my own search engine](https://dev.to/schbenedikt/i-created-my-own-search-engine-go4)
+- [laravel-nuxt-template](https://dev.to/akramghaleb/laravel-nuxt-template-1c6j)
+- [Performance Optimization of LazyColumn in Jetpack Compose](https://dev.to/aritradas/performance-optimization-of-lazycolumn-in-jetpack-compose-2pf2)
+- [Tabs](https://dev.to/kakimaru/tabs-2e6l)
+- [Python Cheat Sheet: Essential Guide for Beginners](https://dev.to/terrancoder/python-cheat-sheet-essential-guide-for-beginners-2bdl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
