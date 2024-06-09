@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Comparing Vue Component Documentation tools](https://dev.to/thejaredwilcurt/comparing-vue-component-documentation-tools-1b1f)
-- [5 Essential Tips and Tricks for Mastering Next.js](https://dev.to/vyan/5-essential-tips-and-tricks-for-mastering-nextjs-1p7g)
-- [How JavaScript Tries to Imitate Classes and Is There a Better Way?](https://dev.to/huudyy/how-javascript-tries-to-imitate-classes-and-is-there-a-better-way-24pk)
-- [How to validate constructor arguments when using constructor property promotion](https://dev.to/xwero/how-to-validate-constructor-arguments-when-using-constructor-property-promotion-5dp6)
-- [Software Quality Infrastructure Components](https://dev.to/developedbyjk/software-quality-infrastructure-components-2hj7)
+- [AWS 101: An Introduction to Amazon Web Services](https://dev.to/prakash_rao/aws-101-an-introduction-to-amazon-web-services-3mn6)
+- [Why Leveraging PHP Built-in Functions Can Enhance Your Application&#39;s Performance](https://dev.to/shahoriar_fahim/why-leveraging-php-built-in-functions-can-enhance-your-applications-performance-5659)
+- [String Stream in C++](https://dev.to/ars_3010/string-stream-in-c-5cof)
+- [All about MySQL](https://dev.to/shafayeat/all-about-mysql-e30)
+- [Learn In Public!](https://dev.to/gous_sayyad/learn-in-public-4p7j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
