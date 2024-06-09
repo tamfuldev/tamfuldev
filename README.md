@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Photo Caption API](https://dev.to/sraveend/a-photo-caption-api-f90)
-- [HashiCorp Vault Quickstart](https://dev.to/darkedges/hashicorp-vault-quickstart-26g6)
-- [Beach CSS Art: Frontend Challenge: June Edition](https://dev.to/pinky057/beach-css-art-frontend-challenge-june-edition-2lp3)
-- [Lo que aprendí de Introducción a AWS PartyRock](https://dev.to/aws-espanol/lo-que-aprendi-de-introduccion-a-aws-partyrock-1p8o)
-- [How to Open a USD Account on Cleva](https://dev.to/hnkomuwa/how-to-open-a-usd-account-on-cleva-14n8)
+- [Know Your Neighborhood: General and Zero-Shot Capable Binary Function Search Powered by Call Graphlets](https://dev.to/mikeyoung44/know-your-neighborhood-general-and-zero-shot-capable-binary-function-search-powered-by-call-graphlets-106m)
+- [Scalable MatMul-free Language Modeling](https://dev.to/mikeyoung44/scalable-matmul-free-language-modeling-16lc)
+- [Wav2Prompt: End-to-End Speech Prompt Generation and Tuning For LLM in Zero and Few-shot Learning](https://dev.to/mikeyoung44/wav2prompt-end-to-end-speech-prompt-generation-and-tuning-for-llm-in-zero-and-few-shot-learning-4ee1)
+- [Bootstrap3D: Improving 3D Content Creation with Synthetic Data](https://dev.to/mikeyoung44/bootstrap3d-improving-3d-content-creation-with-synthetic-data-54h0)
+- [Graph Convolutional Branch and Bound](https://dev.to/mikeyoung44/graph-convolutional-branch-and-bound-5f07)
 <!-- BLOG-POST-LIST:END -->
 
 ---
