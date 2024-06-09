@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Essentials](https://dev.to/suhaspalani/javascript-essentials-5e44)
-- [How to Handle Side Effects in Angular Using NgRx Effects](https://dev.to/danywalls/how-to-handle-side-effects-in-angular-using-ngrx-effects-hnh)
-- [Unlocking the Power of the Cloud: A Comprehensive Guide to Cloud Computing](https://dev.to/mcckeown/unlocking-the-power-of-the-cloud-a-comprehensive-guide-to-cloud-computing-4cc4)
-- [How To Add HTTP Headers to Requests with Functional Interceptors in Angular](https://dev.to/danywalls/how-to-add-http-headers-to-requests-with-functional-interceptors-in-angular-15n7)
-- [Dominando o Angular: Guia Completo para Iniciantes](https://dev.to/mayra_machado_f50e69498d7/dominando-o-angular-guia-completo-para-iniciantes-3l5p)
+- [Ethical AI: Balancing Innovation with Responsibility](https://dev.to/bingecoder89/ethical-ai-balancing-innovation-with-responsibility-2lgk)
+- [TOP 38 react hooks every developer must bookmark](https://dev.to/kumarkalyan/top-38-react-hooks-every-developer-must-bookmark-4oj3)
+- [12 React Best Practices Every Developer Should Know](https://dev.to/mayank_tamrkar/12-best-practices-every-developer-should-know-dle)
+- [Searching with Umbraco Examine: Avoid these common filtering mistakes](https://dev.to/jemayn/searching-with-umbraco-examine-avoid-these-common-filtering-mistakes-1oin)
+- [AWSKRUG Community Chronicles: Insights from a Community Hero &lpar;2/2&rpar;](https://dev.to/aws-heroes/awskrug-community-chronicles-insights-from-a-community-hero-22-2h0b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
