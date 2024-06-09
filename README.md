@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Análise das reservas federais - parte 1](https://dev.to/devsnorte/analise-das-reservas-federais-parte-1-2j6f)
+- [Key Tips on Freelancing](https://dev.to/miguel_c/key-tips-on-freelancing-3p1j)
 - [Know Your Neighborhood: General and Zero-Shot Capable Binary Function Search Powered by Call Graphlets](https://dev.to/mikeyoung44/know-your-neighborhood-general-and-zero-shot-capable-binary-function-search-powered-by-call-graphlets-106m)
 - [Scalable MatMul-free Language Modeling](https://dev.to/mikeyoung44/scalable-matmul-free-language-modeling-16lc)
 - [Wav2Prompt: End-to-End Speech Prompt Generation and Tuning For LLM in Zero and Few-shot Learning](https://dev.to/mikeyoung44/wav2prompt-end-to-end-speech-prompt-generation-and-tuning-for-llm-in-zero-and-few-shot-learning-4ee1)
-- [Bootstrap3D: Improving 3D Content Creation with Synthetic Data](https://dev.to/mikeyoung44/bootstrap3d-improving-3d-content-creation-with-synthetic-data-54h0)
-- [Graph Convolutional Branch and Bound](https://dev.to/mikeyoung44/graph-convolutional-branch-and-bound-5f07)
 <!-- BLOG-POST-LIST:END -->
 
 ---
