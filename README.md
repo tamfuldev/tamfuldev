@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Release Action for the Python Package Index](https://dev.to/jphutchins/github-release-action-for-the-python-package-index-1m7n)
-- [Deep Learning Workflow in PyTorch](https://dev.to/hyperkai/deep-learning-workflow-in-pytorch-10ik)
-- [Runtime Environment Config in Angular, but Without Dependency Injection](https://dev.to/bwca/runtime-environment-config-in-angular-but-without-dependency-injection-kno)
-- [Why you need to sell yourself](https://dev.to/arjunrao87/why-you-need-to-sell-yourself-48jg)
-- [Understanding SOAP APIs and Their Usage](https://dev.to/ayas_tech_2b0560ee159e661/understanding-soap-apis-and-their-usage-2mak)
+- [A Photo Caption API](https://dev.to/sraveend/a-photo-caption-api-f90)
+- [HashiCorp Vault Quickstart](https://dev.to/darkedges/hashicorp-vault-quickstart-26g6)
+- [Beach CSS Art: Frontend Challenge: June Edition](https://dev.to/pinky057/beach-css-art-frontend-challenge-june-edition-2lp3)
+- [Lo que aprendí de Introducción a AWS PartyRock](https://dev.to/aws-espanol/lo-que-aprendi-de-introduccion-a-aws-partyrock-1p8o)
+- [How to Open a USD Account on Cleva](https://dev.to/hnkomuwa/how-to-open-a-usd-account-on-cleva-14n8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
