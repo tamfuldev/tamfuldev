@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built My Portfolio Using NextJS and MDX](https://dev.to/beginarjun/how-i-built-my-portfolio-using-nextjs-and-mdx-168a)
-- [A single API for all your conversational generative AI applications](https://dev.to/aws/a-single-api-for-all-your-conversational-generative-ai-applications-1hb7)
-- [packageoidc the dartflutter authentication package you didnt know you needed in Flutter News 2024 #23 ʚїɞ](https://dev.to/lucianojung/packageoidc-the-dartflutter-authentication-package-you-didnt-know-you-needed-in-flutter-news-2024-23-eyie-54k)
-- [Bob Geiger: Running Towards Greatness - An Ex-Athlete&#39;s Coaching Odyssey in Track and Field](https://dev.to/robertgeiger/bob-geiger-running-towards-greatness-an-ex-athletes-coaching-odyssey-in-track-and-field-1ac0)
-- [Making Meetings Matter](https://dev.to/apetryla/making-meetings-matter-2ook)
+- [Let&#39;s Talk About Dataverse Low-Code Plugins](https://dev.to/wyattdave/lets-talk-about-dataverse-low-code-plugins-4im2)
+- [GPT3 WebApp in Reactjs](https://dev.to/sudhanshuambastha/gpt3-webapp-in-reactjs-14an)
+- [FeedForward and FeedBack Control](https://dev.to/maiommhoon/feedforward-and-feedback-control-433i)
+- [Glam Up My Markup: Beaches - My Submission](https://dev.to/harshitads44217/glam-up-my-markup-beaches-my-submission-1l24)
+- [Use OpenAI in your JavaScript project the easy way with Ragged](https://dev.to/monarchwadia/use-openai-in-your-javascript-project-the-easy-way-with-ragged-5g79)
 <!-- BLOG-POST-LIST:END -->
 
 ---
