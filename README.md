@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Quick Start Guide: React for the Rest of Us &lpar;With a Dash of Humor!&rpar;](https://dev.to/ahnaf2009/quick-start-guide-react-for-the-rest-of-us-with-a-dash-of-humor-17eh)
-- [Swift and How It Is Used to Make iOS Apps](https://dev.to/mp4swerve/swift-and-how-it-is-used-to-make-ios-apps-3jah)
-- [How to Set up GitHub Oauth Nextjs with NextAuth for Single Sign On?](https://dev.to/codegirl0101/how-to-integrate-github-oauth-with-nextjs-for-single-sign-on-2de9)
-- [Exploring Inheritance &amp; Polymorphism in OOP](https://dev.to/techtobe101/exploring-inheritance-polymorphism-in-oop-4hj0)
-- [Introduction to OOP and Understanding Abstraction &amp; Encapsulation](https://dev.to/techtobe101/introduction-to-oop-and-understanding-abstraction-encapsulation-39lc)
+- [Day 6 of Machine Learning||Supervised ML Algorithms](https://dev.to/ngneha09/day-6-of-machine-learningsupervised-ml-algorithms-2op8)
+- [AIM Weekly for 10 June 2024](https://dev.to/tspannhw/aim-weekly-for-10-june-2024-3op7)
+- [NIST. framework or standard](https://dev.to/mikhail_dorokhovich_bd8d4/nist-framework-or-standard-23kj)
+- [GitHub Foundation Certification Preparation](https://dev.to/learnwithsrini/github-foundation-certification-preparation-4ojm)
+- [Forking OpenFaaS Faasd to support Firecracker Containerd](https://dev.to/alanpjohn/forking-openfaas-faasd-to-support-firecracker-containerd-1a5l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
