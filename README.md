@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Capturing Beach Memories: A Polaroid Showcase of the World&#39;s Top Beaches](https://dev.to/jennavisions/capturing-beach-memories-a-polaroid-showcase-of-the-worlds-top-beaches-4gjf)
-- [How to Install &lpar;and Uninstall&rpar; MySQL on a Mac](https://dev.to/olsido/how-to-install-and-uninstall-mysql-on-a-mac-16l8)
-- [Glammed Up The Beaches With Blurry Animations.](https://dev.to/_zaihl/glammed-up-with-blurry-animations-401o)
-- [Dynamic sitemap with django](https://dev.to/zeedu_dev/dynamic-sitemap-with-django-10bh)
-- [[Game of Purpose] Day 22](https://dev.to/humberd/game-of-purpose-day-22-pl4)
+- [Sử dụng MongoDB hiệu quả trong Nodejs](https://dev.to/duongphan/su-dung-mongodb-hieu-qua-trong-nodejs-2kh9)
+- [How I Built My Own Personalized Google: A Step-by-Step Guide to AI Mastery](https://dev.to/exploredataaiml/how-i-built-my-own-personalized-google-a-step-by-step-guide-to-ai-mastery-48ne)
+- [CSS Art: June](https://dev.to/soorajsnblaze333/css-art-june-4hme)
+- [Các Thư Viện React.js Nên Sử Dụng](https://dev.to/duongphan/cac-thu-vien-reactjs-nen-su-dung-4cea)
+- [Top Methods to Find GitHub Users](https://dev.to/dk119819/best-ways-to-search-for-github-users-53no)
 <!-- BLOG-POST-LIST:END -->
 
 ---
