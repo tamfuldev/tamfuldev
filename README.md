@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 6 of Machine Learning||Supervised ML Algorithms](https://dev.to/ngneha09/day-6-of-machine-learningsupervised-ml-algorithms-2op8)
-- [AIM Weekly for 10 June 2024](https://dev.to/tspannhw/aim-weekly-for-10-june-2024-3op7)
-- [NIST. framework or standard](https://dev.to/mikhail_dorokhovich_bd8d4/nist-framework-or-standard-23kj)
-- [GitHub Foundation Certification Preparation](https://dev.to/learnwithsrini/github-foundation-certification-preparation-4ojm)
-- [Forking OpenFaaS Faasd to support Firecracker Containerd](https://dev.to/alanpjohn/forking-openfaas-faasd-to-support-firecracker-containerd-1a5l)
+- [Choosing Between SQL and NoSQL](https://dev.to/adrianbailador/choosing-between-sql-and-nosql-n9i)
+- [How To Create an NPM Package For React Native?](https://dev.to/amitkumar13/how-to-create-an-npm-package-for-react-native-4bkj)
+- [Creative HTML Cards | Style 1](https://dev.to/creative_salahu/creative-html-cards-style-1-5h8a)
+- [Shopify’s product overhaul: 2,000 variants, new GraphQL mutations, and a farewell to REST](https://dev.to/gadgetdev/shopifys-product-overhaul-2000-variants-new-graphql-mutations-and-a-farewell-to-rest-4kei)
+- [2024-06-10: v0 complete](https://dev.to/armantark/2024-06-10-v0-complete-3dil)
 <!-- BLOG-POST-LIST:END -->
 
 ---
