@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Server Side Components no React: O Futuro da Renderização?](https://dev.to/vitorrios1001/server-side-components-no-react-o-futuro-da-renderizacao-2b03)
-- [Understanding Weatherstack&#39;s API Pricing and Real-Time Weather Data](https://dev.to/sameeranthony/understanding-weatherstacks-api-pricing-and-real-time-weather-data-41i0)
-- [Create CSS Animations with AI](https://dev.to/max_prehoda_9cb09ea7c8d07/create-css-animations-with-ai-5b4o)
-- [shadcn-ui/ui codebase analysis: examples route explained.](https://dev.to/ramunarasinga/shadcn-uiui-codebase-analysis-examples-route-explained-58mk)
-- [🌟 Comprehensive Guide to Firebase Cloud Messaging in React with Vite 🚀](https://dev.to/shahharsh/comprehensive-guide-to-firebase-cloud-messaging-in-react-with-vite-abm)
+- [git commit -m is a lie! How to commit like a pro](https://dev.to/andrews1022/git-commit-m-is-a-lie-how-to-commit-like-a-pro-l1)
+- [My story creating a new React meta-framework](https://dev.to/lazarv/my-story-creating-a-new-react-meta-framework-732)
+- [Run any code from Vim](https://dev.to/woland/run-any-code-from-vim-1i2o)
+- [everything-ai 4.0.0: build up your local AI power today](https://dev.to/astrabert/everything-ai-400-build-up-your-local-ai-power-today-5g19)
+- [CSS Snake.](https://dev.to/ivorjetski/css-snake-8ob)
 <!-- BLOG-POST-LIST:END -->
 
 ---
