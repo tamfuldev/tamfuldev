@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 9 - Deep Dive in Git &amp; GitHub for DevOps Engineers](https://dev.to/oncloud7/day-9-deep-dive-in-git-github-for-devops-engineers-bck)
-- [How does 10x programmer test code?](https://dev.to/krystofee/how-does-10x-programmer-test-code-3lc9)
-- [Useful Methods for Lists](https://dev.to/paulike/useful-methods-for-lists-eol)
-- [Unpacking Cloud Infrastructure and Virtualization: A Deep Dive into Their Differences](https://dev.to/liong/unpacking-cloud-infrastructure-and-virtualization-a-deep-dive-into-their-differences-e8j)
-- [Getting Started with Bluetooth Low Energy &lpar;BLE&rpar; in Android](https://dev.to/nirav_panchal_e531c758f1d/getting-started-with-bluetooth-low-energy-ble-in-android-3c7f)
+- [Handling SQLite DB in Lambda Functions Using Zappa](https://dev.to/tangoindiamango/handling-sqlite-db-in-lambda-functions-using-zappa-4blg)
+- [Building a Troubleshoot Assistant using Lyzr SDK](https://dev.to/akshay007/building-a-troubleshoot-assistant-using-lyzr-sdk-p62)
+- [Preventing Extending and Overriding](https://dev.to/paulike/preventing-extending-and-overriding-4j6p)
+- [Why Can’t We Use async with useEffect but Can with componentDidMount?](https://dev.to/niketanwadaskar/why-cant-we-use-async-with-useeffect-but-can-with-componentdidmount-45be)
+- [The protected Data and Methods](https://dev.to/paulike/the-protected-data-and-methods-12gb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
