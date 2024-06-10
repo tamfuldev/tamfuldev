@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Handling SQLite DB in Lambda Functions Using Zappa](https://dev.to/tangoindiamango/handling-sqlite-db-in-lambda-functions-using-zappa-4blg)
-- [Building a Troubleshoot Assistant using Lyzr SDK](https://dev.to/akshay007/building-a-troubleshoot-assistant-using-lyzr-sdk-p62)
-- [Preventing Extending and Overriding](https://dev.to/paulike/preventing-extending-and-overriding-4j6p)
-- [Why Can’t We Use async with useEffect but Can with componentDidMount?](https://dev.to/niketanwadaskar/why-cant-we-use-async-with-useeffect-but-can-with-componentdidmount-45be)
-- [The protected Data and Methods](https://dev.to/paulike/the-protected-data-and-methods-12gb)
+- [Quick Start Guide: React for the Rest of Us &lpar;With a Dash of Humor!&rpar;](https://dev.to/ahnaf2009/quick-start-guide-react-for-the-rest-of-us-with-a-dash-of-humor-17eh)
+- [Swift and How It Is Used to Make iOS Apps](https://dev.to/mp4swerve/swift-and-how-it-is-used-to-make-ios-apps-3jah)
+- [How to Set up GitHub Oauth Nextjs with NextAuth for Single Sign On?](https://dev.to/codegirl0101/how-to-integrate-github-oauth-with-nextjs-for-single-sign-on-2de9)
+- [Exploring Inheritance &amp; Polymorphism in OOP](https://dev.to/techtobe101/exploring-inheritance-polymorphism-in-oop-4hj0)
+- [Introduction to OOP and Understanding Abstraction &amp; Encapsulation](https://dev.to/techtobe101/introduction-to-oop-and-understanding-abstraction-encapsulation-39lc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
