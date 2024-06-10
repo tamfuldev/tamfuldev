@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Automatically Update the Local Branch with the Remote Version When Switching Branches in Git](https://dev.to/untilyou58/automatically-update-the-local-branch-with-the-remote-version-when-switching-branches-in-git-3114)
-- [Everything you need to know about monitoring CoreDNS for DNS performance](https://dev.to/aws-builders/everything-you-need-to-know-about-monitoring-coredns-for-dns-performance-5hi9)
-- [Building a Bulletproof CI/CD Pipeline: A Comprehensive Guide](https://dev.to/gauri1504/building-a-bulletproof-cicd-pipeline-a-comprehensive-guide-3jg3)
-- [Glam Up my Markup: Beaches](https://dev.to/2023_anshika_gupta_/glam-up-my-markup-beaches-ekh)
-- [11 Best SQL IDEs or SQL Editors for 2024](https://dev.to/concerate/11-best-sql-ides-or-sql-editors-for-2024-447p)
+- [How I Built My Portfolio Using NextJS and MDX](https://dev.to/beginarjun/how-i-built-my-portfolio-using-nextjs-and-mdx-168a)
+- [A single API for all your conversational generative AI applications](https://dev.to/aws/a-single-api-for-all-your-conversational-generative-ai-applications-1hb7)
+- [packageoidc the dartflutter authentication package you didnt know you needed in Flutter News 2024 #23 ʚїɞ](https://dev.to/lucianojung/packageoidc-the-dartflutter-authentication-package-you-didnt-know-you-needed-in-flutter-news-2024-23-eyie-54k)
+- [Bob Geiger: Running Towards Greatness - An Ex-Athlete&#39;s Coaching Odyssey in Track and Field](https://dev.to/robertgeiger/bob-geiger-running-towards-greatness-an-ex-athletes-coaching-odyssey-in-track-and-field-1ac0)
+- [Making Meetings Matter](https://dev.to/apetryla/making-meetings-matter-2ook)
 <!-- BLOG-POST-LIST:END -->
 
 ---
