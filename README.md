@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [git commit -m is a lie! How to commit like a pro](https://dev.to/andrews1022/git-commit-m-is-a-lie-how-to-commit-like-a-pro-l1)
-- [My story creating a new React meta-framework](https://dev.to/lazarv/my-story-creating-a-new-react-meta-framework-732)
-- [Run any code from Vim](https://dev.to/woland/run-any-code-from-vim-1i2o)
-- [everything-ai 4.0.0: build up your local AI power today](https://dev.to/astrabert/everything-ai-400-build-up-your-local-ai-power-today-5g19)
-- [CSS Snake.](https://dev.to/ivorjetski/css-snake-8ob)
+- [Inteiros sem sinais no Kotlin](https://dev.to/oliversieto/inteiros-sem-sinal-no-kotlin-1gg3)
+- [Deploying A Linux Virtual Machine with Nginx on AWS](https://dev.to/jimi487/deploying-a-linux-virtual-machine-with-nginx-on-aws-3m13)
+- [Deploying a Linux Virtual Machine with Nginx on Microsoft Azure](https://dev.to/jimi487/deploying-a-linux-virtual-machine-with-nginx-on-microsoft-azure-1eka)
+- [Setting Up a Windows Web Server on Azure with IIS](https://dev.to/jimi487/setting-up-a-windows-web-server-on-azure-with-iis-140c)
+- [HTTP x HTTPS - Qual a Diferença?](https://dev.to/alinesousaa/http-x-https-qual-a-diferenca-gjl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
