@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing MLOps with GitHub Actions](https://dev.to/craftworkai/implementing-mlops-with-github-actions-30nn)
-- [Download all LeetCode solved questions](https://dev.to/theshubham99/download-all-leetcode-solved-questions-4lk)
-- [This is for you, let&#39;s build some cool stuff! 🚀✨](https://dev.to/sauravshah31/this-is-for-you-lets-build-some-cool-stuff-15kn)
-- [Desafío de Nombres y Apellidos](https://dev.to/javascriptchile/desafio-de-nombres-y-apellidos-540f)
-- [What is String Manipulation and Algorithms](https://dev.to/m__mdy__m/what-is-string-manipulation-and-algorithms-42m1)
+- [@Duolingo is amazing! 🤩](https://dev.to/maatheusgois/duolingo-is-amazing-9i5)
+- [D&#39;orsogna Delights: Navigating the Culinary Riches of Italian Tradition with Emphasis on Food Safety and Quality](https://dev.to/dorsogna/dorsogna-delights-navigating-the-culinary-riches-of-italian-tradition-with-emphasis-on-food-safety-and-quality-5fi1)
+- [Como Escrever Testes Unitários para Serviços Backend com Dependências de Banco de Dados Usando SQLite In-Memory](https://dev.to/vitorrios1001/como-escrever-testes-unitarios-para-servicos-backend-com-dependencias-de-banco-de-dados-usando-sqlite-in-memory-4526)
+- [shadcn-ui/ui codebase analysis: Mail example explained.](https://dev.to/ramunarasinga/shadcn-uiui-codebase-analysis-mail-example-explained-1746)
+- [Implementing MLOps with GitHub Actions](https://dev.to/craftworkai/implementing-mlops-with-github-actions-2pmi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
