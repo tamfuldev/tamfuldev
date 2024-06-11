@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Securing Kubernetes Pods For Production Workloads](https://dev.to/thenjdevopsguy/securing-kubernetes-pods-for-production-workloads-51oh)
-- [Python: Generate Random Integers in Range](https://dev.to/hichem-mg/python-generate-random-integers-in-range-4m0d)
-- [libSQL Extension for PHP Officially Landed at Turso!](https://dev.to/darkterminal/libsql-extension-for-php-officially-landed-at-turso-5e7i)
-- [React Components Explained: Function vs Class Components](https://dev.to/ellis22/react-components-explained-function-vs-class-components-3doh)
-- [Enhancing Your E-Commerce Site: Custom Fonts, Global Styles, and Layout Setup](https://dev.to/webcraft-notes/enhancing-your-e-commerce-site-custom-fonts-global-styles-and-layout-setup-4el)
+- [Optimizing rendering in Vue](https://dev.to/logrocket/optimizing-rendering-in-vue-4c6b)
+- [UNIQUE KEY in SQL](https://dev.to/shaiquehossain/unique-key-in-sql-2m7i)
+- [nginx: doing ip geolocation right in nginx](https://dev.to/gbhorwood/nginx-doing-ip-geolocation-right-in-nginx-442h)
+- [Dockerize a Nodejs Application](https://dev.to/abhishekcs3459/dockerize-a-nodejs-application-5ei1)
+- [How we use Glitch to support learning at Fastly](https://dev.to/glitch/how-we-use-glitch-to-support-learning-at-fastly-h14)
 <!-- BLOG-POST-LIST:END -->
 
 ---
