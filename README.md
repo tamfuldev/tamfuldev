@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Streak: What I Learned? 🚀💻](https://dev.to/perisicnikola37/github-streak-what-i-learned-b8k)
-- [Show Your Recently Played Song using Netlify Functions and Last.fm](https://dev.to/yordiverkroost/show-your-recently-played-song-using-netlify-functions-and-lastfm-407b)
-- [Practical considerations with commitment based Pricing models on AWS](https://dev.to/virajnadkarni/practical-considerations-with-commitment-based-pricing-models-on-aws-3l6h)
-- [Hands on favicons](https://dev.to/algoorgoal/hands-on-favicons-3j8)
-- [Streamline Your JavaScript with Modules and Bundlers](https://dev.to/dipakahirav/streamline-your-javascript-with-modules-and-bundlers-3ebo)
+- [Result Pattern](https://dev.to/ben-witt/result-pattern-5290)
+- [Weak memoization in Javascript](https://dev.to/thekashey/weak-memoization-in-javascript-4po6)
+- [How to build a blockchain with Rust](https://dev.to/rapidinnovation/how-to-build-a-blockchain-with-rust-6i0)
+- [Top 10 AI Tools for Front-End Developers: Enhancing Productivity and Value](https://dev.to/futuristicgeeks/top-10-ai-tools-for-front-end-developers-enhancing-productivity-and-value-5al)
+- [Master Python Like a Pro: Essential Best Practices for Developers](https://dev.to/futuristicgeeks/master-python-like-a-pro-essential-best-practices-for-developers-140h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
