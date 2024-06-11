@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;ve been writing TypeScript without understanding it](https://dev.to/wasp/ive-been-writing-typescript-without-understanding-it-5ef4)
-- [Using Env Vars to Include &amp; Exclude OpenTelemetry Node.js Libraries](https://dev.to/kubeshop/using-env-vars-to-include-exclude-opentelemetry-nodejs-libraries-6ke)
-- [Introduction to Git Hooks](https://dev.to/codeparrot/introduction-to-git-hooks-3gig)
-- [My Data Science Journey: From Beginner to &lpar;Aspiring&rpar; Master](https://dev.to/fizza_c3e734ee2a307cf35e5/my-data-science-journey-from-beginner-to-aspiring-maste-471k)
-- [SMTP Mail Services: The Backbone of Email Communication](https://dev.to/brettjhonson01/smtp-mail-services-the-backbone-of-email-communication-176p)
+- [Create an App Like Nextdoor: The Ultimate Guide](https://dev.to/keliaewart/create-an-app-like-nextdoor-the-ultimate-guide-3bea)
+- [Debugging docker-compose errors](https://dev.to/anyigortobias_5/debugging-docker-compose-errors-2b29)
+- [How I created a live subscribers counter in NextJS &lpar;with source code&rpar;](https://dev.to/pierremouchan/how-i-created-a-live-subscribers-counter-with-peoples-avatars-in-nextjs-with-source-code-1l07)
+- [Open-Source No-Code/Low-Code Platform NocoBase v1.0.1-alpha.1: Blocks support height settings](https://dev.to/nocobase/open-source-no-codelow-code-platform-nocobase-v101-alpha1-blocks-support-height-settings-5ep0)
+- [Implementando uma Solução MultiTenancy com o NHibernate.](https://dev.to/unhacked/implementando-uma-solucao-multitenancy-com-o-nhibernate-3n2d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
