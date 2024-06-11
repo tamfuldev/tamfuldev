@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Observability 101: A Beginner&#39;s Journey Free of Print Statements.](https://dev.to/cloudnative_eng/observability-101-a-beginners-journey-free-of-print-statements-3lb2)
-- [Mastering JavaScript Promises: Best Practices for Clean and Efficient Code](https://dev.to/hkp22/mastering-javascript-promises-best-practices-for-clean-and-efficient-code-519)
-- [DevOps Fundamentals : Harnessing the Power of Collaboration and Automation](https://dev.to/pateldeep34/devops-fundamentals-harnessing-the-power-of-collaboration-and-automation-4888)
-- [Effortless Global Trade: Unleashing the Power of Customs Clearance Software](https://dev.to/john_hall/effortless-global-trade-unleashing-the-power-of-customs-clearance-software-4ga4)
-- [Project of deploying simple cloud infrastructure as code with Aws Cloudformation.](https://dev.to/mantizo_dedon_c5190cdc65/project-of-deploying-simple-cloud-infrastructure-as-code-with-aws-cloudformation-18ob)
+- [I&#39;ve been writing TypeScript without understanding it](https://dev.to/wasp/ive-been-writing-typescript-without-understanding-it-5ef4)
+- [Using Env Vars to Include &amp; Exclude OpenTelemetry Node.js Libraries](https://dev.to/kubeshop/using-env-vars-to-include-exclude-opentelemetry-nodejs-libraries-6ke)
+- [Introduction to Git Hooks](https://dev.to/codeparrot/introduction-to-git-hooks-3gig)
+- [My Data Science Journey: From Beginner to &lpar;Aspiring&rpar; Master](https://dev.to/fizza_c3e734ee2a307cf35e5/my-data-science-journey-from-beginner-to-aspiring-maste-471k)
+- [SMTP Mail Services: The Backbone of Email Communication](https://dev.to/brettjhonson01/smtp-mail-services-the-backbone-of-email-communication-176p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
