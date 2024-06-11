@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing rendering in Vue](https://dev.to/logrocket/optimizing-rendering-in-vue-4c6b)
-- [UNIQUE KEY in SQL](https://dev.to/shaiquehossain/unique-key-in-sql-2m7i)
-- [nginx: doing ip geolocation right in nginx](https://dev.to/gbhorwood/nginx-doing-ip-geolocation-right-in-nginx-442h)
-- [Dockerize a Nodejs Application](https://dev.to/abhishekcs3459/dockerize-a-nodejs-application-5ei1)
-- [How we use Glitch to support learning at Fastly](https://dev.to/glitch/how-we-use-glitch-to-support-learning-at-fastly-h14)
+- [Why Does My Code Have Bugs?](https://dev.to/scofieldidehen/-why-does-my-code-have-bugs-1b0l)
+- [How to Read a JSON File in JavaScript](https://dev.to/markliu2013/how-to-read-a-json-file-in-javascript-3cfn)
+- [Unlock the Power of Generators and Iterators in JavaScript: A Comprehensive Guide](https://dev.to/dipakahirav/unlock-the-power-of-generators-and-iterators-in-javascript-a-comprehensive-guide-3mc9)
+- [Meilleures pratiques pour créer une application Express.js](https://dev.to/land-bit/meilleures-pratiques-pour-creer-une-application-expressjs-583g)
+- [Rising Like A Phoenix, ShowMeCon 2024 Resurrects A Security Community In The Midwest](https://dev.to/gitguardian/rising-like-a-phoenix-showmecon-2024-resurrects-a-security-community-in-the-midwest-1fol)
 <!-- BLOG-POST-LIST:END -->
 
 ---
