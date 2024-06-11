@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Streamline Your Coding Workflow with 12 Powerful VS Code Shortcuts](https://dev.to/vyan/streamline-your-coding-workflow-with-12-powerful-vs-code-shortcuts-55b9)
-- [Building in Public - 2](https://dev.to/liaob/building-in-public-2-i75)
-- [𝐌𝐚𝐬𝐭𝐞𝐫𝐢𝐧𝐠 𝐃𝐞𝐬𝐢𝐠𝐧 𝐏𝐚𝐭𝐭𝐞𝐫𝐧𝐬 𝐢𝐧 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭: 𝟤/𝟔 - 𝐑𝐞𝐯𝐞𝐚𝐥𝐢𝐧𝐠 𝐌𝐨𝐝𝐮𝐥𝐞 𝐏𝐚𝐭𝐭𝐞𝐫𝐧](https://dev.to/kiransm/--5bf0)
-- [Optimizing Bank Data Growth with Sharding Architecture](https://dev.to/joaomarques/optimizing-bank-data-growth-with-sharding-architecture-3pnf)
-- [Extracting and Converting Transaction Input Data in Go](https://dev.to/burgossrodrigo/extracting-and-converting-transaction-input-data-in-go-2klb)
+- [Remove All Adjacent Duplicates In String | LeetCode | Java](https://dev.to/tanujav/remove-all-adjacent-duplicates-in-string-leetcode-java-4f81)
+- [Why Do I Love Code Formatters?](https://dev.to/yardenporat/why-do-i-love-code-formatters-a87)
+- [How to Protect Business and Employee Information: Top 5 Tips](https://dev.to/bocruz0033/how-to-protect-business-and-employee-information-top-5-tips-3dh7)
+- [Insights on the future of AI/ML field for BTech AI/ML Engineering graduates](https://dev.to/ashwini_ashu/insights-on-the-future-of-aiml-field-for-btech-aiml-engineering-graduates-3098)
+- [Optimizing Data Management on AWS - Part 2](https://dev.to/virajnadkarni/optimizing-data-management-on-aws-part-2-434o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
