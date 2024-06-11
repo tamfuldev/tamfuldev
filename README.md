@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Memory Management, Pointers, and Function Pointers in C](https://dev.to/emanuelgustafzon/understanding-memory-management-pointers-and-function-pointers-in-c-8ld)
-- [Documenting my pin collection with Segment Anything: Part 2](https://dev.to/feregri_no/documenting-my-pin-collection-with-segment-anything-part-2-4pjc)
-- [Working Code Isn’t Enough](https://dev.to/tobhai/working-code-isnt-enough-4mja)
-- [Corona Clicker: A Story of Redemption and Reinvention](https://dev.to/king_triton/corona-clicker-a-story-of-redemption-and-reinvention-3h83)
-- [** De Desarrollador Junior a Senior: Ascendiendo al Trono de Hierro de Game of Thrones **🐉🏰👑](https://dev.to/orlidev/-de-desarrollador-junior-a-senior-ascendiendo-al-trono-de-hierro-de-game-of-thrones--29o9)
+- [238. Products of Array Discluding Self](https://dev.to/whereislijah/products-of-array-discluding-self-4mb2)
+- [Beginner Project Ideas with GitHub repos](https://dev.to/evansifyke/beginner-project-ideas-with-github-repos-ao7)
+- [No Longer DEV&#39;s Community Manager, But Still Got Lotsa Love For Y&#39;all! 💚](https://dev.to/michaeltharrington/no-longer-devs-community-manager-but-still-got-love-for-yall-3ocp)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3dk1)
+- [Stay Updated with Python/FastAPI/Django: Weekly News Summary &lpar;03/06/2024 - 09/06/2024&rpar;](https://dev.to/poovarasu/stay-updated-with-pythonfastapidjango-weekly-news-summary-03062024-09062024-1f93)
 <!-- BLOG-POST-LIST:END -->
 
 ---
