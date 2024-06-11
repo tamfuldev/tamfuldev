@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Result Pattern](https://dev.to/ben-witt/result-pattern-5290)
-- [Weak memoization in Javascript](https://dev.to/thekashey/weak-memoization-in-javascript-4po6)
-- [How to build a blockchain with Rust](https://dev.to/rapidinnovation/how-to-build-a-blockchain-with-rust-6i0)
-- [Top 10 AI Tools for Front-End Developers: Enhancing Productivity and Value](https://dev.to/futuristicgeeks/top-10-ai-tools-for-front-end-developers-enhancing-productivity-and-value-5al)
-- [Master Python Like a Pro: Essential Best Practices for Developers](https://dev.to/futuristicgeeks/master-python-like-a-pro-essential-best-practices-for-developers-140h)
+- [Day 16 of 30 of JavaScript](https://dev.to/akshat0610/day-16-of-30-of-javascript-1ci4)
+- [API7 API Gateway Performance Benchmark: P99 = 2.3 ms &amp; 160k QPS](https://dev.to/api7/api7-api-gateway-performance-benchmark-p99-23-ms-160k-qps-38de)
+- [Understanding Angular Life Cycle Hooks: A Comprehensive Guide](https://dev.to/manthanank/understanding-angular-life-cycle-hooks-a-comprehensive-guide-34oa)
+- [Nuxt build vs Nuxt Generate what is the difference?](https://dev.to/leamsigc/nuxt-build-vs-nuxt-generate-what-is-the-difference-759)
+- [Confusion Matrix: A Clear Guide to Understanding It](https://dev.to/yaswanthteja/confusion-matrix-a-clear-guide-to-understanding-it-4e0p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
