@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Create an App Like Nextdoor: The Ultimate Guide](https://dev.to/keliaewart/create-an-app-like-nextdoor-the-ultimate-guide-3bea)
-- [Debugging docker-compose errors](https://dev.to/anyigortobias_5/debugging-docker-compose-errors-2b29)
-- [How I created a live subscribers counter in NextJS &lpar;with source code&rpar;](https://dev.to/pierremouchan/how-i-created-a-live-subscribers-counter-with-peoples-avatars-in-nextjs-with-source-code-1l07)
-- [Open-Source No-Code/Low-Code Platform NocoBase v1.0.1-alpha.1: Blocks support height settings](https://dev.to/nocobase/open-source-no-codelow-code-platform-nocobase-v101-alpha1-blocks-support-height-settings-5ep0)
-- [Implementando uma Solução MultiTenancy com o NHibernate.](https://dev.to/unhacked/implementando-uma-solucao-multitenancy-com-o-nhibernate-3n2d)
+- [Securing Kubernetes Pods For Production Workloads](https://dev.to/thenjdevopsguy/securing-kubernetes-pods-for-production-workloads-51oh)
+- [Python: Generate Random Integers in Range](https://dev.to/hichem-mg/python-generate-random-integers-in-range-4m0d)
+- [libSQL Extension for PHP Officially Landed at Turso!](https://dev.to/darkterminal/libsql-extension-for-php-officially-landed-at-turso-5e7i)
+- [React Components Explained: Function vs Class Components](https://dev.to/ellis22/react-components-explained-function-vs-class-components-3doh)
+- [Enhancing Your E-Commerce Site: Custom Fonts, Global Styles, and Layout Setup](https://dev.to/webcraft-notes/enhancing-your-e-commerce-site-custom-fonts-global-styles-and-layout-setup-4el)
 <!-- BLOG-POST-LIST:END -->
 
 ---
