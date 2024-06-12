@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Essential Coding Challenges Every Developer Should Know](https://dev.to/spiritmoney/essential-coding-challenges-every-developer-should-know-5b7h)
-- [Responsive Landing Page with ReactJs &amp; Scss](https://dev.to/sudhanshuambastha/responsive-landing-page-with-reactjs-scss-2ak4)
-- [HTML layout elements and techniques, HTML responsive web designs, HTML computer code elements](https://dev.to/wasifali/html-layout-elements-and-techniques-html-responsive-web-designs-html-computer-code-elements-4962)
-- [Game Development Diary #10 : Come Back](https://dev.to/hizrawandwioka/game-development-diary-10-come-back-34og)
-- [The debugging secret I wish they taught in school](https://dev.to/fahimulhaq/the-debugging-secret-i-wish-they-taught-in-school-31h9)
+- [ꜱᴄᴀʟɪɴɢ ᴀɴᴅ ɴᴏʀᴍᴀʟɪᴢɪɴɢ ᴅᴀᴛᴀ ꜰᴏʀ ᴍᴀᴄʜɪɴᴇ ʟᴇᴀʀɴɪɴɢ ᴍᴏᴅᴇʟꜱ](https://dev.to/kammarianand/ling-n-nrliing-r-hin-lrning-l-4bij)
+- [Access Tokens vs Refresh Tokens vs ID Tokens](https://dev.to/rahulvijayvergiya/access-tokens-vs-refresh-tokens-vs-id-tokens-3c97)
+- [Pros and Cons of Benchmark Testing](https://dev.to/ngocninh123/pros-and-cons-of-benchmark-testing-2ki3)
+- [Frontend 항해99 취업 리부트 코스 회고.](https://dev.to/hxxtae/frontend-hanghae99-cwieob-ributeu-koseu-hoego-4153)
+- [Revision of Javascript Step by Step](https://dev.to/mdiffshashank/revision-of-javascript-step-by-step-2p14)
 <!-- BLOG-POST-LIST:END -->
 
 ---
