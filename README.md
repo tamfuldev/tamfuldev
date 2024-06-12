@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI copilot tools for your terminal](https://dev.to/gopher65/ai-copilot-tools-for-your-terminal-18hk)
-- [Interactive Learning Activities: Engaging Exercises for Novice Musicians by Charles Barnett](https://dev.to/charlesbarnett/interactive-learning-activities-engaging-exercises-for-novice-musicians-by-charles-barnett-2eff)
-- [The 5 Stages Of My Software Development Process](https://dev.to/ontowhee/the-5-stages-of-my-software-development-process-52d0)
-- [Understanding the SOLID Principles in Programming](https://dev.to/kellyblaire/understanding-the-solid-principles-in-programming-4ckc)
-- [The Rise of the AI Copilot: Why Programmers Should Embrace GPT-4o](https://dev.to/brainvault_tech/the-rise-of-the-ai-copilot-why-programmers-should-embrace-gpt-4o-21ji)
+- [Essential Coding Challenges Every Developer Should Know](https://dev.to/spiritmoney/essential-coding-challenges-every-developer-should-know-5b7h)
+- [Responsive Landing Page with ReactJs &amp; Scss](https://dev.to/sudhanshuambastha/responsive-landing-page-with-reactjs-scss-2ak4)
+- [HTML layout elements and techniques, HTML responsive web designs, HTML computer code elements](https://dev.to/wasifali/html-layout-elements-and-techniques-html-responsive-web-designs-html-computer-code-elements-4962)
+- [Game Development Diary #10 : Come Back](https://dev.to/hizrawandwioka/game-development-diary-10-come-back-34og)
+- [The debugging secret I wish they taught in school](https://dev.to/fahimulhaq/the-debugging-secret-i-wish-they-taught-in-school-31h9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
