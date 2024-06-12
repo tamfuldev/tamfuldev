@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Workflow and Internal Mechanics of CSS with PostCSS and Vite](https://dev.to/dev_raghvendra/workflow-and-internal-mechanics-of-css-with-postcss-and-vite-9o1)
-- [Seeking for A SKILLED Golang Developer &lpar;URGENT HIRING *&rpar;](https://dev.to/andrew_king_cd5fbd2e15d08/seeking-for-a-skilled-golang-developer-urgent-hiring--3il4)
-- [Exploring Destructuring in JS](https://dev.to/daniel_trejo_a04c7df29ef8/exploring-destructuring-in-js-114j)
-- [Singleton Design Pattern, TypeScript example](https://dev.to/artem/singleton-design-pattern-typescript-example-443e)
-- [Learn GO: Creating Variables in GO Lang](https://dev.to/ivewor/learn-go-creating-variables-in-go-lang-5dim)
+- [Understanding Terraform: A Guide to Effective IaC Practices](https://dev.to/hassan_aftab/understanding-terraform-a-guide-to-effective-iac-practices-28pn)
+- [Clean Code With AI](https://dev.to/mcsee/clean-code-with-ai-4kck)
+- [[Game of Purpose] Day 25](https://dev.to/humberd/game-of-purpose-day-25-3kk9)
+- [How to make Apache&#39;s CloseableHttpAsyncClient explicitly use HTTP/1 or HTTP/2](https://dev.to/jonathan-dev/how-to-make-apaches-closeablehttpasyncclient-explicitly-use-http1-or-http2-2l2g)
+- [run.bash &amp; migrate.bash - Pimpe deine .bashrc auf 🔝🔥](https://dev.to/rubenvoss/runbash-migratebash-pimpe-deine-bashrc-auf-307h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
