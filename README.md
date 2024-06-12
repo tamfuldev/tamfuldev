@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [10 Must-Have Libraries &amp; Frameworks to Boost your Django skills](https://dev.to/devella/10-must-have-libraries-frameworks-to-boost-your-django-skills-5hni)
-- [Implementing MLOps with GitHub Actions](https://dev.to/craftworkai/implementing-mlops-with-github-actions-1knm)
-- [Graph Theory, Discrete Mathematics](https://dev.to/harshm03/graph-theory-discrete-mathematics-mpf)
-- [GraphQL API Design Best Practices for Efficient Data Management](https://dev.to/ovaisnaseem/graphql-api-design-best-practices-for-efficient-data-management-5h07)
-- [React Learn What Matters?](https://dev.to/thecarlover/react-learn-what-matters-2ofe)
+- [Enhancing Cloud SRE Efficiency with Distributed Tracing](https://dev.to/harishpadmanaban/enhancing-cloud-sre-efficiency-with-distributed-tracing-47lm)
+- [8 Best Automated Android App Testing Tools and Framework](https://dev.to/jennife05918349/8-best-automated-android-app-testing-tools-and-framework-3fh7)
+- [Mastering the Cloud: Building a High-Performing SRE Team on AWS, Azure, and GCP](https://dev.to/harishpadmanaban/mastering-the-cloud-building-a-high-performing-sre-team-on-aws-azure-and-gcp-4mon)
+- [Hello everyone!!](https://dev.to/estudiante71/hello-everyone-4p47)
+- [The Power of Synthetic Monitoring for Cloud SRE: Ensuring Seamless Performance and Reliability](https://dev.to/harishpadmanaban/the-power-of-synthetic-monitoring-for-cloud-sre-ensuring-seamless-performance-and-reliability-4kkf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
