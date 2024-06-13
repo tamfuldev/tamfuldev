@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Convert YouTube Video to Podcast with Python](https://dev.to/stokry/convert-youtube-video-to-podcast-with-python-405b)
-- [Leveraging PostGIS to Write And Read FlatGeobuf Files](https://dev.to/spwoodcock/leveraging-postgis-to-write-and-read-flatgeobuf-files-1bp2)
-- [Day 11 Task: Advance Git &amp; GitHub for DevOps Engineers: Part-2](https://dev.to/oncloud7/day-11-task-advance-git-github-for-devops-engineers-part-2-3n6b)
-- [Securely Update a PostgreSQL Database on Azure Using Azure DevOps Pipelines](https://dev.to/aamirkhancr7/securely-update-a-postgresql-database-on-azure-using-azure-devops-pipelines-4fp5)
-- [How to Dockerize a React Application](https://dev.to/zeshancodes/how-to-dockerize-a-react-application-28oo)
+- [Design Pattern #2 - Facade Pattern](https://dev.to/superviz/design-pattern-2-facade-pattern-1dhl)
+- [LeetCode Day7 String Part.1](https://dev.to/flame_chan_llll/leetcode-day8-string-3mln)
+- [Deploying and Connecting to a Virtual Machine in Azure.](https://dev.to/tojumercy1/deploying-and-connecting-to-a-virtual-machine-in-azure-373o)
+- [🚀 Disaster Recovery Solution Using AWS Backups 🌐](https://dev.to/alerabello/disaster-recovery-solution-using-aws-backups-2p28)
+- [DEV Computer Science Challenge Submission](https://dev.to/jershdev/dev-computer-science-challenge-submission-32nj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
