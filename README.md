@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Warning for Front-End Dev Careers!](https://dev.to/jobreadyprogrammer/warning-for-front-end-dev-careers-224k)
-- [Apple&#39;s new feature that just killed my startup 🤯](https://dev.to/darkinventor/apple-just-killed-my-startup-with-its-apple-intelligence-integration-1ihj)
-- [Where do VDI costs hide? - A detailed TCO breakdown](https://dev.to/struthi/where-do-vdi-costs-hide-a-detailed-tco-breakdown-5b7d)
-- [Pipe / Curry / HOF](https://dev.to/__khojiakbar__/pipe-curry-hof-413j)
-- [7 Amazon Free AI Courses](https://dev.to/0xkoji/7-amazon-free-ai-courses-10ie)
+- [Understanding the Difference Between APIs and Endpoints](https://dev.to/msnmongare/understanding-the-difference-between-apis-and-endpoints-402a)
+- [Big O Notation](https://dev.to/bpk45_0670a02e0f3a6839b3a/big-o-notation-3nnf)
+- [Step-by-Step Guide for Web Scraping Using BeautifulSoup](https://dev.to/ionegarza/step-by-step-guide-for-web-scraping-using-beautifulsoup-hcd)
+- [Continuous Integration Testing: Streamlining Software Development and Ensuring Quality](https://dev.to/keploy/continuous-integration-testing-streamlining-software-development-and-ensuring-quality-10mc)
+- [Tips for soft skills development](https://dev.to/techstuff/tips-for-soft-skills-development-3cpm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
