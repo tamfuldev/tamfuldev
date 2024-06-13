@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Running a Node Service with PM2](https://dev.to/spiritmoney/running-a-node-service-with-pm2-3319)
-- [Why are they avoiding using require and using import in JavaScript](https://dev.to/doccaio/why-are-they-avoiding-using-require-and-using-import-in-javascript-k70)
-- [Data Drives Decisions: Mastering WooCommerce Analytics for Store Success](https://dev.to/developermansi/data-drives-decisions-mastering-woocommerce-analytics-for-store-success-63)
-- [New Dev on the Field.](https://dev.to/soorajsuresh/new-dev-on-the-field-43l9)
-- [Limitações das IAs na aprendizagem dos desenvolvedores](https://dev.to/biosbug/limitacoes-das-ias-na-aprendizagem-dos-desenvolvedores-5ek1)
+- [Build an AI Business Proposal Writer Using Gemini API and ToolJet in 10 minutes](https://dev.to/tooljet/build-an-ai-business-proposal-writer-using-gemini-api-and-tooljet-in-10-minutes-4j3j)
+- [Deep learning with cats](https://dev.to/mishmanners/deep-learning-with-cats-5ae1)
+- [Revolutionize Your Web Apps with Service Workers and PWAs: The Ultimate Guide](https://dev.to/dipakahirav/revolutionize-your-web-apps-with-service-workers-and-pwas-the-ultimate-guide-51p2)
+- [NEXT JS STARTER PACK](https://dev.to/shubhamtiwari909/next-js-starter-pack-3283)
+- [What are the most common English words you use at work?](https://dev.to/__2b27d4c/what-are-the-most-common-english-words-you-use-at-work-14hh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
