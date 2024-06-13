@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [EF Core 8 Update Entity](https://dev.to/karenpayneoregon/ef-core-8-update-entity-37il)
-- [Programação Orientada a Objetos: Abstração](https://dev.to/fabianoflorentino/programacao-orientada-a-objetos-abstracao-157o)
-- [Netex Server - Netex Sensör - Ağ Keşif Eklentisi](https://dev.to/aciklab/netex-server-netex-sensor-ag-kesif-eklentisi-5c6a)
-- [Unlocking the Hidden Treasures of Your Applications](https://dev.to/jwtiller_c47bdfa134adf302/unlocking-the-hidden-treasures-of-your-applications-ee)
-- [5 Exciting NumPy Challenges to Boost Your Programming Skills! 🚀](https://dev.to/labex/5-exciting-numpy-challenges-to-boost-your-programming-skills-1499)
+- [Contributing to ODK: the go-to mobile form data collection tool](https://dev.to/spwoodcock/contributing-to-odk-the-go-to-mobile-form-data-collection-tool-3mco)
+- [computer science concept in 256](https://dev.to/fabelt14/computer-science-concept-in-256-2al6)
+- [Blockchain in Fintech: Uses and Early Case Applications](https://dev.to/osa_obaseki/blockchain-in-fintech-uses-and-early-case-applications-148a)
+- [Decoding Backend Architecture: Crafting Effective Folder Structures](https://dev.to/mahabubr/decoding-backend-architecture-crafting-effective-folder-structures-in7)
+- [THAT Conference: THAT&#39;s Where the Best Networking Is At!](https://dev.to/michaellarocca/that-conference-thats-where-the-best-networking-is-at-fmc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
