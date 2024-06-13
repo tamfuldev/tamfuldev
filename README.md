@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build an AI Business Proposal Writer Using Gemini API and ToolJet in 10 minutes](https://dev.to/tooljet/build-an-ai-business-proposal-writer-using-gemini-api-and-tooljet-in-10-minutes-4j3j)
-- [Deep learning with cats](https://dev.to/mishmanners/deep-learning-with-cats-5ae1)
-- [Revolutionize Your Web Apps with Service Workers and PWAs: The Ultimate Guide](https://dev.to/dipakahirav/revolutionize-your-web-apps-with-service-workers-and-pwas-the-ultimate-guide-51p2)
-- [NEXT JS STARTER PACK](https://dev.to/shubhamtiwari909/next-js-starter-pack-3283)
-- [What are the most common English words you use at work?](https://dev.to/__2b27d4c/what-are-the-most-common-english-words-you-use-at-work-14hh)
+- [Convert YouTube Video to Podcast with Python](https://dev.to/stokry/convert-youtube-video-to-podcast-with-python-405b)
+- [Leveraging PostGIS to Write And Read FlatGeobuf Files](https://dev.to/spwoodcock/leveraging-postgis-to-write-and-read-flatgeobuf-files-1bp2)
+- [Day 11 Task: Advance Git &amp; GitHub for DevOps Engineers: Part-2](https://dev.to/oncloud7/day-11-task-advance-git-github-for-devops-engineers-part-2-3n6b)
+- [Securely Update a PostgreSQL Database on Azure Using Azure DevOps Pipelines](https://dev.to/aamirkhancr7/securely-update-a-postgresql-database-on-azure-using-azure-devops-pipelines-4fp5)
+- [How to Dockerize a React Application](https://dev.to/zeshancodes/how-to-dockerize-a-react-application-28oo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
