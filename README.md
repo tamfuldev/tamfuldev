@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Immutable Types with TypeScript `as const`](https://dev.to/adeelibr/mastering-immutable-types-with-typescript-as-const-gh1)
-- [4 Ways to backup mySql database to a csv file](https://dev.to/instanceofgod/4-ways-to-backup-mysql-database-to-a-csv-file-3e9j)
-- [Look what they need to mimic a fraction of our power](https://dev.to/manuartero/look-what-they-need-to-mimic-a-fraction-of-our-power-40j)
-- [Why Even Bother with Project Management?](https://dev.to/hasanbisha/why-even-bother-with-project-management-3cji)
-- [🚀 Day 1: Embarking on My DevOps Journey 🌐](https://dev.to/sanjishmaharjan/day-1-embarking-on-my-devops-journey-36mc)
+- [Running a Node Service with PM2](https://dev.to/spiritmoney/running-a-node-service-with-pm2-3319)
+- [Why are they avoiding using require and using import in JavaScript](https://dev.to/doccaio/why-are-they-avoiding-using-require-and-using-import-in-javascript-k70)
+- [Data Drives Decisions: Mastering WooCommerce Analytics for Store Success](https://dev.to/developermansi/data-drives-decisions-mastering-woocommerce-analytics-for-store-success-63)
+- [New Dev on the Field.](https://dev.to/soorajsuresh/new-dev-on-the-field-43l9)
+- [Limitações das IAs na aprendizagem dos desenvolvedores](https://dev.to/biosbug/limitacoes-das-ias-na-aprendizagem-dos-desenvolvedores-5ek1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
