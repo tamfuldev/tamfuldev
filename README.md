@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Deadlock](https://dev.to/anshsaini/deadlocks-3h3n)
-- [Import Excel to MySQL, Create Tables Easily with One Click! This SQL Editor is All You Need](https://dev.to/concerate/import-excel-to-mysql-create-tables-easily-with-one-click-this-sql-editor-is-all-you-need-3mb7)
-- [How to restore Ubuntu desktop UI After an Unexpected tty1 Boot without initial internet access](https://dev.to/sammybarasa/how-to-restore-ubuntu-desktop-ui-after-an-unexpected-tty1-boot-without-initial-internet-access-2g1j)
-- [You don&#39;t need `forEach&lpar;&rpar;`](https://dev.to/bruts002/you-dont-need-foreach-1jif)
-- [Func Declaration vs Expression vs Statement vs Anonymous vs First Class](https://dev.to/imabhinavdev/func-declaration-vs-expression-vs-statement-vs-anonymous-vs-first-class-2ogm)
+- [Creating AI Applications with Pixie: A Step-by-Step Guide](https://dev.to/gptconsole/creating-ai-applications-with-pixie-a-step-by-step-guide-1bfn)
+- [Beware of Memory Leaks: How Node.js Timeouts Can Cause Major Issues](https://dev.to/srijan_karki/nodejs-timeouts-and-memory-leaks-3l64)
+- [Node.js Timeouts and Memory Leaks](https://dev.to/srijan_karki/nodejs-timeouts-and-memory-leaks-5g1p)
+- [[Docker] Laravel, Nginx MySQL](https://dev.to/jkdevarg/docker-laravel-nginx-mysql-4lp0)
+- [Accelerating Machine Learning with AWS SageMaker](https://dev.to/virajlakshitha/accelerating-machine-learning-with-aws-sagemaker-44ln)
 <!-- BLOG-POST-LIST:END -->
 
 ---
