@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Copy Javascript Object from Safari Browser Console](https://dev.to/dinesh_d/copy-javascript-object-from-safari-browser-console-4kfl)
-- [Why iOS beta versions don&#39;t belong on everyday devices](https://dev.to/disane/why-ios-beta-versions-dont-belong-on-everyday-devices-1blc)
-- [Warum iOS-Beta Versionen nicht auf alltägliche Geräte gehören](https://dev.to/disane/warum-ios-beta-versionen-nicht-auf-alltagliche-gerate-gehoren-3h4d)
-- [How To Edit A Word Documents in C#](https://dev.to/tayyabcodes/how-to-edit-a-word-documents-in-c-1m2d)
-- [A Comprehensive Guide to Test Automation](https://dev.to/elle_richard_232/a-comprehensive-guide-to-test-automation-3joe)
+- [Build a chat room with custom bots powered by OpenAI/Gemini](https://dev.to/encore/build-a-chat-room-with-custom-bots-powered-by-openaigemini-47h3)
+- [Programming for Non-professionals](https://dev.to/esproc_spl/programming-for-non-professionals-f1e)
+- [AI in Agriculture: Optimizing Food Production and Sustainability](https://dev.to/jottyjohn/ai-in-agriculture-optimizing-food-production-and-sustainability-4l97)
+- [Two Pointers, Coding Interview Pattern](https://dev.to/harshm03/two-pointers-coding-interview-pattern-3cek)
+- [Using Vite for React Applications](https://dev.to/thwani47/using-vite-for-react-applications-338k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
