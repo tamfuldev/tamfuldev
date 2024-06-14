@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Updates from the 102nd TC39 meeting](https://dev.to/hemanth/updates-from-the-102nd-tc39-meeting-i4i)
-- [Navigating Success: Setting up Vue Router in your Project.](https://dev.to/chidinma_nwosu/navigating-success-setting-up-vue-router-in-your-project-4el0)
-- [Unified Project Development Environment: ServBay is Enough](https://dev.to/servbay/unified-project-development-environment-servbay-is-enough-20pl)
-- [Decoding the Linux Command Line: 52 Indispensable Utilities Explained](https://dev.to/mnamesujit/decoding-the-linux-command-line-52-indispensable-utilities-explained-34kk)
-- [AWS GameDay: Frugality Fest](https://dev.to/aws-builders/aws-gameday-frugality-fest-4889)
+- [Linux and Git-GitHub Cheat Sheet](https://dev.to/oncloud7/linux-and-git-github-cheat-sheet-i93)
+- [HTML TAGS](https://dev.to/michweb/html-tags-2h3o)
+- [What it&#39;s like to be a woman developer](https://dev.to/webdevqueen/what-its-like-to-be-a-woman-developer-4d0)
+- [JavaScript: JWT Token](https://dev.to/fatimaalam1234/javascript-cookies-jwt-token-25kf)
+- [My Wins of the Week! 🪄](https://dev.to/anitaolsen/my-wins-of-the-week-57hp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
