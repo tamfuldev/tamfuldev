@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Litlyx | The One-Line Code Analytics | Plug anywhere!](https://dev.to/litlyx/litlyx-the-one-line-code-analytics-plug-anywhere-e6h)
-- [Sending GitHub Secrets to Docker Apps on VMs Using adnanh/webhooks](https://dev.to/burgossrodrigo/sending-github-secrets-to-docker-apps-on-vms-using-adnanhwebhooks-1jdo)
-- [Como fui aprovada em Duas Iniciações Cientificas: Uma Com Bolsa e Outra Voluntária](https://dev.to/ianevictoria/como-fui-aprovada-em-duas-iniciacoes-cientificas-uma-com-bolsa-e-outra-voluntaria-1pf1)
-- [P vs NP Problem](https://dev.to/syedmuhammadaliraza/p-vs-np-problem-4hai)
-- [How I Developed a Classic Snake Game Using Python and Pygame](https://dev.to/codecounsel/how-i-developed-a-classic-snake-game-using-python-and-pygame-3ll3)
+- [This is why I prefer Massed Compute over RunPod](https://dev.to/furkangozukara/this-is-why-i-prefer-massed-compute-over-runpod-3hig)
+- [Securing the Cloud #31](https://dev.to/8carroll/securing-the-cloud-31-5847)
+- [The next generation of GitHub profile stats](https://dev.to/lukehagar/the-next-generation-of-github-profile-stats-1nh8)
+- [Function Multi-Versioning: The Swiss Army Knife of Code](https://dev.to/yuktimulani/function-multi-versioning-the-swiss-army-knife-of-code-5gdf)
+- [Weekly Updates - June 14, 2024](https://dev.to/couchbase/weekly-updates-june-14-2024-2kcn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
