@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 App Stores with High Traffic for Publishing Your Apps | Google Play Store Alternatives](https://dev.to/sh20raj/top-10-app-stores-with-high-traffic-for-publishing-your-apps-google-play-store-alternatives-58k3)
-- [Angular 18 app | Zoneless All the way](https://dev.to/john_kirathe/angular-18-app-zoneless-all-the-way-2nbb)
-- [ACID Properties in Database transactions](https://dev.to/the_guy_richie/acid-properties-in-database-transactions-5n7)
-- [Which Technologies and Tools Are Used for Netflix Clone Development?](https://dev.to/dilshaddurani/which-technologies-and-tools-are-used-for-netflix-clone-development-256i)
-- [User Story EP3: How to Practice LeetCode Problems](https://dev.to/marscode/user-story-ep3-how-to-practice-leetcode-problems-5elj)
+- [Copy Javascript Object from Safari Browser Console](https://dev.to/dinesh_d/copy-javascript-object-from-safari-browser-console-4kfl)
+- [Why iOS beta versions don&#39;t belong on everyday devices](https://dev.to/disane/why-ios-beta-versions-dont-belong-on-everyday-devices-1blc)
+- [Warum iOS-Beta Versionen nicht auf alltägliche Geräte gehören](https://dev.to/disane/warum-ios-beta-versionen-nicht-auf-alltagliche-gerate-gehoren-3h4d)
+- [How To Edit A Word Documents in C#](https://dev.to/tayyabcodes/how-to-edit-a-word-documents-in-c-1m2d)
+- [A Comprehensive Guide to Test Automation](https://dev.to/elle_richard_232/a-comprehensive-guide-to-test-automation-3joe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
