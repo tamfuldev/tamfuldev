@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [This is why I prefer Massed Compute over RunPod](https://dev.to/furkangozukara/this-is-why-i-prefer-massed-compute-over-runpod-3hig)
-- [Securing the Cloud #31](https://dev.to/8carroll/securing-the-cloud-31-5847)
-- [The next generation of GitHub profile stats](https://dev.to/lukehagar/the-next-generation-of-github-profile-stats-1nh8)
-- [Function Multi-Versioning: The Swiss Army Knife of Code](https://dev.to/yuktimulani/function-multi-versioning-the-swiss-army-knife-of-code-5gdf)
-- [Weekly Updates - June 14, 2024](https://dev.to/couchbase/weekly-updates-june-14-2024-2kcn)
+- [Improving coding skills with games! 🎮](https://dev.to/buildwebcrumbs/improving-coding-skills-with-games-aco)
+- [SUR LE CHEMIN DU HACKING ! Kali Academy, trois mois d’initiation 👺](https://dev.to/tacite243/sur-le-chemin-du-hacking-kali-academy-trois-mois-dinitiation-1k9m)
+- [Computer Science Challenge: Algorithm](https://dev.to/izuchi/computer-science-challenge-algorithm-2dl)
+- [Afinal, o que são os 0&#39;s e 1&#39;s?](https://dev.to/xornotor/afinal-o-que-sao-os-0s-e-1s-3jdb)
+- [Create A Vim Plugin For Your Next Programming Language, Structure, and syntax highlight.](https://dev.to/ezpzdevelopement/create-a-vim-plugin-for-your-next-programming-language-structure-and-syntax-highlight-4gd1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
