@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Steps to create Azure Virtual Machine](https://dev.to/ikay/steps-to-create-azure-virtual-machine-5a74)
-- [Unveiling URI, URL, and URN](https://dev.to/logto/unveiling-uri-url-and-urn-12b6)
-- [Ready, Set, LAUNCH!! How to Launch and Connect to an AWS EC2 Instance.](https://dev.to/techgirlkaydee/ready-set-launch-how-to-launch-and-connect-to-an-aws-ec2-instance-1jbj)
-- [Laravel 11.x Sanctum SPA authentication with Postman!](https://dev.to/prismlabsdev/laravel-11x-sanctum-spa-authentication-with-postman-3ji0)
-- [Breaking Out of Tutorial Hell](https://dev.to/kevin-jin/breaking-out-of-tutorial-hell-lgf)
+- [O que é um mapeamento de estoque?](https://dev.to/marlonjerold/o-que-e-um-mapeamento-de-estoque-1kmn)
+- [How to connect MySQL using SQLynx](https://dev.to/concerate/how-to-connect-mysql-using-sqlynx-50g3)
+- [Compilado dicas de carreira - parte 3](https://dev.to/hugaomarques/compilado-dicas-de-carreira-parte-3-4fd6)
+- [Mastering Custom Hooks in React: A Comprehensive Guide](https://dev.to/hasancse/mastering-custom-hooks-in-react-a-comprehensive-guide-1bfb)
+- [Building Infrastructure as Code: Unlocking the Power of AWS CloudFormation](https://dev.to/virajlakshitha/building-infrastructure-as-code-unlocking-the-power-of-aws-cloudformation-3273)
 <!-- BLOG-POST-LIST:END -->
 
 ---
