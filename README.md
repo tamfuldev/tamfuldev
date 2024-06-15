@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding S3 Bucket Replication vs. CloudFront](https://dev.to/apetryla/understanding-s3-bucket-replication-vs-cloudfront-22ii)
-- [CouchGO! — Enhancing CouchDB with Query Server Written in Go](https://dev.to/kishieel/couchgo-enhancing-couchdb-with-query-server-written-in-go-304n)
-- [Nodemailer: Enviando E-mails com Facilidade em Aplicações Node.js](https://dev.to/iamthiago/nodemailer-enviando-e-mails-com-facilidade-em-aplicacoes-nodejs-27en)
-- [How to Publish Cypress Test Results to Azure Devops](https://dev.to/cinthiabs/how-to-publish-cypress-test-results-to-azure-devops-4aah)
-- [A Guide to Installing Jenkins, Configuring it and expose to outside world.](https://dev.to/subodh_bagde/a-guide-to-installing-jenkins-configuring-it-and-expose-to-outside-world-2344)
+- [How to Improve User Experience with Image Previews: A Step-by-Step Guide](https://dev.to/dk119819/how-to-improve-user-experience-with-image-previews-a-step-by-step-guide-1p87)
+- [An interesting promise use case | Handling user interactions](https://dev.to/vishalgaurav/an-interesting-promise-use-case-handling-user-interactions-1f1g)
+- [What is low Latency?](https://dev.to/alakkadshaw/what-is-low-latency-355g)
+- [What programming language should you choose](https://dev.to/henriqueleite42/what-programming-language-should-you-choose-4ed2)
+- [React useRef is easy!](https://dev.to/justanordinaryperson/react-useref-is-easy-4bj2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
