@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Video: Modify Angular Material &lpar;v18&rpar; themes with CSS Variables using Theme Builder](https://dev.to/ngmaterialdev/video-modify-angular-material-v18-themes-with-css-variables-using-theme-builder-3278)
-- [Huawei Cloud - Migration](https://dev.to/ozcankara/huwaei-cloud-migration-2all)
-- [Getting hands dirty with SOAP](https://dev.to/nisalap/getting-hands-dirty-with-soap-1gg6)
-- [Ensuring Secure Connections: How the Get-VPNConnectionInfo Function Identifies VPN Usage](https://dev.to/uyriq/ensuring-secure-connections-how-the-get-vpnconnectioninfo-function-identifies-vpn-usage-1i47)
-- [Use ruby-lsp plugins without modifying the project&#39;s Gemfile](https://dev.to/r7kamura/use-ruby-lsp-plugins-without-modifying-the-projects-gemfile-4i93)
+- [Using lerp and damp in javascript](https://dev.to/iliketoplay/using-lerp-and-damp-in-javascript-3f7p)
+- [Shades of Open Source - Understanding The Many Meanings of &quot;Open&quot;](https://dev.to/alexmercedcoder/shades-of-open-source-understanding-the-many-meanings-of-open-35je)
+- [Nega aynan Vue.js ?](https://dev.to/mystery9807/nega-aynan-vuejs--3cf5)
+- [One Byte Explainer - Closures](https://dev.to/imkarthikeyan/one-byte-explainer-closures-o84)
+- [Step-by-Step Guide to Publish Internal SaaS Applications via Citrix Secure Private Access](https://dev.to/amalkabraham001/step-by-step-guide-to-publish-internal-saas-applications-via-citrix-secure-private-access-17k9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
