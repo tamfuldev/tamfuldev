@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Idempotência: Conceito e Aplicação na Garantia da Qualidade de Softwar](https://dev.to/yuri-aprendendoqa/idempotencia-conceito-e-aplicacao-na-garantia-da-qualidade-de-softwar-1gic)
+- [Developing Cloud-Based Applications with Azure](https://dev.to/kartikmehta8/developing-cloud-based-applications-with-azure-2kfh)
+- [[Game of Purpose] Day 27](https://dev.to/humberd/game-of-purpose-day-27-1i9p)
+- [Unleashing Reactive Programming: Boosting Responsiveness, Resilience, and Scalability](https://dev.to/tutorialq/unleashing-reactive-programming-boosting-responsiveness-resilience-and-scalability-503)
 - [GitHub Copilot asking multiple questions](https://dev.to/karenpayneoregon/github-copilot-asking-multiple-questions-54de)
-- [High Frequency Trading : An introduction to Nordic Stock Exchange data](https://dev.to/shivam_sharma_0898bab64d2/high-frequency-trading-an-introduction-to-nordic-stock-exchange-data-15f0)
-- [How @AliasFor Simplifies Annotations usage in Spring](https://dev.to/tiuwill/how-aliasfor-simplifies-annotations-usage-in-spring-3kjn)
-- [Unravelling Unittest](https://dev.to/codeveronica/unravelling-unittest-54fc)
-- [Angular Animations Tutorial: Route Transitions](https://dev.to/brianmtreese/angular-animations-tutorial-route-transitions-17g9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
