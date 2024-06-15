@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mock Data: A Cornerstone of Efficient Software Testing](https://dev.to/keploy/mock-data-a-cornerstone-of-efficient-software-testing-e0m)
-- [Integration testing with Spring Boot and embedded kafka](https://dev.to/steffenwda/integration-testing-with-spring-boot-and-embedded-kafka-1ld0)
-- [Day 19 of my progress as a vue dev](https://dev.to/zain725342/day-19-of-my-progress-as-a-vue-dev-1j0n)
-- [5 Auth0 Gotchas to Consider](https://dev.to/ujjavala/5-auth0-gotchas-to-consider-3g96)
-- [Install zsh-autocomplete on WSL2](https://dev.to/0xkoji/install-zsh-autocomplete-on-wsl2-21ij)
+- [Video: Modify Angular Material &lpar;v18&rpar; themes with CSS Variables using Theme Builder](https://dev.to/ngmaterialdev/video-modify-angular-material-v18-themes-with-css-variables-using-theme-builder-3278)
+- [Huawei Cloud - Migration](https://dev.to/ozcankara/huwaei-cloud-migration-2all)
+- [Getting hands dirty with SOAP](https://dev.to/nisalap/getting-hands-dirty-with-soap-1gg6)
+- [Ensuring Secure Connections: How the Get-VPNConnectionInfo Function Identifies VPN Usage](https://dev.to/uyriq/ensuring-secure-connections-how-the-get-vpnconnectioninfo-function-identifies-vpn-usage-1i47)
+- [Use ruby-lsp plugins without modifying the project&#39;s Gemfile](https://dev.to/r7kamura/use-ruby-lsp-plugins-without-modifying-the-projects-gemfile-4i93)
 <!-- BLOG-POST-LIST:END -->
 
 ---
