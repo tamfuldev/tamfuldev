@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [5 Must-Try Kubernetes Lab Tutorials 🚀](https://dev.to/labex/5-must-try-kubernetes-lab-tutorials-2j8a)
-- [Hello Everyone](https://dev.to/natdcoder/hello-everyone-nhk)
-- [How to Easily Add Translations to Your React Apps with i18next](https://dev.to/codeparrot/how-to-easily-add-translations-to-your-react-apps-with-i18next-66h)
-- [Latest Newsletter: Big Changes At Every Layer &lpar;Issue #168&rpar;](https://dev.to/mjgs/latest-newsletter-big-changes-at-every-layer-issue-168-3765)
-- [Maximizing Productivity with ChatGPT: Comparing ChatGPT-3.5 and ChatGPT-4 Omni for Diverse AI Applications](https://dev.to/apoorvtomar/maximizing-productivity-with-chatgpt-comparing-chatgpt-35-and-chatgpt-4-omni-for-diverse-ai-applications-31le)
+- [Understanding S3 Bucket Replication vs. CloudFront](https://dev.to/apetryla/understanding-s3-bucket-replication-vs-cloudfront-22ii)
+- [CouchGO! — Enhancing CouchDB with Query Server Written in Go](https://dev.to/kishieel/couchgo-enhancing-couchdb-with-query-server-written-in-go-304n)
+- [Nodemailer: Enviando E-mails com Facilidade em Aplicações Node.js](https://dev.to/iamthiago/nodemailer-enviando-e-mails-com-facilidade-em-aplicacoes-nodejs-27en)
+- [How to Publish Cypress Test Results to Azure Devops](https://dev.to/cinthiabs/how-to-publish-cypress-test-results-to-azure-devops-4aah)
+- [A Guide to Installing Jenkins, Configuring it and expose to outside world.](https://dev.to/subodh_bagde/a-guide-to-installing-jenkins-configuring-it-and-expose-to-outside-world-2344)
 <!-- BLOG-POST-LIST:END -->
 
 ---
