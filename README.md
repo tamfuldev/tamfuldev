@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Improving coding skills with games! 🎮](https://dev.to/buildwebcrumbs/improving-coding-skills-with-games-aco)
-- [SUR LE CHEMIN DU HACKING ! Kali Academy, trois mois d’initiation 👺](https://dev.to/tacite243/sur-le-chemin-du-hacking-kali-academy-trois-mois-dinitiation-1k9m)
-- [Computer Science Challenge: Algorithm](https://dev.to/izuchi/computer-science-challenge-algorithm-2dl)
-- [Afinal, o que são os 0&#39;s e 1&#39;s?](https://dev.to/xornotor/afinal-o-que-sao-os-0s-e-1s-3jdb)
-- [Create A Vim Plugin For Your Next Programming Language, Structure, and syntax highlight.](https://dev.to/ezpzdevelopement/create-a-vim-plugin-for-your-next-programming-language-structure-and-syntax-highlight-4gd1)
+- [GitHub Copilot asking multiple questions](https://dev.to/karenpayneoregon/github-copilot-asking-multiple-questions-54de)
+- [High Frequency Trading : An introduction to Nordic Stock Exchange data](https://dev.to/shivam_sharma_0898bab64d2/high-frequency-trading-an-introduction-to-nordic-stock-exchange-data-15f0)
+- [How @AliasFor Simplifies Annotations usage in Spring](https://dev.to/tiuwill/how-aliasfor-simplifies-annotations-usage-in-spring-3kjn)
+- [Unravelling Unittest](https://dev.to/codeveronica/unravelling-unittest-54fc)
+- [Angular Animations Tutorial: Route Transitions](https://dev.to/brianmtreese/angular-animations-tutorial-route-transitions-17g9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
