@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Part 4 — Draw Image](https://dev.to/kurohuku/part-4-draw-image-5a09)
-- [Best Time to Refactor: Tips for Refactoring a Legacy Code Base](https://dev.to/haseeb1009/best-time-to-refactor-tips-for-refactoring-a-legacy-code-base-1b51)
-- [?? &lpar;Nullish coalescing&rpar; vs || &lpar;Logical OR&rpar; in Javascript](https://dev.to/justanordinaryperson/-nullish-coalescing-vs-logical-or-in-javascript-2l88)
-- [Git](https://dev.to/dwivedialind/git-odo)
-- [Lock / Mutex to an 8th grader](https://dev.to/sauravshah31/lock-mutex-to-an-8th-grader-378a)
+- [Push notifications from server with Telegram Bot API](https://dev.to/climentea/push-notifications-from-server-with-telegram-bot-api-32b3)
+- [EXPLOITING DEV MACHINE](https://dev.to/babsarena/exploiting-dev-machine-3e17)
+- [From React to Hotwire - Part I - [EN]](https://dev.to/cirdes/from-react-to-hotwire-part-i-en-2o6g)
+- [Discover the VERN Stack: Revolutionizing Web Development with VERSE.DB, Express, React, and Node](https://dev.to/marco5dev/discover-the-vern-stack-revolutionizing-web-development-with-versedb-express-react-and-node-4ki1)
+- [Do React ao Hotwire - Parte I - [PT-BR]](https://dev.to/cirdes/do-react-ao-hotwire-parte-i-pt-br-1hm2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
