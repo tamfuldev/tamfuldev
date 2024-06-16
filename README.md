@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Failure Is Not An Option For AI &lpar;And It Shouldn&#39;t Be&rpar;](https://dev.to/peter_truchly_4fce0874fd5/failure-is-not-an-option-for-ai-and-it-shouldnt-be-1hm2)
-- [Creative Photography Showcase Slider | Swiper Slider](https://dev.to/creative_salahu/creative-photography-showcase-slider-swiper-slider-g6l)
-- [Highlight Your Terminal: a tools design to highlight information on output of terminal](https://dev.to/phhitachi/highlight-your-terminal-a-tools-design-to-highlight-information-on-output-of-terminal-42me)
-- [Tailwind CSS: CSS framework for Kickstart](https://dev.to/disane/tailwind-css-css-framework-for-kickstart-59mi)
-- [Tailwind CSS: CSS-Framework für den Kickstart](https://dev.to/disane/tailwind-css-css-framework-fur-den-kickstart-bdl)
+- [Browser MMORPG #indiegamedev #babylonjs Ep20 - Client Side Prediction &amp; Reconciliation](https://dev.to/maiu/browser-mmorpg-indiegamedev-babylonjs-ep20-client-side-prediction-reconciliation-3fc7)
+- [Optimizing React Performance: Avoiding Unnecessary Rendering with Hooks](https://dev.to/ayas_tech_2b0560ee159e661/optimizing-react-performance-avoiding-unnecessary-rendering-with-hooks-446i)
+- [C++ Best Practices : Naming Conventions](https://dev.to/parthkamal/c-best-practices-naming-conventions-235m)
+- [Unlock New Features: RazorSharp CLI &amp; Dashboard Updates!](https://dev.to/jwtiller_c47bdfa134adf302/unlock-new-features-razorsharp-cli-dashboard-updates-i50)
+- [Backblaze B2: How to store a file](https://dev.to/artiumws/backblaze-b2-how-to-store-a-file-3obj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
