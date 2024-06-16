@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What is full stack developer ?](https://dev.to/vicky435435/what-is-full-stack-developer--4ka9)
-- [Networking to a 5th Grader in 256 words.](https://dev.to/thomastaylor/networking-to-a-5th-grader-in-256-words-6p4)
-- [Create FastAPI App Like pro part-1](https://dev.to/muhammadnizamani/create-fastapi-app-like-pro-part-1-12pi)
-- [Day 6: Introduction to Semantic HTML](https://dev.to/dipakahirav/day-6-introduction-to-semantic-html-3o2i)
-- [Advanced Insights into Automated Data Processing Tools](https://dev.to/data_expertise/advanced-insights-into-automated-data-processing-tools-4l3k)
+- [Scroll progress timeline bar in easy step.](https://dev.to/sunder_mehra_246c4308e1dd/scroll-progress-timeline-bar-in-easy-step-1mk0)
+- [Twilio Challenge: AI-Powered Voice Assistant](https://dev.to/thatcoolguy/twilio-challenge-ai-powered-voice-assistant-30j8)
+- [A beginners guide to Kubernetes with Docker](https://dev.to/ferdousazad/a-beginners-guide-to-kubernetes-with-docker-1e4m)
+- [Transform your Use Cases to Software with ZERO Code](https://dev.to/polterguy/transform-your-use-cases-to-software-with-zero-code-51a)
+- [Get Rid of Tightly Coupled Modules and Circular Dependencies in NestJS](https://dev.to/kishieel/get-rid-of-tightly-coupled-modules-and-circular-dependencies-in-nestjs-3do1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
