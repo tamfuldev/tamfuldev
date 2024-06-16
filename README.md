@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Release Service](https://dev.to/ryanrizky/how-to-release-service-5eaj)
-- [Efficiently Managing Remote Data in Vue with Vue Query](https://dev.to/alimetehrani/efficiently-managing-remote-data-in-vue-with-vue-query-192h)
-- [Let&#39;s practice clean reusable components in react](https://dev.to/codewithshahan/lets-practice-clean-reusable-components-in-react-5flj)
-- [Full Backup in Nodejs&lpar;Files and Database backup&rpar;](https://dev.to/hosseinmobarakian/full-backup-in-nodejsfiles-and-database-backup-2a9f)
-- [Understanding Inheritance and Polymorphism: Simplified OOP Concepts](https://dev.to/jaid28/understanding-inheritance-and-polymorphism-simplified-oop-concepts-269c)
+- [If Else In Python](https://dev.to/pulkitgovrani/if-else-in-python-2315)
+- [Project: Echopad](https://dev.to/paras594/project-echopad-37jc)
+- [How to build a Web IDE like codesandbox?](https://dev.to/abdul_165bf98345e29aea8ef/how-to-build-a-web-ide-like-codesandbox-38e6)
+- [Stack &amp; Heap](https://dev.to/jawadalisoomro/stack-heap-lpc)
+- [How I have added a custom ASCII Art Banner to the React Server](https://dev.to/deepcodr/how-i-have-added-a-custom-ascii-art-banner-to-the-react-server-5eig)
 <!-- BLOG-POST-LIST:END -->
 
 ---
