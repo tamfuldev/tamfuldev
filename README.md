@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Best Practices for Creating Reusable Custom Hooks in React](https://dev.to/hasancse/best-practices-for-creating-reusable-custom-hooks-in-react-37nj)
-- [Amazon RDS Multi-AZ Deployments vs Read Replica](https://dev.to/sachithmayantha/amazon-rds-multi-az-deployments-vs-read-replica-1ki3)
-- [Duo Studio UI clone 🚀](https://dev.to/sameer07x19/duo-studio-ui-clone-1ldk)
-- [Problem : - Your project requires a newer version of the Kotlin Gradle plugin in Flutter.](https://dev.to/ozonexkeshav07/problem-your-project-requires-a-newer-version-of-the-kotlin-gradle-plugin-in-flutter-5da3)
-- [Mastering PHP File Paths: Simplifying Your Project&#39;s Structure](https://dev.to/anwar_sadat/mastering-php-file-paths-simplifying-your-projects-structure-650)
+- [How to Release Service](https://dev.to/ryanrizky/how-to-release-service-5eaj)
+- [Efficiently Managing Remote Data in Vue with Vue Query](https://dev.to/alimetehrani/efficiently-managing-remote-data-in-vue-with-vue-query-192h)
+- [Let&#39;s practice clean reusable components in react](https://dev.to/codewithshahan/lets-practice-clean-reusable-components-in-react-5flj)
+- [Full Backup in Nodejs&lpar;Files and Database backup&rpar;](https://dev.to/hosseinmobarakian/full-backup-in-nodejsfiles-and-database-backup-2a9f)
+- [Understanding Inheritance and Polymorphism: Simplified OOP Concepts](https://dev.to/jaid28/understanding-inheritance-and-polymorphism-simplified-oop-concepts-269c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
