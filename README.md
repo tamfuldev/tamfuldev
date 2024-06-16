@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Finding things](https://dev.to/simongreennet/finding-things-1f34)
-- [Create your self-hosted Wordpress for €5 a month, in 30 seconds.](https://dev.to/gurghet/create-your-self-hosted-wordpress-for-eu5-a-month-in-30-seconds-1kap)
-- [Part 1 — Create Project](https://dev.to/kurohuku/part-1-create-project-29nb)
-- [Introduction](https://dev.to/kurohuku/introduction-1gbn)
-- [Binary Tree](https://dev.to/olgabraginskaya/binary-tree-5eij)
+- [Part 4 — Draw Image](https://dev.to/kurohuku/part-4-draw-image-5a09)
+- [Best Time to Refactor: Tips for Refactoring a Legacy Code Base](https://dev.to/haseeb1009/best-time-to-refactor-tips-for-refactoring-a-legacy-code-base-1b51)
+- [?? &lpar;Nullish coalescing&rpar; vs || &lpar;Logical OR&rpar; in Javascript](https://dev.to/justanordinaryperson/-nullish-coalescing-vs-logical-or-in-javascript-2l88)
+- [Git](https://dev.to/dwivedialind/git-odo)
+- [Lock / Mutex to an 8th grader](https://dev.to/sauravshah31/lock-mutex-to-an-8th-grader-378a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
