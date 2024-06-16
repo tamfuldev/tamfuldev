@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Creating and Managing Multiple Projects and Servers with Mockingbird](https://dev.to/ozkeisar/creating-and-managing-multiple-projects-and-servers-with-mockingbird-a7b)
-- [Polling in Vue.js](https://dev.to/pulkit30/polling-in-vuejs-205j)
-- [Four JavaScript Data Manipulation Every Junior Must Practice](https://dev.to/danywalls/four-javascript-data-manipulation-every-junior-must-practice-380h)
-- [How to make programming a habit in your life](https://dev.to/jaelynlee/how-to-make-programming-a-habit-in-your-life-1m3l)
-- [For Loops in Python](https://dev.to/pulkitgovrani/for-loops-in-python-50e1)
+- [Finding things](https://dev.to/simongreennet/finding-things-1f34)
+- [Create your self-hosted Wordpress for €5 a month, in 30 seconds.](https://dev.to/gurghet/create-your-self-hosted-wordpress-for-eu5-a-month-in-30-seconds-1kap)
+- [Part 1 — Create Project](https://dev.to/kurohuku/part-1-create-project-29nb)
+- [Introduction](https://dev.to/kurohuku/introduction-1gbn)
+- [Binary Tree](https://dev.to/olgabraginskaya/binary-tree-5eij)
 <!-- BLOG-POST-LIST:END -->
 
 ---
