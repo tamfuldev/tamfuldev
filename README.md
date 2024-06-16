@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Front end in 7 days?](https://dev.to/siri999/front-end-in-7-days-5a8n)
+- [3D Glowing Card Carousel Slider](https://dev.to/divinector/3d-glowing-card-carousel-slider-4io)
+- [Explain X Like I&#39;m Five](https://dev.to/ahmad_rifai_54a20be09025e/explain-x-like-im-five-n8j)
+- [Unleashing the Power of Serverless Data Analysis with AWS Athena](https://dev.to/virajlakshitha/unleashing-the-power-of-serverless-data-analysis-with-aws-athena-3amh)
 - [Mastering Client and Server Components in Next.js: A Comprehensive Guide](https://dev.to/vyan/mastering-client-and-server-components-in-nextjs-a-comprehensive-guide-42hp)
-- [Top JavaScript Frameworks in 2024](https://dev.to/1saptarshi/top-javascript-frameworks-in-2024-1i7i)
-- [A PAGE TALKS ABOUT &lpar;Postbot: The AI Assistant By Postman&rpar;](https://dev.to/rewirebyautomation/a-page-talks-about-postbot-the-ai-assistant-by-postman-1lkh)
-- [P=NP? 256 chars](https://dev.to/fmalk/pnp-256-chars-49k7)
-- [RECURSION: A Beginner’s Guide](https://dev.to/wendyver/recursion-a-beginners-guide-57pd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
