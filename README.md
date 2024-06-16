@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [If Else In Python](https://dev.to/pulkitgovrani/if-else-in-python-2315)
-- [Project: Echopad](https://dev.to/paras594/project-echopad-37jc)
-- [How to build a Web IDE like codesandbox?](https://dev.to/abdul_165bf98345e29aea8ef/how-to-build-a-web-ide-like-codesandbox-38e6)
-- [Stack &amp; Heap](https://dev.to/jawadalisoomro/stack-heap-lpc)
-- [How I have added a custom ASCII Art Banner to the React Server](https://dev.to/deepcodr/how-i-have-added-a-custom-ascii-art-banner-to-the-react-server-5eig)
+- [Creating and Managing Multiple Projects and Servers with Mockingbird](https://dev.to/ozkeisar/creating-and-managing-multiple-projects-and-servers-with-mockingbird-a7b)
+- [Polling in Vue.js](https://dev.to/pulkit30/polling-in-vuejs-205j)
+- [Four JavaScript Data Manipulation Every Junior Must Practice](https://dev.to/danywalls/four-javascript-data-manipulation-every-junior-must-practice-380h)
+- [How to make programming a habit in your life](https://dev.to/jaelynlee/how-to-make-programming-a-habit-in-your-life-1m3l)
+- [For Loops in Python](https://dev.to/pulkitgovrani/for-loops-in-python-50e1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
