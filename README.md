@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Step-by-Step Diffusion: An Elementary Tutorial](https://dev.to/mikeyoung44/step-by-step-diffusion-an-elementary-tutorial-7cc)
-- [RxJs and Redux-Observable](https://dev.to/codeparrot/rxjs-and-redux-observable-167i)
-- [I am looking for Senior Python Developer who has over 8 years of professional experience](https://dev.to/eugene_goodwin_c9d195b96d/i-am-looking-for-senior-python-developer-who-has-over-8-years-of-professional-experience-f1j)
-- [Install JDK11&lpar;MACOS&rpar;](https://dev.to/__1c1b7f036f4faee450ed/install-jdk11macos-8pi)
-- [Shamir Secret Sharing in 256 characters or less](https://dev.to/kalkwst/shamir-secret-sharing-in-256-characters-or-less-3a3a)
+- [Master The Behavioral Interview: 5 Effective Storytelling Frameworks](https://dev.to/alexr/master-the-behavioral-interview-5-effective-storytelling-frameworks-5df4)
+- [Top 8 Gaming open-source projects](https://dev.to/litlyx/top-9-gaming-open-source-projects-5f6f)
+- [A Straightforward Guide for MySQL Locks](https://dev.to/eyo000000/a-straightforward-guide-for-mysql-locks-56i1)
+- [HTML Elements](https://dev.to/nmiller15/html-elements-38m4)
+- [Thank you for support [dil s acha lagta h❤]](https://dev.to/aryan015/thank-you-for-support-dil-s-acha-lagta-h-27nj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
