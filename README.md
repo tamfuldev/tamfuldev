@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Resolve Content Security Policy &lpar;CSP&rpar; Issues in Your Discord Activity Using a Node.js Proxy](https://dev.to/waveplay/resolve-content-security-policy-csp-issues-in-your-discord-activity-using-a-nodejs-proxy-2634)
-- [Interval Score Matching: Enhancing Fidelity in Text-to-3D Models with LucidDreamer](https://dev.to/voxel51/interval-score-matching-enhancing-fidelity-in-text-to-3d-models-with-luciddreamer-33ja)
-- [Fixing CLIP’s Blind Spots: How New Research Tackles AI’s Visual Misinterpretations](https://dev.to/voxel51/fixing-clips-blind-spots-how-new-research-tackles-ais-visual-misinterpretations-2m6a)
-- [Improving CSS Loading in React Applications: Avoiding `@import` in `createGlobalStyle`](https://dev.to/mochafreddo/improving-css-loading-in-react-applications-avoiding-import-in-createglobalstyle-4d9p)
-- [Lukas Höllein on the Challenges and Opportunities of Text-to-3D with “ViewDiff”](https://dev.to/voxel51/lukas-hollein-on-the-challenges-and-opportunities-of-text-to-3d-with-viewdiff-3jn8)
+- [Step-by-Step Diffusion: An Elementary Tutorial](https://dev.to/mikeyoung44/step-by-step-diffusion-an-elementary-tutorial-7cc)
+- [RxJs and Redux-Observable](https://dev.to/codeparrot/rxjs-and-redux-observable-167i)
+- [I am looking for Senior Python Developer who has over 8 years of professional experience](https://dev.to/eugene_goodwin_c9d195b96d/i-am-looking-for-senior-python-developer-who-has-over-8-years-of-professional-experience-f1j)
+- [Install JDK11&lpar;MACOS&rpar;](https://dev.to/__1c1b7f036f4faee450ed/install-jdk11macos-8pi)
+- [Shamir Secret Sharing in 256 characters or less](https://dev.to/kalkwst/shamir-secret-sharing-in-256-characters-or-less-3a3a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
