@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Data structure](https://dev.to/suhngeun_yang/data-structure-kan)
-- [NestJS and TypeORM — Efficient Schema-Level Multi-Tenancy with Auto Generated Migrations: A DX Approach](https://dev.to/logeek/nestjs-and-typeorm-efficient-schema-level-multi-tenancy-with-auto-generated-migrations-a-dx-approach-jla)
-- [Pyenv para Iniciantes.](https://dev.to/theleanz/pyenv-para-iniciantes-3jkl)
-- [The loss functions for Neural Network in PyTorch](https://dev.to/hyperkai/the-loss-functions-for-neural-network-in-pytorch-hf9)
-- [Data Dynamics: Exploring Information Theory Essentials](https://dev.to/kevinbg012/data-dynamics-exploring-information-theory-essentials-1eoa)
+- [Get Ready for Your JavaScript Interview: Top 100 Questions to Practice](https://dev.to/dk119819/get-ready-for-your-javascript-interview-top-100-questions-to-practice-5mn)
+- [Backend Developer Skills You Must Know in 2024](https://dev.to/thekarlesi/backend-developer-skills-you-must-know-in-2024-4mi8)
+- [Setting up Vim for PHP and laravel in 2024](https://dev.to/woland/setting-up-vim-for-php-and-laravel-in-2024-1pl7)
+- [How to Create a Loading Bar Using HTML, CSS, and JavaScript](https://dev.to/dk119819/how-to-create-a-loading-bar-using-html-css-and-javascript-326j)
+- [Top 9 Kanban Board Templates for 2024](https://dev.to/bryany/top-kanban-board-templates-for-2024-23mj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
