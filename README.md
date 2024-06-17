@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SSL context creation crashes of c++ native module in Electron application](https://dev.to/codert0109/ssl-context-creation-crashes-of-c-native-module-in-electron-application-307a)
-- [The Basics of BABEL](https://dev.to/gagecantrelle/the-basics-of-babel-2d8f)
-- [Top CSS Websites for Developers: Elevate Your Frontend Skills](https://dev.to/vyan/top-css-websites-for-developers-elevate-your-frontend-skills-550l)
-- [Azure Resource Naming Conventions! Best Practices for Optimal Management](https://dev.to/karthiksdevopsengineer/azure-resource-naming-conventions-best-practices-for-optimal-management-9d0)
-- [How to Extract Text From PDF in C# &lpar;Beginner Tutorial&rpar;](https://dev.to/tayyabcodes/how-to-extract-text-from-pdf-in-c-beginner-tutorial-20li)
+- [Oh My Posh- Powershell Terminal Setup](https://dev.to/chenchih/oh-my-posh-powershell-terminal-setup-mfj)
+- [Velvetauth new authentication](https://dev.to/nesquick/velvetauth-new-authentication-5729)
+- [Decoupling Your Applications with AWS EventBridge: A Deep Dive](https://dev.to/virajlakshitha/decoupling-your-applications-with-aws-eventbridge-a-deep-dive-2kci)
+- [GraphQL vs. REST: A Dev&#39;s Guide to Picking Your API Poison &lpar;and Why You Should Argue With Me&rpar;](https://dev.to/kareem-khaled/graphql-vs-rest-a-devs-guide-to-picking-your-api-poison-and-why-you-should-argue-with-me-55cd)
+- [Distributed Systems Patterns](https://dev.to/inamdarminaz/distributed-systems-patterns-3om6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
