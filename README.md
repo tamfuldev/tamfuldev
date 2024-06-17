@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Oh My Posh- Powershell Terminal Setup](https://dev.to/chenchih/oh-my-posh-powershell-terminal-setup-mfj)
-- [Velvetauth new authentication](https://dev.to/nesquick/velvetauth-new-authentication-5729)
-- [Decoupling Your Applications with AWS EventBridge: A Deep Dive](https://dev.to/virajlakshitha/decoupling-your-applications-with-aws-eventbridge-a-deep-dive-2kci)
-- [GraphQL vs. REST: A Dev&#39;s Guide to Picking Your API Poison &lpar;and Why You Should Argue With Me&rpar;](https://dev.to/kareem-khaled/graphql-vs-rest-a-devs-guide-to-picking-your-api-poison-and-why-you-should-argue-with-me-55cd)
-- [Distributed Systems Patterns](https://dev.to/inamdarminaz/distributed-systems-patterns-3om6)
+- [Valibot: A New Approach to Data Validation in JavaScript](https://dev.to/opensauced/valibot-a-new-approach-to-data-validation-in-javascript-1mgb)
+- [Your First Project in Blup A Step-by-Step Guide in Flutter News 2024 #24 ʚїɞ](https://dev.to/lucianojung/your-first-project-in-blup-a-step-by-step-guide-in-flutter-news-2024-24-eyie-1p1e)
+- [Exploring FTP and SSL/TLS Protocols in Networking: A Comprehensive Guide](https://dev.to/iaadidev/exploring-ftp-and-ssltls-protocols-in-networking-a-comprehensive-guide-1l02)
+- [Getting started with Valkey using JavaScript](https://dev.to/aws/getting-started-with-valkey-using-javascript-3fc9)
+- [Paguina](https://dev.to/walter_sanchez/paguina-1i85)
 <!-- BLOG-POST-LIST:END -->
 
 ---
