@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Heroes of Domain-Driven Design: Prologue](https://dev.to/mateusznowak/heroes-of-domain-driven-design-prologue-f37)
-- [Arquitetura Hexagonal Explicada: como transformar seu desenvolvimento de software](https://dev.to/pmafra/arquitetura-hexagonal-explicada-como-transformar-seu-desenvolvimento-de-software-43d9)
-- [Creation of Resource Group in MS Azure](https://dev.to/kennyig/creation-of-resource-group-in-ms-azure-5f9i)
-- [Career Transition at 31: How I Became a Front-End Developer](https://dev.to/artcodes/career-transition-at-31-how-i-became-a-front-end-developer-2c8l)
-- [Enterprise-Level Authentication in a Containerized Environment for NextJS 13](https://dev.to/ozdemirrulass/enterprise-level-authentication-in-a-containerized-environment-for-nextjs-13-43m3)
+- [UI vs UX: Understanding the Difference](https://dev.to/dev_king_22/ui-vs-ux-understanding-the-difference-4541)
+- [Microservices Architecture](https://dev.to/oloruntobi600/microservices-architecture-2nnp)
+- [2 Tips to make your Github Repository Stand Out](https://dev.to/nhelchitnis/2-tips-to-make-your-github-repository-stand-out-n3k)
+- [Making a Multiplayer WEB RPG - Part 10: Customizing Characters](https://dev.to/orion3d/making-a-multiplayer-web-rpg-part-10-customizing-characters-2nhd)
+- [Heroes of DDD: BEING perspective. What am I?](https://dev.to/mateusznowak/heroes-of-ddd-being-perspective-what-am-i-3jgc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
