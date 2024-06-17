@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Image Optimization and Lazy Loading](https://dev.to/joaopaulo_avila/image-optimization-and-lazy-loading-30gj)
-- [I discovered Rust&#39;s zero-cost abstraction](https://dev.to/ashsajal/i-discovered-rusts-zero-cost-abstraction-akk)
-- [From Noise to Art: Building Your First Generative Adversarial Network](https://dev.to/yuval728/from-noise-to-art-building-your-first-generative-adversarial-network-472o)
-- [Experience the Future of Icon Creation with IconSnap!](https://dev.to/stokry/experience-the-future-of-icon-creation-with-iconsnap-2dmf)
-- [Difference Between Performance Testing, Load Testing, and Stress Testing](https://dev.to/testscenario/difference-between-performance-testing-load-testing-and-stress-testing-29eh)
+- [Day 18 of 30 of JavaScript](https://dev.to/akshat0610/day-18-of-30-of-javascript-1ph8)
+- [In Java how to create a custom ArrayList that doesn&#39;t allow duplicate?](https://dev.to/codegreen/in-java-how-to-create-a-custom-arraylist-that-doesnt-allow-duplicate-dbj)
+- [Error Handling and Testing in Go](https://dev.to/gophers_kisumu/error-handling-and-testing-in-go-4c9n)
+- [Swift 101: Collections part III - Tuples and Dictionaries](https://dev.to/silviaespanagil/swift-101-collections-part-iii-tuples-and-dictionaries-42p0)
+- [Bubble game CSS only](https://dev.to/tidycoder/bubble-game-css-only-2occ)
 <!-- BLOG-POST-LIST:END -->
 
 ---
