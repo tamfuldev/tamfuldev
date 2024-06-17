@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The backdrop-filter CSS property has been unprefixed](https://dev.to/robole/the-backdrop-filter-css-property-has-been-unprefixed-1c82)
-- [Types for React components with children](https://dev.to/zeedu_dev/types-for-react-components-with-children-5d7k)
-- [Best Affordable CRM for Small Business](https://dev.to/salestown/best-affordable-crm-for-small-business-51b1)
-- [8 Best Practices for Secure Financial Software Development](https://dev.to/bhavikachauhan0/8-best-practices-for-secure-financial-software-development-2all)
-- [🤯Deep vs Shallow cloning ???](https://dev.to/__khojiakbar__/deep-vs-shallow-cloning--40ln)
+- [Image Optimization and Lazy Loading](https://dev.to/joaopaulo_avila/image-optimization-and-lazy-loading-30gj)
+- [I discovered Rust&#39;s zero-cost abstraction](https://dev.to/ashsajal/i-discovered-rusts-zero-cost-abstraction-akk)
+- [From Noise to Art: Building Your First Generative Adversarial Network](https://dev.to/yuval728/from-noise-to-art-building-your-first-generative-adversarial-network-472o)
+- [Experience the Future of Icon Creation with IconSnap!](https://dev.to/stokry/experience-the-future-of-icon-creation-with-iconsnap-2dmf)
+- [Difference Between Performance Testing, Load Testing, and Stress Testing](https://dev.to/testscenario/difference-between-performance-testing-load-testing-and-stress-testing-29eh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
