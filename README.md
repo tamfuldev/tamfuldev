@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [UI vs UX: Understanding the Difference](https://dev.to/dev_king_22/ui-vs-ux-understanding-the-difference-4541)
-- [Microservices Architecture](https://dev.to/oloruntobi600/microservices-architecture-2nnp)
-- [2 Tips to make your Github Repository Stand Out](https://dev.to/nhelchitnis/2-tips-to-make-your-github-repository-stand-out-n3k)
-- [Making a Multiplayer WEB RPG - Part 10: Customizing Characters](https://dev.to/orion3d/making-a-multiplayer-web-rpg-part-10-customizing-characters-2nhd)
-- [Heroes of DDD: BEING perspective. What am I?](https://dev.to/mateusznowak/heroes-of-ddd-being-perspective-what-am-i-3jgc)
+- [Data structure](https://dev.to/suhngeun_yang/data-structure-kan)
+- [NestJS and TypeORM — Efficient Schema-Level Multi-Tenancy with Auto Generated Migrations: A DX Approach](https://dev.to/logeek/nestjs-and-typeorm-efficient-schema-level-multi-tenancy-with-auto-generated-migrations-a-dx-approach-jla)
+- [Pyenv para Iniciantes.](https://dev.to/theleanz/pyenv-para-iniciantes-3jkl)
+- [The loss functions for Neural Network in PyTorch](https://dev.to/hyperkai/the-loss-functions-for-neural-network-in-pytorch-hf9)
+- [Data Dynamics: Exploring Information Theory Essentials](https://dev.to/kevinbg012/data-dynamics-exploring-information-theory-essentials-1eoa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
