@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [ABSTRACTION](https://dev.to/ojus_coder/abstraction-4eg7)
-- [Why Contribute to Open Source: Pros and Cons for Beginners](https://dev.to/usulpro/why-contribute-to-open-source-pros-and-cons-for-beginners-5cgm)
-- [Meme Monday](https://dev.to/ben/meme-monday-53am)
-- [How I Reverse-Engineered My CPU Cooler LED Display](https://dev.to/rodpadev/how-i-reverse-engineered-my-cpu-cooler-led-display-2106)
-- [** ¡Imagina lo adorable! Prompts creativos para imágenes tiernas en Copilot**✨🧙‍♀️](https://dev.to/orlidev/-imagina-lo-adorable-prompts-creativos-para-imagenes-tiernas-en-copilot-18ej)
+- [Are we all prompting wrong? Balancing Creativity and Consistency in RAG.](https://dev.to/llmware/are-we-all-prompting-wrong-balancing-creativity-and-consistency-in-rag-20fm)
+- [Machine Learning Roadmap for Beginners &lpar; If you have a Non-CSE background like me😉&rpar;](https://dev.to/shemanto_sharkar/machine-learning-roadmap-for-beginners-if-you-have-a-non-cse-background-like-me-7g3)
+- [Scroll-snap property Exemple](https://dev.to/tidycoder/scroll-snap-property-exemple-20eg)
+- [How I Befriended Segment Trees](https://dev.to/speckoflight/how-i-befriended-segment-trees-4p8a)
+- [Preventing IDM: A Tactical Guide to Protecting Your Video Content on Website](https://dev.to/kareem-khaled/blocking-idm-downloads-a-tactical-guide-to-protecting-your-video-content-on-website-3ilo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
