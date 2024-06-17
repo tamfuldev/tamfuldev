@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Sharing composable state in Vue apps](https://dev.to/jacobandrewsky/sharing-composable-state-in-vue-apps-41l1)
-- [Starting from Scratch in IT in 2024: Things you shouldn&#39;t worry about](https://dev.to/vorniches/starting-from-scratch-in-it-in-2024-things-you-shouldnt-worry-about-4p17)
-- [Associations in EF Core](https://dev.to/muhammad_salem/associations-in-ef-core-14d3)
-- [Decorator Pattern](https://dev.to/muhammad_salem/decorator-pattern-1adl)
-- [Top 9 SwaggerHub Alternatives for API Design and Documentation](https://dev.to/sattyam/top-9-swaggerhub-alternatives-for-api-design-and-documentation-2gdp)
+- [The backdrop-filter CSS property has been unprefixed](https://dev.to/robole/the-backdrop-filter-css-property-has-been-unprefixed-1c82)
+- [Types for React components with children](https://dev.to/zeedu_dev/types-for-react-components-with-children-5d7k)
+- [Best Affordable CRM for Small Business](https://dev.to/salestown/best-affordable-crm-for-small-business-51b1)
+- [8 Best Practices for Secure Financial Software Development](https://dev.to/bhavikachauhan0/8-best-practices-for-secure-financial-software-development-2all)
+- [🤯Deep vs Shallow cloning ???](https://dev.to/__khojiakbar__/deep-vs-shallow-cloning--40ln)
 <!-- BLOG-POST-LIST:END -->
 
 ---
