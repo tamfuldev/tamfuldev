@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Trigger Analogy](https://dev.to/thedigitalbricklayer/a-trigger-analogy-1gkc)
-- [Importance of JPG Images](https://dev.to/msmith99994/importance-of-jpg-images-3ffe)
-- [El estado actual de la IA en LMS de código abierto: Comparación entre Moodle, Canvas, Open edX y Sakai](https://dev.to/jobcespedes/el-estado-actual-de-la-ia-en-lms-de-codigo-abierto-comparacion-entre-moodle-canvas-open-edx-y-sakai-1jl6)
-- [Deploying a &quot;Hello World&quot; Application to AWS Elastic Beanstalk](https://dev.to/prakash_rao/deploying-a-hello-world-application-to-aws-elastic-beanstalk-pag)
-- [The Current State of AI in Open Source LMS: Moodle, Canvas, Open edX, and Sakai Compared](https://dev.to/krestomatio/the-current-state-of-ai-in-open-source-lms-moodle-canvas-open-edx-and-sakai-compared-4e90)
+- [Little Bugs, Big Problems](https://dev.to/mlr/little-bugs-big-problems-59gg)
+- [Deco Hackathon focused on HTMX. Up to $5k in prizes!](https://dev.to/gbrantunes/deco-hackathon-focused-on-htmx-up-to-5k-in-prizes-1g2k)
+- [Food tracker app &lpar;Phase 1/?&rpar; for show how you split your money](https://dev.to/caresle/food-tracker-app-phase-1-for-show-how-you-split-your-money-3p8e)
+- [Ultimate JavaScript Cheatsheet for Developers](https://dev.to/dk119819/ultimate-javascript-cheatsheet-for-developers-43d3)
+- [Super cool portfolio site!](https://dev.to/jgar514/super-cool-portfolio-site-569a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
