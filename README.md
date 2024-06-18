@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Variables &lpar;CSS Custom properties&rpar; for Beginners](https://dev.to/udoka033/css-variables-css-custom-properties-for-beginners-3oha)
-- [GO — Estrutura de projetos](https://dev.to/espigah/go-estrutura-de-projetos-1j0k)
-- [🎉 Celebrating 90 Hours of Coding! 🚀](https://dev.to/zobaidulkazi/celebrating-90-hours-of-coding-3mln)
-- [jjnjnjnj](https://dev.to/abdul_almas_e03ad36f27fa7/jjnjnjnj-18ng)
-- [Understanding White Box Testing: An In-Depth Exploration](https://dev.to/keploy/understanding-white-box-testing-an-in-depth-exploration-3ml)
+- [Python Basics 4: Input Function](https://dev.to/coderanger08/python-basics-4-input-function-5e94)
+- [EXCEPTİON HANDLİNG FOR SHADY PEOPLE WİTH SHADY CODE](https://dev.to/kerkg/exception-handling-for-shady-people-with-shady-code-40pl)
+- [A Thank You ❤️](https://dev.to/magnificode/a-thank-you-3od1)
+- [One Byte Explainer](https://dev.to/danny_monyela_df495ca7abc/one-byte-explainer-2kn4)
+- [Conflict-Free Replicated Data Types &lpar;CRDTs&rpar; in Frontend Development](https://dev.to/syedmuhammadaliraza/conflict-free-replicated-data-types-crdts-in-frontend-development-4nh3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
