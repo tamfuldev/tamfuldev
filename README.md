@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day-15 Task: Python Libraries for DevOps](https://dev.to/oncloud7/day-15-task-python-libraries-for-devops-464o)
-- [Review of the Oldest Project Management Tools](https://dev.to/nicklasmikke1sen/review-of-the-oldest-project-management-tools-3j6h)
-- [Best Productivity Hacks for Developers](https://dev.to/geekflarehq/best-productivity-hacks-for-developers-374h)
-- [Step-by-Step Guide: Random Post in Bear Blog](https://dev.to/yordiverkroost/step-by-step-guide-random-post-in-bear-blog-4ke1)
-- [Action pattern in Laravel 🧩](https://dev.to/perisicnikola37/action-pattern-in-laravel-23e6)
+- [Mastering Environment Variables in Node.js: A Step-by-Step Guide Using DotEnv](https://dev.to/spiritmoney/mastering-environment-variables-in-nodejs-a-step-by-step-guide-using-dotenv-39h9)
+- [Create A Responsive Coffee Website in HTML and CSS](https://dev.to/codingnepal/create-a-responsive-coffee-website-in-html-and-css-1ehm)
+- [8+ Tailwind CSS Alert Examples [Open-Source &amp; Free]](https://dev.to/creativetim_official/8-tailwind-css-alert-examples-open-source-free-25jp)
+- [How to Use List.js with Multiple Filters, Search, and Pagination](https://dev.to/rootviper4/how-to-use-listjs-with-multiple-filters-search-and-pagination-53cm)
+- [The Impossible Blockchain Equation: A Challenge to Developers](https://dev.to/nkianil/the-impossible-blockchain-equation-a-challenge-to-developers-17og)
 <!-- BLOG-POST-LIST:END -->
 
 ---
