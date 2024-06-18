@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [constructor / Errors&lpar;xatolar&rpar;](https://dev.to/bekmuhammaddev/constructor-errorsxatolar-3791)
-- [Mastering Kubernetes Multi-Cluster: Strategies for Improved Availability, Isolation, and Scalability.](https://dev.to/getambassador2024/mastering-kubernetes-multi-cluster-strategies-for-improved-availability-isolation-and-scalability-7gm)
-- [I am having a black screen issue on Linux after changing the Nodejs PATH variable.](https://dev.to/thaisavieira/i-am-having-a-black-screen-issue-on-linux-after-changing-the-nodejs-path-variable-302h)
-- [Real time data pipeline with a single command](https://dev.to/ericzizhouwang/real-time-data-pipeline-with-a-single-command-19nm)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1368)
+- [Munster - Webhooks processing engine for Rails](https://dev.to/skatkov/munster-webhooks-processing-engine-for-rails-2l10)
+- [Day 8 of Machine Learning ||Linear Regression Part 2](https://dev.to/ngneha09/day-8-of-machine-learning-linear-regression-part-2-28i8)
+- [Day 22 of my progress as a vue dev](https://dev.to/zain725342/day-22-of-my-progress-as-a-vue-dev-4ol7)
+- [Top HTML Secrets: Unveiling the Hidden Gems of Web Development by Michael Savage](https://dev.to/savagenewcanaan/top-html-secrets-unveiling-the-hidden-gems-of-web-development-4ael)
+- [How to join tables data already exist in table](https://dev.to/akash_chawan/how-to-join-tables-data-already-exist-in-table-2j80)
 <!-- BLOG-POST-LIST:END -->
 
 ---
