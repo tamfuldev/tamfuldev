@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Environment Variables in Node.js: A Step-by-Step Guide Using DotEnv](https://dev.to/spiritmoney/mastering-environment-variables-in-nodejs-a-step-by-step-guide-using-dotenv-39h9)
-- [Create A Responsive Coffee Website in HTML and CSS](https://dev.to/codingnepal/create-a-responsive-coffee-website-in-html-and-css-1ehm)
-- [8+ Tailwind CSS Alert Examples [Open-Source &amp; Free]](https://dev.to/creativetim_official/8-tailwind-css-alert-examples-open-source-free-25jp)
-- [How to Use List.js with Multiple Filters, Search, and Pagination](https://dev.to/rootviper4/how-to-use-listjs-with-multiple-filters-search-and-pagination-53cm)
-- [The Impossible Blockchain Equation: A Challenge to Developers](https://dev.to/nkianil/the-impossible-blockchain-equation-a-challenge-to-developers-17og)
+- [Lock / Mutex to a CS undergraduate](https://dev.to/sauravshah31/lock-mutex-to-a-cs-undergraduate-59me)
+- [Building a SQL Report Generator using Gemini AI + ToolJet](https://dev.to/tooljet/building-a-sql-report-generator-using-gemini-ai-tooljet-424p)
+- [Summer coding projects](https://dev.to/hppranaav02/summer-coding-projects-2iko)
+- [wc tool in python](https://dev.to/hppranaav02/wc-tool-in-python-3lke)
+- [Automating Well-Architected reviews](https://dev.to/niklaswesterstrahle/automating-well-architected-reviews-2m6c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
