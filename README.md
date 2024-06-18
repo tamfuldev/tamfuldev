@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Constants, Object.freeze, Object.seal and Immutable in JavaScript](https://dev.to/chauhoangminhnguyen/constants-objectfreeze-objectseal-and-immutable-in-javascript-3iha)
-- [The Ultimate Guide to Prisma ORM: Transforming Database Management for Developers](https://dev.to/abhilaksharora/the-ultimate-guide-to-prisma-orm-transforming-database-management-for-developers-470n)
-- [Big O Notation](https://dev.to/userleo/big-o-notation-43pd)
-- [ASCII &lpar;248 chars&rpar;](https://dev.to/userleo/ascii-248-chars-a52)
-- [Como almacenar imágenes de docker en tu propio servidor &lpar;manualmente&rpar;](https://dev.to/oswa/como-almacenar-imagenes-de-docker-en-tu-propio-servidor-manualmente-5e0i)
+- [HTML5 API&#39;s](https://dev.to/kiransm/html5-apis-1dbb)
+- [Stepping into Storage: A Guide to Creating an S3 Bucket and Uploading Files on AWS](https://dev.to/techgirlkaydee/stepping-into-storage-a-guide-to-creating-an-s3-bucket-and-uploading-files-on-aws-2624)
+- [lets-have-fun-with-console-in-javascript ❤](https://dev.to/aryan015/lets-have-fun-with-console-in-javascript-13bd)
+- [Mastering Git-flow development approach: A Beginner’s Guide to a Structured Workflow](https://dev.to/andresordazrs/mastering-git-flow-development-approach-a-beginners-guide-to-a-structured-workflow-31eo)
+- [Automate the renewal of a Let&#39;s Encrypt Certiticate with AWS Batch and Docker](https://dev.to/irisgarden/automate-the-renewal-of-a-lets-encrypt-certiticate-with-aws-batch-and-docker-327c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
