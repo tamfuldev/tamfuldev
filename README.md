@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Authentication Providers in Next.js](https://dev.to/vyan/exploring-authentication-providers-in-nextjs-4nh7)
-- [Top 10 Web3 Grants You Should Know About](https://dev.to/scofieldidehen/top-10-web3-grants-you-should-know-about-ff4)
-- [How to Set Up a Reverse Proxy](https://dev.to/iaadidev/how-to-set-up-a-reverse-proxy-124n)
-- [Unhandled Runtime Error TypeError: Cannot read properties of undefined &lpar;reading &#39;sizes&#39;&rpar;](https://dev.to/muhammad_usman_279dbe6379/unhandled-runtime-errortypeerror-cannot-read-properties-of-undefined-reading-sizes-4071)
-- [Optimizing Cloud Ops for Maximum Efficiency](https://dev.to/brian_bates_5abcb676a549c/optimizing-cloud-ops-for-maximum-efficiency-3o1e)
+- [How to Automatically Approve All Posts in Your Reddit Subreddit](https://dev.to/sh20raj/how-to-automatically-approve-all-posts-in-your-reddit-subreddit-1hmk)
+- [cTop Python Libraries for Data Science in 2024](https://dev.to/sh20raj/ctop-python-libraries-for-data-science-in-2024-2a3f)
+- [Something Crazy about localhost: Unveiling the Inner Workings](https://dev.to/nayanraj-adhikary/something-crazy-about-localhost-unveiling-the-inner-workings-26nn)
+- [Drawing 3D lines in Mapbox with the threebox plugin](https://dev.to/miqwit/drawing-3d-lines-in-mapbox-with-the-threebox-plugin-5b0)
+- [Introducing SCHOL-IN: Simplifying Student Registration](https://dev.to/g87code/introducing-schol-in-simplifying-student-registration-38am)
 <!-- BLOG-POST-LIST:END -->
 
 ---
