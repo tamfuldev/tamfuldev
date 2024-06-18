@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [HTML5 API&#39;s](https://dev.to/kiransm/html5-apis-1dbb)
-- [Stepping into Storage: A Guide to Creating an S3 Bucket and Uploading Files on AWS](https://dev.to/techgirlkaydee/stepping-into-storage-a-guide-to-creating-an-s3-bucket-and-uploading-files-on-aws-2624)
-- [lets-have-fun-with-console-in-javascript ❤](https://dev.to/aryan015/lets-have-fun-with-console-in-javascript-13bd)
-- [Mastering Git-flow development approach: A Beginner’s Guide to a Structured Workflow](https://dev.to/andresordazrs/mastering-git-flow-development-approach-a-beginners-guide-to-a-structured-workflow-31eo)
-- [Automate the renewal of a Let&#39;s Encrypt Certiticate with AWS Batch and Docker](https://dev.to/irisgarden/automate-the-renewal-of-a-lets-encrypt-certiticate-with-aws-batch-and-docker-327c)
+- [Exploring Authentication Providers in Next.js](https://dev.to/vyan/exploring-authentication-providers-in-nextjs-4nh7)
+- [Top 10 Web3 Grants You Should Know About](https://dev.to/scofieldidehen/top-10-web3-grants-you-should-know-about-ff4)
+- [How to Set Up a Reverse Proxy](https://dev.to/iaadidev/how-to-set-up-a-reverse-proxy-124n)
+- [Unhandled Runtime Error TypeError: Cannot read properties of undefined &lpar;reading &#39;sizes&#39;&rpar;](https://dev.to/muhammad_usman_279dbe6379/unhandled-runtime-errortypeerror-cannot-read-properties-of-undefined-reading-sizes-4071)
+- [Optimizing Cloud Ops for Maximum Efficiency](https://dev.to/brian_bates_5abcb676a549c/optimizing-cloud-ops-for-maximum-efficiency-3o1e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
