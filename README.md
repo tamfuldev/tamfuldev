@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SQLynx - Best Web-Based SQL Editor for Developers and Data Analysts](https://dev.to/concerate/sqlynx-best-web-based-sql-editor-for-developers-and-data-analysts-1p0f)
-- [Day 973 : Deal With That](https://dev.to/dwane/day-973-deal-with-that-2d78)
-- [Hashing](https://dev.to/valentintt/hashing-318p)
-- [PNG to JPG: Optimizing Your Image Formats](https://dev.to/msmith99994/png-to-jpg-optimizing-your-image-formats-3ogd)
-- [Nuxt + ESLint 9 + TypeScript + Prettier - Configuration Guide 2024](https://dev.to/jeanjavi/nuxt-eslint-9-typescript-prettier-configuration-guide-2024-4h2c)
+- [Tutorial de instalação do Storybook com Tailwind](https://dev.to/gustavoacaetano/tutorial-de-instalacao-do-storybook-com-tailwind-324l)
+- [Welcome Thread - v281](https://dev.to/devteam/welcome-thread-v281-5fc7)
+- [Working with Modules and NPM in Node.js 🚀](https://dev.to/erasmuskotoka/working-with-modules-and-npm-in-nodejs-26o)
+- [SemVer - Versionamento de Código: Princípios e Práticas](https://dev.to/thiagohnrt/semver-versionamento-de-codigo-principios-e-praticas-3aok)
+- [Firebase Authentication With Jetpack Compose. Part 1](https://dev.to/evgensuit/firebase-authentication-with-jetpack-compose-part-1-3k82)
 <!-- BLOG-POST-LIST:END -->
 
 ---
