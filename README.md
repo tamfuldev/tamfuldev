@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Tutorial de instalação do Storybook com Tailwind](https://dev.to/gustavoacaetano/tutorial-de-instalacao-do-storybook-com-tailwind-324l)
-- [Welcome Thread - v281](https://dev.to/devteam/welcome-thread-v281-5fc7)
-- [Working with Modules and NPM in Node.js 🚀](https://dev.to/erasmuskotoka/working-with-modules-and-npm-in-nodejs-26o)
-- [SemVer - Versionamento de Código: Princípios e Práticas](https://dev.to/thiagohnrt/semver-versionamento-de-codigo-principios-e-praticas-3aok)
-- [Firebase Authentication With Jetpack Compose. Part 1](https://dev.to/evgensuit/firebase-authentication-with-jetpack-compose-part-1-3k82)
+- [Challenge twilio](https://dev.to/yhordic/challenge-twilio-554o)
+- [Learn to Build a GitHub Repository Showcase Using HTML, CSS, and JavaScript](https://dev.to/dk119819/learn-to-build-a-github-repository-showcase-using-html-css-and-javascript-3bbo)
+- [S3 File uploader project](https://dev.to/caresle/s3-file-uploader-project-d3f)
+- [Open Successfully iOS Simulator with React Native &amp; Expo](https://dev.to/arielmejiadev/open-successfully-ios-simulator-with-react-native-expo-472b)
+- [The Halting Problem](https://dev.to/damari/the-halting-problem-2o4a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
