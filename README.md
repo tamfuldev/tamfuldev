@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[DAY 57-59] I learned React &amp; Redux](https://dev.to/thomascansino/day-57-59-i-learned-react-redux-157h)
-- [A refresher on GitHub Pages](https://dev.to/nfrankel/a-refresher-on-github-pages-20b8)
-- [Why Choose a JS Gantt Library? Advantages and Use Cases](https://dev.to/lenormor/why-choose-a-js-gantt-library-advantages-and-use-cases-58n3)
-- [Essential Debugging Techniques for Network and Service Connectivity](https://dev.to/saniyathossain/essential-debugging-techniques-for-network-and-service-connectivity-55ei)
-- [Semaphore - The Traffic Signals of Concurrency](https://dev.to/shoyebwritescode/semaphore-the-traffic-signals-of-concurrency-5dke)
+- [GNDC &lpar;Grand Nord Developers Community&rpar;](https://dev.to/samglish/gndc-grand-nord-developers-community-4fn3)
+- [Looking to Build Your 1st Headless or JamStack site?](https://dev.to/alangleeson/looking-to-build-your-1st-headless-or-jamstack-site-2dni)
+- [Difference between Software Engineering and System Engineering](https://dev.to/pushpendra_sharma_f1d2cbe/difference-between-software-engineering-and-system-engineering-2p0)
+- [Creating and Working with Records in C# 📹](https://dev.to/bytehide/creating-and-working-with-records-in-c-47io)
+- [The Fastest Way to Download from Amazon S3 &lpar;using Raycast&rpar;](https://dev.to/aws-builders/the-fastest-way-to-download-from-amazon-s3-using-raycast-1d40)
 <!-- BLOG-POST-LIST:END -->
 
 ---
