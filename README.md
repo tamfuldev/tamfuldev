@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [[DAY 57-59] I learned React &amp; Redux](https://dev.to/thomascansino/day-57-59-i-learned-react-redux-157h)
 - [A refresher on GitHub Pages](https://dev.to/nfrankel/a-refresher-on-github-pages-20b8)
-- [Why Can’t Robots Click The “I’m Not a Robot” Box On Websites?](https://dev.to/safdarali/why-cant-robots-click-the-im-not-a-robot-box-on-websites-2bo5)
-- [Database generated events: LiveSync’s database connector vs CDC](https://dev.to/ably/database-generated-events-livesyncs-database-connector-vs-cdc-lhk)
-- [Making Memories Last: Gift Box Manufacturer Ensuring Durability](https://dev.to/barret_riendeaumdhj_eea4/making-memories-last-gift-box-manufacturer-ensuring-durability-2dbd)
-- [How to avoid the outline being blocked when hovering the pie chart sector?](https://dev.to/xuefei1313/how-to-avoid-the-outline-being-blocked-when-hovering-the-pie-chart-sector-34fe)
+- [Why Choose a JS Gantt Library? Advantages and Use Cases](https://dev.to/lenormor/why-choose-a-js-gantt-library-advantages-and-use-cases-58n3)
+- [Essential Debugging Techniques for Network and Service Connectivity](https://dev.to/saniyathossain/essential-debugging-techniques-for-network-and-service-connectivity-55ei)
+- [Semaphore - The Traffic Signals of Concurrency](https://dev.to/shoyebwritescode/semaphore-the-traffic-signals-of-concurrency-5dke)
 <!-- BLOG-POST-LIST:END -->
 
 ---
