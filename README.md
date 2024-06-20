@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [10 Hidden AI Tools Every Developer Should Know About](https://dev.to/delia_code/10-hidden-ai-tools-every-developer-should-know-about-36gf)
-- [Ultimate Guide to Effective Project Progress Communication with Top Management](https://dev.to/futuristicgeeks/ultimate-guide-to-effective-project-progress-communication-with-top-management-10id)
-- [Boost Your Coding Efficiency: 10 Productivity Tips for Developers](https://dev.to/delia_code/boost-your-coding-efficiency-10-productivity-tips-for-developers-2b45)
-- [Salah reminder Apple Shortcuts in Bahasa Indonesia](https://dev.to/azet/salah-reminder-in-bahasa-indonesia-1036)
-- [Setting up NVIDIA stuff on Pop!_OS](https://dev.to/tallesl/setting-up-nvidia-stuff-on-popos-3o17)
+- [Unravelling P vs NP: How This Unsolved Problem Influences the Future of AI with Quantum Computing](https://dev.to/sanukhandev/unravelling-p-vs-np-how-this-unsolved-problem-influences-the-future-of-ai-with-quantum-computing-37c3)
+- [5G Service Communication Proxy with LoxiLB](https://dev.to/nikhilmalik/5g-service-communication-proxy-with-loxilb-4242)
+- [How to Leverage Solana for Meme Coin Development?](https://dev.to/annakodi12/how-to-leverage-solana-for-meme-coin-development-3kp7)
+- [The Resilient Professional](https://dev.to/jobreadyprogrammer/the-resilient-professional-3pjh)
+- [BVT Testing: Everything You Need To Know](https://dev.to/morrismoses149/bvt-testing-everything-you-need-to-know-m85)
 <!-- BLOG-POST-LIST:END -->
 
 ---
