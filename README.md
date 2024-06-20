@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [變數的有效範圍 &lpar;scope&rpar; 與生命週期 &lpar;life time&rpar;](https://dev.to/codemee/bian-shu-de-you-xiao-fan-wei-scope-yu-sheng-ming-zhou-qi-life-time-2h3l)
-- [考古--operator 為什麼翻譯為『運算子』](https://dev.to/codemee/kao-gu-operator-wei-shi-mo-fan-yi-wei-yun-suan-zi--2d9m)
-- [Stay Updated with Python/FastAPI/Django: Weekly News Summary &lpar;10/06/2024–16/06/2024&rpar;](https://dev.to/poovarasu/stay-updated-with-pythonfastapidjango-weekly-news-summary-10062024-16062024-2c4c)
-- [Stay Updated with PHP/Laravel: Weekly News Summary &lpar;10/06/2024–16/06/2024&rpar;](https://dev.to/poovarasu/stay-updated-with-phplaravel-weekly-news-summary-10062024-16062024-1p48)
-- [Item 36: Use a classe EnumSet em vez dos campos de bits](https://dev.to/giselecoder/item-36-use-a-classe-enumset-em-vez-dos-campos-de-bits-1gh6)
+- [Exploring AI-Assisted UI Development: Lessons from Creating a Hacker News Clone](https://dev.to/spencertower/exploring-ai-assisted-ui-development-lessons-from-creating-a-hacker-news-clone-1nne)
+- [EC2 Snapshot Management: How to get AWS EC2 Snapshot Information with Python](https://dev.to/aws-builders/ec2-snapshot-management-how-to-get-aws-ec2-snapshot-information-with-python-753)
+- [Essential HTTP Status Codes Every Web Developer Should Know](https://dev.to/vyan/essential-http-status-codes-every-web-developer-should-know-2gnd)
+- [🕒 Understanding the Event Loop and Concurrency Model in JavaScript](https://dev.to/dipakahirav/understanding-the-event-loop-and-concurrency-model-in-javascript-1ml2)
+- [Understanding Zod: A Comprehensive Guide to Schema Validation in JavaScript/Typescript](https://dev.to/abhilaksharora/understanding-zod-a-comprehensive-guide-to-schema-validation-in-javascripttypescript-171k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
