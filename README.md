@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Google Youtube Codepen icons+search inputs &lpar;only CSS&rpar;](https://dev.to/tidycoder/google-youtube-codepen-iconssearch-inputs-only-css-4fjf)
-- [Async/await and SwiftUI](https://dev.to/ishouldhaveknown/asyncawait-and-swiftui-3b2h)
-- [Stable Diffusion 3 Medium: Unleashing Photorealistic AI Art on Consumer PCs](https://dev.to/hyscaler/stable-diffusion-3-medium-unleashing-photorealistic-ai-art-on-consumer-pcs-4efn)
-- [Project Loom: New Java Virtual Threads](https://dev.to/jusufoski/project-loom-new-java-virtual-threads-39m2)
-- [Java Testing Frameworks and Best Practices &lpar;2024&rpar;](https://dev.to/zoltan_fehervari_52b16d1d/java-testing-frameworks-and-best-practices-2024-n8j)
+- [What is Simulcasting?](https://dev.to/alakkadshaw/what-is-simulcasting-nb3)
+- [How to handle user input in a React Native application](https://dev.to/chariesdevil/how-to-handle-user-input-in-a-react-native-application-3dpf)
+- [Deploy ReactJs website on Apache server &lpar;Hostgator&rpar; with Vite](https://dev.to/luiztux/deploy-reactjs-website-on-apache-server-hostgator-with-vite-jl6)
+- [How to Maintain Physical Health with a Sedentary Job](https://dev.to/techstuff/how-to-maintain-physical-health-with-a-sedentary-job-2hgm)
+- [Mastering Asynchronous JavaScript with Generators: Comprehensive Tutorial](https://dev.to/chintanonweb/mastering-asynchronous-javascript-with-generators-comprehensive-tutorial-53b2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
