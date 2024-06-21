@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The RSA Algorithm](https://dev.to/achilles_68b2e35472911b34/the-rsa-algorithm-23ed)
-- [The Ultimate Guide to Essential SEO Elements](https://dev.to/gohil1401/the-ultimate-guide-to-essential-seo-elements-4gcn)
-- [Understanding JavaScript Promises](https://dev.to/just_ritik/understanding-javascript-promises-2eib)
-- [Crafting Clarity: A Journey into the World of Clean Code Code Needs Care!🤯](https://dev.to/rowan_ibrahim/crafting-clarity-a-journey-into-the-world-of-clean-codecode-needs-care-32mi)
-- [Comparing CI/CD Tools](https://dev.to/shipyard/comparing-cicd-tools-32kb)
+- [What is a Ledger and Why Floating Points Are Not Recommended?](https://dev.to/woovi/what-is-a-ledger-and-why-floating-points-are-not-recommended-1f4l)
+- [Documentar tu proyecto ASP.Net y mostrarlo como un formulario mas](https://dev.to/re-al-/documentar-tu-proyecto-aspnet-y-mostrarlo-como-un-formulario-mas-1na1)
+- [HOW TO CREATE AND CONNECT TO A LINUX VM USING A PUBLIC KEY](https://dev.to/presh1/how-to-create-and-connect-to-a-linux-vm-using-a-public-key-2h1h)
+- [#TestInPublic: Charty App](https://dev.to/ashleygraf_/testinpublic-charty-app-151a)
+- [OpenLDAP con CSharp](https://dev.to/re-al-/openldap-con-csharp-3h8n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
