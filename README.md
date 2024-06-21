@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why CLIs are STILL important](https://dev.to/cyclops-ui/why-clis-are-still-important-425a)
-- [Path To A Clean&lpar;er&rpar; React Architecture &lpar;Part 6&rpar; - Business Logic Separation](https://dev.to/jkettmann/path-to-a-cleaner-react-architecture-part-6-business-logic-separation-221g)
-- [Big O Notation](https://dev.to/kl13nt/big-o-notation-1id1)
-- [Asynchronous JavaScript: Callbacks, Promises, and Async/Await](https://dev.to/johnnyk/asynchronous-javascript-callbacks-promises-and-asyncawait-57ei)
-- [Criando aplicação multi-idioma no Flutter](https://dev.to/adryannekelly/criando-aplicacao-multi-idioma-no-flutter-3jao)
+- [Seamless State Management using Async Iterators](https://dev.to/matatbread/seamless-state-management-using-async-iterators-fp7)
+- [Static in C# - Part 1](https://dev.to/locnguyenpv/static-in-c-part-1-51h1)
+- [How to Create and Connect to a Linux VM Using a Public Key](https://dev.to/florence_8042063da11e29d1/how-to-create-and-connect-to-a-linux-vm-using-a-public-key-if3)
+- [Code Your Way to Freedom: A Hard-Earned Guide](https://dev.to/trae_z/code-your-way-to-freedom-a-hard-earned-guide-2k39)
+- [How to Set Up Solargraph in VS Code with WSL2](https://dev.to/lucasldemello/how-to-set-up-solargraph-in-vs-code-with-wsl2-283b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
