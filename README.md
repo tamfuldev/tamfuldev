@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Step Functions](https://dev.to/vidhey071/aws-step-functions-15bl)
-- [How to Integrate Plyr.io&#39;s Video Player with Custom Controls](https://dev.to/sh20raj/how-to-integrate-plyrios-video-player-with-custom-controls-10jp)
-- [Dear engineer, stop trying to do marketing](https://dev.to/jenwikehuger/dear-engineer-stop-trying-to-do-marketing-p75)
-- [AWS Certification Quiz 7](https://dev.to/vidhey071/aws-certification-quiz-507a)
-- [AWS for Games Learning Plan](https://dev.to/vidhey071/aws-for-games-learning-plan-ahe)
+- [Exploring Destructuring in JavaScript](https://dev.to/ddebajyati/exploring-destructuring-in-javascript-5a24)
+- [AWS Storage](https://dev.to/vidhey071/aws-storage-196c)
+- [Namaste Your Way to Wellness: AI-Powered Yoga Recommendations](https://dev.to/engineeredsoul/namaste-your-way-to-wellness-ai-powered-yoga-recommendations-2n3p)
+- [10 Best Tools for Secure and Efficient File Sharing in 2024](https://dev.to/sh20raj/10-best-tools-for-secure-and-efficient-file-sharing-in-2024-1hh2)
+- [Participe da maior competição de IA do Brasil!](https://dev.to/guiachcar/participe-da-maior-competicao-de-ia-do-brasil-47n4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
