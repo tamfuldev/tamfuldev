@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Go from one page to another with javascript](https://dev.to/raz41/go-from-one-page-to-another-with-javascript-dil)
-- [Pure Functions in Next.js](https://dev.to/sabermekki/pure-functions-in-nextjs-4ni4)
-- [🚀 API Maker : Release Notes for v1.6.0](https://dev.to/apimaker/api-maker-release-notes-for-v160-5786)
-- [Data Migration from GaussDB to GBase8a](https://dev.to/congcong/data-migration-from-gaussdb-to-gbase8a-8b7)
-- [Data Migration from GaussDB to GBase8a](https://dev.to/congcong/data-migration-from-gaussdb-to-gbase8a-4dfc)
+- [Why CLIs are STILL important](https://dev.to/cyclops-ui/why-clis-are-still-important-425a)
+- [Path To A Clean&lpar;er&rpar; React Architecture &lpar;Part 6&rpar; - Business Logic Separation](https://dev.to/jkettmann/path-to-a-cleaner-react-architecture-part-6-business-logic-separation-221g)
+- [Big O Notation](https://dev.to/kl13nt/big-o-notation-1id1)
+- [Asynchronous JavaScript: Callbacks, Promises, and Async/Await](https://dev.to/johnnyk/asynchronous-javascript-callbacks-promises-and-asyncawait-57ei)
+- [Criando aplicação multi-idioma no Flutter](https://dev.to/adryannekelly/criando-aplicacao-multi-idioma-no-flutter-3jao)
 <!-- BLOG-POST-LIST:END -->
 
 ---
