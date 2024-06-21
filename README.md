@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [LeetCode Day 13 Binary Tree Part 4](https://dev.to/flame_chan_llll/leetcode-day-13-binary-tree-part-4-3dbm)
-- [What is Recursion ?](https://dev.to/snehabn3012/what-is-recursion--ij5)
-- [AWS Billing and Cost Management](https://dev.to/vidhey071/aws-billing-and-cost-management-2ib5)
-- [Building a production system with Generative AI](https://dev.to/ejb503/building-a-production-system-with-generative-ai-1k66)
-- [Nations attacking their own internet &lpar;to stop cheating on exams&rpar;](https://dev.to/peter/nations-attacking-their-own-internet-to-stop-cheating-on-exams-4f6c)
+- [AWS Step Functions](https://dev.to/vidhey071/aws-step-functions-15bl)
+- [How to Integrate Plyr.io&#39;s Video Player with Custom Controls](https://dev.to/sh20raj/how-to-integrate-plyrios-video-player-with-custom-controls-10jp)
+- [Dear engineer, stop trying to do marketing](https://dev.to/jenwikehuger/dear-engineer-stop-trying-to-do-marketing-p75)
+- [AWS Certification Quiz 7](https://dev.to/vidhey071/aws-certification-quiz-507a)
+- [AWS for Games Learning Plan](https://dev.to/vidhey071/aws-for-games-learning-plan-ahe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
