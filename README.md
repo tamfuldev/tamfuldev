@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Flashback in GBase 8c for Data Consistency](https://dev.to/congcong/flashback-in-gbase-8c-for-data-consistency-hgk)
-- [Why You Should Focus On One Programming Language](https://dev.to/thekarlesi/why-you-should-focus-on-one-programming-language-1ed2)
-- [How to play audio with React](https://dev.to/uralys/how-to-play-audio-with-react-ifj)
-- [Building a personal blog with Next.js and Notion](https://dev.to/khaleo/building-a-personal-blog-with-nextjs-and-notion-49mo)
-- [Developer Experience is essential for DevOps success](https://dev.to/jerdog/developer-experience-is-essential-for-devops-success-18nc)
+- [Top 10 Cybersecurity Tools. Effective open-source.](https://dev.to/litlyx/top-10-cybersecurity-tools-effective-open-source-35ak)
+- [File Performance Issues](https://dev.to/esproc_spl/file-performance-issues-1m0k)
+- [I wrote code to generate fixtures for Zone01 Kisumu&#39;s Go Foosball League.](https://dev.to/zone01kisumu/i-wrote-code-to-generate-fixtures-for-zone01-kisumus-go-foosball-league-p9o)
+- [The Ultimate Guide to Transforming Anxiety into Triumph with #Go](https://dev.to/zone01kisumu/the-ultimate-guide-to-transforming-anxiety-into-triumph-with-go-2n35)
+- [Recursion is king.](https://dev.to/luan_jubica/recursion-is-king-39fj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
