@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Should you really Roll your own auth?](https://dev.to/devlawrence/should-you-really-roll-your-own-auth-4dj)
-- [Entendendo as Nomenclaturas getBy..., findBy... e queryBy... no Jest](https://dev.to/vitorrios1001/entendendo-as-nomenclaturas-getby-findby-e-queryby-no-jest-2ni4)
-- [Modelo de Desing de Aplicações Backend](https://dev.to/brunobrolesi/modelo-de-desing-de-aplicacoes-backend-47jp)
-- [MICROSOFT APPLIED SKILL. Guided Project:](https://dev.to/sethgiddy/microsoft-applied-skill-guided-project-4ci9)
-- [Understanding the Factory Method Design Pattern](https://dev.to/bilelsalemdev/understanding-the-factory-method-design-pattern-45gk)
+- [Understanding @Primary in Spring](https://dev.to/tiuwill/understanding-primary-in-spring-54dm)
+- [Understanding Context API in ReactJS Made Simple](https://dev.to/dk119819/understanding-context-api-in-reactjs-made-simple-53hp)
+- [Greedy Algorithm](https://dev.to/pains_arch/greedy-algorithm-10c1)
+- [Automating Windows Display Settings](https://dev.to/juanjosada/automating-windows-display-settings-1c6f)
+- [Flexibility Meets Structure: Evolving Document Database Schemas with Fauna](https://dev.to/nosqlknowhow/flexibility-meets-structure-evolving-document-database-schemas-with-fauna-5bif)
 <!-- BLOG-POST-LIST:END -->
 
 ---
