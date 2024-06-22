@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Elanat CMS 2.2 Released - Under .NET Core](https://dev.to/elanatframework/elanat-cms-22-released-under-net-core-5fmm)
-- [Entity Framework e SQL Server](https://dev.to/ebagabe/entity-framework-e-sql-server-4eif)
-- [The Power of Schema Markup: Enhancing SEO and Visibility](https://dev.to/gohil1401/the-power-of-schema-markup-enhancing-seo-and-visibility-2p9j)
-- [Using the KingFisher library in iOS development.](https://dev.to/codebymattz/using-the-kingfisher-library-in-ios-development-11ph)
-- [Tensorman: TensorFlow with CUDA Made Easy](https://dev.to/tallesl/tensorman-tensorflow-with-cuda-made-easy-48km)
+- [Django Basics: A Comprehensive Guide](https://dev.to/kihuni/django-basics-a-comprehensive-guide-4dhl)
+- [SOLID PRIINCIPLES](https://dev.to/dev_eze/solid-priinciples-g5c)
+- [More accessible line graphs](https://dev.to/emmadawsondev/more-accessible-line-graphs-3dli)
+- [KUMMEE QARCOO](https://dev.to/jonse_ketela_b13c463d2acf/kummee-qarcoo-3n9i)
+- [How a newsletter system can save you time](https://dev.to/disane/how-a-newsletter-system-can-save-you-time-4bam)
 <!-- BLOG-POST-LIST:END -->
 
 ---
