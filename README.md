@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Telnet multiple hosts with telnetlib3](https://dev.to/tinhtq97/telnet-multiple-hosts-with-telnetlib3-55bi)
-- [Amazon S3](https://dev.to/vidhey071/amazon-s3-21bn)
-- [Deep Dive with Security: AWS IAM](https://dev.to/vidhey071/deep-dive-with-security-aws-iam-51gk)
-- [Dive Into the Heart of Operating Systems with &quot;Operating Systems: From 0 to 1&quot; 🖥️](https://dev.to/getvm/dive-into-the-heart-of-operating-systems-with-operating-systems-from-0-to-1-1co3)
-- [Enhance PhpStorm File Templates with Velocity 🧪](https://dev.to/chemix/enhance-phpstorm-file-templates-with-velocity-4n1g)
+- [AWS Database Offerings](https://dev.to/vidhey071/aws-database-offerings-5f25)
+- [AWS Certified Solutions Architect - Professional](https://dev.to/vidhey071/aws-certified-solutions-architect-professional-2p27)
+- [Simplifying Persistent Storage in Kubernetes: A Deep Dive into PVs, PVCs, and SCs](https://dev.to/piyushbagani15/simplifying-persistent-storage-in-kubernetes-a-deep-dive-into-pvs-pvcs-and-scs-1p3c)
+- [AWS Security, Identity and Compliance](https://dev.to/vidhey071/aws-security-identity-and-compliance-2121)
+- [Database Migration](https://dev.to/vidhey071/database-migration-33ej)
 <!-- BLOG-POST-LIST:END -->
 
 ---
