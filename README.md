@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Make a Flowchart](https://dev.to/fridaymeng/how-to-make-a-flowchart-383m)
-- [Level Up Your Customer Support With Telinga API, Twilio APIs &amp; Gemini AI](https://dev.to/onwuagba/level-up-your-customer-support-with-telinga-api-twilio-apis-gemini-ai-3kfc)
-- [Using yup to build schema with value parsing and validation.](https://dev.to/belloshehu/using-yup-to-build-schema-with-value-parsing-and-validation-7if)
-- [Enhancing React Apps: Server Image Preview Component](https://dev.to/amritapadhy/enhancing-react-apps-server-image-preview-component-1pn0)
-- [Pass by Mystery: Unraveling Value Changes in Go](https://dev.to/go-dev-001/pass-by-mystery-unraveling-value-changes-in-go-3o2p)
+- [Telnet multiple hosts with telnetlib3](https://dev.to/tinhtq97/telnet-multiple-hosts-with-telnetlib3-55bi)
+- [Amazon S3](https://dev.to/vidhey071/amazon-s3-21bn)
+- [Deep Dive with Security: AWS IAM](https://dev.to/vidhey071/deep-dive-with-security-aws-iam-51gk)
+- [Dive Into the Heart of Operating Systems with &quot;Operating Systems: From 0 to 1&quot; 🖥️](https://dev.to/getvm/dive-into-the-heart-of-operating-systems-with-operating-systems-from-0-to-1-1co3)
+- [Enhance PhpStorm File Templates with Velocity 🧪](https://dev.to/chemix/enhance-phpstorm-file-templates-with-velocity-4n1g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
