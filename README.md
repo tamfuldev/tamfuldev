@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [การสร้างผู้ใช้งาน และให้สิทธิความเป็นเจ้าของฐานข้อมูล PostgreSQL บน Ubuntu](https://dev.to/everthing-was-postgres/kaarsraangphuuaichngaan-aelaaihsiththikhwaamepnecchaakhngthaankhmuul-postgresql-bn-ubuntu-9pk)
-- [Troubleshooting ContainerCreating Status in Kubernetes with Karpenter](https://dev.to/fernandomullerjr/troubleshooting-containercreating-status-in-kubernetes-with-karpenter-1np8)
-- [How to See Performance of a React App: Different Ways](https://dev.to/vyan/how-to-see-performance-of-a-react-app-different-ways-472p)
-- [Death Calculator](https://dev.to/vinkalprajapati/death-calculator-dmp)
-- [Day 4 of 90 Days of DevOps: Resetting the Jenkins Password on Windows and Setting Up CI with Jenkins](https://dev.to/arbythecoder/day-4-of-90-days-of-devops-resetting-the-jenkins-password-on-windows-and-setting-up-ci-with-jenkins-1n9j)
+- [Showcase Your Achievements Securely with CertiFolio 🚀](https://dev.to/priyanshuverma/showcase-your-achievements-securely-with-certifolio-42af)
+- [onClick={someFunction} VS onClick={&lpar;&rpar;=&gt;someFunction}](https://dev.to/itric/onclicksomefunction-vs-onclicksomefunction-5d1i)
+- [Angular CDK Tutorial: Accordion Module](https://dev.to/brianmtreese/angular-cdk-tutorial-accordion-module-c11)
+- [Taming Feature Flags with AWS AppConfig: A Comprehensive Guide](https://dev.to/virajlakshitha/taming-feature-flags-with-aws-appconfig-a-comprehensive-guide-19g)
+- [AddGraph supports straight line connection, curve connection, and polyline connection](https://dev.to/fridaymeng/addgraph-supports-straight-line-connection-curve-connection-and-polyline-connection-13mf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
