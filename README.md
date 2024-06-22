@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AVIF vs JPG: A Comparative Analysis](https://dev.to/msmith99994/avif-vs-jpg-a-comparative-analysis-372j)
-- [Solution for Render.com Web services spin down due to inactivity.](https://dev.to/harshgit98/solution-for-rendercom-web-services-spin-down-due-to-inactivity-2h8i)
-- [Feedback : Using embedded python daily for more than 2 years](https://dev.to/intersystems/feedback-using-embedded-python-daily-for-more-than-2-years-3f4g)
-- [nav-bar](https://dev.to/myvoice/nav-bar-5ae0)
-- [Generating meaningful test data using Gemini](https://dev.to/intersystems/generating-meaningful-test-data-using-gemini-33em)
+- [O que é Blochchain e como a tecnologia funciona?](https://dev.to/starch1/o-que-e-blochchain-e-como-a-tecnologia-funciona-24b0)
+- [Excited to Join and Learn: My Journey in Tech](https://dev.to/ruturajj/excited-to-join-and-learn-my-journey-in-tech-59b9)
+- [javascript exeuction context](https://dev.to/mhmd-salah/javascript-exeuction-context-12le)
+- [Enable Touch ID Authentication for sudo on macOS Sonoma 14.x](https://dev.to/siddhantkcode/enable-touch-id-authentication-for-sudo-on-macos-sonoma-14x-4d28)
+- [Leave Switch Behind: The Power of Maps and Patterns in JavaScript Development](https://dev.to/waelhabbal/leave-switch-behind-the-power-of-maps-and-patterns-in-javascript-development-2hhj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
