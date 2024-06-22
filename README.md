@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [4 useState Mistakes You Should Avoid in React🚫](https://dev.to/safdarali/4-usestate-mistakes-you-should-avoid-in-react-1ol0)
-- [Firebase Authentication: Are you truly secure?](https://dev.to/oyegoke/firebase-authentication-are-you-truly-secure-1bo4)
-- [[Game of Purpose] Day 34](https://dev.to/humberd/game-of-purpose-day-34-47j4)
-- [Networking and Sockets: Syn and Accept queue](https://dev.to/douglasmakey/networking-and-sockets-syn-and-accept-queue-1lgn)
-- [Project Stage-3: Error Analysis](https://dev.to/yuktimulani/project-stage-3-error-analysis-3lm4)
+- [GIF to JPG: Transitioning Between Image Formats](https://dev.to/msmith99994/gif-to-jpg-transitioning-between-image-formats-2e28)
+- [Discover the Heart of Ethical Software Development: Principles, Practices, and Real-World Examples](https://dev.to/andresordazrs/discover-the-heart-of-ethical-software-development-principles-practices-and-real-world-examples-2eb)
+- [How To Create And Connect To A Linux Virtual Machine Using A Public Key](https://dev.to/romanus_onyekwere/how-to-create-and-connect-to-a-linux-virtual-machine-using-a-public-key-53dc)
+- [A Pause in the Grind: Reflecting on the Journey of My Heart](https://dev.to/generosiie/a-pause-in-the-grind-reflecting-on-the-journey-of-my-heart-1h6o)
+- [Highlights from Day 1 of CascadiaJS 2024](https://dev.to/agagag/unveiling-the-future-highlights-from-day-1-of-cascadiajs-2024-2kib)
 <!-- BLOG-POST-LIST:END -->
 
 ---
