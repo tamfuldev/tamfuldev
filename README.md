@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Deep Dive on AWS Clean Rooms with Integration to AWS Glue](https://dev.to/aws-builders/deep-dive-on-aws-clean-rooms-with-integration-to-aws-glue-3dbf)
-- [5 Reasons Why You Are Losing Hackathons](https://dev.to/code42cate/5-reasons-why-you-are-losing-hackathons-4k70)
-- [Resolving Log Permission Issues in Laravel](https://dev.to/fernandomullerjr/resolving-log-permission-issues-in-laravel-2mko)
-- [Delete Documents, Drop Collection in MongoDB](https://dev.to/kawsarkabir/delete-documents-drop-collection-in-mongodb-4i09)
-- [Count Number of Nice Subarrays](https://dev.to/zeeshanali0704/count-number-of-nice-subarrays-3id2)
+- [docker config auths reverse engineering](https://dev.to/malikbenkirane/docker-config-auths-reverse-engineering-b02)
+- [Exclusive Free eBook: Mastering Solidity and Ethereum Development](https://dev.to/superxdev/exclusive-free-ebook-master-solidity-and-ethereum-development-2ajo)
+- [Reusable React Hook Form](https://dev.to/nisharga_kabir/reusable-react-hook-form-dmb)
+- [Troubleshooting HP Printer in Error State or Showing Offline](https://dev.to/printerhelp247/troubleshooting-hp-printer-in-error-state-or-showing-offline-2ddj)
+- [Building an Eventbrite Clone with Python: Step-by-Step Guide](https://dev.to/gauravkanabar/building-an-eventbrite-clone-with-python-step-by-step-guide-5bk1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
