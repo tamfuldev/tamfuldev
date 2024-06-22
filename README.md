@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [docker config auths reverse engineering](https://dev.to/malikbenkirane/docker-config-auths-reverse-engineering-b02)
-- [Exclusive Free eBook: Mastering Solidity and Ethereum Development](https://dev.to/superxdev/exclusive-free-ebook-master-solidity-and-ethereum-development-2ajo)
-- [Reusable React Hook Form](https://dev.to/nisharga_kabir/reusable-react-hook-form-dmb)
-- [Troubleshooting HP Printer in Error State or Showing Offline](https://dev.to/printerhelp247/troubleshooting-hp-printer-in-error-state-or-showing-offline-2ddj)
-- [Building an Eventbrite Clone with Python: Step-by-Step Guide](https://dev.to/gauravkanabar/building-an-eventbrite-clone-with-python-step-by-step-guide-5bk1)
+- [10 Modern JavaScript Features You Should Be Using Today](https://dev.to/delia_code/10-modern-javascript-features-you-should-be-using-today-4aem)
+- [Mastering Gradients in CSS: A Beginner&#39;s Guide](https://dev.to/kemiowoyele1/mastering-gradients-in-css-a-beginners-guide-4gak)
+- [6 Tips for Writing SEO-Friendly Blog Posts](https://dev.to/taiwo17/6-tips-for-writing-seo-friendly-blog-posts-dn1)
+- [The Beginner&#39;s Checklist for Choosing a Dedicated Server Provider](https://dev.to/leasepacket/the-beginners-checklist-for-choosing-a-dedicated-server-provider-4ljd)
+- [Max Area of Island | LeetCode](https://dev.to/tanujav/max-area-of-island-leetcode-4fof)
 <!-- BLOG-POST-LIST:END -->
 
 ---
