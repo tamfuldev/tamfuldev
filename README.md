@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GIF to JPG: Transitioning Between Image Formats](https://dev.to/msmith99994/gif-to-jpg-transitioning-between-image-formats-2e28)
-- [Discover the Heart of Ethical Software Development: Principles, Practices, and Real-World Examples](https://dev.to/andresordazrs/discover-the-heart-of-ethical-software-development-principles-practices-and-real-world-examples-2eb)
-- [How To Create And Connect To A Linux Virtual Machine Using A Public Key](https://dev.to/romanus_onyekwere/how-to-create-and-connect-to-a-linux-virtual-machine-using-a-public-key-53dc)
-- [A Pause in the Grind: Reflecting on the Journey of My Heart](https://dev.to/generosiie/a-pause-in-the-grind-reflecting-on-the-journey-of-my-heart-1h6o)
-- [Highlights from Day 1 of CascadiaJS 2024](https://dev.to/agagag/unveiling-the-future-highlights-from-day-1-of-cascadiajs-2024-2kib)
+- [Pseudocode/Python Project](https://dev.to/thefoxlion/pseudocodepython-project-4p7n)
+- [Building Custom PCs for Developers: Three Different Approaches](https://dev.to/judescripts/building-custom-pcs-for-developers-three-different-approaches-nll)
+- [Cloud technologies and virtualization - demystify complexities](https://dev.to/mibii/cloud-technologies-and-virtualization-key-concepts-lk1)
+- [Debug Diary: Vscode Extension Development Host Can&#39;t Fully Simulate Actual Vscode](https://dev.to/rossli/debug-diary-vscode-extension-development-host-cant-fully-simulate-actual-vscode-1gd3)
+- [Облачные технологии и виртуализация — демистификация сложности](https://dev.to/mibii/oblachnykh-tiekhnologhii-i-virtualizatsii-kliuchievyie-kontsieptsii-1ca4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
