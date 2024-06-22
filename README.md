@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [10 Modern JavaScript Features You Should Be Using Today](https://dev.to/delia_code/10-modern-javascript-features-you-should-be-using-today-4aem)
-- [Mastering Gradients in CSS: A Beginner&#39;s Guide](https://dev.to/kemiowoyele1/mastering-gradients-in-css-a-beginners-guide-4gak)
-- [6 Tips for Writing SEO-Friendly Blog Posts](https://dev.to/taiwo17/6-tips-for-writing-seo-friendly-blog-posts-dn1)
-- [The Beginner&#39;s Checklist for Choosing a Dedicated Server Provider](https://dev.to/leasepacket/the-beginners-checklist-for-choosing-a-dedicated-server-provider-4ljd)
-- [Max Area of Island | LeetCode](https://dev.to/tanujav/max-area-of-island-leetcode-4fof)
+- [High-speed, adaptive streaming video player for web](https://dev.to/ahmetilhn/high-speed-adaptive-streaming-video-player-for-web-2ld2)
+- [WordPress PHP Unit Testing | Step-by-Step Guide | 2024](https://dev.to/adeleyeayodeji/wordpress-php-unit-testing-step-by-step-guide-2024-1a1l)
+- [A Short Intro to Prompt Engineering And Generative AI](https://dev.to/paraspanchal/a-short-intro-to-prompt-engineering-and-generative-ai-1gnk)
+- [A Short Intro to Prompt Engineering And Generative AI](https://dev.to/paraspanchal/a-short-intro-to-prompt-engineering-and-generative-ai-2n8b)
+- [A Short Intro to Prompt Engineering And Generative AI](https://dev.to/paraspanchal/a-short-intro-to-prompt-engineering-and-generative-ai-2gi1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
