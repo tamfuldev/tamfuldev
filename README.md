@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Deadlock: When Computers Play Musical Chairs](https://dev.to/vidyarathna/understanding-deadlock-when-computers-play-musical-chairs-28c)
-- [GCP for beginners 2024: Build a simple web app with Cloud Run and Cloud Build through terminal](https://dev.to/robertasaservice/gcp-for-beginners-2024-build-a-simple-web-app-with-cloud-run-and-cloud-build-through-terminal-2kop)
-- [The Art of Falling](https://dev.to/tacodes/the-art-of-falling-2aoa)
-- [Delicious Breakfast Classics: Waffles, Sandwiches, and Bowls](https://dev.to/abduljabbar4533/delicious-breakfast-classics-waffles-sandwiches-and-bowls-768)
-- [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://dev.to/mdarifulhaque/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit-4j9j)
+- [To build Twilio AI Assistants](https://dev.to/olatunjiayodel9/to-build-twilio-ai-assistants-hhp)
+- [How to Integrate Embedded MongoDB for Unit Testing in a Spring Application](https://dev.to/fullstackjava/how-to-integrate-embedded-mongodb-for-unit-testing-in-a-spring-application-49pi)
+- [The new and shiny](https://dev.to/armen138/the-new-and-shiny-4eil)
+- [🚀 Exploring Predictive Analysis of Breast Tumor Diagnosis with Streamlit and SVM! 🚀](https://dev.to/amna200123/exploring-predictive-analysis-of-breast-tumor-diagnosis-with-streamlit-and-svm-dh3)
+- [Pitch-Tonic](https://dev.to/tonic/pitch-tonic-500a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
