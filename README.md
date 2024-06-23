@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Leetcode - Next Greater Element II](https://dev.to/rakeshreddy512/leetcode-next-greater-element-ii-6g)
-- [Stylish Accordion Animation](https://dev.to/alcu1n/stylish-accordion-animation-233f)
-- [How to fix migration was modified after it was applied in prisma ?](https://dev.to/uttammarandi/how-to-fix-the-migration-was-modified-after-it-was-applied-in-prisma--14h7)
-- [Concept of computer science](https://dev.to/milesonerd/concept-of-computer-science-4g31)
-- [Weaving Your Enterprise Together: Implementing Integration Patterns with AWS Messaging Services](https://dev.to/virajlakshitha/weaving-your-enterprise-together-implementing-integration-patterns-with-aws-messaging-services-14o6)
+- [Understanding Deadlock: When Computers Play Musical Chairs](https://dev.to/vidyarathna/understanding-deadlock-when-computers-play-musical-chairs-28c)
+- [GCP for beginners 2024: Build a simple web app with Cloud Run and Cloud Build through terminal](https://dev.to/robertasaservice/gcp-for-beginners-2024-build-a-simple-web-app-with-cloud-run-and-cloud-build-through-terminal-2kop)
+- [The Art of Falling](https://dev.to/tacodes/the-art-of-falling-2aoa)
+- [Delicious Breakfast Classics: Waffles, Sandwiches, and Bowls](https://dev.to/abduljabbar4533/delicious-breakfast-classics-waffles-sandwiches-and-bowls-768)
+- [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://dev.to/mdarifulhaque/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit-4j9j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
