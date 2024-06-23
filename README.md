@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Lists and tuples in Elixir](https://dev.to/rhaenyraliang/lists-and-tuples-in-elixir-2lme)
-- [Day 2/40 CKA Dockerize an Application](https://dev.to/emmanuel_oghre_abe292c74f/day-240-cka-dockerize-an-application-k3p)
-- [Dive into the Depths of Database Design with This Gem! 🔍](https://dev.to/getvm/dive-into-the-depths-of-database-design-with-this-gem-4fel)
-- [Implementing Hash-Based Strict CSP on AEM](https://dev.to/theopendle/implementing-hash-based-strict-csp-on-aem-5621)
-- [Why a .gitignore File is Essential for Your Projects](https://dev.to/just_ritik/why-a-gitignore-file-is-essential-for-your-projects-4odm)
+- [The Book That Can Save You from Failing the AWS Certified Cloud Practitioner Exam — CLF-C02](https://dev.to/mannan/the-book-that-can-save-you-from-failing-the-aws-certified-cloud-practitioner-exam-clf-c02-kme)
+- [Variables](https://dev.to/vlad__siomga11/variables-l0m)
+- [Quickly Set Up a Local Web Server on Mac with ServBay](https://dev.to/servbay/quickly-set-up-a-local-web-server-on-mac-with-servbay-4mml)
+- [Speaking Goat Latin on the fastest bus to town](https://dev.to/simongreennet/speaking-goat-latin-on-the-fastest-bus-to-town-59b2)
+- [How I published my first app to Apple Store #2](https://dev.to/uladzmi/how-i-published-my-first-app-to-apple-store-2-4g34)
 <!-- BLOG-POST-LIST:END -->
 
 ---
