@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [We all operate at four altitudes…](https://dev.to/horaceshmorace/we-all-operate-at-four-altitudes-5e1n)
-- [Modular Next.js Folder Strategy](https://dev.to/trisogene/modular-nextjs-folder-strategy-5dhe)
-- [Deploy laravel project on vercel](https://dev.to/prof_cisco_2a53d5af352521/deploy-laravel-project-on-vercel-195)
-- [🏞️ Hyde: The Most Aesthetic, Dynamic, and Minimal Dots for Hyprland on Arch](https://dev.to/da4ndo/hyde-the-most-aesthetic-dynamic-and-minimal-dots-for-hyprland-on-arch-58c)
-- [From Burnout to Breakthrough: How I Transformed My Developer Workflow with One Simple Change](https://dev.to/judescripts/from-burnout-to-breakthrough-how-i-transformed-my-developer-workflow-with-one-simple-change-401)
+- [Is It Spam?](https://dev.to/briandoesdev/is-it-spam-2ink)
+- [Creating and Connecting to a Linux VM using a Public Key](https://dev.to/tojumercy1/creating-and-connecting-to-a-linux-vm-using-a-public-key-3b1)
+- [Guia Completo para Navegação no React Native com TypeScript](https://dev.to/leeodev/guia-completo-para-navegacao-no-react-native-com-typescript-45mf)
+- [I built my first SaaS - NotiFast](https://dev.to/jjablonskiit/i-built-my-first-saas-notifast-47do)
+- [Javascript](https://dev.to/bekmuhammaddev/javascript-4na1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
