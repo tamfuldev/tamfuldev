@@ -16,7 +16,7 @@
 # Latest stack oveflow activity
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><tr><td>twig file tpl convertion</td><td>https://stackoverflow.com/questions/78658655/twig-file-tpl-convertion</td></tr><tr><td>Problem with Execution order i would guess</td><td>https://stackoverflow.com/questions/78658594/problem-with-execution-order-i-would-guess</td></tr><tr><td>Integrating Mpesa into Laravel 11 application</td><td>https://stackoverflow.com/questions/78658492/integrating-mpesa-into-laravel-11-application</td></tr><tr><td>Symfony, javascript works only after refreshing the page</td><td>https://stackoverflow.com/questions/78658486/symfony-javascript-works-only-after-refreshing-the-page</td></tr><tr><td>Moving through pages using PHP</td><td>https://stackoverflow.com/questions/78658254/moving-through-pages-using-php</td></tr><!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:START --><tr><td>AES-256-CBC IONIC encrypted data is not able to decrypt in PHP</td><td>https://stackoverflow.com/questions/78658758/aes-256-cbc-ionic-encrypted-data-is-not-able-to-decrypt-in-php</td></tr><tr><td>Laravel sail docker: Cannot install Spatie/laravel-pdf</td><td>https://stackoverflow.com/questions/78658696/laravel-sail-docker-cannot-install-spatie-laravel-pdf</td></tr><tr><td>JSON reading: completely stuck? [closed]</td><td>https://stackoverflow.com/questions/78658665/json-reading-completely-stuck</td></tr><tr><td>twig file tpl convertion</td><td>https://stackoverflow.com/questions/78658655/twig-file-tpl-convertion</td></tr><tr><td>Problem with Execution order i would guess</td><td>https://stackoverflow.com/questions/78658594/problem-with-execution-order-i-would-guess</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 
 ---
