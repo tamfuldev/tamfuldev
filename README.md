@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Nike Website](https://dev.to/sudhanshuambastha/nike-website-54gn)
-- [Firebase hosting issue on Flutter Web](https://dev.to/pagebook1/firebase-hosting-issue-on-flutter-web-2c8n)
-- [Thread fundamentals in Java](https://dev.to/rafaaraujoo/thread-fundamentals-in-java-43h1)
-- [Make your own Arc at home](https://dev.to/qostya/make-your-own-arc-at-home-4cn7)
-- [Advanced MongoDB Lookup: Complex MongoDB lookup Queries with Multiple Conditions](https://dev.to/codegirl0101/advanced-mongodb-lookup-complex-mongodb-lookup-queries-with-multiple-conditions-18jf)
+- [The Identity Puzzle: the Crucial Difference Between Access Tokens and ID Tokens](https://dev.to/zenithar/the-identity-puzzle-the-crucial-difference-between-access-tokens-and-id-tokens-j1f)
+- [SCSS Complete guide part one 🧡](https://dev.to/aryan015/scss-complete-guide-part-one-4d03)
+- [Installing PostgreSQL with Docker](https://dev.to/chauhoangminhnguyen/installing-postgresql-with-docker-3n50)
+- [Networking cant be easier than this](https://dev.to/sojinsamuel/networking-cant-be-easier-than-this-4fdm)
+- [Product Review System Using Twilio and Gemini](https://dev.to/oyedeletemitope/product-review-system-using-twilio-and-gemini-4bk0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
