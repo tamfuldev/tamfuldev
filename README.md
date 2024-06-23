@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dev: Web](https://dev.to/r4nd3l/dev-web-4f7k)
-- [Bizzen: Business, Made Zen](https://dev.to/jhhayashi/bizzen-business-made-zen-155b)
-- [Generative AI Assistant for Loyalty Reward System Using Amazon Bedrock Knowledge bases &amp; Agent](https://dev.to/girishmukim/generative-ai-assistant-for-loyalty-reward-system-using-amazon-bedrock-knowledge-bases-agent-1670)
-- [How to create LazyColumn with drag and drop elements in Jetpack Compose. Part 1.](https://dev.to/mardsoul/how-to-create-lazycolumn-with-drag-and-drop-elements-in-jetpack-compose-part-1-4bn5)
-- [How to Create a Dark Mode in Figma and Not Die Trying](https://dev.to/amanda_montero/how-to-create-a-dark-mode-in-figma-and-not-die-trying-20pm)
+- [Simplify Phone Screening with Twilio and AI Automation](https://dev.to/bibekkakati/simplify-phone-screening-with-twilio-and-ai-automation-3e8e)
+- [Differences between JPG and AVIF](https://dev.to/msmith99994/differences-between-jpg-and-avif-252m)
+- [Sometimes all we need is a good safe word! Even ChatGPT!](https://dev.to/mbround18/sometimes-all-we-need-is-a-good-safe-word-even-chatgpt-2e82)
+- [Enhance Your React Applications with cards-slider-react-lib : A Feature-Rich Card Slider Library](https://dev.to/victor_ajadi_21b5913f79f6/enhance-your-react-applications-with-cards-slider-react-lib-a-feature-rich-card-slider-library-m6m)
+- [DevLog #1: OasysDB Overhaul](https://dev.to/edwinkys/devlog-1-oasysdb-overhaul-36gi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
