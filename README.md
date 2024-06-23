@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Identity Puzzle: the Crucial Difference Between Access Tokens and ID Tokens](https://dev.to/zenithar/the-identity-puzzle-the-crucial-difference-between-access-tokens-and-id-tokens-j1f)
-- [SCSS Complete guide part one 🧡](https://dev.to/aryan015/scss-complete-guide-part-one-4d03)
-- [Installing PostgreSQL with Docker](https://dev.to/chauhoangminhnguyen/installing-postgresql-with-docker-3n50)
-- [Networking cant be easier than this](https://dev.to/sojinsamuel/networking-cant-be-easier-than-this-4fdm)
-- [Product Review System Using Twilio and Gemini](https://dev.to/oyedeletemitope/product-review-system-using-twilio-and-gemini-4bk0)
+- [Lists and tuples in Elixir](https://dev.to/rhaenyraliang/lists-and-tuples-in-elixir-2lme)
+- [Day 2/40 CKA Dockerize an Application](https://dev.to/emmanuel_oghre_abe292c74f/day-240-cka-dockerize-an-application-k3p)
+- [Dive into the Depths of Database Design with This Gem! 🔍](https://dev.to/getvm/dive-into-the-depths-of-database-design-with-this-gem-4fel)
+- [Implementing Hash-Based Strict CSP on AEM](https://dev.to/theopendle/implementing-hash-based-strict-csp-on-aem-5621)
+- [Why a .gitignore File is Essential for Your Projects](https://dev.to/just_ritik/why-a-gitignore-file-is-essential-for-your-projects-4odm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
