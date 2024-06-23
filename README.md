@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [A tool that combines force-directed graphs and flow charts](https://dev.to/fridaymeng/a-tool-that-combines-force-directed-graphs-and-flow-charts-3okn)
+- [How to Contribute to Laravel: A Step-by-Step Guide](https://dev.to/msamgan/how-to-contribute-to-laravel-a-step-by-step-guide-560k)
+- [How content creation helped me land my first tech job?](https://dev.to/coderamrin/how-content-creation-helped-me-land-my-first-tech-job-4d8b)
+- [Monthly Amazon Location Service Updates - 2024.05](https://dev.to/aws-heroes/monthly-amazon-location-service-updates-202405-36me)
 - [Is It Spam?](https://dev.to/briandoesdev/is-it-spam-2ink)
-- [Creating and Connecting to a Linux VM using a Public Key](https://dev.to/tojumercy1/creating-and-connecting-to-a-linux-vm-using-a-public-key-3b1)
-- [Guia Completo para Navegação no React Native com TypeScript](https://dev.to/leeodev/guia-completo-para-navegacao-no-react-native-com-typescript-45mf)
-- [I built my first SaaS - NotiFast](https://dev.to/jjablonskiit/i-built-my-first-saas-notifast-47do)
-- [Javascript](https://dev.to/bekmuhammaddev/javascript-4na1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
