@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Setup a Next.JS project for production-ready](https://dev.to/es_pythonus/setup-a-nextjs-project-for-production-ready-2nho)
-- [Generating training data with OpenAI function calling](https://dev.to/maurerkrisztian/generating-training-data-with-openai-function-calling-2c7l)
-- [A Brief Evolution of Data Management: From Business Intelligence to Artificial Intelligence](https://dev.to/jestevesv/a-brief-evolution-of-data-management-from-business-intelligence-to-artificial-intelligence-1d71)
-- [How to get test net coins](https://dev.to/uthmancpder/how-to-get-test-net-coins-2d6a)
-- [Exploring Option Constructors in Effect-TS](https://dev.to/almaclaine/exploring-option-constructors-in-effect-ts-4ka0)
+- [We all operate at four altitudes…](https://dev.to/horaceshmorace/we-all-operate-at-four-altitudes-5e1n)
+- [Modular Next.js Folder Strategy](https://dev.to/trisogene/modular-nextjs-folder-strategy-5dhe)
+- [Deploy laravel project on vercel](https://dev.to/prof_cisco_2a53d5af352521/deploy-laravel-project-on-vercel-195)
+- [🏞️ Hyde: The Most Aesthetic, Dynamic, and Minimal Dots for Hyprland on Arch](https://dev.to/da4ndo/hyde-the-most-aesthetic-dynamic-and-minimal-dots-for-hyprland-on-arch-58c)
+- [From Burnout to Breakthrough: How I Transformed My Developer Workflow with One Simple Change](https://dev.to/judescripts/from-burnout-to-breakthrough-how-i-transformed-my-developer-workflow-with-one-simple-change-401)
 <!-- BLOG-POST-LIST:END -->
 
 ---
