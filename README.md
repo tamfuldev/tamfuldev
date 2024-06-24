@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Swiftwave PaaS: One Year in Development](https://dev.to/tanmoysrt/swiftwave-paas-one-year-in-development-3nph)
-- [Why Choose Laravel for Web Development?](https://dev.to/samantha_hayes/why-choose-laravel-for-web-development-46im)
-- [What is Docker and why do we use it?](https://dev.to/mesonu/what-is-docker-and-why-do-we-use-it-280n)
-- [WinForms dynamic buttons](https://dev.to/karenpayneoregon/winforms-dynamic-buttons-52mj)
-- [Como se tornar um Microsoft Learn Student Ambassador](https://dev.to/monokai_dev/como-se-tornar-um-microsoft-learn-student-ambassador-18af)
+- [HOW TO CONFIGURE PING URL TESTS AND HEALTH CHECKS WITH AZURE MONITOR APPLICATION INSIGHTS](https://dev.to/droz79/how-to-configure-ping-url-tests-and-health-checks-with-azure-monitor-application-insights-2615)
+- [Data types in JavaScript.!](https://dev.to/samandarhodiev/data-types-in-javascript-3bmi)
+- [Computer Networking Essentials for Developers: Tools and Best Practices](https://dev.to/elainecbennet/computer-networking-essentials-for-developers-tools-and-best-practices-32ad)
+- [Complex Full Stack projects idea for resume](https://dev.to/nadim_ch0wdhury/complex-full-stack-projects-idea-for-resume-1bfp)
+- [How to create a new note using form and request methods in PHP?](https://dev.to/ghulam_mujtaba_247/how-to-create-a-new-note-using-form-and-request-methods-in-php-27kp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
