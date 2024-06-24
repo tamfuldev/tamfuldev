@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mobile Development: Engineering the Future of Applications](https://dev.to/jinesh_vora_ab4d7886e6a8d/mobile-development-engineering-the-future-of-applications-d53)
-- [Building a Telegram Bot to deliver weekly stock open and close prices](https://dev.to/pluri45/building-a-telegram-bot-to-deliver-weekly-stock-open-and-close-prices-moh)
-- [Drupal Access Policy demystified](https://dev.to/sparkfabrik/drupal-access-policy-demystified-44bj)
-- [TailwindCSS ECommerce Website Template - Freshcart](https://dev.to/easetemplates/tailwindcss-ecommerce-website-template-freshcart-6f2)
-- [Mastering Request Cancellation ❌ in JavaScript: Using AbortController with Axios and Fetch API.🚀💪](https://dev.to/dharamgfx/mastering-request-cancellation-in-javascript-using-abortcontroller-with-axios-and-fetch-api-2589)
+- [21 Amazing CSS Buttons You Have to Check Out](https://dev.to/devshefali/21-amazing-css-buttons-you-have-to-check-out-45hc)
+- [Creating Chat Bubbles with curls in React Native &lpar;svg&rpar;](https://dev.to/tobs_dl/creating-chat-bubbles-with-curls-in-react-native-svg-4hde)
+- [Análise das reservas federais - parte 2](https://dev.to/devsnorte/analise-das-reservas-federais-parte-2-1hcc)
+- [How to amend files in WP-Engine with VS Code](https://dev.to/brisbanewebdeveloper/how-to-amend-files-in-wp-engine-with-vs-code-ljn)
+- [Binary Addition in Java: A Comprehensive Guide](https://dev.to/fullstackjava/binary-addition-in-java-a-comprehensive-guide-9cf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
