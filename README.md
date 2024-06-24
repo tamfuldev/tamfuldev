@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Simplify Phone Screening with Twilio and AI Automation](https://dev.to/bibekkakati/simplify-phone-screening-with-twilio-and-ai-automation-3e8e)
-- [Differences between JPG and AVIF](https://dev.to/msmith99994/differences-between-jpg-and-avif-252m)
-- [Sometimes all we need is a good safe word! Even ChatGPT!](https://dev.to/mbround18/sometimes-all-we-need-is-a-good-safe-word-even-chatgpt-2e82)
-- [Enhance Your React Applications with cards-slider-react-lib : A Feature-Rich Card Slider Library](https://dev.to/victor_ajadi_21b5913f79f6/enhance-your-react-applications-with-cards-slider-react-lib-a-feature-rich-card-slider-library-m6m)
-- [DevLog #1: OasysDB Overhaul](https://dev.to/edwinkys/devlog-1-oasysdb-overhaul-36gi)
+- [Chappy: Your Friendly and Quirky Chat Buddy](https://dev.to/ketanrajpal/chappy-your-friendly-and-quirky-chat-buddy-14pl)
+- [Leverage AI with Twilio for Hotelier](https://dev.to/tryhendri/leverage-ai-with-twilio-for-hotelier-4kha)
+- [Iteration - a Stream Generator for Recursive Minds](https://dev.to/fluentfuture/iteration-a-stream-generator-m75)
+- [AI Journal App with WhatsApp Integration](https://dev.to/preveenraj/journal-app-with-ai-capabilities-and-whatsapp-integration-23dh)
+- [Join Me in Building an Exciting Tic-Tac-Toe Web App!](https://dev.to/mstechgeek/join-me-in-building-an-exciting-tic-tac-toe-web-app-3m0o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
