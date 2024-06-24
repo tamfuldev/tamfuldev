@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Chappy: Your Friendly and Quirky Chat Buddy](https://dev.to/ketanrajpal/chappy-your-friendly-and-quirky-chat-buddy-14pl)
-- [Leverage AI with Twilio for Hotelier](https://dev.to/tryhendri/leverage-ai-with-twilio-for-hotelier-4kha)
-- [Iteration - a Stream Generator for Recursive Minds](https://dev.to/fluentfuture/iteration-a-stream-generator-m75)
-- [AI Journal App with WhatsApp Integration](https://dev.to/preveenraj/journal-app-with-ai-capabilities-and-whatsapp-integration-23dh)
-- [Join Me in Building an Exciting Tic-Tac-Toe Web App!](https://dev.to/mstechgeek/join-me-in-building-an-exciting-tic-tac-toe-web-app-3m0o)
+- [Understanding OOPs in Python 🐍🌠](https://dev.to/kammarianand/understanding-oops-in-python-1k4k)
+- [Unlocking Developer Secrets: Insights Beyond the Code](https://dev.to/vuyokazimkane/unlocking-developer-secrets-insights-beyond-the-code-ehf)
+- [Understanding Props, Parent, and Child Components in React Native using TypeScript.](https://dev.to/nehi_rugue/understanding-props-parent-and-child-components-in-react-native-using-typescript-3c6e)
+- [Cutting Down Docker Image Sizes: Next.js Standalone Mode for Easy Kubernetes Deployments on EKS and AKS](https://dev.to/alessandrorodrigo/cutting-down-docker-image-sizes-nextjs-standalone-mode-for-easy-kubernetes-deployments-on-eks-and-aks-4pno)
+- [Sincronizando data entre tabs](https://dev.to/dezkareid/sincronizando-data-entre-tabs-5951)
 <!-- BLOG-POST-LIST:END -->
 
 ---
