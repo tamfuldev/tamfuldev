@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Docker: Introduction step-by-step guide for beginners DevOps Engineers.](https://dev.to/oncloud7/docker-introduction-step-by-step-guide-for-beginners-devops-engineers-5fee)
-- [DreamMachineAI - free luma ai video generator](https://dev.to/runningdogg/dreammachineai-free-luma-ai-video-generator-3d0h)
-- [Meme Monday](https://dev.to/td_inc/meme-monday-nf7)
-- [Debugging React Native with Reactotron: A Step-by-Step Guide](https://dev.to/rohanrajgautam/debugging-react-native-with-reactotron-a-step-by-step-guide-2f02)
-- [Introducing Laravel Usage Limiter Package: Track and restrict usage limits for users or accounts.](https://dev.to/nabilhassen/introducing-laravel-usage-limiter-package-track-and-restrict-usage-limits-for-users-or-accounts-243l)
+- [What are your goals for week 26 of the year?](https://dev.to/jarvisscript/what-are-your-goals-for-week-26-of-the-year-4mf7)
+- [Day 28 of my progress as a vue dev](https://dev.to/zain725342/day-28-of-my-progress-as-a-vue-dev-5b1m)
+- [Rails Caching With Couchbase in Under 5 Minutes](https://dev.to/bengreenberg/rails-caching-with-couchbase-in-under-5-minutes-2jpp)
+- [13 FOSS tools that Developers would give up Pizza for👋🍕](https://dev.to/middleware/13-foss-tools-that-developers-would-give-up-pizza-for-4a6g)
+- [Functional Testing: Ensuring Software Functionality](https://dev.to/keploy/functional-testing-ensuring-software-functionality-cia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
