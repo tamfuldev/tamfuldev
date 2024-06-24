@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Elixir/Nerves: blinking LED](https://dev.to/mnishiguchi/elixirnerves-blinking-led-5gf1)
-- [How to Seamlessly Integrate OSS with Alibaba Cloud Elasticsearch Using Regular Service Roles](https://dev.to/a_lucas/how-to-seamlessly-integrate-oss-with-alibaba-cloud-elasticsearch-using-regular-service-roles-59lm)
-- [Understanding OOPs in Python 🐍🌠](https://dev.to/kammarianand/understanding-oops-in-python-1k4k)
-- [Unlocking Developer Secrets: Insights Beyond the Code](https://dev.to/vuyokazimkane/unlocking-developer-secrets-insights-beyond-the-code-ehf)
-- [Understanding Props, Parent, and Child Components in React Native using TypeScript.](https://dev.to/nehi_rugue/understanding-props-parent-and-child-components-in-react-native-using-typescript-3c6e)
+- [Mastering Authentication in Modern Next.js Apps](https://dev.to/vyan/mastering-authentication-in-modern-nextjs-apps-32eh)
+- [Crafting a social connector for Logto](https://dev.to/logto/crafting-a-social-connector-for-logto-5c2k)
+- [Garzón - Your Daily Dose of Organization and Inspiration!](https://dev.to/asyncerror/garzon-your-daily-dose-of-organization-and-inspiration-lkc)
+- [AI Podcasts powered by Project X 🎼](https://dev.to/nishithp2004/ai-podcasts-powered-by-project-x-10kk)
+- [How to Optimize SEO for a Low-Visibility Website](https://dev.to/juddiy/how-to-optimize-seo-for-a-low-visibility-website-2j4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
