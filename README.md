@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [WebRTC in WebView in IOS](https://dev.to/alakkadshaw/webrtc-in-webview-in-ios-ci2)
-- [How to Write your First C++ Program on the Raspberry Pi Pico](https://dev.to/shilleh/how-to-write-your-first-c-program-on-the-raspberry-pi-pico-25h2)
-- [Artisan – The Command-Line Interface Included with Laravel](https://dev.to/n3rdnerd/artisan-the-command-line-interface-included-with-laravel-3371)
-- [Welcome Thread - v282](https://dev.to/devteam/welcome-thread-v282-1ca9)
-- [Explain in 5 Levels of Difficulty: Bitcoin](https://dev.to/mcsee/explain-in-5-levels-of-difficulty-bitcoin-3gl9)
+- [Ultimate Guide to Mastering JavaScript Array Methods](https://dev.to/dk119819/ultimate-guide-to-mastering-javascript-array-methods-2m1c)
+- [Creating a nextjs chat app for learning to integrate sockets](https://dev.to/caresle/creating-a-nextjs-chat-app-for-learning-to-integrate-sockets-34af)
+- [Ilya Sutskever&#39;s Vision: Safe Superintelligent AI](https://dev.to/frtechy/ilya-sutskevers-vision-safe-superintelligent-ai-17n2)
+- [How to Customize Your GitHub Profile: Part 2](https://dev.to/ryoichihomma/how-to-customize-your-github-profile-part-2-32g2)
+- [Essential DevOps Principles for Beginners](https://dev.to/iaadidev/essential-devops-principles-for-beginners-14on)
 <!-- BLOG-POST-LIST:END -->
 
 ---
