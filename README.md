@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [JSON – JavaScript Object Notation](https://dev.to/n3rdnerd/json-javascript-object-notation-5ad2)
-- [🚀 Connecting to Databases with Node.js: MongoDB and Mongoose 🌐](https://dev.to/erasmuskotoka/connecting-to-databases-with-nodejs-mongodb-and-mongoose-2bdd)
-- [How I making my career transition and why?](https://dev.to/devmarianasouza/how-i-making-my-career-transition-and-why-17i0)
-- [Day 978 : Rain](https://dev.to/dwane/day-978-rain-pd6)
-- [Resourcely founder-led in person or virtual hands-on workshop](https://dev.to/resourcely/resourcely-founder-led-in-person-or-virtual-hands-on-workshop-1o46)
+- [WebRTC in WebView in IOS](https://dev.to/alakkadshaw/webrtc-in-webview-in-ios-ci2)
+- [How to Write your First C++ Program on the Raspberry Pi Pico](https://dev.to/shilleh/how-to-write-your-first-c-program-on-the-raspberry-pi-pico-25h2)
+- [Artisan – The Command-Line Interface Included with Laravel](https://dev.to/n3rdnerd/artisan-the-command-line-interface-included-with-laravel-3371)
+- [Welcome Thread - v282](https://dev.to/devteam/welcome-thread-v282-1ca9)
+- [Explain in 5 Levels of Difficulty: Bitcoin](https://dev.to/mcsee/explain-in-5-levels-of-difficulty-bitcoin-3gl9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
