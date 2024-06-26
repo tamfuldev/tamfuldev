@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Troubleshooting CORS Issues in Express.js: A Simple Misconfiguration](https://dev.to/sepiyush/troubleshooting-cors-issues-in-expressjs-a-simple-misconfiguration-2e4k)
-- [Decoding Demystified : How LLMs Generate Text - III](https://dev.to/mahakfaheem/decoding-demystified-how-llms-generate-text-iii-3a0d)
-- [🌟 Project 2: Nike Product Card - Part of My 50 Projects Challenge 🏆](https://dev.to/bytesage/project-2-nike-product-card-part-of-my-50-projects-challenge-2mje)
-- [Concurrency and Parallelism in PHP](https://dev.to/francescoagati/concurrency-and-parallelism-in-php-6fc)
-- [Behind `NoInfer` in TypeScript](https://dev.to/allieschen/behind-noinfer-in-typescript-319)
+- [Windows 11 unsuckifying guide](https://dev.to/thejaredwilcurt/windows-11-unsuckifying-guide-1oc5)
+- [Process Scheduling](https://dev.to/_hm/process-scheduling-52a)
+- [Let’s Get Hands-On with WordPress FSE Theme and Custom Blocks — Part 1](https://dev.to/silviamalavasi/lets-get-hands-on-with-wordpress-fse-theme-and-custom-blocks-part-1-lmj)
+- [How to install Anaconda on Arch Linux](https://dev.to/kutt27/how-to-install-anaconda-on-arch-linux-5a1c)
+- [A More Straightforward Guide to Solving Two Sum.](https://dev.to/shavonharrisdev/a-more-straightforward-guide-to-solving-two-sum-2gbi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
