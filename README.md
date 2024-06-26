@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ultimate Guide to Mastering JavaScript Object Methods](https://dev.to/dk119819/ultimate-guide-to-mastering-javascript-object-methods-o0i)
-- [How to Determine API Slow Downs, Part 2](https://dev.to/lazypro/how-to-determine-api-slow-downs-part-2-433)
-- [Finding and fixing exposed hardcoded secrets in your GitHub project with Snyk](https://dev.to/snyk/finding-and-fixing-exposed-hardcoded-secrets-in-your-github-project-with-snyk-3ldl)
-- [How to Quickly Drive Traffic to Your Website](https://dev.to/juddiy/how-to-quickly-drive-traffic-to-your-website-2dlp)
-- [Terraform Basics](https://dev.to/sanjaikumar2311/terraform-basics-1d2j)
+- [Enterprise Software Development: A Comprehensive Workflow Overview Example](https://dev.to/vyan/enterprise-software-development-a-comprehensive-workflow-overview-example-2jfn)
+- [How to create a Node.js web server with cPanel](https://dev.to/_briannw/how-to-create-a-nodejs-web-server-with-cpanel-21lb)
+- [Closures in JS 🔒](https://dev.to/bibschan/closures-in-js-1gik)
+- [Understanding NPM and NVM: Essential Tools for Node.js Development](https://dev.to/dipakahirav/understanding-npm-and-nvm-essential-tools-for-nodejs-development-3j56)
+- [Hadoop FS Shell Expunge: Optimizing HDFS Storage with Ease](https://dev.to/labex/hadoop-fs-shell-expunge-optimizing-hdfs-storage-with-ease-362m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
