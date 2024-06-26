@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [ACCELERATING DEVOPS TESTING: Advanced Parallel Testing Techniques with Python](https://dev.to/davidbosah/accelerating-devops-testing-advanced-parallel-testing-techniques-with-python-6ka)
-- [Understanding Array Data Structures](https://dev.to/m__mdy__m/understanding-array-data-structures-8do)
-- [Memory management and other weird blobs](https://dev.to/artiumws/memory-management-and-other-weird-blobs-36bj)
-- [🎯 Elevate Your TypeScript Skills with `type-guards-ts`!](https://dev.to/geraldhamiltonwicks/elevate-your-typescript-skills-with-type-guards-ts-36k7)
-- [Introdução à linguagens de programação](https://dev.to/moprius/introducao-a-linguagens-de-programacao-4j90)
+- [[Game of Purpose] Day 39](https://dev.to/humberd/game-of-purpose-day-39-4n66)
+- [The Importance of Financial Education and Taking Action](https://dev.to/devmercy/the-importance-of-financial-education-and-taking-action-1igg)
+- [@Resource: The Versatile Bean Injection Annotation for Jakarta EE and Spring](https://dev.to/tiuwill/resource-the-versatile-bean-injection-annotation-for-jakarta-ee-and-spring-5af9)
+- [Gecko: Making a programming language is hard 😮‍💨](https://dev.to/neutrino2211/gecko-making-a-programming-language-is-hard-4g0a)
+- [Webview em QML &lpar;Qt Modeling Language&rpar;](https://dev.to/moprius/webview-em-qml-qt-modeling-language-67k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
