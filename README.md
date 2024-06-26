@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [⚙️ How do you manage your infra code? ⚙️](https://dev.to/cyclops-ui/how-do-you-manage-your-infra-code-390e)
-- [The Harry Potter Lesson](https://dev.to/rohitelyts/the-harry-potter-lesson-21hb)
-- [Tracetest Monitors: Trace-based testing meets Synthetic Monitoring 🔥](https://dev.to/kubeshop/tracetest-monitors-trace-based-testing-meets-synthetic-monitoring-2f0f)
-- [C# Delegates, chaining and higher order functions.](https://dev.to/emanuelgustafzon/c-delegates-chaining-and-higher-order-functions-3c7i)
-- [[AWS] The Future of Automobiles and Automated Driving [Generative AI]](https://dev.to/reityerukohaku/aws-the-future-of-automobiles-and-automated-driving-generative-ai-3k9h)
+- [Why do we need clean code?](https://dev.to/wraith/why-do-we-need-clean-code-1cea)
+- [Day 22 of 30 of JavaScript](https://dev.to/akshat0610/day-22-of-30-of-javascript-2omi)
+- [Flutter liveness: 300% performance enhance](https://dev.to/jodamco/flutter-liveness-300-performance-enhance-3kkh)
+- [Creating a Virtual Machine Scale-Set in Azure &lpar;VMSS&rpar;.](https://dev.to/laoluafolami/creating-a-virtual-machine-scale-set-in-azure-vmss-21g9)
+- [Control Rate Limit using Queues](https://dev.to/woovi/control-rate-limit-using-queues-eh5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
