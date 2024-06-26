@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Enterprise Software Development: A Comprehensive Workflow Overview Example](https://dev.to/vyan/enterprise-software-development-a-comprehensive-workflow-overview-example-2jfn)
-- [How to create a Node.js web server with cPanel](https://dev.to/_briannw/how-to-create-a-nodejs-web-server-with-cpanel-21lb)
-- [Closures in JS 🔒](https://dev.to/bibschan/closures-in-js-1gik)
-- [Understanding NPM and NVM: Essential Tools for Node.js Development](https://dev.to/dipakahirav/understanding-npm-and-nvm-essential-tools-for-nodejs-development-3j56)
-- [Hadoop FS Shell Expunge: Optimizing HDFS Storage with Ease](https://dev.to/labex/hadoop-fs-shell-expunge-optimizing-hdfs-storage-with-ease-362m)
+- [🚀 Understanding the V8 Engine: Optimizing JavaScript for Peak Performance](https://dev.to/parthchovatiya/understanding-the-v8-engine-optimizing-javascript-for-peak-performance-1c9b)
+- [Streaming Camera with C++ WebRTC GStreamer](https://dev.to/ethand91/streaming-camera-with-c-webrtc-gstreamer-pof)
+- [How ChatGPT Works: The Model Behind The Bot](https://dev.to/manojgohel/how-chatgpt-works-the-model-behind-the-bot-195j)
+- [How to Manage On-premise Infrastructure with Terraform](https://dev.to/spacelift/how-to-manage-on-premise-infrastructure-with-terraform-4f2)
+- [Padronização de Respostas de Erro em APIs com RFC-9457: Implementando no Spring Framework](https://dev.to/dsb88/padronizacao-de-respostas-de-erro-em-apis-com-rfc-9457-implementando-no-spring-framework-4kk0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
