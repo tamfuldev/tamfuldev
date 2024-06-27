@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Learn CSS Positions: with Real Examples](https://dev.to/jitendrachoudhary/learn-css-positions-with-real-examples-4kbd)
-- [Understanding JWT and Bearer Tokens: What Every Developer Should Know](https://dev.to/satokenta/understanding-jwt-and-bearer-tokens-what-every-developer-should-know-35j8)
-- [Server and client components in Next.js: when, how and why?](https://dev.to/byteminds_agency/server-and-client-components-in-nextjs-when-how-and-why-1bi3)
-- [Keep Subscribers Interested with These 5 Types of Email Marketing](https://dev.to/jhonharry65/keep-subscribers-interested-with-these-5-types-of-email-marketing-5c2a)
-- [4 Best Blogger Books You Need to Read in 2023](https://dev.to/jhonharry65/5-best-blogger-books-you-need-to-read-in-2023-1gii)
+- [Python Built-in Functions](https://dev.to/harshm03/python-built-in-functions-4m5f)
+- [Building a Job Search Function with Prisma in Next.js](https://dev.to/ashsajal/building-a-job-search-function-with-prisma-in-nextjs-2m8f)
+- [Connecting Cloud-Hosted PostgreSQL to Django: A Comprehensive Guide](https://dev.to/rupesh_mishra/connecting-cloud-hosted-postgresql-to-django-a-comprehensive-guide-5cl1)
+- [Add Utterances Comment System in Next.js App in App Router](https://dev.to/sh20raj/integrating-utterances-as-a-commenting-system-in-your-nextjs-application-using-the-app-router-4m5b)
+- [SECRET CAMERA](https://dev.to/jonse_ketela_b13c463d2acf/secret-camera-3l72)
 <!-- BLOG-POST-LIST:END -->
 
 ---
