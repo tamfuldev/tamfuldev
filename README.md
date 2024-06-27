@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Python Built-in Functions](https://dev.to/harshm03/python-built-in-functions-4m5f)
-- [Building a Job Search Function with Prisma in Next.js](https://dev.to/ashsajal/building-a-job-search-function-with-prisma-in-nextjs-2m8f)
-- [Connecting Cloud-Hosted PostgreSQL to Django: A Comprehensive Guide](https://dev.to/rupesh_mishra/connecting-cloud-hosted-postgresql-to-django-a-comprehensive-guide-5cl1)
-- [Add Utterances Comment System in Next.js App in App Router](https://dev.to/sh20raj/integrating-utterances-as-a-commenting-system-in-your-nextjs-application-using-the-app-router-4m5b)
-- [SECRET CAMERA](https://dev.to/jonse_ketela_b13c463d2acf/secret-camera-3l72)
+- [100 FREE Frontend Challenges](https://dev.to/bigsondev/100-free-frontend-challenges-3f0)
+- [-LocalStorage, Session, Cookies](https://dev.to/husniddin6939/-localstorage-session-cookies-3f3f)
+- [Mastering Cypher Queries in Apache AGE](https://dev.to/nim12/mastering-cypher-queries-in-apache-age-2kc8)
+- [The root cause of “works on my machine”](https://dev.to/makky/the-root-cause-of-works-on-my-machine-2ec0)
+- [How to generate dynamic OG &lpar;OpenGraph&rpar; images with Satori and React](https://dev.to/woovi/how-to-generate-dynamic-og-opengraph-images-with-satori-and-react-1bhb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
