@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Game of Purpose] Day 39](https://dev.to/humberd/game-of-purpose-day-39-4n66)
-- [The Importance of Financial Education and Taking Action](https://dev.to/devmercy/the-importance-of-financial-education-and-taking-action-1igg)
-- [@Resource: The Versatile Bean Injection Annotation for Jakarta EE and Spring](https://dev.to/tiuwill/resource-the-versatile-bean-injection-annotation-for-jakarta-ee-and-spring-5af9)
-- [Gecko: Making a programming language is hard 😮‍💨](https://dev.to/neutrino2211/gecko-making-a-programming-language-is-hard-4g0a)
-- [Webview em QML &lpar;Qt Modeling Language&rpar;](https://dev.to/moprius/webview-em-qml-qt-modeling-language-67k)
+- [Como Escanear Portas em um Website com Python](https://dev.to/moprius/como-escanear-portas-em-um-website-com-python-bdm)
+- [Boost Your Vocabulary Effortlessly with Vocabulary Booster!](https://dev.to/huseyn0w/boost-your-vocabulary-effortlessly-with-vocabulary-booster-11fd)
+- [Dial Up Success: Supercharge Your Google Ads Call-Only Campaigns with AI](https://dev.to/tarwiiga/dial-up-success-supercharge-your-google-ads-call-only-campaigns-with-ai-8h2)
+- [Supercharge Your Google Ads: Leveraging LLMs and Generative AI](https://dev.to/tarwiiga/supercharge-your-google-ads-leveraging-llms-and-generative-ai-1a9d)
+- [Dynamically Adding To The Webpage](https://dev.to/__khojiakbar__/dynamically-adding-to-the-webpage-5bnl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
