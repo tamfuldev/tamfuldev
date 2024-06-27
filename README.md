@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [100 FREE Frontend Challenges](https://dev.to/bigsondev/100-free-frontend-challenges-3f0)
-- [-LocalStorage, Session, Cookies](https://dev.to/husniddin6939/-localstorage-session-cookies-3f3f)
-- [Mastering Cypher Queries in Apache AGE](https://dev.to/nim12/mastering-cypher-queries-in-apache-age-2kc8)
-- [The root cause of “works on my machine”](https://dev.to/makky/the-root-cause-of-works-on-my-machine-2ec0)
-- [How to generate dynamic OG &lpar;OpenGraph&rpar; images with Satori and React](https://dev.to/woovi/how-to-generate-dynamic-og-opengraph-images-with-satori-and-react-1bhb)
+- [Frontend Technologies](https://dev.to/sardiusjay/frontend-technologies-2c27)
+- [Umbraco Helper Labels](https://dev.to/phil_93fe5acfd2fc42/umbraco-helper-labels-3okc)
+- [Practical usages of Idempotency](https://dev.to/woovi/practical-usages-of-idempotency-3926)
+- [Easy image management for MDX blogs](https://dev.to/indyman/frictionless-image-management-for-mdx-blogs-4015)
+- [5 Great Reasons Why Manual Testing is Not Efficient](https://dev.to/morrismoses149/5-great-reasons-why-manual-testing-is-not-efficient-23b9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
