@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter Version Management A Guide to Effortless Project Switching in Flutter News 2024 #25 ʚїɞ](https://dev.to/lucianojung/flutter-version-management-a-guide-to-effortless-project-switching-in-flutter-news-2024-25-eyie-4jgl)
-- [Letzz Understand Temporal Dead Zone in JS &lpar; TDZ &rpar; ;&rpar;](https://dev.to/darshanraval/letzz-understand-temporal-dead-zone-in-js-tdz--2h71)
-- [Automatic Visual Feedback for System Volume Change in I3wm via Dunst](https://dev.to/tomoviktor/automatic-visual-feedback-for-system-volume-change-in-i3wm-via-dunst-4lo9)
-- [Programação Orientada a Objetos: Herança](https://dev.to/fabianoflorentino/programacao-orientada-a-objetos-heranca-1pc3)
-- [QuickSlice Orders](https://dev.to/sadhik_patayit_9b1d5e4815/quickslice-orders-2mop)
+- [Create a React Tooltip component using Popover API](https://dev.to/hnrq/create-a-react-tooltip-component-using-popover-api-155o)
+- [Building a Motion Detection Camera with OpenCvSharp in .NET](https://dev.to/jwtiller_c47bdfa134adf302/building-a-motion-detection-camera-with-opencvsharp-in-net-kd4)
+- [Understanding Asynchronous JavaScript: Callbacks, Promise Chains, and Order of Execution](https://dev.to/faisalmh4045/understanding-asynchronous-javascript-callbacks-promise-chains-and-order-of-execution-2486)
+- [ComboBox](https://dev.to/paulike/combobox-34o9)
+- [How to automate NPM authentication to avoid providing credentials every time](https://dev.to/deepcodr/how-to-automate-npm-authentication-to-avoid-providing-credentials-every-time-2e1m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
