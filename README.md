@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Como Escanear Portas em um Website com Python](https://dev.to/moprius/como-escanear-portas-em-um-website-com-python-bdm)
-- [Boost Your Vocabulary Effortlessly with Vocabulary Booster!](https://dev.to/huseyn0w/boost-your-vocabulary-effortlessly-with-vocabulary-booster-11fd)
-- [Dial Up Success: Supercharge Your Google Ads Call-Only Campaigns with AI](https://dev.to/tarwiiga/dial-up-success-supercharge-your-google-ads-call-only-campaigns-with-ai-8h2)
-- [Supercharge Your Google Ads: Leveraging LLMs and Generative AI](https://dev.to/tarwiiga/supercharge-your-google-ads-leveraging-llms-and-generative-ai-1a9d)
-- [Dynamically Adding To The Webpage](https://dev.to/__khojiakbar__/dynamically-adding-to-the-webpage-5bnl)
+- [understanding react hooks](https://dev.to/yelldutz/understanding-react-hooks-3e69)
+- [Empowering Diversity: Imposter Syndrome and Economic Inclusion in Tech Worldwide](https://dev.to/frtechy/empowering-diversity-imposter-syndrome-and-economic-inclusion-in-tech-worldwide-59pe)
+- [How to Memoize Client-Side Fetched Data in Next.js Using the App Router](https://dev.to/sh20raj/how-to-memoize-client-side-fetched-data-in-nextjs-using-the-app-router-2fp7)
+- [Gym Planner | My Coding Adventure as a Code Newbie](https://dev.to/s-city/gym-planner-my-coding-adventure-as-a-code-newbie-h8p)
+- [Understanding Network Access Control Lists and Security Groups in AWS](https://dev.to/aws-builders/understanding-network-access-control-lists-and-security-groups-in-aws-3bk4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
