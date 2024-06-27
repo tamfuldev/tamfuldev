@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Deployments and Replica Sets in Kubernetes](https://dev.to/jensen1806/deployments-and-replica-sets-in-kubernetes-3ef5)
-- [Set requires_grad with requires_grad argument functions and get it in PyTorch](https://dev.to/hyperkai/set-requiresgrad-with-requiresgrad-argument-functions-and-get-it-in-pytorch-39c3)
-- [Balancing Side Projects with Full-Time Development Work](https://dev.to/bingecoder89/balancing-side-projects-with-full-time-development-work-13gc)
-- [-Events, Events Object, Window Elemnts, ClassList](https://dev.to/husniddin6939/-events-events-object-window-elemnts-classlist-ke5)
-- [My First Contribution to Open Source](https://dev.to/rasyidfam/my-first-contribution-to-open-source-479l)
+- [Flutter Version Management A Guide to Effortless Project Switching in Flutter News 2024 #25 ʚїɞ](https://dev.to/lucianojung/flutter-version-management-a-guide-to-effortless-project-switching-in-flutter-news-2024-25-eyie-4jgl)
+- [Letzz Understand Temporal Dead Zone in JS &lpar; TDZ &rpar; ;&rpar;](https://dev.to/darshanraval/letzz-understand-temporal-dead-zone-in-js-tdz--2h71)
+- [Automatic Visual Feedback for System Volume Change in I3wm via Dunst](https://dev.to/tomoviktor/automatic-visual-feedback-for-system-volume-change-in-i3wm-via-dunst-4lo9)
+- [Programação Orientada a Objetos: Herança](https://dev.to/fabianoflorentino/programacao-orientada-a-objetos-heranca-1pc3)
+- [QuickSlice Orders](https://dev.to/sadhik_patayit_9b1d5e4815/quickslice-orders-2mop)
 <!-- BLOG-POST-LIST:END -->
 
 ---
