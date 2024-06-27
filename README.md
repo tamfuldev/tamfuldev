@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mitigating disruption during Amazon EKS cluster upgrade with blue/green deployment](https://dev.to/haintkit/mitigating-disruption-during-amazon-eks-cluster-upgrade-with-bluegreen-deployments-5co)
-- [Which Database is Perfect for You? A Comprehensive Guide to MySQL, PostgreSQL, NoSQL, and More](https://dev.to/mmainulhasan/which-database-is-perfect-for-you-a-comprehensive-guide-to-mysql-postgresql-nosql-and-more-50jk)
-- [Laravel Timestamps – Automatic Handling of Created and Updated Dates](https://dev.to/n3rdnerd/laravel-timestamps-automatic-handling-of-created-and-updated-dates-530l)
-- [Migrating from Gitlap to Github enterprise](https://dev.to/basel5001/migrating-from-gitlap-to-github-enterprise-2f45)
-- [Unlock Your Programming Potential with Stanford&#39;s CS 106B 🚀](https://dev.to/getvm/unlock-your-programming-potential-with-stanfords-cs-106b-1aeg)
+- [GPT-4o — Are We Being LIED To?](https://dev.to/safdarali/gpt-4o-are-we-being-lied-to-4h0d)
+- [Optimizing the API Lifecycle: A Complete Guide](https://dev.to/getambassador2024/optimizing-the-api-lifecycle-a-complete-guide-i4c)
+- [Enhancing Performance in Your React Application](https://dev.to/msubhro/enhancing-performance-in-your-react-application-4pno)
+- [Stop using one table for your client&#39;s](https://dev.to/alfianriv/stop-using-one-table-for-your-clients-4d67)
+- [Introduction to Flask Package for Building APIs for React](https://dev.to/plug_panther_3129828fadf0/introduction-to-flask-package-for-building-apis-for-react-p9l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
