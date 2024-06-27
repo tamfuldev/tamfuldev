@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to develop comprehensive food delivery React Native mobile app?](https://dev.to/nadim_ch0wdhury/how-to-develop-comprehensive-food-delivery-react-native-mobile-app-2lap)
-- [Connect a VM with VS Code for Remote Development](https://dev.to/arabian619/connect-a-vm-with-vs-code-for-remote-development-50n7)
-- [aa](https://dev.to/ducanhmoi/a-95n)
-- [GBase 8c SQL Performance Optimization with Sharding Keys](https://dev.to/congcong/gbase-8c-sql-performance-optimization-with-sharding-keys-32f5)
-- [GBase 8c SQL Performance Optimization with Sharding Keys](https://dev.to/congcong/gbase-8c-sql-performance-optimization-with-sharding-keys-2844)
+- [Renovate for everything](https://dev.to/nfrankel/renovate-for-everything-1483)
+- [How to add “Save and add another” feature to Rails apps](https://dev.to/railsdesigner/how-to-add-save-and-add-another-feature-to-rails-apps-1ofa)
+- [How to use GHC plugin to save any part of a webpage as pure css component?](https://dev.to/liushuigs/how-to-use-ghc-plugin-to-save-any-part-of-a-webpage-as-pure-css-component-pp2)
+- [Import A TXT File Where The Separator Is Missing In A Column To Excel](https://dev.to/judith677/import-a-txt-file-where-the-separator-is-missing-in-a-column-to-excel-1ac6)
+- [Bundle and Publish TypeScript Package using Rollup](https://dev.to/jazimabbas/bundle-and-publish-typescript-package-using-rollup-3mf0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
