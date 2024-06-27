@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Create a React Tooltip component using Popover API](https://dev.to/hnrq/create-a-react-tooltip-component-using-popover-api-155o)
-- [Building a Motion Detection Camera with OpenCvSharp in .NET](https://dev.to/jwtiller_c47bdfa134adf302/building-a-motion-detection-camera-with-opencvsharp-in-net-kd4)
-- [Understanding Asynchronous JavaScript: Callbacks, Promise Chains, and Order of Execution](https://dev.to/faisalmh4045/understanding-asynchronous-javascript-callbacks-promise-chains-and-order-of-execution-2486)
-- [ComboBox](https://dev.to/paulike/combobox-34o9)
-- [How to automate NPM authentication to avoid providing credentials every time](https://dev.to/deepcodr/how-to-automate-npm-authentication-to-avoid-providing-credentials-every-time-2e1m)
+- [What it’s like to put code in production](https://dev.to/shreyvijayvargiya/what-its-like-to-put-code-in-production-4m61)
+- [Availability Sets vs Availability Zones](https://dev.to/dera2024/availability-sets-vs-availability-zones-2a4n)
+- [AZURE VIRTUAL MACHINE SCALE SET &lpar;VMSS&rpar;](https://dev.to/presh1/azure-virtual-machine-scale-set-vmss-2lo3)
+- [AWS Cost Optimization: Periodic Deletion of ECR Container Images](https://dev.to/siddhantkcode/aws-cost-optimization-periodic-deletion-of-ecr-container-images-3636)
+- [Hybrid Quantum-Classical Computing Leveraging Ternary Logic for Enhanced Performance](https://dev.to/eric_dequ/hybrid-quantum-classical-computing-leveraging-ternary-logic-for-enhanced-performance-5aje)
 <!-- BLOG-POST-LIST:END -->
 
 ---
