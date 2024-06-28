@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Things You Should Take Care During Angular Web Development](https://dev.to/dhruvjoshi9/top-10-things-you-should-take-care-during-angular-web-development-53cb)
-- [How Smart Sensors are Enhancing Construction Site Monitoring](https://dev.to/quantumcybersolution/how-smart-sensors-are-enhancing-construction-site-monitoring-59h2)
-- [Francisco de Quevedo](https://dev.to/eric_dequ/francisco-de-quevedo-e5a)
-- [Richard Feynman The Quantum Visionary Who Shaped the Future](https://dev.to/eric_dequ/richard-feynman-the-quantum-visionary-who-shaped-the-future-4lb2)
-- [Navigating Subcontracting Plan Requirements for Large Contractors](https://dev.to/quantumcybersolution/navigating-subcontracting-plan-requirements-for-large-contractors-1037)
+- [The Influence of Nature on Design: From Evolutionary Lessons to Practical Applications](https://dev.to/frtechy/the-influence-of-nature-on-design-from-evolutionary-lessons-to-practical-applications-4141)
+- [How Technology is Transforming Construction Site Logistics](https://dev.to/quantumcybersolution/how-technology-is-transforming-construction-site-logistics-3957)
+- [Preparing for a Government Contract Debriefing](https://dev.to/quantumcybersolution/preparing-for-a-government-contract-debriefing-57g7)
+- [How Technology is Enhancing Prefabrication and Modular Construction](https://dev.to/quantumcybersolution/how-technology-is-enhancing-prefabrication-and-modular-construction-4al3)
+- [Transforming Golf Putting with Augmented Reality Enhancing Precision and Performance](https://dev.to/eric_dequ/transforming-golf-putting-with-augmented-reality-enhancing-precision-and-performance-2lj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
