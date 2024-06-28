@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Comparing Tailwind CSS and Bootstrap: A Comprehensive Guide](https://dev.to/abdulluh/comparing-tailwind-css-and-bootstrap-a-comprehensive-guide-11cj)
-- [Mobile development platforms and the common software architecture](https://dev.to/mkaychuks/mobile-development-platforms-and-the-common-software-architecture-4bdh)
-- [Packages for Store Routines in MariaDB 11.4](https://dev.to/alejandro_du/packages-for-store-routines-in-mariadb-114-2h5o)
-- [The Great Policing Debate](https://dev.to/eric_dequ/the-great-policing-debate-4ln1)
-- [Government RFPs Deciphering and Responding Effectively](https://dev.to/quantumcybersolution/government-rfps-deciphering-and-responding-effectively-93i)
+- [How To Build A Cool Portfolio Website](https://dev.to/nelson_bermeo/how-to-build-a-cool-portfolio-website-4288)
+- [Formas de truncar texto en CSS](https://dev.to/codechappie/formas-de-truncar-texto-en-css-l01)
+- [Backing Up MongoDB Data: A Comprehensive Guide to mongodump and mongoexport](https://dev.to/chaets/backing-up-mongodb-data-a-comprehensive-guide-to-mongodump-and-mongoexport-3h8k)
+- [Firebase Security Rules: Effortless control over your app&#39;s data.](https://dev.to/codingcatdev/firebase-security-rules-effortless-control-over-your-apps-data-20kc)
+- [Video Tap: Automate Your Video Marketing with Chris Sev](https://dev.to/codingcatdev/video-tap-automate-your-video-marketing-with-chris-sev-bmk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
