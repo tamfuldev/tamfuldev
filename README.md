@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Influence of Nature on Design: From Evolutionary Lessons to Practical Applications](https://dev.to/frtechy/the-influence-of-nature-on-design-from-evolutionary-lessons-to-practical-applications-4141)
-- [How Technology is Transforming Construction Site Logistics](https://dev.to/quantumcybersolution/how-technology-is-transforming-construction-site-logistics-3957)
-- [Preparing for a Government Contract Debriefing](https://dev.to/quantumcybersolution/preparing-for-a-government-contract-debriefing-57g7)
-- [How Technology is Enhancing Prefabrication and Modular Construction](https://dev.to/quantumcybersolution/how-technology-is-enhancing-prefabrication-and-modular-construction-4al3)
-- [Transforming Golf Putting with Augmented Reality Enhancing Precision and Performance](https://dev.to/eric_dequ/transforming-golf-putting-with-augmented-reality-enhancing-precision-and-performance-2lj)
+- [WebRTC vs WebSocket: Key Differences and Which to Use](https://dev.to/stephen568hub/webrtc-vs-websocket-key-differences-and-which-to-use-20bi)
+- [Tutorial to Build a Flutter Live Streaming App](https://dev.to/stephen568hub/tutorial-to-build-a-flutter-live-streaming-app-5bfh)
+- [core java](https://dev.to/sahithi_puppala/core-java-4ch6)
+- [Building Business Logic with a Software Engineer Mentality](https://dev.to/jaloplo/building-business-logic-with-a-software-engineer-mentality-eaa)
+- [Beyond Bots: 5 Ways AI-Powered Chatbots Revolutionize the Developer Experience](https://dev.to/swati1267/beyond-bots-5-ways-ai-powered-chatbots-revolutionize-the-developer-experience-3a1b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
