@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Earned Value Management EVM in Government Projects](https://dev.to/quantumcybersolution/implementing-earned-value-management-evm-in-government-projects-4gh6)
-- [Protect Your Website from XSS Attacks](https://dev.to/eric_dequ/protect-your-website-from-xss-attacks-2fpo)
-- [How Artificial Intelligence is Improving Construction Site Security](https://dev.to/quantumcybersolution/how-artificial-intelligence-is-improving-construction-site-security-ijk)
-- [Implementing Continuous Improvement Practices in Government Contracting](https://dev.to/quantumcybersolution/implementing-continuous-improvement-practices-in-government-contracting-bff)
-- [TypeScript Node.js Boilerplate](https://dev.to/rohanyh101/typescript-nodejs-boilerplate-1fpm)
+- [Github as Helm repository](https://dev.to/boris/github-as-helm-repository-1lcf)
+- [Difference between CommonJS and ESM modules](https://dev.to/vinay_madan/difference-between-commonjs-and-esm-modules-4pff)
+- [Probiotics and Prebiotics Unleashing the Power of Gut Health for Mental Well-being](https://dev.to/eric_dequ/probiotics-and-prebiotics-unleashing-the-power-of-gut-health-for-mental-well-being-16mi)
+- [Diferença entre Strings e Literais de Caracteres](https://dev.to/devsjavagirls/diferenca-entre-strings-e-literais-de-caracteres-414n)
+- [How Big Data is Driving Decision-Making in Construction Projects](https://dev.to/quantumcybersolution/how-big-data-is-driving-decision-making-in-construction-projects-2k86)
 <!-- BLOG-POST-LIST:END -->
 
 ---
