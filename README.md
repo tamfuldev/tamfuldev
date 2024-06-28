@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GSA Contract Vehicle](https://dev.to/quantumcybersolution/gsa-contract-vehicle-1ohg)
-- [Building Relationships The Key to Long-Term Government Sales Success](https://dev.to/eric_dequ/building-relationships-the-key-to-long-term-government-sales-success-47a3)
-- [Get Free Image Hosting with Gur IMG](https://dev.to/sh20raj/get-free-image-hosting-with-gur-img-4p8i)
-- [How to Write a Winning Government Proposal](https://dev.to/eric_dequ/how-to-write-a-winning-government-proposal-hmj)
-- [Comprehensive React.js Cheatsheet for Developers](https://dev.to/raajaryan/comprehensive-reactjs-cheatsheet-for-developers-17e4)
+- [Implementing Earned Value Management EVM in Government Projects](https://dev.to/quantumcybersolution/implementing-earned-value-management-evm-in-government-projects-4gh6)
+- [Protect Your Website from XSS Attacks](https://dev.to/eric_dequ/protect-your-website-from-xss-attacks-2fpo)
+- [How Artificial Intelligence is Improving Construction Site Security](https://dev.to/quantumcybersolution/how-artificial-intelligence-is-improving-construction-site-security-ijk)
+- [Implementing Continuous Improvement Practices in Government Contracting](https://dev.to/quantumcybersolution/implementing-continuous-improvement-practices-in-government-contracting-bff)
+- [TypeScript Node.js Boilerplate](https://dev.to/rohanyh101/typescript-nodejs-boilerplate-1fpm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
