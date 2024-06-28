@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [THE DIFFERENT BETWEEN LIBRARY AND FRAMEWORK AND NOT USING BOTH WITH REAL LIFE  ILLUSTRATIONS](https://dev.to/abdulsalamamtech/the-different-between-library-and-framework-and-not-using-both-with-real-life-illustrations-48o4)
-- [Integrating RTMP and WebRTC for Real-Time Streaming](https://dev.to/harshitk/integrating-rtmp-and-webrtc-for-real-time-streaming-2lbb)
-- [Comparing two different frontend technologies: React and Angular](https://dev.to/famzyjr/comparing-two-different-frontend-technologies-react-and-angular-5f58)
-- [ICAM Cutting-Edge Identity Management for Optimal Security](https://dev.to/eric_dequ/icam-cutting-edge-identity-management-for-optimal-security-31jf)
-- [Mastering Color Palettes in UI/UX Design: Seeking Guidance from Experts](https://dev.to/prince_chouhan/mastering-color-palettes-in-uiux-design-seeking-guidance-from-experts-4j8h)
+- [Common Mistakes That Cause Unhandled Runtime Errors in React Typescript](https://dev.to/ashsajal/common-mistakes-that-cause-unhandled-runtime-errors-in-react-typescript-436b)
+- [Quantum Portfolio Optimization A Deep Dive into Algorithms and Data Encoding](https://dev.to/eric_dequ/quantum-portfolio-optimization-a-deep-dive-into-algorithms-and-data-encoding-42hm)
+- [The Career Advice No One Told Us &lpar;But We Wish They Had&rpar;](https://dev.to/tdesseyn/the-career-advice-no-one-told-us-but-we-wish-they-had-2192)
+- [Developing an Effective Compliance Program for Government Contracts](https://dev.to/quantumcybersolution/developing-an-effective-compliance-program-for-government-contracts-1n5b)
+- [Facing the Climate Crisis Together How Global Warming is an Opportunity for Unity and Innovation](https://dev.to/eric_dequ/facing-the-climate-crisis-together-how-global-warming-is-an-opportunity-for-unity-and-innovation-1ifc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
