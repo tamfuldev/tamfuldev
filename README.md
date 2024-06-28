@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Accelerated Integration: How We Met Our Deadline Ahead of Schedule.](https://dev.to/vaibhav9017/accelerated-integration-how-we-met-our-deadline-ahead-of-schedule-57fl)
-- [Using Past Performance Information Retrieval System PPIRS to Showcase Your Track Record](https://dev.to/quantumcybersolution/using-past-performance-information-retrieval-system-ppirs-to-showcase-your-track-record-2abh)
-- [How to Use Predictive Maintenance for Construction Equipment](https://dev.to/quantumcybersolution/how-to-use-predictive-maintenance-for-construction-equipment-55kg)
-- [God Explained With Math](https://dev.to/eric_dequ/god-explained-with-math-580j)
-- [Using GSA eBuy for Targeted Government Contract Opportunities](https://dev.to/quantumcybersolution/using-gsa-ebuy-for-targeted-government-contract-opportunities-3539)
+- [Comparing Tailwind CSS and Bootstrap: A Comprehensive Guide](https://dev.to/abdulluh/comparing-tailwind-css-and-bootstrap-a-comprehensive-guide-11cj)
+- [Mobile development platforms and the common software architecture](https://dev.to/mkaychuks/mobile-development-platforms-and-the-common-software-architecture-4bdh)
+- [Packages for Store Routines in MariaDB 11.4](https://dev.to/alejandro_du/packages-for-store-routines-in-mariadb-114-2h5o)
+- [The Great Policing Debate](https://dev.to/eric_dequ/the-great-policing-debate-4ln1)
+- [Government RFPs Deciphering and Responding Effectively](https://dev.to/quantumcybersolution/government-rfps-deciphering-and-responding-effectively-93i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
