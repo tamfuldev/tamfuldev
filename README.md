@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Impact of Cloud Computing on Construction Collaboration and Data Management](https://dev.to/quantumcybersolution/the-impact-of-cloud-computing-on-construction-collaboration-and-data-management-3bf1)
-- [[Game of Purpose] Day 41](https://dev.to/humberd/game-of-purpose-day-41-5dkj)
-- [Harmonizing Soundscapes Quantum Computings Role in Music Innovation and Listening Experience](https://dev.to/eric_dequ/harmonizing-soundscapes-quantum-computings-role-in-music-innovation-and-listening-experience-3en0)
-- [Harnessing Quantum Computing for Next-Generation Drug Discovery](https://dev.to/eric_dequ/harnessing-quantum-computing-for-next-generation-drug-discovery-339k)
-- [The Impact of Autonomous Machinery on the Construction Industry](https://dev.to/quantumcybersolution/the-impact-of-autonomous-machinery-on-the-construction-industry-3fe4)
+- [Set out with out argument functions PyTorch](https://dev.to/hyperkai/set-out-with-out-argument-functions-pytorch-3ee)
+- [The Impact of Emerging Technologies on Construction Industry Regulations](https://dev.to/quantumcybersolution/the-impact-of-emerging-technologies-on-construction-industry-regulations-362n)
+- [Hamiltonian Simulation Trotterization](https://dev.to/eric_dequ/hamiltonian-simulation-trotterization-4ena)
+- [Quantum Simulation Ideas and Issues](https://dev.to/eric_dequ/quantum-simulation-ideas-and-issues-4aeo)
+- [The Impact of Digital Workflows on Construction Documentation](https://dev.to/quantumcybersolution/the-impact-of-digital-workflows-on-construction-documentation-32lo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
