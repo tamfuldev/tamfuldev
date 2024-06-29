@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Entendendo o MTU nas Redes de Computadores](https://dev.to/iamthiago/entendendo-o-mtu-nas-redes-de-computadores-21d5)
-- [Exploring Frontend Technologies: Elm vs. Svelte](https://dev.to/0mobolaji/exploring-frontend-technologies-elm-vs-svelte-4hp0)
-- [CodeBehind 2.8 Released, Cache the Pages and the Controller](https://dev.to/elanatframework/codebehind-28-released-cache-the-pages-and-the-controller-j6h)
-- [Databricks - Variant Type Analysis](https://dev.to/dadak5/databricks-variant-type-analysis-1bh1)
-- [🦊 GitLab: A Python Script Displaying Latest Pipelines in Group&#39;s Projects](https://dev.to/zenika/gitlab-a-python-script-displaying-latest-pipelines-in-groups-projects-5b5a)
+- [Managed vs Unmanaged Web Hosting: Which One to Choose?](https://dev.to/sheikh009/managed-vs-unmanaged-web-hosting-which-one-to-choose-3mm3)
+- [Unleashing the Power of PHP: Modern Techniques and Best Practices for Web Development](https://dev.to/cachemerrill/unleashing-the-power-of-php-modern-techniques-and-best-practices-for-web-development-38cd)
+- [Quantum Annealing The Future of Combinatorial Optimization](https://dev.to/quantumcybersolution/quantum-annealing-the-future-of-combinatorial-optimization-5fba)
+- [Debugging My Demons : Console.log&lpar;Story Untold&rpar;](https://dev.to/oladee/debugging-my-demons-consolelogstory-untold-2oak)
+- [My Pen on CodePen](https://dev.to/vera_shalamanova_9c0ef926/my-pen-on-codepen-29mf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
