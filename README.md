@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Real-time chat communication for a messaging system with NodeJs and Socket.IO](https://dev.to/ericblak_x/real-time-chat-communication-for-a-messaging-system-with-nodejs-and-socketio-4ac)
-- [Heartbeat Harmony How Does a Pacemaker Regulate the Heart](https://dev.to/eric_dequ/heartbeat-harmony-how-does-a-pacemaker-regulate-the-heart-1g30)
-- [How Do Electric Eels Generate Electricity The Shocking Truth](https://dev.to/eric_dequ/how-do-electric-eels-generate-electricity-the-shocking-truth-3ll0)
-- [The Impact of Technology on Construction Industry Best Practices](https://dev.to/quantumcybersolution/the-impact-of-technology-on-construction-industry-best-practices-52j5)
-- [The Electric Revolution Exploring the Science Behind Electric Cars](https://dev.to/eric_dequ/the-electric-revolution-exploring-the-science-behind-electric-cars-51fc)
+- [Defying Gravity The Science Behind Airplanes Staying Aloft](https://dev.to/eric_dequ/defying-gravity-the-science-behind-airplanes-staying-aloft-hb8)
+- [The Role of Advanced Robotics in Construction Automation](https://dev.to/quantumcybersolution/the-role-of-advanced-robotics-in-construction-automation-5893)
+- [The Marvel of Gecko Adhesion How Geckos Stick to Walls](https://dev.to/eric_dequ/the-marvel-of-gecko-adhesion-how-geckos-stick-to-walls-48fh)
+- [The Rhythm of the Ocean How Do Tides Work](https://dev.to/eric_dequ/the-rhythm-of-the-ocean-how-do-tides-work-48dh)
+- [React.js vs. Vue.js: A Quick Comparison of Frontend Technologies](https://dev.to/folanuel/reactjs-vs-vuejs-a-quick-comparison-of-frontend-technologies-1df4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
