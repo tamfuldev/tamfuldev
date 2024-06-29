@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Architectural Patterns In Mobile Development](https://dev.to/cephasarowolo/architectural-patterns-in-mobile-development-3f3b)
-- [My Journey into Backend Development: Tackling My First NodeJS Challenge](https://dev.to/timilehin_abegunde_ec7afd/my-journey-into-backend-development-tackling-my-first-nodejs-challenge-5abf)
-- [Exploring the Role of Quantum Error Correction Codes in Protecting Quantum Information](https://dev.to/quantumcybersolution/exploring-the-role-of-quantum-error-correction-codes-in-protecting-quantum-information-527a)
-- [Tips to Improve your JavaScript Skills](https://dev.to/blessing_ovhorokpa_da16ad/tips-to-improve-your-javascript-skills-393n)
-- [The Technological Transformation of Construction Key Advancements](https://dev.to/quantumcybersolution/the-technological-transformation-of-construction-key-advancements-4nl6)
+- [Kickstart Your Python Journey A Beginners Guide](https://dev.to/quantumcybersolution/kickstart-your-python-journey-a-beginners-guide-14c5)
+- [Demystifying AI: A Beginner&#39;s Guide to Artificial Intelligence](https://dev.to/akshay5651/demystifying-ai-a-beginners-guide-to-artificial-intelligence-3p4d)
+- [MyFirstApp - React Native with Expo &lpar;P5&rpar; - Code Layout Cart Screen](https://dev.to/skipperhoa/myfirstapp-react-native-with-expo-p5-code-layout-cart-screen-1nnj)
+- [core java -Basics](https://dev.to/sahithi_puppala/core-java-basics-2aec)
+- [MyFirstApp - React Native with Expo &lpar;P4&rpar; - Add Fix Footer Screen](https://dev.to/skipperhoa/myfirstapp-react-native-with-expo-p4-add-fix-footer-screen-15cd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
