@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 19 Task: Docker for DevOps Engineers](https://dev.to/oncloud7/day-19-task-docker-for-devops-engineers-5ck5)
-- [Profile Card UI using Html &amp; Css - flexbox](https://dev.to/syedmuhammadaliraza/pro-file-card-ui-using-html-css-flexbox-518f)
-- [Azure Virtual Machine Scale Set.](https://dev.to/tojumercy1/azure-virtual-machine-scale-set-p47)
-- [C Basics](https://dev.to/harshm03/c-basics-585k)
-- [Brief Overview of the Importance of Frontend Technologies in Modern Web Development](https://dev.to/abelosaretin/brief-overview-of-the-importance-of-frontend-technologies-in-modern-web-development-eo2)
+- [Throw Away your Code!](https://dev.to/noriller/throw-away-your-code-4152)
+- [Tree data structures in Rust with tree-ds &lpar;#2: Tree Operations&rpar;](https://dev.to/clementwanjau/tree-data-structures-in-rust-with-tree-ds-2-tree-operations-54ph)
+- [Telegram Mini App Development: Enhancing the Memory Game with Card Upgrades](https://dev.to/king_triton/telegram-mini-app-development-enhancing-the-memory-game-with-card-upgrades-hn4)
+- [Reactjs or Vuejs](https://dev.to/habib0007/reactjs-or-vuejs-1345)
+- [Refactoring Nuxt Token Authentication Module to Use Nitro&#39;s Default db0 Layer](https://dev.to/rrd/refactoring-nuxt-token-authentication-module-to-use-nitros-default-db0-layer-18fd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
