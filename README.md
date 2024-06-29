@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Angular vs React: A Frontend Showdown](https://dev.to/aminah_rashid_049c0e6deff/angular-vs-react-a-frontend-showdown-cpf)
-- [Handling Double Teams Maintaining Composure and Finding Options](https://dev.to/quantumcybersolution/handling-double-teams-maintaining-composure-and-finding-options-1p37)
-- [A wonderful world of backend](https://dev.to/patricekalwira/a-wonderful-world-of-backend-2nff)
-- [How to Become a Frontend Engineer Without a Degree — From My Experience](https://dev.to/codebymedu/how-to-become-a-frontend-engineer-without-a-degree-from-my-experience-4kfc)
-- [Space-Based Manufacturing The Next Frontier of Economic Growth](https://dev.to/quantumcybersolution/space-based-manufacturing-the-next-frontier-of-economic-growth-53nn)
+- [Add Art to your Agile Retrospectives 🧑‍🎨🎨](https://dev.to/mattlewandowski93/add-art-to-your-agile-retrospectives-2noi)
+- [Perfecting the Hook Shot A Classic Scoring Technique](https://dev.to/quantumcybersolution/perfecting-the-hook-shot-a-classic-scoring-technique-3aci)
+- [Don&#39;t Pray To The Duck](https://dev.to/thesimpledev/dont-pray-to-the-duck-2kbj)
+- [Secure Application Software Development](https://dev.to/owasp/secure-application-software-development-59ad)
+- [Secure Application Software Development](https://dev.to/owasp/secure-application-software-development-3a4b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
