@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Set out with out argument functions PyTorch](https://dev.to/hyperkai/set-out-with-out-argument-functions-pytorch-3ee)
-- [The Impact of Emerging Technologies on Construction Industry Regulations](https://dev.to/quantumcybersolution/the-impact-of-emerging-technologies-on-construction-industry-regulations-362n)
-- [Hamiltonian Simulation Trotterization](https://dev.to/eric_dequ/hamiltonian-simulation-trotterization-4ena)
-- [Quantum Simulation Ideas and Issues](https://dev.to/eric_dequ/quantum-simulation-ideas-and-issues-4aeo)
-- [The Impact of Digital Workflows on Construction Documentation](https://dev.to/quantumcybersolution/the-impact-of-digital-workflows-on-construction-documentation-32lo)
+- [Real-time chat communication for a messaging system with NodeJs and Socket.IO](https://dev.to/ericblak_x/real-time-chat-communication-for-a-messaging-system-with-nodejs-and-socketio-4ac)
+- [Heartbeat Harmony How Does a Pacemaker Regulate the Heart](https://dev.to/eric_dequ/heartbeat-harmony-how-does-a-pacemaker-regulate-the-heart-1g30)
+- [How Do Electric Eels Generate Electricity The Shocking Truth](https://dev.to/eric_dequ/how-do-electric-eels-generate-electricity-the-shocking-truth-3ll0)
+- [The Impact of Technology on Construction Industry Best Practices](https://dev.to/quantumcybersolution/the-impact-of-technology-on-construction-industry-best-practices-52j5)
+- [The Electric Revolution Exploring the Science Behind Electric Cars](https://dev.to/eric_dequ/the-electric-revolution-exploring-the-science-behind-electric-cars-51fc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
