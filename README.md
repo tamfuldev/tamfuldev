@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Git you can learn on the fly](https://dev.to/mibii/git-you-can-learn-on-the-fly-366b)
-- [Tailwind CSS or Styled Components?](https://dev.to/eyesaidyo/tailwind-css-or-styled-components-1dj3)
-- [The Role of Data in Machine Learning: A Guide for Beginners](https://dev.to/fizza_c3e734ee2a307cf35e5/the-role-of-data-in-machine-learning-a-guide-for-beginners-2ll0)
-- [Mastering Data Analysis with Microsoft Excel](https://dev.to/quantumcybersolution/mastering-data-analysis-with-microsoft-excel-2j7n)
-- [Mastering Docker: A Journey Through Essential Practices 🚀](https://dev.to/labex/mastering-docker-a-journey-through-essential-practices-5fh1)
+- [Entendendo o MTU nas Redes de Computadores](https://dev.to/iamthiago/entendendo-o-mtu-nas-redes-de-computadores-21d5)
+- [Exploring Frontend Technologies: Elm vs. Svelte](https://dev.to/0mobolaji/exploring-frontend-technologies-elm-vs-svelte-4hp0)
+- [CodeBehind 2.8 Released, Cache the Pages and the Controller](https://dev.to/elanatframework/codebehind-28-released-cache-the-pages-and-the-controller-j6h)
+- [Databricks - Variant Type Analysis](https://dev.to/dadak5/databricks-variant-type-analysis-1bh1)
+- [🦊 GitLab: A Python Script Displaying Latest Pipelines in Group&#39;s Projects](https://dev.to/zenika/gitlab-a-python-script-displaying-latest-pipelines-in-groups-projects-5b5a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
