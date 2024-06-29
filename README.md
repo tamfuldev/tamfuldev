@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Potential Applications of Quantum Computing in Drug Discovery and Materials Science](https://dev.to/quantumcybersolution/exploring-the-potential-applications-of-quantum-computing-in-drug-discovery-and-materials-science-2776)
-- [SQL AND THE DJANGO ORM](https://dev.to/mustopha-mubarak/sql-and-the-django-orm-2dch)
-- [Agave Revolutionizing Construction Data Integration and Interoperability](https://dev.to/quantumcybersolution/agave-revolutionizing-construction-data-integration-and-interoperability-23b5)
-- [Frontend Technologies](https://dev.to/bright_abel_bce200514b51a/frontend-technologies-41l4)
-- [Why is website performance important?](https://dev.to/blessing_ovhorokpa_da16ad/why-is-website-performance-important-on1)
+- [Architectural Patterns In Mobile Development](https://dev.to/cephasarowolo/architectural-patterns-in-mobile-development-3f3b)
+- [My Journey into Backend Development: Tackling My First NodeJS Challenge](https://dev.to/timilehin_abegunde_ec7afd/my-journey-into-backend-development-tackling-my-first-nodejs-challenge-5abf)
+- [Exploring the Role of Quantum Error Correction Codes in Protecting Quantum Information](https://dev.to/quantumcybersolution/exploring-the-role-of-quantum-error-correction-codes-in-protecting-quantum-information-527a)
+- [Tips to Improve your JavaScript Skills](https://dev.to/blessing_ovhorokpa_da16ad/tips-to-improve-your-javascript-skills-393n)
+- [The Technological Transformation of Construction Key Advancements](https://dev.to/quantumcybersolution/the-technological-transformation-of-construction-key-advancements-4nl6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
