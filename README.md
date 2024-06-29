@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Add Art to your Agile Retrospectives 🧑‍🎨🎨](https://dev.to/mattlewandowski93/add-art-to-your-agile-retrospectives-2noi)
-- [Perfecting the Hook Shot A Classic Scoring Technique](https://dev.to/quantumcybersolution/perfecting-the-hook-shot-a-classic-scoring-technique-3aci)
-- [Don&#39;t Pray To The Duck](https://dev.to/thesimpledev/dont-pray-to-the-duck-2kbj)
-- [Secure Application Software Development](https://dev.to/owasp/secure-application-software-development-59ad)
-- [Secure Application Software Development](https://dev.to/owasp/secure-application-software-development-3a4b)
+- [About the &quot;S&quot; in Solid](https://dev.to/efpage/about-the-s-in-solid-4gcl)
+- [After 1 Year, ASP.NET Core CodeBehind Framework](https://dev.to/elanatframework/after-1-year-aspnet-core-codebehind-framework-2e99)
+- [Understanding Frontend Technologies by Comparing React vs. Angular](https://dev.to/islot/understanding-frontend-technologies-by-comparing-react-vs-angular-4ga7)
+- [Neural Network From Scratch Project](https://dev.to/nelson_bermeo/neural-network-from-scratch-project-12ec)
+- [Generating a result with a context](https://dev.to/cmcrawford2/generating-a-result-with-a-context-2cc8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
