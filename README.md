@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [dependency injection in typescript using di-injectable library](https://dev.to/farajshuaib/dependency-injection-in-typescript-using-di-injectable-library-29n2)
-- [C, Essential Libraries](https://dev.to/harshm03/c-essential-libraries-4hda)
-- [Forging Impenetrable AWS Identities: Safeguarding the Root User and IAM Users](https://dev.to/ikoh_sylva/forging-impenetrable-aws-identities-safeguarding-the-root-user-and-iam-users-16e1)
-- [Creating a simple referral System in ExpressJS](https://dev.to/konan69/creating-a-simple-referral-system-in-expressjs-3b3b)
-- [Revolutionizing Supply Chain Management with Blockchain Technology](https://dev.to/quantumcybersolution/revolutionizing-supply-chain-management-with-blockchain-technology-47hd)
+- [Angular vs React: A Frontend Showdown](https://dev.to/aminah_rashid_049c0e6deff/angular-vs-react-a-frontend-showdown-cpf)
+- [Handling Double Teams Maintaining Composure and Finding Options](https://dev.to/quantumcybersolution/handling-double-teams-maintaining-composure-and-finding-options-1p37)
+- [A wonderful world of backend](https://dev.to/patricekalwira/a-wonderful-world-of-backend-2nff)
+- [How to Become a Frontend Engineer Without a Degree — From My Experience](https://dev.to/codebymedu/how-to-become-a-frontend-engineer-without-a-degree-from-my-experience-4kfc)
+- [Space-Based Manufacturing The Next Frontier of Economic Growth](https://dev.to/quantumcybersolution/space-based-manufacturing-the-next-frontier-of-economic-growth-53nn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
