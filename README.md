@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Title: Svelte vs Astro: A Comparison of Frontend Technologies.](https://dev.to/agunwachidiebelecalistus/title-svelte-vs-astro-a-comparison-of-frontend-technologies-3e5b)
-- [Mastering Adobe Lightroom From Importing to Exporting](https://dev.to/quantumcybersolution/mastering-adobe-lightroom-from-importing-to-exporting-2p8f)
-- [LeetCode Day21 BackTracking Part 3](https://dev.to/flame_chan_llll/leetcode-day21-backtracking-part-3-2hhk)
-- [Asynchronous JavaScript: An In-Depth Guide](https://dev.to/genius1k/asynchronous-javascript-an-in-depth-guide-oea)
-- [OWASP Dependency Check in Node js 🛡️](https://dev.to/silentwatcher_95/owasp-dependency-check-in-node-js-1oo6)
+- [Git you can learn on the fly](https://dev.to/mibii/git-you-can-learn-on-the-fly-366b)
+- [Tailwind CSS or Styled Components?](https://dev.to/eyesaidyo/tailwind-css-or-styled-components-1dj3)
+- [The Role of Data in Machine Learning: A Guide for Beginners](https://dev.to/fizza_c3e734ee2a307cf35e5/the-role-of-data-in-machine-learning-a-guide-for-beginners-2ll0)
+- [Mastering Data Analysis with Microsoft Excel](https://dev.to/quantumcybersolution/mastering-data-analysis-with-microsoft-excel-2j7n)
+- [Mastering Docker: A Journey Through Essential Practices 🚀](https://dev.to/labex/mastering-docker-a-journey-through-essential-practices-5fh1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
