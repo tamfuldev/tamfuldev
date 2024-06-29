@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Polymorphic vs Shared Table: Is speed a valid concern?](https://dev.to/lucaskuhn/polymorphic-vs-shared-table-is-speed-a-valid-concern-22ki)
-- [Quantum Computing The Next Frontier in Cybersecurity](https://dev.to/quantumcybersolution/quantum-computing-the-next-frontier-in-cybersecurity-1lo6)
-- [CSS for VR and AR: Styling for Virtual Worlds](https://dev.to/adewale_gbenga/css-for-vr-and-ar-styling-for-virtual-worlds-4g2)
-- [19 Next.js Project Ideas For You to Get Hired](https://dev.to/codebymedu/19-nextjs-project-ideas-for-you-to-get-hired-3i84)
-- [Building Blocks Of Zig: Unions](https://dev.to/dayvster/building-blocks-of-zig-unions-3bmg)
+- [Day 19 Task: Docker for DevOps Engineers](https://dev.to/oncloud7/day-19-task-docker-for-devops-engineers-5ck5)
+- [Profile Card UI using Html &amp; Css - flexbox](https://dev.to/syedmuhammadaliraza/pro-file-card-ui-using-html-css-flexbox-518f)
+- [Azure Virtual Machine Scale Set.](https://dev.to/tojumercy1/azure-virtual-machine-scale-set-p47)
+- [C Basics](https://dev.to/harshm03/c-basics-585k)
+- [Brief Overview of the Importance of Frontend Technologies in Modern Web Development](https://dev.to/abelosaretin/brief-overview-of-the-importance-of-frontend-technologies-in-modern-web-development-eo2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
