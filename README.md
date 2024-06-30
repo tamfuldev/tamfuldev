@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[DAY 66-68] I built a drum set app using React](https://dev.to/thomascansino/day-66-68-i-built-a-drum-set-app-using-react-4i19)
-- [Use AWS Serverless to sell items in Habitica](https://dev.to/aws-builders/use-aws-serverless-to-sell-items-in-habitica-91)
-- [Understanding Declarative Programming in React](https://dev.to/imabhinavdev/understanding-declarative-programming-in-react-197i)
-- [Top Cloud Providers in 2024](https://dev.to/devops_den/top-cloud-providers-in-2024-fne)
-- [Understanding JavaScript Closures: A Comprehensive Guide](https://dev.to/mukeshb/understanding-javascript-closures-a-comprehensive-guide-306p)
+- [What is Associative Arrays in Computer Science](https://dev.to/m__mdy__m/what-is-associative-arrays-in-computer-science-1dhe)
+- [Using Multiple DbContexts in a Single Query Execution](https://dev.to/nilebits/using-multiple-dbcontexts-in-a-single-query-execution-p13)
+- [Bootstrap vs. Tailwind CSS: Which CSS Framework is Best for Your Web Development Project?](https://dev.to/hamda_mohamed_8e071c7a84b/bootstrap-vs-tailwind-css-which-css-framework-is-best-for-your-web-development-project-19ej)
+- [How to add Favicons in Django &lpar;2024&rpar;](https://dev.to/someab/how-to-add-favicons-in-django-2024-48da)
+- [All of Reacts concepts- one article](https://dev.to/albertjokelin/all-of-reacts-concepts-one-article-1ij9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
