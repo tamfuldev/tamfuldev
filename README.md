@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Prolog first steps: predicates, metapredicates, lambdas](https://dev.to/escribapetrus/prolog-first-steps-predicates-metapredicates-lambdas-47md)
-- [React vs Angular: Tips to help you choose ⚔️💻](https://dev.to/joebim/react-vs-angular-tips-to-help-you-choose-49ca)
-- [Revolutionize Language Learning](https://dev.to/huseyn0w/revolutionize-language-learning-24n5)
-- [Code Smell 256 - Mutable Getters](https://dev.to/mcsee/code-smell-256-mutable-getters-1e4e)
-- [Automating the Mundane: My Journey with Node-cron](https://dev.to/aminah_rashid_049c0e6deff/automating-the-mundane-my-journey-with-node-cron-2gi7)
+- [Symfony Station Communiqué - 28 June 2024: A look at Symfony, Drupal, PHP, Cybersec, and Fediverse News!](https://dev.to/reubenwalker64/symfony-station-communique-28-june-2024-a-look-at-symfony-drupal-php-cybersec-and-fediverse-news-5dmk)
+- [Symfony Station Communiqué - 28 June 2024: A look at Symfony, Drupal, PHP, Cybersec, and Fediverse News!](https://dev.to/reubenwalker64/symfony-station-communique-28-june-2024-a-look-at-symfony-drupal-php-cybersec-and-fediverse-news-2n6n)
+- [SwiftUI Environment Variables: Navigating the Same-Type Constraint](https://dev.to/asafhuseyn/swiftui-environment-variables-navigating-the-same-type-constraint-3lno)
+- [Building a DOCX to Markdown Converter with Node.js](https://dev.to/sacode/building-a-docx-to-markdown-converter-with-nodejs-1106)
+- [Developing Serverless Applications with Cloudflare Workers](https://dev.to/kartikmehta8/developing-serverless-applications-with-cloudflare-workers-414a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
