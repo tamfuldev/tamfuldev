@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to validate requests in Amazon API Gateway](https://dev.to/iamsherif/how-to-validate-requests-in-amazon-api-gateway-4n78)
-- [O que aprendi sobre Monitoramento de Aplicações Front-End nos últimos meses.](https://dev.to/soares_pedro/o-que-aprendi-sobre-monitoramento-de-aplicacoes-front-end-nos-ultimos-meses-18ol)
-- [O que aprendi sobre Monitoramento de Aplicações Front-End nos últimos meses.](https://dev.to/soares_pedro/o-que-aprendi-sobre-monitoramento-de-aplicacoes-front-end-nos-ultimos-meses-aom)
-- [ReactJS vs. AngularJS: A Comparative Analysis of Frontend Technologies](https://dev.to/iniubong_udofot/reactjs-vs-angularjs-a-comparative-analysis-of-frontend-technologies-4o7h)
-- [React vs Vue: An In-dept. Comparison of Two Frontend Heavyweights](https://dev.to/olowoyeye_segun_1206db84a/react-vs-vue-an-in-dept-comparison-of-two-frontend-heavyweights-4c31)
+- [Top 5 Coolest shadcn/ui Extensions](https://dev.to/dellboyan/top-5-coolest-shadcnui-extensions-4n7i)
+- [Implementando Lazy Loading em Componentes React](https://dev.to/vitorrios1001/implementando-lazy-loading-em-componentes-react-49fg)
+- [IAC - Azure WebApp creation](https://dev.to/learnwithsrini/iac-azure-webapp-creation-3nlo)
+- [Hello, DEV Community! I&#39;m Makda Nebyu](https://dev.to/makda_nebyu_f886a8063bc9f/hello-dev-community-im-makda-nebyu-njb)
+- [Verify Windows ISO file in bash](https://dev.to/emrocode/verify-windows-iso-file-in-bash-4j9o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
