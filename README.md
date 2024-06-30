@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Symfony Station Communiqué - 28 June 2024: A look at Symfony, Drupal, PHP, Cybersec, and Fediverse News!](https://dev.to/reubenwalker64/symfony-station-communique-28-june-2024-a-look-at-symfony-drupal-php-cybersec-and-fediverse-news-5dmk)
-- [Symfony Station Communiqué - 28 June 2024: A look at Symfony, Drupal, PHP, Cybersec, and Fediverse News!](https://dev.to/reubenwalker64/symfony-station-communique-28-june-2024-a-look-at-symfony-drupal-php-cybersec-and-fediverse-news-2n6n)
-- [SwiftUI Environment Variables: Navigating the Same-Type Constraint](https://dev.to/asafhuseyn/swiftui-environment-variables-navigating-the-same-type-constraint-3lno)
-- [Building a DOCX to Markdown Converter with Node.js](https://dev.to/sacode/building-a-docx-to-markdown-converter-with-nodejs-1106)
-- [Developing Serverless Applications with Cloudflare Workers](https://dev.to/kartikmehta8/developing-serverless-applications-with-cloudflare-workers-414a)
+- [Boost Your Angular App&#39;s Speed: Code Splitting Strategies](https://dev.to/wirefuture/boost-your-angular-apps-speed-code-splitting-strategies-5e5a)
+- [My Disney Internship: Month One](https://dev.to/dlewisdev/my-disney-internship-month-one-1akk)
+- [SvelteKit with Notion CMS](https://dev.to/codingcatdev/sveltekit-with-notion-cms-o2d)
+- [JS Runtime / Execution context](https://dev.to/bekmuhammaddev/js-runtime-execution-context-3900)
+- [Unified Approximation Theorem for Neural Networks](https://dev.to/ramsi90/unified-approximation-theorem-for-neural-networks-2b23)
 <!-- BLOG-POST-LIST:END -->
 
 ---
