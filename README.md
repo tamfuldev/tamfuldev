@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Is Your Sidebar Hurting Your UX? Our Redesign Journey to Effortless Navigation](https://dev.to/ganesh-kumar/is-your-sidebar-hurting-your-ux-our-redesign-journey-to-effortless-navigation-391d)
-- [“==” and “===” difference in javascript](https://dev.to/sagar7170/-and-difference-in-javascript-44c1)
-- [Confusion vs Diffusion in cryptography](https://dev.to/himanshu_raj55/confusion-vs-diffusion-in-cryptography-i0n)
-- [Variable &amp; Variable Scope in PHP](https://dev.to/gunawanefendi/variable-variable-scope-in-php-3l4a)
-- [MyFirstApp - React Native with Expo &lpar;P11&rpar; - Create a Layout Settings](https://dev.to/skipperhoa/myfirstapp-react-native-with-expo-p11-create-a-layout-settings-4fd4)
+- [Monitoring, troubleshooting, and query analytics for PostgreSQL on Kubernetes](https://dev.to/dbazhenov/monitoring-troubleshooting-and-query-analytics-for-postgresql-on-kubernetes-2onj)
+- [Secure Coding - Beyond the Surface with Snyk](https://dev.to/codingcatdev/secure-coding-beyond-the-surface-with-snyk-4bea)
+- [Bringing Web Pages to Life with CSS Animations: A Step-by-Step Guide](https://dev.to/kemiowoyele1/bringing-web-pages-to-life-with-css-animations-a-step-by-step-guide-3o8o)
+- [Useful aliases for docker](https://dev.to/rubiin/useful-aliases-for-docker-3kli)
+- [Angular vs. Ember.js: A Comparison of Frontend Frameworks](https://dev.to/muritala_ahmed_23d51e7a3b/angular-vs-emberjs-a-comparison-of-frontend-frameworks-3cb6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
