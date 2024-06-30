@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Boost Your Angular App&#39;s Speed: Code Splitting Strategies](https://dev.to/wirefuture/boost-your-angular-apps-speed-code-splitting-strategies-5e5a)
-- [My Disney Internship: Month One](https://dev.to/dlewisdev/my-disney-internship-month-one-1akk)
-- [SvelteKit with Notion CMS](https://dev.to/codingcatdev/sveltekit-with-notion-cms-o2d)
-- [JS Runtime / Execution context](https://dev.to/bekmuhammaddev/js-runtime-execution-context-3900)
-- [Unified Approximation Theorem for Neural Networks](https://dev.to/ramsi90/unified-approximation-theorem-for-neural-networks-2b23)
+- [GitHub to Artifact Registry &amp; Docker Hub via Cloud Build](https://dev.to/dchaley/github-to-artifact-registry-docker-hub-via-cloud-build-16d1)
+- [Typescript over JavaScript](https://dev.to/tofail/typescript-over-javascript-3oji)
+- [VDO Ninja woes and Overlay Setup](https://dev.to/codingcatdev/vdo-ninja-woes-and-overlay-setup-3jc)
+- [Numpy Isnumeric Function: Mastering Numeric String Validation](https://dev.to/labex/numpy-isnumeric-function-mastering-numeric-string-validation-4g0m)
+- [How to make Slack Workflow input form](https://dev.to/takahiro_82jp/how-to-make-slack-workflow-input-form-4doa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
