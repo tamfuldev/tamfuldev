@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [About the &quot;S&quot; in Solid](https://dev.to/efpage/about-the-s-in-solid-4gcl)
-- [After 1 Year, ASP.NET Core CodeBehind Framework](https://dev.to/elanatframework/after-1-year-aspnet-core-codebehind-framework-2e99)
-- [Understanding Frontend Technologies by Comparing React vs. Angular](https://dev.to/islot/understanding-frontend-technologies-by-comparing-react-vs-angular-4ga7)
-- [Neural Network From Scratch Project](https://dev.to/nelson_bermeo/neural-network-from-scratch-project-12ec)
-- [Generating a result with a context](https://dev.to/cmcrawford2/generating-a-result-with-a-context-2cc8)
+- [Prolog first steps: predicates, metapredicates, lambdas](https://dev.to/escribapetrus/prolog-first-steps-predicates-metapredicates-lambdas-47md)
+- [React vs Angular: Tips to help you choose ⚔️💻](https://dev.to/joebim/react-vs-angular-tips-to-help-you-choose-49ca)
+- [Revolutionize Language Learning](https://dev.to/huseyn0w/revolutionize-language-learning-24n5)
+- [Code Smell 256 - Mutable Getters](https://dev.to/mcsee/code-smell-256-mutable-getters-1e4e)
+- [Automating the Mundane: My Journey with Node-cron](https://dev.to/aminah_rashid_049c0e6deff/automating-the-mundane-my-journey-with-node-cron-2gi7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
