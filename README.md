@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Text I/O vs. Binary I/O](https://dev.to/paulike/text-io-vs-binary-io-cjj)
-- [Day 24 of 30 of JavaScript](https://dev.to/akshat0610/day-24-of-30-of-javascript-31c)
-- [How Is Text I/O Handled in Java?](https://dev.to/paulike/how-is-text-io-handled-in-java-ikg)
-- [The thousand dollars one line mistake - SBT + PlayFramework](https://dev.to/gusthavosouza/the-thousand-dollars-one-line-mistake-sbt-playframework-33i9)
-- [Dive into Captivating Coding Challenges with LabEx 🚀](https://dev.to/labex/dive-into-captivating-coding-challenges-with-labex-mi2)
+- [Meme Monday](https://dev.to/ben/meme-monday-4p8i)
+- [Functional Patterns: Composition and Implicitness](https://dev.to/if-els/functional-patterns-composition-and-implicitness-4n08)
+- [Alternatives of Microsoft Project with the highest review ratings](https://dev.to/nicklasmikke1sen/alternatives-of-microsoft-project-with-the-highest-review-ratings-1h2)
+- [Haskell Programming](https://dev.to/bekbrace/haskell-programming-2ll2)
+- [ASTRO JS | WEB DEV](https://dev.to/shubhamtiwari909/astro-js-web-dev-15fp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
