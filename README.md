@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Networking Concepts with Cisco Packet Tracer](https://dev.to/kartikmehta8/advanced-networking-concepts-with-cisco-packet-tracer-35bc)
-- [[Help] [Telegram Bot] Can I get the user IP address with telegram bot?](https://dev.to/dev188007/help-telegram-bot-can-i-get-the-user-ip-address-with-telegram-bot-ke5)
-- [Entendendo Código Legado: Uma Abordagem Prática](https://dev.to/asouza/entendendo-codigo-legado-uma-abordagem-pratica-4bdk)
-- [🎆 Light Up Your Browser: Creating a Dazzling Fireworks Display with JavaScript and Canvas 🚀](https://dev.to/best_codes/light-up-your-browser-creating-a-dazzling-fireworks-display-with-javascript-and-canvas-8fg)
-- [AWS Certification Prep Tips](https://dev.to/barbora_klusackova/aws-certification-prep-tips-2303)
+- [Bare-bones unit testing in OCaml with dune](https://dev.to/yawaramin/bare-bones-unit-testing-in-ocaml-with-dune-1lkb)
+- [This is how SSL certificates work: Https explained in 15 minutes](https://dev.to/dinesh_arora_ceece3475e16/this-is-how-ssl-certificates-work-https-explained-in-15-minutes-3llj)
+- [InstantClick &lpar;Turbo-Prefetch&rpar; in Rails 8: A Quick Guide](https://dev.to/jessalejo/instantclick-turbo-prefetch-in-rails-8-a-quick-guide-2a8e)
+- [The Modern SOC Platform](https://dev.to/rickysarora/the-modern-soc-platform-586d)
+- [Designing Flexible and Extensible Software Systems with OOP](https://dev.to/muhammad_salem/designing-flexible-and-extensible-software-systems-with-oop-3a28)
 <!-- BLOG-POST-LIST:END -->
 
 ---
