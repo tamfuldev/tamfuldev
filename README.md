@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [15 amazing things you can do with simple JavaScript 🤯](https://dev.to/anmolbaranwal/15-amazing-things-you-can-do-with-simple-javascript-g88)
-- [How I Befriended Segment Trees](https://dev.to/speckoflight/how-i-befriended-segment-trees-347l)
-- [LeetCode Day22 BackTracking Part 4](https://dev.to/flame_chan_llll/leetcode-day22-backtracking-part-4-16fa)
-- [Recursion, Design and Analysis of Algorithms](https://dev.to/harshm03/recursion-design-and-analysis-of-algorithms-kmo)
-- [I NEED HELP CAN SOMEONE SHARE THEIR EXPERIENCE IN USING HOSTINGER VPS FOR HOSTING WEB APP BUILT WITH ANGULAR,NODE.JS?](https://dev.to/mezieb/i-need-help-can-someone-share-their-experience-in-using-hostinger-vps-for-hosting-web-app-built-with-angularnodejs-54cc)
+- [Text I/O vs. Binary I/O](https://dev.to/paulike/text-io-vs-binary-io-cjj)
+- [Day 24 of 30 of JavaScript](https://dev.to/akshat0610/day-24-of-30-of-javascript-31c)
+- [How Is Text I/O Handled in Java?](https://dev.to/paulike/how-is-text-io-handled-in-java-ikg)
+- [The thousand dollars one line mistake - SBT + PlayFramework](https://dev.to/gusthavosouza/the-thousand-dollars-one-line-mistake-sbt-playframework-33i9)
+- [Dive into Captivating Coding Challenges with LabEx 🚀](https://dev.to/labex/dive-into-captivating-coding-challenges-with-labex-mi2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
