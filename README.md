@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Como usamos tunelamento de rede para criar um servidor de minecraft.](https://dev.to/nevidomyyb/como-usamos-tunelamento-de-rede-para-criar-um-servidor-de-minecraft-3ih7)
-- [4DEV: The Ultimate Toolkit Collection for Developers 🚀](https://dev.to/raja_rakoto/4dev-the-ultimate-toolkit-collection-for-developers-3l9n)
-- [Deploy Next.js App for Free on Render 🚀](https://dev.to/shaswat_raj_153e90eec3fe7/deploy-nextjs-app-for-free-on-render-3133)
-- [Embed Codes with Code Runner on Dev.to Using Liquid Syntax](https://dev.to/shaswat_raj_153e90eec3fe7/embed-codes-with-code-runner-on-devto-using-liquid-syntax-4oog)
-- [Quick Guide: Making Files with Touch Command](https://dev.to/mahir_dasare_333/quick-guide-making-files-with-touch-command-g07)
+- [How I Built an AI-Powered YouTube Video Summarizer to Save Time](https://dev.to/enzocheva/how-i-built-an-ai-powered-youtube-video-summarizer-to-save-time-5dd5)
+- [Avoiding Common useState&lpar;&rpar; Mistakes in React](https://dev.to/harsh8088/avoiding-common-usestate-mistakes-in-react-3aao)
+- [Enhancing Project Accuracy with Architectural CAD Design and Drafting Services](https://dev.to/pavan_sai_7/enhancing-project-accuracy-with-architectural-cad-design-and-drafting-services-4mf4)
+- [React vs. Next.js: A Detailed Comparison](https://dev.to/ucodes/react-vs-nextjs-a-detailed-comparison-33kk)
+- [Top 5+ Free Shadcn UI &amp; NextJS Boilerplates/Templates for 2024](https://dev.to/fredy/top-5-free-shadcn-ui-nextjs-boilerplatestemplates-for-2024-34m0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
