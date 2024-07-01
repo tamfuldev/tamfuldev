@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Coolest shadcn/ui Extensions](https://dev.to/dellboyan/top-5-coolest-shadcnui-extensions-4n7i)
-- [Implementando Lazy Loading em Componentes React](https://dev.to/vitorrios1001/implementando-lazy-loading-em-componentes-react-49fg)
-- [IAC - Azure WebApp creation](https://dev.to/learnwithsrini/iac-azure-webapp-creation-3nlo)
-- [Hello, DEV Community! I&#39;m Makda Nebyu](https://dev.to/makda_nebyu_f886a8063bc9f/hello-dev-community-im-makda-nebyu-njb)
-- [Verify Windows ISO file in bash](https://dev.to/emrocode/verify-windows-iso-file-in-bash-4j9o)
+- [Advanced Networking Concepts with Cisco Packet Tracer](https://dev.to/kartikmehta8/advanced-networking-concepts-with-cisco-packet-tracer-35bc)
+- [[Help] [Telegram Bot] Can I get the user IP address with telegram bot?](https://dev.to/dev188007/help-telegram-bot-can-i-get-the-user-ip-address-with-telegram-bot-ke5)
+- [Entendendo Código Legado: Uma Abordagem Prática](https://dev.to/asouza/entendendo-codigo-legado-uma-abordagem-pratica-4bdk)
+- [🎆 Light Up Your Browser: Creating a Dazzling Fireworks Display with JavaScript and Canvas 🚀](https://dev.to/best_codes/light-up-your-browser-creating-a-dazzling-fireworks-display-with-javascript-and-canvas-8fg)
+- [AWS Certification Prep Tips](https://dev.to/barbora_klusackova/aws-certification-prep-tips-2303)
 <!-- BLOG-POST-LIST:END -->
 
 ---
