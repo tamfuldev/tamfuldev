@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a RESTful API with Spring Boot: A Comprehensive Guide to @RequestMapping](https://dev.to/jottyjohn/building-a-restful-api-with-spring-boot-a-comprehensive-guide-to-requestmapping-49lf)
-- [Liberty Beats - Build a DAW in React](https://dev.to/coluzziandrea/liberty-beats-build-a-daw-in-react-1l89)
-- [Build a Responsive Modern Website with Next.js14, TypeScript, and Tailwind CSS](https://dev.to/sudhanshuambastha/build-a-responsive-modern-website-with-nextjs14-typescript-and-tailwind-css-10pn)
-- [GitOps: Streamlining Kubernetes Application Deployment with GitLab CI/CD, Helm Charts, and ArgoCD](https://dev.to/pankaj892/gitops-streamlining-kubernetes-application-deployment-with-gitlab-cicd-helm-charts-and-argocd-685)
-- [Share File Across Devices without Internet or USB](https://dev.to/sh20raj1/share-file-across-devices-without-internet-or-usb-562j)
+- [Como usamos tunelamento de rede para criar um servidor de minecraft.](https://dev.to/nevidomyyb/como-usamos-tunelamento-de-rede-para-criar-um-servidor-de-minecraft-3ih7)
+- [4DEV: The Ultimate Toolkit Collection for Developers 🚀](https://dev.to/raja_rakoto/4dev-the-ultimate-toolkit-collection-for-developers-3l9n)
+- [Deploy Next.js App for Free on Render 🚀](https://dev.to/shaswat_raj_153e90eec3fe7/deploy-nextjs-app-for-free-on-render-3133)
+- [Embed Codes with Code Runner on Dev.to Using Liquid Syntax](https://dev.to/shaswat_raj_153e90eec3fe7/embed-codes-with-code-runner-on-devto-using-liquid-syntax-4oog)
+- [Quick Guide: Making Files with Touch Command](https://dev.to/mahir_dasare_333/quick-guide-making-files-with-touch-command-g07)
 <!-- BLOG-POST-LIST:END -->
 
 ---
