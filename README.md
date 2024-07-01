@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Cybersecurity 101 for Developers: From Zero to Hero](https://dev.to/3a5abi/cybersecurity-101-for-developers-from-zero-to-hero-22mc)
-- [You Don&#39;t Know Undo/Redo](https://dev.to/isaachagoel/you-dont-know-undoredo-4hol)
-- [Mental Challenges](https://dev.to/mutantmalu/mental-challenges-3ji5)
-- [How I Build Projects Faster - My Stack and Strategies](https://dev.to/juanemilio31323/how-i-build-projects-faster-my-stack-and-strategies-3hpg)
-- [Playwright vs. Cypress: Comparing E2E Tools](https://dev.to/shipyard/playwright-vs-cypress-comparing-e2e-tools-16mj)
+- [Setup Ubuntu para desenvolver com Ruby / Rails](https://dev.to/serradura/setup-ubuntu-para-desenvolver-com-ruby-rails-5g2l)
+- [Resumo Kubernetes](https://dev.to/adzubla/resumo-kubernetes-1m69)
+- [🚀 How to make your CV beat ATS and impress recruiters 🌟](https://dev.to/hey_rishabh/how-to-make-your-cv-beat-ats-and-impress-recruiters-432d)
+- [shadcn-ui/ui codebase analysis: How does shadcn-ui CLI work? — Part 2.3](https://dev.to/ramunarasinga/shadcn-uiui-codebase-analysis-how-does-shadcn-ui-cli-work-part-23-fnj)
+- [Day 3](https://dev.to/myrojyn/day-3-4j3g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
