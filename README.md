@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Setup Ubuntu para desenvolver com Ruby / Rails](https://dev.to/serradura/setup-ubuntu-para-desenvolver-com-ruby-rails-5g2l)
-- [Resumo Kubernetes](https://dev.to/adzubla/resumo-kubernetes-1m69)
-- [🚀 How to make your CV beat ATS and impress recruiters 🌟](https://dev.to/hey_rishabh/how-to-make-your-cv-beat-ats-and-impress-recruiters-432d)
-- [shadcn-ui/ui codebase analysis: How does shadcn-ui CLI work? — Part 2.3](https://dev.to/ramunarasinga/shadcn-uiui-codebase-analysis-how-does-shadcn-ui-cli-work-part-23-fnj)
-- [Day 3](https://dev.to/myrojyn/day-3-4j3g)
+- [Ng-News 24/25: DomRef, TypeScript 5.5, Business/Render effect, State of JavaScript](https://dev.to/this-is-angular/ng-news-2425-domref-typescript-55-businessrender-effect-state-of-javascript-364g)
+- [Automating The Creation Of Users From A Text File Using Bash Scripting](https://dev.to/jhude51/automating-the-creation-of-users-from-a-text-file-using-bash-scripting-5b4a)
+- [Ng-News 24/24: Vertical Architectures, WebAssembly, Angular v9&#39;s Secret, NgRx](https://dev.to/ng_news/ng-news-2424-vertical-architectures-webassembly-angular-v9s-secret-ngrx-1bhi)
+- [From Script to Snake - JavaScript to Python](https://dev.to/ismaelenriquez/from-script-to-snake-javascript-to-python-4h57)
+- [[Game of Purpose] Day 44](https://dev.to/humberd/game-of-purpose-day-44-4g1o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
