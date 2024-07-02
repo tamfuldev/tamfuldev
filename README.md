@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [MyFirstApp - React Native with Expo &lpar;P15&rpar; - Code Layout My Profile](https://dev.to/skipperhoa/myfirstapp-react-native-with-expo-p15-code-layout-my-profile-2kc2)
-- [AWS Three-Tier Architecture: Practical Implementation and Strategies for Secure Private Instance Access](https://dev.to/dpa2024/aws-three-tier-architecture-practical-implementation-and-strategies-for-secure-private-instance-access-3i7g)
-- [Terraform, OpenTofu and state encryption](https://dev.to/aws-builders/terraform-opentofu-and-state-encryption-4am1)
-- [Mastering Binary Search in JavaScript Part I: Iterative, Recursive. Day 2 of 30 Days of DSA 🚀🦾](https://dev.to/rajusaha/mastering-binary-search-in-javascript-part-i-iterative-recursive-day-2-of-30-days-of-dsa-1mg5)
-- [Automating Linux User Management with Bash Scripting](https://dev.to/by_segun_moses/automating-linux-user-management-with-bash-scripting-3f8d)
+- [Top 15 Tools for Frontend Developers: Optimize Your Workflow](https://dev.to/vyan/top-15-tools-for-frontend-developers-optimize-your-workflow-374o)
+- [New HTML &lt;dialog&gt; tag: An absolute game changer](https://dev.to/manojgohel/new-html-tag-an-absolute-game-changer-3j8j)
+- [The DevTool Content Machine: How to Use AI to Crank Out Awesome Content &lpar;Even With a Tiny Team&rpar;](https://dev.to/swati1267/the-devtool-content-machine-how-to-use-ai-to-crank-out-awesome-content-even-with-a-tiny-team-4d2k)
+- [⚡ MyFirstApp - React Native with Expo &lpar;P18&rpar; - Code Layout Favourites](https://dev.to/skipperhoa/myfirstapp-react-native-with-expo-p18-code-layout-favourites-53ne)
+- [⚡ MyFirstApp - React Native with Expo &lpar;P17&rpar; - Code Layout Location](https://dev.to/skipperhoa/myfirstapp-react-native-with-expo-p17-code-layout-location-2a05)
 <!-- BLOG-POST-LIST:END -->
 
 ---
