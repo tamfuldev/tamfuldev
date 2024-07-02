@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Redis Command Cheatsheet: A Comprehensive Guide](https://dev.to/stormsidali2001/the-ultimate-redis-command-cheatsheet-a-comprehensive-guide-4ii5)
-- [Quarterly Rewards for security researchers！](https://dev.to/tecno-security/quarterly-rewards-for-security-researchers-2d34)
-- [Challenge with RBAC Authentication](https://dev.to/emmanuelomoiya/challenge-with-rbac-authentication-329h)
-- [Comparing Svelte and Vue.js: A Battle of Frontend Technologies](https://dev.to/mundianderi/comparing-svelte-and-vuejs-a-battle-of-frontend-technologies-1co2)
-- [7 Steps to Adopting AI Workflows in your Business](https://dev.to/edenai/7-steps-to-adopting-ai-workflows-in-your-business-4obi)
+- [MongoDB vs. Relational Databases: A Comprehensive Guide](https://dev.to/stormsidali2001/mongodb-vs-relational-databases-a-comprehensive-guide-474g)
+- [The Ultimate Guide to Finding and Using Free APIs](https://dev.to/sattyam/the-ultimate-guide-to-finding-and-using-free-apis-2imb)
+- [AWS cost control last resort, the killer lambda](https://dev.to/kodsama/aws-cost-control-last-resort-the-killer-lambda-5mk)
+- [Building a Universal React app with Expo, NextJS &amp; Nativewind](https://dev.to/adebayoileri/building-a-universal-react-app-with-expo-nextjs-nativewind-3829)
+- [Exploring Mobile Development Platforms and Software Architecture Patterns](https://dev.to/lkendi003/exploring-mobile-development-platforms-and-software-architecture-patterns-46ne)
 <!-- BLOG-POST-LIST:END -->
 
 ---
