@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ng-News 24/25: DomRef, TypeScript 5.5, Business/Render effect, State of JavaScript](https://dev.to/this-is-angular/ng-news-2425-domref-typescript-55-businessrender-effect-state-of-javascript-364g)
-- [Automating The Creation Of Users From A Text File Using Bash Scripting](https://dev.to/jhude51/automating-the-creation-of-users-from-a-text-file-using-bash-scripting-5b4a)
-- [Ng-News 24/24: Vertical Architectures, WebAssembly, Angular v9&#39;s Secret, NgRx](https://dev.to/ng_news/ng-news-2424-vertical-architectures-webassembly-angular-v9s-secret-ngrx-1bhi)
-- [From Script to Snake - JavaScript to Python](https://dev.to/ismaelenriquez/from-script-to-snake-javascript-to-python-4h57)
-- [[Game of Purpose] Day 44](https://dev.to/humberd/game-of-purpose-day-44-4g1o)
+- [Introduction to Nuxt.js: The Framework for Universal Vue.js Applications](https://dev.to/hi_iam_chris/introduction-to-nuxtjs-the-framework-for-universal-vuejs-applications-4noh)
+- [Day 982 : Last Nite](https://dev.to/dwane/day-982-last-nite-bo)
+- [How to use Midjourney AI on Make.com?](https://dev.to/renaud7/how-to-use-midjourney-ai-on-makecom-5cb6)
+- [GSoC Week 5](https://dev.to/chiemezuo/gsoc-week-5-5gba)
+- [New Learning Journal](https://dev.to/vdircio/new-learning-journal-2nm6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
