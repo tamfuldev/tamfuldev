@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Develop APIs Quicker With API Testing](https://dev.to/getambassador2024/develop-apis-quicker-with-api-testing-1122)
-- [MOBILE DEVELOPMENT PLATFORMS. Software Architecture Patterns](https://dev.to/oreoluwa_eniola_eaa58bdf3/mobile-development-platforms-software-architecture-patterns-24k4)
-- [Farewell MongoDB: 5 reasons why you only need PostgreSQL](https://dev.to/logto/farewell-mongodb-5-reasons-why-you-only-need-postgresql-31l9)
-- [Leetcode Day 1: Two Sum](https://dev.to/simona-cancian/leetcode-day-1-two-sum-45fp)
-- [🚀 Mastering Loop Control in C Programming: Leveraging break and continue 🌟](https://dev.to/moksh57/mastering-loop-control-in-c-programming-leveraging-break-and-continue-1116)
+- [The Gemini AI and Google AI Features that We Have Been Waiting For](https://dev.to/hyscaler/the-gemini-ai-and-google-ai-features-that-we-have-been-waiting-for-l1b)
+- [How to Store Vibration Sensor Data | Part 1](https://dev.to/reductstore/how-to-store-vibration-sensor-data-part-1-2p66)
+- [How to get Single Console](https://dev.to/raja_musawir/how-to-get-single-console-1of0)
+- [GBase 8a Implementation Guide: Parameter Optimization &lpar;3&rpar;](https://dev.to/congcong/gbase-8a-implementation-guide-parameter-optimization-3-2be3)
+- [A linux session after a while](https://dev.to/anakin/a-linux-session-after-a-while-2m50)
 <!-- BLOG-POST-LIST:END -->
 
 ---
