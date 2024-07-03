@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Git and GitHub Explained Like You&#39;re Five](https://dev.to/thekarlesi/git-and-github-explain-like-youre-five-2c2p)
 - [Top ShowdownJS Extensions and Their Usage](https://dev.to/sh20raj/top-showdownjs-extensions-and-their-usage-18an)
 - [Greetings!](https://dev.to/bearmsu/greetings-512l)
 - [HNG STAGE ZERO: ANALYZING RETAIL SALES DATA AT FIRST GLANCE](https://dev.to/devbassey/hng-stage-zero-analyzing-retail-sales-data-at-first-glance-2gp3)
 - [How to use an auto-tiling technique in your next game project](https://dev.to/excaliburjs/how-to-use-an-auto-tiling-technique-in-your-next-game-project-1ek9)
-- [20 Ways to Improve Node.js Performance at Scale 🚀](https://dev.to/dipakahirav/20-ways-to-improve-nodejs-performance-at-scale-25nf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
