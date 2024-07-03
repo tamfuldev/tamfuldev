@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Nested validation in .NET](https://dev.to/ilya-chumakov/nested-validation-in-net-3j6j)
-- [Automating Linux User Management with a Bash Script](https://dev.to/zkyusya/automating-linux-user-management-with-a-bash-script-1f07)
-- [React Native vs. Native App Development: Choosing the Right Path for Your Mobile App](https://dev.to/ngocninh123/react-native-vs-native-app-development-choosing-the-right-path-for-your-mobile-app-16d0)
-- [Determine which CBV &lpar;classed-base-view&rpar; of Django to use](https://dev.to/doridoro/determine-which-cbv-classed-base-view-of-django-to-use-4gf1)
-- [Bitcoin As A Safe Haven Asset: A Viable Option Or Not?](https://dev.to/cleaningmarble_667c21bf45/bitcoin-as-a-safe-haven-asset-a-viable-option-or-not-4h6f)
+- [Single Page Application: Authentication and Authorization in Angular](https://dev.to/starneit/single-page-application-authentication-and-authorization-in-angular-118b)
+- [1. Series introduction](https://dev.to/stroiman/series-introduction-2o3n)
+- [3. Essential Keymapping and Settings](https://dev.to/stroiman/3-essential-keymapping-and-settings-3e8)
+- [How to Use Scroll Area in Next.js with Shadcn UI](https://dev.to/aaronnfs/how-to-use-scroll-area-in-nextjs-with-shadcn-ui-4k5h)
+- [Automating User Management on Linux with Bash Scripting](https://dev.to/hellowale/automating-user-management-on-linux-with-bash-scripting-1jk1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
