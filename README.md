@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Applications and Basic Principles of Machine Learning in Everyday Life](https://dev.to/bilge_koc/applications-and-basic-principles-of-machine-learning-in-everyday-life-2a5)
-- [Linux User Creation Bash Script](https://dev.to/toluwanee/linux-user-creation-bash-script-5d3b)
-- [Handling Categorical Values|| Machine Learning](https://dev.to/ngneha09/handling-categorical-values-machine-learning-5b3i)
-- [Handling Categorical Values|| Machine Learning](https://dev.to/ngneha09/handling-categorical-values-machine-learning-a2)
-- [Linux User Creation Bash Script](https://dev.to/wolecharles/linux-user-creation-bash-script-25n9)
+- [Created My Portfolio](https://dev.to/hirohata/created-my-portfolio-1hnf)
+- [Deep Dive: Fortifying Your Cloud Defences with AWS Multi-Factor Authentication &lpar;MFA&rpar;](https://dev.to/ikoh_sylva/deep-dive-fortifying-your-cloud-defences-with-aws-multi-factor-authentication-mfa-2cjc)
+- [Developing Smart Contracts for Cross-Chain Operations: A Comprehensive Guide](https://dev.to/vincent_lee_190635/developing-smart-contracts-for-cross-chain-operations-a-comprehensive-guide-1efi)
+- [ServiceNow Mid-Server Insights](https://dev.to/sophiasemga/servicenow-mid-server-insights-48b9)
+- [Understanding Virtual Machines and Hypervisors](https://dev.to/hacker_haii/understanding-virtual-machines-and-hypervisors-13em)
 <!-- BLOG-POST-LIST:END -->
 
 ---
