@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Boost Team Efficiency with Smaller PRs](https://dev.to/merico/boost-team-efficiency-with-smaller-prs-4314)
-- [Day 983 : Weary](https://dev.to/dwane/day-983-weary-370a)
-- [Using a Bash script to Automate the Creation of Users and Groups](https://dev.to/christian_ochenehipeter_/using-a-bash-script-to-automate-the-creation-of-users-and-groups-2i8e)
-- [Migrating from Nuxt 2 to Nuxt 3: A Comprehensive Guide](https://dev.to/fido1hn/migrating-from-nuxt-2-to-nuxt-3-a-comprehensive-guide-56na)
-- [Overcoming Backend Challenges: My Journey and Aspirations with HNG Internship](https://dev.to/that_khayy/overcoming-backend-challenges-my-journey-and-aspirations-with-hng-internship-42jc)
+- [Another Approach to Screen Routing in SwiftUI](https://dev.to/mrasyadc/another-approach-to-screen-routing-in-swiftui-42ao)
+- [Automating User and Group Management with a Bash Script.](https://dev.to/candy-devops/automating-user-and-group-management-with-a-bash-script-2jli)
+- [Welcome Thread - v283](https://dev.to/devteam/welcome-thread-v283-g1a)
+- [User creation script using bash shell.](https://dev.to/linuxinator/user-creation-script-using-bash-shell-kem)
+- [Construindo um Blog Simples com Server.js: Uma Introdução Prática ao Desenvolvimento Web com Node.js](https://dev.to/gustavogarciapereira/construindo-um-blog-simples-com-serverjs-uma-introducao-pratica-ao-desenvolvimento-web-com-nodejs-5f8b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
