@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Git and GitHub Explained Like You&#39;re Five](https://dev.to/thekarlesi/git-and-github-explain-like-youre-five-2c2p)
-- [Top ShowdownJS Extensions and Their Usage](https://dev.to/sh20raj/top-showdownjs-extensions-and-their-usage-18an)
-- [Greetings!](https://dev.to/bearmsu/greetings-512l)
-- [HNG STAGE ZERO: ANALYZING RETAIL SALES DATA AT FIRST GLANCE](https://dev.to/devbassey/hng-stage-zero-analyzing-retail-sales-data-at-first-glance-2gp3)
-- [How to use an auto-tiling technique in your next game project](https://dev.to/excaliburjs/how-to-use-an-auto-tiling-technique-in-your-next-game-project-1ek9)
+- [Issue with NPM Package Installing Globally](https://dev.to/kiranuknow/issue-with-npm-package-installing-globally-cgi)
+- [Exploring the Power of Python and Object-Oriented Programming](https://dev.to/minorpianokeys/exploring-the-power-of-python-and-object-oriented-programming-4ai3)
+- [User Management Automation in Linux Using Bash Script](https://dev.to/sarahligbe/user-management-automation-in-linux-using-bash-script-197l)
+- [Hello](https://dev.to/mikeselva123/hello-35kn)
+- [Leetcode Day 2: Palindrome Number](https://dev.to/simona-cancian/leetcode-day-2-palindrome-number-377i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
