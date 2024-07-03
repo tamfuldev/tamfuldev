@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Patch your servers! It&#39;s time of regreSSHion](https://dev.to/krzwiatrzyk/patch-your-servers-its-time-of-regresshion-1f5)
-- [Key Data Science Innovations to Embrace in 2024](https://dev.to/sejal_4218d5cae5da24da188/key-data-science-innovations-to-embrace-in-2024-35jm)
-- [CJIS and Its Importance in Access Control](https://dev.to/blogginger/cjis-and-its-importance-in-access-control-4g19)
-- [Jak używać Illuminate do balansowania gier](https://dev.to/pubnub-pl/jak-uzywac-illuminate-do-balansowania-gier-57kb)
-- [How to use Illuminate to Balance your Games](https://dev.to/pubnub/how-to-use-illuminate-to-balance-your-games-4kjp)
+- [ASTRO JS | P2 | SSG and SSR](https://dev.to/shubhamtiwari909/astro-js-p2-ssg-and-ssr-2l2l)
+- [react-popupify: Simplify Popup Management in Your React Apps](https://dev.to/viditkushwaha/react-popupify-simplify-popup-management-in-your-react-apps-4109)
+- [3 Easy Steps to Setup Gmail Less Secure Apps&lpar;Django&rpar;](https://dev.to/titusnjuguna/3-easy-steps-to-setup-gmail-less-secure-appsdjango-2eoe)
+- [Automating User Managment system with Bash: in a linux environment.](https://dev.to/mauricemakafui/automating-user-managment-system-with-bash-in-a-linux-environment-5dj3)
+- [Building a Cloud Development Kit &lpar;CDK&rpar;](https://dev.to/samyfodil/building-a-cloud-development-kit-cdk-3lgd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
