@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating data in production &lpar;with zero downtime&rpar;](https://dev.to/bjorndcode/migrating-data-in-production-with-zero-downtime-29lm)
-- [Implementing Type-Safe Next.js Server Actions with Zsa: A Comprehensive Guide](https://dev.to/vyan/implementing-type-safe-nextjs-server-actions-with-zsa-a-comprehensive-guide-25bn)
-- [HTTPS: How HTTPS Works - Handshake](https://dev.to/zeeshanali0704/https-how-https-works-handshake-1mjo)
-- [Working With Time Deltas in Python](https://dev.to/labex/working-with-time-deltas-in-python-ml4)
-- [Azure Blob Storage.](https://dev.to/tojumercy1/azure-blob-storage-1gm8)
+- [5 Layer of Softwares](https://dev.to/syedmuhammadaliraza/5-layer-of-softwares-2lc6)
+- [Kazi Byte: Empowering Digital Solutions for a Connected World.](https://dev.to/kazibyte/kazi-byte-empowering-digital-solutions-for-a-connected-world-3p5a)
+- [Demystifying the Ellipsis &lpar;...&rpar;: Spread Operator vs Rest Operator in JavaScript](https://dev.to/rajusaha/demystifying-the-ellipsis-spread-operator-vs-rest-operator-in-javascript-25gj)
+- [Using match with Option in Effect](https://dev.to/almaclaine/using-match-with-option-in-effect-1ho9)
+- [Using match with Option in Effect](https://dev.to/almaclaine/using-match-with-option-in-effect-35p7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
