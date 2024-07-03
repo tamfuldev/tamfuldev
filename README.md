@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Using Chrome’s Document Picture-in-Picture API in React](https://dev.to/logrocket/using-chromes-document-picture-in-picture-api-in-react-38oo)
-- [**🌟 Mastering the Java Collections Framework 🌟**](https://dev.to/gadekar_sachin/-mastering-the-java-collections-framework--4kcd)
-- [AWS/GCP/Azure Consoles, Embedded inside Your Docs](https://dev.to/sourishkrout/awsgcpazure-consoles-embedded-inside-your-docs-1a3l)
-- [Styling React Using CSS 6 Methods](https://dev.to/sudhanshu_developer/styling-react-using-css-6-methods-4oi6)
-- [# 🌳 Dive into Decision Trees: A Fun Guide! 🌳](https://dev.to/aviralgarg05/-dive-into-decision-trees-a-fun-guide-590l)
+- [Applications and Basic Principles of Machine Learning in Everyday Life](https://dev.to/bilge_koc/applications-and-basic-principles-of-machine-learning-in-everyday-life-2a5)
+- [Linux User Creation Bash Script](https://dev.to/toluwanee/linux-user-creation-bash-script-5d3b)
+- [Handling Categorical Values|| Machine Learning](https://dev.to/ngneha09/handling-categorical-values-machine-learning-5b3i)
+- [Handling Categorical Values|| Machine Learning](https://dev.to/ngneha09/handling-categorical-values-machine-learning-a2)
+- [Linux User Creation Bash Script](https://dev.to/wolecharles/linux-user-creation-bash-script-25n9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
