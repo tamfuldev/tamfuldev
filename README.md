@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Angular: A Deep Dive into `:host` &amp; `:host-context` Pseudo-Classes](https://dev.to/manthanank/angular-a-deep-dive-into-host-host-context-pseudo-classes-5ged)
-- [From development to production what can go wrong with your databases &lpar;and how to avoid and fix them&rpar;](https://dev.to/metis/from-development-to-production-what-can-go-wrong-with-your-databases-and-how-to-avoid-and-fix-them-5aff)
-- [Javascript Set operations can now be performed natively](https://dev.to/untilyou58/javascript-set-operations-can-now-be-performed-natively-1lhb)
-- [Isolated Storage and Enhanced Security in AI](https://dev.to/polterguy/isolated-storage-and-enhanced-security-in-ai-3d4i)
-- [Apache Answer 1.3.5: Flexibility. Reaction. Extension.](https://dev.to/apacheanswer/apache-answer-135-flexibility-reaction-extension-1man)
+- [UI Design Tips Using Tailwind CSS for Developers](https://dev.to/railsdesigner/ui-design-tips-using-tailwind-css-for-developers-4lg0)
+- [50+ Essential Windows 11 URI Commands!](https://dev.to/winsides/50-essential-windows-11-uri-commands-3bdj)
+- [Some thoughts on opinionated tools &lpar;in general&rpar; :&rpar;](https://dev.to/nikoldimit/some-thoughts-on-opinionated-tools-in-general--5gh4)
+- [The Role of CSS in Performance Optimization](https://dev.to/vickychi/the-role-of-css-in-performance-optimization-4cf6)
+- [Attention Mechanism](https://dev.to/muhammad_saim_7/attention-mechanism-2bdj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
