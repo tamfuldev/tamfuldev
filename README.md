@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Geologist to Backend Developer with HNG Internship](https://dev.to/cub_ger24/from-geologist-to-backend-developer-with-hng-internship-3glf)
-- [Introduction to BitPower: Decentralized Lending Platform](https://dev.to/aimm_w_1761d19cef7fa886fd/introduction-to-bitpower-decentralized-lending-platform-3k9i)
-- [Cara Memanggil REST API dari SQL Server Menggunakan Store Procedure](https://dev.to/amry_maftuh/cara-memanggil-rest-api-dari-sql-server-menggunakan-prosedur-tersimpan-5ebn)
-- [Google Analytics With React Typescript](https://dev.to/itayeylath/google-analytics-with-react-typescript-j9f)
-- [Modern Front End Development: A Comparative Analysis of Angular and React](https://dev.to/bienvenudk57/modern-front-end-development-a-comparative-analysis-of-angular-and-react-2idf)
+- [### Terraform State File Locking: Ensuring Consistency and Preventing Conflicts](https://dev.to/vishwajeet_pratapsingh_a/-terraform-state-file-locking-ensuring-consistency-and-preventing-conflicts-k1l)
+- [Introduction to BitPower: Decentralized Lending Platform](https://dev.to/aimm_y/introduction-to-bitpower-decentralized-lending-platform-447p)
+- [Creating the Strongest Firewall for CustomGPTs](https://dev.to/kumala3/creating-the-strongest-firewall-for-customgpts-4gfo)
+- [How to Hire a Java Developer](https://dev.to/bytesfarms/how-to-hire-a-java-developer-273)
+- [Automation of User management with Bash scripting](https://dev.to/james_chima/automation-of-user-management-with-bash-scripting-3g3o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
