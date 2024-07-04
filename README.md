@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Leetcode Day 3: Roman to Integer Explained](https://dev.to/simona-cancian/leetcode-day-3-roman-to-integer-explained-329o)
-- [Exploring the Uncharted: Fun and Weird Stuff in Python](https://dev.to/subham_behera/exploring-the-uncharted-fun-and-weird-stuff-in-python-19hg)
-- [Why We Built a MongoDB-Message Queue and Reinvented the Wheel](https://dev.to/allquiet/why-we-built-a-mongodb-message-queue-and-reinvented-the-wheel-al3)
-- [Multi-Tenant vs. Single-Tenant Applications](https://dev.to/sh20raj/multi-tenant-vs-single-tenant-applications-3gc4)
-- [Can you become a Software Developer?](https://dev.to/jobreadyprogrammer/can-you-become-a-software-developer-29g6)
+- [How to Batch Notifications Across Users in a Dedicated Time Window? w/ Example Github Application](https://dev.to/suprsend/how-to-batch-notifications-across-users-in-a-dedicated-time-window-w-example-github-application-2p3k)
+- [How to Kickstart Your API Journey: An Easy Beginner&#39;s Guide](https://dev.to/vuyokazimkane/how-to-kickstart-your-api-journey-an-easy-beginners-guide-a9m)
+- [SDK va Runtime](https://dev.to/shoxjaxon1202/sdk-va-runtime-599)
+- [How and Where to Handle Exceptions While Maintaining a Great API](https://dev.to/selmaohneh/how-and-where-to-handle-exceptions-while-maintaining-a-great-api-3lhi)
+- [Exploring the Charming UI/UX Design of &quot;Cats&amp;Soup&quot;](https://dev.to/jpdengler/exploring-the-charming-uiux-design-of-catssoup-3l9a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
