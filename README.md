@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Batch Notifications Across Users in a Dedicated Time Window? w/ Example Github Application](https://dev.to/suprsend/how-to-batch-notifications-across-users-in-a-dedicated-time-window-w-example-github-application-2p3k)
-- [How to Kickstart Your API Journey: An Easy Beginner&#39;s Guide](https://dev.to/vuyokazimkane/how-to-kickstart-your-api-journey-an-easy-beginners-guide-a9m)
-- [SDK va Runtime](https://dev.to/shoxjaxon1202/sdk-va-runtime-599)
-- [How and Where to Handle Exceptions While Maintaining a Great API](https://dev.to/selmaohneh/how-and-where-to-handle-exceptions-while-maintaining-a-great-api-3lhi)
-- [Exploring the Charming UI/UX Design of &quot;Cats&amp;Soup&quot;](https://dev.to/jpdengler/exploring-the-charming-uiux-design-of-catssoup-3l9a)
+- [CSS Rotate Property Explained](https://dev.to/code_passion/css-rotate-property-explained-1j48)
+- [Salesforce Developer Outsourcing: A Comprehensive Guide](https://dev.to/bytesfarms/salesforce-developer-outsourcing-a-comprehensive-guide-4gne)
+- [I just made an automatic translator for your language files into many languages using AI, such as Claude.](https://dev.to/kargnas/i-just-made-an-automatic-translator-for-your-language-files-into-many-languages-using-ai-such-as-claude-3cjp)
+- [&quot;Connecting to an EC2 Instance Using SSH: Easy Steps to Access Your Instance&quot;](https://dev.to/vishal_raju_6a7ca9503a75b/connecting-to-an-ec2-instance-using-ssh-easy-steps-to-access-your-instance-dhk)
+- [Building a Successful Career: Key Insights for Junior Developers](https://dev.to/grover_sumrit/building-a-successful-career-key-insights-for-junior-developers-2c1a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
