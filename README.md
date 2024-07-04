@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Best Practices for Writing API Documentation](https://dev.to/irhose/best-practices-for-writing-api-documentation-gc9)
-- [Full-Stack Developer vs. Software Engineer: Which Roles Faces Greater Impact from AI?](https://dev.to/ryoichihomma/full-stack-developer-vs-software-engineer-which-roles-faces-greater-impact-from-ai-232e)
-- [GraphQL and REST API](https://dev.to/logto/graphql-and-rest-api-5c43)
-- [Efficient User and Group Management on Linux: A Bash Script Tutorial](https://dev.to/linsmed/efficient-user-and-group-management-on-linux-a-bash-script-tutorial-4k16)
-- [Recreate Angular Logo with SVG](https://dev.to/dindustack/recreate-angular-logo-with-svg-n66)
+- [Adding parameters to my Serverless Web Scraper API](https://dev.to/aws/adding-parameters-to-my-serverless-web-scraper-api-j67)
+- [Fun and Fantastic Algorithms Every Developer Should Know](https://dev.to/3a5abi/fun-and-fantastic-algorithms-every-developer-should-know-6aj)
+- [Next.js Deployment: Vercel&#39;s Charm vs. GCP&#39;s Muscle](https://dev.to/solitary-polymath/nextjs-deployment-vercels-charm-vs-gcps-muscle-l0)
+- [Automatización de la creación de servidores Node.js con una API central usando Nuxt 3](https://dev.to/wgbn/automatizacion-de-la-creacion-de-servidores-nodejs-con-una-api-central-usando-nuxt-3-39ko)
+- [Automate User and Group Management with Bash: A Comprehensive Guide](https://dev.to/vivienne/automate-user-and-group-management-with-bash-a-comprehensive-guide-3h5d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
