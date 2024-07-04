@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [### Terraform State File Locking: Ensuring Consistency and Preventing Conflicts](https://dev.to/vishwajeet_pratapsingh_a/-terraform-state-file-locking-ensuring-consistency-and-preventing-conflicts-k1l)
-- [Introduction to BitPower: Decentralized Lending Platform](https://dev.to/aimm_y/introduction-to-bitpower-decentralized-lending-platform-447p)
-- [Creating the Strongest Firewall for CustomGPTs](https://dev.to/kumala3/creating-the-strongest-firewall-for-customgpts-4gfo)
-- [How to Hire a Java Developer](https://dev.to/bytesfarms/how-to-hire-a-java-developer-273)
-- [Automation of User management with Bash scripting](https://dev.to/james_chima/automation-of-user-management-with-bash-scripting-3g3o)
+- [VSCode Settings for NextJS Project](https://dev.to/maxwiggedal/vscode-settings-for-nextjs-project-7ld)
+- [Pessoas desenvolvedoras precisam estudar todos os dias](https://dev.to/kecbm/pessoas-desenvolvedoras-precisam-estudar-todos-os-dias-5dea)
+- [Quick guide on Migrations in Ruby on Rails for beginners](https://dev.to/dumebii/quick-guide-to-migrations-in-ruby-on-rails-for-beginners-4gmb)
+- [Opa Gatekeeper: How To Write Policies For Kubernetes Clusters](https://dev.to/permify/opa-gatekeeper-how-to-write-policies-for-kubernetes-clusters-4o3)
+- [From Framework Consumer to Framework Creator: Mastering Design Patterns](https://dev.to/sharoztanveer/from-framework-consumer-to-framework-creator-mastering-design-patterns-4c46)
 <!-- BLOG-POST-LIST:END -->
 
 ---
