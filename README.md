@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Come and see China：Beijing，a city that blends ancient and modern beauty！](https://dev.to/pang_jack/come-and-see-chinabeijinga-city-that-blends-ancient-and-modern-beauty-51bj)
 - [Definitive guide to Higher Order Function &lpar;HOC&rpar;](https://dev.to/codewithjohnson/definitive-guide-to-higher-order-function-hoc-28b5)
 - [Developers Listen: If You Don&#39;t Have a Rich Domain Model, You Don&#39;t Leverage OOP](https://dev.to/muhammad_salem/developers-listen-if-you-dont-have-a-rich-domain-model-you-dont-leverage-oop-aid)
 - [why login not working after form submission ?](https://dev.to/samir_soupape/why-login-not-working-after-form-submission--4lli)
 - [VS Code settings that every front-end developer should know](https://dev.to/mhmd-salah/vs-code-settings-that-every-front-end-developer-should-know-2c1h)
-- [Introduction to Data Engineering with Apache Airflow](https://dev.to/kartikmehta8/introduction-to-data-engineering-with-apache-airflow-3m41)
 <!-- BLOG-POST-LIST:END -->
 
 ---
