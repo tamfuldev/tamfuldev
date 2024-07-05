@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Make Parent Div Activate Styling of Child Div for Hover and Active States](https://dev.to/bobbyiliev/how-to-make-parent-div-activate-styling-of-child-div-for-hover-and-active-states-3e26)
-- [Secure Access to Connected Devices](https://dev.to/s-imsy/secure-access-to-connected-devices-cmj)
-- [Automating IT Interviews with Ollama and Audio Capabilities in Python](https://dev.to/josmel/automating-it-interviews-with-ollama-and-audio-capabilities-in-python-545o)
-- [Mastering Unit Testing: A Comprehensive Guide](https://dev.to/jay818/mastering-unit-testing-a-comprehensive-guide-ing)
-- [Creating a React component using Symfony UX](https://dev.to/icolomina/creating-a-react-component-using-symfony-ux-1bk9)
+- [What is HTTPS and How Does it Work?](https://dev.to/sh20raj/what-is-https-and-how-does-it-work-3nj1)
+- [Umami: An Open-Source Web Analytics Solution](https://dev.to/sh20raj/umami-an-open-source-web-analytics-solution-4010)
+- [What is SSL | How does SSL work](https://dev.to/sh20raj/what-is-ssl-how-does-ssl-work-30eb)
+- [July 10: Developing Data-Centric AI Workshop](https://dev.to/voxel51/developing-data-centric-ai-workshop-50gh)
+- [Linux User Creation Bash Script](https://dev.to/devdera/linux-user-creation-bash-script-1hfm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
