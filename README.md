@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I think the web is broken, or i am](https://dev.to/oarabiledev/im-definitely-a-certified-quiche-eater-a8p)
-- [Are you facing hard times as a developer?](https://dev.to/evansifyke/are-you-facing-hard-times-as-a-developer-fm9)
-- [Automating User Management on Linux with Bash](https://dev.to/isaac_obuor_4ec2278316110/automating-user-management-on-linux-with-bash-1b4b)
-- [Building Stunning Portfolio Websites for Clients in 2024: A Case Study](https://dev.to/syedahmedullah14/building-stunning-portfolio-websites-for-clients-in-2024-a-case-study-4cdo)
-- [Install GO in UBUNTU machines](https://dev.to/ahmed_abir/install-go-in-ubuntu-machines-4a5m)
+- [How to Implement a Tree of Thoughts in Python](https://dev.to/stephenc222/how-to-implement-a-tree-of-thoughts-in-python-4jmc)
+- [Outlier Detection in Election Data Using Geospatial Analysis - AKWA IBOM](https://dev.to/mwangcmn/outlier-detection-in-election-data-using-geospatial-analysis-akwa-ibom-3b06)
+- [Exploring DevOps: A New Adventure](https://dev.to/mrsaadfazal/exploring-devops-a-new-adventure-21ke)
+- [Test--Linux User Creation Bash Script](https://dev.to/orire/test-linux-user-creation-bash-script-13mj)
+- [Angular Tutorial: Host Element Binding](https://dev.to/brianmtreese/angular-tutorial-host-element-binding-4gf4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
