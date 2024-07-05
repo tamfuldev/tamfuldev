@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ibuprofeno.py💊| #133: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-133-explica-este-codigo-python-29hg)
-- [WatchYourPorts - self-hosted ports inventory](https://dev.to/aceberg/watchyourports-self-hosted-ports-inventory-55ek)
-- [Slicing CPU as GPU &lpar;with Example&rpar;](https://dev.to/manishfoodtechs/slicing-cpu-as-gpu-with-example-269o)
-- [QuickBooks Database Server Manager: Optimizing Multi-User Access and Performance](https://dev.to/jasskarley/quickbooks-database-server-manager-optimizing-multi-user-access-and-performance-4epk)
-- [Top 8 API Documentation Tools for Professional Developers](https://dev.to/satokenta/top-8-api-documentation-tools-for-professional-developers-2kf5)
+- [10 Ways to Improve for a Junior Developer](https://dev.to/arnaudrenaud/10-ways-to-improve-for-a-junior-developer-22pj)
+- [Path To A Clean&lpar;er&rpar; React Architecture &lpar;Part 7&rpar; - Domain Logic](https://dev.to/jkettmann/path-to-a-cleaner-react-architecture-part-7-domain-logic-lg)
+- [Are you using OpenAI API? Then you need to be prepared!](https://dev.to/skywarth/are-you-using-openai-api-then-you-need-to-be-prepared-2o60)
+- [How to host Static Website on Azure Blob Storage](https://dev.to/yuddy/how-to-host-static-website-on-azure-blob-storage-1fdd)
+- [Hosting Static Website on Azure Blob Storage](https://dev.to/celestina_odili/hosting-static-website-on-azure-blob-storage-3aa6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
