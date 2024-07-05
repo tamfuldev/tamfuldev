@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Implement a Tree of Thoughts in Python](https://dev.to/stephenc222/how-to-implement-a-tree-of-thoughts-in-python-4jmc)
-- [Outlier Detection in Election Data Using Geospatial Analysis - AKWA IBOM](https://dev.to/mwangcmn/outlier-detection-in-election-data-using-geospatial-analysis-akwa-ibom-3b06)
-- [Exploring DevOps: A New Adventure](https://dev.to/mrsaadfazal/exploring-devops-a-new-adventure-21ke)
-- [Test--Linux User Creation Bash Script](https://dev.to/orire/test-linux-user-creation-bash-script-13mj)
-- [Angular Tutorial: Host Element Binding](https://dev.to/brianmtreese/angular-tutorial-host-element-binding-4gf4)
+- [Render Angular Components in Markdown](https://dev.to/shhdharmen/render-angular-components-in-markdown-496l)
+- [Sintayew4/keplr-chain-registry/draft/exciting-turing](https://dev.to/sintayew4/sintayew4keplr-chain-registrydraftexciting-turing-2fcm)
+- [🎨 Day 18: Mastering Layers in Figma 🎨](https://dev.to/prince_chouhan/day-18-mastering-layers-in-figma-1mob)
+- [Building a CRUD API with FastAPI and MongoDB](https://dev.to/aquibpy/building-a-crud-api-with-fastapi-and-mongodb-32n)
+- [Vite + Github Actions + One Build many deploy](https://dev.to/nv_conqueror/vite-github-actions-one-build-many-deploy-1m2h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
