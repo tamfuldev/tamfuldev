@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Check colors in Angular Material theme builder](https://dev.to/ngmaterialdev/check-colors-in-angular-material-theme-builder-poi)
-- [Build an Angular Video Chat App](https://dev.to/amosgyamfi/build-an-angular-video-chat-app-3g9c)
-- [Create Convincing UX mockups using PowerPoint!](https://dev.to/chandruchiku/eye-catching-ux-mockups-using-powerpoint-544a)
-- [Leetcode Day 4: Longest Common Prefix Explained](https://dev.to/simona-cancian/leetcode-day-4-longest-common-prefix-explained-62n)
-- [Implementing JWT Authentication in Node.js](https://dev.to/mbugua70/implementing-jwt-authentication-in-nodejs-3m8g)
+- [How to Build Your Own Distributed KV Storage System Using the etcd Raft Library](https://dev.to/justlorain/how-to-build-your-own-distributed-kv-storage-system-using-the-etcd-raft-library-2j69)
+- [Gantt Project Planners in Software Development: Powerful Tools in Action](https://dev.to/thomasy0ung/gantt-project-planners-in-software-development-powerful-tools-in-action-233c)
+- [Supercharge Your Knowledge Base: Turning Your Developer Community into Content Creators](https://dev.to/swati1267/supercharge-your-knowledge-base-turning-your-developer-community-into-content-creators-338o)
+- [?? vs || in JavaScript: The little-known difference](https://dev.to/safdarali/-vs-in-javascript-the-little-known-difference-18a6)
+- [How to Use an Active Button After Click in Tailwind CSS](https://dev.to/saim_ansari/how-to-use-an-active-button-after-click-in-tailwind-css-2g8d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
