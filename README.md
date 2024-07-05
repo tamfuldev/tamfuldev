@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DiscriminatorMap de Doctrine avec Api-platform](https://dev.to/aratinau/discriminatormap-de-doctrine-avec-api-platform-4koa)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-99h)
-- [Cloud computing: CaaS vs SaaS- What&#39;s the difference- full comparison](https://dev.to/momciloo/cloud-computing-caas-vs-saas-whats-the-difference-full-comparison-462j)
-- [How to Set Up a New TypeScript Project](https://dev.to/asimnp/how-to-set-up-a-new-typescript-project-56ae)
-- [Create an API in Umbraco in 5 Minutes: A Quick Guide for Developers](https://dev.to/shekhartarare/create-an-api-in-umbraco-in-5-minutes-a-quick-guide-for-developers-32cj)
+- [How to Make Parent Div Activate Styling of Child Div for Hover and Active States](https://dev.to/bobbyiliev/how-to-make-parent-div-activate-styling-of-child-div-for-hover-and-active-states-3e26)
+- [Secure Access to Connected Devices](https://dev.to/s-imsy/secure-access-to-connected-devices-cmj)
+- [Automating IT Interviews with Ollama and Audio Capabilities in Python](https://dev.to/josmel/automating-it-interviews-with-ollama-and-audio-capabilities-in-python-545o)
+- [Mastering Unit Testing: A Comprehensive Guide](https://dev.to/jay818/mastering-unit-testing-a-comprehensive-guide-ing)
+- [Creating a React component using Symfony UX](https://dev.to/icolomina/creating-a-react-component-using-symfony-ux-1bk9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
