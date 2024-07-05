@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why and How to Use Box-Sizing: &#39;Border-Box&#39; in Your CSS Layouts](https://dev.to/cindykandie/why-and-how-to-use-box-sizing-border-box-in-your-css-layouts-30ei)
-- [Export any Web Page to Markdown](https://dev.to/amit_kharel_aae65abe2b111/export-any-web-page-to-markdown-23f)
-- [How to Create Virtual Machine Scale Set.](https://dev.to/emeka_moses_c752f2bdde061/how-to-create-virtual-machine-scale-set-1l0m)
-- [Fundamental Parts of a Successful SEO Plan in Digital Marketing](https://dev.to/juddiy/fundamental-parts-of-a-successful-seo-plan-in-digital-marketing-24ol)
-- [Here&#39;s how you can build and train GPT-2 from scratch using PyTorch](https://dev.to/amit_kharel_aae65abe2b111/heres-how-you-can-build-and-train-gpt-2-from-scratch-using-pytorch-345n)
+- [Implementasi Metode Standard Symmetric Encryption Signature pada Golang](https://dev.to/yogameleniawan/implementasi-metode-standard-symmetric-encryption-signature-pada-golang-2m5m)
+- [Creating and Managing Users and Groups on Linux with Bash Scripts: An Efficient Guide 🚀🐧](https://dev.to/adeshile_osunkoya_4201f36/creating-and-managing-users-and-groups-on-linux-with-bash-scripts-an-efficient-guide-2pog)
+- [Setup para Ruby / Rails: Ubuntu](https://dev.to/serradura/setup-para-ruby-rails-ubuntu-2ip8)
+- [Online Linux Playground | Practice Linux Commands Online](https://dev.to/labex/online-linux-playground-practice-linux-commands-online-5b25)
+- [Setup para Ruby / Rails: Windows + WSL](https://dev.to/serradura/setup-para-ruby-rails-windows-wsl-479l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
