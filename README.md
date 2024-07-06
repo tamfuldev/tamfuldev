@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SQL with Vector Search : MyScale, Spring and Java - Step by Step tutorial!](https://dev.to/vishalmysore/sql-with-vector-search-myscale-spring-and-java-step-by-step-tutorial-1fde)
-- [WIX Studio Submitted](https://dev.to/alla_santoshpavankumar_/wix-studio-submitted-15bb)
-- [IMPLEMENTING AZURE KEY VAULT](https://dev.to/aizeon/implementing-azure-key-vault-7he)
-- [How to Enable SonarCloud for Your Project](https://dev.to/olsido/how-to-enable-sonarcloud-for-your-project-aoi)
-- [Creating Users and Groups with Bash Script: A Comprehensive Guide](https://dev.to/udealor_ngozika_d9ec8be50/creating-users-and-groups-with-bash-script-a-comprehensive-guide-1n8e)
+- [🚀 TypeScript Roadmap 2024 Step By Step](https://dev.to/sovannaro/typescript-roadmap-2024-step-by-step-9i4)
+- [JavaScript NaN - advanced JS interview question](https://dev.to/finalgirl321/lets-talk-about-js-nan-advanced-js-interview-question-3b7a)
+- [Day 12 of Studying AWS](https://dev.to/okalu2625/day-12-of-studying-aws-54fn)
+- [Mastering Ninja Resource Management](https://dev.to/labex/mastering-ninja-resource-management-eg4)
+- [Avoid These 4 Common useState Mistakes in React](https://dev.to/vyan/avoid-these-4-common-usestate-mistakes-in-react-8j5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
