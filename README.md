@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 985 : The Thing](https://dev.to/dwane/day-985-the-thing-25n2)
-- [Mastering Number Systems: Binary, Decimal, Hexadecimal, and More](https://dev.to/m__mdy__m/understanding-number-systems-binary-decimal-hexadecimal-and-beyond-55i4)
-- [My Journey as a Backend Developer: Tackling Complex Problems and Embracing the HNG Internship](https://dev.to/oj_redifined/my-journey-as-a-backend-developer-tackling-complex-problems-and-embracing-the-hng-internship-10gd)
-- [How Astro DB reminded me what SSR really means](https://dev.to/fearandesire/how-astro-db-taught-me-what-ssr-really-means-4gfh)
-- [Hosting Static Website On Azure Blob Storage.](https://dev.to/romanus_onyekwere/hosting-static-website-on-azure-blob-storage-n9j)
+- [IMPLEMENTING AZURE KEY VAULT](https://dev.to/aizeon/implementing-azure-key-vault-7he)
+- [How to Enable SonarCloud for Your Project](https://dev.to/olsido/how-to-enable-sonarcloud-for-your-project-aoi)
+- [Creating Users and Groups with Bash Script: A Comprehensive Guide](https://dev.to/udealor_ngozika_d9ec8be50/creating-users-and-groups-with-bash-script-a-comprehensive-guide-1n8e)
+- [Creating Users and Groups with Bash Script: A Comprehensive Guide](https://dev.to/udealor_ngozika_d9ec8be50/creating-users-and-groups-with-bash-script-a-comprehensive-guide-396g)
+- [Send email with nodejs](https://dev.to/patzi275/send-email-with-nodejs-1ajh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
