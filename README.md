@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [5 github profiles every developer must follow](https://dev.to/agunwachidiebelecalistus/5-github-profiles-every-developer-must-follow-1441)
-- [Getting started as a Mobile App Developer](https://dev.to/mutiatbash/getting-started-as-a-mobile-app-developer-ji8)
-- [Guard Your Digital Fortress: Essential Privacy Best Practices Revealed](https://dev.to/verifyvault/guard-your-digital-fortress-essential-privacy-best-practices-revealed-26o4)
-- [AWS Security Hub](https://dev.to/cyb3rcloud8888/aws-security-hub-3n19)
-- [Descomplicando algoritmos](https://dev.to/brunociccarino/descomplicando-algoritmos-51n9)
+- [Free Unlimited File Converter](https://dev.to/banmyaccount/free-unlimited-file-converter-56gn)
+- [Version Control with Git and GitHub: The Importance and Effective Usage](https://dev.to/hallowshaw/version-control-with-git-and-github-the-importance-and-effective-usage-2b2)
+- [Vector Search pt. 3 - Retrieval Systems 🌌](https://dev.to/sawaedo/vector-search-pt-3-retrieval-systems-3598)
+- [The Pragmatic Programmer Summary &lpar;WIP&rpar;](https://dev.to/mengjia/the-pragmatic-programmer-summary-wip-3d3o)
+- [New? theme changing idea from a fancy map](https://dev.to/sadra20012/new-theme-changing-idea-from-a-fancy-map-ac7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
