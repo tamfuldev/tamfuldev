@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Free Unlimited File Converter](https://dev.to/banmyaccount/free-unlimited-file-converter-56gn)
-- [Version Control with Git and GitHub: The Importance and Effective Usage](https://dev.to/hallowshaw/version-control-with-git-and-github-the-importance-and-effective-usage-2b2)
-- [Vector Search pt. 3 - Retrieval Systems 🌌](https://dev.to/sawaedo/vector-search-pt-3-retrieval-systems-3598)
-- [The Pragmatic Programmer Summary &lpar;WIP&rpar;](https://dev.to/mengjia/the-pragmatic-programmer-summary-wip-3d3o)
-- [New? theme changing idea from a fancy map](https://dev.to/sadra20012/new-theme-changing-idea-from-a-fancy-map-ac7)
+- [Let’s Build Market Analysis Team with AI Agents](https://dev.to/exploredataaiml/lets-build-market-analysis-team-with-ai-agents-iee)
+- [Turn Your GitHub Contributions into a Tetris GIF! 🎮](https://dev.to/debba/turn-your-github-contributions-into-a-tetris-gif-29b0)
+- [Building a CRUD Application with the MERN Stack: A Step-by-Step Guide](https://dev.to/muhammedshamal/building-a-crud-application-with-the-mern-stack-a-step-by-step-guide-5d16)
+- [Destructuring Assignment: Unleashing the Power of Simplicity](https://dev.to/waelhabbal/destructuring-assignment-unleashing-the-power-of-simplicity-21ol)
+- [Building Full-Stack Applications with the MERN Stack: A Comprehensive Guide](https://dev.to/muhammedshamal/building-full-stack-applications-with-the-mern-stack-a-comprehensive-guide-4g6h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
