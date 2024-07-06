@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 TypeScript Roadmap 2024 Step By Step](https://dev.to/sovannaro/typescript-roadmap-2024-step-by-step-9i4)
-- [JavaScript NaN - advanced JS interview question](https://dev.to/finalgirl321/lets-talk-about-js-nan-advanced-js-interview-question-3b7a)
-- [Day 12 of Studying AWS](https://dev.to/okalu2625/day-12-of-studying-aws-54fn)
-- [Mastering Ninja Resource Management](https://dev.to/labex/mastering-ninja-resource-management-eg4)
-- [Avoid These 4 Common useState Mistakes in React](https://dev.to/vyan/avoid-these-4-common-usestate-mistakes-in-react-8j5)
+- [Should I stick to Mern or move to java](https://dev.to/coddiekrishna/should-i-stick-to-mern-or-move-to-java-4h5n)
+- [Dive into the Cutting-Edge of Multi-Task and Meta-Learning 🚀](https://dev.to/getvm/dive-into-the-cutting-edge-of-multi-task-and-meta-learning-35a8)
+- [Elixir Task, Task.Supervisor - Another way to work with Elixir process](https://dev.to/manhvanvu/elixir-task-tasksupervisor-another-way-to-work-with-elixir-process-5d70)
+- [⚡ MyFirstApp - React Native with Expo &lpar;P26&rpar; - Code Layout Login Phone Number](https://dev.to/skipperhoa/myfirstapp-react-native-with-expo-p26-code-layout-login-phone-number-291k)
+- [⚡ MyFirstApp - React Native with Expo &lpar;P25&rpar; - Code Layout Login Screen](https://dev.to/skipperhoa/myfirstapp-react-native-with-expo-p25-code-layout-login-screen-4pcl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
