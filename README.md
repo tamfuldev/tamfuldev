@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dive into the Fascinating World of Computer Architecture with UW Madison CS 354 🖥️](https://dev.to/getvm/dive-into-the-fascinating-world-of-computer-architecture-with-uw-madison-cs-354-4dom)
-- [System Design: Master CAP Theorem](https://dev.to/zeeshanali0704/cap-theorem-5bm0)
-- [Sarcasm Detection AI Model &lpar;97% Accuracy&rpar; Trained With Reddit Comments - Training &amp; Testing](https://dev.to/stevenmathew/sarcasm-detection-ai-model-trained-with-reddit-comments-training-testing-2e32)
-- [Sarcasm Detection AI Model &lpar;97% Accuracy&rpar; Trained With Reddit Comments - Cleaning and Saving The Data](https://dev.to/stevenmathew/sarcasm-detection-ai-model-trained-with-reddit-comments-cleaning-and-saving-the-data-46dj)
-- [React + Next.js + tailwind Github pages](https://dev.to/abdullahkim/react-nextjs-tailwind-github-pages-2cbd)
+- [The Brazilian National Policy of Informatics Or How-To Not Create A Tech Industry In Your Country](https://dev.to/dinowilliam/the-brazilian-national-policy-of-informatics-or-how-to-not-create-a-tech-industry-in-your-country-5h44)
+- [Counting empty lines in a file](https://dev.to/abbazs/counting-empty-lines-in-a-file-22cl)
+- [CSS Animated Blobs and Groovy Web Design](https://dev.to/gperilli/css-animated-blobs-and-groovy-web-design-395o)
+- [How to print header and footer each and every page when I print the page using mobile browser?](https://dev.to/time_west_f944fd586784aff/how-to-print-header-and-footer-each-and-every-page-when-i-print-the-page-using-mobile-browser-2aai)
+- [Bash string manipulation 2](https://dev.to/abbazs/bash-string-manipulation-2-2koc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
