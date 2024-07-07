@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Análise das estações meteorológicas - parte extra 1](https://dev.to/devsnorte/analise-das-estacoes-meteorologicas-parte-extra-1-4734)
-- [Fetch vs Axios: Which One Should You Use for HTTP Requests in JavaScript? 🚀](https://dev.to/marmariadev/fetch-vs-axios-which-one-should-you-use-for-http-requests-in-javascript-4d38)
-- [Inner classes in Java](https://dev.to/prashantrmishra/inner-classes-in-java-2ln1)
-- [Fetch vs Axios: ¿Cuál Usar para Solicitudes HTTP en JavaScript? 🚀](https://dev.to/marmariadev/fetch-vs-axios-cual-usar-para-solicitudes-http-en-javascript-154d)
-- [Useful Resources Related to Microsoft Power Platform](https://dev.to/someshr94/useful-resources-related-to-microsoft-power-platform-5b6d)
+- [Game Jam Experience&lpar;&rpar;;](https://dev.to/muhammad_faseeh_1717/game-jam-experience-1m6o)
+- [iOS vs. Android: Why I&#39;ll Never Go Back to Android](https://dev.to/jehnz/ios-vs-android-why-ill-never-go-back-to-android-1o30)
+- [Integrate Generative AI with Node JS: A Beginner&#39;s guide](https://dev.to/rishavd3v/integrate-generative-ai-with-node-js-a-beginners-guide-5b1m)
+- [Dive into the Fascinating World of Computer Security with UC Berkeley&#39;s CS 161 Course! 🔒](https://dev.to/getvm/dive-into-the-fascinating-world-of-computer-security-with-uc-berkeleys-cs-161-course-4di1)
+- [JavaScript Challange 100 day with Mukhriddin &lpar;Part 1&rpar;](https://dev.to/mukhriddinweb/javascript-challange-100-day-with-mukhriddin-khodieff-4i5b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
