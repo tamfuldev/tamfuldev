@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps Meets Cybersecurity -&gt; DevSecOps](https://dev.to/fpesre/devops-meets-cybersecurity-devsecops-2faa)
-- [Number - Javascript](https://dev.to/fernandomoyano/number-javascript-581n)
-- [Example article title](https://dev.to/target-ops/example-article-title-mnj)
-- [Example article title](https://dev.to/target-ops/example-article-title-155i)
-- [Example article title](https://dev.to/target-ops/example-article-title-2noi)
+- [Example article title](https://dev.to/uplift3r/example-article-title-319c)
+- [AWS Billing Scare](https://dev.to/okalu2625/aws-billing-scare-39o1)
+- [Suporte às funções do Pascal](https://dev.to/alexgarzao/suporte-as-funcoes-do-pascal-2fl9)
+- [@lazarv/react-server vs Next.js](https://dev.to/lazarv/lazarvreact-server-vs-nextjs-ok8)
+- [Example article title](https://dev.to/target-ops/example-article-title-1l6h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
