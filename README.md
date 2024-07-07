@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Game Jam Experience&lpar;&rpar;;](https://dev.to/muhammad_faseeh_1717/game-jam-experience-1m6o)
-- [iOS vs. Android: Why I&#39;ll Never Go Back to Android](https://dev.to/jehnz/ios-vs-android-why-ill-never-go-back-to-android-1o30)
-- [Integrate Generative AI with Node JS: A Beginner&#39;s guide](https://dev.to/rishavd3v/integrate-generative-ai-with-node-js-a-beginners-guide-5b1m)
-- [Dive into the Fascinating World of Computer Security with UC Berkeley&#39;s CS 161 Course! 🔒](https://dev.to/getvm/dive-into-the-fascinating-world-of-computer-security-with-uc-berkeleys-cs-161-course-4di1)
-- [JavaScript Challange 100 day with Mukhriddin &lpar;Part 1&rpar;](https://dev.to/mukhriddinweb/javascript-challange-100-day-with-mukhriddin-khodieff-4i5b)
+- [DevOps Meets Cybersecurity -&gt; DevSecOps](https://dev.to/fpesre/devops-meets-cybersecurity-devsecops-2faa)
+- [Number - Javascript](https://dev.to/fernandomoyano/number-javascript-581n)
+- [Example article title](https://dev.to/target-ops/example-article-title-mnj)
+- [Example article title](https://dev.to/target-ops/example-article-title-155i)
+- [Example article title](https://dev.to/target-ops/example-article-title-2noi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
