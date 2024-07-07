@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Issue 006 -- Independent Development Will Always Have Similar Products](https://dev.to/justin3go/issue-006-independent-development-will-always-have-similar-products-2c62)
-- [Let’s Build A Simple ‘Real Estate’ Business Using AI Agents](https://dev.to/exploredataaiml/lets-build-a-simple-real-estate-business-using-ai-agents-339e)
-- [The Ultimate React Guide for 2024: What&#39;s New and What&#39;s Next](https://dev.to/matin_mollapur/the-ultimate-react-guide-for-2024-whats-new-and-whats-next-2kf3)
-- [Considerations for Deploying Software Test Automation](https://dev.to/talenttinaapi/considerations-for-deploying-software-test-automation-1a8j)
-- [Introduction to BitPower Decentralized Lending](https://dev.to/aimm_y/introduction-to-bitpower-decentralized-lending-1jfc)
+- [Você foi enganado! Encapsulamento não é apenas sobre getters e setters](https://dev.to/terminalcoffee/voce-foi-enganado-encapsulamento-nao-e-apenas-sobre-getters-e-setters-42g4)
+- [Optimizing Stock Trading with AI Technology](https://dev.to/okibayu/optimizing-stock-trading-with-ai-technology-1f60)
+- [Aide mémoire Programmation Orientée Objet](https://dev.to/abdelkarimain/aide-memoire-programmation-orientee-objet-3dog)
+- [Introducing Flitter: Bringing Flutter&#39;s Power to Web-Based Data Visualization](https://dev.to/moondaeseung/introducing-flitter-bringing-flutters-power-to-web-based-data-visualization-4o27)
+- [Conclusion on using a QuickJS sandbox](https://dev.to/sebastian_wessel/conclusion-on-using-a-quickjs-sandbox-2gm3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
