@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Você foi enganado! Encapsulamento não é apenas sobre getters e setters](https://dev.to/terminalcoffee/voce-foi-enganado-encapsulamento-nao-e-apenas-sobre-getters-e-setters-42g4)
-- [Optimizing Stock Trading with AI Technology](https://dev.to/okibayu/optimizing-stock-trading-with-ai-technology-1f60)
-- [Aide mémoire Programmation Orientée Objet](https://dev.to/abdelkarimain/aide-memoire-programmation-orientee-objet-3dog)
-- [Introducing Flitter: Bringing Flutter&#39;s Power to Web-Based Data Visualization](https://dev.to/moondaeseung/introducing-flitter-bringing-flutters-power-to-web-based-data-visualization-4o27)
-- [Conclusion on using a QuickJS sandbox](https://dev.to/sebastian_wessel/conclusion-on-using-a-quickjs-sandbox-2gm3)
+- [Análise das estações meteorológicas - parte extra 1](https://dev.to/devsnorte/analise-das-estacoes-meteorologicas-parte-extra-1-4734)
+- [Fetch vs Axios: Which One Should You Use for HTTP Requests in JavaScript? 🚀](https://dev.to/marmariadev/fetch-vs-axios-which-one-should-you-use-for-http-requests-in-javascript-4d38)
+- [Inner classes in Java](https://dev.to/prashantrmishra/inner-classes-in-java-2ln1)
+- [Fetch vs Axios: ¿Cuál Usar para Solicitudes HTTP en JavaScript? 🚀](https://dev.to/marmariadev/fetch-vs-axios-cual-usar-para-solicitudes-http-en-javascript-154d)
+- [Useful Resources Related to Microsoft Power Platform](https://dev.to/someshr94/useful-resources-related-to-microsoft-power-platform-5b6d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
