@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Actually try on your job applications](https://dev.to/cassidoo/actually-try-on-your-job-applications-2h9g)
-- [Extensible Control of Reaper via OSC and Scripts](https://dev.to/maxim_radugin/extensible-control-of-reaper-via-osc-and-scripts-2n27)
-- [Demystifying the `this` keyword in JavaScript](https://dev.to/shadid12/demystifying-the-this-keyword-in-javascript-2od7)
-- [ContentAce : A Cool AI-Powered Content Generation Platform 🚀](https://dev.to/mdkaifansari04/contentace-a-cool-ai-powered-content-generation-platform-4dmc)
-- [Eventos: Somente ID ou Dados completos?](https://dev.to/fabiosouza/eventos-somente-id-ou-dados-completos-2di)
+- [Exploring Angular&#39;s Change Detection: In-Depth Analysis](https://dev.to/jzolnowski/exploring-angulars-change-detection-in-depth-analysis-h3j)
+- [Linux User Creation- Bash Scripting](https://dev.to/lucy_76er/linux-user-creation-bash-scripting-4868)
+- [Linux User Creation- Bash Scripting](https://dev.to/lucy_76er/linux-user-creation-bash-scripting-kl1)
+- [Startup and Timing](https://dev.to/jwtiller_c47bdfa134adf302/startup-and-timing-155d)
+- [Introduction to Functional Programming in JavaScript: Partial functions #5](https://dev.to/francescoagati/introduction-to-functional-programming-in-javascript-partial-functions-5-4lc3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
