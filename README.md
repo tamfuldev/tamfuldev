@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a &quot;Show Password&quot; Toggle](https://dev.to/codeswithpankaj/how-to-create-a-show-password-toggle-4me0)
-- [Step-by-Step Guide to Creating a CSS Carousel](https://dev.to/mdhassanpatwary/step-by-step-guide-to-creating-a-css-carousel-g7k)
-- [Domain Name System &lpar;DNS&rpar; for Beginners](https://dev.to/syedumaircodes/domain-name-system-dns-for-beginners-dec)
-- [Freeware: Java Utility Package &lpar;Version 2024.07.07&rpar; released](https://dev.to/andybrunner/freeware-java-utility-package-version-20240707-released-g4n)
-- [Pics Shade : Image hosting solution for your website](https://dev.to/sh20raj/pics-shade-image-hosting-solution-for-your-website-3h8g)
+- [CRUD in Firebase](https://dev.to/arunkrish11/crud-in-firebase-5hk3)
+- [Mastering JavaScript, Python, and Java: The Path to Becoming a Successful Software Developer in 2024](https://dev.to/myexamcloud/mastering-javascript-python-and-java-the-path-to-becoming-a-successful-software-developer-in-2024-55po)
+- [Wk 4: Deployment - MLOPs with DataTalks](https://dev.to/afrologicinsect/wk-4-deployment-mlops-with-datatalks-ei2)
+- [My Journey Through Laracasts: 30 Days to Learn Laravel](https://dev.to/hassanshahzadaheer/my-journey-through-laracasts-30-days-to-learn-laravel-34ee)
+- [Modern Software Architecture is a Joke](https://dev.to/vbilopav/modern-software-architecture-is-a-joke-23d9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
