@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [MapReduce Vs Tez](https://dev.to/shvshydv/mapreduce-vs-tez-171g)
-- [Speculation Rules API: Selectores y carga dinámica](https://dev.to/dezkareid/speculation-rules-api-selectores-y-carga-dinamica-4il8)
-- [Example article title](https://dev.to/target-ops/example-article-title-1onp)
-- [Build an AI UI Generator with Gemini API, Next.js &lpar;Tutorial&rpar;](https://dev.to/avionmission/build-an-ai-ui-generator-with-gemini-api-nextjs-tutorial-237p)
-- [Difference between main branches and master branches in #git and #github](https://dev.to/aadarshk7/difference-between-main-branches-and-master-branches-in-git-and-github-1kb9)
+- [How to Create a &quot;Show Password&quot; Toggle](https://dev.to/codeswithpankaj/how-to-create-a-show-password-toggle-4me0)
+- [Step-by-Step Guide to Creating a CSS Carousel](https://dev.to/mdhassanpatwary/step-by-step-guide-to-creating-a-css-carousel-g7k)
+- [Domain Name System &lpar;DNS&rpar; for Beginners](https://dev.to/syedumaircodes/domain-name-system-dns-for-beginners-dec)
+- [Freeware: Java Utility Package &lpar;Version 2024.07.07&rpar; released](https://dev.to/andybrunner/freeware-java-utility-package-version-20240707-released-g4n)
+- [Pics Shade : Image hosting solution for your website](https://dev.to/sh20raj/pics-shade-image-hosting-solution-for-your-website-3h8g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
