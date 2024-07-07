@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Automate Your Expo Builds with EAS Using GitHub Actions: A Step-by-Step Guide](https://dev.to/jocanola/automate-your-expo-builds-with-eas-using-github-actions-a-step-by-step-guide-bik)
-- [npm install falls into timeout, what can you do?](https://dev.to/ferreira_mariana/npm-install-falls-into-timeout-what-can-you-do-42i7)
-- [how to find the second largest number in an array](https://dev.to/ishivendratripathi/how-to-find-the-second-largest-number-in-an-array-30m1)
-- [Go and MongoDB: Building a CRUD API from Scratch](https://dev.to/aquibpy/go-and-mongodb-building-a-crud-api-from-scratch-10p6)
-- [Software isn&#39;t always the answer](https://dev.to/msnmongare/software-isnt-always-the-answer-4e7m)
+- [Actually try on your job applications](https://dev.to/cassidoo/actually-try-on-your-job-applications-2h9g)
+- [Extensible Control of Reaper via OSC and Scripts](https://dev.to/maxim_radugin/extensible-control-of-reaper-via-osc-and-scripts-2n27)
+- [Demystifying the `this` keyword in JavaScript](https://dev.to/shadid12/demystifying-the-this-keyword-in-javascript-2od7)
+- [ContentAce : A Cool AI-Powered Content Generation Platform 🚀](https://dev.to/mdkaifansari04/contentace-a-cool-ai-powered-content-generation-platform-4dmc)
+- [Eventos: Somente ID ou Dados completos?](https://dev.to/fabiosouza/eventos-somente-id-ou-dados-completos-2di)
 <!-- BLOG-POST-LIST:END -->
 
 ---
