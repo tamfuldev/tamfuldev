@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Custom Enable/Disable + Input Field Component in Angular](https://dev.to/mateuscechetto/building-a-custom-enabledisable-input-field-component-in-angular-5bgc)
-- [Comment héberger une application Express sur Vercel](https://dev.to/abdelkarimain/comment-heberger-une-application-express-sur-vercel-5h26)
-- [Introduction to Functional Programming in JavaScript: Function compositions #4](https://dev.to/francescoagati/introduction-to-functional-programming-in-javascript-function-compositions-4-5hjm)
-- [Vercel&#39;s latest product is the best thing since sliced bread](https://dev.to/bibschan/vercels-latest-product-is-the-best-thing-since-sliced-bread-29c4)
-- [8 Months Recap.](https://dev.to/justjay30a7i/8-months-recap-4hh2)
+- [Building a Sports Score App with Flutter](https://dev.to/kartikmehta8/building-a-sports-score-app-with-flutter-3961)
+- [Leetcode Day 6: Merge Two Sorted Lists Explained](https://dev.to/simona-cancian/leetcode-day-6-merge-two-sorted-lists-explained-55n2)
+- [The Gemika&#39;s Magical Guide to Sorting Hogwarts Students using the Decision Tree Algorithm &lpar;Part #3&rpar;](https://dev.to/gerryleonugroho/the-gemikas-magical-guide-to-sorting-hogwarts-students-using-the-decision-tree-algorithm-part-3-4naa)
+- [The strategic value of a Security Champions Program.](https://dev.to/cybertica/the-strategic-value-of-a-security-champions-program-1n86)
+- [Unwritten Rules of Stackoverflow](https://dev.to/mmvergara/unwritten-rules-of-stackoverflow-odm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
