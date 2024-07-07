@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Callback Functions in JS](https://dev.to/__khojiakbar__/callback-functions-in-js-3a05)
-- [Mastering Kubernetes DaemonSets: Deploy Pods Across Your Cluster](https://dev.to/labex/mastering-kubernetes-daemonsets-deploy-pods-across-your-cluster-881)
-- [OOP🚌](https://dev.to/__khojiakbar__/oop-1lap)
-- [You&#39;re starting SaaS startups wrong](https://dev.to/joshlawson100/youre-starting-saas-startups-wrong-5ama)
-- [Using Apache Superset, a Powerful and Free Data Analysis Tool](https://dev.to/chauhoangminhnguyen/using-apache-superset-a-powerful-and-free-data-analysis-tool-1e79)
+- [Dive into the Fascinating World of Computer Architecture with UW Madison CS 354 🖥️](https://dev.to/getvm/dive-into-the-fascinating-world-of-computer-architecture-with-uw-madison-cs-354-4dom)
+- [System Design: Master CAP Theorem](https://dev.to/zeeshanali0704/cap-theorem-5bm0)
+- [Sarcasm Detection AI Model &lpar;97% Accuracy&rpar; Trained With Reddit Comments - Training &amp; Testing](https://dev.to/stevenmathew/sarcasm-detection-ai-model-trained-with-reddit-comments-training-testing-2e32)
+- [Sarcasm Detection AI Model &lpar;97% Accuracy&rpar; Trained With Reddit Comments - Cleaning and Saving The Data](https://dev.to/stevenmathew/sarcasm-detection-ai-model-trained-with-reddit-comments-cleaning-and-saving-the-data-46dj)
+- [React + Next.js + tailwind Github pages](https://dev.to/abdullahkim/react-nextjs-tailwind-github-pages-2cbd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
