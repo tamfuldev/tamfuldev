@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Developing more efficient on-call procedures for engineering teams](https://dev.to/pagerlyio/developing-more-efficient-on-call-procedures-for-engineering-teams-28li)
-- [Our weekly API rundown: Bin Lookup, Currency And Cryptocurrency Conversion and Bad Word Filter](https://dev.to/worldindata/our-weekly-api-rundown-bin-lookup-currency-and-cryptocurrency-conversion-and-bad-word-filter-2i4e)
-- [Time Traveling Through CSS: The Evolution of Web Styling](https://dev.to/mdhassanpatwary/time-traveling-through-css-the-evolution-of-web-styling-24pb)
-- [The Rise of Data-Driven Aquaculture: Revolutionizing Fish Farming in Kenya](https://dev.to/mainashem/the-rise-of-data-driven-aquaculture-revolutionizing-fish-farming-in-kenya-2ac0)
-- [Developed a News API Service - Looking for Feedback!](https://dev.to/antoniodipinto/developed-a-news-api-service-looking-for-feedback-3e41)
+- [Exploring the Latest JavaScript Trends: What You Need to Know](https://dev.to/ayushh/exploring-the-latest-javascript-trends-what-you-need-to-know-b4a)
+- [Amazon Software Engineer Levels: Roles and Expectations [With Salary]](https://dev.to/alexr/amazon-software-engineer-levels-roles-and-expectations-with-salary-1017)
+- [Hadoop/Spark is too heavy, esProc SPL is light](https://dev.to/esproc_spl/hadoopspark-is-too-heavy-esproc-spl-is-light-4bge)
+- [Best Web Development Roadmap for Beginners 2024](https://dev.to/kushalkumarshaw/best-web-development-roadmap-for-beginners-2024-3df7)
+- [GitLab vs GitHub vs BitBucket](https://dev.to/shariqahmed525/gitlab-vs-github-vs-bitbucket-1jc9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
