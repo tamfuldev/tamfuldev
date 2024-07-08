@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [.NET Digest #1](https://dev.to/anogneva/net-digest-1-285m)
-- [Setting your remote development environment](https://dev.to/algoorgoal/setting-your-remote-development-environment-1npd)
-- [This web application layout is free](https://dev.to/meschacirung/this-application-layout-is-free-g8d)
-- [Meme Monday](https://dev.to/davitacols/meme-monday-j4i)
-- [The Power of Unit Testing Tools in Software Development](https://dev.to/keploy/the-power-of-unit-testing-tools-in-software-development-2670)
+- [Developing more efficient on-call procedures for engineering teams](https://dev.to/pagerlyio/developing-more-efficient-on-call-procedures-for-engineering-teams-28li)
+- [Our weekly API rundown: Bin Lookup, Currency And Cryptocurrency Conversion and Bad Word Filter](https://dev.to/worldindata/our-weekly-api-rundown-bin-lookup-currency-and-cryptocurrency-conversion-and-bad-word-filter-2i4e)
+- [Time Traveling Through CSS: The Evolution of Web Styling](https://dev.to/mdhassanpatwary/time-traveling-through-css-the-evolution-of-web-styling-24pb)
+- [The Rise of Data-Driven Aquaculture: Revolutionizing Fish Farming in Kenya](https://dev.to/mainashem/the-rise-of-data-driven-aquaculture-revolutionizing-fish-farming-in-kenya-2ac0)
+- [Developed a News API Service - Looking for Feedback!](https://dev.to/antoniodipinto/developed-a-news-api-service-looking-for-feedback-3e41)
 <!-- BLOG-POST-LIST:END -->
 
 ---
