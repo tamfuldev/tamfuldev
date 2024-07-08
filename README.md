@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [shadcn-ui/ui codebase analysis: How does shadcn-ui CLI work? — Part 2.8](https://dev.to/ramunarasinga/shadcn-uiui-codebase-analysis-how-does-shadcn-ui-cli-work-part-28-28kg)
-- [Advanced Data Visualization Techniques with D3.js and Plotly](https://dev.to/3a5abi/advanced-data-visualization-techniques-with-d3js-and-plotly-1a08)
-- [Automating Semantic Versioning with Github Actions and Branch Naming Conventions](https://dev.to/plutov/automating-semantic-versioning-with-github-actions-and-branch-naming-conventions-mpa)
-- [Really keen for quality full stack engineer and finding it very hard!](https://dev.to/thepingopango_0efd37c1c57/really-keen-for-quality-full-engineer-and-finding-it-very-hard-1dfp)
-- [npm Overview and Key Concepts](https://dev.to/anurag_singh_2jz/npm-overview-and-key-concepts-2m1a)
+- [CSS: Learning box model with analogies](https://dev.to/fhmurakami/css-learning-box-model-with-analogies-20jj)
+- [Kdash - a true opensource K8s micro IDE](https://dev.to/uplift3r/kdash-a-true-opensource-k8s-micro-ide-2c43)
+- [Kdash - a true opensource K8s micro IDE](https://dev.to/uplift3r/kdash-a-true-opensource-k8s-micro-ide-53f5)
+- [Array Sort Methods in JavaScript.!](https://dev.to/samandarhodiev/array-sort-methods-in-javascript-1840)
+- [K9s - CLI Management Advanced Usage](https://dev.to/target-ops/k9s-cli-management-advanced-usage-map)
 <!-- BLOG-POST-LIST:END -->
 
 ---
