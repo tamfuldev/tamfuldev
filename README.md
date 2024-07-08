@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use AI Code Generation to Enhance Developer Productivity](https://dev.to/getambassador2024/how-to-use-ai-code-generation-to-enhance-developer-productivity-5b81)
-- [Building Docker Images](https://dev.to/kalkwst/building-docker-images-55f1)
-- [The DevTool Content Marketing Dashboard: Metrics That Actually Matter](https://dev.to/swati1267/the-devtool-content-marketing-dashboard-metrics-that-actually-matter-29di)
-- [Why do AI articles trend on Dev.to?](https://dev.to/paul_freeman/why-do-ai-articles-trend-on-devto-hh8)
-- [Step-by-Step Guide to Creating RESTful APIs with Node.js and PostgreSQL](https://dev.to/a_shokn/step-by-step-guide-to-creating-restful-apis-with-nodejs-and-postgresql-1k26)
+- [Implementing Secure Multi-Party Computation &lpar;SMPC&rpar; with NodeJs: A Practical Guide](https://dev.to/rigalpatel001/implementing-secure-multi-party-computation-smpc-with-nodejs-a-practical-guide-55pj)
+- [Apache Doris for log and time series data analysis in NetEase, why not Elasticsearch and InfluxDB?](https://dev.to/apachedoris/apache-doris-for-log-and-time-series-data-analysis-in-netease-why-not-elasticsearch-and-influxdb-5f60)
+- [Javascript framework war: Angular vs React](https://dev.to/andrei_saioc_b41f2371c22b/javascript-framework-war-angular-vs-react-55oe)
+- [Advanced Dockerfile Directives](https://dev.to/kalkwst/advanced-dockerfile-directives-193f)
+- [Django application with allauth configuration.](https://dev.to/saiprasath/django-application-with-allauth-configuration-3oeo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
