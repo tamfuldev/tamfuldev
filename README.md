@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CSS: Learning box model with analogies](https://dev.to/fhmurakami/css-learning-box-model-with-analogies-20jj)
-- [Kdash - a true opensource K8s micro IDE](https://dev.to/uplift3r/kdash-a-true-opensource-k8s-micro-ide-2c43)
-- [Kdash - a true opensource K8s micro IDE](https://dev.to/uplift3r/kdash-a-true-opensource-k8s-micro-ide-53f5)
-- [Array Sort Methods in JavaScript.!](https://dev.to/samandarhodiev/array-sort-methods-in-javascript-1840)
-- [K9s - CLI Management Advanced Usage](https://dev.to/target-ops/k9s-cli-management-advanced-usage-map)
+- [Git Commands for Software Engineers](https://dev.to/iamcymentho/git-commands-for-software-engineers-51n8)
+- [Using Streams in Node.js: Efficiency in Data Processing and Practical Applications](https://dev.to/george_ferreira/using-streams-in-nodejs-efficiency-in-data-processing-and-practical-applications-2jig)
+- [Props drilling 📸 useContext&lpar;&rpar;](https://dev.to/jorjishasan/props-drilling-usecontext-146)
+- [Boost Your Vocabulary Effortlessly with Vocabulary Booster 🎓🚀](https://dev.to/huseyn0w/boost-your-vocabulary-effortlessly-with-vocabulary-booster-2p7k)
+- [🚀 Boost Your Laravel Performance with Real-Time Laravel N+1 Query Detection! 🛠️](https://dev.to/scaleupsaas/boost-your-laravel-performance-with-real-time-laravel-n1-query-detection-2j8n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
