@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Common Lisp VS C: a testimony](https://dev.to/vindarel/common-lisp-vs-c-a-testimony-42ga)
-- [How to connect keycloak and Nuxt](https://dev.to/leamsigc/how-to-connect-keycloak-and-nuxt-3blc)
-- [How to Protect Your Application from AI Bots](https://dev.to/permit_io/how-to-protect-your-application-from-ai-bots-49ab)
-- [My HNG Journey. Stage Two: Containerization and Deployment of a Three tier application Using Docker and Nginx Proxy Manager](https://dev.to/ravencodess/my-hng-journey-stage-two-containerization-and-deployment-of-a-three-tier-application-using-docker-and-nginx-proxy-manager-2eh6)
-- [Using NgModule vs Standalone components](https://dev.to/yash_saxena_/using-ngmodule-vs-standalone-components-8d8)
+- [Navigating Common Git Errors: A Guide for Developers](https://dev.to/saint_vandora/navigating-common-git-errors-a-guide-for-developers-35bk)
+- [Deep Dive into PandApache3: Code de lancement](https://dev.to/pykpyky/deep-dive-into-pandapache3-code-de-lancement-327n)
+- [Python class first day](https://dev.to/mahesh_s_369d8f0b1ccd1b9e/python-class-first-day-4o9c)
+- [GSoC Week 6](https://dev.to/chiemezuo/gsoc-week-6-389d)
+- [Gin and router example](https://dev.to/hieunguyendev/gin-and-router-example-2939)
 <!-- BLOG-POST-LIST:END -->
 
 ---
