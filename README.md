@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Working on Something You Hate for 7 Years - How to Escape a Professional Crisis](https://dev.to/juanemilio31323/working-on-something-you-hate-for-7-years-how-to-escape-a-professional-crisis-5892)
-- [Understanding Blocking and Non-blocking Sockets in C Programming: A Comprehensive Guide](https://dev.to/vivekyadav200988/understanding-blocking-and-non-blocking-sockets-in-c-programming-a-comprehensive-guide-2ien)
-- [Mastering Multithreading in C Programming: A Deep Dive with In-Depth Explanations and Advanced Concepts](https://dev.to/vivekyadav200988/mastering-multithreading-in-c-programming-a-deep-dive-with-in-depth-explanations-and-advanced-concepts-245g)
-- [Understanding Asynchronous JavaScript: Callbacks, Promises, and Async/Await](https://dev.to/buildwebcrumbs/understanding-asynchronous-javascript-callbacks-promises-and-asyncawait-cdc)
-- [Vue3 da &lpar; ref va reactive&rpar; farqi](https://dev.to/mukhriddinweb/vue3-da-ref-va-reactive-farqi-1bme)
+- [Concatenate Column Values and Perform Grouping &amp; Aggregation](https://dev.to/judith677/concatenate-column-values-and-perform-grouping-aggregation-3b3)
+- [A new beginning](https://dev.to/yuga/a-new-beginning-3glf)
+- [HackerRank 3 Months Preparation Kit&lpar;JavaScript&rpar; - Plus Minus](https://dev.to/saiteja_amshala_035a7d7f1/hackerrank-3-months-preparation-kit-plus-minus-3cgn)
+- [Deploying a windows 11 VM, Windows Server &amp; a Linux VM](https://dev.to/bdporomon/deploying-a-windows-11-vm-windows-server-a-linux-vm-1m9b)
+- [Invalid Date in Safari](https://dev.to/deni_sugiarto_1a01ad7c3fb/invalid-date-in-safari-4ff6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
