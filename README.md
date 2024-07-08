@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [What is the Difference between &quot;sequel&quot; and &quot;SQL&quot;?](https://dev.to/thekarlesi/what-is-the-difference-between-sequel-and-sql-oh0)
+- [Alarm Android permission &amp; Receivers](https://dev.to/sidcodeme/alarm-android-permission-receivers-318i)
 - [Concatenate Column Values and Perform Grouping &amp; Aggregation](https://dev.to/judith677/concatenate-column-values-and-perform-grouping-aggregation-3b3)
 - [A new beginning](https://dev.to/yuga/a-new-beginning-3glf)
 - [HackerRank 3 Months Preparation Kit&lpar;JavaScript&rpar; - Plus Minus](https://dev.to/saiteja_amshala_035a7d7f1/hackerrank-3-months-preparation-kit-plus-minus-3cgn)
-- [Deploying a windows 11 VM, Windows Server &amp; a Linux VM](https://dev.to/bdporomon/deploying-a-windows-11-vm-windows-server-a-linux-vm-1m9b)
-- [Invalid Date in Safari](https://dev.to/deni_sugiarto_1a01ad7c3fb/invalid-date-in-safari-4ff6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
