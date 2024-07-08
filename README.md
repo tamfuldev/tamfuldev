@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Secure Multi-Party Computation &lpar;SMPC&rpar; with NodeJs: A Practical Guide](https://dev.to/rigalpatel001/implementing-secure-multi-party-computation-smpc-with-nodejs-a-practical-guide-55pj)
-- [Apache Doris for log and time series data analysis in NetEase, why not Elasticsearch and InfluxDB?](https://dev.to/apachedoris/apache-doris-for-log-and-time-series-data-analysis-in-netease-why-not-elasticsearch-and-influxdb-5f60)
-- [Javascript framework war: Angular vs React](https://dev.to/andrei_saioc_b41f2371c22b/javascript-framework-war-angular-vs-react-55oe)
-- [Advanced Dockerfile Directives](https://dev.to/kalkwst/advanced-dockerfile-directives-193f)
-- [Django application with allauth configuration.](https://dev.to/saiprasath/django-application-with-allauth-configuration-3oeo)
+- [.NET Digest #1](https://dev.to/anogneva/net-digest-1-285m)
+- [Setting your remote development environment](https://dev.to/algoorgoal/setting-your-remote-development-environment-1npd)
+- [This web application layout is free](https://dev.to/meschacirung/this-application-layout-is-free-g8d)
+- [Meme Monday](https://dev.to/davitacols/meme-monday-j4i)
+- [The Power of Unit Testing Tools in Software Development](https://dev.to/keploy/the-power-of-unit-testing-tools-in-software-development-2670)
 <!-- BLOG-POST-LIST:END -->
 
 ---
