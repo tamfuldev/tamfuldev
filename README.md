@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Latest JavaScript Trends: What You Need to Know](https://dev.to/ayushh/exploring-the-latest-javascript-trends-what-you-need-to-know-b4a)
-- [Amazon Software Engineer Levels: Roles and Expectations [With Salary]](https://dev.to/alexr/amazon-software-engineer-levels-roles-and-expectations-with-salary-1017)
-- [Hadoop/Spark is too heavy, esProc SPL is light](https://dev.to/esproc_spl/hadoopspark-is-too-heavy-esproc-spl-is-light-4bge)
-- [Best Web Development Roadmap for Beginners 2024](https://dev.to/kushalkumarshaw/best-web-development-roadmap-for-beginners-2024-3df7)
-- [GitLab vs GitHub vs BitBucket](https://dev.to/shariqahmed525/gitlab-vs-github-vs-bitbucket-1jc9)
+- [HTML web storage and web storage objects](https://dev.to/wasifali/html-web-storage-and-web-storage-objects-hcd)
+- [How to Monitor your AWS EC2/Workspace with Datadog](https://dev.to/shrihariharidass/how-to-monitor-your-aws-ec2workspace-with-datadog-15jd)
+- [Log In or Log Out Registered Users using php](https://dev.to/ghulam_mujtaba_247/log-in-or-log-out-registered-users-using-php-3g2o)
+- [Host Multiple Node Apps with nginx, pm2 with SSL certificate](https://dev.to/hussain_mohammed/host-multiple-node-apps-with-nginx-pm2-with-ssl-certificate-5dji)
+- [LeetCode Day28 Dynamic Programming Part1](https://dev.to/flame_chan_llll/leetcode-day28-dynamic-programming-part1-17o0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
