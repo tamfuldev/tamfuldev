@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [17 Libraries to Become a React Wizard 🧙‍♂️🔮✨](https://dev.to/copilotkit/17-libraries-to-become-a-react-wizard-1g6k)
-- [Simple steps on how to create a Windows 11 Virtual machine that is highly available, with a free tier azure account.](https://dev.to/sethgiddy/simple-steps-on-how-to-create-a-windows-11-virtual-machine-that-is-highly-available-with-a-free-tier-azure-account-2f33)
-- [Creating a Generative AI Chatbot using GPT-2 and Flask](https://dev.to/jeanvalve/creating-a-generative-ai-chatbot-using-gpt-2-and-flask-de6)
-- [Creating a Generative AI Chatbot using GPT-2 and Flask](https://dev.to/jeanvalve/creating-a-generative-ai-chatbot-using-gpt-2-and-flask-1jm6)
-- [Comparison of Work360.space vs Odoo.com](https://dev.to/msj/comparison-of-work360space-vs-odoocom-ik4)
+- [Learn Python - Day 1](https://dev.to/dinesh_chinnathurai_136b1/python-learning-59e7)
+- [Biokemp: Customizable Smoking Filters Ecommerce Wix Studio Challenge](https://dev.to/digikins/biokemp-customizable-smoking-filters-ecommerce-wix-studio-challenge-27fl)
+- [How to do Regression Testing](https://dev.to/morrismoses149/how-to-do-regression-testing-2969)
+- [How to setup postgres on ubuntu 20.04](https://dev.to/shaikhalamin/how-to-setup-postgres-on-ubuntu-2004-2df0)
+- [What is Remote Upload?](https://dev.to/sh20raj/what-is-remote-upload-3e60)
 <!-- BLOG-POST-LIST:END -->
 
 ---
