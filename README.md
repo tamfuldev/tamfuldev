@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Lo que costó mi escritorio](https://dev.to/viistorrr/lo-que-costo-mi-escritorio-2acn)
-- [Send Slack Notifications with Go AWS Lambda Functions](https://dev.to/audu97/send-slack-notifications-with-go-aws-lambda-functions-1ci5)
-- [Unleashing the Power of Conversational AI with Sista AI](https://dev.to/sista-ai/unleashing-the-power-of-conversational-ai-with-sista-ai-18a7)
-- [[Game of Purpose] Day 51 - Splines](https://dev.to/humberd/game-of-purpose-day-51-splines-3mkd)
-- [Test-driven API Development in Go](https://dev.to/calvinmclean/test-driven-api-development-in-go-1fb8)
+- [Creating a Symmetrical Star Pattern in Dart](https://dev.to/ahzem/creating-a-symmetrical-star-pattern-in-dart-57kj)
+- [From Code to Clarity: Embedding Technical Writers in Engineering Teams](https://dev.to/daniellewashington/from-code-to-clarity-embedding-technical-writers-in-engineering-teams-47gc)
+- [Docker: A Playground for App Deployment](https://dev.to/mibii/docker-a-playground-for-app-deployment-1a0f)
+- [Essential Linux Utilities and Tools for DevOps Engineers : Day 2 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/essential-linux-utilities-and-tools-for-devops-engineers-day-2-of-50-days-devops-tools-series-40p2)
+- [Introduction to Bioinformatics with Python](https://dev.to/kartikmehta8/introduction-to-bioinformatics-with-python-4jl5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
