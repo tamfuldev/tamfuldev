@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Learn Python - Day 1](https://dev.to/dinesh_chinnathurai_136b1/python-learning-59e7)
-- [Biokemp: Customizable Smoking Filters Ecommerce Wix Studio Challenge](https://dev.to/digikins/biokemp-customizable-smoking-filters-ecommerce-wix-studio-challenge-27fl)
-- [How to do Regression Testing](https://dev.to/morrismoses149/how-to-do-regression-testing-2969)
-- [How to setup postgres on ubuntu 20.04](https://dev.to/shaikhalamin/how-to-setup-postgres-on-ubuntu-2004-2df0)
-- [What is Remote Upload?](https://dev.to/sh20raj/what-is-remote-upload-3e60)
+- [Unlocking the Power of Data with Data Science &amp; Advanced Analytics](https://dev.to/datameticasolutions/unlocking-the-power-of-data-with-data-science-advanced-analytics-9im)
+- [Ultimate Docker CheatSheet in 2024](https://dev.to/imkrunalkanojiya/ultimate-docker-cheatsheet-in-2024-4fm6)
+- [Building Scalable Microservices with .NET 8.0 and Kubernetes](https://dev.to/snaghub/building-scalable-microservices-with-net-80-and-kubernetes-4n62)
+- [Books vs online courses vs projects?](https://dev.to/devonremote/books-vs-online-courses-vs-projects-3eog)
+- [Tuesday&#39;s AI Spotlight](https://dev.to/techdogs_inc/tuesdays-ai-spotlight-aba)
 <!-- BLOG-POST-LIST:END -->
 
 ---
