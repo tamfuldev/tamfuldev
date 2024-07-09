@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Power of Data with Data Science &amp; Advanced Analytics](https://dev.to/datameticasolutions/unlocking-the-power-of-data-with-data-science-advanced-analytics-9im)
-- [Ultimate Docker CheatSheet in 2024](https://dev.to/imkrunalkanojiya/ultimate-docker-cheatsheet-in-2024-4fm6)
-- [Building Scalable Microservices with .NET 8.0 and Kubernetes](https://dev.to/snaghub/building-scalable-microservices-with-net-80-and-kubernetes-4n62)
-- [Books vs online courses vs projects?](https://dev.to/devonremote/books-vs-online-courses-vs-projects-3eog)
-- [Tuesday&#39;s AI Spotlight](https://dev.to/techdogs_inc/tuesdays-ai-spotlight-aba)
+- [Batman-Comic.CSS](https://dev.to/alvaromontoro/batman-comiccss-hh1)
+- [Python in Tamil](https://dev.to/umanathmsri/python-in-tamil-12pm)
+- [Mejora la Experiencia del Usuario con Loading Request](https://dev.to/urian121/mejora-la-experiencia-del-usuario-con-loading-request-23da)
+- [The Cloud Resume Challenge: My Cloud Adventure ☁️](https://dev.to/yuan_hy/the-cloud-resume-challenge-my-cloud-adventure-5439)
+- [j-Exec — Total.js](https://dev.to/palo/j-exec-totaljs-2bo4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
