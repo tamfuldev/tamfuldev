@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Website Navigation: Is a &#39;Home&#39; Link Necessary in the Main Menu?](https://dev.to/jennavisions/website-navigation-is-a-home-link-necessary-in-the-main-menu-4ja)
-- [Practicing politeness in JavaScript code 🤬](https://dev.to/silentwatcher_95/practicing-politeness-in-javascript-code-535g)
-- [Enhancing Your React Native App with Reanimated 3 Using Expo](https://dev.to/3a5abi/enhancing-your-react-native-app-with-reanimated-3-using-expo-2ob2)
-- [Vector and Stack Classes](https://dev.to/paulike/vector-and-stack-classes-k4)
-- [How I Build a Scratch Proxy Server Using Node.js](https://dev.to/avinash_tare/how-i-build-a-scratch-proxy-server-using-nodejs-55d9)
+- [BigQuery Schema Generation Made Easier with PyPI’s bigquery-schema-generator](https://dev.to/noela_tenku/bigquery-schema-generation-made-easier-with-pypis-bigquery-schema-generator-3iej)
+- [Não deveria ser tão simples inserir um bug na sua aplicação e eu te conto o porquê](https://dev.to/ramonborges15/nao-deveria-ser-tao-simples-inserir-um-bug-na-sua-aplicacao-e-eu-te-conto-o-porque-902)
+- [Creating a Simple Generative AI Chatbot with Python and TensorFlow](https://dev.to/csar_fabinchvezlinar/creating-a-simple-generative-ai-chatbot-with-python-and-tensorflow-13mc)
+- [Case Study: Evaluating Expressions](https://dev.to/paulike/case-study-evaluating-expressions-1bgg)
+- [Build Generative AI Chatbot](https://dev.to/jhonnyarm/build-generative-ai-chatbot-4epc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
