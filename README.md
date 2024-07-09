@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Batman-Comic.CSS](https://dev.to/alvaromontoro/batman-comiccss-hh1)
-- [Python in Tamil](https://dev.to/umanathmsri/python-in-tamil-12pm)
-- [Mejora la Experiencia del Usuario con Loading Request](https://dev.to/urian121/mejora-la-experiencia-del-usuario-con-loading-request-23da)
-- [The Cloud Resume Challenge: My Cloud Adventure ☁️](https://dev.to/yuan_hy/the-cloud-resume-challenge-my-cloud-adventure-5439)
-- [j-Exec — Total.js](https://dev.to/palo/j-exec-totaljs-2bo4)
+- [Asinxron/Fetch/Https](https://dev.to/bekmuhammaddev/asinxronfetchhttps-inc)
+- [React Router v6: A Comprehensive Guide to Page Routing in React](https://dev.to/get_pieces/react-router-v6-a-comprehensive-guide-to-page-routing-in-react-55pe)
+- [Flutter BLoC &lpar;Business Logic Component&rpar;](https://dev.to/siam786/flutter-bloc-business-logic-component-57kh)
+- [Top 10 Security Features in .NET Core](https://dev.to/nilebits/top-10-security-features-in-net-core-2e9m)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2ko2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
