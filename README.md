@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What is different between undefined and null in Java Script](https://dev.to/noah-00/what-is-different-between-undefined-and-null-in-java-script-1mdf)
-- [Collect Analytics With one Line-Code -- Promo &lpar;open-beta&rpar;](https://dev.to/litlyx-org/collect-analytics-with-one-line-code-promo-open-beta-4468)
-- [JS Variables, Operators, Data Types](https://dev.to/webdemon/js-variables-operators-data-types-12of)
-- [Python print &lpar;&rpar;](https://dev.to/karthick_selvam/python-print--546e)
-- [Path aliases in Cypress](https://dev.to/msbhikhe/path-aliases-in-cypress-47ao)
+- [How to Handle Secrets in Jupyter Notebooks](https://dev.to/gitguardian/how-to-handle-secrets-in-jupyter-notebooks-466o)
+- [Building an ActivityRenderer](https://dev.to/lenormor/building-an-activityrenderer-3o0)
+- [Count the occurrence of a character in a string - Javascript](https://dev.to/dindustack/count-the-occurrence-of-a-character-in-a-string-javascript-4np7)
+- [Compliance and Regulatory Updates for 2024](https://dev.to/infosectrain_education_84/compliance-and-regulatory-updates-for-2024-2jn6)
+- [Real time rendering with web-sockets](https://dev.to/lenormor/real-time-rendering-with-web-sockets-50b7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
