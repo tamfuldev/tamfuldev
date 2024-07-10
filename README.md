@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Unlock Your Algorithm Superpowers with this Incredible Course! 🚀](https://dev.to/getvm/unlock-your-algorithm-superpowers-with-this-incredible-course-4a7j)
-- [Abordando grafos através das escalas musicais](https://dev.to/magnojunior07/abordando-grafos-atraves-das-escalas-musicais-1fmj)
-- [Design a High Availability System: Everything on Availability of System](https://dev.to/zeeshanali0704/designing-for-high-availability-1o3)
-- [The All-New display Property.](https://dev.to/manojgohel/the-all-new-display-property-3572)
-- [Post-mortem on the Test of Insanity](https://dev.to/jacklehamster/post-mortem-on-the-test-of-insanity-14a6)
+- [Understanding API Gateway Pricing: Maximizing Features While Minimizing Costs](https://dev.to/getambassador2024/understanding-api-gateway-pricing-maximizing-features-while-minimizing-costs-1lde)
+- [Best Tailwind Extensions for Productivity](https://dev.to/codeparrot/best-tailwind-extensions-for-productivity-58m0)
+- [Introducing DOCSCAN: The Ultimate Global ID Document Scanning API](https://dev.to/vyan/introducing-docscan-the-ultimate-global-id-document-scanning-api-4c7a)
+- [Git Commands for Software Engineers](https://dev.to/bitlearners/git-commands-for-software-engineers-m8k)
+- [Deploying Django website to Vercel](https://dev.to/paul_freeman/deploying-django-website-to-vercel-19ed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
