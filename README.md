@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Image Processing Transforms Industries: 5 Key Use Cases](https://dev.to/api4ai/how-image-processing-transforms-industries-5-key-use-cases-n0a)
-- [Building Batching Notifications Using MongoDB, Django, Celery and Sendgrid](https://dev.to/nikl/building-batching-notifications-using-mongodb-django-celery-and-sendgrid-4n9f)
-- [Jenkins Step-by-Step Guide on Crafting a Continuous Delivery and Deployment Pipeline](https://dev.to/oncloud7/jenkins-step-by-step-guide-on-crafting-a-continuous-delivery-and-deployment-pipeline-3d99)
-- [normal&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/normal-in-pytorch-2jb)
-- [randint&lpar;&rpar; and randperm&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/randint-and-randperm-in-pytorch-8gm)
+- [Introducing Cora: A Powerful File Concatenation Tool for Developers](https://dev.to/shaharia/introducing-cora-a-powerful-file-concatenation-tool-for-developers-p9n)
+- [State Management in React: A Beginner&#39;s Guide](https://dev.to/lovishduggal/state-management-in-react-a-beginners-guide-40mg)
+- [How to Use ServBay to Enable npm](https://dev.to/servbay/how-to-use-servbay-to-enable-npm-2k3l)
+- [Testing models in Flutter](https://dev.to/sazardev/testing-models-in-flutter-4bch)
+- [Authenticating a Spring Boot Application with Active Directory](https://dev.to/alkarid/authenticating-a-spring-boot-application-with-active-directory-5d30)
 <!-- BLOG-POST-LIST:END -->
 
 ---
