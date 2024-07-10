@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Cora: A Powerful File Concatenation Tool for Developers](https://dev.to/shaharia/introducing-cora-a-powerful-file-concatenation-tool-for-developers-p9n)
-- [State Management in React: A Beginner&#39;s Guide](https://dev.to/lovishduggal/state-management-in-react-a-beginners-guide-40mg)
-- [How to Use ServBay to Enable npm](https://dev.to/servbay/how-to-use-servbay-to-enable-npm-2k3l)
-- [Testing models in Flutter](https://dev.to/sazardev/testing-models-in-flutter-4bch)
-- [Authenticating a Spring Boot Application with Active Directory](https://dev.to/alkarid/authenticating-a-spring-boot-application-with-active-directory-5d30)
+- [Is the VCR plugged in? Common Sense Troubleshooting For Web Devs](https://dev.to/cjav_dev/is-the-vcr-plugged-in-common-sense-troubleshooting-for-web-devs-78o)
+- [Understanding Node Affinity in Kubernetes](https://dev.to/jensen1806/understanding-node-affinity-in-kubernetes-3l5j)
+- [Introduction to GCD &lpar;Grand Central Dispatch&rpar;](https://dev.to/vinaykumar0339/introduction-to-gcd-grand-central-dispatch-16b9)
+- [What is Selenium? Why do we use selenium for automation?](https://dev.to/pat28we/what-is-selenium-why-do-we-use-selenium-for-automation-hjn)
+- [Homeowners Find Help, Handymen Find Work: Building HomeSquad](https://dev.to/dawit_yifru_51528038a6adf/homeowners-find-help-handymen-find-work-building-homesquad-30hn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
