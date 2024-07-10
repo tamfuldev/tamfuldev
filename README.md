@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop console.log. Better ways inside.](https://dev.to/opensourcee/stop-consolelog-better-ways-inside-26fp)
-- [Empower Your Role: A Guide for Technologists](https://dev.to/devamplifier/empower-your-role-a-guide-for-technologists-43ll)
-- [Introdução ao ORM do Django: Exercícios Práticos](https://dev.to/gustavogarciapereira/introducao-ao-orm-do-django-exercicios-praticos-38jp)
-- [🧩 100 FREE Frontend Challenges – Sharpen Your Skills!](https://dev.to/adam/100-free-frontend-challenges-sharpen-your-skills-67c)
-- [Understanding the Single Responsibility Principle &lpar;SRP&rpar;](https://dev.to/ravindradevrani/understanding-the-single-responsibility-principle-srp-34gm)
+- [Redux VS Redux Toolkit &amp;&amp; Redux Thunk VS Redux-Saga](https://dev.to/wafa_bergaoui/redux-vs-redux-toolkit-redux-thunk-vs-redux-saga-59cd)
+- [18 Projects Announced as part of XRPL Accelerator First Launch Cohort](https://dev.to/ripplexdev/18-projects-announced-as-part-of-xrpl-accelerator-first-launch-cohort-3eb0)
+- [Share to PWA from mobile](https://dev.to/koffeinfrei/share-to-pwa-from-mobile-302i)
+- [Join Us For The First Community Smart Contract Challenge With $50,000 In Prizes!](https://dev.to/devteam/join-us-for-the-first-community-smart-contract-challenge-with-50000-in-prizes-41gl)
+- [Session Handling with the PRG pattern and Flashing](https://dev.to/ghulam_mujtaba_247/session-handling-with-the-prg-pattern-and-flashing-1jog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
