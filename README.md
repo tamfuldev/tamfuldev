@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Design Patterns - Behavioral - Mediator](https://dev.to/nhannguyendevjs/javascript-design-patterns-behavioral-mediator-52c9)
-- [What Is Java? - Java Programming Language Explained](https://dev.to/thekarlesi/what-is-java-java-programming-language-explained-doc)
-- [JavaScript Performance Optimization: Debounce vs Throttle Explained](https://dev.to/nilebits/javascript-performance-optimization-debounce-vs-throttle-explained-5768)
-- [Which Python framework is used for mobile app development?](https://dev.to/sophiaog/which-python-framework-is-used-for-mobile-app-development-25og)
-- [MartialShop APP](https://dev.to/devhalen/martialshop-app-305f)
+- [picoCTF Mod 26 Write Up](https://dev.to/president-xd/picoctf-mod-26-write-up-pnh)
+- [Drawing animations in ScheduleJS](https://dev.to/lenormor/drawing-animations-in-schedulejs-56fo)
+- [How to Integrate Abstract Email and Phone Validation for Zoho CRM](https://dev.to/jamesellis/how-to-integrate-abstract-email-and-phone-validation-for-zoho-crm-30i2)
+- [Methods to Improve Your UX](https://dev.to/danieldavis/methods-to-improve-your-ux-33l)
+- [How To Deal With Side Effects](https://dev.to/ark7/how-to-deal-with-side-effects-5f22)
 <!-- BLOG-POST-LIST:END -->
 
 ---
