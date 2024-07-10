@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 987 : Side Quest](https://dev.to/dwane/day-987-side-quest-273c)
-- [Forcing Angular SSR to Wait in 2024](https://dev.to/jdgamble555/forcing-angular-ssr-to-wait-in-2024-4lc9)
-- [Framer Motion | Giriş - Part 1](https://dev.to/boraacici/framer-motion-giris-part-1-1a8j)
-- [Welcome Thread - v284](https://dev.to/devteam/welcome-thread-v284-46df)
-- [Creating a Generative AI Chatbot with JavaScript](https://dev.to/rodliraa/creating-a-generative-ai-chatbot-with-javascript-3flk)
+- [Composing JavaScript Decorators](https://dev.to/frehner/composing-javascript-decorators-2o38)
+- [JavaScript Decorators and Auto-Accessors](https://dev.to/frehner/javascript-decorators-and-auto-accessors-437i)
+- [How To Install SQLite On Windows](https://dev.to/kotect/how-to-install-sqlite-on-windows-4b3g)
+- [Regra 1: O mais simples possível, mas não mais simples do que isso](https://dev.to/fernanda_leite_febc2f0459/regra-1-o-mais-simples-possivel-mas-nao-mais-simples-do-que-isso-563p)
+- [Developing Smart Contracts with Truffle and Ganache](https://dev.to/kartikmehta8/developing-smart-contracts-with-truffle-and-ganache-2670)
 <!-- BLOG-POST-LIST:END -->
 
 ---
