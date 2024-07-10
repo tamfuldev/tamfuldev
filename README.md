@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Free and Open-Source Alternatives to TablePlus and DataGrip for Database Management](https://dev.to/sh20raj/free-and-open-source-alternatives-to-tableplus-and-datagrip-for-database-management-1di4)
-- [Summarize Data in Every Two Columns under Each Category](https://dev.to/judith677/summarize-data-in-every-two-columns-under-each-category-12gg)
-- [Group Rows and Concatenate Cell Values](https://dev.to/judith677/group-rows-and-concatenate-cell-values-3oni)
-- [Group Rows and Concatenate Cell Values](https://dev.to/judith677/group-rows-and-concatenate-cell-values-475n)
-- [Coding timelapse Video for landing page](https://dev.to/paul_freeman/coding-timelapse-video-for-landing-page-6lo)
+- [Unlock Your Algorithm Superpowers with this Incredible Course! 🚀](https://dev.to/getvm/unlock-your-algorithm-superpowers-with-this-incredible-course-4a7j)
+- [Abordando grafos através das escalas musicais](https://dev.to/magnojunior07/abordando-grafos-atraves-das-escalas-musicais-1fmj)
+- [Design a High Availability System: Everything on Availability of System](https://dev.to/zeeshanali0704/designing-for-high-availability-1o3)
+- [The All-New display Property.](https://dev.to/manojgohel/the-all-new-display-property-3572)
+- [Post-mortem on the Test of Insanity](https://dev.to/jacklehamster/post-mortem-on-the-test-of-insanity-14a6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
