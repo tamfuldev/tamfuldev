@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Is the VCR plugged in? Common Sense Troubleshooting For Web Devs](https://dev.to/cjav_dev/is-the-vcr-plugged-in-common-sense-troubleshooting-for-web-devs-78o)
-- [Understanding Node Affinity in Kubernetes](https://dev.to/jensen1806/understanding-node-affinity-in-kubernetes-3l5j)
-- [Introduction to GCD &lpar;Grand Central Dispatch&rpar;](https://dev.to/vinaykumar0339/introduction-to-gcd-grand-central-dispatch-16b9)
-- [What is Selenium? Why do we use selenium for automation?](https://dev.to/pat28we/what-is-selenium-why-do-we-use-selenium-for-automation-hjn)
-- [Homeowners Find Help, Handymen Find Work: Building HomeSquad](https://dev.to/dawit_yifru_51528038a6adf/homeowners-find-help-handymen-find-work-building-homesquad-30hn)
+- [Stop console.log. Better ways inside.](https://dev.to/opensourcee/stop-consolelog-better-ways-inside-26fp)
+- [Empower Your Role: A Guide for Technologists](https://dev.to/devamplifier/empower-your-role-a-guide-for-technologists-43ll)
+- [Introdução ao ORM do Django: Exercícios Práticos](https://dev.to/gustavogarciapereira/introducao-ao-orm-do-django-exercicios-praticos-38jp)
+- [🧩 100 FREE Frontend Challenges – Sharpen Your Skills!](https://dev.to/adam/100-free-frontend-challenges-sharpen-your-skills-67c)
+- [Understanding the Single Responsibility Principle &lpar;SRP&rpar;](https://dev.to/ravindradevrani/understanding-the-single-responsibility-principle-srp-34gm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
