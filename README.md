@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Infrastructure Monitoring Can Prevent a Cyber Attack](https://dev.to/ila_bandhiya/how-infrastructure-monitoring-can-prevent-a-cyber-attack-35hl)
-- [Web Application Firewall &lpar;WAF&rpar;: Safeguarding Your Web Applications](https://dev.to/motorbuy6/web-application-firewall-waf-safeguarding-your-web-applications-o35)
-- [How to Improve Your Skills as a Web Developer](https://dev.to/iamnotusama/how-to-improve-your-skills-as-a-web-developer-2382)
-- [Как увеличить конверсию сайта с помощью UX/UI-дизайна](https://dev.to/cosmoweb2024/kak-uvielichit-konviersiiu-saita-s-pomoshchiu-uxui-dizaina-59m8)
-- [Preventing React Crashes: Handling Google Translate](https://dev.to/2rush/preventing-react-crashes-handling-google-translate-5bi0)
+- [JavaScript Design Patterns - Behavioral - Mediator](https://dev.to/nhannguyendevjs/javascript-design-patterns-behavioral-mediator-52c9)
+- [What Is Java? - Java Programming Language Explained](https://dev.to/thekarlesi/what-is-java-java-programming-language-explained-doc)
+- [JavaScript Performance Optimization: Debounce vs Throttle Explained](https://dev.to/nilebits/javascript-performance-optimization-debounce-vs-throttle-explained-5768)
+- [Which Python framework is used for mobile app development?](https://dev.to/sophiaog/which-python-framework-is-used-for-mobile-app-development-25og)
+- [MartialShop APP](https://dev.to/devhalen/martialshop-app-305f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
