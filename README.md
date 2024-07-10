@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [BigQuery Schema Generation Made Easier with PyPI’s bigquery-schema-generator](https://dev.to/noela_tenku/bigquery-schema-generation-made-easier-with-pypis-bigquery-schema-generator-3iej)
-- [Não deveria ser tão simples inserir um bug na sua aplicação e eu te conto o porquê](https://dev.to/ramonborges15/nao-deveria-ser-tao-simples-inserir-um-bug-na-sua-aplicacao-e-eu-te-conto-o-porque-902)
-- [Creating a Simple Generative AI Chatbot with Python and TensorFlow](https://dev.to/csar_fabinchvezlinar/creating-a-simple-generative-ai-chatbot-with-python-and-tensorflow-13mc)
-- [Case Study: Evaluating Expressions](https://dev.to/paulike/case-study-evaluating-expressions-1bgg)
-- [Build Generative AI Chatbot](https://dev.to/jhonnyarm/build-generative-ai-chatbot-4epc)
+- [Day 987 : Side Quest](https://dev.to/dwane/day-987-side-quest-273c)
+- [Forcing Angular SSR to Wait in 2024](https://dev.to/jdgamble555/forcing-angular-ssr-to-wait-in-2024-4lc9)
+- [Framer Motion | Giriş - Part 1](https://dev.to/boraacici/framer-motion-giris-part-1-1a8j)
+- [Welcome Thread - v284](https://dev.to/devteam/welcome-thread-v284-46df)
+- [Creating a Generative AI Chatbot with JavaScript](https://dev.to/rodliraa/creating-a-generative-ai-chatbot-with-javascript-3flk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
