@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The project is almost finished](https://dev.to/ahmedhosssam/the-project-is-almost-finished-1hfb)
-- [Developer Notes: Configure a CI/CD pipeline for your node js project using Azure and Github Actions](https://dev.to/mr_simi_f44c05f5ac7895a4/configure-a-cicd-pipeline-for-your-node-js-project-using-azure-and-github-actions-53lc)
-- [The &quot;prose&quot; class: my content best friend](https://dev.to/karmenatwork/the-prose-class-my-content-best-friend-40l0)
-- [HTML Inline vs. Block Elements](https://dev.to/ridoy_hasan/html-inline-vs-block-elements-4kg7)
-- [Typescript Coding Chronicles: String Compression](https://dev.to/__zamora__/typescript-coding-chronicles-string-compression-42k5)
+- [Angular 18.1: Template Local Variables with @let](https://dev.to/debba/angular-181-template-local-variables-with-let-3mh9)
+- [The Battle of Databases: SQL, PostgreSQL, MongoDB, and Redis Explored](https://dev.to/aquibpy/the-battle-of-databases-sql-postgresql-mongodb-and-redis-explored-jbc)
+- [Phase 3 sql, tuples, and object problems](https://dev.to/daniel_trejo14/phase-3-sql-tuples-and-object-problems-1k8d)
+- [Cities as Codebases](https://dev.to/youssefibrahim/cities-as-codebases-2mj9)
+- [Unlocking Protected PDFs](https://dev.to/dpaluy/unlocking-protected-pdfs-99b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
