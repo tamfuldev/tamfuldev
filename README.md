@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Design Pattern #5 - Adapter Pattern](https://dev.to/superviz/design-pattern-5-adapter-pattern-4gif)
-- [How to Improve Java Application Performance](https://dev.to/renan_almeidasv/how-to-improve-java-application-performance-55if)
-- [How to add hover in markdown](https://dev.to/aryan015/how-to-add-hover-in-markdown-27lm)
-- [Semantic HTML And Accessibility](https://dev.to/james_kiboi_cf745aa43cf22/semantic-html-and-accessibility-2pp7)
-- [Types of casing in programming](https://dev.to/aryan015/types-of-casing-in-programming-2j0d)
+- [The project is almost finished](https://dev.to/ahmedhosssam/the-project-is-almost-finished-1hfb)
+- [Developer Notes: Configure a CI/CD pipeline for your node js project using Azure and Github Actions](https://dev.to/mr_simi_f44c05f5ac7895a4/configure-a-cicd-pipeline-for-your-node-js-project-using-azure-and-github-actions-53lc)
+- [The &quot;prose&quot; class: my content best friend](https://dev.to/karmenatwork/the-prose-class-my-content-best-friend-40l0)
+- [HTML Inline vs. Block Elements](https://dev.to/ridoy_hasan/html-inline-vs-block-elements-4kg7)
+- [Typescript Coding Chronicles: String Compression](https://dev.to/__zamora__/typescript-coding-chronicles-string-compression-42k5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
