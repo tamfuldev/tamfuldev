@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Task Dashboard Tips for Peak Productivity](https://dev.to/bryany/task-dashboard-tips-for-peak-productivity-fjk)
+- [Creating a Generative AI Chatbot with Python and Streamlit](https://dev.to/fiorelamilady/creating-a-generative-ai-chatbot-with-python-and-streamlit-2g3b)
+- [Power of Text Processing and Manipulation Tools in Linux : Day 4 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/power-of-text-processing-and-manipulation-tools-in-linux-day-4-of-50-days-devops-tools-series-522g)
+- [Achieve more with Total.js: introducing Total.js Enterprise](https://dev.to/louis_bertson_1124e9cdc59/achieve-more-with-totaljs-introducing-totaljs-enterprise-1ipc)
 - [The Open/Closed Principle in C# with Filters and Specifications](https://dev.to/moh_moh701/the-openclosed-principle-in-c-with-filters-and-specifications-3dd6)
-- [Are You On The Cloud, In The Cloud or Under The Cloud?](https://dev.to/evretech/are-you-on-the-cloud-in-the-cloud-or-under-the-cloud-1ff1)
-- [Shared Library &lpar;Dynamic linking&rpar; - It&#39;s not about libs](https://dev.to/nivicius/shared-library-dynamic-linking-its-not-about-libs-a9m)
-- [Creating a New Fast Tower Defence](https://dev.to/chigbeef_77/creating-a-new-fast-tower-defence-1j95)
-- [zsh: permission denied: ./gradlew](https://dev.to/deni_sugiarto_1a01ad7c3fb/zsh-permission-denied-gradlew-52dp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
