@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Full Stack Development: AI, Machine Learning, and Beyond](https://dev.to/jhk_info/the-future-of-full-stack-development-ai-machine-learning-and-beyond-2ac2)
-- [Explore how BitPower Loop works](https://dev.to/sang_ce3ded81da27406cb32c/explore-how-bitpower-loop-works-oh2)
-- [Restaurant Landing page](https://dev.to/paul_freeman/restaurant-landing-page-1mkh)
-- [Event storming, and then what?](https://dev.to/maverick198/event-storming-and-then-what-5ajp)
-- [The Top 12 Open-Source No-Code Tools with the Most GitHub Stars](https://dev.to/nocobase/the-top-12-open-source-no-code-tools-with-the-most-github-stars-4aac)
+- [Short-Circuiting Conditions in JavaScript: The Ternary Operator ES6](https://dev.to/fwldom/short-circuiting-conditions-in-javascript-the-ternary-operator-es6-1b12)
+- [Day 6](https://dev.to/myrojyn/day-6-mfe)
+- [Mastering RecyclerView in Java for Android Development](https://dev.to/ankittmeena/mastering-recyclerview-in-java-for-android-development-2f6m)
+- [Meetings vs no meetings team?](https://dev.to/devonremote/meetings-vs-no-meetings-4of6)
+- [Unlocking JavaScript: Innovative Features for Modern Developers](https://dev.to/rn_dev_lalit/unlocking-javascript-innovative-features-for-modern-developers-1h6e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
