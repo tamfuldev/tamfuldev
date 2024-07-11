@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building with and Testing Rapyd&#39;s OpenAPI](https://dev.to/rapyd/building-with-and-testing-rapyds-openapi-17le)
-- [Delete automatic assignment of Public IPv4 addresses to Amazon EC2 instances using the AWS Systems Manager Automation runbook.](https://dev.to/nishikawaakira/delete-automatic-assignment-of-public-ipv4-addresses-to-amazon-ec2-instances-using-the-aws-systems-manager-automation-runbook-15h8)
-- [Unveiling the Power of TCP: Building Apps with Node.js&#39;s net Module](https://dev.to/devstoriesplayground/unveiling-the-power-of-tcp-building-apps-with-nodejss-net-module-2n8c)
-- [Spring MVC Interview Asked Questions](https://dev.to/vampirepapi/spring-mvc-interview-asked-questions-2d15)
-- [Using SQL editor to batch execute SQL files.&lpar;Taking MySQL &amp; SQLynx as examples&rpar;](https://dev.to/senkae_ll/using-sql-editors-to-batch-execute-sql-filestaking-mysql-sqlynx-as-examples-1p59)
+- [Email authentication - Understanding headers](https://dev.to/sweego/email-authentication-understanding-headers-1pn1)
+- [How to digitally sign a job offer letter.](https://dev.to/opensign001/how-to-digitally-sign-a-job-offer-letter-28i6)
+- [Oracle Cloud Financials 24C Release: What’s New?](https://dev.to/johnste39558689/oracle-cloud-financials-24c-release-whats-new-3p1)
+- [Cloud Risk Management Best Practices](https://dev.to/clouddefenseai/cloud-risk-management-best-practices-27ck)
+- [7 practices I learned while developing applications with API Gateway service integrations](https://dev.to/aws-builders/7-practices-i-learned-while-developing-applications-with-api-gateway-service-integrations-3dgg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
