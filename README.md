@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top 3 JavaScript Concepts Every Developer Should Know](https://dev.to/devstoriesplayground/top-3-javascript-concepts-every-developer-should-know-5bjm)
-- [Create File Upload UI in Next.js with Shadcn UI](https://dev.to/aaronnfs/create-file-upload-ui-in-nextjs-with-shadcn-ui-1pja)
-- [Creating Azure Virtual Network with 4 Subnets Using the Address Space 192.148.30.0/26](https://dev.to/laoluafolami/creating-azure-virtual-network-with-4-subnets-using-the-address-space-19214830026-46ii)
-- [Part 3: How to Create a Book App with React.js - A Step-by-Step Tutorial.](https://dev.to/ijay/part-3-how-to-create-a-book-app-with-reactjs-a-step-by-step-tutorial-5ff5)
-- [Dive into the Depths of Deep Learning: Comprehensive Online Tutorials](https://dev.to/getvm/dive-into-the-depths-of-deep-learning-comprehensive-online-tutorials-3e05)
+- [REST vs. GraphQL: Choosing the Right API for Your Project](https://dev.to/wallacefreitas/rest-vs-graphql-choosing-the-right-api-for-your-project-4if9)
+- [HOW TO PUSH CODE FROM A LOCAL REPOSITORY TO A REMOTE REPOSITORY LIKE GITHUB USING GIT BASH](https://dev.to/kellyt/how-to-configure-and-push-a-resume-from-a-local-to-a-remote-repository-like-github-4jaj)
+- [Building an E-commerce Website Using HTML, CSS, and JavaScript](https://dev.to/arishn/building-an-e-commerce-website-using-html-css-and-javascript-2bm4)
+- [Top 10 Popular Terraform Interview Questions](https://dev.to/iarchitsharma/top-10-popular-terraform-interview-questions-4aeg)
+- [Paint by numbers](https://dev.to/myrojyn/paint-by-numbers-43nk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
