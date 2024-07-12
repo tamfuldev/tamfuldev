@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Metrics Are Important](https://dev.to/litlyx-org/why-metrics-are-important-1fbc)
-- [Intersection of AI and Data Privacy](https://dev.to/calsoftinc/intersection-of-ai-and-data-privacy-2d0g)
-- [Agile Methodologies and Best Practices](https://dev.to/sumit_01/agile-methodologies-and-best-practices-34md)
-- [Tutorial and User Experience on Activating Dynamic Protection in Safeline WAF](https://dev.to/aeriewhole123/tutorial-and-user-experience-on-activating-dynamic-protection-in-safeline-waf-39g6)
-- [Becoming a Better Writer](https://dev.to/martinbaun/becoming-a-better-writer-3epg)
+- [LinkedIn AI-Powered Job Hunting Revolutionizes Job Search Experience](https://dev.to/hyscaler/linkedin-ai-powered-job-hunting-revolutionizes-job-search-experience-42p0)
+- [Tech AI Fridays](https://dev.to/techdogs_inc/tech-ai-fridays-475n)
+- [Things to know about WordPress plugins for beginners](https://dev.to/plugin_market/things-to-know-about-wordpress-plugins-for-beginners-fea)
+- [Cypress Test -&#39;Describe&#39; Block and &#39;It&#39; Block](https://dev.to/berylajuoga/cypress-test-describe-block-and-it-block-3hgi)
+- [Dive into Kubernetes: 6 Hands-On Labs to Elevate Your Skills 🚀](https://dev.to/labex/dive-into-kubernetes-6-hands-on-labs-to-elevate-your-skills-1972)
 <!-- BLOG-POST-LIST:END -->
 
 ---
