@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Zplots: Collaborative Maps with Scalable Drawing and Secure Data Storage on Stellar](https://dev.to/hugo_silva_c33f29f9a29ed4/zplot-collaborative-maps-with-scalable-drawing-and-secure-data-storage-on-stellar-3efg)
-- [Embrace Eventual Consistency](https://dev.to/woovi/embrace-eventual-consistency-50f4)
-- [Le saviez vous ? - ?? vs ||](https://dev.to/tontz/le-saviez-vous-vs--3c03)
-- [OpenTofu State File Encryption Overview](https://dev.to/spacelift/opentofu-state-file-encryption-overview-2gk8)
-- [Understand Scoping in JavaScript](https://dev.to/thejoernal/understand-scoping-in-javascript-2o5b)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2gej)
+- [Create and Configure a Virtual Network with Four Subnets](https://dev.to/dera2024/how-to-create-and-configure-a-virtual-network-with-four-subnets-o40)
+- [Importance of HTML Semantics in SEO Optimization and Accessibility Improvements](https://dev.to/sharon_wangui_/importance-of-html-semantics-in-seo-optimization-and-accessibility-improvements-jk9)
+- [Task 3](https://dev.to/tamizh/task-3-56j1)
+- [Styling in React](https://dev.to/imparth/styling-in-react-594n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
