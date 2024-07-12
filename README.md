@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Recursion vs Loop: a low-level analysis](https://dev.to/lucaslealllc/recursion-vs-loop-a-low-level-analysis-4akc)
-- [Optimizing Data Manipulation with JavaScript&#39;s reduce Method](https://dev.to/ayoashy/optimizing-data-manipulation-with-javascripts-reduce-method-e2l)
-- [Implementando Teste Contínuo: Garantindo Qualidade em Cada Commit](https://dev.to/womakerscode/implementando-teste-continuo-garantindo-qualidade-em-cada-commit-3bon)
-- [Day 989 : Glitch](https://dev.to/dwane/day-989-glitch-14f3)
-- [How to build an order monitoring system on your own?](https://dev.to/sqlman/how-to-build-an-order-monitoring-system-on-your-own-3b8)
+- [Demo project](https://dev.to/ozcankara/demo-project-3d4b)
+- [Tutorial: Creación de un Proyecto Vue desde Cero e Integración con Bootstrap](https://dev.to/lesniergonzalez/tutorial-creacion-de-un-proyecto-vue-desde-cero-e-integracion-con-bootstrap-2l3m)
+- [What&#39;s New in API7 Enterprise: IAM for Granular Access Control](https://dev.to/api7/whats-new-in-api7-enterprise-iam-for-granular-access-control-2241)
+- [Meta](https://dev.to/alla_santoshpavankumar_/meta-f0j)
+- [Running Kubernetes locally with Kind and .NET 8 &lpar;plus a bonus with Lens&rpar;](https://dev.to/thomazperes/running-kubernetes-locally-with-kind-and-net-8-plus-a-bonus-with-lens-oi8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
