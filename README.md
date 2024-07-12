@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [New HTML &lt;dialog&gt; tag: An absolute game changer](https://dev.to/safdarali/new-html-tag-an-absolute-game-changer-3mg4)
-- [What is WebRTC protocol?](https://dev.to/alakkadshaw/what-is-webrtc-protocol-3jd5)
-- [The Ongoing War Between CJS &amp; ESM: A Tale of Two Module Systems](https://dev.to/greenteaisgreat/the-ongoing-war-between-cjs-esm-a-tale-of-two-module-systems-1jdg)
-- [Want to get started as a Data Engineer](https://dev.to/johnscode/want-to-get-started-as-a-data-engineer-1amn)
-- [Running Tests in GitLab CI: From Zero to Pipeline](https://dev.to/thiagoematos/running-tests-in-gitlab-ci-from-zero-to-pipeline-5ece)
+- [Recursion vs Loop: a low-level analysis](https://dev.to/lucaslealllc/recursion-vs-loop-a-low-level-analysis-4akc)
+- [Optimizing Data Manipulation with JavaScript&#39;s reduce Method](https://dev.to/ayoashy/optimizing-data-manipulation-with-javascripts-reduce-method-e2l)
+- [Implementando Teste Contínuo: Garantindo Qualidade em Cada Commit](https://dev.to/womakerscode/implementando-teste-continuo-garantindo-qualidade-em-cada-commit-3bon)
+- [Day 989 : Glitch](https://dev.to/dwane/day-989-glitch-14f3)
+- [How to build an order monitoring system on your own?](https://dev.to/sqlman/how-to-build-an-order-monitoring-system-on-your-own-3b8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
