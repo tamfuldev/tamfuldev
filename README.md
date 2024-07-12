@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [LinkedIn AI-Powered Job Hunting Revolutionizes Job Search Experience](https://dev.to/hyscaler/linkedin-ai-powered-job-hunting-revolutionizes-job-search-experience-42p0)
-- [Tech AI Fridays](https://dev.to/techdogs_inc/tech-ai-fridays-475n)
-- [Things to know about WordPress plugins for beginners](https://dev.to/plugin_market/things-to-know-about-wordpress-plugins-for-beginners-fea)
-- [Cypress Test -&#39;Describe&#39; Block and &#39;It&#39; Block](https://dev.to/berylajuoga/cypress-test-describe-block-and-it-block-3hgi)
-- [Dive into Kubernetes: 6 Hands-On Labs to Elevate Your Skills 🚀](https://dev.to/labex/dive-into-kubernetes-6-hands-on-labs-to-elevate-your-skills-1972)
+- [Zplots: Collaborative Maps with Scalable Drawing and Secure Data Storage on Stellar](https://dev.to/hugo_silva_c33f29f9a29ed4/zplot-collaborative-maps-with-scalable-drawing-and-secure-data-storage-on-stellar-3efg)
+- [Embrace Eventual Consistency](https://dev.to/woovi/embrace-eventual-consistency-50f4)
+- [Le saviez vous ? - ?? vs ||](https://dev.to/tontz/le-saviez-vous-vs--3c03)
+- [OpenTofu State File Encryption Overview](https://dev.to/spacelift/opentofu-state-file-encryption-overview-2gk8)
+- [Understand Scoping in JavaScript](https://dev.to/thejoernal/understand-scoping-in-javascript-2o5b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
