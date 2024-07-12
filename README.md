@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [REST vs. GraphQL: Choosing the Right API for Your Project](https://dev.to/wallacefreitas/rest-vs-graphql-choosing-the-right-api-for-your-project-4if9)
-- [HOW TO PUSH CODE FROM A LOCAL REPOSITORY TO A REMOTE REPOSITORY LIKE GITHUB USING GIT BASH](https://dev.to/kellyt/how-to-configure-and-push-a-resume-from-a-local-to-a-remote-repository-like-github-4jaj)
-- [Building an E-commerce Website Using HTML, CSS, and JavaScript](https://dev.to/arishn/building-an-e-commerce-website-using-html-css-and-javascript-2bm4)
-- [Top 10 Popular Terraform Interview Questions](https://dev.to/iarchitsharma/top-10-popular-terraform-interview-questions-4aeg)
-- [Paint by numbers](https://dev.to/myrojyn/paint-by-numbers-43nk)
+- [Mastering React Component Exports: A Comprehensive Guide for Developers](https://dev.to/ayon_ssp/mastering-react-component-exports-a-comprehensive-guide-for-developers-2553)
+- [HOW TO CREATE A VIRTUAL NETWORK WITH FOUR SUBNETS](https://dev.to/phillip_ajifowobaje_68724/how-to-create-a-virtual-network-with-four-subnets-2ph6)
+- [Por que Python é amplamente utilizado em projetos de Inteligência Artificial?](https://dev.to/programadriano/por-que-python-e-amplamente-utilizado-em-projetos-de-inteligencia-artificial-3nob)
+- [Recommended Course: Unsupervised Learning: Clustering](https://dev.to/labex/recommended-course-unsupervised-learning-clustering-2m99)
+- [Grafana OTEL App Observability Demo](https://dev.to/networkandcode/grafana-otel-app-observability-demo-552j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
