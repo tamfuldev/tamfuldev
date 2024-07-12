@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript30 - 8 Fun With HTML5 Canvas](https://dev.to/virtualsobriety/javascript30-8-fun-with-html5-canvas-4pg3)
-- [Simplify Your OTP Inputs with OTP Designer jQuery! 🎉✨](https://dev.to/hichemtab-tech/simplify-your-otp-inputs-with-otp-designer-jquery-3i1g)
-- [My Pen on CodePen](https://dev.to/tom_ford_6543e5db41fdbb68/my-pen-on-codepen-5eh9)
-- [Compreendendo o SAMM](https://dev.to/brmartin/compreendendo-o-samm-2ccm)
-- [Stop Phishing by Analyzing the Bait](https://dev.to/rebeccapeltz/stop-phishing-by-analyzing-the-bait-3f0f)
+- [Day 990 : Opportunity Knocks](https://dev.to/dwane/day-990-opportunity-knocks-59h2)
+- [Trending in Web Development in 2024](https://dev.to/byteom/trending-in-web-development-in-2024-5dj6)
+- [Tech Essentials Every CSE Student Should Know and Why They Matter](https://dev.to/byteom/tech-essentials-every-cse-student-should-know-and-why-they-matter-9pe)
+- [How to deploy refactored mainframe applications on AWS](https://dev.to/aws-builders/how-to-deploy-refactored-mainframe-applications-on-aws-5a6m)
+- [Mastering @Observable: Introduction to Swift Observation](https://dev.to/andy_kolean/mastering-observable-introduction-to-swift-observation-268)
 <!-- BLOG-POST-LIST:END -->
 
 ---
