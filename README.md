@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Object-Based UI State Management vs. JavaScript Proxy-Based UI State Management](https://dev.to/guhandelta/object-based-ui-state-management-vs-javascript-proxy-based-ui-state-management-58bk)
+- [Looking for Full-stack Devs for XDR cybersecurity platform](https://dev.to/michael_mcmillan_18baaee6/looking-for-full-stack-devs-for-xdr-cybersecurity-platform-5912)
+- [Button Morph Animation](https://dev.to/tom_ford_6543e5db41fdbb68/button-morph-animation-2gjk)
+- [Turn the Table](https://dev.to/tom_ford_6543e5db41fdbb68/turn-the-table-pc4)
 - [Key Skills for Tech Freelancers](https://dev.to/baaraku/key-skills-for-tech-freelancers-3ooe)
-- [Optimizing Performance in React Applications](https://dev.to/khalidkhankakar/optimizing-performance-in-react-applications-59k0)
-- [[Book Review] Beej&#39;s Guide to Network Programming](https://dev.to/uponthesky/book-review-beejs-guide-to-network-programming-9mg)
-- [Você sabe o que seria um modelo de IA?](https://dev.to/programadriano/voce-sabe-o-que-seria-um-modelo-de-ia-281)
-- [Why I made TabbyAPI](https://dev.to/kingbri/why-i-made-tabbyapi-385f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
