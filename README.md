@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Key Skills for Tech Freelancers](https://dev.to/baaraku/key-skills-for-tech-freelancers-3ooe)
+- [Optimizing Performance in React Applications](https://dev.to/khalidkhankakar/optimizing-performance-in-react-applications-59k0)
 - [[Book Review] Beej&#39;s Guide to Network Programming](https://dev.to/uponthesky/book-review-beejs-guide-to-network-programming-9mg)
-- [Merge 2 sorted lists](https://dev.to/johnscode/merge-2-sorted-lists-22m)
-- [How To Provision And Deploy Virtual Network On Azure Portal](https://dev.to/romanus_onyekwere/how-to-provision-and-deploy-virtual-network-on-azure-portal-5129)
-- [Mastering Python&#39;s itertools Module](https://dev.to/kartikmehta8/mastering-pythons-itertools-module-4h7m)
-- [ShopEase](https://dev.to/sweta_kangurisonulkar_/shopease-21ii)
+- [Você sabe o que seria um modelo de IA?](https://dev.to/programadriano/voce-sabe-o-que-seria-um-modelo-de-ia-281)
+- [Why I made TabbyAPI](https://dev.to/kingbri/why-i-made-tabbyapi-385f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
