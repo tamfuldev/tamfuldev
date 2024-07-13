@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Next.js Starter: Kickstart Your Next.js Project with Ease](https://dev.to/imevanc/nextjs-starter-kickstart-your-nextjs-project-with-ease-449b)
-- [BUTLER MACHINE EXPLOIT WALKTHROUGH](https://dev.to/babsarena/butler-machine-exploit-walkthrough-5cfb)
-- [SECURING NETWORK TRAFFIC USING NETWORK SECURITY GROUP](https://dev.to/aizeon/securing-network-traffic-using-network-security-group-44k5)
-- [CREATING MULTIPLE VIRTUAL MACHINES ON A SINGLE VIRTUAL NETWORK](https://dev.to/aizeon/creating-multiple-virtual-machines-on-a-single-virtual-network-1ihd)
-- [react-three-fiber - useLookAtSmooth - smooth camera.lookAt with speed](https://dev.to/khaledsworld/react-three-fiber-uselookatsmooth-smooth-cameralookat-with-speed-1igl)
+- [[Book Review] Beej&#39;s Guide to Network Programming](https://dev.to/uponthesky/book-review-beejs-guide-to-network-programming-9mg)
+- [Merge 2 sorted lists](https://dev.to/johnscode/merge-2-sorted-lists-22m)
+- [How To Provision And Deploy Virtual Network On Azure Portal](https://dev.to/romanus_onyekwere/how-to-provision-and-deploy-virtual-network-on-azure-portal-5129)
+- [Mastering Python&#39;s itertools Module](https://dev.to/kartikmehta8/mastering-pythons-itertools-module-4h7m)
+- [ShopEase](https://dev.to/sweta_kangurisonulkar_/shopease-21ii)
 <!-- BLOG-POST-LIST:END -->
 
 ---
