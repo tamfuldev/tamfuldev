@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 990 : Opportunity Knocks](https://dev.to/dwane/day-990-opportunity-knocks-59h2)
-- [Trending in Web Development in 2024](https://dev.to/byteom/trending-in-web-development-in-2024-5dj6)
-- [Tech Essentials Every CSE Student Should Know and Why They Matter](https://dev.to/byteom/tech-essentials-every-cse-student-should-know-and-why-they-matter-9pe)
-- [How to deploy refactored mainframe applications on AWS](https://dev.to/aws-builders/how-to-deploy-refactored-mainframe-applications-on-aws-5a6m)
-- [Mastering @Observable: Introduction to Swift Observation](https://dev.to/andy_kolean/mastering-observable-introduction-to-swift-observation-268)
+- [🚀 Next.js Starter: Kickstart Your Next.js Project with Ease](https://dev.to/imevanc/nextjs-starter-kickstart-your-nextjs-project-with-ease-449b)
+- [BUTLER MACHINE EXPLOIT WALKTHROUGH](https://dev.to/babsarena/butler-machine-exploit-walkthrough-5cfb)
+- [SECURING NETWORK TRAFFIC USING NETWORK SECURITY GROUP](https://dev.to/aizeon/securing-network-traffic-using-network-security-group-44k5)
+- [CREATING MULTIPLE VIRTUAL MACHINES ON A SINGLE VIRTUAL NETWORK](https://dev.to/aizeon/creating-multiple-virtual-machines-on-a-single-virtual-network-1ihd)
+- [react-three-fiber - useLookAtSmooth - smooth camera.lookAt with speed](https://dev.to/khaledsworld/react-three-fiber-uselookatsmooth-smooth-cameralookat-with-speed-1igl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
