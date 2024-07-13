@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Front-End Development Tools Installation and Configuration &lpar;Mac&rpar;](https://dev.to/lunamiller/front-end-development-tools-installation-and-configuration-mac-5hbe)
-- [7 New JavaScript Set Methods](https://dev.to/zacharylee/7-new-javascript-set-methods-4737)
-- [Resolving Module Version Chaos: Locking Down Dependencies in Python Projects with Poetry](https://dev.to/ma7dev/resolving-module-version-chaos-locking-down-dependencies-in-python-projects-with-poetry-4mlf)
-- [Case Study: Counting Keywords](https://dev.to/paulike/case-study-counting-keywords-4kfa)
-- [Comparing the Performance of Sets and Lists](https://dev.to/paulike/comparing-the-performance-of-sets-and-lists-3di7)
+- [Undress AI Tool: An Advanced Guide for Professional Photographers](https://dev.to/gogato2980/undress-ai-tool-an-advanced-guide-for-professional-photographers-2bpo)
+- [Cryptomator: end-to-end encrypt files in any cloud](https://dev.to/andreagrandi/cryptomator-end-to-end-encrypt-files-in-any-cloud-54kc)
+- [Extending Prisma ORM with Custom Middleware: Logging, Validation, and Security](https://dev.to/emal_isuranga_2d9d79931d7/extending-prisma-orm-with-custom-middleware-logging-validation-and-security-29cc)
+- [self vs Self in Swift Programming](https://dev.to/vinaykumar0339/self-vs-self-in-swift-programming-fhg)
+- [Automating Task Organization with the openai-dotnet Library](https://dev.to/alisson_podgurski/automating-task-organization-with-the-openai-dotnet-library-566c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
