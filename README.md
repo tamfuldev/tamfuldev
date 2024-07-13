@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Object-Based UI State Management vs. JavaScript Proxy-Based UI State Management](https://dev.to/guhandelta/object-based-ui-state-management-vs-javascript-proxy-based-ui-state-management-58bk)
-- [Looking for Full-stack Devs for XDR cybersecurity platform](https://dev.to/michael_mcmillan_18baaee6/looking-for-full-stack-devs-for-xdr-cybersecurity-platform-5912)
-- [Button Morph Animation](https://dev.to/tom_ford_6543e5db41fdbb68/button-morph-animation-2gjk)
-- [Turn the Table](https://dev.to/tom_ford_6543e5db41fdbb68/turn-the-table-pc4)
-- [Key Skills for Tech Freelancers](https://dev.to/baaraku/key-skills-for-tech-freelancers-3ooe)
+- [Oops at 28 Jun 2024](https://dev.to/teminian/oops-at-28-jun-2024-ead)
+- [You&#39;re facing conflicts with your boss. How can you resolve them without harming your relationship?](https://dev.to/gourav_sharma_00/youre-facing-conflicts-with-your-boss-how-can-you-resolve-them-without-harming-your-relationship-4bnc)
+- [How to Create and Publish a WordPress Plugin](https://dev.to/sh20raj/how-to-create-and-publish-a-wordpress-plugin-3bbi)
+- [Array Without Last Element | Programming Tutorials | Lab](https://dev.to/labex/array-without-last-element-programming-tutorials-lab-29d0)
+- [Python : Intro](https://dev.to/jokergosha/python-intro-3njm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
