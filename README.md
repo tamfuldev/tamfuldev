@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Remove Nth from end of linked list](https://dev.to/johnscode/remove-nth-from-end-of-linked-list-54bf)
-- [Comandos Avanzados](https://dev.to/miltondiazco/comandos-avanzados-3a10)
-- [Comandos de Red](https://dev.to/miltondiazco/comandos-de-red-560)
-- [Comandos de Fecha](https://dev.to/miltondiazco/comandos-de-fecha-306e)
-- [Comandos para Manipular Archivos y Directorios](https://dev.to/miltondiazco/cmd-comandos-para-manipular-archivos-y-directorios-5g0)
+- [Is Transitioning from React.js to React Native as Easy as It Seems? 🚀📱](https://dev.to/sh20raj/is-transitioning-from-reactjs-to-react-native-as-easy-as-it-seems-3emj)
+- [Founders Academy Day 1](https://dev.to/theholyspirit/founders-academy-day-1-pa4)
+- [Setting up a full-stack MERN &lpar;MongoDB, Express, React, Node.js&rpar; app for deployment on Vercel.](https://dev.to/matrix24483/setting-up-a-full-stack-mern-mongodb-express-react-nodejs-app-for-deployment-on-vercel-2mpp)
+- [The Complete Guide to CSS object-fit Property](https://dev.to/moondaeseung/the-complete-guide-to-css-object-fit-property-3apa)
+- [Founders Academy Workbook](https://dev.to/theholyspirit/founders-academy-workbook-3370)
 <!-- BLOG-POST-LIST:END -->
 
 ---
