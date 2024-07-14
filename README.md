@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [OTA updates in React Native](https://dev.to/ponikar/ota-updates-in-react-native-1pbo)
-- [✨Top 9 Open-Source Hidden Gems🤯](https://dev.to/dev_kiran/top-9-open-source-hidden-gems-56d9)
-- [My three epiphanies of TDD](https://dev.to/stroiman/my-three-epiphanies-of-tdd-1070)
-- [Mastering Attribute Directives in Angular: An In-Depth Guide](https://dev.to/itsshaikhaj/mastering-attribute-directives-in-angular-an-in-depth-guide-3ic)
-- [Java 8 features](https://dev.to/prashantrmishra/java-8-features-2c01)
+- [Use Server Side Forms in NextJS](https://dev.to/jawadulhassan/use-server-side-forms-in-nextjs-1j31)
+- [Essential modules for developing applications with FastAPI &lpar;P1 - Migration&rpar;](https://dev.to/pham_bach_7cded53e4c5439e/essential-modules-for-developing-applications-with-fastapi-4hkm)
+- [Day 25 Task: Complete Jenkins CI/CD Project - Continued with Documentation](https://dev.to/oncloud7/day-25-task-complete-jenkins-cicd-project-continued-with-documentation-2p5a)
+- [REPL in Nestjs](https://dev.to/rubiin/repl-in-nestjs-32ph)
+- [Understanding Convolutional Neural Networks: A Deep Dive](https://dev.to/monish3004/understanding-convolutional-neural-networks-a-deep-dive-3pkg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
