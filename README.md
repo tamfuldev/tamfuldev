@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Smooth Transitioning Dialog Component in React &lpar;Part 1/4&rpar;](https://dev.to/copet80/creating-a-smooth-transitioning-dialog-component-in-react-part-14-7nd)
-- [My Experience Learning TypeScript](https://dev.to/bridget_amana/my-experience-learning-typescript-1jn0)
-- [Decolonize The Internet](https://dev.to/mosbat/decolonize-the-internet-1mf)
-- [Mobile Compatibility Testing: A Comprehensive Guide](https://dev.to/jamescantor38/mobile-compatibility-testing-a-comprehensive-guide-54d7)
-- [การแก้ไขปัญหา: ฐานข้อมูลถูกใช้งานโดยผู้ใช้อื่น](https://dev.to/everthing-was-postgres/kaaraekaikhpayhaa-thaankhmuulthuukaichngaanodyphuuaichuuen-4gi6)
+- [Filament WhatsApp Notifications](https://dev.to/megoxv/filament-whatsapp-notifications-2k43)
+- [BitPower Security](https://dev.to/_d098065643d164867d59ab/bitpower-security-8o5)
+- [How to Send WhatsApp Notifications in Laravel 11](https://dev.to/megoxv/how-to-send-whatsapp-notifications-in-laravel-11-520m)
+- [IS WEB DEV HARD ? 🙃](https://dev.to/mince/is-web-dev-hard--3add)
+- [Event Delegation vs Event Propagation in JavaScript](https://dev.to/mdhassanpatwary/event-delegation-vs-event-propagation-in-javascript-m9n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
