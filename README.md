@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Elevate Your eCommerce Experience: Discover VeloShop an Innovative Wix-Powered Platform!](https://dev.to/dailydev/elevate-your-ecommerce-experience-discover-veloshop-an-innovative-wix-powered-platform-4jf5)
-- [Manage Telegram Webhooks Using curl](https://dev.to/sh20raj/manage-telegram-webhooks-using-curl-5391)
-- [[DAY 72–74] I built a calculator using React](https://dev.to/thomascansino/day-72-74-i-built-a-calculator-using-react-38i5)
-- [I made a Infinite Tic Tac Toe , and its amazin....](https://dev.to/rudransh61/i-made-a-infinite-tic-tac-toe-and-its-amazin-56jh)
-- [Seeking Feedback on My Portfolio Site](https://dev.to/carter_22cea9c0d8b4a4ba7f/seeking-feedback-on-my-portfolio-site-299l)
+- [OTA updates in React Native](https://dev.to/ponikar/ota-updates-in-react-native-1pbo)
+- [✨Top 9 Open-Source Hidden Gems🤯](https://dev.to/dev_kiran/top-9-open-source-hidden-gems-56d9)
+- [My three epiphanies of TDD](https://dev.to/stroiman/my-three-epiphanies-of-tdd-1070)
+- [Mastering Attribute Directives in Angular: An In-Depth Guide](https://dev.to/itsshaikhaj/mastering-attribute-directives-in-angular-an-in-depth-guide-3ic)
+- [Java 8 features](https://dev.to/prashantrmishra/java-8-features-2c01)
 <!-- BLOG-POST-LIST:END -->
 
 ---
