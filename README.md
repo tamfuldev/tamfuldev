@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Demoscene Competition in 1024 Bytes of JavaScript - JS1024 2024 Edition](https://dev.to/js1024fun/demoscene-competition-in-1024-bytes-of-javascript-js1024-2024-edition-52im)
-- [React 19 updates you should know](https://dev.to/dwale/react-19-updates-you-should-know-2abl)
-- [Mastering Advanced Routing Techniques in Load Balancing](https://dev.to/sabaamanat/mastering-advanced-routing-techniques-in-load-balancing-189e)
-- [React Native Skia lib](https://dev.to/sworzen1/react-native-skia-lib-5d38)
-- [Integrating Stripe into Your Nest.js Application](https://dev.to/amenibensaada/integrating-stripe-into-your-nestjs-application-nf7)
+- [Mood Commerce: Personalized Fashion Discovery with AI-Powered Shopping](https://dev.to/asyncerror/mood-commerce-personalized-fashion-discovery-with-ai-powered-shopping-1ig6)
+- [Mastering Responsive Layouts: Achieving Complex Designs with CSS Grid](https://dev.to/jangya/mastering-responsive-layouts-achieving-complex-designs-with-css-grid-5b1p)
+- [Join These 6 Must-Join Discord Servers for ML Enthusiasts! 🚀](https://dev.to/ma7dev/join-these-6-must-join-discord-servers-for-ml-enthusiasts-1him)
+- [Follow my squad for DevX](https://dev.to/shubhsk/follow-my-squad-for-devx-3310)
+- [Securing Data at Rest: The Importance of Encryption and How to Implement It](https://dev.to/iamsherif/securing-data-at-rest-the-importance-of-encryption-and-how-to-implement-it-81a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
