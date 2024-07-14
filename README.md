@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Is Transitioning from React.js to React Native as Easy as It Seems? 🚀📱](https://dev.to/sh20raj/is-transitioning-from-reactjs-to-react-native-as-easy-as-it-seems-3emj)
-- [Founders Academy Day 1](https://dev.to/theholyspirit/founders-academy-day-1-pa4)
-- [Setting up a full-stack MERN &lpar;MongoDB, Express, React, Node.js&rpar; app for deployment on Vercel.](https://dev.to/matrix24483/setting-up-a-full-stack-mern-mongodb-express-react-nodejs-app-for-deployment-on-vercel-2mpp)
-- [The Complete Guide to CSS object-fit Property](https://dev.to/moondaeseung/the-complete-guide-to-css-object-fit-property-3apa)
-- [Founders Academy Workbook](https://dev.to/theholyspirit/founders-academy-workbook-3370)
+- [Detecting Browser DevTools: A Guide to `devtools-detect`](https://dev.to/sh20raj/detecting-browser-devtools-a-guide-to-devtools-detect-4kgd)
+- [Understanding Cohesion](https://dev.to/waqas334/understanding-cohesion-h9o)
+- [A little about promises in Javascript](https://dev.to/joaoreider/a-little-about-promises-in-javascript-4oh7)
+- [Find something worth solving, not what you can solve.](https://dev.to/waqas334/find-something-worth-solving-not-what-you-can-solve-52ln)
+- [Simplest Chrome Extension Tutorial for 2024 Using Manifest V3](https://dev.to/azadshukor/simplest-chrome-extension-tutorial-for-2024-using-manifest-v3-h3m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
