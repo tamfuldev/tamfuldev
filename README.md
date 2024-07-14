@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Guide to Node.js in 2024: Trends, Tools, and Best Practices](https://dev.to/matin_mollapur/the-ultimate-guide-to-nodejs-in-2024-trends-tools-and-best-practices-279n)
-- [Trendy Treasure Wix studio ecommerce](https://dev.to/chintanonweb/trendy-treasure-wix-studio-ecommerce-28gh)
-- [First Step](https://dev.to/iarc13/first-step-ggb)
-- [float_power&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/floatpower-in-pytorch-3696)
-- [square&lpar;&rpar; and pow&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/square-and-pow-in-pytorch-541m)
+- [add&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/add-in-pytorch-1g0d)
+- [Send Web Push messages with Deno](https://dev.to/negrel/send-web-push-messages-with-deno-1kcl)
+- [Objects and more objects](https://dev.to/codecara/objects-and-more-objects-168j)
+- [3D Circuit Board](https://dev.to/dan52242644dan/3d-circuit-board-2f5p)
+- [Quick Tip: Setup a local MySQL in a docker container](https://dev.to/ninjasoards/quick-tip-setup-a-local-mysql-in-a-docker-container-4mel)
 <!-- BLOG-POST-LIST:END -->
 
 ---
