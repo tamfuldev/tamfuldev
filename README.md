@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [add&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/add-in-pytorch-1g0d)
-- [Send Web Push messages with Deno](https://dev.to/negrel/send-web-push-messages-with-deno-1kcl)
-- [Objects and more objects](https://dev.to/codecara/objects-and-more-objects-168j)
-- [3D Circuit Board](https://dev.to/dan52242644dan/3d-circuit-board-2f5p)
-- [Quick Tip: Setup a local MySQL in a docker container](https://dev.to/ninjasoards/quick-tip-setup-a-local-mysql-in-a-docker-container-4mel)
+- [How to upload Project on GitHub: A Step-by-Step Guide](https://dev.to/johnmaths9/how-to-upload-project-on-github-a-step-by-step-guide-14dp)
+- [Host your own PaaS &lpar;platform as a service&rpar; on Amazon Web Services](https://dev.to/jamesmurdza/host-your-own-paas-platform-as-a-service-on-amazon-web-services-3f0d)
+- [📦 &quot;OaaS&quot; : A short intro to &quot;Operations as a Service&quot; &amp; its tremendous benefits](https://dev.to/adriens/oaas-a-short-intro-to-operations-as-a-service-its-tremendous-benefits-3h99)
+- [Cloud Buzzwords every Software Engineer needs to know](https://dev.to/alexindevs/cloud-buzzwords-every-software-engineer-needs-to-know-57k0)
+- [Improve Productivity with CMake and Compiler Cache Integration](https://dev.to/maxim_radugin/improve-productivity-with-cmake-and-compiler-cache-integration-36p0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
