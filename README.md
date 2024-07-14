@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Use Server Side Forms in NextJS](https://dev.to/jawadulhassan/use-server-side-forms-in-nextjs-1j31)
-- [Essential modules for developing applications with FastAPI &lpar;P1 - Migration&rpar;](https://dev.to/pham_bach_7cded53e4c5439e/essential-modules-for-developing-applications-with-fastapi-4hkm)
-- [Day 25 Task: Complete Jenkins CI/CD Project - Continued with Documentation](https://dev.to/oncloud7/day-25-task-complete-jenkins-cicd-project-continued-with-documentation-2p5a)
-- [REPL in Nestjs](https://dev.to/rubiin/repl-in-nestjs-32ph)
-- [Understanding Convolutional Neural Networks: A Deep Dive](https://dev.to/monish3004/understanding-convolutional-neural-networks-a-deep-dive-3pkg)
+- [Demoscene Competition in 1024 Bytes of JavaScript - JS1024 2024 Edition](https://dev.to/js1024fun/demoscene-competition-in-1024-bytes-of-javascript-js1024-2024-edition-52im)
+- [React 19 updates you should know](https://dev.to/dwale/react-19-updates-you-should-know-2abl)
+- [Mastering Advanced Routing Techniques in Load Balancing](https://dev.to/sabaamanat/mastering-advanced-routing-techniques-in-load-balancing-189e)
+- [React Native Skia lib](https://dev.to/sworzen1/react-native-skia-lib-5d38)
+- [Integrating Stripe into Your Nest.js Application](https://dev.to/amenibensaada/integrating-stripe-into-your-nestjs-application-nf7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
