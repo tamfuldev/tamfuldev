@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to upload Project on GitHub: A Step-by-Step Guide](https://dev.to/johnmaths9/how-to-upload-project-on-github-a-step-by-step-guide-14dp)
-- [Host your own PaaS &lpar;platform as a service&rpar; on Amazon Web Services](https://dev.to/jamesmurdza/host-your-own-paas-platform-as-a-service-on-amazon-web-services-3f0d)
-- [📦 &quot;OaaS&quot; : A short intro to &quot;Operations as a Service&quot; &amp; its tremendous benefits](https://dev.to/adriens/oaas-a-short-intro-to-operations-as-a-service-its-tremendous-benefits-3h99)
-- [Cloud Buzzwords every Software Engineer needs to know](https://dev.to/alexindevs/cloud-buzzwords-every-software-engineer-needs-to-know-57k0)
-- [Improve Productivity with CMake and Compiler Cache Integration](https://dev.to/maxim_radugin/improve-productivity-with-cmake-and-compiler-cache-integration-36p0)
+- [Ready for the iPhone 16?](https://dev.to/anshsaini/ready-for-the-iphone-16-4eah)
+- [GSoC Midterm Evaluation](https://dev.to/chiemezuo/gsoc-midterm-evaluation-3i5o)
+- [Aggregation in GROUP BY vs. Window Functions Using OVER&lpar;&rpar;](https://dev.to/felipe_de_godoy/aggregation-in-group-by-vs-window-functions-using-over-32ap)
+- [I have the best game idea and concept](https://dev.to/rico_valentine/i-have-the-best-game-idea-and-concept-o4i)
+- [How To Create Storage Account In Azure Portal](https://dev.to/romanus_onyekwere/how-to-create-storage-account-in-azure-portal-4dj9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
