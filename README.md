@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What is `foo` `bar` REALLY?](https://dev.to/opensourcee/what-is-foo-bar-really-4n8g)
-- [Kubernetes in Action: Architecture, Features and Free Resources](https://dev.to/subodh_bagde/kubernetes-in-action-architecture-features-and-free-resources-d52)
-- [Building UIs with Franken UI, a Shadcn alternative](https://dev.to/logrocket/building-uis-with-franken-ui-a-shadcn-alternative-2jml)
-- [diagflat&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/diagflat-in-pytorch-2fl0)
-- [Unleash Your Algorithmic Prowess: Explore the Best Free Programming Resources 🔍](https://dev.to/getvm/unleash-your-algorithmic-prowess-explore-the-best-free-programming-resources-fa9)
+- [Asynchronous JavaScript: The TL;DR Version You&#39;ll Always Recall](https://dev.to/adityabhattad/asynchronous-javascript-a-comprehensive-guide-hkf)
+- [Python : Simple Calculator](https://dev.to/rajkannan_rajagopal/python-simple-calculator-29jf)
+- [What are your goals for week 29 of 2024?](https://dev.to/jarvisscript/what-are-your-goals-for-week-29-of-2024-48bp)
+- [Taming the Wild West: Data Preprocessing for Machine Learning Success](https://dev.to/abhinav_yadav_554cab962bb/taming-the-wild-west-data-preprocessing-for-machine-learning-success-31k3)
+- [Guide to Internationalisation &lpar;i18n&rpar; in Next.js with Routing](https://dev.to/adrianbailador/guide-to-internationalisation-i18n-in-nextjs-with-routing-3kje)
 <!-- BLOG-POST-LIST:END -->
 
 ---
