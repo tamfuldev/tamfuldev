@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Asynchronous JavaScript: The TL;DR Version You&#39;ll Always Recall](https://dev.to/adityabhattad/asynchronous-javascript-a-comprehensive-guide-hkf)
-- [Python : Simple Calculator](https://dev.to/rajkannan_rajagopal/python-simple-calculator-29jf)
-- [What are your goals for week 29 of 2024?](https://dev.to/jarvisscript/what-are-your-goals-for-week-29-of-2024-48bp)
-- [Taming the Wild West: Data Preprocessing for Machine Learning Success](https://dev.to/abhinav_yadav_554cab962bb/taming-the-wild-west-data-preprocessing-for-machine-learning-success-31k3)
-- [Guide to Internationalisation &lpar;i18n&rpar; in Next.js with Routing](https://dev.to/adrianbailador/guide-to-internationalisation-i18n-in-nextjs-with-routing-3kje)
+- [Tracking User Account Changes in Real-Time: A Debezium and ClickHouse Implementation](https://dev.to/ranjbaryshahab/tracking-user-account-changes-in-real-time-a-debezium-and-clickhouse-implementation-350)
+- [Mastering Classes and Objects in Programming: A Comprehensive Guide](https://dev.to/shubham_kolkar/mastering-classes-and-objects-in-programming-a-comprehensive-guide-4j12)
+- [40 Days Of Kubernetes &lpar;14/40&rpar;](https://dev.to/sina14/40-days-of-kubernetes-1440-m3a)
+- [Recommended Project: Searching for Specific Files](https://dev.to/labex/recommended-project-searching-for-specific-files-5cmc)
+- [Integrating the ruff language server](https://dev.to/jackhodkinson/integrating-the-ruff-language-server-13pa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
