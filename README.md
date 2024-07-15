@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Exploiting Smart Contracts - Strict Equality](https://dev.to/passandscore/exploiting-smart-contracts-strict-equality-12oj)
-- [Developing Efficient Algorithms - Measuring Algorithm Efficiency Using Big O Notation](https://dev.to/paulike/developing-efficient-algorithms-measuring-algorithm-efficiency-using-big-o-notation-1c1h)
-- [CAPTCHA: Security Theater or AI Training Tool?](https://dev.to/thesimpledev/captcha-security-theater-or-ai-training-tool-39nf)
-- [OpenShift Installation Using UPI on VMware vSphere Machines](https://dev.to/anzal_beg_fc28875cb5020da/openshift-installation-using-upi-on-vmware-vsphere-machines-137d)
-- [MY JOURNEY OF CODING](https://dev.to/tebogo_thema_9376de543a8a/my-journey-of-coding-4gde)
+- [Mastering Selenium WebDriver for Efficient Automation Testing](https://dev.to/gadekar_sachin/mastering-selenium-webdriver-for-efficient-automation-testing-316h)
+- [Mastering CSS: Understanding the Cascade](https://dev.to/mustapha/mastering-css-understanding-the-cascade-15g)
+- [Os desafios para a modernização de software](https://dev.to/ramonduraes/os-desafios-para-a-modernizacao-de-software-3eo9)
+- [Service: O pattern que virou anti-pattern](https://dev.to/asouza/service-o-pattern-que-virou-anti-pattern-568f)
+- [Flutter Design Systems: Exploring Modern Alternatives to Material Design](https://dev.to/dinko7/flutter-design-systems-exploring-modern-alternatives-to-material-design-23e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
