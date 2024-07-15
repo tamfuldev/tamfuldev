@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [50 Essential JavaScript Interview Questions You Need to Know](https://dev.to/stormsidali2001/50-essential-javascript-interview-questions-you-need-to-know-4e2k)
-- [Unlocking the Power of Apex: Advanced Salesforce Development Techniques](https://dev.to/nilebits/unlocking-the-power-of-apex-advanced-salesforce-development-techniques-30d2)
-- [Next.js + Firebase in 5 Minutes! 🔥 Quickest Deployment Tutorial 2024](https://dev.to/proflead/nextjs-firebase-in-5-minutes-quickest-deployment-tutorial-2024-45nn)
-- [AdaBoost - Ensemble Method, Classification: Supervised Machine Learning](https://dev.to/harshm03/adaboost-ensemble-method-classification-supervised-machine-learning-31oo)
-- [What is a North Star KPI &amp; why should you care?](https://dev.to/landdigital/what-is-a-north-star-kpi-why-should-you-care-7dj)
+- [AWS S3 : Object ACLS and Bucket Policies](https://dev.to/oladipupoabeeb/aws-s3-object-acls-and-bucket-policies-14i9)
+- [A Journey with React, Tailwind CSS, and 3D Magic 🎨✨](https://dev.to/randolphdy9/a-journey-with-react-tailwind-css-and-3d-magic-4b62)
+- [Exploring Amazon EC2 Instance Purchasing Options](https://dev.to/sachithmayantha/exploring-amazon-ec2-instance-purchasing-options-4am2)
+- [Understanding Auto Scaling in Kubernetes](https://dev.to/jensen1806/understanding-auto-scaling-in-kubernetes-5gl1)
+- [Docker log rotation](https://dev.to/apetryla/docker-log-rotation-1d59)
 <!-- BLOG-POST-LIST:END -->
 
 ---
