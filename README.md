@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ready for the iPhone 16?](https://dev.to/anshsaini/ready-for-the-iphone-16-4eah)
-- [GSoC Midterm Evaluation](https://dev.to/chiemezuo/gsoc-midterm-evaluation-3i5o)
-- [Aggregation in GROUP BY vs. Window Functions Using OVER&lpar;&rpar;](https://dev.to/felipe_de_godoy/aggregation-in-group-by-vs-window-functions-using-over-32ap)
-- [I have the best game idea and concept](https://dev.to/rico_valentine/i-have-the-best-game-idea-and-concept-o4i)
-- [How To Create Storage Account In Azure Portal](https://dev.to/romanus_onyekwere/how-to-create-storage-account-in-azure-portal-4dj9)
+- [Implementing CQRS and Event Sourcing in Distributed Systems](https://dev.to/tutorialq/implementing-cqrs-and-event-sourcing-in-distributed-systems-5ehd)
+- [i have quesetions in a Usestate demo](https://dev.to/yinguzwg1/i-have-quesetions-in-a-usestate-demo-kpp)
+- [A PAGE TALKS ABOUT &lpar;The Outlook: JetBrains AI Assistant&rpar;](https://dev.to/rewirebyautomation/a-page-talks-about-the-outlook-jetbrains-ai-assistant-3acn)
+- [Day6 of 100DaysOfJavaScript](https://dev.to/koichiarai/day6-of-100daysofjavascript-440o)
+- [Beating the Odds: The Mathematics Behind Casino Profits](https://dev.to/ezhillragesh/beating-the-odds-the-mathematics-behind-casino-profits-313o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
