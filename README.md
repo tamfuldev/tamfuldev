@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Selenium WebDriver for Efficient Automation Testing](https://dev.to/gadekar_sachin/mastering-selenium-webdriver-for-efficient-automation-testing-316h)
-- [Mastering CSS: Understanding the Cascade](https://dev.to/mustapha/mastering-css-understanding-the-cascade-15g)
-- [Os desafios para a modernização de software](https://dev.to/ramonduraes/os-desafios-para-a-modernizacao-de-software-3eo9)
-- [Service: O pattern que virou anti-pattern](https://dev.to/asouza/service-o-pattern-que-virou-anti-pattern-568f)
-- [Flutter Design Systems: Exploring Modern Alternatives to Material Design](https://dev.to/dinko7/flutter-design-systems-exploring-modern-alternatives-to-material-design-23e)
+- [50 Essential JavaScript Interview Questions You Need to Know](https://dev.to/stormsidali2001/50-essential-javascript-interview-questions-you-need-to-know-4e2k)
+- [Unlocking the Power of Apex: Advanced Salesforce Development Techniques](https://dev.to/nilebits/unlocking-the-power-of-apex-advanced-salesforce-development-techniques-30d2)
+- [Next.js + Firebase in 5 Minutes! 🔥 Quickest Deployment Tutorial 2024](https://dev.to/proflead/nextjs-firebase-in-5-minutes-quickest-deployment-tutorial-2024-45nn)
+- [AdaBoost - Ensemble Method, Classification: Supervised Machine Learning](https://dev.to/harshm03/adaboost-ensemble-method-classification-supervised-machine-learning-31oo)
+- [What is a North Star KPI &amp; why should you care?](https://dev.to/landdigital/what-is-a-north-star-kpi-why-should-you-care-7dj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
