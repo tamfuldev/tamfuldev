@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Role of DORA Metrics in Accelerating Software Delivery](https://dev.to/rose_rusell_8839af0b0bba5/the-role-of-dora-metrics-in-accelerating-software-delivery-4505)
-- [Les meilleurs templates gratuits pour vos sites web](https://dev.to/mscholzdev/les-meilleurs-templates-gratuits-pour-vos-sites-web-op3)
-- [Mastering the Fine Art of Web Development with PHP](https://dev.to/jinesh_vora_ab4d7886e6a8d/mastering-the-fine-art-of-web-development-with-php-59kd)
-- [Task 2 - Constants and variables](https://dev.to/ganesh_balaraman_6edae0d9/task-2-constants-and-variables-fkn)
-- [Six Principles of Effective Writing](https://dev.to/martinbaun/six-principles-of-effective-writing-2644)
+- [Exploiting Smart Contracts - Strict Equality](https://dev.to/passandscore/exploiting-smart-contracts-strict-equality-12oj)
+- [Developing Efficient Algorithms - Measuring Algorithm Efficiency Using Big O Notation](https://dev.to/paulike/developing-efficient-algorithms-measuring-algorithm-efficiency-using-big-o-notation-1c1h)
+- [CAPTCHA: Security Theater or AI Training Tool?](https://dev.to/thesimpledev/captcha-security-theater-or-ai-training-tool-39nf)
+- [OpenShift Installation Using UPI on VMware vSphere Machines](https://dev.to/anzal_beg_fc28875cb5020da/openshift-installation-using-upi-on-vmware-vsphere-machines-137d)
+- [MY JOURNEY OF CODING](https://dev.to/tebogo_thema_9376de543a8a/my-journey-of-coding-4gde)
 <!-- BLOG-POST-LIST:END -->
 
 ---
