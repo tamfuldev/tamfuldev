@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Utilizing Meta Tags to Enhance Your Web Documents](https://dev.to/mdhassanpatwary/utilizing-meta-tags-to-enhance-your-web-documents-2glm)
-- [Join These 4 Must-Join Discord Servers for ML Enthusiasts! 🚀](https://dev.to/ma7dev/join-these-4-must-join-discord-servers-for-ml-enthusiasts-4j83)
-- [The Ultimate Guide to Building a Lightning-Fast React App with Vite and TailwindCSS in 2024](https://dev.to/vyan/the-ultimate-guide-to-building-a-lightning-fast-react-app-with-vite-and-tailwindcss-in-2024-10cj)
-- [my first startup almost failed](https://dev.to/darkinventor/my-first-startup-almost-failed-2fgj)
-- [Terasop APP](https://dev.to/terasop/terasop-app-a8a)
+- [Building Gamewave: An AI-Powered Game Store with Wix Studio](https://dev.to/molaycule/building-gamewave-an-ai-powered-game-store-with-wix-studio-3lp9)
+- [Getting Started with JMeter for Beginners](https://dev.to/testscenario/getting-started-with-jmeter-for-beginners-5emp)
+- [How to Parse Key-value Pairs from a Base64-encoded String#eg11](https://dev.to/esproc_spl/how-to-parse-key-value-pairs-from-a-base64-encoded-stringeg11-a6e)
+- [Trading Platform Development Using MetaTrader or TWS API](https://dev.to/vincent_lee_190635/trading-platform-development-using-metatrader-or-tws-api-i4m)
+- [GameObject vs Transform : Unity](https://dev.to/shorotshishir/gameobject-vs-transform-unity-dbp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
