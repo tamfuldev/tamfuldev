@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the TLS/SSL Protocol: How Ciphers and Keys are Generated](https://dev.to/adityabhuyan/understanding-the-tlsssl-protocol-how-ciphers-and-keys-are-generated-3a6n)
-- [Dive into the World of Serverless with &quot;Building Serverless Applications with Google Cloud Run&quot; 🚀](https://dev.to/getvm/dive-into-the-world-of-serverless-with-building-serverless-applications-with-google-cloud-run-43im)
-- [Understanding Server-Side Scripting in Web Application Development](https://dev.to/adityabhuyan/understanding-server-side-scripting-in-web-application-development-5a9)
-- [Creating a Seamless Shopping Experience: My Wix eCommerce Website for the Dev.to Challenge](https://dev.to/harish_05/creating-a-seamless-shopping-experience-my-wix-ecommerce-website-for-the-devto-challenge-2bo1)
-- [Popular Tech Stacks for Full-Stack Development in 2024](https://dev.to/adityabhuyan/popular-tech-stacks-for-full-stack-development-in-2024-1ogj)
+- [Utilizing Meta Tags to Enhance Your Web Documents](https://dev.to/mdhassanpatwary/utilizing-meta-tags-to-enhance-your-web-documents-2glm)
+- [Join These 4 Must-Join Discord Servers for ML Enthusiasts! 🚀](https://dev.to/ma7dev/join-these-4-must-join-discord-servers-for-ml-enthusiasts-4j83)
+- [The Ultimate Guide to Building a Lightning-Fast React App with Vite and TailwindCSS in 2024](https://dev.to/vyan/the-ultimate-guide-to-building-a-lightning-fast-react-app-with-vite-and-tailwindcss-in-2024-10cj)
+- [my first startup almost failed](https://dev.to/darkinventor/my-first-startup-almost-failed-2fgj)
+- [Terasop APP](https://dev.to/terasop/terasop-app-a8a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
