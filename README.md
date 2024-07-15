@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Gamewave: An AI-Powered Game Store with Wix Studio](https://dev.to/molaycule/building-gamewave-an-ai-powered-game-store-with-wix-studio-3lp9)
-- [Getting Started with JMeter for Beginners](https://dev.to/testscenario/getting-started-with-jmeter-for-beginners-5emp)
-- [How to Parse Key-value Pairs from a Base64-encoded String#eg11](https://dev.to/esproc_spl/how-to-parse-key-value-pairs-from-a-base64-encoded-stringeg11-a6e)
-- [Trading Platform Development Using MetaTrader or TWS API](https://dev.to/vincent_lee_190635/trading-platform-development-using-metatrader-or-tws-api-i4m)
-- [GameObject vs Transform : Unity](https://dev.to/shorotshishir/gameobject-vs-transform-unity-dbp)
+- [Create a String to Color Helper with Ruby &lpar;and Rails&rpar;](https://dev.to/railsdesigner/create-a-string-to-color-helper-with-rub-2l5a)
+- [Debugging C Programs: Tools and Techniques for Error-Free Code](https://dev.to/emma_olatujoye/debugging-c-programs-tools-and-techniques-for-error-free-code-8hc)
+- [Gitlab python-based job to remove stale branches](https://dev.to/art_ptushkin/gitlab-python-based-job-to-remove-stale-branches-1i6i)
+- [Understanding Command Line Execution and Environment Configuration](https://dev.to/jaber-said/understanding-command-line-execution-and-environment-configuration-1hd5)
+- [Best VS Code extensions for developers in 2024](https://dev.to/sh20raj/best-vs-code-extensions-for-developers-in-2024-3he1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
