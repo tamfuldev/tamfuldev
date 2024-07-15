@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Elite Engg. Teams Deploy 208X More Frequently Compared to Us Mere Mortals?](https://dev.to/middleware/how-elite-engg-teams-deploy-208x-more-frequently-compared-to-us-mere-mortals-296b)
-- [10 Open Source Large Language Models &lpar;LLMs&rpar; to Transform Your Projects](https://dev.to/futuristicgeeks/10-open-source-large-language-models-llms-to-transform-your-projects-1njn)
-- [100 Days of Code Week 3](https://dev.to/jacobsternx/100-days-of-code-week-3-29bn)
-- [Discover the Power of HTML Details and Summary Elements](https://dev.to/mdhassanpatwary/discover-the-power-of-html-details-and-summary-elements-11j7)
-- [CommonJS &lpar;CJS&rpar; vs ECMAScript Modules &lpar;ESM&rpar; in JavaScript](https://dev.to/rahulvijayvergiya/commonjs-cjs-vs-ecmascript-modules-esm-in-javascript-369c)
+- [Introduction to MongoDB: A NoSQL Database for Modern Applications](https://dev.to/fakii254/introduction-to-mongodb-a-nosql-database-for-modern-applications-149n)
+- [Guide to Using GBase 8s JDBC Driver URL](https://dev.to/congcong/guide-to-using-gbase-8s-jdbc-driver-url-g5n)
+- [Use Guardrails to prevent hallucinations in generative AI applications](https://dev.to/aws/use-guardrails-to-prevent-hallucinations-in-generative-ai-applications-kdg)
+- [How to Enable Two-Factor Authentication &lpar;2FA&rpar; in Boxleo System](https://dev.to/mwacharo6/how-to-enable-two-factor-authentication-2fa-in-boxleo-system-53ll)
+- [Junior Java Developer &lpar;Torino&rpar;](https://dev.to/inrebusrecruiting2023/junior-java-developer-torino-5hcj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
