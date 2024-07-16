@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Access Your Local Development Server on Any Device Using Vite](https://dev.to/basitjawad/how-to-access-your-local-development-server-on-any-device-using-vite-3j5p)
-- [Essential YouTube Channels for Mastering Web Development](https://dev.to/abidullah786/essential-youtube-channels-for-mastering-web-development-8la)
-- [Mastering Application Permissions in SharePoint Embedded](https://dev.to/jaloplo/mastering-application-permissions-in-sharepoint-embedded-15jo)
-- [Practical Guide to Python Conditional Statements](https://dev.to/shikha_gupta_080e904b317e/practical-guide-to-python-conditional-statements-315a)
-- [Measuring Core Web Vitals with the Performance API](https://dev.to/koolkamalkishor/measuring-core-web-vitals-with-the-performance-api-26o0)
+- [Artificial Intelligence with ML.NET for text classifications](https://dev.to/ben-witt/artificial-intelligence-with-mlnet-for-text-classifications-42j6)
+- [Top 10 must use Nuxt modules](https://dev.to/leamsigc/top-10-must-use-nuxt-modules-dmo)
+- [6 Top Courses to Master Software Architecture](https://dev.to/tectrain_academy/6-top-courses-to-master-software-architecture-3j0g)
+- [A Detailed Guide to the React JS Roadmap: Your Path to Mastering React in 2024](https://dev.to/javafullstackdev/a-detailed-guide-to-the-react-js-roadmap-your-path-to-mastering-react-in-2024-4pad)
+- [The Fragmentation in API Tooling: Specialized Tools, Inefficient Processes](https://dev.to/iamspathan/the-fragmentation-in-api-tooling-specialized-tools-inefficient-processes-h58)
 <!-- BLOG-POST-LIST:END -->
 
 ---
