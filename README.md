@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Digital Accessibility, Why Does It Matter?](https://dev.to/mdhassanpatwary/digital-accessibility-why-does-it-matter-133j)
-- [Enhancing User Experience With Browser Synthetic Monitoring](https://dev.to/supratipb/enhancing-user-experience-with-browser-synthetic-monitoring-g7c)
-- [How to Use Appium for Fire TV App Test Automation](https://dev.to/berthaw82414312/how-to-use-appium-for-fire-tv-app-test-automation-2ag1)
-- [Ceph의 이해&lpar;2&rpar; - backfill, scrub](https://dev.to/hj_lee/cephyi-ihae2-backfill-scrub-4311)
-- [DevOps on the Cloud: Top 10 Careers Soaring in the Future](https://dev.to/marufhossain/devops-on-the-cloud-top-10-careers-soaring-in-the-future-27em)
+- [How to Access Your Local Development Server on Any Device Using Vite](https://dev.to/basitjawad/how-to-access-your-local-development-server-on-any-device-using-vite-3j5p)
+- [Essential YouTube Channels for Mastering Web Development](https://dev.to/abidullah786/essential-youtube-channels-for-mastering-web-development-8la)
+- [Mastering Application Permissions in SharePoint Embedded](https://dev.to/jaloplo/mastering-application-permissions-in-sharepoint-embedded-15jo)
+- [Practical Guide to Python Conditional Statements](https://dev.to/shikha_gupta_080e904b317e/practical-guide-to-python-conditional-statements-315a)
+- [Measuring Core Web Vitals with the Performance API](https://dev.to/koolkamalkishor/measuring-core-web-vitals-with-the-performance-api-26o0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
