@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why is prisma orm bad?](https://dev.to/yelldutz/why-is-prisma-orm-bad-2aba)
-- [Good morning Developers](https://dev.to/aadarshk7/good-morning-developers-e9m)
-- [Mastering Git Log: Unlocking the power of Version Control](https://dev.to/fernandomullerjr/mastering-git-log-unlocking-the-power-of-version-control-d3b)
-- [Common Lisp&#39;s group-by is Serapeum:assort](https://dev.to/vindarel/common-lisps-group-by-is-serapeumassort-32ma)
-- [Day 12 of my 90-Devops Journey: CI/CD for Containerized Applications: A GitLab Guide](https://dev.to/arbythecoder/day-12-of-my-90-devops-journey-cicd-for-containerized-applications-a-gitlab-guide-1hfd)
+- [Tips for popularising an open source project?](https://dev.to/tonyrome/tips-for-popularising-an-open-source-project-2cda)
+- [Uma história sobre HTTP status code e por que você deve ler a documentação](https://dev.to/dougsource/uma-historia-sobre-http-status-code-e-por-que-voce-deve-ler-a-documentacao-h42)
+- [[Unity] A simple way to manage Git for personal development, even for Git beginners](https://dev.to/uni928/unity-a-simple-way-to-manage-git-for-personal-development-even-for-git-beginners-33p2)
+- [🚀 Exciting News!](https://dev.to/harrisahmad/exciting-news-omb)
+- [Top 10 React Performance Optimization Techniques](https://dev.to/dipakahirav/top-10-react-performance-optimization-techniques-ikp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
