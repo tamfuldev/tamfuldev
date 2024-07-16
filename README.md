@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Tips for popularising an open source project?](https://dev.to/tonyrome/tips-for-popularising-an-open-source-project-2cda)
-- [Uma história sobre HTTP status code e por que você deve ler a documentação](https://dev.to/dougsource/uma-historia-sobre-http-status-code-e-por-que-voce-deve-ler-a-documentacao-h42)
-- [[Unity] A simple way to manage Git for personal development, even for Git beginners](https://dev.to/uni928/unity-a-simple-way-to-manage-git-for-personal-development-even-for-git-beginners-33p2)
-- [🚀 Exciting News!](https://dev.to/harrisahmad/exciting-news-omb)
-- [Top 10 React Performance Optimization Techniques](https://dev.to/dipakahirav/top-10-react-performance-optimization-techniques-ikp)
+- [8 Game-Changing ReactJS Shortcuts for Writing Clean Code in 2024](https://dev.to/vyan/8-game-changing-reactjs-shortcuts-for-writing-clean-code-in-2024-5a21)
+- [The Ultimate Guide to Refreshing Programming Tutorials](https://dev.to/jeffmorhous/the-ultimate-guide-to-refreshing-programming-tutorials-15c3)
+- [Docker: Introdução](https://dev.to/felipeboliveiraptbr/docker-introducao-893)
+- [Command line tools for deploying based on node.js](https://dev.to/longlongago/command-line-tools-for-deploying-based-on-nodejs-3nng)
+- [MongoDB Schema Design, Indexes &amp; More Best Practices](https://dev.to/tarikul01/mongodb-schema-design-indexes-more-best-practices-3p75)
 <!-- BLOG-POST-LIST:END -->
 
 ---
