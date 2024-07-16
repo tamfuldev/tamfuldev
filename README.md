@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Game of Purpose] Day 58](https://dev.to/humberd/game-of-purpose-day-58-5cmg)
-- [Monolithic vs Microservice Architecture: A Beginner&#39;s Guide](https://dev.to/dev_habib_nuhu/monolithic-vs-microservice-architecture-a-beginners-guide-3cge)
-- [Benefícios do Uso de Streams em Node.js](https://dev.to/vitorrios1001/beneficios-do-uso-de-streams-em-nodejs-3o50)
-- [How to emulate CIBA with ForgeRock Access Manager](https://dev.to/nicholas_irving_293cdc88e/how-to-emulate-ciba-with-forgerock-access-manager-50id)
-- [Desarrollo de Ecommerce con Django &lpar;parte 4&rpar;](https://dev.to/villacisg93/desarrollo-de-ecommerce-con-django-parte-4-1ic)
+- [Why is prisma orm bad?](https://dev.to/yelldutz/why-is-prisma-orm-bad-2aba)
+- [Good morning Developers](https://dev.to/aadarshk7/good-morning-developers-e9m)
+- [Mastering Git Log: Unlocking the power of Version Control](https://dev.to/fernandomullerjr/mastering-git-log-unlocking-the-power-of-version-control-d3b)
+- [Common Lisp&#39;s group-by is Serapeum:assort](https://dev.to/vindarel/common-lisps-group-by-is-serapeumassort-32ma)
+- [Day 12 of my 90-Devops Journey: CI/CD for Containerized Applications: A GitLab Guide](https://dev.to/arbythecoder/day-12-of-my-90-devops-journey-cicd-for-containerized-applications-a-gitlab-guide-1hfd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
