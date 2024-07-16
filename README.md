@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Comparing Embedded Systems and Desktop Systems](https://dev.to/jpdengler/comparing-embedded-systems-and-desktop-systems-2lm6)
-- [Human-in-the-Loop Visual Re-ID for Population Size Estimation](https://dev.to/mikeyoung44/human-in-the-loop-visual-re-id-for-population-size-estimation-1an)
-- [UNSAT Solver Synthesis via Monte Carlo Forest Search](https://dev.to/mikeyoung44/unsat-solver-synthesis-via-monte-carlo-forest-search-3m22)
-- [Pexl Keys - How to Upgrade Microsoft Office 2019 to 2021](https://dev.to/pexlkeys/pexl-keys-how-to-upgrade-microsoft-office-2019-to-2021-8i7)
-- [SparQ Attention: Bandwidth-Efficient LLM Inference](https://dev.to/mikeyoung44/sparq-attention-bandwidth-efficient-llm-inference-493p)
+- [How Wedding App Development Can Simplify Your Big Day](https://dev.to/chariesdevil/how-wedding-app-development-can-simplify-your-big-day-o5j)
+- [How To Conduct Effective Keyword Research](https://dev.to/rohiturane/how-to-conduct-effective-keyword-research-452f)
+- [Dev, café e um pouco de história](https://dev.to/paulocavalcante/dev-cafe-e-um-pouco-de-historia-1mn5)
+- [Make Your Flutter App Super Fast and Fun! 🚀🐱‍🏍](https://dev.to/angerick05/make-your-flutter-app-super-fast-and-fun-2na7)
+- [Essential AI Reports for Business Leaders: Mid 2024 edition](https://dev.to/iwooky/essential-ai-reports-for-business-leaders-mid-2024-edition-3a2d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
