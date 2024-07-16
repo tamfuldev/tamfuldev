@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Fighting the Battle of the Bulge Against Windows](https://dev.to/coffmans/fighting-the-battle-of-the-bulge-against-windows-5582)
-- [Python Loops 1](https://dev.to/coderanger08/python-loops-1-5dho)
-- [Os principais erros de programadores em entrevistas de emprego](https://dev.to/codigoaoponto/os-principais-erros-de-programadores-em-entrevistas-de-emprego-1ae9)
-- [Day 991 : All Kind Of Ideas](https://dev.to/dwane/day-991-all-kind-of-ideas-4k2e)
-- [Introduction to Functional Programming in JavaScript: Different monads #11](https://dev.to/francescoagati/introduction-to-functional-programming-in-javascript-different-monads-11-2je1)
+- [[Game of Purpose] Day 58](https://dev.to/humberd/game-of-purpose-day-58-5cmg)
+- [Monolithic vs Microservice Architecture: A Beginner&#39;s Guide](https://dev.to/dev_habib_nuhu/monolithic-vs-microservice-architecture-a-beginners-guide-3cge)
+- [Benefícios do Uso de Streams em Node.js](https://dev.to/vitorrios1001/beneficios-do-uso-de-streams-em-nodejs-3o50)
+- [How to emulate CIBA with ForgeRock Access Manager](https://dev.to/nicholas_irving_293cdc88e/how-to-emulate-ciba-with-forgerock-access-manager-50id)
+- [Desarrollo de Ecommerce con Django &lpar;parte 4&rpar;](https://dev.to/villacisg93/desarrollo-de-ecommerce-con-django-parte-4-1ic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
