@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Beginner&#39;s Tutorial for CRUD Operations in NodeJS and MongoDB](https://dev.to/danmusembi/beginners-tutorial-for-crud-operations-in-nodejs-and-mongodb-k7k)
-- [Have you tried all API calls in JavaScript? Here are 4 ways to do it](https://dev.to/tomasdevs/have-you-tried-all-api-calls-in-javascript-here-are-4-ways-to-do-it-4l4d)
-- [System Architecture Design Methodologies Part1](https://dev.to/usmanatx/system-architecture-design-methodologies-part1-3g6p)
-- [How often do you run your agile retrospectives?](https://dev.to/mattlewandowski93/how-often-do-you-run-your-agile-retrospectives-19lg)
-- [shadcn-ui/ui codebase analysis: How does shadcn-ui CLI work? — Part 2.14](https://dev.to/ramunarasinga/shadcn-uiui-codebase-analysis-how-does-shadcn-ui-cli-work-part-214-4p20)
+- [EnvLock: The Ultimate Env Manager](https://dev.to/siyabuilt/envlock-the-ultimate-env-manager-11ha)
+- [Confused by var, let, and const? Let&#39;s Clear the Mess](https://dev.to/i-sultan0/confused-by-var-let-and-const-lets-clear-the-mess-4kn7)
+- [Host A Static Website On Microsoft Azure Blob Storage](https://dev.to/sangifeanyi/host-a-static-website-on-microsoft-azure-blob-storage-2l62)
+- [Packer &amp; Proxmox: A Bumpy Road](https://dev.to/shandoncodes/packer-proxmox-a-bumpy-road-1de2)
+- [Modernizing Emails: Innovations for Efficient Handling in Distributed Systems](https://dev.to/kristijankanalas/modernizing-emails-innovations-for-efficient-handling-in-distributed-systems-47g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
