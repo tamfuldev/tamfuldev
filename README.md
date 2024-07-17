@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Hadoop: The &#39;Hadoop Practice Challenges&#39; Course](https://dev.to/labex/mastering-hadoop-the-hadoop-practice-challenges-course-2f7)
-- [Adding Web Scraping and Google Search to AWS Bedrock Agents](https://dev.to/b-d055/adding-web-scraping-and-google-search-to-aws-bedrock-agents-55a8)
-- [Plang and Local-First: Syncing between device in 60 lines of code](https://dev.to/ingigauti/plang-and-local-first-syncing-between-device-in-60-lines-of-code-5a01)
-- [Criando e acessando uma instância com um servidor web](https://dev.to/matheusalejandro/criando-e-acessando-uma-instancia-com-um-servidor-web-45p3)
-- [Criando sua conta no Oracle Cloud](https://dev.to/matheusalejandro/criando-sua-conta-no-oracle-cloud-17ka)
+- [Learning Has to Be Fun - How I Learn](https://dev.to/juanemilio31323/learning-has-to-be-fun-how-i-learn-5akd)
+- [Architect level: Routing with React Router](https://dev.to/__zamora__/architect-level-routing-with-react-router-3c0j)
+- [Lead level: Routing with React Router](https://dev.to/__zamora__/lead-level-routing-with-react-router-2b2c)
+- [Declarative Multi-Engine Data Stack with Ibis](https://dev.to/letsql/declarative-multi-engine-data-stack-with-ibis-3015)
+- [Senior level: Routing with React Router](https://dev.to/__zamora__/senior-level-routing-with-react-router-17pb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
