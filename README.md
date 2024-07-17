@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [EnvLock: The Ultimate Env Manager](https://dev.to/siyabuilt/envlock-the-ultimate-env-manager-11ha)
-- [Confused by var, let, and const? Let&#39;s Clear the Mess](https://dev.to/i-sultan0/confused-by-var-let-and-const-lets-clear-the-mess-4kn7)
-- [Host A Static Website On Microsoft Azure Blob Storage](https://dev.to/sangifeanyi/host-a-static-website-on-microsoft-azure-blob-storage-2l62)
-- [Packer &amp; Proxmox: A Bumpy Road](https://dev.to/shandoncodes/packer-proxmox-a-bumpy-road-1de2)
-- [Modernizing Emails: Innovations for Efficient Handling in Distributed Systems](https://dev.to/kristijankanalas/modernizing-emails-innovations-for-efficient-handling-in-distributed-systems-47g)
+- [Welcome Thread - v285](https://dev.to/devteam/welcome-thread-v285-3ddb)
+- [Top Github repositories for 10+ programming languages](https://dev.to/shreyvijayvargiya/top-github-repositories-for-10-programming-languages-10pi)
+- [Access Request Headers in a Rails Controller](https://dev.to/kevin_j_m/access-request-headers-in-a-rails-controller-3b27)
+- [How to structure your files with VIPER Architecture](https://dev.to/sazardev/how-to-structure-your-files-with-viper-architecture-4do)
+- [[Game of Purpose] Day 59 - Following a path either by distance or Spline points](https://dev.to/humberd/game-of-purpose-day-59-4d5i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
