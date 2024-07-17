@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [NestJS Testing Unit and E2E](https://dev.to/tkssharma/nestjs-testing-unit-and-e2e-km2)
-- [Publishing Packages to GitHub with GitHub Actions](https://dev.to/tkssharma/publishing-packages-to-github-with-github-actions-54bm)
-- [From Callback Chaos to Promise Paradise: Simplify Asynchronous JavaScript](https://dev.to/devishraq/from-callback-chaos-to-promise-paradise-simplify-asynchronous-javascript-46mg)
-- [The Value of Community Conferences](https://dev.to/amandamartindev/the-value-of-community-conferences-5fh3)
-- [Dynamic programming: Teach me like I am 5!](https://dev.to/yourtechsiss/dynamic-programming-teach-me-like-i-am-5-6o)
+- [How to Save and Load Data in Flutter Using SharedPreferences](https://dev.to/design_dev_4494d7953431b6/how-to-save-and-load-data-in-flutter-using-sharedpreferences-5f9n)
+- [Effective Methods to Increase Online Traffic to Your Site](https://dev.to/juddiy/effective-methods-to-increase-online-traffic-to-your-site-2hn4)
+- [Suspicious Maintainer Unveils Threads of npm Supply Chain Attack](https://dev.to/snyk/suspicious-maintainer-unveils-threads-of-npm-supply-chain-attack-2d2j)
+- [1 Common Mistake Junior Developers Make](https://dev.to/thekarlesi/1-common-mistake-junior-developers-make-i7i)
+- [So Easy, Even Your Grandma Could Use It &lpar;But She&#39;d Probably Just Knit Instead&rpar;](https://dev.to/themuneebh/so-easy-even-your-grandma-could-use-it-but-shed-probably-just-knit-instead-2701)
 <!-- BLOG-POST-LIST:END -->
 
 ---
