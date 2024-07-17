@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Shocking Peek into the World of AI Video Deepfakes](https://dev.to/chibueze_onyekpere_67fb16/a-shocking-peek-into-the-world-of-ai-video-deepfakes-325o)
-- [Creating a 3D Gallery App with Three.js, HTML, and CSS - part 1](https://dev.to/aliozzaim/creating-a-3d-gallery-app-with-threejs-html-and-css-part-1-2gcf)
-- [8 Nifty API Documentation Tools](https://dev.to/irhose/8-nifty-api-documentation-tools-3f33)
-- [Folder Structure of a React Native App](https://dev.to/wafa_bergaoui/folder-structure-of-a-react-native-app-3m44)
-- [How to Secure Your Website: A Guide to Understanding and Preventing Common Web Vulnerabilities](https://dev.to/koolkamalkishor/how-to-secure-your-website-a-guide-to-understanding-and-preventing-common-web-vulnerabilities-1nkh)
+- [shadcn-ui/ui codebase analysis: How does shadcn-ui CLI work? — Part 2.15](https://dev.to/ramunarasinga/shadcn-uiui-codebase-analysis-how-does-shadcn-ui-cli-work-part-215-1f9p)
+- [Software Developers: 7 Proven Steps to Navigate Complex Software](https://dev.to/dishitdevasia/software-developers-7-proven-steps-to-navigate-complex-software-4mjp)
+- [Open Stats for LLM Usage](https://dev.to/lina_lam_9ee459f98b67e9d5/open-stats-for-llm-usage-50ai)
+- [Easy PHPMailer Tutorial: Build an Email System in No Time [2024] ✉🚀](https://dev.to/devella/easy-phpmailer-tutorial-build-an-email-system-in-no-time-2024-23mg)
+- [Practical LLM - Matching and Ranking by Erik Schmiegelow, CEO of Hivemind Technologies AG](https://dev.to/nikitakoselev/practical-llm-matching-and-ranking-by-erik-schmiegelow-ceo-of-hivemind-technologies-ag-55mj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
