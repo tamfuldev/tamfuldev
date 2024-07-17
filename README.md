@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SCA vs SAST - Security Tools Comparison 🛡️](https://dev.to/bytehide/sca-vs-sast-security-tools-comparison-30dc)
-- [5 Must-Do Tests for a Game that Goes for the Global Market](https://dev.to/wetest/5-must-do-tests-for-a-game-that-goes-for-the-global-market-56bo)
-- [Running Multiple Containers Using Docker Compose](https://dev.to/udoh_deborah_b1e484c474bf/running-multiple-containers-using-docker-compose-1lh6)
-- [Introduction to Delegates](https://dev.to/rasheedmozaffar/introduction-to-delegates-pdm)
-- [Overview of Network Interactions in GBase 8s SSC Clusters &lpar;2&rpar;](https://dev.to/congcong/overview-of-network-interactions-in-gbase-8s-ssc-clusters-2-12dk)
+- [Gaming &amp; Web3 - How an Open and Secure Future of Ownership in Games Could Look](https://dev.to/hendrikebbers/gaming-web3-how-an-open-and-secure-future-of-ownership-in-games-could-look-2ihf)
+- [Wednesday Links - Edition 2024-07-17](https://dev.to/wyhasany/wednesday-links-edition-2024-07-17-52cf)
+- [GBase 8c Compatibility Guide](https://dev.to/congcong/gbase-8c-compatibility-guide-4e3e)
+- [Proteger mediante CloudFlare un sitio alojado en S3](https://dev.to/sjim-akt/proteger-mediante-cloudflare-un-sitio-alojado-en-s3-4n4e)
+- [@let: New feature compiler in Angular 18.1](https://dev.to/this-is-angular/let-new-feature-compiler-in-angular-181-jen)
 <!-- BLOG-POST-LIST:END -->
 
 ---
