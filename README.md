@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Start With Creating a Simple Project on MongoDB with NodeJs](https://dev.to/devops_den/start-with-creating-a-simple-project-on-mongodb-with-nodejs-45ih)
-- [Exploring the World of Chatbots: From Rule-Based to AI-Powered](https://dev.to/balagmadhu/exploring-the-world-of-chatbots-from-rule-based-to-ai-powered-2ja5)
-- [40 Days Of Kubernetes &lpar;16/40&rpar;](https://dev.to/sina14/40-days-of-kubernetes-1640-3670)
-- [6 Years of Teaching to 6 Figures](https://dev.to/muydanny/6-years-of-teaching-to-6-figures-h61)
-- [Any Tips or Resources for Beginners?](https://dev.to/grant_ghost_d5a51e2c0d7c5/any-tips-or-resources-for-beginners-del)
+- [A Shocking Peek into the World of AI Video Deepfakes](https://dev.to/chibueze_onyekpere_67fb16/a-shocking-peek-into-the-world-of-ai-video-deepfakes-325o)
+- [Creating a 3D Gallery App with Three.js, HTML, and CSS - part 1](https://dev.to/aliozzaim/creating-a-3d-gallery-app-with-threejs-html-and-css-part-1-2gcf)
+- [8 Nifty API Documentation Tools](https://dev.to/irhose/8-nifty-api-documentation-tools-3f33)
+- [Folder Structure of a React Native App](https://dev.to/wafa_bergaoui/folder-structure-of-a-react-native-app-3m44)
+- [How to Secure Your Website: A Guide to Understanding and Preventing Common Web Vulnerabilities](https://dev.to/koolkamalkishor/how-to-secure-your-website-a-guide-to-understanding-and-preventing-common-web-vulnerabilities-1nkh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
