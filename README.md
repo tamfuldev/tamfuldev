@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Save and Load Data in Flutter Using SharedPreferences](https://dev.to/design_dev_4494d7953431b6/how-to-save-and-load-data-in-flutter-using-sharedpreferences-5f9n)
-- [Effective Methods to Increase Online Traffic to Your Site](https://dev.to/juddiy/effective-methods-to-increase-online-traffic-to-your-site-2hn4)
-- [Suspicious Maintainer Unveils Threads of npm Supply Chain Attack](https://dev.to/snyk/suspicious-maintainer-unveils-threads-of-npm-supply-chain-attack-2d2j)
-- [1 Common Mistake Junior Developers Make](https://dev.to/thekarlesi/1-common-mistake-junior-developers-make-i7i)
-- [So Easy, Even Your Grandma Could Use It &lpar;But She&#39;d Probably Just Knit Instead&rpar;](https://dev.to/themuneebh/so-easy-even-your-grandma-could-use-it-but-shed-probably-just-knit-instead-2701)
+- [#27 — Group and Summarize A Table Where Every N Rows Consists of A Range by Column](https://dev.to/judith677/27-group-and-summarize-a-table-where-every-n-rows-consists-of-a-range-by-column-3863)
+- [Practicing with Google Cloud Platform - Google Kubernetes Engine to deploy nginx](https://dev.to/chauhoangminhnguyen/practicing-with-google-cloud-platform-google-kubernetes-engine-to-deploy-nginx-4hpk)
+- [🔒 Essential Node.js Security Best Practices](https://dev.to/dipakahirav/essential-nodejs-security-best-practices-2mh8)
+- [Fixing AWS MFA Entity Already Exists error](https://dev.to/vsrnth/fixing-aws-mfa-entity-already-exists-error-1b6h)
+- [React is not hard - React from 0 to expert](https://dev.to/juanemilio31323/react-is-not-hard-react-from-0-to-expert-2ge)
 <!-- BLOG-POST-LIST:END -->
 
 ---
