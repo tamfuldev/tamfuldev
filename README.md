@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [R Programming: Zero to Hero Series 🚀](https://dev.to/raghavtwenty/r-programming-zero-to-hero-series-4ank)
-- [Day 2 of NodeJS || Get Started](https://dev.to/akshat0610/day-2-of-nodejs-get-started-570e)
-- [Midjourney: A Product Strategy Case Study](https://dev.to/lankan01/midjourney-a-product-strategy-case-study-5058)
-- [Natural Numbers](https://dev.to/kalkwst/natural-numbers-4em4)
-- [Building a Scalable AWS Serverless Architecture with NestJS](https://dev.to/tkssharma/building-a-scalable-aws-serverless-architecture-with-nestjs-4973)
+- [SCA vs SAST - Security Tools Comparison 🛡️](https://dev.to/bytehide/sca-vs-sast-security-tools-comparison-30dc)
+- [5 Must-Do Tests for a Game that Goes for the Global Market](https://dev.to/wetest/5-must-do-tests-for-a-game-that-goes-for-the-global-market-56bo)
+- [Running Multiple Containers Using Docker Compose](https://dev.to/udoh_deborah_b1e484c474bf/running-multiple-containers-using-docker-compose-1lh6)
+- [Introduction to Delegates](https://dev.to/rasheedmozaffar/introduction-to-delegates-pdm)
+- [Overview of Network Interactions in GBase 8s SSC Clusters &lpar;2&rpar;](https://dev.to/congcong/overview-of-network-interactions-in-gbase-8s-ssc-clusters-2-12dk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
