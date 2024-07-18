@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Jenkins Declarative Pipeline - An Overview with example](https://dev.to/oncloud7/jenkins-declarative-pipeline-an-overview-with-example-4e5b)
-- [Exploring the Single Sign-On Feature of Postman](https://dev.to/satokenta/exploring-the-single-sign-on-feature-of-postman-3bo)
-- [8 Essential Skills for a Cloud Consulting Professional](https://dev.to/theintellify1/8-essential-skills-for-a-cloud-consulting-professional-5fjd)
-- [Why I am Looking For a Postman Alternative and I Found This Awesome Tool](https://dev.to/ralphsebastian/why-i-am-looking-for-a-postman-alternative-and-i-found-this-awesome-tool-23pb)
-- [list of some popular Version Control Systems &lpar;VCS&rpar;](https://dev.to/ayyappan_java/list-of-some-popular-version-control-systems-vcs-1kb2)
+- [[Roast: Day 3] - UI Additions, Components, and an Installable Application](https://dev.to/nmiller15/roast-day-3-ui-additions-components-and-an-installable-application-4ec8)
+- [Form Validation In TypeScipt Projects Using Zod and React Hook Form](https://dev.to/strapi/form-validation-in-typescipt-projects-using-zod-and-react-hook-form-49g6)
+- [Adding advanced search to a Strapi and Next.js project with Algolia](https://dev.to/strapi/adding-advanced-search-to-a-strapi-and-nextjs-project-with-algolia-453d)
+- [How to center a div?](https://dev.to/neonx26/how-to-center-a-div-12ai)
+- [Build Deep Linking with Mogua’s Solutions](https://dev.to/omnimind/build-deep-linking-with-moguas-solutions-5967)
 <!-- BLOG-POST-LIST:END -->
 
 ---
