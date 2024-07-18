@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Updates to the Node course: PostgreSQL, Prisma and more!](https://dev.to/theodinproject/updates-to-the-node-course-postgresql-prisma-and-more-4dl3)
 - [Open Source projects that changed the world](https://dev.to/buildwebcrumbs/open-source-projects-that-changed-the-world-4d2n)
 - [What Are Some Good Uses for Azure Functions?](https://dev.to/scholarhattraining/what-are-some-good-uses-for-azure-functions-58jk)
 - [ssh-copy-id command on any machine](https://dev.to/omidshojaee/ssh-copy-id-command-on-any-machine-18k3)
 - [Day 7: 100 Days of Cloud - Stepping Out of My Comfort Zone!](https://dev.to/tutorialhelldev/day-7-100-days-of-cloud-stepping-out-of-my-comfort-zone-16bo)
-- [JavaScript dasturlash tili o&#39;zi nima?](https://dev.to/juratdev/javascript-dasturlash-tili-ozi-nima-15h2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
