@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [These Tailwind Classes I Wish You Knew Sooner](https://dev.to/safdarali/these-tailwind-classes-i-wish-you-knew-sooner-5b30)
-- [About myself](https://dev.to/muhammadaziz/about-myself-3o7d)
-- [Dive into the Fascinating World of Distributed Systems with CSEP 552 🌐](https://dev.to/getvm/dive-into-the-fascinating-world-of-distributed-systems-with-csep-552-8c9)
-- [Python Try-Except: When to Avoid It](https://dev.to/azayshrestha/python-try-except-when-to-avoid-it-3b00)
-- [Efficient Ruby Coding: A Guide to Immediate and Non-Immediate Objects](https://dev.to/alexandrecalaca/efficient-ruby-coding-a-guide-to-immediate-and-non-immediate-objects-5h83)
+- [Large Language Models &lpar;LLMs&rpar;: Revolutionizing AI and Communication](https://dev.to/jottyjohn/large-language-models-llms-revolutionizing-ai-and-communication-23bl)
+- [Why Threat Modeling is Crucial for Banking Industries in 2024](https://dev.to/jesscica_jones/why-threat-modeling-is-crucial-for-banking-industries-in-2024-334)
+- [A No-BS Guide to Master Coding and Land a job](https://dev.to/halimshams/a-no-bs-guide-to-master-coding-and-land-a-job-5e7l)
+- [Benefits of Hybrid Cloud Every Business Should Know](https://dev.to/harman_diaz_afcacf62ea94f/benefits-of-hybrid-cloud-every-business-should-know-1l2d)
+- [Confessions of a Non-Techie Content Creator: How I Conquered the Dev World with Doc-E.ai](https://dev.to/swati1267/confessions-of-a-non-techie-content-creator-how-i-conquered-the-dev-world-with-doc-eai-22c7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
