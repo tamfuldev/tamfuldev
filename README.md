@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Python: From Beginners to Pro in 30 Mins &lpar;Part 2&rpar;](https://dev.to/scofieldidehen/python-from-beginners-to-pro-in-30-mins-part-2-38po)
-- [Why are CTFs so important???](https://dev.to/pwnguide/why-are-ctfs-so-important-2jg6)
-- [SPVM::Resource::Eigen released](https://dev.to/yukikimoto/spvmresourceeigen-released-43p0)
-- [Teste vs Depuração: Estratégias Complementares para Garantir a Qualidade do Software](https://dev.to/womakerscode/teste-vs-depuracao-estrategias-complementares-para-garantir-a-qualidade-do-software-214k)
-- [Tutorial de Flujo de Trabajo con Git: ¡Empieza a Usar los Comandos Básicos de Git AHORA!](https://dev.to/villacisg93/tutorial-de-flujo-de-trabajo-con-git-empieza-a-usar-los-comandos-basicos-de-git-4dbi)
+- [Why we built Resourcely](https://dev.to/resourcely/why-we-built-resourcely-4blc)
+- [Publish a Windows application that automatically backs up files](https://dev.to/uni928/publish-a-windows-application-that-automatically-backs-up-files-44ph)
+- [Ativando o Dark Mode em React.js com SCSS Modules 🌙](https://dev.to/dougsource/ativando-o-dark-mode-em-reactjs-com-scss-modules-2l47)
+- [Sherlock Holmes: The Case of the Content Length Mismatch](https://dev.to/programmerraja/sherlock-holmes-the-case-of-the-content-length-mismatch-4i2b)
+- [Console Styling in JavaScript with a few kilobytes](https://dev.to/proman4713/console-styling-in-javascript-with-a-few-kilobytes-2gjn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
