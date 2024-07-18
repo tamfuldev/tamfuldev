@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How to Write a Thoughtful Apology Letter to Your Principal?](https://dev.to/daletcouch/how-to-write-a-thoughtful-apology-letter-to-your-principal-52dj)
+- [GBase 8c Compatibility - Oracle Partition Syntax](https://dev.to/congcong/gbase-8c-compatibility-oracle-partition-syntax-3o1e)
+- [The importance of effective communication in the workplace 🏢🗣️](https://dev.to/hey_rishabh/the-importance-of-effective-communication-in-the-workplace-41j9)
 - [Add a “X is writing…” with Rails and Turbo](https://dev.to/railsdesigner/add-a-x-is-writing-with-rails-and-turbo-4e5a)
-- [Breaking Free from the Endless Learning Loop](https://dev.to/bridget_amana/breaking-free-from-the-endless-learning-loop-1lhb)
-- [Securing network from chinese anti ukraine hackers](https://dev.to/bartdev/securing-network-from-chinese-anti-ukraine-hackers-398m)
-- [Salesforce Regression Testing: Definition, Benefits, and Best Practices](https://dev.to/berthaw82414312/salesforce-regression-testing-definition-benefits-and-best-practices-4dm1)
-- [6.Functions | py](https://dev.to/ranjith_jr_fbf2e375879b08/functions-py-3805)
+- [Calculating Fingerprints For SQL Queries](https://dev.to/metis/calculating-fingerprints-for-sql-queries-44i5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
