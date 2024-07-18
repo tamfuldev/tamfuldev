@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Large Language Models &lpar;LLMs&rpar;: Revolutionizing AI and Communication](https://dev.to/jottyjohn/large-language-models-llms-revolutionizing-ai-and-communication-23bl)
-- [Why Threat Modeling is Crucial for Banking Industries in 2024](https://dev.to/jesscica_jones/why-threat-modeling-is-crucial-for-banking-industries-in-2024-334)
-- [A No-BS Guide to Master Coding and Land a job](https://dev.to/halimshams/a-no-bs-guide-to-master-coding-and-land-a-job-5e7l)
-- [Benefits of Hybrid Cloud Every Business Should Know](https://dev.to/harman_diaz_afcacf62ea94f/benefits-of-hybrid-cloud-every-business-should-know-1l2d)
-- [Confessions of a Non-Techie Content Creator: How I Conquered the Dev World with Doc-E.ai](https://dev.to/swati1267/confessions-of-a-non-techie-content-creator-how-i-conquered-the-dev-world-with-doc-eai-22c7)
+- [SQL is Dead? Get Started with mongoDB](https://dev.to/nikhil27b/sql-is-dead-get-started-with-mongodb-4dc3)
+- [Leaving Uber in 2022 was the best thing I did for myself 🚶💼](https://dev.to/middleware/leaving-uber-in-2022-was-the-best-thing-i-did-for-myself-4kf9)
+- [Access Token &amp; Refresh Token: A Breakdown](https://dev.to/arnabsahawrk/access-token-refresh-token-a-breakdown-5f81)
+- [Introduction to Virtual and Augmented Reality &lpar;VR/AR&rpar;](https://dev.to/code_passion/introduction-to-virtual-and-augmented-reality-vrar-ab9)
+- [Day 14: Advanced Logging and Monitoring with Prometheus, Grafana, and Alertmanager &lpar;Termux Edition!&rpar;](https://dev.to/arbythecoder/day-14-advanced-logging-and-monitoring-with-prometheus-grafana-and-alertmanager-termux-edition-dk1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
