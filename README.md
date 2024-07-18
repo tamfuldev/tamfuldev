@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Updates to the Node course: PostgreSQL, Prisma and more!](https://dev.to/theodinproject/updates-to-the-node-course-postgresql-prisma-and-more-4dl3)
-- [Open Source projects that changed the world](https://dev.to/buildwebcrumbs/open-source-projects-that-changed-the-world-4d2n)
-- [What Are Some Good Uses for Azure Functions?](https://dev.to/scholarhattraining/what-are-some-good-uses-for-azure-functions-58jk)
-- [ssh-copy-id command on any machine](https://dev.to/omidshojaee/ssh-copy-id-command-on-any-machine-18k3)
-- [Day 7: 100 Days of Cloud - Stepping Out of My Comfort Zone!](https://dev.to/tutorialhelldev/day-7-100-days-of-cloud-stepping-out-of-my-comfort-zone-16bo)
+- [Why is unserializing an object in PHP a bad idea?](https://dev.to/denzyldick/why-is-unserializing-an-object-in-php-a-bad-idea-3odl)
+- [Navigating Take-Home Assignments: A Journey to Scoring Interviews](https://dev.to/ganatrajay2000/navigating-take-home-assignments-a-journey-to-scoring-interviews-4hd8)
+- [Advanced Entity Framework: Mapping and Queries](https://dev.to/fabrcio_marcondessantos/advanced-entity-framework-mapping-and-queries-lgm)
+- [DevOps Monitoring and Automation Tool using Jenkins, Prometheus, Grafana and Docker](https://dev.to/nigel_bomett/devops-monitoring-and-automation-tool-using-jenkins-prometheus-grafana-and-docker-m8n)
+- [Island Architecture with Web Components](https://dev.to/begin/island-architecture-with-web-components-3hnp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
