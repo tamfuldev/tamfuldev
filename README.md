@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Fundamentals of Entity Framework: Simplifying Data Access in .NET](https://dev.to/fabrcio_marcondessantos/fundamentals-of-entity-framework-simplifying-data-access-in-net-2a2b)
-- [How to Choose a Web Host?](https://dev.to/hjgonzalez06/how-to-choose-a-web-host-oh1)
-- [Remix Authentication with Amazon Cognito](https://dev.to/slamflipstrom/remix-authentication-with-amazon-cognito-ool)
-- [2 v 1 Turret](https://dev.to/kevinpalma21/2-v-1-turret-40f4)
-- [Creating Better Test Scenarios in Ruby on Rails](https://dev.to/alanmaik/creating-better-test-scenarios-in-ruby-on-rails-1hee)
+- [Python: From Beginners to Pro in 30 Mins &lpar;Part 2&rpar;](https://dev.to/scofieldidehen/python-from-beginners-to-pro-in-30-mins-part-2-38po)
+- [Why are CTFs so important???](https://dev.to/pwnguide/why-are-ctfs-so-important-2jg6)
+- [SPVM::Resource::Eigen released](https://dev.to/yukikimoto/spvmresourceeigen-released-43p0)
+- [Teste vs Depuração: Estratégias Complementares para Garantir a Qualidade do Software](https://dev.to/womakerscode/teste-vs-depuracao-estrategias-complementares-para-garantir-a-qualidade-do-software-214k)
+- [Tutorial de Flujo de Trabajo con Git: ¡Empieza a Usar los Comandos Básicos de Git AHORA!](https://dev.to/villacisg93/tutorial-de-flujo-de-trabajo-con-git-empieza-a-usar-los-comandos-basicos-de-git-4dbi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
