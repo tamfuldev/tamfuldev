@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Predictive Maintenance in the Upstream Sector: Implementing Machine Learning with Flask](https://dev.to/ekemini_thompson/predictive-maintenance-in-the-upstream-sector-implementing-machine-learning-with-flask-2oam)
-- [Unveiling the Future of Cybersecurity: How AI is Revolutionizing Protection Online](https://dev.to/verifyvault/unveiling-the-future-of-cybersecurity-how-ai-is-revolutionizing-protection-online-4i81)
-- [The Six Best Design Patterns Every Developer Should Know](https://dev.to/wallacefreitas/the-six-best-design-patterns-every-developer-should-know-11g0)
-- [Trans component in react-i18next. Multilingual website](https://dev.to/jsha/trans-component-in-react-i18next-multilingual-website-3lg3)
-- [Exploring AI-Assisted UI Development: Lessons from Creating a Hacker News Clone](https://dev.to/spencertower/exploring-ai-assisted-ui-development-lessons-from-creating-a-hacker-news-clone-3o3c)
+- [Iniciando com o Ansible](https://dev.to/nataliagranato/iniciando-com-o-ansible-1dfg)
+- [Supercharging LLMs: RoT Fuses Language Models with Decision Tree Search to Boost Reasoning Power](https://dev.to/mikeyoung44/supercharging-llms-rot-fuses-language-models-with-decision-tree-search-to-boost-reasoning-power-1ik9)
+- [Tools and Skills for .NET 8: Episode 1](https://dev.to/priya_sharma/tools-and-skills-for-net-8-episode-1-11nn)
+- [Unleash Your VSCode Mastery: A Project to Build an Extension with ChatGPT](https://dev.to/labex/unleash-your-vscode-mastery-a-project-to-build-an-extension-with-chatgpt-25k)
+- [5. Writing our first program in python with home🧡work](https://dev.to/aryan015/5-writing-our-first-program-in-python-with-homework-4g6o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
