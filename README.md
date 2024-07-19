@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Struggeling Dev Takes Notes](https://dev.to/downtherabbithole/struggeling-dev-takes-notes-55cp)
-- [Estruturas Condicionais em Programação](https://dev.to/andersoncode66/estruturas-condicionais-em-programacao-45cb)
-- [Top 3 Best React Books 2024](https://dev.to/priya_sharma/top-3-best-react-books-2024-28dm)
-- [Creating a 3D Gallery App with Three.js, HTML, and CSS - Part 2](https://dev.to/aliozzaim/creating-a-3d-gallery-app-with-threejs-html-and-css-part-2-1ce8)
-- [Plang: Abstracting Away the Complexity](https://dev.to/ingigauti/plang-abstracting-away-the-complexity-50mm)
+- [Why You Should Write Good Code](https://dev.to/thekarlesi/why-you-should-write-good-code-4hlg)
+- [Introduction to C++](https://dev.to/madgan95/introduction-to-c-4gfa)
+- [Auto-Tuning HIP: Boosting Performance on AMD and Nvidia GPUs, Challenges Unveiled](https://dev.to/mikeyoung44/auto-tuning-hip-boosting-performance-on-amd-and-nvidia-gpus-challenges-unveiled-1759)
+- [New AI Approach Tackles Misalignment in Text-to-Image Generation](https://dev.to/mikeyoung44/new-ai-approach-tackles-misalignment-in-text-to-image-generation-3e2n)
+- [Drag Your Way to Photorealistic Image Manipulation: Interactive Point-based GAN Control](https://dev.to/mikeyoung44/drag-your-way-to-photorealistic-image-manipulation-interactive-point-based-gan-control-p0g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
