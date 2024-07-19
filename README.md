@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Quickly Fix Crowdstrike BSOD](https://dev.to/ralphsebastian/how-to-quickly-fix-crowdstrike-bsod-58a6)
-- [Running Phi-3-vision via ONNX on Jetson Platform](https://dev.to/jambochen/running-phi-3-vision-via-onnx-on-jetson-platform-35m1)
-- [JavaScript Design Patterns - Behavioral - Memento](https://dev.to/nhannguyendevjs/javascript-design-patterns-behavioral-memento-14o4)
-- [Magento 2 Slack Notifier Module](https://dev.to/hamza_hannad/introducing-the-magento-2-slack-notifier-module-1nb)
-- [Fixing Package Dependencies](https://dev.to/ijlee2/fixing-package-dependencies-5557)
+- [Path To A Clean&lpar;er&rpar; React Architecture &lpar;Part 8&rpar; - How Does React-Query Fit Into The Picture?](https://dev.to/jkettmann/path-to-a-cleaner-react-architecture-part-8-how-does-react-query-fit-into-the-picture-1b99)
+- [Messaging in Plang](https://dev.to/ingigauti/messaging-in-plang-9mb)
+- [The Vital Importance of System Testing in Software Development](https://dev.to/robort_smith/the-vital-importance-of-system-testing-in-software-development-3bg7)
+- [Automating VIN Code Recognition with OCR Technology](https://dev.to/api4ai/automating-vin-code-recognition-with-ocr-technology-473f)
+- [OpenAI Unveils GPT-4o Mini: A More Accessible, Affordable AI Model](https://dev.to/dariubs/openai-unveils-gpt-4o-mini-a-more-accessible-affordable-ai-model-25nn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
