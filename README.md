@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Path To A Clean&lpar;er&rpar; React Architecture &lpar;Part 8&rpar; - How Does React-Query Fit Into The Picture?](https://dev.to/jkettmann/path-to-a-cleaner-react-architecture-part-8-how-does-react-query-fit-into-the-picture-1b99)
-- [Messaging in Plang](https://dev.to/ingigauti/messaging-in-plang-9mb)
-- [The Vital Importance of System Testing in Software Development](https://dev.to/robort_smith/the-vital-importance-of-system-testing-in-software-development-3bg7)
-- [Automating VIN Code Recognition with OCR Technology](https://dev.to/api4ai/automating-vin-code-recognition-with-ocr-technology-473f)
-- [OpenAI Unveils GPT-4o Mini: A More Accessible, Affordable AI Model](https://dev.to/dariubs/openai-unveils-gpt-4o-mini-a-more-accessible-affordable-ai-model-25nn)
+- [Balance is killing your ambition: How to become world class](https://dev.to/drpraze/balance-is-killing-your-ambition-how-to-become-world-class-1ooo)
+- [Introducing Micro Agent: An &lpar;Actually Reliable&rpar; AI Coding Agent](https://dev.to/builderio/introducing-micro-agent-an-actually-reliable-ai-coding-agent-10k2)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-3cke)
+- [[Roast: Day 4] - Creating an Expandable Card in React](https://dev.to/nmiller15/roast-day-4-creating-an-expandable-card-in-react-1ld3)
+- [Python](https://dev.to/kanmaniram/python-i3p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
