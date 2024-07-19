@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Next.js: Part 8 - State Management and API Integration](https://dev.to/dipakahirav/getting-started-with-nextjs-part-8-state-management-and-api-integration-13l)
-- [Practical IoT solution using Azure IoT Hub.](https://dev.to/laoluafolami/practical-iot-solution-using-azure-iot-hub-2apc)
-- [How to Learn Project Management?](https://dev.to/devops_den/how-to-learn-project-management-98a)
-- [From Code Newbie to Dev Community Whiz: How Doc-E.ai Became My Secret Weapon](https://dev.to/swati1267/from-code-newbie-to-dev-community-whiz-how-doc-eai-became-my-secret-weapon-46l)
-- [What is the Role of Authentication in Cybersecurity](https://dev.to/blogginger/what-is-the-role-of-authentication-in-cybersecurity-10ca)
+- [vivo Migrated from GlusterFS to a Distributed File System for AI Training](https://dev.to/daswu/vivo-migrated-from-glusterfs-to-a-distributed-file-system-for-ai-training-4fph)
+- [Understanding PEMDAS: The Order of Operations in Mathematics](https://dev.to/lilyneema/understanding-pemdas-the-order-of-operations-in-mathematics-ieb)
+- [Exploring software design problems and solutions: Transactions and side effects](https://dev.to/shalvah/exploring-software-design-problems-and-solutions-transactions-and-side-effects-13ig)
+- [The Importance of Mathematics and Physics in Machine Learning and Data Science](https://dev.to/lilyneema/the-importance-of-mathematics-and-physics-in-machine-learning-and-data-science-58a2)
+- [Implementing AI in Drone Technology](https://dev.to/somya_07/implementing-ai-in-drone-technology-47cd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
