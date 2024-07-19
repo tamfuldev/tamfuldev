@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [vivo Migrated from GlusterFS to a Distributed File System for AI Training](https://dev.to/daswu/vivo-migrated-from-glusterfs-to-a-distributed-file-system-for-ai-training-4fph)
-- [Understanding PEMDAS: The Order of Operations in Mathematics](https://dev.to/lilyneema/understanding-pemdas-the-order-of-operations-in-mathematics-ieb)
-- [Exploring software design problems and solutions: Transactions and side effects](https://dev.to/shalvah/exploring-software-design-problems-and-solutions-transactions-and-side-effects-13ig)
-- [The Importance of Mathematics and Physics in Machine Learning and Data Science](https://dev.to/lilyneema/the-importance-of-mathematics-and-physics-in-machine-learning-and-data-science-58a2)
-- [Implementing AI in Drone Technology](https://dev.to/somya_07/implementing-ai-in-drone-technology-47cd)
+- [SafeLine Community Edition releases dynamic protection capabilities.](https://dev.to/lulu_liu_c90f973e2f954d7f/safeline-community-edition-releases-dynamic-protection-capabilities-k9p)
+- [Stripe Subscription Payments With Nest.js and Prisma — Part 1](https://dev.to/ferhat/stripe-subscription-payments-with-nestjs-and-prisma-part-1-177)
+- [How To Refactor Your Codebase](https://dev.to/jully/how-to-refactor-your-codebase-41f4)
+- [How To Refactor Your Codebase](https://dev.to/jully/how-to-refactor-your-codebase-57e9)
+- [Bridging the Physical and Digital: IoT Solution with Azure IoT Hub, Device Connectivity, and Telemetry to Blob Storage](https://dev.to/adah_okwara_3c43c95a89a2e/bridging-the-physical-and-digital-iot-solution-with-azure-iot-hub-device-connectivity-and-telemetry-to-blob-storage-4fml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
