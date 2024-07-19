@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Stay Compliant, Mitigate Risks: Understanding AML/KYC as a technologist](https://dev.to/horaceshmorace/stay-compliant-mitigate-risks-understanding-amlkyc-as-a-technologist-5go3)
 - [Why You Should Write Good Code](https://dev.to/thekarlesi/why-you-should-write-good-code-4hlg)
 - [Introduction to C++](https://dev.to/madgan95/introduction-to-c-4gfa)
 - [Auto-Tuning HIP: Boosting Performance on AMD and Nvidia GPUs, Challenges Unveiled](https://dev.to/mikeyoung44/auto-tuning-hip-boosting-performance-on-amd-and-nvidia-gpus-challenges-unveiled-1759)
 - [New AI Approach Tackles Misalignment in Text-to-Image Generation](https://dev.to/mikeyoung44/new-ai-approach-tackles-misalignment-in-text-to-image-generation-3e2n)
-- [Drag Your Way to Photorealistic Image Manipulation: Interactive Point-based GAN Control](https://dev.to/mikeyoung44/drag-your-way-to-photorealistic-image-manipulation-interactive-point-based-gan-control-p0g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
