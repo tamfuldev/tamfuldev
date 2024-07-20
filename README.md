@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [After Working Super Hard for 7 Years, We Released the New Kooboo CMS Under the EPL Open Source License Today](https://dev.to/kooboo/after-working-super-hard-for-7-years-we-released-the-new-kooboo-cms-under-the-epl-open-source-license-today-4no6)
-- [Maven Commands Cheat Sheet](https://dev.to/adityabhuyan/maven-commands-cheat-sheet-53ce)
-- [Refactoring #2](https://dev.to/mashcuy_lab/refactoring-2-8n0)
-- [Gradle Commands Cheat Sheet](https://dev.to/adityabhuyan/gradle-commands-cheat-sheet-4gi5)
-- [Five Crucial Security Steps That Every WordPress Administrator Must Implement](https://dev.to/fasehun_fisayomi/five-crucial-security-steps-that-every-wordpress-administrator-must-implement-2fap)
+- [AI&#39;s Powerhouse: How Large Language Models are Revolutionizing the Game](https://dev.to/hayyanstudio/ais-powerhouse-how-large-language-models-are-revolutionizing-the-game-55a7)
+- [Creating a Practical IoT Solution Using Azure IoT Hub.](https://dev.to/tojumercy1/creating-a-practical-iot-solution-using-azure-iot-hub-10ji)
+- [Mastering Kubernetes: The Comprehensive Kubernetes Practice Challenges Course](https://dev.to/labex/mastering-kubernetes-the-comprehensive-kubernetes-practice-challenges-course-1cjj)
+- [Enhancing JavaScript Code with ES Modules: Export, Import, and Beyond](https://dev.to/kda/enhancing-javascript-code-with-es-modules-export-import-and-beyond-1d5)
+- [nan_to_num&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/nantonum-in-pytorch-1acl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
