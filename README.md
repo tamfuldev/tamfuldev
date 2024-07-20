@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate HTML Guide: Kickstart Your Web Development Journey](https://dev.to/saamsheron/the-ultimate-html-guide-kickstart-your-web-development-journey-2hpm)
-- [How to Improve Your Development Workflow with Gemini Code Assist](https://dev.to/michellebuchiokonicha/how-to-improve-your-development-workflow-with-gemini-code-assist-10lm)
-- [Day 18 of 100 Days of Code](https://dev.to/jacobsternx/day-18-of-100-days-of-code-pak)
-- [Simple Azure OpenAi RAG Microservice Architecture.](https://dev.to/vinoth_thulukanam/simple-azure-openai-rag-microservice-architecture-3kbd)
-- [Struggling Dev&#39;s sneaky Domain Driven Design](https://dev.to/downtherabbithole/struggling-devs-sneaky-domain-driven-design-3j2c)
+- [Cardiac Disease Detection using ML](https://dev.to/0sujal/cardiac-disease-detection-using-ml-31c5)
+- [Explore Open-Source Repos on Github faster with this AI URL ⚡️](https://dev.to/commanddash/explore-open-source-repos-on-github-faster-with-this-ai-url-3fpf)
+- [Elastic Stack Cookbook 8.x](https://dev.to/cloudnative_eng/elastic-stack-cookbook-8x-1j67)
+- [Simplifying Data Fetching with Zustand and Tanstack Query: One Line to Rule Them All](https://dev.to/androbro/simplifying-data-fetching-with-zustand-and-tanstack-query-one-line-to-rule-them-all-3k87)
+- [Implement an expression interpreter for building DSL](https://dev.to/ccbhj/implement-an-expression-interpreter-for-building-dsl-3908)
 <!-- BLOG-POST-LIST:END -->
 
 ---
