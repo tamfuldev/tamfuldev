@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dive into the Fascinating World of Compilers with Cornell University&#39;s Self-Guided Course 🚀](https://dev.to/getvm/dive-into-the-fascinating-world-of-compilers-with-cornell-universitys-self-guided-course-1lc2)
-- [1669 Merge in Between Linked Lists - Leetcode](https://dev.to/leetcode/1669-merge-in-between-linked-lists-leetcode-144c)
-- [How to install ionCube Loader with Laravel Valet on MacOS &lpar;Intel&rpar;](https://dev.to/tinkeringsam/how-to-install-ioncube-loader-with-laravel-valet-on-macos-intel-eoj)
-- [Notes for computer science subject 📝](https://dev.to/khushindpatel/notes-for-computer-science-subject-13jk)
-- [CSS Grid vs Flexbox: When to Use Which](https://dev.to/tailwine/css-grid-vs-flexbox-when-to-use-which-5ac)
+- [Mastering React: A Developer&#39;s Guide to Structuring Your Frontend Code](https://dev.to/vyan/mastering-react-a-developers-guide-to-structuring-your-frontend-code-45a5)
+- [Connecting to Your Linux EC2 Instance Using PuTTY on Window](https://dev.to/noorscript/connecting-to-your-linux-ec2-instance-using-putty-on-window-hcp)
+- [Building a full-stack app with Python &amp; Django](https://dev.to/prvnbist/building-a-full-stack-app-with-python-django-20j4)
+- [Appwork School - Week 0](https://dev.to/ivavay/appworks-school-week-0-2gfl)
+- [Getting to the meat and potatoes of serverless recipe parsing with Amazon Bedrock](https://dev.to/willdady/getting-to-the-meat-and-potatoes-of-serverless-recipe-parsing-with-amazon-bedrock-4ifc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
