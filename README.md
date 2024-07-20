@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI&#39;s Powerhouse: How Large Language Models are Revolutionizing the Game](https://dev.to/hayyanstudio/ais-powerhouse-how-large-language-models-are-revolutionizing-the-game-55a7)
-- [Creating a Practical IoT Solution Using Azure IoT Hub.](https://dev.to/tojumercy1/creating-a-practical-iot-solution-using-azure-iot-hub-10ji)
-- [Mastering Kubernetes: The Comprehensive Kubernetes Practice Challenges Course](https://dev.to/labex/mastering-kubernetes-the-comprehensive-kubernetes-practice-challenges-course-1cjj)
-- [Enhancing JavaScript Code with ES Modules: Export, Import, and Beyond](https://dev.to/kda/enhancing-javascript-code-with-es-modules-export-import-and-beyond-1d5)
-- [nan_to_num&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/nantonum-in-pytorch-1acl)
+- [How to lose weight as a software engineer](https://dev.to/winstonpuckett/how-to-lose-weight-as-a-software-engineer-2mc9)
+- [Los 7 Mejores Sitios Web para Aprender SQL Gratis](https://dev.to/ladanovnick/los-7-mejores-sitios-web-para-aprender-sql-gratis-c3i)
+- [Announcing Bridge: Open-Source Resource Management for Terraform and Kubernetes](https://dev.to/yaron_torjeman_5288cbab83/announcing-bridge-open-source-resource-management-for-terraform-and-kubernetes-18f1)
+- [Créer un cluster Kubernetes local avec Kind &lpar;Kubernetes IN Docker&rpar;](https://dev.to/laformulenuagique/creer-un-cluster-kubernetes-local-avec-kind-kubernetes-in-docker-2k71)
+- [想要不花一分钱就能像专家一样管理和查询数据库吗？探索最佳的免费SQL学习网站，掌握这门重要的数据库语言所需的技能和知识。](https://dev.to/ladanovnick/best-free-online-platform-2024-to-learn-sql-34jl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
