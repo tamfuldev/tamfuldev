@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Angular Tutorial: Local Component Template Variables with @let](https://dev.to/brianmtreese/angular-tutorial-local-component-template-variables-with-let-2p5i)
-- [Essential Tech Support Practices for Remote Developers](https://dev.to/aaronsmithcs/essential-tech-support-practices-for-remote-developers-3jl6)
-- [cummin&lpar;&rpar; and cummax&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/cummin-and-cummax-in-pytorch-4l8l)
-- [Gorm Pagination With Ease](https://dev.to/sheenazien8/gorm-pagination-with-ease-28m6)
-- [Mastering NumPy Array Mean Calculation](https://dev.to/labex/mastering-numpy-array-mean-calculation-4pig)
+- [Dive into the Fascinating World of Compilers with Cornell University&#39;s Self-Guided Course 🚀](https://dev.to/getvm/dive-into-the-fascinating-world-of-compilers-with-cornell-universitys-self-guided-course-1lc2)
+- [1669 Merge in Between Linked Lists - Leetcode](https://dev.to/leetcode/1669-merge-in-between-linked-lists-leetcode-144c)
+- [How to install ionCube Loader with Laravel Valet on MacOS &lpar;Intel&rpar;](https://dev.to/tinkeringsam/how-to-install-ioncube-loader-with-laravel-valet-on-macos-intel-eoj)
+- [Notes for computer science subject 📝](https://dev.to/khushindpatel/notes-for-computer-science-subject-13jk)
+- [CSS Grid vs Flexbox: When to Use Which](https://dev.to/tailwine/css-grid-vs-flexbox-when-to-use-which-5ac)
 <!-- BLOG-POST-LIST:END -->
 
 ---
