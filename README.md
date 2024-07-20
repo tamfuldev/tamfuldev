@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Cardiac Disease Detection using ML](https://dev.to/0sujal/cardiac-disease-detection-using-ml-31c5)
-- [Explore Open-Source Repos on Github faster with this AI URL ⚡️](https://dev.to/commanddash/explore-open-source-repos-on-github-faster-with-this-ai-url-3fpf)
-- [Elastic Stack Cookbook 8.x](https://dev.to/cloudnative_eng/elastic-stack-cookbook-8x-1j67)
-- [Simplifying Data Fetching with Zustand and Tanstack Query: One Line to Rule Them All](https://dev.to/androbro/simplifying-data-fetching-with-zustand-and-tanstack-query-one-line-to-rule-them-all-3k87)
-- [Implement an expression interpreter for building DSL](https://dev.to/ccbhj/implement-an-expression-interpreter-for-building-dsl-3908)
+- [Backend framework using Node.js](https://dev.to/ramiahmed68/backend-framework-using-nodejs-408i)
+- [The 3 Best Tools for API Design for Software Architects](https://dev.to/finally_code/the-3-best-tools-for-api-design-for-software-architects-3odj)
+- [Top SQL Server Interview Questions for 2024](https://dev.to/raynecoder/top-sql-server-interview-questions-for-2024-4kg2)
+- [You don&#39;t need a frontend framework](https://dev.to/oryoffe/you-dont-need-a-frontend-framework-408m)
+- [Top 30 MongoDB Interview Questions and Answers](https://dev.to/raynecoder/top-30-mongodb-interview-questions-and-answers-6a4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
