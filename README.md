@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Hover Preview: My First VsCode extension to preview on hover [Beta release]](https://dev.to/paul_freeman/hover-preview-my-first-vscode-extension-to-preview-on-hover-beta-release-36hd)
-- [How to make a slider in HTML + CSS](https://dev.to/pillagerplayz/how-to-make-a-slider-in-html-css-27ai)
-- [Enhancing Productivity in the Modern Workplace Using AI](https://dev.to/productivity/enhancing-productivity-in-the-modern-workplace-using-ai-3epi)
-- [Linux OS &amp; Basic Commands](https://dev.to/kenttech/linux-os-basic-commands-541)
-- [Using ENUMs to Make JSX Select Inputs More Type-safe](https://dev.to/designly/using-enums-to-make-jsx-select-inputs-more-type-safe-861)
+- [The Translator Wizard: A Deep Dive into the AI Encoder](https://dev.to/tumyet0/the-translator-wizard-a-deep-dive-into-the-ai-encoder-332j)
+- [Vector image conversion](https://dev.to/yujisue/vector-image-conversion-4b26)
+- [Microsserviços, uma abordagem prática - &lpar;Parte - 1&rpar;](https://dev.to/miltonlima/micros-servicos-por-exemplos-parte-1--8k3)
+- [CSS Grid vs. Flexbox: When to Use Which](https://dev.to/kartikmehta8/css-grid-vs-flexbox-when-to-use-which-4oje)
+- [Java Beans](https://dev.to/diegosilva13/java-beans-53c5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
