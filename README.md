@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [The Ultimate Guide to Frontend Development: Best Practices for Building Stellar Websites](https://dev.to/vyan/the-ultimate-frontend-developers-playbook-8-game-changing-practices-for-killer-websites-n1b)
+- [JAVASCRIPT VARIABLES HOISTING](https://dev.to/almoustapha01/javascript-variables-hoisting-jdn)
+- [Building Fullstack Chatbot with PyTorch, NumPy, NLTK, and Next.js - Complete Tutorial in 2024](https://dev.to/henry_lee_1787e739b0c8191/building-fullstack-chatbot-with-pytorch-numpy-nltk-and-nextjs-complete-tutorial-in-2024-1mh3)
 - [The Translator Wizard: A Deep Dive into the AI Encoder](https://dev.to/tumyet0/the-translator-wizard-a-deep-dive-into-the-ai-encoder-332j)
 - [Vector image conversion](https://dev.to/yujisue/vector-image-conversion-4b26)
-- [Microsserviços, uma abordagem prática - &lpar;Parte - 1&rpar;](https://dev.to/miltonlima/micros-servicos-por-exemplos-parte-1--8k3)
-- [CSS Grid vs. Flexbox: When to Use Which](https://dev.to/kartikmehta8/css-grid-vs-flexbox-when-to-use-which-4oje)
-- [Java Beans](https://dev.to/diegosilva13/java-beans-53c5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
