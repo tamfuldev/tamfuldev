@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Guide to Frontend Development: Best Practices for Building Stellar Websites](https://dev.to/vyan/the-ultimate-frontend-developers-playbook-8-game-changing-practices-for-killer-websites-n1b)
-- [JAVASCRIPT VARIABLES HOISTING](https://dev.to/almoustapha01/javascript-variables-hoisting-jdn)
-- [Building Fullstack Chatbot with PyTorch, NumPy, NLTK, and Next.js - Complete Tutorial in 2024](https://dev.to/henry_lee_1787e739b0c8191/building-fullstack-chatbot-with-pytorch-numpy-nltk-and-nextjs-complete-tutorial-in-2024-1mh3)
-- [The Translator Wizard: A Deep Dive into the AI Encoder](https://dev.to/tumyet0/the-translator-wizard-a-deep-dive-into-the-ai-encoder-332j)
-- [Vector image conversion](https://dev.to/yujisue/vector-image-conversion-4b26)
+- [Min Stack | LeetCode | Java](https://dev.to/tanujav/min-stack-leetcode-java-233m)
+- [Scan me you will love it &lt;3](https://dev.to/kartik_gaur_41c2a409d626d/scan-me-you-will-love-it-3-4kei)
+- [Explore JavaScript Data Types with getType Function](https://dev.to/labex/explore-javascript-data-types-with-gettype-function-2p61)
+- [Hello guys and gals.](https://dev.to/rt1616103/hello-guys-and-gals-295b)
+- [Create `nan` and `inf` in PyTorch](https://dev.to/hyperkai/create-nan-and-inf-in-pytorch-2dj7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
