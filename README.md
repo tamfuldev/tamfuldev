@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Arte de identificar o Problema Antes de Buscar Soluções](https://dev.to/viquitor/a-arte-de-focar-no-problema-antes-de-buscar-solucoes-dlh)
-- [Data Structure #1 Stack](https://dev.to/elijah57/data-structure-1-stack-31e4)
-- [Hello, World!](https://dev.to/isaacdyor/hello-world-2kk5)
-- [LeetCode Meditations: Palindromic Substrings](https://dev.to/rivea0/leetcode-meditations-palindromic-substrings-21c3)
-- [Multipage Vite Vanilla JavaScript](https://dev.to/mochamadboval/multipage-vite-vanilla-javascript-3i0l)
+- [Hover Preview: My First VsCode extension to preview on hover [Beta release]](https://dev.to/paul_freeman/hover-preview-my-first-vscode-extension-to-preview-on-hover-beta-release-36hd)
+- [How to make a slider in HTML + CSS](https://dev.to/pillagerplayz/how-to-make-a-slider-in-html-css-27ai)
+- [Enhancing Productivity in the Modern Workplace Using AI](https://dev.to/productivity/enhancing-productivity-in-the-modern-workplace-using-ai-3epi)
+- [Linux OS &amp; Basic Commands](https://dev.to/kenttech/linux-os-basic-commands-541)
+- [Using ENUMs to Make JSX Select Inputs More Type-safe](https://dev.to/designly/using-enums-to-make-jsx-select-inputs-more-type-safe-861)
 <!-- BLOG-POST-LIST:END -->
 
 ---
