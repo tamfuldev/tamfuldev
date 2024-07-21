@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [daily code 77 | js fetch practice](https://dev.to/gregor_schafroth/daily-code-77-js-fetch-practice-4ann)
-- [Update Your npm Packages with npm-check](https://dev.to/naicigam28/update-your-npm-packages-with-npm-check-45ii)
-- [Advanced ESP32: Exploring Key Features and Versatile Uses](https://dev.to/jane_white_74334c599bfafa/advanced-esp32-exploring-key-features-and-versatile-uses-301h)
-- [Deploy Next JS App on Coolify with GitHub](https://dev.to/sh20raj/deploy-next-js-app-on-coolify-with-github-58mm)
-- [Unleashing the Sentinel&#39;s Might: Mastering Centralized Security with AWS Security Hub – Your Cloud Fortress Guardian](https://dev.to/ikoh_sylva/unleashing-the-sentinels-might-mastering-centralized-security-with-aws-security-hub-your-cloud-fortress-guardian-4p44)
+- [🚨 Google Unveils Project IDX, a Game-Changer for App Development 🚨](https://dev.to/sh20raj/google-unveils-project-idx-a-game-changer-for-app-development-51pi)
+- [Windows Authentication login react](https://dev.to/lakshmi_naidu_952e356a392/windows-authentication-login-react-51o7)
+- [String and Trailing comma, get couple and become, Tuple &lpar;&rpar;: A copy &amp; paste mistake to Error and concept](https://dev.to/ajitkumar/string-and-trailing-comma-get-couple-and-become-tuple-a-copy-paste-mistake-to-error-and-concept-3gfl)
+- [Supercharge Your Neovim Workflow with project-cli-commands.nvim](https://dev.to/dimaportenko/supercharge-your-neovim-workflow-with-project-cli-commandsnvim-4o06)
+- [Write custom formulae in Libreoffice Calc with Python](https://dev.to/gokullan/write-custom-formulae-in-libreoffice-calc-with-python-2cm7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
