@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Concurrent and Parallel Programming in Python &lpar;course&rpar;](https://dev.to/apetryla/concurrent-and-parallel-programming-in-python-course-3oaa)
-- [Performance Testing for E-commerce Websites: A Comprehensive Guide](https://dev.to/testscenario/performance-testing-for-e-commerce-websites-a-comprehensive-guide-332)
-- [Personal Finance Tracker: Manage Your Income and Expenses Efficiently](https://dev.to/vinkalprajapati/personal-finance-tracker-manage-your-income-and-expenses-efficiently-i93)
-- [GBase 8s Database HAC Cluster Switch and Recovery Operations](https://dev.to/congcong/gbase-8s-database-hac-cluster-switch-and-recovery-operations-j7c)
-- [Java &amp; Spring Best Practices | Dependency Injection](https://dev.to/agitrubard/java-spring-best-practices-dependency-injection-58ac)
+- [Runtime Log Level Change using Golang &amp; GoFr](https://dev.to/aryanmehrotra/remote-runtime-log-level-change-using-golang-gofr-54d8)
+- [Finding the Median of Two Sorted Arrays in Java](https://dev.to/codeswithpankaj/finding-the-median-of-two-sorted-arrays-in-java-j8h)
+- [What are the benefits of having a personal lawyer for probate issues and trusts?](https://dev.to/lawyer_sonia_b1ca6e0dce15/what-are-the-benefits-of-having-a-personal-lawyer-for-probate-issues-and-trusts-3ljc)
+- [The Top 11 Programming Languages to Learn in 2024](https://dev.to/e-tech/the-top-11-programming-languages-to-learn-in-2024-j34)
+- [Largest Rectangle in Histogram](https://dev.to/codeswithpankaj/largest-rectangle-in-histogram-5din)
 <!-- BLOG-POST-LIST:END -->
 
 ---
