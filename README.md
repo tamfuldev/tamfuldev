@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Runtime Log Level Change using Golang &amp; GoFr](https://dev.to/aryanmehrotra/remote-runtime-log-level-change-using-golang-gofr-54d8)
-- [Finding the Median of Two Sorted Arrays in Java](https://dev.to/codeswithpankaj/finding-the-median-of-two-sorted-arrays-in-java-j8h)
-- [What are the benefits of having a personal lawyer for probate issues and trusts?](https://dev.to/lawyer_sonia_b1ca6e0dce15/what-are-the-benefits-of-having-a-personal-lawyer-for-probate-issues-and-trusts-3ljc)
-- [The Top 11 Programming Languages to Learn in 2024](https://dev.to/e-tech/the-top-11-programming-languages-to-learn-in-2024-j34)
-- [Largest Rectangle in Histogram](https://dev.to/codeswithpankaj/largest-rectangle-in-histogram-5din)
+- [The JavaScript Array Methods for Kids!](https://dev.to/sh20raj/the-javascript-array-methods-for-kids-3b8e)
+- [JavaScript Array Methods: `forEach`, `map`, `filter`, and `reduce`](https://dev.to/sh20raj/javascript-array-methods-foreach-map-filter-and-reduce-2bh7)
+- [SDLC - Waterfall Model](https://dev.to/sandeepsangu/sdlc-waterfall-model-ibc)
+- [Graph Database Use Cases](https://dev.to/nim12/graph-database-use-cases-3pfg)
+- [Introducing SkillScore: A New Way to Match Talents with Companies—Seeking Feedback from Freelancers, Employees, and Employers!](https://dev.to/alexfriedl/introducing-skillscore-a-new-way-to-match-talents-with-companies-seeking-feedback-from-freelancers-employees-and-employers-320e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
