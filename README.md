@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Game of Purpose] Day 63](https://dev.to/humberd/game-of-purpose-day-63-3hoj)
-- [Why use Angular in 2024](https://dev.to/mashablair/why-use-angular-in-2024-34kh)
-- [How to configure akky email with Digital ocean hosting](https://dev.to/koffer/how-to-configure-akky-email-with-digital-ocean-hosting-456h)
-- [[Rust]Making struct for getting directory path](https://dev.to/nk_maker/rustmaking-struct-for-getting-directory-path-2322)
-- [YAML reference and important concepts.](https://dev.to/morphzg/yaml-reference-and-important-concepts-21p9)
+- [Effective Tests](https://dev.to/roubertedgar/effective-tests-30h0)
+- [How I built a custom image file uploader](https://dev.to/bolajibolajoko51/how-i-built-a-custom-image-file-uploader-5aje)
+- [How to run any Laravel project &lpar;It&#39;s very easy&rpar;](https://dev.to/murizdev/how-to-run-any-laravel-project-its-very-easy-l3l)
+- [Idempotência: Melhorando a Resiliência de Seu Sistema - Parte II](https://dev.to/joelbrs/idempotencia-melhorando-a-resiliencia-de-seu-sistema-parte-ii-4p6k)
+- [Idempotência: Melhorando a Resiliência de Seu Sistema - Parte I](https://dev.to/joelbrs/idempotencia-melhorando-a-resiliencia-de-seu-sistema-parte-i-1c99)
 <!-- BLOG-POST-LIST:END -->
 
 ---
