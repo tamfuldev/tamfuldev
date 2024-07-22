@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Effective Tests](https://dev.to/roubertedgar/effective-tests-30h0)
-- [How I built a custom image file uploader](https://dev.to/bolajibolajoko51/how-i-built-a-custom-image-file-uploader-5aje)
-- [How to run any Laravel project &lpar;It&#39;s very easy&rpar;](https://dev.to/murizdev/how-to-run-any-laravel-project-its-very-easy-l3l)
-- [Idempotência: Melhorando a Resiliência de Seu Sistema - Parte II](https://dev.to/joelbrs/idempotencia-melhorando-a-resiliencia-de-seu-sistema-parte-ii-4p6k)
-- [Idempotência: Melhorando a Resiliência de Seu Sistema - Parte I](https://dev.to/joelbrs/idempotencia-melhorando-a-resiliencia-de-seu-sistema-parte-i-1c99)
+- [How to calculate time and space complexity? &lpar;DSA - 2&rpar;](https://dev.to/madgan95/how-to-calculate-time-and-space-complexity-dsa-2-2jd1)
+- [Today&#39;s Trending Projects: Real-Time Sales Dashboard with Echarts and More](https://dev.to/labex/todays-trending-projects-real-time-sales-dashboard-with-echarts-and-more-432f)
+- [NESTOI Powerful nodejs library](https://dev.to/noeurnneang/nestoi-powerful-nodejs-library-37fn)
+- [How to Build a Web App In 6 Steps](https://dev.to/domfive/how-to-build-a-web-app-in-6-steps-nip)
+- [Arithmetic operations with `nan` and `inf` in PyTorch](https://dev.to/hyperkai/arithmetic-operations-with-nan-and-inf-in-pytorch-2k8j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
