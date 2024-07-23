@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Key To Growing As A Programmer? Getting Really Good At This 1 Thing](https://dev.to/jeffbuildstech/the-key-to-growing-as-a-programmer-getting-really-good-at-this-1-thing-3il5)
-- [5 tools every developer should use](https://dev.to/zain725342/5-tools-every-developer-should-use-17m0)
-- [Factorial Function in JavaScript - Quick Explanation.](https://dev.to/jessicaagorye/factorial-function-in-javascript-quick-explanation-a2f)
-- [Today&#39;s Trending Projects: Sum of Prime Numbers Under 100 and More](https://dev.to/labex/todays-trending-projects-sum-of-prime-numbers-under-100-and-more-32c2)
-- [An Opinionated Ramp Up Guide to AWS Pentesting](https://dev.to/lmoratti/an-opinionated-ramp-up-guide-to-aws-pentesting-1bc5)
+- [How to migrate your Google Forms to Odoo surveys](https://dev.to/m1k3lm/how-to-migrate-your-google-forms-to-odoo-surveys-m56)
+- [I Scoured Udemy For The Best Developer Courses: Here Are The 3 Teachers That Are Worth Your Time](https://dev.to/jeffbuildstech/i-scoured-udemy-for-the-best-developer-courses-here-are-the-3-teachers-that-are-worth-your-time-5hb2)
+- [SAPUI5 - Typescript](https://dev.to/kiranuknow/sapui5-typescript-4no6)
+- [Event-driven design with Log Events and RabbitMQ in Golang](https://dev.to/ujjavala/event-driven-design-with-log-events-and-rabbitmq-in-golang-3j38)
+- [Implementing CI/CD for ReactJS Projects: Gitlab + Slack](https://dev.to/cuongnp/implementing-cicd-for-reactjs-projects-gitlab-slack-1p8k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
