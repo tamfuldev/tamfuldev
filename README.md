@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Game of Purpose] Day 64](https://dev.to/humberd/game-of-purpose-day-64-541h)
-- [SQLAlchemy Constraints and Validations](https://dev.to/sashafbrockman/sqlalchemy-constraints-and-validations-4dgn)
-- [polling after CreateOrUpdate: polling failed](https://dev.to/wallism/polling-after-createorupdate-polling-failed-31p0)
-- [Race Condition &lpar;Condição de Corrida&rpar;](https://dev.to/celso/race-condition-condicao-de-corrida-2461)
-- [SURPRISE 2024!, Web-Forms Back to ASP.NET Core](https://dev.to/elanatframework/surprise-2024-web-forms-back-to-aspnet-core-j1h)
+- [The Key To Growing As A Programmer? Getting Really Good At This 1 Thing](https://dev.to/jeffbuildstech/the-key-to-growing-as-a-programmer-getting-really-good-at-this-1-thing-3il5)
+- [5 tools every developer should use](https://dev.to/zain725342/5-tools-every-developer-should-use-17m0)
+- [Factorial Function in JavaScript - Quick Explanation.](https://dev.to/jessicaagorye/factorial-function-in-javascript-quick-explanation-a2f)
+- [Today&#39;s Trending Projects: Sum of Prime Numbers Under 100 and More](https://dev.to/labex/todays-trending-projects-sum-of-prime-numbers-under-100-and-more-32c2)
+- [An Opinionated Ramp Up Guide to AWS Pentesting](https://dev.to/lmoratti/an-opinionated-ramp-up-guide-to-aws-pentesting-1bc5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
