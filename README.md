@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [[Game of Purpose] Day 64](https://dev.to/humberd/game-of-purpose-day-64-541h)
+- [SQLAlchemy Constraints and Validations](https://dev.to/sashafbrockman/sqlalchemy-constraints-and-validations-4dgn)
+- [polling after CreateOrUpdate: polling failed](https://dev.to/wallism/polling-after-createorupdate-polling-failed-31p0)
+- [Race Condition &lpar;Condição de Corrida&rpar;](https://dev.to/celso/race-condition-condicao-de-corrida-2461)
 - [SURPRISE 2024!, Web-Forms Back to ASP.NET Core](https://dev.to/elanatframework/surprise-2024-web-forms-back-to-aspnet-core-j1h)
-- [Realtime log streaming in Go](https://dev.to/gatij/realtime-log-streaming-in-go-4530)
-- [Issue 54 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-54-of-aws-cloud-security-weekly-24pg)
-- [[Rust]get file name](https://dev.to/nk_maker/rustget-file-name-3pka)
-- [JavaScript30 - 10 Hold Shift to Check Multiple Checkboxes!](https://dev.to/virtualsobriety/javascript30-10-hold-shift-to-check-multiple-checkboxes-4ln5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
