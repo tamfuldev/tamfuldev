@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Goodbye Webflow, Hello Our Shiny New Website](https://dev.to/zerodays/goodbye-webflow-hello-our-shiny-new-website-1m31)
-- [Leverage ChatGPT to Implement a Notification List in Your Intranet](https://dev.to/jaloplo/leverage-chatgpt-to-implement-a-notification-list-in-your-intranet-56k6)
-- [Adding Custom Fonts to Laravel-Dompdf](https://dev.to/rafaelogic/adding-custom-fonts-to-laravel-dompdf-4na8)
-- [POST only? Let&#39;s end this absurd API design debate](https://dev.to/logto/post-only-lets-end-this-absurd-api-design-debate-3a0k)
-- [Virtual Fittings: How Technology is Changing the Custom Suit Industry](https://dev.to/haroon_ch_d5802dded29606b/virtual-fittings-how-technology-is-changing-the-custom-suit-industry-3l82)
+- [What Is Intelligent Document Processing &amp; How Does It Work](https://dev.to/derek-compdf/what-is-intelligent-document-processing-how-does-it-work-j1m)
+- [Implementing the Cached Repository Pattern in C#](https://dev.to/ben-witt/cached-repository-in-c-432c)
+- [Day 21 of 100 Days of Code](https://dev.to/jacobsternx/day-21-of-100-days-of-code-b84)
+- [How to build a Stopwatch in React](https://dev.to/sagar_sharma_2809/how-to-build-a-stopwatch-in-react-1063)
+- [GBase 8a Solution in Real-Time Data Transmission System &lpar;1&rpar;](https://dev.to/congcong/gbase-8a-solution-in-real-time-data-transmission-system-1-2maf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
