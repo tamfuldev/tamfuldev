@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Stay Updated with Python/FastAPI/Django: Weekly News Summary &lpar;15/07/2024-21/07/2024](https://dev.to/poovarasu/stay-updated-with-pythonfastapidjango-weekly-news-summary-15072024-21072024-4lfa)
+- [MID INTERNSHIP TASK: Building devopsfetch for Server Information Retrieval and Monitoring.](https://dev.to/efosa-dev/mid-internship-task-building-devopsfetch-for-server-information-retrieval-and-monitoring-2bj2)
 - [How to migrate your Google Forms to Odoo surveys](https://dev.to/m1k3lm/how-to-migrate-your-google-forms-to-odoo-surveys-m56)
-- [I Scoured Udemy For The Best Developer Courses: Here Are The 3 Teachers That Are Worth Your Time](https://dev.to/jeffbuildstech/i-scoured-udemy-for-the-best-developer-courses-here-are-the-3-teachers-that-are-worth-your-time-5hb2)
-- [SAPUI5 - Typescript](https://dev.to/kiranuknow/sapui5-typescript-4no6)
-- [Event-driven design with Log Events and RabbitMQ in Golang](https://dev.to/ujjavala/event-driven-design-with-log-events-and-rabbitmq-in-golang-3j38)
-- [Implementing CI/CD for ReactJS Projects: Gitlab + Slack](https://dev.to/cuongnp/implementing-cicd-for-reactjs-projects-gitlab-slack-1p8k)
+- [How to Create Wealth and Passive Income - How to Create Wealth and Passive Income](https://dev.to/juanemilio31323/how-to-create-wealth-and-passive-income-how-to-create-wealth-and-passive-income-2e4k)
+- [Day 994 : Tomorrow](https://dev.to/dwane/day-994-tomorrow-3l1c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
