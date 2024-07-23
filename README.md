@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [LEGACY APP MIGRATION TO AZURE](https://dev.to/danclem/legacy-app-migration-to-azure-187n)
-- [Day 11 of 100DaysOfCode](https://dev.to/koichiarai/day-11-of-100daysofcode-2k9n)
-- [Gen Z protesters used JKIA as decoy to occupy Nairobi CBD?](https://dev.to/okwenick/gen-z-protesters-used-jkia-as-decoy-to-occupy-nairobi-cbd-oci)
-- [Accessible dropdown menus that pop up](https://dev.to/emmadawsondev/accessible-dropdown-menus-that-pop-up-36db)
-- [Most Useful DevOps/Cloud GitHub Repositories to Learning and Become a DevOps Engineer ♾](https://dev.to/prodevopsguytech/most-useful-devopscloud-github-repositories-to-learning-and-become-a-devops-engineer-24k5)
+- [One possible evolution of software development industry thanks to LLM](https://dev.to/matks/one-possible-evolution-of-software-development-industry-thanks-to-llm-1hc7)
+- [Configuring the Kubernetes Horizontal Pod Autoscaler to scale based on custom metrics from Prometheus](https://dev.to/tsudhishnair/configuring-the-kubernetes-horizontal-pod-autoscaler-to-scale-based-on-custom-metrics-from-prometheus-1fle)
+- [Python: From Beginners to Pro Part 4](https://dev.to/scofieldidehen/python-from-beginners-to-pro-part-4-25gp)
+- [How to use async function in useEffect?](https://dev.to/bondaspecta/how-to-use-async-function-in-useeffect-2m6a)
+- [Livestream platform backend — Detailed architecture](https://dev.to/teyz/livestream-platform-backend-detailed-architecture-1f62)
 <!-- BLOG-POST-LIST:END -->
 
 ---
