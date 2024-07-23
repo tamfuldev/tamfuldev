@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [jest 关于定时器](https://dev.to/dennischeung/jest-guan-yu-ding-shi-qi-3hil)
-- [How to make “Input validation” easy for your devs](https://dev.to/owasp/how-to-make-input-validation-easy-for-your-devs-2o6b)
-- [OpenAI Launches GPT-4o Mini: A Cost-Effective AI Model](https://dev.to/aishik_chatterjee_0060e71/openai-launches-gpt-4o-mini-a-cost-effective-ai-model-3hgo)
-- [Learning Python.](https://dev.to/ibad/learning-python-288g)
-- [Handling Authentication with Supabase, Analog and tRPC](https://dev.to/chrislydemann/handling-authentication-with-supabase-analog-and-trpc-27f0)
+- [LEGACY APP MIGRATION TO AZURE](https://dev.to/danclem/legacy-app-migration-to-azure-187n)
+- [Day 11 of 100DaysOfCode](https://dev.to/koichiarai/day-11-of-100daysofcode-2k9n)
+- [Gen Z protesters used JKIA as decoy to occupy Nairobi CBD?](https://dev.to/okwenick/gen-z-protesters-used-jkia-as-decoy-to-occupy-nairobi-cbd-oci)
+- [Accessible dropdown menus that pop up](https://dev.to/emmadawsondev/accessible-dropdown-menus-that-pop-up-36db)
+- [Most Useful DevOps/Cloud GitHub Repositories to Learning and Become a DevOps Engineer ♾](https://dev.to/prodevopsguytech/most-useful-devopscloud-github-repositories-to-learning-and-become-a-devops-engineer-24k5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
