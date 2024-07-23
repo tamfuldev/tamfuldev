@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Unlock the Secrets of Image Processing and Computer Vision 🔍](https://dev.to/getvm/unlock-the-secrets-of-image-processing-and-computer-vision-1kh)
-- [Use cosmocc to cross‐compile a CMake project](https://dev.to/jcbhmr/use-cosmocc-to-cross-compile-a-cmake-project-1a1g)
-- [What are Some Biggest Myths and Misconceptions about MongoDB?](https://dev.to/codegirl0101/what-are-some-biggest-myths-and-misconceptions-about-mongodb-1b3j)
-- [Detailed Explanation of GBase 8s Database Page Structure &lpar;1&rpar;](https://dev.to/congcong/detailed-explanation-of-gbase-8s-database-page-structure-1-3akh)
-- [Mastering React Router DOM: Your Guide to Building Slick Single-Page Apps](https://dev.to/vyan/mastering-react-router-dom-your-guide-to-building-slick-single-page-apps-5g3o)
+- [Perfect Portfolio Website for you | Easy UI Diaries | Free Templates Part-7](https://dev.to/darkinventor/perfect-portfolio-website-for-you-easy-ui-diaries-free-templates-part-6-1o4i)
+- [3 cool open-source UI Frontend Components Libraries](https://dev.to/shreyvijayvargiya/3-cool-open-source-ui-frontend-components-libraries-eh8)
+- [Simplest implementation of Fumadocs | Easy UI Diaries | Free Templates Part-5](https://dev.to/darkinventor/simplest-implementation-of-fumadocs-easy-ui-diaries-free-templates-part-5-22jh)
+- [Polling 2 Python web frameworks.](https://dev.to/davitacols/polling-2-python-web-frameworks-d88)
+- [Webhooks vs. polling](https://dev.to/palomino/webhooks-vs-polling-37d1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
