@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Sending a push Notification from Firebase](https://dev.to/nagabhushan_adiga_a383471/sending-a-push-notification-from-firebase-hcg)
+- [The Differences Between &#39;Object&#39;, &#39;{}&#39;, and &#39;object&#39; in TypeScript](https://dev.to/zacharylee/the-differences-between-object-and-object-in-typescript-f6f)
+- [Supporting Older Browsers using Vite](https://dev.to/solleedata/supporting-older-browsers-using-vite-2ii)
 - [Hexo et Hugo : deux générateurs statiques bien pratiques](https://dev.to/dawhistler/hexo-et-hugo-deux-generateurs-statiques-bien-pratiques-57e)
 - [How to become a problem-solver](https://dev.to/zain725342/how-to-become-a-problem-solver-1ifc)
-- [TD Genre is Stale, What Would Fix It?](https://dev.to/chigbeef_77/td-genre-is-stale-what-would-fix-it-2goe)
-- [Roadmap to being a good Web Developer.](https://dev.to/paul_ameh_c6f95df8b725981/roadmap-to-being-a-good-web-developer-d60)
-- [Today&#39;s Trending Projects: Creating a Minesweeper Game With JavaScript and More](https://dev.to/labex/todays-trending-projects-creating-a-minesweeper-game-with-javascript-and-more-bbk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
