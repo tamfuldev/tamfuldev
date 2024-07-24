@@ -16,7 +16,7 @@
 # Latest stack oveflow activity
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><tr><td>PHP forach array with objects</td><td>https://stackoverflow.com/questions/78787600/php-forach-array-with-objects</td></tr><tr><td>MySQL data to OneDrive [closed]</td><td>https://stackoverflow.com/questions/78787509/mysql-data-to-onedrive</td></tr><tr><td>data cant be save in database</td><td>https://stackoverflow.com/questions/78787506/data-cant-be-save-in-database</td></tr><tr><td>PHP Sort a multidimensional array by date start, or if uquals, by date end</td><td>https://stackoverflow.com/questions/78787499/php-sort-a-multidimensional-array-by-date-start-or-if-uquals-by-date-end</td></tr><tr><td>How to make doctrine autofill generated values to model?</td><td>https://stackoverflow.com/questions/78787493/how-to-make-doctrine-autofill-generated-values-to-model</td></tr><!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:START --><tr><td>PHP variables changing position of HTML headings</td><td>https://stackoverflow.com/questions/78787963/php-variables-changing-position-of-html-headings</td></tr><tr><td>Given example is working on PHP MVC pattern or not? [closed]</td><td>https://stackoverflow.com/questions/78787937/given-example-is-working-on-php-mvc-pattern-or-not</td></tr><tr><td>PHP forach array with objects</td><td>https://stackoverflow.com/questions/78787600/php-forach-array-with-objects</td></tr><tr><td>MySQL data to OneDrive [closed]</td><td>https://stackoverflow.com/questions/78787509/mysql-data-to-onedrive</td></tr><tr><td>data cant be save in database [closed]</td><td>https://stackoverflow.com/questions/78787506/data-cant-be-save-in-database</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 
 ---
