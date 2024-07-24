@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to use razorpay api and integrate payment gateway](https://dev.to/ankitmalikg/how-to-use-razorpay-api-and-integrate-payment-gateway-keg)
-- [My Journey Creating My First npm Library](https://dev.to/best_codes/my-journey-creating-my-first-npm-library-15aj)
-- [AWS CDK and security group configuration &lpar;Golang&rpar;](https://dev.to/oleg_sydorov/aws-cdk-and-security-group-configuration-golang-21nl)
-- [Svelte Series-5: Props](https://dev.to/frost_gary_90f3cf1699bd02/svelte-series-5-props-d22)
-- [CLI Maker: More Than We See](https://dev.to/jairofernandez/-cli-maker-more-than-we-see-3gk4)
+- [#32 — Find The First Cell Value Meeting The Specified Condition](https://dev.to/judith677/32-find-the-first-cell-value-meeting-the-specified-condition-3mo3)
+- [Welcome Thread - v286](https://dev.to/devteam/welcome-thread-v286-3kl3)
+- [Unlocking the Power of JavaScript: Tips and Tricks for Modern Web Development](https://dev.to/test_automation/unlocking-the-power-of-javascript-tips-and-tricks-for-modern-web-development-1c54)
+- [Nginx Generic Hash Load Balancing: A Comprehensive Guide](https://dev.to/mochafreddo/nginx-generic-hash-load-balancing-a-comprehensive-guide-3bca)
+- [Navigating the Maze of Machine Learning Engineering: My Journey](https://dev.to/official_tochy/navigating-the-maze-of-machine-learning-engineering-my-journey-27cm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
