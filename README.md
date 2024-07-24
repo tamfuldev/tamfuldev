@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Sending a push Notification from Firebase](https://dev.to/nagabhushan_adiga_a383471/sending-a-push-notification-from-firebase-hcg)
-- [The Differences Between &#39;Object&#39;, &#39;{}&#39;, and &#39;object&#39; in TypeScript](https://dev.to/zacharylee/the-differences-between-object-and-object-in-typescript-f6f)
-- [Supporting Older Browsers using Vite](https://dev.to/solleedata/supporting-older-browsers-using-vite-2ii)
-- [Hexo et Hugo : deux générateurs statiques bien pratiques](https://dev.to/dawhistler/hexo-et-hugo-deux-generateurs-statiques-bien-pratiques-57e)
-- [How to become a problem-solver](https://dev.to/zain725342/how-to-become-a-problem-solver-1ifc)
+- [How to use razorpay api and integrate payment gateway](https://dev.to/ankitmalikg/how-to-use-razorpay-api-and-integrate-payment-gateway-keg)
+- [My Journey Creating My First npm Library](https://dev.to/best_codes/my-journey-creating-my-first-npm-library-15aj)
+- [AWS CDK and security group configuration &lpar;Golang&rpar;](https://dev.to/oleg_sydorov/aws-cdk-and-security-group-configuration-golang-21nl)
+- [Svelte Series-5: Props](https://dev.to/frost_gary_90f3cf1699bd02/svelte-series-5-props-d22)
+- [CLI Maker: More Than We See](https://dev.to/jairofernandez/-cli-maker-more-than-we-see-3gk4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
