@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Persistent and Immutable Java LinkedList](https://dev.to/billsoumakis/persistent-and-immutable-java-linkedlist-5a5d)
-- [Задача с собеседования в Microsoft: Наибольшая подстрока без повторяющихся символов.](https://dev.to/faangmaster/zadacha-s-sobiesiedovaniia-v-microsoft-naibolshaia-podstroka-biez-povtoriaiushchikhsia-simvolov-8hm)
-- [Understanding Eloquent Relationships in Laravel](https://dev.to/msnmongare/-understanding-eloquent-relationships-in-laravel-9ob)
-- [Build your own SQLite, Part 1: Listing tables](https://dev.to/geoffreycopin/build-your-own-sqlite-part-1-listing-tables-1b28)
-- [Day 995 : Closer](https://dev.to/dwane/day-995-closer-4g31)
+- [My Favorite Interview Questions for QA Engineers](https://dev.to/samelawrence/my-favorite-interview-questions-for-qa-engineers-485a)
+- [Work Stealing: Load-balancing for compute-heavy tasks](https://dev.to/ianmacartney/work-stealing-load-balancing-for-compute-heavy-tasks-1g77)
+- [Hi guys, I am glad to be here and excited to start coding.SSJS,SQL AND Python would be my servants now!!](https://dev.to/harsha_s_60f202b8edf78113/hi-guys-i-am-glad-to-be-here-and-excited-to-start-codingssjssql-and-python-would-be-my-servants-now-o6d)
+- [Possible topics for Python podcast](https://dev.to/nevmenandr/possible-topics-for-python-podcast-4i51)
+- [Supercharge `npm run dev` with package.json scripts](https://dev.to/ianmacartney/supercharge-npm-run-dev-with-packagejson-scripts-4l63)
 <!-- BLOG-POST-LIST:END -->
 
 ---
