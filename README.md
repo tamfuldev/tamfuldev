@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [#32 — Find The First Cell Value Meeting The Specified Condition](https://dev.to/judith677/32-find-the-first-cell-value-meeting-the-specified-condition-3mo3)
-- [Welcome Thread - v286](https://dev.to/devteam/welcome-thread-v286-3kl3)
-- [Unlocking the Power of JavaScript: Tips and Tricks for Modern Web Development](https://dev.to/test_automation/unlocking-the-power-of-javascript-tips-and-tricks-for-modern-web-development-1c54)
-- [Nginx Generic Hash Load Balancing: A Comprehensive Guide](https://dev.to/mochafreddo/nginx-generic-hash-load-balancing-a-comprehensive-guide-3bca)
-- [Navigating the Maze of Machine Learning Engineering: My Journey](https://dev.to/official_tochy/navigating-the-maze-of-machine-learning-engineering-my-journey-27cm)
+- [My first single file webpage I have no idea if this is right so pls give me some feedback](https://dev.to/barirah/my-first-single-file-webpage-i-have-no-idea-if-this-is-right-so-pls-give-me-some-feedback-1l5j)
+- [Adding A Confirmation Interstitial On Create in REST](https://dev.to/mdchaney/adding-a-confirmation-interstitial-on-create-in-rest-4an0)
+- [Protecting Your JavaScript Applications from DOM-based XSS Attacks](https://dev.to/rigalpatel001/protecting-your-javascript-applications-from-dom-based-xss-attacks-j0c)
+- [Dive into the World of Algorithms and Data Structures with C! 🚀](https://dev.to/getvm/dive-into-the-world-of-algorithms-and-data-structures-with-c-ice)
+- [CSS Transitions and Transformations](https://dev.to/tailwine/css-transitions-and-transformations-55dc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
