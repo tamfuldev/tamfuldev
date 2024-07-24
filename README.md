@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Must Have VsCode extensions for Web-developers](https://dev.to/paul_freeman/must-have-vscode-extensions-for-web-developers-13ge)
-- [Securing your secrets in AWS](https://dev.to/aws-builders/securing-your-secrets-in-aws-kh5)
-- [7.Strings Indexing &amp; Slicing](https://dev.to/ranjith_jr_fbf2e375879b08/7strings-indexing-slicing-3pb2)
-- [GitHub Actions Explained](https://dev.to/faizan711/github-actions-explained-3hkg)
-- [Using OpenTelemetry and the OTel Collector for Logs, Metrics and Traces](https://dev.to/causely/using-opentelemetry-and-the-otel-collector-for-logs-metrics-and-traces-4nm8)
+- [The One Thing Nobody Seems To Be Talking About](https://dev.to/thekarlesi/the-one-thing-nobody-seems-to-be-talking-about-5d2e)
+- [Creating Custom Annotations for Validation in Spring Boot](https://dev.to/eric6166/creating-custom-annotations-for-validation-in-spring-boot-16j1)
+- [Configuring Bedrock as your LLM with llamindex-TS](https://dev.to/aws-builders/configuring-bedrock-as-your-llm-with-llamindex-ts-3e3a)
+- [Leveraging Sitecore JSS Tags for Seamless Integration with Next.js in XM Cloud](https://dev.to/sebasab/leveraging-sitecore-jss-tags-for-seamless-integration-with-nextjs-in-xm-cloud-1d4l)
+- [Mathematics for Machine Learning - Day 16](https://dev.to/pourlehommes/mathematics-for-machine-learning-day-16-4de2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
