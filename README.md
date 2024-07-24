@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Auth with JWT + localStorage](https://dev.to/jay818/auth-with-jwt-localstorage-2g1g)
-- [Common Network Commands](https://dev.to/nayetwolf/common-network-commands-1ahk)
-- [Top 6 Red Flags in Companies](https://dev.to/m_midas/top-6-red-flags-in-companies-110d)
-- [Query](https://dev.to/akshit_patel_22/query-1ln9)
-- [Implementation of Missing Security Header Vulnerability in Apache &lpar;Part 2&rpar;](https://dev.to/rahul7007/implementation-of-missing-security-header-vulnerability-in-apache-part-2-45of)
+- [Deploy docker containers in VPS with GitHub Actions](https://dev.to/ikurotime/deploy-docker-containers-in-vps-with-github-actions-2e28)
+- [1380. Lucky Numbers in a Matrix](https://dev.to/mdarifulhaque/1380-lucky-numbers-in-a-matrix-2l11)
+- [Kubernetes security in practice: implications of running containers as root](https://dev.to/wasiucionekm/kubernetes-security-in-practice-implications-of-running-containers-as-root-474n)
+- [Implementing Drag and Drop to Arrange/Sort Items with React, Tailwind CSS, and Dnd-kit](https://dev.to/devwithshreyash/implementing-drag-and-drop-to-arrangesort-items-with-react-tailwind-css-and-dnd-kit-2b2f)
+- [How to build a Private Link Sharing App Using Next.js](https://dev.to/priyankarpal/how-to-build-a-private-link-sharing-app-using-nextjs-nap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
