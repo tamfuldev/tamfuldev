@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stack va Heap: Umumiy Tasavvur](https://dev.to/islomali99/stack-va-heap-umumiy-tasavvur-1nbi)
-- [How to setup IPv6 Only EC2 Instance in AWS](https://dev.to/praveenkumarkece/how-to-setup-ipv6-only-ec2-instance-in-aws-38kp)
-- [Understanding Value Types &lpar;Project Valhalla&rpar;](https://dev.to/adaumircosta/understanding-value-types-project-valhalla-faf)
-- [Rebalancing Trees](https://dev.to/paulike/rebalancing-trees-1e0m)
-- [Boost your coding productivity by simply Typing Faster 🤺](https://dev.to/notgamedev/faster-typing-3jik)
+- [7 Unexpected Ways Verifiable Credentials are Used Today](https://dev.to/tbdevs/7-unexpected-ways-verifiable-credentials-are-used-today-438)
+- [Bulma CSS: A Modern CSS Framework for Responsive Design](https://dev.to/arsalanmeee/bulma-css-a-modern-css-framework-for-responsive-design-5gcm)
+- [The AVLTree Class](https://dev.to/paulike/the-avltree-class-2fo2)
+- [Missed the DSA Train for 7 Months? Here’s Ultimate Guide How You Can Get Back on Track!](https://dev.to/manan_sarraf_73/missed-the-dsa-train-for-7-months-heres-ultimate-guide-how-you-can-get-back-on-track-2ecg)
+- [---[ end Kernel panic - not syncing: VFS: Unable to mount root fs on unknown-block&lpar;0,0&rpar; ]---](https://dev.to/praveenkumarkece/-end-kernel-panic-not-syncing-vfs-unable-to-mount-root-fs-on-unknown-block00--jjk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
