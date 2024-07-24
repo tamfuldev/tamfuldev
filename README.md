@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [100 Java interview questions and answers.](https://dev.to/codeswithpankaj/100-java-interview-questions-and-answers-564)
-- [What is Software and Why Do We Need to Test It? Insights from a Software Manual Testing Engineer](https://dev.to/michael_chepala_7267688a0/what-is-software-and-why-do-we-need-to-test-it-insights-from-a-software-manual-testing-engineer-364n)
-- [Comparing Fiber vs. Gin for Go web development](https://dev.to/logrocket/comparing-fiber-vs-gin-for-go-web-development-2ahd)
-- [Join us for the next Frontend Challenge: Recreation Edition](https://dev.to/devteam/join-us-for-the-next-frontend-challenge-recreation-edition-222n)
-- [Nucleoid: Neuro-Symbolic AI with Logic Graph](https://dev.to/canmingir/nucleoid-neuro-symbolic-ai-with-logic-graph-3ll6)
+- [Auth with JWT + localStorage](https://dev.to/jay818/auth-with-jwt-localstorage-2g1g)
+- [Common Network Commands](https://dev.to/nayetwolf/common-network-commands-1ahk)
+- [Top 6 Red Flags in Companies](https://dev.to/m_midas/top-6-red-flags-in-companies-110d)
+- [Query](https://dev.to/akshit_patel_22/query-1ln9)
+- [Implementation of Missing Security Header Vulnerability in Apache &lpar;Part 2&rpar;](https://dev.to/rahul7007/implementation-of-missing-security-header-vulnerability-in-apache-part-2-45of)
 <!-- BLOG-POST-LIST:END -->
 
 ---
