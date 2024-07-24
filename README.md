@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Monitor the Performance of your Python FastAPI App with AppSignal](https://dev.to/appsignal/monitor-the-performance-of-your-python-fastapi-app-with-appsignal-0)
-- [How we manage secrets, the Kubernetes way](https://dev.to/cyclops-ui/how-we-manage-secrets-the-kubernetes-way-451)
-- [Developer Digest: This Week&#39;s Top Stories &lpar;July 17-23&rpar;](https://dev.to/racheljackson/developer-digest-this-weeks-top-stories-july-17-23-296n)
-- [Fixing bugs in your AI: let&#39;s analyze bugs in OpenVINO](https://dev.to/anogneva/fixing-bugs-in-your-ai-lets-analyze-bugs-in-openvino-52b4)
-- [Day 2 of 30 of JavaScript](https://dev.to/shoyab1707/day-2-of-30-of-javascript-3kj9)
+- [Must Have VsCode extensions for Web-developers](https://dev.to/paul_freeman/must-have-vscode-extensions-for-web-developers-13ge)
+- [Securing your secrets in AWS](https://dev.to/aws-builders/securing-your-secrets-in-aws-kh5)
+- [7.Strings Indexing &amp; Slicing](https://dev.to/ranjith_jr_fbf2e375879b08/7strings-indexing-slicing-3pb2)
+- [GitHub Actions Explained](https://dev.to/faizan711/github-actions-explained-3hkg)
+- [Using OpenTelemetry and the OTel Collector for Logs, Metrics and Traces](https://dev.to/causely/using-opentelemetry-and-the-otel-collector-for-logs-metrics-and-traces-4nm8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
