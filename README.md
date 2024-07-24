@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Guard Your Digital Fortress: Essential Tips for Safeguarding Your Online Identity](https://dev.to/verifyvault/guard-your-digital-fortress-essential-tips-for-safeguarding-your-online-identity-5g98)
-- [1530. Number of Good Leaf Nodes Pairs](https://dev.to/mdarifulhaque/1530-number-of-good-leaf-nodes-pairs-3b3n)
-- [[DAY 87-89] I created a bash script to build a student database](https://dev.to/thomascansino/day-87-89-i-created-a-bash-script-to-build-a-student-database-444p)
-- [SQL Fun: Tackle 10M Records!](https://dev.to/squad_team_986b85db08e8d2/sql-fun-tackle-10m-records-a19)
-- [Building Your Own S3 Cloud Uploader CLI with Bash](https://dev.to/nlankwei5/building-your-own-s3-cloud-uploader-cli-with-bash-2jek)
+- [100 Java interview questions and answers.](https://dev.to/codeswithpankaj/100-java-interview-questions-and-answers-564)
+- [What is Software and Why Do We Need to Test It? Insights from a Software Manual Testing Engineer](https://dev.to/michael_chepala_7267688a0/what-is-software-and-why-do-we-need-to-test-it-insights-from-a-software-manual-testing-engineer-364n)
+- [Comparing Fiber vs. Gin for Go web development](https://dev.to/logrocket/comparing-fiber-vs-gin-for-go-web-development-2ahd)
+- [Join us for the next Frontend Challenge: Recreation Edition](https://dev.to/devteam/join-us-for-the-next-frontend-challenge-recreation-edition-222n)
+- [Nucleoid: Neuro-Symbolic AI with Logic Graph](https://dev.to/canmingir/nucleoid-neuro-symbolic-ai-with-logic-graph-3ll6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
