@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build Your Own Artificial Neuron: A Practical Guide for AI Beginners](https://dev.to/moubarakmohame4/build-your-own-artificial-neuron-a-practical-guide-for-ai-beginners-2lg7)
-- [Protecting Sensitive Data: Mastering String Encryption in Java 🔐👨‍💻](https://dev.to/devella/protecting-sensitive-data-mastering-string-encryption-in-java-2mld)
-- [Medidas de Posição](https://dev.to/lleticiaolli/medidas-de-posicao-28ao)
-- [SUSE Vs Debian](https://dev.to/kaustubhyerkade/suse-vs-debian-58c3)
-- [🤯 CrowdStrike Outage: Software Testing is Still Too Painful](https://dev.to/jreock/crowdstrike-outage-software-testing-is-still-too-painful-kch)
+- [Building Your First React Native App: A Step-by-Step Guide](https://dev.to/birajgtm/building-your-first-react-native-app-a-step-by-step-guide-1ibe)
+- [100% Automating Pages With AJAX Using WebFormsJS](https://dev.to/elanatframework/100-automating-pages-with-ajax-using-webformsjs-38c5)
+- [North Korean State Actors Exploit Open Source Supply Chain via Malicious npm Package](https://dev.to/stacklok/north-korean-state-actors-exploit-open-source-supply-chain-via-malicious-npm-package-4obc)
+- [Day 996 : No Flash](https://dev.to/dwane/day-996-no-flash-2k73)
+- [Generating GPG Keys and Signing Commits](https://dev.to/fariasmateuss/generating-gpg-keys-and-signing-commits-j3e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
