@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Favorite Interview Questions for QA Engineers](https://dev.to/samelawrence/my-favorite-interview-questions-for-qa-engineers-485a)
-- [Work Stealing: Load-balancing for compute-heavy tasks](https://dev.to/ianmacartney/work-stealing-load-balancing-for-compute-heavy-tasks-1g77)
-- [Hi guys, I am glad to be here and excited to start coding.SSJS,SQL AND Python would be my servants now!!](https://dev.to/harsha_s_60f202b8edf78113/hi-guys-i-am-glad-to-be-here-and-excited-to-start-codingssjssql-and-python-would-be-my-servants-now-o6d)
-- [Possible topics for Python podcast](https://dev.to/nevmenandr/possible-topics-for-python-podcast-4i51)
-- [Supercharge `npm run dev` with package.json scripts](https://dev.to/ianmacartney/supercharge-npm-run-dev-with-packagejson-scripts-4l63)
+- [Hexo et Hugo : deux générateurs statiques bien pratiques](https://dev.to/dawhistler/hexo-et-hugo-deux-generateurs-statiques-bien-pratiques-57e)
+- [How to become a problem-solver](https://dev.to/zain725342/how-to-become-a-problem-solver-1ifc)
+- [TD Genre is Stale, What Would Fix It?](https://dev.to/chigbeef_77/td-genre-is-stale-what-would-fix-it-2goe)
+- [Roadmap to being a good Web Developer.](https://dev.to/paul_ameh_c6f95df8b725981/roadmap-to-being-a-good-web-developer-d60)
+- [Today&#39;s Trending Projects: Creating a Minesweeper Game With JavaScript and More](https://dev.to/labex/todays-trending-projects-creating-a-minesweeper-game-with-javascript-and-more-bbk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
