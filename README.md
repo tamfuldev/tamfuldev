@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [7 Unexpected Ways Verifiable Credentials are Used Today](https://dev.to/tbdevs/7-unexpected-ways-verifiable-credentials-are-used-today-438)
-- [Bulma CSS: A Modern CSS Framework for Responsive Design](https://dev.to/arsalanmeee/bulma-css-a-modern-css-framework-for-responsive-design-5gcm)
-- [The AVLTree Class](https://dev.to/paulike/the-avltree-class-2fo2)
-- [Missed the DSA Train for 7 Months? Here’s Ultimate Guide How You Can Get Back on Track!](https://dev.to/manan_sarraf_73/missed-the-dsa-train-for-7-months-heres-ultimate-guide-how-you-can-get-back-on-track-2ecg)
-- [---[ end Kernel panic - not syncing: VFS: Unable to mount root fs on unknown-block&lpar;0,0&rpar; ]---](https://dev.to/praveenkumarkece/-end-kernel-panic-not-syncing-vfs-unable-to-mount-root-fs-on-unknown-block00--jjk)
+- [Build Your Own Artificial Neuron: A Practical Guide for AI Beginners](https://dev.to/moubarakmohame4/build-your-own-artificial-neuron-a-practical-guide-for-ai-beginners-2lg7)
+- [Protecting Sensitive Data: Mastering String Encryption in Java 🔐👨‍💻](https://dev.to/devella/protecting-sensitive-data-mastering-string-encryption-in-java-2mld)
+- [Medidas de Posição](https://dev.to/lleticiaolli/medidas-de-posicao-28ao)
+- [SUSE Vs Debian](https://dev.to/kaustubhyerkade/suse-vs-debian-58c3)
+- [🤯 CrowdStrike Outage: Software Testing is Still Too Painful](https://dev.to/jreock/crowdstrike-outage-software-testing-is-still-too-painful-kch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
