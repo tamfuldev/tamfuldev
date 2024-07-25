@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Inline Save and Add Another with Rails and Hotwire](https://dev.to/railsdesigner/inline-save-and-add-another-with-rails-and-hotwire-501m)
-- [Creating a CSV to Graph Generator App Using ToolJet and Python Libraries 🚀](https://dev.to/tooljet/creating-a-csv-to-graph-generator-app-using-tooljet-and-python-libraries-18nb)
-- [JavaScript and HTML](https://dev.to/ark7/javascript-and-html-1d14)
-- [Migrating MySQL Database to PostgreSQL with SQL Tools](https://dev.to/senkae_ll/migrating-mysql-database-to-postgresql-with-sql-tools-315o)
-- [Redis for query caching](https://dev.to/asepwhite/redis-for-query-caching-31o5)
+- [Creating an Interactive Authors Directory: Fetching Data, Pagination, and DOM Updates](https://dev.to/mrigank_bhardwaj1304/creating-an-interactive-authors-directory-fetching-data-pagination-and-dom-updates-3ol6)
+- [Building Better Developers](https://dev.to/opensauced/building-better-developers-25ef)
+- [OAuth vs. JWT: Ultimate Comparison](https://dev.to/permify/oauth-vs-jwt-ultimate-comparison-3nd2)
+- [Data Privacy in 2024: Innovations, Regulations, and Best Practices](https://dev.to/digitalsamba/data-privacy-in-2024-innovations-regulations-and-best-practices-4894)
+- [Announcing Rust 1.80.0](https://dev.to/francescoxx/announcing-rust-1800-2njd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
