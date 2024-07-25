@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [viewabilityConfigCallbackPairs](https://dev.to/hatta_food_6b1eee94b41c7e/viewabilityconfigcallbackpairs-1e3i)
-- [JavaScript MMORPG - Maiu Online - #babylonjs - Ep31: Inventory, drop and pickup items](https://dev.to/maiu/javascript-mmorpg-maiu-online-babylonjs-ep31-inventory-drop-and-pickup-items-3cb9)
-- [FastAPI Todo App: Setting Up Your Todo App Project](https://dev.to/jamesbmour/fastapi-todo-app-setting-up-your-todo-app-project-5dee)
-- [How To Create Storage Account In Azure Portal](https://dev.to/romanus_onyekwere/how-to-create-storage-account-in-azure-portal-48im)
-- [How To Create Storage Account In Azure Portal](https://dev.to/romanus_onyekwere/how-to-create-storage-account-in-azure-portal-2hp9)
+- [Frontend Challenge August: Cricket League](https://dev.to/kevin-uehara/frontend-challenge-august-cricket-league-4mf3)
+- [Introducing Narrative Nooks: A New Way to Inspire and Educate Kids](https://dev.to/john_rice_e2cbb71e89a3933/introducing-narrative-nooks-a-new-way-to-inspire-and-educate-kids-2ina)
+- [2 Github Profile READMEs that Stand out](https://dev.to/mikeselva123/2-github-profile-readmes-that-stand-out-2d38)
+- [What this blog is for...](https://dev.to/dolly135/what-this-blog-is-for-35a9)
+- [[Rust]How to make string handing to frontend on tauri app](https://dev.to/nk_maker/rusthow-to-make-string-handing-to-frontend-on-tauri-app-4h2c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
