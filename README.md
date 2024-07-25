@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Practical use of TCO and Pricing Calculator for Cost Management.](https://dev.to/emeka_moses_c752f2bdde061/practical-use-of-tco-and-pricing-calculator-for-cost-management-5a74)
+- [What is Observability and how to unleash the power of data analytics with NRQL](https://dev.to/tobidelly/what-is-observability-and-how-to-unleash-the-power-of-data-analytics-with-nrql-7hd)
+- [Criando UX com texto &lpar;markdown&rpar;](https://dev.to/dougsource/criando-ux-com-texto-markdown-4aae)
+- [Solidity Basics](https://dev.to/busycaesar/solidity-basics-2n6l)
 - [A Step-by-Step Guide to Creating and Verifying Factories in Rails](https://dev.to/alexandrecalaca/a-step-by-step-guide-to-creating-and-verifying-factories-in-rails-1m48)
-- [Top 8 Best Crypto Games Based on the TON Network](https://dev.to/cryptogem/top-8-best-crypto-games-based-on-the-ton-network-34ok)
-- [TypeScript](https://dev.to/alamfatima1999/typescript-3iac)
-- [Today&#39;s Trending Projects: Query Teacher Salary Using PreparedStatement and More](https://dev.to/labex/todays-trending-projects-query-teacher-salary-using-preparedstatement-and-more-25ck)
-- [Lite-XL과 함께한 5일](https://dev.to/teminian/lite-xlgwa-hamggehan-5il-453b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
