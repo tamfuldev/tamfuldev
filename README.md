@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Adventures of Blink Hiatus Post: Join me at the Dev Marketing Alliance!](https://dev.to/linkbenjamin/the-adventures-of-blink-hiatus-post-join-me-at-the-dev-marketing-alliance-100d)
-- [Developing An Internal Developer Platform](https://dev.to/adi271001/developing-an-internal-developer-platform-3dn8)
-- [How I promoted my open source repo to 6k stars in 6 months](https://dev.to/wasp/how-i-promoted-my-open-source-repo-to-6k-stars-in-6-months-3li9)
-- [The Magical Redis Cache: A Website&#39;s Best Friend](https://dev.to/syketb/the-magical-redis-cache-a-websites-best-friend-5340)
-- [How to add a custom fonts in react native](https://dev.to/amitkumar13/how-to-add-a-custom-fonts-in-react-native-2mgi)
+- [Inline Save and Add Another with Rails and Hotwire](https://dev.to/railsdesigner/inline-save-and-add-another-with-rails-and-hotwire-501m)
+- [Creating a CSV to Graph Generator App Using ToolJet and Python Libraries 🚀](https://dev.to/tooljet/creating-a-csv-to-graph-generator-app-using-tooljet-and-python-libraries-18nb)
+- [JavaScript and HTML](https://dev.to/ark7/javascript-and-html-1d14)
+- [Migrating MySQL Database to PostgreSQL with SQL Tools](https://dev.to/senkae_ll/migrating-mysql-database-to-postgresql-with-sql-tools-315o)
+- [Redis for query caching](https://dev.to/asepwhite/redis-for-query-caching-31o5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
