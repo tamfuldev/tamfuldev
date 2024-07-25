@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why React Native is a Good Choice for Cross-Platform Native App Development](https://dev.to/mandeepneupane/why-react-native-is-a-good-choice-for-cross-platform-native-app-development-17eb)
-- [8 Essential Skills for Successful Macro Management](https://dev.to/bryany/8-essential-skills-for-successful-macro-management-1842)
-- [Comandos Linux para analisar ataques DDoS](https://dev.to/fernandomullerjr/comandos-linux-para-analisar-ataques-ddos-1ib)
-- [Practical use of TCO and Pricing Calculator for Cost Management.](https://dev.to/emeka_moses_c752f2bdde061/practical-use-of-tco-and-pricing-calculator-for-cost-management-5a74)
-- [Beyond Code: 6 Lessons I Learned the Hard Way in Tech](https://dev.to/acehand/beyond-code-6-lessons-i-learned-the-hard-way-in-tech-1fi4)
+- [Automate Upstream Branch Creation in Git](https://dev.to/labex/automate-upstream-branch-creation-in-git-2750)
+- [How to Increase Organic Website Traffic and Get SEO-Friendly Backlinks](https://dev.to/juddiy/how-to-increase-organic-website-traffic-and-get-seo-friendly-backlinks-338e)
+- [167. Two Sum II - Input Array Is Sorted](https://dev.to/whereislijah/167-two-sum-ii-input-array-is-sorted-4llo)
+- [#33 — Find The Differences Between Contents of Two Cells](https://dev.to/judith677/33-find-the-differences-between-contents-of-two-cells-hh2)
+- [Hiring a Remote Blockchain Developer &lpar;Python/Solidity / Smart Contract&rpar;](https://dev.to/carlos_christiangil_452d/hiring-a-remote-blockchain-developer-pythonsolidity-smart-contract-2kp4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
