@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What If CrowdStrike Used APItoolkit Instead?](https://dev.to/irhose/what-if-crowdstrike-used-apitoolkit-2bpe)
-- [The OSI Model: A Comprehensive Overview](https://dev.to/m__mdy__m/the-osi-model-a-comprehensive-overview-52j5)
-- [100 Days of Cloud: Day 10 – Building a Paystack Webhook with Google Apps Script](https://dev.to/tutorialhelldev/100-days-of-cloud-day-10-building-a-paystack-webhook-with-google-apps-script-ik9)
-- [My first 10 years in the world of development](https://dev.to/cadienvan/my-first-10-years-in-the-world-of-development-2l4j)
-- [AVIF to GIF: A Guide to Converting Modern Image Formats](https://dev.to/msmith99994/avif-to-gif-a-guide-to-converting-modern-image-formats-2n7m)
+- [viewabilityConfigCallbackPairs](https://dev.to/hatta_food_6b1eee94b41c7e/viewabilityconfigcallbackpairs-1e3i)
+- [JavaScript MMORPG - Maiu Online - #babylonjs - Ep31: Inventory, drop and pickup items](https://dev.to/maiu/javascript-mmorpg-maiu-online-babylonjs-ep31-inventory-drop-and-pickup-items-3cb9)
+- [FastAPI Todo App: Setting Up Your Todo App Project](https://dev.to/jamesbmour/fastapi-todo-app-setting-up-your-todo-app-project-5dee)
+- [How To Create Storage Account In Azure Portal](https://dev.to/romanus_onyekwere/how-to-create-storage-account-in-azure-portal-48im)
+- [How To Create Storage Account In Azure Portal](https://dev.to/romanus_onyekwere/how-to-create-storage-account-in-azure-portal-2hp9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
