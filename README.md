@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Why React Native is a Good Choice for Cross-Platform Native App Development](https://dev.to/mandeepneupane/why-react-native-is-a-good-choice-for-cross-platform-native-app-development-17eb)
+- [8 Essential Skills for Successful Macro Management](https://dev.to/bryany/8-essential-skills-for-successful-macro-management-1842)
+- [Comandos Linux para analisar ataques DDoS](https://dev.to/fernandomullerjr/comandos-linux-para-analisar-ataques-ddos-1ib)
 - [Practical use of TCO and Pricing Calculator for Cost Management.](https://dev.to/emeka_moses_c752f2bdde061/practical-use-of-tco-and-pricing-calculator-for-cost-management-5a74)
-- [What is Observability and how to unleash the power of data analytics with NRQL](https://dev.to/tobidelly/what-is-observability-and-how-to-unleash-the-power-of-data-analytics-with-nrql-7hd)
-- [Criando UX com texto &lpar;markdown&rpar;](https://dev.to/dougsource/criando-ux-com-texto-markdown-4aae)
-- [Solidity Basics](https://dev.to/busycaesar/solidity-basics-2n6l)
-- [A Step-by-Step Guide to Creating and Verifying Factories in Rails](https://dev.to/alexandrecalaca/a-step-by-step-guide-to-creating-and-verifying-factories-in-rails-1m48)
+- [Beyond Code: 6 Lessons I Learned the Hard Way in Tech](https://dev.to/acehand/beyond-code-6-lessons-i-learned-the-hard-way-in-tech-1fi4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
