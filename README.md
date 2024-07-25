@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding GitHub Webhooks: Leveraging Reverse Proxy with Ngrok for Local Development](https://dev.to/selmaguedidi/understanding-github-webhooks-leveraging-reverse-proxy-with-ngrok-for-local-development-2k7n)
-- [Enhance Your Rails 7 App with Stimulus.js and JavaScript Integration](https://dev.to/shahzaib/enhance-your-rails-7-app-with-stimulusjs-and-javascript-integration-5clf)
-- [yedekleme](https://dev.to/ozcankara/yedekleme-4lok)
-- [demo-1](https://dev.to/ozcankara/demo-1-d6l)
-- [The Power of Jest and React Native Testing Library Combined](https://dev.to/paulocappa/the-power-of-jest-and-react-native-testing-library-combined-289h)
+- [A Step-by-Step Guide to Creating and Verifying Factories in Rails](https://dev.to/alexandrecalaca/a-step-by-step-guide-to-creating-and-verifying-factories-in-rails-1m48)
+- [Top 8 Best Crypto Games Based on the TON Network](https://dev.to/cryptogem/top-8-best-crypto-games-based-on-the-ton-network-34ok)
+- [TypeScript](https://dev.to/alamfatima1999/typescript-3iac)
+- [Today&#39;s Trending Projects: Query Teacher Salary Using PreparedStatement and More](https://dev.to/labex/todays-trending-projects-query-teacher-salary-using-preparedstatement-and-more-25ck)
+- [Lite-XL과 함께한 5일](https://dev.to/teminian/lite-xlgwa-hamggehan-5il-453b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
