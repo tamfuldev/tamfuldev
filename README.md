@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Simple Markdown to HTML Converter in Python](https://dev.to/stokry/how-to-create-a-simple-markdown-to-html-converter-in-python-14li)
-- [7 Best JMeter Alternative](https://dev.to/sattyam/7-best-jmeter-alternative-25b4)
-- [The 5 Ways to Ace Most Common Software Engineer Behavioral Interview Questions](https://dev.to/thekarlesi/the-5-ways-to-ace-most-common-software-engineer-behavioral-interview-questions-254c)
-- [Accessibility Considerations with Stacked Cards Custom Layout](https://dev.to/eevajonnapanula/accessibility-considerations-with-stacked-cards-custom-layout-25me)
-- [Mastering Micro-Frontends: Architecting a Modular Frontend Application](https://dev.to/joshuawasike/mastering-micro-frontends-architecting-a-modular-frontend-application-4m89)
+- [The Adventures of Blink Hiatus Post: Join me at the Dev Marketing Alliance!](https://dev.to/linkbenjamin/the-adventures-of-blink-hiatus-post-join-me-at-the-dev-marketing-alliance-100d)
+- [Developing An Internal Developer Platform](https://dev.to/adi271001/developing-an-internal-developer-platform-3dn8)
+- [How I promoted my open source repo to 6k stars in 6 months](https://dev.to/wasp/how-i-promoted-my-open-source-repo-to-6k-stars-in-6-months-3li9)
+- [The Magical Redis Cache: A Website&#39;s Best Friend](https://dev.to/syketb/the-magical-redis-cache-a-websites-best-friend-5340)
+- [How to add a custom fonts in react native](https://dev.to/amitkumar13/how-to-add-a-custom-fonts-in-react-native-2mgi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
