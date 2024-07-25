@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Creating an Interactive Authors Directory: Fetching Data, Pagination, and DOM Updates](https://dev.to/mrigank_bhardwaj1304/creating-an-interactive-authors-directory-fetching-data-pagination-and-dom-updates-3ol6)
-- [Building Better Developers](https://dev.to/opensauced/building-better-developers-25ef)
-- [OAuth vs. JWT: Ultimate Comparison](https://dev.to/permify/oauth-vs-jwt-ultimate-comparison-3nd2)
-- [Data Privacy in 2024: Innovations, Regulations, and Best Practices](https://dev.to/digitalsamba/data-privacy-in-2024-innovations-regulations-and-best-practices-4894)
-- [Announcing Rust 1.80.0](https://dev.to/francescoxx/announcing-rust-1800-2njd)
+- [Create an Engaging React PDF Viewer: a Step-by-Step Guide](https://dev.to/fileforge/create-an-engaging-react-pdf-viewer-a-step-by-step-guide-1hdl)
+- [What are your thoughts on the Rails community?](https://dev.to/nickytonline/what-are-your-thoughts-on-the-rails-community-3p3o)
+- [DAY 8 PROJECT: FEEDBACK UI PAGE](https://dev.to/shrishti_srivastava_/day-8-project-feedback-ui-page-2546)
+- [Flutter: Replace your app icon easily](https://dev.to/arcawebch/flutter-replace-your-app-icon-easily-fb5)
+- [How to deal with the Frankenstein Software Monster](https://dev.to/kalisen/how-to-deal-with-the-frankenstein-software-monster-1jnc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
