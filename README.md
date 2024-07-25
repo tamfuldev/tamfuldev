@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Your First React Native App: A Step-by-Step Guide](https://dev.to/birajgtm/building-your-first-react-native-app-a-step-by-step-guide-1ibe)
-- [100% Automating Pages With AJAX Using WebFormsJS](https://dev.to/elanatframework/100-automating-pages-with-ajax-using-webformsjs-38c5)
-- [North Korean State Actors Exploit Open Source Supply Chain via Malicious npm Package](https://dev.to/stacklok/north-korean-state-actors-exploit-open-source-supply-chain-via-malicious-npm-package-4obc)
-- [Day 996 : No Flash](https://dev.to/dwane/day-996-no-flash-2k73)
-- [Generating GPG Keys and Signing Commits](https://dev.to/fariasmateuss/generating-gpg-keys-and-signing-commits-j3e)
+- [Understanding GitHub Webhooks: Leveraging Reverse Proxy with Ngrok for Local Development](https://dev.to/selmaguedidi/understanding-github-webhooks-leveraging-reverse-proxy-with-ngrok-for-local-development-2k7n)
+- [Enhance Your Rails 7 App with Stimulus.js and JavaScript Integration](https://dev.to/shahzaib/enhance-your-rails-7-app-with-stimulusjs-and-javascript-integration-5clf)
+- [yedekleme](https://dev.to/ozcankara/yedekleme-4lok)
+- [demo-1](https://dev.to/ozcankara/demo-1-d6l)
+- [The Power of Jest and React Native Testing Library Combined](https://dev.to/paulocappa/the-power-of-jest-and-react-native-testing-library-combined-289h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
