@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Benchmark shattering: 122-language reading comprehension dataset expands multilingual NLP testing](https://dev.to/mikeyoung44/benchmark-shattering-122-language-reading-comprehension-dataset-expands-multilingual-nlp-testing-274g)
-- [Building and Training a Neural Network with PyTorch: A Step-by-Step Guide](https://dev.to/chibueze/building-and-training-a-neural-network-with-pytorch-a-step-by-step-guide-o52)
-- [Teamwork](https://dev.to/techstuff/teamwork-2lb2)
-- [React Portals Explained: A Guide for Developers](https://dev.to/anagha_gn_e3e7db403e6f6c9/unleashing-the-power-of-vyuh-building-scalable-flutter-apps-with-ease-2bg4)
-- [Understanding Kubernetes Autoscaling Dimensions](https://dev.to/buzzgk/understanding-kubernetes-autoscaling-dimensions-4ica)
+- [Integrating MediaElement.js into a Custom HTML5 Video Player](https://dev.to/sh20raj/integrating-mediaelementjs-into-a-custom-html5-video-player-390p)
+- [How to Integrate Intelligent Document Processing into Your Business Workflow?](https://dev.to/lokeshjoshi/how-to-integrate-intelligent-document-processing-into-your-business-workflow-3b8d)
+- [NestJS Testing Simplified &lpar;Video series&rpar;](https://dev.to/tkssharma/nestjs-testing-simplified-video-series-54e9)
+- [Data Modelling for Multi tenancy apps.](https://dev.to/brightonmboya/data-modelling-for-multi-tenancy-apps-hob)
+- [What would you consider in mind while writing code in Java Application?](https://dev.to/farheen_sk/what-would-you-consider-in-mind-while-writing-code-in-java-application-ge7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
