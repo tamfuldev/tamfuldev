@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [3D Tetris Game Boy](https://dev.to/dan52242644dan/3d-tetris-game-boy-42f6)
-- [WebP to GIF: A Guide to Converting Modern Image Formats](https://dev.to/msmith99994/webp-to-gif-a-guide-to-converting-modern-image-formats-5caf)
-- [OOP concepts are importants](https://dev.to/aadarshk7/oop-concepts-are-importants-1ho5)
-- [Convert Your Image to AVIF](https://dev.to/msmith99994/convert-your-image-to-avif-48fp)
-- [Convert your Image to PNG](https://dev.to/msmith99994/convert-your-image-to-53b0)
+- [Week 2 - Creating Simple Blog App](https://dev.to/jjayfabor/week-2-creating-simple-blog-app-ie1)
+- [The Key to Successful Deployments: Understanding Your Application&#39;s &quot;Ingredients&quot;](https://dev.to/mibii/the-key-to-successful-deployments-understanding-your-applications-ingredients-4lk0)
+- [Today&#39;s Trending Projects: Statement for Querying Classroom Table and More](https://dev.to/labex/todays-trending-projects-statement-for-querying-classroom-table-and-more-3mdd)
+- [Stack Overflow Survey is out, and what is this??](https://dev.to/webjose/stack-overflow-survey-is-out-and-what-is-this-29e7)
+- [JPG to JXL: A Guide to Converting Modern Image Formats](https://dev.to/msmith99994/jpg-to-jxl-a-guide-to-converting-modern-image-formats-5el3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
