@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Chrome extension](https://dev.to/sh20raj/creating-a-chrome-extension-nc9)
-- [How to deploy a Next.js app to a VPS on Hetzner using Docker and GitHub Actions](https://dev.to/prudkohliad/how-to-deploy-a-nextjs-app-to-a-vps-on-hetzner-using-docker-and-github-actions-55ch)
-- [Little More Life Cycle Handling](https://dev.to/andrious/little-more-life-cycle-handling-1fp0)
-- [What have I been working on for my docker-like solution native to macOS](https://dev.to/okerew/what-have-i-been-working-on-for-my-docker-like-solution-native-to-macos-256g)
-- [Recommended Project: Creating Interactive Bar Charts with ECharts](https://dev.to/labex/recommended-project-creating-interactive-bar-charts-with-echarts-5ge9)
+- [Apollo GraphQL Integration in Jetpack Compose](https://dev.to/azzamaddouri/apollo-graphql-integration-in-jetpack-compose-3ij3)
+- [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://dev.to/mdarifulhaque/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance-2afa)
+- [Online MCA Programs : Navigating the Future of Computer Science Education](https://dev.to/eazealliance/online-mca-programs-navigating-the-future-of-computer-science-education-4afa)
+- [Cyclops - My Kubernetes Cloud Mate](https://dev.to/sarthakkarora/cyclops-my-kubernetes-cloud-mate-27l2)
+- [Weekly Updates - July 26, 2024](https://dev.to/couchbase/weekly-updates-july-26-2024-349n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
