@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why you should try React Query?](https://dev.to/codeparrot/why-you-should-try-react-query-5d0g)
-- [10 Essential Mobile App Development Trends for 2024](https://dev.to/theintellify1/10-essential-mobile-app-development-trends-for-2024-40cp)
-- [Exploring the Benefits and Challenges of Virtual Reality &lpar;VR&rpar; in Project Planning and Simulation](https://dev.to/joshuawasike/exploring-the-benefits-and-challenges-of-virtual-reality-vr-in-project-planning-and-simulation-4of0)
-- [Moving from Create-React-App to Vite for Web3Auth Projects](https://dev.to/shahbaz17/moving-from-create-react-app-to-vite-for-web3auth-projects-4nce)
-- [Unlocking Your Coding Potential: A Completion of Python Courses in Kochi](https://dev.to/liya4/unlocking-your-coding-potential-a-completion-of-python-courses-in-kochi-43a9)
+- [Sapiente laboris nos](https://dev.to/marufhossen/sapiente-laboris-nos-5a8g)
+- [Transforming Data into Insightful Visualizations: My Tableau Journey](https://dev.to/clare_c/transforming-data-into-insightful-visualizations-my-tableau-journey-3220)
+- [The Only FullStack RoadMap for 2024](https://dev.to/sidhxntt/the-only-fullstack-roadmap-for-2024-2gdd)
+- [Voxel51 Filtered Views Newsletter - July 26, 2024](https://dev.to/voxel51/voxel51-filtered-views-newsletter-july-26-2024-869)
+- [Understanding How Generative AI Works](https://dev.to/brilworks/understanding-how-generative-ai-works-3k3h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
