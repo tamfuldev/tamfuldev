@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Week 2 - Creating Simple Blog App](https://dev.to/jjayfabor/week-2-creating-simple-blog-app-ie1)
-- [The Key to Successful Deployments: Understanding Your Application&#39;s &quot;Ingredients&quot;](https://dev.to/mibii/the-key-to-successful-deployments-understanding-your-applications-ingredients-4lk0)
-- [Today&#39;s Trending Projects: Statement for Querying Classroom Table and More](https://dev.to/labex/todays-trending-projects-statement-for-querying-classroom-table-and-more-3mdd)
-- [Stack Overflow Survey is out, and what is this??](https://dev.to/webjose/stack-overflow-survey-is-out-and-what-is-this-29e7)
-- [JPG to JXL: A Guide to Converting Modern Image Formats](https://dev.to/msmith99994/jpg-to-jxl-a-guide-to-converting-modern-image-formats-5el3)
+- [Setting Up a Development Environment Using Laravel Sail &lpar;Docker&rpar;](https://dev.to/guilherme-lauxen/setting-up-a-development-environment-using-laravel-sail-docker-2fn0)
+- [What You&#39;ll Need To Start Coding in HTML](https://dev.to/thekarlesi/what-youll-need-to-start-coding-in-html-14b6)
+- [Saga Solid de uma forma divertida&lpar;S&rpar;](https://dev.to/isaquepf/saga-solid-de-uma-forma-divertidas-28mb)
+- [Beginner&#39;s Guide to Git Commands](https://dev.to/samarjaffri/beginners-guide-to-git-commands-495b)
+- [Introduction to the Ethereum network](https://dev.to/enzo_jesus/introduction-to-the-ethereum-network-34ab)
 <!-- BLOG-POST-LIST:END -->
 
 ---
