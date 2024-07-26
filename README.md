@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Implement React v18 from Scratch Using WASM and Rust - [20] Implement Context](https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-20-implement-context-2h3i)
-- [Top 10 Java Libraries Every Developer Should Know](https://dev.to/mediageneous/top-10-java-libraries-every-developer-should-know-289g)
-- [Boost Your Website&#39;s Google Ranking for Free](https://dev.to/juddiy/boost-your-websites-google-ranking-for-free-55o7)
-- [The Impact of Toxic Positivity on Employee Well-being](https://dev.to/bryany/the-impact-of-toxic-positivity-on-employee-well-being-4ke6)
-- [⚡ MySecondApp - React Native with Expo &lpar;P12&rpar; - Layout Login Phone Screen](https://dev.to/skipperhoa/mysecondapp-react-native-with-expo-p12-layout-login-phone-screen-3hg4)
+- [My accounts has been Hacked &lpar;compromised&rpar;](https://dev.to/craftingbugs/my-accounts-has-been-hacked-compromised-3o3l)
+- [A Deep Dive into Solidity Visibility Specifiers: Public, Private, Internal, and External](https://dev.to/oxrajesh/a-deep-dive-into-solidity-visibility-specifiers-public-private-internal-and-external-8a)
+- [Dive into the World of Web Development with this Incredible HTML and CSS Crash Course! 🚀](https://dev.to/getvm/dive-into-the-world-of-web-development-with-this-incredible-html-and-css-crash-course-lf8)
+- [Exciting Update: Enhanced JSON Viewer Tools! 🎉](https://dev.to/bugblitz98/exciting-update-enhanced-json-viewer-tools-5ea1)
+- [React vs. Next.js: The Ultimate Guide for Modern Web Development in 2024](https://dev.to/vyan/react-vs-nextjs-the-ultimate-guide-for-modern-web-development-in-2024-4j0k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
