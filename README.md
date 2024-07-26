@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Integration Testing : Concept](https://dev.to/jay818/integration-testing-concept-k40)
-- [Benefits of Code Reviews for Team Collaboration and Code Quality](https://dev.to/wallacefreitas/benefits-of-code-reviews-for-team-collaboration-and-code-quality-4gco)
-- [Building a Travel Support Agent with RAG and PostgreSQL, Using IaC.](https://dev.to/aws/building-a-travel-support-agent-with-rag-and-postgresql-using-iac-4cbf)
-- [Cypress vs Playwright:In-Depth Comparison](https://dev.to/morrismoses149/cypress-vs-playwrightin-depth-comparison-1fid)
-- [Contact center analytics using AI](https://dev.to/vikas_brilworks/contact-center-analytics-using-ai-1p0c)
+- [It’s Time to Move on From Agile Development](https://dev.to/safdarali/its-time-to-move-on-from-agile-development-emp)
+- [9 Tips for Building a Secure Web Application with tRPC, Next.js, Prisma, Turbo, and NextAuth](https://dev.to/ktmouk/9-tips-for-building-a-secure-web-application-with-trpc-nextjs-prisma-turbo-and-nextauth-55l2)
+- [Peter Peret Lupo from Sibli | DORA Implementation &amp; Tech Debt](https://dev.to/grocto/peter-peret-lupo-from-sibli-dora-implementation-tech-debt-4k60)
+- [Different Ways to Validate Forms in React JS](https://dev.to/muhammedshamal/different-ways-to-validate-forms-in-react-js-563j)
+- [Who is responsible for the code?](https://dev.to/developerslife/who-is-responsible-for-the-code-4nnn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
