@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [It’s Time to Move on From Agile Development](https://dev.to/safdarali/its-time-to-move-on-from-agile-development-emp)
-- [9 Tips for Building a Secure Web Application with tRPC, Next.js, Prisma, Turbo, and NextAuth](https://dev.to/ktmouk/9-tips-for-building-a-secure-web-application-with-trpc-nextjs-prisma-turbo-and-nextauth-55l2)
-- [Peter Peret Lupo from Sibli | DORA Implementation &amp; Tech Debt](https://dev.to/grocto/peter-peret-lupo-from-sibli-dora-implementation-tech-debt-4k60)
-- [Different Ways to Validate Forms in React JS](https://dev.to/muhammedshamal/different-ways-to-validate-forms-in-react-js-563j)
-- [Who is responsible for the code?](https://dev.to/developerslife/who-is-responsible-for-the-code-4nnn)
+- [What is Response Mapping in API Integration?](https://dev.to/apidna/what-is-response-mapping-in-api-integration-57o)
+- [Building a Complete IoT Solution Using Azure: Device Registration, Simulation, and Data Routing](https://dev.to/florence_8042063da11e29d1/building-a-complete-iot-solution-using-azure-device-registration-simulation-and-data-routing-58lc)
+- [YaCaC &lpar;Yet another Comment about Comments&rpar;](https://dev.to/pinotattari/yacac-yet-another-comment-about-comments-42jm)
+- [Mathematics for Machine Learning - Day 18](https://dev.to/pourlehommes/mathematics-for-machine-learning-day-18-6ai)
+- [Introducing GPUStack: An open-source GPU cluster manager for running LLMs](https://dev.to/seal-software/introducing-gpustack-an-open-source-gpu-cluster-manager-for-running-llms-2kol)
 <!-- BLOG-POST-LIST:END -->
 
 ---
