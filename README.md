@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What is TAC and What is it For?](https://dev.to/ionegarza/what-is-tac-and-what-is-it-for-5g77)
-- [Reinforcement Learning from Scratch - Part 1 - Tabular Q Learning](https://dev.to/akshayballal/reinforcement-learning-from-scratch-part-1-tabular-q-learning-22k3)
-- [Explained: Microsoft Windows outage &lpar;CrowdStrike&rpar;](https://dev.to/outofbounds500/explained-microsoft-windows-outage-crowdstrike-589c)
-- [Preventing Weak Cryptography in JavaScript](https://dev.to/rigalpatel001/preventing-weak-cryptography-in-javascript-395k)
-- [Importing Toots from Mastodon to WordPress Posts Using Google Apps Script](https://dev.to/ayumisato/importing-toots-from-mastodon-to-wordpress-posts-using-google-apps-script-24mg)
+- [Building a Rust Command-Line Utility - wc-rs](https://dev.to/gauravgahlot/building-a-rust-command-line-utility-wc-rs-3ga6)
+- [Oracle Has A Better Generative AI Strategy, What Analysts Say](https://dev.to/astutemarketing/oracle-has-a-better-generative-ai-strategy-what-analysts-say-6jh)
+- [Setting Up Datadog Agent for Nginx Log Collection on AWS EC2](https://dev.to/manojspace/setting-up-datadog-agent-for-nginx-log-collection-on-aws-ec2-1bjj)
+- [Understanding Tdd vs Bdd : A Guide For Developers](https://dev.to/keploy/understanding-tdd-vs-bdd-a-guide-for-developers-5e68)
+- [Understanding Pure Components in React](https://dev.to/code_master/understanding-pure-components-in-react-14le)
 <!-- BLOG-POST-LIST:END -->
 
 ---
