@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Sapiente laboris nos](https://dev.to/marufhossen/sapiente-laboris-nos-5a8g)
-- [Transforming Data into Insightful Visualizations: My Tableau Journey](https://dev.to/clare_c/transforming-data-into-insightful-visualizations-my-tableau-journey-3220)
-- [The Only FullStack RoadMap for 2024](https://dev.to/sidhxntt/the-only-fullstack-roadmap-for-2024-2gdd)
-- [Voxel51 Filtered Views Newsletter - July 26, 2024](https://dev.to/voxel51/voxel51-filtered-views-newsletter-july-26-2024-869)
-- [Understanding How Generative AI Works](https://dev.to/brilworks/understanding-how-generative-ai-works-3k3h)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-33jf)
+- [java](https://dev.to/santa1701/java-4fbd)
+- [OpenTelemetry - The future is Open](https://dev.to/tobidelly/opentelemetry-the-future-is-open-68j)
+- [Deploying TypeScript Type Definitions for Umbraco v14 Packages](https://dev.to/mattbrailsford/deploying-typescript-type-definitions-for-umbraco-v14-packages-5eg4)
+- [Tech AI Fridays](https://dev.to/techdogs_inc/tech-ai-fridays-58m1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
