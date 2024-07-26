@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Apollo GraphQL Integration in Jetpack Compose](https://dev.to/azzamaddouri/apollo-graphql-integration-in-jetpack-compose-3ij3)
-- [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://dev.to/mdarifulhaque/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance-2afa)
-- [Online MCA Programs : Navigating the Future of Computer Science Education](https://dev.to/eazealliance/online-mca-programs-navigating-the-future-of-computer-science-education-4afa)
-- [Cyclops - My Kubernetes Cloud Mate](https://dev.to/sarthakkarora/cyclops-my-kubernetes-cloud-mate-27l2)
-- [Weekly Updates - July 26, 2024](https://dev.to/couchbase/weekly-updates-july-26-2024-349n)
+- [Choosing a Cloud Provider: Deep Considerations for the Experienced DevOps Professional](https://dev.to/target-ops/choosing-a-cloud-provider-deep-considerations-for-the-experienced-devops-professional-37ed)
+- [The Magic of Flask Login](https://dev.to/gasparericmartin/the-magic-of-flask-login-4df8)
+- [Good Practices Using Node.js + Sequelize with TypeScript](https://dev.to/luizcalaca/good-practices-using-nodejs-sequelize-with-typescript-275b)
+- [My Journey in Building a Personal Website](https://dev.to/cosminirimescucom/my-journey-in-building-a-personal-website-278i)
+- [2Gview - GitlabCI view like a boss](https://dev.to/target-ops/2gview-gitlabci-view-like-a-boss-3fee)
 <!-- BLOG-POST-LIST:END -->
 
 ---
