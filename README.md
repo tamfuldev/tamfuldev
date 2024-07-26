@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My accounts has been Hacked &lpar;compromised&rpar;](https://dev.to/craftingbugs/my-accounts-has-been-hacked-compromised-3o3l)
-- [A Deep Dive into Solidity Visibility Specifiers: Public, Private, Internal, and External](https://dev.to/oxrajesh/a-deep-dive-into-solidity-visibility-specifiers-public-private-internal-and-external-8a)
-- [Dive into the World of Web Development with this Incredible HTML and CSS Crash Course! 🚀](https://dev.to/getvm/dive-into-the-world-of-web-development-with-this-incredible-html-and-css-crash-course-lf8)
-- [Exciting Update: Enhanced JSON Viewer Tools! 🎉](https://dev.to/bugblitz98/exciting-update-enhanced-json-viewer-tools-5ea1)
-- [React vs. Next.js: The Ultimate Guide for Modern Web Development in 2024](https://dev.to/vyan/react-vs-nextjs-the-ultimate-guide-for-modern-web-development-in-2024-4j0k)
+- [What is TAC and What is it For?](https://dev.to/ionegarza/what-is-tac-and-what-is-it-for-5g77)
+- [Reinforcement Learning from Scratch - Part 1 - Tabular Q Learning](https://dev.to/akshayballal/reinforcement-learning-from-scratch-part-1-tabular-q-learning-22k3)
+- [Explained: Microsoft Windows outage &lpar;CrowdStrike&rpar;](https://dev.to/outofbounds500/explained-microsoft-windows-outage-crowdstrike-589c)
+- [Preventing Weak Cryptography in JavaScript](https://dev.to/rigalpatel001/preventing-weak-cryptography-in-javascript-395k)
+- [Importing Toots from Mastodon to WordPress Posts Using Google Apps Script](https://dev.to/ayumisato/importing-toots-from-mastodon-to-wordpress-posts-using-google-apps-script-24mg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
