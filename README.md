@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating node-fetch/form-data to Node.js native APIs](https://dev.to/ueokande/migrating-node-fetchform-data-to-nodejs-native-apis-2j7h)
-- [dnenv.py: A Basic Tool to Manage Local .NET SDK Version](https://dev.to/bwhazel/dnenvpy-a-basic-tool-to-manage-local-net-sdk-version-12ma)
-- [Ignore custom indexes on Doctrine DBAL 4](https://dev.to/indragunawan/ignore-custom-indexes-on-doctrine-dbal-4-387j)
-- [List of the largest files and folders](https://dev.to/salimzadeh/list-of-the-largest-files-and-folders-20jj)
-- [First Batch of LPW 2024 Talks Accepted](https://dev.to/leejo/first-batch-of-lpw-2024-talks-accepted-amk)
+- [Building a Terabox Video player online with download option || Scraping APIs](https://dev.to/banmyaccount/building-a-terabox-video-player-online-with-download-option-scraping-apis-24f5)
+- [Cloudflare for SaaS: Resolving AWS Connection Issues with Multiple CNAMEs, DNS, and SSL Capabilities](https://dev.to/mkdev/cloudflare-for-saas-resolving-aws-connection-issues-with-multiple-cnames-dns-and-ssl-capabilities-2m96)
+- [Effective Cost Management in Azure Using TCO and Pricing Calculators](https://dev.to/ikay/effective-cost-management-in-azure-using-tco-and-pricing-calculators-4g1m)
+- [How to Setup Path Alias Vite + React](https://dev.to/jumbo02/how-to-setup-path-alias-vite-react-5426)
+- [Defer &amp; Panic Recovery In Go](https://dev.to/os_yana/defer-panic-recovery-in-go-1i4i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
