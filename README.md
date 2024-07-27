@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Game of Purpose] Day 68](https://dev.to/humberd/game-of-purpose-day-68-3973)
-- [Unsupervised Learning](https://dev.to/opaul/unsupervised-learning-5hle)
-- [Tips to become a skilled problem-solving developer!!](https://dev.to/joeaspiazudeveloper/tips-to-become-a-skilled-problem-solving-developer-5cnc)
-- [HEIC vs GIF](https://dev.to/msmith99994/heic-vs-gif-3gg5)
-- [Day 2 of eyegrab](https://dev.to/vashisth00/day-2-of-eyegrab-3o4i)
+- [A Developer&#39;s Greatest Power](https://dev.to/zain725342/a-developers-greatest-power-2i6p)
+- [Today&#39;s Trending Projects: Push Box Game With Pygame and More](https://dev.to/labex/todays-trending-projects-push-box-game-with-pygame-and-more-mmm)
+- [Listening for HTTP requests on the CLI with tshark](https://dev.to/tallesl/listening-for-http-requests-on-the-cli-with-tshark-3bf1)
+- [แนวทางการใช้ Go package โดย Jaana Dogan&lpar;rakyll&rpar;](https://dev.to/pallat/aenwthaangkaaraich-go-package-ody-jaana-doganrakyll-7jc)
+- [Database design for backend engineers](https://dev.to/codewitgabi/database-design-for-backend-engineers-4pe5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
