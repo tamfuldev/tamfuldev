@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Revolutionize IT Inventory Management with Our Advanced Inventory System](https://dev.to/njabulo240/revolutionize-it-inventory-management-with-our-advanced-inventory-system-4jeb)
-- [Security news weekly round-up - 26th July 2024](https://dev.to/ziizium/security-news-weekly-round-up-26th-july-2024-470d)
-- [SVG vs AVIF](https://dev.to/msmith99994/svg-vs-avif-flc)
-- [JWT Token authorisation in spring boot 3 without any external library](https://dev.to/namantam1/jwt-token-authorisation-in-spring-boot-3-without-any-external-library-3elc)
-- [SVG vs WebP](https://dev.to/msmith99994/svg-vs-webp-g9o)
+- [[Game of Purpose] Day 68](https://dev.to/humberd/game-of-purpose-day-68-3973)
+- [Unsupervised Learning](https://dev.to/opaul/unsupervised-learning-5hle)
+- [Tips to become a skilled problem-solving developer!!](https://dev.to/joeaspiazudeveloper/tips-to-become-a-skilled-problem-solving-developer-5cnc)
+- [HEIC vs GIF](https://dev.to/msmith99994/heic-vs-gif-3gg5)
+- [Day 2 of eyegrab](https://dev.to/vashisth00/day-2-of-eyegrab-3o4i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
