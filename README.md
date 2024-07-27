@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Api Rest .Net completa com JwtToken e integração com api ViaCep utilizando padrão de arquitetura clean architecture](https://dev.to/2020nani/api-rest-net-completa-com-jwttoken-e-integracao-com-api-viacep-utilizando-padrao-de-arquitetura-clean-architecture-5b1n)
-- [C# Methods](https://dev.to/manzura_kerimova/c-methods-28kf)
-- [Api Rest .Net completa com JwtToken integração com api ViaCep utilizando padrão de arquitetura clean architecture - parte 2](https://dev.to/2020nani/api-rest-net-completa-com-jwttoken-integracao-com-api-viacep-utilizando-padrao-de-arquitetura-clean-architecture-parte-2-im)
-- [Practical Use of Total Cost of Ownership &lpar;TCO&rpar; and Pricing Calculator for Cost Management.](https://dev.to/adah_okwara_3c43c95a89a2e/practical-use-of-total-cost-of-ownership-tco-and-pricing-calculator-for-cost-management-1674)
-- [A Developer&#39;s Greatest Power](https://dev.to/zain725342/a-developers-greatest-power-2i6p)
+- [Single Table Design in AWS DynamoDB](https://dev.to/aws-builders/single-table-design-in-aws-dynamodb-ld8)
+- [Write a test function while learning javascript](https://dev.to/leonardoschmittk/write-a-test-function-while-learning-javascript-2i59)
+- [Construcción de Servicios Web con IA: De la Idea al Código](https://dev.to/alfieri_morillo/construccion-de-servicios-web-con-ia-de-la-idea-al-codigo-4m3j)
+- [X Uses Community Notes on Election Posts, but Misinformation Spreads](https://dev.to/haskeeb265/x-uses-community-notes-on-election-posts-but-misinformation-spreads-15mm)
+- [How to Install NumPy in PyCharm on a Mac](https://dev.to/tesseract-coding/how-to-install-numpy-in-pycharm-on-a-mac-1e0d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
