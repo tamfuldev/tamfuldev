@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Api Rest .Net completa com JwtToken e integração com api ViaCep utilizando padrão de arquitetura clean architecture](https://dev.to/2020nani/api-rest-net-completa-com-jwttoken-e-integracao-com-api-viacep-utilizando-padrao-de-arquitetura-clean-architecture-5b1n)
+- [C# Methods](https://dev.to/manzura_kerimova/c-methods-28kf)
+- [Api Rest .Net completa com JwtToken integração com api ViaCep utilizando padrão de arquitetura clean architecture - parte 2](https://dev.to/2020nani/api-rest-net-completa-com-jwttoken-integracao-com-api-viacep-utilizando-padrao-de-arquitetura-clean-architecture-parte-2-im)
+- [Practical Use of Total Cost of Ownership &lpar;TCO&rpar; and Pricing Calculator for Cost Management.](https://dev.to/adah_okwara_3c43c95a89a2e/practical-use-of-total-cost-of-ownership-tco-and-pricing-calculator-for-cost-management-1674)
 - [A Developer&#39;s Greatest Power](https://dev.to/zain725342/a-developers-greatest-power-2i6p)
-- [Today&#39;s Trending Projects: Push Box Game With Pygame and More](https://dev.to/labex/todays-trending-projects-push-box-game-with-pygame-and-more-mmm)
-- [Listening for HTTP requests on the CLI with tshark](https://dev.to/tallesl/listening-for-http-requests-on-the-cli-with-tshark-3bf1)
-- [แนวทางการใช้ Go package โดย Jaana Dogan&lpar;rakyll&rpar;](https://dev.to/pallat/aenwthaangkaaraich-go-package-ody-jaana-doganrakyll-7jc)
-- [Database design for backend engineers](https://dev.to/codewitgabi/database-design-for-backend-engineers-4pe5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
