@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Web Theory - Part 6 : BEM, The Secret Formula for Mastering CSS Organization and Clarity](https://dev.to/teclearn/web-theory-part-6-bem-the-secret-formula-for-mastering-css-organization-and-clarity-5f49)
-- [The visualization and analysis of git commit statistics for IT team leaders.](https://dev.to/responsivecrocodile/the-visualization-and-analysis-of-git-commit-statistics-for-it-team-leaders-2pof)
-- [Kubernetes CIS Benchmarking Tool : Day 17 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/monitoring-kubernetes-cis-benchmarking-tool-day-17-of-50-days-devops-tools-series-46l1)
-- [Setting Up the PHP Environment](https://dev.to/servbay/setting-up-the-php-environment-4g4b)
-- [Remix with PostgreSQL and Prisma from Local Environment Setup to Deploy to Fly.io](https://dev.to/yuichi_nabeshima_canada/remix-with-postgresql-and-prisma-from-local-environment-setup-to-deploy-to-flyio-5537)
+- [Build Your Own SMTP Server in Go](https://dev.to/alexbczpro/build-your-own-smtp-server-in-go-5b90)
+- [From Zero to SAA-C03 Certified: How I Passed the AWS Certification on My First Attempt](https://dev.to/iamdete/from-zero-to-saa-c03-certified-how-i-passed-the-aws-certification-on-my-first-attempt-20m6)
+- [The Challenge of Traditional Expense Management](https://dev.to/receipt_bot/the-challenge-of-traditional-expense-management-29i5)
+- [&quot;Model Required Fields&quot; package](https://dev.to/watheqalshowaiter/model-required-fields-package-33p1)
+- [Managing Application Properties with Spring Boot Profiles: A Best Practices Guide](https://dev.to/ayon_ssp/managing-application-properties-with-spring-boot-profiles-a-best-practices-guide-1ca7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
