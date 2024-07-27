@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The main features I want for C#](https://dev.to/symbiogenesis/the-main-features-i-want-for-c-3f2n)
-- [Encapsulation in OOP](https://dev.to/ghulam_mujtaba_247/encapsulation-in-oop-2nn1)
-- [Stack vs Heap memory](https://dev.to/amulgaurav/stack-vs-heap-memory-43d1)
-- [Usando parâmetros](https://dev.to/devsjavagirls/usando-parametros-245c)
-- [Mastering Kubernetes: A Comprehensive Kubernetes Course](https://dev.to/labex/mastering-kubernetes-a-comprehensive-kubernetes-course-3mpk)
+- [Building a Simple Chat Application with Go, Gin, MongoDB, and WebSocket](https://dev.to/gbubemi22/building-a-simple-chat-application-with-go-gin-mongodb-and-websocket-2joo)
+- [Automate Spider Creation in Scrapy with Jinja2 and JSON](https://dev.to/ajitkumar/automate-spider-creation-in-scrapy-with-jinja2-and-json-162g)
+- [Your code is NOT special.](https://dev.to/noriller/your-code-is-not-special-2oha)
+- [Dynamic Document Head Management Using React Helmet](https://dev.to/madhawaawishka/dynamic-document-head-management-using-react-helmet-4i1i)
+- [CSS Grid: keywords de dimensionamento](https://dev.to/dougsource/css-grid-keywords-de-dimensionamento-31o3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
