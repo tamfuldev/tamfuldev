@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build Your Own SMTP Server in Go](https://dev.to/alexbczpro/build-your-own-smtp-server-in-go-5b90)
-- [From Zero to SAA-C03 Certified: How I Passed the AWS Certification on My First Attempt](https://dev.to/iamdete/from-zero-to-saa-c03-certified-how-i-passed-the-aws-certification-on-my-first-attempt-20m6)
-- [The Challenge of Traditional Expense Management](https://dev.to/receipt_bot/the-challenge-of-traditional-expense-management-29i5)
-- [&quot;Model Required Fields&quot; package](https://dev.to/watheqalshowaiter/model-required-fields-package-33p1)
-- [Managing Application Properties with Spring Boot Profiles: A Best Practices Guide](https://dev.to/ayon_ssp/managing-application-properties-with-spring-boot-profiles-a-best-practices-guide-1ca7)
+- [Migrating node-fetch/form-data to Node.js native APIs](https://dev.to/ueokande/migrating-node-fetchform-data-to-nodejs-native-apis-2j7h)
+- [dnenv.py: A Basic Tool to Manage Local .NET SDK Version](https://dev.to/bwhazel/dnenvpy-a-basic-tool-to-manage-local-net-sdk-version-12ma)
+- [Ignore custom indexes on Doctrine DBAL 4](https://dev.to/indragunawan/ignore-custom-indexes-on-doctrine-dbal-4-387j)
+- [List of the largest files and folders](https://dev.to/salimzadeh/list-of-the-largest-files-and-folders-20jj)
+- [First Batch of LPW 2024 Talks Accepted](https://dev.to/leejo/first-batch-of-lpw-2024-talks-accepted-amk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
