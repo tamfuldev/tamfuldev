@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Bikin Data Handling di React Jadi Gampang dengan TanStack Query dan TypeScript!](https://dev.to/pramahaditamaputra/bikin-data-handling-di-react-jadi-gampang-dengan-tanstack-query-dan-typescript-1n2c)
-- [AWS Women in Tech India: Empowering a New Generation of Innovators](https://dev.to/aws-heroes/aws-women-in-tech-india-empowering-a-new-generation-of-innovators-4e2)
-- [Serverless Architecture Pattern](https://dev.to/zeeshanali0704/serverless-architectures-55j8)
-- [Day 5 of NodeJS||REPL Part 1](https://dev.to/akshat0610/day-5-of-nodejsrepl-part-1-490e)
-- [Exploring the Different Types of Web APIs](https://dev.to/dipakahirav/exploring-the-different-types-of-web-apis-1j07)
+- [Latest Newsletter: Kicking Poverty’s Ass &lpar;Issue #174&rpar;](https://dev.to/mjgs/latest-newsletter-kicking-povertys-ass-issue-174-4p2b)
+- [Elevate Your React Development: 15 Essential Best Practices 🚀 - Part #2](https://dev.to/alisamir/elevate-your-react-development-15-essential-best-practices-part-2-1n78)
+- [From Code Monkey to DX Champion - Your All-in-One Platform for Developer Experience](https://dev.to/shib_itsme/from-code-monkey-to-dx-champion-your-all-in-one-platform-for-developer-experience-4m78)
+- [Handling and debugging CORS &lpar;Cross-Origin Resource Sharing&rpar; issues in a NestJS Application](https://dev.to/doozieakshay/handling-and-debugging-cors-cross-origin-resource-sharing-issues-in-a-nestjs-application-2gj4)
+- [Passkeys in Australia: Download Free Whitepaper](https://dev.to/corbado/passkeys-in-australia-download-free-whitepaper-4ffd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
