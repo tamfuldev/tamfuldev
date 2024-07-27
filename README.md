@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Real-Time Video Chat App with WebRTC, Socket.io, Node.js, and React .](https://dev.to/emilshiju/building-a-real-time-video-chat-app-with-webrtc-socketio-nodejs-and-react--2e42)
-- [JS: Geek Out with AJAX](https://dev.to/dariansdev/geek-out-with-ajax-5d6l)
-- [NumPy Asarray Function: A Comprehensive Guide](https://dev.to/labex/numpy-asarray-function-a-comprehensive-guide-1cf1)
-- [🤖 100 Days of Generative AI - Day 2 - LLM Tokens vs Parameters ? 🤖](https://dev.to/lakhera2015/100-days-of-generative-ai-day-2-llm-tokens-vs-parameters--18k4)
-- [React 19: A Game-Changer for Modern Web Development](https://dev.to/vyan/react-19-a-game-changer-for-modern-web-development-1bih)
+- [React / TanStack Query Series - Part 1 : Introduction](https://dev.to/pramahaditamaputra/react-tanstack-query-series-part-1-introduction-4i87)
+- [The Frontend Challenge: Cricket League](https://dev.to/nextjswebdev/the-frontend-challenge-cricket-league-5eig)
+- [Unlock the Power of Linux with &quot;The Linux Command Line&quot;](https://dev.to/getvm/unlock-the-power-of-linux-with-the-linux-command-line-4a7g)
+- [Event-Driven Architecture &lpar;EDA&rpar;](https://dev.to/zeeshanali0704/event-driven-architecture-eda-1478)
+- [Tenary Operator Bikin Ngoding Jadi Singkat dan Cepat](https://dev.to/fikriqx/tenary-operator-bikin-ngoding-jadi-singkat-dan-cepat-48gp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
