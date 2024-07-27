@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [React / TanStack Query Series - Part 1 : Introduction](https://dev.to/pramahaditamaputra/react-tanstack-query-series-part-1-introduction-4i87)
-- [The Frontend Challenge: Cricket League](https://dev.to/nextjswebdev/the-frontend-challenge-cricket-league-5eig)
-- [Unlock the Power of Linux with &quot;The Linux Command Line&quot;](https://dev.to/getvm/unlock-the-power-of-linux-with-the-linux-command-line-4a7g)
-- [Event-Driven Architecture &lpar;EDA&rpar;](https://dev.to/zeeshanali0704/event-driven-architecture-eda-1478)
-- [Tenary Operator Bikin Ngoding Jadi Singkat dan Cepat](https://dev.to/fikriqx/tenary-operator-bikin-ngoding-jadi-singkat-dan-cepat-48gp)
+- [Bikin Data Handling di React Jadi Gampang dengan TanStack Query dan TypeScript!](https://dev.to/pramahaditamaputra/bikin-data-handling-di-react-jadi-gampang-dengan-tanstack-query-dan-typescript-1n2c)
+- [AWS Women in Tech India: Empowering a New Generation of Innovators](https://dev.to/aws-heroes/aws-women-in-tech-india-empowering-a-new-generation-of-innovators-4e2)
+- [Serverless Architecture Pattern](https://dev.to/zeeshanali0704/serverless-architectures-55j8)
+- [Day 5 of NodeJS||REPL Part 1](https://dev.to/akshat0610/day-5-of-nodejsrepl-part-1-490e)
+- [Exploring the Different Types of Web APIs](https://dev.to/dipakahirav/exploring-the-different-types-of-web-apis-1j07)
 <!-- BLOG-POST-LIST:END -->
 
 ---
