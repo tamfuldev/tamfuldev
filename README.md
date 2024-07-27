@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Single Table Design in AWS DynamoDB](https://dev.to/aws-builders/single-table-design-in-aws-dynamodb-ld8)
-- [Write a test function while learning javascript](https://dev.to/leonardoschmittk/write-a-test-function-while-learning-javascript-2i59)
-- [Construcción de Servicios Web con IA: De la Idea al Código](https://dev.to/alfieri_morillo/construccion-de-servicios-web-con-ia-de-la-idea-al-codigo-4m3j)
-- [X Uses Community Notes on Election Posts, but Misinformation Spreads](https://dev.to/haskeeb265/x-uses-community-notes-on-election-posts-but-misinformation-spreads-15mm)
-- [How to Install NumPy in PyCharm on a Mac](https://dev.to/tesseract-coding/how-to-install-numpy-in-pycharm-on-a-mac-1e0d)
+- [Building a Real-Time Video Chat App with WebRTC, Socket.io, Node.js, and React .](https://dev.to/emilshiju/building-a-real-time-video-chat-app-with-webrtc-socketio-nodejs-and-react--2e42)
+- [JS: Geek Out with AJAX](https://dev.to/dariansdev/geek-out-with-ajax-5d6l)
+- [NumPy Asarray Function: A Comprehensive Guide](https://dev.to/labex/numpy-asarray-function-a-comprehensive-guide-1cf1)
+- [🤖 100 Days of Generative AI - Day 2 - LLM Tokens vs Parameters ? 🤖](https://dev.to/lakhera2015/100-days-of-generative-ai-day-2-llm-tokens-vs-parameters--18k4)
+- [React 19: A Game-Changer for Modern Web Development](https://dev.to/vyan/react-19-a-game-changer-for-modern-web-development-1bih)
 <!-- BLOG-POST-LIST:END -->
 
 ---
