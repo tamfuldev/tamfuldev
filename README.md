@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [looking for an entry point into IT](https://dev.to/torajuro/looking-for-an-entry-point-into-it-1c9p)
-- [Object Composition and Abstractions in OOP](https://dev.to/ghulam_mujtaba_247/object-composition-and-abstractions-in-oop-ihk)
-- [Mastering Machine Learning: The LabEx &#39;ML Practice Labs&#39; Course](https://dev.to/labex/mastering-machine-learning-the-labex-ml-practice-labs-course-390g)
-- [Value Objects and Mutability in OOP](https://dev.to/ghulam_mujtaba_247/value-objects-and-mutability-in-oop-3chc)
-- [Value Objects and Mutability in OOP](https://dev.to/ghulam_mujtaba_247/value-objects-and-mutability-in-oop-2clf)
+- [Backend developer guidance](https://dev.to/rudra45/backend-developer-guidance-241i)
+- [What does if __name__ =&#39;__main__&#39; do in Python?](https://dev.to/kaustubh_upadhyay_/what-does-if-name-main-do-in-python-40hm)
+- [Maintain the proper naming convention and tagging for resources throughout development](https://dev.to/binoy_59380e698d318/maintain-the-proper-naming-convention-and-tagging-for-resources-throughout-development-3bl1)
+- [Chat Server in Ruby Sockets](https://dev.to/faxriddinmaxmadiyorov/sockets-in-ruby-36c5)
+- [🐧 Some Linux Commands You May Need to Know: Part 1](https://dev.to/dibyataruchakraborty/some-linux-commands-you-may-need-to-know-part-1-4f48)
 <!-- BLOG-POST-LIST:END -->
 
 ---
