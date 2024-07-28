@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Backend developer guidance](https://dev.to/rudra45/backend-developer-guidance-241i)
-- [What does if __name__ =&#39;__main__&#39; do in Python?](https://dev.to/kaustubh_upadhyay_/what-does-if-name-main-do-in-python-40hm)
-- [Maintain the proper naming convention and tagging for resources throughout development](https://dev.to/binoy_59380e698d318/maintain-the-proper-naming-convention-and-tagging-for-resources-throughout-development-3bl1)
-- [Chat Server in Ruby Sockets](https://dev.to/faxriddinmaxmadiyorov/sockets-in-ruby-36c5)
-- [🐧 Some Linux Commands You May Need to Know: Part 1](https://dev.to/dibyataruchakraborty/some-linux-commands-you-may-need-to-know-part-1-4f48)
+- [Auth with JWT+Cookie](https://dev.to/jay818/auth-with-jwtcookie-10hc)
+- [40 Days Of Kubernetes &lpar;23/40&rpar;](https://dev.to/sina14/40-days-of-kubernetes-2340-559o)
+- [Introducing UltraAI.app — All-in-one AI command center for your product.](https://dev.to/ultraai/introducing-ultraaiapp-all-in-one-ai-command-center-for-your-product-4005)
+- [Optimizing Your Work-from-Home Setup for Career Success](https://dev.to/snmeans/optimizing-your-work-from-home-setup-for-career-success-47na)
+- [AI is making significant strides in automating mundane tasks](https://dev.to/olatunjiayodel9/ai-is-making-significant-strides-in-automating-mundane-tasks-1bfp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
