@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Embedded System Development: A Beginner&#39;s Guide](https://dev.to/adityapandey0502/getting-started-with-embedded-system-development-a-beginners-guide-52gn)
-- [**Day 0: Introduction to My 30-Day DevOps Journey**](https://dev.to/singh_in_cloud/day-0-introduction-to-my-30-day-devops-journey-3ho7)
-- [Become a Tech Leader: Join the Microsoft Learn Student Ambassador Program!](https://dev.to/mahrukh_adeel/become-a-tech-leader-join-the-microsoft-learn-student-ambassador-program-1f3c)
-- [Indeterminacy of the `mime` Package in Go: Trust But Verify](https://dev.to/panic_err/indeterminacy-of-the-mime-package-in-go-trust-but-verify-1lg5)
-- [JavaScript on the Server: Node.js](https://dev.to/achal_tiwari/javascript-on-the-server-nodejs-3lhg)
+- [looking for an entry point into IT](https://dev.to/torajuro/looking-for-an-entry-point-into-it-1c9p)
+- [Object Composition and Abstractions in OOP](https://dev.to/ghulam_mujtaba_247/object-composition-and-abstractions-in-oop-ihk)
+- [Mastering Machine Learning: The LabEx &#39;ML Practice Labs&#39; Course](https://dev.to/labex/mastering-machine-learning-the-labex-ml-practice-labs-course-390g)
+- [Value Objects and Mutability in OOP](https://dev.to/ghulam_mujtaba_247/value-objects-and-mutability-in-oop-3chc)
+- [Value Objects and Mutability in OOP](https://dev.to/ghulam_mujtaba_247/value-objects-and-mutability-in-oop-2clf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
