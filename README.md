@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Next.js Starter Update: Tailwind CSS Landing Page and Testing Enhancements 🎉](https://dev.to/imevanc/nextjs-starter-update-tailwind-css-landing-page-and-testing-enhancements-4ip1)
-- [Building in Public - 5](https://dev.to/liaob/building-in-public-5-2i3j)
-- [Jr Penetration Tester- Intro to Offensive Security](https://dev.to/yowise/jr-penetration-tester-intro-to-offensive-security-4g2d)
-- [Just For Fun](https://dev.to/mamabias/just-for-fun-29ca)
-- [ASP.NET Web API ile Kubernetes Üzerinde Kesintisiz Deployment Kurgusu](https://dev.to/admiralkheir/aspnet-web-api-ile-kubernetes-uzerinde-kesintisiz-deployment-kurgusu-5c9o)
+- [Advanced Web Scraping Techniques](https://dev.to/kartikmehta8/advanced-web-scraping-techniques-4bh1)
+- [Keyper by Jarrid: Introduce Integrated Key + Role Management](https://dev.to/jarrid-xyz/keyper-by-jarrid-introduce-integrated-key-role-management-l67)
+- [Rusty Recipies: sqlx + Uuid](https://dev.to/ellie_sager_elliecat/rusty-recipies-sqlx-uuid-477m)
+- [Getting Started with Git and GitHub: A Beginner&#39;s Guide](https://dev.to/imevanc/getting-started-with-git-and-github-a-beginners-guide-17ga)
+- [10 Essential Practices for Building Robust LLM Applications](https://dev.to/vaibhav3002/10-essential-practices-for-building-robust-llm-applications-9l7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
