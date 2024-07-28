@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Web Scraping Techniques](https://dev.to/kartikmehta8/advanced-web-scraping-techniques-4bh1)
-- [Keyper by Jarrid: Introduce Integrated Key + Role Management](https://dev.to/jarrid-xyz/keyper-by-jarrid-introduce-integrated-key-role-management-l67)
-- [Rusty Recipies: sqlx + Uuid](https://dev.to/ellie_sager_elliecat/rusty-recipies-sqlx-uuid-477m)
-- [Getting Started with Git and GitHub: A Beginner&#39;s Guide](https://dev.to/imevanc/getting-started-with-git-and-github-a-beginners-guide-17ga)
-- [10 Essential Practices for Building Robust LLM Applications](https://dev.to/vaibhav3002/10-essential-practices-for-building-robust-llm-applications-9l7)
+- [Today&#39;s Trending Projects: Soldier Serial Number Generator and More](https://dev.to/labex/todays-trending-projects-soldier-serial-number-generator-and-more-15g6)
+- [Font-size no CSS, qual unidade usar?](https://dev.to/lixeletto/font-size-no-css-qual-unidade-usar-184d)
+- [The Thunder Island Navigator](https://dev.to/mlr/the-thunder-island-navigator-2j2n)
+- [How to Build Responsive Websites with HTML and CSS](https://dev.to/media_geneous/how-to-build-responsive-websites-with-html-and-css-3ja7)
+- [Triumph Over AWS SAP-C02: My Journey from Uncertainty to Success](https://dev.to/vishnu_rachapudi_75e73248/triumph-over-aws-sap-c02-my-journey-from-uncertainty-to-success-1mn2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
