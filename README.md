@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Overcoming Hard Rate Limits: Efficient Rate Limiting with Token Bucketing and Redis](https://dev.to/middleware/overcoming-hard-rate-limits-efficient-rate-limiting-with-token-bucketing-and-redis-4gcb)
-- [The Imperative of Robust Automotive Software Testing](https://dev.to/abhayit2000/the-imperative-of-robust-automotive-software-testing-58en)
-- [200 Best AI Tools of 2024: Guide to Artificial Intelligence Solutions](https://dev.to/pablonax/200-best-ai-tools-of-2024-guide-to-artificial-intelligence-solutions-2lic)
-- [17 Most Powerful AI Tools for Developers](https://dev.to/marscode/17-most-powerful-ai-tools-for-developers-e6n)
-- [What is Financial Accounting Meaning? Principles, Importance and Why It Matters](https://dev.to/arnav_rathod_c3768799eacc/what-is-financial-accounting-meaning-principles-importance-and-why-it-matters-4de8)
+- [Embed Terabox Videos Without ADS for Free](https://dev.to/banmyaccount/embed-terabox-videos-without-ads-for-free-2no3)
+- [Terabox Video Downloader/Player/Embedder](https://dev.to/banmyaccount/terabox-video-downloaderplayerembedder-o93)
+- [Collect Logs and Metrics from non-AWS Server using CloudWatch Agent](https://dev.to/aws-builders/collect-logs-and-metrics-from-non-aws-server-using-cloudwatch-agent-1lcf)
+- [The Future of Work: Data Science and Automation](https://dev.to/fizza_c3e734ee2a307cf35e5/the-future-of-work-data-science-and-automation-4l19)
+- [Magical Launchpads: Simplifying Power Apps with Custom Shortcuts](https://dev.to/balagmadhu/magical-launchpads-simplifying-power-apps-with-custom-shortcuts-11fg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
