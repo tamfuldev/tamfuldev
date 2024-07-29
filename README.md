@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Publishing App on F-Droid for Free](https://dev.to/sh20raj/publishing-app-on-f-droid-for-free-519i)
-- [How AI is Revolutionizing Modern Web Development: Key Trends and Tools](https://dev.to/stokry/how-ai-is-revolutionizing-modern-web-development-key-trends-and-tools-2pfg)
-- [What If You Need to Use useSelector Outside of React Components?](https://dev.to/khaled17/what-if-you-need-to-use-useselector-outside-of-react-components-h7g)
-- [How MySQL Tuning Improves the Laravel Performance](https://dev.to/drupaladmin/how-mysql-tuning-improves-the-laravel-performance-282j)
-- [Equivalence Class Partitioning: A Comprehensive Guide for Effective Software Testing](https://dev.to/robort_smith/equivalence-class-partitioning-a-comprehensive-guide-for-effective-software-testing-2216)
+- [What is a React plugin?](https://dev.to/buildwebcrumbs/what-is-a-react-plugin-47f0)
+- [What is a JavaScript plugin?](https://dev.to/buildwebcrumbs/what-is-a-javascript-plugin-8h2)
+- [Node.js Projelerinde OpenTelemetry ile Default Olarak Toplanmayan Verilerin OpenTelemetrye Eklenmesi](https://dev.to/talhanamaldi/nodejs-projelerinde-opentelemetry-ile-default-olarak-toplanmayan-verilerin-opentelemetrye-eklenmesi-dj7)
+- [X / Twitter alternative platforms](https://dev.to/axorax/x-twitter-alternative-platforms-oj7)
+- [AWS EDR step by step &lpar;on premise to AWS and back&rpar;](https://dev.to/swadeey123/aws-edr-step-by-step-on-premise-to-aws-and-back-2mco)
 <!-- BLOG-POST-LIST:END -->
 
 ---
