@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Least Favorite Part of C# Evolution: Inconsistency](https://dev.to/canro91/my-least-favorite-part-of-c-evolution-inconsistency-5d8b)
-- [time format ใน Go](https://dev.to/pallat/time-format-ain-go-4g23)
-- [Dive into the Wonderful World of Java with this Beginner-Friendly Course! 🚀](https://dev.to/getvm/dive-into-the-wonderful-world-of-java-with-this-beginner-friendly-course-20go)
-- [Understanding JavaScript Promises](https://dev.to/rahulvijayvergiya/understanding-javascript-promises-29j4)
-- [Integrate Draw.io and MathType with TinyMCE in NextJs Application](https://dev.to/sagar_gurung_7/integrate-drawio-and-mathtype-with-tinymce-in-nextjs-application-1lbd)
+- [Hacking Access to Power Automate](https://dev.to/wyattdave/hacking-access-to-power-automate-4346)
+- [Docker Image Naming and Tagging](https://dev.to/kalkwst/docker-image-naming-and-tagging-1pg9)
+- [How to Parse Key-value Pairs from a Base64-encoded String in SQL?](https://dev.to/esproc_spl/how-to-parse-key-value-pairs-from-a-base64-encoded-string-in-sql-2k0c)
+- [Simplifying call, apply &amp; bind in JavaScript](https://dev.to/readwanmd/simplifying-call-apply-bind-in-javascript-4lk0)
+- [Unlock Your Web Development Potential with The Odin Project: Comprehensive Free Courses to Start Your Coding Journey](https://dev.to/harshitsuthar/unlock-your-web-development-potential-with-the-odin-project-comprehensive-free-courses-to-start-your-coding-journey-152c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
