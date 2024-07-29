@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Princípios SOLID em GoLang - Single Responsability Principle &lpar;SRP&rpar;](https://dev.to/waliqueiroz/principios-solid-em-golang-single-responsability-principle-srp-af5)
-- [Mistaken Beliefs about Distributed Systems](https://dev.to/sidm/mistaken-beliefs-about-distributed-systems-20d2)
-- [SearchGPT: OpenAI’s Latest Tool Set to Transform the Search Engine Landscape](https://dev.to/daisyauma/searchgpt-openais-latest-tool-set-to-transform-the-search-engine-landscape-1m81)
-- [An Overview of Bitwise Operations](https://dev.to/jacksoneshbaugh/an-overview-of-bitwise-operations-2die)
-- [[Game of Purpose] Day 71](https://dev.to/humberd/game-of-purpose-day-71-2f02)
+- [Como escalar las consultas de AWS Lambda RDS Proxy conéctese a RDS &lpar;Aurora&rpar;](https://dev.to/kevinl/como-escalar-las-consultas-de-aws-lambda-rds-proxy-conectese-a-rds-aurora-3b19)
+- [Today&#39;s Trending Projects: Identify MVP Recipient in Game and More](https://dev.to/labex/todays-trending-projects-identify-mvp-recipient-in-game-and-more-943)
+- [How Define the Type of Loader in Remix](https://dev.to/yuichi_nabeshima_canada/how-add-the-type-of-loader-in-remix-1od5)
+- [10 Key Benefits of Collaboration and Teamwork](https://dev.to/bryany/10-key-benefits-of-collaboration-and-teamwork-2fcd)
+- [Stay Updated with PHP/Laravel: Weekly News Summary &lpar;22/07/2024-28/07/2024](https://dev.to/poovarasu/stay-updated-with-phplaravel-weekly-news-summary-22072024-28072024-4ham)
 <!-- BLOG-POST-LIST:END -->
 
 ---
