@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [15 Powerful Browser Debugging Techniques](https://dev.to/nilebits/15-powerful-browser-debugging-techniques-c3n)
-- [How to build an image gallery in Rails with Stimulus](https://dev.to/hrishio/how-to-build-an-image-gallery-in-rails-with-stimulus-164a)
-- [O que é Markdown e como usa-lo.](https://dev.to/nugguet/o-que-e-markdown-e-como-usa-lo-4a0h)
-- [Unusual yet useful applications for Linux](https://dev.to/ispmanager/unusual-yet-useful-applications-for-linux-1h1e)
-- [Introduction to the Foreign Function &amp; Memory API &lpar;Project Panama&rpar;](https://dev.to/adaumircosta/introduction-to-the-foreign-function-memory-api-project-panama-20c8)
+- [Servers! What are they?](https://dev.to/jockko/servers-what-are-they-2e1i)
+- [Free ngrok alternative for async web dev - the Hookdeck CLI](https://dev.to/hookdeck/free-ngrok-alternative-for-async-web-dev-the-hookdeck-cli-5f6j)
+- [Concurrency and parallelism in PHP &lpar;part 1&rpar;](https://dev.to/gabrieloliverio/concurrency-and-parallelism-in-php-part-1-21m5)
+- [Node.js Express Sequelize Boilerplate - Exploring the Directory Structure](https://dev.to/chetanppatil/nodejs-express-sequelize-boilerplate-exploring-the-directory-structure-44n8)
+- [Improve the Build Process of your Apps](https://dev.to/luizrebelatto/improve-the-build-process-of-your-apps-5ecn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
