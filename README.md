@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Embed Terabox Videos Without ADS for Free](https://dev.to/banmyaccount/embed-terabox-videos-without-ads-for-free-2no3)
-- [Terabox Video Downloader/Player/Embedder](https://dev.to/banmyaccount/terabox-video-downloaderplayerembedder-o93)
-- [Collect Logs and Metrics from non-AWS Server using CloudWatch Agent](https://dev.to/aws-builders/collect-logs-and-metrics-from-non-aws-server-using-cloudwatch-agent-1lcf)
-- [The Future of Work: Data Science and Automation](https://dev.to/fizza_c3e734ee2a307cf35e5/the-future-of-work-data-science-and-automation-4l19)
-- [Magical Launchpads: Simplifying Power Apps with Custom Shortcuts](https://dev.to/balagmadhu/magical-launchpads-simplifying-power-apps-with-custom-shortcuts-11fg)
+- [Creating A Virtual Machine in Microsoft Azure](https://dev.to/rofiatabdulkareem/creating-a-virtual-machine-in-microsoft-azure-3d49)
+- [What Is Digital Surface Model?](https://dev.to/satpalda/what-is-digital-surface-model-170a)
+- [Understanding Optional Chaining in JavaScript](https://dev.to/mark_kibuthu/understanding-optional-chaining-in-javascript-3i7)
+- [Understanding Kafka Producer](https://dev.to/automq/understanding-kafka-producer-5b45)
+- [Top Test Automation Tools for Salesforce](https://dev.to/berthaw82414312/top-test-automation-tools-for-salesforce-673)
 <!-- BLOG-POST-LIST:END -->
 
 ---
