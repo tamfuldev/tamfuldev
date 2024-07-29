@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What is a React plugin?](https://dev.to/buildwebcrumbs/what-is-a-react-plugin-47f0)
-- [What is a JavaScript plugin?](https://dev.to/buildwebcrumbs/what-is-a-javascript-plugin-8h2)
-- [Node.js Projelerinde OpenTelemetry ile Default Olarak Toplanmayan Verilerin OpenTelemetrye Eklenmesi](https://dev.to/talhanamaldi/nodejs-projelerinde-opentelemetry-ile-default-olarak-toplanmayan-verilerin-opentelemetrye-eklenmesi-dj7)
-- [X / Twitter alternative platforms](https://dev.to/axorax/x-twitter-alternative-platforms-oj7)
-- [AWS EDR step by step &lpar;on premise to AWS and back&rpar;](https://dev.to/swadeey123/aws-edr-step-by-step-on-premise-to-aws-and-back-2mco)
+- [37 Common JavaScript Utility Functions for String, Object, Array &amp; Date](https://dev.to/syakirurahman/37-common-javascript-utility-functions-for-string-object-array-date-2afb)
+- [Easily Split and Rename PDFs for Skyward](https://dev.to/blacknight318/easily-split-and-rename-pdfs-for-skyward-17ha)
+- [Introduction to Feature Flagging: A Beginner&#39;s Guide](https://dev.to/flipt/introduction-to-feature-flagging-a-beginners-guide-4o9c)
+- [Building PayBee, a Digital Wallet with Flutter &amp; Laravel: The Rewarding Journey Through Hustle and Heart](https://dev.to/ultracoolbru/building-paybee-a-digital-wallet-with-flutter-laravel-the-rewarding-journey-through-hustle-and-heart-7pj)
+- [&quot;zsh: command not found: flutter&quot; m2 pro silicon](https://dev.to/herik06/zsh-command-not-found-flutter-m2-pro-silicon-1go9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
