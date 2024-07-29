@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Starting from Scratch: My Web Development Journey](https://dev.to/saumya_singh18/starting-from-scratch-my-web-development-journey-ff9)
-- [&quot;Unlocking the Code: My Web Development Adventure Begins](https://dev.to/chitransh_he/unlocking-the-code-my-web-development-adventure-begins-161)
-- [Basic Git commands](https://dev.to/apk_leo0/basic-git-commands-3ibd)
-- [Como instalar o Zabbix no Debian: Guia Completo](https://dev.to/fernandomullerjr/como-instalar-o-zabbix-no-debian-guia-completo-nk2)
-- [Personas - Como perfis psicográficos moldaram o game design](https://dev.to/terminalcoffee/personas-como-perfis-psicograficos-moldaram-o-game-design-5402)
+- [Princípios SOLID em GoLang - Single Responsability Principle &lpar;SRP&rpar;](https://dev.to/waliqueiroz/principios-solid-em-golang-single-responsability-principle-srp-af5)
+- [Mistaken Beliefs about Distributed Systems](https://dev.to/sidm/mistaken-beliefs-about-distributed-systems-20d2)
+- [SearchGPT: OpenAI’s Latest Tool Set to Transform the Search Engine Landscape](https://dev.to/daisyauma/searchgpt-openais-latest-tool-set-to-transform-the-search-engine-landscape-1m81)
+- [An Overview of Bitwise Operations](https://dev.to/jacksoneshbaugh/an-overview-of-bitwise-operations-2die)
+- [[Game of Purpose] Day 71](https://dev.to/humberd/game-of-purpose-day-71-2f02)
 <!-- BLOG-POST-LIST:END -->
 
 ---
