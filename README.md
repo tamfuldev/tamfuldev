@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Exploring Django with React 🚀](https://dev.to/nezer/exploring-django-with-react-4g8f)
-- [Django AllAuth Chapter 4 - Customizing Django AllAuth UI](https://dev.to/doctorserone/django-allauth-chapter-4-customizing-django-allauth-ui-47nh)
-- [## Hello dev.to Community! I&#39;m a New MERN Stack Developer](https://dev.to/greenrajoria/-hello-devto-community-im-a-new-mern-stack-developer-12m2)
-- [Understanding Two-Factor Authentication &lpar;2FA&rpar;: Key Benefits and Top Integration Methods](https://dev.to/sangamangreg/the-importance-of-two-factor-authentication-2fa-and-market-integration-options-2kjh)
-- [UI Design System - Badge Component](https://dev.to/jazimabbas/ui-design-system-badge-component-3lej)
+- [How to Build Successful Payment Systems](https://dev.to/wetest/how-to-build-successful-payment-systems-4n5l)
+- [SharePoint Online vs. SharePoint Embedded: Which to Choose?](https://dev.to/jaloplo/sharepoint-online-vs-sharepoint-embedded-which-to-choose-2afi)
+- [Exception in OOP php](https://dev.to/ghulam_mujtaba_247/exception-in-oop-php-2idg)
+- [Exception in OOP php](https://dev.to/ghulam_mujtaba_247/exception-in-oop-php-465f)
+- [5G Technology: Revolutionizing Connectivity with EazeAlliance](https://dev.to/eazealliance/5g-technology-revolutionizing-connectivity-with-eazealliance-4c7f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
