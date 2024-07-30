@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 React Learning Journey: Day 1 🚀](https://dev.to/mayureshsurve/react-learning-journey-day-1-ch5)
-- [Comparison of file and component structures among Shadcn-ui, Plane.so and Gitroom.](https://dev.to/ramunarasinga/comparison-of-file-and-component-structures-among-shadcn-ui-planeso-and-gitroom-105d)
-- [Platform Engineering: The Next Evolution of DevOps?](https://dev.to/craftworkai/platform-engineering-the-next-evolution-of-devops-4p1n)
-- [3 Successful Test Runs Is the Magic Number](https://dev.to/pjcalvo/3-successful-test-runs-is-the-magic-number-264m)
-- [Rabarber v3: Multi-Tenancy Update](https://dev.to/enjaku4/rabarber-v3-multi-tenancy-update-2df3)
+- [Prisma + Supabase Error P1001](https://dev.to/digitaldrreamer/prisma-supabase-error-p1001-4aj8)
+- [How Important is a Bachelor&#39;s Degree for Developers](https://dev.to/marcosconci/how-important-is-a-bachelors-degree-for-developers-2hp0)
+- [Documentando uma API com Java Spring Boot usando Swagger](https://dev.to/marialuizaleitao/documentando-uma-api-com-java-spring-boot-usando-swagger-4hgd)
+- [Day 21 of My 90-Day DevOps Journey: Mastering Terraform Modules for Reusable Infrastructure](https://dev.to/arbythecoder/day-21-of-my-90-day-devops-journey-mastering-terraform-modules-for-reusable-infrastructure-3ghm)
+- [Just Wrapped Up: Cafe Menu Project!](https://dev.to/ack/just-wrapped-up-cafe-menu-project-2ndp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
