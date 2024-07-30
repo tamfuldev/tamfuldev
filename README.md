@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Best CRISC Study Resources](https://dev.to/shivamchamoli18/top-5-best-crisc-study-resources-2pf1)
-- [Seeding a DB with Irish Counties in Laravel](https://dev.to/briandouglasie/seeding-a-db-with-irish-counties-in-laravel-3b02)
-- [Implementing Self-Service Operations for Internal Developer Teams](https://dev.to/dronahq/implementing-self-service-operations-for-internal-developer-teams-1j76)
-- [React for Modern WebDevelopment: Trends and Best Practices](https://dev.to/aricayajohn/react-for-modern-webdevelopment-trends-and-best-practices-352k)
-- [Getting Started with the Angular File Upload Component](https://dev.to/syncfusion/getting-started-with-the-angular-file-upload-component-3648)
+- [[Roast: Day 12] - Designing a PostgreSQL Database](https://dev.to/nmiller15/roast-day-12-designing-a-postgresql-database-44op)
+- [Why RTK Query is the Secret Ingredient Your New Project Needs!](https://dev.to/misha09087102/why-rtk-query-is-the-secret-ingredient-your-new-project-needs-1dig)
+- [Localization in Nextjs with App Router](https://dev.to/albertdugba/localization-in-nextjs-with-app-router-4efd)
+- [day 13-14|Binary Tree Traversal | leetcode 144,145,94,107,199,637,429,515,116,104, 111,226, 101](https://dev.to/theoyjy/day-13-14binary-tree-traversal-leetcode-14414594107199637429515116104-111226-101-5fpe)
+- [Arrow function and this](https://dev.to/bishwas/arrow-function-and-this-b6n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
