@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [⚡ MySecondApp - React Native with Expo &lpar;P13&rpar; - Layout Verification Screen](https://dev.to/skipperhoa/mysecondapp-react-native-with-expo-p13-layout-verification-screen-c6m)
-- [Lógica de programación con estructuras de control en C#](https://dev.to/maadcode/logica-de-programacion-con-estructuras-de-control-en-c-2c8g)
-- [Mastering Web Security: How to Set Up and Test SafeLine with APISIX](https://dev.to/lulu_liu_c90f973e2f954d7f/mastering-web-security-how-to-set-up-and-test-safeline-with-apisix-2645)
-- [CSS Button Animation](https://dev.to/nipundinuranga/css-button-animation-4fgc)
-- [Stay Updated with Python/FastAPI/Django: Weekly News Summary &lpar;22/07/2024-28/07/2024](https://dev.to/poovarasu/stay-updated-with-pythonfastapidjango-weekly-news-summary-22072024-28072024-1odm)
+- [Webhook vs. API: What’s the Difference?](https://dev.to/keploy/webhook-vs-api-whats-the-difference-40i0)
+- [Forem Proof](https://dev.to/mudhorn/forem-proof-2mm6)
+- [Archiving PostgreSQL Backups on NixOS](https://dev.to/vst/archiving-postgresql-backups-on-nixos-d7g)
+- [Cloud Resume API Challenge](https://dev.to/sylvia_waweru_974612725da/cloud-resume-api-challenge-25g6)
+- [Form Array Practice](https://dev.to/webfaisalbd/form-array-practice-2lf8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
