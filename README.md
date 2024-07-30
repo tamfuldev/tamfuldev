@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [🚀 React Learning Journey: Day 1 🚀](https://dev.to/mayureshsurve/react-learning-journey-day-1-ch5)
+- [Comparison of file and component structures among Shadcn-ui, Plane.so and Gitroom.](https://dev.to/ramunarasinga/comparison-of-file-and-component-structures-among-shadcn-ui-planeso-and-gitroom-105d)
+- [Platform Engineering: The Next Evolution of DevOps?](https://dev.to/craftworkai/platform-engineering-the-next-evolution-of-devops-4p1n)
 - [3 Successful Test Runs Is the Magic Number](https://dev.to/pjcalvo/3-successful-test-runs-is-the-magic-number-264m)
-- [Atomic Design: UI Kit Strategy](https://dev.to/violetadev/atomic-design-ui-kit-strategy-4ogn)
-- [Reconnecting with Front-End Development: Building a Cat Photo App](https://dev.to/ack/reconnecting-with-front-end-development-building-a-cat-photo-app-598k)
-- [Nmap Script Engine &lpar;NSE&rpar; for Network Vulnerability Assessment](https://dev.to/z3t30/nmap-script-engine-nse-for-network-vulnerability-assessment-45cb)
-- [LCP Improvements React Guide](https://dev.to/violetadev/lcp-improvements-react-guide-4obe)
+- [Rabarber v3: Multi-Tenancy Update](https://dev.to/enjaku4/rabarber-v3-multi-tenancy-update-2df3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
