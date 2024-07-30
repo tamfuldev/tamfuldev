@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a CRUD Application with Ruby on Rails: Step-by-Step Guide](https://dev.to/mhcrocky/building-a-crud-application-with-ruby-on-rails-step-by-step-guide-5e8d)
-- [Optimizing String Concatenation with StringBuilder](https://dev.to/jihoonj/optimizing-string-concatenation-with-stringbuilder-54oa)
-- [Real-Time Webcam DeepFake / Face Swapping with Rope Pearl Live - Single-Click Installation &amp; Effortless Usage](https://dev.to/furkangozukara/real-time-webcam-deepfake-face-swapping-with-rope-pearl-live-single-click-installation-effortless-usage-18k4)
-- [How to Implement Recursive Health Check in Spring Boot Actuator Without Infinite Loop in Circular Dependencies?](https://dev.to/manal_ghanim_6e29fb3b4e5e/how-to-implement-recursive-health-check-in-spring-boot-actuator-without-infinite-loop-in-circular-dependencies-2jnp)
-- [Kling AI Video Now Globally Available, Free to Use, and Astounding - Comprehensive Guide](https://dev.to/furkangozukara/kling-ai-video-now-globally-available-free-to-use-and-astounding-comprehensive-guide-oln)
+- [Today&#39;s Trending Projects: FTP Weak Password Scanner Using Python and More](https://dev.to/labex/todays-trending-projects-ftp-weak-password-scanner-using-python-and-more-21dk)
+- [Stetragy of Crafting Effective Calls to Action for Enhanced Conversions](https://dev.to/luthernams/stetragy-of-crafting-effective-calls-to-action-for-enhanced-conversions-4205)
+- [Embracing Surface-Level Understanding: A Key to Mastering Software Engineering](https://dev.to/muhammad_salem/embracing-surface-level-understanding-a-key-to-mastering-software-engineering-47pl)
+- [LangGraph.js Concept Guide](https://dev.to/zand/langgraphjs-concept-guide-50g0)
+- [Memory Management in Rust](https://dev.to/kartikmehta8/memory-management-in-rust-oj9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
