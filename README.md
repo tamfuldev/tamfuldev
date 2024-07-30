@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Impact of Poor Endpoint Monitoring and Backend Error Tracking: A CTO&#39;s Perspective](https://dev.to/irhose/the-impact-of-poor-endpoint-monitoring-and-backend-error-tracking-a-ctos-perspective-2ma2)
-- [Boosting Devops Productivity with Forms and Power Automate](https://dev.to/arindam0310018/boosting-devops-productivity-with-forms-and-power-automate-2e63)
-- [An Introduction to TypeScript for JavaScript Developers](https://dev.to/media_geneous/an-introduction-to-typescript-for-javascript-developers-l63)
-- [Well-typed, accelerated ML](https://dev.to/joelberkeley/well-typed-accelerated-ml-alpha-5cme)
-- [Day 999 : Tomorrow](https://dev.to/dwane/day-999-tomorrow-4hdm)
+- [Building a CRUD Application with Ruby on Rails: Step-by-Step Guide](https://dev.to/mhcrocky/building-a-crud-application-with-ruby-on-rails-step-by-step-guide-5e8d)
+- [Optimizing String Concatenation with StringBuilder](https://dev.to/jihoonj/optimizing-string-concatenation-with-stringbuilder-54oa)
+- [Real-Time Webcam DeepFake / Face Swapping with Rope Pearl Live - Single-Click Installation &amp; Effortless Usage](https://dev.to/furkangozukara/real-time-webcam-deepfake-face-swapping-with-rope-pearl-live-single-click-installation-effortless-usage-18k4)
+- [How to Implement Recursive Health Check in Spring Boot Actuator Without Infinite Loop in Circular Dependencies?](https://dev.to/manal_ghanim_6e29fb3b4e5e/how-to-implement-recursive-health-check-in-spring-boot-actuator-without-infinite-loop-in-circular-dependencies-2jnp)
+- [Kling AI Video Now Globally Available, Free to Use, and Astounding - Comprehensive Guide](https://dev.to/furkangozukara/kling-ai-video-now-globally-available-free-to-use-and-astounding-comprehensive-guide-oln)
 <!-- BLOG-POST-LIST:END -->
 
 ---
