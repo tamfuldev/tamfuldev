@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js - App Router](https://dev.to/lorenzojkrl/nextjs-app-router-4l7e)
-- [What is Syslog? Components, benefits, and best practices](https://dev.to/parseable/what-is-syslog-components-benefits-and-best-practices-4k4i)
-- [Building Your First Responsive Website with HTML and CSS](https://dev.to/egbo2255/building-your-first-responsive-website-with-html-and-css-32eh)
-- [EC2-and-S3-integration-for-Zappy-E-bank](https://dev.to/ooluwatobi_o/ec2-and-s3-integration-for-zappy-e-bank-4in7)
-- [Testing AWS AppSync JavaScript Resolvers](https://dev.to/aws-builders/testing-aws-appsync-javascript-resolvers-174e)
+- [Implementing Facial Recognition Authentication in Vue.js with FACEIO](https://dev.to/vyan/implementing-facial-recognition-authentication-in-vuejs-with-faceio-664)
+- [Coleta de lixo](https://dev.to/devsjavagirls/coleta-de-lixo-3jfd)
+- [Pergunte ao especialista - Operador New](https://dev.to/devsjavagirls/pergunte-ao-especialista-operador-new-27ak)
+- [O operador new](https://dev.to/devsjavagirls/o-operador-new-kme)
+- [🚀 Upskilling with the #90DaysOfDevOps Challenge! 🌟](https://dev.to/ritesh_dolare/upskilling-with-the-90daysofdevops-challenge-4gf8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
