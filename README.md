@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Today&#39;s Trending Projects: FTP Weak Password Scanner Using Python and More](https://dev.to/labex/todays-trending-projects-ftp-weak-password-scanner-using-python-and-more-21dk)
-- [Stetragy of Crafting Effective Calls to Action for Enhanced Conversions](https://dev.to/luthernams/stetragy-of-crafting-effective-calls-to-action-for-enhanced-conversions-4205)
-- [Embracing Surface-Level Understanding: A Key to Mastering Software Engineering](https://dev.to/muhammad_salem/embracing-surface-level-understanding-a-key-to-mastering-software-engineering-47pl)
-- [LangGraph.js Concept Guide](https://dev.to/zand/langgraphjs-concept-guide-50g0)
-- [Memory Management in Rust](https://dev.to/kartikmehta8/memory-management-in-rust-oj9)
+- [Choosing tech for a project](https://dev.to/ladyofcode/choosing-tech-for-a-project-2368)
+- [Tips for Fixing Bugs and Resolving Code Issues](https://dev.to/michellebuchiokonicha/tips-for-fixing-bugs-and-resolving-code-issues-2kcc)
+- [7 CSS Mistakes You’re Probably Making Right Now](https://dev.to/tesseract-coding/7-css-mistakes-youre-probably-making-right-now-9nj)
+- [Learning Swift: The Basics of iOS Development](https://dev.to/media_geneous/learning-swift-the-basics-of-ios-development-15ok)
+- [Building your own Secure Seed Phrase Generator](https://dev.to/mibii/building-a-secure-seed-phrase-generator-lessons-in-cryptography-and-user-interaction-4m2f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
