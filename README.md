@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Successful Payment Systems](https://dev.to/wetest/how-to-build-successful-payment-systems-4n5l)
-- [SharePoint Online vs. SharePoint Embedded: Which to Choose?](https://dev.to/jaloplo/sharepoint-online-vs-sharepoint-embedded-which-to-choose-2afi)
-- [Exception in OOP php](https://dev.to/ghulam_mujtaba_247/exception-in-oop-php-2idg)
-- [Exception in OOP php](https://dev.to/ghulam_mujtaba_247/exception-in-oop-php-465f)
-- [5G Technology: Revolutionizing Connectivity with EazeAlliance](https://dev.to/eazealliance/5g-technology-revolutionizing-connectivity-with-eazealliance-4c7f)
+- [WPF Application with Plugin Architecture](https://dev.to/ben-witt/wpf-application-with-plugin-architecture-29nc)
+- [Low code is evil](https://dev.to/gotoxavier2333/low-code-is-evil-3bg0)
+- [Maximize Accuracy: Choosing the Best Accurate IP Location API](https://dev.to/martinbaldwin127/maximize-accuracy-choosing-the-best-accurate-ip-location-api-3b0b)
+- [No SNAPSHOTs](https://dev.to/madhead/no-snapshots-484a)
+- [Part 2/3: How to Implement Refresh Tokens in React](https://dev.to/zenstok/part-23-how-to-implement-refresh-tokens-in-react-84c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
