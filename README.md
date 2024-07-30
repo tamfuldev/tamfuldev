@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [#36 — Match The First Part of The Cell Value](https://dev.to/judith677/36-match-the-first-part-of-the-cell-value-4g17)
-- [Unlock the Secrets of Computer Systems with Carnegie-Mellon&#39;s ICS Course! 🖥️](https://dev.to/getvm/unlock-the-secrets-of-computer-systems-with-carnegie-mellons-ics-course-4le9)
-- [How to Dockerize a React Application](https://dev.to/sh20raj/how-to-dockerize-a-react-application-19kc)
-- [🤖 100 Days of Generative AI - Day 4 - The rise and rise of transformers🤖](https://dev.to/lakhera2015/100-days-of-generative-ai-day-4-the-rise-and-rise-of-transformers-1bom)
-- [Tailwind CSS: Responsive Utilities](https://dev.to/tailwine/tailwind-css-responsive-utilities-bm3)
+- [🚀 Exploring Django with React 🚀](https://dev.to/nezer/exploring-django-with-react-4g8f)
+- [Django AllAuth Chapter 4 - Customizing Django AllAuth UI](https://dev.to/doctorserone/django-allauth-chapter-4-customizing-django-allauth-ui-47nh)
+- [## Hello dev.to Community! I&#39;m a New MERN Stack Developer](https://dev.to/greenrajoria/-hello-devto-community-im-a-new-mern-stack-developer-12m2)
+- [Understanding Two-Factor Authentication &lpar;2FA&rpar;: Key Benefits and Top Integration Methods](https://dev.to/sangamangreg/the-importance-of-two-factor-authentication-2fa-and-market-integration-options-2kjh)
+- [UI Design System - Badge Component](https://dev.to/jazimabbas/ui-design-system-badge-component-3lej)
 <!-- BLOG-POST-LIST:END -->
 
 ---
