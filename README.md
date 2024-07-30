@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Roast: Day 12] - Designing a PostgreSQL Database](https://dev.to/nmiller15/roast-day-12-designing-a-postgresql-database-44op)
-- [Why RTK Query is the Secret Ingredient Your New Project Needs!](https://dev.to/misha09087102/why-rtk-query-is-the-secret-ingredient-your-new-project-needs-1dig)
-- [Localization in Nextjs with App Router](https://dev.to/albertdugba/localization-in-nextjs-with-app-router-4efd)
-- [day 13-14|Binary Tree Traversal | leetcode 144,145,94,107,199,637,429,515,116,104, 111,226, 101](https://dev.to/theoyjy/day-13-14binary-tree-traversal-leetcode-14414594107199637429515116104-111226-101-5fpe)
-- [Arrow function and this](https://dev.to/bishwas/arrow-function-and-this-b6n)
+- [How to Write Tests in Rust](https://dev.to/francescoxx/how-to-write-tests-in-rust-2pde)
+- [CSS &lpar;Cascading Style Sheets&rpar; is essential for designing the front end of websites](https://dev.to/olatunjiayodel9/css-cascading-style-sheets-is-essential-for-designing-the-front-end-of-websites-5gbm)
+- [Introduction to Domain-Driven Design &lpar;DDD&rpar; in C# with Microsoft Orleans](https://dev.to/sebastiandevelops/introduction-to-domain-driven-design-ddd-in-c-with-microsoft-orleans-3ekf)
+- [Slugs with an ID fallback in Laravel](https://dev.to/briandouglasie/slugs-with-an-id-fallback-in-laravel-5ai3)
+- [CSS Icons with examples](https://dev.to/wasifali/css-icons-with-examples-5cjm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
