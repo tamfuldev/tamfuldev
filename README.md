@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built a global chess board from scratch completely with Claude &lpar;NextJs &amp; Firebase&rpar;](https://dev.to/kubeden/i-built-a-global-chess-board-from-scratch-completely-with-claude-nextjs-firebase-4cci)
-- [C# da input qilish](https://dev.to/islomali99/c-da-input-qilish-g86)
-- [unable to use search tool](https://dev.to/sanjay_murmu_b075988bd67e/unable-to-use-search-tool-4nn3)
-- [AWS re:Invent—All Builders Welcome Grant](https://dev.to/wonder717/aws-reinvent-all-builders-welcome-grant-12nm)
-- [Scroll-Driven Animations Scroll Detection: BADASS](https://dev.to/jamesavakian62/scroll-driven-animations-scroll-detection-badass-124m)
+- [Casting qilish](https://dev.to/islomali99/casting-qilish-27ig)
+- [C# da String Metodlari](https://dev.to/islomali99/c-da-string-metodlari-1l7p)
+- [Why Python and JavaScript are My Favourite Programming Languages](https://dev.to/rashedulhridoy/why-python-and-javascript-are-my-favourite-programming-languages-cog)
+- [Kubernetes Scheduler](https://dev.to/jacktt/kubernetes-scheduler-3b68)
+- [JavaScript Quirks: What You Need to Know](https://dev.to/tomasdevs/javascript-quirks-what-you-need-to-know-363f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
