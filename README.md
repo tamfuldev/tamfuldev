@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [NYRCL](https://dev.to/debugging_dragon/nyrcl-2pk1)
-- [C# {String Methods}](https://dev.to/firdavs090/c-string-methods-1h32)
-- [Input qilish](https://dev.to/jurabek777/input-qilish-bbj)
-- [Critical Difference Between Bugs and Defects in QA Processes](https://dev.to/robort_smith/critical-difference-between-bugs-and-defects-in-qa-processes-3275)
-- [&quot;🚀 Developing Mini Web Projects with HTML, CSS, and JavaScript: Check Out My Work on GitHub!&quot;](https://dev.to/amirhirx/-developing-mini-web-projects-with-html-css-and-javascript-check-out-my-work-on-github-3h1b)
+- [Unlocking Opportunities with AWS Certified Developer Associate Certification](https://dev.to/sarah_miller_8ad506ebc65b/unlocking-opportunities-with-aws-certified-developer-associate-certification-546b)
+- [How I Landed My First Freelance Work](https://dev.to/dheerajjha451/how-i-landed-my-first-freelance-work-3448)
+- [8 Puzzle Problem in AI](https://dev.to/shaiquehossain/8-puzzle-problem-in-ai-2464)
+- [Does sponsoring a developer conference help with sales or marketing?](https://dev.to/tramline/does-sponsoring-a-developer-conference-help-with-sales-or-marketing-4ib8)
+- [Download a Website Certificate](https://dev.to/woovi/download-a-website-certificate-27n6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
