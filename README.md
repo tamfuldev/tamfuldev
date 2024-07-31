@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Does HTTPS Works?](https://dev.to/nayetwolf/how-does-https-works-35mh)
-- [[Game of Purpose] Day 73 - Improving animations with Blend Spaces](https://dev.to/humberd/game-of-purpose-day-73-i18)
-- [Kubernetes 101: Introduction](https://dev.to/danielcristho/kubernetes-101-introduction-2dfa)
-- [What&#39;s the real point of Microservices? - should I start with Monolith](https://dev.to/ivangavlik/whats-the-real-point-of-microservices-should-i-start-with-monolith-1b61)
-- [App Development Process - Compendium from Angela Yu&#39;s class from London app brewery](https://dev.to/valerianagit/app-development-process-compendium-from-angela-yus-class-from-london-app-brewery-dic)
+- [Part 3: Building Powerful Chains and Agents in LangChain](https://dev.to/jamesbmour/part-3-building-powerful-chains-and-agents-in-langchain-5g04)
+- [Exploring some Powerful Features of Golang](https://dev.to/jacktt/exploring-some-powerful-features-of-golang-36h0)
+- [Today&#39;s Trending Projects: Database Constraint Design and Implementation and More](https://dev.to/labex/todays-trending-projects-database-constraint-design-and-implementation-and-more-46kh)
+- [Go Performance: Pequenas mudanças que ajudam a melhorar o desempenho do seu app](https://dev.to/rflpazini/go-performance-pequenas-mudancas-que-ajudam-a-melhorar-o-desempenho-do-seu-app-2l8o)
+- [iOS Projects on Github](https://dev.to/clr3/ios-projects-on-github-2ag3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
