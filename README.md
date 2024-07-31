@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[DAY 93-95] I built an interactive database in PostgreSQL using a shell script](https://dev.to/thomascansino/day-93-95-i-built-an-interactive-database-in-postgresql-using-a-shell-script-2f0p)
-- [Answer: Could not open mysql.plugin table. Some plugins may be not loaded](https://dev.to/pablohub44/answer-could-not-open-mysqlplugin-table-some-plugins-may-be-not-loaded-4ddp)
-- [Transitioning from JavaScript to TypeScript: A Beginner’s Guide 2024](https://dev.to/iamfaham/transitioning-from-javascript-to-typescript-a-beginners-guide-2024-51hj)
-- [Show us your open-source project!](https://dev.to/litlyx/show-us-your-open-source-project-3gha)
-- [9 Must-Know Open-source JavaScript Libraries for Mastering AI Development 🧙✨](https://dev.to/composiodev/9-must-know-open-source-javascript-libraries-for-mastering-ai-development-2i9m)
+- [Maximizing Efficiency in Construction Projects with CPM Scheduling](https://dev.to/precisionestimator/maximizing-efficiency-in-construction-projects-with-cpm-scheduling-54om)
+- [Lista de Exercícios para treinar Lógica de Programação](https://dev.to/pedro_borgesdev_ee699bec/lista-de-exercicios-para-treinar-logica-de-programacao-29m7)
+- [5 Reasons to Use Promise.try&lpar;&rpar;](https://dev.to/bgdnvarlamov/5-reasons-to-use-promisetry-jj4)
+- [What are the top 10 racing games available on Nostra, the premier game hosting platform?](https://dev.to/claywinston/what-are-the-top-10-racing-games-available-on-nostra-the-premier-game-hosting-platform-145c)
+- [Adding 3D Models to Your HTML Website](https://dev.to/sh20raj/adding-3d-models-to-your-html-website-3b1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
