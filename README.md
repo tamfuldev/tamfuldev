@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Evolution of Database Design in Our Startup](https://dev.to/first_cyber23/evolution-of-database-design-in-our-startup-2fci)
-- [🤖 100 Days of Generative AI - Day 5 - Understanding Inference Parameters in AI Models 🤖](https://dev.to/lakhera2015/100-days-of-generative-ai-day-5-understanding-inference-parameters-in-ai-models-3dch)
-- [Macros in C](https://dev.to/shaiquehossain/macros-in-c-45c7)
-- [Exploring KubeSpy : Day 19 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/exploring-kubespy-day-19-of-50-days-devops-tools-series-p9b)
-- [PhpWebStudy[4.0.0] release. Support macOS/Windows/Linux](https://dev.to/xpf0000/phpwebstudy400-release-support-macoswindowslinux-178a)
+- [Welcome Thread - v287](https://dev.to/devteam/welcome-thread-v287-91p)
+- [The Quest for Performance Part II : Perl vs Python](https://dev.to/chrisarg/the-quest-for-performance-part-ii-perl-vs-python-5gdg)
+- [How to Fix “Error: error:0308010C](https://dev.to/tigerzh/how-to-fix-error-error0308010c-3cnp)
+- [Generate Secure Passwords Using Built-in Tools on macOS, Windows, and Ubuntu](https://dev.to/tigerzh/generate-secure-passwords-using-built-in-tools-on-macos-windows-and-ubuntu-1nd7)
+- [An In-depth Analysis of Path Traversal Vulnerability: Dirty Stream Attack](https://dev.to/tecno-security/an-in-depth-analysis-of-path-traversal-vulnerability-dirty-stream-attack-2g3l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
