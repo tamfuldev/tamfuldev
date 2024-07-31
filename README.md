@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Boletín AWS Open Source, July Edition](https://dev.to/aws-espanol/boletin-aws-open-source-july-edition-52p1)
-- [Upload remote video to YouTube with GitHub Actions and Google API](https://dev.to/sh20raj/upload-remote-video-to-youtube-with-github-actions-and-google-api-1go8)
-- [Sustainable Technology: Innovations Driving Green Tech and Environmental Impact by Eazealliance](https://dev.to/eazealliance/sustainable-technology-innovations-driving-green-tech-and-environmental-impact-by-eazealliance-11j2)
-- [How to Combine Every Five Values into One Record](https://dev.to/esproc_spl/how-to-combine-every-five-values-into-one-record-1kgg)
-- [Customizing Forex API Integrations: Deep Dive into Forex API Documentation](https://dev.to/yahya_khan_28c17697e4a71c/customizing-forex-api-integrations-deep-dive-into-forex-api-documentation-24bi)
+- [Request Strapi&#39;s REST API behind a Content Delivery Network &lpar;CDN&rpar;](https://dev.to/strapi/request-strapis-rest-api-behind-a-content-delivery-network-cdn-1h9c)
+- [GBase 8a MPP Cluster Analytical Database Typical Implementation in a Specific Industry &lpar;1&rpar;](https://dev.to/congcong/gbase-8a-mpp-cluster-analytical-database-typical-implementation-in-a-specific-industry-1-5154)
+- [Unlocking File Searches: Effective Methods to Find Text Within Files on Windows](https://dev.to/kailashnirmal/unlocking-file-searches-effective-methods-to-find-text-within-files-on-windows-3k7f)
+- [System Architecture Best Practices: Designing Robust and Scalable Systems](https://dev.to/navinder/system-architecture-best-practices-designing-robust-and-scalable-systems-3m61)
+- [The Environmental Impact of Cloud Computing and the Next-Generation Data Center](https://dev.to/astutemarketing/the-environmental-impact-of-cloud-computing-and-the-next-generation-data-center-9a8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
