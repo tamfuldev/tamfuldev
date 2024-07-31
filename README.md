@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Maximizing Efficiency in Construction Projects with CPM Scheduling](https://dev.to/precisionestimator/maximizing-efficiency-in-construction-projects-with-cpm-scheduling-54om)
-- [Lista de Exercícios para treinar Lógica de Programação](https://dev.to/pedro_borgesdev_ee699bec/lista-de-exercicios-para-treinar-logica-de-programacao-29m7)
-- [5 Reasons to Use Promise.try&lpar;&rpar;](https://dev.to/bgdnvarlamov/5-reasons-to-use-promisetry-jj4)
-- [What are the top 10 racing games available on Nostra, the premier game hosting platform?](https://dev.to/claywinston/what-are-the-top-10-racing-games-available-on-nostra-the-premier-game-hosting-platform-145c)
-- [Adding 3D Models to Your HTML Website](https://dev.to/sh20raj/adding-3d-models-to-your-html-website-3b1)
+- [I built a global chess board from scratch completely with Claude &lpar;NextJs &amp; Firebase&rpar;](https://dev.to/kubeden/i-built-a-global-chess-board-from-scratch-completely-with-claude-nextjs-firebase-4cci)
+- [C# da input qilish](https://dev.to/islomali99/c-da-input-qilish-g86)
+- [unable to use search tool](https://dev.to/sanjay_murmu_b075988bd67e/unable-to-use-search-tool-4nn3)
+- [AWS re:Invent—All Builders Welcome Grant](https://dev.to/wonder717/aws-reinvent-all-builders-welcome-grant-12nm)
+- [Scroll-Driven Animations Scroll Detection: BADASS](https://dev.to/jamesavakian62/scroll-driven-animations-scroll-detection-badass-124m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
