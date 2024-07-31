@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v287](https://dev.to/devteam/welcome-thread-v287-91p)
-- [The Quest for Performance Part II : Perl vs Python](https://dev.to/chrisarg/the-quest-for-performance-part-ii-perl-vs-python-5gdg)
-- [How to Fix “Error: error:0308010C](https://dev.to/tigerzh/how-to-fix-error-error0308010c-3cnp)
-- [Generate Secure Passwords Using Built-in Tools on macOS, Windows, and Ubuntu](https://dev.to/tigerzh/generate-secure-passwords-using-built-in-tools-on-macos-windows-and-ubuntu-1nd7)
-- [An In-depth Analysis of Path Traversal Vulnerability: Dirty Stream Attack](https://dev.to/tecno-security/an-in-depth-analysis-of-path-traversal-vulnerability-dirty-stream-attack-2g3l)
+- [Diary of a Neurodivergent: Chapter 0](https://dev.to/lasr21/diary-of-a-neurodivergent-chapter-0-323d)
+- [Diario de un Neurodivergente: Capítulo 0](https://dev.to/lasr21/diario-de-un-neurodivergente-capitulo-0-3kj6)
+- [Day 2: Introduction to Linux &amp; Basic Commands](https://dev.to/ritesh_dolare/day-2-introduction-to-linux-basic-commands-5a8d)
+- [Understanding State Management in Web Development: A Beginner&#39;s Guide](https://dev.to/srijan_karki/understanding-state-management-in-web-development-a-beginners-guide-2d5a)
+- [Dive into Node.js with This Beginner-Friendly Tutorial! 🚀](https://dev.to/getvm/dive-into-nodejs-with-this-beginner-friendly-tutorial-3kbc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
