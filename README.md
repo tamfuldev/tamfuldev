@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Writing Python code like Typescript](https://dev.to/bimaadi/writing-python-code-like-typescript-1le)
-- [Mastering Zabbix Regular Expressions: A Comprehensive Guide](https://dev.to/fernandomullerjr/mastering-zabbix-regular-expressions-a-comprehensive-guide-105k)
-- [A denial of service Regex breaks FastAPI security](https://dev.to/snyk/a-denial-of-service-regex-breaks-fastapi-security-2d22)
-- [Creating relationships using SQLAlchemy in Python](https://dev.to/spencer_adler_880da14d230/creating-relationships-using-sqlalchemy-in-python-572f)
-- [How To Stop Form Bots With Honeypot Fields](https://dev.to/jeffbuildstech/how-to-stop-form-bots-with-honeypot-fields-8od)
+- [#37 — Replace Duplicate Items with The Specified Text](https://dev.to/judith677/37-replace-duplicate-items-with-the-specified-text-2iee)
+- [What are you working on?](https://dev.to/philipjohnbasile/what-are-you-working-on-6mi)
+- [TimeLoc Net: A Quantum-Inspired Framework for Decentralized Communication](https://dev.to/bclonan/timeloc-net-a-quantum-inspired-framework-for-decentralized-communication-4b99)
+- [React Dynamic Table | Programming Tutorial](https://dev.to/labex/react-dynamic-table-programming-tutorial-558h)
+- [All About Content Delivery Networks &lpar;CDNs&rpar;](https://dev.to/zeeshanali0704/all-about-content-delivery-networks-cdns-1m1p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
