@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [9 Best AI you need as a Developer](https://dev.to/e-tech/9-best-ai-you-need-as-a-developer-d5)
-- [How to Fetch Wikipedia Articles Using Node.js &lpar;Express, TypeScript, Axios&rpar;](https://dev.to/sanditzz/how-to-fetch-wikipedia-articles-using-nodejs-express-typescript-axios-3if3)
-- [If it quacks like a duck 🦆🐥](https://dev.to/rafaeljohn9/if-it-quacks-like-a-duck-1fl8)
-- [If it quacks like a duck 🦆🐥](https://dev.to/rafaeljohn9/if-it-quacks-like-a-duck-2a36)
-- [How to Test ABS Sensor?](https://dev.to/archibald/how-to-test-abs-sensor-3m5m)
+- [Churn Rate vs Retention Rate: How are they related?](https://dev.to/farwa/churn-rate-vs-retention-rate-how-are-they-related-4nin)
+- [Interactive free mobile app landing page template](https://dev.to/paul_freeman/interactive-free-mobile-app-landing-page-template-4c9a)
+- [What is Platform Decay And Why Should Platform Engineers Care?](https://dev.to/danielbryantuk/what-is-platform-decay-and-why-should-platform-engineers-care-12o9)
+- [Mastering Database Design: The Importance of Normalization](https://dev.to/helloworldttj/mastering-database-design-the-importance-of-normalization-1335)
+- [Deploy your SAP CAP application to any Hosting site](https://dev.to/amarjit/deploy-your-sap-cap-application-to-any-hosting-site-4l4h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
