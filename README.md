@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [MERN Stack Development](https://dev.to/ankansaha/mern-stack-development-32ck)
-- [Building a Scalable API with Node.js and Express](https://dev.to/ankansaha/building-a-scalable-api-with-nodejs-and-express-5b1l)
-- [A Beginner’s Guide to Minimalist Design](https://dev.to/andrewcknight/a-beginners-guide-to-minimalist-design-50mc)
-- [FormEngine Alternative: A Comprehensive Comparison with SurveyJS](https://dev.to/gavinhenderson/formengine-alternative-a-comprehensive-comparison-with-surveyjs-4m5a)
-- [Form.io Alternative: A Comprehensive Comparison with SurveyJS](https://dev.to/gavinhenderson/formio-alternative-a-comprehensive-comparison-with-surveyjs-25d)
+- [How you found your first client as a freelancer?](https://dev.to/obceylan/how-you-found-your-first-client-as-a-freelancer-18nj)
+- [Day 15 of 100 Days of Cloud: Getting Started with OpenTofu](https://dev.to/tutorialhelldev/day-15-of-100-days-of-cloud-getting-started-with-opentofu-1iem)
+- [GIT &amp; GITHUB](https://dev.to/dev_frank/git-github-4lgc)
+- [Unlocking the Power of Causal AI: A Self-Guided Tour of Our Causal Reasoning Platform](https://dev.to/causely/unlocking-the-power-of-causal-ai-a-self-guided-tour-of-our-causal-reasoning-platform-id7)
+- [Optimizing React Performance with Redux](https://dev.to/ankansaha/optimizing-react-performance-with-redux-481p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
