@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Bellman ford algorithm&lpar;Single Source Shorted Path in DAG&rpar;](https://dev.to/prashantrmishra/bellman-ford-algorithmsingle-source-shorted-path-in-dag-1clc)
-- [How to deploy node server for telegram bot on Vercel](https://dev.to/tanabe_yutaka_18dc6e9adbc/how-to-deploy-node-server-for-telegram-bot-on-vercel-1of4)
-- [What can Taylor Swift teach us about Software Engineering?](https://dev.to/moozzyk/what-can-taylor-swift-teach-us-about-software-engineering-2237)
-- [How to fix auto import not working in a React, TypeScript project](https://dev.to/abdulwahidkahar/how-to-fix-auto-import-not-working-in-a-react-typescript-project-5hm6)
-- [Embrace the Future of Software Delivery with DevOps](https://dev.to/sujal_dua/embrace-the-future-of-software-delivery-with-devops-ef7)
+- [15 Common .NET &amp; C# Blunders Based On My Experience](https://dev.to/jamesmh/15-common-net-c-blunders-based-on-my-experience-2lg4)
+- [A Raw Guide to Extraordinary Corporate Success](https://dev.to/iwooky/a-raw-guide-to-extraordinary-corporate-success-3dj2)
+- [Automate Your Vue Deployment: A Step-by-Step Guide to Using GitHub Actions](https://dev.to/shivishbrahma/automate-your-vue-deployment-a-step-by-step-guide-to-using-github-actions-44oa)
+- [SSL Certificate Pinning in Flutter](https://dev.to/koral/ssl-certificate-pinning-in-flutter-5dg8)
+- [Recommended Course: Quick Start with scikit-learn](https://dev.to/labex/recommended-course-quick-start-with-scikit-learn-29fl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
