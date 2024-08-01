@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Churn Rate vs Retention Rate: How are they related?](https://dev.to/farwa/churn-rate-vs-retention-rate-how-are-they-related-4nin)
-- [Interactive free mobile app landing page template](https://dev.to/paul_freeman/interactive-free-mobile-app-landing-page-template-4c9a)
-- [What is Platform Decay And Why Should Platform Engineers Care?](https://dev.to/danielbryantuk/what-is-platform-decay-and-why-should-platform-engineers-care-12o9)
-- [Mastering Database Design: The Importance of Normalization](https://dev.to/helloworldttj/mastering-database-design-the-importance-of-normalization-1335)
-- [Deploy your SAP CAP application to any Hosting site](https://dev.to/amarjit/deploy-your-sap-cap-application-to-any-hosting-site-4l4h)
+- [What Is the Recommended Number of Hours to Work in a Week?](https://dev.to/bryany/what-is-the-recommended-number-of-hours-to-work-in-a-week-5bdm)
+- [OCR Solutions Uncovered: How to Choose the Best for Different Use Cases](https://dev.to/api4ai/ocr-solutions-uncovered-how-to-choose-the-best-for-different-use-cases-1mel)
+- [Understanding the Roles and Responsibilities of a Software Tester In SDLC](https://dev.to/robort_smith/understanding-the-roles-and-responsibilities-of-a-software-tester-in-sdlc-248g)
+- [Why To Choose Selenium Framework for Automation Testing?](https://dev.to/vijayashree44/why-to-choose-selenium-framework-for-automation-testing-2ol6)
+- [Introducing UnoPIM: The Open-Source PIM Solution for Modern Businesses](https://dev.to/pathaksaurav/introducing-unopim-the-open-source-pim-solution-for-modern-businesses-e14)
 <!-- BLOG-POST-LIST:END -->
 
 ---
