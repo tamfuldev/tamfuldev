@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🔍 Comparing and Contrasting Popular Probability Distributions: A Practical Approach 📊](https://dev.to/saivishwa/comparing-and-contrasting-popular-probability-distributions-a-practical-approach-1j2i)
-- [All About - The Domain Name System &lpar;DNS&rpar;](https://dev.to/zeeshanali0704/all-about-the-domain-name-system-dns-2ldk)
-- [Build Your Own Mini Redis with Python! 🚀](https://dev.to/getvm/build-your-own-mini-redis-with-python-4dp5)
-- [🚀 Day 3 - Mastering Advanced Linux Commands 🖥️](https://dev.to/ritesh_dolare/day-3-mastering-advanced-linux-commands-23lh)
-- [OpenResty on NixOS for an API Gateway](https://dev.to/vst/openresty-on-nixos-for-an-api-gateway-240i)
+- [A 10-Step Guide to Migrating From Monolith to Microservices Architecture](https://dev.to/marutitech/a-10-step-guide-to-migrating-from-monolith-to-microservices-architecture-2od4)
+- [React Native State Management: The Ultimate Guide [2024]](https://dev.to/alexsam986/react-native-state-management-the-ultimate-guide-2df6)
+- [Load Balancer in System Design](https://dev.to/zeeshanali0704/load-balancer-in-system-design-cin)
+- [Block games](https://dev.to/aman_kumar_c1afdfa0480d12/block-games-12cj)
+- [Mastering the Art of Object Copying in JavaScript](https://dev.to/adya_kalhari/mastering-the-art-of-object-copying-in-javascript-4jfm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
