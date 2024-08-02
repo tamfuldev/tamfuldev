@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Java](https://dev.to/madgan95/introduction-to-java-3ed9)
-- [Creating a Multi-Language Website with next-intl in Next.js: A Step-by-Step Guide](https://dev.to/homayunmmdy/creating-a-multi-language-website-with-next-intl-in-nextjs-a-step-by-step-guide-38l7)
-- [Introducing TraceHawk: A Full-suite Multi-ecosystem Block Explorer](https://dev.to/tracehawk/introducing-tracehawk-a-full-suite-multi-ecosystem-block-explorer-12h0)
-- [Scroll To Top component using id](https://dev.to/webfaisalbd/scroll-to-top-component-using-id-69m)
-- [How to Upload Files With Vanilla JavaScript and Add a Loading Animation](https://dev.to/uche_azubuko/how-to-upload-files-with-vanilla-javascript-and-add-a-loading-animation-149j)
+- [EXPERT ADVICE ON BUILDING A SUCCESSFUL CAREER IN DATA SCIENCE.](https://dev.to/nyagabree003/expert-advice-on-building-a-successful-career-in-data-science-2gb4)
+- [Writing meaningful Git commit messages with semantic tags](https://dev.to/ghostaram/writing-meaningful-git-commit-messages-with-semantic-tags-1dim)
+- [Episode 24/30: Signal Store Release, TypeScript &amp; Node.js, Mark Thompson on Angular](https://dev.to/this-is-angular/episode-2430-signal-store-release-typescript-nodejs-mark-thompson-on-angular-544g)
+- [5 Tips on Coding with Python](https://dev.to/nathanielchit/5-tips-on-coding-with-python-38m1)
+- [Mastering Docker: A C++ Project for Creating a Simple Container](https://dev.to/labex/mastering-docker-a-c-project-for-creating-a-simple-container-2cmp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
