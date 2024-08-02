@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Immutability in JavaScript: A Dive into Mutable and Immutable Data](https://dev.to/brandonc/understanding-immutability-in-javascript-a-dive-into-mutable-and-immutable-data-3gb)
-- [Building a local and private LLM server in Rust](https://dev.to/alexandrughinea/building-a-local-and-private-llm-server-in-rust-32kp)
-- [Mountains](https://dev.to/eoinmcg/mountains-jeb)
-- [Dive into the World of Functional Programming 🌊](https://dev.to/getvm/dive-into-the-world-of-functional-programming-d5f)
-- [AWS CB Swag Kit-Year 2🎉](https://dev.to/wonder717/aws-cb-swag-kit-year-2-3lhl)
+- [Introduction to Java](https://dev.to/madgan95/introduction-to-java-3ed9)
+- [Creating a Multi-Language Website with next-intl in Next.js: A Step-by-Step Guide](https://dev.to/homayunmmdy/creating-a-multi-language-website-with-next-intl-in-nextjs-a-step-by-step-guide-38l7)
+- [Introducing TraceHawk: A Full-suite Multi-ecosystem Block Explorer](https://dev.to/tracehawk/introducing-tracehawk-a-full-suite-multi-ecosystem-block-explorer-12h0)
+- [Scroll To Top component using id](https://dev.to/webfaisalbd/scroll-to-top-component-using-id-69m)
+- [How to Upload Files With Vanilla JavaScript and Add a Loading Animation](https://dev.to/uche_azubuko/how-to-upload-files-with-vanilla-javascript-and-add-a-loading-animation-149j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
