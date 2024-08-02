@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [LMQL, AAAL Pt.6](https://dev.to/tunehqai/lmql-aaal-pt6-22ib)
-- [Random Thoughts #2](https://dev.to/isaiahwp/random-thoughts-2-4n97)
-- [Gerenciamento de Formulários Complexos em React com React Hook Form](https://dev.to/vitorrios1001/gerenciamento-de-formularios-complexos-em-react-com-react-hook-form-5782)
-- [⚡ MySecondApp - React Native with Expo &lpar;P15&rpar; - Layout Flight Detail Screen](https://dev.to/skipperhoa/mysecondapp-react-native-with-expo-p15-layout-flight-detail-screen-5bej)
-- [Matplotlib Arrow Guide: Annotate Plots with Ease](https://dev.to/labex/matplotlib-arrow-guide-annotate-plots-with-ease-4afi)
+- [Unlock the Secrets of Cybersecurity with This Comprehensive Course! 🔒](https://dev.to/getvm/unlock-the-secrets-of-cybersecurity-with-this-comprehensive-course-53f9)
+- [✍️Day 4: Basic Linux Shell Scripting for DevOps Engineers](https://dev.to/ritesh_dolare/day-4-basic-linux-shell-scripting-for-devops-engineers-d26)
+- [Mastering Next.js: The Ultimate Guide to Structuring Large-Scale Projects in 2024](https://dev.to/vyan/mastering-nextjs-the-ultimate-guide-to-structuring-large-scale-projects-in-2024-h4e)
+- [App Inbox Notification Feed in Next.js](https://dev.to/suprsend/app-inbox-notification-feed-in-nextjs-18kb)
+- [When Will You Embrace The Cloud](https://dev.to/enitanogun1/when-will-you-embrace-the-cloud-3o84)
 <!-- BLOG-POST-LIST:END -->
 
 ---
