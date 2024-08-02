@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Common Ports and Protocols](https://dev.to/nayetwolf/common-ports-and-protocols-2nb9)
-- [I&#39;m launching: RemotyJobs.com! 🚀](https://dev.to/maurobonfietti/im-launching-remotyjobscom-4b08)
-- [Data Structures and Algorithms: Heaps](https://dev.to/faraib/data-structures-and-algorithms-heaps-1n21)
-- [The 5 Top Most-Used Deployment Strategies in Modern Software Development](https://dev.to/wallacefreitas/the-5-top-most-used-deployment-strategies-in-modern-software-development-2h7e)
-- [Day 1001 : Sure of Myself](https://dev.to/dwane/day-1001-sure-of-myself-3ck7)
+- [zod i18n internationalization](https://dev.to/fromsian/zod-i18n-internationalization-4laa)
+- [react internationalization i18n](https://dev.to/fromsian/react-internationalization-i18n-5cj1)
+- [Unraveling the Complexities of Software Design with Domain-Driven Design &lpar;DDD&rpar;](https://dev.to/v1eira/unraveling-the-complexities-of-software-design-with-domain-driven-design-ddd-24ed)
+- [Building Cross-Platform Apps with Flutter](https://dev.to/media_geneous/building-cross-platform-apps-with-flutter-2ej9)
+- [Understanding SOLID Principles: A Guide for Junior Developers](https://dev.to/v1eira/understanding-solid-principles-a-guide-for-junior-developers-1agk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
