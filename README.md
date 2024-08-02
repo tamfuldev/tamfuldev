@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Little tricks to improve your customer onboarding experience](https://dev.to/logto/little-tricks-to-improve-your-customer-onboarding-experience-40bn)
-- [Your team member struggles with assertiveness. How can you provide feedback that empowers their leadership?](https://dev.to/gourav_sharma_00/your-team-member-struggles-with-assertiveness-how-can-you-provide-feedback-that-empowers-their-leadership-18dd)
-- [Spread Syntax](https://dev.to/benlongcp/spread-syntax-42no)
-- [封装 Sqlc 的 Queries 实现更方便的事务操作](https://dev.to/hungtcs/feng-zhuang-sqlc-de-queries-shi-xian-geng-fang-bian-de-shi-wu-cao-zuo-3keo)
-- [Use React.lazy with confidence: A safe way to load components when iterating fast](https://dev.to/logto/use-reactlazy-with-confidence-a-safe-way-to-load-components-when-iterating-fast-1gkh)
+- [5 Essential Steps for Change Management in Projects](https://dev.to/bryany/5-essential-steps-for-change-management-in-projects-1g9b)
+- [Key On-Page SEO Elements for Better Google Rankings](https://dev.to/juddiy/key-on-page-seo-elements-for-better-google-rankings-25og)
+- [Exploring Stern : Day 21 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/exploring-stern-day-21-of-50-days-devops-tools-series-4agk)
+- [Front-End &amp; Back-End &lpar;CSR&rpar;](https://dev.to/0xw3ston/front-end-back-end-csr-2lj2)
+- [What is base64 encoding and how is it used in web development?](https://dev.to/brianmmdev/what-is-base64-encoding-and-how-is-it-used-in-web-development-3p4e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
