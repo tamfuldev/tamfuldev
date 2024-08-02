@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Murphy’s Law is a tester’s best friend](https://dev.to/the_qa_corner/murphys-law-is-a-testers-best-friend-376n)
-- [How private are your class #private fields?](https://dev.to/naugtur/how-private-are-your-class-private-fields-m8n)
-- [Setting up a Node.js Express project with Typescript](https://dev.to/cedricahenkorah/setting-up-a-nodejs-express-project-with-typescript-5dae)
-- [Serializability in Database Management Systems](https://dev.to/pushpendra_sharma_f1d2cbe/serializability-in-database-management-systems-2df1)
-- [Using Docker with Express &lpar;Node.js&rpar; Tutorial](https://dev.to/sanditzz/using-docker-with-express-nodejs-tutorial-43on)
+- [I made a notion themed portfolio 😍](https://dev.to/paul_freeman/i-made-a-notion-themed-portfolio-3g3l)
+- [Compatibility Testing for PC Games: A Full Guide](https://dev.to/wetest/compatibility-testing-for-pc-games-a-full-guide-4j92)
+- [Using pm2 to Manage Node.js Applications](https://dev.to/hoaitx/using-pm2-to-manage-nodejs-applications-5ep7)
+- [Essential Oracle 50 Selected Practice Questions with Answers](https://dev.to/tom8daafe63765434221/essential-oracle-50-selected-practice-questions-with-answers-2l9m)
+- [Essential MySQL 50 Selected Practice Questions with Answers](https://dev.to/tom8daafe63765434221/essential-mysql-50-selected-practice-questions-with-answers-147m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
