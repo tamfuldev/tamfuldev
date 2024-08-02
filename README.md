@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [EXPERT ADVICE ON BUILDING A SUCCESSFUL CAREER IN DATA SCIENCE.](https://dev.to/nyagabree003/expert-advice-on-building-a-successful-career-in-data-science-2gb4)
-- [Writing meaningful Git commit messages with semantic tags](https://dev.to/ghostaram/writing-meaningful-git-commit-messages-with-semantic-tags-1dim)
-- [Episode 24/30: Signal Store Release, TypeScript &amp; Node.js, Mark Thompson on Angular](https://dev.to/this-is-angular/episode-2430-signal-store-release-typescript-nodejs-mark-thompson-on-angular-544g)
-- [5 Tips on Coding with Python](https://dev.to/nathanielchit/5-tips-on-coding-with-python-38m1)
-- [Mastering Docker: A C++ Project for Creating a Simple Container](https://dev.to/labex/mastering-docker-a-c-project-for-creating-a-simple-container-2cmp)
+- [From Coder to Cloud Architect: My Unexpected Path](https://dev.to/jimiog/from-coder-to-cloud-architect-my-unexpected-path-2a4d)
+- [Day 16 of 100 Days of Cloud: Deep Dive into RabbitMQ](https://dev.to/tutorialhelldev/day-16-of-100-days-of-cloud-deep-dive-into-rabbitmq-3n3j)
+- [Mastering Video Editing with InShot: A Comprehensive Guide](https://dev.to/the_rainbow/mastering-video-editing-with-inshot-a-comprehensive-guide-4noe)
+- [Fraud Risk Assessment: 5 Essentials Every Plan Must Have](https://dev.to/yayabobi/fraud-risk-assessment-5-essentials-every-plan-must-have-4j4l)
+- [How to Harden IaC Security with KICS](https://dev.to/yayabobi/how-to-harden-iac-security-with-kics-3ef6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
