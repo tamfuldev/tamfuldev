@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4c96)
-- [GITHUB](https://dev.to/dev_frank/github-44e0)
-- [How Natural Language Processing Contributes to Advancements in Human Computer Interactions](https://dev.to/cesarwrites/how-natural-language-processing-contributes-to-advancements-in-human-computer-interactions-3o48)
-- [Building My Own Authentication Boss: Go Learning Adventure](https://dev.to/thelamedev/building-my-own-authentication-boss-go-learning-adventure-4f5g)
-- [Leetcode 227 &lpar;Java&rpar;: Basic Calculator II](https://dev.to/phaniallamsetty/leetcode-227-java-basic-calculator-ii-4i8l)
+- [JavaScript Fundamentals: A Beginner&#39;s Guide](https://dev.to/egbo2255/javascript-fundamentals-a-beginners-guide-46gg)
+- [Blade Templates](https://dev.to/muhammadiqbalid83/blade-templates-1l1g)
+- [My Summer Vacation!](https://dev.to/darrenfj/my-summer-vacation-3kel)
+- [[Game of Purpose] Day 76](https://dev.to/humberd/game-of-purpose-day-76-4lhe)
+- [Todo lo que necesitas saber sobre JavaScript, La Guía completa desde Cero.🥇](https://dev.to/urian121/todo-lo-que-necesitas-saber-sobre-javascript-la-guia-completa-desde-cero-28gg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
