@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [React Custom Hooks: Crafting Reusable and Clean Code Like a Pro](https://dev.to/gboladetrue/react-custom-hooks-crafting-reusable-and-clean-code-like-a-pro-3kol)
-- [Microsserviços, uma abordagem prática - Resiliência](https://dev.to/miltonlima/microsservicos-uma-abordagem-pratica-resiliencia-3dll)
-- [The Essence &amp; Impact of Pre-Designed Templates in Software Development Project Management](https://dev.to/thomasy0ung/the-essence-impact-of-pre-designed-templates-in-software-development-project-management-3o6a)
-- [Understanding JSON Comments: Exploring the Need and Alternatives](https://dev.to/keploy/understanding-json-comments-exploring-the-need-and-alternatives-7j8)
-- [Enhancing Web Accessibility with Multi-Agent LLM for Visually Impaired Users](https://dev.to/hgky95/enhancing-web-accessibility-with-multi-agent-llm-for-visually-impaired-users-3l2b)
+- [Web Push Notifications with React and Firebase Cloud Messaging &lpar;FCM&rpar;](https://dev.to/emmanuelayinde/web-push-notifications-with-react-and-firebase-cloud-messaging-fcm-18kb)
+- [This Week In React #194 : React Conf, Rsnext, TypeScript, Next.js, PPR, Owner components, Preloading, Zustand, Flutter...](https://dev.to/sebastienlorber/this-week-in-react-194-fog-of-war-react-html-memory-leaks-security-chadcnui-charts-mui-xr-57k5)
+- [MIDDLEWARE](https://dev.to/muhammadiqbalid83/middleware-3l18)
+- [How to Setup Git and Github](https://dev.to/abidemi/git-2ljc)
+- [ROUTING](https://dev.to/muhammadiqbalid83/routing-4pp6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
