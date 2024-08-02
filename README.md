@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Improve Readability of Your Code with C# Collection Expressions](https://dev.to/antonmartyniuk/improve-readability-of-your-code-with-c-collection-expressions-o62)
-- [Networking fundamental concepts for DevOps](https://dev.to/pratik_nalawade/networking-fundamental-concepts-for-devops-1bkg)
-- [Learn CSS Grid by Building a Magazine](https://dev.to/elliotvh/learn-css-grid-by-building-a-magazine-1eji)
-- [The loss functions in PyTorch](https://dev.to/hyperkai/the-loss-functions-in-pytorch-3c94)
-- [Powerful Visibility with Rust, Lambda, Datadog, and OpenTelemetry](https://dev.to/aws-builders/powerful-visibility-with-rust-lambda-datadog-and-opentelemetry-4akm)
+- [Lets do dates properly](https://dev.to/ry44n__/lets-do-dates-properly-4e2o)
+- [NPM packages leveraged for cryptocurrency theft](https://dev.to/stacklok/npm-packages-leveraged-for-cryptocurrency-theft-586j)
+- [Weekly Updates - August 2, 2024](https://dev.to/couchbase/weekly-updates-august-2-2024-14hp)
+- [THE ULTIMATE GUIDE DATA ANALYTICS: TECHNIQUE AND TOOLS.](https://dev.to/xy_analytics/the-ultimate-guide-data-analytics-technique-and-tools-1i59)
+- [Cracking Time Complexity: Your Ultimate Beginner&#39;s Guide](https://dev.to/mburu_4beeb1e88fea0d61158/demystifying-time-complexities-a-simple-guide-for-everyone-3m2o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
