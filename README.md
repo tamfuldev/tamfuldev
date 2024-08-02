@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Lets do dates properly](https://dev.to/ry44n__/lets-do-dates-properly-4e2o)
-- [NPM packages leveraged for cryptocurrency theft](https://dev.to/stacklok/npm-packages-leveraged-for-cryptocurrency-theft-586j)
-- [Weekly Updates - August 2, 2024](https://dev.to/couchbase/weekly-updates-august-2-2024-14hp)
-- [THE ULTIMATE GUIDE DATA ANALYTICS: TECHNIQUE AND TOOLS.](https://dev.to/xy_analytics/the-ultimate-guide-data-analytics-technique-and-tools-1i59)
-- [Cracking Time Complexity: Your Ultimate Beginner&#39;s Guide](https://dev.to/mburu_4beeb1e88fea0d61158/demystifying-time-complexities-a-simple-guide-for-everyone-3m2o)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4c96)
+- [GITHUB](https://dev.to/dev_frank/github-44e0)
+- [How Natural Language Processing Contributes to Advancements in Human Computer Interactions](https://dev.to/cesarwrites/how-natural-language-processing-contributes-to-advancements-in-human-computer-interactions-3o48)
+- [Building My Own Authentication Boss: Go Learning Adventure](https://dev.to/thelamedev/building-my-own-authentication-boss-go-learning-adventure-4f5g)
+- [Leetcode 227 &lpar;Java&rpar;: Basic Calculator II](https://dev.to/phaniallamsetty/leetcode-227-java-basic-calculator-ii-4i8l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
