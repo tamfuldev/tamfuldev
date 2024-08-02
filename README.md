@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Little tricks to improve your customer onboarding experience](https://dev.to/logto/little-tricks-to-improve-your-customer-onboarding-experience-40bn)
+- [Your team member struggles with assertiveness. How can you provide feedback that empowers their leadership?](https://dev.to/gourav_sharma_00/your-team-member-struggles-with-assertiveness-how-can-you-provide-feedback-that-empowers-their-leadership-18dd)
+- [Spread Syntax](https://dev.to/benlongcp/spread-syntax-42no)
+- [封装 Sqlc 的 Queries 实现更方便的事务操作](https://dev.to/hungtcs/feng-zhuang-sqlc-de-queries-shi-xian-geng-fang-bian-de-shi-wu-cao-zuo-3keo)
 - [Use React.lazy with confidence: A safe way to load components when iterating fast](https://dev.to/logto/use-reactlazy-with-confidence-a-safe-way-to-load-components-when-iterating-fast-1gkh)
-- [How to sort correctly arrays in JavaScript?](https://dev.to/pierre/sort-arrays-in-javascript-b78)
-- [Today&#39;s Trending Projects: Build an VSCode Extension With ChatGPT and More](https://dev.to/labex/todays-trending-projects-build-an-vscode-extension-with-chatgpt-and-more-1bim)
-- [Migrate Strapi from Render to Fly.io](https://dev.to/candidosales/migrate-strapi-from-render-to-flyio-lbi)
-- [High Performance with Java: Discover strategies and best practices to develop high performance Java applications](https://dev.to/avbravo/high-performance-with-java-discover-strategies-and-best-practices-to-develop-high-performance-java-applications-3806)
 <!-- BLOG-POST-LIST:END -->
 
 ---
