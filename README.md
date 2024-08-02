@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Web Push Notifications with React and Firebase Cloud Messaging &lpar;FCM&rpar;](https://dev.to/emmanuelayinde/web-push-notifications-with-react-and-firebase-cloud-messaging-fcm-18kb)
-- [This Week In React #194 : React Conf, Rsnext, TypeScript, Next.js, PPR, Owner components, Preloading, Zustand, Flutter...](https://dev.to/sebastienlorber/this-week-in-react-194-fog-of-war-react-html-memory-leaks-security-chadcnui-charts-mui-xr-57k5)
-- [MIDDLEWARE](https://dev.to/muhammadiqbalid83/middleware-3l18)
-- [How to Setup Git and Github](https://dev.to/abidemi/git-2ljc)
-- [ROUTING](https://dev.to/muhammadiqbalid83/routing-4pp6)
+- [Beginner&#39;s Guide to Scikit-Learn &lpar;sklearn&rpar; 📚](https://dev.to/kammarianand/beginners-guide-to-scikit-learn-sklearn-16ab)
+- [Scrape X.com &lpar;Twitter&rpar; Tweet Pages Using Python](https://dev.to/crawlbase/scrape-xcom-twitter-tweet-pages-using-python-287n)
+- [What is the Template API](https://dev.to/georg-dev/what-is-the-template-api-1opb)
+- [Design Pattern #7 - Builder Pattern](https://dev.to/superviz/design-pattern-7-builder-pattern-10j4)
+- [Go Gin Templates: Break Them Down](https://dev.to/ossan/go-gin-templates-break-them-down-4mob)
 <!-- BLOG-POST-LIST:END -->
 
 ---
