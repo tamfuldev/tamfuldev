@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 JavaScript Best Practices for Writing Clean Code 🚀](https://dev.to/dipakahirav/top-10-javascript-best-practices-for-writing-clean-code-3fie)
 - [You&#39;re faced with conflicting team members. How do you navigate a resolution between them?](https://dev.to/gourav_sharma_00/youre-faced-with-conflicting-team-members-how-do-you-navigate-a-resolution-between-them-3ch0)
+- [Firebase Crashlytics](https://dev.to/sidcodeme/firebase-crashlytics-4d9)
 - [Taming the Beast: Structuring Large-Scale React Applications](https://dev.to/virajlakshitha/taming-the-beast-structuring-large-scale-react-applications-20a1)
 - [Internationalizing and Localizing a Flutter App | How to Develop an App with Flutter – Part 7](https://dev.to/koral/internationalizing-and-localizing-a-flutter-app-how-to-develop-an-app-with-flutter-part-7-223f)
-- [Today&#39;s Trending Projects: Implementing Queue Data Structure in C and More](https://dev.to/labex/todays-trending-projects-implementing-queue-data-structure-in-c-and-more-1439)
-- [Build your own AI Video editor with Node.js, AssemblyAI &amp; StreamPot &lpar;hosted&rpar;](https://dev.to/jacksbridger/build-your-own-ai-video-editor-with-nodejs-assemblyai-streampot-hosted-25h9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
