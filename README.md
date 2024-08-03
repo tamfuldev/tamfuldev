@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Fundamentals: A Beginner&#39;s Guide](https://dev.to/egbo2255/javascript-fundamentals-a-beginners-guide-46gg)
-- [Blade Templates](https://dev.to/muhammadiqbalid83/blade-templates-1l1g)
-- [My Summer Vacation!](https://dev.to/darrenfj/my-summer-vacation-3kel)
-- [[Game of Purpose] Day 76](https://dev.to/humberd/game-of-purpose-day-76-4lhe)
-- [Todo lo que necesitas saber sobre JavaScript, La Guía completa desde Cero.🥇](https://dev.to/urian121/todo-lo-que-necesitas-saber-sobre-javascript-la-guia-completa-desde-cero-28gg)
+- [Database: Seeding](https://dev.to/muhammadiqbalid83/database-seeding-58b0)
+- [Eloquent: Relationships](https://dev.to/muhammadiqbalid83/eloquent-relationships-j7m)
+- [Eloquent: Factories](https://dev.to/muhammadiqbalid83/eloquent-factories-14bk)
+- [Why Up-to-Date API Documentation is Essential](https://dev.to/shieldstring/why-up-to-date-api-documentation-is-essential-30p1)
+- [Advanced Java Concurrency Utilities](https://dev.to/adaumircosta/advanced-java-concurrency-utilities-1apf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
