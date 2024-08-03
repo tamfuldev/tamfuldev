@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Creating Git and Github](https://dev.to/laoluafolami/creating-git-and-github-275a)
-- [Dive into the Depths of Deep Learning: Free Online Courses to Elevate Your AI Expertise 🧠](https://dev.to/getvm/dive-into-the-depths-of-deep-learning-free-online-courses-to-elevate-your-ai-expertise-205m)
-- [Cloud Access Security Brokers &lpar;CASB&rpar;: Safeguarding AWS Data](https://dev.to/sudoconsultants/cloud-access-security-brokers-casb-safeguarding-aws-data-4hi5)
-- [Kubernetes Simplified: A Comprehensive Introduction for Beginners](https://dev.to/emminex/kubernetes-simplified-a-comprehensive-introduction-for-beginners-47jc)
-- [Real-Time Notifications with the Observer Pattern: A Practical Guide](https://dev.to/sudharshan06/real-time-notifications-with-the-observer-pattern-a-practical-guide-51gi)
+- [🤖💻 The Use of Artificial Intelligence in Daily Development: Transforming Challenges into Opportunities](https://dev.to/fonteeboa/the-use-of-artificial-intelligence-in-daily-development-transforming-challenges-into-opportunities-2fhn)
+- [Understanding the Observer Design Pattern in Java](https://dev.to/diegosilva13/understanding-the-observer-design-pattern-in-java-2lpc)
+- [Journey Through CSS: Mastering Colors and Moving Forward](https://dev.to/anu_charleykothamattathi/journey-through-css-mastering-colors-and-moving-forward-1flb)
+- [JS Carousel inspired by shadcn/ui](https://dev.to/cresvin/carousel-inspired-by-shadcnui-4kp9)
+- [Fortalece la Seguridad de tu AWS: Implementación de MFA para Usuarios IAM](https://dev.to/cyb3rcloud8888/fortalece-la-seguridad-de-tu-aws-implementacion-de-mfa-para-usuarios-iam-3akm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
