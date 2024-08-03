@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Determination: Know Your True Self](https://dev.to/annavi11arrea1/determination-know-your-true-self-g1a)
-- [Sani](https://dev.to/sani_zehra_53f6bf2fb837e1/sani-3op5)
-- [JAVASCRIPT OUTPUT BASED:](https://dev.to/bhu_101/javascript-output-based-51d1)
-- [JAVASCRIPT OUTPUT BASED:](https://dev.to/bhu_101/javascript-output-based-2nea)
-- [JAVASCRIPT OUTPUT BASED:](https://dev.to/bhu_101/javascript-output-based-4boi)
+- [Creating Git and Github](https://dev.to/laoluafolami/creating-git-and-github-275a)
+- [Dive into the Depths of Deep Learning: Free Online Courses to Elevate Your AI Expertise 🧠](https://dev.to/getvm/dive-into-the-depths-of-deep-learning-free-online-courses-to-elevate-your-ai-expertise-205m)
+- [Cloud Access Security Brokers &lpar;CASB&rpar;: Safeguarding AWS Data](https://dev.to/sudoconsultants/cloud-access-security-brokers-casb-safeguarding-aws-data-4hi5)
+- [Kubernetes Simplified: A Comprehensive Introduction for Beginners](https://dev.to/emminex/kubernetes-simplified-a-comprehensive-introduction-for-beginners-47jc)
+- [Real-Time Notifications with the Observer Pattern: A Practical Guide](https://dev.to/sudharshan06/real-time-notifications-with-the-observer-pattern-a-practical-guide-51gi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
