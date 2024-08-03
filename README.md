@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Quick Start to Git and GitHub](https://dev.to/celestina_odili/a-quick-start-to-git-and-github-587d)
-- [Integrating Web Technologies: A Brief Journey](https://dev.to/amanmatharukailey/integrating-web-technologies-a-brief-journey-4b63)
-- [Mastering Git Fixup Commits: Streamline Your Workflow](https://dev.to/labex/mastering-git-fixup-commits-streamline-your-workflow-2a77)
-- [What Hockey Has Taught Me About Teamwork](https://dev.to/blazingbits/what-hockey-has-taught-me-about-teamwork-5670)
-- [Why Flutter for app development?](https://dev.to/aadarshk7/why-flutter-for-app-development-2hia)
+- [Music Player with Slider | Swiper JS](https://dev.to/salawudeen_abiodunabiola/music-player-with-slider-swiper-js-ij8)
+- [JavaScript: String Template Literals](https://dev.to/meganpaffrath/javascript-string-template-literals-20b0)
+- [Styling Components in React 🧢](https://dev.to/__khojiakbar__/styling-components-in-react-2b0k)
+- [🚀Day 5: Mastering Linux Shell Scripts for DevOps User Management](https://dev.to/ritesh_dolare/day-5-mastering-linux-shell-scripts-for-devops-user-management-21i4)
+- [CSS Positioning in under 4 minutes](https://dev.to/sportivearavind/css-positioning-in-under-4-minutes-4208)
 <!-- BLOG-POST-LIST:END -->
 
 ---
