@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [VIRTUAL FUNCTIONS IN JAVA](https://dev.to/shreeprabha_bhat/virtual-functions-in-object-oriented-programming-3611)
-- [Evaluating Flutter for Desktop Web App Development](https://dev.to/rjk/evaluating-flutter-for-desktop-web-app-development-inj)
-- [Exploit Ep - 1: From Prototype Pollution to a 100% Discount](https://dev.to/middleware/exploit-ep-1-from-prototype-pollution-to-a-100-discount-4p93)
-- [A Few Tips for Freelancers &amp; Entrepreneurs](https://dev.to/christopherchhim/a-few-tips-for-freelancers-entrepreneurs-5aji)
-- [x-model](https://dev.to/muhammadiqbalid83/x-model-2j52)
+- [W.I.P Javascript Interview Preparation](https://dev.to/ashutoshsarangi/wip-javascript-interview-preparation-4c8m)
+- [Make Money Just by Writing a Function!](https://dev.to/mohsenkamrani/make-money-just-by-writing-a-function-21dn)
+- [Understanding the Differences Between JSON and Other Data Formats](https://dev.to/keploy/understanding-the-differences-between-json-and-other-data-formats-2pke)
+- [The Thing Called AI Episode 2: The Big Bang](https://dev.to/zadazini/the-thing-called-ai-episode-2-the-big-bang-15nj)
+- [Python : Print Modifiers](https://dev.to/kvm1917/python-print-modifiers-330g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
