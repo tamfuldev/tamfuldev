@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🤖💻 The Use of Artificial Intelligence in Daily Development: Transforming Challenges into Opportunities](https://dev.to/fonteeboa/the-use-of-artificial-intelligence-in-daily-development-transforming-challenges-into-opportunities-2fhn)
-- [Understanding the Observer Design Pattern in Java](https://dev.to/diegosilva13/understanding-the-observer-design-pattern-in-java-2lpc)
-- [Journey Through CSS: Mastering Colors and Moving Forward](https://dev.to/anu_charleykothamattathi/journey-through-css-mastering-colors-and-moving-forward-1flb)
-- [JS Carousel inspired by shadcn/ui](https://dev.to/cresvin/carousel-inspired-by-shadcnui-4kp9)
-- [Fortalece la Seguridad de tu AWS: Implementación de MFA para Usuarios IAM](https://dev.to/cyb3rcloud8888/fortalece-la-seguridad-de-tu-aws-implementacion-de-mfa-para-usuarios-iam-3akm)
+- [ZED-Score Calculator](https://dev.to/anna_lapushner/zed-score-calculator-1l0j)
+- [MOST IMPORTANT JS OUTPUT BASED QUESTION:](https://dev.to/bhu_101/most-important-js-output-based-question-14jj)
+- [🚀 Day 5: Exploring List Rendering and Conditional Rendering in React🚀](https://dev.to/mayureshsurve/day-5-exploring-list-rendering-and-conditional-rendering-in-react-1g5i)
+- [Day 9: 21-Day JavaScript Learning Challenge with Hitesh Choudhary](https://dev.to/rohit1301/day-9-21-day-javascript-learning-challenge-with-hitesh-choudhary-2ea2)
+- [The Container Orchestration vs Function-as-a-Service &lpar;FaaS&rpar; Debate](https://dev.to/aws-builders/the-container-orchestration-vs-function-as-a-service-faas-debate-1bj8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
