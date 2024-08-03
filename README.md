@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 JavaScript Best Practices for Writing Clean Code 🚀](https://dev.to/dipakahirav/top-10-javascript-best-practices-for-writing-clean-code-3fie)
-- [You&#39;re faced with conflicting team members. How do you navigate a resolution between them?](https://dev.to/gourav_sharma_00/youre-faced-with-conflicting-team-members-how-do-you-navigate-a-resolution-between-them-3ch0)
-- [Firebase Crashlytics](https://dev.to/sidcodeme/firebase-crashlytics-4d9)
-- [Taming the Beast: Structuring Large-Scale React Applications](https://dev.to/virajlakshitha/taming-the-beast-structuring-large-scale-react-applications-20a1)
-- [Internationalizing and Localizing a Flutter App | How to Develop an App with Flutter – Part 7](https://dev.to/koral/internationalizing-and-localizing-a-flutter-app-how-to-develop-an-app-with-flutter-part-7-223f)
+- [A Quick Start to Git and GitHub](https://dev.to/celestina_odili/a-quick-start-to-git-and-github-587d)
+- [Integrating Web Technologies: A Brief Journey](https://dev.to/amanmatharukailey/integrating-web-technologies-a-brief-journey-4b63)
+- [Mastering Git Fixup Commits: Streamline Your Workflow](https://dev.to/labex/mastering-git-fixup-commits-streamline-your-workflow-2a77)
+- [What Hockey Has Taught Me About Teamwork](https://dev.to/blazingbits/what-hockey-has-taught-me-about-teamwork-5670)
+- [Why Flutter for app development?](https://dev.to/aadarshk7/why-flutter-for-app-development-2hia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
