@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Database: Seeding](https://dev.to/muhammadiqbalid83/database-seeding-58b0)
-- [Eloquent: Relationships](https://dev.to/muhammadiqbalid83/eloquent-relationships-j7m)
-- [Eloquent: Factories](https://dev.to/muhammadiqbalid83/eloquent-factories-14bk)
-- [Why Up-to-Date API Documentation is Essential](https://dev.to/shieldstring/why-up-to-date-api-documentation-is-essential-30p1)
-- [Advanced Java Concurrency Utilities](https://dev.to/adaumircosta/advanced-java-concurrency-utilities-1apf)
+- [Build your own AI Video editor with Node.js, AssemblyAI &amp; StreamPot &lpar;hosted&rpar;](https://dev.to/jacksbridger/build-your-own-ai-video-editor-with-nodejs-assemblyai-streampot-hosted-25h9)
+- [Understanding SSL for Beginners](https://dev.to/mibii/understanding-ssl-for-beginners-103l)
+- [Building a Rewarding Career in Data Science: Navigating this Complex Landscape.](https://dev.to/jude_onuh/building-a-rewarding-career-in-data-science-navigating-this-complex-landscape-ka)
+- [AI Taxonomy](https://dev.to/sc0v0ne/ai-taxonomy-32lj)
+- [Resolvendo o desafio de um bilhão de linhas em Go &lpar;de 1m40s para 8,4s&rpar;](https://dev.to/jnaraujo/resolvendo-o-desafio-de-um-bilhao-de-linhas-em-go-de-1m40s-para-84s-5hi9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
