@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [An Approach to Finding Missing Documents between 2 indices](https://dev.to/aditya_singh_78be52d82a3a/elasticsearch-reindexing-a-data-engineers-guide-to-finding-missing-documents-2cnj)
-- [1460. Make Two Arrays Equal by Reversing Subarrays](https://dev.to/mdarifulhaque/1460-make-two-arrays-equal-by-reversing-subarrays-4e5l)
-- [Simulating a Privelege Escalation attack to Test Your Sentinel and Defender Setup &lpar;Final&rpar;](https://dev.to/jimiog/simulating-a-privelege-escalation-attack-to-test-your-sentinel-and-defender-setup-final-4n0b)
-- [Configuring Data Collection and Analytics in Microsoft Sentinel &lpar;Part 3&rpar;](https://dev.to/jimiog/configuring-data-collection-and-analytics-in-microsoft-sentinel-part-3-l5f)
-- [Enhancing Your Microsoft Sentinel Environment with Content Hub Solution &lpar;Part 2&rpar;](https://dev.to/jimiog/enhancing-your-microsoft-sentinel-environment-with-content-hub-solution-part-2-13k1)
+- [Data Engineering 101](https://dev.to/stephen_quadross/data-engineering-101-404a)
+- [100FrontendChallenge - Day 5 - Recipe](https://dev.to/t1xx1/100frontendchallenge-day-5-recipe-4na4)
+- [I&#39;m developing a minimalistic note-taking web app with custom widgets. Can you suggest any widgets you would like to see?](https://dev.to/rita/im-developing-a-minimalistic-note-taking-web-app-with-custom-widgets-can-you-suggest-any-widgets-you-would-like-to-see-5764)
+- [Amazon EC2 Instance:](https://dev.to/mubeen780/amazon-ec2-instance-266e)
+- [Elasticsearch: Finding Missing Documents between 2 indices](https://dev.to/aditya_singh_78be52d82a3a/elasticsearch-reindexing-a-data-engineers-guide-to-finding-missing-documents-2cnj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
