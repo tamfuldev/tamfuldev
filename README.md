@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Yugo: Revolutionizing AI Integration for Web Developers](https://dev.to/ynishi/introducing-yugo-revolutionizing-ai-integration-for-web-developers-1p55)
-- [What is Prompt Engineering?](https://dev.to/mwlang/what-is-prompt-engineering-1lhj)
-- [How to Dockerize a Next.js Application](https://dev.to/shanu001x/how-to-dockerize-a-nextjs-application-6c7)
-- [The Importance of Connection Pooling](https://dev.to/kishan_vyas_c86548d338665/the-importance-of-connection-pooling-3km)
-- [Reconciliation: A quick dive](https://dev.to/kashifnehal/reconciliation-a-quick-dive-55o7)
+- [An Approach to Finding Missing Documents between 2 indices](https://dev.to/aditya_singh_78be52d82a3a/elasticsearch-reindexing-a-data-engineers-guide-to-finding-missing-documents-2cnj)
+- [1460. Make Two Arrays Equal by Reversing Subarrays](https://dev.to/mdarifulhaque/1460-make-two-arrays-equal-by-reversing-subarrays-4e5l)
+- [Simulating a Privelege Escalation attack to Test Your Sentinel and Defender Setup &lpar;Final&rpar;](https://dev.to/jimiog/simulating-a-privelege-escalation-attack-to-test-your-sentinel-and-defender-setup-final-4n0b)
+- [Configuring Data Collection and Analytics in Microsoft Sentinel &lpar;Part 3&rpar;](https://dev.to/jimiog/configuring-data-collection-and-analytics-in-microsoft-sentinel-part-3-l5f)
+- [Enhancing Your Microsoft Sentinel Environment with Content Hub Solution &lpar;Part 2&rpar;](https://dev.to/jimiog/enhancing-your-microsoft-sentinel-environment-with-content-hub-solution-part-2-13k1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
