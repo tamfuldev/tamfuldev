@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a Static Website with Docker: A Comprehensive Guide](https://dev.to/omkara18/deploying-a-static-website-with-docker-a-comprehensive-guide-3gk)
-- [&quot;Data Engineering 101: A Beginner&#39;s Guide&quot;](https://dev.to/samtheanalyst/data-engineering-101-a-beginners-guide-2ngn)
-- [Extending YAML p.1 - structuring a meta-programming language](https://dev.to/mimopotato/extending-yaml-p1-structuring-a-meta-programming-language-110m)
-- [How to build Google calendar clone with React &lpar;Month view&rpar;](https://dev.to/cookiemonsterdev/how-to-build-google-calendar-clone-with-react-month-view-218a)
-- [How To Deploy RabbitMQ On Public IP?](https://dev.to/nilebits/how-to-deploy-rabbitmq-on-public-ip-26ek)
+- [Determination: Know Your True Self](https://dev.to/annavi11arrea1/determination-know-your-true-self-g1a)
+- [Sani](https://dev.to/sani_zehra_53f6bf2fb837e1/sani-3op5)
+- [JAVASCRIPT OUTPUT BASED:](https://dev.to/bhu_101/javascript-output-based-51d1)
+- [JAVASCRIPT OUTPUT BASED:](https://dev.to/bhu_101/javascript-output-based-2nea)
+- [JAVASCRIPT OUTPUT BASED:](https://dev.to/bhu_101/javascript-output-based-4boi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
