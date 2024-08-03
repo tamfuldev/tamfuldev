@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Software Engineer&#39;s Journey: Examining Every Option and Its Requirements](https://dev.to/jps27cse/the-software-engineers-journey-examining-every-option-and-its-requirements-1loh)
-- [From Mnemonic to Bitcoin Addresses in JavaScript](https://dev.to/mibii/from-mnemonic-to-bitcoin-addresses-in-javascript-1dmp)
-- [Day 17 of 100 Days of Cloud: Exploring HashiCorp Consul](https://dev.to/tutorialhelldev/day-17-of-100-days-of-cloud-exploring-hashicorp-consul-he6)
-- [Registro 001 — Antes de Escribir Código: La Importancia de Planificar tu Proyecto Flutter](https://dev.to/betoflakes/registro-001-antes-de-escribir-codigo-la-importancia-de-planificar-tu-proyecto-flutter-3p47)
-- [Mastering Git for DevOps: A Comprehensive Guide](https://dev.to/pratik_nalawade/mastering-git-for-devops-a-comprehensive-guide-4h6p)
+- [VIRTUAL FUNCTIONS IN JAVA](https://dev.to/shreeprabha_bhat/virtual-functions-in-object-oriented-programming-3611)
+- [Evaluating Flutter for Desktop Web App Development](https://dev.to/rjk/evaluating-flutter-for-desktop-web-app-development-inj)
+- [Exploit Ep - 1: From Prototype Pollution to a 100% Discount](https://dev.to/middleware/exploit-ep-1-from-prototype-pollution-to-a-100-discount-4p93)
+- [A Few Tips for Freelancers &amp; Entrepreneurs](https://dev.to/christopherchhim/a-few-tips-for-freelancers-entrepreneurs-5aji)
+- [x-model](https://dev.to/muhammadiqbalid83/x-model-2j52)
 <!-- BLOG-POST-LIST:END -->
 
 ---
