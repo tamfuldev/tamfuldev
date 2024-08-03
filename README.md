@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [ZED-Score Calculator](https://dev.to/anna_lapushner/zed-score-calculator-1l0j)
-- [MOST IMPORTANT JS OUTPUT BASED QUESTION:](https://dev.to/bhu_101/most-important-js-output-based-question-14jj)
-- [🚀 Day 5: Exploring List Rendering and Conditional Rendering in React🚀](https://dev.to/mayureshsurve/day-5-exploring-list-rendering-and-conditional-rendering-in-react-1g5i)
-- [Day 9: 21-Day JavaScript Learning Challenge with Hitesh Choudhary](https://dev.to/rohit1301/day-9-21-day-javascript-learning-challenge-with-hitesh-choudhary-2ea2)
-- [The Container Orchestration vs Function-as-a-Service &lpar;FaaS&rpar; Debate](https://dev.to/aws-builders/the-container-orchestration-vs-function-as-a-service-faas-debate-1bj8)
+- [Introducing Yugo: Revolutionizing AI Integration for Web Developers](https://dev.to/ynishi/introducing-yugo-revolutionizing-ai-integration-for-web-developers-1p55)
+- [What is Prompt Engineering?](https://dev.to/mwlang/what-is-prompt-engineering-1lhj)
+- [How to Dockerize a Next.js Application](https://dev.to/shanu001x/how-to-dockerize-a-nextjs-application-6c7)
+- [The Importance of Connection Pooling](https://dev.to/kishan_vyas_c86548d338665/the-importance-of-connection-pooling-3km)
+- [Reconciliation: A quick dive](https://dev.to/kashifnehal/reconciliation-a-quick-dive-55o7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
