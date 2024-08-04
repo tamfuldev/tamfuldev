@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Your First Android App: A Beginner&#39;s Guide](https://dev.to/media_geneous/building-your-first-android-app-a-beginners-guide-1pa5)
-- [My 10 hints for AI coding](https://dev.to/alexanderisora/my-10-hints-for-ai-coding-5042)
-- [First Blog](https://dev.to/mscode07/first-blog-c2c)
-- [Difference between RPM based and Debian based.](https://dev.to/chiragkumardev/difference-between-rpm-based-and-debian-based-3idj)
-- [JavaScript Closures](https://dev.to/lakmal_asela_8be4eb30d9db/javascript-closures-551a)
+- [Vanilla JS carousel that is accessible, swipeable, infinite-scrolling, and autoplaying](https://dev.to/masakudamatsu/vanilla-js-carousel-that-is-accessible-swipeable-infinite-scrolling-and-autoplaying-19kc)
+- [Keep It Simple - Busque a simplicidade](https://dev.to/mathsena/keep-it-simple-busque-a-simplicidade-51fp)
+- [Introducing Llama 3.1: Meta&#39;s most capable models to date](https://dev.to/jaypaun/introducing-llama-31-metas-most-capable-models-to-date-4cfa)
+- [Finally, a scalable folder structure for your frontend code](https://dev.to/anshsaini/finally-a-scalable-folder-structure-for-your-frontend-code-43li)
+- [Beginner&#39;s Guide: Creating a Real-Time Chat App with Next.js and WebSockets](https://dev.to/manjushsh/beginners-guide-creating-a-real-time-chat-app-with-nextjs-and-websockets-1fol)
 <!-- BLOG-POST-LIST:END -->
 
 ---
