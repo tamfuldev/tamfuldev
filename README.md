@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Web Development Without &lpar;Build&rpar; Tooling](https://dev.to/louwers/web-development-without-tooling-flk)
+- [Understanding the Basics of Blockchain Development](https://dev.to/media_geneous/understanding-the-basics-of-blockchain-development-58m1)
 - [Function Decorators in Python](https://dev.to/tessmueske/function-decorators-in-python-55l)
 - [Decorator Getters and Setters in Python](https://dev.to/tessmueske/decorator-getters-and-setters-in-python-6cd)
 - [RSS support added to Texted](https://dev.to/thiagomg/rss-support-added-to-texted-2j2p)
-- [Docker para Jrs #1: Introducción 🔥](https://dev.to/gareisdev/docker-para-jrs-1-introduccion-b6p)
-- [Calcu...much...later](https://dev.to/codecara/calcumuchlater-448o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
