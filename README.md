@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Vanilla JS carousel that is accessible, swipeable, infinite-scrolling, and autoplaying](https://dev.to/masakudamatsu/vanilla-js-carousel-that-is-accessible-swipeable-infinite-scrolling-and-autoplaying-19kc)
-- [Keep It Simple - Busque a simplicidade](https://dev.to/mathsena/keep-it-simple-busque-a-simplicidade-51fp)
-- [Introducing Llama 3.1: Meta&#39;s most capable models to date](https://dev.to/jaypaun/introducing-llama-31-metas-most-capable-models-to-date-4cfa)
-- [Finally, a scalable folder structure for your frontend code](https://dev.to/anshsaini/finally-a-scalable-folder-structure-for-your-frontend-code-43li)
-- [Beginner&#39;s Guide: Creating a Real-Time Chat App with Next.js and WebSockets](https://dev.to/manjushsh/beginners-guide-creating-a-real-time-chat-app-with-nextjs-and-websockets-1fol)
+- [How to Build Interactive CodePlay App with Real-time Output](https://dev.to/daslaw/how-to-build-interactive-codeplay-app-with-real-time-output-4al1)
+- [Anatomy of Fileless Malware](https://dev.to/muhammad_usman_759c5cbefe/anatomy-of-fileless-malware-n74)
+- [How to Build Scalable Automated Workflows like HubSpot using AWS Lambda, SQS, Node.js, and MongoDB](https://dev.to/bhaskar_sawant/how-to-build-scalable-automated-workflows-like-hubspot-using-aws-lambda-sqs-nodejs-and-mongodb-3dnd)
+- [Is your ISP blocking you from sharing your internet connection?](https://dev.to/fdtm/is-your-isp-blocking-you-from-sharing-your-internet-connection-2cc4)
+- [Base64 Encoding/Decoding in JavaScript](https://dev.to/onurpalaz/base64-encodingdecoding-in-javascript-5f8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
