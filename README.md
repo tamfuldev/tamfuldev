@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [10 must-have VS Code extensions for web development](https://dev.to/safdarali/10-must-have-vs-code-extensions-for-web-development-43f5)
-- [My Company Just Made Me 2 Years Younger](https://dev.to/mashablair/my-company-just-made-me-2-years-younger-31p8)
-- [Top 5 Platforms for Building AI Agents: Key Features, Use Cases, and Pricing Insights](https://dev.to/oleg_protsenko_87315e838f/top-5-platforms-for-building-ai-agents-key-features-use-cases-and-pricing-insights-2dn7)
-- [Answer: What is the difference between annotation and decorator?](https://dev.to/zayn_tariq/answer-what-is-the-difference-between-annotation-and-decorator-400g)
-- [Taming the Beast: Conquering Spring Boot Testing](https://dev.to/virajlakshitha/taming-the-beast-conquering-spring-boot-testing-1jol)
+- [Today&#39;s Trending Projects: Change Default Value for Countrylanguage Table and More](https://dev.to/labex/todays-trending-projects-change-default-value-for-countrylanguage-table-and-more-18f5)
+- [Override functions in individual tests using Jest](https://dev.to/tylerlwsmith/override-functions-in-individual-tests-using-jest-dp5)
+- [Implementing Conditional Hover States in Nested Divs with React Hooks](https://dev.to/albertocubeddu/implementing-conditional-hover-states-in-nested-divs-with-react-hooks-119a)
+- [x-for](https://dev.to/muhammadiqbalid83/x-for-3973)
+- [Optimizing Transformations in Pentaho: Case Study](https://dev.to/pcabreram1234/optimizing-transformations-in-pentaho-case-study-1h1f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
