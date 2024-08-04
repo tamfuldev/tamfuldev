@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A 2nd yearer...](https://dev.to/mayankchandratre1/a-2nd-yearer-ch2)
-- [Decoding System Design of Rate Limiter: 1&lpar; Your Goto Protector for backend APIs&rpar;](https://dev.to/ganeshyadav3142/decoding-system-design-of-rate-limiter-1-your-goto-protector-for-backend-apis-292e)
-- [Hiking the Mt. Rainier 7.5 Trail – A Journey of Nature&#39;s Majesty](https://dev.to/aws-heroes/hiking-the-mt-rainier-75-trail-a-journey-of-natures-majesty-1ing)
-- [A Beginner&#39;s Guide to Data Analysis: Techniques and Tools](https://dev.to/gloria_chebet_415b1977b86/a-beginners-guide-to-data-analysis-techniques-and-tools-4iaf)
-- [The Ultimate Guide to Data Analysis: Techniques and Tools](https://dev.to/austine_baraka_19b857f186/the-ultimate-guide-to-data-analysis-techniques-and-tools-2485)
+- [🚀Node.js Performance Nightmares: 3 Bottlenecks That Are Costing You Money &lpar;and How to Fix Them FAST&rpar; 🚀](https://dev.to/vadim-tuchila/nodejs-performance-nightmares-3-bottlenecks-that-are-costing-you-money-and-how-to-fix-them-fast-25mg)
+- [Remove chunks from the next js](https://dev.to/jnanendraveer/remove-chunks-from-the-next-js-2m8i)
+- [The Ultimate Guide to Data Analytics: Techniques and Tools](https://dev.to/lameck_oluoch/the-ultimate-guide-to-data-analytics-techniques-and-tools-2oa9)
+- [My AWS SQS Requests Skyrocketed to 1 Million at Month&#39;s Start. This is How I Implemented a Cost-Effective Solution.](https://dev.to/ganesh-kumar/my-aws-sqs-requests-skyrocketed-to-1-million-at-months-start-this-is-how-i-implemented-a-cost-effective-solution-3266)
+- [🙅 Why Hating TypeScript in 2024 Doesn&#39;t Make Sense](https://dev.to/middleware/why-hating-typescript-in-2024-doesnt-make-sense-44e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
