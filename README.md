@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build native image from Spring Boot Application with GraalVM builder](https://dev.to/binoy_59380e698d318/build-native-image-from-spring-boot-application-with-graalvm-builder-3b7l)
-- [Benefícios para SEO e Acessibilidade](https://dev.to/mikedsousa/beneficios-para-seo-e-acessibilidade-51j8)
-- [3 Common Mistakes Beginners Make When Learning Rust](https://dev.to/francescoxx/3-common-mistakes-beginners-make-when-learning-rust-4kic)
-- [Cracking the LeetCode 122. Best Time to Buy and Sell Stock II](https://dev.to/this-is-learning/cracking-the-leetcode-122-best-time-to-buy-and-sell-stock-ii-17k5)
-- [I am not a Coder But This Is How I Write CSS](https://dev.to/eshaka/i-am-not-a-coder-but-this-is-how-i-write-css-2049)
+- [Just Surviving: Working Remotely for Beginners](https://dev.to/lukeocodes/just-surviving-working-remotely-for-beginners-342n)
+- [Glam Up Cricket League!](https://dev.to/tanulathika_deokule/glam-up-cricket-league-2g8)
+- [NSFW API Guide: How to Censor Sexual Content in Videos](https://dev.to/api4ai/nsfw-api-guide-how-to-censor-sexual-content-in-videos-1fai)
+- [Data Structure and Algorithm Basics - Big&lpar;O&rpar; Notations](https://dev.to/somadevtoo/data-structure-and-algorithm-basics-bigo-notations-5ak)
+- [Data Structure and Algorithm Basics - Big&lpar;O&rpar; Notations](https://dev.to/somadevtoo/data-structure-and-algorithm-basics-bigo-notations-1nek)
 <!-- BLOG-POST-LIST:END -->
 
 ---
