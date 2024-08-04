@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Today&#39;s Trending Projects: Change Default Value for Countrylanguage Table and More](https://dev.to/labex/todays-trending-projects-change-default-value-for-countrylanguage-table-and-more-18f5)
-- [Override functions in individual tests using Jest](https://dev.to/tylerlwsmith/override-functions-in-individual-tests-using-jest-dp5)
-- [Implementing Conditional Hover States in Nested Divs with React Hooks](https://dev.to/albertocubeddu/implementing-conditional-hover-states-in-nested-divs-with-react-hooks-119a)
-- [x-for](https://dev.to/muhammadiqbalid83/x-for-3973)
-- [Optimizing Transformations in Pentaho: Case Study](https://dev.to/pcabreram1234/optimizing-transformations-in-pentaho-case-study-1h1f)
+- [Doing Horrible Things in Haskell](https://dev.to/elodielander/doing-horrible-things-in-haskell-13fh)
+- [Front-End Optimization: Debouncing and Throttling Explained In Short](https://dev.to/nosylasairaf/front-end-optimization-debouncing-and-throttling-explained-in-short-15ah)
+- [Chess](https://dev.to/ciromontes/chess-di4)
+- [Expert advice on how to build a successful career in data science, including tips on education, skills, and job searching.](https://dev.to/athi47/expert-advice-on-how-to-build-a-successful-career-in-data-science-including-tips-on-education-skills-and-job-searching-30e0)
+- [Expert advice on how to build a successful career in data science, including tips on education, skills, and job searching.](https://dev.to/athi47/expert-advice-on-how-to-build-a-successful-career-in-data-science-including-tips-on-education-skills-and-job-searching-2ch6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
