@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Data Analysis, The Ultimate Guide to Data Analytics: Techniques and Tools](https://dev.to/sjt/data-analysis-the-ultimate-guide-to-data-analytics-techniques-and-tools-2pfa)
-- [The Ultimate Guide to Data Analytics: Techniques and Tools](https://dev.to/byron_morara_47062585d306/the-ultimate-guide-to-data-analytics-techniques-and-tools-2288)
-- [Expert advice on how to build a successful career in data science, including tips on education, skills, and job searching.](https://dev.to/joshua-km/expert-advice-on-how-to-build-a-successful-career-in-data-science-including-tips-on-education-skills-and-job-searching-2mlm)
-- [Découvrez @codedav/datetime-helper - Simplifiez la gestion des dates et heures en Node.js !](https://dev.to/bilongodavid/decouvrez-codedavdatetime-helper-simplifiez-la-gestion-des-dates-et-heures-en-nodejs--1pkc)
-- [FLUX Local &amp; Cloud Tutorial With SwarmUI - FLUX: The Pioneering Open Source txt2img Model Outperforming Midjourney &amp; Others](https://dev.to/furkangozukara/flux-local-cloud-tutorial-with-swarmui-flux-the-pioneering-open-source-txt2img-model-outperforming-midjourney-others-3fed)
+- [Function Decorators in Python](https://dev.to/tessmueske/function-decorators-in-python-55l)
+- [Decorator Getters and Setters in Python](https://dev.to/tessmueske/decorator-getters-and-setters-in-python-6cd)
+- [RSS support added to Texted](https://dev.to/thiagomg/rss-support-added-to-texted-2j2p)
+- [Docker para Jrs #1: Introducción 🔥](https://dev.to/gareisdev/docker-para-jrs-1-introduccion-b6p)
+- [Calcu...much...later](https://dev.to/codecara/calcumuchlater-448o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
