@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [need help !](https://dev.to/abishek61001/need-help--3i95)
-- [The Unsung Heroes of the AI Age: Sysadmins, Our Digital Guardians](https://dev.to/fa5tworm/the-unsung-heroes-of-the-ai-age-sysadmins-our-digital-guardians-4npg)
-- [Embracing the Future: Web4 and AI Integration — A New Era with Linkspreed](https://dev.to/web4/embracing-the-future-web4-and-ai-integration-a-new-era-with-linkspreed-3mk)
-- [Want to Build a Career in Data Science? Here&#39;s How to Get Started](https://dev.to/gekika/want-to-build-a-career-in-data-science-heres-how-to-get-started-41ao)
-- [Khám Phá Danh Thiếp Điện Tử VBoss: Cách Mạng Hóa Kết Nối Kinh Doanh](https://dev.to/quyit/kham-pha-danh-thiep-dien-tu-vboss-cach-mang-hoa-ket-noi-kinh-doanh-4o1d)
+- [Navigation Stuck](https://dev.to/jack_george_08f843b25bb83/navigation-stuck-253n)
+- [23+ Best React Libraries &amp; Plugins for Different Functionalities in 2024](https://dev.to/syakirurahman/23-best-react-libraries-plugins-for-production-grade-app-in-2024-5fjb)
+- [Vuetify 3 Layout Builder](https://dev.to/ameerhamza/vuetify-3-layout-builder-5de1)
+- [Next.js, The React Framework Revolutionizing Web Development](https://dev.to/saqlainmuhammadd/nextjs-the-react-framework-revolutionizing-web-development-28ak)
+- [Godot: Batch generation of collision meshes from gtlf model files](https://dev.to/ramchale/godot-batch-generation-of-collision-meshes-from-gtlf-model-files-4noh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
