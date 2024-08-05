@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Today&#39;s Trending Projects: Creating Earth&#39;s Orbital Animation with CSS and More](https://dev.to/labex/todays-trending-projects-creating-earths-orbital-animation-with-css-and-more-39cl)
-- [ServiceNow Xanadu Release: An Overview of Key Upgrades](https://dev.to/sophiasemga/servicenow-xanadu-release-an-overview-of-key-upgrades-3f1o)
-- [Exploring Unsupervised Learning in ML](https://dev.to/dakota_day/exploring-unsupervised-learning-in-ml-4hf)
-- [How to Create a Cloudflare Worker in JavaScript](https://dev.to/codenoun/how-to-create-a-cloudflare-worker-in-javascript-32k2)
-- [Recap of C1 Blog“The Past, Present &amp; Future of Cloud Computing for Businesses”](https://dev.to/agagag/recap-of-the-past-present-future-of-cloud-computing-for-businesses-fhj)
+- [How Quickly Can a New Website Rank in Google Search?](https://dev.to/juddiy/how-quickly-can-a-new-website-rank-in-google-search-g96)
+- [A diferença entre Pseudo-Classes e Pseudo-Elements em CSS](https://dev.to/dougsource/a-diferenca-entre-pseudo-classes-e-pseudo-elements-em-css-a4)
+- [How to hire the best frontend developer in LA](https://dev.to/nathanredblur/how-to-hire-the-best-frontend-developer-in-la-3ne1)
+- [Perl Weekly #680 - Advent Calendar](https://dev.to/szabgab/perl-weekly-680-advent-calendar-1cpn)
+- [Como Instalar o Node.js LTS Usando o NVM](https://dev.to/kbdemiranda/como-instalar-o-nodejs-lts-usando-o-nvm-54ac)
 <!-- BLOG-POST-LIST:END -->
 
 ---
