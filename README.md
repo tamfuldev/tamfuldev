@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My 2023 Experience as a Top-rated Chrome extension developer on Upworks - Part 1](https://dev.to/dojovader/my-2023-experience-as-a-top-rated-chrome-extension-developer-on-upworks-part-1-2chf)
-- [Meet Cloud Compass: AI-assisted IaC Coverage Audit and Risk Mitigation](https://dev.to/env0/meet-cloud-compass-ai-assisted-iac-coverage-audit-and-risk-mitigation-2bp)
-- [Monthly Amazon Location Service Updates - 2024.07](https://dev.to/aws-heroes/monthly-amazon-location-service-updates-202407-51ea)
-- [Exploring Lesser-Known but Essential Git Commands](https://dev.to/rafaeljohn9/exploring-lesser-known-but-essential-git-commands-4ipf)
-- [Mastering JSON Comparison in JavaScript: A Comprehensive Guide](https://dev.to/keploy/mastering-json-comparison-in-javascript-a-comprehensive-guide-k2l)
+- [🌐 Financial Side Chat: MongoDB Atlas Vector Search Real-World User Case &lpar;Search Internal PDF Documents&rpar; 💰](https://dev.to/mongodb-builder/financial-side-chat-mongodb-atlas-vector-search-real-world-user-case-search-internal-pdf-documents-5ehj)
+- [🧭 TV Navigation in React Native: A Guide to using TVFocusGuideView](https://dev.to/amazonappdev/tv-navigation-in-react-native-a-guide-to-using-tvfocusguideview-302i)
+- [Deploy React App &amp; Nestjs App to AWS EC2 Instance](https://dev.to/ionknowmyname/deploy-react-app-nestjs-app-to-aws-ec2-instance-554e)
+- [Let&#39;s integrate auth.js with Supabase!](https://dev.to/priyanshuverma/lets-integrate-authjs-with-supabase-mf7)
+- [ทำความรู้จักกับ Meta Programming ใน Typescript](https://dev.to/j4cksw/thamkhwaamruucchakkab-meta-programming-ain-typescript-51on)
 <!-- BLOG-POST-LIST:END -->
 
 ---
