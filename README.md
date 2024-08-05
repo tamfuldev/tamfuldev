@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [QuAlity Drinks](https://dev.to/tremartin/quality-drinks-adp)
-- [Performance of range queries in B-Tree and LSM indexes](https://dev.to/yugabyte/performance-of-range-queries-in-b-tree-and-lsm-indexes-3pbj)
-- [Data on Kubernetes: Part 5 - Making AI/ML simpler Using Kubernetes to deploy and scale AI/ML models efficiently 📈](https://dev.to/aws-builders/data-on-kubernetes-part-5-making-aiml-simplerusing-kubernetes-to-deploy-and-scale-aiml-models-efficiently-6lh)
-- [Polyfill for Call&lpar;&rpar;](https://dev.to/dey24/polyfill-for-call-2fed)
-- [Advanced System Design for principal engineers](https://dev.to/fahimulhaq/advanced-system-design-for-principal-engineers-2caf)
+- [VSCode Tip 3: Leverage the Integrated Terminal](https://dev.to/doozieakshay/vscode-tip-3-leverage-the-integrated-terminal-46c1)
+- [Why to Choose Types Instead of Interfaces](https://dev.to/shagun/why-to-choose-use-types-instead-of-interfaces-3c1p)
+- [Capacity Planning: Database Capacity Planning Report](https://dev.to/abthelhaks/capacity-planning-database-capacity-planning-report-5dfc)
+- [ES Index API- part 2](https://dev.to/mallikarjunht/es-index-api-part-2-3pmj)
+- [Why Learn Rust? An Introduction to Rust Programming](https://dev.to/aqarshad11/why-learn-rust-an-introduction-to-rust-programming-3g2k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
