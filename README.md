@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Java&#39;s Stream API](https://dev.to/kartikmehta8/exploring-javas-stream-api-587m)
-- [Essential Hacking Tools for the Modern Hacker: Editors, Version Control, Dot Files, Backups and Automation](https://dev.to/jrob112/essential-hacking-tools-for-the-modern-hacker-editors-version-control-dot-files-backups-and-automation-hca)
-- [CSS Art: Favorite Recreation](https://dev.to/osshiya/css-art-favorite-recreation-28nn)
-- [DATA Science](https://dev.to/john_barku/data-science-5906)
-- [🐳📦Installing Docker to a Different Partition on Windows](https://dev.to/fonteeboa/installing-docker-to-a-different-partition-on-windows-3pk4)
+- [Today&#39;s Trending Projects: Creating Earth&#39;s Orbital Animation with CSS and More](https://dev.to/labex/todays-trending-projects-creating-earths-orbital-animation-with-css-and-more-39cl)
+- [ServiceNow Xanadu Release: An Overview of Key Upgrades](https://dev.to/sophiasemga/servicenow-xanadu-release-an-overview-of-key-upgrades-3f1o)
+- [Exploring Unsupervised Learning in ML](https://dev.to/dakota_day/exploring-unsupervised-learning-in-ml-4hf)
+- [How to Create a Cloudflare Worker in JavaScript](https://dev.to/codenoun/how-to-create-a-cloudflare-worker-in-javascript-32k2)
+- [Recap of C1 Blog“The Past, Present &amp; Future of Cloud Computing for Businesses”](https://dev.to/agagag/recap-of-the-past-present-future-of-cloud-computing-for-businesses-fhj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
