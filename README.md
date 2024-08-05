@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Maximizing Cloud Efficiency: Turn it Off When Not in Use](https://dev.to/maheshk/maximizing-cloud-efficiency-turn-it-off-when-not-in-use-4gnn)
-- [Want to be a software engineer? The difficulty of top down learning.](https://dev.to/prismlabsdev/want-to-be-a-software-engineer-the-difficulty-of-top-down-learning-f9p)
-- [Serverless Computing with .NET Core and Azure Functions](https://dev.to/paulotorrestech/serverless-computing-with-net-core-and-azure-functions-38dn)
-- [Data Lakehouse 101: The Who, What and Why of Data Lakehouses](https://dev.to/alexmercedcoder/data-lakehouse-101-the-who-what-and-why-of-data-lakehouses-2019)
-- [Gerenciamento de projetos ágeis: Backlog do produto](https://dev.to/lima1301lucas/gerenciamento-de-projetos-ageis-backlog-do-produto-3dl4)
+- [Array Grouping in JavaScript &lpar;2024&rpar;](https://dev.to/pmbanugo/array-grouping-in-javascript-2024-5cm9)
+- [Data-Type In Rust&lpar;Gamify&rpar;](https://dev.to/devyuvraaj/data-type-in-rustgamify-121j)
+- [Hello World!](https://dev.to/sumit10/hello-world-54h0)
+- [Day 11: Delving Deeper into JavaScript OOP, this, new, and Prototypes! 🚀](https://dev.to/rohit1301/day-11-delving-deeper-into-javascript-oop-this-new-and-prototypes-1o5f)
+- [Multiple GitHub Accounts on the Same Machine Like a Pro](https://dev.to/kw4rgs/multiple-github-accounts-on-the-same-machine-like-a-pro-4ci1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
