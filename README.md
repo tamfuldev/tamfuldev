@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Error Handling in Node.js: Patterns and Practices](https://dev.to/wallacefreitas/error-handling-in-nodejs-patterns-and-practices-1mg0)
-- [You’re Decent At JavaScript If You Can Answer These 7 Questions Correctly](https://dev.to/lorenzhw/youre-decent-at-javascript-if-you-can-answer-these-7-questions-correctly-36jl)
-- [Internal Developer Platform: A Best Practices Guide](https://dev.to/the_real_zan/internal-developer-platform-a-best-practices-guide-17dh)
-- [How to create own URL Protocol In Windows](https://dev.to/avinash_tare/how-to-create-own-url-protocol-in-windows-42bj)
-- [Deploying FastAPI, PostgreSQL, Celery &amp; Redis on Render - FastAPI Beyond CRUD &lpar;Part 23&rpar;](https://dev.to/jod35/deploying-fastapi-postgresql-celery-redis-on-render-fastapi-beyond-crud-part-23-5ha0)
+- [CSS for forms: enhancing user experience](https://dev.to/samsontobiy/css-for-forms-enhancing-user-experience-28)
+- [How to debug a Python and Django application inside a Docker container](https://dev.to/danielcandidos/how-to-debug-a-python-and-django-application-inside-a-docker-container-1nbg)
+- [Ibuprofeno.py💊| #153: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-153-explica-este-codigo-python-2i4e)
+- [100FrontendChallenge - Day 7 - Create account](https://dev.to/t1xx1/100frontendchallenge-day-7-create-account-47o8)
+- [My visit to Chain React 2024 &lpar;and some tips for going to conferences&rpar;](https://dev.to/amazonappdev/my-visit-to-chain-react-2024-nfj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
