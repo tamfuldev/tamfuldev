@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🌐 Financial Side Chat: MongoDB Atlas Vector Search Real-World User Case &lpar;Search Internal PDF Documents&rpar; 💰](https://dev.to/mongodb-builder/financial-side-chat-mongodb-atlas-vector-search-real-world-user-case-search-internal-pdf-documents-5ehj)
-- [🧭 TV Navigation in React Native: A Guide to using TVFocusGuideView](https://dev.to/amazonappdev/tv-navigation-in-react-native-a-guide-to-using-tvfocusguideview-302i)
-- [Deploy React App &amp; Nestjs App to AWS EC2 Instance](https://dev.to/ionknowmyname/deploy-react-app-nestjs-app-to-aws-ec2-instance-554e)
-- [Let&#39;s integrate auth.js with Supabase!](https://dev.to/priyanshuverma/lets-integrate-authjs-with-supabase-mf7)
-- [ทำความรู้จักกับ Meta Programming ใน Typescript](https://dev.to/j4cksw/thamkhwaamruucchakkab-meta-programming-ain-typescript-51on)
+- [🚀 MongoDB 7.0: The Latest and Greatest!](https://dev.to/mongodb-builder/mongodb-70-the-latest-and-greatest-i28)
+- [Real-Time Features in MERN Applications](https://dev.to/goldenfinger/real-time-features-in-mern-applications-56db)
+- [DevOps Unplugged: Why Recruiters are Crazy About Non-IT Talent!](https://dev.to/dareyio/devops-unplugged-why-recruiters-are-crazy-about-non-it-talent-2f19)
+- [Day 30 Task: Kubernetes Architecture](https://dev.to/oncloud7/day-30-task-kubernetes-architecture-2e07)
+- [🌟 Introducing Lemon Teams: Your Hub for Innovative Services! 🍋](https://dev.to/puneetkumar2010/introducing-lemon-teams-your-hub-for-innovative-services-mkf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
