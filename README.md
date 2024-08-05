@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CSS for forms: enhancing user experience](https://dev.to/samsontobiy/css-for-forms-enhancing-user-experience-28)
-- [How to debug a Python and Django application inside a Docker container](https://dev.to/danielcandidos/how-to-debug-a-python-and-django-application-inside-a-docker-container-1nbg)
-- [Ibuprofeno.py💊| #153: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-153-explica-este-codigo-python-2i4e)
-- [100FrontendChallenge - Day 7 - Create account](https://dev.to/t1xx1/100frontendchallenge-day-7-create-account-47o8)
-- [My visit to Chain React 2024 &lpar;and some tips for going to conferences&rpar;](https://dev.to/amazonappdev/my-visit-to-chain-react-2024-nfj)
+- [Testing JavaScript Code](https://dev.to/tessa001/testing-javascript-code-55ha)
+- [Testing JavaScript Code](https://dev.to/tessa001/testing-javascript-code-3kk)
+- [My experience with Llama 3.1 70B](https://dev.to/afeezee/my-experience-with-llama-31-70b-38il)
+- [devblog - marketing CoreIdea](https://dev.to/yung_coder_dom/devblog-marketing-coreidea-2j7f)
+- [Day 1003 : Great Expectations](https://dev.to/dwane/day-1003-great-expectations-5488)
 <!-- BLOG-POST-LIST:END -->
 
 ---
