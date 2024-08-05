@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [VSCode Tip 3: Leverage the Integrated Terminal](https://dev.to/doozieakshay/vscode-tip-3-leverage-the-integrated-terminal-46c1)
-- [Why to Choose Types Instead of Interfaces](https://dev.to/shagun/why-to-choose-use-types-instead-of-interfaces-3c1p)
-- [Capacity Planning: Database Capacity Planning Report](https://dev.to/abthelhaks/capacity-planning-database-capacity-planning-report-5dfc)
-- [ES Index API- part 2](https://dev.to/mallikarjunht/es-index-api-part-2-3pmj)
-- [Why Learn Rust? An Introduction to Rust Programming](https://dev.to/aqarshad11/why-learn-rust-an-introduction-to-rust-programming-3g2k)
+- [Microsserviços, uma abordagem prática - Facilidade de Manutenção](https://dev.to/miltonlima/microsservicos-uma-abordagem-pratica-facilidade-de-manutencao-3keg)
+- [Tips when upgrading Umbraco from 10 to 13](https://dev.to/d_inventor/tips-when-upgrading-umbraco-from-10-to-13-27dh)
+- [Experimenting with Tailwind CSS: A Quick Guide](https://dev.to/sanditzz/experimenting-with-tailwind-css-a-quick-guide-3dg6)
+- [About Columnar storage in Manticore Search](https://dev.to/sanikolaev/about-columnar-storage-in-manticore-search-4inl)
+- [Coaching Teams Through Change, Prioritising User Value, 12 Signs of Difficult Engineers](https://dev.to/grocto/coaching-teams-through-change-prioritising-user-value-12-signs-of-difficult-engineers-4fme)
 <!-- BLOG-POST-LIST:END -->
 
 ---
