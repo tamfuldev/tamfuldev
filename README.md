@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Default interface methods no C#](https://dev.to/guigovaski/default-interface-methods-no-c-ie7)
-- [Dive into the Fascinating World of Autonomous Robotics with AutoRob! 🤖](https://dev.to/getvm/dive-into-the-fascinating-world-of-autonomous-robotics-with-autorob-4coo)
-- [The Importance of Accessibility in Modern Web Development](https://dev.to/apptagsolution/the-importance-of-accessibility-in-modern-web-development-1hib)
-- [✅Day 7: Understanding package manager and systemctl](https://dev.to/ritesh_dolare/day-7-understanding-package-manager-and-systemctl-5ecm)
-- [Understanding Prototypes in JavaScript](https://dev.to/sagarj521/understanding-prototypes-in-javascript-4oni)
+- [The Ultimate Guide to Web Authentication: Comparing Session, JWT, SSO, and OAuth 2.0 in 2024](https://dev.to/vyan/the-ultimate-guide-to-web-authentication-comparing-session-jwt-sso-and-oauth-20-in-2024-2og0)
+- [Storing and Publishing your Docker Images](https://dev.to/kalkwst/storing-and-publishing-your-docker-images-4m39)
+- [11 Blogs with Compelling UI Design that will Inspire You](https://dev.to/pepper_square/11-blogs-with-compelling-ui-design-that-will-inspire-you-1c5e)
+- [Intro to CockroachDB &lpar;No exterminator needed!&rpar;](https://dev.to/ccwell11/intro-to-cockroachdb-no-exterminator-needed-bmk)
+- [Why do Frontend and Backend developers use Docker](https://dev.to/ajeetraina/why-do-frontend-and-backend-developers-use-docker-44nk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
