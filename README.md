@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 8 of NodeJS|| File System Module || Part2](https://dev.to/akshat0610/day-8-of-nodejs-file-system-module-part2-2ck9)
-- [Meme Monday](https://dev.to/ben/meme-monday-4a0e)
-- [What is Version Control](https://dev.to/thekarlesi/what-is-version-control-1hd5)
-- [A beginner&#39;s guide to data engineering concepts, tools, and responsibilities.](https://dev.to/john_otienoh/a-beginners-guide-to-data-engineering-concepts-tools-and-responsibilities-3pd)
-- [Unlocking Cloud Savings with FinOps: Key Strategies](https://dev.to/unicloud/unlocking-cloud-savings-with-finops-key-strategies-5akg)
+- [My 2023 Experience as a Top-rated Chrome extension developer on Upworks - Part 1](https://dev.to/dojovader/my-2023-experience-as-a-top-rated-chrome-extension-developer-on-upworks-part-1-2chf)
+- [Meet Cloud Compass: AI-assisted IaC Coverage Audit and Risk Mitigation](https://dev.to/env0/meet-cloud-compass-ai-assisted-iac-coverage-audit-and-risk-mitigation-2bp)
+- [Monthly Amazon Location Service Updates - 2024.07](https://dev.to/aws-heroes/monthly-amazon-location-service-updates-202407-51ea)
+- [Exploring Lesser-Known but Essential Git Commands](https://dev.to/rafaeljohn9/exploring-lesser-known-but-essential-git-commands-4ipf)
+- [Mastering JSON Comparison in JavaScript: A Comprehensive Guide](https://dev.to/keploy/mastering-json-comparison-in-javascript-a-comprehensive-guide-k2l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
