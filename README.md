@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Using LLMs For Kubernetes: Enter k8sgpt](https://dev.to/thenjdevopsguy/using-llms-for-kubernetes-enter-k8sgpt-3pb9)
-- [💡技巧和诀窍：MongoDB多态性和异常值模式 💡](https://dev.to/mongodb-builder/ji-qiao-he-jue-qiao-mongodbduo-tai-xing-he-yi-chang-zhi-mo-shi-347d)
-- [💡 Tip and Trick: MongoDB Polymorphic &amp; Outlier Pattern 💡](https://dev.to/mongodb-builder/tip-and-trick-mongodb-polymorphic-outlier-pattern-j97)
-- [Getting Started with .NET and MongoDB: A Perfect Blend for Modern Applications](https://dev.to/saint_vandora/getting-started-with-net-and-mongodb-a-perfect-blend-for-modern-applications-5de4)
-- [Getting Started with .NET and MongoDB: A Perfect Blend for Modern Applications](https://dev.to/saint_vandora/getting-started-with-net-and-mongodb-a-perfect-blend-for-modern-applications-4lma)
+- [Maximizing Cloud Efficiency: Turn it Off When Not in Use](https://dev.to/maheshk/maximizing-cloud-efficiency-turn-it-off-when-not-in-use-4gnn)
+- [Want to be a software engineer? The difficulty of top down learning.](https://dev.to/prismlabsdev/want-to-be-a-software-engineer-the-difficulty-of-top-down-learning-f9p)
+- [Serverless Computing with .NET Core and Azure Functions](https://dev.to/paulotorrestech/serverless-computing-with-net-core-and-azure-functions-38dn)
+- [Data Lakehouse 101: The Who, What and Why of Data Lakehouses](https://dev.to/alexmercedcoder/data-lakehouse-101-the-who-what-and-why-of-data-lakehouses-2019)
+- [Gerenciamento de projetos ágeis: Backlog do produto](https://dev.to/lima1301lucas/gerenciamento-de-projetos-ageis-backlog-do-produto-3dl4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
