@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Testing JavaScript Code](https://dev.to/tessa001/testing-javascript-code-55ha)
-- [Testing JavaScript Code](https://dev.to/tessa001/testing-javascript-code-3kk)
-- [My experience with Llama 3.1 70B](https://dev.to/afeezee/my-experience-with-llama-31-70b-38il)
-- [devblog - marketing CoreIdea](https://dev.to/yung_coder_dom/devblog-marketing-coreidea-2j7f)
-- [Day 1003 : Great Expectations](https://dev.to/dwane/day-1003-great-expectations-5488)
+- [Introduction to GraphQL with JavaScript](https://dev.to/tessa001/introduction-to-graphql-with-javascript-500a)
+- [[Game of Purpose] Day 79](https://dev.to/humberd/game-of-purpose-day-79-3a09)
+- [🎨💡The Importance of UI &lpar;User Interface&rpar; and UX &lpar;User Experience&rpar; in Frontend Development](https://dev.to/fonteeboa/the-importance-of-ui-user-interface-and-ux-user-experience-in-frontend-development-2ojc)
+- [Is magic link sign-in dying? A closer look at its declining popularity](https://dev.to/logto/is-magic-link-sign-in-dying-a-closer-look-at-its-declining-popularity-1hlm)
+- [[14/52] Fundamentals of Continuum Engineering](https://dev.to/tythos/1452-fundamentals-of-continuum-engineering-5h8f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
