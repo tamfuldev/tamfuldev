@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Angular Data Binding Demo](https://dev.to/chukwuma1976/angular-data-binding-demo-2b1f)
-- [Today&#39;s Trending Projects: Fruit Matching Game with HTML, CSS, JavaScript and More](https://dev.to/labex/todays-trending-projects-fruit-matching-game-with-html-css-javascript-and-more-dd5)
-- [🦫🐘 Advantages of Migrating from PHP to Go](https://dev.to/fonteeboa/advantages-of-migrating-from-php-to-go-4mjk)
-- [I hate Server Actions in Next.js](https://dev.to/themuneebh/i-hate-server-actions-in-nextjs-36mi)
-- [From Parcel to Vite: A short story of a 100K LOC migration](https://dev.to/logto/from-parcel-to-vite-a-short-story-of-a-100k-loc-migration-2m72)
+- [Angular vs. React: A Comprehensive Comparison](https://dev.to/dipakahirav/angular-vs-react-a-comprehensive-comparison-2gm2)
+- [Understanding Frequency Count Method and Akra-Bazzi Method in Algorithm Analysis](https://dev.to/prasanth_k/understanding-frequency-count-method-and-akra-bazzi-method-in-algorithm-analysis-5d6l)
+- [How to reference the current branch in GitHub Actions](https://dev.to/brianmmdev/how-to-reference-the-current-branch-in-github-actions-37mc)
+- [Using Residential Proxies with Python: A Simple Example](https://dev.to/swiftproxy/using-residential-proxies-with-python-a-simple-example-2iep)
+- [Web Accessibility](https://dev.to/tanoy_basak/web-accessibility-4pp3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
