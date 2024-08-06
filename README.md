@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to GraphQL with JavaScript](https://dev.to/tessa001/introduction-to-graphql-with-javascript-500a)
-- [[Game of Purpose] Day 79](https://dev.to/humberd/game-of-purpose-day-79-3a09)
-- [🎨💡The Importance of UI &lpar;User Interface&rpar; and UX &lpar;User Experience&rpar; in Frontend Development](https://dev.to/fonteeboa/the-importance-of-ui-user-interface-and-ux-user-experience-in-frontend-development-2ojc)
-- [Is magic link sign-in dying? A closer look at its declining popularity](https://dev.to/logto/is-magic-link-sign-in-dying-a-closer-look-at-its-declining-popularity-1hlm)
-- [[14/52] Fundamentals of Continuum Engineering](https://dev.to/tythos/1452-fundamentals-of-continuum-engineering-5h8f)
+- [Angular Data Binding Demo](https://dev.to/chukwuma1976/angular-data-binding-demo-2b1f)
+- [Today&#39;s Trending Projects: Fruit Matching Game with HTML, CSS, JavaScript and More](https://dev.to/labex/todays-trending-projects-fruit-matching-game-with-html-css-javascript-and-more-dd5)
+- [🦫🐘 Advantages of Migrating from PHP to Go](https://dev.to/fonteeboa/advantages-of-migrating-from-php-to-go-4mjk)
+- [I hate Server Actions in Next.js](https://dev.to/themuneebh/i-hate-server-actions-in-nextjs-36mi)
+- [From Parcel to Vite: A short story of a 100K LOC migration](https://dev.to/logto/from-parcel-to-vite-a-short-story-of-a-100k-loc-migration-2m72)
 <!-- BLOG-POST-LIST:END -->
 
 ---
