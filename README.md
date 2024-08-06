@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Tutorial: Frontend AI copilot](https://dev.to/buildwebcrumbs/tutorial-frontend-ai-copilot-17db)
-- [The Accessor Protocol](https://dev.to/stdlib/the-accessor-protocol-38eg)
-- [Simple React Component Example](https://dev.to/viveklucky1848/simple-react-component-example-45if)
-- [How would you go about starting your own small webdev agency?](https://dev.to/blaze_26/how-would-you-go-about-starting-your-own-small-webdev-agency-586o)
-- [Difference b/w class variable and instance variable Python](https://dev.to/ankitmalikg/difference-bw-class-variable-and-instance-variable-python-100o)
+- [Simulate TCP network congestion with netjam](https://dev.to/bitifet/simulate-tcp-network-congestion-with-netjam-5dm9)
+- [Writing Technical Content That Stands Out From AI](https://dev.to/jeffmorhous/writing-technical-content-that-stands-out-from-ai-1e1j)
+- [Boost User Engagement with Exit Intent Detection](https://dev.to/nickap/boost-user-engagement-with-exit-intent-detection-487p)
+- [My Journey with Nylas: Embracing the Challenge](https://dev.to/leonardsangoroh/my-journey-with-nylas-embracing-the-challenge-3ca2)
+- [Setting Up a VPC for Your App Using AWS Management Console](https://dev.to/sepiyush/setting-up-a-vpc-for-your-app-using-aws-management-console-5h5p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
