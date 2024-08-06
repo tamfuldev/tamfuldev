@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Reading Fancy Files with Python: A Beginner’s Guide](https://dev.to/stokry/reading-fancy-files-with-python-a-beginners-guide-5fka)
-- [AWS Solution Architect Associate Exam](https://dev.to/subhashbohra/aws-solution-architect-associate-exam-d32)
-- [EC2 Instance Data Persistence and Migration](https://dev.to/mahpara_jabbar_0521a5b816/ec2-instance-data-persistence-and-migration-4glm)
-- [Evolution of Software Architecture: From Mainframes and Monoliths to Distributed Computing](https://dev.to/orkes/evolution-of-software-architecture-from-mainframes-and-monoliths-to-distributed-computing-3g7a)
-- [Mongoose relationship One to One](https://dev.to/munisekharudavalapat/mongoose-relationship-one-to-one-5h1n)
+- [** ¡Alerta spoiler! Desarrolladora + cómic: La combinación perfecta para un superhéroe digital**🧙‍♀️](https://dev.to/orlidev/-alerta-spoiler-desarrolladora-comic-la-combinacion-perfecta-para-un-superheroe-digital-2c8)
+- [Embed.WS Early Bird Pro 지분 판매 - Embed.WS - 미디엄](https://dev.to/embedws/embedws-early-bird-pro-jibun-panmae-embedws-midieom-a02)
+- [The Hitchhiker’s Guide to Building a Distributed Filesystem in Rust. The continuation &lpar;part 2&rpar;](https://dev.to/radu_marias_eed98d2e201f6/the-hitchhikers-guide-to-building-a-distributed-filesystem-in-rust-the-continuation-part-2-12o5)
+- [🚀 15 JavaScript Snippets to Supercharge Your Coding Skills! 🚀](https://dev.to/gadekar_sachin/15-javascript-snippets-to-supercharge-your-coding-skills-1254)
+- [Create a django python project in docker in pycharm](https://dev.to/hitesh_chauhan_42485a44af/create-a-django-python-project-in-docker-in-pycharm-4iag)
 <!-- BLOG-POST-LIST:END -->
 
 ---
