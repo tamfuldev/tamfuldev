@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube with AI-generated Shorts](https://dev.to/imrankh13332994/youtube-with-ai-generated-shorts-443l)
-- [Open to work](https://dev.to/ricardogesteves/open-to-work-3abh)
-- [.NET Arxitekturasi](https://dev.to/sunnat_qayumov_2db67b1ba1/net-arxitekturasi-2d87)
-- [18 GitHub Repositories to Boost Your Career as a Developer 🚀🧑‍💻](https://dev.to/madza/18-github-repositories-to-boost-your-career-as-a-developer-544a)
-- [Mastering Loaders in Dashboards: A Guide to Enhancing User Experience](https://dev.to/emmsdan/mastering-loaders-in-dashboards-a-guide-to-enhancing-user-experience-4kj2)
+- [Open-source datatable components built with Tailwind CSS and Flowbite](https://dev.to/themesberg/open-source-datatable-components-built-wiht-tailwind-css-5fae)
+- [HONC Out Loud: The Modern Guide to Building a Typescript JSON API](https://dev.to/fiberplane/honc-out-loud-the-modern-guide-to-building-a-typescript-json-api-4b65)
+- [Jr Penetration Tester- Content Discovery- robots.txt](https://dev.to/yowise/jr-penetration-tester-content-discovery-robotstxt-2b3)
+- [Mint Blockchain—A Layer 2 Network Focusing On The NFT Industry](https://dev.to/mint_/mint-blockchain-a-layer-2-network-focusing-on-the-nft-industry-8ah)
+- [Dive into the World of PyTorch: Mastering Deep Learning and Beyond](https://dev.to/getvm/dive-into-the-world-of-pytorch-mastering-deep-learning-and-beyond-3cl7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
