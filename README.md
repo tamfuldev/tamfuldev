@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Embed.WS Early Bird Pro equity on sale](https://dev.to/laohu/embedws-early-bird-pro-equity-on-sale-135c)
-- [Top Project Management Software for Mac Users: What to Choose](https://dev.to/thomasy0ung/top-project-management-software-for-mac-users-what-to-choose-o60)
-- [Day 9 of NodeJS|| HTTP Module](https://dev.to/akshat0610/day-9-of-nodejs-http-module-591j)
-- [Native vs Hybrid vs Progressive Web Apps &lpar;PWAs&rpar;](https://dev.to/synapseindia/native-vs-hybrid-vs-progressive-web-apps-pwas-3h9j)
-- [Mongoose Documentation](https://dev.to/munisekharudavalapat/mongoose-documentation-jdc)
+- [Template Literals in TypeScript 📚✍️](https://dev.to/mattlewandowski93/template-literals-in-typescript-i36)
+- [PHP Iterators for walking through data structures – FastTips](https://dev.to/inspector/php-iterators-for-walking-through-data-structures-fasttips-45ob)
+- [GEN AI Manufacutring use case](https://dev.to/viksingh/gen-ai-manufacutring-use-case-392)
+- [How to create a responsive multi-column layout with Tailwind CSS](https://dev.to/mike_andreuzza/how-to-create-a-responsive-multi-column-layout-with-tailwind-css-1mee)
+- [The Power of Tailwind CSS: Revolutionizing Modern Web Development](https://dev.to/hitesh_chauhan_42485a44af/the-power-of-tailwind-css-revolutionizing-modern-web-development-35ea)
 <!-- BLOG-POST-LIST:END -->
 
 ---
