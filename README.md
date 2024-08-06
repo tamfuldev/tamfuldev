@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [** ¡Alerta spoiler! Desarrolladora + cómic: La combinación perfecta para un superhéroe digital**🧙‍♀️](https://dev.to/orlidev/-alerta-spoiler-desarrolladora-comic-la-combinacion-perfecta-para-un-superheroe-digital-2c8)
-- [Embed.WS Early Bird Pro 지분 판매 - Embed.WS - 미디엄](https://dev.to/embedws/embedws-early-bird-pro-jibun-panmae-embedws-midieom-a02)
-- [The Hitchhiker’s Guide to Building a Distributed Filesystem in Rust. The continuation &lpar;part 2&rpar;](https://dev.to/radu_marias_eed98d2e201f6/the-hitchhikers-guide-to-building-a-distributed-filesystem-in-rust-the-continuation-part-2-12o5)
-- [🚀 15 JavaScript Snippets to Supercharge Your Coding Skills! 🚀](https://dev.to/gadekar_sachin/15-javascript-snippets-to-supercharge-your-coding-skills-1254)
-- [Create a django python project in docker in pycharm](https://dev.to/hitesh_chauhan_42485a44af/create-a-django-python-project-in-docker-in-pycharm-4iag)
+- [Java Code Snippets:&rpar;](https://dev.to/madgan95/java-code-snippets-3oc3)
+- [Secure Multifunctional Nginx Reverse Proxy](https://dev.to/dameyerdave/secure-multifunctional-nginx-reverse-proxy-2l97)
+- [cypress异步查找元素等待找到立马下一步操作，取消等待](https://dev.to/dennischeung/cypressyi-bu-cha-zhao-yuan-su-deng-dai-zhao-dao-li-ma-xia-bu-cao-zuo-qu-xiao-deng-dai-2h7g)
+- [Automate the Gruntwork: Why Developers and Companies Should Use &#39;Patched&#39;](https://dev.to/greyisheepai/automate-the-gruntwork-why-developers-and-companies-should-use-patched-46l5)
+- [EPP vs EDR: What is the Difference?](https://dev.to/clouddefenseai/epp-vs-edr-what-is-the-difference-4k5j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
