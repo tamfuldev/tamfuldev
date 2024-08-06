@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to test and secure a mail server in Debian and Ubuntu with ispmanager](https://dev.to/ispmanager_com/how-to-test-and-secure-a-mail-server-in-debian-and-ubuntu-with-ispmanager-1ngh)
-- [Cơ bản về multiple data center](https://dev.to/esga1102/co-ban-ve-multiple-data-center-17ch)
-- [Dive into the Exciting World of Ethical Hacking with this Comprehensive Course! 🕵️‍♂️](https://dev.to/getvm/dive-into-the-exciting-world-of-ethical-hacking-with-this-comprehensive-course-1j1m)
-- [🚀Day 8: Beginner’s Guide to Git and GitHub](https://dev.to/ritesh_dolare/day-8-beginners-guide-to-git-and-github-341b)
-- [An approach to problem-solving](https://dev.to/ywordk/an-approach-to-problem-solving-12m3)
+- [Releasing LightningChart JS 6.0](https://dev.to/lightningchart/releasing-lightningchart-js-60-2k2e)
+- [The Power of Simplicity: A Forgotten Coding Principle](https://dev.to/doozieakshay/the-power-of-simplicity-a-forgotten-coding-principle-4abf)
+- [New Cert Earned!](https://dev.to/francis_ngugi/new-cert-earned-2jkh)
+- [Creating a Draggable Element Using HTML, CSS, and JavaScript](https://dev.to/code_passion/creating-a-draggable-element-using-html-css-and-javascript-54g7)
+- [What is shift left testing?](https://dev.to/keploy/what-is-shift-left-testing-438b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
