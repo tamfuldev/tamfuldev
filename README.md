@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Template Literals in TypeScript 📚✍️](https://dev.to/mattlewandowski93/template-literals-in-typescript-i36)
-- [PHP Iterators for walking through data structures – FastTips](https://dev.to/inspector/php-iterators-for-walking-through-data-structures-fasttips-45ob)
-- [GEN AI Manufacutring use case](https://dev.to/viksingh/gen-ai-manufacutring-use-case-392)
-- [How to create a responsive multi-column layout with Tailwind CSS](https://dev.to/mike_andreuzza/how-to-create-a-responsive-multi-column-layout-with-tailwind-css-1mee)
-- [The Power of Tailwind CSS: Revolutionizing Modern Web Development](https://dev.to/hitesh_chauhan_42485a44af/the-power-of-tailwind-css-revolutionizing-modern-web-development-35ea)
+- [Add Missing Sequence Numbers to One Table according to The Other and Combine Two Tables #eg18](https://dev.to/esproc_spl/add-missing-sequence-numbers-to-one-table-according-to-the-other-and-combine-two-tables-eg18-2m54)
+- [New Rails Designer Tool: beautiful gradients with Tailwind CSS](https://dev.to/railsdesigner/new-rails-designer-tool-beautiful-gradients-with-tailwind-css-ngp)
+- [Optimizing React Applications: Simple Techniques for Better Performance](https://dev.to/zache_niyokwizera_3ea666/optimizing-react-applications-simple-techniques-for-better-performance-30c5)
+- [The Business Value of Refactoring and Testing](https://dev.to/krzykamil/the-business-value-of-refactoring-and-testing-3fce)
+- [Prompt Engineering for Developers: 11 Concepts and Examples](https://dev.to/alexroor4/prompt-engineering-for-developers-11-concepts-and-examples-4d0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
