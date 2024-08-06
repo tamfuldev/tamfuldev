@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Angular vs. React: A Comprehensive Comparison](https://dev.to/dipakahirav/angular-vs-react-a-comprehensive-comparison-2gm2)
-- [Understanding Frequency Count Method and Akra-Bazzi Method in Algorithm Analysis](https://dev.to/prasanth_k/understanding-frequency-count-method-and-akra-bazzi-method-in-algorithm-analysis-5d6l)
-- [How to reference the current branch in GitHub Actions](https://dev.to/brianmmdev/how-to-reference-the-current-branch-in-github-actions-37mc)
-- [Using Residential Proxies with Python: A Simple Example](https://dev.to/swiftproxy/using-residential-proxies-with-python-a-simple-example-2iep)
-- [Web Accessibility](https://dev.to/tanoy_basak/web-accessibility-4pp3)
+- [Using Terraform to deploy a docker image on Google Kubernetes Engine](https://dev.to/chauhoangminhnguyen/using-terraform-to-deploy-a-docker-image-on-google-kubernetes-engine-2h0m)
+- [#39 — Define A Dynamic Range of Columns And Perform Aggregation](https://dev.to/judith677/39-define-a-dynamic-range-of-columns-and-perform-aggregation-269b)
+- [Boost Your Productivity with These 50 Essential VS Code Shortcuts 🚀](https://dev.to/gadekar_sachin/boost-your-productivity-with-these-50-essential-vs-code-shortcuts-61h)
+- [Stay Updated with Python/FastAPI/Django: Weekly News Summary &lpar;29/07/2024-04/08/2024](https://dev.to/poovarasu/stay-updated-with-pythonfastapidjango-weekly-news-summary-29072024-04082024-3d7)
+- [My Pen on CodePen](https://dev.to/daire/my-pen-on-codepen-35p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
