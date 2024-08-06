@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Open-source datatable components built with Tailwind CSS and Flowbite](https://dev.to/themesberg/open-source-datatable-components-built-wiht-tailwind-css-5fae)
-- [HONC Out Loud: The Modern Guide to Building a Typescript JSON API](https://dev.to/fiberplane/honc-out-loud-the-modern-guide-to-building-a-typescript-json-api-4b65)
-- [Jr Penetration Tester- Content Discovery- robots.txt](https://dev.to/yowise/jr-penetration-tester-content-discovery-robotstxt-2b3)
-- [Mint Blockchain—A Layer 2 Network Focusing On The NFT Industry](https://dev.to/mint_/mint-blockchain-a-layer-2-network-focusing-on-the-nft-industry-8ah)
-- [Dive into the World of PyTorch: Mastering Deep Learning and Beyond](https://dev.to/getvm/dive-into-the-world-of-pytorch-mastering-deep-learning-and-beyond-3cl7)
+- [Secret-Key and Public-Key Cryptography explained as if you&#39;d have the brains of a teenager from a slasher movie](https://dev.to/taskill/secret-key-and-public-key-cryptography-explained-as-if-youd-have-the-brains-of-a-teenager-from-a-slasher-movie-5h54)
+- [Object Literals](https://dev.to/meganpaffrath/object-literals-1d93)
+- [Clustering Factor for YugabyteDB Index Scan: correlation between secondary indexes and the primary key](https://dev.to/yugabyte/clustering-factor-for-yugabytedb-index-scan-correlation-between-secondary-indexes-and-the-primary-key-1fia)
+- [Estudando para a certificação do GCP - Associate Cloud Engineer - 1](https://dev.to/carolrochafloro/estudando-para-a-certificacao-de-associate-cloud-engineer-gcp-12n7)
+- [Trade any Token on Solana, Including Meme Coins, in Your Code](https://dev.to/desprdo/trade-any-token-on-solana-including-meme-coins-in-your-code-3lj3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
