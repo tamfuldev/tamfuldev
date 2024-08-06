@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [E-Commerce Shopping Cart UI Design – The Best Examples](https://dev.to/pepper_square/e-commerce-shopping-cart-ui-design-the-best-examples-b47)
-- [AWS Interview Questions](https://dev.to/munisekharudavalapat/aws-interview-questions-1232)
-- [Managing Infrastructure as Code at Amazon: Tools, Strategies, and Practices](https://dev.to/adityabhuyan/managing-infrastructure-as-code-at-amazon-tools-strategies-and-practices-3og9)
-- [JavaScript interview questions](https://dev.to/munisekharudavalapat/javascript-interview-questions-5895)
-- [The Key Benefits and Applications of Optical Transceivers in Modern Networking Infrastructure](https://dev.to/adityabhuyan/the-key-benefits-and-applications-of-optical-transceivers-in-modern-networking-infrastructure-10bn)
+- [How to test and secure a mail server in Debian and Ubuntu with ispmanager](https://dev.to/ispmanager_com/how-to-test-and-secure-a-mail-server-in-debian-and-ubuntu-with-ispmanager-1ngh)
+- [Cơ bản về multiple data center](https://dev.to/esga1102/co-ban-ve-multiple-data-center-17ch)
+- [Dive into the Exciting World of Ethical Hacking with this Comprehensive Course! 🕵️‍♂️](https://dev.to/getvm/dive-into-the-exciting-world-of-ethical-hacking-with-this-comprehensive-course-1j1m)
+- [🚀Day 8: Beginner’s Guide to Git and GitHub](https://dev.to/ritesh_dolare/day-8-beginners-guide-to-git-and-github-341b)
+- [An approach to problem-solving](https://dev.to/ywordk/an-approach-to-problem-solving-12m3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
