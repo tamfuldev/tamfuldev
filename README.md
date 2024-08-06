@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Simulate TCP network congestion with netjam](https://dev.to/bitifet/simulate-tcp-network-congestion-with-netjam-5dm9)
-- [Writing Technical Content That Stands Out From AI](https://dev.to/jeffmorhous/writing-technical-content-that-stands-out-from-ai-1e1j)
-- [Boost User Engagement with Exit Intent Detection](https://dev.to/nickap/boost-user-engagement-with-exit-intent-detection-487p)
-- [My Journey with Nylas: Embracing the Challenge](https://dev.to/leonardsangoroh/my-journey-with-nylas-embracing-the-challenge-3ca2)
-- [Setting Up a VPC for Your App Using AWS Management Console](https://dev.to/sepiyush/setting-up-a-vpc-for-your-app-using-aws-management-console-5h5p)
+- [Understanding Bubble Sort: Simple Sorting Method](https://dev.to/vampirepapi/understanding-bubble-sort-simple-sorting-method-1gj7)
+- [Day 1004 : Fire](https://dev.to/dwane/day-1004-fire-1gpk)
+- [Top Productivity Tips for Software Engineers ⚡️](https://dev.to/alisamir/top-productivity-tips-for-software-engineers-5f43)
+- [Day 1 of Machine Learing](https://dev.to/code_japi/day-1-of-machine-learing-3n09)
+- [Advantages of Using HTTP Interface in Spring 6](https://dev.to/guilhermesiqueira/advantages-of-using-http-interface-in-spring-6-1p4l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
