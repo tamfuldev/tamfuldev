@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Sending Calendar Invites with React and SMTP Express](https://dev.to/devyoma/sending-calendar-invites-with-react-and-smtp-express-2e57)
-- [How I rebuilt a Front End Mentor Project with TypeScript](https://dev.to/kansoldev/how-i-rebuilt-a-front-end-mentor-project-with-typescript-b59)
-- [Partial Interface Implementation in C# Base/Abstract Classes](https://dev.to/waelhabbal/partial-interface-implementation-in-c-baseabstract-classes-e4a)
-- [Python PDB Code Review Report](https://dev.to/mengqinyuan/python-pdb-code-review-report-3f51)
-- [Form Validation in React: An In-Depth Tutorial with Hooks and React Hook Form](https://dev.to/parthprajapatispan/form-validation-in-react-an-in-depth-tutorial-with-hooks-and-react-hook-form-154m)
+- [Android Dev with web Tools: fastest way to production with Ionic React](https://dev.to/sfundomhlungu/android-dev-with-web-tools-fastest-way-to-production-with-ionic-react-5ag4)
+- [**Superpoderes para tus componentes: Edna Moda y Angular, una combinación explosiva**👩🏻](https://dev.to/orlidev/superpoderes-para-tus-componentes-edna-moda-y-angular-una-combinacion-explosiva-np1)
+- [How the Web Works](https://dev.to/thekarlesi/how-the-web-works-18d3)
+- [Breaking Down the Factors that Affect Development Costs](https://dev.to/albertsabate/breaking-down-the-factors-that-affect-development-costs-2mde)
+- [Speeding Up Data on AWS: From Ingestion to Insights](https://dev.to/aws-builders/speeding-up-data-on-aws-from-ingestion-to-insights-2am9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
