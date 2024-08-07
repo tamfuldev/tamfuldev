@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [PHP crash course : Simple User Authentication System](https://dev.to/mdarifulhaque/php-crash-course-simple-user-authentication-system-28o9)
-- [Issue 56 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-56-of-aws-cloud-security-weekly-369b)
-- [Polyglotta -- A Multilingual translator](https://dev.to/afeezee/polyglotta-a-multilingual-translator-33oh)
-- [Understanding Bubble Sort: Simple Sorting Method](https://dev.to/vampirepapi/understanding-bubble-sort-simple-sorting-method-1gj7)
-- [Dynamic Image Sizing &amp; Optimization](https://dev.to/okeamah/dynamic-image-sizing-optimization-3ehb)
+- [JavaScript: Functions, Function Expressions, Objects, Methods, and this](https://dev.to/meganpaffrath/javascript-functions-function-expressions-objects-methods-and-this-1jei)
+- [Porting Phi-3-Vision to MLX: A Python Hobbyist&#39;s Journey](https://dev.to/josef_albers_fc59b610c5de/porting-phi-3-vision-to-mlx-a-python-hobbyists-journey-2l2k)
+- [Video Production with Streamtasks](https://dev.to/leopf/video-production-with-streamtasks-36hl)
+- [You won&#39;t believe it! Open-source social media app](https://dev.to/ezpieco/you-wont-believe-it-open-source-social-media-app-n8a)
+- [Today&#39;s Trending Projects: Build a Tic-Tac-Toe Web App and More](https://dev.to/labex/todays-trending-projects-build-a-tic-tac-toe-web-app-and-more-3ii8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
