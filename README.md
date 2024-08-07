@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering API Monitoring: A Comprehensive Guide to Ensuring Peak Performance and Reliability](https://dev.to/getambassador2024/mastering-api-monitoring-a-comprehensive-guide-to-ensuring-peak-performance-and-reliability-3nik)
-- [12 Fundamental Steps for Secure Kubernetes Cluster](https://dev.to/jamallmahmoudi/12-fundamental-steps-for-secure-kubernetes-cluster-45h)
-- [10 Top Frustrating Browser Compatibility Issues Devs Face In 2024](https://dev.to/harishrajora12/10-top-frustrating-browser-compatibility-issues-devs-face-in-2024-4g4l)
-- [Upload Image into imgbb.com](https://dev.to/hunter_1225/upload-image-into-imgbbcom-1p58)
-- [AutoMQ: A Cloud-Native Replacement of Apache Kafka](https://dev.to/dev_kiran/automq-a-cloud-native-replacement-of-apache-kafka-59mg)
+- [Free Google Gemini AI Crash Course with Python](https://dev.to/jobreadyprogrammer/free-google-gemini-ai-crash-course-with-python-2g1g)
+- [Supercharge Your Coding with Visual Studio Code!](https://dev.to/hasanul_banna_himel/supercharge-your-coding-with-visual-studio-code-2d48)
+- [Integration of Apache Iceberg in S3, Glue, Athena, Matillion, and Snowflake – Part 2](https://dev.to/zirkonium88/integration-of-apache-iceberg-in-s3-glue-athena-matillion-and-snowflake-part-2-32hn)
+- [Explore Microsoft Azure Fundamentals: Architecture and Services](https://dev.to/hasanul_banna_himel/explore-microsoft-azure-fundamentals-architecture-and-services-29dm)
+- [Crypto Authentication with Passkeys &lpar;Smart Wallets&rpar;](https://dev.to/corbado/crypto-authentication-with-passkeys-smart-wallets-5936)
 <!-- BLOG-POST-LIST:END -->
 
 ---
