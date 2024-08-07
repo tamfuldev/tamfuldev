@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Free Google Gemini AI Crash Course with Python](https://dev.to/jobreadyprogrammer/free-google-gemini-ai-crash-course-with-python-2g1g)
-- [Supercharge Your Coding with Visual Studio Code!](https://dev.to/hasanul_banna_himel/supercharge-your-coding-with-visual-studio-code-2d48)
-- [Integration of Apache Iceberg in S3, Glue, Athena, Matillion, and Snowflake – Part 2](https://dev.to/zirkonium88/integration-of-apache-iceberg-in-s3-glue-athena-matillion-and-snowflake-part-2-32hn)
-- [Explore Microsoft Azure Fundamentals: Architecture and Services](https://dev.to/hasanul_banna_himel/explore-microsoft-azure-fundamentals-architecture-and-services-29dm)
-- [Crypto Authentication with Passkeys &lpar;Smart Wallets&rpar;](https://dev.to/corbado/crypto-authentication-with-passkeys-smart-wallets-5936)
+- [Rest API Testing: How to test Rest APIs properly!](https://dev.to/webdeasy/rest-api-testing-how-to-test-rest-apis-properly-1bh6)
+- [Customer Service: Definition, Roles, and Benefits](https://dev.to/barantumcrm/customer-service-definition-roles-and-benefits-3iab)
+- [🚀 93 Projects, 1 Success Story: My Journey with Easy UI PRO](https://dev.to/darkinventor/93-projects-1-success-story-my-journey-with-easy-ui-pro-3c3e)
+- [Case-Based Depression Detection on Twitter using Large Language Models with Human-Readable Explanations](https://dev.to/mikeyoung44/case-based-depression-detection-on-twitter-using-large-language-models-with-human-readable-explanations-1cjb)
+- [Database Indexes](https://dev.to/sudheer_gajula_6e0382c493/database-indexes-44aa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
