@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [WTF is an API? &lpar;or, &quot;Everything&#39;s a Lie&quot;&rpar;](https://dev.to/gmelodie/wtf-is-an-api-or-everythings-a-lie-4ibe)
-- [Button Hover Effec t](https://dev.to/webfaisalbd/button-hover-effec-t-2e22)
-- [Top 8 Managed Postgres Providers](https://dev.to/neurelo/top-8-managed-postgres-providers-gab)
-- [Financial Integration Use Cases for Developers](https://dev.to/rapyd/financial-integration-use-cases-for-developers-2h5)
-- [How to get start in cybersecurity ?](https://dev.to/urahara/how-to-get-start-in-cybersecurity--1lhd)
+- [Milvus Adventures August 7, 2024](https://dev.to/chrischurilo/milvus-adventures-august-7-2024-1o10)
+- [Variables](https://dev.to/asilbek_ibragimov_a0c27cc/variables-527f)
+- [Fixing Complex Functions and Making Code Modular and Reusable](https://dev.to/codeantai/fixing-complex-functions-and-making-code-modular-and-reusable-1pip)
+- [Guía Básica de Prompt Engineering: Parte 1 - Técnicas Esenciales para Escribir Prompts Efectivos](https://dev.to/wizsebastian/guia-basica-de-prompt-engineering-parte-1-tecnicas-esenciales-para-escribir-prompts-efectivos-35j8)
+- [Personal site inspiration ✨](https://dev.to/charlesloder/personal-site-inspiration-2ma0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
