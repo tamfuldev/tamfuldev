@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What is &quot;Page&quot; in postgres?](https://dev.to/sudheer_gajula_6e0382c493/what-is-page-in-postgres-3kof)
-- [Day 5/10 | HTML](https://dev.to/ofameh/day-510-html-1d3g)
-- [Day 5/10 | HTML](https://dev.to/ofameh/day-510-html-1k3j)
-- [Weekly Summary](https://dev.to/janet0717/weekly-summary-42l5)
-- [Day 7](https://dev.to/janet0717/day-7-1ck1)
+- [WTF is an API? &lpar;or, &quot;Everything&#39;s a Lie&quot;&rpar;](https://dev.to/gmelodie/wtf-is-an-api-or-everythings-a-lie-4ibe)
+- [Button Hover Effec t](https://dev.to/webfaisalbd/button-hover-effec-t-2e22)
+- [Top 8 Managed Postgres Providers](https://dev.to/neurelo/top-8-managed-postgres-providers-gab)
+- [Financial Integration Use Cases for Developers](https://dev.to/rapyd/financial-integration-use-cases-for-developers-2h5)
+- [How to get start in cybersecurity ?](https://dev.to/urahara/how-to-get-start-in-cybersecurity--1lhd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
