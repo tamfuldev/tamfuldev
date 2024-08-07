@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [PHP crash course : Simple User Authentication System](https://dev.to/mdarifulhaque/php-crash-course-simple-user-authentication-system-28o9)
+- [Issue 56 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-56-of-aws-cloud-security-weekly-369b)
+- [Polyglotta -- A Multilingual translator](https://dev.to/afeezee/polyglotta-a-multilingual-translator-33oh)
 - [Understanding Bubble Sort: Simple Sorting Method](https://dev.to/vampirepapi/understanding-bubble-sort-simple-sorting-method-1gj7)
-- [Day 1004 : Fire](https://dev.to/dwane/day-1004-fire-1gpk)
-- [Top Productivity Tips for Software Engineers ⚡️](https://dev.to/alisamir/top-productivity-tips-for-software-engineers-5f43)
-- [Day 1 of Machine Learing](https://dev.to/code_japi/day-1-of-machine-learing-3n09)
-- [Advantages of Using HTTP Interface in Spring 6](https://dev.to/guilhermesiqueira/advantages-of-using-http-interface-in-spring-6-1p4l)
+- [Dynamic Image Sizing &amp; Optimization](https://dev.to/okeamah/dynamic-image-sizing-optimization-3ehb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
