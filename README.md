@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Three Pieces of Advice for DEV Challenges](https://dev.to/ben/three-pieces-of-advice-for-dev-challenges-2nof)
-- [Create a Blob URL](https://dev.to/j2a2k4e/create-a-blob-url-1j84)
-- [Mastering Algorithms: It&#39;s Easier Than You Think!&quot;](https://dev.to/shanu001x/mastering-algorithms-its-easier-than-you-think-18if)
-- [OpenAI can detect ChatGPT-written content, but couldn&#39;t we all?](https://dev.to/doctorew/openai-can-detect-chatgpt-written-content-but-couldnt-we-all-17a8)
-- [Understanding Multiple Inheritance in Python and Java](https://dev.to/gayathridevi_manojkumar_d/understanding-multiple-inheritance-in-python-and-java-1ig)
+- [Uploading Files Using Pre-Signed URLs to a Specific Storage Class](https://dev.to/anshul_kichara/uploading-files-using-pre-signed-urls-to-a-specific-storage-class-5hfa)
+- [Automating the Cloud Resume Challenge: Implementing CI/CD with GitHub Actions](https://dev.to/gusfeliciano/automating-the-cloud-resume-challenge-implementing-cicd-with-github-actions-4m36)
+- [Edge Cases to Keep in Mind. Part 1 — Text](https://dev.to/koral/edge-cases-to-keep-in-mind-part-1-text-4f36)
+- [Recommended Course: Foundations of Deep Learning](https://dev.to/labex/recommended-course-foundations-of-deep-learning-1km2)
+- [Edge Cases to Keep in Mind. Part 2 — Files](https://dev.to/koral/edge-cases-to-keep-in-mind-part-2-files-53)
 <!-- BLOG-POST-LIST:END -->
 
 ---
