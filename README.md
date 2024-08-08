@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Kubernetes Resource Requests with Goldilocks : Day 25 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/optimizing-kubernetes-resource-requests-with-goldilocks-day-25-of-50-days-devops-tools-series-1c58)
-- [#41 — Group And Summarize Rows While Retaining Columns Whose Values Are Unchanged](https://dev.to/judith677/41-group-and-summarize-rows-while-retaining-columns-whose-values-are-unchanged-3emc)
-- [what is angular](https://dev.to/mosininamdar/what-is-angular-5djm)
-- [Connect postgres with docker and django](https://dev.to/hitesh_chauhan_42485a44af/connect-postgres-with-docker-and-django-7c0)
-- [What is React](https://dev.to/mosininamdar/what-is-react-202k)
+- [web apps with react](https://dev.to/blindvisionman/web-apps-with-react-3m35)
+- [Unlock the Power of Real-Time UI: A Beginner&#39;s Guide to Streaming Data with React.js, gRPC, Envoy, and Golang](https://dev.to/marscode/unlock-the-power-of-real-time-ui-a-beginners-guide-to-streaming-data-with-reactjs-grpc-envoy-and-golang-271p)
+- [Top 40 Frontend Developer Interview Questions &amp; Answers 2024 🪄 ❤️‍🔥](https://dev.to/lakshmananarumugam/top-40-frontend-developer-interview-questions-answers-2024-2hkn)
+- [Cron job that creates backups of a directory in Linux](https://dev.to/letsbsocial1/cron-job-that-creates-backups-of-a-directory-in-linux-277n)
+- [Step-by-Step Guide to Rebasing Your Branch onto Dev](https://dev.to/smrpdl1991/step-by-step-guide-to-rebasing-your-branch-onto-dev-345e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
