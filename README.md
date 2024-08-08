@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Data Warehouse Service GaussDB &lpar;DWS&rpar; -1](https://dev.to/ozcankara/data-warehouse-service-gaussdb-dws-16fa)
-- [Introducing Pendulum: A Timer Plugin for Neovim to Boost Your Productivity](https://dev.to/sunny_tamang_a2bce7dea658/introducing-pendulum-a-timer-plugin-for-neovim-to-boost-your-productivity-3ai6)
-- [Serverless Framework | Setting up a Serverless Framework on AWS](https://dev.to/clickit_devops/serverless-framework-setting-up-a-serverless-framework-on-aws-2l1n)
-- [Behind The Scenes: How Your Browser Cooks Up a Webpage.](https://dev.to/taiwocodes/behind-the-scenes-how-your-browser-cooks-up-a-webpage-3kka)
-- [Day 21 of 100 Days of Cloud: Mastering Docker Volumes for Data Persistence](https://dev.to/tutorialhelldev/day-21-of-100-days-of-cloud-mastering-docker-volumes-for-data-persistence-2lcn)
+- [Tutorials are great! But something is missing...](https://dev.to/francescoxx/tutorials-are-great-but-something-is-missing-2g4k)
+- [Batch &lpar;XLS-56&rpar; is Now Available for Testing and Development](https://dev.to/dangell7/batch-xls-56-is-now-available-for-testing-and-development-18bk)
+- [maXbox5](https://dev.to/max_kleiner_9d12e786b3ecc/maxbox5-1p01)
+- [How to Create Accessible Charts in React: A Guide to Inclusive Data Visualisation](https://dev.to/tinyoctopus/how-to-create-accessible-charts-in-react-a-guide-to-inclusive-data-visualisation-1a4)
+- [🔍 Understanding the Differences: List, ArrayList, and LinkedList in Java 🔍](https://dev.to/felipejansendeveloper/understanding-the-differences-list-arraylist-and-linkedlist-in-java-5h9o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
