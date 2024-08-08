@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [web apps with react](https://dev.to/blindvisionman/web-apps-with-react-3m35)
-- [Unlock the Power of Real-Time UI: A Beginner&#39;s Guide to Streaming Data with React.js, gRPC, Envoy, and Golang](https://dev.to/marscode/unlock-the-power-of-real-time-ui-a-beginners-guide-to-streaming-data-with-reactjs-grpc-envoy-and-golang-271p)
-- [Top 40 Frontend Developer Interview Questions &amp; Answers 2024 🪄 ❤️‍🔥](https://dev.to/lakshmananarumugam/top-40-frontend-developer-interview-questions-answers-2024-2hkn)
-- [Cron job that creates backups of a directory in Linux](https://dev.to/letsbsocial1/cron-job-that-creates-backups-of-a-directory-in-linux-277n)
-- [Step-by-Step Guide to Rebasing Your Branch onto Dev](https://dev.to/smrpdl1991/step-by-step-guide-to-rebasing-your-branch-onto-dev-345e)
+- [Unlock the Secrets of Programming Languages with Northeastern University 🔑](https://dev.to/getvm/unlock-the-secrets-of-programming-languages-with-northeastern-university-30b6)
+- [🌟 Day 10: Log Analyzer and Report Generator](https://dev.to/ritesh_dolare/day-10-log-analyzer-and-report-generator-ih)
+- [The Ultimate Guide to API Architectures in 2024: Choosing the Right Approach for Your Project](https://dev.to/vyan/the-ultimate-guide-to-api-architectures-in-2024-choosing-the-right-approach-for-your-project-1fn3)
+- [How to Boost Your Conversion Rate with the Right Hero Image?](https://dev.to/pepper_square/how-to-boost-your-conversion-rate-with-the-right-hero-image-3d5g)
+- [Tailwind CSS: Transition Utilities](https://dev.to/tailwine/tailwind-css-transition-utilities-3n5f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
