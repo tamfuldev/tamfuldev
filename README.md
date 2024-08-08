@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Uploading Files Using Pre-Signed URLs to a Specific Storage Class](https://dev.to/anshul_kichara/uploading-files-using-pre-signed-urls-to-a-specific-storage-class-5hfa)
-- [Automating the Cloud Resume Challenge: Implementing CI/CD with GitHub Actions](https://dev.to/gusfeliciano/automating-the-cloud-resume-challenge-implementing-cicd-with-github-actions-4m36)
-- [Edge Cases to Keep in Mind. Part 1 — Text](https://dev.to/koral/edge-cases-to-keep-in-mind-part-1-text-4f36)
-- [Recommended Course: Foundations of Deep Learning](https://dev.to/labex/recommended-course-foundations-of-deep-learning-1km2)
-- [Edge Cases to Keep in Mind. Part 2 — Files](https://dev.to/koral/edge-cases-to-keep-in-mind-part-2-files-53)
+- [The Journey of Open Source Contribution: Why It Takes Time and How the Process Unfolds..](https://dev.to/srobver/the-journey-of-open-source-contribution-why-it-takes-time-and-how-the-process-unfolds-1k3l)
+- [Object methods in JavaScript.!](https://dev.to/samandarhodiev/object-methods-in-javascript-14nn)
+- [Why don&#39;t we pass child components as props?](https://dev.to/filipegeric/why-dont-we-pass-child-components-as-props-gal)
+- [Maximizing Small Spaces: Clever Storage Solutions](https://dev.to/simplehomely/maximizing-small-spaces-clever-storage-solutions-e84)
+- [use formal Python protocol](https://dev.to/anna_lapushner/use-formal-python-protocol-240d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
