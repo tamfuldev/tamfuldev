@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Reading a CSV using OpenCSV and Kotlin](https://dev.to/zion_onwujuba_894fe00cd83/reading-a-csv-using-opencsv-and-kotlin-d02)
-- [From NAS to Kubernetes: Setting Up a Raspberry Pi Cluster with Synology NAS](https://dev.to/fredinono/from-nas-to-kubernetes-setting-up-a-raspberry-pi-cluster-with-synology-nas-57f4)
-- [Creating an empty project using NestJS-mod](https://dev.to/endykaufman/creating-an-empty-project-using-nestjs-mod-2dgo)
-- [Level Up Your Node.js Monitoring with These Essential Metrics](https://dev.to/alertyai/level-up-your-nodejs-monitoring-with-these-essential-metrics-3kf6)
-- [Tutorials are great! But something is missing...](https://dev.to/francescoxx/tutorials-are-great-but-something-is-missing-2g4k)
+- [Day 1006 : Decided](https://dev.to/dwane/day-1006-decided-9n2)
+- [10 Livros sobre Linux que vale a pena você ler](https://dev.to/marcosplusplus/10-livros-sobre-linux-que-vale-a-pena-voce-ler-gad)
+- [10 Livros para Aprendizado Avançado de Pentest e Segurança &lpar;Hackers&rpar;](https://dev.to/marcosplusplus/10-livros-para-aprendizado-avancado-de-pentest-e-seguranca-hackers-2p67)
+- [MapReduce Service](https://dev.to/ozcankara/mapreduce-service-2a79)
+- [Java to Develop GaussDB](https://dev.to/ozcankara/java-to-develop-gaussdb-4b5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
