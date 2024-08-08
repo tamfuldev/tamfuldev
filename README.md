@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [8 Non-Obvious Vulnerabilities in E-Commerce Projects Built with NextJS](https://dev.to/byteminds_agency/8-non-obvious-vulnerabilities-in-e-commerce-projects-built-with-nextjs-2c2l)
-- [How to Inspect HTTP Requests and Responses](https://dev.to/thekarlesi/how-to-inspect-http-requests-and-responses-2ll2)
-- [Ctrl+Alt+Cheat: The Must-Have VSCode Extension Every Developer Needs!](https://dev.to/hkp22/ctrlaltcheat-the-must-have-vscode-extension-every-developer-needs-4l51)
-- [What is JavaScript](https://dev.to/mosininamdar/what-is-javascript-4hi2)
-- [Troubleshooting Windows 10 Wireless Printer Problems Smoothy](https://dev.to/jasskarley/troubleshooting-windows-10-wireless-printer-problems-smoothy-1oea)
+- [Understanding IP Address Types, Subnets, and Loopback](https://dev.to/mohanavamsi0614/understanding-ip-address-types-subnets-and-loopback-3eoa)
+- [How to Make Money From Coding: A Beginner-Friendly Practical Guide](https://dev.to/syakirurahman/how-to-make-money-from-coding-a-beginner-friendly-practical-guide-5532)
+- [Secure Your AI Project With Model Attestation and Software Bill of Materials &lpar;SBOMs&rpar;](https://dev.to/kitops/secure-your-ai-project-with-model-attestation-and-software-bill-of-materials-sboms-5a7g)
+- [Streamlining Sales Order and Order Response Integration: Importing PDFs into SAP](https://dev.to/hubbroker/streamlining-sales-order-and-order-response-integration-importing-pdfs-into-sap-1ccc)
+- [Deploying A Django App: EC2 vs App Runner with External Celery](https://dev.to/yokwejuste/deploying-a-django-app-ec2-vs-app-runner-with-external-celery-2pne)
 <!-- BLOG-POST-LIST:END -->
 
 ---
