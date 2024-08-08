@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Searching an Element in an Array with JavaScript](https://dev.to/vrajparikh/searching-an-element-in-an-array-with-javascript-2jmc)
-- [How to Scrape Google News with Python: Step-by-Step Guide](https://dev.to/oxylabs-io/how-to-scrape-google-news-with-python-step-by-step-guide-2gkf)
-- [HTML To Email](https://dev.to/thomas_brillion/html-to-email-31k9)
-- [Variables -&gt; O&#39;zgaruvchilar](https://dev.to/oromiddin_6917f73806243ec/variables-ozgaruvchilar-30b6)
-- [The Ultimate Guide to Android App Testing: Ensuring Quality with Testscenario](https://dev.to/testscenario/the-ultimate-guide-to-android-app-testing-ensuring-quality-with-testscenario-3ll4)
+- [Authentication vs. Authorization in Azure: Decoding the Dynamic Duo of Security](https://dev.to/rofiatabdulkareem/authentication-vs-authorization-in-azure-decoding-the-dynamic-duo-of-security-4pnn)
+- [I am a Strange Dataset: Evaluating Language Models with Metalinguistic Tests](https://dev.to/mikeyoung44/i-am-a-strange-dataset-evaluating-language-models-with-metalinguistic-tests-3gdh)
+- [Why you should participate to Friendly.rb Ruby conference](https://dev.to/lucianghinda/why-you-should-participate-to-friendlyrb-ruby-conference-oco)
+- [Day 38 of 100 Days of Code](https://dev.to/jacobsternx/day-38-of-100-days-of-code-34im)
+- [Developing Language Learning App Like Rosetta Stone](https://dev.to/ideausher/developing-language-learning-app-like-rosetta-stone-2aoe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
