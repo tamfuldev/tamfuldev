@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SQL, split values of two columns respectively and count members of their intersection #eg20](https://dev.to/esproc_spl/sql-split-values-of-two-columns-respectively-and-count-members-of-their-intersection-eg20-pnh)
-- [Top Methods and Tools for JavaScript Animations in Web Development](https://dev.to/raajaryan/top-methods-and-tools-for-javascript-animations-in-web-development-dhp)
-- [Lambda functions in Python clearly explained!!](https://dev.to/vaibhavt14/lambda-functions-in-python-clearly-explained-a3b)
-- [AI Integration with streamtasks](https://dev.to/leopf/ai-integration-with-streamtasks-4f40)
-- [Web Design Tips for Author Websites](https://dev.to/henrydavid/web-design-tips-for-author-websites-3ko6)
+- [Searching an Element in an Array with JavaScript](https://dev.to/vrajparikh/searching-an-element-in-an-array-with-javascript-2jmc)
+- [How to Scrape Google News with Python: Step-by-Step Guide](https://dev.to/oxylabs-io/how-to-scrape-google-news-with-python-step-by-step-guide-2gkf)
+- [HTML To Email](https://dev.to/thomas_brillion/html-to-email-31k9)
+- [Variables -&gt; O&#39;zgaruvchilar](https://dev.to/oromiddin_6917f73806243ec/variables-ozgaruvchilar-30b6)
+- [The Ultimate Guide to Android App Testing: Ensuring Quality with Testscenario](https://dev.to/testscenario/the-ultimate-guide-to-android-app-testing-ensuring-quality-with-testscenario-3ll4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
