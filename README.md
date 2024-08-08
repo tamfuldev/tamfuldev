@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Journey of Open Source Contribution: Why It Takes Time and How the Process Unfolds..](https://dev.to/srobver/the-journey-of-open-source-contribution-why-it-takes-time-and-how-the-process-unfolds-1k3l)
-- [Object methods in JavaScript.!](https://dev.to/samandarhodiev/object-methods-in-javascript-14nn)
-- [Why don&#39;t we pass child components as props?](https://dev.to/filipegeric/why-dont-we-pass-child-components-as-props-gal)
-- [Maximizing Small Spaces: Clever Storage Solutions](https://dev.to/simplehomely/maximizing-small-spaces-clever-storage-solutions-e84)
-- [use formal Python protocol](https://dev.to/anna_lapushner/use-formal-python-protocol-240d)
+- [Data Warehouse Service GaussDB &lpar;DWS&rpar; -1](https://dev.to/ozcankara/data-warehouse-service-gaussdb-dws-16fa)
+- [Introducing Pendulum: A Timer Plugin for Neovim to Boost Your Productivity](https://dev.to/sunny_tamang_a2bce7dea658/introducing-pendulum-a-timer-plugin-for-neovim-to-boost-your-productivity-3ai6)
+- [Serverless Framework | Setting up a Serverless Framework on AWS](https://dev.to/clickit_devops/serverless-framework-setting-up-a-serverless-framework-on-aws-2l1n)
+- [Behind The Scenes: How Your Browser Cooks Up a Webpage.](https://dev.to/taiwocodes/behind-the-scenes-how-your-browser-cooks-up-a-webpage-3kka)
+- [Day 21 of 100 Days of Cloud: Mastering Docker Volumes for Data Persistence](https://dev.to/tutorialhelldev/day-21-of-100-days-of-cloud-mastering-docker-volumes-for-data-persistence-2lcn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
