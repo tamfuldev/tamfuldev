@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Experiencing the Migration from Cypress to Playwright](https://dev.to/rodik/experiencing-the-migration-from-cypress-to-playwright-2e24)
-- [Video autoplay is not working in mobile view](https://dev.to/sruthirose/video-autoplay-is-not-working-in-mobile-view-iif)
-- [Daily Log - 08/08/2024](https://dev.to/makkawai/daily-log-08082024-4chd)
-- [Installing Apache, PHP, and MySQL on Oracle Linux 8](https://dev.to/nhisyamj/installing-apache-php-and-mysql-on-oracle-linux-8-3j7m)
-- [How JavaScript’s Garbage Collection Affects Application Performance](https://dev.to/rigalpatel001/how-javascripts-garbage-collection-affects-application-performance-4k6j)
+- [I Built an AI Assistant that 10x&#39;d My Productivity 🚀](https://dev.to/composiodev/i-built-an-ai-assistant-that-10xd-my-productivity-51lb)
+- [How to Airdrop SOL Using Solana CLI: Step-by-Step Guide](https://dev.to/sumana10/how-to-airdrop-sol-using-solana-cli-step-by-step-guide-2764)
+- [Streamline Group Payments with Pay Calculator: A Web App to Balance Shared Expenses](https://dev.to/azratul/streamline-group-payments-with-pay-calculator-a-web-app-to-balance-shared-expenses-17d)
+- [SOLID - Princípios da Programação Orientada a Objetos &lpar;OOP&rpar;](https://dev.to/williamkoller/solid-principios-da-programacao-orientada-a-objetos-oop-50g3)
+- [New features, bug fixes for my docker-like solution native to macOS](https://dev.to/okerew/new-features-bug-fixes-for-my-docker-like-solution-native-to-macos-1n4f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
