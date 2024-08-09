@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Passing query parameters through import.meta.url to vue with Laravel Vite](https://dev.to/hadakadenkyu/passing-query-parameters-through-importmetaurl-to-vue-with-laravel-vite-3np4)
-- [My HNG Journey. Stage Six: Leveraging Python to Expose DORA Metrics](https://dev.to/ravencodess/my-hng-journey-stage-six-leveraging-python-to-expose-dora-metrics-k0k)
-- [Advanced React](https://dev.to/mashcuy_lab/advanced-react-5998)
-- [🚀 Day 10: Packing List App 🚀](https://dev.to/mayureshsurve/day-10-packing-list-app-5a31)
-- [Windows Commands Cheat Sheet :&rpar;](https://dev.to/madgan95/windows-commands-cheat-sheet--1h3e)
+- [🧙‍♂️19 Open-Source Tools You Should Bookmark Now🔖](https://dev.to/dev_kiran/19-open-source-tools-you-should-bookmark-now-5hc4)
+- [Exploring Oracle Database: A Comprehensive Guide](https://dev.to/mrudula_eranki_0efb110fd8/exploring-oracle-database-a-comprehensive-guide-58mh)
+- [Building a Single-Threaded Web Server | Rust Programming](https://dev.to/labex/building-a-single-threaded-web-server-rust-programming-22g)
+- [Mastering Tailwind CSS Integration with Popular JavaScript Frameworks in 2024](https://dev.to/vyan/mastering-tailwind-css-integration-with-popular-javascript-frameworks-in-2024-1kac)
+- [Computer Control in Software](https://dev.to/clara1123/computer-control-in-software-9mc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
