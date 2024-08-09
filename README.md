@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with the MEAN Stack](https://dev.to/media_geneous/getting-started-with-the-mean-stack-ce0)
-- [Today&#39;s Trending Projects: Sum of Prime Numbers Under 100 and More 🚀](https://dev.to/labex/todays-trending-projects-sum-of-prime-numbers-under-100-and-more-i4n)
-- [Session #3](https://dev.to/mashcuy_lab/session-3-bnb)
-- [Otimizando Custos na AWS: O Poder do Spot.io para Reduzir seu AWS Billing](https://dev.to/fernandomullerjr/otimizando-custos-na-aws-o-poder-do-spotio-para-reduzir-seu-aws-billing-1i18)
-- [River: Tu Cola de Trabajos Go, Simple y Eficiente](https://dev.to/lucatonyraudales/a-ui-for-golang-jobs-446d)
+- [Passing query parameters through import.meta.url to vue with Laravel Vite](https://dev.to/hadakadenkyu/passing-query-parameters-through-importmetaurl-to-vue-with-laravel-vite-3np4)
+- [My HNG Journey. Stage Six: Leveraging Python to Expose DORA Metrics](https://dev.to/ravencodess/my-hng-journey-stage-six-leveraging-python-to-expose-dora-metrics-k0k)
+- [Advanced React](https://dev.to/mashcuy_lab/advanced-react-5998)
+- [🚀 Day 10: Packing List App 🚀](https://dev.to/mayureshsurve/day-10-packing-list-app-5a31)
+- [Windows Commands Cheat Sheet :&rpar;](https://dev.to/madgan95/windows-commands-cheat-sheet--1h3e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
