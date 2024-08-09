@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring OpenAI&#39;s Project Strawberry: The Future of AI Language Models](https://dev.to/webdev-mohdamir/exploring-openais-project-strawberry-the-future-of-ai-language-models-4g1i)
-- [When I Tackled Rate Limiting Using AWS Step Functions and Lambda](https://dev.to/aws-builders/when-i-tackled-rate-limiting-using-aws-step-functions-and-lambda-354a)
-- [Oct 10 - AI, Machine Learning and Computer Vision Meetup](https://dev.to/voxel51/oct-10-ai-machine-learning-and-computer-vision-meetup-4oin)
-- [My image does not want to render in my VUE](https://dev.to/akinola_samson_285e445636/my-image-does-not-want-to-render-in-my-vue-4nkp)
-- [Why We Need Higher-Order Functions](https://dev.to/evanloria4/why-we-need-higher-order-functions-2k4m)
+- [Day 11: Diving Deeper into AWS – Advanced Concepts](https://dev.to/singh_in_cloud/day-11-diving-deeper-into-aws-advanced-concepts-3hmo)
+- [Beyond Zipping Up a Coat: Mastering &#39;zip_longest&#39; in Python](https://dev.to/posax/beyond-zipping-up-a-coat-mastering-ziplongest-in-python-3n8f)
+- [Mastering Location-Based Services: A Guide to Finding the Closest Locations Using Java Spring Boot](https://dev.to/khageshpatil/mastering-location-based-services-a-guide-to-finding-the-closest-locations-using-java-spring-boot-jni)
+- [The Best way to configure environment variables and multi environments in Nest.js](https://dev.to/ahmed_hyperov/the-best-way-to-configure-environment-variables-and-multi-environments-in-nestjs-31fi)
+- [Inversão de Controle x Injeção de Dependência](https://dev.to/oigorrudel/inversao-de-controle-x-injecao-de-dependencia-pif)
 <!-- BLOG-POST-LIST:END -->
 
 ---
