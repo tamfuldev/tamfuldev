@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Real-Time Fraud Detection: A Kafka-Based Microservices Solution](https://dev.to/sshamza/real-time-fraud-detection-a-kafka-based-microservices-solution-4dco)
-- [Unlocking the Power💪 of CSS Pseudo-Classes: A Comprehensive Guide.](https://dev.to/dharamgfx/unlocking-the-power-of-css-pseudo-classes-a-comprehensive-guide-1p7p)
-- [4 Starter Kits to Jumpstart Your ASP.NET Core SaaS Project](https://dev.to/faciletechnolab/4-starter-kits-to-jumpstart-your-aspnet-core-saas-project-2b1i)
-- [my first public project](https://dev.to/lordyprod42/my-first-public-project-4700)
-- [TS function overloading - real world example](https://dev.to/asmyshlyaev177/ts-function-overloading-real-world-example-36c8)
+- [Day 10 of NodeJS || HTTP module|| Part 2](https://dev.to/akshat0610/day-10-of-nodejs-http-module-part-2-3743)
+- [Understand the terminologies of in CS](https://dev.to/mohanavamsi0614/understand-the-terminologies-of-in-cs-30d6)
+- [Reinstalling Your Must-Have Dev Tools and Extensions on Mac](https://dev.to/claudioaltamura/reinstalling-your-must-have-dev-tools-and-extensions-on-mac-17nh)
+- [How to Run Technical Interviews](https://dev.to/tomekbuszewski/how-to-run-technical-interviews-h6o)
+- [Node.js v20: .env files, import modules, and Permission Model](https://dev.to/cloudx/nodejs-v20-env-files-import-modules-and-permission-model-2fd9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
