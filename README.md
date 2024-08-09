@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 10 of NodeJS || HTTP module|| Part 2](https://dev.to/akshat0610/day-10-of-nodejs-http-module-part-2-3743)
-- [Understand the terminologies of in CS](https://dev.to/mohanavamsi0614/understand-the-terminologies-of-in-cs-30d6)
-- [Reinstalling Your Must-Have Dev Tools and Extensions on Mac](https://dev.to/claudioaltamura/reinstalling-your-must-have-dev-tools-and-extensions-on-mac-17nh)
-- [How to Run Technical Interviews](https://dev.to/tomekbuszewski/how-to-run-technical-interviews-h6o)
-- [Node.js v20: .env files, import modules, and Permission Model](https://dev.to/cloudx/nodejs-v20-env-files-import-modules-and-permission-model-2fd9)
+- [Building a Scalable Notifications and Alerting System 🔥🚀](https://dev.to/middleware/building-a-scalable-notifications-and-alerting-system-kon)
+- [What is the best book for network programming?](https://dev.to/m__mdy__m/what-is-the-best-book-for-network-programming-5ci8)
+- [Pros and Cons of a Custom WordPress Theme](https://dev.to/marijana_nikolic_60700039/pros-and-cons-of-a-custom-wordpress-theme-233i)
+- [100FrontendChallenge - Day 9 - Password generator](https://dev.to/t1xx1/100frontendchallenge-day-9-password-generator-10al)
+- [GSoC’24&lpar;CircuitVerse&rpar; Week 9 &amp; 10](https://dev.to/niladri_adhikary_f11402dc/gsoc24circuitverse-week-9-10-45me)
 <!-- BLOG-POST-LIST:END -->
 
 ---
