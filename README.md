@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to share a library on cdnjs](https://dev.to/js-libraries/how-to-share-a-library-on-cdnjs-4jfi)
-- [Tips for Working with Complex Normalized Databases](https://dev.to/alvincrespo/tips-for-working-with-complex-normalized-databases-2453)
-- [A consolidated guide to Well-Architected Frameworks](https://dev.to/thecodewrapper/a-consolidated-guide-to-well-architected-frameworks-1399)
-- [🪛𝐆𝐥𝐨𝐛𝐚𝐥 𝐄𝐱𝐜𝐞𝐩𝐭𝐢𝐨𝐧 𝐇𝐚𝐧𝐝𝐥𝐢𝐧𝐠 𝐢𝐧 𝐀𝐒𝐏.𝐍𝐄𝐓 𝐂𝐨𝐫𝐞: 𝐄𝐥𝐞𝐯𝐚𝐭𝐢𝐧𝐠 𝐂𝐨𝐝𝐞 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 𝐚𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐄𝐟𝐟𝐢𝐜𝐢𝐞𝐧𝐜𝐲🪛](https://dev.to/majdisaibi/--2gik)
-- [How to reduce javascript file size on client using HMPL?](https://dev.to/antonmak1/how-to-reduce-javascript-file-size-on-client-using-hmpl-2685)
+- [Getting Started with the MEAN Stack](https://dev.to/media_geneous/getting-started-with-the-mean-stack-ce0)
+- [Today&#39;s Trending Projects: Sum of Prime Numbers Under 100 and More 🚀](https://dev.to/labex/todays-trending-projects-sum-of-prime-numbers-under-100-and-more-i4n)
+- [Session #3](https://dev.to/mashcuy_lab/session-3-bnb)
+- [Otimizando Custos na AWS: O Poder do Spot.io para Reduzir seu AWS Billing](https://dev.to/fernandomullerjr/otimizando-custos-na-aws-o-poder-do-spotio-para-reduzir-seu-aws-billing-1i18)
+- [River: Tu Cola de Trabajos Go, Simple y Eficiente](https://dev.to/lucatonyraudales/a-ui-for-golang-jobs-446d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
