@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🧙‍♂️19 Open-Source Tools You Should Bookmark Now🔖](https://dev.to/dev_kiran/19-open-source-tools-you-should-bookmark-now-5hc4)
-- [Exploring Oracle Database: A Comprehensive Guide](https://dev.to/mrudula_eranki_0efb110fd8/exploring-oracle-database-a-comprehensive-guide-58mh)
-- [Building a Single-Threaded Web Server | Rust Programming](https://dev.to/labex/building-a-single-threaded-web-server-rust-programming-22g)
-- [Mastering Tailwind CSS Integration with Popular JavaScript Frameworks in 2024](https://dev.to/vyan/mastering-tailwind-css-integration-with-popular-javascript-frameworks-in-2024-1kac)
-- [Computer Control in Software](https://dev.to/clara1123/computer-control-in-software-9mc)
+- [How to Build Your Own React Hooks: A Step-by-Step Guide](https://dev.to/dobedosoft/how-to-build-your-own-react-hooks-a-step-by-step-guide-857)
+- [Destructuring in Python](https://dev.to/pham_bach_7cded53e4c5439e/destructuring-in-python-22jc)
+- [Unleash Your C++ Superpowers with This Beginner-Friendly Course! 🚀](https://dev.to/getvm/unleash-your-c-superpowers-with-this-beginner-friendly-course-31k)
+- [Discover the Future of AI with My New Book: Developing GenAI Applications with LangChain, Semantic Kernel and Powered by LLMs](https://dev.to/sreeni5018/discover-the-future-of-ai-with-my-new-book-developing-genai-applications-with-langchain-semantic-kernel-and-powered-by-llms-1fka)
+- [🚀Day 11: How to Handle Errors in Shell Scripting](https://dev.to/ritesh_dolare/day-11-how-to-handle-errors-in-shell-scripting-5c9e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
