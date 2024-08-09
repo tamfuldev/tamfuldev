@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Browser Client to gRPC Server Routing options: Connect, gRPC-web, gRPC-gateway and more!](https://dev.to/stevenacoffman/browser-client-to-grpc-server-routing-options-connect-grpc-web-grpc-gateway-and-more-52cm)
-- [The irrational fear of deployments](https://dev.to/aviator_co/the-irrational-fear-of-deployments-5e8m)
-- [Step by Step Guide to Remediate Data Vulnerability](https://dev.to/jarrid/step-by-step-guide-to-remediate-data-vulnerability-4p7o)
-- [Understanding Your Data: The Essentials of Exploratory Data Analysis.](https://dev.to/melbride/understanding-your-data-the-essentials-of-exploratory-data-analysis-1j7g)
-- [Navigating the AI World: Lessons from My Internship at Mihira AI](https://dev.to/gayatri_bandaru/navigating-the-ai-world-lessons-from-my-internship-at-mihira-ai-5c22)
+- [Supabase uses Valtio for its state management](https://dev.to/ramunarasinga/supabase-uses-valtio-for-its-state-management-cpf)
+- [The Logging, The AOP and The Clean Code](https://dev.to/thiagoematos/the-logging-the-aop-and-the-clean-code-4od1)
+- [👨‍⚕️ Visual AI in Healthcare 👩‍⚕️](https://dev.to/voxel51/visual-ai-in-healthcare-4902)
+- [Choosing the right prompt in LLM](https://dev.to/ayhamsh/choosing-the-right-prompt-in-llm-355p)
+- [🚀 Day 11: React Fragments and Composition vs Inheritance in React 🚀](https://dev.to/mayureshsurve/day-11-react-fragments-and-composition-vs-inheritance-in-react-50d1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
