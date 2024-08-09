@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Install DaVinci Resolve 19 &lpar;beta&rpar; on Linux Mint 22 with AMD Radeon Graphics Card](https://dev.to/annietaylorchen/how-to-install-davinci-resolve-19-beta-on-linux-mint-22-with-amd-radeon-graphics-card-1mfb)
-- [Day 22 of 100 Days of Cloud: Mastering AWS Lambda and Lambda Layers](https://dev.to/tutorialhelldev/day-22-of-100-days-of-cloud-mastering-aws-lambda-and-lambda-layers-3icn)
-- [IndexedDb A bigger LocalStorage](https://dev.to/anasmustafa123/indexeddb-a-bigger-localstorage-3g93)
-- [Shift Right e DevOps: Alinhando Testes com a Manutenção em Produção](https://dev.to/womakerscode/shift-right-e-devops-alinhando-testes-com-a-manutencao-em-producao-52j5)
-- [20 Coffee Chats in 2 Weeks: Here&#39;s What Happened](https://dev.to/elliezub/20-coffee-chats-in-2-weeks-heres-what-happened-11em)
+- [Browser Client to gRPC Server Routing options: Connect, gRPC-web, gRPC-gateway and more!](https://dev.to/stevenacoffman/browser-client-to-grpc-server-routing-options-connect-grpc-web-grpc-gateway-and-more-52cm)
+- [The irrational fear of deployments](https://dev.to/aviator_co/the-irrational-fear-of-deployments-5e8m)
+- [Step by Step Guide to Remediate Data Vulnerability](https://dev.to/jarrid/step-by-step-guide-to-remediate-data-vulnerability-4p7o)
+- [Understanding Your Data: The Essentials of Exploratory Data Analysis.](https://dev.to/melbride/understanding-your-data-the-essentials-of-exploratory-data-analysis-1j7g)
+- [Navigating the AI World: Lessons from My Internship at Mihira AI](https://dev.to/gayatri_bandaru/navigating-the-ai-world-lessons-from-my-internship-at-mihira-ai-5c22)
 <!-- BLOG-POST-LIST:END -->
 
 ---
