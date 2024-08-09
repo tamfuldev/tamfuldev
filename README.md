@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Hello World!](https://dev.to/mytv_dor_35113e7aa7f055df/hello-world-1gke)
-- [Hello World!](https://dev.to/mytv_dor_35113e7aa7f055df/hello-world-4gb9)
-- [5 Ways to Boost Growth with Gen AI for Business](https://dev.to/transorg/7-ways-to-boost-growth-with-gen-ai-for-business-6jb)
-- [well, hello there !!!](https://dev.to/ashw4thama/well-hello-there--2n1m)
-- [Tech Spotlight: Daily Tech News](https://dev.to/techdogs_inc/tech-spotlight-daily-tech-news-3hpm)
+- [Real-Time Fraud Detection: A Kafka-Based Microservices Solution](https://dev.to/sshamza/real-time-fraud-detection-a-kafka-based-microservices-solution-4dco)
+- [Unlocking the Power💪 of CSS Pseudo-Classes: A Comprehensive Guide.](https://dev.to/dharamgfx/unlocking-the-power-of-css-pseudo-classes-a-comprehensive-guide-1p7p)
+- [4 Starter Kits to Jumpstart Your ASP.NET Core SaaS Project](https://dev.to/faciletechnolab/4-starter-kits-to-jumpstart-your-aspnet-core-saas-project-2b1i)
+- [my first public project](https://dev.to/lordyprod42/my-first-public-project-4700)
+- [TS function overloading - real world example](https://dev.to/asmyshlyaev177/ts-function-overloading-real-world-example-36c8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
