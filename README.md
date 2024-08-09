@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1006 : Decided](https://dev.to/dwane/day-1006-decided-9n2)
-- [10 Livros sobre Linux que vale a pena você ler](https://dev.to/marcosplusplus/10-livros-sobre-linux-que-vale-a-pena-voce-ler-gad)
-- [10 Livros para Aprendizado Avançado de Pentest e Segurança &lpar;Hackers&rpar;](https://dev.to/marcosplusplus/10-livros-para-aprendizado-avancado-de-pentest-e-seguranca-hackers-2p67)
-- [MapReduce Service](https://dev.to/ozcankara/mapreduce-service-2a79)
-- [Java to Develop GaussDB](https://dev.to/ozcankara/java-to-develop-gaussdb-4b5)
+- [How to share a library on cdnjs](https://dev.to/js-libraries/how-to-share-a-library-on-cdnjs-4jfi)
+- [Tips for Working with Complex Normalized Databases](https://dev.to/alvincrespo/tips-for-working-with-complex-normalized-databases-2453)
+- [A consolidated guide to Well-Architected Frameworks](https://dev.to/thecodewrapper/a-consolidated-guide-to-well-architected-frameworks-1399)
+- [🪛𝐆𝐥𝐨𝐛𝐚𝐥 𝐄𝐱𝐜𝐞𝐩𝐭𝐢𝐨𝐧 𝐇𝐚𝐧𝐝𝐥𝐢𝐧𝐠 𝐢𝐧 𝐀𝐒𝐏.𝐍𝐄𝐓 𝐂𝐨𝐫𝐞: 𝐄𝐥𝐞𝐯𝐚𝐭𝐢𝐧𝐠 𝐂𝐨𝐝𝐞 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 𝐚𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐄𝐟𝐟𝐢𝐜𝐢𝐞𝐧𝐜𝐲🪛](https://dev.to/majdisaibi/--2gik)
+- [How to reduce javascript file size on client using HMPL?](https://dev.to/antonmak1/how-to-reduce-javascript-file-size-on-client-using-hmpl-2685)
 <!-- BLOG-POST-LIST:END -->
 
 ---
