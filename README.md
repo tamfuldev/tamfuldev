@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How To Count Strings With Emojis In JavaScript](https://dev.to/jeffbuildstech/how-to-count-strings-with-emojis-in-javascript-4604)
-- [# Common Issues and Resolutions When Setting Up a VPC in AWS](https://dev.to/sepiyush/-common-issues-and-resolutions-when-setting-up-a-vpc-in-aws-3hk2)
-- [How to leverage polymorphism to design flexible and maintainable software that adheres to SOLID principles](https://dev.to/muhammad_salem/how-to-leverage-polymorphism-to-design-flexible-and-maintainable-software-that-adheres-to-solid-principles-36a1)
-- [Mapping the Sky: GPS Receiver Animation](https://dev.to/rodrigoantunes/mapping-the-sky-gps-receiver-animation-1ne2)
-- [Understanding Task in .NET 🌐](https://dev.to/ipazooki/understanding-task-in-net-3cnn)
+- [Exploring OpenAI&#39;s Project Strawberry: The Future of AI Language Models](https://dev.to/webdev-mohdamir/exploring-openais-project-strawberry-the-future-of-ai-language-models-4g1i)
+- [When I Tackled Rate Limiting Using AWS Step Functions and Lambda](https://dev.to/aws-builders/when-i-tackled-rate-limiting-using-aws-step-functions-and-lambda-354a)
+- [Oct 10 - AI, Machine Learning and Computer Vision Meetup](https://dev.to/voxel51/oct-10-ai-machine-learning-and-computer-vision-meetup-4oin)
+- [My image does not want to render in my VUE](https://dev.to/akinola_samson_285e445636/my-image-does-not-want-to-render-in-my-vue-4nkp)
+- [Why We Need Higher-Order Functions](https://dev.to/evanloria4/why-we-need-higher-order-functions-2k4m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
