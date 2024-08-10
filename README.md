@@ -16,7 +16,7 @@
 # Latest stack oveflow activity
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><tr><td>cgi-bin on google search</td><td>https://stackoverflow.com/questions/78855034/cgi-bin-on-google-search</td></tr><tr><td>How to display SN in PHP?</td><td>https://stackoverflow.com/questions/78855009/how-to-display-sn-in-php</td></tr><tr><td>PHP Laravel conditional SVG binding issue</td><td>https://stackoverflow.com/questions/78854988/php-laravel-conditional-svg-binding-issue</td></tr><tr><td>Contact Form Not Functioning</td><td>https://stackoverflow.com/questions/78854921/contact-form-not-functioning</td></tr><tr><td>Button for Woocommerce</td><td>https://stackoverflow.com/questions/78854629/button-for-woocommerce</td></tr><!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:START --><tr><td>Symfony StreamedResponse not downloading the file</td><td>https://stackoverflow.com/questions/78855045/symfony-streamedresponse-not-downloading-the-file</td></tr><tr><td>cgi-bin on google search</td><td>https://stackoverflow.com/questions/78855034/cgi-bin-on-google-search</td></tr><tr><td>How to display SN in PHP?</td><td>https://stackoverflow.com/questions/78855009/how-to-display-sn-in-php</td></tr><tr><td>PHP Laravel conditional SVG binding issue</td><td>https://stackoverflow.com/questions/78854988/php-laravel-conditional-svg-binding-issue</td></tr><tr><td>Contact Form Not Functioning</td><td>https://stackoverflow.com/questions/78854921/contact-form-not-functioning</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 
 ---
