@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [100FrontendChallenge - Day 10 - Sign up](https://dev.to/t1xx1/100frontendchallenge-day-10-sign-up-63g)
+- [Python Packaging is Great Now: `uv` is all you need](https://dev.to/astrojuanlu/python-packaging-is-great-now-uv-is-all-you-need-4i2d)
+- [Fixing vue-js-modal Library for Vue 3: A Guide to Restoring Modal Functionality](https://dev.to/aliozzaim/fixing-vue-js-modal-library-for-vue-3-a-guide-to-restoring-modal-functionality-2lai)
+- [Introducing the TryHackMe Badge Action Workflow: Automate Your Security Achievements Display](https://dev.to/dhanushnehru/introducing-the-tryhackme-badge-action-workflow-automate-your-security-achievements-display-1lec)
 - [Unlocking Private Connectivity in the Cloud Era: Exploring the Power of AWS PrivateLink](https://dev.to/ikoh_sylva/unlocking-private-connectivity-in-the-cloud-era-exploring-the-power-of-aws-privatelink-1ni0)
-- [CMS Starter Portfolio - Coming Soon!](https://dev.to/sivamani18/cms-starter-portfolio-coming-soon-1lbd)
-- [Deploying a Full-Stack PERN App to AWS EC2](https://dev.to/nmiller15/deploying-a-full-stack-pern-app-to-aws-ec2-5ggc)
-- [How Codium PR Agent Works on GitHub](https://dev.to/thekarlesi/how-codium-pr-agent-works-on-github-33jl)
-- [Applying Dark Mode in Next.js using CSS Variables](https://dev.to/riflan0ahmed/applying-dark-mode-in-nextjs-using-css-variables-1kgn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
