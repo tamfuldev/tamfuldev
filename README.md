@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Supabase uses Valtio for its state management](https://dev.to/ramunarasinga/supabase-uses-valtio-for-its-state-management-cpf)
-- [The Logging, The AOP and The Clean Code](https://dev.to/thiagoematos/the-logging-the-aop-and-the-clean-code-4od1)
-- [👨‍⚕️ Visual AI in Healthcare 👩‍⚕️](https://dev.to/voxel51/visual-ai-in-healthcare-4902)
-- [Choosing the right prompt in LLM](https://dev.to/ayhamsh/choosing-the-right-prompt-in-llm-355p)
-- [🚀 Day 11: React Fragments and Composition vs Inheritance in React 🚀](https://dev.to/mayureshsurve/day-11-react-fragments-and-composition-vs-inheritance-in-react-50d1)
+- [Unveiling the Magic of the Internet](https://dev.to/akashtdev/unveiling-the-magic-of-the-internet-16d3)
+- [Dev challenge](https://dev.to/ind_s_7e19e642a57862a9f50/dev-challenge-367e)
+- [Deploying a web app with CI/CD pipeline on Azure App Service.](https://dev.to/laoluafolami/deploying-a-web-app-with-cicd-pipeline-on-azure-app-service-ikg)
+- [Only 2 papers &amp; 3 assessments to go.](https://dev.to/mrmatt1010/only-2-papers-3-assessments-to-go-257f)
+- [Emojify](https://dev.to/greenestgoat/emojify-445g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
