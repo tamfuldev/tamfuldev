@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [100FrontendChallenge - Day 10 - Sign up](https://dev.to/t1xx1/100frontendchallenge-day-10-sign-up-63g)
-- [Python Packaging is Great Now: `uv` is all you need](https://dev.to/astrojuanlu/python-packaging-is-great-now-uv-is-all-you-need-4i2d)
-- [Fixing vue-js-modal Library for Vue 3: A Guide to Restoring Modal Functionality](https://dev.to/aliozzaim/fixing-vue-js-modal-library-for-vue-3-a-guide-to-restoring-modal-functionality-2lai)
-- [Introducing the TryHackMe Badge Action Workflow: Automate Your Security Achievements Display](https://dev.to/dhanushnehru/introducing-the-tryhackme-badge-action-workflow-automate-your-security-achievements-display-1lec)
-- [Unlocking Private Connectivity in the Cloud Era: Exploring the Power of AWS PrivateLink](https://dev.to/ikoh_sylva/unlocking-private-connectivity-in-the-cloud-era-exploring-the-power-of-aws-privatelink-1ni0)
+- [🌐 MongoDB在金融行业: 向量搜索和ACID事务 💰](https://dev.to/mongodb-builder/mongodbzai-jin-rong-xing-ye-xiang-liang-sou-suo-he-acidshi-wu-4mdk)
+- [🌐 MongoDB in the Financial Industry: Vector Search and ACID-Compliant Transactions 💰](https://dev.to/mongodb-builder/mongodb-in-the-financial-industry-vector-search-and-acid-compliant-transactions-4nj)
+- [🔒 应用技巧: MongoDB安全、合规性与零信任 🔑](https://dev.to/mongodb-builder/ying-yong-ji-qiao-mongodban-quan-he-gui-xing-yu-ling-xin-ren-3f9f)
+- [🔒 Tip and Trick: MongoDB Security, Regulatory Compliance &amp; Zero Trust 🔑](https://dev.to/mongodb-builder/tip-and-trick-mongodb-security-regulatory-compliance-zero-trust-5b0d)
+- [What basic js knowledge I need to get started with react?](https://dev.to/deepak_singh_5525/what-basic-js-knowledge-i-need-to-get-started-with-react-3nd6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
