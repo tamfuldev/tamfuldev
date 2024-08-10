@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes](https://dev.to/gurunadh234/kubernetes-jj7)
-- [[FREE] We are developing with a friend. Our lead collection plugin - Leadee. Need community feedback.](https://dev.to/__dea47d043a5/free-we-are-developing-with-a-friend-our-lead-collection-plugin-leadee-need-community-feedback-219o)
-- [How to implement a document viewer in ASP.NET Core 8.0](https://dev.to/gleamtech/how-to-implement-a-document-viewer-in-aspnet-core-80-1b94)
-- [Understanding Object-Oriented Programming &lpar;OOP&rpar; and Its Importance](https://dev.to/dev_eze/understanding-object-oriented-programming-oop-and-its-importance-2d7e)
-- [On the &#39;throw it away&#39; mentality in tech](https://dev.to/johnscode/on-the-throw-it-away-mentality-in-tech-10k5)
+- [Is ChatBot enough for websites](https://dev.to/desi_valli/is-chatbot-enough-for-websites-19ni)
+- [Nebular Starburst](https://dev.to/dan52242644dan/nebular-starburst-2mg8)
+- [Understanding UTM parameters: A Guide to Effective Campaign Tracking](https://dev.to/negrel/understanding-utm-parameters-a-guide-to-effective-campaign-tracking-3hg4)
+- [Ratmeli](https://dev.to/marcos_sandi_9152d03c3b43/ratmeli-29ep)
+- [[picoctf] Verify](https://dev.to/zerogru/picoctf-verify-3m4a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
