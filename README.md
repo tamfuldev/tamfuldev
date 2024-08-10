@@ -16,7 +16,7 @@
 # Latest stack oveflow activity
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><tr><td>Contact Form Not Functioning</td><td>https://stackoverflow.com/questions/78854921/contact-form-not-functioning</td></tr><tr><td>Button for Woocommerce</td><td>https://stackoverflow.com/questions/78854629/button-for-woocommerce</td></tr><tr><td>array offset error in VanTam PHP version 7.3</td><td>https://stackoverflow.com/questions/78854464/array-offset-error-in-vantam-php-version-7-3</td></tr><tr><td>Problems with files in public_html and public folders [closed]</td><td>https://stackoverflow.com/questions/78854411/problems-with-files-in-public-html-and-public-folders</td></tr><tr><td>a function to reload, refresh or update the div content &lpar;part of page, not whole page&rpar; when buttom clicked using javascript ajax without jquery? [duplicate]</td><td>https://stackoverflow.com/questions/78854247/a-function-to-reload-refresh-or-update-the-div-content-part-of-page-not-whole</td></tr><!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:START --><tr><td>cgi-bin on google search</td><td>https://stackoverflow.com/questions/78855034/cgi-bin-on-google-search</td></tr><tr><td>How to display SN in PHP?</td><td>https://stackoverflow.com/questions/78855009/how-to-display-sn-in-php</td></tr><tr><td>PHP Laravel conditional SVG binding issue</td><td>https://stackoverflow.com/questions/78854988/php-laravel-conditional-svg-binding-issue</td></tr><tr><td>Contact Form Not Functioning</td><td>https://stackoverflow.com/questions/78854921/contact-form-not-functioning</td></tr><tr><td>Button for Woocommerce</td><td>https://stackoverflow.com/questions/78854629/button-for-woocommerce</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 
 ---
