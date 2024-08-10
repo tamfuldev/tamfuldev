@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Is ChatBot enough for websites](https://dev.to/desi_valli/is-chatbot-enough-for-websites-19ni)
-- [Nebular Starburst](https://dev.to/dan52242644dan/nebular-starburst-2mg8)
-- [Understanding UTM parameters: A Guide to Effective Campaign Tracking](https://dev.to/negrel/understanding-utm-parameters-a-guide-to-effective-campaign-tracking-3hg4)
-- [Ratmeli](https://dev.to/marcos_sandi_9152d03c3b43/ratmeli-29ep)
-- [[picoctf] Verify](https://dev.to/zerogru/picoctf-verify-3m4a)
+- [From OpenAI to Anthropic: Switching AI Providers Without Breaking Your Code](https://dev.to/ultraai/from-openai-to-anthropic-switching-ai-providers-without-breaking-your-code-526g)
+- [Redis](https://dev.to/satyamkumarsingh/redis-4bge)
+- [The Ultimate Guide to Managing AI Prompts for Developers](https://dev.to/ultraai/the-ultimate-guide-to-managing-ai-prompts-for-developers-43p4)
+- [My web dev. Journey](https://dev.to/thatprettygirlthatcodes/my-web-dev-journey-3if7)
+- [[picoctf]Binary Search writeup](https://dev.to/zerogru/picoctfbinary-search-writeup-2hbo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
