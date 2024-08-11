@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [# Creating a Token Faucet on Stellar: A Beginner&#39;s Tutorial 🚰💧](https://dev.to/onwuagba/-creating-a-token-faucet-on-stellar-a-beginners-tutorial-2hla)
-- [Faster, Easier Deployments: How We Simplified Our Infrastructure with Nomad in 15 Hours &lpar;Goodbye, Kubernetes!&rpar;](https://dev.to/hexmos/faster-easier-deployments-how-we-simplified-our-infrastructure-with-nomad-in-15-hours-goodbye-kubernetes-38oi)
-- [Understanding Your Data: The Essentials of Exploratory Data Analysis](https://dev.to/lewis_karimi/understanding-your-data-the-essentials-of-exploratory-data-analysis-n0a)
-- [Learning the Differences Between Web Development and Web Design—How Do You Find the Right Partner?](https://dev.to/chris_keith_b4ab5179445cf/learning-the-differences-between-web-development-and-web-design-how-do-you-find-the-right-partner-2pdo)
-- [Recommended Project: Building a Modern Expense Splitter Web App](https://dev.to/labex/recommended-project-building-a-modern-expense-splitter-web-app-23j7)
+- [Teaching systems thinking through computer games](https://dev.to/read-the-architecture/teaching-systems-thinking-through-computer-games-bnb)
+- [MyPy Introduction](https://dev.to/aniket_purohit/mypy-introduction-1i3)
+- [Understanding Your Data: The Essentials of Explanatory Data Analysis](https://dev.to/lameck_oluoch/understanding-your-data-the-essentials-of-explanatory-data-analysis-nb)
+- [Understanding Your Data: The Essentials of Exploratory Data Analysis](https://dev.to/shamso_osman/understanding-your-data-the-essentials-of-exploratory-data-analysis-109k)
+- [Sync Your React State with URL Search Parameters by Creating a Custom React Hook](https://dev.to/maazkhan/sync-your-react-state-with-url-search-parameters-by-creating-a-custom-react-hook-159d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
