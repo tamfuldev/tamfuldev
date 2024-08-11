@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Product Authenticator Using :Stellar Blockchain Technology](https://dev.to/ankit_sharma333/product-authenticator-using-stellar-blockchain-technology-7mb)
-- [Neovim: My Setup for Developer Assistant with Local Language Models](https://dev.to/ottercyborg/neovim-my-setup-for-developer-assistant-with-local-language-models-2nim)
-- [Data Analysis](https://dev.to/amolo_awuor/data-analysis-1jjn)
-- [Migrating a Vite + React app to use React Server Components](https://dev.to/lazarv/migrating-a-vite-react-app-to-use-react-server-components-507j)
-- [Product authenticator using :Stellar Blockchain Technology](https://dev.to/ankit_sharma333/product-authenticator-using-stellar-blockchain-technology-5g3e)
+- [[DAY 96-98] I built a script that gets info from a periodic table database](https://dev.to/thomascansino/day-96-98-i-built-a-script-that-gets-info-from-a-periodic-table-database-4oh0)
+- [Demographic dataset analyze](https://dev.to/yowise/demographic-dataset-analyze-1ak2)
+- [Mastering Laravel Localization: A Comprehensive Guide to Multilingual Applications](https://dev.to/bmtmadushanka/mastering-laravel-localization-a-comprehensive-guide-to-multilingual-applications-66)
+- [JavaScript and WebAssembly: A Speed Showdown](https://dev.to/dinesh_somaraju/javascript-and-webassembly-a-speed-showdown-ac3)
+- [Finally Open Sourcing My Go-To Backend Toolkit! 🚀](https://dev.to/themuneebh/finally-open-sourcing-my-go-to-backend-toolkit-5b8e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
