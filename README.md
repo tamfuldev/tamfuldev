@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Day 3: Diving into Spring Security](https://dev.to/waldyctt/day-3-diving-into-spring-security-3idi)
+- [Docker Containers | Linux Namespaces | Container Isolation](https://dev.to/labex/docker-containers-linux-namespaces-container-isolation-3fg5)
+- [Why use ML.NET?](https://dev.to/integerman/why-use-mlnet-5eh2)
 - [How to encrypt Strings in .NET code obfuscation?](https://dev.to/rustemsoft/how-to-encrypt-strings-in-net-code-obfuscation-3io4)
 - [Dev.to 7-Series: How to get started on writing code](https://dev.to/farheen_sk/devto-7-series-how-to-get-started-on-writing-code-2iib)
-- [Understanding Your Data: The Essentials of Exploratory Data Analysis.](https://dev.to/alvin_mustafa_/understanding-your-data-the-essentials-of-exploratory-data-analysis-3lbl)
-- [I Changed My Mind - NixOS is NOT the Best Linux](https://dev.to/jasper-at-windswept/i-changed-my-mind-nixos-is-not-the-best-linux-1cpj)
-- [Universal contract&#39;s interface App](https://dev.to/mibii/universal-contracts-interface-app-2519)
 <!-- BLOG-POST-LIST:END -->
 
 ---
