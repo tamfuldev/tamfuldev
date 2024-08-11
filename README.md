@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Continuous Delivery Is Killing Software Quality](https://dev.to/crisclacerda/continuous-delivery-is-killing-software-quality-2kpl)
-- [🚀 Day 12: Enhancing State Management using useReducer in React 🚀](https://dev.to/mayureshsurve/day-12-enhancing-state-management-using-usereducer-in-react-alp)
-- [The Harmony of Code and Music: How The TB-303 Sequencing Mirrors Software Engineering](https://dev.to/dev-rvega/the-harmony-of-code-and-music-how-the-tb-303-sequencing-mirrors-software-engineering-33i3)
-- [Say JS easy, got roasted!!!](https://dev.to/xentzenith/say-js-easy-got-roasted-35oe)
-- [Não recomende cursos para o seu amigo](https://dev.to/carlosecarvalho/nao-recomende-cursos-para-o-seu-amigo-365o)
+- [I Changed My Mind - NixOS is NOT the Best Linux](https://dev.to/jasper-at-windswept/i-changed-my-mind-nixos-is-not-the-best-linux-1cpj)
+- [Today&#39;s Trending Projects: Transparent Modification of HTTP Requests and More](https://dev.to/labex/todays-trending-projects-transparent-modification-of-http-requests-and-more-k6)
+- [Improve Code Readability and Efficiency - 11 Tips](https://dev.to/anthonyhawkins/improve-code-readability-and-efficiency-11-tips-41n5)
+- [Project 50 Challenge](https://dev.to/kiinda/project-50-challenge-jk4)
+- [Generative AI Serverless - Build a Social Media Analytics using Bedrock RAG Knowledge base, Lambda and API!](https://dev.to/bhatiagirish/generative-ai-serverless-build-a-social-media-analytics-using-bedrock-rag-knowledge-base-lambda-and-api-28f0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
