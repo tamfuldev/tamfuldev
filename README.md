@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The developer roadmap YOU need](https://dev.to/bridget_amana/the-developer-roadmap-you-need-6nl)
-- [GrilScript Summer of code](https://dev.to/gokilp_25/grilscript-summer-of-code-4dlh)
-- [Using npm packages in AdonisJS](https://dev.to/mezie/using-npm-packages-in-adonisjs-cnj)
-- [Why Phyton use in Advance level?](https://dev.to/techsolutionblog/why-phyton-use-in-advance-level-1jn5)
-- [An Easy Framework For Learning Web Development with Laravel](https://dev.to/soulis98/an-easy-framework-for-learning-web-development-with-laravel-2kec)
+- [🚀 教程：通过 MongoDB 向量搜索财务 PDF 报告 &lpar;本地嵌入&rpar;](https://dev.to/mongodb-builder/jiao-cheng-tong-guo-mongodb-xiang-liang-sou-suo-ben-di-qian-ru-cai-wu-pdf-bao-gao-791)
+- [Fix: Python312\Lib\site-packages\torch\lib\fbgemm.dll](https://dev.to/danc/fix-python312libsite-packagestorchlibfbgemmdll-4omk)
+- [JavaScript - 的先鋒者們Netscape Nodejs](https://dev.to/kueiapp/javascript-de-xian-feng-zhe-men-netscape-nodejs-2n4j)
+- [Mastering Context Managers in Python: A Comprehensive Guide](https://dev.to/tapstechie/mastering-context-managers-in-python-a-comprehensive-guide-17bm)
+- [Migrating from AWS Cloud9 to AWS CloudShell: A Step-by-Step Guide](https://dev.to/siddharthrane07/migrating-from-aws-cloud9-to-aws-cloudshell-a-step-by-step-guide-pnm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
