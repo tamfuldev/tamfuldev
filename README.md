@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [⚡️ trick: hide youtube video player hud](https://dev.to/volfcan/trick-hide-youtube-video-player-hud-5194)
-- [Data Structures: Arrays](https://dev.to/abdulghani002/data-structures-arrays-1ad4)
-- [Creating a VPC with Public and Private Subnets](https://dev.to/mahpara_jabbar_0521a5b816/creating-a-vpc-with-public-and-private-subnets-2ic8)
-- [You can do anything. But if you try to do everything, you&#39;ll end up doing nothing.](https://dev.to/mousepotatodoesstuff/you-can-do-anything-but-if-you-try-to-do-everything-youll-end-up-doing-nothing-22j4)
-- [Unleash Your Coding Prowess: 9 Captivating C Programming Tutorials 🚀](https://dev.to/labex/unleash-your-coding-prowess-9-captivating-c-programming-tutorials-30l9)
+- [Product Authenticator Using :Stellar Blockchain Technology](https://dev.to/ankit_sharma333/product-authenticator-using-stellar-blockchain-technology-7mb)
+- [Neovim: My Setup for Developer Assistant with Local Language Models](https://dev.to/ottercyborg/neovim-my-setup-for-developer-assistant-with-local-language-models-2nim)
+- [Data Analysis](https://dev.to/amolo_awuor/data-analysis-1jjn)
+- [Migrating a Vite + React app to use React Server Components](https://dev.to/lazarv/migrating-a-vite-react-app-to-use-react-server-components-507j)
+- [Product authenticator using :Stellar Blockchain Technology](https://dev.to/ankit_sharma333/product-authenticator-using-stellar-blockchain-technology-5g3e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
