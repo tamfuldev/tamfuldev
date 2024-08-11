@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How to encrypt Strings in .NET code obfuscation?](https://dev.to/rustemsoft/how-to-encrypt-strings-in-net-code-obfuscation-3io4)
+- [Dev.to 7-Series: How to get started on writing code](https://dev.to/farheen_sk/devto-7-series-how-to-get-started-on-writing-code-2iib)
+- [Understanding Your Data: The Essentials of Exploratory Data Analysis.](https://dev.to/alvin_mustafa_/understanding-your-data-the-essentials-of-exploratory-data-analysis-3lbl)
 - [I Changed My Mind - NixOS is NOT the Best Linux](https://dev.to/jasper-at-windswept/i-changed-my-mind-nixos-is-not-the-best-linux-1cpj)
-- [Today&#39;s Trending Projects: Transparent Modification of HTTP Requests and More](https://dev.to/labex/todays-trending-projects-transparent-modification-of-http-requests-and-more-k6)
-- [Improve Code Readability and Efficiency - 11 Tips](https://dev.to/anthonyhawkins/improve-code-readability-and-efficiency-11-tips-41n5)
-- [Project 50 Challenge](https://dev.to/kiinda/project-50-challenge-jk4)
-- [Generative AI Serverless - Build a Social Media Analytics using Bedrock RAG Knowledge base, Lambda and API!](https://dev.to/bhatiagirish/generative-ai-serverless-build-a-social-media-analytics-using-bedrock-rag-knowledge-base-lambda-and-api-28f0)
+- [Universal contract&#39;s interface App](https://dev.to/mibii/universal-contracts-interface-app-2519)
 <!-- BLOG-POST-LIST:END -->
 
 ---
