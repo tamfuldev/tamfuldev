@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Teaching systems thinking through computer games](https://dev.to/read-the-architecture/teaching-systems-thinking-through-computer-games-bnb)
-- [MyPy Introduction](https://dev.to/aniket_purohit/mypy-introduction-1i3)
-- [Understanding Your Data: The Essentials of Explanatory Data Analysis](https://dev.to/lameck_oluoch/understanding-your-data-the-essentials-of-explanatory-data-analysis-nb)
-- [Understanding Your Data: The Essentials of Exploratory Data Analysis](https://dev.to/shamso_osman/understanding-your-data-the-essentials-of-exploratory-data-analysis-109k)
-- [Sync Your React State with URL Search Parameters by Creating a Custom React Hook](https://dev.to/maazkhan/sync-your-react-state-with-url-search-parameters-by-creating-a-custom-react-hook-159d)
+- [Debugging AI: Tools and Techniques for Troubleshooting AI Applications](https://dev.to/ultraai/debugging-ai-tools-and-techniques-for-troubleshooting-ai-applications-3h2p)
+- [What is Python?](https://dev.to/amirrezakarimip/what-is-python-iok)
+- [Adding the Postgres database to the project and running migrations via Flyway for the NestJS-mod application](https://dev.to/endykaufman/adding-the-postgres-database-to-the-project-and-running-migrations-via-flyway-for-the-nestjs-mod-application-1fao)
+- [Understanding Your Data: The Essentials of Exploratory Data Analysis](https://dev.to/joseph_wambicho/understanding-your-data-the-essentials-of-exploratory-data-analysis-3e0f)
+- [Understanding the Differences Between Regular Classes and Dataclasses in Python](https://dev.to/conradylx/understanding-the-differences-between-regular-classes-and-dataclasses-in-python-2ja8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
