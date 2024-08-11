@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Story behind typeof null returning &quot;object&quot; in Javascript](https://dev.to/surjoyday_kt/the-story-behind-typeof-null-returning-object-in-javascript-2287)
-- [Stellar ecosystem architect for Qaori.coop project](https://dev.to/roshoshin/stellar-ecosystem-architect-for-qaoricoop-project-23oe)
-- [Write a function that filters out all the falsy values from a given array.](https://dev.to/ajaymarathe/create-a-function-which-will-remove-all-the-falsy-values-from-given-array-1ilf)
-- [Recap Asana’s LLM Testing Playbook: A Comprehensive Analysis of Claude 3.5 Sonnet](https://dev.to/agagag/recap-asanas-llm-testing-playbook-a-comprehensive-analysis-of-claude-35-sonnet-46ll)
-- [Beginner’s Guide to Open-Source. Start your Open-Source Journey 🚀](https://dev.to/jfmartinz/beginners-guide-to-open-source-start-your-open-source-journey-470l)
+- [Continuous Delivery Is Killing Software Quality](https://dev.to/crisclacerda/continuous-delivery-is-killing-software-quality-2kpl)
+- [🚀 Day 12: Enhancing State Management using useReducer in React 🚀](https://dev.to/mayureshsurve/day-12-enhancing-state-management-using-usereducer-in-react-alp)
+- [The Harmony of Code and Music: How The TB-303 Sequencing Mirrors Software Engineering](https://dev.to/dev-rvega/the-harmony-of-code-and-music-how-the-tb-303-sequencing-mirrors-software-engineering-33i3)
+- [Say JS easy, got roasted!!!](https://dev.to/xentzenith/say-js-easy-got-roasted-35oe)
+- [Não recomende cursos para o seu amigo](https://dev.to/carlosecarvalho/nao-recomende-cursos-para-o-seu-amigo-365o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
