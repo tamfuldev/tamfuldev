@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 教程：通过 MongoDB 向量搜索财务 PDF 报告 &lpar;本地嵌入&rpar;](https://dev.to/mongodb-builder/jiao-cheng-tong-guo-mongodb-xiang-liang-sou-suo-ben-di-qian-ru-cai-wu-pdf-bao-gao-791)
-- [Fix: Python312\Lib\site-packages\torch\lib\fbgemm.dll](https://dev.to/danc/fix-python312libsite-packagestorchlibfbgemmdll-4omk)
-- [JavaScript - 的先鋒者們Netscape Nodejs](https://dev.to/kueiapp/javascript-de-xian-feng-zhe-men-netscape-nodejs-2n4j)
-- [Mastering Context Managers in Python: A Comprehensive Guide](https://dev.to/tapstechie/mastering-context-managers-in-python-a-comprehensive-guide-17bm)
-- [Migrating from AWS Cloud9 to AWS CloudShell: A Step-by-Step Guide](https://dev.to/siddharthrane07/migrating-from-aws-cloud9-to-aws-cloudshell-a-step-by-step-guide-pnm)
+- [FiveM RAT Analysis](https://dev.to/oggetto/fivem-rat-analysis-2ndb)
+- [Why JavaScript Is Not &#39;True&#39; OOP](https://dev.to/aivantuquero/why-javascript-is-not-true-oop-ah0)
+- [Reimagining EmbeddedChat: GSoC 2024](https://dev.to/spiral_memory/reimagining-embeddedchat-gsoc-2024-1lhn)
+- [Uploading Your First Node.js Code to Azure: A Step-by-Step Guide](https://dev.to/dhaval_upadhyay_30f8292a8/uploading-your-first-nodejs-code-to-azure-a-step-by-step-guide-43k5)
+- [Streamline Your Code Reviews with SHIP SHOW ASK: A Modern Approach](https://dev.to/rouretl/streamline-your-code-reviews-with-ship-show-ask-a-modern-approach-2o5a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
