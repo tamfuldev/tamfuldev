@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Define&lpar;&rpar; In Javascript: A Clear Explanation](https://dev.to/arsalanmeee/define-in-javascript-a-clear-explanation-4h6g)
-- [Declaration using const vs freeze in Javascript](https://dev.to/alishgiri/declaration-using-const-vs-freeze-in-javascript-5ak4)
-- [React and Microfrontends: Architecture, Integration, and Scaling](https://dev.to/mdhassanpatwary/react-and-microfrontends-architecture-integration-and-scaling-3fc0)
-- [How to setup SASS in Vite Environment and brief notes on important sass functionalities](https://dev.to/godwin_nj/how-to-work-with-sass-in-vite-environment-and-brief-notes-on-important-sass-functionalities-k2)
-- [20 Lesser-Known CSS Tricks — The Ultimate Collection](https://dev.to/safdarali/20-lesser-known-css-tricks-the-ultimate-collection-268k)
+- [⚡️ trick: hide youtube video player hud](https://dev.to/volfcan/trick-hide-youtube-video-player-hud-5194)
+- [Data Structures: Arrays](https://dev.to/abdulghani002/data-structures-arrays-1ad4)
+- [Creating a VPC with Public and Private Subnets](https://dev.to/mahpara_jabbar_0521a5b816/creating-a-vpc-with-public-and-private-subnets-2ic8)
+- [You can do anything. But if you try to do everything, you&#39;ll end up doing nothing.](https://dev.to/mousepotatodoesstuff/you-can-do-anything-but-if-you-try-to-do-everything-youll-end-up-doing-nothing-22j4)
+- [Unleash Your Coding Prowess: 9 Captivating C Programming Tutorials 🚀](https://dev.to/labex/unleash-your-coding-prowess-9-captivating-c-programming-tutorials-30l9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
