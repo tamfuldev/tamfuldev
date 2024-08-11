@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[DAY 96-98] I built a script that gets info from a periodic table database](https://dev.to/thomascansino/day-96-98-i-built-a-script-that-gets-info-from-a-periodic-table-database-4oh0)
-- [Demographic dataset analyze](https://dev.to/yowise/demographic-dataset-analyze-1ak2)
-- [Mastering Laravel Localization: A Comprehensive Guide to Multilingual Applications](https://dev.to/bmtmadushanka/mastering-laravel-localization-a-comprehensive-guide-to-multilingual-applications-66)
-- [JavaScript and WebAssembly: A Speed Showdown](https://dev.to/dinesh_somaraju/javascript-and-webassembly-a-speed-showdown-ac3)
-- [Finally Open Sourcing My Go-To Backend Toolkit! 🚀](https://dev.to/themuneebh/finally-open-sourcing-my-go-to-backend-toolkit-5b8e)
+- [🎉 Announcing Cart Package Coupon Feature!](https://dev.to/realrashid/announcing-cart-package-coupon-feature-3dk3)
+- [# Code Optimization Techniques for Front-End Developers](https://dev.to/gadekar_sachin/-code-optimization-techniques-for-front-end-developers-1pbn)
+- [Understanding Clean Code: Why It Matters ⚡](https://dev.to/alisamir/understanding-clean-code-why-it-matters-4f8i)
+- [关于低谷 - FAV0周刊 #10](https://dev.to/justin3go/guan-yu-di-gu-fav0zhou-kan-10-1iin)
+- [About Low Points - FAV0 Weekly #010](https://dev.to/justin3go/about-low-points-fav0-weekly-010-4f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
