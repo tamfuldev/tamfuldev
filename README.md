@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Debugging AI: Tools and Techniques for Troubleshooting AI Applications](https://dev.to/ultraai/debugging-ai-tools-and-techniques-for-troubleshooting-ai-applications-3h2p)
-- [What is Python?](https://dev.to/amirrezakarimip/what-is-python-iok)
-- [Adding the Postgres database to the project and running migrations via Flyway for the NestJS-mod application](https://dev.to/endykaufman/adding-the-postgres-database-to-the-project-and-running-migrations-via-flyway-for-the-nestjs-mod-application-1fao)
-- [Understanding Your Data: The Essentials of Exploratory Data Analysis](https://dev.to/joseph_wambicho/understanding-your-data-the-essentials-of-exploratory-data-analysis-3e0f)
-- [Understanding the Differences Between Regular Classes and Dataclasses in Python](https://dev.to/conradylx/understanding-the-differences-between-regular-classes-and-dataclasses-in-python-2ja8)
+- [ShowDEV - We built a All-in-one AI command center for your products.](https://dev.to/namanvyas/showdev-we-built-a-all-in-one-ai-command-center-for-your-products-435e)
+- [TailGrids React: 600+ Tailwind CSS React UI Components](https://dev.to/tailwindcss/tailgrids-react-600-tailwind-css-react-ui-components-n6c)
+- [Understanding Your Data: The Essentials of Exploratory Data Analysis](https://dev.to/gekika/understanding-your-data-the-essentials-of-exploratory-data-analysis-1gm0)
+- [Read, read and read some more...](https://dev.to/codecara/read-read-and-read-some-more-1542)
+- [Understanding Your Data: The Essentials of Exploratory Data Analysis](https://dev.to/michelle_juliet/understanding-your-data-the-essentials-of-exploratory-data-analysis-2dkl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
