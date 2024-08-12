@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Web Development: Emerging Trends and Technologies Every Developer Should Know](https://dev.to/rashedulhridoy/the-future-of-web-development-emerging-trends-and-technologies-every-developer-should-know-1ceb)
-- [Configuring Multiple Ports With Nginx Reverse Proxies on the Same Domain](https://dev.to/aws-builders/configuring-multiple-ports-with-nginx-reverse-proxies-on-the-same-domain-57ga)
-- [Fixing CORS in your SPA](https://dev.to/eslachance/fixing-cors-in-your-spa-dfg)
-- [10 important things you should know about health](https://dev.to/david_odo_90bf88541f6fd15/10-important-things-you-should-know-about-health-l2m)
-- [Exploring Solidity Data Types: A Beginner Deep Dive on Uint vs Int](https://dev.to/bowtiedoffsec/exploring-solidity-data-types-a-beginner-deep-dive-on-uint-vs-int-2hm4)
+- [Moving User Management from In-House to a Product: Why We Did It and What We Learned](https://dev.to/empe/moving-user-management-from-in-house-to-a-product-why-we-did-it-and-what-we-learned-4o8m)
+- [don&#39;t look](https://dev.to/thesameeric/dont-look-3p57)
+- [I Wrote A Batch Script to Enhance My Workflow on Command Prompt](https://dev.to/ddebajyati/i-wrote-a-batch-script-to-enhance-my-workflow-on-command-prompt-2476)
+- [Microservices: The Dependency Nightmare](https://dev.to/ssadasivuni/microservices-the-dependency-nightmare-2b8m)
+- [Python Environment Setup](https://dev.to/ninadmhatre/python-environment-setup-i3b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
