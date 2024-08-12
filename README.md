@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [7 Open Source Projects You Should Know - Python Edition ✔️](https://dev.to/this-is-learning/7-open-source-projects-you-should-know-python-edition-4h6c)
-- [The 3 Programming Paradigms](https://dev.to/brandongautama/the-3-programming-paradigms-34pe)
-- [Types of Scope in JavaScript](https://dev.to/akash32755/types-of-scope-in-javascript-2dln)
-- [Retrieval Augmented Generation Frameworks: LangChain](https://dev.to/admantium/retrieval-augmented-generation-frameworks-langchain-iom)
-- [The Essential Guide to Laravel’s .htaccess: Why, How, and What It Can Do for Your Application](https://dev.to/doozieakshay/the-essential-guide-to-laravels-htaccess-why-how-and-what-it-can-do-for-your-application-e1i)
+- [Setting Up a Enterprise Ready Power Platform](https://dev.to/wyattdave/setting-up-a-enterprise-ready-power-platform-4pma)
+- [Perl Weekly #681 - GitHub and Perl](https://dev.to/szabgab/perl-weekly-681-github-and-perl-5af3)
+- [Simple Wikipedia Search App with Streamlit 🐍🕸️💻](https://dev.to/kammarianand/simple-wikipedia-search-app-with-streamlit-537h)
+- [User Journey Mapping: How and Why Does it Matter for Your Business?](https://dev.to/pepper_square/user-journey-mapping-how-and-why-does-it-matter-for-your-business-15k9)
+- [Could somebody please help me create a good readme similar to this?](https://dev.to/reyanabid123/could-somebody-please-help-me-create-a-good-readme-similar-to-this-4i62)
 <!-- BLOG-POST-LIST:END -->
 
 ---
