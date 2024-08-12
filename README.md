@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI: An overview of common LLM benchmarks](https://dev.to/hmcodes/ai-an-overview-of-common-llm-benchmarks-3i7b)
-- [BiRefNet State Of The Art Newest Very Best Background Batch Remover APP](https://dev.to/furkangozukara/birefnet-state-of-the-art-newest-very-best-background-batch-remover-app-19k1)
-- [VoteVault: Our Journey from a Lunchtime Idea to dApp](https://dev.to/gr1ll/votevault-our-journey-from-a-lunchtime-idea-to-dapp-2opf)
-- [🐚 My Pacific Dataviz Challenge 2024 submission : violence &amp; graphdatascience](https://dev.to/adriens/my-pacific-dataviz-challenge-2024-submission-violence-graphdatascience-564l)
-- [Ruin has come to your repository!](https://dev.to/skywarth/ruin-has-come-to-your-repository-3oo6)
+- [Cómo aplicar un Well Architected Review para asegurar tu infraestructura. Segunda parte](https://dev.to/dcastrocordero22/como-aplicar-un-well-architected-review-para-asegurar-tu-infraestructura-segunda-parte-43bi)
+- [The Evolution of Learning: From 2005 to Today](https://dev.to/adeelmughal4u/the-evolution-of-learning-from-2005-to-today-3dp8)
+- [WICK-A11Y Cypress Plugin: Your Unstoppable Ally for Smashing Accessibility Barriers, Cool as John Wick!](https://dev.to/sebastianclavijo/wick-a11y-cypress-plugin-your-unstoppable-ally-for-smashing-accessibility-barriers-cool-as-john-wick-280a)
+- [How to change the redirect URL when changing a user&#39;s email in Supabase?](https://dev.to/2020byte/how-to-change-the-redirect-url-when-changing-a-users-email-in-supabase-27mo)
+- [Medindo o desempenho de um aplicativo em React Native](https://dev.to/bonindev/medindo-o-desempenho-de-um-aplicativo-em-react-native-336c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
