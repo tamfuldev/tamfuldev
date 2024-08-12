@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [npm vs yarn vs pnpm: A Comprehensive Guide to Choosing the Right Package Manager](https://dev.to/raajaryan/npm-vs-yarn-vs-pnpm-a-comprehensive-guide-to-choosing-the-right-package-manager-1o1g)
-- [AutoDocument - Open-Source Mail Merge Alternative](https://dev.to/harlekuin/autodocument-open-source-mail-merge-alternative-1o9f)
-- [Qualcomm Linux : A Toolkit for Developers](https://dev.to/dhaval_m_mehta/qualcomm-linux-a-toolkit-for-developers-i9k)
-- [Introduction to QR Codes](https://dev.to/tf4793/introduction-to-qr-codes-2deg)
-- [As a Developer: What to Do and What to Steer Clear Of](https://dev.to/dipakahirav/as-a-developer-what-to-do-and-what-to-steer-clear-of-p7i)
+- [What is Novu and How Does It Work](https://dev.to/thekarlesi/what-is-novu-and-how-does-it-work-55km)
+- [cypress-cucumber-preprocessor](https://dev.to/dennischeung/cypress-cucumber-preprocessor-10l)
+- [BigQuery and XGBoost Integration: A Jupyter Notebook Tutorial for Binary Classification](https://dev.to/suzuki0430/bigquery-and-xgboost-integration-a-jupyter-notebook-tutorial-for-binary-classification-1ocb)
+- [Go Programming | String Basics | Character Encoding](https://dev.to/labex/go-programming-string-basics-character-encoding-1i01)
+- [A Step-by-Step Guide to LocalStorage and SessionStorage: Storing Data on the Client Side](https://dev.to/srijan_karki/a-step-by-step-guide-to-localstorage-and-sessionstorage-storing-data-on-the-client-side-2kjl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
