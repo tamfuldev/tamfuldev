@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Sorting Algorithms &lpar;DSA - 4&rpar;](https://dev.to/madgan95/sorting-algorithms-dsa-4-50j5)
-- [Today&#39;s Trending Projects: Real-Time Sales Dashboard with Echarts and More](https://dev.to/labex/todays-trending-projects-real-time-sales-dashboard-with-echarts-and-more-3k8i)
-- [Blockchain: Which Language to Learn First?](https://dev.to/nhd2106/blockchain-which-language-to-learn-first-23k1)
-- [Building an AI Recipe App with Django and GroqCloud:Llama 3.1: My Journey with myChefAssist](https://dev.to/nezer/building-an-ai-recipe-app-with-django-and-groqcloudllama-31-my-journey-with-mychefassist-5b1m)
-- [Interacting with Smart Contract Functions: Providers and Alternatives](https://dev.to/mibii/interacting-with-smart-contract-functions-providers-and-alternatives-36n8)
+- [npm vs yarn vs pnpm: A Comprehensive Guide to Choosing the Right Package Manager](https://dev.to/raajaryan/npm-vs-yarn-vs-pnpm-a-comprehensive-guide-to-choosing-the-right-package-manager-1o1g)
+- [AutoDocument - Open-Source Mail Merge Alternative](https://dev.to/harlekuin/autodocument-open-source-mail-merge-alternative-1o9f)
+- [Qualcomm Linux : A Toolkit for Developers](https://dev.to/dhaval_m_mehta/qualcomm-linux-a-toolkit-for-developers-i9k)
+- [Introduction to QR Codes](https://dev.to/tf4793/introduction-to-qr-codes-2deg)
+- [As a Developer: What to Do and What to Steer Clear Of](https://dev.to/dipakahirav/as-a-developer-what-to-do-and-what-to-steer-clear-of-p7i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
