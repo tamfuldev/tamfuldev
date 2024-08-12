@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Developer Marketing Strategy for Software Developers](https://dev.to/swati1267/developer-marketing-strategy-for-software-developers-3c2o)
-- [Dive into Go: A Python Programmer&#39;s Guide 🚀](https://dev.to/getvm/dive-into-go-a-python-programmers-guide-46d5)
-- [Designing with Flexibility: Responsive Next.js Templates for Any Device](https://dev.to/hitesh_chauhan_42485a44af/designing-with-flexibility-responsive-nextjs-templates-for-any-device-3183)
-- [What is Novu and How Does It Work](https://dev.to/thekarlesi/what-is-novu-and-how-does-it-work-55km)
-- [Which Mobile Test Automation Framework Fits You?](https://dev.to/grgprarup/which-mobile-test-automation-framework-fits-you-57mc)
+- [7 Open Source Projects You Should Know - Python Edition ✔️](https://dev.to/this-is-learning/7-open-source-projects-you-should-know-python-edition-4h6c)
+- [The 3 Programming Paradigms](https://dev.to/brandongautama/the-3-programming-paradigms-34pe)
+- [Types of Scope in JavaScript](https://dev.to/akash32755/types-of-scope-in-javascript-2dln)
+- [Retrieval Augmented Generation Frameworks: LangChain](https://dev.to/admantium/retrieval-augmented-generation-frameworks-langchain-iom)
+- [The Essential Guide to Laravel’s .htaccess: Why, How, and What It Can Do for Your Application](https://dev.to/doozieakshay/the-essential-guide-to-laravels-htaccess-why-how-and-what-it-can-do-for-your-application-e1i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
