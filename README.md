@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Moving User Management from In-House to a Product: Why We Did It and What We Learned](https://dev.to/empe/moving-user-management-from-in-house-to-a-product-why-we-did-it-and-what-we-learned-4o8m)
-- [don&#39;t look](https://dev.to/thesameeric/dont-look-3p57)
-- [I Wrote A Batch Script to Enhance My Workflow on Command Prompt](https://dev.to/ddebajyati/i-wrote-a-batch-script-to-enhance-my-workflow-on-command-prompt-2476)
-- [Microservices: The Dependency Nightmare](https://dev.to/ssadasivuni/microservices-the-dependency-nightmare-2b8m)
-- [Python Environment Setup](https://dev.to/ninadmhatre/python-environment-setup-i3b)
+- [Suggestions for client website](https://dev.to/ismailyaman/suggestions-for-client-website-akk)
+- [Create an Azure Virtual Machine using an ARM Template](https://dev.to/adeola_adebari/create-an-azure-virtual-machine-using-an-arm-template-1jna)
+- [703. Kth Largest Element in a Stream](https://dev.to/mdarifulhaque/703-kth-largest-element-in-a-stream-3ck0)
+- [1568. Minimum Number of Days to Disconnect Island](https://dev.to/mdarifulhaque/1568-minimum-number-of-days-to-disconnect-island-ddf)
+- [Connect to Azure VM w/SSH Through Azure CLI](https://dev.to/adelbeit/connect-to-azure-vm-wssh-through-azure-cli-2ih8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
