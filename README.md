@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Error Handling: A Comprehensive Guide](https://dev.to/kfir-g/mastering-error-handling-a-comprehensive-guide-1hmg)
-- [Analysis of Arm64 Linux System Call](https://dev.to/lsahn/analysis-of-arm64-linux-system-call-8f1)
-- [SOLID Principle in Flutter &amp; Dart](https://dev.to/syedabdulbasit7/solid-principle-in-flutter-dart-25g8)
-- [Unleash Your Vue.js Mastery with the &#39;Project: Real-Time Sentence Search&#39; Course](https://dev.to/labex/unleash-your-vuejs-mastery-with-the-project-real-time-sentence-search-course-12ia)
-- [Building a Security-First Engineering Culture](https://dev.to/middleware/building-a-security-first-engineering-culture-57m9)
+- [The Future of Web Development: Emerging Trends and Technologies Every Developer Should Know](https://dev.to/rashedulhridoy/the-future-of-web-development-emerging-trends-and-technologies-every-developer-should-know-1ceb)
+- [Configuring Multiple Ports With Nginx Reverse Proxies on the Same Domain](https://dev.to/aws-builders/configuring-multiple-ports-with-nginx-reverse-proxies-on-the-same-domain-57ga)
+- [Fixing CORS in your SPA](https://dev.to/eslachance/fixing-cors-in-your-spa-dfg)
+- [10 important things you should know about health](https://dev.to/david_odo_90bf88541f6fd15/10-important-things-you-should-know-about-health-l2m)
+- [Exploring Solidity Data Types: A Beginner Deep Dive on Uint vs Int](https://dev.to/bowtiedoffsec/exploring-solidity-data-types-a-beginner-deep-dive-on-uint-vs-int-2hm4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
