@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [7 Tools Worth Trying, Have You Used Them?](https://dev.to/lunamiller/7-tools-worth-trying-have-you-used-them-3m7e)
-- [CREAT SPOTIFY PLAYLIST USING TERRAFORM](https://dev.to/sanjaikumar2311/creat-spotify-playlist-using-terraform-aao)
-- [✨I Built an AI Bot Under 65 Lines of Code That Checks My New Emails and Send People Invites📧🚀](https://dev.to/composiodev/i-built-an-ai-bot-under-65-lines-of-code-that-checks-my-new-emails-and-send-people-invites-ghh)
-- [More Haskell Diagrams: Wrapping Text](https://dev.to/vst/more-haskell-diagrams-wrapping-text-gdl)
-- [The Future of Work: How AI Agents Are Redefining Careers and Job Roles 🤖](https://dev.to/nilavya2000/the-future-of-work-how-ai-agents-are-redefining-careers-and-job-roles-32lg)
+- [Total.js UI :Two Beginner Projects to understand Paths and Data Binding](https://dev.to/louis_bertson_1124e9cdc59/totaljs-ui-two-beginner-projects-to-understand-paths-and-data-binding-542g)
+- [Develop and Deploy Machine Learning Models With Entendu](https://dev.to/anthony_santonocito/develop-and-deploy-machine-learning-models-with-entendu-4kfj)
+- [My Journey as an AI Intern at Xuno](https://dev.to/binayak_jha/my-journey-as-an-ai-intern-at-xuno-4e7j)
+- [Creating 3D effects in CSS](https://dev.to/logrocket/creating-3d-effects-in-css-1h6)
+- [Angular Material 3 Theming System: Complete Guide](https://dev.to/ngmaterialdev/angular-material-3-theming-system-complete-guide-2n5m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
