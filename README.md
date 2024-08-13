@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Selectors: Your New Best Friends for Styling Web Pages](https://dev.to/gdebojyoti/css-selectors-your-new-best-friends-for-styling-web-pages-4f9p)
-- [SEO-Optimized HTML: How to Structure Your Web Pages for Maximum Visibility](https://dev.to/hulyamasharipov/seo-optimized-html-how-to-structure-your-web-pages-for-maximum-visibility-527f)
-- [Quick Steps to Enable Client for NFS in Windows 11!](https://dev.to/winsides/quick-steps-to-enable-client-for-nfs-in-windows-11-4aei)
-- [What is useState in ReactJS?](https://dev.to/kyawmintun96/what-is-usestate-in-reactjs-3c14)
-- [Day 24 of my 90-day DevOps: Advanced Docker Concepts and Project Guide: Building a Multi-Container Application](https://dev.to/arbythecoder/day-24-of-my-90-day-devops-advanced-docker-concepts-and-project-guide-building-a-multi-container-application-307m)
+- [I&#39;ll be speaking at Major League Hacking &lpar;MLH&rpar; Hackcon 2024!](https://dev.to/1grace/ill-be-speaking-at-major-league-hacking-mlh-hackcon-2024-5ge5)
+- [How to Write Great API Documentation 🗒](https://dev.to/devella/how-to-write-great-api-documentation-58k0)
+- [digital trends](https://dev.to/faldesign/digital-trends-mdj)
+- [Top 5 Benefits of Combining MLOps and DevOps](https://dev.to/marufhossain/top-5-benefits-of-combining-mlops-and-devops-2o61)
+- [Build a desktop app with Electron + Vite + React EASYLY](https://dev.to/maxbleu/build-a-desktop-app-with-electron-vite-react-easyly-3c81)
 <!-- BLOG-POST-LIST:END -->
 
 ---
