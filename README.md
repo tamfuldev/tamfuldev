@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Micronaut vs. Spring Boot: A Detailed Comparison](https://dev.to/adaumircosta/micronaut-vs-spring-boot-a-detailed-comparison-4og5)
-- [ISP Proxies vs Residential Proxies: Main differences](https://dev.to/oxylabs-io/isp-proxies-vs-residential-proxies-main-differences-40hp)
-- [I LEARNT JAVA ☕](https://dev.to/mince/i-learnt-java-2k2o)
-- [I LEARNT JAVA ☕](https://dev.to/mince/i-learnt-java-5a58)
-- [Comprehensive Guide to Integrating SonarCloud with GitHub Projects](https://dev.to/ittrident/comprehensive-guide-to-integrating-sonarcloud-with-github-projects-3449)
+- [7 Tools Worth Trying, Have You Used Them?](https://dev.to/lunamiller/7-tools-worth-trying-have-you-used-them-3m7e)
+- [CREAT SPOTIFY PLAYLIST USING TERRAFORM](https://dev.to/sanjaikumar2311/creat-spotify-playlist-using-terraform-aao)
+- [✨I Built an AI Bot Under 65 Lines of Code That Checks My New Emails and Send People Invites📧🚀](https://dev.to/composiodev/i-built-an-ai-bot-under-65-lines-of-code-that-checks-my-new-emails-and-send-people-invites-ghh)
+- [More Haskell Diagrams: Wrapping Text](https://dev.to/vst/more-haskell-diagrams-wrapping-text-gdl)
+- [The Future of Work: How AI Agents Are Redefining Careers and Job Roles 🤖](https://dev.to/nilavya2000/the-future-of-work-how-ai-agents-are-redefining-careers-and-job-roles-32lg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
