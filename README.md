@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Switching from Windows 11 to Linux Ubuntu](https://dev.to/sayed_touati/switching-from-windows-11-to-linux-ubuntu-3ld8)
-- [Boost Your App Efficiency with GraphQL and React: A Deep Dive](https://dev.to/tl23143/boost-your-app-efficiency-with-graphql-and-react-a-deep-dive-155c)
-- [Deploying a React application to GitHub Pages](https://dev.to/ceedotech/deploying-a-react-application-to-github-3ipm)
-- [Mastering Bash Scripting in DevOps – Essential Scripts for Production : Day 27 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/mastering-bash-scripting-in-devops-essential-scripts-for-production-day-27-of-50-days-devops-tools-series-2h3p)
-- [Como Conectar ao Azure Table Storage e Manipular Dados com PySpark](https://dev.to/madrade1472/como-conectar-ao-azure-table-storage-e-manipular-dados-com-pyspark-5fba)
+- [5 Best Practices Every Frontend Developer Should Follow](https://dev.to/zain725342/5-best-practices-every-frontend-developer-should-follow-45e4)
+- [How to Delete Files and Directories in Mac Terminal](https://dev.to/jenesh/how-to-delete-files-and-directories-in-mac-terminal-hgo)
+- [Neighborhood Components Analysis: Visualizing Metric Learning](https://dev.to/labex/neighborhood-components-analysis-visualizing-metric-learning-4el3)
+- [Forward Proxy &amp; Reverse Proxy. Que es?](https://dev.to/lucatonyraudales/forward-proxy-reverse-proxy-que-es-3o3i)
+- [Stay Updated with PHP/Laravel: Weekly News Summary &lpar;05/08/2024-11/08/2024](https://dev.to/poovarasu/stay-updated-with-phplaravel-weekly-news-summary-05082024-11082024-5bnh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
