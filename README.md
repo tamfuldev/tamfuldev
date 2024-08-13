@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Total.js UI :Two Beginner Projects to understand Paths and Data Binding](https://dev.to/louis_bertson_1124e9cdc59/totaljs-ui-two-beginner-projects-to-understand-paths-and-data-binding-542g)
-- [Develop and Deploy Machine Learning Models With Entendu](https://dev.to/anthony_santonocito/develop-and-deploy-machine-learning-models-with-entendu-4kfj)
-- [My Journey as an AI Intern at Xuno](https://dev.to/binayak_jha/my-journey-as-an-ai-intern-at-xuno-4e7j)
-- [Creating 3D effects in CSS](https://dev.to/logrocket/creating-3d-effects-in-css-1h6)
-- [Angular Material 3 Theming System: Complete Guide](https://dev.to/ngmaterialdev/angular-material-3-theming-system-complete-guide-2n5m)
+- [CSS Selectors: Your New Best Friends for Styling Web Pages](https://dev.to/gdebojyoti/css-selectors-your-new-best-friends-for-styling-web-pages-4f9p)
+- [SEO-Optimized HTML: How to Structure Your Web Pages for Maximum Visibility](https://dev.to/hulyamasharipov/seo-optimized-html-how-to-structure-your-web-pages-for-maximum-visibility-527f)
+- [Quick Steps to Enable Client for NFS in Windows 11!](https://dev.to/winsides/quick-steps-to-enable-client-for-nfs-in-windows-11-4aei)
+- [What is useState in ReactJS?](https://dev.to/kyawmintun96/what-is-usestate-in-reactjs-3c14)
+- [Day 24 of my 90-day DevOps: Advanced Docker Concepts and Project Guide: Building a Multi-Container Application](https://dev.to/arbythecoder/day-24-of-my-90-day-devops-advanced-docker-concepts-and-project-guide-building-a-multi-container-application-307m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
