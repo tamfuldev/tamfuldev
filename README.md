@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [ES - CAT APIs](https://dev.to/mallikarjunht/es-cat-apis-ilp)
-- [Project: Spreadsheet To Video, Kinetic Text](https://dev.to/kocreative/project-spreadsheet-to-video-kinetic-text-4ad8)
-- [New improvements to my docker-like solution for macOS, 86/64 version.](https://dev.to/okerew/new-improvements-to-my-docker-like-solution-for-macos-8664-version-1nf0)
-- [Introduction to Object-Relational Mappers &lpar;ORMs&rpar;](https://dev.to/sebastiandevelops/introduction-to-object-relational-mappers-orms-3goo)
-- [Unlocking the Power of Semantic Caching: How This AI Tool Can Boost Your Application’s Performance](https://dev.to/vaibhavacharya/unlocking-the-power-of-semantic-caching-how-this-ai-tool-can-boost-your-applications-performance-5b6f)
+- [Breaking the Cycle: Understanding Common Productivity Challenges](https://dev.to/stephanie_adoga/breaking-the-cycle-understanding-common-productivity-challenges-1h3k)
+- [How to find intersection of two singly linked lists in a simple and optimal way in java](https://dev.to/shivam_tyagi/how-to-find-intersection-of-two-singly-linked-lists-in-a-simple-and-optimal-way-in-java-1o96)
+- [Hosting a Custom Login and Registration UI with AWS Amplify and AWS Cognito](https://dev.to/akashdeep/hosting-a-custom-login-and-registration-ui-with-aws-amplify-and-aws-cognito-g72)
+- [Secure Your Website with SafeLine: A Free and Easy-to-Use WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/secure-your-website-with-safeline-a-free-and-easy-to-use-waf-2g2i)
+- [How to Restore SQL Server Database from Backup?](https://dev.to/arun555/how-to-restore-sql-server-database-from-backup-4o5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
