@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Install and Configure SafeLine WAF: A Quick Start Guide](https://dev.to/lulu_liu_c90f973e2f954d7f/how-to-install-and-configure-safeline-waf-a-quick-start-guide-k5h)
-- [Implementing Authentication in Next.js: Comparing Different Strategies](https://dev.to/a_shokn/implementing-authentication-in-nextjs-comparing-different-strategies-4phm)
-- [Beginner&#39;s Guide to Python: From Installation to Understanding Variables](https://dev.to/jobreadyprogrammer/beginners-guide-to-python-from-installation-to-understanding-variables-99a)
-- [Retrieve multiple columns from a csv file to generate a new file #eg23](https://dev.to/esproc_spl/retrieve-multiple-columns-from-a-csv-file-to-generate-a-new-file-eg23-10di)
-- [Day 43 / 100 Days of Code: Embracing the Elegance of JavaScript](https://dev.to/jacobsternx/day-43-100-days-of-code-embracing-the-elegance-of-javascript-dmm)
+- [ES - CAT APIs](https://dev.to/mallikarjunht/es-cat-apis-ilp)
+- [Project: Spreadsheet To Video, Kinetic Text](https://dev.to/kocreative/project-spreadsheet-to-video-kinetic-text-4ad8)
+- [New improvements to my docker-like solution for macOS, 86/64 version.](https://dev.to/okerew/new-improvements-to-my-docker-like-solution-for-macos-8664-version-1nf0)
+- [Introduction to Object-Relational Mappers &lpar;ORMs&rpar;](https://dev.to/sebastiandevelops/introduction-to-object-relational-mappers-orms-3goo)
+- [Unlocking the Power of Semantic Caching: How This AI Tool Can Boost Your Application’s Performance](https://dev.to/vaibhavacharya/unlocking-the-power-of-semantic-caching-how-this-ai-tool-can-boost-your-applications-performance-5b6f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
