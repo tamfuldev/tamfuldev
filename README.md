@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Teste de fogo: fatorial recursivo](https://dev.to/alexgarzao/teste-de-fogo-fatorial-recursivo-1hin)
-- [Breaking a TOTP?](https://dev.to/not-so-genius/breaking-a-totp-2h9a)
-- [hidden-water](https://dev.to/__ed880143c/hidden-water-5ejo)
-- [Recap of Microsoft&#39;s &quot;Let&#39;s Move Away from API Keys!&quot; by Chris Noring](https://dev.to/agagag/recap-of-microsofts-lets-move-away-from-api-keys-by-chris-noring-4e5o)
-- [Simple way to store secrets in Android Project.](https://dev.to/kiolk/simple-way-to-store-secrets-in-android-project-345k)
+- [20 New SDXL Fine Tuning Tests and Their Results &lpar;Better Workflow Obtained and Published&rpar;](https://dev.to/furkangozukara/20-new-sdxl-fine-tuning-tests-and-their-results-better-workflow-obtained-and-published-13k4)
+- [Lean FRO&#39;s First Year: Advancing Formal Methods in Software Engineering](https://dev.to/adolfont/lean-fros-first-year-advancing-formal-methods-in-software-engineering-29bj)
+- [[16/52] Engineering Fundamentals: Units &amp; Measurements](https://dev.to/tythos/1652-engineering-fundamentals-units-measurements-5d7l)
+- [Where to Host My Static Tech Blog](https://dev.to/googlecloud/where-to-host-my-static-tech-blog-2d8m)
+- [Exciting New Features in Shepherd Pro&#39;s Latest Beta Release](https://dev.to/chuckcarpenter/exciting-new-features-in-shepherd-pros-latest-beta-release-3g22)
 <!-- BLOG-POST-LIST:END -->
 
 ---
