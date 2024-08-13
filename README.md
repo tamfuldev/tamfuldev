@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [5 Best Practices Every Frontend Developer Should Follow](https://dev.to/zain725342/5-best-practices-every-frontend-developer-should-follow-45e4)
-- [How to Delete Files and Directories in Mac Terminal](https://dev.to/jenesh/how-to-delete-files-and-directories-in-mac-terminal-hgo)
-- [Neighborhood Components Analysis: Visualizing Metric Learning](https://dev.to/labex/neighborhood-components-analysis-visualizing-metric-learning-4el3)
-- [Forward Proxy &amp; Reverse Proxy. Que es?](https://dev.to/lucatonyraudales/forward-proxy-reverse-proxy-que-es-3o3i)
-- [Stay Updated with PHP/Laravel: Weekly News Summary &lpar;05/08/2024-11/08/2024](https://dev.to/poovarasu/stay-updated-with-phplaravel-weekly-news-summary-05082024-11082024-5bnh)
+- [10+ Advanced Project Ideas for Developers: Challenge Your Skills!](https://dev.to/lokesh_singh/10-advanced-project-ideas-for-developers-challenge-your-skills-2869)
+- [How I Nailed a React Take Home Assessment and landed a 190k+ Job.](https://dev.to/paterson1720/how-i-nailed-a-react-take-home-assessment-and-land-a-190k-job-3kpp)
+- [🤖 100 Days of Generative AI - Day 6 - What is a Vector Database? 🤖](https://dev.to/lakhera2015/100-days-of-generative-ai-day-6-what-is-a-vector-database-3afl)
+- [Unlock the Secrets of Efficient Algorithms with &quot;The Algorithm Design Manual&quot; 🔑](https://dev.to/getvm/unlock-the-secrets-of-efficient-algorithms-with-the-algorithm-design-manual-18b6)
+- [Hugo shortcode for sns with unit.link like button](https://dev.to/callas1900/hugo-shortcode-for-sns-with-unitlink-like-button-24ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
