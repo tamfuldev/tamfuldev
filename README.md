@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Nuke: Deploy ASP. NET Web App to Azure](https://dev.to/raulnq/nuke-deploy-asp-net-web-app-to-azure-351)
-- [Target User Persona](https://dev.to/stephanbranczyk/target-user-persona-22f1)
-- [Letter Creator - My Entry for the Google Gemini Competition](https://dev.to/stephanbranczyk/letter-creator-my-entry-for-the-google-gemini-competition-4pnh)
-- [Understanding Your Data: The Essentials of Exploratory Data Analysis](https://dev.to/christopher_mugwimi/understanding-your-data-the-essentials-of-exploratory-data-analysis-20de)
-- [Usando argumentos de linha de comando](https://dev.to/devsjavagirls/usando-argumentos-de-linha-de-comando-m9k)
+- [Today&#39;s Trending Projects: Give Your Page a Makeover and More](https://dev.to/labex/todays-trending-projects-give-your-page-a-makeover-and-more-17hl)
+- [What is the difference between Docker ADD &amp; Docker COPY ?](https://dev.to/rajeshsgr/what-is-the-difference-between-docker-add-docker-copy--59op)
+- [The best extension for Visual Studio Code](https://dev.to/belmirofss/the-best-extension-for-visual-studio-code-5eab)
+- [The Relevance of Computational Thinking in Programming](https://dev.to/koobimdi/the-relevance-of-computational-thinking-in-programming-cf8)
+- [Just build it: How we design Streamlit to bias you toward forward progress](https://dev.to/streamlit/just-build-it-how-we-design-streamlit-to-bias-you-toward-forward-progress-520d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
