@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [React with Vite On Steroids](https://dev.to/ricardogesteves/react-with-vite-on-steroids-4nh0)
-- [Solana Wallet Management with TypeScript](https://dev.to/sumana10/solana-wallet-management-with-typescript-213e)
-- [Event Loop and Concurrency in JavaScript](https://dev.to/rahulvijayvergiya/event-loop-and-concurrency-in-javascript-3flf)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3hng)
-- [Building Better Devs: Assessing Software Developer Language Proficiency](https://dev.to/horaceshmorace/building-better-devs-assessing-software-developer-language-proficiency-1p9k)
+- [My new commitment](https://dev.to/silje_a9b2d7dd03f41d0ccd2/my-new-commitment-1cgk)
+- [Introducing Oats~i - The Open Web Framework](https://dev.to/oatsi/introducing-oatsi-the-open-web-framework-2ehp)
+- [Configure Cross-Account Cross-Region AWS CloudWatch Dashboard](https://dev.to/aws-builders/configure-cross-account-cross-region-aws-cloudwatch-dashboard-4fgl)
+- [Organize your components and layouts in your pages-based Next.js application this way.](https://dev.to/thinkthroo/organize-your-components-and-layouts-in-your-pages-based-nextjs-application-this-way-2m4l)
+- [Variable by Reference &amp; Variable by Value in PHP](https://dev.to/talha_khan74/variable-by-reference-variable-by-value-in-php-25om)
 <!-- BLOG-POST-LIST:END -->
 
 ---
