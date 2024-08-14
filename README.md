@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Basics](https://dev.to/thekarlesi/css-basics-1261)
-- [HTML: o que é, Qual a sua importância para a web.](https://dev.to/albericojr/html-o-que-e-qual-a-sua-importancia-para-a-web-35lb)
-- [Introducing cmd: Your New Go-To Bookmark for Essential Software Engineering Commands 🔖](https://dev.to/tungbq/introducing-the-cmd-your-new-go-to-bookmark-for-essential-software-engineering-commands-o8)
-- [Build a Drum Kit Website](https://dev.to/abhishekgurjar/build-a-drum-kit-website-8hh)
-- [🚀 Revolutionize Your App’s Authentication: Userfront for React, Vue.js, and More!](https://dev.to/lokesh_singh/revolutionize-your-apps-authentication-userfront-for-react-vuejs-and-more-59e1)
+- [🌟 Managing Code School and a Thai Restaurant 🌟](https://dev.to/muydanny/managing-code-school-and-a-thai-restaurant-4bhf)
+- [Why LLM Agnostic Solutions are the Future of Dev Tools](https://dev.to/get_pieces/why-llm-agnostic-solutions-are-the-future-of-dev-tools-36m2)
+- [The 10 Best VS Code Extensions](https://dev.to/get_pieces/the-10-best-vs-code-extensions-1ppo)
+- [Load .Env file into IConfiguration Provider](https://dev.to/rmaurodev/load-env-file-into-iconfiguration-provider-4fk0)
+- [Creating Truly Custom UI Components for AWS Cognito – Amplify in React Native](https://dev.to/niek_dewit_6d1cfcfeaff6a/creating-truly-custom-ui-components-for-aws-cognito-amplify-in-react-native-3gfi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
