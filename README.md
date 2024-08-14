@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Clear duplicate lines and lines having missing values from a csv file #eg24](https://dev.to/esproc_spl/clear-duplicate-lines-and-lines-having-missing-values-from-a-csv-file-eg24-2d69)
-- [Role of Cloud Computing in Data Analytics and AI](https://dev.to/astutemarketing/role-of-cloud-computing-in-data-analytics-and-ai-1g64)
-- [Input/Output Operations of the World Wide Web](https://dev.to/nitindahiyadev/inputoutput-operations-of-the-world-wide-web-4kng)
-- [Integrating Stellar with JavaScript: Building dApp is easy](https://dev.to/jitendrachoudhary/integrating-stellar-with-javascript-building-dapp-is-easy-4pg2)
-- [How to secure Terraform code with Trivy](https://dev.to/verifacrew/how-to-secure-terraform-code-with-trivy-3m9m)
+- [Stack Implementation Using Javascript &lpar;Linked List&rpar;](https://dev.to/ashutoshsarangi/stack-implementation-using-javascript-linked-list-2n56)
+- [Simplify AI with an AI Gateway](https://dev.to/vaibhavacharya/simplify-ai-with-an-ai-gateway-mp4)
+- [C# Hashtable Class: Explained with Examples](https://dev.to/bytehide/c-hashtable-class-explained-with-examples-5chg)
+- [A Comprehensive Guide to Prompt Engineering for AI](https://dev.to/vaibhavacharya/a-comprehensive-guide-to-prompt-engineering-for-ai-3on7)
+- [Understanding and Implementing a Test Case Generator](https://dev.to/keploy/understanding-and-implementing-a-test-case-generator-4pid)
 <!-- BLOG-POST-LIST:END -->
 
 ---
