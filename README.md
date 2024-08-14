@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Generative AI Virtual Agent Application Design](https://dev.to/diamondai/generative-ai-virtual-agent-application-design-4pkj)
-- [Maximizing Your Investment Strategy with Free Stock History Data API](https://dev.to/williamsmithh/maximizing-your-investment-strategy-with-free-stock-history-data-api-23e5)
-- [Introducing HyperUX - The Future of AI-Driven Personalisation in FinTech](https://dev.to/pourya7/introducing-hyperux-the-future-of-ai-driven-personalisation-in-fintech-3cec)
-- [installing google chrome in docker](https://dev.to/aakriti_lahoti_9f146498bc/installing-google-chrome-in-docker-5h6d)
-- [Ensuring Code Integrity: Best Practices, Challenges, and FAQs](https://dev.to/keploy/ensuring-code-integrity-best-practices-challenges-and-faqs-1gng)
+- [How I Upped My Frontend Game with Generative UI](https://dev.to/copilotkit/how-i-upped-my-frontend-game-with-generative-ui-4fhc)
+- [**Las Mejores Herramientas para Desarrolladores Full Stack**](https://dev.to/orlidev/las-mejores-herramientas-para-desarrolladores-full-stack-1lf6)
+- [What is Functional Testing? A Comprehensive Guide](https://dev.to/keploy/what-is-functional-testing-a-comprehensive-guide-4cbo)
+- [Automatically Generated GraphQL Middleware Service](https://dev.to/niek_dewit_6d1cfcfeaff6a/automatically-generated-graphql-middleware-service-37d5)
+- [Understanding and resolving errors in C#](https://dev.to/hossien014/understanding-and-resolving-errors-in-c-3hcn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
