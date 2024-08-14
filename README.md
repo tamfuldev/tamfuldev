@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [20 New SDXL Fine Tuning Tests and Their Results &lpar;Better Workflow Obtained and Published&rpar;](https://dev.to/furkangozukara/20-new-sdxl-fine-tuning-tests-and-their-results-better-workflow-obtained-and-published-13k4)
-- [Lean FRO&#39;s First Year: Advancing Formal Methods in Software Engineering](https://dev.to/adolfont/lean-fros-first-year-advancing-formal-methods-in-software-engineering-29bj)
-- [[16/52] Engineering Fundamentals: Units &amp; Measurements](https://dev.to/tythos/1652-engineering-fundamentals-units-measurements-5d7l)
-- [Where to Host My Static Tech Blog](https://dev.to/googlecloud/where-to-host-my-static-tech-blog-2d8m)
-- [Exciting New Features in Shepherd Pro&#39;s Latest Beta Release](https://dev.to/chuckcarpenter/exciting-new-features-in-shepherd-pros-latest-beta-release-3g22)
+- [Seamless Face Authentication in Your Next.js App with FACEIO](https://dev.to/vyan/seamless-face-authentication-in-your-nextjs-app-with-faceio-55d7)
+- [Implementing JWT Authentication with Express, MongoDB, and Passport.js](https://dev.to/michaelikoko/implementing-jwt-authentication-with-express-mongodb-and-passportjs-3fl7)
+- [Enabling Access Logs for AWS ELB &lpar;ALB&rpar; with Terraform](https://dev.to/suzuki0430/enabling-access-logs-for-aws-elb-alb-with-terraform-ini)
+- [Uma revisão bibliográfica sobre blockchain](https://dev.to/leomachadop/uma-revisao-bibliografica-sobre-blockchain-10g7)
+- [Signs you&#39;re about to laid off, and what to do about it.](https://dev.to/colinosborn/signs-youre-about-to-laid-off-and-what-to-do-about-it-15g7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
