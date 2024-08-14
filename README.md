@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ultimate CLI Cheatsheet](https://dev.to/mahf001/ultimate-cli-cheatsheet-1jgb)
-- [DEV Search: 20x Latency Reduction By Layering Algolia On Top of Postgres](https://dev.to/devteam/dev-search-20x-latency-reduction-by-layering-algolia-on-top-of-postgres-3845)
-- [What is wrong here?](https://dev.to/fares_fathi_7f351abcd1b7b/what-is-wrong-here-5f4)
-- [Enhance Visual Testing CI Pipelines with Cypress Image Diff GitHub App](https://dev.to/kienht/enhance-visual-testing-ci-pipelines-with-cypress-image-diff-github-app-4ci0)
-- [Connecting PrismaORM to the NestJS-mod application and checking its operation via REST](https://dev.to/endykaufman/connecting-prismaorm-to-the-nestjs-mod-application-and-checking-its-operation-via-rest-4bbp)
+- [CSS Basics](https://dev.to/thekarlesi/css-basics-1261)
+- [HTML: o que é, Qual a sua importância para a web.](https://dev.to/albericojr/html-o-que-e-qual-a-sua-importancia-para-a-web-35lb)
+- [Introducing cmd: Your New Go-To Bookmark for Essential Software Engineering Commands 🔖](https://dev.to/tungbq/introducing-the-cmd-your-new-go-to-bookmark-for-essential-software-engineering-commands-o8)
+- [Build a Drum Kit Website](https://dev.to/abhishekgurjar/build-a-drum-kit-website-8hh)
+- [🚀 Revolutionize Your App’s Authentication: Userfront for React, Vue.js, and More!](https://dev.to/lokesh_singh/revolutionize-your-apps-authentication-userfront-for-react-vuejs-and-more-59e1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
