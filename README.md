@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Seamless Face Authentication in Your Next.js App with FACEIO](https://dev.to/vyan/seamless-face-authentication-in-your-nextjs-app-with-faceio-55d7)
-- [Implementing JWT Authentication with Express, MongoDB, and Passport.js](https://dev.to/michaelikoko/implementing-jwt-authentication-with-express-mongodb-and-passportjs-3fl7)
-- [Enabling Access Logs for AWS ELB &lpar;ALB&rpar; with Terraform](https://dev.to/suzuki0430/enabling-access-logs-for-aws-elb-alb-with-terraform-ini)
-- [Uma revisão bibliográfica sobre blockchain](https://dev.to/leomachadop/uma-revisao-bibliografica-sobre-blockchain-10g7)
-- [Signs you&#39;re about to laid off, and what to do about it.](https://dev.to/colinosborn/signs-youre-about-to-laid-off-and-what-to-do-about-it-15g7)
+- [AWS Lambda with CloudFront configuration guide](https://dev.to/rimutaka/aws-lambda-with-cloudfront-configuration-guide-27lj)
+- [Today&#39;s Trending Projects: Modify Student Table Attributes and More](https://dev.to/labex/todays-trending-projects-modify-student-table-attributes-and-more-2ibc)
+- [Potencialize o desenvolvimento da sua IaC com terraform console](https://dev.to/devsnasnuvens/potencialize-o-desenvolvimento-da-sua-iac-com-terraform-console-21jc)
+- [Boost your IaC development with terraform console](https://dev.to/devsonclouds/boost-your-iac-development-with-terraform-console-332f)
+- [How to Press and Drag to Reposition a Window in Godot](https://dev.to/dragonforge-dev/how-to-press-and-drag-to-reposition-a-window-in-godot-1i3l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
