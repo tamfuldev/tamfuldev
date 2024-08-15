@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Storybook: Stories for Smart Components](https://dev.to/bymarsel/storybook-stories-for-smart-components-35g5)
-- [require Vs import In JavaScript](https://dev.to/travislramos/require-vs-import-in-javascript-1ah4)
-- [Navigating Open Source Software: All Your Questions Answered](https://dev.to/observiq/navigating-open-source-software-all-your-questions-answered-427)
-- [Code Generated Architecture Diagram](https://dev.to/arindam0310018/code-generated-architecture-diagram-13o3)
-- [🚀 Create a CRUD web API with DATA API builder and EFCORE Power Tools 🚀](https://dev.to/edcsu/create-a-crud-web-api-with-data-api-builder-and-efcore-power-tools-4oge)
+- [Experimental WASM/Rust support for Pulumi](https://dev.to/andrzejressel/experimental-wasmrust-support-for-pulumi-igf)
+- [Hello, void... may I scream into you?](https://dev.to/fuzzwah/hello-void-may-i-scream-into-you-i50)
+- [Draft: What are the differences between arrow functions and traditional functions?](https://dev.to/fabriciomsdev/what-are-the-differences-between-arrow-functions-and-traditional-functions-572)
+- [8 Real-Life Shell Functions to Boost Your Productivity](https://dev.to/feliperocha93/8-real-life-shell-functions-to-boost-your-productivity-4k1j)
+- [Angular Router](https://dev.to/paulo_loboneto_80163ca4e/angular-router-3h9g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
