@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to C:&rpar;](https://dev.to/madgan95/introduction-to-c-4khc)
-- [Cloud-Native Security for Multi-Cloud and Hybrid Cloud Environments](https://dev.to/public_cloud/cloud-native-security-for-multi-cloud-and-hybrid-cloud-environments-3bjp)
-- [Tired of Using Axios? Meet Undici, the Fast, Modern HTTP Client You Didn’t Know You Needed](https://dev.to/jamel86/tired-of-using-axios-meet-undici-the-fast-modern-http-client-you-didnt-know-you-needed-3385)
-- [Build Your Own Blockchain: A Python Tutorial 🔗](https://dev.to/getvm/build-your-own-blockchain-a-python-tutorial-4eh4)
-- [FlakeGuard &lpar;Open Source Product&rpar;](https://dev.to/ashley_hannigan_94f75507d/flakeguard-open-source-product-3bah)
+- [White Label Dating Apps: The Fast Track to Launching Your Own Platform](https://dev.to/elisaray/white-label-dating-apps-the-fast-track-to-launching-your-own-platform-395i)
+- [Mocking an AI Chatbot API with Blackbird](https://dev.to/getambassador2024/mocking-an-ai-chatbot-api-with-blackbird-507j)
+- [&quot;Enhancing Customer Support with Open Source PHP Ticket Systems&quot;](https://dev.to/loretta_john_e902aa501ab9/enhancing-customer-support-with-open-source-php-ticket-systems-3kbb)
+- [Emacs, a simple tour](https://dev.to/tobidelly/emacs-a-simple-tour-3e0n)
+- [What I learned from writing my Digital Portfolio](https://dev.to/santiparedes/what-i-learned-from-writing-my-digital-portfolio-4io5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
