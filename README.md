@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [#45 — Copy Each Row N Times &lpar;N Is The Cell Value of The Specified column&rpar;](https://dev.to/judith677/45-copy-each-row-n-times-n-is-the-cell-value-of-the-specified-column-ekc)
-- [I created a simple app by very fast Rust web framework Actix web. Please use this as a sample code.](https://dev.to/lechatthecat/i-created-a-simple-app-by-very-fast-rust-web-framework-actix-web-please-use-this-as-a-sample-code-e60)
-- [🚀Day 15: Git, GitHub, and Linux Cheat Sheet for Beginners](https://dev.to/ritesh_dolare/day-15-git-github-and-linux-cheat-sheet-for-beginners-5ee4)
-- [TypeScript Generics: How to Write Flexible and Type-Safe Code](https://dev.to/shanu001x/typescript-generics-how-to-write-flexible-and-type-safe-code-4dn)
-- [SafeLine: Pioneering the Next Generation of WAF with AI-Powered Semantic Analysis](https://dev.to/lulu_liu_c90f973e2f954d7f/safeline-pioneering-the-next-generation-of-waf-with-ai-powered-semantic-analysis-1n72)
+- [Introduction to C:&rpar;](https://dev.to/madgan95/introduction-to-c-4khc)
+- [Cloud-Native Security for Multi-Cloud and Hybrid Cloud Environments](https://dev.to/public_cloud/cloud-native-security-for-multi-cloud-and-hybrid-cloud-environments-3bjp)
+- [Tired of Using Axios? Meet Undici, the Fast, Modern HTTP Client You Didn’t Know You Needed](https://dev.to/jamel86/tired-of-using-axios-meet-undici-the-fast-modern-http-client-you-didnt-know-you-needed-3385)
+- [Build Your Own Blockchain: A Python Tutorial 🔗](https://dev.to/getvm/build-your-own-blockchain-a-python-tutorial-4eh4)
+- [FlakeGuard &lpar;Open Source Product&rpar;](https://dev.to/ashley_hannigan_94f75507d/flakeguard-open-source-product-3bah)
 <!-- BLOG-POST-LIST:END -->
 
 ---
