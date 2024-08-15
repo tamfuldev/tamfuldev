@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Free WAF SafeLine Using Docker](https://dev.to/sherbertill6/deploying-free-waf-safeline-using-docker-12ng)
-- [How to Create a Feature-Rich Swipeable Login Page with React](https://dev.to/shanu001x/how-to-create-a-feature-rich-swipeable-login-page-with-react-547m)
-- [What is SaaS &lpar;Software as a Service&rpar;?](https://dev.to/clouddefenseai/what-is-saas-software-as-a-service-3m7j)
-- [What is JavaScript? One Definition to Cover It All.](https://dev.to/thesanjeevsharma/what-is-javascript-one-definition-to-cover-it-all-43l2)
-- [JavaScript Design Patterns - Behavioral - State](https://dev.to/nhannguyendevjs/javascript-design-patterns-behavioral-state-3e9b)
+- [c++ dasturlash tilida 3- dars](https://dev.to/none2230/c-dasturlash-tilida-3-dars-421d)
+- [Scenario based java interview question](https://dev.to/realnamehidden1_61/scenario-based-java-interview-question-47hi)
+- [Implementing JavaScript’s Map, Filter, and Reduce Methods](https://dev.to/maazkhan/implementing-javascripts-map-filter-and-reduce-methods-b3p)
+- [What happens when you type google.com in your browser and press Enter](https://dev.to/tobidelly/what-happens-when-you-type-googlecom-in-your-browser-and-press-enter-8j6)
+- [Day 45 / 100 Days of Code: Exploring New Patterns](https://dev.to/jacobsternx/day-45-100-days-of-code-exploring-new-patterns-4ad7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
