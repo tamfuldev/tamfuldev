@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Experimental WASM/Rust support for Pulumi](https://dev.to/andrzejressel/experimental-wasmrust-support-for-pulumi-igf)
-- [Hello, void... may I scream into you?](https://dev.to/fuzzwah/hello-void-may-i-scream-into-you-i50)
-- [Draft: What are the differences between arrow functions and traditional functions?](https://dev.to/fabriciomsdev/what-are-the-differences-between-arrow-functions-and-traditional-functions-572)
-- [8 Real-Life Shell Functions to Boost Your Productivity](https://dev.to/feliperocha93/8-real-life-shell-functions-to-boost-your-productivity-4k1j)
-- [Angular Router](https://dev.to/paulo_loboneto_80163ca4e/angular-router-3h9g)
+- [How to Create a Recipe Generator with NextJS, LangChain, and OpenAI](https://dev.to/danmusembi/how-to-create-a-recipe-generator-with-nextjs-langchain-and-openai-1e0d)
+- [Navigating the Security Risks of Arbitrary Values in Tailwind CSS](https://dev.to/dansasser/navigating-the-security-risks-of-arbitrary-values-in-tailwind-css-59jj)
+- [Configuring Azure Arc-Enabled Windows Servers with Azure VM Extensions](https://dev.to/jimiog/configuring-azure-arc-enabled-windows-servers-with-azure-vm-extensions-him)
+- [Managing Azure Arc-Enabled Windows Server Updates by Using Azure Update Manager](https://dev.to/jimiog/managing-azure-arc-enabled-windows-server-updates-by-using-azure-update-manager-4bmp)
+- [Screw it! I&#39;ve Developed My Own Static Site Generator!](https://dev.to/shazin/screw-it-ive-developed-my-own-static-site-generator-27cd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
