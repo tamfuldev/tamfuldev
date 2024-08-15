@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Test the Latest Kubernetes Changes in Version 1.31 &quot;Elli&quot;](https://dev.to/hkhelil/how-to-test-the-latest-kubernetes-changes-in-version-131-elli-39ec)
-- [Design Systems in React – Scaffolding and Setup &lpar;Part 0&rpar;](https://dev.to/tomekbuszewski/design-systems-in-react-scaffolding-and-setup-part-0-5c8o)
-- [Deep Dive Into The Consensus Mechanism of Kaia Chain](https://dev.to/polymawutor/deep-dive-into-the-consensus-mechanism-of-kaia-chain-11j7)
-- [Milvus Adventures August 14, 2024](https://dev.to/chrischurilo/milvus-adventures-august-14-2024-27k3)
-- [Ultimate Sass-Scss Cheatsheet [Live Doc]](https://dev.to/mahf001/ultimate-sass-scss-cheatsheet-live-doc-4gcl)
+- [Introducing PolyForge: Empowering Polygon Developers with a Robust CLI Tool](https://dev.to/jeffersonnnn/introducing-polyforge-empowering-polygon-developers-with-a-robust-cli-tool-44h)
+- [Webscraping Using Python](https://dev.to/masonbarnes645/web-scraping-using-python-1jbl)
+- [PostCSS line return parsing error?](https://dev.to/_06a55257714a4919a0236a/postcss-line-return-parsing-error-4f12)
+- [roadauth-rails api jwt cors 2024](https://dev.to/rahuldhole/roadauth-rails-api-jwt-cors-2024-1d8p)
+- [Creating a Stylish Social links profile with Dynamic Button Animations](https://dev.to/der12kl/creating-a-stylish-social-links-profile-with-dynamic-button-animations-1a9a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
