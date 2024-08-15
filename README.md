@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing PolyForge: Empowering Polygon Developers with a Robust CLI Tool](https://dev.to/jeffersonnnn/introducing-polyforge-empowering-polygon-developers-with-a-robust-cli-tool-44h)
-- [Webscraping Using Python](https://dev.to/masonbarnes645/web-scraping-using-python-1jbl)
-- [PostCSS line return parsing error?](https://dev.to/_06a55257714a4919a0236a/postcss-line-return-parsing-error-4f12)
-- [roadauth-rails api jwt cors 2024](https://dev.to/rahuldhole/roadauth-rails-api-jwt-cors-2024-1d8p)
-- [Creating a Stylish Social links profile with Dynamic Button Animations](https://dev.to/der12kl/creating-a-stylish-social-links-profile-with-dynamic-button-animations-1a9a)
+- [The Dotnet, Nx, AnalogJs &lpar;Angular&rpar; Stack is here - Part 2](https://dev.to/luishcastroc/the-dotnet-nx-analogjs-angular-stack-is-here-part-2-4gga)
+- [The Dotnet, Nx, AnalogJs &lpar;Angular&rpar; Stack is here - Part 1](https://dev.to/luishcastroc/the-dotnet-nx-analogjs-angular-stack-is-here-part-1-1eli)
+- [Implementing DataLoader and Understanding Its Advantages Over Lookup](https://dev.to/lusqua/implementing-dataloader-and-understanding-its-advantages-over-lookup-1phb)
+- [How to Sample Multiple Completions &lpar;n&rpar; Directly from Claude API without a for loop?](https://dev.to/brando90/how-to-sample-multiple-completions-n-directly-from-claude-api-without-a-for-loop-2m1e)
+- [Analyzing ELB Access Logs with Athena: Configuration and Query Examples](https://dev.to/suzuki0430/analyzing-elb-access-logs-with-athena-configuration-and-query-examples-id6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
