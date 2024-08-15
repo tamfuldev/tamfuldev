@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [The current state of GitHub](https://dev.to/henriqueleite42/the-current-state-of-github-3dfp)
+- [Axios Full Guide](https://dev.to/harshm03/axios-full-guide-3af6)
+- [I just made an AUR helper](https://dev.to/alanalexander1011/i-just-made-an-aur-helper-538j)
+- [Docker Compose Commands: Understanding &#39;up -d&#39; vs &#39;up --build&#39;](https://dev.to/yuvraajsj18/docker-compose-commands-understanding-up-d-vs-up-build-3bb4)
 - [We needed to run maintenance queries &lpar;SQL&rpar; with user input](https://dev.to/polysign_lu/we-needed-to-run-maintenance-queries-sql-with-user-input-26eh)
-- [How Amazon Uses AI Technology](https://dev.to/espinosa/how-amazon-uses-ai-technology-2i43)
-- [Someone can help me with angular?](https://dev.to/1gabrieldavi/someone-can-help-me-with-angular-55bj)
-- [Ultimate Git Cheatsheet [Live Doc]](https://dev.to/mahf001/ultimate-git-cheatsheet-live-doc-1o3n)
-- [What Is the Web Development Process?](https://dev.to/hpogfd/what-is-the-web-development-process-38el)
 <!-- BLOG-POST-LIST:END -->
 
 ---
