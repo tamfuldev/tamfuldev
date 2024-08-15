@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The current state of GitHub](https://dev.to/henriqueleite42/the-current-state-of-github-3dfp)
-- [Axios Full Guide](https://dev.to/harshm03/axios-full-guide-3af6)
-- [I just made an AUR helper](https://dev.to/alanalexander1011/i-just-made-an-aur-helper-538j)
-- [Docker Compose Commands: Understanding &#39;up -d&#39; vs &#39;up --build&#39;](https://dev.to/yuvraajsj18/docker-compose-commands-understanding-up-d-vs-up-build-3bb4)
-- [We needed to run maintenance queries &lpar;SQL&rpar; with user input](https://dev.to/polysign_lu/we-needed-to-run-maintenance-queries-sql-with-user-input-26eh)
+- [Deadline Extended for the Nylas AI and Communications Challenge](https://dev.to/devteam/deadline-extended-for-the-nylas-ai-and-communications-challenge-3h1j)
+- [LocalDb Dev on Windows11 ARM](https://dev.to/louisgordon/localdb-dev-on-windows11-arm-cm3)
+- [RoadMap to Data-Analytics 2024!](https://dev.to/parthmagicss/roadmap-to-data-analytics-2024-503i)
+- [Constructor Overloading in Java](https://dev.to/emleons/constructor-overloading-in-java-1c53)
+- [Vitest adoption guide: Overview, examples, and alternatives](https://dev.to/logrocket/vitest-adoption-guide-overview-examples-and-alternatives-4c17)
 <!-- BLOG-POST-LIST:END -->
 
 ---
