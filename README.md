@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Validate your environment variables with Zod](https://dev.to/douglasdemoura/validate-your-environment-variables-with-zod-2gna)
-- [Barcode Reading Problem in Flutter](https://dev.to/gguedes/barcode-reading-problem-in-flutter-3k0g)
-- [Problema Leitura de Código Barras no Flutter](https://dev.to/gguedes/problema-leitura-de-codigo-barras-no-flutter-44od)
-- [The activation functions in PyTorch &lpar;5&rpar;](https://dev.to/hyperkai/the-activation-functions-in-pytorch-5-268k)
-- [Dynamic Programming : The Real Game](https://dev.to/shaswatha_thilaka/dynamic-programming-the-real-game-1dha)
+- [Try Out WeTest UDT: The Ultimate Cloud Testing Solution for Developers](https://dev.to/wetest/try-out-wetest-udt-the-ultimate-cloud-testing-solution-for-developers-4mgh)
+- [#46 — Find The Category Meeting The Specified Condition](https://dev.to/judith677/46-find-the-category-meeting-the-specified-condition-4i9p)
+- [git commit -p &lpar;a cool git command&rpar;](https://dev.to/max_cohen_6ace6dbb02bea02/git-commit-p-a-cool-git-command-48ki)
+- [Content Warnings in Orchard Core](https://dev.to/drewbrasher/content-warnings-in-orchard-core-jl3)
+- [Smart Objects, Smarter Future: An Introduction to IoT](https://dev.to/shinetechsoftwareinc/smart-objects-smarter-future-an-introduction-to-iot-b5n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
