@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Recipe Generator with NextJS, LangChain, and OpenAI](https://dev.to/danmusembi/how-to-create-a-recipe-generator-with-nextjs-langchain-and-openai-1e0d)
-- [Navigating the Security Risks of Arbitrary Values in Tailwind CSS](https://dev.to/dansasser/navigating-the-security-risks-of-arbitrary-values-in-tailwind-css-59jj)
-- [Configuring Azure Arc-Enabled Windows Servers with Azure VM Extensions](https://dev.to/jimiog/configuring-azure-arc-enabled-windows-servers-with-azure-vm-extensions-him)
-- [Managing Azure Arc-Enabled Windows Server Updates by Using Azure Update Manager](https://dev.to/jimiog/managing-azure-arc-enabled-windows-server-updates-by-using-azure-update-manager-4bmp)
-- [Screw it! I&#39;ve Developed My Own Static Site Generator!](https://dev.to/shazin/screw-it-ive-developed-my-own-static-site-generator-27cd)
+- [React: Good and Bad Code](https://dev.to/carlosrambles/react-good-and-bad-code-43g)
+- [⏰💻 Cron.d &lpar;Task Automation in the Linux Environment&rpar;](https://dev.to/fonteeboa/crond-task-automation-in-the-linux-environment-5569)
+- [Parent component is not being refresed](https://dev.to/jhonhernandez300/parent-component-is-not-being-refresed-28nb)
+- [Meet Munio: Improve your English conversation skills with AI!](https://dev.to/gabrielsenadev/meet-munio-improve-your-english-conversation-skills-with-ai-41n1)
+- [Best Practices for Learning Web Development in 2024](https://dev.to/alyxbond/best-practices-for-learning-web-development-in-2024-2iki)
 <!-- BLOG-POST-LIST:END -->
 
 ---
