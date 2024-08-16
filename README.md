@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Try Out WeTest UDT: The Ultimate Cloud Testing Solution for Developers](https://dev.to/wetest/try-out-wetest-udt-the-ultimate-cloud-testing-solution-for-developers-4mgh)
-- [#46 — Find The Category Meeting The Specified Condition](https://dev.to/judith677/46-find-the-category-meeting-the-specified-condition-4i9p)
-- [git commit -p &lpar;a cool git command&rpar;](https://dev.to/max_cohen_6ace6dbb02bea02/git-commit-p-a-cool-git-command-48ki)
-- [Content Warnings in Orchard Core](https://dev.to/drewbrasher/content-warnings-in-orchard-core-jl3)
-- [Smart Objects, Smarter Future: An Introduction to IoT](https://dev.to/shinetechsoftwareinc/smart-objects-smarter-future-an-introduction-to-iot-b5n)
+- [SELU&lpar;&rpar; and CELU&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/selu-and-celu-in-pytorch-2ml3)
+- [Unleash the Power of CSS: Discover a Captivating Search Engine 🔍](https://dev.to/getvm/unleash-the-power-of-css-discover-a-captivating-search-engine-4lmd)
+- [PReLU&lpar;&rpar; and ELU&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/prelu-and-elu-in-pytorch-3ebl)
+- [Understanding Short-Circuiting in JavaScript: A Beginner&#39;s Guide](https://dev.to/victorusese/understanding-short-circuiting-in-javascript-a-beginners-guide-2mk4)
+- [A Simple Test HTTP server from Flask](https://dev.to/byronsalty/a-simple-test-http-server-from-flask-3lf9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
