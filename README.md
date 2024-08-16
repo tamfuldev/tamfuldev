@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Asciinema vs Savvy CLI: Terminal recording tools](https://dev.to/gopher65/asciinema-vs-savvy-cli-terminal-recording-tools-42j3)
-- [Machine Learning in Python Using Scikit-Learn: A Beginner&#39;s Guide](https://dev.to/myexamcloud/machine-learning-in-python-using-scikit-learn-a-beginners-guide-1j62)
-- [Integrando SwiftUI em UIKit e implementando View com Coordinator](https://dev.to/lys/integrando-swiftui-em-uikit-e-implementando-view-com-coordinator-j3d)
-- [Making something new in the work](https://dev.to/mauro_peluso_22/making-something-new-in-the-work-g51)
-- [Expose html that converts an image into a composition of only certain types of colors.](https://dev.to/uni928/expose-html-that-converts-an-image-into-a-composition-of-only-certain-types-of-colors-3ooo)
+- [Validate your environment variables with Zod](https://dev.to/douglasdemoura/validate-your-environment-variables-with-zod-2gna)
+- [Barcode Reading Problem in Flutter](https://dev.to/gguedes/barcode-reading-problem-in-flutter-3k0g)
+- [Problema Leitura de Código Barras no Flutter](https://dev.to/gguedes/problema-leitura-de-codigo-barras-no-flutter-44od)
+- [The activation functions in PyTorch &lpar;5&rpar;](https://dev.to/hyperkai/the-activation-functions-in-pytorch-5-268k)
+- [Dynamic Programming : The Real Game](https://dev.to/shaswatha_thilaka/dynamic-programming-the-real-game-1dha)
 <!-- BLOG-POST-LIST:END -->
 
 ---
