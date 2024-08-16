@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [React: Good and Bad Code](https://dev.to/carlosrambles/react-good-and-bad-code-43g)
-- [⏰💻 Cron.d &lpar;Task Automation in the Linux Environment&rpar;](https://dev.to/fonteeboa/crond-task-automation-in-the-linux-environment-5569)
-- [Parent component is not being refresed](https://dev.to/jhonhernandez300/parent-component-is-not-being-refresed-28nb)
-- [Meet Munio: Improve your English conversation skills with AI!](https://dev.to/gabrielsenadev/meet-munio-improve-your-english-conversation-skills-with-ai-41n1)
-- [Best Practices for Learning Web Development in 2024](https://dev.to/alyxbond/best-practices-for-learning-web-development-in-2024-2iki)
+- [Buildink.io: Automate Product Discovery and PRDs for your projects](https://dev.to/stianhansen/buildinkio-automate-product-discovery-and-prds-for-your-projects-5gk1)
+- [Today&#39;s Trending Projects: Countries and Codes in Region and More](https://dev.to/labex/todays-trending-projects-countries-and-codes-in-region-and-more-39h3)
+- [What They Don’t Tell You on LinkedIn about Software Engineering](https://dev.to/themuneebh/what-they-dont-tell-you-on-linkedin-about-software-engineering-14df)
+- [[Javascript] Avoid the phenomenon where the ProgressBar does not move &lpar;it only moves after a series of processes are completed&rpar;](https://dev.to/uni928/javascript-avoid-the-phenomenon-where-the-progressbar-does-not-move-it-only-moves-after-a-series-of-processes-are-completed-26p0)
+- [Gerenciamento de projetos ágeis: Monitorando o progresso e entregando os incrementos](https://dev.to/lima1301lucas/gerenciamento-de-projetos-ageis-monitorando-o-progresso-e-entregando-os-incrementos-28f8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
