@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SELU&lpar;&rpar; and CELU&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/selu-and-celu-in-pytorch-2ml3)
-- [Unleash the Power of CSS: Discover a Captivating Search Engine 🔍](https://dev.to/getvm/unleash-the-power-of-css-discover-a-captivating-search-engine-4lmd)
-- [PReLU&lpar;&rpar; and ELU&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/prelu-and-elu-in-pytorch-3ebl)
-- [Understanding Short-Circuiting in JavaScript: A Beginner&#39;s Guide](https://dev.to/victorusese/understanding-short-circuiting-in-javascript-a-beginners-guide-2mk4)
-- [A Simple Test HTTP server from Flask](https://dev.to/byronsalty/a-simple-test-http-server-from-flask-3lf9)
+- [Migrate from ngx-matomo to ngx-matomo-client](https://dev.to/danac0914/migrate-from-ngx-matomo-to-ngx-matomo-client-32pl)
+- [🆕 Introducing the Game-Changer: NFTScan AI Search Explorer](https://dev.to/nft_research/introducing-the-game-changer-nftscan-ai-search-explorer-1o30)
+- [Introducing the Dumbest Data Structure You&#39;ll Never Actually Use: The Linked List](https://dev.to/horaceshmorace/introducing-the-dumbest-data-structure-youll-never-actually-use-the-linked-list-4op3)
+- [Nexus - An analytics tool for Threads](https://dev.to/mrlinxed/nexus-an-analytics-tool-for-threads-1605)
+- [When Must Developers Consider Using No Code Automation Testing?](https://dev.to/misterankit/when-must-developers-consider-using-no-code-automation-testing-299i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
