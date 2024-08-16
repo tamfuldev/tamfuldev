@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Buildink.io: Automate Product Discovery and PRDs for your projects](https://dev.to/stianhansen/buildinkio-automate-product-discovery-and-prds-for-your-projects-5gk1)
-- [Today&#39;s Trending Projects: Countries and Codes in Region and More](https://dev.to/labex/todays-trending-projects-countries-and-codes-in-region-and-more-39h3)
-- [What They Don’t Tell You on LinkedIn about Software Engineering](https://dev.to/themuneebh/what-they-dont-tell-you-on-linkedin-about-software-engineering-14df)
-- [[Javascript] Avoid the phenomenon where the ProgressBar does not move &lpar;it only moves after a series of processes are completed&rpar;](https://dev.to/uni928/javascript-avoid-the-phenomenon-where-the-progressbar-does-not-move-it-only-moves-after-a-series-of-processes-are-completed-26p0)
-- [Gerenciamento de projetos ágeis: Monitorando o progresso e entregando os incrementos](https://dev.to/lima1301lucas/gerenciamento-de-projetos-ageis-monitorando-o-progresso-e-entregando-os-incrementos-28f8)
+- [Asciinema vs Savvy CLI: Terminal recording tools](https://dev.to/gopher65/asciinema-vs-savvy-cli-terminal-recording-tools-42j3)
+- [Machine Learning in Python Using Scikit-Learn: A Beginner&#39;s Guide](https://dev.to/myexamcloud/machine-learning-in-python-using-scikit-learn-a-beginners-guide-1j62)
+- [Integrando SwiftUI em UIKit e implementando View com Coordinator](https://dev.to/lys/integrando-swiftui-em-uikit-e-implementando-view-com-coordinator-j3d)
+- [Making something new in the work](https://dev.to/mauro_peluso_22/making-something-new-in-the-work-g51)
+- [Expose html that converts an image into a composition of only certain types of colors.](https://dev.to/uni928/expose-html-that-converts-an-image-into-a-composition-of-only-certain-types-of-colors-3ooo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
