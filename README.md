@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [foundationda 7 - dars](https://dev.to/rivojiddin_f9740e8fb02701/foundationda-7-dars-192f)
-- [Web Rendering Patterns Made Simple: A Beginner&#39;s Guide](https://dev.to/hamzamiloudama1/web-rendering-patterns-made-simple-a-beginners-guide-37d0)
-- [How to Quickly Find Out What’s in Your Clipboard](https://dev.to/rigalpatel001/how-to-quickly-find-out-whats-in-your-clipboard-47np)
-- [What is Open Container Initiative &lpar;OCI&rpar;? Build Spec, Runtime Spec, Image Spec and more](https://dev.to/mkdev/what-is-open-container-initiative-oci-build-spec-runtime-spec-image-spec-and-more-433p)
-- [Handle errors with ErrorBoundaries](https://dev.to/dunedev/handle-errors-with-errorboundaries-85h)
+- [Statistics with R - Introduction to R Language and Statistics](https://dev.to/sc0v0ne/statistics-with-r-introduction-to-r-language-and-statistics-48j1)
+- [Daily Log - 17/08/2024](https://dev.to/makkawai/daily-log-17082024-55ao)
+- [How to create a library and use it in Javascript](https://dev.to/js-libraries/how-to-create-a-library-and-use-it-in-javascript-k30)
+- [Feature Engineering Fundamentals: Best Practices and Practical Tips](https://dev.to/nderitugichuki/feature-engineering-fundamentals-best-practices-and-practical-tips-519o)
+- [My Pen on CodePen](https://dev.to/andreh_lucas_75d7b3f3b26e/my-pen-on-codepen-2bi6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
