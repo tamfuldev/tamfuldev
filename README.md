@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How To Build Oracles on Stellar](https://dev.to/mateush/how-to-build-oracles-on-stellar-4f11)
-- [Using Canonical URLs for your next Django project](https://dev.to/osahenru/using-canonical-urls-for-your-next-django-project-59kj)
-- [Push Notification Frontend Setup: Connecting to Your Node.js Backend](https://dev.to/shanu001x/push-notification-frontend-setup-connecting-to-your-nodejs-backend-18h2)
-- [Implementing Push Notifications Using JavaScript: A Production-Grade Approach](https://dev.to/shanu001x/implementing-push-notifications-using-javascript-a-production-grade-approach-1nmf)
-- [Day 17 Guide: Learning YAML and JSON](https://dev.to/ritesh_dolare/day-17-guide-learning-yaml-and-json-2cbb)
+- [PHP Error](https://dev.to/muhammad_falak_shair/php-error-3djg)
+- [Dive into the Fascinating World of Neural Networks for NLP 🧠](https://dev.to/getvm/dive-into-the-fascinating-world-of-neural-networks-for-nlp-31be)
+- [Developer Engagement Strategies for Open-Source Projects](https://dev.to/swati1267/developer-engagement-strategies-for-open-source-projects-4ff)
+- [Bootstrap 5: Building Responsive Forms](https://dev.to/tailwine/bootstrap-5-building-responsive-forms-4h7d)
+- [10 Game-Changing Web Development Tools to Supercharge Your Workflow in 2024](https://dev.to/vyan/10-game-changing-web-development-tools-to-supercharge-your-workflow-in-2024-4dmk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
