@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Code as Art](https://dev.to/awwsmm/code-as-art-11pj)
-- [Flutter PageView or Navigator](https://dev.to/aadarshk7/flutter-pageview-or-navigator-lne)
-- [Web Performance [Live Doc]](https://dev.to/mahf001/web-performance-live-doc-e1d)
-- [Typescript Guide: Everything you need to know! Part -1](https://dev.to/ankitakanchan/typescript-guide-everything-you-need-to-know-3dlf)
-- [Recommended Project: Creating Stored Procedures for Course Data Retrieval](https://dev.to/labex/recommended-project-creating-stored-procedures-for-course-data-retrieval-450g)
+- [L1Loss&lpar;&rpar; and MSELoss&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/l1loss-and-mseloss-in-pytorch-53b6)
+- [The SOLID Design Principles](https://dev.to/brandongautama/the-solid-design-principles-319f)
+- [kosmos](https://dev.to/angelkalinov4/kosmos-1lc3)
+- [Understanding IP Addressing and Subnetting](https://dev.to/subham_nandi/understanding-ip-addressing-and-subnetting-3h3n)
+- [1937. Maximum Number of Points with Cost](https://dev.to/mdarifulhaque/1937-maximum-number-of-points-with-cost-nh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
