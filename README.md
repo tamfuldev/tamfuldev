@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Book Review: Cloud Career Journeys - Inspiring Stories of Success in the Cloud](https://dev.to/starkydevs/book-review-cloud-career-journeys-inspiring-stories-of-success-in-the-cloud-747)
+- [Book Review: Cloud Computing &lpar;Revised and Updated Edition&rpar; - A Definitive Guide from the MIT Press Essential Knowledge Series](https://dev.to/starkydevs/book-review-cloud-computing-revised-and-updated-edition-a-definitive-guide-from-the-mit-press-essential-knowledge-series-1b4i)
 - [CSS PROJECT 1 | GEMINI](https://dev.to/ofameh/css-project-1-gemini-73c)
 - [Developers Guide &lpar;zkVerify&rpar;](https://dev.to/ajtech0001/developers-guide-zkverify-i3e)
 - [Getting Started with STM32 Blue Pill in Arduino IDE Using a USB to TTL Converter — Write Your First Program](https://dev.to/shilleh/getting-started-with-stm32-blue-pill-in-arduino-ide-using-a-usb-to-ttl-converter-write-your-first-program-4naj)
-- [Today&#39;s Trending Projects: Linear Regression Fitting and Plotting and More](https://dev.to/labex/todays-trending-projects-linear-regression-fitting-and-plotting-and-more-14on)
-- [Compress and decompress File With Tar.gz and Xz](https://dev.to/hardyweb/compress-and-decompress-file-with-targz-and-xz-2a5i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
