@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Automate, Relax, Repeat: The Power of Coding &lpar;#1&rpar;](https://dev.to/programmerraja/automate-relax-repeat-the-power-of-coding-1-1egh)
-- [Tente Isto 5-3 Uma classe ShowBits](https://dev.to/devsjavagirls/tente-isto-5-3-uma-classe-showbits-6me)
-- [Hash Tables 101: Collisions, Resizing, Hashing](https://dev.to/jihoonj/implementing-a-hash-table-3pa7)
-- [Os operadores de deslocamento e atribuições abreviadas bitwise](https://dev.to/devsjavagirls/os-operadores-de-deslocamento-e-atribuicoes-abreviadas-bitwise-3nao)
-- [100 Days of GitHub 🔥](https://dev.to/raghavtwenty/100-days-of-github-18hc)
+- [CSS PROJECT 1 | GEMINI](https://dev.to/ofameh/css-project-1-gemini-73c)
+- [Developers Guide &lpar;zkVerify&rpar;](https://dev.to/ajtech0001/developers-guide-zkverify-i3e)
+- [Getting Started with STM32 Blue Pill in Arduino IDE Using a USB to TTL Converter — Write Your First Program](https://dev.to/shilleh/getting-started-with-stm32-blue-pill-in-arduino-ide-using-a-usb-to-ttl-converter-write-your-first-program-4naj)
+- [Today&#39;s Trending Projects: Linear Regression Fitting and Plotting and More](https://dev.to/labex/todays-trending-projects-linear-regression-fitting-and-plotting-and-more-14on)
+- [Compress and decompress File With Tar.gz and Xz](https://dev.to/hardyweb/compress-and-decompress-file-with-targz-and-xz-2a5i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
