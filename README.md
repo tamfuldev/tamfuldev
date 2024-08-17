@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to prepare your NVIDIA card for gaming ?](https://dev.to/ali-alkhawaja/how-to-prepare-your-nvidia-card-for-gaming--630)
-- [Launch Your First Django App Like a Pro 🚀](https://dev.to/oviyan007/launch-your-first-django-app-like-a-pro-3h5n)
-- [Redux developers, please stop doing this!](https://dev.to/nguyenhongphat0/redux-developers-please-stop-doing-this-107a)
-- [Stellar Donations dApp](https://dev.to/jm27/stellar-donations-dapp-ml7)
-- [Building Forms in React.js : A beginners guide](https://dev.to/dualite/building-forms-in-reactjs-a-beginners-guide-11k1)
+- [Code as Art](https://dev.to/awwsmm/code-as-art-11pj)
+- [Flutter PageView or Navigator](https://dev.to/aadarshk7/flutter-pageview-or-navigator-lne)
+- [Web Performance [Live Doc]](https://dev.to/mahf001/web-performance-live-doc-e1d)
+- [Typescript Guide: Everything you need to know! Part -1](https://dev.to/ankitakanchan/typescript-guide-everything-you-need-to-know-3dlf)
+- [Recommended Project: Creating Stored Procedures for Course Data Retrieval](https://dev.to/labex/recommended-project-creating-stored-procedures-for-course-data-retrieval-450g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
