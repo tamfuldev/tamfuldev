@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Updating website content on schedule via GitHub Actions](https://dev.to/prudkohliad/updating-website-content-on-schedule-via-github-actions-39o7)
-- [Zeep Service -Your Travel Partner&lpar;Low-Level Design&rpar;](https://dev.to/dhairyapandya/zeep-service-your-travel-partnerlow-level-design-61)
-- [CSS Layout Techniques - Floats, Clears, and Legacy Layouts: The Old School Cool](https://dev.to/gdebojyoti/css-layout-techniques-floats-clears-and-legacy-layouts-the-old-school-cool-2apj)
-- [How This Agile Architect Mastered Scrum and SAFe Methodologies for Project Success](https://dev.to/mariliatirachi62/how-this-agile-architect-mastered-scrum-and-safe-methodologies-for-project-success-801)
-- [c++ da 6-dars](https://dev.to/none2230/c-da-6-dars-2b25)
+- [Tutorial 3: Creating and Issuing Custom Assets](https://dev.to/ravixalgorithm/tutorial-3-creating-and-issuing-custom-assets-1ok8)
+- [2-Dars. KIRISH. HTML&#39;da dasturlash. Birinchi web sahifa yaratish.](https://dev.to/miss_code_creaker/2-dars-kirish-htmlda-dasturlash-birinchi-web-sahifa-yaratish-2h2m)
+- [Top 10 Backend Frameworks Every Developer Should Know](https://dev.to/bizmavenhub/top-10-backend-frameworks-every-developer-should-know-3pd2)
+- [July 9, 2024 Print&lpar;&rpar; Python &lpar;Q/A&rpar; - Part 2](https://dev.to/vishal-johnnelson/july-9-2024-print-python-qa-part-2-11n3)
+- [Number Patterns in Javascript](https://dev.to/100rabhcsmc/number-patterns-in-javascript-27k9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
