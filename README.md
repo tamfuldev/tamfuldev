@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Everyone is Talking About React: A Deep Dive into Its Popularity and Power ⚛️](https://dev.to/lokesh_singh/why-everyone-is-talking-about-react-a-deep-dive-into-its-popularity-and-power-96g)
-- [CBJS: File Upload 4](https://dev.to/peppa6/cbjs-file-upload-4-3c61)
-- [Understanding RAG &lpar;Part 4&rpar;: Optimizing the generation component](https://dev.to/parth_roy_a1ec4703407d025/understanding-rag-part-4-optimizing-the-generation-component-4jen)
-- [Understanding Dependency Injection: Pros, Cons, and Real-Life Scenarios](https://dev.to/dev_eze/understanding-dependency-injection-pros-cons-and-real-life-scenarios-480)
-- [Regular Expressions in Compiler Design](https://dev.to/pushpendra_sharma_f1d2cbe/regular-expressions-in-compiler-design-1ici)
+- [foundationda 7 - dars](https://dev.to/rivojiddin_f9740e8fb02701/foundationda-7-dars-192f)
+- [Web Rendering Patterns Made Simple: A Beginner&#39;s Guide](https://dev.to/hamzamiloudama1/web-rendering-patterns-made-simple-a-beginners-guide-37d0)
+- [How to Quickly Find Out What’s in Your Clipboard](https://dev.to/rigalpatel001/how-to-quickly-find-out-whats-in-your-clipboard-47np)
+- [What is Open Container Initiative &lpar;OCI&rpar;? Build Spec, Runtime Spec, Image Spec and more](https://dev.to/mkdev/what-is-open-container-initiative-oci-build-spec-runtime-spec-image-spec-and-more-433p)
+- [Handle errors with ErrorBoundaries](https://dev.to/dunedev/handle-errors-with-errorboundaries-85h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
