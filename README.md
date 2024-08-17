@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Google Sheets: SUMIFS para durações &lpar;horas&rpar;, parte 2](https://dev.to/casewinter/google-sheets-sumifs-para-duracoes-horas-parte-2-3bf0)
-- [Automating AWS Resource Management with Shell Scripting](https://dev.to/adesokan_israel_109436759/automating-aws-resource-management-with-shell-scripting-1gg3)
-- [[leitura-compartilhada] Livro Aprenda Python Básico - Rápido e Fácil de Entender](https://dev.to/iniciativashelovelaceblog/leitura-compartilhada-livro-aprenda-python-basico-rapido-e-facil-de-entender-2kkh)
-- [why is random state 42](https://dev.to/anna_lapushner/why-is-random-state-42-l8o)
-- [why is random state 42](https://dev.to/anna_lapushner/why-is-random-state-42-5dig)
+- [Automate, Relax, Repeat: The Power of Coding &lpar;#1&rpar;](https://dev.to/programmerraja/automate-relax-repeat-the-power-of-coding-1-1egh)
+- [Tente Isto 5-3 Uma classe ShowBits](https://dev.to/devsjavagirls/tente-isto-5-3-uma-classe-showbits-6me)
+- [Hash Tables 101: Collisions, Resizing, Hashing](https://dev.to/jihoonj/implementing-a-hash-table-3pa7)
+- [Os operadores de deslocamento e atribuições abreviadas bitwise](https://dev.to/devsjavagirls/os-operadores-de-deslocamento-e-atribuicoes-abreviadas-bitwise-3nao)
+- [100 Days of GitHub 🔥](https://dev.to/raghavtwenty/100-days-of-github-18hc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
