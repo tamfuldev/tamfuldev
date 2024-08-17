@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Beginner&#39;s Guide to SQL and Databases](https://dev.to/kammarianand/beginners-guide-to-sql-and-databases-f72)
-- [Animal Welfare Dapp Build Better on Stellar: Smart Contract Challenge](https://dev.to/chintanonweb/animal-welfare-dapp-build-better-on-stellar-smart-contract-challenge-3eii)
-- [What Effects Do Apple Products Have on the Environment?](https://dev.to/wandah/what-effects-do-apple-products-have-on-the-environment-281h)
-- [Cryptography Concepts Simplified](https://dev.to/4q-u4/cryptography-concepts-simplified-21j0)
-- [Choosing the Right Software Development Pricing Model for Your Project](https://dev.to/tl23143/choosing-the-right-software-development-pricing-model-for-your-project-329j)
+- [foundationda 6 - dars](https://dev.to/rivojiddin_f9740e8fb02701/foundationda-6-dars-igk)
+- [Learn Enough Regex Without Losing Your Mind](https://dev.to/mohammed_kareem/learn-enough-regex-without-losing-your-mind-2lap)
+- [Addressing Conditional Logic in CSS: A Practical Approach](https://dev.to/koolkamalkishor/addressing-conditional-logic-in-css-a-practical-approach-2onf)
+- [Redux vs Context API: When to use them](https://dev.to/eswar108/redux-vs-context-api-when-to-use-them-22n0)
+- [The Rise of Python: Changing the Developers Life](https://dev.to/eswar108/the-rise-of-python-changing-the-developers-life-3jpb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
