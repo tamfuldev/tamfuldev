@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What is DevOps?](https://dev.to/suhaspalani/what-is-devops-416f)
-- [Avoiding Spam Traps: How Email Verification Protects Your Sender Reputation](https://dev.to/ychecker/avoiding-spam-traps-how-email-verification-protects-your-sender-reputation-4gdd)
-- [Software Development process](https://dev.to/danielwambo/software-development-process-1e60)
-- [Async Made Easy: A Deep Dive into JavaScript Callbacks, Promises, and Async/Await](https://dev.to/raju_dandigam/async-made-easy-a-deep-dive-into-javascript-callbacks-promises-and-asyncawait-47hp)
-- [Async Made Easy: A Deep Dive into JavaScript Callbacks, Promises, and Async/Await](https://dev.to/raju_dandigam/async-made-easy-a-deep-dive-into-javascript-callbacks-promises-and-asyncawait-52g9)
+- [How To Build Oracles on Stellar](https://dev.to/mateush/how-to-build-oracles-on-stellar-4f11)
+- [Using Canonical URLs for your next Django project](https://dev.to/osahenru/using-canonical-urls-for-your-next-django-project-59kj)
+- [Push Notification Frontend Setup: Connecting to Your Node.js Backend](https://dev.to/shanu001x/push-notification-frontend-setup-connecting-to-your-nodejs-backend-18h2)
+- [Implementing Push Notifications Using JavaScript: A Production-Grade Approach](https://dev.to/shanu001x/implementing-push-notifications-using-javascript-a-production-grade-approach-1nmf)
+- [Day 17 Guide: Learning YAML and JSON](https://dev.to/ritesh_dolare/day-17-guide-learning-yaml-and-json-2cbb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
