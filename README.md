@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [ERR_PNPM_BAD_PM_VERSION This project is configured to use vX of pnpm. Your current pnpm is vY](https://dev.to/michalbryxi/errpnpmbadpmversion-this-project-is-configured-to-use-vx-of-pnpm-your-current-pnpm-is-vy-e0e)
-- [Software Testing](https://dev.to/devi_sudhakar_12ec71f0137/software-testing-5hdh)
-- [HTB Academy: Password Attacks Module – Password Reuse/Default Passwords](https://dev.to/saramazal/htb-academy-password-attacks-module-password-reusedefault-passwords-pae)
-- [HTB Academy: Password Attacks Module - Password Mutations Section](https://dev.to/saramazal/htb-academy-password-attacks-module-password-mutations-section-25jb)
-- [Is Apple Leading the Next Tech Revolution?](https://dev.to/tally/is-apple-leading-the-next-tech-revolution-4a70)
+- [House Robber Problem](https://dev.to/theyashsawarkar/house-robber-problem-14o4)
+- [Let&#39;s understand the different types of NPM dependencies](https://dev.to/syed_ammar/lets-understand-the-different-types-of-npm-dependencies-bo8)
+- [Stellar by Example: Web2 to Web3 Beginner Guide.](https://dev.to/emee/stellar-by-example-web2-to-web3-beginner-guide-3665)
+- [Selenium](https://dev.to/devi_sudhakar_12ec71f0137/selenium-1k6j)
+- [What is selenium ? Why do we use selenium for automation ?](https://dev.to/nandhini_manikandan_/what-is-selenium-why-do-we-use-selenium-for-automation--hbi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
