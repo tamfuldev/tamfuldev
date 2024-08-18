@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [You are already doing great, you just don&#39;t know it yet.](https://dev.to/mousepotatodoesstuff/you-are-already-doing-great-you-just-dont-know-it-yet-3cd0)
-- [Day 20: Advanced CI/CD Practices in AWS – Blue-Green Deployments and Automated Testing](https://dev.to/singh_in_cloud/day-20-advanced-cicd-practices-in-aws-blue-green-deployments-and-automated-testing-g8e)
-- [React Essentials: Features You Might Be Missing](https://dev.to/saaransh_gupta_1903/react-essentials-features-you-might-be-missing-50ba)
-- [ExcelMapper: Simplify Excel Data Importation in Your PHP Projects](https://dev.to/esmaeilbahrani/excelmapper-simplify-excel-data-importation-in-your-php-projects-5gnm)
-- [Build a Web App with Oats~i – Setting Up](https://dev.to/oatsi/build-a-web-app-with-oatsi-setting-up-53al)
+- [SOLID - Day 1: S - Single Responsibility Principle &lpar;SRP&rpar;](https://dev.to/paulocappa/solid-day-1-s-single-responsibility-principle-srp-1f5k)
+- [5 Use Cases for Using Open Policy Agent](https://dev.to/yayabobi/5-use-cases-for-using-open-policy-agent-11me)
+- [Why every developer should learn Docker and Containers](https://dev.to/johnofgod33/why-every-developer-should-learn-docker-and-containers-341j)
+- [Breaking Into Tech: Transitioning from Medicine to a Coding Career in Just One Year](https://dev.to/snmeans/breaking-into-tech-transitioning-from-medicine-to-a-coding-career-in-just-one-year-15b9)
+- [Selecting selectors, selectively...](https://dev.to/codecara/selecting-selectors-selectively-8gg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
