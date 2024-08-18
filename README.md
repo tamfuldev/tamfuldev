@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Transform Ubuntu with These GNOME Tweaks! 🔥](https://dev.to/best_codes/transform-ubuntu-with-these-gnome-tweaks-31bp)
-- [What is BPM and How to Build a BPM App?](https://dev.to/nocobase/what-is-bpm-and-how-to-build-a-bpm-app-3bom)
-- [Implementing Polyfills in JavaScript: A Quick Dive](https://dev.to/kashifnehal/implementing-polyfills-in-javascript-a-quick-dive-39g1)
-- [The Importance of Web Standards and Best Practices: Why Reinventing the Wheel in JavaScript Often Leads to Worse Solutions](https://dev.to/yoshrubin/the-importance-of-web-standards-and-best-practices-why-reinventing-the-wheel-in-javascript-often-leads-to-worse-solutions-4ld)
-- [Coat of arms of the Republic of Uzbekistan.](https://dev.to/sunnat_qayumov/coat-of-arms-of-the-republic-of-uzbekistan-15bl)
+- [懈怠了 - FAV0周刊#011](https://dev.to/justin3go/xie-dai-liao-fav0zhou-kan-011-34gl)
+- [Slacking Off - FAV0 Weekly #011](https://dev.to/justin3go/slacking-off-fav0-weekly-011-aag)
+- [Turn any content into your knowledge base with AI](https://dev.to/jiajunyan/turn-any-content-into-your-knowledge-base-with-ai-56fo)
+- [arc42 for your software architecture: The best choice for sustainable documentation](https://dev.to/florianlenz/arc42-for-your-software-architecture-the-best-choice-for-sustainable-documentation-383p)
+- [Deep Dive into Java Exceptions](https://dev.to/chandra179/understanding-java-exceptions-a-deep-dive-into-error-handling-2jmg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
