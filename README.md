@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [懈怠了 - FAV0周刊#011](https://dev.to/justin3go/xie-dai-liao-fav0zhou-kan-011-34gl)
-- [Slacking Off - FAV0 Weekly #011](https://dev.to/justin3go/slacking-off-fav0-weekly-011-aag)
-- [Turn any content into your knowledge base with AI](https://dev.to/jiajunyan/turn-any-content-into-your-knowledge-base-with-ai-56fo)
-- [arc42 for your software architecture: The best choice for sustainable documentation](https://dev.to/florianlenz/arc42-for-your-software-architecture-the-best-choice-for-sustainable-documentation-383p)
-- [Deep Dive into Java Exceptions](https://dev.to/chandra179/understanding-java-exceptions-a-deep-dive-into-error-handling-2jmg)
+- [Learning to Like Neovim](https://dev.to/vst/learning-to-like-neovim-j5h)
+- [Why Django Web Development Outshines Traditional CMS Solutions](https://dev.to/teccmark_/why-django-web-development-outshines-traditional-cms-solutions-1o2i)
+- [Dive into the Fascinating World of Computer Science 🖥️](https://dev.to/getvm/dive-into-the-fascinating-world-of-computer-science-4fh3)
+- [How to Install Shadcn with Next.js 14: A Step-by-Step Guide](https://dev.to/swhabitation/how-to-install-shadcn-with-nextjs-14-a-step-by-step-guide-3ihb)
+- [CBJS: Path Traversal](https://dev.to/peppa6/cbjs-path-traversal-13ng)
 <!-- BLOG-POST-LIST:END -->
 
 ---
