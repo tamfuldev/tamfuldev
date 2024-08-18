@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Animata: New Tool for Effortless Animations in React &amp; Tailwind](https://dev.to/uicraft_by_pratik/introducing-animata-new-tool-for-effortless-animations-in-react-tailwind-19fm)
-- [Creating and Sending Transactions with Stellar’s JavaScript SDK](https://dev.to/suleiman_alhajimohammed_/creating-and-sending-transactions-with-stellars-javascript-sdk-1mla)
-- [&quot;Cross-Region Data Mirroring: 🚀 A Deep Dive into Cross-Region Replication Using Amazon S3 Batch Operation 🔄&quot;](https://dev.to/aws-builders/cross-region-data-mirroring-a-deep-dive-into-cross-region-replication-using-amazon-s3-batch-operation--7bp)
-- [React: Reusable, Decoupled, and Isolated](https://dev.to/carlosrambles/react-reusable-decoupled-and-isolated-6g3)
-- [The Revolution of Artificial Intelligence](https://dev.to/hamda_mirza_c7a7d996a13ef/the-revolution-of-artificial-intelligence-4a1e)
+- [Elastic RUM &lpar;Real User Monitoring&rpar; with Open Telemetry &lpar;OTel&rpar;](https://dev.to/rranjan/elastic-rum-real-user-monitoring-with-open-telemetry-otel-3nbg)
+- [Making a pastebin clone Part-1 TBC](https://dev.to/aymuos/making-a-pastebin-clone-part-1-tbc-24o0)
+- [Free 32+ APIs for Coders in 2024](https://dev.to/riturajps/free-32-apis-for-coders-in-2024-dam)
+- [DeepSeek-Prover advances theorem proving through reinforcement learning and Monte-Carlo Tree Search with proof assistant feedbac](https://dev.to/mikeyoung44/deepseek-prover-advances-theorem-proving-through-reinforcement-learning-and-monte-carlo-tree-search-with-proof-assistant-feedbac-kb9)
+- [Scientists replace bulky camera lenses with a mask and AI for compact, flexible imaging](https://dev.to/mikeyoung44/scientists-replace-bulky-camera-lenses-with-a-mask-and-ai-for-compact-flexible-imaging-1of6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
