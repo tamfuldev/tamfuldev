@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Host a Static Website on AWS Using S3, Route 53, CloudFront, and Certificate Manager](https://dev.to/jaideep247/how-to-host-a-static-website-on-aws-using-s3-route-53-cloudfront-and-certificate-manager-13p8)
-- [⌨️ 🔍🐛 Corrigindo atalhos no VSCode](https://dev.to/maiquitome/corrigindo-atalhos-no-vscode-4fo7)
-- [Intro2Stellar | Creating Wallet Web App | Using Python](https://dev.to/arnav_mehta__/intro2stellar-creating-wallet-web-app-using-python-34dg)
-- [Nextjs | Parallel routes VS Intercepting routes](https://dev.to/patrick_web/nextjs-parallel-routing-vs-intercepting-routing-1422)
-- [CSS Vs Tailwind: Choosing the Right Styling Tool for Your React Project](https://dev.to/michaelanazodo1/css-vs-tailwind-choosing-the-right-styling-tool-for-your-react-project-4jah)
+- [Today&#39;s Trending Projects: Building a React GitHub Heatmap Contributions and More](https://dev.to/labex/todays-trending-projects-building-a-react-github-heatmap-contributions-and-more-5gi0)
+- [A comprehensive guide to pinia](https://dev.to/primateisdev/a-comprehensive-guide-to-pinia-186l)
+- [How to Add React Three Fiber Rules to Eslint v9.0.0](https://dev.to/chrislanejones/how-to-add-react-three-fiber-rules-to-eslint-v900-36in)
+- [A Comprehensive Guide to Type Casting and Conversions in Go](https://dev.to/zakariachahboun/a-comprehensive-guide-to-type-casting-and-conversions-in-go-26di)
+- [Guidde integrated seamlessly AI create video](https://dev.to/olatunjiayodel9/guidde-integrated-seamlessly-ai-create-video-3p9a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
