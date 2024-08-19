@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [VS Code Themes I&#39;ve Made](https://dev.to/leonard/vs-code-themes-i-made-5doi)
-- [Demystifying the JavaScript Call Stack: How Your Code Really Runs](https://dev.to/adriangube/demystifying-the-javascript-call-stack-how-your-code-really-runs-9m)
-- [How can I remove blank part of image using javascript?](https://dev.to/kresi/how-can-i-remove-blank-part-of-image-using-javascript-3o9i)
-- [3d model in flutter](https://dev.to/syedabdulbasit7/3d-model-in-flutter-20la)
-- [Smaller, Free Database Providers I&#39;ve Found](https://dev.to/leonard/smaller-free-database-providers-ive-found-22fo)
+- [A beginner&#39;s guide to the Flux-Schnell model by Black-Forest-Labs on Replicate](https://dev.to/mikeyoung44/a-beginners-guide-to-the-flux-schnell-model-by-black-forest-labs-on-replicate-24e6)
+- [A beginner&#39;s guide to the Segment_anything_model model by Ayumuakagi on Replicate](https://dev.to/mikeyoung44/a-beginners-guide-to-the-segmentanythingmodel-model-by-ayumuakagi-on-replicate-25e9)
+- [A beginner&#39;s guide to the Proteus-V0.2 model by Datacte on Replicate](https://dev.to/mikeyoung44/a-beginners-guide-to-the-proteus-v02-model-by-datacte-on-replicate-210)
+- [A beginner&#39;s guide to the Flux-Dev model by Black-Forest-Labs on Replicate](https://dev.to/mikeyoung44/a-beginners-guide-to-the-flux-dev-model-by-black-forest-labs-on-replicate-429n)
+- [Investigate performance with Process Watch on AWS Graviton processors](https://dev.to/aws-builders/investigate-performance-with-process-watch-on-aws-graviton-processors-4970)
 <!-- BLOG-POST-LIST:END -->
 
 ---
