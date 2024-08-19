@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Quickly Integrate Free WAF with Nginx](https://dev.to/lulu_liu_c90f973e2f954d7f/quickly-integrate-free-waf-with-nginx-5kl)
-- [The Ultimate Stellar Supreme Tutorial](https://dev.to/_0xmorpheus/the-ultimate-stellar-supreme-tutorial-3ng5)
-- [Next.js + tRPC: Best practices for dApp development. Issuing new Assets + Freighter Wallet integration](https://dev.to/jose_carlostoscano_3bb03/nextjs-trpc-best-practices-for-dapp-development-issuing-new-assets-freighter-wallet-integration-1jk6)
-- [Stellar Wallet](https://dev.to/punky/stellar-wallet-3hei)
-- [Stellar Quest Repository](https://dev.to/wv_watson_9ff5e9c6d2040dd/stellar-quest-repository-42l0)
+- [FEATURE ENGINEERING FOR DATA SCIENCE](https://dev.to/kiplimo_patrick_24/feature-engineering-for-data-science-3hg6)
+- [GnuPG and Digital Signatures](https://dev.to/teooman/gnupg-and-digital-signatures-5dh8)
+- [Understanding Your Data: The Essentials of Exploratory Data Analysis](https://dev.to/davie7/understanding-your-data-the-essentials-of-exploratory-data-analysis-dd5)
+- [AI Chatbots in Frontend Development: Revolutionizing User Interaction with TensorFlow.js, Dialogflow, and Algorithmia](https://dev.to/madhujamitra/ai-chatbots-in-frontend-development-revolutionizing-user-interaction-with-tensorflowjs-dialogflow-and-algorithmia-140n)
+- [Custom AI Chatbot – 25 Best Use Cases](https://dev.to/pagepro_agency/custom-ai-chatbot-25-best-use-cases-1ppn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
