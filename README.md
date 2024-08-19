@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday](https://dev.to/ben/meme-monday-lgn)
-- [Why a Home Server Is a Must-Have for Every Tech Enthusiast](https://dev.to/nilebits/why-a-home-server-is-a-must-have-for-every-tech-enthusiast-49nf)
-- [Build a Web App with Oats~i – Starting an Oats~i App](https://dev.to/oatsi/build-a-web-app-with-oatsi-starting-an-oatsi-app-2pd)
-- [Top 5 Security Practices for Python Backend Developers](https://dev.to/pratik_chilate/top-5-security-practices-for-python-backend-developers-3cdo)
-- [The Journey to Zero Value Authentication in Turkish Market](https://dev.to/shopskasalad/the-journey-to-zero-value-authentication-in-turkish-market-if5)
+- [How to Build Your First Mobile App in Flutter: A Step-by-Step Guide](https://dev.to/futuristicgeeks/how-to-build-your-first-mobile-app-in-flutter-a-step-by-step-guide-3f67)
+- [Introducing RacingBars 📊](https://dev.to/hatemhosny/introducing-racingbars-245f)
+- [NMS Migration Made Easy: Get Stakeholders Aligned](https://dev.to/adatole/nms-migration-made-easy-get-stakeholders-aligned-nf4)
+- [Building Advanced Solutions with Power Apps and .NET Core](https://dev.to/paulotorrestech/building-advanced-solutions-with-power-apps-and-net-core-31fk)
+- [Intro to Bluetooth](https://dev.to/ccwell11/intro-to-bluetooth-520e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
