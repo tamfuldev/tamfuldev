@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A beginner&#39;s guide to the Flux-Schnell model by Black-Forest-Labs on Replicate](https://dev.to/mikeyoung44/a-beginners-guide-to-the-flux-schnell-model-by-black-forest-labs-on-replicate-24e6)
-- [A beginner&#39;s guide to the Segment_anything_model model by Ayumuakagi on Replicate](https://dev.to/mikeyoung44/a-beginners-guide-to-the-segmentanythingmodel-model-by-ayumuakagi-on-replicate-25e9)
-- [A beginner&#39;s guide to the Proteus-V0.2 model by Datacte on Replicate](https://dev.to/mikeyoung44/a-beginners-guide-to-the-proteus-v02-model-by-datacte-on-replicate-210)
-- [A beginner&#39;s guide to the Flux-Dev model by Black-Forest-Labs on Replicate](https://dev.to/mikeyoung44/a-beginners-guide-to-the-flux-dev-model-by-black-forest-labs-on-replicate-429n)
-- [Investigate performance with Process Watch on AWS Graviton processors](https://dev.to/aws-builders/investigate-performance-with-process-watch-on-aws-graviton-processors-4970)
+- [Official Supabase extension for VS Code and GitHub Copilot](https://dev.to/supabase/official-supabase-extension-for-vs-code-and-github-copilot-3gj4)
+- [Start with ES3: A Key to Easing JavaScript Learning for Beginners](https://dev.to/owens_akpede/start-with-es3-a-key-to-easing-javascript-learning-for-beginners-41m)
+- [Sharing my &quot;Year in Books&quot; using the Zola static site generator `load_data` method](https://dev.to/jaredforth/sharing-my-year-in-books-using-the-zola-static-site-generator-loaddata-method-3404)
+- [&lpar;2.13&rpar; Unlock the Full Potential of the Figma Dev &amp; Code Panel!](https://dev.to/dominicazuka/213-unlock-the-full-potential-of-the-figma-dev-code-panel-3747)
+- [🚀 2.12 Unlock the Power of Figma Team Libraries! 🌟](https://dev.to/dominicazuka/212-unlock-the-power-of-figma-team-libraries-565n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
