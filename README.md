@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dockerize NEXTJS and Setup Drizzle ORM with PostgreSQL locally with docker in NEXT.JS...](https://dev.to/nsrez/dockerize-nextjs-and-setup-drizzle-orm-with-postgresql-locally-with-docker-in-nextjs-4oli)
-- [What are your goals for week 34 of 2024?](https://dev.to/jarvisscript/what-are-your-goals-for-week-34-of-2024-kma)
-- [Debugging Common Lisp: &quot;I feel so much faster and free&quot;](https://dev.to/vindarel/debugging-common-lisp-i-feel-so-much-faster-and-free-4m3f)
-- [DevOps Project: Production Level CI/CD Pipeline Project](https://dev.to/prodevopsguytech/devops-project-production-level-cicd-pipeline-project-1iek)
-- [php: concurrency with processes. pt. 2: interprocess communication with shmop](https://dev.to/gbhorwood/php-concurrency-with-processes-pt-2-interprocess-communication-with-shmop-555k)
+- [Mastering Laravel Artisan Commands: Optimize, Tinker, and More](https://dev.to/asfiaaiman/mastering-laravel-artisan-commands-optimize-tinker-and-more-2lm1)
+- [Mining Pools: Explaining Concept Behind New Age of Mining](https://dev.to/endeo/mining-pools-explaining-concept-behind-new-age-of-mining-2c3d)
+- [Fast Packet IO](https://dev.to/rkj2096/fast-packet-io-3goh)
+- [Mastering React: The Comprehensive React Practice Labs Course](https://dev.to/labex/mastering-react-the-comprehensive-react-practice-labs-course-142)
+- [Getting Started with Angular: Complete Guide](https://dev.to/samirabawad/getting-started-with-angular-complete-guide-4p0p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
