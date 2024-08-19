@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Your First Mobile App in Flutter: A Step-by-Step Guide](https://dev.to/futuristicgeeks/how-to-build-your-first-mobile-app-in-flutter-a-step-by-step-guide-3f67)
-- [Introducing RacingBars 📊](https://dev.to/hatemhosny/introducing-racingbars-245f)
-- [NMS Migration Made Easy: Get Stakeholders Aligned](https://dev.to/adatole/nms-migration-made-easy-get-stakeholders-aligned-nf4)
-- [Building Advanced Solutions with Power Apps and .NET Core](https://dev.to/paulotorrestech/building-advanced-solutions-with-power-apps-and-net-core-31fk)
-- [Intro to Bluetooth](https://dev.to/ccwell11/intro-to-bluetooth-520e)
+- [Nitric is Terraform for Developers](https://dev.to/rsiv/nitric-is-terraform-for-developers-3560)
+- [TOP 4 FEATURES IN VS CODE YOU SHOULD USE!](https://dev.to/mince/top-4-features-in-vs-code-you-should-use-3gl9)
+- [10 Code Snippets Every Developer Should Know: Essential Tools for Everyday Coding](https://dev.to/bytesupreme/10-code-snippets-every-developer-should-know-essential-tools-for-everyday-coding-3908)
+- [Announcing Tracetest Enterprise On-Prem Solution](https://dev.to/kubeshop/announcing-tracetest-enterprise-on-prem-solution-4mkj)
+- [React: stale closure](https://dev.to/animusna/react-stale-closure-81a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
