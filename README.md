@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Postmortem: The Popcorn Panic](https://dev.to/nturajo/postmortem-the-popcorn-panic-15m0)
-- [Nextjs中使用axios实现一个动态的下载/上传进度条](https://dev.to/longlikun/nextjszhong-shi-yong-axiosshi-xian-ge-dong-tai-de-xia-zai-shang-chuan-jin-du-tiao-1dph)
-- [Beauty on the Blockchain](https://dev.to/bcrebel/beauty-on-the-blockchain-348c)
-- [How to Create Your Own Form with Power Automate](https://dev.to/wyattdave/how-to-create-your-own-form-with-power-automate-4546)
-- [Thoughts on Real-Time Pattern Detection and AI Principles](https://dev.to/mattferrin/thoughts-on-real-time-pattern-detection-and-ai-principles-3egk)
+- [Quickly Integrate Free WAF with Nginx](https://dev.to/lulu_liu_c90f973e2f954d7f/quickly-integrate-free-waf-with-nginx-5kl)
+- [The Ultimate Stellar Supreme Tutorial](https://dev.to/_0xmorpheus/the-ultimate-stellar-supreme-tutorial-3ng5)
+- [Next.js + tRPC: Best practices for dApp development. Issuing new Assets + Freighter Wallet integration](https://dev.to/jose_carlostoscano_3bb03/nextjs-trpc-best-practices-for-dapp-development-issuing-new-assets-freighter-wallet-integration-1jk6)
+- [Stellar Wallet](https://dev.to/punky/stellar-wallet-3hei)
+- [Stellar Quest Repository](https://dev.to/wv_watson_9ff5e9c6d2040dd/stellar-quest-repository-42l0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
