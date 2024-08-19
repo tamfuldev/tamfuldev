@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Official Supabase extension for VS Code and GitHub Copilot](https://dev.to/supabase/official-supabase-extension-for-vs-code-and-github-copilot-3gj4)
-- [Start with ES3: A Key to Easing JavaScript Learning for Beginners](https://dev.to/owens_akpede/start-with-es3-a-key-to-easing-javascript-learning-for-beginners-41m)
-- [Sharing my &quot;Year in Books&quot; using the Zola static site generator `load_data` method](https://dev.to/jaredforth/sharing-my-year-in-books-using-the-zola-static-site-generator-loaddata-method-3404)
-- [&lpar;2.13&rpar; Unlock the Full Potential of the Figma Dev &amp; Code Panel!](https://dev.to/dominicazuka/213-unlock-the-full-potential-of-the-figma-dev-code-panel-3747)
-- [🚀 2.12 Unlock the Power of Figma Team Libraries! 🌟](https://dev.to/dominicazuka/212-unlock-the-power-of-figma-team-libraries-565n)
+- [Day 1013 : Somehow](https://dev.to/dwane/day-1013-somehow-18a5)
+- [Pare de fazer comparações patéticas](https://dev.to/ebraim_sambo/pare-de-fazer-comparacoes-pateticas-548k)
+- [Exploring the Program.cs File: Key Components and Configuration in ASP.NET Web API](https://dev.to/emrekocadere/exploring-the-programcs-file-key-components-and-configuration-in-aspnet-web-api-kh4)
+- [GSoC Week 12](https://dev.to/chiemezuo/gsoc-week-12-eik)
+- [File Uploads with HTMX and Golang](https://dev.to/coderonfleek/file-uploads-with-htmx-and-golang-57ad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
