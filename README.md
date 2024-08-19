@@ -16,7 +16,7 @@
 # Latest stack oveflow activity
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><tr><td>Loop for Postcards with Sorting</td><td>https://stackoverflow.com/questions/78886025/loop-for-postcards-with-sorting</td></tr><tr><td>Middleware Laravel 11?</td><td>https://stackoverflow.com/questions/78885921/middleware-laravel-11</td></tr><tr><td>Logging errors to stdout in docker with php-fpm</td><td>https://stackoverflow.com/questions/78885707/logging-errors-to-stdout-in-docker-with-php-fpm</td></tr><tr><td>FilamentPHP + Spatie Media library plugin: Images are not being saved</td><td>https://stackoverflow.com/questions/78885634/filamentphp-spatie-media-library-plugin-images-are-not-being-saved</td></tr><tr><td>Grid 4 PHP shows error only on SQL failure</td><td>https://stackoverflow.com/questions/78885420/grid-4-php-shows-error-only-on-sql-failure</td></tr><!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:START --><tr><td>Continuously update the sitemap content without refreshing the page</td><td>https://stackoverflow.com/questions/78886207/continuously-update-the-sitemap-content-without-refreshing-the-page</td></tr><tr><td>gRPC Calls from Laravel Returning Null</td><td>https://stackoverflow.com/questions/78886182/grpc-calls-from-laravel-returning-null</td></tr><tr><td>Loop for Postcards with Sorting</td><td>https://stackoverflow.com/questions/78886025/loop-for-postcards-with-sorting</td></tr><tr><td>Middleware Laravel 11?</td><td>https://stackoverflow.com/questions/78885921/middleware-laravel-11</td></tr><tr><td>Logging errors to stdout in docker with php-fpm</td><td>https://stackoverflow.com/questions/78885707/logging-errors-to-stdout-in-docker-with-php-fpm</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 
 ---
