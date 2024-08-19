@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Control Your Thoughts as a Developer](https://dev.to/thekarlesi/how-to-control-your-thoughts-as-a-developer-4a7j)
-- [How to Enable LPD Print Service in Windows 11?](https://dev.to/winsides/how-to-enable-lpd-print-service-in-windows-11-g0l)
-- [I Like to Move It, Move It &lpar;Part 2&rpar;](https://dev.to/nmiller15/i-like-to-move-it-move-it-part-2-4p12)
-- [Pokemon Puzzle Game with React Js - Full Project Tutorial](https://dev.to/imrankh13332994/pokemon-puzzle-game-with-react-js-full-project-tutorial-14f8)
-- [Feature Engineering 101: The Art of Enhancing Machine Models](https://dev.to/samtheanalyst/feature-engineering-101-the-art-of-enhancing-machine-models-31e)
+- [Meme Monday](https://dev.to/ben/meme-monday-lgn)
+- [Why a Home Server Is a Must-Have for Every Tech Enthusiast](https://dev.to/nilebits/why-a-home-server-is-a-must-have-for-every-tech-enthusiast-49nf)
+- [Build a Web App with Oats~i – Starting an Oats~i App](https://dev.to/oatsi/build-a-web-app-with-oatsi-starting-an-oatsi-app-2pd)
+- [Top 5 Security Practices for Python Backend Developers](https://dev.to/pratik_chilate/top-5-security-practices-for-python-backend-developers-3cdo)
+- [The Journey to Zero Value Authentication in Turkish Market](https://dev.to/shopskasalad/the-journey-to-zero-value-authentication-in-turkish-market-if5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
