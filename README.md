@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Bye Bye, Try-Catch Blocks: Meet JavaScript&#39;s Safe Assignment Operator Proposal😉](https://dev.to/dharamgfx/bye-bye-try-catch-blocks-meet-javascripts-safe-assignment-operator-proposal-1j7)
-- [From Zero to Front-End Hero: My Journey into Web Development](https://dev.to/natasa90/from-zero-to-front-end-hero-my-journey-into-web-development-2hp3)
-- [Building a Dynamic Gradient Tab Indicator in Flutter](https://dev.to/utitofon_udoekong/building-a-dynamic-gradient-tab-indicator-in-flutter-5b8h)
-- [SOLID: L - Liskov Substitution Principle &lpar;LSP&rpar;](https://dev.to/paulocappa/solid-l-liskov-substitution-principle-lsp-3o2k)
-- [Un-frameworking myself](https://dev.to/dandeduck/un-frameworking-myself-12a9)
+- [**Cómo Crear una API REST con Nest.js y TypeScript**](https://dev.to/orlidev/como-crear-una-api-rest-con-nestjs-y-typescript-14j0)
+- [Figma to SwiftUI](https://dev.to/builderio/figma-to-swiftui-10mb)
+- [A Great Book for Beginners…](https://dev.to/lordshazzle/a-great-book-for-beginners-48ha)
+- [Unlocking Node.js Success: Avoid These 10 Common Pitfalls That Every Developer Must Know](https://dev.to/aurangzaibramzan/unlocking-nodejs-success-avoid-these-10-common-pitfalls-that-every-developer-must-know-2j90)
+- [Playing the Long Game in Frontend Development: Reflections on Balancing Ambition and Execution](https://dev.to/eransakal/playing-the-long-game-in-frontend-development-reflections-on-balancing-ambition-and-execution-1d7d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
