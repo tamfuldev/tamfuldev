@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Part II: Foundations of Logical Thinking in Programming, Logical Connectors](https://dev.to/ivansing/part-ii-foundations-of-logical-thinking-in-programming-logical-connectors-15od)
-- [Weekly Indie Log #18](https://dev.to/hirvesh/weekly-indie-log-18-10el)
-- [Should Senior Software Engineers do Project Management?](https://dev.to/denwerok/should-senior-software-engineers-do-project-management-22dl)
-- [7 Essential Tips for Improving Operational Efficiency in Healthcare](https://dev.to/yayabobi/7-essential-tips-for-improving-operational-efficiency-in-healthcare-1l6m)
-- [Mastering Code: Why Programming is Indispensable in Cybersecurity](https://dev.to/zerodayrebel/mastering-code-why-programming-is-indispensable-in-cybersecurity-2714)
+- [Reminder about Friendly.rb - one month to the conference](https://dev.to/lucianghinda/reminder-about-friendlyrb-one-month-to-the-conference-1c6p)
+- [The Evolution of React State Management: From Local to Async](https://dev.to/ocodista/the-evolution-of-react-state-management-from-local-to-async-30g9)
+- [How To Deploy Your Angular Project in Hostinger](https://dev.to/laynsleaf/how-to-deploy-your-angular-project-in-hostinger-3115)
+- [Finding the Best Web Host as a Beginner](https://dev.to/laynsleaf/finding-the-best-web-host-as-a-beginner-2l49)
+- [The 2024 Software Engineer&#39;s Survival Guide: Navigating the Job Market Jungle](https://dev.to/recruiter-emily/the-2024-software-engineers-survival-guide-navigating-the-job-market-jungle-1cgh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
