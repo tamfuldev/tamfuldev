@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Tutorial Menggunakan jQuery pada WordPress dengan benar](https://dev.to/dhimaskirana/tutorial-menggunakan-jquery-pada-wordpress-dengan-benar-2i0a)
-- [How to Create a Self-Signed SSL Certificate for Nginx on Ubuntu 22.04](https://dev.to/moha528/how-to-create-a-self-signed-ssl-certificate-for-nginx-on-ubuntu-2204-165j)
-- [Best Practices for Organizing Java Spring Boot Projects](https://dev.to/matheusmartinello/best-practices-for-organizing-java-spring-boot-projects-40c4)
-- [Configuring Nginx as a Reverse Proxy on Ubuntu 22.04](https://dev.to/moha528/configuring-nginx-as-a-reverse-proxy-on-ubuntu-2204-1na3)
-- [Mais sintaxe básica - Loops e Exceções](https://dev.to/lnabesima/mais-sintaxe-basica-loops-e-excecoes-1c8g)
+- [How to use boto3 with Google Colab and AWS integration](https://dev.to/kyotanakada/how-to-use-boto3-with-google-colab-and-aws-integration-4c2m)
+- [Top 3 projects to build to learn a programming language](https://dev.to/ezpieco/top-3-projects-to-build-to-learn-a-programming-language-4kpi)
+- [React Server Actions: Enhancing Performance with Server-Side Rendering](https://dev.to/tl23143/react-server-actions-enhancing-performance-with-server-side-rendering-5732)
+- [Today&#39;s Trending Projects: Building Reusable Pagination Component and More](https://dev.to/labex/todays-trending-projects-building-reusable-pagination-component-and-more-4769)
+- [Como usar o React Router Dom versão 6.26.0 em seu projeto com react js.](https://dev.to/michaelmoranis/como-usar-o-react-router-dom-versao-6260-e-como-ter-rotas-aninhadas-em-seu-projeto-com-react-js-4pi8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
