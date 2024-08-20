@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Improve App Availability with Preemptible Pods and PriorityClasses](https://dev.to/antweiss/improve-app-availability-with-preemptible-pods-and-priorityclasses-3gh2)
-- [Visualizing Truth: Large Language Models Linearly Separate True and False Statements](https://dev.to/mikeyoung44/visualizing-truth-large-language-models-linearly-separate-true-and-false-statements-380h)
-- [Redux vs. Redux Toolkit: A Comprehensive Guide](https://dev.to/irohomolola/redux-vs-redux-toolkit-a-comprehensive-guide-2l7)
-- [Tracking Evolution of Hashtags: Graph-Based Approach for Textual Streams](https://dev.to/mikeyoung44/tracking-evolution-of-hashtags-graph-based-approach-for-textual-streams-fc7)
-- [KANs vs MLPs: A Fair Comparison of Capabilities and Performance](https://dev.to/mikeyoung44/kans-vs-mlps-a-fair-comparison-of-capabilities-and-performance-1i4h)
+- [Bye Bye, Try-Catch Blocks: Meet JavaScript&#39;s Safe Assignment Operator Proposal😉](https://dev.to/dharamgfx/bye-bye-try-catch-blocks-meet-javascripts-safe-assignment-operator-proposal-1j7)
+- [From Zero to Front-End Hero: My Journey into Web Development](https://dev.to/natasa90/from-zero-to-front-end-hero-my-journey-into-web-development-2hp3)
+- [Building a Dynamic Gradient Tab Indicator in Flutter](https://dev.to/utitofon_udoekong/building-a-dynamic-gradient-tab-indicator-in-flutter-5b8h)
+- [SOLID: L - Liskov Substitution Principle &lpar;LSP&rpar;](https://dev.to/paulocappa/solid-l-liskov-substitution-principle-lsp-3o2k)
+- [Un-frameworking myself](https://dev.to/dandeduck/un-frameworking-myself-12a9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
