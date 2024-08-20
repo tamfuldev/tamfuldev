@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1013 : Somehow](https://dev.to/dwane/day-1013-somehow-18a5)
-- [Pare de fazer comparações patéticas](https://dev.to/ebraim_sambo/pare-de-fazer-comparacoes-pateticas-548k)
-- [Exploring the Program.cs File: Key Components and Configuration in ASP.NET Web API](https://dev.to/emrekocadere/exploring-the-programcs-file-key-components-and-configuration-in-aspnet-web-api-kh4)
-- [GSoC Week 12](https://dev.to/chiemezuo/gsoc-week-12-eik)
-- [File Uploads with HTMX and Golang](https://dev.to/coderonfleek/file-uploads-with-htmx-and-golang-57ad)
+- [Tutorial Menggunakan jQuery pada WordPress dengan benar](https://dev.to/dhimaskirana/tutorial-menggunakan-jquery-pada-wordpress-dengan-benar-2i0a)
+- [How to Create a Self-Signed SSL Certificate for Nginx on Ubuntu 22.04](https://dev.to/moha528/how-to-create-a-self-signed-ssl-certificate-for-nginx-on-ubuntu-2204-165j)
+- [Best Practices for Organizing Java Spring Boot Projects](https://dev.to/matheusmartinello/best-practices-for-organizing-java-spring-boot-projects-40c4)
+- [Configuring Nginx as a Reverse Proxy on Ubuntu 22.04](https://dev.to/moha528/configuring-nginx-as-a-reverse-proxy-on-ubuntu-2204-1na3)
+- [Mais sintaxe básica - Loops e Exceções](https://dev.to/lnabesima/mais-sintaxe-basica-loops-e-excecoes-1c8g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
