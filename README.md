@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Assalomu Aleykum 17.08.24 biz c++ codlash tilida 7 darsimizni otdik va bu meni tasuryotlarim](https://dev.to/_e9348e45782d50818/assalomu-aleykum-170824-biz-c-codlash-tilida-7-darsimizni-otdik-va-bu-meni-tasuryotlarim-4375)
-- [🌟 Create a Professional Card UI Animations Using HTML, CSS, and Font Awesome](https://dev.to/uicraft_by_pratik/create-a-professional-card-ui-animations-using-html-css-and-font-awesome-52i2)
-- [Introduction to Keycloak](https://dev.to/amritashrestha/introduction-to-keycloak-6j5)
-- [How Does Amazon Balance Coding Speed with Quality?](https://dev.to/andrewbedard/how-does-amazon-balance-coding-speed-with-quality-2l26)
-- [How does the browser process the URL input in the address bar?](https://dev.to/logto/how-does-the-browser-process-the-url-input-in-the-address-bar-4mne)
+- [2.14 Prototyping in Figma](https://dev.to/dominicazuka/214-prototyping-in-figma-5ccj)
+- [Quickly Deploy and Test SafeLine: A Free Open-Source WAF](https://dev.to/sherbertill6/quickly-deploy-and-test-safeline-a-free-open-source-waf-369f)
+- [Generating secrets for applications](https://dev.to/7ji9xmel/generating-secrets-for-applications-4iml)
+- [Understanding the Fetch API: The Future of Network Requests in Web Development](https://dev.to/code_passion/understanding-the-fetch-api-the-future-of-network-requests-in-web-development-5191)
+- [JavaScript Design Patterns - Behavioral - Template](https://dev.to/nhannguyendevjs/javascript-design-patterns-behavioral-template-48d5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
