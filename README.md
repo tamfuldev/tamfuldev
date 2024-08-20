@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [**Cómo Crear una API REST con Nest.js y TypeScript**](https://dev.to/orlidev/como-crear-una-api-rest-con-nestjs-y-typescript-14j0)
-- [Figma to SwiftUI](https://dev.to/builderio/figma-to-swiftui-10mb)
-- [A Great Book for Beginners…](https://dev.to/lordshazzle/a-great-book-for-beginners-48ha)
-- [Unlocking Node.js Success: Avoid These 10 Common Pitfalls That Every Developer Must Know](https://dev.to/aurangzaibramzan/unlocking-nodejs-success-avoid-these-10-common-pitfalls-that-every-developer-must-know-2j90)
-- [Playing the Long Game in Frontend Development: Reflections on Balancing Ambition and Execution](https://dev.to/eransakal/playing-the-long-game-in-frontend-development-reflections-on-balancing-ambition-and-execution-1d7d)
+- [Why is everything in software development so f*king complicated?](https://dev.to/climentea/why-is-everything-in-software-development-so-fking-complicated-41p9)
+- [A Comprehensive Guide to Scikit-Learn: Unveiling the Power of Python&#39;s Premier Machine Learning Library](https://dev.to/amitchandra/a-comprehensive-guide-to-scikit-learn-unveiling-the-power-of-pythons-premier-machine-learning-library-jhe)
+- [Help! Problems with I18n into my project &lpar;Laravel + Vue.js&rpar;](https://dev.to/alexanderlee/help-problems-with-i18n-into-my-project-laravel-vuejs-1lff)
+- [A comprehensive list of things to consinder when making a network call in mobile app](https://dev.to/prudhvir3ddy/a-comprehensive-list-of-things-to-consinder-when-making-a-network-call-in-mobile-app-1ga3)
+- [15 TypeScript Features That Will Make You a Better JavaScript Developer](https://dev.to/dipakahirav/15-typescript-features-that-will-make-you-a-better-javascript-developer-1lh1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
