@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Widget #2: Notification Card with Call-to-Action](https://dev.to/dilsemonk/widget-2-notification-card-with-call-to-action-38i9)
-- [Query Explain Type](https://dev.to/mossymoo/query-explain-type-44g5)
-- [Dive into the Fascinating World of Embedded Systems with Professor Paz&#39;s Course! 🤖](https://dev.to/getvm/dive-into-the-fascinating-world-of-embedded-systems-with-professor-pazs-course-4in2)
-- [No More Pages](https://dev.to/itaikla/no-more-pages-5gm7)
-- [Why do Developers Hate Writing API Documentation and How to Address It？](https://dev.to/apilover/why-do-developers-hate-writing-api-documentation-and-how-to-address-it-4p4j)
+- [Assalomu Aleykum 17.08.24 biz c++ codlash tilida 7 darsimizni otdik va bu meni tasuryotlarim](https://dev.to/_e9348e45782d50818/assalomu-aleykum-170824-biz-c-codlash-tilida-7-darsimizni-otdik-va-bu-meni-tasuryotlarim-4375)
+- [🌟 Create a Professional Card UI Animations Using HTML, CSS, and Font Awesome](https://dev.to/uicraft_by_pratik/create-a-professional-card-ui-animations-using-html-css-and-font-awesome-52i2)
+- [Introduction to Keycloak](https://dev.to/amritashrestha/introduction-to-keycloak-6j5)
+- [How Does Amazon Balance Coding Speed with Quality?](https://dev.to/andrewbedard/how-does-amazon-balance-coding-speed-with-quality-2l26)
+- [How does the browser process the URL input in the address bar?](https://dev.to/logto/how-does-the-browser-process-the-url-input-in-the-address-bar-4mne)
 <!-- BLOG-POST-LIST:END -->
 
 ---
