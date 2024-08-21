@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Power of Slow but Consistent Effort in Computer Science](https://dev.to/lordshazzle/the-power-of-slow-but-consistent-effort-in-computer-science-3oi3)
-- [What is a typical day like as a developer? 🖥️😵‍💫☕](https://dev.to/adriangube/how-is-a-day-in-a-developers-life-3oj8)
-- [Global Error Handling in .NET 8](https://dev.to/minhduc159/global-error-handling-in-net-8-106a)
-- [Designing the Ultimate AWS EKS Cluster: A Terraform Blueprint for Success](https://dev.to/citrux-digital/designing-the-ultimate-aws-eks-cluster-a-terraform-blueprint-for-success-2j9p)
-- [Looking for a Ham Radio web developer w/SSE experience.](https://dev.to/kkaiser1952/looking-for-a-ham-radio-web-developer-wsse-experience-5dp0)
+- [ARIA attributes in HTML: A comprehensive guide 🌐](https://dev.to/disane/aria-attributes-in-html-a-comprehensive-guide-577e)
+- [Self Hosting with Tailscale and Caddy](https://dev.to/dracarys18/self-hosting-with-tailscale-and-caddy-4o94)
+- [Recommended: &quot;Python Practice Labs&quot; Course](https://dev.to/labex/recommended-python-practice-labs-course-1dhc)
+- [Langchain Chat Assistant using Chainlit App](https://dev.to/jivaniyash/langchain-chat-assistant-using-chainlit-app-2j5a)
+- [The Power of Reconnaissance in Cyber Security: Why You Should Prioritize Recon](https://dev.to/zerodayrebel/the-power-of-reconnaissance-in-cyber-security-why-you-should-prioritize-recon-3od4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
