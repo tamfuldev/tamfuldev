@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v290](https://dev.to/devteam/welcome-thread-v290-g2k)
-- [Mastering Reflection in Golang: When and How to Use It](https://dev.to/tl23143/mastering-reflection-in-golang-when-and-how-to-use-it-pfj)
-- [#48 — In An Excel Table, Find Rows Corresponding to The 1st And The Last Non-Empty Cells in Each Column](https://dev.to/judith677/48-in-an-excel-table-find-rows-corresponding-to-the-1st-and-the-last-non-empty-cells-in-each-column-4gob)
-- [Pre-training, Fine-tuning, and Transfer learning. To make these ideas more relatable, let&#39;s use a real-world analogy](https://dev.to/sreeni5018/pre-training-fine-tuning-and-transfer-learning-to-make-these-ideas-more-relatable-lets-use-a-real-world-analogy-3d0o)
-- [SafeLine: A User-Friendly, Free Web Security WAF Solution](https://dev.to/lulu_liu_c90f973e2f954d7f/safeline-a-user-friendly-free-web-security-waf-solution-16ee)
+- [🙅10 Common React.js Errors and How to Solve Them✨](https://dev.to/uicraft_by_pratik/10-common-reactjs-errors-and-how-to-solve-them-5181)
+- [JavaScript Execution Context!](https://dev.to/mojahidulislam11/javascript-execution-context-1c59)
+- [Configuring a Load Balancer for Your Web Application: A Comprehensive Guide](https://dev.to/adityabhuyan/configuring-a-load-balancer-for-your-web-application-a-comprehensive-guide-1ch8)
+- [Speeding up Python code with C &lpar;and no extra libraries&rpar;](https://dev.to/doctorserone/speeding-up-python-code-with-c-and-no-extra-libraries-1k82)
+- [How to paginate queries in Firestore?](https://dev.to/thebuildguy/how-to-paginate-queries-in-firestore-3pdc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
