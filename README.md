@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to style your React Native apps?](https://dev.to/hellonehha/how-to-style-your-react-native-apps-4bb0)
-- [Starting Vuejs as a beginner; Top concepts you need to know](https://dev.to/pluri45/starting-vuejs-as-a-beginner-top-concepts-you-need-to-know-9ib)
-- [664. Strange Printer](https://dev.to/mdarifulhaque/664-strange-printer-2mpj)
-- [Back of the envelope estimations, começando a entrevista de system design](https://dev.to/erick_tmr/back-of-the-envelope-estimations-comecando-a-entrevista-de-system-design-5cc0)
-- [Implementing “Get or Create” in YugabyteDB &lpar;or PostgreSQL&rpar;](https://dev.to/yugabyte/implementing-get-or-create-in-yugabytedb-or-postgresql-1p3e)
+- [Project 1: Expanding Cards - My &#39;50 Projects in 50 Days&#39; Journey](https://dev.to/alishata128/project-1-expanding-cards-my-50-projects-in-50-days-journey-1na6)
+- [Web Graphics Tutorial: Learn by doing!](https://dev.to/annavi11arrea1/web-graphics-tutorial-learn-by-doing-474p)
+- [Day 1015 : When It Rains](https://dev.to/dwane/day-1015-when-it-rains-15e6)
+- [AWS Elastic Beanstalk vs. AWS Amplify: Choosing the Right Tool for Your App’s Success](https://dev.to/oloruntobiolurombi/aws-elastic-beanstalk-vs-aws-amplify-choosing-the-right-tool-for-your-apps-success-hjc)
+- [Third course on python](https://dev.to/king-favour/third-course-on-python-2ag7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
