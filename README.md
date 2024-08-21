@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dynamic Island Liquid Animation with React Native Skia](https://dev.to/willkre/dynamic-island-liquid-animation-with-react-native-skia-5aeg)
-- [Reinstalling Required Software Using Winget](https://dev.to/vhsv90/reinstalling-required-software-using-winget-1h3i)
-- [Scroll-Responsive Animated Header Bar with Expo Router](https://dev.to/willkre/scroll-responsive-animated-header-bar-with-expo-router-1o7m)
-- [Understanding Apache Iceberg&#39;s metadata.json file](https://dev.to/alexmercedcoder/understanding-apache-icebergs-metadatajson-file-23f)
-- [13 VS Code extensions that every Frontend developer should have](https://dev.to/mankaa_dev/13-vs-code-extensions-that-every-frontend-developer-should-have-4pkn)
+- [The Power of Slow but Consistent Effort in Computer Science](https://dev.to/lordshazzle/the-power-of-slow-but-consistent-effort-in-computer-science-3oi3)
+- [What is a typical day like as a developer? 🖥️😵‍💫☕](https://dev.to/adriangube/how-is-a-day-in-a-developers-life-3oj8)
+- [Global Error Handling in .NET 8](https://dev.to/minhduc159/global-error-handling-in-net-8-106a)
+- [Designing the Ultimate AWS EKS Cluster: A Terraform Blueprint for Success](https://dev.to/citrux-digital/designing-the-ultimate-aws-eks-cluster-a-terraform-blueprint-for-success-2j9p)
+- [Looking for a Ham Radio web developer w/SSE experience.](https://dev.to/kkaiser1952/looking-for-a-ham-radio-web-developer-wsse-experience-5dp0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
