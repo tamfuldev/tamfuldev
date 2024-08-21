@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Widget #3: Image Card with Overlay Text](https://dev.to/dilsemonk/widget-3-image-card-with-overlay-text-4ccp)
+- [A Simpler Way to Calculate WorldQuant 101 Alphas](https://dev.to/dolphindb/a-simpler-way-to-calculate-worldquant-101-alphas-m32)
+- [🧪 vscode test current file task](https://dev.to/omura_519/vscode-test-current-file-task-1bn8)
 - [#Leveraging AI for Bug Bounty Hunting: A Modern Approach](https://dev.to/gadekar_sachin/leveraging-ai-for-bug-bounty-hunting-a-modern-approach-4idl)
 - [Prisma or TypeORM ?](https://dev.to/visiondotio/prisma-or-typeorm--43bj)
-- [The Link to a Connected Retail World: GS1 Digital QR Code](https://dev.to/asmith182024/the-link-to-a-connected-retail-world-gs1-digital-qr-code-3lii)
-- [VueJS MVVM 模型與 Pure HTML5 的比較](https://dev.to/kueiapp/vuejs-mvvm-mo-xing-yu-pure-html5-de-bi-jiao-jig)
-- [Custom Mailchimp Integration: A Guide for WordPress and Laravel](https://dev.to/shimanta_microcodes/custom-mailchimp-integration-a-guide-for-wordpress-and-laravel-4dla)
 <!-- BLOG-POST-LIST:END -->
 
 ---
