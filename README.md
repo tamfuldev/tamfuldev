@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Today&#39;s Trending Projects: Flappy Bird Detection in Video Using Match Template and More](https://dev.to/labex/todays-trending-projects-flappy-bird-detection-in-video-using-match-template-and-more-2njh)
-- [Issue 57 &amp; 58 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-57-58-of-aws-cloud-security-weekly-5fo1)
-- [Understanding JavaScript Objects: The Building Blocks of Your Code](https://dev.to/csrafsan/understanding-javascript-objects-the-building-blocks-of-your-code-1odo)
-- [An &lpar;Im&rpar;mutable Shopping List for a Delicious Pesto Pasta](https://dev.to/lakadaize/an-immutable-shopping-list-for-a-delicious-pesto-pasta-2jd6)
-- [Introduction to TensorFlow Extended &lpar;TFX&rpar;](https://dev.to/kartikmehta8/introduction-to-tensorflow-extended-tfx-4981)
+- [#Leveraging AI for Bug Bounty Hunting: A Modern Approach](https://dev.to/gadekar_sachin/leveraging-ai-for-bug-bounty-hunting-a-modern-approach-4idl)
+- [Prisma or TypeORM ?](https://dev.to/visiondotio/prisma-or-typeorm--43bj)
+- [The Link to a Connected Retail World: GS1 Digital QR Code](https://dev.to/asmith182024/the-link-to-a-connected-retail-world-gs1-digital-qr-code-3lii)
+- [VueJS MVVM 模型與 Pure HTML5 的比較](https://dev.to/kueiapp/vuejs-mvvm-mo-xing-yu-pure-html5-de-bi-jiao-jig)
+- [Custom Mailchimp Integration: A Guide for WordPress and Laravel](https://dev.to/shimanta_microcodes/custom-mailchimp-integration-a-guide-for-wordpress-and-laravel-4dla)
 <!-- BLOG-POST-LIST:END -->
 
 ---
