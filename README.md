@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Comparing POJOs, JavaBeans, and Spring Beans in Detail](https://dev.to/isaactony/comparing-pojos-javabeans-and-spring-beans-in-detail-3f1)
-- [ReductStore v1.11.0: Changing labels and storage engine optimization](https://dev.to/reductstore/release-v1110-changing-labels-and-storage-engine-optimization-3h3f)
-- [Expose EKS tekton pipeline dashboard with ssl enabled](https://dev.to/asraful_haque/expose-eks-tekton-pipeline-dashboard-with-ssl-enabled-3p4c)
-- [2.5 Creating a serious Svelte Information System - &lpar;b&rpar; Security, Error-handling, Deployment](https://dev.to/mjoycemilburn/ngatesystems-post-series-v2-25-539l)
-- [2.4 Creating a serious Svelte webapp - &lpar;a&rpar; Pages, Layouts, Components](https://dev.to/mjoycemilburn/ngatesystems-post-series-v2-24-4421)
+- [React Server Components &lpar;RSC&rpar;: The Future of Rendering in React 🔮](https://dev.to/margish288/react-server-components-rsc-the-future-of-rendering-in-react-1hd)
+- [5 Project Planning Tools You Need to Succeed in Any Business [With Examples]](https://dev.to/thomasy0ung/5-project-planning-tools-you-need-to-succeed-in-any-business-with-examples-8np)
+- [DevOps Project: High Level Monitoring in DevOps](https://dev.to/prodevopsguytech/devops-project-high-level-monitoring-in-devops-png)
+- [Understand BeanFactory and ApplicationContext](https://dev.to/isaactony/understand-beanfactory-and-applicationcontext-20n9)
+- [Mastering the Node.js: A Comprehensive Guide](https://dev.to/danteon/mastering-the-nodejs-a-comprehensive-guide-4e7n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
