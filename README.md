@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Create A Sports Team Roster From Google Docs Template Using Google Sheets Data](https://dev.to/nightwolfdev/create-a-sports-team-roster-from-google-docs-template-using-google-sheets-data-3ol2)
-- [Exploring the Future of Web Development with AI-Generated Content](https://dev.to/raycoder/exploring-the-future-of-web-development-with-ai-generated-content-2420)
-- [Q&amp;A about Big Data](https://dev.to/rj4793/qa-about-big-data-4dm9)
-- [Mastering File Uploads with HTML](https://dev.to/stephanie_obiekezie_0d18f/mastering-file-uploads-with-html-3dd3)
-- [Why we use snake_case for variables and camelCase for functions](https://dev.to/alexleduc76/why-we-use-snakecase-for-variables-and-camelcase-for-functions-4hm9)
+- [Today&#39;s Trending Projects: Flappy Bird Detection in Video Using Match Template and More](https://dev.to/labex/todays-trending-projects-flappy-bird-detection-in-video-using-match-template-and-more-2njh)
+- [Issue 57 &amp; 58 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-57-58-of-aws-cloud-security-weekly-5fo1)
+- [Understanding JavaScript Objects: The Building Blocks of Your Code](https://dev.to/csrafsan/understanding-javascript-objects-the-building-blocks-of-your-code-1odo)
+- [An &lpar;Im&rpar;mutable Shopping List for a Delicious Pesto Pasta](https://dev.to/lakadaize/an-immutable-shopping-list-for-a-delicious-pesto-pasta-2jd6)
+- [Introduction to TensorFlow Extended &lpar;TFX&rpar;](https://dev.to/kartikmehta8/introduction-to-tensorflow-extended-tfx-4981)
 <!-- BLOG-POST-LIST:END -->
 
 ---
