@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Create A Sports Team Roster From Google Docs Template Using Google Sheets Data](https://dev.to/nightwolfdev/create-a-sports-team-roster-from-google-docs-template-using-google-sheets-data-3ol2)
+- [Exploring the Future of Web Development with AI-Generated Content](https://dev.to/raycoder/exploring-the-future-of-web-development-with-ai-generated-content-2420)
+- [Q&amp;A about Big Data](https://dev.to/rj4793/qa-about-big-data-4dm9)
+- [Mastering File Uploads with HTML](https://dev.to/stephanie_obiekezie_0d18f/mastering-file-uploads-with-html-3dd3)
 - [Why we use snake_case for variables and camelCase for functions](https://dev.to/alexleduc76/why-we-use-snakecase-for-variables-and-camelcase-for-functions-4hm9)
-- [How to Send Emails Using Gmail SMTP with Cloudflare Email Routing?](https://dev.to/pierre/gmail-with-cloudflare-email-routing-4413)
-- [Como Instalar e Rodar uma IA Localmente no seu Computador](https://dev.to/lmartns/como-instalar-e-rodar-uma-ia-localmente-no-seu-computador-25nb)
-- [Looking for a way to optimize my Javascript code](https://dev.to/excelsheets/looking-for-a-way-to-optimize-my-javascript-code-5661)
-- [🌍💻 Unleashing the Power of the Navigator Object in JavaScript](https://dev.to/fonteeboa/unleashing-the-power-of-the-navigator-object-in-javascript-464i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
