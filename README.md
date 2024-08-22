@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SouthMart : My New Project is Here Finally](https://dev.to/1hamzabek/southmart-my-new-project-is-here-finally-539)
-- [MuleSoft RPA Basics: From Start to Finish](https://dev.to/rootstack/mulesoft-rpa-basics-from-start-to-finish-1gi4)
-- [Managing Multiple GitHub Accounts with SSH Keys](https://dev.to/kbhatnagar/managing-multiple-github-accounts-with-ssh-keys-4a9b)
-- [Angular 18.2: Enhanced Template Syntax and Streamlined Migrations](https://dev.to/ingila185/angular-182-enhanced-template-syntax-and-streamlined-migrations-30c3)
-- [How to Use the Mid Function to Get the Right Side of a String in Microsoft Access](https://dev.to/richardrost/how-to-use-the-mid-function-to-get-the-right-side-of-a-string-in-microsoft-access-2ili)
+- [Today&#39;s Trending Projects: Extract Rightmost Digit in Python and More](https://dev.to/labex/todays-trending-projects-extract-rightmost-digit-in-python-and-more-2lp4)
+- [Downloading Player Data from Clash of Clans API](https://dev.to/wydoinn/downloading-player-data-from-clash-of-clans-api-a-python-guide-4bdj)
+- [10 Mobile App Projects to Elevate Your Skills to Senior Developer Level](https://dev.to/satoshi_nakamoto_9d16a72a/10-mobile-app-projects-to-elevate-your-skills-to-senior-developer-level-5b1)
+- [Unlocking the Power of Data Science and Big Data: Advanced Insights and Resources](https://dev.to/hamda_mirza_c7a7d996a13ef/unlocking-the-power-of-data-science-and-big-data-advanced-insights-and-resources-5aeo)
+- [I’ve rewritten my JS project in Golang and want to share my experience.](https://dev.to/nesterow/ive-rewritten-one-of-my-nodejs-tools-in-golang-and-want-to-share-my-experience-all)
 <!-- BLOG-POST-LIST:END -->
 
 ---
