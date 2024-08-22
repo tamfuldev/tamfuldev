@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Melhorando o desempenho de aplicações Spring Boot - Parte I](https://dev.to/mathstylish/melhorando-a-performance-de-aplicacoes-spring-boot-parte-i-58jl)
-- [🏁Unleash the Full Power of Your Laptop on Linux 🚀](https://dev.to/kpndevroot/unleash-the-full-power-of-your-laptop-on-linux-5dpl)
-- [How to Downsample Your Data Efficiently](https://dev.to/dolphindb/how-to-downsample-your-data-efficiently-3037)
-- [Tutorial memakai node js sampai memunculkan hello world](https://dev.to/gaza_alfath/tutorial-memakai-node-js-sampai-memunculkan-hello-world-2pia)
-- [Alias your module directory with Node standard import mapping](https://dev.to/phyothiha/alias-your-module-directory-with-node-standard-import-mapping-3gpa)
+- [Dive into the Theoretical Foundations of Computer Science with MIT&#39;s Automata, Computability, and Complexity Course 🤖](https://dev.to/getvm/dive-into-the-theoretical-foundations-of-computer-science-with-mits-automata-computability-and-complexity-course-53ph)
+- [5 React Mistakes You Should Avoid &lpar;and How to Fix Them&rpar;](https://dev.to/vyan/5-react-mistakes-you-should-avoid-and-how-to-fix-them-339m)
+- [Understanding Arrays and Collections in Java: Managing Groups of Data](https://dev.to/be11amer/understanding-arrays-and-collections-in-java-managing-groups-of-data-2hf1)
+- [Generating MNIST Digit: 8](https://dev.to/aravind_ariharasudhan_ed1/generating-mnist-digit-8-a9)
+- [How to setup and run Java on your machine](https://dev.to/olymahmud/how-to-setup-and-run-java-on-your-machine-27h1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
