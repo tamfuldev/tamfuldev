@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Chaos to Clarity: The Critical Role of Architecture](https://dev.to/m_midas/from-chaos-to-clarity-the-critical-role-of-architecture-3p7i)
-- [How To Activate Apple Passkeys on iPhones](https://dev.to/corbado/how-to-activate-apple-passkeys-on-iphones-1pg)
-- [Automation: A Game Changer for End-to-End Testing](https://dev.to/calsoftinc/automation-a-game-changer-for-end-to-end-testing-d)
-- [React | Monitor multiple loading status on the same page](https://dev.to/ishi_hisashi/react-detect-completion-of-multiple-loading-on-the-same-page-ebj)
-- [Custom Dialog Box Excitement](https://dev.to/annavi11arrea1/custom-dialog-box-excitement-57j6)
+- [4 Small &lpar;But Easily Fixable&rpar; Mistakes New 3D Artists Make When Starting Out](https://dev.to/soulis98/4-small-but-easily-fixable-mistakes-new-3d-artists-make-when-starting-out-1235)
+- [Maximizing SEO and Performance with Next.js: Strategies from an Activity Booking Platform Project](https://dev.to/marieooq/maximizing-seo-and-performance-with-nextjs-strategies-from-an-activity-booking-platform-project-86a)
+- [Ilmuwan Muslim Yang Memberikan Sumbangsih dalam ilmu pengetahuan modern](https://dev.to/hafid_karim_457853ed77ba9/ilmuwan-muslim-yang-memberikan-sumbangsih-dalam-ilmu-pengetahuan-modern-1kpm)
+- [How SafeLine Shields Your Website with Advanced Dynamic Protection](https://dev.to/lulu_liu_c90f973e2f954d7f/how-safeline-shields-your-website-with-advanced-dynamic-protection-1f0j)
+- [React | Monitor multiple loading status on the same page](https://dev.to/ishi_hisashi/react-monitor-multiple-loading-status-on-the-same-page-2h8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
