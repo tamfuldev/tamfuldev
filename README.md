@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [5 Hourly Planner Templates to Streamline Your Day With Precision](https://dev.to/thomasy0ung/5-hourly-planner-templates-to-streamline-your-day-with-precision-14ec)
-- [SOLID: D - Dependency Inversion Principle &lpar;DIP&rpar;](https://dev.to/paulocappa/solid-d-dependency-inversion-principle-dip-34hd)
-- [Index tables from production console](https://dev.to/epigene/index-tables-from-production-console-5fbm)
-- [Top 5 Tools to Check Domain IP and Improve Network Management](https://dev.to/johnmiller/top-5-tools-to-check-domain-ip-and-improve-network-management-1mg3)
-- [The Best Software Solutions for Modern Software Development](https://dev.to/jhk_info/the-best-software-solutions-for-modern-software-development-3he5)
+- [Understanding Smart Pointers in C++](https://dev.to/jaehyun_park_52/understanding-smart-pointers-in-c-7g9)
+- [Announcing: The Adventures of Blink Season 2! &lpar;Coming Soon&rpar;](https://dev.to/linkbenjamin/announcing-the-adventures-of-blink-season-2-coming-soon-1nkd)
+- [Outsourced Product Development: A Strategic Approach to Innovation](https://dev.to/nithinsys9786/outsourced-product-development-a-strategic-approach-to-innovation-3eld)
+- [Filament How to redirect to list page after &lpar;create,update&rpar; using Trait](https://dev.to/johndivam/filamtn-how-to-redirect-to-list-page-after-createupdate-using-trait-5b0i)
+- [No More ZooKeeper](https://dev.to/jaydeep268/no-more-zookeeper-2e9p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
