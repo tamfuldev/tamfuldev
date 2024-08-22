@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [4 Small &lpar;But Easily Fixable&rpar; Mistakes New 3D Artists Make When Starting Out](https://dev.to/soulis98/4-small-but-easily-fixable-mistakes-new-3d-artists-make-when-starting-out-1235)
-- [Maximizing SEO and Performance with Next.js: Strategies from an Activity Booking Platform Project](https://dev.to/marieooq/maximizing-seo-and-performance-with-nextjs-strategies-from-an-activity-booking-platform-project-86a)
-- [Ilmuwan Muslim Yang Memberikan Sumbangsih dalam ilmu pengetahuan modern](https://dev.to/hafid_karim_457853ed77ba9/ilmuwan-muslim-yang-memberikan-sumbangsih-dalam-ilmu-pengetahuan-modern-1kpm)
-- [How SafeLine Shields Your Website with Advanced Dynamic Protection](https://dev.to/lulu_liu_c90f973e2f954d7f/how-safeline-shields-your-website-with-advanced-dynamic-protection-1f0j)
-- [React | Monitor multiple loading status on the same page](https://dev.to/ishi_hisashi/react-monitor-multiple-loading-status-on-the-same-page-2h8)
+- [Boost Your Website Security for Free with SafeLine WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/boost-your-website-security-for-free-with-safeline-waf-5d7j)
+- [Why i switched from ChatGPT, Cluade, Gemini and Perpleixty to AyeSoul?](https://dev.to/fretny/why-i-switched-from-chatgpt-cluade-gemini-and-perpleixty-to-ayesoul-428)
+- [How to Set PS1 / What&#39;s your PS1?](https://dev.to/theholyspirit/how-to-set-ps1-whats-your-ps1-4pin)
+- [Data structures 101: How to choose the right data structure](https://dev.to/fahimulhaq/data-structures-101-how-to-choose-the-right-data-structure-13bm)
+- [Introducing New Features on Codest: Generate Flutter and React Native Apps!](https://dev.to/codelink/introducing-new-features-on-codest-generate-flutter-and-react-native-apps-1dme)
 <!-- BLOG-POST-LIST:END -->
 
 ---
