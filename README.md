@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Project 1: Expanding Cards - My &#39;50 Projects in 50 Days&#39; Journey](https://dev.to/alishata128/project-1-expanding-cards-my-50-projects-in-50-days-journey-1na6)
-- [Web Graphics Tutorial: Learn by doing!](https://dev.to/annavi11arrea1/web-graphics-tutorial-learn-by-doing-474p)
-- [Day 1015 : When It Rains](https://dev.to/dwane/day-1015-when-it-rains-15e6)
-- [AWS Elastic Beanstalk vs. AWS Amplify: Choosing the Right Tool for Your App’s Success](https://dev.to/oloruntobiolurombi/aws-elastic-beanstalk-vs-aws-amplify-choosing-the-right-tool-for-your-apps-success-hjc)
-- [Third course on python](https://dev.to/king-favour/third-course-on-python-2ag7)
+- [SouthMart : My New Project is Here Finally](https://dev.to/1hamzabek/southmart-my-new-project-is-here-finally-539)
+- [MuleSoft RPA Basics: From Start to Finish](https://dev.to/rootstack/mulesoft-rpa-basics-from-start-to-finish-1gi4)
+- [Managing Multiple GitHub Accounts with SSH Keys](https://dev.to/kbhatnagar/managing-multiple-github-accounts-with-ssh-keys-4a9b)
+- [Angular 18.2: Enhanced Template Syntax and Streamlined Migrations](https://dev.to/ingila185/angular-182-enhanced-template-syntax-and-streamlined-migrations-30c3)
+- [How to Use the Mid Function to Get the Right Side of a String in Microsoft Access](https://dev.to/richardrost/how-to-use-the-mid-function-to-get-the-right-side-of-a-string-in-microsoft-access-2ili)
 <!-- BLOG-POST-LIST:END -->
 
 ---
