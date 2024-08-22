@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dive into the Theoretical Foundations of Computer Science with MIT&#39;s Automata, Computability, and Complexity Course 🤖](https://dev.to/getvm/dive-into-the-theoretical-foundations-of-computer-science-with-mits-automata-computability-and-complexity-course-53ph)
-- [5 React Mistakes You Should Avoid &lpar;and How to Fix Them&rpar;](https://dev.to/vyan/5-react-mistakes-you-should-avoid-and-how-to-fix-them-339m)
-- [Understanding Arrays and Collections in Java: Managing Groups of Data](https://dev.to/be11amer/understanding-arrays-and-collections-in-java-managing-groups-of-data-2hf1)
-- [Generating MNIST Digit: 8](https://dev.to/aravind_ariharasudhan_ed1/generating-mnist-digit-8-a9)
-- [How to setup and run Java on your machine](https://dev.to/olymahmud/how-to-setup-and-run-java-on-your-machine-27h1)
+- [From Chaos to Clarity: The Critical Role of Architecture](https://dev.to/m_midas/from-chaos-to-clarity-the-critical-role-of-architecture-3p7i)
+- [How To Activate Apple Passkeys on iPhones](https://dev.to/corbado/how-to-activate-apple-passkeys-on-iphones-1pg)
+- [Automation: A Game Changer for End-to-End Testing](https://dev.to/calsoftinc/automation-a-game-changer-for-end-to-end-testing-d)
+- [React | Monitor multiple loading status on the same page](https://dev.to/ishi_hisashi/react-detect-completion-of-multiple-loading-on-the-same-page-ebj)
+- [Custom Dialog Box Excitement](https://dev.to/annavi11arrea1/custom-dialog-box-excitement-57j6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
