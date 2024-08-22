@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Multi Tap issue when developing the Telegram miniapp.](https://dev.to/luckybutter1011/multi-tap-issue-when-developing-the-telegram-miniapp-2bdl)
-- [Nothing Like a Survey](https://dev.to/darrenfj/nothing-like-a-survey-5d3j)
-- [The 80/20 Rule of Rails performance](https://dev.to/hrishio/the-8020-rule-of-rails-performance-3en8)
-- [Build your own LinkTree with Go and GitHub Pages](https://dev.to/lucasnevespereira/build-your-own-linktree-with-go-and-github-pages-3fha)
-- [Day 2 &amp; 3: Building a simple CRUD API using Express and MongoDB](https://dev.to/hephzy/day-2-3-building-a-simple-crud-api-using-express-and-mongodb-2abi)
+- [Live Demos: Do they always need to be live?](https://dev.to/scottharrisondev/live-demos-do-they-always-need-to-be-live-49if)
+- [Implementing Infinite Scroll with Laravel and Vue.js 3](https://dev.to/rafaelogic/implementing-infinite-scroll-with-laravel-and-vuejs-3-fmd)
+- [Como Lancei Meu Primeiro Produto](https://dev.to/kleysongomes/como-lancei-meu-primeiro-produto-4ljl)
+- [HTML Native Popover - No JavaScript](https://dev.to/heem/html-native-popover-no-javascript-3a5)
+- [🚀 Introducing the Open-Source NeoApps.AI Code Generator! 🎉](https://dev.to/neopric_licences_86355902/introducing-the-open-source-neoappsai-code-generator-1pn8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
