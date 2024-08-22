@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [OctoTube: Voice Search for YouTube](https://dev.to/gracezzhang/octotube-voice-search-for-youtube-1f3j)
-- [Are you ready for PYTHON?](https://dev.to/ankit_rattan/are-you-ready-for-python-5e79)
-- [Speaker Diarization in Python](https://dev.to/gracezzhang/speaker-diarization-in-python-235i)
-- [Beginners JavaScript](https://dev.to/ankit_rattan/beginners-javascript-4h5e)
-- [How to Switch Your Website to Dark Mode Using CSS and JavaScript](https://dev.to/msarabi/how-to-switch-your-website-to-dark-mode-using-css-and-javascript-670)
+- [Multi Tap issue when developing the Telegram miniapp.](https://dev.to/luckybutter1011/multi-tap-issue-when-developing-the-telegram-miniapp-2bdl)
+- [Nothing Like a Survey](https://dev.to/darrenfj/nothing-like-a-survey-5d3j)
+- [The 80/20 Rule of Rails performance](https://dev.to/hrishio/the-8020-rule-of-rails-performance-3en8)
+- [Build your own LinkTree with Go and GitHub Pages](https://dev.to/lucasnevespereira/build-your-own-linktree-with-go-and-github-pages-3fha)
+- [Day 2 &amp; 3: Building a simple CRUD API using Express and MongoDB](https://dev.to/hephzy/day-2-3-building-a-simple-crud-api-using-express-and-mongodb-2abi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
