@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Tips to Get Started with Open Source and GSoC](https://dev.to/middleware/top-10-tips-to-get-started-with-open-source-and-gsoc-41na)
-- [PURPOSELY Exploiting A Kubernetes Cluster](https://dev.to/thenjdevopsguy/purposely-exploiting-a-kubernetes-cluster-50ca)
-- [Enhance Your System Reliability with These Top Log Monitoring Tools](https://dev.to/alertyai/enhance-your-system-reliability-with-these-top-log-monitoring-tools-3doo)
-- [Day21 of 100DaysOfCode](https://dev.to/koichiarai/day21-of-100daysofcode-2ego)
-- [I Built a Complex Modular App with AI—And So Can You](https://dev.to/edmond1770/how-i-built-a-complex-modular-app-with-ai-1fdo)
+- [Optimistic UI: Mejora la experiencia de usuario en tus aplicaciones frontend](https://dev.to/joanperamas/optimistic-ui-mejora-la-experiencia-de-usuario-en-tus-aplicaciones-frontend-124e)
+- [Improving Bitcoin: My experience contributing to Utreexo for SOB 2024.](https://dev.to/alainjr10/improving-bitcoin-my-experience-contributing-to-utreexo-for-sob-2024-1g7o)
+- [llama.cpp: CPU vs GPU, shared VRAM and Inference Speed](https://dev.to/maximsaplin/llamacpp-cpu-vs-gpu-shared-vram-and-inference-speed-3jpl)
+- [Unlocking the Power of Text-to-SQL with LangDB](https://dev.to/langdb/unlocking-the-power-of-text-to-sql-with-langdb-489h)
+- [Video Captioning and Translating with Python and Streamlit](https://dev.to/devasservice/video-captioning-and-translating-with-python-and-streamlit-5e0k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
