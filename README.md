@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Managing Recursive Components in React With Custom Hook](https://dev.to/mohammad_kh4441/managing-recursive-components-in-react-with-custom-hook-33im)
-- [Join Our Guild: Lead C# Developer &lpar;Remote&rpar; at Kuroro](https://dev.to/v3rmi11i0n/join-our-guild-lead-c-developer-remote-at-kuroro-9dj)
-- [Handling Timestamp Column Changes in Laravel Migrations with PostgreSQL](https://dev.to/msnmongare/handling-timestamp-column-changes-in-laravel-migrations-with-postgresql-466k)
-- [Golang - Generate Fake Data With GoFakeIt](https://dev.to/ankitmalikg/golang-generate-fake-data-with-gofakeit-23gj)
-- [Identify Abandoned PyPI Packages with pip-abandoned](https://dev.to/chris48s/identify-abandoned-pypi-packages-with-pip-abandoned-1el4)
+- [Tente Isto 6-1 Melhore a classe Queue](https://dev.to/devsjavagirls/tente-isto-6-1-melhore-a-classe-queue-3maf)
+- [Developing a App with Swift and AI](https://dev.to/washington_pedrini_538d33/developing-a-app-with-swift-and-ai-2f2i)
+- [Mastering TypeScript Generics: Enhancing Code Reusability and Type Safety](https://dev.to/baransel/mastering-typescript-generics-enhancing-code-reusability-and-type-safety-4aid)
+- [🚀 Build a Simple CRUD API in PHP with the Flight Framework](https://dev.to/soheilkhaledabadi/build-a-simple-crud-api-in-php-with-the-flight-framework-5fnk)
+- [Modificadores de acesso da linguagem Java](https://dev.to/devsjavagirls/modificadores-de-acesso-da-linguagem-java-41)
 <!-- BLOG-POST-LIST:END -->
 
 ---
