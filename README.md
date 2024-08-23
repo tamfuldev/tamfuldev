@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [5 Things to Know Before Making Open Source Contributions](https://dev.to/chishengliu/5-things-to-know-before-making-open-source-contributions-1707)
-- [Impresion de informes a pdf](https://dev.to/julio_rojasaranedavitc/impresion-de-informes-a-pdf-30o9)
-- [Mastering Django: Building a Secure User Authentication API from Scratch](https://dev.to/mayowakalejaiye/mastering-django-building-a-secure-user-authentication-api-from-scratch-4ma3)
-- [Sharing Git Aliases between Windows &amp; WSL](https://dev.to/codycodes/sharing-git-aliases-between-wsl-windows-198a)
-- [Managing API Integrations](https://dev.to/apidna/managing-api-integrations-51ja)
+- [String methods](https://dev.to/sabrina_abcdna123/string-methods-jd3)
+- [Understanding Closures in JavaScript](https://dev.to/jps27cse/understanding-closures-in-javascript-4o1p)
+- [Build a Rock Paper Scissors Game Website](https://dev.to/abhishekgurjar/build-a-rock-paper-scissors-game-website-6l7)
+- [Linux 101: Understanding Basic Commands and Concepts By: Bassey Ekpenyonganwan &lpar;NORA&rpar;](https://dev.to/nora_b/linux-101-understanding-basic-commands-and-concepts-by-bassey-ekpenyonganwan-nora-2lap)
+- [My home-kubernetes architecture diagram](https://dev.to/matoruru/my-home-kubernetes-architecture-diagram-1ijj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
