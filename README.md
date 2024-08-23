@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Live Demos: Do they always need to be live?](https://dev.to/scottharrisondev/live-demos-do-they-always-need-to-be-live-49if)
-- [Implementing Infinite Scroll with Laravel and Vue.js 3](https://dev.to/rafaelogic/implementing-infinite-scroll-with-laravel-and-vuejs-3-fmd)
-- [Como Lancei Meu Primeiro Produto](https://dev.to/kleysongomes/como-lancei-meu-primeiro-produto-4ljl)
-- [HTML Native Popover - No JavaScript](https://dev.to/heem/html-native-popover-no-javascript-3a5)
-- [🚀 Introducing the Open-Source NeoApps.AI Code Generator! 🎉](https://dev.to/neopric_licences_86355902/introducing-the-open-source-neoappsai-code-generator-1pn8)
+- [My experience with Units Tests using Jest JS](https://dev.to/augusto/my-experience-with-units-tests-using-jest-js-33o1)
+- [Untitled](https://dev.to/matt_bowen_2b402320a33cfc/untitled-1nn9)
+- [Node Backend Kickstart: A Submission for the Neon Open Source Starter Kit Challenge: Ultimate Starter Kit](https://dev.to/fonteeboa/node-backend-kickstart-a-submission-for-the-neon-open-source-starter-kit-challenge-ultimate-starter-kit-21c9)
+- [ReactNode vs React.Element: Understanding the Difference](https://dev.to/cole_ruche/reactnode-vs-reactelement-understanding-the-difference-2fj0)
+- [Data Validation in Your Backend: A Practical Guide](https://dev.to/starkprince/data-validation-in-your-backend-a-practical-guide-1kn6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
