@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [String methods](https://dev.to/sabrina_abcdna123/string-methods-jd3)
-- [Understanding Closures in JavaScript](https://dev.to/jps27cse/understanding-closures-in-javascript-4o1p)
-- [Build a Rock Paper Scissors Game Website](https://dev.to/abhishekgurjar/build-a-rock-paper-scissors-game-website-6l7)
-- [Linux 101: Understanding Basic Commands and Concepts By: Bassey Ekpenyonganwan &lpar;NORA&rpar;](https://dev.to/nora_b/linux-101-understanding-basic-commands-and-concepts-by-bassey-ekpenyonganwan-nora-2lap)
-- [My home-kubernetes architecture diagram](https://dev.to/matoruru/my-home-kubernetes-architecture-diagram-1ijj)
+- [5 Neuro-Hacks to Supercharge Your Focus](https://dev.to/middleware/5-neuro-hacks-to-supercharge-your-focus-4795)
+- [Understanding CloudFormation: Automating Infrastructure with IaC on AWS](https://dev.to/starkydevs/understanding-cloudformation-automating-infrastructure-with-iac-on-aws-1ado)
+- [Mastering JavaScript Functions: Your Guide to Normal vs. Arrow Functions](https://dev.to/kafeel_ahmad/mastering-javascript-functions-your-guide-to-normal-vs-arrow-functions-2onk)
+- [The Complete Guide to Building and Publishing a Python Library](https://dev.to/brijpandeyji/the-complete-guide-to-building-and-publishing-a-python-library-47l)
+- [Using Packer and Proxmox to Build Templates](https://dev.to/umairk/using-packer-and-proxmox-to-build-templates-455f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
