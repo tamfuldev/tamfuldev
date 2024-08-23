@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [LiqPay Async](https://dev.to/taranka/liqpay-async-32a1)
-- [Deequ: Your Data&#39;s BFF](https://dev.to/aws-builders/deequ-your-datas-bff-372f)
-- [Como Manipular Sessões em Golang?](https://dev.to/ortizdavid/como-manipular-sessoes-em-golang-544n)
-- [Iteration Stament i.e for-of loop](https://dev.to/mahf001/iteration-stament-ie-for-of-loop-37pm)
-- [How to Interpret a Confusion Matrix: Key Metrics and Their Significance](https://dev.to/fizza_c3e734ee2a307cf35e5/how-to-interpret-a-confusion-matrix-key-metrics-and-their-significance-4hme)
+- [Rails Designer v1.4 introduces: Beautiful Layouts for Your Rails App](https://dev.to/railsdesigner/rails-designer-v14-introducing-beautiful-layouts-for-your-rails-app-9m5)
+- [Improve Your Multifactor Auth With Verify and SIM Swap APIs](https://dev.to/vonagedev/improve-your-multifactor-auth-with-verify-and-sim-swap-apis-55c1)
+- [O Fim das Telas de Loading: A Revolução dos Consoles de Última Geração](https://dev.to/iamthiago/o-fim-das-telas-de-loading-a-revolucao-dos-consoles-de-ultima-geracao-17il)
+- [Cut Costs in OpenSearch Serverless and Bedrock Knowledge Base](https://dev.to/aws-builders/cut-costs-in-opensearch-serverless-and-bedrock-knowledge-base-354c)
+- [How to build a virtualized GPU that executes remotely and keeping your data local?](https://dev.to/radu_marias_eed98d2e201f6/how-to-build-a-virtualized-gpu-that-executes-remotely-and-keeping-your-data-local-1e0k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
