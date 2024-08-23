@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Relationship Between Access Control, Authorization, and Authentication](https://dev.to/adityabhuyan/the-relationship-between-access-control-authorization-and-authentication-30pp)
-- [methods for keycloak script](https://dev.to/nabim777/helpful-for-keycloak-script-1lpo)
-- [The Evolution of Hardware vs. Software Speed: Analyzing the Growing Gap Over Time](https://dev.to/adityabhuyan/the-evolution-of-hardware-vs-software-speed-analyzing-the-growing-gap-over-time-4feo)
-- [PHP Attributes: how to use PHP Attributes and create custom attribute classes – Fast Tips](https://dev.to/inspector/php-attributes-how-to-use-php-attributes-and-create-custom-attribute-classes-fast-tips-7nf)
-- [Exporting Excel with SheetJS for Dummies](https://dev.to/tamnguyenctg/exporting-excel-with-sheetjs-for-dummies-25kj)
+- [Unleash the Forbidden - Enabling eBPF/XDP for Kernel Tinkering on WSL2](https://dev.to/wiresurfer/unleash-the-forbidden-enabling-ebpfxdp-for-kernel-tinkering-on-wsl2-43fj)
+- [Six Incredible React Libraries 💻🚀](https://dev.to/shyam1806/six-incredible-react-libraries-1m38)
+- [#50 — Group And Summarize Rows And Add Different Words After Different Counts](https://dev.to/judith677/50-group-and-summarize-rows-and-add-different-words-after-different-counts-2aa1)
+- [How to separate files owned by a specific user in Linux](https://dev.to/muhammad_aliahmed/how-to-separate-files-owned-by-specific-users-in-linux-d7d)
+- [Exploring Server-Side Rendering and Database Operations in Nuxt.js with Prisma ORM](https://dev.to/elif_nurturk_7f776a31b64/exploring-server-side-rendering-and-database-operations-in-nuxtjs-with-prisma-orm-5576)
 <!-- BLOG-POST-LIST:END -->
 
 ---
