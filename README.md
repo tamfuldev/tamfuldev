@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Jest in Next.js: A Complete Guide for App Router and TypeScript 🚀](https://dev.to/alaa-samy/mastering-jest-in-nextjs-a-complete-guide-for-app-router-and-typescript-o28)
-- [Writing a state management library in 50 lines of JavaScript](https://dev.to/jverneaut/writing-a-state-management-library-in-50-lines-of-javascript-3l41)
-- [Securing Microservices with Spring Security: Implementing JWT](https://dev.to/ayushstwt/securing-microservices-with-spring-security-implementing-jwt-38m6)
-- [Introducing Log Drains](https://dev.to/supabase/introducing-log-drains-1il8)
-- [Today&#39;s Javascript Tip: Use ?? to provide a default value only when the left operand is null or undefined.](https://dev.to/mmourouh/todays-javascript-tip-use-to-provide-a-default-value-only-when-the-left-operand-is-null-or-undefined-2139)
+- [Managing Recursive Components in React With Custom Hook](https://dev.to/mohammad_kh4441/managing-recursive-components-in-react-with-custom-hook-33im)
+- [Join Our Guild: Lead C# Developer &lpar;Remote&rpar; at Kuroro](https://dev.to/v3rmi11i0n/join-our-guild-lead-c-developer-remote-at-kuroro-9dj)
+- [Handling Timestamp Column Changes in Laravel Migrations with PostgreSQL](https://dev.to/msnmongare/handling-timestamp-column-changes-in-laravel-migrations-with-postgresql-466k)
+- [Golang - Generate Fake Data With GoFakeIt](https://dev.to/ankitmalikg/golang-generate-fake-data-with-gofakeit-23gj)
+- [Identify Abandoned PyPI Packages with pip-abandoned](https://dev.to/chris48s/identify-abandoned-pypi-packages-with-pip-abandoned-1el4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
