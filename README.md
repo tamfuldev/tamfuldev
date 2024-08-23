@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Find Outdated Composer Dependencies Using &quot;composer outdated&quot;](https://dev.to/ashallendesign/find-outdated-composer-dependencies-using-composer-outdated-2jhp)
-- [Neon Scaffolder](https://dev.to/timotej_avsec/neon-scaffolder-42c8)
-- [JavaScript and Selenium Integration: Streamlining Your Web Automation](https://dev.to/jhk_info/javascript-and-selenium-integration-streamlining-your-web-automation-3chk)
-- [Deploy Apache Airflow on AWS Elastic Kubernetes Service &lpar;EKS&rpar;](https://dev.to/meteorops/deploy-apache-airflow-on-aws-elastic-kubernetes-service-eks-5406)
-- [Navigating the Latest Social Security Breach- Protecting Your Identity](https://dev.to/sennovate/navigating-the-latest-social-security-breach-protecting-your-identity-4fi7)
+- [LiqPay Async](https://dev.to/taranka/liqpay-async-32a1)
+- [Deequ: Your Data&#39;s BFF](https://dev.to/aws-builders/deequ-your-datas-bff-372f)
+- [Como Manipular Sessões em Golang?](https://dev.to/ortizdavid/como-manipular-sessoes-em-golang-544n)
+- [Iteration Stament i.e for-of loop](https://dev.to/mahf001/iteration-stament-ie-for-of-loop-37pm)
+- [How to Interpret a Confusion Matrix: Key Metrics and Their Significance](https://dev.to/fizza_c3e734ee2a307cf35e5/how-to-interpret-a-confusion-matrix-key-metrics-and-their-significance-4hme)
 <!-- BLOG-POST-LIST:END -->
 
 ---
