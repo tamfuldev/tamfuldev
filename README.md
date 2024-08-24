@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Creating an Amazon Q Business Application with RDS MySQL Integration](https://dev.to/sunil_yaduvanshi/creating-an-amazon-q-business-application-with-rds-mysql-integration-18ig)
-- [Remove all git local branches except &quot;main&quot;](https://dev.to/arielmejiadev/remove-all-git-local-branches-except-main-mlo)
-- [Using Auth0 as OIDC provider for Cognito Identity Pool](https://dev.to/gunjan_chhetri_8f06b0b15a/using-auth0-as-oidc-provider-for-cognito-identity-pool-3nea)
-- [Exploring Jenkins: A Key Tool in DevOps for Continuous Integration and Continuous Delivery &lpar;Week 6&rpar;](https://dev.to/alifareed0009/exploring-jenkins-a-key-tool-in-devops-for-continuous-integration-and-continuous-delivery-week-6-281k)
-- [Day 54 / 100 Days of Code: Lessons on Scope](https://dev.to/jacobsternx/day-54-100-days-of-code-lessons-on-scope-3h11)
+- [Practical Guide to Set Up Multiple NodeJS Apps on AWS EC2 Instance with Automatic Deployment using GitHub Actions &lpar;Screenshots&rpar;](https://dev.to/cre8stevedev/practical-guide-to-set-up-multiple-nodejs-apps-on-aws-ec2-instance-with-automatic-deployment-using-github-actions-screenshots-2a39)
+- [100 days of Miva: Day 4](https://dev.to/abdul_web/100-days-of-miva-day-4-36h5)
+- [Postgres tsvector with TypeORM](https://dev.to/ohanhaliuk/postgres-tsvector-with-typeorm-230m)
+- [RPC failed; curl 92 HTTP/2 stream 5 was not closed cleanly: CANCEL &lpar;err 8&rpar;](https://dev.to/hardyweb/rpc-failed-curl-92-http2-stream-5-was-not-closed-cleanly-cancel-err-8-1ngj)
+- [Setting Up a Simple TCP Server](https://dev.to/dheerajgopi/setting-up-a-simple-tcp-server-42ml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
