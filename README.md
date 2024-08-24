@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Type Conversion in JavaScript Is Confusing](https://dev.to/zain725342/type-conversion-in-javascript-is-confusing-5amn)
-- [Optimizing Costs on AWS: Tips for Small Businesses](https://dev.to/starkydevs/optimizing-costs-on-aws-tips-for-small-businesses-n88)
-- [Build a Profile Card Website](https://dev.to/abhishekgurjar/build-a-profile-card-website-34nf)
-- [Python Tutorial - 1 Introduction](https://dev.to/nadirbasalamah/python-tutorial-1-introduction-33jm)
-- [A Ruby/JS Equivalence](https://dev.to/theholyspirit/a-rubyjs-equivalence-5gk3)
+- [Linux du Command | Disk Usage Estimation](https://dev.to/labex/linux-du-command-disk-usage-estimation-2fk)
+- [Process multiband rasters &lpar;Sentinel-2&rpar; with h3 index and create indices](https://dev.to/krschap/process-multiband-rasters-sentinel-2-with-h3-index-and-create-indices-bem)
+- [⚡ MySecondApp - React Native with Expo &lpar;P22&rpar; - Add Comment to News Detail](https://dev.to/skipperhoa/mysecondapp-react-native-with-expo-p22-add-comment-to-news-detail-jfn)
+- [Hello World!](https://dev.to/adinfauzan/hello-world-186n)
+- [A Beginner’s Guide to Terraform: Managing Cloud Infrastructure](https://dev.to/starkydevs/a-beginners-guide-to-terraform-managing-cloud-infrastructure-43gf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
