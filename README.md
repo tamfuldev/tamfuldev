@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Creating an Amazon Q Business Application with RDS MySQL Integration](https://dev.to/sunil_yaduvanshi/creating-an-amazon-q-business-application-with-rds-mysql-integration-18ig)
+- [Remove all git local branches except &quot;main&quot;](https://dev.to/arielmejiadev/remove-all-git-local-branches-except-main-mlo)
+- [Using Auth0 as OIDC provider for Cognito Identity Pool](https://dev.to/gunjan_chhetri_8f06b0b15a/using-auth0-as-oidc-provider-for-cognito-identity-pool-3nea)
+- [Exploring Jenkins: A Key Tool in DevOps for Continuous Integration and Continuous Delivery &lpar;Week 6&rpar;](https://dev.to/alifareed0009/exploring-jenkins-a-key-tool-in-devops-for-continuous-integration-and-continuous-delivery-week-6-281k)
 - [Day 54 / 100 Days of Code: Lessons on Scope](https://dev.to/jacobsternx/day-54-100-days-of-code-lessons-on-scope-3h11)
-- [Appium Setup: A Step-by-Step Guide For Beginner](https://dev.to/jignect_technologies/appium-setup-a-step-by-step-guide-for-beginner-40hj)
-- [🔍 SSR vs. CSR: Understanding the Differences and When to Use Them](https://dev.to/dipakahirav/ssr-vs-csr-understanding-the-differences-and-when-to-use-them-163c)
-- [Number System Converter Web App! 🌐🚀](https://dev.to/s_hadowheart/number-system-converter-web-app-3o23)
-- [RESTful API Design: Best Practices and Common Pitfalls](https://dev.to/soham_galande/restful-api-design-best-practices-and-common-pitfalls-1lg4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
