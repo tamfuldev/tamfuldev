@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps vs Traditional: A Comprehensive Comparison of Software Development Approaches](https://dev.to/eunice-js/devops-vs-traditional-a-comprehensive-comparison-of-software-development-approaches-ie5)
-- [564. Find the Closest Palindrome](https://dev.to/mdarifulhaque/564-find-the-closest-palindrome-4mlj)
-- [Today&#39;s Javascript Tip: extract multiple properties from an object into variables using destructuring assignment.](https://dev.to/mmourouh/todays-javascript-tip-extract-multiple-properties-from-an-object-into-variables-using-destructuring-assignment-12e)
-- [Git Cheatsheet that will make you a master in Git](https://dev.to/mahmudr/git-cheatsheet-that-will-make-you-a-master-in-git-4j3m)
-- [Upload Node.Js Code to azure using CI/CD pipeline using github actions](https://dev.to/dhaval_upadhyay_30f8292a8/upload-nodejs-code-to-azure-using-cicd-pipeline-using-github-actions-38mo)
+- [How Google Tag Manager Empowers Businesses with Efficient Tag Management and Data-Driven Insights](https://dev.to/zobaidulkazi/how-google-tag-manager-empowers-businesses-with-efficient-tag-management-and-data-driven-insights-1n0a)
+- [Untitled](https://dev.to/stevesri/untitled-e7h)
+- [Nunca é só para o teu bem](https://dev.to/gurigraphics/nunca-e-so-para-o-teu-bem-liberalismo-versus-imposicionismo-cgd)
+- [Why I un-discontinued my Project](https://dev.to/suneeh/why-i-un-discontinued-my-project-8i2)
+- [Build a Web App with Oats~i – Lesson 2: Reactivity and Data Manager](https://dev.to/oatsi/build-a-web-app-with-oatsi-lesson-2-reactivity-and-data-manager-p66)
 <!-- BLOG-POST-LIST:END -->
 
 ---
