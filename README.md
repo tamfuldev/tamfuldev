@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Solid Principles in GO with examples](https://dev.to/pyrolass/solid-principles-in-go-with-examples-o55)
-- [What&#39;s Next.js server actions](https://dev.to/ccsunnydev/whats-nextjs-server-actions-n2o)
-- [Integrating eSewa Payment in a MERN Stack Web Application &lpar;part 1&rpar;](https://dev.to/invisibleworld/integrating-esewa-payment-in-a-mern-stack-web-application-part-1-35bi)
-- [Widget# 8: Crafting a Chat Experience with Tailwind CSS](https://dev.to/dilsemonk/widget-8-crafting-a-chat-experience-with-tailwind-css-j97)
-- [The Biggest Cloud Scam](https://dev.to/mkdev/the-biggest-cloud-scam-1jcg)
+- [DevOps Monitoring Project](https://dev.to/pratik_nalawade/devops-monitoring-project-4ipo)
+- [Understanding the Singleton Pattern with PHP Example](https://dev.to/hossamgouda/understanding-the-singleton-pattern-with-php-example-3i31)
+- [Best tips for designing a website: A guide for business owners](https://dev.to/hjemmesidedesign/best-tips-for-designing-a-website-a-guide-for-business-owners-116f)
+- [DBT and Software Engineering](https://dev.to/sudo_pradip/dbt-and-software-engineering-4006)
+- [Elevate Your Vue and Nuxt Code Quality with Vue Mess Detector](https://dev.to/rrd/elevate-your-vue-and-nuxt-code-quality-with-vue-mess-detector-4lm3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
