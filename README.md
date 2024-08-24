@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 A Leap Forward: React 19 Introduces the Actions Feature](https://dev.to/abhay1kumar/a-leap-forward-react-19-introduces-the-actions-feature-45gp)
-- [🚀 Node.js vs. Express.js: Mastering Server-Side JavaScript Development](https://dev.to/fullstackdevelper/nodejs-vs-expressjs-mastering-server-side-javascript-development-4on9)
-- [🚀 Node.js vs. Express.js: Mastering Server-Side JavaScript Development](https://dev.to/vyan/nodejs-vs-expressjs-mastering-server-side-javascript-development-7a1)
-- [Unleash the Power of Markdown: A Comprehensive Guide to Elevate Your Technical Documentation 🚀](https://dev.to/getvm/unleash-the-power-of-markdown-a-comprehensive-guide-to-elevate-your-technical-documentation-3971)
-- [VB .Net: Import NameSpace to Project](https://dev.to/vblover_programmer/vb-net-import-namespace-to-project-2o7i)
+- [🚀 Understanding the Difference Between `filter` and `map` in Java Stream API](https://dev.to/nullvoidkage/understanding-the-difference-between-filter-and-map-in-java-stream-api-i21)
+- [Descriptive Statistics](https://dev.to/jumashafara/descriptive-statistics-1g1e)
+- [AIAC and Docker - A seamless combination for your infrastrucutre](https://dev.to/neel_shah_b778f8a4cbe0452/aiac-and-docker-a-seamless-combination-for-your-infrastrucutre-4dk0)
+- [CodiumAI PR-Agent，在 GitLab 上用 AI 來 Code Review](https://dev.to/letswrite/codiumai-pr-agentzai-gitlab-shang-yong-ai-lai-code-review-heg)
+- [Simple REACT Projects || Random color project](https://dev.to/tobidelly/simple-react-projects-random-color-project-1e9k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
