@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Understanding the Difference Between `filter` and `map` in Java Stream API](https://dev.to/nullvoidkage/understanding-the-difference-between-filter-and-map-in-java-stream-api-i21)
-- [Descriptive Statistics](https://dev.to/jumashafara/descriptive-statistics-1g1e)
-- [AIAC and Docker - A seamless combination for your infrastrucutre](https://dev.to/neel_shah_b778f8a4cbe0452/aiac-and-docker-a-seamless-combination-for-your-infrastrucutre-4dk0)
-- [CodiumAI PR-Agent，在 GitLab 上用 AI 來 Code Review](https://dev.to/letswrite/codiumai-pr-agentzai-gitlab-shang-yong-ai-lai-code-review-heg)
-- [Simple REACT Projects || Random color project](https://dev.to/tobidelly/simple-react-projects-random-color-project-1e9k)
+- [Version Conflicts in the Package.json file](https://dev.to/himanshu_jangid_e2d30519d/version-conflicts-in-the-packagejson-file-25cb)
+- [🚀 10+ More Advanced Project Ideas to Level Up Your Developer Skills: Part 2](https://dev.to/lokesh_singh/10-more-advanced-project-ideas-to-level-up-your-developer-skills-part-2-4bb0)
+- [Building a Custom Command Palette with React: A Deep Dive into React Portals, Observables, and Event Listeners](https://dev.to/ashutoshsarangi/building-a-custom-command-palette-with-react-a-deep-dive-into-react-portals-observables-and-event-listeners-4kjm)
+- [Japanglish Tech Talk #2 Presentation Introduction](https://dev.to/tamtam0829/japanglish-tech-talk-2-presentation-introduction-9cl)
+- [fsPromises vs fs Module in Modern Node.js](https://dev.to/shanu001x/fspromises-vs-fs-module-in-modern-nodejs-414m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
