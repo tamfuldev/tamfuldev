@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a Web App with ARM Templates and Azure CLI](https://dev.to/dera2024/web-app-with-arm-templates-and-azure-cli-3jl0)
-- [Handling Complexity - functional + object-oriented programming](https://dev.to/ivangavlik/handling-complexity-functional-vs-object-oriented-programming-44je)
-- [What’s New: Upcoming Features and Updates in the ParkQwik App](https://dev.to/park_qwik_a7b04e6bd6a3aab/whats-new-upcoming-features-and-updates-in-the-parkqwik-app-f9l)
-- [Unleash Your Python Prowess: A Collection of Insightful Programming Tutorials](https://dev.to/labex/unleash-your-python-prowess-a-collection-of-insightful-programming-tutorials-2fb9)
-- [Better Merge Request Conventional with Templates in Gitlab](https://dev.to/gaundergod/better-merge-request-conventional-with-templates-in-gitlab-2jl7)
+- [WTF is a GitHub Profile README.md](https://dev.to/jacobshuman/wtf-is-a-github-profile-readmemd-1p8c)
+- [How to Detect if a User is in Dark Mode In Js](https://dev.to/avinash_tare/how-to-detect-if-a-user-is-in-dark-mode-in-js-5hhp)
+- [Create an EKS Cluster Using Terraform](https://dev.to/aws-builders/create-an-eks-cluster-using-terraform-1734)
+- [🚀 Fine-Tuning GPT-4: Unlocking Custom AI for Developers](https://dev.to/gadekar_sachin/fine-tuning-gpt-4-unlocking-custom-ai-for-developers-2ig1)
+- [React Prop Drilling: Should You Use It?](https://dev.to/apoorvtomar/react-prop-drilling-should-you-use-it-5f81)
 <!-- BLOG-POST-LIST:END -->
 
 ---
