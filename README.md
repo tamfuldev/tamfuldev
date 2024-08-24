@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build Reactive Web Components with SSR](https://dev.to/aralroca/build-reactive-web-components-with-ssr-3pb9)
-- [Access Nvidia gpu inside docker container in Arch linux](https://dev.to/pakos/access-nvidia-gpu-inside-docker-container-in-arch-linux-4k6b)
-- [How to Express SELECT * FROM t WHERE id = ? OR &lpar;name = ? AND age = ?&rpar; by Objects Only?](https://dev.to/f0rb/how-to-express-select-from-t-where-id-or-name-and-age-by-objects-only-3igb)
-- [Solving the &quot;Punycode Module is Deprecated&quot; Issue in Node.js](https://dev.to/asim_khan_cbe65e41bcbbc65/solving-the-punycode-module-is-deprecated-issue-in-nodejs-2e59)
-- [Kubernetes Core Concepts: Building Blocks of Container Orchestration](https://dev.to/emminex/kubernetes-core-concepts-building-blocks-of-container-orchestration-40k7)
+- [How to Start Freelance Blogging: A Detailed Guide](https://dev.to/raajaryan/how-to-start-freelance-blogging-a-detailed-guide-3bhc)
+- [How I Mastered CSS: From Basics to Responsive Design](https://dev.to/shivanshu-prajapati/how-i-mastered-css-from-basics-to-responsive-design-39c5)
+- [Crafting a Powerful API Performance CLI: Approach with .NET Core and System.CommandLine](https://dev.to/alisson_podgurski/crafting-a-powerful-api-performance-cli-approach-with-net-core-and-systemcommandline-3i9k)
+- [Today&#39;s Trending Projects: Circular Seating Arrangement Problem Solving and More](https://dev.to/labex/todays-trending-projects-circular-seating-arrangement-problem-solving-and-more-41hm)
+- [🔐 Building a Simple Password Generator with FastHTML](https://dev.to/polcontreras/building-a-simple-password-generator-with-fasthtml-4jhd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
