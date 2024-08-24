@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps Monitoring Project](https://dev.to/pratik_nalawade/devops-monitoring-project-4ipo)
-- [Understanding the Singleton Pattern with PHP Example](https://dev.to/hossamgouda/understanding-the-singleton-pattern-with-php-example-3i31)
-- [Best tips for designing a website: A guide for business owners](https://dev.to/hjemmesidedesign/best-tips-for-designing-a-website-a-guide-for-business-owners-116f)
-- [DBT and Software Engineering](https://dev.to/sudo_pradip/dbt-and-software-engineering-4006)
-- [Elevate Your Vue and Nuxt Code Quality with Vue Mess Detector](https://dev.to/rrd/elevate-your-vue-and-nuxt-code-quality-with-vue-mess-detector-4lm3)
+- [How to use chmod | Understanding File &amp; Directory Permissions](https://dev.to/mahimabhardwaj/how-to-use-chmod-understanding-file-directory-permissions-2b0k)
+- [Integrate Web Component/MFE with plain static HTML](https://dev.to/akdevcraft/integrate-web-componentmfe-with-plain-static-html-2729)
+- [Parallel Programming &amp; Async/Await &amp; Cancellation Token](https://dev.to/ipazooki/parallel-programming-asyncawait-cancellation-token-52ie)
+- [Web Browser Extension Workshop - Part 1](https://dev.to/vst/web-browser-extension-workshop-part-1-2eh)
+- [How To Build And Distribute Desktop Apps Using PHP And PHPDesktop: A Step-by-Step Guide](https://dev.to/dev_olatunji/how-to-build-and-distribute-desktop-apps-using-php-and-phpdesktop-a-step-by-step-guide-1g80)
 <!-- BLOG-POST-LIST:END -->
 
 ---
