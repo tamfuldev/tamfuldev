@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1017 : The Other Side](https://dev.to/dwane/day-1017-the-other-side-52di)
-- [Kafka Connect: FileStreamSourceConnector in distributed mode](https://dev.to/eidher/kafka-connect-filestreamsourceconnector-in-distributed-mode-4l8)
-- [Building a Responsive Navigation Bar with Flexbox: Lessons from Wes Bos&#39; Course](https://dev.to/divineisnotakid/building-a-responsive-navigation-bar-with-flexbox-lessons-from-wes-bos-course-npp)
-- [Security news weekly round-up - 23rd August 2024](https://dev.to/ziizium/security-news-weekly-round-up-23rd-august-2024-1p16)
-- [[pt-BR] Padrões de código em diferentes empresas - o que devo usar?](https://dev.to/scarlet/padroes-de-codigo-em-diferentes-empresas-o-que-devo-usar-7a)
+- [Build Reactive Web Components with SSR](https://dev.to/aralroca/build-reactive-web-components-with-ssr-3pb9)
+- [Access Nvidia gpu inside docker container in Arch linux](https://dev.to/pakos/access-nvidia-gpu-inside-docker-container-in-arch-linux-4k6b)
+- [How to Express SELECT * FROM t WHERE id = ? OR &lpar;name = ? AND age = ?&rpar; by Objects Only?](https://dev.to/f0rb/how-to-express-select-from-t-where-id-or-name-and-age-by-objects-only-3igb)
+- [Solving the &quot;Punycode Module is Deprecated&quot; Issue in Node.js](https://dev.to/asim_khan_cbe65e41bcbbc65/solving-the-punycode-module-is-deprecated-issue-in-nodejs-2e59)
+- [Kubernetes Core Concepts: Building Blocks of Container Orchestration](https://dev.to/emminex/kubernetes-core-concepts-building-blocks-of-container-orchestration-40k7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
