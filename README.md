@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [A Ruby/JS Equivalence](https://dev.to/theholyspirit/a-rubyjs-equivalence-5gk3)
+- [JoyCaption is amazing to caption training data. Advanced Gradio APP with batch processing and 1-click install](https://dev.to/furkangozukara/joycaption-is-amazing-to-caption-training-data-advanced-gradio-app-with-batch-processing-and-1-click-install-3d1i)
+- [Implementing Clean Architecture in Flutter: A Guide for Scalable App Development](https://dev.to/tl23143/implementing-clean-architecture-in-flutter-a-guide-for-scalable-app-development-1h2h)
+- [🚀 Primeros Pasos con Moodle: Crea tu Plataforma E-Learning en un Proyecto Local](https://dev.to/francotel/primeros-pasos-con-moodle-crea-tu-plataforma-e-learning-en-un-proyecto-local-32o0)
 - [How to Start Freelance Blogging: A Detailed Guide](https://dev.to/raajaryan/how-to-start-freelance-blogging-a-detailed-guide-3bhc)
-- [How I Mastered CSS: From Basics to Responsive Design](https://dev.to/shivanshu-prajapati/how-i-mastered-css-from-basics-to-responsive-design-39c5)
-- [Crafting a Powerful API Performance CLI: Approach with .NET Core and System.CommandLine](https://dev.to/alisson_podgurski/crafting-a-powerful-api-performance-cli-approach-with-net-core-and-systemcommandline-3i9k)
-- [Today&#39;s Trending Projects: Circular Seating Arrangement Problem Solving and More](https://dev.to/labex/todays-trending-projects-circular-seating-arrangement-problem-solving-and-more-41hm)
-- [🔐 Building a Simple Password Generator with FastHTML](https://dev.to/polcontreras/building-a-simple-password-generator-with-fasthtml-4jhd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
