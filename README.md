@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Node.JS - Foal framework version 4.5 is released 🎉](https://dev.to/loicpoullain/nodejs-foal-framework-version-45-is-released-3lhp)
-- [Integrating Zettelkasten Principles into a Second Brain System for Cloud Engineers](https://dev.to/starkydevs/integrating-zettelkasten-principles-into-a-second-brain-system-for-cloud-engineers-5hc0)
-- [Mastering Docker: A Comprehensive &#39;Quick Start with Docker&#39; Course](https://dev.to/labex/mastering-docker-a-comprehensive-quick-start-with-docker-course-12m6)
-- [Keeping the Your README Fresh and Engaging using AI](https://dev.to/pelikhan/keeping-the-your-readme-fresh-and-engaging-using-ai-111o)
-- [Understanding Database Connection Pooling](https://dev.to/siddharth_g/understanding-database-connection-pooling-420n)
+- [DevOps vs Traditional: A Comprehensive Comparison of Software Development Approaches](https://dev.to/eunice-js/devops-vs-traditional-a-comprehensive-comparison-of-software-development-approaches-ie5)
+- [564. Find the Closest Palindrome](https://dev.to/mdarifulhaque/564-find-the-closest-palindrome-4mlj)
+- [Today&#39;s Javascript Tip: extract multiple properties from an object into variables using destructuring assignment.](https://dev.to/mmourouh/todays-javascript-tip-extract-multiple-properties-from-an-object-into-variables-using-destructuring-assignment-12e)
+- [Git Cheatsheet that will make you a master in Git](https://dev.to/mahmudr/git-cheatsheet-that-will-make-you-a-master-in-git-4j3m)
+- [Upload Node.Js Code to azure using CI/CD pipeline using github actions](https://dev.to/dhaval_upadhyay_30f8292a8/upload-nodejs-code-to-azure-using-cicd-pipeline-using-github-actions-38mo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
