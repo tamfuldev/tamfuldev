@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter Animation](https://dev.to/aadarshk7/flutter-animation-4ddb)
-- [How Can I Improve My Sleep for Better Health?](https://dev.to/mghem2012/how-can-i-improve-my-sleep-for-better-health-28e9)
-- [Why Microservices Are Important Compared to Monolithic Architecture](https://dev.to/lakhansamani/why-microservices-are-important-compared-to-monolithic-architecture-34ne)
-- [Learning Node.js in 30 Days with AI - Day 1](https://dev.to/king_triton/learning-nodejs-in-30-days-with-ai-day-1-1bm)
-- [Web Security Essentials: Protecting Your Applications from Common Vulnerabilities](https://dev.to/soham_galande/web-security-essentials-protecting-your-applications-from-common-vulnerabilities-bdb)
+- [Fine-tuning veils rather than tailors underlying model powers](https://dev.to/mikeyoung44/fine-tuning-veils-rather-than-tailors-underlying-model-powers-54h4)
+- [Boost Your Machine Learning Skills: Free Courses for Math and Statistics](https://dev.to/sankarsubbu/boost-your-machine-learning-skills-free-courses-for-math-and-statistics-5fo6)
+- [🚀 Level Up Your Web Development with Next.js](https://dev.to/kavishka_dinajara_88/level-up-your-web-development-with-nextjs-2gkn)
+- [Building Hangout AI at the TiDB Future App Hackathon 2024](https://dev.to/ayusudi/building-hangout-ai-at-the-tidb-future-app-hackathon-2024-29j)
+- [No need of Try-Catch!! Javascript introduced new safe assignment operator✌](https://dev.to/sanskar_singh_js/no-need-of-try-catch-javascript-introduced-new-safe-assignment-operator-bko)
 <!-- BLOG-POST-LIST:END -->
 
 ---
