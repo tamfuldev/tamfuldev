@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [10 Things You Can Learn from Netflix’s Architecture](https://dev.to/somadevtoo/10-things-you-can-learn-from-netflixs-architecture-1bnn)
-- [Era of Intelligent Transformation - FAV0 Weekly #012](https://dev.to/justin3go/era-of-intelligent-transformation-fav0-weekly-012-8ce)
-- [Angular CDK Drag &amp; Drop: Multi Direction Movement](https://dev.to/ngmaterialdev/angular-cdk-drag-drop-multi-direction-movement-54l5)
-- [智变时代 - FAV0周刊#012](https://dev.to/justin3go/zhi-bian-shi-dai-fav0zhou-kan-012-13bi)
-- [Interface Segregation Principle](https://dev.to/prashantrmishra/interface-segregation-principle-4e97)
+- [Speeding Up Your Website Using Cloudflare Cache](https://dev.to/lilouartz/speeding-up-your-website-using-cloudflare-cache-25c0)
+- [Scrapy vs Selenium: Which Web Scraping Tool is Best?](https://dev.to/lewis_kerr_2d0d4c5b886b02/scrapy-vs-selenium-which-web-scraping-tool-is-best-3nhi)
+- [Absolutely FREE hosting server for your Backend &lpar;For Life&rpar;](https://dev.to/shivam-dhaka/absolutely-free-hosting-server-for-your-backend-for-life-172)
+- [What&#39;s Next After Learning Python](https://dev.to/vincod/whats-next-after-learning-python-4onh)
+- [How to Automate Image Downloading with Python: A Comprehensive Guide](https://dev.to/dm8ry/how-to-automate-image-downloading-with-python-a-comprehensive-guide-8n9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
