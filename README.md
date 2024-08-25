@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Leveraging IRSA with AWS SES To Send Emails from EKS Pods](https://dev.to/stintrilamah/leveraging-irsa-with-aws-ses-to-send-emails-from-eks-pods-c8c)
-- [Advice for people getting started with Knowledge Management and Writing](https://dev.to/dsebastien/advice-for-people-getting-started-with-knowledge-management-and-writing-3h1b)
-- [Effortless Payments with Lemon Squeezy | Next.js Integration Made Simple](https://dev.to/brokarim/effortless-payments-with-lemon-squeezy-nextjs-integration-made-simple-1k1o)
-- [How to use the HTML datalist tag](https://dev.to/mike_andreuzza/how-to-use-the-html-datalist-tag-o65)
-- [What&#39;s the difference between ReactNode vs React.Element](https://dev.to/nattive/whats-the-difference-between-reactnode-vs-reactelement-cgc)
+- [🚀 New open-source alert!](https://dev.to/twentyone24/new-open-source-alert-1193)
+- [Selenium](https://dev.to/selvakumar/selenium-3h6a)
+- [Selenium](https://dev.to/selvakumar/selenium-1k7p)
+- [Selenium](https://dev.to/selvakumar/selenium-425b)
+- [Building a Robust Test Suite for Single Page Applications &lpar;SPAs&rpar;](https://dev.to/aswani25/building-a-robust-test-suite-for-single-page-applications-spas-3cbe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
