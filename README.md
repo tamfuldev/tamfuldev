@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The ultimate guide to Data Analytics](https://dev.to/samkamuli/the-ultimate-guide-to-data-analytics-j3)
-- [145. Binary Tree Postorder Traversal](https://dev.to/mdarifulhaque/145-binary-tree-postorder-traversal-5628)
-- [Intro to the YouTube APIs: searching for videos](https://dev.to/wescpy/intro-to-the-youtube-apis-searching-for-videos-5a0o)
-- [Feature Engineering: The Ultimate Guide](https://dev.to/myrabel/feature-engineering-the-ultimate-guide-331e)
-- [Basic CRUD API using Django and Django REST Framework &lpar;DRF&rpar; || Simple API for managing a list of books.](https://dev.to/mayowakalejaiye/basic-crud-api-using-django-and-django-rest-framework-drf-simple-api-for-managing-a-list-of-books-45e0)
+- [Understanding Session Storage, Local Storage, and Cookies in Web Development](https://dev.to/eddiemuhoro/understanding-session-storage-local-storage-and-cookies-in-web-development-1i14)
+- [Vector Vision: Transform Your Local Image Search](https://dev.to/sumantha_ka/vector-vision-transform-your-local-image-search-56ph)
+- [Leveraging the MERN Stack for Scalable Web Applications](https://dev.to/codewithmahadihasan/leveraging-the-mern-stack-for-scalable-web-applications-23lg)
+- [The ultimate guide to Data Science.](https://dev.to/alvin_mustafa_/the-ultimate-guide-to-data-science-1063)
+- [Intercepted System.exit&lpar;...&rpar; on Java 21](https://dev.to/sualeh/java-systemexit-on-java-21-445a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
