@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Key Differences Between | and || in TypeScript](https://dev.to/akshatsoni26/understanding-the-key-differences-between-and-in-typescript-6jd)
-- [🥫 The Secret Sauce of Scalable Backends: Microservices Explained](https://dev.to/praetorian2710/the-secret-sauce-of-scalable-backends-microservices-explained-3644)
-- [Recursion -1](https://dev.to/vishnub33527201/recursion-1-3p1e)
-- [How to build a secure voting web app with FACEIO](https://dev.to/envitab/how-to-build-a-secure-voting-web-app-with-faceio-38f1)
-- [Unsupervised Learning: A Comprehensive Guide](https://dev.to/samarpitnandanwar/unsupervised-learning-a-comprehensive-guide-2bn0)
+- [Leveraging IRSA with AWS SES To Send Emails from EKS Pods](https://dev.to/stintrilamah/leveraging-irsa-with-aws-ses-to-send-emails-from-eks-pods-c8c)
+- [Advice for people getting started with Knowledge Management and Writing](https://dev.to/dsebastien/advice-for-people-getting-started-with-knowledge-management-and-writing-3h1b)
+- [Effortless Payments with Lemon Squeezy | Next.js Integration Made Simple](https://dev.to/brokarim/effortless-payments-with-lemon-squeezy-nextjs-integration-made-simple-1k1o)
+- [How to use the HTML datalist tag](https://dev.to/mike_andreuzza/how-to-use-the-html-datalist-tag-o65)
+- [What&#39;s the difference between ReactNode vs React.Element](https://dev.to/nattive/whats-the-difference-between-reactnode-vs-reactelement-cgc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
