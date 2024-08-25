@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [2D Free Noir Game Backgrounds - 4K Layered PSD](https://dev.to/devsdaddy/2d-free-noir-game-backgrounds-4k-layered-psd-2h6d)
-- [Building Accessible React Applications](https://dev.to/manjushsh/building-accessible-react-applications-3obm)
-- [Guía Completa para Crear una Instancia EC2 en AWS](https://dev.to/gabeincloud/guia-completa-para-crear-una-instancia-ec2-en-aws-4770)
-- [Proxmox Security Series:Securing Root Access](https://dev.to/sebos/proxmox-security-seriessecuring-root-access-190e)
-- [AWS EKS - Auth error or Forbidden access](https://dev.to/gustavorglima/aws-eks-auth-error-or-forbidden-access-15l4)
+- [Create chat bot - JO PARIS 2024](https://dev.to/victordalet/create-chat-bot-jo-paris-2024-4dnf)
+- [Tensorflow music prediction](https://dev.to/victordalet/tensorflow-music-prediction-4i6f)
+- [ROBOFLOW - train &amp; test with python](https://dev.to/victordalet/roboflow-train-test-with-python-4bd4)
+- [Amazon product dataset](https://dev.to/victordalet/amazon-product-dataset-h00)
+- [Selenium python and docker](https://dev.to/victordalet/selenium-python-and-docker-2852)
 <!-- BLOG-POST-LIST:END -->
 
 ---
