@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Create chat bot - JO PARIS 2024](https://dev.to/victordalet/create-chat-bot-jo-paris-2024-4dnf)
-- [Tensorflow music prediction](https://dev.to/victordalet/tensorflow-music-prediction-4i6f)
-- [ROBOFLOW - train &amp; test with python](https://dev.to/victordalet/roboflow-train-test-with-python-4bd4)
-- [Amazon product dataset](https://dev.to/victordalet/amazon-product-dataset-h00)
-- [Selenium python and docker](https://dev.to/victordalet/selenium-python-and-docker-2852)
+- [The ultimate guide to Data Analytics](https://dev.to/samkamuli/the-ultimate-guide-to-data-analytics-j3)
+- [145. Binary Tree Postorder Traversal](https://dev.to/mdarifulhaque/145-binary-tree-postorder-traversal-5628)
+- [Intro to the YouTube APIs: searching for videos](https://dev.to/wescpy/intro-to-the-youtube-apis-searching-for-videos-5a0o)
+- [Feature Engineering: The Ultimate Guide](https://dev.to/myrabel/feature-engineering-the-ultimate-guide-331e)
+- [Basic CRUD API using Django and Django REST Framework &lpar;DRF&rpar; || Simple API for managing a list of books.](https://dev.to/mayowakalejaiye/basic-crud-api-using-django-and-django-rest-framework-drf-simple-api-for-managing-a-list-of-books-45e0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
