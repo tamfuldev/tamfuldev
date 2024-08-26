@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Conventional Commits Pattern](https://dev.to/mspilari/conventional-commits-pattern-4i20)
-- [Configuration Management with Ansible](https://dev.to/spacelift/configuration-management-with-ansible-1f94)
-- [Hash Map using Javascript](https://dev.to/ashutoshsarangi/hash-map-using-javascript-5d03)
-- [Bye Bye, Try-Catch Blocks: Meet JavaScript&#39;s Safe Assignment Operator Proposal](https://dev.to/dipakahirav/bye-bye-try-catch-blocks-meet-javascripts-safe-assignment-operator-proposal-18jb)
-- [The Ultimate Guide to Data Analytics](https://dev.to/anna_m/the-ultimate-guide-to-data-analytics-521f)
+- [Your Ultimate Django SaaS Starterkit](https://dev.to/paul_freeman/your-ultimate-django-saas-starterkit-1n2o)
+- [Desafio de Código 01 - Explorando Serviços de Telefonia](https://dev.to/lnabesima/desafio-de-codigo-01-explorando-servicos-de-telefonia-d3g)
+- [What&#39;s New in Figma: Latest Features You Should Know](https://dev.to/uicraft_by_pratik/whats-new-in-figma-latest-features-you-should-know-24cg)
+- [System architecture is the backbone of any software system](https://dev.to/tomjohnson3/system-architecture-is-the-backbone-of-any-software-system-3fn9)
+- [Configuring JDBC to Connect to Databricks Using Java Spring Boot and JdbcTemplate](https://dev.to/matheusmartinello/configuring-jdbc-to-connect-to-databricks-using-java-spring-boot-and-jdbctemplate-1pnf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
