@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 Don&#39;t Miss These 50 Articles](https://dev.to/florianrappl/dont-miss-these-50-articles-5dg4)
-- [To Index Data is To Sort Data](https://dev.to/esproc_spl/to-index-data-is-to-sort-data-2c85)
-- [Improve your understanding of SOLID principles in OOPS.](https://dev.to/ranujmahajan/improve-your-understanding-of-solid-principles-in-oops-29cf)
-- [The Experiment of the ML Scientist](https://dev.to/eliasdzobo/the-experiment-of-the-ml-scientist-5eoj)
-- [Run AutoCAD online and render your designs 10x faster](https://dev.to/neverinstall/run-autocad-online-and-render-your-designs-10x-faster-e56)
+- [See untested code in GitLab MRs](https://dev.to/epigene/see-untested-code-in-gitlab-mrs-3i3k)
+- [Vercel vs Netlify: How to Pick the Right One](https://dev.to/focusreactive/vercel-vs-netlify-how-to-pick-the-right-one-d1e)
+- [If PHP Fell Out of Favor, Which Backend Language Would I Choose?](https://dev.to/violet_alexander_a4a3e5dd/if-php-fell-out-of-favor-which-backend-language-would-i-choose-40m2)
+- [Navigating the Digital Frontier: A Cybersecurity Primer for Business Owners](https://dev.to/zerodayrebel/navigating-the-digital-frontier-a-cybersecurity-primer-for-business-owners-hjl)
+- [Monitoring Third Party Vendors as an Ops Engineer/SRE](https://dev.to/hrishb/monitoring-third-party-vendors-as-an-ops-engineersre-41j1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
