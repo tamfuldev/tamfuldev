@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Real-Time Collaboration App with WebRTC](https://dev.to/kartikmehta8/building-a-real-time-collaboration-app-with-webrtc-38hd)
-- [Where does return render&lpar; &lt;UserProvider&gt; etc go in a test.js jest file?](https://dev.to/sleepydev/where-does-return-render-etc-go-in-a-testjs-jest-file-4h3k)
-- [Today I learned](https://dev.to/drefox350/today-i-learned-on2)
-- [Scalable Url Shortener Part1](https://dev.to/taman9333/scalable-url-shortener-part1-5f5n)
-- [Expo/React Native Drag and Drop Example](https://dev.to/lico/exporeact-native-drag-and-drop-example-4d3n)
+- [First python code](https://dev.to/mfolk77/first-python-code-4f8m)
+- [HackerRank SQL Preparation: Weather Observation Station 3&lpar;MySQL&rpar;](https://dev.to/christianpaez/hackerrank-sql-preparation-weather-observation-station-3mysql-2l73)
+- [c++ 1 1 placeholder](https://dev.to/__040711563a17902392e7/c-1-1-placeholder-m5h)
+- [Today&#39;s Trending Projects: Query Is So Slow and More 🔥](https://dev.to/labex/todays-trending-projects-query-is-so-slow-and-more-1mlb)
+- [萃取](https://dev.to/__040711563a17902392e7/cui-qu-2m56)
 <!-- BLOG-POST-LIST:END -->
 
 ---
