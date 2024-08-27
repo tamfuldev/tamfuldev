@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [New NestJS Swagger Generator evolved than ever](https://dev.to/samchon/new-nestjs-swagger-generator-evolved-than-ever-1phe)
-- [Web Browser Extension Workshop - Part 4](https://dev.to/vst/web-browser-extension-workshop-part-4-1aap)
-- [Python,SQL and Linux](https://dev.to/mohanavamsi0614/pythonsql-and-linux-5760)
-- [How Comparison Optimization Makes Python Sorting Faster](https://dev.to/tilalis/how-comparison-optimization-makes-python-sorting-faster-25oj)
-- [Understanding Routing in .NET: A Guide for Developers](https://dev.to/azizularif/understanding-routing-in-net-a-guide-for-developers-5aip)
+- [40 Days Of Kubernetes &lpar;4/40&rpar;](https://dev.to/subham_nandi/40-days-of-kubernetes-440-3m61)
+- [Code Anywhere, Anytime: Discover the Power of VS Code Web](https://dev.to/mahrukh_adeel/code-anywhere-anytime-discover-the-power-of-vs-code-web-56h)
+- [You Don’t Have to Be a Victim](https://dev.to/femolacaster/you-dont-have-to-be-a-victim-4f20)
+- [Introducing the Smiley Investment Planner 1.0](https://dev.to/jcsmileyjr/introducing-the-smiley-investment-planner-10-178j)
+- [How to avoid using unnecessary useEffect in your React App](https://dev.to/douglas_almeida_05b0db1f9/how-to-avoid-using-unnecessary-useeffect-in-your-react-app-4nlp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
