@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [TipsNOW is LIVE !](https://dev.to/bhavik_rohit_0dde2cae346c/tipsnow-is-live--4hgo)
-- [How to Launch Personalized WordPress Product Demos in No Time?](https://dev.to/shabbir_mw_03f56129cd25/how-to-launch-personalized-wordpress-product-demos-in-no-time-2b5c)
-- [Protect Your Site with SafeLine: A Free, Open-Source WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/protect-your-site-with-safeline-a-free-open-source-waf-3keb)
-- [TicTacToe](https://dev.to/woli_agba_e26c80d56612666/tictactoe-56bg)
-- [The Impact of a Payment Gateway on Consumer Trust](https://dev.to/paytabs/the-impact-of-a-payment-gateway-on-consumer-trust-2m73)
+- [How to Install Plugins in Kubernetes and Essential Plugins to Get Started](https://dev.to/syedasadrazadevops/how-to-install-plugins-in-kubernetes-and-essential-plugins-to-get-started-355k)
+- [Testes integrados com Wiremock](https://dev.to/marcosfaneli/testes-integrados-com-wiremock-3he6)
+- [Serverless Telegram Bot: Setting up our environment in AWS with CDK](https://dev.to/nicols_vera_23fdade71d31/serverless-telegram-bot-setting-up-our-environment-in-aws-with-cdk-nn6)
+- [AWS Network Access Analyzer Overview](https://dev.to/aws-builders/improve-and-analyze-aws-vpc-security-posture-with-network-access-analyzer-22ke)
+- [New in Python Connectors Release: Microsoft Excel Integration and Updated Subscription Model Support](https://dev.to/devartteam/new-in-python-connectors-release-microsoft-excel-integration-and-updated-subscription-model-support-5a1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
