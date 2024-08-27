@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Software Developers Need Dedicated Test Environments: A Comprehensive Guide](https://dev.to/misterankit/why-software-developers-need-dedicated-test-environments-a-comprehensive-guide-4fia)
-- [Building an AI-Powered CLI with Golang and Google Gemini](https://dev.to/pradumnasaraf/building-an-ai-powered-cli-with-golang-and-google-gemini-45a1)
-- [Retrieval-Augmented Generation &lpar;RAG&rpar; Architecture](https://dev.to/ankush_mahore/retrieval-augmented-generation-rag-architecture-nmb)
-- [Dive Into the Wonders of Node.js with &quot;Node.js Notes for Professionals&quot; 🚀](https://dev.to/getvm/dive-into-the-wonders-of-nodejs-with-nodejs-notes-for-professionals-1669)
-- [🤖 Understanding GANs: The Magic Behind Generative Adversarial Networks](https://dev.to/abhinowww/understanding-gans-the-magic-behind-generative-adversarial-networks-1fb5)
+- [Tutorial: How to Integrate Passkeys into Angular](https://dev.to/corbado/tutorial-how-to-integrate-passkeys-into-angular-493p)
+- [Variables Part-04](https://dev.to/monirulislam027/variables-part-04-22i4)
+- [An Introduction to Behavior Driven Development &lpar;BDD&rpar;](https://dev.to/keploy/an-introduction-to-behavior-driven-development-bdd-38ci)
+- [Securing your Cloud Infrastructure: A comprehensive guide to hardening, scaling, automating and monitoring your servers](https://dev.to/seunb/securing-your-cloud-infrastructure-a-comprehensive-guide-to-hardening-scaling-automating-and-monitoring-your-servers-ic8)
+- [How I got a job at AWS](https://dev.to/winstonpuckett/how-i-got-a-job-at-aws-5hm3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
