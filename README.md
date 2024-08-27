@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Install Plugins in Kubernetes and Essential Plugins to Get Started](https://dev.to/syedasadrazadevops/how-to-install-plugins-in-kubernetes-and-essential-plugins-to-get-started-355k)
-- [Testes integrados com Wiremock](https://dev.to/marcosfaneli/testes-integrados-com-wiremock-3he6)
-- [Serverless Telegram Bot: Setting up our environment in AWS with CDK](https://dev.to/nicols_vera_23fdade71d31/serverless-telegram-bot-setting-up-our-environment-in-aws-with-cdk-nn6)
-- [AWS Network Access Analyzer Overview](https://dev.to/aws-builders/improve-and-analyze-aws-vpc-security-posture-with-network-access-analyzer-22ke)
-- [New in Python Connectors Release: Microsoft Excel Integration and Updated Subscription Model Support](https://dev.to/devartteam/new-in-python-connectors-release-microsoft-excel-integration-and-updated-subscription-model-support-5a1)
+- [AI Tool Is Now Supporting React, Angular, CSS, Svelte, Vue](https://dev.to/buildwebcrumbs/ai-tool-is-now-supporting-react-angular-css-svelte-vue-3m0j)
+- [Tidy up your Rails code with `inquiry`](https://dev.to/railsdesigner/tidy-up-your-rails-code-with-inquiry-1jj)
+- [ERC-20 Token Standard: A basic guide on what you need to know](https://dev.to/ceasermikes002/erc-20-token-standard-a-basic-guide-on-what-you-need-to-know-2kg1)
+- [Create a modern image upload component with vuetify](https://dev.to/3aluw/create-a-modern-image-upload-component-with-vuetify-218p)
+- [The Future of AI in Personalizing User: Trends &amp; Innovations 🤖](https://dev.to/hanzla-mirza/the-future-of-ai-in-personalizing-user-trends-innovations-3gkf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
