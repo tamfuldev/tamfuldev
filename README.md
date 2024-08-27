@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What is URL Phishing and How to Prevent it?](https://dev.to/clouddefenseai/what-is-url-phishing-and-how-to-prevent-it-3f34)
-- [C# Enum Bitwise Operations](https://dev.to/rmaurodev/c-enum-bitwise-operations-339g)
-- [7 Most Popular JavaScript Front-End Frameworks in 2024 Visualized with Graphs 📊📈](https://dev.to/thomasjanuta/7-most-popular-javascript-front-end-frameworks-in-2024-visualized-with-graphs-3ohe)
-- [Programación Orientada a Objetos en TypeScript](https://dev.to/sebastianbh/programacion-orientada-a-objetos-en-typescript-5gg0)
-- [Go 1.23: Funcionalidades, melhorias e como elas impactam seu código](https://dev.to/rflpazini/go-123-funcionalidades-melhorias-e-como-elas-impactam-seu-codigo-1ie5)
+- [New NestJS Swagger Generator evolved than ever](https://dev.to/samchon/new-nestjs-swagger-generator-evolved-than-ever-1phe)
+- [Web Browser Extension Workshop - Part 4](https://dev.to/vst/web-browser-extension-workshop-part-4-1aap)
+- [Python,SQL and Linux](https://dev.to/mohanavamsi0614/pythonsql-and-linux-5760)
+- [How Comparison Optimization Makes Python Sorting Faster](https://dev.to/tilalis/how-comparison-optimization-makes-python-sorting-faster-25oj)
+- [Understanding Routing in .NET: A Guide for Developers](https://dev.to/azizularif/understanding-routing-in-net-a-guide-for-developers-5aip)
 <!-- BLOG-POST-LIST:END -->
 
 ---
