@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [python program Lists](https://dev.to/avinash_mathi_483b018e36b/python-program-lists-5hc1)
-- [Day 1: Introduction to ReactJS](https://dev.to/haquedot/day-1-introduction-to-reactjs-3a07)
-- [Deploy Nextjs ke Aws Amplify](https://dev.to/saepulmalik27/deploy-nextjs-ke-aws-amplify-4mjk)
-- [Today&#39;s Trending Projects: Implementation of Polynomial Regression and More](https://dev.to/labex/todays-trending-projects-implementation-of-polynomial-regression-and-more-38eh)
-- [Recursion : Part - 01](https://dev.to/sajjadrahman56/recursion-part-01-53h1)
+- [#53 — Get Desired Data Every N Rows And Combine Them Into One Row](https://dev.to/judith677/53-get-desired-data-every-n-rows-and-combine-them-into-one-row-3m3m)
+- [From software developer to waiter in Dubai](https://dev.to/kevincoto/from-software-developer-to-waiter-in-dubai-gfe)
+- [Organic Traffic Recovery: How to Win SERPs and Influence Execs](https://dev.to/daedtech/organic-traffic-recovery-how-to-win-serps-and-influence-execs-1ecm)
+- [Leetcode: minEatingSpeed](https://dev.to/jennthecoder/leetcode-mineatingspeed-1j97)
+- [Tutorial how to use node js until displays &quot;Hello World&quot;](https://dev.to/ghifaris/tutorial-how-to-use-node-js-until-displays-hello-world-54g8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
