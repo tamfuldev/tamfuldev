@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [#53 — Get Desired Data Every N Rows And Combine Them Into One Row](https://dev.to/judith677/53-get-desired-data-every-n-rows-and-combine-them-into-one-row-3m3m)
-- [From software developer to waiter in Dubai](https://dev.to/kevincoto/from-software-developer-to-waiter-in-dubai-gfe)
-- [Organic Traffic Recovery: How to Win SERPs and Influence Execs](https://dev.to/daedtech/organic-traffic-recovery-how-to-win-serps-and-influence-execs-1ecm)
-- [Leetcode: minEatingSpeed](https://dev.to/jennthecoder/leetcode-mineatingspeed-1j97)
-- [Tutorial how to use node js until displays &quot;Hello World&quot;](https://dev.to/ghifaris/tutorial-how-to-use-node-js-until-displays-hello-world-54g8)
+- [Welcome Thread - v291](https://dev.to/devteam/welcome-thread-v291-1fmj)
+- [Server-Side Rendering vs Static Site Generation: Choosing the Right Approach for Your Next.js Project 🚀](https://dev.to/shahharsh/server-side-rendering-vs-static-site-generation-choosing-the-right-approach-for-your-nextjs-project-39op)
+- [Neon OSS Kit: Ship your Next.js apps faster than ever!](https://dev.to/rohittcodes/neon-oss-kit-ship-your-nextjs-apps-faster-than-ever-4n7f)
+- [Scalability](https://dev.to/sonu_sharma/scalability-3pl4)
+- [Availability](https://dev.to/sonu_sharma/availability-bj0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
