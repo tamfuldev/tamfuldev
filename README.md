@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Callback Chaos to Async Zen: A JavaScript Journey](https://dev.to/baransel/from-callback-chaos-to-async-zen-a-javascript-journey-5ef0)
-- [Postgres Foreign Data Wrappers with Wasm](https://dev.to/supabase/postgres-foreign-data-wrappers-with-wasm-ld)
-- [Django is for everyone.](https://dev.to/battlecat/django-is-for-everyone-3dkp)
-- [Why Custom Post Types Are a Game Changer for WordPress Sites](https://dev.to/jamesmartindev/why-custom-post-types-are-a-game-changer-for-wordpress-sites-2c04)
-- [A new way to create desktop applications: Tauri + React](https://dev.to/manascodes13/a-new-way-to-create-desktop-applications-tauri-react-59bp)
+- [React Hooks](https://dev.to/vincod/react-hooks-51l)
+- [Adding Search Functionality to a Hugo Static Site Based on INFINI Pizza for WebAssembly](https://dev.to/medcl/adding-search-functionality-to-a-hugo-static-site-based-on-infini-pizza-for-webassembly-4h5e)
+- [A practical way to test HTML and CSS in real-time using only CSS.](https://dev.to/tinchox5/a-practical-way-to-test-html-and-css-in-real-time-using-only-css-3c80)
+- [AngularJS in 2024: Key Updates, Trends, and Community Insights](https://dev.to/snapnews-local/angularjs-in-2024-key-updates-trends-and-community-insights-1jo8)
+- [OAuth 2 for SWEs working on AuthZ systems](https://dev.to/zhiyuanamos/oauth-2-for-swes-working-on-authz-systems-379c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
