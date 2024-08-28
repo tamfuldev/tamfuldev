@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Dynamic CSS 🌐Orb with Custom Properties and Gradients &lpar;One Element&rpar;!](https://dev.to/alishata128/creating-a-dynamic-css-orb-with-custom-properties-and-gradients-one-element-43en)
-- [Congrats to the Build Better on Stellar: Smart Contract Challenge Winners!](https://dev.to/devteam/congrats-to-the-build-better-on-stellar-smart-contract-challenge-winners-5h9m)
-- [Learn Ruby and TDD at the same time](https://dev.to/meleu/learn-ruby-and-tdd-at-the-same-time-2en1)
-- [Day7 #100days Miva challenge](https://dev.to/damilola_oyeyipo_1348716f/day7-100days-miva-challenge-fdj)
-- [Just uploaded a new video on arrays in Java Dive in and check it out now!](https://dev.to/mmourouh/just-uploaded-a-new-video-on-arrays-in-java-dive-in-and-check-it-out-now-9el)
+- [A Review of AI-Based Fire Evacuation Automation Systems: Current Practices, Challenges, and Future Enhancements](https://dev.to/tahirriqball/a-review-of-ai-based-fire-evacuation-automation-systems-current-practices-challenges-and-future-enhancements-4da2)
+- [Create a remark plugin to extract MDX reading time](https://dev.to/logto/create-a-remark-plugin-to-extract-mdx-reading-time-5d2h)
+- [🚗 Automotive Software: The Critical Role of Engineering Rigor in High-Consequence Systems 🚗](https://dev.to/edensoftlabs/automotive-software-the-critical-role-of-engineering-rigor-in-high-consequence-systems-1e97)
+- [Best New Mini Micro Games](https://dev.to/joestrout/best-new-mini-micro-games-55gg)
+- [Enable Print and Document Services in Windows 11!](https://dev.to/winsides/enable-print-and-document-services-in-windows-11-ppe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
