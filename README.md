@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Review of AI-Based Fire Evacuation Automation Systems: Current Practices, Challenges, and Future Enhancements](https://dev.to/tahirriqball/a-review-of-ai-based-fire-evacuation-automation-systems-current-practices-challenges-and-future-enhancements-4da2)
-- [Create a remark plugin to extract MDX reading time](https://dev.to/logto/create-a-remark-plugin-to-extract-mdx-reading-time-5d2h)
-- [🚗 Automotive Software: The Critical Role of Engineering Rigor in High-Consequence Systems 🚗](https://dev.to/edensoftlabs/automotive-software-the-critical-role-of-engineering-rigor-in-high-consequence-systems-1e97)
-- [Best New Mini Micro Games](https://dev.to/joestrout/best-new-mini-micro-games-55gg)
-- [Enable Print and Document Services in Windows 11!](https://dev.to/winsides/enable-print-and-document-services-in-windows-11-ppe)
+- [python program Lists](https://dev.to/avinash_mathi_483b018e36b/python-program-lists-5hc1)
+- [Day 1: Introduction to ReactJS](https://dev.to/haquedot/day-1-introduction-to-reactjs-3a07)
+- [Deploy Nextjs ke Aws Amplify](https://dev.to/saepulmalik27/deploy-nextjs-ke-aws-amplify-4mjk)
+- [Today&#39;s Trending Projects: Implementation of Polynomial Regression and More](https://dev.to/labex/todays-trending-projects-implementation-of-polynomial-regression-and-more-38eh)
+- [Recursion : Part - 01](https://dev.to/sajjadrahman56/recursion-part-01-53h1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
