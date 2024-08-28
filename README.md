@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [React Hooks](https://dev.to/vincod/react-hooks-51l)
-- [Adding Search Functionality to a Hugo Static Site Based on INFINI Pizza for WebAssembly](https://dev.to/medcl/adding-search-functionality-to-a-hugo-static-site-based-on-infini-pizza-for-webassembly-4h5e)
-- [A practical way to test HTML and CSS in real-time using only CSS.](https://dev.to/tinchox5/a-practical-way-to-test-html-and-css-in-real-time-using-only-css-3c80)
-- [AngularJS in 2024: Key Updates, Trends, and Community Insights](https://dev.to/snapnews-local/angularjs-in-2024-key-updates-trends-and-community-insights-1jo8)
-- [OAuth 2 for SWEs working on AuthZ systems](https://dev.to/zhiyuanamos/oauth-2-for-swes-working-on-authz-systems-379c)
+- [🤖 AI: Unlocking the Future ! 🌟](https://dev.to/lokesh_singh/ai-unlocking-the-future--48en)
+- [Scrape the web with puppeteer!](https://dev.to/cedsengine/scrape-the-web-with-puppeteer-2hmh)
+- [Authentication with NestJS, Neon, and JWT: A Robust Starter Kit](https://dev.to/ayoaduwo/authentication-with-nestjs-neon-and-jwt-a-robust-starter-kit-9d9)
+- [Implementing WebAuthn for passwordless logins](https://dev.to/logrocket/implementing-webauthn-for-passwordless-logins-50o0)
+- [Airtable Overview: The Modern Database Tool for All Your Needs](https://dev.to/meghaghotkar/airtable-overview-the-modern-database-tool-for-all-your-needs-4353)
 <!-- BLOG-POST-LIST:END -->
 
 ---
