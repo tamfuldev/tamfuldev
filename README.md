@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Secure Your Website Effortlessly: The Community-Driven WAF Solution](https://dev.to/lulu_liu_c90f973e2f954d7f/secure-your-website-effortlessly-the-community-driven-waf-solution-54op)
-- [Currying in JavaScript সম্পর্কে বিস্তারিত আলোচনা](https://dev.to/rsmacademybd/currying-in-javascript-smprke-bistaarit-aalocnaa-3el7)
-- [10-Day .Net Aspire Challenge: Day 1 — Introduction](https://dev.to/ssukhpinder/10-day-net-aspire-challenge-day-1-introduction-33n6)
-- [How to Run Flux 1 Schnell and Pro Image Generator in the Cloud](https://dev.to/nodeshiftcloud/how-to-run-flux-1-schnell-and-pro-image-generator-in-the-cloud-4d7h)
-- [Recursion in JavaScript সম্পর্কে বিস্তারিত আলোচনা](https://dev.to/rsmacademybd/recursion-in-javascript-smprke-bistaarit-aalocnaa-1h14)
+- [DevOps Shack: Multi-Cluster CI/CD DevOps Project 🌟](https://dev.to/swapi123/devops-shack-multi-cluster-cicd-devops-project-3llf)
+- [The Chrome Extensions Handbook: Memory-Heavy to Production-Ready](https://dev.to/sfundomhlungu/the-chrome-extensions-handbook-memory-heavy-to-production-ready-2a0)
+- [HSL Color Theory: How to Use Hue, Saturation, and Lightness for Perfect Color Schemes](https://dev.to/futuristicgeeks/hsl-color-theory-how-to-use-hue-saturation-and-lightness-for-perfect-color-schemes-3h72)
+- [Building Chrome Extensions 101: A Quick Overview](https://dev.to/sfundomhlungu/building-chrome-extensions-101-a-quick-overview-2p96)
+- [Useful automations using Slack, GitHub, Jira, Google tools and more](https://dev.to/haimzlato/useful-automations-using-slack-github-jira-google-tools-and-more-3oj9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
