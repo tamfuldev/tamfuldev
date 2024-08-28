@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 AI: Unlocking the Future ! 🌟](https://dev.to/lokesh_singh/ai-unlocking-the-future--48en)
-- [Scrape the web with puppeteer!](https://dev.to/cedsengine/scrape-the-web-with-puppeteer-2hmh)
-- [Authentication with NestJS, Neon, and JWT: A Robust Starter Kit](https://dev.to/ayoaduwo/authentication-with-nestjs-neon-and-jwt-a-robust-starter-kit-9d9)
-- [Implementing WebAuthn for passwordless logins](https://dev.to/logrocket/implementing-webauthn-for-passwordless-logins-50o0)
-- [Airtable Overview: The Modern Database Tool for All Your Needs](https://dev.to/meghaghotkar/airtable-overview-the-modern-database-tool-for-all-your-needs-4353)
+- [Exploring Synthetic Beans in Quarkus. A Powerful Extension Mechanism](https://dev.to/yanev/exploring-synthetic-beans-in-quarkus-a-powerful-extension-mechanism-fbd)
+- [SaaS Application Development: Everything a Startup Needs to Know](https://dev.to/techahead/saas-application-development-everything-a-startup-needs-to-know-1ffc)
+- [Laravel upgrade 10 to 11 Modifying Columns change](https://dev.to/luisgmoreno/laravel-upgrade-10-to-11-modifying-columns-change-598m)
+- [nio4r &quot;Failed to build gem native extension.&quot;](https://dev.to/codedir/nio4r-failed-to-build-gem-native-extension-3f3a)
+- [DEAR DEV.TO.......](https://dev.to/mince/dear-devto-4c97)
 <!-- BLOG-POST-LIST:END -->
 
 ---
