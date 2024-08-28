@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Fast, Predictable &amp; Self-hosted AI Code Completion](https://dev.to/sp90/fast-predictable-self-hosted-ai-code-completion-1f4d)
-- [Understanding the basics of launching a web product](https://dev.to/wdp/understanding-the-basics-of-launching-a-web-product-40h3)
-- [Using JIT-compilers to make my Python loops slower?](https://dev.to/kanndide/using-jit-compilers-to-make-my-python-loops-slower-4m66)
-- [Prompt Engineering and Other Bullshit Jobs in Tech](https://dev.to/mihailtd/prompt-engineering-and-other-bullshit-jobs-in-tech-4lk4)
-- [Simple Language Translator with API](https://dev.to/marvellye/simple-language-translator-with-api-3bd7)
+- [Mind-Map for REACT.JS:](https://dev.to/bhu_101/mind-map-for-reactjs-2ad9)
+- [Python Interview Question - Beginner to Advance](https://dev.to/jasper475/python-interview-question-beginner-to-advance-1omp)
+- [Async Loops in JavaScript: for...of vs forEach](https://dev.to/alaa_ezzeldin/async-loops-in-javascript-forof-vs-foreach-5g2m)
+- [🎂 My 2^6 months retro at OPT-NC](https://dev.to/adriens/my-26-months-retro-at-opt-nc-pk2)
+- [Understanding Promises | Javascript - 1](https://dev.to/deepak_kumar_f89e83f79b15/understanding-promises-javascript-1-1ha6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
