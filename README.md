@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Synthetic Beans in Quarkus. A Powerful Extension Mechanism](https://dev.to/yanev/exploring-synthetic-beans-in-quarkus-a-powerful-extension-mechanism-fbd)
-- [SaaS Application Development: Everything a Startup Needs to Know](https://dev.to/techahead/saas-application-development-everything-a-startup-needs-to-know-1ffc)
-- [Laravel upgrade 10 to 11 Modifying Columns change](https://dev.to/luisgmoreno/laravel-upgrade-10-to-11-modifying-columns-change-598m)
-- [nio4r &quot;Failed to build gem native extension.&quot;](https://dev.to/codedir/nio4r-failed-to-build-gem-native-extension-3f3a)
-- [DEAR DEV.TO.......](https://dev.to/mince/dear-devto-4c97)
+- [Bash Shell Scripting: The Basics](https://dev.to/dev_frank/bash-shell-scripting-the-basics-1o5b)
+- [Introducing the Ultimate Resource for Marketers: The Awesome Marketing Tools List](https://dev.to/stan8086/introducing-the-ultimate-resource-for-marketers-the-awesome-marketing-tools-list-17jf)
+- [DAPR Distributed Application Runtime](https://dev.to/sreeni5018/dapr-distributed-application-runtime-57lm)
+- [Running Mailpit for SMTP and UI on MacOS](https://dev.to/abdulwahidkahar/running-mailpit-for-smtp-and-ui-on-macos-4fkp)
+- [Here&#39;s what I learned from building a chrome extension](https://dev.to/paul_freeman/heres-what-i-learned-from-building-a-chrome-extension-1986)
 <!-- BLOG-POST-LIST:END -->
 
 ---
