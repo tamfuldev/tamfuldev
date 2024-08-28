@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Infrastructure as Code Tools](https://dev.to/yayabobi/top-10-infrastructure-as-code-tools-1963)
-- [10 Must-Know JavaScript ES13 Features for Modern Development](https://dev.to/mdawooddev/10-must-know-javascript-es13-features-for-modern-development-3go3)
-- [How to Organize Better with TS Interfaces](https://dev.to/shagun_mistry/how-to-organize-better-with-ts-interfaces-127k)
-- [High or Low Card Game](https://dev.to/erza_kaneki/high-or-low-card-game-1kib)
-- [Project Starter Kit: Neon Postgres Database + ExpressJs + TypeScript and TypeORM](https://dev.to/cre8stevedev/project-starter-kit-neon-postgres-database-expressjs-typescript-and-typeorm-3g6f)
+- [Fast, Predictable &amp; Self-hosted AI Code Completion](https://dev.to/sp90/fast-predictable-self-hosted-ai-code-completion-1f4d)
+- [Understanding the basics of launching a web product](https://dev.to/wdp/understanding-the-basics-of-launching-a-web-product-40h3)
+- [Using JIT-compilers to make my Python loops slower?](https://dev.to/kanndide/using-jit-compilers-to-make-my-python-loops-slower-4m66)
+- [Prompt Engineering and Other Bullshit Jobs in Tech](https://dev.to/mihailtd/prompt-engineering-and-other-bullshit-jobs-in-tech-4lk4)
+- [Simple Language Translator with API](https://dev.to/marvellye/simple-language-translator-with-api-3bd7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
