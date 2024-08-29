@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a High-Availability Architecture with Free SafeLine WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/building-a-high-availability-architecture-with-free-safeline-waf-2lhd)
-- [Top Online React Compiler Comparisons for Developers](https://dev.to/codeparrot/top-online-react-compiler-comparisons-for-developers-2d91)
-- [Font end website design](https://dev.to/akash_singh_575a0f4c1d01b/font-end-website-design-34e8)
-- [Day 2: Setting Up Your Development Environment](https://dev.to/haquedot/day-2-setting-up-your-development-environment-1l0e)
-- [Rust for typescript devs: Immutabilty](https://dev.to/rhl314/rust-for-typescript-devs-immutabilty-2d9a)
+- [The Battle of the Frameworks: Who&#39;s Really Winning the JavaScript War?](https://dev.to/dharamgfx/the-battle-of-the-frameworks-whos-really-winning-the-javascript-war-3i0e)
+- [FrontEnd Interview Series](https://dev.to/dev007777/frontend-interview-series-4l6c)
+- [Migrating From Traditional To Healdess With Contentful: Challenges And Solutions!](https://dev.to/rajondey/migrating-from-traditional-to-healdess-with-contentful-challenges-and-solutions-2jg6)
+- [Behavior-Driven Development &lpar;BDD&rpar; Explained: How It Enhances Collaboration and Testing](https://dev.to/robort_smith/behavior-driven-development-bdd-explained-how-it-enhances-collaboration-and-testing-47pj)
+- [Best Kanban Board Templates for Streamlined Project Management](https://dev.to/codedthemes/best-kanban-board-templates-for-streamlined-project-management-20jf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
