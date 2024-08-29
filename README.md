@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [🌤️ Stop Using Margin-Top: Use Margin-Bottom and Gap Instead](https://dev.to/safdarali/stop-using-margin-top-use-margin-bottom-and-gap-instead-27eh)
+- [Retrieval Augmented Generation with Azure SQL](https://dev.to/azure/retrieval-augmented-generation-with-azure-sql-63m)
+- [How to manage power usage on intel laptops that come with an NVIDIA GPU ,Full guide for new Ubuntu users](https://dev.to/ali-alkhawaja/how-to-manage-power-usage-on-intel-laptops-that-come-with-an-nvidia-gpu-full-guide-for-new-ubuntu-users-6ib)
+- [🛠️ Introducing Faviconify: Dynamic Favicon Generator for React Apps](https://dev.to/sivamani18/introducing-faviconify-dynamic-favicon-generator-for-react-apps-34ng)
 - [Polyfills - a filler or a gaping hole? &lpar;Part-2&rpar;](https://dev.to/purnez/polyfills-a-filler-or-a-gaping-hole-part-2-14b3)
-- [Zoom Meetings API Integration Guide](https://dev.to/hrushi_yadav/zoom-meetings-api-integration-guide-1gi8)
-- [[Flatiron SE] Day 1: 08/29/24](https://dev.to/mrdrfeesh/flatiron-se-day-1-082924-4geo)
-- [How to Use Electron.js to Create Cross-Platform Desktop Applications](https://dev.to/abdulrafaykhan_dev/how-to-use-electronjs-to-create-cross-platform-desktop-applications-7ol)
-- [Similarities of laravel command and vue/react component props behavior](https://dev.to/yannid/similarities-of-laravel-command-and-vuereact-component-props-behavior-44f1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
