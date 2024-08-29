@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Which Linux command are you?](https://dev.to/ispmanager/which-linux-command-are-you-54gc)
-- [Salesforce Developer Tools - A Complete Overview](https://dev.to/edenwheeler/salesforce-developer-tools-a-complete-overview-11l2)
-- [IAM for Amazon ECS on AWS Fargate](https://dev.to/aws-builders/iam-for-amazon-ecs-on-aws-fargate-2bk8)
-- [Git Commands automation using shell Script](https://dev.to/dipsankadariya/git-commands-automation-using-shell-script-2blj)
-- [How to build a marketplace MVP fast in Next.js](https://dev.to/razz1000/how-to-build-a-marketplace-mvp-fast-in-nextjs-2pnb)
+- [This is all about promo codes for sonic](https://dev.to/lorabrown3215/this-is-all-about-promo-codes-for-sonic-4en3)
+- [Test Staging Consent Management Platforms &lpar;CMP&rpar; Scripts on Production](https://dev.to/requestlyio/test-staging-consent-management-platforms-cmp-scripts-on-production-21gb)
+- [PostgREST 12.2: Prometheus metrics](https://dev.to/supabase/postgrest-122-prometheus-metrics-13cm)
+- [I AM SORRY.......](https://dev.to/mince/i-am-sorry-8a3)
+- [Build An Audio Transcriber and Analyzer using ToolJet and OpenAI](https://dev.to/tooljet/build-an-audio-transcriber-and-analyzer-using-tooljet-and-openai-1109)
 <!-- BLOG-POST-LIST:END -->
 
 ---
