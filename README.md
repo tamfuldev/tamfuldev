@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🌤️ Stop Using Margin-Top: Use Margin-Bottom and Gap Instead](https://dev.to/safdarali/stop-using-margin-top-use-margin-bottom-and-gap-instead-27eh)
-- [Retrieval Augmented Generation with Azure SQL](https://dev.to/azure/retrieval-augmented-generation-with-azure-sql-63m)
-- [How to manage power usage on intel laptops that come with an NVIDIA GPU ,Full guide for new Ubuntu users](https://dev.to/ali-alkhawaja/how-to-manage-power-usage-on-intel-laptops-that-come-with-an-nvidia-gpu-full-guide-for-new-ubuntu-users-6ib)
-- [🛠️ Introducing Faviconify: Dynamic Favicon Generator for React Apps](https://dev.to/sivamani18/introducing-faviconify-dynamic-favicon-generator-for-react-apps-34ng)
-- [Polyfills - a filler or a gaping hole? &lpar;Part-2&rpar;](https://dev.to/purnez/polyfills-a-filler-or-a-gaping-hole-part-2-14b3)
+- [Go fiber scaffolding cli](https://dev.to/superninjax2/go-fiber-scaffolding-cli-3n3e)
+- [Item 50: Faça cópias defensivas quando necessário](https://dev.to/giselecoder/item-50-faca-copias-defensivas-quando-necessario-1b7k)
+- [Item 49: Verifique a validade dos parâmetros](https://dev.to/giselecoder/item-49-verifique-a-validade-dos-parametros-dho)
+- [Day 1020 : In the Spot](https://dev.to/dwane/day-1020-in-the-spot-18k8)
+- [Antivírus Kaspersky bloqueia WSL&lpar;Windows subsystem Linux&rpar;](https://dev.to/daniellesiq/antivirus-kaspersky-bloqueia-wslwindows-subsystem-linux-2adk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
