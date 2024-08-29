@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Free Project: Use ChatGPT to Plot with Python and Matplotlib](https://dev.to/cognitiveclass/free-project-use-chatgpt-to-plot-with-python-and-matplotlib-5ha6)
-- [Flutter_dotenv Mastery: From Setup to Production](https://dev.to/joel207/flutterdotenv-mastery-from-setup-to-production-1jpo)
-- [Flutter_dotenv Mastery: From Setup to Production](https://dev.to/joel207/flutterdotenv-mastery-from-setup-to-production-2hh8)
-- [NAT Gateway Implementation](https://dev.to/clintt/nat-gateway-implementation-2c6f)
-- [Making UI Layout: Fast, Pixel Perfect, Without Stress 🚀](https://dev.to/niko_doing_dev/making-ui-layout-fast-pixel-perfect-without-stress-1n5m)
+- [Polyfills - a filler or a gaping hole? &lpar;Part-2&rpar;](https://dev.to/purnez/polyfills-a-filler-or-a-gaping-hole-part-2-14b3)
+- [Zoom Meetings API Integration Guide](https://dev.to/hrushi_yadav/zoom-meetings-api-integration-guide-1gi8)
+- [[Flatiron SE] Day 1: 08/29/24](https://dev.to/mrdrfeesh/flatiron-se-day-1-082924-4geo)
+- [How to Use Electron.js to Create Cross-Platform Desktop Applications](https://dev.to/abdulrafaykhan_dev/how-to-use-electronjs-to-create-cross-platform-desktop-applications-7ol)
+- [Similarities of laravel command and vue/react component props behavior](https://dev.to/yannid/similarities-of-laravel-command-and-vuereact-component-props-behavior-44f1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
