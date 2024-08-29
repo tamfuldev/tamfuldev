@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Some Developers Prefer to Manually Configure PHP Environments Instead of Using Deployment Tools](https://dev.to/gitter4coding/why-some-developers-prefer-to-manually-configure-php-environments-instead-of-using-deployment-tools-2pco)
-- [AWS Trusted Advisor: Everything You Need to Know](https://dev.to/supportfly/aws-trusted-advisor-everything-you-need-to-know-364l)
-- [AI Apps for Your Startup](https://dev.to/quick_technologies_6a47a9/ai-apps-for-your-startup-1ap8)
-- [LLM Agents for Technical writing](https://dev.to/ragavi_document360/llm-agents-for-technical-writing-4le7)
-- [Resizing Partitions on Linux](https://dev.to/pgradot/resizing-partitions-on-linux-408o)
+- [Which Linux command are you?](https://dev.to/ispmanager/which-linux-command-are-you-54gc)
+- [Salesforce Developer Tools - A Complete Overview](https://dev.to/edenwheeler/salesforce-developer-tools-a-complete-overview-11l2)
+- [IAM for Amazon ECS on AWS Fargate](https://dev.to/aws-builders/iam-for-amazon-ecs-on-aws-fargate-2bk8)
+- [Git Commands automation using shell Script](https://dev.to/dipsankadariya/git-commands-automation-using-shell-script-2blj)
+- [How to build a marketplace MVP fast in Next.js](https://dev.to/razz1000/how-to-build-a-marketplace-mvp-fast-in-nextjs-2pnb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
