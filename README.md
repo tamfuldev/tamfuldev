@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Battle of the Frameworks: Who&#39;s Really Winning the JavaScript War?](https://dev.to/dharamgfx/the-battle-of-the-frameworks-whos-really-winning-the-javascript-war-3i0e)
-- [FrontEnd Interview Series](https://dev.to/dev007777/frontend-interview-series-4l6c)
-- [Migrating From Traditional To Healdess With Contentful: Challenges And Solutions!](https://dev.to/rajondey/migrating-from-traditional-to-healdess-with-contentful-challenges-and-solutions-2jg6)
-- [Behavior-Driven Development &lpar;BDD&rpar; Explained: How It Enhances Collaboration and Testing](https://dev.to/robort_smith/behavior-driven-development-bdd-explained-how-it-enhances-collaboration-and-testing-47pj)
-- [Best Kanban Board Templates for Streamlined Project Management](https://dev.to/codedthemes/best-kanban-board-templates-for-streamlined-project-management-20jf)
+- [When &lpar;not&rpar; to write an Apache APISIX plugin](https://dev.to/apisix/when-not-to-write-an-apache-apisix-plugin-4fpo)
+- [Secure Your Website with SafeLine-Configuring on a Standalone Server](https://dev.to/lulu_liu_c90f973e2f954d7f/secure-your-website-with-safeline-configuring-on-a-standalone-server-3bll)
+- [How to Develop a Voice Chatbot](https://dev.to/ngocninh123/how-to-develop-a-voice-chatbot-4b9j)
+- [Boost Your Mobile App Performance: 4 Testing Best Practices](https://dev.to/jennife05918349/boost-your-mobile-app-performance-10-testing-best-practices-1ado)
+- [Keap: The All-in-One CRM and Marketing Automation Tool for Small Business Growth](https://dev.to/stan8086/keap-the-all-in-one-crm-and-marketing-automation-tool-for-small-business-growth-1hon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
