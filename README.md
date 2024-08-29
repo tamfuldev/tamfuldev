@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CSS conflict in React](https://dev.to/dessomu/css-conflict-in-react-38i7)
-- [How to Create a Dark Mode Toggle with HTML, CSS, and JavaScript](https://dev.to/warish/how-to-create-a-dark-mode-toggle-with-html-css-and-javascript-378m)
-- [Dive into the Fascinating World of Algorithms and Data Structures! 🤖](https://dev.to/getvm/dive-into-the-fascinating-world-of-algorithms-and-data-structures-4b5e)
-- [Configure SIEM Operations using Microsoft Sentinel](https://dev.to/bdporomon/configure-siem-operations-using-microsoft-sentinel-321a)
-- [Implementing a Simple Page View Tracker in Your React App](https://dev.to/vyan/implementing-a-simple-page-view-tracker-in-your-react-app-1b8j)
+- [Data Types Part-05](https://dev.to/monirulislam027/data-types-part-05-3l13)
+- [Give me solution: What will be the result of the following codes:](https://dev.to/khursheddev/give-me-solution-what-will-be-the-result-of-the-following-codes-2fp4)
+- [Mathematics &amp; Programming](https://dev.to/danishk7a/mathematics-programming-d65)
+- [Attempt #14 - Continued the React Crash Course](https://dev.to/dilsemonk/attempt-14-continued-the-react-crash-course-5gfk)
+- [goaccess for nginx report](https://dev.to/ugifractal/goaccess-for-nginx-report-19nc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
