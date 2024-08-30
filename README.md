@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [INTRODUCTION TO GIT AND GITHUB](https://dev.to/ankit_kumar_0135b965f8717/introduction-to-git-and-github-443i)
-- [Taming the Regex Beast: A Beginner&#39;s Guide to Regular Expressions](https://dev.to/baransel/taming-the-regex-beast-a-beginners-guide-to-regular-expressions-gh1)
-- [How to Use Tiptap Rich Text Editor with Next.js and Tailwind CSS: A Simple Guide](https://dev.to/theresa_o/how-to-use-tiptap-rich-text-editor-with-nextjs-and-tailwind-css-a-simple-guide-18c2)
-- [Should Startups Outsource Software Development?](https://dev.to/zerodays/should-startups-outsource-software-development-4jhf)
-- [Understanding Git](https://dev.to/nika100/understanding-git-323n)
+- [Aprende a pelear tus batallas](https://dev.to/dennistobar/aprende-a-pelear-tus-batallas-2m6p)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4do6)
+- [VPCs, Subnets, Load Balancing, and Content Delivery Networks](https://dev.to/jinesh_vora_ab4d7886e6a8d/vpcs-subnets-load-balancing-and-content-delivery-networks-2aog)
+- [AWS OpsWorks Explained: Automate Your Cloud Infrastructure](https://dev.to/rose_rusell_8839af0b0bba5/aws-opsworks-explained-automate-your-cloud-infrastructure-41li)
+- [Javascript Code Snippets](https://dev.to/madgan95/javascript-code-snippets-56d3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
