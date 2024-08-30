@@ -16,7 +16,7 @@
 # Latest stack oveflow activity
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><tr><td>Can I extract a database from a php website?</td><td>https://stackoverflow.com/questions/78930083/can-i-extract-a-database-from-a-php-website</td></tr><tr><td>Use Chrome Browser Cookie with cURL PHP</td><td>https://stackoverflow.com/questions/78929969/use-chrome-browser-cookie-with-curl-php</td></tr><tr><td>PHP mistake? somethings wrong with my code?</td><td>https://stackoverflow.com/questions/78929915/php-mistake-somethings-wrong-with-my-code</td></tr><tr><td>How can i add a custom select in PHPMaker code</td><td>https://stackoverflow.com/questions/78929896/how-can-i-add-a-custom-select-in-phpmaker-code</td></tr><tr><td>Transform crypt&lpar;&rpar; from PHP to Node.js</td><td>https://stackoverflow.com/questions/78929739/transform-crypt-from-php-to-node-js</td></tr><!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:START --><tr><td>wrong time in mysql</td><td>https://stackoverflow.com/questions/78930115/wrong-time-in-mysql</td></tr><tr><td>Can I extract a database from a php website?</td><td>https://stackoverflow.com/questions/78930083/can-i-extract-a-database-from-a-php-website</td></tr><tr><td>Use Chrome Browser Cookie with cURL PHP</td><td>https://stackoverflow.com/questions/78929969/use-chrome-browser-cookie-with-curl-php</td></tr><tr><td>PHP mistake? somethings wrong with my code?</td><td>https://stackoverflow.com/questions/78929915/php-mistake-somethings-wrong-with-my-code</td></tr><tr><td>How can i add a custom select in PHPMaker code</td><td>https://stackoverflow.com/questions/78929896/how-can-i-add-a-custom-select-in-phpmaker-code</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 
 ---
