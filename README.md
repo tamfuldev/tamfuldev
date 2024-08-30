@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Game Development &lpar;No Engine!😢&rpar;](https://dev.to/codewithshahan/the-future-of-game-development-no-engine-3gf5)
-- [Enhancing Kubernetes Security with SafeLine: A Comprehensive Guide](https://dev.to/lulu_liu_c90f973e2f954d7f/enhancing-kubernetes-security-with-safeline-a-comprehensive-guide-4je4)
-- [Step-by-Step Modeling of WaterDistiller Using EA and SysML &lpar;01&rpar;](https://dev.to/jiayufagao/step-by-step-modeling-of-waterdistiller-using-ea-and-sysml-01-181k)
-- [Configuring Postfix Admin in PHP-FPM Docker with Nginx Server on Host Machine](https://dev.to/paniya/configuring-postfix-admin-in-php-fpm-docker-with-nginx-server-on-host-machine-10j6)
-- [DevOps: Streamlining Software Development and IT Operations](https://dev.to/paniya/devops-streamlining-software-development-and-it-operations-17nn)
+- [Measuring Community Health: The Metrics That Actually Matter for Startup DevTools](https://dev.to/rakeshdoc-e/measuring-community-health-the-metrics-that-actually-matter-for-startup-devtools-47n3)
+- [🎯 Personalized Recommendations with Generative AI](https://dev.to/ai-horizon/personalized-recommendations-with-generative-ai-29an)
+- [Polling](https://dev.to/zeeshanali0704/polling-2hc8)
+- [Unleash Your Command Line Prowess with Rust! 🚀](https://dev.to/getvm/unleash-your-command-line-prowess-with-rust-5anc)
+- [Executing Codeless Test Automation – A Beginner’s Guide](https://dev.to/misterankit/executing-codeless-test-automation-a-beginners-guide-55e5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
