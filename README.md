@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Synchronous and Asynchronous Programming in Python: Key Concepts and Applications](https://dev.to/keshavadk/synchronous-and-asynchronous-programming-in-python-key-concepts-and-applications-28da)
-- [Build a Foodie Hamburger Website](https://dev.to/abhishekgurjar/build-a-foodie-hamburger-website-gkl)
-- [Recommended Project: Implement Thread Communication with Guava Monitor](https://dev.to/labex/recommended-project-implement-thread-communication-with-guava-monitor-3ng3)
-- [How to Enable Default Document Service IIS in Windows 11?](https://dev.to/winsides/how-to-enable-default-document-service-iis-in-windows-11-4b3g)
-- [A beginners&#39; guide to Software testing](https://dev.to/gayathribv/s-5951)
+- [3 Ways to Leverage MongoDB Atlas for Data Transfer Cost Optimization](https://dev.to/mongodb/3-ways-to-leverage-mongodb-atlas-for-data-transfer-cost-optimization-22lh)
+- [Cold Storage: A Deep Dive into the Frozen Vaults of Data](https://dev.to/femolacaster/cold-storage-a-deep-dive-into-the-frozen-vaults-of-data-66k)
+- [Baby Steps Learning Laravel](https://dev.to/mohammed_kareem/baby-steps-learning-laravel-2bn1)
+- [Using the alexmerced/datanotebook Docker Image](https://dev.to/alexmercedcoder/using-the-alexmerceddatanotebook-docker-image-4kmp)
+- [Cross-platform RAT deployed by weaponized &#39;requests&#39; clone](https://dev.to/stacklok/cross-platform-rat-deployed-by-weaponized-requests-clone-1oea)
 <!-- BLOG-POST-LIST:END -->
 
 ---
