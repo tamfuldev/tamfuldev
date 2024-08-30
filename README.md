@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Secure WordPress Site with Docker, Nginx, and SafeLine WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/building-a-secure-wordpress-site-with-docker-nginx-and-safeline-waf-31m6)
-- [Active Directory 101: Security, Integrations, and Best Practices](https://dev.to/neverinstall/active-directory-101-security-integrations-and-best-practices-2m1p)
-- [Build Modern Stack with Nextjs and NextAuth 5.x with Prisma](https://dev.to/inditechcoder/build-modern-stack-with-nextjs-and-nextauth-5x-with-prisma-7fi)
-- [Solving A Graph Problem: Part Two](https://dev.to/nurulmasih/solving-a-graph-problem-part-two-3a3h)
-- [How to use open source code safely without losing your software rights](https://dev.to/ispmanager/how-to-use-open-source-code-safely-without-losing-your-software-rights-3cgp)
+- [INTRODUCTION TO GIT AND GITHUB](https://dev.to/ankit_kumar_0135b965f8717/introduction-to-git-and-github-443i)
+- [Taming the Regex Beast: A Beginner&#39;s Guide to Regular Expressions](https://dev.to/baransel/taming-the-regex-beast-a-beginners-guide-to-regular-expressions-gh1)
+- [How to Use Tiptap Rich Text Editor with Next.js and Tailwind CSS: A Simple Guide](https://dev.to/theresa_o/how-to-use-tiptap-rich-text-editor-with-nextjs-and-tailwind-css-a-simple-guide-18c2)
+- [Should Startups Outsource Software Development?](https://dev.to/zerodays/should-startups-outsource-software-development-4jhf)
+- [Understanding Git](https://dev.to/nika100/understanding-git-323n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
