@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My first post - Hi, dev.to](https://dev.to/mlamina/my-first-post-hi-devto-1b3i)
-- [&quot;SyntaxError: Cannot use import statement outside a module&quot; error with createContext and useReducer](https://dev.to/cmcclister/syntaxerror-cannot-use-import-statement-outside-a-module-error-with-createcontext-and-usereducer-4nph)
-- [GitPrep has some new features and bug fixes.](https://dev.to/yukikimoto/gitprep-has-some-new-features-and-bug-fixes-3ki)
-- [Getting Started with HTML: Your Step-by-Step Guide to Creating Your First Web Page](https://dev.to/roberto_celano/getting-started-with-html-your-step-by-step-guide-to-creating-your-first-web-page-391l)
-- [How to Deploy Segment Anything Model 2 &lpar;SAM 2&rpar; With Modelbit](https://dev.to/victor_isaac_king/how-to-deploy-segment-anything-model-2-sam-2-with-modelbit-47ni)
+- [Basic Commands in Linux](https://dev.to/adesikemi_onifade_3c339af/basic-commands-in-linux-ja6)
+- [Understanding Ether Transfers in Solidity: send, transfer, and call](https://dev.to/tchisom17/understanding-ether-transfers-in-solidity-send-transfer-and-call-3k67)
+- [My Honest Review of Harvard’s CS50x: Tips, Guidelines &amp; Free Certificate](https://dev.to/adnansaim/my-honest-review-of-harvards-cs50x-tips-guidelines-free-certificate-32bk)
+- [My Second Year as a Developer Advocate: A Journey Through Different Conferences](https://dev.to/c_yatteau/my-second-year-as-a-developer-advocate-a-journey-through-different-conferences-dl5)
+- [Day 5 - Git Essential Training](https://dev.to/ryoichihomma/day-5-git-essential-training-4hcp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
