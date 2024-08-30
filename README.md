@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Go fiber scaffolding cli](https://dev.to/superninjax2/go-fiber-scaffolding-cli-3n3e)
-- [Item 50: Faça cópias defensivas quando necessário](https://dev.to/giselecoder/item-50-faca-copias-defensivas-quando-necessario-1b7k)
-- [Item 49: Verifique a validade dos parâmetros](https://dev.to/giselecoder/item-49-verifique-a-validade-dos-parametros-dho)
-- [Day 1020 : In the Spot](https://dev.to/dwane/day-1020-in-the-spot-18k8)
-- [Antivírus Kaspersky bloqueia WSL&lpar;Windows subsystem Linux&rpar;](https://dev.to/daniellesiq/antivirus-kaspersky-bloqueia-wslwindows-subsystem-linux-2adk)
+- [My first post - Hi, dev.to](https://dev.to/mlamina/my-first-post-hi-devto-1b3i)
+- [&quot;SyntaxError: Cannot use import statement outside a module&quot; error with createContext and useReducer](https://dev.to/cmcclister/syntaxerror-cannot-use-import-statement-outside-a-module-error-with-createcontext-and-usereducer-4nph)
+- [GitPrep has some new features and bug fixes.](https://dev.to/yukikimoto/gitprep-has-some-new-features-and-bug-fixes-3ki)
+- [Getting Started with HTML: Your Step-by-Step Guide to Creating Your First Web Page](https://dev.to/roberto_celano/getting-started-with-html-your-step-by-step-guide-to-creating-your-first-web-page-391l)
+- [How to Deploy Segment Anything Model 2 &lpar;SAM 2&rpar; With Modelbit](https://dev.to/victor_isaac_king/how-to-deploy-segment-anything-model-2-sam-2-with-modelbit-47ni)
 <!-- BLOG-POST-LIST:END -->
 
 ---
