@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [3 Ways to Leverage MongoDB Atlas for Data Transfer Cost Optimization](https://dev.to/mongodb/3-ways-to-leverage-mongodb-atlas-for-data-transfer-cost-optimization-22lh)
-- [Cold Storage: A Deep Dive into the Frozen Vaults of Data](https://dev.to/femolacaster/cold-storage-a-deep-dive-into-the-frozen-vaults-of-data-66k)
-- [Baby Steps Learning Laravel](https://dev.to/mohammed_kareem/baby-steps-learning-laravel-2bn1)
-- [Using the alexmerced/datanotebook Docker Image](https://dev.to/alexmercedcoder/using-the-alexmerceddatanotebook-docker-image-4kmp)
-- [Cross-platform RAT deployed by weaponized &#39;requests&#39; clone](https://dev.to/stacklok/cross-platform-rat-deployed-by-weaponized-requests-clone-1oea)
+- [Introducing The Pieces for Neovim Plugin! 🎉](https://dev.to/get_pieces/introducing-the-pieces-for-neovim-plugin-52ek)
+- [2699. Modify Graph Edge Weights](https://dev.to/mdarifulhaque/2699-modify-graph-edge-weights-p7j)
+- [Exploring Nesting with Flexbox](https://dev.to/divineisnotakid/exploring-nesting-with-flexbox-8ol)
+- [Mastering C++: Naming Standards for Variables](https://dev.to/eddiegulay/mastering-c-naming-standards-for-variables-272e)
+- [Android vs iOS](https://dev.to/chhajedji/android-vs-ios-1a4i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
