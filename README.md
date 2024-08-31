@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Kubernetes Architecture: Exploring the Control Plane and Worker Nodes](https://dev.to/emminex/understanding-kubernetes-architecture-exploring-the-control-plane-and-worker-nodes-2n5d)
-- [Strategies for Horizontal and Vertical Scaling of Backend Services](https://dev.to/shieldstring/strategies-for-horizontal-and-vertical-scaling-of-backend-services-1m68)
-- [Embracing the Alté in Development: My Journey as an Alté Developer](https://dev.to/braincodes/embracing-the-alte-in-development-my-journey-as-an-alte-developer-1ch9)
-- [Is AI failing? &lpar;Part 1&rpar;](https://dev.to/eddealmeidajr/is-ai-failing-part-1-3418)
-- [Connect Microsoft Outlook Calendar to Django Application](https://dev.to/karanjot_s/connect-microsoft-outlook-calendar-to-django-application-561p)
+- [ERC 20 TOKEN INTRO:Basics and Keypoints](https://dev.to/chukwuebuka_okeke_1451b54/erc-20-token-introbasics-and-keypoints-2fh6)
+- [Estratégias para escrever código com maior testabilidade - uma análise imperativa](https://dev.to/felipeleao18/estrategias-para-escrever-codigo-com-maior-testabilidade-uma-analise-imperativa-59ol)
+- [Understanding Engagement Models in Software Development](https://dev.to/tl23143/understanding-engagement-models-in-software-development-279k)
+- [Deploy a Express JS app in Lambda AWS](https://dev.to/janithdisanayake/deploy-a-express-js-app-in-lambda-aws-3f52)
+- [Desafio Pickle Rick - TryHackMe](https://dev.to/obtuosa/desafio-pickle-rick-tryhackme-1b55)
 <!-- BLOG-POST-LIST:END -->
 
 ---
