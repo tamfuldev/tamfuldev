@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mikroservis Mimarisinde genelde olabilecek servisler&lpar;Yorumlara açık.&rpar;](https://dev.to/mustafacam/mikroservis-mimarisinde-genelde-olmasi-gereken-servisler-1ae7)
-- [CQRS: The Design Pattern That’s Changing the Game &lpar;and How You Can Use It Too&rpar;](https://dev.to/manish-1614/cqrs-the-design-pattern-thats-changing-the-game-and-how-you-can-use-it-too-jp8)
-- [Mastering Django: How to Render HTML Like a Pro!](https://dev.to/oviyan007/mastering-django-how-to-render-html-like-a-pro-854)
-- [Secure Your Coding: Create an SSH Key on Mac or Windows](https://dev.to/lovelacecoding/secure-your-coding-create-an-ssh-key-on-mac-or-windows-pdd)
-- [Replicação Cross-Region: Garantindo Disponibilidade e Resiliência de Dados](https://dev.to/edgar_jose_412cdf41fb30a0/replicacao-cross-region-garantindo-disponibilidade-e-resiliencia-4b68)
+- [First AWS Project](https://dev.to/vsi12/first-aws-project-2gfm)
+- [Improve SDLC with DevOps](https://dev.to/hritikraj8804/improve-sdlc-with-devops-3kl2)
+- [⚡B.Y.O.N: Revolutionizing Party Booking with Next.js and Nylas](https://dev.to/duttaanirudh/byon-revolutionizing-party-booking-with-nextjs-and-nylas-5d61)
+- [ARM vs x86, Which works best for you!](https://dev.to/vanshaj_shah_4f3a7fb89c47/arm-vs-x86-which-works-best-for-you-5e88)
+- [Recommended Project: Querying Official Languages and Sorting](https://dev.to/labex/recommended-project-querying-official-languages-and-sorting-25ej)
 <!-- BLOG-POST-LIST:END -->
 
 ---
