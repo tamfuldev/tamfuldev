@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [First AWS Project](https://dev.to/vsi12/first-aws-project-2gfm)
-- [Improve SDLC with DevOps](https://dev.to/hritikraj8804/improve-sdlc-with-devops-3kl2)
-- [⚡B.Y.O.N: Revolutionizing Party Booking with Next.js and Nylas](https://dev.to/duttaanirudh/byon-revolutionizing-party-booking-with-nextjs-and-nylas-5d61)
-- [ARM vs x86, Which works best for you!](https://dev.to/vanshaj_shah_4f3a7fb89c47/arm-vs-x86-which-works-best-for-you-5e88)
-- [Recommended Project: Querying Official Languages and Sorting](https://dev.to/labex/recommended-project-querying-official-languages-and-sorting-25ej)
+- [LLM Adoption Accelerates Innovation and Industry Development](https://dev.to/k_ilhame/llm-adoption-accelerates-innovation-and-industry-development-kp0)
+- [Regarding Beginner Challenges](https://dev.to/ripul_khurana/regarding-beginner-challenges-1bd8)
+- [Como separar a rede 2.4/5G híbrida da Vivo](https://dev.to/heymarkkop/como-separar-a-rede-245g-hibrida-da-vivo-1nb2)
+- [Cleaning up Obsolete Cloudflare Page Deployments](https://dev.to/maxim_radugin/cleaning-up-obsolete-cloudflare-page-deployments-3f7b)
+- [Deploying Hugo from Self-Hosted GitLab to Cloudflare Pages](https://dev.to/maxim_radugin/deploying-hugo-from-self-hosted-gitlab-to-cloudflare-pages-4nnc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
