@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [C# Tip: Extended Property Patterns With Switch](https://dev.to/juarezasjunior/c-tip-extended-property-patterns-with-switch-47kl)
-- [What is Infrastructure as Code &lpar;IaC&rpar; and Why It Is Transforming DevOps](https://dev.to/pat6339/what-is-infrastructure-as-code-iac0-and-why-its-transforming-devops-1138)
-- [Dica C#: Extended Property Patterns com Switch](https://dev.to/juarezasjunior/dica-c-extended-property-patterns-com-switch-1d3j)
-- [Pre-push Commit Message Validation on Github &lpar;Enterprise&rpar;](https://dev.to/beatngu1101/pre-push-commit-message-validation-on-github-enterprise-25o0)
-- [How to Set Up an Expo React Native Project with React Query](https://dev.to/hokagedemehin/how-to-set-up-an-expo-react-native-project-with-react-query-3oeb)
+- [Mikroservis Mimarisinde genelde olabilecek servisler&lpar;Yorumlara açık.&rpar;](https://dev.to/mustafacam/mikroservis-mimarisinde-genelde-olmasi-gereken-servisler-1ae7)
+- [CQRS: The Design Pattern That’s Changing the Game &lpar;and How You Can Use It Too&rpar;](https://dev.to/manish-1614/cqrs-the-design-pattern-thats-changing-the-game-and-how-you-can-use-it-too-jp8)
+- [Mastering Django: How to Render HTML Like a Pro!](https://dev.to/oviyan007/mastering-django-how-to-render-html-like-a-pro-854)
+- [Secure Your Coding: Create an SSH Key on Mac or Windows](https://dev.to/lovelacecoding/secure-your-coding-create-an-ssh-key-on-mac-or-windows-pdd)
+- [Replicação Cross-Region: Garantindo Disponibilidade e Resiliência de Dados](https://dev.to/edgar_jose_412cdf41fb30a0/replicacao-cross-region-garantindo-disponibilidade-e-resiliencia-4b68)
 <!-- BLOG-POST-LIST:END -->
 
 ---
