@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Engaging and Retaining Community Members](https://dev.to/swati1267/engaging-and-retaining-community-members-25c7)
-- [CodiumAI PR-Agent，在 GitHub 上用 AI 來 Code Review](https://dev.to/letswrite/codiumai-pr-agentzai-github-shang-yong-ai-lai-code-review-827)
-- [Unleash the Power of Linux with This Beginner&#39;s Guide to Shell Scripting 🐧](https://dev.to/getvm/unleash-the-power-of-linux-with-this-beginners-guide-to-shell-scripting-p24)
-- [Low-Level Design: Polling System - Using Nodejs &amp; SQL](https://dev.to/zeeshanali0704/low-level-design-polling-system-2-2j21)
-- [When Hovering on a Text becomes Sticky as GUM! 😱](https://dev.to/alishata128/when-hovering-on-a-text-becomes-sticky-as-gum-le3)
+- [Creating Middlewares in FastAPI: A Step-by-Step Guide](https://dev.to/aakashkhanna/creating-middlewares-in-fastapi-a-step-by-step-guide-1b4m)
+- [How to Integrate Passkeys in Python &lpar;FastAPI&rpar;](https://dev.to/corbado/how-to-integrate-passkeys-in-python-fastapi-4oo6)
+- [Type Casting Par-06](https://dev.to/monirulislam027/type-casting-par-06-6ho)
+- [What is Cloudflare? An Overview of the Web Performance and Security Company](https://dev.to/devops_den/what-is-cloudflare-an-overview-of-the-web-performance-and-security-company-180c)
+- [Resolve Lambda URL Error - signature not match when using POST/PUT](https://dev.to/vng_bach/resolve-lambda-url-error-signature-not-match-when-using-postput-44jm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
