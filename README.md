@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Buy verified BYBIT account](https://dev.to/tumdgjzcindyga/buy-verified-bybit-account-246c)
-- [Why I got a Master&#39;s Degree for AI / ML](https://dev.to/integerman/why-i-got-a-masters-degree-for-ai-ml-3j)
-- [The persistent threat: Why major vulnerabilities like Log4Shell and Spring4Shell remain significant](https://dev.to/snyk/the-persistent-threat-why-major-vulnerabilities-like-log4shell-and-spring4shell-remain-significant-1b3n)
-- [Managing Streaming Data with Min and Max Heaps in JavaScript: A Digital Athlete Health Tech Perspective](https://dev.to/adg29/managing-streaming-data-with-min-and-max-heaps-in-javascript-a-digital-athlete-health-tech-perspective-3d7g)
-- [Introdução às classes aninhadas e internas](https://dev.to/devsjavagirls/introducao-as-classes-aninhadas-e-internas-2on6)
+- [Engaging and Retaining Community Members](https://dev.to/swati1267/engaging-and-retaining-community-members-25c7)
+- [CodiumAI PR-Agent，在 GitHub 上用 AI 來 Code Review](https://dev.to/letswrite/codiumai-pr-agentzai-github-shang-yong-ai-lai-code-review-827)
+- [Unleash the Power of Linux with This Beginner&#39;s Guide to Shell Scripting 🐧](https://dev.to/getvm/unleash-the-power-of-linux-with-this-beginners-guide-to-shell-scripting-p24)
+- [Low-Level Design: Polling System - Using Nodejs &amp; SQL](https://dev.to/zeeshanali0704/low-level-design-polling-system-2-2j21)
+- [When Hovering on a Text becomes Sticky as GUM! 😱](https://dev.to/alishata128/when-hovering-on-a-text-becomes-sticky-as-gum-le3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
