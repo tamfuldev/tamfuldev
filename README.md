@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I have been in this community for a year, and I didn&#39;t even know. Anyone in berlin?](https://dev.to/max1234/i-have-been-in-this-community-for-a-year-and-i-didnt-even-know-eka)
-- [Leetcode: 258](https://dev.to/saifulire/leetcode-258-2ge0)
-- [IA com C# - Exemplo: Prever se um cliente será um bom ou mau pagador de um empréstimo](https://dev.to/juarezasjunior/ia-com-c-exemplo-prever-se-um-cliente-sera-um-bom-ou-mau-pagador-de-um-emprestimo-j25)
-- [Differences between Ethereum’s send/transfer/call functions](https://dev.to/110nard0/understanding-ethereums-sendtransfercall-functions-2f1m)
-- [Array Grouping In JavaScript &lpar;2024&rpar;](https://dev.to/ahmedturaj/array-grouping-in-javascript-2024-3o1h)
+- [C# Tip: Extended Property Patterns With Switch](https://dev.to/juarezasjunior/c-tip-extended-property-patterns-with-switch-47kl)
+- [What is Infrastructure as Code &lpar;IaC&rpar; and Why It Is Transforming DevOps](https://dev.to/pat6339/what-is-infrastructure-as-code-iac0-and-why-its-transforming-devops-1138)
+- [Dica C#: Extended Property Patterns com Switch](https://dev.to/juarezasjunior/dica-c-extended-property-patterns-com-switch-1d3j)
+- [Pre-push Commit Message Validation on Github &lpar;Enterprise&rpar;](https://dev.to/beatngu1101/pre-push-commit-message-validation-on-github-enterprise-25o0)
+- [How to Set Up an Expo React Native Project with React Query](https://dev.to/hokagedemehin/how-to-set-up-an-expo-react-native-project-with-react-query-3oeb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
