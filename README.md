@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [ERC 20 TOKEN INTRO:Basics and Keypoints](https://dev.to/chukwuebuka_okeke_1451b54/erc-20-token-introbasics-and-keypoints-2fh6)
-- [Estratégias para escrever código com maior testabilidade - uma análise imperativa](https://dev.to/felipeleao18/estrategias-para-escrever-codigo-com-maior-testabilidade-uma-analise-imperativa-59ol)
-- [Understanding Engagement Models in Software Development](https://dev.to/tl23143/understanding-engagement-models-in-software-development-279k)
-- [Deploy a Express JS app in Lambda AWS](https://dev.to/janithdisanayake/deploy-a-express-js-app-in-lambda-aws-3f52)
-- [Desafio Pickle Rick - TryHackMe](https://dev.to/obtuosa/desafio-pickle-rick-tryhackme-1b55)
+- [Today&#39;s Trending Projects: Implement a Magnifying Glass Effect Using Canvas and More](https://dev.to/labex/todays-trending-projects-implement-a-magnifying-glass-effect-using-canvas-and-more-1287)
+- [Understanding the Differences Between send, transfer, and call in Solidity](https://dev.to/odutayo_adeyemo_235803490/understanding-the-differences-between-send-transfer-and-call-in-solidity-1aml)
+- [Tente Isto 6-3 A classificação rápida](https://dev.to/devsjavagirls/tente-isto-6-3-a-classificacao-rapida-3e8h)
+- [Blocos Estáticos](https://dev.to/devsjavagirls/blocos-estaticos-4kc1)
+- [Entendendo os membros estáticos](https://dev.to/devsjavagirls/entendendo-os-membros-estaticos-2c7o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
