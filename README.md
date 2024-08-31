@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Js | Type Conversion &amp; Type Coercion |](https://dev.to/ranjith_jr_fbf2e375879b08/js-type-conversion-type-coercion--303g)
-- [OAuth 2.0 Authentication in Spring Boot: A Guide to Integrating Google and GitHub Login](https://dev.to/ayushstwt/oauth-20-authentication-in-spring-boot-a-guide-to-integrating-google-and-github-login-2hga)
-- [Saba Framework: Mempermudah Pekerjaan Frontend dan Backend Developer](https://dev.to/amry_maftuh/saba-framework-mempermudah-pekerjaan-frontend-dan-backend-developer-5e7k)
-- [How many arcade games should I develop in one app?](https://dev.to/nadim_ch0wdhury/how-many-arcade-games-should-i-develop-in-one-app-170b)
-- [Library vs Framework](https://dev.to/sankarsubbu/library-vs-framework-4i0b)
+- [Kubetools Day 3.0: Call for Participation](https://dev.to/ajeetraina/kubetools-day-30-call-for-participation-432m)
+- [Flexbox 101: A Beginner&#39;s Guide to Flexible Layouts](https://dev.to/gdebojyoti/flexbox-101-a-beginners-guide-to-flexible-layouts-4j5a)
+- [Js | Strict Mode |](https://dev.to/ranjith_jr_fbf2e375879b08/js-strict-mode--5fo0)
+- [Ensuring Data Integrity in Multi-User Environments](https://dev.to/dkmen/ensuring-data-integrity-in-multi-user-environments-21g8)
+- [Introducing Awesome J2ME: An Awesome List About Everything Related to J2ME](https://dev.to/hstsethi/introducing-awesome-j2me-an-awesome-list-about-everything-related-to-j2me-49f0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
