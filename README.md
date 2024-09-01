@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Borrowing and References in Rust Explained](https://dev.to/cudilala/borrowing-and-references-in-rust-explained-45m8)
-- [Installing AWS CloudWatch Agent on On-Premises Servers Using SSM](https://dev.to/petereskandar/installing-aws-cloudwatch-agent-on-on-premises-servers-using-ssm-3cjn)
-- [Merge and bundle open api yaml files for swagger](https://dev.to/mehdifaraji/merge-and-bundle-open-api-yaml-files-for-swagger-f5c)
-- [Fix for EPERM: operation not permitted &lpar;...$types.d.ts&rpar;](https://dev.to/digitaldrreamer/fix-for-eperm-operation-not-permitted-typesdts-1k6m)
-- [Let&#39;s GO!](https://dev.to/caffeineordeath/lets-go-4555)
+- [Yogurt app](https://dev.to/boby900/yogurt-app-2282)
+- [Automate Your Software Development Workflow with DevOps Essentials](https://dev.to/abdulrafaykhan_dev/automate-your-software-development-workflow-with-devops-essentials-4h83)
+- [The Ultimate Open Source Starter Kit](https://dev.to/travislramos/the-ultimate-open-source-starter-kit-54k6)
+- [Demystifying Closures in JS](https://dev.to/mahf001/demystifying-closures-in-js-43df)
+- [Creating an arXiv DB](https://dev.to/nicholassynovic/creating-an-arxiv-db-940)
 <!-- BLOG-POST-LIST:END -->
 
 ---
