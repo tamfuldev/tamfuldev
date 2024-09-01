@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 2: Creating a Signup Page with Express.js – Building the Foundation for User Registration](https://dev.to/adeleke123/day-2-creating-a-signup-page-with-expressjs-building-the-foundation-for-user-registration-2g3d)
-- [Unlocking WhatsApp Secrets: Analyzing Chat Data with Next.js 14 Web App](https://dev.to/rajeshroyal/unlocking-whatsapp-secrets-analyzing-chat-data-with-nextjs-14-web-app-489i)
-- [Efficient processing of Gzip-compressed files in Google Cloud Storage](https://dev.to/siddhantkcode/efficient-processing-of-gzip-compressed-files-in-google-cloud-storage-1pj)
-- [Lottie Animation: Flutter](https://dev.to/codewithusama/lottie-animation-flutter-3p26)
-- [Pytest and PostgreSQL: Fresh database for every test &lpar;part II&rpar;](https://dev.to/liborjelinek/pytest-and-postgresql-fresh-database-for-every-test-part-ii-48pn)
+- [And the Oscar Goes to … Coding a Chronology Component](https://dev.to/madsstoumann/and-the-oscar-goes-to-coding-a-chronology-component-24hf)
+- [Creating safe and fast multiplayer in games on Unity and NodeJS with examples](https://dev.to/devsdaddy/creating-safe-and-fast-multiplayer-in-games-on-unity-and-nodejs-with-examples-3hk8)
+- [How can you Enable Containers in Windows 11?](https://dev.to/winsides/how-can-you-enable-containers-in-windows-11-593a)
+- [Best open-source tools for DevOps and microservices](https://dev.to/selvapa/best-open-source-tools-for-devops-and-microservices-2o5o)
+- [Deploy a lightweight BI solution with your first dashboard in 5 steps](https://dev.to/jypelle/deploy-a-lightweight-bi-solution-with-your-first-dashboard-in-5-steps-5gi9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
