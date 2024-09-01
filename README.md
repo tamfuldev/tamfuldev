@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Install Ruby on Windows, macOS, and Linux](https://dev.to/luigi_2ba3/how-to-install-ruby-on-windows-macos-and-linux-35o3)
-- [Strategies for Writing More Testable Code - An Imperative Approach](https://dev.to/felipeleao18/strategies-for-writing-more-testable-code-an-imperative-approach-1b4g)
-- [System Guard: A simple tool to guard your server](https://dev.to/codeperfectplus/system-guard-a-simple-tool-to-guard-your-server-47jk)
-- [Dive into the Fascinating World of Machine Learning with PURDUE&#39;s Summer School! 🤖](https://dev.to/getvm/dive-into-the-fascinating-world-of-machine-learning-with-purdues-summer-school-173m)
-- [Handling Errors in Node.js: Turning Oops into Success 🚀](https://dev.to/khushindpatel/handling-errors-in-nodejs-turning-oops-into-success-1h03)
+- [Kafka Demystified: A Developer&#39;s Guide to Efficient Data Streaming](https://dev.to/akshat_gautam/kafka-demystified-a-developers-guide-to-efficient-data-streaming-2jo3)
+- [Mastering Axios: A Technical Guide to Building Your Food Delivery App🍔✨](https://dev.to/ankitakanchan/mastering-axios-a-technical-guide-to-building-your-food-delivery-app-1j78)
+- [Implementing Internal Analytics Like Google Analytics Using JavaScript](https://dev.to/ashutoshsarangi/implementing-internal-analytics-as-like-google-analytics-using-javascript-3l5m)
+- [Docker - Python Django initial setup](https://dev.to/pranavbakare/docker-with-python-1ek0)
+- [Docker first Project in Django](https://dev.to/pranavbakare/docker-first-project-in-django-1cbj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
