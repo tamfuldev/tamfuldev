@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Kafka Demystified: A Developer&#39;s Guide to Efficient Data Streaming](https://dev.to/akshat_gautam/kafka-demystified-a-developers-guide-to-efficient-data-streaming-2jo3)
-- [Mastering Axios: A Technical Guide to Building Your Food Delivery App🍔✨](https://dev.to/ankitakanchan/mastering-axios-a-technical-guide-to-building-your-food-delivery-app-1j78)
-- [Implementing Internal Analytics Like Google Analytics Using JavaScript](https://dev.to/ashutoshsarangi/implementing-internal-analytics-as-like-google-analytics-using-javascript-3l5m)
-- [Docker - Python Django initial setup](https://dev.to/pranavbakare/docker-with-python-1ek0)
-- [Docker first Project in Django](https://dev.to/pranavbakare/docker-first-project-in-django-1cbj)
+- [Problem Solving Patterns](https://dev.to/kanishkaisuru/problem-solving-patterns-2je1)
+- [Memory Management in GraalVM Native Image](https://dev.to/yanev/memory-management-in-graalvm-native-image-4nbe)
+- [Using PGvector with your Django App](https://dev.to/buddhiraz/using-pgvector-with-your-django-app-2o3j)
+- [📚 مفهوم البرمجة الشيئية في JavaScript: البروتوتايب والفئات 🚀](https://dev.to/abuabdelrahman1413/mfhwm-lbrmj-lshyyy-fy-javascript-lbrwtwtyb-wlfyt-4ic0)
+- [📚 مفهوم البرمجة الشيئية في JavaScript: البروتوتايب والفئات 🚀](https://dev.to/abuabdelrahman1413/mfhwm-lbrmj-lshyyy-fy-javascript-lbrwtwtyb-wlfyt-5emh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
