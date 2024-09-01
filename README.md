@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CBJS: Command Injection 6](https://dev.to/peppa6/cbjs-command-injection-6-1668)
-- [Week 2: Building Interactive Games](https://dev.to/igbojionu/week-2-building-interactive-games-41em)
-- [Week 2: Building Interactive Games](https://dev.to/igbojionu/week-2-building-interactive-games-41ok)
-- [Week 2: Building Interactive Games](https://dev.to/igbojionu/week-2-building-interactive-games-5b4c)
-- [Week 2: Building Interactive Games](https://dev.to/igbojionu/week-2-building-interactive-games-1cah)
+- [Understanding Java Memory Leaks and How to Prevent Them](https://dev.to/isaactony/understanding-java-memory-leaks-and-how-to-prevent-them-2gpa)
+- [Intro to Ether.js](https://dev.to/arsh_the_coder/intro-to-etherjs-n76)
+- [Decorator](https://dev.to/prashantrmishra/decorator-2kof)
+- [Bridge Design Pattern](https://dev.to/prashantrmishra/bridge-design-pattern-4m8i)
+- [Composite Design Pattern](https://dev.to/prashantrmishra/composite-design-pattern-5fc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
