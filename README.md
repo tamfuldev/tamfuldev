@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [And the Oscar Goes to … Coding a Chronology Component](https://dev.to/madsstoumann/and-the-oscar-goes-to-coding-a-chronology-component-24hf)
-- [Creating safe and fast multiplayer in games on Unity and NodeJS with examples](https://dev.to/devsdaddy/creating-safe-and-fast-multiplayer-in-games-on-unity-and-nodejs-with-examples-3hk8)
-- [How can you Enable Containers in Windows 11?](https://dev.to/winsides/how-can-you-enable-containers-in-windows-11-593a)
-- [Best open-source tools for DevOps and microservices](https://dev.to/selvapa/best-open-source-tools-for-devops-and-microservices-2o5o)
-- [Deploy a lightweight BI solution with your first dashboard in 5 steps](https://dev.to/jypelle/deploy-a-lightweight-bi-solution-with-your-first-dashboard-in-5-steps-5gi9)
+- [CBJS: Command Injection 6](https://dev.to/peppa6/cbjs-command-injection-6-1668)
+- [Week 2: Building Interactive Games](https://dev.to/igbojionu/week-2-building-interactive-games-41em)
+- [Week 2: Building Interactive Games](https://dev.to/igbojionu/week-2-building-interactive-games-41ok)
+- [Week 2: Building Interactive Games](https://dev.to/igbojionu/week-2-building-interactive-games-5b4c)
+- [Week 2: Building Interactive Games](https://dev.to/igbojionu/week-2-building-interactive-games-1cah)
 <!-- BLOG-POST-LIST:END -->
 
 ---
