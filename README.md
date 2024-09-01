@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Java Memory Leaks and How to Prevent Them](https://dev.to/isaactony/understanding-java-memory-leaks-and-how-to-prevent-them-2gpa)
-- [Intro to Ether.js](https://dev.to/arsh_the_coder/intro-to-etherjs-n76)
-- [Decorator](https://dev.to/prashantrmishra/decorator-2kof)
-- [Bridge Design Pattern](https://dev.to/prashantrmishra/bridge-design-pattern-4m8i)
-- [Composite Design Pattern](https://dev.to/prashantrmishra/composite-design-pattern-5fc)
+- [✨ 2 Parallax Background Effects in CSS - Simple &amp; Horizontal Parallax : Part1](https://dev.to/uicraft_by_pratik/2-parallax-background-effects-in-css-simple-horizontal-parallax-part1-4n99)
+- [Issues installing XDebug to work with VS Code - php](https://dev.to/frankpulido/issues-installing-xdebug-to-work-with-vs-code-php-1o0b)
+- [Functional Snippet: withSuppress](https://dev.to/nhirschfeld/functional-snippet-withsuppress-4ea0)
+- [Unlocking the World of Technology: My Journey and Skillset](https://dev.to/binaries001/unlocking-the-world-of-technology-my-journey-and-skillset-5836)
+- [Nylas AI-Driven Email Summarizer and Actionable Insights Generator](https://dev.to/rajdhokai/nylas-ai-driven-email-summarizer-and-actionable-insights-generator-47n3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
