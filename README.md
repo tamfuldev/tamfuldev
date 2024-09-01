@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How to Install Ruby on Windows, macOS, and Linux](https://dev.to/luigi_2ba3/how-to-install-ruby-on-windows-macos-and-linux-35o3)
+- [Strategies for Writing More Testable Code - An Imperative Approach](https://dev.to/felipeleao18/strategies-for-writing-more-testable-code-an-imperative-approach-1b4g)
+- [System Guard: A simple tool to guard your server](https://dev.to/codeperfectplus/system-guard-a-simple-tool-to-guard-your-server-47jk)
+- [Dive into the Fascinating World of Machine Learning with PURDUE&#39;s Summer School! 🤖](https://dev.to/getvm/dive-into-the-fascinating-world-of-machine-learning-with-purdues-summer-school-173m)
 - [Handling Errors in Node.js: Turning Oops into Success 🚀](https://dev.to/khushindpatel/handling-errors-in-nodejs-turning-oops-into-success-1h03)
-- [Showcase Your Open-Source Contributions with Ease!](https://dev.to/depapp/showcase-your-open-source-contributions-with-ease-dno)
-- [RegExp in JavaScript](https://dev.to/zain725342/regexp-in-javascript-3g4p)
-- [Updating the Screen: React Documentation Introduction](https://dev.to/labex/updating-the-screen-react-documentation-introduction-3mcl)
-- [Introducing DevOps Toolkit CLI 🐳](https://dev.to/tungbq/introducing-devops-toolkit-cli-4nl0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
