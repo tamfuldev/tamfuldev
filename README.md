@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Lost Connections and Making Changes](https://dev.to/zapwai/lost-connections-and-making-changes-anp)
-- [Why compete against Google is not crazy](https://dev.to/litlyx-org/why-compete-against-google-is-not-crazy-2op5)
-- [Mastodon Developers Needed](https://dev.to/manjunath_sajjan_e3cb02a8/mastodon-developers-needed-1l08)
-- [Senior Backend Developer &lpar;FastAPI, SQLAlchemy, Async&rpar; - Remote](https://dev.to/dave-truey/senior-backend-developer-fastapi-sqlalchemy-async-remote-3mc1)
-- [Step-by-Step Tutorial to Build first React Native App](https://dev.to/prankurpandeyy/step-by-step-tutorial-to-build-first-react-native-app-19g9)
+- [10 Common HTML Myths Busted: What Every Developer Should Know!](https://dev.to/areeb_anwar_813df06ee1124/10-common-html-myths-busted-what-every-developer-should-know-cd7)
+- [Self-service BI 101 for B2B SaaS teams](https://dev.to/mklopets/self-service-bi-101-for-b2b-saas-teams-1i15)
+- [Launch website to public from Raspberry Pi](https://dev.to/kutt27/launch-website-to-public-from-raspberry-pi-2klh)
+- [log2&lpar;&rpar; and log10&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/log2-and-log10-in-pytorch-1b0d)
+- [React Suspense for data fetching](https://dev.to/dunedev/react-suspense-for-data-fetching-36dg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
