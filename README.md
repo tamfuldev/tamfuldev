@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [10 Reasons TypeScript is Transforming How We Build Web Apps](https://dev.to/nilebits/10-reasons-typescript-is-transforming-how-we-build-web-apps-2bmc)
-- [The Ultimate Guide to Data Science](https://dev.to/emmanuel_b/the-ultimate-guide-to-data-science-5728)
-- [A real-life scenario where call, apply, and bind use](https://dev.to/sugrivlodhi/a-real-life-scenario-where-call-apply-and-bind-use-4525)
-- [Reference Counting vs Tracing Garbage Collection](https://dev.to/devxbr/reference-counting-vs-tracing-garbage-collection-51ac)
-- [Angular @let declarations: Smart Template Subscriptions](https://dev.to/this-is-angular/angular-let-declarations-smart-template-subscriptions-4d4h)
+- [How to Enable IIS Hostable Web Core in Windows 11?](https://dev.to/winsides/how-to-enable-iis-hostable-web-core-in-windows-11-3ggf)
+- [Optimize React Performance in 2024 — Best Practices](https://dev.to/topeogunleye/optimize-react-performance-in-2024-best-practices-4f99)
+- [Week 5 &lpar;August 29 - August 31&rpar;:](https://dev.to/janet0717/week-5-august-29-august-31-f6i)
+- [Day 31](https://dev.to/janet0717/day-31-1142)
+- [Day 30](https://dev.to/janet0717/day-30-2hck)
 <!-- BLOG-POST-LIST:END -->
 
 ---
