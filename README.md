@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a D&amp;D 5e Character Generator: A Journey Through SQL and RPG Complexity](https://dev.to/paulama3/building-a-dd-5e-character-generator-a-journey-through-sql-and-rpg-complexity-4pb7)
-- [Part 1 - Gathering PM values from the sensor, pushing and saving them to the cloud storage &lpar;TCH&rpar;](https://dev.to/fabio_beoni/part-1-gathering-pm-values-from-the-sensor-pushing-and-saving-them-to-the-cloud-storage-tch-2l99)
-- [Generics in C# with Practical Examples](https://dev.to/azizularif/generics-in-c-with-practical-examples-odf)
-- [What are your goals for week 36?](https://dev.to/jarvisscript/what-are-your-goals-for-week-36-fnf)
-- [INTRODUCTION TO S3](https://dev.to/purpledame/introduction-to-s3-3c04)
+- [Lost Connections and Making Changes](https://dev.to/zapwai/lost-connections-and-making-changes-anp)
+- [Why compete against Google is not crazy](https://dev.to/litlyx-org/why-compete-against-google-is-not-crazy-2op5)
+- [Mastodon Developers Needed](https://dev.to/manjunath_sajjan_e3cb02a8/mastodon-developers-needed-1l08)
+- [Senior Backend Developer &lpar;FastAPI, SQLAlchemy, Async&rpar; - Remote](https://dev.to/dave-truey/senior-backend-developer-fastapi-sqlalchemy-async-remote-3mc1)
+- [Step-by-Step Tutorial to Build first React Native App](https://dev.to/prankurpandeyy/step-by-step-tutorial-to-build-first-react-native-app-19g9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
