@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build an AI App?](https://dev.to/vincent_natalie_900aed10e/how-to-build-an-ai-app-17i1)
-- [Benefits of Using React with ASP .Net Core for Modern Web Solutions](https://dev.to/megaminds/benefits-of-using-react-with-asp-net-core-for-modern-web-solutions-jj2)
-- [GBase 8c Backup and Recovery Based on XID](https://dev.to/congcong/gbase-8c-backup-and-recovery-based-on-xid-538n)
-- [Why Choose Node.js Framework for your projects in 2024?](https://dev.to/megaminds/why-choose-nodejs-framework-for-your-projects-in-2024-nhf)
-- [Profitable Projects Without Direct Sales](https://dev.to/tien_ho/profitable-projects-without-direct-sales-65o)
+- [Creating a Websocket server in Hono with Durable Objects](https://dev.to/fiberplane/creating-a-websocket-server-in-hono-with-durable-objects-4ha3)
+- [Hacking in the Movies is Like…](https://dev.to/stokry/hacking-in-the-movies-is-like-191n)
+- [Cómo encontrar trabajo para los Fixis: analizando Godot Engine](https://dev.to/programador_unicornio/como-encontrar-trabajo-para-los-fixis-analizando-godot-engine-4dk7)
+- [macOS Shell: Include all jar files in Java -cp argument](https://dev.to/andybrunner/macos-shell-include-all-jar-files-in-cp-command-4c6j)
+- [How Does Codequiry Work Differently from Moss Plagiarism Checker?](https://dev.to/codequiry/how-does-codequiry-work-differently-from-moss-plagiarism-checker-3obb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
