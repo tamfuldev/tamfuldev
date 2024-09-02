@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [EF Core queries for unmapped types](https://dev.to/karenpayneoregon/ef-core-queries-for-unmapped-types-20o3)
-- [Intro to Wireframes](https://dev.to/christopherchhim/intro-to-wireframes-3f3o)
-- [Quick Agenda - Your daily brief, simplified](https://dev.to/asyncerror/quick-agenda-your-daily-brief-simplified-384)
-- [1. MongoDB Types](https://dev.to/gasparin/1-mongodb-overview-1046)
-- [# Replace Generic Validation with Reusable Functions](https://dev.to/cat394/-replace-generic-validation-with-reusable-functions-3nec)
+- [Nylas AI and Communications Challenge: Nylas and AIOps integration](https://dev.to/davidshaek/nylas-ai-and-communications-challenge-nylas-and-aiops-integration-17an)
+- [Nylas AI and Communications Challenge: Nylas and AIOps integration](https://dev.to/davidshaek/nylas-ai-and-communications-challenge-nylas-and-aiops-integration-59b4)
+- [The Singleton Pattern in C#: Why It’s a Classic Choice](https://dev.to/dazevedo/the-singleton-pattern-in-c-why-its-a-classic-choice-4cfl)
+- [Implementing a Visitor Counter on Azure Resume Challenge](https://dev.to/oluwatobi2001/implementing-a-visitor-counter-on-azure-resume-challenge-2i63)
+- [LocalStorage, SessionStorage e Cookies: Como funcionam e quando usar cada um](https://dev.to/gguife/localstorage-sessionstorage-e-cookies-como-funcionam-e-quando-utiliza-los-51fp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
