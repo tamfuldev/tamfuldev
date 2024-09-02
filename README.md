@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [NextJS Authentication Boilerplate from &quot;scratch&quot;](https://dev.to/lovefrom/nextjs-authentication-boilerplate-9h2)
-- [Part 3/3: How to Implement Refresh Tokens through Http-Only Cookie in NestJS and React](https://dev.to/zenstok/part-33-how-to-implement-refresh-tokens-through-http-only-cookie-in-nestjs-and-react-265e)
-- [Building SmartInbox: My Nylas Journey](https://dev.to/spruceemma/building-smartinbox-my-nylas-journey-34nm)
-- [Optimizing Performance in React Native App](https://dev.to/pagepro_agency/optimizing-performance-in-react-native-app-3d67)
-- [Flask Neon Kit: The extension which automatically generates CRUD endpoints](https://dev.to/valentinesean22/flask-neon-kit-the-extension-which-automatically-generates-crud-endpoints-7oi)
+- [Create Repeating Google Calendar Event for Last Working Day of Month](https://dev.to/anuarshaidenov/create-repeating-google-calendar-event-for-last-working-day-of-month-31g4)
+- [Parse a csv file where field values are enclosed by quotation marks and contain carriage return #eg35](https://dev.to/esproc_spl/parse-a-csv-file-where-field-values-are-enclosed-by-quotation-marks-and-contain-carriage-return-eg35-4inb)
+- [Test Stripe with MockServer](https://dev.to/kasir-barati/test-stripe-with-mockserver-57mo)
+- [How to Choose the Right Cloud Provider for Your Startup](https://dev.to/temidayo/how-to-choose-the-right-cloud-provider-for-your-startup-5ack)
+- [Integration Digest: August 2024](https://dev.to/stn1slv/integration-digest-august-2024-5fn4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
