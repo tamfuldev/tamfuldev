@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Enable IIS Hostable Web Core in Windows 11?](https://dev.to/winsides/how-to-enable-iis-hostable-web-core-in-windows-11-3ggf)
-- [Optimize React Performance in 2024 — Best Practices](https://dev.to/topeogunleye/optimize-react-performance-in-2024-best-practices-4f99)
-- [Week 5 &lpar;August 29 - August 31&rpar;:](https://dev.to/janet0717/week-5-august-29-august-31-f6i)
-- [Day 31](https://dev.to/janet0717/day-31-1142)
-- [Day 30](https://dev.to/janet0717/day-30-2hck)
+- [Leveraging Cloud Services for Scalable App Development](https://dev.to/abdulrafaykhan_dev/leveraging-cloud-services-for-scalable-app-development-2j7h)
+- [Loadr, an efficient solution for seamlessly loading large images in HTML](https://dev.to/greenestgoat/loadr-an-efficient-solution-for-seamlessly-loading-large-images-in-html-4ao7)
+- [Understanding Class Fields and Static Properties](https://dev.to/pillagerplayz/understanding-class-fields-and-static-properties-2hce)
+- [How to run specific migration in laravel](https://dev.to/msnmongare/how-to-run-specific-migration-in-laravel-4b6a)
+- [Switch Branches in Git Without Losing Your Work](https://dev.to/asadbukhari/switch-branches-in-git-without-losing-your-work-2o18)
 <!-- BLOG-POST-LIST:END -->
 
 ---
