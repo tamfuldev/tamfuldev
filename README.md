@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Create Repeating Google Calendar Event for Last Working Day of Month](https://dev.to/anuarshaidenov/create-repeating-google-calendar-event-for-last-working-day-of-month-31g4)
-- [Parse a csv file where field values are enclosed by quotation marks and contain carriage return #eg35](https://dev.to/esproc_spl/parse-a-csv-file-where-field-values-are-enclosed-by-quotation-marks-and-contain-carriage-return-eg35-4inb)
-- [Test Stripe with MockServer](https://dev.to/kasir-barati/test-stripe-with-mockserver-57mo)
-- [How to Choose the Right Cloud Provider for Your Startup](https://dev.to/temidayo/how-to-choose-the-right-cloud-provider-for-your-startup-5ack)
-- [Integration Digest: August 2024](https://dev.to/stn1slv/integration-digest-august-2024-5fn4)
+- [Embedding RAG VS Graph RAG: &lpar;Under 5 Minutes&rpar;](https://dev.to/needle-ai/embedding-rag-vs-graph-rag-under-5-minutes-20h3)
+- [Introducing DronaHQ Forms - Unlimited forms, unlimited responses](https://dev.to/dronahq/introducing-dronahq-forms-unlimited-forms-unlimited-responses-9pj)
+- [A Beginner&#39;s Guide to Java List Operations](https://dev.to/rahul_b6ad6dacb9dc04cade0/a-beginners-guide-to-java-list-operations-126i)
+- [Deploying and Managing Contour Ingress Controller on Kubernetes](https://dev.to/rd17/deploying-and-managing-contour-ingress-controller-on-kubernetes-55a8)
+- [Modern JavaScript Features: What’s New in ES2023](https://dev.to/manjushsh/modern-javascript-features-whats-new-in-es2023-4i7d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
