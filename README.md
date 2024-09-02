@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [snow : saas starter kit](https://dev.to/shyynux/snow-saas-starter-kit-3p7m)
-- [Mentorship to Full-time Offer | Flipkart SDE-1 Interview Experience](https://dev.to/parulchaddha/mentorship-to-full-time-offer-flipkart-sde-1-interview-experience-13bp)
-- [NEONDB-NextJS-Typescript Ultimate Starter Pack](https://dev.to/chijioke_osadebe_c6d2e7f7/neondb-nextjs-typescript-ultimate-starter-pack-35cn)
-- [Deploy a Website using Azure CLI and ARM Template](https://dev.to/tracyee_/deploy-a-website-using-azure-cli-and-arm-template-54lo)
-- [Ninetails AI Stack powered by Neon Postgres: Earn your First Dollar on Internet](https://dev.to/raj_savaliya/ninetails-ai-stack-powered-by-neon-postgres-earn-your-first-dollar-on-internet-1b3i)
+- [EF Core queries for unmapped types](https://dev.to/karenpayneoregon/ef-core-queries-for-unmapped-types-20o3)
+- [Intro to Wireframes](https://dev.to/christopherchhim/intro-to-wireframes-3f3o)
+- [Quick Agenda - Your daily brief, simplified](https://dev.to/asyncerror/quick-agenda-your-daily-brief-simplified-384)
+- [1. MongoDB Types](https://dev.to/gasparin/1-mongodb-overview-1046)
+- [# Replace Generic Validation with Reusable Functions](https://dev.to/cat394/-replace-generic-validation-with-reusable-functions-3nec)
 <!-- BLOG-POST-LIST:END -->
 
 ---
