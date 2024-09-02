@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Websocket server in Hono with Durable Objects](https://dev.to/fiberplane/creating-a-websocket-server-in-hono-with-durable-objects-4ha3)
-- [Hacking in the Movies is Like…](https://dev.to/stokry/hacking-in-the-movies-is-like-191n)
-- [Cómo encontrar trabajo para los Fixis: analizando Godot Engine](https://dev.to/programador_unicornio/como-encontrar-trabajo-para-los-fixis-analizando-godot-engine-4dk7)
-- [macOS Shell: Include all jar files in Java -cp argument](https://dev.to/andybrunner/macos-shell-include-all-jar-files-in-cp-command-4c6j)
-- [How Does Codequiry Work Differently from Moss Plagiarism Checker?](https://dev.to/codequiry/how-does-codequiry-work-differently-from-moss-plagiarism-checker-3obb)
+- [The Two Lines of CSS That Tanked Performance &lpar;120fps to 40fps&rpar;](https://dev.to/andrico1234/the-two-lines-of-css-that-tanked-performance-120fps-to-40fps-3lnj)
+- [A destination awaits when a journey begins.](https://dev.to/eightrix/a-destination-awaits-when-a-journey-begins-1p48)
+- [Create Shopping Cart using Alpinejs](https://dev.to/andrew-saeed/create-shopping-cart-using-alpinejs-1ncf)
+- [Rust for typescript devs: Functions](https://dev.to/rhl314/rust-for-typescript-devs-functions-1j71)
+- [Strengthening Pact Contract Testing with TypeScript and Data Abstraction](https://dev.to/muratkeremozcan/-strengthening-pact-contract-testing-with-typescript-and-data-abstraction-16hc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
