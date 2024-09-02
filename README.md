@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Image Optimization in Any Web Apps / Mobile Apps](https://dev.to/ashutoshsarangi/image-optimization-in-any-web-apps-mobile-apps-5c1m)
-- [Dive into the Essentials of C Programming with This Comprehensive Guide 🚀](https://dev.to/getvm/dive-into-the-essentials-of-c-programming-with-this-comprehensive-guide-3cpj)
-- [How to Avoid Data Loss and Downtime During WordPress Migration](https://dev.to/shabbir_mw_03f56129cd25/how-to-avoid-data-loss-and-downtime-during-wordpress-migration-48ee)
-- [PT Len Industri &lpar;Persero&rpar; &lpar;Official&rpar; x MSIB Kampus Merdeka Batch 6 LoggerService with Tauri &amp; RustDDS](https://dev.to/xyzuan/-pt-len-industri-persero-official-x-msib-kampus-merdeka-batch-6-loggerservice-with-tauri-rustdds-4je0)
-- [User Management System](https://dev.to/suleiman_alhajimohammed_/my-starter-kit-3d28)
+- [A Learner&#39;s Guide to Overcoming Deadline Anxiety](https://dev.to/gregharis/a-learners-guide-to-overcoming-deadline-anxiety-1moo)
+- [Scaling Up Your Developer Community](https://dev.to/swati1267/scaling-up-your-developer-community-1kba)
+- [The Observer Patter - A Practical Approach.](https://dev.to/muhammad_salem/the-observer-patter-a-practical-approach-3ibi)
+- [Numerical Alchemy: Converting Numbers to Text in C#](https://dev.to/balagmadhu/numerical-alchemy-converting-numbers-to-text-in-c-2pb5)
+- [Leveraging JavaScript&#39;s Set and Map for an Efficient Content Management System](https://dev.to/code_passion/leveraging-javascripts-set-and-map-for-an-efficient-content-management-system-38c0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
