@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Highlights from Laracon US 2024 Keynote](https://dev.to/arafatweb/highlights-from-laracon-us-2024-keynote-110a)
-- [Developing My First ML Workflow: A Journey into Machine Learning on SageMaker](https://dev.to/official_tochy/developing-my-first-ml-workflow-a-journey-into-machine-learning-on-sagemaker-3fj2)
-- [Building My First Machine Learning Workflow: The Journey of &quot;Scones Unlimited&quot;](https://dev.to/official_tochy/building-my-first-machine-learning-workflow-the-journey-of-scones-unlimited-3nfk)
-- [Snowflake Grants : Read only](https://dev.to/digitalchemist/snowflake-grants-read-only-2flh)
-- [Building Recurring Task Feature with React, TypeScript, and Node.js](https://dev.to/radzion/building-recurring-task-feature-with-react-typescript-and-nodejs-5fc4)
+- [Image Optimization in Any Web Apps / Mobile Apps](https://dev.to/ashutoshsarangi/image-optimization-in-any-web-apps-mobile-apps-5c1m)
+- [Dive into the Essentials of C Programming with This Comprehensive Guide 🚀](https://dev.to/getvm/dive-into-the-essentials-of-c-programming-with-this-comprehensive-guide-3cpj)
+- [How to Avoid Data Loss and Downtime During WordPress Migration](https://dev.to/shabbir_mw_03f56129cd25/how-to-avoid-data-loss-and-downtime-during-wordpress-migration-48ee)
+- [PT Len Industri &lpar;Persero&rpar; &lpar;Official&rpar; x MSIB Kampus Merdeka Batch 6 LoggerService with Tauri &amp; RustDDS](https://dev.to/xyzuan/-pt-len-industri-persero-official-x-msib-kampus-merdeka-batch-6-loggerservice-with-tauri-rustdds-4je0)
+- [User Management System](https://dev.to/suleiman_alhajimohammed_/my-starter-kit-3d28)
 <!-- BLOG-POST-LIST:END -->
 
 ---
