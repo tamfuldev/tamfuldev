@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Secure Coding - Prevention Over Correction.](https://dev.to/nedsoft/secure-coding-prevention-over-correction-4cag)
-- [How to build a Hybrid Search System for RAG?](https://dev.to/hakeem/how-to-build-a-hybrid-search-system-for-rag-4l0i)
-- [How to Build a Basic Chatbot Using TensorFlow and JavaScript](https://dev.to/jideabdqudus/how-to-build-a-basic-chatbot-using-tensorflow-and-javascript-4f9j)
-- [EcoAct releases ecodev-app!](https://dev.to/tepelbaum/ecoact-releases-ecodev-app-18ai)
-- [Flask migration error](https://dev.to/jasper_chris_474ce2fc4c00/flask-migration-error-57hp)
+- [How to Predict Results of Football Matches](https://dev.to/stokry/how-to-predict-results-of-football-matches-145k)
+- [Zustand, When, how and why](https://dev.to/ricardogesteves/zustand-when-how-and-why-1kpi)
+- [Array Insertion in DSA using JavaScript: From Basics to Advanced](https://dev.to/manojspace/array-insertion-in-dsa-using-javascript-from-beginner-to-advanced-2a30)
+- [Weekend Project - Building an NLQ App with ChatGPT](https://dev.to/hannsta/weekend-project-building-an-nlq-app-with-chatgpt-2hjm)
+- [My Journey Learning Artificial Intelligence - Day 10](https://dev.to/chantszcheuk/my-journey-learning-artificial-intelligence-day-13-1865)
 <!-- BLOG-POST-LIST:END -->
 
 ---
