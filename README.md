@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AIM Weekly 02 September 2024](https://dev.to/tspannhw/aim-weekly-02-september-2024-5doj)
-- [Flutter ListTile](https://dev.to/aadarshk7/flutter-listtile-2c01)
-- [One of the most annoying little things that can happen in development...](https://dev.to/taliastorymaker/one-of-the-most-annoying-little-things-that-can-happen-in-development-fn4)
-- [Deploying a Highly Available Web Application on AWS Using Terraform](https://dev.to/pat6339/deploying-a-highly-available-web-application-on-aws-using-terraform-40b9)
-- [Interface vs. Abstract Class – When to Use Which?](https://dev.to/be11amer/interface-vs-abstract-class-when-to-use-which-3n6j)
+- [Day 11:](https://dev.to/mc_75fd1f9597c94c8df8ec2e/day-11-4bm9)
+- [Understanding the Abstract Factory Pattern: A Simple Guide🏭✨](https://dev.to/hossamgouda/understanding-the-abstract-factory-pattern-a-simple-guide-57ik)
+- [Day 10:](https://dev.to/mc_75fd1f9597c94c8df8ec2e/day-10-52da)
+- [Day 9:](https://dev.to/mc_75fd1f9597c94c8df8ec2e/day-9-1j2g)
+- [Day 8:](https://dev.to/mc_75fd1f9597c94c8df8ec2e/day-8-2ld9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
