@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Second Iteration: Your Key to Finally Writing Excellent Code](https://dev.to/juleswritescode/the-second-iteration-your-key-to-finally-writing-excellent-code-2b9j)
-- [Understanding Type Conversion in Programming: Key Points You Need to Know](https://dev.to/areeb_anwar_813df06ee1124/understanding-type-conversion-in-programming-key-points-you-need-to-know-2o35)
-- [Top 5 Django Rest Framework Features Every Developer Should Know](https://dev.to/apilover/top-5-django-rest-framework-features-every-developer-should-know-3f3d)
-- [How SafeLine&#39;s Dynamic Protection Safeguards Your Website](https://dev.to/lulu_liu_c90f973e2f954d7f/how-safelines-dynamic-protection-safeguards-your-website-5102)
-- [Top Face Recognition SDKs in 2024](https://dev.to/luxandcloud/top-face-recognition-sdks-in-2024-5a6a)
+- [My Experience with SafeLine Community Edition WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/my-experience-with-safeline-community-edition-waf-3a2l)
+- [Enhance Your Cybersecurity with SafeLine: The Open-Source WAF You Can Trust](https://dev.to/lulu_liu_c90f973e2f954d7f/enhance-your-cybersecurity-with-safeline-the-open-source-waf-you-can-trust-m9p)
+- [How To Create A Telegram Bot In 6 Easy Steps](https://dev.to/dev_olatunji/how-to-create-a-telegram-bot-in-6-easy-steps-2lfl)
+- [Automated EC2 Control Plane and EKS Cluster Deployment Using Terraform and GitHub Actions](https://dev.to/oloruntobiolurombi/automated-ec2-control-plane-and-eks-cluster-deployment-using-terraform-and-github-actions-1j63)
+- [Multi-layer Graph Convolutional Network &lpar;GCN&rpar; Overview](https://dev.to/wildanazz/multi-layer-graph-convolutional-network-gcn-overview-fl5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
