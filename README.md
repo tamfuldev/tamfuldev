@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What Do You Need for Scraping Amazon?](https://dev.to/toniaread/what-do-you-need-for-scraping-amazon-2aja)
-- [Build a Abhi ki News Website](https://dev.to/abhishekgurjar/build-a-abhi-ki-news-website-3eei)
-- [Seeking Feedback on Kops.dev: Our Journey to Simplify Cloud Infrastructure](https://dev.to/deepkops/seeking-feedback-on-kopsdev-our-journey-to-simplify-cloud-infrastructure-1kif)
-- [Indian Flag](https://dev.to/iamyathz/indian-flag-578f)
-- [Payment Passkeys @ Mastercard: Revolution for Payment Security](https://dev.to/corbado/payment-passkeys-mastercard-revolution-for-payment-security-2ckl)
+- [How I built my open-source Social media scheduling tool... 🤯](https://dev.to/nevodavid/how-i-built-my-open-source-social-media-scheduling-tool-dih)
+- [CSS da Overflow xossasi va uning qiymatlari](https://dev.to/miss_code_creaker/css-da-overflow-xossasi-va-uning-qiymatlari-26mc)
+- [Css da &quot;O&#39;lchov birliklari&quot; &lpar;Units&rpar;](https://dev.to/miss_code_creaker/css-da-olchov-birliklari-units-5fnk)
+- [Real-time plotting with pyplot](https://dev.to/paxfeline/real-time-plotting-with-pyplot-2b3g)
+- [React Logo](https://dev.to/iamyathz/react-logo-2jl8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
