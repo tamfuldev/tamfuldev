@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Predict Results of Football Matches](https://dev.to/stokry/how-to-predict-results-of-football-matches-145k)
-- [Zustand, When, how and why](https://dev.to/ricardogesteves/zustand-when-how-and-why-1kpi)
-- [Array Insertion in DSA using JavaScript: From Basics to Advanced](https://dev.to/manojspace/array-insertion-in-dsa-using-javascript-from-beginner-to-advanced-2a30)
-- [Weekend Project - Building an NLQ App with ChatGPT](https://dev.to/hannsta/weekend-project-building-an-nlq-app-with-chatgpt-2hjm)
-- [My Journey Learning Artificial Intelligence - Day 10](https://dev.to/chantszcheuk/my-journey-learning-artificial-intelligence-day-13-1865)
+- [7 Best Websites to Discover AI Tools and Boost Your Workflow in 2024](https://dev.to/bigsondev/7-best-websites-to-discover-ai-tools-and-boost-your-workflow-in-2024-2a42)
+- [Refactor Stimulus.js Controllers to Use Change Callbacks](https://dev.to/railsdesigner/title-refactor-stimulusjs-controllers-to-use-change-callbacks-3dl3)
+- [Introduction to Gitlab](https://dev.to/theholyspirit/introduction-to-gitlab-3759)
+- [Query Param Queryparam](https://dev.to/webfaisalbd/query-param-queryparam-4h99)
+- [How to Set OpenAI API Key as an Environment Variable?](https://dev.to/cyanspray/how-to-set-openai-api-key-as-an-environment-variable-bh6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
