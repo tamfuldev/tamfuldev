@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I built my open-source Social media scheduling tool... 🤯](https://dev.to/nevodavid/how-i-built-my-open-source-social-media-scheduling-tool-dih)
-- [CSS da Overflow xossasi va uning qiymatlari](https://dev.to/miss_code_creaker/css-da-overflow-xossasi-va-uning-qiymatlari-26mc)
-- [Css da &quot;O&#39;lchov birliklari&quot; &lpar;Units&rpar;](https://dev.to/miss_code_creaker/css-da-olchov-birliklari-units-5fnk)
-- [Real-time plotting with pyplot](https://dev.to/paxfeline/real-time-plotting-with-pyplot-2b3g)
-- [React Logo](https://dev.to/iamyathz/react-logo-2jl8)
+- [ACID in Postgres](https://dev.to/jacktt/acid-in-postgres-6h8)
+- [E-Book Share Using Next.js 14, Prisma, TailwindCSS &amp; Next Auth 🤩](https://dev.to/saidmou/e-book-share-using-nextjs-14-prisma-tailwindcss-next-auth-53ff)
+- [CAP Theorem](https://dev.to/aniket-blogs/cap-theorem-5n5)
+- [REST CRUD API](https://dev.to/nhungnguyen04/rest-crud-api-gao)
+- [Introducing Duwa a Chichewa Programming Language](https://dev.to/sevenreup/introducing-duwa-a-chichewa-programming-language-126k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
