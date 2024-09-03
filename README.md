@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Experience with SafeLine Community Edition WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/my-experience-with-safeline-community-edition-waf-3a2l)
-- [Enhance Your Cybersecurity with SafeLine: The Open-Source WAF You Can Trust](https://dev.to/lulu_liu_c90f973e2f954d7f/enhance-your-cybersecurity-with-safeline-the-open-source-waf-you-can-trust-m9p)
-- [How To Create A Telegram Bot In 6 Easy Steps](https://dev.to/dev_olatunji/how-to-create-a-telegram-bot-in-6-easy-steps-2lfl)
-- [Automated EC2 Control Plane and EKS Cluster Deployment Using Terraform and GitHub Actions](https://dev.to/oloruntobiolurombi/automated-ec2-control-plane-and-eks-cluster-deployment-using-terraform-and-github-actions-1j63)
-- [Multi-layer Graph Convolutional Network &lpar;GCN&rpar; Overview](https://dev.to/wildanazz/multi-layer-graph-convolutional-network-gcn-overview-fl5)
+- [Secure Coding - Prevention Over Correction.](https://dev.to/nedsoft/secure-coding-prevention-over-correction-4cag)
+- [How to build a Hybrid Search System for RAG?](https://dev.to/hakeem/how-to-build-a-hybrid-search-system-for-rag-4l0i)
+- [How to Build a Basic Chatbot Using TensorFlow and JavaScript](https://dev.to/jideabdqudus/how-to-build-a-basic-chatbot-using-tensorflow-and-javascript-4f9j)
+- [EcoAct releases ecodev-app!](https://dev.to/tepelbaum/ecoact-releases-ecodev-app-18ai)
+- [Flask migration error](https://dev.to/jasper_chris_474ce2fc4c00/flask-migration-error-57hp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
