@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [keyboard-centric computing.](https://dev.to/nayetwolf/keyboard-centric-computing-m68)
-- [DevOps Security Integrating Best Practices into Your Pipeline](https://dev.to/kubeha_18/devops-security-integrating-best-practices-into-your-pipeline-1am1)
-- [Split values of a field in a database table and transform it to new fields #eg37](https://dev.to/esproc_spl/split-values-of-a-field-in-a-database-table-and-transform-it-to-new-fields-eg37-2naj)
-- [Comprehensive Guide to Git Branching, Merging, and Pull Requests](https://dev.to/tobidelly/comprehensive-guide-to-git-branching-merging-and-pull-requests-3jo6)
-- [Creating users with SSH access only in Linux](https://dev.to/pablo74/creating-users-with-ssh-access-only-in-linux-3hm1)
+- [Best Way to Handle Localization For Exception Messages in Spring Boot](https://dev.to/mammadyahyayev/best-way-to-handle-localization-for-exception-messages-in-spring-boot-4ng9)
+- [Join us for the next Frontend Challenge: Space Edition 👾🪐👽](https://dev.to/devteam/join-us-for-the-next-frontend-challenge-space-edition-2d9g)
+- [Tech Spotlight: Daily Tech News](https://dev.to/techdogs_inc/tech-spotlight-daily-tech-news-160n)
+- [Top Cybersecurity Practices for 2024: Essential Strategies to Protect Your Digital Assets](https://dev.to/bytesupreme/top-cybersecurity-practices-for-2024-essential-strategies-to-protect-your-digital-assets-3ed1)
+- [Load Balancer Algorithms](https://dev.to/aldoportillo/load-balancer-algorithms-2kbm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
