@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [OTE one time emails](https://dev.to/jswhisperer/ote-one-time-emails-10n0)
-- [Identity 101: Authentication and Authorization](https://dev.to/unknwon/identity-101-authentication-and-authorization-2717)
-- [Mastering Fine-Tuning: A Journey Through Model Optimization](https://dev.to/mohammadshahidbeigh/mastering-fine-tuning-a-journey-through-model-optimization-5hj)
-- [Dark Mode Toggle Html css js](https://dev.to/babar_ali/dark-mode-toggle-html-css-js-mce)
-- [Understanding Reentrancy Attacks in Solidity Smart Contracts](https://dev.to/ceasermikes002/understanding-reentrancy-attacks-in-solidity-smart-contracts-41k6)
+- [CSS Transitions and Animations](https://dev.to/ridoy_hasan/css-transitions-and-animations-50b6)
+- [API Design for Data-Driven Websites](https://dev.to/peymaan_abedinpour/api-design-for-data-driven-websites-2aaj)
+- [How to install Nginx on Mac](https://dev.to/deepcodr/how-to-install-nginx-on-mac-157i)
+- [Experimenting with AJAX and APIs: A Comprehensive Guide for Beginners](https://dev.to/peymaan_abedinpour/experimenting-with-ajax-and-apis-a-comprehensive-guide-for-beginners-3g3i)
+- [Chrome Extension Boilerplate with Popup Interaction &lpar;Manifest V3&rpar;](https://dev.to/llagerlof/chrome-extension-boilerplate-with-popup-interaction-manifest-v3-3ko5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
