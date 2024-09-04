@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Future Trends and Innovations in Developer Community Building](https://dev.to/swati1267/future-trends-and-innovations-in-developer-community-building-1gbf)
-- [Top Game Testing Tools Improving Game Performance](https://dev.to/misterankit/top-game-testing-tools-improving-game-performance-38jh)
-- [Explore the Future of Martropolis with Hadoop and Hive](https://dev.to/labex/explore-the-future-of-martropolis-with-hadoop-and-hive-49fl)
-- [Use minio as an external object storage with Gitlab](https://dev.to/adoucoure/use-minio-as-an-external-object-storage-with-gitlab-foi)
-- [CBJS: Command Injection 4in1 level 4](https://dev.to/peppa6/cbjs-command-injection-4in1-level-4-50fj)
+- [Free Tailwind CSS Button Animations](https://dev.to/rarestoma/free-tailwind-css-button-animations-5c8m)
+- [Eureka and Consul - Service Discovery Tools](https://dev.to/jottyjohn/eureka-and-consul-service-discovery-tools-inc)
+- [Upgrade Ruby using dual boot](https://dev.to/tsudhishnair/upgrade-ruby-using-dual-boot-46i6)
+- [Unleashing the Full Potential of Neo4j and LangChain in Knowledge Graphs](https://dev.to/kanugorajat/unleashing-the-full-potential-of-neo4j-and-langchain-in-knowledge-graphs-46f2)
+- [How to create a password strength meter with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/how-to-create-a-password-strength-meter-with-tailwind-css-and-javascript-16j1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
