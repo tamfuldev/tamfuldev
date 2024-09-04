@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [When should I use JWTs?](https://dev.to/logto/when-should-i-use-jwts-4hnh)
-- [From Side Hustle to Payday How I Earned My First $100](https://dev.to/programmerraja/from-side-hustle-to-payday-how-i-earned-my-first-100-239j)
-- [How to Stop Facebook from Using My Data and Prevent Arresting Social Network Owners for Refusing Data Requests](https://dev.to/terekhin/how-to-stop-facebook-from-using-my-data-and-prevent-arresting-social-network-owners-for-refusing-data-requests-15do)
-- [Crear una partición de Windows y Linux](https://dev.to/aleets_vaaz/crear-una-particion-de-windows-y-linux-ne1)
-- [Mastering CORS in Golang: A Comprehensive Guide.](https://dev.to/ferdi_code/mastering-cors-in-golang-a-comprehensive-guide-25h2)
+- [LabEx Trending: Installing and Configuring a Mail Server and More](https://dev.to/labex/labex-trending-installing-and-configuring-a-mail-server-and-more-9bc)
+- [Capture traffic with Golang](https://dev.to/aohorodnyk/capture-traffic-with-golang-2nmo)
+- [Protecting The Web Application From Malicious Traffic And Blocking Unauthorized Access](https://dev.to/vincenthyacienth/protecting-the-web-application-from-malicious-traffic-and-blocking-unauthorized-access-5goj)
+- [apigen-ts – Simple TypeScript API Client Generator](https://dev.to/vladkens/apigen-ts-simple-typescript-api-client-generator-gm2)
+- [Issue 60 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-60-of-aws-cloud-security-weekly-1p95)
 <!-- BLOG-POST-LIST:END -->
 
 ---
