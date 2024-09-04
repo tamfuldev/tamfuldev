@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Aptos Ecosystem: Empowering Developers with Layer-1 Blockchain and Spheron’s Decentralized Infrastructure](https://dev.to/saur_abhh31/exploring-the-aptos-ecosystem-empowering-developers-with-layer-1-blockchain-and-spherons-decentralized-infrastructure-23h8)
-- [Shiny: Interactive Web Applications in R](https://dev.to/elvismamani/shiny-interactive-web-applications-in-r-239b)
-- [Controlando la tasa de errores de nuestros frontends con Datadog RUM](https://dev.to/mentatech/controlando-la-tasa-de-errores-de-nuestros-frontends-con-datadog-rum-4k83)
-- [REspec Estrutura de Teste em Ruby on Rails](https://dev.to/rochaisadora/respec-estrutura-de-teste-em-ruby-on-rails-3jce)
-- [Day 64 / 100 Days of Code:](https://dev.to/jacobsternx/day-64-100-days-of-code-1haa)
+- [When should I use JWTs?](https://dev.to/logto/when-should-i-use-jwts-4hnh)
+- [From Side Hustle to Payday How I Earned My First $100](https://dev.to/programmerraja/from-side-hustle-to-payday-how-i-earned-my-first-100-239j)
+- [How to Stop Facebook from Using My Data and Prevent Arresting Social Network Owners for Refusing Data Requests](https://dev.to/terekhin/how-to-stop-facebook-from-using-my-data-and-prevent-arresting-social-network-owners-for-refusing-data-requests-15do)
+- [Crear una partición de Windows y Linux](https://dev.to/aleets_vaaz/crear-una-particion-de-windows-y-linux-ne1)
+- [Mastering CORS in Golang: A Comprehensive Guide.](https://dev.to/ferdi_code/mastering-cors-in-golang-a-comprehensive-guide-25h2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
