@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Compiling 🚨TypeScript! Run It Natively in Node.js with This One Flag! 🛑](https://dev.to/dharamgfx/stop-compiling-typescript-run-it-natively-in-nodejs-with-this-one-flag-2bc6)
-- [Why Every Development Team Needs Effective Bug Tracking](https://dev.to/ray_parker01/why-every-development-team-needs-effective-bug-tracking-fij)
-- [Array Searching in DSA using JavaScript: From Basics to Advanced](https://dev.to/manojspace/array-searching-in-dsa-using-javascript-from-basics-to-advanced-593l)
-- [Brave Browser](https://dev.to/hungrywolf/brave-browser-43b5)
-- [Turn DevOps to MLOps Pipelines With This Open-Source Tool](https://dev.to/kitops/turn-devops-to-mlops-pipelines-with-this-open-source-tool-3ehc)
+- [keyboard-centric computing.](https://dev.to/nayetwolf/keyboard-centric-computing-m68)
+- [DevOps Security Integrating Best Practices into Your Pipeline](https://dev.to/kubeha_18/devops-security-integrating-best-practices-into-your-pipeline-1am1)
+- [Split values of a field in a database table and transform it to new fields #eg37](https://dev.to/esproc_spl/split-values-of-a-field-in-a-database-table-and-transform-it-to-new-fields-eg37-2naj)
+- [Comprehensive Guide to Git Branching, Merging, and Pull Requests](https://dev.to/tobidelly/comprehensive-guide-to-git-branching-merging-and-pull-requests-3jo6)
+- [Creating users with SSH access only in Linux](https://dev.to/pablo74/creating-users-with-ssh-access-only-in-linux-3hm1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
