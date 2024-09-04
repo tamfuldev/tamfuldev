@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Database Isolation Levels: An Essential Overview](https://dev.to/eric6166/understanding-database-isolation-levels-an-essential-overview-m53)
-- [js | objects |](https://dev.to/ranjith_jr_fbf2e375879b08/js-objects--131f)
-- [Test a listener is called with expected CustomEvent&lpar;&rpar;](https://dev.to/manuartero/test-a-listener-is-called-with-expected-customevent-5b2)
-- [Create your own Picture-In-Picture video feature bookmarklet](https://dev.to/mothy/create-your-own-picture-in-picture-video-feature-bookmarklet-3olo)
-- [Codewars: Lario and Muigi Pipe Problem](https://dev.to/susangithaigan/codewars-lario-and-muigi-pipe-problem-4m40)
+- [How to Build a Face Recognition System Using FaceNet in Python](https://dev.to/abhinowww/how-to-build-a-face-recognition-system-using-facenet-in-python-27kh)
+- [Shinetech Software achieves Cyber Essentials Plus certification](https://dev.to/shinetechsoftwareinc/shinetech-software-achieves-cyber-essentials-plus-certification-1fl9)
+- [Nix first steps](https://dev.to/alexander_shagov/nix-first-steps-4066)
+- [# Day 3: Monolithic vs. Microservices Architecture: A Detailed Comparison](https://dev.to/vikram_kumar_2101/-day-2-monolithic-vs-microservices-architecture-a-detailed-comparison-fkc)
+- [How to group array by date in PHP – Fast Tips](https://dev.to/inspector/how-to-group-array-by-date-in-php-fast-tips-4oc0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
