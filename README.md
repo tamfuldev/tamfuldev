@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Free Tailwind CSS Button Animations](https://dev.to/rarestoma/free-tailwind-css-button-animations-5c8m)
-- [Eureka and Consul - Service Discovery Tools](https://dev.to/jottyjohn/eureka-and-consul-service-discovery-tools-inc)
-- [Upgrade Ruby using dual boot](https://dev.to/tsudhishnair/upgrade-ruby-using-dual-boot-46i6)
-- [Unleashing the Full Potential of Neo4j and LangChain in Knowledge Graphs](https://dev.to/kanugorajat/unleashing-the-full-potential-of-neo4j-and-langchain-in-knowledge-graphs-46f2)
-- [How to create a password strength meter with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/how-to-create-a-password-strength-meter-with-tailwind-css-and-javascript-16j1)
+- [Understanding Database Isolation Levels: An Essential Overview](https://dev.to/eric6166/understanding-database-isolation-levels-an-essential-overview-m53)
+- [js | objects |](https://dev.to/ranjith_jr_fbf2e375879b08/js-objects--131f)
+- [Test a listener is called with expected CustomEvent&lpar;&rpar;](https://dev.to/manuartero/test-a-listener-is-called-with-expected-customevent-5b2)
+- [Create your own Picture-In-Picture video feature bookmarklet](https://dev.to/mothy/create-your-own-picture-in-picture-video-feature-bookmarklet-3olo)
+- [Codewars: Lario and Muigi Pipe Problem](https://dev.to/susangithaigan/codewars-lario-and-muigi-pipe-problem-4m40)
 <!-- BLOG-POST-LIST:END -->
 
 ---
