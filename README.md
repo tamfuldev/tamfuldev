@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Most Developers Fail: The Top 10 Pitfalls and How to Avoid Them 🚧](https://dev.to/lokesh_singh/why-most-developers-fail-the-top-10-pitfalls-and-how-to-avoid-them-1b6m)
-- [Nothing is impossible when passion drives you](https://dev.to/chol_mayen_42203f42f001a0/nothing-is-impossible-when-passion-drives-you-l5m)
-- [Is Node.js Bad?](https://dev.to/mrrishimeena/is-nodejs-bad-1j1b)
-- [Unlocking Digital Transformation: How Cloud Ops Powers Agility and Innovation](https://dev.to/hana_sato/unlocking-digital-transformation-how-cloud-ops-powers-agility-and-innovation-5hkf)
-- [Exposing NFT Wash Trading: $3.4B Artificial Volume on Ethereum Blockchain](https://dev.to/mikeyoung44/exposing-nft-wash-trading-34b-artificial-volume-on-ethereum-blockchain-cci)
+- [From legacy to cloud serverless - Part 3](https://dev.to/davwk/from-legacy-to-cloud-serverless-part-3-4abm)
+- [🌐 Securing Kubernetes Secrets in AKS: Using Azure Key Vault with Managed and User Assigned Identities 🚀](https://dev.to/hkhelil/securing-kubernetes-secrets-in-aks-using-azure-key-vault-with-managed-and-user-assigned-identities-569k)
+- [How to Integrate ZinariPay with Your Application Using the NPM Package](https://dev.to/christopher_akanmu/how-to-integrate-zinaripay-with-your-application-using-the-npm-package-2nii)
+- [How to Approach Recursive Functions in Your Coding Assignments](https://dev.to/noahelijah25/how-to-approach-recursive-functions-in-your-coding-assignments-3e5j)
+- [Friendly.rb Ruby Conference updates](https://dev.to/lucianghinda/friendlyrb-ruby-conference-updates-5d6b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
