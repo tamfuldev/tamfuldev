@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From legacy to cloud serverless - Part 3](https://dev.to/davwk/from-legacy-to-cloud-serverless-part-3-4abm)
-- [🌐 Securing Kubernetes Secrets in AKS: Using Azure Key Vault with Managed and User Assigned Identities 🚀](https://dev.to/hkhelil/securing-kubernetes-secrets-in-aks-using-azure-key-vault-with-managed-and-user-assigned-identities-569k)
-- [How to Integrate ZinariPay with Your Application Using the NPM Package](https://dev.to/christopher_akanmu/how-to-integrate-zinaripay-with-your-application-using-the-npm-package-2nii)
-- [How to Approach Recursive Functions in Your Coding Assignments](https://dev.to/noahelijah25/how-to-approach-recursive-functions-in-your-coding-assignments-3e5j)
-- [Friendly.rb Ruby Conference updates](https://dev.to/lucianghinda/friendlyrb-ruby-conference-updates-5d6b)
+- [Setting Up ViewCode Projects for Versions Below iOS 13](https://dev.to/gguedes/setting-up-viewcode-projects-for-versions-below-ios-13-inh)
+- [Master Modal, Tooltips and more with React createPortal](https://dev.to/kada/master-modal-tooltips-and-more-with-react-createportal-2h9o)
+- [A Comprehensive Guide to WooCommerce User Roles: Managing Access and Capabilities in Your Online Store](https://dev.to/stevejacob45678/a-comprehensive-guide-to-woocommerce-user-roles-managing-access-and-capabilities-in-your-online-store-4bl)
+- [js | DOM |](https://dev.to/ranjith_jr_fbf2e375879b08/js-dom--2pn5)
+- [PBAC vs. Zanzibar For User Authorization](https://dev.to/cerbosdev/pbac-vs-zanzibar-for-user-authorization-5h0d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
