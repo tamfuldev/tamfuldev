@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [#57 — Concatenate Column Titles Corresponding to Empty Cells](https://dev.to/judith677/57-concatenate-column-titles-corresponding-to-empty-cells-3bc5)
-- [Unlock Your MySQL Mastery: The MySQL Practice Labs Course](https://dev.to/labex/unlock-your-mysql-mastery-the-mysql-practice-labs-course-3931)
-- [🍑understanding windows Command Line Interface](https://dev.to/aryan015/understanding-windows-command-line-interface-330e)
-- [How New Websites Can Rapidly Gain Organic Search Traffic](https://dev.to/juddiy/how-new-websites-can-rapidly-gain-organic-search-traffic-4m10)
-- [Simplifying real-time data for smart contracts and wallet activity](https://dev.to/quionie/simplifying-real-time-data-for-smart-contracts-and-wallet-activity-38lj)
+- [✨Dive into Markdown Magic!](https://dev.to/qurlarmah/dive-into-markdown-magic-24m4)
+- [The Purpose of Computer Processors &lpar;CPUs&rpar; and How Multiple Cores Improve Speed and Performance](https://dev.to/adityabhuyan/the-purpose-of-computer-processors-cpus-and-how-multiple-cores-improve-speed-and-performance-3f8d)
+- [Guide to Viewing User Permissions in GBase 8s](https://dev.to/congcong/guide-to-viewing-user-permissions-in-gbase-8s-12ol)
+- [25 Must-Read Personal Blogs for Computer Programming Enthusiasts](https://dev.to/ailex/25-must-read-personal-blogs-for-computer-programming-enthusiasts-1552)
+- [Using a Public Repository on GitHub for Personal Projects: A Complete Guide](https://dev.to/adityabhuyan/using-a-public-repository-on-github-for-personal-projects-a-complete-guide-9h8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
