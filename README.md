@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Logging and Error Handling backend applications](https://dev.to/shieldstring/mastering-logging-and-error-handling-backend-applications-53pi)
-- [The Future of IoT and Android: What Lies Ahead](https://dev.to/daviekim13/the-future-of-iot-and-android-what-lies-ahead-11dm)
-- [Quantum Computing: What It Means for Mobile App Development](https://dev.to/daviekim13/quantum-computing-what-it-means-for-mobile-app-development-2ha3)
-- [How to Deploy a Full-Stack Application on Vercel &lpar;ReactJS | Vite | NodeJS | TypeScript | Neon | PostgreSQL&rpar;](https://dev.to/stm-akikaze1119/how-to-deploy-a-full-stack-application-on-vercel-reactjs-vite-nodejs-typescript-neon-postgresql-5bnf)
-- [Minimal tips to run isolated code](https://dev.to/slivingston/minimal-tips-to-run-isolated-code-4206)
+- [🚀 Why Choose Binary Search Over Linear Search?](https://dev.to/mostafa_shariare_c6a67ad8/why-choose-binary-search-over-linear-search-3ifi)
+- [Day 65 / 100 Days of Code: Exploring Getters and Setters with Sports](https://dev.to/jacobsternx/day-65-100-days-of-code-exploring-getters-and-setters-with-sports-l85)
+- [Day 65 / 100 Days of Code: Exploring Getters and Setters with Sports](https://dev.to/jacobsternx/day-65-100-days-of-code-exploring-getters-and-setters-with-sports-9a5)
+- [Comparing Language Detection Libraries &lpar;&amp; API&rpar; Using Java/ColdFusion/CFML](https://dev.to/gamesover/comparing-language-detection-libraries-api-using-javacoldfusioncfml-gkf)
+- [How to Use Kotlin Notebook for Free](https://dev.to/aldok/how-to-use-kotlin-notebook-for-free-2in3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
