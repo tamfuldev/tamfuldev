@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Consideraciones en los serializadores del DRF](https://dev.to/johnnatan_sandovalcardon/consideraciones-en-los-serializadores-del-drf-1816)
-- [Week 3](https://dev.to/mc_75fd1f9597c94c8df8ec2e/week-3-568)
-- [Small Class Manipulator 2.0](https://dev.to/sebk69/small-class-manipulation-20-5elb)
-- [Recommended Series for Small Rails Development Teams: Error Tracking - Honeybadger](https://dev.to/geeknees/recommended-series-for-small-rails-development-teams-error-tracking-honeybadger-5f7a)
-- [What is Clean Architecture: Part 14-last step in Application Core Layer](https://dev.to/moh_moh701/what-is-clean-architecture-part-14-last-step-in-application-core-layer-435o)
+- [Day 26:](https://dev.to/mc_75fd1f9597c94c8df8ec2e/day-26-366h)
+- [Embracing Documentation as Code with GitLab: A Modern Approach to Team Collaboration](https://dev.to/payel_bhattacharya_71206f/embracing-documentation-as-code-with-gitlab-a-modern-approach-to-team-collaboration-1md8)
+- [Day 25:](https://dev.to/mc_75fd1f9597c94c8df8ec2e/day-25-52fl)
+- [Day 24:](https://dev.to/mc_75fd1f9597c94c8df8ec2e/day-24-4a3h)
+- [Using my side project to get noticed in this brutal job market](https://dev.to/jamesarob/using-my-side-project-to-get-noticed-in-this-brutal-job-market-3l0d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
