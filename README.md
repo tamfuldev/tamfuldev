@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DRY your Apache APISIX config](https://dev.to/apisix/dry-your-apache-apisix-config-85f)
-- [Interview Kit: Recursion.](https://dev.to/sfundomhlungu/interview-kit-recursion-23p)
-- [Best RUST IDEs in 2024 🌟](https://dev.to/imkrunalkanojiya/best-rust-ides-in-2024-398b)
-- [A Free, Beginner-Friendly Web Protection Tool: SafeLine](https://dev.to/lulu_liu_c90f973e2f954d7f/a-free-beginner-friendly-web-protection-tool-safeline-4j59)
-- [Best Practices for Managing Terraform State Files: A Complete Guide](https://dev.to/pat6339/best-practices-for-managing-terraform-state-files-a-complete-guide-400m)
+- [Integrate Fingerprint and Face ID Authentication in Your Angular App Using WebAuthn: A Step-by-Step Guide](https://dev.to/this-is-angular/integrate-fingerprint-and-face-id-authentication-in-your-angular-app-using-webauthn-a-step-by-step-guide-3o2b)
+- [Creating a React Hook for Rotating Images at Any Angle](https://dev.to/zacharylee/creating-a-react-hook-for-rotating-images-at-any-angle-4nnb)
+- [Top 3 Open-Source Events that will make your October memorable!](https://dev.to/rohan_sharma/top-3-open-source-events-that-will-make-your-october-memorable-4hce)
+- [Understanding Rust and Building a Simple Calculator API from Scratch](https://dev.to/peymaan_abedinpour/understanding-rust-and-building-a-simple-calculator-api-from-scratch-4fab)
+- [The Future of Community Management is AI: Here&#39;s Why Your DevTool Needs to Get On Board](https://dev.to/swati1267/the-future-of-community-management-is-ai-heres-why-your-devtool-needs-to-get-on-board-24n3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
