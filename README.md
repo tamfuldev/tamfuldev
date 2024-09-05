@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Integrate Fingerprint and Face ID Authentication in Your Angular App Using WebAuthn: A Step-by-Step Guide](https://dev.to/this-is-angular/integrate-fingerprint-and-face-id-authentication-in-your-angular-app-using-webauthn-a-step-by-step-guide-3o2b)
-- [Creating a React Hook for Rotating Images at Any Angle](https://dev.to/zacharylee/creating-a-react-hook-for-rotating-images-at-any-angle-4nnb)
-- [Top 3 Open-Source Events that will make your October memorable!](https://dev.to/rohan_sharma/top-3-open-source-events-that-will-make-your-october-memorable-4hce)
-- [Understanding Rust and Building a Simple Calculator API from Scratch](https://dev.to/peymaan_abedinpour/understanding-rust-and-building-a-simple-calculator-api-from-scratch-4fab)
-- [The Future of Community Management is AI: Here&#39;s Why Your DevTool Needs to Get On Board](https://dev.to/swati1267/the-future-of-community-management-is-ai-heres-why-your-devtool-needs-to-get-on-board-24n3)
+- [Ng-News Special Summer Edition](https://dev.to/this-is-angular/ng-news-special-summer-edition-50e6)
+- [Best Free Postman Alternatives 2024](https://dev.to/apilover/best-free-postman-alternatives-2024-59e5)
+- [Achieving Multi-WAF Protection and Failover Using SafeLine WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/achieving-multi-waf-protection-and-failover-using-safeline-waf-2a2g)
+- [What I Discovered About @Transactional in Spring Boot 🔍](https://dev.to/priya01/what-i-discovered-about-transactional-in-spring-boot-1k9h)
+- [Swift 101: Enumerations](https://dev.to/silviaespanagil/swift-101-enumerations-5h19)
 <!-- BLOG-POST-LIST:END -->
 
 ---
