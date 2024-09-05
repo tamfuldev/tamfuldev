@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Google Authentication in a Chrome Extension with Firebase](https://dev.to/lvn1/google-authentication-in-a-chrome-extension-with-firebase-2bmo)
-- [Ultimate UI and Development Resource Guide for 2024 🚀](https://dev.to/uicraft_by_pratik/ultimate-ui-and-development-resource-guide-for-2024-29l0)
-- [Best React Frameworks: Which One Should You Choose and When?](https://dev.to/mmainulhasan/best-react-frameworks-which-one-should-you-choose-and-when-dn0)
-- [Setting Up a Monitoring Stack with Nginx Logging Using Grafana, cAdvisor, Promtail, Prometheus, and Loki](https://dev.to/pratik_nalawade/setting-up-a-monitoring-stack-with-nginx-logging-using-grafana-cadvisor-promtail-prometheus-and-loki-4pjh)
-- [Scale Nodejs Application with APM Tools](https://dev.to/tkssharma/scale-nodejs-application-with-apm-tools-59hl)
+- [Handling custom error responses from ExpressoTS with TanStack Query, and NextJS](https://dev.to/expressots/handling-custom-error-responses-from-expressots-with-tanstack-query-and-nextjs-1lij)
+- [Setup efficient CICD Pipeline Jenkins to build binary and push docker image - Kubernetes cluster](https://dev.to/binoy_59380e698d318/setup-efficient-cicd-pipeline-jenkins-to-build-binary-and-push-docker-image-on-kubernetes-cluster-4f8d)
+- [[Database] Multi-Version Concurrency Control](https://dev.to/jacktt/database-multi-version-concurrency-control-1fi8)
+- [Docker Part 1 - Introduction and Overview](https://dev.to/destructo570/docker-part-1-introduction-and-overview-3mp5)
+- [I made my own Programming Language - Headache](https://dev.to/dshaw0004/i-made-my-own-programming-language-headache-3ajg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
