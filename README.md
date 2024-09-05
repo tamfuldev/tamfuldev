@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Handling custom error responses from ExpressoTS with TanStack Query, and NextJS](https://dev.to/expressots/handling-custom-error-responses-from-expressots-with-tanstack-query-and-nextjs-1lij)
-- [Setup efficient CICD Pipeline Jenkins to build binary and push docker image - Kubernetes cluster](https://dev.to/binoy_59380e698d318/setup-efficient-cicd-pipeline-jenkins-to-build-binary-and-push-docker-image-on-kubernetes-cluster-4f8d)
-- [[Database] Multi-Version Concurrency Control](https://dev.to/jacktt/database-multi-version-concurrency-control-1fi8)
-- [Docker Part 1 - Introduction and Overview](https://dev.to/destructo570/docker-part-1-introduction-and-overview-3mp5)
-- [I made my own Programming Language - Headache](https://dev.to/dshaw0004/i-made-my-own-programming-language-headache-3ajg)
+- [Enhancing LLM Tool Usage with Converso](https://dev.to/gianfrancodemarco/enhancing-llm-tool-usage-with-converso-3ip3)
+- [Top 10 Clean Code Rules](https://dev.to/anikakash/top-10-clean-code-rules-13i6)
+- [VSCode + Ollama + Continue = chat e tab completions gratuitamente](https://dev.to/bduarte10/vscode-ollama-continue-chat-e-tab-completions-gratuitamente-3806)
+- [Optimizing Performance in CodeIgniter: Tips and Best Practices](https://dev.to/codeigniter-developers/optimizing-performance-in-codeigniter-tips-and-best-practices-34la)
+- [Set&lpar;&rpar; usage in Zustand’s source code.](https://dev.to/thinkthroo/set-usage-in-zustands-source-code-omp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
