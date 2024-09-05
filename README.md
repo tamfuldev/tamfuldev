@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Enhancing LLM Tool Usage with Converso](https://dev.to/gianfrancodemarco/enhancing-llm-tool-usage-with-converso-3ip3)
-- [Top 10 Clean Code Rules](https://dev.to/anikakash/top-10-clean-code-rules-13i6)
-- [VSCode + Ollama + Continue = chat e tab completions gratuitamente](https://dev.to/bduarte10/vscode-ollama-continue-chat-e-tab-completions-gratuitamente-3806)
-- [Optimizing Performance in CodeIgniter: Tips and Best Practices](https://dev.to/codeigniter-developers/optimizing-performance-in-codeigniter-tips-and-best-practices-34la)
-- [Set&lpar;&rpar; usage in Zustand’s source code.](https://dev.to/thinkthroo/set-usage-in-zustands-source-code-omp)
+- [Use Cases for working with DynamoDB alongside Node.js and Typescript](https://dev.to/wallacefreitas/use-cases-for-working-with-dynamodb-alongside-nodejs-and-typescript-4hld)
+- [Mastering Linux on Windows: A Complete Guide to Windows Subsystem for Linux &lpar;WSL2 &rpar; Setup and Benefits](https://dev.to/techmystic/mastering-linux-on-windows-a-complete-guide-to-windows-subsystem-for-linux-wsl2-setup-and-benefits-2p9p)
+- [Week 4](https://dev.to/mc_75fd1f9597c94c8df8ec2e/week-4-3bil)
+- [Day 28:](https://dev.to/mc_75fd1f9597c94c8df8ec2e/day-28-mih)
+- [40 Days Of Kubernetes &lpar;34/40&rpar;](https://dev.to/sina14/40-days-of-kubernetes-3440-eco)
 <!-- BLOG-POST-LIST:END -->
 
 ---
