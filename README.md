@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Why Choose Binary Search Over Linear Search?](https://dev.to/mostafa_shariare_c6a67ad8/why-choose-binary-search-over-linear-search-3ifi)
-- [Day 65 / 100 Days of Code: Exploring Getters and Setters with Sports](https://dev.to/jacobsternx/day-65-100-days-of-code-exploring-getters-and-setters-with-sports-l85)
-- [Day 65 / 100 Days of Code: Exploring Getters and Setters with Sports](https://dev.to/jacobsternx/day-65-100-days-of-code-exploring-getters-and-setters-with-sports-9a5)
-- [Comparing Language Detection Libraries &lpar;&amp; API&rpar; Using Java/ColdFusion/CFML](https://dev.to/gamesover/comparing-language-detection-libraries-api-using-javacoldfusioncfml-gkf)
-- [How to Use Kotlin Notebook for Free](https://dev.to/aldok/how-to-use-kotlin-notebook-for-free-2in3)
+- [makefile mfc](https://dev.to/__040711563a17902392e7/makefile-mfc-60l)
+- [From Shores to Screens: The Oceanic Journey of Internet Data](https://dev.to/ayaaa25/from-shores-to-screens-the-oceanic-journey-of-internet-data-39m7)
+- [Transform Your Workflow with LangSmith Hub: A Game-Changer for JavaScript Engineers](https://dev.to/kenzic/transform-your-workflow-with-langsmith-hub-a-game-changer-for-javascript-engineers-4a8l)
+- [Ferramentas de SEO para GNU/Linux: Otimização de Sites](https://dev.to/fernandomullerjr/ferramentas-de-seo-para-gnulinux-otimizacao-de-sites-39m6)
+- [OSD600 - Just gonna to sneak myself into this blog](https://dev.to/bregwin/osd600-just-gonna-to-sneak-myself-into-this-blog-4of2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
