@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 26:](https://dev.to/mc_75fd1f9597c94c8df8ec2e/day-26-366h)
-- [Embracing Documentation as Code with GitLab: A Modern Approach to Team Collaboration](https://dev.to/payel_bhattacharya_71206f/embracing-documentation-as-code-with-gitlab-a-modern-approach-to-team-collaboration-1md8)
-- [Day 25:](https://dev.to/mc_75fd1f9597c94c8df8ec2e/day-25-52fl)
-- [Day 24:](https://dev.to/mc_75fd1f9597c94c8df8ec2e/day-24-4a3h)
-- [Using my side project to get noticed in this brutal job market](https://dev.to/jamesarob/using-my-side-project-to-get-noticed-in-this-brutal-job-market-3l0d)
+- [Writing a Telegram and Email Notifications Script for Zabbix](https://dev.to/kurtchan/writing-a-telegram-and-email-notifications-script-for-zabbix-5ddj)
+- [Looking for new full stack developer opportunity](https://dev.to/dheerajjha451/looking-for-new-full-stack-developer-opportunity-3kn)
+- [My Journey to Aeternity UniHack 2024](https://dev.to/0x_malachi/my-journey-to-aeternity-unihack-2024-19nb)
+- [Using Mapping Tables to Merge Data with Auto-Number Keys Referenced by Other Tables](https://dev.to/konstantin_semenenkov/using-mapping-tables-to-merge-data-with-auto-number-keys-referenced-by-other-tables-25p9)
+- [Django Redirects App Tutorial](https://dev.to/wsvincent/django-redirects-app-tutorial-o6a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
