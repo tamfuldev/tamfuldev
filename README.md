@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Solar System - CSS ART](https://dev.to/pinky057/solar-system-css-art-5c0o)
-- [How to integrate Cursor AI with Claude 3.5 Sonnet](https://dev.to/ashinno/how-to-integrate-cursor-ai-with-claude-35-sonnet-8ih)
-- [Boost Your Website Security in 3 Minutes with SafeLine, the Open-Source WAF with 11.8K GitHub Stars](https://dev.to/lulu_liu_c90f973e2f954d7f/boost-your-website-security-in-3-minutes-with-safeline-the-open-source-waf-with-118k-github-stars-4314)
-- [What is an API?](https://dev.to/praveensriram01/what-is-an-api-3501)
-- [Modular Architecture for Scalable Frontend Development](https://dev.to/amirrezasalimi/modular-architecture-for-scalable-frontend-development-2emb)
+- [A Deep Dive into Retrieval-Augmented Generation &lpar;RAG&rpar;: How It Works Behind the Scenes!](https://dev.to/abhinowww/a-deep-dive-into-retrieval-augmented-generation-rag-how-it-works-behind-the-scenes-4eid)
+- [Developing Mobile Apps with SDLC - Best Practices](https://dev.to/misterankit/developing-mobile-apps-with-sdlc-best-practices-4oe8)
+- [React.js is popular for several reasons:](https://dev.to/kamlesh_gupta_539c974fb0d/reactjs-is-popular-for-several-reasons-58c)
+- [Profiling a CUDA application with nvprof](https://dev.to/tallesl/profiling-a-cuda-application-with-nvprof-56op)
+- [CSS Flexbox: Creating a Sticky Footer](https://dev.to/tailwine/css-flexbox-creating-a-sticky-footer-582h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
