@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Interfaces and Abstract Classes – Advanced Insights](https://dev.to/be11amer/mastering-interfaces-and-abstract-classes-advanced-insights-2pib)
-- [Ruby Debugging, VS Code, Gems, and Bundler!](https://dev.to/luigi_2ba3/ruby-debugging-vs-code-gems-and-bundler-a49)
-- [New style Stop watch html css js Free](https://dev.to/babar_ali/new-style-stop-watch-html-css-js-free-374p)
-- [Essential software recommendations for Mac OS users](https://dev.to/violet_alexander_a4a3e5dd/essential-software-recommendations-for-mac-os-users-45ai)
-- [What Are Cloud Advisory Services? And How Much Do They Cost?](https://dev.to/astutemarketing/what-are-cloud-advisory-services-and-how-much-do-they-cost-538j)
+- [DRY your Apache APISIX config](https://dev.to/apisix/dry-your-apache-apisix-config-85f)
+- [Interview Kit: Recursion.](https://dev.to/sfundomhlungu/interview-kit-recursion-23p)
+- [Best RUST IDEs in 2024 🌟](https://dev.to/imkrunalkanojiya/best-rust-ides-in-2024-398b)
+- [A Free, Beginner-Friendly Web Protection Tool: SafeLine](https://dev.to/lulu_liu_c90f973e2f954d7f/a-free-beginner-friendly-web-protection-tool-safeline-4j59)
+- [Best Practices for Managing Terraform State Files: A Complete Guide](https://dev.to/pat6339/best-practices-for-managing-terraform-state-files-a-complete-guide-400m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
