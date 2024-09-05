@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Use Cases for working with DynamoDB alongside Node.js and Typescript](https://dev.to/wallacefreitas/use-cases-for-working-with-dynamodb-alongside-nodejs-and-typescript-4hld)
-- [Mastering Linux on Windows: A Complete Guide to Windows Subsystem for Linux &lpar;WSL2 &rpar; Setup and Benefits](https://dev.to/techmystic/mastering-linux-on-windows-a-complete-guide-to-windows-subsystem-for-linux-wsl2-setup-and-benefits-2p9p)
-- [Week 4](https://dev.to/mc_75fd1f9597c94c8df8ec2e/week-4-3bil)
-- [Day 28:](https://dev.to/mc_75fd1f9597c94c8df8ec2e/day-28-mih)
-- [40 Days Of Kubernetes &lpar;34/40&rpar;](https://dev.to/sina14/40-days-of-kubernetes-3440-eco)
+- [3 New frontend libraries 🎨](https://dev.to/therextordcs/3-new-frontend-libraries-436n)
+- [Journey of a product from Vision to Execution &lpar;feat. Chuks Ejechi&rpar;](https://dev.to/vpalania/journey-of-a-product-from-vision-to-execution-feat-chuks-ejechi-3on8)
+- [A Beginner&#39;s Guide for Git](https://dev.to/farhatsharifh/a-beginners-guide-for-git-4p5)
+- [Beginning my Open Source Journey](https://dev.to/peterdanwan/beginning-my-open-source-journey-1g2b)
+- [Day 66 / 100 Days of Code: Understanding JavaScript Callbacks](https://dev.to/jacobsternx/day-66-100-days-of-code-understanding-javascript-callbacks-b3e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
