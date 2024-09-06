@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dev vs Prod](https://dev.to/skillcr/dev-vs-prod-378c)
-- [Evaluating A Machine Learning Classification Model](https://dev.to/chris22ozor/evaluating-a-machine-learning-classification-model-4cd8)
-- [Rethinking code reviews with stacked PRs](https://dev.to/aviator_co/rethinking-code-reviews-with-stacked-prs-70f)
-- [How to build a Full-Stack Video Streaming Platform with Node.js, FFmpeg, and Next.js: A Comprehensive Guide 🎥🚀](https://dev.to/robugdada/how-to-build-a-full-stack-video-streaming-platform-with-nodejs-ffmpeg-and-nextjs-a-comprehensive-guide-1a6a)
-- [Set up Go with version management and VS Code extension](https://dev.to/boscodomingo/set-up-go-with-version-management-and-vs-code-extension-n5d)
+- [Build YouTube API Data Fetching Using Rust](https://dev.to/francescoxx/build-youtube-api-data-fetching-using-rust-2713)
+- [hii](https://dev.to/wesley_gianan_65f64c1ee8d/hii-1fd2)
+- [Embracing AI in Content Creation: Making It Sound Human](https://dev.to/erza_kuru/embracing-ai-in-content-creation-making-it-sound-human-4k1c)
+- [6. Adding Paragraphs, Links, and Lists in HTML: A Beginner&#39;s Guide](https://dev.to/areeb_anwar_813df06ee1124/6-adding-paragraphs-links-and-lists-in-html-a-beginners-guide-5607)
+- [Componentização: A Alma do React no Projeto Text Decoder Challenge](https://dev.to/vania_gomes/componentizacao-a-alma-do-react-no-projeto-text-decoder-challenge-1nk6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
