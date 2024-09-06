@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Enjoy Enterprise-Level Security for Free with SafeLine Community Edition](https://dev.to/lulu_liu_c90f973e2f954d7f/enjoy-enterprise-level-security-for-free-with-safeline-community-edition-hmp)
-- [Types of DNS attacks](https://dev.to/kareemzok/types-of-dns-attacks-4aae)
-- [The Role of Data Analysts in Modern Business: How Pangaea X Bridges the Talent Gap](https://dev.to/pangaea_x/the-role-of-data-analysts-in-modern-business-how-pangaea-x-bridges-the-talent-gap-1lfo)
-- [JWT Authentication and Cookie Management in Web Applications](https://dev.to/abdullahiabdiaziz/jwt-authentication-and-cookie-management-in-web-applications-41e)
-- [Nest-Connect API using NestJs, PassportJs, and Prisma](https://dev.to/saidmou/nest-connect-api-using-nestjs-passportjs-and-prisma-2jml)
+- [why Nestjs is Fav for Backend developers](https://dev.to/tkssharma/why-nestjs-is-fav-for-backend-developers-49gk)
+- [LabEx Trending: Creating Product Information Table and More 🌟](https://dev.to/labex/labex-trending-creating-product-information-table-and-more-59d3)
+- [Automate Docker Build &amp; Push to Azure Container Registry &lpar;ACR&rpar;](https://dev.to/s3cloudhub/automate-docker-build-push-to-azure-container-registry-acr-3ndg)
+- [Building Progressive Web Apps &lpar;PWAs&rpar; with Android: Bridging the Gap](https://dev.to/daviekim13/building-progressive-web-apps-pwas-with-android-bridging-the-gap-2khh)
+- [Highly Recommended Open-Source WAF: SafeLine](https://dev.to/lulu_liu_c90f973e2f954d7f/highly-recommended-open-source-waf-safeline-1cd2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
