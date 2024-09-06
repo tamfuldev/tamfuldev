@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Everything You Need to Know About Postman vs Hoppscotch](https://dev.to/cyanspray/everything-you-need-to-know-about-postman-vs-hoppscotch-38f5)
-- [𝗘𝗻𝗵𝗮𝗻𝗰𝗶𝗻𝗴 𝗔𝗣𝗜 𝗖𝗹𝗮𝗿𝗶𝘁𝘆: 𝗣𝗼𝘀𝘁𝗺𝗮𝗻 𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗕𝗲𝘀𝘁 𝗣𝗿𝗮𝗰𝘁𝗶𝗰𝗲𝘀](https://dev.to/jay_jethava_3bc967a3da87d/-5gfb)
-- [How to implement authorization in a React application](https://dev.to/cerbosdev/how-to-implement-authorization-in-a-react-application-48fb)
-- [Societal Critique: The Struggle of Neurodivergent Employees in Neurotypical Work Environments](https://dev.to/josunlp/societal-critique-the-struggle-of-neurodivergent-employees-in-neurotypical-work-environments-32i0)
-- [Innovative Approaches to Climate Impact Data Collection and Analysis](https://dev.to/ankit_langey_3eb6c9fc0587/innovative-approaches-to-climate-impact-data-collection-and-analysis-5gmn)
+- [Connect Kafka with Golang](https://dev.to/chauhoangminhnguyen/connect-kafka-with-golang-3h4d)
+- [Unlocking the Power of Data Structures and Algorithms &lpar;DSA&rpar; in Laravel](https://dev.to/himanshudevl/unlocking-the-power-of-data-structures-and-algorithms-dsa-in-laravel-kb2)
+- [10 Conditional Rendering Examples in CSS and React.js 🚀&lpar;Part 1&rpar;](https://dev.to/uicraft_by_pratik/10-conditional-rendering-examples-in-css-and-reactjs-part-1-2eij)
+- [Open Source Tools for AWS Cost Optimization: The Ultimate Guide](https://dev.to/harman_diaz/open-source-tools-for-aws-cost-optimization-the-ultimate-guide-17je)
+- [Game Dev Digest — Issue #249 - Game Art, and more](https://dev.to/gamedevdigest/game-dev-digest-issue-249-game-art-and-more-277j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
