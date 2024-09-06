@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Wazuh reglas y alertas para detección de intrusos](https://dev.to/aleets_vaaz/wazuh-reglas-y-alertas-para-deteccion-de-intrusos-d5c)
-- [How to send reports to different recipients based on the date](https://dev.to/sqlman/how-to-send-reports-to-different-recipients-based-on-the-date-31d6)
-- [How I Built Huddle Landing Page with Curved Sections](https://dev.to/be_rajeevkumar/how-i-built-huddle-landing-page-with-curved-sections-1lnh)
-- [Conversor de moedas - Completo](https://dev.to/soaress_3353eb3942895fd2f/conversor-de-moedas-completo-517m)
-- [Difference Between VARCHAR&lpar;&rpar; and NARCHAR&lpar;&rpar;](https://dev.to/vemahend/difference-between-varchar-and-narchar-5949)
+- [Chat With Repos&lpar;PRs&rpar; Using Llama 3.1B](https://dev.to/langtrace/chat-with-reposprs-using-llama-31b-25aj)
+- [Terminal-Integrated Coding Assistant](https://dev.to/oscar_rivera_256169965bd3/terminal-integrated-coding-assistant-28n8)
+- [Environment Variables: a very short intro for JS development](https://dev.to/charlesloder/environment-variables-a-very-short-intro-for-js-development-18j3)
+- [Building a Full-Stack Application with MEAN Stack](https://dev.to/kartikmehta8/building-a-full-stack-application-with-mean-stack-2b5m)
+- [Release Radar · August 2024: Major updates from the open source community](https://dev.to/mishmanners/release-radar-august-2024-major-updates-from-the-open-source-community-54mo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
