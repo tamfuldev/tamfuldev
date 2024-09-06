@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Grid and Flex Layout in CSS](https://dev.to/ashutoshsarangi/grid-layout-and-flex-layout-in-css-4e8e)
-- [REVIEW#1 Do not feed the monkeys](https://dev.to/aniex/review1-do-not-feed-the-monkeys-1oan)
-- [AWS -IAM Policies Overview](https://dev.to/sreeni5018/aws-iam-policies-overview-4i5i)
-- [How I ended up building my own AI Dev Assistant from scratch](https://dev.to/mlamina/how-i-ended-up-building-my-own-ai-dev-assistant-from-scratch-3018)
-- [#59 - Split IP Addresses And Then Group Rows](https://dev.to/judith677/59-split-ip-addresses-and-then-group-rows-11f3)
+- [Daily screenshot management w/ Crontab on MacOS](https://dev.to/siddhantkcode/daily-screenshot-management-w-crontab-on-macos-g4)
+- [REVIEW#3 Helltaker](https://dev.to/aniex/review3-helltaker-34ck)
+- [Understanding and Reducing Toil in the Inner and Outer Loops of Software Development](https://dev.to/payel_bhattacharya_71206f/understanding-and-reducing-toil-in-the-inner-and-outer-loops-of-software-development-2m55)
+- [From idea to launch: Creating a multi-platform SaaS with a small development team](https://dev.to/alexis_clarembeau_8c3c0e2/from-idea-to-launch-creating-a-multi-platform-saas-with-a-small-development-team-33ke)
+- [Inspiration for moving from REST to GraphQL](https://dev.to/dinesh_somaraju/inspiration-for-moving-from-rest-to-graphql-3243)
 <!-- BLOG-POST-LIST:END -->
 
 ---
