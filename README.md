@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build YouTube API Data Fetching Using Rust](https://dev.to/francescoxx/build-youtube-api-data-fetching-using-rust-2713)
-- [hii](https://dev.to/wesley_gianan_65f64c1ee8d/hii-1fd2)
-- [Embracing AI in Content Creation: Making It Sound Human](https://dev.to/erza_kuru/embracing-ai-in-content-creation-making-it-sound-human-4k1c)
-- [6. Adding Paragraphs, Links, and Lists in HTML: A Beginner&#39;s Guide](https://dev.to/areeb_anwar_813df06ee1124/6-adding-paragraphs-links-and-lists-in-html-a-beginners-guide-5607)
-- [Componentização: A Alma do React no Projeto Text Decoder Challenge](https://dev.to/vania_gomes/componentizacao-a-alma-do-react-no-projeto-text-decoder-challenge-1nk6)
+- [Connect Four Project Python](https://dev.to/twiin0/connect-four-project-python-2ckk)
+- [🌐 AWS and Terraform in Action: Build Your First IIS Web Server on EC2](https://dev.to/francotel/aws-and-terraform-in-action-build-your-first-iis-web-server-on-ec2-164o)
+- [A Beginner&#39;s Guide to DevOps: Everything You Need to Know](https://dev.to/iamamash/a-beginners-guide-to-devops-everything-you-need-to-know-fk0)
+- [Embeddings index format for open data access](https://dev.to/neuml/embeddings-index-format-for-open-data-access-39ff)
+- [Laravel installs in Ubuntu step by step.](https://dev.to/musafci/laravel-installs-in-ubuntu-step-by-step-3jom)
 <!-- BLOG-POST-LIST:END -->
 
 ---
