@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Machine-Readable Zone &lpar;MRZ&rpar;: Its Role in ID Verification](https://dev.to/faceplugin/machine-readable-zone-mrz-its-role-in-id-verification-35im)
-- [Dive into the World of Machine Learning: Free Online Courses to Elevate Your Skills 🚀](https://dev.to/getvm/dive-into-the-world-of-machine-learning-free-online-courses-to-elevate-your-skills-581c)
-- [CSS Grid](https://dev.to/miss_code_creaker/css-grid-201c)
-- [Ser humano no mundo da IA, o que realmente nos define?](https://dev.to/biosbug/ser-humano-no-mundo-da-ia-o-que-realmente-nos-define-59c0)
-- [From Zero to Launch: Key Takeaways from Our Remix-Powered Development Journey](https://dev.to/n1tzan/from-zero-to-launch-key-takeaways-from-our-remix-powered-development-journey-3ph7)
+- [Dev vs Prod](https://dev.to/skillcr/dev-vs-prod-378c)
+- [Evaluating A Machine Learning Classification Model](https://dev.to/chris22ozor/evaluating-a-machine-learning-classification-model-4cd8)
+- [Rethinking code reviews with stacked PRs](https://dev.to/aviator_co/rethinking-code-reviews-with-stacked-prs-70f)
+- [How to build a Full-Stack Video Streaming Platform with Node.js, FFmpeg, and Next.js: A Comprehensive Guide 🎥🚀](https://dev.to/robugdada/how-to-build-a-full-stack-video-streaming-platform-with-nodejs-ffmpeg-and-nextjs-a-comprehensive-guide-1a6a)
+- [Set up Go with version management and VS Code extension](https://dev.to/boscodomingo/set-up-go-with-version-management-and-vs-code-extension-n5d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
