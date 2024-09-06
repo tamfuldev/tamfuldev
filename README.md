@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Connect Kafka with Golang](https://dev.to/chauhoangminhnguyen/connect-kafka-with-golang-3h4d)
-- [Unlocking the Power of Data Structures and Algorithms &lpar;DSA&rpar; in Laravel](https://dev.to/himanshudevl/unlocking-the-power-of-data-structures-and-algorithms-dsa-in-laravel-kb2)
-- [10 Conditional Rendering Examples in CSS and React.js 🚀&lpar;Part 1&rpar;](https://dev.to/uicraft_by_pratik/10-conditional-rendering-examples-in-css-and-reactjs-part-1-2eij)
-- [Open Source Tools for AWS Cost Optimization: The Ultimate Guide](https://dev.to/harman_diaz/open-source-tools-for-aws-cost-optimization-the-ultimate-guide-17je)
-- [Game Dev Digest — Issue #249 - Game Art, and more](https://dev.to/gamedevdigest/game-dev-digest-issue-249-game-art-and-more-277j)
+- [Machine-Readable Zone &lpar;MRZ&rpar;: Its Role in ID Verification](https://dev.to/faceplugin/machine-readable-zone-mrz-its-role-in-id-verification-35im)
+- [Dive into the World of Machine Learning: Free Online Courses to Elevate Your Skills 🚀](https://dev.to/getvm/dive-into-the-world-of-machine-learning-free-online-courses-to-elevate-your-skills-581c)
+- [CSS Grid](https://dev.to/miss_code_creaker/css-grid-201c)
+- [Ser humano no mundo da IA, o que realmente nos define?](https://dev.to/biosbug/ser-humano-no-mundo-da-ia-o-que-realmente-nos-define-59c0)
+- [From Zero to Launch: Key Takeaways from Our Remix-Powered Development Journey](https://dev.to/n1tzan/from-zero-to-launch-key-takeaways-from-our-remix-powered-development-journey-3ph7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
