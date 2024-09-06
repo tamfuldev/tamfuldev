@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [HTTP/1 vs HTTP/2 vs HTTP3](https://dev.to/ashutoshsarangi/http1-vs-http2-vs-http3-2ce6)
-- [Something could double the development efficiency of Java programmers](https://dev.to/esproc_spl/something-could-double-the-development-efficiency-of-java-programmers-2b57)
-- [Authentication Types in Microservices](https://dev.to/tkssharma/authentication-types-in-microservices-1401)
-- [Build standalone applications with Nestjs](https://dev.to/tkssharma/build-standalone-applications-with-nestjs-1pep)
-- [Scale Nodejs Nestjs with Prometheus &amp; Grafana Metrics #series #01](https://dev.to/tkssharma/scale-nodejs-nestjs-with-prometheus-grafana-metrics-series-01-77g)
+- [Enjoy Enterprise-Level Security for Free with SafeLine Community Edition](https://dev.to/lulu_liu_c90f973e2f954d7f/enjoy-enterprise-level-security-for-free-with-safeline-community-edition-hmp)
+- [Types of DNS attacks](https://dev.to/kareemzok/types-of-dns-attacks-4aae)
+- [The Role of Data Analysts in Modern Business: How Pangaea X Bridges the Talent Gap](https://dev.to/pangaea_x/the-role-of-data-analysts-in-modern-business-how-pangaea-x-bridges-the-talent-gap-1lfo)
+- [JWT Authentication and Cookie Management in Web Applications](https://dev.to/abdullahiabdiaziz/jwt-authentication-and-cookie-management-in-web-applications-41e)
+- [Nest-Connect API using NestJs, PassportJs, and Prisma](https://dev.to/saidmou/nest-connect-api-using-nestjs-passportjs-and-prisma-2jml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
