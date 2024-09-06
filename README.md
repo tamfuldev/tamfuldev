@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [why Nestjs is Fav for Backend developers](https://dev.to/tkssharma/why-nestjs-is-fav-for-backend-developers-49gk)
-- [LabEx Trending: Creating Product Information Table and More 🌟](https://dev.to/labex/labex-trending-creating-product-information-table-and-more-59d3)
-- [Automate Docker Build &amp; Push to Azure Container Registry &lpar;ACR&rpar;](https://dev.to/s3cloudhub/automate-docker-build-push-to-azure-container-registry-acr-3ndg)
-- [Building Progressive Web Apps &lpar;PWAs&rpar; with Android: Bridging the Gap](https://dev.to/daviekim13/building-progressive-web-apps-pwas-with-android-bridging-the-gap-2khh)
-- [Highly Recommended Open-Source WAF: SafeLine](https://dev.to/lulu_liu_c90f973e2f954d7f/highly-recommended-open-source-waf-safeline-1cd2)
+- [Comprehensive Analysis of Attack Events with SafeLine WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/comprehensive-analysis-of-attack-events-with-safeline-waf-45e3)
+- [Creating Malware in Python](https://dev.to/mohanavamsi0614/creating-malware-in-python-2l5d)
+- [Essential Online Tools for Developers](https://dev.to/foxinfotech/essential-online-tools-for-developers-4egm)
+- [Overcoming Electron-Builder Limitations: A C# and NSIS Hybrid Approach](https://dev.to/abdulghaffar349/overcoming-electron-builder-limitations-a-c-and-nsis-hybrid-approach-1oc8)
+- [Como abstrair a conexão com base de dados em Golang?](https://dev.to/ortizdavid/como-abstrair-a-conexao-com-base-de-dados-em-golang-374c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
