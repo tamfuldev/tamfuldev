@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Connect Four Project Python](https://dev.to/twiin0/connect-four-project-python-2ckk)
-- [🌐 AWS and Terraform in Action: Build Your First IIS Web Server on EC2](https://dev.to/francotel/aws-and-terraform-in-action-build-your-first-iis-web-server-on-ec2-164o)
-- [A Beginner&#39;s Guide to DevOps: Everything You Need to Know](https://dev.to/iamamash/a-beginners-guide-to-devops-everything-you-need-to-know-fk0)
-- [Embeddings index format for open data access](https://dev.to/neuml/embeddings-index-format-for-open-data-access-39ff)
-- [Laravel installs in Ubuntu step by step.](https://dev.to/musafci/laravel-installs-in-ubuntu-step-by-step-3jom)
+- [Minecraft: A Janela para a POO](https://dev.to/punkdasilva/minecraft-a-janela-para-a-poo-21p)
+- [The Best Way To Validate Objects in .NET in 2024](https://dev.to/antonmartyniuk/the-best-way-to-validate-objects-in-net-in-2024-1lpd)
+- [CSS Grid - A Deep Dive](https://dev.to/ridoy_hasan/css-grid-a-deep-dive-55l7)
+- [Fetching Blog Posts in Next.js Using the DEV.to API](https://dev.to/rajeshkumaryadavdotcom/fetching-blog-posts-in-nextjs-using-the-devto-api-4gdk)
+- [If losing the small battles would win you in the long run then why not?](https://dev.to/ibrahimshamma99/if-losing-the-small-battles-would-win-you-in-the-long-run-then-why-not-53d4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
