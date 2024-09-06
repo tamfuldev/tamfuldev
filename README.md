@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Chat With Repos&lpar;PRs&rpar; Using Llama 3.1B](https://dev.to/langtrace/chat-with-reposprs-using-llama-31b-25aj)
-- [Terminal-Integrated Coding Assistant](https://dev.to/oscar_rivera_256169965bd3/terminal-integrated-coding-assistant-28n8)
-- [Environment Variables: a very short intro for JS development](https://dev.to/charlesloder/environment-variables-a-very-short-intro-for-js-development-18j3)
-- [Building a Full-Stack Application with MEAN Stack](https://dev.to/kartikmehta8/building-a-full-stack-application-with-mean-stack-2b5m)
-- [Release Radar · August 2024: Major updates from the open source community](https://dev.to/mishmanners/release-radar-august-2024-major-updates-from-the-open-source-community-54mo)
+- [Dive into the Cutting Edge of Natural Language Processing! 🤖](https://dev.to/getvm/dive-into-the-cutting-edge-of-natural-language-processing-441b)
+- [Mastering Element UI: The &#39;Vanished Into Thin Air&#39; Project](https://dev.to/labex/mastering-element-ui-the-vanished-into-thin-air-project-2bi1)
+- [Le Java Memory Model : Comprendre la concurrence en profondeur](https://dev.to/tmohchelios/le-java-memory-model-comprendre-la-concurrence-en-profondeur-40no)
+- [Advance pattern python webkul interview](https://dev.to/navnit73/advance-pattern-python-webkul-interview-2p3o)
+- [Introduction for OSD600 class](https://dev.to/harshil_patel/introduction-for-osd600-class-cfn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
