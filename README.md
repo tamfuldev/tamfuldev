@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Creating and connecting to a Linux VM using a public key.](https://dev.to/abidemi/creating-and-connecting-to-a-linux-vm-using-a-public-key-49o0)
-- [Diary of a Software Developer #6 - End-of-week wrap-up](https://dev.to/antoniodev/diary-of-a-software-developer-6-end-of-week-wrap-up-25bk)
-- [Understanding Angular&#39;s APP_INITIALIZER with Practical Use-Cases](https://dev.to/ayoub_khial/understanding-angulars-appinitializer-with-practical-use-cases-58gp)
-- [Advanced CSS Grid Techniques](https://dev.to/ridoy_hasan/advanced-css-grid-techniques-24fm)
-- [Getting Started with Asynchronous Programming in Dart](https://dev.to/a_greynoon/getting-started-with-asynchronous-programming-in-dart-425)
+- [Analog Clock](https://dev.to/suyxcode/analog-clock-29i)
+- [4 tips for a 10x productivity using Cursor](https://dev.to/romainsimon/4-tips-for-a-10x-productivity-using-cursor-1n3o)
+- [Understanding Two-Way Data Binding in Vue 3: Creating Child Components, Passing Data to Parents, and Attribute Inheritance](https://dev.to/vimuth7/understanding-two-way-data-binding-in-vue-3-creating-child-components-passing-data-to-parents-and-attribute-inheritance-36e5)
+- [How I deploy Laravel apps in Docker with just two commands](https://dev.to/jdsantos/how-i-deploy-laravel-apps-in-docker-with-just-two-commands-2cjl)
+- [Java &amp; Spring Best Practices | Strategy Pattern](https://dev.to/agitrubard/java-spring-best-practices-strategy-pattern-12pe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
