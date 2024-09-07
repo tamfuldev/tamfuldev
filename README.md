@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Cheat Sheet: Essential Commands for Beginners](https://dev.to/idsulik/kubernetes-cheat-sheet-essential-commands-for-beginners-eg9)
-- [Tailwind CSS: Optimizing for Performance](https://dev.to/tailwine/tailwind-css-optimizing-for-performance-2fdk)
-- [Do code reviews find bugs?](https://dev.to/moozzyk/do-code-reviews-find-bugs-21p4)
-- [Why You Should Never Join the AWS Community Builders Program](https://dev.to/jiripik/why-you-should-never-join-the-aws-community-builders-program-2d9e)
-- [Advanced Data Fetching Techniques in Next.js](https://dev.to/devgauravjatt/advanced-data-fetching-techniques-in-nextjs-5bd4)
+- [DevOps for Beginners: A Complete Roadmap to Get Started](https://dev.to/prodevopsguytech/devops-for-beginners-a-complete-roadmap-to-get-started-2863)
+- [8+ In-house MUI Admin Themes to Ace Your Business](https://dev.to/themewagon/8-in-house-mui-admin-themes-to-ace-your-business-43bb)
+- [Advanced Helm Features](https://dev.to/idsulik/advanced-helm-features-3480)
+- [🌌Galactic Frontend Code Quest-Create!🚀](https://dev.to/itsmemauli/galactic-frontend-code-quest-create-46el)
+- [Using Helm Repositories](https://dev.to/idsulik/using-helm-repositories-b3j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
