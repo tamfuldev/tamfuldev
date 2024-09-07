@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [chapter 1: Introduction to Next.js 13: What’s New? 🚀](https://dev.to/margish288/chapter-1-introduction-to-nextjs-13-whats-new-48o7)
-- [Dungeon Master’s Guide to Project Management](https://dev.to/deant_/dungeon-masters-guide-to-project-management-de4)
-- [Introduction to Smart Contracts: Revolutionizing Trust in the Digital World](https://dev.to/devmasterolaf/introduction-to-smart-contracts-revolutionizing-trust-in-the-digital-world-ahl)
-- [JavaScript](https://dev.to/adarsh_mishra/javascript-292o)
-- [Monkeytype react clone ⌨️](https://dev.to/miguelrodriguezp99/monkeytype-react-clone-3444)
+- [npm vs yarn: Key Differences and In-Depth Comparison](https://dev.to/codeparrot/npm-vs-yarn-key-differences-and-in-depth-comparison-7d6)
+- [The Blueprint of Logic](https://dev.to/this_mkhy/the-blueprint-of-logic-1ob)
+- [AWS service limitations to keep in mind ⚠️](https://dev.to/anurag_vishwakarma/aws-service-limitations-to-keep-in-mind-338b)
+- [Understanding GROUP BY vs. PARTITION BY in SQL](https://dev.to/mdarifulhaque/understanding-group-by-vs-partition-by-in-sql-33np)
+- [Some Common SQL Slow Query Statements and How to Optimize Them...](https://dev.to/mdarifulhaque/common-sql-slow-query-statements-and-how-to-optimize-them-2e62)
 <!-- BLOG-POST-LIST:END -->
 
 ---
