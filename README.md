@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps for Beginners: A Complete Roadmap to Get Started](https://dev.to/prodevopsguytech/devops-for-beginners-a-complete-roadmap-to-get-started-2863)
-- [8+ In-house MUI Admin Themes to Ace Your Business](https://dev.to/themewagon/8-in-house-mui-admin-themes-to-ace-your-business-43bb)
-- [Advanced Helm Features](https://dev.to/idsulik/advanced-helm-features-3480)
-- [🌌Galactic Frontend Code Quest-Create!🚀](https://dev.to/itsmemauli/galactic-frontend-code-quest-create-46el)
-- [Using Helm Repositories](https://dev.to/idsulik/using-helm-repositories-b3j)
+- [Understanding OAuth 2.0: A Comprehensive Guide](https://dev.to/shwetapalande/understanding-oauth-20-a-comprehensive-guide-5h82)
+- [Mocking Network Requests Made Easy: Integrating Jest and MSW](https://dev.to/rolandawoda/mocking-network-requests-made-easy-integrating-jest-and-msw-58ak)
+- [Using Java EpsilonGC to look at memory allocation.](https://dev.to/vishalendu/using-java-episilongc-to-look-at-memory-allocation-50bi)
+- [The Mysterious Voyage to Purple Planet](https://dev.to/jagroop2001/the-mysterious-voyage-to-purple-planet-4743)
+- [API - Creating a Api in NodeJS with Prisma ORM &amp; MongoDB](https://dev.to/raynecoder/api-creating-a-api-in-nodejs-with-prisma-orm-mongodb-1hc5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
