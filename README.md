@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [npm vs yarn: Key Differences and In-Depth Comparison](https://dev.to/codeparrot/npm-vs-yarn-key-differences-and-in-depth-comparison-7d6)
-- [The Blueprint of Logic](https://dev.to/this_mkhy/the-blueprint-of-logic-1ob)
-- [AWS service limitations to keep in mind ⚠️](https://dev.to/anurag_vishwakarma/aws-service-limitations-to-keep-in-mind-338b)
-- [Understanding GROUP BY vs. PARTITION BY in SQL](https://dev.to/mdarifulhaque/understanding-group-by-vs-partition-by-in-sql-33np)
-- [Some Common SQL Slow Query Statements and How to Optimize Them...](https://dev.to/mdarifulhaque/common-sql-slow-query-statements-and-how-to-optimize-them-2e62)
+- [How To Build a Basic Search Engine Like Google](https://dev.to/shubhadip_bhowmik/how-to-build-a-basic-search-engine-like-google-4m79)
+- [Talking to a Gmail POP3 server with Python](https://dev.to/paxfeline/talking-to-a-gmail-pop3-server-with-python-59kf)
+- [A website that anyone can edit!](https://dev.to/mistr_anonym_4e867b2d5e4e/a-website-that-anyone-can-edit-30d5)
+- [Python: Interesting Code Patterns](https://dev.to/ninadmhatre/python-interesting-code-patterns-dh3)
+- [Understanding Bing Search History: A Comprehensive Overview](https://dev.to/araminta_arden_a64394cfbc/understanding-bing-search-history-a-comprehensive-overview-4dh1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
