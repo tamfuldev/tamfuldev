@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Book Tracker Program Demonstration | Rishi Nalem](https://dev.to/rishi_nalem/book-tracker-program-demonstration-rishi-nalem-36n0)
-- [Day 1: Introduction to Algorithmic Complexity](https://dev.to/kartikdevsharma/day-1-introduction-to-algorithmic-complexity-48pc)
-- [🔓 Unlocking the Power of Prompt Engineering with Amazon Bedrock&#39;s Foundation Model 💡](https://dev.to/aws-builders/unlocking-the-power-of-prompt-engineering-with-amazon-bedrocks-foundation-model-5d55)
-- [How SQL Spatial Data Solves Real-World Problems](https://dev.to/nuthankishore/how-sql-spatial-data-solves-real-world-problems-i4j)
-- [In Theory: Self-Correcting Software - Part 2](https://dev.to/ingigauti/in-theory-self-correcting-software-part-2-5gc2)
+- [chapter 1: Introduction to Next.js 13: What’s New? 🚀](https://dev.to/margish288/chapter-1-introduction-to-nextjs-13-whats-new-48o7)
+- [Dungeon Master’s Guide to Project Management](https://dev.to/deant_/dungeon-masters-guide-to-project-management-de4)
+- [Introduction to Smart Contracts: Revolutionizing Trust in the Digital World](https://dev.to/devmasterolaf/introduction-to-smart-contracts-revolutionizing-trust-in-the-digital-world-ahl)
+- [JavaScript](https://dev.to/adarsh_mishra/javascript-292o)
+- [Monkeytype react clone ⌨️](https://dev.to/miguelrodriguezp99/monkeytype-react-clone-3444)
 <!-- BLOG-POST-LIST:END -->
 
 ---
