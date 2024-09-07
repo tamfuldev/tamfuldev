@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Agentic Framework for Enterprise Java Applications](https://dev.to/vishalmysore/agentic-framework-for-enterprise-java-applications-2107)
-- [Supadart Typesafe Supabase Flutter Queries](https://dev.to/mmvergara/supadart-typesafe-supabase-flutter-queries-2aa2)
-- [Back to development after 3 months](https://dev.to/vpalania/back-to-development-after-3-months-3e24)
-- [Ditch the Server, Own Your Words: Building a Decentralized Blog with IPFS](https://dev.to/mibii/ditch-the-server-own-your-words-building-a-decentralized-blog-with-ipfs-1p56)
-- [Mastering Form Handling in React: The Ultimate Guide](https://dev.to/hiba_baeej_4d14f98b4988a3/mastering-form-handling-in-react-the-ultimate-guide-139e)
+- [Open Source Development](https://dev.to/amullagaliev/open-source-development-5309)
+- [Pruebas Unitarias en Laravel con Sanctum](https://dev.to/rzerostern/pruebas-unitarias-en-laravel-con-sanctum-4556)
+- [A Step-by-Step Guide to Internationalizing Flutter App](https://dev.to/curtlycritchlow/a-step-by-step-guide-to-internationalizing-flutter-app-457e)
+- [My first post](https://dev.to/sych_andrii/my-first-post-1n94)
+- [Mastering PR Descriptions: Make Your PRs Stand Out](https://dev.to/pr-pilot/mastering-pr-descriptions-make-your-prs-stand-out-efe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
