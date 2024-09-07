@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Analog Clock](https://dev.to/suyxcode/analog-clock-29i)
-- [4 tips for a 10x productivity using Cursor](https://dev.to/romainsimon/4-tips-for-a-10x-productivity-using-cursor-1n3o)
-- [Understanding Two-Way Data Binding in Vue 3: Creating Child Components, Passing Data to Parents, and Attribute Inheritance](https://dev.to/vimuth7/understanding-two-way-data-binding-in-vue-3-creating-child-components-passing-data-to-parents-and-attribute-inheritance-36e5)
-- [How I deploy Laravel apps in Docker with just two commands](https://dev.to/jdsantos/how-i-deploy-laravel-apps-in-docker-with-just-two-commands-2cjl)
-- [Java &amp; Spring Best Practices | Strategy Pattern](https://dev.to/agitrubard/java-spring-best-practices-strategy-pattern-12pe)
+- [Is it too late to become a web developer in X year? 🤔](https://dev.to/grech_ca/is-it-too-late-to-become-a-web-developer-in-x-year-5bp6)
+- [Client Side Rendering &lpar;CSR&rpar; vs Server Side Rendering &lpar;SSR&rpar;: Simplified Story](https://dev.to/kashifnehal/client-side-rendering-csr-vs-server-side-rendering-ssr-simplified-1bik)
+- [How to reuse queries in Angular Query](https://dev.to/umarhai/how-to-reuse-queries-in-angular-query-1a4i)
+- [Common Problems during the training of Neural Networks](https://dev.to/ragoli86/common-problems-during-the-training-of-neural-networks-561)
+- [JavaScript: How it is done behind the scenes](https://dev.to/reanza_gara_1efe6975708bd/javascript-how-it-is-done-behind-the-scenes-2d03)
 <!-- BLOG-POST-LIST:END -->
 
 ---
