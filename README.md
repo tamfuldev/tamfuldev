@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How To Build a Basic Search Engine Like Google](https://dev.to/shubhadip_bhowmik/how-to-build-a-basic-search-engine-like-google-4m79)
-- [Talking to a Gmail POP3 server with Python](https://dev.to/paxfeline/talking-to-a-gmail-pop3-server-with-python-59kf)
-- [A website that anyone can edit!](https://dev.to/mistr_anonym_4e867b2d5e4e/a-website-that-anyone-can-edit-30d5)
-- [Python: Interesting Code Patterns](https://dev.to/ninadmhatre/python-interesting-code-patterns-dh3)
-- [Understanding Bing Search History: A Comprehensive Overview](https://dev.to/araminta_arden_a64394cfbc/understanding-bing-search-history-a-comprehensive-overview-4dh1)
+- [Como começar um produto do zero](https://dev.to/kleysongomes/como-comecar-um-produto-do-zero-239g)
+- [Online Machine Learning](https://dev.to/damikaanupama/online-machine-learning-5g6p)
+- [How to delete a git branch &lpar;local and remote&rpar;](https://dev.to/sharmaprash/how-to-delete-a-git-branch-local-and-remote-5ae4)
+- [Git Gud: Survive your 1st Month of Using Git 🚀](https://dev.to/middleware/git-gud-survive-your-1st-month-of-using-git-1j2m)
+- [How to install all the tools you need and want in Kali Linux with one command &lpar;From top 10 to default to everything&rpar;](https://dev.to/hax/how-to-install-all-the-tools-you-need-and-want-in-kali-linux-with-one-command-from-top-10-to-default-to-everything-5221)
 <!-- BLOG-POST-LIST:END -->
 
 ---
