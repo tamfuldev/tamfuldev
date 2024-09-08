@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Segregation SSH Traffic](https://dev.to/sebos/segregation-ssh-traffic-1814)
-- [Css responsive screen sizes](https://dev.to/melchizedek404/css-responsive-screen-sizes-3e65)
-- [Creating a Tailwind CSS Fade Plugin: My Journey](https://dev.to/eioluseyi/creating-a-tailwind-css-fade-plugin-my-journey-20ij)
-- [Validating Forms with JavaScript: Lessons from The Odin Project.](https://dev.to/gregharis/validating-forms-with-javascript-lessons-from-the-odin-project-49gp)
-- [RocksDB, Key-Value Storage, and Packed Rows: the backbone of YugabyteDB&#39;s distributed tablets flexibility](https://dev.to/yugabyte/rocksdb-key-value-storage-and-packed-rows-the-backbone-of-yugabytedbs-distributed-tablets-501j)
+- [Coolify: Your All-in-One Open-Source PaaS Solution](https://dev.to/kulahad/coolify-your-all-in-one-open-source-paas-solution-1o05)
+- [Learning Vue Part 3: Building a pomodoro timer](https://dev.to/willowjr/learning-vue-part-3-building-a-pomodoro-timer-4c1h)
+- [Protecting your Fintech App Customers further with Panic Password](https://dev.to/niyiojeyinka/protecting-your-fintech-app-customers-further-with-panic-password-5e1a)
+- [Web Developers, AI, and Development Fundamentals](https://dev.to/alvaromontoro/web-developers-ai-and-development-fundamentals-512n)
+- [Tools That We Use At Our $100k/mo Startup](https://dev.to/gabrielpineda/tools-that-our-100kmo-startup-happily-pay-for-3gjp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
