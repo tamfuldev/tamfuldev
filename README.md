@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Full Training Tutorial and Guide and Research For a FLUX Style](https://dev.to/furkangozukara/full-training-tutorial-and-guide-and-research-for-a-flux-style-57fb)
-- [My notes on Android optimization. Part 2. Quick example of benchmarking Kotin regular expressions](https://dev.to/theplebdev/my-notes-on-android-optimization-part-2-quick-example-of-benchmarking-kotin-regular-expressions-54c0)
-- [The Top 5 Mistakes That Can Derail Your Development Projects](https://dev.to/dishitdevasia/the-top-5-mistakes-that-can-derail-your-development-projects-29lp)
-- [My notes on Android optimization. Part 2. Quick example of benchmarking Kotin regular expressions](https://dev.to/theplebdev/my-notes-on-android-optimization-part-2-quick-example-of-benchmarking-kotin-regular-expressions-3fh8)
-- [Optimizing GenAI &amp; AI Deployment: Harnessing Microsoft AI Services for Efficient and Scalable Solutions](https://dev.to/sreeni5018/optimizing-genai-ai-deployment-harnessing-microsoft-ai-services-for-efficient-and-scalable-solutions-5ab1)
+- [JavaScript Notebook First Edition（Node.js）](https://dev.to/baotlake/javascript-notebook-first-editionnodejs-4ng0)
+- [Why Implement the Repository Pattern in Laravel?](https://dev.to/mdarifulhaque/why-implement-the-repository-pattern-in-laravel-47f0)
+- [Budget handling using npm package saksh-wallet](https://dev.to/susheel_kumar/budget-handling-using-npm-package-saksh-wallet-198f)
+- [Day 68 / 100 Days of Code: Harnessing JavaScript’s Iterative Power](https://dev.to/jacobsternx/day-68-100-days-of-code-harnessing-javascripts-iterative-power-1ff8)
+- [Creating Custom Aliases with Parameters in Bash: Simplify Your Workflow](https://dev.to/paulocappa/creating-custom-aliases-with-parameters-in-bash-simplify-your-workflow-21p8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
