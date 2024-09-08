@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Parchment Style - FAV0 Weekly #014](https://dev.to/justin3go/parchment-style-fav0-weekly-014-39em)
-- [Building a Password Validator with React](https://dev.to/abhishekgurjar/building-a-password-validator-with-react-jhj)
-- [羊皮卷风格 - FAV周刊#014](https://dev.to/justin3go/yang-pi-juan-feng-ge-favzhou-kan-014-1kna)
-- [Sunrise in Space &lpar;Quiet&rpar;](https://dev.to/alvaromontoro/sunrise-in-space-quiet-3nj)
-- [Day 27: Optimizing AWS Architecture and Monitoring](https://dev.to/singh_in_cloud/day-27-optimizing-aws-architecture-and-monitoring-545i)
+- [how to connect the PostgreSQL database with Django](https://dev.to/devlopersabbir/how-to-connect-the-postgresql-database-with-django-28km)
+- [30 Day C# Challenge](https://dev.to/foziljonov7/30-day-c-challenge-ohg)
+- [Turbocharge Your Go App: Mastering Blazing-Fast Static File Serving Over TCP](https://dev.to/aymanepraxe/turbocharge-your-go-app-mastering-blazing-fast-static-file-serving-over-tcp-1em0)
+- [Newbie here](https://dev.to/innocentia_azal/newbie-here-34ei)
+- [Introduction Blog](https://dev.to/ajogseneca/introduction-blog-4jk1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
