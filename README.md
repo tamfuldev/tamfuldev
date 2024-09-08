@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding decorators in Python](https://dev.to/21alul21/understanding-decorators-in-python-2fol)
-- [Sepet yönetimi](https://dev.to/mustafacam/sepet-yonetimi-4o4)
-- [Implementing Single Sign-On &lpar;SSO&rpar; in Your Microsoft Teams Bot App [Part II]](https://dev.to/afrazkhan/implementing-single-sign-on-sso-in-your-microsoft-teams-bot-app-part-2-3k7d)
-- [Unlocking the Future of Crypto Wallets: The Power of Starknet Wallets](https://dev.to/ternder/unlocking-the-future-of-crypto-wallets-the-power-of-starknet-wallets-h7p)
-- [Introducing Inspira UI: A Fresh, Open-Source UI Library for Vue! 🚀](https://dev.to/rahul_vashishtha/introducing-inspira-ui-a-fresh-open-source-ui-library-for-vue-12k)
+- [Segregation SSH Traffic](https://dev.to/sebos/segregation-ssh-traffic-1814)
+- [Css responsive screen sizes](https://dev.to/melchizedek404/css-responsive-screen-sizes-3e65)
+- [Creating a Tailwind CSS Fade Plugin: My Journey](https://dev.to/eioluseyi/creating-a-tailwind-css-fade-plugin-my-journey-20ij)
+- [Validating Forms with JavaScript: Lessons from The Odin Project.](https://dev.to/gregharis/validating-forms-with-javascript-lessons-from-the-odin-project-49gp)
+- [RocksDB, Key-Value Storage, and Packed Rows: the backbone of YugabyteDB&#39;s distributed tablets flexibility](https://dev.to/yugabyte/rocksdb-key-value-storage-and-packed-rows-the-backbone-of-yugabytedbs-distributed-tablets-501j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
