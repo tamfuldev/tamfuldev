@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Centralize API calls in Web Application - A must-have guide](https://dev.to/creowistech/centralize-api-calls-in-web-application-a-must-have-guide-3ppj)
-- [Transforming Email API Chaos into Order](https://dev.to/sanket00123/transforming-email-api-chaos-into-order-25b)
-- [Docker WorkFlow 2024](https://dev.to/mrcaption49/docker-workflow-2024-4fpf)
-- [Meme Monday](https://dev.to/ben/meme-monday-4pki)
-- [&quot;How Confusing Can Version Control Be?&quot;](https://dev.to/angel_afube/how-confusing-can-version-control-be-1424)
+- [Deploy NodeJS Typescript to Google App Engine](https://dev.to/chauhoangminhnguyen/deploy-nodejs-typescript-to-google-app-engine-1jka)
+- [UseState and UseEffect Hook in React](https://dev.to/mrcaption49/usestate-and-useeffect-hook-in-react-40hn)
+- [Understanding MySQL CPU Usage: Tools and Techniques](https://dev.to/drupaladmin/understanding-mysql-cpu-usage-tools-and-techniques-4b2a)
+- [Two Years Later: Not Another Portfolio Refresh](https://dev.to/johnrock/two-years-later-not-another-portfolio-refresh-4ncj)
+- [Two Cases in Learning](https://dev.to/mvcwebapiii/why-you-should-care-less-about-the-syntax-dont-be-a-code-monkey-19l8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
