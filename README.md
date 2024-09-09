@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Rocket Emoji](https://dev.to/david001/rocket-emoji-1pbb)
-- [How to make Multi-tenant applications with NestJS and Prisma 🚀.](https://dev.to/murilogervasio/how-to-make-multi-tenant-applications-with-nestjs-and-a-prisma-proxy-to-automatically-filter-tenant-queries--4kl2)
-- [Resilience Strategies for Microservices](https://dev.to/v1eira/resilience-strategies-for-microservices-14l1)
-- [Are Microservices the Right Choice for You?](https://dev.to/v1eira/are-microservices-the-right-choice-for-you-3l6j)
-- [Are Microservices the Right Choice for You?](https://dev.to/v1eira/are-microservices-the-right-choice-for-you-5956)
+- [How to Use the `ImmutableArray&lt;T&gt;.Builder` Extension Method `ToFrozenDictionary` to Create Efficient Immutable Dictionaries](https://dev.to/rockfire/how-to-use-the-immutablearraybuilder-extension-method-tofrozendictionary-to-create-efficient-immutable-dictionaries-4b5a)
+- [Techniques for Optimizing Performance in React Applications](https://dev.to/manjushsh/techniques-for-optimizing-performance-in-react-applications-406o)
+- [Inline Functions in C and C++](https://dev.to/pauljlucas/inline-functions-in-c-and-c-2040)
+- [Sistemas Numéricos para Computeiros 🔢](https://dev.to/punkdasilva/sistemas-numericos-para-computeiros-3k9o)
+- [Roadmap of Docker and Kubernetes 2024](https://dev.to/mrcaption49/roadmap-of-docker-and-kubernetes-2024-3o2m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
