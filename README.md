@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use the `ImmutableArray&lt;T&gt;.Builder` Extension Method `ToFrozenDictionary` to Create Efficient Immutable Dictionaries](https://dev.to/rockfire/how-to-use-the-immutablearraybuilder-extension-method-tofrozendictionary-to-create-efficient-immutable-dictionaries-4b5a)
-- [Techniques for Optimizing Performance in React Applications](https://dev.to/manjushsh/techniques-for-optimizing-performance-in-react-applications-406o)
-- [Inline Functions in C and C++](https://dev.to/pauljlucas/inline-functions-in-c-and-c-2040)
-- [Sistemas Numéricos para Computeiros 🔢](https://dev.to/punkdasilva/sistemas-numericos-para-computeiros-3k9o)
-- [Roadmap of Docker and Kubernetes 2024](https://dev.to/mrcaption49/roadmap-of-docker-and-kubernetes-2024-3o2m)
+- [Docker commands](https://dev.to/mrcaption49/docker-commands-3gbo)
+- [A Captivating Project: Responsive Flexible Card Layout](https://dev.to/labex/a-captivating-project-responsive-flexible-card-layout-545m)
+- [Blog 1 - Assignment 1](https://dev.to/paperdrago/blog-1-assignment-1-c2m)
+- [Unlocking the Power of Multimodal Data Analysis with LLMs and Python](https://dev.to/hemanshu_vadodariyahemu/unlocking-the-power-of-multimodal-data-analysis-with-llms-and-python-43hp)
+- [Building a custom dropdown in Flutter](https://dev.to/josuestuff/building-a-custom-dropdown-in-flutter-55h9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
