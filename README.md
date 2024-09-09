@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Tailwind CSS vs. Vanilla CSS: When to Use Each for Your Web Development Projects](https://dev.to/iamgoncaloalves/tailwind-css-vs-vanilla-css-when-to-use-each-for-your-web-development-projects-425c)
-- [Day 70 / 100 Days of Code: Flow Control Redux](https://dev.to/jacobsternx/day-70-100-days-of-code-flow-control-redux-59ai)
-- [Mastering Kubernetes Node Management with kubectl](https://dev.to/labex/mastering-kubernetes-node-management-with-kubectl-437o)
-- [Locked in: the inextricable dependency on VMWare](https://dev.to/lvincens/locked-in-the-inextricable-dependency-on-vmware-dib)
-- [How Crash Courses Can Hold You Back](https://dev.to/grech_ca/how-crash-courses-can-hold-you-back-4h32)
+- [12 HTML Tricks You Probably Don&#39;t Know About](https://dev.to/turingsoracle/12-html-tricks-you-probably-dont-know-about-584i)
+- [12 Trucos de HTML que probablemente no conocías](https://dev.to/macaoblog/12-trucos-de-html-que-probablemente-no-conocias-2lfl)
+- [Stuck between Blockchain, DevOps and call center..](https://dev.to/t9fiction/stuck-between-blockchain-devops-and-call-center-1i3i)
+- [I Need some help in this subject](https://dev.to/luis_martinez_a83dad063fb/i-need-some-help-in-this-subject-9ak)
+- [About the gosec G115 drama, or how I faced back integer conversion overflow in Go](https://dev.to/ccoveille/about-the-gosec-g115-drama-or-how-i-faced-back-integer-conversion-overflow-in-go-1302)
 <!-- BLOG-POST-LIST:END -->
 
 ---
