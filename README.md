@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Your First Open-Source Project](https://dev.to/tajammal_mabool/how-to-build-your-first-open-source-project-5457)
-- [How to Become a Full-Stack Developer Using Just Your Mobile Phone](https://dev.to/michaelobot1/how-to-become-a-full-stack-developer-using-just-your-mobile-phone-2bkd)
-- [How we Built 300μs Typo Correction for 1.3M Words in Rust](https://dev.to/skeptrune/how-we-built-300ms-typo-correction-for-13m-words-in-rust-33l9)
-- [MongoDB Sharding](https://dev.to/oigorrudel/mongodb-sharding-1n22)
-- [How to Master the MERN Stack: A Guide for Full-Stack Developers](https://dev.to/ravi-coding/how-to-master-the-mern-stack-a-guide-for-full-stack-developers-3o7b)
+- [Dive into the Fascinating World of Machine Learning with UC Berkeley&#39;s CS189 Course 🤖](https://dev.to/getvm/dive-into-the-fascinating-world-of-machine-learning-with-uc-berkeleys-cs189-course-1coe)
+- [Spring Boot WebSockets: Socket.io + Authentication + Postman](https://dev.to/ratnesh_2003/spring-boot-websockets-socketio-authentication-postman-32j3)
+- [Pythonic Code: Writing Clean and Efficient Python](https://dev.to/ekvll/pythonic-code-writing-clean-and-efficient-python-32h8)
+- [📈 Ideation automation : boost creativity w/ LangChain&#39;s SmartLLMChain faster, better, cheaper with AI](https://dev.to/adriens/ideation-automation-boost-creativity-w-langchains-smartllmchain-faster-better-cheaper-with-ai-314l)
+- [Abstract Factory Pattern in C#: Streamlining Salary Processing in HR](https://dev.to/dazevedo/abstract-factory-pattern-in-c-streamlining-salary-processing-in-hr-1din)
 <!-- BLOG-POST-LIST:END -->
 
 ---
