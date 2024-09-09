@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SafeLine: The Open-Source WAF with Powerful Security and Easy Deployment](https://dev.to/lulu_liu_c90f973e2f954d7f/safeline-the-open-source-waf-with-powerful-security-and-easy-deployment-3in3)
-- [Git Gud: Learning Git to survive your first month 🚀](https://dev.to/jayantbh/git-gud-learning-git-to-survive-your-first-month-jbl)
-- [The Must-Have Free WAF for Web Application Security: SafeLine](https://dev.to/lulu_liu_c90f973e2f954d7f/the-must-have-free-waf-for-web-application-security-safeline-5bi3)
-- [Top Features to Look for in Enterprise Incident Management Software](https://dev.to/squadcast/top-features-to-look-for-in-enterprise-incident-management-software-2pj3)
-- [📝 30 Essential Javascript Interview Questions, with Detailed Answers From Easy to Hard](https://dev.to/syakirurahman/30-essential-javascript-interview-questions-with-detailed-answers-from-easy-to-hard-1p4)
+- [Secure Coding Principles](https://dev.to/owasp/secure-coding-principles-4dg8)
+- [Debugging Distributed Systems](https://dev.to/orkes/debugging-distributed-systems-52ln)
+- [cs50x week 2 learnings :-&rpar;](https://dev.to/kartikjhaba/cs50x-week-2-learnings--14g3)
+- [WebAssembly: The Future of Web Performance?](https://dev.to/parth13/webassembly-the-future-of-web-performance-3igm)
+- [Gobuster](https://dev.to/mohanavamsi0614/gobuster-2p7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
