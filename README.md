@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Docker commands](https://dev.to/mrcaption49/docker-commands-3gbo)
-- [A Captivating Project: Responsive Flexible Card Layout](https://dev.to/labex/a-captivating-project-responsive-flexible-card-layout-545m)
-- [Blog 1 - Assignment 1](https://dev.to/paperdrago/blog-1-assignment-1-c2m)
-- [Unlocking the Power of Multimodal Data Analysis with LLMs and Python](https://dev.to/hemanshu_vadodariyahemu/unlocking-the-power-of-multimodal-data-analysis-with-llms-and-python-43hp)
-- [Building a custom dropdown in Flutter](https://dev.to/josuestuff/building-a-custom-dropdown-in-flutter-55h9)
+- [Top 10 Face Recognition Software – The Expert Choice](https://dev.to/faceplugin/top-10-face-recognition-software-the-expert-choice-eid)
+- [Dive Into the World of Payments - Join Payment Meetup Group’s First Session!](https://dev.to/gorakh13/dive-into-the-world-of-payments-join-payment-meetup-groups-first-session-41ja)
+- [Introducing KubeDash: Your Kubernetes Cluster Management Dashboard!](https://dev.to/himanshu20/introducing-kubedash-your-kubernetes-cluster-management-dashboard-31mo)
+- [cypress 对于获取文本异步promise](https://dev.to/dennischeung/cypress-dui-yu-huo-qu-wen-ben-yi-bu-promise-4609)
+- [Recomendaciones si vas a trabajar con BigQuery](https://dev.to/ronnymedina/recomendaciones-si-vas-a-trabajar-con-bigquery-2dfd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
