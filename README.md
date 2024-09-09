@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Face Recognition Software – The Expert Choice](https://dev.to/faceplugin/top-10-face-recognition-software-the-expert-choice-eid)
-- [Dive Into the World of Payments - Join Payment Meetup Group’s First Session!](https://dev.to/gorakh13/dive-into-the-world-of-payments-join-payment-meetup-groups-first-session-41ja)
-- [Introducing KubeDash: Your Kubernetes Cluster Management Dashboard!](https://dev.to/himanshu20/introducing-kubedash-your-kubernetes-cluster-management-dashboard-31mo)
-- [cypress 对于获取文本异步promise](https://dev.to/dennischeung/cypress-dui-yu-huo-qu-wen-ben-yi-bu-promise-4609)
-- [Recomendaciones si vas a trabajar con BigQuery](https://dev.to/ronnymedina/recomendaciones-si-vas-a-trabajar-con-bigquery-2dfd)
+- [Why Use Codeium over GitHub Copilot](https://dev.to/thekarlesi/why-use-codeium-over-github-copilot-491e)
+- [Guide To Automated Software Testing](https://dev.to/misterankit/guide-to-automated-software-testing-2ljb)
+- [WhatsApp Automation No Code Low Code Step-By-Step Guide - WAHA + n8n](https://dev.to/waha/whatsapp-automation-no-code-low-code-step-by-step-guide-waha-n8n-24h1)
+- [Building a Goal-Tracking System in a Productivity App with React and TypeScript](https://dev.to/radzion/building-a-goal-tracking-system-in-a-productivity-app-with-react-and-typescript-16o5)
+- [tvs](https://dev.to/__040711563a17902392e7/tvs-303b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
