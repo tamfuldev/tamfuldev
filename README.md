@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Use Codeium over GitHub Copilot](https://dev.to/thekarlesi/why-use-codeium-over-github-copilot-491e)
-- [Guide To Automated Software Testing](https://dev.to/misterankit/guide-to-automated-software-testing-2ljb)
-- [WhatsApp Automation No Code Low Code Step-By-Step Guide - WAHA + n8n](https://dev.to/waha/whatsapp-automation-no-code-low-code-step-by-step-guide-waha-n8n-24h1)
-- [Building a Goal-Tracking System in a Productivity App with React and TypeScript](https://dev.to/radzion/building-a-goal-tracking-system-in-a-productivity-app-with-react-and-typescript-16o5)
-- [tvs](https://dev.to/__040711563a17902392e7/tvs-303b)
+- [7 Open Source Projects You Should Know - C Edition ✔️](https://dev.to/this-is-learning/7-open-source-projects-you-should-know-c-edition-107k)
+- [[DAY 108-112] I built my first full-stack app with CRUD and auth logins](https://dev.to/thomascansino/day-108-112-i-built-my-first-full-stack-app-with-crud-and-auth-logins-2n5o)
+- [Building a Simple Blog App Using FastAPI, HTML, CSS, and JSON](https://dev.to/jagroop2001/building-a-simple-blog-app-using-fastapi-html-css-and-json-1dc)
+- [Advanced LangChain: Memory, Tools, Agents](https://dev.to/admantium/advanced-langchain-memory-tools-agents-4gki)
+- [Understanding Clean Code: Classes ⚡️](https://dev.to/alisamir/understanding-clean-code-classes-3f8o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
