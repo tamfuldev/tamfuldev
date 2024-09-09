@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Coolify: Your All-in-One Open-Source PaaS Solution](https://dev.to/kulahad/coolify-your-all-in-one-open-source-paas-solution-1o05)
-- [Learning Vue Part 3: Building a pomodoro timer](https://dev.to/willowjr/learning-vue-part-3-building-a-pomodoro-timer-4c1h)
-- [Protecting your Fintech App Customers further with Panic Password](https://dev.to/niyiojeyinka/protecting-your-fintech-app-customers-further-with-panic-password-5e1a)
-- [Web Developers, AI, and Development Fundamentals](https://dev.to/alvaromontoro/web-developers-ai-and-development-fundamentals-512n)
-- [Tools That We Use At Our $100k/mo Startup](https://dev.to/gabrielpineda/tools-that-our-100kmo-startup-happily-pay-for-3gjp)
+- [Rocket Emoji](https://dev.to/david001/rocket-emoji-1pbb)
+- [How to make Multi-tenant applications with NestJS and Prisma 🚀.](https://dev.to/murilogervasio/how-to-make-multi-tenant-applications-with-nestjs-and-a-prisma-proxy-to-automatically-filter-tenant-queries--4kl2)
+- [Resilience Strategies for Microservices](https://dev.to/v1eira/resilience-strategies-for-microservices-14l1)
+- [Are Microservices the Right Choice for You?](https://dev.to/v1eira/are-microservices-the-right-choice-for-you-3l6j)
+- [Are Microservices the Right Choice for You?](https://dev.to/v1eira/are-microservices-the-right-choice-for-you-5956)
 <!-- BLOG-POST-LIST:END -->
 
 ---
