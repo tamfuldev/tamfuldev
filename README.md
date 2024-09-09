@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dive into the Fascinating World of Machine Learning with UC Berkeley&#39;s CS189 Course 🤖](https://dev.to/getvm/dive-into-the-fascinating-world-of-machine-learning-with-uc-berkeleys-cs189-course-1coe)
-- [Spring Boot WebSockets: Socket.io + Authentication + Postman](https://dev.to/ratnesh_2003/spring-boot-websockets-socketio-authentication-postman-32j3)
-- [Pythonic Code: Writing Clean and Efficient Python](https://dev.to/ekvll/pythonic-code-writing-clean-and-efficient-python-32h8)
-- [📈 Ideation automation : boost creativity w/ LangChain&#39;s SmartLLMChain faster, better, cheaper with AI](https://dev.to/adriens/ideation-automation-boost-creativity-w-langchains-smartllmchain-faster-better-cheaper-with-ai-314l)
-- [Abstract Factory Pattern in C#: Streamlining Salary Processing in HR](https://dev.to/dazevedo/abstract-factory-pattern-in-c-streamlining-salary-processing-in-hr-1din)
+- [Tailwind CSS vs. Vanilla CSS: When to Use Each for Your Web Development Projects](https://dev.to/iamgoncaloalves/tailwind-css-vs-vanilla-css-when-to-use-each-for-your-web-development-projects-425c)
+- [Day 70 / 100 Days of Code: Flow Control Redux](https://dev.to/jacobsternx/day-70-100-days-of-code-flow-control-redux-59ai)
+- [Mastering Kubernetes Node Management with kubectl](https://dev.to/labex/mastering-kubernetes-node-management-with-kubectl-437o)
+- [Locked in: the inextricable dependency on VMWare](https://dev.to/lvincens/locked-in-the-inextricable-dependency-on-vmware-dib)
+- [How Crash Courses Can Hold You Back](https://dev.to/grech_ca/how-crash-courses-can-hold-you-back-4h32)
 <!-- BLOG-POST-LIST:END -->
 
 ---
