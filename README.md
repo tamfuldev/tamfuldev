@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Dangers of Weak Wi-Fi Passwords: Unveiling Vulnerabilities with Parrot OS and Airgeddon](https://dev.to/jqcvsc/the-hidden-dangers-of-weak-wi-fi-passwords-unveiling-vulnerabilities-with-parrot-os-and-airgeddon-3o1)
-- [Create Your Own Visual Vibe: Build Your VS Code Experience with dharam-gfx! 🎨](https://dev.to/dharamgfx/elevate-your-coding-with-dharam-gfx-theme-a-colorful-coding-experience-16a7)
-- [Los Mejores Sitios para Desplegar Tu Aplicación Web en 2024](https://dev.to/bhyxen/los-mejores-sitios-para-desplegar-tu-aplicacion-web-en-2024-1hfh)
-- [Harnessing the Power of AWS: Why You Need a Consultant Partner](https://dev.to/susheel_kumar/harnessing-the-power-of-aws-why-you-need-a-consultant-partner-38jd)
-- [Best Tailwind CSS Template Builders](https://dev.to/rarestoma/best-tailwind-css-template-builders-2hkj)
+- [Compare large csv files #eg38](https://dev.to/esproc_spl/compare-large-csv-files-eg38-29m8)
+- [Saksh Recommendation Engine](https://dev.to/susheel_kumar/saksh-recommendation-engine-14cl)
+- [Angular Addicts #29: Angular 18.2, implicit libraries, the future is standalone &amp; more](https://dev.to/this-is-angular/angular-addicts-29-angular-182-implicit-libraries-the-future-is-standalone-more-1g36)
+- [The Dawn of Syntax: A Tale of “Hello, World!”](https://dev.to/kavya-sahai-god/the-dawn-of-syntax-a-tale-of-hello-world-636)
+- [Deploying the Free WAF SafeLine on Kubernetes](https://dev.to/lulu_liu_c90f973e2f954d7f/deploying-the-free-waf-safeline-community-edition-on-kubernetes-53f9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
