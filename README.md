@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [12 HTML Tricks You Probably Don&#39;t Know About](https://dev.to/turingsoracle/12-html-tricks-you-probably-dont-know-about-584i)
-- [12 Trucos de HTML que probablemente no conocías](https://dev.to/macaoblog/12-trucos-de-html-que-probablemente-no-conocias-2lfl)
-- [Stuck between Blockchain, DevOps and call center..](https://dev.to/t9fiction/stuck-between-blockchain-devops-and-call-center-1i3i)
-- [I Need some help in this subject](https://dev.to/luis_martinez_a83dad063fb/i-need-some-help-in-this-subject-9ak)
-- [About the gosec G115 drama, or how I faced back integer conversion overflow in Go](https://dev.to/ccoveille/about-the-gosec-g115-drama-or-how-i-faced-back-integer-conversion-overflow-in-go-1302)
+- [How to reach a wide audience on social media](https://dev.to/andrecasal/how-to-reach-a-wide-audience-on-social-media-3p43)
+- [Ultimate FLUX LoRA Training Tutorial: Windows and Cloud Deployment](https://dev.to/furkangozukara/ultimate-flux-lora-training-tutorial-windows-and-cloud-deployment-1a20)
+- [Mastering Algorithms: Unlock the Power of Data Structures and Problem-Solving](https://dev.to/getvm/mastering-algorithms-unlock-the-power-of-data-structures-and-problem-solving-5eaf)
+- [DBのレコード更新をトリガーにLambdaを実行する（パート１）](https://dev.to/aws-builders/dbnorekodogeng-xin-wotoriganilambdawoshi-xing-surupato1-30g7)
+- [Building an AI-Powered, Paved Road Platform with Cloud-Native Open source technologies](https://dev.to/intuitdev/building-an-ai-powered-paved-road-platform-with-cloud-native-open-source-technologies-4b2f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
