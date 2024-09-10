@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Five Opportunities and Challenges for Retail Healthcare in 2024](https://dev.to/sejaljansari/five-opportunities-and-challenges-for-retail-healthcare-in-2024-2447)
-- [Let&#39;s Read - Eloquent Ruby - Ch 12](https://dev.to/baweaver/lets-read-eloquent-ruby-ch-12-4gja)
-- [Can Postgres replace Redis as a cache?](https://dev.to/raphaeldelio/can-postgres-replace-redis-as-a-cache-2ne1)
-- [How to Effortlessly Integrate JFrog Artifactory with Packer for Seamless Docker Image Management](https://dev.to/s3cloudhub/how-to-effortlessly-integrate-jfrog-artifactory-with-packer-for-seamless-docker-image-management-d67)
-- [💎 of solid-primitives, part 3: set, map, trigger](https://dev.to/lexlohr/of-solid-primitives-part-3-set-map-trigger-ab9)
+- [How to Use Color Picker in Windows 11 using PowerToys?](https://dev.to/winsides/how-to-use-color-picker-in-windows-11-using-powertoys-ikn)
+- [Using Cursor + Claude to Make Full-Stack SaaS Apps](https://dev.to/wasp/using-cursor-claude-to-make-full-stack-saas-apps-2aj3)
+- [Malware](https://dev.to/mohanavamsi0614/malware-5e1p)
+- [The best pub/sub services: 5 pub/sub solutions compared](https://dev.to/ably/the-best-pubsub-services-5-pubsub-solutions-compared-j1d)
+- [JDK, JVM, and JRE: The Three Musketeers of Java Development 🏇](https://dev.to/akshay_gengaje/jdk-jvm-and-jre-the-three-musketeers-of-java-development-1p54)
 <!-- BLOG-POST-LIST:END -->
 
 ---
