@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Express.js: Build Your First Web Server in Minutes!](https://dev.to/arkadiptakundu/getting-started-with-expressjs-build-your-first-web-server-in-minutes-1k2f)
-- [Building a SaaS for Pilates Studios with $9K Budget: Public Build if you&#39;d be interested!](https://dev.to/oba2311/building-a-saas-for-pilates-studios-with-9k-budget-public-build-if-youd-be-interested-20dm)
-- [Dealing with .DS_Store Files on macOS: Keeping Your Git Development Clean](https://dev.to/benono/dealing-with-dsstore-files-on-macos-keeping-your-git-development-clean-4nkb)
-- [Essentiality in Our Thinking Process at Litlyx](https://dev.to/litlyx-org/essentiality-in-our-thinking-process-at-litlyx-51la)
-- [Building Your First MVC Architecture in Next.js 🚀](https://dev.to/hamzakhan/building-your-first-mvc-architecture-in-nextjs-2512)
+- [LabEx Trending: Classifying Iris Using SVM and More 🌺](https://dev.to/labex/labex-trending-classifying-iris-using-svm-and-more-1b44)
+- [Why Data Analysts, Engineers, Architects and Scientists Should Care about Dremio and Apache Iceberg](https://dev.to/alexmercedcoder/why-data-analysts-engineers-architects-and-scientists-should-care-about-dremio-and-apache-iceberg-4jlp)
+- [Memory Allocation of Strings in Java](https://dev.to/soumya_deypersevere08_/memory-allocation-of-strings-in-java-1393)
+- [The Right Way to Update Reference Types in React State](https://dev.to/umairian/the-right-way-to-update-reference-types-in-react-state-3a3e)
+- [CSS Transforms – Translate, Rotate, Scale, and Skew](https://dev.to/ridoy_hasan/css-transforms-translate-rotate-scale-and-skew-4mbm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
