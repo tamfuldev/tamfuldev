@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [LabEx Trending: Classifying Iris Using SVM and More 🌺](https://dev.to/labex/labex-trending-classifying-iris-using-svm-and-more-1b44)
-- [Why Data Analysts, Engineers, Architects and Scientists Should Care about Dremio and Apache Iceberg](https://dev.to/alexmercedcoder/why-data-analysts-engineers-architects-and-scientists-should-care-about-dremio-and-apache-iceberg-4jlp)
-- [Memory Allocation of Strings in Java](https://dev.to/soumya_deypersevere08_/memory-allocation-of-strings-in-java-1393)
-- [The Right Way to Update Reference Types in React State](https://dev.to/umairian/the-right-way-to-update-reference-types-in-react-state-3a3e)
-- [CSS Transforms – Translate, Rotate, Scale, and Skew](https://dev.to/ridoy_hasan/css-transforms-translate-rotate-scale-and-skew-4mbm)
+- [First Day on My First Project](https://dev.to/theoforger/first-day-on-my-first-project-5eob)
+- [First Day on My First Project](https://dev.to/theoforger/first-day-on-my-first-project-4ioj)
+- [The Power of exec&lpar;&rpar; in Mongoose: Unlocking Better Query Execution](https://dev.to/asim_khan_cbe65e41bcbbc65/the-power-of-exec-in-mongoose-unlocking-better-query-execution-17fd)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2ed9)
+- [Effortless Deployment of Project with Ansible &amp; Nginx on AWS](https://dev.to/iamamash/effortless-deployment-of-project-with-ansible-nginx-on-aws-10di)
 <!-- BLOG-POST-LIST:END -->
 
 ---
