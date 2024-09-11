@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Two-Way Data Binding in React.js: A Comprehensive Guide](https://dev.to/ellis22/two-way-data-binding-in-reactjs-a-comprehensive-guide-120b)
-- [Automated Testing in Node.js for Efficient API Development](https://dev.to/viitorcloud/automated-testing-in-nodejs-for-efficient-api-development-4pac)
-- [Understanding Flex Properties in CSS](https://dev.to/ramk777stack/understanding-flex-properties-in-css-39ek)
-- [🚀 GITHUB ACTIONS 🚀](https://dev.to/alex1ai/github-actions-1b2g)
-- [🌟 Reflecting on 90 Days of Learning: My Journey So Far](https://dev.to/erasmuskotoka/reflecting-on-90-days-of-learning-my-journey-so-far-2f3b)
+- [The Luhn&#39;s algorithm in practice](https://dev.to/serhii_korol_ab7776c50dba/the-luhns-algorithm-in-practice-p0k)
+- [Share my side project - Hyde Clock](https://dev.to/keycheung/share-my-side-project-hyde-clock-1kld)
+- [How to Achieve Test Optimization with Keyword Driven Framework](https://dev.to/ronika_kashyap/how-to-achieve-test-optimization-with-keyword-driven-framework-2p71)
+- [API Documentation: Best Practices](https://dev.to/cyanspray/api-documentation-best-practices-4igl)
+- [Creating a Telegram bot using Discord.js syntax](https://dev.to/sempai07/creating-a-telegram-bot-using-discordjs-syntax-42pf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
