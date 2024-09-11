@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Luhn&#39;s algorithm in practice](https://dev.to/serhii_korol_ab7776c50dba/the-luhns-algorithm-in-practice-p0k)
-- [Share my side project - Hyde Clock](https://dev.to/keycheung/share-my-side-project-hyde-clock-1kld)
-- [How to Achieve Test Optimization with Keyword Driven Framework](https://dev.to/ronika_kashyap/how-to-achieve-test-optimization-with-keyword-driven-framework-2p71)
-- [API Documentation: Best Practices](https://dev.to/cyanspray/api-documentation-best-practices-4igl)
-- [Creating a Telegram bot using Discord.js syntax](https://dev.to/sempai07/creating-a-telegram-bot-using-discordjs-syntax-42pf)
+- [Seamless Background Removal with ISNET, SAM, and YOLOSegment Integration](https://dev.to/ishworrsubedii/seamless-background-removal-with-isnet-sam-and-yolosegment-integration-4b3f)
+- [Integrating Templ](https://dev.to/caffeineordeath/integrating-templ-3j0m)
+- [Smart Contract Dev : Hands-On with Truffle, Ganache and Solidity](https://dev.to/yessin_at_dev/smart-contract-dev-hands-on-with-truffle-ganache-and-solidity-27jm)
+- [Free Forex API Python](https://dev.to/hard_value_42d13a1ea562bd/free-forex-api-python-24lh)
+- [ErfanOS](https://dev.to/mr-3/erfanos-2ec5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
