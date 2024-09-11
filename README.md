@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Supercharge your applications queries with caching](https://dev.to/sdbarlow/supercharge-your-applications-queries-with-caching-2b17)
-- [💡 The productivity tool that you&#39;ve been searching for!](https://dev.to/barretoga/the-productivity-tool-that-youve-been-searching-for-5gol)
-- [10 Cool CodePen Demos &lpar;August 2024&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-august-2024-5e5h)
-- [Dynamic Template Rendering in Django Class-Based Views](https://dev.to/torrezmn/dynamic-template-rendering-in-django-class-based-views-1469)
-- [Recreate shopify webhooks](https://dev.to/ugifractal/recreate-shopify-webhooks-193g)
+- [Java and Kafka: Integration for Real-Time Data Processing](https://dev.to/ricardo_maia_eb9c7a906560/java-and-kafka-integration-for-real-time-data-processing-35fb)
+- [GitHub Repositories Every Software Engineer Should Know](https://dev.to/mosami0/github-repositories-every-software-engineer-should-know-42ni)
+- [Building Loop Studio Using React](https://dev.to/abhishekgurjar/building-loop-studio-using-react-3p2i)
+- [[Journal] Loongson 3A6000 supported Linux versions](https://dev.to/richardbrowning/journal-loongson-3a6000-linux-installation-2e4h)
+- [GitLab CI - A Comprehensive Dive into CI and CD : Day 41 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/gitlab-ci-a-comprehensive-dive-into-ci-and-cd-day-41-of-50-days-devops-tools-series-2abo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
