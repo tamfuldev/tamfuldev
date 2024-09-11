@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Small PR Improves Team Productivity](https://dev.to/jetthoughts/how-small-pr-improves-team-productivity-25g)
-- [Now, junior, behave yourself!](https://dev.to/cocodelacueva/now-junior-behave-yourself-3004)
-- [Understanding the Strategy Pattern: A Flexible Approach to Salary Processing &lpar;Python&rpar;](https://dev.to/dazevedo/understanding-the-strategy-pattern-a-flexible-approach-to-salary-processing-python-3bh7)
-- [Understanding the Decentralized AI Stack](https://dev.to/swarmzero/understanding-the-decentralized-ai-stack-5e3o)
-- [Fastest way to count in sql](https://dev.to/volland/fastest-way-to-count-in-sql-23m)
+- [Combining Options in Effect-TS: A Practical Guide](https://dev.to/almaclaine/combining-options-in-effect-ts-a-practical-guide-1gha)
+- [Rocket - The Rust Web Framework - Hello World](https://dev.to/francescoxx/rocket-the-rust-web-framework-hello-world-31po)
+- [React 19 Is Here...Get Ready!](https://dev.to/travislramos/react-19-is-hereget-ready-36da)
+- [Create a Tic Tac Toe Game in Unity](https://dev.to/marufhow/create-a-tic-tac-toe-game-in-unity-2lnb)
+- [Red Flags to Watch for in a Big PR: When to Stop, Split, or Rework](https://dev.to/jetthoughts/red-flags-to-watch-for-in-a-big-pr-when-to-stop-split-or-rework-1lgb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
