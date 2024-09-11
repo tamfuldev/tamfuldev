@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Manipulating WebSocket Data Using Breakpoints](https://dev.to/jack_bader_d38c3a1322a61d/manipulating-websocket-data-using-breakpoints-3k32)
-- [A Comprehensive OpenAI Assistants API V2 Wrapper: Simplifying AI Integration](https://dev.to/rahees_ahmed_/a-comprehensive-openai-assistants-api-v2-wrapper-simplifying-ai-integration-1i1n)
-- [Build a Route Generator App with Cloudflare Workers AI, LangChain, Streamlit, and Mapbox](https://dev.to/cloudflare/build-a-route-generator-app-with-cloudflare-workers-ai-langchain-streamlit-and-mapbox-jo3)
-- [How to setup your own &quot;Git Server&quot;](https://dev.to/kurtchan/how-to-setup-your-own-git-server-5b23)
-- [dotnet LATAM Day 2024](https://dev.to/mteheran/dotnet-latam-day-2024-52od)
+- [Supercharge your applications queries with caching](https://dev.to/sdbarlow/supercharge-your-applications-queries-with-caching-2b17)
+- [💡 The productivity tool that you&#39;ve been searching for!](https://dev.to/barretoga/the-productivity-tool-that-youve-been-searching-for-5gol)
+- [10 Cool CodePen Demos &lpar;August 2024&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-august-2024-5e5h)
+- [Dynamic Template Rendering in Django Class-Based Views](https://dev.to/torrezmn/dynamic-template-rendering-in-django-class-based-views-1469)
+- [Recreate shopify webhooks](https://dev.to/ugifractal/recreate-shopify-webhooks-193g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
