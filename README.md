@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Convert Excel to a Gantt chart: Quick Guide for Project Teams](https://dev.to/thomasy0ung/how-to-convert-excel-to-a-gantt-chart-quick-guide-for-project-teams-14bf)
-- [NODE Interview Questions...](https://dev.to/kamlesh_gupta_539c974fb0d/node-interview-questions-5fg4)
-- [Leetcode - 334. Increasing Triplet Subsequence](https://dev.to/rakeshreddy512/leetcode-334-increasing-triplet-subsequence-4jpp)
-- [Decoding ERC-7007: Shaping the Future of AI-Generated NFTs](https://dev.to/nft_research/decoding-erc-7007-shaping-the-future-of-ai-generated-nfts-7h6)
-- [Opaque token vs JWT](https://dev.to/logto/opaque-token-vs-jwt-54l7)
+- [Creating Effective SLO Dashboards: A Comprehensive Guide](https://dev.to/squadcast/creating-effective-slo-dashboards-a-comprehensive-guide-k9m)
+- [How to create a basic drawing tool and save to PNG with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/how-to-create-a-basic-drawing-tool-and-save-to-png-with-tailwind-css-and-javascript-4kpe)
+- [Implementing SLOs in Microservices: A Comprehensive Guide to Reliability and Performance](https://dev.to/squadcast/implementing-slos-in-microservices-a-comprehensive-guide-to-reliability-and-performance-2mp8)
+- [Beyond the Blue Screen: Insights from the Microsoft-CrowdStrike Incident](https://dev.to/squadcast/beyond-the-blue-screen-insights-from-the-microsoft-crowdstrike-incident-1hd3)
+- [Venture into a World of Dual Operating Systems: Arch Linux and Windows 10 Unite on Hyper-V Virtualization](https://dev.to/parkerava/venture-into-a-world-of-dual-operating-systems-arch-linux-and-windows-10-unite-on-hyper-v-virtualization-5blp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
