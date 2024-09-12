@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Datawarehousing](https://dev.to/karthik_goutam/why-datawarehosuing-5g4e)
-- [First collaboration with the open source community](https://dev.to/cleobnvntra/first-collaboration-with-the-open-source-community-4ffp)
-- [Microservices: Service Discovery in Distributed Systems](https://dev.to/isaactony/microservices-service-discovery-in-distributed-systems-54ig)
-- [Upgrading Python version for your Microsoft Fabric environment](https://dev.to/danuw/upgrading-python-version-for-your-microsoft-fabric-environment-5a94)
-- [Tipos Básicos em Kotlin - Strings](https://dev.to/oliversieto/tipos-basicos-em-kotlin-strings-2ob6)
+- [Offloading AI inference to your users&#39; devices](https://dev.to/miguelaeh/offloading-ai-inference-to-your-users-devices-30nb)
+- [Prioritizing Mental Health in Tech Culture](https://dev.to/nens/prioritizing-mental-health-in-tech-culture-1ee5)
+- [Understanding Large Language Models and Their Importance](https://dev.to/travislramos/understanding-large-language-models-and-their-importance-l3l)
+- [Day 30: The Final Day of My DevOps Learning Journey](https://dev.to/singh_in_cloud/day-30-the-final-day-of-my-devops-learning-journey-1dng)
+- [🔥 HTML5 Semantic Elements: Unleash the Power of Meaningful Markup 🔥](https://dev.to/areeb_anwar_813df06ee1124/html5-semantic-elements-unleash-the-power-of-meaningful-markup-40dd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
