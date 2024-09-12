@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What is AGI? Understanding Artificial General Intelligence and Its Future Possibilities](https://dev.to/abhinowww/what-is-agi-understanding-artificial-general-intelligence-and-its-future-possibilities-2fbc)
-- [How to Create a Next.js Template Using Low Code [Tutorial]](https://dev.to/rarestoma/how-to-create-a-nextjs-template-using-low-code-tutorial-2b89)
-- [Astro.js Getting started with a static site generator](https://dev.to/codeparrot/astrojs-getting-started-with-a-static-site-generator-1499)
-- [Stars in Your Browser: A Web-tastic Journey Through Space](https://dev.to/ram_nathawat/stars-in-your-browser-a-web-tastic-journey-through-space-141m)
-- [CraftCMS Launchpad - interactive CraftCMS demos in your browser](https://dev.to/mandrasch/craftcms-launchpad-interactive-craftcms-demos-in-your-browser-4c1f)
+- [How to Start Freelancing, Remote, or Open-Source Work as a Developer](https://dev.to/vuelancer/how-to-start-freelancing-remote-or-open-source-work-as-a-developer-1h4b)
+- [Harnessing the Power of AI: A Beginner&#39;s Guide to Machine Learning](https://dev.to/vuelancer/harnessing-the-power-of-ai-a-beginners-guide-to-machine-learning-1mg6)
+- [Modern DevOps Pipelines: A Comprehensive Guide](https://dev.to/vuelancer/modern-devops-pipelines-a-comprehensive-guide-13o5)
+- [Alien Signals](https://dev.to/madsstoumann/alien-signals-3ni8)
+- [Add a compute column to a csv file #eg40](https://dev.to/esproc_spl/add-a-compute-column-to-a-csv-file-eg40-3mbb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
