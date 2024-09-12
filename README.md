@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Combining the benefits of session tokens and JWTs](https://dev.to/clerk/combining-the-benefits-of-session-tokens-and-jwts-d48)
-- [IR Playbooks TryHackMe](https://dev.to/yowise/ir-playbooks-tryhackme-18n3)
-- [Please Install It for Me](https://dev.to/cacilhas/please-install-it-for-me-3ea9)
-- [The AVIF to PNG : Why We’re Still Talking About Image Formats](https://dev.to/badrnyali/the-avif-to-png-why-were-still-talking-about-image-formats-k9)
-- [Pequeño simulador interactivo en JavaScript](https://dev.to/fernandomoyano/pequeno-simulador-interactivo-1mok)
+- [Introduction to Cloud Functions for Firebase](https://dev.to/kartikmehta8/introduction-to-cloud-functions-for-firebase-1h7)
+- [Using the `InteractsWithUuid` Trait to Manage UUIDs in Laravel](https://dev.to/nasrulhazim/using-the-interactswithuuid-trait-to-manage-uuids-in-laravel-1735)
+- [Publishing a Private Package on GitHub Packages](https://dev.to/carloshendvpm/publishing-a-private-package-on-github-packages-23bf)
+- [Enhancing Laravel Models with a Case-Insensitive Searchable Trait](https://dev.to/nasrulhazim/enhancing-laravel-models-with-a-case-insensitive-searchable-trait-3fe3)
+- [Como publicar um package npm de forma privada utilizando Github Packages](https://dev.to/carloshendvpm/como-publicar-um-package-npm-de-forma-privada-utilizando-github-packages-2l5n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
