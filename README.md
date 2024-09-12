@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Start Freelancing, Remote, or Open-Source Work as a Developer](https://dev.to/vuelancer/how-to-start-freelancing-remote-or-open-source-work-as-a-developer-1h4b)
-- [Harnessing the Power of AI: A Beginner&#39;s Guide to Machine Learning](https://dev.to/vuelancer/harnessing-the-power-of-ai-a-beginners-guide-to-machine-learning-1mg6)
-- [Modern DevOps Pipelines: A Comprehensive Guide](https://dev.to/vuelancer/modern-devops-pipelines-a-comprehensive-guide-13o5)
-- [Alien Signals](https://dev.to/madsstoumann/alien-signals-3ni8)
-- [Add a compute column to a csv file #eg40](https://dev.to/esproc_spl/add-a-compute-column-to-a-csv-file-eg40-3mbb)
+- [A short history of AJAX and SSR](https://dev.to/nfrankel/a-short-history-of-ajax-and-ssr-5602)
+- [How to Secure Your Web Apps: A Free and Powerful WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/how-to-secure-your-web-apps-a-free-and-powerful-waf-l3n)
+- [Building REST APIs in Java: Are you a beginner to Java?](https://dev.to/respect17/building-rest-apis-in-java-a-beginners-guidehey-devto-community-121)
+- [Handling Multiple Exceptions in Python: The Clean and Simple Way! 🛠️](https://dev.to/stokry/handling-multiple-exceptions-in-python-the-clean-and-simple-way-156c)
+- [Devlog - 1: Je créé un moteur de jeu !](https://dev.to/roys122/devlog-1-je-cree-un-moteur-de-jeu--3678)
 <!-- BLOG-POST-LIST:END -->
 
 ---
