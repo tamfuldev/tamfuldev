@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Monitoring with cAdvisor, Prometheus and Grafana on Docker](https://dev.to/chauhoangminhnguyen/monitoring-with-cadvisor-prometheus-and-grafana-on-docker-1feo)
-- [All About JavaScript Function](https://dev.to/khanrabiul/all-about-javascript-function-1e32)
-- [How to Deploy an Application Using Docker: A Step-by-Step Guide](https://dev.to/dm8ry/how-to-deploy-an-application-using-docker-a-step-by-step-guide-372m)
-- [My Journey into Web Development: From the Basics to Building Real Projects](https://dev.to/uchexm/my-journey-into-web-development-from-the-basics-to-building-real-projects-58cj)
-- [How to Build Stunning Portfolio Website Using ReactJS and TailwindCSS](https://dev.to/codewithsadee/how-to-build-stunning-portfolio-website-using-reactjs-and-tailwindcss-hla)
+- [50 Must-Know VS Code Extensions for Faster Development 🚀](https://dev.to/lokesh_singh/50-must-know-vs-code-extensions-for-faster-development-5e7a)
+- [A Complete Guide to Filtering in Vector Search](https://dev.to/qdrant/a-complete-guide-to-filtering-in-vector-search-33lk)
+- [Understanding Streams in Node.js — Efficient Data Handling](https://dev.to/imsushant12/understanding-streams-in-nodejs-efficient-data-handling-5e6l)
+- [Item 54 - Retorne coleções ou arrays vazios, em vez de nulos](https://dev.to/giselecoder/item-54-retorne-colecoes-ou-arrays-vazios-em-vez-de-nulos-1ej6)
+- [Freeware: Java Utility Package &lpar;Version 2024.09.12&rpar; released](https://dev.to/andybrunner/freeware-java-utility-package-version-20240912-released-555g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
