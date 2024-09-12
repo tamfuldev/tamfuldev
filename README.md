@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring AI-Powered Web Development: OpenAI, Node.js and Dynamic UI Creation](https://dev.to/spradeep/exploring-ai-powered-web-development-openai-nodejs-and-dynamic-ui-creation-be2)
-- [Lerna – The key of Monorepo Management](https://dev.to/khushindpatel/lerna-the-key-of-monorepo-management-4e7n)
-- [Finding Startup Ideas By Reading Negative Customer Reviews](https://dev.to/fi_investor/finding-startup-ideas-by-reading-negative-customer-reviews-eeo)
-- [Como Instalar o Maizzle no Laravel](https://dev.to/gabrielmoura/como-instalar-o-maizzle-no-laravel-37dn)
-- [Hello World!!!](https://dev.to/ronihdz/hello-world-166)
+- [Understanding Local Storage in JavaScript](https://dev.to/vyan/understanding-local-storage-in-javascript-25e5)
+- [5 Ways ERP Systems are Transforming Schools and Universities](https://dev.to/erpdevelopment/5-ways-erp-systems-are-transforming-schools-and-universities-46jg)
+- [Getting Started with Docker: A Guide for Developers](https://dev.to/ankittmeena/getting-started-with-docker-a-guide-for-developers-4d1o)
+- [Provide storage for the IT department testing and training](https://dev.to/rdgmh/provide-storage-for-the-it-department-testing-and-training-3cd3)
+- [The new Cache::flexible&lpar;&rpar; of Laravel](https://dev.to/kachkolasa/the-new-cacheflexible-of-laravel-265k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
