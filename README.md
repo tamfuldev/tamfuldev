@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Cloud Functions for Firebase](https://dev.to/kartikmehta8/introduction-to-cloud-functions-for-firebase-1h7)
-- [Using the `InteractsWithUuid` Trait to Manage UUIDs in Laravel](https://dev.to/nasrulhazim/using-the-interactswithuuid-trait-to-manage-uuids-in-laravel-1735)
-- [Publishing a Private Package on GitHub Packages](https://dev.to/carloshendvpm/publishing-a-private-package-on-github-packages-23bf)
-- [Enhancing Laravel Models with a Case-Insensitive Searchable Trait](https://dev.to/nasrulhazim/enhancing-laravel-models-with-a-case-insensitive-searchable-trait-3fe3)
-- [Como publicar um package npm de forma privada utilizando Github Packages](https://dev.to/carloshendvpm/como-publicar-um-package-npm-de-forma-privada-utilizando-github-packages-2l5n)
+- [[Postgres] Isolation levels](https://dev.to/jacktt/postgres-isolation-levels-72h)
+- [🧑‍💻 Express.js Middleware and Asynchronous Operations](https://dev.to/yaser_sh/expressjs-middleware-and-asynchronous-operations-21o8)
+- [🚀 Best Practices to Boost Your Node.js App Performance 🚀](https://dev.to/yaser_sh/best-practices-to-boost-your-nodejs-app-performance-59m6)
+- [💡 Design Patterns are Cool, But Language Features are Forever 💡](https://dev.to/yaser_sh/design-patterns-are-cool-but-language-features-are-forever-5fd1)
+- [Code Smell 269 - Low-Level Addition](https://dev.to/mcsee/code-smell-269-low-level-addition-ndl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
