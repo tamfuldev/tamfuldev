@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [In the land of LLMs, can we do better mock data generation?](https://dev.to/neurelo/in-the-land-of-llms-can-we-do-better-mock-data-generation-489)
-- [Inside the Box: August Community Update](https://dev.to/codesandboxio/inside-the-box-august-community-update-5flm)
-- [Achieving IT/OT Convergence with Azure Cloud](https://dev.to/sdtslmn/achieving-itot-convergence-with-azure-cloud-b3j)
-- [Is PHP Dead? No, It&#39;s Thriving](https://dev.to/angelaswift/is-php-dead-no-its-thriving-3l0f)
-- [13 top open-source tools to ship your apps faster ⚡🚀](https://dev.to/composiodev/13-top-open-source-tools-to-ship-your-apps-faster-4ihl)
+- [Why Datawarehousing](https://dev.to/karthik_goutam/why-datawarehosuing-5g4e)
+- [First collaboration with the open source community](https://dev.to/cleobnvntra/first-collaboration-with-the-open-source-community-4ffp)
+- [Microservices: Service Discovery in Distributed Systems](https://dev.to/isaactony/microservices-service-discovery-in-distributed-systems-54ig)
+- [Upgrading Python version for your Microsoft Fabric environment](https://dev.to/danuw/upgrading-python-version-for-your-microsoft-fabric-environment-5a94)
+- [Tipos Básicos em Kotlin - Strings](https://dev.to/oliversieto/tipos-basicos-em-kotlin-strings-2ob6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
