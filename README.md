@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Fancify your website user experience with edge computing](https://dev.to/glitch/fancify-your-website-user-experience-with-edge-computing-29hk)
-- [Boost API Security: Kong and SafeLine WAF Integration Guide](https://dev.to/lulu_liu_c90f973e2f954d7f/boost-api-security-kong-and-safeline-waf-integration-guide-40o9)
-- [Added the ability to replace environment variables when running the &quot;Copy-Paste&quot; command in the &quot;Rucken&quot; utility](https://dev.to/endykaufman/added-the-ability-to-replace-environment-variables-when-running-the-copy-paste-command-in-the-rucken-utility-2mcj)
-- [How Google Gemini 1.5 Pro is Revolutionizing Document Analysis](https://dev.to/hakeem/how-google-gemini-15-pro-is-revolutionizing-document-analysis-p72)
-- [Complete Guide on Next.js Deployment on AWS Elastic Beanstalk: Using-Docker, AWS CodePipeline &amp; CodeBuild](https://dev.to/thecodexakash/complete-guide-on-nextjs-deployment-on-aws-elastic-beanstalk-using-docker-aws-codepipeline-codebuild-8g9)
+- [🌟 JWT auth made pretty pretty simple!](https://dev.to/yaser_sh/jwt-auth-made-pretty-pretty-simple-226j)
+- [🔥 Front End Frenzy: 7 Concepts Explained with a Side of Sizzle 🔥](https://dev.to/areeb_anwar_813df06ee1124/front-end-frenzy-7-concepts-explained-with-a-side-of-sizzle-dmg)
+- [🌐 Building a Serverless Backend for Next.js with AWS Lambda](https://dev.to/hamzakhan/building-a-serverless-backend-for-nextjs-with-aws-lambda-26mj)
+- [Understanding Password Cracking](https://dev.to/mohanavamsi0614/understanding-password-cracking-1k52)
+- [Know About Cloud Testing and Its On-premise Testing Challenges](https://dev.to/ronika_kashyap/know-about-cloud-testing-and-its-on-premise-testing-challenges-6h1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
