@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Integration vs End-to-End &lpar;E2E&rpar; Testing: Understanding Their Differences and When to Use Them](https://dev.to/keploy/integration-vs-end-to-end-e2e-testing-understanding-their-differences-and-when-to-use-them-2caf)
-- [17 Best Free React Admin Template 2024 to Speed up Your Web App Development 🚀](https://dev.to/syakirurahman/17-best-free-react-admin-template-2024-to-speed-up-your-web-app-development-3ec)
-- [Automating Docker Deployments to Azure with GitHub Actions: A Step-by-Step Guide](https://dev.to/tino_muc/automating-docker-deployments-to-azure-with-github-actions-a-step-by-step-guide-12i4)
-- [Challenges and Lessons Learned in Web Development 💻](https://dev.to/erasmuskotoka/challenges-and-lessons-learned-in-web-development-e5m)
-- [Building a Saas in five days](https://dev.to/mbv-labs/building-a-saas-in-five-days-4ofn)
+- [Monitoring with cAdvisor, Prometheus and Grafana on Docker](https://dev.to/chauhoangminhnguyen/monitoring-with-cadvisor-prometheus-and-grafana-on-docker-1feo)
+- [All About JavaScript Function](https://dev.to/khanrabiul/all-about-javascript-function-1e32)
+- [How to Deploy an Application Using Docker: A Step-by-Step Guide](https://dev.to/dm8ry/how-to-deploy-an-application-using-docker-a-step-by-step-guide-372m)
+- [My Journey into Web Development: From the Basics to Building Real Projects](https://dev.to/uchexm/my-journey-into-web-development-from-the-basics-to-building-real-projects-58cj)
+- [How to Build Stunning Portfolio Website Using ReactJS and TailwindCSS](https://dev.to/codewithsadee/how-to-build-stunning-portfolio-website-using-reactjs-and-tailwindcss-hla)
 <!-- BLOG-POST-LIST:END -->
 
 ---
