@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Essential Guide to Refactoring Code for a Cleaner and Polished Design](https://dev.to/geraldhamiltonwicks/essential-guide-to-refactoring-code-for-a-cleaner-and-polished-design-5330)
-- [Authorization In Laravel - A Beginner&#39;s Guide](https://dev.to/mohammed_kareem/authorization-in-laravel-a-beginners-guide-32kf)
-- [Best Web Design Tools for Designers &amp; Agencies](https://dev.to/christopherchhim/best-web-design-tools-for-designers-agencies-30ga)
-- [Representação numérica na computação](https://dev.to/xornotor/representacao-numerica-na-computacao-31ml)
-- [Computer Vision Meetup: Reducing Hallucinations in ChatGPT and Similar AI Systems](https://dev.to/voxel51/computer-vision-meetup-reducing-hallucinations-in-chatgpt-and-similar-ai-systems-49g2)
+- [Starting an Open Source Project - OSD#2](https://dev.to/bregwin/starting-a-open-source-project-55d1)
+- [Join Table](https://dev.to/theholyspirit/join-table-4jk1)
+- [EFCore Tutorial P1: Getting Started with EF Core](https://dev.to/moh_moh701/efcore-tutorial-p1-getting-started-with-ef-core-48g0)
+- [Searching the CFML Output Buffer for a String](https://dev.to/gamesover/searching-the-cfml-output-buffer-for-a-string-1b5f)
+- [Connecting ZingGrid to Supabase: Add a Backend in Minutes](https://dev.to/camdyn_rasque/connecting-zinggrid-to-supabase-add-a-backend-in-minutes-1ebe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
