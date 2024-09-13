@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Crypto Finder App with React](https://dev.to/abhishekgurjar/building-a-crypto-finder-app-with-react-b87)
-- [Code Against the Clock: Automating the youtube shorts creation](https://dev.to/programmerraja/code-against-the-clock-automating-the-youtube-shorts-creation-24m7)
-- [Crear un Paquete de NPM - Paso a Paso / TypeScript, commit linting, Husky, Semantic Release](https://dev.to/hijuliancode/crear-un-paquete-de-npm-paso-a-paso-typescript-commit-linting-husky-semantic-release-553d)
-- [Step-by-Step Guide to Creating a Kubernetes User and Adding It to a Kubeconfig File &lpar;RBAC&rpar;](https://dev.to/imransaifi/step-by-step-guide-to-creating-a-kubernetes-user-and-adding-it-to-a-kubeconfig-file-rbac-3eo3)
-- [Note: 12 System Design Fundamentals](https://dev.to/dleedev365/12-system-design-fundamentals-notes-1g2c)
+- [Introduction post](https://dev.to/lissnbay/introduction-post-4a2o)
+- [My Journey So Far: #100DaysOfCode Challenge and What I Aim to Achieve](https://dev.to/heritech9/my-journey-so-far-100daysofcode-challenge-and-what-i-aim-to-achieve-22dh)
+- [How To Create And Configure Build Pipeline In Azure DevOps](https://dev.to/s3cloudhub/how-to-create-and-configure-build-pipeline-in-azure-devops-5hf4)
+- [Top DevOps Automation Strategies for Fast-Tracking Success](https://dev.to/patadiarushabh/top-devops-automation-strategies-for-fast-tracking-success-4ckg)
+- [Create and publish an npm library, with TypeScript and Semantic Versioning](https://dev.to/remi-guan/create-and-publish-an-npm-library-with-typescript-and-semantic-versioning-9l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
