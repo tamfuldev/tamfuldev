@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Install and Run Auraflow Image Generator Locally](https://dev.to/nodeshiftcloud/how-to-install-and-run-auraflow-image-generator-locally-1652)
-- [How to Set Up SSL Protocols and Cipher Suites with SafeLine WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/how-to-set-up-ssl-protocols-and-cipher-suites-with-safeline-waf-314i)
-- [New PHP Package: Discord Table Builder](https://dev.to/smitmartijn/new-php-package-discord-table-builder-2chk)
-- [Context is all you need.](https://dev.to/szymonst/context-is-all-you-need-1k8a)
-- [The Best API Management Tools You Should Try](https://dev.to/cyanspray/the-best-api-management-tools-you-should-try-2iec)
+- [🕵️‍♂️ The JavaScript Hoisting Conspiracy: What You Don&#39;t See in Your Code](https://dev.to/dharamgfx/the-javascript-hoisting-conspiracy-what-you-dont-see-in-your-code-2d33)
+- [Dica C#: Asynchronous Disposable](https://dev.to/juarezasjunior/dica-c-asynchronous-disposable-4afm)
+- [C# Tip: Asynchronous Disposable](https://dev.to/juarezasjunior/c-tip-asynchronous-disposable-4895)
+- [🔍 The JavaScript Conspiracy: Secrets Behind the Code You Use Every Day](https://dev.to/dharamgfx/the-javascript-conspiracy-secrets-behind-the-code-you-use-every-day-37fo)
+- [Getting Started with Effective Web Performance Auditing](https://dev.to/pmbanugo/getting-started-with-effective-web-performance-auditing-3c2h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
