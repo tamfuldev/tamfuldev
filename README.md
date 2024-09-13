@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Monitoring with Grafana](https://dev.to/chauhoangminhnguyen/monitoring-with-grafana-59l5)
-- [How the Global Talent visa might make you layoff-proof in the UK 🇬🇧](https://dev.to/thewritingdev/how-the-global-talent-visa-might-make-you-layoff-proof-in-the-uk-37om)
-- [Beyond JavaScript - Why 0.1 + 0.2 doesn&#39;t equal 0.3 in programming](https://dev.to/umangsinha12/beyond-javascript-why-01-02-doesnt-equal-03-in-programming-2bf3)
-- [Delete All Stashes in Git: A Comprehensive Guide](https://dev.to/labex/delete-all-stashes-in-git-a-comprehensive-guide-5g5l)
-- [Why Gyms Are Embracing ERP Solutions for Enhanced Management in 2024](https://dev.to/erpdevelopment/why-gyms-are-embracing-erp-solutions-for-enhanced-management-in-2024-dkk)
+- [How to set up an Apache2 virtual host with Laravel on Ubuntu](https://dev.to/jrius4/how-to-set-up-an-apache2-virtual-host-with-laravel-on-ubuntu-1n7d)
+- [Does your app need more code?](https://dev.to/polipo_gio/does-your-app-need-more-code-5803)
+- [Send data between tabs in React.](https://dev.to/maqs/send-data-between-tabs-in-react-obk)
+- [Deixando a Matrix: A Jornada de Confiança e Sucesso de um Desenvolvedor Brasileiro](https://dev.to/marcelxv/deixando-a-matrix-a-jornada-de-confianca-e-sucesso-de-um-desenvolvedor-brasileiro-3f32)
+- [Mastering Prompt Engineering for Generative AI: A Simple Guide](https://dev.to/krupeshvithlani/mastering-prompt-engineering-for-generative-ai-a-simple-guide-5e26)
 <!-- BLOG-POST-LIST:END -->
 
 ---
