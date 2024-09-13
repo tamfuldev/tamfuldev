@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL vs MySQL: Which One Fits Your Project?](https://dev.to/seasonedcc/postgresql-vs-mysql-which-one-fits-your-project-2c3)
-- [Настройка линтеров и IDE для Angular 18](https://dev.to/fafnur/nastroika-lintierov-i-ide-dlia-angular-18-2130)
-- [Docker - Introduction, Architecture, and Most used Commands](https://dev.to/akhil_mittal/docker-introduction-architecture-and-most-used-commands-1g1b)
-- [A Beginner&#39;s guide to APIs: Understanding POST, PATCH, GET, and DELETE](https://dev.to/daniel_trejo14/a-beginners-guide-to-apis-understanding-post-patch-get-and-delete-55el)
-- [PubNub vs Pusher creating a realtime messaging app in React](https://dev.to/andrewbaisden/pubnub-vs-pusher-creating-a-realtime-messaging-app-in-react-2h1f)
+- [Monitoring with Grafana](https://dev.to/chauhoangminhnguyen/monitoring-with-grafana-59l5)
+- [How the Global Talent visa might make you layoff-proof in the UK 🇬🇧](https://dev.to/thewritingdev/how-the-global-talent-visa-might-make-you-layoff-proof-in-the-uk-37om)
+- [Beyond JavaScript - Why 0.1 + 0.2 doesn&#39;t equal 0.3 in programming](https://dev.to/umangsinha12/beyond-javascript-why-01-02-doesnt-equal-03-in-programming-2bf3)
+- [Delete All Stashes in Git: A Comprehensive Guide](https://dev.to/labex/delete-all-stashes-in-git-a-comprehensive-guide-5g5l)
+- [Why Gyms Are Embracing ERP Solutions for Enhanced Management in 2024](https://dev.to/erpdevelopment/why-gyms-are-embracing-erp-solutions-for-enhanced-management-in-2024-dkk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
