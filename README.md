@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The anatomy of HTML page](https://dev.to/melchizedek404/the-anatomy-of-html-page-5000)
-- [Mastering React.js: How to Build Fast, Scalable, and Performant Web Apps](https://dev.to/sabyasachim/mastering-reactjs-how-to-build-fast-scalable-and-performant-web-apps-154b)
-- [The Day I Became Certified as a Full Stack Software Developer: Bragging Rights Article Haha](https://dev.to/cre8stevedev/the-day-i-became-certified-as-a-full-stack-software-developer-bragging-rights-article-haha-15mj)
-- [Frontend Challenge: Space.](https://dev.to/jarvisscript/frontend-challenge-space-4f6e)
-- [Implementing a RAG system inside an RDBMS: Sqlite and Postgres with Sqlite-vec, PGVector.](https://dev.to/jonbiz/implementing-a-rag-system-inside-an-rdbms-sqlite-and-postgres-with-sqlite-vec-pgvector-4d5h)
+- [EFCore Tutorial P4:Cleaning Up `OnModelCreating`](https://dev.to/moh_moh701/efcore-tutorial-p5cleaning-up-ef-cores-onmodelcreating-45fg)
+- [9/13/2024 Progress](https://dev.to/jean_clenor/9132024-progress-lkj)
+- [Quão difícil é subir uma aplicação simples e monetizá-la em 2024?](https://dev.to/arthurdiesel/quao-dificil-e-subir-uma-aplicacao-simples-e-monetiza-la-em-2024-1g74)
+- [Building Reusable Infrastructure with Terraform Modules](https://dev.to/pat6339/building-reusable-infrastructure-with-terraform-modules-625)
+- [🚀 Introducing FetchPHP: A Simple, Powerful HTTP Library for PHP, Inspired by JavaScript’s fetch API](https://dev.to/thavarshan/introducing-fetchphp-a-simple-powerful-http-library-for-php-inspired-by-javascripts-fetch-api-l72)
 <!-- BLOG-POST-LIST:END -->
 
 ---
