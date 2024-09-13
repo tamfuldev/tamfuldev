@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🕵️‍♂️ The JavaScript Hoisting Conspiracy: What You Don&#39;t See in Your Code](https://dev.to/dharamgfx/the-javascript-hoisting-conspiracy-what-you-dont-see-in-your-code-2d33)
-- [Dica C#: Asynchronous Disposable](https://dev.to/juarezasjunior/dica-c-asynchronous-disposable-4afm)
-- [C# Tip: Asynchronous Disposable](https://dev.to/juarezasjunior/c-tip-asynchronous-disposable-4895)
-- [🔍 The JavaScript Conspiracy: Secrets Behind the Code You Use Every Day](https://dev.to/dharamgfx/the-javascript-conspiracy-secrets-behind-the-code-you-use-every-day-37fo)
-- [Getting Started with Effective Web Performance Auditing](https://dev.to/pmbanugo/getting-started-with-effective-web-performance-auditing-3c2h)
+- [PostgreSQL vs MySQL: Which One Fits Your Project?](https://dev.to/seasonedcc/postgresql-vs-mysql-which-one-fits-your-project-2c3)
+- [Настройка линтеров и IDE для Angular 18](https://dev.to/fafnur/nastroika-lintierov-i-ide-dlia-angular-18-2130)
+- [Docker - Introduction, Architecture, and Most used Commands](https://dev.to/akhil_mittal/docker-introduction-architecture-and-most-used-commands-1g1b)
+- [A Beginner&#39;s guide to APIs: Understanding POST, PATCH, GET, and DELETE](https://dev.to/daniel_trejo14/a-beginners-guide-to-apis-understanding-post-patch-get-and-delete-55el)
+- [PubNub vs Pusher creating a realtime messaging app in React](https://dev.to/andrewbaisden/pubnub-vs-pusher-creating-a-realtime-messaging-app-in-react-2h1f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
