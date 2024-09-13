@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1281)
-- [openEuler release 22.03挂载本地iso光盘镜像，配置yum软件仓库](https://dev.to/dbao/openeuler-release-2203gua-zai-ben-di-isoguang-pan-jing-xiang-pei-zhi-yumruan-jian-cang-ku-5cch)
-- [Building a Movie Finder Website using React](https://dev.to/abhishekgurjar/building-a-movie-finder-website-using-react-ce9)
-- [Recommended Codespace Configuration for Polyglot Notebooks](https://dev.to/integerman/recommended-codespace-configuration-for-polyglot-notebooks-116h)
-- [Embracing Cgroup V2:Best Practices for Migrating Kubernetes Clusters to AlmaLinux](https://dev.to/zouyee/embracing-cgroup-v2best-practices-for-migrating-kubernetes-clusters-to-almalinux-37np)
+- [Building a Crypto Finder App with React](https://dev.to/abhishekgurjar/building-a-crypto-finder-app-with-react-b87)
+- [Code Against the Clock: Automating the youtube shorts creation](https://dev.to/programmerraja/code-against-the-clock-automating-the-youtube-shorts-creation-24m7)
+- [Crear un Paquete de NPM - Paso a Paso / TypeScript, commit linting, Husky, Semantic Release](https://dev.to/hijuliancode/crear-un-paquete-de-npm-paso-a-paso-typescript-commit-linting-husky-semantic-release-553d)
+- [Step-by-Step Guide to Creating a Kubernetes User and Adding It to a Kubeconfig File &lpar;RBAC&rpar;](https://dev.to/imransaifi/step-by-step-guide-to-creating-a-kubernetes-user-and-adding-it-to-a-kubeconfig-file-rbac-3eo3)
+- [Note: 12 System Design Fundamentals](https://dev.to/dleedev365/12-system-design-fundamentals-notes-1g2c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
