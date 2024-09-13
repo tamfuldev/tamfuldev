@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [YAML to JSON Conversion: A Comprehensive Guide](https://dev.to/keploy/yaml-to-json-conversion-a-comprehensive-guide-40dh)
-- [Frontend Challenge: Space Edition](https://dev.to/lakshita_kumawat/frontend-challenge-space-edition-2bb6)
-- [How NOT to Make Your Second Indie Game](https://dev.to/pashagray/how-not-to-make-your-second-indie-game-13ij)
-- [The Review Roundup](https://dev.to/ajogseneca/the-review-roundup-14p9)
-- [OpenAI o1 Release is so Reminiscent of Apple Events - it&#39;s an Incremental Update](https://dev.to/maximsaplin/openai-o1-release-is-so-reminiscent-of-apple-events-its-an-incremental-update-cm)
+- [The anatomy of HTML page](https://dev.to/melchizedek404/the-anatomy-of-html-page-5000)
+- [Mastering React.js: How to Build Fast, Scalable, and Performant Web Apps](https://dev.to/sabyasachim/mastering-reactjs-how-to-build-fast-scalable-and-performant-web-apps-154b)
+- [The Day I Became Certified as a Full Stack Software Developer: Bragging Rights Article Haha](https://dev.to/cre8stevedev/the-day-i-became-certified-as-a-full-stack-software-developer-bragging-rights-article-haha-15mj)
+- [Frontend Challenge: Space.](https://dev.to/jarvisscript/frontend-challenge-space-4f6e)
+- [Implementing a RAG system inside an RDBMS: Sqlite and Postgres with Sqlite-vec, PGVector.](https://dev.to/jonbiz/implementing-a-rag-system-inside-an-rdbms-sqlite-and-postgres-with-sqlite-vec-pgvector-4d5h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
