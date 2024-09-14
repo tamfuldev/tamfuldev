@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Usando super para acessar membros da superclasse](https://dev.to/devsjavagirls/usando-super-para-acessar-membros-da-superclasse-1e9k)
-- [How to Use Broadcast Channel API in React](https://dev.to/sachinchaurasiya/how-to-use-broadcast-channel-api-in-react-5eec)
-- [LabEx Trending: Build a Digital Clock With Python and More](https://dev.to/labex/labex-trending-build-a-digital-clock-with-python-and-more-19b2)
-- [🏗️ Monolith vs Microservices: Which Architecture is Best for Your App? 🤔](https://dev.to/hamzakhan/monolith-vs-microservices-which-architecture-is-best-for-your-app-22km)
-- [7 BEST VS Code Extensions for Faster Development — 2024 Edition 🚀](https://dev.to/best_codes/7-best-vs-code-extensions-for-faster-development-2024-edition-3j56)
+- [How to add swap space in Linux?](https://dev.to/lovestaco/how-to-add-swap-space-on-linux-e28)
+- [Most Commonly Used AWS Services](https://dev.to/akhil_mittal/most-commonly-used-aws-services-4mg1)
+- [The Future of Local LLM Execution: Running Language Models Locally with Ollama, ONNX, and More](https://dev.to/kenangain/the-future-of-local-llm-execution-running-language-models-locally-with-ollama-onnx-and-more-4f97)
+- [[Journal] Loongson 3A6000 and dGPU 独立显卡配置](https://dev.to/richardbrowning/journal-loongson-3a6000-and-dgpu-du-li-xian-qia-pei-zhi-1m84)
+- [Criando uma hierarquia de vários níveis](https://dev.to/devsjavagirls/criando-uma-hierarquia-de-varios-niveis-4mm6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
