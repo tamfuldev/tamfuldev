@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [RAG Simplified!! 🐣](https://dev.to/rohan_sharma/rag-simplified-2a9p)
-- [How to Create Partials Using EJS for Reusable Code 🚀](https://dev.to/arkadiptakundu/how-to-create-partials-using-ejs-for-reusable-code-3ic0)
-- [Enable Microsoft 365 Backups](https://dev.to/techielass/enable-microsoft-365-backups-3ogl)
-- [Comparing the Drupal and WordPress Implementations of Gutenberg themes, blocks, and more!](https://dev.to/reubenwalker64/comparing-the-drupal-and-wordpress-implementations-of-gutenberg-themes-blocks-and-more-1196)
-- [MaxPool2d&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/maxpool2d-in-pytorch-4p3e)
+- [Study Stream Web-Extension Demo](https://dev.to/rishi_nalem/study-stream-web-extension-demo-2f7p)
+- [Outbox design pattern](https://dev.to/vijayponnusamy1990/outbox-design-pattern-3080)
+- [My journey into the cloud](https://dev.to/sherif_san/my-journey-into-the-cloud-5h9a)
+- [Church-Rosser proof for CCL](https://dev.to/rdentato/church-rosser-proof-for-ccl-c5l)
+- [Provide storage for the public website](https://dev.to/busa/provide-storage-for-the-public-website-3g75)
 <!-- BLOG-POST-LIST:END -->
 
 ---
