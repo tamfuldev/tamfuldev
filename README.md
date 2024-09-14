@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Object-Oriented Programming - The Bases](https://dev.to/f_rozendo/object-oriented-programming-the-bases-1b7e)
+- [Cómo escribir archivos de log en Go](https://dev.to/fabkdev/como-escribir-archivos-de-log-en-go-916)
+- [How to configure a split-traffic VPN to access private S3 buckets](https://dev.to/aws-builders/how-to-configure-a-split-traffic-vpn-to-access-private-s3-buckets-420i)
 - [Deploy Simple Java Application using Docker Compose.](https://dev.to/divine_kenechukwu_fc921c4/deploy-simple-java-application-using-docker-compose-41mp)
 - [Aspiring Programmer](https://dev.to/mushfiqul_islam_dfe0370b7/aspiring-programmer-2946)
-- [Load Testing With Postman](https://dev.to/dot_nettips_a4e90828daa4/load-testing-with-postman-1idp)
-- [React Tabs Component | Reusable UI | Interactive Web Development](https://dev.to/labex/react-tabs-component-reusable-ui-interactive-web-development-3nm2)
-- [Four surprising IPv6 gotchas with Amazon S3](https://dev.to/aws-builders/three-surprising-ipv6-gotchas-with-amazon-s3-498p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
