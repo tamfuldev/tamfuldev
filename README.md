@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🌟 Transform Your GitHub Profile with Our Cutting-Edge Profile Generator](https://dev.to/sushilmagare10/transform-your-github-profile-with-our-cutting-edge-profile-generator-4c27)
-- [Detailed Job Description for Developing a Custom SaaS E-Commerce Platform](https://dev.to/bmspy/detailed-job-description-for-developing-a-custom-saas-e-commerce-platform-p56)
-- [CSS BEM Naming Convention: What It Is, Why It Matters, and How to Use It?](https://dev.to/aepasahan/css-bem-naming-convention-what-it-is-why-it-matters-and-how-to-use-it-3epn)
-- [MaxPool3d&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/maxpool3d-in-pytorch-37b0)
-- [Typing Speed: The Overlooked Catalyst for Developer Productivity in the AI Era 🚀](https://dev.to/fauzulchowdhury/typing-speed-the-overlooked-catalyst-for-developer-productivity-in-the-ai-era-4do7)
+- [Usando super para acessar membros da superclasse](https://dev.to/devsjavagirls/usando-super-para-acessar-membros-da-superclasse-1e9k)
+- [How to Use Broadcast Channel API in React](https://dev.to/sachinchaurasiya/how-to-use-broadcast-channel-api-in-react-5eec)
+- [LabEx Trending: Build a Digital Clock With Python and More](https://dev.to/labex/labex-trending-build-a-digital-clock-with-python-and-more-19b2)
+- [🏗️ Monolith vs Microservices: Which Architecture is Best for Your App? 🤔](https://dev.to/hamzakhan/monolith-vs-microservices-which-architecture-is-best-for-your-app-22km)
+- [7 BEST VS Code Extensions for Faster Development — 2024 Edition 🚀](https://dev.to/best_codes/7-best-vs-code-extensions-for-faster-development-2024-edition-3j56)
 <!-- BLOG-POST-LIST:END -->
 
 ---
