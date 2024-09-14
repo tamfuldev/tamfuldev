@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Doing Code Reviews &amp; Filing Github Issues](https://dev.to/arilloid/doing-code-reviews-filing-github-issues-8b6)
-- [Developing Custom Nodes for n8n with Docker](https://dev.to/hubschrauber/developing-custom-nodes-for-n8n-with-docker-2680)
-- [Developing Custom Nodes for n8n with Docker](https://dev.to/hubschrauber/developing-custom-nodes-for-n8n-with-docker-3poj)
-- [Do You Still Use Git in the Terminal?](https://dev.to/jimmymcbride/do-you-still-use-git-in-the-terminal-2n7a)
-- [Dealing with issues](https://dev.to/aamfahim/dealing-with-issues-ofp)
+- [My Journey Through the Polkadot Blockchain Academy](https://dev.to/jaypopat/my-journey-through-the-polkadot-blockchain-academy-intense-rewarding-and-transformative-21dj)
+- [Dicas para escrever Tailwind CSS de forma limpa](https://dev.to/wesleywcr/dicas-para-escrever-tailwind-de-forma-limpa-6i)
+- [Reflecting on My First Code Review Experience](https://dev.to/vinhyan/reflecting-on-my-first-code-review-experience-1ih8)
+- [The Best 10 GraphQL Clients for Developers in 2024](https://dev.to/apilover/the-best-10-graphql-clients-for-developers-in-2024-40op)
+- [Nextjs Nested Route/segment](https://dev.to/vjygour/nextjs-nested-routesegment-f2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
