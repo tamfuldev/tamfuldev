@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;s Verify Step by Step: How OpenAI o1 was created](https://dev.to/shagun_mistry/lets-verify-step-by-step-how-openai-o1-was-created-2mll)
-- [PGVector&#39;s Missing Features](https://dev.to/skeptrune/pgvectors-missing-features-5h5h)
-- [The Power of Recharging: Overcoming Life&#39;s Stress &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/the-power-of-recharging-overcoming-lifes-stress-bite-size-article-328)
-- [Ned&#39;s Declassified Git Survival Guide 📚](https://dev.to/raulpenate/neds-declassified-git-survival-guide-4p9e)
-- [How Outliers Affect the Mean: An Analogy with Leadership in a Company](https://dev.to/sreeni5018/how-outliers-affect-the-mean-an-analogy-with-leadership-in-a-company-4b29)
+- [Why Elixir?](https://dev.to/idfy/why-elixir-2i7i)
+- [Optimizing Aurora MySQL Storage by Deleting Unnecessary Data](https://dev.to/suzuki0430/optimizing-aurora-mysql-storage-by-deleting-unnecessary-data-4l92)
+- [Week 2: Lab 1 code review](https://dev.to/mpalhutchinson/week-2-lab-1-code-review-2749)
+- [Why we&#39;re making Buildstash - build-to-release management for app and game devs](https://dev.to/buildstash/why-were-making-buildstash-build-to-release-management-for-app-and-game-devs-23f3)
+- [Slim and Flight PHP Framework Comparison](https://dev.to/mrpercival/slim-and-flight-php-framework-comparison-17am)
 <!-- BLOG-POST-LIST:END -->
 
 ---
