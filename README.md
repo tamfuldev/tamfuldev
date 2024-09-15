@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Auth Routes Tutorial](https://dev.to/kavya-sahai-god/laravel-auth-routes-tutorial-488c)
-- [Crafting Structured {JSON} Responses: Ensuring Consistent Output from any LLM 🦙🤖](https://dev.to/rishabdugar/crafting-structured-json-responses-ensuring-consistent-output-from-any-llm-l9h)
-- [How to Improve Your Negotiation Skills and Resolve Conflicts Effectively](https://dev.to/ivictormartin/how-to-improve-your-negotiation-skills-and-resolve-conflicts-effectively-4me2)
-- [Mastering Data Routing in Apache Camel: Leveraging the Splitter Pattern](https://dev.to/yanev/mastering-data-routing-in-apache-camel-leveraging-the-splitter-pattern-3g5)
-- [Package Manager Fight: npm vs pnpm vs npx vs yarn vs bun](https://dev.to/vsnikhilvs/package-manager-fight-npm-vs-pnpm-vs-npx-vs-yarn-vs-bun-569)
+- [Collections frequency method in java | Collections framework | Java](https://dev.to/realnamehidden1_61/collections-frequency-method-in-java-collections-framework-java-25bb)
+- [Understanding UUIDs: A Backend Engineer’s Guide for Junior Developers](https://dev.to/usooldatascience/understanding-uuids-a-backend-engineers-guide-for-junior-developers-5075)
+- [Java logical interview question | Sum a list but ignore any duplicates codewars java solution](https://dev.to/realnamehidden1_61/java-logical-interview-question-sum-a-list-but-ignore-any-duplicates-codewars-java-solution-54lc)
+- [Collections.reverseOrder&lpar;&rpar; method in Java](https://dev.to/realnamehidden1_61/collectionsreverseorder-method-in-java-1dpc)
+- [Automatic Data Normalization: Streamlining Data with MS Azure and AWS](https://dev.to/saboor_ahmedawan_8268070/automatic-data-normalization-streamlining-data-with-ms-azure-and-aws-4179)
 <!-- BLOG-POST-LIST:END -->
 
 ---
