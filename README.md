@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding DevOps and Its Impact on Modern Businesses](https://dev.to/ismailco96/understanding-devops-and-its-impact-on-modern-businesses-3pi)
-- [Mediator](https://dev.to/prashantrmishra/mediator-171p)
-- [Signup html and css](https://dev.to/prince_beec5ccde00b7c6c73/signup-html-and-css-37i4)
-- [Starting w your first Research Paper](https://dev.to/sarthakkarora/starting-w-your-first-research-paper-1lhk)
-- [IT Risk Management 101](https://dev.to/buzzgk/it-risk-management-101-7ed)
+- [Spring Boot RestTemplate postForEntity method](https://dev.to/realnamehidden1_61/spring-boot-resttemplate-postforentity-method-4l25)
+- [C# Tip: Required Members](https://dev.to/juarezasjunior/c-tip-required-members-14el)
+- [Building a bill splitting app - splitBhai &lpar;1/n&rpar; as a side project](https://dev.to/abhishek_writes/building-a-bill-splitting-app-splitbhai-1n-as-a-side-project-4p27)
+- [How to solve dual write problem in NestJS?](https://dev.to/axotion/how-to-solve-dual-write-problem-in-nestjs-hbp)
+- [Don&#39;t use “dependencies” in lazy.nvim](https://dev.to/delphinus35/dont-use-dependencies-in-lazynvim-4bk0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
