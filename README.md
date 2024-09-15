@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Created a Tool — Medium2Markdown](https://dev.to/aws-builders/how-i-created-a-tool-medium2markdown-40k)
-- [Git: Why Version Control is a Developer&#39;s Best Friend](https://dev.to/malikhaziq/git-why-version-control-is-a-developers-best-friend-3fmh)
-- [Canceling a Coroutine Simplified ❌](https://dev.to/waqas334/canceling-a-coroutine-simplified-amo)
-- [Avoid AWS Billing Surprises: Simplify Cloud FinOps](https://dev.to/mr-ashishpanda/avoid-aws-billing-surprises-simplify-cloud-finops-4jji)
-- [How I lost potential clients because of a Nextjs Server Action](https://dev.to/yoadev/how-i-lost-potential-customers-because-of-a-nextjs-server-action-4m70)
+- [Create Your Professional Resume Website with GitHub and Quarto](https://dev.to/mckabue/create-your-professional-resume-website-with-github-and-quarto-2ip0)
+- [Arithmetic with Uncertainty](https://dev.to/wjlewis/arithmetic-with-uncertainty-4pm5)
+- [Box Model in CSS: The Ultimate Guide to Crafting Precise Layouts](https://dev.to/areeb_anwar_813df06ee1124/box-model-in-css-the-ultimate-guide-to-crafting-precise-layouts-46bo)
+- [Building Real-Time Applications with Socket.io](https://dev.to/kartikmehta8/building-real-time-applications-with-socketio-51c0)
+- [Quick tip: Build Vector Embeddings for Video via Python Notebook &amp; OpenAI CLIP](https://dev.to/singlestore/quick-tip-build-vector-embeddings-for-video-via-python-notebook-openai-clip-24d9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
