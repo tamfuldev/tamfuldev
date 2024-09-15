@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Pooling AMQP TLS connections in Elixir for high throughput and low latency](https://dev.to/darnahsan/pooling-amqp-tls-connections-in-elixir-for-high-throughput-and-low-latency-3pgb)
-- [How do DBAs get promoted in the workplace](https://dev.to/urlewicz_aicha_d14af69bc8/how-do-dbas-get-promoted-in-the-workplace-3cb7)
-- [How AI is Becoming Your Best Friend &lpar;and Secret Weapon&rpar; as a Web Developer](https://dev.to/bhuwan71/how-ai-is-becoming-your-best-friend-and-secret-weapon-as-a-web-developer-2hk3)
-- [Building Scalable SaaS Solutions with Spring Boot](https://dev.to/virajlakshitha/building-scalable-saas-solutions-with-spring-boot-31kd)
-- [XRPL: Console log the ledger index](https://dev.to/ithinkobjects/xrpl-console-log-the-ledger-index-17c6)
+- [Writing Better React Code: A Guide to Clean, Efficient Practices](https://dev.to/vyan/writing-better-react-code-a-guide-to-clean-efficient-practices-1h5l)
+- [CSS Flexbox: Building a Pricing Table](https://dev.to/tailwine/css-flexbox-building-a-pricing-table-1ef5)
+- [Ten tips from 40-year-old DBAs for younger DBAs](https://dev.to/urlewicz_aicha_d14af69bc8/ten-tips-from-40-year-old-dbas-for-younger-dbas-48ij)
+- [Discovering Computer Science: My Path Through CS50x with Projectstake Academy](https://dev.to/odewale-emmanuel/discovering-computer-science-my-path-through-cs50x-with-projectstake-academy-5h9h)
+- [AvgPool1d&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/avgpool1d-in-pytorch-k7e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
