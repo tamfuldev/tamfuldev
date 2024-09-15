@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Spring Boot RestTemplate postForEntity method](https://dev.to/realnamehidden1_61/spring-boot-resttemplate-postforentity-method-4l25)
-- [C# Tip: Required Members](https://dev.to/juarezasjunior/c-tip-required-members-14el)
-- [Building a bill splitting app - splitBhai &lpar;1/n&rpar; as a side project](https://dev.to/abhishek_writes/building-a-bill-splitting-app-splitbhai-1n-as-a-side-project-4p27)
-- [How to solve dual write problem in NestJS?](https://dev.to/axotion/how-to-solve-dual-write-problem-in-nestjs-hbp)
-- [Don&#39;t use “dependencies” in lazy.nvim](https://dev.to/delphinus35/dont-use-dependencies-in-lazynvim-4bk0)
+- [Views no DRF: Funções ou classes? A escolha simples](https://dev.to/lmancini/views-no-drf-funcoes-ou-classes-a-escolha-simples-4jge)
+- [Kako se Pripremiti za Intervju za React Developera?](https://dev.to/jelena_petkovic/kako-se-pripremiti-za-intervju-za-react-developera-1e5a)
+- [In the future, will it be possible to have links on the Codeberg dev community profile or on Gitlab?](https://dev.to/sc0v0ne/in-the-future-will-it-be-possible-to-have-links-on-the-codeberg-dev-community-profile-or-on-gitlab-4hdn)
+- [Social network X &lpar;Twitter&rpar; was banned in Brazil and is it possible to have new links?](https://dev.to/sc0v0ne/social-network-x-twitter-was-banned-in-brazil-and-is-it-possible-to-have-new-links-3k6e)
+- [Partnership between Dev Community and Kaggle to help writers with their notebooks?](https://dev.to/sc0v0ne/partnership-between-dev-community-and-kaggle-to-help-writers-with-their-notebooks-5e66)
 <!-- BLOG-POST-LIST:END -->
 
 ---
