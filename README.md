@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Writing Better React Code: A Guide to Clean, Efficient Practices](https://dev.to/vyan/writing-better-react-code-a-guide-to-clean-efficient-practices-1h5l)
-- [CSS Flexbox: Building a Pricing Table](https://dev.to/tailwine/css-flexbox-building-a-pricing-table-1ef5)
-- [Ten tips from 40-year-old DBAs for younger DBAs](https://dev.to/urlewicz_aicha_d14af69bc8/ten-tips-from-40-year-old-dbas-for-younger-dbas-48ij)
-- [Discovering Computer Science: My Path Through CS50x with Projectstake Academy](https://dev.to/odewale-emmanuel/discovering-computer-science-my-path-through-cs50x-with-projectstake-academy-5h9h)
-- [AvgPool1d&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/avgpool1d-in-pytorch-k7e)
+- [Secure AWS API Gateway with IAM](https://dev.to/adilansari/secure-aws-api-gateway-with-iam-3n29)
+- [Mastering Command-Line Interfaces &lpar;CLI&rpar; in Python: A Comprehensive Guide](https://dev.to/usooldatascience/mastering-command-line-interfaces-cli-in-python-a-comprehensive-guide-10bc)
+- [Efficient Database Management: How SQLynx Helps You Easily Navigate Big Data](https://dev.to/urlewicz_aicha_d14af69bc8/efficient-database-management-how-sqlynx-helps-you-easily-navigate-big-data-2dhi)
+- [Recipe Genie supercharged with AI](https://dev.to/komsenapati/recipe-genie-supercharged-with-ai-121l)
+- [Mastering Python’s argparse: A Comprehensive Guide for Beginners](https://dev.to/usooldatascience/mastering-pythons-argparse-a-comprehensive-guide-for-beginners-48fn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
