@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Visualize Data using Amazon Quick Sight](https://dev.to/safi-ullah/visualize-data-using-amazon-quick-sight-355c)
-- [The React Hooks Explained](https://dev.to/dianalanciano/the-react-hooks-explained-1mlh)
-- [Context in React](https://dev.to/singhpritpal04/context-in-react-20de)
-- [kubewall : A User-Friendly Kubernetes GUI Dashboard](https://dev.to/abhimanyu003/kubewall-a-user-friendly-kubernetes-gui-dashboard-43ik)
-- [My Journey in Mobile App Development: Completing the &quot;Mobile App Development Ecosystem&quot; Module](https://dev.to/iamrupambiswas/my-journey-in-mobile-app-development-completing-the-mobile-app-development-ecosystem-module-49j6)
+- [Laravel Auth Routes Tutorial](https://dev.to/kavya-sahai-god/laravel-auth-routes-tutorial-488c)
+- [Crafting Structured {JSON} Responses: Ensuring Consistent Output from any LLM 🦙🤖](https://dev.to/rishabdugar/crafting-structured-json-responses-ensuring-consistent-output-from-any-llm-l9h)
+- [How to Improve Your Negotiation Skills and Resolve Conflicts Effectively](https://dev.to/ivictormartin/how-to-improve-your-negotiation-skills-and-resolve-conflicts-effectively-4me2)
+- [Mastering Data Routing in Apache Camel: Leveraging the Splitter Pattern](https://dev.to/yanev/mastering-data-routing-in-apache-camel-leveraging-the-splitter-pattern-3g5)
+- [Package Manager Fight: npm vs pnpm vs npx vs yarn vs bun](https://dev.to/vsnikhilvs/package-manager-fight-npm-vs-pnpm-vs-npx-vs-yarn-vs-bun-569)
 <!-- BLOG-POST-LIST:END -->
 
 ---
