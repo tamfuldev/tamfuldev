@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Cube 3D animation](https://dev.to/babar_ali/cube-3d-animation-3km8)
-- [RNN - Recurrent Neural Network](https://dev.to/ragoli86/rnn-recurrent-neural-network-2mml)
-- [Automate Uploading Security Scan Results to DefectDojo](https://dev.to/sirlawdin/automate-uploading-security-scan-results-to-defectdojo-7e4)
-- [Catching useful errors when parsing JSON fails in Swift](https://dev.to/acodeguy/catching-useful-errors-when-parsing-json-fails-in-swift-4lj1)
-- [Managing Rate Limiting](https://dev.to/abhishekjaiswal_4896/managing-rate-limiting-31bd)
+- [JavaScript Array Methods: A Comprehensive Guide](https://dev.to/who_tf_cares/javascript-array-methods-a-comprehensive-guide-4966)
+- [ArgoCD - A GitOps continuous delivery &lpar;CD&rpar; tool: Day 43 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/argocd-a-gitops-continuous-delivery-cd-tool-day-43-of-50-days-devops-tools-series-3533)
+- [Evaluating A Machine Learning Classification Model](https://dev.to/chris22ozor/evaluating-a-machine-learning-classification-model-7m1)
+- [Play Store Pre-registration gotchas](https://dev.to/zlmr/play-store-pre-registration-gotchas-5h51)
+- [NestJS - criar um endpoint para upload de diversos arquivos](https://dev.to/leonardominora/nestjs-upload-e-armazenamento-local-de-arquivo-3gbn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
