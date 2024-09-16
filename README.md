@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Kubescape : Comprehensive Kubernetes Security from Development to Runtime](https://dev.to/farshad_nick/kubescape-comprehensive-kubernetes-security-from-development-to-runtime-2k80)
-- [Unlocking the Power of Ephemeral Environments with Devtron](https://dev.to/devtron_inc/unlocking-the-power-of-ephemeral-environments-with-devtron-3bp7)
-- [Implementing Contextual Binding at Compile Time for Payment Processing in Laravel 11](https://dev.to/websilvercraft/implementing-contextual-binding-at-compile-time-for-payment-processing-in-laravel-11-3h9g)
-- [Proven Tips to Optimize Performance in Your Next.js App ⚡️](https://dev.to/alisamir/proven-tips-to-optimize-performance-in-your-nextjs-app-lpc)
-- [How to Easily Use Feature Flags in Swift with Firebase](https://dev.to/silviaespanagil/how-to-easily-use-feature-flags-in-swift-with-firebase-1g4)
+- [RSpec Stubs The Object In Memory](https://dev.to/kevin_j_m/rspec-stubs-the-object-in-memory-d8)
+- [Building a RAG with Supabase Vector &amp; OpenAI](https://dev.to/dilutewater/building-a-rag-with-supabase-vector-openai-2ag2)
+- [Must-Have Browser Extensions for Front-End Developers in 2024](https://dev.to/balrajola/must-have-browser-extensions-for-front-end-developers-in-2024-38kk)
+- [C# Tip: Raw String Literals with Interpolation](https://dev.to/juarezasjunior/c-tip-raw-string-literals-with-interpolation-27k3)
+- [Built with Astro, Crystallize, and Stripe &lpar;Nerd Streetwear Online Store&rpar; Part I](https://dev.to/cookieduster_n/built-with-astro-crystallize-and-stripe-nerd-streetwear-online-store-part-i-15a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
