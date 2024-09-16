@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Dự án cuối cùng - Final Project](https://dev.to/huydanggdg/du-an-cuoi-cung-final-project-49ek)
+- [Mastering Nivo Charts: A Comprehensive Guide to Data Visualization](https://dev.to/creowistech/mastering-nivo-charts-a-comprehensive-guide-to-data-visualization-159d)
 - [✍️ Code Comments](https://dev.to/oscareduardolp6/code-comments-45le)
 - [Draw Diagrams in READMEs using Mermaid](https://dev.to/farisdurrani/draw-diagrams-in-readmes-using-mermaid-1c49)
 - [Creating Dynamic Routes With Metadata in Next.Js](https://dev.to/nifty-little-me/creating-dynamic-routes-with-metadata-in-nextjs-2i1k)
-- [Optimal Strategies for Storing Images in React Applications: Best Practices and Examples](https://dev.to/yugjadvani/optimal-strategies-for-storing-images-in-react-applications-best-practices-and-examples-3050)
-- [How to Scale Node.js Applications in Production](https://dev.to/toufiqur_rahman_tamkin/how-to-scale-nodejs-applications-in-production-cpp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
