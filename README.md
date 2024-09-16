@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Top Models Like DALL-E 3 Are Accidentally Stealing Superheroes &lpar;And What We Can Do About It&rpar;](https://dev.to/shagun_mistry/how-top-models-like-dall-e-3-are-accidentally-stealing-superheroes-and-what-we-can-do-about-it-1c8j)
-- [How to Turn On Chrome OS Developer Mode: Step-by-Step Guide &lpar;2024&rpar;](https://dev.to/codesolutionshub/how-to-turn-on-chrome-os-developer-mode-step-by-step-guide-2024-190j)
-- [my journey with next,js and django for the past two weeks.](https://dev.to/elvis_munene_eaa0c75fb775/my-journey-with-nextjs-and-django-for-the-past-two-weeks-nd6)
-- [Dropout&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/dropout-in-pytorch-g3d)
-- [YouTube Subscribe Count](https://dev.to/babar_ali/youtube-subscribe-count-5dmj)
+- [Are JavaScript Libraries Getting Out of Hand?](https://dev.to/ife_oluwa/are-javascript-libraries-getting-out-of-hand-7lj)
+- [Dashing to the dashboard!](https://dev.to/codecara/dashing-to-the-dashboard-4i4n)
+- [Day 7. First week](https://dev.to/kiolk/day-7-first-week-4a2p)
+- [MuleSoft Associate Certification: Essential Tips and Key Concepts](https://dev.to/ayoub_alouane/mulesoft-associate-certification-essential-tips-and-key-concepts-201c)
+- [How to Use Shadow DOM and Honeypots to Deter Crawlers](https://dev.to/brinobruno/how-to-use-shadow-dom-and-honeypots-to-deter-crawlers-5831)
 <!-- BLOG-POST-LIST:END -->
 
 ---
