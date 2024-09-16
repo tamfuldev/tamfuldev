@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing Between MEAN and MERN. Key Differences in 4 Words](https://dev.to/shahfazleelahi/choosing-between-mean-and-mern-key-differences-in-4-words-10hc)
-- [Clean Code: Um Clássico ou um Manual de Burocracia?](https://dev.to/matheuslf/clean-code-um-classico-ou-um-manual-de-burocracia-15mn)
-- [WICK-A11Y Chapter 1.2.1 - Voice Support: The Accessibility Cypress Plugin that Talks More Than John Wick in His Movies](https://dev.to/sebastianclavijo/wick-a11y-v121-voice-the-accessibility-cypress-plugin-that-talks-more-than-john-wick-in-his-movies-8c8)
-- [AvgPool3d&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/avgpool3d-in-pytorch-4bb5)
-- [Automating Monthly Data Deletion for Aurora MySQL with ECS, EventBridge, and DynamoDB](https://dev.to/suzuki0430/automating-monthly-data-deletion-for-aurora-mysql-with-ecs-eventbridge-and-dynamodb-4kbc)
+- [# 🚀 Some Steps to Go from Junior to High Level Developer 🧑‍💻👩‍💻](https://dev.to/gadekar_sachin/-some-steps-to-go-from-junior-to-high-level-developer-4304)
+- [How Boring It Is to Write Articles or Talk to Certain Types of Developers These Days.](https://dev.to/tauantcamargo/how-boring-it-is-to-write-articles-or-talk-to-certain-types-of-developers-these-days-2an9)
+- [Solar System Challenge](https://dev.to/stephanie_dennehy/solar-system-challenge-29fe)
+- [understanding chmod 777](https://dev.to/scorcism/understanding-chmod-777-3pm4)
+- [Discovering AWS CodeWhisperer: Automatically Generate Code Suggestions](https://dev.to/bambadij/discovering-aws-codewhisperer-automatically-generate-code-suggestions-31g2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
