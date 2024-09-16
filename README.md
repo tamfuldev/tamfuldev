@@ -16,7 +16,7 @@
 # Latest stack oveflow activity
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><tr><td>The problem of moving a variable to another page</td><td>https://stackoverflow.com/questions/78989481/the-problem-of-moving-a-variable-to-another-page</td></tr><tr><td>codeigniter 3 merge 2 table with pagination</td><td>https://stackoverflow.com/questions/78989462/codeigniter-3-merge-2-table-with-pagination</td></tr><tr><td>Determining Entropy in PHP</td><td>https://stackoverflow.com/questions/78989383/determining-entropy-in-php</td></tr><tr><td>php CodeIgnitor dynamic content passing to Views</td><td>https://stackoverflow.com/questions/78989103/php-codeignitor-dynamic-content-passing-to-views</td></tr><tr><td>Cockroachdb pg_connect&lpar;&rpar;</td><td>https://stackoverflow.com/questions/78988902/cockroachdb-pg-connect</td></tr><!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:START --><tr><td>Pimcore read object entity</td><td>https://stackoverflow.com/questions/78989686/pimcore-read-object-entity</td></tr><tr><td>Set Python Environment and Execute Python Code in PHP Script</td><td>https://stackoverflow.com/questions/78989606/set-python-environment-and-execute-python-code-in-php-script</td></tr><tr><td>The problem of moving a variable to another page [duplicate]</td><td>https://stackoverflow.com/questions/78989481/the-problem-of-moving-a-variable-to-another-page</td></tr><tr><td>codeigniter 3 merge 2 table with pagination</td><td>https://stackoverflow.com/questions/78989462/codeigniter-3-merge-2-table-with-pagination</td></tr><tr><td>Determining Entropy in PHP</td><td>https://stackoverflow.com/questions/78989383/determining-entropy-in-php</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 
 ---
