@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [# 🚀 Some Steps to Go from Junior to High Level Developer 🧑‍💻👩‍💻](https://dev.to/gadekar_sachin/-some-steps-to-go-from-junior-to-high-level-developer-4304)
-- [How Boring It Is to Write Articles or Talk to Certain Types of Developers These Days.](https://dev.to/tauantcamargo/how-boring-it-is-to-write-articles-or-talk-to-certain-types-of-developers-these-days-2an9)
-- [Solar System Challenge](https://dev.to/stephanie_dennehy/solar-system-challenge-29fe)
-- [understanding chmod 777](https://dev.to/scorcism/understanding-chmod-777-3pm4)
-- [Discovering AWS CodeWhisperer: Automatically Generate Code Suggestions](https://dev.to/bambadij/discovering-aws-codewhisperer-automatically-generate-code-suggestions-31g2)
+- [✍️ Code Comments](https://dev.to/oscareduardolp6/code-comments-45le)
+- [Draw Diagrams in READMEs using Mermaid](https://dev.to/farisdurrani/draw-diagrams-in-readmes-using-mermaid-1c49)
+- [Creating Dynamic Routes With Metadata in Next.Js](https://dev.to/nifty-little-me/creating-dynamic-routes-with-metadata-in-nextjs-2i1k)
+- [Optimal Strategies for Storing Images in React Applications: Best Practices and Examples](https://dev.to/yugjadvani/optimal-strategies-for-storing-images-in-react-applications-best-practices-and-examples-3050)
+- [How to Scale Node.js Applications in Production](https://dev.to/toufiqur_rahman_tamkin/how-to-scale-nodejs-applications-in-production-cpp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
