@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [RSpec Stubs The Object In Memory](https://dev.to/kevin_j_m/rspec-stubs-the-object-in-memory-d8)
-- [Building a RAG with Supabase Vector &amp; OpenAI](https://dev.to/dilutewater/building-a-rag-with-supabase-vector-openai-2ag2)
-- [Must-Have Browser Extensions for Front-End Developers in 2024](https://dev.to/balrajola/must-have-browser-extensions-for-front-end-developers-in-2024-38kk)
-- [C# Tip: Raw String Literals with Interpolation](https://dev.to/juarezasjunior/c-tip-raw-string-literals-with-interpolation-27k3)
-- [Built with Astro, Crystallize, and Stripe &lpar;Nerd Streetwear Online Store&rpar; Part I](https://dev.to/cookieduster_n/built-with-astro-crystallize-and-stripe-nerd-streetwear-online-store-part-i-15a)
+- [AIM Weekly for 16 Sept 2024](https://dev.to/tspannhw/aim-weekly-for-16-sept-2024-236h)
+- [What is AWS and How Can It Transform Your Cloud Infrastructure?](https://dev.to/eva_rossi/what-is-aws-and-how-can-it-transform-your-cloud-infrastructure-3m17)
+- [Mastering the Event Loop for High-Performance JavaScript](https://dev.to/sarvabharan/mastering-the-event-loop-for-high-performance-javascript-2754)
+- [Pure Function in JavaScript](https://dev.to/nozibul_islam_113b1d5334f/pure-function-in-javascript-3ck)
+- [Kubernetes- Advanced Concepts](https://dev.to/akhil_mittal/kubernetes-advanced-concepts-4anf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
