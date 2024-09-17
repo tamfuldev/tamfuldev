@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [10 sec for UX Design Principles.](https://dev.to/enigmade/10-sec-for-ux-design-principles-31in)
-- [private vs #private](https://dev.to/old-starchy/private-vs-private-3cbd)
-- [Performing Audio and Video Testing on Real Devices](https://dev.to/grjoeay/performing-audio-and-video-testing-on-real-devices-22h2)
-- [JavaScript Essentials: Part 1](https://dev.to/otumianempire/javascript-essentials-part-1-39c1)
-- [Educational Leadership in the Age of AI: Pioneering the Future](https://dev.to/dms/educational-leadership-in-the-age-of-ai-pioneering-the-future-1ip1)
+- [Why should you work remotely](https://dev.to/remotewlb/why-should-you-work-remotely-3g99)
+- [Using ChatGPT o1 to write UI code with Elm](https://dev.to/jiwhiz/using-chatgpt-o1-to-write-ui-code-with-elm-2cb7)
+- [Understanding Stack as an Abstract Data Type](https://dev.to/adityabhuyan/understanding-stack-as-an-abstract-data-type-2jo3)
+- [How can I test a Pull Request before merging it?](https://dev.to/ajeetraina/how-can-i-test-a-pull-request-before-merging-it-2g9a)
+- [Spring Boot RestTemplate getForEntity method](https://dev.to/realnamehidden1_61/spring-boot-resttemplate-getforentity-method-4oe4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
