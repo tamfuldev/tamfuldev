@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [10 sec for UX Design Principles.](https://dev.to/enigmade/10-sec-for-ux-design-principles-31in)
 - [private vs #private](https://dev.to/old-starchy/private-vs-private-3cbd)
 - [Performing Audio and Video Testing on Real Devices](https://dev.to/grjoeay/performing-audio-and-video-testing-on-real-devices-22h2)
 - [JavaScript Essentials: Part 1](https://dev.to/otumianempire/javascript-essentials-part-1-39c1)
 - [Educational Leadership in the Age of AI: Pioneering the Future](https://dev.to/dms/educational-leadership-in-the-age-of-ai-pioneering-the-future-1ip1)
-- [Decoding Power Dynamics with the 48 Laws](https://dev.to/susheel_kumar/decoding-power-dynamics-with-the-48-laws-43pm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
