@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t wait for your feelings to take the action. Take the action and your feelings will change.](https://dev.to/young_afis_a794c45f59671d/dont-wait-for-your-feelings-to-take-the-action-take-the-action-and-your-feelings-will-change-4jnm)
-- [Pergunte ao especialista - Funções virtuais](https://dev.to/devsjavagirls/pergunte-ao-especialista-funcoes-virtuais-221o)
-- [Métodos sobrepostos dão suporte ao polimorfismo](https://dev.to/devsjavagirls/metodos-sobrepostos-dao-suporte-ao-polimorfismo-457j)
-- [Sobreposição de métodos](https://dev.to/devsjavagirls/sobreposicao-de-metodos-1921)
-- [Referências da superclasse e objetos da subclasse](https://dev.to/devsjavagirls/referencias-da-superclasse-e-objetos-da-subclasse-2d45)
+- [Introducing RefactorCode - Enhance your code with a single command 👨‍💻](https://dev.to/bregwin/introducing-refactorcode-enhance-your-code-with-a-single-command-4982)
+- [Issue 62 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-62-of-aws-cloud-security-weekly-4iji)
+- [Algorithm Analysis](https://dev.to/gabrieldantasds/algorithm-analysis-3904)
+- [Genereadme v0.1 release](https://dev.to/cleobnvntra/genereadme-v01-release-1dm3)
+- [Génération de Diagrammes de Classe avec Laravel ER Diagram Generator](https://dev.to/developpeurtaf/generation-de-diagrammes-de-classe-avec-laravel-er-diagram-generator-6j7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
