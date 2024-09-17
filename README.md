@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Streamlining Route Data Binding with Angular Signal inputs](https://dev.to/mustapha/streamlining-route-data-binding-with-angular-signal-inputs-hea)
-- [Manuals and Specifications: Your Guide to Mastering JavaScript](https://dev.to/codenextgen/manuals-and-specifications-your-guide-to-mastering-javascript-349b)
-- [Stay Updated with PHP/Laravel: Weekly News Summary &lpar;09/09/2024-15/09/2024](https://dev.to/poovarasu/stay-updated-with-phplaravel-weekly-news-summary-09092024-15092024-55h1)
-- [Implement mTLS on AWS ALB with Self-Signed Certificates](https://dev.to/aws-builders/implement-mtls-on-aws-alb-with-self-signed-certificates-9bf)
-- [Understanding Sorting in MongoDB: A Beginner&#39;s Guide](https://dev.to/hakimmohamed/understanding-sorting-in-mongodb-a-beginners-guide-3po4)
+- [Integrating AI in Software Testing: The Future is Here](https://dev.to/ann55/integrating-ai-in-software-testing-the-future-is-here-2l33)
+- [Optimizing Java Heap Setting for AWS ECS](https://dev.to/mikhail-m1/optimizing-java-heap-setting-for-aws-ecs-5df6)
+- [So how does Pull requests work again? OSD600#3](https://dev.to/bregwin/so-how-does-pull-requests-work-again-osd6003-19o3)
+- [884. Uncommon Words from Two Sentences](https://dev.to/mdarifulhaque/884-uncommon-words-from-two-sentences-2p3d)
+- [I asked AI to write world&#39;s longest word, results were quite....](https://dev.to/ananyapaw/i-asked-ai-to-write-worlds-longest-word-results-were-quite-157c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
