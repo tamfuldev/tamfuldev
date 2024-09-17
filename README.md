@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Developers Destroy Brain Health](https://dev.to/ssukhpinder/how-developers-destroy-brain-health-4kgd)
-- [Let’s build an AI app - pt. 2](https://dev.to/savannah_norem/lets-build-an-ai-app-pt-2-2e77)
-- [Six Key Every CEO Should Know About Generative AI](https://dev.to/nisargshah/six-key-every-ceo-should-know-about-generative-ai-53bj)
-- [Dive into Systems: Explore Cutting-Edge Courses on Microcontrollers, Real-Time Systems, and Distributed Computing](https://dev.to/getvm/dive-into-systems-explore-cutting-edge-courses-on-microcontrollers-real-time-systems-and-distributed-computing-42i1)
-- [IaC Security Analysis: Checkov vs. tfsec vs. Terrascan – A Comparative Evaluation](https://dev.to/anshul_kichara/iac-security-analysis-checkov-vs-tfsec-vs-terrascan-a-comparative-evaluation-2a1g)
+- [Hoisting in JavaScript](https://dev.to/nozibul_islam_113b1d5334f/hoisting-in-javascript-i3p)
+- [Revolutionize Your Workflow: Expert Tips to Supercharge Linux Containers for Blazing-Fast Real-Time and I/O Performance](https://dev.to/emilyjohnsonready/revolutionize-your-workflow-expert-tips-to-supercharge-linux-containers-for-blazing-fast-real-time-and-io-performance-29hl)
+- [A Step-by-Step Guide to String Concatenation in JavaScript](https://dev.to/javatpoint123/a-step-by-step-guide-to-string-concatenation-in-javascript-1h3a)
+- [🚀 Low-Code/No-Code: The Future of Development is Here 🛠️](https://dev.to/hamzakhan/low-codeno-code-the-future-of-development-is-here-3c2d)
+- [Why is &#39;main&#39; function static?](https://dev.to/houdabelhad1/why-is-main-function-static-2l72)
 <!-- BLOG-POST-LIST:END -->
 
 ---
