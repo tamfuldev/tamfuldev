@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why should you work remotely](https://dev.to/remotewlb/why-should-you-work-remotely-3g99)
-- [Using ChatGPT o1 to write UI code with Elm](https://dev.to/jiwhiz/using-chatgpt-o1-to-write-ui-code-with-elm-2cb7)
-- [Understanding Stack as an Abstract Data Type](https://dev.to/adityabhuyan/understanding-stack-as-an-abstract-data-type-2jo3)
-- [How can I test a Pull Request before merging it?](https://dev.to/ajeetraina/how-can-i-test-a-pull-request-before-merging-it-2g9a)
-- [Spring Boot RestTemplate getForEntity method](https://dev.to/realnamehidden1_61/spring-boot-resttemplate-getforentity-method-4oe4)
+- [FluxCD - A lightweight GitOps CD tool: Day 44 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/fluxcd-a-lightweight-gitops-cd-tool-day-44-of-50-days-devops-tools-series-1p0h)
+- [🌐 SSL Certificates and How to Implement Them in Your Website 🔐](https://dev.to/gadekar_sachin/ssl-certificates-and-how-to-implement-them-in-your-website-gmp)
+- [Container Image Management Workflow with Amazon ECR](https://dev.to/sachithmayantha/container-image-management-workflow-with-amazon-ecr-2i3b)
+- [🎵 Spotify&#39;s AI DJ: How AWS is Turning Big Data into Your Personal Playlist 🎧](https://dev.to/nislamov/spotifys-ai-dj-how-aws-is-turning-big-data-into-your-personal-playlist-223c)
+- [Tailwind CSS: Handling Forms and Inputs](https://dev.to/tailwine/tailwind-css-handling-forms-and-inputs-5a37)
 <!-- BLOG-POST-LIST:END -->
 
 ---
