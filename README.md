@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Micro Frontends with Vite, React, and TypeScript: A Step-by-Step Guide](https://dev.to/nik-bogachenkov/building-micro-frontends-with-vite-react-and-typescript-a-step-by-step-guide-3f7n)
-- [Introduction to Solana: A fledging&#39;s guide on Web3 development on Solana](https://dev.to/aseneca/introduction-to-solana-a-fledgings-guide-on-web3-development-on-solana-1jg3)
-- [How I ended up caring about my Terminal + IDE + Vim as a Jr. Dev](https://dev.to/lord_sinquadd/how-i-ended-up-caring-about-my-terminal-ide-vim-as-a-jr-dev-5552)
-- [CBJS: Access Control 3](https://dev.to/peppa6/cbjs-access-control-3-2che)
-- [Learn how to choose your &lpar;digital&rpar; 3D art / animation software and the basics](https://dev.to/vash000/learn-how-to-choose-your-digital-3d-art-animation-software-and-the-basics-5en8)
+- [🤖 Mastering AI, Machine Learning, and Deep Learning: A Complete Guide for Developers](https://dev.to/mirzahanzla/mastering-ai-machine-learning-and-deep-learning-a-complete-guide-for-developers-4kmh)
+- [DevOps State-of-the-art handover artifacts, do they even exist?](https://dev.to/sommer/devops-state-of-the-art-handover-artifacts-do-they-even-exist-1lgb)
+- [Top Ten Benefits Of DevOps Maturity Model To Opt In 2024](https://dev.to/piya__c204c9e90/top-ten-benefits-of-devops-maturity-model-to-opt-in-2024-19b9)
+- [🌟 Mastering Clean and Maintainable Code: Best Practices for Developers Worldwide](https://dev.to/mirzahanzla/mastering-clean-and-maintainable-code-best-practices-for-developers-worldwide-4n1o)
+- [5 Open Source Python Projects You Should Know About in 2024](https://dev.to/balrajola/5-open-source-python-projects-you-should-know-about-in-2024-1bd9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
