@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Database Sharding in MySQL: A Comprehensive Guide](https://dev.to/wallacefreitas/database-sharding-in-mysql-a-comprehensive-guide-2hag)
-- [Prometheus Remote Write](https://dev.to/last9/prometheus-remote-write-51n6)
-- [Introducing KubeAI: Open AI Inference Operator](https://dev.to/samos123/introducing-kubeai-open-ai-inference-operator-4hm3)
-- [open-source project](https://dev.to/mutalibb/open-source-project-2b43)
-- [The 5 most transformative JavaScript features from ES12](https://dev.to/safdarali/the-5-most-transformative-javascript-features-from-es12-o4g)
+- [Request for Resume Review - Frontend Developer](https://dev.to/shubham_oza_a55eb3f5f2ee8/request-for-resume-review-frontend-developer-2pem)
+- [Amazon RDS Read Replica](https://dev.to/clintt/amazon-rds-read-replica-fe5)
+- [Benefits of Next.js Compared to React.js](https://dev.to/its_kundan/benefits-of-nextjs-compared-to-reactjs-d1g)
+- [Micro front-end module federation: Aplicação extensível](https://dev.to/wandealves/micro-front-end-module-federation-aplicacao-extensivel-3flc)
+- [Building a Robust API Layer with TypeScript, Tanstack Query, Zod, and Zodios](https://dev.to/santhanam87/building-a-robust-api-layer-with-typescript-tanstack-query-zod-and-zodios-1jg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
