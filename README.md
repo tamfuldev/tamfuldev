@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [FluxCD - A lightweight GitOps CD tool: Day 44 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/fluxcd-a-lightweight-gitops-cd-tool-day-44-of-50-days-devops-tools-series-1p0h)
-- [🌐 SSL Certificates and How to Implement Them in Your Website 🔐](https://dev.to/gadekar_sachin/ssl-certificates-and-how-to-implement-them-in-your-website-gmp)
-- [Container Image Management Workflow with Amazon ECR](https://dev.to/sachithmayantha/container-image-management-workflow-with-amazon-ecr-2i3b)
-- [🎵 Spotify&#39;s AI DJ: How AWS is Turning Big Data into Your Personal Playlist 🎧](https://dev.to/nislamov/spotifys-ai-dj-how-aws-is-turning-big-data-into-your-personal-playlist-223c)
-- [Tailwind CSS: Handling Forms and Inputs](https://dev.to/tailwine/tailwind-css-handling-forms-and-inputs-5a37)
+- [How Developers Destroy Brain Health](https://dev.to/ssukhpinder/how-developers-destroy-brain-health-4kgd)
+- [Let’s build an AI app - pt. 2](https://dev.to/savannah_norem/lets-build-an-ai-app-pt-2-2e77)
+- [Six Key Every CEO Should Know About Generative AI](https://dev.to/nisargshah/six-key-every-ceo-should-know-about-generative-ai-53bj)
+- [Dive into Systems: Explore Cutting-Edge Courses on Microcontrollers, Real-Time Systems, and Distributed Computing](https://dev.to/getvm/dive-into-systems-explore-cutting-edge-courses-on-microcontrollers-real-time-systems-and-distributed-computing-42i1)
+- [IaC Security Analysis: Checkov vs. tfsec vs. Terrascan – A Comparative Evaluation](https://dev.to/anshul_kichara/iac-security-analysis-checkov-vs-tfsec-vs-terrascan-a-comparative-evaluation-2a1g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
