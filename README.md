@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Powered Bot using Vectorized knowledge Architecture](https://dev.to/ragoli86/ai-powered-bot-using-vectorized-knowledge-architecture-4f76)
-- [First Interaction With Open Source](https://dev.to/amullagaliev/first-interaction-with-open-source-3k92)
-- [Explainer.js Release v0.1.0!](https://dev.to/aamfahim/explainerjs-release-v010-32cl)
-- [My Journey with AI-Assisted JavaScript Learning](https://dev.to/reilly-s/my-journey-with-ai-assisted-javascript-learning-38dm)
-- [Failures of a CI/CD Without Test Environments: Impact on ERP Project Agility](https://dev.to/abdellatif_benzbiria_b46c/failures-of-a-cicd-without-test-environments-impact-on-erp-project-agility-4ace)
+- [Managing dependencies like a pro in Android with version catalogs](https://dev.to/leadpresence/managing-dependencies-like-a-pro-in-android-with-version-catalogs-54mf)
+- [Será mesmo que NoSQL pode resolver seus problemas?](https://dev.to/joaodest/sera-mesmo-que-nosql-pode-resolver-seus-problemas-343g)
+- [Será mesmo que NoSQL pode resolver seus problemas?](https://dev.to/joaodest/sera-mesmo-que-nosql-pode-resolver-seus-problemas-147l)
+- [🎁 Special Birthday Announcements: Free Course, AWS Group, and CNCF Discount! 🎁](https://dev.to/lakhera2015/special-birthday-announcements-free-course-aws-group-and-cncf-discount-1e46)
+- [I hacked web3 wallet!](https://dev.to/topninja/i-hacked-web3-wallet-15e4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
