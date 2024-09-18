@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to make Image rotate on hover using HTML and CSS](https://dev.to/kaja_uvais_a8691e947dd399/how-to-make-image-rotate-on-hover-using-html-and-css-1d49)
-- [Enabling PHP 8.1 in Apache 2 with Ansible: A Step-by-Step Guide](https://dev.to/devops_den/enabling-php-81-in-apache-2-with-ansible-a-step-by-step-guide-agg)
-- [Push Docker Images to Docker Hub Directly Using CLI: A Complete Guide](https://dev.to/s3cloudhub/push-docker-images-to-docker-hub-directly-using-cli-a-complete-guide-2ep0)
-- [Event-Driven Microservices in .NET 8 Using Azure Service Bus](https://dev.to/viitorcloud/event-driven-microservices-in-net-8-using-azure-service-bus-2ig7)
-- [Empowering Enterprise Developers: A Deep Dive into Tools and Resources](https://dev.to/patoliyainfotech/empowering-enterprise-developers-a-deep-dive-into-tools-and-resources-50m5)
+- [Modules Loadings in angular](https://dev.to/comedy_hub_1acffe1c00ffbf/loadings-in-angular-13jk)
+- [Plug-and-Play Animations: Crafting Lively Websites with asterisk/ui Components](https://dev.to/abhiroopc/plug-and-play-animations-crafting-lively-websites-with-asteriskui-components-50ja)
+- [20 Best Chrome Extensions for Developers in 2024](https://dev.to/nikhiltyagi04/20-best-chrome-extensions-for-developers-in-2024-224m)
+- [Using SQLynx for data comparison offers the following advantages:](https://dev.to/urlewicz_aicha_d14af69bc8/using-sqlynx-for-data-comparison-offers-the-following-advantages-cnc)
+- [Top Future Trends Shaping Azure IoT Hub in 2024 and Beyond](https://dev.to/enna/top-future-trends-shaping-azure-iot-hub-in-2024-and-beyond-54n0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
