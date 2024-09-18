@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Single Number I](https://dev.to/prashantrmishra/single-number-i-3fb7)
-- [&quot;Top 10 DevOps Tools You Can’t Live Without in 2024&quot;](https://dev.to/prodevopsguytech/top-10-devops-tools-you-cant-live-without-in-2024-3c1a)
-- [AWS S3 Upload API Implementation](https://dev.to/ohanhaliuk/aws-s3-upload-api-implementation-2g7f)
-- [Here are ten YouTube channels that focus on teaching about artificial intelligence:](https://dev.to/susheel_kumar/here-are-ten-youtube-channels-that-focus-on-teaching-about-artificial-intelligence-4n7e)
-- [Announcing Pylon 2.0 with Multiple Runtime Support](https://dev.to/schettn/announcing-pylon-20-with-multiple-runtime-support-4fik)
+- [🔍 Did you know that AWS CloudWatch Logs store logs indefinitely by default? - AWS Tip #1🔍](https://dev.to/lakhera2015/did-you-know-that-aws-cloudwatch-logs-store-logs-indefinitely-by-default-aws-tip-1-1gjc)
+- [🚀A Game Changer: Amazon Q Developer-The Future of Cloud Interaction🚀](https://dev.to/lakhera2015/a-game-changer-amazon-q-developer-the-future-of-cloud-interaction-555o)
+- [Build a Portfolio in Moments: Free Template Included! 🚀](https://dev.to/itshayder/build-a-portfolio-in-moments-free-template-included-266o)
+- [Conditional Logic Quick Bits: Requirements &amp; Edge Cases](https://dev.to/oculus42/conditional-logic-quick-bits-requirements-edge-cases-1ob8)
+- [Equivalence and Ordering of Options in Effect-TS: A Practical Guide](https://dev.to/almaclaine/equivalence-and-ordering-of-options-in-effect-ts-a-practical-guide-13di)
 <!-- BLOG-POST-LIST:END -->
 
 ---
