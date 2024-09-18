@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Custom GitHub Actions Enabled Us to Streamline Thousands of CI/CD Pipelines](https://dev.to/permit_io/how-custom-github-actions-enabled-us-to-streamline-thousands-of-cicd-pipelines-4pb0)
-- [A checklist and guide to get your repository collaboration-ready](https://dev.to/github/a-checklist-and-guide-to-get-your-repository-collaboration-ready-3eld)
-- [Understanding URL Path and Parameter Errors in API Testing](https://dev.to/kimberly_myers_212/understanding-url-path-and-parameter-errors-in-api-testing-27lg)
-- [Main Configuration Files for Frontend/Backend](https://dev.to/akhil_mittal/main-configuration-files-for-frontendbackend-552l)
-- [I create a custom Modal component in react + typescript.](https://dev.to/akram6t/i-create-a-custom-modal-component-in-react-typescript-37gf)
+- [Welcome to My Blog – A Journey of Learning and Growth!](https://dev.to/shiv-009-dev/welcome-to-my-blog-a-journey-of-learning-and-growth-530o)
+- [Embed a Full HTML Document Inline Using Shadow DOM](https://dev.to/gamesover/embed-a-full-html-document-inline-using-shadow-dom-5d5d)
+- [Directus Instance Dev](https://dev.to/ansango/directus-instance-dev-289d)
+- [Conditional Branching in JavaScript: `if`, `else`, and `?`](https://dev.to/codenextgen/conditional-branching-in-javascript-if-else-and--3d1n)
+- [Mastering JavaScript Comparisons: From Basics to Advanced](https://dev.to/codenextgen/mastering-javascript-comparisons-from-basics-to-advanced-2gj1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
