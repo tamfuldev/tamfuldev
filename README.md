@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Managing dependencies like a pro in Android with version catalogs](https://dev.to/leadpresence/managing-dependencies-like-a-pro-in-android-with-version-catalogs-54mf)
-- [Será mesmo que NoSQL pode resolver seus problemas?](https://dev.to/joaodest/sera-mesmo-que-nosql-pode-resolver-seus-problemas-343g)
-- [Será mesmo que NoSQL pode resolver seus problemas?](https://dev.to/joaodest/sera-mesmo-que-nosql-pode-resolver-seus-problemas-147l)
-- [🎁 Special Birthday Announcements: Free Course, AWS Group, and CNCF Discount! 🎁](https://dev.to/lakhera2015/special-birthday-announcements-free-course-aws-group-and-cncf-discount-1e46)
-- [I hacked web3 wallet!](https://dev.to/topninja/i-hacked-web3-wallet-15e4)
+- [Effortless Communication: Building an Automated Email Writing Service with OpenAI and Spring Boot](https://dev.to/virajlakshitha/effortless-communication-building-an-automated-email-writing-service-with-openai-and-spring-boot-3jie)
+- [How AI Can Help Get Your Content on Google&#39;s Front Page](https://dev.to/juddiy/how-ai-can-help-get-your-content-on-googles-front-page-30pb)
+- [Angular dependency injection using multi-providers](https://dev.to/nhannguyendevjs/angular-dependency-injection-using-multi-providers-mnh)
+- [Dive into Machine Learning: A Curated Collection of Free Programming Resources](https://dev.to/getvm/dive-into-machine-learning-a-curated-collection-of-free-programming-resources-1038)
+- [Effective Strategies for Testing Databases in FastAPI Applications](https://dev.to/greg_bessoni_e5b523ef53a3/effective-strategies-for-testing-databases-in-fastapi-applications-2nh5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
