@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to track React re-renders - why-did-you-render issues](https://dev.to/alexandre-emmanuel/how-to-track-react-re-renders-why-did-you-render-issues-10gc)
-- [Alert Popup not appearing on UI](https://dev.to/sur_bd56f8222701a94be2020/alert-popup-not-appearing-on-ui-3367)
-- [This stranger EventBus Mesh](https://dev.to/aws-builders/this-stranger-eventbus-mesh-5a67)
-- [Revolutionizing Productivity with Fello AI: Your Ultimate ChatGPT-Powered Assistant for Mac](https://dev.to/felloai/revolutionizing-productivity-with-fello-ai-your-ultimate-chatgpt-powered-assistant-for-mac-3i7j)
-- [Mastering Scoped CSS in Vue: Deep Selectors, Slotted Content, Global Styles, and More](https://dev.to/dharamgfx/mastering-scoped-css-in-vue-deep-selectors-slotted-content-global-styles-and-more-16p6)
+- [Save 1000 hours in development time. VSCode shortcuts &amp; Window Management](https://dev.to/matowang/save-1000-hours-in-development-time-vscode-shortcuts-window-management-5198)
+- [Convert insert mutation to upsert](https://dev.to/roalcantara/convert-insert-mutation-to-upsert-2n3n)
+- [Fixing vite error for reactjs - global is not defined and process is not defined](https://dev.to/rajinh24/fixing-vite-error-for-reactjs-global-is-not-defined-and-process-is-not-defined-4ffo)
+- [The Full-Stack Components Customization Pyramid](https://dev.to/novu/the-full-stack-components-customization-pyramid-5e72)
+- [Type Conversions in JavaScript: String, Numeric, and Boolean Conversions](https://dev.to/codenextgen/type-conversions-in-javascript-string-numeric-and-boolean-conversions-3i1g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
