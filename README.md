@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Work with Multidimensional Arrays in JavaScript](https://dev.to/who_tf_cares/how-to-work-with-multidimensional-arrays-in-javascript-9jl)
-- [Unlock the Power of AI with a Free Speech Writer: Your Ultimate Guide to AI-Powered Speechwriting](https://dev.to/fz_jtt_0d60fca652a4b/unlock-the-power-of-ai-with-a-free-speech-writer-your-ultimate-guide-to-ai-powered-speechwriting-3iba)
-- [Running WordPress on Containers](https://dev.to/erikaheidi/running-wordpress-on-containers-4blj)
-- [Automating Birthday Emails with Python](https://dev.to/iamrupambiswas/automating-birthday-emails-with-python-1g4m)
-- [Understanding Service Labels in Kubernetes: A Simple Guide to Swapping Backends](https://dev.to/josephcardillo/understanding-service-labels-in-kubernetes-a-simple-guide-to-swapping-backends-50hg)
+- [How Custom GitHub Actions Enabled Us to Streamline Thousands of CI/CD Pipelines](https://dev.to/permit_io/how-custom-github-actions-enabled-us-to-streamline-thousands-of-cicd-pipelines-4pb0)
+- [A checklist and guide to get your repository collaboration-ready](https://dev.to/github/a-checklist-and-guide-to-get-your-repository-collaboration-ready-3eld)
+- [Understanding URL Path and Parameter Errors in API Testing](https://dev.to/kimberly_myers_212/understanding-url-path-and-parameter-errors-in-api-testing-27lg)
+- [Main Configuration Files for Frontend/Backend](https://dev.to/akhil_mittal/main-configuration-files-for-frontendbackend-552l)
+- [I create a custom Modal component in react + typescript.](https://dev.to/akram6t/i-create-a-custom-modal-component-in-react-typescript-37gf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
