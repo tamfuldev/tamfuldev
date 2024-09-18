@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Is Carbon Language Moving Towards Success or Self-Destruction? A Case Study in Rapid Deployments](https://dev.to/middleware/is-carbon-language-moving-towards-success-or-self-destruction-a-case-study-in-rapid-deployments-3m50)
-- [Vector Databases vs Graph Databases: Which is Best for Retrieval-Augmented Generation &lpar;RAG&rpar;?](https://dev.to/abhinowww/vector-databases-vs-graph-databases-which-is-best-for-retrieval-augmented-generation-rag-157m)
-- [⚡Mencoba Komparasi Seberapa Kencang Performa Bun dibandingkan Node](https://dev.to/ferryops/mencoba-komparasi-seberapa-kencang-performa-bun-dibandingkan-node-3nl0)
-- [Exploring Azure Service Fabric: A Comprehensive Guide to Microservices Architecture](https://dev.to/adityabhuyan/exploring-azure-service-fabric-a-comprehensive-guide-to-microservices-architecture-1a15)
-- [The Hidden Costs of Skipping Feature Flags: A QA Nightmare Tale from AWS 🐛](https://dev.to/nislamov/the-hidden-costs-of-skipping-feature-flags-a-qa-nightmare-tale-from-aws-46o1)
+- [How to make Image rotate on hover using HTML and CSS](https://dev.to/kaja_uvais_a8691e947dd399/how-to-make-image-rotate-on-hover-using-html-and-css-1d49)
+- [Enabling PHP 8.1 in Apache 2 with Ansible: A Step-by-Step Guide](https://dev.to/devops_den/enabling-php-81-in-apache-2-with-ansible-a-step-by-step-guide-agg)
+- [Push Docker Images to Docker Hub Directly Using CLI: A Complete Guide](https://dev.to/s3cloudhub/push-docker-images-to-docker-hub-directly-using-cli-a-complete-guide-2ep0)
+- [Event-Driven Microservices in .NET 8 Using Azure Service Bus](https://dev.to/viitorcloud/event-driven-microservices-in-net-8-using-azure-service-bus-2ig7)
+- [Empowering Enterprise Developers: A Deep Dive into Tools and Resources](https://dev.to/patoliyainfotech/empowering-enterprise-developers-a-deep-dive-into-tools-and-resources-50m5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
