@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Tudo que Estudar, para se tornar uma Engenheira&lpar;o&rpar; de Software.](https://dev.to/thailanelopes/tudo-que-estudar-para-se-tornar-uma-engenheirao-de-software-3e61)
-- [From Fortresses to Fortbytes: Rethinking Cybersecurity in the Quantum Age](https://dev.to/muneeb0758/from-fortresses-to-fortbytes-rethinking-cybersecurity-in-the-quantum-age-5gle)
-- [Tutorial: Getting Started with @kubernetes-client/node](https://dev.to/turck/tutorial-getting-started-with-kubernetes-clientnode-4l78)
-- [Building a Neural Network from Scratch in Rust](https://dev.to/evolvedev/building-a-neural-network-from-scratch-in-rust-10aa)
-- [Benchmarking Pixtral 12B: MistralAI&#39;s New VLM](https://dev.to/aryankargwal/benchmarking-pixtral-12b-mistralais-new-vlm-ff)
+- [Search And &lpar;LLM&rpar; Transform](https://dev.to/pelikhan/search-and-llm-transform-lgn)
+- [Learn How To Create Resouce Groups And Cloud Storage Accounts on Microsoft Azure.](https://dev.to/dumka/learn-how-to-create-resouce-groups-and-cloud-storage-accounts-on-microsoft-azure-27k8)
+- [Top 10 Payment Processors for Next.js Applications [2024]](https://dev.to/ethanleetech/top-10-payment-processors-for-nextjs-applications-2024-1gmo)
+- [Building Offline-first Applications with React Native](https://dev.to/zidanegimiga/building-offline-first-applications-with-react-native-3626)
+- [System Design: CAP Theorem](https://dev.to/decoders_lord/system-design-cap-theorem-25d6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
