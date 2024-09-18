@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing RefactorCode - Enhance your code with a single command 👨‍💻](https://dev.to/bregwin/introducing-refactorcode-enhance-your-code-with-a-single-command-4982)
-- [Issue 62 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-62-of-aws-cloud-security-weekly-4iji)
-- [Algorithm Analysis](https://dev.to/gabrieldantasds/algorithm-analysis-3904)
-- [Genereadme v0.1 release](https://dev.to/cleobnvntra/genereadme-v01-release-1dm3)
-- [Génération de Diagrammes de Classe avec Laravel ER Diagram Generator](https://dev.to/developpeurtaf/generation-de-diagrammes-de-classe-avec-laravel-er-diagram-generator-6j7)
+- [AI-Powered Bot using Vectorized knowledge Architecture](https://dev.to/ragoli86/ai-powered-bot-using-vectorized-knowledge-architecture-4f76)
+- [First Interaction With Open Source](https://dev.to/amullagaliev/first-interaction-with-open-source-3k92)
+- [Explainer.js Release v0.1.0!](https://dev.to/aamfahim/explainerjs-release-v010-32cl)
+- [My Journey with AI-Assisted JavaScript Learning](https://dev.to/reilly-s/my-journey-with-ai-assisted-javascript-learning-38dm)
+- [Failures of a CI/CD Without Test Environments: Impact on ERP Project Agility](https://dev.to/abdellatif_benzbiria_b46c/failures-of-a-cicd-without-test-environments-impact-on-erp-project-agility-4ace)
 <!-- BLOG-POST-LIST:END -->
 
 ---
