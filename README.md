@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Search And &lpar;LLM&rpar; Transform](https://dev.to/pelikhan/search-and-llm-transform-lgn)
-- [Learn How To Create Resouce Groups And Cloud Storage Accounts on Microsoft Azure.](https://dev.to/dumka/learn-how-to-create-resouce-groups-and-cloud-storage-accounts-on-microsoft-azure-27k8)
-- [Top 10 Payment Processors for Next.js Applications [2024]](https://dev.to/ethanleetech/top-10-payment-processors-for-nextjs-applications-2024-1gmo)
-- [Building Offline-first Applications with React Native](https://dev.to/zidanegimiga/building-offline-first-applications-with-react-native-3626)
-- [System Design: CAP Theorem](https://dev.to/decoders_lord/system-design-cap-theorem-25d6)
+- [How I Built a Mini Programming Language for Automatic Web Page Generation – Step by Step](https://dev.to/mrldv/how-i-built-a-mini-programming-language-for-automatic-web-page-generation-step-by-step-5g6h)
+- [AWS SQS to Lambda Failed Processed Messages](https://dev.to/macandersonuche/aws-sqs-to-lambda-failed-processed-messages-48d2)
+- [Docker Challenges: Embark on a Mystical Journey through Ancient Egypt, Interstellar Exploration, and More! 🚀⚛️](https://dev.to/labex/docker-challenges-embark-on-a-mystical-journey-through-ancient-egypt-interstellar-exploration-and-more-1gma)
+- [Software Engineering: How to work and think like an engineer](https://dev.to/bcostaaa01/software-engineering-how-to-work-and-think-like-an-engineer-4p4o)
+- [AWS SQS to Lambda 429 Errors](https://dev.to/macandersonuche/aws-sqs-to-lambda-429-errors-4cid)
 <!-- BLOG-POST-LIST:END -->
 
 ---
