@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Save 1000 hours in development time. VSCode shortcuts &amp; Window Management](https://dev.to/matowang/save-1000-hours-in-development-time-vscode-shortcuts-window-management-5198)
-- [Convert insert mutation to upsert](https://dev.to/roalcantara/convert-insert-mutation-to-upsert-2n3n)
-- [Fixing vite error for reactjs - global is not defined and process is not defined](https://dev.to/rajinh24/fixing-vite-error-for-reactjs-global-is-not-defined-and-process-is-not-defined-4ffo)
-- [The Full-Stack Components Customization Pyramid](https://dev.to/novu/the-full-stack-components-customization-pyramid-5e72)
-- [Type Conversions in JavaScript: String, Numeric, and Boolean Conversions](https://dev.to/codenextgen/type-conversions-in-javascript-string-numeric-and-boolean-conversions-3i1g)
+- [Database Terminology](https://dev.to/rajondey/database-terminology-58ef)
+- [Xenea Whitepaper: Advancing Blockchain and Decentralized Storage Solutions](https://dev.to/ajtech0001/xenea-whitepaper-advancing-blockchain-and-decentralized-storage-solutions-g28)
+- [🛠️ Master JavaScript Debugging with These Essential Tips 🛠️](https://dev.to/umairqa/master-javascript-debugging-with-these-essential-tips-40i)
+- [Convert LocalDateTime to Date](https://dev.to/taijidude/convert-localdatetime-to-date-4o4c)
+- [Convert LocalDateTime to Date and back](https://dev.to/taijidude/convert-localdatetime-to-date-and-back-4lkj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
