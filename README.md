@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Setup Gitlab CI](https://dev.to/chauhoangminhnguyen/setup-gitlab-ci-1pc1)
-- [Tips for testing queued jobs in Laravel](https://dev.to/eduarguz/tips-for-testing-queued-jobs-in-laravel-4c77)
-- [Top 10 Free APIs You Should Know](https://dev.to/nilebits/top-10-free-apis-you-should-know-525f)
-- [Introducing JDK 23: Java Developer&#39;s Ultimate Upgrade with Advanced AI Enhancements](https://dev.to/myexamcloud/introducing-jdk-23-java-developers-ultimate-upgrade-with-advanced-ai-enhancements-123j)
-- [Announcing a Storyblok Loader for the Astro Content Layer API](https://dev.to/storyblok/announcing-a-storyblok-loader-for-the-astro-content-layer-api-41of)
+- [Intro to firewalls🔥](https://dev.to/mohanavamsi0614/intro-to-firewalls-2em5)
+- [Data-Driven and Keyword-Driven Framework: Differences, Challenges, and Benefits](https://dev.to/testifytech/data-driven-and-keyword-driven-framework-differences-challenges-and-benefits-305e)
+- [Announcing Resume Enhancer: Your Resume, Perfectly Tailored for Every Job](https://dev.to/harshil_patel/announcing-resume-enhancer-your-resume-perfectly-tailored-for-every-job-4e39)
+- [Introducing FileWizardAi: Organizes your Files with AI-Powered Sorting and Search](https://dev.to/aixhunter/introducing-filewizardai-organizes-your-files-with-ai-powered-sorting-and-search-5ea9)
+- [&quot; Day 1 or one day? &quot; 🌱](https://dev.to/wannabe_dev/-day-1-or-one-day--2kcj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
