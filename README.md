@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to create spaces in Hugging Face?](https://dev.to/itstomlie/how-to-create-spaces-in-hugging-face-a9k)
-- [Building a Strong Online Presence: The Role of Tech Alphonic in Reputation Management](https://dev.to/bhawesh_techalphonic_7e66/building-a-strong-online-presence-the-role-of-tech-alphonic-in-reputation-management-44pp)
-- [Best API Designers for Building Robust, Scalable APIs](https://dev.to/apilover/best-api-designers-for-building-robust-scalable-apis-1bj4)
-- [Setting Up a Basic MERN Application from Scratch 🚀](https://dev.to/info_generalhazedawn_a3d/setting-up-a-basic-mern-application-from-scratch-4ge8)
-- [Types of Promises in JavaScript](https://dev.to/bhataasim/types-of-promises-in-javascript-4n19)
+- [Vanilla Javascript](https://dev.to/drupal-developer-dewan/vanilla-javascript-4iho)
+- [Making a custom Bootloader for a Custom OS.](https://dev.to/mr-3/making-a-custom-bootloader-1602)
+- [5 go-to-market lessons I learned from driving a developer-led growth product](https://dev.to/logto/5-go-to-market-lessons-i-learned-from-driving-a-developer-led-growth-product-3ep6)
+- [Exploring Job Market for Software Engineers](https://dev.to/suzumenobu/exploring-job-market-for-software-engineers-3li8)
+- [The Significance of Full SDLC Testing in Mobile App Development](https://dev.to/berthaw82414312/the-significance-of-full-sdlc-testing-in-mobile-app-development-1gdg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
