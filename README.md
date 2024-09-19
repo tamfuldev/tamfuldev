@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to override laravel nova components](https://dev.to/devjm/how-to-override-laravel-nova-components-4mnf)
-- [Understanding the Importance of gRPC and Its Applications in Modern Software Development](https://dev.to/narmidm/understanding-the-importance-of-grpc-and-its-applications-in-modern-software-development-2dfh)
-- [What Marty Cagan Teaches About What a Product Manager Can and Cannot Delegate to Their Product Ops Team](https://dev.to/edensoftlabs/what-marty-cagan-teaches-about-what-a-product-manager-can-and-cannot-delegate-to-their-product-ops-team-4kjj)
-- [UseState and UseEffect](https://dev.to/mrcaption49/use-state-and-useeffect-cne)
-- [Real-Time Monitoring Dashboard Project Using FastAPI and Azure](https://dev.to/praisephs/real-time-monitoring-dashboard-project-using-fastapi-and-azure-l3o)
+- [Understanding Binary Search: A Powerful Algorithm for Efficient Searching](https://dev.to/nd_18b1e31aad9b7eca9e465a/understanding-binary-search-a-powerful-algorithm-for-efficient-searching-100k)
+- [A Developer’s Tool for Managing Discord Time Zones](https://dev.to/badrnyali/a-developers-tool-for-managing-discord-time-zones-42nj)
+- [Golang and Python In CyberSecurity](https://dev.to/arslan_rajpoot_8bf9292f41/golang-and-python-in-cybersecurity-2b2h)
+- [handlenewtickets](https://dev.to/nicholasg/handlenewtickets-1cch)
+- [Using LLMs to reduce sign-up &amp; onboarding friction](https://dev.to/punkpeye/using-llms-to-reduce-sign-up-onboarding-friction-13if)
 <!-- BLOG-POST-LIST:END -->
 
 ---
