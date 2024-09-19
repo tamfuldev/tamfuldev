@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Quickly index these web pages with IndexNow](https://dev.to/thomasbnt/quickly-index-these-web-pages-with-indexnow-2i9i)
-- [Interview with Hussein Hareb, Creator of Ηw-monitor!](https://dev.to/crabnebula/interview-with-hussein-hareb-creator-of-ew-monitor-4j7m)
-- [Beginner Questions about ML classification / forecasts](https://dev.to/maximhh/beginner-questions-about-ml-classification-forecasts-1pc1)
-- [Master SQL Like a Pro: The Ultimate SQL Cheatsheet](https://dev.to/niero/master-sql-like-a-pro-the-ultimate-sql-cheatsheet-l11)
-- [Kubernetes Mastery: Unlock the Power of Namespaces, Port Forwarding, and More](https://dev.to/labex/kubernetes-mastery-unlock-the-power-of-namespaces-port-forwarding-and-more-3kgd)
+- [Mazal Music Player](https://dev.to/saramazal/mazal-music-player-97b)
+- [🎁Learn Python in 10 Days: Day5](https://dev.to/johnjava/learn-python-in-10-days-day5-142)
+- [Blast from the Past: Build Your Own Space Invaders Game with Python - A Step-by-Step Tutorial](https://dev.to/bernardkibathi/blast-from-the-past-build-your-own-space-invaders-game-with-python-a-step-by-step-tutorial-2ik2)
+- [On building a digital assistant for the rest of us &lpar;part 3&rpar;](https://dev.to/tkuenneth/on-building-a-digital-assistant-for-the-rest-of-us-part-3-4e0k)
+- [14 Case Studies: Master System Design in a Month](https://dev.to/alexr/14-case-studies-master-system-design-in-a-month-2jk2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
