@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [10 Developer Tools to Improve Your Daily Life as a Developer: Part 2.](https://dev.to/balrajola/10-developer-tools-to-improve-your-daily-life-as-a-developer-part-2-h53)
-- [My Certified Kubernetes Administrator &lpar;CKA&rpar; Exam Experience](https://dev.to/aws-builders/my-certified-kubernetes-administrator-cka-exam-experience-p45)
-- [🚀 Introducing NeonBlue.Expressions – A C# Expression Evaluation Library for Developers!](https://dev.to/mohamed_ashmawy_d93978442/introducing-neonblueexpressions-a-c-expression-evaluation-library-for-developers-5bme)
-- [Friendly TypeScript Errors: Custom Messages for Easier Debugging](https://dev.to/reallygood/making-typescript-errors-friendly-custom-messages-for-easier-debugging-5672)
-- [5 Tips for Better Code Management with Git](https://dev.to/jaimaldullat/5-tips-for-better-code-management-with-git-5dc8)
+- [Conditionally Style Turbo Frame Content](https://dev.to/railsdesigner/conditionally-style-turbo-frame-content-1bb2)
+- [How to Create a Windows Executable with Electron Forge that Adds a Desktop Shortcut?](https://dev.to/hamza_tariq_9ca81d2d65816/how-to-create-a-windows-executable-with-electron-forge-that-adds-a-desktop-shortcut-3mmm)
+- [10 Tailwind CSS Chatbot Components [Free &amp; Open-Source]](https://dev.to/creativetim_official/10-tailwind-css-chatbot-components-free-open-source-34dd)
+- [Understanding rsync --itemize-changes](https://dev.to/alexisayenko/understanding-rsync-itemize-changes-5fgi)
+- [Git Submodules](https://dev.to/aerabi/git-submodules-nkc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
