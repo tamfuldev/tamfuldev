@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Mini Programming Language for Automatic Web Page Generation – Step by Step](https://dev.to/mrldv/how-i-built-a-mini-programming-language-for-automatic-web-page-generation-step-by-step-5g6h)
-- [AWS SQS to Lambda Failed Processed Messages](https://dev.to/macandersonuche/aws-sqs-to-lambda-failed-processed-messages-48d2)
-- [Docker Challenges: Embark on a Mystical Journey through Ancient Egypt, Interstellar Exploration, and More! 🚀⚛️](https://dev.to/labex/docker-challenges-embark-on-a-mystical-journey-through-ancient-egypt-interstellar-exploration-and-more-1gma)
-- [Software Engineering: How to work and think like an engineer](https://dev.to/bcostaaa01/software-engineering-how-to-work-and-think-like-an-engineer-4p4o)
-- [AWS SQS to Lambda 429 Errors](https://dev.to/macandersonuche/aws-sqs-to-lambda-429-errors-4cid)
+- [LinkedIn Verification... Is it Really a Big Deal? 🤔](https://dev.to/patadiarushabh/linkedin-verified-me-2645)
+- [How i implemented my server login screen for Mastodon](https://dev.to/cajuuh/how-i-implemented-my-server-login-screen-for-mastodon-5g4n)
+- [Lambdas, Loops, and Dota2 Feels](https://dev.to/blackneutron/lambdas-loops-and-dota2-feels-33ob)
+- [Deploy AWS Resources using Crossplane on Kubernetes](https://dev.to/meteorops/deploy-aws-resources-using-crossplane-on-kubernetes-39i1)
+- [Prototype vs. MVP: Definition, Differences, and Use Cases](https://dev.to/bonachidera/prototype-vs-mvp-definition-differences-and-use-cases-25ml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
