@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ensure a robust and secure environment](https://dev.to/anjali_khurana_6d2dce439c/ensure-a-robust-and-secure-environment-1c75)
-- [How to crush your Hacker News launch](https://dev.to/dfarrell/how-to-crush-your-hacker-news-launch-10jk)
-- [Recapping the Visual AI in Healthcare Meetup — September 19, 2024](https://dev.to/voxel51/recapping-the-visual-ai-in-healthcare-meetup-september-19-2024-4hi)
-- [Server-side GTM With Azure App Service](https://dev.to/hardal/server-side-gtm-with-azure-app-service-4gdk)
-- [Server-side GTM With Yandex Cloud](https://dev.to/hardal/server-side-gtm-with-yandex-cloud-1pc0)
+- [These coding fonts are incredible](https://dev.to/safdarali/these-coding-fonts-are-incredible-4247)
+- [Number Bases and Binary Operations](https://dev.to/davit_hayrapetyan/number-bases-and-binary-operations-3313)
+- [Expert Advice for Developers Beginning Their Tech Careers](https://dev.to/michaellarocca/expert-advice-for-developers-beginning-their-tech-careers-o6n)
+- [Mastering C# Fundamentals: A Beginner’s Journey into .NET Development](https://dev.to/moh_moh701/mastering-c-fundamentals-a-beginners-journey-into-net-development-37ob)
+- [MySQL View Creation | Data Manipulation | Database Management](https://dev.to/labex/mysql-view-creation-data-manipulation-database-management-4a17)
 <!-- BLOG-POST-LIST:END -->
 
 ---
