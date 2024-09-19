@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Intro to firewalls🔥](https://dev.to/mohanavamsi0614/intro-to-firewalls-2em5)
-- [Data-Driven and Keyword-Driven Framework: Differences, Challenges, and Benefits](https://dev.to/testifytech/data-driven-and-keyword-driven-framework-differences-challenges-and-benefits-305e)
-- [Announcing Resume Enhancer: Your Resume, Perfectly Tailored for Every Job](https://dev.to/harshil_patel/announcing-resume-enhancer-your-resume-perfectly-tailored-for-every-job-4e39)
-- [Introducing FileWizardAi: Organizes your Files with AI-Powered Sorting and Search](https://dev.to/aixhunter/introducing-filewizardai-organizes-your-files-with-ai-powered-sorting-and-search-5ea9)
-- [&quot; Day 1 or one day? &quot; 🌱](https://dev.to/wannabe_dev/-day-1-or-one-day--2kcj)
+- [How to override laravel nova components](https://dev.to/devjm/how-to-override-laravel-nova-components-4mnf)
+- [Understanding the Importance of gRPC and Its Applications in Modern Software Development](https://dev.to/narmidm/understanding-the-importance-of-grpc-and-its-applications-in-modern-software-development-2dfh)
+- [What Marty Cagan Teaches About What a Product Manager Can and Cannot Delegate to Their Product Ops Team](https://dev.to/edensoftlabs/what-marty-cagan-teaches-about-what-a-product-manager-can-and-cannot-delegate-to-their-product-ops-team-4kjj)
+- [UseState and UseEffect](https://dev.to/mrcaption49/use-state-and-useeffect-cne)
+- [Real-Time Monitoring Dashboard Project Using FastAPI and Azure](https://dev.to/praisephs/real-time-monitoring-dashboard-project-using-fastapi-and-azure-l3o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
