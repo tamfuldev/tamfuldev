@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Conditionally Style Turbo Frame Content](https://dev.to/railsdesigner/conditionally-style-turbo-frame-content-1bb2)
-- [How to Create a Windows Executable with Electron Forge that Adds a Desktop Shortcut?](https://dev.to/hamza_tariq_9ca81d2d65816/how-to-create-a-windows-executable-with-electron-forge-that-adds-a-desktop-shortcut-3mmm)
-- [10 Tailwind CSS Chatbot Components [Free &amp; Open-Source]](https://dev.to/creativetim_official/10-tailwind-css-chatbot-components-free-open-source-34dd)
-- [Understanding rsync --itemize-changes](https://dev.to/alexisayenko/understanding-rsync-itemize-changes-5fgi)
-- [Git Submodules](https://dev.to/aerabi/git-submodules-nkc)
+- [Setup Gitlab CI](https://dev.to/chauhoangminhnguyen/setup-gitlab-ci-1pc1)
+- [Tips for testing queued jobs in Laravel](https://dev.to/eduarguz/tips-for-testing-queued-jobs-in-laravel-4c77)
+- [Top 10 Free APIs You Should Know](https://dev.to/nilebits/top-10-free-apis-you-should-know-525f)
+- [Introducing JDK 23: Java Developer&#39;s Ultimate Upgrade with Advanced AI Enhancements](https://dev.to/myexamcloud/introducing-jdk-23-java-developers-ultimate-upgrade-with-advanced-ai-enhancements-123j)
+- [Announcing a Storyblok Loader for the Astro Content Layer API](https://dev.to/storyblok/announcing-a-storyblok-loader-for-the-astro-content-layer-api-41of)
 <!-- BLOG-POST-LIST:END -->
 
 ---
