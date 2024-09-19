@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Cluster Your Node.js Application for Better Performance](https://dev.to/jagroop2001/cluster-your-nodejs-application-for-better-performance-2ckn)
-- [How To Create Agent Pools In Azure DevOps](https://dev.to/s3cloudhub/how-to-create-agent-pools-in-azure-devops-1cp3)
-- [The Popularity of Cloud Automation Testing — A Comprehensive Analysis](https://dev.to/misterankit/the-popularity-of-cloud-automation-testing-a-comprehensive-analysis-4mne)
-- [OpenVINO&#39;s AI Success: Brilliance or Cracks Beneath the Surface?](https://dev.to/middleware/openvinos-ai-success-brilliance-or-cracks-beneath-the-surface-1ek)
-- [AWS IoT Device Management: Features and How It Works](https://dev.to/brilworks/aws-iot-device-management-features-and-how-it-works-2ag4)
+- [How to create spaces in Hugging Face?](https://dev.to/itstomlie/how-to-create-spaces-in-hugging-face-a9k)
+- [Building a Strong Online Presence: The Role of Tech Alphonic in Reputation Management](https://dev.to/bhawesh_techalphonic_7e66/building-a-strong-online-presence-the-role-of-tech-alphonic-in-reputation-management-44pp)
+- [Best API Designers for Building Robust, Scalable APIs](https://dev.to/apilover/best-api-designers-for-building-robust-scalable-apis-1bj4)
+- [Setting Up a Basic MERN Application from Scratch 🚀](https://dev.to/info_generalhazedawn_a3d/setting-up-a-basic-mern-application-from-scratch-4ge8)
+- [Types of Promises in JavaScript](https://dev.to/bhataasim/types-of-promises-in-javascript-4n19)
 <!-- BLOG-POST-LIST:END -->
 
 ---
