@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [LinkedIn Verification... Is it Really a Big Deal? 🤔](https://dev.to/patadiarushabh/linkedin-verified-me-2645)
-- [How i implemented my server login screen for Mastodon](https://dev.to/cajuuh/how-i-implemented-my-server-login-screen-for-mastodon-5g4n)
-- [Lambdas, Loops, and Dota2 Feels](https://dev.to/blackneutron/lambdas-loops-and-dota2-feels-33ob)
-- [Deploy AWS Resources using Crossplane on Kubernetes](https://dev.to/meteorops/deploy-aws-resources-using-crossplane-on-kubernetes-39i1)
-- [Prototype vs. MVP: Definition, Differences, and Use Cases](https://dev.to/bonachidera/prototype-vs-mvp-definition-differences-and-use-cases-25ml)
+- [Building Microservices Using Knative](https://dev.to/pkaisharis/building-microservices-using-knative-53od)
+- [TIL: HTTP methods are case-sensitive](https://dev.to/dleedev365/til-http-methods-are-case-sensitive-5edh)
+- [Git Cheatsheet that will make you a master in Git](https://dev.to/hichamelhirch/git-cheatsheet-that-will-make-you-a-master-in-git-2m9a)
+- [Building a Terminal TODO App in Rust](https://dev.to/tramposo/building-a-terminal-todo-app-in-rust-39l2)
+- [Code Smell 270 - Boolean APIs](https://dev.to/mcsee/code-smell-270-boolean-apis-3ddn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
