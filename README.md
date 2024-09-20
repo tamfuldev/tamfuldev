@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The performance issues of Ruby on Rail](https://dev.to/michel_1211/the-performance-issues-of-ruby-on-rail-io3)
-- [PointaFam: Connecting Farmers with Urban Retailers](https://dev.to/ferdi_code/-pointafam-connecting-farmers-with-urban-retailers-5fn)
-- [Coding with Speed of AI: If you build it, they will come](https://dev.to/petercsiba/coding-with-speed-of-ai-if-you-build-it-they-will-come-4jac)
-- [Como usar o BEM na Refatoração de codigos com CSS/Sass](https://dev.to/andressasantos/como-usar-o-bem-na-refatoracao-de-codigos-com-csssass-4kba)
-- [Essential Programming Symbols and Their German Equivalents](https://dev.to/be11amer/essential-programming-symbols-and-their-german-equivalents-45eb)
+- [Looking for Passionate Students to Collaborate on a Real-World Python/React Project!](https://dev.to/anugrah_vardhan/looking-for-passionate-students-to-collaborate-on-a-real-world-pythonreact-project-2h8k)
+- [How to Create a WhatsApp Bot in Node.js](https://dev.to/yaasiin-ayeva/how-to-create-a-whatsapp-bot-in-nodejs-4mfd)
+- [Geolocation fun with Gemini](https://dev.to/vkili/geolocation-fun-with-gemini-2jp)
+- [My deep dive into my project, CORS, and Authorization](https://dev.to/sleepysloth/my-deep-dive-into-my-project-cors-and-authorization-fb7)
+- [Code Contributions: Making Pull Requests](https://dev.to/arilloid/code-contributions-making-pull-requests-25mj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
