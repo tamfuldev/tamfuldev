@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Project I&#39;ve been working for 1 year](https://dev.to/framemuse/project-ive-been-working-for-1-year-12dk)
+- [Add a test case when your open-source project’s issue is fixed.](https://dev.to/thinkthroo/add-a-test-case-when-your-open-source-projects-issue-is-fixed-1cnn)
+- [Object Oriented Programming &lpar;OOP&rpar; in JavaScript - Top to Bottom](https://dev.to/abeertech01/object-oriented-programming-oop-in-javascript-top-to-bottom-b1o)
+- [Dive Into Angular with This Comprehensive Beginner&#39;s Guide! 🚀](https://dev.to/getvm/dive-into-angular-with-this-comprehensive-beginners-guide-4236)
 - [Different types of models in the Cloud](https://dev.to/tjasper/different-types-of-models-in-the-cloud-4e8p)
-- [Detectar, analizar y explotar vulnerabilidades utilizando herramientas de código abierto: Medición de desempeño y resultados](https://dev.to/djhuertasg/detectar-analizar-y-explotar-vulnerabilidades-utilizando-herramientas-de-codigo-abierto-medicion-de-desempeno-y-resultados-30dc)
-- [Misalignment of Agile with Product and Design needs &lpar;feat. Jessica Hall&rpar;](https://dev.to/codegardener/misalignment-of-agile-with-product-and-design-needs-feat-jessica-hall-161d)
-- [Facebook Pixel with React by Mohd Amir](https://dev.to/webdev-mohdamir/facebook-pixel-with-react-by-mohd-amir-4cib)
-- [PWC 287 Strength in Numbers](https://dev.to/boblied/pwc-287-strength-in-numbers-4i39)
 <!-- BLOG-POST-LIST:END -->
 
 ---
