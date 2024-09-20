@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Using Machine Learning to Optimise Commercial Cleaning Schedules](https://dev.to/luke_leech_e6bebf0dcc50d6/using-machine-learning-to-optimise-commercial-cleaning-schedules-2icg)
-- [First Open Source PR Merged](https://dev.to/krinskumar/first-open-source-pr-merged-2499)
-- [Building an Eco-Friendly Future: Creating a Reward-Based App for an Eco Grocery Store](https://dev.to/andrew_lindenstein/building-an-eco-friendly-future-creating-a-reward-based-app-for-an-eco-grocery-store-2n11)
-- [Ultimate guide for problem solving in coding interviews](https://dev.to/turck/ultimate-guide-for-problem-solving-in-coding-interviews-48a2)
-- [Learn New Things Everyday: First Pull Request](https://dev.to/amullagaliev/learn-new-things-everyday-first-pull-request-548m)
+- [Implement React v18 from Scratch Using WASM and Rust - [26] Implement React.lazy](https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-26-implement-reactlazy-4n0n)
+- [Useful shortcuts! 🥸](https://dev.to/ritumka/useful-shortcuts-8hg)
+- [Superpowered Git Aliases using Scripting](https://dev.to/agentender/superpowered-git-aliases-using-scripting-4odf)
+- [Creating Pull Requests to External Repositories](https://dev.to/anhchienvu/creating-pull-requests-to-external-repositories-5183)
+- [Automate your custom sign-in UI deployment with GitHub Actions workflow](https://dev.to/logto/automate-your-custom-sign-in-ui-deployment-with-github-actions-workflow-24oe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
