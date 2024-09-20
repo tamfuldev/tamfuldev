@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [These coding fonts are incredible](https://dev.to/safdarali/these-coding-fonts-are-incredible-4247)
-- [Number Bases and Binary Operations](https://dev.to/davit_hayrapetyan/number-bases-and-binary-operations-3313)
-- [Expert Advice for Developers Beginning Their Tech Careers](https://dev.to/michaellarocca/expert-advice-for-developers-beginning-their-tech-careers-o6n)
-- [Mastering C# Fundamentals: A Beginner’s Journey into .NET Development](https://dev.to/moh_moh701/mastering-c-fundamentals-a-beginners-journey-into-net-development-37ob)
-- [MySQL View Creation | Data Manipulation | Database Management](https://dev.to/labex/mysql-view-creation-data-manipulation-database-management-4a17)
+- [Using Machine Learning to Optimise Commercial Cleaning Schedules](https://dev.to/luke_leech_e6bebf0dcc50d6/using-machine-learning-to-optimise-commercial-cleaning-schedules-2icg)
+- [First Open Source PR Merged](https://dev.to/krinskumar/first-open-source-pr-merged-2499)
+- [Building an Eco-Friendly Future: Creating a Reward-Based App for an Eco Grocery Store](https://dev.to/andrew_lindenstein/building-an-eco-friendly-future-creating-a-reward-based-app-for-an-eco-grocery-store-2n11)
+- [Ultimate guide for problem solving in coding interviews](https://dev.to/turck/ultimate-guide-for-problem-solving-in-coding-interviews-48a2)
+- [Learn New Things Everyday: First Pull Request](https://dev.to/amullagaliev/learn-new-things-everyday-first-pull-request-548m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
