@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Database Migration Service now includes enhanced monitoring dashboard for your DMS tasks](https://dev.to/karthiksakthiveltechie/aws-database-migration-service-now-includes-enhanced-monitoring-dashboard-for-your-dms-tasks-27pd)
-- [Introducing the OpenSauced Pizza GitHub Action: Automate Your Repository Management](https://dev.to/opensauced/introducing-the-opensauced-pizza-github-action-automate-your-repository-management-44aj)
-- [What is JSON?](https://dev.to/hakimmohamed/what-is-json-3fi4)
-- [mysql: “thai food near me”, or: doing geo distance calculations in your database.](https://dev.to/gbhorwood/mysql-thai-food-near-me-or-doing-geo-distance-calculations-in-your-database-512)
-- [Understanding Middleware in Express.js with Node.js - Part 9](https://dev.to/hakimmohamed/understanding-middleware-in-expressjs-with-nodejs-part-9-41gc)
+- [15 Re-usable ui component libraries with Framer Motion](https://dev.to/kohtet_gintoki/15-re-usable-ui-component-libraries-with-framer-motion-25p9)
+- [Multi-edit text at Figma](https://dev.to/pss-aileen/multi-edit-text-at-figma-47l4)
+- [What is the Best No Code Website Builder?](https://dev.to/easypagego/what-is-the-best-no-code-website-builder-45b9)
+- [Paris and Tokyo Regions in GA](https://dev.to/koyeb/paris-and-tokyo-regions-in-ga-l99)
+- [Real-Time Incident Recovery with Event-Driven Microservices Architecture and Early Monitoring](https://dev.to/ohanhaliuk/real-time-incident-recovery-with-event-driven-microservices-architecture-and-early-monitoring-1jmj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
