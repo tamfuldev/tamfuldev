@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [15 Re-usable ui component libraries with Framer Motion](https://dev.to/kohtet_gintoki/15-re-usable-ui-component-libraries-with-framer-motion-25p9)
-- [Multi-edit text at Figma](https://dev.to/pss-aileen/multi-edit-text-at-figma-47l4)
-- [What is the Best No Code Website Builder?](https://dev.to/easypagego/what-is-the-best-no-code-website-builder-45b9)
-- [Paris and Tokyo Regions in GA](https://dev.to/koyeb/paris-and-tokyo-regions-in-ga-l99)
-- [Real-Time Incident Recovery with Event-Driven Microservices Architecture and Early Monitoring](https://dev.to/ohanhaliuk/real-time-incident-recovery-with-event-driven-microservices-architecture-and-early-monitoring-1jmj)
+- [Fun Animation using GSAP](https://dev.to/akshat0610/fun-animation-using-gsap-4bbi)
+- [Cursor AI vs. Void AI Code Editor: The Ultimate Showdown](https://dev.to/dev007777/cursor-ai-vs-void-ai-code-editor-the-ultimate-showdown-309c)
+- [Why is landing an Internship as a Computer science student so hard ?](https://dev.to/coding_quill_3d19fa22547e/why-is-landing-an-internship-as-a-computer-science-student-so-hard--oe0)
+- [Usability Experiences👨🏾‍💻](https://dev.to/taariqelliott/usability-experiences-44m3)
+- [Unleashing Parallel Processing with Node.js Worker Threads](https://dev.to/sarvabharan/unleashing-parallel-processing-with-nodejs-worker-threads-4dab)
 <!-- BLOG-POST-LIST:END -->
 
 ---
