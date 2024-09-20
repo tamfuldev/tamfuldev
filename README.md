@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Looking for Passionate Students to Collaborate on a Real-World Python/React Project!](https://dev.to/anugrah_vardhan/looking-for-passionate-students-to-collaborate-on-a-real-world-pythonreact-project-2h8k)
-- [How to Create a WhatsApp Bot in Node.js](https://dev.to/yaasiin-ayeva/how-to-create-a-whatsapp-bot-in-nodejs-4mfd)
-- [Geolocation fun with Gemini](https://dev.to/vkili/geolocation-fun-with-gemini-2jp)
-- [My deep dive into my project, CORS, and Authorization](https://dev.to/sleepysloth/my-deep-dive-into-my-project-cors-and-authorization-fb7)
-- [Code Contributions: Making Pull Requests](https://dev.to/arilloid/code-contributions-making-pull-requests-25mj)
+- [Different types of models in the Cloud](https://dev.to/tjasper/different-types-of-models-in-the-cloud-4e8p)
+- [Detectar, analizar y explotar vulnerabilidades utilizando herramientas de código abierto: Medición de desempeño y resultados](https://dev.to/djhuertasg/detectar-analizar-y-explotar-vulnerabilidades-utilizando-herramientas-de-codigo-abierto-medicion-de-desempeno-y-resultados-30dc)
+- [Misalignment of Agile with Product and Design needs &lpar;feat. Jessica Hall&rpar;](https://dev.to/codegardener/misalignment-of-agile-with-product-and-design-needs-feat-jessica-hall-161d)
+- [Facebook Pixel with React by Mohd Amir](https://dev.to/webdev-mohdamir/facebook-pixel-with-react-by-mohd-amir-4cib)
+- [PWC 287 Strength in Numbers](https://dev.to/boblied/pwc-287-strength-in-numbers-4i39)
 <!-- BLOG-POST-LIST:END -->
 
 ---
