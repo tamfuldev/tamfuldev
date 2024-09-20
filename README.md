@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [7 SQL Concepts You Should Know as a Data Scientist?](https://dev.to/sachingeek/7-sql-concepts-you-should-know-as-a-data-scientist-28n3)
-- [Como executar várias operações de forma transacional em Golang?](https://dev.to/ortizdavid/como-executar-varias-operacoes-de-forma-transacional-em-golang-2nmo)
-- [Create an Animated Pie Chart in Less Than 20 Lines of Code!](https://dev.to/yashas_gowda_/create-an-animated-pie-chart-in-less-than-20-lines-of-code-4ck0)
-- [Installing and setting up Postgres in Ubuntu](https://dev.to/jantolentino/installing-and-setting-up-postgres-in-ubuntu-7jd)
-- [AI-powered development: Chrome extension with Google Gemini](https://dev.to/56_kode/ai-powered-development-chrome-extension-with-google-gemini-3545)
+- [Helm for beginer - Deploy nginx to Google Kubernetes Engine](https://dev.to/chauhoangminhnguyen/helm-for-beginer-deploy-nginx-to-google-kubernetes-engine-3hek)
+- [Understanding Version Control: A Beginner’s Guide to Git and GitHub](https://dev.to/prodevopsguytech/understanding-version-control-a-beginners-guide-to-git-and-github-54i9)
+- [Supercharge team productivity with Husky, ESLint, and Prettier](https://dev.to/creowistech/supercharge-team-productivity-with-husky-eslint-and-prettier-15da)
+- [Fastify v5 breaking changes: should you upgrade?](https://dev.to/encore/fastify-v5-breaking-changes-should-you-upgrade-2e6d)
+- [Secure API Key Handling in Python Projects](https://dev.to/hamznabil/secure-api-key-handling-in-python-projects-1kg7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
