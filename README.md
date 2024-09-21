@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why might Rust be a smart choice for developers today?](https://dev.to/francescoxx/why-might-rust-be-a-smart-choice-for-developers-today-4ol1)
-- [A classe Object](https://dev.to/devsjavagirls/a-classe-object-12p9)
-- [Usando final](https://dev.to/devsjavagirls/usando-final-2lf8)
-- [Usando classes abstratas](https://dev.to/devsjavagirls/usando-classes-abstratas-12na)
-- [Exploring Model Relationships in Flask](https://dev.to/tessmueske/exploring-model-relationships-in-flask-22al)
+- [CKEditor5 With Custom Image Uploader in React](https://dev.to/abidullah786/ckeditor5-with-custom-image-uploader-in-react-139a)
+- [Ceiling Panels: Enhancing Aesthetics and Acoustics](https://dev.to/john_gloster_90402e70fe17/ceiling-panels-enhancing-aesthetics-and-acoustics-3jo7)
+- [Mastering Function Expressions in JavaScript](https://dev.to/codenextgen/mastering-function-expressions-in-javascript-nef)
+- [Bagging and Boosting in AI: A Comprehensive Guide to Ensemble Learning](https://dev.to/abhinowww/bagging-and-boosting-in-ai-a-comprehensive-guide-to-ensemble-learning-2cf0)
+- [Mastering Functions in JavaScript](https://dev.to/codenextgen/mastering-functions-in-javascript-50lj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
