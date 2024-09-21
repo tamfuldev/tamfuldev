@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Pulling Our Weight: Contributing to each other&#39;s projects](https://dev.to/udayrana/pulling-our-weight-contributing-to-each-others-projects-2eej)
-- [Part 1 : Essential Coding Tips &amp; Tricks to Boost Your Productivity 🚀](https://dev.to/imsuraj/part-1-essential-coding-tips-tricks-to-boost-your-productivity-32f8)
-- [URL -&gt; Markdown](https://dev.to/krinskumar/url-markdown-2j8e)
-- [Creating First Pull Request](https://dev.to/mayankpareek/creating-first-pull-request-3j30)
-- [.NET Web API &amp; ServiceStack](https://dev.to/kakashi089/net-web-api-servicestack-2gnl)
+- [Why might Rust be a smart choice for developers today?](https://dev.to/francescoxx/why-might-rust-be-a-smart-choice-for-developers-today-4ol1)
+- [A classe Object](https://dev.to/devsjavagirls/a-classe-object-12p9)
+- [Usando final](https://dev.to/devsjavagirls/usando-final-2lf8)
+- [Usando classes abstratas](https://dev.to/devsjavagirls/usando-classes-abstratas-12na)
+- [Exploring Model Relationships in Flask](https://dev.to/tessmueske/exploring-model-relationships-in-flask-22al)
 <!-- BLOG-POST-LIST:END -->
 
 ---
