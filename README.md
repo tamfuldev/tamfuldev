@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Tầm quan trọng của máy đầm bàn bê tông trong xây dựng](https://dev.to/dienmaygiaphu/tam-quan-trong-cua-may-dam-ban-be-tong-trong-xay-dung-302p)
-- [The Complete Guide to Becoming a Software Development Engineer &lpar;SDE&rpar;](https://dev.to/ngneha09/the-complete-guide-to-becoming-a-software-development-engineer-sde-pn1)
-- [Integrate Cloudinary in a Next.js application](https://dev.to/devops_den/integrate-cloudinary-in-a-nextjs-application-8op)
-- [The Art Of Learning In Public](https://dev.to/iammihirsig/the-art-of-learning-in-public-110m)
-- [/s 🚀 5 Best Posts From 100 DEV Community Best Posts Having &quot;Best&quot; or &quot;10&quot; in Their Title 🚀 /s](https://dev.to/kvetoslavnovak/5-best-posts-from-100-dev-community-best-posts-having-best-or-10-in-their-title-19a3)
+- [Waymap v1.0.3 - Web Vulnerability Scanner](https://dev.to/trixsec/waymap-v103-web-vulnerability-scanner-1bnh)
+- [How To Use Terraform Data Source](https://dev.to/sre_panchanan/how-to-use-terraform-data-source-5of)
+- [How to deploy Django in a subdirectory with Docker, NGINX and Whitenoise](https://dev.to/onticdani/how-to-deploy-django-in-a-subdirectory-with-docker-nginx-and-whitenoise-4hc0)
+- [Introducing zustand-entity-adapter](https://dev.to/michaeljota/introducing-zustand-entity-adapter-2f1b)
+- [ECMAScript - A collection of the main new features of each version](https://dev.to/techelopment/ecmascript-a-collection-of-the-main-new-features-of-each-version-8n5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
