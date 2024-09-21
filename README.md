@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CKEditor5 With Custom Image Uploader in React](https://dev.to/abidullah786/ckeditor5-with-custom-image-uploader-in-react-139a)
-- [Ceiling Panels: Enhancing Aesthetics and Acoustics](https://dev.to/john_gloster_90402e70fe17/ceiling-panels-enhancing-aesthetics-and-acoustics-3jo7)
-- [Mastering Function Expressions in JavaScript](https://dev.to/codenextgen/mastering-function-expressions-in-javascript-nef)
-- [Bagging and Boosting in AI: A Comprehensive Guide to Ensemble Learning](https://dev.to/abhinowww/bagging-and-boosting-in-ai-a-comprehensive-guide-to-ensemble-learning-2cf0)
-- [Mastering Functions in JavaScript](https://dev.to/codenextgen/mastering-functions-in-javascript-50lj)
+- [Mastering Python as a Busy Developer: Top Strategies for Quick Learning](https://dev.to/sangeeth_joseph/mastering-python-as-a-busy-developer-top-strategies-for-quick-learning-23la)
+- [Unveiling the Monty Hall Problem: A JavaScript Simulation](https://dev.to/vardanarm_7/unveiling-the-monty-hall-problem-a-javascript-simulation-g82)
+- [Avatar Hover Effect](https://dev.to/akshayap9088/avatar-hover-effect-2b9d)
+- [The Ultimate Guide to GraphQL vs REST: Strategies, Best Practices, and Business Insights](https://dev.to/keploy/the-ultimate-guide-to-graphql-vs-rest-strategies-best-practices-and-business-insights-do5)
+- [The AI News Week 2](https://dev.to/theainews/the-ai-news-week-2-3lan)
 <!-- BLOG-POST-LIST:END -->
 
 ---
