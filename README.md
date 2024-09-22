@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Essential Resources for Frontend Developers: Links You Can’t Live Without](https://dev.to/asimachowdhury/essential-resources-for-frontend-developers-links-you-cant-live-without-54o6)
-- [Crypt::OpenSSL::PKCS12 1.92 released to CPAN](https://dev.to/jonasbn/cryptopensslpkcs12-192-released-to-cpan-4n78)
-- [My website design](https://dev.to/rois_wagner_09c5592c25729/my-website-design-pbm)
-- [The Joy of the Unknown: Exploring Audio Streams with Rust and Circular Buffers](https://dev.to/drsh4dow/the-joy-of-the-unknown-exploring-audio-streams-with-rust-and-circular-buffers-494d)
-- [Understanding Web development for Begginers](https://dev.to/javadevone/understanding-web-development-for-begginers-4aep)
+- [A Few Useful Functions in Node.js Util Module](https://dev.to/hoaitx/a-few-useful-functions-in-nodejs-util-module-226d)
+- [How to Enable Work Folders Client in Windows 11?](https://dev.to/winsides/how-to-enable-work-folders-client-in-windows-11-34mi)
+- [JavaScript Asynchronous Behavior, what makes it possible?](https://dev.to/tanishparashar/javascript-asynchronous-behavior-what-makes-it-possible--30kf)
+- [Binary Numbers: Understanding Number Representations in Computing](https://dev.to/liasaiyan/yo-53fp)
+- [Getting Started with Laravel: A Beginner&#39;s Guide to Query Builder](https://dev.to/mdarifulhaque/getting-started-with-laravel-a-beginners-guide-to-query-builder-j0i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
