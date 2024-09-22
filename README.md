@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Comprehensive Guide to Server-Sent Events &lpar;SSE&rpar; for Real-Time Web Applications](https://dev.to/simranjit884/a-comprehensive-guide-to-server-sent-events-sse-for-real-time-web-applications-29e7)
-- [What is Semantic Markup? ~ GameDev Challenge](https://dev.to/saamiabbaskhan/what-is-semantic-markup-gamedev-challenge-3k2a)
-- [System Design Terminologies: Key Concepts Every Engineer Should Know](https://dev.to/wallacefreitas/system-design-terminologies-key-concepts-every-engineer-should-know-2hi4)
-- [Day 13. Blocker](https://dev.to/kiolk/day-13-blocker-4ebp)
-- [&#39;string&#39; vs &#39;String&#39;: The Battle Between Primitive and Object Types in TypeScript](https://dev.to/osalumense/string-vs-string-the-battle-between-primitive-and-object-types-in-typescript-14cp)
+- [Back to Basics: The CrowdStrike Incident and Fundamental IT Security Principles](https://dev.to/virteva/back-to-basics-the-crowdstrike-incident-and-fundamental-it-security-principles-435i)
+- [Ottimizzazione delle Performance Web: Velocizzare il Tuo Sito Web | Web Performance Optimization: Speeding Up Your Website](https://dev.to/roberto_celano/ottimizzazione-delle-performance-web-velocizzare-il-tuo-sito-web-web-performance-optimization-speeding-up-your-website-48e7)
+- [Generate meaningful commit messages with Ollama and Kaizen](https://dev.to/sauravpanda/generate-meaningful-commit-messages-with-ollama-and-kaizen-2c01)
+- [Binary number subtraction, multiplication](https://dev.to/eduard_grigoryan_500ba240/binary-number-subtraction-multiplication-40e5)
+- [A Beginner’s Guide to Binary Numbers and Operations](https://dev.to/narek_jumayan_5bc7ef73e7a/a-beginners-guide-to-binary-numbers-and-operations-5g6e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
