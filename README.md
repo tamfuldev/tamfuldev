@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Are We Sacrificing Readability for Conciseness in Modern Java?](https://dev.to/saamiabbaskhan/are-we-sacrificing-readability-for-conciseness-in-modern-java-34af)
-- [Chatbot with Amazon Lex](https://dev.to/turkson/chatbot-with-amazon-lex-51c1)
-- [Understanding WordPress Architecture on AWS: It’s Simpler Than You Think](https://dev.to/akhileshpm/understanding-wordpress-architecture-on-aws-its-simpler-than-you-think-57g5)
-- [Trix Framework: Your Comprehensive Security Toolkit](https://dev.to/trixsec/trix-framework-your-comprehensive-security-toolkit-49l0)
-- [Understanding Data Lineage Diagrams in Data Management](https://dev.to/buzzgk/understanding-data-lineage-diagrams-in-data-management-4o78)
+- [What bits of software engineering faff would you want to get rid of?](https://dev.to/dllewellyn/what-bits-of-software-engineering-faff-would-you-want-to-get-rid-of-1pfk)
+- [🛠️ Rust vs Go: The Ultimate Showdown for Backend Development ⚡](https://dev.to/hamzakhan/rust-vs-go-the-ultimate-showdown-for-backend-development-5cll)
+- [Understanding Array Basics in Java: A Simple Guide](https://dev.to/arshisaxena26/understanding-array-basics-in-java-a-simple-guide-53mb)
+- [From Dependency Inversion to Dependency Injection in Python](https://dev.to/markoulis/from-dependency-inversion-to-dependency-injection-in-python-2h70)
+- [How to Set Up Prettier – Code Formatter](https://dev.to/shieldstring/how-to-set-up-prettier-code-formatter-4a2f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
