@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Automating EC2 Patching with AWS Patch Manager](https://dev.to/kkkensuke/automating-ec2-patching-with-aws-patch-manager-a7h)
-- [Iterative Thought Refiner: Enhancing LLM Responses via Dynamic Adaptive Reasoning](https://dev.to/mikeyoung44/iterative-thought-refiner-enhancing-llm-responses-via-dynamic-adaptive-reasoning-4l3f)
-- [New Framework for Evaluating Language Models on Long-Form Text Comprehension](https://dev.to/mikeyoung44/new-framework-for-evaluating-language-models-on-long-form-text-comprehension-947)
-- [AI Generates Novel Cellular Automata with Topology-Agnostic Transformer Model](https://dev.to/mikeyoung44/ai-generates-novel-cellular-automata-with-topology-agnostic-transformer-model-4eci)
-- [Keep Your Code in Sync](https://dev.to/farhatsharifh/keep-your-code-in-sync-3abl)
+- [When a Traditional Relational Database Is More Suitable Than Blockchain: Key Scenarios](https://dev.to/adityabhuyan/when-a-traditional-relational-database-is-more-suitable-than-blockchain-key-scenarios-2lg7)
+- [Model2Vec: Making Sentence Transformers 500x faster on CPU, and 15x smaller](https://dev.to/pringled/model2vec-making-sentence-transformers-500x-faster-on-cpu-and-15x-smaller-4k2b)
+- [Model2Vec: Making Sentence Transformers 500x faster on CPU, and 15x smaller](https://dev.to/pringled/model2vec-making-sentence-transformers-500x-faster-on-cpu-and-15x-smaller-3mhe)
+- [Building a Robust Data Streaming Platform with Python: A Comprehensive Guide for Real-Time Data Handling](https://dev.to/amitchandra/building-a-robust-data-streaming-platform-with-python-a-comprehensive-guide-for-real-time-data-handling-2gf9)
+- [Understanding Python’s Global Interpreter Lock &lpar;GIL&rpar; and Its Impact on Concurrency](https://dev.to/adityabhuyan/understanding-pythons-global-interpreter-lock-gil-and-its-impact-on-concurrency-2da6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
