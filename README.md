@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [When a Traditional Relational Database Is More Suitable Than Blockchain: Key Scenarios](https://dev.to/adityabhuyan/when-a-traditional-relational-database-is-more-suitable-than-blockchain-key-scenarios-2lg7)
-- [Model2Vec: Making Sentence Transformers 500x faster on CPU, and 15x smaller](https://dev.to/pringled/model2vec-making-sentence-transformers-500x-faster-on-cpu-and-15x-smaller-4k2b)
-- [Model2Vec: Making Sentence Transformers 500x faster on CPU, and 15x smaller](https://dev.to/pringled/model2vec-making-sentence-transformers-500x-faster-on-cpu-and-15x-smaller-3mhe)
-- [Building a Robust Data Streaming Platform with Python: A Comprehensive Guide for Real-Time Data Handling](https://dev.to/amitchandra/building-a-robust-data-streaming-platform-with-python-a-comprehensive-guide-for-real-time-data-handling-2gf9)
-- [Understanding Python’s Global Interpreter Lock &lpar;GIL&rpar; and Its Impact on Concurrency](https://dev.to/adityabhuyan/understanding-pythons-global-interpreter-lock-gil-and-its-impact-on-concurrency-2da6)
+- [Microservices Design Aspects](https://dev.to/tkssharma/microservices-design-aspects-5h9e)
+- [Embracing Change: Trends and Technologies Shaping Our Future](https://dev.to/thazar/embracing-change-trends-and-technologies-shaping-our-future-1mn5)
+- [General vs. Semantic Tags in HTML: Why Structure Matters](https://dev.to/okputu-e/general-vs-semantic-tags-in-html-why-structure-matters-3imn)
+- [General vs. Semantic Tags in HTML: Why Structure Matters](https://dev.to/okputu-e/general-vs-semantic-tags-in-html-why-structure-matters-4e32)
+- [Investigating Azure Regional Capabilities](https://dev.to/martinhc/investigating-azure-regional-capabilities-3nlp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
