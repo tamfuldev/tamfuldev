@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Technical Deep Dive: How We Built the Pizza CLI Using Go and Cobra](https://dev.to/opensauced/technical-deep-dive-how-we-built-the-pizza-cli-using-go-and-cobra-oad)
-- [Global Scope in Laravel &lpar;StepWise&rpar;.](https://dev.to/aj_c6413caf1a793de3a2163b/global-scope-in-laravel-stepwise-1ij8)
-- [Hacktoberfest: Your Open Source Journey Starts Here](https://dev.to/shelar1423/hacktoberfest-your-open-source-journey-starts-here-l1d)
-- [AWS CloudFormation Git sync now allows you to review your stack changes via Pull Request &lpar;PR&rpar;](https://dev.to/karthiksakthiveltechie/aws-cloudformation-git-sync-now-allows-you-to-review-your-stack-changes-via-pull-request-pr-4aa4)
-- [Data Visualization on the e-RT3 using Node-RED, InfluxDB Cloud, and Grafana](https://dev.to/yokogawa-yts_india/data-visualization-on-the-e-rt3-using-node-red-influxdb-cloud-and-grafana-30lj)
+- [One Byte Explainer: WebSockets](https://dev.to/zibrasismail/one-byte-explainer-websockets-3o47)
+- [How Modern Browsers Render Websites: A Behind-the-Scenes Look 🎨💻](https://dev.to/hikolakita/how-modern-browsers-render-websites-a-behind-the-scenes-look-5bfn)
+- [Which React render callback pattern do you prefer?](https://dev.to/moraym/which-react-render-callback-pattern-do-you-prefer-3p5a)
+- [Major Mode Comfort Functions, Because I&#39;m Lazy](https://dev.to/downtherabbithole/major-mode-comfort-functions-because-im-lazy-5ego)
+- [Release 0.42.0 of Spellcheck &lpar;GitHub&rpar; Action - yet another maintenance release](https://dev.to/jonasbn/release-0420-of-spellcheck-github-action-yet-another-maintenance-release-4npd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
