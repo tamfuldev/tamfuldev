@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering C# Fundamentals: Working with Date and Time in C# Using `DateTime` and `DateOnly`](https://dev.to/moh_moh701/mastering-c-fundamentals-working-with-date-and-time-in-c-using-datetime-and-dateonly-47ek)
-- [Logical Processing order of a SQL query](https://dev.to/mrcaption49/logical-processing-order-of-a-sql-query-3ck3)
-- [🛑 Stop Coding Already! 🛑](https://dev.to/paratron/stop-coding-already-44m7)
-- [Day 14. Monday](https://dev.to/kiolk/day-14-monday-3o64)
-- [Agile isn’t tailored for Product and Design needs: Insights from Jessica Hall](https://dev.to/codegardener/agile-isnt-tailored-for-product-and-design-needs-insights-from-jessica-hall-5c23)
+- [How do you handle lack of self-confidence in the programming field?](https://dev.to/cerindaemon/how-do-you-handle-lack-of-self-confidence-in-the-programming-field-1adm)
+- [How to Integrate OpenGraph in React to Boost SEO and Social Sharing](https://dev.to/esaraviam/how-to-integrate-opengraph-in-react-to-boost-seo-and-social-sharing-25e1)
+- [Host a Reverse Proxy in Seconds](https://dev.to/mattvoget/host-a-reverse-proxy-in-seconds-34pb)
+- [Mocking an AI Chatbot API with Blackbird](https://dev.to/mattvoget/mocking-an-ai-chatbot-api-with-blackbird-419)
+- [Optimizing Next.js Performance: Achieving Perfect Lighthouse Scores](https://dev.to/jnanadiw/optimizing-nextjs-performance-achieving-perfect-lighthouse-scores-24id)
 <!-- BLOG-POST-LIST:END -->
 
 ---
