@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Making a Power App that makes Flows](https://dev.to/wyattdave/making-a-power-app-that-makes-flows-55kk)
-- [7 Open Source Projects You Should Know - Vue Edition ✔️ [BONUS]](https://dev.to/this-is-learning/7-open-source-projects-you-should-know-vue-edition-bonus-i4n)
-- [HTML &lpar;HyperText Markup Language&rpar;: The Structure of Web Pages](https://dev.to/shieldstring/html-hypertext-markup-language-the-structure-of-web-pages-3fjo)
-- [Guide to AWS re:Invent - Tips &amp; Tricks](https://dev.to/aws-heroes/guide-to-aws-reinvent-tips-tricks-l7d)
-- [Deno overview](https://dev.to/lord_n3_/deno-overview-4ppf)
+- [Troubleshooting Umami Analytics: Resolving Unknown User Country Issue with Proxy Protocol on OCI](https://dev.to/nhisyamj/troubleshooting-umami-analytics-resolving-unknown-user-country-issue-with-proxy-protocol-on-oci-3gke)
+- [Creating a Scholarship Chatbot: A Beginner&#39;s Step-by-Step Guide with HTML, CSS, JavaScript, and Gemini API](https://dev.to/indah780/creating-a-scholarship-chatbot-a-beginners-step-by-step-guide-with-html-css-javascript-and-gemini-api-2d0e)
+- [Exploring Salesforce Web3 Exploring Salesforce Web3 and Blockchain Integration in 2024](https://dev.to/itechcloud_solution_01/exploring-salesforce-web3-exploring-salesforce-web3-and-blockchain-integration-in-2024-1d6l)
+- [Connecting to GBase 8s Database Using C# and ADO.NET on Windows &lpar;2&rpar;](https://dev.to/congcong/connecting-to-gbase-8s-database-using-c-and-adonet-on-windows-2-3h18)
+- [Questions to Ask a Workday Testing Partner](https://dev.to/johnste39558689/questions-to-ask-a-workday-testing-partner-3nen)
 <!-- BLOG-POST-LIST:END -->
 
 ---
