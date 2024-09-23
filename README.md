@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Guide to Effective Use of the Terraform AWS Cloud Control Provider](https://dev.to/aws-builders/a-guide-to-effective-use-of-the-terraform-aws-cloud-control-provider-4dmn)
-- [Dive into Database Fun with Sequelize Migrations: Users, Vouchers, and Gifts, Oh My!](https://dev.to/hopelesscoder/dive-into-database-fun-with-sequelize-migrations-users-vouchers-and-gifts-oh-my-4p2g)
-- [Understanding the Essentials of Angular](https://dev.to/darrenheine/understanding-the-essentials-of-angular-2oop)
-- [- binary numbers, other number representations - conversions between different number representations](https://dev.to/tsolak_shahbazyan_4d38b8e/-binary-numbers-other-number-representations-conversions-between-different-number-representations-72a)
-- [Conociendo uv](https://dev.to/johnnatan_sandovalcardon/conociendo-uv-1717)
+- [Deployment and Load Status Monitoring of GBFS Dedicated File Server for GBase 8a MPP Cluster Data Loading](https://dev.to/congcong/deployment-and-load-status-monitoring-of-gbfs-dedicated-file-server-for-gbase-8a-mpp-cluster-data-loading-1ap0)
+- [Step by step to create ESXi customize image](https://dev.to/ashishchorge/step-by-step-to-create-esxi-customize-image-34an)
+- [How Researchers Are Teaching AI to Understand What We Really Want](https://dev.to/exploredataaiml/how-researchers-are-teaching-ai-to-understand-what-we-really-want-32od)
+- [Engineering Leadership: Bridging Gaps and Simplifying Tech](https://dev.to/kumarsiva07/engineering-leadership-bridging-gaps-and-simplifying-tech-142b)
+- [Strange error after build for PROD vite with laravel, vue3 and inertia](https://dev.to/r0bschuh/strange-error-after-build-for-prod-vite-with-laravel-vue3-and-inertia-1m1n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
