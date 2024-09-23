@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What is Dynamic Protection in SafeLine WAF](https://dev.to/carrie_luo1/what-is-dynamic-protection-in-safeline-waf-55ep)
-- [How React JSX Gets Transformed Into JavaScript Behind the Scenes](https://dev.to/kashif_ullah_dev/how-react-jsx-gets-transformed-into-javascript-behind-the-scenes-467f)
-- [Best Practices for Securing Your Data with AWS S3 and VPC Endpoints](https://dev.to/emma_wags_8dd9b74533690da/best-practices-for-securing-your-data-with-aws-s3-and-vpc-endpoints-3908)
-- [EFCore Tutorial P8:Filtering, Sorting, and Paging](https://dev.to/moh_moh701/efcore-tutorial-p8filtering-sorting-and-paging-3c3d)
-- [How to Turn Your Device Into a Simple Server Using Python.](https://dev.to/trixsec/how-to-turn-your-device-into-a-simple-server-using-python-47be)
+- [How I automated the booking of group CrossFit &lpar;or any other activity&rpar; classes at my gym with Playwright](https://dev.to/vicentecph/how-i-automated-the-booking-of-group-crossfit-or-any-other-activity-classes-at-my-gym-with-playwright-15pd)
+- [Cursors in PL/SQL Part 2](https://dev.to/mrcaption49/cursors-in-plsql-part-2-59ph)
+- [How to deploy Kubernetes Secrets with AWS Secrets Manager](https://dev.to/devtron_inc/how-to-deploy-kubernetes-secrets-with-aws-secrets-manager-48dh)
+- [Optimizing OpenStreetMap’s DevOps Efficiency: A Data-Driven DORA Metrics Analysis](https://dev.to/middleware/optimizing-openstreetmaps-devops-efficiency-a-data-driven-dora-metrics-analysis-4h8)
+- [Learn Fastly Compute in your browser in minutes](https://dev.to/fastly/learn-fastly-compute-in-your-browser-in-minutes-g7g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
