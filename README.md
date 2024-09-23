@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Troubleshooting Umami Analytics: Resolving Unknown User Country Issue with Proxy Protocol on OCI](https://dev.to/nhisyamj/troubleshooting-umami-analytics-resolving-unknown-user-country-issue-with-proxy-protocol-on-oci-3gke)
-- [Creating a Scholarship Chatbot: A Beginner&#39;s Step-by-Step Guide with HTML, CSS, JavaScript, and Gemini API](https://dev.to/indah780/creating-a-scholarship-chatbot-a-beginners-step-by-step-guide-with-html-css-javascript-and-gemini-api-2d0e)
-- [Exploring Salesforce Web3 Exploring Salesforce Web3 and Blockchain Integration in 2024](https://dev.to/itechcloud_solution_01/exploring-salesforce-web3-exploring-salesforce-web3-and-blockchain-integration-in-2024-1d6l)
-- [Connecting to GBase 8s Database Using C# and ADO.NET on Windows &lpar;2&rpar;](https://dev.to/congcong/connecting-to-gbase-8s-database-using-c-and-adonet-on-windows-2-3h18)
-- [Questions to Ask a Workday Testing Partner](https://dev.to/johnste39558689/questions-to-ask-a-workday-testing-partner-3nen)
+- [TypeScript Regions](https://dev.to/matthewbill/typescript-regions-5h1f)
+- [The Architecture Behind Crypto Exchange Mining Pools](https://dev.to/alexroor4/the-architecture-behind-crypto-exchange-mining-pools-2gmp)
+- [How to Change Brightness on Windows 11?](https://dev.to/winsides/how-to-change-brightness-on-windows-11-dl9)
+- [Build a SERP rank tracker app with this API](https://dev.to/serpapi/build-a-serp-rank-tracker-app-with-this-api-4nbj)
+- [Adding a Serial ID to MySQL Tables Based on Creation Date: A Step-by-Step Guide](https://dev.to/manojspace/adding-a-serial-id-to-mysql-tables-based-on-creation-date-a-step-by-step-guide-2em3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
