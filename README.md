@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Coding Should Be a Core Subject in Schools](https://dev.to/indusschoolb/why-coding-should-be-a-core-subject-in-schools-3dhi)
-- [🛸🛸🚀The Planets Shooter Game For Dev Challenge🌏🛸🚀](https://dev.to/hanzla-mirza/the-planets-shooter-game-for-dev-challenge-22hi)
-- [Meme Monday](https://dev.to/ben/meme-monday-2cpe)
-- [Effective Software Development Workflow: From Idea to Delivery](https://dev.to/iamceedo/effective-software-development-workflow-from-idea-to-delivery-47d8)
-- [Using React Server Components and Server Actions in Next.js](https://dev.to/amyssnippet/using-react-server-components-and-server-actions-in-nextjs-2cg3)
+- [Storage Wars: Web Edition – or, how we learned to store binary data effectively](https://dev.to/scanbot-sdk/storage-wars-web-edition-or-how-we-learned-to-store-binary-data-effectively-1f7c)
+- [My first issue on GitHub](https://dev.to/gaurav-webdev/my-first-issue-on-github-h9f)
+- [The Importance of DOM Manipulation: Strategies and Best Practices for Businesses](https://dev.to/keploy/the-importance-of-dom-manipulation-strategies-and-best-practices-for-businesses-3no6)
+- [Primeiro](https://dev.to/naotemerro/primeiro-31bo)
+- [Simplify Chrome Extension Development: Add React without CRA](https://dev.to/k_ivanow/simplify-chrome-extension-development-add-react-without-cra-5h4c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
