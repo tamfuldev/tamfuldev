@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How do you handle lack of self-confidence in the programming field?](https://dev.to/cerindaemon/how-do-you-handle-lack-of-self-confidence-in-the-programming-field-1adm)
-- [How to Integrate OpenGraph in React to Boost SEO and Social Sharing](https://dev.to/esaraviam/how-to-integrate-opengraph-in-react-to-boost-seo-and-social-sharing-25e1)
-- [Host a Reverse Proxy in Seconds](https://dev.to/mattvoget/host-a-reverse-proxy-in-seconds-34pb)
-- [Mocking an AI Chatbot API with Blackbird](https://dev.to/mattvoget/mocking-an-ai-chatbot-api-with-blackbird-419)
-- [Optimizing Next.js Performance: Achieving Perfect Lighthouse Scores](https://dev.to/jnanadiw/optimizing-nextjs-performance-achieving-perfect-lighthouse-scores-24id)
+- [React: State X Derived State](https://dev.to/noriller/react-state-x-derived-state-2d2a)
+- [Make your web page faster](https://dev.to/delaterra/make-your-web-page-faster-1bk8)
+- [Netflix Clone to Level Up Your Frontend Skills](https://dev.to/tramposo/netflix-clone-to-level-up-your-frontend-skills-1ghp)
+- [A beautiful mess &lpar;v2b&rpar;](https://dev.to/mhjwbymhmd/a-beautiful-mess-v2b-52a)
+- [Top DevOps Tools for Startups in 2024: From Jenkins to Terraform](https://dev.to/arbythecoder/top-devops-tools-for-startups-in-2024-from-jenkins-to-terraform-2j24)
 <!-- BLOG-POST-LIST:END -->
 
 ---
