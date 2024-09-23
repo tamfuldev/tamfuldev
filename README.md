@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Web Applications with ASP.NET Core](https://dev.to/kartikmehta8/building-web-applications-with-aspnet-core-4d6h)
-- [How My Friend Inspired Me to Reignite My Passion for AI Through Lifelong Learning😊](https://dev.to/fonyuygita/how-my-friend-inspired-me-to-reignite-my-passion-for-ai-through-lifelong-learning-2og2)
-- [How to start a Shadcn project from scratch](https://dev.to/opensourcee/how-to-start-a-shadcn-project-from-scratch-44ln)
-- [Essential Git Commands Every Developer Should Know](https://dev.to/mr_nova/essential-git-commands-every-developer-should-know-4gpk)
-- [Proxmox and NAS: Implementing VLANs for Network Isolation](https://dev.to/sebos/proxmox-and-nas-implementing-vlans-for-network-isolation-5g0e)
+- [Scalable SVG&#39;s](https://dev.to/ssukhpinder/scalable-svgs-244c)
+- [Why is less more? Minimalistic UI](https://dev.to/jhernandez504/why-is-less-more-minimalistic-ui-467l)
+- [RIME Input | curl: &lpar;6&rpar; Could not resolve host: raw.githubusercontent.com](https://dev.to/01kg/rime-input-curl-6-could-not-resolve-host-rawgithubusercontentcom-2iid)
+- [Develop mobile H5 image editor details using fabric.js](https://dev.to/nihaojob/develop-mobile-h5-image-editor-details-using-fabricjs-4dki)
+- [Understanding Binary and Hexadecimal Numbers](https://dev.to/elen_voskanyan/understanding-binary-and-hexadecimal-numbers-hm5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
