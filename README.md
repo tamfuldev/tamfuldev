@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Scalable SVG&#39;s](https://dev.to/ssukhpinder/scalable-svgs-244c)
-- [Why is less more? Minimalistic UI](https://dev.to/jhernandez504/why-is-less-more-minimalistic-ui-467l)
-- [RIME Input | curl: &lpar;6&rpar; Could not resolve host: raw.githubusercontent.com](https://dev.to/01kg/rime-input-curl-6-could-not-resolve-host-rawgithubusercontentcom-2iid)
-- [Develop mobile H5 image editor details using fabric.js](https://dev.to/nihaojob/develop-mobile-h5-image-editor-details-using-fabricjs-4dki)
-- [Understanding Binary and Hexadecimal Numbers](https://dev.to/elen_voskanyan/understanding-binary-and-hexadecimal-numbers-hm5)
+- [A Guide to Effective Use of the Terraform AWS Cloud Control Provider](https://dev.to/aws-builders/a-guide-to-effective-use-of-the-terraform-aws-cloud-control-provider-4dmn)
+- [Dive into Database Fun with Sequelize Migrations: Users, Vouchers, and Gifts, Oh My!](https://dev.to/hopelesscoder/dive-into-database-fun-with-sequelize-migrations-users-vouchers-and-gifts-oh-my-4p2g)
+- [Understanding the Essentials of Angular](https://dev.to/darrenheine/understanding-the-essentials-of-angular-2oop)
+- [- binary numbers, other number representations - conversions between different number representations](https://dev.to/tsolak_shahbazyan_4d38b8e/-binary-numbers-other-number-representations-conversions-between-different-number-representations-72a)
+- [Conociendo uv](https://dev.to/johnnatan_sandovalcardon/conociendo-uv-1717)
 <!-- BLOG-POST-LIST:END -->
 
 ---
