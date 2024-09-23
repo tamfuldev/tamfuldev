@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Detailed Comparison of JoyCaption Alpha One vs JoyCaption Pre-Alpha - Ultra Advanced Multi GPU Captioning](https://dev.to/furkangozukara/detailed-comparison-of-joycaption-alpha-one-vs-joycaption-pre-alpha-ultra-advanced-multi-gpu-captioning-494c)
-- [Static Redirects in Vercel](https://dev.to/shieldstring/static-redirects-in-vercel-32c3)
-- [Design and implement Git branching strategies for CI/CD integration](https://dev.to/gkarwchan/design-and-implement-git-branching-strategies-for-cicd-integration-b4o)
-- [🚀 DevOps Newbie? Conquer These 10 Challenges with Ease!](https://dev.to/francotel/devops-newbie-conquer-these-10-challenges-with-ease-3e0i)
-- [Half and Full adder. Half and Full subtractor](https://dev.to/menua_sim/half-and-full-adder-half-and-full-subtractor-3igl)
+- [Building Web Applications with ASP.NET Core](https://dev.to/kartikmehta8/building-web-applications-with-aspnet-core-4d6h)
+- [How My Friend Inspired Me to Reignite My Passion for AI Through Lifelong Learning😊](https://dev.to/fonyuygita/how-my-friend-inspired-me-to-reignite-my-passion-for-ai-through-lifelong-learning-2og2)
+- [How to start a Shadcn project from scratch](https://dev.to/opensourcee/how-to-start-a-shadcn-project-from-scratch-44ln)
+- [Essential Git Commands Every Developer Should Know](https://dev.to/mr_nova/essential-git-commands-every-developer-should-know-4gpk)
+- [Proxmox and NAS: Implementing VLANs for Network Isolation](https://dev.to/sebos/proxmox-and-nas-implementing-vlans-for-network-isolation-5g0e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
