@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an Open Source App That Went Viral](https://dev.to/afadil/how-i-built-an-open-source-app-that-went-viral-160p)
-- [One byte explainer GAMES : Sprites](https://dev.to/jarvisscript/one-byte-explainer-games-sprites-4igf)
-- [Difference Between Axios &amp; Fetch in Javascript](https://dev.to/pulkitgovrani/difference-between-axios-fetch-in-javascript-25od)
-- [7 Must-Dos for Every Computer Science Student](https://dev.to/shubhadip_bhowmik/7-must-dos-for-every-computer-science-student-1omo)
-- [🔥 Building a Real-Time Chat App with Sockets in Next.js 💬](https://dev.to/hamzakhan/building-a-real-time-chat-app-with-sockets-in-nextjs-1po9)
+- [`.git-blame-ignore-revs` to ignore bulk formatting changes.](https://dev.to/thinkthroo/git-blame-ignore-revs-to-ignore-bulk-formatting-changes-5fee)
+- [Handling Images and Fonts in Webpack](https://dev.to/orases1/handling-images-and-fonts-in-webpack-3f2a)
+- [React Native: A Smart Choice for Mobile App Development](https://dev.to/sambulosenda_40/react-native-a-smart-choice-for-mobile-app-development-273n)
+- [Tailwind Padding: A Quick Start](https://dev.to/codeparrot/tailwind-padding-a-quick-start-34n1)
+- [Small Swoole Symfony Http Client 1.0.0](https://dev.to/sebk69/small-swoole-symfony-http-client-100-gbn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
