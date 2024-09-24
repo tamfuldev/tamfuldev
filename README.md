@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Server-Side Rendering &lpar;SSR&rpar;: Uma Solução para SEO e Performance em Aplicações React](https://dev.to/sabrinabarros/server-side-rendering-ssr-uma-solucao-para-seo-e-performance-em-aplicacoes-react-1ap1)
-- [How to Use JavaScript&#39;s structuredClone&lpar;&rpar; for Deep Object Cloning](https://dev.to/devyoma/how-to-use-javascripts-structuredclone-for-deep-object-cloning-194h)
-- [LabEx Trending: Calculating Laser Weapon Damage and More](https://dev.to/labex/labex-trending-calculating-laser-weapon-damage-and-more-1oad)
-- [Mastering Unit Testing for Java: The &#39;Student Class Test&#39; Project](https://dev.to/labex/mastering-unit-testing-for-java-the-student-class-test-project-526i)
-- [Automating Deployments with GitHub Actions and Azure App Service](https://dev.to/fabrcio_marcondessantos/automating-deployments-with-github-actions-and-azure-app-service-23e5)
+- [I finally understand OAuth 🤯🤯🤯](https://dev.to/fomalhautb/i-finally-understand-oauth-2ldf)
+- [Business Agility &amp; its role in the modern world &lpar;feat. Ivan Gekht&rpar;](https://dev.to/vpalania/business-agility-its-role-in-the-modern-world-feat-ivan-gekht-3b5k)
+- [The Correct Usage of Auth0 with react-admin](https://dev.to/master_shifu/the-correct-usage-of-auth0-with-react-admin-349d)
+- [Pulsy , a simple react state management library](https://dev.to/ng_dream_3e53e6a868268e4d/pulsy-a-simple-react-state-management-library-3jfi)
+- [Is Remote Work Here to Stay?](https://dev.to/jimmymcbride/is-remote-work-here-to-stay-25fg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
