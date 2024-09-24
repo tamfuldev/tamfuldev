@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Day 28: Back from a Break &amp; JavaScript Workshop at Razorpay!&quot;](https://dev.to/jasman_deep_58679206bad26/day-28-back-from-a-break-javascript-workshop-at-razorpay-3elj)
-- [Figma to React with CodeParrot AI: Build Dashboard in minutes](https://dev.to/codeparrot/figma-to-react-with-codeparrot-ai-build-dashboard-in-minutes-3534)
-- [Algoritmos y control de flujo](https://dev.to/fernandomoyano/-algoritmos-y-control-de-flujo-14dh)
-- [Consolve: Bridging the Gap to Essential Services in Africa](https://dev.to/fasakinhenry/consolve-bridging-the-gap-to-essential-services-in-africa-3pgk)
-- [Machine Learning Tutorials: Dive into Powerful Techniques 🧠](https://dev.to/labex/machine-learning-tutorials-dive-into-powerful-techniques-494l)
+- [&quot;I HATE QA&quot; - A Perspective from a Senior QA Engineer](https://dev.to/enriqu3l/i-hate-qa-a-perspective-from-a-senior-qa-engineer-46if)
+- [Unit testing in Python with sheepy](https://dev.to/brunociccarino/unit-testing-in-python-with-sheepy-b93)
+- [Show Angular Material Dialog to Prevent Unsaved Form Changes](https://dev.to/ngmaterialdev/show-angular-material-dialog-to-prevent-unsaved-form-changes-38dj)
+- [Streamlit Part 3: Mastering Input Widgets](https://dev.to/jamesbmour/streamlit-part-3-mastering-input-widgets-114l)
+- [Top 10 Video Conferencing APIs &amp; SDKs in 2024.](https://dev.to/stephen568hub/top-10-video-conferencing-apis-sdks-in-2024-1g1h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
