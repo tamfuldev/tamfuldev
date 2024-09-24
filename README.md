@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Designing Twitter – A System Design Interview Question](https://dev.to/zeeshanali0704/designing-twitter-a-system-design-interview-question-221e)
-- [Streamlining Real Estate: How AI APIs Automate Image Analysis and Property Listings](https://dev.to/api4ai/streamlining-real-estate-how-ai-apis-automate-image-analysis-and-property-listings-3ddf)
-- [ESBench: A modern benchmarking tool](https://dev.to/kaciras/esbench-a-modern-benchmarking-tool-2gg0)
-- [How to Set Up a Clean Development Environment with Docker and Alpine Linux](https://dev.to/natanielchng/how-to-set-up-a-clean-development-environment-with-docker-and-alpine-linux-4ff)
-- [Localization in Flutter with ChatGPT](https://dev.to/odinachi/localization-in-flutter-with-chatgpt-1e62)
+- [&quot;Day 28: Back from a Break &amp; JavaScript Workshop at Razorpay!&quot;](https://dev.to/jasman_deep_58679206bad26/day-28-back-from-a-break-javascript-workshop-at-razorpay-3elj)
+- [Figma to React with CodeParrot AI: Build Dashboard in minutes](https://dev.to/codeparrot/figma-to-react-with-codeparrot-ai-build-dashboard-in-minutes-3534)
+- [Algoritmos y control de flujo](https://dev.to/fernandomoyano/-algoritmos-y-control-de-flujo-14dh)
+- [Consolve: Bridging the Gap to Essential Services in Africa](https://dev.to/fasakinhenry/consolve-bridging-the-gap-to-essential-services-in-africa-3pgk)
+- [Machine Learning Tutorials: Dive into Powerful Techniques 🧠](https://dev.to/labex/machine-learning-tutorials-dive-into-powerful-techniques-494l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
