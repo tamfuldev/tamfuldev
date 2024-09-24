@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Horizontal Pod Autoscaling](https://dev.to/chauhoangminhnguyen/kubernetes-horizontal-pod-autoscaling-35io)
-- [14 Best UXCam Alternatives and Competitors in 2024](https://dev.to/zipy/14-best-uxcam-alternatives-and-competitors-in-2024-518g)
-- [Trying Elysia JS: How I Built an App for Meaningful and Memorable Conversations](https://dev.to/gaundergod/trying-elysia-js-how-i-built-an-app-for-meaningful-and-memorable-conversations-154)
-- [Zipy vs Posthog: An in-depth comparison for 2024](https://dev.to/zipy/zipy-vs-posthog-an-in-depth-comparison-for-2024-2hal)
-- [Style guide to write git history](https://dev.to/this-is-learning/style-guide-to-write-git-history-4fok)
+- [Designing Twitter – A System Design Interview Question](https://dev.to/zeeshanali0704/designing-twitter-a-system-design-interview-question-221e)
+- [Streamlining Real Estate: How AI APIs Automate Image Analysis and Property Listings](https://dev.to/api4ai/streamlining-real-estate-how-ai-apis-automate-image-analysis-and-property-listings-3ddf)
+- [ESBench: A modern benchmarking tool](https://dev.to/kaciras/esbench-a-modern-benchmarking-tool-2gg0)
+- [How to Set Up a Clean Development Environment with Docker and Alpine Linux](https://dev.to/natanielchng/how-to-set-up-a-clean-development-environment-with-docker-and-alpine-linux-4ff)
+- [Localization in Flutter with ChatGPT](https://dev.to/odinachi/localization-in-flutter-with-chatgpt-1e62)
 <!-- BLOG-POST-LIST:END -->
 
 ---
