@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Quick Review of the Top Online Planners to Streamline Project Management](https://dev.to/thomasy0ung/quick-review-of-the-top-online-planners-to-streamline-project-management-53c0)
-- [How to Quickly Deploy Your Angular/React/Vue Website for Free Using EdgeOne Pages](https://dev.to/mpoiiii/ru-he-shi-yong-edgeone-pages-mian-fei-kuai-su-bu-shu-angularreactvue-wang-zhan-52lo)
-- [Overview of PostgreSQL indexing](https://dev.to/leandro_nnz/overview-of-postgresql-indexing-lpi)
-- [Supercharge Your Android App: 6 Powerful Performance-Boosting Techniques](https://dev.to/helloquash/supercharging-your-android-app-6-powerful-performance-boosting-techniques-4k7j)
-- [Get Started with Percona Everest on Azure AKS](https://dev.to/edithturn/get-started-with-percona-everest-on-azure-aks-113l)
+- [Kubernetes Horizontal Pod Autoscaling](https://dev.to/chauhoangminhnguyen/kubernetes-horizontal-pod-autoscaling-35io)
+- [14 Best UXCam Alternatives and Competitors in 2024](https://dev.to/zipy/14-best-uxcam-alternatives-and-competitors-in-2024-518g)
+- [Trying Elysia JS: How I Built an App for Meaningful and Memorable Conversations](https://dev.to/gaundergod/trying-elysia-js-how-i-built-an-app-for-meaningful-and-memorable-conversations-154)
+- [Zipy vs Posthog: An in-depth comparison for 2024](https://dev.to/zipy/zipy-vs-posthog-an-in-depth-comparison-for-2024-2hal)
+- [Style guide to write git history](https://dev.to/this-is-learning/style-guide-to-write-git-history-4fok)
 <!-- BLOG-POST-LIST:END -->
 
 ---
