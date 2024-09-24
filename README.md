@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Considerations around Privacy in RAG-Based Architectures](https://dev.to/hakeem/considerations-around-privacy-in-rag-based-architectures-16gb)
-- [Top 10 Mind-Blowing JavaScript Tricks You’ve Never Seen Before](https://dev.to/agunwachidiebelecalistus/top-10-mind-blowing-javascript-tricks-youve-never-seen-before-1klb)
-- [Developers&#39; Best Practices for API Versioning](https://dev.to/cyanspray/developers-best-practices-for-api-versioning-3pj2)
-- [EchoAPI:lightweight alternative to Postman](https://dev.to/johnjava/echoapilightweight-alternative-to-postman-4nig)
-- [C# Design Pattern: Singleton](https://dev.to/juarezasjunior/c-design-pattern-singleton-22f3)
+- [Quick Review of the Top Online Planners to Streamline Project Management](https://dev.to/thomasy0ung/quick-review-of-the-top-online-planners-to-streamline-project-management-53c0)
+- [How to Quickly Deploy Your Angular/React/Vue Website for Free Using EdgeOne Pages](https://dev.to/mpoiiii/ru-he-shi-yong-edgeone-pages-mian-fei-kuai-su-bu-shu-angularreactvue-wang-zhan-52lo)
+- [Overview of PostgreSQL indexing](https://dev.to/leandro_nnz/overview-of-postgresql-indexing-lpi)
+- [Supercharge Your Android App: 6 Powerful Performance-Boosting Techniques](https://dev.to/helloquash/supercharging-your-android-app-6-powerful-performance-boosting-techniques-4k7j)
+- [Get Started with Percona Everest on Azure AKS](https://dev.to/edithturn/get-started-with-percona-everest-on-azure-aks-113l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
