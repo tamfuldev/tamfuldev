@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I finally understand OAuth 🤯🤯🤯](https://dev.to/fomalhautb/i-finally-understand-oauth-2ldf)
-- [Business Agility &amp; its role in the modern world &lpar;feat. Ivan Gekht&rpar;](https://dev.to/vpalania/business-agility-its-role-in-the-modern-world-feat-ivan-gekht-3b5k)
-- [The Correct Usage of Auth0 with react-admin](https://dev.to/master_shifu/the-correct-usage-of-auth0-with-react-admin-349d)
-- [Pulsy , a simple react state management library](https://dev.to/ng_dream_3e53e6a868268e4d/pulsy-a-simple-react-state-management-library-3jfi)
-- [Is Remote Work Here to Stay?](https://dev.to/jimmymcbride/is-remote-work-here-to-stay-25fg)
+- [Getting members based on a specified condition #47](https://dev.to/esproc_spl/getting-members-based-on-a-specified-condition-47-1n3e)
+- [Integrating REST APIs in React: A Comprehensive Guide](https://dev.to/vyan/integrating-rest-apis-in-react-a-comprehensive-guide-4lj8)
+- [rails system test, save failed screenshots](https://dev.to/ugifractal/rails-system-test-save-failed-screenshots-1c0m)
+- [I made my first front-end project](https://dev.to/gavin_griggs_ab03b19c7d33/i-made-my-first-front-end-project-14pe)
+- [Docker: Parte 2 - Criação de Imagens e Execução de Containers](https://dev.to/felipeboliveira/docker-parte-2-criacao-de-imagens-e-execucao-de-containers-3mb3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
