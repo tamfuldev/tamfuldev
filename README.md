@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [3 ways to use environment Variables in Rust](https://dev.to/francescoxx/3-ways-to-use-environment-variables-in-rust-4eaf)
-- [Custom Text Font Usage in Nuxt.js with Tailwind CSS](https://dev.to/elifnurturk/custom-text-font-usage-in-nuxtjs-with-tailwind-css-j49)
-- [LinkedIn Referral Request Message.](https://dev.to/mrcaption49/linkedin-referral-request-message-1hga)
-- [Análisis Exploratorio de datos &lpar;EDA&rpar; con Apache Spark](https://dev.to/madriz03/analisis-exploratorio-de-datos-eda-con-apache-spark-2ea5)
-- [iSAQB certifications are worthless... Or, are they?](https://dev.to/tectrain_academy/isaqb-certifications-are-worthless-or-are-they-pk4)
+- [Macbook or Windows Laptop?](https://dev.to/jenueldev/macbook-or-windows-laptop-2jom)
+- [Waymap v1.0.7 - Web Vulnerability Scanner](https://dev.to/trixsec/waymap-v107-web-vulnerability-scanner-1omo)
+- [From Deploy to Commit: Building the Ultimate Development Pipeline - A Comprehensive Guide](https://dev.to/squadcast/from-deploy-to-commit-building-the-ultimate-development-pipeline-a-comprehensive-guide-4mi3)
+- [Day 29: Exploring Python &amp; Advancing JavaScript Skills!](https://dev.to/jasman_deep_58679206bad26/day-29-exploring-python-advancing-javascript-skills-389h)
+- [Mastering React Re-renders: How to Avoid Common Pitfalls](https://dev.to/paharihacker/mastering-react-re-renders-how-to-avoid-common-pitfalls-k01)
 <!-- BLOG-POST-LIST:END -->
 
 ---
