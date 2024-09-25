@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Comparing Laravel and Symfony: Choosing the Right PHP Framework for Your Project](https://dev.to/westtan/comparing-laravel-and-symfony-choosing-the-right-php-framework-for-your-project-aj)
-- [Conditionals 101: The building blocks of adaptive programs](https://dev.to/fahimulhaq/conditionals-101-the-building-blocks-of-adaptive-programs-28kb)
-- [A Guide to Date and Time in Javascript](https://dev.to/okoth/a-guide-to-date-and-time-in-javascript-5bp1)
-- [Building an Orders Processing Service with ChatGPT &lpar;contribute 70–80% efforts&rpar; and Finished in 2 Days](https://dev.to/jackynote/building-an-orders-processing-service-with-chatgpt-contribute-70-80-efforts-and-finished-in-2-days-3klf)
-- [📧 AWS Simple Email Service &lpar;SES&rpar;](https://dev.to/softden_2005/aws-simple-email-service-ses-1pjb)
+- [AI for Smarter Test Automation Strategies](https://dev.to/jennife05918349/ai-for-smarter-test-automation-strategies-1lon)
+- [Choosing the standard office colour for maximum productivity and comfort](https://dev.to/barry_luxe_1d93d3f6c95d48/choosing-the-standard-office-colour-for-maximum-productivity-and-comfort-2k94)
+- [React Design Patterns~High Order Components/ Data Loading~](https://dev.to/kkr0423/react-design-patternshigh-order-components-data-loading-224g)
+- [Setting Up MuleSoft Connectors for Salesforce Integration](https://dev.to/itechcloud_solution_01/setting-up-mulesoft-connectors-for-salesforce-integration-3166)
+- [&quot;Please provide a valid cache path&quot; error in laravel](https://dev.to/cmanish049/please-provide-a-valid-cache-path-error-in-laravel-2aoc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
