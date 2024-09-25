@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [WebRTC DataChannel Tutorial](https://dev.to/alakkadshaw/webrtc-datachannel-tutorial-3cfp)
-- [Didn&#39;t want to deal with Types. Now suffering :&lpar;](https://dev.to/paul_freeman/didnt-want-to-deal-with-types-now-suffering--5an2)
-- [Generating text description from youtube link using Angular, Gemini and Netlify](https://dev.to/salimchemes/generating-text-description-from-youtube-link-using-angular-gemini-and-netlify-44n)
-- [Infrastructure as Code Security with CloudFormation](https://dev.to/ikoh_sylva/infrastructure-as-code-security-with-cloudformation-fne)
-- [Typescript quick concept refresher and reference](https://dev.to/keshav___dev/typescript-quick-concept-refresher-and-reference-4og1)
+- [Minimum distance in an Array](https://dev.to/phoenix_238501d86d417e/minimum-distance-in-an-array-m5)
+- [Enhancing Company Security with Private Document Storage](https://dev.to/tjasper/enhancing-company-security-with-private-document-storage-1l8k)
+- [Building a Scalable Django Application with Gunicorn and Nginx](https://dev.to/sanya_lazy/building-a-scalable-django-application-with-gunicorn-and-nginx-17kd)
+- [React Under The Hood: What’s Really Happening?](https://dev.to/travislramos/react-under-the-hood-whats-really-happening-2p4d)
+- [Deno 2.0 is Here](https://dev.to/grenishrai/deno-20-is-here-39j7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
