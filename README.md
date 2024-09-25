@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Code Smell 271 - The Hollywood Principle](https://dev.to/mcsee/code-smell-271-the-hollywood-principle-3hh7)
-- [Setting Up a Multi-Tier Web Application Locally: A DevOps Guide](https://dev.to/purveshshende2/setting-up-a-multi-tier-web-application-locally-a-devops-guide-78o)
-- [Mapa de Iniciativas Ecológicas: JavaScript &lpar;Parte 3&rpar;](https://dev.to/villacisg93/mapa-de-iniciativas-ecologicas-javascript-parte-3-3f3l)
-- [Laços de Decisão e Repetição: O Guia Essencial para Iniciantes](https://dev.to/jandersonsiqueira/lacos-de-decisao-e-repeticao-o-guia-essencial-para-iniciantes-1j1d)
-- [Looking to meet someone in the Sacramento area](https://dev.to/ltdan/looking-to-meet-someone-in-the-sacramento-area-4ejp)
+- [Building a Classic Hangman Game in Python with Category Selection](https://dev.to/codewizardx1/building-a-classic-hangman-game-in-python-with-category-selection-396j)
+- [Issue 63 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-63-of-aws-cloud-security-weekly-7mj)
+- [2 of 100 Projects: Create a Simple Yet Eye-Catching Web Page with CSS](https://dev.to/areeb_anwar_813df06ee1124/2-of-100-projects-create-a-simple-yet-eye-catching-web-page-with-css-59h1)
+- [Why do I get so many followers on this platform?](https://dev.to/w4ffl35/why-do-i-get-so-many-followers-on-this-platform-4lpc)
+- [Observability with .ASP NET Core using OpenTelemetry, Prometheus and Grafana](https://dev.to/sylvester-henrique/observability-with-asp-net-core-using-opentelemetry-prometheus-and-grafana-39hm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
