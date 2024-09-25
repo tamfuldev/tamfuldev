@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Error yang sering di jumpai ketika Setup NodeJS App pada cPanel.](https://dev.to/sumberweb/error-yang-sering-di-jumpai-ketika-setup-nodejs-app-pada-cpanel-27g6)
-- [Error yang sering di jumpai ketika Setup NodeJS App pada cPanel.](https://dev.to/sumberweb/error-yang-sering-di-jumpai-ketika-setup-nodejs-app-pada-cpanel-4227)
-- [Sitecore Experience Editor Tip to show instructions to Content Authors](https://dev.to/esdanielgomez/sitecore-experience-editor-tip-to-show-instructions-to-content-authors-k63)
-- [AI-driven OCR Revolutionizes Intelligent Layout Analysis with 24+ Labels](https://dev.to/derek-compdf/ai-driven-ocr-revolutionizes-intelligent-layout-analysis-with-24-labels-2p5g)
-- [Accidently create file name &quot;\&quot; in development folder](https://dev.to/hardyweb/accidently-create-file-name-in-development-folder-4b4j)
+- [Linux, I Choose You! 🐧](https://dev.to/jimmymcbride/linux-i-choose-you-5ebe)
+- [WebGL&#39;s Animation loop, gaming on browsers - One Byte Explainer](https://dev.to/aortega/webgls-animation-loop-gaming-on-browsers-one-byte-explainer-4o1h)
+- [What is Deno JS?](https://dev.to/tanmayp9/what-is-deno-js-294n)
+- [Best Practices for React Js and Next Js Development](https://dev.to/shahharsh/best-practices-for-react-js-and-next-js-development-29eo)
+- [AmrKhalil97/CashApp-UI-clone-flutter-application](https://dev.to/ayuba_yahaya_c87f2bda3d4d/amrkhalil97cashapp-ui-clone-flutter-application-4b9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
