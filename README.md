@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Window functions](https://dev.to/mrcaption49/window-functions-5d8h)
-- [Open source semantic embedding, search &amp; clustering in NodeJS](https://dev.to/omar4ur/open-source-semantic-embedding-search-clustering-in-nodejs-23om)
-- [FloatyNavBar: Elevate Your Flutter App&#39;s Navigation](https://dev.to/mustafa7ibrahim/floatynavbar-elevate-your-flutter-apps-navigation-2aab)
-- [VSCode extensions are not removed from file system even after uninstalling, I created a solution !](https://dev.to/lakshitsomani/vscode-extensions-not-removed-from-file-system-even-after-uninstalling-i-created-a-solution--26fm)
-- [Performance and Security Considerations for Electron Apps](https://dev.to/tarzzotech/performance-and-security-considerations-for-electron-apps-3f1o)
+- [Mastering Flutter: Your Ultimate Guide to Building Stunning Cross-Platform Apps](https://dev.to/itechburner/mastering-flutter-your-ultimate-guide-to-building-stunning-cross-platform-apps-i4k)
+- [Divide two integers without using division or multiplication operators](https://dev.to/prashantrmishra/divide-two-integers-without-using-division-or-multiplication-operators-2bne)
+- [Building Menuland.ph: A Delicious Journey in Web Development 🍕](https://dev.to/saqib_syed_68931758105445/building-menulandph-a-delicious-journey-in-web-development-2b3m)
+- [Extending NUC with External U.2 SSD](https://dev.to/splix/extending-nuc-with-external-u2-ssd-2e63)
+- [Mastering C# Fundamentals: `switch` Statement](https://dev.to/moh_moh701/mastering-c-fundamentals-switch-statement-3jk4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
