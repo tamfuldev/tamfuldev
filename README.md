@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Show us your open-source project!](https://dev.to/litlyx/show-us-your-open-source-project-32o)
-- [ValidatorKit: Simplify iOS Data Validation with Swift](https://dev.to/alhiane/validatorkit-simplify-ios-data-validation-with-swift-2p7j)
-- [How to Attach and Use a New EBS Volume on Your Existing EC2 Instance](https://dev.to/shahidkhans/how-to-attach-and-use-a-new-ebs-volume-on-your-existing-ec2-instance-29oo)
-- [Cursor vs GitHub Copilot](https://dev.to/builderio/cursor-vs-github-copilot-5581)
-- [How to resolve compatibility problems between browsers for a consistent page layout](https://dev.to/palourderouge/how-to-resolve-compatibility-problems-between-browsers-for-a-consistent-page-layout-2b92)
+- [3 ways to use environment Variables in Rust](https://dev.to/francescoxx/3-ways-to-use-environment-variables-in-rust-4eaf)
+- [Custom Text Font Usage in Nuxt.js with Tailwind CSS](https://dev.to/elifnurturk/custom-text-font-usage-in-nuxtjs-with-tailwind-css-j49)
+- [LinkedIn Referral Request Message.](https://dev.to/mrcaption49/linkedin-referral-request-message-1hga)
+- [Análisis Exploratorio de datos &lpar;EDA&rpar; con Apache Spark](https://dev.to/madriz03/analisis-exploratorio-de-datos-eda-con-apache-spark-2ea5)
+- [iSAQB certifications are worthless... Or, are they?](https://dev.to/tectrain_academy/isaqb-certifications-are-worthless-or-are-they-pk4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
