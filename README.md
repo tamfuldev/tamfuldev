@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Minimum distance in an Array](https://dev.to/phoenix_238501d86d417e/minimum-distance-in-an-array-m5)
-- [Enhancing Company Security with Private Document Storage](https://dev.to/tjasper/enhancing-company-security-with-private-document-storage-1l8k)
-- [Building a Scalable Django Application with Gunicorn and Nginx](https://dev.to/sanya_lazy/building-a-scalable-django-application-with-gunicorn-and-nginx-17kd)
-- [React Under The Hood: What’s Really Happening?](https://dev.to/travislramos/react-under-the-hood-whats-really-happening-2p4d)
-- [Deno 2.0 is Here](https://dev.to/grenishrai/deno-20-is-here-39j7)
+- [What is Load Balancing ?](https://dev.to/yashrajxdev/what-is-load-balancing--1hp4)
+- [Exploring the Advantages of Gear&#39;s Actor Model in Vara Network](https://dev.to/srobver/exploring-the-advantages-of-gears-actor-model-in-vara-network-444f)
+- [Building Multi-Tenant Applications with Strapi and Docker Introduction](https://dev.to/mark_mwendia_0298dd9c0aad/building-multi-tenant-applications-with-strapi-and-docker-introduction-19ji)
+- [Optimizing CI/CD Pipelines for Kubernetes Deployments with ArgoCD](https://dev.to/mark_mwendia_0298dd9c0aad/optimizing-cicd-pipelines-for-kubernetes-deployments-with-argocd-2gd2)
+- [Implementing Machine Learning APIs with Python and FastAPI](https://dev.to/mark_mwendia_0298dd9c0aad/implementing-machine-learning-apis-with-python-and-fastapi-3c5d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
