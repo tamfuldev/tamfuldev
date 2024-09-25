@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Macbook or Windows Laptop?](https://dev.to/jenueldev/macbook-or-windows-laptop-2jom)
-- [Waymap v1.0.7 - Web Vulnerability Scanner](https://dev.to/trixsec/waymap-v107-web-vulnerability-scanner-1omo)
-- [From Deploy to Commit: Building the Ultimate Development Pipeline - A Comprehensive Guide](https://dev.to/squadcast/from-deploy-to-commit-building-the-ultimate-development-pipeline-a-comprehensive-guide-4mi3)
-- [Day 29: Exploring Python &amp; Advancing JavaScript Skills!](https://dev.to/jasman_deep_58679206bad26/day-29-exploring-python-advancing-javascript-skills-389h)
-- [Mastering React Re-renders: How to Avoid Common Pitfalls](https://dev.to/paharihacker/mastering-react-re-renders-how-to-avoid-common-pitfalls-k01)
+- [Window functions](https://dev.to/mrcaption49/window-functions-5d8h)
+- [Open source semantic embedding, search &amp; clustering in NodeJS](https://dev.to/omar4ur/open-source-semantic-embedding-search-clustering-in-nodejs-23om)
+- [FloatyNavBar: Elevate Your Flutter App&#39;s Navigation](https://dev.to/mustafa7ibrahim/floatynavbar-elevate-your-flutter-apps-navigation-2aab)
+- [VSCode extensions are not removed from file system even after uninstalling, I created a solution !](https://dev.to/lakshitsomani/vscode-extensions-not-removed-from-file-system-even-after-uninstalling-i-created-a-solution--26fm)
+- [Performance and Security Considerations for Electron Apps](https://dev.to/tarzzotech/performance-and-security-considerations-for-electron-apps-3f1o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
