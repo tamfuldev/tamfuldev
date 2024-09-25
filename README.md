@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering the Developer&#39;s Journey: From Challenges to Confidence](https://dev.to/creowistech/mastering-the-developers-journey-from-challenges-to-confidence-5ffl)
-- [Why does SQLynx perform so well](https://dev.to/urlewicz_aicha_d14af69bc8/why-does-sqlynx-perform-so-well-3j8j)
-- [#64 — Search for Top N Values And Last N Values](https://dev.to/judith677/64-search-for-top-n-values-and-last-n-values-1286)
-- [Avoiding Unnecessary Re-renders in React](https://dev.to/vyan/avoiding-unnecessary-re-renders-in-react-172k)
-- [GraphQL vs REST: Implementing GraphQL in a MERN Application 🚀](https://dev.to/info_generalhazedawn_a3d/graphql-vs-rest-implementing-graphql-in-a-mern-application-5888)
+- [Error yang sering di jumpai ketika Setup NodeJS App pada cPanel.](https://dev.to/sumberweb/error-yang-sering-di-jumpai-ketika-setup-nodejs-app-pada-cpanel-27g6)
+- [Error yang sering di jumpai ketika Setup NodeJS App pada cPanel.](https://dev.to/sumberweb/error-yang-sering-di-jumpai-ketika-setup-nodejs-app-pada-cpanel-4227)
+- [Sitecore Experience Editor Tip to show instructions to Content Authors](https://dev.to/esdanielgomez/sitecore-experience-editor-tip-to-show-instructions-to-content-authors-k63)
+- [AI-driven OCR Revolutionizes Intelligent Layout Analysis with 24+ Labels](https://dev.to/derek-compdf/ai-driven-ocr-revolutionizes-intelligent-layout-analysis-with-24-labels-2p5g)
+- [Accidently create file name &quot;\&quot; in development folder](https://dev.to/hardyweb/accidently-create-file-name-in-development-folder-4b4j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
