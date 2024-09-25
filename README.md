@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [10 Best API Management Tools for Enterprises](https://dev.to/apilover/10-best-api-management-tools-for-enterprises-4ai0)
-- [How to create a table with SQL code?](https://dev.to/chat2db/how-to-create-a-table-with-sql-code-pp0)
-- [Run Ansible on Windows without WSL](https://dev.to/hedgehog/run-ansible-on-windows-without-wsl-5hd3)
-- [How to Implement Search Functionality Using api calls in flutter flow](https://dev.to/amir_muse_1246a7b1549c3b3/how-to-implement-search-functionality-using-api-calls-in-flutter-flow-5d87)
-- [ChatGPT Clone: Revolutionizing AI Conversations with Customized Solutions](https://dev.to/elisaray/chatgpt-clone-revolutionizing-ai-conversations-with-customized-solutions-ndk)
+- [Show us your open-source project!](https://dev.to/litlyx/show-us-your-open-source-project-32o)
+- [ValidatorKit: Simplify iOS Data Validation with Swift](https://dev.to/alhiane/validatorkit-simplify-ios-data-validation-with-swift-2p7j)
+- [How to Attach and Use a New EBS Volume on Your Existing EC2 Instance](https://dev.to/shahidkhans/how-to-attach-and-use-a-new-ebs-volume-on-your-existing-ec2-instance-29oo)
+- [Cursor vs GitHub Copilot](https://dev.to/builderio/cursor-vs-github-copilot-5581)
+- [How to resolve compatibility problems between browsers for a consistent page layout](https://dev.to/palourderouge/how-to-resolve-compatibility-problems-between-browsers-for-a-consistent-page-layout-2b92)
 <!-- BLOG-POST-LIST:END -->
 
 ---
