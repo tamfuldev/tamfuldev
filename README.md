@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI for Smarter Test Automation Strategies](https://dev.to/jennife05918349/ai-for-smarter-test-automation-strategies-1lon)
-- [Choosing the standard office colour for maximum productivity and comfort](https://dev.to/barry_luxe_1d93d3f6c95d48/choosing-the-standard-office-colour-for-maximum-productivity-and-comfort-2k94)
-- [React Design Patterns~High Order Components/ Data Loading~](https://dev.to/kkr0423/react-design-patternshigh-order-components-data-loading-224g)
-- [Setting Up MuleSoft Connectors for Salesforce Integration](https://dev.to/itechcloud_solution_01/setting-up-mulesoft-connectors-for-salesforce-integration-3166)
-- [&quot;Please provide a valid cache path&quot; error in laravel](https://dev.to/cmanish049/please-provide-a-valid-cache-path-error-in-laravel-2aoc)
+- [Why composer is necessary for Drupal installations or upgrades?](https://dev.to/drupal-developer-dewan/why-composer-is-necessary-for-drupal-installations-or-upgrades-hnk)
+- [Streamlining Processes with Salesforce Data Cloud Triggered Flows](https://dev.to/itechcloud_solution_01/streamlining-processes-with-salesforce-data-cloud-triggered-flows-328m)
+- [CSS content-visibility for React devs](https://dev.to/sebastienlorber/css-content-visibility-for-react-devs-4a3i)
+- [An Introduction to Salesforce Data Cloud: Key Concepts](https://dev.to/itechcloud_solution_01/an-introduction-to-salesforce-data-cloud-key-concepts-58a6)
+- [The Golden Ratio in CSS](https://dev.to/madsstoumann/the-golden-ratio-in-css-53d0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
