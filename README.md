@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Classic Hangman Game in Python with Category Selection](https://dev.to/codewizardx1/building-a-classic-hangman-game-in-python-with-category-selection-396j)
-- [Issue 63 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-63-of-aws-cloud-security-weekly-7mj)
-- [2 of 100 Projects: Create a Simple Yet Eye-Catching Web Page with CSS](https://dev.to/areeb_anwar_813df06ee1124/2-of-100-projects-create-a-simple-yet-eye-catching-web-page-with-css-59h1)
-- [Why do I get so many followers on this platform?](https://dev.to/w4ffl35/why-do-i-get-so-many-followers-on-this-platform-4lpc)
-- [Observability with .ASP NET Core using OpenTelemetry, Prometheus and Grafana](https://dev.to/sylvester-henrique/observability-with-asp-net-core-using-opentelemetry-prometheus-and-grafana-39hm)
+- [Mastering the Developer&#39;s Journey: From Challenges to Confidence](https://dev.to/creowistech/mastering-the-developers-journey-from-challenges-to-confidence-5ffl)
+- [Why does SQLynx perform so well](https://dev.to/urlewicz_aicha_d14af69bc8/why-does-sqlynx-perform-so-well-3j8j)
+- [#64 — Search for Top N Values And Last N Values](https://dev.to/judith677/64-search-for-top-n-values-and-last-n-values-1286)
+- [Avoiding Unnecessary Re-renders in React](https://dev.to/vyan/avoiding-unnecessary-re-renders-in-react-172k)
+- [GraphQL vs REST: Implementing GraphQL in a MERN Application 🚀](https://dev.to/info_generalhazedawn_a3d/graphql-vs-rest-implementing-graphql-in-a-mern-application-5888)
 <!-- BLOG-POST-LIST:END -->
 
 ---
