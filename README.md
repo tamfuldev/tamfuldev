@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [5 Best Ways to Write Clean JavaScript Code](https://dev.to/safdarali/5-best-ways-to-write-clean-javascript-code-48i1)
-- [Sept 24 - Getting Started with the Open Source FiftyOne Computer Vision Toolset](https://dev.to/voxel51/unpublished-video-34k4-281l)
-- [Deploy Express JS container image on Lambda AWS](https://dev.to/janithdisanayake/deploy-express-js-container-image-on-lambda-aws-3ecp)
-- [Providing Private Storage for Internal Company Documents using Microsoft Azure](https://dev.to/onyemachi_doris/providing-private-storage-for-internal-company-documents-using-microsoft-azure-3meb)
-- [How to Check PowerShell Version in Windows 10/11?](https://dev.to/harshh/how-to-check-powershell-version-in-windows-1011-30m4)
+- [Code Smell 271 - The Hollywood Principle](https://dev.to/mcsee/code-smell-271-the-hollywood-principle-3hh7)
+- [Setting Up a Multi-Tier Web Application Locally: A DevOps Guide](https://dev.to/purveshshende2/setting-up-a-multi-tier-web-application-locally-a-devops-guide-78o)
+- [Mapa de Iniciativas Ecológicas: JavaScript &lpar;Parte 3&rpar;](https://dev.to/villacisg93/mapa-de-iniciativas-ecologicas-javascript-parte-3-3f3l)
+- [Laços de Decisão e Repetição: O Guia Essencial para Iniciantes](https://dev.to/jandersonsiqueira/lacos-de-decisao-e-repeticao-o-guia-essencial-para-iniciantes-1j1d)
+- [Looking to meet someone in the Sacramento area](https://dev.to/ltdan/looking-to-meet-someone-in-the-sacramento-area-4ejp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
