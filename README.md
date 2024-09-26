@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Payment Request API: Simplifying Online Payments](https://dev.to/rajeshkumaryadavdotcom/understanding-the-payment-request-api-simplifying-online-payments-3hnp)
-- [How to Delete Duplicate Data from a MySQL Database](https://dev.to/javafullstackdev/how-to-delete-duplicate-data-from-a-mysql-database-1hmj)
-- [Day 17. stringWithFormat](https://dev.to/kiolk/day-17-stringwithformat-3kb1)
-- [Rails Console in the Browser &lpar;on-demand&rpar;](https://dev.to/rob__race/rails-console-in-the-browser-on-demand-2a1p)
-- [Data factory for LLM video models](https://dev.to/moses_omondi_d411af81e579/data-factory-for-llm-video-models-2om5)
+- [Portfolio new!!!](https://dev.to/parzival646/portfolio-new-453h)
+- [Is Docker Compose Ready for Production? Here’s What You Need to Know](https://dev.to/dobralin/is-docker-compose-ready-for-production-heres-what-you-need-to-know-4hhl)
+- [How to set up modern React App &lpar;SPA&rpar;](https://dev.to/edwardfedoruk/how-to-set-up-modern-react-app-spa-3knc)
+- [LabEx Trending: Weather Trend Chart with Vue and Echarts and More](https://dev.to/labex/labex-trending-weather-trend-chart-with-vue-and-echarts-and-more-4d7c)
+- [Top 7 Platforms for Ephemeral Environments &lpar;September 2024 Edition&rpar;](https://dev.to/dobralin/top-7-platforms-for-ephemeral-environments-september-2024-edition-3g32)
 <!-- BLOG-POST-LIST:END -->
 
 ---
