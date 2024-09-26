@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Enhance Form UX with a Single HTML Attribute](https://dev.to/nitinyadav2455/enhance-form-ux-with-a-single-html-attribute-eoh)
-- [Working with Placeholders in Sitecore XM Cloud](https://dev.to/sebasab/working-with-placeholders-in-sitecore-xm-cloud-5fae)
-- [Understanding Error Boundaries in Next.js: A Deep Dive with Examples](https://dev.to/rajeshkumaryadavdotcom/understanding-error-boundaries-in-nextjs-a-deep-dive-with-examples-fk0)
-- [* text=auto in .gitattributes file](https://dev.to/thinkthroo/-textauto-in-gitattributes-file-4ba5)
-- [How Components are Rendered in a Virtual DOM and How to Optimize Re-Rendering](https://dev.to/biswasprasana001/how-components-are-rendered-in-a-virtual-dom-and-how-to-optimize-re-rendering-5f61)
+- [Encore.ts: a new type of framework](https://dev.to/encore/encorets-a-new-type-of-framework-3c48)
+- [Gemini Twitter Bot With Encore.ts](https://dev.to/talhaahsan/gemini-twitter-bot-with-encorets-i77)
+- [Exploring the Jenkins Platform: Automating the Development Lifecycle](https://dev.to/renan_almeidasv/exploring-the-jenkins-platform-automating-the-development-lifecycle-19d5)
+- [🌟 Top 10 CSS Frameworks to Use in React/Next.js Apps in 2024 🎨](https://dev.to/hamzakhan/top-10-css-frameworks-to-use-in-reactnextjs-apps-in-2024-314a)
+- [Git Basics](https://dev.to/harshm03/git-basics-3ooi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
