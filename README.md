@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [List of the best Google Dorks in 2024 for finding SQL injection vulnerabilities and other security issues:](https://dev.to/trixsec/list-of-the-best-google-dorks-in-2024-for-finding-sql-injection-vulnerabilities-and-other-security-issues-5772)
-- [17 Lesser Known Chrome Extensions You Wish You Knew Sooner 🤩⚡](https://dev.to/madza/17-lesser-known-chrome-extensions-you-wish-you-knew-sooner-31l2)
-- [Drag &amp; Drop Images with Preview using Stimulus Outlets](https://dev.to/railsdesigner/drag-drop-images-with-preview-using-stimulus-outlets-4k9h)
-- [Hacktoberfest 2024 with Ghostfolio](https://dev.to/dtslvr/hacktoberfest-2024-with-ghostfolio-572g)
-- [How to Securely Store Passwords in Databases](https://dev.to/thinhda/how-to-securely-store-passwords-in-databases-48a5)
+- [Enhance Form UX with a Single HTML Attribute](https://dev.to/nitinyadav2455/enhance-form-ux-with-a-single-html-attribute-eoh)
+- [Working with Placeholders in Sitecore XM Cloud](https://dev.to/sebasab/working-with-placeholders-in-sitecore-xm-cloud-5fae)
+- [Understanding Error Boundaries in Next.js: A Deep Dive with Examples](https://dev.to/rajeshkumaryadavdotcom/understanding-error-boundaries-in-nextjs-a-deep-dive-with-examples-fk0)
+- [* text=auto in .gitattributes file](https://dev.to/thinkthroo/-textauto-in-gitattributes-file-4ba5)
+- [How Components are Rendered in a Virtual DOM and How to Optimize Re-Rendering](https://dev.to/biswasprasana001/how-components-are-rendered-in-a-virtual-dom-and-how-to-optimize-re-rendering-5f61)
 <!-- BLOG-POST-LIST:END -->
 
 ---
