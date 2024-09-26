@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Data, Information, Knowledge, and Insights](https://dev.to/mrcaption49/data-information-knowledge-and-insights-468j)
+- [Mastering JavaScript Objects: Methods, Properties, Prototypes, and __proto__ in Real-Time User Management System](https://dev.to/dharamgfx/mastering-javascript-objects-methods-and-properties-with-real-time-project-scenarios-user-management-system-30d6)
+- [SMTP Server for Bulk Email- Key Features to Look for in a Provider](https://dev.to/otismilburnn/smtp-server-for-bulk-email-key-features-to-look-for-in-a-provider-5bm5)
+- [Hacktoberfest 2024 is here! 🎃](https://dev.to/this-is-learning/hacktoberfest-2024-is-here-42kk)
 - [Understanding Object Iteration in JavaScript: `for...of` vs `for...in`](https://dev.to/dharamgfx/understanding-object-iteration-in-javascript-forof-vs-forin-bkc)
-- [SQLMap Cheat Sheet: A Quick Guide for Automated SQL Injection](https://dev.to/trixsec/sqlmap-cheat-sheet-a-quick-guide-for-automated-sql-injection-2b95)
-- [Flutter’s Engineering Pipeline: A Great Workflow with Minor Hiccups](https://dev.to/middleware/flutters-engineering-pipeline-a-great-workflow-with-minor-hiccups-1f05)
-- [Performing Backups in Linux: Tools and the 3-2-1 Strategy](https://dev.to/ispmanager/performing-backups-in-linux-tools-and-the-3-2-1-strategy-nfi)
-- [Aggregate Functions vs Window Functions in SQL](https://dev.to/mrcaption49/aggregate-functions-vs-window-functions-576f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
