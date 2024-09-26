@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Object Iteration in JavaScript: `for...of` vs `for...in`](https://dev.to/dharamgfx/understanding-object-iteration-in-javascript-forof-vs-forin-bkc)
+- [SQLMap Cheat Sheet: A Quick Guide for Automated SQL Injection](https://dev.to/trixsec/sqlmap-cheat-sheet-a-quick-guide-for-automated-sql-injection-2b95)
+- [Flutter’s Engineering Pipeline: A Great Workflow with Minor Hiccups](https://dev.to/middleware/flutters-engineering-pipeline-a-great-workflow-with-minor-hiccups-1f05)
 - [Performing Backups in Linux: Tools and the 3-2-1 Strategy](https://dev.to/ispmanager/performing-backups-in-linux-tools-and-the-3-2-1-strategy-nfi)
 - [Aggregate Functions vs Window Functions in SQL](https://dev.to/mrcaption49/aggregate-functions-vs-window-functions-576f)
-- [Introduction to useActionState -New hook in React](https://dev.to/shreenidhibatavi/introduction-to-useactionstate-new-hook-in-react-49b1)
-- [12 Essential Web APIs Every Developer Should Know](https://dev.to/vyan/12-essential-web-apis-every-developer-should-know-1m28)
-- [DevOps Beginner | Day 109 | Use EC2 Ubuntu Cron Job Automation Backup Database](https://dev.to/aws-builders/devops-beginner-day-109-use-ec2-ubuntu-cron-job-automation-backup-database-5dd2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
