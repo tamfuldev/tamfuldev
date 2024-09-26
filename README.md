@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding and Configuring Oracle Access Control Lists &lpar;ACLs&rpar; for Email Sending Using UTL_MAIL](https://dev.to/digitalpollution/understanding-and-configuring-oracle-access-control-lists-acls-for-email-sending-using-utlmail-oi2)
+- [Asynchronous JavaScript - Get Confusions Cleared](https://dev.to/abeertech01/asynchronous-javascript-get-confusions-cleared-5a2f)
+- [LLMs will lie forever](https://dev.to/mikeyoung44/llms-will-lie-forever-3jd9)
 - [🛠️ Website Development Tools I use every day 💻](https://dev.to/serhii_kolodych/website-development-tools-i-use-every-day-4g2i)
 - [From Changes to Safe Keeping: Git Stash](https://dev.to/farhatsharifh/from-changes-to-safe-keeping-git-stash-m42)
-- [Write to Google Sheets from a local script via gcloud CLI authentication](https://dev.to/googlecloud/write-to-google-sheets-from-a-local-script-via-gcloud-cli-authentication-3p1f)
-- [Introducing Draft &amp; Publish and Content History in Strapi 5](https://dev.to/strapijs/introducing-draft-publish-and-content-history-in-strapi-5-2bbd)
-- [Elements and Attributes: Understanding HTML elements and their attributes](https://dev.to/shieldstring/elements-and-attributes-understanding-html-elements-and-their-attributes-36g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
