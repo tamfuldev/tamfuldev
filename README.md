@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Encore.ts: a new type of framework](https://dev.to/encore/encorets-a-new-type-of-framework-3c48)
-- [Gemini Twitter Bot With Encore.ts](https://dev.to/talhaahsan/gemini-twitter-bot-with-encorets-i77)
-- [Exploring the Jenkins Platform: Automating the Development Lifecycle](https://dev.to/renan_almeidasv/exploring-the-jenkins-platform-automating-the-development-lifecycle-19d5)
-- [🌟 Top 10 CSS Frameworks to Use in React/Next.js Apps in 2024 🎨](https://dev.to/hamzakhan/top-10-css-frameworks-to-use-in-reactnextjs-apps-in-2024-314a)
-- [Git Basics](https://dev.to/harshm03/git-basics-3ooi)
+- [Understanding the Payment Request API: Simplifying Online Payments](https://dev.to/rajeshkumaryadavdotcom/understanding-the-payment-request-api-simplifying-online-payments-3hnp)
+- [How to Delete Duplicate Data from a MySQL Database](https://dev.to/javafullstackdev/how-to-delete-duplicate-data-from-a-mysql-database-1hmj)
+- [Day 17. stringWithFormat](https://dev.to/kiolk/day-17-stringwithformat-3kb1)
+- [Rails Console in the Browser &lpar;on-demand&rpar;](https://dev.to/rob__race/rails-console-in-the-browser-on-demand-2a1p)
+- [Data factory for LLM video models](https://dev.to/moses_omondi_d411af81e579/data-factory-for-llm-video-models-2om5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
