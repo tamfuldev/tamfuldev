@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Как настроить зеркало реестров для OpenTofu и Terraform](https://dev.to/kvendingoldo/kak-nastroit-zierkalo-rieiestrov-dlia-opentofu-i-terraform-277k)
-- [Collaborate using Pull Requests](https://dev.to/farhatsharifh/collaborate-using-pull-requests-5c2o)
-- [Quantum-Classical Machine Learning: Quanvolutional Neural Network](https://dev.to/ksk0629/quantum-classical-machine-learning-quanvolutional-neural-network-bcl)
-- [The Concise Django Tutorial](https://dev.to/otamm/the-concise-django-tutorial-54lm)
-- [CI/CD Pipelines: Your Startup&#39;s Secret Weapon for Speed and Quality](https://dev.to/arbythecoder/cicd-pipelines-your-startups-secret-weapon-for-speed-and-quality-1cj2)
+- [Researchers&#39; Night, our project!](https://dev.to/nicocr/researchers-night-our-project-54dp)
+- [Setup Banjo-Kazooie Decomp in WSL with VS Code](https://dev.to/bizzycola/setup-banjo-kazooie-decomp-in-wsl-with-vs-code-3e7d)
+- [Day 1030 : It&#39;s Been A Long Time](https://dev.to/dwane/day-1030-its-been-a-long-time-275a)
+- [SVG Displacement Map - 300x250 - Demo](https://dev.to/tommydunn/svg-displacement-map-300x250-demo-3079)
+- [Hello World!](https://dev.to/lmcss/hello-world-31i5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
