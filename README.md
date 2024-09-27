@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Simple Queue Service &lpar;SQS&rpar;](https://dev.to/izmroen/amazon-simple-queue-service-sqs-40e1)
-- [How to Build an Icon Library with TypeScript, Tsup, and SVGR](https://dev.to/avoguga/how-to-build-an-icon-library-with-typescript-tsup-and-svgr-1ga)
-- [Implementing Multi-Model and Provider Support in Tailor4Job: Handling Merge Conflicts](https://dev.to/inderpreet/implementing-multi-model-and-provider-support-in-tailor4job-handling-merge-conflicts-313h)
-- [Best Price Monitoring Tools in 2024](https://dev.to/serpdogapi/best-price-monitoring-tools-in-2024-dk5)
-- [Understanding Wrapper Classes, Autoboxing, and Unboxing in Java](https://dev.to/nenyasha/understanding-wrapper-classes-autoboxing-and-unboxing-in-java-38eg)
+- [If You Can Answer These 7 Questions Correctly You’re Decent at JavaScript](https://dev.to/safdarali/if-you-can-answer-these-7-questions-correctly-youre-decent-at-javascript-269d)
+- [Understanding InvalidOperationException in C#](https://dev.to/iamcymentho/understanding-invalidoperationexception-in-c-1pkl)
+- [Product Management: Problems and Solutions &lpar;feat. Christoph Steinlehner&rpar;](https://dev.to/vpalania/product-management-problems-and-solutions-feat-christoph-steinlehner-ago)
+- [Stop Supabase Projects From Being Paused](https://dev.to/travisv/stop-supabase-projects-from-being-paused-36nf)
+- [Week 4, Lab 3](https://dev.to/cduarte3/week-4-lab-3-54md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
