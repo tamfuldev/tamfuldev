@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to invoke a lambda function from your database](https://dev.to/sequin/how-to-invoke-a-lambda-function-from-your-database-5bjp)
-- [Bad CSS-Dad Jokes &lpar;III&rpar;](https://dev.to/alvaromontoro/bad-css-dad-jokes-iii-1ma6)
-- [Using XState to coordinate Three.js character animations](https://dev.to/hnrq/using-xstate-to-coordinate-threejs-character-animations-p5k)
-- [Laravel&#39;de .env Dosyasında Bir Değişkeni Diğerine Referans Verme](https://dev.to/baris/laravelde-env-dosyasinda-bir-degiskeni-digerine-referans-verme-1b76)
-- [Day 18. Comment](https://dev.to/kiolk/day-18-comment-44c0)
+- [Amazon Simple Queue Service &lpar;SQS&rpar;](https://dev.to/izmroen/amazon-simple-queue-service-sqs-40e1)
+- [How to Build an Icon Library with TypeScript, Tsup, and SVGR](https://dev.to/avoguga/how-to-build-an-icon-library-with-typescript-tsup-and-svgr-1ga)
+- [Implementing Multi-Model and Provider Support in Tailor4Job: Handling Merge Conflicts](https://dev.to/inderpreet/implementing-multi-model-and-provider-support-in-tailor4job-handling-merge-conflicts-313h)
+- [Best Price Monitoring Tools in 2024](https://dev.to/serpdogapi/best-price-monitoring-tools-in-2024-dk5)
+- [Understanding Wrapper Classes, Autoboxing, and Unboxing in Java](https://dev.to/nenyasha/understanding-wrapper-classes-autoboxing-and-unboxing-in-java-38eg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
