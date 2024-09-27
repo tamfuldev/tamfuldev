@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Automating CI/CD Pipelines with Bitbucket Webhooks and Jenkins: A Dockerized Demo](https://dev.to/rahul_malhotra_3e1d83e2e8/automating-cicd-pipelines-with-bitbucket-webhooks-and-jenkins-a-dockerized-demo-6o8)
-- [What are Advantages of Adopting a Microservices Architecture](https://dev.to/viitorcloud/what-are-advantages-of-adopting-a-microservices-architecture-4855)
-- [Apple&#39;s Privacy Manifest: Aligning Your App with Privacy Standards in 2024 🔒🍎](https://dev.to/info_generalhazedawn_a3d/apples-privacy-manifest-aligning-your-app-with-privacy-standards-in-2024-43fn)
-- [Advanced TypeScript Utility Types in Detail](https://dev.to/bhataasim/advanced-typescript-utility-types-in-detail-4mdh)
-- [The AI Paradox: Why Machines Can&#39;t Mimic Human Writing](https://dev.to/marrouchi/the-ai-paradox-why-machines-cant-mimic-human-writing-26c6)
+- [Top 5 UX Frameworks to measure User Experience](https://dev.to/lollypopdesign/top-5-ux-frameworks-to-measure-user-experience-3mbl)
+- [is angular good for long term projects? like e-comer&#39;s &amp; forms-based app](https://dev.to/kedar_gujare_7e17b6c42ceb/is-angular-good-for-long-term-projects-like-e-comers-forms-based-app-e6n)
+- [Deploy obsidian as container](https://dev.to/jinnabalu/deploy-obsidian-as-container-b04)
+- [Application Security vs. Software Security: Difference to Know](https://dev.to/sign_my_code/application-security-vs-software-security-difference-to-know-136g)
+- [A Quick Understanding of Session Hijacking](https://dev.to/sambishop/a-quick-understanding-of-session-hijacking-1kmo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
