@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy Python APIs to AWS Lambda In Minutes](https://dev.to/joshflow/deploy-python-apis-to-aws-lambda-in-minutes-5eln)
-- [Smile Detector and Photo Capture](https://dev.to/avradeep_nayak_fa8d5f6995/smile-detector-and-photo-capture-51m)
-- [Simplifying Imports with Babel Plugin Module Resolver](https://dev.to/ajmal_hasan/simplifying-imports-with-babel-plugin-module-resolver-c4g)
-- [Conducting Events: The Orchestra of Games](https://dev.to/aratrika/conducting-events-the-orchestra-of-games-16aj)
-- [Overview of Gliimly, new web services language &lpar;Apache license&rpar;](https://dev.to/gliimly/overview-of-gliimly-new-web-services-language-apache-license-4a05)
+- [Docwire SDK -C++20 library for advanced data processing](https://dev.to/novitzmann/docwire-sdk-c20-library-for-advanced-data-processing-4cd1)
+- [Teste de Integração com Banco de Dados](https://dev.to/gilsonsilvati/teste-de-integracao-com-banco-de-dados-47f6)
+- [Dapr in the cloud with Catalyst public beta](https://dev.to/ukmadlz/dapr-in-the-cloud-with-catalyst-public-beta-23j)
+- [Terraform Dynamic Blocks 101](https://dev.to/sre_panchanan/terraform-dynamic-blocks-101-295e)
+- [🚀 Mastering Test Automation with Robot Framework: A Complete Roadmap 🌟](https://dev.to/umairqa/mastering-test-automation-with-robot-framework-a-complete-roadmap-4cj3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
