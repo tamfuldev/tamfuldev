@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [C# Design Pattern: Builder](https://dev.to/juarezasjunior/c-design-pattern-builder-23eh)
-- [C# Design Pattern: Builder &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-builder-portugues-2dn2)
-- [Level Up Your Projects: Lesser-Known Web APIs Every Developer Should Use](https://dev.to/hrithik_7820/level-up-your-projects-lesser-known-web-apis-every-developer-should-use-56i6)
-- [🚀 Enhancing Form Accessibility with 𝘁𝗮𝗯𝗜𝗻𝗱𝗲𝘅={-𝟭} in 𝗥𝗲𝗮𝗰𝘁](https://dev.to/joodi/enhancing-form-accessibility-with-in-44n3)
-- [Installing ArgoCD and Securing Access Using Amazon Cognito](https://dev.to/aws-builders/installing-argocd-and-securing-access-using-amazon-cognito-3gnn)
+- [Rails Designer v1.6: Drag &amp; Drop image support](https://dev.to/railsdesigner/rails-designer-v16-drag-drop-image-support-421c)
+- [The NFL&#39;s Best Kicker is One of Us](https://dev.to/ben/the-nfls-best-kicker-is-one-of-us-5f1k)
+- [React Components &lpar;Class-based vs Functional&rpar;](https://dev.to/imyusufakhtar/react-components-class-based-vs-functional-7nj)
+- [AWS Cost Optimization Parameters and Metrics: Part-2](https://dev.to/devtron_inc/aws-cost-optimization-parameters-and-metrics-part-2-3nim)
+- [Provide storage for the IT department testing and training](https://dev.to/izuabueke/provide-storage-for-the-it-department-testing-and-training-bnb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
