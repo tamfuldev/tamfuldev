@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dark Factory - Smart Manufacturing of the Future](https://dev.to/meenamurali76/dark-factory-smart-manufacturing-of-the-future-4dpm)
-- [Login Form DevZone](https://dev.to/babar_ali/login-form-devzone-4bee)
-- [Speech to Speech RAG](https://dev.to/neuml/speech-to-speech-rag-1438)
-- [Text Repeater HTML CSS Js](https://dev.to/babar_ali/text-repeater-html-css-js-41m6)
-- [The Journey of Migrating Our Browser Extension from Plasmo to WXT Framework](https://dev.to/gorvgoyl/the-journey-of-migrating-our-browser-extension-from-plasmo-to-wxt-framework-2c83)
+- [Certainly! Absolutely! I apologize!](https://dev.to/snackcode/certainly-absolutely-i-apologize-2p8m)
+- [My Current Carry](https://dev.to/cyrildotexe/my-current-carry-5abf)
+- [Why SCSS is Better for Writing CSS](https://dev.to/aepasahan/why-scss-is-better-for-writing-css-ghd)
+- [Building Class To Cloud: Solving a Real Problem for Coaching Institutes](https://dev.to/divyanshulohani/building-class-to-cloud-solving-a-real-problem-for-coaching-institutes-oim)
+- [Copilotkit: Your AI Wingman for Coding Adventures](https://dev.to/chiragagg5k/copilotkit-your-ai-wingman-for-coding-adventures-28gl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
