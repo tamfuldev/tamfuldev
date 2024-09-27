@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Researchers&#39; Night, our project!](https://dev.to/nicocr/researchers-night-our-project-54dp)
-- [Setup Banjo-Kazooie Decomp in WSL with VS Code](https://dev.to/bizzycola/setup-banjo-kazooie-decomp-in-wsl-with-vs-code-3e7d)
-- [Day 1030 : It&#39;s Been A Long Time](https://dev.to/dwane/day-1030-its-been-a-long-time-275a)
-- [SVG Displacement Map - 300x250 - Demo](https://dev.to/tommydunn/svg-displacement-map-300x250-demo-3079)
-- [Hello World!](https://dev.to/lmcss/hello-world-31i5)
+- [Provide Shared File Storage For The Company Offices](https://dev.to/nne/provide-shared-file-storage-for-the-company-offices-15p7)
+- [CSS Box Model Background and Border Quiz](https://dev.to/areeb_anwar_813df06ee1124/css-box-model-background-and-border-quiz-1gn0)
+- [ListView.build vs ListView tem diferença?](https://dev.to/gguedes/listviewbuild-vs-listview-tem-diferenca-4n19)
+- [Copy paste bash command but dont understand what it does?](https://dev.to/hardyweb/copy-paste-bash-command-but-dont-understand-what-it-does-34hk)
+- [Building a REST API with Fastify](https://dev.to/kartikmehta8/building-a-rest-api-with-fastify-1472)
 <!-- BLOG-POST-LIST:END -->
 
 ---
