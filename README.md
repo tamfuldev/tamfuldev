@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Certainly! Absolutely! I apologize!](https://dev.to/snackcode/certainly-absolutely-i-apologize-2p8m)
-- [My Current Carry](https://dev.to/cyrildotexe/my-current-carry-5abf)
-- [Why SCSS is Better for Writing CSS](https://dev.to/aepasahan/why-scss-is-better-for-writing-css-ghd)
-- [Building Class To Cloud: Solving a Real Problem for Coaching Institutes](https://dev.to/divyanshulohani/building-class-to-cloud-solving-a-real-problem-for-coaching-institutes-oim)
-- [Copilotkit: Your AI Wingman for Coding Adventures](https://dev.to/chiragagg5k/copilotkit-your-ai-wingman-for-coding-adventures-28gl)
+- [Deploy Python APIs to AWS Lambda In Minutes](https://dev.to/joshflow/deploy-python-apis-to-aws-lambda-in-minutes-5eln)
+- [Smile Detector and Photo Capture](https://dev.to/avradeep_nayak_fa8d5f6995/smile-detector-and-photo-capture-51m)
+- [Simplifying Imports with Babel Plugin Module Resolver](https://dev.to/ajmal_hasan/simplifying-imports-with-babel-plugin-module-resolver-c4g)
+- [Conducting Events: The Orchestra of Games](https://dev.to/aratrika/conducting-events-the-orchestra-of-games-16aj)
+- [Overview of Gliimly, new web services language &lpar;Apache license&rpar;](https://dev.to/gliimly/overview-of-gliimly-new-web-services-language-apache-license-4a05)
 <!-- BLOG-POST-LIST:END -->
 
 ---
