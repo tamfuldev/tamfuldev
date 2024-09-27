@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AdminForth got new plugins: RichEditor, Import-Export, AuditLog, 2FA](https://dev.to/ivictbor/adminforth-got-new-plugins-richeditor-import-export-auditlog-2fa-46m8)
-- [Setting Up Jekyll, Resolving Webrick Issues, and Exploring Ruby Version Changes](https://dev.to/tobidelly/setting-up-jekyll-resolving-webrick-issues-and-exploring-ruby-version-changes-24k7)
-- [S - Single Responsibility Principle&lpar;SRP&rpar;](https://dev.to/nozibul_islam_113b1d5334f/s-single-responsibility-principlesrp-h4g)
-- [modern-glowing-text](https://dev.to/babar_ali/modern-glowing-text-gng)
-- [Behind the Code: My Experience as a Full-Stack GPS Software Developer](https://dev.to/fleet_stack_21/behind-the-code-my-experience-as-a-full-stack-gps-software-developer-1hbl)
+- [C# Design Pattern: Builder](https://dev.to/juarezasjunior/c-design-pattern-builder-23eh)
+- [C# Design Pattern: Builder &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-builder-portugues-2dn2)
+- [Level Up Your Projects: Lesser-Known Web APIs Every Developer Should Use](https://dev.to/hrithik_7820/level-up-your-projects-lesser-known-web-apis-every-developer-should-use-56i6)
+- [🚀 Enhancing Form Accessibility with 𝘁𝗮𝗯𝗜𝗻𝗱𝗲𝘅={-𝟭} in 𝗥𝗲𝗮𝗰𝘁](https://dev.to/joodi/enhancing-form-accessibility-with-in-44n3)
+- [Installing ArgoCD and Securing Access Using Amazon Cognito](https://dev.to/aws-builders/installing-argocd-and-securing-access-using-amazon-cognito-3gnn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
