@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building and Sharing an AMI Using AWS Image Builder](https://dev.to/nainarmalik/building-and-sharing-an-ami-using-aws-image-builder-p1e)
-- [.NET8/EF8 - Exception: Microsoft.Data.SqlClient.SqlException &lpar;0x80131904&rpar;: Incorrect syntax near &#39;$](https://dev.to/markpelf/net8ef8-exception-microsoftdatasqlclientsqlexception-0x80131904-incorrect-syntax-near--48f5)
-- [Dynamically start Docker Compose Services with a simple Makefile](https://dev.to/marrouchi/dynamically-start-docker-compose-services-with-a-simple-makefile-2ecb)
-- [Mastering Programming Language Fundamentals: Dive into the Principles, Compilers, and Regex Wonders](https://dev.to/getvm/mastering-programming-language-fundamentals-dive-into-the-principles-compilers-and-regex-wonders-1bg8)
-- [Everything you Need to Know about GUI Testing in Software](https://dev.to/ronika_kashyap/everything-you-need-to-know-about-gui-testing-in-software-34od)
+- [AdminForth got new plugins: RichEditor, Import-Export, AuditLog, 2FA](https://dev.to/ivictbor/adminforth-got-new-plugins-richeditor-import-export-auditlog-2fa-46m8)
+- [Setting Up Jekyll, Resolving Webrick Issues, and Exploring Ruby Version Changes](https://dev.to/tobidelly/setting-up-jekyll-resolving-webrick-issues-and-exploring-ruby-version-changes-24k7)
+- [S - Single Responsibility Principle&lpar;SRP&rpar;](https://dev.to/nozibul_islam_113b1d5334f/s-single-responsibility-principlesrp-h4g)
+- [modern-glowing-text](https://dev.to/babar_ali/modern-glowing-text-gng)
+- [Behind the Code: My Experience as a Full-Stack GPS Software Developer](https://dev.to/fleet_stack_21/behind-the-code-my-experience-as-a-full-stack-gps-software-developer-1hbl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
