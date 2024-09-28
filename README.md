@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A NEW Quiz is out: JavaScript Hoisting and Scope Quiz](https://dev.to/areeb_anwar_813df06ee1124/a-new-quiz-is-out-javascript-hoisting-and-scope-quiz-5972)
-- [AWS CLOUD SECURITY BASICS](https://dev.to/omodan/aws-cloud-security-basics-ea3)
-- [Mastering C# Fundamentals: Basics of Strings](https://dev.to/moh_moh701/mastering-c-fundamentals-basics-of-strings-4622)
-- [Color Blindness Test](https://dev.to/babar_ali/color-blindness-test-al7)
-- [[Part 2] If You Can Answer These 7 Questions Correctly, You’re a Decent Developer](https://dev.to/ssukhpinder/part-2-if-you-can-answer-these-7-questions-correctly-youre-a-decent-developer-3662)
+- [The Battle of the MSTs: Prim, Kruskal, and Borůvka Duke It Out for Supremacy!](https://dev.to/bhavya_jha/the-battle-of-the-msts-prim-kruskal-and-boruvka-duke-it-out-for-supremacy-3npe)
+- [Hacktoberfest 2024](https://dev.to/karansinghbisht/hacktoberfest-2024-4keb)
+- [O Papel da Qualidade de Software na Construção de Soluções Tecnológicas de Impacto](https://dev.to/womakerscode/o-papel-da-qualidade-de-software-na-construcao-de-solucoes-tecnologicas-de-impacto-207b)
+- [Draft: Jira API with React](https://dev.to/farisdurrani/draft-jira-api-with-react-4go3)
+- [Seamlessly Create Jira Issues from GitHub Using Natural Language and Supercog](https://dev.to/emmakodes_/seamlessly-create-jira-issues-from-github-using-natural-language-and-supercog-297m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
