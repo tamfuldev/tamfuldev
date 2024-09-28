@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Battle of the MSTs: Prim, Kruskal, and Borůvka Duke It Out for Supremacy!](https://dev.to/bhavya_jha/the-battle-of-the-msts-prim-kruskal-and-boruvka-duke-it-out-for-supremacy-3npe)
-- [Hacktoberfest 2024](https://dev.to/karansinghbisht/hacktoberfest-2024-4keb)
-- [O Papel da Qualidade de Software na Construção de Soluções Tecnológicas de Impacto](https://dev.to/womakerscode/o-papel-da-qualidade-de-software-na-construcao-de-solucoes-tecnologicas-de-impacto-207b)
-- [Draft: Jira API with React](https://dev.to/farisdurrani/draft-jira-api-with-react-4go3)
-- [Seamlessly Create Jira Issues from GitHub Using Natural Language and Supercog](https://dev.to/emmakodes_/seamlessly-create-jira-issues-from-github-using-natural-language-and-supercog-297m)
+- [Deploying a Monitoring Stack with Kubernetes, Helm, and Ingress](https://dev.to/seewhy/deploying-a-monitoring-stack-with-kubernetes-helm-and-ingress-cp5)
+- [Mastering C# Fundamentals: Creating Objects](https://dev.to/moh_moh701/mastering-c-fundamentals-creating-objects-p1m)
+- [Mastering C# Fundamentals: Introduction to Classes](https://dev.to/moh_moh701/mastering-c-fundamentals-introduction-to-classes-o4p)
+- [BadMapPolyfill in React Source Code.](https://dev.to/thinkthroo/badmappolyfill-in-react-source-code-4dnd)
+- [Day 19. 1 percent](https://dev.to/kiolk/day-19-1-percent-5ek9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
