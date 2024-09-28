@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [If You Can Answer These 7 Questions Correctly You’re Decent at JavaScript](https://dev.to/safdarali/if-you-can-answer-these-7-questions-correctly-youre-decent-at-javascript-269d)
-- [Understanding InvalidOperationException in C#](https://dev.to/iamcymentho/understanding-invalidoperationexception-in-c-1pkl)
-- [Product Management: Problems and Solutions &lpar;feat. Christoph Steinlehner&rpar;](https://dev.to/vpalania/product-management-problems-and-solutions-feat-christoph-steinlehner-ago)
-- [Stop Supabase Projects From Being Paused](https://dev.to/travisv/stop-supabase-projects-from-being-paused-36nf)
-- [Week 4, Lab 3](https://dev.to/cduarte3/week-4-lab-3-54md)
+- [Thoughts on AI Beating CAPTHCA](https://dev.to/mirswe/thoughts-on-ai-beating-capthca-1k94)
+- [Linux Tutorials: Unlock the Secrets of the Command Line](https://dev.to/labex/linux-tutorials-unlock-the-secrets-of-the-command-line-3gc5)
+- [300LOC space life protect](https://dev.to/diegocardoso93/300loc-space-life-protect-2d7a)
+- [An elegant and simple way to use Python Lists: List Comprehensions](https://dev.to/mariem_sghaier/an-elegant-and-simple-way-to-use-python-lists-list-comprehensions-584j)
+- [Learning how git merge works](https://dev.to/udayrana/learning-how-git-merge-works-3k4k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
