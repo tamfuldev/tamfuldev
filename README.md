@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Code Complexity Pro: Conquering Multi-File Support and Error Chaos!](https://dev.to/msaluja/code-complexity-pro-conquering-multi-file-support-and-error-chaos-78f)
-- [Shell Scripting Mastery: 5 Essential Labs for Aspiring Developers](https://dev.to/labex/shell-scripting-mastery-5-essential-labs-for-aspiring-developers-3h3l)
-- [Creating Temporary URLs for Local Files in Laravel](https://dev.to/kachkolasa/creating-temporary-urls-for-local-files-in-laravel-15o9)
-- [Understanding Git Merge](https://dev.to/mayankpareek/understanding-git-merge-4lc2)
-- [How to Set Up MySQL to Autostart on macOS: A Step-by-Step Guide for Developers](https://dev.to/manojspace/autostarting-mysql-on-macos-a-comprehensive-guide-1ikm)
+- [If You Can Answer These 7 Concepts Correctly, You’re Decent at .NET](https://dev.to/ssukhpinder/if-you-can-answer-these-7-concepts-correctly-youre-decent-at-net-2le4)
+- [Introduction to V0: Vercel’s UI Generative AI Framework](https://dev.to/gimkelum/introduction-to-v0-vercels-ui-generative-ai-framework-4315)
+- [Mastering the Mysteries of JavaScript Syntax: Discover the Secrets Behind These Symbols](https://dev.to/hoainhoblogdev/mastering-the-mysteries-of-javascript-syntax-discover-the-secrets-behind-these-symbols-3f37)
+- [Props and State React.JS](https://dev.to/imyusufakhtar/props-and-state-reactjs-3fob)
+- [Creating a OpenGL square using C++ in Android. A reference guide](https://dev.to/theplebdev/creating-a-opengl-square-using-c-in-android-a-reference-guide-5kp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
