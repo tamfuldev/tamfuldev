@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [If You Can Answer These 7 Concepts Correctly, You’re Decent at .NET](https://dev.to/ssukhpinder/if-you-can-answer-these-7-concepts-correctly-youre-decent-at-net-2le4)
-- [Introduction to V0: Vercel’s UI Generative AI Framework](https://dev.to/gimkelum/introduction-to-v0-vercels-ui-generative-ai-framework-4315)
-- [Mastering the Mysteries of JavaScript Syntax: Discover the Secrets Behind These Symbols](https://dev.to/hoainhoblogdev/mastering-the-mysteries-of-javascript-syntax-discover-the-secrets-behind-these-symbols-3f37)
-- [Props and State React.JS](https://dev.to/imyusufakhtar/props-and-state-reactjs-3fob)
-- [Creating a OpenGL square using C++ in Android. A reference guide](https://dev.to/theplebdev/creating-a-opengl-square-using-c-in-android-a-reference-guide-5kp)
+- [Mastering AWS Serverless: Build and Deploy Applications](https://dev.to/s3cloudhub/mastering-aws-serverless-build-and-deploy-applications-4h26)
+- [A Beginner&#39;s Guide to Packet Sniffing Using Wireshark&lpar;Must Read&rpar;](https://dev.to/trixsec/a-beginners-guide-to-packet-sniffing-using-wiresharkmust-read-36h2)
+- [Nextjs API Router](https://dev.to/turingvangisms/nextjs-api-router-458i)
+- [👽Lucky Alien Game 🚀](https://dev.to/jagroop2001/lucky-alien-game-2kej)
+- [How do you manage tasks when you have a lot of todos?](https://dev.to/syakirurahman/how-do-you-manage-tasks-when-you-have-a-lot-of-todos-1g6p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
