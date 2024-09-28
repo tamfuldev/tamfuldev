@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Thoughts on AI Beating CAPTHCA](https://dev.to/mirswe/thoughts-on-ai-beating-capthca-1k94)
-- [Linux Tutorials: Unlock the Secrets of the Command Line](https://dev.to/labex/linux-tutorials-unlock-the-secrets-of-the-command-line-3gc5)
-- [300LOC space life protect](https://dev.to/diegocardoso93/300loc-space-life-protect-2d7a)
-- [An elegant and simple way to use Python Lists: List Comprehensions](https://dev.to/mariem_sghaier/an-elegant-and-simple-way-to-use-python-lists-list-comprehensions-584j)
-- [Learning how git merge works](https://dev.to/udayrana/learning-how-git-merge-works-3k4k)
+- [One Byte Explainer:Phaser.Js](https://dev.to/codevsom/one-byte-explainerphaserjs-2ipa)
+- [Terraform String Template](https://dev.to/sre_panchanan/terraform-string-template-1jio)
+- [Data factory for generative video models](https://dev.to/moses_omondi_d411af81e579/data-factory-for-generative-video-models-4fcf)
+- [How do I connect my existing Visual Studio 2022 project to an existing github repository?](https://dev.to/xarzu/how-do-i-connect-my-existing-visual-studio-2022-project-to-an-existing-github-repository-27c9)
+- [Merge TIME!](https://dev.to/amullagaliev/merge-time-3fg9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
