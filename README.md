@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [FIX | MacOS Error ! | Alacritty can’t be opened because Apple cannot check it for malicious software](https://dev.to/shihabdotdev/fix-macos-error-alacritty-cant-be-opened-because-apple-cannot-check-it-for-malicious-software-4b69)
-- [Transform Text to Image for Free with Hugging Face](https://dev.to/kiraaziz/transform-text-to-image-for-free-with-hugging-face-15lk)
-- [27 Powerful Built-in Terraform Functions to Enhance Your Workflow](https://dev.to/sre_panchanan/27-powerful-built-in-terraform-functions-to-enhance-your-workflow-3be0)
-- [Space Invaders - Alien Attack 🌌👾 web game](https://dev.to/omprakash2929/space-invaders-alien-attack-web-game-2fog)
-- [How to Build a Single Page Application &lpar;SPA&rpar; with React](https://dev.to/seyedahmaddv/how-to-build-a-single-page-application-spa-with-react-285)
+- [Video Syncing App - Viable?](https://dev.to/greencode-linux/video-syncing-app-viable-ld4)
+- [ZSharp : Print &amp; Write](https://dev.to/bardiax/zsharp-print-write-bna)
+- [Something Big Coming Soon](https://dev.to/kavya-sahai-god/something-big-coming-soon-2nde)
+- [Top 50 System Design Terminologies You Should Know](https://dev.to/farzanapomy/top-50-system-design-terminologies-you-should-know-3io1)
+- [Utilize TOR network to get free proxy for any use case](https://dev.to/talr98/utilize-tor-network-to-get-free-proxy-for-any-use-case-4j2c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
