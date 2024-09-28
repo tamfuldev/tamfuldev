@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [One Byte Explainer:Phaser.Js](https://dev.to/codevsom/one-byte-explainerphaserjs-2ipa)
-- [Terraform String Template](https://dev.to/sre_panchanan/terraform-string-template-1jio)
-- [Data factory for generative video models](https://dev.to/moses_omondi_d411af81e579/data-factory-for-generative-video-models-4fcf)
-- [How do I connect my existing Visual Studio 2022 project to an existing github repository?](https://dev.to/xarzu/how-do-i-connect-my-existing-visual-studio-2022-project-to-an-existing-github-repository-27c9)
-- [Merge TIME!](https://dev.to/amullagaliev/merge-time-3fg9)
+- [What’s a Progressive Web App &lpar;PWA&rpar;, Anyway?](https://dev.to/dev_frank/whats-a-progressive-web-app-pwa-anyway-1pnl)
+- [MySQL Basics: Understanding Isolation Level and Transaction Anomalies](https://dev.to/ronnychen/mysql-basics-understanding-isolation-level-and-transaction-anomalies-4ec6)
+- [I am a Beginner in Programming](https://dev.to/eisha_hijab/i-am-a-beginner-in-programming-2b9f)
+- [Dive into the Fascinating World of Hibernate with this Beginner-Friendly Tutorial! 🤩](https://dev.to/getvm/dive-into-the-fascinating-world-of-hibernate-with-this-beginner-friendly-tutorial-mm2)
+- [Bhupesh Singh Nitwal Web Developer](https://dev.to/bhupesh_singhnitwal_d34c/bhupesh-singh-nitwal-web-developer-3cd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
