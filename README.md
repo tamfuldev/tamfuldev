@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Docker vs Virtual Machines: The Lightweight Contender vs. The Old Heavyweight](https://dev.to/programordie/docker-vs-virtual-machines-the-lightweight-contender-vs-the-old-heavyweight-4647)
-- [Real-Time Analytics with AI: Why Speed Matters in the Age of Data](https://dev.to/sanjana_shah_bia/real-time-analytics-with-ai-why-speed-matters-in-the-age-of-data-3006)
-- [useCallback Hook Explained](https://dev.to/imyusufakhtar/usecallback-hook-explained-2450)
-- [useMemo Hook Explained](https://dev.to/imyusufakhtar/usememo-hook-explained-2gee)
-- [useReducer Hook Explained](https://dev.to/imyusufakhtar/usereducer-hook-explained-4g8m)
+- [SQL 耗时跟踪](https://dev.to/truman_999999999/sql-hao-shi-gen-zong-5fc5)
+- [How to Integrate Mixpanel with Remix?](https://dev.to/tr-ibe/how-to-integrate-mixpanel-with-remix-46if)
+- [Running a Database Server on EC2: Best Practices and Considerations](https://dev.to/naveedsaeed/running-a-database-server-on-ec2-best-practices-and-considerations-2e2f)
+- [How to Install and Run Uncensored ChatGPT on Your PC &lpar;Offline&rpar;: A Step-by-Step Guide](https://dev.to/mr_nova/how-to-install-and-run-uncensored-chatgpt-on-your-pc-offline-a-step-by-step-guide-i9h)
+- [Let&#39;s build a startup!](https://dev.to/pqpvc/lets-build-a-startup-1h26)
 <!-- BLOG-POST-LIST:END -->
 
 ---
