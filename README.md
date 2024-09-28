@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Application Discovery Service Agentless Collector now supports Amazon Linux 2023](https://dev.to/karthiksakthiveltechie/application-discovery-service-agentless-collector-now-supports-amazon-linux-2023-1b4h)
-- [Java 21 Records Exam Objective for Java SE 21 Developer Certification Preparation](https://dev.to/myexamcloud/java-21-records-exam-objective-for-java-se-21-developer-certification-preparation-1bb9)
-- [How To Shutdown Your Azure Virtual Machine Automatically When Idle for X minute: A Step-by-Step Guide](https://dev.to/rajeshkumaryadavdotcom/how-to-shutdown-your-azure-virtual-machine-automatically-when-idle-for-x-minute-a-step-by-step-guide-24jn)
-- [MLSeries: Getting Started With Machine Learning Using MNIST](https://dev.to/samder/mlseries-getting-started-with-machine-learning-using-mnist-42bp)
-- [In-Memory Caching in Go: Boosting Performance and Efficiency](https://dev.to/kittipat1413/in-memory-caching-in-go-boosting-performance-and-efficiency-4bhd)
+- [Creating a Testable Facade in Laravel](https://dev.to/clintwinter/creating-a-testable-facade-in-laravel-55ei)
+- [Pacotes e o Acesso a Membros](https://dev.to/devsjavagirls/pacotes-e-o-acesso-a-membros-1gif)
+- [Google Directions Script](https://dev.to/max_kleiner_9d12e786b3ecc/google-directions-script-31ee)
+- [Exemplo Breve de Pacote](https://dev.to/devsjavagirls/exemplo-breve-de-pacote-4khd)
+- [rnr: The Tool That Speaks Every Project run scripts](https://dev.to/sujit-shrc/rnr-the-tool-that-speaks-every-project-run-scripts-35kb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
