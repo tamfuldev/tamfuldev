@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering AWS Serverless: Build and Deploy Applications](https://dev.to/s3cloudhub/mastering-aws-serverless-build-and-deploy-applications-4h26)
-- [A Beginner&#39;s Guide to Packet Sniffing Using Wireshark&lpar;Must Read&rpar;](https://dev.to/trixsec/a-beginners-guide-to-packet-sniffing-using-wiresharkmust-read-36h2)
-- [Nextjs API Router](https://dev.to/turingvangisms/nextjs-api-router-458i)
-- [👽Lucky Alien Game 🚀](https://dev.to/jagroop2001/lucky-alien-game-2kej)
-- [How do you manage tasks when you have a lot of todos?](https://dev.to/syakirurahman/how-do-you-manage-tasks-when-you-have-a-lot-of-todos-1g6p)
+- [Quantum Computing: Why Developers Need to Start Paying Attention](https://dev.to/hikolakita/quantum-computing-why-developers-need-to-start-paying-attention-30e1)
+- [Convert your Figma design to code using Dualite](https://dev.to/dualitedev/convert-your-figma-design-to-code-using-dualite-4leh)
+- [YT for Coding Prep](https://dev.to/sarthakkarora/yt-for-coding-prep-4kjk)
+- [Understanding Maximum Width Classes in Tailwind CSS](https://dev.to/susheel_kumar/understanding-maximum-width-classes-in-tailwind-css-59fe)
+- [Top Hacktoberfest Projects to Contribute to in 2024](https://dev.to/jaysaadana/top-hacktoberfest-projects-to-contribute-to-in-2024-1811)
 <!-- BLOG-POST-LIST:END -->
 
 ---
