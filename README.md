@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Book: A Philosophy of Software Design](https://dev.to/airtucha/book-a-philosophy-of-software-design-2je1)
-- [Latex with Vim](https://dev.to/aadityasinha_dotcom/latex-with-vim-1f84)
-- [List of 100 different Linux commands &lpar;Part-2&rpar; [Must Read]](https://dev.to/trixsec/list-of-100-different-linux-commands-part-2-must-read-20ad)
-- [Building a Recursive File System with React: A Deep Dive](https://dev.to/amyssnippet/building-a-recursive-file-system-with-react-a-deep-dive-3d3b)
-- [What are your favorite resources??](https://dev.to/vishalprogrammer/what-are-your-favorite-resources-54l8)
+- [10 Next-Gen Technologies Secretly Shaping the Future &lpar;But Nobody Knows About Yet&rpar; 🚀🔬](https://dev.to/lokesh_singh/10-next-gen-technologies-secretly-shaping-the-future-but-nobody-knows-about-yet-2719)
+- [CVE Search Tools](https://dev.to/ugo/cve-search-tools-44oe)
+- [O - Open/Closed Principle &lpar;OCP&rpar;](https://dev.to/nozibul_islam_113b1d5334f/o-openclosed-principle-ocp-g3l)
+- [Comparing Open-Source LLMs like Hugging Face Transformers with Closed Platforms](https://dev.to/kafkaflow/comparing-open-source-llms-like-hugging-face-transformers-with-closed-platforms-54fc)
+- [TryHackMe.com Mr. Robot Walkthrough](https://dev.to/hax/tryhackmecom-mr-robot-walkthrough-2bdm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
