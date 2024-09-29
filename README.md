@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DAILY COMMUNITY: A New Social Network Every Single Day!](https://dev.to/web4/daily-community-a-new-social-network-every-single-day-m53)
-- [The Home Server Journey - 5: Rebuilding Burned Bridges](https://dev.to/ancapepe/the-home-server-journey-5-rebuilding-burned-bridges-6n7)
-- [My Journey into Web Development](https://dev.to/davidcole/my-journey-into-web-development-21kc)
-- [[Web Game Challenge]: Alien Invasion: Developer&#39;s Call](https://dev.to/maurerkrisztian/web-game-challenge-alien-invasion-developers-call-13gn)
-- [[Jornada a física computacional] - Dia 1](https://dev.to/matheusgb/jornada-a-fisica-computacional-dia-1-2ph7)
+- [Come learn the basics of Python with me starting with Variables](https://dev.to/abeck617/come-learn-the-basics-of-python-with-me-starting-with-variables-8co)
+- [Efficiently Deleting Multiple Lakhs of Records from DynamoDB Using Lambda: A Comprehensive Guide](https://dev.to/sakshi360/efficiently-deleting-multiple-lakhs-of-records-from-dynamodb-using-lambda-a-comprehensive-guide-1hnl)
+- [Create custom errors in Golang](https://dev.to/ankitmalikg/create-custom-errors-in-golang-3mdl)
+- [Difference between Microservice and Monolithic](https://dev.to/fazly_fathhy/difference-between-microservice-and-monolithic-1jj3)
+- [Navigating the Transition to In-Office Work: Looking for Advice!](https://dev.to/pidgey0403/navigating-the-transition-to-in-office-work-looking-for-advice-ip3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
