@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [HTTP Basic Auth Explained](https://dev.to/timo_reusch/http-basic-auth-explained-4pnn)
-- [Insights do IBM FinOps Day: Transformando a Gestão Financeira na Era da Nuvem](https://dev.to/technerdsup/insights-do-ibm-finops-day-transformando-a-gestao-financeira-na-era-da-nuvem-361i)
-- [Deploying a Serverless Function with AWS Lambda](https://dev.to/mariehposa/deploying-a-serverless-function-with-aws-lambda-161j)
-- [Fundamentos de Observabilidade](https://dev.to/devsnasnuvens/fundamentos-de-observabilidade-345c)
-- [Proxmox Network Storage: Firewall Rules](https://dev.to/sebos/proxmox-network-storage-firewall-rules-548c)
+- [Understanding Garbage Collection in .NET: How to Optimize Memory Management](https://dev.to/leandroveiga/understanding-garbage-collection-in-net-how-to-optimize-memory-management-3cj2)
+- [A brief intro on the correlation between AI and Maths.](https://dev.to/anushlinux/a-brief-intro-on-the-correlation-between-ai-and-maths-5c1k)
+- [Uber: How Live Activity on iOS Transforms User Experience](https://dev.to/agagag/uber-how-live-activity-on-ios-transforms-user-experience-1l7f)
+- [Galactic Gunfighter Game In Progress...😅](https://dev.to/trplx_gaming/galactic-gunfighter-game-in-progress-31k4)
+- [7+ Years of Experience Converting JavaScript to TypeScript: My Caring Opinions](https://dev.to/latobibor/7-years-of-experience-converting-javascript-to-typescript-my-caring-opinions-36ci)
 <!-- BLOG-POST-LIST:END -->
 
 ---
