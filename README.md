@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [C# Design Pattern: ObjectPool](https://dev.to/juarezasjunior/c-design-pattern-objectpool-3gih)
-- [C# Design Pattern: ObjectPool &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-objectpool-portugues-dnd)
-- [From Static to Stunning: Animate with GSAP](https://dev.to/aixart/from-static-to-stunning-animate-with-gsap-1pa1)
-- [Bhupesh Singh Nitwal Web Developer](https://dev.to/bhupesh_singhnitwal_d34c/bhupesh-singh-nitwal-web-developer-556c)
-- [Mastering C# Fundamentals: Understanding String Immutability and StringBuilder](https://dev.to/moh_moh701/mastering-c-fundamentals-understanding-string-immutability-and-stringbuilder-2lh3)
+- [How to Disable HTML codes without deleting](https://dev.to/yasminsardar/how-to-disable-html-codes-without-deleting-48fm)
+- [Continuous Testing in DevOps: Best Practices](https://dev.to/aswani25/continuous-testing-in-devops-best-practices-4mha)
+- [How to Become a Software Architect](https://dev.to/marrouchi/how-to-become-a-software-architect-4ci0)
+- [StudyHelper - my new pet project&lpar;Telegram bot&rpar;](https://dev.to/mezgoodle/studyhelper-my-new-pet-projecttelegram-bot-3f41)
+- [One Byte Explainer](https://dev.to/ahiyankabir13/submission-1m0k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
