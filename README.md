@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Come learn the basics of Python with me starting with Variables](https://dev.to/abeck617/come-learn-the-basics-of-python-with-me-starting-with-variables-8co)
-- [Efficiently Deleting Multiple Lakhs of Records from DynamoDB Using Lambda: A Comprehensive Guide](https://dev.to/sakshi360/efficiently-deleting-multiple-lakhs-of-records-from-dynamodb-using-lambda-a-comprehensive-guide-1hnl)
-- [Create custom errors in Golang](https://dev.to/ankitmalikg/create-custom-errors-in-golang-3mdl)
-- [Difference between Microservice and Monolithic](https://dev.to/fazly_fathhy/difference-between-microservice-and-monolithic-1jj3)
-- [Navigating the Transition to In-Office Work: Looking for Advice!](https://dev.to/pidgey0403/navigating-the-transition-to-in-office-work-looking-for-advice-ip3)
+- [Answer: Shopify GraphQL API Pagination Stuck in Infinite Loop with Same `endCursor`](https://dev.to/nirmalsankalana/answer-shopify-graphql-api-pagination-stuck-in-infinite-loop-with-same-endcursor-3b4c)
+- [Neural Networks - One Byte Explainer](https://dev.to/pragadeeshnehru/neural-networks-one-byte-explainer-2cki)
+- [Are you sure You can get 90%+ score?](https://dev.to/areeb_anwar_813df06ee1124/are-you-sure-you-can-get-90-score-108h)
+- [GRU in PyTorch](https://dev.to/hyperkai/gru-in-pytorch-4l7d)
+- [[Part 3] If You Can Answer These Additional 7 Questions Correctly, You’re Decent at .NET](https://dev.to/ssukhpinder/part-3-if-you-can-answer-these-additional-7-questions-correctly-youre-decent-at-net-30on)
 <!-- BLOG-POST-LIST:END -->
 
 ---
