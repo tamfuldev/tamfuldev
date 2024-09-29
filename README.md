@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stringifying Errors: A Uniquely Javascript Problem](https://dev.to/evanskaufman/stringifying-errors-a-uniquely-javascript-problem-12b)
-- [Building a valid JWT Claims Set](https://dev.to/sigje/building-a-valid-jwt-claims-set-4l58)
-- [LabEx Trending: Implementing Caesar Cipher Encryption and More](https://dev.to/labex/labex-trending-implementing-caesar-cipher-encryption-and-more-4e0g)
-- [Hello WORLD! &lpar;FSCSS&rpar;](https://dev.to/lmcss/hello-world-fscss-22pj)
-- [Launching our very first product: Uniqrate](https://dev.to/damcosset/launching-our-very-first-product-uniqrate-4gn5)
+- [Collections.nCopies method in Java](https://dev.to/realnamehidden1_61/collectionsncopies-method-in-java-2gan)
+- [Embed Google Ads in Flutter Using Native Ads](https://dev.to/leadpresence/embed-google-ads-in-flutter-using-native-ads-24a5)
+- [TailwindCSS: A Game-Changer for AI-Driven Code Generation and Design Systems](https://dev.to/brolag/tailwindcss-a-game-changer-for-ai-driven-code-generation-and-design-systems-18m7)
+- [Connecting MongoDB to a Node.js Application: Locally and Using MongoDB Atlas - Node.js Tutorial - Part 13](https://dev.to/hakimmohamed/connecting-mongodb-to-a-nodejs-application-locally-and-using-mongodb-atlas-nodejs-tutorial-part-13-25fk)
+- [Running the FLUX.1 Image &lpar;[dev]/[schnell]&rpar; Generation AI Model by Stable Diffusion&#39;s Original Developers on a MacBook &lpar;M2&rpar;](https://dev.to/nabata/running-the-flux1-image-devschnell-generation-ai-model-by-stable-diffusions-original-developers-on-a-macbook-m2-4ld6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
