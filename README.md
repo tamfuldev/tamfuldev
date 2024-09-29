@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Collections.nCopies method in Java](https://dev.to/realnamehidden1_61/collectionsncopies-method-in-java-2gan)
-- [Embed Google Ads in Flutter Using Native Ads](https://dev.to/leadpresence/embed-google-ads-in-flutter-using-native-ads-24a5)
-- [TailwindCSS: A Game-Changer for AI-Driven Code Generation and Design Systems](https://dev.to/brolag/tailwindcss-a-game-changer-for-ai-driven-code-generation-and-design-systems-18m7)
-- [Connecting MongoDB to a Node.js Application: Locally and Using MongoDB Atlas - Node.js Tutorial - Part 13](https://dev.to/hakimmohamed/connecting-mongodb-to-a-nodejs-application-locally-and-using-mongodb-atlas-nodejs-tutorial-part-13-25fk)
-- [Running the FLUX.1 Image &lpar;[dev]/[schnell]&rpar; Generation AI Model by Stable Diffusion&#39;s Original Developers on a MacBook &lpar;M2&rpar;](https://dev.to/nabata/running-the-flux1-image-devschnell-generation-ai-model-by-stable-diffusions-original-developers-on-a-macbook-m2-4ld6)
+- [Streamline Keyper CI/CD Pipeline with Keyper&#39;s Github Action](https://dev.to/jarrid/streamline-keyper-cicd-pipeline-with-keypers-github-action-hbc)
+- [Hello Everyone Out There Using LaTeX -](https://dev.to/crisclacerda/hello-everyone-out-there-using-latex--3344)
+- [&#39;EventTarget&#39; is not assignable to parameter of type &#39;Node&#39;](https://dev.to/turingvangisms/eventtarget-is-not-assignable-to-parameter-of-type-node-231c)
+- [i made a website to track AI open source developers and project](https://dev.to/jamie_h/i-made-a-website-to-track-ai-open-source-developers-and-project-1iik)
+- [Search-35. Search Insert Position](https://dev.to/daniel20030312/search-35-search-insert-position-1g5g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
