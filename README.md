@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Unlock the Blockchain: A Comprehensive Journey](https://dev.to/getvm/unlock-the-blockchain-a-comprehensive-journey-4ncp)
-- [15+ Top React Header Components to use in 2024](https://dev.to/tailwindcss/15-top-react-header-components-to-use-in-2024-2adk)
-- [SCSS: Managing Color Palettes](https://dev.to/tailwine/scss-managing-color-palettes-2kpm)
-- [Product Manager: The Keystone of Product Success](https://dev.to/williamdk/product-manager-the-keystone-of-product-success-4d8d)
-- [SpaceType Continuum](https://dev.to/j_t/spacetype-continuum-2ip9)
+- [Book: A Philosophy of Software Design](https://dev.to/airtucha/book-a-philosophy-of-software-design-2je1)
+- [Latex with Vim](https://dev.to/aadityasinha_dotcom/latex-with-vim-1f84)
+- [List of 100 different Linux commands &lpar;Part-2&rpar; [Must Read]](https://dev.to/trixsec/list-of-100-different-linux-commands-part-2-must-read-20ad)
+- [Building a Recursive File System with React: A Deep Dive](https://dev.to/amyssnippet/building-a-recursive-file-system-with-react-a-deep-dive-3d3b)
+- [What are your favorite resources??](https://dev.to/vishalprogrammer/what-are-your-favorite-resources-54l8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
