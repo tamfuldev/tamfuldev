@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Using LLaMA Models with Groq: A Beginner&#39;s Guide](https://dev.to/mohitb_twt/using-llama-models-with-groq-a-beginners-guide-173f)
-- [Event Listeners - One Byte Explainer](https://dev.to/hikolakita/event-listeners-one-byte-explainer-3dgm)
-- [Understanding the Concept of Scoping in CSS](https://dev.to/bilkeesu96/understanding-the-concept-of-scoping-in-css-1m9g)
-- [Your Life in Weeks](https://dev.to/gauravkrp/your-life-in-weeks-228b)
-- [The Concept of Designing Retrospective](https://dev.to/csohei/the-concept-of-designing-retrospective-5do8)
+- [C# Design Pattern: ObjectPool](https://dev.to/juarezasjunior/c-design-pattern-objectpool-3gih)
+- [C# Design Pattern: ObjectPool &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-objectpool-portugues-dnd)
+- [From Static to Stunning: Animate with GSAP](https://dev.to/aixart/from-static-to-stunning-animate-with-gsap-1pa1)
+- [Bhupesh Singh Nitwal Web Developer](https://dev.to/bhupesh_singhnitwal_d34c/bhupesh-singh-nitwal-web-developer-556c)
+- [Mastering C# Fundamentals: Understanding String Immutability and StringBuilder](https://dev.to/moh_moh701/mastering-c-fundamentals-understanding-string-immutability-and-stringbuilder-2lh3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
