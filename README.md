@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Promises vs. Async/Await: What&#39;s the Difference?🤔](https://dev.to/ajitkushawaha/promises-vs-asyncawait-whats-the-difference-2hh2)
-- [PCA vs. t-SNE: Unveiling the Best Dimensionality Reduction Technique for Your Data](https://dev.to/sreeni5018/pca-vs-t-sne-unveiling-the-best-dimensionality-reduction-technique-for-your-data-ekc)
-- [XKCD App](https://dev.to/armadillomike/xkcd-app-2mjl)
-- [Why Traditional Bake Times Are Wasteful: Embrace Purposeful Baking with Model-Based Testing](https://dev.to/boris_burakovski_c7420552/why-traditional-bake-times-are-wasteful-embrace-purposeful-baking-with-model-based-testing-3287)
-- [Building Code Grader Feedback System Using Meta LLaMA and Naga AI API](https://dev.to/rajendrakhanal/building-code-grader-feedback-system-using-meta-llama-and-naga-ai-api-194n)
+- [Mis primeras 3 lecciones como Arquitecto de Soluciones](https://dev.to/boceto1/mis-primeras-3-lecciones-como-arquitecto-de-soluciones-38g)
+- [Virtual tables in SQL - Views, Materialized View, Global Temporary Table and Inline View](https://dev.to/mrcaption49/virtual-tables-in-sql-views-materialized-view-global-temporary-table-and-inline-view-3coh)
+- [&quot;Getting Comfortable with React through Building a Yoga Pose Library&quot;](https://dev.to/wendyver/getting-comfortable-with-react-through-building-a-yoga-pose-library-3ce5)
+- [Introduction to GBase 8s Database Unpivot Function](https://dev.to/congcong/introduction-to-gbase-8s-database-unpivot-function-2pdp)
+- [From HTML to Pixels: The Magic Behind Web Rendering](https://dev.to/umairian/from-html-to-pixels-the-magic-behind-web-rendering-48d8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
