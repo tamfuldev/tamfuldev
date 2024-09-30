@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Reality of Balancing Pregnancy in Developer Relations](https://dev.to/blackgirlbytes/the-reality-of-balancing-pregnancy-in-developer-relations-2anp)
-- [Yoo Devs, Where’s Your Old Laptop?](https://dev.to/teejayredex/yoo-devs-wheres-your-old-laptop-41c2)
-- [How I Hacked Large Language Models&lpar;LLMs&rpar; Using Prompt Injection &lpar;And It Worked&rpar;](https://dev.to/fotiecodes/how-i-hacked-large-language-modelsllms-using-prompt-injection-and-it-worked-34jm)
-- [Environments in GitHub &lpar;with example of Next.js deployment to Vercel&rpar;](https://dev.to/nausaf/environments-in-github-with-example-of-nextjs-deployment-to-vercel-3hmm)
-- [Install Ubuntu on WSL 2](https://dev.to/prastha/install-ubuntu-on-wsl-2-3fei)
+- [Need Help! php server](https://dev.to/wasim_shakir5/need-help-php-server-37lp)
+- [Multithreading : Key Concepts for Engineers - Part 1](https://dev.to/anwaar/multithreading-key-concepts-for-engineers-part-1-4g73)
+- [Disadvantages of the Open/Closed Principle&lpar;OCP&rpar;](https://dev.to/nozibul_islam_113b1d5334f/disadvantages-of-the-openclosed-principleocp-3dgo)
+- [How ChatGPT generates human-like text?](https://dev.to/xaviernishanth/how-chatgpt-generates-human-like-text-4bo1)
+- [Master Git with this Cheatsheet for Beginners...](https://dev.to/xaviernishanth/master-git-with-this-cheatsheet-for-beginners-3j9o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
