@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mis primeras 3 lecciones como Arquitecto de Soluciones](https://dev.to/boceto1/mis-primeras-3-lecciones-como-arquitecto-de-soluciones-38g)
-- [Virtual tables in SQL - Views, Materialized View, Global Temporary Table and Inline View](https://dev.to/mrcaption49/virtual-tables-in-sql-views-materialized-view-global-temporary-table-and-inline-view-3coh)
-- [&quot;Getting Comfortable with React through Building a Yoga Pose Library&quot;](https://dev.to/wendyver/getting-comfortable-with-react-through-building-a-yoga-pose-library-3ce5)
-- [Introduction to GBase 8s Database Unpivot Function](https://dev.to/congcong/introduction-to-gbase-8s-database-unpivot-function-2pdp)
-- [From HTML to Pixels: The Magic Behind Web Rendering](https://dev.to/umairian/from-html-to-pixels-the-magic-behind-web-rendering-48d8)
+- [How to Handle the Startup Class When Migrating ASP.NET Core Projects](https://dev.to/canro91/how-to-handle-the-startup-class-when-migrating-aspnet-core-projects-12n7)
+- [Creating a GitHub Copilot Extension: A Step-by-Step Guide](https://dev.to/nickytonline/creating-your-first-github-copilot-extension-a-step-by-step-guide-28g0)
+- [Using Quill Rich Text Editor in the HTML Form element](https://dev.to/kohtet_gintoki/using-quill-rich-text-editor-in-the-html-form-element-2bh8)
+- [Integration Testing in React: Best Practices with Testing Library](https://dev.to/imyusufakhtar/integration-testing-in-react-best-practices-with-testing-library-4akp)
+- [Unit Testing React Components with Jest](https://dev.to/imyusufakhtar/unit-testing-react-components-with-jest-5h48)
 <!-- BLOG-POST-LIST:END -->
 
 ---
