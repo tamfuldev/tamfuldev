@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [15 Tips for .NET 8 Microservices Performance Optimization](https://dev.to/viitorcloud/15-tips-for-net-8-microservices-performance-optimization-1b16)
-- [Observable emits synchronous value in the toSignal function with the requireSync option](https://dev.to/railsstudent/observable-emits-synchronous-value-in-the-tosignal-function-with-the-requiresync-option-2nlk)
-- [Creating a Virtual Machine in Azure](https://dev.to/tjasper/creating-a-virtual-machine-in-azure-3gch)
-- [How To add a Telegram chat button to your blog](https://dev.to/babar_ali/how-to-add-a-telegram-chat-button-to-your-blog-7aj)
-- [🚀 Boosting TPC-H Q2 Query Performance by 1000x times: PawSQL Optimization Techniques](https://dev.to/pawsql/boosting-tpc-h-q2-query-performance-by-1000x-times-pawsql-optimization-techniques-4hdb)
+- [RailsDesigners.com: Elite Ruby on Rails Product Engineers &amp; UI Designers](https://dev.to/railsdesigner/railsdesignerscom-elite-ruby-on-rails-product-engineers-ui-designers-1ihp)
+- [Mantine UI: A Complete Guide to Building Modern Web Interfaces](https://dev.to/codeparrot/mantine-ui-a-complete-guide-to-building-modern-web-interfaces-5bk2)
+- [A practical Guide - Migrating to Next.js App Router](https://dev.to/shagun/a-practical-guide-migrating-to-nextjs-app-router-3j5i)
+- [Data Scraping: A JSON-derful Adventure!](https://dev.to/ajgamer/data-scraping-a-json-derful-adventure-13ld)
+- [Cloud Integration Best Practices: Maximize Your Cloud Investments](https://dev.to/harman_diaz/cloud-integration-best-practices-maximize-your-cloud-investments-k70)
 <!-- BLOG-POST-LIST:END -->
 
 ---
