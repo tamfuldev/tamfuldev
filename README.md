@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Breakthrough!!](https://dev.to/raveenaa_m_df8e2d38bd1352/breakthrough-4ac9)
-- [GCP Global Infrastructure](https://dev.to/2nguyenlong000k/gcp-global-infrastructure-44k6)
-- [Boletín AWS Open Source, September Edition](https://dev.to/iaasgeek/boletin-aws-open-source-september-edition-3ca2)
-- [Grow your JavaScript skills with the IBM Full-Stack JavaScript Developer Professional Certificate on Coursera!](https://dev.to/ibmdeveloper/grow-your-javascript-skills-with-the-ibm-full-stack-javascript-developer-professional-certificate-on-coursera-5cke)
-- [Tes](https://dev.to/devtaehong/tes-2jf4)
+- [React Meets Disney: Unveiling the Magic of Hooks | The Tale of useState](https://dev.to/parnikagupta/react-meets-disney-unveiling-the-magic-of-hooks-the-tale-of-usestate-4omi)
+- [🎬 Video - WebForms Core Technology Retires React, Vue and Angular](https://dev.to/elanatframework/video-webforms-core-technology-retires-react-vue-and-angular-216n)
+- [Running a SaaS Business: What does it take? &lpar;feat. Rodion Telpizov&rpar;](https://dev.to/vpalania/running-a-saas-business-what-does-it-take-feat-rodion-telpizov-39nk)
+- [Building Scalable Java Applications on AWS ECS with Fargate - A Step-by-Step Guide](https://dev.to/prosperagada/building-scalable-java-applications-on-aws-ecs-with-fargate-a-step-by-step-guide-4e53)
+- [Is bad learning new programming languages?](https://dev.to/sazardev/is-bad-learning-new-programming-languages-1jma)
 <!-- BLOG-POST-LIST:END -->
 
 ---
