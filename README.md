@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t use i18next ❌😢](https://dev.to/nevodavid/dont-use-i18next-n1a)
-- [Building a simple RAG agent with LlamaIndex](https://dev.to/vivekalhat/building-a-simple-rag-agent-with-llamaindex-4c6k)
-- [How to Use Knowledge Distillation to Create Smaller, Faster LLMs?](https://dev.to/hakeem/how-to-use-knowledge-distillation-to-create-smaller-faster-llms-1np6)
-- [Top Developer Marketing Agencies](https://dev.to/engroso/top-developer-marketing-agencies-1kcg)
-- [Introducing Teamwork and Unit Testing Project#1](https://dev.to/cyberfriend/introducing-teamwork-and-unit-testing-project1-5c3)
+- [[Jornada à física computacional] - Dia 2 / Iniciando estudos em C++](https://dev.to/matheusgb/jornada-a-fisica-computacional-dia-2-24k1)
+- [Como utilizar o Type aliases do Kotlin para facilitar o Design de Código](https://dev.to/jordihofc/como-utilizar-o-type-aliases-do-kotlin-para-facilitar-o-design-de-codigo-5baj)
+- [Pengenalan Laravel](https://dev.to/razqaa_fcfe19aee879ffd75a/pengenalan-laravel-3hif)
+- [Top Hacktoberfest Projects to Contribute to in 2024!🚀](https://dev.to/kalpeshb/top-hacktoberfest-projects-to-contribute-to-in-2024-d44)
+- [CodePen: Skeleton Card](https://dev.to/wptricksdk/codepen-skeleton-card-185n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
