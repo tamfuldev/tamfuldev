@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [RailsDesigners.com: Elite Ruby on Rails Product Engineers &amp; UI Designers](https://dev.to/railsdesigner/railsdesignerscom-elite-ruby-on-rails-product-engineers-ui-designers-1ihp)
-- [Mantine UI: A Complete Guide to Building Modern Web Interfaces](https://dev.to/codeparrot/mantine-ui-a-complete-guide-to-building-modern-web-interfaces-5bk2)
-- [A practical Guide - Migrating to Next.js App Router](https://dev.to/shagun/a-practical-guide-migrating-to-nextjs-app-router-3j5i)
-- [Data Scraping: A JSON-derful Adventure!](https://dev.to/ajgamer/data-scraping-a-json-derful-adventure-13ld)
-- [Cloud Integration Best Practices: Maximize Your Cloud Investments](https://dev.to/harman_diaz/cloud-integration-best-practices-maximize-your-cloud-investments-k70)
+- [Don&#39;t use i18next ❌😢](https://dev.to/nevodavid/dont-use-i18next-n1a)
+- [Building a simple RAG agent with LlamaIndex](https://dev.to/vivekalhat/building-a-simple-rag-agent-with-llamaindex-4c6k)
+- [How to Use Knowledge Distillation to Create Smaller, Faster LLMs?](https://dev.to/hakeem/how-to-use-knowledge-distillation-to-create-smaller-faster-llms-1np6)
+- [Top Developer Marketing Agencies](https://dev.to/engroso/top-developer-marketing-agencies-1kcg)
+- [Introducing Teamwork and Unit Testing Project#1](https://dev.to/cyberfriend/introducing-teamwork-and-unit-testing-project1-5c3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
