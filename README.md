@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [So You Need to Give a Talk...](https://dev.to/abbeyperini/so-you-need-to-give-a-talk-30b4)
-- [Understanding Data Schemas](https://dev.to/chaets/understanding-data-schemas-2a0o)
-- [Maintaining Throughput With Less Physical Connections](https://dev.to/yugabyte/maintaining-throughput-with-less-physical-connections-3f32)
-- [Setting up helix with rust on Alpine](https://dev.to/tinkertinker/setting-up-helix-with-rust-on-alpine-2ech)
-- [[Part 4] If You Can Answer These Additional 7 Questions Correctly, You’re Decent at .NET](https://dev.to/ssukhpinder/part-4-if-you-can-answer-these-additional-7-questions-correctly-youre-decent-at-net-41f8)
+- [Axios vs Fetch](https://dev.to/doccaio/axios-vs-fetch-53j8)
+- [Axios vs Fetch](https://dev.to/doccaio/axios-vs-fetch-1k1k)
+- [Getting Started with React Native: Installation Guide For Windows &amp; Linux](https://dev.to/knerd/getting-started-with-react-native-installation-guide-for-windows-linux-2a05)
+- [Dive into the Captivating World of Game Development with CS50 2019 - Games Track! 🎮](https://dev.to/getvm/dive-into-the-captivating-world-of-game-development-with-cs50-2019-games-track-34m9)
+- [MongoDB schema design - Key excerpts](https://dev.to/patfinder/mongodb-schema-design-key-excerpts-2fc0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
