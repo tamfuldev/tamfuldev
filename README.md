@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Test ElastAlert Locally Using LocalStack: A Step-by-Step Guide](https://dev.to/aws-builders/how-to-test-elastalert-locally-using-localstack-a-step-by-step-guide-32p5)
-- [structuredClone - A modern way to deep clone objects in javascript](https://dev.to/shreenidhibatavi/structuredclone-a-modern-way-to-deep-clone-objects-in-javascript-bbe)
-- [Setting Up a Basic CI/CD Pipeline with Automated Build and Test Stages](https://dev.to/bankolejohn/setting-up-a-basic-cicd-pipeline-with-automated-build-and-test-stages-10ik)
-- [Challenges in Cloud Data Warehouse Adoption: Impacts and Solutions](https://dev.to/hana_sato/challenges-in-cloud-data-warehouse-adoption-impacts-and-solutions-1f5h)
-- [Sentiment Analysis using Azure AI](https://dev.to/mukulbindal/sentiment-analysis-using-azure-ai-517j)
+- [Meme Monday](https://dev.to/ben/meme-monday-20jg)
+- [OpenAI’s Financial Growth and Challenges](https://dev.to/grenishrai/openais-financial-growth-and-challenges-4ib5)
+- [C# Design Pattern: Adapter &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-adapter-portugues-1l97)
+- [C# Design Pattern: Adapter](https://dev.to/juarezasjunior/c-design-pattern-adapter-3jf4)
+- [Typing Effect Animation](https://dev.to/babar_ali/typing-effect-animation-94n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
