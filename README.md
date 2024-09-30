@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Garbage Collection in .NET: How to Optimize Memory Management](https://dev.to/leandroveiga/understanding-garbage-collection-in-net-how-to-optimize-memory-management-3cj2)
-- [A brief intro on the correlation between AI and Maths.](https://dev.to/anushlinux/a-brief-intro-on-the-correlation-between-ai-and-maths-5c1k)
-- [Uber: How Live Activity on iOS Transforms User Experience](https://dev.to/agagag/uber-how-live-activity-on-ios-transforms-user-experience-1l7f)
-- [Galactic Gunfighter Game In Progress...😅](https://dev.to/trplx_gaming/galactic-gunfighter-game-in-progress-31k4)
-- [7+ Years of Experience Converting JavaScript to TypeScript: My Caring Opinions](https://dev.to/latobibor/7-years-of-experience-converting-javascript-to-typescript-my-caring-opinions-36ci)
+- [The Reality of Balancing Pregnancy in Developer Relations](https://dev.to/blackgirlbytes/the-reality-of-balancing-pregnancy-in-developer-relations-2anp)
+- [Yoo Devs, Where’s Your Old Laptop?](https://dev.to/teejayredex/yoo-devs-wheres-your-old-laptop-41c2)
+- [How I Hacked Large Language Models&lpar;LLMs&rpar; Using Prompt Injection &lpar;And It Worked&rpar;](https://dev.to/fotiecodes/how-i-hacked-large-language-modelsllms-using-prompt-injection-and-it-worked-34jm)
+- [Environments in GitHub &lpar;with example of Next.js deployment to Vercel&rpar;](https://dev.to/nausaf/environments-in-github-with-example-of-nextjs-deployment-to-vercel-3hmm)
+- [Install Ubuntu on WSL 2](https://dev.to/prastha/install-ubuntu-on-wsl-2-3fei)
 <!-- BLOG-POST-LIST:END -->
 
 ---
