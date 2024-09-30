@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Axios vs Fetch](https://dev.to/doccaio/axios-vs-fetch-53j8)
-- [Axios vs Fetch](https://dev.to/doccaio/axios-vs-fetch-1k1k)
-- [Getting Started with React Native: Installation Guide For Windows &amp; Linux](https://dev.to/knerd/getting-started-with-react-native-installation-guide-for-windows-linux-2a05)
-- [Dive into the Captivating World of Game Development with CS50 2019 - Games Track! 🎮](https://dev.to/getvm/dive-into-the-captivating-world-of-game-development-with-cs50-2019-games-track-34m9)
-- [MongoDB schema design - Key excerpts](https://dev.to/patfinder/mongodb-schema-design-key-excerpts-2fc0)
+- [#01 - How to learn Git from scratch](https://dev.to/brunodevphp/how-to-learn-git-from-scratch-3eh1)
+- [Introduction to AWS S3 Remote Backend with Terraform](https://dev.to/sre_panchanan/introduction-to-aws-s3-remote-backend-with-terraform-28i7)
+- [Building a Jupyter Notebook Environment in Docker for Data Analysis on AWS EC2](https://dev.to/zahraajawad/building-a-jupyter-notebook-environment-in-docker-for-data-analysis-on-aws-ec2-376i)
+- [Mastering C# Fundamentals :Memory Management and Garbage Collection](https://dev.to/moh_moh701/mastering-c-fundamentals-memory-management-and-garbage-collection-25k4)
+- [How to implement oAuth with PKCE for third-party integration in react](https://dev.to/konfydev/how-to-implement-oauth-with-pkce-for-third-party-integration-in-react-3jc3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
