@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Manage User Authentication in React.js, Next.js, Vue.js, and Nuxt.js Using Clerk](https://dev.to/hramonpereira/how-to-manage-user-authentication-in-reactjs-nextjs-vuejs-and-nuxtjs-using-clerk-136l)
-- [Handling Transactions Without Breaking Service-Adapter Decoupling in Hexagonal Architecture with Golang](https://dev.to/2nguyenlong000k/handling-transactions-without-breaking-service-adapter-decoupling-in-hexagonal-architecture-with-golang-5ce1)
-- [Zoom recording to S3 using an AWS Lambda](https://dev.to/germanescobar/zoom-recording-to-s3-using-an-aws-lambda-1lo9)
-- [How to make a quick and pretty PureScript web app](https://dev.to/zelenya/how-to-make-a-quick-and-pretty-purescript-web-app-4cl4)
-- [How Project Ideas Can Come From Anywhere - My Open Source Daily Puzzle Game](https://dev.to/oia20/how-project-ideas-can-come-from-anywhere-my-open-source-daily-puzzle-game-56a0)
+- [Simple Golang Dockerfile with multi staged builds &lpar;reduces ~96.67% of the image size&rpar;](https://dev.to/thayto/simple-golang-dockerfile-with-multi-staged-builds-reduces-9667-of-the-image-size-1m3d)
+- [Local Kubernetes Cluster - External traffic without Ingress Using Kftray](https://dev.to/hcavarsan/local-kubernetes-cluster-external-traffic-without-ingress-using-kftray-2n66)
+- [Orquestando Modelos: Machine Learning con Docker Compose](https://dev.to/yharyarias/orquestando-modelos-machine-learning-con-docker-compose-i31)
+- [Padrões de Desenvolvimento de APIs: Boas Práticas e Considerações](https://dev.to/alexjosesilvati/padroes-de-desenvolvimento-de-apis-boas-praticas-e-consideracoes-hgl)
+- [Building privatus: Day 2 - day 6](https://dev.to/ezpieco/building-privatus-day-2-day-6-4pe7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
