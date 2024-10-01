@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Request Validation to External Systems Using Azure Services, Microservices, and Parallel Processing](https://dev.to/leandroveiga/optimizing-request-validation-to-external-systems-using-azure-services-microservices-and-parallel-processing-2img)
-- [Optimizing Angular Build Performance with Nx](https://dev.to/viitorcloud/optimizing-angular-build-performance-with-nx-3f8i)
-- [21 React Projects Too Awesome to Ignore](https://dev.to/copilotkit/21-react-projects-too-awesome-to-ignore-17ec)
-- [What&#39;s the worst codebase you&#39;ve ever worked in?](https://dev.to/ben/whats-the-worst-codebase-youve-ever-worked-in-1ndk)
-- [5 DevOps Hacktoberfest Projects to Contribute to!](https://dev.to/code42cate/5-devops-hacktoberfest-projects-to-contribute-to-3c84)
+- [FlyonUI - An Open Source Tailwind CSS Component Library is Live 🚀](https://dev.to/themeselection/flyonui-an-open-source-tailwind-css-component-library-is-live-32j7)
+- [Embracing Llamaindex](https://dev.to/flt_s3nyo/im-making-a-public-commitment-im-getting-involved-with-the-llamaindex-open-source-project-3mah)
+- [Start to build something...](https://dev.to/codemancer/start-to-build-something-432c)
+- [Observability](https://dev.to/akhil_mittal/observability-1f4a)
+- [Missing Launch Button in your Discord Activity? Fix the Entry Point Command!](https://dev.to/waveplay/missing-launch-button-in-your-discord-activity-fix-the-entry-point-command-1fpg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
