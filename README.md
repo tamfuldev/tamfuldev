@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Back to sq1: My basic HTML template](https://dev.to/mbarzeev/back-to-sq1-my-basic-html-template-4kbb)
-- [Creating a synchronized store between main and renderer process in Electron](https://dev.to/tsudhishnair/creating-a-synchronized-store-between-main-and-renderer-process-in-electron-5ao1)
-- [The Best Tools for Building CRUD Applications](https://dev.to/scand/the-best-tools-for-building-crud-applications-mh1)
-- [Python&#39;s Integer Precision is Infinite](https://dev.to/graphpe/pythons-integer-precision-is-infinite-420h)
-- [How Does Angular SEO Work and Why Is It Important?](https://dev.to/parthprajapatispan/how-does-angular-seo-work-and-why-is-it-important-i4i)
+- [Static website forms](https://dev.to/fabform2/static-website-forms-3ffa)
+- [How StarSearch Makes Open Source Collaboration Smarter](https://dev.to/lymah/how-starsearch-makes-open-source-collaboration-smarter-1lg9)
+- [Mastering Web Development: A Comprehensive Guide to Free Online Courses](https://dev.to/getvm/mastering-web-development-a-comprehensive-guide-to-free-online-courses-4p2p)
+- [Supercharge Your Site: Advanced Caching Techniques to Maximize WordPress Speed](https://dev.to/wewphosting/supercharge-your-site-advanced-caching-techniques-to-maximize-wordpress-speed-4ni0)
+- [Answer: Sorting data in default rest api - Yii2 framework](https://dev.to/bellatrecheinfg/answer-sorting-data-in-default-rest-api-yii2-framework-4hib)
 <!-- BLOG-POST-LIST:END -->
 
 ---
