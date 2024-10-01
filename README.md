@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon EC2 Auto Scaling](https://dev.to/venkatesh111/amazon-ec2-auto-scaling-3o6o)
-- [5 Nextjs API Query Params Examples](https://dev.to/turingvangisms/5-nextjs-api-query-params-examples-53mn)
-- [The Importance of Responsive Web Design: Why It’s a Must-Have for Every Website in 2024 🌐📱](https://dev.to/arishn/the-importance-of-responsive-web-design-why-its-a-must-have-for-every-website-in-2024-3f1c)
-- [Top Models Tackle Billion-Scale Nearest Neighbor Search at NeurIPS&#39;23](https://dev.to/mikeyoung44/top-models-tackle-billion-scale-nearest-neighbor-search-at-neurips23-515c)
-- [**Seeking Internship**](https://dev.to/youngcodes/internship-request-3mcc)
+- [02.DEFI ATTACKS - Keine Verfallsfrist/Deadline](https://dev.to/thecodedoctor/02defi-attacks-keine-verfallsfristdeadline-1548)
+- [List of free online email testing tools](https://dev.to/sweego/list-of-free-online-email-testing-tools-21co)
+- [How to Use Passkeys with Google Password Manager](https://dev.to/corbado/how-to-use-passkeys-with-google-password-manager-4o25)
+- [9 Popular Architectures for Software Development You Should Know](https://dev.to/viksingh/9-popular-architectures-for-software-development-you-should-know-25bf)
+- [Unlock Your Web Development Superpowers with this Comprehensive Course! 🚀](https://dev.to/getvm/unlock-your-web-development-superpowers-with-this-comprehensive-course-16oh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
