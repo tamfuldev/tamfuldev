@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [02.DEFI ATTACKS - Keine Verfallsfrist/Deadline](https://dev.to/thecodedoctor/02defi-attacks-keine-verfallsfristdeadline-1548)
-- [List of free online email testing tools](https://dev.to/sweego/list-of-free-online-email-testing-tools-21co)
-- [How to Use Passkeys with Google Password Manager](https://dev.to/corbado/how-to-use-passkeys-with-google-password-manager-4o25)
-- [9 Popular Architectures for Software Development You Should Know](https://dev.to/viksingh/9-popular-architectures-for-software-development-you-should-know-25bf)
-- [Unlock Your Web Development Superpowers with this Comprehensive Course! 🚀](https://dev.to/getvm/unlock-your-web-development-superpowers-with-this-comprehensive-course-16oh)
+- [Bhupesh Singh Nitwal Web Developer](https://dev.to/bhupesh_singhnitwal_d34c/bhupesh-singh-nitwal-web-developer-3ofg)
+- [How to Create Custom Git Commands on Windows](https://dev.to/dmitry-koleev/how-to-create-a-custom-git-commands-on-windows-4e93)
+- [A Deep Dive into REST and Microservice Architecture for Salesforce by Chirag](https://dev.to/mariliatirachi62/a-deep-dive-into-rest-and-microservice-architecture-for-salesforce-by-chirag-24jb)
+- [Nextjs vs React](https://dev.to/turingvangisms/nextjs-vs-react-4035)
+- [How to get past Sub::Defer in the Perl debugger](https://dev.to/zaphoddont/how-to-get-past-subdefer-in-the-perl-debugger-39g7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
