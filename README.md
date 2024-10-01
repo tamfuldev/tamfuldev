@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Simple Golang Dockerfile with multi staged builds &lpar;reduces ~96.67% of the image size&rpar;](https://dev.to/thayto/simple-golang-dockerfile-with-multi-staged-builds-reduces-9667-of-the-image-size-1m3d)
-- [Local Kubernetes Cluster - External traffic without Ingress Using Kftray](https://dev.to/hcavarsan/local-kubernetes-cluster-external-traffic-without-ingress-using-kftray-2n66)
-- [Orquestando Modelos: Machine Learning con Docker Compose](https://dev.to/yharyarias/orquestando-modelos-machine-learning-con-docker-compose-i31)
-- [Padrões de Desenvolvimento de APIs: Boas Práticas e Considerações](https://dev.to/alexjosesilvati/padroes-de-desenvolvimento-de-apis-boas-praticas-e-consideracoes-hgl)
-- [Building privatus: Day 2 - day 6](https://dev.to/ezpieco/building-privatus-day-2-day-6-4pe7)
+- [Scala vs. Java: The Superior Choice for Big Data and Machine Learning](https://dev.to/adityabhuyan/scala-vs-java-the-superior-choice-for-big-data-and-machine-learning-enm)
+- [Generate tags using gemini AI](https://dev.to/ugifractal/generate-tags-using-gemini-ai-1g5g)
+- [Productivity Hacks for Developers: Boost Your Efficiency](https://dev.to/ratan_3511/productivity-hacks-for-developers-boost-your-efficiency-4joa)
+- [Running a Discord Bot on Raspberry Pi](https://dev.to/beretests/running-a-discord-bot-on-raspberry-pi-4la4)
+- [The Journey of DNS Resolution: How the Internet Finds Websites for You](https://dev.to/umairian/the-journey-of-dns-resolution-how-the-internet-finds-websites-for-you-1naf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
