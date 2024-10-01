@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Redis caching with Mongoose](https://dev.to/ayanabilothman/redis-caching-with-mongoose-g5m)
-- [Supercharge Your ASP.NET Web API with Linq.Dynamic.Core](https://dev.to/penielx/supercharge-your-aspnet-web-api-with-linqdynamiccore-hml)
-- [Password Authentication with Auth.js in Astro and Customizing Session Information &lpar;auth-astro&rpar;](https://dev.to/koyopro/password-authentication-with-authjs-in-astro-and-customizing-session-information-auth-astro-1n4n)
-- [Congrats to the Winners of Our First Web Game Challenge!](https://dev.to/devteam/congrats-to-the-winners-of-our-first-web-game-challenge-32co)
-- [Changing Foreign Key Constraints in PostgreSQL: A Step-by-Step Guide](https://dev.to/sajidurshajib/changing-foreign-key-constraints-in-postgresql-a-step-by-step-guide-3kak)
+- [The Must-Have GitHub Actions Dashboard - CICube](https://dev.to/cicube/the-must-have-github-actions-dashboard-cicube-3jga)
+- [What are Syntax and Semantics](https://dev.to/m__mdy__m/what-are-syntax-and-semantics-1p3e)
+- [How to Set Up Python, CUDA, cuDNN, C++ Build Tools, FFMPEG &amp; Git for AI Applications](https://dev.to/furkangozukara/how-to-set-up-python-cuda-cudnn-c-build-tools-ffmpeg-git-for-ai-applications-4hik)
+- [Vue 3 | Cheat Sheet of The Dark Side | Part 1 | Reactivity](https://dev.to/adnanbabakan/vue-3-cheat-sheet-of-the-dark-side-part-1-reactivity-5a89)
+- [Testes Subcutâneos - Comparação entre TestRestTemplate e WebTestClient em Testes de Integração 🧑‍💻](https://dev.to/gilsonsilvati/testes-subcutaneos-comparacao-entre-testresttemplate-e-webtestclient-em-testes-de-integracao-2edg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
