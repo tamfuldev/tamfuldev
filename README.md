@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Storage Solutions for Launching a New Company App](https://dev.to/tjasper/storage-solutions-for-launching-a-new-company-app-3aak)
-- [How to integrate Alerta into your Business](https://dev.to/vincentayorinde/how-to-integrate-alerta-into-your-business-2f4p)
-- [The Best Twitter Bookmarks Extension in 2025](https://dev.to/twillot_app/the-best-twitter-bookmarks-extension-in-2025-33ko)
-- [Forward SMS to Webhook with iPhone Shortcut Automations](https://dev.to/noha1337/forward-sms-to-webhook-with-iphone-shortcut-automations-4d6)
-- [How to install pterodactyl on oracle instance](https://dev.to/kokofixcomputers/how-to-install-pterodactyl-on-oracle-instance-4mf3)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-hi6)
+- [csPlayer: A Customizable YouTube Video Player for Your Projects](https://dev.to/ashutosh_dev/csplayer-a-customizable-youtube-video-player-for-your-projects-3gmi)
+- [Llama 3.2 Vision&lpar;11B vision-instruct model&rpar; in Kaggle: A Step-by-Step Guide](https://dev.to/shahstavan/llama-32-vision11b-vision-instruct-model-in-kaggle-a-step-by-step-guide-no1)
+- [Props and Callbacks in a shell](https://dev.to/amanbhoria/props-and-callbacks-in-a-shell-4jk)
+- [Should You Even Put Your Simple Projects on GitHub?](https://dev.to/saamiabbaskhan/should-you-even-put-your-simple-projects-on-github-160m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
