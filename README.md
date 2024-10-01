@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How does Apache Kafka work? Why is Kafka So fast?](https://dev.to/somadevtoo/how-does-apache-kafka-work-why-is-kafka-so-fast-463i)
-- [Import CSV to Google Sheets... without the Sheets API?!?](https://dev.to/wescpy/import-csv-to-google-sheets-without-the-sheets-api-20g1)
-- [My Cloud Journey — Week 11: Identity and Security!](https://dev.to/asif_khan/my-cloud-journey-week-11-identity-and-security-l8g)
-- [Tudo o que você precisa saber sobre a arquitetura BEM CSS](https://dev.to/lixeletto/tudo-o-que-voce-precisa-saber-sobre-a-arquitetura-bem-css-415)
-- [My Cloud Journey — Week 10: Learning about EC2 and Pricing Models](https://dev.to/asif_khan/my-cloud-journey-week-10-learning-about-ec2-and-pricing-models-4dfp)
+- [Learn How to Creating a 3D Tesla Car Configurator with React, NextJS, and TypeScript: Part 1](https://dev.to/rajesh_edayangatt_a3d8f94/learn-how-to-creating-a-3d-tesla-car-configurator-with-react-nextjs-and-typescript-part-1-4c52)
+- [Leetcode #2623. Memoize](https://dev.to/susangithaigan/leetcode-2623-memoize-532g)
+- [Software Localization Checklist](https://dev.to/annakarlsson/software-localization-checklist-27kb)
+- [CampX Project Now Part of GSSoC Open Source Program! 🚀](https://dev.to/vignesh_j/campx-project-now-part-of-gssoc-open-source-program-4kif)
+- [Build a FAB-ulous Button - #30DaysOfSwift](https://dev.to/thevediwho/build-a-fab-ulous-button-30daysofswift-3c1b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
