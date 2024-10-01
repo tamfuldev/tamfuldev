@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [C# Design Pattern: Composite](https://dev.to/juarezasjunior/c-design-pattern-composite-376)
-- [C# Design Pattern: Bridge &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-bridge-portugues-3136)
-- [C# Design Pattern: Bridge](https://dev.to/juarezasjunior/c-design-pattern-bridge-4ak6)
-- [Intro to RAG, improving LLMs](https://dev.to/busycaesar/intro-to-rag-solving-llm-limitations-1b7n)
-- [Boost Your Workflow with Smartclip – A Versatile Launcher for Developers](https://dev.to/muelphil/boost-your-workflow-with-smartclip-a-versatile-launcher-for-developers-5a42)
+- [Optimizing Request Validation to External Systems Using Azure Services, Microservices, and Parallel Processing](https://dev.to/leandroveiga/optimizing-request-validation-to-external-systems-using-azure-services-microservices-and-parallel-processing-2img)
+- [Optimizing Angular Build Performance with Nx](https://dev.to/viitorcloud/optimizing-angular-build-performance-with-nx-3f8i)
+- [21 React Projects Too Awesome to Ignore](https://dev.to/copilotkit/21-react-projects-too-awesome-to-ignore-17ec)
+- [What&#39;s the worst codebase you&#39;ve ever worked in?](https://dev.to/ben/whats-the-worst-codebase-youve-ever-worked-in-1ndk)
+- [5 DevOps Hacktoberfest Projects to Contribute to!](https://dev.to/code42cate/5-devops-hacktoberfest-projects-to-contribute-to-3c84)
 <!-- BLOG-POST-LIST:END -->
 
 ---
