@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Static website forms](https://dev.to/fabform2/static-website-forms-3ffa)
-- [How StarSearch Makes Open Source Collaboration Smarter](https://dev.to/lymah/how-starsearch-makes-open-source-collaboration-smarter-1lg9)
-- [Mastering Web Development: A Comprehensive Guide to Free Online Courses](https://dev.to/getvm/mastering-web-development-a-comprehensive-guide-to-free-online-courses-4p2p)
-- [Supercharge Your Site: Advanced Caching Techniques to Maximize WordPress Speed](https://dev.to/wewphosting/supercharge-your-site-advanced-caching-techniques-to-maximize-wordpress-speed-4ni0)
-- [Answer: Sorting data in default rest api - Yii2 framework](https://dev.to/bellatrecheinfg/answer-sorting-data-in-default-rest-api-yii2-framework-4hib)
+- [C# Design Pattern: Composite](https://dev.to/juarezasjunior/c-design-pattern-composite-376)
+- [C# Design Pattern: Bridge &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-bridge-portugues-3136)
+- [C# Design Pattern: Bridge](https://dev.to/juarezasjunior/c-design-pattern-bridge-4ak6)
+- [Intro to RAG, improving LLMs](https://dev.to/busycaesar/intro-to-rag-solving-llm-limitations-1b7n)
+- [Boost Your Workflow with Smartclip – A Versatile Launcher for Developers](https://dev.to/muelphil/boost-your-workflow-with-smartclip-a-versatile-launcher-for-developers-5a42)
 <!-- BLOG-POST-LIST:END -->
 
 ---
