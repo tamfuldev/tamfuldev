@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Learn How to Creating a 3D Tesla Car Configurator with React, NextJS, and TypeScript: Part 1](https://dev.to/rajesh_edayangatt_a3d8f94/learn-how-to-creating-a-3d-tesla-car-configurator-with-react-nextjs-and-typescript-part-1-4c52)
-- [Leetcode #2623. Memoize](https://dev.to/susangithaigan/leetcode-2623-memoize-532g)
-- [Software Localization Checklist](https://dev.to/annakarlsson/software-localization-checklist-27kb)
-- [CampX Project Now Part of GSSoC Open Source Program! 🚀](https://dev.to/vignesh_j/campx-project-now-part-of-gssoc-open-source-program-4kif)
-- [Build a FAB-ulous Button - #30DaysOfSwift](https://dev.to/thevediwho/build-a-fab-ulous-button-30daysofswift-3c1b)
+- [Survey: C to Rust conversion and corresponding tools](https://dev.to/ayushi_sharma_4351fd303a7/survey-c-to-rust-conversion-and-corresponding-tools-1mge)
+- [10 HTML Features You Need to Know](https://dev.to/tinymce/10-html-features-you-need-to-know-5de7)
+- [Čuvanje Podataka u JavaScript-u](https://dev.to/jelena_petkovic/cuvanje-podataka-u-javascript-u-5hka)
+- [HacktoberFest: Feel free to contribute to my open source project.](https://dev.to/saahen_sriyan_mishra/hacktoberfest-feel-free-to-contribute-to-my-open-source-project-5fmi)
+- [Introducing Ivee in Beta or the story of databases UX](https://dev.to/spronin/introducing-ivee-in-beta-or-the-story-of-databases-ux-11el)
 <!-- BLOG-POST-LIST:END -->
 
 ---
