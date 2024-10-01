@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-hi6)
-- [csPlayer: A Customizable YouTube Video Player for Your Projects](https://dev.to/ashutosh_dev/csplayer-a-customizable-youtube-video-player-for-your-projects-3gmi)
-- [Llama 3.2 Vision&lpar;11B vision-instruct model&rpar; in Kaggle: A Step-by-Step Guide](https://dev.to/shahstavan/llama-32-vision11b-vision-instruct-model-in-kaggle-a-step-by-step-guide-no1)
-- [Props and Callbacks in a shell](https://dev.to/amanbhoria/props-and-callbacks-in-a-shell-4jk)
-- [Should You Even Put Your Simple Projects on GitHub?](https://dev.to/saamiabbaskhan/should-you-even-put-your-simple-projects-on-github-160m)
+- [LLM Coder Scorer：一个免费的 GitHub 代码打分工具](https://dev.to/twillot_app/llm-coder-scorer-ge-mian-fei-de-github-dai-ma-da-fen-gong-ju-1n66)
+- [queueMicroTask in JavaScript](https://dev.to/thinkthroo/queuemicrotask-in-javascript-11a8)
+- [Named Calling Notations in PLSQL](https://dev.to/mrcaption49/named-calling-notations-in-plsql-5bk9)
+- [Hatırlamak İçin useState: Değişkenlerinizi React’in Hafızasında Saklayın!](https://dev.to/sonaykara/hatirlamak-icin-usestate-degiskenlerinizi-reactin-hafizasinda-saklayin-eil)
+- [Why You Should Be Using HTTPS for Every Website](https://dev.to/ishanbagchi/why-you-should-be-using-https-for-every-website-j4g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
