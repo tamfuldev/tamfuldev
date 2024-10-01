@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Textiles and Tents: The Artistry of Iranian Nomadic Crafts](https://dev.to/saeedhasani_55/textiles-and-tents-the-artistry-of-iranian-nomadic-crafts-3e27)
-- [🚀 Selenium IDE: Remembering Our Automation Origins!](https://dev.to/mdismail_e830c2c4f43ae37/selenium-ide-remembering-our-automation-origins-3ga9)
-- [Creating a Mesmerizing Moonlit Night Sky Animation with CSS](https://dev.to/babar_ali/creating-a-mesmerizing-moonlit-night-sky-animation-with-css-40eb)
-- [Launching Our Fresh &amp; Vibrant Fruit Shop HTML Template! 🍎🍊](https://dev.to/arishn/launching-our-fresh-vibrant-fruit-shop-html-template-3cbb)
-- [React Environment Variables: A Complete Step-By-Step Guide](https://dev.to/iradcn/react-environment-variables-a-complete-step-by-step-guide-99p)
+- [Amazon EC2 Auto Scaling](https://dev.to/venkatesh111/amazon-ec2-auto-scaling-3o6o)
+- [5 Nextjs API Query Params Examples](https://dev.to/turingvangisms/5-nextjs-api-query-params-examples-53mn)
+- [The Importance of Responsive Web Design: Why It’s a Must-Have for Every Website in 2024 🌐📱](https://dev.to/arishn/the-importance-of-responsive-web-design-why-its-a-must-have-for-every-website-in-2024-3f1c)
+- [Top Models Tackle Billion-Scale Nearest Neighbor Search at NeurIPS&#39;23](https://dev.to/mikeyoung44/top-models-tackle-billion-scale-nearest-neighbor-search-at-neurips23-515c)
+- [**Seeking Internship**](https://dev.to/youngcodes/internship-request-3mcc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
