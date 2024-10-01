@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [FlyonUI - An Open Source Tailwind CSS Component Library is Live 🚀](https://dev.to/themeselection/flyonui-an-open-source-tailwind-css-component-library-is-live-32j7)
-- [Embracing Llamaindex](https://dev.to/flt_s3nyo/im-making-a-public-commitment-im-getting-involved-with-the-llamaindex-open-source-project-3mah)
-- [Start to build something...](https://dev.to/codemancer/start-to-build-something-432c)
-- [Observability](https://dev.to/akhil_mittal/observability-1f4a)
-- [Missing Launch Button in your Discord Activity? Fix the Entry Point Command!](https://dev.to/waveplay/missing-launch-button-in-your-discord-activity-fix-the-entry-point-command-1fpg)
+- [How does Apache Kafka work? Why is Kafka So fast?](https://dev.to/somadevtoo/how-does-apache-kafka-work-why-is-kafka-so-fast-463i)
+- [Import CSV to Google Sheets... without the Sheets API?!?](https://dev.to/wescpy/import-csv-to-google-sheets-without-the-sheets-api-20g1)
+- [My Cloud Journey — Week 11: Identity and Security!](https://dev.to/asif_khan/my-cloud-journey-week-11-identity-and-security-l8g)
+- [Tudo o que você precisa saber sobre a arquitetura BEM CSS](https://dev.to/lixeletto/tudo-o-que-voce-precisa-saber-sobre-a-arquitetura-bem-css-415)
+- [My Cloud Journey — Week 10: Learning about EC2 and Pricing Models](https://dev.to/asif_khan/my-cloud-journey-week-10-learning-about-ec2-and-pricing-models-4dfp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
