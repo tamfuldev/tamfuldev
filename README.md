@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Hacktoberfest: My First Open-Source Contributions](https://dev.to/bregwin/getting-started-with-hacktoberfest-my-first-open-source-contributions-54pc)
-- [Exploring Advanced CSS Selectors](https://dev.to/kartikmehta8/exploring-advanced-css-selectors-1n2f)
-- [Gestor de Iniciativas Ecológicas: Django &lpar;Parte 2&rpar;](https://dev.to/villacisg93/gestor-de-iniciativas-ecologicas-django-parte-2-plh)
-- [TS Dependency Injection with @Findhow/Container No Decorators Required 🔥](https://dev.to/cleancodestudio/ts-dependency-injection-with-findhowcontainer-no-decorators-required-4hjj)
-- [Post 2: Understanding Methods in Java](https://dev.to/sadaf_khan_/post-2-understanding-methods-in-java-3f57)
+- [Regra 7: Elimine casos de falha](https://dev.to/fernanda_leite_febc2f0459/regra-7-elimine-casos-de-falha-4gnc)
+- [Seeking React, Node.js and web3 engineer](https://dev.to/rauschenbach/seeking-react-nodejs-and-web3-engineer-26f2)
+- [Can You Create a Product That Makes Money with Wasm?](https://dev.to/shinshin86/can-you-create-a-product-that-makes-money-with-wasm-3a3n)
+- [[pandas] 공공데이터&lpar;csv&rpar; 활용시 한글 깨짐 현상 해결](https://dev.to/insung/pandas-gonggongdeiteocsv-hwalyongsi-hangeul-ggaejim-hyeonsang-haegyeol-1716)
+- [SubFlows in ServiceNow Flow Designer](https://dev.to/sophiasemga/subflows-in-servicenow-flow-designer-45kh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
