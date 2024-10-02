@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Untitled](https://dev.to/kayrarti_2312/untitled-j1l)
-- [Como conectarse a Google Cloud Shell desde Visual Studio Code](https://dev.to/jondotsoy/como-conectarse-a-google-cloud-shell-desde-visual-studio-code-57kh)
-- [Como conectarse a Google Cloud Shell desde Visual Studio Code](https://dev.to/jondotsoy/como-conectarse-a-google-cloud-shell-desde-visual-studio-code-2l11)
-- [Understanding the OSI Model and TCP/IP Protocol Suite: A Beginner-Friendly Guide](https://dev.to/akansh_pandeyap_041d5b/understanding-the-osi-model-and-tcpip-protocol-suite-a-beginner-friendly-guide-45kc)
-- [Oct 9 - Developing Open Source Visual AI Apps Workshop](https://dev.to/voxel51/oct-9-developing-open-source-visual-ai-apps-workshop-2l5j)
+- [Parse UserParameters sent from AWS CodePipeline to AWS Lambda in Go](https://dev.to/prithvijj/parse-userparameters-sent-from-aws-codepipeline-to-aws-lambda-in-go-ffe)
+- [Navigating Cloud Computing in AWS - Week Eight](https://dev.to/shubham_murti/navigating-cloud-computing-in-aws-week-eight-2mhe)
+- [Join the 2024 Hacktoberfest Writing Challenge: Reflect on your Journey as a Contributor or Maintainer](https://dev.to/devteam/join-the-2024-hacktoberfest-writing-challenge-reflect-on-your-journey-as-a-contributor-or-maintainer-nd0)
+- [SQL and Database Design: A Detailed Exploration - Week Seven](https://dev.to/shubham_murti/sql-and-database-design-a-detailed-exploration-week-seven-6i3)
+- [Guide to build a modern Web App using Next.js 14 &lpar;App Router&rpar;, NextAuth, Theming, Tailwind CSS, and i18n](https://dev.to/alaa-m1/guide-to-build-a-modern-web-app-using-nextjs-14-app-router-nextauth-theming-tailwind-css-and-i18n-32he)
 <!-- BLOG-POST-LIST:END -->
 
 ---
