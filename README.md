@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Find the First Non-Repeated Character in a String](https://dev.to/realnamehidden1_61/find-the-first-non-repeated-character-in-a-string-34nb)
-- [Troubleshooting PostgreSQL Low Free Memory](https://dev.to/metis/troubleshooting-postgresql-low-free-memory-2e4)
-- [5 open-source tools every developer should know](https://dev.to/codewithshahan/5-open-source-tools-every-developer-should-know-5ffm)
-- [Mastering JavaDoc: How to Document Your Java Code](https://dev.to/arshisaxena26/mastering-javadoc-how-to-document-your-java-code-5hhf)
-- [Introducing Cyber DNA Profiler: A New Open-Source Approach to Cybersecurity Analysis](https://dev.to/alien97/introducing-cyber-dna-profiler-a-new-open-source-approach-to-cybersecurity-analysis-4dcd)
+- [Implementing Parallel Merge Sort: 25sec vs 1.5sec](https://dev.to/ssd/implementing-parallel-merge-sort-25sec-vs-15sec-3b8k)
+- [React: Debouncing input with useEffect](https://dev.to/remejuan/react-debouncing-input-with-useeffect-3nhk)
+- [SvG Animation](https://dev.to/babar_ali/svg-animation-2o7c)
+- [Logging Database Queries with Eloquent ORM and Laravel – Fast Tips](https://dev.to/inspector/logging-database-queries-with-eloquent-orm-and-laravel-fast-tips-29dc)
+- [Fine-Tune Llama 3.1 8B using QLORA](https://dev.to/koyeb/fine-tune-llama-31-8b-using-qlora-e59)
 <!-- BLOG-POST-LIST:END -->
 
 ---
