@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [An Attempt to Demystify Rust Lifetimes](https://dev.to/jakenherman/an-attempt-to-demystify-rust-lifetimes-2130)
-- [🚀 Level Up Your Cloud Skills: Join the CODE THEFT AUTO Challenge!](https://dev.to/giftedlane/level-up-your-cloud-skills-join-the-code-theft-auto-challenge-3cjg)
-- [What is UUID?](https://dev.to/rosselli00/what-is-uuid-cng)
-- [Mastering C# Fundamentals: Understanding Interfaces](https://dev.to/moh_moh701/mastering-c-fundamentals-understanding-interfaces-4om9)
-- [A Better Hammer?](https://dev.to/dbozhinovski/a-better-hammer-2c26)
+- [Tips for working from the office?](https://dev.to/pidgey0403/tips-for-working-from-the-office-5810)
+- [[Leetcode] 2727. Is Object Empty](https://dev.to/luvsense/leetcode-2727-is-object-empty-5h8k)
+- [How AutoML works | Explained](https://dev.to/hakeem/how-automl-works-explained-3fb9)
+- [How to preserve a HTTP param during navigation?](https://dev.to/porton/how-to-preserve-a-http-param-during-navigation-2o2g)
+- [Enhancing Travel and Tourism with AI-Powered Image Recognition](https://dev.to/api4ai/enhancing-travel-and-tourism-with-ai-powered-image-recognition-5a6e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
