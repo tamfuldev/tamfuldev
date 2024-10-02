@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Parallel Merge Sort: 25sec vs 1.5sec](https://dev.to/ssd/implementing-parallel-merge-sort-25sec-vs-15sec-3b8k)
-- [React: Debouncing input with useEffect](https://dev.to/remejuan/react-debouncing-input-with-useeffect-3nhk)
-- [SvG Animation](https://dev.to/babar_ali/svg-animation-2o7c)
-- [Logging Database Queries with Eloquent ORM and Laravel – Fast Tips](https://dev.to/inspector/logging-database-queries-with-eloquent-orm-and-laravel-fast-tips-29dc)
-- [Fine-Tune Llama 3.1 8B using QLORA](https://dev.to/koyeb/fine-tune-llama-31-8b-using-qlora-e59)
+- [Kubernetes Secrets | Secure Data Management](https://dev.to/labex/kubernetes-secrets-secure-data-management-4p7e)
+- [Cyber Security Labs: Mastering Digital Defense and Ethical Hacking](https://dev.to/labex/cyber-security-labs-mastering-digital-defense-and-ethical-hacking-5h7h)
+- [Clock Master CSS Animation](https://dev.to/babar_ali/clock-master-css-animation-2njc)
+- [Walkthrough / Solution to SBT&#39;s Wireshark Challenge Activity](https://dev.to/immah/walkthrough-solution-to-sbts-wireshark-challenge-activity-36hf)
+- [You Might Not Know These: 5 Important and Lesser-Known Features in JavaScript](https://dev.to/sonaykara/you-might-not-know-these-5-important-and-lesser-known-features-in-javascript-1gdm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
