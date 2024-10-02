@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ibuprofeno.py💊| #187: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-187-explica-este-codigo-python-4f01)
-- [Unleash JavaScript&#39;s Potential with Functional Programming](https://dev.to/jancodes/unleash-javascripts-potential-with-functional-programming-4c2l)
-- [Mastering Date and Time in Java Spring Boot 🚀](https://dev.to/agitrubard/mastering-date-and-time-in-java-spring-boot-2b5d)
-- [Convert SVG into a 3D figure using React Three.js Fiber](https://dev.to/anapimolodec/convert-svg-into-a-3d-figure-using-react-threejs-fiber-33hc)
-- [Networking in Cybersecurity: The Essential Guide to Protecting Your Digital Infrastructure](https://dev.to/abhijit_sathe_ec5cc8cbcf2/networking-in-cybersecurity-the-essential-guide-to-protecting-your-digital-infrastructure-58ep)
+- [C# Design Pattern: Decorator](https://dev.to/juarezasjunior/c-design-pattern-decorator-903)
+- [C# Design Pattern: Decorator &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-decorator-portugues-leh)
+- [Linux Distribution](https://dev.to/meghasharmaaaa/linux-distribution-16fe)
+- [Bhupesh Singh Nitwal BSC Student](https://dev.to/bhupesh_singhnitwal_d34c/bhupesh-singh-nitwal-bsc-student-d4n)
+- [MinIO: The Open-Source S3 Alternative That Cuts Costs and Boosts Flexibility](https://dev.to/oumnya/minio-the-open-source-s3-alternative-that-cuts-costs-and-boosts-flexibility-348g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
