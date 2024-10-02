@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Analog is Revolutionizing Content-Driven Sites with Angular](https://dev.to/rajeshkumaryadavdotcom/how-analog-is-revolutionizing-content-driven-sites-with-angular-2l68)
-- [Unlocking the Power of Event-Driven Architecture](https://dev.to/rajeshkumaryadavdotcom/unlocking-the-power-of-event-driven-architecture-2jl3)
-- [Another Week Another Feature](https://dev.to/aamfahim/another-week-another-feature-2e6k)
-- [What Is WebAuthN: A Developer&#39;s Guide To WebAuthN](https://dev.to/megaconfidence/what-is-webauthn-a-developers-guide-to-webauthn-235e)
-- [🎃🚀 Storacha Halloween Hackathon 2024: Time to Store Some Skeletons and Build Spooky Tech! 💻👻](https://dev.to/hakierka/storacha-halloween-hackathon-2024-time-to-store-some-skeletons-and-build-spooky-tech-4dfe)
+- [System Design Fundamentals: A Complete Guide for Beginners](https://dev.to/kaustubhyerkade/system-design-fundamentals-a-complete-guide-for-beginners-3n95)
+- [Fundamentals of Computed Properties in Vue.js: Composition API](https://dev.to/sonaykara/computed-properties-in-vuejs-composition-api-2l7i)
+- [30 Frontend Interview Questions - TypeScript](https://dev.to/m_midas/30-frontend-interview-questions-typescript-12c2)
+- [Send Information by Submitting Form](https://dev.to/elanatframework/send-information-by-submitting-form-49kc)
+- [Alguien de Colombia o Latino America empezando a aprender React?](https://dev.to/jhoiner_martinez_8301f2b9/alguien-de-colombia-o-latino-america-empezando-a-aprender-react-15a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
