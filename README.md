@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Tauri adoption guide: Overview, examples, and alternatives](https://dev.to/logrocket/tauri-adoption-guide-overview-examples-and-alternatives-2plj)
-- [The Framework Overload Controversy: Are We Sacrificing Simplicity for Efficiency?](https://dev.to/niaxusweb/the-framework-overload-controversy-are-we-sacrificing-simplicity-for-efficiency-3c58)
-- [Is Trunk-Based Development the Future or Just Hype? - A Detailed Guide with Examples, Steps, and Simple Explanations](https://dev.to/narmidm/is-trunk-based-development-the-future-or-just-hype-a-detailed-guide-with-examples-steps-and-simple-explanations-533f)
-- [Memory Management in Java: Stack vs. Heap &amp; Garbage Collection](https://dev.to/abhishek_kumar_d9009a7ae6/memory-management-in-java-stack-vs-heap-garbage-collection-1aj2)
-- [🚀 Master Core Web Vitals: 3 Metrics for a Better User Experience](https://dev.to/tomasdevs/master-core-web-vitals-3-metrics-for-a-better-user-experience-59gn)
+- [Untitled](https://dev.to/kayrarti_2312/untitled-j1l)
+- [Como conectarse a Google Cloud Shell desde Visual Studio Code](https://dev.to/jondotsoy/como-conectarse-a-google-cloud-shell-desde-visual-studio-code-57kh)
+- [Como conectarse a Google Cloud Shell desde Visual Studio Code](https://dev.to/jondotsoy/como-conectarse-a-google-cloud-shell-desde-visual-studio-code-2l11)
+- [Understanding the OSI Model and TCP/IP Protocol Suite: A Beginner-Friendly Guide](https://dev.to/akansh_pandeyap_041d5b/understanding-the-osi-model-and-tcpip-protocol-suite-a-beginner-friendly-guide-45kc)
+- [Oct 9 - Developing Open Source Visual AI Apps Workshop](https://dev.to/voxel51/oct-9-developing-open-source-visual-ai-apps-workshop-2l5j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
