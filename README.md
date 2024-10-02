@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Regra 7: Elimine casos de falha](https://dev.to/fernanda_leite_febc2f0459/regra-7-elimine-casos-de-falha-4gnc)
-- [Seeking React, Node.js and web3 engineer](https://dev.to/rauschenbach/seeking-react-nodejs-and-web3-engineer-26f2)
-- [Can You Create a Product That Makes Money with Wasm?](https://dev.to/shinshin86/can-you-create-a-product-that-makes-money-with-wasm-3a3n)
-- [[pandas] 공공데이터&lpar;csv&rpar; 활용시 한글 깨짐 현상 해결](https://dev.to/insung/pandas-gonggongdeiteocsv-hwalyongsi-hangeul-ggaejim-hyeonsang-haegyeol-1716)
-- [SubFlows in ServiceNow Flow Designer](https://dev.to/sophiasemga/subflows-in-servicenow-flow-designer-45kh)
+- [Transformer in PyTorch](https://dev.to/hyperkai/transformer-in-pytorch-24ok)
+- [MLP-Mixer &lpar;Theory&rpar;](https://dev.to/igor1740/mlp-mixer-theory-2dje)
+- [How &lpar;Not&rpar; to Use Python’s Walrus Operator 🐍](https://dev.to/gajanan0707/how-not-to-use-pythons-walrus-operator-446n)
+- [Godot 3D Multiplayer Template: A Starting Point for Creating 3D Multiplayer Games](https://dev.to/devmoreir4/godot-3d-multiplayer-template-a-starting-point-for-creating-3d-multiplayer-games-22ca)
+- [MultiChat AI: A Centralized Hub for Advanced AI Models](https://dev.to/malconm/multichat-ai-a-centralized-hub-for-advanced-ai-models-40cd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
