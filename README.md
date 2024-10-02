@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Secrets | Secure Data Management](https://dev.to/labex/kubernetes-secrets-secure-data-management-4p7e)
-- [Cyber Security Labs: Mastering Digital Defense and Ethical Hacking](https://dev.to/labex/cyber-security-labs-mastering-digital-defense-and-ethical-hacking-5h7h)
-- [Clock Master CSS Animation](https://dev.to/babar_ali/clock-master-css-animation-2njc)
-- [Walkthrough / Solution to SBT&#39;s Wireshark Challenge Activity](https://dev.to/immah/walkthrough-solution-to-sbts-wireshark-challenge-activity-36hf)
-- [You Might Not Know These: 5 Important and Lesser-Known Features in JavaScript](https://dev.to/sonaykara/you-might-not-know-these-5-important-and-lesser-known-features-in-javascript-1gdm)
+- [Ibuprofeno.py💊| #187: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-187-explica-este-codigo-python-4f01)
+- [Unleash JavaScript&#39;s Potential with Functional Programming](https://dev.to/jancodes/unleash-javascripts-potential-with-functional-programming-4c2l)
+- [Mastering Date and Time in Java Spring Boot 🚀](https://dev.to/agitrubard/mastering-date-and-time-in-java-spring-boot-2b5d)
+- [Convert SVG into a 3D figure using React Three.js Fiber](https://dev.to/anapimolodec/convert-svg-into-a-3d-figure-using-react-threejs-fiber-33hc)
+- [Networking in Cybersecurity: The Essential Guide to Protecting Your Digital Infrastructure](https://dev.to/abhijit_sathe_ec5cc8cbcf2/networking-in-cybersecurity-the-essential-guide-to-protecting-your-digital-infrastructure-58ep)
 <!-- BLOG-POST-LIST:END -->
 
 ---
