@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [System Design Fundamentals: A Complete Guide for Beginners](https://dev.to/kaustubhyerkade/system-design-fundamentals-a-complete-guide-for-beginners-3n95)
-- [Fundamentals of Computed Properties in Vue.js: Composition API](https://dev.to/sonaykara/computed-properties-in-vuejs-composition-api-2l7i)
-- [30 Frontend Interview Questions - TypeScript](https://dev.to/m_midas/30-frontend-interview-questions-typescript-12c2)
-- [Send Information by Submitting Form](https://dev.to/elanatframework/send-information-by-submitting-form-49kc)
-- [Alguien de Colombia o Latino America empezando a aprender React?](https://dev.to/jhoiner_martinez_8301f2b9/alguien-de-colombia-o-latino-america-empezando-a-aprender-react-15a)
+- [post #1 of struggling](https://dev.to/nelsonmalbonecoding/post-1-of-struggling-424o)
+- [Laravel Stats : Filament Charts.js pour faire les statistiques](https://dev.to/developpeurtaf/laravel-stats-filament-chartsjs-386o)
+- [Day 1034 : Money](https://dev.to/dwane/day-1034-money-1fj3)
+- [Começando com C#: A simplicidade em seu melhor](https://dev.to/babisque/comecando-com-c-a-simplicidade-em-seu-melhor-10lc)
+- [Scaling Your Software Team: How to Grow Without Losing Agility](https://dev.to/trev_the_dev/scaling-your-software-team-how-to-grow-without-losing-agility-5b0i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
