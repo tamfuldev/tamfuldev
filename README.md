@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [ReScript is not there yet](https://dev.to/asik/rescript-is-not-there-yet-1ood)
-- [Constraint in SQL](https://dev.to/mrcaption49/constraint-in-sql-26ni)
-- [I&#39;ve Used Every Code Editor: What is the best](https://dev.to/sotergreco/ive-used-every-code-editor-what-is-the-best-3nlh)
-- [Keys in SQL | Primary Key | Foreign Key| Candidate Key|Composite Key |Alternate Key|Super Key|Surrogate Key| Unique Key](https://dev.to/mrcaption49/keys-in-sql-primary-key-foreign-key-candidate-keycomposite-key-alternate-keysuper-keysurrogate-key-unique-key-1bo8)
-- [Hacktoberfest 2024 Writing Challenge: Celebrate Open Source Contribution](https://dev.to/sisir_chaubey/hacktoberfest-2024-writing-challenge-celebrate-open-source-contribution-3hdl)
+- [Ultimate Apple Passwords User Guide](https://dev.to/corbado/ultimate-apple-passwords-user-guide-14a6)
+- [Dive into Open Source: Make Your Mark with Hacktoberfest 2024](https://dev.to/yaswanthteja/dive-into-open-source-make-your-mark-with-hacktoberfest-2024-2i38)
+- [An Engineer&#39;s Guide to Dating App Development: Features, Process, and Architecture](https://dev.to/patoliyainfotech/an-engineers-guide-to-dating-app-development-features-process-and-architecture-1bop)
+- [Azure Migrate: Streamlining Your Migration Journey to Microsoft Azure](https://dev.to/buzzgk/azure-migrate-streamlining-your-migration-journey-to-microsoft-azure-2np1)
+- [Enhancing T-Mobile&#39;s Security: Embracing Modern Zero-Trust Architecture](https://dev.to/adityabhuyan/enhancing-t-mobiles-security-embracing-modern-zero-trust-architecture-5h08)
 <!-- BLOG-POST-LIST:END -->
 
 ---
