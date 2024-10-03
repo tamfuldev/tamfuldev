@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to set up TCP/UDP transparent proxy with iptables](https://dev.to/enev_turg_f1651983412d040/how-to-set-up-tcpudp-transparent-proxy-with-iptables-5e4g)
-- [Day 0 - Imagine operating systems so good that even monkeys could use them 🍌](https://dev.to/kanzish/day-0-imagine-operating-systems-so-good-that-even-monkeys-could-use-them-1k7l)
-- [Building Server-Side Applications with Hapi.js](https://dev.to/kartikmehta8/building-server-side-applications-with-hapijs-3k7g)
-- [Gestor de Iniciativas Ecológicas: Django &lpar;Parte 3&rpar;](https://dev.to/villacisg93/gestor-de-iniciativas-ecologicas-django-parte-3-f4k)
-- [Enforcing Driver Breaks After Departure Time in Google OR-Tools VRP](https://dev.to/thana_b/enforcing-driver-breaks-after-departure-time-in-google-or-tools-vrp-207e)
+- [SwissTable: A High-Performance Hash Table Implementation](https://dev.to/huizhou92/swisstable-a-high-performance-hash-table-implementation-1knc)
+- [A Simple Guide to Loading an Entire PDF into a List of Documents Using Langchain](https://dev.to/smuniraj/a-simple-guide-to-loading-an-entire-pdf-into-a-list-of-documents-using-langchain-4hih)
+- [Securing Your Go API with JWT Authentication](https://dev.to/neelp03/securing-your-go-api-with-jwt-authentication-4amj)
+- [Bhupesh Singh Nitwal](https://dev.to/bhupesh_singhnitwal_d34c/bhupesh-singh-nitwal-296d)
+- [Compile Neovim in Debian/Ubuntu Linux](https://dev.to/hardyweb/compile-neovim-in-debianubuntu-linux-1b9a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
