@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Convert URLs to EPUB: Easily Create eBooks](https://dev.to/itbk95/convert-urls-to-epub-easily-create-ebooks-35jf)
-- [Revolutionizing Business with APIs and AI: The New Era of Digital Transformation](https://dev.to/jottyjohn/revolutionizing-business-with-apis-and-ai-the-new-era-of-digital-transformation-2gb2)
-- [How to Use kubectl logs in Kubernetes](https://dev.to/cicube/how-to-use-kubectl-logs-in-kubernetes-5fm5)
-- [Using AI to Simulate and Optimize Supply Chain Processes](https://dev.to/johnsmith244303/using-ai-to-simulate-and-optimize-supply-chain-processes-3d6l)
-- [Vitalik’s Proposal for Ethereum Alignment, Rhinestone Automations, 0xPPL’s Web3 Social Networking, Chain Abstraction Hub](https://dev.to/alexandradev/vitaliks-proposal-for-ethereum-alignment-rhinestone-automations-0xppls-web3-social-networking-chain-abstraction-hub-ego)
+- [UX Audit: A Stepping Stone to Boost Sales](https://dev.to/lollypopdesign/ux-audit-a-stepping-stone-to-boost-sales-2ngb)
+- [penejelasan terkait Migrations dan Query builder](https://dev.to/shonabil/penejelasan-terkait-migrations-dan-query-builder-1bbm)
+- [The Evolution of ERC-20 Tokens: Past, Present, and Future](https://dev.to/lisaward867/the-evolution-of-erc-20-tokens-past-present-and-future-9nc)
+- [How to Copy Files from Pod to Local with kubectl cp](https://dev.to/cicube/how-to-copy-files-from-pod-to-local-with-kubectl-cp-4npe)
+- [Pengenalan Laravel Pt3](https://dev.to/razqaa_fcfe19aee879ffd75a/pengenalan-laravel-pt3-3i5l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
