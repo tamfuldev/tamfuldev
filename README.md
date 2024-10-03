@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Client-Side Permissions Aren’t Enough](https://dev.to/daniel-mutuku/why-client-side-permissions-arent-enough-5fpm)
-- [MessageChannel usage in React source code](https://dev.to/thinkthroo/messagechannel-usage-in-react-source-code-3771)
-- [monet&#39;s rainbow, in bright gradient colors](https://dev.to/babar_ali/monets-rainbow-in-bright-gradient-colors-4mk7)
-- [Pandas Cheat Sheet](https://dev.to/harshm03/pandas-cheat-sheet-2bfm)
-- [Lustre and Gleam Make my Heart Rate Go Down - a Case Study](https://dev.to/enoonan/lustre-and-gleam-make-my-heart-rate-go-down-a-case-study-5765)
+- [Why Do Many People Not Recommend Using JWT?](https://dev.to/safdarali/why-do-many-people-not-recommend-using-jwt-1ol5)
+- [ALL YOU NEED TO KNOW ABOUT AWS VPC PEERING](https://dev.to/dheecloud/all-you-need-to-know-about-aws-vpc-peering-1fjl)
+- [Magic Park at Night](https://dev.to/babar_ali/magic-park-at-night-3880)
+- [Master Linked List like a Pro: Understanding how linked list works](https://dev.to/emmanuelayinde/master-linked-list-like-a-pro-understanding-how-linked-list-works-2iga)
+- [Lesson Plan: Python Basics for 5th Grade Students &lpar;Beginner Level&rpar;](https://dev.to/tobidelly/lesson-plan-python-basics-for-5th-grade-students-beginner-level-5dfm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
