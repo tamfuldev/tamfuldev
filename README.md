@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dia 5 - Deque vs. Vector vs. Array](https://dev.to/matheusgb/dia-5-deque-vs-vector-vs-array-4ffk)
-- [Java Performance Optimization Techniques](https://dev.to/mohamed_kramti/java-performance-optimization-techniques-45d1)
-- [Getting Started with OpenTelemetry](https://dev.to/sixpathssage/getting-started-with-opentelemetry-4kc1)
-- [Prompt engineering AI-Spreadsheet-like experience 🚀](https://dev.to/lina_lam_9ee459f98b67e9d5/prompt-engineering-ai-spreadsheet-like-experience-dhk)
-- [Neo.mjs: A high-performance open-source JavaScript framework.](https://dev.to/htsagara/neomjs-a-high-performance-open-source-javascript-framework-739)
+- [Why Client-Side Permissions Aren’t Enough](https://dev.to/daniel-mutuku/why-client-side-permissions-arent-enough-5fpm)
+- [MessageChannel usage in React source code](https://dev.to/thinkthroo/messagechannel-usage-in-react-source-code-3771)
+- [monet&#39;s rainbow, in bright gradient colors](https://dev.to/babar_ali/monets-rainbow-in-bright-gradient-colors-4mk7)
+- [Pandas Cheat Sheet](https://dev.to/harshm03/pandas-cheat-sheet-2bfm)
+- [Lustre and Gleam Make my Heart Rate Go Down - a Case Study](https://dev.to/enoonan/lustre-and-gleam-make-my-heart-rate-go-down-a-case-study-5765)
 <!-- BLOG-POST-LIST:END -->
 
 ---
