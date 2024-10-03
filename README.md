@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Akshata Upadhye&#39;s Guide To Revolutionizing Staffing with Data Science, NLP and Advanced Analytics](https://dev.to/mariliatirachi62/akshata-upadhyes-guide-to-revolutionizing-staffing-with-data-science-nlp-and-advanced-analytics-1feh)
-- [Create an Online Application Form in 3 Steps](https://dev.to/domfive/create-an-online-application-form-in-3-steps-304a)
-- [Introducing Built with Laravel](https://dev.to/arafatweb/introducing-built-with-laravel-1a9e)
-- [AWS Serverless: How to Stop EC2 using Event Bridge and Lambda](https://dev.to/bhatiagirish/aws-serverless-how-to-stop-ec2-using-event-bridge-and-lambda-go5)
-- [Structuring a Rust Project with Modules](https://dev.to/tekklinuxx/structuring-a-rust-project-with-modules-26h)
+- [Burnout in Tech](https://dev.to/jobreadyprogrammer/burnout-in-tech-3185)
+- [Join AI Agent Championship by Lyzr](https://dev.to/soumyabhardwaj2101/join-ai-agent-championship-by-lyzr-21a7)
+- [UI Testing Excellence: A Comprehensive Guide to Enhancing User Experiences](https://dev.to/misterankit/ui-testing-excellence-a-comprehensive-guide-to-enhancing-user-experiences-128n)
+- [CSS Grid: Building a Responsive Menu](https://dev.to/tailwine/css-grid-building-a-responsive-menu-591i)
+- [Get ready Bounty Huntersss! Algora 🔥 V/S Opire ❄️](https://dev.to/rohan_sharma/get-ready-bounty-huntersss-algora-vs-opire-30jc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
