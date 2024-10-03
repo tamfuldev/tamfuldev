@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How to set up TCP/UDP transparent proxy with iptables](https://dev.to/enev_turg_f1651983412d040/how-to-set-up-tcpudp-transparent-proxy-with-iptables-5e4g)
+- [Day 0 - Imagine operating systems so good that even monkeys could use them 🍌](https://dev.to/kanzish/day-0-imagine-operating-systems-so-good-that-even-monkeys-could-use-them-1k7l)
 - [Building Server-Side Applications with Hapi.js](https://dev.to/kartikmehta8/building-server-side-applications-with-hapijs-3k7g)
 - [Gestor de Iniciativas Ecológicas: Django &lpar;Parte 3&rpar;](https://dev.to/villacisg93/gestor-de-iniciativas-ecologicas-django-parte-3-f4k)
 - [Enforcing Driver Breaks After Departure Time in Google OR-Tools VRP](https://dev.to/thana_b/enforcing-driver-breaks-after-departure-time-in-google-or-tools-vrp-207e)
-- [Explorando a Observabilidade com OpenTelemetry: Propagação de Contexto e Arquiteturas Distribuídas](https://dev.to/dellamas/explorando-a-observabilidade-com-opentelemetry-propagacao-de-contexto-e-arquiteturas-distribuidas-28bi)
-- [Built a Netflix Clone with HTML &amp; CSS – What I Learned Along the Way!](https://dev.to/imrankhan17/built-a-netflix-clone-with-html-css-what-i-learned-along-the-way-3fa4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
