@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why You Should Hang Around People Doing Better Than You 💪🏽](https://dev.to/fullstacktanmay/why-you-should-hang-around-people-doing-better-than-you-57km)
-- [The AI-Powered Trip Planner, 😻 You Can&#39;t Live Without ⚡](https://dev.to/copilotkit/the-ai-powered-trip-planner-you-cant-live-without-2pk6)
-- [RabbitMQ vs. Kafka vs. ActiveMQ in Fintech: A Comparative Guide with Use Cases, Challenges, and Solutions](https://dev.to/iamcymentho/rabbitmq-vs-kafka-vs-activemq-in-fintech-a-comparative-guide-with-use-cases-challenges-and-solutions-2c00)
-- [Exciting Open Source Events, Useful Tips and Great Projects - Hacktoberfest 2024⚡🔥⭐](https://dev.to/astrodevil/exciting-open-source-events-useful-tips-and-great-projects-hacktoberfest-2024-1n5l)
-- [aku idn](https://dev.to/syafiq1331/aku-idn-2g5o)
+- [AWS Project: Deploying a VPC with Terraform](https://dev.to/asif_khan/aws-project-deploying-a-vpc-with-terraform-2h9k)
+- [What are targets for in Rust?](https://dev.to/tekklinuxx/what-are-targets-for-in-rust-4bll)
+- [AI-Driven Image Processing in Smart Cities: Boosting Public Safety and Urban Efficiency](https://dev.to/api4ai/ai-driven-image-processing-in-smart-cities-boosting-public-safety-and-urban-efficiency-4jlp)
+- [Mastering Frontend Development](https://dev.to/roadmapsh/mastering-frontend-development-1n01)
+- [Download multiple YouTube videos and audio using Python.](https://dev.to/chocomacho/download-yt-video-and-audio-using-python-55n9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
