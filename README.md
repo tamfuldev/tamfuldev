@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Project: Deploying a VPC with Terraform](https://dev.to/asif_khan/aws-project-deploying-a-vpc-with-terraform-2h9k)
-- [What are targets for in Rust?](https://dev.to/tekklinuxx/what-are-targets-for-in-rust-4bll)
-- [AI-Driven Image Processing in Smart Cities: Boosting Public Safety and Urban Efficiency](https://dev.to/api4ai/ai-driven-image-processing-in-smart-cities-boosting-public-safety-and-urban-efficiency-4jlp)
-- [Mastering Frontend Development](https://dev.to/roadmapsh/mastering-frontend-development-1n01)
-- [Download multiple YouTube videos and audio using Python.](https://dev.to/chocomacho/download-yt-video-and-audio-using-python-55n9)
+- [ActiveStorage Direct Upload with Stimulus](https://dev.to/railsdesigner/activestorage-direct-upload-with-stimulus-54f6)
+- [How to delete pods with kubectl in Kubernetes](https://dev.to/cicube/how-to-delete-pods-with-kubectl-in-kubernetes-5ac1)
+- [How to Use kubectl port-forward for Secure Application Access in Kubernetes](https://dev.to/cicube/how-to-use-kubectl-port-forward-for-secure-application-access-in-kubernetes-34ec)
+- [Converting Hex to Base64 in My Next.js Project 🔄](https://dev.to/joodi/converting-hex-to-base64-in-my-nextjs-project-f8d)
+- [Jamstack Architecture: The Future of Fast, Secure Websites](https://dev.to/okoye_ndidiamaka_5e3b7d30/jamstack-architecture-the-future-of-fast-secure-websites-3k39)
 <!-- BLOG-POST-LIST:END -->
 
 ---
