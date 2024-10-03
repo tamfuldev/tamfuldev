@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating Mpesa APIs](https://dev.to/daniel-mutuku/integrating-mpesa-apis-25cj)
-- [Introduction to Plang: Master Coding Quickly and Easily!](https://dev.to/ingigauti/introduction-to-plang-master-coding-quickly-and-easily-4mp4)
-- [How to Build a Hangman Game in Python: A Step-by-Step Guide](https://dev.to/devasservice/how-to-build-a-hangman-game-in-python-a-step-by-step-guide-136k)
-- [EF Core - Explosão Cartesiana](https://dev.to/lukesilva/ef-core-explosao-cartesiana-2lah)
-- [Django AI Assistant for VS Code](https://dev.to/jonahklayer/django-ai-assistant-for-vs-code-2e5a)
+- [Dia 5 - Deque vs. Vector vs. Array](https://dev.to/matheusgb/dia-5-deque-vs-vector-vs-array-4ffk)
+- [Java Performance Optimization Techniques](https://dev.to/mohamed_kramti/java-performance-optimization-techniques-45d1)
+- [Getting Started with OpenTelemetry](https://dev.to/sixpathssage/getting-started-with-opentelemetry-4kc1)
+- [Prompt engineering AI-Spreadsheet-like experience 🚀](https://dev.to/lina_lam_9ee459f98b67e9d5/prompt-engineering-ai-spreadsheet-like-experience-dhk)
+- [Neo.mjs: A high-performance open-source JavaScript framework.](https://dev.to/htsagara/neomjs-a-high-performance-open-source-javascript-framework-739)
 <!-- BLOG-POST-LIST:END -->
 
 ---
