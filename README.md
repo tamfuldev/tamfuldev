@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [post #1 of struggling](https://dev.to/nelsonmalbonecoding/post-1-of-struggling-424o)
-- [Laravel Stats : Filament Charts.js pour faire les statistiques](https://dev.to/developpeurtaf/laravel-stats-filament-chartsjs-386o)
-- [Day 1034 : Money](https://dev.to/dwane/day-1034-money-1fj3)
-- [Começando com C#: A simplicidade em seu melhor](https://dev.to/babisque/comecando-com-c-a-simplicidade-em-seu-melhor-10lc)
-- [Scaling Your Software Team: How to Grow Without Losing Agility](https://dev.to/trev_the_dev/scaling-your-software-team-how-to-grow-without-losing-agility-5b0i)
+- [Building Server-Side Applications with Hapi.js](https://dev.to/kartikmehta8/building-server-side-applications-with-hapijs-3k7g)
+- [Gestor de Iniciativas Ecológicas: Django &lpar;Parte 3&rpar;](https://dev.to/villacisg93/gestor-de-iniciativas-ecologicas-django-parte-3-f4k)
+- [Enforcing Driver Breaks After Departure Time in Google OR-Tools VRP](https://dev.to/thana_b/enforcing-driver-breaks-after-departure-time-in-google-or-tools-vrp-207e)
+- [Explorando a Observabilidade com OpenTelemetry: Propagação de Contexto e Arquiteturas Distribuídas](https://dev.to/dellamas/explorando-a-observabilidade-com-opentelemetry-propagacao-de-contexto-e-arquiteturas-distribuidas-28bi)
+- [Built a Netflix Clone with HTML &amp; CSS – What I Learned Along the Way!](https://dev.to/imrankhan17/built-a-netflix-clone-with-html-css-what-i-learned-along-the-way-3fa4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
