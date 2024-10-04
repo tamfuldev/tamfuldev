@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1035 : Closer](https://dev.to/dwane/day-1035-closer-14oj)
-- [Day 2 tracking](https://dev.to/nelsonmalbonecoding/day-2-tracking-2p61)
-- [How to code a web scraper in c# dotnet 8](https://dev.to/joedev090/how-to-code-a-web-scrapper-in-c-dotnet-8-1c20)
-- [Supercharging Your Debugging Skills with Android Logcat 💻🚀](https://dev.to/gorkemkara/supercharging-your-debugging-skills-with-android-logcat-2ih6)
-- [LabEx Trending: React Colour Filter Application and More](https://dev.to/labex/labex-trending-react-colour-filter-application-and-more-1ijd)
+- [Intial look at ChatGPT with Canvas](https://dev.to/juanstoppa/intial-look-at-chatgpt-with-canvas-15da)
+- [Learn How to Use JSON as a Small Database for Your Python Projects by Building a Hotel Accounting System](https://dev.to/ahmed__elboshi/learn-how-to-use-json-as-a-small-database-for-your-python-projects-by-building-a-hotel-accounting-system-47b4)
+- [New Feature PR](https://dev.to/fadingna/new-feature-pr-2ep0)
+- [Day 1 - On generative bash scripting &amp;&amp; relearning how to talk](https://dev.to/kanzish/day-1-learning-to-communicate-41a8)
+- [More tests](https://dev.to/jesse_chong_3bcc276c4f950/more-tests-5224)
 <!-- BLOG-POST-LIST:END -->
 
 ---
