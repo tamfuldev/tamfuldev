@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Sliding Window Questions](https://dev.to/mdiffshashank/sliding-window-questions-1mgk)
-- [100 Days of Servers Distributions- Day 6: Exploring DNS and IP Routing](https://dev.to/pirvanm/100-days-of-servers-distributions-day-6-exploring-dns-and-ip-routing-5314)
-- [Introducing Achromatic - SaaS Starter Kit focused on web app functionalities](https://dev.to/mahmut_jomaa/introducing-achromatic-saas-starter-kit-focused-on-web-app-functionalities-el2)
-- [Introducing Achromatic - SaaS Starter Kit focused on web app functionalities](https://dev.to/mahmut_jomaa/introducing-achromatic-saas-starter-kit-focused-on-web-app-functionalities-4gae)
-- [Monkey patching on Ruby](https://dev.to/waruna/monkey-patching-on-ruby-349k)
+- [Dia 6 - Fim do snake game e materiais que achei sobre física computacional.](https://dev.to/matheusgb/dia-6-fim-do-snake-game-e-materiais-que-achei-sobre-fisica-computacional-4kh2)
+- [Using jQuery](https://dev.to/taytay836/using-jquery-50l9)
+- [A New Programming Language](https://dev.to/myhauntedfork/a-new-programming-language-2gcf)
+- [The Ultimate Dev.to Hacks To Skyrocket Your Blog&#39;s SEO &amp; Traffic](https://dev.to/jimmymcbride/the-ultimate-devto-hacks-to-skyrocket-your-blogs-seo-traffic-3h6k)
+- [Customizing Tailwind CSS – Extending the Framework](https://dev.to/ridoy_hasan/customizing-tailwind-css-extending-the-framework-111c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
