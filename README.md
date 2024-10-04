@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing TOML Configuration Support in GitHub-echo](https://dev.to/fahadalikhanca/implementing-toml-configuration-support-in-github-echo-560a)
-- [What is Asynchronous Code? How to Use It in Python to Speed Up Your Code Learn by Building a Weather App! ☀️🌦️](https://dev.to/ahmed__elboshi/what-is-asynchronous-code-how-to-use-it-in-python-to-speed-up-your-code-learn-by-building-a-weather-app-3md2)
-- [Guide to Adding Info Text in Sanity Studio](https://dev.to/dmuraco3/guide-to-adding-info-text-in-sanity-studio-51od)
-- [How Platforms Enforce Maximum Downloads on Browsers](https://dev.to/daniel-mutuku/how-platforms-enforce-maximum-downloads-on-browsers-2nk0)
-- [Conversing via Local Microphone and Speaker using Realtime API](https://dev.to/m_sea_bass/conversing-via-local-microphone-and-speaker-using-realtime-api-2723)
+- [Hacking Ways Into Hacktoberfest 2024:](https://dev.to/alizayayesha/hacking-ways-into-hacktoberfest-2024-5bj5)
+- [OWASP Juice-Shop Walkthrough Tutorial [ DOM XSS ]](https://dev.to/hax/owasp-juice-shop-walkthrough-tutorial-dom-xss--16lp)
+- [Module in PyTorch](https://dev.to/hyperkai/module-in-pytorch-4626)
+- [Understanding the ETL Process with Real-Time Data: Extraction, Transformation, Loading, and Visualization](https://dev.to/vivekyadav200988/understanding-the-etl-process-with-real-time-data-extraction-transformation-loading-and-visualization-4a3o)
+- [Install Flutter on macOS Apple Silicon](https://dev.to/rubyc/install-flutter-on-macos-apple-silicon-52b8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
