@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Intial look at ChatGPT with Canvas](https://dev.to/juanstoppa/intial-look-at-chatgpt-with-canvas-15da)
-- [Learn How to Use JSON as a Small Database for Your Python Projects by Building a Hotel Accounting System](https://dev.to/ahmed__elboshi/learn-how-to-use-json-as-a-small-database-for-your-python-projects-by-building-a-hotel-accounting-system-47b4)
-- [New Feature PR](https://dev.to/fadingna/new-feature-pr-2ep0)
-- [Day 1 - On generative bash scripting &amp;&amp; relearning how to talk](https://dev.to/kanzish/day-1-learning-to-communicate-41a8)
-- [More tests](https://dev.to/jesse_chong_3bcc276c4f950/more-tests-5224)
+- [Easy Todo List App with React and Tailwind CSS](https://dev.to/lukewanghanxiang/easy-todo-list-app-with-react-and-tailwind-css-1j2c)
+- [Guia Completo: Construindo um Script Seguro para Análise de Dados no MetaTrader5 com Python](https://dev.to/vital7388/guia-completo-construindo-um-script-seguro-para-analise-de-dados-no-metatrader5-com-python-4dhd)
+- [How can one person Making a Difference in innovation world](https://dev.to/yunwei37/how-can-one-person-making-a-difference-in-innovation-world-4cf)
+- [Props Basics: Part 1](https://dev.to/alegendcodes/props-basics-part-1-1mmk)
+- [Where Does Innovation Thrive? Choosing the Right Organization](https://dev.to/yunwei37/where-does-innovation-thrive-choosing-the-right-organization-4mko)
 <!-- BLOG-POST-LIST:END -->
 
 ---
