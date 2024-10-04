@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Blog Management System with .NET and Angular](https://dev.to/marvynharry/building-a-blog-management-system-with-net-and-angular-298k)
-- [Security news weekly round-up - 4th October 2024](https://dev.to/ziizium/security-news-weekly-round-up-4th-october-2024-59g1)
-- [Contributing a new feature !](https://dev.to/ajogseneca/contributing-a-new-feature--3lnc)
-- [Hitting your goals on time: Lessons from my first year in web development.](https://dev.to/the_codesmith/hitting-your-goals-on-time-lessons-from-my-first-year-in-web-development-3dd8)
-- [Supercharging Time Series Collections: Key Enhancements in MongoDB 8.0 with Block Processing](https://dev.to/mongodb/supercharging-time-series-collections-key-enhancements-in-mongodb-80-with-block-processing-5b3i)
+- [Stuck Between Blockchain and Cloud Computing: Seeking Career Advice](https://dev.to/t9fiction/stuck-between-blockchain-and-cloud-computing-seeking-career-advice-140g)
+- [Top 8 Traffic Monitoring Tools for Next.js App](https://dev.to/ethanleetech/top-8-traffic-monitoring-tools-for-nextjs-app-30hn)
+- [Laravel সম্পর্কের চিটশিট](https://dev.to/r_if99/laravel-smprker-cittshitt-1lgm)
+- [Providing Storage for a New Company App](https://dev.to/onyemachi_doris/providing-storage-for-a-new-company-app-2a8j)
+- [Hacktoberfest 2024: 1st Contribution](https://dev.to/arilloid/hacktoberfest-2024-1st-contribution-34i2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
