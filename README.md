@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🌟 Building Stateful LLM Agents with LangGraph 🤖✨](https://dev.to/cypriantinasheaarons/building-stateful-llm-agents-with-langgraph-4b9k)
-- [Unit Testing: A Comprehensive Guide](https://dev.to/keploy/unit-testing-a-comprehensive-guide-4mki)
-- [Understanding Developers: How Doc-E Insights Can Help You Build Better Products and Documentation](https://dev.to/rakesh_kumar_bf8f486c08f9/understanding-developers-how-doc-e-insights-can-help-you-build-better-products-and-documentation-hk2)
-- [✈️ Plane: The Project Management Tool That&#39;ll Make You Say &quot;Oh, Ship!&quot; 🚀](https://dev.to/hadil/plane-the-project-management-tool-thatll-make-you-say-oh-ship-4512)
-- [GPT Evaluation and Its Future: A Deep Dive into the Evolution of AI Models](https://dev.to/christopher075/gpt-evaluation-and-its-future-a-deep-dive-into-the-evolution-of-ai-models-c99)
+- [Local SSL Root Certificate &lpar;CA&rpar; Management](https://dev.to/servbay/local-ssl-root-certificate-ca-management-3ahe)
+- [REST Api](https://dev.to/om_vaja/rest-api-1pjg)
+- [How to Set Up MongoDB with Next.js](https://dev.to/dee_codes/how-to-set-up-mongodb-with-nextjs-2lkb)
+- [Terraform Security Best Practices for Securing Infrastructure as Code](https://dev.to/routeclouds/terraform-security-best-practices-for-securing-infrastructure-as-code-2a5a)
+- [How to solve component refresh in Sitecore XM Cloud using Higher-Order Components](https://dev.to/juan_dvd/how-to-solve-component-refresh-in-sitecore-xm-cloud-using-higher-order-components-2lan)
 <!-- BLOG-POST-LIST:END -->
 
 ---
