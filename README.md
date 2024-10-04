@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Podlite: Powering Up Knowledge Management](https://dev.to/zag/podlite-powering-up-knowledge-management-1knn)
-- [How the shell aliases affect shell functions: two pitfalls](https://dev.to/franklinyu/how-the-shell-aliases-affect-shell-functions-two-pitfalls-2ao9)
-- [The Role of Real-Time Finance APIs in Building Automated Trading Systems](https://dev.to/williamsmithh/the-role-of-real-time-finance-apis-in-building-automated-trading-systems-151j)
-- [Cybersecurity Erosion: Addressing the Hidden Threat to Long-Term Security](https://dev.to/viradiaharsh/cybersecurity-erosion-addressing-the-hidden-threat-to-long-term-security-346c)
-- [Software Architecture: A Journey Through Time 🕰️](https://dev.to/ipazooki/software-architecture-a-journey-through-time-map)
+- [Is there a SaaS based platform available for playwright?](https://dev.to/kundaliyanidhi/is-there-a-saas-based-platform-available-for-playwright-9li)
+- [Slider in Flutter](https://dev.to/aadarshk7/slider-in-flutter-4mej)
+- [Back after a gap because of my exams](https://dev.to/aadarshk7/back-after-a-gap-because-of-my-exams-9mf)
+- [Special Batteries for Solar Lights: A Comprehensive Guide](https://dev.to/zanii_khan_7c30374fe36715/special-batteries-for-solar-lights-a-comprehensive-guide-5g79)
+- [The Brilliance of Starting A YouTube Channel](https://dev.to/martinbaun/the-brilliance-of-starting-a-youtube-channel-1ki7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
