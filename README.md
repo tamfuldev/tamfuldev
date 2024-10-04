@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Hacking Ways Into Hacktoberfest 2024:](https://dev.to/alizayayesha/hacking-ways-into-hacktoberfest-2024-5bj5)
-- [OWASP Juice-Shop Walkthrough Tutorial [ DOM XSS ]](https://dev.to/hax/owasp-juice-shop-walkthrough-tutorial-dom-xss--16lp)
-- [Module in PyTorch](https://dev.to/hyperkai/module-in-pytorch-4626)
-- [Understanding the ETL Process with Real-Time Data: Extraction, Transformation, Loading, and Visualization](https://dev.to/vivekyadav200988/understanding-the-etl-process-with-real-time-data-extraction-transformation-loading-and-visualization-4a3o)
-- [Install Flutter on macOS Apple Silicon](https://dev.to/rubyc/install-flutter-on-macos-apple-silicon-52b8)
+- [How Development Teams Monitor App Performance, Latency, and Load Times 📊🚀](https://dev.to/info_generalhazedawn_a3d/how-development-teams-monitor-app-performance-latency-and-load-times-31c1)
+- [Creating A Lightweight Code Editor Using Vanilla Js](https://dev.to/codevsom/creating-a-lightweight-code-editor-using-vanilla-js-ak1)
+- [Journey to understand format string attack &lpar;Part 1&rpar;](https://dev.to/duracellrabbid/journey-to-understand-format-string-attack-part-1-5dda)
+- [Image with text overlay using HTML and CSS](https://dev.to/kaja_uvais_a8691e947dd399/image-with-text-overlay-using-html-and-css-1hbj)
+- [SCSS: Working with Functions](https://dev.to/tailwine/scss-working-with-functions-354m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
