@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Java: for Beginners](https://dev.to/nenyasha/introduction-to-java-oa8)
-- [How to Pass Information Between Jobs in GitHub Actions](https://dev.to/cicube/how-to-pass-information-between-jobs-in-github-actions-4n9e)
-- [Generating dynamic layouts in Vue using recursive components](https://dev.to/waruna/generating-dynamic-layouts-in-vue-using-recursive-components-4ci7)
-- [Rethinking GitHub Search: How I built a Chat Interface to search GitHub](https://dev.to/ra_jeeves/rethinking-github-search-how-i-built-a-chat-interface-to-search-github-4c42)
-- [Boost Your Productivity with Shell Aliases: A Simple Hack for Flutter Developers](https://dev.to/sinnoorc/boost-your-productivity-with-shell-aliases-a-simple-hack-for-flutter-developers-3mkp)
+- [Sliding Window Questions](https://dev.to/mdiffshashank/sliding-window-questions-1mgk)
+- [100 Days of Servers Distributions- Day 6: Exploring DNS and IP Routing](https://dev.to/pirvanm/100-days-of-servers-distributions-day-6-exploring-dns-and-ip-routing-5314)
+- [Introducing Achromatic - SaaS Starter Kit focused on web app functionalities](https://dev.to/mahmut_jomaa/introducing-achromatic-saas-starter-kit-focused-on-web-app-functionalities-el2)
+- [Introducing Achromatic - SaaS Starter Kit focused on web app functionalities](https://dev.to/mahmut_jomaa/introducing-achromatic-saas-starter-kit-focused-on-web-app-functionalities-4gae)
+- [Monkey patching on Ruby](https://dev.to/waruna/monkey-patching-on-ruby-349k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
