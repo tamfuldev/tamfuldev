@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Is there a SaaS based platform available for playwright?](https://dev.to/kundaliyanidhi/is-there-a-saas-based-platform-available-for-playwright-9li)
-- [Slider in Flutter](https://dev.to/aadarshk7/slider-in-flutter-4mej)
-- [Back after a gap because of my exams](https://dev.to/aadarshk7/back-after-a-gap-because-of-my-exams-9mf)
-- [Special Batteries for Solar Lights: A Comprehensive Guide](https://dev.to/zanii_khan_7c30374fe36715/special-batteries-for-solar-lights-a-comprehensive-guide-5g79)
-- [The Brilliance of Starting A YouTube Channel](https://dev.to/martinbaun/the-brilliance-of-starting-a-youtube-channel-1ki7)
+- [Improving Backstage performance &lpar;by up to 48x&rpar;](https://dev.to/roadie/improving-backstage-performance-by-up-to-48x-12d9)
+- [Integrating Speech Recognition Technology in Applications to Enhance User Experience](https://dev.to/julia_8cb077bca5/integrating-speech-recognition-technology-in-applications-to-enhance-user-experience-3hji)
+- [Icon Banks for Winforms and .NET9](https://dev.to/ramoneeza/icon-banks-for-winforms-and-net9-29n)
+- [help me !!](https://dev.to/nautiyal_ji/help-me--4h3)
+- [Practical Approaches to Key Information Extraction &lpar;Part 1&rpar;](https://dev.to/mrzaizai2k/real-life-key-information-extraction-p1-dont-over-complicate-things-39o9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
