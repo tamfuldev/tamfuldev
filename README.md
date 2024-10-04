@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stuck Between Blockchain and Cloud Computing: Seeking Career Advice](https://dev.to/t9fiction/stuck-between-blockchain-and-cloud-computing-seeking-career-advice-140g)
-- [Top 8 Traffic Monitoring Tools for Next.js App](https://dev.to/ethanleetech/top-8-traffic-monitoring-tools-for-nextjs-app-30hn)
-- [Laravel সম্পর্কের চিটশিট](https://dev.to/r_if99/laravel-smprker-cittshitt-1lgm)
-- [Providing Storage for a New Company App](https://dev.to/onyemachi_doris/providing-storage-for-a-new-company-app-2a8j)
-- [Hacktoberfest 2024: 1st Contribution](https://dev.to/arilloid/hacktoberfest-2024-1st-contribution-34i2)
+- [5 Habits of Great Software Engineers](https://dev.to/safdarali/5-habits-of-great-software-engineers-4i73)
+- [Understanding the Prototype Pattern in C# with Practical Examples](https://dev.to/dazevedo/understanding-the-prototype-pattern-in-c-with-practical-examples-1gg3)
+- [How to Implement Singly Linked List in JavaScript](https://dev.to/emmanuelayinde/how-to-implement-singly-linked-list-in-javascript-2365)
+- [Lesson 1: Introduction to HTML and Webpages](https://dev.to/tobidelly/lesson-1-introduction-to-html-and-webpages-3abp)
+- [How to build a QR Generator using Flask and qrcode](https://dev.to/ivansing/how-to-build-a-qr-generator-using-flask-and-qrcode-4edc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
