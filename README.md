@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dia 6 - Fim do snake game e materiais que achei sobre física computacional.](https://dev.to/matheusgb/dia-6-fim-do-snake-game-e-materiais-que-achei-sobre-fisica-computacional-4kh2)
-- [Using jQuery](https://dev.to/taytay836/using-jquery-50l9)
-- [A New Programming Language](https://dev.to/myhauntedfork/a-new-programming-language-2gcf)
-- [The Ultimate Dev.to Hacks To Skyrocket Your Blog&#39;s SEO &amp; Traffic](https://dev.to/jimmymcbride/the-ultimate-devto-hacks-to-skyrocket-your-blogs-seo-traffic-3h6k)
-- [Customizing Tailwind CSS – Extending the Framework](https://dev.to/ridoy_hasan/customizing-tailwind-css-extending-the-framework-111c)
+- [Building a Blog Management System with .NET and Angular](https://dev.to/marvynharry/building-a-blog-management-system-with-net-and-angular-298k)
+- [Security news weekly round-up - 4th October 2024](https://dev.to/ziizium/security-news-weekly-round-up-4th-october-2024-59g1)
+- [Contributing a new feature !](https://dev.to/ajogseneca/contributing-a-new-feature--3lnc)
+- [Hitting your goals on time: Lessons from my first year in web development.](https://dev.to/the_codesmith/hitting-your-goals-on-time-lessons-from-my-first-year-in-web-development-3dd8)
+- [Supercharging Time Series Collections: Key Enhancements in MongoDB 8.0 with Block Processing](https://dev.to/mongodb/supercharging-time-series-collections-key-enhancements-in-mongodb-80-with-block-processing-5b3i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
