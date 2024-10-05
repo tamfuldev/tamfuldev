@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Laravel&#39;s MorphTo Relation: A Practical Guide](https://dev.to/arafatweb/understanding-laravels-morphto-relation-a-practical-guide-2l3p)
-- [The Differences Between let, const, and var in JavaScript.](https://dev.to/laxmann/the-differences-between-let-const-and-var-in-javascript-56f4)
-- [Tech Helpr: Your Ultimate Destination for Gaming and Tech Products](https://dev.to/affan_asghar_1d39fa171ff4/tech-helpr-your-ultimate-destination-for-gaming-and-tech-products-5jl)
-- [Exploring Azure Queue Storage in .NET](https://dev.to/berviantoleo/exploring-azure-queue-storage-in-net-55mk)
-- [DevRel and Marketing: Building a Unified Developer Community](https://dev.to/rakesh_kumar_bf8f486c08f9/devrel-and-marketing-building-a-unified-developer-community-5go5)
+- [I&#39;m Falling in love with Build in Public](https://dev.to/litlyx/im-falling-in-love-with-build-in-public-23fa)
+- [A button who avoid your mouse 🏃‍♂️](https://dev.to/crisxzu/a-button-who-avoid-your-mouse-2bfp)
+- [𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐂𝐨𝐧𝐭𝐫𝐨𝐥 𝐒𝐲𝐬𝐭𝐞𝐦 &lpar;𝐕𝐂𝐒&rpar; 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰](https://dev.to/meghasharmaaaa/-195a)
+- [𝐇𝐞𝐫𝐞 𝐚𝐫𝐞 𝐬𝐨𝐦𝐞 𝐦𝐨𝐫𝐞 𝐜𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐟𝐨𝐫 𝐧𝐚𝐯𝐢𝐠𝐚𝐭𝐢𝐧𝐠 𝐚𝐧𝐝 𝐦𝐚𝐧𝐚𝐠𝐢𝐧𝐠 𝐭𝐡𝐞 𝐋𝐢𝐧𝐮𝐱 𝐟𝐢𝐥𝐞 𝐬𝐲𝐬𝐭𝐞𝐦:](https://dev.to/meghasharmaaaa/-4lcp)
+- [I Developed Neural Network Library with C](https://dev.to/omerfdmrl/i-developed-neural-network-library-with-c-44cg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
