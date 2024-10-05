@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Activation functions in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/activation-functions-in-pytorch-1-4hj)
-- [Memory Unit](https://dev.to/airdrop_crypto_a8053de295/memory-unit-5ckj)
-- [Loss functions in PyTorch](https://dev.to/hyperkai/loss-functions-in-pytorch-3a2c)
-- [Looking for Feedback on My Project : jy95.github.io](https://dev.to/jy95/looking-for-feedback-on-my-project-jy95githubio-4hac)
-- [567. Permutation in String](https://dev.to/mdarifulhaque/567-permutation-in-string-h5k)
+- [Python Core Developer Sprint 2024](https://dev.to/hugovk/python-core-developer-sprint-2024-3dp6)
+- [Enhancing Performance in JavaScript: Understanding Debouncing and Throttling](https://dev.to/shubhamkhan/enhancing-performance-in-javascript-understanding-debouncing-and-throttling-pe3)
+- [Understanding Runtimes: From C to Modern Languages](https://dev.to/bossysmaxx/understanding-runtimes-from-c-to-modern-languages-3fkj)
+- [Nmap Subnet Scanning Tutorial: Network Reconnaissance for Beginners](https://dev.to/labex/nmap-subnet-scanning-tutorial-network-reconnaissance-for-beginners-8n4)
+- [Data Structures &amp; Algorithm Day 0](https://dev.to/robiulman/data-structures-algorithm-day-0-138m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
