@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [5 Habits of Great Software Engineers](https://dev.to/safdarali/5-habits-of-great-software-engineers-4i73)
-- [Understanding the Prototype Pattern in C# with Practical Examples](https://dev.to/dazevedo/understanding-the-prototype-pattern-in-c-with-practical-examples-1gg3)
-- [How to Implement Singly Linked List in JavaScript](https://dev.to/emmanuelayinde/how-to-implement-singly-linked-list-in-javascript-2365)
-- [Lesson 1: Introduction to HTML and Webpages](https://dev.to/tobidelly/lesson-1-introduction-to-html-and-webpages-3abp)
-- [How to build a QR Generator using Flask and qrcode](https://dev.to/ivansing/how-to-build-a-qr-generator-using-flask-and-qrcode-4edc)
+- [Creating Reusable Components with Storybook](https://dev.to/kartikmehta8/creating-reusable-components-with-storybook-127l)
+- [Lab 4 - Remote Git and TOML](https://dev.to/aldrin312/lab-4-remote-git-and-toml-2gmm)
+- [Adding a TOML file Config](https://dev.to/add00_3/adding-a-toml-file-config-1ibi)
+- [First open-source project for Hacktoberfest 2024](https://dev.to/harshil_patel/first-open-source-project-for-hacktoberfest-2024-45al)
+- [Continuous Contribution](https://dev.to/amullagaliev/continuous-contribution-2nj7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
