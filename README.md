@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Forget if !=null and try/catch and write leaner code](https://dev.to/techelopment/forget-if-null-and-trycatch-and-write-leaner-code-5a3k)
-- [Introducing Brisa: Full-stack Web Platform Framework 🔥](https://dev.to/aralroca/introducing-brisa-full-stack-web-platform-framework-2lm1)
-- [Exploring Foocus!](https://dev.to/pasindu-mendis/exploring-foocus-1o50)
-- [Fundamentals of React Native App Development: Dependencies, Performance, Native Modules, and Publishing Guide](https://dev.to/abdulnasirolcan/fundamentals-of-react-native-app-development-dependencies-performance-native-modules-and-publishing-guide-3ok4)
-- [A Beginner&#39;s Guide to Understand Web Applications](https://dev.to/carrie_luo1/understanding-web-applications-benefits-and-advantages-10pk)
+- [More Secure JWT | A Better Experience](https://dev.to/adnanbabakan/more-secure-jwt-a-better-experience-16nm)
+- [PHP Apache project with Virtual Host](https://dev.to/xxzeroxx/php-apache-project-with-virtual-host-2npk)
+- [MLSeries: An Introduction to Neural Networks](https://dev.to/samder/mlseries-an-introduction-to-neural-networks-2mo5)
+- [CLOUD RESOURCE DEPLOYMENT ON AZURE USING TERRAFORM](https://dev.to/presh1/cloud-resource-deployment-on-azure-using-terraform-26j2)
+- [Mintr - Open NFT tools with Pinata upload](https://dev.to/spiritbits/mintr-open-nft-tools-with-pinata-upload-ea3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
