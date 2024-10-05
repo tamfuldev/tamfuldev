@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Power BI Paginated Reports: Creating and Using Paginated Reports for Detailed Reporting Needs](https://dev.to/jit_data/power-bi-paginated-reports-creating-and-using-paginated-reports-for-detailed-reporting-needs-3h4e)
-- [Unleash Your Compiler Design Superpowers with IIT Kanpur&#39;s Comprehensive Course! 🚀](https://dev.to/getvm/unleash-your-compiler-design-superpowers-with-iit-kanpurs-comprehensive-course-2pld)
-- [MERGE IN SQL](https://dev.to/mrcaption49/merge-in-sql-5cc9)
-- [Code Optimization on Windows: Timing](https://dev.to/f35h/code-optimization-on-windows-timing-9h9)
-- [How does the internet work? Part 1](https://dev.to/kavya-sahai-god/how-does-the-internet-work-part-1-279f)
+- [How to set up VNC on a headless Raspberry Pi with Ubuntu Server 24.04](https://dev.to/okineadev/how-to-set-up-vnc-on-a-headless-raspberry-pi-with-ubuntu-server-2404-402)
+- [jUnit - Testes unitários em Java](https://dev.to/camilaferreiranas/junit-testes-unitarios-em-java-iep)
+- [Monitoramento e Observabilidade são a mesma coisa?](https://dev.to/laryssa/monitoramento-e-observabilidade-sao-a-mesma-coisa-417l)
+- [Elliptic Curve Concepts for Bitcoin Developers](https://dev.to/eunovo/elliptic-curve-concepts-for-bitcoin-developers-18h5)
+- [Understanding the Temporal Dead Zone &lpar;TDZ&rpar; in JavaScript](https://dev.to/paharihacker/understanding-the-temporal-dead-zone-tdz-in-javascript-4flc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
