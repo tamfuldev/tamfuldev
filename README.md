@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Python Core Developer Sprint 2024](https://dev.to/hugovk/python-core-developer-sprint-2024-3dp6)
-- [Enhancing Performance in JavaScript: Understanding Debouncing and Throttling](https://dev.to/shubhamkhan/enhancing-performance-in-javascript-understanding-debouncing-and-throttling-pe3)
-- [Understanding Runtimes: From C to Modern Languages](https://dev.to/bossysmaxx/understanding-runtimes-from-c-to-modern-languages-3fkj)
-- [Nmap Subnet Scanning Tutorial: Network Reconnaissance for Beginners](https://dev.to/labex/nmap-subnet-scanning-tutorial-network-reconnaissance-for-beginners-8n4)
-- [Data Structures &amp; Algorithm Day 0](https://dev.to/robiulman/data-structures-algorithm-day-0-138m)
+- [Rasp-Pi Network ID tool](https://dev.to/cisc0_pete/rasp-pi-network-id-tool-5hcm)
+- [CANBUS Speed Converter](https://dev.to/cisc0_pete/canbus-speed-converter-50mi)
+- [Unlocking the Power of Artificial Intelligence: A Comprehensive Collection of Free Programming Tutorials](https://dev.to/getvm/unlocking-the-power-of-artificial-intelligence-a-comprehensive-collection-of-free-programming-tutorials-42n7)
+- [Day 26. After party](https://dev.to/kiolk/day-26-after-party-5373)
+- [Rust - Conditions and Control Flow](https://dev.to/benslinux2024/rust-conditions-and-control-flow-nci)
 <!-- BLOG-POST-LIST:END -->
 
 ---
