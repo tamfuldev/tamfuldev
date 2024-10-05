@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Rasp-Pi Network ID tool](https://dev.to/cisc0_pete/rasp-pi-network-id-tool-5hcm)
-- [CANBUS Speed Converter](https://dev.to/cisc0_pete/canbus-speed-converter-50mi)
-- [Unlocking the Power of Artificial Intelligence: A Comprehensive Collection of Free Programming Tutorials](https://dev.to/getvm/unlocking-the-power-of-artificial-intelligence-a-comprehensive-collection-of-free-programming-tutorials-42n7)
-- [Day 26. After party](https://dev.to/kiolk/day-26-after-party-5373)
-- [Rust - Conditions and Control Flow](https://dev.to/benslinux2024/rust-conditions-and-control-flow-nci)
+- [Hello World!](https://dev.to/charlottejdcb/hello-world-3joj)
+- [Dia 7 - Diferença entre C e C++, &quot;por que C++ é rápido?&quot; e uso de ponteiros.](https://dev.to/matheusgb/dia-7-diferenca-entre-c-e-c-por-que-c-e-rapido-e-uso-de-ponteiros-3hb0)
+- [4 Conceitos legais do JavaScript que você vai achar legal também](https://dev.to/leomarlinhares/4-conceitos-legais-do-javascript-que-voce-vai-achar-legal-tambem-40dp)
+- [IEnumerable nedir ?](https://dev.to/mustafacam/ienumerable-nedir--2b0c)
+- [Unlock Seamless AWS Integration: 1-Click Cloud Logging Solution](https://dev.to/emilyjohnsonready/unlock-seamless-aws-integration-1-click-cloud-logging-solution-1ln8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
