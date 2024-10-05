@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to set up VNC on a headless Raspberry Pi with Ubuntu Server 24.04](https://dev.to/okineadev/how-to-set-up-vnc-on-a-headless-raspberry-pi-with-ubuntu-server-2404-402)
-- [jUnit - Testes unitários em Java](https://dev.to/camilaferreiranas/junit-testes-unitarios-em-java-iep)
-- [Monitoramento e Observabilidade são a mesma coisa?](https://dev.to/laryssa/monitoramento-e-observabilidade-sao-a-mesma-coisa-417l)
-- [Elliptic Curve Concepts for Bitcoin Developers](https://dev.to/eunovo/elliptic-curve-concepts-for-bitcoin-developers-18h5)
-- [Understanding the Temporal Dead Zone &lpar;TDZ&rpar; in JavaScript](https://dev.to/paharihacker/understanding-the-temporal-dead-zone-tdz-in-javascript-4flc)
+- [Forget if !=null and try/catch and write leaner code](https://dev.to/techelopment/forget-if-null-and-trycatch-and-write-leaner-code-5a3k)
+- [Introducing Brisa: Full-stack Web Platform Framework 🔥](https://dev.to/aralroca/introducing-brisa-full-stack-web-platform-framework-2lm1)
+- [Exploring Foocus!](https://dev.to/pasindu-mendis/exploring-foocus-1o50)
+- [Fundamentals of React Native App Development: Dependencies, Performance, Native Modules, and Publishing Guide](https://dev.to/abdulnasirolcan/fundamentals-of-react-native-app-development-dependencies-performance-native-modules-and-publishing-guide-3ok4)
+- [A Beginner&#39;s Guide to Understand Web Applications](https://dev.to/carrie_luo1/understanding-web-applications-benefits-and-advantages-10pk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
