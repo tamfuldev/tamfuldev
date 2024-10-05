@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The ways to know](https://dev.to/bagua_king_d47362217a9966/the-ways-to-know-4044)
-- [Slices in Go: Grow Big or Go Home](https://dev.to/func25/slices-in-go-grow-big-or-go-home-48b7)
-- [Parsing in Oracle SQL | Hard parsing | soft parsing.](https://dev.to/mrcaption49/parsing-in-oracle-sql-hard-parsing-soft-parsing-5d1l)
-- [C# Design Pattern: Proxy](https://dev.to/juarezasjunior/c-design-pattern-proxy-2bhc)
-- [C# Design Pattern: Proxy &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-proxy-portugues-28a0)
+- [Power BI Paginated Reports: Creating and Using Paginated Reports for Detailed Reporting Needs](https://dev.to/jit_data/power-bi-paginated-reports-creating-and-using-paginated-reports-for-detailed-reporting-needs-3h4e)
+- [Unleash Your Compiler Design Superpowers with IIT Kanpur&#39;s Comprehensive Course! 🚀](https://dev.to/getvm/unleash-your-compiler-design-superpowers-with-iit-kanpurs-comprehensive-course-2pld)
+- [MERGE IN SQL](https://dev.to/mrcaption49/merge-in-sql-5cc9)
+- [Code Optimization on Windows: Timing](https://dev.to/f35h/code-optimization-on-windows-timing-9h9)
+- [How does the internet work? Part 1](https://dev.to/kavya-sahai-god/how-does-the-internet-work-part-1-279f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
