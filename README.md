@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Creating Reusable Components with Storybook](https://dev.to/kartikmehta8/creating-reusable-components-with-storybook-127l)
-- [Lab 4 - Remote Git and TOML](https://dev.to/aldrin312/lab-4-remote-git-and-toml-2gmm)
-- [Adding a TOML file Config](https://dev.to/add00_3/adding-a-toml-file-config-1ibi)
-- [First open-source project for Hacktoberfest 2024](https://dev.to/harshil_patel/first-open-source-project-for-hacktoberfest-2024-45al)
-- [Continuous Contribution](https://dev.to/amullagaliev/continuous-contribution-2nj7)
+- [New Structured Fields RFC out, and so is my Javascript package](https://dev.to/evert/new-structured-fields-rfc-out-and-so-is-my-javascript-package-o4l)
+- [Your stand-up is bad, and you should feel bad.](https://dev.to/kleeut/your-stand-up-is-bad-and-you-should-feel-bad-2l8k)
+- [Data Transformations: Third Maximum and Jumbled Letters](https://dev.to/aplgr/data-transformations-third-maximum-and-jumbled-letters-np3)
+- [RMSProp in PyTorch](https://dev.to/hyperkai/rmsprop-in-pytorch-1hlo)
+- [Improving mobile performance, from slow screens to app start time](https://dev.to/iamjpsharma/improving-mobile-performance-from-slow-screens-to-app-start-time-3gc3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
