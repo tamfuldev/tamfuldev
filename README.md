@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [React Unmasked: Episode 1 - The Anatomy of a React App](https://dev.to/adhikareeprayush/react-unmasked-episode-1-the-anatomy-of-a-react-app-2g3o)
-- [Monte Carlo Simulation-Based Scenario Generation in Stochastic Programming: Addressing Uncertainty in the Knapsack Problem](https://dev.to/thana_b/monte-carlo-simulation-based-scenario-generation-in-stochastic-programming-addressing-uncertainty-in-the-knapsack-problem-39ip)
-- [How to solve users unsolvable/infeasible instance issue in Operations Research](https://dev.to/thana_b/how-to-solve-users-unsolvableinfeasible-instance-issue-in-operations-research-33f1)
-- [Understanding Operating Systems: The Three Key Concepts](https://dev.to/benslinux2024/understanding-operating-systems-the-three-key-concepts-5ah5)
-- [The Challenge About SSL in Docker Containers No One Talks About](https://dev.to/marrouchi/the-challenge-about-ssl-in-docker-containers-no-one-talks-about-32gh)
+- [9 Open Source Projects to Contribute to - Hacktoberfest 2024](https://dev.to/bobbyiliev/9-open-source-projects-to-contribute-to-hacktoberfest-2024-42bm)
+- [Mi Opinión sobre WP Engine vs WordPress - Un Caso de Free Riding en la Comunidad Open Source](https://dev.to/misterdigital_/mi-opinion-sobre-wp-engine-vs-wordpress-un-caso-de-free-riding-en-la-comunidad-open-source-g6g)
+- [🤯 7 Totally FREE! Mind-Blowing AI Websites You Won’t Believe actually exist](https://dev.to/your-ehsan/7-totally-free-mind-blowing-ai-websites-you-wont-believe-actually-exist-54be)
+- [js -Asynchrononous](https://dev.to/ranjithsrt1/js-asynchrononous-4om4)
+- [Navbar &amp; Footer By Bootstrap5](https://dev.to/mahmud-r-farhan/navbar-footer-by-bootstrap5-2md8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
