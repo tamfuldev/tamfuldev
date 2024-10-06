@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Improving Your Communication As A Software Engineer](https://dev.to/angelito_tubig_5e8fa80f5d/improving-your-communication-as-a-software-engineer-1dka)
-- [GitOps for Edge Computing: Managing Distributed Microservices Across Edge Nodes](https://dev.to/mark_mwendia_0298dd9c0aad/gitops-for-edge-computing-managing-distributed-microservices-across-edge-nodes-3pa)
-- [How to Get Started with Deep Reinforcement Learning &lpar;DRLs&rpar;](https://dev.to/kiran_baliga/how-to-get-started-with-deep-reinforcement-learning-drls-5ama)
-- [Symfony Station Communiqué — 04 October 2024. A look at Symfony, Drupal, PHP, and programming news!](https://dev.to/reubenwalker64/symfony-station-communique-04-october-2024-a-look-at-symfony-drupal-php-and-programming-news-2dl0)
-- [Understanding Server Connections in Distributed Systems](https://dev.to/ujjwall-r/understanding-server-connections-in-distributed-systems-no4)
+- [Reto de backend #2](https://dev.to/caresle/reto-de-backend-2-33ip)
+- [Reto de backend #1](https://dev.to/caresle/reto-de-backend-1-2bpb)
+- [Understanding the Adapter Pattern in C#](https://dev.to/dazevedo/understanding-the-adapter-pattern-in-c-561b)
+- [WILL AI TAKE MY JOB?](https://dev.to/banta/will-ai-take-my-job-3j8d)
+- [Sonatype Nexus Usage 101](https://dev.to/berk/sonatype-nexus-usage-101-5h82)
 <!-- BLOG-POST-LIST:END -->
 
 ---
