@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [9 Open Source Projects to Contribute to - Hacktoberfest 2024](https://dev.to/bobbyiliev/9-open-source-projects-to-contribute-to-hacktoberfest-2024-42bm)
-- [Mi Opinión sobre WP Engine vs WordPress - Un Caso de Free Riding en la Comunidad Open Source](https://dev.to/misterdigital_/mi-opinion-sobre-wp-engine-vs-wordpress-un-caso-de-free-riding-en-la-comunidad-open-source-g6g)
-- [🤯 7 Totally FREE! Mind-Blowing AI Websites You Won’t Believe actually exist](https://dev.to/your-ehsan/7-totally-free-mind-blowing-ai-websites-you-wont-believe-actually-exist-54be)
-- [js -Asynchrononous](https://dev.to/ranjithsrt1/js-asynchrononous-4om4)
-- [Navbar &amp; Footer By Bootstrap5](https://dev.to/mahmud-r-farhan/navbar-footer-by-bootstrap5-2md8)
+- [C# Design Pattern: Chain of Responsibility &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-chain-of-responsibility-portugues-c76)
+- [C# Design Pattern: Chain of Responsibility](https://dev.to/juarezasjunior/c-design-pattern-chain-of-responsibility-15ap)
+- [Creating and Using VS Code Snippets: A Beginner&#39;s Guide](https://dev.to/serifcolakel/creating-and-using-vs-code-snippets-a-beginners-guide-53ae)
+- [Navigating JVM Memory: Key Concepts for Your Java Interview](https://dev.to/arshisaxena26/navigating-jvm-memory-key-concepts-for-your-java-interview-2nc8)
+- [Why Do People Really Love These Frameworks: Angular, React, Vue, and Svelte?](https://dev.to/dev_michael/why-do-people-really-love-these-frameworks-angular-react-vue-and-svelte-5ano)
 <!-- BLOG-POST-LIST:END -->
 
 ---
