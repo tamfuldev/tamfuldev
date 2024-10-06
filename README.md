@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Enable MSMQ Triggers in Windows 11?](https://dev.to/winsides/how-to-enable-msmq-triggers-in-windows-11-5cnf)
-- [Mastering Linux: A Collection of Hands-On Programming Labs 🐧](https://dev.to/labex/mastering-linux-a-collection-of-hands-on-programming-labs-24a5)
-- [Understanding Git Rebase](https://dev.to/kiranukamath/understanding-git-rebase-9ca)
-- [Best CSS Frameworks to Use in React.js](https://dev.to/mourya_modugula/best-css-frameworks-to-use-in-reactjs-604)
-- [Blurry Image Detection in Laravel](https://dev.to/afiqiqmal/blurry-image-detection-in-laravel-4d8d)
+- [How to Contribute to Open Source: A Step-by-Step Guide for Beginners](https://dev.to/sumonta056/how-to-contribute-to-open-source-a-step-by-step-guide-for-beginners-2a80)
+- [TIL: How to Quickly Check Which AWS Regions Support SES Using a Bash Script](https://dev.to/nickciolpan/til-how-to-quickly-check-which-aws-regions-support-ses-using-a-bash-script-262g)
+- [Relational vs Non-Relational Databases](https://dev.to/jayaprasanna_roddam/relational-vs-non-relational-databases-1a39)
+- [Why is Next.js so great?](https://dev.to/turingvangisms/why-is-nextjs-so-great-5749)
+- [Learning Go: 01](https://dev.to/gaurav444/learning-go-01-2h6i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
