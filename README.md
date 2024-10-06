@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Spirit Hunter - Post-Mortem](https://dev.to/myjsalterego/spirit-hunter-post-mortem-2np8)
-- [Basic Docker Terminologies](https://dev.to/niteshoak/basic-docker-terminologies-3i5m)
-- [SharpAPI Laravel Integration Guide](https://dev.to/makowskid/sharpapi-laravel-integration-guide-8ol)
-- [[GCP] Resource vs Billing management](https://dev.to/2nguyenlong000k/gcp-resource-vs-billing-management-36nf)
-- [Hoisting in JavaScript](https://dev.to/muhammad_adil_42656/hoisting-in-javascript-502l)
+- [What do you want me to write for you?](https://dev.to/areeb_anwar_813df06ee1124/what-do-you-want-me-to-write-for-you-lef)
+- [Understanding Truthy &amp; Falsy Values in JavaScript: The Art of Conditional Logic 🎭](https://dev.to/alwaysaman/understanding-truthy-falsy-values-in-javascript-the-art-of-conditional-logic-33l9)
+- [System design: Messaging Queues and Event-Driven Architecture](https://dev.to/jayaprasanna_roddam/system-design-messaging-queues-and-event-driven-architecture-3994)
+- [🚀 DevOps Project: Production Level CI/CD Pipeline🚀](https://dev.to/hanzla-mirza/devops-project-production-level-cicd-pipeline-1637)
+- [Configuring Clerk.io on t3 with tRPC](https://dev.to/theswordbreaker/configuring-clerkio-on-t3-with-trpc-1daa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
