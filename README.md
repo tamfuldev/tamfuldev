@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [5 Commands for Web Developers that just started using Linux](https://dev.to/prozdrljivac/5-commands-for-web-developers-that-just-started-using-linux-6io)
-- [Leaflet library and it&#39;s usecase](https://dev.to/sachin_rastogi_0820ff31c4/leaflet-usecase-566)
-- [Open Source Tool List for Web App Security](https://dev.to/carrie_luo1/open-source-tool-list-for-web-app-security-3eoi)
-- [What is RemoteWLB?](https://dev.to/remotewlb/what-is-remotewlb-44h6)
-- [Configuring Logging in AWS EKS Using Fluent Bit and CloudWatch](https://dev.to/aws-builders/configuring-logging-in-aws-eks-using-fluent-bit-and-cloudwatch-1fpb)
+- [Spirit Hunter - Post-Mortem](https://dev.to/myjsalterego/spirit-hunter-post-mortem-2np8)
+- [Basic Docker Terminologies](https://dev.to/niteshoak/basic-docker-terminologies-3i5m)
+- [SharpAPI Laravel Integration Guide](https://dev.to/makowskid/sharpapi-laravel-integration-guide-8ol)
+- [[GCP] Resource vs Billing management](https://dev.to/2nguyenlong000k/gcp-resource-vs-billing-management-36nf)
+- [Hoisting in JavaScript](https://dev.to/muhammad_adil_42656/hoisting-in-javascript-502l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
