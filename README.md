@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Nature Remo: Control Your Room&#39;s Lighting via Shell Script and API](https://dev.to/tqer39/getting-started-with-nature-remo-control-your-rooms-lighting-via-shell-script-and-api-1ap8)
-- [From Frustration to Creation: How I Built a Free Feedback Widget to Simplify User Insights 🚀](https://dev.to/dev_para/from-frustration-to-creation-how-i-built-a-free-feedback-widget-to-simplify-user-insights-2b82)
-- [Moving to pnpm and Volta: Enhancing Your Frontend Development Workflow](https://dev.to/ratul0/moving-to-pnpm-and-volta-enhancing-your-frontend-development-workflow-ogn)
-- [Run a Virtual Machine in Your Browser](https://dev.to/nadchif/run-a-virtual-machine-in-your-browser-2kjk)
-- [[Apache Superset] Topic #4, Integrate 2D/3D maps into Superset](https://dev.to/ngtduc693/apache-superset-topic-4-integrate-maps-2d-3d-into-superset-5do0)
+- [Snaplet &amp; Supabase &amp; Flutter | How to create a known user for testing](https://dev.to/01kg/snaplet-supabase-flutter-how-to-create-a-known-user-for-testing-o7j)
+- [Recuperar una Base de Datos Oracle Después de un Error en el Archivo spfile.ora](https://dev.to/zr33_lanor/recuperar-una-base-de-datos-oracle-despues-de-un-error-en-el-archivo-spfileora-55a5)
+- [Avoid Misunderstanding ON DELETE NO ACTION](https://dev.to/jacktt/avoid-misunderstanding-on-delete-no-action-gcj)
+- [The Day a DDOS Attack Led to the Worlds Most Awkward Hello World](https://dev.to/programmerraja/the-day-a-ddos-attack-led-to-the-worlds-most-awkward-hello-world-1dln)
+- [Day 3 - Bashing bots &amp;&amp; piping dreams 👷](https://dev.to/kanzish/day-3-bashing-bots-piping-dreams-40j6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
