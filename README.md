@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Streamlining Inline Style Conversion in HTML](https://dev.to/fabiodevbr/streamlining-inline-style-conversion-in-html-4f8e)
-- [Monthly Amazon Location Service Updates - 2024.09](https://dev.to/aws-heroes/monthly-amazon-location-service-updates-202409-3pi9)
-- [Singly Linked List Implementation in Go](https://dev.to/adnanbabakan/singly-linked-list-implementation-in-go-480o)
-- [6 Surprising Reasons to Ditch Monolithic and Microservices for a Hybrid Approach Now](https://dev.to/jackwilltech/6-surprising-reasons-to-ditch-monolithic-and-microservices-for-a-hybrid-approach-now-392)
-- [Automating Swagger Documentation with Joi in Node.js: Simplify Your API Documentation Workflow](https://dev.to/gleidsonleite/automating-swagger-documentation-with-joi-in-nodejs-simplify-your-api-documentation-workflow-5ad7)
+- [Getting Started with Nature Remo: Control Your Room&#39;s Lighting via Shell Script and API](https://dev.to/tqer39/getting-started-with-nature-remo-control-your-rooms-lighting-via-shell-script-and-api-1ap8)
+- [From Frustration to Creation: How I Built a Free Feedback Widget to Simplify User Insights 🚀](https://dev.to/dev_para/from-frustration-to-creation-how-i-built-a-free-feedback-widget-to-simplify-user-insights-2b82)
+- [Moving to pnpm and Volta: Enhancing Your Frontend Development Workflow](https://dev.to/ratul0/moving-to-pnpm-and-volta-enhancing-your-frontend-development-workflow-ogn)
+- [Run a Virtual Machine in Your Browser](https://dev.to/nadchif/run-a-virtual-machine-in-your-browser-2kjk)
+- [[Apache Superset] Topic #4, Integrate 2D/3D maps into Superset](https://dev.to/ngtduc693/apache-superset-topic-4-integrate-maps-2d-3d-into-superset-5do0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
