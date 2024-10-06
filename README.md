@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Reto de backend #2](https://dev.to/caresle/reto-de-backend-2-33ip)
-- [Reto de backend #1](https://dev.to/caresle/reto-de-backend-1-2bpb)
-- [Understanding the Adapter Pattern in C#](https://dev.to/dazevedo/understanding-the-adapter-pattern-in-c-561b)
-- [WILL AI TAKE MY JOB?](https://dev.to/banta/will-ai-take-my-job-3j8d)
-- [Sonatype Nexus Usage 101](https://dev.to/berk/sonatype-nexus-usage-101-5h82)
+- [What is Ngrok?](https://dev.to/femolacaster/what-is-ngrok-1023)
+- [Empowering Healthcare with Data: Choosing the Best Platforms for Advanced Analytics](https://dev.to/chaets/empowering-healthcare-with-data-choosing-the-best-platforms-for-advanced-analytics-1end)
+- [4 - Clean Architecture: Interface Adapters](https://dev.to/dazevedo/4-clean-architecture-interface-adapters-594m)
+- [How To Process Events Exactly-Once](https://dev.to/dbos/how-to-process-events-exactly-once-4dpo)
+- [I Built DeployFast – Because I Got Tired of Using Vercel &lpar;deployfast.cloud&rpar;](https://dev.to/anis_mer/i-built-deployfast-because-i-got-tired-of-using-vercel-deployfastcloud-31n7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
