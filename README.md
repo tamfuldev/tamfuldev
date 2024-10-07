@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday](https://dev.to/ben/meme-monday-1jd5)
-- [Dive into Next.js Server-Side Rendering &lpar;SSR&rpar;: From SPA to ISR](https://dev.to/nik-bogachenkov/dive-into-nextjs-server-side-rendering-ssr-from-spa-to-isr-11o2)
-- [Clean Up Your Code: No More Try-Catch!](https://dev.to/gazi2050/clean-up-your-code-no-more-try-catch-109m)
-- [Introduction to React Library :&rpar;](https://dev.to/madgan95/introduction-to-react-library--4k5i)
-- [Recap of Experts Live 2024 in Budapest: Three Days of Cloud, Code, and Connections](https://dev.to/this-is-learning/recap-of-experts-live-2024-in-budapest-three-days-of-cloud-code-and-connections-189h)
+- [Good First Issue: Make your first open-source contribution](https://dev.to/opensourcee/good-first-issue-make-your-first-open-source-contribution-2ocm)
+- [AI and Machine Learning in Web Development: Driving a New Generation of Intelligent Web Applications](https://dev.to/okoye_ndidiamaka_5e3b7d30/ai-and-machine-learning-in-web-development-driving-a-new-generation-of-intelligent-web-applications-1ne9)
+- [OpenAI’s New o1 Model: Why Everyone Is Upset](https://dev.to/danyaleyman/openais-new-o1-model-why-everyone-is-upset-3ike)
+- [How to start using Vim](https://dev.to/okaz/how-to-start-using-vim-5265)
+- [TCP Vs UDP Protocol](https://dev.to/alakkadshaw/tcp-vs-udp-protocol-359k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
