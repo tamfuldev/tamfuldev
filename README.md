@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [8 Amazing Web Directories For SaaS Builders and Indie Hackers 🤑🚀](https://dev.to/madza/8-amazing-web-directories-for-saas-builders-and-indie-hackers-2h3o)
-- [AIM Weekly for 07 Oct 2024](https://dev.to/tspannhw/aim-weekly-for-07-oct-2024-316b)
-- [Buffers: Node.js](https://dev.to/harshm03/buffers-nodejs-42m1)
-- [Linux Commands for DevOps Engineers: A Practical Guide](https://dev.to/farukh166/linux-commands-for-devops-engineers-a-practical-guide-575o)
-- [DataLoader in PyTorch](https://dev.to/hyperkai/dataloader-in-pytorch-1fie)
+- [Implementing a Caesar Cipher Program in Python](https://dev.to/immah/implementing-a-caesar-cipher-program-in-python-1gf3)
+- [Gemini + Facebook Bot with Hexabot.ai](https://dev.to/marrouchi/gemini-facebook-bot-with-hexabotai-4gcg)
+- [Effective SEO Strategies for Your Blog: What You Need to Know](https://dev.to/raajaryan/effective-seo-strategies-for-your-blog-what-you-need-to-know-3915)
+- [What Does API Stand For? A Complete Guide](https://dev.to/keploy/what-does-api-stand-for-a-complete-guide-22pb)
+- [Streams: Node.js](https://dev.to/harshm03/streams-nodejs-2j32)
 <!-- BLOG-POST-LIST:END -->
 
 ---
