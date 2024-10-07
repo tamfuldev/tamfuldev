@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Tracking Data Over Time: Slowly Changing Dimensions &lpar;SCD&rpar;](https://dev.to/chaets/tracking-data-over-time-slowly-changing-dimensions-scd-nc5)
-- [Top 7 Microservices Design Patterns You Should Know](https://dev.to/wallacefreitas/top-7-microservices-design-patterns-you-should-know-3c16)
-- [Unlock 100% Persistent Storage for Docker Containers in 5 Steps](https://dev.to/parkerava/unlock-100-persistent-storage-for-docker-containers-in-5-steps-3h0k)
-- [Federated Computational Governance: Balancing Autonomy and Compliance in the Data Ecosystem 🌐✨](https://dev.to/cortexflow/federated-computational-governance-balancing-autonomy-and-compliance-in-the-data-ecosystem-2dm6)
-- [YAML Syntax And So More](https://dev.to/mahhbubferdous/yaml-syntax-and-so-more-p61)
+- [Solr Search in Sitecore](https://dev.to/esdanielgomez/solr-search-in-sitecore-399k)
+- [Python and Machine Learning: A Match Made in Heaven](https://dev.to/alexander_yizchak/python-and-machine-learning-a-match-made-in-heaven-29d6)
+- [5 Productivity Boosting Skills for Engineering Managers](https://dev.to/tudor-matei/5-productivity-boosting-skills-for-engineering-managers-13h9)
+- [The Power of Python in Data Science: A Comprehensive Guide](https://dev.to/alexander_yizchak/the-power-of-python-in-data-science-a-comprehensive-guide-3phi)
+- [YugabyteDB as a Graph database with PuppyGraph](https://dev.to/yugabyte/yugabytedb-as-a-graph-database-with-puppygraph-4p6l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
