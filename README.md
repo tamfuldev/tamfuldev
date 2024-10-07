@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding os.Stat&lpar;&rpar; vs os.Lstat&lpar;&rpar; in Go: File and Symlink Handling](https://dev.to/moseeh_52/understanding-osstat-vs-oslstat-in-go-file-and-symlink-handling-3p5d)
-- [🎯 Case Study: How AutoKey is Exploring Opire to Attract Python Developers](https://dev.to/opire/case-study-how-autokey-is-exploring-opire-to-attract-python-developers-b8g)
-- [JavaScript Essentials: Part 3](https://dev.to/otumianempire/javascript-essentials-part-3-5cc0)
-- [Two pointers algorithm explained](https://dev.to/okaz/two-pointers-algorithm-explained-3k0e)
-- [Serverless Architecture: A New Era in Application Development and Deployment](https://dev.to/okoye_ndidiamaka_5e3b7d30/serverless-architecture-a-new-era-in-application-development-and-deployment-2hja)
+- [Huge news for Kohya GUI - Now you can fully Fine Tune / DreamBooth FLUX Dev with as low as 6 GB GPUs without any quality loss](https://dev.to/furkangozukara/huge-news-for-kohya-gui-now-you-can-fully-fine-tune-dreambooth-flux-dev-with-as-low-as-6-gb-gpus-without-any-quality-loss-1ke7)
+- [Navigating the New Grad/Junior SWE Job Hunt: Part 2 - Behavioural Interviews](https://dev.to/pidgey0403/tips-for-navigating-the-new-gradjunior-swe-job-hunt-part-2-behavioural-interviews-3pmd)
+- [C# Design Pattern: Command](https://dev.to/juarezasjunior/c-design-pattern-command-2djb)
+- [C# Design Pattern: Command &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-command-portugues-12a4)
+- [Python 101: Introduction to Python as a Data Analytics Tool](https://dev.to/oderap/python-101-introduction-to-python-as-a-data-analytics-tool-4fpk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
