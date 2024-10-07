@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing a Caesar Cipher Program in Python](https://dev.to/immah/implementing-a-caesar-cipher-program-in-python-1gf3)
-- [Gemini + Facebook Bot with Hexabot.ai](https://dev.to/marrouchi/gemini-facebook-bot-with-hexabotai-4gcg)
-- [Effective SEO Strategies for Your Blog: What You Need to Know](https://dev.to/raajaryan/effective-seo-strategies-for-your-blog-what-you-need-to-know-3915)
-- [What Does API Stand For? A Complete Guide](https://dev.to/keploy/what-does-api-stand-for-a-complete-guide-22pb)
-- [Streams: Node.js](https://dev.to/harshm03/streams-nodejs-2j32)
+- [Day 28. Opportunity for growth](https://dev.to/kiolk/day-28-opportunity-for-growth-3g17)
+- [🚀 Launch Your Dream Website in Minutes! 🌟](https://dev.to/thakkarrajan/launch-your-dream-website-in-minutes-1cm5)
+- [Hacktoberfest: First pull request](https://dev.to/aldrin312/hacktoberfest-first-pull-request-1040)
+- [How not to do code reviews](https://dev.to/dphenomenal/how-not-to-do-code-reviews-hh0)
+- [C# Advanced:Delegates](https://dev.to/moh_moh701/c-advanceddelegates-3p6c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
