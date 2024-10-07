@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Future is Here: Promising Applications of Edge Computing in IoT Devices](https://dev.to/adityabhuyan/the-future-is-here-promising-applications-of-edge-computing-in-iot-devices-1jji)
-- [Async vs Defer in JavaScript: Understanding the Difference](https://dev.to/laxmann/async-vs-defer-in-javascript-understanding-the-difference-44o5)
-- [Unraveling Undefined Behavior: Performance Optimizations in Modern Compilers](https://dev.to/adityabhuyan/unraveling-undefined-behavior-performance-optimizations-in-modern-compilers-2ig4)
-- [System design: Microservices Architecture](https://dev.to/jayaprasanna_roddam/system-design-microservices-architecture-4gcb)
-- [50 Linux Networking Commands Every DevOps Engineer Should Master](https://dev.to/trixsec/50-linux-networking-commands-every-devops-engineer-should-master-1k36)
+- [The Most Important Setting in Your Power Platform](https://dev.to/wyattdave/the-most-important-setting-in-your-power-platform-c71)
+- [JavaScript Variables and Data Types: Storing and manipulating data in JavaScript.](https://dev.to/shieldstring/javascript-variables-and-data-types-storing-and-manipulating-data-in-javascript-ed)
+- [7 Open Source Projects You Should Know - Italian Edition ✔️ [BONUS]](https://dev.to/this-is-learning/7-open-source-projects-you-should-know-italian-edition-bonus-2958)
+- [Memory safety in web services: what about performance](https://dev.to/gliimly/memory-safety-in-web-services-what-about-performance-1bmg)
+- [System design: Designing for High Availability](https://dev.to/jayaprasanna_roddam/system-design-designing-for-high-availability-5edp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
