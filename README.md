@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Huge news for Kohya GUI - Now you can fully Fine Tune / DreamBooth FLUX Dev with as low as 6 GB GPUs without any quality loss](https://dev.to/furkangozukara/huge-news-for-kohya-gui-now-you-can-fully-fine-tune-dreambooth-flux-dev-with-as-low-as-6-gb-gpus-without-any-quality-loss-1ke7)
-- [Navigating the New Grad/Junior SWE Job Hunt: Part 2 - Behavioural Interviews](https://dev.to/pidgey0403/tips-for-navigating-the-new-gradjunior-swe-job-hunt-part-2-behavioural-interviews-3pmd)
-- [C# Design Pattern: Command](https://dev.to/juarezasjunior/c-design-pattern-command-2djb)
-- [C# Design Pattern: Command &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-command-portugues-12a4)
-- [Python 101: Introduction to Python as a Data Analytics Tool](https://dev.to/oderap/python-101-introduction-to-python-as-a-data-analytics-tool-4fpk)
+- [S3 Alternatives for Rails&#39; ActiveStorage](https://dev.to/railsdesigner/s3-alternatives-for-rails-activestorage-39ko)
+- [Building a Spring Boot Consumer Application with Amazon SQS: Setup Infrastructure Using Cloud Development Kit &lpar;CDK&rpar;](https://dev.to/nivekalara237/building-a-spring-boot-consumer-application-with-amazon-sqs-setup-infrastructure-using-cloud-development-kit-cdk-41a2)
+- [Creating a Smart Address Search with Google Maps API and React](https://dev.to/domanskyi/creating-a-smart-address-search-with-google-maps-api-and-react-2iko)
+- [Top Data Analytics Software Companies in 2024](https://dev.to/kzier/top-data-analytics-software-companies-in-2024-2n62)
+- [Need Team Members for Computer Vision Projects &lpar;Python, OpenCV&rpar;](https://dev.to/elymsyr/need-team-members-for-computer-vision-projects-python-opencv-4lih)
 <!-- BLOG-POST-LIST:END -->
 
 ---
