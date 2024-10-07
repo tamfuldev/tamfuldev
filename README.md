@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Go Design Patterns #1: Singleton](https://dev.to/eduardoarndt/go-design-patterns-1-singleton-4ap9)
-- [what the heck is web3](https://dev.to/anurag112/what-the-heck-is-web3-57nk)
-- [Creating a Responsive Layout with Bootstrap](https://dev.to/chami/creating-a-responsive-layout-with-bootstrap-fle)
-- [AWS S3 appears to be down](https://dev.to/ben/aws-s3-appears-to-be-down-4d0b)
-- [Optimizing PostgreSQL Mass Deletions with Table Partitioning](https://dev.to/stringintech/optimizing-postgresql-mass-deletions-with-table-partitioning-4ai4)
+- [Tracking Data Over Time: Slowly Changing Dimensions &lpar;SCD&rpar;](https://dev.to/chaets/tracking-data-over-time-slowly-changing-dimensions-scd-nc5)
+- [Top 7 Microservices Design Patterns You Should Know](https://dev.to/wallacefreitas/top-7-microservices-design-patterns-you-should-know-3c16)
+- [Unlock 100% Persistent Storage for Docker Containers in 5 Steps](https://dev.to/parkerava/unlock-100-persistent-storage-for-docker-containers-in-5-steps-3h0k)
+- [Federated Computational Governance: Balancing Autonomy and Compliance in the Data Ecosystem 🌐✨](https://dev.to/cortexflow/federated-computational-governance-balancing-autonomy-and-compliance-in-the-data-ecosystem-2dm6)
+- [YAML Syntax And So More](https://dev.to/mahhbubferdous/yaml-syntax-and-so-more-p61)
 <!-- BLOG-POST-LIST:END -->
 
 ---
