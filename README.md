@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Creating an All-in-One Code Editor Using React and SandPack](https://dev.to/salehmubashar/creating-an-all-in-one-code-editor-using-react-and-sandpack-1pon)
-- [Creating a Word Cloud in React ⚛️🔡](https://dev.to/mattlewandowski93/creating-a-word-cloud-in-react-1999)
-- [How To Create an ECC Certificate on Nginx?](https://dev.to/devops_den/how-to-create-an-ecc-certificate-on-nginx-50c1)
-- [Role of AI In Enhancing VR Experiences](https://dev.to/jhernandez504/role-of-ai-in-enhancing-vr-experiences-531i)
-- [Integrating Apollo Client with React and TypeScript: A Step-by-Step Guide](https://dev.to/mourya_modugula/integrating-apollo-client-with-react-and-typescript-a-step-by-step-guide-3bjk)
+- [The Future is Here: Promising Applications of Edge Computing in IoT Devices](https://dev.to/adityabhuyan/the-future-is-here-promising-applications-of-edge-computing-in-iot-devices-1jji)
+- [Async vs Defer in JavaScript: Understanding the Difference](https://dev.to/laxmann/async-vs-defer-in-javascript-understanding-the-difference-44o5)
+- [Unraveling Undefined Behavior: Performance Optimizations in Modern Compilers](https://dev.to/adityabhuyan/unraveling-undefined-behavior-performance-optimizations-in-modern-compilers-2ig4)
+- [System design: Microservices Architecture](https://dev.to/jayaprasanna_roddam/system-design-microservices-architecture-4gcb)
+- [50 Linux Networking Commands Every DevOps Engineer Should Master](https://dev.to/trixsec/50-linux-networking-commands-every-devops-engineer-should-master-1k36)
 <!-- BLOG-POST-LIST:END -->
 
 ---
