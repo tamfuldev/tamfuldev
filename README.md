@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Striking the Right Balance: Rapid Prototyping with Next.js and Vercel](https://dev.to/hayata_yamamoto/striking-the-right-balance-rapid-prototyping-with-nextjs-and-vercel-4jih)
-- [ASP.NET Core unassociated input fix](https://dev.to/karenpayneoregon/aspnet-core-unassociated-input-fix-3lf0)
-- [Use imgp on macOS with Docker](https://dev.to/tomoyk/use-imgp-on-macos-with-docker-3pef)
-- [Next.js and Prisma: Efficiently Creating Seed Data for Your App](https://dev.to/hayata_yamamoto/nextjs-and-prisma-efficiently-creating-seed-data-for-your-app-1a12)
-- [Adding API Rate Limiting to Your Go API](https://dev.to/neelp03/adding-api-rate-limiting-to-your-go-api-3fo8)
+- [How to Install WKHTMLTOPDF with Patched QT on Ubuntu and CentOS 8](https://dev.to/afiqiqmal/how-to-install-wkhtmltopdf-with-patched-qt-on-ubuntu-and-centos-8-4j12)
+- [AWS Session Manager vs SSH](https://dev.to/afiqiqmal/aws-session-manager-vs-ssh-n3f)
+- [INTRODUCTION TO PYTHON FOR DATA ANALYTICS](https://dev.to/dionnekesa/introduction-to-python-for-data-analytics-1ci2)
+- [Master File Uploads &amp; Downloads in 5 Minutes with Selenium!](https://dev.to/emilyjohnsonready/master-file-uploads-downloads-in-5-minutes-with-selenium-5d85)
+- [Same Product Twice in Microsoft Access](https://dev.to/richardrost/same-product-twice-in-microsoft-access-20i5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
