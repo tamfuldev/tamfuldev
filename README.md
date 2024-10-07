@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 28. Opportunity for growth](https://dev.to/kiolk/day-28-opportunity-for-growth-3g17)
-- [🚀 Launch Your Dream Website in Minutes! 🌟](https://dev.to/thakkarrajan/launch-your-dream-website-in-minutes-1cm5)
-- [Hacktoberfest: First pull request](https://dev.to/aldrin312/hacktoberfest-first-pull-request-1040)
-- [How not to do code reviews](https://dev.to/dphenomenal/how-not-to-do-code-reviews-hh0)
-- [C# Advanced:Delegates](https://dev.to/moh_moh701/c-advanceddelegates-3p6c)
+- [Go Design Patterns #1: Singleton](https://dev.to/eduardoarndt/go-design-patterns-1-singleton-4ap9)
+- [what the heck is web3](https://dev.to/anurag112/what-the-heck-is-web3-57nk)
+- [Creating a Responsive Layout with Bootstrap](https://dev.to/chami/creating-a-responsive-layout-with-bootstrap-fle)
+- [AWS S3 appears to be down](https://dev.to/ben/aws-s3-appears-to-be-down-4d0b)
+- [Optimizing PostgreSQL Mass Deletions with Table Partitioning](https://dev.to/stringintech/optimizing-postgresql-mass-deletions-with-table-partitioning-4ai4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
