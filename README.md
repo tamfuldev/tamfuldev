@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [C# Design Pattern: Interpreter &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-interpreter-portugues-55l)
-- [C# Design Pattern: Interpreter](https://dev.to/juarezasjunior/c-design-pattern-interpreter-3nlp)
-- [ChatGPT vs Microsoft Copilot vs Claude AI: A Detailed Comparison of AI Tools for 2024](https://dev.to/abhinowww/chatgpt-vs-microsoft-copilot-vs-claude-ai-a-detailed-comparison-of-ai-tools-for-2024-f3o)
-- [Create Your First Smart Contract in Solidity and Upload it to Kalp Instant Deployer.](https://dev.to/kalpstudio/create-your-first-smart-contract-in-solidity-and-upload-it-to-kalp-instant-deployer-1g0n)
-- [The Future of Medical Documentation: Doctors Weigh In on AI Scribes](https://dev.to/zirrai/the-future-of-medical-documentation-doctors-weigh-in-on-ai-scribes-3n72)
+- [Presenting you Supacharts](https://dev.to/litlyx/presenting-you-supacharts-4pam)
+- [How Rust Manages Memory](https://dev.to/tekk_x/how-rust-manages-memory-40h3)
+- [Authentication and authorization in Node.js applications](https://dev.to/cerbos/authentication-and-authorization-in-nodejs-applications-12fk)
+- [Portainer + gitops ❤️: A simple way to deploy and manage your self-hosted applications](https://dev.to/mfyz/portainer-gitops-a-simple-way-to-deploy-and-manage-your-self-hosted-applications-pkk)
+- [OpenFest festival will provoke your senses and mind with open art.](https://dev.to/bogomil/openfest-festival-will-provoke-your-senses-and-mind-with-open-art-1256)
 <!-- BLOG-POST-LIST:END -->
 
 ---
