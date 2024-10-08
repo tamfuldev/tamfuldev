@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Creating custom mouse cursors with CSS](https://dev.to/logrocket/creating-custom-mouse-cursors-with-css-368l)
-- [Cross-Chain Governance with OpenZeppelin Governor and Axelar](https://dev.to/olanetsoft/cross-chain-governance-with-openzeppelin-governor-and-axelar-53b8)
-- [Building an Event Scheduler in .NET Using Google Calendar API](https://dev.to/dianaiminza/building-an-event-scheduler-in-net-using-google-calendar-api-2enk)
-- [Unleashing the Power of Python Lambda Functions with Terraform for Email Automation via AWS SES](https://dev.to/alexander_yizchak/unleashing-the-power-of-python-lambda-functions-with-terraform-for-email-automation-via-aws-ses-1fod)
-- [Fractional Knapsack](https://dev.to/softarg8/fractional-knapsack-5fmm)
+- [Hacktoberfest 2024 - The Antiguide](https://dev.to/srbhr/hacktoberfest-2024-the-antiguide-4ce5)
+- [How to create a newsletter signup form in just 20 minutes with shadcn/UI and Manifest](https://dev.to/sebconejo/how-to-create-a-newsletter-signup-form-in-just-20-minutes-with-shadcnui-and-manifest-1ile)
+- [Stop Using Traditional Loops in Java: Use Streams and `forEach` 🚀](https://dev.to/nullvoidkage/stop-using-traditional-loops-in-java-use-streams-and-foreach-41le)
+- [The Big Picture of React Component](https://dev.to/hasan_rifat/the-big-picture-of-react-component-1o1m)
+- [DevOps Testing Explained: Types, Benefits, and Proven Best Practices](https://dev.to/ronika_kashyap/devops-testing-explained-types-benefits-and-proven-best-practices-53il)
 <!-- BLOG-POST-LIST:END -->
 
 ---
