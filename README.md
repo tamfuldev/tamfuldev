@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering More JavaScript: Objects, Arrays, Loops, and Beyond!](https://dev.to/imrankhan17/mastering-more-javascript-objects-arrays-loops-and-beyond-4n8c)
-- [Linked List Mastery: Cracking LeetCode Problems on List](https://dev.to/emmanuelayinde/linked-list-mastery-cracking-leetcode-problems-on-list-2i0g)
-- [What orienteering taught me about software development](https://dev.to/vkolencik/what-orienteering-taught-me-about-software-development-5d27)
-- [Criando uma API Simples em Java: Parte 2 - Endpoints PUT e DELETE](https://dev.to/menezesledilson/criando-uma-api-simples-em-java-parte-2-endpoints-put-e-delete-4hfa)
-- [Unlock 100s of Microservices in 5 Easy Steps with Spring Cloud Config &amp; Kotlin!](https://dev.to/parkerava/unlock-100s-of-microservices-in-5-easy-steps-with-spring-cloud-config-kotlin-209a)
+- [Resilience in the Cloud - Fault Isolation Boundaries](https://dev.to/rdbatch02/resilience-in-the-cloud-fault-isolation-boundaries-4nid)
+- [Request for help from the open source community](https://dev.to/hviana/request-for-help-from-the-open-source-community-2354)
+- [Transpiler vs Ployfills](https://dev.to/padmajothi_athimoolam_23d/transpiler-vs-ployfills-1i5l)
+- [Criando um Simulador de Banco de Dados em Rust: Parsing, Compilação e Execução de Consultas SQL](https://dev.to/rtoledo/criando-um-simulador-de-banco-de-dados-em-rust-parsing-compilacao-e-execucao-de-consultas-sql-3hl)
+- [Entrepreneurship, MVP &amp; Startup Challenges &lpar;feat. Michael Sattler&rpar;](https://dev.to/vpalania/entrepreneurship-mvp-startup-challenges-feat-michael-sattler-23b5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
