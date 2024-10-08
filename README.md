@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Developers Shouldn&#39;t Overlook Roblox Scripting](https://dev.to/johnny_04/why-developers-shouldnt-overlook-roblox-scripting-4m6b)
-- [Sequence in SQL | PART 2](https://dev.to/mrcaption49/sequence-in-sql-part-2-1an8)
-- [sequence in SQL | PART 1](https://dev.to/mrcaption49/sequence-in-sql-part-1-53)
-- [Starting My DevOps Journey: Week 1 - Linux Fundamentals 🚀](https://dev.to/absurd_sapien/starting-my-devops-journey-week-1-linux-fundamentals-5b8g)
-- [A Fast Resume Why You Should Learn About Design Patterns](https://dev.to/vitorbrangioni/a-fast-resume-why-you-should-learn-about-design-patterns-14bk)
+- [Hacktoberfest! - Week 1](https://dev.to/theoforger/hacktoberfest-week-1-2c13)
+- [Reatc.js : Keeping Components Pure](https://dev.to/sonaykara/reatcjs-keeping-components-pure-551j)
+- [Unlock Scalable Apps in 5 Minutes: Spring Reactive Revolutionizes Non-Blocking IO](https://dev.to/emilyjohnsonready/unlock-scalable-apps-in-5-minutes-spring-reactive-revolutionizes-non-blocking-io-2h4j)
+- [How To Simplify Assertions in Unit and Integration Tests with Verify in .NET](https://dev.to/antonmartyniuk/how-to-simplify-assertions-in-unit-and-integration-tests-with-verify-in-net-1com)
+- [Criando e manipulando um Banco de Dados](https://dev.to/a_audrey/criando-e-manipulando-um-banco-de-dados-p93)
 <!-- BLOG-POST-LIST:END -->
 
 ---
