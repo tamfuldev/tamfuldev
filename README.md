@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dash: An Intriguing Framework, to Say the Least](https://dev.to/igor1740/dash-an-intriguing-framework-to-say-the-least-31l6)
-- [Python 101: Introduction to Python as a Data Analytics Tool](https://dev.to/clement_mwai/python-101-introduction-to-python-as-a-data-analytics-tool-nef)
-- [What is Input Validation in Web Development](https://dev.to/carrie_luo1/what-is-input-validation-in-web-development-5b8l)
-- [Offload - A unified javascript SDK that enables in-browser AI](https://dev.to/miguelaeh/offload-a-unified-javascript-sdk-that-enables-in-browser-ai-2aii)
-- [Building a Docker-based Monitoring System with Prometheus and Grafana](https://dev.to/yagyandatta/building-a-docker-based-monitoring-system-with-prometheus-and-grafana-30c0)
+- [C# Design Pattern: Interpreter &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-interpreter-portugues-55l)
+- [C# Design Pattern: Interpreter](https://dev.to/juarezasjunior/c-design-pattern-interpreter-3nlp)
+- [ChatGPT vs Microsoft Copilot vs Claude AI: A Detailed Comparison of AI Tools for 2024](https://dev.to/abhinowww/chatgpt-vs-microsoft-copilot-vs-claude-ai-a-detailed-comparison-of-ai-tools-for-2024-f3o)
+- [Create Your First Smart Contract in Solidity and Upload it to Kalp Instant Deployer.](https://dev.to/kalpstudio/create-your-first-smart-contract-in-solidity-and-upload-it-to-kalp-instant-deployer-1g0n)
+- [The Future of Medical Documentation: Doctors Weigh In on AI Scribes](https://dev.to/zirrai/the-future-of-medical-documentation-doctors-weigh-in-on-ai-scribes-3n72)
 <!-- BLOG-POST-LIST:END -->
 
 ---
