@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Master Bidirectional One-to-One Relations in 5 Steps: Boost Spring Data JPA Efficiency](https://dev.to/emilyjohnsonready/master-bidirectional-one-to-one-relations-in-5-steps-boost-spring-data-jpa-efficiency-1m13)
-- [OSD - lab - 4 - toml configs](https://dev.to/krinskumar/osd-lab-4-toml-configs-pmg)
-- [How to Build a Multi-Role Routing System in React](https://dev.to/sheikmostafizur/how-to-build-a-multi-role-routing-system-in-react-4ohg)
-- [Ada Lovelace e a Inteligência Artificial: A Visão Pioneira Que Inspira a Inovação Tecnológica](https://dev.to/womakerscode/ada-lovelace-e-a-inteligencia-artificial-a-visao-pioneira-que-inspira-a-inovacao-tecnologica-4fl4)
-- [Impacto Social da Tecnologia à Ética: O Legado de Ada Lovelace](https://dev.to/womakerscode/impacto-social-da-tecnologia-a-etica-o-legado-de-ada-lovelace-10il)
+- [🌻 Isolating Go Slices: How to Create Independent Slices from an Array Safely](https://dev.to/sai7xp/isolating-go-slices-how-to-create-independent-slices-from-an-array-safely-3n1p)
+- [Trie structure in Golang](https://dev.to/carasco/trie-structure-in-golang-mcp)
+- [Release Automation through Parallel Codefresh Pipelines](https://dev.to/katherine_lin_f690f55bbf7/release-automation-through-parallel-codefresh-pipelines-2h8g)
+- [Tutorial: Deploying Llama 3.1 405B on GKE Autopilot with 8 x A100 80GB](https://dev.to/samos123/tutorial-deploying-llama-31-405b-on-gke-autopilot-with-8-x-a100-80gb-a97)
+- [Can i get help with issues from github here?](https://dev.to/victorsesan/can-i-get-help-with-issues-from-github-here-38cp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
