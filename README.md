@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Hacktoberfest! - Week 1](https://dev.to/theoforger/hacktoberfest-week-1-2c13)
-- [Reatc.js : Keeping Components Pure](https://dev.to/sonaykara/reatcjs-keeping-components-pure-551j)
-- [Unlock Scalable Apps in 5 Minutes: Spring Reactive Revolutionizes Non-Blocking IO](https://dev.to/emilyjohnsonready/unlock-scalable-apps-in-5-minutes-spring-reactive-revolutionizes-non-blocking-io-2h4j)
-- [How To Simplify Assertions in Unit and Integration Tests with Verify in .NET](https://dev.to/antonmartyniuk/how-to-simplify-assertions-in-unit-and-integration-tests-with-verify-in-net-1com)
-- [Criando e manipulando um Banco de Dados](https://dev.to/a_audrey/criando-e-manipulando-um-banco-de-dados-p93)
+- [Git Mastery: A Comprehensive Guide to Essential Git Practices](https://dev.to/labex/git-mastery-a-comprehensive-guide-to-essential-git-practices-36jp)
+- [The Death of a Junior Developer](https://dev.to/devmercy/the-death-of-a-junior-developer-p33)
+- [A Comprehensive Guide to Database Design and Management 🗂️](https://dev.to/getvm/a-comprehensive-guide-to-database-design-and-management-eji)
+- [Do You Really Need &quot;useState&quot; for Everything? Exploring Alternatives](https://dev.to/byte-sized-news/do-you-really-need-usestate-for-everything-exploring-alternatives-107a)
+- [Code Structure with Dapper and Dapper.Contrib](https://dev.to/luizdario/code-structure-with-dapper-and-dappercontrib-2ige)
 <!-- BLOG-POST-LIST:END -->
 
 ---
