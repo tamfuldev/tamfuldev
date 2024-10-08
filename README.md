@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Tailwind CSS and Dark Mode](https://dev.to/ridoy_hasan/tailwind-css-and-dark-mode-l51)
-- [Artificial Intelligence &lpar;AI&rpar; and Machine Learning &lpar;ML&rpar;: Revolutionizing Industries 🌍🤖](https://dev.to/info_generalhazedawn_a3d/artificial-intelligence-ai-and-machine-learning-ml-revolutionizing-industries-24dm)
-- [QA vs QC: Understanding the difference in the context of software development](https://dev.to/suely_buque/qa-vs-qc-understanding-the-difference-in-the-context-of-software-development-18e2)
-- [Road Map to Become a Hero in Java](https://dev.to/muhammad_mubeen_4ce08edb7/road-map-to-become-a-hero-in-java-3k1p)
-- [The Rise of AI-Powered Smart Glasses: Innovation or Dystopia?](https://dev.to/haran_2194/the-rise-of-ai-powered-smart-glasses-innovation-or-dystopia-46li)
+- [10 NPM Packages for Productivity](https://dev.to/balrajola/10-npm-packages-for-productivity-1odb)
+- [HealthChecks](https://dev.to/ben-witt/healthchecks-4aie)
+- [Master JavaScript Promises: 10 Tricky Output Questions Every Developer Must Know! &lpar;Part 1&rpar;](https://dev.to/hitheshkumar/master-javascript-promises-10-tricky-output-questions-every-developer-must-know-part-1-1l43)
+- [👾 Tracking CI Metrics for Better Workflow Performance](https://dev.to/cicube/tracking-ci-metrics-for-better-workflow-performance-4ml9)
+- [Python 101: Introduction to Python as a Data Analytics Tool](https://dev.to/ochi3ng/python-101-introduction-to-python-as-a-data-analytics-tool-4hfb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
