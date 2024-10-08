@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Resilience in the Cloud - Fault Isolation Boundaries](https://dev.to/rdbatch02/resilience-in-the-cloud-fault-isolation-boundaries-4nid)
-- [Request for help from the open source community](https://dev.to/hviana/request-for-help-from-the-open-source-community-2354)
-- [Transpiler vs Ployfills](https://dev.to/padmajothi_athimoolam_23d/transpiler-vs-ployfills-1i5l)
-- [Criando um Simulador de Banco de Dados em Rust: Parsing, Compilação e Execução de Consultas SQL](https://dev.to/rtoledo/criando-um-simulador-de-banco-de-dados-em-rust-parsing-compilacao-e-execucao-de-consultas-sql-3hl)
-- [Entrepreneurship, MVP &amp; Startup Challenges &lpar;feat. Michael Sattler&rpar;](https://dev.to/vpalania/entrepreneurship-mvp-startup-challenges-feat-michael-sattler-23b5)
+- [Master Bidirectional One-to-One Relations in 5 Steps: Boost Spring Data JPA Efficiency](https://dev.to/emilyjohnsonready/master-bidirectional-one-to-one-relations-in-5-steps-boost-spring-data-jpa-efficiency-1m13)
+- [OSD - lab - 4 - toml configs](https://dev.to/krinskumar/osd-lab-4-toml-configs-pmg)
+- [How to Build a Multi-Role Routing System in React](https://dev.to/sheikmostafizur/how-to-build-a-multi-role-routing-system-in-react-4ohg)
+- [Ada Lovelace e a Inteligência Artificial: A Visão Pioneira Que Inspira a Inovação Tecnológica](https://dev.to/womakerscode/ada-lovelace-e-a-inteligencia-artificial-a-visao-pioneira-que-inspira-a-inovacao-tecnologica-4fl4)
+- [Impacto Social da Tecnologia à Ética: O Legado de Ada Lovelace](https://dev.to/womakerscode/impacto-social-da-tecnologia-a-etica-o-legado-de-ada-lovelace-10il)
 <!-- BLOG-POST-LIST:END -->
 
 ---
