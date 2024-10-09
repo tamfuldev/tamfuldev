@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Generating the API Endpoints of Your Smart Contract using the Kalp API Gateway](https://dev.to/kalpstudio/generating-the-api-endpoints-of-your-smart-contract-using-the-kalp-api-gateway-2bia)
-- [C# Design Pattern: Iterator &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-iterator-portugues-9cf)
-- [C# Design Pattern: Iterator](https://dev.to/juarezasjunior/c-design-pattern-iterator-5cgi)
-- [Dive into Next.js Server Actions: Simplifying Data Fetching &amp; Mutations](https://dev.to/nik-bogachenkov/dive-into-nextjs-server-actions-simplifying-data-fetching-mutations-2i7l)
-- [Top 7 React Hooks | ECommerce use case](https://dev.to/mrcaption49/top-7-react-hooks-2e0d)
+- [🌟 Golden Ratio CSS + Accessible Modals &lpar;Plus, UX in AI!&rpar;](https://dev.to/adam/golden-ratio-css-accessible-modals-plus-ux-in-ai-4m9k)
+- [React Basics~styling component/ css_ in _ js](https://dev.to/kkr0423/react-basicsstyling-component-css-in-js-5ejj)
+- [10 Dicas Basicas de Arquitetura de Código : 5 - Cuidado com integrações](https://dev.to/tbertuzzi/10-dicas-basicas-de-arquitetura-de-codigo-5-cuidado-com-integracoes-5237)
+- [Building Tetris using WebSocket and Svelte Stores](https://dev.to/ascarbek/building-tetris-using-websocket-and-svelte-stores-3ck0)
+- [Kickstart Hacktoberfest with These Exciting Open Source Projects to Contribute To! 🚀](https://dev.to/safdarali/kickstart-hacktoberfest-with-these-exciting-open-source-projects-to-contribute-to-2p0l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
