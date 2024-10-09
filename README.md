@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Refactoring ReadmeGenie](https://dev.to/htsagara/refactoring-readmegenie-4816)
-- [The Role of CDN in Enhancing Website Performance and Reliability.](https://dev.to/onwuemene/the-role-of-cdn-in-enhancing-website-performance-and-reliability-34b3)
-- [Angular LAB: let&#39;s create a Visibility Directive](https://dev.to/this-is-angular/angular-lab-lets-create-a-visibility-directive-5dpp)
-- [Monolithic Architecture in .NET Core with real-time example](https://dev.to/dotnetfullstackdev/monolithic-architecture-in-net-core-with-real-time-example-8k8)
-- [Dive into Node.js: A Collection of Free Programming Tutorials](https://dev.to/getvm/dive-into-nodejs-a-collection-of-free-programming-tutorials-3lji)
+- [DSA: Strings - interview preparation questions](https://dev.to/jayaprasanna_roddam/dsa-string-interview-preparation-questions-4c82)
+- [PHP/MySQL/Nginx/Redis Application Docker](https://dev.to/sidyguedes/phpmysqlnginxredis-application-docker-5fca)
+- [DSA: LinkedList interview preparation](https://dev.to/jayaprasanna_roddam/dsa-linkedlist-interview-preparation-3e9h)
+- [DSA: LinkedList - interview preparation questions](https://dev.to/jayaprasanna_roddam/dsa-linkedlist-interview-preparation-1iii)
+- [Test Principles](https://dev.to/zhiyuanamos/test-principles-454p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
