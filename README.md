@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Bitmap Index in ORACLE SQL](https://dev.to/mrcaption49/bitmap-index-in-oracle-sql-4g4h)
-- [How to Handle Dialog Pop-Ups While User is Typing?](https://dev.to/tanmayagrawal/how-to-handle-dialog-pop-ups-while-user-is-typing-36l6)
-- [Best Practices for Mapping in Spring Boot](https://dev.to/mohamed_amine_78123694764/best-practices-for-mapping-in-spring-boot-47l4)
-- [Python Lists Explained: A Beginner&#39;s Guide with Examples](https://dev.to/imyusufakhtar/python-lists-explained-a-beginners-guide-with-examples-ma1)
-- [WebSockets and Socket.IO: Real-Time Communication with Node.js](https://dev.to/imsushant12/websockets-and-socketio-real-time-communication-with-nodejs-2j5f)
+- [Demystifying how containers work](https://dev.to/brunociccarino/demystifying-how-containers-work-2nkl)
+- [How to Avoid Software Developer Burnout](https://dev.to/get_pieces/how-to-avoid-software-developer-burnout-4dla)
+- [URL-Shortener-APIs](https://dev.to/gautamkaran/url-shortener-apis-1f5l)
+- [Exploring Hobbies and Skills beyond Tech](https://dev.to/busycaesar/exploring-hobbies-and-skills-beyond-tech-d30)
+- [HTTP Status code a software developer should know.](https://dev.to/abkaaar/http-status-code-a-software-developer-should-know-1gd9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
