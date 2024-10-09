@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Personal Finance Management App with Django, HTMX, Alpine, Tailwind and Plaid](https://dev.to/earthcomfy/personal-finance-management-app-with-django-htmx-alpine-tailwind-and-plaid-2bl0)
-- [Ağ Keşif Eklentisinin Kullanımı ve Kavramlar](https://dev.to/aciklab/ag-kesif-eklentisinin-kullanimi-ve-kavramlar-3a66)
-- [The Importance of Software Development in Today&#39;s Digital Landscape](https://dev.to/blogposting/the-importance-of-software-development-in-todays-digital-landscape-pcc)
-- [Salesforce Performance Testing: A Comprehensive Guide](https://dev.to/ronika_kashyap/salesforce-performance-testing-a-comprehensive-guide-4gd3)
-- [Keşif Yöntemleri](https://dev.to/aciklab/kesif-yontemleri-49jd)
+- [Bitmap Index in ORACLE SQL](https://dev.to/mrcaption49/bitmap-index-in-oracle-sql-4g4h)
+- [How to Handle Dialog Pop-Ups While User is Typing?](https://dev.to/tanmayagrawal/how-to-handle-dialog-pop-ups-while-user-is-typing-36l6)
+- [Best Practices for Mapping in Spring Boot](https://dev.to/mohamed_amine_78123694764/best-practices-for-mapping-in-spring-boot-47l4)
+- [Python Lists Explained: A Beginner&#39;s Guide with Examples](https://dev.to/imyusufakhtar/python-lists-explained-a-beginners-guide-with-examples-ma1)
+- [WebSockets and Socket.IO: Real-Time Communication with Node.js](https://dev.to/imsushant12/websockets-and-socketio-real-time-communication-with-nodejs-2j5f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
