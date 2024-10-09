@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DSA: Strings - interview preparation questions](https://dev.to/jayaprasanna_roddam/dsa-string-interview-preparation-questions-4c82)
-- [PHP/MySQL/Nginx/Redis Application Docker](https://dev.to/sidyguedes/phpmysqlnginxredis-application-docker-5fca)
-- [DSA: LinkedList interview preparation](https://dev.to/jayaprasanna_roddam/dsa-linkedlist-interview-preparation-3e9h)
-- [DSA: LinkedList - interview preparation questions](https://dev.to/jayaprasanna_roddam/dsa-linkedlist-interview-preparation-1iii)
-- [Test Principles](https://dev.to/zhiyuanamos/test-principles-454p)
+- [Essential Concepts for JavaScript Developers](https://dev.to/shafayeat/essential-concepts-for-javascript-developers-5eo)
+- [What is Cloud Computing?](https://dev.to/adeolaogunkola/what-is-cloud-computing-pj4)
+- [Contribute to Akello: Learn and Build with Cutting-Edge Tech](https://dev.to/vselvarajijay/contribute-to-akello-learn-and-build-with-cutting-edge-tech-3k73)
+- [Contribute to Akello: Simplifying Data Integration for Healthcare](https://dev.to/vselvarajijay/contribute-to-akello-simplifying-data-integration-for-healthcare-51h6)
+- [Nomad Image Factory - Intro](https://dev.to/lykins/nomad-image-factory-intro-eeo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
