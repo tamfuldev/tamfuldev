@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Griptape: OSS Platform for Building AI Apps](https://dev.to/griptape/griptape-oss-platform-for-building-ai-apps-28ca)
-- [Beginner&#39;s Guide: Reducing Boilerplate in Angular When Performing Asynchronous Tasks with TaskStatusNotifierService](https://dev.to/rensjaspers/beginners-guide-reducing-boilerplate-in-angular-when-performing-asynchronous-tasks-with-taskstatusnotifierservice-1i8p)
-- [Part 1 — EC2 Uncovered: Your First Step into AWS Cloud Mastery](https://dev.to/mukhilpadmanabhan/part-1-ec2-uncovered-your-first-step-into-aws-cloud-mastery-c0j)
-- [Las herramientas imprescindibles para desarrolladores Full Stack en 2024](https://dev.to/adriangrahldev/las-herramientas-imprescindibles-para-desarrolladores-full-stack-en-2024-146g)
-- [Optimize Cloud Migration with Kubernetes](https://dev.to/craftworkai/optimize-cloud-migration-with-kubernetes-2kmg)
+- [Using AWS CloudHSM for FIPS 140-2 Validated Key Storage in Financial Services](https://dev.to/ikoh_sylva/using-aws-cloudhsm-for-fips-140-2-validated-key-storage-in-financial-services-4ck3)
+- [Angular Fundamentals :Understanding the Anatomy of an Angular Application](https://dev.to/moh_moh701/angular-fundamentals-understanding-the-anatomy-of-an-angular-application-5epg)
+- [LabEx Trending: Count Each Type Characters and More](https://dev.to/labex/labex-trending-count-each-type-characters-and-more-4ifb)
+- [How to prevent race conditions in Rails apps](https://dev.to/mharut/how-to-prevent-race-conditions-in-rails-apps-28o2)
+- [Tomorrow: Oct 10 - AI, ML and Computer Vision Meetup](https://dev.to/voxel51/tomorrow-oct-10-ai-ml-and-computer-vision-meetup-8c1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
