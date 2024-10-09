@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [This New UI Framework Is an Absolute Game Changer 😲](https://dev.to/safdarali/this-new-ui-framework-is-an-absolute-game-changer-3oa7)
-- [Understanding Stack Data Structure: A Step-by-Step Guide to Implementing Stack in JavaScript](https://dev.to/emmanuelayinde/understanding-stack-data-structure-a-step-by-step-guide-to-implementing-stack-in-javascript-3f62)
-- [Project 1: Unit Testing](https://dev.to/paperdrago/project-1-unit-testing-403m)
-- [Issue 65 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-65-of-aws-cloud-security-weekly-1a7o)
-- [Building High-Performance Full-Stack Apps with React, Node.js &amp; MongoDB: A Journey in Scalability, Speed &amp; Solutions](https://dev.to/mukhilpadmanabhan/building-high-performance-full-stack-apps-with-react-nodejs-mongodb-a-journey-in-scalability-speed-solutions-3fk0)
+- [Refactoring ReadmeGenie](https://dev.to/htsagara/refactoring-readmegenie-4816)
+- [The Role of CDN in Enhancing Website Performance and Reliability.](https://dev.to/onwuemene/the-role-of-cdn-in-enhancing-website-performance-and-reliability-34b3)
+- [Angular LAB: let&#39;s create a Visibility Directive](https://dev.to/this-is-angular/angular-lab-lets-create-a-visibility-directive-5dpp)
+- [Monolithic Architecture in .NET Core with real-time example](https://dev.to/dotnetfullstackdev/monolithic-architecture-in-net-core-with-real-time-example-8k8)
+- [Dive into Node.js: A Collection of Free Programming Tutorials](https://dev.to/getvm/dive-into-nodejs-a-collection-of-free-programming-tutorials-3lji)
 <!-- BLOG-POST-LIST:END -->
 
 ---
