@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Using AWS CloudHSM for FIPS 140-2 Validated Key Storage in Financial Services](https://dev.to/ikoh_sylva/using-aws-cloudhsm-for-fips-140-2-validated-key-storage-in-financial-services-4ck3)
-- [Angular Fundamentals :Understanding the Anatomy of an Angular Application](https://dev.to/moh_moh701/angular-fundamentals-understanding-the-anatomy-of-an-angular-application-5epg)
-- [LabEx Trending: Count Each Type Characters and More](https://dev.to/labex/labex-trending-count-each-type-characters-and-more-4ifb)
-- [How to prevent race conditions in Rails apps](https://dev.to/mharut/how-to-prevent-race-conditions-in-rails-apps-28o2)
-- [Tomorrow: Oct 10 - AI, ML and Computer Vision Meetup](https://dev.to/voxel51/tomorrow-oct-10-ai-ml-and-computer-vision-meetup-8c1)
+- [7 Productivity tools that I can&#39;t live without &lpar;5+ Bonus&rpar;](https://dev.to/thenomadevel/7-productivity-tools-that-i-cant-live-without-5-bonus-4p)
+- [Learn How Jim Made a Mess With the Pieces Confetti Cannon](https://dev.to/get_pieces/learn-how-jim-made-a-mess-with-the-pieces-confetti-cannon-17gp)
+- [Angular Fundamentals :Creating Your First Angular Project](https://dev.to/moh_moh701/angular-fundamentals-creating-your-first-angular-project-4b7i)
+- [09.10.24](https://dev.to/vorobey41/091024-3oh0)
+- [🚀 Leadership vs. Community Autonomy? 🚀](https://dev.to/madzimai/leadership-vs-community-autonomy-2ji3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
