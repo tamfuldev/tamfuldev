@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Observability hacks to unlock peak app performance l Part 1](https://dev.to/platformsh/observability-hacks-to-unlock-peak-app-performance-l-part-1-1fic)
-- [JetBrains RustRover Lite](https://dev.to/tekk_x/jetbrains-rustrover-lite-49hm)
-- [SafeLine WAF: Step-by-Step Guide to Secure Your Web Environment](https://dev.to/aeriewhole123/safeline-waf-step-by-step-guide-to-secure-your-web-environment-5h41)
-- [Different Types of Software Testing](https://dev.to/nazneenahmd/different-types-of-software-testing-10n2)
-- [Push to production on Fridays](https://dev.to/idanen/push-to-production-on-fridays-5e9g)
+- [How to register a virtual WhatsApp number](https://dev.to/whapicloud/how-to-register-a-virtual-whatsapp-number-5fp1)
+- [🚀 Hyperswitch Plugin Development Hackathon: Build, Compete, and Win Big! 🚀](https://dev.to/hyperswitchio/hyperswitch-plugin-development-hackathon-build-compete-and-win-big-nnb)
+- [Advanced Data Management with Apica: A Technical Guide](https://dev.to/apicaascent/advanced-data-management-with-apica-a-technical-guide-1dne)
+- [Top 10 Software Development Companies in the USA &lpar;2024&rpar;](https://dev.to/jonmiller/top-10-software-development-companies-in-the-us-2024-fm4)
+- [𝐆𝐢𝐭 𝐁𝐫𝐚𝐧𝐜𝐡 𝐂𝐨𝐦𝐦𝐚𝐧𝐝](https://dev.to/meghasharmaaaa/-3km3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
