@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🌟 Golden Ratio CSS + Accessible Modals &lpar;Plus, UX in AI!&rpar;](https://dev.to/adam/golden-ratio-css-accessible-modals-plus-ux-in-ai-4m9k)
-- [React Basics~styling component/ css_ in _ js](https://dev.to/kkr0423/react-basicsstyling-component-css-in-js-5ejj)
-- [10 Dicas Basicas de Arquitetura de Código : 5 - Cuidado com integrações](https://dev.to/tbertuzzi/10-dicas-basicas-de-arquitetura-de-codigo-5-cuidado-com-integracoes-5237)
-- [Building Tetris using WebSocket and Svelte Stores](https://dev.to/ascarbek/building-tetris-using-websocket-and-svelte-stores-3ck0)
-- [Kickstart Hacktoberfest with These Exciting Open Source Projects to Contribute To! 🚀](https://dev.to/safdarali/kickstart-hacktoberfest-with-these-exciting-open-source-projects-to-contribute-to-2p0l)
+- [Personal Finance Management App with Django, HTMX, Alpine, Tailwind and Plaid](https://dev.to/earthcomfy/personal-finance-management-app-with-django-htmx-alpine-tailwind-and-plaid-2bl0)
+- [Ağ Keşif Eklentisinin Kullanımı ve Kavramlar](https://dev.to/aciklab/ag-kesif-eklentisinin-kullanimi-ve-kavramlar-3a66)
+- [The Importance of Software Development in Today&#39;s Digital Landscape](https://dev.to/blogposting/the-importance-of-software-development-in-todays-digital-landscape-pcc)
+- [Salesforce Performance Testing: A Comprehensive Guide](https://dev.to/ronika_kashyap/salesforce-performance-testing-a-comprehensive-guide-4gd3)
+- [Keşif Yöntemleri](https://dev.to/aciklab/kesif-yontemleri-49jd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
