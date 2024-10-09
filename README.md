@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to register a virtual WhatsApp number](https://dev.to/whapicloud/how-to-register-a-virtual-whatsapp-number-5fp1)
-- [🚀 Hyperswitch Plugin Development Hackathon: Build, Compete, and Win Big! 🚀](https://dev.to/hyperswitchio/hyperswitch-plugin-development-hackathon-build-compete-and-win-big-nnb)
-- [Advanced Data Management with Apica: A Technical Guide](https://dev.to/apicaascent/advanced-data-management-with-apica-a-technical-guide-1dne)
-- [Top 10 Software Development Companies in the USA &lpar;2024&rpar;](https://dev.to/jonmiller/top-10-software-development-companies-in-the-us-2024-fm4)
-- [𝐆𝐢𝐭 𝐁𝐫𝐚𝐧𝐜𝐡 𝐂𝐨𝐦𝐦𝐚𝐧𝐝](https://dev.to/meghasharmaaaa/-3km3)
+- [Generating the API Endpoints of Your Smart Contract using the Kalp API Gateway](https://dev.to/kalpstudio/generating-the-api-endpoints-of-your-smart-contract-using-the-kalp-api-gateway-2bia)
+- [C# Design Pattern: Iterator &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-iterator-portugues-9cf)
+- [C# Design Pattern: Iterator](https://dev.to/juarezasjunior/c-design-pattern-iterator-5cgi)
+- [Dive into Next.js Server Actions: Simplifying Data Fetching &amp; Mutations](https://dev.to/nik-bogachenkov/dive-into-nextjs-server-actions-simplifying-data-fetching-mutations-2i7l)
+- [Top 7 React Hooks | ECommerce use case](https://dev.to/mrcaption49/top-7-react-hooks-2e0d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
