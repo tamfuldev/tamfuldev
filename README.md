@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GenAI Infrastructure: Hyperpod, entrenando modelos en K8s](https://dev.to/iaasgeek/genai-infrastructure-hyperpod-entrenando-modelos-en-k8s-360d)
-- [How to create a parallel echo server using goroutines in SPVM?](https://dev.to/yukikimoto/how-to-create-a-parallel-echo-server-using-goroutines-in-spvm-4e7p)
-- [What Is Packet Sniffing?](https://dev.to/s3cloudhub/what-is-packet-sniffing-1d75)
-- [Going Serverless with AWS Lambda: My Journey to Scalable Web Apps](https://dev.to/mukhilpadmanabhan/going-serverless-with-aws-lambda-my-journey-to-scalable-web-apps-22o)
-- [On a Journey from Nothing to Something](https://dev.to/neo-developer/on-a-journey-from-nothing-to-something-1ako)
+- [WebCodec - Sending and Receiving](https://dev.to/ethand91/webcodec-sending-and-receiving-47m0)
+- [How to Automate Social Media Posting with Python](https://dev.to/trixsec/how-to-automate-social-media-posting-with-python-ag1)
+- [Tech Spotlight: Daily Tech News](https://dev.to/techdogs_inc/tech-spotlight-daily-tech-news-50o1)
+- [How To Push Eclipse Project To GitHub](https://dev.to/s3cloudhub/how-to-push-eclipse-project-to-github-3nkc)
+- [Top 10 Testing Strategies to Ensure Code Quality in Software Development](https://dev.to/adityabhuyan/top-10-testing-strategies-to-ensure-code-quality-in-software-development-20h9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
