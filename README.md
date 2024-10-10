@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Cracking Software Engineer Interview](https://dev.to/akdevcraft/cracking-software-engineer-interview-mp3)
-- [Writing Flexible Enums in PHP with Interfaces and Traits](https://dev.to/nasrulhazim/writing-flexible-enums-in-php-with-interfaces-and-traits-46kh)
-- [Working Student/Intern Search in Germany &lpar;Reality&rpar;](https://dev.to/shivansh_singhal_f35f7af0/working-studentintern-search-in-germany-reality-50kn)
-- [AI Quiz Creator](https://dev.to/blueedgetechno/ai-quiz-creator-1d52)
-- [Created a dApp storing data on Pinata - IPFS](https://dev.to/hgky95/created-a-dapp-storing-data-on-pinata-ipfs-287h)
+- [Creating a backup table in ORACLE SQL](https://dev.to/mrcaption49/creating-a-backup-table-in-oracle-sql-1p31)
+- [Adding motion to 3D models with Framer Motion and Three.js](https://dev.to/_3b92a59b19aece3845cf/adding-motion-to-3d-models-with-framer-motion-and-threejs-2phh)
+- [Integrasi Tailwind CSS dengan React JS dan Vitejs](https://dev.to/ramadhan002/integrasi-tailwind-css-dengan-react-js-dan-vitejs-gjk)
+- [How to create timer Counter with Html, Css, and Javascript.](https://dev.to/unrealdevz/how-to-create-timer-counter-with-html-css-and-javascript-26b6)
+- [Chunking in AI - The Secret Sauce You&#39;re Missing](https://dev.to/aws-builders/chunking-in-ai-the-secret-sauce-youre-missing-5dfa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
