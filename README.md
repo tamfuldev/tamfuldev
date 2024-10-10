@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Web Accessibility Checklist For Developers](https://dev.to/nazneenahmad/web-accessibility-checklist-for-developers-17hp)
-- [Read cloud specific configuration from configuration files](https://dev.to/grkashyap/read-cloud-specific-configuration-from-configuration-files-5db0)
-- [How to Build Stunning Websites with Modern Front-End Development Techniques](https://dev.to/ashwin_1213/how-to-build-stunning-websites-with-modern-front-end-development-techniques-356g)
-- [Did You Know? Prometheus Can Scrape Itself for Monitoring!](https://dev.to/oliverbennet/did-you-know-prometheus-can-scrape-itself-for-monitoring-mea)
-- [How to Use ZERO GPT](https://dev.to/edenwheeler/how-to-use-zero-gpt-52pd)
+- [Detective Simulator - Powered by pinata](https://dev.to/jainireshj/detective-simulator-powered-by-pinata-4c9b)
+- [What is an F1 score?](https://dev.to/eyer-ai/what-is-an-f1-score-59m3)
+- [Maximising User Engagement in Mental Health Apps with Embedded Video Conferencing](https://dev.to/digitalsamba/maximising-user-engagement-in-mental-health-apps-with-embedded-video-conferencing-2efl)
+- [🤖 Top 10 AI Tools Every Developer Should Know in 2024 🚀](https://dev.to/hamzakhan/top-10-ai-tools-every-developer-should-know-in-2024-lel)
+- [Prometheus vs CloudWatch for Cloud Native Applications &lpar;Updated in 2024&rpar;](https://dev.to/infracloud/prometheus-vs-cloudwatch-for-cloud-native-applications-updated-in-2024-4na3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
