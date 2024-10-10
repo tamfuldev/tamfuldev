@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Python Lambda Functions: A Comprehensive Guide](https://dev.to/imyusufakhtar/understanding-python-lambda-functions-a-comprehensive-guide-4b6j)
-- [Streamline Your Car Rentals with Saksh Car Reservation System](https://dev.to/susheel_kumar/streamline-your-car-rentals-with-saksh-car-reservation-system-33gp)
-- [3 Shocking Ways to Run Stringified Code in Java 8+](https://dev.to/emilyjohnsonready/3-shocking-ways-to-run-stringified-code-in-java-8-37lo)
-- [Understanding Python Functions: Definition, Parameters, and Return Values](https://dev.to/imyusufakhtar/understanding-python-functions-definition-parameters-and-return-values-15i9)
-- [Serverless or Containers? Unlock the Secret to Choosing the Perfect Architecture for Your App](https://dev.to/mukhilpadmanabhan/serverless-or-containers-unlock-the-secret-to-choosing-the-perfect-architecture-for-your-app-1kci)
+- [The Most Annoying Cookie Banner Ever Hackathon 🤬🍪](https://dev.to/wasp/the-most-annoying-cookie-banner-ever-hackathon-2b6i)
+- [Dive into Next.js App Router: Building Dynamic, Nested, and Static Pages](https://dev.to/nik-bogachenkov/dive-into-nextjs-app-router-building-dynamic-nested-and-static-pages-4e22)
+- [C# Design Pattern: Mediator &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-mediator-portugues-3kh0)
+- [C# Design Pattern: Mediator](https://dev.to/juarezasjunior/c-design-pattern-mediator-43g3)
+- [The Adventures of Blink S2e5: Source Control with GitHub](https://dev.to/linkbenjamin/the-adventures-of-blink-s2e5-source-control-with-github-23cp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
