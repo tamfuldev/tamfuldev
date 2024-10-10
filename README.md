@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 31. Technical debt](https://dev.to/kiolk/day-31-technical-debt-e9n)
-- [The process of enshittification - How good platforms go bad](https://dev.to/confooca/the-process-of-enshittification-how-good-platforms-go-bad-pmn)
-- [My new Sass project taglog.io](https://dev.to/dsaga/my-new-sass-project-taglogio-39g8)
-- [Unlock the Power of Database Management: 8 Free Tutorials for Aspiring Data Professionals](https://dev.to/getvm/unlock-the-power-of-database-management-8-free-tutorials-for-aspiring-data-professionals-1fjg)
-- [State Management in React: When to Use useState, useReducer, and useRef](https://dev.to/paharihacker/state-management-in-react-when-to-use-usestate-usereducer-and-useref-1dn9)
+- [Online Visual Novel in Godot: Case Study on Sentou Gakuen](https://dev.to/godot/online-visual-novel-in-godot-case-study-on-sentou-gakuen-33ce)
+- [Be Real: How to Use AI Writing Tools and Stay Authentic](https://dev.to/jimmymcbride/be-real-how-to-use-ai-writing-tools-and-stay-authentic-26pp)
+- [My Hacktobefest Contribution To DiceDB](https://dev.to/kannav02/my-hacktobefest-contribution-to-dicedb-4egg)
+- [Unlocking your ADHD Superpowers](https://dev.to/codingcatdev/unlocking-your-adhd-superpowers-2p1a)
+- [Is this a bug in Java?](https://dev.to/nisabmohd/is-this-a-bug-in-java-49m7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
