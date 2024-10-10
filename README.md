@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 AI Tools for Coding Every Developer Should Use](https://dev.to/foxinfotech/top-10-ai-tools-for-coding-every-developer-should-use-4il9)
+- [Fixing “Connection Refused” Error Between pgAdmin and Postgres in Docker](https://dev.to/deni_sugiarto_1a01ad7c3fb/fixing-connection-refused-error-between-pgadmin-and-postgres-in-docker-14ge)
 - [Creating a backup table in ORACLE SQL](https://dev.to/mrcaption49/creating-a-backup-table-in-oracle-sql-1p31)
 - [Adding motion to 3D models with Framer Motion and Three.js](https://dev.to/_3b92a59b19aece3845cf/adding-motion-to-3d-models-with-framer-motion-and-threejs-2phh)
 - [Integrasi Tailwind CSS dengan React JS dan Vitejs](https://dev.to/ramadhan002/integrasi-tailwind-css-dengan-react-js-dan-vitejs-gjk)
-- [How to create timer Counter with Html, Css, and Javascript.](https://dev.to/unrealdevz/how-to-create-timer-counter-with-html-css-and-javascript-26b6)
-- [Chunking in AI - The Secret Sauce You&#39;re Missing](https://dev.to/aws-builders/chunking-in-ai-the-secret-sauce-youre-missing-5dfa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
