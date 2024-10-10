@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Turbopack vs Webpack: Has Webpack’s Creator Built Its Own Replacement?](https://dev.to/charliesay/turbopack-vs-webpack-has-webpacks-creator-built-its-own-replacement-al4)
-- [Quick Byte: A very specific error in React Native iOS](https://dev.to/bytehala/quick-byte-a-very-specific-error-in-react-native-ios-2i58)
-- [Trigger Lambda Function From Amazon SQS - &lpar;Let&#39;s Build 🏗️ Series&rpar;](https://dev.to/aws-heroes/trigger-lambda-function-from-amazon-sqs-lets-build-series-5h1k)
-- [Understanding Queues Data Structure: Mastering FIFO Principle in JavaScript](https://dev.to/emmanuelayinde/understanding-queues-data-structure-mastering-fifo-principle-in-javascript-8di)
-- [Build an AI Discord Bot in Rust with Rig: A Step-by-Step Guide](https://dev.to/0thtachi/build-an-ai-discord-bot-in-rust-with-rig-a-step-by-step-guide-5d0d)
+- [Cracking Software Engineer Interview](https://dev.to/akdevcraft/cracking-software-engineer-interview-mp3)
+- [Writing Flexible Enums in PHP with Interfaces and Traits](https://dev.to/nasrulhazim/writing-flexible-enums-in-php-with-interfaces-and-traits-46kh)
+- [Working Student/Intern Search in Germany &lpar;Reality&rpar;](https://dev.to/shivansh_singhal_f35f7af0/working-studentintern-search-in-germany-reality-50kn)
+- [AI Quiz Creator](https://dev.to/blueedgetechno/ai-quiz-creator-1d52)
+- [Created a dApp storing data on Pinata - IPFS](https://dev.to/hgky95/created-a-dapp-storing-data-on-pinata-ipfs-287h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
