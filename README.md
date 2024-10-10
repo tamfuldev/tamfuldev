@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Most Annoying Cookie Banner Ever Hackathon 🤬🍪](https://dev.to/wasp/the-most-annoying-cookie-banner-ever-hackathon-2b6i)
-- [Dive into Next.js App Router: Building Dynamic, Nested, and Static Pages](https://dev.to/nik-bogachenkov/dive-into-nextjs-app-router-building-dynamic-nested-and-static-pages-4e22)
-- [C# Design Pattern: Mediator &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-mediator-portugues-3kh0)
-- [C# Design Pattern: Mediator](https://dev.to/juarezasjunior/c-design-pattern-mediator-43g3)
-- [The Adventures of Blink S2e5: Source Control with GitHub](https://dev.to/linkbenjamin/the-adventures-of-blink-s2e5-source-control-with-github-23cp)
+- [Building a Chat with PDFs using Pinata,OpenAI,, and Streamlit](https://dev.to/jagroop2001/building-a-chat-with-pdfs-using-pinataopenai-and-streamlit-3jb7)
+- [🚀 React Performance Optimization: Avoiding Common Pitfalls ⚡](https://dev.to/erasmuskotoka/react-performance-optimization-avoiding-common-pitfalls-30da)
+- [Best DAST Tools to Know About](https://dev.to/sambishop/best-dast-tools-to-know-about-4kh7)
+- [Why Tech Learners Should Never Stop Reading: Unlocking the Path to Success](https://dev.to/bhuwan71/why-tech-learners-should-never-stop-reading-unlocking-the-path-to-success-3dm3)
+- [Random Pokémon Generator](https://dev.to/peng_li_61507f5f744c1b66e/random-pokemon-generator-4a2i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
