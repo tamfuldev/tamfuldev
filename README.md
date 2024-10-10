@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Nuevo año y Nueva Startup](https://dev.to/lucatonyraudales/nuevo-ano-y-nueva-startup-47a3)
-- [Figma 101: A Beginner’s Guide to Collaborative Design 🎨🤝](https://dev.to/info_generalhazedawn_a3d/figma-101-a-beginners-guide-to-collaborative-design-2gcl)
-- [Figma vs. Sketch – Which Design Tool is Right for You?](https://dev.to/swhabitation/figma-vs-sketch-which-design-tool-is-right-for-you-f0c)
-- [CSS Flexbox: Creating a Hero Section](https://dev.to/tailwine/css-flexbox-creating-a-hero-section-2koj)
-- [Introducing Note Forge: Your Hub for University Resources](https://dev.to/namankatewa/introducing-note-forge-your-hub-for-university-resources-2mjm)
+- [Web Accessibility Checklist For Developers](https://dev.to/nazneenahmad/web-accessibility-checklist-for-developers-17hp)
+- [Read cloud specific configuration from configuration files](https://dev.to/grkashyap/read-cloud-specific-configuration-from-configuration-files-5db0)
+- [How to Build Stunning Websites with Modern Front-End Development Techniques](https://dev.to/ashwin_1213/how-to-build-stunning-websites-with-modern-front-end-development-techniques-356g)
+- [Did You Know? Prometheus Can Scrape Itself for Monitoring!](https://dev.to/oliverbennet/did-you-know-prometheus-can-scrape-itself-for-monitoring-mea)
+- [How to Use ZERO GPT](https://dev.to/edenwheeler/how-to-use-zero-gpt-52pd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
