@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Scaling with Probabilistic Techniques in System Design: Bloom Filters](https://dev.to/shavin_anjitha/scaling-with-probabilistic-techniques-in-system-design-bloom-filters-jjf)
-- [Mastering Java: Roadmap to Complete Mastery](https://dev.to/wilsonjuma254/mastering-java-roadmap-to-complete-mastery-ojk)
-- [Handling Outliers in Python - IQR Method](https://dev.to/allan-pg/handling-outliers-in-python-iqr-method-5afh)
-- [Week 5: Refactoring](https://dev.to/mpalhutchinson/week-5-refactoring-43ke)
-- [A detailed process specification](https://dev.to/ndungu_jeffersonmarira_/a-detailed-process-specification-57jd)
+- [Kotlin DataFrame ❤️ Arrow](https://dev.to/fb64/kotlin-dataframe-arrow-54kh)
+- [Simplifying software deployment: a manifesto for developers](https://dev.to/k0dep/simplifying-software-deployment-a-manifesto-for-developers-5e7p)
+- [How to Build Smarter AI Apps and Reduce Hallucinations with RAG](https://dev.to/ragieai/how-to-build-smarter-ai-apps-and-reduce-hallucinations-with-rag-79i)
+- [Python &amp; Data Structures Part 2: type&lpar;&rpar; Keyword](https://dev.to/abeck617/python-data-structures-part-2-type-keyword-3k1c)
+- [AWS IPs Explained: Private, Public, and Elastic — What’s the Difference?](https://dev.to/mukhilpadmanabhan/aws-ips-explained-private-public-and-elastic-whats-the-difference-1n0p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
