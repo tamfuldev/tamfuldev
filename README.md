@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Online Visual Novel in Godot: Case Study on Sentou Gakuen](https://dev.to/godot/online-visual-novel-in-godot-case-study-on-sentou-gakuen-33ce)
-- [Be Real: How to Use AI Writing Tools and Stay Authentic](https://dev.to/jimmymcbride/be-real-how-to-use-ai-writing-tools-and-stay-authentic-26pp)
-- [My Hacktobefest Contribution To DiceDB](https://dev.to/kannav02/my-hacktobefest-contribution-to-dicedb-4egg)
-- [Unlocking your ADHD Superpowers](https://dev.to/codingcatdev/unlocking-your-adhd-superpowers-2p1a)
-- [Is this a bug in Java?](https://dev.to/nisabmohd/is-this-a-bug-in-java-49m7)
+- [Scaling with Probabilistic Techniques in System Design: Bloom Filters](https://dev.to/shavin_anjitha/scaling-with-probabilistic-techniques-in-system-design-bloom-filters-jjf)
+- [Mastering Java: Roadmap to Complete Mastery](https://dev.to/wilsonjuma254/mastering-java-roadmap-to-complete-mastery-ojk)
+- [Handling Outliers in Python - IQR Method](https://dev.to/allan-pg/handling-outliers-in-python-iqr-method-5afh)
+- [Week 5: Refactoring](https://dev.to/mpalhutchinson/week-5-refactoring-43ke)
+- [A detailed process specification](https://dev.to/ndungu_jeffersonmarira_/a-detailed-process-specification-57jd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
