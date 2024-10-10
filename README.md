@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [15 Essential Tools for Mastering Git Version Control in 2024](https://dev.to/shafayeat/15-essential-tools-for-mastering-git-version-control-in-2024-47ap)
-- [Git Secrets Unveiled: 20 Advanced Techniques for Efficient Coding](https://dev.to/usman_awan_c30bc1fdb70636/git-secrets-unveiled-20-advanced-techniques-for-efficient-coding-6h7)
-- [What kind of books, novels or movies inspired you to be a better programmer?](https://dev.to/prahladyeri/what-kind-of-books-novels-or-movies-inspired-you-to-be-a-better-programmer-2ml1)
-- [Rueen Project &lpar;AI-Driven Privacy Management System&rpar;](https://dev.to/rueen_project_1cdea59bc49/rueen-project-ai-driven-privacy-management-system-3dic)
-- [Nmap scanning techniques](https://dev.to/vasanth_62_61_6p_61_6r/nmap-scanning-techniques-b9p)
+- [Day 31. Technical debt](https://dev.to/kiolk/day-31-technical-debt-e9n)
+- [The process of enshittification - How good platforms go bad](https://dev.to/confooca/the-process-of-enshittification-how-good-platforms-go-bad-pmn)
+- [My new Sass project taglog.io](https://dev.to/dsaga/my-new-sass-project-taglogio-39g8)
+- [Unlock the Power of Database Management: 8 Free Tutorials for Aspiring Data Professionals](https://dev.to/getvm/unlock-the-power-of-database-management-8-free-tutorials-for-aspiring-data-professionals-1fjg)
+- [State Management in React: When to Use useState, useReducer, and useRef](https://dev.to/paharihacker/state-management-in-react-when-to-use-usestate-usereducer-and-useref-1dn9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
