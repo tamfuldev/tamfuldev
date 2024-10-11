@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Deno 2 is Finally Here: Key Highlights](https://dev.to/grenishrai/deno-2-is-finally-here-key-highlights-35ml)
-- [5 JavaScript Patterns Every Developer Should Know in 2024](https://dev.to/shafayeat/5-javascript-patterns-every-developer-should-know-in-2024-1n11)
-- [Understanding JavaScript&#39;s Event Loop: A Simple Cookie-Making Analogy 🍪](https://dev.to/ichintansoni/understanding-javascripts-event-loop-a-simple-cookie-making-analogy-3485)
-- [Batch Gradient Descent examples without `DataLoader&lpar;&rpar;` in PyTorch](https://dev.to/hyperkai/batch-gradient-descent-examples-without-dataloader-in-pytorch-51i6)
-- [Building a React Text Comparison Tool - From POC to NPM Package](https://dev.to/creowistech/building-a-react-text-comparison-tool-from-poc-to-npm-package-24p8)
+- [#71 — Take Values of Adjacent Rows in The Same Group &lpar;Search &amp; Filter within Adjacent Intervals&rpar;](https://dev.to/judith677/71-take-values-of-adjacent-rows-in-the-same-group-search-filter-within-adjacent-intervals-3ia1)
+- [Golden-Retriever: High-Fidelity Agentic Retrieval Augmented Generation for Industrial Knowledge Base](https://dev.to/tutti/golden-retriever-high-fidelity-agentic-retrieval-augmented-generation-for-industrial-knowledge-base-3nl8)
+- [Custom Keyboard](https://dev.to/nalaini_d446342c9318cff94/custom-keyboard-47bg)
+- [The Business Impact of a Cyberattack in 2024: A Deep Dive](https://dev.to/donesrom/the-business-impact-of-a-cyberattack-in-2024-a-deep-dive-ndo)
+- [How to Apply Agile Principles Across Industries: Beyond Software Development](https://dev.to/adityabhuyan/how-to-apply-agile-principles-across-industries-beyond-software-development-1joa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
