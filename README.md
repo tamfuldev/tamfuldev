@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Start a homelab &lpar;for beginners&rpar;](https://dev.to/decentropy/start-a-homelab-for-beginners-4pno)
-- [Update and delete records on a DWN](https://dev.to/chrissiku/update-and-delete-records-on-a-dwn-24n7)
-- [Query and Read records on a DWN](https://dev.to/chrissiku/query-and-read-records-on-a-dwn-1pma)
-- [Day 0 of 365 &lpar;10 Million Yen Japan Career Switch Challenge&rpar;](https://dev.to/kameken100/day-0-of-365-10-million-yen-japan-career-switch-challenge-2l8i)
-- [Create records on a DWN](https://dev.to/chrissiku/create-records-on-a-dwn-44il)
+- [Learn how to build AI assisted blog from scratch](https://dev.to/ivictbor/learn-how-to-build-ai-assisted-blog-from-scratch-4fl1)
+- [Navigating Enterprise-Level Software Development with AI](https://dev.to/get_pieces/navigating-enterprise-level-software-development-with-ai-old)
+- [The Enigma of “Ghost” Jobs in the IT Market: A Frustrating Reality for Technology Professionals](https://dev.to/kayon_ariel/the-enigma-of-ghost-jobs-in-the-it-market-a-frustrating-reality-for-technology-professionals-53e0)
+- [Memorizing on my first days learning how to code..](https://dev.to/roy_weru/memorizing-on-my-first-days-learning-how-to-code-1he1)
+- [Finding Double Existence and Applying Luhn&#39;s Algorithm](https://dev.to/aplgr/finding-double-existence-and-applying-luhns-algorithm-44o3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
