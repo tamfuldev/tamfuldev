@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Class va Object](https://dev.to/asilbek_ibragimov_a0c27cc/class-va-object-flk)
-- [1. Class va Object](https://dev.to/sunnat_qayumov/class-va-object-nok)
-- [Who is a Hacker?](https://dev.to/scofieldidehen/who-is-a-hacker-481n)
-- [The Struggle of Passing Coding Tests: LeetCode and Algorithm Mastery](https://dev.to/b3r3ch1t/the-struggle-of-passing-coding-tests-leetcode-and-algorithm-mastery-ppp)
-- [Lightweight Web Shell Scanner](https://dev.to/worldsavior/lightweight-web-shell-scanner-46pj)
+- [6. Loops&lpar;for, while, do while&rpar;](https://dev.to/sunnat_qayumov/6-loopsfor-while-do-while-2cgd)
+- [Operators](https://dev.to/asilbek_ibragimov_a0c27cc/operators-33l9)
+- [Packages in PLSQL](https://dev.to/mrcaption49/packages-in-plsql-5ci3)
+- [5. Operators&lpar;if, else if, else, ternary operator, switch&rpar;](https://dev.to/sunnat_qayumov/5-operatorsif-else-if-else-ternary-operator-switch-lhm)
+- [Building a Country-to-Flag Emoji Converter App with Vite, TypeScript, and Tolgee](https://dev.to/anni/building-a-country-to-flag-emoji-converter-app-with-vite-typescript-and-tolgee-29e9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
