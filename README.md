@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Filament Breezy: set storage disk for avatar](https://dev.to/syahzul/filament-breezy-set-storage-disk-for-avatar-3ee7)
-- [Replace All Duplicates of Each Word with Underlines #eg55](https://dev.to/esproc_spl/replace-all-duplicates-of-each-word-with-underlines-eg55-2e9n)
-- [Understaing Algorithm Complexity: A Deep Dive into Big O Notation With JavaScript](https://dev.to/kevin-uehara/understaing-algorithm-complexity-a-deep-dive-into-big-o-notation-with-javascript-2f2o)
-- [962. Maximum Width Ramp](https://dev.to/mdarifulhaque/962-maximum-width-ramp-2e56)
-- [IT Security Made Simple: Protecting Your Digital Life Like a Pro! 🔒](https://dev.to/enzo_dechaene/it-security-made-simple-protecting-your-digital-life-like-a-pro-5f4g)
+- [Deno 2 is Finally Here: Key Highlights](https://dev.to/grenishrai/deno-2-is-finally-here-key-highlights-35ml)
+- [5 JavaScript Patterns Every Developer Should Know in 2024](https://dev.to/shafayeat/5-javascript-patterns-every-developer-should-know-in-2024-1n11)
+- [Understanding JavaScript&#39;s Event Loop: A Simple Cookie-Making Analogy 🍪](https://dev.to/ichintansoni/understanding-javascripts-event-loop-a-simple-cookie-making-analogy-3485)
+- [Batch Gradient Descent examples without `DataLoader&lpar;&rpar;` in PyTorch](https://dev.to/hyperkai/batch-gradient-descent-examples-without-dataloader-in-pytorch-51i6)
+- [Building a React Text Comparison Tool - From POC to NPM Package](https://dev.to/creowistech/building-a-react-text-comparison-tool-from-poc-to-npm-package-24p8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
