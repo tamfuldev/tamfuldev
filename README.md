@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Goroutines for Concurrent Processing in Go](https://dev.to/neelp03/how-to-use-goroutines-for-concurrent-processing-in-go-34ph)
-- [Develop on a branch of your remote cluster with Tilt and Kardinal](https://dev.to/tc87/develop-on-a-branch-of-your-remote-cluster-with-tilt-and-kardinal-59mh)
-- [OAuth and OpenID Connect: Protecting User Authentication Properly](https://dev.to/okoye_ndidiamaka_5e3b7d30/oauth-and-openid-connect-protecting-user-authentication-properly-2mcm)
-- [OTEL Auto Instrumentation Demo for SpringBoot](https://dev.to/aws-builders/otel-auto-instrumentation-demo-for-springboot-gmk)
-- [Mapping inheritance hierarchies with MapStruct](https://dev.to/jholsch/mapping-inheritance-hierarchies-with-mapstruct-7p0)
+- [Start a homelab &lpar;for beginners&rpar;](https://dev.to/decentropy/start-a-homelab-for-beginners-4pno)
+- [Update and delete records on a DWN](https://dev.to/chrissiku/update-and-delete-records-on-a-dwn-24n7)
+- [Query and Read records on a DWN](https://dev.to/chrissiku/query-and-read-records-on-a-dwn-1pma)
+- [Day 0 of 365 &lpar;10 Million Yen Japan Career Switch Challenge&rpar;](https://dev.to/kameken100/day-0-of-365-10-million-yen-japan-career-switch-challenge-2l8i)
+- [Create records on a DWN](https://dev.to/chrissiku/create-records-on-a-dwn-44il)
 <!-- BLOG-POST-LIST:END -->
 
 ---
