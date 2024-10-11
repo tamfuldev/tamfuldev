@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [6. Loops&lpar;for, while, do while&rpar;](https://dev.to/sunnat_qayumov/6-loopsfor-while-do-while-2cgd)
-- [Operators](https://dev.to/asilbek_ibragimov_a0c27cc/operators-33l9)
-- [Packages in PLSQL](https://dev.to/mrcaption49/packages-in-plsql-5ci3)
-- [5. Operators&lpar;if, else if, else, ternary operator, switch&rpar;](https://dev.to/sunnat_qayumov/5-operatorsif-else-if-else-ternary-operator-switch-lhm)
-- [Building a Country-to-Flag Emoji Converter App with Vite, TypeScript, and Tolgee](https://dev.to/anni/building-a-country-to-flag-emoji-converter-app-with-vite-typescript-and-tolgee-29e9)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4bm7)
+- [Scripting in DevOps: A Complete Guide from Beginner to Advanced](https://dev.to/prodevopsguytech/scripting-in-devops-a-complete-guide-from-beginner-to-advanced-noa)
+- [Developing FiftyOne Computer Vision Plugins Workshop - Oct 9, 2024](https://dev.to/voxel51/developing-fiftyone-computer-vision-plugins-workshop-oct-9-2024-4nmg)
+- [Object-Orinented Programming](https://dev.to/asilbek_ibragimov_a0c27cc/object-orinented-programming-11l3)
+- [Array](https://dev.to/firdavs_mukhsimov_9f62550/array-1g94)
 <!-- BLOG-POST-LIST:END -->
 
 ---
