@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Evolution of Wearable Tech: What’s Next for 2024? ⌚🧬](https://dev.to/mohdsajjadzakirr/the-evolution-of-wearable-tech-whats-next-for-2024-3pbo)
-- [DevOps Tools to Streamline Your CI/CD Pipeline 🔄🛠️](https://dev.to/mohdsajjadzakirr/devops-tools-to-streamline-your-cicd-pipeline-2bf5)
-- [Game-Changing AI Tools to Boost Your Development Workflow 🧠💡](https://dev.to/mohdsajjadzakirr/10-game-changing-ai-tools-to-boost-your-development-workflow-1ib4)
-- [JAX vs PyTorch: Comparing Two Powerhouses in ML Frameworks](https://dev.to/get_pieces/jax-vs-pytorch-comparing-two-powerhouses-in-ml-frameworks-70g)
-- [Responsive React Dashboard with Tailwind](https://dev.to/kingsley_joseph_9410/responsive-react-dashboard-with-tailwind-24pg)
+- [Fibonacci, Integer overflow, memoization e um exagero](https://dev.to/joseiedo/fibonacci-integer-overflow-memoization-e-um-exagero-55eh)
+- [Passing a Form in Microsoft Access](https://dev.to/richardrost/passing-a-form-in-microsoft-access-1og7)
+- [Open-Source👨🏾‍💻🌍🔬](https://dev.to/taariqelliott/open-source-5h9l)
+- [Security news weekly round-up - 11th October 2024](https://dev.to/ziizium/security-news-weekly-round-up-11th-october-2024-p4b)
+- [Hacktoberfest week 2- Shardeum Validator Dashboard](https://dev.to/htsagara/hacktoberfest-week-2-shardeum-validator-dashboard-dl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
