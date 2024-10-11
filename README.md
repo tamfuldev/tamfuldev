@@ -16,7 +16,7 @@
 # Latest stack oveflow activity
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><tr><td>ExtJS / PHP : Strange effects</td><td>https://stackoverflow.com/questions/79078260/extjs-php-strange-effects</td></tr><tr><td>Styling PHP directory list [closed]</td><td>https://stackoverflow.com/questions/79078151/styling-php-directory-list</td></tr><tr><td>Inertia share is not working from event listener</td><td>https://stackoverflow.com/questions/79078140/inertia-share-is-not-working-from-event-listener</td></tr><tr><td>How to use Sonata User Bundle without email field?</td><td>https://stackoverflow.com/questions/79078061/how-to-use-sonata-user-bundle-without-email-field</td></tr><tr><td>TCPDF &quot;unable to read file: helvetica.json&quot;</td><td>https://stackoverflow.com/questions/79078019/tcpdf-unable-to-read-file-helvetica-json</td></tr><!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:START --><tr><td>symfony / validator 6.3 and swagger , type array</td><td>https://stackoverflow.com/questions/79078546/symfony-validator-6-3-and-swagger-type-array</td></tr><tr><td>Trouble with php query, lost a bit</td><td>https://stackoverflow.com/questions/79078544/trouble-with-php-query-lost-a-bit</td></tr><tr><td>Create continuous date intervals from an unsorted array of dates [closed]</td><td>https://stackoverflow.com/questions/79078455/create-continuous-date-intervals-from-an-unsorted-array-of-dates</td></tr><tr><td>ExtJS / PHP : Strange effects</td><td>https://stackoverflow.com/questions/79078260/extjs-php-strange-effects</td></tr><tr><td>Styling PHP directory list [closed]</td><td>https://stackoverflow.com/questions/79078151/styling-php-directory-list</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 
 ---
