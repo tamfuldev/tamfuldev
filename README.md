@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying High Availability SafeLine WAF on K3s&lpar;Part 3&rpar;](https://dev.to/carrie_luo1/deploying-high-availability-safeline-waf-on-k3spart-3-12bj)
-- [The Role of Blockchain in Fintech: Top Development Companies Making a Difference](https://dev.to/kzier/the-role-of-blockchain-in-fintech-top-development-companies-making-a-difference-33ja)
-- [Seeking Web Developers for a Community-Driven Educational Platform &lpar;Pro Bono/Volunteer&rpar;](https://dev.to/s-xaashi/seeking-web-developers-for-a-community-driven-educational-platform-pro-bonovolunteer-1c14)
-- [Streamlining MVVM in .NET MAUI with Relay Commands](https://dev.to/tmcd054/streamlining-mvvm-in-net-maui-with-relay-commands-ii1)
-- [&#39;Takiwatanga&#39;, a kinder way to describe Autism](https://dev.to/ajparadith/takiwatanga-a-kinder-way-to-describe-autism-30o5)
+- [How to enable/disable PHP native functions – php.ini Tutorial](https://dev.to/inspector/how-to-enabledisable-php-native-functions-phpini-tutorial-kpg)
+- [Easy examples of LINQ Best Practices for Senior .NET Developers](https://dev.to/bytehide/easy-examples-of-linq-best-practices-for-senior-net-developers-fja)
+- [Mastering API Design: Best Practices for Developers](https://dev.to/walse/mastering-api-design-best-practices-for-developers-4m7k)
+- [Managing Requests State in Angular with RxJS and Adapters](https://dev.to/nikosanif/managing-requests-state-in-angular-with-rxjs-and-adapters-4333)
+- [How to Deploy a WordPress website on AWS Cloud&lpar;Elastic Compute Cloud&rpar;.](https://dev.to/mehsanullahx/how-to-deploy-a-wordpress-website-on-aws-cloudelastic-compute-cloud-3jpd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
