@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [#71 — Take Values of Adjacent Rows in The Same Group &lpar;Search &amp; Filter within Adjacent Intervals&rpar;](https://dev.to/judith677/71-take-values-of-adjacent-rows-in-the-same-group-search-filter-within-adjacent-intervals-3ia1)
-- [Golden-Retriever: High-Fidelity Agentic Retrieval Augmented Generation for Industrial Knowledge Base](https://dev.to/tutti/golden-retriever-high-fidelity-agentic-retrieval-augmented-generation-for-industrial-knowledge-base-3nl8)
-- [Custom Keyboard](https://dev.to/nalaini_d446342c9318cff94/custom-keyboard-47bg)
-- [The Business Impact of a Cyberattack in 2024: A Deep Dive](https://dev.to/donesrom/the-business-impact-of-a-cyberattack-in-2024-a-deep-dive-ndo)
-- [How to Apply Agile Principles Across Industries: Beyond Software Development](https://dev.to/adityabhuyan/how-to-apply-agile-principles-across-industries-beyond-software-development-1joa)
+- [Creating debug text in WGSL](https://dev.to/ndesmic/creating-debug-text-in-wgsl-10hd)
+- [Book: Interactive Data Visualization for the Web by Scott Murray](https://dev.to/airtucha/book-interactive-data-visualization-for-the-web-by-scott-murray-1gge)
+- [Unified Namespace &lpar;UNS&rpar;: A Comprehensive Exploration](https://dev.to/juslee/unified-namespace-uns-a-comprehensive-exploration-32nk)
+- [UI Testing Excellence: A Comprehensive Guide to Enhancing User Experiences](https://dev.to/misterankit/ui-testing-excellence-a-comprehensive-guide-to-enhancing-user-experiences-4dgm)
+- [Bootstrap: Customizing Tooltips](https://dev.to/tailwine/bootstrap-customizing-tooltips-3k2e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
