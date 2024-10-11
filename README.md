@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to choose a hosting control panel: a review of 5 popular options](https://dev.to/ispmanager/how-to-choose-a-hosting-control-panel-a-review-of-5-popular-options-49of)
-- [Migrating from Xamarin to .NET MAUI: A Journey to Modernization](https://dev.to/tmcd054/migrating-from-xamarin-to-net-maui-a-journey-to-modernization-109n)
-- [Deploying High Availability SafeLine WAF on K3s&lpar;Part 2&rpar;](https://dev.to/carrie_luo1/deploying-high-availability-safeline-waf-on-k3spart-2-219f)
-- [What is Beta Testing? A Comprehensive Guide](https://dev.to/keploy/what-is-beta-testing-a-comprehensive-guide-48f)
-- [Deno or Bun? Or NodeJs? &quot;Comparison&quot;](https://dev.to/grenishrai/deno-or-bun-or-nodejs-56ac)
+- [Deploying High Availability SafeLine WAF on K3s&lpar;Part 3&rpar;](https://dev.to/carrie_luo1/deploying-high-availability-safeline-waf-on-k3spart-3-12bj)
+- [The Role of Blockchain in Fintech: Top Development Companies Making a Difference](https://dev.to/kzier/the-role-of-blockchain-in-fintech-top-development-companies-making-a-difference-33ja)
+- [Seeking Web Developers for a Community-Driven Educational Platform &lpar;Pro Bono/Volunteer&rpar;](https://dev.to/s-xaashi/seeking-web-developers-for-a-community-driven-educational-platform-pro-bonovolunteer-1c14)
+- [Streamlining MVVM in .NET MAUI with Relay Commands](https://dev.to/tmcd054/streamlining-mvvm-in-net-maui-with-relay-commands-ii1)
+- [&#39;Takiwatanga&#39;, a kinder way to describe Autism](https://dev.to/ajparadith/takiwatanga-a-kinder-way-to-describe-autism-30o5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
