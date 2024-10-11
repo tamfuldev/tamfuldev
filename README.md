@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Fibonacci, Integer overflow, memoization e um exagero](https://dev.to/joseiedo/fibonacci-integer-overflow-memoization-e-um-exagero-55eh)
-- [Passing a Form in Microsoft Access](https://dev.to/richardrost/passing-a-form-in-microsoft-access-1og7)
-- [Open-Source👨🏾‍💻🌍🔬](https://dev.to/taariqelliott/open-source-5h9l)
-- [Security news weekly round-up - 11th October 2024](https://dev.to/ziizium/security-news-weekly-round-up-11th-october-2024-p4b)
-- [Hacktoberfest week 2- Shardeum Validator Dashboard](https://dev.to/htsagara/hacktoberfest-week-2-shardeum-validator-dashboard-dl)
+- [Unleash Your Shell Scripting Prowess with the &#39;Shell Practice Labs&#39; Course](https://dev.to/labex/unleash-your-shell-scripting-prowess-with-the-shell-practice-labs-course-3ef9)
+- [Building a Fraud Detection System in Python with Machine Learning](https://dev.to/agustin_bereciartua_d19f7/building-a-fraud-detection-system-in-python-with-machine-learning-1p3n)
+- [Top 5 Frameworks for Building AI Agents in 2024](https://dev.to/thenomadevel/top-5-frameworks-for-building-ai-agents-in-2024-g2m)
+- [JavaScript String Manipulation: How to Use Split, Reverse, and Join](https://dev.to/ofthewildfire/javascript-string-manipulation-how-to-use-split-reverse-and-join-4ojf)
+- [request for a mentor](https://dev.to/mauriciousfrimpong/request-for-a-mentor-cfa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
