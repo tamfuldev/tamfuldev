@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Lit - Lighting Fast Web Components](https://dev.to/jbutz/lit-lighting-fast-web-components-345l)
-- [Capítulo 1 Clean Code: Uma análise do livro por capítulo](https://dev.to/print_ana/clean-code-uma-analise-do-livro-por-capitulo-14ce)
-- [All About Conversational Artificial Intelligence &lpar;AI&rpar;](https://dev.to/techdogs_inc/all-about-conversational-artificial-intelligence-ai-khd)
-- [This Week In React #204 : React at Meta, Next.js, StyleX, Mitosis, One, Hermes, Zeego, Nitro, TC39, Vite, Deno...](https://dev.to/sebastienlorber/this-week-in-react-204-react-at-meta-nextjs-stylex-mitosis-one-hermes-zeego-nitro-tc39-vite-deno-1moc)
-- [Domínio próprio: Ideias de empreendedorismo para ganhar dinheiro em 2025](https://dev.to/gustavo_gallas_4e45019b5c/dominio-proprio-ideias-de-empreendedorismo-para-ganhar-dinheiro-em-2025-2jkj)
+- [Class va Object](https://dev.to/asilbek_ibragimov_a0c27cc/class-va-object-flk)
+- [1. Class va Object](https://dev.to/sunnat_qayumov/class-va-object-nok)
+- [Who is a Hacker?](https://dev.to/scofieldidehen/who-is-a-hacker-481n)
+- [The Struggle of Passing Coding Tests: LeetCode and Algorithm Mastery](https://dev.to/b3r3ch1t/the-struggle-of-passing-coding-tests-leetcode-and-algorithm-mastery-ppp)
+- [Lightweight Web Shell Scanner](https://dev.to/worldsavior/lightweight-web-shell-scanner-46pj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
