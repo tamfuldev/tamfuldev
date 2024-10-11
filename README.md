@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Filament Breezy: set storage disk for avatar](https://dev.to/syahzul/filament-breezy-set-storage-disk-for-avatar-3ee7)
+- [Replace All Duplicates of Each Word with Underlines #eg55](https://dev.to/esproc_spl/replace-all-duplicates-of-each-word-with-underlines-eg55-2e9n)
+- [Understaing Algorithm Complexity: A Deep Dive into Big O Notation With JavaScript](https://dev.to/kevin-uehara/understaing-algorithm-complexity-a-deep-dive-into-big-o-notation-with-javascript-2f2o)
 - [962. Maximum Width Ramp](https://dev.to/mdarifulhaque/962-maximum-width-ramp-2e56)
 - [IT Security Made Simple: Protecting Your Digital Life Like a Pro! 🔒](https://dev.to/enzo_dechaene/it-security-made-simple-protecting-your-digital-life-like-a-pro-5f4g)
-- [🚧 Desarrollo de Rappy Minimarket: Un E-commerce en Construcción 🛠️](https://dev.to/pedroza25/desarrollo-de-rappy-minimarket-un-e-commerce-en-construccion-44ma)
-- [🚧 Desarrollo de Rappy Minimarket: Un E-commerce en Construcción 🛠️](https://dev.to/pedroza25/desarrollo-de-rappy-minimarket-un-e-commerce-en-construccion-3efd)
-- [🚧 Desarrollo de Rappy Minimarket: Un E-commerce en Construcción 🛠️](https://dev.to/pedroza25/desarrollo-de-rappy-minimarket-un-e-commerce-en-construccion-4hh1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
