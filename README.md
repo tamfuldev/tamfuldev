@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Much HTML, CSS &amp; JavaScript You Need to Know to Get Hired as a Developer](https://dev.to/dhanushnehru/how-much-html-css-javascript-you-need-to-know-to-get-hired-as-a-developer-168m)
-- [Achieving Android 15 Edge to Edge compatibility for your React Native App.](https://dev.to/gautham495/achieving-android-15-edge-to-edge-compatibility-for-your-react-native-app-2ile)
-- [Functional Testing as a Design Tool for Full Stack Projects. Part II: API server and Project Release](https://dev.to/saratoga/functional-testing-as-a-design-tool-for-full-stack-projects-part-ii-api-server-and-project-release-358l)
-- [Introducing Ready - Upload PDF &amp; Read Anywhere](https://dev.to/sumansourabh48/introducing-ready-upload-pdf-read-anywhere-4jk1)
-- [What is Git Reset?](https://dev.to/meghasharmaaaa/what-is-git-reset-25n3)
+- [Bugungi Terminal Komandalari: Produktiv Kun Uchun Eng Yaxshi Amaliyotlar](https://dev.to/irmuhammadjon/bugungi-terminal-komandalari-produktiv-kun-uchun-eng-yaxshi-amaliyotlar-4oc3)
+- [AWS Security Groups for EC2 Instances: A Comprehensive Guide](https://dev.to/ikoh_sylva/aws-security-groups-for-ec2-instances-a-comprehensive-guide-4fp9)
+- [Mastering Form Validation in React](https://dev.to/nens/mastering-form-validation-in-react-37cl)
+- [Navigating the Code Maze: Hacktoberfest 2024](https://dev.to/h_vik/navigating-the-code-maze-hacktoberfest-2024-c5b)
+- [wxPerl Revival](https://dev.to/sciurius/wxperl-revival-5fde)
 <!-- BLOG-POST-LIST:END -->
 
 ---
