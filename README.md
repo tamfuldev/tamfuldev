@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Database driven task &amp; membership](https://dev.to/loveliberty/database-driven-task-membership-1cco)
-- [Cracking Open Go&#39;s Crypto Toolbox, Go Crypto 2](https://dev.to/rezmoss/cracking-open-gos-crypto-toolbox-go-crypto-2-50cn)
-- [A Voyage through Algorithms using Javascript - Insertion Sort](https://dev.to/humblecoder00/a-voyage-through-algorithms-using-javascript-insertion-sort-5ic)
-- [Exploring Deno 2: Features, Benefits, and Getting Started](https://dev.to/runtime_terrors/exploring-deno-2-features-benefits-and-getting-started-2n3d)
-- [Search alias or find alias in zsh plugins](https://dev.to/vuong/search-alias-or-find-alias-in-zsh-plugins-5h13)
+- [Optimizing Your Neural Networks](https://dev.to/samder/optimizing-your-neural-networks-133h)
+- [Free Web Hosting?](https://dev.to/thecodingboy/free-web-hosting-208o)
+- [Hi! I&#39;m new here and looking forward to collaborate, work on projects and upgrade my HTML, CSS &amp; JAVASCRIPT skills.](https://dev.to/marveeygoodlife/hi-im-new-here-and-looking-forward-to-collaborate-work-on-projects-and-upgrade-my-html-css-javascript-skills-331p)
+- [Using Three Js React](https://dev.to/codeparrot/using-three-js-react-3me4)
+- [Why builder pattern is more efficient than .new&lpar;&rpar; while creating new struct instances?](https://dev.to/fnabinash/why-builder-pattern-is-more-efficient-than-new-while-creating-new-struct-instances-3mo3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
