@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Bugungi Terminal Komandalari: Produktiv Kun Uchun Eng Yaxshi Amaliyotlar](https://dev.to/irmuhammadjon/bugungi-terminal-komandalari-produktiv-kun-uchun-eng-yaxshi-amaliyotlar-4oc3)
-- [AWS Security Groups for EC2 Instances: A Comprehensive Guide](https://dev.to/ikoh_sylva/aws-security-groups-for-ec2-instances-a-comprehensive-guide-4fp9)
-- [Mastering Form Validation in React](https://dev.to/nens/mastering-form-validation-in-react-37cl)
-- [Navigating the Code Maze: Hacktoberfest 2024](https://dev.to/h_vik/navigating-the-code-maze-hacktoberfest-2024-c5b)
-- [wxPerl Revival](https://dev.to/sciurius/wxperl-revival-5fde)
+- [Celery | Redis | WebSocket in Django with Docker](https://dev.to/thehormat/celery-redis-websocket-in-django-with-docker-1li3)
+- [&quot;Hacktoberfest 2024: A Journey of Growth and Collaboration&quot;](https://dev.to/arnab825/hacktoberfest-2024-a-journey-of-growth-and-collaboration-1bl6)
+- [Making most of Microsoft Campus Ambassador Program](https://dev.to/beingwizard/making-most-of-microsoft-campus-ambassador-program-4iii)
+- [Nova jornada!](https://dev.to/melanolachef/nova-jornada-23k2)
+- [Improving JavaScript Performance: Techniques and Best Practices](https://dev.to/techelopment/improving-javascript-performance-techniques-and-best-practices-3p4d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
