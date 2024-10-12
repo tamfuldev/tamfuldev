@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My 2024 Hacktoberfest Maintainer Experience: 💔 Building and Growing ImagePro 🚀](https://dev.to/jacksonkasi/my-2024-hacktoberfest-maintainer-experience-building-and-growing-imagepro-1b20)
-- [A supplement to Copilot and Cursor - utilizes AI for batch processing of project codes](https://dev.to/qiangyt/a-supplement-to-copilot-and-cursor-utilizes-ai-for-batch-processing-of-project-codes-5bm2)
-- [How to make your terminal looks Splendid](https://dev.to/jairo_junior_538950788e2d/how-to-make-your-terminal-looks-splendid-4pgf)
-- [Tailwind CSS: Building Responsive Grids](https://dev.to/tailwine/tailwind-css-building-responsive-grids-3dlf)
-- [Contributing to Excalibur](https://dev.to/excaliburjs/contributing-to-excalibur-14n4)
+- [Coding as a Core Skill: Why Schools Need to Prioritize It](https://dev.to/growkon21/coding-as-a-core-skill-why-schools-need-to-prioritize-it-4ine)
+- [Using Conditional Statements and Loops in JavaScript](https://dev.to/shieldstring/using-conditional-statements-and-loops-in-javascript-1aia)
+- [Rust: The Language That Won’t Let You Shoot Yourself in the Foot &lpar;Unlike C++&rpar;](https://dev.to/shafayeat/rust-the-language-that-wont-let-you-shoot-yourself-in-the-foot-unlike-c-34a1)
+- [Django Class Based View made easy](https://dev.to/rexsy_bimatrimawahyu_d1/django-class-based-view-made-easy-13hm)
+- [Refactor: How I Improve My Barrierless Project](https://dev.to/vinhyan/refactor-how-i-improve-barrierless-project-1m64)
 <!-- BLOG-POST-LIST:END -->
 
 ---
