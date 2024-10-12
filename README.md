@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Coding as a Core Skill: Why Schools Need to Prioritize It](https://dev.to/growkon21/coding-as-a-core-skill-why-schools-need-to-prioritize-it-4ine)
-- [Using Conditional Statements and Loops in JavaScript](https://dev.to/shieldstring/using-conditional-statements-and-loops-in-javascript-1aia)
-- [Rust: The Language That Won’t Let You Shoot Yourself in the Foot &lpar;Unlike C++&rpar;](https://dev.to/shafayeat/rust-the-language-that-wont-let-you-shoot-yourself-in-the-foot-unlike-c-34a1)
-- [Django Class Based View made easy](https://dev.to/rexsy_bimatrimawahyu_d1/django-class-based-view-made-easy-13hm)
-- [Refactor: How I Improve My Barrierless Project](https://dev.to/vinhyan/refactor-how-i-improve-barrierless-project-1m64)
+- [Using WebSockets in Go for Real-Time Communication](https://dev.to/neelp03/using-websockets-in-go-for-real-time-communication-4b3l)
+- [8 Open-Source Tools to grow your app and reach new markets! 🔥](https://dev.to/tolgee_i18n/8-open-source-tools-to-grow-your-app-and-reach-new-markets-5036)
+- [Understanding Errors is a Super Power](https://dev.to/jenueldev/understanding-errors-is-a-super-power-ek7)
+- [a day in the life of a software engineer](https://dev.to/m3yevn/a-day-in-the-life-of-a-software-engineer-1lmh)
+- [How large number of request handled with load Balancer](https://dev.to/tech_udhaya/how-large-number-of-request-handled-with-load-balancer-3cje)
 <!-- BLOG-POST-LIST:END -->
 
 ---
