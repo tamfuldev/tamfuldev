@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Your Neural Networks](https://dev.to/samder/optimizing-your-neural-networks-133h)
-- [Free Web Hosting?](https://dev.to/thecodingboy/free-web-hosting-208o)
-- [Hi! I&#39;m new here and looking forward to collaborate, work on projects and upgrade my HTML, CSS &amp; JAVASCRIPT skills.](https://dev.to/marveeygoodlife/hi-im-new-here-and-looking-forward-to-collaborate-work-on-projects-and-upgrade-my-html-css-javascript-skills-331p)
-- [Using Three Js React](https://dev.to/codeparrot/using-three-js-react-3me4)
-- [Why builder pattern is more efficient than .new&lpar;&rpar; while creating new struct instances?](https://dev.to/fnabinash/why-builder-pattern-is-more-efficient-than-new-while-creating-new-struct-instances-3mo3)
+- [Building a Name Simple Registry: Solidity vs Aptos Move](https://dev.to/dariaag/building-a-name-simple-registry-solidity-vs-aptos-move-276k)
+- [NoisOCR: A Python Library for Simulating Post-OCR Noisy Texts](https://dev.to/savi8sant8s/noisocr-a-python-library-for-simulating-post-ocr-noisy-texts-52fd)
+- [#1 Первый урок](https://dev.to/nmatlubov/1-piervyi-urok-23ej)
+- [The Pinata Challenge: Pinata File Hub - Seamless File Management &amp; Uploads](https://dev.to/akash5523/the-pinata-challenge-pinata-file-hub-seamless-file-management-uploads-1dee)
+- [Methods to create Objects in JavaScript](https://dev.to/nkumarm/methods-to-create-objects-in-javascript-48a0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
