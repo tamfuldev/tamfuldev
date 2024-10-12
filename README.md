@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Beginner Challenge](https://dev.to/monalicous/beginner-challenge-2ggg)
-- [Day 1 of 365 &lpar;10 Million Yen Japan Career Switch Challenge&rpar;](https://dev.to/kameken100/day-1-of-365-10-million-yen-japan-career-switch-challenge-3mkj)
-- [Materialized View in SQL](https://dev.to/mrcaption49/materialized-view-in-sql-12io)
-- [Avoid Costly Loops in AWS Step Functions](https://dev.to/aws-builders/avoid-costly-loops-in-aws-step-functions-3eon)
-- [Happy Dusshera Animation](https://dev.to/prince_beec5ccde00b7c6c73/happy-dusshera-animation-4h62)
+- [Think Like a Problem Solver, Not the Best Programmer](https://dev.to/jenueldev/think-like-a-problem-solver-not-the-best-programmer-6po)
+- [Python For Beginners](https://dev.to/yashrajxdev/python-for-beginners-5c59)
+- [The Only Electron Framework You&#39;ll Ever Need: Introducing the Ideal Electron Framework](https://dev.to/rajaniraiyn/the-only-electron-framework-youll-ever-need-introducing-the-ideal-electron-framework-37jg)
+- [Using CSS Variables for Theme Customisation](https://dev.to/dualitedev/using-css-variables-for-theme-customisation-5aoj)
+- [Override and Mock Network Responses in DevTools](https://dev.to/geraldhamiltonwicks/override-and-mock-network-responses-in-devtools-166m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
