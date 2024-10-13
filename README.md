@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [LinkedIn: Great for Jobs, Not for Developer](https://dev.to/ravixalgorithm/linkedin-great-for-jobs-not-for-developer-1kc2)
-- [Producer Consumer Problem: Process Synchronisation](https://dev.to/harshm03/producer-consumer-problem-process-synchronisation-5glh)
-- [How to Use .NET Aspire &lpar;Part2&rpar;](https://dev.to/dot_nettips_a4e90828daa4/how-to-use-net-aspire-part2-23db)
-- [how to handle outliers in machine learning](https://dev.to/aashwinkumar/how-to-handle-outliers-in-machine-learning-3eo2)
-- [Temporary Network while trying to connect to my ESP32 via wifi?](https://dev.to/aloxen/temporary-network-while-trying-to-connect-to-my-esp32-via-wifi-419b)
+- [Primeiros passos para iniciar na programação](https://dev.to/erickwillian_dev/primeiros-passos-para-iniciar-na-programacao-3ap0)
+- [Understanding Static Site Generation &lpar;SSG&rpar;, Server-Side Rendering &lpar;SSR&rpar;, and Server Components in Next.js](https://dev.to/kawsar007/understanding-static-site-generation-ssg-server-side-rendering-ssr-and-server-components-in-nextjs-45p7)
+- [Writing Skills: Essential Fuel for Every Programmer 🥇👨‍💻](https://dev.to/_hm/writing-skills-essential-fuel-for-every-programmer-1ia2)
+- [C# Advanced:Operator Overloading](https://dev.to/moh_moh701/c-advancedoperator-overloading-3djn)
+- [Do Caos à Clareza: Princípios para Dashboards de Monitoramento Eficientes](https://dev.to/camillacorreia/do-caos-a-clareza-principios-para-dashboards-de-monitoramento-eficientes-21ij)
 <!-- BLOG-POST-LIST:END -->
 
 ---
