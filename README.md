@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [PinataShot: Multimodal LLaMA 3.2 Screenshot Categorization on Pinata IPFS](https://dev.to/jadouse5/pinatashot-multimodal-llama-32-screenshot-categorization-on-pinata-ipfs-2ip2)
+- [Deployment: Hosting .NET Application - Step By Step Guide](https://dev.to/dotnetfullstackdev/deployment-hosting-net-application-step-by-step-guide-1b4o)
+- [Introducing Handbooks for Tech: Documentation Got &quot;Better&quot;](https://dev.to/buzzpy/introducing-handbooks-for-tech-documentation-got-better-4anf)
 - [How to write a great one-pager](https://dev.to/winstonpuckett/how-to-write-a-great-one-pager-1edj)
-- [Productivity Tools to have #1: Google Keep](https://dev.to/saifullahusmani/productivity-tools-to-have-1-google-keep-266n)
-- [Why Vivaldi Might Be the Browser You&#39;ve Been Waiting For](https://dev.to/marrouchi/why-vivaldi-might-be-the-browser-youve-been-waiting-for-4n4j)
-- [2406. Divide Intervals Into Minimum Number of Groups](https://dev.to/mdarifulhaque/2406-divide-intervals-into-minimum-number-of-groups-3bb9)
-- [📊Power BI: Introdução](https://dev.to/fabiana_lima/power-bi-introducao-3me1)
+- [Unlock 650+ Pokémon in 5 Steps: Build Your Dream Index with Vanilla JavaScript](https://dev.to/jackwilltech/unlock-650-pokemon-in-5-steps-build-your-dream-index-with-vanilla-javascript-1c5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
