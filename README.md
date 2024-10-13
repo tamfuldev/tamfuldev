@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [VARRAY in PLSQL Functions | LIMIT | COUNT | EXTEND](https://dev.to/mrcaption49/varray-in-plsql-functions-limit-count-extend-2ch0)
-- [Unavoidable developer tools](https://dev.to/codewithshahan/unavoidable-developer-tools-24g8)
-- [How to do Load Testing?](https://dev.to/keploy/how-to-do-load-testing-1mnc)
-- [Cubit VS Bloc in Flutter](https://dev.to/syedabdulbasit7/cubit-vs-bloc-in-flutter-494k)
-- [9.Array](https://dev.to/zahro_11eecc01a1cfe5142b9/9array-4ci3)
+- [22. While Loop](https://dev.to/sunnat_qayumov/22-while-loop-5d1a)
+- [21. for Loop](https://dev.to/sunnat_qayumov/21-for-loop-2g07)
+- [Pillars of AI Security: Protecting the Future of Technology](https://dev.to/techahead/pillars-of-ai-security-protecting-the-future-of-technology-4jh6)
+- [Text Classification vs. Token Classification in NLP: Key Differences, Use Cases, and Performance Optimization](https://dev.to/juvet_manga/text-classification-vs-token-classification-in-nlp-key-differences-use-cases-and-performance-optimization-70n)
+- [Building a MicroApp, Extending Microfrontend Pattern](https://dev.to/a6h15hek/building-a-microapp-extending-microfrontend-pattern-2454)
 <!-- BLOG-POST-LIST:END -->
 
 ---
