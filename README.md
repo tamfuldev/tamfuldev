@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [22. While Loop](https://dev.to/sunnat_qayumov/22-while-loop-5d1a)
-- [21. for Loop](https://dev.to/sunnat_qayumov/21-for-loop-2g07)
-- [Pillars of AI Security: Protecting the Future of Technology](https://dev.to/techahead/pillars-of-ai-security-protecting-the-future-of-technology-4jh6)
-- [Text Classification vs. Token Classification in NLP: Key Differences, Use Cases, and Performance Optimization](https://dev.to/juvet_manga/text-classification-vs-token-classification-in-nlp-key-differences-use-cases-and-performance-optimization-70n)
-- [Building a MicroApp, Extending Microfrontend Pattern](https://dev.to/a6h15hek/building-a-microapp-extending-microfrontend-pattern-2454)
+- [GBP/USD Outlook: Labor Data Boosts Resilience Amid Rate Cut Speculations](https://dev.to/snapnews/gbpusd-outlook-labor-data-boosts-resilience-amid-rate-cut-speculations-2878)
+- [🚀 Top JavaScript Trends to Watch in 2024](https://dev.to/yashodip_beldar/top-javascript-trends-to-watch-in-2024-347p)
+- [Mastering Snake Game with Reinforcement Learning and Linear Q-Network &lpar;with Python&rpar;](https://dev.to/imankarimi/mastering-snake-game-with-reinforcement-learning-and-linear-q-network-with-python-2ncm)
+- [Memoir.](https://dev.to/farisamamnoon/memoir-abh)
+- [Dynamic open graph images for your website | No code using dynamicog.com](https://dev.to/shrihari/dynamic-open-graph-images-for-your-website-no-code-using-dynamicogcom-n62)
 <!-- BLOG-POST-LIST:END -->
 
 ---
