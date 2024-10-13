@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Crack a DevOps Interview in One Attempt: A Complete Guide for Freshers and Experienced](https://dev.to/prodevopsguytech/how-to-crack-a-devops-interview-in-one-attempt-a-complete-guide-for-freshers-and-experienced-24hm)
-- [Python 101: Introduction to Python as a Data Analytics Tool](https://dev.to/michael_kibia_9c1738d5bc8/python-101-introduction-to-python-as-a-data-analytics-tool-43c9)
-- [Understanding When a Mutant &quot;Makes It Pass&quot; in Mutation Testing](https://dev.to/copyleftdev/understanding-when-a-mutant-makes-it-pass-in-mutation-testing-57ae)
-- [📝In-App Surveys Made Simple with Formbricks in React Native: A Complete Guide ❤️‍🔥](https://dev.to/raju_gangitla_91920e1427f/in-app-surveys-made-simple-with-formbricks-in-react-native-a-complete-guide-o9e)
-- [Welcome Back! Introducing Myself with Voice &amp; Face | My Journey &amp; What&#39;s Next](https://dev.to/hojjatbandani/welcome-back-introducing-myself-with-voice-face-my-journey-whats-next-2kn1)
+- [LinkedIn: Great for Jobs, Not for Developer](https://dev.to/ravixalgorithm/linkedin-great-for-jobs-not-for-developer-1kc2)
+- [Producer Consumer Problem: Process Synchronisation](https://dev.to/harshm03/producer-consumer-problem-process-synchronisation-5glh)
+- [How to Use .NET Aspire &lpar;Part2&rpar;](https://dev.to/dot_nettips_a4e90828daa4/how-to-use-net-aspire-part2-23db)
+- [how to handle outliers in machine learning](https://dev.to/aashwinkumar/how-to-handle-outliers-in-machine-learning-3eo2)
+- [Temporary Network while trying to connect to my ESP32 via wifi?](https://dev.to/aloxen/temporary-network-while-trying-to-connect-to-my-esp32-via-wifi-419b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
