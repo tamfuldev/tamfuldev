@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [PinataShot: Multimodal LLaMA 3.2 Screenshot Categorization on Pinata IPFS](https://dev.to/jadouse5/pinatashot-multimodal-llama-32-screenshot-categorization-on-pinata-ipfs-2ip2)
-- [Deployment: Hosting .NET Application - Step By Step Guide](https://dev.to/dotnetfullstackdev/deployment-hosting-net-application-step-by-step-guide-1b4o)
-- [Introducing Handbooks for Tech: Documentation Got &quot;Better&quot;](https://dev.to/buzzpy/introducing-handbooks-for-tech-documentation-got-better-4anf)
-- [How to write a great one-pager](https://dev.to/winstonpuckett/how-to-write-a-great-one-pager-1edj)
-- [Unlock 650+ Pokémon in 5 Steps: Build Your Dream Index with Vanilla JavaScript](https://dev.to/jackwilltech/unlock-650-pokemon-in-5-steps-build-your-dream-index-with-vanilla-javascript-1c5)
+- [20. Operators &lpar;if, else if, else, ternary operator, switch&rpar;](https://dev.to/sunnat_qayumov/20-operators-if-else-if-else-ternary-operator-switch-2bfo)
+- [19. Valu va Reference Type](https://dev.to/sunnat_qayumov/19-valu-va-reference-type-4ci8)
+- [18. Namespace](https://dev.to/sunnat_qayumov/18-namespace-n6b)
+- [Building a Feed Page Using React Query](https://dev.to/mohamed_hammi/build-a-feed-page-using-react-query-1nbi)
+- [17. Data Types](https://dev.to/sunnat_qayumov/17-data-types-2790)
 <!-- BLOG-POST-LIST:END -->
 
 ---
