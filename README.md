@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to SCSS: Supercharging Your CSS Workflow](https://dev.to/ridoy_hasan/introduction-to-scss-supercharging-your-css-workflow-49l6)
-- [AI and Networking: The Dynamic Duo Reshaping Our Digital Future](https://dev.to/madhujamitra/ai-and-networking-the-dynamic-duo-reshaping-our-digital-future-3bn)
-- [Use Stable Diffusion and PyTorch to Build an Image Inpainting Service](https://dev.to/koyeb/use-stable-diffusion-and-pytorch-to-build-an-image-inpainting-service-2ahm)
-- [react-hook-form demo](https://dev.to/hieunh1801/react-hook-form-85d)
-- [Art Museum](https://dev.to/paul_freeman/art-museum-g99)
+- [Iniciando um projeto django no ubuntu](https://dev.to/httpablo/iniciando-um-projeto-django-no-ubuntu-2fja)
+- [Criando interface gráfica Desktop nativa utilizando C++ com GTK3](https://dev.to/justaguyfrombr/criando-interface-grafica-desktop-nativa-utilizando-c-com-gtk-np9)
+- [100days of code](https://dev.to/visavilwa1/100days-of-code-2lj7)
+- [Zooming to Zig : Tips, Tricks, and Trip-Ups](https://dev.to/taikedz/zooming-to-zig-tips-tricks-and-trip-ups-5676)
+- [Monoliths, Moduliths and Microservices](https://dev.to/allenmak/monoliths-moduliths-and-microservices-3fdm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
