@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [C# Design Pattern: Strategy](https://dev.to/juarezasjunior/c-design-pattern-strategy-39mn)
-- [When &#39;Agile&#39; Feels More Like &#39;Fragile&#39;: Sprinting Towards Burnout and How to Pivot](https://dev.to/techbalance_collective/when-agile-feels-more-like-fragile-sprinting-towards-burnout-and-how-to-pivot-fbe)
-- [C# Design Pattern: Strategy &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-strategy-portugues-2kng)
-- [Bubble sort using the animation of html css and js](https://dev.to/prince_beec5ccde00b7c6c73/bubble-sort-using-the-animation-of-html-css-and-js-2g33)
-- [&quot;10 Game-Changing HTML Tricks for Modern Web Developers&quot;](https://dev.to/sharma572/10-game-changing-html-tricks-for-modern-web-developers-1klp)
+- [BUBBLE SORT USING ANIMATION HTML CSS JS](https://dev.to/prince_beec5ccde00b7c6c73/bubble-sort-using-animation-html-css-js-13p4)
+- [7 Standout Advantages of Intel Evo for Your Everyday Computing](https://dev.to/leoarthur01/7-standout-advantages-of-intel-evo-for-your-everyday-computing-5h81)
+- [Optimizing Flutter Web&#39;s Initial Load Time: An Updated Comprehensive Guide](https://dev.to/samuelkchris/optimizing-flutter-webs-initial-load-time-an-updated-comprehensive-guide-4j84)
+- [How to Estimate Cost and Time in a Software Development Project](https://dev.to/muthukumar_t_225e5d393e6e/how-to-estimate-cost-and-time-in-a-software-development-project-42im)
+- [How To Get There: Bridging The Technology Gap Preventing You From Adopting A Secrets-free Machine Identity Framework](https://dev.to/gitguardian/how-to-get-there-bridging-the-technology-gap-preventing-you-from-adopting-a-secrets-free-machine-identity-framework-1jpa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
