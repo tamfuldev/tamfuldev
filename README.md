@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Iniciando um projeto django no ubuntu](https://dev.to/httpablo/iniciando-um-projeto-django-no-ubuntu-2fja)
-- [Criando interface gráfica Desktop nativa utilizando C++ com GTK3](https://dev.to/justaguyfrombr/criando-interface-grafica-desktop-nativa-utilizando-c-com-gtk-np9)
-- [100days of code](https://dev.to/visavilwa1/100days-of-code-2lj7)
-- [Zooming to Zig : Tips, Tricks, and Trip-Ups](https://dev.to/taikedz/zooming-to-zig-tips-tricks-and-trip-ups-5676)
-- [Monoliths, Moduliths and Microservices](https://dev.to/allenmak/monoliths-moduliths-and-microservices-3fdm)
+- [AWS CODE PIPELINE](https://dev.to/she0407/aws-code-pipeline-1npe)
+- [Push Notifications in Next.js with Web-Push: A Provider-Free Solution](https://dev.to/designly/push-notifications-in-nextjs-with-web-push-a-provider-free-solution-11no)
+- [Code Smell 275 - Missing Test Wrong Path](https://dev.to/mcsee/code-smell-275-missing-test-wrong-path-71c)
+- [Dia 15 - 1.5 Tecnologias para construção de processadores e memórias](https://dev.to/matheusgb/dia-15-15-tecnologias-para-construcao-de-processadores-e-memorias-1c7m)
+- [JavaScript Memory Management and Garbage Collection](https://dev.to/shafayeat/javascript-memory-management-and-garbage-collection-2a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
