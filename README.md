@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [14. Loops &lpar;Advanced&rpar;](https://dev.to/sunnat_qayumov/14-loops-advanced-4lii)
-- [13. Operators&lpar;Advanced&rpar;](https://dev.to/sunnat_qayumov/12-operators-1bio)
-- [12. Exception Handling](https://dev.to/sunnat_qayumov/11-exception-handling-41li)
-- [AI for Real-Time Stress Detection and Emotional Resilience in High-Pressure Workplaces](https://dev.to/ethan2024/ai-for-real-time-stress-detection-and-emotional-resilience-in-high-pressure-workplaces-3n39)
-- [11. Value Type va Reference Type &lpar;Complex Examples&rpar;](https://dev.to/sunnat_qayumov/11-value-type-va-reference-type-complex-examples-2j27)
+- [34.Operators &lpar;Bitwise Operators&rpar;](https://dev.to/asilbek_ibragimov_a0c27cc/34operators-bitwise-operators-21bj)
+- [33.Operators &lpar;Logical Operators&rpar;](https://dev.to/asilbek_ibragimov_a0c27cc/33operators-logical-operators-2i00)
+- [My Hacktoberfest 2024 Experience 🚀](https://dev.to/jagroop2001/my-hacktoberfest-2024-experience-47be)
+- [32.Data Types](https://dev.to/asilbek_ibragimov_a0c27cc/32data-types-gkj)
+- [100 Best Chrome Extensions of All Time](https://dev.to/hosseinyazdi/100-best-chrome-extensions-of-all-time-g17)
 <!-- BLOG-POST-LIST:END -->
 
 ---
