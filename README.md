@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Swagger UI + Docker: Initial Setup](https://dev.to/box_protection/swagger-ui-docker-initial-setup-11np)
-- [Need a suggestion! As a front-end Developer](https://dev.to/kaneki/need-a-suggestion-46ia)
-- [CLI Game](https://dev.to/dracula1960/cli-game-2o0d)
-- [Write me an ariticle on Is it worth being a software engineer in 2024?](https://dev.to/mosininamdar/write-me-an-ariticle-on-is-it-worth-being-a-software-engineer-in-2024-58b7)
-- [급할수록 돌아가라](https://dev.to/teminian/geubhalsurog-dolagara-1lc8)
+- [Decentralized Firebase Remote Config](https://dev.to/aloksahay/decentralized-firebase-remote-config-237n)
+- [Unlock 10x Productivity: Integrate Salesforce with MuleSoft in 13 Steps](https://dev.to/emilyjohnsonready/unlock-10x-productivity-integrate-salesforce-with-mulesoft-in-13-steps-149p)
+- [Debug Lamba&#39;s faster with Live Lambda Debugger](https://dev.to/thijsdez/debug-lambas-faster-with-live-lambda-debugger-2fa)
+- [Ditch Git Checkout: Use Git Switch and Git Restore Instead](https://dev.to/zacharylee/ditch-git-checkout-use-git-switch-and-git-restore-instead-51e6)
+- [The Secrets of JavaScript Object Property Order](https://dev.to/zacharylee/the-secrets-of-javascript-object-property-order-4oh4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
