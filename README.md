@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to integrate shadcn-svelte into the editable.website template](https://dev.to/bensonmwaura/how-to-integrate-shadcn-svelte-into-the-editablewebsite-template-91h)
-- [Optimizing Costs with Azure FinOps Best Practices for MSPs](https://dev.to/buzzgk/optimizing-costs-with-azure-finops-best-practices-for-msps-33ob)
-- [Mastering Performance Testing: A Complete Guide](https://dev.to/testifytech/mastering-performance-testing-a-complete-guide-1h2k)
-- [10 counter-intuitive tips on how to choose a reliable hosting provider](https://dev.to/ispmanager/10-counter-intuitive-tips-on-how-to-choose-a-reliable-hosting-provider-35mo)
-- [Understanding Azure SQL Database Pricing](https://dev.to/buzzgk/understanding-azure-sql-database-pricing-5939)
+- [14. Loops &lpar;Advanced&rpar;](https://dev.to/sunnat_qayumov/14-loops-advanced-4lii)
+- [13. Operators&lpar;Advanced&rpar;](https://dev.to/sunnat_qayumov/12-operators-1bio)
+- [12. Exception Handling](https://dev.to/sunnat_qayumov/11-exception-handling-41li)
+- [AI for Real-Time Stress Detection and Emotional Resilience in High-Pressure Workplaces](https://dev.to/ethan2024/ai-for-real-time-stress-detection-and-emotional-resilience-in-high-pressure-workplaces-3n39)
+- [11. Value Type va Reference Type &lpar;Complex Examples&rpar;](https://dev.to/sunnat_qayumov/11-value-type-va-reference-type-complex-examples-2j27)
 <!-- BLOG-POST-LIST:END -->
 
 ---
