@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AWS CODE PIPELINE](https://dev.to/she0407/aws-code-pipeline-1npe)
-- [Push Notifications in Next.js with Web-Push: A Provider-Free Solution](https://dev.to/designly/push-notifications-in-nextjs-with-web-push-a-provider-free-solution-11no)
-- [Code Smell 275 - Missing Test Wrong Path](https://dev.to/mcsee/code-smell-275-missing-test-wrong-path-71c)
-- [Dia 15 - 1.5 Tecnologias para construção de processadores e memórias](https://dev.to/matheusgb/dia-15-15-tecnologias-para-construcao-de-processadores-e-memorias-1c7m)
-- [JavaScript Memory Management and Garbage Collection](https://dev.to/shafayeat/javascript-memory-management-and-garbage-collection-2a)
+- [Swagger UI + Docker: Initial Setup](https://dev.to/box_protection/swagger-ui-docker-initial-setup-11np)
+- [Need a suggestion! As a front-end Developer](https://dev.to/kaneki/need-a-suggestion-46ia)
+- [CLI Game](https://dev.to/dracula1960/cli-game-2o0d)
+- [Write me an ariticle on Is it worth being a software engineer in 2024?](https://dev.to/mosininamdar/write-me-an-ariticle-on-is-it-worth-being-a-software-engineer-in-2024-58b7)
+- [급할수록 돌아가라](https://dev.to/teminian/geubhalsurog-dolagara-1lc8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
