@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Decentralized Firebase Remote Config](https://dev.to/aloksahay/decentralized-firebase-remote-config-237n)
-- [Unlock 10x Productivity: Integrate Salesforce with MuleSoft in 13 Steps](https://dev.to/emilyjohnsonready/unlock-10x-productivity-integrate-salesforce-with-mulesoft-in-13-steps-149p)
-- [Debug Lamba&#39;s faster with Live Lambda Debugger](https://dev.to/thijsdez/debug-lambas-faster-with-live-lambda-debugger-2fa)
-- [Ditch Git Checkout: Use Git Switch and Git Restore Instead](https://dev.to/zacharylee/ditch-git-checkout-use-git-switch-and-git-restore-instead-51e6)
-- [The Secrets of JavaScript Object Property Order](https://dev.to/zacharylee/the-secrets-of-javascript-object-property-order-4oh4)
+- [24. Class va Object](https://dev.to/sunnat_qayumov/24-class-va-object-44c8)
+- [Why you Shouldn&#39;t Use Amazon SQS for multiple Consumers—Choose Amazon SNS Instead! &lpar;Part 1&rpar;](https://dev.to/nivekalara237/why-you-shouldnt-use-amazon-sqs-for-multiple-consumers-choose-amazon-sns-instead-2nj3)
+- [🚀 Week 3 Recap of My #100DaysOfCode Challenge🚀](https://dev.to/heritech9/week-3-recap-of-my-100daysofcode-challenge-pam)
+- [How Biometric Authentication Testing Improves Android App Security](https://dev.to/misterankit/how-biometric-authentication-testing-improves-android-app-security-i1p)
+- [How to Install Kubernetes on a VM in 5 Minutes](https://dev.to/michael-thomas-vincent/how-to-install-kubernetes-on-a-vm-in-5-minutes-26kj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
