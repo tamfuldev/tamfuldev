@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [24. Class va Object](https://dev.to/sunnat_qayumov/24-class-va-object-44c8)
-- [Why you Shouldn&#39;t Use Amazon SQS for multiple Consumers—Choose Amazon SNS Instead! &lpar;Part 1&rpar;](https://dev.to/nivekalara237/why-you-shouldnt-use-amazon-sqs-for-multiple-consumers-choose-amazon-sns-instead-2nj3)
-- [🚀 Week 3 Recap of My #100DaysOfCode Challenge🚀](https://dev.to/heritech9/week-3-recap-of-my-100daysofcode-challenge-pam)
-- [How Biometric Authentication Testing Improves Android App Security](https://dev.to/misterankit/how-biometric-authentication-testing-improves-android-app-security-i1p)
-- [How to Install Kubernetes on a VM in 5 Minutes](https://dev.to/michael-thomas-vincent/how-to-install-kubernetes-on-a-vm-in-5-minutes-26kj)
+- [Higher-Order Components &lpar;HOCs&rpar; in React](https://dev.to/emhat098/higher-order-components-hocs-in-react-1ge3)
+- [Exploring JavaScript: From Scripting to Object-Oriented Programming](https://dev.to/emhat098/exploring-javascript-from-scripting-to-object-oriented-programming-28dk)
+- [Data Science in 30 days](https://dev.to/elviswangari/data-science-in-30-days-51d5)
+- [Working With Dataverse Tables in Power Automate](https://dev.to/wyattdave/working-with-dataverse-tables-in-power-automate-1adf)
+- [newbie contributor ✨](https://dev.to/codingkatty/newbie-contributor-1770)
 <!-- BLOG-POST-LIST:END -->
 
 ---
