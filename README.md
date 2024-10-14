@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [34.Operators &lpar;Bitwise Operators&rpar;](https://dev.to/asilbek_ibragimov_a0c27cc/34operators-bitwise-operators-21bj)
-- [33.Operators &lpar;Logical Operators&rpar;](https://dev.to/asilbek_ibragimov_a0c27cc/33operators-logical-operators-2i00)
-- [My Hacktoberfest 2024 Experience 🚀](https://dev.to/jagroop2001/my-hacktoberfest-2024-experience-47be)
-- [32.Data Types](https://dev.to/asilbek_ibragimov_a0c27cc/32data-types-gkj)
-- [100 Best Chrome Extensions of All Time](https://dev.to/hosseinyazdi/100-best-chrome-extensions-of-all-time-g17)
+- [C# Design Pattern: Strategy](https://dev.to/juarezasjunior/c-design-pattern-strategy-39mn)
+- [When &#39;Agile&#39; Feels More Like &#39;Fragile&#39;: Sprinting Towards Burnout and How to Pivot](https://dev.to/techbalance_collective/when-agile-feels-more-like-fragile-sprinting-towards-burnout-and-how-to-pivot-fbe)
+- [C# Design Pattern: Strategy &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-strategy-portugues-2kng)
+- [Bubble sort using the animation of html css and js](https://dev.to/prince_beec5ccde00b7c6c73/bubble-sort-using-the-animation-of-html-css-and-js-2g33)
+- [&quot;10 Game-Changing HTML Tricks for Modern Web Developers&quot;](https://dev.to/sharma572/10-game-changing-html-tricks-for-modern-web-developers-1klp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
