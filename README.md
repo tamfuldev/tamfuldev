@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing the New Conductor Java Client v4](https://dev.to/orkes/announcing-the-new-conductor-java-client-v4-4p4e)
-- [Advanced Deduplication Using Apache Spark: A Guide for Machine Learning Pipelines](https://dev.to/ajay_tani/advanced-deduplication-using-apache-spark-a-guide-for-machine-learning-pipelines-3ik6)
-- [Artificial Learners, Not Artificial Intelligence: Why Bigger Data Isn&#39;t Enough](https://dev.to/arkadeepnag/artificial-learners-not-artificial-intelligence-why-bigger-data-isnt-enough-1mb)
-- [Top 5 3D tools recommended: easily create your 3D creativity](https://dev.to/wingwing/top-5-3d-tools-recommended-easily-create-your-3d-creativity-3ec9)
-- [How We Manage to Cut Development Cycle Time by 33%?](https://dev.to/apilover/how-we-manage-to-cut-development-cycle-time-by-33-1flg)
+- [How to integrate shadcn-svelte into the editable.website template](https://dev.to/bensonmwaura/how-to-integrate-shadcn-svelte-into-the-editablewebsite-template-91h)
+- [Optimizing Costs with Azure FinOps Best Practices for MSPs](https://dev.to/buzzgk/optimizing-costs-with-azure-finops-best-practices-for-msps-33ob)
+- [Mastering Performance Testing: A Complete Guide](https://dev.to/testifytech/mastering-performance-testing-a-complete-guide-1h2k)
+- [10 counter-intuitive tips on how to choose a reliable hosting provider](https://dev.to/ispmanager/10-counter-intuitive-tips-on-how-to-choose-a-reliable-hosting-provider-35mo)
+- [Understanding Azure SQL Database Pricing](https://dev.to/buzzgk/understanding-azure-sql-database-pricing-5939)
 <!-- BLOG-POST-LIST:END -->
 
 ---
