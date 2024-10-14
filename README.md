@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Clean Architecture: The Unattainable Ideal – A Parable for Developers](https://dev.to/simprl/clean-architecture-the-unattainable-ideal-a-parable-for-developers-38ih)
-- [fpdf2 latest news](https://dev.to/lucasc/fpdf2-latest-news-7pc)
-- [What :really: is Keda?](https://dev.to/mikkergimenez/what-really-is-keda-4fc2)
-- [The Power of Clear Function Names: A Clean Code Essential](https://dev.to/56_kode/the-power-of-clear-function-names-a-clean-code-essential-12l2)
-- [How to Migrate From Terraform Cloud](https://dev.to/spacelift/how-to-migrate-from-terraform-cloud-3nnp)
+- [Postgresql commands](https://dev.to/mdiffshashank/postgresql-commands-mcb)
+- [Exploring JavaScript&#39;s Modern Primitives: BigInt and Symbol](https://dev.to/joanperamas/exploring-javascripts-modern-primitives-bigint-and-symbol-4607)
+- [A Comprehensive Guide to Ansible: Automation for the Modern DevOps Engineer](https://dev.to/abhishekjaiswal_4896/a-comprehensive-guide-to-ansible-automation-for-the-modern-devops-engineer-98f)
+- [🚀 My HacktoberFest2024 Experience 🎯](https://dev.to/ojas-arora/my-hacktoberfest-2024-experience-4if3)
+- [Designing &quot;Serenity of the Rising Sun&quot; – Blending Traditional Aesthetics with Modern Creativity](https://dev.to/navodya-1ccb29f5/designing-serenity-of-the-rising-sun-blending-traditional-aesthetics-with-modern-creativity-fii)
 <!-- BLOG-POST-LIST:END -->
 
 ---
