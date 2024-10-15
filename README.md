@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Strong Developer Community: Why It Matters](https://dev.to/rashmihc060195/building-a-strong-developer-community-why-it-matters-3m9o)
-- [Just do it. Now!](https://dev.to/gabrieltoma/just-do-it-now-20am)
-- [Optimizing JavaScript with Maps, Sets, and Weak References](https://dev.to/shafayeat/optimizing-javascript-with-maps-sets-and-weak-references-i3g)
-- [How to combine SQS and SNS to implement multiple Consumers &lpar;Part 2&rpar;](https://dev.to/nivekalara237/how-to-combine-sqs-and-sns-to-implement-multiple-consumers-part-2-5a63)
-- [How easy it was to deploy my nextjs portfolio site](https://dev.to/anwarhossain1/how-easy-it-was-to-deploy-my-nextjs-portfolio-site-302a)
+- [Streamline Your Project Workflow Using Swift with Sake: A Practical Guide](https://dev.to/kattouf/streamline-your-project-workflow-using-swift-with-sake-a-practical-guide-jgl)
+- [AWS SysOps Administrator: A Complete Guide to Cloud Management](https://dev.to/s3cloudhub/aws-sysops-administrator-a-complete-guide-to-cloud-management-nmn)
+- [🛋️ Folder Structure Of Laravel &amp; Its Lightweight! Worthy To Know~](https://dev.to/__4ldyfwkymhmd/folder-structure-of-laravel-its-lightweight-worthy-to-know-5066)
+- [Building a File Upload Service in Go](https://dev.to/neelp03/building-a-file-upload-service-in-go-34fj)
+- [Exploring the Future of JavaScript with Deno 2: Why It’s a Game-Changer for Developers.](https://dev.to/haran_2194/exploring-the-future-of-javascript-with-deno-2-why-its-a-game-changer-for-developers-57n9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
