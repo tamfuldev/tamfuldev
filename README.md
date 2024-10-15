@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Revamped UI for NFT Artworks](https://dev.to/coderralph/revamped-ui-for-nft-artworks-43o8)
-- [How to win a hackaton &lpar;spoiler: Power of Friendship&rpar;](https://dev.to/osmarmontesinos/how-to-win-a-hackaton-spoiler-power-of-friendship-18n)
-- [Capítulo 9 - Consistencia y Consenso](https://dev.to/pabloar/capitulo-9-consistencia-y-consenso-20ci)
-- [The Nostalgic Joy of Retro Gaming: Why Gamers Still Love the Classics](https://dev.to/mrrayan/the-nostalgic-joy-of-retro-gaming-why-gamers-still-love-the-classics-5c60)
-- [Why Laravel is the Perfect Framework for Building Scalable Web Applications.](https://dev.to/ibu_91602171df0416fb7aaf8/why-laravel-is-the-perfect-framework-for-building-scalable-web-applications-21a6)
+- [Blog Post: Adding TOML Config File Support in an Open-Source Project](https://dev.to/inderpreet/blog-post-adding-toml-config-file-support-in-an-open-source-project-161k)
+- [Dive Into the World of Programming: 7 Free Courses to Enhance Your Skills](https://dev.to/getvm/dive-into-the-world-of-programming-7-free-courses-to-enhance-your-skills-1863)
+- [Gamedev Math: Not Just A Tool But A Necessity](https://dev.to/frodo_alsaka/gamedev-math-not-just-a-tool-but-a-necessity-eok)
+- [Manual Testing: A Complete Guide](https://dev.to/keploy/manual-testing-a-complete-guide-5dhp)
+- [Cara Penggunaan Axios di ReactJS - GET dan POST Request](https://dev.to/ramadhan002/cara-penggunaan-axios-di-reactjs-get-dan-post-request-53e5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
