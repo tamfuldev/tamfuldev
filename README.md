@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Flashlight in Jetpack Compose](https://dev.to/elozino/build-a-flashlight-in-jetpack-compose-473n)
-- [A Dangerous Power Play: Matt Mullenweg&#39;s Latest Move Threatens To Totally Fork Him Over](https://dev.to/skullzarmy/a-dangerous-power-play-matt-mullenwegs-latest-move-threatens-to-totally-fork-him-over-4806)
-- [Is Redux Dead? Why I Kicked Redux Out of Our SaaS App](https://dev.to/codexam/is-redux-dead-why-i-kicked-redux-out-of-our-saas-app-5d1g)
-- [HTML/CSS Share](https://dev.to/davidalsh/htmlcss-share-1gon)
-- [Getting Started with Nixpacks](https://dev.to/nwby/getting-started-with-nixpacks-29eo)
+- [The Role of Commercial Cleaners in AI-Enhanced Hygiene Management](https://dev.to/luke_leech_e6bebf0dcc50d6/the-role-of-commercial-cleaners-in-ai-enhanced-hygiene-management-54ma)
+- [Issue 66 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-66-of-aws-cloud-security-weekly-4h7h)
+- [Automate Stopping and Starting EC2 instances on AWS](https://dev.to/sammy_cloud/automate-stopping-and-starting-ec2-instances-on-aws-490g)
+- [ListOF&lpar;&rpar; em Kotlin: Manipulando Coleções de Forma Simples e Eficiente](https://dev.to/maximiliano/listof-em-kotlin-manipulando-colecoes-de-forma-simples-e-eficiente-3lbp)
+- [Using PowerShell for day to day stuff](https://dev.to/tallesl/using-powershell-for-day-to-day-stuff-hb8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
