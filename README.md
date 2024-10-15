@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring REST and GraphQL APIs: Advantages, Challenges, and Use Cases](https://dev.to/usman_awan/exploring-rest-and-graphql-apis-advantages-challenges-and-use-cases-33on)
-- [Day 2 - Setting Up Prometheus and Grafana on Amazon EKS](https://dev.to/subham_nandi/day-2-setting-up-prometheus-and-grafana-on-amazon-eks-3kba)
-- [In depth: Signal components and fine-grained render in React](https://dev.to/zhangfisher/in-depth-signal-components-and-fine-grained-render-in-react-2cjo)
-- [Python vs Java: Comparing Job Markets and Career Growth](https://dev.to/abhinowww/python-vs-java-comparing-job-markets-and-career-growth-434f)
-- [Middileware in Django](https://dev.to/mrcaption49/middileware-in-django-21p0)
+- [WPF Application with Plugin Architecture](https://dev.to/ben-witt/wpf-application-with-plugin-architecture-113h)
+- [Mraza](https://dev.to/raza527/mraza-3hbg)
+- [How Much Does It Cost to Develop a Fintech App in 2024?](https://dev.to/kzier/how-much-does-it-cost-to-develop-a-fintech-app-in-2024-323a)
+- [Hosting React static website on AWS S3 with terraform](https://dev.to/nazrul7711/hosting-react-static-website-on-aws-s3-with-terraform-11hn)
+- [A Beginner&#39;s Guide to Crafting AI Picture Prompts](https://dev.to/apoorv12/a-beginners-guide-to-crafting-ai-picture-prompts-15jk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
