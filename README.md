@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Join Quash MAX for Hacktoberfest 2024!](https://dev.to/helloquash/join-quash-max-for-hacktoberfest-2024-2hf8)
-- [Create a Hugo Theme from Scratch - II](https://dev.to/tomowang/create-a-hugo-theme-from-scratch-ii-113)
-- [Create a Hugo Theme from Scratch - IV](https://dev.to/tomowang/create-a-hugo-theme-from-scratch-iv-2nhf)
-- [Create a Hugo Theme from Scratch - III](https://dev.to/tomowang/create-a-hugo-theme-from-scratch-iii-5fm0)
-- [Create a Hugo Theme from Scratch - I](https://dev.to/tomowang/create-a-hugo-theme-from-scratch-i-46j7)
+- [Day 6 Task: Mastering Linux File Permissions and ACLs for DevOps](https://dev.to/singh_in_cloud/day-6-task-mastering-linux-file-permissions-and-acls-for-devops-4acf)
+- [Tips for Creating a Great UI/ UX Project in 2024](https://dev.to/kalak_khadayat/tips-for-creating-a-great-ui-ux-project-in-2024-3meh)
+- [The Top Benefits of Cloud Computing and Full Stack Development](https://dev.to/dhruvil_joshi14/the-top-benefits-of-cloud-computing-and-full-stack-development-353g)
+- [🌈 Day 5 of #90DaysOfDevOps: Unlocking Advanced Linux Shell Scripting &amp; User Management! 🚀](https://dev.to/singh_in_cloud/day-5-of-90daysofdevops-unlocking-advanced-linux-shell-scripting-user-management-48cm)
+- [Google Sign-in with Angular and Node.js](https://dev.to/kellyblaire/google-sign-in-with-angular-and-nodejs-40hf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
