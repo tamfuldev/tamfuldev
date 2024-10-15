@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Streamline Your Project Workflow Using Swift with Sake: A Practical Guide](https://dev.to/kattouf/streamline-your-project-workflow-using-swift-with-sake-a-practical-guide-jgl)
-- [AWS SysOps Administrator: A Complete Guide to Cloud Management](https://dev.to/s3cloudhub/aws-sysops-administrator-a-complete-guide-to-cloud-management-nmn)
-- [🛋️ Folder Structure Of Laravel &amp; Its Lightweight! Worthy To Know~](https://dev.to/__4ldyfwkymhmd/folder-structure-of-laravel-its-lightweight-worthy-to-know-5066)
-- [Building a File Upload Service in Go](https://dev.to/neelp03/building-a-file-upload-service-in-go-34fj)
-- [Exploring the Future of JavaScript with Deno 2: Why It’s a Game-Changer for Developers.](https://dev.to/haran_2194/exploring-the-future-of-javascript-with-deno-2-why-its-a-game-changer-for-developers-57n9)
+- [Exploring REST and GraphQL APIs: Advantages, Challenges, and Use Cases](https://dev.to/usman_awan/exploring-rest-and-graphql-apis-advantages-challenges-and-use-cases-33on)
+- [Day 2 - Setting Up Prometheus and Grafana on Amazon EKS](https://dev.to/subham_nandi/day-2-setting-up-prometheus-and-grafana-on-amazon-eks-3kba)
+- [In depth: Signal components and fine-grained render in React](https://dev.to/zhangfisher/in-depth-signal-components-and-fine-grained-render-in-react-2cjo)
+- [Python vs Java: Comparing Job Markets and Career Growth](https://dev.to/abhinowww/python-vs-java-comparing-job-markets-and-career-growth-434f)
+- [Middileware in Django](https://dev.to/mrcaption49/middileware-in-django-21p0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
