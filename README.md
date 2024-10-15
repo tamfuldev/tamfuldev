@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Fixing PHP_CodeSniffer Null Trim&lpar;&rpar; Errors in WordPress Coding Standards](https://dev.to/sarahcssiqueira/fixing-phpcodesniffer-null-trim-errors-in-wordpress-coding-standards-31k1)
-- [Handling Text in Rust: String and &amp;Str](https://dev.to/aseneca/handling-text-in-rust-string-and-str-3icc)
-- [Implementando Despliegues Blue-Green con AWS Route 53](https://dev.to/diek/implementando-despliegues-blue-green-con-aws-route-53-1n14)
-- [Azure Cloud Adoption Framework: Best Practices to Accelerate Your Cloud Strategy](https://dev.to/enna/azure-cloud-adoption-framework-best-practices-to-accelerate-your-cloud-strategy-4eon)
-- [From Mobile Simplicity to Pi Complexity](https://dev.to/mihaichiorean/from-mobile-simplicity-to-pi-complexity-2fa2)
+- [Hacktoberfest&#39;24 - A Journey to Remember](https://dev.to/vansh-codes/hacktoberfest24-a-journey-to-remember-44ae)
+- [Code Reviews for Beginners: How to Send and Review Code Like a Pro](https://dev.to/nicobistolfi/code-reviews-for-beginners-how-to-send-and-review-code-like-a-pro-2mnh)
+- [File Organizer, Part 3: Making It Interactive with Cobra! 🐍⚡](https://dev.to/mrfrontenddev/file-organizer-part-3-making-it-interactive-with-cobra-3gb6)
+- [I created full Task management Platform using Django](https://dev.to/sankar_puvvada/i-created-full-task-management-platform-using-django-2a3o)
+- [Day002 - Random posts under TIL](https://dev.to/sarvsav/day002-random-posts-under-til-j2l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
