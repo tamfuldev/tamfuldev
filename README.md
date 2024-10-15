@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 6 Task: Mastering Linux File Permissions and ACLs for DevOps](https://dev.to/singh_in_cloud/day-6-task-mastering-linux-file-permissions-and-acls-for-devops-4acf)
-- [Tips for Creating a Great UI/ UX Project in 2024](https://dev.to/kalak_khadayat/tips-for-creating-a-great-ui-ux-project-in-2024-3meh)
-- [The Top Benefits of Cloud Computing and Full Stack Development](https://dev.to/dhruvil_joshi14/the-top-benefits-of-cloud-computing-and-full-stack-development-353g)
-- [🌈 Day 5 of #90DaysOfDevOps: Unlocking Advanced Linux Shell Scripting &amp; User Management! 🚀](https://dev.to/singh_in_cloud/day-5-of-90daysofdevops-unlocking-advanced-linux-shell-scripting-user-management-48cm)
-- [Google Sign-in with Angular and Node.js](https://dev.to/kellyblaire/google-sign-in-with-angular-and-nodejs-40hf)
+- [Tech Spotlight: Daily Tech News](https://dev.to/techdogs_inc/tech-spotlight-daily-tech-news-48hb)
+- [The Electric Revolution](https://dev.to/starkfahr_0ba0042faf/the-electric-revolution-2900)
+- [Automated UI Testing: Benefits, Challenges &amp; Solution](https://dev.to/alishahndrsn/automated-ui-testing-benefits-challenges-solution-34m0)
+- [An Introduction to GoMock: Mocking in Go](https://dev.to/keploy/an-introduction-to-gomock-mocking-in-go-107)
+- [Getting Started with the Django Stack: Create a Full Project](https://dev.to/deleteman123/getting-started-with-the-django-stack-create-a-full-project-5f7j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
