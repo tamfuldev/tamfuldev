@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering CSS Transitions](https://dev.to/kartikmehta8/mastering-css-transitions-3654)
-- [Tutorial Install WP CLI di Mac OS](https://dev.to/dhimaskirana/tutorial-install-wp-cli-di-mac-os-34ap)
-- [Introduction to TypeSpec](https://dev.to/eminetto/introduction-to-typespec-lg)
-- [🔄 .NET Pro Tip: Use CancellationToken to Gracefully Cancel Threads](https://dev.to/dotnetfullstackdev/net-pro-tip-use-cancellationtoken-to-gracefully-cancel-threads-3an7)
-- [cs50x week5 Data Structures](https://dev.to/kartikjhaba/cs50x-week5-data-structures-42bd)
+- [Revamped UI for NFT Artworks](https://dev.to/coderralph/revamped-ui-for-nft-artworks-43o8)
+- [How to win a hackaton &lpar;spoiler: Power of Friendship&rpar;](https://dev.to/osmarmontesinos/how-to-win-a-hackaton-spoiler-power-of-friendship-18n)
+- [Capítulo 9 - Consistencia y Consenso](https://dev.to/pabloar/capitulo-9-consistencia-y-consenso-20ci)
+- [The Nostalgic Joy of Retro Gaming: Why Gamers Still Love the Classics](https://dev.to/mrrayan/the-nostalgic-joy-of-retro-gaming-why-gamers-still-love-the-classics-5c60)
+- [Why Laravel is the Perfect Framework for Building Scalable Web Applications.](https://dev.to/ibu_91602171df0416fb7aaf8/why-laravel-is-the-perfect-framework-for-building-scalable-web-applications-21a6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
