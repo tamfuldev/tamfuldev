@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Cassandra vs. MongoDB: Choosing the Right NoSQL Database](https://dev.to/ksolves/cassandra-vs-mongodb-choosing-the-right-nosql-database-1ood)
-- [Run Next.js in AWS Lambda](https://dev.to/cnuss/run-nextjs-in-aws-lambda-5fca)
-- [Wait for Services to Start in Docker Compose: wait-for-it vs Healthcheck](https://dev.to/welel/wait-for-services-to-start-in-docker-compose-wait-for-it-vs-healthcheck-127d)
-- [Realtime reliability: How to ensure exactly-once delivery in pub/sub systems](https://dev.to/ably/realtime-reliability-how-to-ensure-exactly-once-delivery-in-pubsub-systems-1ndh)
-- [MongoDB issue](https://dev.to/chmoez/mongodb-issue-47ih)
+- [Amazon RDS vs Aurora: Why Aurora Wins](https://dev.to/lindiwe09/amazon-rds-vs-aurora-why-aurora-wins-3hhk)
+- [Introdução a Observabilidade](https://dev.to/annicarol/introducao-a-observabilidade-45k0)
+- [Iterators in Rust - Map, Filter, Reduce](https://dev.to/francescoxx/iterators-in-rust-2o0b)
+- [Iterators in Rust](https://dev.to/francescoxx/iterators-in-rust-fm)
+- [10 MLOps Tools That Comply With the EU AI Act](https://dev.to/kitops/10-mlops-tools-that-comply-with-the-eu-ai-act-4gke)
 <!-- BLOG-POST-LIST:END -->
 
 ---
