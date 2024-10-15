@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [7 Practical Tips for Optimizing C# Code Performance](https://dev.to/deewakar_kumar_8812427a98/7-practical-tips-for-optimizing-c-code-performance-5l2)
-- [独立开发者想做一个产品，如何发现潜在需求？](https://dev.to/flower0wine/du-li-kai-fa-zhe-xiang-zuo-ge-chan-pin-ru-he-fa-xian-qian-zai-xu-qiu--3php)
-- [Futuro da Observabilidade](https://dev.to/annicarol/futuro-da-observabilidade-d7g)
-- [Day 3 of 365 &lpar;10 Million Yen Japan Career Switch Challenge&rpar;](https://dev.to/kameken100/day-3-of-365-10-million-yen-japan-career-switch-challenge-4f9c)
-- [Learn how to add real-time synchronization to a React Flow application](https://dev.to/superviz/learn-how-to-add-real-time-synchronization-to-a-react-flow-application-478f)
+- [Are You a Moderator?? Then Join Us!](https://dev.to/devvolunteers/are-you-a-moderator-then-join-us-4i08)
+- [Top 10 SBOM Tools to Inventory Your App Components](https://dev.to/yayabobi/top-10-sbom-tools-to-inventory-your-app-components-5e84)
+- [Securing Your Web Applications &lpar;DAST&rpar;: A Deep Dive into OWASP ZAP Scans with Docker](https://dev.to/hassan_aftab/securing-your-web-applications-dast-a-deep-dive-into-owasp-zap-scans-with-docker-m6i)
+- [AlmaLinux vs Rocky Linux: Which CentOS Replacement is Right for You?](https://dev.to/rose_rusell_8839af0b0bba5/almalinux-vs-rocky-linux-which-centos-replacement-is-right-for-you-1ap0)
+- [Rag Concept](https://dev.to/flt_s3nyo/rag-concept-1m2l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
