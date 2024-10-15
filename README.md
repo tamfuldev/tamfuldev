@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Simple Guide to Destructuring in JavaScript: Learn with Easy Examples](https://dev.to/shekhartarare/a-simple-guide-to-destructuring-in-javascript-learn-with-easy-examples-574g)
-- [C# Advanced: Creating Reusable Extension Methods](https://dev.to/moh_moh701/c-advanced-creating-reusable-extension-methods-3cho)
-- [AI and the Dawn of a Mediocre Era](https://dev.to/frontpills/ai-and-the-dawn-of-a-mediocre-era-50mk)
-- [Day 36. What is the power of Pull Request?](https://dev.to/kiolk/day-36-what-is-the-power-of-pull-request-3edc)
-- [JavaScript Performance Optimization](https://dev.to/sonaykara/javascript-performance-optimization-4d2l)
+- [Build a Flashlight in Jetpack Compose](https://dev.to/elozino/build-a-flashlight-in-jetpack-compose-473n)
+- [A Dangerous Power Play: Matt Mullenweg&#39;s Latest Move Threatens To Totally Fork Him Over](https://dev.to/skullzarmy/a-dangerous-power-play-matt-mullenwegs-latest-move-threatens-to-totally-fork-him-over-4806)
+- [Is Redux Dead? Why I Kicked Redux Out of Our SaaS App](https://dev.to/codexam/is-redux-dead-why-i-kicked-redux-out-of-our-saas-app-5d1g)
+- [HTML/CSS Share](https://dev.to/davidalsh/htmlcss-share-1gon)
+- [Getting Started with Nixpacks](https://dev.to/nwby/getting-started-with-nixpacks-29eo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
