@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon RDS vs Aurora: Why Aurora Wins](https://dev.to/lindiwe09/amazon-rds-vs-aurora-why-aurora-wins-3hhk)
-- [Introdução a Observabilidade](https://dev.to/annicarol/introducao-a-observabilidade-45k0)
-- [Iterators in Rust - Map, Filter, Reduce](https://dev.to/francescoxx/iterators-in-rust-2o0b)
-- [Iterators in Rust](https://dev.to/francescoxx/iterators-in-rust-fm)
-- [10 MLOps Tools That Comply With the EU AI Act](https://dev.to/kitops/10-mlops-tools-that-comply-with-the-eu-ai-act-4gke)
+- [7 Practical Tips for Optimizing C# Code Performance](https://dev.to/deewakar_kumar_8812427a98/7-practical-tips-for-optimizing-c-code-performance-5l2)
+- [独立开发者想做一个产品，如何发现潜在需求？](https://dev.to/flower0wine/du-li-kai-fa-zhe-xiang-zuo-ge-chan-pin-ru-he-fa-xian-qian-zai-xu-qiu--3php)
+- [Futuro da Observabilidade](https://dev.to/annicarol/futuro-da-observabilidade-d7g)
+- [Day 3 of 365 &lpar;10 Million Yen Japan Career Switch Challenge&rpar;](https://dev.to/kameken100/day-3-of-365-10-million-yen-japan-career-switch-challenge-4f9c)
+- [Learn how to add real-time synchronization to a React Flow application](https://dev.to/superviz/learn-how-to-add-real-time-synchronization-to-a-react-flow-application-478f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
