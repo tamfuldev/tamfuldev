@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Are You a Moderator?? Then Join Us!](https://dev.to/devvolunteers/are-you-a-moderator-then-join-us-4i08)
-- [Top 10 SBOM Tools to Inventory Your App Components](https://dev.to/yayabobi/top-10-sbom-tools-to-inventory-your-app-components-5e84)
-- [Securing Your Web Applications &lpar;DAST&rpar;: A Deep Dive into OWASP ZAP Scans with Docker](https://dev.to/hassan_aftab/securing-your-web-applications-dast-a-deep-dive-into-owasp-zap-scans-with-docker-m6i)
-- [AlmaLinux vs Rocky Linux: Which CentOS Replacement is Right for You?](https://dev.to/rose_rusell_8839af0b0bba5/almalinux-vs-rocky-linux-which-centos-replacement-is-right-for-you-1ap0)
-- [Rag Concept](https://dev.to/flt_s3nyo/rag-concept-1m2l)
+- [How to use forwardRef in React](https://dev.to/logrocket/how-to-use-forwardref-in-react-2c4p)
+- [Power BI Remote Jobs: How to Find and Succeed in Power BI Remote Roles](https://dev.to/jit_data/power-bi-remote-jobs-how-to-find-and-succeed-in-power-bi-remote-roles-24do)
+- [Format on save for ERB and Ruby files in Zed IDE](https://dev.to/mrispoli24/format-on-save-for-erb-and-ruby-files-in-zed-ide-568g)
+- [OpenSauced on Azure: Lessons learned from a near-zero downtime migration](https://dev.to/opensauced/opensauced-on-azure-lessons-learned-from-a-near-zero-downtime-migration-40b9)
+- [The Importance of Test-Driven Development &lpar;TDD&rpar; and What Companies Expect from Candidates](https://dev.to/sonianand11/the-importance-of-test-driven-development-tdd-and-what-companies-expect-from-candidates-360n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
