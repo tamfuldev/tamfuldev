@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Adopting a Mentality of Continuous Professional Development in Front End Development](https://dev.to/rohitkhokhar/adopting-a-mentality-of-continuous-professional-development-in-front-end-development-3p08)
-- [&lt;/&gt; htmx in 5 minutes](https://dev.to/pallat/-htmx-in-5-minutes-2l57)
-- [Are you using the custom hooks in React right?](https://dev.to/ragul_murugesan/are-you-using-the-custom-hooks-in-react-right-2051)
-- [Understanding White Box Testing: An In-Depth Guide](https://dev.to/keploy/understanding-white-box-testing-an-in-depth-guide-4mj8)
-- [Caching — An overview](https://dev.to/kartikey_srivastava/caching-an-overview-36o7)
+- [Building a Strong Developer Community: Why It Matters](https://dev.to/rashmihc060195/building-a-strong-developer-community-why-it-matters-3m9o)
+- [Just do it. Now!](https://dev.to/gabrieltoma/just-do-it-now-20am)
+- [Optimizing JavaScript with Maps, Sets, and Weak References](https://dev.to/shafayeat/optimizing-javascript-with-maps-sets-and-weak-references-i3g)
+- [How to combine SQS and SNS to implement multiple Consumers &lpar;Part 2&rpar;](https://dev.to/nivekalara237/how-to-combine-sqs-and-sns-to-implement-multiple-consumers-part-2-5a63)
+- [How easy it was to deploy my nextjs portfolio site](https://dev.to/anwarhossain1/how-easy-it-was-to-deploy-my-nextjs-portfolio-site-302a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
