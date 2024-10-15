@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Hacktoberfest&#39;24 - A Journey to Remember](https://dev.to/vansh-codes/hacktoberfest24-a-journey-to-remember-44ae)
-- [Code Reviews for Beginners: How to Send and Review Code Like a Pro](https://dev.to/nicobistolfi/code-reviews-for-beginners-how-to-send-and-review-code-like-a-pro-2mnh)
-- [File Organizer, Part 3: Making It Interactive with Cobra! 🐍⚡](https://dev.to/mrfrontenddev/file-organizer-part-3-making-it-interactive-with-cobra-3gb6)
-- [I created full Task management Platform using Django](https://dev.to/sankar_puvvada/i-created-full-task-management-platform-using-django-2a3o)
-- [Day002 - Random posts under TIL](https://dev.to/sarvsav/day002-random-posts-under-til-j2l)
+- [A Simple Guide to Destructuring in JavaScript: Learn with Easy Examples](https://dev.to/shekhartarare/a-simple-guide-to-destructuring-in-javascript-learn-with-easy-examples-574g)
+- [C# Advanced: Creating Reusable Extension Methods](https://dev.to/moh_moh701/c-advanced-creating-reusable-extension-methods-3cho)
+- [AI and the Dawn of a Mediocre Era](https://dev.to/frontpills/ai-and-the-dawn-of-a-mediocre-era-50mk)
+- [Day 36. What is the power of Pull Request?](https://dev.to/kiolk/day-36-what-is-the-power-of-pull-request-3edc)
+- [JavaScript Performance Optimization](https://dev.to/sonaykara/javascript-performance-optimization-4d2l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
