@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2mf)
-- [JavaScript Event Loop: How It Works and Why It Matters for Performance](https://dev.to/shafayeat/javascript-event-loop-how-it-works-and-why-it-matters-for-performance-2am6)
-- [Introducing HIP-850: Enhancing Supply Key Functionality for NFT Updates in Treasury Account](https://dev.to/hedera/introducing-hip-850-enhancing-supply-key-functionality-for-nft-updates-in-treasury-account-2di5)
-- [AnalogJS 🤝 Zerops: Official Deployment Partners](https://dev.to/analogjs/analogjs-zerops-official-deployment-partners-1ml0)
-- [My journey as a small developer from Czechia :D](https://dev.to/20player11/my-journey-as-a-small-developer-from-czechia-d-55hc)
+- [Fixing PHP_CodeSniffer Null Trim&lpar;&rpar; Errors in WordPress Coding Standards](https://dev.to/sarahcssiqueira/fixing-phpcodesniffer-null-trim-errors-in-wordpress-coding-standards-31k1)
+- [Handling Text in Rust: String and &amp;Str](https://dev.to/aseneca/handling-text-in-rust-string-and-str-3icc)
+- [Implementando Despliegues Blue-Green con AWS Route 53](https://dev.to/diek/implementando-despliegues-blue-green-con-aws-route-53-1n14)
+- [Azure Cloud Adoption Framework: Best Practices to Accelerate Your Cloud Strategy](https://dev.to/enna/azure-cloud-adoption-framework-best-practices-to-accelerate-your-cloud-strategy-4eon)
+- [From Mobile Simplicity to Pi Complexity](https://dev.to/mihaichiorean/from-mobile-simplicity-to-pi-complexity-2fa2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
