@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Role of Commercial Cleaners in AI-Enhanced Hygiene Management](https://dev.to/luke_leech_e6bebf0dcc50d6/the-role-of-commercial-cleaners-in-ai-enhanced-hygiene-management-54ma)
-- [Issue 66 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-66-of-aws-cloud-security-weekly-4h7h)
-- [Automate Stopping and Starting EC2 instances on AWS](https://dev.to/sammy_cloud/automate-stopping-and-starting-ec2-instances-on-aws-490g)
-- [ListOF&lpar;&rpar; em Kotlin: Manipulando Coleções de Forma Simples e Eficiente](https://dev.to/maximiliano/listof-em-kotlin-manipulando-colecoes-de-forma-simples-e-eficiente-3lbp)
-- [Using PowerShell for day to day stuff](https://dev.to/tallesl/using-powershell-for-day-to-day-stuff-hb8)
+- [Introduction to Domain-Driven Design](https://dev.to/kartikmehta8/introduction-to-domain-driven-design-25ef)
+- [Introducing Gradio 5.0 🪄 Build and share AI web apps in minutes](https://dev.to/erhannah/introducing-gradio-50-build-and-share-ai-web-apps-in-minutes-21bk)
+- [2938. Separate Black and White Balls](https://dev.to/mdarifulhaque/2938-separate-black-and-white-balls-4052)
+- [🚨 New Rails Versions Released: Addressing ReDoS Vulnerabilities 🚨](https://dev.to/shahzaib/new-rails-versions-released-addressing-redos-vulnerabilities-28o9)
+- [Stop the cursor from jumping to the corner of the screen on a Lenovo Yoga laptop](https://dev.to/tylerlwsmith/stop-the-cursor-from-jumping-to-the-corner-of-the-screen-on-a-lenovo-yoga-laptop-2mj4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
