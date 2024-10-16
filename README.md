@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Explain in 5 Levels of Difficulty: Ethereum](https://dev.to/mcsee/explain-in-5-levels-of-difficulty-ethereum-1ee0)
-- [MongoDb Atlas: manual backup and restore data](https://dev.to/animusna/mongodb-atlas-manual-backup-and-restore-data-45ja)
-- [Longest Happy String](https://dev.to/prashantrmishra/longest-happy-string-b4l)
-- [Cracking the Coding Interview: Part 4 – The Fast and Slow Pointer Technique](https://dev.to/zzeroyzz/cracking-the-coding-interview-part-4-the-fast-and-slow-pointer-technique-47nb)
-- [Top 10 Essential Books for Cracking Coding Interviews &lpar;Ranked from Beginner to Advanced&rpar;](https://dev.to/zzeroyzz/top-10-essential-books-for-cracking-coding-interviews-ranked-from-beginner-to-advanced-ek2)
+- [Placeholder Maintainer](https://dev.to/drxven/placeholder-maintainer-30cp)
+- [Getting Started with Ballerina: A Beginner’s Guide](https://dev.to/akhilproto/getting-started-with-ballerina-a-beginners-guide-1pdc)
+- [Let&#39;s build a thread pool in Rust 🦀 that can execute multiple tasks concurrently](https://dev.to/fnabinash/lets-build-a-thread-pool-in-rust-that-can-execute-multiple-tasks-concurrently-354o)
+- [Beginner’s Guide to AES Encryption and Decryption in JavaScript using CryptoJS](https://dev.to/shubhamkhan/beginners-guide-to-aes-encryption-and-decryption-in-javascript-using-cryptojs-592)
+- [AWS Identity and Access Management](https://dev.to/hulk-pham/aws-identity-and-access-management-21j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
