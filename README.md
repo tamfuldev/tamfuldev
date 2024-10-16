@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript for Rails Developer Book](https://dev.to/railsdesigner/javascript-for-rails-developer-book-3f0e)
-- [Understanding Hoisting in JavaScript: A Comprehensive Guide](https://dev.to/nishanthank/understanding-hoisting-in-javascript-a-comprehensive-guide-5bic)
-- [White Label Financial Apps: Unlocking New Opportunities for Businesses](https://dev.to/kzier/white-label-financial-apps-unlocking-new-opportunities-for-businesses-25mj)
-- [Key insights I gained from reading &quot;Clean Code&quot;](https://dev.to/patfinder/key-insights-i-gained-from-reading-clean-code-4hnc)
-- [Parallel Chains in LangChain](https://dev.to/thilak15/parallel-chains-in-langchain-a-practical-guide-3o1j)
+- [Explain in 5 Levels of Difficulty: Ethereum](https://dev.to/mcsee/explain-in-5-levels-of-difficulty-ethereum-1ee0)
+- [MongoDb Atlas: manual backup and restore data](https://dev.to/animusna/mongodb-atlas-manual-backup-and-restore-data-45ja)
+- [Longest Happy String](https://dev.to/prashantrmishra/longest-happy-string-b4l)
+- [Cracking the Coding Interview: Part 4 – The Fast and Slow Pointer Technique](https://dev.to/zzeroyzz/cracking-the-coding-interview-part-4-the-fast-and-slow-pointer-technique-47nb)
+- [Top 10 Essential Books for Cracking Coding Interviews &lpar;Ranked from Beginner to Advanced&rpar;](https://dev.to/zzeroyzz/top-10-essential-books-for-cracking-coding-interviews-ranked-from-beginner-to-advanced-ek2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
