@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v298](https://dev.to/devteam/welcome-thread-v298-3le2)
-- [AWS ECS](https://dev.to/subham_nandi/aws-ecs-2n9e)
-- [Build a Secure Python Password Generator Using Secret Lib](https://dev.to/scofieldidehen/build-a-secure-python-password-generator-using-secret-lib-288n)
-- [Some Types - Part 2](https://dev.to/jballanc/some-types-part-2-5g43)
-- [Release Channel in K8s](https://dev.to/574n13y/release-channel-in-k8s-5p)
+- [27. Value va Reference Type &lpar;Advanced&rpar;](https://dev.to/sunnat_qayumov/27-value-va-reference-type-advanced-4g0g)
+- [How to Get Familiar with an Existing Codebase](https://dev.to/isaactony/how-to-get-familiar-with-an-existing-codebase-49k5)
+- [How to Land a High-Paying Job? Learning Programs Are the Secrets](https://dev.to/dhruvjoshi9/how-to-land-a-high-paying-job-learning-programs-are-the-secrets-5258)
+- [The Tech Stack of a Simple SaaS for AWS Cloud](https://dev.to/server_kota/the-tech-stack-of-a-simple-saas-for-aws-cloud-4lhm)
+- [🚀 SQL Querying Using Aliases: With and Without the `AS` Keyword](https://dev.to/arkadiptakundu/sql-querying-using-aliases-with-and-without-the-as-keyword-gom)
 <!-- BLOG-POST-LIST:END -->
 
 ---
