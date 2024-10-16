@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top 8 JavaScript Debugging Tools for Front-End Development](https://dev.to/apilover/top-8-javascript-debugging-tools-for-front-end-development-3j0b)
-- [Create a Slack Bot with NodeJS and Slack Bolt API](https://dev.to/olibhiaghosh/create-a-slack-bot-with-nodejs-and-slack-bolt-api-13hm)
-- [17 Must-know React Projects for Developers 👩‍💻 🔥](https://dev.to/tolgee_i18n/17-must-know-react-projects-for-developers-28a2)
-- [TCP1P CTF INTERNATIONAL 2024 — OSINT Writeup](https://dev.to/hitter/tcp1p-ctf-international-2024-osint-writeup-lam)
-- [🚀 5 Essential Development Principles Every Coder Should Know](https://dev.to/hadil/5-essential-development-principles-every-coder-should-know-2m8m)
+- [Multichain Real-World Asset &lpar;RWA&rpar; Lending with Axelar GMP](https://dev.to/olanetsoft/multichain-real-world-asset-rwa-lending-with-axelar-gmp-4en)
+- [You&#39;re Not Alone: How to Handle Burnout in Your Tech Career](https://dev.to/techbalance_collective/youre-not-alone-how-to-handle-burnout-in-your-tech-career-14df)
+- [C# Design Pattern: Visitor](https://dev.to/juarezasjunior/c-design-pattern-visitor-5ob)
+- [C# Design Pattern: Visitor &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-visitor-portugues-1aoe)
+- [Namespace](https://dev.to/firdavs_mukhsimov_9f62550/namespace-85b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
