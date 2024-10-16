@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Recommended Software for Mac that You cannot Miss](https://dev.to/angelaswift/recommended-software-for-mac-that-you-cannot-miss-2l8i)
-- [Indexes Under The Hood](https://dev.to/metis/indexes-under-the-hood-44kp)
-- [Telecom Industry Talent Development: Nurturing Skilled Professionals with Leaders such as David Ezell](https://dev.to/davidezell/telecom-industry-talent-development-nurturing-skilled-professionals-with-leaders-such-as-david-ezell-225o)
-- [Hoppscotch: The Best Browser-Based API Testing Tool – A Postman Online Alternative](https://dev.to/hoppscotch/hoppscotch-the-best-browser-based-api-testing-tool-a-postman-online-alternative-2b50)
-- [Embedding Design Into Code](https://dev.to/m0n0x41d/embedding-design-into-code-n4e)
+- [Building a Word Unscrambler with JavaScript &lpar;part 4&rpar;](https://dev.to/bridget_amana/building-a-word-unscrambler-with-javascript-part-4-2plb)
+- [The Weirdest Bugs That Made Developers Question Reality](https://dev.to/_varun_venkat_/the-weirdest-bugs-that-made-developers-question-reality-1d1h)
+- [The week I had 43 Meetings](https://dev.to/martinbaun/the-week-i-had-43-meetings-4gac)
+- [Assignment](https://dev.to/subham_nandi/assignment-3b5k)
+- [How MVP Development Services Reduce Product Risk](https://dev.to/devi_ramyasrija_d44d44d7/how-mvp-development-services-reduce-product-risk-3g2p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
