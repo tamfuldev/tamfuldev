@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Domain-Driven Design](https://dev.to/kartikmehta8/introduction-to-domain-driven-design-25ef)
-- [Introducing Gradio 5.0 🪄 Build and share AI web apps in minutes](https://dev.to/erhannah/introducing-gradio-50-build-and-share-ai-web-apps-in-minutes-21bk)
-- [2938. Separate Black and White Balls](https://dev.to/mdarifulhaque/2938-separate-black-and-white-balls-4052)
-- [🚨 New Rails Versions Released: Addressing ReDoS Vulnerabilities 🚨](https://dev.to/shahzaib/new-rails-versions-released-addressing-redos-vulnerabilities-28o9)
-- [Stop the cursor from jumping to the corner of the screen on a Lenovo Yoga laptop](https://dev.to/tylerlwsmith/stop-the-cursor-from-jumping-to-the-corner-of-the-screen-on-a-lenovo-yoga-laptop-2mj4)
+- [Leveraging MCTS Algorithm in Industrial Scenarios](https://dev.to/doejong/leveraging-mcts-algorithm-in-industrial-scenarios-4e98)
+- [Setting Up PostgreSQL for macOS Users: Step-by-Step Instructions](https://dev.to/techprane/setting-up-postgresql-for-macos-users-step-by-step-instructions-2e30)
+- [Ruby on Rails: Autenticação utilizando Devise + Keycloak](https://dev.to/nemuba/ruby-on-rails-autenticacao-utilizando-devise-keycloak-12ae)
+- [How to Implement Document Detection in Python Using Dynamsoft Capture Vision SDK](https://dev.to/yushulx/how-to-implement-document-detection-in-python-using-dynamsoft-capture-vision-sdk-51i3)
+- [How to Implement Real-Time Communication in .NET 8 Minimal APIs Using SignalR: A Step-by-Step Guide](https://dev.to/leandroveiga/how-to-implement-real-time-communication-in-net-8-minimal-apis-using-signalr-a-step-by-step-guide-2faj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
