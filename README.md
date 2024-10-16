@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Boas Práticas de Dash de Monitoramento para Observabilidade: Um Guia Simples](https://dev.to/andressa_abrantes/boas-praticas-de-dash-de-monitoramento-para-observabilidade-um-guia-simples-2m3m)
-- [Building Better APIs with ThrottleX: Rate Limiting Done Right](https://dev.to/neelp03/building-better-apis-with-throttlex-rate-limiting-done-right-5432)
-- [Civo: Simplificando Kubernetes para todos](https://dev.to/gelopfalcon/civo-simplificando-kubernetes-para-todos-27hi)
-- [How to understand Static in Class and Interface?](https://dev.to/caesar2334/how-to-understand-static-in-class-and-interface-498p)
-- [What Does It Take to Build High-Performing Teams?](https://dev.to/alexr/what-does-it-take-to-build-high-performing-teams-3ogg)
+- [10 Bad TypeScript Habits To Break In 2024](https://dev.to/safdarali/10-bad-typescript-habits-to-break-in-2024-2p54)
+- [App developers, where do you find inspiration for your next app ideas?💡](https://dev.to/jxd-dev/app-developers-where-do-you-find-inspiration-for-your-next-app-ideas-1m6p)
+- [My personal profile](https://dev.to/m_faizanfaizii_b10b3e/my-personal-profile-3jj7)
+- [Day 1043 : Cold Day](https://dev.to/dwane/day-1043-cold-day-23dl)
+- [Aplicação de Machine Learning: Um Guia para Iniciantes em Classificação &lpar;Parte 1&rpar;](https://dev.to/marshalmori/aplicacao-de-machine-learning-um-guia-para-iniciantes-em-classificacao-parte-1-h6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
