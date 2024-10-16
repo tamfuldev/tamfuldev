@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [27. Value va Reference Type &lpar;Advanced&rpar;](https://dev.to/sunnat_qayumov/27-value-va-reference-type-advanced-4g0g)
-- [How to Get Familiar with an Existing Codebase](https://dev.to/isaactony/how-to-get-familiar-with-an-existing-codebase-49k5)
-- [How to Land a High-Paying Job? Learning Programs Are the Secrets](https://dev.to/dhruvjoshi9/how-to-land-a-high-paying-job-learning-programs-are-the-secrets-5258)
-- [The Tech Stack of a Simple SaaS for AWS Cloud](https://dev.to/server_kota/the-tech-stack-of-a-simple-saas-for-aws-cloud-4lhm)
-- [🚀 SQL Querying Using Aliases: With and Without the `AS` Keyword](https://dev.to/arkadiptakundu/sql-querying-using-aliases-with-and-without-the-as-keyword-gom)
+- [Understanding the Difference Between Scripting Languages and Programming Languages](https://dev.to/abhinowww/understanding-the-difference-between-scripting-languages-and-programming-languages-1666)
+- [🧑‍💻 Day 7: Master Linux Package Managers &amp; Systemctl in Your DevOps Journey](https://dev.to/singh_in_cloud/day-7-master-linux-package-managers-systemctl-in-your-devops-journey-568p)
+- [Getting a member according to primary key value #eg59](https://dev.to/esproc_spl/getting-a-member-according-to-primary-key-value-eg59-141e)
+- [Automate Your Java Tasks with Quartz: A Practical Guide](https://dev.to/birkssachdev/automate-your-java-tasks-with-quartz-a-practical-guide-3pc7)
+- [SQL Cheatsheet: A Handy Reference for SQL Commands with Examples](https://dev.to/jagroop2001/sql-cheatsheet-a-handy-reference-for-sql-commands-with-examples-1bbp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
