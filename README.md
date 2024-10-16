@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Leveraging MCTS Algorithm in Industrial Scenarios](https://dev.to/doejong/leveraging-mcts-algorithm-in-industrial-scenarios-4e98)
-- [Setting Up PostgreSQL for macOS Users: Step-by-Step Instructions](https://dev.to/techprane/setting-up-postgresql-for-macos-users-step-by-step-instructions-2e30)
-- [Ruby on Rails: Autenticação utilizando Devise + Keycloak](https://dev.to/nemuba/ruby-on-rails-autenticacao-utilizando-devise-keycloak-12ae)
-- [How to Implement Document Detection in Python Using Dynamsoft Capture Vision SDK](https://dev.to/yushulx/how-to-implement-document-detection-in-python-using-dynamsoft-capture-vision-sdk-51i3)
-- [How to Implement Real-Time Communication in .NET 8 Minimal APIs Using SignalR: A Step-by-Step Guide](https://dev.to/leandroveiga/how-to-implement-real-time-communication-in-net-8-minimal-apis-using-signalr-a-step-by-step-guide-2faj)
+- [Github Copilot for React Expo](https://dev.to/ves/github-copilot-for-react-expo-5ch8)
+- [Apache SeaTunnel 2.3.8 Officially Released!](https://dev.to/seatunnel/apache-seatunnel-238-officially-released-4l2e)
+- [Top Resources to Learn Testcontainers](https://dev.to/ajeetraina/top-resources-to-learn-testcontainers-26p7)
+- [Log Anything vs Log Everything](https://dev.to/last9/log-anything-vs-log-everything-2c50)
+- [The Best Admin Panel Tutorial](https://dev.to/domfive/the-best-admin-panel-tutorial-126e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
