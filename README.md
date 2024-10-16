@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Hacktoberfest 2024 - part 2](https://dev.to/cleobnvntra/hacktoberfest-2024-part-2-1ldj)
-- [How I Built My First Python PET App &lpar;And What I Learned&rpar;](https://dev.to/dev_silva/how-i-built-my-first-python-pet-app-and-what-i-learned-1kfm)
-- [The neverending nightmare of keeping code satisfying!](https://dev.to/khaledsalshibani/the-neverending-nightmare-of-keeping-code-satisfying-2947)
-- [Build an AI Agent in a Next.js app using Web AI Framework](https://dev.to/mahamdev/build-an-ai-agent-in-a-nextjs-app-using-web-ai-framework-31fo)
-- [Python Project Creation on Mac OS X](https://dev.to/hasii2011/python-project-creation-on-mac-os-x-3bb4)
+- [Boas Práticas de Dash de Monitoramento para Observabilidade: Um Guia Simples](https://dev.to/andressa_abrantes/boas-praticas-de-dash-de-monitoramento-para-observabilidade-um-guia-simples-2m3m)
+- [Building Better APIs with ThrottleX: Rate Limiting Done Right](https://dev.to/neelp03/building-better-apis-with-throttlex-rate-limiting-done-right-5432)
+- [Civo: Simplificando Kubernetes para todos](https://dev.to/gelopfalcon/civo-simplificando-kubernetes-para-todos-27hi)
+- [How to understand Static in Class and Interface?](https://dev.to/caesar2334/how-to-understand-static-in-class-and-interface-498p)
+- [What Does It Take to Build High-Performing Teams?](https://dev.to/alexr/what-does-it-take-to-build-high-performing-teams-3ogg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
