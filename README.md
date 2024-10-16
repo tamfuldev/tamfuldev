@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Difference Between Scripting Languages and Programming Languages](https://dev.to/abhinowww/understanding-the-difference-between-scripting-languages-and-programming-languages-1666)
-- [🧑‍💻 Day 7: Master Linux Package Managers &amp; Systemctl in Your DevOps Journey](https://dev.to/singh_in_cloud/day-7-master-linux-package-managers-systemctl-in-your-devops-journey-568p)
-- [Getting a member according to primary key value #eg59](https://dev.to/esproc_spl/getting-a-member-according-to-primary-key-value-eg59-141e)
-- [Automate Your Java Tasks with Quartz: A Practical Guide](https://dev.to/birkssachdev/automate-your-java-tasks-with-quartz-a-practical-guide-3pc7)
-- [SQL Cheatsheet: A Handy Reference for SQL Commands with Examples](https://dev.to/jagroop2001/sql-cheatsheet-a-handy-reference-for-sql-commands-with-examples-1bbp)
+- [How to Customize the Auth Challenge in SafeLine WAF](https://dev.to/carrie_luo1/how-to-customize-the-auth-challenge-in-safeline-waf-47hm)
+- [Excelize 2.9.0 Released - Powerful open-source library for spreadsheet &lpar;Excel&rpar; document](https://dev.to/xuri/excelize-290-released-powerful-open-source-library-for-spreadsheet-excel-document-2ee6)
+- [The 6 Best Web Application Firewalls Compared &lpar;2024&rpar;](https://dev.to/carrie_luo1/the-6-best-web-application-firewalls-compared-2024-1d9l)
+- [Helping You Navigate the Ever-Changing Online Landscape: Digital Marketing Agency](https://dev.to/anna_asher_b22736da7cf33b/helping-you-navigate-the-ever-changing-online-landscape-digital-marketing-agency-6e9)
+- [How to Configure SafeLine WAF to Correctly Obtain the Source IP](https://dev.to/carrie_luo1/how-to-configure-safeline-waf-to-correctly-obtain-the-source-ip-15lm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
