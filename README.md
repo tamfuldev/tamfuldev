@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Key: A Tale of Access Control](https://dev.to/carrie_luo1/the-hidden-key-a-tale-of-access-control-3lm9)
-- [Test Automation in Software Development](https://dev.to/jennife05918349/test-automation-in-software-development-1b5d)
-- [5 Key Software Architecture Principles for Starting Your Next Project](https://dev.to/byteminds_agency/5-key-software-architecture-principles-for-starting-your-next-project-57og)
-- [Running Spring Boot Applications With Gradle and Maven](https://dev.to/petemode/running-spring-boot-applications-with-gradle-and-maven-2lgp)
-- [FastLane’s ERC-4337 Support, Limitless x Etherspot, XION’s Walletless Blockchain, and Unichain Launch](https://dev.to/alexandradev/fastlanes-erc-4337-support-limitless-x-etherspot-xions-walletless-blockchain-and-unichain-launch-1d6g)
+- [Top 25 React Tips Every Developer Should Know](https://dev.to/myogeshchavan97/top-25-react-tips-every-developer-should-know-2ehg)
+- [React Router and Its Benefits in Developing Single Page Applications &lpar;SPAs&rpar;](https://dev.to/seyedahmaddv/react-router-and-its-benefits-in-developing-single-page-applications-spas-4p9)
+- [🚀 Harnessing Generative AI for Software Development: The Next Big Leap?](https://dev.to/tung_tranvan_5eb7ec86d97/harnessing-generative-ai-for-software-development-the-next-big-leap-3g6f)
+- [The Role of Moss Code in Academic Integrity](https://dev.to/codequiry/the-role-of-moss-code-in-academic-integrity-3g1m)
+- [Enable Configuration APIs of WAS in Windows 11](https://dev.to/winsides/enable-configuration-apis-of-was-in-windows-11-1e6m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
