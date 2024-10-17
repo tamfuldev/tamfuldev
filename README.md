@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Reached #1 on Google&#39;s SERP in Just 30 Days: The Handy Developers Guide Success Story](https://dev.to/dumebii/how-i-reached-1-on-googles-serp-in-just-30-days-the-handy-developers-guide-success-story-3kpa)
-- [List Reconciling Problem](https://dev.to/noop/list-reconciling-problem-3gj1)
-- [First Impressions of Compose Multiplatform](https://dev.to/eevajonnapanula/first-impressions-of-compose-multiplatform-19ii)
-- [How to See Someone’s First Post on Instagram? 🤔](https://dev.to/volfcan/how-to-see-someones-first-post-on-instagram-1g92)
-- [11 API Documentation Best Practices for CI/CD 2024](https://dev.to/lasserafn/11-api-documentation-best-practices-for-cicd-2024-3l13)
+- [Express v5: What You Need to Know About Express v5](https://dev.to/usman_awan/express-v5-what-you-need-to-know-about-express-v5-1j3h)
+- [How I Build AI Agents in Seconds🤯](https://dev.to/emmakodes_/how-i-build-ai-agents-in-seconds-26kn)
+- [Hey aspiring Devs, the world doesn&#39;t know your worth](https://dev.to/jcsmileyjr/hey-aspiring-devs-the-world-doesnt-know-your-worth-2aca)
+- [What Is a SIM Swap Attack, and How Can You Prevent It?](https://dev.to/vonagedev/what-is-a-sim-swap-attack-and-how-can-you-prevent-it-4dj)
+- [realtime chat with bot using data-star](https://dev.to/blinkinglight/realtime-chat-with-bot-using-data-star-4f7o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
