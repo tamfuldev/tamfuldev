@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Verilog vs VHDL: Choosing the Right HDL for FPGA Programming](https://dev.to/oven_kivi_9767f2633fb99c9/verilog-vs-vhdl-choosing-the-right-hdl-for-fpga-programming-27c3)
-- [Transactional Emails: A long term view](https://dev.to/jeremy_tly/transactional-emails-a-long-term-view-13l6)
-- [Quickly and Easily Manage Multiple SSH and GPG Keys Across Git Repositories](https://dev.to/jt_ziolo/quickly-and-easily-check-and-configure-ssh-and-gpg-keys-for-git-repositories-21p6)
-- [🦙💬 Building a Next.js Chatbot with NVIDIA Llama 3.1 Nemotron-70B Integration](https://dev.to/jadouse5/building-a-nextjs-chatbot-with-nvidia-llama-31-nemotron-70b-integration-9h2)
-- [priceless-sanne-4yq8n4](https://dev.to/zavalarubengpe/priceless-sanne-4yq8n4-3p1h)
+- [Syntax vs. Semantics](https://dev.to/hexalore/syntax-vs-semantics-4ckd)
+- [Understanding Node.js’s Single-Threaded Model and Concurrency](https://dev.to/softden_2005/understanding-nodejss-single-threaded-model-and-concurrency-12lc)
+- [HTML Diff for CKEditor](https://dev.to/lorenlee/html-diff-for-ck-editor-1hc4)
+- [Cucumber Testing: A Comprehensive Guide](https://dev.to/keploy/cucumber-testing-a-comprehensive-guide-3fj2)
+- [Awesome Prompts](https://dev.to/susheel_kumar/awesome-prompts-hib)
 <!-- BLOG-POST-LIST:END -->
 
 ---
