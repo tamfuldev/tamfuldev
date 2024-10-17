@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Changing CSS as You Scroll with Stimulus](https://dev.to/railsdesigner/changing-css-as-you-scroll-with-stimulus-5854)
-- [Java 21 Pattern Matching Interview Questions](https://dev.to/myexamcloud/java-21-pattern-matching-interview-questions-dp3)
-- [Typescript Dependency Injection](https://dev.to/jahudka/typescript-dependency-injection-22lb)
-- [The Ultimate Database Tools for Collaborative Team Design in 2025](https://dev.to/roxana_haidiner/the-ultimate-database-tools-for-collaborative-team-design-in-2025-f4d)
-- [Kubernetes homelab - Learning by doing, Part 2: Installation](https://dev.to/depp57/kubernetes-homelab-learning-by-doing-part-2-installation-1h5h)
+- [How I Reached #1 on Google&#39;s SERP in Just 30 Days: The Handy Developers Guide Success Story](https://dev.to/dumebii/how-i-reached-1-on-googles-serp-in-just-30-days-the-handy-developers-guide-success-story-3kpa)
+- [List Reconciling Problem](https://dev.to/noop/list-reconciling-problem-3gj1)
+- [First Impressions of Compose Multiplatform](https://dev.to/eevajonnapanula/first-impressions-of-compose-multiplatform-19ii)
+- [How to See Someone’s First Post on Instagram? 🤔](https://dev.to/volfcan/how-to-see-someones-first-post-on-instagram-1g92)
+- [11 API Documentation Best Practices for CI/CD 2024](https://dev.to/lasserafn/11-api-documentation-best-practices-for-cicd-2024-3l13)
 <!-- BLOG-POST-LIST:END -->
 
 ---
