@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [10 Bad TypeScript Habits To Break In 2024](https://dev.to/safdarali/10-bad-typescript-habits-to-break-in-2024-2p54)
-- [App developers, where do you find inspiration for your next app ideas?💡](https://dev.to/jxd-dev/app-developers-where-do-you-find-inspiration-for-your-next-app-ideas-1m6p)
-- [My personal profile](https://dev.to/m_faizanfaizii_b10b3e/my-personal-profile-3jj7)
-- [Day 1043 : Cold Day](https://dev.to/dwane/day-1043-cold-day-23dl)
-- [Aplicação de Machine Learning: Um Guia para Iniciantes em Classificação &lpar;Parte 1&rpar;](https://dev.to/marshalmori/aplicacao-de-machine-learning-um-guia-para-iniciantes-em-classificacao-parte-1-h6)
+- [Create Toggle Button in HTML CSS &amp; JavaScript](https://dev.to/notarena/create-toggle-button-in-html-css-javascript-2l2c)
+- [Abstração em Programação Orientada a Objetos](https://dev.to/emanoelcarvalho/abstracao-em-programacao-orientada-a-objetos-5bb4)
+- [How to activate/verify phone number in Twillio for use with OpenAI?](https://dev.to/thomas_romanowski_9442e51/how-to-activateverify-phone-number-in-twillio-for-use-with-openai-90i)
+- [🚀 In-App Surveys in React Native with Formbricks: The Ultimate Guide ❤️‍🔥](https://dev.to/preethi_sri_e4b0ecd15ee19/in-app-surveys-in-react-native-with-formbricks-the-ultimate-guide-1gp2)
+- [Polimorfismo em Programação Orientada a Objetos](https://dev.to/emanoelcarvalho/polimorfismo-em-programacao-orientada-a-objetos-14lb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
