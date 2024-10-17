@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Say hello to FreeBSD](https://dev.to/brunopacheco1/say-hello-to-freebsd-71p)
-- [MySQL Terminal: Login, Users and Permissions](https://dev.to/xxzeroxx/mysql-terminal-login-users-and-permissions-53ie)
-- [AI Tool: V0 with drag and drop and tailwindcss](https://dev.to/buildwebcrumbs/ai-tool-v0-with-drag-and-drop-and-tailwindcss-1jkh)
-- [Quick Tip: Git Undo Commands](https://dev.to/codewithcaen/quick-tip-git-undo-commands-1kj9)
-- [Using Mixins in Sass](https://dev.to/codeparrot/using-mixins-in-sass-4p23)
+- [Automation - How to Send Email Programmatically with Python](https://dev.to/techelopment/automation-how-to-send-email-programmatically-with-python-4da2)
+- [Why Apache Kafka, Docker, and C#?](https://dev.to/dazevedo/why-apache-kafka-docker-and-c-2bl9)
+- [AI Code: A Guide to Essential Terminology](https://dev.to/barat/ai-code-a-guide-to-essential-terminology-4jdd)
+- [Infrastructure as Code &lpar;IaC&rpar; : Automatisation de l&#39;Infrastructure avec Terraform et Ansible](https://dev.to/elglioui/infrastructure-as-code-iac-automatisation-de-linfrastructure-avec-terraform-et-ansible-216n)
+- [LabEx Trending: MySQL Database Management Fundamentals and More](https://dev.to/labex/labex-trending-mysql-database-management-fundamentals-and-more-glb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
