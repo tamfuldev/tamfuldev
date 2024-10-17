@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Accidentally Became a YouTube Creator... 54 Years Ago!&quot; 😯](https://dev.to/devops_descent/how-i-accidentally-became-a-youtube-creator-54-years-ago-4mdk)
-- [Figma for developers: Figma Styles, Typography and Variables](https://dev.to/codeparrot/figma-for-developers-figma-styles-typography-and-variables-4pb)
-- [问题记录](https://dev.to/truman_999999999/wen-ti-ji-lu-3fbo)
-- [Selenium 4: Understanding Key Features](https://dev.to/robort_smith/selenium-4-understanding-key-features-4jfo)
-- [DevOps and CI/CD Automation: Enhancing Software Development Efficiency 🚀🔧](https://dev.to/info_generalhazedawn_a3d/devops-and-cicd-automation-enhancing-software-development-efficiency-1nlb)
+- [Filter a CSV file and re-arrange it by category #eg60](https://dev.to/esproc_spl/filter-a-csv-file-and-re-arrange-it-by-category-eg60-13l9)
+- [5 Schritte zum Scraping mehrerer Bilder mit Python](https://dev.to/hanna_fischer_69a29e3a4c4/5-schritte-zum-scraping-mehrerer-bilder-mit-python-43nn)
+- [MPC5566 vs SPC5606S: Which is Right for Your Design?](https://dev.to/xecor/mpc5566-vs-spc5606s-which-is-right-for-your-design-30g9)
+- [Creating Custom Directives in Angular : A Step-by-Step Guide](https://dev.to/manthanank/creating-custom-directives-in-angular-a-step-by-step-guide-5bel)
+- [When does the TDD approach make sense?](https://dev.to/lukapeharda/when-does-the-tdd-approach-make-sense-439j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
