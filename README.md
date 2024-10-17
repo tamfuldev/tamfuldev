@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top 25 React Tips Every Developer Should Know](https://dev.to/myogeshchavan97/top-25-react-tips-every-developer-should-know-2ehg)
-- [React Router and Its Benefits in Developing Single Page Applications &lpar;SPAs&rpar;](https://dev.to/seyedahmaddv/react-router-and-its-benefits-in-developing-single-page-applications-spas-4p9)
-- [🚀 Harnessing Generative AI for Software Development: The Next Big Leap?](https://dev.to/tung_tranvan_5eb7ec86d97/harnessing-generative-ai-for-software-development-the-next-big-leap-3g6f)
-- [The Role of Moss Code in Academic Integrity](https://dev.to/codequiry/the-role-of-moss-code-in-academic-integrity-3g1m)
-- [Enable Configuration APIs of WAS in Windows 11](https://dev.to/winsides/enable-configuration-apis-of-was-in-windows-11-1e6m)
+- [Mastering GitHub Actions for DevOps Engineers: A Complete Guide from Beginner to Advanced](https://dev.to/prodevopsguytech/mastering-github-actions-for-devops-engineers-a-complete-guide-from-beginner-to-advanced-2lc1)
+- [The Adventures of Blink S2e6: Integrating All the Things](https://dev.to/linkbenjamin/the-adventures-of-blink-s2e6-integrating-all-the-things-302a)
+- [Object Serialization and Deserialization with Newtonsoft.Json](https://dev.to/juarezasjunior/object-serialization-and-deserialization-with-newtonsoftjson-1j1b)
+- [Code Your Way to Financial Freedom: A Developer&#39;s Roadmap](https://dev.to/techbalance_collective/code-your-way-to-financial-freedom-a-developers-roadmap-4bhk)
+- [Serialização e Desserialização de Objetos com Newtonsoft.Json](https://dev.to/juarezasjunior/serializacao-e-desserializacao-de-objetos-com-newtonsoftjson-5b0a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
