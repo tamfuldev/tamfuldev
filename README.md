@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [WTF is Low-Level Design?](https://dev.to/shivam_chauhan/wtf-is-low-level-design-58b3)
-- [Database Replication NLogN🔄](https://dev.to/ycwhencpp/database-replication-nlognn-19kl)
-- [Extending a CLI Program with Subcommands in Rust](https://dev.to/jakenherman/extending-a-cli-program-with-subcommands-in-rust-40j2)
-- [Benefício Fiscal com o Fator R](https://dev.to/filbraga/beneficio-fiscal-com-o-fator-r-1178)
-- [Why You Should &lpar;Probably&rpar; Use TypeScript?](https://dev.to/shafayeat/why-you-should-probably-use-typescript-25g9)
+- [Say hello to FreeBSD](https://dev.to/brunopacheco1/say-hello-to-freebsd-71p)
+- [MySQL Terminal: Login, Users and Permissions](https://dev.to/xxzeroxx/mysql-terminal-login-users-and-permissions-53ie)
+- [AI Tool: V0 with drag and drop and tailwindcss](https://dev.to/buildwebcrumbs/ai-tool-v0-with-drag-and-drop-and-tailwindcss-1jkh)
+- [Quick Tip: Git Undo Commands](https://dev.to/codewithcaen/quick-tip-git-undo-commands-1kj9)
+- [Using Mixins in Sass](https://dev.to/codeparrot/using-mixins-in-sass-4p23)
 <!-- BLOG-POST-LIST:END -->
 
 ---
