@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Automation - How to Send Email Programmatically with Python](https://dev.to/techelopment/automation-how-to-send-email-programmatically-with-python-4da2)
-- [Why Apache Kafka, Docker, and C#?](https://dev.to/dazevedo/why-apache-kafka-docker-and-c-2bl9)
-- [AI Code: A Guide to Essential Terminology](https://dev.to/barat/ai-code-a-guide-to-essential-terminology-4jdd)
-- [Infrastructure as Code &lpar;IaC&rpar; : Automatisation de l&#39;Infrastructure avec Terraform et Ansible](https://dev.to/elglioui/infrastructure-as-code-iac-automatisation-de-linfrastructure-avec-terraform-et-ansible-216n)
-- [LabEx Trending: MySQL Database Management Fundamentals and More](https://dev.to/labex/labex-trending-mysql-database-management-fundamentals-and-more-glb)
+- [Reliable Multi-Agent Orchestration with Durable Swarm](https://dev.to/dbos/reliable-multi-agent-orchestration-with-durable-swarm-1f6l)
+- [What is JavaScript and Why You Should Learn It](https://dev.to/ridoy_hasan/what-is-javascript-and-why-you-should-learn-it-2e7l)
+- [Introdução ao String Catalog: Melhore a localização de strings no iOS 16 com Xcode 14](https://dev.to/lys/introducao-ao-string-catalog-melhore-a-localizacao-de-strings-no-ios-16-com-xcode-14-2je1)
+- [AWS EKS CLUSTER](https://dev.to/she0407/aws-eks-cluster-1j99)
+- [Day 1044 : Care Plan](https://dev.to/dwane/day-1044-care-plan-2516)
 <!-- BLOG-POST-LIST:END -->
 
 ---
