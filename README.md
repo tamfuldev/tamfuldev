@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Big Data Playground Sandbox for Learning](https://dev.to/abdullah_haggag/building-a-big-data-playground-sandbox-for-learning-cgi)
-- [The Future of Passwordless Authentication: Are Passwords Becoming Obsolete?](https://dev.to/akansh_pandeyap_041d5b/the-future-of-passwordless-authentication-are-passwords-becoming-obsolete-mpj)
-- [Cosmos’s New Interchain Stack: The One-Level-Up SDK for Sovereign L1 Builders](https://dev.to/zeeve/cosmoss-new-interchain-stack-the-one-level-up-sdk-for-sovereign-l1-builders-clc)
-- [Brain.JS -- The intelligence for your frontend app](https://dev.to/tanoy_basak/brainjs-the-intelligence-for-your-frontend-app-14ak)
-- [I Built a Collection of 100+ Open-Source SVG Spinners](https://dev.to/shubhamjain/i-built-a-collection-of-100-open-source-svg-spinners-2975)
+- [How I Accidentally Became a YouTube Creator... 54 Years Ago!&quot; 😯](https://dev.to/devops_descent/how-i-accidentally-became-a-youtube-creator-54-years-ago-4mdk)
+- [Figma for developers: Figma Styles, Typography and Variables](https://dev.to/codeparrot/figma-for-developers-figma-styles-typography-and-variables-4pb)
+- [问题记录](https://dev.to/truman_999999999/wen-ti-ji-lu-3fbo)
+- [Selenium 4: Understanding Key Features](https://dev.to/robort_smith/selenium-4-understanding-key-features-4jfo)
+- [DevOps and CI/CD Automation: Enhancing Software Development Efficiency 🚀🔧](https://dev.to/info_generalhazedawn_a3d/devops-and-cicd-automation-enhancing-software-development-efficiency-1nlb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
