@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Create Toggle Button in HTML CSS &amp; JavaScript](https://dev.to/notarena/create-toggle-button-in-html-css-javascript-2l2c)
-- [Abstração em Programação Orientada a Objetos](https://dev.to/emanoelcarvalho/abstracao-em-programacao-orientada-a-objetos-5bb4)
-- [How to activate/verify phone number in Twillio for use with OpenAI?](https://dev.to/thomas_romanowski_9442e51/how-to-activateverify-phone-number-in-twillio-for-use-with-openai-90i)
-- [🚀 In-App Surveys in React Native with Formbricks: The Ultimate Guide ❤️‍🔥](https://dev.to/preethi_sri_e4b0ecd15ee19/in-app-surveys-in-react-native-with-formbricks-the-ultimate-guide-1gp2)
-- [Polimorfismo em Programação Orientada a Objetos](https://dev.to/emanoelcarvalho/polimorfismo-em-programacao-orientada-a-objetos-14lb)
+- [Verilog vs VHDL: Choosing the Right HDL for FPGA Programming](https://dev.to/oven_kivi_9767f2633fb99c9/verilog-vs-vhdl-choosing-the-right-hdl-for-fpga-programming-27c3)
+- [Transactional Emails: A long term view](https://dev.to/jeremy_tly/transactional-emails-a-long-term-view-13l6)
+- [Quickly and Easily Manage Multiple SSH and GPG Keys Across Git Repositories](https://dev.to/jt_ziolo/quickly-and-easily-check-and-configure-ssh-and-gpg-keys-for-git-repositories-21p6)
+- [🦙💬 Building a Next.js Chatbot with NVIDIA Llama 3.1 Nemotron-70B Integration](https://dev.to/jadouse5/building-a-nextjs-chatbot-with-nvidia-llama-31-nemotron-70b-integration-9h2)
+- [priceless-sanne-4yq8n4](https://dev.to/zavalarubengpe/priceless-sanne-4yq8n4-3p1h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
