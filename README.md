@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Express v5: What You Need to Know About Express v5](https://dev.to/usman_awan/express-v5-what-you-need-to-know-about-express-v5-1j3h)
-- [How I Build AI Agents in Seconds🤯](https://dev.to/emmakodes_/how-i-build-ai-agents-in-seconds-26kn)
-- [Hey aspiring Devs, the world doesn&#39;t know your worth](https://dev.to/jcsmileyjr/hey-aspiring-devs-the-world-doesnt-know-your-worth-2aca)
-- [What Is a SIM Swap Attack, and How Can You Prevent It?](https://dev.to/vonagedev/what-is-a-sim-swap-attack-and-how-can-you-prevent-it-4dj)
-- [realtime chat with bot using data-star](https://dev.to/blinkinglight/realtime-chat-with-bot-using-data-star-4f7o)
+- [Cracking the Coding Interview: Part 5 – The Merge Intervals Pattern](https://dev.to/zzeroyzz/cracking-the-coding-interview-part-5-the-merge-intervals-pattern-5blj)
+- [Taming Long Text: The Art of Truncation with CSS](https://dev.to/56_kode/taming-long-text-the-art-of-truncation-with-css-393)
+- [You Probably Don&#39;t Need Serializable Isolation](https://dev.to/aws-heroes/you-probably-dont-need-serializable-isolation-131g)
+- [Why Do Web Developers Suck at Making Video Games?](https://dev.to/wadecodez/why-do-web-developers-suck-at-making-video-games-ki9)
+- [Valorant人気ナイフスキンランキング | レアスキンや新作スキンの詳細](https://dev.to/eddy_chil/valorantren-qi-naihusukinrankingu-reasukinyaxin-zuo-sukinnoxiang-xi-2cp1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
