@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Comprehensive 𝗚𝘂𝗶𝗱𝗲 𝘁𝗼 𝗦𝘁𝗮𝗰𝗸 𝗗𝗮𝘁𝗮 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲: 𝗜𝗺𝗽𝗹𝗲𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻, 𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝘀, 𝗮𝗻𝗱 𝗣𝗿𝗼𝗯𝗹𝗲𝗺-𝗦𝗼𝗹𝘃𝗶𝗻𝗴](https://dev.to/nozibul_islam_113b1d5334f/--516f)
-- [Using Web Workers in Vue 3](https://dev.to/bensoutendijk/using-web-workers-in-vue-3-4jc0)
-- [QA Testing: Ensuring Software Quality from Start to Finish](https://dev.to/keploy/qa-testing-ensuring-software-quality-from-start-to-finish-50kc)
-- [NIPs Platform: Pioneering NFT Innovation on Mint Blockchain](https://dev.to/mint_/nips-platform-pioneering-nft-innovation-on-mint-blockchain-5496)
-- [🛠️ Building Forms and Form Validation in React 🎯](https://dev.to/erasmuskotoka/building-forms-and-form-validation-in-react-16d4)
+- [Cart Functions and how to do them in PHP](https://dev.to/yarkodev/cart-functions-and-how-to-do-them-in-php-1g1e)
+- [A privacy focused online PDF Editor](https://dev.to/ekansh_02898088ac05036971/a-privacy-focused-online-pdf-editor-4icc)
+- [Automating WireGuard VPN Setup with Ansible Ec2 Linux: A Step-by-Step Guide](https://dev.to/giasuddin90/automating-wireguard-vpn-setup-with-ansible-ec2-linux-a-step-by-step-guide-5058)
+- [How to setup the Nvidia TAO Toolkit on Kaggle Notebook](https://dev.to/reckon762/how-to-setup-the-nvidia-tao-toolkit-on-kaggle-notebook-3h77)
+- [🎉Hacktoberfest: A Journey of Open Source Awesomeness 🚀](https://dev.to/kunal15112001/hacktoberfest-a-journey-of-open-source-awesomeness-44ji)
 <!-- BLOG-POST-LIST:END -->
 
 ---
