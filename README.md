@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [WTF is Low-Level Design?](https://dev.to/shivam_chauhan/wtf-is-low-level-design-58b3)
+- [Database Replication NLogN🔄](https://dev.to/ycwhencpp/database-replication-nlognn-19kl)
+- [Extending a CLI Program with Subcommands in Rust](https://dev.to/jakenherman/extending-a-cli-program-with-subcommands-in-rust-40j2)
+- [Benefício Fiscal com o Fator R](https://dev.to/filbraga/beneficio-fiscal-com-o-fator-r-1178)
 - [Why You Should &lpar;Probably&rpar; Use TypeScript?](https://dev.to/shafayeat/why-you-should-probably-use-typescript-25g9)
-- [TypeScript Utility Types: Enhancing Code Reusability](https://dev.to/shafayeat/typescript-utility-types-enhancing-code-reusability-507g)
-- [Creating an API with Lithe](https://dev.to/lithephp/creating-an-api-with-lithe-5g46)
-- [Criando uma API com Lithe](https://dev.to/lithephp/criando-uma-api-com-lithe-11n5)
-- [10 Tips to Level Up as a Full Stack Developer at Any Age](https://dev.to/abdullah_tajudeen_a406597/10-tips-to-level-up-as-a-full-stack-developer-at-any-age-2507)
 <!-- BLOG-POST-LIST:END -->
 
 ---
