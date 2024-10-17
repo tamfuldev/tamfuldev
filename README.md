@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Filter a CSV file and re-arrange it by category #eg60](https://dev.to/esproc_spl/filter-a-csv-file-and-re-arrange-it-by-category-eg60-13l9)
-- [5 Schritte zum Scraping mehrerer Bilder mit Python](https://dev.to/hanna_fischer_69a29e3a4c4/5-schritte-zum-scraping-mehrerer-bilder-mit-python-43nn)
-- [MPC5566 vs SPC5606S: Which is Right for Your Design?](https://dev.to/xecor/mpc5566-vs-spc5606s-which-is-right-for-your-design-30g9)
-- [Creating Custom Directives in Angular : A Step-by-Step Guide](https://dev.to/manthanank/creating-custom-directives-in-angular-a-step-by-step-guide-5bel)
-- [When does the TDD approach make sense?](https://dev.to/lukapeharda/when-does-the-tdd-approach-make-sense-439j)
+- [Automated Security Operations with Safeline WAF](https://dev.to/carrie_luo1/automated-security-operations-with-safeline-waf-5fic)
+- [Vaadin, the battery-included server-side AJAX framework](https://dev.to/nfrankel/vaadin-the-battery-included-server-side-ajax-framework-21nm)
+- [How to Automatically Issue Badges for Instruqt Labs](https://dev.to/raphink/how-to-automatically-issue-badges-for-instruqt-labs-18k5)
+- [Building Your Network to Advance Your Career: Networking Strategies for Web Developers](https://dev.to/okoye_ndidiamaka_5e3b7d30/building-your-network-to-advance-your-career-networking-strategies-for-web-developers-232f)
+- [How to determine the resistor or capacitor for RC low frequency filter.](https://dev.to/zhangzhuyue/how-to-determine-the-resistor-or-capacitor-for-rc-low-frequency-filter-286c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
