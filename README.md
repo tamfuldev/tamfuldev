@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build your own personal SIRI with LLAMA-3 like a PRO! 🧙‍♂️ 🪄](https://dev.to/shricodev/build-your-personal-siri-with-llama-3-like-a-pro-5h1o)
-- [Engineer Astra! Explore top colleges and best courses in India.](https://dev.to/vishal_tiwari_114f21d14e5/engineer-astra-explore-top-colleges-and-best-courses-in-india-4bad)
-- [Chuck Norris TODO list](https://dev.to/pengeszikra/chuck-norris-todo-list-564l)
-- [Item 63: Cuidado com o desempenho da concatenação de string](https://dev.to/giselecoder/item-63-cuidado-com-o-desempenho-da-concatenacaode-string-2b67)
-- [Best Perplexity AI Integrations](https://dev.to/ritiktyagi27/best-perplexity-ai-integrations-of-2024-f8f)
+- [Changing CSS as You Scroll with Stimulus](https://dev.to/railsdesigner/changing-css-as-you-scroll-with-stimulus-5854)
+- [Java 21 Pattern Matching Interview Questions](https://dev.to/myexamcloud/java-21-pattern-matching-interview-questions-dp3)
+- [Typescript Dependency Injection](https://dev.to/jahudka/typescript-dependency-injection-22lb)
+- [The Ultimate Database Tools for Collaborative Team Design in 2025](https://dev.to/roxana_haidiner/the-ultimate-database-tools-for-collaborative-team-design-in-2025-f4d)
+- [Kubernetes homelab - Learning by doing, Part 2: Installation](https://dev.to/depp57/kubernetes-homelab-learning-by-doing-part-2-installation-1h5h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
