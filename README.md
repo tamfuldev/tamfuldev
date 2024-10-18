@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Power of AWS Console to Code: A Game-Changer for DevOps and Infrastructure as code &lpar;IaC&rpar;](https://dev.to/aws-builders/unlocking-the-power-of-aws-console-to-code-a-game-changer-for-devops-and-infrastructure-as-code-iac-411l)
-- [Unlock the Power of Stored Procedures and Cursors: A Project-Based Course on Database Retrieval](https://dev.to/labex/unlock-the-power-of-stored-procedures-and-cursors-a-project-based-course-on-database-retrieval-2coi)
-- [Django application for production ready](https://dev.to/mrcaption49/django-application-for-production-ready-4doo)
-- [Sum Types in Python](https://dev.to/wjlewis/sum-types-in-python-cdm)
-- [AWS Application Integration Tools for Seamless Connectivity](https://dev.to/harman_diaz/aws-application-integration-tools-for-seamless-connectivity-17cj)
+- [Code, Collaboration, and Contributions: My First Ever Hacktoberfest Experience](https://dev.to/safdarali/code-collaboration-and-contributions-my-first-ever-hacktoberfest-experience-31de)
+- [Getting Started with Maven](https://dev.to/mohamed_kramti/getting-started-with-maven-5e04)
+- [E-commerce v/s Retail: The Battle For Future](https://dev.to/serpdogapi/e-commerce-vs-retail-the-battle-for-future-4g92)
+- [MySQL Terminal: Create Databases, Tables and more.](https://dev.to/xxzeroxx/mysql-terminal-create-databases-tables-and-more-26j2)
+- [Understanding Package Manager and Systemctl](https://dev.to/farukh166/understanding-package-manager-and-systemctl-2d9o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
