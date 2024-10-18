@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Testing hell 😱. Honest question. How do you survive? What&#39;s your secret?](https://dev.to/opensourcee/testing-hell-how-do-you-survive-whats-your-secret-263c)
-- [Use swoole as the IOT gateway framework in cloud for script programmable controller based on ESP8266](https://dev.to/zhangzhuyue/use-swoole-as-the-iot-gateway-framework-in-cloud-for-script-programmable-controller-based-on-esp8266-c8b)
-- [Best Indoor Plant Care and Maintenance Products](https://dev.to/litess/best-indoor-plant-care-and-maintenance-products-3kb4)
-- [How to set-up Ruby &amp; Gems paths - Ruby snap package version](https://dev.to/ali-alkhawaja/how-to-set-up-ruby-gems-paths-ruby-snap-package-version-54hg)
-- [Introduction to Next.js: Building Your First Application](https://dev.to/salmaniyad/introduction-to-nextjs-building-your-first-application-e82)
+- [AiSangeet! Generate music with image using AI.](https://dev.to/vishal_tiwari_114f21d14e5/aisangeet-generate-music-with-image-using-ai-2ci5)
+- [Nigeria on the Brink: How Climate Crises Are Reshaping the Nation&#39;s Economy and Environment](https://dev.to/ifeanyiogbekene/nigeria-on-the-brink-how-climate-crises-are-reshaping-the-nations-economy-and-environment-4f5c)
+- [Switch API backend between tests and production](https://dev.to/cherubins_thibaut/switch-api-backend-between-tests-and-production-2i3a)
+- [What is Cloud Gaming for VR?](https://dev.to/gamepro/what-is-cloud-gaming-for-vr-alf)
+- [How to Fix Long Animation Frames &lpar;LoAFs&rpar; and Speed Up Your Website](https://dev.to/requestmetrics/how-to-fix-long-animation-frames-loafs-and-speed-up-your-website-nm1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
