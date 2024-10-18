@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m building robots](https://dev.to/ben/im-building-robots-1pnd)
-- [How to check the param added](https://dev.to/hyun_hyun/how-to-check-the-param-added-2a4n)
-- [How to Contribute to Open Source as a Blockchain Developer in 2024](https://dev.to/syed_khajamoinuddin_04dd/how-to-contribute-to-open-source-as-a-blockchain-developer-in-2024-3j20)
-- [Can ChatGPT be trained to become human?](https://dev.to/theainews/can-chatgpt-be-trained-to-become-human-3fe8)
-- [ACID properties in SQL](https://dev.to/mrcaption49/acid-properties-in-sql-3kfk)
+- [Testing hell 😱. Honest question. How do you survive? What&#39;s your secret?](https://dev.to/opensourcee/testing-hell-how-do-you-survive-whats-your-secret-263c)
+- [Use swoole as the IOT gateway framework in cloud for script programmable controller based on ESP8266](https://dev.to/zhangzhuyue/use-swoole-as-the-iot-gateway-framework-in-cloud-for-script-programmable-controller-based-on-esp8266-c8b)
+- [Best Indoor Plant Care and Maintenance Products](https://dev.to/litess/best-indoor-plant-care-and-maintenance-products-3kb4)
+- [How to set-up Ruby &amp; Gems paths - Ruby snap package version](https://dev.to/ali-alkhawaja/how-to-set-up-ruby-gems-paths-ruby-snap-package-version-54hg)
+- [Introduction to Next.js: Building Your First Application](https://dev.to/salmaniyad/introduction-to-nextjs-building-your-first-application-e82)
 <!-- BLOG-POST-LIST:END -->
 
 ---
