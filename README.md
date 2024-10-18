@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Adding a CU to Your Arweave Gateway](https://dev.to/fllstck/adding-a-cu-to-your-arweave-gateway-3aj1)
-- [Recording Videos Using JavaScript and Browser APIs](https://dev.to/koolkamalkishor/recording-videos-using-javascript-and-browser-apis-302k)
-- [Game Dev Digest — Issue #254 - Unity 6](https://dev.to/gamedevdigest/game-dev-digest-issue-254-unity-6-4h5c)
-- [Authorization: Understanding Policies in Laravel](https://dev.to/olodocoder/authorization-understanding-policies-in-laravel-4gao)
-- [Customize Schema with @extend_schema_view](https://dev.to/hyun_hyun/customize-schema-with-extendschemaview-44nj)
+- [I&#39;m building robots](https://dev.to/ben/im-building-robots-1pnd)
+- [How to check the param added](https://dev.to/hyun_hyun/how-to-check-the-param-added-2a4n)
+- [How to Contribute to Open Source as a Blockchain Developer in 2024](https://dev.to/syed_khajamoinuddin_04dd/how-to-contribute-to-open-source-as-a-blockchain-developer-in-2024-3j20)
+- [Can ChatGPT be trained to become human?](https://dev.to/theainews/can-chatgpt-be-trained-to-become-human-3fe8)
+- [ACID properties in SQL](https://dev.to/mrcaption49/acid-properties-in-sql-3kfk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
