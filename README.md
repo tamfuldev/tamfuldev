@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [PARADIGMAS](https://dev.to/felipe_bs07/paradigmas-3dc5)
-- [7 Essential Events in React You Need to Know](https://dev.to/trushmi/7-essential-events-in-react-you-need-to-know-aan)
-- [See old Object Pascal from new Rust](https://dev.to/teminian/see-old-object-pascal-from-new-rust-44pl)
-- [낯선 Rust에서 오래된 Object Pascal의 향기를 느끼다](https://dev.to/teminian/nacseon-rusteseo-oraedoen-object-pascalyi-hyanggireul-neuggida-51b7)
-- [Unravel the Mysteries of Computation with this Captivating Course! 🤖](https://dev.to/getvm/unravel-the-mysteries-of-computation-with-this-captivating-course-302l)
+- [Reflections on Year 1 of my engineering studies](https://dev.to/shalvah/reflections-on-year-1-of-my-engineering-studies-2lg8)
+- [How to Access Your Localhost API from Docker Containers](https://dev.to/nasrulhazim/how-to-access-your-localhost-api-from-docker-containers-7ai)
+- [P2P, WebSockets &amp; WebTorrent](https://dev.to/majd_almnayer_2101/p2p-websockets-webtorrent-3om1)
+- [Is One the Future of Web and Mobile Development?](https://dev.to/mitchiemt11/is-one-the-future-of-web-and-mobile-development-df5)
+- [Implementing Tool Functionality in Conversational AI](https://dev.to/punkpeye/implementing-tool-functionality-in-conversational-ai-3n2g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
