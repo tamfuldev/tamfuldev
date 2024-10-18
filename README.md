@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AiSangeet! Generate music with image using AI.](https://dev.to/vishal_tiwari_114f21d14e5/aisangeet-generate-music-with-image-using-ai-2ci5)
-- [Nigeria on the Brink: How Climate Crises Are Reshaping the Nation&#39;s Economy and Environment](https://dev.to/ifeanyiogbekene/nigeria-on-the-brink-how-climate-crises-are-reshaping-the-nations-economy-and-environment-4f5c)
-- [Switch API backend between tests and production](https://dev.to/cherubins_thibaut/switch-api-backend-between-tests-and-production-2i3a)
-- [What is Cloud Gaming for VR?](https://dev.to/gamepro/what-is-cloud-gaming-for-vr-alf)
-- [How to Fix Long Animation Frames &lpar;LoAFs&rpar; and Speed Up Your Website](https://dev.to/requestmetrics/how-to-fix-long-animation-frames-loafs-and-speed-up-your-website-nm1)
+- [What is the difference between Null, NaN , isNaN&lpar;&rpar; and undefined in JavaScript?](https://dev.to/tanvir_ahamed/what-is-the-difference-between-null-nan-and-undefined-in-javascript-2g6i)
+- [Batch vs Online Learning: Breaking It Down for You](https://dev.to/harincoder/batch-vs-online-learning-breaking-it-down-for-you-3n8h)
+- [Weekly Updates - October 18, 2024](https://dev.to/couchbase/weekly-updates-october-18-2024-k)
+- [Web Service Calling Web Service](https://dev.to/gliimly/web-service-calling-web-service-15nb)
+- [How Minecraft Hypixel Scammers Are Getting Away With Your Accounts](https://dev.to/mr-3/how-minecraft-hypixel-scammers-are-getting-away-with-your-accounts-5f3n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
