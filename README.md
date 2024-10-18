@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [#77 - Conditional Aggregation](https://dev.to/judith677/77-conditional-aggregation-59gc)
-- [Dia 19 - Retornando a criação do meu sistema operacional](https://dev.to/matheusgb/dia-19-retornando-a-criacao-do-meu-sistema-operacional-cnc)
-- [Open Source Achievement: Completing My Third PR in Hacktoberfest](https://dev.to/anhchienvu/open-source-achievement-completing-my-third-pr-in-hacktoberfest-42ja)
-- [Task for Thursday Oct 17 - Analysis of Job of SA](https://dev.to/ndungu_jeffersonmarira_/task-for-thursday-oct-17-analysis-of-job-of-sa-15gk)
-- [First contribution to Open Source - charmbracelet/huh](https://dev.to/prithvijj/first-contribution-to-open-source-charmbracelethuh-3ifc)
+- [Vue.js for Beginners 2024 #VueJs Part 7 : Understanding Lifecycle Hooks](https://dev.to/kyydev/vuejs-for-beginners-2024-vuejs-part-7-understanding-lifecycle-hooks-46jn)
+- [How Cloud Computing Enhances Scalability and Performance](https://dev.to/adityabhuyan/how-cloud-computing-enhances-scalability-and-performance-oom)
+- [Cloud Computing and Cost Efficiency: Reducing IT Expenses](https://dev.to/adityabhuyan/cloud-computing-and-cost-efficiency-reducing-it-expenses-3pj8)
+- [Redis Monitoring with Prometheus Exporter and Grafana](https://dev.to/rslim087a/monitoring-redis-with-prometheus-and-grafana-56pk)
+- [Secure Shell &lpar;SSH&rpar; Crates in Rust](https://dev.to/michaelin007/secure-shell-ssh-crates-in-rust-4ggh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
