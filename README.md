@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Code, Collaboration, and Contributions: My First Ever Hacktoberfest Experience](https://dev.to/safdarali/code-collaboration-and-contributions-my-first-ever-hacktoberfest-experience-31de)
-- [Getting Started with Maven](https://dev.to/mohamed_kramti/getting-started-with-maven-5e04)
-- [E-commerce v/s Retail: The Battle For Future](https://dev.to/serpdogapi/e-commerce-vs-retail-the-battle-for-future-4g92)
-- [MySQL Terminal: Create Databases, Tables and more.](https://dev.to/xxzeroxx/mysql-terminal-create-databases-tables-and-more-26j2)
-- [Understanding Package Manager and Systemctl](https://dev.to/farukh166/understanding-package-manager-and-systemctl-2d9o)
+- [How to Enable Windows Identity Foundation 3.5 in Windows 11?](https://dev.to/winsides/how-to-enable-windows-identity-foundation-35-in-windows-11-14dg)
+- [How to Automate Everyday Tasks with Python &lpar;Part 2&rpar;](https://dev.to/trixsec/how-to-automate-everyday-tasks-with-python-part-2-2k67)
+- [Understanding UML Class Diagrams: A Beginner’s Guide](https://dev.to/krishna-nayak/understanding-uml-class-diagrams-a-beginners-guide-2omj)
+- [Java Spring Boot use log4j in a gradle project](https://dev.to/minhaz1217/java-spring-boot-use-log4j-in-a-gradle-project-54kg)
+- [Camouflage-Shield: An open source Image Encryption Application. &lpar;In Development to resolve limitations&rpar;](https://dev.to/saahen_sriyan_mishra/camouflage-shield-an-open-source-image-encryption-application-4e59)
 <!-- BLOG-POST-LIST:END -->
 
 ---
