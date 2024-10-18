@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Reflections on Year 1 of my engineering studies](https://dev.to/shalvah/reflections-on-year-1-of-my-engineering-studies-2lg8)
-- [How to Access Your Localhost API from Docker Containers](https://dev.to/nasrulhazim/how-to-access-your-localhost-api-from-docker-containers-7ai)
-- [P2P, WebSockets &amp; WebTorrent](https://dev.to/majd_almnayer_2101/p2p-websockets-webtorrent-3om1)
-- [Is One the Future of Web and Mobile Development?](https://dev.to/mitchiemt11/is-one-the-future-of-web-and-mobile-development-df5)
-- [Implementing Tool Functionality in Conversational AI](https://dev.to/punkpeye/implementing-tool-functionality-in-conversational-ai-3n2g)
+- [#77 - Conditional Aggregation](https://dev.to/judith677/77-conditional-aggregation-59gc)
+- [Dia 19 - Retornando a criação do meu sistema operacional](https://dev.to/matheusgb/dia-19-retornando-a-criacao-do-meu-sistema-operacional-cnc)
+- [Open Source Achievement: Completing My Third PR in Hacktoberfest](https://dev.to/anhchienvu/open-source-achievement-completing-my-third-pr-in-hacktoberfest-42ja)
+- [Task for Thursday Oct 17 - Analysis of Job of SA](https://dev.to/ndungu_jeffersonmarira_/task-for-thursday-oct-17-analysis-of-job-of-sa-15gk)
+- [First contribution to Open Source - charmbracelet/huh](https://dev.to/prithvijj/first-contribution-to-open-source-charmbracelethuh-3ifc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
