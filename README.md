@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mapeando e Manipulando Dados com Entity Framework Core](https://dev.to/juarezasjunior/mapeando-e-manipulando-dados-com-entity-framework-core-3f9p)
-- [Emotional Intelligence in IT: Leveling Up Your Soft Skills](https://dev.to/techbalance_collective/emotional-intelligence-in-it-leveling-up-your-soft-skills-19lb)
-- [Mapping and Manipulating Data with Entity Framework Core](https://dev.to/juarezasjunior/mapping-and-manipulating-data-with-entity-framework-core-2lfo)
-- [Poly-Encoder](https://dev.to/bullmouse/poly-encoder-39ig)
-- [No-Code Amazon Product Scraping: How It’s Possible](https://dev.to/syphoon_ef9378/no-code-amazon-product-scraping-how-its-possible-3fm0)
+- [Adding a CU to Your Arweave Gateway](https://dev.to/fllstck/adding-a-cu-to-your-arweave-gateway-3aj1)
+- [Recording Videos Using JavaScript and Browser APIs](https://dev.to/koolkamalkishor/recording-videos-using-javascript-and-browser-apis-302k)
+- [Game Dev Digest — Issue #254 - Unity 6](https://dev.to/gamedevdigest/game-dev-digest-issue-254-unity-6-4h5c)
+- [Authorization: Understanding Policies in Laravel](https://dev.to/olodocoder/authorization-understanding-policies-in-laravel-4gao)
+- [Customize Schema with @extend_schema_view](https://dev.to/hyun_hyun/customize-schema-with-extendschemaview-44nj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
