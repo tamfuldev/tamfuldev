@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-53kn)
-- [Introduction to Kubernetes](https://dev.to/jutionck/introduction-1oge)
-- [Comparing jq VS js String Interpolation](https://dev.to/pkutaj/comparing-jq-vs-js-string-interpolation-4643)
-- [Design CSS Like a Pro: Beyond Tailwind CSS and Bootstrap](https://dev.to/dev007777/design-css-like-a-pro-beyond-tailwind-css-and-bootstrap-1kf2)
-- [Understanding Key Object Methods in JavaScript](https://dev.to/muthuraja_r/javascript-object-methods-33n1)
+- [Running a Dedicated Ethereum RPC Node in a Virtual Machine](https://dev.to/nodeshiftcloud/running-a-dedicated-ethereum-rpc-node-in-a-virtual-machine-2fk4)
+- [AI Tools That Every Student Should Know About](https://dev.to/growkon21/ai-tools-that-every-student-should-know-about-n44)
+- [Exploring RareShop: The First Consumer-Oriented RWA NFT Product Launch Platform](https://dev.to/mint_/exploring-rareshop-the-first-consumer-oriented-rwa-nft-product-launch-platform-4bop)
+- [Untitled](https://dev.to/muhammad_ibrahim_8f51c6b1/untitled-4ppk)
+- [Kubernetes: Install Tools](https://dev.to/jutionck/kubernetes-install-tools-5dik)
 <!-- BLOG-POST-LIST:END -->
 
 ---
