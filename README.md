@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Weather App](https://dev.to/sudhanshuambastha/weather-app-30gp)
-- [Awesome Open Source Food Recipes Management Repositories](https://dev.to/mikegrep/awesome-open-source-food-recipes-management-repositories-2f93)
-- [Building a Full-Stack Application with Docker Compose](https://dev.to/neakoh/building-a-full-stack-application-with-docker-compose-h58)
-- [Rust - Concurrency Demo Program](https://dev.to/benslinux2024/rust-concurreny-demo-149b)
-- [Mengenal useState pada React.js](https://dev.to/muhammadiqbalid83/mengenal-usestate-pada-reactjs-49em)
+- [COBOL Tutorial Series: A calculation program - Part 2](https://dev.to/ngtduc693/cobol-tutorial-series-a-calculation-program-f35)
+- [Nvidia&#39;s Nemotron 70B: Raising the Bar for AI](https://dev.to/arbisoftcompany/nvidias-nemotron-70b-raising-the-bar-for-ai-52e2)
+- [Am I wasting time learning Web3?](https://dev.to/sanskari_patrick07/am-i-wasting-time-learning-web3-29l7)
+- [Variance - best perspective of understanding lifetime in Rust](https://dev.to/arichy/variance-best-perspective-of-understanding-lifetime-in-rust-m84)
+- [How to join Multiple Kafka Topics - Overview](https://dev.to/joseboretto/how-to-join-multiple-kafka-topics-overview-19j8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
