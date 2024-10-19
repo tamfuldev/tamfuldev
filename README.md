@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Unlock the Power of Next.js with These Exciting Features! 🚀](https://dev.to/pains_arch/unlock-the-power-of-nextjs-with-these-exciting-features-jjc)
-- [My PRs in Hacktoberfest 2024](https://dev.to/ramy-badr-ahmed/my-prs-in-hacktoberfest-2024-2hkf)
-- [A Coding Adventure Awaits!](https://dev.to/seb-dojo/a-coding-adventure-awaits-o26)
-- [Nearest multiple of 10](https://dev.to/obrutus/nearest-multiple-of-10-9od)
-- [Lead by Listening](https://dev.to/gabrieltoma/lead-by-listening-3391)
+- [Orchestrating Airflow DAGs with GitHub Actions - A Lightweight Approach to Data Curation Across Spark, Dremio, and Snowflake](https://dev.to/alexmercedcoder/orchestrating-airflow-dags-with-github-actions-a-lightweight-approach-to-data-curation-across-spark-dremio-and-snowflake-28eg)
+- [The list is not updated when adding a new item via useState&lpar;&rpar;](https://dev.to/bladddddde/the-list-is-not-updated-when-adding-a-new-item-via-usestate-15op)
+- [Indexing for a Scalable Serialization Isolation Level](https://dev.to/yugabyte/indexing-for-a-scalable-serialization-isolation-level-36e2)
+- [GIT : Cheat Sheet](https://dev.to/ciscoanass/git-step-by-step-6lb)
+- [Generalization vs Specialization in Design Database](https://dev.to/clever/generalization-vs-specialization-in-design-database-2253)
 <!-- BLOG-POST-LIST:END -->
 
 ---
