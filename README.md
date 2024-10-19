@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Does anyone knows how to debug Volt component in Laravel using vscode?](https://dev.to/arfn/does-anyone-knows-how-to-debug-volt-component-in-laravel-using-vscode-2k77)
-- [10 Scalability Lessons from Zoom&#39;s Software Architecture](https://dev.to/somadevtoo/10-scalability-lessons-from-zooms-software-architecture-6g3)
-- [Benefits and Drawbacks of Adopting Clean Architecture](https://dev.to/yukionishi1129/benefits-and-drawbacks-of-adopting-clean-architecture-2pd1)
-- [جدول الضرب](https://dev.to/mona_razg_0fc11d20091fcd8/jdwl-ldrb-3ilp)
-- [12 Best LLM Projects for All Levels](https://dev.to/tutortacademy/12-best-llm-projects-for-all-levels-5ha5)
+- [Weather App](https://dev.to/sudhanshuambastha/weather-app-30gp)
+- [Awesome Open Source Food Recipes Management Repositories](https://dev.to/mikegrep/awesome-open-source-food-recipes-management-repositories-2f93)
+- [Building a Full-Stack Application with Docker Compose](https://dev.to/neakoh/building-a-full-stack-application-with-docker-compose-h58)
+- [Rust - Concurrency Demo Program](https://dev.to/benslinux2024/rust-concurreny-demo-149b)
+- [Mengenal useState pada React.js](https://dev.to/muhammadiqbalid83/mengenal-usestate-pada-reactjs-49em)
 <!-- BLOG-POST-LIST:END -->
 
 ---
