@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Image Styling and Responsiveness](https://dev.to/evanmarie/mastering-image-styling-and-responsiveness-24op)
-- [Introducing DevCorner A Blogging Haven Specially Built For Developers &amp; Tech Enthusiast!](https://dev.to/codevsom/introducing-devcorner-a-blogging-haven-specially-built-for-developers-tech-enthusiast-3gpc)
-- [Building a Room Cost Estimator with JavaScript](https://dev.to/thounny/building-a-room-cost-estimator-with-javascript-45h7)
-- [How I created a QR Code Generator in Python](https://dev.to/abeck617/how-i-created-a-qr-code-generator-in-python-5dmo)
-- [Advanced Techniques in React State Management](https://dev.to/kartikmehta8/advanced-techniques-in-react-state-management-2db)
+- [Mastering Compiler Design: A Comprehensive Collection of Free Programming Resources](https://dev.to/getvm/mastering-compiler-design-a-comprehensive-collection-of-free-programming-resources-1e0j)
+- [Automated Lead Generation: Find &amp; Email Lookalike Companies Using Ocean.io &amp; Latenode](https://dev.to/latenode/automated-lead-generation-find-email-lookalike-companies-using-oceanio-latenode-33o8)
+- [Simplify Tracking of Lifetime Deals with TimePaste&#39;s Custom Node](https://dev.to/latenode/simplify-tracking-of-lifetime-deals-with-timepastes-custom-node-om7)
+- [How TimePaste&#39;s Custom Node Automates Website Monitoring](https://dev.to/latenode/how-timepastes-custom-node-automates-website-monitoring-4f2f)
+- [hello would!](https://dev.to/mphpmaster/hello-would-6d3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
