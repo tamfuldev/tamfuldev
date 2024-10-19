@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Performance Optimization using React profiler, Memo, useMemo and useCallback](https://dev.to/lostshades/performance-optimization-using-react-profiler-memo-usememo-and-usecallback-26f0)
-- [Simplifying Everyday Developer Tasks: Automating the Software Release Process](https://dev.to/marwin1991/simplifying-everyday-developer-tasks-automating-the-software-release-process-2p0c)
-- [Mastering Java ArrayLists: A Comprehensive Guide 📚✨](https://dev.to/dev-dhanushkumar/mastering-java-arraylists-a-comprehensive-guide-4h0)
-- [Artificial Minds, Human Consequences: Unraveling AI’s Impact on Education, Cognition, and Cultural Production](https://dev.to/empereur-pirate/artificial-minds-human-consequences-unraveling-ais-impact-on-education-cognition-and-cultural-production-d6)
-- [Subject: Looking for Help &amp; Feedback to Improve UI of My Angular Ionic Banking App &lpar;Student Project&rpar;](https://dev.to/taher_chabaane_1fc726569d/subject-looking-for-help-feedback-to-improve-ui-of-my-angular-ionic-banking-app-student-project-5444)
+- [How I Wrote Express-Go in 19 Hours](https://dev.to/brunociccarino/how-i-wrote-express-go-in-19-hours-3ndh)
+- [Streamlining Your Rails 8 App: Migrating from Postgres to SQLite](https://dev.to/visini/streamlining-your-rails-8-app-migrating-from-postgres-to-sqlite-5gd7)
+- [LabEx Trending: Student Grade Management System and More](https://dev.to/labex/labex-trending-student-grade-management-system-and-more-2fao)
+- [COBOL Tutorial Series: Working with Database - Session 5](https://dev.to/ngtduc693/cobol-tutorial-series-working-with-database-session-5-42gp)
+- [How to customize PDF.js](https://dev.to/gleamtech/how-to-customize-pdfjs-3po7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
