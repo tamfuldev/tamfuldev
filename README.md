@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Sort Algorithm like a PRO](https://dev.to/emmanuelayinde/mastering-sort-algorithm-like-a-pro-13p6)
-- [Camouflage-Shield: An Image Encryption Application.](https://dev.to/saahen_sriyan_mishra/camouflage-shield-an-image-encryption-application-2e9d)
-- [How to Implement Google Analytics 4 &lpar;GA4&rpar; in a Next.js Project](https://dev.to/rajeshkumaryadavdotcom/how-to-implement-google-analytics-4-ga4-in-a-nextjs-project-dm7)
-- [Security news weekly round-up - 18th October 2024](https://dev.to/ziizium/security-news-weekly-round-up-18th-october-2024-2l6i)
-- [Mastering the DOM in JavaScript](https://dev.to/imrankhan17/mastering-the-dom-in-javascript-498o)
+- [Bridging numerical relativity and automatic differentiation using JAX](https://dev.to/bkataru/bridging-numerical-relativity-and-automatic-differentiation-using-jax-2hc3)
+- [Reflecting Updated DB Data in Next.js Frontend - Understanding SSG and ISR](https://dev.to/s4yuba/reflecting-updated-db-data-in-nextjs-frontend-understanding-ssg-and-isr-2hp1)
+- [Quickly Design a Smashing Calendar Icon Using Tailwind CSS](https://dev.to/mino89/quickly-design-a-smashing-calendar-icon-using-tailwind-css-40bo)
+- [Build Your Own Language Model: A Simple Guide with Python and NumPy](https://dev.to/santhoshvijayabaskar/build-your-own-language-model-a-simple-guide-with-python-and-numpy-1k3l)
+- [Stay ahead in web development: latest news, tools, and insights #55](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-55-2nne)
 <!-- BLOG-POST-LIST:END -->
 
 ---
