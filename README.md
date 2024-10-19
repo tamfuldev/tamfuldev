@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Orchestrating Airflow DAGs with GitHub Actions - A Lightweight Approach to Data Curation Across Spark, Dremio, and Snowflake](https://dev.to/alexmercedcoder/orchestrating-airflow-dags-with-github-actions-a-lightweight-approach-to-data-curation-across-spark-dremio-and-snowflake-28eg)
-- [The list is not updated when adding a new item via useState&lpar;&rpar;](https://dev.to/bladddddde/the-list-is-not-updated-when-adding-a-new-item-via-usestate-15op)
-- [Indexing for a Scalable Serialization Isolation Level](https://dev.to/yugabyte/indexing-for-a-scalable-serialization-isolation-level-36e2)
-- [GIT : Cheat Sheet](https://dev.to/ciscoanass/git-step-by-step-6lb)
-- [Generalization vs Specialization in Design Database](https://dev.to/clever/generalization-vs-specialization-in-design-database-2253)
+- [Stop Using Long if-else Chains: Use the Command Pattern in Python](https://dev.to/goumricom/stop-using-long-if-else-chains-use-the-command-pattern-in-python-23ci)
+- [String Parsing with Kotlinx Serialization](https://dev.to/kiolk/string-parsing-with-kotlinx-serialization-28cf)
+- [How to Easily Convert TIFF to GIF Without Losing Quality](https://dev.to/msmith99994/how-to-easily-convert-tiff-to-gif-without-losing-quality-1ffa)
+- [How to Easily Convert TIFF to PNG Without Losing Quality](https://dev.to/msmith99994/how-to-easily-convert-tiff-to-png-without-losing-quality-43o1)
+- [Useful React Libraries for Modern Web Development](https://dev.to/sonaykara/useful-react-libraries-for-modern-web-development-32c6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
