@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [COBOL Tutorial Series: A calculation program - Part 2](https://dev.to/ngtduc693/cobol-tutorial-series-a-calculation-program-f35)
-- [Nvidia&#39;s Nemotron 70B: Raising the Bar for AI](https://dev.to/arbisoftcompany/nvidias-nemotron-70b-raising-the-bar-for-ai-52e2)
-- [Am I wasting time learning Web3?](https://dev.to/sanskari_patrick07/am-i-wasting-time-learning-web3-29l7)
-- [Variance - best perspective of understanding lifetime in Rust](https://dev.to/arichy/variance-best-perspective-of-understanding-lifetime-in-rust-m84)
-- [How to join Multiple Kafka Topics - Overview](https://dev.to/joseboretto/how-to-join-multiple-kafka-topics-overview-19j8)
+- [Mapeamento de Objetos Simplificado com AutoMapper](https://dev.to/juarezasjunior/mapeamento-de-objetos-simplificado-com-automapper-1ph4)
+- [The Power of Deep Work: Achieving Flow in a Distracted World](https://dev.to/techbalance_collective/the-power-of-deep-work-achieving-flow-in-a-distracted-world-1np8)
+- [RAG Explained: Ingestion of Data](https://dev.to/busycaesar/rag-explained-ingestion-of-data-21pc)
+- [Simplified Object Mapping with AutoMapper](https://dev.to/juarezasjunior/simplified-object-mapping-with-automapper-3he1)
+- [The Future of Cloud FinOps and its Integration with Sustainability](https://dev.to/techahead/the-future-of-cloud-finops-and-its-integration-with-sustainability-16p8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
