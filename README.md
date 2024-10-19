@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Bridging numerical relativity and automatic differentiation using JAX](https://dev.to/bkataru/bridging-numerical-relativity-and-automatic-differentiation-using-jax-2hc3)
-- [Reflecting Updated DB Data in Next.js Frontend - Understanding SSG and ISR](https://dev.to/s4yuba/reflecting-updated-db-data-in-nextjs-frontend-understanding-ssg-and-isr-2hp1)
-- [Quickly Design a Smashing Calendar Icon Using Tailwind CSS](https://dev.to/mino89/quickly-design-a-smashing-calendar-icon-using-tailwind-css-40bo)
-- [Build Your Own Language Model: A Simple Guide with Python and NumPy](https://dev.to/santhoshvijayabaskar/build-your-own-language-model-a-simple-guide-with-python-and-numpy-1k3l)
-- [Stay ahead in web development: latest news, tools, and insights #55](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-55-2nne)
+- [Mastering Image Styling and Responsiveness](https://dev.to/evanmarie/mastering-image-styling-and-responsiveness-24op)
+- [Introducing DevCorner A Blogging Haven Specially Built For Developers &amp; Tech Enthusiast!](https://dev.to/codevsom/introducing-devcorner-a-blogging-haven-specially-built-for-developers-tech-enthusiast-3gpc)
+- [Building a Room Cost Estimator with JavaScript](https://dev.to/thounny/building-a-room-cost-estimator-with-javascript-45h7)
+- [How I created a QR Code Generator in Python](https://dev.to/abeck617/how-i-created-a-qr-code-generator-in-python-5dmo)
+- [Advanced Techniques in React State Management](https://dev.to/kartikmehta8/advanced-techniques-in-react-state-management-2db)
 <!-- BLOG-POST-LIST:END -->
 
 ---
