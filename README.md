@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Different Between Graphic Design and UI/UX Design](https://dev.to/kalak_khadayat/different-between-graphic-design-and-uiux-design-5fai)
-- [Build Your First React App: Mood Tracker](https://dev.to/pflashgary/build-your-first-react-app-mood-tracker-249l)
-- [EF Core raw queries &lpar;C#&rpar;](https://dev.to/karenpayneoregon/ef-core-raw-queries-c-13fh)
-- [❓ Do you allow wrong input to enter your function?](https://dev.to/kamilpro/do-you-allow-wrong-input-to-enter-your-function-4jo1)
-- [I still prefer SQLite for little things you know.](https://dev.to/fridaycandours/i-still-prefer-sqlite-for-little-things-you-know-5hdk)
+- [Heartfelt Timer App with HTML/CSS/JS Only!🔥](https://dev.to/codewithshahan/heartfelt-timer-app-with-htmlcssjs-only-2499)
+- [What I’ve Learned from Building a Calculator with Vue.js](https://dev.to/willowjr/what-ive-learned-from-building-a-calculator-with-vuejs-3cj7)
+- [🚀 Embed Formbricks Forms in Webflow in Minutes — No Code, Just Magic! 💻✨](https://dev.to/mohitjoping/embed-formbricks-forms-in-webflow-in-minutes-no-code-just-magic-5cik)
+- [Installing Vertica on a Single-Node Kubernetes Cluster Using Minikube](https://dev.to/dm8ry/installing-vertica-on-a-single-node-kubernetes-cluster-using-minikube-5dg8)
+- [Some effective ways to create checkboxes](https://dev.to/jharna_khatun/some-effective-ways-to-create-checkboxes-5f1c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
