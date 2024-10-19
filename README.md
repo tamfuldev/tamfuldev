@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Heartfelt Timer App with HTML/CSS/JS Only!🔥](https://dev.to/codewithshahan/heartfelt-timer-app-with-htmlcssjs-only-2499)
-- [What I’ve Learned from Building a Calculator with Vue.js](https://dev.to/willowjr/what-ive-learned-from-building-a-calculator-with-vuejs-3cj7)
-- [🚀 Embed Formbricks Forms in Webflow in Minutes — No Code, Just Magic! 💻✨](https://dev.to/mohitjoping/embed-formbricks-forms-in-webflow-in-minutes-no-code-just-magic-5cik)
-- [Installing Vertica on a Single-Node Kubernetes Cluster Using Minikube](https://dev.to/dm8ry/installing-vertica-on-a-single-node-kubernetes-cluster-using-minikube-5dg8)
-- [Some effective ways to create checkboxes](https://dev.to/jharna_khatun/some-effective-ways-to-create-checkboxes-5f1c)
+- [Performance Optimization using React profiler, Memo, useMemo and useCallback](https://dev.to/lostshades/performance-optimization-using-react-profiler-memo-usememo-and-usecallback-26f0)
+- [Simplifying Everyday Developer Tasks: Automating the Software Release Process](https://dev.to/marwin1991/simplifying-everyday-developer-tasks-automating-the-software-release-process-2p0c)
+- [Mastering Java ArrayLists: A Comprehensive Guide 📚✨](https://dev.to/dev-dhanushkumar/mastering-java-arraylists-a-comprehensive-guide-4h0)
+- [Artificial Minds, Human Consequences: Unraveling AI’s Impact on Education, Cognition, and Cultural Production](https://dev.to/empereur-pirate/artificial-minds-human-consequences-unraveling-ais-impact-on-education-cognition-and-cultural-production-d6)
+- [Subject: Looking for Help &amp; Feedback to Improve UI of My Angular Ionic Banking App &lpar;Student Project&rpar;](https://dev.to/taher_chabaane_1fc726569d/subject-looking-for-help-feedback-to-improve-ui-of-my-angular-ionic-banking-app-student-project-5444)
 <!-- BLOG-POST-LIST:END -->
 
 ---
