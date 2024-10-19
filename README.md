@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mapeamento de Objetos Simplificado com AutoMapper](https://dev.to/juarezasjunior/mapeamento-de-objetos-simplificado-com-automapper-1ph4)
-- [The Power of Deep Work: Achieving Flow in a Distracted World](https://dev.to/techbalance_collective/the-power-of-deep-work-achieving-flow-in-a-distracted-world-1np8)
-- [RAG Explained: Ingestion of Data](https://dev.to/busycaesar/rag-explained-ingestion-of-data-21pc)
-- [Simplified Object Mapping with AutoMapper](https://dev.to/juarezasjunior/simplified-object-mapping-with-automapper-3he1)
-- [The Future of Cloud FinOps and its Integration with Sustainability](https://dev.to/techahead/the-future-of-cloud-finops-and-its-integration-with-sustainability-16p8)
+- [Automating Markdown and Image Translations with Co-op Translator](https://dev.to/skytin1004/automating-markdown-and-image-translations-with-co-op-translator-50lm)
+- [COBOL Tutorial Series: Loop statements - Session 4](https://dev.to/ngtduc693/cobol-tutorial-series-loop-statements-session-4-21la)
+- [Building emmanuel-dot-clone.netlify.app &lpar;A clone of dot.ai&rpar; with Astro JS](https://dev.to/professor12/building-emmanuel-dot-clonenetlifyapp-a-clone-of-dotai-with-astro-js-4e8n)
+- [Data-Driven Marketing: Improve Customer Experience and Sales](https://dev.to/tn_trnnh_bba09e66a2d/data-driven-marketing-improve-customer-experience-and-sales-1gld)
+- [🚀 Your Daily Crypto Job Digest For 19 October!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-19-october-cee)
 <!-- BLOG-POST-LIST:END -->
 
 ---
