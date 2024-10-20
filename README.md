@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Playing with Rust: Building a Safer rm and Having Fun Along the Way](https://dev.to/douglasmakey/playing-with-rust-building-a-safer-rm-and-having-fun-along-the-way-55m6)
-- [New `@bool` Blade directive in Laravel!](https://dev.to/codewithcaen/new-bool-blade-directive-in-laravel-3cob)
-- [Seeking Help for Developing MERN Technology-Based Project](https://dev.to/sonukds/seeking-help-for-developing-mern-technology-based-project-2dmd)
-- [A CSS razor](https://dev.to/rocambille/a-css-razor-241k)
-- [Backend challenge #5](https://dev.to/caresle/backend-challenge-5-2d17)
+- [Mastering Unit and Integration Testing for Minimal APIs in .NET 8: Best Practices for High-Quality Code](https://dev.to/leandroveiga/mastering-unit-and-integration-testing-for-minimal-apis-in-net-8-best-practices-for-high-quality-code-56n7)
+- [1106. Parsing A Boolean Expression](https://dev.to/mdarifulhaque/1106-parsing-a-boolean-expression-281a)
+- [CKA Full Course 2024: Day 1/40](https://dev.to/lloydrivers/cka-full-course-2024-day-140-5h35)
+- [BASH&lpar;Shell&rpar; Scripting 101](https://dev.to/prashant_1111/bashshell-scripting-101-54b8)
+- [🚀 From Zero to Web Development Hero: Join the Journey on HoverHacks 🌟](https://dev.to/shubham2270/from-zero-to-web-development-hero-join-the-journey-on-hoverhacks-15ba)
 <!-- BLOG-POST-LIST:END -->
 
 ---
