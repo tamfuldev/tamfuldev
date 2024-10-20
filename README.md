@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Time Tracking: A Simple Way to Understand and Improve How You Work](https://dev.to/radzion/time-tracking-a-simple-way-to-understand-and-improve-how-you-work-1ijk)
-- [Most Asked DSA Interview Questions](https://dev.to/notarena/most-asked-dsa-interview-questions-586f)
-- [Useful IPython magic commands](https://dev.to/hyperkai/useful-ipython-magic-commands-8fd)
-- [Mastering State Management with the useReducer Hook in React](https://dev.to/sudhanshu_developer/mastering-state-management-with-the-usereducer-hook-in-react-2mc)
-- [Minimum Division Operations to Make Array Non Decreasing](https://dev.to/prashantrmishra/minimum-division-operations-to-make-array-non-decreasing-4b5g)
+- [Create Your Own AI RAG Chatbot: A Python Guide with LangChain](https://dev.to/shreshthgoyal/create-your-own-ai-rag-chatbot-a-python-guide-with-langchain-dfi)
+- [Enhancing Healthcare with Cloud-Based Clinical Decision Support Systems](https://dev.to/sourishsr31/enhancing-healthcare-with-cloud-based-clinical-decision-support-systems-4ao8)
+- [A walkthrough to Sofia Santos&#39; OSINT Exercise #002](https://dev.to/bharathv03/a-walkthrough-to-sofia-santos-osint-exercise-002-53hc)
+- [JavaScript OOP Concepts: Class-Based vs. Prototype-Based](https://dev.to/theonlineaid/javascript-oop-concepts-class-based-vs-prototype-based-5602)
+- [Audio to Text Input via Google Speech to Text](https://dev.to/shubhadip/audio-to-text-input-via-google-speech-to-text-4ob0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
