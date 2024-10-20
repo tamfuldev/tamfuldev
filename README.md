@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Open Source Chatbot UI template for Developers](https://dev.to/ragharao314159/open-source-chatbot-ui-template-for-developers-5apk)
-- [London Perl Workshop 2024 – Preview](https://dev.to/davorg/london-perl-workshop-2024-preview-2oap)
-- [Essential Git Commands Every Developer Should Know](https://dev.to/wizdomtek/essential-git-commands-every-developer-should-know-2791)
-- [Getting Started with Tailwind CSS](https://dev.to/nehaaa/getting-started-with-tailwind-css-n2k)
-- [Pay Attention to Personalities](https://dev.to/jr/pay-attention-to-personalities-o09)
+- [Playing with Rust: Building a Safer rm and Having Fun Along the Way](https://dev.to/douglasmakey/playing-with-rust-building-a-safer-rm-and-having-fun-along-the-way-55m6)
+- [New `@bool` Blade directive in Laravel!](https://dev.to/codewithcaen/new-bool-blade-directive-in-laravel-3cob)
+- [Seeking Help for Developing MERN Technology-Based Project](https://dev.to/sonukds/seeking-help-for-developing-mern-technology-based-project-2dmd)
+- [A CSS razor](https://dev.to/rocambille/a-css-razor-241k)
+- [Backend challenge #5](https://dev.to/caresle/backend-challenge-5-2d17)
 <!-- BLOG-POST-LIST:END -->
 
 ---
