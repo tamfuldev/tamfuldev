@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Sherlock Holmes: The Case Of Missing Cookies](https://dev.to/programmerraja/sherlock-holmes-and-the-mystery-of-the-missing-cookies-4i38)
-- [Parallelism is not same for CPU-bound and I/O-bound Operations in .NET Core](https://dev.to/dotnetfullstackdev/parallelism-is-not-same-for-cpu-bound-and-io-bound-operations-in-net-core-157f)
-- [Building a Website with Node.js and Express.js](https://dev.to/ryoichihomma/building-a-website-with-nodejs-and-expressjs-3ji5)
-- [Improving Accessibility in Flutter Apps: A Comprehensive Guide](https://dev.to/adepto/improving-accessibility-in-flutter-apps-a-comprehensive-guide-1jod)
-- [Oracle to Postgres : Happily Ever After edition](https://dev.to/mayur555b/oracle-to-postgres-happily-ever-after-edition-5766)
+- [🌊 Diving Into React Hooks: A Comprehensive Guide for Modern Development](https://dev.to/hernan_vergara_e797907d83/diving-into-react-hooks-a-comprehensive-guide-for-modern-development-20lp)
+- [Why Learning Fundamentals Over Frameworks is Key to Long-Term Success in Software Development](https://dev.to/musamakhizr/why-learning-fundamentals-over-frameworks-is-key-to-long-term-success-in-software-development-3a9i)
+- [Must-Have Skills for Junior Developers Aiming for Senior Positions](https://dev.to/abdullah-dev0/must-have-skills-for-junior-developers-aiming-for-senior-positions-5cj3)
+- [A Memorable Visit to Microsoft: A Journey Through Innovation and History](https://dev.to/poetryofcode/a-memorable-visit-to-microsoft-a-journey-through-innovation-and-history-55ij)
+- [Refactoring 017 - Convert Attributes to Sets](https://dev.to/mcsee/refactoring-017-convert-attributes-to-sets-k9c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
