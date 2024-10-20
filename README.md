@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Few Prompt Engineering Tricks](https://dev.to/busycaesar/few-prompt-engineering-tricks-2fa4)
-- [The FIRE Movement: How Tech Pros Can Retire Early](https://dev.to/techbalance_collective/the-fire-movement-how-tech-pros-can-retire-early-1m00)
-- [Fast and Efficient Queries with Dapper](https://dev.to/juarezasjunior/fast-and-efficient-queries-with-dapper-33l3)
-- [Consultas Rápidas e Eficientes com Dapper](https://dev.to/juarezasjunior/consultas-rapidas-e-eficientes-com-dapper-7o2)
-- [Index and poker games](https://dev.to/simongreennet/index-and-poker-games-c1a)
+- [Shortcomings of Current Smart City Platforms and Their Role in Sustainable &amp; Resilient Cities](https://dev.to/okyzaprabowo/shortcomings-of-current-smart-city-platforms-and-their-role-in-sustainable-resilient-cities-4c2l)
+- [In 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬 , Do you know the difference between 𝐕𝐨𝐥𝐮𝐦𝐞 𝐁𝐢𝐧𝐝𝐢𝐧𝐠 and 𝐕𝐨𝐥𝐮𝐦𝐞 𝐌𝐨𝐮𝐧𝐭𝐢𝐧𝐠 ?](https://dev.to/nanditechbytes/in-do-you-know-the-difference-between-and--bjk)
+- [Deploying Nginx with Self-Signed TLS Using Helm and Minikube &lpar;Dev &amp; Staging Environments&rpar;](https://dev.to/bansikah/deploying-nginx-with-self-signed-tls-using-helm-and-minikube-dev-staging-environments-397)
+- [Replit saytidagi shell buyruqlari haqida](https://dev.to/munisa_kuranbekova_078e1e/replit-saytidagi-shell-buyruqlari-haqida-30fl)
+- [Deep Learning and Machine Learning in Space Networks](https://dev.to/sourishsr31/deep-learning-and-machine-learning-in-space-networks-3ao7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
