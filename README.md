@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Web Workers Depend on JavaScript ??](https://dev.to/shafayeat/why-web-workers-depend-on-javascript--4e6c)
-- [Build a Tiny React Ch04 Hooks](https://dev.to/fingerbone/build-a-tiny-react-ch04-hooks-5d4f)
-- [Build a Tiny React Ch3 Updating vDOM](https://dev.to/fingerbone/build-a-tiny-react-ch3-updating-vdom-1h6f)
-- [My Journey into Data AI and Machine Learning](https://dev.to/lusandahp/my-journey-into-data-ai-and-machine-learning-8em)
-- [Beating Imposter Syndrome as a Developer: Embrace Growth, Reject Self-Doubt](https://dev.to/okoye_ndidiamaka_5e3b7d30/beating-imposter-syndrome-as-a-developer-embrace-growth-reject-self-doubt-3jjf)
+- [Ways to Convert JPG: How to Compress JPG Effectively](https://dev.to/msmith99994/ways-to-convert-jpg-how-to-compress-jpg-effectively-307j)
+- [Turn Your VPS into an Impenetrable Fortress: How to Make Your Public Server Private Using Tailscale and UFW!](https://dev.to/binsarjr/turn-your-vps-into-an-impenetrable-fortress-how-to-make-your-public-server-private-using-tailscale-and-ufw-3841)
+- [Organizing YAML files by creating directories like `config/x` in Rails](https://dev.to/hoshinotsuyoshi/organizing-yaml-files-by-creating-directories-like-configx-in-rails-5cfj)
+- [Understanding PHP Types - NULL](https://dev.to/hurayraiit/understanding-php-types-null-40g7)
+- [Ways to Convert PNG: How to Compress PNG Effectively](https://dev.to/msmith99994/ways-to-convert-png-how-to-compress-png-effectively-4976)
 <!-- BLOG-POST-LIST:END -->
 
 ---
