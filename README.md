@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Algorithms Behind Your Social Media Feed 🤯](https://dev.to/lokesh_singh/the-hidden-algorithms-behind-your-social-media-feed-gl7)
-- [🔒 Mastering OAuth 2.0 in Modern Web Applications: Security Best Practices for 2024 🚀](https://dev.to/hamzakhan/mastering-oauth-20-in-modern-web-applications-security-best-practices-for-2024-26ed)
-- [Unit Test Generation with Early AI](https://dev.to/rsaz/unit-test-generation-with-early-ai-31co)
-- [How to Secure SSH on Any Linux Server using PAM and Google Authenticator](https://dev.to/ansxuman/how-to-secure-ssh-on-any-linux-server-using-pam-and-google-authenticator-12n7)
-- [Finding Tranquility through Design – &quot;Nature’s Serenity: Embrace the Calm](https://dev.to/navodya-1ccb29f5/finding-tranquility-through-design-natures-serenity-embrace-the-calm-353f)
+- [Why Web Workers Depend on JavaScript ??](https://dev.to/shafayeat/why-web-workers-depend-on-javascript--4e6c)
+- [Build a Tiny React Ch04 Hooks](https://dev.to/fingerbone/build-a-tiny-react-ch04-hooks-5d4f)
+- [Build a Tiny React Ch3 Updating vDOM](https://dev.to/fingerbone/build-a-tiny-react-ch3-updating-vdom-1h6f)
+- [My Journey into Data AI and Machine Learning](https://dev.to/lusandahp/my-journey-into-data-ai-and-machine-learning-8em)
+- [Beating Imposter Syndrome as a Developer: Embrace Growth, Reject Self-Doubt](https://dev.to/okoye_ndidiamaka_5e3b7d30/beating-imposter-syndrome-as-a-developer-embrace-growth-reject-self-doubt-3jjf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
