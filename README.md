@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Some tips and tricks with the new iOS 18 ScrollView APIs](https://dev.to/divyeshvekariya/some-tips-and-tricks-with-the-new-ios-18-scrollview-apis-2ahg)
-- [[Opinion] I’ve passed an AWS cert… but is this something for me?](https://dev.to/uponthesky/opinion-ive-passed-an-aws-cert-but-is-this-something-for-me-2al9)
-- [Design a web page with html and tailwind](https://dev.to/sumaiyarahmanchowdhury/design-a-web-page-with-html-and-tailwind-33d7)
-- [Design a web page with Tailwind CSS](https://dev.to/sumaiyarahmanchowdhury/design-a-web-page-with-tailwind-css-42b9)
-- [Setting up Environment for POSTMAN](https://dev.to/mourya_modugula/setting-up-environment-for-postman-4i21)
+- [Time Tracking: A Simple Way to Understand and Improve How You Work](https://dev.to/radzion/time-tracking-a-simple-way-to-understand-and-improve-how-you-work-1ijk)
+- [Most Asked DSA Interview Questions](https://dev.to/notarena/most-asked-dsa-interview-questions-586f)
+- [Useful IPython magic commands](https://dev.to/hyperkai/useful-ipython-magic-commands-8fd)
+- [Mastering State Management with the useReducer Hook in React](https://dev.to/sudhanshu_developer/mastering-state-management-with-the-usereducer-hook-in-react-2mc)
+- [Minimum Division Operations to Make Array Non Decreasing](https://dev.to/prashantrmishra/minimum-division-operations-to-make-array-non-decreasing-4b5g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
