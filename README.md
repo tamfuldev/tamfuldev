@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Using Long if-else Chains: Use the Command Pattern in Python](https://dev.to/goumricom/stop-using-long-if-else-chains-use-the-command-pattern-in-python-23ci)
-- [String Parsing with Kotlinx Serialization](https://dev.to/kiolk/string-parsing-with-kotlinx-serialization-28cf)
-- [How to Easily Convert TIFF to GIF Without Losing Quality](https://dev.to/msmith99994/how-to-easily-convert-tiff-to-gif-without-losing-quality-1ffa)
-- [How to Easily Convert TIFF to PNG Without Losing Quality](https://dev.to/msmith99994/how-to-easily-convert-tiff-to-png-without-losing-quality-43o1)
-- [Useful React Libraries for Modern Web Development](https://dev.to/sonaykara/useful-react-libraries-for-modern-web-development-32c6)
+- [Sherlock Holmes: The Case Of Missing Cookies](https://dev.to/programmerraja/sherlock-holmes-and-the-mystery-of-the-missing-cookies-4i38)
+- [Parallelism is not same for CPU-bound and I/O-bound Operations in .NET Core](https://dev.to/dotnetfullstackdev/parallelism-is-not-same-for-cpu-bound-and-io-bound-operations-in-net-core-157f)
+- [Building a Website with Node.js and Express.js](https://dev.to/ryoichihomma/building-a-website-with-nodejs-and-expressjs-3ji5)
+- [Improving Accessibility in Flutter Apps: A Comprehensive Guide](https://dev.to/adepto/improving-accessibility-in-flutter-apps-a-comprehensive-guide-1jod)
+- [Oracle to Postgres : Happily Ever After edition](https://dev.to/mayur555b/oracle-to-postgres-happily-ever-after-edition-5766)
 <!-- BLOG-POST-LIST:END -->
 
 ---
