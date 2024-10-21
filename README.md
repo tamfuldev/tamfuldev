@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Change some line codes to fix the TCP &quot;stickiness“ problem for ESP8266 based programmable controller](https://dev.to/zhangzhuyue/change-some-line-codes-to-fix-the-tcp-stickiness-problem-for-esp8266-based-programmable-controller-pmp)
-- [Understanding PHP Types – Booleans](https://dev.to/hurayraiit/understanding-php-types-booleans-256c)
-- [Cross-Posting and Portfolio Project Update: Optimizing API Calls and Implementing Best Practices](https://dev.to/jesse_chong_3bcc276c4f950/cross-posting-and-portfolio-project-update-optimizing-api-calls-and-implementing-best-practices-4ifp)
-- [In the era of intelligent agents, how do agents interact with each other?](https://dev.to/shanchang/in-the-era-of-intelligent-agents-how-do-agents-interact-with-each-other-3ghg)
-- [Local Storage vs Session Storage](https://dev.to/shyam0118/local-storage-vs-session-storage-2m4g)
+- [Understanding the OSI Model: A Step-by-Step Breakdown](https://dev.to/leetcode/understanding-the-osi-model-a-step-by-step-breakdown-3np1)
+- [The Role of __pycache__ Folder in Python Programs](https://dev.to/ebad8931/the-role-of-pycache-folder-in-python-programs-2a7c)
+- [OWASP Juice Shop DOM XSS Walkthrough](https://dev.to/hax/owasp-juice-shop-dom-xss-walkthrough-51d7)
+- [Taming the Beast: Performance Optimization for Smooth User Experiences](https://dev.to/aandyphan/taming-the-beast-performance-optimization-for-smooth-user-experiences-3cg2)
+- [Open source, learn in public e minha experiência](https://dev.to/kauefraga/open-source-learn-in-public-e-minha-experiencia-bd2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
