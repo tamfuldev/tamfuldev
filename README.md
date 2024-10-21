@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create an Advanced &quot;Show Password&quot; Feature Using HTML, CSS, and JavaScript](https://dev.to/wizdomtek/how-to-create-an-advanced-show-password-feature-using-html-css-and-javascript-ndn)
-- [Best Practices for Salesforce Marketing Cloud in 2024](https://dev.to/itechcloud_solution_01/best-practices-for-salesforce-marketing-cloud-in-2024-h0f)
-- [How to Transform Your Client’s Business with AI Integration Services](https://dev.to/laxmi_williams/how-to-transform-your-clients-business-with-ai-integration-services-opo)
-- [A Beginner’s Guide to Writing Software Requirements: User Stories](https://dev.to/johnnykoo84/a-beginners-guide-to-writing-software-requirements-user-stories-2h3k)
-- [Python code that generates a stock price chart for the last n days.](https://dev.to/dm8ry/python-code-that-generates-a-stock-price-chart-for-the-last-n-days-g8a)
+- [7 Ferramentas mais úteis para desenvolvedores web que você não pode perder](https://dev.to/devaugusto/7-ferramentas-mais-uteis-para-desenvolvedores-web-que-voce-nao-pode-perder-d1a)
+- [Manifest file in Kubernetes](https://dev.to/mrcaption49/manifest-file-in-kubernetes-105g)
+- [CAP | ACID Properties| BASE in Database System](https://dev.to/mrcaption49/cap-acid-properties-base-in-database-system-2on1)
+- [Mastering Node.js Performance: Unlock the Power of Worker Threads and Clustering — Hoai Nho](https://dev.to/hoainhoblogdev/mastering-nodejs-performance-unlock-the-power-of-worker-threads-and-clustering-hoai-nho-474m)
+- [Understanding Salesforce Data Security in 2024](https://dev.to/itechcloud_solution_01/understanding-salesforce-data-security-in-2024-3gf4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
