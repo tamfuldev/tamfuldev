@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Como Fazendas Verticais Estão Revolucionando a Agricultura](https://dev.to/n1ghtm4r33/como-fazendas-verticais-estao-revolucionando-a-agricultura-22n1)
-- [Hacktoberfest week 3- Online Auction System](https://dev.to/htsagara/hacktoberfest-week-3-online-auction-system-4knp)
-- [MongoDB - Essential Things to Know](https://dev.to/ryoichihomma/mongodb-essential-things-to-know-j18)
-- [A 5-day journey with Lite-XL](https://dev.to/teminian/a-5-day-journey-with-lite-xl-1bdl)
-- [Lite-XL과 함께한 5일](https://dev.to/teminian/lite-xlgwa-hamggehan-5il-3apl)
+- [Change some line codes to fix the TCP &quot;stickiness“ problem for ESP8266 based programmable controller](https://dev.to/zhangzhuyue/change-some-line-codes-to-fix-the-tcp-stickiness-problem-for-esp8266-based-programmable-controller-pmp)
+- [Understanding PHP Types – Booleans](https://dev.to/hurayraiit/understanding-php-types-booleans-256c)
+- [Cross-Posting and Portfolio Project Update: Optimizing API Calls and Implementing Best Practices](https://dev.to/jesse_chong_3bcc276c4f950/cross-posting-and-portfolio-project-update-optimizing-api-calls-and-implementing-best-practices-4ifp)
+- [In the era of intelligent agents, how do agents interact with each other?](https://dev.to/shanchang/in-the-era-of-intelligent-agents-how-do-agents-interact-with-each-other-3ghg)
+- [Local Storage vs Session Storage](https://dev.to/shyam0118/local-storage-vs-session-storage-2m4g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
