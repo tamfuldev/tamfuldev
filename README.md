@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Data Engineering vs. Data Science: Understanding the Differences](https://dev.to/anshul_kichara/data-engineering-vs-data-science-understanding-the-differences-2e5)
-- [Tech Deregulation Plus Layoff](https://dev.to/xinusys/tech-deregulation-plus-layoff-182h)
-- [Building a Drag-and-Drop Kanban Board with React and dnd-kit](https://dev.to/radzion/building-a-drag-and-drop-kanban-board-with-react-and-dnd-kit-jdc)
-- [Co-Founders&#39; Equity Agreement Template | Alex Gulakov Dev Blog](https://dev.to/vtempest/co-founders-equity-agreement-template-alex-gulakov-dev-blog-od0)
-- [Recap and rambles of last week #1](https://dev.to/jennjunod/recap-and-rambles-of-last-week-1-3egm)
+- [#78 — Fill Aggregation Value in The First Row of The Same Group of Data](https://dev.to/judith677/78-fill-aggregation-value-in-the-first-row-of-the-same-group-of-data-2k3n)
+- [Multi-tenancy in Context of ORACLE](https://dev.to/mrcaption49/multi-tenancy-in-context-of-oracle-4n44)
+- [Multi-tenant architecture](https://dev.to/mrcaption49/multi-tenant-architecture-4516)
+- [Supercharge Your TailwindCSS Plugin Development with Plugwind.js](https://dev.to/siguici/supercharge-your-tailwindcss-plugin-development-with-plugwindjs-1n0m)
+- [Bootstrap: Customizing Dropdowns](https://dev.to/tailwine/bootstrap-customizing-dropdowns-3cdd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
