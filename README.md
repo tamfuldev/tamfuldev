@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [React Concepts Put You In The Top 5% Of All React Developers](https://dev.to/safdarali/react-concepts-put-you-in-the-top-5-of-all-react-developers-566)
-- [My friend got a full-stack dev job without knowing anything](https://dev.to/felipecezar01/my-friend-got-a-full-stack-dev-job-without-knowing-anything-31a2)
-- [🛍️ Build Your Dream E-Commerce Store with This Awesome GitHub Project! 💻](https://dev.to/mnq11/build-your-dream-e-commerce-store-with-this-awesome-github-project-2jaf)
-- [🚀 Explore the Relationship Status Across Sweden with Stunning Visuals! 🇸🇪](https://dev.to/mnq11/explore-the-relationship-status-across-sweden-with-stunning-visuals-45mk)
-- [Chart visualization data project help](https://dev.to/frakneable/chart-visualization-data-project-help-dg8)
+- [Como Fazendas Verticais Estão Revolucionando a Agricultura](https://dev.to/n1ghtm4r33/como-fazendas-verticais-estao-revolucionando-a-agricultura-22n1)
+- [Hacktoberfest week 3- Online Auction System](https://dev.to/htsagara/hacktoberfest-week-3-online-auction-system-4knp)
+- [MongoDB - Essential Things to Know](https://dev.to/ryoichihomma/mongodb-essential-things-to-know-j18)
+- [A 5-day journey with Lite-XL](https://dev.to/teminian/a-5-day-journey-with-lite-xl-1bdl)
+- [Lite-XL과 함께한 5일](https://dev.to/teminian/lite-xlgwa-hamggehan-5il-3apl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
