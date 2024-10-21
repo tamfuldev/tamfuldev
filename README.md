@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [7 Ferramentas mais úteis para desenvolvedores web que você não pode perder](https://dev.to/devaugusto/7-ferramentas-mais-uteis-para-desenvolvedores-web-que-voce-nao-pode-perder-d1a)
-- [Manifest file in Kubernetes](https://dev.to/mrcaption49/manifest-file-in-kubernetes-105g)
-- [CAP | ACID Properties| BASE in Database System](https://dev.to/mrcaption49/cap-acid-properties-base-in-database-system-2on1)
-- [Mastering Node.js Performance: Unlock the Power of Worker Threads and Clustering — Hoai Nho](https://dev.to/hoainhoblogdev/mastering-nodejs-performance-unlock-the-power-of-worker-threads-and-clustering-hoai-nho-474m)
-- [Understanding Salesforce Data Security in 2024](https://dev.to/itechcloud_solution_01/understanding-salesforce-data-security-in-2024-3gf4)
+- [Deploy a Static Nuxt site to Railway](https://dev.to/markmunyaka/deploy-a-static-nuxt-site-to-railway-5213)
+- [AI and Ecommerce: A Perfect Match Revolutionizing the Online Retail Landscape](https://dev.to/johnsmith244303/ai-and-ecommerce-a-perfect-match-revolutionizing-the-online-retail-landscape-3im8)
+- [What the HECK is an accessibility tree?](https://dev.to/miasalazar/what-the-heck-is-an-accessibility-tree-4e43)
+- [Building a Fast and Efficient Semantic Search System Using OpenVINO and Postgres](https://dev.to/datitran/building-a-fast-and-efficient-semantic-search-system-using-openvino-and-postgres-fd6)
+- [Cloud Service Models](https://dev.to/jayesh0706/cloud-service-models-2j5f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
