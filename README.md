@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Transacciones en laravel](https://dev.to/fernilo/transacciones-en-laravel-24fk)
 - [7 Useful Tools for Web Developers to Boost Productivity 🚀](https://dev.to/safdarali/7-useful-tools-for-web-developers-to-boost-productivity-3dfj)
+- [How to Prepare Your Application to Handle Multiple Requests on Black Friday](https://dev.to/wallacefreitas/how-to-prepare-your-application-to-handle-multiple-requests-on-black-friday-4dh3)
+- [Dealing with having multiple GitHub accounts](https://dev.to/veloek/dealing-with-having-multiple-github-accounts-45oo)
 - [Day 1046 : Grey Skies](https://dev.to/dwane/day-1046-grey-skies-24d4)
-- [Automated RDS Snapshots and Cross-Region Disaster Recovery](https://dev.to/recklessmaven/automated-rds-snapshots-and-cross-region-disaster-recovery-3e88)
-- [🇫🇷 Comment structurer sa procrastination ?](https://dev.to/jmfayard/comment-structurer-sa-procrastination--3dg3)
-- [Handling Environment Variables in Vite](https://dev.to/padmajothi_athimoolam_23d/handling-environment-variables-in-vite-480b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
