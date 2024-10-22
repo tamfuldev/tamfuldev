@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [C# advanced: Exploring Tuples An Alternative to Anonymous Types](https://dev.to/moh_moh701/c-advance-exploring-tuples-an-alternative-to-anonymous-types-2j70)
-- [PL/SQL | Order of Exception Handling](https://dev.to/mrcaption49/plsql-order-of-exception-handling-eig)
-- [Exception Handling in PLSQL](https://dev.to/mrcaption49/exception-handling-in-plsql-30o6)
-- [CKA Full Course 2024: Day 5/40 Multi-Node Cluster Setup: Step by Step](https://dev.to/lloydrivers/cka-full-course-2024-day-540-multi-node-cluster-setup-step-by-step-422)
-- [Is it Possible to Cache some HTML Tags?](https://dev.to/elanatframework/is-it-possible-to-cache-some-html-tags-3ai2)
+- [PRAGMA AUTONOMOUS_TRANSACTION with Workflow](https://dev.to/mrcaption49/pragma-autonomoustransaction-with-workflow-a7p)
+- [How to publish JetBrains Rider plugin for opentelemetry/honeycomb](https://dev.to/ozkanpakdil/how-to-publish-jetbrains-rider-plugin-for-opentelemetryhoneycomb-20pm)
+- [Overview of the Wanderlust Project](https://dev.to/574n13y/overview-of-the-wanderlust-project-2ghf)
+- [How to Create a WordPress Theme from Scratch](https://dev.to/osoptimizers/how-to-create-a-wordpress-theme-from-scratch-bia)
+- [How Verifiable Credentials Can Help Combat Fake Online Reviews](https://dev.to/tbdevs/how-verifiable-credentials-can-help-combat-fake-online-reviews-3418)
 <!-- BLOG-POST-LIST:END -->
 
 ---
