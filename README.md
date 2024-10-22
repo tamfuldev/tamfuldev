@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon S3 Bucket with Policy Details](https://dev.to/mrcaption49/amazon-s3-bucket-with-policy-details-2g0b)
-- [Migrating from WordPress to Jekyll: Save Money with a Static Site](https://dev.to/prahladyeri/migrating-from-wordpress-to-jekyll-save-money-with-a-static-site-3e00)
-- [How to Use the workflow_dispatch Event for Manual Triggers](https://dev.to/cicube/how-to-use-the-workflowdispatch-event-for-manual-triggers-fjn)
-- [Direct addition of two hyptotrochoid](https://dev.to/tthtlc/direct-addition-of-two-hyptotrochoid-5d3g)
-- [Getting members according to primary key values #eg63](https://dev.to/esproc_spl/getting-members-according-to-primary-key-values-eg63-4p10)
+- [30+ Awesome Repos For You To Start Contributing on Hacktoberfest](https://dev.to/buildwebcrumbs/30-awesome-repos-for-you-to-start-contributing-on-hacktoberfest-3220)
+- [How to Use Cursor AI in Best Way?](https://dev.to/ethanleetech/how-to-use-cursor-ai-in-best-way-pcd)
+- [Polyfills of Promise.all&lpar;&rpar;](https://dev.to/vcoder10/polyfills-of-promiseall-2ogg)
+- [How to Set Up a GCP VM and Install Apache2: Step-by-Step Guide for Beginners](https://dev.to/s3cloudhub/how-to-set-up-a-gcp-vm-and-install-apache2-step-by-step-guide-for-beginners-3n1o)
+- [Weekly Dev Diary #3 - Crafting a World Shaped by Memory and Time ⏳](https://dev.to/hana_park_eins/weekly-dev-diary-3-crafting-a-world-shaped-by-memory-and-time-2bkd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
