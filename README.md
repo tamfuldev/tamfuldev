@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [PRAGMA AUTONOMOUS_TRANSACTION with Workflow](https://dev.to/mrcaption49/pragma-autonomoustransaction-with-workflow-a7p)
-- [How to publish JetBrains Rider plugin for opentelemetry/honeycomb](https://dev.to/ozkanpakdil/how-to-publish-jetbrains-rider-plugin-for-opentelemetryhoneycomb-20pm)
-- [Overview of the Wanderlust Project](https://dev.to/574n13y/overview-of-the-wanderlust-project-2ghf)
-- [How to Create a WordPress Theme from Scratch](https://dev.to/osoptimizers/how-to-create-a-wordpress-theme-from-scratch-bia)
-- [How Verifiable Credentials Can Help Combat Fake Online Reviews](https://dev.to/tbdevs/how-verifiable-credentials-can-help-combat-fake-online-reviews-3418)
+- [Refactoring and Git Rebase for Tailor4Job](https://dev.to/inderpreet/blog-post-refactoring-and-git-rebase-for-tailor4job-1i19)
+- [I Survived a Massive DDoS Attack and Made My Server Bulletproof](https://dev.to/jimmymcbride/i-survived-a-massive-ddos-attack-and-made-my-server-bulletproof-21gh)
+- [Day 43. Composition](https://dev.to/kiolk/day-43-composition-eb6)
+- [🚀 Introducing My Free Markdown to PDF Converter – Built Just for You! 🚀](https://dev.to/mycko22/introducing-my-free-markdown-to-pdf-converter-built-just-for-you-o95)
+- [Conditional application of chained LINQ queries](https://dev.to/veloek/conditional-application-of-chained-linq-queries-560p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
