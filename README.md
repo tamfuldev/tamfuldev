@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Step-by-Step Guide: How to Integrate Third-Party APIs with .NET 8 Minimal APIs](https://dev.to/leandroveiga/step-by-step-guide-how-to-integrate-third-party-apis-with-net-8-minimal-apis-5419)
-- [How do Turbo Streams Work &lpar;behind the scenes&rpar;](https://dev.to/railsdesigner/how-do-turbo-streams-work-behind-the-scenes-11mj)
-- [5 Surprising and Lesser-Known HTTP Methods Facts Every Developer Should Know to Avoid API Pitfalls](https://dev.to/viissgg/5-surprising-and-lesser-known-http-methods-facts-every-developer-should-know-to-avoid-api-pitfalls-3hon)
-- [ASP.NET Core Middleware](https://dev.to/rasulhsn/aspnet-core-middleware-2efd)
-- [Exploring the New Features of Next.js 15](https://dev.to/rajeshkumaryadavdotcom/exploring-the-new-features-of-nextjs-15-1mic)
+- [Tailwind Flex: A Beginner&#39;s Guide to Flexbox Utilities](https://dev.to/codeparrot/tailwind-flex-a-beginners-guide-to-flexbox-utilities-2bn8)
+- [3d cube illusion using html css and javascript](https://dev.to/prince_beec5ccde00b7c6c73/3d-cube-illusion-using-html-css-and-javascript-1ll7)
+- [Qualities of a Good Cloud Architect](https://dev.to/aws-builders/qualities-of-a-good-cloud-architect-4glo)
+- [Using Nvidia GPUs With Docker In 5 Minutes](https://dev.to/thenjdevopsguy/using-nvidia-gpus-with-docker-in-5-minutes-386g)
+- [Boost Your Cybersecurity: Easy Guide to the Rust IP Port Sniffer!](https://dev.to/bhattji007/boost-your-cybersecurity-easy-guide-to-the-rust-ip-port-sniffer-4n9l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
