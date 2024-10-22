@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [NextJs makes coding fun](https://dev.to/sam_chukwuemeka_8ce5489a5/nextjs-makes-coding-fun-kng)
-- [Dive Into the Fascinating World of Computer Vision](https://dev.to/getvm/dive-into-the-fascinating-world-of-computer-vision-3e4)
-- [Searching Items in Sitecore without Solr Indexes](https://dev.to/esdanielgomez/searching-items-in-sitecore-without-solr-indexes-olg)
-- [Cloud Migration Strategies: A Comprehensive Guide to Moving Your Business to the Cloud](https://dev.to/rizwanshaikh1979/cloud-migration-strategies-a-comprehensive-guide-to-moving-your-business-to-the-cloud-3la4)
-- [Automatic Discovery and Loading of Livewire Components from Different Namespaces](https://dev.to/joserick/automatic-discovery-and-loading-of-livewire-components-from-different-namespaces-39p4)
+- [Java Debugging: A Comprehensive Guide](https://dev.to/prodevopsguytech/java-debugging-a-comprehensive-guide-32hh)
+- [Anthropic releases &quot;Computer Use&quot;](https://dev.to/peter/anthropic-releases-computer-use-15oj)
+- [Importmap Not Working on iOS](https://dev.to/yegorckv/importmap-not-working-on-ios-2jfh)
+- [Unleash the Power of Nginx Log Analysis and Optimization: A Comprehensive Project](https://dev.to/labex/unleash-the-power-of-nginx-log-analysis-and-optimization-a-comprehensive-project-5ckn)
+- [Most Useful Free APIs and Project ideas for Frontend Developers : Youtube , Spotify and more](https://dev.to/sonaykara/most-useful-free-apis-and-project-ideas-for-frontend-developers-youtube-spotify-and-more-4p89)
 <!-- BLOG-POST-LIST:END -->
 
 ---
