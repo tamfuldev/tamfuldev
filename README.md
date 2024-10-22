@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Transacciones en laravel](https://dev.to/fernilo/transacciones-en-laravel-24fk)
-- [7 Useful Tools for Web Developers to Boost Productivity 🚀](https://dev.to/safdarali/7-useful-tools-for-web-developers-to-boost-productivity-3dfj)
-- [How to Prepare Your Application to Handle Multiple Requests on Black Friday](https://dev.to/wallacefreitas/how-to-prepare-your-application-to-handle-multiple-requests-on-black-friday-4dh3)
-- [Dealing with having multiple GitHub accounts](https://dev.to/veloek/dealing-with-having-multiple-github-accounts-45oo)
-- [Day 1046 : Grey Skies](https://dev.to/dwane/day-1046-grey-skies-24d4)
+- [Deploy FastAPI application with SQLite on Fly.io](https://dev.to/vladkens/deploy-fastapi-application-with-sqlite-on-flyio-3da1)
+- [How to Deploy MongoDB on AWS using Terraform: as a Service on ECS or on DocumentDB](https://dev.to/amlana24/how-to-deploy-mongodb-on-aws-using-terraform-as-a-service-on-ecs-or-on-documentdb-kba)
+- [Update Map in a Signal, I wished someone told me before I made this mistake.](https://dev.to/railsstudent/update-map-in-a-signal-i-wished-someone-told-me-before-i-made-this-mistake-2i39)
+- [Understanding Kafka and Zookeeper: How They Enhance Your .NET App](https://dev.to/dotnetfullstackdev/understanding-kafka-and-zookeeper-how-they-enhance-your-net-app-5dhb)
+- [Go sync.WaitGroup and The Alignment Problem](https://dev.to/func25/go-syncwaitgroup-and-the-alignment-problem-m7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
