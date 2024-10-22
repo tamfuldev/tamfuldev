@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy FastAPI application with SQLite on Fly.io](https://dev.to/vladkens/deploy-fastapi-application-with-sqlite-on-flyio-3da1)
-- [How to Deploy MongoDB on AWS using Terraform: as a Service on ECS or on DocumentDB](https://dev.to/amlana24/how-to-deploy-mongodb-on-aws-using-terraform-as-a-service-on-ecs-or-on-documentdb-kba)
-- [Update Map in a Signal, I wished someone told me before I made this mistake.](https://dev.to/railsstudent/update-map-in-a-signal-i-wished-someone-told-me-before-i-made-this-mistake-2i39)
-- [Understanding Kafka and Zookeeper: How They Enhance Your .NET App](https://dev.to/dotnetfullstackdev/understanding-kafka-and-zookeeper-how-they-enhance-your-net-app-5dhb)
-- [Go sync.WaitGroup and The Alignment Problem](https://dev.to/func25/go-syncwaitgroup-and-the-alignment-problem-m7)
+- [#79 - Split Aggregation Values And Fill Them in Detail Rows](https://dev.to/judith677/79-split-aggregation-values-and-fill-them-in-detail-rows-5boj)
+- [Understanding Promise.any&lpar;&rpar; in JavaScript](https://dev.to/diwakar_verma_381fc6e5e2f/understanding-promiseany-in-javascript-2hc2)
+- [Appwrite - &lpar; Backend-as-a-Service &rpar;](https://dev.to/mrcaption49/appwrite-backend-as-a-service--h8p)
+- [Capítulo 2 - Modelos de Datos y Lenguajes de Consulta](https://dev.to/pabloar/capitulo-2-modelos-de-datos-y-lenguajes-de-consulta-28eh)
+- [We&#39;ve shipped App Hibernation feature in 3 days](https://dev.to/peterkota/weve-shipped-app-hibernation-feature-in-3-days-16na)
 <!-- BLOG-POST-LIST:END -->
 
 ---
