@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your Web Dev Is Actually a Distributed Systems Wizard &lpar;And They Don&#39;t Even Know It&rpar;](https://dev.to/jasuperior/your-web-dev-is-actually-a-distributed-systems-wizard-and-they-dont-even-know-it-2p43)
-- [AWS Systems Manager Patch Manager](https://dev.to/ikoh_sylva/aws-systems-manager-patch-manager-43kn)
-- [Real-World Applications of Silicon Power Analysis in Consumer Electronics by Apoorva Reddy Proddutoori](https://dev.to/sophie_lee/real-world-applications-of-silicon-power-analysis-in-consumer-electronics-by-apoorva-reddy-proddutoori-5b9g)
-- [AVR Programming Tools](https://dev.to/bookofodot/day-0-avr-programming-3he1)
-- [MERN Stack VS MEAN Stack Which is Better?](https://dev.to/mosininamdar/mern-stack-vs-mean-stack-which-is-better-47gh)
+- [Data Lake vs. Data Lakehouse vs. Data Warehouse: Which One Fits Your Business Needs?](https://dev.to/arbisoftcompany/data-lake-vs-data-lakehouse-vs-data-warehouse-which-one-fits-your-business-needs-i0)
+- [Logseq vs. Obsidian: A Comprehensive Comparison](https://dev.to/airabbit/logseq-vs-obsidian-a-comprehensive-comparison-26nk)
+- [Unveiling the Ultimate R Package Developer Master Resource List](https://dev.to/noclocks/unveiling-the-ultimate-r-package-developer-master-resource-list-571b)
+- [Unveiling the Ultimate R Package Developer Master Resource List](https://dev.to/noclocks/unveiling-the-ultimate-r-package-developer-master-resource-list-55jp)
+- [Unveiling the Ultimate R Package Developer Master Resource List](https://dev.to/noclocks/unveiling-the-ultimate-r-package-developer-master-resource-list-2j2i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
