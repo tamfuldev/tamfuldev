@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Guide to Understanding Blind SQL injection](https://dev.to/carrie_luo1/the-ultimate-guide-to-understanding-blind-sql-injection-3ci8)
-- [Understanding Semantic Analysis Algorithms: A Beginner’s Guide](https://dev.to/carrie_luo1/understanding-semantic-analysis-algorithms-a-beginners-guide-5bkm)
-- [The 4 Most Common Mistakes When Using useState in React](https://dev.to/sonaykara/the-4-most-common-mistakes-when-using-usestate-in-react-1ji8)
-- [Why Choose Python Programming Language for Mobile App Development?](https://dev.to/jigar_online/why-choose-python-programming-language-for-mobile-app-development-29mf)
-- [Vendor Risk Management Policy: A Strategic Approach](https://dev.to/buzzgk/vendor-risk-management-policy-a-strategic-approach-49bc)
+- [Show us your open-source Project](https://dev.to/litlyx/show-us-your-open-source-project-188o)
+- [5 Steps You Must Follow to Deploy a React App on Hostinger](https://dev.to/safdarali/5-steps-you-must-follow-to-deploy-a-react-app-on-hostinger-5bd9)
+- [DevOps Dallas Day- 5 Reasons You&#39;re Struggling to Debug Your Infrastructure in Under an Hour](https://dev.to/roxane_fischer_79570c1b5b/devops-dallas-day-5-reasons-youre-struggling-to-debug-your-infrastructure-in-under-an-hour-c5c)
+- [AI and Blockchain: Innovations for Secure Data](https://dev.to/vikas76/ai-and-blockchain-innovations-for-secure-data-150m)
+- [Social Media Analytics: leverage the Power of Social Media Analytics to Grow Your Business](https://dev.to/albert2/social-media-analytics-leverage-the-power-of-social-media-analytics-to-grow-your-business-3d4f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
