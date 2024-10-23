@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [10 signs you’ve been a software tester for too long &lpar;and you should run while you still can&rpar;](https://dev.to/testerzypl/10-signs-youve-been-a-software-tester-for-too-long-and-you-should-run-while-you-still-can-1mjp)
-- [[Pass AWS SCS-C02 on the first try!] A security beginner passed AWS SCS in just 2 weeks](https://dev.to/uirole/pass-aws-scs-c02-on-the-first-try-a-security-beginner-passed-aws-scs-in-just-2-weeks-1g0j)
-- [Detailed Difference between Ienumerable-vs-Iqueryable](https://dev.to/deewakar_kumar_8812427a98/detailed-difference-between-ienumerable-vs-iqueryable-4303)
-- [Streamlining API Calls in Angular v18 with TanStack Angular Query](https://dev.to/this-is-angular/streamlining-api-calls-in-angular-v18-with-tanstack-angular-query-5ahc)
-- [An Overview of the Kalp Studio Authentication](https://dev.to/kalpstudio/an-overview-of-the-kalp-studio-authentication-10i6)
+- [Theme Management for Dataverse Model Driven Apps / Dynamics 365 CE](https://dev.to/_neronotte/theme-management-for-dataverse-model-driven-apps-dynamics-365-ce-2f89)
+- [Data Security and HIPAA Compliance in Healthcare Web Development](https://dev.to/robertadler/data-security-and-hipaa-compliance-in-healthcare-web-development-1jdh)
+- [Remote WMI Erişim ve Komutlar](https://dev.to/aciklab/remote-wmi-erisim-ve-komutlar-175i)
+- [I&#39;m looking for a FullStack Software Developer Role](https://dev.to/sankar_puvvada/im-looking-for-a-fullstack-software-developer-role-4290)
+- [Overview sulla Smart Maintenance &lpar;previsioni e consumi&rpar;](https://dev.to/corradofacchini/overview-sulla-smart-maintenance-previsioni-e-consumi-335b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
