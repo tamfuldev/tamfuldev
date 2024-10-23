@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding JavaScript Prototypes](https://dev.to/kartikmehta8/understanding-javascript-prototypes-4a2h)
-- [Default Interface Methods and properties implementation in C# 8.0](https://dev.to/dotnetfullstackdev/default-interface-methods-and-properties-implementation-in-c-80-3ean)
-- [Mastering Terminal using Savvy&#39; s AI](https://dev.to/joshi_4/mastering-terminal-using-savvy-s-ai-42d8)
-- [Cross-Posting and Portfolio Project Update: Optimizing API Calls and Implementing Best Practices](https://dev.to/jesse_chong_3bcc276c4f950/cross-posting-and-portfolio-project-update-optimizing-api-calls-and-implementing-best-practices-309j)
-- [GCP Tech Stack for a Serverless NextJS Web App](https://dev.to/charlottetowell/gcp-tech-stack-for-a-serverless-nextjs-web-app-16cd)
+- [Project Introduction: Portfolio Developer](https://dev.to/letuyen/project-introduction-portfolio-developer-4ok8)
+- [PostgreSQL as a Celery Broker](https://dev.to/k4ml/postgresql-as-a-celery-broker-d8d)
+- [Disaster Recovery as a Service &lpar;DRaaS&rpar;: What It Is and How It Works](https://dev.to/jeffreyboyle0033/disaster-recovery-as-a-service-draas-what-it-is-and-how-it-works-2kpp)
+- [TIL: Nested for/while loops can have O&lpar;N&rpar; time complexity in some cases &lpar;DSA for technical interviews&rpar;](https://dev.to/dleedev365/til-nested-forwhile-loops-can-have-on-time-complexity-in-some-cases-dsa-for-technical-interviews-2ido)
+- [TIL: Nested for/while loops can have O&lpar;N&rpar; time complexity in some cases &lpar;DSA for technical interviews&rpar;](https://dev.to/dleedev365/til-nested-forwhile-loops-can-have-on-time-complexity-in-some-cases-dsa-for-technical-interviews-18l2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
