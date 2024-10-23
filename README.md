@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Data Lake vs. Data Lakehouse vs. Data Warehouse: Which One Fits Your Business Needs?](https://dev.to/arbisoftcompany/data-lake-vs-data-lakehouse-vs-data-warehouse-which-one-fits-your-business-needs-i0)
-- [Logseq vs. Obsidian: A Comprehensive Comparison](https://dev.to/airabbit/logseq-vs-obsidian-a-comprehensive-comparison-26nk)
-- [Unveiling the Ultimate R Package Developer Master Resource List](https://dev.to/noclocks/unveiling-the-ultimate-r-package-developer-master-resource-list-571b)
-- [Unveiling the Ultimate R Package Developer Master Resource List](https://dev.to/noclocks/unveiling-the-ultimate-r-package-developer-master-resource-list-55jp)
-- [Unveiling the Ultimate R Package Developer Master Resource List](https://dev.to/noclocks/unveiling-the-ultimate-r-package-developer-master-resource-list-2j2i)
+- [🚀 GopherLight v0.2](https://dev.to/gopherlight/gopherlight-v02-23l1)
+- [C# Clean Code: string guide lines](https://dev.to/moh_moh701/c-clean-code-string-guide-lines-2k8)
+- [Kotlin test automation. Chapter 1- Framework and CRUD tests.](https://dev.to/fofolder/kotlin-test-automation-chapter-1-framework-and-crud-tests-418o)
+- [O que é Lazy Loading?](https://dev.to/felipeamorimdev/o-que-e-lazy-loading-g1i)
+- [Building a PostgreSQL Library in D](https://dev.to/rodevasia/building-a-postgresql-library-in-d-1nlo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
