@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Theme Management for Dataverse Model Driven Apps / Dynamics 365 CE](https://dev.to/_neronotte/theme-management-for-dataverse-model-driven-apps-dynamics-365-ce-2f89)
-- [Data Security and HIPAA Compliance in Healthcare Web Development](https://dev.to/robertadler/data-security-and-hipaa-compliance-in-healthcare-web-development-1jdh)
-- [Remote WMI Erişim ve Komutlar](https://dev.to/aciklab/remote-wmi-erisim-ve-komutlar-175i)
-- [I&#39;m looking for a FullStack Software Developer Role](https://dev.to/sankar_puvvada/im-looking-for-a-fullstack-software-developer-role-4290)
-- [Overview sulla Smart Maintenance &lpar;previsioni e consumi&rpar;](https://dev.to/corradofacchini/overview-sulla-smart-maintenance-previsioni-e-consumi-335b)
+- [2NF](https://dev.to/mrcaption49/2nf-1hc5)
+- [🚀 Creating a Kubernetes Cluster with Vagrant: A Step-by-Step Guide 🚀](https://dev.to/khurammurad/creating-a-kubernetes-cluster-with-vagrant-a-step-by-step-guide-gnp)
+- [Need Guidance for Creating a Multi-Step Checkout Page](https://dev.to/wpcoder/need-guidance-for-creating-a-multi-step-checkout-page-3b4c)
+- [Why I built RelayBox, an open-source platform for real-time app development](https://dev.to/relayboxlabs/why-i-built-relaybox-an-open-source-platform-for-real-time-app-development-4f39)
+- [Add Enter after barcode with Honeywell PDA](https://dev.to/sertxudev/add-enter-after-barcode-with-honeywell-pda-5i0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
