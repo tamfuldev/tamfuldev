@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Video: How to share an Angular Component with URL](https://dev.to/shhdharmen/video-how-to-share-an-angular-component-with-url-3g40)
-- [Publishing Multi-Arch Docker image to DockerHub using Buildx and GitHub Actions](https://dev.to/pradumnasaraf/docker-buildx-gha-dockerhub-3h2c)
-- [Understanding the Event Loop in JavaScript: Microtasks, Macrotasks, and Asynchronous Execution](https://dev.to/nishanthan-k/understanding-the-event-loop-in-javascript-microtasks-macrotasks-and-asynchronous-execution-3037)
-- [Top 5 open-source MLOps tool to boost your production ✨](https://dev.to/rohan_sharma/top-5-open-source-mlops-tool-to-boost-your-production-4j0a)
-- [Self-Hosted Form API for Static Sites - Form2Mail vs. Formspree vs. Google Forms](https://dev.to/dansasser/self-hosted-form-api-for-static-sites-form2mail-vs-formspree-vs-google-forms-13hk)
+- [Align Merge Two CSV Files according to Namesake Fields #eg64](https://dev.to/esproc_spl/align-merge-two-csv-files-according-to-namesake-fields-eg64-43ja)
+- [I Build a List OF Tools For Start Your Startup](https://dev.to/xaramore/i-build-a-list-of-tools-for-start-your-startup-klh)
+- [Haunted House Quiz](https://dev.to/deepduharia/haunted-house-quiz-j3i)
+- [Crushed Hacktoberfest 2024! 🚀 Earned My Level 4 Badge and Here&#39;s What I Learned 🦥💻](https://dev.to/devops_descent/crushed-hacktoberfest-2024-earned-my-level-4-badge-and-heres-what-i-learned-5fmb)
+- [What is Aws Macie ? How to discover data with Macie ?](https://dev.to/orhan_kamo_5bd96f9498a487/what-is-aws-macie-how-to-discovery-data-with-macie--1km4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
