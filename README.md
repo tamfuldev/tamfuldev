@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Project Introduction: Portfolio Developer](https://dev.to/letuyen/project-introduction-portfolio-developer-4ok8)
-- [PostgreSQL as a Celery Broker](https://dev.to/k4ml/postgresql-as-a-celery-broker-d8d)
-- [Disaster Recovery as a Service &lpar;DRaaS&rpar;: What It Is and How It Works](https://dev.to/jeffreyboyle0033/disaster-recovery-as-a-service-draas-what-it-is-and-how-it-works-2kpp)
-- [TIL: Nested for/while loops can have O&lpar;N&rpar; time complexity in some cases &lpar;DSA for technical interviews&rpar;](https://dev.to/dleedev365/til-nested-forwhile-loops-can-have-on-time-complexity-in-some-cases-dsa-for-technical-interviews-2ido)
-- [TIL: Nested for/while loops can have O&lpar;N&rpar; time complexity in some cases &lpar;DSA for technical interviews&rpar;](https://dev.to/dleedev365/til-nested-forwhile-loops-can-have-on-time-complexity-in-some-cases-dsa-for-technical-interviews-18l2)
+- [Announcing Integration between Apache APISIX and open-appsec WAF](https://dev.to/apisix/announcing-integration-between-apache-apisix-and-open-appsec-waf-2jf9)
+- [Loader Animation](https://dev.to/mahmud-r-farhan/loader-animation-49di)
+- [Common built-in APIs in Nodejs](https://dev.to/muthuraja_r/common-built-in-apis-in-nodejs-3ep)
+- [Understanding the this Keyword in JavaScript](https://dev.to/diwakar_verma_381fc6e5e2f/understanding-the-this-keyword-in-javascript-576p)
+- [Hello everyone, I am new here. Could you briefly show me the special features of this forum?](https://dev.to/waylau/hello-everyone-i-am-new-here-could-you-briefly-show-me-the-special-features-of-this-forum-26h5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
