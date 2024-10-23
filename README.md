@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [20 TypeScript Tricks Every Developer Should Know 🚀](https://dev.to/jagroop2001/20-typescript-tricks-every-developer-should-know-31e2)
-- [Swipe, Tap and Pinch Gestures in iOS 18 - #30DaysOfSwift](https://dev.to/thevediwho/swipe-tap-and-pinch-gestures-in-ios-18-30daysofswift-nkp)
-- [Introduction to NodeJS](https://dev.to/madgan95/introduction-to-nodejs-4c62)
-- [Why You Should Get Microsoft Certifications as a Student: Boost Your Tech Skills for Free!](https://dev.to/mahrukh_adeel/why-you-should-get-microsoft-certifications-as-a-student-boost-your-tech-skills-for-free-4go4)
-- [Smart way to update multiple models simultaneously in Rails](https://dev.to/hamajyotan/smart-way-to-update-multiple-models-simultaneously-in-rails-51b6)
+- [Your Web Dev Is Actually a Distributed Systems Wizard &lpar;And They Don&#39;t Even Know It&rpar;](https://dev.to/jasuperior/your-web-dev-is-actually-a-distributed-systems-wizard-and-they-dont-even-know-it-2p43)
+- [AWS Systems Manager Patch Manager](https://dev.to/ikoh_sylva/aws-systems-manager-patch-manager-43kn)
+- [Real-World Applications of Silicon Power Analysis in Consumer Electronics by Apoorva Reddy Proddutoori](https://dev.to/sophie_lee/real-world-applications-of-silicon-power-analysis-in-consumer-electronics-by-apoorva-reddy-proddutoori-5b9g)
+- [AVR Programming Tools](https://dev.to/bookofodot/day-0-avr-programming-3he1)
+- [MERN Stack VS MEAN Stack Which is Better?](https://dev.to/mosininamdar/mern-stack-vs-mean-stack-which-is-better-47gh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
