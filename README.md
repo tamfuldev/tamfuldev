@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [2NF](https://dev.to/mrcaption49/2nf-1hc5)
-- [🚀 Creating a Kubernetes Cluster with Vagrant: A Step-by-Step Guide 🚀](https://dev.to/khurammurad/creating-a-kubernetes-cluster-with-vagrant-a-step-by-step-guide-gnp)
-- [Need Guidance for Creating a Multi-Step Checkout Page](https://dev.to/wpcoder/need-guidance-for-creating-a-multi-step-checkout-page-3b4c)
-- [Why I built RelayBox, an open-source platform for real-time app development](https://dev.to/relayboxlabs/why-i-built-relaybox-an-open-source-platform-for-real-time-app-development-4f39)
-- [Add Enter after barcode with Honeywell PDA](https://dev.to/sertxudev/add-enter-after-barcode-with-honeywell-pda-5i0)
+- [Desbloqueando el Futuro de la Gestión de Edificios con AWS IoT](https://dev.to/aws-espanol/desbloqueando-el-futuro-de-la-gestion-de-edificios-con-aws-iot-3k23)
+- [19 Frontend Projects 🎨](https://dev.to/grapplingdev/19-frontend-projects-5heo)
+- [AZ-104: Configure and Manage Virtual Networks for Azure Administrators](https://dev.to/i_am_vesh/az-104-configure-and-manage-virtual-networks-for-azure-administrators-21ad)
+- [Unlocking the Future of Building Management with AWS IoT](https://dev.to/aws-builders/unlocking-the-future-of-building-management-with-aws-iot-2g73)
+- [Inside Lithe: How the PHP Framework is Changing the Game](https://dev.to/lithephp/inside-lithe-how-the-php-framework-is-changing-the-game-41ih)
 <!-- BLOG-POST-LIST:END -->
 
 ---
