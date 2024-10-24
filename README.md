@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Serverless APIs with AWS API Gateway](https://dev.to/kartikmehta8/building-serverless-apis-with-aws-api-gateway-1c9n)
-- [Teoria do Caos Aplicada à Cloud Computing: Entendendo o Impacto do Caos na Infraestrutura em Nuvem](https://dev.to/n1ghtm4r33/teoria-do-caos-aplicada-a-cloud-computing-entendendo-o-impacto-do-caos-na-infraestrutura-em-nuvem-4j2n)
-- [Liskov Substitution Principle in C# with Bird Example](https://dev.to/dotnetfullstackdev/liskov-substitution-principle-in-c-with-bird-example-38ia)
-- [Learn TDD with Ruby - Loops, Blocks and Strings](https://dev.to/meleu/learn-tdd-with-ruby-loops-blocks-and-strings-36he)
-- [Programming Inspiration &amp; Motivation on LinkedIn](https://dev.to/laura_mbogo_fd086556a7ede/programming-inspiration-motivation-on-linkedin-1j6h)
+- [The Art of Problem-Solving](https://dev.to/this_mkhy/the-art-of-problem-solving-3g0b)
+- [Beginner&#39;s Guide to Backend Development: Build Your First App Using Node.js and Express.js](https://dev.to/inam003/beginners-guide-to-backend-development-build-your-first-app-using-nodejs-and-expressjs-499m)
+- [Client-Side Rendering &lpar;CSR&rpar;](https://dev.to/nullref/client-side-rendering-csr-98j)
+- [Introducing Soyo: Stream On Your Own , Effortlessly 🎬🎧](https://dev.to/hikki/introducing-soyo-stream-on-your-own-effortlessly-2eh)
+- [SAST, DAST, and IAST: Approaches to Testing Application Security](https://dev.to/ekirigwe/sast-dast-and-iast-approaches-to-testing-application-security-60b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
