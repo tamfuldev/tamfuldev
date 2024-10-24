@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [তরুণ উদ্যোক্তা এবং স্টার্টআপ: আমার কল্পনার জগতে একটি যাত্রা](https://dev.to/mahiamomo/trunn-udyoktaa-ebn-sttaarttaap-aamaar-klpnaar-jgte-ektti-yaatraa-408m)
-- [Create a Spooky Halloween-Themed Website with Our Interactive Template!](https://dev.to/arishn/create-a-spooky-halloween-themed-website-with-our-interactive-template-942)
-- [Procedure in PL/SQL | Best Explanation](https://dev.to/mrcaption49/procedure-in-plsql-best-explanation-4l96)
-- [Digital Marketing Industry Trends in 2024](https://dev.to/lakshay_kapoor_cb29df2403/digital-marketing-industry-trends-in-2024-oi7)
-- [Introducing DevPub a playground for designers and developers built with Wix.](https://dev.to/arize99/introducing-devpub-a-playground-for-designers-and-developers-built-with-wix-5bal)
+- [Call Resilience with Polly](https://dev.to/juarezasjunior/call-resilience-with-polly-4l95)
+- [Resiliência de Chamadas com Polly](https://dev.to/juarezasjunior/resiliencia-de-chamadas-com-polly-5153)
+- [Interceptando Requisições com DevTools](https://dev.to/guiselair/interceptando-requisicoes-no-devtools-39jl)
+- [Gamifying Your Finances: Leveling Up Your Wealth in Tech](https://dev.to/techbalance_collective/gamifying-your-finances-leveling-up-your-wealth-in-tech-1bpi)
+- [The Adventures of Blink S2e7: A GUI Screen in Python](https://dev.to/linkbenjamin/the-adventures-of-blink-s2e7-a-gui-screen-in-python-33b6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
