@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [analyzeSizeChange script in tRPC source code](https://dev.to/thinkthroo/analyzesizechange-script-in-trpc-source-code-15cg)
-- [Recursive Common Table Expressions &lpar;CTEs&rpar; | Employee and Manager Hierarchy example](https://dev.to/mrcaption49/recursive-common-table-expressions-ctes-employee-and-manager-hierarchy-example-22bk)
-- [How to Create an Image Gallery using HTML, CSS, and JavaScript &lpar;Project 5&rpar;](https://dev.to/areeb_anwar_813df06ee1124/how-to-create-an-image-gallery-using-html-css-and-javascript-project-5-2l90)
-- [🚀 Spin Up an Amazon EKS Cluster in Minutes! ⏱️](https://dev.to/aws-builders/spin-up-an-amazon-eks-cluster-in-minutes-3g62)
-- [Angular vs. ReactJS: Which One Should You Pick for Your Next Project?](https://dev.to/yanaiara/angular-vs-reactjs-which-one-should-you-pick-for-your-next-project-50d4)
+- [VRPG day 1](https://dev.to/vctrsmelo/vrpg-day-1-968)
+- [The Secret to Fast Typing on the Game Boy: Here’s How I Did It!](https://dev.to/cleggacus/the-secret-to-fast-typing-on-the-game-boy-heres-how-i-did-it-ohh)
+- [My First Time Participating in Hacktoberfest: A Journey into Open Source](https://dev.to/abdullah-k18/my-first-time-participating-in-hacktoberfest-a-journey-into-open-source-589l)
+- [Scaling Web-Socket to million users](https://dev.to/wiledw/scaling-web-socket-to-million-users-57da)
+- [AWS DATA ENGINEER - 101](https://dev.to/sajjadrahman56/aws-data-engineer-101-58j3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
