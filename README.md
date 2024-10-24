@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [VRPG day 1](https://dev.to/vctrsmelo/vrpg-day-1-968)
-- [The Secret to Fast Typing on the Game Boy: Here’s How I Did It!](https://dev.to/cleggacus/the-secret-to-fast-typing-on-the-game-boy-heres-how-i-did-it-ohh)
-- [My First Time Participating in Hacktoberfest: A Journey into Open Source](https://dev.to/abdullah-k18/my-first-time-participating-in-hacktoberfest-a-journey-into-open-source-589l)
-- [Scaling Web-Socket to million users](https://dev.to/wiledw/scaling-web-socket-to-million-users-57da)
-- [AWS DATA ENGINEER - 101](https://dev.to/sajjadrahman56/aws-data-engineer-101-58j3)
+- [A Complete Markdown Tutorial: From Basics to Advanced](https://dev.to/mahbubumithu/a-complete-markdown-tutorial-from-basics-to-advanced-41nb)
+- [Magic of Next.js: Why It&#39;s a Game-Changer for Developers](https://dev.to/mukhilpadmanabhan/magic-of-nextjs-why-its-a-game-changer-for-developers-30md)
+- [Hackathon de Cloudinary junto a Midudev: Mi experiencia y aprendizajes al participar](https://dev.to/johnserranodev/hackathon-de-cloudinary-junto-a-midudev-mi-experiencia-y-aprendizajes-al-participar-5bbb)
+- [Rich Compile-Time Exceptions in TypeScript Using Unconstructable Types](https://dev.to/jasuperior/rich-compile-time-exceptions-in-typescript-using-unconstructable-types-6gg)
+- [6 Workflow Automation Examples You Can Create in Minutes](https://dev.to/yayabobi/6-workflow-automation-examples-you-can-create-in-minutes-1g4l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
