@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Call Resilience with Polly](https://dev.to/juarezasjunior/call-resilience-with-polly-4l95)
-- [Resiliência de Chamadas com Polly](https://dev.to/juarezasjunior/resiliencia-de-chamadas-com-polly-5153)
-- [Interceptando Requisições com DevTools](https://dev.to/guiselair/interceptando-requisicoes-no-devtools-39jl)
-- [Gamifying Your Finances: Leveling Up Your Wealth in Tech](https://dev.to/techbalance_collective/gamifying-your-finances-leveling-up-your-wealth-in-tech-1bpi)
-- [The Adventures of Blink S2e7: A GUI Screen in Python](https://dev.to/linkbenjamin/the-adventures-of-blink-s2e7-a-gui-screen-in-python-33b6)
+- [The scariest character on Halloween is crypto SCAM](https://dev.to/juergen_bergmann_4596516b/the-scariest-character-on-halloween-is-crypto-scam-39e3)
+- [Inventory management Desktop App Using ElectronJS](https://dev.to/devabdul/inventory-management-desktop-app-using-electronjs-5i1)
+- [Building A Scalable Advanced Email Templating System with @react-email and NestJS](https://dev.to/drbenzene/building-a-scalable-advanced-email-templating-system-with-react-email-and-nestjs-41fd)
+- [A Guide to Using Kalp Studio Explorer](https://dev.to/kalpstudio/a-guide-to-using-kalp-studio-explorer-3nn5)
+- [Took Part in the &quot;VOICE CONTROL REPLICA&quot; Challenge on UIVERSE.IO](https://dev.to/smitprajapati/took-part-in-the-voice-control-replica-challenge-on-uiverseio-19gl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
