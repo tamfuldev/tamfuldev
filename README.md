@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Art of Problem-Solving](https://dev.to/this_mkhy/the-art-of-problem-solving-3g0b)
-- [Beginner&#39;s Guide to Backend Development: Build Your First App Using Node.js and Express.js](https://dev.to/inam003/beginners-guide-to-backend-development-build-your-first-app-using-nodejs-and-expressjs-499m)
-- [Client-Side Rendering &lpar;CSR&rpar;](https://dev.to/nullref/client-side-rendering-csr-98j)
-- [Introducing Soyo: Stream On Your Own , Effortlessly 🎬🎧](https://dev.to/hikki/introducing-soyo-stream-on-your-own-effortlessly-2eh)
-- [SAST, DAST, and IAST: Approaches to Testing Application Security](https://dev.to/ekirigwe/sast-dast-and-iast-approaches-to-testing-application-security-60b)
+- [DSA: Hash Table - Expanded Questions](https://dev.to/nozibul_islam_113b1d5334f/dsa-hash-table-expanded-questions-4f84)
+- [How Javascript works?](https://dev.to/diwakar_verma_381fc6e5e2f/how-javascript-works-eea)
+- [Stripe Checkout Session for custom products](https://dev.to/daveswork/stripe-checkout-session-for-custom-products-1gld)
+- [Step-by-Step Guide to Installing PostgreSQL on Arch Linux](https://dev.to/codingashish_dev/step-by-step-guide-to-installing-postgresql-on-arch-linux-3ked)
+- [Vulnerability-Free C and C++ Development in Automotive Manufacturing and Software Defined Vehicles &lpar;SDV&rpar;](https://dev.to/snyk/vulnerability-free-c-and-c-development-in-automotive-manufacturing-and-software-defined-vehicles-sdv-jm7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
