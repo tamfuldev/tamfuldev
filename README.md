@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Callback Hell, Writing Cleaner Asynchronous JavaScript](https://dev.to/shafayeat/the-callback-hell-writing-cleaner-asynchronous-javascript-5d7l)
-- [Designing Reliable CI CD Pipelines for Faster, Error-Free Software Releases](https://dev.to/getambassador2024/designing-reliable-ci-cd-pipelines-for-faster-error-free-software-releases-13g1)
-- [Netex Server ve Netex Sensör Kurulumu](https://dev.to/aciklab/netex-server-ve-netex-sensor-kurulumu-b5h)
-- [AI in Law and Governance: Mohammad S A A Alothman and AI Tech Solutions Lead the Discussion](https://dev.to/schoolies_thailand_950c08/ai-in-law-and-governance-mohammad-s-a-a-alothman-and-ai-tech-solutions-lead-the-discussion-5d0e)
-- [A Comprehensive Guide to Choosing Between Appium and XCTest &lpar;UI&rpar; for iOS App Testing](https://dev.to/jennife05918349/a-comprehensive-guide-to-choosing-between-appium-and-xctest-ui-for-ios-app-testing-2gln)
+- [Top 5 oVirt Backup Solution 2024](https://dev.to/vere_pru/top-5-ovirt-backup-solution-2024-cn4)
+- [In-House vs. Outsourced Web Hosting Support: Which is Right for Your Company?](https://dev.to/shelli/in-house-vs-outsourced-web-hosting-support-which-is-right-for-your-company-471o)
+- [100 AWS DevOps Interview Questions and Answers](https://dev.to/prodevopsguytech/100-aws-devops-interview-questions-and-answers-3g1i)
+- [Generative AI Call Center](https://dev.to/vng_bach/generative-ai-call-center-1po6)
+- [PRAGMA EXCEPTION_INIT | keyword in PLSQL | Exceptional Handling](https://dev.to/mrcaption49/pragma-exceptioninit-keyword-in-plsql-exceptional-handling-54dk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
