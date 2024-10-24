@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [7 Principper for Microservices](https://dev.to/sprutnums/7-principper-for-microservices-ca6)
+- [المسح الأمني للكود باستخدام Amazon Q Developer](https://dev.to/aws-3arabi/lmsh-lmny-llkwd-bstkhdm-amazon-q-developer-4jcj)
+- [端口监控电话告警脚本](https://dev.to/alfredcl/duan-kou-jian-kong-dian-hua-gao-jing-jiao-ben-26cj)
+- [Testes de integreção X Testes de unidade: uma confronto a desigual](https://dev.to/joaopolira/testes-de-integrecao-x-testes-de-unidade-uma-confronto-a-desigual-2afn)
 - [supabase注册并创建项目和添加数据表](https://dev.to/longlikun/supabsezhu-ce-bing-chuang-jian-xiang-mu-he-tian-jia-shu-ju-biao-467p)
-- [The Journey From a CSV File to Apache Hive Table](https://dev.to/abdullah_haggag/the-journey-from-a-csv-file-to-apache-hive-table-45ab)
-- [How to Integrate Crypto Payments in Your Apps &amp; Build Your Own Crypto Payment Gateway with ZinariPays OpenAPI](https://dev.to/christopher_akanmu/how-to-integrate-crypto-payments-in-your-apps-build-your-own-crypto-payment-gateway-with-zinaripays-openapi-49ah)
-- [Implementing Webpack from Scratch, But in Rust - [1] Parsing and Modifying JS Code Using Oxc](https://dev.to/paradeto/implementing-webpack-from-scratch-but-in-rust-1-parsing-and-modifying-js-code-using-oxc-40l5)
-- [LabEx Trending: Add Student Personal Information and More](https://dev.to/labex/labex-trending-add-student-personal-information-and-more-26lm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
