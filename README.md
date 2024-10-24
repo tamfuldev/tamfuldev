@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Retrospectives Done Right: How to Make Your Team Meetings Actually Matter](https://dev.to/devactivity-app/retrospectives-done-right-how-to-make-your-team-meetings-actually-matter-4309)
-- [THE M.O.I.S.T Principle](https://dev.to/sprutnums/the-moist-principle-56b5)
-- [Mastering Code Review in GitHub: Common Mistakes to Avoid](https://dev.to/gocodeo/mastering-code-review-in-github-common-mistakes-to-avoid-mf5)
-- [Types of Mechanical Keyboard Switches and Their Impact](https://dev.to/mysticcoder/types-of-mechanical-keyboard-switches-and-their-impact-2hil)
-- [C# advanced: Tuple Assignments](https://dev.to/moh_moh701/c-advanced-tuple-assignments-3kid)
+- [Simple hello world program using Bazel and Go lang](https://dev.to/nikhildev/simple-hello-world-program-using-bazel-and-go-lang-2anc)
+- [Liman MYS - Uygulama İzleme Ortamı Oluşturulması](https://dev.to/aciklab/liman-mys-uygulama-izleme-ortami-olusturulmasi-4ijc)
+- [Why Every Developer Should Understand OOP: A Complete Breakdown](https://dev.to/bizmavenhub/why-every-developer-should-understand-oop-a-complete-breakdown-2761)
+- [Working with Quirky REST APIs is Easy in Angular](https://dev.to/rensjaspers/working-with-quirky-rest-apis-is-easy-in-angular-3g47)
+- [Getting Started with Web Scraping in Python](https://dev.to/allan-pg/getting-started-with-web-scraping-in-python-4pdg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
