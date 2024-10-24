@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Experience at CodeAlpha: A Path to Practical Python Programming](https://dev.to/marium_haris_093559cd2d19/my-experience-at-codealpha-a-path-to-practical-python-programming-7n8)
-- [1 Year of Consistent LeetCoding](https://dev.to/davinderpalrehal/1-year-of-consistent-leetcoding-26d0)
-- [21 Must-Bookmark React GitHub Repositories Every React Developer Should Know](https://dev.to/safdarali/21-must-bookmark-react-github-repositories-every-react-developer-should-know-49fc)
-- [Meet Delphi Data Access Components New Release with RAD Studio 12.2 and Lazarus 3.4 Support](https://dev.to/devartteam/meet-delphi-data-access-components-new-release-with-rad-studio-122-and-lazarus-34-support-4fa1)
-- [What is Polymorphism in C# - Explained with a Code Example](https://dev.to/doabledanny/what-is-polymorphism-in-c-explained-with-a-code-example-38bm)
+- [Global Temporary Table &lpar;GTT&rpar; in Oracle SQL](https://dev.to/mrcaption49/global-temporary-table-gtt-in-oracle-sql-1a1)
+- [Nestjs : Bun vs Nodejs](https://dev.to/arashgl/nestjs-bun-vs-nodejs-350g)
+- [Learning the new Svelte v5 Reactivity System](https://dev.to/webjose/learning-the-new-svelte-v5-reactivity-system-13i4)
+- [Sliding subarray beauty](https://dev.to/prashantrmishra/sliding-subarray-beauty-5510)
+- [LazyVStack vs List in iOS 18 - #30DaysOfSwift](https://dev.to/thevediwho/lazyvstack-vs-list-in-ios-18-30daysofswift-8fp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
