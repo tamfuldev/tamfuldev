@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Global Temporary Table &lpar;GTT&rpar; in Oracle SQL](https://dev.to/mrcaption49/global-temporary-table-gtt-in-oracle-sql-1a1)
-- [Nestjs : Bun vs Nodejs](https://dev.to/arashgl/nestjs-bun-vs-nodejs-350g)
-- [Learning the new Svelte v5 Reactivity System](https://dev.to/webjose/learning-the-new-svelte-v5-reactivity-system-13i4)
-- [Sliding subarray beauty](https://dev.to/prashantrmishra/sliding-subarray-beauty-5510)
-- [LazyVStack vs List in iOS 18 - #30DaysOfSwift](https://dev.to/thevediwho/lazyvstack-vs-list-in-ios-18-30daysofswift-8fp)
+- [analyzeSizeChange script in tRPC source code](https://dev.to/thinkthroo/analyzesizechange-script-in-trpc-source-code-15cg)
+- [Recursive Common Table Expressions &lpar;CTEs&rpar; | Employee and Manager Hierarchy example](https://dev.to/mrcaption49/recursive-common-table-expressions-ctes-employee-and-manager-hierarchy-example-22bk)
+- [How to Create an Image Gallery using HTML, CSS, and JavaScript &lpar;Project 5&rpar;](https://dev.to/areeb_anwar_813df06ee1124/how-to-create-an-image-gallery-using-html-css-and-javascript-project-5-2l90)
+- [🚀 Spin Up an Amazon EKS Cluster in Minutes! ⏱️](https://dev.to/aws-builders/spin-up-an-amazon-eks-cluster-in-minutes-3g62)
+- [Angular vs. ReactJS: Which One Should You Pick for Your Next Project?](https://dev.to/yanaiara/angular-vs-reactjs-which-one-should-you-pick-for-your-next-project-50d4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
