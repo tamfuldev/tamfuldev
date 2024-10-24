@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Complete Markdown Tutorial: From Basics to Advanced](https://dev.to/mahbubumithu/a-complete-markdown-tutorial-from-basics-to-advanced-41nb)
-- [Magic of Next.js: Why It&#39;s a Game-Changer for Developers](https://dev.to/mukhilpadmanabhan/magic-of-nextjs-why-its-a-game-changer-for-developers-30md)
-- [Hackathon de Cloudinary junto a Midudev: Mi experiencia y aprendizajes al participar](https://dev.to/johnserranodev/hackathon-de-cloudinary-junto-a-midudev-mi-experiencia-y-aprendizajes-al-participar-5bbb)
-- [Rich Compile-Time Exceptions in TypeScript Using Unconstructable Types](https://dev.to/jasuperior/rich-compile-time-exceptions-in-typescript-using-unconstructable-types-6gg)
-- [6 Workflow Automation Examples You Can Create in Minutes](https://dev.to/yayabobi/6-workflow-automation-examples-you-can-create-in-minutes-1g4l)
+- [Configurando un proyecto de React para producción](https://dev.to/joshuacba08/configurando-un-proyecto-de-react-para-produccion-7hb)
+- [Understanding the &#39;use client&#39; Directive in Next.js: Client-Side Components Explained](https://dev.to/saeedniyabati/understanding-the-use-client-directive-in-nextjs-client-side-components-explained-309)
+- [Varying the unknown parameter with optimization criteria](https://dev.to/eyakema11/varying-the-unknown-parameter-with-optimization-criteria-5d0m)
+- [TypeScript: JavaScript&#39;s Superhero Cape](https://dev.to/baransel/typescript-javascripts-superhero-cape-32eg)
+- [Next.js 15 : Incremental Static Regeneration &lpar;ISR&rpar;](https://dev.to/sonaykara/nextjs-15-incremental-static-regeneration-isr-1hk4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
