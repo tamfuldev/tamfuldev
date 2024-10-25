@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Negotiating Like a Pro: Maximizing Your Tech Compensation Package](https://dev.to/techbalance_collective/negotiating-like-a-pro-maximizing-your-tech-compensation-package-38ed)
-- [Simple and Fluent Validation with FluentValidation](https://dev.to/juarezasjunior/simple-and-fluent-validation-with-fluentvalidation-5014)
-- [Validação Simples e Fluente com FluentValidation](https://dev.to/juarezasjunior/validacao-simples-e-fluente-com-fluentvalidation-cj0)
-- [Things Ru Paul probably didn’t say about software testing or quality…](https://dev.to/ajparadith/things-ru-paul-probably-didnt-say-about-software-testing-or-quality-5goc)
-- [Next.js 15 : Incremental Static Regeneration &lpar;ISR&rpar;](https://dev.to/sonaykara/nextjs-15-incremental-static-regeneration-isr-2jkm)
+- [PIE: Simulating a PID Controller in Python](https://dev.to/klarity/pie-simulating-a-pid-controller-in-python-4eip)
+- [Deploying NestJS Application using Vercel and Supabase](https://dev.to/abayomijohn273/deploying-nestjs-application-using-vercel-and-supabase-3n7m)
+- [A Comprehensive Guide to Using Kalp Instant Deployer](https://dev.to/kalpstudio/a-comprehensive-guide-to-using-kalp-instant-deployer-3pm1)
+- [Hyper-V Servis Kullanıcısı Yönetimi ve Ağ Keşif Eklentisinde Konektör Taraması](https://dev.to/aciklab/hyper-v-servis-kullanicisi-yonetimi-ve-ag-kesif-eklentisinde-konektor-taramasi-2n0o)
+- [8 open-source tools to build your next AI SaaS app 🔥 🚀](https://dev.to/nevodavid/8-open-source-tools-to-build-your-next-ai-saas-app-11ip)
 <!-- BLOG-POST-LIST:END -->
 
 ---
