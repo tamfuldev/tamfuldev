@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Tips to Create Project Timelines in Architecture &amp; Real Estate Development Projects](https://dev.to/thomasy0ung/tips-to-create-project-timelines-in-architecture-real-estate-development-projects-2pml)
-- [The 11 Best Open-Source Performance Testing Tools](https://dev.to/apilover/the-11-best-open-source-performance-testing-tools-3pnh)
-- [DSA: Graph Theory Questions for Interviews and Practice](https://dev.to/nozibul_islam_113b1d5334f/dsa-graph-theory-questions-for-interviews-and-practice-3fib)
-- [Understanding Domains and Wildcard Domains: A Guide for Beginners](https://dev.to/carrie_luo1/understanding-domains-and-wildcard-domains-a-guide-for-beginners-1kdg)
-- [Manera simple de agregar soporte i18n en Rust con ejemplos y pruebas](https://dev.to/onlycoiners/manera-simple-de-agregar-soporte-i18n-en-rust-con-ejemplos-y-pruebas-10ma)
+- [Negotiating Like a Pro: Maximizing Your Tech Compensation Package](https://dev.to/techbalance_collective/negotiating-like-a-pro-maximizing-your-tech-compensation-package-38ed)
+- [Simple and Fluent Validation with FluentValidation](https://dev.to/juarezasjunior/simple-and-fluent-validation-with-fluentvalidation-5014)
+- [Validação Simples e Fluente com FluentValidation](https://dev.to/juarezasjunior/validacao-simples-e-fluente-com-fluentvalidation-cj0)
+- [Things Ru Paul probably didn’t say about software testing or quality…](https://dev.to/ajparadith/things-ru-paul-probably-didnt-say-about-software-testing-or-quality-5goc)
+- [Next.js 15 : Incremental Static Regeneration &lpar;ISR&rpar;](https://dev.to/sonaykara/nextjs-15-incremental-static-regeneration-isr-2jkm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
