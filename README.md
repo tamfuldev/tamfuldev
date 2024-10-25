@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Copy The Other Rows in a Text File the Times Which Is the Number in the Last Row #eg65](https://dev.to/esproc_spl/copy-the-other-rows-in-a-text-file-the-times-which-is-the-number-in-the-last-row-eg65-4hf0)
-- [Harness the Power of Microsoft Clarity – Invaluable Insights](https://dev.to/winsides/harness-the-power-of-microsoft-clarity-invaluable-insights-3noo)
-- [Diving into Open Source Part 3](https://dev.to/ajogseneca/diving-into-open-source-part-3-nl9)
-- [Breaking Curse of Knowledge](https://dev.to/rickvian/breaking-curse-of-knowledge-af4)
-- [Programação Orientada a Objetos - Java](https://dev.to/felipe_bs07/programacao-orientada-a-objetos-java-1kfa)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2e6k)
+- [Understanding Time Complexity in Python Functions](https://dev.to/williams-37/understanding-time-complexity-in-python-functions-5ehi)
+- [Crear instaladores ejecutables para windows con scripts en python.](https://dev.to/michaelsperalta/crear-instaladores-ejecutables-para-windows-con-scripts-en-python-39b9)
+- [Git is Lazy &lpar;And That&#39;s OK&rpar;](https://dev.to/oculus42/git-is-lazy-and-thats-ok-443h)
+- [Transform HTML Table into Card View Using Nothing But CSS](https://dev.to/phpcontrols/transform-html-table-into-card-view-using-nothing-but-css-17dc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
