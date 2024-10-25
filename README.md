@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Rest Assured Basics: A Beginner&#39;s Guide to Automated API Testing in Java](https://dev.to/jignect_technologies/rest-assured-basics-a-beginners-guide-to-automated-api-testing-in-java-jn0)
-- [Unlock the Power of Database Systems with UC Berkeley&#39;s CS 186 Course! 🔍](https://dev.to/getvm/unlock-the-power-of-database-systems-with-uc-berkeleys-cs-186-course-4gk5)
-- [How to choose the right Fixed Asset Management Software?](https://dev.to/seleam/how-to-choose-the-right-fixed-asset-management-software-3ipi)
-- [How to Set Up Effective Workflows with Zapier Experts](https://dev.to/neotechy/how-to-set-up-effective-workflows-with-zapier-experts-11mp)
-- [Beginner&#39;s Roadmap to Test Automation: Playwright and TypeScript Made Simple](https://dev.to/jignect_technologies/beginners-roadmap-to-test-automation-playwright-and-typescript-made-simple-1bcb)
+- [How to Encrypt JavaScript Code for Web Security](https://dev.to/carrie_luo1/how-to-encrypt-javascript-code-for-web-security-19kk)
+- [Why your brain isn&#39;t broken &lpar;but documentation might be&rpar; - a tab hoarder&#39;s musings on learning](https://dev.to/horia_varlan/why-your-brain-isnt-broken-but-documentation-might-be-a-tab-hoarders-musings-on-learning-16o7)
+- [Secure vs Standard Image Hosting APIs: What’s the Difference?](https://dev.to/ideradevtools/secure-vs-standard-image-hosting-apis-whats-the-difference-365)
+- [Transforming Retail Safety: The Role of AI in Object Detection and Store Surveillance](https://dev.to/api4ai/transforming-retail-safety-the-role-of-ai-in-object-detection-and-store-surveillance-39og)
+- [Building Reliable Offline-First Apps with Server Sync: A Strategic Approach for Unstable Connectivity](https://dev.to/k__/building-reliable-offline-first-apps-with-server-sync-a-strategic-approach-for-unstable-connectivity-4ig4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
