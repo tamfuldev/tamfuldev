@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [#82 — Filter by Accumulation](https://dev.to/judith677/82-filter-by-accumulation-237k)
-- [List Comprehension: ORM](https://dev.to/fullhousee/list-comprehension-orm-25ja)
-- [🥧 Git Pie: Aprenda sobre VCS](https://dev.to/punkdasilva/git-pie-aprenda-sobre-vcs-713)
-- [Implementing a Custom Dark Mode Hook in Next.js](https://dev.to/joassanon/implementing-a-custom-dark-mode-hook-in-nextjs-2294)
-- [Grafana K6 cheat sheet: everything a performance engineer should know](https://dev.to/charlyautomatiza/grafana-k6-cheat-sheet-everything-a-performance-engineer-should-know-49od)
+- [Copy The Other Rows in a Text File the Times Which Is the Number in the Last Row #eg65](https://dev.to/esproc_spl/copy-the-other-rows-in-a-text-file-the-times-which-is-the-number-in-the-last-row-eg65-4hf0)
+- [Harness the Power of Microsoft Clarity – Invaluable Insights](https://dev.to/winsides/harness-the-power-of-microsoft-clarity-invaluable-insights-3noo)
+- [Diving into Open Source Part 3](https://dev.to/ajogseneca/diving-into-open-source-part-3-nl9)
+- [Breaking Curse of Knowledge](https://dev.to/rickvian/breaking-curse-of-knowledge-af4)
+- [Programação Orientada a Objetos - Java](https://dev.to/felipe_bs07/programacao-orientada-a-objetos-java-1kfa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
