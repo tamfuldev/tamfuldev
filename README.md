@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m from Non IT Background,Going to start my career with Website Designing and Development. Right now I&#39;m learning HTML](https://dev.to/niladri_sen_21500869739d3/im-from-non-it-backgroundgoing-to-start-my-career-with-website-designing-and-development-right-now-im-learning-html-4chd)
-- [Extreme OpenAI Experiment: Writing an Original Short Novel in Spanish and English in 8 Hours from Concept](https://dev.to/rodrigo_estrada_79e6022e9/extreme-openai-experiment-writing-an-original-short-novel-in-spanish-and-english-in-8-hours-from-concept-4hob)
-- [Extreme OpenAI Experiment: Writing an Original Short Novel in Spanish and English in 8 Hours from Concept](https://dev.to/rodrigo_estrada_79e6022e9/extreme-openai-experiment-writing-an-original-short-novel-in-spanish-and-english-in-8-hours-from-concept-17j5)
-- [How to Build an Interactive Chat for Your Python CLI Using Introspection, Click, and Rich Formatting](https://dev.to/rodrigo_estrada_79e6022e9/how-to-build-an-interactive-chat-for-your-python-cli-using-introspection-click-and-rich-formatting-4l9a)
-- [Blockchain with Vue, Python &amp; Flask](https://dev.to/irenejpopova/blockchain-with-vue-python-flask-34hp)
+- [Why Shift Testing Left Part 2: QA Does More After Devs Run Tests](https://dev.to/signadot/why-shift-testing-left-part-2-qa-does-more-after-devs-run-tests-573i)
+- [SQL-92 in TPC Benchmarks: Are They Still Relevant?](https://dev.to/aws-heroes/sql-92-in-tpc-benchmarks-are-they-still-relevant-4ein)
+- [Understanding HTML: A Developer&#39;s Guide](https://dev.to/zionstone0909/understanding-html-a-developers-guide-145)
+- [WebP to PNG: Understanding the Differences and When to Use Each](https://dev.to/smartdev72/webp-to-png-understanding-the-differences-and-when-to-use-each-3799)
+- [PNG vs WebP: Choosing the Right Format for Web Images](https://dev.to/smartdev72/png-vs-webp-choosing-the-right-format-for-web-images-5d7l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
