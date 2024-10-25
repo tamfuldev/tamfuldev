@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Machine Learning Models: Comparing Grid Search, Randomized Search, and Optuna](https://dev.to/iemsaad/optimizing-machine-learning-models-comparing-grid-search-randomized-search-and-optuna-4hnf)
-- [Master Microservices Packaging for Private Clouds: 5 Essential Tips](https://dev.to/jackwilltech/master-microservices-packaging-for-private-clouds-5-essential-tips-31la)
-- [O Futuro da Medicina: Robôs e IA estão Salvando Vidas - E Isso É Só o Começo!](https://dev.to/n1ghtm4r33/o-futuro-da-medicina-robos-e-ia-estao-salvando-vidas-e-isso-e-so-o-comeco-5cfk)
-- [FastAPI, Pydantic, Psycopg3: the holy trinity for Python web APIs](https://dev.to/spwoodcock/fastapi-pydantic-psycopg3-the-holy-trinity-for-python-web-apis-5b88)
-- [Code Smell 276 - Untested Regular Expressions](https://dev.to/mcsee/code-smell-276-untested-regular-expressions-4oai)
+- [#82 — Filter by Accumulation](https://dev.to/judith677/82-filter-by-accumulation-237k)
+- [List Comprehension: ORM](https://dev.to/fullhousee/list-comprehension-orm-25ja)
+- [🥧 Git Pie: Aprenda sobre VCS](https://dev.to/punkdasilva/git-pie-aprenda-sobre-vcs-713)
+- [Implementing a Custom Dark Mode Hook in Next.js](https://dev.to/joassanon/implementing-a-custom-dark-mode-hook-in-nextjs-2294)
+- [Grafana K6 cheat sheet: everything a performance engineer should know](https://dev.to/charlyautomatiza/grafana-k6-cheat-sheet-everything-a-performance-engineer-should-know-49od)
 <!-- BLOG-POST-LIST:END -->
 
 ---
