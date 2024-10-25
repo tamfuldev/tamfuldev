@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Prompt Engineering &lpar;For Lazy Programmers&rpar;: Getting Exactly the Code You Want &lpar;and Even More, Out of ChatGPT&rpar;](https://dev.to/jamesbright/prompt-engineering-for-lazy-programmers-getting-exactly-the-code-you-want-and-even-more-out-of-chatgpt-3plf)
-- [How to Route Multiple Paystack Webhooks with one Webhook URL](https://dev.to/devlawrence/how-to-route-multiple-paystack-webhooks-with-one-webhook-url-1d2m)
-- [I created a video tutorial on how to make a responsive sidebar using CSS and vanilla Javascript](https://dev.to/laustke/i-created-a-video-tutorial-on-how-to-make-a-responsive-sidebar-using-css-and-vanilla-javascript-3ofi)
-- [Building a Single-Page App with a New Paradigm Using TargetJ](https://dev.to/ahmad_wasfi_f88513699c56d/building-a-single-page-app-with-a-new-paradigm-using-targetj-5h80)
-- [5 Essential Software Metrics for Quality Assurance](https://dev.to/geraldhamiltonwicks/5-essential-software-metrics-for-quality-assurance-73g)
+- [Optimizing Machine Learning Models: Comparing Grid Search, Randomized Search, and Optuna](https://dev.to/iemsaad/optimizing-machine-learning-models-comparing-grid-search-randomized-search-and-optuna-4hnf)
+- [Master Microservices Packaging for Private Clouds: 5 Essential Tips](https://dev.to/jackwilltech/master-microservices-packaging-for-private-clouds-5-essential-tips-31la)
+- [O Futuro da Medicina: Robôs e IA estão Salvando Vidas - E Isso É Só o Começo!](https://dev.to/n1ghtm4r33/o-futuro-da-medicina-robos-e-ia-estao-salvando-vidas-e-isso-e-so-o-comeco-5cfk)
+- [FastAPI, Pydantic, Psycopg3: the holy trinity for Python web APIs](https://dev.to/spwoodcock/fastapi-pydantic-psycopg3-the-holy-trinity-for-python-web-apis-5b88)
+- [Code Smell 276 - Untested Regular Expressions](https://dev.to/mcsee/code-smell-276-untested-regular-expressions-4oai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
