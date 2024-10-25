@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CyberAttacks Types and Techniques.](https://dev.to/mahimabhardwaj/cyberattacks-types-and-techniques-pcg)
-- [PL/SQL Interview questions with 3 Year of experience](https://dev.to/mrcaption49/plsql-interview-questions-with-3-year-of-experience-12lh)
-- [Hacktoberfest 2024 Journey as a First-Time Contributor](https://dev.to/nikhilesh_mauje_24/hacktoberfest-2024-journey-as-a-first-time-contributor-dp)
-- [Was improving site performance- stuck with comparing image weight](https://dev.to/ezitisitis/was-improving-site-performance-stuck-with-comparing-image-weight-255n)
-- [Understanding Nested Objects in JavaScript](https://dev.to/irenejpopova/understanding-nested-objects-in-javascript-4jog)
+- [I&#39;m from Non IT Background,Going to start my career with Website Designing and Development. Right now I&#39;m learning HTML](https://dev.to/niladri_sen_21500869739d3/im-from-non-it-backgroundgoing-to-start-my-career-with-website-designing-and-development-right-now-im-learning-html-4chd)
+- [Extreme OpenAI Experiment: Writing an Original Short Novel in Spanish and English in 8 Hours from Concept](https://dev.to/rodrigo_estrada_79e6022e9/extreme-openai-experiment-writing-an-original-short-novel-in-spanish-and-english-in-8-hours-from-concept-4hob)
+- [Extreme OpenAI Experiment: Writing an Original Short Novel in Spanish and English in 8 Hours from Concept](https://dev.to/rodrigo_estrada_79e6022e9/extreme-openai-experiment-writing-an-original-short-novel-in-spanish-and-english-in-8-hours-from-concept-17j5)
+- [How to Build an Interactive Chat for Your Python CLI Using Introspection, Click, and Rich Formatting](https://dev.to/rodrigo_estrada_79e6022e9/how-to-build-an-interactive-chat-for-your-python-cli-using-introspection-click-and-rich-formatting-4l9a)
+- [Blockchain with Vue, Python &amp; Flask](https://dev.to/irenejpopova/blockchain-with-vue-python-flask-34hp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
