@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2e6k)
-- [Understanding Time Complexity in Python Functions](https://dev.to/williams-37/understanding-time-complexity-in-python-functions-5ehi)
-- [Crear instaladores ejecutables para windows con scripts en python.](https://dev.to/michaelsperalta/crear-instaladores-ejecutables-para-windows-con-scripts-en-python-39b9)
-- [Git is Lazy &lpar;And That&#39;s OK&rpar;](https://dev.to/oculus42/git-is-lazy-and-thats-ok-443h)
-- [Transform HTML Table into Card View Using Nothing But CSS](https://dev.to/phpcontrols/transform-html-table-into-card-view-using-nothing-but-css-17dc)
+- [Unlock the Power of GitHub: Boost Your Resume and Career!](https://dev.to/creds/unlock-the-power-of-github-boost-your-resume-and-career-4jej)
+- [How a Time Clock App With GPS Can Boost Workforce Productivity?](https://dev.to/anurag_bhagsain_908641e9d/how-a-time-clock-app-with-gps-can-boost-workforce-productivity-2fo)
+- [How to write dirty code](https://dev.to/sprutnums/how-to-write-dirty-code-mpm)
+- [IN | OUT | IN/OUT parameters in Oracle SQL](https://dev.to/mrcaption49/in-out-inout-parameters-in-oracle-sql-e6h)
+- [Keys in SQL](https://dev.to/mrcaption49/keys-in-sql-1e2b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
