@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Encrypt JavaScript Code for Web Security](https://dev.to/carrie_luo1/how-to-encrypt-javascript-code-for-web-security-19kk)
-- [Why your brain isn&#39;t broken &lpar;but documentation might be&rpar; - a tab hoarder&#39;s musings on learning](https://dev.to/horia_varlan/why-your-brain-isnt-broken-but-documentation-might-be-a-tab-hoarders-musings-on-learning-16o7)
-- [Secure vs Standard Image Hosting APIs: What’s the Difference?](https://dev.to/ideradevtools/secure-vs-standard-image-hosting-apis-whats-the-difference-365)
-- [Transforming Retail Safety: The Role of AI in Object Detection and Store Surveillance](https://dev.to/api4ai/transforming-retail-safety-the-role-of-ai-in-object-detection-and-store-surveillance-39og)
-- [Building Reliable Offline-First Apps with Server Sync: A Strategic Approach for Unstable Connectivity](https://dev.to/k__/building-reliable-offline-first-apps-with-server-sync-a-strategic-approach-for-unstable-connectivity-4ig4)
+- [AWS open source newsletter, #204](https://dev.to/aws/aws-open-source-newsletter-204-4pgg)
+- [Could you briefly tell us about yourself and your background?](https://dev.to/abdibrokhim/could-you-briefly-tell-us-about-yourself-and-your-background-16ko)
+- [MintSwap DEX Launch: Unleashing a New Era of Decentralized Trading](https://dev.to/mint_/mintswap-dex-launch-unleashing-a-new-era-of-decentralized-trading-4b63)
+- [Real-Time Processing of Big Data: Tools and Best Practices](https://dev.to/hana_sato/real-time-processing-of-big-data-tools-and-best-practices-2mho)
+- [8 System Design Couress to learn Distributed System Architecture &lpar;2025&rpar;](https://dev.to/somadevtoo/8-system-design-couress-to-learn-distributed-system-architecture-2025-4j81)
 <!-- BLOG-POST-LIST:END -->
 
 ---
