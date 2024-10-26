@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Social media logo&#39;s effect using the html css](https://dev.to/prince_beec5ccde00b7c6c73/social-media-logos-effect-using-the-html-css-37l3)
+- [Standardize and Validate Incoming Data Using Pipes in NestJS](https://dev.to/pvthiendeveloper/standardize-and-validate-incoming-data-using-pipes-in-nestjs-25dc)
 - [Something](https://dev.to/sukhrobtech/something-5b1j)
 - [Building an APP with NOSQL Database](https://dev.to/jhonnyarm/building-an-app-with-nosql-database-3m7a)
 - [Using Runway&#39;s &quot;Gen-3 Alpha Turbo&quot; API to Generate AI Videos](https://dev.to/nabata/using-runways-gen-3-alpha-turbo-api-to-generate-ai-videos-42gb)
-- [Behind the Scenes: Designing a Beat Saber-Style Game with Godot](https://dev.to/manasajayasri/behind-the-scenes-designing-a-beat-saber-style-game-with-godot-184j)
-- [Understanding Python Decorators: A Deep Dive](https://dev.to/aman-giri/understanding-python-decorators-a-deep-dive-pp0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
