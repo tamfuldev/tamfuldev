@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stable Diffusion 3.5 Large How To Use Tutorial With Best Configuration and Comparison With FLUX DEV](https://dev.to/furkangozukara/stable-diffusion-35-large-how-to-use-tutorial-with-best-configuration-and-comparison-with-flux-dev-270b)
-- [Cin buyug&#39;i haqida](https://dev.to/munisa_kuranbekova_078e1e/cin-buyugi-haqida-4h77)
-- [How I created my custom react notification component using React createContext hook, and Typescript](https://dev.to/mrvicthor/how-i-created-my-custom-react-notification-component-using-react-createcontext-hook-and-typescript-3dfi)
-- [Broadcom killed VMware: Was this acquisition good or bad for you?](https://dev.to/mkdev/broadcom-killed-vmware-was-this-acquisition-good-or-bad-for-you-2iao)
-- [CIN KOMANDASI !!!](https://dev.to/madina1575/cin-komandasi--4pj2)
+- [New Wi-Fi IO module using an advanced Wi-Fi module for AGV integration](https://dev.to/zhangzhuyue/new-wi-fi-io-module-using-an-advanced-wi-fi-module-integrating-with-agv-1m5j)
+- [AWS Compute - Part 3: serverless, lambda and fargate](https://dev.to/hulk-pham/aws-compute-part-3-serverless-lambda-and-fargate-2lj0)
+- [🎥 5 Essential Tips for Video Editing Success!](https://dev.to/john_kenny/5-essential-tips-for-video-editing-success-5g7)
+- [My New App: AI Wallpaper Generator](https://dev.to/ethan_sk_edbd5bb11df1dd0a/my-new-app-ai-wallpaper-generator-37j8)
+- [Building an AI Sticker Maker Platform with AI/ML API, Next.js, React, and Tailwind CSS using OpenAI GPT-4o and DALL·E 3 Models.](https://dev.to/abdibrokhim/building-an-ai-sticker-maker-platform-with-aiml-api-nextjs-react-and-tailwind-css-using-openai-gpt-4o-and-dalle-3-models-46ip)
 <!-- BLOG-POST-LIST:END -->
 
 ---
