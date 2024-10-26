@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Apache Nifi &amp; Registry com MinIO](https://dev.to/airton_lirajunior_2ddebd/apache-nifi-registry-com-minio-2gnm)
-- [What to Expect When You Start Learning a Programming Language](https://dev.to/techben/what-to-expect-when-you-start-learning-a-programming-language-1bc3)
-- [Devlog: Hacktoberfest 2024 &lpar;4/4&rpar;](https://dev.to/peterdanwan/devlog-hacktoberfest-2024-44-k2m)
-- [Devlog: Hacktoberfest 2024 &lpar;4/4&rpar;](https://dev.to/peterdanwan/devlog-hacktoberfest-2024-44-118d)
-- [The .io domain might be in trouble](https://dev.to/talepunk/the-io-domain-might-be-in-trouble-21o8)
+- [Understanding useCallback in Reactjs](https://dev.to/muthuraja_r/understanding-usecallback-in-reactjs-2j6c)
+- [SPO Week 4.1 - CPUs](https://dev.to/krinskumar/spo-week-41-cpus-327e)
+- [Do We Really Need Use Cases in Mobile Apps?](https://dev.to/1noshishi/do-we-really-need-use-cases-in-mobile-apps-20k9)
+- [Mastering NumPy: The Ultimate Guide for Efficient Numerical Computing in Python](https://dev.to/tinapyp/mastering-numpy-the-ultimate-guide-for-efficient-numerical-computing-in-python-3ld9)
+- [How to Enter Your Password for sudo in a Single Command](https://dev.to/lynerlwl/how-to-enter-your-password-for-sudo-in-a-single-command-2nfi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
