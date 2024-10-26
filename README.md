@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding useCallback in Reactjs](https://dev.to/muthuraja_r/understanding-usecallback-in-reactjs-2j6c)
-- [SPO Week 4.1 - CPUs](https://dev.to/krinskumar/spo-week-41-cpus-327e)
-- [Do We Really Need Use Cases in Mobile Apps?](https://dev.to/1noshishi/do-we-really-need-use-cases-in-mobile-apps-20k9)
-- [Mastering NumPy: The Ultimate Guide for Efficient Numerical Computing in Python](https://dev.to/tinapyp/mastering-numpy-the-ultimate-guide-for-efficient-numerical-computing-in-python-3ld9)
-- [How to Enter Your Password for sudo in a Single Command](https://dev.to/lynerlwl/how-to-enter-your-password-for-sudo-in-a-single-command-2nfi)
+- [Something](https://dev.to/sukhrobtech/something-5b1j)
+- [Building an APP with NOSQL Database](https://dev.to/jhonnyarm/building-an-app-with-nosql-database-3m7a)
+- [Using Runway&#39;s &quot;Gen-3 Alpha Turbo&quot; API to Generate AI Videos](https://dev.to/nabata/using-runways-gen-3-alpha-turbo-api-to-generate-ai-videos-42gb)
+- [Behind the Scenes: Designing a Beat Saber-Style Game with Godot](https://dev.to/manasajayasri/behind-the-scenes-designing-a-beat-saber-style-game-with-godot-184j)
+- [Understanding Python Decorators: A Deep Dive](https://dev.to/aman-giri/understanding-python-decorators-a-deep-dive-pp0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
