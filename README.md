@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [3 Metode Cara Install Aplikasi di Linux Ubuntu](https://dev.to/dhimaskirana/3-metode-cara-install-aplikasi-di-linux-ubuntu-4g43)
-- [Week 8: Hacktoberfest pull request 3](https://dev.to/mpalhutchinson/week-8-hacktoberfest-pull-request-3-dn4)
-- [Thank you note](https://dev.to/llnobles/thank-you-note-2im1)
-- [Mastering in these 10+ Result/Return types in ASP.Net Core MVC](https://dev.to/dotnetfullstackdev/mastering-in-these-10-resultreturn-types-in-aspnet-core-mvc-4o09)
-- [🌍 Landmark API: Real-time Data for Landmarks, Tourism, and Travel Tech](https://dev.to/gravgor/landmark-api-real-time-data-for-landmarks-tourism-and-travel-tech-ai)
+- [Apache Nifi &amp; Registry com MinIO](https://dev.to/airton_lirajunior_2ddebd/apache-nifi-registry-com-minio-2gnm)
+- [What to Expect When You Start Learning a Programming Language](https://dev.to/techben/what-to-expect-when-you-start-learning-a-programming-language-1bc3)
+- [Devlog: Hacktoberfest 2024 &lpar;4/4&rpar;](https://dev.to/peterdanwan/devlog-hacktoberfest-2024-44-k2m)
+- [Devlog: Hacktoberfest 2024 &lpar;4/4&rpar;](https://dev.to/peterdanwan/devlog-hacktoberfest-2024-44-118d)
+- [The .io domain might be in trouble](https://dev.to/talepunk/the-io-domain-might-be-in-trouble-21o8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
