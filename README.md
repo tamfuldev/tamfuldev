@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AVIF vs WebP](https://dev.to/smartdev72/avif-vs-webp-57od)
-- [My First Dance with Hacktoberfest 2024 Journey](https://dev.to/hotragn/my-first-dance-with-hacktoberfest-2024-journey-31dk)
-- [GIF vs WebP](https://dev.to/smartdev72/gif-vs-webp-11f8)
-- [Reducing Docker Image Size: A Journey of Discovery](https://dev.to/bhargab/reducing-docker-image-size-a-journey-of-discovery-2cd2)
-- [How to integrate Queue in an Express application](https://dev.to/quanphat/how-to-integrate-queue-in-an-express-application-1101)
+- [Automating Code Quality: Git Hooks, Husky, and Lint-Staged for Streamlined Linting &amp; Formatting](https://dev.to/hkp22/automating-code-quality-git-hooks-husky-and-lint-staged-for-streamlined-linting-formatting-5ep4)
+- [Unlock the Power of C: Dive into Parallel Computing, Redis, and More](https://dev.to/getvm/unlock-the-power-of-c-dive-into-parallel-computing-redis-and-more-4gcf)
+- [Understanding var and let in JavaScript: When and Why to Use Each for Cleaner Code](https://dev.to/vimuth7/understanding-var-and-let-in-javascript-when-and-why-to-use-each-for-cleaner-code-2hjb)
+- [My first project &#39;Xuploads&#39;](https://dev.to/necro_pc/my-first-project-xuploads-3opk)
+- [WebP vs GIF](https://dev.to/smartdev72/webp-vs-gif-15ei)
 <!-- BLOG-POST-LIST:END -->
 
 ---
