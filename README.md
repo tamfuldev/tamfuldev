@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Guia básico de Spring Security](https://dev.to/camilaferreiranas/guia-basico-de-spring-security-5358)
-- [My First Week in DevOps: Starting with Linux](https://dev.to/aman_deol_54d943d56159246/my-first-week-in-devops-starting-with-linux-3e3k)
-- [How to Temporarily Store Changes in Git](https://dev.to/elukuro/how-to-temporarily-store-changes-in-git-397c)
-- [AWS Trusted Advisor for Security Checks](https://dev.to/ikoh_sylva/aws-trusted-advisor-for-security-checks-3pdn)
-- [if-else &amp; early return](https://dev.to/leandroats/if-else-early-return-1nb6)
+- [Stable Diffusion 3.5 Large How To Use Tutorial With Best Configuration and Comparison With FLUX DEV](https://dev.to/furkangozukara/stable-diffusion-35-large-how-to-use-tutorial-with-best-configuration-and-comparison-with-flux-dev-270b)
+- [Cin buyug&#39;i haqida](https://dev.to/munisa_kuranbekova_078e1e/cin-buyugi-haqida-4h77)
+- [How I created my custom react notification component using React createContext hook, and Typescript](https://dev.to/mrvicthor/how-i-created-my-custom-react-notification-component-using-react-createcontext-hook-and-typescript-3dfi)
+- [Broadcom killed VMware: Was this acquisition good or bad for you?](https://dev.to/mkdev/broadcom-killed-vmware-was-this-acquisition-good-or-bad-for-you-2iao)
+- [CIN KOMANDASI !!!](https://dev.to/madina1575/cin-komandasi--4pj2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
