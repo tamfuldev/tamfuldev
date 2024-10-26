@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Code Quality: Git Hooks, Husky, and Lint-Staged for Streamlined Linting &amp; Formatting](https://dev.to/hkp22/automating-code-quality-git-hooks-husky-and-lint-staged-for-streamlined-linting-formatting-5ep4)
-- [Unlock the Power of C: Dive into Parallel Computing, Redis, and More](https://dev.to/getvm/unlock-the-power-of-c-dive-into-parallel-computing-redis-and-more-4gcf)
-- [Understanding var and let in JavaScript: When and Why to Use Each for Cleaner Code](https://dev.to/vimuth7/understanding-var-and-let-in-javascript-when-and-why-to-use-each-for-cleaner-code-2hjb)
-- [My first project &#39;Xuploads&#39;](https://dev.to/necro_pc/my-first-project-xuploads-3opk)
-- [WebP vs GIF](https://dev.to/smartdev72/webp-vs-gif-15ei)
+- [Guia básico de Spring Security](https://dev.to/camilaferreiranas/guia-basico-de-spring-security-5358)
+- [My First Week in DevOps: Starting with Linux](https://dev.to/aman_deol_54d943d56159246/my-first-week-in-devops-starting-with-linux-3e3k)
+- [How to Temporarily Store Changes in Git](https://dev.to/elukuro/how-to-temporarily-store-changes-in-git-397c)
+- [AWS Trusted Advisor for Security Checks](https://dev.to/ikoh_sylva/aws-trusted-advisor-for-security-checks-3pdn)
+- [if-else &amp; early return](https://dev.to/leandroats/if-else-early-return-1nb6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
