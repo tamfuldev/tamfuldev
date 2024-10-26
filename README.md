@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Social media logo&#39;s effect using the html css](https://dev.to/prince_beec5ccde00b7c6c73/social-media-logos-effect-using-the-html-css-37l3)
-- [Standardize and Validate Incoming Data Using Pipes in NestJS](https://dev.to/pvthiendeveloper/standardize-and-validate-incoming-data-using-pipes-in-nestjs-25dc)
-- [Something](https://dev.to/sukhrobtech/something-5b1j)
-- [Building an APP with NOSQL Database](https://dev.to/jhonnyarm/building-an-app-with-nosql-database-3m7a)
-- [Using Runway&#39;s &quot;Gen-3 Alpha Turbo&quot; API to Generate AI Videos](https://dev.to/nabata/using-runways-gen-3-alpha-turbo-api-to-generate-ai-videos-42gb)
+- [Understanding Exports and Imports in JavaScript](https://dev.to/shieldstring/understanding-exports-and-imports-in-javascript-3gm)
+- [Terraform: Infrastructure as Code for the Modern DevOps Engineer](https://dev.to/574n13y/terraform-infrastructure-as-code-for-the-modern-devops-engineer-2fh4)
+- [Build collapsible sidebars using just CSS](https://dev.to/yashjain99/build-collapsible-sidebars-using-just-css-1ac1)
+- [Tree Data Structure Questions for Data Structures and Algorithms](https://dev.to/nozibul_islam_113b1d5334f/tree-data-structure-questions-for-data-structures-and-algorithms-1h7a)
+- [Database Setup, JWT Implementation &amp; API](https://dev.to/gin_mitch/database-setup-jwt-implementation-api-1bk3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
