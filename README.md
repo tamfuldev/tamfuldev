@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Comparing LINQ with Other Data Querying Techniques](https://dev.to/ferhatacar/comparing-linq-with-other-data-querying-techniques-34fn)
-- [Create a Simple Authentication System for your Next Application with Clerk](https://dev.to/drprime01/create-a-simple-authentication-system-for-your-next-application-with-clerk-4g75)
-- [Updating SharePoint items without modifying System columns](https://dev.to/fernandaek/updating-sharepoint-items-without-modifying-system-columns-309i)
-- [Testing](https://dev.to/sukhrobabdullaev/testing-2kc9)
-- [Core Architectural Components of Microsoft Azure](https://dev.to/ioduoye/core-architectural-components-of-microsoft-azure-ck5)
+- [AVIF vs WebP](https://dev.to/smartdev72/avif-vs-webp-57od)
+- [My First Dance with Hacktoberfest 2024 Journey](https://dev.to/hotragn/my-first-dance-with-hacktoberfest-2024-journey-31dk)
+- [GIF vs WebP](https://dev.to/smartdev72/gif-vs-webp-11f8)
+- [Reducing Docker Image Size: A Journey of Discovery](https://dev.to/bhargab/reducing-docker-image-size-a-journey-of-discovery-2cd2)
+- [How to integrate Queue in an Express application](https://dev.to/quanphat/how-to-integrate-queue-in-an-express-application-1101)
 <!-- BLOG-POST-LIST:END -->
 
 ---
