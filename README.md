@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Interactive Components in Markdown](https://dev.to/valeriavg/interactive-components-in-markdown-2l1h)
-- [cs50x week 6 Python](https://dev.to/kartikjhaba/cs50x-week-6-python-3ga6)
-- [Hacktoberfest Experience](https://dev.to/saamiabbaskhan/hacktoberfest-experience-5blm)
-- [The BufferZone, a place where creators can focus on content](https://dev.to/alexander_ger/the-bufferzone-a-place-where-creators-can-focus-on-content-1jm2)
-- [How to Build Projects as a Student by Going to Hackathons](https://dev.to/30_dayscoding_9b63e3c909/how-to-build-projects-as-a-student-by-going-to-hackathons-3kc6)
+- [Integrate AI Effortlessly: A Beginner&#39;s Guide to Using CopilotKit](https://dev.to/niharikaa/integrate-ai-effortlessly-a-beginners-guide-to-using-copilotkit-1pgg)
+- [Choosing Tools for Technical Architecture Diagrams](https://dev.to/anhdung/choosing-tools-for-technical-architecture-diagrams-237e)
+- [F1 Local Navigation + VFF](https://dev.to/notlongas/f1-local-navigation-vff-1d41)
+- [Quick tip: Visualising Similarities Between CLIP Text and Image Embeddings](https://dev.to/singlestore/quick-tip-visualising-similarities-between-clip-text-and-image-embeddings-132)
+- [A Quick Look at the Problem of Data Poisoning in Language Models](https://dev.to/jeandevbr/a-quick-look-at-the-problem-of-data-poisoning-in-language-models-2p0g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
