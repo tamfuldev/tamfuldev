@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Learning to Use HTML &amp; CSS: Your First Webpage](https://dev.to/okoye_ndidiamaka_5e3b7d30/learning-to-use-html-css-your-first-webpage-4c39)
-- [Does svelte5 have multi {@render} equivalent to ver.4’s multi named slot use inside +layout.svelte？](https://dev.to/thomaschoi721/does-svelte5-have-multi-render-equivalent-to-ver4s-multi-named-slot-use-inside-layoutsvelte-4op7)
-- [Code, Adapt, Repeat. Embracing Versatility in Software Development](https://dev.to/trae_z/code-adapt-repeat-embracing-versatility-in-software-development-4i2k)
-- [Automating Disk Resource Usage Monitoring and Server Health Updates with Python](https://dev.to/shahidkhans/automating-disk-resource-usage-monitoring-and-server-health-updates-with-python-j4f)
-- [Event loop visualiser for lerners](https://dev.to/vaultdeveloper/event-loop-visualiser-for-lerners-ee8)
+- [🛠️ How to Create an Awesome GitHub Profile Using Markdown](https://dev.to/mahbubumithu/how-to-create-an-awesome-github-profile-using-markdown-3bdd)
+- [🛠️ How to Create an Awesome GitHub Profile Using Markdown](https://dev.to/mahbubumithu/how-to-create-an-awesome-github-profile-using-markdown-2oce)
+- [📅 Building an Automated Scheduling System with Next.js 🚀](https://dev.to/hamzakhan/building-an-automated-scheduling-system-with-nextjs-1k22)
+- [Data at Scale: Unlocking the Secrets of Hive and Cassandra in Distributed Systems](https://dev.to/creowistech/data-at-scale-unlocking-the-secrets-of-hive-and-cassandra-in-distributed-systems-4o80)
+- [Simplify Your Angular Code with NgRx Entities](https://dev.to/danywalls/simplify-your-angular-code-with-ngrx-entities-1dgn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
