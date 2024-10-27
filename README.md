@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Elevator Scheduling Algorithms: FCFS, SSTF, SCAN, and LOOK](https://dev.to/thesaltree/elevator-scheduling-algorithms-fcfs-sstf-scan-and-look-2pae)
-- [Robots.txt pitfalls: what I learned the hard way](https://dev.to/prahladyeri/robotstxt-pitfalls-what-i-learned-the-hard-way-2aip)
-- [Understanding EVM&lpar;Ethereum Virtual Machine&rpar;](https://dev.to/dhanyosmi/understanding-evmethereum-virtual-machine-2dh7)
-- [Learning Ansible, Proxmox and LXC, Part 1](https://dev.to/beedog/learning-ansible-proxmox-and-lxc-part-1-2hbp)
-- [Containerization with Docker in Software Development](https://dev.to/adityabhuyan/containerization-with-docker-in-software-development-5dke)
+- [Setting Up a Node.js, TypeScript, and Express Project](https://dev.to/codeparrot/setting-up-a-nodejs-typescript-and-express-project-3jha)
+- [Mastering SQL Optimization: A Beginner’s Guide to Faster and More Efficient Queries](https://dev.to/allan-pg/mastering-sql-optimization-a-beginners-guide-to-faster-and-more-efficient-queries-32ka)
+- [Setfill va setw haqida](https://dev.to/munisa_kuranbekova_078e1e/setfill-va-setw-haqida-4m53)
+- [Turn Your Website into a Lead Generation Machine &lpar;Proudly Open Source ❤️&rpar;](https://dev.to/karan_jalandhari/turn-your-website-into-a-lead-generation-machine-ojb)
+- [Mastering the JavaScript Ternary Operator: A Comprehensive Guide](https://dev.to/wizdomtek/mastering-the-javascript-ternary-operator-a-comprehensive-guide-5388)
 <!-- BLOG-POST-LIST:END -->
 
 ---
