@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Top 5 Programming Profiles: Racer, Coder, Maker, Joker, Tutor](https://dev.to/gurigraphics/top-5-programming-profiles-racer-coder-maker-joker-tutor-1gk5)
+- [🤖 Building a Financial AI Chatbot with Rasa: A Hands-On Guide 🌱](https://dev.to/santhoshvijayabaskar/building-a-financial-ai-chatbot-with-rasa-a-hands-on-guide-57do)
+- [react-dom.createRoot](https://dev.to/dwlhm/react-domcreateroot-25ck)
 - [The Role of Data Science in Shaping Modern Economics](https://dev.to/sourishsr31/the-role-of-data-science-in-shaping-modern-economics-3gi3)
-- [A Beginner&#39;s Guide to the CSS Box Model](https://dev.to/magsimuhammadessa/a-beginners-guide-to-the-css-box-model-4hc5)
-- [Atomic Design no Frontend &lpar;português&rpar;](https://dev.to/jullymac/atomic-design-no-frontend-portugues-1ea6)
-- [Hey guys im new here need a strong guidelines for master c++ core concepts. and any leetcode practice or series&#39;?](https://dev.to/syedalambukhari_110/hey-guys-im-new-here-need-a-strong-guidelines-for-master-c-core-concepts-and-any-leetcode-practice-or-series-6i6)
-- [الثقة بالله نجاح](https://dev.to/nour_makawijdev_e5fd3/lthq-bllh-njh-5406)
+- [Atomic Design in Frontend &lpar;english&rpar;](https://dev.to/jullymac/atomic-design-in-frontend-english-5hcd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
