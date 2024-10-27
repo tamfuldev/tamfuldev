@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [sphere and cylinder move in 3d](https://dev.to/sister_mariamonahan_65f5/sphere-and-cylinder-move-in-3d-15c7)
-- [car moves with clouds](https://dev.to/sister_mariamonahan_65f5/car-moves-with-clouds-3j33)
-- [moving flower](https://dev.to/sister_mariamonahan_65f5/moving-flower-3p7m)
-- [And now, what are the next steps?](https://dev.to/brunociccarino/and-now-what-are-the-next-steps-49o9)
-- [2 air balloons in the city](https://dev.to/sister_mariamonahan_65f5/2-air-balloons-in-the-city-43gk)
+- [How to Create a Scroll Progress Bar in Next.js/React](https://dev.to/designly/how-to-create-a-scroll-progress-bar-in-nextjsreact-3oj7)
+- [Mild Introduction to Modern Sequence Processing. Part 1: Looking into Recurrent Neural Networks](https://dev.to/fively/mild-introduction-to-modern-sequence-processing-part-1-looking-into-recurrent-neural-networks-5g8)
+- [Perfectly Qualified Yet Rejected? Here’s Why It Happens and What to Change](https://dev.to/chocoscoding/perfectly-qualified-yet-rejected-heres-why-it-happens-and-what-to-change-4g6b)
+- [How to you collect data about your app?](https://dev.to/rudyryk/how-to-you-collect-data-about-your-app-20k4)
+- [Hacktoberfest 4/4: The final PR](https://dev.to/harshil_patel/hacktoberfest-44-the-final-pr-p08)
 <!-- BLOG-POST-LIST:END -->
 
 ---
