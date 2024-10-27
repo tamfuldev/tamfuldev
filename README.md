@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Backtracking: Solving the N-Queens Problem and Python Implementation](https://dev.to/bonaogeto/backtracking-solving-the-n-queens-problem-and-python-implementation-6jf)
-- [Quickly Start Dev Environment For MySQL, PostgreSQL, MongoDB, Redis, and Kafka Using Docker Compose](https://dev.to/truongpx396/quickly-start-dev-environment-for-mysql-postgresql-mongodb-redis-and-kafka-using-docker-compose-40p9)
-- [Day-4 | Custom Metrics Instrumentation and Scraping using Prom Client](https://dev.to/subham_nandi/day-4-custom-metrics-instrumentation-and-scraping-using-prom-client-539b)
-- [React Hooks: Revolutionizing Functional Components](https://dev.to/softden_2005/react-hooks-revolutionizing-functional-components-26ck)
-- [Unlock Your Programming Potential with Oxford&#39;s Comprehensive Computer Science Course](https://dev.to/getvm/unlock-your-programming-potential-with-oxfords-comprehensive-computer-science-course-2m0e)
+- [Interactive Components in Markdown](https://dev.to/valeriavg/interactive-components-in-markdown-2l1h)
+- [cs50x week 6 Python](https://dev.to/kartikjhaba/cs50x-week-6-python-3ga6)
+- [Hacktoberfest Experience](https://dev.to/saamiabbaskhan/hacktoberfest-experience-5blm)
+- [The BufferZone, a place where creators can focus on content](https://dev.to/alexander_ger/the-bufferzone-a-place-where-creators-can-focus-on-content-1jm2)
+- [How to Build Projects as a Student by Going to Hackathons](https://dev.to/30_dayscoding_9b63e3c909/how-to-build-projects-as-a-student-by-going-to-hackathons-3kc6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
