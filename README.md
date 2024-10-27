@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Scalability : A Comprehensive Guide to Techniques, Needs, and Implementation](https://dev.to/ari-ghosh/mastering-scalability-a-comprehensive-guide-to-techniques-needs-and-implementation-o7)
-- [System Design of YouTube: A Detailed Deep Dive into the Video Giant](https://dev.to/wittedtech-by-harshit/system-design-of-youtube-a-detailed-deep-dive-into-the-video-giant-5019)
-- [How To Handle Custom S/DQL Queries On Different Database Engine with DoctrineExpression](https://dev.to/ucscode/how-to-handle-custom-sdql-queries-on-different-database-engine-with-doctrineexpression-2j64)
-- [Algo-Trading Engine](https://dev.to/jitanshuraut/algo-trading-engine-1keb)
-- [AWS Cloud Migration: 3-Tier Architecture from an on-prim data center to AWS Cloud!](https://dev.to/bhatiagirish/aws-cloud-migration-3-tier-architecture-from-an-on-prim-data-center-to-aws-cloud-138g)
+- [Trying to build an app with Claude Day 2](https://dev.to/danielarmbruster0314/trying-to-build-an-app-with-claude-day-2-gk1)
+- [What is an API ?](https://dev.to/diwakar_verma_381fc6e5e2f/what-is-an-api--3a12)
+- [Analysis of AWS Solutions Architect Professional Certification Question — EC2 Image Builder and Resource Access Manager](https://dev.to/jjoc007/analysis-of-aws-solutions-architect-professional-certification-question-ec2-image-builder-and-resource-access-manager-3c5b)
+- [Pointers in Go: An In-Depth Guide to Referencing and DereferencingPointers in Go](https://dev.to/kevwasonga/pointers-in-go-an-in-depth-guide-to-referencing-and-dereferencingpointers-in-go-2ee5)
+- [Entendendo Recursão em Python: E aí, vai encarar?](https://dev.to/isisaraujo/entendendo-recursao-em-python-e-ai-vai-encarar-7i2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
