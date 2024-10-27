@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up a Node.js, TypeScript, and Express Project](https://dev.to/codeparrot/setting-up-a-nodejs-typescript-and-express-project-3jha)
-- [Mastering SQL Optimization: A Beginner’s Guide to Faster and More Efficient Queries](https://dev.to/allan-pg/mastering-sql-optimization-a-beginners-guide-to-faster-and-more-efficient-queries-32ka)
-- [Setfill va setw haqida](https://dev.to/munisa_kuranbekova_078e1e/setfill-va-setw-haqida-4m53)
-- [Turn Your Website into a Lead Generation Machine &lpar;Proudly Open Source ❤️&rpar;](https://dev.to/karan_jalandhari/turn-your-website-into-a-lead-generation-machine-ojb)
-- [Mastering the JavaScript Ternary Operator: A Comprehensive Guide](https://dev.to/wizdomtek/mastering-the-javascript-ternary-operator-a-comprehensive-guide-5388)
+- [Learning to Use HTML &amp; CSS: Your First Webpage](https://dev.to/okoye_ndidiamaka_5e3b7d30/learning-to-use-html-css-your-first-webpage-4c39)
+- [Does svelte5 have multi {@render} equivalent to ver.4’s multi named slot use inside +layout.svelte？](https://dev.to/thomaschoi721/does-svelte5-have-multi-render-equivalent-to-ver4s-multi-named-slot-use-inside-layoutsvelte-4op7)
+- [Code, Adapt, Repeat. Embracing Versatility in Software Development](https://dev.to/trae_z/code-adapt-repeat-embracing-versatility-in-software-development-4i2k)
+- [Automating Disk Resource Usage Monitoring and Server Health Updates with Python](https://dev.to/shahidkhans/automating-disk-resource-usage-monitoring-and-server-health-updates-with-python-j4f)
+- [Event loop visualiser for lerners](https://dev.to/vaultdeveloper/event-loop-visualiser-for-lerners-ee8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
