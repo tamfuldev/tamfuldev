@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🛠️ How to Create an Awesome GitHub Profile Using Markdown](https://dev.to/mahbubumithu/how-to-create-an-awesome-github-profile-using-markdown-3bdd)
-- [🛠️ How to Create an Awesome GitHub Profile Using Markdown](https://dev.to/mahbubumithu/how-to-create-an-awesome-github-profile-using-markdown-2oce)
-- [📅 Building an Automated Scheduling System with Next.js 🚀](https://dev.to/hamzakhan/building-an-automated-scheduling-system-with-nextjs-1k22)
-- [Data at Scale: Unlocking the Secrets of Hive and Cassandra in Distributed Systems](https://dev.to/creowistech/data-at-scale-unlocking-the-secrets-of-hive-and-cassandra-in-distributed-systems-4o80)
-- [Simplify Your Angular Code with NgRx Entities](https://dev.to/danywalls/simplify-your-angular-code-with-ngrx-entities-1dgn)
+- [TIFF vs WebP](https://dev.to/smartdev72/tiff-vs-webp-18dc)
+- [🔐 Benefits and Drawbacks of Passkey-Only Login Systems](https://dev.to/sateshcharan/benefits-and-drawbacks-of-passkey-only-login-systems-cf6)
+- [Set up Trivy Scanner in GitLab CI](https://dev.to/vietjovi/set-up-trivy-scanner-in-gitlab-ci-2pi)
+- [TIFF vs GIF](https://dev.to/smartdev72/tiff-vs-gif-3o5n)
+- [Reimagining Authentication with Hanko](https://dev.to/k-adi/reimagining-authentication-with-hanko-5c9p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
