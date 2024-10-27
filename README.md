@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Open telemetry and Observability for SRE](https://dev.to/yashn/understanding-open-telemetry-and-observability-for-sre-58m1)
+- [How to Detect Spam: A Complete Guide to AI-Powered Content Filtering](https://dev.to/lonare/how-to-detect-spam-a-complete-guide-to-ai-powered-content-filtering-4f05)
+- [Rebuilding EnviroX: Overcoming Early Flaws to Automate Development Environments](https://dev.to/neelp03/rebuilding-envirox-overcoming-early-flaws-to-automate-development-environments-12ld)
+- [Guess Heads or Tails between you and the computer](https://dev.to/adelasmar/guess-heads-or-tails-between-you-and-the-computer-jme)
 - [Memory Management and Garbage Collection in Kotlin Multiplatform XCFramework](https://dev.to/arsenikavalchuk/memory-management-and-garbage-collection-in-kotlin-multiplatform-xcframework-15pa)
-- [🚀 Why Microsoft’s Pieces OS is a Game-Changer for Developers!](https://dev.to/shjz/why-microsofts-pieces-os-is-a-game-changer-for-developers-3090)
-- [Implementing a Perceptron from Scratch in Python](https://dev.to/dazevedo/implementing-a-perceptron-from-scratch-in-python-1j41)
-- [How to Set Up and Run Ollama on a GPU-Powered VM &lpar;vast.ai&rpar;](https://dev.to/airabbit/how-to-set-up-and-run-ollama-on-a-gpu-powered-vm-vastai-3jd6)
-- [How to Set Up and Run Ollama on a GPU-Powered VM &lpar;vast.ai&rpar;](https://dev.to/airabbit/how-to-set-up-and-run-ollama-on-a-gpu-powered-vm-vastai-2ko6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
