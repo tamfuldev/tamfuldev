@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced State Management in React](https://dev.to/joaoalissonsilva/advanced-state-management-in-react-5b01)
-- [Setting Up a Private Storage account for a Company](https://dev.to/oluoma_stella/setting-up-a-private-storage-account-for-a-company-2e9d)
-- [My 7-Day Journey with HackQuest Co-Learning Camp 10: Exploring the Future of AI and Web3 with Gaia](https://dev.to/arup_matabber/my-7-day-journey-with-hackquest-co-learning-camp-10-exploring-the-future-of-ai-and-web3-with-gaia-1efb)
-- [The Historical Development and Theoretical Foundations of Artificial Intelligence](https://dev.to/gracerosen/the-historical-development-and-theoretical-foundations-of-artificial-intelligence-2kd4)
-- [Why Astro’s New Actions are the Upgrade React 19 Devs Have Been Waiting For](https://dev.to/ryanmabrouk/why-astros-new-actions-are-the-upgrade-react-19-devs-have-been-waiting-for-c25)
+- [The Role of Data Science in Shaping Modern Economics](https://dev.to/sourishsr31/the-role-of-data-science-in-shaping-modern-economics-3gi3)
+- [A Beginner&#39;s Guide to the CSS Box Model](https://dev.to/magsimuhammadessa/a-beginners-guide-to-the-css-box-model-4hc5)
+- [Atomic Design no Frontend &lpar;português&rpar;](https://dev.to/jullymac/atomic-design-no-frontend-portugues-1ea6)
+- [Hey guys im new here need a strong guidelines for master c++ core concepts. and any leetcode practice or series&#39;?](https://dev.to/syedalambukhari_110/hey-guys-im-new-here-need-a-strong-guidelines-for-master-c-core-concepts-and-any-leetcode-practice-or-series-6i6)
+- [الثقة بالله نجاح](https://dev.to/nour_makawijdev_e5fd3/lthq-bllh-njh-5406)
 <!-- BLOG-POST-LIST:END -->
 
 ---
