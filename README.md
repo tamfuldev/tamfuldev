@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Integrate AI Effortlessly: A Beginner&#39;s Guide to Using CopilotKit](https://dev.to/niharikaa/integrate-ai-effortlessly-a-beginners-guide-to-using-copilotkit-1pgg)
-- [Choosing Tools for Technical Architecture Diagrams](https://dev.to/anhdung/choosing-tools-for-technical-architecture-diagrams-237e)
-- [F1 Local Navigation + VFF](https://dev.to/notlongas/f1-local-navigation-vff-1d41)
-- [Quick tip: Visualising Similarities Between CLIP Text and Image Embeddings](https://dev.to/singlestore/quick-tip-visualising-similarities-between-clip-text-and-image-embeddings-132)
-- [A Quick Look at the Problem of Data Poisoning in Language Models](https://dev.to/jeandevbr/a-quick-look-at-the-problem-of-data-poisoning-in-language-models-2p0g)
+- [Bye-bye Passwords: Embracing Secure, Hassle-Free Passkeys](https://dev.to/akashjana/bye-bye-passwords-embracing-secure-hassle-free-passkeys-20c3)
+- [🔐 How to Generate a GitHub Personal Access Token &lpar;PAT&rpar;](https://dev.to/warnerbell/how-to-generate-a-github-personal-access-token-pat-1bg5)
+- [Let&#39;s Talk About Open Source - FAV0 Weekly #019](https://dev.to/justin3go/lets-talk-about-open-source-fav0-weekly-019-4kal)
+- [How to Host Your Website on Netlify for Free.](https://dev.to/sudhanshu_developer/how-to-host-your-website-on-netlify-for-free-2iop)
+- [Setting Up a Basic Dev Environment on a Windows/Linux Machine](https://dev.to/warnerbell/setting-up-a-basic-dev-environment-on-a-windowslinux-machine-4na4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
