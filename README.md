@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Failed 300+ Times, Then This Happened…](https://dev.to/abdibrokhim/i-failed-300-times-then-this-happened-50b4)
-- [Introduction to Time Complexity - Big O Notation](https://dev.to/bonaogeto/introduction-to-time-complexity-big-o-notation-4fhd)
-- [BCrypt::Errors::InvalidHash &lpar;invalid hash&rpar;](https://dev.to/alexandrecalaca/bcrypterrorsinvalidhash-invalid-hash-22g0)
-- [AWS India customers can now setup automated recurring payments on their cards](https://dev.to/karthiksakthiveltechie/aws-india-customers-can-now-setup-automated-recurring-payments-on-their-cards-5dp5)
-- [🔍 Integrating AWS OpenSearch in a Next.js App](https://dev.to/hamzakhan/integrating-aws-opensearch-in-a-nextjs-app-4nl3)
+- [Title: How Our Accounting Software is Revolutionizing Cost Efficiency for Businesses](https://dev.to/areefchowdhury/title-how-our-accounting-software-is-revolutionizing-cost-efficiency-for-businesses-5a86)
+- [My Second PR for Hacktoberfest](https://dev.to/elisassa/my-second-pr-for-hacktoberfest-2d87)
+- [Quand le Cloud n&#39;est pas suffisant &lpar;triple redondance modulaire&rpar;](https://dev.to/karkael/quand-le-cloud-nest-pas-suffisant-triple-redondance-modulaire-24pl)
+- [Jira Automation Streamlines Asset Management Workflow](https://dev.to/assetitapp/jira-automation-streamlines-asset-management-workflow-1nh6)
+- [just starting out](https://dev.to/violingrl/just-starting-out-3cg6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
