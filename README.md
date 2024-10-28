@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [VS Code Just Made GitHub Copilot Even Smarter: Just Drag And Drop File](https://dev.to/thandhla/vs-code-just-made-github-copilot-even-smarter-just-drag-and-drop-file-2icd)
-- [Implementing Thread Safe Singleton Pattern in C#](https://dev.to/abdullahal_mahmud/implementing-thread-safe-singleton-pattern-in-c-22b5)
-- [Découvrez Cursor : L’éditeur de code qui booste votre productivité !](https://dev.to/guillaumesere/decouvrez-cursor-lediteur-de-code-qui-booste-votre-productivite--fje)
-- [Safe Assignment Operator : Alternative to try/catch](https://dev.to/sonaykara/safe-assignment-operator-alternative-to-trycatch-2l3p)
-- [The Art of Depression](https://dev.to/jmfayard/the-art-of-depression-2m1i)
+- [5 costly mistakes when deploying Docker containers &lpar;and how to dog`dge them like a pro 😎&rpar;](https://dev.to/wimadev/5-costly-mistakes-when-deploying-docker-containers-and-how-to-dodge-them-like-a-pro--3kbm)
+- [Top 8 Web development projects for beginners](https://dev.to/balrajola/top-8-web-development-projects-for-beginners-40no)
+- [Dynamic Values: Transforming API Testing for Real-World Scenarios](https://dev.to/apilover/dynamic-values-transforming-api-testing-for-real-world-scenarios-5bci)
+- [Understanding Cross-Site Scripting &lpar;XSS&rpar;: A Quick Reference](https://dev.to/karodgers/understanding-cross-site-scripting-xss-a-beginners-guide-29p3)
+- [How to Interpret Code Plagiarism Checker Results: A Beginner’s Guide](https://dev.to/codequiry/how-to-interpret-code-plagiarism-checker-results-a-beginners-guide-5fjm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
