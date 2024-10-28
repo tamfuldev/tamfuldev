@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Latio Team: A community for tech hackers building togheter](https://dev.to/fredoist/latio-team-a-community-for-tech-hackers-building-togheter-289p)
-- [Deploying a Spring Boot Banking Application with Docker](https://dev.to/aungkohtat/deploying-a-spring-boot-banking-application-with-docker-n25)
-- [The beginner’s guide to React&#39;s useState hook - the absolute basics &lpar;with TypeScript&rpar;](https://dev.to/tymzap/the-beginners-guide-to-reacts-usestate-hook-the-absolute-basics-1gei)
-- [Most Useful Jenkins Plugins and Their Use Cases](https://dev.to/i_am_vesh/most-useful-jenkins-plugins-and-their-use-cases-14j9)
-- [surviving coding bootcamp: lessons learned](https://dev.to/ashleyd480/surviving-coding-bootcamp-lessons-learned-58am)
+- [#83 — Early-Terminated Accumulation](https://dev.to/judith677/83-early-terminated-accumulation-cco)
+- [Top 8 OpenSource Tools for AI Startups](https://dev.to/marrouchi/top-8-opensource-tools-for-ai-startups-196g)
+- [Meme Monday](https://dev.to/techdogs_inc/meme-monday-1k2i)
+- [CREATING A LIBRARY WEB APP USING AZURE APP SERVICE](https://dev.to/engra/creating-a-library-web-app-using-azure-app-service-5bh7)
+- [The easiest hack to building projects as a student](https://dev.to/30_dayscoding_9b63e3c909/the-easiest-hack-to-building-projects-as-a-student-35k6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
