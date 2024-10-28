@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Title: How Our Accounting Software is Revolutionizing Cost Efficiency for Businesses](https://dev.to/areefchowdhury/title-how-our-accounting-software-is-revolutionizing-cost-efficiency-for-businesses-5a86)
-- [My Second PR for Hacktoberfest](https://dev.to/elisassa/my-second-pr-for-hacktoberfest-2d87)
-- [Quand le Cloud n&#39;est pas suffisant &lpar;triple redondance modulaire&rpar;](https://dev.to/karkael/quand-le-cloud-nest-pas-suffisant-triple-redondance-modulaire-24pl)
-- [Jira Automation Streamlines Asset Management Workflow](https://dev.to/assetitapp/jira-automation-streamlines-asset-management-workflow-1nh6)
-- [just starting out](https://dev.to/violingrl/just-starting-out-3cg6)
+- [Introducing PinataNET: A Simple C# Wrapper for the Pinata API](https://dev.to/sebastiandevelops/introducing-pinatanet-a-simple-c-wrapper-for-the-pinata-api-396d)
+- [Dealing with Digital Transformation in large companies](https://dev.to/smfiorillo/dealing-with-digital-transformation-in-large-companies-318e)
+- [Join To My Journey to learn building full stack web application](https://dev.to/mert_izgahi_e1e5719866b86/join-to-my-journey-to-learn-building-full-stack-web-application-33bn)
+- [🌱 My Hacktoberfest Experience: A Journey of Code, Challenges, and Community](https://dev.to/akashjana/my-hacktoberfest-experience-a-journey-of-code-challenges-and-community-1b9p)
+- [Recap and Rambles of Last Week #2](https://dev.to/jennjunod/recap-and-rambles-of-last-week-2-2jlb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
