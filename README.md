@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [5 costly mistakes when deploying Docker containers &lpar;and how to dog`dge them like a pro 😎&rpar;](https://dev.to/wimadev/5-costly-mistakes-when-deploying-docker-containers-and-how-to-dodge-them-like-a-pro--3kbm)
-- [Top 8 Web development projects for beginners](https://dev.to/balrajola/top-8-web-development-projects-for-beginners-40no)
-- [Dynamic Values: Transforming API Testing for Real-World Scenarios](https://dev.to/apilover/dynamic-values-transforming-api-testing-for-real-world-scenarios-5bci)
-- [Understanding Cross-Site Scripting &lpar;XSS&rpar;: A Quick Reference](https://dev.to/karodgers/understanding-cross-site-scripting-xss-a-beginners-guide-29p3)
-- [How to Interpret Code Plagiarism Checker Results: A Beginner’s Guide](https://dev.to/codequiry/how-to-interpret-code-plagiarism-checker-results-a-beginners-guide-5fjm)
+- [From Headlines to YouTube: Crafting an AI-Powered News Video Generator](https://dev.to/hgky95/from-headlines-to-youtube-crafting-an-ai-powered-news-video-generator-46ga)
+- [Navigating KALP Studio’s API Gateway](https://dev.to/kalpstudio/navigating-kalp-studios-api-gateway-536p)
+- [Integração de Microsserviços e Processamento de Mensagens com MassTransit e RabbitMQ](https://dev.to/juarezasjunior/integracao-de-microsservicos-e-processamento-de-mensagens-com-masstransit-e-rabbitmq-3k7j)
+- [Microservices Integration and Message Processing with MassTransit and RabbitMQ](https://dev.to/juarezasjunior/microservices-integration-and-message-processing-with-masstransit-and-rabbitmq-15l)
+- [Building a Raspberry Pi Weather Station with Python - Part Two](https://dev.to/dev_neil_a/building-a-raspberry-pi-weather-station-with-python-part-two-4le5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
