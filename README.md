@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How we have managed to run Enzyme tests with React 18 app.](https://dev.to/andrew_arhangelski/how-we-have-managed-to-run-enzyme-tests-with-react-18-app-1f2e)
-- [How to Create Global and Dynamic Components with Strategy Pattern in React](https://dev.to/douglaspujol/how-to-create-global-and-dynamic-components-with-strategy-pattern-in-react-3egp)
-- [Adding Static Analysis tools](https://dev.to/aamfahim/adding-static-analysis-tools-11pb)
-- [VRPG Day 2](https://dev.to/vctrsmelo/vrpg-day-2-2ni8)
-- [Upgrading Like Iron Man: Understanding the Open-Closed Principle](https://dev.to/brian_king_b4f9d429a2d676/upgrading-like-iron-man-understanding-the-open-closed-principle-4m3o)
+- [Webhooks in Django: A Comprehensive Guide](https://dev.to/aakas/webhooks-in-django-a-comprehensive-guide-44jp)
+- [Parsing Solana Program Transactions using Typescript - Part&lpar;1/2&rpar;](https://dev.to/teepy/parsing-solana-program-transactions-using-typescript-part12-1i6d)
+- [Exploring MVC Architecture and Applying It to My Natours Project](https://dev.to/jahend412/exploring-mvc-architecture-and-applying-it-to-my-natours-project-1p6d)
+- [Five Warning Signs of Outsourcing to Avoid](https://dev.to/johnnykoo84/five-warning-signs-of-outsourcing-to-avoid-3761)
+- [&lpar;Omn&rpar; : A Community for NFT Artists and Collectors on Wix Studio](https://dev.to/dunktra/omn-a-community-for-nft-artists-and-collectors-on-wix-studio-54f2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
