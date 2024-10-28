@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Odoo: Import CSV file and write into sale order lines](https://dev.to/jeevanizm/odoo-import-csv-file-and-write-into-sale-order-lines-pj1)
-- [SafeLine WAF: Free/Community vs Pro](https://dev.to/carrie_luo1/safeline-waf-freecommunity-vs-pro-4fd8)
-- [Odoo : create CSV file and download](https://dev.to/jeevanizm/odoo-create-csv-file-and-download-jkn)
-- [React Native 0.76: The New Architecture That Takes Performance and Efficiency to the Next Level 🚀](https://dev.to/abdulnasirolcan/react-native-076-the-new-architecture-that-takes-performance-and-efficiency-to-the-next-level-4jam)
-- [Docker exposes itself to your LAN](https://dev.to/jarlefosen/docker-exposes-itself-to-your-lan-58pk)
+- [I Failed 300+ Times, Then This Happened…](https://dev.to/abdibrokhim/i-failed-300-times-then-this-happened-50b4)
+- [Introduction to Time Complexity - Big O Notation](https://dev.to/bonaogeto/introduction-to-time-complexity-big-o-notation-4fhd)
+- [BCrypt::Errors::InvalidHash &lpar;invalid hash&rpar;](https://dev.to/alexandrecalaca/bcrypterrorsinvalidhash-invalid-hash-22g0)
+- [AWS India customers can now setup automated recurring payments on their cards](https://dev.to/karthiksakthiveltechie/aws-india-customers-can-now-setup-automated-recurring-payments-on-their-cards-5dp5)
+- [🔍 Integrating AWS OpenSearch in a Next.js App](https://dev.to/hamzakhan/integrating-aws-opensearch-in-a-nextjs-app-4nl3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
