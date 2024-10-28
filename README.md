@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Scroll Progress Bar in Next.js/React](https://dev.to/designly/how-to-create-a-scroll-progress-bar-in-nextjsreact-3oj7)
-- [Mild Introduction to Modern Sequence Processing. Part 1: Looking into Recurrent Neural Networks](https://dev.to/fively/mild-introduction-to-modern-sequence-processing-part-1-looking-into-recurrent-neural-networks-5g8)
-- [Perfectly Qualified Yet Rejected? Here’s Why It Happens and What to Change](https://dev.to/chocoscoding/perfectly-qualified-yet-rejected-heres-why-it-happens-and-what-to-change-4g6b)
-- [How to you collect data about your app?](https://dev.to/rudyryk/how-to-you-collect-data-about-your-app-20k4)
-- [Hacktoberfest 4/4: The final PR](https://dev.to/harshil_patel/hacktoberfest-44-the-final-pr-p08)
+- [How we have managed to run Enzyme tests with React 18 app.](https://dev.to/andrew_arhangelski/how-we-have-managed-to-run-enzyme-tests-with-react-18-app-1f2e)
+- [How to Create Global and Dynamic Components with Strategy Pattern in React](https://dev.to/douglaspujol/how-to-create-global-and-dynamic-components-with-strategy-pattern-in-react-3egp)
+- [Adding Static Analysis tools](https://dev.to/aamfahim/adding-static-analysis-tools-11pb)
+- [VRPG Day 2](https://dev.to/vctrsmelo/vrpg-day-2-2ni8)
+- [Upgrading Like Iron Man: Understanding the Open-Closed Principle](https://dev.to/brian_king_b4f9d429a2d676/upgrading-like-iron-man-understanding-the-open-closed-principle-4m3o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
