@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Headlines to YouTube: Crafting an AI-Powered News Video Generator](https://dev.to/hgky95/from-headlines-to-youtube-crafting-an-ai-powered-news-video-generator-46ga)
-- [Navigating KALP Studio’s API Gateway](https://dev.to/kalpstudio/navigating-kalp-studios-api-gateway-536p)
-- [Integração de Microsserviços e Processamento de Mensagens com MassTransit e RabbitMQ](https://dev.to/juarezasjunior/integracao-de-microsservicos-e-processamento-de-mensagens-com-masstransit-e-rabbitmq-3k7j)
-- [Microservices Integration and Message Processing with MassTransit and RabbitMQ](https://dev.to/juarezasjunior/microservices-integration-and-message-processing-with-masstransit-and-rabbitmq-15l)
-- [Building a Raspberry Pi Weather Station with Python - Part Two](https://dev.to/dev_neil_a/building-a-raspberry-pi-weather-station-with-python-part-two-4le5)
+- [Perfect Elixir: Onboarding](https://dev.to/jonlauridsen/perfect-elixir-onboarding-10o5)
+- [Impl Snake For Micro:bit - Embedded async Rust on BBC Micro:bit with Embassy](https://dev.to/cyrilmarpaud/impl-snake-for-microbit-embedded-async-rust-on-bbc-microbit-with-embassy-ohn)
+- [Sealed Classes en Java](https://dev.to/asjordi/sealed-classes-en-java-1anp)
+- [NGV: plugins](https://dev.to/_gb_/ngv-plugins-3fkp)
+- [A modern 3D viewer framework series](https://dev.to/_gb_/a-modern-3d-viewer-framework-series-3nn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
