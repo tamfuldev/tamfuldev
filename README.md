@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Hacktober 2024: One of the best October of my dev adventure](https://dev.to/ion_finisher/hacktober-2024-one-of-the-best-october-of-my-dev-adventure-534p)
-- [Unit Testing with Mocks Using Moq](https://dev.to/juarezasjunior/unit-testing-with-mocks-using-moq-492o)
-- [Testes Unitários com Mocks Usando Moq](https://dev.to/juarezasjunior/testes-unitarios-com-mocks-usando-moq-5a37)
-- [The Holistic Hacker: Integrating Wellness into Your Tech Lifestyle](https://dev.to/techbalance_collective/the-holistic-hacker-integrating-wellness-into-your-tech-lifestyle-86c)
-- [Exploring the Top New Features in C# 12: How They Can Simplify and Enhance Your Code](https://dev.to/leandroveiga/exploring-the-top-new-features-in-c-12-how-they-can-simplify-and-enhance-your-code-25hj)
+- [Introduction to Mongo Database](https://dev.to/madgan95/introduction-to-mongo-database-6a2)
+- [The Irony of Static Typing in Dynamic Languages](https://dev.to/aminehorseman/the-irony-of-static-typing-in-dynamic-languages-31g1)
+- [🌟 About Me](https://dev.to/mahsaran/about-me-5dn4)
+- [Getting started with Laravel](https://dev.to/chepkwonylynne/getting-started-with-laravel-346m)
+- [Contract Testing: A Comprehensive Guide for Modern Software Teams](https://dev.to/keploy/contract-testing-a-comprehensive-guide-for-modern-software-teams-506d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
