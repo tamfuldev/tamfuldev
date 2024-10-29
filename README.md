@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Webdev &amp; AI Weekly News](https://dev.to/dev007777/webdev-ai-weekly-news-39c9)
-- [How to Encrypt a USB drive Using Cryptsetup with LUKS on Linux](https://dev.to/thetanweerali/how-to-encrypt-a-usb-drive-using-cryptsetup-with-luks-on-linux-4blf)
-- [Type casting](https://dev.to/sanjar777/type-casting-3l88)
-- [If statement haqida](https://dev.to/munisa_kuranbekova_078e1e/if-statement-haqida-2f2c)
-- [El conjunto definitivo de herramientas y técnicas para maximizar el éxito de tus proyectos de TI](https://dev.to/oroscoloyamena/el-conjunto-definitivo-de-herramientas-y-tecnicas-para-maximizar-el-exito-de-tus-proyectos-de-ti-3mnh)
+- [Listen to Our New Podcast: &quot;On The Board&quot;](https://dev.to/michaeltharrington/listen-to-our-new-podcast-on-the-board-5bnb)
+- [JavaScript Array sort&lpar;&rpar; &amp; Bubble Sort!](https://dev.to/sudhanshu_developer/javascript-array-sort-bubble-sort-2nof)
+- [The Ultimate Guide to DevOps Tools and Official Documentation](https://dev.to/prodevopsguytech/the-ultimate-guide-to-devops-tools-and-official-documentation-34n6)
+- [Algo más de azúcar para python](https://dev.to/johnnatan_sandovalcardon/algo-mas-de-azucar-para-python-2g1g)
+- [Organizador de seus downloads em GO](https://dev.to/ionnss/organizador-de-seus-downloads-em-go-2hp6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
