@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Powerful Examples of Destructuring Assignments in JavaScript](https://dev.to/shieldstring/powerful-examples-of-destructuring-assignments-in-javascript-2epk)
-- [The 5 Best Color Palette Generator Websites in 2024⚡️](https://dev.to/priyankdeep78/the-5-best-color-palette-generator-websites-in-2024-13nd)
-- [Greedy Algorithm Problems in Data Structures and Algorithms &lpar;DSA&rpar;](https://dev.to/nozibul_islam_113b1d5334f/greedy-algorithm-problems-in-data-structures-and-algorithms-dsa-5djm)
-- [Designing The Perfect Incentivised System - Part 1](https://dev.to/anistark/designing-the-perfect-incentivised-system-part-1-31l)
-- [5 Ways for SF Dark Mode, Customize Logins, Google Sheets Hacks for Data Management](https://dev.to/sfdcnews/5-ways-for-sf-dark-mode-customize-logins-google-sheets-hacks-for-data-management-3lkb)
+- [Llama 3.1 Nemotron 70B - Quirks and Features](https://dev.to/maximsaplin/llama-31-nemotron-70b-quirks-and-features-4nbg)
+- [RAG vs Fine-Tuning: Choosing the Right Approach for Building LLM-Powered Chatbots](https://dev.to/techahead/rag-vs-fine-tuning-choosing-the-right-approach-for-building-llm-powered-chatbots-3m3m)
+- [How to Track the YARN Task Status in DolphinScheduler?](https://dev.to/chen_debra_3060b21d12b1b0/how-to-track-the-yarn-task-status-in-dolphinscheduler-36jc)
+- [Choosing the Right IDE for Your Development Style](https://dev.to/shafayeat/choosing-the-right-ide-for-your-development-style-45b7)
+- [The Benefits of a Daily Walk](https://dev.to/naksh_007/the-benefits-of-a-daily-walk-320m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
