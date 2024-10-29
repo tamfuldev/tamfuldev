@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Has Broadcom Damaged VMware&#39;s Reputation?](https://dev.to/mitchiemt11/has-broadcom-damaged-vmwares-reputation-3l7o)
-- [frontend developer](https://dev.to/ndtiezn/frontend-developer-4apm)
-- [How to Create REST API Using Laravel](https://dev.to/carloseduardoalvesviana/how-to-create-rest-api-using-laravel-h93)
-- [Create a windows 11 virtual machine on Azure](https://dev.to/seyilufadejucyberservices/create-a-windows-11-virtual-machine-on-azure-5700)
-- [Building a Secure Event Booking App with FACEIO and Svelte](https://dev.to/envitab/building-a-secure-event-booking-app-with-faceio-and-svelte-b1)
+- [Sharing UI Components: Copy VS Install](https://dev.to/giteden/sharing-ui-components-copy-vs-install-4mii)
+- [How I Automated My Work Tasks](https://dev.to/techelopment/how-i-automated-my-work-tasks-3lek)
+- [&quot;Deploying a Scalable and Secure E-Commerce Site on AWS: My Step-by-Step Approach&quot;](https://dev.to/wiko_w/deploying-a-scalable-and-secure-e-commerce-site-on-aws-my-step-by-step-approach-5471)
+- [2024 Hacktoberfest Writing Challenge](https://dev.to/abuchtela/2024-hacktoberfest-writing-challenge-ooo)
+- [Untitled](https://dev.to/__36002242a86c9/untitled-3o1m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
