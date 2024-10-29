@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Discover JSREPL.io – A JavaScript REPL &amp; Playground](https://dev.to/nag5000/discover-jsreplio-a-javascript-repl-playground-4b9i)
-- [Interactive Quiz App with JavaScript](https://dev.to/imrankhan17/interactive-quiz-app-with-javascript-1j99)
-- [Serverless Cloud Resume Challenge](https://dev.to/etienneci/serverless-cloud-resume-challenge-4ic7)
-- [structToTable - Generate HTML/Text Output for Display/Email](https://dev.to/gamesover/structtotable-generate-htmltext-output-for-displayemail-1mk4)
-- [Sidecar Containers in Kubernetes](https://dev.to/cicube/sidecar-containers-in-kubernetes-2kj0)
+- [🚀 Inside the Frontend Magic of YouTube: A Deep Dive into the Architecture Powering One of the World’s Largest Platforms](https://dev.to/wittedtech-by-harshit/inside-the-frontend-magic-of-youtube-a-deep-dive-into-the-architecture-powering-one-of-the-worlds-largest-platforms-119f)
+- [Analyzing Data Without Storing Data - Part 1](https://dev.to/kylepena/computing-distributions-without-storing-data-part-1-161l)
+- [Algorithm for compressing numbers to Base64](https://dev.to/uni928/algorithm-for-compressing-numbers-to-base64-55hc)
+- [🌌 Explore Particle Systems with Acceleration and Friction!](https://dev.to/sababat/explore-particle-systems-with-acceleration-and-friction-8go)
+- [Escaping Tutorial Hell](https://dev.to/fintechbro/escaping-tutorial-hell-147)
 <!-- BLOG-POST-LIST:END -->
 
 ---
