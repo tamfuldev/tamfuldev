@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Listen to Our New Podcast: &quot;On The Board&quot;](https://dev.to/michaeltharrington/listen-to-our-new-podcast-on-the-board-5bnb)
-- [JavaScript Array sort&lpar;&rpar; &amp; Bubble Sort!](https://dev.to/sudhanshu_developer/javascript-array-sort-bubble-sort-2nof)
-- [The Ultimate Guide to DevOps Tools and Official Documentation](https://dev.to/prodevopsguytech/the-ultimate-guide-to-devops-tools-and-official-documentation-34n6)
-- [Algo más de azúcar para python](https://dev.to/johnnatan_sandovalcardon/algo-mas-de-azucar-para-python-2g1g)
-- [Organizador de seus downloads em GO](https://dev.to/ionnss/organizador-de-seus-downloads-em-go-2hp6)
+- [Automating MongoDB Atlas Trigger Log Downloads Beyond the GUI and CLI Limitations](https://dev.to/josmanperez/automating-mongodb-atlas-trigger-log-downloads-beyond-the-gui-and-cli-limitations-2nel)
+- [Accessible components: Pagination](https://dev.to/micaavigliano/accessible-components-pagination-58c2)
+- [Pull-to-Refresh in iOS 18 - #30DaysOfSwift](https://dev.to/thevediwho/pull-to-refresh-in-ios-18-30daysofswift-5g73)
+- [Leveraging Testkube for Complex System Testing](https://dev.to/kubeshop/leveraging-testkube-for-complex-system-testing-556j)
+- [Guide to Free Coding Resources: Courses, Practice, and Community](https://dev.to/dmytro_lobanov/guide-to-free-coding-resources-courses-practice-and-community-3h5f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
