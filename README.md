@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Llama 3.1 Nemotron 70B - Quirks and Features](https://dev.to/maximsaplin/llama-31-nemotron-70b-quirks-and-features-4nbg)
-- [RAG vs Fine-Tuning: Choosing the Right Approach for Building LLM-Powered Chatbots](https://dev.to/techahead/rag-vs-fine-tuning-choosing-the-right-approach-for-building-llm-powered-chatbots-3m3m)
-- [How to Track the YARN Task Status in DolphinScheduler?](https://dev.to/chen_debra_3060b21d12b1b0/how-to-track-the-yarn-task-status-in-dolphinscheduler-36jc)
-- [Choosing the Right IDE for Your Development Style](https://dev.to/shafayeat/choosing-the-right-ide-for-your-development-style-45b7)
-- [The Benefits of a Daily Walk](https://dev.to/naksh_007/the-benefits-of-a-daily-walk-320m)
+- [👉 What is gleam language used for ❓](https://dev.to/piterweb/what-is-gleam-language-used-for-59ih)
+- [Building a Multi-Agent Framework from Scratch with LlamaIndex](https://dev.to/yukooshima/building-a-multi-agent-framework-from-scratch-with-llamaindex-5ecn)
+- [Top 10 Essential Tools for Android Development](https://dev.to/requestly/top-10-essential-tools-for-android-development-1n3l)
+- [How Data Science is Transforming Financial Fraud Detection: Key Techniques and Tools](https://dev.to/chandan_gowda_84ee3f0128c/how-data-science-is-transforming-financial-fraud-detection-key-techniques-and-tools-44ma)
+- [How to build a MAUI app in Azure Devops](https://dev.to/charliefoxtrot/how-to-build-a-maui-app-in-azure-devops-i48)
 <!-- BLOG-POST-LIST:END -->
 
 ---
