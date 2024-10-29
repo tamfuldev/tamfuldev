@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Inside the Frontend Magic of YouTube: A Deep Dive into the Architecture Powering One of the World’s Largest Platforms](https://dev.to/wittedtech-by-harshit/inside-the-frontend-magic-of-youtube-a-deep-dive-into-the-architecture-powering-one-of-the-worlds-largest-platforms-119f)
-- [Analyzing Data Without Storing Data - Part 1](https://dev.to/kylepena/computing-distributions-without-storing-data-part-1-161l)
-- [Algorithm for compressing numbers to Base64](https://dev.to/uni928/algorithm-for-compressing-numbers-to-base64-55hc)
-- [🌌 Explore Particle Systems with Acceleration and Friction!](https://dev.to/sababat/explore-particle-systems-with-acceleration-and-friction-8go)
-- [Escaping Tutorial Hell](https://dev.to/fintechbro/escaping-tutorial-hell-147)
+- [🚀 Effortless Scaling in Node.js: Mastering Load Balancing and Clustering for High Traffic Apps 🌐](https://dev.to/erasmuskotoka/effortless-scaling-in-nodejs-mastering-load-balancing-and-clustering-for-high-traffic-apps-41n)
+- [Type Utilities - JavaScript Challenges](https://dev.to/mitchell_cheng/type-utilities-javascript-challenges-5c6i)
+- [How to create a tiktok-style page generator using pure CSS / JavaScript](https://dev.to/herezone/how-to-create-a-tiktok-style-page-generator-using-pure-css-javascript-5e0)
+- [Unveiling the Backbone of YouTube Live Streaming: A Deep Dive into YouTube’s Architecture and Real-Time Video Processing](https://dev.to/wittedtech-by-harshit/unveiling-the-backbone-of-youtube-live-streaming-a-deep-dive-into-youtubes-architecture-and-real-time-video-processing-f6j)
+- [Render, Heroku, or Vercel: Which One Should You Choose for Your Next Project? 🚀](https://dev.to/sababat/render-heroku-or-vercel-which-one-should-you-choose-for-your-next-project-23gg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
