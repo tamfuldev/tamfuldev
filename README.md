@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Prisma + Postgres](https://dev.to/awalias/prisma-postgres-4o09)
+- [Effective Visual Regression Testing for Developers: Vitest vs Playwright](https://dev.to/mayashavin/effective-visual-regression-testing-for-developers-vitest-vs-playwright-3la)
 - [Top 🐘👀 Postgres Monitoring Tools 🧰 and Best Practices in 2024 🔝](https://dev.to/bytebase/top-postgres-monitoring-tools-and-best-practices-in-2024-25nf)
 - [What is Agile methodology? &lpar;A beginner’s guide&rpar;](https://dev.to/sonmusui/what-is-agile-methodology-a-beginners-guide-3g8)
 - [Best Practices and Pitfalls in Java Exception Handling ✨](https://dev.to/saurabhkurve/best-practices-and-pitfalls-in-java-exception-handling-37dk)
-- [Abstraction: Abstract Class vs Interface](https://dev.to/arshisaxena26/abstraction-abstract-class-vs-interface-1dak)
-- [Unleashing the Power of AI: Running Large Language Models on Your Own Cloud Server &lpar;Digital Ocean&rpar;](https://dev.to/sonmusui/unleashing-the-power-of-ai-running-large-language-models-on-your-own-cloud-server-digital-ocean-48oi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
