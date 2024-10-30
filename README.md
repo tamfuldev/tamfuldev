@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Hacktoberfest 2024 Journey: A Reflection on Contributor Experience](https://dev.to/kishoreology/my-hacktoberfest-2024-journey-a-reflection-on-contributor-experience-47h)
-- [OAuth Tutorial with Go and the Spotify API](https://dev.to/goodylili/oauth-tutorial-with-go-and-the-spotify-api-522n)
-- [Group &amp; Summarize a CSV File #eg68](https://dev.to/esproc_spl/group-summarize-a-csv-file-eg68-4dao)
-- [#85 — Calculate Using Adjacent Row/Interval When Data of The Same Group Is Continuous &lpar;Link Relative Ratio And YOY&rpar;](https://dev.to/judith677/85-calculate-using-adjacent-rowinterval-when-data-of-the-same-group-is-continuous-link-relative-ratio-and-yoy-4n0g)
-- [🔥 Build Your Own AI-Powered Chrome Extension 🧩](https://dev.to/santhoshvijayabaskar/build-your-own-ai-powered-chrome-extension-18ii)
+- [Top 🐘👀 Postgres Monitoring Tools 🧰 and Best Practices in 2024 🔝](https://dev.to/bytebase/top-postgres-monitoring-tools-and-best-practices-in-2024-25nf)
+- [What is Agile methodology? &lpar;A beginner’s guide&rpar;](https://dev.to/sonmusui/what-is-agile-methodology-a-beginners-guide-3g8)
+- [Best Practices and Pitfalls in Java Exception Handling ✨](https://dev.to/saurabhkurve/best-practices-and-pitfalls-in-java-exception-handling-37dk)
+- [Abstraction: Abstract Class vs Interface](https://dev.to/arshisaxena26/abstraction-abstract-class-vs-interface-1dak)
+- [Unleashing the Power of AI: Running Large Language Models on Your Own Cloud Server &lpar;Digital Ocean&rpar;](https://dev.to/sonmusui/unleashing-the-power-of-ai-running-large-language-models-on-your-own-cloud-server-digital-ocean-48oi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
