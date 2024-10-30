@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [4th and final - Hacktoberfest.](https://dev.to/krinskumar/4th-and-final-hacktoberfest-4cpk)
-- [How to Enable Microsoft Copilot in Windows 11?](https://dev.to/winsides/how-to-enable-microsoft-copilot-in-windows-11-42gi)
-- [17/365 Days | ¥10M Japan Job Challenge](https://dev.to/kameken100/17365-days-y10m-japan-job-challenge-6d)
-- [17/365 Days | ¥10M Japan Job Challenge](https://dev.to/kameken100/17365-days-y10m-japan-job-challenge-4kcp)
-- [React Hook Form with MUI: TypeScript-Supported Generic Form Components](https://dev.to/ahmetkarakus/react-hook-form-with-mui-typescript-supported-generic-form-components-4heh)
+- [Testing Spring Boot Applications: Unit, Integration, and Mocking — A Comprehensive Guide](https://dev.to/igventurelli/testing-spring-boot-applications-unit-integration-and-mocking-a-comprehensive-guide-3ehd)
+- [Deploying Spring Boot Applications to AWS](https://dev.to/igventurelli/deploying-spring-boot-applications-to-aws-1l5e)
+- [WISHES TEMPLATE](https://dev.to/ankitmodanwall/wishes-template-4dhn)
+- [Understanding the Differences Between AWS SQS and SNS](https://dev.to/igventurelli/understanding-the-differences-between-aws-sqs-and-sns-1ld7)
+- [Managing Google Workspace Part 2: Gmail, Calendar and Drive](https://dev.to/andrew_despres/managing-google-workspace-part-2-gmail-calendar-and-drive-41fl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
