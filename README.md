@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Comprehensive List of Trie-Based Questions](https://dev.to/nozibul_islam_113b1d5334f/comprehensive-list-of-trie-based-questions-d70)
-- [Components in React](https://dev.to/tomiloba2/components-in-react-2ia)
-- [Don&#39;t Overlook These Key React Techniques to Optimize Your Apps](https://dev.to/shehzadhussain/dont-overlook-these-key-react-techniques-to-optimize-your-apps-2igb)
-- [Clustered Scatter Chart](https://dev.to/nabeghanane/clustered-scatter-chart-1ol6)
-- [Revolutionizing Food Advertising with Qr2Art: Artistic QR Codes that Blend Perfectly into Your Brand&#39;s Imagery](https://dev.to/qr2art_26bd40dfb3563c76fb/revolutionizing-food-advertising-with-qr2art-artistic-qr-codes-that-blend-perfectly-into-your-brands-imagery-1ala)
+- [Managing Healthcare Data Lifecycles with AWS Security Services](https://dev.to/ikoh_sylva/managing-healthcare-data-lifecycles-with-aws-security-services-1d6i)
+- [New Article on Multimodal Deep Learning for Time Series](https://dev.to/isaacmg/new-article-on-multimodal-deep-learning-for-time-series-2o)
+- [PhraseBook With Tolgee](https://dev.to/mayank_mohapatra/phrasebook-with-tolgee-563g)
+- [c# advance: Switch Expressions](https://dev.to/moh_moh701/c-advance-switch-expressions-203o)
+- [Help with facial authentication.](https://dev.to/davidbraz/help-with-facial-authentication-407e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
