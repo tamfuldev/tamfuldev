@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Managing Healthcare Data Lifecycles with AWS Security Services](https://dev.to/ikoh_sylva/managing-healthcare-data-lifecycles-with-aws-security-services-1d6i)
-- [New Article on Multimodal Deep Learning for Time Series](https://dev.to/isaacmg/new-article-on-multimodal-deep-learning-for-time-series-2o)
-- [PhraseBook With Tolgee](https://dev.to/mayank_mohapatra/phrasebook-with-tolgee-563g)
-- [c# advance: Switch Expressions](https://dev.to/moh_moh701/c-advance-switch-expressions-203o)
-- [Help with facial authentication.](https://dev.to/davidbraz/help-with-facial-authentication-407e)
+- [UI/Text Blur Issues with Electron-Based Applications &lpar;e.g., Spotify, Discord&rpar; on Wayland](https://dev.to/nishan_bista/uitext-blur-issues-with-electron-based-applications-eg-spotify-discord-on-wayland-546c)
+- [My Experience with GitHub Copilot](https://dev.to/ngtduc693/my-experience-with-github-copilot-3130)
+- [Beware of Spring Boot Actuator Endpoint env: A Security Alert](https://dev.to/igventurelli/beware-of-spring-boot-actuator-endpoint-env-a-security-alert-546j)
+- [Spring Observability: The Next Frontier in Application Monitoring](https://dev.to/igventurelli/spring-observability-the-next-frontier-in-application-monitoring-2ch6)
+- [SQL &quot;SELECT INTO&quot; vs &quot;INSERT INTO SELECT&quot; statements.](https://dev.to/danwycliff/sql-select-into-vs-insert-into-select-statements-345a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
