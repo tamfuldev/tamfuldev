@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Testing Spring Boot Applications: Unit, Integration, and Mocking — A Comprehensive Guide](https://dev.to/igventurelli/testing-spring-boot-applications-unit-integration-and-mocking-a-comprehensive-guide-3ehd)
-- [Deploying Spring Boot Applications to AWS](https://dev.to/igventurelli/deploying-spring-boot-applications-to-aws-1l5e)
-- [WISHES TEMPLATE](https://dev.to/ankitmodanwall/wishes-template-4dhn)
-- [Understanding the Differences Between AWS SQS and SNS](https://dev.to/igventurelli/understanding-the-differences-between-aws-sqs-and-sns-1ld7)
-- [Managing Google Workspace Part 2: Gmail, Calendar and Drive](https://dev.to/andrew_despres/managing-google-workspace-part-2-gmail-calendar-and-drive-41fl)
+- [Spring Boot with Docker and Kubernetes: Containerizing and Deploying Your Java Applications](https://dev.to/igventurelli/spring-boot-with-docker-and-kubernetes-containerizing-and-deploying-your-java-applications-fm0)
+- [Kafka vs. AWS SQS: Choosing the Right Messaging Solution for Your Needs](https://dev.to/igventurelli/kafka-vs-aws-sqs-choosing-the-right-messaging-solution-for-your-needs-2i71)
+- [Day 51. Article Screen](https://dev.to/kiolk/day-51-article-screen-4j33)
+- [.NET Timers Internals](https://dev.to/mapogolions/timers-internals-5fji)
+- [Handling Exceptions in Your Spring Boot REST API](https://dev.to/igventurelli/handling-exceptions-in-your-spring-boot-rest-api-41o1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
