@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding OpenAI’s ChatGPT History Policy: What It Means for Users](https://dev.to/netsqure/understanding-openais-chatgpt-history-policy-what-it-means-for-users-3hd4)
-- [How is Automation Changing DevOps and Software Development?](https://dev.to/sygitech/how-is-automation-changing-devops-and-software-development-4ka7)
-- [When k6 eats up your RAM: Slashing memory usage in load tests](https://dev.to/siddhantkcode/when-k6-eats-up-your-ram-slashing-memory-usage-in-load-tests-5148)
-- [Beyond Video Tutorials: 15 AWS Resources to Enhance Your Cloud Skills](https://dev.to/aws-builders/beyond-video-tutorials-top-15-aws-resources-to-enhance-your-cloud-skills-47ck)
-- [How to Build Your First Web Application: The Beginner&#39;s Guide to Bringing Ideas into Reality](https://dev.to/okoye_ndidiamaka_5e3b7d30/how-to-build-your-first-web-application-the-beginners-guide-to-bringing-ideas-into-reality-29gc)
+- [Polymorphism: Decoding Method Overloading in Java](https://dev.to/arshisaxena26/polymorphism-decoding-method-overloading-in-java-5hko)
+- [Relation operators.](https://dev.to/mahamadjon000/relation-operators-ghe)
+- [TIL: Block tabs and Get IP in Javascript](https://dev.to/mrzaizai2k/til-block-tabs-and-get-ip-in-js-1a9j)
+- [Next.JS CMS — Top choices in 2024](https://dev.to/focusreactive/nextjs-cms-top-choices-in-2024-o38)
+- [10 PHP Code Snippets Every Developer Should Keep Handy](https://dev.to/neotechy/10-php-code-snippets-every-developer-should-keep-handy-b2o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
