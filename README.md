@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Awesome Free Tailwind landing page templates](https://dev.to/paul_freeman/awesome-free-tailwind-landing-page-templates-2gnb)
-- [Golang build a file DB](https://dev.to/wollens/golang-build-a-file-db-2m7l)
-- [Checking if a Type Satisfies an Interface in Go](https://dev.to/kittipat1413/checking-if-a-type-satisfies-an-interface-in-go-432n)
-- [My Hacktoberfest 2024 Journey: Growth, Collaboration, and New Beginnings 🌱](https://dev.to/shree4226/my-hacktoberfest-2024-journey-growth-collaboration-and-new-beginnings-1d60)
-- [L1SLOAD: Reading Arrays, Structs and Nested Mappings](https://dev.to/filosofiacodigoen/l1sload-reading-arrays-structs-and-nested-mappings-4b7h)
+- [Creating a Simple Web Scraper with Python &lpar;BeautifulSoup&rpar; 🕷️📊](https://dev.to/info_generalhazedawn_a3d/creating-a-simple-web-scraper-with-python-beautifulsoup-1o7n)
+- [20 Essential React Tricks Every Developer Must Know](https://dev.to/jagroop2001/20-essential-react-tricks-every-developer-must-know-5db1)
+- [Diwali animation using html ,css and javascript https://www.instagram.com/webstreet_code/](https://dev.to/prince_beec5ccde00b7c6c73/diwali-animation-using-html-css-and-javascript-httpswwwinstagramcomwebstreetcode-1dpm)
+- [Server Side Mocking for Playwright in NextJS &lpar;App Router&rpar; using Mock Service Worker](https://dev.to/votemike/server-side-mocking-for-playwright-in-nextjs-app-router-using-mock-service-worker-2p4i)
+- [This moment.](https://dev.to/paradox007/this-moment-5be2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
