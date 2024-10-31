@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Simple Web Scraper with Python &lpar;BeautifulSoup&rpar; 🕷️📊](https://dev.to/info_generalhazedawn_a3d/creating-a-simple-web-scraper-with-python-beautifulsoup-1o7n)
-- [20 Essential React Tricks Every Developer Must Know](https://dev.to/jagroop2001/20-essential-react-tricks-every-developer-must-know-5db1)
-- [Diwali animation using html ,css and javascript https://www.instagram.com/webstreet_code/](https://dev.to/prince_beec5ccde00b7c6c73/diwali-animation-using-html-css-and-javascript-httpswwwinstagramcomwebstreetcode-1dpm)
-- [Server Side Mocking for Playwright in NextJS &lpar;App Router&rpar; using Mock Service Worker](https://dev.to/votemike/server-side-mocking-for-playwright-in-nextjs-app-router-using-mock-service-worker-2p4i)
-- [This moment.](https://dev.to/paradox007/this-moment-5be2)
+- [QPS for Beginners](https://dev.to/carrie_luo1/qps-for-beginners-4n8)
+- [What is CDR?](https://dev.to/turingvangisms/what-is-cdr-2bfg)
+- [Solve the 404 problem of downloading special files on the front end &lpar;using the Kestrel server as an example&rpar;](https://dev.to/_dc269df300190ce7ce32/solve-the-404-problem-of-downloading-special-files-on-the-front-end-using-the-kestrel-server-as-an-example-29bc)
+- [Hacktoberfest 2024 Milestone: Growth, Learning, and Open Source Wins ✨🚀](https://dev.to/kartik_badiger_7eb168d4f4/hacktoberfest-2024-milestone-growth-learning-and-open-source-wins-152m)
+- [Announcing the Start of RESTART: A Journey Back to Basics and Beyond](https://dev.to/rachit_avasthi/announcing-the-start-of-restart-a-journey-back-to-basics-and-beyond-2d54)
 <!-- BLOG-POST-LIST:END -->
 
 ---
