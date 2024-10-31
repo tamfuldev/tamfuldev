@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🦫10 Go Tricks Every Go Programmer Needs in Their Toolkit!](https://dev.to/learngo/10-go-tricks-every-go-programmer-needs-in-their-toolkit-3o14)
-- [First Hacktoberfest Experience](https://dev.to/amullagaliev/first-hacktoberfest-experience-n7p)
-- [Latest Interview QnA faced recently as a DevOps Engineer](https://dev.to/rksalo88/latest-interview-qna-faced-recently-as-a-devops-engineer-mm9)
-- [Step-by-step guided tools needed to create an Azure App Service Using Power Shell](https://dev.to/ikelechia/step-by-step-guided-tools-needed-to-create-an-azure-app-service-using-power-shell-2eph)
-- [Web-3 and Environmental Sustainability: Myths and Facts](https://dev.to/igbikisimewari/web-3-and-environmental-sustainability-myths-and-facts-5bho)
+- [Daily Drawing Challenge: A Creative Journey with Tolgee](https://dev.to/sanketshinde/daily-drawing-challenge-a-creative-journey-with-tolgee-5dg2)
+- [The Ultimate Guide to Protecting Windows 11](https://dev.to/benzellat_djameleddine_3/the-ultimate-guide-to-protecting-windows-11-ppn)
+- [My Third PR for Hacktoberfest](https://dev.to/elisassa/my-third-pr-for-hacktoberfest-4j8p)
+- [Deep Dive Prompts](https://dev.to/gareth/deep-dive-prompts-5ehb)
+- [Checklist pour Publier Votre Jeu sur Steam : Guide Amateur pour une Sortie Réussie](https://dev.to/maxime_galmant/checklist-pour-publier-votre-jeu-sur-steam-guide-amateur-pour-une-sortie-reussie-2pcd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
