@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your Family Will Thank You For Having This Hook Lock For Sliding Door](https://dev.to/partmakeup21/your-family-will-thank-you-for-having-this-hook-lock-for-sliding-door-3bal)
-- [The Reasons Why Asbestos Law Firm In 2023 Is The Main Focus Of All People&#39;s Attention. 2023](https://dev.to/chinawave29/the-reasons-why-asbestos-law-firm-in-2023-is-the-main-focus-of-all-peoples-attention-2023-4jke)
-- [You&#39;ll Be Unable To Guess Corner Fabric Sofa&#39;s Benefits](https://dev.to/spyhen3/youll-be-unable-to-guess-corner-fabric-sofas-benefits-3i33)
-- [Node.js Memory Leaks: A Guide to Detection and Resolution](https://dev.to/yasir_rafique_27550feb631/nodejs-memory-leaks-a-guide-to-detection-and-resolution-4mo5)
-- [AVKit Integration in iOS 18 - #30DaysOfSwift](https://dev.to/thevediwho/avkit-integration-in-ios-18-30daysofswift-8le)
+- [🤖🚀 Les frameworks boostés à l&#39;IA pour un dev plus simple et plus puissant ! 🚀🤖](https://dev.to/tom_goureau/les-frameworks-boostes-a-lia-pour-un-dev-plus-simple-et-plus-puissant--30co)
+- [How to use Prisma Postgres 🚀](https://dev.to/thomasbnt/how-to-use-prisma-postgres-5519)
+- [Do I need Multi-Region?](https://dev.to/aws-builders/do-i-need-multi-region-1g81)
+- [Testing the startup time for your Fire OS app](https://dev.to/amazonappdev/testing-the-startup-time-for-your-fire-os-app-41me)
+- [We made a horror movie inspired by spooky prod bugs 🎃](https://dev.to/jamdotdev/we-made-a-horror-movie-inspired-by-spooky-prod-bugs-23cm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
