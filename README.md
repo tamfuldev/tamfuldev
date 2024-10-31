@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Dependency Injection in Spring Boot](https://dev.to/igventurelli/understanding-dependency-injection-in-spring-boot-472k)
-- [Streamlining Research and Analysis with OpenBB](https://dev.to/adityadeshlahre/streamlining-research-and-analysis-with-openbb-209h)
-- [🐍Como Importar Dados do Excel para SQLite com Python em Poucas Linhas](https://dev.to/alexandrejusten/como-importar-dados-do-excel-para-sqlite-com-python-em-poucas-linhas-o7b)
-- [Spring Boot Actuator: Monitoring and Managing Your Applications](https://dev.to/igventurelli/spring-boot-actuator-monitoring-and-managing-your-applications-4799)
-- [You don&#39;t need to know them all!](https://dev.to/gabrieltoma/you-dont-need-to-know-them-all-1l9j)
+- [Hacktoberfest Week 4](https://dev.to/cduarte3/hacktoberfest-week-4-1m)
+- [Securing Your REST API with JWT Authorizers and Amazon Cognito](https://dev.to/aws-builders/securing-your-rest-api-with-jwt-authorizers-and-amazon-cognito-2dp2)
+- [Understanding Error Handling: From Try-Catch to Result Types](https://dev.to/skanenje/understanding-error-handling-from-try-catch-to-result-types-21n4)
+- [Writer/Editor-turned-Coder Does Hacktoberfest 2024, Realizes She’d Been Writing in the Wrong Industry All Along](https://dev.to/aeroma44/writereditor-turned-coder-does-hacktoberfest-2024-realizes-shed-been-writing-in-the-wrong-industry-all-along-54dh)
+- [Heap - Min e Max](https://dev.to/amandafonseca/heap-min-e-max-2eci)
 <!-- BLOG-POST-LIST:END -->
 
 ---
