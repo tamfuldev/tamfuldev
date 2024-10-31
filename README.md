@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Validate Upload and Download in Cypress](https://dev.to/aswani25/how-to-validate-upload-and-download-in-cypress-31d4)
-- [MERN Stack](https://dev.to/gdalbelo/mern-stack-2351)
-- [Why Rule-based WAFs Can be Easily Bypassed and What is Semantic Analysis Algorithm](https://dev.to/carrie_luo1/why-rule-based-wafs-can-be-easily-bypassed-and-what-is-semantic-analysis-algorithm-3ho)
-- [Find Text in MSSQL Stored Procedures and Functions with a Custom Function](https://dev.to/dejandozet/find-text-in-mssql-stored-procedures-and-functions-with-a-custom-function-2h6k)
-- [moving from &lpar;yabai + skhd&rpar; to AeroSpace](https://dev.to/kentaro0919/moving-from-yabai-skhd-to-aerospace-m8n)
+- [Implementing Webpack from Scratch, But in Rust - [3] Using NAPI-RS to Create Node.js Addons](https://dev.to/paradeto/implementing-webpack-from-scratch-but-in-rust-3-using-napi-rs-to-create-nodejs-addons-347h)
+- [Transforme Seu Servidor Local em um Site Público com Ngrok](https://dev.to/alexandrejusten/transforme-seu-servidor-local-em-um-site-publico-com-ngrok-30do)
+- [Unlock the Power of JavaScript Concurrency with Atomics.waitAsync&lpar;&rpar;](https://dev.to/dailysandbox/unlock-the-power-of-javascript-concurrency-with-atomicswaitasync-5e9p)
+- [Solutions for Failing to Create Tenants in Apache DolphinScheduler](https://dev.to/chen_debra_3060b21d12b1b0/solutions-for-failing-to-create-tenants-in-apache-dolphinscheduler-592)
+- [🧑‍💻 Build Your Cloud ☁️](https://dev.to/samyfodil/build-your-cloud-2nmm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
