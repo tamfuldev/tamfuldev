@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Hacktoberfest Week 4](https://dev.to/cduarte3/hacktoberfest-week-4-1m)
-- [Securing Your REST API with JWT Authorizers and Amazon Cognito](https://dev.to/aws-builders/securing-your-rest-api-with-jwt-authorizers-and-amazon-cognito-2dp2)
-- [Understanding Error Handling: From Try-Catch to Result Types](https://dev.to/skanenje/understanding-error-handling-from-try-catch-to-result-types-21n4)
-- [Writer/Editor-turned-Coder Does Hacktoberfest 2024, Realizes She’d Been Writing in the Wrong Industry All Along](https://dev.to/aeroma44/writereditor-turned-coder-does-hacktoberfest-2024-realizes-shed-been-writing-in-the-wrong-industry-all-along-54dh)
-- [Heap - Min e Max](https://dev.to/amandafonseca/heap-min-e-max-2eci)
+- [How to Validate Upload and Download in Cypress](https://dev.to/aswani25/how-to-validate-upload-and-download-in-cypress-31d4)
+- [MERN Stack](https://dev.to/gdalbelo/mern-stack-2351)
+- [Why Rule-based WAFs Can be Easily Bypassed and What is Semantic Analysis Algorithm](https://dev.to/carrie_luo1/why-rule-based-wafs-can-be-easily-bypassed-and-what-is-semantic-analysis-algorithm-3ho)
+- [Find Text in MSSQL Stored Procedures and Functions with a Custom Function](https://dev.to/dejandozet/find-text-in-mssql-stored-procedures-and-functions-with-a-custom-function-2h6k)
+- [moving from &lpar;yabai + skhd&rpar; to AeroSpace](https://dev.to/kentaro0919/moving-from-yabai-skhd-to-aerospace-m8n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
