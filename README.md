@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [#86 — Calculate Using Adjacent Row/Interval When Data of The Same Group Is Discontinuous &lpar;LRR/YOY in The Case of Missing Data&rpar;](https://dev.to/judith677/86-calculate-using-adjacent-rowinterval-when-data-of-the-same-group-is-discontinuous-lrryoy-in-the-case-of-missing-data-59bi)
-- [Creating a Multilingual Expense Tracker with Tolgee](https://dev.to/mayank_mohapatra/creating-a-multilingual-expense-tracker-with-tolgee-445a)
-- [Working by Day, Hacking by Night: My oss.gg Hackathon Experience](https://dev.to/raju_gangitla_91920e1427f/working-by-day-hacking-by-night-my-ossgg-hackathon-experience-381c)
-- [HackMty 24 📍TecMty](https://dev.to/luis_diaz_19a878119983392/hackmty-24-tecmty-4f1b)
-- [What each container does in SafeLine WAF](https://dev.to/carrie_luo1/what-each-container-does-in-safeline-waf-5d9g)
+- [Awesome Free Tailwind landing page templates](https://dev.to/paul_freeman/awesome-free-tailwind-landing-page-templates-2gnb)
+- [Golang build a file DB](https://dev.to/wollens/golang-build-a-file-db-2m7l)
+- [Checking if a Type Satisfies an Interface in Go](https://dev.to/kittipat1413/checking-if-a-type-satisfies-an-interface-in-go-432n)
+- [My Hacktoberfest 2024 Journey: Growth, Collaboration, and New Beginnings 🌱](https://dev.to/shree4226/my-hacktoberfest-2024-journey-growth-collaboration-and-new-beginnings-1d60)
+- [L1SLOAD: Reading Arrays, Structs and Nested Mappings](https://dev.to/filosofiacodigoen/l1sload-reading-arrays-structs-and-nested-mappings-4b7h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
