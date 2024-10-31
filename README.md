@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Interactive Emoji Animations in React ⚛️🎯](https://dev.to/mattlewandowski93/building-interactive-emoji-animations-in-react-4o5c)
-- [Make Planning Poker Fun 🎯](https://dev.to/mattlewandowski93/make-planning-poker-fun-45eh)
-- [Loops in C: A Simple Guide with Examples](https://dev.to/souvikkundu88/loops-in-c-a-simple-guide-with-examples-5hi7)
-- [TIPS FOR BEGINNERS IN ROBLOX STUDIO 😲](https://dev.to/mince/tips-for-beginners-in-roblox-studio-19m4)
-- [Round&lpar;&rpar; funksiya.](https://dev.to/alisher0909/round-funksiya-4358)
+- [Thursday Quiz](https://dev.to/scofieldidehen/thursday-quiz-3kke)
+- [Simplifying HTTP Calls with Refit](https://dev.to/juarezasjunior/simplifying-http-calls-with-refit-1l51)
+- [Is Tech Burnout Holding You Back? Here&#39;s How to Bounce Back](https://dev.to/techbalance_collective/is-tech-burnout-holding-you-back-heres-how-to-bounce-back-5754)
+- [Chamadas HTTP mais Simples com Refit](https://dev.to/juarezasjunior/chamadas-http-mais-simples-com-refit-40ab)
+- [Cloud Security And Privacy: Best Practices To Mitigate The Risks](https://dev.to/gitprotect/cloud-security-and-privacy-best-practices-to-mitigate-the-risks-1mh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
