@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Daily Drawing Challenge: A Creative Journey with Tolgee](https://dev.to/sanketshinde/daily-drawing-challenge-a-creative-journey-with-tolgee-5dg2)
-- [The Ultimate Guide to Protecting Windows 11](https://dev.to/benzellat_djameleddine_3/the-ultimate-guide-to-protecting-windows-11-ppn)
-- [My Third PR for Hacktoberfest](https://dev.to/elisassa/my-third-pr-for-hacktoberfest-4j8p)
-- [Deep Dive Prompts](https://dev.to/gareth/deep-dive-prompts-5ehb)
-- [Checklist pour Publier Votre Jeu sur Steam : Guide Amateur pour une Sortie Réussie](https://dev.to/maxime_galmant/checklist-pour-publier-votre-jeu-sur-steam-guide-amateur-pour-une-sortie-reussie-2pcd)
+- [Here&#39;s How Building a HTTP Stream Processor Went](https://dev.to/megaconfidence/heres-how-building-a-http-stream-processor-went-3f8p)
+- [The Art of Lean Coding: How Go’s Memory Management Keeps Your Code Fit and Fast 🧠⚡](https://dev.to/githaiga22/the-art-of-lean-coding-how-gos-memory-management-keeps-your-code-fit-and-fast-5ggi)
+- [Hacktoberfest 2024: My Contributor Experience](https://dev.to/praise002/hacktoberfest-2024-my-contributor-experience-4mf1)
+- [Essential Layout Considerations for Web Pages Using Tailwind CSS](https://dev.to/rafaelogic/essential-layout-considerations-for-web-pages-using-tailwind-css-4h30)
+- [Previniendo olores raros 🫢 en Javascript](https://dev.to/richirrim/previniendo-olores-raros-en-javascript-15k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
