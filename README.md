@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Conjuring Cursed Halloween Tales with Qdrant&#39;s Dark Arts](https://dev.to/sabrinaesaquino/conjuring-cursed-halloween-tales-with-qdrants-dark-arts-3eji)
-- [🚀 Getting Started with AI-Powered Coding Assistants 🚀](https://dev.to/anticoder03/getting-started-with-ai-powered-coding-assistants-3o4o)
-- [5 things I wish I knew as a Web Developer](https://dev.to/safdarali/5-things-i-wish-i-knew-as-a-web-developer-34b7)
-- [Spring Boot and RabbitMQ: Messaging with AMQP](https://dev.to/igventurelli/spring-boot-and-rabbitmq-messaging-with-amqp-28dj)
-- [Free Hosting Platforms for frontend Projects &lt;/&gt;](https://dev.to/wicked_sarkar/free-hosting-platforms-for-frontend-projects--2fm6)
+- [Your Family Will Thank You For Having This Hook Lock For Sliding Door](https://dev.to/partmakeup21/your-family-will-thank-you-for-having-this-hook-lock-for-sliding-door-3bal)
+- [The Reasons Why Asbestos Law Firm In 2023 Is The Main Focus Of All People&#39;s Attention. 2023](https://dev.to/chinawave29/the-reasons-why-asbestos-law-firm-in-2023-is-the-main-focus-of-all-peoples-attention-2023-4jke)
+- [You&#39;ll Be Unable To Guess Corner Fabric Sofa&#39;s Benefits](https://dev.to/spyhen3/youll-be-unable-to-guess-corner-fabric-sofas-benefits-3i33)
+- [Node.js Memory Leaks: A Guide to Detection and Resolution](https://dev.to/yasir_rafique_27550feb631/nodejs-memory-leaks-a-guide-to-detection-and-resolution-4mo5)
+- [AVKit Integration in iOS 18 - #30DaysOfSwift](https://dev.to/thevediwho/avkit-integration-in-ios-18-30daysofswift-8le)
 <!-- BLOG-POST-LIST:END -->
 
 ---
