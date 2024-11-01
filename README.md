@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [10 Insane Web Design Tools Every Developer Should Know About! 🌟 🔥](https://dev.to/hosseinyazdi/10-insane-web-design-tools-every-developer-should-know-about-40he)
-- [Construção de URLs e Chamadas HTTP Simplificadas com Flurl](https://dev.to/juarezasjunior/construcao-de-urls-e-chamadas-http-simplificadas-com-flurl-2cco)
-- [Simplified URL Building and HTTP Requests with Flurl](https://dev.to/juarezasjunior/simplified-url-building-and-http-requests-with-flurl-36cl)
-- [How to Customize and Change Your Flutter App Launcher Icon [2024]](https://dev.to/mc-stephen/how-to-customize-and-change-your-flutter-app-launcher-icon-2024-2jk2)
-- [Proof of Concept &lpar;POC&rpar; in Automation Testing: A Comprehensive Guide](https://dev.to/ronika_kashyap/proof-of-concept-poc-in-automation-testing-a-comprehensive-guide-44jb)
+- [🚀 Your Daily Crypto Job Digest For 01 November!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-01-november-5be2)
+- [Taking on New Challenges &lpar;OTB Ep 4: Ned Batchelder&rpar;](https://dev.to/codemouse92/taking-on-new-challenges-otb-ep-4-ned-batchelder-341a)
+- [Deleting Duplicates in SQL](https://dev.to/danwycliff/deleting-duplicates-in-sql-44a0)
+- [Process-based parallel execution of plain Minitest tests](https://dev.to/beatmadsen/process-based-parallel-execution-of-plain-minitest-tests-p4a)
+- [Cluster Autoscaler configure on AWS EKS -1.24](https://dev.to/aws-builders/cluster-autoscaler-configure-on-aws-eks-130-22eg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
