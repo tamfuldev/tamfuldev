@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Python’s __name__ and __main__: Understanding Script Execution and Module Imports](https://dev.to/pawandeore/mastering-pythons-name-and-main-understanding-script-execution-and-module-imports-266g)
-- [My Coding Journey: Building Confidence One Day at a Time](https://dev.to/coding_chronicles/my-coding-journey-building-confidence-one-day-at-a-time-3cf9)
-- [A step-by-step guide on how to integrate Voyp-AI with various CRM platforms or communication tools.](https://dev.to/snowman524/a-step-by-step-guide-on-how-to-integrate-voyp-ai-with-various-crm-platforms-or-communication-tools-3ah)
-- [Introducing ChatGPT search, but it has access to your private Github repositories. Here’s how…](https://dev.to/abdibrokhim/introducing-chatgpt-search-but-it-has-access-to-your-private-github-repositories-heres-how-45gj)
-- [Using Oxlint for My Node.js Project](https://dev.to/udayrana/using-oxlint-for-my-nodejs-project-45a)
+- [Pythonic Time Capsule: Must-Know Features from Each Version](https://dev.to/cquark7/pythonic-time-capsule-must-know-features-from-each-version-1795)
+- [SQL - Dia 7](https://dev.to/technonotes/sql-day-7-8hj)
+- [Lightweight Kubernetes and Wasm is a Perfect Combo](https://dev.to/fermyon/lightweight-kubernetes-and-wasm-is-a-perfect-combo-5h11)
+- [France ioi La Grande Braderie probleme &lpar;easy lvl&rpar;](https://dev.to/aziz999/france-ioi-la-grande-braderie-probleme-easy-lvl-2k5n)
+- [Day 1051 : Cruise Control](https://dev.to/dwane/day-1051-cruise-control-59jk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
