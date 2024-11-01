@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Machine learning Types - Art of Possible](https://dev.to/lostinopensource/machine-learning-types-art-of-possible-pf2)
-- [Quiz App Generator](https://dev.to/niteshoak/quiz-app-generator-53oe)
-- [Algorithms Behind JavaScript Array Methods](https://dev.to/nozibul_islam_113b1d5334f/algorithms-behind-javascript-array-methods-50n9)
-- [How Do I Rewrite AI-Generated Content? A Simple Guide](https://dev.to/large_line_9b5a0d754582e7/how-do-i-rewrite-ai-generated-content-a-simple-guide-2824)
-- [How to Validate File Inputs in TypeScript with Zod](https://dev.to/drprime01/how-to-validate-a-file-input-with-zod-5739)
+- [Getting the Deck in Order: Custom Types and Methods in Go!](https://dev.to/_itsglover/getting-the-deck-in-order-custom-types-and-methods-in-go-40a9)
+- [Low Code Written in the Grid](https://dev.to/esproc_spl/low-code-written-in-the-grid-1bbp)
+- [Low Code Written in the Grid](https://dev.to/esproc_spl/low-code-written-in-the-grid-27dn)
+- [Docker Volumes: Mastering Persistent Storage in Containers](https://dev.to/labex/docker-volumes-mastering-persistent-storage-in-containers-2766)
+- [Javascript Reserved Keywords](https://dev.to/diwakar_verma_381fc6e5e2f/javascript-reserved-keywords-3mp3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
