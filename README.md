@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Starting from Scratch](https://dev.to/johnnybuilds/starting-from-scratch-8o8)
-- [New open-source multiplayer canvas game!](https://dev.to/cat2d2/new-open-source-multiplayer-canvas-game-27ae)
-- [How to Fix MySQL Not Running on macOS Sequoia 15.0](https://dev.to/syahzul/how-to-fix-mysql-not-running-on-macos-sequoia-150-5c96)
-- [Mastering Image Uploads with Multer, Firebase, and Express in Node.js](https://dev.to/alyconr/mastering-image-uploads-with-multer-firebase-and-express-in-nodejs-5hd1)
-- [A brief recap of what I did this Month](https://dev.to/bregwin/a-brief-recap-of-what-i-did-this-month-40e1)
+- [Hacktoberfest - Completed](https://dev.to/krinskumar/hacktoberfest-completed-i7o)
+- [Accelerate GenAI: Stream Data from MySQL to Kafka](https://dev.to/bladepipe/accelerate-genai-stream-data-from-mysql-to-kafka-k7e)
+- [Adding Workflow Filters to Valid-GTIN](https://dev.to/mayankpareek/adding-workflow-filters-to-valid-gtin-48bl)
+- [Creating a NextJS Web App With 0 Web Dev Experience](https://dev.to/charlottetowell/creating-a-nextjs-web-app-with-0-web-dev-experience-1839)
+- [Hackoberfest: Part 2](https://dev.to/add00_3/hackoberfest-part-2-3mbc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
