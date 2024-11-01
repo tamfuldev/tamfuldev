@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Automating software installations on Linux using Python.](https://dev.to/trixsec/automating-software-installations-on-linux-using-python-3611)
-- [OSD600 - lab06](https://dev.to/jinger-ale/osd600-lab06-39p8)
-- [Denoising Images with Autoencoders: A Practical Guide Using MNIST Dataset- Part 2](https://dev.to/sreeni5018/denoising-images-with-autoencoders-a-practical-guide-using-mnist-dataset-part-2-55dd)
-- [AI Democratization: Unlocking the Power of Artificial Intelligence for All](https://dev.to/siddharthbhalsod/ai-democratization-unlocking-the-power-of-artificial-intelligence-for-all-37ck)
-- [Maximizing Your Budget: Proven Strategies for AWS Cost Saving](https://dev.to/billgist/maximizing-your-budget-proven-strategies-for-aws-cost-saving-2k2e)
+- [Machine learning Types - Art of Possible](https://dev.to/lostinopensource/machine-learning-types-art-of-possible-pf2)
+- [Quiz App Generator](https://dev.to/niteshoak/quiz-app-generator-53oe)
+- [Algorithms Behind JavaScript Array Methods](https://dev.to/nozibul_islam_113b1d5334f/algorithms-behind-javascript-array-methods-50n9)
+- [How Do I Rewrite AI-Generated Content? A Simple Guide](https://dev.to/large_line_9b5a0d754582e7/how-do-i-rewrite-ai-generated-content-a-simple-guide-2824)
+- [How to Validate File Inputs in TypeScript with Zod](https://dev.to/drprime01/how-to-validate-a-file-input-with-zod-5739)
 <!-- BLOG-POST-LIST:END -->
 
 ---
