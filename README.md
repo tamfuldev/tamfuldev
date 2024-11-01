@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [#87 — Merge Data of The Same Group](https://dev.to/judith677/87-merge-data-of-the-same-group-5ap4)
-- [Function prototype - JavaScript Challenges](https://dev.to/mitchell_cheng/function-prototype-javascript-challenges-19eo)
-- [Swarm: El Framework Experimental de OpenAI para Orquestación de Agentes](https://dev.to/carlos_alarcn_4318831566/swarm-el-framework-experimental-de-openai-para-orquestacion-de-agentes-4d9h)
-- [A Yocto Cheatsheet](https://dev.to/lsahn/a-yocto-cheatsheet-3jbf)
-- [Exploring Autoencoders:Anomaly Detection with TensorFlow and Keras Using the MNIST Dataset](https://dev.to/sreeni5018/exploring-autoencodersanomaly-detection-with-tensorflow-and-keras-using-the-mnist-dataset-1bdp)
+- [Automating software installations on Linux using Python.](https://dev.to/trixsec/automating-software-installations-on-linux-using-python-3611)
+- [OSD600 - lab06](https://dev.to/jinger-ale/osd600-lab06-39p8)
+- [Denoising Images with Autoencoders: A Practical Guide Using MNIST Dataset- Part 2](https://dev.to/sreeni5018/denoising-images-with-autoencoders-a-practical-guide-using-mnist-dataset-part-2-55dd)
+- [AI Democratization: Unlocking the Power of Artificial Intelligence for All](https://dev.to/siddharthbhalsod/ai-democratization-unlocking-the-power-of-artificial-intelligence-for-all-37ck)
+- [Maximizing Your Budget: Proven Strategies for AWS Cost Saving](https://dev.to/billgist/maximizing-your-budget-proven-strategies-for-aws-cost-saving-2k2e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
