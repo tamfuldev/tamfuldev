@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [npmとnpxの違い](https://dev.to/hamachooo25/npmtonpxnowei-i-2cif)
-- [Implementing Distributed Caching with Redis in Azure Functions](https://dev.to/mbrennan376/implementing-distributed-caching-with-redis-in-azure-functions-14ph)
-- [Harnessing Extension Methods for DI in Clean Architecture with .NET](https://dev.to/mbrennan376/harnessing-extension-methods-for-di-in-clean-architecture-with-net-29l7)
-- [Smart Contracts Deep Storage: A New Way to Upgrade Legacy Smart Contracts](https://dev.to/smartmuv/smart-contracts-deep-storage-a-new-way-to-upgrade-legacy-smart-contracts-432a)
-- [Comparing SASS with plain CSS](https://dev.to/devibbi/comparing-sass-with-plain-css-44bp)
+- [Machine Learning in PHP: Build a News Classifier Using Rubix ML](https://dev.to/arafatweb/machine-learning-in-php-build-a-news-classifier-using-rubix-ml-e45)
+- [Les applications des grandes compagnies téléphoniques : innovation ou frein pour les PME et startups ?](https://dev.to/pathus90/les-applications-des-grandes-compagnies-telephoniques-innovation-ou-frein-pour-les-pme-et-startups--2jka)
+- [Forms and Input Handling in iOS 18 - #30DaysOfSwift](https://dev.to/thevediwho/forms-and-input-handling-in-ios-18-30daysofswift-12p4)
+- [Goliath Dashboard Demo: Open Source Alternative](https://dev.to/danieljsaldana/goliath-dashboard-demo-open-source-alternative-12gj)
+- [Request Body Limit Middleware for Iris](https://dev.to/kataras/request-body-limit-middleware-for-iris-4999)
 <!-- BLOG-POST-LIST:END -->
 
 ---
