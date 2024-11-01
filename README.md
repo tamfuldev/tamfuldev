@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Google Analytics &lpar;GA4&rpar; implementation with React - Remix example](https://dev.to/seasonedcc/google-analytics-ga4-implementation-with-react-remix-example-59j)
-- [From Theory to Practice: Developing a Distributed Key-Value Database with Sharding and Replication](https://dev.to/ravikishan/from-theory-to-practice-developing-a-distributed-key-value-database-with-sharding-and-replication-180d)
-- [Weekly Updates - Nov 1, 2024](https://dev.to/couchbase/weekly-updates-nov-1-2024-ek)
-- [Building a Simple TCP Server in C](https://dev.to/trish_07/building-a-simple-tcp-server-in-c-2h85)
-- [Local Dev Environment and Static Code Analysis](https://dev.to/kannav02/local-dev-environment-and-static-code-analysis-1pda)
+- [NextJS + Drizzle -- 8 Things I Learned Spinning up a New Project](https://dev.to/jordanahaines/nextjs-drizzle-8-things-i-learned-spinning-up-a-new-project-53pd)
+- [The Essential Guide to Testing React Components](https://dev.to/adityabhuyan/the-essential-guide-to-testing-react-components-1hjl)
+- [302 Not found](https://dev.to/abdalmalek_shd/302-not-found-20eb)
+- [Seeking Volunteer Judges for DEV Challenges!](https://dev.to/devteam/seeking-volunteer-judges-for-dev-challenges-2i3a)
+- [Mastering MySQL Views](https://dev.to/adityabhuyan/mastering-mysql-views-ia8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
