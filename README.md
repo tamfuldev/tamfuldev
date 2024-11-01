@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Hacktoberfest - Completed](https://dev.to/krinskumar/hacktoberfest-completed-i7o)
-- [Accelerate GenAI: Stream Data from MySQL to Kafka](https://dev.to/bladepipe/accelerate-genai-stream-data-from-mysql-to-kafka-k7e)
-- [Adding Workflow Filters to Valid-GTIN](https://dev.to/mayankpareek/adding-workflow-filters-to-valid-gtin-48bl)
-- [Creating a NextJS Web App With 0 Web Dev Experience](https://dev.to/charlottetowell/creating-a-nextjs-web-app-with-0-web-dev-experience-1839)
-- [Hackoberfest: Part 2](https://dev.to/add00_3/hackoberfest-part-2-3mbc)
+- [💾 Advanced Database Operations with Mongoose: Virtuals, Population, and Indexing 🚀](https://dev.to/erasmuskotoka/advanced-database-operations-with-mongoose-virtuals-population-and-indexing-5228)
+- [Automate Update Your Changelog with GitHub Actions](https://dev.to/nasrulhazim/automate-update-your-changelog-with-github-actions-5g10)
+- [My Hacktoberfest 2024 Experience](https://dev.to/mayankpareek/my-hacktoberfest-2024-experience-54fp)
+- [Are LLMs Still Lost in the Middle?](https://dev.to/trustgraph/are-llms-still-lost-in-the-middle-52k0)
+- [How to sync your Obsidian vault using GitHub: A complete guide](https://dev.to/padiazg/how-to-sync-your-obsidian-vault-using-github-a-complete-guide-2l08)
 <!-- BLOG-POST-LIST:END -->
 
 ---
