@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [NextJS + Drizzle -- 8 Things I Learned Spinning up a New Project](https://dev.to/jordanahaines/nextjs-drizzle-8-things-i-learned-spinning-up-a-new-project-53pd)
-- [The Essential Guide to Testing React Components](https://dev.to/adityabhuyan/the-essential-guide-to-testing-react-components-1hjl)
-- [302 Not found](https://dev.to/abdalmalek_shd/302-not-found-20eb)
-- [Seeking Volunteer Judges for DEV Challenges!](https://dev.to/devteam/seeking-volunteer-judges-for-dev-challenges-2i3a)
-- [Mastering MySQL Views](https://dev.to/adityabhuyan/mastering-mysql-views-ia8)
+- [Mastering Python’s __name__ and __main__: Understanding Script Execution and Module Imports](https://dev.to/pawandeore/mastering-pythons-name-and-main-understanding-script-execution-and-module-imports-266g)
+- [My Coding Journey: Building Confidence One Day at a Time](https://dev.to/coding_chronicles/my-coding-journey-building-confidence-one-day-at-a-time-3cf9)
+- [A step-by-step guide on how to integrate Voyp-AI with various CRM platforms or communication tools.](https://dev.to/snowman524/a-step-by-step-guide-on-how-to-integrate-voyp-ai-with-various-crm-platforms-or-communication-tools-3ah)
+- [Introducing ChatGPT search, but it has access to your private Github repositories. Here’s how…](https://dev.to/abdibrokhim/introducing-chatgpt-search-but-it-has-access-to-your-private-github-repositories-heres-how-45gj)
+- [Using Oxlint for My Node.js Project](https://dev.to/udayrana/using-oxlint-for-my-nodejs-project-45a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
