@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Duckdb — O novo banco de dados dos Big Data](https://dev.to/airton_lirajunior_2ddebd/duckdb-o-novo-banco-de-dados-dos-big-data-1o6k)
-- [Supercharging Your Knowledge Management: Integrating Obsidian with n8n for Automated Note-Taking Workflows](https://dev.to/airabbit/supercharging-your-knowledge-management-integrating-obsidian-with-n8n-for-automated-note-taking-workflows-38il)
-- [Criando um LLM do zero com Transformers](https://dev.to/airton_lirajunior_2ddebd/criando-um-llm-do-zero-com-transformers-13cf)
-- [TIL C11 Annex K exists but you shouldn&#39;t use it](https://dev.to/jcbhmr/til-c11-annex-k-exists-but-you-shouldnt-use-it-31ji)
-- [TIL emalloc&lpar;&rpar; auto-exits on out-of-memory errors](https://dev.to/jcbhmr/til-emalloc-auto-exits-on-out-of-memory-errors-12n9)
+- [Processando 20 milhões de registros em menos de 5 segundos com Apache Hive.](https://dev.to/airton_lirajunior_2ddebd/processando-20-milhoes-de-registros-em-menos-de-5-segundos-com-apache-hive-2ecl)
+- [Utilizando o pattern Heartbeats em Golang](https://dev.to/airton_lirajunior_2ddebd/utilizando-o-pattern-heartbeats-em-golang-eh0)
+- [Mastering Chrome Developer Tools: Essential Tips for Front-End Developers](https://dev.to/wils3b/mastering-chrome-developer-tools-essential-tips-for-front-end-developers-5cm4)
+- [python concurrent.futures](https://dev.to/mapogolions/python-concurrentfutures-5f4a)
+- [Making your n8n workflows accessible from the outside: A comprehensive guide](https://dev.to/airabbit/making-your-n8n-workflows-accessible-from-the-outside-a-comprehensive-guide-2eel)
 <!-- BLOG-POST-LIST:END -->
 
 ---
