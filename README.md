@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [do while loop](https://dev.to/sanjar777/do-while-loop-3l56)
-- [Nested while loop](https://dev.to/sanjar777/nested-while-loop-4klk)
-- [I made an AI Website Builder that generates websites from a single prompt ⚡️](https://dev.to/fredy/i-made-an-ai-website-builder-that-generates-websites-from-a-single-prompt-411p)
-- [Complete Sim Registration TM &lpar;Latest Guide&rpar;](https://dev.to/vapestation/complete-sim-registration-tm-latest-guide-3hb)
-- [Unlocking the World of Generative AI: 29 Key Terms You Should Know](https://dev.to/7ozzam/unlocking-the-world-of-generative-ai-29-key-terms-you-should-know-h9l)
+- [Gerando Dados Falsos para Testes com Bogus](https://dev.to/juarezasjunior/gerando-dados-falsos-para-testes-com-bogus-18o6)
+- [RAG Explained: Indexing and Vector Database](https://dev.to/busycaesar/rag-explained-indexing-and-vector-database-46pg)
+- [Generating Fake Data for Testing with Bogus](https://dev.to/juarezasjunior/generating-fake-data-for-testing-with-bogus-4ca6)
+- [Install Apache on Windows in a Few Simple Steps](https://dev.to/techelopment/install-apache-on-windows-in-a-few-simple-steps-2kjb)
+- [Learn more about SW testing frameworks](https://dev.to/magi-magificient/learn-more-about-sw-testing-frameworks-1jj3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
