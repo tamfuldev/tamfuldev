@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Janus WebRTC server and SFU: a real time video calling app](https://dev.to/alakkadshaw/janus-webrtc-server-and-sfu-a-real-time-video-calling-app-23p8)
-- [10 First Git Commands You Need to Know](https://dev.to/mohsenkamrani/10-first-git-commands-you-need-to-know-337i)
-- [This is My Experience with Hactoberfest as a Contributer](https://dev.to/piyush_sahu_3d5f00a6ad741/this-is-my-experience-with-hactoberfest-as-a-contributer-p0j)
-- [The Curious Case of the $15,000 Spam: My Unexpected Investigation](https://dev.to/programmerraja/the-curious-case-of-the-15000-spam-my-unexpected-investigation-1llg)
-- [Deploying an NFTs Marketplace Solution on AWS Super Fast](https://dev.to/anhdung/deploying-an-nfts-marketplace-solution-on-aws-super-fast-411o)
+- [How to install Zoxide on Linux](https://dev.to/kelvinhey/how-to-install-zoxide-on-linux-5ah2)
+- [Adding Code Formatter and Linter Tools to my code.](https://dev.to/aldrin312/adding-code-formatter-and-linter-tools-to-my-code-e9g)
+- [Override java version on flutter](https://dev.to/ugifractal/override-java-version-on-flutter-3278)
+- [Hacktoberfest! - Racap](https://dev.to/theoforger/hacktoberfest-racap-8cc)
+- [Contribution Instructions: Formate Code and Linting](https://dev.to/amullagaliev/contribution-instructions-formate-code-and-linting-1m86)
 <!-- BLOG-POST-LIST:END -->
 
 ---
