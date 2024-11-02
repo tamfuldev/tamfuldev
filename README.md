@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 Modern JavaScript Patterns for 2025](https://dev.to/balrajola/top-10-modern-javascript-patterns-for-2025-1hle)
+- [How did a dumbo become an Open-Source contributor 🪔](https://dev.to/rohan_sharma/how-did-a-dumbo-become-an-open-source-contributor-333c)
+- [Should You Continue Learn Your Stack or Learn New Tools](https://dev.to/jenueldev/should-you-continue-learn-your-stack-or-learn-new-tools-5e9f)
+- [Go Routing 101: Handling and Grouping Routes with net/http](https://dev.to/kengowada/go-routing-101-handling-and-grouping-routes-with-nethttp-4k0e)
 - [Conditional operator](https://dev.to/munisa_kuranbekova_078e1e/conditional-operator-1lfd)
-- [PWC 293 Similar Dominos Done Badly](https://dev.to/boblied/pwc-293-similar-dominos-done-badly-4gpc)
-- [Function #2.](https://dev.to/abdumomin0/function-2-412b)
-- [Switch statement haqida](https://dev.to/munisa_kuranbekova_078e1e/switch-statement-haqida-3nak)
-- [Chekhov&#39;s gun principle for testing](https://dev.to/katafrakt/chekhovs-gun-principle-for-testing-aa4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
