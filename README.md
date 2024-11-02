@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Pythonic Time Capsule: Must-Know Features from Each Version](https://dev.to/cquark7/pythonic-time-capsule-must-know-features-from-each-version-1795)
-- [SQL - Dia 7](https://dev.to/technonotes/sql-day-7-8hj)
-- [Lightweight Kubernetes and Wasm is a Perfect Combo](https://dev.to/fermyon/lightweight-kubernetes-and-wasm-is-a-perfect-combo-5h11)
-- [France ioi La Grande Braderie probleme &lpar;easy lvl&rpar;](https://dev.to/aziz999/france-ioi-la-grande-braderie-probleme-easy-lvl-2k5n)
-- [Day 1051 : Cruise Control](https://dev.to/dwane/day-1051-cruise-control-59jk)
+- [Janus WebRTC server and SFU: a real time video calling app](https://dev.to/alakkadshaw/janus-webrtc-server-and-sfu-a-real-time-video-calling-app-23p8)
+- [10 First Git Commands You Need to Know](https://dev.to/mohsenkamrani/10-first-git-commands-you-need-to-know-337i)
+- [This is My Experience with Hactoberfest as a Contributer](https://dev.to/piyush_sahu_3d5f00a6ad741/this-is-my-experience-with-hactoberfest-as-a-contributer-p0j)
+- [The Curious Case of the $15,000 Spam: My Unexpected Investigation](https://dev.to/programmerraja/the-curious-case-of-the-15000-spam-my-unexpected-investigation-1llg)
+- [Deploying an NFTs Marketplace Solution on AWS Super Fast](https://dev.to/anhdung/deploying-an-nfts-marketplace-solution-on-aws-super-fast-411o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
