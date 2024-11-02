@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🌐 Golang gRPC with Auth Interceptor, Streaming and Gateway in Practice 🐹](https://dev.to/truongpx396/golang-grpc-with-auth-interceptor-streaming-and-gateway-in-practice-24b8)
-- [Enhancing Kubernetes Networking: The Advantages of IPVS Over iptables](https://dev.to/farshad_nick/enhancing-kubernetes-networking-the-advantages-of-ipvs-over-iptables-12jb)
-- [Codecademy|software-development-concepts-project](https://dev.to/roasty_f1830169c03843ebf8/codecademysoftware-development-concepts-project-dnc)
-- [Secure Software Development on AWS](https://dev.to/ikoh_sylva/secure-software-development-on-aws-3p2a)
-- [Escape Road Unblocked: A Browser-Based Police Chase Game with Next.js 14](https://dev.to/_ab56e9bbfaff3a478352a/escape-road-unblocked-a-browser-based-police-chase-game-with-nextjs-14-2im6)
+- [How to Create a Gamertag Generator App Using Next.js](https://dev.to/codeitbro/how-to-create-a-gamertag-generator-app-using-nextjs-1fj0)
+- [Logical operator](https://dev.to/sanjar777/logical-operator-2ie)
+- [C++ dasturlash tilida funksiya.](https://dev.to/alisher0909/c-dasturlash-tilida-funksiya-3d0l)
+- [My First Hacktoberfest experience as a contributor.](https://dev.to/motuncoded/my-first-hacktoberfest-experience-as-a-contributor-4l3n)
+- [Infinte loop](https://dev.to/mahamadjon000/infinte-loop-488n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
