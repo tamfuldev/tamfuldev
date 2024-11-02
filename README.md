@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Transitioning from Win to Mac 2- Managing ARM and x86 nodeJS and Python versions](https://dev.to/pakos/transitioning-from-win-to-mac-2-managing-arm-and-x86-nodejs-and-python-versions-32n4)
-- [Transitioning from Win to Mac 1-Downloading software](https://dev.to/pakos/transitioning-from-win-to-mac-1-downloading-software-810)
-- [Understanding Git Branching in 5 Minutes](https://dev.to/trinityyi/understanding-git-branching-in-5-minutes-48bk)
-- [Modern Dependency Injection with Koin: The Smart DI Choice for 2025](https://dev.to/arsenikavalchuk/modern-dependency-injection-with-koin-the-smart-di-choice-for-2025-550i)
-- [A Simple Guide to Docker Compose &amp; Multi-Container Applications](https://dev.to/mukhilpadmanabhan/a-simple-guide-to-docker-compose-multi-container-applications-5e0g)
+- [Modern HTML5 Boilerplate](https://dev.to/dev007777/modern-html5-boilerplate-3ma7)
+- [🔓 Unlock the Power of the Context API in React: A Step-by-Step Guide 🚀](https://dev.to/asimachowdhury/unlock-the-power-of-the-context-api-in-react-a-step-by-step-guide-1ffk)
+- [Retrieving Original Documents via Summaries with Weaviate and LangChain](https://dev.to/oleh-halytskyi/retrieving-original-documents-via-summaries-with-weaviate-and-langchain-2a68)
+- [As a software engineer or UX UI, you must be good at data analysis 👌](https://dev.to/nada2react/as-a-software-engineer-or-ux-ui-you-must-be-good-at-data-analysis-1dhn)
+- [Deploying a Windows 11 Virtual Machine on Azure](https://dev.to/unique-tea/deploying-a-windows-11-virtual-machine-on-azure-1d14)
 <!-- BLOG-POST-LIST:END -->
 
 ---
