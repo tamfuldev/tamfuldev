@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to view manually installed packages in ubuntu](https://dev.to/hariharanumapathi/how-to-view-manually-installed-packages-in-ubuntu-1pgc)
-- [Provide private storage for internal company documents](https://dev.to/emmanuel_cobham/provide-private-storage-for-internal-company-documents-3mkd)
-- [🚀 Mastering Microfrontends: Coexisting Vue 2 and Vue 3 in Large-Scale Applications 🚀](https://dev.to/jhony/mastering-microfrontends-coexisting-vue-2-and-vue-3-in-large-scale-applications-1g3d)
-- [To Django or to DjangoREST?](https://dev.to/ru0ya/to-django-or-to-djangorest-1k01)
-- [Vite VS Create-React-App - What you need to know](https://dev.to/symplymuslimah12/vite-vs-create-react-app-what-you-need-to-know-3mad)
+- [Duckdb — O novo banco de dados dos Big Data](https://dev.to/airton_lirajunior_2ddebd/duckdb-o-novo-banco-de-dados-dos-big-data-1o6k)
+- [Supercharging Your Knowledge Management: Integrating Obsidian with n8n for Automated Note-Taking Workflows](https://dev.to/airabbit/supercharging-your-knowledge-management-integrating-obsidian-with-n8n-for-automated-note-taking-workflows-38il)
+- [Criando um LLM do zero com Transformers](https://dev.to/airton_lirajunior_2ddebd/criando-um-llm-do-zero-com-transformers-13cf)
+- [TIL C11 Annex K exists but you shouldn&#39;t use it](https://dev.to/jcbhmr/til-c11-annex-k-exists-but-you-shouldnt-use-it-31ji)
+- [TIL emalloc&lpar;&rpar; auto-exits on out-of-memory errors](https://dev.to/jcbhmr/til-emalloc-auto-exits-on-out-of-memory-errors-12n9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
