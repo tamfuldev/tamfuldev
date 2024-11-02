@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Modern HTML5 Boilerplate](https://dev.to/dev007777/modern-html5-boilerplate-3ma7)
-- [🔓 Unlock the Power of the Context API in React: A Step-by-Step Guide 🚀](https://dev.to/asimachowdhury/unlock-the-power-of-the-context-api-in-react-a-step-by-step-guide-1ffk)
-- [Retrieving Original Documents via Summaries with Weaviate and LangChain](https://dev.to/oleh-halytskyi/retrieving-original-documents-via-summaries-with-weaviate-and-langchain-2a68)
-- [As a software engineer or UX UI, you must be good at data analysis 👌](https://dev.to/nada2react/as-a-software-engineer-or-ux-ui-you-must-be-good-at-data-analysis-1dhn)
-- [Deploying a Windows 11 Virtual Machine on Azure](https://dev.to/unique-tea/deploying-a-windows-11-virtual-machine-on-azure-1d14)
+- [System Design of a Referral System](https://dev.to/vaib215/system-design-of-a-referral-system-4hik)
+- [Lendo a entrada do console](https://dev.to/devsjavagirls/metodos-de-leitura-do-inputstream-jj5)
+- [Fluxos predefinidos e Usando os fluxos de bytes](https://dev.to/devsjavagirls/fluxos-predefinidos-e-usando-os-fluxos-de-bytes-1m8)
+- [Mastering Version Control with &quot;Write Yourself a Git!&quot;](https://dev.to/getvm/mastering-version-control-with-write-yourself-a-git-10fk)
+- [Go 1.23&#39;s Game-Changing unique Package: Supercharge Your Data Deduplication](https://dev.to/conquerym/go-123s-game-changing-unique-package-supercharge-your-data-deduplication-46n8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
