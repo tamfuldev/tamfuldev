@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Halloween themed hero section. Coding timelapse](https://dev.to/paul_freeman/halloween-themed-hero-section-coding-timelapse-4oec)
-- [Mastering Lambda Expressions in Java 8: A Comprehensive Guide](https://dev.to/dhanush9952/mastering-lambda-expressions-in-java-8-a-comprehensive-guide-27bf)
-- [Day 3 step](https://dev.to/paradox007/day-3-step-2ip8)
-- [else if](https://dev.to/mahamadjon000/else-if-4kbh)
-- [Handling nested roles in Keycloak](https://dev.to/im_santhiya_guna/handling-nested-roles-in-keycloak-3lfk)
+- [🌐 Golang gRPC with Auth Interceptor, Streaming and Gateway in Practice 🐹](https://dev.to/truongpx396/golang-grpc-with-auth-interceptor-streaming-and-gateway-in-practice-24b8)
+- [Enhancing Kubernetes Networking: The Advantages of IPVS Over iptables](https://dev.to/farshad_nick/enhancing-kubernetes-networking-the-advantages-of-ipvs-over-iptables-12jb)
+- [Codecademy|software-development-concepts-project](https://dev.to/roasty_f1830169c03843ebf8/codecademysoftware-development-concepts-project-dnc)
+- [Secure Software Development on AWS](https://dev.to/ikoh_sylva/secure-software-development-on-aws-3p2a)
+- [Escape Road Unblocked: A Browser-Based Police Chase Game with Next.js 14](https://dev.to/_ab56e9bbfaff3a478352a/escape-road-unblocked-a-browser-based-police-chase-game-with-nextjs-14-2im6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
