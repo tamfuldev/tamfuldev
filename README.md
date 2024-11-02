@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Gerando Dados Falsos para Testes com Bogus](https://dev.to/juarezasjunior/gerando-dados-falsos-para-testes-com-bogus-18o6)
-- [RAG Explained: Indexing and Vector Database](https://dev.to/busycaesar/rag-explained-indexing-and-vector-database-46pg)
-- [Generating Fake Data for Testing with Bogus](https://dev.to/juarezasjunior/generating-fake-data-for-testing-with-bogus-4ca6)
-- [Install Apache on Windows in a Few Simple Steps](https://dev.to/techelopment/install-apache-on-windows-in-a-few-simple-steps-2kjb)
-- [Learn more about SW testing frameworks](https://dev.to/magi-magificient/learn-more-about-sw-testing-frameworks-1jj3)
+- [Conditional operator](https://dev.to/munisa_kuranbekova_078e1e/conditional-operator-1lfd)
+- [PWC 293 Similar Dominos Done Badly](https://dev.to/boblied/pwc-293-similar-dominos-done-badly-4gpc)
+- [Function #2.](https://dev.to/abdumomin0/function-2-412b)
+- [Switch statement haqida](https://dev.to/munisa_kuranbekova_078e1e/switch-statement-haqida-3nak)
+- [Chekhov&#39;s gun principle for testing](https://dev.to/katafrakt/chekhovs-gun-principle-for-testing-aa4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
