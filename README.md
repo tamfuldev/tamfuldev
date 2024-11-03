@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Node JS Docker Deployment with lambda &amp; API Gateway](https://dev.to/avdhut_nalawade_6ada59c61/node-js-docker-deployment-with-lambda-api-gateway-4eco)
-- [The Evolution of Frontend Development: Exploring Different Architectures](https://dev.to/it_vturbo/the-evolution-of-frontend-development-exploring-different-architectures-6og)
-- [Is there a way to capture a Leaflet map &lpar;with geometric features&rpar; into a PDF, without encountering offset issues?](https://dev.to/arthur2017ui/is-there-a-way-to-capture-a-leaflet-map-with-geometric-features-into-a-pdf-without-encountering-offset-issues-1gfa)
-- [Complete Linux Essentials!](https://dev.to/navv23/complete-linux-essentials-6n4)
-- [Practice AWS Certification Question: AWS Solutions Architect Professional — Lambda — ECR](https://dev.to/aws-builders/practice-aws-certification-question-aws-solutions-architect-professional-lambda-ecr-2717)
+- [Constructors in java](https://dev.to/devmercy/constructors-in-java-13b5)
+- [Storing passwords safely &lpar;C#&rpar;](https://dev.to/karenpayneoregon/storing-passwords-safely-c-ifh)
+- [CSS and Styles Not Loading for Client on WordPress Site Hosted on Hostinger](https://dev.to/vikas_koppoju_28f56808d7c/css-and-styles-not-loading-for-client-on-wordpress-site-hosted-on-hostinger-16f4)
+- [useMemo vs useCallback in React](https://dev.to/wafa_bergaoui/usememo-vs-usecallback-in-react-1l9o)
+- [Speeding Up Foreign Key Constraints During Migrations](https://dev.to/yugabyte/speeding-up-foreign-key-constraints-during-migrations-3a9o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
