@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Video Room Management API: Integrating Go, Twilio, and Zap Logging](https://dev.to/dioarafi/building-a-video-room-management-api-integrating-go-twilio-and-zap-logging-1306)
-- [Storybook: The Workshop for Modern Frontends](https://dev.to/kairoeder/storybook-the-workshop-for-modern-frontends-1d6e)
-- [CKA Full Course 2024: Day 13/40 Static Pods, Manual Scheduling, Labels, and Selectors in Kubernetes](https://dev.to/lloydrivers/cka-full-course-2024-day-1340-static-pods-manual-scheduling-labels-and-selectors-in-kubernetes-29jb)
-- [How to create an App Service Application and upload into it &lpar;WEB APP&rpar;](https://dev.to/ajayi/how-to-create-an-app-service-application-and-upload-into-it-web-app-36nn)
-- [Symfony Station Communiqué — 01 November 2024. A look at Symfony, Drupal, PHP, and programming news!](https://dev.to/reubenwalker64/symfony-station-communique-01-november-2024-a-look-at-symfony-drupal-php-and-programming-news-3ac7)
+- [Building the Next Great MMORPG: A Community-Driven Approach Inspired by Dofus/Wakfu](https://dev.to/zexid/building-the-next-great-mmorpg-a-community-driven-approach-inspired-by-dofuswakfu-301j)
+- [Leetcode — Top Interview 150–169. Majority Element](https://dev.to/bendlmp/leetcode-top-interview-150-169-majority-element-4a1d)
+- [SPO-lab-4: Assembly in x86_64 &amp; ARM64](https://dev.to/krinskumar/spo-lab-4-assembly-in-x8664-arm64-1fa4)
+- [c# clean code: Guide to Defining and Structuring Classes](https://dev.to/moh_moh701/c-clean-code-guide-to-defining-and-structuring-classes-1dgl)
+- [Modern Traffic Management with Gateway API in Kubernetes](https://dev.to/alialp/modern-traffic-management-with-gateway-api-in-kubernetes-19dp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
