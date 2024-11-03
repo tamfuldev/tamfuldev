@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Constructors in java](https://dev.to/devmercy/constructors-in-java-13b5)
-- [Storing passwords safely &lpar;C#&rpar;](https://dev.to/karenpayneoregon/storing-passwords-safely-c-ifh)
-- [CSS and Styles Not Loading for Client on WordPress Site Hosted on Hostinger](https://dev.to/vikas_koppoju_28f56808d7c/css-and-styles-not-loading-for-client-on-wordpress-site-hosted-on-hostinger-16f4)
-- [useMemo vs useCallback in React](https://dev.to/wafa_bergaoui/usememo-vs-usecallback-in-react-1l9o)
-- [Speeding Up Foreign Key Constraints During Migrations](https://dev.to/yugabyte/speeding-up-foreign-key-constraints-during-migrations-3a9o)
+- [AWS CDK + Localstack &lpar;API Gateway, Lambda, SQS, DynamoDB,TypeScript&rpar;](https://dev.to/gins_cyriac/aws-cdk-localstack-api-gateway-lambda-sqs-dynamodbtypescript-man)
+- [Ensuring Deployment Accuracy with air sandbox diff in AbInitio](https://dev.to/somnathseeni/ensuring-deployment-accuracy-with-air-sandbox-diff-in-abinitio-pp2)
+- [My First Open Source Contribution @microsoft](https://dev.to/inder4code/my-first-open-source-contribution-microsoft-542c)
+- [Understanding {:via, Registry, {...}} vs Registry.register/3 in Elixir](https://dev.to/marknefedov/understanding-via-registry-vs-registryregister3-in-elixir-56go)
+- [Java и Тайна Исчезающей Памяти!](https://dev.to/easycat/java-i-taina-ischiezaiushchiei-pamiati-2joa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
