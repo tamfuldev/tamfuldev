@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building the Next Great MMORPG: A Community-Driven Approach Inspired by Dofus/Wakfu](https://dev.to/zexid/building-the-next-great-mmorpg-a-community-driven-approach-inspired-by-dofuswakfu-301j)
-- [Leetcode — Top Interview 150–169. Majority Element](https://dev.to/bendlmp/leetcode-top-interview-150-169-majority-element-4a1d)
-- [SPO-lab-4: Assembly in x86_64 &amp; ARM64](https://dev.to/krinskumar/spo-lab-4-assembly-in-x8664-arm64-1fa4)
-- [c# clean code: Guide to Defining and Structuring Classes](https://dev.to/moh_moh701/c-clean-code-guide-to-defining-and-structuring-classes-1dgl)
-- [Modern Traffic Management with Gateway API in Kubernetes](https://dev.to/alialp/modern-traffic-management-with-gateway-api-in-kubernetes-19dp)
+- [9 Steps for JWT Authentication in Node.js Application](https://dev.to/safdarali/9-steps-for-jwt-authentication-in-nodejs-application-cgk)
+- [Debug and Monitor Java App with VisualVM and jstack](https://dev.to/anwaar/debug-and-monitor-java-app-with-visualvm-and-jstack-aoa)
+- [Argument Against Solving the Double Data Problem in JavaScript SSR Frameworks](https://dev.to/jlarky/argument-against-solving-the-double-data-problem-in-javascript-ssr-frameworks-5dpj)
+- [Hacktoberfest: Animation.](https://dev.to/jarvisscript/hacktoberfest-animation-21l3)
+- [Criando uma Aplicação Web para QA Testers: Lista de Tarefas de Qualidade](https://dev.to/marquezbertin/criando-uma-aplicacao-web-para-qa-testers-lista-de-tarefas-de-qualidade-3bm9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
