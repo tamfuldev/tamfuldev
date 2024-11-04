@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [9 Steps for JWT Authentication in Node.js Application](https://dev.to/safdarali/9-steps-for-jwt-authentication-in-nodejs-application-cgk)
-- [Debug and Monitor Java App with VisualVM and jstack](https://dev.to/anwaar/debug-and-monitor-java-app-with-visualvm-and-jstack-aoa)
-- [Argument Against Solving the Double Data Problem in JavaScript SSR Frameworks](https://dev.to/jlarky/argument-against-solving-the-double-data-problem-in-javascript-ssr-frameworks-5dpj)
-- [Hacktoberfest: Animation.](https://dev.to/jarvisscript/hacktoberfest-animation-21l3)
-- [Criando uma Aplicação Web para QA Testers: Lista de Tarefas de Qualidade](https://dev.to/marquezbertin/criando-uma-aplicacao-web-para-qa-testers-lista-de-tarefas-de-qualidade-3bm9)
+- [A Hacktoberfest 2024 Journey: Insights from a First-Time Project Maintainer](https://dev.to/tjtanjin/a-hacktoberfest-2024-journey-insights-from-a-first-time-project-maintainer-96l)
+- [Understanding Compiler Passes: A Deep Dive into GCC Compilation](https://dev.to/krinskumar/understanding-compiler-passes-a-deep-dive-into-gcc-compilation-5h5g)
+- [Auto publish NPM packages using changesets and GitHub Actions](https://dev.to/wdsebastian/simplest-way-to-publish-and-automate-npm-packages-d0c)
+- [My 14-Day Learning Journey with HackQuest](https://dev.to/arup_matabber/my-14-day-learning-journey-with-hackquest-nh6)
+- [isclose in PyTorch](https://dev.to/hyperkai/isclose-in-pytorch-57ga)
 <!-- BLOG-POST-LIST:END -->
 
 ---
