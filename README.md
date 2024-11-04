@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What does a Generative Adversarial Network &lpar;GAN&rpar; mean to Data Scientists and AI?](https://dev.to/anu_jose_b65039ffc480c4b2/what-does-a-generative-adversarial-network-gan-mean-to-data-scientists-and-ai-1b9i)
-- [Solving Inheritance Compatibility Issues Between LayerZero&#39;s NonblockingLzApp and OpenZeppelin&#39;s Ownable](https://dev.to/jeffersonnnn/solving-inheritance-compatibility-issues-between-layerzeros-nonblockinglzapp-and-openzeppelins-ownable-3nae)
-- [What is GitHub Spark? Build Web Apps in Plain English](https://dev.to/viitorcloud/what-is-github-spark-build-web-apps-in-plain-english-7k1)
-- [Speed Up Microservices Development with Dapr on AWS EK](https://dev.to/aws-builders/speed-up-microservices-development-with-dapr-on-aws-ek-85l)
-- [How to create a bubble animation with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/how-to-create-a-bubble-animation-with-tailwind-css-and-javascript-4eb)
+- [WebGPU is Amazing: I Built Two Lightning-Fast AI Image Processing Tools!](https://dev.to/bytefer/webgpu-is-amazing-i-built-two-lightning-fast-ai-image-processing-tools-2c4k)
+- [Creating a Culture of Continuous Improvement in Support Teams](https://dev.to/kubeha_18/creating-a-culture-of-continuous-improvement-in-support-teams-jm5)
+- [Custom Toasters in Nuxt with Vue Toastification](https://dev.to/elifnurturk/custom-toasters-in-nuxt-with-vue-toastification-10ai)
+- [Your Insight Can Transform Developer Learning!](https://dev.to/kc900201/your-insight-can-transform-developer-learning-p6i)
+- [How Prepared for an Optimizely Interview: A Journey from Nervous to Confident](https://dev.to/alaminkarno/how-prepared-for-an-optimizely-interview-a-journey-from-nervous-to-confident-3ego)
 <!-- BLOG-POST-LIST:END -->
 
 ---
