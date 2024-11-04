@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Yoga and Meditation for Better Sleep in Students](https://dev.to/jana-shantanu/yoga-and-meditation-for-better-sleep-in-students-2903)
-- [Tom and Jerry cards with illusionsitic effect with html css and javascript](https://dev.to/prince_beec5ccde00b7c6c73/tom-and-jerry-cards-with-illusionsitic-effect-with-html-css-and-javascript-2io5)
-- [Average Reads and &quot;Do It Anyway&quot;](https://dev.to/haleyelder/average-reads-and-do-it-anyway-1a2a)
-- [10 Cool CodePen Demos &lpar;October 2024&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-october-2024-1li0)
-- [Promise - JavaScript challenges](https://dev.to/mitchell_cheng/promise-javascript-challenges-2p29)
+- [Understanding Batch SQL Injection: A Real-World Threat to Data Security](https://dev.to/adityabhuyan/understanding-batch-sql-injection-a-real-world-threat-to-data-security-3nm8)
+- [The Rise of AI in Cybersecurity: Opportunities and Challenges](https://dev.to/genius_introuble/the-rise-of-ai-in-cybersecurity-opportunities-and-challenges-1ka)
+- [&quot;5 Essential CSS Tips for Improving Responsive Design&quot;](https://dev.to/vsfarooqkhan/5-essential-css-tips-for-improving-responsive-design-1b54)
+- [Responsive Mobile Web Testing Strategies: Ensuring Optimal User Experience](https://dev.to/misterankit/responsive-mobile-web-testing-strategies-ensuring-optimal-user-experience-5b67)
+- [A vs B: Which Book Cover Speaks to You? [Quick Poll]](https://dev.to/techbalance_collective/a-vs-b-which-book-cover-speaks-to-you-quick-poll-22hg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
