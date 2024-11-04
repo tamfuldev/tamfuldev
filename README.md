@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Nuances of the Java Scanner Class](https://dev.to/arshisaxena26/exploring-nuances-of-the-java-scanner-class-1aim)
-- [Seeing the Future: How Computer Vision is Transforming Industries Through AI](https://dev.to/bitedaisy84/seeing-the-future-how-computer-vision-is-transforming-industries-through-ai-4al9)
-- [Quick Guide to INSERT Queries in MySQL](https://dev.to/dbvismarketing/quick-guide-to-insert-queries-in-mysql-2h6p)
-- [Long weekends and short updates](https://dev.to/giuliano1993/long-weekends-and-short-updates-11ad)
-- [Visionary Innovations: How Computer Vision is Transforming Industries with AI](https://dev.to/faucetlink11/visionary-innovations-how-computer-vision-is-transforming-industries-with-ai-5bli)
+- [What does a Generative Adversarial Network &lpar;GAN&rpar; mean to Data Scientists and AI?](https://dev.to/anu_jose_b65039ffc480c4b2/what-does-a-generative-adversarial-network-gan-mean-to-data-scientists-and-ai-1b9i)
+- [Solving Inheritance Compatibility Issues Between LayerZero&#39;s NonblockingLzApp and OpenZeppelin&#39;s Ownable](https://dev.to/jeffersonnnn/solving-inheritance-compatibility-issues-between-layerzeros-nonblockinglzapp-and-openzeppelins-ownable-3nae)
+- [What is GitHub Spark? Build Web Apps in Plain English](https://dev.to/viitorcloud/what-is-github-spark-build-web-apps-in-plain-english-7k1)
+- [Speed Up Microservices Development with Dapr on AWS EK](https://dev.to/aws-builders/speed-up-microservices-development-with-dapr-on-aws-ek-85l)
+- [How to create a bubble animation with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/how-to-create-a-bubble-animation-with-tailwind-css-and-javascript-4eb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
