@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Dynamic Model in the CodeBehind Framework](https://dev.to/elanatframework/creating-a-dynamic-model-in-the-codebehind-framework-2b3g)
-- [Day 56. Collapsing logic](https://dev.to/kiolk/day-56-collapsing-logic-1mjl)
-- [NodeList and HTMLCollection : Live collection and Static collection](https://dev.to/sonaykara/nodelist-and-htmlcollectio-1195)
-- [1minDocker #5 - Build and push a Docker image](https://dev.to/astrabert/1mindocker-5-build-and-push-a-docker-image-1kpm)
-- [Apache redirects, even after fresh install](https://dev.to/jonathan_bauer_cbad9050c9/apache-redirects-even-after-fresh-install-356f)
+- [Understanding merge sort algorithm: Beginner&#39;s guide to mastering sorting algorithm](https://dev.to/emmanuelayinde/understanding-merge-sort-algorithm-beginners-guide-to-mastering-sorting-algorithm-2jp8)
+- [🚀 5 Browser Extensions That Will Boost Your Development](https://dev.to/yanaiara/5-browser-extensions-that-will-boost-your-development-173n)
+- [Crafting a Scalable Node.js API: Insights from My RealWorld Project with Express, Knex, and AWS CDK](https://dev.to/ken2026/crafting-a-scalable-nodejs-api-insights-from-my-realworld-project-with-express-knex-and-aws-cdk-4ol5)
+- [Jakarta EE, Java &amp; Jboss compatibility.](https://dev.to/soniya_chavan_f9c975382fe/jakarta-ee-java-jboss-compatibility-4obo)
+- [Leveraging Python&#39;s Pattern Matching and Comprehensions for Data Analytics](https://dev.to/alexmercedcoder/leveraging-pythons-pattern-matching-and-comprehensions-for-data-analytics-445j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
