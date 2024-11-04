@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Hacktoberfest 2024 Journey: Insights from a First-Time Project Maintainer](https://dev.to/tjtanjin/a-hacktoberfest-2024-journey-insights-from-a-first-time-project-maintainer-96l)
-- [Understanding Compiler Passes: A Deep Dive into GCC Compilation](https://dev.to/krinskumar/understanding-compiler-passes-a-deep-dive-into-gcc-compilation-5h5g)
-- [Auto publish NPM packages using changesets and GitHub Actions](https://dev.to/wdsebastian/simplest-way-to-publish-and-automate-npm-packages-d0c)
-- [My 14-Day Learning Journey with HackQuest](https://dev.to/arup_matabber/my-14-day-learning-journey-with-hackquest-nh6)
-- [isclose in PyTorch](https://dev.to/hyperkai/isclose-in-pytorch-57ga)
+- [From Vanar Sena to Low Code Champions: Lessons from the Ramayana for Digital Transformation](https://dev.to/balagmadhu/from-vanar-sena-to-low-code-champions-lessons-from-the-ramayana-for-digital-transformation-4dpa)
+- [在 HarmonyOS Next 中使用 Core File Kit 管理应用文件](https://dev.to/xun_wang_6384a403f9817c2/zai-harmonyos-next-zhong-shi-yong-core-file-kit-guan-li-ying-yong-wen-jian-5e0p)
+- [Management of Backup Folders and Data Directory Mapping in HarmonyOS](https://dev.to/xun_wang_6384a403f9817c2/management-of-backup-folders-and-data-directory-mapping-in-harmonyos-2ecm)
+- [备份文件夹与数据目录映射在 HarmonyOS 中的管理](https://dev.to/xun_wang_6384a403f9817c2/bei-fen-wen-jian-jia-yu-shu-ju-mu-lu-ying-she-zai-harmonyos-zhong-de-guan-li-101)
+- [Is there an Alternative to Debezium + Kafka?](https://dev.to/lazypro/is-there-an-alternative-to-debezium-kafka-1abk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
