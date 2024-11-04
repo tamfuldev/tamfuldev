@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I built my first mechanical keyboard [Tutorial] [Part 1]](https://dev.to/miriacode/how-i-built-my-first-mechanical-keyboard-tutorial-part-1-4oe)
-- [Quality isn&#39;t a four letter word](https://dev.to/cheetah100/quality-isnt-a-four-letter-word-4jc6)
-- [Callback - JavaScript Challenges](https://dev.to/mitchell_cheng/callback-javascript-challenges-2a5o)
-- [User File Access and Permission Control Based on File Access Framework in HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/user-file-access-and-permission-control-based-on-file-access-framework-in-harmonyos-next-290b)
-- [HarmonyOS Next基于 File Access Framework 的用户文件访问与权限控制](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-nextji-yu-file-access-framework-de-yong-hu-wen-jian-fang-wen-yu-quan-xian-kong-zhi-2b4n)
+- [Yoga and Meditation for Better Sleep in Students](https://dev.to/jana-shantanu/yoga-and-meditation-for-better-sleep-in-students-2903)
+- [Tom and Jerry cards with illusionsitic effect with html css and javascript](https://dev.to/prince_beec5ccde00b7c6c73/tom-and-jerry-cards-with-illusionsitic-effect-with-html-css-and-javascript-2io5)
+- [Average Reads and &quot;Do It Anyway&quot;](https://dev.to/haleyelder/average-reads-and-do-it-anyway-1a2a)
+- [10 Cool CodePen Demos &lpar;October 2024&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-october-2024-1li0)
+- [Promise - JavaScript challenges](https://dev.to/mitchell_cheng/promise-javascript-challenges-2p29)
 <!-- BLOG-POST-LIST:END -->
 
 ---
