@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Batch SQL Injection: A Real-World Threat to Data Security](https://dev.to/adityabhuyan/understanding-batch-sql-injection-a-real-world-threat-to-data-security-3nm8)
-- [The Rise of AI in Cybersecurity: Opportunities and Challenges](https://dev.to/genius_introuble/the-rise-of-ai-in-cybersecurity-opportunities-and-challenges-1ka)
-- [&quot;5 Essential CSS Tips for Improving Responsive Design&quot;](https://dev.to/vsfarooqkhan/5-essential-css-tips-for-improving-responsive-design-1b54)
-- [Responsive Mobile Web Testing Strategies: Ensuring Optimal User Experience](https://dev.to/misterankit/responsive-mobile-web-testing-strategies-ensuring-optimal-user-experience-5b67)
-- [A vs B: Which Book Cover Speaks to You? [Quick Poll]](https://dev.to/techbalance_collective/a-vs-b-which-book-cover-speaks-to-you-quick-poll-22hg)
+- [Rendering in Next.js](https://dev.to/anisriva/rendering-in-nextjs-4de1)
+- [Frontend Mentor Challenge: Form Validation](https://dev.to/kaoria/frontend-mentor-challenge-form-validation-4kdn)
+- [Laravel 11 Display Image from Storage Folder Example](https://dev.to/mshsayket/laravel-11-display-image-from-storage-folder-example-5bgg)
+- [How to Install Bootstrap 5 in Laravel 11 with Vite?](https://dev.to/mshsayket/how-to-install-bootstrap-5-in-laravel-11-with-vite-5b44)
+- [Deep Dive into Testing and Tooling: Insights from Lab 7](https://dev.to/inder4code/deep-dive-into-testing-and-tooling-insights-from-lab-7-58o2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
