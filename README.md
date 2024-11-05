@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Something Would Free Data Scientists from Heavy Coding Work](https://dev.to/esproc_spl/something-would-free-data-scientists-from-heavy-coding-work-5dk9)
-- [Git Undo Last Commit](https://dev.to/cicube/git-undo-last-commit-1jmh)
-- [Deleting Git Commits](https://dev.to/cicube/deleting-git-commits-1pa2)
-- [Functional Testing: An in-depth overview](https://dev.to/keploy/functional-testing-an-in-depth-overview-ge2)
-- [Essential Tips for Effective Destructuring in JavaScript](https://dev.to/wizdomtek/essential-tips-for-effective-destructuring-in-javascript-4jge)
+- [How to Set Up Postgres Using Docker](https://dev.to/bytebase/how-to-set-up-postgres-using-docker-c1d)
+- [Here’s how Lobechat applies typesafety to its environment variables in Next app](https://dev.to/thinkthroo/heres-how-lobechat-applies-typesafety-to-its-environment-variables-in-next-app-230m)
+- [Docker + MariaDB 에서 ERROR: &lpar;conn:4, no: 45009, SQLState: 08S01&rpar; socket has unexpectedly been closed](https://dev.to/__aa3e4bc832ba7032bfa3/docker-mariadb-eseo-error-conn4-no-45009-sqlstate-08s01-socket-has-unexpectedly-been-closed-2ln3)
+- [37 Java Microservices Interview Questions with Detailed Answers](https://dev.to/gameon_gameover_8f18dbb85/37-java-microservices-interview-questions-with-detailed-answers-528)
+- [How Intel Evo Enhances Your Work-from-Anywhere Lifestyle?](https://dev.to/trammygombez/how-intel-evo-enhances-your-work-from-anywhere-lifestyle-1lp0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
