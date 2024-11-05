@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [9 Open Source Projects Every Developer Needs to Bookmark 📚👨‍💻](https://dev.to/madza/9-open-source-projects-every-developer-needs-to-bookmark-4lk9)
-- [Hexagonal Architecture](https://dev.to/brunociccarino/hexagonal-architecture-1lal)
-- [Design Patterns for Backend Development](https://dev.to/divine_nnanna2/design-patterns-for-backend-development-1h57)
-- [23/365 Days | ¥10M Japan Job Challenge](https://dev.to/kameken100/23365-days-y10m-japan-job-challenge-26cc)
-- [AI Security: How to Protect Your Projects with Hardened ModelKits](https://dev.to/kitops/ai-security-how-to-protect-your-projects-with-hardened-modelkits-2bj7)
+- [How can I learn JavaScript effectively and practically?](https://dev.to/sangeetha_stephen_84e4c07/how-can-i-learn-javascript-effectively-and-practically-3oo6)
+- [How to Host a Laravel Project in a Subdirectory on Shared Hosting without Exposing `/public` in the URL](https://dev.to/msnmongare/how-to-host-a-laravel-project-in-a-subdirectory-on-shared-hosting-without-exposing-public-in-the-url-50cp)
+- [The illusion of simplicity: how OOP can overcomplicate simple problems](https://dev.to/prahladyeri/the-illusion-of-simplicity-how-oop-can-overcomplicate-simple-problems-23nf)
+- [WebSocket: The Backbone of Real-Time Communication in Modern Web Applications](https://dev.to/abhishekjaiswal_4896/websocket-the-backbone-of-real-time-communication-in-modern-web-applications-3b28)
+- [Scrapper Concorrente](https://dev.to/ionnss/scrapper-concorrente-hl3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
