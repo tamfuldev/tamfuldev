@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to insert elments using Javascript](https://dev.to/tanjiagang/how-to-insert-elments-using-javascript-12nl)
-- [How I Improved Video Streaming with FFmpeg and Node.js](https://dev.to/mayallo/how-i-improved-video-streaming-with-ffmpeg-and-nodejs-52lj)
-- [Must-have apps and services in 2024](https://dev.to/eminetto/must-have-apps-and-services-in-2024-4odp)
-- [No more Try/Catch: a better way to handle errors in TypeScript](https://dev.to/noah-00/no-more-trycatch-a-better-way-to-handle-errors-in-typescript-5hbd)
-- [Implementing Chain of Responsibility Pattern in C# : Middleware&#39;s Design Pattern](https://dev.to/dotnetfullstackdev/implementing-chain-of-responsibility-pattern-in-c-middlewares-design-pattern-16bl)
+- [Introduction to the event &quot;TinyGo Keeb Tour 2024&quot;](https://dev.to/sago35/introduction-to-the-event-tinygo-keeb-tour-2024-2n0c)
+- [🏗️ Building a Simple Load Balancer with Spring Boot: A Step-by-Step Guide](https://dev.to/sandeepkv93/building-a-simple-load-balancer-with-spring-boot-a-step-by-step-guide-24l3)
+- [Installing the best terminal emulator on Pop!_OS 22.04: Terminator](https://dev.to/alexandrecalaca/installing-the-best-terminal-emulator-on-popos-2204-terminator-28f7)
+- [Making Better Decisions with AI as Engineering Managers: A Prompt Guide](https://dev.to/adler_hsieh/making-better-decisions-with-ai-as-engineering-managers-a-prompt-guide-4gaj)
+- [Shapes - CSS challenges](https://dev.to/mitchell_cheng/shapes-css-challenges-14fb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
