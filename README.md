@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SAP S/4HANA Cloud](https://dev.to/dentrodailha96/sap-understanding-4f2p)
-- [Understanding LinkedIn Authwall: How it Works, Benefits, and Implementing it on Your Website](https://dev.to/nikhilxd/understanding-linkedin-authwall-how-it-works-benefits-and-implementing-it-on-your-website-3em1)
-- [Insights do ABES Summit 2024: Ponto de Inflexão — A Urgência da Nova Agenda Tecnológica](https://dev.to/technerdsup/insights-do-abes-summit-2024-ponto-de-inflexao-a-urgencia-da-nova-agenda-tecnologica-4ldj)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-26pg)
-- [Docker Bake: Storing your Docker build config](https://dev.to/shipyard/docker-bake-storing-your-docker-build-config-21in)
+- [useLayoutEffect vs useEffect: A Practical Guide to React Side Effects](https://dev.to/codeparrot/uselayouteffect-vs-useeffect-a-practical-guide-to-react-side-effects-478o)
+- [Deploying a MERN Project to Vercel: Frontend and Backend Separately](https://dev.to/mutalibb/deploying-a-mern-project-to-vercel-frontend-and-backend-separately-3hf0)
+- [Spinners in iOS 18 - #30DaysOfSwift](https://dev.to/thevediwho/spinners-in-ios-18-30daysofswift-21ob)
+- [Day 57. Replies](https://dev.to/kiolk/day-57-replies-4jd5)
+- [Zero-Downtime Blue-Green Deployment with a Simple &#39;git pull &amp; bash run.sh&#39; Command](https://dev.to/andrewkangg/zero-downtime-blue-green-deployment-with-a-simple-git-pull-bash-runsh-command-2k82)
 <!-- BLOG-POST-LIST:END -->
 
 ---
