@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What I learned while building my first game](https://dev.to/aws/what-i-learned-while-building-my-first-game-1li6)
-- [Loop haqida](https://dev.to/munisa_kuranbekova_078e1e/loop-haqida-23ef)
-- [Python Has Types, They Help](https://dev.to/jesterxl/python-has-types-they-help-586n)
-- [🐾 Dog Food Safety Checker – Help Me Make This Open-Source Tool Even Better!](https://dev.to/fayslshehzad/dog-food-safety-checker-help-me-make-this-open-source-tool-even-better-1kkj)
-- [Функция round в C++](https://dev.to/meesmsik/funktsiia-round-v-c-39gl)
+- [9 Open Source Projects Every Developer Needs to Bookmark 📚👨‍💻](https://dev.to/madza/9-open-source-projects-every-developer-needs-to-bookmark-4lk9)
+- [Hexagonal Architecture](https://dev.to/brunociccarino/hexagonal-architecture-1lal)
+- [Design Patterns for Backend Development](https://dev.to/divine_nnanna2/design-patterns-for-backend-development-1h57)
+- [23/365 Days | ¥10M Japan Job Challenge](https://dev.to/kameken100/23365-days-y10m-japan-job-challenge-26cc)
+- [AI Security: How to Protect Your Projects with Hardened ModelKits](https://dev.to/kitops/ai-security-how-to-protect-your-projects-with-hardened-modelkits-2bj7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
