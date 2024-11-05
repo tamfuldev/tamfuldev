@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How can I learn JavaScript effectively and practically?](https://dev.to/sangeetha_stephen_84e4c07/how-can-i-learn-javascript-effectively-and-practically-3oo6)
-- [How to Host a Laravel Project in a Subdirectory on Shared Hosting without Exposing `/public` in the URL](https://dev.to/msnmongare/how-to-host-a-laravel-project-in-a-subdirectory-on-shared-hosting-without-exposing-public-in-the-url-50cp)
-- [The illusion of simplicity: how OOP can overcomplicate simple problems](https://dev.to/prahladyeri/the-illusion-of-simplicity-how-oop-can-overcomplicate-simple-problems-23nf)
-- [WebSocket: The Backbone of Real-Time Communication in Modern Web Applications](https://dev.to/abhishekjaiswal_4896/websocket-the-backbone-of-real-time-communication-in-modern-web-applications-3b28)
-- [Scrapper Concorrente](https://dev.to/ionnss/scrapper-concorrente-hl3)
+- [SAP S/4HANA Cloud](https://dev.to/dentrodailha96/sap-understanding-4f2p)
+- [Understanding LinkedIn Authwall: How it Works, Benefits, and Implementing it on Your Website](https://dev.to/nikhilxd/understanding-linkedin-authwall-how-it-works-benefits-and-implementing-it-on-your-website-3em1)
+- [Insights do ABES Summit 2024: Ponto de Inflexão — A Urgência da Nova Agenda Tecnológica](https://dev.to/technerdsup/insights-do-abes-summit-2024-ponto-de-inflexao-a-urgencia-da-nova-agenda-tecnologica-4ldj)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-26pg)
+- [Docker Bake: Storing your Docker build config](https://dev.to/shipyard/docker-bake-storing-your-docker-build-config-21in)
 <!-- BLOG-POST-LIST:END -->
 
 ---
