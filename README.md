@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js 15 Deep Dive: Building a Notes App with Advanced Features](https://dev.to/stormsidali2001/nextjs-15-deep-dive-building-a-notes-app-with-advanced-features-k0h)
-- [Accuracy in Machine Learning: How Much Does It Matter?](https://dev.to/bikashdaga/accuracy-in-machine-learning-how-much-does-it-matter-1gij)
-- [Unwrapping JavaScript ES2024: Key Features Every Developer Should Know](https://dev.to/hkp22/unwrapping-javascript-es2024-key-features-every-developer-should-know-46c8)
-- [Developers Are The Gatekeepers](https://dev.to/polipo_gio/developers-are-the-gatekeepers-58bg)
-- [Understanding SQL Subqueries and Common Table Expressions &lpar;CTEs&rpar;](https://dev.to/moh_moh701/understanding-sql-subqueries-and-common-table-expressions-ctes-4ghb)
+- [Understanding APIs and Building Your Own 🚀](https://dev.to/lokesh_singh/from-zero-to-hero-understanding-apis-and-building-your-own-2ihf)
+- [HarmonyOS 应用升级场景下的数据迁移适配](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-ying-yong-sheng-ji-chang-jing-xia-de-shu-ju-qian-yi-gua-pei-1kh9)
+- [Boost Developer Productivity With LambdaTest and Netlify Integration](https://dev.to/devanshbhardwaj123/boost-developer-productivity-with-lambdatest-and-netlify-integration-27k8)
+- [Getting Started with Angular: An Introductory Guide 🚀](https://dev.to/itamartati/getting-started-with-angular-an-introductory-guide-3o5l)
+- [Effective Solutions for 403 Forbidden Nginx Proxy Manager Issues](https://dev.to/lewis_kerr_2d0d4c5b886b02/effective-solutions-for-403-forbidden-nginx-proxy-manager-issues-3hl8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
