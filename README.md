@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up Postgres Using Docker](https://dev.to/bytebase/how-to-set-up-postgres-using-docker-c1d)
-- [Here’s how Lobechat applies typesafety to its environment variables in Next app](https://dev.to/thinkthroo/heres-how-lobechat-applies-typesafety-to-its-environment-variables-in-next-app-230m)
-- [Docker + MariaDB 에서 ERROR: &lpar;conn:4, no: 45009, SQLState: 08S01&rpar; socket has unexpectedly been closed](https://dev.to/__aa3e4bc832ba7032bfa3/docker-mariadb-eseo-error-conn4-no-45009-sqlstate-08s01-socket-has-unexpectedly-been-closed-2ln3)
-- [37 Java Microservices Interview Questions with Detailed Answers](https://dev.to/gameon_gameover_8f18dbb85/37-java-microservices-interview-questions-with-detailed-answers-528)
-- [How Intel Evo Enhances Your Work-from-Anywhere Lifestyle?](https://dev.to/trammygombez/how-intel-evo-enhances-your-work-from-anywhere-lifestyle-1lp0)
+- [Next.js 15 Deep Dive: Building a Notes App with Advanced Features](https://dev.to/stormsidali2001/nextjs-15-deep-dive-building-a-notes-app-with-advanced-features-k0h)
+- [Accuracy in Machine Learning: How Much Does It Matter?](https://dev.to/bikashdaga/accuracy-in-machine-learning-how-much-does-it-matter-1gij)
+- [Unwrapping JavaScript ES2024: Key Features Every Developer Should Know](https://dev.to/hkp22/unwrapping-javascript-es2024-key-features-every-developer-should-know-46c8)
+- [Developers Are The Gatekeepers](https://dev.to/polipo_gio/developers-are-the-gatekeepers-58bg)
+- [Understanding SQL Subqueries and Common Table Expressions &lpar;CTEs&rpar;](https://dev.to/moh_moh701/understanding-sql-subqueries-and-common-table-expressions-ctes-4ghb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
