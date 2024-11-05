@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI Tools Every Developer Should Use for Automation](https://dev.to/viitorcloud/ai-tools-every-developer-should-use-for-automation-231i)
-- [From Beats to Bytes: AI&#39;s Musical Revolution](https://dev.to/iste-vit/from-beats-to-bytes-ais-musical-revolution-egn)
-- [iOS HealthKit Ionic Angular](https://dev.to/luis_diaz_19a878119983392/ios-healthkit-ionic-angular-35lm)
-- [Unison speed test](https://dev.to/tripleo/unison-speed-test-fno)
-- [Why C++ ?](https://dev.to/diwakar_verma_381fc6e5e2f/why-c--16d6)
+- [Something Would Free Data Scientists from Heavy Coding Work](https://dev.to/esproc_spl/something-would-free-data-scientists-from-heavy-coding-work-5dk9)
+- [Git Undo Last Commit](https://dev.to/cicube/git-undo-last-commit-1jmh)
+- [Deleting Git Commits](https://dev.to/cicube/deleting-git-commits-1pa2)
+- [Functional Testing: An in-depth overview](https://dev.to/keploy/functional-testing-an-in-depth-overview-ge2)
+- [Essential Tips for Effective Destructuring in JavaScript](https://dev.to/wizdomtek/essential-tips-for-effective-destructuring-in-javascript-4jge)
 <!-- BLOG-POST-LIST:END -->
 
 ---
