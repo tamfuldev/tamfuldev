@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding merge sort algorithm: Beginner&#39;s guide to mastering sorting algorithm](https://dev.to/emmanuelayinde/understanding-merge-sort-algorithm-beginners-guide-to-mastering-sorting-algorithm-2jp8)
-- [🚀 5 Browser Extensions That Will Boost Your Development](https://dev.to/yanaiara/5-browser-extensions-that-will-boost-your-development-173n)
-- [Crafting a Scalable Node.js API: Insights from My RealWorld Project with Express, Knex, and AWS CDK](https://dev.to/ken2026/crafting-a-scalable-nodejs-api-insights-from-my-realworld-project-with-express-knex-and-aws-cdk-4ol5)
-- [Jakarta EE, Java &amp; Jboss compatibility.](https://dev.to/soniya_chavan_f9c975382fe/jakarta-ee-java-jboss-compatibility-4obo)
-- [Leveraging Python&#39;s Pattern Matching and Comprehensions for Data Analytics](https://dev.to/alexmercedcoder/leveraging-pythons-pattern-matching-and-comprehensions-for-data-analytics-445j)
+- [How to insert elments using Javascript](https://dev.to/tanjiagang/how-to-insert-elments-using-javascript-12nl)
+- [How I Improved Video Streaming with FFmpeg and Node.js](https://dev.to/mayallo/how-i-improved-video-streaming-with-ffmpeg-and-nodejs-52lj)
+- [Must-have apps and services in 2024](https://dev.to/eminetto/must-have-apps-and-services-in-2024-4odp)
+- [No more Try/Catch: a better way to handle errors in TypeScript](https://dev.to/noah-00/no-more-trycatch-a-better-way-to-handle-errors-in-typescript-5hbd)
+- [Implementing Chain of Responsibility Pattern in C# : Middleware&#39;s Design Pattern](https://dev.to/dotnetfullstackdev/implementing-chain-of-responsibility-pattern-in-c-middlewares-design-pattern-16bl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
