@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a 3-Tier Application on AWS : A Step-by-Step Guide](https://dev.to/i_am_vesh/building-a-3-tier-application-on-aws-a-step-by-step-guide-339f)
-- [412. Fizz Buzz](https://dev.to/sharif_shariutullah/412-fizz-buzz-3api)
-- [Welcome to ViraXpress &lpar;Open source Magento frontend&rpar;](https://dev.to/viraxpress/welcome-to-viraxpress-open-source-magento-frontend-4jih)
-- [GBASE数据库 | GBase 8a MPP Cluster - Cluster Manage Tool &lpar;1&rpar;](https://dev.to/congcong/gbaseshu-ju-ku-gbase-8a-mpp-cluster-cluster-manage-tool-4io7)
-- [Fuzzy Search vs Lexical Search: Understanding Modern Search Techniques](https://dev.to/sanikolaev/fuzzy-search-vs-lexical-search-understanding-modern-search-techniques-26a1)
+- [13 PHP Website Examples That Prove PHP Still Dominates](https://dev.to/dhruvil_joshi14/13-php-website-examples-that-prove-php-still-dominates-chi)
+- [Introducing learncreatine.com](https://dev.to/learncreatine/introducing-learncreatinecom-47dd)
+- [Visual Regression Testing Using Playwright](https://dev.to/testifytech/visual-regression-testing-using-playwright-c8l)
+- [Cheaper Distributed Inference Network](https://dev.to/xabri/cheaper-distributed-inference-network-21bf)
+- [Streamlit Part 6: Mastering Layouts](https://dev.to/jamesbmour/streamlit-part-6-mastering-layouts-4hci)
 <!-- BLOG-POST-LIST:END -->
 
 ---
