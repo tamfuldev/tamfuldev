@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Best Practices for Using Azure ATP in Hybrid Environments](https://dev.to/rachgrey/best-practices-for-using-azure-atp-in-hybrid-environments-70o)
-- [Observability - 6&lpar;Distributed Tracing using Jaeger&rpar;](https://dev.to/akhil_mittal/observability-6distributed-tracing-using-jaeger-397j)
-- [Palette Visualizer: Preview over 16,000+ palettes and Export to Code! 🎨✨](https://dev.to/thisisroushan/palette-visualizer-preview-over-16000-palettes-and-export-to-code-3ao2)
-- [Financial Calculations in Rust: Building a Reference Portfolio App from Firm Trades to Customer Earnings](https://dev.to/amaendeepm/financial-calculations-in-rust-building-a-reference-portfolio-app-from-firm-trades-to-customer-earnings-5gl2)
-- [Install Docker Desktop on Mac](https://dev.to/meghasharmaaaa/install-docker-desktop-on-mac-465d)
+- [Integrating BleuIO with Adafruit Feather RP2040 for Seamless BLE Applications Part 2](https://dev.to/bleuiot/integrating-bleuio-with-adafruit-feather-rp2040-for-seamless-ble-applications-part-2-1o1e)
+- [Can&#39;t find a permissible class errors only after building Spring Boot project](https://dev.to/emine_tekcan_9628ffbf4770/cant-find-a-permissible-class-errors-only-after-building-spring-boot-project-4m4b)
+- [Reading data from BLE device using Python, Microsoft Excel and BleuIO](https://dev.to/bleuiot/reading-data-from-ble-device-using-python-microsoft-excel-and-bleuio-24jg)
+- [Mastering Perspective in CSS: A Comprehensive Guide for Web Developers](https://dev.to/softheartengineer/mastering-perspective-in-css-a-comprehensive-guide-for-web-developers-4dh)
+- [Integrating BleuIO with Adafruit Feather RP2040 for Seamless BLE Applications](https://dev.to/bleuiot/integrating-bleuio-with-adafruit-feather-rp2040-for-seamless-ble-applications-3cff)
 <!-- BLOG-POST-LIST:END -->
 
 ---
