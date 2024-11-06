@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [7 Secrets to Optimize Your Web Performance](https://dev.to/izabellalbuquerque/7-secrets-to-optimize-your-web-performance-12eb)
-- [What I learned from achieving 100% code coverage](https://dev.to/acusset/what-i-learned-from-achieving-100-code-coverage-37p4)
-- [gem install error: incompatible function pointer types passing](https://dev.to/ugifractal/gem-install-error-incompatible-function-pointer-types-passing-2jp0)
-- [Creating Theme Systems in React with SCSS and Redux](https://dev.to/m1dnightdev/creating-theme-systems-in-react-with-scss-and-redux-2jp2)
-- [Como expandi o armazenamento da minha pasta /home com Block Storage](https://dev.to/marcos_vilela/como-expandi-o-armazenamento-da-minha-pasta-home-com-block-storage-4cjc)
+- [🚨 Made a LIVE 2024 election counter! Enjoy](https://dev.to/asadk/made-a-live-2024-election-counter-enjoy-1do0)
+- [Unflatten in PyTorch](https://dev.to/hyperkai/unflatten-in-pytorch-3i7g)
+- [Project 3](https://dev.to/paperdrago/project-3-39kf)
+- [Os Profissionais Invisíveis: A Nova Força Silenciosa no Mundo Corporativo](https://dev.to/jandersonsiqueira/os-profissionais-invisiveis-a-nova-forca-silenciosa-no-mundo-corporativo-1hac)
+- [Design0: Effortless Design for Everyone](https://dev.to/ppaanngggg/design0-effortless-design-for-everyone-41c0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
