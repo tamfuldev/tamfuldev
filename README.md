@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [VACUUM In Postgres Demystified](https://dev.to/metis/vacuum-in-postgres-demystified-2pp1)
-- [Codemotion 2024 Milan: Rediscovering My Voice and Passion as a Speaker](https://dev.to/this-is-learning/codemotion-2024-milan-rediscovering-my-voice-and-passion-as-a-speaker-171o)
-- [How to Design a Tangram Puzzle Using 3D CAD Software](https://dev.to/julia970/how-to-design-a-tangram-puzzle-using-3d-cad-software-4iak)
-- [Best IDEs for Node.js Development in 2025](https://dev.to/prashantpujara/best-ides-for-nodejs-development-in-2025-1k0e)
-- [CSS: masonry layout](https://dev.to/hreuven/css-masonry-layout-1jff)
+- [Best Practices for Using Azure ATP in Hybrid Environments](https://dev.to/rachgrey/best-practices-for-using-azure-atp-in-hybrid-environments-70o)
+- [Observability - 6&lpar;Distributed Tracing using Jaeger&rpar;](https://dev.to/akhil_mittal/observability-6distributed-tracing-using-jaeger-397j)
+- [Palette Visualizer: Preview over 16,000+ palettes and Export to Code! 🎨✨](https://dev.to/thisisroushan/palette-visualizer-preview-over-16000-palettes-and-export-to-code-3ao2)
+- [Financial Calculations in Rust: Building a Reference Portfolio App from Firm Trades to Customer Earnings](https://dev.to/amaendeepm/financial-calculations-in-rust-building-a-reference-portfolio-app-from-firm-trades-to-customer-earnings-5gl2)
+- [Install Docker Desktop on Mac](https://dev.to/meghasharmaaaa/install-docker-desktop-on-mac-465d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
