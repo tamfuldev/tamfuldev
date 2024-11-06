@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating a codebase with an API](https://dev.to/robert_mcknight_102975fef/navigating-a-codebase-with-an-api-27pa)
-- [GreyConnections](https://dev.to/dianahobbs/greyconnections-1bmg)
-- [Why Is Job Hunting Like This? This Broken Hiring System Has to Change](https://dev.to/amritanshu_kumar_0558b7f6/why-is-job-hunting-like-this-this-broken-hiring-system-has-to-change-33nf)
-- [AI takeover?](https://dev.to/norbs/ai-takeover-2fbm)
-- [Embrace your voice](https://dev.to/norbs/embrace-your-voice-32ap)
+- [Creating a Remote Git Hub for Your Company&lpar;Without Github&rpar;](https://dev.to/pullreview/creating-a-remote-git-hub-for-your-companywithout-github-1fdb)
+- [AWS Architecture | Request-Response flow in a complete AWS architecture | Best Explanation](https://dev.to/mrcaption49/aws-architecture-request-response-flow-in-a-complete-aws-architecture-best-explanation-2nh0)
+- [[Flatiron SE] Day 70: 11/06/24](https://dev.to/mrdrfeesh/flatiron-se-day-70-110624-459i)
+- [Artificial Intelligence and the Paradise of Instant Experts](https://dev.to/lucianoprado/artificial-intelligence-and-the-paradise-of-instant-experts-3g77)
+- [Day 58. Comments screen](https://dev.to/kiolk/day-58-comments-screen-4fa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
