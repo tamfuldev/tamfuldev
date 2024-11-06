@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Qual a melhor linguagem de programação? [2024/2025]](https://dev.to/jaovitm/qual-a-melhor-linguagem-de-programacao-20242025-54b1)
-- [Why Redis? An Intro with Practical Use Cases for Developers](https://dev.to/kisore99/why-redis-an-intro-with-practical-use-cases-for-developers-3kfj)
-- [Mastering Processes: The Ultimate Guide to Understanding and Managing System Operations](https://dev.to/conquerym/mastering-processes-the-ultimate-guide-to-understanding-and-managing-system-operations-2gd2)
-- [Blockchain Developer](https://dev.to/nicoliao0918/blockchain-developer-4f8g)
-- [Python : Basics Concepts in Arithmetic, Data Types, and Conditional Logic](https://dev.to/sajjadrahman56/python-basics-concepts-in-arithmetic-data-types-and-conditional-logic-2k22)
+- [Convert Excel Dataset into SQL insert statement](https://dev.to/smuniraj/convert-excel-dataset-into-sql-insert-statement-38k4)
+- [Best AI Tools for Programmers](https://dev.to/rahmaai/best-ai-tools-for-programmers-48o9)
+- [Introducing Pretty-js-log: Add Beautiful, Colorful Logging to Your Node.js Apps 🎨](https://dev.to/belguinan/introducing-pretty-js-log-add-beautiful-colorful-logging-to-your-nodejs-apps-5hfn)
+- [Week 3 in DevOps: Beginning with Advanced AWS Services and Security](https://dev.to/amandeol063/week-3-in-devops-beginning-with-advanced-aws-services-and-security-3ola)
+- [Modern Full-Stack Setup: FastAPI + React.js + Vite + MUI with TypeScript](https://dev.to/stamigos/modern-full-stack-setup-fastapi-reactjs-vite-mui-with-typescript-2mef)
 <!-- BLOG-POST-LIST:END -->
 
 ---
