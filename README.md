@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [17 Lesser Known Chrome Extensions You Wish You Knew Sooner 🤩⚡](https://dev.to/safdarali/17-lesser-known-chrome-extensions-you-wish-you-knew-sooner-28nm)
-- [How to Detect Software Performance Bottlenecks Using AI: PFLB Solution](https://dev.to/pflb_45dd02a38e8/how-to-detect-software-performance-bottlenecks-using-ai-pflb-solution-pcl)
-- [Data structures and algorithms cheat sheet for interviews](https://dev.to/ozkanpakdil/data-structures-and-algorithms-cheat-sheet-for-interviews-4k9)
-- [The Untold Story of Visual Studio Code: A Revolution in Software Development](https://dev.to/rajeshkumaryadavdotcom/the-untold-story-of-visual-studio-code-a-revolution-in-software-development-44pp)
-- [IA Generativa en el desarrollo de Software](https://dev.to/cecamilo/ia-generativa-en-el-desarrollo-de-software-350c)
+- [7 Secrets to Optimize Your Web Performance](https://dev.to/izabellalbuquerque/7-secrets-to-optimize-your-web-performance-12eb)
+- [What I learned from achieving 100% code coverage](https://dev.to/acusset/what-i-learned-from-achieving-100-code-coverage-37p4)
+- [gem install error: incompatible function pointer types passing](https://dev.to/ugifractal/gem-install-error-incompatible-function-pointer-types-passing-2jp0)
+- [Creating Theme Systems in React with SCSS and Redux](https://dev.to/m1dnightdev/creating-theme-systems-in-react-with-scss-and-redux-2jp2)
+- [Como expandi o armazenamento da minha pasta /home com Block Storage](https://dev.to/marcos_vilela/como-expandi-o-armazenamento-da-minha-pasta-home-com-block-storage-4cjc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
