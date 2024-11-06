@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v301](https://dev.to/devteam/welcome-thread-v301-3eom)
-- [Finding Minimum and Maximum Values in an Array: Effective Approaches with Java Programming](https://dev.to/dhanush9952/finding-minimum-and-maximum-values-in-an-array-effective-approaches-with-java-programming-39dp)
-- [Web Development in Docker Containers Using Express.js](https://dev.to/optiwariindia/web-development-in-docker-containers-using-expressjs-3k3l)
-- [Angular 19 - Streamlining Data Retrieval with Experimental Resource and rxResource APIs](https://dev.to/this-is-angular/angular-19-streamlining-data-retrieval-with-resource-and-rxresource-apis-3lb2)
-- [Of Course I Need Fun Routes! 🌈](https://dev.to/annavi11arrea1/of-course-i-need-fun-routes-48fe)
+- [Functions and Parentheses in JavaScript](https://dev.to/shieldstring/functions-and-parentheses-in-javascript-266k)
+- [Understanding JavaScript Closures: A Comprehensive Guide](https://dev.to/nozibul_islam_113b1d5334f/understanding-javascript-closures-a-comprehensive-guide-5g28)
+- [My Journey As A Web Game Developer](https://dev.to/anradev/my-journey-as-a-web-game-developer-2m5m)
+- [Cypress vs Selenium: Choosing the Perfect Testing Tool for Your Needs](https://dev.to/keploy/cypress-vs-selenium-choosing-the-perfect-testing-tool-for-your-needs-5h9o)
+- [🚨Error Handling &amp; Result Management : Debugging Disasters and Tiny Victories](https://dev.to/alileus/error-handling-result-management-debugging-disasters-and-tiny-victories-42lp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
