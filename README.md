@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Functions and Parentheses in JavaScript](https://dev.to/shieldstring/functions-and-parentheses-in-javascript-266k)
-- [Understanding JavaScript Closures: A Comprehensive Guide](https://dev.to/nozibul_islam_113b1d5334f/understanding-javascript-closures-a-comprehensive-guide-5g28)
-- [My Journey As A Web Game Developer](https://dev.to/anradev/my-journey-as-a-web-game-developer-2m5m)
-- [Cypress vs Selenium: Choosing the Perfect Testing Tool for Your Needs](https://dev.to/keploy/cypress-vs-selenium-choosing-the-perfect-testing-tool-for-your-needs-5h9o)
-- [🚨Error Handling &amp; Result Management : Debugging Disasters and Tiny Victories](https://dev.to/alileus/error-handling-result-management-debugging-disasters-and-tiny-victories-42lp)
+- [API Documentation Done Right: A Technical Guide](https://dev.to/getambassador2024/api-documentation-done-right-a-technical-guide-31ka)
+- [1500+ Free HTML Website Templates on HTMLrev](https://dev.to/devluc/1500-free-html-website-templates-on-htmlrev-gk9)
+- [How to Clear Recent Colors History in Windows 11?](https://dev.to/win11verse/how-to-clear-recent-colors-history-in-windows-11-4j5p)
+- [The Ultimate Guide to Fitness App Development: Trends, Technologies, and Tips for Success](https://dev.to/evelynwyatt/the-ultimate-guide-to-fitness-app-development-trends-technologies-and-tips-for-success-4g01)
+- [How to solve git error: RPC failed; HTTP 400 curl 22 The requested URL returned error: 400](https://dev.to/lynerlwl/how-to-solve-git-error-rpc-failed-http-400-curl-22-the-requested-url-returned-error-400-5mf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
