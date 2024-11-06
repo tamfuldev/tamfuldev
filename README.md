@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Implement reCAPTCHA in htmx + expressjs](https://dev.to/kasir-barati/implement-recaptcha-in-htmx-expressjs-4k1l)
-- [📱 Is Flutter Dead?](https://dev.to/hamzakhan/is-flutter-dead-1242)
-- [Django Day DK 2024: I was there](https://dev.to/dag7dev/django-day-dk-2024-i-was-there-1faf)
-- [🔒 Exploring the Singleton Design Pattern in Ruby](https://dev.to/davidmrtz-dev/exploring-the-singleton-design-pattern-in-ruby-42o2)
-- [Medium: is it worth your time and effort?](https://dev.to/dag7dev/medium-is-it-worth-your-time-and-effort-1njm)
+- [Qual a melhor linguagem de programação? [2024/2025]](https://dev.to/jaovitm/qual-a-melhor-linguagem-de-programacao-20242025-54b1)
+- [Why Redis? An Intro with Practical Use Cases for Developers](https://dev.to/kisore99/why-redis-an-intro-with-practical-use-cases-for-developers-3kfj)
+- [Mastering Processes: The Ultimate Guide to Understanding and Managing System Operations](https://dev.to/conquerym/mastering-processes-the-ultimate-guide-to-understanding-and-managing-system-operations-2gd2)
+- [Blockchain Developer](https://dev.to/nicoliao0918/blockchain-developer-4f8g)
+- [Python : Basics Concepts in Arithmetic, Data Types, and Conditional Logic](https://dev.to/sajjadrahman56/python-basics-concepts-in-arithmetic-data-types-and-conditional-logic-2k22)
 <!-- BLOG-POST-LIST:END -->
 
 ---
