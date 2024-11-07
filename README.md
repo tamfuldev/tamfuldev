@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How First-Order Logic is Shaping AI Development in 2025](https://dev.to/vikas76/how-first-order-logic-is-shaping-ai-development-in-2025-3h4)
-- [3 years of development](https://dev.to/sdevr/3-years-of-development-54m7)
-- [The Role of Machine Learning in Predictive Test Analytics](https://dev.to/anil_csimplifyit_905c/the-role-of-machine-learning-in-predictive-test-analytics-2jcn)
-- [Testing VShell: A starting point into Test-Driven Development](https://dev.to/anhchienvu/testing-vshell-a-starting-point-into-test-driven-development-ila)
-- [Drag&#39;n&#39;Drop without CSS classes using ObservableTypes](https://dev.to/dariomannu/dragndrop-without-css-classes-using-observabletypes-b79)
+- [Understanding the Significance of Semantic HTML in SEO and Accessibility](https://dev.to/man_fd044983267/understanding-the-significance-of-semantic-html-in-seo-and-accessibility-4n3j)
+- [#My first dev](https://dev.to/final_vinyl_f951c62ec9683/my-first-dev-4d85)
+- [🌱 New Portfolio Website Live, Would Love Your Feedback!](https://dev.to/nadhir2k/new-portfolio-website-live-would-love-your-feedback-2m19)
+- [Disque dur : SAS, SATA, SCSI ou IDE ?](https://dev.to/mrvym/disque-dur-sas-sata-scsi-ou-ide-59h6)
+- [AWS Deployment Best Practices: Let&#39;s make your own SPA web app! - &lpar;1&rpar;](https://dev.to/nanun_inna/aws-deployment-best-practices-lets-make-your-own-spa-web-app-1-282g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
