@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [#91 — Intersection, Union, And Difference in the Case of Simple Members — Two Sets](https://dev.to/judith677/91-intersection-union-and-difference-in-the-case-of-simple-members-two-sets-468n)
-- [Dark mode &amp; light mode in next. Js 14 app router with material-ui without ui flickering](https://dev.to/torver213/dark-mode-light-mode-in-next-js-14-app-router-with-material-ui-without-ui-flickering-4flk)
-- [Revolutionizing Mobile Updates: How Rokomari Transformed Its App with Shorebird Code Push](https://dev.to/alaminkarno/revolutionizing-mobile-updates-how-rokomari-transformed-its-app-with-shorebird-code-push-4mla)
-- [Auto-Detect RTL in React with TypeScript! 🌐](https://dev.to/alileus/auto-detect-rtl-in-react-with-typescript-542e)
-- [Lifecycle of a Container](https://dev.to/arif_hossain/lifecycle-of-a-container-48n6)
+- [How to Debug Ansible Playbooks](https://dev.to/cicube/how-to-debug-ansible-playbooks-29l5)
+- [Building Real-Time Chat with Laravel Reverb and Vue 3 - Step-by-Step Tutorial](https://dev.to/hkp22/building-real-time-chat-with-laravel-reverb-and-vue-3-step-by-step-tutorial-21p)
+- [Handling File Uploads in Node.js with Multer: A Comprehensive Guide](https://dev.to/abhishekjaiswal_4896/handling-file-uploads-in-nodejs-with-multer-a-comprehensive-guide-1f7e)
+- [setw&lpar;x&rpar; &amp; setfill&lpar;&rpar;](https://dev.to/yasmina14/setwx-i-setfill-dgj)
+- [The Future of SEO: Key Trends of SEO.](https://dev.to/devmercy/the-future-of-seo-key-trends-of-seo-3cjm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
