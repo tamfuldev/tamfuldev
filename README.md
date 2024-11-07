@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The whole “shameless plug” conundrum and stigma associated with sharing one’s own blog posts](https://dev.to/prahladyeri/the-whole-shameless-plug-conundrum-and-stigma-associated-with-sharing-ones-own-blog-posts-15ph)
-- [getLastWorkWeekInMonth&lpar;&rpar; ColdFusion - Returns Last Full Work Week](https://dev.to/gamesover/getlastworkweekinmonth-coldfusion-returns-last-full-work-week-23j3)
-- [How to Use Docker to Improve Your Development Workflow: A Complete Guide](https://dev.to/agor5/how-to-use-docker-to-improve-your-development-workflow-a-complete-guide-5hb9)
-- [About Me–Mohamed El Hamly](https://dev.to/medalytics/about-me-mohamed-el-hamly-3lbe)
-- [Debugging Time: A Developer&#39;s Best Friend &lpar;Seriously!&rpar;](https://dev.to/ritu_kumari_58d1d2d0e20d6/debugging-time-a-developers-best-friend-seriously-g00)
+- [Techpally hints Building a Garden in Dwarf Fortress Game](https://dev.to/chaktty/techpally-hints-building-a-garden-in-dwarf-fortress-game-1pah)
+- [Usando helm-secrets e Vals para anonimizar seus dados no deploy!](https://dev.to/pedronandi/usando-helm-secrets-e-vals-para-anonimizar-seus-dados-no-deploy-2fme)
+- [Was für ein Jahr!✨](https://dev.to/per-starke-642/was-fur-ein-jahr-4m7k)
+- [3 Reasons Why you should go to the university instead of learn by yourself](https://dev.to/alcabrera/3-reasons-why-you-should-go-to-the-university-instead-of-learn-by-yourself-45af)
+- [Writing Clean Code in Ruby on Rails Applications 🧼💻](https://dev.to/sonianand11/writing-clean-code-in-ruby-on-rails-applications-85h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
