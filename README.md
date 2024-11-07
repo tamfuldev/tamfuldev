@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Step-by-Step Tutorial on Building an AI text Humanizer with AI/ML API and Integration with Clerk Auth and Deploying to Vercel](https://dev.to/abdibrokhim/step-by-step-tutorial-on-building-an-ai-text-humanizer-with-aiml-api-and-integration-with-clerk-auth-and-deploying-to-vercel-moj)
-- [Tech Watch 3](https://dev.to/56_kode/tech-watch-3-4fob)
-- [Strongly typed web APIs with gRPC](https://dev.to/nikokiirala/strongly-typed-web-apis-with-grpc-2ne)
-- [Async vs. Defer: A Simple Explanation of Script Loading](https://dev.to/ankantalukdar/async-vs-defer-a-simple-explanation-of-script-loading-2me2)
-- [WebAssembly &lpar;Wasm&rpar;: A Powerful Tool for Frontend Developers](https://dev.to/mukhilpadmanabhan/webassembly-wasm-a-powerful-tool-for-frontend-developers-504g)
+- [Data and its types](https://dev.to/_prakhar_/data-and-its-types-2o79)
+- [The wicked path of independent Linux Distro](https://dev.to/yappaholic/the-wicked-path-of-independent-linux-distro-5fbl)
+- [Scraping New Telegram Channels](https://dev.to/pauq/scraping-new-telegram-channels-39d0)
+- [How to Install Node.js from Source Code on GitHub](https://dev.to/nikolicstjepan/how-to-install-nodejs-from-source-code-on-github-468j)
+- [How to install Ferdium on Linux](https://dev.to/kelvinhey/how-to-install-ferdium-on-linux-4134)
 <!-- BLOG-POST-LIST:END -->
 
 ---
