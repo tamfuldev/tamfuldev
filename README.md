@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [ASP.NET8 using DataTables.net – Part8 – Select rows](https://dev.to/markpelf/aspnet8-using-datatablesnet-part8-select-rows-40ip)
-- [ASP.NET8 using DataTables.net – Part7 – Buttons regular](https://dev.to/markpelf/aspnet8-using-datatablesnet-part7-buttons-regular-36e1)
-- [ASP.NET8 using DataTables.net – Part6 – Returning additional parameters in AJAX](https://dev.to/markpelf/aspnet8-using-datatablesnet-part6-returning-additional-parameters-in-ajax-1h3o)
-- [Healthcare App Development Cost In 2024](https://dev.to/raftlabs/healthcare-app-development-cost-in-2024-344m)
-- [ASP.NET8 using DataTables.net – Part5 – Passing additional parameters in AJAX](https://dev.to/markpelf/aspnet8-using-datatablesnet-part5-passing-additional-parameters-in-ajax-501a)
+- [How to self-host Postgres Database on Linux](https://dev.to/thesmartbug/how-to-self-host-postgres-database-on-linux-582m)
+- [Creare Concetti Filosofici Usando TypeScript e Literal Template Types](https://dev.to/francescoagati/creare-concetti-filosofici-usando-typescript-e-literal-template-types-2bad)
+- [🚨 ADA Breakout Alert: Cardano Set for 30% Rally](https://dev.to/joshthebtc/ada-breakout-alert-cardano-set-for-30-rally-2be)
+- [Optimizing Large File Uploads: Secure Client-Side Multipart Uploads to AWS S3](https://dev.to/owen_roth_v1/optimizing-large-file-uploads-secure-client-side-multipart-uploads-to-aws-s3-6o6)
+- [From Zero to Storefront: My Journey Building an E-commerce Site](https://dev.to/aelassas/from-zero-to-storefront-my-journey-building-an-e-commerce-site-43kd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
