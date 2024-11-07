@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Debug Ansible Playbooks](https://dev.to/cicube/how-to-debug-ansible-playbooks-29l5)
-- [Building Real-Time Chat with Laravel Reverb and Vue 3 - Step-by-Step Tutorial](https://dev.to/hkp22/building-real-time-chat-with-laravel-reverb-and-vue-3-step-by-step-tutorial-21p)
-- [Handling File Uploads in Node.js with Multer: A Comprehensive Guide](https://dev.to/abhishekjaiswal_4896/handling-file-uploads-in-nodejs-with-multer-a-comprehensive-guide-1f7e)
-- [setw&lpar;x&rpar; &amp; setfill&lpar;&rpar;](https://dev.to/yasmina14/setwx-i-setfill-dgj)
-- [The Future of SEO: Key Trends of SEO.](https://dev.to/devmercy/the-future-of-seo-key-trends-of-seo-3cjm)
+- [DuckDB in Action](https://dev.to/nfrankel/duckdb-in-action-4d29)
+- [How to Fix the “This Publisher Has Been Blocked From Running Software” Error in Windows 10 &amp; 11](https://dev.to/sign_my_code/how-to-fix-the-this-publisher-has-been-blocked-from-running-software-error-in-windows-10-11-27ab)
+- [Distance de Levenshtein : Le Guide Ultime pour Mesurer la Similarité Textuelle](https://dev.to/jmegnidro/distance-de-levenshtein-le-guide-ultime-pour-mesurer-la-similarite-textuelle-3m7f)
+- [Automated Circuit Layout with Constructive Heuristic Prioritization](https://dev.to/mikeyoung44/automated-circuit-layout-with-constructive-heuristic-prioritization-i9e)
+- [How to Include JavaScript in Laravel 11: A Step-by-Step Guide for All Scenarios](https://dev.to/websilvercraft/how-to-include-js-files-in-laravel-templates-49e6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
