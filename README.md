@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Significance of Semantic HTML in SEO and Accessibility](https://dev.to/man_fd044983267/understanding-the-significance-of-semantic-html-in-seo-and-accessibility-4n3j)
-- [#My first dev](https://dev.to/final_vinyl_f951c62ec9683/my-first-dev-4d85)
-- [🌱 New Portfolio Website Live, Would Love Your Feedback!](https://dev.to/nadhir2k/new-portfolio-website-live-would-love-your-feedback-2m19)
-- [Disque dur : SAS, SATA, SCSI ou IDE ?](https://dev.to/mrvym/disque-dur-sas-sata-scsi-ou-ide-59h6)
-- [AWS Deployment Best Practices: Let&#39;s make your own SPA web app! - &lpar;1&rpar;](https://dev.to/nanun_inna/aws-deployment-best-practices-lets-make-your-own-spa-web-app-1-282g)
+- [Open-Source will make you richhhh! 🤑💸](https://dev.to/rohan_sharma/open-source-will-make-you-richhhh-5gf8)
+- [7+ Free PostgreSQL Hosting Platforms for Developers in 2024](https://dev.to/probir-sarkar/7-free-postgresql-hosting-platforms-for-developers-in-2024-fi5)
+- [Getting Started with Vector Search &lpar;Part 2&rpar;](https://dev.to/yukaty/getting-started-with-vector-search-part-2-3amh)
+- [Play games from your terminal!](https://dev.to/kaamkiya/play-games-from-your-terminal-25o)
+- [Understanding Strong Fundamentals in Stock Research](https://dev.to/susheel_kumar/understanding-strong-fundamentals-in-stock-research-2oai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
