@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Zero to Hero: Dockerizing My Go App and Hosting It on Render like a Pro 🚀](https://dev.to/githaiga22/from-zero-to-hero-dockerizing-my-go-app-and-hosting-it-on-render-like-a-pro-1nk9)
-- [Automated Testing Made Simple: Setting Up and Exploring pytest](https://dev.to/harshil_patel/automated-testing-made-simple-setting-up-and-exploring-pytest-13bc)
-- [My First JavaScript Web App: Interactive Image Coordinate Finder](https://dev.to/rverwey/my-first-javascript-web-app-interactive-image-coordinate-finder-414d)
-- [🚀 Bitcoin and Altcoins Surge as Optimism Grows](https://dev.to/david_tevzadze_/bitcoin-and-altcoins-surge-as-optimism-grows-155e)
-- [🚀 Bittensor&#39;s Big Move: Correction or Continuation?](https://dev.to/david_tevzadze_/bittensors-big-move-correction-or-continuation-59c1)
+- [How First-Order Logic is Shaping AI Development in 2025](https://dev.to/vikas76/how-first-order-logic-is-shaping-ai-development-in-2025-3h4)
+- [3 years of development](https://dev.to/sdevr/3-years-of-development-54m7)
+- [The Role of Machine Learning in Predictive Test Analytics](https://dev.to/anil_csimplifyit_905c/the-role-of-machine-learning-in-predictive-test-analytics-2jcn)
+- [Testing VShell: A starting point into Test-Driven Development](https://dev.to/anhchienvu/testing-vshell-a-starting-point-into-test-driven-development-ila)
+- [Drag&#39;n&#39;Drop without CSS classes using ObservableTypes](https://dev.to/dariomannu/dragndrop-without-css-classes-using-observabletypes-b79)
 <!-- BLOG-POST-LIST:END -->
 
 ---
