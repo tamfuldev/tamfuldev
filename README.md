@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to self-host Postgres Database on Linux](https://dev.to/thesmartbug/how-to-self-host-postgres-database-on-linux-582m)
-- [Creare Concetti Filosofici Usando TypeScript e Literal Template Types](https://dev.to/francescoagati/creare-concetti-filosofici-usando-typescript-e-literal-template-types-2bad)
-- [🚨 ADA Breakout Alert: Cardano Set for 30% Rally](https://dev.to/joshthebtc/ada-breakout-alert-cardano-set-for-30-rally-2be)
-- [Optimizing Large File Uploads: Secure Client-Side Multipart Uploads to AWS S3](https://dev.to/owen_roth_v1/optimizing-large-file-uploads-secure-client-side-multipart-uploads-to-aws-s3-6o6)
-- [From Zero to Storefront: My Journey Building an E-commerce Site](https://dev.to/aelassas/from-zero-to-storefront-my-journey-building-an-e-commerce-site-43kd)
+- [Go for DevOps: From Zero to Hero Guide 🚀](https://dev.to/brunociccarino/go-for-devops-from-zero-to-hero-guide-h4a)
+- [Introducing GitCase: Secure Portfolio Creation for Developers](https://dev.to/johnnykod/introducing-gitcase-secure-portfolio-creation-for-developers-h9b)
+- [Day 1055 : Movements](https://dev.to/dwane/day-1055-movements-4j2e)
+- [Solving a DojoCode challenge in freefall](https://dev.to/seb-dojo/solving-a-code-challenge-in-freefall-3bei)
+- [Formulários com React Hook Form + Zod](https://dev.to/lukesilva/formularios-com-react-hook-form-zod-5cip)
 <!-- BLOG-POST-LIST:END -->
 
 ---
