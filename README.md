@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 08 November!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-08-november-22lc)
-- [Five Lessons for Five Years in Tech](https://dev.to/bekahhw/five-lessons-for-five-years-in-tech-37i9)
-- [Working with Docker Volumes](https://dev.to/arif_hossain/working-with-docker-volumes-17oa)
-- [GLOBAL EXECUTION CONTEXT- How javaScript works behind the scene.](https://dev.to/kush_bhandari_1/global-execution-context-how-javascript-works-behind-the-scene-880)
-- [Sanity and Nextjs for CI / CD](https://dev.to/pagepro_agency/sanity-and-nextjs-for-ci-cd-5ebm)
+- [Strings: Basic Methods in Java-Interview Essentials](https://dev.to/arshisaxena26/strings-basic-methods-in-java-interview-essentials-1k99)
+- [How to Tell If Your Marketing Campaign Is Effective](https://dev.to/kara_masterson/how-to-tell-if-your-marketing-campaign-is-effective-3k9l)
+- [Listen for realtime location updates from pulsetracker on your backend](https://dev.to/l_walid/listen-for-realtime-location-updates-from-pulsetracker-on-your-backend-4c25)
+- [Communication Between Containers in a Custom Bridge Network](https://dev.to/arif_hossain/communication-between-containers-in-a-custom-bridge-network-4al6)
+- [The 3 kinds of Enum in Rails](https://dev.to/epigene/the-3-kinds-of-enum-in-rails-3koe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
