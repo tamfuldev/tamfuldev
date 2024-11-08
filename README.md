@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Schema Manager: Centralize Schemas in a Repository with Support for Schema Registry Integration](https://dev.to/charlescol/schema-manager-centralize-schemas-in-a-repository-with-support-for-schema-registry-integration-1jhn)
-- [Ethical Considerations in AI-Driven Software Testing](https://dev.to/anil_csimplifyit_905c/ethical-considerations-in-ai-driven-software-testing-a02)
-- [StepWise: A Powerful C# Workflow Engine for Task Execution](https://dev.to/littlelittlecloud/stepwise-a-powerful-c-workflow-engine-for-parallel-task-execution-2nc4)
-- [js-framework-benchmark - variations of the ideal solution to the mathematical problem of speed or why it is standard](https://dev.to/antonmak1/js-framework-benchmark-variations-of-the-ideal-solution-to-the-mathematical-problem-of-speed-or-why-it-is-standard-2j3d)
-- [Understanding Containerized Microservices: A Comprehensive Guide](https://dev.to/zachbenson/understanding-containerized-microservices-a-comprehensive-guide-5c0l)
+- [NURIE CREATOR Review :塗り絵ツクール](https://dev.to/nurie_creator/nurie-creator-review-tu-rihui-tukuru-3n68)
+- [Como criei minha própria imagem Docker do Apache Benchmark para testes de stress em servidores web](https://dev.to/marcos_vilela/como-criei-minha-propria-imagem-docker-do-apache-benchmark-para-testes-de-stress-em-servidores-web-5ab2)
+- [【转载】🔥🔥 长亭百川云 IP 情报全新升级——新增恶意入侵、端口探测等情报细节❗](https://dev.to/muzilathebest/zhuan-zai-chang-ting-bai-chuan-yun-ip-qing-bao-quan-xin-sheng-ji-xin-zeng-e-yi-ru-qin-duan-kou-tan-ce-deng-qing-bao-xi-jie-5ae)
+- [【转载】🔥🔥 长亭百川云 IP 情报全新升级——新增恶意入侵、端口探测等情报细节❗](https://dev.to/thorila/zhuan-zai-chang-ting-bai-chuan-yun-ip-qing-bao-quan-xin-sheng-ji-xin-zeng-e-yi-ru-qin-duan-kou-tan-ce-deng-qing-bao-xi-jie-3lnm)
+- [Using Promise in Javascript to solve aynchronous loading&lpar;image, css, js, etc.&rpar;](https://dev.to/tanjiagang/using-promise-in-javascript-to-solve-aynchronous-loadingimage-css-js-etc-335b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
