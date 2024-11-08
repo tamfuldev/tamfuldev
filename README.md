@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week? &lpar;and last week too because we forgot to post!&rpar;](https://dev.to/devteam/what-was-your-win-this-week-32c4)
-- [Top 25 React Tips Every Developer Should Know — Part 2](https://dev.to/myogeshchavan97/top-25-react-tips-every-developer-should-know-part-2-2ba7)
-- [Why Are Type Guards Necessary? Exploring Different Types and Their Use Cases](https://dev.to/naymhdev/why-are-type-guards-necessary-exploring-different-types-and-their-use-cases-2f8e)
-- [Data Security Consulting: Safeguard Your Data with Brass Valley](https://dev.to/brassvalley_/data-security-consulting-safeguard-your-data-with-brass-valley-1mm3)
-- [Role of API Gateways in Microservices Architecture](https://dev.to/vipulkumarsviit/role-of-api-gateways-in-microservices-architecture-5eoo)
+- [Mastering JUnit: Techniques from Victor Rentea&#39;s Toolbox 🧰](https://dev.to/codejourney/mastering-junit-techniques-from-victor-renteas-toolbox-213)
+- [Mastering JUnit: Techniques from Victor Rentea&#39;s Toolbox 🧰](https://dev.to/codejourney/mastering-junit-techniques-from-victor-renteas-toolbox-46am)
+- [Mint Community Momentum Wave — Phase 1: Chat Active Wave is Live!](https://dev.to/mint_/mint-community-momentum-wave-phase-1-chat-active-wave-is-live-31i4)
+- [Real Programmers Don’t Comment Code. The code comment itself](https://dev.to/high_octane/real-programmers-dont-comment-code-the-code-comment-itself-5gh9)
+- [tutorial of ROSLaunch file usage](https://dev.to/tianyi_xiang/tutorial-of-roslaunch-file-usage-ii4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
