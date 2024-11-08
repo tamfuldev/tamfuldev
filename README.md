@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [System design | Components | Part 1](https://dev.to/mrcaption49/system-design-components-3e9h)
-- [React lifecycles - Custom Hooks](https://dev.to/mitchell_cheng/react-lifecycles-custom-hooks-2pea)
-- [Introducing Polirizer – A Free Chrome Extension to Simplify Privacy Policies](https://dev.to/sahaib/introducing-polirizer-a-free-chrome-extension-to-simplify-privacy-policies-3alo)
-- [Latest GitHub FAQ Collections by 0x3d.site](https://dev.to/0x3d_site/latest-github-faq-collections-by-0x3dsite-1jck)
-- [Building and deploying a smart contract with OpenZepplin and Solidity in less than 10 minutes](https://dev.to/joshfischer1108/building-and-deploying-a-smart-contract-with-openzepplin-and-solidity-in-less-than-10-minutes-45co)
+- [🚀 Your Daily Crypto Job Digest For 08 November!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-08-november-22lc)
+- [Five Lessons for Five Years in Tech](https://dev.to/bekahhw/five-lessons-for-five-years-in-tech-37i9)
+- [Working with Docker Volumes](https://dev.to/arif_hossain/working-with-docker-volumes-17oa)
+- [GLOBAL EXECUTION CONTEXT- How javaScript works behind the scene.](https://dev.to/kush_bhandari_1/global-execution-context-how-javascript-works-behind-the-scene-880)
+- [Sanity and Nextjs for CI / CD](https://dev.to/pagepro_agency/sanity-and-nextjs-for-ci-cd-5ebm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
