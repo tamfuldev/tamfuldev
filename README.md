@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Go for DevOps: From Zero to Hero Guide 🚀](https://dev.to/brunociccarino/go-for-devops-from-zero-to-hero-guide-h4a)
-- [Introducing GitCase: Secure Portfolio Creation for Developers](https://dev.to/johnnykod/introducing-gitcase-secure-portfolio-creation-for-developers-h9b)
-- [Day 1055 : Movements](https://dev.to/dwane/day-1055-movements-4j2e)
-- [Solving a DojoCode challenge in freefall](https://dev.to/seb-dojo/solving-a-code-challenge-in-freefall-3bei)
-- [Formulários com React Hook Form + Zod](https://dev.to/lukesilva/formularios-com-react-hook-form-zod-5cip)
+- [Schema Manager: Centralize Schemas in a Repository with Support for Schema Registry Integration](https://dev.to/charlescol/schema-manager-centralize-schemas-in-a-repository-with-support-for-schema-registry-integration-1jhn)
+- [Ethical Considerations in AI-Driven Software Testing](https://dev.to/anil_csimplifyit_905c/ethical-considerations-in-ai-driven-software-testing-a02)
+- [StepWise: A Powerful C# Workflow Engine for Task Execution](https://dev.to/littlelittlecloud/stepwise-a-powerful-c-workflow-engine-for-parallel-task-execution-2nc4)
+- [js-framework-benchmark - variations of the ideal solution to the mathematical problem of speed or why it is standard](https://dev.to/antonmak1/js-framework-benchmark-variations-of-the-ideal-solution-to-the-mathematical-problem-of-speed-or-why-it-is-standard-2j3d)
+- [Understanding Containerized Microservices: A Comprehensive Guide](https://dev.to/zachbenson/understanding-containerized-microservices-a-comprehensive-guide-5c0l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
