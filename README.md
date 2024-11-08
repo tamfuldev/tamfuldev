@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Software Engineering Postmortem: The Last Petals of Spring 🌸](https://dev.to/victoriadeveloper/post-mortem-the-development-of-the-last-petals-of-spring-37e4)
-- [How to Set Up GitHub with SSH Keys on Windows 10 or 11](https://dev.to/adnanalemran/title-setting-up-github-with-ssh-keys-on-windows-10-539a)
-- [How Equivalence Partitioning &amp; Boundary Value Analysis Improve Test Accuracy](https://dev.to/robort_smith/how-equivalence-partitioning-boundary-value-analysis-improve-test-accuracy-3h70)
-- [What are user stories? and How to Create User Stories.](https://dev.to/kalak_khadayat/what-are-user-stories-and-how-to-create-user-stories-1dp)
-- [Deploying an Azure Log Analytics Workspace with Terraform](https://dev.to/techielass/deploying-an-azure-log-analytics-workspace-with-terraform-5ede)
+- [Ruby on Rails 8: Custom Compression for Encrypted Data](https://dev.to/jetthoughts/ruby-on-rails-8-custom-compression-for-encrypted-data-48n5)
+- [Simplifying Web Development: Rediscovering Ease with HTMX](https://dev.to/dgchrt/simplifying-web-development-rediscovering-ease-with-htmx-4ed)
+- [Why Choose Flutter for iOS App Development in 2025?](https://dev.to/dhruvil_joshi14/why-choose-flutter-for-ios-app-development-in-2025-3bo8)
+- [Ruby on Rails 8: How to Batch with Custom Columns](https://dev.to/jetthoughts/ruby-on-rails-8-how-to-batch-with-custom-columns-510p)
+- [Comparing Array Methods in JavaScript and Python: A Comprehensive Guide 📊](https://dev.to/hossamgouda/comparing-array-methods-in-javascript-and-python-a-comprehensive-guide-45n8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
