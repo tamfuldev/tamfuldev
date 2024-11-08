@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering JUnit: Techniques from Victor Rentea&#39;s Toolbox 🧰](https://dev.to/codejourney/mastering-junit-techniques-from-victor-renteas-toolbox-213)
-- [Mastering JUnit: Techniques from Victor Rentea&#39;s Toolbox 🧰](https://dev.to/codejourney/mastering-junit-techniques-from-victor-renteas-toolbox-46am)
-- [Mint Community Momentum Wave — Phase 1: Chat Active Wave is Live!](https://dev.to/mint_/mint-community-momentum-wave-phase-1-chat-active-wave-is-live-31i4)
-- [Real Programmers Don’t Comment Code. The code comment itself](https://dev.to/high_octane/real-programmers-dont-comment-code-the-code-comment-itself-5gh9)
-- [tutorial of ROSLaunch file usage](https://dev.to/tianyi_xiang/tutorial-of-roslaunch-file-usage-ii4)
+- [How to quickly ramp up on new codebases](https://dev.to/moozzyk/how-to-quickly-ramp-up-on-new-codebases-eag)
+- [Deep Dive into JuiceFS Data Synchronization and Consistency in Multi-Cloud Architectures](https://dev.to/daswu/deep-dive-into-juicefs-data-synchronization-and-consistency-in-multi-cloud-architectures-1mea)
+- [How to Become a Blockchain Developer](https://dev.to/edenwheeler/how-to-become-a-blockchain-developer-47hj)
+- [Understanding Kubernetes Requests and Limits: A Simple Guide](https://dev.to/devopsbymani/understanding-kubernetes-requests-and-limits-a-simple-guide-1phb)
+- [Translate speech to any language &lpar;Google supported&rpar; with Python and Google Translate API](https://dev.to/shelwyn_corte/translate-speech-to-any-language-google-supported-with-python-and-google-translate-api-47k4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
