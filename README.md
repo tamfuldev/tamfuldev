@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Automate DevOps Workflows with GitHub Actions](https://dev.to/trixsec/automate-devops-workflows-with-github-actions-3816)
-- [How to commit](https://dev.to/waradu/how-to-commit-25mf)
-- [Employee Leave Management App Angular 18](https://dev.to/akanksha_504/employee-leave-management-app-angular-18-h5f)
-- [Redux: Intro + Building a Modern State Management System with Redux Toolkit](https://dev.to/harshm03/redux-intro-building-a-modern-state-management-system-with-redux-toolkit-12fd)
-- [Planning and creating a database before you start working on your backend can save you time](https://dev.to/dgloriaweb/planning-and-creating-a-database-before-you-start-working-on-your-backend-can-save-you-time-583b)
+- [Karate Desktop Automation with Karate Robot: A Comprehensive Guide](https://dev.to/sureshayyanna/karate-desktop-automation-with-karate-robot-a-comprehensive-guide-4io7)
+- [⚡🚀 Quickly Understand Existing React Projects &lpar;or any Others&rpar; Using Github Copilot 🤖](https://dev.to/truongpx396/quickly-understand-existing-react-projects-or-any-others-using-github-copilot-2pna)
+- [Understanding Java Build and Packaging: A Beginner&#39;s Guide to DevOps](https://dev.to/tms7/understanding-java-build-and-packaging-a-beginners-guide-to-devops-2jjo)
+- [Data Structures: Concepts and Implementations – Part 1: Arrays](https://dev.to/jaovitm/data-structures-concepts-and-implementations-part-1-arrays-3510)
+- [System Design: Building a Parking Lot System in Go](https://dev.to/thesaltree/system-design-building-a-parking-lot-system-in-go-3n4h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
