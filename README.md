@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Claude AI Can Now Control Your Computer](https://dev.to/thandhla/claude-ai-can-now-control-your-computer-j4e)
-- [Introduction to Docker Compose](https://dev.to/arif_hossain/introduction-to-docker-compose-ddh)
-- [How to create a Load Balancer in Azure](https://dev.to/ajayi/how-to-create-a-load-balancer-in-azure-479a)
-- [How to connect two Windows computers with a wireless LAN](https://dev.to/petrussola/how-to-connect-two-windows-computers-with-a-wireless-lan-6f0)
-- [Threat Modeling for Non-Security Experts](https://dev.to/nikolapopov/threat-modeling-for-non-security-experts-303l)
+- [Automate DevOps Workflows with GitHub Actions](https://dev.to/trixsec/automate-devops-workflows-with-github-actions-3816)
+- [How to commit](https://dev.to/waradu/how-to-commit-25mf)
+- [Employee Leave Management App Angular 18](https://dev.to/akanksha_504/employee-leave-management-app-angular-18-h5f)
+- [Redux: Intro + Building a Modern State Management System with Redux Toolkit](https://dev.to/harshm03/redux-intro-building-a-modern-state-management-system-with-redux-toolkit-12fd)
+- [Planning and creating a database before you start working on your backend can save you time](https://dev.to/dgloriaweb/planning-and-creating-a-database-before-you-start-working-on-your-backend-can-save-you-time-583b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
