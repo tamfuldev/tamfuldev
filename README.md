@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Celebrating 10K Followers: Our Journey Together 🎉](https://dev.to/alexr/celebrating-10k-followers-our-journey-together-10oa)
-- [Dica C#: Utilize readonly para Constantes Imutáveis](https://dev.to/juarezasjunior/dica-c-utilize-readonly-para-constantes-imutaveis-5ffe)
-- [C# Tip: Use readonly for Immutable Constants](https://dev.to/juarezasjunior/c-tip-use-readonly-for-immutable-constants-5184)
-- [How Lithe Makes Web Application Development in PHP Faster with Less Code](https://dev.to/lithephp/how-lithe-makes-web-application-development-in-php-faster-with-less-code-269g)
-- [Step-by-Step Guide: Setting Up and Securing a Linux VM with SSH Key Authentication](https://dev.to/bolanle_ayooyeledun_/step-by-step-guide-setting-up-and-securing-a-linux-vm-with-ssh-key-authentication-27l4)
+- [Claude AI Can Now Control Your Computer](https://dev.to/thandhla/claude-ai-can-now-control-your-computer-j4e)
+- [Introduction to Docker Compose](https://dev.to/arif_hossain/introduction-to-docker-compose-ddh)
+- [How to create a Load Balancer in Azure](https://dev.to/ajayi/how-to-create-a-load-balancer-in-azure-479a)
+- [How to connect two Windows computers with a wireless LAN](https://dev.to/petrussola/how-to-connect-two-windows-computers-with-a-wireless-lan-6f0)
+- [Threat Modeling for Non-Security Experts](https://dev.to/nikolapopov/threat-modeling-for-non-security-experts-303l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
