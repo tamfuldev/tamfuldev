@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [LINUX CHALLENGE, DAY 4](https://dev.to/blessingglobally/linux-challenge-day-4-5h2k)
-- [🎧 AWS Audio Transcription Automation with CloudFormation](https://dev.to/warnerbell/aws-audio-transcription-automation-with-cloudformation-207g)
-- [React Native New Architecture](https://dev.to/hellonehha/react-native-new-architecture-1hao)
-- [Allure Reporting Alternative: A Look at TestBeats](https://dev.to/syamsruthin/allure-reporting-alternative-a-look-at-testbeats-9pd)
-- [27/365 | ¥10M Job Challenge - Learning by doing](https://dev.to/kameken100/27365-y10m-job-challenge-learning-by-doing-27bp)
+- [Feedback on My Web Developer Portfolio – I&#39;d Love Your Input!](https://dev.to/remycnl/feedback-on-my-web-developer-portfolio-id-love-your-input-4p2o)
+- [Quantum Computing and its real world applications](https://dev.to/atharvgyan/quantum-computing-and-its-real-world-applications-113p)
+- [Calculate Asphalt by JavaScript: A Simple Guide](https://dev.to/devops_den/calculate-asphalt-by-javascript-a-simple-guide-bp0)
+- [Maps in Go: Your Handy Lookup Tables 🗺️](https://dev.to/learngo/maps-in-go-your-handy-lookup-tables-59np)
+- [Creating a JavaScript Object Using Python](https://dev.to/techelopment/creating-a-javascript-object-using-python-114i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
