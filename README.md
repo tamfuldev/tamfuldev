@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Semantic Document Search System with pgvector and pgai](https://dev.to/tomlin7/semantic-document-search-system-with-pgvector-and-pgai-2aca)
-- [5 Best Python TUI Libraries for Building Text-Based User Interfaces](https://dev.to/lazy_code/5-best-python-tui-libraries-for-building-text-based-user-interfaces-5fdi)
-- [Revolutionizing the Future of Technology: “Devin AI”](https://dev.to/mofazzelmorshed/revolutionizing-the-future-of-technology-devin-ai-1ok7)
-- [string](https://dev.to/yasmina14/string-3o1f)
-- [Strings: Checking for Palindromes](https://dev.to/arshisaxena26/strings-checking-for-palindromes-5epj)
+- [Celebrating 10K Followers: Our Journey Together 🎉](https://dev.to/alexr/celebrating-10k-followers-our-journey-together-10oa)
+- [Dica C#: Utilize readonly para Constantes Imutáveis](https://dev.to/juarezasjunior/dica-c-utilize-readonly-para-constantes-imutaveis-5ffe)
+- [C# Tip: Use readonly for Immutable Constants](https://dev.to/juarezasjunior/c-tip-use-readonly-for-immutable-constants-5184)
+- [How Lithe Makes Web Application Development in PHP Faster with Less Code](https://dev.to/lithephp/how-lithe-makes-web-application-development-in-php-faster-with-less-code-269g)
+- [Step-by-Step Guide: Setting Up and Securing a Linux VM with SSH Key Authentication](https://dev.to/bolanle_ayooyeledun_/step-by-step-guide-setting-up-and-securing-a-linux-vm-with-ssh-key-authentication-27l4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
