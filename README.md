@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dynamic SQL in PL/SQL](https://dev.to/mrcaption49/dynamic-sql-in-plsql-2m12)
-- [New features in Amazon Bedrock Prompt Management](https://dev.to/aws-builders/new-features-in-amazon-bedrock-prompt-management-4dmf)
-- [Building a Modern Personal Portfolio&quot;?](https://dev.to/bibek-thapa/building-a-modern-personal-portfolio-269a)
-- [Introducing ThrusterKit: A Boilerplate to Speed Up Your SaaS App Launch](https://dev.to/mnutsch/introducing-thrusterkit-a-boilerplate-to-speed-up-your-saas-app-launch-1hii)
-- [Test-Driven Development &lpar;TDD&rpar; in Front-end.](https://dev.to/jayd007/test-driven-development-tdd-in-front-end-93e)
+- [Contabilidad para Django Developers: Control de Cambios y Tipo de Cambio](https://dev.to/enlabe/contabilidad-para-django-developers-control-de-cambios-y-tipo-de-cambio-3fac)
+- [Contabilidad para Django Developers: Implementando Asientos Contables](https://dev.to/enlabe/contabilidad-para-django-developers-implementando-asientos-contables-2cmg)
+- [A Decade of AWS Lambda and ECS: My Journey of Growth and Gratitude](https://dev.to/aws-builders/a-decade-of-aws-lambda-and-ecs-my-journey-of-growth-and-gratitude-10n4)
+- [How BackEnd Frameworks Work?](https://dev.to/elanatframework/how-back-end-frameworks-work-1d2d)
+- [Just saying I&#39;ve been using Linux for the last 8 weeks and](https://dev.to/user989/just-saying-ive-been-using-linux-for-the-last-8-weeks-and-ene)
 <!-- BLOG-POST-LIST:END -->
 
 ---
