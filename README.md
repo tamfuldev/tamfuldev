@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up a Full-Stack Project with React and Firebase: Authentication, Firestore, Storage, Functions &amp; Vertex AI](https://dev.to/gladiatorsbattle/setting-up-a-full-stack-project-with-react-and-firebase-authentication-firestore-storage-functions-vertex-ai-5964)
-- [Level Up Your App&#39;s Speed with `NgOptimizedImage`](https://dev.to/jzolnowski/supercharge-angular-app-with-ngoptimizedimage-56j4)
-- [Why Your Company Should Sponsor Events](https://dev.to/cirdes/why-your-company-should-sponsor-events-4e04)
-- [Transform Your Testing Process: A Guide to GPT-Powered Test Planning](https://dev.to/denisha/transform-your-testing-process-a-guide-to-gpt-powered-test-planning-48a6)
-- [User Authentication with Auth.js in Next.js App Router](https://dev.to/jamescroissant/user-authentication-with-authjs-in-nextjs-app-router-424k)
+- [Pure Text Laravel Package](https://dev.to/yasserelgammal/pure-text-laravel-package-302p)
+- [How to and Should you use Bun FFI](https://dev.to/1ce/how-to-and-should-you-use-bun-ffi-4c9k)
+- [Listas simplemente enlasadas](https://dev.to/imnotleo/listas-simplemente-enlasadas-j56)
+- [Métodos de Ordenación y Búsqueda](https://dev.to/imnotleo/metodos-de-ordenacion-y-busqueda-45g2)
+- [GitHub Workflows: The First Line of Defense](https://dev.to/majd_almnayer_2101/github-workflows-the-first-line-of-defense-4lck)
 <!-- BLOG-POST-LIST:END -->
 
 ---
