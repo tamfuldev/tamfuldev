@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding UX and UI: Key Differences and Elements of Great Design](https://dev.to/ashley_theriot_5af3dbf3c2/understanding-ux-and-ui-key-differences-and-elements-of-great-design-51ji)
-- [How to Build a Cloud Security Policy for Your Organization](https://dev.to/jordan-blake/how-to-build-a-cloud-security-policy-for-your-organization-lpc)
-- [Episode 6: The First Strike – Bugs in the Core Nexus](https://dev.to/vigneshiyergithub/episode-6-the-first-strike-bugs-in-the-core-nexus-2hai)
-- [C# Tip: Avoid Using Exceptions for Control Flow](https://dev.to/juarezasjunior/c-tip-avoid-using-exceptions-for-control-flow-5bci)
-- [Dica C#: Evite Exceções para Controle de Fluxo](https://dev.to/juarezasjunior/dica-c-evite-excecoes-para-controle-de-fluxo-3lgm)
+- [Playwright Visual Testing - Dynamic Data](https://dev.to/leading-edje/playwright-visual-testing-dynamic-data-34ia)
+- [Query DynamoDB with SQL using Athena - Leveraging EventBridge Pipes and Firehose &lpar;2/2&rpar;](https://dev.to/serverlessl/query-dynamodb-with-sql-using-athena-leveraging-eventbridge-pipes-and-firehose-22-586p)
+- [Unlocking Fine-Grained Authorization with Amazon Verified Permissions: An Underrated AWS Service](https://dev.to/mda590/unlocking-fine-grained-authorization-with-amazon-verified-permissions-an-underrated-aws-service-5bjn)
+- [THIS WEB APP IS AWESOME 👏 &lpar; for web devs&rpar;](https://dev.to/mince/this-web-app-is-awesome-for-web-devs-5h5m)
+- [My favorite Newsletters as a Full stack Developer](https://dev.to/alexanderop/my-favorite-newsletters-as-a-full-stack-developer-21a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
