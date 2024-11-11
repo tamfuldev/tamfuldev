@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How does WebAssembly enhance web application performance?](https://dev.to/techcreator_usa/how-does-webassembly-enhance-web-application-performance-3a0)
-- [29/365 | ¥10M Job Challenge - The second day of being sick](https://dev.to/kameken100/29365-y10m-job-challenge-the-second-day-of-being-sick-2cbe)
-- [How to Choose the Right UI Library for your next Big Project🚀](https://dev.to/thesohailjafri/how-to-choose-the-right-ui-library-for-your-next-big-project-51ok)
-- [AWS Control Tower for Multi-Account Security](https://dev.to/ikoh_sylva/aws-control-tower-for-multi-account-security-dgd)
-- [Unveiling VS Code for Web - Azure](https://dev.to/azure/unveiling-vs-code-for-web-azure-20ch)
+- [Why NotebookLM is Revolutionizing Academic Research &lpar;While ChatGPT Falls Short&rpar;](https://dev.to/hannes_lehmann/why-notebooklm-is-revolutionizing-academic-research-while-chatgpt-falls-short-35mi)
+- [Procedimentos como base sólida da experiência do desenvolvedor antes da automação](https://dev.to/biosbug/procedimentos-como-base-solida-da-experiencia-do-desenvolvedor-antes-da-automacao-jk6)
+- [Navigating the Vocabulary of Gen AI with GIFs](https://dev.to/aws-builders/navigating-the-vocabulary-of-gen-ai-with-gifs-5ao5)
+- [SRE Deployment Engineer Managing Reliable &amp; Automated Deployments](https://dev.to/kubeha_18/sre-deployment-engineer-managing-reliable-automated-deployments-1dcm)
+- [Dockerizing SQL Server with Pre-Restored Databases](https://dev.to/chewryl/dockerizing-sql-server-with-pre-restored-databases-25dh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
