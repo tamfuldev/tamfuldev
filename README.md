@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Pure Text Laravel Package](https://dev.to/yasserelgammal/pure-text-laravel-package-302p)
-- [How to and Should you use Bun FFI](https://dev.to/1ce/how-to-and-should-you-use-bun-ffi-4c9k)
-- [Listas simplemente enlasadas](https://dev.to/imnotleo/listas-simplemente-enlasadas-j56)
-- [Métodos de Ordenación y Búsqueda](https://dev.to/imnotleo/metodos-de-ordenacion-y-busqueda-45g2)
-- [GitHub Workflows: The First Line of Defense](https://dev.to/majd_almnayer_2101/github-workflows-the-first-line-of-defense-4lck)
+- [CSS Units of Measurement: When Do You Use Rem vs. Em vs. Px?](https://dev.to/bridgettguzik09d/css-units-of-measurement-when-do-you-use-rem-vs-em-vs-px-4oh2)
+- [Python &amp; Github Guards](https://dev.to/fadingna/python-github-guards-31n7)
+- [Install/Use Any Version of Node.js with nvm &lpar;Node Version Manager&rpar;](https://dev.to/anhdung/installuse-any-version-of-nodejs-with-nvm-node-version-manager-kl9)
+- [Essential VS Code Extensions for Productivity in 2024](https://dev.to/hangartne/essential-vs-code-extensions-for-productivity-in-2024-gh8)
+- [Componentização](https://dev.to/bianca_camargo_m/componentizacao-270j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
