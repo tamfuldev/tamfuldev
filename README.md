@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why NotebookLM is Revolutionizing Academic Research &lpar;While ChatGPT Falls Short&rpar;](https://dev.to/hannes_lehmann/why-notebooklm-is-revolutionizing-academic-research-while-chatgpt-falls-short-35mi)
-- [Procedimentos como base sólida da experiência do desenvolvedor antes da automação](https://dev.to/biosbug/procedimentos-como-base-solida-da-experiencia-do-desenvolvedor-antes-da-automacao-jk6)
-- [Navigating the Vocabulary of Gen AI with GIFs](https://dev.to/aws-builders/navigating-the-vocabulary-of-gen-ai-with-gifs-5ao5)
-- [SRE Deployment Engineer Managing Reliable &amp; Automated Deployments](https://dev.to/kubeha_18/sre-deployment-engineer-managing-reliable-automated-deployments-1dcm)
-- [Dockerizing SQL Server with Pre-Restored Databases](https://dev.to/chewryl/dockerizing-sql-server-with-pre-restored-databases-25dh)
+- [Google Workspace Security Part 1: Common Security Settings and 2SV](https://dev.to/andrew_despres/google-workspace-security-part-1-common-security-settings-and-2sv-1a1)
+- [The Useless Type Array Sorter in Typescript](https://dev.to/aamulumi/the-useless-type-array-sorter-in-typescript-4j9a)
+- [Web Application on AWS with Terraform: A Step-by-Step Guide](https://dev.to/kalpeshb/web-application-on-aws-with-terraform-a-step-by-step-guide-14e0)
+- [Fintech Secrets: Paying Bills &lpar;I&rpar;](https://dev.to/ashrafamer/fintech-secrets-paying-bills-oc7)
+- [Amazon Inspector Explained: Boosting Cloud Security for Your AWS Workloads](https://dev.to/aws-builders/amazon-inspector-explained-boosting-cloud-security-for-your-aws-workloads-ole)
 <!-- BLOG-POST-LIST:END -->
 
 ---
