@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Historical Perspective on Character Encodings 🕰️](https://dev.to/brunociccarino/a-historical-perspective-on-character-encodings-3ge0)
-- [NET6 - C# DistinctBy](https://dev.to/karenpayneoregon/net6-c-distinctby-3de5)
-- [AIM Weekly for 11/11/2024](https://dev.to/timothy_spann_a41a639e47c/aim-weekly-for-11112024-5ekf)
-- [React Native 0.74.5: Android App Running Terribly Slow Compared to iOS](https://dev.to/pavan_myana_eb20cb580effb/react-native-0745-android-app-running-terribly-slow-compared-to-ios-24a6)
-- [How I Spent My Time After Getting Laid Off – Security+, Python, and a career shift!](https://dev.to/nehamaity/how-i-spent-my-time-after-getting-laid-off-security-python-and-a-career-shift-3cpf)
+- [How does WebAssembly enhance web application performance?](https://dev.to/techcreator_usa/how-does-webassembly-enhance-web-application-performance-3a0)
+- [29/365 | ¥10M Job Challenge - The second day of being sick](https://dev.to/kameken100/29365-y10m-job-challenge-the-second-day-of-being-sick-2cbe)
+- [How to Choose the Right UI Library for your next Big Project🚀](https://dev.to/thesohailjafri/how-to-choose-the-right-ui-library-for-your-next-big-project-51ok)
+- [AWS Control Tower for Multi-Account Security](https://dev.to/ikoh_sylva/aws-control-tower-for-multi-account-security-dgd)
+- [Unveiling VS Code for Web - Azure](https://dev.to/azure/unveiling-vs-code-for-web-azure-20ch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
