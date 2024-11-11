@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Google Workspace Security Part 1: Common Security Settings and 2SV](https://dev.to/andrew_despres/google-workspace-security-part-1-common-security-settings-and-2sv-1a1)
-- [The Useless Type Array Sorter in Typescript](https://dev.to/aamulumi/the-useless-type-array-sorter-in-typescript-4j9a)
-- [Web Application on AWS with Terraform: A Step-by-Step Guide](https://dev.to/kalpeshb/web-application-on-aws-with-terraform-a-step-by-step-guide-14e0)
-- [Fintech Secrets: Paying Bills &lpar;I&rpar;](https://dev.to/ashrafamer/fintech-secrets-paying-bills-oc7)
-- [Amazon Inspector Explained: Boosting Cloud Security for Your AWS Workloads](https://dev.to/aws-builders/amazon-inspector-explained-boosting-cloud-security-for-your-aws-workloads-ole)
+- [Changing how we do standups](https://dev.to/pjhoberman/changing-how-we-do-standups-1im9)
+- [7 Open Source AI-Powered Startups | update November 2024 | from Open Community](https://dev.to/abdibrokhim/7-open-source-ai-powered-startups-update-november-2024-from-open-community-50bj)
+- [CREATING AND CONNECTING TO A LINUX VIRTUAL MACHINE SCALE SET](https://dev.to/seyilufadejucyberservices/creating-and-connecting-to-a-linux-virtual-machine-scale-set-471c)
+- [Run devcontainers as a non-root user](https://dev.to/sukkergris/run-devcontainers-as-a-non-root-user-m1o)
+- [Today’s new knowledge #2](https://dev.to/kishor_sutradhar_d2503ac4/todays-new-knowledge-2-1p54)
 <!-- BLOG-POST-LIST:END -->
 
 ---
