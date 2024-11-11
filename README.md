@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Importance of Testing and the Impact of a Bug in Production](https://dev.to/techelopment/the-importance-of-testing-and-the-impact-of-a-bug-in-production-5cb3)
-- [A path to paths](https://dev.to/lizmat/a-path-to-paths-21b5)
-- [10 Mind-Blowing AI Predictions That Will Change Our World by 2030](https://dev.to/bhanu_srivastav/10-mind-blowing-ai-predictions-that-will-change-our-world-by-2030-2lj1)
-- [A Beginner’s Guide to RESTful APIs in Software Engineering](https://dev.to/anaiscoding/a-beginners-guide-to-restful-apis-in-software-engineering-3ofp)
-- [GitHub’s Security Scanner &amp; Conventional Commits — A Developer’s Journey](https://dev.to/jesse_chong_3bcc276c4f950/githubs-security-scanner-conventional-commits-a-developers-journey-1p3e)
+- [A Historical Perspective on Character Encodings 🕰️](https://dev.to/brunociccarino/a-historical-perspective-on-character-encodings-3ge0)
+- [NET6 - C# DistinctBy](https://dev.to/karenpayneoregon/net6-c-distinctby-3de5)
+- [AIM Weekly for 11/11/2024](https://dev.to/timothy_spann_a41a639e47c/aim-weekly-for-11112024-5ekf)
+- [React Native 0.74.5: Android App Running Terribly Slow Compared to iOS](https://dev.to/pavan_myana_eb20cb580effb/react-native-0745-android-app-running-terribly-slow-compared-to-ios-24a6)
+- [How I Spent My Time After Getting Laid Off – Security+, Python, and a career shift!](https://dev.to/nehamaity/how-i-spent-my-time-after-getting-laid-off-security-python-and-a-career-shift-3cpf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
