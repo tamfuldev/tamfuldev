@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Your Code Editor Got Its Superpowers 🚀](https://dev.to/mike-vincent/how-your-code-editor-got-its-superpowers-26h)
-- [Say Goodbye to Unnecessary Re-Renders with React Memo: Step-by-Step Tutorial](https://dev.to/chintanonweb/say-goodbye-to-unnecessary-re-renders-with-react-memo-step-by-step-tutorial-551j)
-- [Bounded Contexts with Azure Service Bus: Scaling Domain-Driven Design](https://dev.to/dazevedo/bounded-contexts-with-azure-service-bus-scaling-domain-driven-design-4d89)
-- [Streamlining Mergers with AWS: Custom Tool for Portfolio Integration](https://dev.to/akhil_mittal/streamlining-mergers-with-aws-custom-tool-for-portfolio-integration-obe)
-- [Computer Networking - Full Course](https://dev.to/vignesh_j/computer-networking-full-course-2nmj)
+- [🚀 Your Daily Crypto Job Digest For 11 November!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-11-november-4i6j)
+- [SQL Leetcode Questions](https://dev.to/nozibul_islam_113b1d5334f/sql-leetcode-questions-3jh7)
+- [Type guards, type predicates, assertion signatures, and branded types in TS](https://dev.to/kasir-barati/type-guards-type-predicates-assertion-signatures-and-branded-types-in-ts-4o84)
+- [Preparando o ambiente de desenvolvimento da melhor API de tabelas de campeonato que você já viu!](https://dev.to/anastacio_dev/preparando-o-ambiente-de-desenvolvimento-da-melhor-api-de-tabelas-de-campeonato-que-voce-ja-viu-2ij5)
+- [Learning BOE310. A comprehensive guide on SAP BusinessObjects Administration.](https://dev.to/lynxselect72/learning-boe310-a-comprehensive-guide-on-sap-businessobjects-administration-1iko)
 <!-- BLOG-POST-LIST:END -->
 
 ---
