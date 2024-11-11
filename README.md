@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Playwright Visual Testing - Dynamic Data](https://dev.to/leading-edje/playwright-visual-testing-dynamic-data-34ia)
-- [Query DynamoDB with SQL using Athena - Leveraging EventBridge Pipes and Firehose &lpar;2/2&rpar;](https://dev.to/serverlessl/query-dynamodb-with-sql-using-athena-leveraging-eventbridge-pipes-and-firehose-22-586p)
-- [Unlocking Fine-Grained Authorization with Amazon Verified Permissions: An Underrated AWS Service](https://dev.to/mda590/unlocking-fine-grained-authorization-with-amazon-verified-permissions-an-underrated-aws-service-5bjn)
-- [THIS WEB APP IS AWESOME 👏 &lpar; for web devs&rpar;](https://dev.to/mince/this-web-app-is-awesome-for-web-devs-5h5m)
-- [My favorite Newsletters as a Full stack Developer](https://dev.to/alexanderop/my-favorite-newsletters-as-a-full-stack-developer-21a)
+- [How Your Code Editor Got Its Superpowers 🚀](https://dev.to/mike-vincent/how-your-code-editor-got-its-superpowers-26h)
+- [Say Goodbye to Unnecessary Re-Renders with React Memo: Step-by-Step Tutorial](https://dev.to/chintanonweb/say-goodbye-to-unnecessary-re-renders-with-react-memo-step-by-step-tutorial-551j)
+- [Bounded Contexts with Azure Service Bus: Scaling Domain-Driven Design](https://dev.to/dazevedo/bounded-contexts-with-azure-service-bus-scaling-domain-driven-design-4d89)
+- [Streamlining Mergers with AWS: Custom Tool for Portfolio Integration](https://dev.to/akhil_mittal/streamlining-mergers-with-aws-custom-tool-for-portfolio-integration-obe)
+- [Computer Networking - Full Course](https://dev.to/vignesh_j/computer-networking-full-course-2nmj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
