@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Using OpenFeature with ConfigCat](https://dev.to/zms/using-openfeature-with-configcat-5glj)
-- [My experience at GitHub Field Day Abuja 🔥](https://dev.to/theresa_agboinedu_26/my-experience-at-github-field-day-abuja-2d30)
-- [Choosing the Best VPN](https://dev.to/clarissabowlenmly/building-your-own-vpn-for-free-5b8f)
-- [For the Love of God...just use Supabase](https://dev.to/agustus_gloop/for-the-love-of-godjust-use-supabase-8oa)
-- [List of key HTTP status codes and their explanations](https://dev.to/nozibul_islam_113b1d5334f/list-of-key-http-status-codes-and-their-explanations-cbn)
+- [Work on a NEXT js Project Together](https://dev.to/tommy18062001/work-on-a-next-js-project-together-4l26)
+- [Clerk Update – November 12, 2024](https://dev.to/clerk/clerk-update-november-12-2024-3h6b)
+- [Graduation &amp; Starting Over](https://dev.to/salamoonder/graduation-starting-over-4cj7)
+- [pyCBuild](https://dev.to/bhjaipal/pycbuild-56co)
+- [Crafting Success in the Cloud: An Introduction to AWS Well-Architected Framework](https://dev.to/akhil_mittal/crafting-success-in-the-cloud-an-introduction-to-aws-well-architected-framework-13he)
 <!-- BLOG-POST-LIST:END -->
 
 ---
