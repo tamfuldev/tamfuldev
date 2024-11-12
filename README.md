@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Software Development Outsourcing: Everything You Need to Know](https://dev.to/mikkel_jensenmj/software-development-outsourcing-everything-you-need-to-know-33kl)
-- [What is a REST API and How to Create One?](https://dev.to/philip_zhang_854092d88473/what-is-a-rest-api-and-how-to-create-one-3eb2)
-- [5 Projects That Can Get You Hired - 2024](https://dev.to/grenishrai/5-projects-that-can-get-you-hired-2024-2325)
-- [Dica C#: Prefira Interpolação de Strings ao Invés de Concatenação](https://dev.to/juarezasjunior/dica-c-prefira-interpolacao-de-strings-ao-inves-de-concatenacao-2lbc)
-- [C# Tip: Prefer String Interpolation over Concatenation](https://dev.to/juarezasjunior/c-tip-prefer-string-interpolation-over-concatenation-16de)
+- [Using Rapyd for Your Gig Economy Payment Gateway and Disbursement Platform](https://dev.to/rapyd/using-rapyd-for-your-gig-economy-payment-gateway-and-disbursement-platform-1j4g)
+- [✨ JavaScript Promises – Making Async Easy](https://dev.to/vaishnavi_sonawane/javascript-promises-making-async-easy-341o)
+- [What is AI and How Does It Work? A Beginner’s Guide](https://dev.to/mohammad_shakibul_d110bb5/what-is-ai-and-how-does-it-work-a-beginners-guide-1nog)
+- [Comprehensive Testing in .NET 8: Using Moq and In-Memory Databases](https://dev.to/extinctsion/comprehensive-testing-in-net-8-using-moq-and-in-memory-databases-ioo)
+- [JavaFX In Action #9 with Özkan Pakdil about Swaggerific, an open-source Postman alternative written in JavaFX](https://dev.to/fdelporte/javafx-in-action-9-with-ozkan-pakdil-about-swaggerific-an-open-source-postman-alternative-written-in-javafx-27cj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
