@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Guide to Setting Up Jest for JavaScript Testing with ESM](https://dev.to/vinhyan/a-guide-to-setting-up-jest-for-javascript-testing-with-esm-22m6)
-- [Keep continuing with Open Source Development](https://dev.to/anhchienvu/keep-continuing-with-open-source-development-3np2)
-- [Stop the rot](https://dev.to/epigene/stop-the-rot-23bf)
-- [Three Simple Rules to Solve Unsolvable Organizational Problems](https://dev.to/perssondennis/three-simple-rules-to-solve-unsolvable-organizational-problems-3o3n)
-- [VSC Snippets](https://dev.to/odonml/vsc-snippets-lde)
+- [5 Top Skills for Backend Developers](https://dev.to/david_tevzadze_/5-top-skills-for-backend-developers-2ag5)
+- [Building an API part 1](https://dev.to/simon8800/building-an-api-part-1-1b9m)
+- [Zero-Trust Security in Kubernetes Made Simple: Istio Ambient Mesh, No Sidecar Needed](https://dev.to/uripld/achieve-sidecar-less-mtls-for-k8s-pods-with-istios-ambient-mesh-28k)
+- [Boost Your DevOps Career: Some Mini Project Ideas for Hands-On Practice in CI/CD, IaC, and Monitoring](https://dev.to/mdarifulhaque/boost-your-devops-career-some-mini-project-ideas-for-hands-on-practice-in-cicd-iac-and-monitoring-1kd4)
+- [🔥I have launched a project and think it help you, maybe :&rpar;](https://dev.to/anthonymax/i-have-launched-a-project-and-think-it-help-you-maybe--2ogd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
