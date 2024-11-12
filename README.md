@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Web APIs - Custom Hooks](https://dev.to/mitchell_cheng/web-apis-custom-hooks-a6o)
 - [Math.ceil vs Math.floor](https://dev.to/dougsource/mathceil-vs-mathfloor-b1e)
 - [Efficient Multimodal Learning Using Pre-Trained Models on a Single GPU](https://dev.to/mikeyoung44/efficient-multimodal-learning-using-pre-trained-models-on-a-single-gpu-e62)
 - [Understanding MongoDB Atlas Search Scoring for Better Search Results](https://dev.to/shannonlal/understanding-mongodb-atlas-search-scoring-for-better-search-results-1in4)
 - [A beginner&#39;s guide to the Stable-Diffusion-Xl-Base-1.0 model by Stabilityai on Huggingface](https://dev.to/mikeyoung44/a-beginners-guide-to-the-stable-diffusion-xl-base-10-model-by-stabilityai-on-huggingface-3943)
-- [A beginner&#39;s guide to the Kandinsky-2 model by Ai-Forever on Replicate](https://dev.to/mikeyoung44/a-beginners-guide-to-the-kandinsky-2-model-by-ai-forever-on-replicate-nfh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
