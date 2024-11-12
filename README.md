@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Composing Methods: A Practical Guide to Clean Code](https://dev.to/moh_moh701/composing-methods-a-practical-guide-to-clean-code-14cp)
-- [Exploring the Underrated Potential of Capsule Networks in AI](https://dev.to/guru_idalgave/exploring-the-underrated-potential-of-capsule-networks-in-ai-52fb)
-- [Why Every Programmer Should Learn How to Break Things and Fix Them](https://dev.to/high_octane/why-every-programmer-should-learn-how-to-break-things-and-fix-them-56oi)
-- [Why pinning your dependency versions matters](https://dev.to/mlamina/why-pinning-your-dependency-versions-matters-n24)
-- [The Stoic Engineer&#39;s Guide to Technical Debt](https://dev.to/asvid/the-stoic-engineers-guide-to-technical-debt-2gk)
+- [The Sad Reality of CS Lectures😔](https://dev.to/ezekiel_77/the-sad-reality-of-cs-lectures-465e)
+- [This is a new thing: A type of quick post that doesn&#39;t show up on your profile or in notifications. It&#39;s in beta, and we have a few adjustments and improvements in the pipeline — but if you have ideas, let me know.](https://dev.to/ben/this-is-a-new-thing-a-type-of-quick-post-that-doesnt-show-up-on-your-profile-or-in-notifications-its-in-beta-and-we-have-a-few-adjustments-and-improvements-in-the-pipeline-but-if-you-have-ideas-let-me-know-3e6a)
+- [Code Optimizations using AI and Azure Profiler](https://dev.to/antoinega/code-optimizations-using-ai-and-azure-profiler-1mg2)
+- [Access LLMs at Scale: Early Access to kluster.ai with $500 in Compute Credits](https://dev.to/anjin_stewartfunai_26ebd/access-llms-at-scale-early-access-to-klusterai-with-500-in-compute-credits-4466)
+- [Interactive To-Do App with Dark/Light Mode &amp; Task Filters](https://dev.to/imrankhan17/interactive-to-do-app-with-darklight-mode-task-filters-3l95)
 <!-- BLOG-POST-LIST:END -->
 
 ---
