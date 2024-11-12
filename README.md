@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 2 in Python](https://dev.to/varatha/day-2-in-python-3m60)
-- [Step-by-Step Guide to Integrating Third-Party APIs in Laravel Applications](https://dev.to/mdarifulhaque/step-by-step-guide-to-integrating-third-party-apis-in-laravel-applications-1a7c)
-- [What is Optimized Code?](https://dev.to/sanskar_4862/what-is-optimized-code-577o)
-- [C# &lt;-&gt; JSON|XML](https://dev.to/baltasarq/c-jsonxml-39nh)
-- [I wanted my users to have their own subdomain and ...](https://dev.to/mukeshkg/i-wanted-my-users-to-have-their-own-subdomain-and--e16)
+- [A Guide to Setting Up Jest for JavaScript Testing with ESM](https://dev.to/vinhyan/a-guide-to-setting-up-jest-for-javascript-testing-with-esm-22m6)
+- [Keep continuing with Open Source Development](https://dev.to/anhchienvu/keep-continuing-with-open-source-development-3np2)
+- [Stop the rot](https://dev.to/epigene/stop-the-rot-23bf)
+- [Three Simple Rules to Solve Unsolvable Organizational Problems](https://dev.to/perssondennis/three-simple-rules-to-solve-unsolvable-organizational-problems-3o3n)
+- [VSC Snippets](https://dev.to/odonml/vsc-snippets-lde)
 <!-- BLOG-POST-LIST:END -->
 
 ---
