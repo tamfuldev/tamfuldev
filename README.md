@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up Your MERN Stack Development Environment &lpar;PART 2&rpar;](https://dev.to/bilalkhanio/setting-up-your-mern-stack-development-environment-part-2-3emf)
-- [The Essential Role of Kubernetes in Modern DevOps Workflows](https://dev.to/routeclouds/the-essential-role-of-kubernetes-in-modern-devops-workflows-1bk1)
-- [Easy Guide to Enable Basic Authentication in IIS on Windows 11](https://dev.to/winsides/easy-guide-to-enable-basic-authentication-in-iis-on-windows-11-ll2)
-- [Top Features to Look for in Modern Note-Taking Apps](https://dev.to/anurag_bhagsain_908641e9d/top-features-to-look-for-in-modern-note-taking-apps-4ik8)
-- [Cross-Border Payments: Challenges and Solutions for Seamless Transactions](https://dev.to/4f24l/cross-border-payments-challenges-and-solutions-for-seamless-transactions-15df)
+- [Top 10 AI Tools for Developers in 2024](https://dev.to/nikl/top-10-ai-tools-for-developers-in-2024-92k)
+- [Server-Side Rendering &lpar;SSR&rpar; with Next.js: Create Performant and SEO-Friendly React Apps 🚀](https://dev.to/info_generalhazedawn_a3d/server-side-rendering-ssr-with-nextjs-create-performant-and-seo-friendly-react-apps-l4c)
+- [#94 — Intersection, Union, and Difference in the Case of Row-Based Data — Two Sets — by Whole Row](https://dev.to/judith677/94-intersection-union-and-difference-in-the-case-of-row-based-data-two-sets-by-whole-row-a0g)
+- [How to Check if You Are Using a Local Account or Microsoft Account in Windows 11?](https://dev.to/win11verse/how-to-check-if-you-are-using-a-local-account-or-microsoft-account-in-windows-11-5hdl)
+- [Problem solving TASK - 2](https://dev.to/danielprem_b4cd894e6c6051/problem-solving-task-2-74n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
