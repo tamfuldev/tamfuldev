@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [5 Top Skills for Backend Developers](https://dev.to/david_tevzadze_/5-top-skills-for-backend-developers-2ag5)
-- [Building an API part 1](https://dev.to/simon8800/building-an-api-part-1-1b9m)
-- [Zero-Trust Security in Kubernetes Made Simple: Istio Ambient Mesh, No Sidecar Needed](https://dev.to/uripld/achieve-sidecar-less-mtls-for-k8s-pods-with-istios-ambient-mesh-28k)
-- [Boost Your DevOps Career: Some Mini Project Ideas for Hands-On Practice in CI/CD, IaC, and Monitoring](https://dev.to/mdarifulhaque/boost-your-devops-career-some-mini-project-ideas-for-hands-on-practice-in-cicd-iac-and-monitoring-1kd4)
-- [🔥I have launched a project and think it help you, maybe :&rpar;](https://dev.to/anthonymax/i-have-launched-a-project-and-think-it-help-you-maybe--2ogd)
+- [Composing Methods: A Practical Guide to Clean Code](https://dev.to/moh_moh701/composing-methods-a-practical-guide-to-clean-code-14cp)
+- [Exploring the Underrated Potential of Capsule Networks in AI](https://dev.to/guru_idalgave/exploring-the-underrated-potential-of-capsule-networks-in-ai-52fb)
+- [Why Every Programmer Should Learn How to Break Things and Fix Them](https://dev.to/high_octane/why-every-programmer-should-learn-how-to-break-things-and-fix-them-56oi)
+- [Why pinning your dependency versions matters](https://dev.to/mlamina/why-pinning-your-dependency-versions-matters-n24)
+- [The Stoic Engineer&#39;s Guide to Technical Debt](https://dev.to/asvid/the-stoic-engineers-guide-to-technical-debt-2gk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
