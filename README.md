@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Sorry if you&#39;ve been seeing too much spam in /latest lately. We&#39;re stepping up our filters to better catch it before it gets there.](https://dev.to/ben/sorry-if-youve-been-seeing-too-much-spam-in-latest-lately-were-stepping-up-our-filters-to-better-catch-it-2aap)
-- [Basic Linux Administration](https://dev.to/tennie/basic-linux-administration-1mb8)
-- [Needle Drop](https://dev.to/alfredo-pasquel/needle-drop-4gfm)
-- [Introducing Spin 3.0](https://dev.to/fermyon/introducing-spin-30-44d8)
-- [Just Trust Me: Solving the first secret problem in pipelines with modern authentication protocols](https://dev.to/prince_of_pasta/just-trust-me-solving-the-first-secret-problem-in-pipelines-with-modern-authentication-protocols-ofd)
+- [Dario Amodei: Anthropic CEO on Claude, AGI &amp; the Future of AI &amp; Humanity | Podcast Summary](https://dev.to/dl0/dario-amodei-anthropic-ceo-on-claude-agi-the-future-of-ai-humanity-podcast-summary-262a)
+- [鸿蒙Next应用界面设计：国际化最佳实践](https://dev.to/xun_wang_6384a403f9817c2/hong-meng-nextying-yong-jie-mian-she-ji-guo-ji-hua-zui-jia-shi-jian-294a)
+- [🔥 Ultimate Python Utilities Guide: 100 Essential Tools for Every Developer](https://dev.to/bohdanai/ultimate-python-utilities-guide-100-essential-tools-for-every-developer-4i49)
+- [The Road to Globalization of HarmonyOS Next Applications: Internationalization and Localization](https://dev.to/xun_wang_6384a403f9817c2/the-road-to-globalization-of-harmonyos-next-applications-internationalization-and-localization-21om)
+- [鸿蒙Next应用全球化之路：国际化与本地化](https://dev.to/xun_wang_6384a403f9817c2/hong-meng-nextying-yong-quan-qiu-hua-zhi-lu-guo-ji-hua-yu-ben-di-hua-4bhd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
