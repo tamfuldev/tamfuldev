@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Full Stack Development: A Step-by-Step Guide](https://dev.to/jahswill_jacob_/getting-started-with-full-stack-development-a-step-by-step-guide-3ae6)
-- [React Memo custom fn return true, but still rerenders](https://dev.to/meenal_aggarwal_9fb1eecf3/react-memo-custom-fn-true-but-still-rerenders-51bl)
-- [Happy Wednesday](https://dev.to/ben/happy-wednesday-2a8l)
-- [How to Create an NPM Packages using Rollup.js + Lerna.js + Jfrog Artifactory](https://dev.to/eugene_yues_17/how-to-create-an-npm-packages-using-rollupjs-lernajs-jfrog-artifactory-2g80)
-- [JavaScript Shared Memory](https://dev.to/nozibul_islam_113b1d5334f/shared-memory-1akg)
+- [es-toolkit, a Lodash alternative](https://dev.to/logrocket/es-toolkit-a-lodash-alternative-3455)
+- [Interactive Gladiator Battle Simulation | GladiatorsBattle.com](https://dev.to/gladiatorsbattle/interactive-gladiator-battle-simulation--1dda)
+- [AWS Security Benchmarking, Ensuring Robust Cloud Security](https://dev.to/ikoh_sylva/aws-security-benchmarking-ensuring-robust-cloud-1p9b)
+- [The Ultimate Hack to Simplify Ctrl and Cmd Shortcuts Between Windows and Mac](https://dev.to/ashwingopalsamy/the-ultimate-hack-to-simplify-ctrl-and-cmd-shortcuts-between-windows-and-2hdk)
+- [Chrome Extensions I Installed In My Pc](https://dev.to/kishor_sutradhar_d2503ac4/chrome-extensions-i-installed-in-my-4h8g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
