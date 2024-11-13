@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Sad Reality of CS Lectures😔](https://dev.to/ezekiel_77/the-sad-reality-of-cs-lectures-465e)
-- [This is a new thing: A type of quick post that doesn&#39;t show up on your profile or in notifications. It&#39;s in beta, and we have a few adjustments and improvements in the pipeline — but if you have ideas, let me know.](https://dev.to/ben/this-is-a-new-thing-a-type-of-quick-post-that-doesnt-show-up-on-your-profile-or-in-notifications-its-in-beta-and-we-have-a-few-adjustments-and-improvements-in-the-pipeline-but-if-you-have-ideas-let-me-know-3e6a)
-- [Code Optimizations using AI and Azure Profiler](https://dev.to/antoinega/code-optimizations-using-ai-and-azure-profiler-1mg2)
-- [Access LLMs at Scale: Early Access to kluster.ai with $500 in Compute Credits](https://dev.to/anjin_stewartfunai_26ebd/access-llms-at-scale-early-access-to-klusterai-with-500-in-compute-credits-4466)
-- [Interactive To-Do App with Dark/Light Mode &amp; Task Filters](https://dev.to/imrankhan17/interactive-to-do-app-with-darklight-mode-task-filters-3l95)
+- [Sorry if you&#39;ve been seeing too much spam in /latest lately. We&#39;re stepping up our filters to better catch it before it gets there.](https://dev.to/ben/sorry-if-youve-been-seeing-too-much-spam-in-latest-lately-were-stepping-up-our-filters-to-better-catch-it-2aap)
+- [Basic Linux Administration](https://dev.to/tennie/basic-linux-administration-1mb8)
+- [Needle Drop](https://dev.to/alfredo-pasquel/needle-drop-4gfm)
+- [Introducing Spin 3.0](https://dev.to/fermyon/introducing-spin-30-44d8)
+- [Just Trust Me: Solving the first secret problem in pipelines with modern authentication protocols](https://dev.to/prince_of_pasta/just-trust-me-solving-the-first-secret-problem-in-pipelines-with-modern-authentication-protocols-ofd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
