@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dario Amodei: Anthropic CEO on Claude, AGI &amp; the Future of AI &amp; Humanity | Podcast Summary](https://dev.to/dl0/dario-amodei-anthropic-ceo-on-claude-agi-the-future-of-ai-humanity-podcast-summary-262a)
-- [鸿蒙Next应用界面设计：国际化最佳实践](https://dev.to/xun_wang_6384a403f9817c2/hong-meng-nextying-yong-jie-mian-she-ji-guo-ji-hua-zui-jia-shi-jian-294a)
-- [🔥 Ultimate Python Utilities Guide: 100 Essential Tools for Every Developer](https://dev.to/bohdanai/ultimate-python-utilities-guide-100-essential-tools-for-every-developer-4i49)
-- [The Road to Globalization of HarmonyOS Next Applications: Internationalization and Localization](https://dev.to/xun_wang_6384a403f9817c2/the-road-to-globalization-of-harmonyos-next-applications-internationalization-and-localization-21om)
-- [鸿蒙Next应用全球化之路：国际化与本地化](https://dev.to/xun_wang_6384a403f9817c2/hong-meng-nextying-yong-quan-qiu-hua-zhi-lu-guo-ji-hua-yu-ben-di-hua-4bhd)
+- [Understanding the Importance of Bits and Bytes in CPU Memory Addressing and Program Counters](https://dev.to/adityabhuyan/understanding-the-importance-of-bits-and-bytes-in-cpu-memory-addressing-and-program-counters-hjd)
+- [Free Resources for Learning Kali Linux](https://dev.to/carrie_luo1/free-resources-for-learning-kali-linux-57h9)
+- [How to Effectively Assess the Security of Your Apps](https://dev.to/sekurno/how-to-effectively-assess-the-security-of-your-apps-mnc)
+- [Nodejs + Custom CORS](https://dev.to/ramadhan002/nodejs-custom-cors-47ph)
+- [System Design 10 - Distributed Logging and Monitoring: Keeping an Eye on Your System’s Every Move](https://dev.to/sarvabharan/system-design-10-distributed-logging-and-monitoring-keeping-an-eye-on-your-systems-every-move-3b86)
 <!-- BLOG-POST-LIST:END -->
 
 ---
