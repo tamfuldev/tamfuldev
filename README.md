@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stay Ahead of the Game: Leverage Chokidar CLI to Maximize Your Coding Efficiency!](https://dev.to/thesohailjafri/stay-ahead-of-the-game-leverage-chokidar-cli-to-maximize-your-coding-efficiency-5d4n)
-- [How to Identify and Remove Unused Files in React Projects?](https://dev.to/vishesh-tiwari/how-to-identify-and-remove-unused-files-in-react-projects-2ldi)
-- [🔗 Why You Should Bookmark Links](https://dev.to/sammytran/why-you-should-bookmark-links-22)
-- [A Comprehensive Guide to Multithreading in Ruby](https://dev.to/daviducolo/a-comprehensive-guide-to-multithreading-in-ruby-3f04)
-- [Post 3: 💡🚀 Join the Beta and Help Shape the Future of the Waiting List Website! 🎉](https://dev.to/harold_defree/post-3-join-the-beta-and-help-shape-the-future-of-the-waiting-list-website-5eem)
+- [Getting Started with Full Stack Development: A Step-by-Step Guide](https://dev.to/jahswill_jacob_/getting-started-with-full-stack-development-a-step-by-step-guide-3ae6)
+- [React Memo custom fn return true, but still rerenders](https://dev.to/meenal_aggarwal_9fb1eecf3/react-memo-custom-fn-true-but-still-rerenders-51bl)
+- [Happy Wednesday](https://dev.to/ben/happy-wednesday-2a8l)
+- [How to Create an NPM Packages using Rollup.js + Lerna.js + Jfrog Artifactory](https://dev.to/eugene_yues_17/how-to-create-an-npm-packages-using-rollupjs-lernajs-jfrog-artifactory-2g80)
+- [JavaScript Shared Memory](https://dev.to/nozibul_islam_113b1d5334f/shared-memory-1akg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
