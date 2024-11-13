@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Scheming About Clojure](https://dev.to/gramian/scheming-about-clojure-133n)
-- [Understanding Memory&lt;T&gt; in C#](https://dev.to/moh_moh701/understanding-memory-in-c-5fm4)
-- [We are looking for a Senior FullStack &lpar;React/Nest.js&rpar; Engineer &lpar;Bilingual C1&rpar;](https://dev.to/vgf_management/we-are-looking-for-a-senior-fullstack-reactnestjs-engineer-bilingual-c1-46nm)
-- [Introducing Span&lt;T&gt; in .NET](https://dev.to/moh_moh701/introducing-span-in-net-54an)
-- [Boost Your Digital Marketing with these 10 Amazing Free to Use n8n Workflows](https://dev.to/airabbit/boost-your-digital-marketing-10-amazing-free-to-use-n8n-workflows-3f73)
+- [Flakey tests are the death of me](https://dev.to/ben/flakey-tests-are-the-death-of-me-2nd)
+- [IDENTITY ACCESS MANAGEMENT &lpar;IAM&rpar;](https://dev.to/sajjadrahman56/identity-access-management-iam-p7)
+- [Ready, Set, Hack: Beginner AI Dev Hackathon](https://dev.to/taniashiba/ready-set-hack-beginner-ai-dev-hackathon-adi)
+- [Agile Body Snatchers](https://dev.to/essentialsoftwaredev/agile-body-snatchers-hhf)
+- [Streamlit Part 7: Build a Chat Interface](https://dev.to/jamesbmour/streamlit-part-7-build-a-chat-interface-51mo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
