@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Book: JavaScript for the Whole Family](https://dev.to/codeguppy/book-javascript-for-the-whole-family-3ghf)
-- [Understanding useState in TypeScript React](https://dev.to/codeparrot/understanding-usestate-in-typescript-react-3gg8)
-- [Analysis of Limitations of LCEL and AgentExecutor](https://dev.to/jamesli/analysis-of-limitations-of-lcel-and-agentexecutor-2a3o)
-- [Introduction to LangGraph: Core Concepts and Basic Components](https://dev.to/jamesli/introduction-to-langgraph-core-concepts-and-basic-components-5bak)
-- [Part 3/3: Advanced Frontend Security Techniques and Tools](https://dev.to/tharapearlly/part-33-advanced-frontend-security-techniques-and-tools-435e)
+- [Request Aborted &lpar;NS_BINDING_ABORT&rpar; In Firefox but working in remaining browsers](https://dev.to/balaramakrishna_kamma_d58/request-aborted-in-firefox-but-working-in-remaining-browsers-14hn)
+- [Setting up Continuous Integration &lpar;CI&rpar; for dev-mate-cli](https://dev.to/mayankpareek/setting-up-continuous-integration-ci-for-dev-mate-cli-19ea)
+- [The Complete Guide to Queue Data Structure in Java](https://dev.to/wittedtech-by-harshit/the-complete-guide-to-queue-data-structure-in-java-5hko)
+- [31/365 | ¥10M Job Challenge -](https://dev.to/kameken100/31365-y10m-job-challenge--47cg)
+- [Quick intro to JavaScript and codeguppy.com](https://dev.to/codeguppy/quick-intro-to-javascript-and-codeguppycom-2ohd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
