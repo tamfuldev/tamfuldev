@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Request Aborted &lpar;NS_BINDING_ABORT&rpar; In Firefox but working in remaining browsers](https://dev.to/balaramakrishna_kamma_d58/request-aborted-in-firefox-but-working-in-remaining-browsers-14hn)
-- [Setting up Continuous Integration &lpar;CI&rpar; for dev-mate-cli](https://dev.to/mayankpareek/setting-up-continuous-integration-ci-for-dev-mate-cli-19ea)
-- [The Complete Guide to Queue Data Structure in Java](https://dev.to/wittedtech-by-harshit/the-complete-guide-to-queue-data-structure-in-java-5hko)
-- [31/365 | ¥10M Job Challenge -](https://dev.to/kameken100/31365-y10m-job-challenge--47cg)
-- [Quick intro to JavaScript and codeguppy.com](https://dev.to/codeguppy/quick-intro-to-javascript-and-codeguppycom-2ohd)
+- [Top 10 Advanced typescript concepts that Every Developer Should Know](https://dev.to/niharikaa/top-10-advanced-typescript-concepts-that-every-developer-should-know-4kg4)
+- [SerpApi&#39;s Google Maps Scraper](https://dev.to/terrytanys/serpapis-google-maps-scraper-4cl0)
+- [Proqramçı olmaq istəyirəm](https://dev.to/karimaze/proqramci-olmaq-istyirm-1opg)
+- [Flutter Image Compression: Ensuring High Quality](https://dev.to/tentanganak/flutter-image-compression-ensuring-high-quality-25m1)
+- [Parallel Programming in Web Browsers](https://dev.to/nozibul_islam_113b1d5334f/parallel-programming-in-web-browsers-8p4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
