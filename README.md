@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Using a Self-Signed Certificate with Git Clone Https](https://dev.to/frederickollinger/using-a-self-signed-certificate-with-git-clone-https-2m93)
-- [The Last Saree: Connoisseurship in the Age of AI](https://dev.to/jenlooper/the-last-saree-connoisseurship-in-the-age-of-ai-4c31)
-- [Getting Started with Prometheus and Grafana in Java](https://dev.to/gokul_gk/getting-started-with-prometheus-and-grafana-in-java-19ia)
-- [Create a Log Analytics workspace](https://dev.to/emmanuel_cobham/create-a-log-analytics-workspace-527e)
-- [Linux Network Configuration](https://dev.to/tennie/linux-network-configuration-3ga4)
+- [Laravel 11 Display Image from Storage Folder Example](https://dev.to/mshsayket/laravel-11-display-image-from-storage-folder-example-2gh6)
+- [A Definitive Guide to API Pentesting by Sekurno](https://dev.to/sekurno/a-definitive-guide-to-api-pentesting-by-sekurno-1edb)
+- [Building a Music-Focused Web App for my band: Progress and Next Steps](https://dev.to/jahend412/building-a-music-focused-web-app-for-my-band-progress-and-next-steps-5e67)
+- [鸿蒙Next应用国际化：语言与区域设置](https://dev.to/xun_wang_6384a403f9817c2/hong-meng-nextying-yong-guo-ji-hua-yu-yan-yu-qu-yu-she-zhi-5f7o)
+- [Internationalization of HarmonyOS Next Applications: Calendar and Calendar System Handling](https://dev.to/xun_wang_6384a403f9817c2/internationalization-of-harmonyos-next-applications-calendar-and-calendar-system-handling-eb5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
