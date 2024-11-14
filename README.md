@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Write Clean Code: Refactoring and Best Practices.](https://dev.to/balrajola/how-to-write-clean-code-refactoring-and-best-practices-1mo)
-- [Python vs. Java: Which Language is Better?](https://dev.to/techpulse55/python-vs-java-which-language-is-better-fc2)
-- [Why use Python for data analysis &lpar;when you have Excel or Google Sheets&rpar;](https://dev.to/mfdupuis/why-use-python-for-data-analysis-when-you-have-excel-or-google-sheets-2b23)
-- [Progresivno renderovanje: poboljšanje performansi prikaza sadržaja](https://dev.to/jelena_petkovic/progresivno-renderovanje-poboljsanje-performansi-prikaza-sadrzaja-lbp)
-- [View Transitions outside the Viewport](https://dev.to/iamschulz/view-transitions-outside-the-viewport-551)
+- [Upgrading Simple Shells to Fully Interactive TTYs](https://dev.to/0xmrmasry/upgrading-simple-shells-to-fully-interactive-ttys-49eb)
+- [How to Use Proxies in Python](https://dev.to/federicotrotta/how-to-use-a-proxy-in-python-1278)
+- [Vehicle Backed Reserves](https://dev.to/jesuscoins/vehicle-backed-reserves-2i1p)
+- [How to Add a Microsoft Account in Windows 11](https://dev.to/win11verse/how-to-add-a-microsoft-account-in-windows-11-5gmb)
+- [Azure Functions in .NET &lpar;C#&rpar; — The Ultimate Fun Version 🥳](https://dev.to/zrebhi/azure-functions-in-net-c-the-ultimate-fun-version-388l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
