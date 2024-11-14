@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Differences between JpaRepository and CrudRepository and when you need to chose each](https://dev.to/igventurelli/differences-between-jparepository-and-crudrepository-and-when-you-need-to-chose-each-41l0)
-- [defineExpose and &lt;style vars&gt; in Vue 3 for component interaction and theming](https://dev.to/logrocket/defineexpose-and-in-vue-3-for-component-interaction-and-theming-40d4)
-- [In React useMemo And useState From Design Philosophy Perspective.](https://dev.to/toshiya_matsumoto_ac94abe/in-react-usememo-and-usestate-from-design-philosophy-perspective-2c)
-- [Connecting SQL Databases to the Cloud: PostgreSQL, MySQL, SQLite, and Cloud Integration Explained](https://dev.to/adityabhuyan/connecting-sql-databases-to-the-cloud-postgresql-mysql-sqlite-and-cloud-integration-explained-o16)
-- [HELLO WORLD !](https://dev.to/shreyash_sharma_41f24ffb4/hello-world--17f5)
+- [Get and verify data from a nested object - util functions #2](https://dev.to/schemetastic/get-and-verify-data-from-a-nested-object-util-functions-2-3fme)
+- [Understanding CSMA/CD and CSMA/CA in Networking](https://dev.to/574n13y/understanding-csmacd-and-csmaca-in-networking-1ip4)
+- [How to create authenticated routes with the new Expo SDK 51 using Expo Router](https://dev.to/detl_inc/how-to-create-authenticated-routes-with-the-new-expo-sdk-51-using-expo-router-4mo1)
+- [Incorrect calculations: sind&lpar;x&rpar; and cosd&lpar;x&rpar;](https://dev.to/zaim/incorrect-calculations-sindx-and-cosdx-2d5j)
+- [Razumevanje funkcija višeg reda &lpar;Higher-Order Functions&rpar; u JavaScript-u](https://dev.to/jelena_petkovic/razumevanje-funkcija-viseg-reda-higher-order-functions-u-javascript-u-5832)
 <!-- BLOG-POST-LIST:END -->
 
 ---
