@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CodeBehind 3.8 Released](https://dev.to/elanatframework/codebehind-38-released-3iao)
-- [Why Holding Buttons Is Superior to Confirmation Dialogs in UX Design](https://dev.to/tomj/why-holding-buttons-is-superior-to-confirmation-dialogs-in-ux-design-1fic)
-- [What Is Polymorphism? Exploring Type and Object Relations](https://dev.to/yo-shi/what-is-polymorphism-exploring-type-and-object-relations-nmh)
-- [intro to Garbage Collection and Resource Management in C#](https://dev.to/moh_moh701/mastering-garbage-collection-and-resource-management-in-c-3gbk)
-- [🚀 Help Us Improve the Audio Experience with Nightsound Audio – A Dynamic Audio Adjustment Tool for Movies and Series 🎬🔊](https://dev.to/chefderschwaetzer/help-us-improve-the-audio-experience-with-nightsound-audio-a-dynamic-audio-adjustment-tool-for-18h3)
+- [Using a Self-Signed Certificate with Git Clone Https](https://dev.to/frederickollinger/using-a-self-signed-certificate-with-git-clone-https-2m93)
+- [The Last Saree: Connoisseurship in the Age of AI](https://dev.to/jenlooper/the-last-saree-connoisseurship-in-the-age-of-ai-4c31)
+- [Getting Started with Prometheus and Grafana in Java](https://dev.to/gokul_gk/getting-started-with-prometheus-and-grafana-in-java-19ia)
+- [Create a Log Analytics workspace](https://dev.to/emmanuel_cobham/create-a-log-analytics-workspace-527e)
+- [Linux Network Configuration](https://dev.to/tennie/linux-network-configuration-3ga4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
