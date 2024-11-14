@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🌟 Microsoft is offering new AI course for &lpar; FREE &rpar;🌟](https://dev.to/adithya_81ed1606e0756c8da/microsoft-is-offering-new-ai-course-for-free--483c)
-- [The Art of Data Synchronization in HarmonyOS Next Part Two: In-depth Understanding of Standardized Data Types &lpar;UTD&rpar;](https://dev.to/xun_wang_6384a403f9817c2/the-art-of-data-synchronization-in-harmonyos-next-part-two-in-depth-understanding-of-standardized-pd9)
-- [鸿蒙Next之数据同步艺术之二：深入理解标准化数据类型 &lpar;UTD&rpar;](https://dev.to/xun_wang_6384a403f9817c2/hong-meng-nextzhi-shu-ju-tong-bu-yi-zhu-zhi-er-shen-ru-li-jie-biao-zhun-hua-shu-ju-lei-xing-utd-3lgg)
-- [The Art of Data Synchronization in HarmonyOS Next Part One: Unveiling ArkData Management](https://dev.to/xun_wang_6384a403f9817c2/the-art-of-data-synchronization-in-harmonyos-next-part-one-unveiling-arkdata-management-1pi8)
-- [鸿蒙Next之数据同步艺术之一：方舟数据管理揭秘](https://dev.to/xun_wang_6384a403f9817c2/hong-meng-nextzhi-shu-ju-tong-bu-yi-zhu-zhi-fang-zhou-shu-ju-guan-li-jie-mi-1cj5)
+- [Book: JavaScript for the Whole Family](https://dev.to/codeguppy/book-javascript-for-the-whole-family-3ghf)
+- [Understanding useState in TypeScript React](https://dev.to/codeparrot/understanding-usestate-in-typescript-react-3gg8)
+- [Analysis of Limitations of LCEL and AgentExecutor](https://dev.to/jamesli/analysis-of-limitations-of-lcel-and-agentexecutor-2a3o)
+- [Introduction to LangGraph: Core Concepts and Basic Components](https://dev.to/jamesli/introduction-to-langgraph-core-concepts-and-basic-components-5bak)
+- [Part 3/3: Advanced Frontend Security Techniques and Tools](https://dev.to/tharapearlly/part-33-advanced-frontend-security-techniques-and-tools-435e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
