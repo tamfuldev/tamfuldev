@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel 11 Display Image from Storage Folder Example](https://dev.to/mshsayket/laravel-11-display-image-from-storage-folder-example-2gh6)
-- [A Definitive Guide to API Pentesting by Sekurno](https://dev.to/sekurno/a-definitive-guide-to-api-pentesting-by-sekurno-1edb)
-- [Building a Music-Focused Web App for my band: Progress and Next Steps](https://dev.to/jahend412/building-a-music-focused-web-app-for-my-band-progress-and-next-steps-5e67)
-- [鸿蒙Next应用国际化：语言与区域设置](https://dev.to/xun_wang_6384a403f9817c2/hong-meng-nextying-yong-guo-ji-hua-yu-yan-yu-qu-yu-she-zhi-5f7o)
-- [Internationalization of HarmonyOS Next Applications: Calendar and Calendar System Handling](https://dev.to/xun_wang_6384a403f9817c2/internationalization-of-harmonyos-next-applications-calendar-and-calendar-system-handling-eb5)
+- [🌟 Microsoft is offering new AI course for &lpar; FREE &rpar;🌟](https://dev.to/adithya_81ed1606e0756c8da/microsoft-is-offering-new-ai-course-for-free--483c)
+- [The Art of Data Synchronization in HarmonyOS Next Part Two: In-depth Understanding of Standardized Data Types &lpar;UTD&rpar;](https://dev.to/xun_wang_6384a403f9817c2/the-art-of-data-synchronization-in-harmonyos-next-part-two-in-depth-understanding-of-standardized-pd9)
+- [鸿蒙Next之数据同步艺术之二：深入理解标准化数据类型 &lpar;UTD&rpar;](https://dev.to/xun_wang_6384a403f9817c2/hong-meng-nextzhi-shu-ju-tong-bu-yi-zhu-zhi-er-shen-ru-li-jie-biao-zhun-hua-shu-ju-lei-xing-utd-3lgg)
+- [The Art of Data Synchronization in HarmonyOS Next Part One: Unveiling ArkData Management](https://dev.to/xun_wang_6384a403f9817c2/the-art-of-data-synchronization-in-harmonyos-next-part-one-unveiling-arkdata-management-1pi8)
+- [鸿蒙Next之数据同步艺术之一：方舟数据管理揭秘](https://dev.to/xun_wang_6384a403f9817c2/hong-meng-nextzhi-shu-ju-tong-bu-yi-zhu-zhi-fang-zhou-shu-ju-guan-li-jie-mi-1cj5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
