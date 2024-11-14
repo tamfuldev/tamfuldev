@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Rails&#39; Partial Features You &lpar;didn&#39;t&rpar; Know](https://dev.to/railsdesigner/rails-partial-features-you-didnt-know-p2g)
-- [phoneFormat &amp; makeTelLink ColdFusion UDFs](https://dev.to/gamesover/phoneformat-maketellink-coldfusion-udfs-40fh)
-- [Unlocking the Power of Free Email APIs: What Are They and How to Deploy Them?](https://dev.to/philip_zhang_854092d88473/unlocking-the-power-of-free-email-apis-what-are-they-and-how-to-deploy-them-12n8)
-- [Understanding Mock API in JavaScript: A Beginner&#39;s Guide](https://dev.to/philip_zhang_854092d88473/understanding-mock-api-in-javascript-a-beginners-guide-pm5)
-- [Why ASAP &lpar;Atlassian&rpar; Auth is the Fast &amp; Safe Choice for REST API Authentication?](https://dev.to/philip_zhang_854092d88473/why-asap-atlassian-auth-is-the-fast-safe-choice-for-rest-api-authentication-18gl)
+- [How to Write Clean Code: Refactoring and Best Practices.](https://dev.to/balrajola/how-to-write-clean-code-refactoring-and-best-practices-1mo)
+- [Python vs. Java: Which Language is Better?](https://dev.to/techpulse55/python-vs-java-which-language-is-better-fc2)
+- [Why use Python for data analysis &lpar;when you have Excel or Google Sheets&rpar;](https://dev.to/mfdupuis/why-use-python-for-data-analysis-when-you-have-excel-or-google-sheets-2b23)
+- [Progresivno renderovanje: poboljšanje performansi prikaza sadržaja](https://dev.to/jelena_petkovic/progresivno-renderovanje-poboljsanje-performansi-prikaza-sadrzaja-lbp)
+- [View Transitions outside the Viewport](https://dev.to/iamschulz/view-transitions-outside-the-viewport-551)
 <!-- BLOG-POST-LIST:END -->
 
 ---
