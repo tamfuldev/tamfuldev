@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Get and verify data from a nested object - util functions #2](https://dev.to/schemetastic/get-and-verify-data-from-a-nested-object-util-functions-2-3fme)
-- [Understanding CSMA/CD and CSMA/CA in Networking](https://dev.to/574n13y/understanding-csmacd-and-csmaca-in-networking-1ip4)
-- [How to create authenticated routes with the new Expo SDK 51 using Expo Router](https://dev.to/detl_inc/how-to-create-authenticated-routes-with-the-new-expo-sdk-51-using-expo-router-4mo1)
-- [Incorrect calculations: sind&lpar;x&rpar; and cosd&lpar;x&rpar;](https://dev.to/zaim/incorrect-calculations-sindx-and-cosdx-2d5j)
-- [Razumevanje funkcija višeg reda &lpar;Higher-Order Functions&rpar; u JavaScript-u](https://dev.to/jelena_petkovic/razumevanje-funkcija-viseg-reda-higher-order-functions-u-javascript-u-5832)
+- [Social connect full-stack app using NestJs, Next.js, Prisma &amp; Next-Auth](https://dev.to/saidmou/social-connect-full-stack-app-using-nestjs-nextjs-prisma-next-auth-50lm)
+- [Security Update on Google Chrome Extensions](https://dev.to/willyam_simbolon_4f7357df/security-update-on-google-chrome-extensions-3n8l)
+- [Transform UI Screenshots into HTML &amp; CSS with Qwen Coder and Qwen VL](https://dev.to/tunehqai/transform-ui-screenshots-into-html-css-with-qwen-coder-and-qwen-vl-12nl)
+- [AI in Academia and Industry Collaboration](https://dev.to/willyam_simbolon_4f7357df/ai-in-academia-and-industry-collaboration-3n72)
+- [Physical vs Logical Data Structures](https://dev.to/aliturki/physical-vs-logical-data-structures-5940)
 <!-- BLOG-POST-LIST:END -->
 
 ---
