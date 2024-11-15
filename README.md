@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating an external file server https://min.io into a full-stack application on NestJS and Angular](https://dev.to/endykaufman/integrating-an-external-file-server-httpsminio-into-a-full-stack-application-on-nestjs-and-1l32)
-- [Is the browser always the right tool for the job?](https://dev.to/andreamancuso/is-the-browser-always-the-right-tool-for-the-job-21la)
-- [Top 10 NPM Packages to Try for React &lpar;and Beyond&rpar; in 2024](https://dev.to/gladiatorsbattle/top-10-npm-packages-to-try-for-react-and-beyond-in-2024-eg9)
-- [blog yb Covering Indexes: add columns in the Key or in Include?](https://dev.to/franckpachot/blog-yb-covering-indexes-add-columns-in-the-key-or-in-include-346n)
-- [Launching MakeClips AI - Faceless Video Generation](https://dev.to/ordinarycoders/launching-makeclips-ai-faceless-video-generation-1ij7)
+- [Software Engineering at Google - Chapter 9: Code Review](https://dev.to/eidher/software-engineering-at-google-chapter-9-code-review-oia)
+- [Desvendando os Git Aliases: Otimize seu fluxo de trabalho com simplicidade e estilo](https://dev.to/tonybsilvadev/desvendando-os-git-aliases-otimize-seu-fluxo-de-trabalho-com-simplicidade-e-estilo-1oka)
+- [Strings -- Manipulating the Immutable.](https://dev.to/maryalice/strings-manipulating-the-immutable-253a)
+- [Renaming Functionality in Visual Studio: Improving Code Quality with Ease](https://dev.to/moh_moh701/renaming-functionality-in-visual-studio-improving-code-quality-with-ease-3fff)
+- [Why Tracking Pain Matters: Launching Paindai for Chronic Pain Sufferers](https://dev.to/ryan_kopf/why-tracking-pain-matters-launching-paindai-for-chronic-pain-sufferers-52ch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
