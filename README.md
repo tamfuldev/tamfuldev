@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What Is a Data Streaming Platform?](https://dev.to/jhk_info/what-is-a-data-streaming-platform-1meo)
-- [Can you help me with product customization in React using React Fiber and 3D images &lpar;.gltf, .glb files&rpar;? The texture is different than expected. #ReactJS #productCustomization](https://dev.to/abhishek_rajpoot_f3f019af/can-you-help-me-with-product-customization-in-react-using-react-fiber-and-3d-images-gltf-glb-2go)
-- [Combatting Modern Phishing: Essential Precautions](https://dev.to/cyberwriter/combatting-modern-phishing-essential-precautions-91h)
-- [How to find smtp credentials in mailtrap](https://dev.to/mwacharo6/how-to-find-smtp-credentials-in-mailtrap-3bi3)
-- [How to Write REST API Documentation?](https://dev.to/apilover/how-to-write-rest-api-documentation-502p)
+- [The Monad Invasion - Part 3: Railway-Oriented Programming](https://dev.to/vonagedev/the-monad-invasion-part-3-railway-oriented-programming-5800)
+- [Creating A user Account on Your Local Machine](https://dev.to/fola2royal/creating-a-user-account-on-your-local-machine-eg4)
+- [Shortening import paths &lpar;path aliases&rpar; in vite-react-ts with NX mono-repos.](https://dev.to/mikesimmonds/shortening-import-paths-path-aliases-in-vite-react-ts-with-nx-mono-repos-ml6)
+- [C# Tip: Use async and await for Asynchronous Operations](https://dev.to/juarezasjunior/c-tip-use-async-and-await-for-asynchronous-operations-3l3o)
+- [Dica C#: Use async e await para Operações Assíncronas](https://dev.to/juarezasjunior/dica-c-use-async-e-await-para-operacoes-assincronas-40c2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
