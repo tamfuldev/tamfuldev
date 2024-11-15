@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Yami - An Open-Source Music Player With Simple Ui](https://dev.to/deverm/yami-an-open-source-music-player-with-simple-ui-3e08)
-- [The Evolution of JavaScript Frameworks: From jQuery to Svelte, with React and Vue Along the Way](https://dev.to/mohamedmok/the-evolution-of-javascript-frameworks-from-jquery-to-svelte-with-react-and-vue-along-the-way-3edb)
-- [Milvus Adventures November 15, 2024](https://dev.to/chrischurilo/milvus-adventures-november-15-2024-4fji)
-- [Mainnet Forking in Foundry](https://dev.to/awesamarth/mainnet-forking-in-foundry-79f)
-- [We Ditched Kubernetes! Here&#39;s Why &amp; What We&#39;re Using Now](https://dev.to/pmbanugo/we-ditched-kubernetes-heres-why-what-were-using-now-40b0)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5816)
+- [To Access Jenkins running on your EC2 instance](https://dev.to/fazly_fathhy/to-access-jenkins-running-on-your-ec2-instance-4cho)
+- [6 Skills You Need To Read Tech Articles Like a Pro](https://dev.to/oculus42/6-skills-you-need-to-read-tech-articles-like-a-pro-3fd2)
+- [Conditional Logic in Python: Examples to Enhance Skills](https://dev.to/codemechanix/conditional-logic-in-python-examples-to-enhance-skills-41o5)
+- [Intégration de la Traduction Vocale Instantanée entre Langues Officielles et Langues Maternelles avec Wit.ai](https://dev.to/jmegnidro/integration-de-la-traduction-vocale-instantanee-entre-langues-officielles-et-langues-maternelles-5776)
 <!-- BLOG-POST-LIST:END -->
 
 ---
