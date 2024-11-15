@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding SharedArrayBuffer in Simple Terms](https://dev.to/nozibul_islam_113b1d5334f/understanding-sharedarraybuffer-in-simple-terms-b3e)
-- [Sprint Retrospective Example: How To Turn Your Team&#39;s &quot;Oh, Crap!&quot; Moments Into &quot;Aha!&quot; Moments](https://dev.to/devactivity-app/sprint-retrospective-example-how-to-turn-your-teams-oh-crap-moments-into-aha-moments-515e)
-- [Python Decorators: Adding Magic to Your Functions, One Layer at a Time](https://dev.to/aishwarya_raj_978520e6399/python-decorators-adding-magic-to-your-functions-one-layer-at-a-time-5e3f)
-- [Why Software Developers Should Stay Updated on Crypto Trends](https://dev.to/kaankaya/why-software-developers-should-stay-updated-on-crypto-trends-lb5)
-- [&lt;toast-message&gt; Web Component](https://dev.to/dannyengelman/web-component-4865)
+- [What Is a Data Streaming Platform?](https://dev.to/jhk_info/what-is-a-data-streaming-platform-1meo)
+- [Can you help me with product customization in React using React Fiber and 3D images &lpar;.gltf, .glb files&rpar;? The texture is different than expected. #ReactJS #productCustomization](https://dev.to/abhishek_rajpoot_f3f019af/can-you-help-me-with-product-customization-in-react-using-react-fiber-and-3d-images-gltf-glb-2go)
+- [Combatting Modern Phishing: Essential Precautions](https://dev.to/cyberwriter/combatting-modern-phishing-essential-precautions-91h)
+- [How to find smtp credentials in mailtrap](https://dev.to/mwacharo6/how-to-find-smtp-credentials-in-mailtrap-3bi3)
+- [How to Write REST API Documentation?](https://dev.to/apilover/how-to-write-rest-api-documentation-502p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
