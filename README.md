@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Art of Data Synchronization in HarmonyOS Next Part Five: Cross - application Data Interaction](https://dev.to/xun_wang_6384a403f9817c2/the-art-of-data-synchronization-in-harmonyos-next-part-five-cross-application-data-interaction-3o2e)
-- [Data acience](https://dev.to/ozzy2410/data-acience-5apg)
-- [LangChain Memory Components In-depth Analysis: Workflow and Source Code Dissection](https://dev.to/jamesli/langchain-memory-components-in-depth-analysis-workflow-and-source-code-dissection-2an4)
-- [Software Engineering at Google - Chapter 3: Knowledge sharing](https://dev.to/eidher/software-engineering-at-google-chapter-3-knowledge-sharing-2il3)
-- [鸿蒙Next之数据同步艺术之五：跨应用数据交互](https://dev.to/xun_wang_6384a403f9817c2/hong-meng-nextzhi-shu-ju-tong-bu-yi-zhu-zhi-wu-kua-ying-yong-shu-ju-jiao-hu-22a4)
+- [Understanding Vue.js Slots: A Toddler Analogy](https://dev.to/forthegeeks/understanding-vuejs-slots-a-toddler-analogy-547m)
+- [Best Practices for Mobile App Performance Testing](https://dev.to/grjoeay/best-practices-for-mobile-app-performance-testing-1hk2)
+- [Combining Scrum with Kanban and Extreme Programming](https://dev.to/adityabhuyan/combining-scrum-with-kanban-and-extreme-programming-2kjj)
+- [Transform Mobile Testing with Secured Cloud-Based Testing](https://dev.to/berthaw82414312/transform-mobile-testing-with-secured-cloud-based-testing-18he)
+- [Chrome Flags&#39; Latest 2024 Update, Web Browser Video Hardware Acceleration on Linux](https://dev.to/archerallstars/chrome-flags-latest-2024-update-web-browser-video-hardware-acceleration-on-linux-34k1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
