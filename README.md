@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Monad Invasion - Part 3: Railway-Oriented Programming](https://dev.to/vonagedev/the-monad-invasion-part-3-railway-oriented-programming-5800)
-- [Creating A user Account on Your Local Machine](https://dev.to/fola2royal/creating-a-user-account-on-your-local-machine-eg4)
-- [Shortening import paths &lpar;path aliases&rpar; in vite-react-ts with NX mono-repos.](https://dev.to/mikesimmonds/shortening-import-paths-path-aliases-in-vite-react-ts-with-nx-mono-repos-ml6)
-- [C# Tip: Use async and await for Asynchronous Operations](https://dev.to/juarezasjunior/c-tip-use-async-and-await-for-asynchronous-operations-3l3o)
-- [Dica C#: Use async e await para Operações Assíncronas](https://dev.to/juarezasjunior/dica-c-use-async-e-await-para-operacoes-assincronas-40c2)
+- [🚀 Your Daily Crypto Job Digest For 15 November!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-15-november-3hc6)
+- [Is Squarespace Better for Your Website? Comparing WordPress and Squarespace Features](https://dev.to/henrydavid/is-squarespace-better-for-your-website-comparing-wordpress-and-squarespace-features-5anm)
+- [Real-Time Citrix Alerts in Slack: Webhook Integration Made Easy](https://dev.to/amalkabraham001/real-time-citrix-alerts-in-slack-webhook-integration-made-easy-3897)
+- [Conquer procrastination: Harness the power of Logseq](https://dev.to/airabbit/conquer-procrastination-harness-the-power-of-logseq-27l5)
+- [The Ultimate Guide To End-to-End Testing](https://dev.to/ronika_kashyap/the-ultimate-guide-to-end-to-end-testing-44k9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
