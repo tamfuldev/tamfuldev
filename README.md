@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 **Exciting Updates for LibTracker - The Ultimate SBOM Tool!** 🚀](https://dev.to/windmillcode/exciting-updates-for-libtracker-the-ultimate-sbom-tool-3apf)
-- [Orbis: The Magic of Abstraction in PHP](https://dev.to/lithephp/orbis-the-magic-of-abstraction-in-php-kh8)
-- [Orbis: A Magia da Abstração em PHP](https://dev.to/lithephp/orbis-a-magia-da-abstracao-em-php-1if7)
-- [Master Website Speed Optimization: A Comprehensive Guide](https://dev.to/techpulse55/master-website-speed-optimization-a-comprehensive-guide-3kc3)
-- [How to Use Orbis to Simplify Your PHP Code](https://dev.to/lithephp/how-to-use-orbis-to-simplify-your-php-code-28d3)
+- [Integrating an external file server https://min.io into a full-stack application on NestJS and Angular](https://dev.to/endykaufman/integrating-an-external-file-server-httpsminio-into-a-full-stack-application-on-nestjs-and-1l32)
+- [Is the browser always the right tool for the job?](https://dev.to/andreamancuso/is-the-browser-always-the-right-tool-for-the-job-21la)
+- [Top 10 NPM Packages to Try for React &lpar;and Beyond&rpar; in 2024](https://dev.to/gladiatorsbattle/top-10-npm-packages-to-try-for-react-and-beyond-in-2024-eg9)
+- [blog yb Covering Indexes: add columns in the Key or in Include?](https://dev.to/franckpachot/blog-yb-covering-indexes-add-columns-in-the-key-or-in-include-346n)
+- [Launching MakeClips AI - Faceless Video Generation](https://dev.to/ordinarycoders/launching-makeclips-ai-faceless-video-generation-1ij7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
