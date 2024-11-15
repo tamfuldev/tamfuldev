@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Creating A Window Virtual Machine, RDP into it, Add a data disc to window virtual machine.](https://dev.to/engra/creating-a-window-virtual-machine-rdp-into-it-add-a-data-disc-to-window-virtual-machine-i6k)
-- [Creating an azure compute Gallery , capture the image of VM and store in compute Gallery and create VMSS](https://dev.to/engra/creating-an-azure-compute-gallery-capture-the-image-of-vm-and-store-in-compute-gallery-and-1e02)
-- [How Focusing on Business Impact Improved My “Technical Debt” Conversations](https://dev.to/michymono77/how-focusing-on-business-impact-improved-my-technical-debt-conversations-21pe)
-- [Day 1060 : Ship &#39;Em Out](https://dev.to/dwane/day-1060-ship-em-out-1fki)
-- [# From Jest to Pytest: A JavaScript Developer&#39;s Journey into Python Testing](https://dev.to/peterdanwan/-from-jest-to-pytest-a-javascript-developers-journey-into-python-testing-gl0)
+- [The Art of Data Synchronization in HarmonyOS Next Part Five: Cross - application Data Interaction](https://dev.to/xun_wang_6384a403f9817c2/the-art-of-data-synchronization-in-harmonyos-next-part-five-cross-application-data-interaction-3o2e)
+- [Data acience](https://dev.to/ozzy2410/data-acience-5apg)
+- [LangChain Memory Components In-depth Analysis: Workflow and Source Code Dissection](https://dev.to/jamesli/langchain-memory-components-in-depth-analysis-workflow-and-source-code-dissection-2an4)
+- [Software Engineering at Google - Chapter 3: Knowledge sharing](https://dev.to/eidher/software-engineering-at-google-chapter-3-knowledge-sharing-2il3)
+- [鸿蒙Next之数据同步艺术之五：跨应用数据交互](https://dev.to/xun_wang_6384a403f9817c2/hong-meng-nextzhi-shu-ju-tong-bu-yi-zhu-zhi-wu-kua-ying-yong-shu-ju-jiao-hu-22a4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
