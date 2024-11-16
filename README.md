@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Istio in Kubernetes: A Comprehensive Guide to Microservices Management](https://dev.to/alialp/mastering-istio-in-kubernetes-a-comprehensive-guide-to-microservices-management-34dk)
-- [LibTracker Updates 11/16/24: Simplify Dependency Management with this simple SBOM Tool](https://dev.to/windmillcode/libtracker-updates-111624-simplify-dependency-management-with-this-simple-sbom-tool-4ce2)
-- [Framer Logo Dark Mode](https://dev.to/grapplingdev/framer-logo-dark-mode-150i)
-- [How to Run MongoDB in Docker](https://dev.to/codewith_ili/how-to-run-mongodb-in-docker-17c9)
-- [These Two Tools Helped Me Earn $40K in Bounties](https://dev.to/alwalxed/these-two-tools-helped-me-earn-40k-in-bounties-3bmb)
+- [Exciting News: Introducing the Filament Form Builder Handbook! 🚀](https://dev.to/andreiabohner/exciting-news-introducing-the-filament-form-builder-handbook-566i)
+- [How Access to Knowledge Makes You a Better Developer](https://dev.to/jadeljerdy/how-access-to-knowledge-makes-you-a-better-developer-968)
+- [Free Machine Learning Resources: A Comprehensive Learning Guide](https://dev.to/getvm/free-machine-learning-resources-a-comprehensive-learning-guide-2j7o)
+- [Mastering Isomorphic JavaScript: Boost Performance and SEO in Web Apps](https://dev.to/aaravjoshi/mastering-isomorphic-javascript-boost-performance-and-seo-in-web-apps-44c8)
+- [React Native authentication with xState v5](https://dev.to/gtodorov/react-native-authentication-with-xstate-v5-39ah)
 <!-- BLOG-POST-LIST:END -->
 
 ---
