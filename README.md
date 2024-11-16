@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Design a consistent hashing for system design interview](https://dev.to/dleedev365/design-a-consistent-hashing-for-system-design-interview-50f)
-- [Cutting the High Cost of Testing Microservices](https://dev.to/signadot/cutting-the-high-cost-of-testing-microservices-21io)
-- [Goliath Dashboard - Shield Module Demo](https://dev.to/danieljsaldana/goliath-dashboard-shield-module-demo-5162)
-- [Working with GitHub OAuth Authentication](https://dev.to/anhchienvu/working-with-github-oauth-authentication-48dk)
-- [Train valunarable communities both Technical and businesses entrepreneurship skills for self reliance and sustainability](https://dev.to/osete_josephhongton_67ff/train-valunarable-communities-both-technical-and-businesses-entrepreneurship-skills-for-self-46bc)
+- [Check your Azure account for private offers eligibility.](https://dev.to/nakib_juris/check-your-azure-account-for-private-offers-eligibility-4f1e)
+- [Day 1061 : Go Fly Away](https://dev.to/dwane/day-1061-go-fly-away-3hmd)
+- [Implementing CI Workflow](https://dev.to/aldrin312/ci-workflow-13m7)
+- [Building an Interactive Kids Story Generator with React Native and Hugging Face API](https://dev.to/ajmal_hasan/building-an-interactive-kids-story-generator-with-react-native-and-hugging-face-api-3kk6)
+- [Teste do Capítulo 10 &lpar;exercícios&rpar;](https://dev.to/devsjavagirls/teste-do-capitulo-10-exercicios-dg1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
