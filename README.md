@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Check your Azure account for private offers eligibility.](https://dev.to/nakib_juris/check-your-azure-account-for-private-offers-eligibility-4f1e)
-- [Day 1061 : Go Fly Away](https://dev.to/dwane/day-1061-go-fly-away-3hmd)
-- [Implementing CI Workflow](https://dev.to/aldrin312/ci-workflow-13m7)
-- [Building an Interactive Kids Story Generator with React Native and Hugging Face API](https://dev.to/ajmal_hasan/building-an-interactive-kids-story-generator-with-react-native-and-hugging-face-api-3kk6)
-- [Teste do Capítulo 10 &lpar;exercícios&rpar;](https://dev.to/devsjavagirls/teste-do-capitulo-10-exercicios-dg1)
+- [Storage Solutions for a New Company App: Scalable, Secure, and Efficient](https://dev.to/unique-tea/storage-solutions-for-a-new-company-app-scalable-secure-and-efficient-45le)
+- [bkash এর পেমেন্ট গেটওয়ে তৈরী করার নিয়ম](https://dev.to/mfmuktadir/bkash-er-pementt-gettoyye-tairii-kraar-niyym-2e45)
+- [First DevOps books to read](https://dev.to/tmckiknn3/first-devops-books-to-read-2pbk)
+- [Why Windsurf is the Best Free AI Code Editor You’ve Never Heard Of](https://dev.to/dev_michael/why-windsurf-is-the-best-free-ai-code-editor-youve-never-heard-of-3ofj)
+- [Build Next Gen-Apps for the Entire Agreement Lifecycle at Docusign Discover](https://dev.to/docusigndevs/build-next-gen-apps-for-the-entire-agreement-lifecycle-at-docusign-discover-5d3b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
