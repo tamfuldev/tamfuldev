@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Setup Eslint Prettier in a TypeScript project with mongoose ODM](https://dev.to/rashedul_islam_rajj/setup-eslint-prettier-in-a-typescript-project-with-mongoose-odm-3j78)
-- [FP &gt; OO](https://dev.to/john_mitchell_4185d0dd9ed/fp-oo-2hej)
-- [Re: I Like Makefiles](https://dev.to/john_mitchell_4185d0dd9ed/re-i-like-makefiles-5h76)
-- [Enhance iOS Development with Kotlin Multiplatform Library](https://dev.to/arsenikavalchuk/enhance-ios-development-with-kotlin-multiplatform-library-1h02)
-- [Access modifiers in Java](https://dev.to/devmercy/access-modifiers-in-java-383e)
+- [VideoToBlogAI: Transform Your Videos Into Technical Blog Post Using AI](https://dev.to/bakkeshks/videotoblogai-transform-your-videos-into-technical-blog-post-using-ai-4b57)
+- [Cursor Tips](https://dev.to/heymarkkop/cursor-tips-10f8)
+- [Libre - OSINT CTF Writeup - Pwnedcr2024](https://dev.to/casderoso/libre-osint-ctf-writeup-pwnedcr2024-6np)
+- [JavaScript and SaaS: The Dynamic Duo Behind Scalable and Interactive Applications](https://dev.to/boniface_gordian/javascript-and-saas-the-dynamic-duo-behind-scalable-and-interactive-applications-2ok2)
+- [Insertion Sort](https://dev.to/harsh_bhardwaj_809a89d3a7/insertion-sort-335e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
