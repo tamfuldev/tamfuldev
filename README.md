@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Exciting News: Introducing the Filament Form Builder Handbook! 🚀](https://dev.to/andreiabohner/exciting-news-introducing-the-filament-form-builder-handbook-566i)
-- [How Access to Knowledge Makes You a Better Developer](https://dev.to/jadeljerdy/how-access-to-knowledge-makes-you-a-better-developer-968)
-- [Free Machine Learning Resources: A Comprehensive Learning Guide](https://dev.to/getvm/free-machine-learning-resources-a-comprehensive-learning-guide-2j7o)
-- [Mastering Isomorphic JavaScript: Boost Performance and SEO in Web Apps](https://dev.to/aaravjoshi/mastering-isomorphic-javascript-boost-performance-and-seo-in-web-apps-44c8)
-- [React Native authentication with xState v5](https://dev.to/gtodorov/react-native-authentication-with-xstate-v5-39ah)
+- [Higher-Order Functions in JavaScript](https://dev.to/sudhanshu_developer/higher-order-functions-in-javascript-cp9)
+- [My journey from a CNCF contributor to LFX mentee](https://dev.to/1shubham7/my-journey-from-a-cncf-contributor-to-lfx-mentee-4mhj)
+- [Adding CI Workflows with GitHub Actions](https://dev.to/arilloid/adding-ci-workflows-with-github-actions-d26)
+- [Does Your JavaScript Code Sucks?](https://dev.to/grenishrai/does-your-javascript-code-sucks-519j)
+- [Time is so important](https://dev.to/gabrieltoma/time-is-so-important-30la)
 <!-- BLOG-POST-LIST:END -->
 
 ---
