@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Globally Replicated Services for the Rest of Us](https://dev.to/code42cate/globally-replicated-services-for-the-rest-of-us-7o2)
-- [Solution to a mutating trigger error in Oracle SQL](https://dev.to/mrcaption49/solution-to-a-mutating-trigger-error-in-oracle-sql-3pnf)
-- [AI-Driven Election Security: Safeguarding Democracy in the Digital Age](https://dev.to/siddharthbhalsod/ai-driven-election-security-safeguarding-democracy-in-the-digital-age-3f0e)
-- [Analogy of mutating trigger with examples](https://dev.to/mrcaption49/analogy-of-mutating-trigger-with-examples-3n1o)
-- [Mutating trigger in Oracle SQL](https://dev.to/mrcaption49/mutating-trigger-in-oracle-sql-41he)
+- [Day 4 - None Datatype &amp; input&lpar;&rpar; function in Python](https://dev.to/lakshmi_prithanadesan_32/day-4-none-datatype-input-function-in-python-36pf)
+- [Hiring For Bitcoin And AVS Developer](https://dev.to/web3hires/hiring-for-bitcoin-and-avs-developer-3emo)
+- [Découvrez Astro : Le Framework Frontend Ultra Performant](https://dev.to/guillaumesere/decouvrez-astro-le-framework-frontend-ultra-performant-24ep)
+- [Seeking advice for my OSINT presentation 🚀](https://dev.to/perisicnikola37/seeking-advice-for-my-osint-presentation-1g19)
+- [Inside My Workflow](https://dev.to/crusty0gphr/inside-my-workflow-2b04)
 <!-- BLOG-POST-LIST:END -->
 
 ---
