@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Working of SQL*Loader](https://dev.to/mrcaption49/working-of-sqlloader-i19)
-- [Step-by-Step Guide to Scraping eBay Using Python](https://dev.to/toniaread/step-by-step-guide-to-scraping-ebay-using-python-4djh)
-- [What is Web Accessibility and Why Does it Matter? &lpar;1 Minute Guide&rpar;](https://dev.to/itamartati/what-is-web-accessibility-and-why-does-it-matter-2ne9)
-- [How Self-Driving Cars Use AI: The Role of Machine Learning in Autonomous Vehicles](https://dev.to/abhinowww/how-self-driving-cars-use-ai-the-role-of-machine-learning-in-autonomous-vehicles-542h)
-- [What is a CDN and Why is it Important for Web Performance? &lpar;1 Minute Guide&rpar;](https://dev.to/itamartati/what-is-a-cdn-and-why-is-it-important-for-web-performance-1-minute-guide-5291)
+- [What goes after Serverless? I&#39;m looking for a new buzzword.](https://dev.to/michalsimon/what-goes-after-serverless-im-looking-for-a-new-buzzword-dch)
+- [Develop 10x Faster with AI: Unlock the Power of AI for Developers](https://dev.to/eransakal/develop-10x-faster-with-ai-unlock-the-power-of-ai-for-developers-17c9)
+- [Scale Smarter, Not Harder: Use Cloud for Ecommerce Website](https://dev.to/kyanondigital/scale-smarter-not-harder-use-cloud-for-ecommerce-website-48ge)
+- [How to Execute a SQL Statement on a Different Type of Database #eg74](https://dev.to/esproc_spl/how-to-execute-a-sql-statement-on-a-different-type-of-database-eg74-5ge4)
+- [TreeWalker: A Practical Guide to DOM Traversal](https://dev.to/k_ivanow/treewalker-a-practical-guide-to-dom-traversal-hn6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
