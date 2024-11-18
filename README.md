@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Type Coercion in JavaScript Explained](https://dev.to/devshefali/type-coercion-in-javascript-explained-3poo)
-- [An Anti-Pattern to get UIWindowScene](https://dev.to/matsuji/an-anti-pattern-to-get-uiwindowscene-1j54)
-- [The Role of JSON in APIs](https://dev.to/riyasharma028/the-role-of-json-in-apis-4f43)
-- [Optimizing External Libraries with the defer Attribute: Boosting Page Speed](https://dev.to/mahasun/optimizing-external-libraries-with-the-defer-attribute-boosting-page-speed-agf)
-- [PostgreSQL Connection Pooling vs No Pooling: Benchmark Analysis](https://dev.to/nareshnishad/postgresql-connection-pooling-vs-no-pooling-benchmark-analysis-a0)
+- [Como funcionam Bindings de Fluxo de Controle no KnockoutJs](https://dev.to/santanaluc94/como-funcionam-bindings-de-fluxo-de-controle-no-knockoutjs-3cbp)
+- [8 essentials for every JavaScript project](https://dev.to/vivianedias/8-essentials-for-every-javascript-project-56kn)
+- [Iniciando na área de desenvolvimento &lpar;guia prático&rpar;](https://dev.to/felipe0liveira/iniciando-na-area-de-desenvolvimento-4odp)
+- [DevOps Practical Experience with Home Lab](https://dev.to/wdp/devops-practical-experience-with-home-lab-379p)
+- [The Journey of a DevOps Specialist: Delivering Scalable Solutions in the Cloud](https://dev.to/jskmypersonal_41c57d16a9c/the-journey-of-a-devops-specialist-delivering-scalable-solutions-in-the-cloud-5g1k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
