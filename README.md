@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [💡 What&#39;s new in txtai 8.0](https://dev.to/neuml/whats-new-in-txtai-80-50ia)
-- [Implantando Aplicações Serverless no Google Cloud Run](https://dev.to/cslemes/implantando-aplicacoes-serverless-no-google-cloud-run-2nnh)
-- [Setting up a Self-Hosted Runner on GitHub Actions](https://dev.to/mayurbhatti/setting-up-a-self-hosted-runner-on-github-actions-5a7f)
-- [💫🔷Mastering Git &amp; GitHub Level Up Your Collaboration and Version Control Skills✌️](https://dev.to/vaishnavi_sonawane/mastering-git-githublevel-up-your-collaboration-and-version-control-skills-5f3m)
-- [Switching Auth Method in Postman dinamically](https://dev.to/heymarkkop/switching-auth-method-in-postman-dinamically-1j33)
+- [how to do api getway contex in aws lambdas ?](https://dev.to/souzdev/how-to-do-api-getway-contex-in-aws-lambdas--4lgj)
+- [LibTracker Updates 11/18/24: Simplify Dependency Management with this simple SBOM Tool](https://dev.to/windmillcode/libtracker-updates-111824-simplify-dependency-management-with-this-simple-sbom-tool-4chd)
+- [Squash Elo Rating System](https://dev.to/aaravsibbal/squash-elo-rating-system-54k1)
+- [The Ultimate Guide to JavaScript Features and Concepts](https://dev.to/koolkamalkishor/the-ultimate-guide-to-javascript-features-and-concepts-56gb)
+- [36/365 | ¥10M Job Challenge - Another day of overtime](https://dev.to/kameken100/36365-y10m-job-challenge-another-day-of-overtime-n6m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
