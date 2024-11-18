@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Product Scraper for Infinite Scroll Websites using ZenRows Web Scraper](https://dev.to/phenzic/how-to-build-a-product-scraper-for-infinite-scroll-websites-using-zenrows-web-scraper-549i)
-- [The Prisma ORM: A Brief Overview and Introduction](https://dev.to/sandrockjustin/the-prisma-orm-a-brief-overview-and-introduction-353m)
-- [A Story of Developers, Data, and Diversity](https://dev.to/sachagreif/a-story-of-developers-data-and-diversity-29el)
-- [iOS String to Kotlin ByteArray Performance Analysis](https://dev.to/arsenikavalchuk/ios-string-to-kotlin-bytearray-performance-analysis-4edi)
-- [The World of HarmonyOS Programming: Advantages of Asynchronous Programming and the Application of Promise](https://dev.to/xun_wang_6384a403f9817c2/the-world-of-harmonyos-programming-advantages-of-asynchronous-programming-and-the-application-of-3dh3)
+- [🚀 CodeFusion: Real-time collaborative code editor with AI assistance, versioning, chat, and live previews! Try it today!](https://dev.to/karan_kumar_3f6d4c961f2eb/codefusion-real-time-collaborative-code-editor-with-ai-assistance-versioning-chat-and-live-6e1)
+- [LLM Parallel Processing in Practice: Key Techniques for Performance Enhancement](https://dev.to/jamesli/llm-parallel-processing-in-practice-key-techniques-for-performance-enhancement-20g0)
+- [Building a real-time chat using WebSockets over HTTP/2 streams](https://dev.to/c410f3r/building-a-real-time-chat-using-websockets-over-http2-streams-19ij)
+- [Learning GO : 09 - Packages](https://dev.to/gaurav444/learning-go-09-packages-aji)
+- [Simplifying Package Distribution with setuptools and pyproject.toml](https://dev.to/fadingna/simplifying-package-distribution-with-setuptools-and-pyprojecttoml-38in)
 <!-- BLOG-POST-LIST:END -->
 
 ---
