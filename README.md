@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Online Postman-Like Tools for API Testing and Development](https://dev.to/apilover/top-10-online-postman-like-tools-for-api-testing-and-development-4mom)
-- [Is JavaScript Statically Typed or Dynamically Typed? 🤔](https://dev.to/jagroop2001/is-javascript-statically-typed-or-dynamically-typed-13j4)
-- [Embracing Sustainability: A Guide to Building a Greener Future](https://dev.to/alan_saji_79586f4fa7fd486/embracing-sustainability-a-guide-to-building-a-greener-future-3b38)
-- [The Hidden Struggles of Remote Work: What I Learned Working From Home](https://dev.to/andylarkin677/the-hidden-struggles-of-remote-work-what-i-learned-working-from-home-5bp6)
-- [Microfrontends a Developer&#39;s Guide: Exploring Projects and Managing Communication](https://dev.to/joacod/microfrontends-a-developers-guide-exploring-projects-and-managing-communication-19o0)
+- [Type Coercion in JavaScript Explained](https://dev.to/devshefali/type-coercion-in-javascript-explained-3poo)
+- [An Anti-Pattern to get UIWindowScene](https://dev.to/matsuji/an-anti-pattern-to-get-uiwindowscene-1j54)
+- [The Role of JSON in APIs](https://dev.to/riyasharma028/the-role-of-json-in-apis-4f43)
+- [Optimizing External Libraries with the defer Attribute: Boosting Page Speed](https://dev.to/mahasun/optimizing-external-libraries-with-the-defer-attribute-boosting-page-speed-agf)
+- [PostgreSQL Connection Pooling vs No Pooling: Benchmark Analysis](https://dev.to/nareshnishad/postgresql-connection-pooling-vs-no-pooling-benchmark-analysis-a0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
