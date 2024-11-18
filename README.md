@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Como funcionam Bindings de Fluxo de Controle no KnockoutJs](https://dev.to/santanaluc94/como-funcionam-bindings-de-fluxo-de-controle-no-knockoutjs-3cbp)
-- [8 essentials for every JavaScript project](https://dev.to/vivianedias/8-essentials-for-every-javascript-project-56kn)
-- [Iniciando na área de desenvolvimento &lpar;guia prático&rpar;](https://dev.to/felipe0liveira/iniciando-na-area-de-desenvolvimento-4odp)
-- [DevOps Practical Experience with Home Lab](https://dev.to/wdp/devops-practical-experience-with-home-lab-379p)
-- [The Journey of a DevOps Specialist: Delivering Scalable Solutions in the Cloud](https://dev.to/jskmypersonal_41c57d16a9c/the-journey-of-a-devops-specialist-delivering-scalable-solutions-in-the-cloud-5g1k)
+- [Proton VPN: Latest Coupons and Deals](https://dev.to/irina_nava_/proton-vpn-latest-coupons-and-deals-4bb7)
+- [# Transcripto - AI-Powered Transcription Application](https://dev.to/dad_562765197a2/-transcripto-ai-powered-transcription-application-1c2k)
+- [Understanding The Terminal &amp; The Command Line](https://dev.to/charles_eugene_79230d4394/understanding-the-terminal-the-command-line-1h5d)
+- [How to use generic component in vue3 and typescript?](https://dev.to/ltmonster/how-to-use-generic-component-in-vue3-and-typescript-1hla)
+- [Mastering the Art of Rest: A Guide to Wellness for IT Professionals 🌟](https://dev.to/angelamiton/mastering-the-art-of-rest-a-guide-to-wellness-for-it-professionals-4al1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
