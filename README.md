@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Gmail Sending with Cloudflare Workers - Setup Guide](https://dev.to/roboword/implementing-gmail-sending-with-cloudflare-workers-setup-guide-he0)
-- [🚀 Hacktoberfest 2024 Contributor &lpar;October 1st - October 31st&rpar; 🌍](https://dev.to/aniruddhadak/hacktoberfest-2024-contributor-october-1st-october-31st-2l37)
-- [How overwriting NODE_OPTIONS can ruin your debugger in Visual Studio Code 😬](https://dev.to/pawelfras/how-overwriting-nodeoptions-can-ruin-your-debugger-in-visual-studio-code-kgo)
-- [Exploring Recursion in Go: Exercise Repository](https://dev.to/camilo_quicenoq/exploring-recursion-in-go-exercise-repository-2c72)
-- [AI Algorithms May Be Closer to You Than Your Breath](https://dev.to/etherealaether/ai-algorithms-may-be-closer-to-you-than-your-breath-27h8)
+- [Introduction to Chaos Engineering and LitmusChaos](https://dev.to/asi_security/introduction-to-chaos-engineering-and-litmuschaos-2non)
+- [Rust Threads safety: Uma comparação com C.](https://dev.to/z4nder/rust-threads-safety-uma-comparacao-com-c-1a8h)
+- [Every Line of Code Impacts the Organization&#39;s Bottomline: Let me tell you how!](https://dev.to/omotolanitechtalk/every-line-of-code-impacts-the-organizations-bottomline-let-me-tell-you-how-dd1)
+- [From Local Files to Live: Deploy Your Static Website Using Azure Storage](https://dev.to/unique-tea/from-local-files-to-live-deploy-your-static-website-using-azure-storage-83g)
+- [Preparing for an AWS Summit](https://dev.to/obayuwanapaul/preparing-for-an-aws-summit-3b67)
 <!-- BLOG-POST-LIST:END -->
 
 ---
