@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Quick Guide to MySQL Math Functions for SQL Users](https://dev.to/dbvismarketing/quick-guide-to-mysql-math-functions-for-sql-users-2kie)
-- [PHP, Analytics and surroundings](https://dev.to/giuliano1993/php-analytics-and-surroundings-ml2)
-- [Lean Tech Stack: Smart Scaling Without the Heavy Costs](https://dev.to/kyanondigital/lean-tech-stack-smart-scaling-without-the-heavy-costs-o60)
-- [How to Enable ASP.NET 3.5 Support for IIS in Windows 11?](https://dev.to/winsides/how-to-enable-aspnet-35-support-for-iis-in-windows-11-3kli)
-- [Linux Kernel 6.12: A Quantum Leap in Performance and Features](https://dev.to/oliverbennet/linux-kernel-612-a-quantum-leap-in-performance-and-features-5ah6)
+- [6 Best Practices for Cloud Performance Testing](https://dev.to/berthaw82414312/6-best-practices-for-cloud-performance-testing-1mn)
+- [Where Flip-Flops Meet Funding: Inside Geeks on a Beach 2024](https://dev.to/kakacomputer/where-flip-flops-meet-funding-inside-geeks-on-a-beach-2024-2b67)
+- [Vite + React app MIME error when reloading the page](https://dev.to/shieldstring/vite-react-app-mime-error-when-reloading-the-page-eg2)
+- [Logger package in changesets monorepo](https://dev.to/thinkthroo/logger-package-in-changesets-monorepo-457o)
+- [Method Chaining in C++](https://dev.to/rishavkapil24/method-chaining-in-c-254a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
