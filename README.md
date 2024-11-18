@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Today’s Progress: Implementing APIFeatures](https://dev.to/jahend412/todays-progress-implementing-apifeatures-42hd)
-- [Tailscale on immutable Linux](https://dev.to/mscharley/tailscale-on-immutable-linux-3j92)
-- [C# Search by multiple strings](https://dev.to/karenpayneoregon/c-search-by-multiple-strings-1dol)
-- [How to Use Amazon Web Services for Email Address Validation](https://dev.to/billgist/how-to-use-amazon-web-services-for-email-address-validation-41k1)
-- [Quick tip: Visualising the Air Quality Index &lpar;AQI&rpar; across Punjab, Pakistan and India](https://dev.to/singlestore/quick-tip-visualising-the-air-quality-index-aqi-across-punjab-pakistan-and-india-2lop)
+- [How to Build a Product Scraper for Infinite Scroll Websites using ZenRows Web Scraper](https://dev.to/phenzic/how-to-build-a-product-scraper-for-infinite-scroll-websites-using-zenrows-web-scraper-549i)
+- [The Prisma ORM: A Brief Overview and Introduction](https://dev.to/sandrockjustin/the-prisma-orm-a-brief-overview-and-introduction-353m)
+- [A Story of Developers, Data, and Diversity](https://dev.to/sachagreif/a-story-of-developers-data-and-diversity-29el)
+- [iOS String to Kotlin ByteArray Performance Analysis](https://dev.to/arsenikavalchuk/ios-string-to-kotlin-bytearray-performance-analysis-4edi)
+- [The World of HarmonyOS Programming: Advantages of Asynchronous Programming and the Application of Promise](https://dev.to/xun_wang_6384a403f9817c2/the-world-of-harmonyos-programming-advantages-of-asynchronous-programming-and-the-application-of-3dh3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
