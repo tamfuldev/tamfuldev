@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [15 Best GitHub Code Review Tools [Free &amp; Paid]](https://dev.to/trulyfurqan/15-best-github-code-review-tools-free-paid-3kfm)
-- [𝗨𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱𝗶𝗻𝗴 𝗮𝗻𝗱 𝗜𝗺𝗽𝗹𝗲𝗺𝗲𝗻𝘁𝗶𝗻𝗴 𝗨𝗨𝗜𝗗𝘀 𝗶𝗻 .𝗡𝗘𝗧 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀](https://dev.to/apurvupadhyay/-59lg)
-- [Sidecar Pattern in Microservices](https://dev.to/vipulkumarsviit/sidecar-pattern-in-microservices-41l5)
-- [Facing 502 Bad Gateway? These might be the reasons.](https://dev.to/ghoshbishakh/facing-502-bad-gateway-these-might-be-the-reasons-h5b)
-- [Embracing an Agile Mindset: Choosing the Right Development Methodology for Success](https://dev.to/kyanondigital/embracing-an-agile-mindset-choosing-the-right-development-methodology-for-success-17j)
+- [Working of SQL*Loader](https://dev.to/mrcaption49/working-of-sqlloader-i19)
+- [Step-by-Step Guide to Scraping eBay Using Python](https://dev.to/toniaread/step-by-step-guide-to-scraping-ebay-using-python-4djh)
+- [What is Web Accessibility and Why Does it Matter? &lpar;1 Minute Guide&rpar;](https://dev.to/itamartati/what-is-web-accessibility-and-why-does-it-matter-2ne9)
+- [How Self-Driving Cars Use AI: The Role of Machine Learning in Autonomous Vehicles](https://dev.to/abhinowww/how-self-driving-cars-use-ai-the-role-of-machine-learning-in-autonomous-vehicles-542h)
+- [What is a CDN and Why is it Important for Web Performance? &lpar;1 Minute Guide&rpar;](https://dev.to/itamartati/what-is-a-cdn-and-why-is-it-important-for-web-performance-1-minute-guide-5291)
 <!-- BLOG-POST-LIST:END -->
 
 ---
