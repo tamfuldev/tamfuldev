@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Custom Kotlin Delegates: Shared Preferences](https://dev.to/ssharyk/custom-kotlin-delegates-shared-preferences-42f3)
-- [Using Goose with OpenAI](https://dev.to/iabdulkarim472/using-goose-with-openai-8bf)
-- [The CSS geometric loaders + free source code ❤️](https://dev.to/melnik909/the-css-geometric-loaders-free-source-code-38bc)
-- [Recapping ECCV 2024 Redux: Day 1](https://dev.to/voxel51/recapping-eccv-2024-redux-day-1-1766)
-- [RoboCon 2024 - How to create a successful Robot Framework project](https://dev.to/giovanabrrts/robocon-2024-how-to-create-a-successful-robot-framework-project-5gm3)
+- [I created a Realtime Voice Assistant for my ESP-32, here is my journey - Part 1 : Hardware, PlatformIO &amp; C++](https://dev.to/fabrikapp/i-created-a-realtime-voice-assistant-for-my-esp-32-here-is-my-journey-part-1-hardware-43de)
+- [Consuming APIs in C: a practical guide for modern developers](https://dev.to/robertobutti/consuming-apis-in-c-a-practical-guide-for-modern-developers-465f)
+- [Navegación en la consola de AWS: Tips y mejores prácticas](https://dev.to/briansuarezsantiago/navegacion-en-la-consola-de-aws-tips-y-mejores-practicas-3lg5)
+- [Issue 71 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-71-of-aws-cloud-security-weekly-31o8)
+- [A First Encounter with Machine Learning: Your Gateway to Data Science](https://dev.to/getvm/a-first-encounter-with-machine-learning-your-gateway-to-data-science-1o37)
 <!-- BLOG-POST-LIST:END -->
 
 ---
