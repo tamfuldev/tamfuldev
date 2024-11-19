@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Bare-bones file upload in php](https://dev.to/mohamed_hammi/bare-bones-files-upload-in-php-10lc)
-- [Entity Relationship Diagram[ERD]](https://dev.to/aryaglekshmi/entity-relationship-diagramerd-2k9g)
-- [Connecting database with API](https://dev.to/dhani_dzulkarnain/connecting-database-with-api-29bm)
-- [Efficient Git Diff Analysis: A Comprehensive Guide](https://dev.to/saniyathossain/efficient-git-diff-analysis-a-comprehensive-guide-2hd1)
-- [Design and Implementation of LLM-based Intelligent O&amp;M Agent System](https://dev.to/jamesli/design-and-implementation-of-llm-based-intelligent-om-agent-system-143b)
+- [What do 200 electrocuted monks have to do with Redis 8, the fastest Redis ever?](https://dev.to/raphaeldelio/what-do-200-electrocuted-monks-have-to-do-with-redis-8-the-fastest-redis-ever-3kca)
+- [A Importância dos Fundamentos](https://dev.to/biosbug/a-importancia-dos-fundamentos-28l5)
+- [A Quick Glance at Software Engineering and CI/CD](https://dev.to/jmbharathram/a-quick-glance-at-software-engineering-and-cicd-58n6)
+- [Why Every Programmer Needs to Chill: Debugging Life Outside the Code](https://dev.to/high_octane/why-every-programmer-needs-to-chill-debugging-life-outside-the-code-353h)
+- [A linguagem de programação Lua &lpar;e seu impacto na Engenharia de Software&rpar;, Roberto Ierusalimschy](https://dev.to/fronteirases/a-linguagem-de-programacao-lua-e-seu-impacto-na-engenharia-de-software-roberto-ierusalimschy-4mm8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
