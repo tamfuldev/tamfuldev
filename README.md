@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Keep Up With the Latest Storm Activity Effecting Brevard Roofing Company](https://dev.to/leonorpattyxmo/build-a-simple-weather-app-in-java-using-openweathermap-api-3416)
-- [I.A.M., But Who Are You?? Authentication and Authorization on the internet](https://dev.to/steviepee/iam-but-who-are-you-authentication-and-authorization-on-the-internet-1i03)
-- [Making two microservices communicate using RabbitMQ and MassTransit](https://dev.to/angelodotnet/making-two-microservices-communicate-using-rabbitmq-and-masstransit-2g8i)
-- [Breaking down DevOps to Everyone](https://dev.to/oyewole_adebayo_583d8d7f9/breaking-down-devops-to-everyone-4ioc)
-- [Leadership Fatigue and Burnout](https://dev.to/asi_security/leadership-fatigue-and-burnout-1j0m)
+- [鸿蒙编程江湖：深入理解TaskPool和Worker的并发任务执行](https://dev.to/xun_wang_6384a403f9817c2/hong-meng-bian-cheng-jiang-hu-shen-ru-li-jie-taskpoolhe-workerde-bing-fa-ren-wu-zhi-xing-2j2a)
+- [Making OpenGraph &lpar;OG&rpar; Images More Accessible: Now Design &amp; Preview Everything for Free 🎨](https://dev.to/gleamso/making-opengraph-og-images-more-accessible-now-design-preview-everything-for-free-2jf2)
+- [Manejando errores en Javascript / Typescript: Excepciones personalizadas y Result](https://dev.to/jorgench/manejando-errores-en-javascript-typescript-excepciones-personalizadas-y-result-and)
+- [Setting up your own secure VPN with Amnezia VPN](https://dev.to/amnezia-vpn/setting-up-your-own-secure-vpn-with-amnezia-vpn-22d7)
+- [Today’s Progress: Adding an Aggregate Pipeline](https://dev.to/jahend412/todays-progress-adding-an-aggregate-pipeline-97b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
