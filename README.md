@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What do 200 electrocuted monks have to do with Redis 8, the fastest Redis ever?](https://dev.to/raphaeldelio/what-do-200-electrocuted-monks-have-to-do-with-redis-8-the-fastest-redis-ever-3kca)
-- [A Importância dos Fundamentos](https://dev.to/biosbug/a-importancia-dos-fundamentos-28l5)
-- [A Quick Glance at Software Engineering and CI/CD](https://dev.to/jmbharathram/a-quick-glance-at-software-engineering-and-cicd-58n6)
-- [Why Every Programmer Needs to Chill: Debugging Life Outside the Code](https://dev.to/high_octane/why-every-programmer-needs-to-chill-debugging-life-outside-the-code-353h)
-- [A linguagem de programação Lua &lpar;e seu impacto na Engenharia de Software&rpar;, Roberto Ierusalimschy](https://dev.to/fronteirases/a-linguagem-de-programacao-lua-e-seu-impacto-na-engenharia-de-software-roberto-ierusalimschy-4mm8)
+- [Agents in Artificial Intelligence: What Are They And How They Are Used](https://dev.to/ioni_ms/agents-in-artificial-intelligence-what-are-they-and-how-they-are-used-n9j)
+- [The Top 8 ML Model Monitoring Tools](https://dev.to/orhillel/the-top-8-ml-model-monitoring-tools-40k3)
+- [Healthcare Data Governance: Ensuring Quality and Compliance](https://dev.to/ostapzabolotnyy/healthcare-data-governance-ensuring-quality-and-compliance-25ch)
+- [10 Top Kong Alternatives to Enhance Your API Management in 2024](https://dev.to/apilover/10-top-kong-alternatives-to-enhance-your-api-management-in-2024-14cl)
+- [Spring Boot Native Images: Supercharge Your Apps in 15 Words](https://dev.to/aaravjoshi/spring-boot-native-images-supercharge-your-apps-in-15-words-2m7i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
