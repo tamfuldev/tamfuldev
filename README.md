@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Service Mesh: Managing Microservices Communication](https://dev.to/vipulkumarsviit/service-mesh-managing-microservices-communication-303b)
-- [Top Benefits of Cloud Migration Services](https://dev.to/brilworks/top-benefits-of-cloud-migration-services-20ni)
-- [Sakura Boot: Reduce boilerplate, save time, build backends faster with Spring Boot](https://dev.to/malcolmsansen/sakura-boot-reduce-boilerplate-save-time-build-backends-faster-with-spring-boot-2jd8)
-- [How AI Art Generators Are Redefining Traditional Creativity](https://dev.to/jonaslee/how-ai-art-generators-are-redefining-traditional-creativity-8fi)
-- [trong mo hinh ddd cac domain lien ket voi anhu the nao](https://dev.to/timthoi/trong-mo-hinh-ddd-cac-domain-lien-ket-voi-anhu-the-nao-91o)
+- [🔒 Securing Web Applications: Best Practices in Authentication 🔑 and Authorization ✅](https://dev.to/info_generalhazedawn_a3d/securing-web-applications-best-practices-in-authentication-and-authorization-3gog)
+- [No one wants to hire you. Now what?](https://dev.to/_ndeyefatoudiop/no-one-wants-to-hire-you-now-what-36km)
+- [How Does AI Work? 🤔🤔](https://dev.to/chiragjoshi/how-does-ai-work-l16)
+- [What&#39;s a Quickie Post?](https://dev.to/oliverbennet/whats-a-quickie-post-2g5c)
+- [Fact-Checking in AI-Generated Content: Tools and Tips](https://dev.to/danyaleyman/fact-checking-in-ai-generated-content-tools-and-tips-1h24)
 <!-- BLOG-POST-LIST:END -->
 
 ---
