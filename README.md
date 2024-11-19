@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-55mg)
-- [Demystifying Software Architectures: Choosing the Right Design for Your Project](https://dev.to/wallacefreitas/demystifying-software-architectures-choosing-the-right-design-for-your-project-5gmi)
-- [2024 Recap: Why Accessibility is Important](https://dev.to/theoriginalbpc/2024-recap-why-accessibility-is-important-43n9)
-- [How to remove duplicates in Postgres SQL](https://dev.to/tresorama/how-to-remove-duplicates-in-postgres-sql-59ad)
-- [Automate Saving the Planet... Or Just Your Computer&#39;s Energy 🐍](https://dev.to/radchenko/automate-saving-the-planet-or-just-your-computers-energy-43ii)
+- [Aborted attempt to return meaningful Problem Details response from model binding errors in an ASP.NET Core Minimal API](https://dev.to/nausaf/aborted-attempt-to-return-meaningful-problem-details-response-from-model-binding-errors-in-an-353g)
+- [Building a real-time application with Relay 17](https://dev.to/logrocket/building-a-real-time-application-with-relay-17-21o4)
+- [My React Journey: Day 2](https://dev.to/ayoola_damilare_212d5bde0/my-react-journey-day-2-451e)
+- [The Rise of Low Code Platforms](https://dev.to/atharvgyan/the-rise-of-low-code-platforms-4dp9)
+- [Working with Git Branches and Pull Requests](https://dev.to/erikaheidi/working-with-git-branches-and-pull-requests-3943)
 <!-- BLOG-POST-LIST:END -->
 
 ---
