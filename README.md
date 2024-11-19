@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring dev.to&#39;s Hidden Features: Upload a Video. What?](https://dev.to/radchenko/exploring-devtos-hidden-features-upload-a-video-what-3hh2)
-- [Implementing Continuous Deployment with Docker and Kubernetes](https://dev.to/therealmrmumba/implementing-continuous-deployment-with-docker-and-kubernetes-45mm)
-- [My AI Blindspot: I Wasn&#39;t Convinced, Then the Llama LLM Changed Everything About My Development Workflow!?](https://dev.to/bradstondev/my-ai-blindspot-i-wasnt-convinced-then-the-llama-llm-changed-everything-about-my-development-4la2)
-- [Kotlin Extension Functions vs. Java: Adding a Touch of Magic to Existing Classes](https://dev.to/hamada147/kotlin-extension-functions-vs-java-adding-a-touch-of-magic-to-existing-classes-4mcf)
-- [Looking for Web Devs who have experience with Business Intelligence tools for SMEs. Wanna ask you about your experience. 🙏🏻](https://dev.to/timo_thee_b0ce0dae9b9e784/looking-for-web-devs-who-have-experience-with-business-intelligence-tools-for-smes-wanna-ask-you-3ihn)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-55mg)
+- [Demystifying Software Architectures: Choosing the Right Design for Your Project](https://dev.to/wallacefreitas/demystifying-software-architectures-choosing-the-right-design-for-your-project-5gmi)
+- [2024 Recap: Why Accessibility is Important](https://dev.to/theoriginalbpc/2024-recap-why-accessibility-is-important-43n9)
+- [How to remove duplicates in Postgres SQL](https://dev.to/tresorama/how-to-remove-duplicates-in-postgres-sql-59ad)
+- [Automate Saving the Planet... Or Just Your Computer&#39;s Energy 🐍](https://dev.to/radchenko/automate-saving-the-planet-or-just-your-computers-energy-43ii)
 <!-- BLOG-POST-LIST:END -->
 
 ---
