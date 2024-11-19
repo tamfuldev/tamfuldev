@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [鸿蒙编程江湖：深入理解TaskPool和Worker的并发任务执行](https://dev.to/xun_wang_6384a403f9817c2/hong-meng-bian-cheng-jiang-hu-shen-ru-li-jie-taskpoolhe-workerde-bing-fa-ren-wu-zhi-xing-2j2a)
-- [Making OpenGraph &lpar;OG&rpar; Images More Accessible: Now Design &amp; Preview Everything for Free 🎨](https://dev.to/gleamso/making-opengraph-og-images-more-accessible-now-design-preview-everything-for-free-2jf2)
-- [Manejando errores en Javascript / Typescript: Excepciones personalizadas y Result](https://dev.to/jorgench/manejando-errores-en-javascript-typescript-excepciones-personalizadas-y-result-and)
-- [Setting up your own secure VPN with Amnezia VPN](https://dev.to/amnezia-vpn/setting-up-your-own-secure-vpn-with-amnezia-vpn-22d7)
-- [Today’s Progress: Adding an Aggregate Pipeline](https://dev.to/jahend412/todays-progress-adding-an-aggregate-pipeline-97b)
+- [𝐄𝐟𝐟𝐢𝐜𝐢𝐞𝐧𝐭𝐥𝐲 𝐌𝐚𝐧𝐚𝐠𝐢𝐧𝐠 𝐃𝐛𝐂𝐨𝐧𝐭𝐞𝐱𝐭 𝐋𝐢𝐟𝐞𝐭𝐢𝐦𝐞 𝐢𝐧 𝐄𝐅 𝐂𝐨𝐫𝐞](https://dev.to/apurvupadhyay/-5bha)
+- [System Design 13 - Database Sharding: Slicing Data for Scalability and Speed](https://dev.to/sarvabharan/system-design-13-database-sharding-slicing-data-for-scalability-and-speed-4gma)
+- [Understanding Search Scores in MongoDB Hybrid Search](https://dev.to/shannonlal/understanding-search-scores-in-mongodb-hybrid-search-4lnb)
+- [Tiny Brain Hack for Getting Over Fear of Coding Something New](https://dev.to/brittneykernan/tiny-brain-hack-for-getting-over-fear-of-coding-something-new-5d4g)
+- [Sistemas Operativos en Tiempo Real y su Relación con el Uso Cotidiano](https://dev.to/antonio_luna_fce8ca4a92fa/sistemas-operativos-en-tiempo-real-y-su-relacion-con-el-uso-cotidiano-27l5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
