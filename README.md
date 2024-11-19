@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Chaos Engineering and LitmusChaos](https://dev.to/asi_security/introduction-to-chaos-engineering-and-litmuschaos-2non)
-- [Rust Threads safety: Uma comparação com C.](https://dev.to/z4nder/rust-threads-safety-uma-comparacao-com-c-1a8h)
-- [Every Line of Code Impacts the Organization&#39;s Bottomline: Let me tell you how!](https://dev.to/omotolanitechtalk/every-line-of-code-impacts-the-organizations-bottomline-let-me-tell-you-how-dd1)
-- [From Local Files to Live: Deploy Your Static Website Using Azure Storage](https://dev.to/unique-tea/from-local-files-to-live-deploy-your-static-website-using-azure-storage-83g)
-- [Preparing for an AWS Summit](https://dev.to/obayuwanapaul/preparing-for-an-aws-summit-3b67)
+- [Keep Up With the Latest Storm Activity Effecting Brevard Roofing Company](https://dev.to/leonorpattyxmo/build-a-simple-weather-app-in-java-using-openweathermap-api-3416)
+- [I.A.M., But Who Are You?? Authentication and Authorization on the internet](https://dev.to/steviepee/iam-but-who-are-you-authentication-and-authorization-on-the-internet-1i03)
+- [Making two microservices communicate using RabbitMQ and MassTransit](https://dev.to/angelodotnet/making-two-microservices-communicate-using-rabbitmq-and-masstransit-2g8i)
+- [Breaking down DevOps to Everyone](https://dev.to/oyewole_adebayo_583d8d7f9/breaking-down-devops-to-everyone-4ioc)
+- [Leadership Fatigue and Burnout](https://dev.to/asi_security/leadership-fatigue-and-burnout-1j0m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
