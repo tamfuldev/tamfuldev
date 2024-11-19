@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Agents in Artificial Intelligence: What Are They And How They Are Used](https://dev.to/ioni_ms/agents-in-artificial-intelligence-what-are-they-and-how-they-are-used-n9j)
-- [The Top 8 ML Model Monitoring Tools](https://dev.to/orhillel/the-top-8-ml-model-monitoring-tools-40k3)
-- [Healthcare Data Governance: Ensuring Quality and Compliance](https://dev.to/ostapzabolotnyy/healthcare-data-governance-ensuring-quality-and-compliance-25ch)
-- [10 Top Kong Alternatives to Enhance Your API Management in 2024](https://dev.to/apilover/10-top-kong-alternatives-to-enhance-your-api-management-in-2024-14cl)
-- [Spring Boot Native Images: Supercharge Your Apps in 15 Words](https://dev.to/aaravjoshi/spring-boot-native-images-supercharge-your-apps-in-15-words-2m7i)
+- [Building simple event-driven applications with Pub/Sub](https://dev.to/encore/building-simple-event-driven-applications-with-pubsub-k57)
+- [SVAR Gantt: New Open Source, Interactive Gantt Chart for React](https://dev.to/olga_tash/svar-gantt-new-open-source-interactive-gantt-chart-for-react-135g)
+- [Chnp-cli: Code Highlight and Print tool](https://dev.to/shubham_ingale/chnp-cli-code-highlight-and-print-tool-38b4)
+- [AI Legal Document Analysis: Revolutionizing the Legal Industry](https://dev.to/jhonsnow21/ai-legal-document-analysis-revolutionizing-the-legal-industry-3mi)
+- [How to use IndexedDB? Guide on complete CRUD Operations](https://dev.to/softheartengineer/how-to-use-indexeddb-guide-on-complete-crud-operations-1ogl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
