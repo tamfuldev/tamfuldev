@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A journey to optimize a SpringData SQL query with N+1s](https://dev.to/loiklak/a-journey-to-optimize-a-springdata-sql-query-with-n1s-2f87)
-- [Excel-lent News: Copilot Takes Your Data to New Heights](https://dev.to/balagmadhu/excel-lent-news-copilot-takes-your-data-to-new-heights-jbk)
-- [Enhancing Customer Support with a Live Chat Widget on Your Website](https://dev.to/aiosoftware_dev/enhancing-customer-support-with-a-live-chat-widget-on-your-website-42cj)
-- [How displays work in Mini Micro](https://dev.to/joestrout/how-displays-work-in-mini-micro-21pp)
-- [Week 12: Release 0.3 pull request 1](https://dev.to/mpalhutchinson/week-12-release-03-pull-request-1-3a4a)
+- [IceCream: A Sweet Alternative to Print Debugging in Python](https://dev.to/vidyasagarmsc/icecream-a-sweet-alternative-to-print-debugging-in-python-1lhg)
+- [How to add custom icons in React Native in 2025](https://dev.to/oktaysenkan/how-to-add-custom-icons-in-the-react-native-in-2025-1g4b)
+- [Security iOS Apps with OWASP Best Practices for Data Protection](https://dev.to/felipefmmobile/security-ios-apps-with-owasp-best-practices-for-data-protection-2c5l)
+- [From Bug Fixes to Best Practices: My Open Source Contributions to ChatCraft and xUnit](https://dev.to/harshil_patel/from-bug-fixes-to-best-practices-my-open-source-contributions-to-chatcraft-and-xunit-3kdc)
+- [Fix gitlab runner error with docker](https://dev.to/panupongdeve/fix-gitlab-runner-error-with-docker-10li)
 <!-- BLOG-POST-LIST:END -->
 
 ---
