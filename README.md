@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Improving Tinybird DevEx 🚀 Data Re-Population CLI Tool](https://dev.to/sebekz/improving-tinybird-devex-data-re-population-cli-tool-229j)
-- [How to Fix GA4 DebugView Not Working?](https://dev.to/me_bhavesh/how-to-fix-ga4-debugview-not-working-2ojg)
-- [Multimodal AI Models: Understanding Their Impact and Applications](https://dev.to/siddharthbhalsod/multimodal-ai-models-understanding-their-impact-and-applications-4emb)
-- [Unlocking the Power of Algorithms in Data Science: A Must-Take Course](https://dev.to/getvm/unlocking-the-power-of-algorithms-in-data-science-a-must-take-course-4khj)
-- [Wednesday Links - Edition 2024-11-20](https://dev.to/0xkkocel/wednesday-links-edition-2024-11-20-4adc)
+- [Launched a Social Page for every Software Engineer](https://dev.to/akshat0610/launched-a-social-page-for-every-software-engineer-2k0c)
+- [03. ரிலேஷனல் டேட்டாபேஸ் மாடல் என்றால் என்ன? What is Relational Database Model ? &lpar;RDBMS&rpar;](https://dev.to/vajravijay/03-rileessnnnl-tteettttaapees-maattl-ennnrraal-ennnnnn-what-is-relational-database-model-rdbms-1n7j)
+- [Ansible Demystified: Your Ultimate Guide to Simplifying IT Automation and Boosting DevOps Efficiency](https://dev.to/josephibehdev/ansible-demystified-your-ultimate-guide-to-simplifying-it-automation-and-boosting-devops-efficiency-obh)
+- [Running Oracle 19c Database with Docker](https://dev.to/udara_dananjaya/running-oracle-19c-database-with-docker-1akg)
+- [Reldens - Open source platform to create multiplayer RPG games](https://dev.to/damian_pastorini/reldens-open-source-platform-to-create-multiplayer-rpg-games-1ejh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
