@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t expose primary id&#39;s with Rails&#39; dom_id](https://dev.to/railsdesigner/dont-expose-primary-ids-with-rails-domid-3e6k)
-- [Demystifying Evolutionary Algorithms: A Practical Guide](https://dev.to/okpalan/demystifying-evolutionary-algorithms-a-practical-guide-41ol)
-- [Article 3: Building a Team Assignment Application with Grid Formatting and Shuffling](https://dev.to/moh_moh701/article-3-building-a-team-assignment-application-with-grid-formatting-and-shuffling-15co)
-- [Today’s new knowledge #7&lpar;GSAP&rpar;](https://dev.to/kishor_sutradhar_d2503ac4/todays-new-knowledge-7gsap-5h3a)
-- [Article 2: Building a Reusable Shuffler for Randomizing Data](https://dev.to/moh_moh701/article-2-building-a-reusable-shuffler-for-randomizing-data-379h)
+- [A journey to optimize a SpringData SQL query with N+1s](https://dev.to/loiklak/a-journey-to-optimize-a-springdata-sql-query-with-n1s-2f87)
+- [Excel-lent News: Copilot Takes Your Data to New Heights](https://dev.to/balagmadhu/excel-lent-news-copilot-takes-your-data-to-new-heights-jbk)
+- [Enhancing Customer Support with a Live Chat Widget on Your Website](https://dev.to/aiosoftware_dev/enhancing-customer-support-with-a-live-chat-widget-on-your-website-42cj)
+- [How displays work in Mini Micro](https://dev.to/joestrout/how-displays-work-in-mini-micro-21pp)
+- [Week 12: Release 0.3 pull request 1](https://dev.to/mpalhutchinson/week-12-release-03-pull-request-1-3a4a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
