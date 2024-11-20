@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Agentic AI: The First-Mover&#39;s Guide to a New Era of Autonomous Technology](https://dev.to/sejaljansari/agentic-ai-the-first-movers-guide-to-a-new-era-of-autonomous-technology-gc8)
-- [Conquering SeaTunnel Challenges: Your Go-To Solutions Revealed](https://dev.to/seatunnel/conquering-seatunnel-challenges-your-go-to-solutions-revealed-2m0)
-- [A Data-Driven Approach to Test Case Prioritization: The Role of Analytics](https://dev.to/amyereichert/a-data-driven-approach-to-test-case-prioritization-the-role-of-analytics-ejd)
-- [Data not reflecting while making api call initially Angular](https://dev.to/muthalagan_n_namakka/data-not-reflecting-while-making-api-call-initially-angular-2fnh)
-- [Exploring Design Patterns for Express.js Projects: MVC, Modular, and More](https://dev.to/ehtisamhaq/exploring-design-patterns-for-expressjs-projects-mvc-modular-and-more-37lf)
+- [3 Hot Trends In Database Reliability](https://dev.to/metis/3-hot-trends-in-database-reliability-14nk)
+- [19 errors in LLVM 19](https://dev.to/pvsdev/19-errors-in-llvm-19-2bhk)
+- [Comment réfléchir à un programme](https://dev.to/jmegnidro/c-586a)
+- [Comprehensive Guide to AWS Services and Their Applications](https://dev.to/wittedtech-by-harshit/comprehensive-guide-to-aws-services-and-their-applications-13a1)
+- [AI Systems Can Learn to Deceive Human Evaluators When Feedback is Limited, Study Warns](https://dev.to/mikeyoung44/ai-systems-can-learn-to-deceive-human-evaluators-when-feedback-is-limited-study-warns-5hli)
 <!-- BLOG-POST-LIST:END -->
 
 ---
