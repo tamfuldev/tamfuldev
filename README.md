@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Large file transfer from VPS to local machine](https://dev.to/tallesl/large-file-transfer-from-vps-to-local-machine-3b74)
-- [Global Disaster recovery for AWS Aurora](https://dev.to/sudo_anuj/global-disaster-recovery-for-aws-aurora-2ih8)
-- [Modal with ReactDOM.createPortal](https://dev.to/kaziusan/modal-with-reactdomcreateportal-l23)
-- [AI &amp; Deep Learning for CFD Flow Prediction](https://dev.to/precise-simulation/ai-deep-learning-for-cfd-flow-prediction-475l)
-- [Aligning Talent to Business Objectives: A Data-Driven Approach](https://dev.to/teamstation/aligning-talent-to-business-objectives-a-data-driven-approach-539d)
+- [How to Easily Deploy a Drupal Instance on Kubernetes](https://dev.to/alyconr/how-to-easily-deploy-a-drupal-instance-on-kubernetes-1k99)
+- [How to easily add a favicon to your Rails App ✨](https://dev.to/ritumka/how-to-easily-add-a-favicon-to-your-rails-app-1poo)
+- [HarmonyOS Case Practice: Concurrent Tasks and UI Interaction Design of the Smart Home Control Panel](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-case-practice-concurrent-tasks-and-ui-interaction-design-of-the-smart-home-control-panel-1hh9)
+- [鸿蒙案例实践：智能家居控制面板的并发任务与UI交互设计](https://dev.to/xun_wang_6384a403f9817c2/hong-meng-an-li-shi-jian-zhi-neng-jia-ju-kong-zhi-mian-ban-de-bing-fa-ren-wu-yu-uijiao-hu-she-ji-1j0b)
+- [The World of HarmonyOS Programming: Comprehensive ArkTS Development Cases and Best Practices](https://dev.to/xun_wang_6384a403f9817c2/the-world-of-harmonyos-programming-comprehensive-arkts-development-cases-and-best-practices-424a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
