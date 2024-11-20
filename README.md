@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Learning and Growing Through Open Source Contributions](https://dev.to/cleobnvntra/learning-and-growing-through-open-source-contributions-78j)
-- [eKYC Revolutionizes the Banking Sector Beyond Traditional KYC](https://dev.to/kyanondigital/ekyc-revolutionizes-the-banking-sector-beyond-traditional-kyc-3f31)
-- [Master Docker](https://dev.to/tharindumadubashna/master-docker-lfb)
-- [#100 — Deduplication of Row-Based Data — by Key Column](https://dev.to/judith677/100-deduplication-of-row-based-data-by-key-column-4l8m)
-- [Meme Monday](https://dev.to/harihararamsriram/meme-monday-88d)
+- [Welcome Thread - v303](https://dev.to/devteam/welcome-thread-v303-4b2)
+- [Setting Up CI and Writing Tests for Collaborative Development](https://dev.to/msaluja/setting-up-ci-and-writing-tests-for-collaborative-development-48g6)
+- [Artificial Super Intelligence &lpar;ASI&rpar;: The Future of AI](https://dev.to/lipton_ahammed_a6bb8e41b6/artificial-super-intelligence-asi-the-future-of-ai-7en)
+- [Deep Understanding on Python Iterators: Navigating Data with `__iter__` and `__next__`](https://dev.to/aishwarya_raj_978520e6399/deep-understanding-on-python-iterators-navigating-data-with-iter-and-next-3bo)
+- [My Experience with AsyncThunk in Redux Toolkit](https://dev.to/matheusmcz/my-experience-with-asyncthunk-in-redux-toolkit-in4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
