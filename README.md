@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [RAG Chatbot](https://dev.to/yashksaini/rag-chatbot-3bce)
-- [Decoding Software Quality: A Deep Dive into Errors, Faults, Bugs, Defects, and Failures.](https://dev.to/nozibul_islam_113b1d5334f/decoding-software-quality-a-deep-dive-into-errors-faults-bugs-defects-and-failures-106o)
-- [Kotlin Object Declarations vs. Java: Summoning Singletons with Ease](https://dev.to/hamada147/kotlin-object-declarations-vs-java-summoning-singletons-with-ease-5b42)
-- [Day 19 Progress Journal: Implementing Backend API for Comment Functionality &lpar;MERN Stack Instagram Clone&rpar;](https://dev.to/dev_d_akash/day-19-progress-journal-implementing-backend-api-for-comment-functionality-mern-stack-instagram-1ji7)
-- [Day 18 Progress Journal: Implementing Frontend for Like and Unlike Functionality &lpar;MERN Stack Instagram Clone&rpar;](https://dev.to/dev_d_akash/day-18-progress-journal-implementing-frontend-for-like-and-unlike-functionality-mern-stack-i5h)
+- [Multipart from data send to backend as json file using axios.](https://dev.to/khalid7487/multipart-from-data-send-to-backend-as-json-file-using-axios-5a1d)
+- [How to Optimize a Website for Search Engines: A Comprehensive Guide](https://dev.to/jeferson0993/how-to-optimize-a-website-for-search-engines-a-comprehensive-guide-23op)
+- [Architecture: Revolutionizing Mobile App Development](https://dev.to/akram6t/architecture-revolutionizing-mobile-app-development-1clg)
+- [Mastering State Management in React: A Comprehensive Guide](https://dev.to/gladiatorsbattle/mastering-state-management-in-react-a-comprehensive-guide-2f78)
+- [Unity Game Hacking - Calling FindObjectsOfType in C++](https://dev.to/xsip/unity-game-hacking-calling-findobjectsoftype-in-c-1bjp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
