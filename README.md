@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Launched a Social Page for every Software Engineer](https://dev.to/akshat0610/launched-a-social-page-for-every-software-engineer-2k0c)
-- [03. ரிலேஷனல் டேட்டாபேஸ் மாடல் என்றால் என்ன? What is Relational Database Model ? &lpar;RDBMS&rpar;](https://dev.to/vajravijay/03-rileessnnnl-tteettttaapees-maattl-ennnrraal-ennnnnn-what-is-relational-database-model-rdbms-1n7j)
-- [Ansible Demystified: Your Ultimate Guide to Simplifying IT Automation and Boosting DevOps Efficiency](https://dev.to/josephibehdev/ansible-demystified-your-ultimate-guide-to-simplifying-it-automation-and-boosting-devops-efficiency-obh)
-- [Running Oracle 19c Database with Docker](https://dev.to/udara_dananjaya/running-oracle-19c-database-with-docker-1akg)
-- [Reldens - Open source platform to create multiplayer RPG games](https://dev.to/damian_pastorini/reldens-open-source-platform-to-create-multiplayer-rpg-games-1ejh)
+- [The Only Open-Source FAQ Guide You&#39;ll Ever Need—Straight From the 0x3d Collection](https://dev.to/0x3d_site/the-only-open-source-faq-guide-youll-ever-need-straight-from-the-0x3d-collection-2ki2)
+- [Optimize Database Performance in Ruby on Rails and ActiveRecord](https://dev.to/appsignal/optimize-database-performance-in-ruby-on-rails-and-activerecord-mcn)
+- [Microfrontends a Developer&#39;s Guide: Best Practices and Lessons Learned](https://dev.to/joacod/microfrontends-a-developers-guide-best-practices-and-lessons-learned-1nlp)
+- [Top 5 JavaScript Features You’re Not Using Enough](https://dev.to/dipakahirav/top-5-javascript-features-youre-not-using-enough-2idh)
+- [Swarm：下一代去中心化 P2P 网络及其应用前景](https://dev.to/_5666c464ad7652ca3ef8dc/swarmxia-dai-qu-zhong-xin-hua-p2p-wang-luo-ji-qi-ying-yong-qian-jing-5bg9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
