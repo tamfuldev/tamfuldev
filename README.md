@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Fixing the &#39;MySQL Module Shutting Down Unexpectedly&#39; Error in XAMPP: Step-by-Step Guide](https://dev.to/harshchaudhari/fixing-the-mysql-module-shutting-down-unexpectedly-error-in-xampp-step-by-step-guide-li8)
-- [Navigating Amazon Web Services: A Guide to Customer Care](https://dev.to/billgist/navigating-amazon-web-services-a-guide-to-customer-care-1oop)
-- [The 2x2 Testing Matrix &amp; Branch Coverage: A Robust Approach to Automated Software Validation](https://dev.to/okpalan/the-2x2-testing-matrix-branch-coverage-a-robust-approach-to-automated-software-validation-4lm6)
-- [Lead Developer Career Guide – on Amazon!](https://dev.to/sbenhoff/lead-developer-career-guide-on-amazon-516h)
-- [Empowering Your Development: How to Build an Effective AWS Team](https://dev.to/billgist/empowering-your-development-how-to-build-an-effective-aws-team-345j)
+- [Don&#39;t expose primary id&#39;s with Rails&#39; dom_id](https://dev.to/railsdesigner/dont-expose-primary-ids-with-rails-domid-3e6k)
+- [Demystifying Evolutionary Algorithms: A Practical Guide](https://dev.to/okpalan/demystifying-evolutionary-algorithms-a-practical-guide-41ol)
+- [Article 3: Building a Team Assignment Application with Grid Formatting and Shuffling](https://dev.to/moh_moh701/article-3-building-a-team-assignment-application-with-grid-formatting-and-shuffling-15co)
+- [Today’s new knowledge #7&lpar;GSAP&rpar;](https://dev.to/kishor_sutradhar_d2503ac4/todays-new-knowledge-7gsap-5h3a)
+- [Article 2: Building a Reusable Shuffler for Randomizing Data](https://dev.to/moh_moh701/article-2-building-a-reusable-shuffler-for-randomizing-data-379h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
