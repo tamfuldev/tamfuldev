@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Store Specified CSV Columns to a New File #eg77](https://dev.to/esproc_spl/how-to-store-specified-csv-columns-to-a-new-file-eg77-4enf)
-- [Mistral vs GPT: A Comprehensive Comparison of Leading AI Models](https://dev.to/abhinowww/mistral-vs-gpt-a-comprehensive-comparison-of-leading-ai-models-2lk2)
-- [Building a Medical Literature Assistant: RAG System Practice Based on LangChain](https://dev.to/jamesli/building-a-medical-literature-assistant-rag-system-practice-based-on-langchain-570l)
-- [Flutter v/s Swift: Which is better for iOS app Development in 2024?](https://dev.to/birdmorning/flutter-vs-swift-which-is-better-for-ios-app-development-in-2024-3ogb)
-- [Test Data Management: A Comprehensive Guide](https://dev.to/keploy/test-data-management-a-comprehensive-guide-5730)
+- [Contributing to ByteChef](https://dev.to/arilloid/contributing-to-bytechef-23gb)
+- [How to mitigate a DDoS attack on a small server](https://dev.to/victoor/how-to-mitigate-a-ddos-attack-on-a-small-server-1a74)
+- [Front-End And Back-End Development: What Are The Differences?](https://dev.to/birdmorning/front-end-and-back-end-development-what-are-the-differences-1g6k)
+- [Simplify Data Migration Between Databases Using DbVisualizer](https://dev.to/dbvismarketing/simplify-data-migration-between-databases-using-dbvisualizer-pki)
+- [WordPress Web Development: Everything You Need To Know About](https://dev.to/birdmorning/wordpress-web-development-everything-you-need-to-know-about-po)
 <!-- BLOG-POST-LIST:END -->
 
 ---
