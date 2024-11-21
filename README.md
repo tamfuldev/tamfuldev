@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dive Deep into OS Development with &quot;The Little Book About OS Development&quot;](https://dev.to/getvm/dive-deep-into-os-development-with-the-little-book-about-os-development-24b7)
-- [Devcon 2024 Highlights, Smart Contract Revolution, Yoav Weiss on AA Future and AA Developer Survey](https://dev.to/alexandradev/devcon-2024-highlights-smart-contract-revolution-yoav-weiss-on-aa-future-and-aa-developer-survey-c90)
-- [Exploring the Factory Pattern in Node.js 🌟 🤖](https://dev.to/razielrodrigues/exploring-the-factory-pattern-in-nodejs-4hm2)
-- [New Chip Notification Variations 🚀](https://dev.to/windui/new-chip-notification-variations-2ode)
-- [Crypto Engagement and Passive Earning: A New Frontier in Digital Finance](https://dev.to/coinbuck_0bea50a5e99d37a7/crypto-engagement-and-passive-earning-a-new-frontier-in-digital-finance-2oie)
+- [Dev Log #14 - Phaser.js and game dev](https://dev.to/antoniodev/dev-log-14-phaserjs-and-game-dev-5382)
+- [Item 72: Priorize o uso das exceções padrões](https://dev.to/giselecoder/item-72-priorize-o-uso-das-excecoes-padroes-3m5b)
+- [Self-Aligning Dish in Rust: Setup](https://dev.to/ian_ndeda/self-aligning-dish-in-rust-setup-3482)
+- [The 10 Most Dangerous Malware Attacks in History](https://dev.to/trixsec/the-10-most-dangerous-malware-attacks-in-history-4dfi)
+- [React MFE](https://dev.to/pradeep_c52d2c4343c08887a/react-mfe-187i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
