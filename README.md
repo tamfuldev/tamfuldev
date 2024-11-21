@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dev Log #14 - Phaser.js and game dev](https://dev.to/antoniodev/dev-log-14-phaserjs-and-game-dev-5382)
-- [Item 72: Priorize o uso das exceções padrões](https://dev.to/giselecoder/item-72-priorize-o-uso-das-excecoes-padroes-3m5b)
-- [Self-Aligning Dish in Rust: Setup](https://dev.to/ian_ndeda/self-aligning-dish-in-rust-setup-3482)
-- [The 10 Most Dangerous Malware Attacks in History](https://dev.to/trixsec/the-10-most-dangerous-malware-attacks-in-history-4dfi)
-- [React MFE](https://dev.to/pradeep_c52d2c4343c08887a/react-mfe-187i)
+- [Cracking the Proxy Puzzle: Forward vs Reverse 🧩](https://dev.to/digvijay-bhakuni/cracking-the-proxy-puzzle-forward-vs-reverse-1ljg)
+- [Effective Methods for Troubleshooting Deadlocks in SQL Server](https://dev.to/adityabhuyan/effective-methods-for-troubleshooting-deadlocks-in-sql-server-2ehe)
+- [Sve što treba da znate o `FormData` objektu u JavaScript-u](https://dev.to/jelena_petkovic/sve-sto-treba-da-znate-o-formdata-objektu-u-javascript-u-4n87)
+- [Our team won 𝗙𝗶𝗿𝘀𝘁 𝗽𝗹𝗮𝗰𝗲 𝗶𝗻 𝘁𝗵𝗲 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗰𝗮𝘁𝗲𝗴𝗼𝗿𝘆 at the 𝗕𝘂𝗶𝗹𝗱 𝗳𝗼𝗿 𝗧𝗵𝗿𝗶𝘀𝘀𝘂𝗿 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗮𝘁𝗵𝗼𝗻 𝟮𝟬𝟮𝟰](https://dev.to/godlykmathews/our-team-won-at-the-i2o)
+- [Hanoi Tower with procs](https://dev.to/viniciuspuerto/hanoi-tower-with-procs-43b8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
