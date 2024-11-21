@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Cracking the Proxy Puzzle: Forward vs Reverse 🧩](https://dev.to/digvijay-bhakuni/cracking-the-proxy-puzzle-forward-vs-reverse-1ljg)
-- [Effective Methods for Troubleshooting Deadlocks in SQL Server](https://dev.to/adityabhuyan/effective-methods-for-troubleshooting-deadlocks-in-sql-server-2ehe)
-- [Sve što treba da znate o `FormData` objektu u JavaScript-u](https://dev.to/jelena_petkovic/sve-sto-treba-da-znate-o-formdata-objektu-u-javascript-u-4n87)
-- [Our team won 𝗙𝗶𝗿𝘀𝘁 𝗽𝗹𝗮𝗰𝗲 𝗶𝗻 𝘁𝗵𝗲 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗰𝗮𝘁𝗲𝗴𝗼𝗿𝘆 at the 𝗕𝘂𝗶𝗹𝗱 𝗳𝗼𝗿 𝗧𝗵𝗿𝗶𝘀𝘀𝘂𝗿 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗮𝘁𝗵𝗼𝗻 𝟮𝟬𝟮𝟰](https://dev.to/godlykmathews/our-team-won-at-the-i2o)
-- [Hanoi Tower with procs](https://dev.to/viniciuspuerto/hanoi-tower-with-procs-43b8)
+- [How a Solar Rooftop Calculator Helps You Make Informed Decisions](https://dev.to/swapnilu/how-a-solar-rooftop-calculator-helps-you-make-informed-decisions-c37)
+- [Linux Basic Commands II](https://dev.to/radurga/linux-basic-commands-ii-1deb)
+- [I built a social media scheduling tool and open-sourced it 🤯](https://dev.to/nevodavid/i-built-a-social-media-scheduling-tool-and-open-sourced-it-5aho)
+- [Data integrity in Ably Pub/Sub](https://dev.to/ably/data-integrity-in-ably-pubsub-1nol)
+- [How to write ICO smart contract using Solidity and Hardhat](https://dev.to/marksantiago02/how-to-write-ico-smart-contract-using-solidity-and-hardhat-4pmg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
