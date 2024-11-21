@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Creating C++ DLL and using it in .NET](https://dev.to/tuttelikz/creating-c-dll-and-using-it-in-net-2fid)
-- [Deploying Helm Charts to Multiple Kubernetes Clusters with Cluster API&#39;s HelmChartProxy](https://dev.to/suin/deploying-helm-charts-to-multiple-kubernetes-clusters-with-cluster-apis-helmchartproxy-3fa6)
-- [Introducing Expify.AI: The Ultimate AI Tools Directory for Innovators and Businesses](https://dev.to/kherona/introducing-expifyai-the-ultimate-ai-tools-directory-for-innovators-and-businesses-3ki4)
-- [2257. Count Unguarded Cells in the Grid](https://dev.to/mdarifulhaque/2257-count-unguarded-cells-in-the-grid-4ibc)
-- [Tired of Retrospectives Feeling Like a Chore? Tools for Retrospectives That Will Make Your Team Sing!](https://dev.to/devactivity-app/tired-of-retrospectives-feeling-like-a-chore-tools-for-retrospectives-that-will-make-your-team-sing-k52)
+- [Getting Started with DevOps: A Comprehensive Guide](https://dev.to/rohitg00/getting-started-with-devops-a-comprehensive-guide-5d45)
+- [Understanding the CAP Theorem in Distributed Systems](https://dev.to/yasmine_ddec94f4d4/understanding-the-cap-theorem-in-distributed-systems-5230)
+- [สำรวจงาน DigiTech Nov 2024](https://dev.to/ruxozheng/samrwcchngaan-digitech-nov-2024-584)
+- [Getting Started with Hugo: A Beginner’s Guide to Building Fast Websites📜⚡](https://dev.to/hexadecimalsoftware/getting-started-with-hugo-a-beginners-guide-to-building-fast-websites-4a6p)
+- [Ably’s four pillars: no scale ceiling](https://dev.to/ably/ablys-four-pillars-no-scale-ceiling-3j2j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
