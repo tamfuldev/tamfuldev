@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with DevOps: A Comprehensive Guide](https://dev.to/rohitg00/getting-started-with-devops-a-comprehensive-guide-5d45)
-- [Understanding the CAP Theorem in Distributed Systems](https://dev.to/yasmine_ddec94f4d4/understanding-the-cap-theorem-in-distributed-systems-5230)
-- [สำรวจงาน DigiTech Nov 2024](https://dev.to/ruxozheng/samrwcchngaan-digitech-nov-2024-584)
-- [Getting Started with Hugo: A Beginner’s Guide to Building Fast Websites📜⚡](https://dev.to/hexadecimalsoftware/getting-started-with-hugo-a-beginners-guide-to-building-fast-websites-4a6p)
-- [Ably’s four pillars: no scale ceiling](https://dev.to/ably/ablys-four-pillars-no-scale-ceiling-3j2j)
+- [Dive Deep into OS Development with &quot;The Little Book About OS Development&quot;](https://dev.to/getvm/dive-deep-into-os-development-with-the-little-book-about-os-development-24b7)
+- [Devcon 2024 Highlights, Smart Contract Revolution, Yoav Weiss on AA Future and AA Developer Survey](https://dev.to/alexandradev/devcon-2024-highlights-smart-contract-revolution-yoav-weiss-on-aa-future-and-aa-developer-survey-c90)
+- [Exploring the Factory Pattern in Node.js 🌟 🤖](https://dev.to/razielrodrigues/exploring-the-factory-pattern-in-nodejs-4hm2)
+- [New Chip Notification Variations 🚀](https://dev.to/windui/new-chip-notification-variations-2ode)
+- [Crypto Engagement and Passive Earning: A New Frontier in Digital Finance](https://dev.to/coinbuck_0bea50a5e99d37a7/crypto-engagement-and-passive-earning-a-new-frontier-in-digital-finance-2oie)
 <!-- BLOG-POST-LIST:END -->
 
 ---
