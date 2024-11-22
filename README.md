@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Oracle SQL Script Browser Online](https://dev.to/foxinfotech/oracle-sql-script-browser-online-18l6)
-- [Pathfinding: Understanding the Rat in the Maze Algorithm](https://dev.to/haarish_guru_/pathfinding-understanding-the-rat-in-the-maze-algorithm-58jl)
-- [🚀 Building a Task List with Vue 3 + TypeScript and Testing It with Cypress](https://dev.to/blamsa0mine/building-a-task-list-with-vue-3-typescript-and-testing-it-with-cypress-3h3l)
-- [🚀 Your Daily Crypto Job Digest For 22 November!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-22-november-29hj)
-- [CSS - display: flex vs inline-flex](https://dev.to/jenchen/css-display-flex-vs-inline-flex-3f35)
+- [What is SQL, and Why is it Essential in Modern Computing?](https://dev.to/sanskar_4862/what-is-sql-and-why-is-it-essential-in-modern-computing-3hk5)
+- [Mono Repository Solutions in the Industry and the PNPM Practice in ReactPress](https://dev.to/fecommunity_27/mono-repository-solutions-in-the-industry-and-the-pnpm-practice-in-reactpress-1i00)
+- [What are we even doing](https://dev.to/syeo66/what-are-we-even-doing-57b5)
+- [Do You Need to SSR Your Web Components?](https://dev.to/stuffbreaker/do-you-need-to-ssr-your-web-components-2oao)
+- [~/.extra file](https://dev.to/kavindujayarathne/extra-file-3k1d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
