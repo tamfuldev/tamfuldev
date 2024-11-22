@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [This Week In React #210 : React 19 pre-warming, Next.js, TanStack, Expo Workflows, Yoga JSI, Skia, Turbo Haptics, Angular 19...](https://dev.to/sebastienlorber/this-week-in-react-210-react-19-pre-warming-nextjs-tanstack-expo-workflows-yoga-jsi-skia-1m4d)
-- [How to Score Amazon Free Credits: A Comprehensive Guide](https://dev.to/billgist/how-to-score-amazon-free-credits-a-comprehensive-guide-4k8n)
-- [Mastering the Art of Frontend Development 🌟✨ Season 1: The Foundations of UI Development 🚀 Ep 2: Design Principles 101 🎨](https://dev.to/bhuwan71/mastering-the-art-of-frontend-development-season-1-the-foundations-of-ui-development-ep-2-21i7)
-- [RAG based Generative AI using Amazon Bedrock Knowledge Base](https://dev.to/wojciech_piotrka_4898763/rag-based-generative-ai-using-amazon-bedrock-knowledge-base-1h9o)
-- [Ask Any Github Repo Any Question with Claude-Dev](https://dev.to/airabbit/ask-any-github-repo-any-question-with-claude-dev-me9)
+- [Building Secure CI/CD with Terraform on AWS](https://dev.to/aws-builders/building-secure-cicd-with-terraform-on-aws-43lf)
+- [What is Feature Switching in .NET 9 ?!](https://dev.to/1hamzabek/what-is-feature-switching-in-net-9--51oi)
+- [NEW Instagram feature: Do they follow us? Reset search feature](https://dev.to/perisicnikola37/new-instagram-feature-do-they-follow-us-reset-search-feature-24ka)
+- [Accelerate AI Workloads with Amazon EC2 Trn1 Instances and AWS Neuron SDK](https://dev.to/wojciech_piotrka_4898763/accelerate-ai-workloads-with-amazon-ec2-trn1-instances-and-aws-neuron-sdk-24cc)
+- [How to verify network connection](https://dev.to/labex/how-to-verify-network-connection-4em2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
