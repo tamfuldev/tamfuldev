@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Reverse engineering GraphQL persistedQuery extension](https://dev.to/crawlee/reverse-engineering-graphql-persistedquery-extension-4o9j)
-- [Goodbye Exceptions! Mastering Error Handling in JavaScript with the Result Pattern](https://dev.to/gautam_kumar_d3daad738680/goodbye-exceptions-mastering-error-handling-in-javascript-with-the-result-pattern-26kb)
-- [Understanding Upwork&#39;s Security Systems: A Deep Technical Dive](https://dev.to/jason_smith_c5f0dd9d2c5c9/understanding-upworks-security-systems-a-deep-technical-dive-59p2)
-- [Understanding REST vs. GraphQL: Which One Should You Choose?](https://dev.to/ayusharpcoder/understanding-rest-vs-graphql-which-one-should-you-choose-5bm0)
-- [Introducing Myself to the Dev.to Community 🚀](https://dev.to/web_dev-usman/introducing-myself-to-the-devto-community-38il)
+- [All About Typescript For Javascript Developer](https://dev.to/sallbro/all-about-typescript-for-javascript-developer-3aim)
+- [How to Hack Wi-Fi Networks: A Comprehensive Guide for Advanced Penetration Testing](https://dev.to/trixsec/how-to-hack-wi-fi-networks-a-comprehensive-guide-for-advanced-penetration-testing-3c5o)
+- [Introducing the Multi-Version PYZ Builder: Secure, Cross-Platform Python Modules Made Easy](https://dev.to/alphabetanetcom/introducing-the-multi-version-pyz-builder-secure-cross-platform-python-modules-made-easy-5ela)
+- [All About Javascript For Intermediate](https://dev.to/sallbro/all-about-javascript-for-intermediate-53ee)
+- [Quick way to Enable Windows Authentication in IIS on Windows 11](https://dev.to/winsides/quick-way-to-enable-windows-authentication-in-iis-on-windows-11-2g5c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
