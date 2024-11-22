@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [All About Typescript For Javascript Developer](https://dev.to/sallbro/all-about-typescript-for-javascript-developer-3aim)
-- [How to Hack Wi-Fi Networks: A Comprehensive Guide for Advanced Penetration Testing](https://dev.to/trixsec/how-to-hack-wi-fi-networks-a-comprehensive-guide-for-advanced-penetration-testing-3c5o)
-- [Introducing the Multi-Version PYZ Builder: Secure, Cross-Platform Python Modules Made Easy](https://dev.to/alphabetanetcom/introducing-the-multi-version-pyz-builder-secure-cross-platform-python-modules-made-easy-5ela)
-- [All About Javascript For Intermediate](https://dev.to/sallbro/all-about-javascript-for-intermediate-53ee)
-- [Quick way to Enable Windows Authentication in IIS on Windows 11](https://dev.to/winsides/quick-way-to-enable-windows-authentication-in-iis-on-windows-11-2g5c)
+- [Why Multiply and Divide by 1𝑒18 in Solidity?](https://dev.to/prince_ad7e7c212e5c5ecf40/why-multiply-and-divide-by-118-in-solidity-53mp)
+- [Sets in CPP 👨‍🎓](https://dev.to/aryan015/sets-in-cpp-1g4j)
+- [What is Post-Quantum Cryptography &lpar;PQC&rpar; Migration and How to Secure Data Against Quantum Threats](https://dev.to/me_jessicahowe/what-is-post-quantum-cryptography-pqc-migration-and-how-to-secure-data-against-quantum-threats-4i51)
+- [The Rise of Secure Messaging Apps: Why They Matter in Today’s Digital World](https://dev.to/rajeshwari/the-rise-of-secure-messaging-apps-why-they-matter-in-todays-digital-world-13g2)
+- [Why Does jQuery or a DOM Method Like `getElementById` Fail to Find an Element?](https://dev.to/sharmaprash/why-does-jquery-or-a-dom-method-like-getelementbyid-fail-to-find-an-element-2a7b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
