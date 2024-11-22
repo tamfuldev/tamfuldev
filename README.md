@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Isolation in ACID Transaction](https://dev.to/jaiminbariya/isolation-in-acid-transaction-3055)
-- [Top Web Development YouTube Channels to Kickstart Your Learning in 2024 🚀](https://dev.to/abhishek_patel_14174bfd97/top-web-development-youtube-channels-to-kickstart-your-learning-in-2024-3o51)
-- [react day 1](https://dev.to/timthoi/react-day-1-49ih)
-- [Minimally intrusive instrumentation of embedded system C/C++ code](https://dev.to/bpremzel/minimally-intrusive-instrumentation-of-embedded-system-cc-code-1o3b)
-- [Spext - a web app that helps international students study better](https://dev.to/ducdev_29/spext-a-web-app-that-helps-international-students-study-better-321h)
+- [Fun Flashcards Game for Kids using AI Speech Recognition](https://dev.to/dchif/fun-flashcards-game-for-kids-using-ai-speech-recognition-4ip7)
+- [How to Convert JSON Data into a Two-dimensional Table and Export It to a CSV #78](https://dev.to/esproc_spl/how-to-convert-json-data-into-a-two-dimensional-table-and-export-it-to-a-csv-78-2p5f)
+- [Building a Casino Game with NPCs from &#39;Lost&#39;: A Codecademy Journey](https://dev.to/digitaldruid10010110/building-a-casino-game-with-npcs-from-lost-a-codecademy-journey-459b)
+- [Inside JavaScript Engines: How Browsers Bring Your Code to Life](https://dev.to/mukhilpadmanabhan/inside-javascript-engines-how-browsers-bring-your-code-to-life-h1)
+- [Building a Dynamic OG Image System: Architecture &amp; Implementation 🏗️](https://dev.to/gleamso/building-a-dynamic-og-image-system-architecture-implementation-30el)
 <!-- BLOG-POST-LIST:END -->
 
 ---
