@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Secure CI/CD with Terraform on AWS](https://dev.to/aws-builders/building-secure-cicd-with-terraform-on-aws-43lf)
-- [What is Feature Switching in .NET 9 ?!](https://dev.to/1hamzabek/what-is-feature-switching-in-net-9--51oi)
-- [NEW Instagram feature: Do they follow us? Reset search feature](https://dev.to/perisicnikola37/new-instagram-feature-do-they-follow-us-reset-search-feature-24ka)
-- [Accelerate AI Workloads with Amazon EC2 Trn1 Instances and AWS Neuron SDK](https://dev.to/wojciech_piotrka_4898763/accelerate-ai-workloads-with-amazon-ec2-trn1-instances-and-aws-neuron-sdk-24cc)
-- [How to verify network connection](https://dev.to/labex/how-to-verify-network-connection-4em2)
+- [Oracle SQL Script Browser Online](https://dev.to/foxinfotech/oracle-sql-script-browser-online-18l6)
+- [Pathfinding: Understanding the Rat in the Maze Algorithm](https://dev.to/haarish_guru_/pathfinding-understanding-the-rat-in-the-maze-algorithm-58jl)
+- [🚀 Building a Task List with Vue 3 + TypeScript and Testing It with Cypress](https://dev.to/blamsa0mine/building-a-task-list-with-vue-3-typescript-and-testing-it-with-cypress-3h3l)
+- [🚀 Your Daily Crypto Job Digest For 22 November!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-22-november-29hj)
+- [CSS - display: flex vs inline-flex](https://dev.to/jenchen/css-display-flex-vs-inline-flex-3f35)
 <!-- BLOG-POST-LIST:END -->
 
 ---
