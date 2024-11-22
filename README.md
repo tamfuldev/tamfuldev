@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [API Development for AI/ML: Managing Inputs and Outputs](https://dev.to/apidna/api-development-for-aiml-managing-inputs-and-outputs-3b4l)
-- [A Critical Performance Issue Led Me to Discover EchoAPI&#39;s Load Testing](https://dev.to/philip_zhang_854092d88473/a-critical-performance-issue-led-me-to-discover-echoapis-load-testing-28ca)
-- [The N Queens Problem ♟️: A Game-Changer for Scheduling and Resource Optimization](https://dev.to/saumya_m/the-n-queens-problem-a-game-changer-for-scheduling-and-resource-optimization-48pe)
-- [Documentation for Setting Up a Web Server on EC2 &lpar;Ubuntu&rpar;](https://dev.to/teetoflame/documentation-for-setting-up-a-web-server-on-ec2-ubuntu-3a8e)
-- [A Better VS Code Plugin than Thunder Client](https://dev.to/philip_zhang_854092d88473/a-better-vs-code-plugin-than-thunder-client-2aj5)
+- [Dev Log #15 - Collisions](https://dev.to/antoniodev/dev-log-15-collisions-22hn)
+- [N-Queens Problem](https://dev.to/kiruthika_s_23cb024/n-queens-problem-349k)
+- [&quot;Crown the Code:N Queen Puzzles and Play&quot;](https://dev.to/sakura_19/crown-the-coden-queen-puzzles-and-play-ng7)
+- [A Comprehensive Guide to Establishing a Successful Connection to Amazon Redshift Using the ODBC Driver](https://dev.to/codewithved/a-comprehensive-guide-to-establishing-a-successful-connection-to-amazon-redshift-using-the-odbc-3jl5)
+- [Unlock the Power of Meta Llama LLM: Easy Guide to Hosting in Your Local Dev Environment](https://dev.to/bradstondev/unlock-the-power-of-meta-llama-llm-easy-guide-to-hosting-in-your-local-dev-environment-7d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
