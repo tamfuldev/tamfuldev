@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What is SQL, and Why is it Essential in Modern Computing?](https://dev.to/sanskar_4862/what-is-sql-and-why-is-it-essential-in-modern-computing-3hk5)
-- [Mono Repository Solutions in the Industry and the PNPM Practice in ReactPress](https://dev.to/fecommunity_27/mono-repository-solutions-in-the-industry-and-the-pnpm-practice-in-reactpress-1i00)
-- [What are we even doing](https://dev.to/syeo66/what-are-we-even-doing-57b5)
-- [Do You Need to SSR Your Web Components?](https://dev.to/stuffbreaker/do-you-need-to-ssr-your-web-components-2oao)
-- [~/.extra file](https://dev.to/kavindujayarathne/extra-file-3k1d)
+- [API Development for AI/ML: Managing Inputs and Outputs](https://dev.to/apidna/api-development-for-aiml-managing-inputs-and-outputs-3b4l)
+- [A Critical Performance Issue Led Me to Discover EchoAPI&#39;s Load Testing](https://dev.to/philip_zhang_854092d88473/a-critical-performance-issue-led-me-to-discover-echoapis-load-testing-28ca)
+- [The N Queens Problem ♟️: A Game-Changer for Scheduling and Resource Optimization](https://dev.to/saumya_m/the-n-queens-problem-a-game-changer-for-scheduling-and-resource-optimization-48pe)
+- [Documentation for Setting Up a Web Server on EC2 &lpar;Ubuntu&rpar;](https://dev.to/teetoflame/documentation-for-setting-up-a-web-server-on-ec2-ubuntu-3a8e)
+- [A Better VS Code Plugin than Thunder Client](https://dev.to/philip_zhang_854092d88473/a-better-vs-code-plugin-than-thunder-client-2aj5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
