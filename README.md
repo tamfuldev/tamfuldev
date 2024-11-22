@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dev Log #15 - Collisions](https://dev.to/antoniodev/dev-log-15-collisions-22hn)
-- [N-Queens Problem](https://dev.to/kiruthika_s_23cb024/n-queens-problem-349k)
-- [&quot;Crown the Code:N Queen Puzzles and Play&quot;](https://dev.to/sakura_19/crown-the-coden-queen-puzzles-and-play-ng7)
-- [A Comprehensive Guide to Establishing a Successful Connection to Amazon Redshift Using the ODBC Driver](https://dev.to/codewithved/a-comprehensive-guide-to-establishing-a-successful-connection-to-amazon-redshift-using-the-odbc-3jl5)
-- [Unlock the Power of Meta Llama LLM: Easy Guide to Hosting in Your Local Dev Environment](https://dev.to/bradstondev/unlock-the-power-of-meta-llama-llm-easy-guide-to-hosting-in-your-local-dev-environment-7d)
+- [The to do list is long today 😭](https://dev.to/jess/the-to-do-list-is-long-today-5hgc)
+- [Harnessing the Power of AWS Security Services](https://dev.to/mohamednasser018/harnessing-the-power-of-aws-security-services-4eaa)
+- [Re-publishing gimme_readme to npm with GitHub Actions](https://dev.to/peterdanwan/re-publishing-gimmereadme-to-npm-with-github-actions-23cd)
+- [Automation and branches- Using YAMLFish to easily manage I18n translations in your project](https://dev.to/intrepidd/using-yamlfish-to-easily-manage-i18n-translations-in-your-project-automation-and-branches-1dhb)
+- [The N-Queens Problem](https://dev.to/vaishnav_pvcsbs_359d16e/the-n-queens-problem-149c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
