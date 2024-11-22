@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Sprite Animations Using Steps in CSS](https://dev.to/softheartengineer/sprite-animations-using-steps-in-css-4joh)
-- [Drawing Taiwan&#39;s Flag with CSS](https://dev.to/kevinluo201/drawing-taiwans-flag-with-css-317a)
-- [Unlock Innovation with Neardi’s Rockchip Development Boards: The Ultimate Choice for Embedded Systems](https://dev.to/neardi_41f9bfcb826b280976/unlock-innovation-with-neardis-rockchip-development-boards-the-ultimate-choice-for-embedded-1mmd)
-- [Idempotency in DynamoDB](https://dev.to/aws-builders/idempotency-in-dynamodb-4leh)
-- [Introducing React Page Tracker: Simplify Navigation Tracking](https://dev.to/ryan-chou/introducing-react-page-tracker-simplify-navigation-tracking-4n0)
+- [Isolation in ACID Transaction](https://dev.to/jaiminbariya/isolation-in-acid-transaction-3055)
+- [Top Web Development YouTube Channels to Kickstart Your Learning in 2024 🚀](https://dev.to/abhishek_patel_14174bfd97/top-web-development-youtube-channels-to-kickstart-your-learning-in-2024-3o51)
+- [react day 1](https://dev.to/timthoi/react-day-1-49ih)
+- [Minimally intrusive instrumentation of embedded system C/C++ code](https://dev.to/bpremzel/minimally-intrusive-instrumentation-of-embedded-system-cc-code-1o3b)
+- [Spext - a web app that helps international students study better](https://dev.to/ducdev_29/spext-a-web-app-that-helps-international-students-study-better-321h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
