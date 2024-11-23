@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CSS has a new logo &lpar;and new features&rpar;! 🎉](https://dev.to/best_codes/css-has-a-new-logo-and-new-features-4lma)
-- [Week 12: Lab 9: Packaged release](https://dev.to/mpalhutchinson/week-12-lab-9-packaged-release-1l5o)
-- [Allwinner T527 SystemOnModule Adapts for Android 13](https://dev.to/ronnie_r_152dc2151d9449c6/allwinner-t527-systemonmodule-adapts-for-android-13-3mf7)
-- [carousel](https://dev.to/patrick_tadie_201700b3bdf/carousel-2jd2)
-- [Releasing dev-mate-cli on npm](https://dev.to/mayankpareek/releasing-dev-mate-cli-on-npm-3bnn)
+- [Deploy NGINX on multiple Environments](https://dev.to/mrzaizai2k/deploy-nginx-on-multiple-environments-59gk)
+- [GitOps Across Clusters — How ArgoCD and Kustomize Makes It Simple](https://dev.to/klip_klop/gitops-across-clusters-how-argocd-and-kustomize-makes-it-simple-489j)
+- [Password Autofill in Flutter for Enhanced User Experience](https://dev.to/ashiqu_ali/password-autofill-in-flutter-for-enhanced-user-experience-1a75)
+- [Password Autofill in Flutter for Enhanced User Experience](https://dev.to/ashiqu_ali/password-autofill-in-flutter-for-enhanced-user-experience-40ig)
+- [Rat in a Maze: Unveiling the Pathfinding Algorithm for Real-World Applications](https://dev.to/subhiksha_rcce_2211be83b/rat-in-a-maze-unveiling-the-pathfinding-algorithm-for-real-world-applications-2e1a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
