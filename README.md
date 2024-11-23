@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mystery of Closures in JavaScript!](https://dev.to/sudhil/mystery-of-closures-in-javascript-3f10)
-- [DocBot is Out !](https://dev.to/ajogseneca/docbot-is-out--3c5n)
-- [Exploring &quot;Handlers&quot; in Programming: A Friendly Dive](https://dev.to/yo-shi/exploring-handlers-in-programming-a-friendly-dive-40d)
-- [Using An LLM To Analyse Governments&#39; Reactions To The ICC Arrest Warrants](https://dev.to/danielrosehill/using-an-llm-to-analyse-governments-reactions-to-the-icc-arrest-warrants-2ejb)
-- [Symfony Station Communiqué — 22 November 2024. A look at Symfony, Drupal, PHP, and programming news!](https://dev.to/reubenwalker64/symfony-station-communique-22-november-2024-a-look-at-symfony-drupal-php-and-programming-news-51h2)
+- [Released Result::Simple - a dead simple perl-ish Result like F#, Rust, Go](https://dev.to/kfly8/released-resultsimple-a-dead-simple-perl-ish-result-like-f-rust-go-2hl2)
+- [Let&#39;s build an app](https://dev.to/rmsilva1973/lets-build-an-app-328k)
+- [The Power of Modular Code: A 1-Minute Guide](https://dev.to/itamartati/the-power-of-modular-code-a-1-minute-guide-3lb2)
+- [Understanding Asynchronous Programming: A 1-Minute Guide](https://dev.to/itamartati/understanding-asynchronous-programming-a-1-minute-guide-1116)
+- [Understanding API Rate Limiting: A 1-Minute Guide](https://dev.to/itamartati/understanding-api-rate-limiting-a-1-minute-guide-j69)
 <!-- BLOG-POST-LIST:END -->
 
 ---
