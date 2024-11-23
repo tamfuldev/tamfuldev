@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Automated Session Control with Bluetooth: An Insight into ble-lock-session](https://dev.to/connormanraz/automated-session-control-with-bluetooth-an-insight-into-ble-lock-session-1bo0)
-- [Introdução ao AWS Lambda: O Poder do Serverless](https://dev.to/andersoncode66/introducao-ao-aws-lambda-o-poder-do-serverless-2o61)
-- [Develop in Multiple OS/Production-like Environments with Docker](https://dev.to/rajatbansal01/develop-in-multiple-osproduction-like-environments-with-docker-kk9)
-- [Media-Powered Blog Creator, Content Analyzer and Translation App](https://dev.to/bellatrick/media-powered-blog-creator-content-analyzer-and-translation-app-5c72)
-- [How to Count Rows in All MySQL Tables Using a Bash Script](https://dev.to/rakeshkr2/how-to-count-rows-in-all-mysql-tables-using-a-bash-script-2dep)
+- [Mystery of Closures in JavaScript!](https://dev.to/sudhil/mystery-of-closures-in-javascript-3f10)
+- [DocBot is Out !](https://dev.to/ajogseneca/docbot-is-out--3c5n)
+- [Exploring &quot;Handlers&quot; in Programming: A Friendly Dive](https://dev.to/yo-shi/exploring-handlers-in-programming-a-friendly-dive-40d)
+- [Using An LLM To Analyse Governments&#39; Reactions To The ICC Arrest Warrants](https://dev.to/danielrosehill/using-an-llm-to-analyse-governments-reactions-to-the-icc-arrest-warrants-2ejb)
+- [Symfony Station Communiqué — 22 November 2024. A look at Symfony, Drupal, PHP, and programming news!](https://dev.to/reubenwalker64/symfony-station-communique-22-november-2024-a-look-at-symfony-drupal-php-and-programming-news-51h2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
