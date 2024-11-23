@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Run AI Workloads on Serverless GPUs with RunPod](https://dev.to/aigurux/getting-started-with-runpod-serverless-4gb1)
-- [Optimizing OpenAI’s GPT-4o-mini to Detect AI-Generated Text Using DSPy](https://dev.to/b-d055/optimizing-openais-gpt-4o-mini-to-detect-ai-generated-text-using-dspy-2775)
-- [Today’s new knowledge #7&lpar;Markdown&rpar;](https://dev.to/kishor_sutradhar_d2503ac4/todays-new-knowledge-7markdown-4fhm)
-- [Fiz o teste do IELTS &lpar;é esse o título&rpar;](https://dev.to/lucianodiisouza/fiz-o-teste-de-ielts-e-esse-o-titulo-1a93)
-- [What do you think about low-code and no-code? also do you consider if someone building apps with it as a developer? cheers](https://dev.to/can_erden_d427a6a63ab2465/what-do-you-think-about-low-code-and-no-code-also-do-you-consider-if-someone-building-apps-with-it-217o)
+- [EchoSense: Your Pocket-Sized Companion for Smarter Meetings](https://dev.to/milewski/echosense-your-pocket-sized-companion-for-smarter-meetings-3i71)
+- [How to build a dynamic website with Next.js 15 App Router, React 19, Storyblok, and Bun &lpar;+ Typescript&rpar;](https://dev.to/robertobutti/how-to-build-a-dynamic-website-with-nextjs-15-app-router-react-19-storyblok-and-bun--2972)
+- [Playwright: GraphQL Requests in A Utility for Efficient Testing](https://dev.to/matan3sh/playwright-graphql-requests-in-a-utility-for-efficient-testing-4i0k)
+- [Building a smarter RSS feed for my newsletter subscriptions](https://dev.to/aws-builders/building-a-smarter-rss-feed-for-my-newsletter-subscriptions-4nf7)
+- [2NTECH-PROJE](https://dev.to/tahayagizguler/2ntech-proje-1ka6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
