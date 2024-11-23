@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Have you noticed? When you type in the Quickie Post text box, it grows larger with every keystroke—it feels like an unintentional bug. But hey, Quickie Post is finally here, and it’s looking amazing! 🥳](https://dev.to/arafatweb/have-you-noticed-when-you-type-in-the-quickie-post-text-box-it-grows-larger-with-every-3339)
-- [Padrões de projeto: Builder](https://dev.to/camilaferreiranas/padroes-de-projeto-builder-4f47)
-- [Simplifying Asset Updates in FilamentPHP Packages](https://dev.to/biostate/simplifying-asset-updates-in-filamentphp-packages-2pd0)
-- [📚 Top JavaScript Books to Level Up Your Skills!🚀](https://dev.to/rasel9t6/top-javascript-books-to-level-up-your-skills-3a7)
-- [Understanding Rails Initializers: Configuring Your Application Easily](https://dev.to/coderyash/understanding-rails-initializers-configuring-your-application-easily-513f)
+- [Run AI Workloads on Serverless GPUs with RunPod](https://dev.to/aigurux/getting-started-with-runpod-serverless-4gb1)
+- [Optimizing OpenAI’s GPT-4o-mini to Detect AI-Generated Text Using DSPy](https://dev.to/b-d055/optimizing-openais-gpt-4o-mini-to-detect-ai-generated-text-using-dspy-2775)
+- [Today’s new knowledge #7&lpar;Markdown&rpar;](https://dev.to/kishor_sutradhar_d2503ac4/todays-new-knowledge-7markdown-4fhm)
+- [Fiz o teste do IELTS &lpar;é esse o título&rpar;](https://dev.to/lucianodiisouza/fiz-o-teste-de-ielts-e-esse-o-titulo-1a93)
+- [What do you think about low-code and no-code? also do you consider if someone building apps with it as a developer? cheers](https://dev.to/can_erden_d427a6a63ab2465/what-do-you-think-about-low-code-and-no-code-also-do-you-consider-if-someone-building-apps-with-it-217o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
