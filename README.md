@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Meta Tower](https://dev.to/theversan_4adce7651e1fe76/meta-tower-2go3)
-- [React](https://dev.to/alar_evren_adcb8f6e46a8/react-3mm0)
-- [[pt-br] Ranking de tecnologias da programação &lpar;pesquisa de campo TCC&rpar;](https://dev.to/yagoromualdo/pt-br-ranking-de-tecnologias-da-programacao-pesquisa-de-campo-tcc-508m)
-- [ECCV 2024 - Open-Vocabulary 3D Semantic Segmentation with Text-to-Image Diffusion Models](https://dev.to/voxel51/eccv-2024-open-vocabulary-3d-semantic-segmentation-with-text-to-image-diffusion-models-35pm)
-- [My React Journey: Day 5](https://dev.to/ayoola_damilare_212d5bde0/my-react-journey-day-5-l8m)
+- [Crack the Gladiator’s Code: The Ultimate Puzzle Challenge Awaits](https://dev.to/gladiatorsbattle/crack-the-gladiators-code-the-ultimate-puzzle-challenge-awaits-3ol6)
+- [Mastering TypeScript: Recursive Types Unleashed for Advanced Developers](https://dev.to/aaravjoshi/mastering-typescript-recursive-types-unleashed-for-advanced-developers-5709)
+- [Mastering Modern APIs with Go: From Basics to Best Practices🌐💻🚀](https://dev.to/githaiga22/mastering-modern-apis-with-go-from-basics-to-best-practices-2obn)
+- [🚀 Building a Modular and Scalable Backend with NestJS](https://dev.to/afsh7n/building-a-modular-and-scalable-backend-with-nestjs-17dk)
+- [React Custom Renderers: Build Once, Run Everywhere - Boost Your Cross-Platform Development](https://dev.to/aaravjoshi/react-custom-renderers-build-once-run-everywhere-boost-your-cross-platform-development-3b54)
 <!-- BLOG-POST-LIST:END -->
 
 ---
