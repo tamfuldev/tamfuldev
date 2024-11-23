@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Crack the Gladiator’s Code: The Ultimate Puzzle Challenge Awaits](https://dev.to/gladiatorsbattle/crack-the-gladiators-code-the-ultimate-puzzle-challenge-awaits-3ol6)
-- [Mastering TypeScript: Recursive Types Unleashed for Advanced Developers](https://dev.to/aaravjoshi/mastering-typescript-recursive-types-unleashed-for-advanced-developers-5709)
-- [Mastering Modern APIs with Go: From Basics to Best Practices🌐💻🚀](https://dev.to/githaiga22/mastering-modern-apis-with-go-from-basics-to-best-practices-2obn)
-- [🚀 Building a Modular and Scalable Backend with NestJS](https://dev.to/afsh7n/building-a-modular-and-scalable-backend-with-nestjs-17dk)
-- [React Custom Renderers: Build Once, Run Everywhere - Boost Your Cross-Platform Development](https://dev.to/aaravjoshi/react-custom-renderers-build-once-run-everywhere-boost-your-cross-platform-development-3b54)
+- [CSS has a new logo &lpar;and new features&rpar;! 🎉](https://dev.to/best_codes/css-has-a-new-logo-and-new-features-4lma)
+- [Week 12: Lab 9: Packaged release](https://dev.to/mpalhutchinson/week-12-lab-9-packaged-release-1l5o)
+- [Allwinner T527 SystemOnModule Adapts for Android 13](https://dev.to/ronnie_r_152dc2151d9449c6/allwinner-t527-systemonmodule-adapts-for-android-13-3mf7)
+- [carousel](https://dev.to/patrick_tadie_201700b3bdf/carousel-2jd2)
+- [Releasing dev-mate-cli on npm](https://dev.to/mayankpareek/releasing-dev-mate-cli-on-npm-3bnn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
