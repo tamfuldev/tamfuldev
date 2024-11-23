@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding RxJS and Observables in Angular: A Beginner-Friendly Guide](https://dev.to/renukapatil/understanding-rxjs-and-observables-in-angular-a-beginner-friendly-guide-ibf)
-- [Data Architecture Best Practices](https://dev.to/dqops/data-architecture-best-practices-18ij)
-- [Speed Up Your Angular App: 5 Change Detection Tricks You Need to Know](https://dev.to/aaravjoshi/speed-up-your-angular-app-5-change-detection-tricks-you-need-to-know-3g4i)
-- [DialogueAI: Interactive Playground for assemblyai speech to text API and leMUR API and generate code for the configurations](https://dev.to/code_triggered_/dialogueai-interactive-playground-for-assemblyai-speech-to-text-api-and-lemur-api-and-generate-30de)
-- [Teaching an AI Dog New Tricks &lpar;The Gemini Integration&rpar;](https://dev.to/joshuaisaact/teaching-an-ai-dog-new-tricks-the-gemini-integration-35gj)
+- [Have you noticed? When you type in the Quickie Post text box, it grows larger with every keystroke—it feels like an unintentional bug. But hey, Quickie Post is finally here, and it’s looking amazing! 🥳](https://dev.to/arafatweb/have-you-noticed-when-you-type-in-the-quickie-post-text-box-it-grows-larger-with-every-3339)
+- [Padrões de projeto: Builder](https://dev.to/camilaferreiranas/padroes-de-projeto-builder-4f47)
+- [Simplifying Asset Updates in FilamentPHP Packages](https://dev.to/biostate/simplifying-asset-updates-in-filamentphp-packages-2pd0)
+- [📚 Top JavaScript Books to Level Up Your Skills!🚀](https://dev.to/rasel9t6/top-javascript-books-to-level-up-your-skills-3a7)
+- [Understanding Rails Initializers: Configuring Your Application Easily](https://dev.to/coderyash/understanding-rails-initializers-configuring-your-application-easily-513f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
