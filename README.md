@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Hybrid Battery Repairs: A Comprehensive Guide](https://dev.to/vortex_blogger/hybrid-battery-repairs-a-comprehensive-guide-4ik2)
-- [Understanding Networking and Internet Infrastructure: A Global Overview with Insights from Nigeria](https://dev.to/josephibehdev/understanding-networking-and-internet-infrastructure-a-global-overview-with-insights-from-nigeria-2h30)
-- [Recursive Conditional Types](https://dev.to/kasir-barati/recursive-conditional-types-8e5)
-- [Easy CTF - Uma breve jornada de exploração com base no modelo OSI](https://dev.to/obtuosa/easy-ctf-uma-breve-jornada-de-exploracao-com-base-no-modelo-osi-52ca)
-- [Cybersecurity Course for Beginners: Your Ultimate Guide In 2025](https://dev.to/daksh_kataria_9c4197f3f7c/cybersecurity-course-for-beginners-your-ultimate-guide-in-2025-82b)
+- [Understanding RxJS and Observables in Angular: A Beginner-Friendly Guide](https://dev.to/renukapatil/understanding-rxjs-and-observables-in-angular-a-beginner-friendly-guide-ibf)
+- [Data Architecture Best Practices](https://dev.to/dqops/data-architecture-best-practices-18ij)
+- [Speed Up Your Angular App: 5 Change Detection Tricks You Need to Know](https://dev.to/aaravjoshi/speed-up-your-angular-app-5-change-detection-tricks-you-need-to-know-3g4i)
+- [DialogueAI: Interactive Playground for assemblyai speech to text API and leMUR API and generate code for the configurations](https://dev.to/code_triggered_/dialogueai-interactive-playground-for-assemblyai-speech-to-text-api-and-lemur-api-and-generate-30de)
+- [Teaching an AI Dog New Tricks &lpar;The Gemini Integration&rpar;](https://dev.to/joshuaisaact/teaching-an-ai-dog-new-tricks-the-gemini-integration-35gj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
