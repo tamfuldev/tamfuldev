@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Decoding Airplane Seat Mysteries in Cabin Crew Life Simulator - Devlog#4](https://dev.to/khaisimon_devgame/decoding-airplane-seat-mysteries-in-cabin-crew-life-simulator-devlog4-22l4)
-- [Learn HPC with me: CPU vs GPU](https://dev.to/toji/learn-hpc-with-me-cpu-vs-gpu-44eb)
-- [Tailwind Vs Chakra UI | The Ultimate React UI Library Battle](https://dev.to/thesohailjafri/tailwind-vs-chakra-ui-the-ultimate-react-ui-library-battle-24io)
-- [Toyota hybrid models](https://dev.to/bavaryadak_toyota/toyota-hybrid-models-34g1)
-- [Pydantic: The end of manual validations! ✨](https://dev.to/blnkoff/pydantic-the-end-of-manual-validations-422h)
+- [Hybrid Battery Repairs: A Comprehensive Guide](https://dev.to/vortex_blogger/hybrid-battery-repairs-a-comprehensive-guide-4ik2)
+- [Understanding Networking and Internet Infrastructure: A Global Overview with Insights from Nigeria](https://dev.to/josephibehdev/understanding-networking-and-internet-infrastructure-a-global-overview-with-insights-from-nigeria-2h30)
+- [Recursive Conditional Types](https://dev.to/kasir-barati/recursive-conditional-types-8e5)
+- [Easy CTF - Uma breve jornada de exploração com base no modelo OSI](https://dev.to/obtuosa/easy-ctf-uma-breve-jornada-de-exploracao-com-base-no-modelo-osi-52ca)
+- [Cybersecurity Course for Beginners: Your Ultimate Guide In 2025](https://dev.to/daksh_kataria_9c4197f3f7c/cybersecurity-course-for-beginners-your-ultimate-guide-in-2025-82b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
