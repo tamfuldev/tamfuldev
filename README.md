@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A 19-Year-Old Dreamer Building the Platform of Tomorrow 🚀](https://dev.to/bonsuaq/a-19-year-old-dreamer-building-the-platform-of-tomorrow-3pim)
-- [I found a cool community &lpar;not as good as dev.to :P&rpar; the other day. I think I&#39;ll write a post about it soon. See link in comments.](https://dev.to/best_codes/i-found-a-cool-community-not-as-good-as-devto-p-the-other-day-i-think-ill-write-a-post-about-j99)
-- [Creating a Comprehensive Raffle System for GladiatorsBattle.com](https://dev.to/gladiatorsbattle/creating-a-comprehensive-raffle-system-for-gladiatorsbattlecom-1kk8)
-- [SETTING UP A DOCKER BASED GITLAB-CE&lpar;COMMUNITY EDITION&rpar; AND A GITLAB RUNNING USING DOCKER COMPOSE](https://dev.to/toluxfash/setting-up-a-docker-based-gitlab-cecommunity-edition-and-a-gitlab-running-using-docker-compose-3kkp)
-- [Early termination of transducers and reducing functions](https://dev.to/ljpengelen/early-termination-of-transducers-and-reducing-functions-2k3b)
+- [1975. Maximum Matrix Sum](https://dev.to/mdarifulhaque/1975-maximum-matrix-sum-okn)
+- [Building an Interactive Solar System Simulation: A Step-by-Step Guide](https://dev.to/gladiatorsbattle/building-an-interactive-solar-system-simulation-a-step-by-step-guide-1i9g)
+- [Code Smell 281 - Hashes](https://dev.to/mcsee/code-smell-281-hashes-3b80)
+- [I Made My Website 10x Faster With These Frontend Magic Tricks](https://dev.to/amaresh_adak/i-made-my-website-10x-faster-with-these-frontend-magic-tricks-5h85)
+- [New Approaches in HarmonyOS Development: The &quot;Whispers&quot; between Applications and Front-End Pages](https://dev.to/xun_wang_6384a403f9817c2/new-approaches-in-harmonyos-development-the-whispers-between-applications-and-front-end-pages-2npf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
