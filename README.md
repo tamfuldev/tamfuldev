@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Triangles On Web Ch1 Draw Something](https://dev.to/fingerbone/triangles-on-web-ch1-draw-something-j3)
-- [20 Essential React concepts that every developer should know](https://dev.to/mrcaption49/20-essential-react-concepts-that-every-developer-should-know-2ibf)
-- [Analogy of Debouncing and Throttling:](https://dev.to/mrcaption49/analogy-of-debouncing-and-throttling-3l7l)
-- [Debouncing vs Throttling in React](https://dev.to/mrcaption49/debouncing-vs-throttling-in-react-4en3)
-- [Analogy of Lazy loading and Memoization | React | Part 2](https://dev.to/mrcaption49/analogy-of-lazy-loading-and-memoization-react-part-2-42ka)
+- [2x Faster, 40% less RAM: The Cloud Run stdout logging hack](https://dev.to/siddhantkcode/2x-faster-40-less-ram-the-cloud-run-stdout-logging-hack-1iig)
+- [Best extensions for Visual Studio Code &lpar;Beautiful Graphic&rpar;](https://dev.to/itdevus/best-extensions-for-visual-studio-code-beautiful-graphic-2cg2)
+- [42/365 | ¥10M Job Challenge - Buffer](https://dev.to/kameken100/42365-y10m-job-challenge-buffer-4kf5)
+- [CO2 Emissions: Key Trends and Insights Over the Past Decade](https://dev.to/leah_mathenge/co2-emissions-key-trends-and-insights-over-the-past-decade-3b7e)
+- [Managed Secure SFTP using Terraform](https://dev.to/rdarrylr/managed-secure-sftp-using-terraform-4clj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
