@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ultimate Guide: How to manually modify the ECS agent version](https://dev.to/aakashsairaj/ultimate-guide-how-to-manually-modify-the-ecs-agent-version-5hjj)
-- [Week 5 in DevOps: Learning Jenkins for CI/CD Automation](https://dev.to/amandeol063/week-5-in-devops-learning-jenkins-for-cicd-automation-2eim)
-- [What I wrote about Ruby this week #2](https://dev.to/lucianghinda/what-i-wrote-about-ruby-this-week-2-4oek)
-- [Hooks in React](https://dev.to/harshitvermadev/hooks-in-react-4f8k)
-- [How to undo the most recent local commits in Git?](https://dev.to/ankur0904/how-to-undo-the-most-recent-local-commits-in-git-1jbd)
+- [VoiceScribe: Elevating Transcriptions with AssemblyAI&#39;s Universal-2 Model](https://dev.to/sarath_v_/voicescribe-elevating-transcriptions-with-assemblyais-universal-2-model-4e71)
+- [Top Python Libraries Every Developer Should Know](https://dev.to/ayusharpcoder/top-python-libraries-every-developer-should-know-1fjk)
+- [VoiceScribe: Revolutionizing Real-Time Speech-to-Text](https://dev.to/sarath_v_/voicescribe-revolutionizing-real-time-speech-to-text-7c6)
+- [Negative Eigenvalues Boost Neural Networks&#39; Memory and Pattern Recognition Abilities](https://dev.to/mikeyoung44/negative-eigenvalues-boost-neural-networks-memory-and-pattern-recognition-abilities-50g7)
+- [AI Shows Promise But Struggles with Complex Pattern Recognition, Study Reveals](https://dev.to/mikeyoung44/ai-shows-promise-but-struggles-with-complex-pattern-recognition-study-reveals-3086)
 <!-- BLOG-POST-LIST:END -->
 
 ---
