@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [VoiceScribe: Elevating Transcriptions with AssemblyAI&#39;s Universal-2 Model](https://dev.to/sarath_v_/voicescribe-elevating-transcriptions-with-assemblyais-universal-2-model-4e71)
-- [Top Python Libraries Every Developer Should Know](https://dev.to/ayusharpcoder/top-python-libraries-every-developer-should-know-1fjk)
-- [VoiceScribe: Revolutionizing Real-Time Speech-to-Text](https://dev.to/sarath_v_/voicescribe-revolutionizing-real-time-speech-to-text-7c6)
-- [Negative Eigenvalues Boost Neural Networks&#39; Memory and Pattern Recognition Abilities](https://dev.to/mikeyoung44/negative-eigenvalues-boost-neural-networks-memory-and-pattern-recognition-abilities-50g7)
-- [AI Shows Promise But Struggles with Complex Pattern Recognition, Study Reveals](https://dev.to/mikeyoung44/ai-shows-promise-but-struggles-with-complex-pattern-recognition-study-reveals-3086)
+- [&quot;Simplifying HR Processes: The Employee Management System&quot;](https://dev.to/vidminiminupama/simplifying-hr-processes-the-employee-management-system-2lef)
+- [Beyond Technical Skills; Soft Skills...](https://dev.to/chimannamadim/beyond-technical-skills-soft-skills-3lmk)
+- [Freelancer Transcription Tool - Transform Audio to Text with AssemblyAI 🚀](https://dev.to/sonu_kushwaha_f26b92132e5/freelancer-transcription-tool-transform-audio-to-text-with-assemblyai-523h)
+- [Portfolio in react](https://dev.to/chinmaya_kumarmallick_8a/portfolio-in-react-21hn)
+- [10 Game-Changing Programming Techniques Every Developer Overlooks &lpar;But Shouldn’t&rpar;](https://dev.to/favethetechlady/10-game-changing-programming-techniques-every-developer-overlooks-but-shouldnt-34pj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
