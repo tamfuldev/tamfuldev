@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Released Result::Simple - a dead simple perl-ish Result like F#, Rust, Go](https://dev.to/kfly8/released-resultsimple-a-dead-simple-perl-ish-result-like-f-rust-go-2hl2)
-- [Let&#39;s build an app](https://dev.to/rmsilva1973/lets-build-an-app-328k)
-- [The Power of Modular Code: A 1-Minute Guide](https://dev.to/itamartati/the-power-of-modular-code-a-1-minute-guide-3lb2)
-- [Understanding Asynchronous Programming: A 1-Minute Guide](https://dev.to/itamartati/understanding-asynchronous-programming-a-1-minute-guide-1116)
-- [Understanding API Rate Limiting: A 1-Minute Guide](https://dev.to/itamartati/understanding-api-rate-limiting-a-1-minute-guide-j69)
+- [I found a cool community &lpar;not as good as dev.to :P&rpar; the other day. I think I&#39;ll write a post about it soon. See link in comments.](https://dev.to/best_codes/i-found-a-cool-community-not-as-good-as-devto-p-the-other-day-i-think-ill-write-a-post-about-j99)
+- [Early termination of transducers and reducing functions](https://dev.to/ljpengelen/early-termination-of-transducers-and-reducing-functions-2k3b)
+- [How does Natural Language Processing &lpar;NLP&rpar; interact between people and technology?](https://dev.to/busraecemsakar/how-does-natural-language-processing-nlp-interact-between-people-and-technology-5e53)
+- [Flutter web](https://dev.to/jean-marie/flutter-web-45gc)
+- [Set up SSH Key Authentication](https://dev.to/tennie/set-up-ssh-key-authentication-1nc5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
