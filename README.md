@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Untitled](https://dev.to/mohammed_alsarihi_f3d4c82/untitled-5heh)
-- [Supercharge Your Angular App: Ivy Compiler Tricks for Lightning-Fast Performance](https://dev.to/aaravjoshi/supercharge-your-angular-app-ivy-compiler-tricks-for-lightning-fast-performance-3feo)
-- [The Complete Guide to Finding the Right Driving Lessons in Officer](https://dev.to/maxdavis/the-complete-guide-to-finding-the-right-driving-lessons-in-officer-2ee5)
-- [I made a Profile Card Widget for Bluesky 🦋](https://dev.to/saurabhdaware/i-made-a-profile-card-widget-for-bluesky-268e)
-- [Smart login system](https://dev.to/zozjr/smart-login-system-80i)
+- [Triangles On Web Ch1 Draw Something](https://dev.to/fingerbone/triangles-on-web-ch1-draw-something-j3)
+- [20 Essential React concepts that every developer should know](https://dev.to/mrcaption49/20-essential-react-concepts-that-every-developer-should-know-2ibf)
+- [Analogy of Debouncing and Throttling:](https://dev.to/mrcaption49/analogy-of-debouncing-and-throttling-3l7l)
+- [Debouncing vs Throttling in React](https://dev.to/mrcaption49/debouncing-vs-throttling-in-react-4en3)
+- [Analogy of Lazy loading and Memoization | React | Part 2](https://dev.to/mrcaption49/analogy-of-lazy-loading-and-memoization-react-part-2-42ka)
 <!-- BLOG-POST-LIST:END -->
 
 ---
