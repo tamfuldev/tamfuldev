@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Transforming Business Today: 5 Key Ways AI and Automation Are Changing the Game](https://dev.to/shtefcs/transforming-business-today-5-key-ways-ai-and-automation-are-changing-the-game-11og)
-- [Realistic timeframes for mastering programming](https://dev.to/itdevus/realistic-timeframes-for-mastering-programming-5g1e)
-- [Optimizing Your Node.js Projects with CodeSizeChecker.com](https://dev.to/istealersndev/optimizing-your-nodejs-projects-with-codesizecheckercom-35ip)
-- [&quot;Simplifying HR Processes: The Employee Management System&quot;](https://dev.to/vidminiminupama/simplifying-hr-processes-the-employee-management-system-2lef)
-- [Beyond Technical Skills; Soft Skills...](https://dev.to/chimannamadim/beyond-technical-skills-soft-skills-3lmk)
+- [Using Azure OpenAI Service with Local bolt.new](https://dev.to/m_sea_bass/using-azure-openai-service-with-local-boltnew-3n70)
+- [Mastering Your Sprint Review Meeting Agenda: A Guide to Productive Discussions and Improved Outcomes](https://dev.to/devactivity-app/mastering-your-sprint-review-meeting-agenda-a-guide-to-productive-discussions-and-improved-outcomes-154p)
+- [Beyond console.log](https://dev.to/asmyshlyaev177/beyond-consolelog-1h40)
+- [Setting Up a Mac for Development: A Comprehensive Guide 🧑🏻‍💻 ‍](https://dev.to/devangtomar/setting-up-a-mac-for-development-a-comprehensive-guide-5j3)
+- [Understanding Generics in TypeScript: A Beginner’s Guide](https://dev.to/abhinav707/understanding-generics-in-typescript-a-beginners-guide-4ini)
 <!-- BLOG-POST-LIST:END -->
 
 ---
