@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Essential Input Strategies in Building Microservices Architecture](https://dev.to/brilworks/essential-input-strategies-in-building-microservices-architecture-42lg)
-- [Proyecto IoT con azure - RaspberryPi IoT simulator + IOT Hub + Stream Analytics + Blob Storage](https://dev.to/marcelasabogue/azure-raspberrypi-iot-simulator-iot-hub-stream-analytics-blob-storage-52h2)
-- [AudioIntel - Transform Audio into Actionable Intelligence](https://dev.to/mtwn105/audiointel-transform-audio-into-actionable-intelligence-nd8)
-- [JavaScript Math Object Cheatsheet](https://dev.to/buchilazarus4/javascript-math-object-cheatsheet-2ki5)
-- [𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭 — এ কেন [ ] == ![ ] এর ফলাফল 𝐭𝐫𝐮𝐞?](https://dev.to/naymhdev/-e-ken-er-phlaaphl--459g)
+- [Upcoming JavaScript Features: Simplifying Array Combinations with `Array.zip` and `Array.zipKeyed`](https://dev.to/dharamgfx/upcoming-javascript-features-simplifying-array-combinations-with-arrayzip-and-arrayzipkeyed-e0g)
+- [Aurora Limitless - Sharded Table](https://dev.to/aws-heroes/aurora-limitless-sharded-table-4cbj)
+- [10 Online Resources to Make Your Life as a Frontend Developer Easy](https://dev.to/magsimuhammadessa/10-online-resources-to-make-your-life-as-a-frontend-developer-easy-5h8n)
+- [AI and PHP 8 - A Powerful Combination](https://dev.to/kapil_kalsan/ai-and-php-8-a-powerful-combination-496e)
+- [WordPress vs. Ghost: Which Blogging Platform Should You Use?](https://dev.to/swhabitation/wordpress-vs-ghost-which-blogging-platform-should-you-use-15pc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
