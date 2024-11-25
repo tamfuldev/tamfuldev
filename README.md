@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Harnessing Cloudflare D1 and Drizzle ORM for Scalable Serverless Apps in Next.js](https://dev.to/nks102000/harnessing-cloudflare-d1-and-drizzle-orm-for-scalable-serverless-apps-in-nextjs-1f07)
-- [Mastering Data Cleaning: Your Guide to a Cleaner, Reliable Dataset 🚀](https://dev.to/cortexflow/mastering-data-cleaning-your-guide-to-a-cleaner-reliable-dataset-h15)
-- [What is Website Localization?](https://dev.to/keyurparalkar/what-is-website-localization-55mn)
-- [Devops Week 1](https://dev.to/manish_rajwar_d2c0967efc9/devops-week-1-2pja)
-- [História 1: A Jornada de Lory e a Indexação](https://dev.to/flaviolzsantos/historia-1-a-jornada-de-lory-e-a-indexacao-2led)
+- [Laravel Custom Query Builders Over Scopes](https://dev.to/oussamamater/laravel-custom-query-builders-over-scopes-3kjf)
+- [How to Create a Junior Developer Portfolio That Gets Noticed](https://dev.to/jtrevdev/how-to-create-a-junior-developer-portfolio-that-gets-noticed-4h0e)
+- [10 Future Apache Iceberg Developments to Look forward to in 2025](https://dev.to/alexmercedcoder/10-future-apache-iceberg-developments-to-look-forward-to-in-2025-3el3)
+- [How to Authenticate Your Google Cloud Project Without a Migraine](https://dev.to/yosolita1978/how-to-authenticate-your-google-cloud-project-without-a-migraine-1m7b)
+- [6 Steps to Run API Automation Testing](https://dev.to/yayabobi/6-steps-to-run-api-automation-testing-d7b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
