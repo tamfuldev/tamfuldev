@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Upcoming JavaScript Features: Simplifying Array Combinations with `Array.zip` and `Array.zipKeyed`](https://dev.to/dharamgfx/upcoming-javascript-features-simplifying-array-combinations-with-arrayzip-and-arrayzipkeyed-e0g)
-- [Aurora Limitless - Sharded Table](https://dev.to/aws-heroes/aurora-limitless-sharded-table-4cbj)
-- [10 Online Resources to Make Your Life as a Frontend Developer Easy](https://dev.to/magsimuhammadessa/10-online-resources-to-make-your-life-as-a-frontend-developer-easy-5h8n)
-- [AI and PHP 8 - A Powerful Combination](https://dev.to/kapil_kalsan/ai-and-php-8-a-powerful-combination-496e)
-- [WordPress vs. Ghost: Which Blogging Platform Should You Use?](https://dev.to/swhabitation/wordpress-vs-ghost-which-blogging-platform-should-you-use-15pc)
+- [Todo en Uno: Las Últimas Novedades de AWS pre-reInvent 2024](https://dev.to/aws-espanol/todo-en-uno-las-ultimas-novedades-de-aws-pre-reinvent-2024-4n46)
+- [Why Payroll Software is Important for Businesses?](https://dev.to/mobilise/why-payroll-software-is-important-for-businesses-3cih)
+- [Podcast Accessibility Enhancer transcription and insights application using AssemblyAI Challenge](https://dev.to/chintanonweb/podcast-accessibility-enhancer-transcription-and-insights-application-using-assemblyai-challenge-lbh)
+- [Perl Weekly #696 - Perl 5 is Perl](https://dev.to/szabgab/perl-weekly-696-perl-5-is-perl-2n9j)
+- [AI Language Models Show Human-Like Bias in Survey Answers](https://dev.to/mikeyoung44/ai-language-models-show-human-like-bias-in-survey-answers-m29)
 <!-- BLOG-POST-LIST:END -->
 
 ---
