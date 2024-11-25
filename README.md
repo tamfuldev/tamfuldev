@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Error Handling in Go](https://dev.to/vinolia_andisi/error-handling-in-go-38p4)
-- [Access S3 from a VPC](https://dev.to/misolainthecloud/access-s3-from-a-vpc-4kl5)
-- [Provide storage for the public website](https://dev.to/under2wenty/provide-storage-for-the-public-website-m78)
-- [When &lpar;and When Not&rpar; to Use Tailwind CSS in Your Projects](https://dev.to/balrajola/when-and-when-not-to-use-tailwind-css-in-your-projects-2dj3)
-- [Provide storage for the IT department testing and training](https://dev.to/under2wenty/provide-storage-for-the-it-department-testing-and-training-fbj)
+- [The Future of Neural Technologies](https://dev.to/atharvgyan/the-future-of-neural-technologies-19cj)
+- [How to use HashiCorpVault in a .NET 8 Web Api project](https://dev.to/angelodotnet/how-to-use-hashicorpvault-in-a-net-8-web-api-project-1f1m)
+- [How to Create a Custom Claims Management Application in Just 5 Minutes](https://dev.to/stratoflow/how-to-create-a-custom-claims-management-application-in-just-5-minutes-5gb5)
+- [Github Image Hosting API with UI](https://dev.to/adrian_fathan/github-image-hosting-api-and-with-ui-57f4)
+- [Simplify Authorization Management with Cedar by AWS](https://dev.to/aws-builders/simplify-authorization-management-with-cedar-by-aws-ee0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
