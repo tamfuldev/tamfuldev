@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [10 Tips on How to Effectively Prompt Amazon Q](https://dev.to/nat_ndlovu/10-tips-on-how-to-effectively-prompt-amazon-q-50k2)
-- [Global Navigation + Gradient Path Planning](https://dev.to/notlongas/global-navigation-gradient-path-planning-40cg)
-- [🚀 Why Tap-to-Earn Games Are the Latest Crypto Trend](https://dev.to/david_tevzadze_/why-tap-to-earn-games-are-the-latest-crypto-trend-3baa)
-- [NgSysV2-3.5: A Serious Svelte InfoSys: A Client-Server Version](https://dev.to/mjoycemilburn/ngsysv2-35-a-serious-svelte-infosys-a-client-server-version-36e0)
-- [NgSysV2-3.6: A Serious Svelte InfoSys: Deploying to the Google Cloud](https://dev.to/mjoycemilburn/ngsysv2-36-a-serious-svelte-infosys-deploying-to-the-google-cloud-geo)
+- [Granting autonomy to agents](https://dev.to/neuml/granting-autonomy-to-agents-ae6)
+- [Aplicando o &quot;Interface Segregation Principle&quot; com Typescript e Java](https://dev.to/victorlima142/-aplicando-o-interface-segregation-principle-com-typescript-e-java-216o)
+- [43/365 | ¥10M Job Challenge - Work](https://dev.to/kameken100/43365-y10m-job-challenge-work-3mnn)
+- [Register Azure DevOps Agents with Service Principal Secret !](https://dev.to/learn4ops/register-azure-devops-agents-with-service-principal-secret--1dmc)
+- [An OOP Bootcamp: Introduction](https://dev.to/yeehawtoast/an-oop-bootcamp-introduction-4b13)
 <!-- BLOG-POST-LIST:END -->
 
 ---
