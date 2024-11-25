@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Final Stretch of My Open Source Journey: Part 1](https://dev.to/majd_almnayer_2101/the-final-stretch-of-my-open-source-journey-part-1-4039)
-- [How to Scale a Team from 6 to 25: Building Down to Move Up](https://dev.to/danllach/how-to-scale-a-team-from-6-to-25-building-down-to-move-up-3fo1)
-- [Guia Completo: Como Integrar WatermelonDB no React Native 0.76 com Expo 52 e TypeScript](https://dev.to/caiopratalli/guia-completo-como-integrar-watermelondb-no-react-native-076-com-expo-52-e-typescript-3k06)
-- [Automated Monitoring and Message Notification System for Payment Channels](https://dev.to/junjie_qin_512245a2eac9a4/automated-monitoring-and-message-notification-system-for-payment-channels-5gn0)
-- [How to Build a Strong UI Test Automation Framework](https://dev.to/qalogy/how-to-build-a-strong-ui-test-automation-framework-1k0c)
+- [I&#39;m learning React](https://dev.to/moth668/im-learning-react-3eij)
+- [My Submission for the [AssemblyAI Challenge ]: Sophisticated Speech-to-Text.](https://dev.to/emmaexcellent/my-submission-for-the-assemblyai-challenge-sophisticated-speech-to-text-2k2o)
+- [Speech to text](https://dev.to/zsobral/speech-to-text-2b6p)
+- [Understanding Cookies in Rails: A Developer&#39;s Guide](https://dev.to/safiullah/understanding-cookies-in-rails-a-developers-guide-159e)
+- [🚨ReportSOS | AI-Powered SOS Emergency Caller: Enhancing Dispatcher Efficiency and Response](https://dev.to/diosamuel/reportsos-enhancing-dispatcher-efficiency-and-response-52c6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
