@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Scalability 101: Vertical vs. Horizontal Scaling](https://dev.to/isaactony/scalability-101-vertical-vs-horizontal-scaling-1c84)
-- [Starting React Native Project in 2025](https://dev.to/vladimirvovk/starting-react-native-project-in-2025-4n25)
-- [CNCF: The Driving Force Behind the Cloud-Native Revolution](https://dev.to/hkann/cncf-the-driving-force-behind-the-cloud-native-revolution-2gen)
-- [EchoAPI&#39;s Five Hidden Gems: Did You Know?](https://dev.to/philip_zhang_854092d88473/echoapis-five-hidden-gems-did-you-know-mpg)
-- [Building a Powerful API with Node.js, Express, and React](https://dev.to/philip_zhang_854092d88473/building-a-powerful-api-with-nodejs-express-and-react-3e79)
+- [Harnessing Cloudflare D1 and Drizzle ORM for Scalable Serverless Apps in Next.js](https://dev.to/nks102000/harnessing-cloudflare-d1-and-drizzle-orm-for-scalable-serverless-apps-in-nextjs-1f07)
+- [Mastering Data Cleaning: Your Guide to a Cleaner, Reliable Dataset 🚀](https://dev.to/cortexflow/mastering-data-cleaning-your-guide-to-a-cleaner-reliable-dataset-h15)
+- [What is Website Localization?](https://dev.to/keyurparalkar/what-is-website-localization-55mn)
+- [Devops Week 1](https://dev.to/manish_rajwar_d2c0967efc9/devops-week-1-2pja)
+- [História 1: A Jornada de Lory e a Indexação](https://dev.to/flaviolzsantos/historia-1-a-jornada-de-lory-e-a-indexacao-2led)
 <!-- BLOG-POST-LIST:END -->
 
 ---
