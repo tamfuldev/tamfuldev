@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m learning React](https://dev.to/moth668/im-learning-react-3eij)
-- [My Submission for the [AssemblyAI Challenge ]: Sophisticated Speech-to-Text.](https://dev.to/emmaexcellent/my-submission-for-the-assemblyai-challenge-sophisticated-speech-to-text-2k2o)
-- [Speech to text](https://dev.to/zsobral/speech-to-text-2b6p)
-- [Understanding Cookies in Rails: A Developer&#39;s Guide](https://dev.to/safiullah/understanding-cookies-in-rails-a-developers-guide-159e)
-- [🚨ReportSOS | AI-Powered SOS Emergency Caller: Enhancing Dispatcher Efficiency and Response](https://dev.to/diosamuel/reportsos-enhancing-dispatcher-efficiency-and-response-52c6)
+- [Vite vs Next.js: Which One Should You Choose?](https://dev.to/shubhsk/vite-vs-nextjs-which-one-should-you-choose-4n42)
+- [Automating a Lambda Deployment with Terraform: A Case Study in Serverless Applications](https://dev.to/hosead6168/automating-a-lambda-deployment-with-terraform-a-case-study-in-serverless-applications-44oe)
+- [Laravel 11: Allowed memory size of 134217728 bytes exhausted &lpar;tried to allocate 23085056 bytes&rpar;](https://dev.to/awan/laravel-11-allowed-memory-size-of-134217728-bytes-exhausted-tried-to-allocate-23085056-bytes-392a)
+- [Usecase: TumbleLog](https://dev.to/mikkelsj/usecase-tumblelog-klg)
+- [Postgres - Session 02 &lpar; Architecture &rpar;](https://dev.to/technonotes/postgres-session-02-architecture--3kpf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
