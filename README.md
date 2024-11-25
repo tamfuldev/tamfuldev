@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Neural Technologies](https://dev.to/atharvgyan/the-future-of-neural-technologies-19cj)
-- [How to use HashiCorpVault in a .NET 8 Web Api project](https://dev.to/angelodotnet/how-to-use-hashicorpvault-in-a-net-8-web-api-project-1f1m)
-- [How to Create a Custom Claims Management Application in Just 5 Minutes](https://dev.to/stratoflow/how-to-create-a-custom-claims-management-application-in-just-5-minutes-5gb5)
-- [Github Image Hosting API with UI](https://dev.to/adrian_fathan/github-image-hosting-api-and-with-ui-57f4)
-- [Simplify Authorization Management with Cedar by AWS](https://dev.to/aws-builders/simplify-authorization-management-with-cedar-by-aws-ee0)
+- [Understanding React in 5 mins](https://dev.to/yukaty/understanding-react-in-5-mins-43eh)
+- [Top 5 Mistakes Developers Make When Working with Git &lpar;And How to Avoid Them&rpar;](https://dev.to/khawaja_saim_f3a6ae038967/top-5-mistakes-developers-make-when-working-with-git-and-how-to-avoid-them-gjd)
+- [Web Performance Metrics: A Comprehensive Guide to Website Optimization](https://dev.to/aragorn_talks/web-performance-metrics-a-comprehensive-guide-to-website-optimization-57i3)
+- [AI in Development: 6 Critical Barriers to Full Adoption](https://dev.to/eransakal/ai-in-development-6-critical-barriers-to-full-adoption-3b71)
+- [SFTP vs API Integrations: Which Solution is Right for Your Business?](https://dev.to/nataliapolomkina/sftp-vs-api-integrations-which-solution-is-right-for-your-business-1mbo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
