@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Run-Length of Matchsticks &lpar;PWC 296&rpar;](https://dev.to/muthm/the-run-length-of-matchsticks-pwc-296-24b4)
-- [El Poder de lo Simple: Regresión Lineal para Predecir Precios de Casas](https://dev.to/edgarcajusol/el-poder-de-lo-simple-linear-regression-209o)
-- [Dare to challenge hard thing](https://dev.to/fadingna/dare-to-challenge-hard-thing-5blb)
-- [My AssemblyAI Speech-To-Text Challenge.](https://dev.to/kom_bao_e797302aeb6b36de0/my-assemblyai-speech-to-text-challenge-dej)
-- [Be Invariant](https://dev.to/meeshbhoombah/be-invariant-4hn2)
+- [The Final Stretch of My Open Source Journey: Part 1](https://dev.to/majd_almnayer_2101/the-final-stretch-of-my-open-source-journey-part-1-4039)
+- [How to Scale a Team from 6 to 25: Building Down to Move Up](https://dev.to/danllach/how-to-scale-a-team-from-6-to-25-building-down-to-move-up-3fo1)
+- [Guia Completo: Como Integrar WatermelonDB no React Native 0.76 com Expo 52 e TypeScript](https://dev.to/caiopratalli/guia-completo-como-integrar-watermelondb-no-react-native-076-com-expo-52-e-typescript-3k06)
+- [Automated Monitoring and Message Notification System for Payment Channels](https://dev.to/junjie_qin_512245a2eac9a4/automated-monitoring-and-message-notification-system-for-payment-channels-5gn0)
+- [How to Build a Strong UI Test Automation Framework](https://dev.to/qalogy/how-to-build-a-strong-ui-test-automation-framework-1k0c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
