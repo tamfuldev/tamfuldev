@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Custom Query Builders Over Scopes](https://dev.to/oussamamater/laravel-custom-query-builders-over-scopes-3kjf)
-- [How to Create a Junior Developer Portfolio That Gets Noticed](https://dev.to/jtrevdev/how-to-create-a-junior-developer-portfolio-that-gets-noticed-4h0e)
-- [10 Future Apache Iceberg Developments to Look forward to in 2025](https://dev.to/alexmercedcoder/10-future-apache-iceberg-developments-to-look-forward-to-in-2025-3el3)
-- [How to Authenticate Your Google Cloud Project Without a Migraine](https://dev.to/yosolita1978/how-to-authenticate-your-google-cloud-project-without-a-migraine-1m7b)
-- [6 Steps to Run API Automation Testing](https://dev.to/yayabobi/6-steps-to-run-api-automation-testing-d7b)
+- [10 Tips on How to Effectively Prompt Amazon Q](https://dev.to/nat_ndlovu/10-tips-on-how-to-effectively-prompt-amazon-q-50k2)
+- [Global Navigation + Gradient Path Planning](https://dev.to/notlongas/global-navigation-gradient-path-planning-40cg)
+- [🚀 Why Tap-to-Earn Games Are the Latest Crypto Trend](https://dev.to/david_tevzadze_/why-tap-to-earn-games-are-the-latest-crypto-trend-3baa)
+- [NgSysV2-3.5: A Serious Svelte InfoSys: A Client-Server Version](https://dev.to/mjoycemilburn/ngsysv2-35-a-serious-svelte-infosys-a-client-server-version-36e0)
+- [NgSysV2-3.6: A Serious Svelte InfoSys: Deploying to the Google Cloud](https://dev.to/mjoycemilburn/ngsysv2-36-a-serious-svelte-infosys-deploying-to-the-google-cloud-geo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
