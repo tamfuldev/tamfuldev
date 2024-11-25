@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Vite vs Next.js: Which One Should You Choose?](https://dev.to/shubhsk/vite-vs-nextjs-which-one-should-you-choose-4n42)
-- [Automating a Lambda Deployment with Terraform: A Case Study in Serverless Applications](https://dev.to/hosead6168/automating-a-lambda-deployment-with-terraform-a-case-study-in-serverless-applications-44oe)
-- [Laravel 11: Allowed memory size of 134217728 bytes exhausted &lpar;tried to allocate 23085056 bytes&rpar;](https://dev.to/awan/laravel-11-allowed-memory-size-of-134217728-bytes-exhausted-tried-to-allocate-23085056-bytes-392a)
-- [Usecase: TumbleLog](https://dev.to/mikkelsj/usecase-tumblelog-klg)
-- [Postgres - Session 02 &lpar; Architecture &rpar;](https://dev.to/technonotes/postgres-session-02-architecture--3kpf)
+- [Build a Task Management App with React, TypeScript, and Material UI](https://dev.to/sevicode/build-a-task-management-app-with-react-typescript-and-material-ui-3n4n)
+- [Open-Source Development is Amazing!](https://dev.to/amullagaliev/open-source-development-is-amazing-4gho)
+- [&quot;The Future of Web Development: Exploring AR and VR Integration in Front-End Design&quot;](https://dev.to/vsfarooqkhan/the-future-of-web-development-exploring-ar-and-vr-integration-in-front-end-design-53pm)
+- [Strategy Design Pattern](https://dev.to/purimetlanareshbabu/strategy-design-pattern-1h5j)
+- [The Comprehensive Guide to Databases and Their Major Uses in Application Software](https://dev.to/adityabhuyan/the-comprehensive-guide-to-databases-and-their-major-uses-in-application-software-fag)
 <!-- BLOG-POST-LIST:END -->
 
 ---
