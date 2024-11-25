@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Task Management App with React, TypeScript, and Material UI](https://dev.to/sevicode/build-a-task-management-app-with-react-typescript-and-material-ui-3n4n)
-- [Open-Source Development is Amazing!](https://dev.to/amullagaliev/open-source-development-is-amazing-4gho)
-- [&quot;The Future of Web Development: Exploring AR and VR Integration in Front-End Design&quot;](https://dev.to/vsfarooqkhan/the-future-of-web-development-exploring-ar-and-vr-integration-in-front-end-design-53pm)
-- [Strategy Design Pattern](https://dev.to/purimetlanareshbabu/strategy-design-pattern-1h5j)
-- [The Comprehensive Guide to Databases and Their Major Uses in Application Software](https://dev.to/adityabhuyan/the-comprehensive-guide-to-databases-and-their-major-uses-in-application-software-fag)
+- [Essential Input Strategies in Building Microservices Architecture](https://dev.to/brilworks/essential-input-strategies-in-building-microservices-architecture-42lg)
+- [Proyecto IoT con azure - RaspberryPi IoT simulator + IOT Hub + Stream Analytics + Blob Storage](https://dev.to/marcelasabogue/azure-raspberrypi-iot-simulator-iot-hub-stream-analytics-blob-storage-52h2)
+- [AudioIntel - Transform Audio into Actionable Intelligence](https://dev.to/mtwn105/audiointel-transform-audio-into-actionable-intelligence-nd8)
+- [JavaScript Math Object Cheatsheet](https://dev.to/buchilazarus4/javascript-math-object-cheatsheet-2ki5)
+- [𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭 — এ কেন [ ] == ![ ] এর ফলাফল 𝐭𝐫𝐮𝐞?](https://dev.to/naymhdev/-e-ken-er-phlaaphl--459g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
