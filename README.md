@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Granting autonomy to agents](https://dev.to/neuml/granting-autonomy-to-agents-ae6)
-- [Aplicando o &quot;Interface Segregation Principle&quot; com Typescript e Java](https://dev.to/victorlima142/-aplicando-o-interface-segregation-principle-com-typescript-e-java-216o)
-- [43/365 | ¥10M Job Challenge - Work](https://dev.to/kameken100/43365-y10m-job-challenge-work-3mnn)
-- [Register Azure DevOps Agents with Service Principal Secret !](https://dev.to/learn4ops/register-azure-devops-agents-with-service-principal-secret--1dmc)
-- [An OOP Bootcamp: Introduction](https://dev.to/yeehawtoast/an-oop-bootcamp-introduction-4b13)
+- [Security Management and Advanced Threat Protection](https://dev.to/salman_khan_c31307505285e/security-management-and-advanced-threat-protection-3ed6)
+- [Untitled](https://dev.to/wilhio/untitled-3ip5)
+- [No Gap Ordered Numbering in SQL: A Unique Index to Serialize In Read Committed](https://dev.to/yugabyte/no-gap-ordered-numbering-in-sql-a-unique-index-to-serialize-in-read-committed-mcf)
+- [Build an AWS CI/CD Pipeline with deployment to Beanstalk](https://dev.to/ndzenyuy/build-an-aws-cicd-pipeline-with-deployment-to-beanstalk-n4n)
+- [Top 8 Open-Source Next.js Boilerplates/Starter](https://dev.to/bytefer/top-8-open-source-nextjs-boilerplatesstarter-b8e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
