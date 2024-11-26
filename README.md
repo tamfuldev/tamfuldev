@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How AI is Transforming Construction Sites and Revolutionizing Waste Management](https://dev.to/josef_doctorovitz_ww/how-ai-is-transforming-construction-sites-and-revolutionizing-waste-management-1834)
-- [Introduce CLI ID generator](https://dev.to/ss49919201/introduce-cli-id-generator-3fb5)
-- [Release 0.4 Planning](https://dev.to/aamfahim/release-04-planning-15nh)
-- [Optimizing Your Amazon Web Services Email Address: A Comprehensive Guide](https://dev.to/billgist/optimizing-your-amazon-web-services-email-address-a-comprehensive-guide-802)
-- [Sometimes I feel that my English holds me back - Ask the expert](https://dev.to/vinbrun/sometimes-i-feel-that-my-english-holds-me-back-ask-the-expert-1k1e)
+- [Understanding Application-Oriented Distributed Operating Systems: Architecture, Benefits, and Use Cases](https://dev.to/adityabhuyan/understanding-application-oriented-distributed-operating-systems-architecture-benefits-and-use-160m)
+- [Implementing Google One Tap Authentication in Next.js](https://dev.to/jakaria/implementing-google-one-tap-authentication-in-nextjs-2o1l)
+- [Part 2 - Enhancing Repository Descriptions with OpenAI for Maximum Impact](https://dev.to/dailysandbox/part-2-enhancing-repository-descriptions-with-openai-for-maximum-impact-4aao)
+- [Frontend Code from a Backend Perspective](https://dev.to/40percentironman/frontend-code-from-a-backend-perspective-47i7)
+- [In-depth Exploration of ArkWeb: Building High-Efficiency and Secure Web Components](https://dev.to/xun_wang_6384a403f9817c2/in-depth-exploration-of-arkweb-building-high-efficiency-and-secure-web-components-42mm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
