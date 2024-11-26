@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Push vs. Pull-Based Deployments](https://dev.to/mohamednasser018/push-vs-pull-based-deployments-4m78)
-- [Introducing the Goliat Theme: A project for the Community!](https://dev.to/danieljsaldana/introducing-the-goliat-theme-a-project-for-the-community-87n)
-- [My Struggle as a Self-Taught Developer](https://dev.to/trisdev/my-struggle-as-a-self-taught-developer-33o8)
-- [PolyglotCode Published, but...](https://dev.to/amullagaliev/polyglotcode-published-but-3nni)
-- [Going with Mattermost!](https://dev.to/theoforger/going-with-mattermost-49hl)
+- [A instrução synchronized](https://dev.to/javagirlsjug/a-instrucao-synchronized-48f8)
+- [Discovered - currently not indexed](https://dev.to/ayybbbt/discovered-currently-not-indexed-18o0)
+- [Crafting a Futuristic Interactive Folder Section with Advanced Animations 🚀](https://dev.to/gladiatorsbattle/crafting-a-futuristic-interactive-folder-section-with-advanced-animations-1c17)
+- [Start of a new journey!](https://dev.to/jason_b0816/start-of-a-new-journey-13f1)
+- [Welcome](https://dev.to/jfelipegarcia/welcome-5ff6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
