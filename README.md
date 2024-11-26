@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Configure GitHub for Dev.to Publishing](https://dev.to/jajera/configure-github-for-devto-publishing-cb7)
-- [Getting Started with GitHub Actions: A Beginner&#39;s Guide to Automation](https://dev.to/jajera/getting-started-with-github-actions-a-beginners-guide-to-automation-3kji)
-- [SUBSTR function in Oracle](https://dev.to/mrcaption49/substr-function-in-oracle-523p)
-- [Mastering Salesforce: 25 Interview Questions from Zero to Hero](https://dev.to/veronicajoseph/mastering-salesforce-100-interview-questions-from-zero-to-hero-4kbd)
-- [2924. Find Champion II](https://dev.to/mdarifulhaque/2924-find-champion-ii-lbb)
+- [Using Benchmarking to Explore Viable Redesigns](https://dev.to/moh_moh701/using-benchmarking-to-explore-viable-redesigns-203b)
+- [How to load .env in Django Project](https://dev.to/pcmagas/how-to-load-env-in-django-project-4c9d)
+- [Creating an AI-powered Image Generation API Service with FLUX, Python, and Diffusers](https://dev.to/aiandml/creating-an-ai-powered-image-generation-api-service-with-flux-python-and-diffusers-2m3h)
+- [7 Ways AI Chatbots Can Improve Customer Experience](https://dev.to/someshtech/7-ways-ai-chatbots-can-improve-customer-experience-4gi5)
+- [Free Data Science Learning Resources: Your Gateway to Tech Mastery](https://dev.to/getvm/free-data-science-learning-resources-your-gateway-to-tech-mastery-2mha)
 <!-- BLOG-POST-LIST:END -->
 
 ---
