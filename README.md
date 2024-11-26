@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What is Reddit karma and why does it matter?](https://dev.to/notomarsol/what-is-reddit-karma-and-why-does-it-matter-130b)
-- [I Built a Chrome Extension to Bring Back the Google Maps Tab](https://dev.to/builtbylukas/i-built-a-chrome-extension-to-bring-back-the-google-maps-tab-3d4h)
-- [High-Performance Block Volumes in Virtual Cloud Environments: Parallel File Systems Comparison](https://dev.to/pltnvs/high-performance-block-volumes-in-virtual-cloud-environments-parallel-file-systems-comparison-1m4d)
-- [¿Qué es Amazon EC2? Lanzamiento de tu primera instancia](https://dev.to/briansuarezsantiago/que-es-amazon-ec2-lanzamiento-de-tu-primera-instancia-48b3)
-- [Debugging SSH connections: A Comprehensive Guide](https://dev.to/eugene-zimin/debugging-ssh-connections-a-comprehensive-guide-1hoc)
+- [My React Journey: Day 7](https://dev.to/ayoola_damilare_212d5bde0/my-react-journey-day-7-336j)
+- [Using gVisor&#39;s container runtime in Docker Desktop](https://dev.to/rimelek/using-gvisors-container-runtime-in-docker-desktop-374m)
+- [Fundamentos da Segurança em Aplicações Web](https://dev.to/ruitrigo_dev/fundamentos-da-seguranca-em-aplicacoes-web-1783)
+- [OKX DEX API Essentials: Single and Cross-Chain Swaps on Avalanche C-Chain](https://dev.to/j_dev28/okx-dex-api-essentials-single-and-cross-chain-swaps-on-avalanche-c-chain-513j)
+- [The Decorator Pattern: A Ruby On Rails approach for data presentation logic](https://dev.to/hiqueca/the-decorator-pattern-a-ruby-on-rails-approach-for-data-presentation-logic-528b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
