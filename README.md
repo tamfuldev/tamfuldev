@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why angular is the best choice for e-commerce development in 2024](https://dev.to/elixenttech/why-angular-is-the-best-choice-for-e-commerce-development-in-2024-37bk)
-- [Importance Of Java For Software Development &amp; Its Applications](https://dev.to/parthspan/importance-of-java-for-software-development-its-applications-4h7c)
-- [Sortie de TypeScript 5.7 RC, nouvelle alternative à npm, avenir des frameworks JavaScript - Cette semaine en JS](https://dev.to/guillaumesere/sortie-de-typescript-57-rc-nouvelle-alternative-a-npm-avenir-des-frameworks-javascript-cette-2of5)
-- [Setting Up Local Solana Environment](https://dev.to/realacjoshua/setting-up-local-solana-environment-2koa)
-- [How to Use Codecov: Track Test Coverage with GitHub Actions in Your CI Pipeline &lpar;Step-by-Step Guide&rpar;](https://dev.to/1shubham7/how-to-use-codecov-track-test-coverage-with-github-actions-in-your-ci-pipeline-step-by-step-guide-2gck)
+- [Configure GitHub for Dev.to Publishing](https://dev.to/jajera/configure-github-for-devto-publishing-cb7)
+- [Getting Started with GitHub Actions: A Beginner&#39;s Guide to Automation](https://dev.to/jajera/getting-started-with-github-actions-a-beginners-guide-to-automation-3kji)
+- [SUBSTR function in Oracle](https://dev.to/mrcaption49/substr-function-in-oracle-523p)
+- [Mastering Salesforce: 25 Interview Questions from Zero to Hero](https://dev.to/veronicajoseph/mastering-salesforce-100-interview-questions-from-zero-to-hero-4kbd)
+- [2924. Find Champion II](https://dev.to/mdarifulhaque/2924-find-champion-ii-lbb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
