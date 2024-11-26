@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Linux is Essential for DevOps: Lessons from My Learning Journy](https://dev.to/ayush_rathor_9c34afd630ec/why-linux-is-essential-for-devops-lessons-from-my-learning-journy-20ep)
-- [We Fixed Stack Overflow](https://dev.to/alex_the_dev/we-fixed-stack-overflow-3jk3)
-- [Dragonfly Cloud: Now Available in AWS Marketplace](https://dev.to/dragonflydbio/dragonfly-cloud-now-available-in-aws-marketplace-2o8h)
-- [Variable in JavaScript](https://dev.to/ibiyemi_convenat_f126bfb4/variable-in-javascript-2ilo)
-- [Building a Student Acceptance Prediction App with Streamlit](https://dev.to/ayas_tech_2b0560ee159e661/building-a-student-acceptance-prediction-app-with-streamlit-5eo4)
+- [Visual Studio and MSBuild](https://dev.to/junissen9/visual-studio-and-msbuild-3ijl)
+- [AWS CloudFront vs S3 Cross-Region Replication](https://dev.to/megha_shivhare_5038dc1047/aws-cloudfront-vs-s3-cross-region-replication-o0f)
+- [Share your project and get a feedback from others](https://dev.to/vbakhteev/share-your-project-and-get-a-feedback-from-others-ja3)
+- [Front End Debugging Part 2: Console.log&lpar;&rpar; to the Max](https://dev.to/codenameone/front-end-debugging-part-2-consolelog-to-the-max-5704)
+- [How I Accidentally &quot;Hijacked&quot; an npm Package 🚨](https://dev.to/aurimarl/how-i-accidentally-hijacked-an-npm-package-198e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
