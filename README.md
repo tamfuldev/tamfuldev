@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A instrução synchronized](https://dev.to/javagirlsjug/a-instrucao-synchronized-48f8)
-- [Discovered - currently not indexed](https://dev.to/ayybbbt/discovered-currently-not-indexed-18o0)
-- [Crafting a Futuristic Interactive Folder Section with Advanced Animations 🚀](https://dev.to/gladiatorsbattle/crafting-a-futuristic-interactive-folder-section-with-advanced-animations-1c17)
-- [Start of a new journey!](https://dev.to/jason_b0816/start-of-a-new-journey-13f1)
-- [Welcome](https://dev.to/jfelipegarcia/welcome-5ff6)
+- [How AI is Transforming Construction Sites and Revolutionizing Waste Management](https://dev.to/josef_doctorovitz_ww/how-ai-is-transforming-construction-sites-and-revolutionizing-waste-management-1834)
+- [Introduce CLI ID generator](https://dev.to/ss49919201/introduce-cli-id-generator-3fb5)
+- [Release 0.4 Planning](https://dev.to/aamfahim/release-04-planning-15nh)
+- [Optimizing Your Amazon Web Services Email Address: A Comprehensive Guide](https://dev.to/billgist/optimizing-your-amazon-web-services-email-address-a-comprehensive-guide-802)
+- [Sometimes I feel that my English holds me back - Ask the expert](https://dev.to/vinbrun/sometimes-i-feel-that-my-english-holds-me-back-ask-the-expert-1k1e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
