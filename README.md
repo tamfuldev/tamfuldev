@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Design a Roman Column using 3D CAD Software](https://dev.to/julia970/how-to-design-a-roman-column-using-3d-cad-software-2bo4)
-- [Can We Use an OpenSSL Provider in an Electron App for Code Sign on Windows? If Yes, How Can We Implement It?](https://dev.to/nileshmaniya/can-we-use-an-openssl-provider-in-an-electron-app-for-code-sign-on-windows-if-yes-how-can-we-12hk)
-- [What are S3 storage classes in AWS?](https://dev.to/codegreen/what-are-s3-storage-classes-in-aws-402f)
-- [#002: What am I building?](https://dev.to/sukoshizutsu/002-what-am-i-building-41p6)
-- [How to Learn Programming Effectively: My Approach](https://dev.to/alexroor4/how-to-learn-programming-effectively-my-approach-4gj)
+- [How to Build Low-latency AI Video Avatars for Real-time Interactions](https://dev.to/simli_ai/how-to-build-low-latency-ai-video-avatars-for-real-time-interactions-5a7)
+- [DataStage Tutorial for Beginners](https://dev.to/itechburner/datastage-tutorial-for-beginners-3768)
+- [Real-World .NET and EF Solutions: Simplifying Multitenancy and Soft Delete with Global Query Filters](https://dev.to/javid_gahramanov/exploring-aspnet-core-ef-core-global-query-filters-multitenancy-and-soft-delete-made-simple-5950)
+- [JavaScript Unleashed: Free Learning Resources for Modern Web Development](https://dev.to/getvm/javascript-unleashed-free-learning-resources-for-modern-web-development-1bia)
+- [A Quick and Dirty Intro to Web Accessibility](https://dev.to/amiangie/a-quick-and-dirty-intro-to-web-accessibility-5g05)
 <!-- BLOG-POST-LIST:END -->
 
 ---
