@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Reactive Programming with JavaScript but Beyond the Basics](https://dev.to/shafayeat/reactive-programming-with-javascript-but-beyond-the-basics-4il1)
-- [Solving eventual consistency in frontend](https://dev.to/logrocket/solving-eventual-consistency-in-frontend-3dgl)
-- [Cloud Migration: 5 Common Challenges and Solutions](https://dev.to/aws-builders/cloud-migration-5-common-challenges-and-solutions-3ij0)
-- [What is your BEST playlist music for work? 🎶](https://dev.to/thomasbnt/what-is-your-best-playlist-music-for-work-1olb)
-- [Day 11 - Looping exercises](https://dev.to/lakshmi_prithanadesan_32/day-11-looping-exercises-3139)
+- [Looking forward to this one!](https://dev.to/ben/looking-forward-to-this-one-22lb)
+- [Migrating Azure Function Calls to Minimal API with FastEndpoints](https://dev.to/eelcolos/migrating-azure-function-calls-to-minimal-api-with-fastendpoints-1c1d)
+- [🚀 Java: Versatile and Platform-Independent Language](https://dev.to/aniruddhaadak/java-versatile-and-platform-independent-language-47fo)
+- [Don’t rush aimlessly but keep faith if it’s something you trust and work in making it work](https://dev.to/abdibrokhim/dont-rush-aimlessly-but-keep-faith-if-its-something-you-trust-and-work-in-making-it-work-5781)
+- [🐜 Since CSS has changed the logo, it&#39;s time for HMPL to change the logo too!](https://dev.to/hmpljs/since-css-has-changed-the-logo-its-time-for-hmpl-to-change-the-logo-too-80k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
