@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Looking forward to this one!](https://dev.to/ben/looking-forward-to-this-one-22lb)
-- [Migrating Azure Function Calls to Minimal API with FastEndpoints](https://dev.to/eelcolos/migrating-azure-function-calls-to-minimal-api-with-fastendpoints-1c1d)
-- [🚀 Java: Versatile and Platform-Independent Language](https://dev.to/aniruddhaadak/java-versatile-and-platform-independent-language-47fo)
-- [Don’t rush aimlessly but keep faith if it’s something you trust and work in making it work](https://dev.to/abdibrokhim/dont-rush-aimlessly-but-keep-faith-if-its-something-you-trust-and-work-in-making-it-work-5781)
-- [🐜 Since CSS has changed the logo, it&#39;s time for HMPL to change the logo too!](https://dev.to/hmpljs/since-css-has-changed-the-logo-its-time-for-hmpl-to-change-the-logo-too-80k)
+- [I absolutely love when CSS gets new features &lpar;Even though it usually takes me years to remember to use them 😄&rpar;](https://dev.to/ben/i-absolutely-love-when-css-gets-new-features-even-though-it-usually-takes-me-years-to-remember-to-11po)
+- [Have you ever built your own browser extension? What kind of problems did you have and which functionalities were handy for you? Share your opinion or tips in comments! Let’s help each other to build better extensions!](https://dev.to/mukhilpadmanabhan/have-you-ever-built-your-own-browser-extension-what-kind-of-problems-did-you-have-and-which-2kep)
+- [AWS CloudWatch Logging and Live Tail using AWS CLI!](https://dev.to/bhatiagirish/aws-cloudwatch-logging-and-live-tail-using-aws-cli-5h4e)
+- [Basic Understanding of AWS Cloud Adoption Framework-&lpar;CAF&rpar;](https://dev.to/borhanitrash/basic-understanding-of-aws-cloud-adoption-framework-caf-cp5)
+- [November 25 XRPL Bug: Current Status and What’s Next](https://dev.to/ripplexdev/november-25-xrpl-bug-current-status-and-whats-next-b61)
 <!-- BLOG-POST-LIST:END -->
 
 ---
