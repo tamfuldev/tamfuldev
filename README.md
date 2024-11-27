@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Low-latency AI Video Avatars for Real-time Interactions](https://dev.to/simli_ai/how-to-build-low-latency-ai-video-avatars-for-real-time-interactions-5a7)
-- [DataStage Tutorial for Beginners](https://dev.to/itechburner/datastage-tutorial-for-beginners-3768)
-- [Real-World .NET and EF Solutions: Simplifying Multitenancy and Soft Delete with Global Query Filters](https://dev.to/javid_gahramanov/exploring-aspnet-core-ef-core-global-query-filters-multitenancy-and-soft-delete-made-simple-5950)
-- [JavaScript Unleashed: Free Learning Resources for Modern Web Development](https://dev.to/getvm/javascript-unleashed-free-learning-resources-for-modern-web-development-1bia)
-- [A Quick and Dirty Intro to Web Accessibility](https://dev.to/amiangie/a-quick-and-dirty-intro-to-web-accessibility-5g05)
+- [How to implement drag and drop in React using dnd-kit](https://dev.to/arshadayvid/how-to-implement-drag-and-drop-in-react-using-dnd-kit-204h)
+- [Should You Learn Blockchain Development? A Comprehensive Analysis with Facts and Figures](https://dev.to/dependra/should-you-learn-blockchain-development-a-comprehensive-analysis-with-facts-and-figures-2338)
+- [Unlock the Power of Custom Formatting in Go: A Deep Dive into the Formatter Interface](https://dev.to/architagr/unlock-the-power-of-custom-formatting-in-go-a-deep-dive-into-the-formatter-interface-32h9)
+- [Covariance and Contravariance in C#: Real-World Scenarios Explained](https://dev.to/moh_moh701/covariance-and-contravariance-in-c-real-world-scenarios-explained-435d)
+- [Blockchain Development Over the Last 5 Years: Trends, Growth, and Insights](https://dev.to/dependra/blockchain-development-over-the-last-5-years-trends-growth-and-insights-565b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
