@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Angular 19: A Strong Challenger to React.js](https://dev.to/dev007777/angular-19-a-strong-challenger-to-reactjs-36if)
-- [YOU GOT A CHALLENGE..](https://dev.to/mince/you-got-a-challenge-4kb7)
-- [The death of useEffect and the dynamic derivations role in it](https://dev.to/felipegs/the-death-of-useeffect-and-the-dynamic-derivations-role-in-it-325g)
-- [Effective Strategies for Application Monitoring in AWS](https://dev.to/billgist/effective-strategies-for-application-monitoring-in-aws-4om7)
-- [Building a Library to Sync TanStack Table State with URL Parameters](https://dev.to/taro/building-a-library-to-sync-tanstack-table-state-with-url-parameters-1d0h)
+- [Cloud Security with AWS IAM](https://dev.to/timileyin/cloud-security-with-aws-iam-3do6)
+- [Securing Your Fullstack App: Authentication &amp; Authorization with JWT in Next.js and Node 🔒 🚀](https://dev.to/rodolphedupuis/securing-your-fullstack-app-authentication-authorization-with-jwt-in-nextjs-and-node-4e0o)
+- [Move Data from Hana to PostgreSQL Fast and Easily](https://dev.to/bladepipe/move-data-from-hana-to-postgresql-fast-and-easily-4hgo)
+- [🚀 Building a CRM in PHP &amp; MySQL: My Final Year Project Journey 🎓](https://dev.to/anticoder03/building-a-crm-in-php-mysql-my-final-year-project-journey-1lga)
+- [How to fix &quot;ADB server didn&#39;t ACK&quot; error on MacOS Sequoia](https://dev.to/retyui/how-to-fix-adb-server-didnt-ack-error-on-macos-sequoia-mka)
 <!-- BLOG-POST-LIST:END -->
 
 ---
