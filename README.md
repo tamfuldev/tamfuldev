@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Cloud Security with AWS IAM](https://dev.to/timileyin/cloud-security-with-aws-iam-3do6)
-- [Securing Your Fullstack App: Authentication &amp; Authorization with JWT in Next.js and Node 🔒 🚀](https://dev.to/rodolphedupuis/securing-your-fullstack-app-authentication-authorization-with-jwt-in-nextjs-and-node-4e0o)
-- [Move Data from Hana to PostgreSQL Fast and Easily](https://dev.to/bladepipe/move-data-from-hana-to-postgresql-fast-and-easily-4hgo)
-- [🚀 Building a CRM in PHP &amp; MySQL: My Final Year Project Journey 🎓](https://dev.to/anticoder03/building-a-crm-in-php-mysql-my-final-year-project-journey-1lga)
-- [How to fix &quot;ADB server didn&#39;t ACK&quot; error on MacOS Sequoia](https://dev.to/retyui/how-to-fix-adb-server-didnt-ack-error-on-macos-sequoia-mka)
+- [Ajax: Revolutionizing Web Interaction - A Comprehensive Guide](https://dev.to/nozibul_islam_113b1d5334f/ajax-revolutionizing-web-interaction-a-comprehensive-guide-4am3)
+- [Blockchain Technology and Cryptocurrency](https://dev.to/iskender83/blockchain-technology-and-cryptocurrency-4c5h)
+- [Artificial Intelligence and Machine Learning](https://dev.to/iskender83/artificial-intelligence-and-machine-learning-3jc7)
+- [Vercel v0: Harnessing AI for Faster, Smarter UI Creation](https://dev.to/philip_zhang_854092d88473/vercel-v0-harnessing-ai-for-faster-smarter-ui-creation-11k3)
+- [Set Up PHP 8 Environment Using Docker with a Custom Dockerfile](https://dev.to/skipperhoa/set-up-php-8-environment-using-docker-with-a-custom-dockerfile-4ma2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
