@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Learn how to create a ribbon for a pricing card with Tailwind CSS](https://dev.to/mike_andreuzza/learn-how-to-create-a-ribbon-for-a-pricing-card-with-tailwind-css-5d9g)
-- [How CodeMirror v6 dev setup installs packages without a monorepo](https://dev.to/thinkthroo/how-codemirror-v6-dev-setup-installs-packages-without-a-monorepo-1048)
-- [🚀 Automating OTP Login with a JavaScript Browser Extension](https://dev.to/shahrushil09/automating-otp-login-with-a-javascript-browser-extension-2b03)
-- [Get Started with Docker: How to Install Docker on Ubuntu 22.04](https://dev.to/nodeshiftcloud/get-started-with-docker-how-to-install-docker-on-ubuntu-2204-450j)
-- [Spring Bean Scopes Cheat Sheet](https://dev.to/codegreen/spring-bean-scopes-cheat-sheet-4pko)
+- [How to Design a Roman Column using 3D CAD Software](https://dev.to/julia970/how-to-design-a-roman-column-using-3d-cad-software-2bo4)
+- [Can We Use an OpenSSL Provider in an Electron App for Code Sign on Windows? If Yes, How Can We Implement It?](https://dev.to/nileshmaniya/can-we-use-an-openssl-provider-in-an-electron-app-for-code-sign-on-windows-if-yes-how-can-we-12hk)
+- [What are S3 storage classes in AWS?](https://dev.to/codegreen/what-are-s3-storage-classes-in-aws-402f)
+- [#002: What am I building?](https://dev.to/sukoshizutsu/002-what-am-i-building-41p6)
+- [How to Learn Programming Effectively: My Approach](https://dev.to/alexroor4/how-to-learn-programming-effectively-my-approach-4gj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
