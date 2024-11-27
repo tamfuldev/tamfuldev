@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v304](https://dev.to/devteam/welcome-thread-v305-57bl)
-- [Rethinking interfaces in Flutter projects](https://dev.to/kelvinwieth/rethinking-interfaces-in-flutter-projects-3fp9)
-- [Collections in Salesforce Apex](https://dev.to/jamie4190/collections-in-salesforce-apex-a81)
-- [How Java Development Services Ensure Scalability and Performance in Modern Applications](https://dev.to/adityabhuyan/how-java-development-services-ensure-scalability-and-performance-in-modern-applications-3gn)
-- [✨ Transform Your Images with a 3D Bend &amp; Reveal Effect! ✨](https://dev.to/prince_beec5ccde00b7c6c73/transform-your-images-with-a-3d-bend-reveal-effect-28co)
+- [SQL: Multi field mixed deduplication followed by numbering #eg81](https://dev.to/esproc_spl/sql-multi-field-mixed-deduplication-followed-by-numbering-eg81-2ai0)
+- [How to Remove Background of an Image in Paint App in Windows 11?](https://dev.to/win11verse/how-to-remove-background-of-an-image-in-paint-app-in-windows-11-32n2)
+- [¿Qué es un bloque static en Java?](https://dev.to/asjordi/que-es-un-bloque-static-en-java-539k)
+- [Overcoming Monorepo Challenges to Enhance Performance and Productivity](https://dev.to/shieldstring/overcoming-monorepo-challenges-to-enhance-performance-and-productivity-26dd)
+- [The Best Tools to Make a Logo with Your Own Picture 2024](https://dev.to/elizabethlipa/the-best-tools-to-make-a-logo-with-your-own-picture-2024-26ji)
 <!-- BLOG-POST-LIST:END -->
 
 ---
