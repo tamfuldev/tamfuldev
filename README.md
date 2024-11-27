@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Freelancing vs. Traditional Jobs: Which Path is Right for You?](https://dev.to/pangaea_x/freelancing-vs-traditional-jobs-which-path-is-right-for-you-22la)
-- [GISBox terrain tiling: efficient processing and display of large terrain data](https://dev.to/austin6799/gisbox-terrain-tiling-efficient-processing-and-display-of-large-terrain-data-2hh6)
-- [NDC API vs Traditional GDS: Revolutionizing Travel Distribution](https://dev.to/certified_developers/ndc-api-vs-traditional-gds-revolutionizing-travel-distribution-4gah)
-- [Run Ollama on Intel Arc GPU &lpar;IPEX&rpar;](https://dev.to/itlackey/run-ollama-on-intel-arc-gpu-ipex-4e4k)
-- [The 3 most exciting things in the universe you probably didn’t know about](https://dev.to/theentrepreneurialchronicles/the-3-most-exciting-things-in-the-universe-you-probably-didnt-know-about-31a)
+- [Learn how to create a ribbon for a pricing card with Tailwind CSS](https://dev.to/mike_andreuzza/learn-how-to-create-a-ribbon-for-a-pricing-card-with-tailwind-css-5d9g)
+- [How CodeMirror v6 dev setup installs packages without a monorepo](https://dev.to/thinkthroo/how-codemirror-v6-dev-setup-installs-packages-without-a-monorepo-1048)
+- [🚀 Automating OTP Login with a JavaScript Browser Extension](https://dev.to/shahrushil09/automating-otp-login-with-a-javascript-browser-extension-2b03)
+- [Get Started with Docker: How to Install Docker on Ubuntu 22.04](https://dev.to/nodeshiftcloud/get-started-with-docker-how-to-install-docker-on-ubuntu-2204-450j)
+- [Spring Bean Scopes Cheat Sheet](https://dev.to/codegreen/spring-bean-scopes-cheat-sheet-4pko)
 <!-- BLOG-POST-LIST:END -->
 
 ---
