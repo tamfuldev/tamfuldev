@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ajax: Revolutionizing Web Interaction - A Comprehensive Guide](https://dev.to/nozibul_islam_113b1d5334f/ajax-revolutionizing-web-interaction-a-comprehensive-guide-4am3)
-- [Blockchain Technology and Cryptocurrency](https://dev.to/iskender83/blockchain-technology-and-cryptocurrency-4c5h)
-- [Artificial Intelligence and Machine Learning](https://dev.to/iskender83/artificial-intelligence-and-machine-learning-3jc7)
-- [Vercel v0: Harnessing AI for Faster, Smarter UI Creation](https://dev.to/philip_zhang_854092d88473/vercel-v0-harnessing-ai-for-faster-smarter-ui-creation-11k3)
-- [Set Up PHP 8 Environment Using Docker with a Custom Dockerfile](https://dev.to/skipperhoa/set-up-php-8-environment-using-docker-with-a-custom-dockerfile-4ma2)
+- [Hiding Notifications in Foreground and Triggering Them in Background or Killed States using notifee](https://dev.to/amitkumar13/hiding-notifications-in-foreground-and-triggering-them-in-background-or-killed-states-using-notifee-mjc)
+- [Understanding Higher-Order Components &lpar;HOCs&rpar; in React Native with a Custom Modal Example](https://dev.to/amitkumar13/understanding-higher-order-components-hocs-in-react-native-with-a-custom-modal-example-7mj)
+- [How to Implement Voice-to-Text in React Native](https://dev.to/amitkumar13/how-to-implement-voice-to-text-in-react-native-3j0d)
+- [Mastering Test Cases for React Native MMKV Library: A Comprehensive Guide](https://dev.to/amitkumar13/mastering-test-cases-for-react-native-mmkv-library-a-comprehensive-guide-4l5c)
+- [Enhance React Native Security and Performance: with MMKV Storage](https://dev.to/amitkumar13/enhance-react-native-security-and-performance-with-mmkv-storage-1p86)
 <!-- BLOG-POST-LIST:END -->
 
 ---
