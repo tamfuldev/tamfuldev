@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [HarmonyOS Next Permission Application Advanced: Secrets of Restricted Open Permissions and ACL Application](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-permission-application-advanced-secrets-of-restricted-open-permissions-and-acl-51j4)
-- [Mastering Authentication with Firebase and React.js: Anonymous, Registration, and Login Made Easy in Gladiators Battle](https://dev.to/gladiatorsbattle/mastering-authentication-with-firebase-and-reactjs-anonymous-registration-and-login-made-easy-32il)
-- [WebDriverIO Tutorial For Selenium Automation - A Complete Guide](https://dev.to/grjoeay/webdriverio-tutorial-for-selenium-automation-a-complete-guide-3ff6)
-- [鸿蒙Next权限申请进阶：受限开放权限与ACL申请秘籍](https://dev.to/xun_wang_6384a403f9817c2/hong-meng-nextquan-xian-shen-qing-jin-jie-shou-xian-kai-fang-quan-xian-yu-aclshen-qing-mi-ji-5fp0)
-- [HarmonyOS Next Permission Application Complete Guide: The Way of System Authorization and User Authorization](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-permission-application-complete-guide-the-way-of-system-authorization-and-user-3g9n)
+- [#105 — Filter by the Number of Duplicates](https://dev.to/judith677/105-filter-by-the-number-of-duplicates-1ao5)
+- [Easy Animation with Alpine.js](https://dev.to/fitehal/easy-animation-with-alpinejs-1gi4)
+- [Common Challenges Faced by a Land Surveyor in Dhaka and How They’re Solved](https://dev.to/billy_ajoiner_12bf2897be/common-challenges-faced-by-a-land-surveyor-in-dhaka-and-how-theyre-solved-2acd)
+- [A Final Challenge: The Planning Phase](https://dev.to/cleobnvntra/a-final-challenge-the-planning-phase-2p10)
+- [Android Studio 에서 Compose 의 Preview 가 남긴 로그 보기](https://dev.to/kingori/android-studio-eseo-compose-yi-preview-ga-namgin-rogeu-bogi-18jp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
