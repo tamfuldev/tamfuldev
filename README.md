@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My React Journey: Day 7](https://dev.to/ayoola_damilare_212d5bde0/my-react-journey-day-7-336j)
-- [Using gVisor&#39;s container runtime in Docker Desktop](https://dev.to/rimelek/using-gvisors-container-runtime-in-docker-desktop-374m)
-- [Fundamentos da Segurança em Aplicações Web](https://dev.to/ruitrigo_dev/fundamentos-da-seguranca-em-aplicacoes-web-1783)
-- [OKX DEX API Essentials: Single and Cross-Chain Swaps on Avalanche C-Chain](https://dev.to/j_dev28/okx-dex-api-essentials-single-and-cross-chain-swaps-on-avalanche-c-chain-513j)
-- [The Decorator Pattern: A Ruby On Rails approach for data presentation logic](https://dev.to/hiqueca/the-decorator-pattern-a-ruby-on-rails-approach-for-data-presentation-logic-528b)
+- [Understanding How Spaces Are Encoded: %20 with encodeURI vs. + with URL](https://dev.to/lico/understanding-how-spaces-are-encoded-20-with-encodeuri-vs-with-url-2d6c)
+- [What is the difference between Bash shells and the Bash Script?](https://dev.to/sumisastri/what-is-the-difference-between-bash-shells-and-the-bash-script-37ab)
+- [OAuth2, JWT, and JWKS: Using Amazon Cognito as IDP](https://dev.to/byteterrier/oauth2-jwt-and-jwks-using-amazon-cognito-as-idp-1jod)
+- [Malware Understanding for Beginners: A Comprehensive Guide](https://dev.to/proniyacademy/malware-understanding-for-beginners-a-comprehensive-guide-18k7)
+- [Computers and computing in the mid-20th century](https://dev.to/sumisastri/computers-and-computing-in-the-mid-20th-century-op3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
