@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I changed the logo for the js project. What do you think? It’s 🔥?](https://dev.to/hmpljs/i-changed-the-logo-for-the-js-project-what-do-you-think-79e)
-- [Is It Necessary to Use a Specialized In-Memory Database?](https://dev.to/esproc_spl/is-it-necessary-to-use-a-specialized-in-memory-database-3nhj)
-- [How to Simplify Your AI Development Process using Docker AI Catalog](https://dev.to/ajeetraina/how-to-simplify-your-ai-development-process-using-docker-ai-catalog-1ii9)
-- [Cloud Compliance Frameworks: SOC 2, ISO 27001](https://dev.to/iskender83/cloud-compliance-frameworks-soc-2-iso-27001-3boo)
-- [Who Owns Creativity? The AI Art Debate](https://dev.to/jonaslee/who-owns-creativity-the-ai-art-debate-11g9)
+- [SQL Interview Prep for MySQL: Key Questions to Know](https://dev.to/dbvismarketing/sql-interview-prep-for-mysql-key-questions-to-know-11pn)
+- [Internet of Things &lpar;IoT&rpar; Security Strategies](https://dev.to/iskender83/internet-of-things-iot-security-strategies-4824)
+- [Lesson 4: &quot;Integrating Mattermost with Development Tools: A Practical Guide&quot;](https://dev.to/mandala/lesson-4-integrating-mattermost-with-development-tools-a-practical-guide-3hp4)
+- [Comprehensive Guide to Data Observability Tools in 2024](https://dev.to/first_eigen/comprehensive-guide-to-data-observability-tools-in-2024-2j10)
+- [Cloud Data Backup and Disaster Recovery Solutions](https://dev.to/iskender83/cloud-data-backup-and-disaster-recovery-solutions-4oel)
 <!-- BLOG-POST-LIST:END -->
 
 ---
