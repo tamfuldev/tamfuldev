@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Django Regular Expressions](https://dev.to/michael__/understanding-django-regular-expressions-5d6o)
-- [Behind the Scenes of Gladiators Battle: Building a Browser-Based Gladiator RPG with React and Firebase](https://dev.to/gladiatorsbattle/behind-the-scenes-of-gladiators-battle-building-a-browser-based-gladiator-rpg-with-react-and-49h7)
-- [Python C/C++ binding](https://dev.to/patfinder/python-cc-binding-59l6)
-- [Set Default Values in Laravel with mergeIfMissing: Real-Life Examples](https://dev.to/homezonic/set-default-values-in-laravel-with-mergeifmissing-real-life-examples-54ma)
-- [Running Your First Solana Project with Anchor](https://dev.to/realacjoshua/running-your-first-solana-project-with-anchor-3ion)
+- [Local RAG in Microsoft Word: using AnythingLLM + LM Studio](https://dev.to/gptlocalhost/local-rag-in-microsoft-word-using-anythingllm-lm-studio-1kb4)
+- [A local alternative to Microsoft Copilot in Word](https://dev.to/gptlocalhost/a-local-alternative-to-microsoft-copilot-in-word-2o9a)
+- [[BD] História 3: Lory e a Desnormalização no Sistema de E-commerce](https://dev.to/flaviolzsantos/historia-3-lory-e-a-desnormalizacao-no-sistema-de-e-commerce-18jc)
+- [Secure Your Nuxt 3 App](https://dev.to/devdavexoyinbo/secure-your-nuxt-3-app-56j4)
+- [Introducción a Amazon S3: Crear y gestionar tu primer bucket](https://dev.to/briansuarezsantiago/introduccion-a-amazon-s3-crear-y-gestionar-tu-primer-bucket-27lp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
