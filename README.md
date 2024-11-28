@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SQL Interview Prep for MySQL: Key Questions to Know](https://dev.to/dbvismarketing/sql-interview-prep-for-mysql-key-questions-to-know-11pn)
-- [Internet of Things &lpar;IoT&rpar; Security Strategies](https://dev.to/iskender83/internet-of-things-iot-security-strategies-4824)
-- [Lesson 4: &quot;Integrating Mattermost with Development Tools: A Practical Guide&quot;](https://dev.to/mandala/lesson-4-integrating-mattermost-with-development-tools-a-practical-guide-3hp4)
-- [Comprehensive Guide to Data Observability Tools in 2024](https://dev.to/first_eigen/comprehensive-guide-to-data-observability-tools-in-2024-2j10)
-- [Cloud Data Backup and Disaster Recovery Solutions](https://dev.to/iskender83/cloud-data-backup-and-disaster-recovery-solutions-4oel)
+- [Why Home Assistant?](https://dev.to/nfrankel/why-home-assistant-f94)
+- [How to Change or Reset Account Lockout Counter After Time in Windows 11?](https://dev.to/win11verse/how-to-change-or-reset-account-lockout-counter-after-time-in-windows-11-3bm9)
+- [How to build type-enforced UI components in React Native using @shopify/restyle](https://dev.to/iliashaddad3/how-to-build-type-enforced-ui-components-in-react-native-using-shopifyrestyle-49j2)
+- [From Einstein Bots to AgentForce: My Journey Building the Future of AI-Powered Customer Service](https://dev.to/priyanka_singh_a67381061f/from-einstein-bots-to-agentforce-my-journey-building-the-future-of-ai-powered-customer-service-481k)
+- [Automated Cloud Configuration Management for Security](https://dev.to/iskender83/automated-cloud-configuration-management-for-security-4j54)
 <!-- BLOG-POST-LIST:END -->
 
 ---
