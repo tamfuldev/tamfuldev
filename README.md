@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating WebDataRocks and CanvasJS for Interactive Data Visualization](https://dev.to/ananya_deka/integrating-webdatarocks-and-canvasjs-for-interactive-data-visualization-4kbi)
-- [Angular 19 chegou: tudo o que você precisa saber!](https://dev.to/manualdofront/angular-19-chegou-tudo-o-que-voce-precisa-saber-i0k)
-- [Security in Agile Development](https://dev.to/iskender83/security-in-agile-development-4om5)
-- [Evolving Financial Technologies: Insights from FTT Fintech Festival 2024](https://dev.to/kaankaya/evolving-financial-technologies-insights-from-ftt-fintech-festival-2024-eo1)
-- [DSPy: A New Approach to Language Model Programming](https://dev.to/gabrielvanderlei/dspy-a-new-approach-to-language-model-programming-10lf)
+- [The Risks of DNS Caching: Stale Data and Security Threats⚠️💻🔒](https://dev.to/hexadecimalsoftware/the-risks-of-dns-caching-stale-data-and-security-threats-158h)
+- [5 Next.js Project Ideas with code samples](https://dev.to/niko-gus/5-nextjs-project-ideas-with-code-samples-1m6o)
+- [How to Increase the Scrollback Buffer in VSCode Terminal](https://dev.to/jajera/how-to-increase-the-scrollback-buffer-in-vscode-terminal-5aao)
+- [Why Choose Next.js for Order Management System](https://dev.to/pagepro_agency/why-choose-nextjs-for-order-management-system-3l4i)
+- [Feature-Based React Components](https://dev.to/devsk001/feature-based-react-components-3l43)
 <!-- BLOG-POST-LIST:END -->
 
 ---
