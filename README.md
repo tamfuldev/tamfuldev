@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [🔥 Practical Concurrent Control for Node.js Servers: Keep Your Server from Being Overwhelmed by Traffic!](https://dev.to/evle/practical-concurrent-control-for-nodejs-servers-keep-your-server-from-being-overwhelmed-by-2kgf)
+- [URL Shortener in Go](https://dev.to/jordan_t/url-shortener-in-go-3d8l)
 - [New Tab Page Plugin vs Browser&#39;s Home Tab Page](https://dev.to/wowtabteam/new-tab-page-plugin-vs-browsers-home-tab-page-apf)
 - [Using OpenTelemetry with gRPC in Node.js and Express Hybrid Applications](https://dev.to/devvemeka/using-opentelemetry-with-grpc-in-nodejs-and-express-hybrid-applications-4ibe)
-- [Testing the new reshare feature with Quickie Posts! Obviously, I&#39;m being a little bit selfish by reposting myself, but oh well. I&#39;ll find someone else to repost next. 🤭](https://dev.to/best_codes/testing-the-new-reshare-feature-with-quickie-posts-obviously-im-being-a-little-bit-selfish-by-476j)
-- [#106 — Delete Data that Can be Paired](https://dev.to/judith677/106-delete-data-that-can-be-paired-4pd6)
-- [Writing an AnythingLLM Custom Agent Skill to Trigger Make.com Webhooks](https://dev.to/drunnells/writing-an-anythingllm-custom-agent-skill-to-trigger-makecom-webhooks-1dn0)
+- [Improving Commit Message Quality in VSCode with Copilot](https://dev.to/foyzulkarim/improving-commit-message-quality-in-vscode-with-copilot-299p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
