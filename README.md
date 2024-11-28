@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Cost of Fitness App Development: A Comprehensive Guide](https://dev.to/evelynwyatt/the-cost-of-fitness-app-development-a-comprehensive-guide-43l6)
-- [Supercharge Your Node.js: WebAssembly&#39;s Game-Changing Performance Boost](https://dev.to/aaravjoshi/supercharge-your-nodejs-webassemblys-game-changing-performance-boost-1och)
-- [Blockchain for Secure Cloud-Based Digital Identity](https://dev.to/iskender83/blockchain-for-secure-cloud-based-digital-identity-45f)
-- [Asynchronous JavaScript - The Journey from Callbacks to Async Await](https://dev.to/juniourrau/asynchronous-javascript-the-journey-from-callbacks-to-async-await-eal)
-- [Securing Cloud-Based E-Commerce Platforms](https://dev.to/iskender83/securing-cloud-based-e-commerce-platforms-27m6)
+- [How to test Edge on macOS? &lpar;with Top Methods&rpar;](https://dev.to/sarahthomasdev/how-to-test-edge-on-macos-with-top-methods-42h7)
+- [How to Build Cost-Effective Full Stack Web Applications: 7 Key Strategies](https://dev.to/purvituvar/how-to-build-cost-effective-full-stack-web-applications-7-key-strategies-1g4d)
+- [AI-Powered Vulnerability Management Tools](https://dev.to/iskender83/ai-powered-vulnerability-management-tools-4a93)
+- [Embedded wallets: Web2 experience, Web3 security](https://dev.to/apillon/embedded-wallets-web2-experience-web3-security-2e4c)
+- [Rest Template vs Web Client in Spring Boot](https://dev.to/codegreen/rest-template-vs-web-client-in-spring-boot-56il)
 <!-- BLOG-POST-LIST:END -->
 
 ---
