@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Threat Intelligence Sharing in Multi-Cloud Environments](https://dev.to/iskender83/threat-intelligence-sharing-in-multi-cloud-environments-54ob)
-- [Securing Cloud-Based AI Model Training Data](https://dev.to/iskender83/securing-cloud-based-ai-model-training-data-4hjh)
-- [🚀](https://dev.to/nevodavid/-2b31)
-- [n-D arrays understanding with real life examples](https://dev.to/shri50/n-d-arrays-understanding-with-real-life-examples-5b5l)
-- [Privacy Risks in Cloud Data Storage](https://dev.to/iskender83/privacy-risks-in-cloud-data-storage-3m96)
+- [I changed the logo for the js project. What do you think? It’s 🔥?](https://dev.to/hmpljs/i-changed-the-logo-for-the-js-project-what-do-you-think-79e)
+- [Is It Necessary to Use a Specialized In-Memory Database?](https://dev.to/esproc_spl/is-it-necessary-to-use-a-specialized-in-memory-database-3nhj)
+- [How to Simplify Your AI Development Process using Docker AI Catalog](https://dev.to/ajeetraina/how-to-simplify-your-ai-development-process-using-docker-ai-catalog-1ii9)
+- [Cloud Compliance Frameworks: SOC 2, ISO 27001](https://dev.to/iskender83/cloud-compliance-frameworks-soc-2-iso-27001-3boo)
+- [Who Owns Creativity? The AI Art Debate](https://dev.to/jonaslee/who-owns-creativity-the-ai-art-debate-11g9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
