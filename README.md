@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Local RAG in Microsoft Word: using AnythingLLM + LM Studio](https://dev.to/gptlocalhost/local-rag-in-microsoft-word-using-anythingllm-lm-studio-1kb4)
-- [A local alternative to Microsoft Copilot in Word](https://dev.to/gptlocalhost/a-local-alternative-to-microsoft-copilot-in-word-2o9a)
-- [[BD] História 3: Lory e a Desnormalização no Sistema de E-commerce](https://dev.to/flaviolzsantos/historia-3-lory-e-a-desnormalizacao-no-sistema-de-e-commerce-18jc)
-- [Secure Your Nuxt 3 App](https://dev.to/devdavexoyinbo/secure-your-nuxt-3-app-56j4)
-- [Introducción a Amazon S3: Crear y gestionar tu primer bucket](https://dev.to/briansuarezsantiago/introduccion-a-amazon-s3-crear-y-gestionar-tu-primer-bucket-27lp)
+- [Wow](https://dev.to/ben/wow-249p)
+- [Why APIs Are the Unsung Heroes of App Development](https://dev.to/durante/why-apis-are-the-unsung-heroes-of-app-development-3gek)
+- [File Management in Bash : Commands and Examples](https://dev.to/imkrunalkanojiya/file-management-in-bash-commands-and-examples-5elm)
+- [HarmonyOS Next in Practice: Building an All-Purpose File Manager Application](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-in-practice-building-an-all-purpose-file-manager-application-5ei2)
+- [鸿蒙 Next 实战：打造全能文件管理器应用](https://dev.to/xun_wang_6384a403f9817c2/hong-meng-next-shi-zhan-da-zao-quan-neng-wen-jian-guan-li-qi-ying-yong-5h33)
 <!-- BLOG-POST-LIST:END -->
 
 ---
