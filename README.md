@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Wow](https://dev.to/ben/wow-249p)
-- [Why APIs Are the Unsung Heroes of App Development](https://dev.to/durante/why-apis-are-the-unsung-heroes-of-app-development-3gek)
-- [File Management in Bash : Commands and Examples](https://dev.to/imkrunalkanojiya/file-management-in-bash-commands-and-examples-5elm)
-- [HarmonyOS Next in Practice: Building an All-Purpose File Manager Application](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-in-practice-building-an-all-purpose-file-manager-application-5ei2)
-- [鸿蒙 Next 实战：打造全能文件管理器应用](https://dev.to/xun_wang_6384a403f9817c2/hong-meng-next-shi-zhan-da-zao-quan-neng-wen-jian-guan-li-qi-ying-yong-5h33)
+- [Testing the new reshare feature with Quickie Posts! Obviously, I&#39;m being a little bit selfish by reposting myself, but oh well. I&#39;ll find someone else to repost next. 🤭](https://dev.to/best_codes/testing-the-new-reshare-feature-with-quickie-posts-obviously-im-being-a-little-bit-selfish-by-476j)
+- [#106 — Delete Data that Can be Paired](https://dev.to/judith677/106-delete-data-that-can-be-paired-4pd6)
+- [Writing an AnythingLLM Custom Agent Skill to Trigger Make.com Webhooks](https://dev.to/drunnells/writing-an-anythingllm-custom-agent-skill-to-trigger-makecom-webhooks-1dn0)
+- [7 JavaScript One-Liners That Will Make You Look Like a Pro](https://dev.to/peboycodes/7-javascript-one-liners-that-will-make-you-look-like-a-pro-4cf7)
+- [how can data validation for form inputs be handled both in HTML and JavaScript and Why is it beneficial to use both!](https://dev.to/jfelipegarcia/how-can-data-validation-for-form-inputs-be-handled-both-in-html-and-javascript-and-why-is-it-564f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
