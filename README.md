@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to test Edge on macOS? &lpar;with Top Methods&rpar;](https://dev.to/sarahthomasdev/how-to-test-edge-on-macos-with-top-methods-42h7)
-- [How to Build Cost-Effective Full Stack Web Applications: 7 Key Strategies](https://dev.to/purvituvar/how-to-build-cost-effective-full-stack-web-applications-7-key-strategies-1g4d)
-- [AI-Powered Vulnerability Management Tools](https://dev.to/iskender83/ai-powered-vulnerability-management-tools-4a93)
-- [Embedded wallets: Web2 experience, Web3 security](https://dev.to/apillon/embedded-wallets-web2-experience-web3-security-2e4c)
-- [Rest Template vs Web Client in Spring Boot](https://dev.to/codegreen/rest-template-vs-web-client-in-spring-boot-56il)
+- [Integrating WebDataRocks and CanvasJS for Interactive Data Visualization](https://dev.to/ananya_deka/integrating-webdatarocks-and-canvasjs-for-interactive-data-visualization-4kbi)
+- [Angular 19 chegou: tudo o que você precisa saber!](https://dev.to/manualdofront/angular-19-chegou-tudo-o-que-voce-precisa-saber-i0k)
+- [Security in Agile Development](https://dev.to/iskender83/security-in-agile-development-4om5)
+- [Evolving Financial Technologies: Insights from FTT Fintech Festival 2024](https://dev.to/kaankaya/evolving-financial-technologies-insights-from-ftt-fintech-festival-2024-eo1)
+- [DSPy: A New Approach to Language Model Programming](https://dev.to/gabrielvanderlei/dspy-a-new-approach-to-language-model-programming-10lf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
