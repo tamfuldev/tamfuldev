@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding OAI and OAC in AWS CloudFront: Concepts, Configuration, and Best Practices](https://dev.to/anshul_kichara/understanding-oai-and-oac-in-aws-cloudfront-concepts-configuration-and-best-practices-10hd)
-- [Understanding Blue-Green Deployment Strategy](https://dev.to/vipulkumarsviit/understanding-blue-green-deployment-strategy-2dg8)
-- [Integrating AI in Microsoft 365: A Look at Copilot and AI-Driven Features](https://dev.to/javed_telsource/integrating-ai-in-microsoft-365-a-look-at-copilot-and-ai-driven-features-4l16)
-- [How to Generate Your Own Public and Secret Keys for PGP Encryption](https://dev.to/adityabhuyan/how-to-generate-your-own-public-and-secret-keys-for-pgp-encryption-1joh)
-- [Angular 19 introduces Incremental Hydration for better performance, the linkedSignal API for easier state management, a new Resource API for async handling, standalone components by default, and a strictStandalone flag for enforcing best practices. #Angula](https://dev.to/jps27cse/angular-19-introduces-incremental-hydration-for-better-performance-the-linkedsignal-api-for-easier-p78)
+- [#107 — Sorting of Simple Members](https://dev.to/judith677/107-sorting-of-simple-members-2b8n)
+- [Efficient Terrain Data Management and Distribution with GISBox](https://dev.to/austin6799/efficient-terrain-data-management-and-distribution-with-gisbox-5c73)
+- [CSS Cleanup Tools: Top Picks for Cleaner, Faster Code](https://dev.to/codeparrot/css-cleanup-tools-top-picks-for-cleaner-faster-code-34p6)
+- [Improving Freight Management with Advanced Logistics Software Solutions](https://dev.to/muthu_kumar_10/improving-freight-management-with-advanced-logistics-software-solutions-5c6p)
+- [My First Time Contributing to Homebrew: Adding Windsurf IDE](https://dev.to/fathiraz_arthuro/my-first-time-contributing-to-homebrew-adding-windsurf-ide-5bgc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
