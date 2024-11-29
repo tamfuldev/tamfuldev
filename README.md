@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [#107 — Sorting of Simple Members](https://dev.to/judith677/107-sorting-of-simple-members-2b8n)
-- [Efficient Terrain Data Management and Distribution with GISBox](https://dev.to/austin6799/efficient-terrain-data-management-and-distribution-with-gisbox-5c73)
-- [CSS Cleanup Tools: Top Picks for Cleaner, Faster Code](https://dev.to/codeparrot/css-cleanup-tools-top-picks-for-cleaner-faster-code-34p6)
-- [Improving Freight Management with Advanced Logistics Software Solutions](https://dev.to/muthu_kumar_10/improving-freight-management-with-advanced-logistics-software-solutions-5c6p)
-- [My First Time Contributing to Homebrew: Adding Windsurf IDE](https://dev.to/fathiraz_arthuro/my-first-time-contributing-to-homebrew-adding-windsurf-ide-5bgc)
+- [Hai Robotics Achieved High Availability &amp; Easy Operations in a Hybrid Cloud Architecture with JuiceFS](https://dev.to/daswu/hai-robotics-achieved-high-availability-easy-operations-in-a-hybrid-cloud-architecture-with-29l3)
+- [5 MOST Important JS Concepts To Master JavaScript](https://dev.to/danish/5-most-important-js-concepts-to-master-javascript-4pn1)
+- [10 Advanced OG Image Techniques I Learned Building gleam.so 🔍](https://dev.to/gleamso/10-advanced-og-image-techniques-i-learned-building-gleamso-3517)
+- [Which one of you is a WordPress Developer](https://dev.to/web_dev-usman/which-one-of-you-is-a-wordpress-developer-5cjb)
+- [Why Integrate Algolia Over Solr: A Comparative Analysis](https://dev.to/chaudharidevam/why-integrate-algolia-over-solr-a-comparative-analysis-37g6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
