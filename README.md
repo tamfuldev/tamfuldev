@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create Simple Custom Insurance Quoting System with Flexible Pricing Rules](https://dev.to/openkoda/how-to-create-simple-custom-insurance-quoting-system-with-flexible-pricing-rules-1935)
-- [Multi-Cloud Security Architecture and Best Practices](https://dev.to/iskender83/multi-cloud-security-architecture-and-best-practices-2lip)
-- [You Have to Stop!](https://dev.to/wagner_souto_7a6c4344b0ea/you-have-to-stop-3jdk)
-- [Zero Trust Architecture in Hybrid Cloud Environments](https://dev.to/iskender83/zero-trust-architecture-in-hybrid-cloud-environments-4p73)
-- [How to Create Command Line Console Applications in .NET](https://dev.to/antonmartyniuk/how-to-create-command-line-console-applications-in-net-5gcb)
+- [Understanding Amazon Bedrock&#39;s New Feature - &quot;Flows&quot;](https://dev.to/aws-builders/understanding-amazon-bedrocks-new-feature-flows-1ohd)
+- [Privacy by Design in Cloud Application Development](https://dev.to/iskender83/privacy-by-design-in-cloud-application-development-kpb)
+- [AI Use Cases in Education: Shaping the Future of Learning](https://dev.to/jhonsnow21/ai-use-cases-in-education-shaping-the-future-of-learning-17db)
+- [Connecting Jenkins to Slack: A Beginner&#39;s Guide](https://dev.to/gideonisbuilding/connecting-jenkins-to-slack-a-beginners-guide-2c7a)
+- [Blockchain-Based Supply Chain Management](https://dev.to/iskender83/blockchain-based-supply-chain-management-388b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
