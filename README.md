@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ann vs. Logistic Regression: When to Choose What](https://dev.to/aquibpy/ann-vs-logistic-regression-when-to-choose-what-8h)
-- [Netflix Thailand: การผสมผสานเทคโนโลยี วัฒนธรรม และนวัตกรรมในออฟฟิศ](https://dev.to/pskclub/netflix-thailand-kaarphsmphsaanethkhonolyii-wathnthrrm-aelanwatkrrmainffis-1jj6)
-- [Multi-cloud Security StrategyArtificial Intelligence in Cloud Security](https://dev.to/iskender83/multi-cloud-security-strategyartificial-intelligence-in-cloud-security-4deg)
-- [A New Blog Series: Python for AI Basics](https://dev.to/praneeth_647b9830399cd2b7/a-new-blog-series-python-for-ai-basics-1jfj)
-- [Cloud-Native Applications Design](https://dev.to/iskender83/cloud-native-applications-design-1m30)
+- [Cloud Security for Government and Public Sector](https://dev.to/iskender83/cloud-security-for-government-and-public-sector-28a4)
+- [Consistent Deployment Strategies for Kubernetes](https://dev.to/klip_klop/consistent-deployment-strategies-for-kubernetes-3i9n)
+- [Cloud-Based Security Operations Centers &lpar;SOC&rpar;](https://dev.to/iskender83/cloud-based-security-operations-centers-soc-4i18)
+- [Cloud Data Lakes and Security](https://dev.to/iskender83/cloud-data-lakes-and-security-d1i)
+- [10 Great Status Page Examples in 2025](https://dev.to/maxshash/10-great-status-page-examples-in-2025-26ng)
 <!-- BLOG-POST-LIST:END -->
 
 ---
