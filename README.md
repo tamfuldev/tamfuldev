@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Dynamic and Maintainable Menus in Laravel](https://dev.to/nasrulhazim/building-dynamic-and-maintainable-menus-in-laravel-ba0)
-- [How to Keep Your Ruby Gems Up-to-Date Without the Stress](https://dev.to/michymono77/how-to-keep-your-ruby-gems-up-to-date-without-the-stress-2ikf)
-- [Exciting updates in Tailwind v4 🚀](https://dev.to/best_codes/exciting-updates-in-tailwind-version-4-40i0)
-- [Github’ımız Nasıl Daha İyi Hale Getirilir? Profil Nasıl Hazırlanır? README Nasıl Yazılır?](https://dev.to/eralpozcan/githubimiz-nasil-daha-iyi-hale-getirilir-profil-nasil-hazirlanir-readme-nasil-yazilir-11ap)
-- [Is Node.js Single-Threaded or Multi-Threaded? Unraveling the Mystery](https://dev.to/rawas_aditya/is-nodejs-single-threaded-or-multi-threaded-unraveling-the-mystery-1n)
+- [Simplifying Authentication in React Applications with Clerk](https://dev.to/na1969na/simplifying-authentication-in-react-applications-with-clerk-32db)
+- [鸿蒙 Next 实战：构建安全高效的在线支付应用](https://dev.to/xun_wang_6384a403f9817c2/hong-meng-next-shi-zhan-gou-jian-an-quan-gao-xiao-de-zai-xian-zhi-fu-ying-yong-3f7a)
+- [HarmonyOS Next in Practice: Building a New Ecosystem for Social Applications](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-in-practice-building-a-new-ecosystem-for-social-applications-97g)
+- [Self-Aligning Satellite Dish in Rust: Pan Application](https://dev.to/ian_ndeda/self-aligning-satellite-dish-in-rust-pan-application-oai)
+- [Demystifying Algorithms: Circular Linked Lists](https://dev.to/craftedwithintent/demystifying-algorithms-circular-linked-lists-ega)
 <!-- BLOG-POST-LIST:END -->
 
 ---
