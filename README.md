@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Story of Nel](https://dev.to/deusinmachina/the-story-of-nel-eab)
-- [Self-Aligning Satellite Dish in Rust: Final](https://dev.to/ian_ndeda/self-aligning-satellite-dish-in-rust-final-3j39)
-- [Learning by Doing: working on ImprovedTube](https://dev.to/peterdanwan/learning-by-doing-working-on-improvedtube-4pbe)
-- [Seaborn Plot Selection Made Easy: How to Visualize Your Data Effectively](https://dev.to/arum_puripratamawati_ef5/seaborn-plot-selection-made-easy-how-to-visualize-your-data-effectively-kan)
-- [Progress on Automatic Feedback Loop](https://dev.to/kannav02/progress-on-automatic-feedback-loop-1e43)
+- [Mastering Git and GitHub: Advanced Git Commands - Part 5](https://dev.to/udara_dananjaya/mastering-git-and-github-advanced-git-commands-part-5-3eb2)
+- [Mastering Git and GitHub: Advanced Git Commands - Part 4](https://dev.to/udara_dananjaya/mastering-git-and-github-advanced-git-commands-part-4-14nh)
+- [Evolution and use case for cloud computing](https://dev.to/nwikeodigwe/evolution-and-use-case-for-cloud-computing-35bd)
+- [Mastering Git and GitHub: Advanced Git Commands - Part 3](https://dev.to/udara_dananjaya/mastering-git-and-github-advanced-git-commands-part-3-k2n)
+- [Mastering Git and GitHub: Advanced Git Commands - Part 2](https://dev.to/udara_dananjaya/mastering-git-and-github-advanced-git-commands-part-2-pd8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
