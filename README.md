@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🐘 Simplified Guide to Setting Up PostgreSQL on macOS with Docker 🚢](https://dev.to/kpndevroot/simplified-guide-to-setting-up-postgresql-on-macos-with-docker-5egd)
-- [Top 12 DevSecOps Tools for 2025](https://dev.to/yayabobi/top-12-devsecops-tools-for-2025-264b)
-- [End-to-End AWS DevOps Project: Automating Build and Deployment of a Node.js Application to Amazon ECS using GitLab CI/CD](https://dev.to/prodevopsguytech/end-to-end-aws-devops-project-automating-build-and-deployment-of-a-nodejs-application-to-amazon-h7p)
-- [I Passed the GitHub Foundations Certification: My Honest Experience](https://dev.to/developedbyviv/i-passed-the-github-foundations-certification-my-honest-experience-1mmi)
-- [Simplifying Authorization in React with Higher-Order Components &lpar;HOCs&rpar;](https://dev.to/jagadeesh_m_1339dae1f9e1f/simplifying-authorization-in-react-with-higher-order-components-hocs-5bmb)
+- [Ann vs. Logistic Regression: When to Choose What](https://dev.to/aquibpy/ann-vs-logistic-regression-when-to-choose-what-8h)
+- [Netflix Thailand: การผสมผสานเทคโนโลยี วัฒนธรรม และนวัตกรรมในออฟฟิศ](https://dev.to/pskclub/netflix-thailand-kaarphsmphsaanethkhonolyii-wathnthrrm-aelanwatkrrmainffis-1jj6)
+- [Multi-cloud Security StrategyArtificial Intelligence in Cloud Security](https://dev.to/iskender83/multi-cloud-security-strategyartificial-intelligence-in-cloud-security-4deg)
+- [A New Blog Series: Python for AI Basics](https://dev.to/praneeth_647b9830399cd2b7/a-new-blog-series-python-for-ai-basics-1jfj)
+- [Cloud-Native Applications Design](https://dev.to/iskender83/cloud-native-applications-design-1m30)
 <!-- BLOG-POST-LIST:END -->
 
 ---
