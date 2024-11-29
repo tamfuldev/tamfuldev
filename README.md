@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Simplifying Authentication in React Applications with Clerk](https://dev.to/na1969na/simplifying-authentication-in-react-applications-with-clerk-32db)
-- [鸿蒙 Next 实战：构建安全高效的在线支付应用](https://dev.to/xun_wang_6384a403f9817c2/hong-meng-next-shi-zhan-gou-jian-an-quan-gao-xiao-de-zai-xian-zhi-fu-ying-yong-3f7a)
-- [HarmonyOS Next in Practice: Building a New Ecosystem for Social Applications](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-in-practice-building-a-new-ecosystem-for-social-applications-97g)
-- [Self-Aligning Satellite Dish in Rust: Pan Application](https://dev.to/ian_ndeda/self-aligning-satellite-dish-in-rust-pan-application-oai)
-- [Demystifying Algorithms: Circular Linked Lists](https://dev.to/craftedwithintent/demystifying-algorithms-circular-linked-lists-ega)
+- [The Story of Nel](https://dev.to/deusinmachina/the-story-of-nel-eab)
+- [Self-Aligning Satellite Dish in Rust: Final](https://dev.to/ian_ndeda/self-aligning-satellite-dish-in-rust-final-3j39)
+- [Learning by Doing: working on ImprovedTube](https://dev.to/peterdanwan/learning-by-doing-working-on-improvedtube-4pbe)
+- [Seaborn Plot Selection Made Easy: How to Visualize Your Data Effectively](https://dev.to/arum_puripratamawati_ef5/seaborn-plot-selection-made-easy-how-to-visualize-your-data-effectively-kan)
+- [Progress on Automatic Feedback Loop](https://dev.to/kannav02/progress-on-automatic-feedback-loop-1e43)
 <!-- BLOG-POST-LIST:END -->
 
 ---
