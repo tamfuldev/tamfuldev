@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [IntelliJ IDEA on Ubuntu: Begin Your Journey into Java Development!](https://dev.to/ricardocaselati/intellij-idea-on-ubuntu-begin-your-journey-into-java-development-6cl)
-- [Side Projects Starter Pack](https://dev.to/patrikbraborec/side-projects-starter-pack-35ck)
-- [Converting a Laravel Blade Application to Use Livewire](https://dev.to/msnmongare/converting-a-laravel-blade-application-to-use-livewire-131a)
-- [Cloud Security for DevOps Teams](https://dev.to/iskender83/cloud-security-for-devops-teams-253f)
-- [Ollama and Web-LLM: Building Your Own Local AI Search Assistant](https://dev.to/nodeshiftcloud/ollama-and-web-llm-building-your-own-local-ai-search-assistant-3l5o)
+- [Reducing Code Duplication in GitHub Actions Workflows &lpar;1/2&rpar;](https://dev.to/manuartero/reducing-code-duplication-in-github-actions-workflows-12-5ckf)
+- [So should I release a teaser for my roblox game monsters ahead? Gimme some advice](https://dev.to/mince/so-should-i-release-a-teaser-for-my-roblox-game-monsters-ahead-gimme-somenadvice-2c40)
+- [Mastering Golang Debugging in Emacs](https://dev.to/dorneanu/mastering-golang-debugging-in-emacs-34p7)
+- [Identity and Access Management &lpar;IAM&rpar;](https://dev.to/iskender83/identity-and-access-management-iam-19im)
+- [Migrating from react-router to wouter](https://dev.to/alekseiberezkin/from-react-router-to-wouter-243c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
