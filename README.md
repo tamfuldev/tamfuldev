@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Reducing Code Duplication in GitHub Actions Workflows &lpar;1/2&rpar;](https://dev.to/manuartero/reducing-code-duplication-in-github-actions-workflows-12-5ckf)
-- [So should I release a teaser for my roblox game monsters ahead? Gimme some advice](https://dev.to/mince/so-should-i-release-a-teaser-for-my-roblox-game-monsters-ahead-gimme-somenadvice-2c40)
-- [Mastering Golang Debugging in Emacs](https://dev.to/dorneanu/mastering-golang-debugging-in-emacs-34p7)
-- [Identity and Access Management &lpar;IAM&rpar;](https://dev.to/iskender83/identity-and-access-management-iam-19im)
-- [Migrating from react-router to wouter](https://dev.to/alekseiberezkin/from-react-router-to-wouter-243c)
+- [How to Create Simple Custom Insurance Quoting System with Flexible Pricing Rules](https://dev.to/openkoda/how-to-create-simple-custom-insurance-quoting-system-with-flexible-pricing-rules-1935)
+- [Multi-Cloud Security Architecture and Best Practices](https://dev.to/iskender83/multi-cloud-security-architecture-and-best-practices-2lip)
+- [You Have to Stop!](https://dev.to/wagner_souto_7a6c4344b0ea/you-have-to-stop-3jdk)
+- [Zero Trust Architecture in Hybrid Cloud Environments](https://dev.to/iskender83/zero-trust-architecture-in-hybrid-cloud-environments-4p73)
+- [How to Create Command Line Console Applications in .NET](https://dev.to/antonmartyniuk/how-to-create-command-line-console-applications-in-net-5gcb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
