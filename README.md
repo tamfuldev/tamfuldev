@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Cloud Security for Government and Public Sector](https://dev.to/iskender83/cloud-security-for-government-and-public-sector-28a4)
-- [Consistent Deployment Strategies for Kubernetes](https://dev.to/klip_klop/consistent-deployment-strategies-for-kubernetes-3i9n)
-- [Cloud-Based Security Operations Centers &lpar;SOC&rpar;](https://dev.to/iskender83/cloud-based-security-operations-centers-soc-4i18)
-- [Cloud Data Lakes and Security](https://dev.to/iskender83/cloud-data-lakes-and-security-d1i)
-- [10 Great Status Page Examples in 2025](https://dev.to/maxshash/10-great-status-page-examples-in-2025-26ng)
+- [S3 native state locking in Terraform](https://dev.to/globart/s3-native-state-locking-in-terraform-518i)
+- [Blockchain for Transparent and Secure Cloud Storage Solutions](https://dev.to/iskender83/blockchain-for-transparent-and-secure-cloud-storage-solutions-51d)
+- [The Transformative Role of AI in Ridesharing Security](https://dev.to/nolunchbreaks_22/the-transformative-role-of-ai-in-ridesharing-security-562d)
+- [Working on New Open Source Projects - Release 0.4 - Part 1](https://dev.to/bregwin/working-on-new-open-source-projects-release-04-part-1-28i0)
+- [Privacy-Preserving Techniques in AI Systems](https://dev.to/iskender83/privacy-preserving-techniques-in-ai-systems-59e7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
