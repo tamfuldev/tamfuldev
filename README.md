@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Print a Test Page: A Quick Fix for Printer Issues](https://dev.to/tobbystalin/how-to-print-a-test-page-a-quick-fix-for-printer-issues-1ho3)
-- [Monthly Challenge: Creative Community Challenge!](https://dev.to/virtualcoffee/monthly-challenge-creative-community-challenge-273l)
-- [Selenium webDriver Cheat sheet](https://dev.to/codegreen/selenium-webdriver-cheat-sheet-1hob)
-- [Selenium WebDriver steps and methods](https://dev.to/codegreen/selenium-webdriver-steps-and-methods-db3)
-- [AWS CloudFront vs AWS Global Accelerator: Understanding Their Differences](https://dev.to/megha_shivhare_5038dc1047/aws-cloudfront-vs-aws-global-accelerator-understanding-their-differences-3ahe)
+- [Understanding JWT Authentication: Spring Security&#39;s Architecture and Go Implementation](https://dev.to/stringintech/understanding-jwt-authentication-spring-securitys-architecture-and-go-implementation-edk)
+- [Simplifying Multilingual Models in Laravel with Lexi Translate](https://dev.to/omar_alalwi/simplifying-multilingual-models-in-laravel-with-lexi-translate-g4)
+- [Introduction to Arrays](https://dev.to/moh_moh701/introduction-to-arrays-3a1d)
+- [Say Goodbye to tedious Code Reviews](https://dev.to/kitarp29/say-goodbye-to-tedious-code-reviews-341)
+- [Unveil the Secrets of Ancient Scrolls with Linux File Diff](https://dev.to/labex/unveil-the-secrets-of-ancient-scrolls-with-linux-file-diff-900)
 <!-- BLOG-POST-LIST:END -->
 
 ---
