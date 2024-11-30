@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [48/365 | ¥10M Job Challenge - Direction](https://dev.to/kameken100/48365-y10m-job-challenge-ai-blockchain-339g)
-- [Neovim how to ignore directories like node_modules in Telescope](https://dev.to/lico/neovim-how-to-ignore-directories-like-nodemodules-in-telescope-3pjj)
-- [Where do you put JWT in your React application?](https://dev.to/eshat002/where-do-you-put-jwt-in-your-react-application-o4h)
-- [Gestión de Identidades y Accesos &lpar;IAM&rpar; en AWS: Buenas Prácticas para Fortalecer la Seguridad](https://dev.to/briansuarezsantiago/gestion-de-identidades-y-accesos-iam-en-aws-buenas-practicas-para-fortalecer-la-seguridad-2mb2)
-- [Crafting Effective Unit Tests for Generative AI Applications](https://dev.to/rahulbhave/crafting-effective-unit-tests-for-generative-ai-applications-lp1)
+- [Cybersecurity Risk Management Frameworks](https://dev.to/iskender83/cybersecurity-risk-management-frameworks-15co)
+- [Cloud Security for DevOps Teams](https://dev.to/iskender83/cloud-security-for-devops-teams-4n4f)
+- [Jinbase – Multi-model transactional embedded database](https://dev.to/alexrustic/jinbase-multi-model-transactional-embedded-database-2e10)
+- [Boosting Developer Productivity with .NET 9 SDK: Essential Tools and Features](https://dev.to/leandroveiga/boosting-developer-productivity-with-net-9-sdk-essential-tools-and-features-24en)
+- [TanStack query or RTK query.](https://dev.to/ashok_kumarkumhar_e11dd3/tanstack-query-or-rtk-query-526b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
