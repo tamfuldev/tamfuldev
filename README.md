@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding JWT Authentication: Spring Security&#39;s Architecture and Go Implementation](https://dev.to/stringintech/understanding-jwt-authentication-spring-securitys-architecture-and-go-implementation-edk)
-- [Simplifying Multilingual Models in Laravel with Lexi Translate](https://dev.to/omar_alalwi/simplifying-multilingual-models-in-laravel-with-lexi-translate-g4)
-- [Introduction to Arrays](https://dev.to/moh_moh701/introduction-to-arrays-3a1d)
-- [Say Goodbye to tedious Code Reviews](https://dev.to/kitarp29/say-goodbye-to-tedious-code-reviews-341)
-- [Unveil the Secrets of Ancient Scrolls with Linux File Diff](https://dev.to/labex/unveil-the-secrets-of-ancient-scrolls-with-linux-file-diff-900)
+- [Performance Optimization with TypeScript](https://dev.to/shafayeat/performance-optimization-with-typescript-dcj)
+- [Building Secure Docker Images: Best Practices for Developers 🚀](https://dev.to/openthegates/building-secure-docker-images-best-practices-for-developers-2foo)
+- [🚀 Automate Your PostgreSQL Backups with Ease! 🐳](https://dev.to/jacksonkasi/automate-your-postgresql-backups-with-ease-3eng)
+- [🚀 Automate Your PostgreSQL Backups with Ease! 🐳](https://dev.to/jacksonkasi/automate-your-postgresql-backups-with-ease-58d)
+- [Day 42: Continual Learning in LLMs](https://dev.to/nareshnishad/day-42-continual-learning-in-llms-1l4g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
