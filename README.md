@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Axios NPM Package: A Beginner&#39;s Guide to Installing and Making HTTP Requests](https://dev.to/codeparrot/axios-npm-package-a-beginners-guide-to-installing-and-making-http-requests-2ahl)
-- [🫵You Should Try These Tools In Your Next Project](https://dev.to/dev_kiran/you-should-try-these-tools-in-your-next-project-469)
-- [Google Cloud MFA: Is Your Organization Ready?](https://dev.to/rabbitwolf__/google-cloud-mfa-is-your-organization-ready-1acd)
-- [Mastering Go Generics: Monads and Functors for Powerful, Expressive Code](https://dev.to/aaravjoshi/mastering-go-generics-monads-and-functors-for-powerful-expressive-code-1g39)
-- [From LocalHost to Public Endpoint - Quickly Share Your Work With zrok](https://dev.to/odyash/quickly-share-your-app-with-zrok-4ihp)
+- [How to Print a Test Page: A Quick Fix for Printer Issues](https://dev.to/tobbystalin/how-to-print-a-test-page-a-quick-fix-for-printer-issues-1ho3)
+- [Monthly Challenge: Creative Community Challenge!](https://dev.to/virtualcoffee/monthly-challenge-creative-community-challenge-273l)
+- [Selenium webDriver Cheat sheet](https://dev.to/codegreen/selenium-webdriver-cheat-sheet-1hob)
+- [Selenium WebDriver steps and methods](https://dev.to/codegreen/selenium-webdriver-steps-and-methods-db3)
+- [AWS CloudFront vs AWS Global Accelerator: Understanding Their Differences](https://dev.to/megha_shivhare_5038dc1047/aws-cloudfront-vs-aws-global-accelerator-understanding-their-differences-3ahe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
