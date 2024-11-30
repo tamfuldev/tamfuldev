@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to load an MFE module from a shell app &lpar;Using Angular + Webpack + Module Federation&rpar;?](https://dev.to/ruben2079/how-to-load-an-mfe-module-from-a-shell-app-using-angular-webpack-module-federation-53e6)
-- [LeetCode Meditations: Word Break](https://dev.to/rivea0/leetcode-meditations-word-break-4i4p)
-- [Comprehensive Guidebooks for PHP and Algorithm Learning](https://dev.to/xxzeroxx/comprehensive-guidebooks-for-php-and-algorithm-learning-52l7)
-- [Cloud Storage Encryption](https://dev.to/iskender83/cloud-storage-encryption-ei5)
-- [NET 9 BinaryFormatter migration paths](https://dev.to/karenpayneoregon/net-9-binaryformatter-migration-paths-4i5a)
+- [Welcome for discussion](https://dev.to/devmercy/welcome-for-discussion-jfa)
+- [Java vs. JavaScript: Which Language Reigns Supreme in Modern Development?](https://dev.to/devmercy/java-vs-javascript-which-language-reigns-supreme-in-modern-development-1onp)
+- [Python Code Reviews and Collaboration Best Practices and Tips](https://dev.to/coder_legion/python-code-reviews-and-collaboration-best-practices-and-tips-54m4)
+- [Using Kudos in Sprint Retrospectives: Building a Culture of Recognition 🎉](https://dev.to/mattlewandowski93/using-kudos-in-sprint-retrospectives-building-a-culture-of-recognition-1no0)
+- [A Developer’s Guide into Account Abstraction Models](https://dev.to/aseneca/a-developers-guide-into-account-abstraction-models-1jl1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
