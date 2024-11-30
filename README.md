@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Is OpenAI API cheaper than ChatGPT? Here is How you Can Find Out](https://dev.to/airabbit/is-openai-api-cheaper-than-chatgpt-here-is-how-you-can-find-out-2477)
-- [The Cold War: A Struggle of Ideals and Innovations](https://dev.to/stromwred/the-cold-war-a-struggle-of-ideals-and-innovations-f97)
-- [Working of Real-Time Chat Application using FireBase](https://dev.to/alex7842/working-of-real-time-chat-application-using-firebase-ahh)
-- [Why Most ML Projects Stay Idle in Notebooks: Overcoming Deployment Challenges and Taking Your Models to Production](https://dev.to/nderitugichuki/why-most-ml-projects-stay-idle-in-notebooks-overcoming-deployment-challenges-and-taking-your-4ego)
-- [Mastering Kubernetes ReplicaSets and Deployments: Step-by-Step Guide with Troubleshooting](https://dev.to/nishant026/mastering-kubernetes-replicasets-and-deployments-step-by-step-guide-with-troubleshooting-432c)
+- [48/365 | ¥10M Job Challenge - Direction](https://dev.to/kameken100/48365-y10m-job-challenge-ai-blockchain-339g)
+- [Neovim how to ignore directories like node_modules in Telescope](https://dev.to/lico/neovim-how-to-ignore-directories-like-nodemodules-in-telescope-3pjj)
+- [Where do you put JWT in your React application?](https://dev.to/eshat002/where-do-you-put-jwt-in-your-react-application-o4h)
+- [Gestión de Identidades y Accesos &lpar;IAM&rpar; en AWS: Buenas Prácticas para Fortalecer la Seguridad](https://dev.to/briansuarezsantiago/gestion-de-identidades-y-accesos-iam-en-aws-buenas-practicas-para-fortalecer-la-seguridad-2mb2)
+- [Crafting Effective Unit Tests for Generative AI Applications](https://dev.to/rahulbhave/crafting-effective-unit-tests-for-generative-ai-applications-lp1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
