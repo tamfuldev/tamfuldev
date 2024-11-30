@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Unauthorized: No token provided&quot;&rpar;](https://dev.to/lord_rahms/unauthorizedno-token-provided-4an4)
-- [The End of the Beginning: My Open Source Journey so far](https://dev.to/bregwin/the-end-of-the-beginning-my-open-source-journey-so-far-3oid)
-- [Nova&#39;s Sneaky Redirect: A Quick Fix](https://dev.to/helfull/novas-sneaky-redirect-a-quick-fix-e6k)
-- [Weapons-grade Metaprotocols on METASHREW](https://dev.to/kungfuflex/weapons-grade-metaprotocols-on-metashrew-262k)
-- [Can a Solo Developer Build a SaaS App?](https://dev.to/thealgorithm/can-a-solo-developer-build-a-saas-app-28gm)
+- [Solving LeetCode&#39;s Number of Islands: A Deep Dive into DFS](https://dev.to/benono/solving-leetcodes-number-of-islands-a-deep-dive-into-dfs-106b)
+- [DOCKER and DOCKER COMPOSE: Run Dependencies Without Installing Them in Your Environment](https://dev.to/joaogcamilojr/docker-and-docker-compose-run-dependencies-without-installing-them-in-your-environment-3ae5)
+- [Resolviendo Preguntas Determinísticas con IA Generativa: Un Enfoque Práctico](https://dev.to/codecr/resolviendo-preguntas-deterministicas-con-ia-generativa-un-enfoque-practico-2oho)
+- [🌍 The Human-AI Collaboration: How Regular Folks Can Thrive with AI](https://dev.to/firststeptechnology/the-human-ai-collaboration-how-regular-folks-can-thrive-with-ai-1mip)
+- [How to Enable/Disable Built-in Administrator Account Lockout in Windows 11?](https://dev.to/win11verse/how-to-enabledisable-built-in-administrator-account-lockout-in-windows-11-4d4a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
