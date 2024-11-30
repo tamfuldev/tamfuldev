@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [StatefulSet in Kubernetes: A Comprehensive Guide](https://dev.to/i_am_vesh/statefulset-in-kubernetes-a-comprehensive-guide-58j3)
-- [My Pre-Contest Bhasad and TCS Codevita Season-12 Adventure 🎢](https://dev.to/krishna_khaitan/my-pre-contest-bhasad-and-tcs-codevita-season-12-adventure-3d27)
-- [React Basic: Using setup with Vite and understanding the very basics from what&#39;s inside there.](https://dev.to/nao_kagayaki/react-basic-using-setup-with-vite-and-understanding-the-very-basics-from-whats-inside-there-7il)
-- [Login Neumorphism](https://dev.to/rey_plix_1128b07369add6d6/login-neumorphism-2dpi)
-- [TypeScript for Beginners: From Zero to Hero - Part 1](https://dev.to/istealersn_dev/typescript-for-beginners-from-zero-to-hero-part-1-5ecc)
+- [Is OpenAI API cheaper than ChatGPT? Here is How you Can Find Out](https://dev.to/airabbit/is-openai-api-cheaper-than-chatgpt-here-is-how-you-can-find-out-2477)
+- [The Cold War: A Struggle of Ideals and Innovations](https://dev.to/stromwred/the-cold-war-a-struggle-of-ideals-and-innovations-f97)
+- [Working of Real-Time Chat Application using FireBase](https://dev.to/alex7842/working-of-real-time-chat-application-using-firebase-ahh)
+- [Why Most ML Projects Stay Idle in Notebooks: Overcoming Deployment Challenges and Taking Your Models to Production](https://dev.to/nderitugichuki/why-most-ml-projects-stay-idle-in-notebooks-overcoming-deployment-challenges-and-taking-your-4ego)
+- [Mastering Kubernetes ReplicaSets and Deployments: Step-by-Step Guide with Troubleshooting](https://dev.to/nishant026/mastering-kubernetes-replicasets-and-deployments-step-by-step-guide-with-troubleshooting-432c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
