@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Angular 19: A Game Changer in Web Development](https://dev.to/habeebrahmanca07/angular-19-a-game-changer-in-web-development-4m59)
-- [Memulai Bisnis Servis HP: Panduan Lengkap untuk Sukses di Dunia Teknologi](https://dev.to/zoloku/memulai-bisnis-servis-hp-panduan-lengkap-untuk-sukses-di-dunia-teknologi-5dgn)
-- [Crafting a Multi-Environment CI/CD Pipeline: A Hands-on Guide with Tekton and ArgoCD](https://dev.to/ravencodess/crafting-a-multi-environment-cicd-pipeline-a-hands-on-guide-with-tekton-and-argocd-40o6)
-- [My Portfolio Completed](https://dev.to/haroon-baig/my-portfolio-completed-4l26)
-- [Beginners guide to Kubernetes Statefulsets](https://dev.to/1shubham7/beginners-guide-to-kubernetes-statefulsets-2i1j)
+- [How to Detect and Defend Against SQL Injection Attacks - Part 3[Must Read]](https://dev.to/trixsec/how-to-detect-and-defend-against-sql-injection-attacks-part-3must-read-i48)
+- [The Ultimate Guide to AWS Lambda](https://dev.to/borhanitrash/the-ultimate-guide-to-aws-lambda-1886)
+- [Code Chess game with React JS](https://dev.to/imrankh13332994/code-chess-game-with-react-js-3e1h)
+- [Unidirectional associations for one-to-many](https://dev.to/hasebul_hassanchowdhury_/unidirectional-relationship-for-one-to-many-and-many-to-one-4a6p)
+- [Creating a CLI Application With Laravel and Docker](https://dev.to/aaronreddix/creating-a-cli-application-with-laravel-and-docker-1l43)
 <!-- BLOG-POST-LIST:END -->
 
 ---
