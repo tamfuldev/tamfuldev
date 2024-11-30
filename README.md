@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Solving LeetCode&#39;s Number of Islands: A Deep Dive into DFS](https://dev.to/benono/solving-leetcodes-number-of-islands-a-deep-dive-into-dfs-106b)
-- [DOCKER and DOCKER COMPOSE: Run Dependencies Without Installing Them in Your Environment](https://dev.to/joaogcamilojr/docker-and-docker-compose-run-dependencies-without-installing-them-in-your-environment-3ae5)
-- [Resolviendo Preguntas Determinísticas con IA Generativa: Un Enfoque Práctico](https://dev.to/codecr/resolviendo-preguntas-deterministicas-con-ia-generativa-un-enfoque-practico-2oho)
-- [🌍 The Human-AI Collaboration: How Regular Folks Can Thrive with AI](https://dev.to/firststeptechnology/the-human-ai-collaboration-how-regular-folks-can-thrive-with-ai-1mip)
-- [How to Enable/Disable Built-in Administrator Account Lockout in Windows 11?](https://dev.to/win11verse/how-to-enabledisable-built-in-administrator-account-lockout-in-windows-11-4d4a)
+- [Mastering Rails and Ruby: A Collection of Practical Tips for Cleaner Code](https://dev.to/sname/mastering-rails-and-ruby-a-collection-of-practical-tips-for-cleaner-code-3bci)
+- [[Boost]](https://dev.to/sname/-3hfo)
+- [Mastering Rails and Ruby: A Collection of Practical Tips for Cleaner Code](https://dev.to/sname/mastering-rails-and-ruby-a-collection-of-practical-tips-for-cleaner-code-900)
+- [Teste do Capítulo 11](https://dev.to/javaparainiciantes/teste-do-capitulo-11-3hkf)
+- [The Fastest Way To Get A Tech Job When Nobody Is Hiring](https://dev.to/drjoshcsimmons/the-fastest-way-to-get-a-tech-job-when-nobody-is-hiring-2j81)
 <!-- BLOG-POST-LIST:END -->
 
 ---
