@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Cybersecurity Risk Management Frameworks](https://dev.to/iskender83/cybersecurity-risk-management-frameworks-15co)
-- [Cloud Security for DevOps Teams](https://dev.to/iskender83/cloud-security-for-devops-teams-4n4f)
-- [Jinbase – Multi-model transactional embedded database](https://dev.to/alexrustic/jinbase-multi-model-transactional-embedded-database-2e10)
-- [Boosting Developer Productivity with .NET 9 SDK: Essential Tools and Features](https://dev.to/leandroveiga/boosting-developer-productivity-with-net-9-sdk-essential-tools-and-features-24en)
-- [TanStack query or RTK query.](https://dev.to/ashok_kumarkumhar_e11dd3/tanstack-query-or-rtk-query-526b)
+- [How to load an MFE module from a shell app &lpar;Using Angular + Webpack + Module Federation&rpar;?](https://dev.to/ruben2079/how-to-load-an-mfe-module-from-a-shell-app-using-angular-webpack-module-federation-53e6)
+- [LeetCode Meditations: Word Break](https://dev.to/rivea0/leetcode-meditations-word-break-4i4p)
+- [Comprehensive Guidebooks for PHP and Algorithm Learning](https://dev.to/xxzeroxx/comprehensive-guidebooks-for-php-and-algorithm-learning-52l7)
+- [Cloud Storage Encryption](https://dev.to/iskender83/cloud-storage-encryption-ei5)
+- [NET 9 BinaryFormatter migration paths](https://dev.to/karenpayneoregon/net-9-binaryformatter-migration-paths-4i5a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
