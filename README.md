@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Detect and Defend Against SQL Injection Attacks - Part 3[Must Read]](https://dev.to/trixsec/how-to-detect-and-defend-against-sql-injection-attacks-part-3must-read-i48)
-- [The Ultimate Guide to AWS Lambda](https://dev.to/borhanitrash/the-ultimate-guide-to-aws-lambda-1886)
-- [Code Chess game with React JS](https://dev.to/imrankh13332994/code-chess-game-with-react-js-3e1h)
-- [Unidirectional associations for one-to-many](https://dev.to/hasebul_hassanchowdhury_/unidirectional-relationship-for-one-to-many-and-many-to-one-4a6p)
-- [Creating a CLI Application With Laravel and Docker](https://dev.to/aaronreddix/creating-a-cli-application-with-laravel-and-docker-1l43)
+- [A debate to be had.](https://dev.to/miketalbot/a-debate-to-be-had-563h)
+- [Testing &quot;quickie posts&quot; on dev.to](https://dev.to/kostyatretyak/testing-quickie-posts-on-devto-12c1)
+- [Playing Card](https://dev.to/satyamshorrf/playing-card-4eca)
+- [Patrones de Diseño y el Patrón Singleton en JavaScript](https://dev.to/alexfloresf/patrones-de-diseno-y-el-patron-singleton-en-javascript-42ee)
+- [Spotlight Clock](https://dev.to/satyamshorrf/spotlight-clock-3ac0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
