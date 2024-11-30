@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Beginner&#39;s Guide to PHP Form Handling with Sessions](https://dev.to/harshm03/beginners-guide-to-php-form-handling-with-sessions-5ebh)
-- [Adding Interactive Charts and Graphs to Tailwind CSS Admin Templates: A Step-by-Step Guide](https://dev.to/hitesh_developer/adding-interactive-charts-and-graphs-to-tailwind-css-admin-templates-a-step-by-step-guide-4pbj)
-- [Give it a read and share your thoughts on how you approach your testing!](https://dev.to/muhammadnoorani/give-it-a-read-and-share-your-thoughts-on-how-you-approach-your-testing-2fcf)
-- [Building Microservices with .NET Core and Kafka: Order Processing](https://dev.to/dotnetfullstackdev/building-microservices-with-net-core-and-kafka-order-processing-3228)
-- [Kotlin Multiplatform Made Easy: A Guide to IDE Support 🛠️](https://dev.to/hexadecimalsoftware/kotlin-multiplatform-made-easy-a-guide-to-ide-support-2c7o)
+- [Axios NPM Package: A Beginner&#39;s Guide to Installing and Making HTTP Requests](https://dev.to/codeparrot/axios-npm-package-a-beginners-guide-to-installing-and-making-http-requests-2ahl)
+- [🫵You Should Try These Tools In Your Next Project](https://dev.to/dev_kiran/you-should-try-these-tools-in-your-next-project-469)
+- [Google Cloud MFA: Is Your Organization Ready?](https://dev.to/rabbitwolf__/google-cloud-mfa-is-your-organization-ready-1acd)
+- [Mastering Go Generics: Monads and Functors for Powerful, Expressive Code](https://dev.to/aaravjoshi/mastering-go-generics-monads-and-functors-for-powerful-expressive-code-1g39)
+- [From LocalHost to Public Endpoint - Quickly Share Your Work With zrok](https://dev.to/odyash/quickly-share-your-app-with-zrok-4ihp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
