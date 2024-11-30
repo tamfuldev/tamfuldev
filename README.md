@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/md_nozibulislam_67099525/-k28)
-- [Git Mastery: Essential Questions and Answers for Developers](https://dev.to/nozibul_islam_113b1d5334f/git-mastery-essential-questions-and-answers-for-developers-1mge)
-- [Git Mastery: Essential Questions and Answers for Developers 🚀](https://dev.to/nozibul_islam_113b1d5334f/git-mastery-essential-questions-and-answers-for-developers-4c8)
-- [Outdated TLS/SSL in Healthcare: The Open Ransomware Risk](https://dev.to/azim_uddin/outdated-tlsssl-in-healthcare-the-open-ransomware-risk-1poc)
-- [Top-3 Helm Plugins: Helm Secrets, Helm Diff and Helm Git](https://dev.to/mkdev/top-3-helm-plugins-helm-secrets-helm-diff-and-helm-git-2ngb)
+- [Beginner&#39;s Guide to PHP Form Handling with Sessions](https://dev.to/harshm03/beginners-guide-to-php-form-handling-with-sessions-5ebh)
+- [Adding Interactive Charts and Graphs to Tailwind CSS Admin Templates: A Step-by-Step Guide](https://dev.to/hitesh_developer/adding-interactive-charts-and-graphs-to-tailwind-css-admin-templates-a-step-by-step-guide-4pbj)
+- [Give it a read and share your thoughts on how you approach your testing!](https://dev.to/muhammadnoorani/give-it-a-read-and-share-your-thoughts-on-how-you-approach-your-testing-2fcf)
+- [Building Microservices with .NET Core and Kafka: Order Processing](https://dev.to/dotnetfullstackdev/building-microservices-with-net-core-and-kafka-order-processing-3228)
+- [Kotlin Multiplatform Made Easy: A Guide to IDE Support 🛠️](https://dev.to/hexadecimalsoftware/kotlin-multiplatform-made-easy-a-guide-to-ide-support-2c7o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
