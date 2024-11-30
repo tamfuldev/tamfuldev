@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ranking System and Career Progression in Cabin Crew Life Simulator - Devlog #5](https://dev.to/khaisimon_devgame/ranking-system-and-career-progression-in-cabin-crew-life-simulator-devlog-5-16c5)
-- [Memulai Bisnis Ayam Bakar: Langkah Sukses Menggapai Impian Usaha Kuliner Anda](https://dev.to/zoloku/memulai-bisnis-ayam-bakar-langkah-sukses-menggapai-impian-usaha-kuliner-anda-4og4)
-- [Mastering Website Traffic and SEO: Insights for Better Engagement and Results](https://dev.to/shtefcs/mastering-website-traffic-and-seo-insights-for-better-engagement-and-results-59ap)
-- [Why You Should Avoid Using `try...catch` in SvelteKit Actions](https://dev.to/dev_michael/why-you-should-avoid-using-trycatch-in-sveltekit-actions-3dia)
-- [How does reduce&lpar;&rpar; differ from collect&lpar;&rpar; in Java streams?](https://dev.to/realnamehidden1_61/how-does-reduce-differ-from-collect-in-java-streams-k83)
+- [Angular 19: A Game Changer in Web Development](https://dev.to/habeebrahmanca07/angular-19-a-game-changer-in-web-development-4m59)
+- [Memulai Bisnis Servis HP: Panduan Lengkap untuk Sukses di Dunia Teknologi](https://dev.to/zoloku/memulai-bisnis-servis-hp-panduan-lengkap-untuk-sukses-di-dunia-teknologi-5dgn)
+- [Crafting a Multi-Environment CI/CD Pipeline: A Hands-on Guide with Tekton and ArgoCD](https://dev.to/ravencodess/crafting-a-multi-environment-cicd-pipeline-a-hands-on-guide-with-tekton-and-argocd-40o6)
+- [My Portfolio Completed](https://dev.to/haroon-baig/my-portfolio-completed-4l26)
+- [Beginners guide to Kubernetes Statefulsets](https://dev.to/1shubham7/beginners-guide-to-kubernetes-statefulsets-2i1j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
