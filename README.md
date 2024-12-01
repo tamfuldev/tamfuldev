@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Push Back on Whiteboard Tests](https://dev.to/mosbat/push-back-on-whiteboard-tests-4h0l)
-- [Adding Custom Vendor Packages to Android Source Code: A Complete Guide](https://dev.to/hpnightowl/adding-custom-vendor-packages-to-android-source-code-a-complete-guide-3k9p)
-- [Make Accordions Easily Using &lt;Details&gt; &amp; &lt;Summary&gt; tag in html](https://dev.to/softheartengineer/make-accordions-easily-using-tag-in-html-13l1)
-- [Ocultando Secretos en los Pixeles 👀](https://dev.to/yoezequiel/ocultando-secretos-en-los-pixeles-2447)
-- [Java’s Functional Programming: the OOP influence](https://dev.to/rajibdk/javas-functional-programming-the-oop-influence-3jal)
+- [Sufficient Software Tests Using Metrics](https://dev.to/sualeh/sufficient-software-tests-using-metrics-36i2)
+- [AI travel Plan using Next.js 15, TailwindCSS, Prisma, Google AI Studio, and Clerk](https://dev.to/saidmounaim/ai-travel-plan-using-nextjs-15-tailwindcss-prisma-google-ai-studio-and-clerk-21jm)
+- [Welcome to My Tech Journey](https://dev.to/teetoflame/welcome-to-my-tech-journey-30d)
+- [JavaScript](https://dev.to/tobias4374f08cc/javascript-4djj)
+- [An interactive guide to bloom filter](https://dev.to/sagyam/an-interactive-guide-to-bloom-filter-1h2h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
