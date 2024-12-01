@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s the Best Software Architecture?](https://dev.to/koladev/whats-the-best-software-architecture-3g8g)
-- [Cracking the Code: How the MVVM with Bridge Pattern Saves a Messy Frontend UI &lpar;Part 2&rpar;](https://dev.to/behnamrhp/cracking-the-code-how-the-mvvm-with-bridge-pattern-saves-a-messy-frontend-ui-part-2-22oc)
-- [Remotely in Control](https://dev.to/ayikalotanna/remotely-in-control-306b)
-- [formulário de login](https://dev.to/bruninhopvp_cd2110d49f412/formulario-de-login-2c8)
-- [Installing a Kubernetes Cluster on CentOS 9](https://dev.to/jayshri_landge_30/installing-a-kubernetes-cluster-on-centos-9-2g5g)
+- [The Last Crime: A Reflection on Consciousness, Technology, and Humanity](https://dev.to/atallah_anouz_423191e8872/the-last-crimea-reflection-on-consciousness-technology-and-humanity-5af5)
+- [Why Is Spark Slow??](https://dev.to/hirayuki/why-is-spark-slow-52dj)
+- [LeetCode Meditations: Longest Increasing Subsequence](https://dev.to/rivea0/leetcode-meditations-longest-increasing-subsequence-24c8)
+- [In this article, we&#39;ll explore how to build a simple login status monitor using Vanilla JavaScript. We&#39;ll cover the basics of user login status management, including storing user data locally and handling login and l](https://dev.to/travah1/in-this-article-well-explore-how-to-build-a-simple-login-status-monitor-using-vanilla-javascript-5ae2)
+- [Profit or Play: Which Blockchain Game Gives You The Best Bang For Your Buck](https://dev.to/endeo/profit-or-play-which-blockchain-game-gives-you-the-best-bang-for-your-buck-32m0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
