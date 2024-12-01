@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stateful vs. Stateless Design: What’s the Difference?](https://dev.to/isaactony/stateful-vs-stateless-design-whats-the-difference-5bk5)
-- [How Does gRPC Actually Work?](https://dev.to/isaactony/how-does-grpc-actually-work-1k7b)
-- [Setting Up Monitoring on Amazon EKS: Deploying Prometheus and Grafana](https://dev.to/rifkhan107/setting-up-monitoring-on-amazon-eks-deploying-prometheus-and-grafana-4oe1)
-- [WebSocket Client with JavaScript](https://dev.to/robertobutti/websocket-client-with-javascript-54ec)
-- [Laravel: Convert .htaccess File to IIS web.config Configuration](https://dev.to/yysfyn/laravel-convert-htaccess-file-to-iis-webconfig-configuration-411e)
+- [Zero Trust Network Access &lpar;ZTNA&rpar;](https://dev.to/iskender83/zero-trust-network-access-ztna-2n41)
+- [Threat Hunting in Cloud Environments Using AI](https://dev.to/iskender83/threat-hunting-in-cloud-environments-using-ai-3dep)
+- [Scaling the Viral App: The Emotional Rollercoaster of Taming Traffic with Consistent Hashing](https://dev.to/vizzv/scaling-the-viral-app-the-emotional-rollercoaster-of-taming-traffic-with-consistent-hashing-4em9)
+- [Cloud Security for DevOps Teams](https://dev.to/iskender83/cloud-security-for-devops-teams-4n3)
+- [Methods to assign and retrieve values in a JavaScript object](https://dev.to/nkumarm/methods-to-assign-and-retrieve-values-in-a-javascript-object-2g59)
 <!-- BLOG-POST-LIST:END -->
 
 ---
