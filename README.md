@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Last Crime: A Reflection on Consciousness, Technology, and Humanity](https://dev.to/atallah_anouz_423191e8872/the-last-crimea-reflection-on-consciousness-technology-and-humanity-5af5)
-- [Why Is Spark Slow??](https://dev.to/hirayuki/why-is-spark-slow-52dj)
-- [LeetCode Meditations: Longest Increasing Subsequence](https://dev.to/rivea0/leetcode-meditations-longest-increasing-subsequence-24c8)
-- [In this article, we&#39;ll explore how to build a simple login status monitor using Vanilla JavaScript. We&#39;ll cover the basics of user login status management, including storing user data locally and handling login and l](https://dev.to/travah1/in-this-article-well-explore-how-to-build-a-simple-login-status-monitor-using-vanilla-javascript-5ae2)
-- [Profit or Play: Which Blockchain Game Gives You The Best Bang For Your Buck](https://dev.to/endeo/profit-or-play-which-blockchain-game-gives-you-the-best-bang-for-your-buck-32m0)
+- [The Future of Community Moderation with Web4](https://dev.to/web4/the-future-of-community-moderation-with-web4-53n2)
+- [Security Monitoring for Serverless Computing in Cloud Environments](https://dev.to/rednexie/security-monitoring-for-serverless-computing-in-cloud-environments-1ic8)
+- [Creating a Floating Particles Neon Light Effect with HTML, CSS, and JavaScript](https://dev.to/parzival_computer/creating-a-mesmerizing-neon-light-effect-with-html-css-and-javascript-bg4)
+- [Autonomous Cloud Security](https://dev.to/rednexie/autonomous-cloud-security-mh6)
+- [Advent of Tech 2024 @ onepoint](https://dev.to/onepoint/advent-of-tech-2024-onepoint-le)
 <!-- BLOG-POST-LIST:END -->
 
 ---
