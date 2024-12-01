@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1: React in Terminal 🎨](https://dev.to/valeriavg/day-1-react-in-terminal-2b5m)
-- [YugabyteDB MVCC and Updates: columns vs. JSON](https://dev.to/yugabyte/yugabytedb-mvcc-and-updates-columns-vs-json-3ndh)
-- [React Components:](https://dev.to/bhat_vishwas/react-components-3dn)
-- [The Ultimate Linux Command Cheat Sheet for 2024](https://dev.to/trixsec/the-ultimate-linux-command-cheat-sheet-for-2024-3f9a)
-- [Mastering Git with Conventional Commits 🌟](https://dev.to/eshanized/mastering-git-with-conventional-commits-53cm)
+- [ML Pie chart](https://dev.to/savvyshivam/ml-pie-chart-2069)
+- [[Boost]](https://dev.to/sebastianmarines/-4p09)
+- [Manual Setup &lpar;Custom Webpack/Babel configuration&rpar; with react &lpar;i am not able running it &rpar;](https://dev.to/shiva6699/manual-setup-custom-webpackbabel-configuration-with-react-i-am-not-able-running-it--3573)
+- [The Power of Communities: Gamifying the experience of the AWS Community Day México attendee](https://dev.to/aws-builders/the-power-of-communities-gamifying-the-experience-of-the-aws-community-day-mexico-attendee-37en)
+- [Eager to Learn Javascript Callbacks ?? Learn them in just 5 minutes ! 🚀](https://dev.to/bst53/eager-to-learn-javascript-callbacks-learn-them-in-just-5-minutes--4h34)
 <!-- BLOG-POST-LIST:END -->
 
 ---
