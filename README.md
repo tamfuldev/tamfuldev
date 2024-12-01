@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome for discussion](https://dev.to/devmercy/welcome-for-discussion-jfa)
-- [Java vs. JavaScript: Which Language Reigns Supreme in Modern Development?](https://dev.to/devmercy/java-vs-javascript-which-language-reigns-supreme-in-modern-development-1onp)
-- [Python Code Reviews and Collaboration Best Practices and Tips](https://dev.to/coder_legion/python-code-reviews-and-collaboration-best-practices-and-tips-54m4)
-- [Using Kudos in Sprint Retrospectives: Building a Culture of Recognition 🎉](https://dev.to/mattlewandowski93/using-kudos-in-sprint-retrospectives-building-a-culture-of-recognition-1no0)
-- [A Developer’s Guide into Account Abstraction Models](https://dev.to/aseneca/a-developers-guide-into-account-abstraction-models-1jl1)
+- [Gestión de Identidades y Accesos &lpar;IAM&rpar; en AWS: Buenas prácticas para fortalecer la seguridad](https://dev.to/briansuarezsantiago/gestion-de-identidades-y-accesos-iam-en-aws-buenas-practicas-para-fortalecer-la-seguridad-5ba0)
+- [From Practice to Principle: Building an Enterprise-Grade Phone Number Extraction System](https://dev.to/tuopu_li_95bd6ecd427c1ad0/from-practice-to-principle-building-an-enterprise-grade-phone-number-extraction-system-2ni)
+- [Week One of #100DaysOfCode](https://dev.to/lymah/week-one-of-100daysofcode-2dj5)
+- [Operating Notion via Claude Desktop Using MCP!](https://dev.to/suekou/operating-notion-via-claude-desktop-using-mcp-c0h)
+- [Resolving ECS Task Definition Security Risks Detected by AWS Security Hub Using Secrets Manager](https://dev.to/suzuki0430/resolving-ecs-task-definition-security-risks-detected-by-aws-security-hub-using-secrets-manager-3m7n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
