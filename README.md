@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Beginnings](https://dev.to/cypher-phil/beginnings-3ni2)
-- [Understanding and Solving False Sharing in Multi-threaded Applications with an actual issue I had](https://dev.to/ariasdiniz/understanding-and-solving-false-sharing-in-multi-threaded-applications-with-an-actual-issue-i-had-57c)
-- [React&#39;s harsh reality: A Must-Read Insight by Alex Russell](https://dev.to/mbarzeev/reacts-harsh-reality-a-must-read-insight-by-alex-russell-52lk)
-- [How We Rebuilt Our Extension for Manifest V3](https://dev.to/jamdotdev/how-we-rebuilt-our-extension-for-manifest-v3-2iga)
-- [Monitoring Queries on PostgreSQL](https://dev.to/tallesl/monitoring-queries-on-postgresql-1nk3)
+- [Hono.js: A Lightweight Framework with Big Potential 🚀](https://dev.to/joodi/honojs-a-lightweight-framework-with-big-potential-3lh9)
+- [Este código é um exemplo de um Expert Advisor &lpar;EA&rpar; automatizado para o MetaTrader 5.](https://dev.to/java2890/este-codigo-e-um-exemplo-de-um-expert-advisor-ea-automatizado-para-o-metatrader-5-b8e)
+- [My December Adventure &lpar;of code&rpar;](https://dev.to/glennturner/my-december-adventure-of-code-3kpg)
+- [useCustomReducer Hook: A Versatile State Management Tool](https://dev.to/serifcolakel/usecustomreducer-hook-a-versatile-state-management-tool-4mki)
+- [Currency Converter In Go](https://dev.to/jordan_t/currency-converter-in-go-jdo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
