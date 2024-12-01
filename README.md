@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Browser Extensions: A Frontend Developer&#39;s Guide to Building and Deploying Custom Extensions](https://dev.to/mukhilpadmanabhan/browser-extensions-a-frontend-developers-guide-to-building-and-deploying-custom-extensions-bkd)
-- [Introducing Snigdha OS: A Fresh Take on Open-Source Operating Systems](https://dev.to/eshanized/introducing-snigdha-os-a-fresh-take-on-open-source-operating-systems-40dk)
-- [RFC: HTTP Wire Errors](https://dev.to/kataras/rfc-http-wire-errors-48jc)
-- [Cracking the Code: How the MVVM with Bridge Pattern Saves a Messy Frontend UI &lpar;Part 1&rpar;](https://dev.to/behnamrhp/cracking-the-code-how-the-mvvm-with-bridge-pattern-saves-a-messy-frontend-ui-part-1-3h4)
-- [Virtual Reality in Web Development: Crafting Immersive Experiences with WebVR](https://dev.to/okoye_ndidiamaka_5e3b7d30/virtual-reality-in-web-development-crafting-immersive-experiences-with-webvr-19nc)
+- [What&#39;s the Best Software Architecture?](https://dev.to/koladev/whats-the-best-software-architecture-3g8g)
+- [Cracking the Code: How the MVVM with Bridge Pattern Saves a Messy Frontend UI &lpar;Part 2&rpar;](https://dev.to/behnamrhp/cracking-the-code-how-the-mvvm-with-bridge-pattern-saves-a-messy-frontend-ui-part-2-22oc)
+- [Remotely in Control](https://dev.to/ayikalotanna/remotely-in-control-306b)
+- [formulário de login](https://dev.to/bruninhopvp_cd2110d49f412/formulario-de-login-2c8)
+- [Installing a Kubernetes Cluster on CentOS 9](https://dev.to/jayshri_landge_30/installing-a-kubernetes-cluster-on-centos-9-2g5g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
