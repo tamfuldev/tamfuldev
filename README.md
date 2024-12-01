@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Gestión de Identidades y Accesos &lpar;IAM&rpar; en AWS: Buenas prácticas para fortalecer la seguridad](https://dev.to/briansuarezsantiago/gestion-de-identidades-y-accesos-iam-en-aws-buenas-practicas-para-fortalecer-la-seguridad-5ba0)
-- [From Practice to Principle: Building an Enterprise-Grade Phone Number Extraction System](https://dev.to/tuopu_li_95bd6ecd427c1ad0/from-practice-to-principle-building-an-enterprise-grade-phone-number-extraction-system-2ni)
-- [Week One of #100DaysOfCode](https://dev.to/lymah/week-one-of-100daysofcode-2dj5)
-- [Operating Notion via Claude Desktop Using MCP!](https://dev.to/suekou/operating-notion-via-claude-desktop-using-mcp-c0h)
-- [Resolving ECS Task Definition Security Risks Detected by AWS Security Hub Using Secrets Manager](https://dev.to/suzuki0430/resolving-ecs-task-definition-security-risks-detected-by-aws-security-hub-using-secrets-manager-3m7n)
+- [How to Use TypeScript to Accumulate Types: Typing ALL possible fetch&lpar;&rpar; Results](https://dev.to/webjose/how-to-use-typescript-to-accumulate-types-typing-all-possible-fetch-results-3hc)
+- [Datasets for Computer Vision &lpar;4&rpar;](https://dev.to/hyperkai/datasets-for-computer-vision-4-4050)
+- [Numerical Root-Finding Algorithms: Foundations, Theory, and Advanced Methods. Part 1](https://dev.to/padiazg/numerical-root-finding-algorithms-foundations-theory-and-advanced-methods-part-1-1f31)
+- [Starting Your Cloud Journey: Roles, Resources, and Realistic Expectations](https://dev.to/jimiog/starting-your-cloud-journey-roles-resources-and-realistic-expectations-5gk7)
+- [Next JS 14 API Management](https://dev.to/rifkyalfarez/next-js-14api-management-2hbm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
