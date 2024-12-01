@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Cloud-Native Continuous Integration Tools](https://dev.to/iskender83/cloud-native-continuous-integration-tools-1bfb)
-- [Vulnerability Management](https://dev.to/iskender83/vulnerability-management-30k6)
-- [Email Marketing Trends to Watch in 2025](https://dev.to/bloger_07/email-marketing-trends-to-watch-in-2025-474p)
-- [Animated Movie Card w/ HTML and CSS](https://dev.to/tilakjain123/animated-movie-card-w-html-and-css-ekh)
-- [Real-Time Security Response in Cloud-Based Systems](https://dev.to/iskender83/real-time-security-response-in-cloud-based-systems-36kl)
+- [Browser Extensions: A Frontend Developer&#39;s Guide to Building and Deploying Custom Extensions](https://dev.to/mukhilpadmanabhan/browser-extensions-a-frontend-developers-guide-to-building-and-deploying-custom-extensions-bkd)
+- [Introducing Snigdha OS: A Fresh Take on Open-Source Operating Systems](https://dev.to/eshanized/introducing-snigdha-os-a-fresh-take-on-open-source-operating-systems-40dk)
+- [RFC: HTTP Wire Errors](https://dev.to/kataras/rfc-http-wire-errors-48jc)
+- [Cracking the Code: How the MVVM with Bridge Pattern Saves a Messy Frontend UI &lpar;Part 1&rpar;](https://dev.to/behnamrhp/cracking-the-code-how-the-mvvm-with-bridge-pattern-saves-a-messy-frontend-ui-part-1-3h4)
+- [Virtual Reality in Web Development: Crafting Immersive Experiences with WebVR](https://dev.to/okoye_ndidiamaka_5e3b7d30/virtual-reality-in-web-development-crafting-immersive-experiences-with-webvr-19nc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
