@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Sufficient Software Tests Using Metrics](https://dev.to/sualeh/sufficient-software-tests-using-metrics-36i2)
-- [AI travel Plan using Next.js 15, TailwindCSS, Prisma, Google AI Studio, and Clerk](https://dev.to/saidmounaim/ai-travel-plan-using-nextjs-15-tailwindcss-prisma-google-ai-studio-and-clerk-21jm)
-- [Welcome to My Tech Journey](https://dev.to/teetoflame/welcome-to-my-tech-journey-30d)
-- [JavaScript](https://dev.to/tobias4374f08cc/javascript-4djj)
-- [An interactive guide to bloom filter](https://dev.to/sagyam/an-interactive-guide-to-bloom-filter-1h2h)
+- [Be welcome to Not Made by a Human.](https://dev.to/notmadebyahuman/be-welcome-to-not-made-by-a-human-14hi)
+- [Distributed Tracing with OpenTelemetry and Jaeger for Nest Application](https://dev.to/sagyam/distributed-tracing-with-opentelemetry-and-jaeger-for-nest-application-3c68)
+- [Weekend Task](https://dev.to/lakshmi_prithanadesan_32/weekend-task-23o3)
+- [How to Install Nextcloud on Docker](https://dev.to/nodeshiftcloud/how-to-install-nextcloud-on-docker-1382)
+- [Part 5: Functions and Methods in C#](https://dev.to/adrianbailador/part-5-functions-and-methods-in-c-3327)
 <!-- BLOG-POST-LIST:END -->
 
 ---
