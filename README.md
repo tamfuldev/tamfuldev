@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Deep Work vs. Shallow Work: How to Prioritize for Maximum Impact](https://dev.to/harrisonphan9/deep-work-vs-shallow-work-how-to-prioritize-for-maximum-impact-36f4)
-- [Get Started with Amazon Transcribe in Easy Steps](https://dev.to/aws-builders/get-started-with-amazon-transcribe-in-easy-steps-3fg9)
-- [Cara Logout Aplikasi Sirekap dengan Mudah dan Aman](https://dev.to/zoloku/cara-logout-aplikasi-sirekap-dengan-mudah-dan-aman-2d52)
-- [Don&#39;t miss out on these insights](https://dev.to/devmercy/dont-miss-out-on-these-insights-1obo)
-- [Dive Deep: Unraveling the Mysteries of X Window Managers](https://dev.to/getvm/dive-deep-unraveling-the-mysteries-of-x-window-managers-21bm)
+- [Stateful vs. Stateless Design: What’s the Difference?](https://dev.to/isaactony/stateful-vs-stateless-design-whats-the-difference-5bk5)
+- [How Does gRPC Actually Work?](https://dev.to/isaactony/how-does-grpc-actually-work-1k7b)
+- [Setting Up Monitoring on Amazon EKS: Deploying Prometheus and Grafana](https://dev.to/rifkhan107/setting-up-monitoring-on-amazon-eks-deploying-prometheus-and-grafana-4oe1)
+- [WebSocket Client with JavaScript](https://dev.to/robertobutti/websocket-client-with-javascript-54ec)
+- [Laravel: Convert .htaccess File to IIS web.config Configuration](https://dev.to/yysfyn/laravel-convert-htaccess-file-to-iis-webconfig-configuration-411e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
