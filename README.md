@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Boost MySQL Performance with Data Partitioning](https://dev.to/dbvismarketing/boost-mysql-performance-with-data-partitioning-4n33)
-- [Color Palette is served with ShadCn Theme Editor](https://dev.to/giuliano1993/color-palette-is-served-with-shadcn-theme-editor-1jjc)
-- [Best Practices for Developing and Integrating REST APIs into Web Applications](https://dev.to/adityabhuyan/best-practices-for-developing-and-integrating-rest-apis-into-web-applications-59nl)
-- [Understanding Forward Proxy and Reverse Proxy](https://dev.to/swiftproxy9572/understanding-forward-proxy-and-reverse-proxy-5h7c)
-- [LLM Evaluation: Which LLM to use for developing a personal assistant?](https://dev.to/admantium/llm-evaluation-which-llm-to-use-for-developing-a-personal-assistant-bol)
+- [How to make Flutter 3.24 run on Windows 7?](https://dev.to/rustdesk/how-to-make-flutter-324-run-on-windows-7-4ocf)
+- [Offline file uploading in Flutter](https://dev.to/remejuan/offline-file-uploading-in-flutter-mch)
+- [Amazon Q Developer Tips: No.2 IDE Layout](https://dev.to/aws/amazon-q-developer-tips-no2-ide-layout-52a1)
+- [Self Closing Browser Tab with JavaScript](https://dev.to/joshuaamaju/self-closing-browser-tab-with-javascript-1ph9)
+- [From Traditional Hosting to the Cloud: The Migration of LimitlessAO Power Solutions Website to AWS](https://dev.to/abdullateef/from-traditional-hosting-to-the-cloud-the-migration-of-limitlessao-power-solutions-website-to-aws-5c9d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
