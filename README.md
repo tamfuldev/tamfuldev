@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Disconnect in Stimulus Controller](https://dev.to/railsdesigner/why-disconnect-in-stimulus-controller-5ahf)
-- [What is OOP ?!](https://dev.to/1hamzabek/what-is-oop--4dnc)
-- [[Boost]](https://dev.to/santos_felip/-3mc5)
-- [Masking confidential data in prompts using Regex and spaCy](https://dev.to/aditykris/masking-confidential-data-in-prompts-using-regex-and-spacy-4nkf)
-- [🌐 What is Server-Side Rendering &lpar;SSR&rpar; &amp; Why Everyone’s Hyped About Next.js? 🚀](https://dev.to/jagroop2001/what-is-server-side-rendering-ssr-why-everyones-hyped-about-nextjs-4p1c)
+- [Fighting with Redirects: A Journey of Astro Site Migration](https://dev.to/roboword/fighting-with-redirects-a-journey-of-astro-site-migration-591a)
+- [React: Implementing Passwordless Login with AWS Cognito](https://dev.to/garciadiazjaime/react-implementing-passwordless-login-with-aws-cognito-3bj7)
+- [Managing search parameters in Next.js with nuqs](https://dev.to/leemeganj/managing-search-parameters-in-nextjs-with-nuqs-283i)
+- [YAGNI &lpar;You Aren&#39;t Gonna Need It&rpar;](https://dev.to/parzival_computer/yagni-you-arent-gonna-need-it-8dh)
+- [Recurring Tasks in .NET C# : All options explained](https://dev.to/zrebhi/recurring-tasks-in-net-c-all-options-explained-jje)
 <!-- BLOG-POST-LIST:END -->
 
 ---
