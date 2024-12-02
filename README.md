@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Exploratory Testing: A Dynamic Approach to Software Quality](https://dev.to/keploy/exploratory-testing-a-dynamic-approach-to-software-quality-4mk)
-- [Linux Kernel 6.13: Breaking New Ground in Hardware Support and System Performance](https://dev.to/nolunchbreaks_22/linux-kernel-613-breaking-new-ground-in-hardware-support-and-system-performance-15g1)
-- [Day 3 of SQL Series || Basic Commands](https://dev.to/akshat0610/day-3-of-sql-series-basic-commands-1mo5)
-- [How to Write Effective Test Cases](https://dev.to/ronika_kashyap/how-to-write-effective-test-cases-2ecp)
-- [Unlocking the Future: Integrating Augmented Reality in Web Applications](https://dev.to/okoye_ndidiamaka_5e3b7d30/unlocking-the-future-integrating-augmented-reality-in-web-applications-jlp)
+- [How to Document MySQL Databases Efficiently with DbSchema](https://dev.to/roxana_haidiner/how-to-document-mysql-databases-efficiently-with-dbschema-1bmn)
+- [Event Hub Replication Tasks with Logic Apps](https://dev.to/kkazala/event-hub-replication-tasks-with-logic-apps-2aje)
+- [Dealing with resilience on network: Setting Up a Failover System with MikroTik RouterOS](https://dev.to/nivandosoares/dealing-with-resilience-on-network-setting-up-a-failover-system-with-mikrotik-routeros-5djh)
+- [🎄 Advent of Code 2024: Day 2 Completed! 🚀](https://dev.to/architagr/advent-of-code-2024-day-2-completed-g45)
+- [Tackling Testing Challenges in Internet and Mobile Banking](https://dev.to/grjoeay/tackling-testing-challenges-in-internet-and-mobile-banking-1lkb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
