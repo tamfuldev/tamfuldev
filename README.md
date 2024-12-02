@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Devtools Startup Ideas: Build A Markdown Editor With Ruby On Rails And Redis](https://dev.to/dumebii/devtools-startup-ideas-build-a-markdown-editor-with-ruby-on-rails-and-redis-2fnd)
-- [A very cost-effective way to protect your websites](https://dev.to/carrie_luo1/a-very-cost-effective-way-to-protect-your-websites-ph9)
-- [How to Prevent SQL Injection with SafeLine WAF](https://dev.to/carrie_luo1/how-to-prevent-sql-injection-with-safeline-waf-13h3)
-- [The Best Open Source API Mocking Tool for developers &lpar;With examples&rpar;](https://dev.to/requestly/the-best-open-source-api-mocking-tool-for-developers-with-examples-35hh)
-- [🚀 AI Trends Every Frontend Developer Should Know](https://dev.to/istealersn_dev/ai-trends-every-frontend-developer-should-know-19mo)
+- [Exploratory Testing: A Dynamic Approach to Software Quality](https://dev.to/keploy/exploratory-testing-a-dynamic-approach-to-software-quality-4mk)
+- [Linux Kernel 6.13: Breaking New Ground in Hardware Support and System Performance](https://dev.to/nolunchbreaks_22/linux-kernel-613-breaking-new-ground-in-hardware-support-and-system-performance-15g1)
+- [Day 3 of SQL Series || Basic Commands](https://dev.to/akshat0610/day-3-of-sql-series-basic-commands-1mo5)
+- [How to Write Effective Test Cases](https://dev.to/ronika_kashyap/how-to-write-effective-test-cases-2ecp)
+- [Unlocking the Future: Integrating Augmented Reality in Web Applications](https://dev.to/okoye_ndidiamaka_5e3b7d30/unlocking-the-future-integrating-augmented-reality-in-web-applications-jlp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
