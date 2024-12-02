@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [OSD Final Chapter: Part 2](https://dev.to/amullagaliev/osd-final-chapter-part-2-584a)
-- [HarmonyOS Next Key Asset Storage Development: Performance Optimization and Precautions](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-key-asset-storage-development-performance-optimization-and-precautions-3f29)
-- [Building a Flutter VIN Scanner for Windows Using Dynamsoft Capture Vision C++ SDK](https://dev.to/yushulx/building-a-flutter-vin-scanner-for-windows-using-dynamsoft-capture-vision-c-sdk-4n18)
-- [HarmonyOS Next关键资产存储开发：性能优化与注意事项](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-nextguan-jian-zi-chan-cun-chu-kai-fa-xing-neng-you-hua-yu-zhu-yi-shi-xiang-559f)
-- [In-depth Analysis of the Security Assurance Mechanisms for Critical Asset Storage in HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/in-depth-analysis-of-the-security-assurance-mechanisms-for-critical-asset-storage-in-harmonyos-next-80f)
+- [How to Detect and Defend Against SQL Injection Attacks – Part 6: Case Studies and Lessons Learned](https://dev.to/trixsec/how-to-detect-and-defend-against-sql-injection-attacks-part-6-case-studies-and-lessons-learned-1ckk)
+- [How to Detect and Defend Against SQL Injection Attacks – Part 5: Future Trends and Emerging Challenges](https://dev.to/trixsec/how-to-detect-and-defend-against-sql-injection-attacks-part-5-future-trends-and-emerging-23k4)
+- [Create a sphere with evenly distributed points with three.js](https://dev.to/handsometan/create-a-sphere-with-evenly-distributed-points-with-threejs-17no)
+- [Day 1: Historian Hysteria | Advent of Code 2024 | Swift | 中文](https://dev.to/vc7/day-1-historian-hysteria-advent-of-code-2024-swift-zhong-wen-19g9)
+- [[Boost]](https://dev.to/ross/-flg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
