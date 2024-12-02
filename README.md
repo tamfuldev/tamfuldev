@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Scalable and Cost-Efficient SaaS: The Architecture Behind Fitly Space](https://dev.to/lotfijb/building-scalable-and-cost-efficient-saas-the-architecture-behind-fitly-space-5bj7)
-- [Just-in-Time Database Access](https://dev.to/bytebase/just-in-time-database-access-4imp)
-- [Power Automate - Handling XML](https://dev.to/wyattdave/power-automate-handling-xml-4j34)
-- [🚀 Crash Course: Terraform Basics for Freshers](https://dev.to/devops_descent/crash-course-terraform-basics-for-freshers-1npi)
-- [Can anyone explain how to install an API from JSON/Specs? LOL](https://dev.to/tyler_scafidi/can-anyone-explain-how-to-install-an-api-from-jsonspecs-lol-5hc9)
+- [Boost MySQL Performance with Data Partitioning](https://dev.to/dbvismarketing/boost-mysql-performance-with-data-partitioning-4n33)
+- [Color Palette is served with ShadCn Theme Editor](https://dev.to/giuliano1993/color-palette-is-served-with-shadcn-theme-editor-1jjc)
+- [Best Practices for Developing and Integrating REST APIs into Web Applications](https://dev.to/adityabhuyan/best-practices-for-developing-and-integrating-rest-apis-into-web-applications-59nl)
+- [Understanding Forward Proxy and Reverse Proxy](https://dev.to/swiftproxy9572/understanding-forward-proxy-and-reverse-proxy-5h7c)
+- [LLM Evaluation: Which LLM to use for developing a personal assistant?](https://dev.to/admantium/llm-evaluation-which-llm-to-use-for-developing-a-personal-assistant-bol)
 <!-- BLOG-POST-LIST:END -->
 
 ---
