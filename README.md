@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m glad you wrote this, now I won&#39;t regret not knowing this since im so GREEN...](https://dev.to/gremlinmaster/im-glad-you-wrote-this-now-i-wont-regret-not-knowing-this-since-im-so-green-3255)
-- [Introduction to Amazon S3](https://dev.to/elu_olawale/introduction-to-amazon-s3-3g26)
-- [Automated Alerts for High CPU Utilization: Real-Time Email Notifications with Instance Details](https://dev.to/piyush_desai_bddc94d674ad/automated-alerts-for-high-cpu-utilization-real-time-email-notifications-with-instance-details-21e)
-- [Driving Umbraco&#39;s dictionary to the edge &lpar;of your system&rpar;](https://dev.to/d_inventor/driving-umbracos-dictionary-to-the-edge-of-your-system-15h9)
-- [What is an Amazon Data API and How Does It Work?](https://dev.to/syphoon_ef9378/what-is-an-amazon-data-api-and-how-does-it-work-2e71)
+- [Building Scalable and Cost-Efficient SaaS: The Architecture Behind Fitly Space](https://dev.to/lotfijb/building-scalable-and-cost-efficient-saas-the-architecture-behind-fitly-space-5bj7)
+- [Just-in-Time Database Access](https://dev.to/bytebase/just-in-time-database-access-4imp)
+- [Power Automate - Handling XML](https://dev.to/wyattdave/power-automate-handling-xml-4j34)
+- [🚀 Crash Course: Terraform Basics for Freshers](https://dev.to/devops_descent/crash-course-terraform-basics-for-freshers-1npi)
+- [Can anyone explain how to install an API from JSON/Specs? LOL](https://dev.to/tyler_scafidi/can-anyone-explain-how-to-install-an-api-from-jsonspecs-lol-5hc9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
