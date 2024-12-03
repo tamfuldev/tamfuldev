@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Make Your Vite Project LLM-Friendly with vite-plugin-llms](https://dev.to/sascha_seniuk_96d402e6451/make-your-vite-project-llm-friendly-with-vite-plugin-llms-4k3p)
-- [How to Ensure Stable Website Performance with a Large Amount of Interactive Content and High Traffic?](https://dev.to/l1amcarter/how-to-ensure-stable-website-performance-with-a-large-amount-of-interactive-content-and-high-1ij6)
-- [Why Are So Many Programmers Drawn to Religion? A Curious Exploration](https://dev.to/high_octane/why-are-so-many-programmers-drawn-to-religion-a-curious-exploration-57cn)
-- [11+ Years in Fullstack Development: Open to Exciting Roles!](https://dev.to/gkhan205/11-years-in-fullstack-development-open-to-exciting-roles-5832)
-- [The Big Lie AI Vendors Keep Telling You](https://dev.to/builderio/the-big-lie-ai-vendors-keep-telling-you-2f2k)
+- [Tesla Optimus showed off new hands](https://dev.to/devsk001/tesla-optimus-showed-off-new-hands-1d49)
+- [What are some advanced array methods in JavaScript?](https://dev.to/hexa-home/what-are-some-advanced-array-methods-in-javascript-4e8d)
+- [🚀 Your Daily Crypto Job Digest For 03 December!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-03-december-6p5)
+- [Kubernetes CRDs: The Backbone of Kubernetes Extensibility](https://dev.to/jorgecontreras/kubernetes-crds-the-backbone-of-kubernetes-extensibility-pha)
+- [Testing Payment Gateways in BFSI Apps: A Comprehensive Guide](https://dev.to/abhayit2000/testing-payment-gateways-in-bfsi-apps-a-comprehensive-guide-2ddm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
