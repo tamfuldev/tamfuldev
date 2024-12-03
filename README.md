@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I hit 20K followers last night 🙌](https://dev.to/best_codes/i-hit-20k-followers-last-night-24md)
-- [Database Management in the cloud &lpar;RDS, DynamoDB&rpar;](https://dev.to/574n13y/database-management-in-the-cloud-rds-dynamodb-l2j)
-- [Everything you need to know about Next.JS to start a new application today](https://dev.to/layssadev/everything-you-need-to-know-about-nextjs-to-start-a-new-application-today-10ib)
-- [First glance at C# from JS perspective](https://dev.to/zhenni_wu_28d825b0254dcde/first-glance-at-c-from-js-perspective-516o)
-- [51/365 | ¥10M Job Challenge - Don&#39;t take things too seriously](https://dev.to/kameken100/51365-y10m-job-challenge-dont-take-things-too-seriously-3cid)
+- [Exploring Decorators in Python](https://dev.to/atharvgyan/exploring-decorators-in-python-1pea)
+- [Introduction to Amazon EC2 and Creating an EC2 Instance in AWS](https://dev.to/trivikram_majjari_ebcf278/introduction-to-amazon-ec2-and-creating-an-ec2-instance-in-aws-1el5)
+- [Verify your Bluesky or Mastodon account on your own domain, with a free website!](https://dev.to/glitch/verify-your-bluesky-or-mastodon-account-on-your-own-domain-with-a-free-website-1jfn)
+- [Part 4: Cross-Site Scripting &lpar;XSS&rpar; Series - Stored XSS – A Deep Dive](https://dev.to/trixsec/part-4-cross-site-scripting-xss-series-stored-xss-a-deep-dive-2a72)
+- [C and C++ are really so fast?](https://dev.to/taqmuraz/c-and-c-are-really-so-fast-5gf1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
