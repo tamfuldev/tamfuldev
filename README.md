@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 3: What even is Docker? Is live! Check it out, tomorrow we are starting to get our hands dirty:&rpar;](https://dev.to/code42cate/day-3-what-even-is-docker-is-live-check-it-out-tomorrow-we-are-starting-to-get-our-hands-dirty-1b5g)
-- [Day 3: What is Docker and why should I care?](https://dev.to/code42cate/day-3-what-is-docker-and-why-should-i-care-43b0)
-- [General AWS Terminology](https://dev.to/nyong_godwill_e7dfb3c04a7/general-aws-terminology-6cf)
-- [🚀 Hammerspace Supercharges the Linux Kernel! 🐧](https://dev.to/eshanized/hammerspace-supercharges-the-linux-kernel-2ogh)
-- [OOP Bootcamp 3: Classes and Objects 1, The Basics](https://dev.to/yeehawtoast/oop-bootcamp-3-classes-and-objects-1-the-basics-1hla)
+- [Thanks again everyone :D](https://dev.to/best_codes/thanks-again-everyone-d-2m7o)
+- [Introducción a la Infraestructura como Código &lpar;IaC&rpar; con AWS CloudFormation](https://dev.to/briansuarezsantiago/introduccion-a-la-infraestructura-como-codigo-iac-con-aws-cloudformation-499g)
+- [Building a Real-Time Financial Market Analyst API with LLMs](https://dev.to/carterharrison/building-a-real-time-financial-market-analyst-api-with-llms-3bml)
+- [⛈️ Cloud Penetration Testing: A Practical Guide to Securing Your Cloud Infrastructure](https://dev.to/nolunchbreaks_22/cloud-penetration-testing-a-practical-guide-to-securing-your-cloud-infrastructure-554c)
+- [Mastering Salesforce Annotations: A Guide to Smarter Development](https://dev.to/jamie4190/mastering-salesforce-annotations-a-guide-to-smarter-development-mo0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
