@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Your First Server with Terraform](https://dev.to/etiifiok_udofiah_eb450b4b/deploying-your-first-server-with-terraform-4i5m)
-- [Computer Vision Meetup: Do It Yourself LLMs](https://dev.to/voxel51/computer-vision-meetup-do-it-yourself-llms-1pp2)
-- [NeurIPS 2024 - What Matters When Building Vision Language Models](https://dev.to/voxel51/neurips-2024-what-matters-when-building-vision-language-models-1i3i)
-- [Adobe XD vs Figma: A Comprehensive Comparison for Designers](https://dev.to/codeparrot/adobe-xd-vs-figma-a-comprehensive-comparison-for-designers-3ioe)
-- [Level Up Your GitHub Profile: A Complete Guide to Stand Out and Shine](https://dev.to/keshabkjha/level-up-your-github-profile-a-complete-guide-to-stand-out-and-shine-5f5p)
+- [Day 3: What even is Docker? Is live! Check it out, tomorrow we are starting to get our hands dirty:&rpar;](https://dev.to/code42cate/day-3-what-even-is-docker-is-live-check-it-out-tomorrow-we-are-starting-to-get-our-hands-dirty-1b5g)
+- [Day 3: What is Docker and why should I care?](https://dev.to/code42cate/day-3-what-is-docker-and-why-should-i-care-43b0)
+- [General AWS Terminology](https://dev.to/nyong_godwill_e7dfb3c04a7/general-aws-terminology-6cf)
+- [🚀 Hammerspace Supercharges the Linux Kernel! 🐧](https://dev.to/eshanized/hammerspace-supercharges-the-linux-kernel-2ogh)
+- [OOP Bootcamp 3: Classes and Objects 1, The Basics](https://dev.to/yeehawtoast/oop-bootcamp-3-classes-and-objects-1-the-basics-1hla)
 <!-- BLOG-POST-LIST:END -->
 
 ---
