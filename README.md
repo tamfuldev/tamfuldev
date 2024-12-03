@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SQL,Classify time-close events into a group and assign them a number #eg84](https://dev.to/esproc_spl/sqlclassify-time-close-events-into-a-group-and-assign-them-a-number-eg84-1302)
-- [Run a Local 💻 MySQL 🐬 Instance](https://dev.to/bytebase/run-a-local-mysql-instance-5d52)
-- [Trying out Boost!!](https://dev.to/jgdevelops/-7hm)
-- [How to Print the Last Field in Bash with awk](https://dev.to/pkutaj/how-to-print-the-last-field-in-bash-with-awk-24cl)
-- [Module Bundlers Explained: Webpack, Rollup, Parcel, and Snowpack with Examples](https://dev.to/renukapatil/module-bundlers-explained-webpack-rollup-parcel-and-snowpack-with-examples-4j5)
+- [405 Error: Solution](https://dev.to/devmercy/405-error-solution-5cc9)
+- [Les astuces derrière « l’Invasion du HTML mutant »](https://dev.to/onepoint/les-astuces-derriere-linvasion-du-html-mutant--1j8)
+- [Modernizing Legacy Systems in Healthcare: A Complete Guide](https://dev.to/evelynwyatt/modernizing-legacy-systems-in-healthcare-a-complete-guide-mm5)
+- [Exploring AWS Networking and Content Delivery Services](https://dev.to/enitanogun1/exploring-aws-networking-and-content-delivery-services-5ck0)
+- [Deploy your bolt.new app to Netlify](https://dev.to/netlify/deploy-your-boltnew-app-to-netlify-1k54)
 <!-- BLOG-POST-LIST:END -->
 
 ---
