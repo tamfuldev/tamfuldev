@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Really happy to see this get picked up from the community 🤗](https://dev.to/jess/really-happy-to-see-this-get-picked-up-from-the-community-7mg)
-- [TP3 Teste API](https://dev.to/augusto_rajao/tp3-teste-api-27ik)
-- [Why Rust Is Worth Using on the Backend](https://dev.to/youssef_houmazen_840431c7/why-rust-is-worth-using-on-the-backend-bkh)
-- [What’s on the Horizon for AI in Healthcare?](https://dev.to/raftlabs/whats-on-the-horizon-for-ai-in-healthcare-4k2a)
-- [Log Analysis | Compromised wordpress | Privilege Escalation | Blue team labs online](https://dev.to/mihika/log-analysis-compromised-wordpress-privilege-escalation-blue-team-labs-online-20ic)
+- [Deploying Your First Server with Terraform](https://dev.to/etiifiok_udofiah_eb450b4b/deploying-your-first-server-with-terraform-4i5m)
+- [Computer Vision Meetup: Do It Yourself LLMs](https://dev.to/voxel51/computer-vision-meetup-do-it-yourself-llms-1pp2)
+- [NeurIPS 2024 - What Matters When Building Vision Language Models](https://dev.to/voxel51/neurips-2024-what-matters-when-building-vision-language-models-1i3i)
+- [Adobe XD vs Figma: A Comprehensive Comparison for Designers](https://dev.to/codeparrot/adobe-xd-vs-figma-a-comprehensive-comparison-for-designers-3ioe)
+- [Level Up Your GitHub Profile: A Complete Guide to Stand Out and Shine](https://dev.to/keshabkjha/level-up-your-github-profile-a-complete-guide-to-stand-out-and-shine-5f5p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
