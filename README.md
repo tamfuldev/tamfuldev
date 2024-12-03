@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Decorators in Python](https://dev.to/atharvgyan/exploring-decorators-in-python-1pea)
-- [Introduction to Amazon EC2 and Creating an EC2 Instance in AWS](https://dev.to/trivikram_majjari_ebcf278/introduction-to-amazon-ec2-and-creating-an-ec2-instance-in-aws-1el5)
-- [Verify your Bluesky or Mastodon account on your own domain, with a free website!](https://dev.to/glitch/verify-your-bluesky-or-mastodon-account-on-your-own-domain-with-a-free-website-1jfn)
-- [Part 4: Cross-Site Scripting &lpar;XSS&rpar; Series - Stored XSS – A Deep Dive](https://dev.to/trixsec/part-4-cross-site-scripting-xss-series-stored-xss-a-deep-dive-2a72)
-- [C and C++ are really so fast?](https://dev.to/taqmuraz/c-and-c-are-really-so-fast-5gf1)
+- [Understanding Python Syntax and Variables](https://dev.to/jeremycmorgan/understanding-python-syntax-and-variables-1m0m)
+- [0.4 - week - 2 - Progress](https://dev.to/krinskumar/04-week-2-progress-1i3d)
+- [Blazor and Single-Page Applications &lpar;SPA&rpar;](https://dev.to/dazevedo/blazor-and-single-page-applications-spa-5d8h)
+- [Matt Garman keynote takeways](https://dev.to/martinnanchev/matt-garman-keynote-takeways-3hjc)
+- [InstaMesh: Transforming Still Images into Dynamic Videos](https://dev.to/shannonlal/instamesh-transforming-still-images-into-dynamic-videos-2le0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
