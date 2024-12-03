@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4hna)
-- [Clean Code: Principles and Patterns for Scalable Systems](https://dev.to/yasmine_ddec94f4d4/clean-code-principles-and-patterns-for-scalable-systems-236k)
-- [Playwright and Chrome Browser Testing in Heroku](https://dev.to/alvinslee/playwright-and-chrome-browser-testing-in-heroku-37m3)
-- [Streamlining Microservices Testing With Platform Engineering](https://dev.to/signadot/streamlining-microservices-testing-with-platform-engineering-44i5)
-- [Rely.io October 2024 Product Update Roundup](https://dev.to/t1agob/relyio-october-2024-product-update-roundup-1doj)
+- [I hit 20K followers last night 🙌](https://dev.to/best_codes/i-hit-20k-followers-last-night-24md)
+- [Database Management in the cloud &lpar;RDS, DynamoDB&rpar;](https://dev.to/574n13y/database-management-in-the-cloud-rds-dynamodb-l2j)
+- [Everything you need to know about Next.JS to start a new application today](https://dev.to/layssadev/everything-you-need-to-know-about-nextjs-to-start-a-new-application-today-10ib)
+- [First glance at C# from JS perspective](https://dev.to/zhenni_wu_28d825b0254dcde/first-glance-at-c-from-js-perspective-516o)
+- [51/365 | ¥10M Job Challenge - Don&#39;t take things too seriously](https://dev.to/kameken100/51365-y10m-job-challenge-dont-take-things-too-seriously-3cid)
 <!-- BLOG-POST-LIST:END -->
 
 ---
