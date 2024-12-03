@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Digital Dungeon Master with Semantic Kernel, C#, and Azure](https://dev.to/leading-edje/building-a-digital-dungeon-master-with-semantic-kernel-c-and-azure-cgk)
-- [The 7 Best AI Tools to Help Students Learn Anything Faster](https://dev.to/timesofasi/the-7-best-ai-tools-to-help-students-learn-anything-faster-2oel)
-- [#109 — Sorting of Row-Based Data — by the Combination of Multiple Columns](https://dev.to/judith677/109-sorting-of-row-based-data-by-the-combination-of-multiple-columns-142j)
-- [𝗦𝗲𝗿𝘃𝗲𝗿-𝗦𝗶𝗱𝗲 𝗥𝗲𝗻𝗱𝗲𝗿𝗶𝗻𝗴 𝘃𝘀 𝗖𝗹𝗶𝗲𝗻𝘁-𝗦𝗶𝗱𝗲 𝗥𝗲𝗻𝗱𝗲𝗿𝗶𝗻𝗴 : 𝗪𝗵𝗶𝗰𝗵 𝗢𝗻𝗲 𝗦𝗵𝗼𝘂𝗹𝗱 𝗪𝗲 𝗖𝗵𝗼𝗼𝘀𝗲? 🤔](https://dev.to/apurvupadhyay/--3j8a)
-- [Facade Pattern](https://dev.to/sota_333ad4b72095606ab40c/facade-pattern-1efk)
+- [Part 1: Cross-Site Scripting &lpar;XSS&rpar; Series - Introduction to Cross-Site Scripting &lpar;XSS&rpar;](https://dev.to/trixsec/part-1-introduction-to-cross-site-scripting-xss-22g9)
+- [Setting Boundaries: Protecting Your Time and Focus ⏳](https://dev.to/harrisonphan9/setting-boundaries-protecting-your-time-and-focus-3b6d)
+- [10 Best JavaScript Minifier Tools to Boost Website Speed](https://dev.to/codeitbro/10-best-javascript-minifier-tools-to-boost-website-speed-1jk1)
+- [This is a simple app to capture your voice notes that auto transcribes the recordings, and optionally refines the transcriptions, using AI. This is a detailed guide on how to use Cloudflare Workers AI, along with other services to build this app.](https://dev.to/ra_jeeves/this-is-a-simple-app-to-capture-your-voice-notes-that-auto-transcribes-the-recordings-and-fk3)
+- [8 Best Mass Mailing Service Providers To Hit Their Inbox in 2025](https://dev.to/sam_devid_65bbbe34ab06c1a/8-best-mass-mailing-service-providers-to-hit-their-inbox-in-2025-217o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
