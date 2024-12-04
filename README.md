@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Testing Different Navigation Options with Compose](https://dev.to/eevajonnapanula/testing-different-navigation-options-with-compose-4055)
-- [SOLID Design Principles](https://dev.to/mofshamim/solid-design-principles-3jjg)
-- [Why Hybrid is Best for IDPs](https://dev.to/roadie/why-hybrid-is-best-for-idps-53k7)
-- [👑 UX Research Gold, HTML Secrets &amp; 1500+ Free Templates!](https://dev.to/adam/ux-research-gold-html-secrets-1500-free-templates-14h2)
-- [Mastering AWS Management &amp; Governance: Tools for a Seamless Cloud Journey](https://dev.to/omobolaji_25/mastering-aws-management-governance-tools-for-a-seamless-cloud-journey-57im)
+- [End Of Series: Mastering Cross-Site Scripting &lpar;XSS&rpar;](https://dev.to/trixsec/end-of-series-mastering-cross-site-scripting-xss-328c)
+- [Part 10: Cross-Site Scripting &lpar;XSS&rpar; Series - The Future of XSS: Evolving Techniques and Defenses.](https://dev.to/trixsec/part-10-cross-site-scripting-xss-series-the-future-of-xss-evolving-techniques-and-defenses-3835)
+- [Part 9: Cross-Site Scripting &lpar;XSS&rpar; Series - Real-World XSS Case Studies – Notable Breaches and Lessons Learned](https://dev.to/trixsec/part-9-cross-site-scripting-xss-series-real-world-xss-case-studies-notable-breaches-and-4d9c)
+- [2825. Make String a Subsequence Using Cyclic Increments](https://dev.to/mdarifulhaque/2825-make-string-a-subsequence-using-cyclic-increments-4c8a)
+- [You Have to Write - using real paper](https://dev.to/wagner_souto_7a6c4344b0ea/you-have-to-write-using-real-paper-5h4d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
