@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Monorepos vs Polyrepos: Which One Fits Your Workflow?](https://dev.to/web_dev-usman/monorepos-vs-polyrepos-which-one-fits-your-workflow-2agj)
-- [The Role of Explainable AI in Building Trust and Accountability](https://dev.to/jottyjohn/the-role-of-explainable-ai-in-building-trust-and-accountability-4j4p)
-- [Dev Drive&#39;s shortcut guide](https://dev.to/ruxozheng/dev-drives-shortcut-guide-3c7a)
-- [Web Components: Custom Elements and Shadow DOM in Action](https://dev.to/tianyaschool/web-components-custom-elements-and-shadow-dom-in-action-2ekd)
-- [The Ultimate Guide to Choosing Mobile Devices for Testing](https://dev.to/berthaw82414312/the-ultimate-guide-to-choosing-mobile-devices-for-testing-1pin)
+- [useMemo usage in Documenso, an open-source Docusign alternative.](https://dev.to/thinkthroo/usememo-usage-in-documenso-an-open-source-docusign-alternative-49d6)
+- [Building a Personal Portfolio Website Using HTML, CSS, and JavaScript ✨💻](https://dev.to/info_generalhazedawn_a3d/building-a-personal-portfolio-website-using-html-css-and-javascript-5d3e)
+- [Must Know Algorithms.](https://dev.to/nozibul_islam_113b1d5334f/must-know-algorithms-3735)
+- [L4-L7 Performance: Comparing LoxiLB, MetalLB, NGINX, HAProxy](https://dev.to/nikhilmalik/l4-l7-performance-comparing-loxilb-metallb-nginx-haproxy-1eh0)
+- [The never ending journey to find perfect home sharing solutions 🌐📱💻...](https://dev.to/nalayak_engineer/the-never-ending-journey-to-find-perfect-home-sharing-solutions-1g07)
 <!-- BLOG-POST-LIST:END -->
 
 ---
