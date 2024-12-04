@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🗺 Trabajo remoto](https://dev.to/oscareduardolp6/trabajo-remoto-196)
-- [Strengthening Email Security: A Comprehensive Guide to SPF, DKIM, and DMARC Implementation](https://dev.to/roboword/strengthening-email-security-a-comprehensive-guide-to-spf-dkim-and-dmarc-implementation-3cm5)
-- [Recursive Development: The Hidden Cycle Hindering Progress](https://dev.to/extinctsion/recursive-development-the-hidden-cycle-hindering-progress-5eln)
-- [Reactjs Tutorial : Infinite scrolling with Intersection Observer.](https://dev.to/easyvipin/reactjs-tutorial-infinite-scrolling-with-intersection-observer-kp3)
-- [Simplify Form Validation with FormGuardJS: A Lightweight and Flexible Solution](https://dev.to/formguardjs/simplify-form-validation-with-formguardjs-a-lightweight-and-flexible-solution-4a6i)
+- [Enhancing Application Security: Implementing Authorization with OpenFGA](https://dev.to/afzal442/enhancing-application-security-implementing-authorization-with-openfga-38mh)
+- [Database Learning Resources: Your Roadmap to Data Mastery](https://dev.to/getvm/database-learning-resources-your-roadmap-to-data-mastery-29c1)
+- [Unpopular Opinion: TypeScript is Overrated &lpar;Or Is It?&rpar;](https://dev.to/balrajola/unpopular-opinion-typescript-is-overrated-or-is-it-o31)
+- [Resolving Dependency Error in a Next.js 15 and Payload CMS 3 Project](https://dev.to/ashujojo/resolving-dependency-error-in-a-nextjs-15-and-payload-cms-3-project-1dgo)
+- [Subquery in Oracle SQL](https://dev.to/mrcaption49/subquery-in-oracle-sql-47od)
 <!-- BLOG-POST-LIST:END -->
 
 ---
