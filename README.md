@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Code to Impact](https://dev.to/rajat-nayak/from-code-to-impact-4abn)
-- [Requesting camera and microphone permission in an Electron app](https://dev.to/tsudhishnair/requesting-camera-and-microphone-permission-in-an-electron-app-3n3b)
-- [TS Playground: Top Online Compilers for TypeScript Beginners](https://dev.to/codeparrot/ts-playground-top-online-compilers-for-typescript-beginners-56ol)
-- [Explaining donut like 5 years old Part-1](https://dev.to/bhjaipal/explaining-donut-like-5-years-old-part-1-58mc)
-- [Set Static IPv4 on AlmaLinux](https://dev.to/joshalmasin88/set-static-ipv4-on-almalinux-5dj8)
+- [Join us for the next Frontend Challenge: December Edition!](https://dev.to/devteam/join-us-for-the-next-frontend-challenge-december-edition-187c)
+- [How to Use PySpark for Machine Learning](https://dev.to/shittu_olumide_/how-to-use-pyspark-for-machine-learning-62l)
+- [How to setup the favicon of a React app](https://dev.to/philippe/how-to-setup-the-favicon-of-a-react-app-1em3)
+- [Email and Web Design Trends for 2025: A Guide for HTML and CSS Developers](https://dev.to/andrianv5/email-and-web-design-trends-for-2025-a-guide-for-html-and-css-developers-17ga)
+- [Comprehensive Bash System Monitoring Script: Technical Breakdown](https://dev.to/nlankwei5/comprehensive-bash-system-monitoring-script-technical-breakdown-2jko)
 <!-- BLOG-POST-LIST:END -->
 
 ---
