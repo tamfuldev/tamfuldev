@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [November Report on Apache SeaTunnel Community Development](https://dev.to/seatunnel/november-report-on-apache-seatunnel-community-development-1lfh)
-- [Mull It Over](https://dev.to/rmion/mull-it-over-58mc)
-- [Enhance Debugging in Swift with #file, #line, and #function](https://dev.to/annurdien/enhance-debugging-in-swift-with-file-line-and-function-4a5f)
-- [Scrapy Ja3改造](https://dev.to/dragon72463399/scrapy-ja3gai-zao-39g1)
-- [[Boost]](https://dev.to/ahmedadel/-2l8n)
+- [Day 4: ASCII Art Fonts 🖋️](https://dev.to/valeriavg/day-4-ascii-art-fonts-46kh)
+- [Welcome Thread - v305](https://dev.to/devteam/welcome-thread-v305-398)
+- [[Boost]](https://dev.to/govardhana/-49p0)
+- [How gRPC Works](https://dev.to/vipulkumarsviit/how-grpc-works-5c6h)
+- [Why I Built scrum.host: A Free Tool for Planning Poker and Retrospectives](https://dev.to/chandl/why-i-built-scrumhost-a-free-tool-for-planning-poker-and-retrospectives-27i6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
