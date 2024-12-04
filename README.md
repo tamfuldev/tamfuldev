@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Q Developer Tips: No.4 No AWS account needed](https://dev.to/aws/amazon-q-developer-tips-no4-no-aws-account-needed-12lm)
-- [Part 5: Cross-Site Scripting &lpar;XSS&rpar; Series - Reflected XSS – How It Works and How to Prevent It](https://dev.to/trixsec/part-5-cross-site-scripting-xss-series-reflected-xss-how-it-works-and-how-to-prevent-it-25p2)
-- [Supercharge TypeScript: Compiler-Assisted Tricks for Lightning-Fast Performance](https://dev.to/aaravjoshi/supercharge-typescript-compiler-assisted-tricks-for-lightning-fast-performance-4o9b)
-- [Top 10 Java Frameworks Every Dev Need to Know](https://dev.to/apilover/top-10-java-frameworks-every-dev-need-to-know-3c9f)
-- [VibeCheck: New Method Reveals Hidden Personality Differences Between AI Language Models](https://dev.to/mikeyoung44/vibecheck-new-method-reveals-hidden-personality-differences-between-ai-language-models-3eik)
+- [Building an actionable ⚡️ GitHub account with these open-source projects 👩🏻‍💻](https://dev.to/fast/building-an-actionable-github-account-with-these-open-source-projects-1fo3)
+- [Programmers&#39; workplaces always have a special vibe 😍](https://dev.to/itdevus/programmers-workplaces-always-have-a-special-vibe-2gal)
+- [How to deploy QwQ 32B Preview in the Cloud?](https://dev.to/nodeshiftcloud/how-to-deploy-qwq-32b-preview-in-the-cloud-3jh4)
+- [Creating an AWS CodeCommit Repository That Triggers Email Notifications.](https://dev.to/ameh_mathias/creating-an-aws-codecommit-repository-thattriggers-email-notifications-3jj3)
+- [Exploring the Potential of 5G in Android Apps 📱🚀](https://dev.to/hexadecimalsoftware/exploring-the-potential-of-5g-in-android-apps-1i72)
 <!-- BLOG-POST-LIST:END -->
 
 ---
