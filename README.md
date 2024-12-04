@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 4: ASCII Art Fonts 🖋️](https://dev.to/valeriavg/day-4-ascii-art-fonts-46kh)
-- [Welcome Thread - v305](https://dev.to/devteam/welcome-thread-v305-398)
-- [[Boost]](https://dev.to/govardhana/-49p0)
-- [How gRPC Works](https://dev.to/vipulkumarsviit/how-grpc-works-5c6h)
-- [Why I Built scrum.host: A Free Tool for Planning Poker and Retrospectives](https://dev.to/chandl/why-i-built-scrumhost-a-free-tool-for-planning-poker-and-retrospectives-27i6)
+- [Monorepos vs Polyrepos: Which One Fits Your Workflow?](https://dev.to/web_dev-usman/monorepos-vs-polyrepos-which-one-fits-your-workflow-2agj)
+- [The Role of Explainable AI in Building Trust and Accountability](https://dev.to/jottyjohn/the-role-of-explainable-ai-in-building-trust-and-accountability-4j4p)
+- [Dev Drive&#39;s shortcut guide](https://dev.to/ruxozheng/dev-drives-shortcut-guide-3c7a)
+- [Web Components: Custom Elements and Shadow DOM in Action](https://dev.to/tianyaschool/web-components-custom-elements-and-shadow-dom-in-action-2ekd)
+- [The Ultimate Guide to Choosing Mobile Devices for Testing](https://dev.to/berthaw82414312/the-ultimate-guide-to-choosing-mobile-devices-for-testing-1pin)
 <!-- BLOG-POST-LIST:END -->
 
 ---
