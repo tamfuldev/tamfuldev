@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Join us for the next Frontend Challenge: December Edition!](https://dev.to/devteam/join-us-for-the-next-frontend-challenge-december-edition-187c)
-- [How to Use PySpark for Machine Learning](https://dev.to/shittu_olumide_/how-to-use-pyspark-for-machine-learning-62l)
-- [How to setup the favicon of a React app](https://dev.to/philippe/how-to-setup-the-favicon-of-a-react-app-1em3)
-- [Email and Web Design Trends for 2025: A Guide for HTML and CSS Developers](https://dev.to/andrianv5/email-and-web-design-trends-for-2025-a-guide-for-html-and-css-developers-17ga)
-- [Comprehensive Bash System Monitoring Script: Technical Breakdown](https://dev.to/nlankwei5/comprehensive-bash-system-monitoring-script-technical-breakdown-2jko)
+- [🗺 Trabajo remoto](https://dev.to/oscareduardolp6/trabajo-remoto-196)
+- [Strengthening Email Security: A Comprehensive Guide to SPF, DKIM, and DMARC Implementation](https://dev.to/roboword/strengthening-email-security-a-comprehensive-guide-to-spf-dkim-and-dmarc-implementation-3cm5)
+- [Recursive Development: The Hidden Cycle Hindering Progress](https://dev.to/extinctsion/recursive-development-the-hidden-cycle-hindering-progress-5eln)
+- [Reactjs Tutorial : Infinite scrolling with Intersection Observer.](https://dev.to/easyvipin/reactjs-tutorial-infinite-scrolling-with-intersection-observer-kp3)
+- [Simplify Form Validation with FormGuardJS: A Lightweight and Flexible Solution](https://dev.to/formguardjs/simplify-form-validation-with-formguardjs-a-lightweight-and-flexible-solution-4a6i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
