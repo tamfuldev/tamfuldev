@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stanford&#39;s Hidden Gem: A Deep Dive into Differential Geometry for Computer Scientists](https://dev.to/getvm/stanfords-hidden-gem-a-deep-dive-into-differential-geometry-for-computer-scientists-1nh9)
-- [Kho tài liệu dự án &lpar;cả docs và code&rpar;](https://dev.to/longtth/kho-tai-lieu-du-an-ca-docs-va-code-ca6)
-- [The Future of Data Lies in Transformer Models vs. Big Data Transformations](https://dev.to/seatunnel/the-future-of-data-lies-in-transformer-models-vs-big-data-transformations-13i5)
-- [Fly.io, CI/CD with Github Actions](https://dev.to/jarodsim/flyio-cicd-with-github-actions-50em)
-- [Building DuitWise: A Personal Financial Management Solution for Malaysia](https://dev.to/irfanghapar/building-duitwise-a-personal-financial-management-solution-for-malaysia-8n1)
+- [November Report on Apache SeaTunnel Community Development](https://dev.to/seatunnel/november-report-on-apache-seatunnel-community-development-1lfh)
+- [Mull It Over](https://dev.to/rmion/mull-it-over-58mc)
+- [Enhance Debugging in Swift with #file, #line, and #function](https://dev.to/annurdien/enhance-debugging-in-swift-with-file-line-and-function-4a5f)
+- [Scrapy Ja3改造](https://dev.to/dragon72463399/scrapy-ja3gai-zao-39g1)
+- [[Boost]](https://dev.to/ahmedadel/-2l8n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
