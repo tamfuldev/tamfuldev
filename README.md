@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Custom “Read More” to Clipped Lines of Text with JavaScript – And Full Custom Code for You](https://dev.to/tomj/custom-read-more-to-clipped-lines-of-text-with-javascript-and-full-custom-code-for-you-593g)
-- [[Boost]](https://dev.to/franky47/-1dl8)
-- [Exploring Machine Learning for Credit Card Fraud Detection](https://dev.to/ogambakerubo/exploring-machine-learning-for-credit-card-fraud-detection-27o4)
-- [The Progress](https://dev.to/aldrin312/the-progress-kd2)
-- [Por onde anda o WPF?](https://dev.to/darioprazeres/por-onde-anda-o-wpf-3he)
+- [#110 — Sorting of Row-Based Data — by Expression](https://dev.to/judith677/110-sorting-of-row-based-data-by-expression-1pnf)
+- [Unlocking Aurora DSQL with AWS Lambda: A Seamless Solution for Serverless, Scalable, and Event-Driven Architectures](https://dev.to/aws-builders/unlocking-aurora-dsql-with-aws-lambda-a-seamless-solution-for-serverless-scalable-and-3h4o)
+- [AWS Serverless and Generative AI with Lambda and Bedrock!](https://dev.to/bhatiagirish/aws-serverless-and-generative-ai-with-lambda-and-bedrock-5fnl)
+- [Thank You Dev.to ❤](https://dev.to/hanzla-baig/thank-you-devto-2l8f)
+- [Frist program](https://dev.to/elow/frist-program-5chk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
