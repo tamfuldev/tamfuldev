@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [#110 — Sorting of Row-Based Data — by Expression](https://dev.to/judith677/110-sorting-of-row-based-data-by-expression-1pnf)
-- [Unlocking Aurora DSQL with AWS Lambda: A Seamless Solution for Serverless, Scalable, and Event-Driven Architectures](https://dev.to/aws-builders/unlocking-aurora-dsql-with-aws-lambda-a-seamless-solution-for-serverless-scalable-and-3h4o)
-- [AWS Serverless and Generative AI with Lambda and Bedrock!](https://dev.to/bhatiagirish/aws-serverless-and-generative-ai-with-lambda-and-bedrock-5fnl)
-- [Thank You Dev.to ❤](https://dev.to/hanzla-baig/thank-you-devto-2l8f)
-- [Frist program](https://dev.to/elow/frist-program-5chk)
+- [Stanford&#39;s Hidden Gem: A Deep Dive into Differential Geometry for Computer Scientists](https://dev.to/getvm/stanfords-hidden-gem-a-deep-dive-into-differential-geometry-for-computer-scientists-1nh9)
+- [Kho tài liệu dự án &lpar;cả docs và code&rpar;](https://dev.to/longtth/kho-tai-lieu-du-an-ca-docs-va-code-ca6)
+- [The Future of Data Lies in Transformer Models vs. Big Data Transformations](https://dev.to/seatunnel/the-future-of-data-lies-in-transformer-models-vs-big-data-transformations-13i5)
+- [Fly.io, CI/CD with Github Actions](https://dev.to/jarodsim/flyio-cicd-with-github-actions-50em)
+- [Building DuitWise: A Personal Financial Management Solution for Malaysia](https://dev.to/irfanghapar/building-duitwise-a-personal-financial-management-solution-for-malaysia-8n1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
