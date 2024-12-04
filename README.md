@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [HNSW in vector database](https://dev.to/quantumtrail/hnsw-in-vector-database-13kk)
-- [Transformation numérique, quel impact sur la sécurité des entreprises ?](https://dev.to/onepoint/transformation-numerique-quel-impact-sur-la-securite-des-entreprises--3mom)
-- [GraalVM: The Swiss Army Knife of the JVM World](https://dev.to/wittedtech-by-harshit/graalvm-the-swiss-army-knife-of-the-jvm-world-2h9a)
-- [How to Nail Technical AI Questions in Interviews &lpar;2025 Edition&rpar;](https://dev.to/vikas76/how-to-nail-technical-ai-questions-in-interviews-2025-edition-3263)
-- [从URL中解析出域名](https://dev.to/dragon72463399/cong-urlzhong-jie-xi-chu-yu-ming-1pla)
+- [Amazon Q Developer Tips: No.4 No AWS account needed](https://dev.to/aws/amazon-q-developer-tips-no4-no-aws-account-needed-12lm)
+- [Part 5: Cross-Site Scripting &lpar;XSS&rpar; Series - Reflected XSS – How It Works and How to Prevent It](https://dev.to/trixsec/part-5-cross-site-scripting-xss-series-reflected-xss-how-it-works-and-how-to-prevent-it-25p2)
+- [Supercharge TypeScript: Compiler-Assisted Tricks for Lightning-Fast Performance](https://dev.to/aaravjoshi/supercharge-typescript-compiler-assisted-tricks-for-lightning-fast-performance-4o9b)
+- [Top 10 Java Frameworks Every Dev Need to Know](https://dev.to/apilover/top-10-java-frameworks-every-dev-need-to-know-3c9f)
+- [VibeCheck: New Method Reveals Hidden Personality Differences Between AI Language Models](https://dev.to/mikeyoung44/vibecheck-new-method-reveals-hidden-personality-differences-between-ai-language-models-3eik)
 <!-- BLOG-POST-LIST:END -->
 
 ---
