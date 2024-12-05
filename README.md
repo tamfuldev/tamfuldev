@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [React](https://dev.to/hikolakita/react-2iml)
-- [How to Install NGINX on Ubuntu 22.04](https://dev.to/nodeshiftcloud/how-to-install-nginx-on-ubuntu-2204-gki)
-- [Auth &amp; User_Manage with Prisma and other...](https://dev.to/winzent/auth-usermanage-with-prisma-and-other-53g0)
-- [Using Docker with Laravel Sail](https://dev.to/snehalkadwe/using-docker-with-laravel-sail-29hp)
-- [Java day 1](https://dev.to/yaswanth_krishna_81faee1e/java-day-1-5l1)
+- [The First Project Built with Lithe Is Now Live!](https://dev.to/lithephp/the-first-project-built-with-lithe-is-now-live-26h3)
+- [O Primeiro Projeto Criado com Lithe Já Está no Ar!](https://dev.to/lithephp/o-primeiro-projeto-criado-com-lithe-ja-esta-no-ar-46b1)
+- [A guide to two-way binding in Vue](https://dev.to/logrocket/a-guide-to-two-way-binding-in-vue-559b)
+- [Cloud Computing Platforms: AWS, Azure, Google Cloud](https://dev.to/rednexie/cloud-computing-platforms-aws-azure-google-cloud-23hg)
+- [How to Get a List of User Profiles and Account Names in Windows 11?](https://dev.to/win11verse/how-to-get-a-list-of-user-profiles-and-account-names-in-windows-11-35al)
 <!-- BLOG-POST-LIST:END -->
 
 ---
