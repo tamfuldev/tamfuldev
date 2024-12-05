@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Better Mocking Makes Building APIs Smoother and Speed Up Development](https://dev.to/getambassador2024/how-better-mocking-makes-building-apis-smoother-and-speed-up-development-3hlh)
-- [What is SQL Injection and Know the SQLI Attacks, Prevention and Mitigation](https://dev.to/sign_my_code/what-is-sql-injection-and-know-the-sqli-attacks-prevention-and-mitigation-1l8j)
-- [Understanding the JavaScript Event Loop in 5 Minutes 🕒✨](https://dev.to/bst53/understanding-the-javascript-event-loop-in-5-minutes-2dii)
-- [How Can I Find My Way In Web Development and Product Development ?](https://dev.to/amirreza_monfared_7affd5d/how-can-i-find-my-way-in-web-development-and-product-development--2leg)
-- [Looking for a volunteer OOS contributor? I’m Here to Help!](https://dev.to/perisicnikola37/looking-for-a-volunteer-oos-contributor-im-here-to-help-d4l)
+- [Les péchés capitaux du Dossier d&#39;Architecture Technique](https://dev.to/onepoint/les-peches-capitaux-du-dossier-darchitecture-technique-111p)
+- [Why Large Tables Slow Down Your Database](https://dev.to/dbvismarketing/why-large-tables-slow-down-your-database-75b)
+- [Exploring AWS Management &amp; Governance Services for Modern Cloud Operations](https://dev.to/enitanogun1/exploring-aws-management-governance-services-for-modern-cloud-operations-2hpj)
+- [Dockerize Your PHP and MySQL Application: A Step-by-Step Guide to Multi-Container Apps](https://dev.to/ehtesham_ali_abc367f36a5b/dockerize-your-php-and-mysql-application-a-step-by-step-guide-to-multi-container-apps-4g4g)
+- [Bootable USB Drive Linux Streamlining OTA Updates for Smart Energy](https://dev.to/romana_diana_/bootable-usb-drive-linux-streamlining-ota-updates-for-smart-energy-3ag5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
