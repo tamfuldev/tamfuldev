@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Username and Password Authentication with Better_Auth, Next.js, Prisma, Shadcn, and TailwindCSS](https://dev.to/daanish2003/username-and-password-authentication-with-betterauth-nextjs-prisma-shadcn-and-tailwindcss-1hc6)
 - [Resolving the `DO $$` Issue in Drizzle ORM with Nile Postgres](https://dev.to/jacksonkasi/resolving-the-do-issue-in-drizzle-orm-with-nile-postgres-1lni)
+- [Gradient Generator](https://dev.to/pinky057/updated-gradient-generator-1217)
 - [Database Indexing: A Comprehensive Guide for All Levels](https://dev.to/iamcymentho/database-indexing-a-comprehensive-guide-for-all-levels-1b3m)
 - [Is Python Still the King of Data Science?](https://dev.to/lonare/is-python-still-the-king-of-data-science-55n)
-- [Transformando AppImage &quot;em um app instalado&quot;](https://dev.to/altencirsilvajr/transformando-appimage-em-um-app-instalado-3lg0)
-- [Building a Real-Time Collaborative Text Editor with Slate.js](https://dev.to/priolo/building-a-real-time-collaborative-text-editor-with-slatejs-30n2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
