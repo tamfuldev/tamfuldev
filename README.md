@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Demystifying Rails load_defaults: Mastering Configuration Updates](https://dev.to/michymono77/demystifying-rails-loaddefaults-mastering-configuration-updates-7fm)
-- [DocWire - 2024.12.04 release](https://dev.to/novitzmann/docwire-20241204-release-557a)
-- [Thank you to the DEV Community and Assembly AI for the opportunity to be part of such an inspiring challenge](https://dev.to/djovannih/thank-you-to-the-dev-community-and-assembly-ai-for-the-opportunity-to-be-part-of-such-an-inspiring-1038)
-- [Rust vs Go](https://dev.to/adriantoro26/rust-vs-go-4cj1)
-- [ChatGPT Launches Pro: What&#39;s it Mean for Data Professionals?](https://dev.to/rapp2043/chatgpt-launches-pro-whats-it-mean-for-data-professionals-166d)
+- [Build a Simple Chatbot with Svelte and ElizaBot](https://dev.to/blamsa0mine/build-a-simple-chatbot-with-svelte-and-elizabot-573m)
+- [Don&#39;t miss out on these AI tools!](https://dev.to/hosseinyazdi/dont-miss-out-on-these-ai-tools-43dj)
+- [Error: cannot mix str with &lpar;non-str&rpar; arguments](https://dev.to/ngregistrations/error-cannot-mix-str-with-non-str-arguments-4o64)
+- [AI Travel Planner app built with Next.js 15, Tailwind CSS, Prisma, Open AI, and Clerk.](https://dev.to/saidmounaim/ai-travel-planner-app-built-with-nextjs-15-tailwind-css-prisma-open-ai-and-clerk-2396)
+- [VSCode Extension to Simplify Code Collaboration and Sharing](https://dev.to/zaur_ibrahimov/vscode-extension-to-simplify-code-collaboration-and-sharing-bm6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
