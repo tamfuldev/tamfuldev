@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Beginner&#39;s Guide to Worker Threads in Node.js: Unlocking Multithreading for Enhanced Performance](https://dev.to/rishitamoghna17/a-beginners-guide-to-worker-threads-in-nodejs-unlocking-multithreading-for-enhanced-performance-1o2n)
-- [Dynamic Grid-Layout with Custom Properties and Resizable Elements &lpar;@properties&rpar;](https://dev.to/kuraikari/dynamic-grid-layout-with-custom-properties-and-resizable-elements-properties-me8)
-- [The Pursuit of Perfection: Lessons Learned in Simplicity](https://dev.to/martin_cihal/the-pursuit-of-perfection-lessons-learned-in-simplicity-lcg)
-- [# 🎵 Build Your Own Music Player in React with Context API and TypeScript](https://dev.to/blamsa0mine/-build-your-own-music-player-in-react-with-context-api-and-typescript-2hg3)
-- [What is Collate in Printing? Understanding the Process](https://dev.to/tobbystalin/what-is-collate-in-printing-understanding-the-process-2n84)
+- [React](https://dev.to/hikolakita/react-2iml)
+- [How to Install NGINX on Ubuntu 22.04](https://dev.to/nodeshiftcloud/how-to-install-nginx-on-ubuntu-2204-gki)
+- [Auth &amp; User_Manage with Prisma and other...](https://dev.to/winzent/auth-usermanage-with-prisma-and-other-53g0)
+- [Using Docker with Laravel Sail](https://dev.to/snehalkadwe/using-docker-with-laravel-sail-29hp)
+- [Java day 1](https://dev.to/yaswanth_krishna_81faee1e/java-day-1-5l1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
