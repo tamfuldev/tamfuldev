@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Python Django Financial Trading Dashboard — Integrating AnyChart JS Charts](https://dev.to/anychart/python-django-financial-trading-dashboard-integrating-anychart-js-charts-1iam)
-- [Anonymous login using better_auth, nextjs, prisma, shadcn](https://dev.to/daanish2003/anonymous-login-using-betterauth-nextjs-prisma-shadcn-5334)
-- [Stateless and stateful components. No! Reusable views in Elm.](https://dev.to/dwayne/stateless-and-stateful-components-no-reusable-views-in-elm-2kg0)
-- [Profiling Specific Code Segments of Applications](https://dev.to/jmuehlig/profiling-specific-code-segments-of-applications-gdn)
-- [Key Responsibilities of a DevOps Professional](https://dev.to/siva_velu_b39044a1dd3b732/the-essential-guide-to-the-role-of-a-devops-engineer-5ea7)
+- [TensorFlow Learning Paths: Free Online Resources for AI Enthusiasts](https://dev.to/getvm/tensorflow-learning-paths-free-online-resources-for-ai-enthusiasts-45hb)
+- [Brain debugging. Interview with Anders Schau Knatten, author of &quot;C++ Brain Teasers: Exercise Your Mind&quot;](https://dev.to/pvsdev/brain-debugging-interview-with-anders-schau-knatten-author-of-c-brain-teasers-exercise-your-4o0i)
+- [Exception Handling in Java](https://dev.to/bharath_vasishtha/exception-handling-in-java-564o)
+- [day 3 task](https://dev.to/v_inoth_f0fad29baec4c/day-3-task-3nl5)
+- [I counted, it&#39;s really 40 lines of code!](https://dev.to/david-723/i-counted-its-really-40-lines-of-code-3k6b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
