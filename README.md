@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Les péchés capitaux du Dossier d&#39;Architecture Technique](https://dev.to/onepoint/les-peches-capitaux-du-dossier-darchitecture-technique-111p)
-- [Why Large Tables Slow Down Your Database](https://dev.to/dbvismarketing/why-large-tables-slow-down-your-database-75b)
-- [Exploring AWS Management &amp; Governance Services for Modern Cloud Operations](https://dev.to/enitanogun1/exploring-aws-management-governance-services-for-modern-cloud-operations-2hpj)
-- [Dockerize Your PHP and MySQL Application: A Step-by-Step Guide to Multi-Container Apps](https://dev.to/ehtesham_ali_abc367f36a5b/dockerize-your-php-and-mysql-application-a-step-by-step-guide-to-multi-container-apps-4g4g)
-- [Bootable USB Drive Linux Streamlining OTA Updates for Smart Energy](https://dev.to/romana_diana_/bootable-usb-drive-linux-streamlining-ota-updates-for-smart-energy-3ag5)
+- [The Home Assistant model](https://dev.to/nfrankel/the-home-assistant-model-771)
+- [Why you might want to build your own cli?](https://dev.to/pedchenkoroman/why-you-might-want-to-build-your-own-cli-apd)
+- [Explaining SOLID Principle !](https://dev.to/1hamzabek/explaining-solid-principle--19m9)
+- [Debugging a Kubernetes Cluster Part 1](https://dev.to/sadeek_m/debugging-a-kubernetes-cluster-part-1-715)
+- [HMPL integration with JSON5](https://dev.to/hmpljs/hmpl-integration-with-json5-22dn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
