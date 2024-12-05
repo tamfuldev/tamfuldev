@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Design Robust AI Systems Against Prompt Injection Attacks](https://dev.to/fabaguirre/how-to-design-robust-ai-systems-against-prompt-injection-attacks-3nje)
-- [day - 13 at payilagam puzzles looping](https://dev.to/kuhanraja_ar_1df623b8e2e/day-13-at-payilagam-puzzles-looping-glf)
-- [OOP-Camp 4.1: The Secret Lives of Primitive Types](https://dev.to/yeehawtoast/oop-camp-41-the-secret-lives-of-primitive-types-43fo)
-- [Advent of Code #4 &lpar;in Gleam&rpar;](https://dev.to/sethcalebweeks/advent-of-code-4-in-gleam-5gh3)
-- [53/365 | ¥10M Job Challenge](https://dev.to/kameken100/53365-y10m-job-challenge-5ea5)
+- [Demystifying Rails load_defaults: Mastering Configuration Updates](https://dev.to/michymono77/demystifying-rails-loaddefaults-mastering-configuration-updates-7fm)
+- [DocWire - 2024.12.04 release](https://dev.to/novitzmann/docwire-20241204-release-557a)
+- [Thank you to the DEV Community and Assembly AI for the opportunity to be part of such an inspiring challenge](https://dev.to/djovannih/thank-you-to-the-dev-community-and-assembly-ai-for-the-opportunity-to-be-part-of-such-an-inspiring-1038)
+- [Rust vs Go](https://dev.to/adriantoro26/rust-vs-go-4cj1)
+- [ChatGPT Launches Pro: What&#39;s it Mean for Data Professionals?](https://dev.to/rapp2043/chatgpt-launches-pro-whats-it-mean-for-data-professionals-166d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
