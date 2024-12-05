@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Home Assistant model](https://dev.to/nfrankel/the-home-assistant-model-771)
-- [Why you might want to build your own cli?](https://dev.to/pedchenkoroman/why-you-might-want-to-build-your-own-cli-apd)
-- [Explaining SOLID Principle !](https://dev.to/1hamzabek/explaining-solid-principle--19m9)
-- [Debugging a Kubernetes Cluster Part 1](https://dev.to/sadeek_m/debugging-a-kubernetes-cluster-part-1-715)
-- [HMPL integration with JSON5](https://dev.to/hmpljs/hmpl-integration-with-json5-22dn)
+- [Python Django Financial Trading Dashboard — Integrating AnyChart JS Charts](https://dev.to/anychart/python-django-financial-trading-dashboard-integrating-anychart-js-charts-1iam)
+- [Anonymous login using better_auth, nextjs, prisma, shadcn](https://dev.to/daanish2003/anonymous-login-using-betterauth-nextjs-prisma-shadcn-5334)
+- [Stateless and stateful components. No! Reusable views in Elm.](https://dev.to/dwayne/stateless-and-stateful-components-no-reusable-views-in-elm-2kg0)
+- [Profiling Specific Code Segments of Applications](https://dev.to/jmuehlig/profiling-specific-code-segments-of-applications-gdn)
+- [Key Responsibilities of a DevOps Professional](https://dev.to/siva_velu_b39044a1dd3b732/the-essential-guide-to-the-role-of-a-devops-engineer-5ea7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
