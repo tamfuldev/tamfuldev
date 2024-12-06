@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Rotating An Array Counterclockwise In JavaScript](https://dev.to/hdonis17/rotating-an-array-counterclockwise-in-javascript-nf8)
-- [🎨 3D in Web Development: Tools and Approaches](https://dev.to/adamgazdiev/3d-in-web-development-tools-and-approaches-272c)
-- [Comprehensive Guide to JavaScript `reduce&lpar;&rpar;` Method with Real-Life Examples](https://dev.to/taiwo17/comprehensive-guide-to-javascript-reduce-method-with-real-life-examples-4017)
-- [Travel: The Secret for Tech and Research Evolution](https://dev.to/hkdevs/travel-the-secret-for-tech-and-research-evolution-2ddc)
-- [🚀 Tailwind CSS: Build Custom Designs with Utility-First Framework](https://dev.to/aniruddhaadak/tailwind-css-build-custom-designs-with-utility-first-framework-onm)
+- [Sentiment Analysis in Python](https://dev.to/hkdevs/sentiment-analysis-in-python-4ldk)
+- [Bumping this for all the game devs in the community!!](https://dev.to/jess/bumping-this-for-all-the-game-devs-in-the-community-3bfp)
+- [Building a Discord Bot with OpenAI GPT](https://dev.to/leimanisemils/building-a-discord-bot-with-openai-gpt-1dlp)
+- [How to handle command failures in Ansible playbooks](https://dev.to/labex/how-to-handle-command-failures-in-ansible-playbooks-1k45)
+- [Filtration isn&#39;t the hardest part](https://dev.to/junissen9/filtration-isnt-the-hardest-part-53gp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
