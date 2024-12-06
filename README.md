@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Copilot: Redefining Productivity with AI](https://dev.to/layanyashoda/microsoft-copilot-redefining-productivity-with-ai-2pka)
-- [🛠Ultimate Guide to Creating Your Own Google Chrome Extension🛠](https://dev.to/hanzla-baig/ultimate-guide-to-creating-your-own-google-chrome-extension-52g6)
-- [Master the SAGA pattern to manage distributed transactions in microservices, ensuring data consistency and scalability!!!!](https://dev.to/lorebrada00/master-the-saga-pattern-to-manage-distributed-transactions-in-microservices-ensuring-data-1aa7)
-- [Comunicação Assíncrona e Síncrona](https://dev.to/emanoelcarvalho/comunicacao-assincrona-e-sincrona-3gg)
-- [Turning search results into Markdown for LLMs](https://dev.to/nate_serpapi/turning-search-results-into-markdown-for-llms-1jc5)
+- [100+ Frontend Projects to level up your Skills](https://dev.to/kaja_uvais_a8691e947dd399/100-frontend-projects-to-level-up-your-skills-gkc)
+- [Web requests versus functions](https://dev.to/gliimly/web-requests-versus-functions-1db2)
+- [Ceres Search](https://dev.to/rmion/ceres-search-3iom)
+- [How to Reset Password for an Account in Windows 11?](https://dev.to/win11verse/how-to-reset-password-for-an-account-in-windows-11-5a24)
+- [New ChatGPT creation: wavy lines.](https://dev.to/tthtlc/new-chatgpt-creation-wavy-lines-1ai8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
