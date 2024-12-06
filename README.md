@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [My Bluesky Analytics tool is live!](https://dev.to/andreihudovich/my-bluesky-analytics-tool-is-live-4fek)
 - [🚀 Your Daily Crypto Job Digest For 06 December!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-06-december-32j3)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2m3o)
+- [Unexpected Interview Question: Why do we need lock files?](https://dev.to/frontenddeveli/unexpected-interview-question-why-do-we-need-lock-files-3f8a)
 - [Why Strapi Cloud is a Game-Changer for Frontend Developers? 🚀](https://dev.to/joodi/why-strapi-cloud-is-a-game-changer-for-frontend-developers-1349)
-- [React v19 is out!](https://dev.to/srbhr/react-v19-is-out-2eo2)
-- [How to Set Up a Mock Server](https://dev.to/apilover/how-to-set-up-a-mock-server-c1b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
