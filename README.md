@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Bluesky Analytics tool is live!](https://dev.to/andreihudovich/my-bluesky-analytics-tool-is-live-4fek)
-- [🚀 Your Daily Crypto Job Digest For 06 December!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-06-december-32j3)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2m3o)
-- [Unexpected Interview Question: Why do we need lock files?](https://dev.to/frontenddeveli/unexpected-interview-question-why-do-we-need-lock-files-3f8a)
-- [Why Strapi Cloud is a Game-Changer for Frontend Developers? 🚀](https://dev.to/joodi/why-strapi-cloud-is-a-game-changer-for-frontend-developers-1349)
+- [This Week In React #212 : Astro, Next.js, Storybook, INP, WebXR, LiveView, Radon, Yoga, Unistyles, gluestack...](https://dev.to/sebastienlorber/this-week-in-react-212-astro-nextjs-storybook-inp-webxr-liveview-radon-yoga-unistyles-2b0f)
+- [Game Dev Digest — Issue #260 - Effect Breakdowns, Networking, and more](https://dev.to/gamedevdigest/game-dev-digest-issue-260-effect-breakdowns-networking-and-more-2kg6)
+- [Sagemaker model CI/CD](https://dev.to/petterhg/sagemaker-model-cicd-2kf8)
+- [How to Thoroughly Cancel All AWS Services: A Step-by-Step Guide](https://dev.to/billgist/how-to-thoroughly-cancel-all-aws-services-a-step-by-step-guide-17kc)
+- [Day3 Class and object in java:](https://dev.to/reegan/day3class-and-object-in-java-4bmd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
