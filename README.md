@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Sentiment Analysis in Python](https://dev.to/hkdevs/sentiment-analysis-in-python-4ldk)
-- [Bumping this for all the game devs in the community!!](https://dev.to/jess/bumping-this-for-all-the-game-devs-in-the-community-3bfp)
-- [Building a Discord Bot with OpenAI GPT](https://dev.to/leimanisemils/building-a-discord-bot-with-openai-gpt-1dlp)
-- [How to handle command failures in Ansible playbooks](https://dev.to/labex/how-to-handle-command-failures-in-ansible-playbooks-1k45)
-- [Filtration isn&#39;t the hardest part](https://dev.to/junissen9/filtration-isnt-the-hardest-part-53gp)
+- [5 cursos que eu faria se estivesse começando agora no Frontend](https://dev.to/hudson3384/5-cursos-que-eu-faria-se-estivesse-comecando-agora-no-frontend-4kh4)
+- [Shifting End-to-End Testing Left on Microservices](https://dev.to/signadot/shifting-end-to-end-testing-left-on-microservices-mc1)
+- [Your Guide to Better Documentation: The Importance of Planning in the DDLC](https://dev.to/ikhaledabdelfattah/your-guide-to-better-documentation-the-importance-of-planning-in-the-ddlc-k6o)
+- [Single Quotes and Double Quotes : String Interpolation and Performance](https://dev.to/parzival_computer/single-quotes-and-double-quotes-string-interpolation-and-performance-32p2)
+- [From 502 to 200: Building a Auto-Scaling Infrastructure with Terraform](https://dev.to/dhayv/from-502-to-200-building-a-auto-scaling-infrastructure-with-terraform-26dn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
