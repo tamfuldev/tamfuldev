@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [This Week In React #212 : Astro, Next.js, Storybook, INP, WebXR, LiveView, Radon, Yoga, Unistyles, gluestack...](https://dev.to/sebastienlorber/this-week-in-react-212-astro-nextjs-storybook-inp-webxr-liveview-radon-yoga-unistyles-2b0f)
-- [Game Dev Digest — Issue #260 - Effect Breakdowns, Networking, and more](https://dev.to/gamedevdigest/game-dev-digest-issue-260-effect-breakdowns-networking-and-more-2kg6)
-- [Sagemaker model CI/CD](https://dev.to/petterhg/sagemaker-model-cicd-2kf8)
-- [How to Thoroughly Cancel All AWS Services: A Step-by-Step Guide](https://dev.to/billgist/how-to-thoroughly-cancel-all-aws-services-a-step-by-step-guide-17kc)
-- [Day3 Class and object in java:](https://dev.to/reegan/day3class-and-object-in-java-4bmd)
+- [A Beginner&#39;s Guide to AWS Elastic Beanstalk](https://dev.to/alameen_musa/a-beginners-guide-to-aws-elastic-beanstalk-3ejj)
+- [Unlocking the Magic of Ethereum: What Every Dev Needs to Know About EIPs and ERC Standards!](https://dev.to/techlateef/unlocking-the-magic-of-ethereum-what-every-dev-needs-to-know-about-eips-and-erc-standards-27an)
+- [database.build v2: Bring-your-own-LLM](https://dev.to/supabase/databasebuild-v2-bring-your-own-llm-3pfp)
+- [Hey Dev, Do You Even Know What ERC Standards Are?](https://dev.to/techlateef/hey-dev-do-you-even-know-what-erc-standards-are-k8b)
+- [Como contribuir para Django: escolhendo um ticket para além do “easy pickings”](https://dev.to/tainarapalmeirag/como-contribuir-para-django-escolhendo-um-ticket-para-alem-do-easy-pickings-1a85)
 <!-- BLOG-POST-LIST:END -->
 
 ---
