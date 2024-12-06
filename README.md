@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Why Strapi Cloud is a Game-Changer for Frontend Developers? 🚀](https://dev.to/joodi/why-strapi-cloud-is-a-game-changer-for-frontend-developers-1349)
+- [React v19 is out!](https://dev.to/srbhr/react-v19-is-out-2eo2)
+- [How to Set Up a Mock Server](https://dev.to/apilover/how-to-set-up-a-mock-server-c1b)
+- [GraphQL API vulnerabilities](https://dev.to/rednexie/graphql-api-vulnerabilities-48ff)
 - [Boost Your LinkedIn Reach Organically: A Simple Guide](https://dev.to/nozibul_islam_113b1d5334f/boost-your-linkedin-reach-organically-a-simple-guide-3mki)
-- [How I reduced an API call from &gt;5 seconds to under 100ms](https://dev.to/whitep4nth3r/how-i-reduced-an-api-call-from-5-seconds-to-under-100ms-7k6)
-- [A slightly better &quot;Map&quot; can make your code easier to read...](https://dev.to/miketalbot/a-slightly-better-map-can-get-you-there-more-easily-3h6j)
-- [Step-by-step guide: Adding client-side logic to your Hono app](https://dev.to/fiberplane/step-by-step-guide-adding-client-side-logic-to-your-hono-app-14eh)
-- [Understanding the `this` Keyword in JavaScript: A Complete Guide](https://dev.to/jps27cse/understanding-the-this-keyword-in-javascript-a-complete-guide-39oh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
