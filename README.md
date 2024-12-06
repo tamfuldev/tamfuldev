@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Beginner&#39;s Guide to AWS Elastic Beanstalk](https://dev.to/alameen_musa/a-beginners-guide-to-aws-elastic-beanstalk-3ejj)
-- [Unlocking the Magic of Ethereum: What Every Dev Needs to Know About EIPs and ERC Standards!](https://dev.to/techlateef/unlocking-the-magic-of-ethereum-what-every-dev-needs-to-know-about-eips-and-erc-standards-27an)
-- [database.build v2: Bring-your-own-LLM](https://dev.to/supabase/databasebuild-v2-bring-your-own-llm-3pfp)
-- [Hey Dev, Do You Even Know What ERC Standards Are?](https://dev.to/techlateef/hey-dev-do-you-even-know-what-erc-standards-are-k8b)
-- [Como contribuir para Django: escolhendo um ticket para além do “easy pickings”](https://dev.to/tainarapalmeirag/como-contribuir-para-django-escolhendo-um-ticket-para-alem-do-easy-pickings-1a85)
+- [What is Developer Mode on iPhone &amp; How to Enable It?](https://dev.to/codeparrot/what-is-developer-mode-on-iphone-how-to-enable-it-828)
+- [Quick Steps to Overcome Impostor Syndrome as a Tech Professional](https://dev.to/medalytics/quick-steps-to-overcome-impostor-syndrome-as-a-tech-professional-43c4)
+- [PHP: Should I mock or should I go?](https://dev.to/spo0q/php-mocking-od-458c)
+- [User Guide for ApplyUni.com](https://dev.to/ayeminkhant023/user-guide-for-applyunicom-25cp)
+- [Persistence Context в Hibernate Zoo: путешествие объекта по жизненным состояниям](https://dev.to/easycat/persistence-context-v-hibernate-zoo-putieshiestviie-obiekta-po-zhizniennym-sostoianiiam-4h45)
 <!-- BLOG-POST-LIST:END -->
 
 ---
