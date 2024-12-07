@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Runtime Off-Chain Logic a framework built by the Oasis Foundation](https://dev.to/bryan_conquer/runtime-off-chain-logic-a-framework-built-by-the-oasis-foundation-5eop)
-- [AI Engineer&#39;s Tool Review: Athina](https://dev.to/shubhsk/ai-engineers-tool-review-athina-3219)
-- [Performance Monitoring Without Extra Tools or Registrations — How Important Is It?](https://dev.to/dmtrpn/performance-monitoring-without-extra-tools-or-registrations-how-important-is-it-4g4i)
-- [How to scale your infrastructure for smooth cloud transitions](https://dev.to/d-gital/how-to-scale-your-infrastructure-for-smooth-cloud-transitions-24h3)
-- [🌟 Mastering Caching in JavaScript for Optimizing Performance 🚀](https://dev.to/santanu_biswas/mastering-caching-in-javascript-essential-techniques-for-optimizing-performance-2mdi)
+- [Ultimate guide to prompt engineering](https://dev.to/petrbrzek/ultimate-guide-to-prompt-engineering-36o5)
+- [Why is visual important?](https://dev.to/junissen9/why-is-visual-important-45p8)
+- [Windsurf: From Free Coding Hero to Pricey AI Rival – What Happened?](https://dev.to/dev_michael/windsurf-from-free-coding-hero-to-pricey-ai-rival-what-happened-k87)
+- [Protecting Privacy &amp; Freedom of Thought in the Digital Age with Oasis Protocol](https://dev.to/bryan_conquer/protecting-privacy-freedom-of-thought-in-the-digital-age-with-oasis-protocol-4k7k)
+- [Installing NGINX in linux](https://dev.to/fazly_fathhy/installing-nginx-in-linux-255a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
