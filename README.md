@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [JWT](https://dev.to/rednexie/jwt-28n8)
-- [Daily JavaScript Challenge #JS-40: Find Balanced Delimiters](https://dev.to/dpc/daily-javascript-challenge-js-40-find-balanced-delimiters-56dc)
-- [Beyond the Classroom: Inspiring Careers in Open Source](https://dev.to/gh-campus-experts/beyond-the-classroom-inspiring-careers-in-open-source-56ld)
-- [NoSQL injection](https://dev.to/rednexie/nosql-injection-93d)
-- [API testing](https://dev.to/rednexie/api-testing-2jf0)
+- [Naming with Acronyms in PascalCase and camelCase](https://dev.to/finfin/naming-with-acronyms-in-pascalcase-and-camelcase-4m3)
+- [Mastering Linux File Structure: The Importance of the Filesystem Hierarchy Standard &lpar;FHS&rpar;](https://dev.to/alex_ricciardi/mastering-linux-file-structure-the-importance-of-the-filesystem-hierarchy-standard-fhs-5273)
+- [An Overview of RAID Storage: Levels, Performance, and Data Redundancy](https://dev.to/alex_ricciardi/an-overview-of-raid-storage-levels-performance-and-data-redundancy-igi)
+- [New Features in React 19 Stable ️‍🔥](https://dev.to/best_codes/new-features-in-react-19-stable-4ded)
+- [Comecei um emprego novo, e agora?](https://dev.to/hillarysousa/comecei-um-emprego-novo-e-agora-2pl2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
