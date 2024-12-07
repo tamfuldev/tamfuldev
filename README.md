@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Driving Innovation: The Role of AWS and Its Services in the Advancing Tech World.](https://dev.to/faisal_the1st/driving-innovation-the-role-of-aws-and-its-services-in-the-advancing-tech-world-1oj8)
-- [First Impressions of AWS DSQL with Lambda and Rust](https://dev.to/aws-builders/first-impressions-of-aws-dsql-with-lambda-and-rust-3lh7)
-- [Getting Started with Terraform- Day 1](https://dev.to/i_am_vesh/getting-started-with-terraform-day-1-1h84)
-- [Beginner Linux Commands](https://dev.to/joshalmasin88/beginner-linux-commands-51le)
-- [Unleash Your Creativity: Build a Dynamic Mini Calendar with HTML, CSS, and JavaScript](https://dev.to/sharathchandark/unleash-your-creativity-build-a-dynamic-mini-calendar-with-html-css-and-javascript-13gk)
+- [Art with CSS Grid and SVG filters](https://dev.to/madsstoumann/art-with-css-grid-and-svg-filters-1ke6)
+- [The Power of a Custom Component Generator in Next.js Projects](https://dev.to/narendra_deo_singh/the-power-of-a-custom-component-generator-in-nextjs-projects-1a3l)
+- [𝐁𝐢𝐠 𝐎 𝐍𝐨𝐭𝐚𝐭𝐢𝐨𝐧: 𝐔𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝𝐢𝐧𝐠 𝐭𝐡𝐞 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐨𝐟 𝐄𝐟𝐟𝐢𝐜𝐢𝐞𝐧𝐜𝐲! 💻](https://dev.to/renan_almeidasv/--51c2)
+- [A Starter Guide to Data Structures for AI and Machine Learning](https://dev.to/atharvgyan/a-starter-guide-to-data-structures-for-ai-and-machine-learning-2f8n)
+- [Introducing Hono OpenAPI: Simplifying API Documentation for HonoJS](https://dev.to/mathuraditya7/introducing-hono-openapi-simplifying-api-documentation-for-honojs-2e0e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
