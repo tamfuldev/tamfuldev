@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚨 The AI Directory Craze is a 2000s Web Directory Déjà Vu](https://dev.to/souvic/the-ai-directory-craze-is-a-2000s-web-directory-deja-vu-5e7g)
-- [Top 3 Free Web Development Courses](https://dev.to/kaja_uvais_a8691e947dd399/top-3-free-web-development-courses-5c9c)
-- [Tutorial Flask With MySql](https://dev.to/yudhasdev/-ff4)
-- [CRUD With Flask And MySql #2 Prepare](https://dev.to/yudhasdev/crud-with-flask-and-mysql-2-prepare-4hhn)
-- [The Hidden Power of Software Testing: Building Quality from the Ground Up](https://dev.to/vaibhavkuls/the-hidden-power-of-software-testing-building-quality-from-the-ground-up-4pd9)
+- [Day 5 – Unsupervised Learning: Clustering and Dimensionality Reduction](https://dev.to/ahammadmejbah/day-5-unsupervised-learning-clustering-and-dimensionality-reduction-3ikh)
+- [Day 4 – Model Evaluation and Selection](https://dev.to/ahammadmejbah/day-4-model-evaluation-and-selection-4kdo)
+- [Autoboxing/Unboxing em Expressões e Advertências](https://dev.to/javaparainiciantes/autoboxingunboxing-em-expressoes-e-advertencias-4mnf)
+- [PerspectiveLearning: A Novel Approach to Multi-Algorithm Machine Learning](https://dev.to/saipavanvelidandla/perspectivelearning-a-novel-approach-to-multi-algorithm-machine-learning-d42)
+- [Fundamentos do autoboxing e os métodos](https://dev.to/javaparainiciantes/fundamentos-do-autoboxing-e-os-metodos-4pb8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
