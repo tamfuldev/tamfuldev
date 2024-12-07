@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Hello!](https://dev.to/tk-okeke/hello-9l0)
-- [DPLL: All-Time Hit SAT-Solver](https://dev.to/obanai/dpll-all-time-hit-sat-solver-4keb)
-- [Building a Continuous Delivery Pipeline for Web Applications on AWS](https://dev.to/mohanapriya_s_1808/building-a-continuous-delivery-pipeline-for-web-applications-on-aws-chl)
-- [The Building Blocks of the Web 2025](https://dev.to/caganshen/the-building-blocks-of-the-web-2025-2l8m)
-- [Preparing Front-End Projects for Live Deployment](https://dev.to/ismailfsbb/preparing-front-end-projects-for-live-deployment-2ei9)
+- [How do you export .env from Vercel: New Laptop, Old Project? No Problem!](https://dev.to/csituma/how-do-you-export-env-from-vercel-new-laptop-old-project-no-problem-1fd1)
+- [DevOps for Beginners: When Code, Ops, and Humor Become Best Friends](https://dev.to/ravindra_babu/devops-for-beginners-when-code-ops-and-humor-become-best-friends-2gka)
+- [Speed up your app: proven techniques for Frontend-optimization](https://dev.to/itdevus/speed-up-your-app-proven-techniques-for-frontend-optimization-m8k)
+- [Linux Lessons - Creating a .deb Package](https://dev.to/benslinux/linux-lessons-creating-a-deb-package-18lh)
+- [How to use Glue crawler to add tables automatically](https://dev.to/payalgupta4639/how-to-use-glue-crawler-to-add-tables-automatically-51c4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
