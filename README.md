@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Beginner&#39;s Guide to Docker Health Checks and Container Monitoring](https://dev.to/idsulik/a-beginners-guide-to-docker-health-checks-and-container-monitoring-3kh6)
-- [Boost Your Retrieval-Augmented Generation &lpar;RAG&rpar; with Vector Databases 🚀](https://dev.to/shubhsk/boost-your-retrieval-augmented-generation-rag-with-vector-databases-2j55)
-- [hi devs.](https://dev.to/karavind2005/hi-devs-2k1m)
-- [Exploring Localhost 127.0.0.1:62893: Setup and Usage Guide](https://dev.to/techyboo009/exploring-localhost-12700162893-setup-and-usage-guide-4ja6)
-- [First post](https://dev.to/caganshen/-3cj7)
+- [Hello!](https://dev.to/tk-okeke/hello-9l0)
+- [DPLL: All-Time Hit SAT-Solver](https://dev.to/obanai/dpll-all-time-hit-sat-solver-4keb)
+- [Building a Continuous Delivery Pipeline for Web Applications on AWS](https://dev.to/mohanapriya_s_1808/building-a-continuous-delivery-pipeline-for-web-applications-on-aws-chl)
+- [The Building Blocks of the Web 2025](https://dev.to/caganshen/the-building-blocks-of-the-web-2025-2l8m)
+- [Preparing Front-End Projects for Live Deployment](https://dev.to/ismailfsbb/preparing-front-end-projects-for-live-deployment-2ei9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
