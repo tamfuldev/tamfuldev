@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Java Compilation : From Source Code to Bytecode Execution](https://dev.to/imkrunalkanojiya/java-compilation-from-source-code-to-bytecode-execution-12hp)
-- [10 Caveats You May Face While Working With Web Components](https://dev.to/cadams/10-caveats-you-may-face-while-working-with-web-components-50m8)
-- [Firewalls and Intrusion Detection Systems &lpar;IDS&rpar;](https://dev.to/iskender83/firewalls-and-intrusion-detection-systems-ids-4h17)
-- [AI-Driven Security for Cloud-Based IoT Systems](https://dev.to/iskender83/ai-driven-security-for-cloud-based-iot-systems-4im3)
-- [Shell Scripting Unleashed: Your Ultimate Learning Roadmap](https://dev.to/getvm/shell-scripting-unleashed-your-ultimate-learning-roadmap-c6f)
+- [Cloud-Based Security for Financial Data Systems](https://dev.to/iskender83/cloud-based-security-for-financial-data-systems-1d7h)
+- [WebSockets: The Secret to Seamless Real-Time Communication](https://dev.to/mukhilpadmanabhan/websockets-the-secret-to-seamless-real-time-communication-3joc)
+- [Privacy-Enhancing Cryptography](https://dev.to/iskender83/privacy-enhancing-cryptography-5105)
+- [Build a Dartboard with Web Components &amp; HTML Canvas🎯](https://dev.to/dartbot/build-a-dartboard-with-web-components-html-canvas-3j2l)
+- [API Rate Limiting and Protection](https://dev.to/iskender83/api-rate-limiting-and-protection-4lm3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
