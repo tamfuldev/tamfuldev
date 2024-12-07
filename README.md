@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Go Concurrency: Essential Patterns for High-Performance Systems](https://dev.to/aaravjoshi/mastering-go-concurrency-essential-patterns-for-high-performance-systems-1ko6)
-- [Mastering Go Memory Optimization: 20 Expert Techniques for Efficient Applications](https://dev.to/aaravjoshi/mastering-go-memory-optimization-20-expert-techniques-for-efficient-applications-4bjc)
-- [Understanding float and double in Java](https://dev.to/ricardocaselati/understanding-float-and-double-in-java-hoa)
-- [How to Run a Polygon Node: A Complete Guide](https://dev.to/nodeshiftcloud/how-to-run-a-polygon-node-a-complete-guide-2efo)
-- [7 Essential Rust Tools to Boost Your Productivity and Code Quality](https://dev.to/aaravjoshi/7-essential-rust-tools-to-boost-your-productivity-and-code-quality-2k1f)
+- [Driving Innovation: The Role of AWS and Its Services in the Advancing Tech World.](https://dev.to/faisal_the1st/driving-innovation-the-role-of-aws-and-its-services-in-the-advancing-tech-world-1oj8)
+- [First Impressions of AWS DSQL with Lambda and Rust](https://dev.to/aws-builders/first-impressions-of-aws-dsql-with-lambda-and-rust-3lh7)
+- [Getting Started with Terraform- Day 1](https://dev.to/i_am_vesh/getting-started-with-terraform-day-1-1h84)
+- [Beginner Linux Commands](https://dev.to/joshalmasin88/beginner-linux-commands-51le)
+- [Unleash Your Creativity: Build a Dynamic Mini Calendar with HTML, CSS, and JavaScript](https://dev.to/sharathchandark/unleash-your-creativity-build-a-dynamic-mini-calendar-with-html-css-and-javascript-13gk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
