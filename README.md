@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [55/365 | ¥10M Job Challenge - ChatGPT Pro](https://dev.to/kameken100/55365-y10m-job-challenge-chatgpt-pro-p69)
-- [Smart Contracts Security](https://dev.to/iskender83/smart-contracts-security-1e5b)
-- [Why Regular Website Maintenance is Crucial for Your Business](https://dev.to/anony9653/why-regular-website-maintenance-is-crucial-for-your-business-3083)
-- [Web-Sockets Concept &amp; Real-time Chat Application Working Principles using Web-Sockets](https://dev.to/mysteryminusplus/web-sockets-concept-real-time-chat-application-working-principles-using-web-sockets-2fja)
-- [POO entrando a un nuevo viejo mundo](https://dev.to/gesman/poo-entrando-a-un-nuevo-viejo-mundo-1bff)
+- [Java Compilation : From Source Code to Bytecode Execution](https://dev.to/imkrunalkanojiya/java-compilation-from-source-code-to-bytecode-execution-12hp)
+- [10 Caveats You May Face While Working With Web Components](https://dev.to/cadams/10-caveats-you-may-face-while-working-with-web-components-50m8)
+- [Firewalls and Intrusion Detection Systems &lpar;IDS&rpar;](https://dev.to/iskender83/firewalls-and-intrusion-detection-systems-ids-4h17)
+- [AI-Driven Security for Cloud-Based IoT Systems](https://dev.to/iskender83/ai-driven-security-for-cloud-based-iot-systems-4im3)
+- [Shell Scripting Unleashed: Your Ultimate Learning Roadmap](https://dev.to/getvm/shell-scripting-unleashed-your-ultimate-learning-roadmap-c6f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
