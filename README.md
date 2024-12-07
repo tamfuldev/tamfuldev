@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ansible Apt Module: Manage Packages on Debian-based Systems](https://dev.to/labex/ansible-apt-module-manage-packages-on-debian-based-systems-1j8h)
-- [Today learned object create, calling statement, method definition, arguments&lpar;parameters&rpar;](https://dev.to/pavitra_aravind_3d319916a/today-learned-object-create-calling-statement-method-definition-argumentsparameters-1i35)
-- [My 2024 Good Links List](https://dev.to/cypriantinasheaarons/my-2024-good-links-list-dca)
-- [Harnessing AI Technology in Web Design and Web Development at Nandha Infotech](https://dev.to/sripathi_sripathi_/harnessing-ai-technology-in-web-design-and-web-development-at-nandha-infotech-5689)
-- [Latest Newsletter: Censorship, AI Memecoins, 100K BTC, Time &amp; the Ruliad &lpar;Issue #193&rpar;](https://dev.to/mjgs/latest-newsletter-censorship-ai-memecoins-100k-btc-time-the-ruliad-issue-193-1a84)
+- [Runtime Off-Chain Logic a framework built by the Oasis Foundation](https://dev.to/bryan_conquer/runtime-off-chain-logic-a-framework-built-by-the-oasis-foundation-5eop)
+- [AI Engineer&#39;s Tool Review: Athina](https://dev.to/shubhsk/ai-engineers-tool-review-athina-3219)
+- [Performance Monitoring Without Extra Tools or Registrations — How Important Is It?](https://dev.to/dmtrpn/performance-monitoring-without-extra-tools-or-registrations-how-important-is-it-4g4i)
+- [How to scale your infrastructure for smooth cloud transitions](https://dev.to/d-gital/how-to-scale-your-infrastructure-for-smooth-cloud-transitions-24h3)
+- [🌟 Mastering Caching in JavaScript for Optimizing Performance 🚀](https://dev.to/santanu_biswas/mastering-caching-in-javascript-essential-techniques-for-optimizing-performance-2mdi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
