@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Backing Up and Restoring the System—Best Practices](https://dev.to/theyasirr/backing-up-and-restoring-the-system-best-practices-5f1p)
-- [MovingMNIST in PyTorch](https://dev.to/hyperkai/movingmnist-in-pytorch-33g8)
-- [3D Parallax Hover Effect Using TailwindCSS](https://dev.to/shofol/3d-parallax-hover-effect-using-tailwindcss-2ff2)
-- [Cared Animated html css](https://dev.to/abdullah_web_dev/cared-animated-html-css-4kn4)
-- [# 🚀 Building a User Management API with FastAPI and SQLite](https://dev.to/blamsa0mine/-building-a-user-management-api-with-fastapi-and-sqlite-e53)
+- [Amazon Q Developer Tips: No.8 Understanding Context](https://dev.to/aws/amazon-q-developer-tips-no8-understanding-context-2305)
+- [Terraform Core Concepts: Providers, Resources, and Data Sources: Day 2](https://dev.to/i_am_vesh/terraform-core-concepts-providers-resources-and-data-sources-day-2-45n8)
+- [Real-Time Location Tracking with Node.js and Pulsetracker&#39;s Redis Pub/Sub](https://dev.to/l_walid/real-time-location-tracking-with-nodejs-and-pulsetrackers-redis-pubsub-4502)
+- [**Unveiling the Secrets of Loops, Iterables, and Maps in JavaScript** 🌟](https://dev.to/alwaysaman/-unveiling-the-secrets-of-loops-iterables-and-maps-in-javascript-2bk3)
+- [Creating an EC2 Instance and Installing IIS: A Beginner&#39;s Guide](https://dev.to/under2wenty/creating-an-ec2-instance-and-installing-iis-a-beginners-guide-110g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
