@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Machine Learning &lpar;A Beginner&#39;s Guide and Opportunities&rpar;](https://dev.to/fzihak/machine-learning-a-beginners-guide-and-opportunities-44o4)
-- [Atomic Note-Taking Guide](https://dev.to/gokayburuc/atomic-note-taking-guide-4fo9)
-- [Document Translation Service using Streamlit &amp; AWS Translator](https://dev.to/aws-builders/document-translation-service-using-streamlit-aws-translator-497a)
-- [AWS Serverless Generative AI: Amazon Nova Reel Foundation Model with Bedrock and Lambda](https://dev.to/bhatiagirish/aws-serverless-generative-ai-amazon-nova-reel-foundation-model-with-bedrock-and-lambda-59c6)
-- [Understanding SSH and Reverse SSH: A Guide for Beginners](https://dev.to/sebos/understanding-ssh-and-reverse-ssh-a-guide-for-beginners-18ch)
+- [🚨Packages are missing from npm registry. Each package not found](https://dev.to/anthonymax/packages-are-missing-from-npm-registry-each-package-not-found-1ofc)
+- [Understanding Domain-Specific Languages &lpar;DSLs&rpar;](https://dev.to/surajvatsya/understanding-domain-specific-languages-dsls-2eee)
+- [Assorted Dashboard Views for S3 Metrics using Amazon CloudWatch](https://dev.to/aws-builders/assorted-dashboard-views-for-s3-metrics-using-amazon-cloudwatch-4j7)
+- [Add a Fake Name to the Petition List](https://dev.to/kofa_sunday_73d00f8011584/add-a-fake-name-to-the-petition-list-34pj)
+- [Is React 19 &lt;title&gt; able to set default title / template?](https://dev.to/august_16f300feb904d11e9b/is-react-19-able-to-set-default-title-template-1idh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
