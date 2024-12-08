@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 8: Week 1 Quiz](https://dev.to/code42cate/day-7-week-1-quiz-dec)
-- [Creating an Amazon EC2 instance and installing the IIS web server.](https://dev.to/oluoma_stella/creating-an-amazon-ec2-instance-and-installing-the-iis-web-server-5c44)
-- [Fetching Liked Posts Using the Bluesky API](https://dev.to/noah_75a59e33bd95/fetching-liked-posts-using-the-bluesky-api-4iko)
-- [SUBSTR and INSTR functions in Oracle SQL](https://dev.to/mrcaption49/substr-and-instr-functions-in-oracle-sql-3k49)
-- [Simulating Mobile Virtual Keyboards in Progressive Web Apps](https://dev.to/kegesch/simulating-mobile-virtual-keyboards-in-progressive-web-apps-424c)
+- [Testing LLM Speed Across Cloud Providers: Groq, Cerebras, AWS &amp; More](https://dev.to/fr4ncis/testing-llm-speed-across-cloud-providers-groq-cerebras-aws-more-3f8)
+- [LeetCode Meditations: Merge Intervals](https://dev.to/rivea0/leetcode-meditations-merge-intervals-5afo)
+- [Unlock the secrets to building scalable, adaptable software with our comprehensive guide to essential architecture patterns! 🚀](https://dev.to/lorebrada00/unlock-the-secrets-to-building-scalable-adaptable-software-with-our-comprehensive-guide-to-2j8f)
+- [Mastering Essential Software Architecture Patterns: A Comprehensive Guide🛠️](https://dev.to/cortexflow/mastering-essential-software-architecture-patterns-a-comprehensive-guide-1j0p)
+- [Nexus Network Testnet: A Revolution in Blockchain and Cybersecurity](https://dev.to/nauman_aslam_7cfcf7b83f8a/nexus-network-testnet-a-revolution-in-blockchain-and-cybersecurity-ml7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
