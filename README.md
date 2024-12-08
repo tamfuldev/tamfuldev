@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [No traffic on your website? Learn How to Create Sitemaps in NextJS](https://dev.to/thesohailjafri/no-traffic-on-your-website-learn-how-to-create-sitemaps-in-nextjs-57lk)
-- [𝐍𝐞𝐬𝐭.𝐣𝐬 🛠️ 𝘃𝘀. 𝐍𝐞𝐱𝐭.𝐣𝐬 🚀: 𝗪𝗵𝗮𝘁’𝘀 𝘁𝗵𝗲 𝗗𝗶𝗳𝗳𝗲𝗿𝗲𝗻𝗰𝗲?](https://dev.to/apurvupadhyay/--5gl1)
-- [Introducción a JDBC](https://dev.to/eduardo_y_silvia/introduccion-a-jdbc-4644)
-- [Reusable Component Libraries: Simplifying Migration Between Targets](https://dev.to/thealbertdev/reusable-component-libraries-simplifying-migration-between-targets-58jf)
-- [Daily JavaScript Challenge #JS-41: Remove Consecutive Duplicates in a String](https://dev.to/dpc/daily-javascript-challenge-js-41-remove-consecutive-duplicates-in-a-string-1ddd)
+- [Topics in Open Source Final Run Part 2 &lpar;Progress&rpar;](https://dev.to/ajogseneca/topics-in-open-source-final-run-part-2-progress-5dp4)
+- [Meu final de ano, dicas, conselhos, opiniões, estou aceitando!](https://dev.to/felipetess/meu-final-de-ano-dicas-conselhos-opinioes-estou-aceitando-3139)
+- [Detached EBS volume from your local Linux system.](https://dev.to/abstractmusa/detached-ebs-volume-from-your-local-linux-system-8md)
+- [How to count the number of black and white squares on a chessboard?](https://dev.to/kennedy_antonio_90d664580/how-to-count-the-number-of-black-and-white-squares-on-a-chessboard-5c32)
+- [How to count the number of black and white squares on a chessboard?](https://dev.to/kennedy_antonio_90d664580/how-to-count-the-number-of-black-and-white-squares-on-a-chessboard-1jlg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
