@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Q Developer Tips: No.8 Understanding Context](https://dev.to/aws/amazon-q-developer-tips-no8-understanding-context-2305)
-- [Terraform Core Concepts: Providers, Resources, and Data Sources: Day 2](https://dev.to/i_am_vesh/terraform-core-concepts-providers-resources-and-data-sources-day-2-45n8)
-- [Real-Time Location Tracking with Node.js and Pulsetracker&#39;s Redis Pub/Sub](https://dev.to/l_walid/real-time-location-tracking-with-nodejs-and-pulsetrackers-redis-pubsub-4502)
-- [**Unveiling the Secrets of Loops, Iterables, and Maps in JavaScript** 🌟](https://dev.to/alwaysaman/-unveiling-the-secrets-of-loops-iterables-and-maps-in-javascript-2bk3)
-- [Creating an EC2 Instance and Installing IIS: A Beginner&#39;s Guide](https://dev.to/under2wenty/creating-an-ec2-instance-and-installing-iis-a-beginners-guide-110g)
+- [Machine Learning &lpar;A Beginner&#39;s Guide and Opportunities&rpar;](https://dev.to/fzihak/machine-learning-a-beginners-guide-and-opportunities-44o4)
+- [Atomic Note-Taking Guide](https://dev.to/gokayburuc/atomic-note-taking-guide-4fo9)
+- [Document Translation Service using Streamlit &amp; AWS Translator](https://dev.to/aws-builders/document-translation-service-using-streamlit-aws-translator-497a)
+- [AWS Serverless Generative AI: Amazon Nova Reel Foundation Model with Bedrock and Lambda](https://dev.to/bhatiagirish/aws-serverless-generative-ai-amazon-nova-reel-foundation-model-with-bedrock-and-lambda-59c6)
+- [Understanding SSH and Reverse SSH: A Guide for Beginners](https://dev.to/sebos/understanding-ssh-and-reverse-ssh-a-guide-for-beginners-18ch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
