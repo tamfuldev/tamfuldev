@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [E-commerce Product Page: Building Dynamic Shopping Experiences! 🛍️](https://dev.to/imrancodes/e-commerce-product-page-building-dynamic-shopping-experiences-1k2h)
-- [testing liverpool](https://dev.to/javascriptar/testing-liverpool-11h2)
-- [Why 90% of Software Development Projects Fail &lpar;And How You Can Avoid It!&rpar;](https://dev.to/ekele/why-90-of-software-development-projects-fail-and-how-you-can-avoid-it-3dnb)
-- [testing whatever](https://dev.to/javascriptar/testing-whatever-50k5)
-- [testing liverpool](https://dev.to/javascriptar/testing-liverpool-5183)
+- [No traffic on your website? Learn How to Create Sitemaps in NextJS](https://dev.to/thesohailjafri/no-traffic-on-your-website-learn-how-to-create-sitemaps-in-nextjs-57lk)
+- [𝐍𝐞𝐬𝐭.𝐣𝐬 🛠️ 𝘃𝘀. 𝐍𝐞𝐱𝐭.𝐣𝐬 🚀: 𝗪𝗵𝗮𝘁’𝘀 𝘁𝗵𝗲 𝗗𝗶𝗳𝗳𝗲𝗿𝗲𝗻𝗰𝗲?](https://dev.to/apurvupadhyay/--5gl1)
+- [Introducción a JDBC](https://dev.to/eduardo_y_silvia/introduccion-a-jdbc-4644)
+- [Reusable Component Libraries: Simplifying Migration Between Targets](https://dev.to/thealbertdev/reusable-component-libraries-simplifying-migration-between-targets-58jf)
+- [Daily JavaScript Challenge #JS-41: Remove Consecutive Duplicates in a String](https://dev.to/dpc/daily-javascript-challenge-js-41-remove-consecutive-duplicates-in-a-string-1ddd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
