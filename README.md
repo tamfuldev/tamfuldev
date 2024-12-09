@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Parsing Grid-Based STDIN Input in Gleam](https://dev.to/frorning/parsing-grid-based-stdin-input-in-gleam-2kca)
-- [Optimizing Your Kubernetes Deployments: Tips for Developers](https://dev.to/rubixkube/optimizing-your-kubernetes-deployments-tips-for-developers-308)
-- [Understanding Behavior-Driven Development &lpar;BDD&rpar;: A Guide to Building Better Software](https://dev.to/keploy/understanding-behavior-driven-development-bdd-a-guide-to-building-better-software-57fb)
-- [Give it a read!](https://dev.to/khawaja-haider/give-it-a-read-13bb)
-- [Day 47: Model Compression for Deployment](https://dev.to/nareshnishad/day-47-model-compression-for-deployment-46o)
+- [Create Server in node under the hood](https://dev.to/ashutoshsarangi/create-server-in-node-under-the-hood-2kkn)
+- [How to Make localStorage Data Reactive](https://dev.to/rain9/how-to-make-localstorage-data-reactive-3eda)
+- [REST In Peace](https://dev.to/onepoint/rest-in-peace-48kd)
+- [Real time in no time](https://dev.to/giuliano1993/real-time-in-no-time-3305)
+- [SQL vs NoSQL Databases: Choosing the Right Tool](https://dev.to/dbvismarketing/sql-vs-nosql-databases-choosing-the-right-tool-5e66)
 <!-- BLOG-POST-LIST:END -->
 
 ---
