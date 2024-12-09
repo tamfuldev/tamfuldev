@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Boosting SQL Query Flexibility with CROSS APPLY](https://dev.to/seanmdrew/boosting-sql-query-flexibility-with-cross-apply-11l0)
-- [Effective Logging with ILogger in USSD Banking Applications: A .NET Approach](https://dev.to/korirmoze/effective-logging-with-ilogger-in-ussd-banking-applications-a-net-approach-1a64)
-- [Leverage ETS for Shared State in Phoenix](https://dev.to/rushikeshpandit/leverage-ets-for-shared-state-in-phoenix-2mo8)
-- [🚀 Your Daily Crypto Job Digest For 09 December!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-09-december-28ne)
-- [Transforming Nested JSON into Usable Data with SQL CROSS APPLY](https://dev.to/seanmdrew/transforming-nested-json-into-usable-data-with-sql-cross-apply-2n40)
+- [JSON Web Tokens &lpar;JWT&rpar;](https://dev.to/nozibul_islam_113b1d5334f/json-web-tokens-jwt-2l4g)
+- [Meme Monday](https://dev.to/ben/meme-monday-kem)
+- [Logging in Java](https://dev.to/devmercy/logging-in-java-1gp0)
+- [3 Library Talwinds css + framer motion](https://dev.to/roisdev/3-library-talwinds-css-framer-motion-2ghc)
+- [&quot;Unlocking the Power of GSAP for Stunning Web Animations&quot; 🎨✨](https://dev.to/anticoder03/unlocking-the-power-of-gsap-for-stunning-web-animations-1dk3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
