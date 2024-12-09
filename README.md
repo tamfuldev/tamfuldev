@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Simple prompt 2x latent upscaled FLUX — Fine Tuning / DreamBooth Images — Can be trained on as low as 6 GB GPUs](https://dev.to/furkangozukara/simple-prompt-2x-latent-upscaled-flux-fine-tuning-dreambooth-images-can-be-trained-on-as-low-4m7)
-- [Financial Post Mortem For The Commit Your Code Conference](https://dev.to/dthompsondev/financial-post-mortem-for-the-commit-your-code-conference-57of)
-- [DxDiag Windows 11 – What is it &amp; How to use it for Troubleshooting?](https://dev.to/winsides/dxdiag-windows-11-what-is-it-how-to-use-it-for-troubleshooting-48d0)
-- [The Future of Web Apps — “Offline-First” and “Peer-to-Peer” Design](https://dev.to/yujin/the-future-of-web-apps-offline-first-and-peer-to-peer-design-4nj2)
-- [Daily JavaScript Challenge #JS-42: Check Array for Arithmetic Progression](https://dev.to/dpc/daily-javascript-challenge-js-42-check-array-for-arithmetic-progression-26b1)
+- [Overcoming Impostor Syndrome in Software Development](https://dev.to/norbs/overcoming-impostor-syndrome-in-software-development-5fnm)
+- [What Is security.txt and How Can It Help Improve Website Security?](https://dev.to/route06/what-is-securitytxt-and-how-can-it-help-improve-website-security-3kij)
+- [OKX DEX API Guide: Building a Solana Token Swap Interface](https://dev.to/j_dev28/okx-dex-api-guide-building-a-solana-token-swap-interface-58eh)
+- [Static Keyword in C# Explained in 1 Minute](https://dev.to/dotnetfullstackdev/static-keyword-in-c-explained-in-1-minute-53i1)
+- [Facing Overwhelm and Overcoming Procrastination in Release 0.3](https://dev.to/elisassa/facing-overwhelm-and-overcoming-procrastination-in-release-03-5cjl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
