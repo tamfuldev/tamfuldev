@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My 2025 Wishlist for Public Cloud Providers](https://dev.to/aws-builders/my-2025-wishlist-for-public-cloud-providers-1kpp)
-- [Building a Scalable Anti-Hate Speech Moderation Bot for Telegram: A Deep Dive](https://dev.to/nolunchbreaks_22/building-a-scalable-anti-hate-speech-moderation-bot-for-telegram-a-deep-dive-1de0)
-- [Why Quick Fixes Fail: Rethinking Microservices Testing](https://dev.to/signadot/why-quick-fixes-fail-rethinking-microservices-testing-47p2)
-- [Data Structures Decoded: Free Advanced Learning Resources for Programmers](https://dev.to/getvm/data-structures-decoded-free-advanced-learning-resources-for-programmers-2m77)
-- [Changing the Paradigm: From Premature Refactoring and Fake &quot;Reusability&quot; to Adaptability, Extensibility, and Reliability](https://dev.to/ryo_suwito/changing-the-paradigm-from-premature-refactoring-and-fake-reusability-to-adaptability-na0)
+- [Intro: Jonah 🐷](https://dev.to/mileswk/intro-jonah-3amh)
+- [FastAPI vs Django vs Flask: The Framework Showdown for 2025 👇🏼](https://dev.to/clickit_devops/fastapi-vs-django-vs-flask-the-framework-showdown-for-2025-4pen)
+- [Day 3 java](https://dev.to/guna_sekaran_/day-3-java-2l10)
+- [OS command injection](https://dev.to/rednexie/os-command-injection-1cll)
+- [Karpenter to EKS Auto Mode, worth it?](https://dev.to/er_dward/karpenter-to-eks-auto-mode-worth-it-1g2a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
