@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Create Server in node under the hood](https://dev.to/ashutoshsarangi/create-server-in-node-under-the-hood-2kkn)
-- [How to Make localStorage Data Reactive](https://dev.to/rain9/how-to-make-localstorage-data-reactive-3eda)
-- [REST In Peace](https://dev.to/onepoint/rest-in-peace-48kd)
-- [Real time in no time](https://dev.to/giuliano1993/real-time-in-no-time-3305)
-- [SQL vs NoSQL Databases: Choosing the Right Tool](https://dev.to/dbvismarketing/sql-vs-nosql-databases-choosing-the-right-tool-5e66)
+- [Mastering `sed` Commands and Flags: A Guide to Stream Editing in Linux 🖥️](https://dev.to/eshanized/mastering-sed-commands-and-flags-a-guide-to-stream-editing-in-linux-29jj)
+- [How to create a dynamic object](https://dev.to/mujahida_joynab_64c7407d8/how-to-create-a-dynamic-object-20e9)
+- [GUI Testing: Best Practices, Tools, and Checklists You Can’t Miss](https://dev.to/testifytech/gui-testing-best-practices-tools-and-checklists-you-cant-miss-4pb3)
+- [Integrate DAYTONA and let the magic begin....](https://dev.to/mayank_mohapatra/integrate-daytona-and-let-the-magic-begin-38hg)
+- [AI-Based Testing: Benefits, Challenges, Best Practices and More](https://dev.to/abhayit2000/ai-based-testing-benefits-challenges-best-practices-and-more-32nh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
