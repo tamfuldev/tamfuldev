@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Install PySpark on Your Local Machine](https://dev.to/shittu_olumide_/how-to-install-pyspark-on-your-local-machine-nn4)
-- [What I Learned Today: Cleaning, Aggregating, and Visualizing Data with Python 🐍](https://dev.to/techieteko/-what-i-learned-today-cleaning-aggregating-and-visualizing-data-with-python-5e3d)
-- [Top 5 self-service BI solutions for Databricks](https://dev.to/ambrus_pethes_a59563db94b/top-5-self-service-bi-solutions-for-databricks-422o)
-- [Creating a BLE Chat Application Using BleuIO USB Dongle](https://dev.to/bleuiot/creating-a-ble-chat-application-using-bleuio-usb-dongle-2ajd)
-- [My 2024 Tools for Prepping Webinars/Podcasts/Social Events](https://dev.to/chanity/my-2024-tools-for-prepping-webinarspodcastssocial-events-a9g)
+- [Boosting SQL Query Flexibility with CROSS APPLY](https://dev.to/seanmdrew/boosting-sql-query-flexibility-with-cross-apply-11l0)
+- [Effective Logging with ILogger in USSD Banking Applications: A .NET Approach](https://dev.to/korirmoze/effective-logging-with-ilogger-in-ussd-banking-applications-a-net-approach-1a64)
+- [Leverage ETS for Shared State in Phoenix](https://dev.to/rushikeshpandit/leverage-ets-for-shared-state-in-phoenix-2mo8)
+- [🚀 Your Daily Crypto Job Digest For 09 December!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-09-december-28ne)
+- [Transforming Nested JSON into Usable Data with SQL CROSS APPLY](https://dev.to/seanmdrew/transforming-nested-json-into-usable-data-with-sql-cross-apply-2n40)
 <!-- BLOG-POST-LIST:END -->
 
 ---
