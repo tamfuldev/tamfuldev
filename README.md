@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why python is essential for data analysts](https://dev.to/jeornee/why-python-is-essential-for-data-analysts-164i)
-- [Introducing AI Prototyping Projects](https://dev.to/leading-edje/introducing-ai-prototyping-projects-3mdi)
-- [What is Cloud Compliance?](https://dev.to/clouddefenseai/what-is-cloud-compliance-3nna)
-- [please take a look at this article !!!! Thank you very much](https://dev.to/lorebrada00/please-take-a-look-at-this-article-thank-you-very-much-446g)
-- [LeetCode Challenge 121: Best Time to Buy and Sell Stock - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-121-best-time-to-buy-and-sell-stock-javascript-solution-kk3)
+- [Video: Enable WSL 2 using CMD and PowerShell](https://dev.to/winsides/video-enable-wsl-2-using-cmd-and-powershell-61d)
+- [Streamlining Kubernetes Deployments: CI/CD with GitHub Actions and Helm for EKS](https://dev.to/ndzenyuy/streamlining-kubernetes-deployments-cicd-with-github-actions-and-helm-for-eks-535e)
+- [Day 2: Exploring GSAP ScrollTrigger and Advanced Animations 🚀](https://dev.to/anticoder03/day-2-exploring-gsap-scrolltrigger-and-advanced-animations-28gh)
+- [Day 2: HTML Revisited](https://dev.to/theoriginalbpc/day-2-html-revisited-21pn)
+- [Chat API pricing: Comparing MAU and per-minute consumption models](https://dev.to/ably/chat-api-pricing-comparing-mau-and-per-minute-consumption-models-3nd5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
