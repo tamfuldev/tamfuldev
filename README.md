@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Learn how to create a flyout menu with Tailwind CSS and Alpine JS](https://dev.to/mike_andreuzza/learn-how-to-create-a-flyout-menu-with-tailwind-css-and-alpine-js-4oio)
-- [Understanding the Importance of res.ok in Fetch API](https://dev.to/obiwanpelosi/understanding-the-importance-of-resok-in-fetch-api-4a7c)
-- [Accessibility Marketing: Why It’s Essential for Businesses Today](https://dev.to/nazneenahmad/accessibility-marketing-why-its-essential-for-businesses-today-3ejj)
-- [The Pulse of Innovation: Daytona Developers Club Tour &#39;24 Inspires Manila&#39;s Gen Z Tech Scene](https://dev.to/kakacomputer/the-pulse-of-innovation-daytona-developers-club-tour-24-inspires-manilas-gen-z-tech-scene-49m3)
-- [Boost Sales with Shopify Store Credit](https://dev.to/shinetechsoftwareinc/boost-sales-with-shopify-store-credit-2mkk)
+- [15 System design tradeoffs for Software Developer Interviews](https://dev.to/somadevtoo/15-system-design-tradeoffs-for-software-developer-interviews-613)
+- [MeetRoomly app built with Next.js 15, Tailwind CSS, Prisma, and Clerk](https://dev.to/saidmounaim/meetroomly-app-built-with-nextjs-15-tailwind-css-prisma-and-clerk-ice)
+- [[Boost]](https://dev.to/thatcoolguy/-1bc5)
+- [Patterns of Enterprise Application Architecture-Day 5](https://dev.to/edgaremmanuel/patterns-of-enterprise-application-architecture-day-5-515h)
+- [5 Best Cross-Browser Testing Tools to Consider in 2024](https://dev.to/ronika_kashyap/5-best-cross-browser-testing-tools-to-consider-in-2024-1pid)
 <!-- BLOG-POST-LIST:END -->
 
 ---
