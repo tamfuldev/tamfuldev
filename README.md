@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Documentation: Pushing and Pulling a Docker Image to Docker Hub](https://dev.to/teetoflame/documentation-pushing-and-pulling-a-docker-image-to-docker-hub-5d2b)
-- [Setup a Micro-Frontend architecture in 15min with Vite!](https://dev.to/mairouche/setup-a-micro-frontend-architecture-in-15min-with-vite-4pbg)
-- [Solved: Why ChatGPT Won&#39;t Say &quot;Brian Hood&quot; &lpar;Blame Regexes&rpar;](https://dev.to/builderio/solved-why-chatgpt-wont-say-brian-hood-blame-regexes-3d56)
-- [🚀 Your Daily Crypto Job Digest For 10 December!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-10-december-5don)
-- [react](https://dev.to/imdadul_haqueohi_1eb693e/react-2el5)
+- [Create Your Custom WSL from Any Linux Distribution &lpar;Part - 2&rpar;](https://dev.to/studio1hq/create-your-custom-wsl-from-any-linux-distribution-part-2-1h2j)
+- [Mastering SOLID Principles for Java Interviews](https://dev.to/arshisaxena26/mastering-solid-principles-for-java-interviews-1gh7)
+- [Building a Secure, Scalable, and Cost-Effective Serverless Architecture for Fintech Applications](https://dev.to/akhil_mittal/building-a-secure-scalable-and-cost-effective-serverless-architecture-for-fintech-applications-16g1)
+- [🤖 RAG vs. Agents: A Comparison and When to Use Each](https://dev.to/tal7aouy/rag-vs-agents-a-comparison-and-when-to-use-each-gn)
+- [✨ Glowing Disco Bulbs Animation with a Glassmorphic Twist! ✨ Code HTML CSS AND JAVASCRIPT](https://dev.to/prince_beec5ccde00b7c6c73/glowing-disco-bulbs-animation-with-a-glassmorphic-twist-code-html-css-and-javascript-4bah)
 <!-- BLOG-POST-LIST:END -->
 
 ---
