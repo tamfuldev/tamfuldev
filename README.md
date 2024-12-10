@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🔥Introducing the HMPL VS Code Extension](https://dev.to/hmpljs/introducing-the-hmpl-vs-code-extension-3i51)
-- [Understanding O&lpar;N&rpar;: Linear Time Complexity in Algorithms](https://dev.to/moh_moh701/understanding-on-linear-time-complexity-in-algorithms-545g)
-- [How to Make Money Using Django: A Practical Guide for Developers](https://dev.to/saifeddin1/how-to-make-money-using-django-a-practical-guide-for-developers-1p6e)
-- [Creating a Storage Bucket in AWS Using S3.](https://dev.to/busa/creating-a-storage-bucket-in-aws-using-s3-4a0b)
-- [Get a gist of graph data structure here...](https://dev.to/vidhithakur/get-a-gist-of-graph-here-4295)
+- [Flexible Angular Builds: A Guide to Angular 19 Build-Time Variables with Docker](https://dev.to/danielsogl/flexible-angular-builds-a-guide-to-angular-19-build-time-variables-with-docker-3ld1)
+- [How to Build a SaaS Financial Model](https://dev.to/thealgorithm/how-to-build-a-saas-financial-model-4mdj)
+- [Reconnaissance &amp; Information Gathering](https://dev.to/guptswayam/reconnaissance-information-gathering-1fn1)
+- [God, am I in Twitter?](https://dev.to/atomicbolts/god-am-i-in-twitter-32k0)
+- [Issue 74 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-74-of-aws-cloud-security-weekly-aog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
