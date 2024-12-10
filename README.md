@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript Best Practices — Using Enums](https://dev.to/stephengade/typescript-best-practices-using-enums-311c)
-- [Why Are Skip Lists Less Commonly Used Than BSTs?](https://dev.to/yo-shi/why-are-skip-lists-less-commonly-used-than-bsts-4a05)
-- [Part 6: Building Your Own AI - Neural Networks and Deep Learning](https://dev.to/trixsec/part-6-building-your-own-ai-neural-networks-and-deep-learning-14b)
-- [Technology isn&#39;t coding only; it&#39;s creating value.](https://dev.to/dexxtorrrr/technology-isnt-coding-only-its-creating-value-5h35)
-- [Owl Store: A Type System for Environment Variables to Specify, Resolve, and Verify Correctness](https://dev.to/sourishkrout/owl-store-a-type-system-for-environment-variables-to-specify-resolve-and-verify-correctness-2pl)
+- [How to Deploy Kubernetes on Bare Metal](https://dev.to/nodeshiftcloud/how-to-deploy-kubernetes-on-bare-metal-2oc0)
+- [Highly scalable image storage solution with AWS Serverless - architectural decisions](https://dev.to/faboulaye/highly-scalable-image-storagesolution-with-aws-serverless-architectural-decisions-2pba)
+- [XML external entity &lpar;XXE&rpar; injection](https://dev.to/rednexie/xml-external-entity-xxe-injection-59m9)
+- [DevOps Automation for Secure Software Delivery](https://dev.to/iskender83/devops-automation-for-secure-software-delivery-5an4)
+- [Reinforcement Learning in Robotics: Applications and Challenges 🤖✨](https://dev.to/hexadecimalsoftware/reinforcement-learning-in-robotics-applications-and-challenges-p1d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
