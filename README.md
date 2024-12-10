@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Video: Enable WSL 2 using CMD and PowerShell](https://dev.to/winsides/video-enable-wsl-2-using-cmd-and-powershell-61d)
-- [Streamlining Kubernetes Deployments: CI/CD with GitHub Actions and Helm for EKS](https://dev.to/ndzenyuy/streamlining-kubernetes-deployments-cicd-with-github-actions-and-helm-for-eks-535e)
-- [Day 2: Exploring GSAP ScrollTrigger and Advanced Animations 🚀](https://dev.to/anticoder03/day-2-exploring-gsap-scrolltrigger-and-advanced-animations-28gh)
-- [Day 2: HTML Revisited](https://dev.to/theoriginalbpc/day-2-html-revisited-21pn)
-- [Chat API pricing: Comparing MAU and per-minute consumption models](https://dev.to/ably/chat-api-pricing-comparing-mau-and-per-minute-consumption-models-3nd5)
+- [Deque: Container, C++](https://dev.to/harshm03/deque-container-c-4c)
+- [Create Your First AI-Powered C# App with Semantic Kernel: A Step-by-Step Guide](https://dev.to/codestreet/create-your-first-ai-powered-c-app-with-semantic-kernel-a-step-by-step-guide-3ca0)
+- [From Zero to Observability: Your first steps sending OpenTelemetry data to an Observability backend](https://dev.to/jadelassery/from-zero-to-observability-your-first-steps-sending-opentelemetry-data-to-an-observability-backend-29l7)
+- [Day 6 of SQL Series || Alter Table, Order By, NULL Values](https://dev.to/akshat0610/day-6-of-sql-series-alter-table-order-by-null-values-18m5)
+- [Phoenix LiveView, hooks and push_event: json_view](https://dev.to/mwhitworth/phoenix-liveview-hooks-and-pushevent-jsonview-3pj7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
