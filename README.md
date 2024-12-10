@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 10: Ho-ho-hono! 🔥](https://dev.to/valeriavg/ho-ho-hono-2j55)
-- [Mouse meets Python: Welcome to the Jungle](https://dev.to/jack_belyeu_699e7081d417f/mouse-meets-python-welcome-to-the-jungle-3cjk)
-- [Streamlining Documentation with AI in Corporate Finance](https://dev.to/jhonsnow21/streamlining-documentation-with-ai-in-corporate-finance-20e9)
-- [CCSP Study Guide: How to Prepare for the CCSP Exam](https://dev.to/itechburner/ccsp-study-guide-how-to-prepare-for-the-ccsp-exam-44b1)
-- [Simplifying Your Code: Replacing Heavy Packages with Lightweight Solutions](https://dev.to/kelvinwieth/simplifying-your-code-replacing-heavy-packages-with-lightweight-solutions-3g30)
+- [TypeScript Best Practices — Using Enums](https://dev.to/stephengade/typescript-best-practices-using-enums-311c)
+- [Why Are Skip Lists Less Commonly Used Than BSTs?](https://dev.to/yo-shi/why-are-skip-lists-less-commonly-used-than-bsts-4a05)
+- [Part 6: Building Your Own AI - Neural Networks and Deep Learning](https://dev.to/trixsec/part-6-building-your-own-ai-neural-networks-and-deep-learning-14b)
+- [Technology isn&#39;t coding only; it&#39;s creating value.](https://dev.to/dexxtorrrr/technology-isnt-coding-only-its-creating-value-5h35)
+- [Owl Store: A Type System for Environment Variables to Specify, Resolve, and Verify Correctness](https://dev.to/sourishkrout/owl-store-a-type-system-for-environment-variables-to-specify-resolve-and-verify-correctness-2pl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
