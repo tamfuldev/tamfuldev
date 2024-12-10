@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [UX/UI Laws Every Frontend Developer Should Know](https://dev.to/yuliana_seplveda/uxui-laws-every-frontend-developer-should-know-52ln)
-- [Understanding Microsoft’s Terraform Providers for Azure: AzureRM vs AzAPI](https://dev.to/techielass/understanding-microsofts-terraform-providers-for-azure-azurerm-vs-azapi-28gc)
-- [What Is Pytest @pytest.fixture ?](https://dev.to/zeyrarararara/what-is-pytest-pytestfixture--25pm)
-- [Creating and Paying a Freight Invoice with the Rapyd API and FX](https://dev.to/rapyd/creating-and-paying-a-freight-invoice-with-the-rapyd-api-and-fx-362e)
-- [OSD Final Chapter: Part 3](https://dev.to/amullagaliev/osd-final-chapter-part-3-235l)
+- [Data-Centric Visual AI Linkedin Learning course!](https://dev.to/voxel51/free-data-centric-visual-ai-linkedin-learning-course-4i92)
+- [The Rise of Serverless Architectures in 2024](https://dev.to/codiclab/the-rise-of-serverless-architectures-in-2024-3a8m)
+- [Automating Front End Development with Anima](https://dev.to/felipesousa/automating-front-end-development-with-anima-50hc)
+- [A Quick Guide to Using WordPress for Software Developers](https://dev.to/itamartati/a-quick-guide-to-using-wordpress-for-software-developers-4pjn)
+- [Getting used to visual software development](https://dev.to/ragutislt/getting-used-to-visual-software-development-9ip)
 <!-- BLOG-POST-LIST:END -->
 
 ---
