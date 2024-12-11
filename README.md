@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Java Multithreading: Part 1](https://dev.to/devnenyasha/understanding-java-multithreading-part-1-21hb)
-- [Before You Dive into Route 53: Learn These DNS Terms](https://dev.to/lindiwe09/before-you-dive-into-route-53-learn-these-dns-terms-1h0h)
-- [The Open Source Finale: Pt. 3](https://dev.to/arilloid/the-open-source-finale-pt-3-5b1l)
-- [350+ Best Android Libraries and Tools: A Curated List](https://dev.to/abubakersiddique761/350-best-android-libraries-and-tools-a-curated-list-4cpe)
-- [Shortcut Superpowers: The Commands You&#39;ll Wish You Knew Last Week](https://dev.to/0x3d_site/shortcut-superpowers-the-commands-youll-wish-you-knew-last-week-5fk3)
+- [¿Cómo clonar una máquina virtual en Azure?](https://dev.to/asjordi/como-clonar-una-maquina-virtual-en-azure-13hf)
+- [Multiple Stacks in AWS CDK &lpar;Typescript&rpar;](https://dev.to/bijkler/multiple-stacks-in-aws-cdk-typescript-bic)
+- [🚀 DebugSwift Hits 500 Stars on GitHub! 🎉](https://dev.to/maatheusgois/debugswift-hits-500-stars-on-github-2m5g)
+- [Go Enum’s problems and solutions with xybor-x/enum](https://dev.to/huykingsofm/go-enums-problems-and-solutions-with-xybor-xenum-3e79)
+- [I start the react app why Error](https://dev.to/boonchai_seksan_aa870f9f6/i-start-the-react-app-why-error-35m6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
