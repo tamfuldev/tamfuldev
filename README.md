@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Install a GUI on Ubuntu Server](https://dev.to/nodeshiftcloud/how-to-install-a-gui-on-ubuntu-server-c15)
-- [Top 40 important jQuery questions for interview - All-time-dev](https://dev.to/all-time-dev/top-40-important-jquery-questions-for-interview-all-time-dev-4oig)
-- [Common Errors While Developing Websites with Next.js](https://dev.to/brandstory_mumbai_e6ab5b4/common-errors-while-developing-websites-with-nextjs-5ck9)
-- [What is your favorite IDE?](https://dev.to/devmercy/what-is-your-favorite-ide-30af)
-- [Publish Playwright Test Reports with GitLab CI/CD Artifacts](https://dev.to/thraizz/publish-playwright-test-reports-with-gitlab-cicd-artifacts-2d3m)
+- [Today task](https://dev.to/guna_sekaran_/today-task-44mf)
+- [How to send logs to Azure Application Insights using log4net](https://dev.to/mikaelkrief2/how-to-send-logs-to-azure-application-insights-using-log4net-2glm)
+- [10 Best Education WordPress Themes of 2024:](https://dev.to/abdul_rehmankhan01/10-best-education-wordpress-themes-of-2024-4hl0)
+- [Axios Or Fetch in NextJs](https://dev.to/tak089/axios-or-fetch-in-nextjs-f0a)
+- [Effortless File Management: Setting Up AWS S3 Buckets and Presigned URLs](https://dev.to/tjasper/effortless-file-management-setting-up-aws-s3-buckets-and-presigned-urls-4jlk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
