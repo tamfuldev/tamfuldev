@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Should You Use an Open-source SaaS Boilerplate Starter or a $300+ Paid One?](https://dev.to/wasp/should-you-use-an-open-source-saas-boilerplate-starter-or-a-300-paid-one-48ea)
-- [LeetCode Challenge: Best Time to Buy and Sell Stock II - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-best-time-to-buy-and-sell-stock-ii-javascript-solution-332d)
-- [🚀 Your Daily Crypto Job Digest For 11 December!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-11-december-e40)
-- [firework](https://dev.to/phelan_nguyen_ae307cc25b7/firework2022-3m2c)
-- [Javascript básico usando VSCode](https://dev.to/songs_36be80e42d0a5f9c77e/javascript-basico-usando-vscode-2ig0)
+- [Understanding Java Multithreading: Part 1](https://dev.to/devnenyasha/understanding-java-multithreading-part-1-21hb)
+- [Before You Dive into Route 53: Learn These DNS Terms](https://dev.to/lindiwe09/before-you-dive-into-route-53-learn-these-dns-terms-1h0h)
+- [The Open Source Finale: Pt. 3](https://dev.to/arilloid/the-open-source-finale-pt-3-5b1l)
+- [350+ Best Android Libraries and Tools: A Curated List](https://dev.to/abubakersiddique761/350-best-android-libraries-and-tools-a-curated-list-4cpe)
+- [Shortcut Superpowers: The Commands You&#39;ll Wish You Knew Last Week](https://dev.to/0x3d_site/shortcut-superpowers-the-commands-youll-wish-you-knew-last-week-5fk3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
