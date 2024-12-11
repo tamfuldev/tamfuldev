@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Part 7: Building Your Own AI - Convolutional Neural Networks &lpar;CNNs&rpar; for Image Processing](https://dev.to/trixsec/part-7-building-your-own-ai-convolutional-neural-networks-cnns-for-image-processing-3mep)
-- [A Comprehensive Guide to Conducting Accessibility Audit](https://dev.to/lollypopdesign/a-comprehensive-guide-to-conducting-accessibility-audit-3ach)
-- [#115 — Ranking of Row-Based Data — by the Expression](https://dev.to/judith677/115-ranking-of-row-based-data-by-the-expression-32nb)
-- [Subform Goto First Field in Microsoft Access](https://dev.to/richardrost/subform-goto-first-field-in-microsoft-access-42p7)
-- [Unveiling the Unseen: A Journey from Simple Recon Using Shodan to Leaking AWS Secrets](https://dev.to/tecno-security/unveiling-the-unseen-a-journey-from-simple-recon-using-shodan-to-leaking-aws-secrets-ek5)
+- [Creating an SQL Agent Using OpenAI and Python](https://dev.to/suyashmuley/creating-an-sql-agent-using-openai-and-python-13if)
+- [my first post](https://dev.to/anjali_pal/my-first-post-2o0e)
+- [LLMOps [Quick Guide]](https://dev.to/exemplar/llmops-quick-guide-50d1)
+- [Transforming Digital Interactions: The Glance Moto Lock Screen Revolution](https://dev.to/prajakta_gawande_9485a4fd/transforming-digital-interactions-the-glance-moto-lock-screen-revolution-5heh)
+- [Python Day-20 String functions logic using loops,Task](https://dev.to/guru_prasanna_01/python-day-20-string-functions-logic-using-loopstask-pnn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
