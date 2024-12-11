@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Comparison JavaScript Common Data Formats](https://dev.to/emma_richardson/comparison-javascript-common-data-formats-4a0c)
-- [Staging vs. Production: Key Differences You Need to Know](https://dev.to/keploy/staging-vs-production-key-differences-you-need-to-know-31ka)
-- [@ngxpert/hot-toast supports Angular 19!](https://dev.to/shhdharmen/ngxperthot-toast-supports-angular-19-4c56)
-- [Common Data Formats in JavaScript: A Comprehensive Guide With Examples](https://dev.to/emma_richardson/common-data-formats-in-javascript-a-comprehensive-guide-with-examples-4ah7)
-- [Transforming Quality Assurance and Automation Testing with AI](https://dev.to/onepoint/transforming-quality-assurance-and-automation-testing-with-ai-3676)
+- [How to Install a GUI on Ubuntu Server](https://dev.to/nodeshiftcloud/how-to-install-a-gui-on-ubuntu-server-c15)
+- [Top 40 important jQuery questions for interview - All-time-dev](https://dev.to/all-time-dev/top-40-important-jquery-questions-for-interview-all-time-dev-4oig)
+- [Common Errors While Developing Websites with Next.js](https://dev.to/brandstory_mumbai_e6ab5b4/common-errors-while-developing-websites-with-nextjs-5ck9)
+- [What is your favorite IDE?](https://dev.to/devmercy/what-is-your-favorite-ide-30af)
+- [Publish Playwright Test Reports with GitLab CI/CD Artifacts](https://dev.to/thraizz/publish-playwright-test-reports-with-gitlab-cicd-artifacts-2d3m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
