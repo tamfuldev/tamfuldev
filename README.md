@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [LibTracker Updates 12/10/24: Get to personally know your apps with this simple SBOM Tool](https://dev.to/windmillcode/libtracker-updates-121024-get-to-personally-know-your-apps-with-this-simple-sbom-tool-420l)
-- [How to mitigate SSRF vulnerabilities in Go](https://dev.to/snyk/how-to-mitigate-ssrf-vulnerabilities-in-go-38ib)
-- [Looking for some feedback on my team&#39;s new open-source secrets vault project.](https://dev.to/felipe_araujo_01631536848/looking-for-some-feedback-on-my-teams-new-open-source-secrets-vault-project-44i4)
-- [Data Visualization and Dropdowns made simple in Vite React: Chart.js, React-Chartjs-2, and React-Select](https://dev.to/lawaniej/data-visualization-and-dropdowns-made-simple-in-vite-react-chartjs-react-chartjs-2-and-28d4)
-- [DevFest Bandung 2024 Session 2: Large Language Model, Potentials and Limitations](https://dev.to/idlionora/devfest-bandung-2024-session-2-large-language-model-potentials-and-limitations-22c6)
+- [Subform Goto First Field in Microsoft Access](https://dev.to/richardrost/subform-goto-first-field-in-microsoft-access-42p7)
+- [Unveiling the Unseen: A Journey from Simple Recon Using Shodan to Leaking AWS Secrets](https://dev.to/tecno-security/unveiling-the-unseen-a-journey-from-simple-recon-using-shodan-to-leaking-aws-secrets-ek5)
+- [How to Create Responsive Navbar Using HTML, CSS, and JavaScript](https://dev.to/kaja_uvais_a8691e947dd399/how-to-create-responsive-navbar-using-html-css-and-javascript-52j5)
+- [Mastering Modern JavaScript: A Deep Dive into ES6 Function Creation and Best Practices](https://dev.to/paalaman45/mastering-modern-javascript-a-deep-dive-into-es6-function-creation-and-best-practices-5gh)
+- [Unlocking Your Billing Breakdown: A Guide to Understanding Your Charges](https://dev.to/billgist/unlocking-your-billing-breakdown-a-guide-to-understanding-your-charges-315d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
