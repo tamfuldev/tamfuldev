@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DynamoDB-style Limits for Predictable Performance](https://dev.to/aws-heroes/dynamodb-style-limits-for-predictable-performance-56b8)
-- [The Hidden Danger: How Credential Sprawl is Creating Security Blind Spots in Modern Cloud Environments](https://dev.to/nolunchbreaks_22/the-hidden-danger-how-credential-sprawl-is-creating-security-blind-spots-in-modern-cloud-3bgk)
-- [Day 33: Deploying a Three-Tier App on Kubernetes: A Simple Guide](https://dev.to/arbythecoder/day-33-deploying-a-three-tier-app-on-kubernetes-a-simple-guide-nbm)
-- [Day 34: Keeping Your Kubernetes Apps Safe with Network Policies](https://dev.to/arbythecoder/day-34-keeping-your-kubernetes-apps-safe-with-network-policies-43c0)
-- [Advent of Docker](https://dev.to/jremsza/advent-of-docker-1d93)
+- [LibTracker Updates 12/10/24: Get to personally know your apps with this simple SBOM Tool](https://dev.to/windmillcode/libtracker-updates-121024-get-to-personally-know-your-apps-with-this-simple-sbom-tool-420l)
+- [How to mitigate SSRF vulnerabilities in Go](https://dev.to/snyk/how-to-mitigate-ssrf-vulnerabilities-in-go-38ib)
+- [Looking for some feedback on my team&#39;s new open-source secrets vault project.](https://dev.to/felipe_araujo_01631536848/looking-for-some-feedback-on-my-teams-new-open-source-secrets-vault-project-44i4)
+- [Data Visualization and Dropdowns made simple in Vite React: Chart.js, React-Chartjs-2, and React-Select](https://dev.to/lawaniej/data-visualization-and-dropdowns-made-simple-in-vite-react-chartjs-react-chartjs-2-and-28d4)
+- [DevFest Bandung 2024 Session 2: Large Language Model, Potentials and Limitations](https://dev.to/idlionora/devfest-bandung-2024-session-2-large-language-model-potentials-and-limitations-22c6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
