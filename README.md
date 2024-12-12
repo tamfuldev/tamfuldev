@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Guide to iOS Development: Variables, Data Types, and Basic Operations in Swift &lpar;Part 3&rpar;](https://dev.to/abdevhub/the-ultimate-guide-to-ios-development-variables-data-types-and-basic-operations-in-swift-part-3-5b67)
-- [Day 4: Lists](https://dev.to/theoriginalbpc/day-4-lists-43k5)
-- [Integrating LangChain with FastAPI for Asynchronous Streaming](https://dev.to/louis-sanna/integrating-langchain-with-fastapi-for-asynchronous-streaming-5d0o)
-- [Неофобия](https://dev.to/dmkjfs/nieofobiia-2mpj)
-- [Operators in Java](https://dev.to/olymahmud/operators-in-java-15jp)
+- [Day One to Became an Android Developer](https://dev.to/himagaur2708/day-one-to-became-an-android-developer-2e37)
+- [Best Developer Portfolio Websites and Why They Work](https://dev.to/jtrevdev/best-developer-portfolio-websites-and-why-they-work-3bdk)
+- [Understanding Software Architecture Diagrams: Beyond the Blueprint](https://dev.to/alexander_uspenskiy_the_great/understanding-software-architecture-diagrams-beyond-the-blueprint-3lc)
+- [Mastering Linux Process Management Like a Pro 🚀](https://dev.to/theerej_c/mastering-linux-process-management-like-a-pro-40n4)
+- [If you want to grasp the fundamentals of bash scripting and its various applications, this article is the perfect resource for you. Dive in and discover its potential!](https://dev.to/onlyfave/if-you-want-to-grasp-the-fundamentals-of-bash-scripting-and-its-various-applications-this-article-586a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
