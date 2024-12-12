@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [2558. Take Gifts From the Richest Pile](https://dev.to/mdarifulhaque/2558-take-gifts-from-the-richest-pile-4i65)
-- [Submission For Bright Data Web Scraping Challenge: Web Scraper Using Bright Data API](https://dev.to/trixsec/submission-for-bright-data-web-scraping-challenge-web-scraper-using-bright-data-api-4pmd)
-- [60/365 | ¥10M Job Challenge - New plan](https://dev.to/kameken100/59365-y10m-job-challenge-new-plan-2ikb)
-- [Transform Your Cloud Migration Strategy: Transition Microsoft workloads to Linux on AWS with AI Solutions](https://dev.to/julie_ryan_df9e4e895cdcff/transform-your-cloud-migration-strategy-transition-microsoft-workloads-to-linux-on-aws-with-ai-2c13)
-- [Unlock the Power of CSS Grid: Building a Dynamic Column Layout Calculator](https://dev.to/govindvyas/unlock-the-power-of-css-grid-building-a-dynamic-column-layout-calculator-3ah1)
+- [How to Create and Set Up an EC2 Instance on AWS and Install IIS Web Server](https://dev.to/kosisochukwu_ugochukwu_a2/how-to-create-and-set-up-an-ec2-instance-on-aws-and-install-iis-web-server-2h1o)
+- [Level Up Your GitHub Profile With These 20+ Amazing Resources! 🚀](https://dev.to/jfmartinz/level-up-your-github-profile-with-these-20-amazing-resources-524p)
+- [Lambda vs. Named Functions: Choosing the Right Tool for the Job](https://dev.to/rajibdk/lambda-vs-named-functions-choosing-the-right-tool-for-the-job-36kc)
+- [React Testing: A Comprehensive Guide](https://dev.to/keploy/react-testing-a-comprehensive-guide-3mmi)
+- [Reflector Oracle Protocol Documentation Improvement Suggestions](https://dev.to/francis001210/reflector-oracle-protocol-documentation-improvement-suggestions-1lo9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
