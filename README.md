@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Modern Music Player App with Angular and Tailwind CSS](https://dev.to/manthanank/building-a-modern-music-player-app-with-angular-and-tailwind-css-213g)
-- [Floating Cats and 3D Cubes](https://dev.to/annavi11arrea1/floating-cats-and-3d-cubes-537l)
-- [Add Two Distances Using Structures in C++](https://dev.to/vultr/add-two-distances-using-structures-in-c-9ej)
-- [React Performance: Boost it with Tree Shaking](https://dev.to/bragaru-i/react-performance-boost-it-with-tree-shaking-3alp)
-- [MCP using node on asdf](https://dev.to/cojiroooo/mcp-using-node-on-asdf-382n)
+- [Replace Philips Hue automation with Home Assistant&#39;s](https://dev.to/nfrankel/replace-philips-hue-automation-with-home-assistants-4gpe)
+- [How to Use Generative AI for Video Production?](https://dev.to/anshul_kichara/how-to-use-generative-ai-for-video-production-1cci)
+- [[Boost]](https://dev.to/marcuskohlberg/-p20)
+- [Advanced value-based validation in Rust for Node.js apps](https://dev.to/encore/advanced-value-based-validation-in-rust-for-nodejs-apps-5a5j)
+- [Finance Tracker Interface](https://dev.to/tobidelly/finance-tracker-interface-53j0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
