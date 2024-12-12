@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering API Testing: Key Challenges and How to Solve Them](https://dev.to/vijayashree44/mastering-api-testing-key-challenges-and-how-to-solve-them-4lf1)
-- [Code. Battery notifier.](https://dev.to/axkira/code-battery-notifier-1l0l)
-- [LeetCode Challenge: 55. Jump Game - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-55-jump-game-javascript-solution-55f5)
-- [Interactive DataFrame Management with Streamlit Fragments 🚀](https://dev.to/blamsa0mine/interactive-dataframe-management-with-streamlit-fragments-am2)
-- [Simplifying System Design: Authentication vs Authorization](https://dev.to/nishantnaithani/simplifying-system-design-authentication-vs-authorization-4n5h)
+- [Building a Personalized Insurance Policy Dashboard](https://dev.to/openkoda/building-a-personalized-insurance-policy-dashboard-21j4)
+- [How to install React and Tailwind in Termux](https://dev.to/ipigantenk/how-to-install-react-and-tailwind-with-vite-on-termux-48m5)
+- [There are at least 3 every programmer should know](https://dev.to/william4411/there-are-at-least-3-every-programmer-should-know-4hb9)
+- [Creatig an Instance EC2 and installing an IIS web server on AWS](https://dev.to/ajayi/creatig-an-instance-ec2-and-installing-an-iis-web-server-on-aws-1lfa)
+- [🚀 Meet APIRobots: APIs for Everything, Simplified](https://dev.to/apirobotspro/meet-apirobots-apis-for-everything-simplified-5ahp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
