@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day8](https://dev.to/reegan/day8-3l7a)
-- [The Power of Design Systems: How to Create and Maintain a Consistent Design Language](https://dev.to/okoye_ndidiamaka_5e3b7d30/the-power-of-design-systems-how-to-create-and-maintain-a-consistent-design-language-1ik7)
-- [How to Make a Product Secure: A Developer&#39;s Perspective](https://dev.to/leo_scott_357f10236fabe00/how-to-make-a-product-secure-a-developers-perspective-3k2g)
-- [Discover .NET Scaffold: The Tool Revolutionizing .NET Development](https://dev.to/bytehide/discover-net-scaffold-the-tool-revolutionizing-net-development-2p8l)
-- [Uncle Owen, This R2 Unit Has a Bad Motivator!](https://dev.to/linkbenjamin/uncle-owen-this-r2-unit-has-a-bad-motivator-2dm8)
+- [2558. Take Gifts From the Richest Pile](https://dev.to/mdarifulhaque/2558-take-gifts-from-the-richest-pile-4i65)
+- [Submission For Bright Data Web Scraping Challenge: Web Scraper Using Bright Data API](https://dev.to/trixsec/submission-for-bright-data-web-scraping-challenge-web-scraper-using-bright-data-api-4pmd)
+- [60/365 | ¥10M Job Challenge - New plan](https://dev.to/kameken100/59365-y10m-job-challenge-new-plan-2ikb)
+- [Transform Your Cloud Migration Strategy: Transition Microsoft workloads to Linux on AWS with AI Solutions](https://dev.to/julie_ryan_df9e4e895cdcff/transform-your-cloud-migration-strategy-transition-microsoft-workloads-to-linux-on-aws-with-ai-2c13)
+- [Unlock the Power of CSS Grid: Building a Dynamic Column Layout Calculator](https://dev.to/govindvyas/unlock-the-power-of-css-grid-building-a-dynamic-column-layout-calculator-3ah1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
