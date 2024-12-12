@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SaaS Industry Stats and Insights for 2024 and Beyond](https://dev.to/thealgorithm/saas-industry-stats-and-insights-for-2024-and-beyond-3m5h)
-- [Native Observables, Rx7, Rx8 and the observable that doesn&#39;t exist yet](https://dev.to/dariomannu/native-observables-rx7-rx8-and-the-observable-that-doesnt-exist-yet-2l47)
-- [Isolando cargas de trabalho no k8s com kata container](https://dev.to/cslemes/isolando-cargas-de-trabalho-no-k8s-com-kata-container-243h)
-- [The Complete Beginner Guide in IT Management Career Tracks : Scrum Masters &amp; Project Managers](https://dev.to/georgeadrian_tudorica/the-complete-beginner-guide-in-it-management-career-tracks-scrum-masters-project-managers-17a7)
-- [What Building💻 a WebGL App Taught Me About Debugging](https://dev.to/israelrotimi/what-building-a-webgl-app-taught-me-about-debugging-44cf)
+- [Recapping the AI, Machine Learning and Computer Meetup — December 12, 2024](https://dev.to/voxel51/recapping-the-ai-machine-learning-and-computer-meetup-december-12-2024-18em)
+- [Front End Conceitos Junior](https://dev.to/java2890/front-end-conceitos-junior-3gl3)
+- [Front end Conceitos II](https://dev.to/java2890/front-end-conceitos-ii-33ec)
+- [ASP.NET Interview Questions: Part 1 - &lpar;10 Q &amp; A&rpar;](https://dev.to/1hamzabek/aspnet-interview-questions-part-1-10-q-a-59do)
+- [My Second Barcamp Adventure in London 🇬🇧](https://dev.to/edithturn/my-second-barcamp-adventure-in-london-37cf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
