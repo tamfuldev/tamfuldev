@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1072 : The Real](https://dev.to/dwane/day-1072-the-real-5c79)
-- [WAI-Aria: A Revolução Invisível da Web Acessível](https://dev.to/punkdasilva/wai-aria-a-revolucao-invisivel-da-web-acessivel-3i88)
-- [AWS re:Invent 2024 recap](https://dev.to/oluwaseun_musa/aws-reinvent-2024-recap-44n8)
-- [Advent of Code 2024 - Day 11: Plutonian Pebbles](https://dev.to/grantdotdev/advent-of-code-2024-day-11-plutonian-pebbles-2m75)
-- [3 Bash One-Liners to Analyze Production Issues 10X Faster](https://dev.to/cli-pirate/3-bash-one-liners-to-analyze-production-issues-10x-faster-1ceg)
+- [Complexity Determines Everything](https://dev.to/longor/complexity-determines-everything-12m)
+- [Python crawler practice: using 98ip proxy IP to obtain cross-border e-commerce data](https://dev.to/98ip/python-crawler-practice-using-98ip-proxy-ip-to-obtain-cross-border-e-commerce-data-j8a)
+- [What is React and How it works ?](https://dev.to/kawsarkabir/what-is-react-and-how-it-works--gcd)
+- [How to Compile and Use fw_printenv in the OKMX6UL Series Linux 4.1.15 System](https://dev.to/ronnie_r_152dc2151d9449c6/how-to-compile-and-use-fwprintenv-in-the-okmx6ul-series-linux-4115-system-3kpo)
+- [Local Storage vs Session Storage: When to Use Each &lpar;With Mini Projects&rpar;](https://dev.to/peboycodes/local-storage-vs-session-storage-when-to-use-each-with-mini-projects-3flm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
