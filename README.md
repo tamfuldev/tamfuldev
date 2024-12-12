@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Personalized Insurance Policy Dashboard](https://dev.to/openkoda/building-a-personalized-insurance-policy-dashboard-21j4)
-- [How to install React and Tailwind in Termux](https://dev.to/ipigantenk/how-to-install-react-and-tailwind-with-vite-on-termux-48m5)
-- [There are at least 3 every programmer should know](https://dev.to/william4411/there-are-at-least-3-every-programmer-should-know-4hb9)
-- [Creatig an Instance EC2 and installing an IIS web server on AWS](https://dev.to/ajayi/creatig-an-instance-ec2-and-installing-an-iis-web-server-on-aws-1lfa)
-- [🚀 Meet APIRobots: APIs for Everything, Simplified](https://dev.to/apirobotspro/meet-apirobots-apis-for-everything-simplified-5ahp)
+- [Day8](https://dev.to/reegan/day8-3l7a)
+- [The Power of Design Systems: How to Create and Maintain a Consistent Design Language](https://dev.to/okoye_ndidiamaka_5e3b7d30/the-power-of-design-systems-how-to-create-and-maintain-a-consistent-design-language-1ik7)
+- [How to Make a Product Secure: A Developer&#39;s Perspective](https://dev.to/leo_scott_357f10236fabe00/how-to-make-a-product-secure-a-developers-perspective-3k2g)
+- [Discover .NET Scaffold: The Tool Revolutionizing .NET Development](https://dev.to/bytehide/discover-net-scaffold-the-tool-revolutionizing-net-development-2p8l)
+- [Uncle Owen, This R2 Unit Has a Bad Motivator!](https://dev.to/linkbenjamin/uncle-owen-this-r2-unit-has-a-bad-motivator-2dm8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
