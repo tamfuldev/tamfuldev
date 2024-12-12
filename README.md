@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up GraphQL and GraphiQL in Rails: A Comprehensive Guide](https://dev.to/sulmanweb/setting-up-graphql-and-graphiql-in-rails-a-comprehensive-guide-2n45)
-- [Advanced Selenium C# Guide: Leveraging Custom Waits and Dynamic Element Handling](https://dev.to/jignect_technologies/advanced-selenium-c-guide-leveraging-custom-waits-and-dynamic-element-handling-2ooj)
-- [How to understand the ins and outs of how DNS really works.](https://dev.to/xmanhugo/how-to-understand-the-ins-and-outs-of-how-dns-really-works-2hc0)
-- [7 Ways Intel Evo Elevates Mobile Computing Experiences](https://dev.to/jonathanjone/7-ways-intel-evo-elevates-mobile-computing-experiences-4plb)
-- [It’s cybersecurity’s kryptonite: Why are you still holding it?](https://dev.to/tidefoundation/its-cybersecuritys-kryptonite-why-are-you-still-holding-it-1ll9)
+- [What is BIOS?](https://dev.to/madgan95/what-is-bios-27jc)
+- [3 Methods to Test and Review Your Bicep Code](https://dev.to/latzo/3-methods-to-test-and-review-your-bicep-code-1h5m)
+- [Lessons and Skills: Insights from Recent Learning Experiences](https://dev.to/wiko_w/lessons-and-skills-insights-from-recent-learning-experiences-42a0)
+- [Pushpa&#39;s Rulebook for Developers: How to Thrive &lpar;Not Just Survive&rpar; in the Tech World 🚀](https://dev.to/sayyad_arsalan_97175d7177/pushpas-rulebook-for-developers-how-to-thrive-not-just-survive-in-the-tech-world-1fmh)
+- [Docker configurations for .NET applications and more](https://dev.to/angelodotnet/docker-configurations-for-net-applications-and-more-1pg8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
