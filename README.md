@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day One to Became an Android Developer](https://dev.to/himagaur2708/day-one-to-became-an-android-developer-2e37)
-- [Best Developer Portfolio Websites and Why They Work](https://dev.to/jtrevdev/best-developer-portfolio-websites-and-why-they-work-3bdk)
-- [Understanding Software Architecture Diagrams: Beyond the Blueprint](https://dev.to/alexander_uspenskiy_the_great/understanding-software-architecture-diagrams-beyond-the-blueprint-3lc)
-- [Mastering Linux Process Management Like a Pro 🚀](https://dev.to/theerej_c/mastering-linux-process-management-like-a-pro-40n4)
-- [If you want to grasp the fundamentals of bash scripting and its various applications, this article is the perfect resource for you. Dive in and discover its potential!](https://dev.to/onlyfave/if-you-want-to-grasp-the-fundamentals-of-bash-scripting-and-its-various-applications-this-article-586a)
+- [🕸️ How to Scrape Indonesian Public Company Profiles](https://dev.to/zororaka/how-to-scrape-indonesian-public-company-profiles-hd9)
+- [Jupyter Notebooks Are Like Spreadsheets](https://dev.to/aaronjbecker/jupyter-notebooks-are-like-spreadsheets-37b)
+- [ColdFusion Dump Alternative](https://dev.to/gamesover/coldfusion-dump-alternative-347b)
+- [FullStack App Using React and GraphQL &lpar;Apollo Client and Apollo Server&rpar;](https://dev.to/pedrotech/fullstack-app-using-react-and-graphql-apollo-client-and-apollo-server-10hm)
+- [Searching for a Resource on Machine Learning and AI Development](https://dev.to/beyond_thegates_143f2838/searching-for-a-resource-on-machine-learning-and-ai-development-2ijg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
