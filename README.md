@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What is BIOS?](https://dev.to/madgan95/what-is-bios-27jc)
-- [3 Methods to Test and Review Your Bicep Code](https://dev.to/latzo/3-methods-to-test-and-review-your-bicep-code-1h5m)
-- [Lessons and Skills: Insights from Recent Learning Experiences](https://dev.to/wiko_w/lessons-and-skills-insights-from-recent-learning-experiences-42a0)
-- [Pushpa&#39;s Rulebook for Developers: How to Thrive &lpar;Not Just Survive&rpar; in the Tech World 🚀](https://dev.to/sayyad_arsalan_97175d7177/pushpas-rulebook-for-developers-how-to-thrive-not-just-survive-in-the-tech-world-1fmh)
-- [Docker configurations for .NET applications and more](https://dev.to/angelodotnet/docker-configurations-for-net-applications-and-more-1pg8)
+- [Building a Modern Music Player App with Angular and Tailwind CSS](https://dev.to/manthanank/building-a-modern-music-player-app-with-angular-and-tailwind-css-213g)
+- [Floating Cats and 3D Cubes](https://dev.to/annavi11arrea1/floating-cats-and-3d-cubes-537l)
+- [Add Two Distances Using Structures in C++](https://dev.to/vultr/add-two-distances-using-structures-in-c-9ej)
+- [React Performance: Boost it with Tree Shaking](https://dev.to/bragaru-i/react-performance-boost-it-with-tree-shaking-3alp)
+- [MCP using node on asdf](https://dev.to/cojiroooo/mcp-using-node-on-asdf-382n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
