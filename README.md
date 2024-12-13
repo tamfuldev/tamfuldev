@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Best Free Alternative to IntelliJ HTTP Client](https://dev.to/apilover/the-best-free-alternative-to-intellij-http-client-21f1)
-- [Learn HTML in 5 Days](https://dev.to/kaja_uvais_a8691e947dd399/learn-html-in-5-days-30eo)
-- [How to Activate Windows 11 Using a Product Key or Digital License?](https://dev.to/win11verse/how-to-activate-windows-11-using-a-product-key-or-digital-license-3im1)
-- [Application of proxy IP in hot monitoring and trend analysis](https://dev.to/98ip/application-of-proxy-ip-in-hot-monitoring-and-trend-analysis-4gig)
-- [What is Chunk Size and Chunk Overlap](https://dev.to/tak089/what-is-chunk-size-and-chunk-overlap-1hlj)
+- [Understanding require vs import in JavaScript: A Practical Guide](https://dev.to/nishanthan-k/understanding-require-vs-import-in-javascript-a-practical-guide-4p8l)
+- [Turning Complex Tech Topics into Engaging Multimedia Content](https://dev.to/dizzy_strategy/turning-complex-tech-topics-into-engaging-multimedia-content-4a1d)
+- [Llama 3.3 vs OpenAI O1](https://dev.to/ashinno/llama-33-vs-openai-o1-623)
+- [New Free CI/CD Platform Enhances Mobile App Deployment: A Comprehensive Solution for Developers](https://dev.to/phuong_nguyen_rosa/new-free-cicd-platform-enhancesmobile-app-deploymenta-comprehensive-solution-for-developers-39hd)
+- [CIFAR10 in PyTorch](https://dev.to/hyperkai/cifar10-in-pytorch-4p79)
 <!-- BLOG-POST-LIST:END -->
 
 ---
