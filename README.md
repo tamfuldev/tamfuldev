@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Week 2 Recap: Learning in Public – Software Engineering with DevOps 🚀](https://dev.to/xetnopnawab/week-2-recap-learning-in-public-software-engineering-with-devops-3kk9)
-- [Building an Interactive Quiz App with Streamlit 🚀](https://dev.to/blamsa0mine/building-an-interactive-quiz-app-with-streamlit-31l1)
-- [Why Sanity is the Best CMS for the Healthcare Industry](https://dev.to/pagepro_agency/why-sanity-is-the-best-cms-for-the-healthcare-industry-b60)
-- [Union Labs’ $12M for Cross-Chain Growth, Etherspot’s ChA SDK, Starknet’s StarkGate v2.0, Portal’s Web3 Hub &amp; Wallet](https://dev.to/alexandradev/union-labs-12m-for-cross-chain-growth-etherspots-cha-sdk-starknets-starkgate-v20-portals-39pj)
-- [Search for records containing a specified string group in multi fields #eg90](https://dev.to/esproc_spl/search-for-records-containing-a-specified-string-group-in-multi-fields-eg90-50p5)
+- [Day 11: Advanced Docker Compose](https://dev.to/code42cate/day-11-advanced-docker-compose-32no)
+- [Hai everyone, please take a look at this blog post! I hope you will gain insightful knowledge](https://dev.to/lorebrada00/hai-everyone-please-take-a-look-at-this-blog-post-i-hope-you-will-gain-insightful-knowledge-1h3h)
+- [A Simple Guide to Choosing Licenses for Your Projects](https://dev.to/haamid/a-simple-guide-to-choosing-licenses-for-your-projects-fmn)
+- [Streamlining E-Commerce Campaigns: Proven Strategies for High-Impact Product Launches](https://dev.to/techgurulukas/streamlining-e-commerce-campaigns-proven-strategies-for-high-impact-product-launches-2f6c)
+- [Why an Accredited AI Certification Matters for Job Seekers in Tech](https://dev.to/georgiaweston/why-an-accredited-ai-certification-matters-for-job-seekers-in-tech-3f3i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
