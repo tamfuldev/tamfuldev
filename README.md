@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Azure: Providing storage for the IT department testing and training](https://dev.to/johnogbonna/azure-providing-storage-for-the-it-department-testing-and-training-47ga)
-- [Next.js starter template](https://dev.to/michalskolakxx/nextjs-starter-template-239p)
-- [[Java] Solucionando concorrência em schedules](https://dev.to/leonardomarques/java-solucionando-concorrencia-em-schedules-93c)
-- [A Comprehensive Guide to Interceptors in EF Core](https://dev.to/zrebhi/a-comprehensive-guide-to-interceptors-in-ef-core-pkj)
-- [What is an AI Agent?](https://dev.to/msnmongare/what-is-an-ai-agent-3ida)
+- [Learning Devops projects from beginner to advance.](https://dev.to/urdevops24/learning-devops-projects-from-beginner-to-advance-59ld)
+- [FiveM - resource hot reload](https://dev.to/justinmartindev/fivem-resource-hot-reload-oeg)
+- [Linear Search in PHP](https://dev.to/sharminshanta/linear-search-in-php-4ke8)
+- [&quot; Today marks a new chapter in my coding journey. I&#39;ve just completed learning JavaScript and can&#39;t wait to dive into my first project. Looking forward to learning more and connecting with the amazing community! #CodeNewbie](https://dev.to/sam1_subham/-today-marks-a-new-chapter-in-my-coding-journey-ive-just-completed-learning-javascript-and-cant-44dd)
+- [Github Actions Full Guide](https://dev.to/harshm03/github-actions-full-guide-5cm6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
