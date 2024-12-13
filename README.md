@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Best Practices for Writing Clean Code in Multiple Languages](https://dev.to/mradamus/best-practices-for-writing-clean-code-in-multiple-languages-5ebl)
-- [CRUD Operations with Express.js and MongoDB](https://dev.to/engrsakib/crud-operations-with-expressjs-and-mongodb-2l0d)
-- [10 Best Google Search Alternatives for 2025: Explore the Web Differently](https://dev.to/rironib/10-best-google-search-alternatives-for-2025-explore-the-web-differently-33ag)
-- [Exploring Python&#39;s itertools Module: Unlocking the Power of Iterators](https://dev.to/atharvgyan/exploring-pythons-itertools-module-unlocking-the-power-of-iterators-6c4)
-- [Building Express.js Backend Services Should be Easy!](https://dev.to/ivanivanovv/building-expressjs-backend-services-should-be-easy-2l30)
+- [It&#39;s one of the most thorough how-to guides I&#39;ve seen on any site, and it offers extreme flexibility for individual setup and Linux distribution preferences.](https://dev.to/zaznet/its-one-of-the-most-thorough-how-to-guides-ive-seen-on-any-site-and-it-offers-extreme-2fd3)
+- [I&#39;m Publishing Matanuska BASIC&#39;s ADRs](https://dev.to/jfhbrook/im-publishing-matanuskas-adrs-1fkg)
+- [Understanding Kubernetes Security: Common Vulnerabilities and Modern Solutions](https://dev.to/nolunchbreaks_22/understanding-kubernetes-security-common-vulnerabilities-and-modern-solutions-2p3j)
+- [What is Builder&#39;s Visual Development Platform?](https://dev.to/builderio/what-is-builders-visual-development-platform-3c3k)
+- [Day 5: Links](https://dev.to/theoriginalbpc/day-5-links-3aa8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
