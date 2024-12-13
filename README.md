@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Small Forms 1.7.0](https://dev.to/sebk69/small-forms-170-58ee)
-- [⛏️ Comprehensive Guide: 🧪 Load Testing FastAPI and Postman](https://dev.to/kainoah/comprehensive-guide-load-testing-fastapi-and-postman-1oip)
-- [&quot;Mastering Essential Software Architecture Patterns&quot; is your go-to guide for optimizing software design and achieving scalable, efficient systems! 🛠️](https://dev.to/lorebrada00/mastering-essential-software-architecture-patterns-is-your-go-to-guide-for-optimizing-software-5f49)
-- [Create Chart in React Using Chart.js || Chart JS Tutorial React](https://dev.to/rifkyalfarez/create-chart-in-react-using-chartjs-chart-js-tutorial-react-16pb)
-- [Data Visualisation in React Using Chart.js](https://dev.to/rifkyalfarez/data-visualisation-in-react-using-chartjs-41fe)
+- [🌐 The Ultimate and Most Comprehensive HTML Guide: Basics, Advanced Features, and Secrets to Master HTML 🚀](https://dev.to/hanzla-baig/the-ultimate-and-most-comprehensive-html-guide-basics-advanced-features-and-secrets-to-master-541g)
+- [Total Noob Running Script &amp; Source Code](https://dev.to/sue_zan404/total-noob-running-script-source-code-39op)
+- [The 12 Easiest Programming Languages to Learn](https://dev.to/arcanus47/the-12-easiest-programming-languages-to-learn-2gf)
+- [What Founders Must Do in Agentic LLM Era](https://dev.to/kamalabot/what-founders-must-do-in-agentic-llm-era-4ol1)
+- [Today I Learned](https://dev.to/tayodaniel/today-i-learned-5hml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
