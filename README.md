@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 11: Advanced Docker Compose](https://dev.to/code42cate/day-11-advanced-docker-compose-32no)
-- [Hai everyone, please take a look at this blog post! I hope you will gain insightful knowledge](https://dev.to/lorebrada00/hai-everyone-please-take-a-look-at-this-blog-post-i-hope-you-will-gain-insightful-knowledge-1h3h)
-- [A Simple Guide to Choosing Licenses for Your Projects](https://dev.to/haamid/a-simple-guide-to-choosing-licenses-for-your-projects-fmn)
-- [Streamlining E-Commerce Campaigns: Proven Strategies for High-Impact Product Launches](https://dev.to/techgurulukas/streamlining-e-commerce-campaigns-proven-strategies-for-high-impact-product-launches-2f6c)
-- [Why an Accredited AI Certification Matters for Job Seekers in Tech](https://dev.to/georgiaweston/why-an-accredited-ai-certification-matters-for-job-seekers-in-tech-3f3i)
+- [Exploring the Four Pillars of OOP with Fun Real-Life Examples 🚀](https://dev.to/nozibul_islam_113b1d5334f/exploring-the-four-pillars-of-oop-with-fun-real-life-examples-2p7p)
+- [The Art of Multi-tasking: Balancing Coding, Meetings and Personal Projects](https://dev.to/cryptosandy/the-art-of-multi-tasking-balancing-coding-meetings-and-personal-projects-5aad)
+- [Windows update translation mistake](https://dev.to/xwero/windows-update-translation-mistake-1cjj)
+- [Explaining the Delegates Concept !](https://dev.to/1hamzabek/explaining-the-delegates-concept--599b)
+- [Speculation Rules API: A Practical Deep Dive](https://dev.to/pmbanugo/speculation-rules-api-a-practical-deep-dive-43l2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
