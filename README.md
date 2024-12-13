@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Bash Scripting: Your Gateway to Linux Automation and Efficiency](https://dev.to/getvm/bash-scripting-your-gateway-to-linux-automation-and-efficiency-4n0f)
-- [IoT solution using IoT Hub, involves setting IoT Hub, device registering and to send telemetry data to Azure Blob Storage](https://dev.to/ikuesan_adeola/iot-solution-using-iot-hub-involves-setting-iot-hub-device-registering-and-to-send-telemetry-data-4h)
-- [Why I Built ThreejsResources.com and How It Helps the 3D Community.](https://dev.to/peter_csipkay/why-i-built-threejsresourcescom-and-how-it-helps-the-3d-community-203m)
-- [Como Habilitar o Provedor Legado no OpenSSL 3.x](https://dev.to/gifflet/como-habilitar-o-provedor-legado-no-openssl-3x-4cmj)
-- [Mario Rojas Espino: Liderazgo en la COP 16 y Compromiso con la Sostenibilidad Global](https://dev.to/marcos_aguirre_495921fc35/mario-rojas-espino-liderazgo-en-la-cop-16-y-compromiso-con-la-sostenibilidad-global-mo8)
+- [What’s your favorite framework for building GenAI applications? &lpar;LangChain, Haystack, LlamaIndex, or others?&rpar; 🚀](https://dev.to/eze_lanza/whats-your-favorite-framework-for-building-genai-applications-langchain-haystack-llamaindex-p6k)
+- [SQL database projects intro](https://dev.to/drewsk/sql-database-projects-intro-52hg)
+- [Azure Synapse PySpark Toolbox 001: Input/Output](https://dev.to/max_choo/azure-synapse-pyspark-toolbox-001-inputoutput-43fp)
+- [Day 13: Docker Multistage Builds](https://dev.to/code42cate/day-13-docker-multistage-builds-3pel)
+- [Security news weekly round-up - 13th December 2024](https://dev.to/ziizium/security-news-weekly-round-up-13th-december-2024-4f5m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
