@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🌐 The Ultimate and Most Comprehensive HTML Guide: Basics, Advanced Features, and Secrets to Master HTML 🚀](https://dev.to/hanzla-baig/the-ultimate-and-most-comprehensive-html-guide-basics-advanced-features-and-secrets-to-master-541g)
-- [Total Noob Running Script &amp; Source Code](https://dev.to/sue_zan404/total-noob-running-script-source-code-39op)
-- [The 12 Easiest Programming Languages to Learn](https://dev.to/arcanus47/the-12-easiest-programming-languages-to-learn-2gf)
-- [What Founders Must Do in Agentic LLM Era](https://dev.to/kamalabot/what-founders-must-do-in-agentic-llm-era-4ol1)
-- [Today I Learned](https://dev.to/tayodaniel/today-i-learned-5hml)
+- [The Best Free Alternative to IntelliJ HTTP Client](https://dev.to/apilover/the-best-free-alternative-to-intellij-http-client-21f1)
+- [Learn HTML in 5 Days](https://dev.to/kaja_uvais_a8691e947dd399/learn-html-in-5-days-30eo)
+- [How to Activate Windows 11 Using a Product Key or Digital License?](https://dev.to/win11verse/how-to-activate-windows-11-using-a-product-key-or-digital-license-3im1)
+- [Application of proxy IP in hot monitoring and trend analysis](https://dev.to/98ip/application-of-proxy-ip-in-hot-monitoring-and-trend-analysis-4gig)
+- [What is Chunk Size and Chunk Overlap](https://dev.to/tak089/what-is-chunk-size-and-chunk-overlap-1hlj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
