@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Recapping the AI, Machine Learning and Computer Meetup — December 12, 2024](https://dev.to/voxel51/recapping-the-ai-machine-learning-and-computer-meetup-december-12-2024-18em)
-- [Front End Conceitos Junior](https://dev.to/java2890/front-end-conceitos-junior-3gl3)
-- [Front end Conceitos II](https://dev.to/java2890/front-end-conceitos-ii-33ec)
-- [ASP.NET Interview Questions: Part 1 - &lpar;10 Q &amp; A&rpar;](https://dev.to/1hamzabek/aspnet-interview-questions-part-1-10-q-a-59do)
-- [My Second Barcamp Adventure in London 🇬🇧](https://dev.to/edithturn/my-second-barcamp-adventure-in-london-37cf)
+- [Small Forms 1.7.0](https://dev.to/sebk69/small-forms-170-58ee)
+- [⛏️ Comprehensive Guide: 🧪 Load Testing FastAPI and Postman](https://dev.to/kainoah/comprehensive-guide-load-testing-fastapi-and-postman-1oip)
+- [&quot;Mastering Essential Software Architecture Patterns&quot; is your go-to guide for optimizing software design and achieving scalable, efficient systems! 🛠️](https://dev.to/lorebrada00/mastering-essential-software-architecture-patterns-is-your-go-to-guide-for-optimizing-software-5f49)
+- [Create Chart in React Using Chart.js || Chart JS Tutorial React](https://dev.to/rifkyalfarez/create-chart-in-react-using-chartjs-chart-js-tutorial-react-16pb)
+- [Data Visualisation in React Using Chart.js](https://dev.to/rifkyalfarez/data-visualisation-in-react-using-chartjs-41fe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
