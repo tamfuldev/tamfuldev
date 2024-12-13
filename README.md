@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding require vs import in JavaScript: A Practical Guide](https://dev.to/nishanthan-k/understanding-require-vs-import-in-javascript-a-practical-guide-4p8l)
-- [Turning Complex Tech Topics into Engaging Multimedia Content](https://dev.to/dizzy_strategy/turning-complex-tech-topics-into-engaging-multimedia-content-4a1d)
-- [Llama 3.3 vs OpenAI O1](https://dev.to/ashinno/llama-33-vs-openai-o1-623)
-- [New Free CI/CD Platform Enhances Mobile App Deployment: A Comprehensive Solution for Developers](https://dev.to/phuong_nguyen_rosa/new-free-cicd-platform-enhancesmobile-app-deploymenta-comprehensive-solution-for-developers-39hd)
-- [CIFAR10 in PyTorch](https://dev.to/hyperkai/cifar10-in-pytorch-4p79)
+- [Crawlee GiveAway for our dev.to community! :&rpar;](https://dev.to/sauain/crawlee-giveaway-for-our-devto-community--2nkl)
+- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-7k6)
+- [Day 13: I love Boxes! 📦](https://dev.to/valeriavg/day-13-i-love-boxes-4hn)
+- [A New Start on Dev.to](https://dev.to/kamalhinduja/a-new-start-on-devto-2oaf)
+- [Queue, Deque, and Priority Queue: Key Data Structures Explained](https://dev.to/alex_ricciardi/queue-deque-and-priority-queue-key-data-structures-explained-pap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
