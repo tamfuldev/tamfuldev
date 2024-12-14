@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Protecting Student Privacy: Building a Secure Grades Viewer with React and Permit](https://dev.to/fadahunsiseyi/protecting-student-privacy-building-a-secure-grades-viewer-with-react-and-permit-474o)
-- [The Developing Tech Brain: Understanding How Technology Impacts the Brain and Finding Your Right Dose](https://dev.to/aniruddhaadak/the-developing-tech-brain-understanding-how-technology-impacts-the-brain-and-finding-your-right-2117)
-- [62/365 | ¥10M Job Challenge - AWS Certifications](https://dev.to/kameken100/62365-y10m-job-challenge-aws-certifications-4dod)
-- [Dev 11](https://dev.to/gchar/dev-11-aei)
-- [🔗 Blockchain Technology: Revolutionizing Digital Transactions](https://dev.to/aniruddhaadak/blockchain-technology-revolutionizing-digital-transactions-574a)
+- [[Boost]](https://dev.to/lovestaco/-2p7p)
+- [From Lama2 to LiveAPI: Building Super-Convenient API Documentation &lpar;Part II&rpar;](https://dev.to/lovestaco/from-lama2-to-liveapi-building-super-convenient-api-documentation-part-ii-1p2a)
+- [FX OS launch](https://dev.to/fxos/fx-os-launch-jde)
+- [How to Optimize Your CodeIgniter 3 Project for Performance](https://dev.to/aqus_tech_13404ef10df7ace/how-to-optimize-your-codeigniter-3-project-for-performance-3g3d)
+- [Angular module federation](https://dev.to/iant8/angular-module-federation-1d4l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
