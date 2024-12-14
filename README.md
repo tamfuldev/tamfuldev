@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Pattern 8: Queue](https://dev.to/arpitrathore/pattern-queue-g42)
-- [Pattern 7: Stack](https://dev.to/arpitrathore/pattern-stack-149o)
-- [Crystal Shard Burst](https://dev.to/ayusharpcoder/crystal-shard-burst-59k9)
-- [Pattern 6: LinkedList](https://dev.to/arpitrathore/pattern-linkedlist-1i76)
-- [Pattern 5: Binary Search](https://dev.to/arpitrathore/pattern-binary-search-34b9)
+- [Explorer l&#39;API de 360Learning : de l&#39;agilité de Power Query à la robustesse de la Modern Data Stack](https://dev.to/onepoint/explorer-lapi-de-360learning-de-lagilite-de-power-query-a-la-robustesse-de-la-modern-data-stack-5739)
+- [Patten 19 - Dynamic Programming](https://dev.to/arpitrathore/patten-19-dynamic-programming-10c9)
+- [Issue with mismatched tensor sizes during training with DeepSpeed](https://dev.to/_1f0995eba7c81ed78c499/issue-with-mismatched-tensor-sizes-during-training-with-deepspeed-506k)
+- [AWS](https://dev.to/fenil_patel_04/aws-2lak)
+- [Pattern 18: Backtracking](https://dev.to/arpitrathore/pattern-18-backtracking-l17)
 <!-- BLOG-POST-LIST:END -->
 
 ---
