@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/lovestaco/-2p7p)
-- [From Lama2 to LiveAPI: Building Super-Convenient API Documentation &lpar;Part II&rpar;](https://dev.to/lovestaco/from-lama2-to-liveapi-building-super-convenient-api-documentation-part-ii-1p2a)
-- [FX OS launch](https://dev.to/fxos/fx-os-launch-jde)
-- [How to Optimize Your CodeIgniter 3 Project for Performance](https://dev.to/aqus_tech_13404ef10df7ace/how-to-optimize-your-codeigniter-3-project-for-performance-3g3d)
-- [Angular module federation](https://dev.to/iant8/angular-module-federation-1d4l)
+- [Secure-by-Design: How AWS, Microsoft, and Others Are Embracing CISA&#39;s Cyber Goals](https://dev.to/iammikeade/secure-by-design-how-aws-microsoft-and-others-are-embracing-cisas-cyber-goals-49jl)
+- [Data Link Layer: Computer Networks](https://dev.to/harshm03/data-link-layer-computer-networks-55pc)
+- [A Guiding Influence: The Man Who Shaped My Perspective](https://dev.to/wiko_w/a-guiding-influence-the-man-who-shaped-my-perspective-4d4o)
+- [A Media Server on Steroids - Walkthrough](https://dev.to/ravenesc/a-media-server-on-steroids-walkthrough-9c7)
+- [UI Card Library](https://dev.to/abhirajadhikary06/ui-card-library-5d4k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
