@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What’s your favorite framework for building GenAI applications? &lpar;LangChain, Haystack, LlamaIndex, or others?&rpar; 🚀](https://dev.to/eze_lanza/whats-your-favorite-framework-for-building-genai-applications-langchain-haystack-llamaindex-p6k)
-- [SQL database projects intro](https://dev.to/drewsk/sql-database-projects-intro-52hg)
-- [Azure Synapse PySpark Toolbox 001: Input/Output](https://dev.to/max_choo/azure-synapse-pyspark-toolbox-001-inputoutput-43fp)
-- [Day 13: Docker Multistage Builds](https://dev.to/code42cate/day-13-docker-multistage-builds-3pel)
-- [Security news weekly round-up - 13th December 2024](https://dev.to/ziizium/security-news-weekly-round-up-13th-december-2024-4f5m)
+- [Effective Ways to Use Locks in Kotlin](https://dev.to/arsenikavalchuk/effective-ways-to-use-locks-in-kotlin-3j9b)
+- [Resilience &amp; Adaptability](https://dev.to/bxdevtech/resilience-adaptability-3jh5)
+- [7 Powerful Python Performance Optimization Techniques for Faster Code](https://dev.to/aaravjoshi/7-powerful-python-performance-optimization-techniques-for-faster-code-51ii)
+- [Day 1074 : Fingers](https://dev.to/dwane/day-1074-fingers-pm)
+- [Beyond Type Safety: making TypeScript smarter by Building a Runtime Picker](https://dev.to/hichemtab-tech/beyond-type-safety-making-typescript-smarter-by-building-a-runtime-picker-26d5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
