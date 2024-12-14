@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Part 9: Building Your Own AI - Natural Language Processing &lpar;NLP&rpar; for Language Understanding](https://dev.to/trixsec/part-9-building-your-own-ai-natural-language-processing-nlp-for-language-understanding-3m62)
-- [Installing your react.js local package registry to your project](https://dev.to/midhunkrishnan/installing-your-reactjs-local-package-registry-to-your-project-2a2i)
-- [EKS &amp; NGINX Load Balancer Monitor with Prometheus, Grafana, and Alerts](https://dev.to/aws-builders/eks-nginx-load-balancer-monitor-with-prometheus-grafana-and-alerts-1ikf)
-- [Testing](https://dev.to/javascriptar/testing-47pj)
-- [Cerbos:-&gt; Authorization-as-a-Service](https://dev.to/dharm_joshi_9e129500eb7d1/cerbos-authorization-as-a-service-oco)
+- [Mastering Testing and Continuous Learning: Steps to Become a Better Software Engineer 💯](https://dev.to/alisamir/mastering-testing-and-continuous-learning-steps-to-become-a-better-software-engineer-an1)
+- [Weekend Project: Create a Personalized Job Posting Agent](https://dev.to/joerg_rech/weekend-project-create-a-personalized-job-posting-agent-2p5a)
+- [How to Ensure Your Startup Fails Spectacularly 🚀💥](https://dev.to/cypriantinasheaarons/how-to-ensure-your-startup-fails-spectacularly-14no)
+- [How to Deploy Google Cloud Functions with GitHub Actions](https://dev.to/mkdev/how-to-deploy-google-cloud-functions-with-github-actions-2ggm)
+- [Building Trust Through Follow-Up Conversations](https://dev.to/shray_lead_8841247cad400/building-trust-through-follow-up-conversations-1nm6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
