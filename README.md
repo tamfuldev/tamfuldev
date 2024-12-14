@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Por que eu não uso bibliotecas de gerenciamento de estado no React](https://dev.to/oieduardorabelo/por-que-eu-nao-uso-bibliotecas-de-gerenciamento-de-estado-no-react-1i)
-- [PGP Public Key](https://dev.to/little-amy/pgp-public-key-4ii)
-- [Introduction to data analysis with Python: Part 1 - Data types and Variables](https://dev.to/jeornee/introduction-to-data-analysis-with-python-part-1-data-types-and-variables-1jjj)
-- [How to install SSH Server in Termux](https://dev.to/ipigantenk/how-to-install-ssh-server-in-termux-37fa)
-- [GenQE: Redefining Software Testing and Innovation](https://dev.to/anil_csimplifyit_905c/genqe-redefining-software-testing-and-innovation-bdb)
+- [Empowering Web Privacy with Rust: Intro](https://dev.to/zhukmax/empowering-web-privacy-with-rust-intro-b3h)
+- [Free Programming Resources: Your Gateway to Coding Excellence](https://dev.to/getvm/free-programming-resources-your-gateway-to-coding-excellence-3j0e)
+- [GMX.css now in NPM!](https://dev.to/ligmatv/gmxcss-now-in-npm-4l13)
+- [Dev5](https://dev.to/gchar/dev5-51bn)
+- [How to Remove PIN from Account in Windows 11?](https://dev.to/win11verse/how-to-remove-pin-from-account-in-windows-11-1679)
 <!-- BLOG-POST-LIST:END -->
 
 ---
