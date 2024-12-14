@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Testing and Continuous Learning: Steps to Become a Better Software Engineer 💯](https://dev.to/alisamir/mastering-testing-and-continuous-learning-steps-to-become-a-better-software-engineer-an1)
-- [Weekend Project: Create a Personalized Job Posting Agent](https://dev.to/joerg_rech/weekend-project-create-a-personalized-job-posting-agent-2p5a)
-- [How to Ensure Your Startup Fails Spectacularly 🚀💥](https://dev.to/cypriantinasheaarons/how-to-ensure-your-startup-fails-spectacularly-14no)
-- [How to Deploy Google Cloud Functions with GitHub Actions](https://dev.to/mkdev/how-to-deploy-google-cloud-functions-with-github-actions-2ggm)
-- [Building Trust Through Follow-Up Conversations](https://dev.to/shray_lead_8841247cad400/building-trust-through-follow-up-conversations-1nm6)
+- [How to Improve Your Website’s Performance with Lighthouse Metrics](https://dev.to/mosrah/how-to-improve-your-websites-performance-with-lighthouse-metrics-59cf)
+- [Mastering Python for Web Development: Best Practices 🐍💻](https://dev.to/hexadecimalsoftware/mastering-python-for-web-development-best-practices-2457)
+- [Master the MERN Stack: Your Complete Guide to Becoming a Full-Stack Developer in 2025 &lpar;with Month-by-Month Learning Plan&rpar;](https://dev.to/engrsakib/master-the-mern-stack-your-complete-guide-to-becoming-a-full-stack-developer-in-2025-with-16m3)
+- [Learning Python - A Beginner&#39;s Guide](https://dev.to/askyt/learning-python-a-beginners-guide-3odf)
+- [How to Set Up a Local Ubuntu Server to Host Ollama Models with a WebUI](https://dev.to/korak997/how-to-set-up-a-local-ubuntu-server-to-host-ollama-models-with-a-webui-ok7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
