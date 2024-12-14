@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Transform Your Development Workflow with Thakur Technologies](https://dev.to/thakurtechnologies/transform-your-development-workflow-with-thakur-technologies-d35)
-- [How to Reset a Forgotten MariaDB User Password](https://dev.to/mkbs_alaa/how-to-reset-a-forgotten-mariadb-user-password-2lpo)
-- [Context, Redux or Composition?](https://dev.to/payapula/context-redux-or-composition-58ci)
-- [How do you know you have enough data?](https://dev.to/manonja/how-do-you-know-you-have-enough-data-138b)
-- [Git: A Guide to Mastering Version Control](https://dev.to/rahulyavvari/git-a-guide-to-mastering-version-control-ob9)
+- [Burp Suite: The Web Application Security Powerhouse](https://dev.to/mohanavamsi0614/burp-suite-the-web-application-security-powerhouse-14i2)
+- [Classe genérica com dois parâmetros de tipo](https://dev.to/javaparainiciantes/classe-generica-com-dois-parametros-de-tipo-e-a-forma-geral-de-uma-classe-generica-17d9)
+- [Nmap: Mapping Your Network Like a Pro](https://dev.to/mohanavamsi0614/nmap-mapping-your-network-like-a-pro-1ap3)
+- [Tiêu chuẩn trình bày file DOCX khi làm đồ án](https://dev.to/longtth/tieu-chuan-trinh-bay-file-docx-khi-lam-do-an-3ohc)
+- [Day 6: Structural and Semantic Tags](https://dev.to/theoriginalbpc/day-6-structural-and-semantic-tags-1o89)
 <!-- BLOG-POST-LIST:END -->
 
 ---
