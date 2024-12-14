@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing EldoraUI 2.0 🚀](https://dev.to/karthikmudunuri/introducing-eldoraui-20-11f6)
-- [Dev10V2](https://dev.to/gchar/dev10v2-3jle)
-- [From Paper to Code: Why Security is Now a Business Imperative for Developers](https://dev.to/sulav_dahal/from-paper-to-code-why-security-is-now-a-business-imperative-for-developers-2g47)
-- [The Traffic Cop of the Internet: A Fun Guide to Load Balancers](https://dev.to/akshitzatakia/the-traffic-cop-of-the-internet-a-fun-guide-to-load-balancers-3li3)
-- [Building a Practical IoT Solution with Azure IoT Hub: From Device Setup to Telemetry Data Storage](https://dev.to/unique-tea/building-a-practical-iot-solution-with-azure-iot-hub-from-device-setup-to-telemetry-data-storage-3lm8)
+- [Transform Your Development Workflow with Thakur Technologies](https://dev.to/thakurtechnologies/transform-your-development-workflow-with-thakur-technologies-d35)
+- [How to Reset a Forgotten MariaDB User Password](https://dev.to/mkbs_alaa/how-to-reset-a-forgotten-mariadb-user-password-2lpo)
+- [Context, Redux or Composition?](https://dev.to/payapula/context-redux-or-composition-58ci)
+- [How do you know you have enough data?](https://dev.to/manonja/how-do-you-know-you-have-enough-data-138b)
+- [Git: A Guide to Mastering Version Control](https://dev.to/rahulyavvari/git-a-guide-to-mastering-version-control-ob9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
