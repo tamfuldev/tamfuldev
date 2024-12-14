@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Improving TypeScript Metadata Type Safety with ts-reflector](https://dev.to/e22m4u/improving-typescript-metadata-type-safety-with-ts-reflector-2j5)
-- [Understanding the Data Link and Physical Layers: The Final Step in Mastering OSI Model and Computer Networking](https://dev.to/vignesh_j/understanding-the-data-link-and-physical-layers-the-final-step-in-mastering-osi-model-and-computer-6g)
-- [BigDAG: A Simple Tool for Managing BigQuery Workflows](https://dev.to/feroult/bigdag-a-simple-tool-for-managing-bigquery-workflows-23o2)
-- [📚 Understand More About RDBMS and NoSQL Through Analyzing PostgreSQL and MongoDB](https://dev.to/truongpx396/understand-more-about-rdbms-and-nosql-through-analyzing-postgresql-and-mongodb-3ojc)
-- [With the growing demand for enterprise deployment of services in the cloud, ensuring seamless connectivity across multiple VPCs in the AWS cloud has become essential. AWS Transit Gateway is the ideal solution for this need. The article below provides a det](https://dev.to/ojotemitopseun/with-the-growing-demand-for-enterprise-deployment-of-services-in-the-cloud-ensuring-seamless-4dhe)
+- [Introducing EldoraUI 2.0 🚀](https://dev.to/karthikmudunuri/introducing-eldoraui-20-11f6)
+- [Dev10V2](https://dev.to/gchar/dev10v2-3jle)
+- [From Paper to Code: Why Security is Now a Business Imperative for Developers](https://dev.to/sulav_dahal/from-paper-to-code-why-security-is-now-a-business-imperative-for-developers-2g47)
+- [The Traffic Cop of the Internet: A Fun Guide to Load Balancers](https://dev.to/akshitzatakia/the-traffic-cop-of-the-internet-a-fun-guide-to-load-balancers-3li3)
+- [Building a Practical IoT Solution with Azure IoT Hub: From Device Setup to Telemetry Data Storage](https://dev.to/unique-tea/building-a-practical-iot-solution-with-azure-iot-hub-from-device-setup-to-telemetry-data-storage-3lm8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
