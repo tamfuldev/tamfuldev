@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Effective Ways to Use Locks in Kotlin](https://dev.to/arsenikavalchuk/effective-ways-to-use-locks-in-kotlin-3j9b)
-- [Resilience &amp; Adaptability](https://dev.to/bxdevtech/resilience-adaptability-3jh5)
-- [7 Powerful Python Performance Optimization Techniques for Faster Code](https://dev.to/aaravjoshi/7-powerful-python-performance-optimization-techniques-for-faster-code-51ii)
-- [Day 1074 : Fingers](https://dev.to/dwane/day-1074-fingers-pm)
-- [Beyond Type Safety: making TypeScript smarter by Building a Runtime Picker](https://dev.to/hichemtab-tech/beyond-type-safety-making-typescript-smarter-by-building-a-runtime-picker-26d5)
+- [Por que eu não uso bibliotecas de gerenciamento de estado no React](https://dev.to/oieduardorabelo/por-que-eu-nao-uso-bibliotecas-de-gerenciamento-de-estado-no-react-1i)
+- [PGP Public Key](https://dev.to/little-amy/pgp-public-key-4ii)
+- [Introduction to data analysis with Python: Part 1 - Data types and Variables](https://dev.to/jeornee/introduction-to-data-analysis-with-python-part-1-data-types-and-variables-1jjj)
+- [How to install SSH Server in Termux](https://dev.to/ipigantenk/how-to-install-ssh-server-in-termux-37fa)
+- [GenQE: Redefining Software Testing and Innovation](https://dev.to/anil_csimplifyit_905c/genqe-redefining-software-testing-and-innovation-bdb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
