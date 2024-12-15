@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [INSY 8211 &amp; Intro to Linux Administration - part_1 [Network and Web Server Configuration]](https://dev.to/ezechiel_kiregha_7e7dbc11/insy-8211-intro-to-linux-administration-part1-network-and-web-server-configuration-3l28)
-- [Terraform Variables](https://dev.to/suleymanakturk/terraform-variables-2g5d)
-- [48th day of my CP journey](https://dev.to/prasanna2910/48th-day-of-my-cp-journey-3822)
-- [WireShark and Scapy](https://dev.to/chamarthiraahul/wireshark-and-scapy-11f4)
-- [Cross-Platform UI Development with Jetpack Compose Multiplatform](https://dev.to/atlantis/cross-platform-ui-development-with-jetpack-compose-multiplatform-1glo)
+- [Deploying an Application to a Cloud Provider Using a CI-CD Pipeline](https://dev.to/574n13y/deploying-an-application-to-a-cloud-provider-using-a-ci-cd-pipeline-14hp)
+- [🚀 When to Use VPS, Vercel, and Cloudflare Worker: A Detailed Comparison](https://dev.to/zororaka/when-to-use-vps-vercel-and-cloudflare-worker-a-detailed-comparison-3nm0)
+- [Day Three to Became an Android Developer](https://dev.to/himagaur2708/day-three-to-became-an-android-developer-pnc)
+- [Qwik Resumability Explained](https://dev.to/nafizmahmud_94/qwik-resumability-explained-46fc)
+- [50th day of my CP journey](https://dev.to/prasanna2910/50th-day-of-my-cp-journey-4o6g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
