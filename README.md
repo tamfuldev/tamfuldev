@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Memahami Function Ticker di JavaScript: Cara Kerja dan Penjelasan Detail](https://dev.to/rantidhanty/memahami-function-ticker-di-javascript-cara-kerja-dan-penjelasan-detail-4e9f)
-- [Abusive Email Summary Assistant &lpar;Open Source Configuration Text&rpar;](https://dev.to/danielrosehill/abusive-email-summary-assistant-open-source-configuration-text-1cem)
-- [Mastering React: The Must-Use Hooks You Need to Know 💡](https://dev.to/abhivyaktii/mastering-react-the-must-use-hooks-you-need-to-know-2o6o)
-- [Ask Anything in VS Code now for Development!](https://dev.to/nikl/ask-anything-in-vs-code-now-for-development-28p9)
-- [Deploy Java Spring boot project as systemd service](https://dev.to/xinitd/deploy-java-spring-boot-project-as-systemd-service-53cj)
+- [INSY 8211 &amp; Intro to Linux Administration - part_1 [Network and Web Server Configuration]](https://dev.to/ezechiel_kiregha_7e7dbc11/insy-8211-intro-to-linux-administration-part1-network-and-web-server-configuration-3l28)
+- [Terraform Variables](https://dev.to/suleymanakturk/terraform-variables-2g5d)
+- [48th day of my CP journey](https://dev.to/prasanna2910/48th-day-of-my-cp-journey-3822)
+- [WireShark and Scapy](https://dev.to/chamarthiraahul/wireshark-and-scapy-11f4)
+- [Cross-Platform UI Development with Jetpack Compose Multiplatform](https://dev.to/atlantis/cross-platform-ui-development-with-jetpack-compose-multiplatform-1glo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
