@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Formal Verification: An Example](https://dev.to/meeshbhoombah/formal-verification-an-example-33c)
-- [Preventing Tangles and Mats in Long-Haired Chihuahuas](https://dev.to/pinelumber25/preventing-tangles-and-mats-in-long-haired-chihuahuas-25h2)
-- [Arquitecturas distribuidas y replicación en AWS: Garantizando disponibilidad a escala global](https://dev.to/briansuarezsantiago/arquitecturas-distribuidas-y-replicacion-en-aws-garantizando-disponibilidad-a-escala-global-2001)
-- [Already done with the second week! Join the quiz to be in the Merch raffle :&rpar;](https://dev.to/code42cate/already-done-with-the-second-week-join-the-quiz-to-be-in-the-merch-raffle--2aef)
-- [Day 15: Week 2 Quiz](https://dev.to/code42cate/day-15-week-2-quiz-46gm)
+- [LLMs in Real-Time Applications: Latency Optimization and Scalability](https://dev.to/virajlakshitha/llms-in-real-time-applications-latency-optimization-and-scalability-307n)
+- [Monica AI: Unlock the Power of AI for Developers](https://dev.to/tharindumadubashna/monica-ai-unlock-the-power-of-ai-for-developers-4hki)
+- [How does Optional.ifPresent&lpar;&rpar; differ from Optional.orElse&lpar;&rpar;?](https://dev.to/realnamehidden1_61/how-does-optionalifpresent-differ-from-optionalorelse-391e)
+- [Exploring Tailwind CSS 3: Advanced Utility-First Design Techniques](https://dev.to/tharindumadubashna/exploring-tailwind-css-3-advanced-utility-first-design-techniques-9oe)
+- [Pagination Component in React](https://dev.to/softden_2005/pagination-component-in-react-3iah)
 <!-- BLOG-POST-LIST:END -->
 
 ---
