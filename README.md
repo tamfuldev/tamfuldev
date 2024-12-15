@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking Mental Health Access Through Telehealth](https://dev.to/prettysoul2025/unlocking-mental-health-access-through-telehealth-2ib)
-- [Dev15](https://dev.to/gchar/dev15-3ef3)
-- [Dev14patch](https://dev.to/gchar/dev14patch-2d5o)
-- [Dev13](https://dev.to/gchar/dev13-3chk)
-- [Dev12](https://dev.to/gchar/dev12-16in)
+- [Formal Verification: An Example](https://dev.to/meeshbhoombah/formal-verification-an-example-33c)
+- [Preventing Tangles and Mats in Long-Haired Chihuahuas](https://dev.to/pinelumber25/preventing-tangles-and-mats-in-long-haired-chihuahuas-25h2)
+- [Arquitecturas distribuidas y replicación en AWS: Garantizando disponibilidad a escala global](https://dev.to/briansuarezsantiago/arquitecturas-distribuidas-y-replicacion-en-aws-garantizando-disponibilidad-a-escala-global-2001)
+- [Already done with the second week! Join the quiz to be in the Merch raffle :&rpar;](https://dev.to/code42cate/already-done-with-the-second-week-join-the-quiz-to-be-in-the-merch-raffle--2aef)
+- [Day 15: Week 2 Quiz](https://dev.to/code42cate/day-15-week-2-quiz-46gm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
