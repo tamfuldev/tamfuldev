@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying an Application to a Cloud Provider Using a CI-CD Pipeline](https://dev.to/574n13y/deploying-an-application-to-a-cloud-provider-using-a-ci-cd-pipeline-14hp)
-- [🚀 When to Use VPS, Vercel, and Cloudflare Worker: A Detailed Comparison](https://dev.to/zororaka/when-to-use-vps-vercel-and-cloudflare-worker-a-detailed-comparison-3nm0)
-- [Day Three to Became an Android Developer](https://dev.to/himagaur2708/day-three-to-became-an-android-developer-pnc)
-- [Qwik Resumability Explained](https://dev.to/nafizmahmud_94/qwik-resumability-explained-46fc)
-- [50th day of my CP journey](https://dev.to/prasanna2910/50th-day-of-my-cp-journey-4o6g)
+- [React 19 Finally Stable, New Rust-Based JavaScript Framework, New Developer Tools, and more](https://dev.to/thisweekinjavascript/react-19-finally-stable-new-rust-based-javascript-framework-new-developer-tools-and-more-5aj5)
+- [Understanding Async/Await](https://dev.to/tak089/understanding-asyncawait-1pg1)
+- [The Role of Firewalls in Cybersecurity](https://dev.to/chamarthiraahul/the-role-of-firewalls-in-cybersecurity-pi5)
+- [TDoC &#39;24 Day 1 : Kickstarting Python and Setting Up Anaconda , VocalShift Project Kickoff 🚀](https://dev.to/gitleohere/tdoc-24-day-1-kickstarting-python-and-setting-up-anaconda-vocalshift-project-kickoff-4p6g)
+- [Automated Deployments of Meteor.js bundle using Terraform](https://dev.to/thepurveshpanchal/automated-deployments-of-meteorjs-bundle-using-terraform-1i3g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
