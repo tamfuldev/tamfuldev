@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Journal - 1-11-24](https://dev.to/rishitha_nallapureddy_751/journal-1-11-24-4868)
-- [Journal - 30-10-24](https://dev.to/rishitha_nallapureddy_751/journal-30-10-24-135m)
-- [Journal - 29-10-24](https://dev.to/rishitha_nallapureddy_751/journal-29-10-24-700)
-- [My journey in competitive programming](https://dev.to/mukilan_palanichamy_ecaa5/my-journey-in-competitive-programming-2bba)
-- [In Problem Solving Journey](https://dev.to/karthika_movva/in-problem-solving-journey-28bp)
+- [Enumeration](https://dev.to/chamarthirahul/enumeration-2jlf)
+- [Networking Step-by-Step](https://dev.to/chamarthirahul/networking-step-by-step-1892)
+- [Understand the terminologies of in CS](https://dev.to/chamarthirahul/understand-the-terminologies-of-in-cs-2172)
+- [43rd day of my CP journey](https://dev.to/prasanna2910/43rd-day-of-my-cp-journey-fl4)
+- [Amazon Q Developer Tips: No.15 CHat Orientated Programming &lpar;CHOP&rpar;](https://dev.to/aws/amazon-q-developer-tips-no15-chat-orientated-programming-chop-4ekg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
