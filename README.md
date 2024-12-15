@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [This week experience](https://dev.to/karthika_movva/this-week-experience-2da2)
-- [Database Performance Strategies](https://dev.to/parzival_computer/database-performance-strategies-2ilc)
-- [39th day of my CP jounery](https://dev.to/prasanna2910/39th-day-of-my-cp-jounery-3fd4)
-- [This week experience](https://dev.to/karthika_movva/this-week-experience-4pol)
-- [Catching Infinity](https://dev.to/mary_joseph_44fa3cbfbb74e/catching-infinity-5963)
+- [Journal - 1-11-24](https://dev.to/rishitha_nallapureddy_751/journal-1-11-24-4868)
+- [Journal - 30-10-24](https://dev.to/rishitha_nallapureddy_751/journal-30-10-24-135m)
+- [Journal - 29-10-24](https://dev.to/rishitha_nallapureddy_751/journal-29-10-24-700)
+- [My journey in competitive programming](https://dev.to/mukilan_palanichamy_ecaa5/my-journey-in-competitive-programming-2bba)
+- [In Problem Solving Journey](https://dev.to/karthika_movva/in-problem-solving-journey-28bp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
