@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My 2024 AI Engineer Roadmap List](https://dev.to/cypriantinasheaarons/my-2024-ai-engineer-roadmap-list-1i8n)
-- [Service Objects: Level Up Your Rails Architecture](https://dev.to/sulmanweb/service-objects-level-up-your-rails-architecture-2pej)
-- [14th day of my CP journey](https://dev.to/prasanna2910/14th-day-of-my-cp-journey-480j)
-- [Copper Cladding In Euroclad](https://dev.to/nathan_pilkington_9f500a3/copper-cladding-in-euroclad-2n09)
-- [Exploring the iOS 18.2 Update: Features and Enhancements](https://dev.to/shreyash-hexa/exploring-the-ios-182-update-features-and-enhancements-1de3)
+- [Bulletproof SMTP Relay Service for Email Marketing](https://dev.to/otismilburnn/bulletproof-smtp-relay-service-for-email-marketing-59jl)
+- [Comparing Open-Source Vision Models for Photo Description Tasks Using .NET Aspire](https://dev.to/syamaner/comparing-open-source-vision-models-for-photo-description-tasks-using-net-aspire-2ebm)
+- [Voice First: Why Developers Should Tune In to the Voice Revolution](https://dev.to/sayyad_arsalan_97175d7177/voice-first-why-developers-should-tune-in-to-the-voice-revolution-615)
+- [The world without CSS](https://dev.to/pagesword/the-world-without-css-2g92)
+- [Taranify Mood AI](https://dev.to/miles_parker_b694cab3f9bd/taranify-mood-ai-3hbc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
