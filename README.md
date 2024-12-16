@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My journey in Competitive Programming](https://dev.to/mukilan_palanichamy_ecaa5/my-journey-in-competitive-programming-5942)
-- [Why are Props Immutable in React?](https://dev.to/nozibul_islam_113b1d5334f/why-are-props-immutable-in-react-bin)
-- [Modularization in Flutter App](https://dev.to/tentanganak/modularization-in-flutter-app-bb6)
-- [For A Despicably Good Cause : Small Steps, Big Impact!](https://dev.to/balagmadhu/for-a-despicably-good-cause-small-steps-big-impact-2g96)
-- [How to Use Extended Security Posture Management &lpar;XSPM&rpar; for Continuous Security Validation](https://dev.to/micromindercs/how-to-use-extended-security-posture-management-xspm-for-continuous-security-validation-36m7)
+- [How Accessibility Can Supercharge Your SEO Game](https://dev.to/dumebii/how-accessibility-can-supercharge-your-seo-game-48c0)
+- [The Data Lake’s Impossible Triangle](https://dev.to/esproc_spl/the-data-lakes-impossible-triangle-4cjf)
+- [Best Email Encryption Software](https://dev.to/idjuric660/best-email-encryption-software-2ppb)
+- [Day 45: Competitive Programming Journal](https://dev.to/jayadev_jatin/day-45-competitive-programming-journal-23cg)
+- [Mastering Go Error Handling: Best Practices for Robust Applications](https://dev.to/aaravjoshi/mastering-go-error-handling-best-practices-for-robust-applications-53a0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
