@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing Stimulus FX](https://dev.to/railsdesigner/announcing-stimulus-fx-1hlc)
-- [The problem with usePrevious and similar time oriented hooks](https://dev.to/felipegs/the-problem-with-useprevious-and-similar-time-oriented-hooks-7ij)
-- [In my Problem Solving Journey](https://dev.to/karthika_movva/in-my-problem-solving-journey-229p)
-- [My Problem Solving Experience](https://dev.to/karthika_movva/my-problem-solving-experience-53j9)
-- [[Boost]](https://dev.to/uliyahoo/-57ik)
+- [Launching YAMLFish, a simple translations management tool](https://dev.to/intrepidd/launching-yamlfish-a-simple-translations-management-tool-51g2)
+- [Guide to breaking down and understanding C# errors](https://dev.to/zhenni_wu_28d825b0254dcde/guide-to-breaking-down-and-understanding-c-errors-2472)
+- [JavaScriptmas 2024 - Week 3](https://dev.to/michaellarocca/javascriptmas-2024-week-3-81a)
+- [Docker Advance Part 4: Docker Format Flag Is Too EASY to Understand](https://dev.to/mammadyahyayev/docker-advance-part-4-docker-format-flag-is-too-easy-to-understand-2ik)
+- [Top 5 Time-Tracking Tools for Remote Teams](https://dev.to/devvemeka/top-5-time-tracking-tools-for-remote-teams-1epm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
