@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Launching YAMLFish, a simple translations management tool](https://dev.to/intrepidd/launching-yamlfish-a-simple-translations-management-tool-51g2)
-- [Guide to breaking down and understanding C# errors](https://dev.to/zhenni_wu_28d825b0254dcde/guide-to-breaking-down-and-understanding-c-errors-2472)
-- [JavaScriptmas 2024 - Week 3](https://dev.to/michaellarocca/javascriptmas-2024-week-3-81a)
-- [Docker Advance Part 4: Docker Format Flag Is Too EASY to Understand](https://dev.to/mammadyahyayev/docker-advance-part-4-docker-format-flag-is-too-easy-to-understand-2ik)
-- [Top 5 Time-Tracking Tools for Remote Teams](https://dev.to/devvemeka/top-5-time-tracking-tools-for-remote-teams-1epm)
+- [React native](https://dev.to/graham_logan_dfbaf718e13f/react-native-25mg)
+- [🐋 Ripple Whale Withdraws $2.2 Billion XRP, Eyes on $4.5 🚀](https://dev.to/sergi_web3/ripple-whale-withdraws-22-billion-xrp-eyes-on-45-2nmj)
+- [Firewall Testing 101: How to Secure Your Network and Block Cyber Threats](https://dev.to/sebos/firewall-testing-101-how-to-secure-your-network-and-block-cyber-threats-oe0)
+- [Forecast anything without the ML hustle.](https://dev.to/dominik_safaric_b47bfbdd7/forecast-anything-without-the-ml-hustle-45b8)
+- [🚀 Crypto Bull Run 2025: What’s Next for $BTC and Altcoins? 🌟](https://dev.to/joshthebtc/crypto-bull-run-2025-whats-next-for-btc-and-altcoins-220j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
