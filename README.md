@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SEND Africa: Building a Web3 Solution for Seamless Peer-to-Peer USDC Transfers](https://dev.to/faisal_the1st/send-africa-building-a-web3-solution-for-seamless-peer-to-peer-usdc-transfers-4ddp)
-- [Texture Mapping in Computer Graphics — WebGL](https://dev.to/alex_ricciardi/texture-mapping-in-computer-graphics-webgl-2c8j)
-- [Terraform vs AWS CDK: ¿Qué herramienta de infraestructura como código es mejor para tu proyecto?](https://dev.to/briansuarezsantiago/terraform-vs-aws-cdk-que-herramienta-de-infraestructura-como-codigo-es-mejor-para-tu-proyecto-1d09)
-- [SCIPAB: Tell Better Business Stories](https://dev.to/jetthoughts/scipab-tell-better-business-stories-15im)
-- [User-Aligned Functions to Improve LLM-to-API Function-Calling Accuracy](https://dev.to/patrick_chan_0922a197d89d/user-aligned-functions-to-improve-llm-to-api-function-calling-accuracy-3m0f)
+- [What Every Non-Technical Founder Must Know When Building a Tech Product](https://dev.to/jetthoughts/what-every-non-technical-founder-must-know-when-building-a-tech-product-577j)
+- [What Every Non-Technical Founder Must Know When Building a Tech Product](https://dev.to/jetthoughts/what-every-non-technical-founder-must-know-when-building-a-tech-product-30me)
+- [Understanding C++ Data Types, Vulnerabilities, and Key Differences with Java](https://dev.to/alex_ricciardi/understanding-c-data-types-vulnerabilities-and-key-differences-with-java-1h5g)
+- [How to Build a Custom MedusaJS Admin Dashboard with NextJS, Supabase, and Tailwind CSS](https://dev.to/aviatorscode2/how-to-build-a-custom-medusajs-admin-dashboard-with-nextjs-supabase-and-tailwind-css-2iop)
+- [Understanding the CAP Theorem Through a Hands-On Simulation in Golang](https://dev.to/tmwakalasya/understanding-the-cap-theorem-through-a-hands-on-simulation-in-golang-372h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
