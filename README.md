@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding .env Files and the dotenv Library in Node.js](https://dev.to/nishanthan-k/understanding-env-files-and-the-dotenv-library-in-nodejs-2opm)
-- [Journal](https://dev.to/vinnugollakoti/journal-3bd2)
-- [Understanding Public Key, Private Key, and Shared Secret in Cryptology](https://dev.to/adityabhuyan/understanding-public-key-private-key-and-shared-secret-in-cryptology-im3)
-- [Made a whimsical theme toggle, with CSS and emojis](https://dev.to/sujans/made-a-whimsical-theme-toggle-with-css-and-emojis-1b5d)
-- [Factors Driving the Viral Rise of MemeCoin Fever](https://dev.to/cryptogem123/factors-driving-the-viral-rise-of-memecoin-fever-29eg)
+- [Don&#39;t Ask Anyone To &quot;Be Your Mentor&quot;— Do This Instead](https://dev.to/canro91/dont-ask-anyone-to-be-your-mentor-do-this-instead-2j9c)
+- [Tutorial: Dynamic Svelte Components](https://dev.to/barim/tutorial-dynamic-svelte-components-di1)
+- [Day 16: Let is snow! ❄️](https://dev.to/valeriavg/day-16-let-is-snow-1ik6)
+- [My journey in competitive programming](https://dev.to/mukilan_palanichamy_ecaa5/my-journey-in-competitive-programming-3jfo)
+- [Gobuster](https://dev.to/shiva_varma/gobuster-ii4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
