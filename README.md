@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t Ask Anyone To &quot;Be Your Mentor&quot;— Do This Instead](https://dev.to/canro91/dont-ask-anyone-to-be-your-mentor-do-this-instead-2j9c)
-- [Tutorial: Dynamic Svelte Components](https://dev.to/barim/tutorial-dynamic-svelte-components-di1)
-- [Day 16: Let is snow! ❄️](https://dev.to/valeriavg/day-16-let-is-snow-1ik6)
-- [My journey in competitive programming](https://dev.to/mukilan_palanichamy_ecaa5/my-journey-in-competitive-programming-3jfo)
-- [Gobuster](https://dev.to/shiva_varma/gobuster-ii4)
+- [My 2024 AI Engineer Roadmap List](https://dev.to/cypriantinasheaarons/my-2024-ai-engineer-roadmap-list-1i8n)
+- [Service Objects: Level Up Your Rails Architecture](https://dev.to/sulmanweb/service-objects-level-up-your-rails-architecture-2pej)
+- [14th day of my CP journey](https://dev.to/prasanna2910/14th-day-of-my-cp-journey-480j)
+- [Copper Cladding In Euroclad](https://dev.to/nathan_pilkington_9f500a3/copper-cladding-in-euroclad-2n09)
+- [Exploring the iOS 18.2 Update: Features and Enhancements](https://dev.to/shreyash-hexa/exploring-the-ios-182-update-features-and-enhancements-1de3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
