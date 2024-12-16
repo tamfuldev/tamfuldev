@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Consideration of OSS Activity Metrics Based on GitHub Repository Data](https://dev.to/route06/consideration-of-oss-activity-metrics-based-on-github-repository-data-247i)
-- [Building a Band Website: Navigating the Backend Challenges with Roles and Permissions](https://dev.to/jahend412/building-a-band-website-navigating-the-backend-challenges-with-roles-and-permissions-4dg1)
-- [Python Day-22 String Functions logic using loops, Recursion, Tasks](https://dev.to/guru_prasanna_01/python-day-22-string-functions-logic-using-loops-recursion-tasks-3dja)
-- [[Boost]](https://dev.to/yousef_mohamed_3a174d442b/-3d38)
-- [How to Build Your First App: A Beginner’s Guide for Students](https://dev.to/growkon21/how-to-build-your-first-app-a-beginners-guide-for-students-4g2j)
+- [Understanding .env Files and the dotenv Library in Node.js](https://dev.to/nishanthan-k/understanding-env-files-and-the-dotenv-library-in-nodejs-2opm)
+- [Journal](https://dev.to/vinnugollakoti/journal-3bd2)
+- [Understanding Public Key, Private Key, and Shared Secret in Cryptology](https://dev.to/adityabhuyan/understanding-public-key-private-key-and-shared-secret-in-cryptology-im3)
+- [Made a whimsical theme toggle, with CSS and emojis](https://dev.to/sujans/made-a-whimsical-theme-toggle-with-css-and-emojis-1b5d)
+- [Factors Driving the Viral Rise of MemeCoin Fever](https://dev.to/cryptogem123/factors-driving-the-viral-rise-of-memecoin-fever-29eg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
