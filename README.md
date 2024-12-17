@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [5 Powerful Python Data Validation Techniques for Robust Applications](https://dev.to/aaravjoshi/5-powerful-python-data-validation-techniques-for-robust-applications-1b4p)
-- [I’ve been working in IT for what feels like forever. All this time, I’ve been using Vim and just exiting by turning off the terminal. Today, an intern casually showed me :wq... My life will never be the same. 🤦‍♂️](https://dev.to/shafayeat/ive-been-working-in-it-for-what-feels-like-forever-all-this-time-ive-been-using-vim-and-just-529f)
-- [My shopping cart project for a Farm Shop](https://dev.to/gabriel_rowan_1b96f237438/my-shopping-cart-project-for-a-farm-shop-5d8e)
-- [FinOps Consulting Services for Cloud Cost Optimization](https://dev.to/infracloud/finops-consulting-services-for-cloud-cost-optimization-567o)
-- [Structuring Your HTML Well: The Key to Easier and Efficient Styling](https://dev.to/majeedatwahab/structuring-your-html-well-the-key-to-easier-and-efficient-styling-6gb)
+- [Clean Code Essentials: YAGNI, KISS, and DRY in Software Engineering](https://dev.to/juniourrau/clean-code-essentials-yagni-kiss-and-dry-in-software-engineering-4i3j)
+- [Mastering Concurrency and Parallelism in TypeScript](https://dev.to/shafayeat/mastering-concurrency-and-parallelism-in-typescript-1bgf)
+- [Streamlining Enterprise Demands: Selecting the Ideal Cloud Test Automation &amp; Infrastructure Platform](https://dev.to/testifytech/streamlining-enterprise-demands-selecting-the-ideal-cloud-test-automation-infrastructure-platform-4eod)
+- [AWS Cloud Clubs: Building Skills, Networks, and Careers in Cloud Computing](https://dev.to/marsproxies/aws-cloud-clubs-building-skills-networks-and-careers-in-cloud-computing-1k9o)
+- [Bare Metal Provisioning Consulting Services Experts](https://dev.to/infracloud/bare-metal-provisioning-consulting-services-experts-ll9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
