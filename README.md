@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Brew Haven: A/B Testing My Coffee Shop Dreams with DevCycle](https://dev.to/ra_jeeves/building-brew-haven-ab-testing-my-coffee-shop-dreams-with-devcycle-401k)
-- [Automating Docker Image Versioning, Build, Push, and Scanning Using GitHub Actions](https://dev.to/msrabon/automating-docker-image-versioning-build-push-and-scanning-using-github-actions-388n)
-- [How to create Subscribe to Newsletter with Reactjs and Supabase](https://dev.to/motuncoded/how-to-create-subscribe-to-newsletter-with-reactjs-and-supabase-2c44)
-- [Start Your Journey with Serverpod: Contribute and Earn Recognition](https://dev.to/vaunt/start-your-journey-with-serverpod-contribute-and-earn-recognition-2ch2)
-- [Crypto News Aggregator using Typescript, Next.js, NewsDataHub and CoinGecko APIs](https://dev.to/newsdatahub/crypto-news-aggregator-using-typescript-nextjs-newsdatahub-and-coingecko-apis-1m2l)
+- [Decorators &amp; Class Property in Python](https://dev.to/klaftech/decorators-class-property-in-python-14fa)
+- [Force refresh of custom scripts in Power Platform model-driven apps](https://dev.to/kkazala/force-refresh-of-custom-scripts-in-model-driven-1i8a)
+- [Create an Admin Panel for your project in 5 minutes](https://dev.to/arthur-vdr/create-an-admin-panel-for-your-project-in-5-minutes-2eho)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-k6m)
+- [Ugly Sweater CSS: Echo Base](https://dev.to/jarvisscript/ugly-sweater-css-echo-base-5hdj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
