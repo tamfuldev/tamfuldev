@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 17 December!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-17-december-2ko4)
-- [Multi-Agent RAG application with QA based on Internet Search and Proprietary Docs](https://dev.to/aknox/multi-agent-rag-application-with-qa-based-on-internet-search-and-proprietary-docs-4ffh)
-- [Understanding the this Keyword in JavaScript](https://dev.to/abhay_yt_52a8e72b213be229/understanding-the-this-keyword-in-javascript-53cp)
-- [Data Analyst Career: An Overview of Freelance Data Analysts](https://dev.to/pangaea_x/data-analyst-career-an-overview-of-freelance-data-analysts-28dn)
-- [Mastering Scope and Lexical Scope in JavaScript](https://dev.to/abhay_yt_52a8e72b213be229/mastering-scope-and-lexical-scope-in-javascript-3dm8)
+- [The history of game engines — from assembly coding to photorealism and AI](https://dev.to/ispmanager/the-history-of-game-engines-from-assembly-coding-to-photorealism-and-ai-d9h)
+- [Mastering Array Methods in JavaScript: map, filter, and reduce](https://dev.to/abhay_yt_52a8e72b213be229/mastering-array-methods-in-javascript-map-filter-and-reduce-2913)
+- [Baby Name generator](https://dev.to/onlinedevelopers/baby-name-generator-1166)
+- [The Hidden Challenges of Automating Secrets Rotation: Why Automatic Credential Rotation Isn’t a One-Click Solution](https://dev.to/gitguardian/the-hidden-challenges-of-automating-secrets-rotation-why-automatic-credential-rotation-isnt-a-3578)
+- [Mastering Higher-Order Functions in JavaScript: Unlock Functional Programming](https://dev.to/abhay_yt_52a8e72b213be229/mastering-higher-order-functions-in-javascript-unlock-functional-programming-437j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
