@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [JSONL vs JSON](https://dev.to/scrapfly_dev/jsonl-vs-json-hb0)
-- [Inside the Database: Query To Execution Explained](https://dev.to/abhi1/inside-the-database-query-to-execution-explained-bjo)
-- [Mastering Conditional Statements in JavaScript: if, else, and switch Explained](https://dev.to/abhay_yt_52a8e72b213be229/mastering-conditional-statements-in-javascript-if-else-and-switch-explained-1eah)
-- [Modernizing Angular: Embracing Fetch API for Better Performance and Security](https://dev.to/bndf1/modernizing-angular-embracing-fetch-api-for-better-performance-and-security-5df5)
-- [Understanding JavaScript Operators: A Complete Guide with Examples](https://dev.to/abhay_yt_52a8e72b213be229/understanding-javascript-operators-a-complete-guide-with-examples-27d0)
+- [🚀 Your Daily Crypto Job Digest For 17 December!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-17-december-2ko4)
+- [Multi-Agent RAG application with QA based on Internet Search and Proprietary Docs](https://dev.to/aknox/multi-agent-rag-application-with-qa-based-on-internet-search-and-proprietary-docs-4ffh)
+- [Understanding the this Keyword in JavaScript](https://dev.to/abhay_yt_52a8e72b213be229/understanding-the-this-keyword-in-javascript-53cp)
+- [Data Analyst Career: An Overview of Freelance Data Analysts](https://dev.to/pangaea_x/data-analyst-career-an-overview-of-freelance-data-analysts-28dn)
+- [Mastering Scope and Lexical Scope in JavaScript](https://dev.to/abhay_yt_52a8e72b213be229/mastering-scope-and-lexical-scope-in-javascript-3dm8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
