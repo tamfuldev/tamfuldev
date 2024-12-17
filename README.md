@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Clean Code Essentials: YAGNI, KISS, and DRY in Software Engineering](https://dev.to/juniourrau/clean-code-essentials-yagni-kiss-and-dry-in-software-engineering-4i3j)
-- [Mastering Concurrency and Parallelism in TypeScript](https://dev.to/shafayeat/mastering-concurrency-and-parallelism-in-typescript-1bgf)
-- [Streamlining Enterprise Demands: Selecting the Ideal Cloud Test Automation &amp; Infrastructure Platform](https://dev.to/testifytech/streamlining-enterprise-demands-selecting-the-ideal-cloud-test-automation-infrastructure-platform-4eod)
-- [AWS Cloud Clubs: Building Skills, Networks, and Careers in Cloud Computing](https://dev.to/marsproxies/aws-cloud-clubs-building-skills-networks-and-careers-in-cloud-computing-1k9o)
-- [Bare Metal Provisioning Consulting Services Experts](https://dev.to/infracloud/bare-metal-provisioning-consulting-services-experts-ll9)
+- [JSONL vs JSON](https://dev.to/scrapfly_dev/jsonl-vs-json-hb0)
+- [Inside the Database: Query To Execution Explained](https://dev.to/abhi1/inside-the-database-query-to-execution-explained-bjo)
+- [Mastering Conditional Statements in JavaScript: if, else, and switch Explained](https://dev.to/abhay_yt_52a8e72b213be229/mastering-conditional-statements-in-javascript-if-else-and-switch-explained-1eah)
+- [Modernizing Angular: Embracing Fetch API for Better Performance and Security](https://dev.to/bndf1/modernizing-angular-embracing-fetch-api-for-better-performance-and-security-5df5)
+- [Understanding JavaScript Operators: A Complete Guide with Examples](https://dev.to/abhay_yt_52a8e72b213be229/understanding-javascript-operators-a-complete-guide-with-examples-27d0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
