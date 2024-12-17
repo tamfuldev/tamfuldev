@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [278. First Bad Version](https://dev.to/arpitrathore/278-first-bad-version-3n8e)
-- [Exploring ML Models with TensorFlow.js for Browser Applications 🚀](https://dev.to/info_generalhazedawn_a3d/exploring-ml-models-with-tensorflowjs-for-browser-applications-l67)
-- [Java script frameworks for front-end](https://dev.to/jeevansshetty/java-script-frameworks-for-front-end-3o3f)
-- [Need Guidance: Is Django a Good Choice for Building My Portfolio and Landing an Internship?](https://dev.to/bukkuru_syam_90e530ca3a84/need-guidance-is-django-a-good-choice-for-building-my-portfolio-and-landing-an-internship-24d7)
-- [Expose Your Localhost to a Public URL](https://dev.to/devatsrs/expose-your-localhost-to-a-public-url-35mc)
+- [AI in Software Development: Designing Specs with AI for Faster, Accurate Requirements](https://dev.to/getambassador2024/ai-in-software-development-designing-specs-with-ai-for-faster-accurate-requirements-2pdg)
+- [How I Built and Hosted My Own Server Using a Raspberry Pi: Lessons Learned](https://dev.to/mm-japan/how-i-built-and-hosted-my-own-server-using-a-raspberry-pi-lessons-learned-409n)
+- [Advanced Salesforce Access Controls and Permissions for Secure Data](https://dev.to/saurabh-dhariwal/advanced-salesforce-access-controls-and-permissions-for-secure-data-1obf)
+- [Is it possible to upload a file to a database in Next.js?](https://dev.to/thinkthroo/is-it-possible-to-upload-a-file-to-a-database-in-nextjs-336k)
+- [Jamu Tradisional untuk Kesehatan Vagina: Solusi Alami yang Menarik Dicoba](https://dev.to/jamutradisional/jamu-tradisional-untuk-kesehatan-vagina-solusi-alami-yang-menarik-dicoba-3o85)
 <!-- BLOG-POST-LIST:END -->
 
 ---
