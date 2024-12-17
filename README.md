@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [31st day of my CP journey](https://dev.to/prasanna2910/31st-day-of-my-cp-journey-4l62)
-- [Today Task](https://dev.to/pavitra_aravind_3d319916a/today-task-4aae)
-- [LeetCode: Removing Adjacent Duplicates in a String](https://dev.to/matan3sh/leetcode-removing-adjacent-duplicates-in-a-string-jp8)
-- [Augmented Teams and The Impact of Skill Gaps on Hiring Decisions](https://dev.to/alona_instandart/augmented-teams-and-the-impact-of-skill-gaps-on-hiring-decisions-43cd)
-- [The Hackathon That Nearly Broke Us](https://dev.to/holygrimm/the-hackathon-that-nearly-broke-us-a4d)
+- [5 Powerful Python Data Validation Techniques for Robust Applications](https://dev.to/aaravjoshi/5-powerful-python-data-validation-techniques-for-robust-applications-1b4p)
+- [I’ve been working in IT for what feels like forever. All this time, I’ve been using Vim and just exiting by turning off the terminal. Today, an intern casually showed me :wq... My life will never be the same. 🤦‍♂️](https://dev.to/shafayeat/ive-been-working-in-it-for-what-feels-like-forever-all-this-time-ive-been-using-vim-and-just-529f)
+- [My shopping cart project for a Farm Shop](https://dev.to/gabriel_rowan_1b96f237438/my-shopping-cart-project-for-a-farm-shop-5d8e)
+- [FinOps Consulting Services for Cloud Cost Optimization](https://dev.to/infracloud/finops-consulting-services-for-cloud-cost-optimization-567o)
+- [Structuring Your HTML Well: The Key to Easier and Efficient Styling](https://dev.to/majeedatwahab/structuring-your-html-well-the-key-to-easier-and-efficient-styling-6gb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
