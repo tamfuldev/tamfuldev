@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 17: Terminal Links &amp; Other Escapes 🔗](https://dev.to/valeriavg/day-17-links-other-escapes-3hbb)
-- [React Hooks Flow: A Deep Dive](https://dev.to/saimaheshwarreddy/react-hooks-flow-a-deep-dive-1f73)
-- [Day - 4 Task](https://dev.to/saravanan_477814b61087a66/day-4-task-4m81)
-- [Understanding Machine Learning Model Types: A Practical Guide &lpar;3&rpar;](https://dev.to/foyzulkarim/understanding-machine-learning-model-types-a-practical-guide-294e)
-- [How to Create a QR Code Reader or Scanner with API Using HTML, CSS, and JavaScript](https://dev.to/sharathchandark/how-to-create-a-qr-code-reader-or-scanner-with-api-using-html-css-and-javascript-1682)
+- [278. First Bad Version](https://dev.to/arpitrathore/278-first-bad-version-3n8e)
+- [Exploring ML Models with TensorFlow.js for Browser Applications 🚀](https://dev.to/info_generalhazedawn_a3d/exploring-ml-models-with-tensorflowjs-for-browser-applications-l67)
+- [Java script frameworks for front-end](https://dev.to/jeevansshetty/java-script-frameworks-for-front-end-3o3f)
+- [Need Guidance: Is Django a Good Choice for Building My Portfolio and Landing an Internship?](https://dev.to/bukkuru_syam_90e530ca3a84/need-guidance-is-django-a-good-choice-for-building-my-portfolio-and-landing-an-internship-24d7)
+- [Expose Your Localhost to a Public URL](https://dev.to/devatsrs/expose-your-localhost-to-a-public-url-35mc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
