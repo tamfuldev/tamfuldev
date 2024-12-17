@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 🌟 Why Rust is the Next Big Thing in Programming 🔥](https://dev.to/hanzla-baig/why-rust-is-the-next-big-thing-in-programming-4mnc)
-- [Day 23 Journal](https://dev.to/vinnugollakoti/day-23-journal-5539)
-- [Day 22 Journal](https://dev.to/vinnugollakoti/day-22-journal-45m6)
-- [Day 21 journal](https://dev.to/vinnugollakoti/day-21-journal-21ba)
-- [Day 20 Journal](https://dev.to/vinnugollakoti/day-20-journal-3hfe)
+- [Day 46 Journal](https://dev.to/vinnugollakoti1/day-46-journal-lib)
+- [Day 42 Journal](https://dev.to/vinnugollakoti/day-42-journal-19k6)
+- [30th day of my CP journey](https://dev.to/prasanna2910/30th-day-of-my-cp-journey-1863)
+- [Day 41 journal](https://dev.to/vinnugollakoti/day-41-journal-278n)
+- [Previewing a .npy file](https://dev.to/tallesl/previewing-a-npy-file-4715)
 <!-- BLOG-POST-LIST:END -->
 
 ---
