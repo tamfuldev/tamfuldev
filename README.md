@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a framework less, offline first, cross platform application](https://dev.to/amazingmuffin/building-a-framework-less-offline-first-cross-platform-application-2a5f)
-- [Building a Digital Signage Content Management System: A Challenge and a Journey](https://dev.to/htsagara/building-a-digital-signage-content-management-system-a-challenge-and-a-journey-43m)
-- [A Developer&#39;s Roadmap for 2025👩🏼‍💻!](https://dev.to/respect17/a-developers-roadmap-for-2025-32j4)
-- [Automating Debian Package Update Summaries with Python and Gemini &lpar;gemini-1.5-flash&rpar;](https://dev.to/evertontenorio/automating-debian-package-update-summaries-with-python-and-gemini-gemini-15-flash-1ce5)
-- [How to Deploy Resources on AWS Using Terraform](https://dev.to/irlan_dossantos_9c6c1c92/how-to-deploy-resources-on-aws-using-terraform-3c2p)
+- [Devops tools](https://dev.to/impo/devops-tools-e9b)
+- [Build Multi Chain Applications with IC-Alloy and the Internet Computer](https://dev.to/kristoferlund/build-multi-chain-applications-with-ic-alloy-and-the-internet-computer-3k84)
+- [What Developers Should Know About API Currency Converters for Cross-Border Payments](https://dev.to/devapis/what-developers-should-know-about-api-currency-converters-for-cross-border-payments-3ahb)
+- [Lessons Learned from My Apprenticeship Experience👨🏾‍💻](https://dev.to/taariqelliott/lessons-learned-from-my-apprenticeship-experience-2l6i)
+- [Um pouco da minha experiência profissional e voluntária na área de TI](https://dev.to/alvesmariadefatima/um-pouco-da-minha-experiencia-profissional-e-voluntaria-na-area-de-ti-9f3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
