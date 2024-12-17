@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Devops tools](https://dev.to/impo/devops-tools-e9b)
-- [Build Multi Chain Applications with IC-Alloy and the Internet Computer](https://dev.to/kristoferlund/build-multi-chain-applications-with-ic-alloy-and-the-internet-computer-3k84)
-- [What Developers Should Know About API Currency Converters for Cross-Border Payments](https://dev.to/devapis/what-developers-should-know-about-api-currency-converters-for-cross-border-payments-3ahb)
-- [Lessons Learned from My Apprenticeship Experience👨🏾‍💻](https://dev.to/taariqelliott/lessons-learned-from-my-apprenticeship-experience-2l6i)
-- [Um pouco da minha experiência profissional e voluntária na área de TI](https://dev.to/alvesmariadefatima/um-pouco-da-minha-experiencia-profissional-e-voluntaria-na-area-de-ti-9f3)
+- [Day 17: Github Actions](https://dev.to/code42cate/day-16-github-actions-15bn)
+- [Microservices vs Monoliths: The Battle of Architectures!](https://dev.to/norbs/microservices-vs-monoliths-the-battle-of-architectures-2i9)
+- [Cómo Crear Tu Primer Paquete y publicarlo en NPM](https://dev.to/lfernand_cs/como-crear-tu-primer-paquete-y-publicarlo-en-npm-5hhm)
+- [Building an App with a Cloud NoSQL Database &lpar;Avoiding DynamoDB or Cosmos DB&rpar;](https://dev.to/angelica_romero/building-an-app-with-a-cloud-nosql-database-avoiding-dynamodb-or-cosmos-db-jkf)
+- [The Kth factor of N - an O&lpar;sqrt n&rpar; algorithm](https://dev.to/alvbarros/the-kth-factor-of-n-an-osqrt-n-algorithm-4ce0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
