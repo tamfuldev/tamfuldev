@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 46 Journal](https://dev.to/vinnugollakoti1/day-46-journal-lib)
-- [Day 42 Journal](https://dev.to/vinnugollakoti/day-42-journal-19k6)
-- [30th day of my CP journey](https://dev.to/prasanna2910/30th-day-of-my-cp-journey-1863)
-- [Day 41 journal](https://dev.to/vinnugollakoti/day-41-journal-278n)
-- [Previewing a .npy file](https://dev.to/tallesl/previewing-a-npy-file-4715)
+- [Day 17: Terminal Links &amp; Other Escapes 🔗](https://dev.to/valeriavg/day-17-links-other-escapes-3hbb)
+- [React Hooks Flow: A Deep Dive](https://dev.to/saimaheshwarreddy/react-hooks-flow-a-deep-dive-1f73)
+- [Day - 4 Task](https://dev.to/saravanan_477814b61087a66/day-4-task-4m81)
+- [Understanding Machine Learning Model Types: A Practical Guide &lpar;3&rpar;](https://dev.to/foyzulkarim/understanding-machine-learning-model-types-a-practical-guide-294e)
+- [How to Create a QR Code Reader or Scanner with API Using HTML, CSS, and JavaScript](https://dev.to/sharathchandark/how-to-create-a-qr-code-reader-or-scanner-with-api-using-html-css-and-javascript-1682)
 <!-- BLOG-POST-LIST:END -->
 
 ---
