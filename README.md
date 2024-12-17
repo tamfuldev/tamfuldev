@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 The Ultimate Guide to Succeeding on Dev.to in 2025** 🌍✨](https://dev.to/hanzla-baig/the-ultimate-guide-to-succeeding-on-devto-in-2025-5abd)
-- [Building a Local AI Code Reviewer with ClientAI and Ollama - Part 2](https://dev.to/igorbenav/building-a-local-ai-code-reviewer-with-clientai-and-ollama-part-2-3370)
-- [Profiling Memory In Go](https://dev.to/dikac/profiling-memory-in-go-2a2)
-- [Building a Local AI Code Reviewer with ClientAI and Ollama](https://dev.to/igorbenav/building-a-local-ai-code-reviewer-with-clientai-and-ollama-3749)
-- [SSL Certificate: Complete Guide](https://dev.to/madgan95/ssl-certificate-complete-guide-3naf)
+- [🚀 🌟 Why Rust is the Next Big Thing in Programming 🔥](https://dev.to/hanzla-baig/why-rust-is-the-next-big-thing-in-programming-4mnc)
+- [Day 23 Journal](https://dev.to/vinnugollakoti/day-23-journal-5539)
+- [Day 22 Journal](https://dev.to/vinnugollakoti/day-22-journal-45m6)
+- [Day 21 journal](https://dev.to/vinnugollakoti/day-21-journal-21ba)
+- [Day 20 Journal](https://dev.to/vinnugollakoti/day-20-journal-3hfe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
