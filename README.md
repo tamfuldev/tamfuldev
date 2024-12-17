@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The history of game engines — from assembly coding to photorealism and AI](https://dev.to/ispmanager/the-history-of-game-engines-from-assembly-coding-to-photorealism-and-ai-d9h)
-- [Mastering Array Methods in JavaScript: map, filter, and reduce](https://dev.to/abhay_yt_52a8e72b213be229/mastering-array-methods-in-javascript-map-filter-and-reduce-2913)
-- [Baby Name generator](https://dev.to/onlinedevelopers/baby-name-generator-1166)
-- [The Hidden Challenges of Automating Secrets Rotation: Why Automatic Credential Rotation Isn’t a One-Click Solution](https://dev.to/gitguardian/the-hidden-challenges-of-automating-secrets-rotation-why-automatic-credential-rotation-isnt-a-3578)
-- [Mastering Higher-Order Functions in JavaScript: Unlock Functional Programming](https://dev.to/abhay_yt_52a8e72b213be229/mastering-higher-order-functions-in-javascript-unlock-functional-programming-437j)
+- [👋🏻Goodbye Power BI! 📊 In 2025 Build AI/ML Dashboards Entirely Within Python 🤖](https://dev.to/taipy/goodbye-power-bi-in-2025-build-aiml-dashboards-entirely-within-python-4l22)
+- [Top 10 Cloud Security Industry Certifications](https://dev.to/clouddefenseai/top-10-cloud-security-industry-certifications-2d5n)
+- [Average Manager vs Great Manager](https://dev.to/nozibul_islam_113b1d5334f/average-manager-vs-great-manager-383k)
+- [Incident Management vs Incident Response: What You Must Know](https://dev.to/statuspal/incident-management-vs-incident-response-what-you-must-know-26hh)
+- [Tech Interview Series: What Happens When You malloc 2 GB but Don&#39;t Use It?](https://dev.to/akshaysiwal/tech-interview-series-what-happens-when-you-malloc-2-gb-but-dont-use-it-2m4c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
