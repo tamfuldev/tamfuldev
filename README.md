@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [👋🏻Goodbye Power BI! 📊 In 2025 Build AI/ML Dashboards Entirely Within Python 🤖](https://dev.to/taipy/goodbye-power-bi-in-2025-build-aiml-dashboards-entirely-within-python-4l22)
-- [Top 10 Cloud Security Industry Certifications](https://dev.to/clouddefenseai/top-10-cloud-security-industry-certifications-2d5n)
-- [Average Manager vs Great Manager](https://dev.to/nozibul_islam_113b1d5334f/average-manager-vs-great-manager-383k)
-- [Incident Management vs Incident Response: What You Must Know](https://dev.to/statuspal/incident-management-vs-incident-response-what-you-must-know-26hh)
-- [Tech Interview Series: What Happens When You malloc 2 GB but Don&#39;t Use It?](https://dev.to/akshaysiwal/tech-interview-series-what-happens-when-you-malloc-2-gb-but-dont-use-it-2m4c)
+- [Building Brew Haven: A/B Testing My Coffee Shop Dreams with DevCycle](https://dev.to/ra_jeeves/building-brew-haven-ab-testing-my-coffee-shop-dreams-with-devcycle-401k)
+- [Automating Docker Image Versioning, Build, Push, and Scanning Using GitHub Actions](https://dev.to/msrabon/automating-docker-image-versioning-build-push-and-scanning-using-github-actions-388n)
+- [How to create Subscribe to Newsletter with Reactjs and Supabase](https://dev.to/motuncoded/how-to-create-subscribe-to-newsletter-with-reactjs-and-supabase-2c44)
+- [Start Your Journey with Serverpod: Contribute and Earn Recognition](https://dev.to/vaunt/start-your-journey-with-serverpod-contribute-and-earn-recognition-2ch2)
+- [Crypto News Aggregator using Typescript, Next.js, NewsDataHub and CoinGecko APIs](https://dev.to/newsdatahub/crypto-news-aggregator-using-typescript-nextjs-newsdatahub-and-coingecko-apis-1m2l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
