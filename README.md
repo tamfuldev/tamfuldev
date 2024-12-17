@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Is Clean Code really practical?](https://dev.to/chanh_le/is-clean-code-really-practical-10ha)
-- [Launching AI Prototyping Projects](https://dev.to/leading-edje/launching-ai-prototyping-projects-2d8n)
-- [Implementing camera functionality in React Native](https://dev.to/logrocket/implementing-camera-functionality-in-react-native-k7)
-- [Mastering Cross-Platform Development with .NET 9: New Features and Enhanced Support](https://dev.to/leandroveiga/mastering-cross-platform-development-with-net-9-new-features-and-enhanced-support-1pli)
-- [Laravel in 2025](https://dev.to/burtds/laravel-in-2025-41bp)
+- [AI and All Data Weekly for 16 December 2024](https://dev.to/timothy_spann_a41a639e47c/ai-and-all-data-weekly-for-16-december-2024-35b4)
+- [Dropbox: How to Ignore Users for 10 Years](https://dev.to/melanchall/dropbox-how-to-ignore-users-for-10-years-hdn)
+- [Potenciando Aplicaciones de IA con AWS Bedrock y Streamlit](https://dev.to/fernandosilvot/potenciando-aplicaciones-de-ia-con-aws-bedrock-y-streamlit-4eh8)
+- [🚀Secure API-to-API Communication with HMAC: Implementation using NestJS, AWS, and Postman🔥](https://dev.to/kishanhimself/secure-api-to-api-communication-with-hmac-implementation-using-nestjs-aws-and-postman-38pd)
+- [🚨 5 Common Backend Mistakes to Avoid! 🚨](https://dev.to/full_stack_fusion/5-common-backend-mistakes-to-avoid-274f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
