@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing GenQE: The Future of Software Testing and Innovation](https://dev.to/arun_pal_3ce740a137cf15ad/introducing-genqe-the-future-of-software-testing-and-innovation-325o)
-- [If anyone knows other perspectives to consider when looking at OSS activity metrics, please let me know!](https://dev.to/shige/if-anyone-knows-other-perspectives-to-consider-when-looking-at-oss-activity-metrics-please-let-me-3dam)
-- [Expandir, cópia, merge e rest em Javascript](https://dev.to/songs_36be80e42d0a5f9c77e/expandir-copia-merge-e-rest-em-javascript-8e7)
-- [Desestruturação em Javascript](https://dev.to/songs_36be80e42d0a5f9c77e/desestruturacao-em-javascript-1eb1)
-- [Laços de repetição em Javascript](https://dev.to/songs_36be80e42d0a5f9c77e/lacos-de-repeticao-em-javascript-4lm8)
+- [AI in Continuous Testing: Ensuring Quality in DevOps Pipelines](https://dev.to/radha_4c842d8e4362a7cdd9c/ai-in-continuous-testing-ensuring-quality-in-devops-pipelines-2k0d)
+- [Extract metadata of paper and export it to Notion DB](https://dev.to/kromiii/extract-metadata-of-paper-and-export-it-to-notion-db-3m3l)
+- [WebAssembly + JavaScript: Building a Real-Time Image Processing Tool](https://dev.to/vladislav_v_75b0533bb1e3/webassembly-javascript-building-a-real-time-image-processing-tool-2748)
+- [Extracting Pipefy API data into Power BI with M language](https://dev.to/milenaemmert/extracting-data-from-the-pipefy-api-into-power-bi-with-m-language-l3a)
+- [Simple 1-Minute Guide to add a Back-to-Top Button with Vue 3](https://dev.to/dailysandbox/simple-1-minute-guide-to-add-a-back-to-top-button-with-vue-3-2j59)
 <!-- BLOG-POST-LIST:END -->
 
 ---
