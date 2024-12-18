@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DAY 11 Exploring 1D Dynamic Programming](https://dev.to/somuya_khandelwal/day-11-exploring-1d-dynamic-programming-5bdf)
-- [Mastering XMLHttpRequest: A Guide to AJAX Calls in JavaScript](https://dev.to/abhay_yt_52a8e72b213be229/mastering-xmlhttprequest-a-guide-to-ajax-calls-in-javascript-1717)
-- [Day 10 Diving Into Dynamic Programming](https://dev.to/somuya_khandelwal/day-10-diving-into-dynamic-programming-597a)
-- [JavaScript and Animations: Choosing Between CSS and JavaScript for Stunning Effects](https://dev.to/abhay_yt_52a8e72b213be229/javascript-and-animations-choosing-between-css-and-javascript-for-stunning-effects-3oj8)
-- [Neuer: Redefining Separation of Concerns While Everyone Else Rebuilds the Empire](https://dev.to/ryo_suwito/neuer-redefining-separation-of-concerns-while-everyone-else-rebuilds-the-empire-18b6)
+- [Easily enhance your website design with dynamic backgrounds!（2）](https://dev.to/rain9/easily-enhance-your-website-design-with-dynamic-backgrounds2-3ggd)
+- [Building Modern Websites and Managing Online Presence with Expertise in Magento, WordPress, &amp; Shopify](https://dev.to/maheshprajapati/building-modern-websites-and-managing-online-presence-with-expertise-in-magento-wordpress--5644)
+- [Top 20 Essential JavaScript Concepts Every Developer Must Know](https://dev.to/abhay_yt_52a8e72b213be229/top-20-essential-javascript-concepts-every-developer-must-know-1ic8)
+- [Mastering JavaScript Classes: A Complete Guide to Modern OOP](https://dev.to/abhay_yt_52a8e72b213be229/mastering-javascript-classes-a-complete-guide-to-modern-oop-2gg)
+- [🎥Exploring 3D Timewave Ripple](https://dev.to/ayusharpcoder/exploring-3d-timewave-ripple-279i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
