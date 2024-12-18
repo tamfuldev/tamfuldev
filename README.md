@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [React libraries for building forms and surveys](https://dev.to/logrocket/react-libraries-for-building-forms-and-surveys-2ejp)
-- [What Is Zero Trust Architecture – The Complete Guide](https://dev.to/clouddefenseai/what-is-zero-trust-architecture-the-complete-guide-1il9)
-- [🗞 Rapyd Developer Newsletter: December 2024 💰 From API Security to Global FX: Must-Know Dev Tools This Month](https://dev.to/rapyd/rapyd-developer-newsletter-november-2024-from-api-security-to-global-fx-must-know-dev-tools-3116)
-- [How to Find the Security Identifier &lpar;SID&rpar; of a User in Windows 11?](https://dev.to/win11verse/how-to-find-the-security-identifier-sid-of-a-user-in-windows-11-5hbk)
-- [Using TeeChart in Vector Magnetics’ RivCross Software for Precise Directional Drilling](https://dev.to/steema/using-teechart-in-vector-magnetics-rivcross-software-for-precise-directional-drilling-3be4)
+- [Mastering Essential Software Architecture Patterns: A Comprehensive Guide🛠️, Part 3](https://dev.to/cortexflow/mastering-essential-software-architecture-patterns-a-comprehensive-guide-part-3-50o9)
+- [Class Society in Open Source](https://dev.to/tambet_vli_53f2fdcd17c0e/class-society-in-open-source-4a7k)
+- [Protecting API Requests Using Nonce, Redis, and Time-Based Validation](https://dev.to/raselmahmuddev/protecting-api-requests-using-nonce-redis-and-time-based-validation-11nd)
+- [AI and Healthcare: A Transformative Partnership](https://dev.to/advay_anand_d11d9674596af/ai-in-medical-science-transforming-healthcare-with-technology-4bhh)
+- [Struggling with Recursive Functions? Learn Through Everyday Scenarios](https://dev.to/yo-shi/struggling-with-recursive-functions-learn-through-everyday-scenarios-3joe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
