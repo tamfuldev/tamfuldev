@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 17: Github Actions](https://dev.to/code42cate/day-16-github-actions-15bn)
-- [Microservices vs Monoliths: The Battle of Architectures!](https://dev.to/norbs/microservices-vs-monoliths-the-battle-of-architectures-2i9)
-- [Cómo Crear Tu Primer Paquete y publicarlo en NPM](https://dev.to/lfernand_cs/como-crear-tu-primer-paquete-y-publicarlo-en-npm-5hhm)
-- [Building an App with a Cloud NoSQL Database &lpar;Avoiding DynamoDB or Cosmos DB&rpar;](https://dev.to/angelica_romero/building-an-app-with-a-cloud-nosql-database-avoiding-dynamodb-or-cosmos-db-jkf)
-- [The Kth factor of N - an O&lpar;sqrt n&rpar; algorithm](https://dev.to/alvbarros/the-kth-factor-of-n-an-osqrt-n-algorithm-4ce0)
+- [Async Local Storage is Here to Help You](https://dev.to/grzegorz_dubiel_db99203fe/async-local-storage-is-here-to-help-you-47ia)
+- [menu desplegable con icono](https://dev.to/draexx/menu-desplegable-con-icono-5fo1)
+- [Shell Script to get the number of commits in all repositories present in a directory](https://dev.to/laba_kumar_deka/shell-script-to-get-the-number-of-commits-in-all-repositories-present-in-a-directory-4e06)
+- [Moving beyond console.log](https://dev.to/mountainhokie/moving-beyond-consolelog-11kf)
+- [Git Hub Pages is a free and awesome solution for your profile or personal site](https://dev.to/alexander_uspenskiy_the_great/git-hub-pages-is-a-free-and-awesome-solution-for-your-profile-or-personal-site-2774)
 <!-- BLOG-POST-LIST:END -->
 
 ---
