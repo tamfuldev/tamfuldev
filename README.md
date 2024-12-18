@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [👀 How Check Memory Leaks in React?⚠️🚨🚨](https://dev.to/martygo/how-check-memory-leaks-in-react-1431)
-- [TableSavvy &lpar; MYSQL DATABASE MANAGEMENT SOFTWARE &rpar;](https://dev.to/mayankchawdhari/tablesavvy-mysql-database-management-software--240e)
-- [Automatic Files Generator Python](https://dev.to/mayankchawdhari/automatic-files-generator-python-311h)
-- [Job Interview Preperation As a Programmer](https://dev.to/marufpfc/job-interview-preperation-as-a-programmer-90k)
-- [NeoPopup - The Modern 3D Popup Module](https://dev.to/mayankchawdhari/neopopup-the-modern-3d-popup-module-48mo)
+- [How to Leverage ChatGPT for Personalized Customer Engagement](https://dev.to/aliiii/how-to-leverage-chatgpt-for-personalized-customer-engagement-480j)
+- [Hacking the Python Import System and Rewriting the AST For Durable Execution](https://dev.to/haimzlato/hacking-the-import-system-and-rewriting-the-ast-for-durable-execution-5fc9)
+- [How to connect to AWS OpenSearch or Elasticsearch clusters using python](https://dev.to/derlin/how-to-connect-to-aws-opensearch-or-elasticsearch-clusters-using-python-1942)
+- [Local Langflow - A vector RAG application running locally](https://dev.to/aknox/local-langflow-a-vector-rag-application-running-locally-c52)
+- [将中文txt文档转为PDF](https://dev.to/dragon72463399/jiang-zhong-wen-txtwen-dang-zhuan-wei-pdf-14jd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
