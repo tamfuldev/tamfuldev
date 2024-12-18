@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Async Local Storage is Here to Help You](https://dev.to/grzegorz_dubiel_db99203fe/async-local-storage-is-here-to-help-you-47ia)
-- [menu desplegable con icono](https://dev.to/draexx/menu-desplegable-con-icono-5fo1)
-- [Shell Script to get the number of commits in all repositories present in a directory](https://dev.to/laba_kumar_deka/shell-script-to-get-the-number-of-commits-in-all-repositories-present-in-a-directory-4e06)
-- [Moving beyond console.log](https://dev.to/mountainhokie/moving-beyond-consolelog-11kf)
-- [Git Hub Pages is a free and awesome solution for your profile or personal site](https://dev.to/alexander_uspenskiy_the_great/git-hub-pages-is-a-free-and-awesome-solution-for-your-profile-or-personal-site-2774)
+- [Introducing GenQE: The Future of Software Testing and Innovation](https://dev.to/arun_pal_3ce740a137cf15ad/introducing-genqe-the-future-of-software-testing-and-innovation-325o)
+- [If anyone knows other perspectives to consider when looking at OSS activity metrics, please let me know!](https://dev.to/shige/if-anyone-knows-other-perspectives-to-consider-when-looking-at-oss-activity-metrics-please-let-me-3dam)
+- [Expandir, cópia, merge e rest em Javascript](https://dev.to/songs_36be80e42d0a5f9c77e/expandir-copia-merge-e-rest-em-javascript-8e7)
+- [Desestruturação em Javascript](https://dev.to/songs_36be80e42d0a5f9c77e/desestruturacao-em-javascript-1eb1)
+- [Laços de repetição em Javascript](https://dev.to/songs_36be80e42d0a5f9c77e/lacos-de-repeticao-em-javascript-4lm8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
