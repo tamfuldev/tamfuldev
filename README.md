@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DAY 56 Hash Maps and Strings: Unlocking Patterns](https://dev.to/somuya_khandelwal/day-56-hash-maps-and-strings-unlocking-patterns-2dom)
-- [What is SwaggerHub?](https://dev.to/velan/what-is-swaggerhub-1cgm)
-- [DAY 55 Wrapping Up with Hash Maps and Sets](https://dev.to/somuya_khandelwal/day-55-wrapping-up-with-hash-maps-and-sets-459i)
-- [Securing a Web Application on Google Cloud Platform: Best Practices and Implementation](https://dev.to/moses_daniel_2cfa7c6753d0/securing-a-web-application-on-google-cloud-platform-best-practices-and-implementation-532n)
-- [How to Design a Sphere Puzzle Using 3D CAD Software](https://dev.to/julia970/how-to-design-a-sphere-puzzle-using-3d-cad-software-3jka)
+- [👀 How Check Memory Leaks in React?⚠️🚨🚨](https://dev.to/martygo/how-check-memory-leaks-in-react-1431)
+- [TableSavvy &lpar; MYSQL DATABASE MANAGEMENT SOFTWARE &rpar;](https://dev.to/mayankchawdhari/tablesavvy-mysql-database-management-software--240e)
+- [Automatic Files Generator Python](https://dev.to/mayankchawdhari/automatic-files-generator-python-311h)
+- [Job Interview Preperation As a Programmer](https://dev.to/marufpfc/job-interview-preperation-as-a-programmer-90k)
+- [NeoPopup - The Modern 3D Popup Module](https://dev.to/mayankchawdhari/neopopup-the-modern-3d-popup-module-48mo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
