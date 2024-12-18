@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Powered Graph Exploration with LangChain&#39;s NLP Capabilities, Question Answer Using Langchain](https://dev.to/codeperfectplus/ai-powered-graph-exploration-with-langchains-nlp-capabilities-fdd)
-- [Technical Writing 101: The Blog vs. Blog Post Distinction Every Developer Should Know](https://dev.to/jay_dee/technical-writing-101-the-blog-vs-blog-post-distinction-every-developer-should-know-4206)
-- [Why System Software is the Backbone of Modern Computing](https://dev.to/adityabhuyan/why-system-software-is-the-backbone-of-modern-computing-5b7k)
-- [Exploring Alternative Paths in Critical Path Method &lpar;CPM&rpar;](https://dev.to/adityabhuyan/exploring-alternative-paths-in-critical-path-method-cpm-1p1b)
-- [Understanding ConvertML: Simplifying Machine Learning for Everyone](https://dev.to/adityabhuyan/understanding-convertml-simplifying-machine-learning-for-everyone-2956)
+- [Day 18: Got a millisecond? ⏱️](https://dev.to/valeriavg/day-18-got-a-millisecond-1glf)
+- [Welcome Thread - v307](https://dev.to/devteam/welcome-thread-v307-5hbd)
+- [DAY 6 Exploring Matrices with Leetcode Challenges](https://dev.to/somuya_khandelwal/day-6-exploring-matrices-with-leetcode-challenges-432o)
+- [The Competitive Advantage of Adopting a Headless CMS](https://dev.to/nasceniait/the-competitive-advantage-of-adopting-a-headless-cms-2lba)
+- [Welcome to my engineering blog!](https://dev.to/ahmad_tibibi/welcome-to-my-engineering-blog-1j0j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
