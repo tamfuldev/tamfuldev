@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🏗 Métodos `Is`](https://dev.to/oscareduardolp6/metodos-is-1cbo)
-- [🏗️ `Is` Methods](https://dev.to/oscareduardolp6/is-methods-1dg4)
-- [A conversation with your architecture](https://dev.to/aws/a-conversation-with-your-architecture-2mn)
-- [Github&#39;s Top 31 items of Dec 18, 2024](https://dev.to/gittech/githubs-top-31-items-of-dec-18-2024-5k5)
-- [Simplify Your Workflow: Effortless File Transfer Between VM and Windows](https://dev.to/karanjain2527/simplify-your-workflow-effortless-file-transfer-between-vm-and-windows-2mi0)
+- [What React Brought Us in 2024: Key Updates and Innovations](https://dev.to/iri_denis/what-react-brought-us-in-2024-key-updates-and-innovations-ji1)
+- [Shopify Custom Coded: Vimeo/Youtube Review Section](https://dev.to/mozzamshahid/shopify-custom-coded-vimeoyoutube-review-section-1m40)
+- [Getting Started with TailwindCSS in React: A Complete Guide](https://dev.to/abhay_yt_52a8e72b213be229/getting-started-with-tailwindcss-in-react-a-complete-guide-405a)
+- [Mastering Styled Components: Dynamic and Modular Styling for React](https://dev.to/abhay_yt_52a8e72b213be229/mastering-styled-components-dynamic-and-modular-styling-for-react-1leb)
+- [How to Use the HTML5 &lt;dialog&gt; Element](https://dev.to/alexgriss/how-to-use-the-html5-element-4867)
 <!-- BLOG-POST-LIST:END -->
 
 ---
