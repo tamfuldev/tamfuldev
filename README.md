@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Install Google PaliGemma 2 Locally?](https://dev.to/nodeshiftcloud/how-to-install-google-paligemma-2-locally-21ci)
-- [Empowering Education: Exclusive Discounts for Students and Educators!](https://dev.to/servbay/empowering-education-exclusive-discounts-for-students-and-educators-3goc)
-- [Mastering SQL LIMIT Clause: Controlling the Number of Rows in Queries](https://dev.to/abhay_yt_52a8e72b213be229/mastering-sql-limit-clause-controlling-the-number-of-rows-in-queries-3gh9)
-- [Mastering Remote Work with Cloud and DevOps Skills](https://dev.to/dareyio/mastering-remote-work-with-cloud-and-devops-skills-1mm7)
-- [Mastering SQL BETWEEN Operator: Filtering Data within a Range](https://dev.to/abhay_yt_52a8e72b213be229/mastering-sql-between-operator-filtering-data-within-a-range-1po5)
+- [Determine whether to filter again based on the situation in the filtered result set #92](https://dev.to/esproc_spl/determine-whether-to-filter-again-based-on-the-situation-in-the-filtered-result-set-92-4kp9)
+- [They Stopped Using Load Tests - And Here Is Why](https://dev.to/metis/they-stopped-using-load-tests-and-here-is-why-276e)
+- [Amazon Q Developer Tips: No.18 Amazon Q Developer Agents - /dev](https://dev.to/aws/amazon-q-developer-tips-no18-amazon-q-developer-agents-dev-1i0)
+- [Une approche sociale de la notion de développeur](https://dev.to/onepoint/une-approche-sociale-de-la-notion-de-developpeur-501o)
+- [Top 10 IntelliJ IDEA Plugins to Boost Development Efficiency in 2024](https://dev.to/auden/top-10-intellij-idea-plugins-to-boost-development-efficiency-in-2024-1o9o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
