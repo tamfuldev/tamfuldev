@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Rails UI Audit](https://dev.to/railsdesigner/introducing-rails-ui-audit-4c9g)
-- [How can technology advancements be leveraged in new product development](https://dev.to/thealgorithm/how-can-technology-advancements-be-leveraged-in-new-product-development-356j)
-- [React Fragments: Grouping Elements Without Extra DOM Nodes](https://dev.to/abhay_yt_52a8e72b213be229/react-fragments-grouping-elements-without-extra-dom-nodes-51n)
-- [A Beginner&#39;s Guide to Secure Cryptocurrency Trading in Poland](https://dev.to/angelika_berd/a-beginners-guide-to-secure-cryptocurrency-trading-in-poland-1afh)
-- [Annotating Functions in Typescript](https://dev.to/ezekiel_77/annotating-functions-in-typescript-3eeg)
+- [🏗 Métodos `Is`](https://dev.to/oscareduardolp6/metodos-is-1cbo)
+- [🏗️ `Is` Methods](https://dev.to/oscareduardolp6/is-methods-1dg4)
+- [A conversation with your architecture](https://dev.to/aws/a-conversation-with-your-architecture-2mn)
+- [Github&#39;s Top 31 items of Dec 18, 2024](https://dev.to/gittech/githubs-top-31-items-of-dec-18-2024-5k5)
+- [Simplify Your Workflow: Effortless File Transfer Between VM and Windows](https://dev.to/karanjain2527/simplify-your-workflow-effortless-file-transfer-between-vm-and-windows-2mi0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
