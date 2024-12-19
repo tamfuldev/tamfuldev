@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ultimate Giphy to Tenor API Migration Guide](https://dev.to/zuplo/ultimate-giphy-to-tenor-api-migration-guide-4555)
-- [Why TypeScript is the Future of JavaScript Development: Benefits and Adoption](https://dev.to/abhay_yt_52a8e72b213be229/why-typescript-is-the-future-of-javascript-development-benefits-and-adoption-4fo5)
-- [Bringing PostgreSQL Query Issues to Light with Insightful Visuals](https://dev.to/saby_explain/bringing-postgresql-query-issues-to-light-with-insightful-visuals-4b5f)
-- [Deploying a Highly Available Web App on AWS Using Terraform](https://dev.to/samuel_udeh/deploying-a-highly-available-web-app-on-aws-using-terraform-23e5)
-- [Build a Virtual Private Cloud](https://dev.to/misolainthecloud/build-a-virtualprivate-cloud-358l)
+- [How to Create a Business Model Around an API](https://dev.to/zuplo/how-to-create-a-business-model-around-an-api-jkf)
+- [What&#39;s new on Zuplo?](https://dev.to/zuplo/whats-new-on-zuplo-3bpi)
+- [Your API business needs to operate on the worldwide edge](https://dev.to/zuplo/your-api-business-needs-to-operate-on-the-worldwide-edge-21lm)
+- [RateMyOpenAPI: now with AI suggestions for your OpenAPI!](https://dev.to/zuplo/ratemyopenapi-now-with-ai-suggestions-for-your-openapi-68i)
+- [How To Make API Governance Easier](https://dev.to/zuplo/how-to-make-api-governance-easier-2698)
 <!-- BLOG-POST-LIST:END -->
 
 ---
