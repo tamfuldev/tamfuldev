@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Flex Consumption is not cheap &lpar;when in private VNET&rpar;](https://dev.to/rokicool/flex-consumption-is-not-cheap-when-in-private-vnet-1m5f)
-- [Google Docs to Blog with Sheetany](https://dev.to/itbk95/google-docs-to-blog-with-sheetany-211e)
-- [AI &amp; SMS-based Learning Management System - Introducing EstudIA!](https://dev.to/sebaspv/ai-sms-based-learning-management-system-introducing-estudia-13dn)
-- [AI for Test Case Creation: How It Works and Why It Matters.](https://dev.to/anil_csimplifyit_905c/ai-for-test-case-creation-how-it-works-and-why-it-matters-1omb)
-- [# Azure Functions Memory Issues: How to Handle Large Files &lpar;Complete Guide 2024&rpar;](https://dev.to/adzhydra/-azure-functions-memory-issues-how-to-handle-large-files-complete-guide-2024-3h1b)
+- [The Rise of AI Co-Pilots: How GPT Models Are Changing Software Development](https://dev.to/mrinankmj/the-rise-of-ai-co-pilots-how-gpt-models-are-changing-software-development-6pl)
+- [I&#39;m learning html &amp; css now, some tips?](https://dev.to/snagh1/im-learning-html-css-now-some-tips-16ao)
+- [How I minimized a state machine.](https://dev.to/okpalan/how-i-minimized-a-state-machine-5gk4)
+- [Redefining Software Testing: Smarter Strategies for Better Quality✔✔](https://dev.to/arun_pal_3ce740a137cf15ad/redefining-software-testing-smarter-strategies-for-better-quality-1dba)
+- [Introduction: VULKAN API](https://dev.to/kastuv/introduction-vulkan-api-1jp8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
