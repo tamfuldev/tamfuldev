@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Email Validation Best Practices: Ensuring Accuracy with the Right Email Address Validator](https://dev.to/devapis/email-validation-best-practices-ensuring-accuracy-with-the-right-email-address-validator-59fj)
-- [How to deploy laravel project on cpanel or shared hosting](https://dev.to/salimhosen/how-to-deploy-laravel-project-on-cpanel-or-shared-hosting-56k0)
-- [AWS re:Invent 2024: Top Highlights and Best Moments &lpar;In My Opinion&rpar;](https://dev.to/aws-builders/aws-reinvent-2024-top-highlights-and-best-moments-in-my-opinion-30gl)
-- [🚀Build, Implement, and Test gRPC Services with .NET9](https://dev.to/dot_nettips_a4e90828daa4/build-implement-and-test-grpc-services-with-net9-o01)
-- [Charting Your Unique Path in Generative AI: A Fresh Perspective for Beginners](https://dev.to/khuramgill/charting-your-unique-path-in-generative-ai-a-fresh-perspective-for-beginners-mmd)
+- [SDD Story Driven Developments](https://dev.to/pengeszikra/sdd-story-driven-developments-2425)
+- [I have a question on back-end stuff. If my file tree is file://files/file.html, when the file is uploaded to the cloud, will it turn into example.com/files ? Thanks for any help.](https://dev.to/codemonster240/i-have-a-question-on-back-end-stuff-if-my-file-tree-is-filefilesfilehtml-when-the-file-is-4ml1)
+- [[Boost]](https://dev.to/emiroberti/-4gl)
+- [Machine learning en OJS](https://dev.to/horaciodegiorgi/open-journal-systemhttpspkpsfucasoftwareojs-pronto-integrara-machine-learning-para-11pg)
+- [404 Not Found: What Does It Mean?](https://dev.to/lovestaco/404-not-found-what-does-it-mean-81m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
