@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Identifying and Removing Unused Dependencies in pom.xml](https://dev.to/govinda_s/identifying-and-removing-unused-dependencies-in-pomxml-1emj)
-- [My Journey into Learning Java: Insights and Tips for Beginners](https://dev.to/innovative-insight/my-journey-into-learning-java-insights-and-tips-for-beginners-4go9)
-- [Leetcode — 3190. Find Minimum Operations to Make All Elements Divisible by Three](https://dev.to/bendlmp/leetcode-3190-find-minimum-operations-to-make-all-elements-divisible-by-three-4gpm)
-- [Blue/green deployment with helm hands-on](https://dev.to/truc3651/bluegreen-deployment-with-helm-hands-on-458c)
-- [Improving Code Readability with Better Assertions in Java](https://dev.to/govinda_s/improving-code-readability-with-better-assertions-in-java-4pgc)
+- [I built a Sass template. You can just copy me!](https://dev.to/technoph1le/i-built-a-sass-template-you-can-just-copy-me-213o)
+- [Practice javascript via first principle thinking, not syntax memorization](https://dev.to/adamchain/practice-javascript-via-first-principle-thinking-not-syntax-memorization-2724)
+- [Mastering Laravel Collections: A Guide to Chainable Data Manipulation](https://dev.to/thescriptbinary/mastering-laravel-collections-a-guide-to-chainable-data-manipulation-2mo1)
+- [Python Lists in 5 minutes](https://dev.to/suresh_kumar_f75b7356272e/python-lists-in-5-minutes-37ob)
+- [Cracking the Code of AI Conversations: The Art of Prompt Engineering](https://dev.to/mahrukh_adeel/cracking-the-code-of-ai-conversations-the-art-of-prompt-engineering-cd9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
