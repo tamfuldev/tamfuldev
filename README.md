@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Beauty Tech Startups: The AI Innovations Reshaping the Industry](https://dev.to/josef_doctorovitz_ww/beauty-tech-startups-the-ai-innovations-reshaping-the-industry-4h5m)
-- [鸿蒙Next自定义组件的布局](https://dev.to/freerain9/hong-meng-nextzi-ding-yi-zu-jian-de-bu-ju-46hb)
-- [Sending Emails with Spring Boot, AWS SES, and Serverless Lambda for Scalable Solutions](https://dev.to/abrish/sending-emails-with-spring-boot-aws-ses-and-serverless-lambda-for-scalable-solutions-2cpe)
-- [Firebase SDK &lpar;node&rpar; vs. Direct Firebase API: Pros and Cons](https://dev.to/ven_dev/firebase-sdk-node-vs-direct-firebase-api-pros-and-cons-kce)
-- [API as Product: Prioritizing Developer Experience from Concept to Delivery](https://dev.to/devxme/api-as-product-prioritizing-developer-experience-from-concept-to-delivery-56hf)
+- [Flex Consumption is not cheap &lpar;when in private VNET&rpar;](https://dev.to/rokicool/flex-consumption-is-not-cheap-when-in-private-vnet-1m5f)
+- [Google Docs to Blog with Sheetany](https://dev.to/itbk95/google-docs-to-blog-with-sheetany-211e)
+- [AI &amp; SMS-based Learning Management System - Introducing EstudIA!](https://dev.to/sebaspv/ai-sms-based-learning-management-system-introducing-estudia-13dn)
+- [AI for Test Case Creation: How It Works and Why It Matters.](https://dev.to/anil_csimplifyit_905c/ai-for-test-case-creation-how-it-works-and-why-it-matters-1omb)
+- [# Azure Functions Memory Issues: How to Handle Large Files &lpar;Complete Guide 2024&rpar;](https://dev.to/adzhydra/-azure-functions-memory-issues-how-to-handle-large-files-complete-guide-2024-3h1b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
