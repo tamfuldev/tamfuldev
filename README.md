@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Next.js Course: Mastering the Power of Next.js](https://dev.to/lior_amsalem_3879371237f6/-advanced-nextjs-course-mastering-the-power-of-nextjs-4n4l)
-- [The software apprentice #2025:](https://dev.to/simonesquad/the-software-apprentice-2025-3pck)
-- [🌟 5 JavaScript Tricks Every Developer Should Know!](https://dev.to/sahilkhatiwada_official/5-javascript-tricks-every-developer-should-know-2im)
-- [Strategic Plan to Build an Impressive Android Development Portfolio](https://dev.to/javeedishaq/strategic-plan-to-build-an-impressive-android-development-portfolio-2g8e)
-- [How to Change Account Type in Windows 11?](https://dev.to/win11verse/how-to-change-account-type-in-windows-11-pk0)
+- [Visualizing Global Climate: A Digital Canvas of Seasonal Contrasts](https://dev.to/govindvyas/visualizing-global-climate-a-digital-canvas-of-seasonal-contrasts-559n)
+- [How to Run Control Panel as Administrator on Windows 11?](https://dev.to/winsides/how-to-run-control-panel-as-administrator-on-windows-11-2l8b)
+- [Concurrency vs Parallelism in Computing](https://dev.to/vipulkumarsviit/concurrency-vs-parallelism-in-computing-1cc4)
+- [CARTA DE AMOR](https://dev.to/soyjeanpieerpe19/carta-de-amor-595h)
+- [How to Create a React Application Post-CRA Deprecation](https://dev.to/rakhee/how-to-create-a-react-application-post-cra-deprecation-19jl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
