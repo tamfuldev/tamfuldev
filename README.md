@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The unseen beauty of Antelope Canyon!!](https://dev.to/aws-heroes/the-unseen-beauty-of-antelope-canyon-2pcj)
-- [VPS vs. Shared Hosting: Understanding the Key Differences](https://dev.to/msnmongare/vps-vs-shared-hosting-understanding-the-key-differences-ko8)
-- [How To Replace Exceptions with Result Pattern in .NET](https://dev.to/antonmartyniuk/how-to-replace-exceptions-with-result-pattern-in-net-249m)
-- [Why Bangalore’s Tech Environment is Ideal for BCA Students in Artificial Intelligence](https://dev.to/kavana-bm/why-bangalores-tech-environment-is-ideal-for-bca-students-in-artificial-intelligence-4ice)
-- [Cloud Service Costs: Strategies for Multicloud Management](https://dev.to/vaish_98/cloud-service-costs-strategies-for-multicloud-management-5aln)
+- [5 FACTS ABOUT MINECRAFT.](https://dev.to/mince/minecraft-4nlk)
+- [Technical Interview Questions - Part 7 - Promises Methods](https://dev.to/giulianaolmos/technical-interview-questions-part-7-promises-methods-311n)
+- [52 Tricks to Media Manipulation](https://dev.to/afrozchakure/52-tricks-to-media-manipulation-3i5k)
+- [OS Security &amp; Encryption: Protect Your Data Like a Pro! 🔐](https://dev.to/tavernetech/os-security-encryption-protect-your-data-like-a-pro-kfi)
+- [AWS Database Services: Find the Best Fit for Your Application](https://dev.to/uirole/aws-database-services-find-the-best-fit-for-your-application-4eag)
 <!-- BLOG-POST-LIST:END -->
 
 ---
