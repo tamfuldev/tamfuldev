@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SDD Story Driven Developments](https://dev.to/pengeszikra/sdd-story-driven-developments-2425)
-- [I have a question on back-end stuff. If my file tree is file://files/file.html, when the file is uploaded to the cloud, will it turn into example.com/files ? Thanks for any help.](https://dev.to/codemonster240/i-have-a-question-on-back-end-stuff-if-my-file-tree-is-filefilesfilehtml-when-the-file-is-4ml1)
-- [[Boost]](https://dev.to/emiroberti/-4gl)
-- [Machine learning en OJS](https://dev.to/horaciodegiorgi/open-journal-systemhttpspkpsfucasoftwareojs-pronto-integrara-machine-learning-para-11pg)
-- [404 Not Found: What Does It Mean?](https://dev.to/lovestaco/404-not-found-what-does-it-mean-81m)
+- [Use Tailwind CSS with Your Rails Forms](https://dev.to/railsdesigner/use-tailwind-css-with-your-rails-forms-4g1b)
+- [How to Handle the &quot;More&quot; Feature on Android?](https://dev.to/kiolk/how-to-handle-the-more-feature-on-android-2o6k)
+- [How to Define AI Agents with Cloudformation and SAM: A Builder&#39;s Guide](https://dev.to/aws-builders/how-to-define-ai-agents-with-cloudformation-and-sam-a-builders-guide-eka)
+- [Tackling fundamental logic: A very hard automated deduction challenge &lpar;free for all&rpar;](https://dev.to/xamidi/tackling-fundamental-logic-a-very-hard-automated-deduction-challenge-free-for-all-bic)
+- [A Comprehensive Guide to Lean Six Sigma Methodology](https://dev.to/shishsingh/a-comprehensive-guide-to-lean-six-sigma-methodology-2cbl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
