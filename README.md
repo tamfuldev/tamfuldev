@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Implications of using Aws cognito in Laravel 11 and the pool&#39;s user_id as application User Id.](https://dev.to/pcmagas/implications-of-using-aws-cognito-in-laravel-11-and-the-pools-userid-as-application-user-id-4b20)
-- [Exploring Spring Boot: The Magic Wand for Java Developers ✨](https://dev.to/kazi_ziaulhassan_66c99c8/exploring-spring-boot-the-magic-wand-for-java-developers-5bka)
-- [Terraform Map Variable: A Complete Guide with Practical Examples](https://dev.to/env0/terraform-map-variable-a-complete-guide-with-practical-examples-1iaf)
-- [Step-by-Step Approach to Configuring and Optimizing Cloud Environments on AWS](https://dev.to/marufhossain/step-by-step-approach-to-configuring-and-optimizing-cloud-environments-on-aws-2772)
-- [Agentic testing for prompt leakage security](https://dev.to/ag2ai/agentic-testing-for-prompt-leakage-security-3p6b)
+- [Identifying and Removing Unused Dependencies in pom.xml](https://dev.to/govinda_s/identifying-and-removing-unused-dependencies-in-pomxml-1emj)
+- [My Journey into Learning Java: Insights and Tips for Beginners](https://dev.to/innovative-insight/my-journey-into-learning-java-insights-and-tips-for-beginners-4go9)
+- [Leetcode — 3190. Find Minimum Operations to Make All Elements Divisible by Three](https://dev.to/bendlmp/leetcode-3190-find-minimum-operations-to-make-all-elements-divisible-by-three-4gpm)
+- [Blue/green deployment with helm hands-on](https://dev.to/truc3651/bluegreen-deployment-with-helm-hands-on-458c)
+- [Improving Code Readability with Better Assertions in Java](https://dev.to/govinda_s/improving-code-readability-with-better-assertions-in-java-4pgc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
