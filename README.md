@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Testing in React with Jest and React Testing Library](https://dev.to/abhay_yt_52a8e72b213be229/mastering-testing-in-react-with-jest-and-react-testing-library-2pg3)
-- [How to configure DevTools for your Zustand store?](https://dev.to/thinkthroo/how-to-configure-devtools-for-your-zustand-store-3e12)
-- [Comparing Formik and React Hook Form: Which One Should You Choose for Your React Forms?](https://dev.to/abhay_yt_52a8e72b213be229/comparing-formik-and-react-hook-form-which-one-should-you-choose-for-your-react-forms-54jf)
-- [AI changes life: 20 GPT-4o daily application tips!](https://dev.to/fallon_jimmy/ai-changes-life-20-gpt-4o-daily-application-tips-3df7)
-- [Understanding JavaScript Nullish Coalescing Operator &lpar;??&rpar;](https://dev.to/devshefali/understanding-javascript-nullish-coalescing-operator--n1b)
+- [Amazon Q Developer Tips: No.19 Amazon Q Developer Agents - /doc](https://dev.to/aws/amazon-q-developer-tips-no19-amazon-q-developer-agents-doc-4d1k)
+- [Dockerfile for a Node.js application](https://dev.to/meghasharmaaaa/dockerfile-for-a-nodejs-application-3ghp)
+- [Introduction: Why Choose Between Playwright and Cypress?](https://dev.to/keploy/introduction-why-choose-between-playwright-and-cypress-36o8)
+- [Understanding React Reconciler and Its Role in Efficient DOM Updates](https://dev.to/abhay_yt_52a8e72b213be229/understanding-react-reconciler-and-its-role-in-efficient-dom-updates-1hpb)
+- [Mastering React Concurrent Mode for Responsive, Smooth User Experiences](https://dev.to/abhay_yt_52a8e72b213be229/mastering-react-concurrent-mode-for-responsive-smooth-user-experiences-1g26)
 <!-- BLOG-POST-LIST:END -->
 
 ---
