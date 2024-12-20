@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Q Developer Tips: No.20 Amazon Q Developer Agents - /review](https://dev.to/aws/amazon-q-developer-tips-no20-amazon-q-developer-agents-review-2b6l)
-- [Mastering Communication Skills: A Path to Personal and Professional Success](https://dev.to/nozibul_islam_113b1d5334f/mastering-communication-skills-a-path-to-personal-and-professional-success-3995)
-- [Unlocking the Power of AI in the Palm of Your Hand with NVIDIA Jetson Nano](https://dev.to/hrithikroshanm/unlocking-the-power-of-ai-in-the-palm-of-your-hand-with-nvidia-jetson-nano-17om)
-- [What Does No Healthy Upstream Mean and How to Fix It](https://dev.to/uptrace/what-does-no-healthy-upstream-mean-and-how-to-fix-it-19m7)
-- [8 Powerful Python Testing Strategies to Elevate Code Quality](https://dev.to/aaravjoshi/8-powerful-python-testing-strategies-to-elevate-code-quality-2e77)
+- [Announcement: Ada Developer Room at FOSDEM 2025](https://dev.to/pinotattari/announcement-ada-developer-room-at-fosdem-2025-59n6)
+- [LeetCode Challenge 13: Roman to Integer - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-13-roman-to-integer-javascript-solution-b4e)
+- [Sustainable Web Design: Building Environmentally-Friendly Websites for a Greener Future](https://dev.to/okoye_ndidiamaka_5e3b7d30/sustainable-web-design-building-environmentally-friendly-websites-for-a-greener-future-13o4)
+- [Python](https://dev.to/ahmad_jaelani_c8f973aa767/python-2fed)
+- [Day13 ----&gt;SQL Quers and simple example:](https://dev.to/reegan/day13-sql-quers-and-simple-example-4f2n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
