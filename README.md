@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Conditional Statements in Dart: If vs Switch](https://dev.to/c0depri3st/understanding-conditional-statements-in-dart-if-vs-switch-1b47)
-- [Video Sharing &lpar;Improvement and Bug Fixes&rpar;](https://dev.to/dev_d_akash/video-sharing-improvement-and-bug-fixes-f4c)
-- [.NET MAUI Google Drive OAuth on Windows and Android](https://dev.to/adiamante/net-maui-google-drive-oauth-on-windows-and-android-4lm4)
-- [Harnessing OpenAI Assistant 2.0 for Named Entity Recognition in PHP/Symfony 7](https://dev.to/mateuszpoland/harnessing-openai-assistant-20-for-named-entity-recognition-in-phpsymfony-7-boe)
-- [Auth to Improve Socket Connection Security](https://dev.to/dev_d_akash/auth-to-improve-socket-connection-security-1nna)
+- [ReasoningAgent - Tree of Thoughts with Beam Search in AG2](https://dev.to/ag2ai/reasoningagent-tree-of-thoughts-with-beam-search-in-ag2-3ki1)
+- [Daily JavaScript Challenge #JS-53: Reverse Words in a Sentence](https://dev.to/dpc/daily-javascript-challenge-js-53-reverse-words-in-a-sentence-c3j)
+- [Demystifying the Man-Month &lpar;Part 2&rpar;](https://dev.to/roboword/demystifying-the-man-month-part-2-1ln)
+- [NEED TO KNOW ABOUT DOCKER](https://dev.to/emmanuel_essien_ed2507db6/need-to-know-about-docker-1l0k)
+- [Create a container using the Ubuntu image in Docker.](https://dev.to/chaymaekhl/create-a-container-using-the-ubuntu-image-in-docker-1aa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
