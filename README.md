@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Wasm3 + TinyGo on PSP](https://dev.to/aethiopicuschan/wasm3-tinygo-on-psp-12c9)
-- [How to Simulate High CPU Usage on AWS Ubuntu Instances for Testing and Performance Optimization](https://dev.to/abstractmusa/how-to-simulate-high-cpu-usage-on-aws-ubuntu-instances-for-testing-and-performance-optimization-1f5f)
-- [How to Prevent Duplication in Data Aggregation with BladePipe](https://dev.to/bladepipe/how-to-prevent-duplication-in-data-aggregation-with-bladepipe-4on5)
-- [🚀 5 JavaScript Best Practices That Transformed My Code Quality](https://dev.to/devjordan/5-javascript-best-practices-that-transformed-my-code-quality-3bdl)
-- [OpenAI chat completion with Json output format](https://dev.to/stormhub/openai-chat-completion-with-json-output-format-l5i)
+- [Mastering Node.js Routing: A Complete Guide with Internal Workings Explained](https://dev.to/nishanthan-k/mastering-nodejs-routing-a-complete-guide-with-internal-workings-explained-4gkg)
+- [Global Error Handling in Angular](https://dev.to/neerajs/global-error-handling-in-angular-29b5)
+- [HTML](https://dev.to/mehfila_parkkulthil_23/html-23n5)
+- [Image compression in Angular 15+ and .NET Core 7](https://dev.to/neerajs/image-compression-in-angular-15-and-net-core-7-o77)
+- [Could Mind-Reading Tech Like Neural Headphones Destroy Our Privacy?](https://dev.to/chiamaka_ebolue/could-mind-reading-tech-like-neural-headphones-destroy-our-privacy-5h63)
 <!-- BLOG-POST-LIST:END -->
 
 ---
