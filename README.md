@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [ReasoningAgent - Tree of Thoughts with Beam Search in AG2](https://dev.to/ag2ai/reasoningagent-tree-of-thoughts-with-beam-search-in-ag2-3ki1)
-- [Daily JavaScript Challenge #JS-53: Reverse Words in a Sentence](https://dev.to/dpc/daily-javascript-challenge-js-53-reverse-words-in-a-sentence-c3j)
-- [Demystifying the Man-Month &lpar;Part 2&rpar;](https://dev.to/roboword/demystifying-the-man-month-part-2-1ln)
-- [NEED TO KNOW ABOUT DOCKER](https://dev.to/emmanuel_essien_ed2507db6/need-to-know-about-docker-1l0k)
-- [Create a container using the Ubuntu image in Docker.](https://dev.to/chaymaekhl/create-a-container-using-the-ubuntu-image-in-docker-1aa)
+- [Wasm3 + TinyGo on PSP](https://dev.to/aethiopicuschan/wasm3-tinygo-on-psp-12c9)
+- [How to Simulate High CPU Usage on AWS Ubuntu Instances for Testing and Performance Optimization](https://dev.to/abstractmusa/how-to-simulate-high-cpu-usage-on-aws-ubuntu-instances-for-testing-and-performance-optimization-1f5f)
+- [How to Prevent Duplication in Data Aggregation with BladePipe](https://dev.to/bladepipe/how-to-prevent-duplication-in-data-aggregation-with-bladepipe-4on5)
+- [🚀 5 JavaScript Best Practices That Transformed My Code Quality](https://dev.to/devjordan/5-javascript-best-practices-that-transformed-my-code-quality-3bdl)
+- [OpenAI chat completion with Json output format](https://dev.to/stormhub/openai-chat-completion-with-json-output-format-l5i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
