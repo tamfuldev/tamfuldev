@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Node.js Routing: A Complete Guide with Internal Workings Explained](https://dev.to/nishanthan-k/mastering-nodejs-routing-a-complete-guide-with-internal-workings-explained-4gkg)
-- [Global Error Handling in Angular](https://dev.to/neerajs/global-error-handling-in-angular-29b5)
-- [HTML](https://dev.to/mehfila_parkkulthil_23/html-23n5)
-- [Image compression in Angular 15+ and .NET Core 7](https://dev.to/neerajs/image-compression-in-angular-15-and-net-core-7-o77)
-- [Could Mind-Reading Tech Like Neural Headphones Destroy Our Privacy?](https://dev.to/chiamaka_ebolue/could-mind-reading-tech-like-neural-headphones-destroy-our-privacy-5h63)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2l0o)
+- [Day 20: Not a Dedent! 🚧](https://dev.to/valeriavg/day-20-not-a-dedent-4boj)
+- [10 Bad Practices to Avoid When Writing SQL Queries for Better Performance](https://dev.to/abhay_yt_52a8e72b213be229/10-bad-practices-to-avoid-when-writing-sql-queries-for-better-performance-3doe)
+- [Integrating TikTok API with Laravel: A Comprehensive Guide](https://dev.to/ehtesham_ali_abc367f36a5b/integrating-tiktok-api-with-laravel-a-comprehensive-guide-43op)
+- [Understanding SNI &lpar;Server Name Indication&rpar; and Modern Encryption Solutions](https://dev.to/mochafreddo/understanding-sni-server-name-indication-in-tls-handshake-1gf2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
