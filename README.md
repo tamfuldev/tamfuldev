@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the BMI Calculator Code in React and Next.js](https://dev.to/aulneia_voen_d34e417adb55/understanding-the-bmi-calculator-code-in-react-and-nextjs-44dg)
-- [Running AI Prototyping Projects](https://dev.to/leading-edje/running-ai-prototyping-projects-12cd)
-- [LLM Function calling A.I. Chatbot from OpenAPI Document](https://dev.to/samchon/llm-function-calling-ai-chatbot-from-openapi-document-36p3)
-- [Weekly Updates - Dec 20, 2024](https://dev.to/couchbase/weekly-updates-dec-20-2024-1gbi)
-- [What is Digital Health &lpar;Digital Healthcare&rpar;? Its Importance, Benefits, and the Future](https://dev.to/thealgorithm/what-is-digital-health-digital-healthcare-its-importance-benefits-and-the-future-i12)
+- [What is a Data Pipeline?](https://dev.to/ayas_tech_2b0560ee159e661/what-is-a-data-pipeline-1i70)
+- [Announcing 12 Days of Codemas: The DataStax Holiday Giveaway!](https://dev.to/datastax/announcing-12-days-of-codemas-the-datastax-holiday-giveaway-5d7l)
+- [6 Ways to Prevent Triangulation Fraud](https://dev.to/yayabobi/6-ways-to-prevent-triangulation-fraud-331e)
+- [Decoding IP Addresses: Mastering Subnet Mask and CIDR Notation](https://dev.to/daniel_idoko/decoding-ip-addresses-mastering-subnet-mask-and-cidr-notation-2241)
+- [Solved: npm or yarn install node_modules is too big](https://dev.to/bytehala/solved-npm-or-yarn-install-nodemodules-is-too-big-2j23)
 <!-- BLOG-POST-LIST:END -->
 
 ---
