@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Best LLM for Coding and Developers in 2025](https://dev.to/ashinno/best-llm-for-coding-and-developers-in-2025-3dfc)
-- [Amazon EC2 T4g Free Trial Extended Yet Again](https://dev.to/ryanlwh/amazon-ec2-t4g-free-trial-extended-yet-again-1ba3)
-- [That&#39;s how I Use 100% of Azure Databases](https://dev.to/pratikpathak/thats-how-i-use-100-of-azure-databases-hbd)
-- [The Rise of Super Apps: Is the US Next? Insights for Software Developers](https://dev.to/shinetechsoftwareinc/the-rise-of-super-apps-is-the-us-next-insights-for-software-developers-2d1n)
-- [Advent of Code 2024 - Day 18: Ram Run](https://dev.to/grantdotdev/advent-of-code-2024-day-18-ram-run-4j6p)
+- [Amazon Lightsail: Instances, Access, and Best Practices](https://dev.to/alfred_ajv/amazon-lightsail-instances-access-and-best-practices-c1)
+- [Empower Your Web Apps with the Top Benefits of Using Laravel Inertia](https://dev.to/nicholajones075/empower-your-web-apps-with-the-top-benefits-of-using-laravel-inertia-5gdl)
+- [Building a subscription tracker Desktop and iOS app with compose multiplatform — Offline data](https://dev.to/kuroski/building-a-subscription-tracker-desktop-and-ios-app-with-compose-multiplatform-offline-data-50j6)
+- [Code Quality in the Cloud](https://dev.to/jonathanvila/code-quality-in-the-cloud-58a3)
+- [Integrating OpenAPI Documentation and Swagger UI in Spring Boot](https://dev.to/olymahmud/integrating-openapi-documentation-and-swagger-ui-in-spring-boot-38p6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
