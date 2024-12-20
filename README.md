@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [6 Types of Git Branching Strategy](https://dev.to/juniourrau/6-types-of-git-branching-strategy-g54)
-- [This Week In React #214 : Base UI, Custom Elements, Next.js, React Router, Android XR, iOS targets, Nitro, RNTL...](https://dev.to/sebastienlorber/this-week-in-react-214-base-ui-custom-elements-nextjs-react-router-android-xr-ios-targets-5d00)
-- [Click with Caution: A Beginner’s Guide to Cybersecurity](https://dev.to/tochi_/click-with-caution-a-beginners-guide-to-cybersecurity-3ajo)
-- [Unleash Your Passion: Get Involved in My Open Source Project!](https://dev.to/praveenrajamani/unleash-your-passion-get-involved-in-my-open-source-project-20bb)
-- [Building a Cooking Expert AI Agent with Phidata and Django Rest Framework &lpar;DRF&rpar;](https://dev.to/shemanto_sharkar/building-a-cooking-expert-ai-agent-with-phidata-and-django-rest-framework-drf-3nch)
+- [Understanding the BMI Calculator Code in React and Next.js](https://dev.to/aulneia_voen_d34e417adb55/understanding-the-bmi-calculator-code-in-react-and-nextjs-44dg)
+- [Running AI Prototyping Projects](https://dev.to/leading-edje/running-ai-prototyping-projects-12cd)
+- [LLM Function calling A.I. Chatbot from OpenAPI Document](https://dev.to/samchon/llm-function-calling-ai-chatbot-from-openapi-document-36p3)
+- [Weekly Updates - Dec 20, 2024](https://dev.to/couchbase/weekly-updates-dec-20-2024-1gbi)
+- [What is Digital Health &lpar;Digital Healthcare&rpar;? Its Importance, Benefits, and the Future](https://dev.to/thealgorithm/what-is-digital-health-digital-healthcare-its-importance-benefits-and-the-future-i12)
 <!-- BLOG-POST-LIST:END -->
 
 ---
