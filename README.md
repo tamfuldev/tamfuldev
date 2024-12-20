@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Announcement: Ada Developer Room at FOSDEM 2025](https://dev.to/pinotattari/announcement-ada-developer-room-at-fosdem-2025-59n6)
-- [LeetCode Challenge 13: Roman to Integer - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-13-roman-to-integer-javascript-solution-b4e)
-- [Sustainable Web Design: Building Environmentally-Friendly Websites for a Greener Future](https://dev.to/okoye_ndidiamaka_5e3b7d30/sustainable-web-design-building-environmentally-friendly-websites-for-a-greener-future-13o4)
-- [Python](https://dev.to/ahmad_jaelani_c8f973aa767/python-2fed)
-- [Day13 ----&gt;SQL Quers and simple example:](https://dev.to/reegan/day13-sql-quers-and-simple-example-4f2n)
+- [15 Best GraphQL Tools for 2025](https://dev.to/apilover/15-best-graphql-tools-for-2025-h21)
+- [How to Build a Face Mask Detection System: A Practical Guide for Beginners](https://dev.to/chidoziemanagwu/how-to-build-a-face-mask-detection-system-a-practical-guide-for-beginners-30fb)
+- [自建的git远程仓库，在push时413 Request Entity Too Large](https://dev.to/dragon72463399/zi-jian-de-gityuan-cheng-cang-ku-zai-pushshi-413-request-entity-too-large-394p)
+- [Hopper Architecture for Deep Learning and AI](https://dev.to/javaeeeee/hopper-architecture-for-deep-learning-and-ai-19gj)
+- [Unveiling the Magic of CSS Pseudo-Classes in Frontend Development](https://dev.to/cezarymazur/unveiling-the-magic-of-css-pseudo-classes-in-frontend-development-3fie)
 <!-- BLOG-POST-LIST:END -->
 
 ---
