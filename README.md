@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Php Reflection](https://dev.to/ahmedraza_fyntune/php-reflection-4cbb)
-- [How Can Google Cloud Platform Certifications Accelerate Your Career in Cloud Computing?](https://dev.to/innovative-insight/how-can-google-cloud-platform-certifications-accelerate-your-career-in-cloud-computing-209i)
-- [Waterfall Model: Simple Breakdown](https://dev.to/learn_with_santosh/waterfall-model-simple-breakdown-4e6j)
-- [AI and the Black Box Problem: How Machine Learning Challenges Mathematical Proof Verification](https://dev.to/mikeyoung44/ai-and-the-black-box-problem-how-machine-learning-challenges-mathematical-proof-verification-1hg7)
-- [How We Can Control AI&#39;s Growth While Keeping Innovation Alive: New Research](https://dev.to/mikeyoung44/how-we-can-control-ais-growth-while-keeping-innovation-alive-new-research-135h)
+- [Playwright: A Comprehensive Overview of Web UI Automation Testing Framework](https://dev.to/isaac_chen/playwright-a-comprehensive-overview-of-web-ui-automation-testing-framework-1lln)
+- [Exploring GraphCodeBERT for Code Search: Insights and Limitations](https://dev.to/rebuss/exploring-graphcodebert-for-code-search-insights-and-limitations-4jm)
+- [4. Testing &lpar;async&rpar; searchParams with Jest in Next 15](https://dev.to/peterlidee/4-testing-async-searchparams-with-jest-in-next-15-2h2o)
+- [Why watch anime like a normie ?](https://dev.to/serene-brew/why-watch-anime-like-a-normie--2434)
+- [Boost Your Productivity with awscurl: Simplifying IAM-Secured API Testing in AWS](https://dev.to/aws-builders/boost-your-productivity-with-awscurl-simplifying-iam-secured-api-testing-in-aws-5e62)
 <!-- BLOG-POST-LIST:END -->
 
 ---
