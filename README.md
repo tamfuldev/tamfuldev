@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [LeetCode Challenge: 12. Integer to Roman - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-12-integer-to-roman-javascript-solution-1ee)
-- [#11 Next.js 15: Revolutionizing Server-Side Rendering &lpar;SSR&rpar; for Modern Applications😯🤓](https://dev.to/sahilshityalkar/11-nextjs-15-revolutionizing-server-side-rendering-ssr-for-modern-applications-1inc)
-- [Understanding CI/CD: A Comprehensive Guide](https://dev.to/thisisthedeveloper/understanding-cicd-a-comprehensive-guide-4klg)
-- [Mantis, a web framework written in V](https://dev.to/anwar_nairi/mantis-a-web-framework-written-in-v-39e9)
-- [Part 1: Master Authentication and Role-Based Access Control &lpar;RBAC&rpar; with Kinde and Convex in a File-Sharing Application](https://dev.to/sholajegede/part-1-master-authentication-and-role-based-access-control-rbac-with-kinde-and-convex-in-a-h3c)
+- [Php Reflection](https://dev.to/ahmedraza_fyntune/php-reflection-4cbb)
+- [How Can Google Cloud Platform Certifications Accelerate Your Career in Cloud Computing?](https://dev.to/innovative-insight/how-can-google-cloud-platform-certifications-accelerate-your-career-in-cloud-computing-209i)
+- [Waterfall Model: Simple Breakdown](https://dev.to/learn_with_santosh/waterfall-model-simple-breakdown-4e6j)
+- [AI and the Black Box Problem: How Machine Learning Challenges Mathematical Proof Verification](https://dev.to/mikeyoung44/ai-and-the-black-box-problem-how-machine-learning-challenges-mathematical-proof-verification-1hg7)
+- [How We Can Control AI&#39;s Growth While Keeping Innovation Alive: New Research](https://dev.to/mikeyoung44/how-we-can-control-ais-growth-while-keeping-innovation-alive-new-research-135h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
