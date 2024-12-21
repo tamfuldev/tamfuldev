@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Using Data to Drive Mental Health Outcomes](https://dev.to/prettysoul2025/using-data-to-drive-mental-health-outcomes-5ae6)
-- [Stop Trying to Learn Everything -Focus on These 5 Key Skills Every Developer Needs](https://dev.to/manashjb/stop-trying-to-learn-everything-focus-on-these-5-key-skills-every-developer-needs-1jdh)
-- [Stop Trying to Learn Everything -Focus on These 5 Key Skills Every Developer Needs](https://dev.to/manashjb/stop-trying-to-learn-everything-focus-on-these-5-key-skills-every-developer-needs-22ln)
-- [Part 9: Exception Handling in C#](https://dev.to/adrianbailador/part-9-exception-handling-in-c-59o)
-- [HTTP Status Codes Explained](https://dev.to/keyur-chaudhari/http-status-codes-explained-58la)
+- [Lithe Framework: Incredible Projects Built with It!](https://dev.to/lithephp/lithe-framework-incredible-projects-built-with-it-f2b)
+- [Framework Lithe: Projetos incríveis feitos com ele!](https://dev.to/lithephp/framework-lithe-projetos-incriveis-feitos-com-ele-1n7d)
+- [Microservices Architecture: Breaking Down Monoliths for Scalability](https://dev.to/vellanki/microservices-architecture-breaking-down-monoliths-for-scalability-54kc)
+- [Ever save a LinkedIn post thinking, “I’ll get back to this later,” but totally forget?](https://dev.to/ayaarragab/ever-save-a-linkedin-post-thinking-ill-get-back-to-this-later-but-totally-forget-33af)
+- [DevOps vs. DevSecOps: What’s the Difference and Why It Matters?](https://dev.to/vellanki/devops-vs-devsecops-whats-the-difference-and-why-it-matters-4lnl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
