@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Winter Solstice](https://dev.to/avradeep_nayak_fa8d5f6995/winter-solstice-2nf2)
-- [Getting Started with Redux and Redux Toolkit](https://dev.to/hajarnasr/getting-started-with-redux-and-redux-toolkit-43c)
-- [Custom YouTube Player Gadget](https://dev.to/anwarachilles/custom-youtube-player-gadget-39ke)
-- [I made OpenAPI and LLM schema definitions](https://dev.to/samchon/i-made-openapi-and-llm-schema-definitions-1mn0)
-- [Restrições ao Uso de Genéricos](https://dev.to/javaparainiciantes/restricoes-ao-uso-de-genericos-3052)
+- [Using Data to Drive Mental Health Outcomes](https://dev.to/prettysoul2025/using-data-to-drive-mental-health-outcomes-5ae6)
+- [Stop Trying to Learn Everything -Focus on These 5 Key Skills Every Developer Needs](https://dev.to/manashjb/stop-trying-to-learn-everything-focus-on-these-5-key-skills-every-developer-needs-1jdh)
+- [Stop Trying to Learn Everything -Focus on These 5 Key Skills Every Developer Needs](https://dev.to/manashjb/stop-trying-to-learn-everything-focus-on-these-5-key-skills-every-developer-needs-22ln)
+- [Part 9: Exception Handling in C#](https://dev.to/adrianbailador/part-9-exception-handling-in-c-59o)
+- [HTTP Status Codes Explained](https://dev.to/keyur-chaudhari/http-status-codes-explained-58la)
 <!-- BLOG-POST-LIST:END -->
 
 ---
