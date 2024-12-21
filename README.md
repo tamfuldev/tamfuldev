@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Tipos brutos e código legado](https://dev.to/javaparainiciantes/tipos-brutos-e-codigo-legado-3c6m)
-- [Exploring AWS EKS Auto Mode: A Simplified Kubernetes Experience](https://dev.to/aws-heroes/exploring-aws-eks-auto-mode-a-simplified-kubernetes-experience-3744)
-- [Programming Problem Solving: C++ Case Study](https://dev.to/afolabi_abdulsamad_52f6de/programming-problem-solving-c-case-study-5hla)
-- [Serverless semantic search - AWS Lambda, AWS Bedrock, Neon](https://dev.to/aws-builders/serverless-semantic-search-aws-lambda-aws-bedrock-neon-59lo)
-- [Day 20: Docker Orchestrators](https://dev.to/code42cate/day-20-docker-orchestrators-384f)
+- [Winter Solstice](https://dev.to/avradeep_nayak_fa8d5f6995/winter-solstice-2nf2)
+- [Getting Started with Redux and Redux Toolkit](https://dev.to/hajarnasr/getting-started-with-redux-and-redux-toolkit-43c)
+- [Custom YouTube Player Gadget](https://dev.to/anwarachilles/custom-youtube-player-gadget-39ke)
+- [I made OpenAPI and LLM schema definitions](https://dev.to/samchon/i-made-openapi-and-llm-schema-definitions-1mn0)
+- [Restrições ao Uso de Genéricos](https://dev.to/javaparainiciantes/restricoes-ao-uso-de-genericos-3052)
 <!-- BLOG-POST-LIST:END -->
 
 ---
