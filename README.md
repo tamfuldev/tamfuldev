@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Ansible: The Essential Guide for DevOps Engineers](https://dev.to/mohamednasser018/mastering-ansible-the-essential-guide-for-devops-engineers-32m4)
-- [Learn Design Patterns: Understanding the Builder Pattern](https://dev.to/sami_maachi/learn-design-patterns-understanding-the-builder-pattern-3m5h)
-- [OpenAI o3 - Thinking Fast and Slow](https://dev.to/maximsaplin/openai-o3-thinking-fast-and-slow-2g79)
-- [Cowboy Casino Major Update](https://dev.to/w4ffl35/cowboy-casino-major-update-924)
-- [Carla Simulator 1 : How to Set Up CARLA Simulator – Toretto Style 🏎️🔥](https://dev.to/mitanshgor/carla-simulator-1-how-to-set-up-carla-simulator-toretto-style-3800)
+- [Places365 in PyTorch](https://dev.to/hyperkai/places365-in-pytorch-3ega)
+- [Understanding the problem space in product management](https://dev.to/wdp/understanding-the-problem-space-in-product-management-1ffi)
+- [Steps to Dealing with Overcoming Imposter Syndrome in Tech](https://dev.to/shrutikapoor08/7-steps-to-dealing-with-overcoming-imposter-syndrome-in-tech-4l3g)
+- [Reflections em Java: Uma Ferramenta Poderosa e Seus Cuidados](https://dev.to/marcelovmendes/reflections-em-java-uma-ferramenta-poderosa-e-seus-cuidados-4m3m)
+- [Ephemeral Environments: A Quick Overview](https://dev.to/shipyard/ephemeral-environments-a-quick-overview-3m7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
