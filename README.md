@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Places365 in PyTorch](https://dev.to/hyperkai/places365-in-pytorch-3ega)
-- [Understanding the problem space in product management](https://dev.to/wdp/understanding-the-problem-space-in-product-management-1ffi)
-- [Steps to Dealing with Overcoming Imposter Syndrome in Tech](https://dev.to/shrutikapoor08/7-steps-to-dealing-with-overcoming-imposter-syndrome-in-tech-4l3g)
-- [Reflections em Java: Uma Ferramenta Poderosa e Seus Cuidados](https://dev.to/marcelovmendes/reflections-em-java-uma-ferramenta-poderosa-e-seus-cuidados-4m3m)
-- [Ephemeral Environments: A Quick Overview](https://dev.to/shipyard/ephemeral-environments-a-quick-overview-3m7)
+- [Geospatial Indexing Sampler](https://dev.to/aaronblondeau/geospatial-indexing-sampler-4mki)
+- [🌟 The Ultimate Full-Stack Developer Roadmap for 2025 🚀 🌟](https://dev.to/hanzla-baig/the-ultimate-full-stack-developer-roadmap-for-2025-o5h)
+- [Can you find the error in this Nextjs code?](https://dev.to/kelsey-d/can-you-find-the-error-in-this-nextjs-code-249g)
+- [Fine-Tuning T5-Small Model for a Completely New Language: Limbu](https://dev.to/bedram-tamang/fine-tuning-t5-small-model-for-a-completely-new-language-limbu-4c4n)
+- [AI Software Testing: Improving Quality Assurance with Artificial Intelligence](https://dev.to/anil_csimplifyit_905c/ai-software-testing-improving-quality-assurance-with-artificial-intelligence-932)
 <!-- BLOG-POST-LIST:END -->
 
 ---
