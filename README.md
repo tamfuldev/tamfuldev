@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Q Developer Tips: No.21 Amazon Q Developer Agents - /test](https://dev.to/aws/amazon-q-developer-tips-no21-amazon-q-developer-agents-test-37o5)
-- [Amazon SageMaker AI: Redefining Machine Learning](https://dev.to/aws-builders/amazon-sagemaker-ai-redefining-machine-learning-3c1k)
-- [Top Open Source Communities you should not miss out in 2025🔥](https://dev.to/harshit_rwt/top-open-source-communities-you-should-not-miss-out-in-2025-395)
-- [How to Boost Productivity with Keyboard Shortcuts](https://dev.to/oldjack/how-to-boost-productivity-with-keyboard-shortcuts-2l1b)
-- [Supercharge Your Network Requests with SOCKS5 Proxy in Curl](https://dev.to/swiftproxy_residential/supercharge-your-network-requests-with-socks5-proxy-in-curl-1dj6)
+- [How to Install IIS on Windows Server](https://dev.to/s3cloudhub/how-to-install-iis-on-windows-server-2e9l)
+- [MYTH: You Need a CS Degree to Get Started with Software Engineering](https://dev.to/javeedishaq/myth-you-need-a-cs-degree-to-get-started-with-software-engineering-2dl5)
+- [Concept of Infrastructure Monitoring](https://dev.to/574n13y/concept-of-infrastructure-monitoring-492l)
+- [Useful JavaScript tips and tricks that you may not be aware of 💻👨‍💻](https://dev.to/aryan_shourie/useful-javascript-tips-and-tricks-that-you-may-not-be-aware-of-32af)
+- [NanoMD: 輕量化 Markdown 編輯器](https://dev.to/pardnchiu/nanomd-qing-liang-hua-markdown-bian-ji-qi-9o7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
