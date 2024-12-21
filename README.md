@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/mesonu/-25cg)
-- [6 Advanced Python Context Managers for Efficient Resource Management](https://dev.to/aaravjoshi/6-advanced-python-context-managers-for-efficient-resource-management-4j0f)
-- [12 New JavaScript Features Every Developer Should Know](https://dev.to/mesonu/12-new-javascript-features-every-developer-should-know-4nln)
-- [5 Advanced Front-End Testing Strategies to Boost Web App Quality](https://dev.to/aaravjoshi/5-advanced-front-end-testing-strategies-to-boost-web-app-quality-19k4)
-- [How to return meaningful error messages with Zod, Lambda and API Gateway in AWS CDK](https://dev.to/katherine_m/how-to-return-meaningful-error-messages-with-zod-lambda-and-api-gateway-in-aws-cdk-3l2e)
+- [LeetCode Challenge: 12. Integer to Roman - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-12-integer-to-roman-javascript-solution-1ee)
+- [#11 Next.js 15: Revolutionizing Server-Side Rendering &lpar;SSR&rpar; for Modern Applications😯🤓](https://dev.to/sahilshityalkar/11-nextjs-15-revolutionizing-server-side-rendering-ssr-for-modern-applications-1inc)
+- [Understanding CI/CD: A Comprehensive Guide](https://dev.to/thisisthedeveloper/understanding-cicd-a-comprehensive-guide-4klg)
+- [Mantis, a web framework written in V](https://dev.to/anwar_nairi/mantis-a-web-framework-written-in-v-39e9)
+- [Part 1: Master Authentication and Role-Based Access Control &lpar;RBAC&rpar; with Kinde and Convex in a File-Sharing Application](https://dev.to/sholajegede/part-1-master-authentication-and-role-based-access-control-rbac-with-kinde-and-convex-in-a-h3c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
