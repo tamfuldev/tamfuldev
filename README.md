@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Tailwind CSS](https://dev.to/hannahanot/understanding-tailwind-css-1efk)
-- [Ultimate LazyVim Terminal Troubleshooting Tutorial &lpar;for the Brave Souls 🛠️&rpar;](https://dev.to/memlens/ultimate-lazyvim-terminal-troubleshooting-tutorial-for-the-brave-souls--2a3)
-- [TS1009: Trailing comma not allowed.](https://dev.to/ahmad_tibibi/ts1009-trailing-comma-not-allowed-1g3i)
-- [TypeScript: Understanding TS1005 Error](https://dev.to/ahmad_tibibi/typescript-understanding-ts1005-error-1kkh)
-- [Vercel Next.js Integration](https://dev.to/turingvangisms/vercel-nextjs-integration-403g)
+- [Amazon Q Developer Tips: No.21 Amazon Q Developer Agents - /test](https://dev.to/aws/amazon-q-developer-tips-no21-amazon-q-developer-agents-test-37o5)
+- [Amazon SageMaker AI: Redefining Machine Learning](https://dev.to/aws-builders/amazon-sagemaker-ai-redefining-machine-learning-3c1k)
+- [Top Open Source Communities you should not miss out in 2025🔥](https://dev.to/harshit_rwt/top-open-source-communities-you-should-not-miss-out-in-2025-395)
+- [How to Boost Productivity with Keyboard Shortcuts](https://dev.to/oldjack/how-to-boost-productivity-with-keyboard-shortcuts-2l1b)
+- [Supercharge Your Network Requests with SOCKS5 Proxy in Curl](https://dev.to/swiftproxy_residential/supercharge-your-network-requests-with-socks5-proxy-in-curl-1dj6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
