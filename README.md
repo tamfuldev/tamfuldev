@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Geospatial Indexing Sampler](https://dev.to/aaronblondeau/geospatial-indexing-sampler-4mki)
-- [🌟 The Ultimate Full-Stack Developer Roadmap for 2025 🚀 🌟](https://dev.to/hanzla-baig/the-ultimate-full-stack-developer-roadmap-for-2025-o5h)
-- [Can you find the error in this Nextjs code?](https://dev.to/kelsey-d/can-you-find-the-error-in-this-nextjs-code-249g)
-- [Fine-Tuning T5-Small Model for a Completely New Language: Limbu](https://dev.to/bedram-tamang/fine-tuning-t5-small-model-for-a-completely-new-language-limbu-4c4n)
-- [AI Software Testing: Improving Quality Assurance with Artificial Intelligence](https://dev.to/anil_csimplifyit_905c/ai-software-testing-improving-quality-assurance-with-artificial-intelligence-932)
+- [Exploring HuggingFace and Building an AI Exam Question Generator](https://dev.to/kurtchan/exploring-huggingface-and-building-an-ai-exam-question-generator-3e2d)
+- [Transform Your API Logs Into Interactive Visualizations with This Free Online Tool](https://dev.to/foxinfotech/transform-your-api-logs-into-interactive-visualizations-with-this-free-online-tool-3np0)
+- [Leitura comentada - Arquitetura Limpa - Princípios dos componentes](https://dev.to/ifelipedev/leitura-comentada-arquitetura-limpa-principios-dos-componentes-18kc)
+- [Azure DevOps Flutter IOS CI Pipeline](https://dev.to/mohamedamr/azure-devops-flutter-ios-ci-pipeline-1kb)
+- [Day 12: Layouts and Floats](https://dev.to/theoriginalbpc/day-12-layouts-and-floats-58dl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
