@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Generating SECRET_KEY for production deployment of Django project](https://dev.to/xinitd/generating-secretkey-for-production-deployment-of-django-project-2ami)
-- [SOLID: Principio de Abierto/Cerrado](https://dev.to/gesman/solid-principio-de-abiertocerrado-2aji)
-- [The Rewrite Trap: A Programmer&#39;s Survival Guide](https://dev.to/mashaa/the-rewrite-trap-a-programmers-survival-guide-2hl3)
-- [types of access modifier ?](https://dev.to/hema_latha/types-of-access-modifier--2mif)
-- [Nice Extension lifts webpage restrictions, allowing you to freely browse webpage content](https://dev.to/flower0wine/nice-extension-lifts-webpage-restrictions-allowing-you-to-freely-browse-webpage-content-3f82)
+- [Catalyst Tricks: Map Request Parameters to a Model](https://dev.to/jjn1056/catalyst-tricks-map-request-parameters-to-a-model-44fa)
+- [Local live core web vital metrics in the devtools](https://dev.to/shidhincr/local-live-core-web-vital-metrics-in-the-devtools-2hlc)
+- [Virtualized Intel VTX or EPT is not supported on this platform Hatası Çözümü](https://dev.to/kadirerbas/virtualized-intel-vtx-or-ept-is-not-supported-on-this-platform-hatasi-cozumu-511d)
+- [ORM and Migrating/Adding Data to MySql Database from MongoDb using TypeOrm in javaScript](https://dev.to/datta3/orm-and-migratingadding-data-to-mysql-database-from-mongodb-using-typeorm-in-javascript-5bd2)
+- [Frontend Challenge - December Edition, Glam Up My Markup: Winter Solstice](https://dev.to/r5207644/frontend-challenge-december-edition-glam-up-my-markup-winter-solstice-28a1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
