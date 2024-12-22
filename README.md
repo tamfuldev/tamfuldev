@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Is Software Engineering Still Worth It in 2025?](https://dev.to/koladev/is-software-engineering-still-worth-it-in-2025-j3b)
-- [The Linguistic and Economic Implications of an Arabic Programming Language](https://dev.to/ashras/the-linguistic-and-economic-implications-of-an-arabic-programming-language-4emj)
-- [Escape the Chrome Browsing Rabbit Hole](https://dev.to/airabbit/escape-the-chrome-browsing-rabbit-hole-f56)
-- [Webscraping com Python: usando CSV como base de dados](https://dev.to/casewinter/webscraping-com-python-usando-csv-como-base-de-dados-186k)
-- [5 Best Docker Books for Beginners](https://dev.to/bobbyiliev/5-best-docker-books-for-beginners-4k38)
+- [Building scalable ML workflows](https://dev.to/acoh3n/building-scalable-ml-workflows-4f0k)
+- [I build a UI library for Svelte for my first time](https://dev.to/qaynam/i-build-a-ui-library-for-svelte-for-my-first-time-14n0)
+- [Testing](https://dev.to/jeremy_chengjeremyc_5c/testing-5776)
+- [MotoMend: Exploring DevCycle API Integration](https://dev.to/c4fkrx/motomend-exploring-devcycle-api-integration-111m)
+- [Cloud Cost Management Strategies](https://dev.to/574n13y/cloud-cost-management-strategies-1529)
 <!-- BLOG-POST-LIST:END -->
 
 ---
