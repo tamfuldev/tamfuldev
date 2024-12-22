@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Catalyst Tricks: Map Request Parameters to a Model](https://dev.to/jjn1056/catalyst-tricks-map-request-parameters-to-a-model-44fa)
-- [Local live core web vital metrics in the devtools](https://dev.to/shidhincr/local-live-core-web-vital-metrics-in-the-devtools-2hlc)
-- [Virtualized Intel VTX or EPT is not supported on this platform Hatası Çözümü](https://dev.to/kadirerbas/virtualized-intel-vtx-or-ept-is-not-supported-on-this-platform-hatasi-cozumu-511d)
-- [ORM and Migrating/Adding Data to MySql Database from MongoDb using TypeOrm in javaScript](https://dev.to/datta3/orm-and-migratingadding-data-to-mysql-database-from-mongodb-using-typeorm-in-javascript-5bd2)
-- [Frontend Challenge - December Edition, Glam Up My Markup: Winter Solstice](https://dev.to/r5207644/frontend-challenge-december-edition-glam-up-my-markup-winter-solstice-28a1)
+- [Winter Solstice](https://dev.to/ambatichaitanya/winter-solstice-3d8a)
+- [Mentoring for Women in IT: How to Get the Most Out of It](https://dev.to/kwan/mentoring-for-women-in-it-how-to-get-the-most-out-of-it-3dl2)
+- [2940. Find Building Where Alice and Bob Can Meet](https://dev.to/mdarifulhaque/2940-find-building-where-alice-and-bob-can-meet-2m2m)
+- [&lpar;Occasionally&rpar; Useful Web Tools For Android Developers](https://dev.to/berhram/occasionally-useful-web-tools-for-android-developers-4g48)
+- [Solution: Android Emulator is too big and wont fit on screen -Windows 10](https://dev.to/pgomezec/solution-android-emulator-is-too-big-and-wont-fit-on-screen-windows-10-5fd4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
