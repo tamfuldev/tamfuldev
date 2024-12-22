@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Cyberdev Obsidian Theme](https://dev.to/gokayburuc/cyberdev-obsidian-theme-4219)
+- [Untitled](https://dev.to/efecan_buyukda_e0c381aa6/untitled-5hf4)
 - [A technical blog on Git and Github, how to set up git, creating a repository, making commits, pushing,pulling](https://dev.to/olalekan_johnayansola_4a/a-technical-blog-on-git-and-github-how-to-set-up-git-creating-a-repository-making-commits-2b0d)
 - [Mastering Responsive Design: Best Practices for 2025](https://dev.to/gurjeetsinghvirdee/mastering-responsive-design-best-practices-for-2025-2gmn)
 - [Home for the Holidays: Staying Ahead of Cybersecurity Threats](https://dev.to/wvnuola/home-for-the-holidays-staying-ahead-of-cybersecurity-threats-2h)
-- [How to Become a Successful Software Developer in 2024](https://dev.to/empiree/how-to-become-a-successful-software-developer-in-2024-2f07)
-- [Building MooVeeMatch: A Mood-Based Movie Recommendation Program 🎥✨](https://dev.to/codewizardx1/building-mooveematch-a-mood-based-movie-recommendation-program-598c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
