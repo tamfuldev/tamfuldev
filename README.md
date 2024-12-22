@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Upgrading to .NET 9: The Ultimate Migration Guide for Developers](https://dev.to/leandroveiga/upgrading-to-net-9-the-ultimate-migration-guide-for-developers-4mia)
-- [Automating Docker Management with Terraform](https://dev.to/abhay_yt_52a8e72b213be229/automating-docker-management-with-terraform-43bo)
-- [Permission-Based Authorization in ASP.NET Core: A Step-by-Step Guide](https://dev.to/kiipz/permission-based-authorization-in-aspnet-core-a-step-by-step-guide-1c3o)
-- [RandomHorizontalFlip in PyTorch](https://dev.to/hyperkai/randomhorizontalflip-in-pytorch-57c3)
-- [Quantum Feature flags](https://dev.to/binarygarage/quantum-feature-flags-40n2)
+- [Generating SECRET_KEY for production deployment of Django project](https://dev.to/xinitd/generating-secretkey-for-production-deployment-of-django-project-2ami)
+- [SOLID: Principio de Abierto/Cerrado](https://dev.to/gesman/solid-principio-de-abiertocerrado-2aji)
+- [The Rewrite Trap: A Programmer&#39;s Survival Guide](https://dev.to/mashaa/the-rewrite-trap-a-programmers-survival-guide-2hl3)
+- [types of access modifier ?](https://dev.to/hema_latha/types-of-access-modifier--2mif)
+- [Nice Extension lifts webpage restrictions, allowing you to freely browse webpage content](https://dev.to/flower0wine/nice-extension-lifts-webpage-restrictions-allowing-you-to-freely-browse-webpage-content-3f82)
 <!-- BLOG-POST-LIST:END -->
 
 ---
