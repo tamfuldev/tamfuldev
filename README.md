@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building scalable ML workflows](https://dev.to/acoh3n/building-scalable-ml-workflows-4f0k)
-- [I build a UI library for Svelte for my first time](https://dev.to/qaynam/i-build-a-ui-library-for-svelte-for-my-first-time-14n0)
-- [Testing](https://dev.to/jeremy_chengjeremyc_5c/testing-5776)
-- [MotoMend: Exploring DevCycle API Integration](https://dev.to/c4fkrx/motomend-exploring-devcycle-api-integration-111m)
-- [Cloud Cost Management Strategies](https://dev.to/574n13y/cloud-cost-management-strategies-1529)
+- [Upgrading to .NET 9: The Ultimate Migration Guide for Developers](https://dev.to/leandroveiga/upgrading-to-net-9-the-ultimate-migration-guide-for-developers-4mia)
+- [Automating Docker Management with Terraform](https://dev.to/abhay_yt_52a8e72b213be229/automating-docker-management-with-terraform-43bo)
+- [Permission-Based Authorization in ASP.NET Core: A Step-by-Step Guide](https://dev.to/kiipz/permission-based-authorization-in-aspnet-core-a-step-by-step-guide-1c3o)
+- [RandomHorizontalFlip in PyTorch](https://dev.to/hyperkai/randomhorizontalflip-in-pytorch-57c3)
+- [Quantum Feature flags](https://dev.to/binarygarage/quantum-feature-flags-40n2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
