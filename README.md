@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [TS1016: A Required Parameter Cannot Follow an Optional Parameter](https://dev.to/turingvangisms/ts1016-a-required-parameter-cannot-follow-an-optional-parameter-4nmj)
-- [Fixing TS1015: Parameter Cannot Have Question Mark and Initializer](https://dev.to/ahmad_tibibi/fixing-ts1015-parameter-cannot-have-question-mark-and-initializer-cih)
-- [Week 1-4](https://dev.to/aiden_isaac/week-1-4-5343)
-- [TS1014: A Rest Parameter Must Be Last in a Parameter List](https://dev.to/ahmad_tibibi/ts1014-a-rest-parameter-must-be-last-in-a-parameter-list-55kf)
-- [TS1013: A Rest Parameter or Binding Pattern May Not Have a Trailing Comma](https://dev.to/ahmad_tibibi/ts1013-a-rest-parameter-or-binding-pattern-may-not-have-a-trailing-comma-5g7i)
+- [Django Deployment : Serving Static files with Nginx and Gunicorn](https://dev.to/ajitkumar/django-deployment-serving-static-files-with-nginx-and-gunicorn-5d3o)
+- [Checklist for Selecting the Best Cloud Cost Management and Optimization Platform](https://dev.to/vaish_98/checklist-for-selecting-the-best-cloud-cost-management-and-optimization-platform-2ml1)
+- [Certifications that Matter in IT. Which certifications will boost your career prospects?](https://dev.to/kakacomputer-media/certifications-that-matter-in-it-which-certifications-will-boost-your-career-prospects-5f7j)
+- [AI has killed my coding career](https://dev.to/moth668/ai-has-killed-my-coding-career-348d)
+- [Laravel factory and seeder](https://dev.to/anashussain284/laravel-factory-and-seeder-2b9a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
