@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Theme Builder for Angular Material supports version 19](https://dev.to/ngmaterialdev/theme-builder-for-angular-material-supports-version-19-3gdd)
-- [Winter Solstice Celebration - A Festive Landing Page](https://dev.to/roshan_thakur_22527022833/winter-solstice-celebration-a-festive-landing-page-4c5a)
-- [Mastering Stress Testing: Breaking Systems To Build Better Ones](https://dev.to/keploy/mastering-stress-testing-breaking-systems-to-build-better-ones-5ip)
-- [FSCSS Example](https://dev.to/fscss/fscss-example-phj)
-- [6 Emerging Web Animation Techniques for Dynamic User Interfaces](https://dev.to/aaravjoshi/6-emerging-web-animation-techniques-for-dynamic-user-interfaces-ak0)
+- [OpenAI announces new o3 models](https://dev.to/ashinno/openai-announces-new-o3-models-1ld8)
+- [Why Are AI Tools Getting Free?](https://dev.to/ridwanade_16/why-are-ai-tools-getting-free-13kc)
+- [Multi combination condition grouping and aggregation #eg93](https://dev.to/esproc_spl/multi-combination-condition-grouping-and-aggregation-eg93-4mnb)
+- [Examining the Elements That Influence Bitcoin&#39;s Price Variations](https://dev.to/ram_fb361bc2f8f94e06772e2/examining-the-elements-that-influence-bitcoins-price-variations-1b6m)
+- [Understanding Idempotence in Software Development](https://dev.to/keploy/understanding-idempotence-in-software-development-49kh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
