@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Community Drawing 🎨](https://dev.to/wilstaley/community-drawing-1fm9)
-- [Note: SSH to EC2 without specifying .pem](https://dev.to/ajitkumar/note-ssh-to-ec2-without-specifying-pem-2mo4)
-- [MVC vs MVVM: A Real-Life iOS Interview Insight](https://dev.to/harismadhavan/mvc-vs-mvvm-a-real-life-ios-interview-insight-1h0d)
-- [Continuously Storing Traffic Data of Multiple GitHub Repositories Using GAS](https://dev.to/route06/continuously-storing-traffic-data-of-multiple-github-repositories-using-gas-4fio)
-- [鸿蒙Next ArkTS语法适配背景概述](https://dev.to/freerain9/hong-meng-next-arktsyu-fa-gua-pei-bei-jing-gai-shu-168b)
+- [🌟 🌐 TOP 90 Resources For The Front-end Development 🚀 🌟](https://dev.to/hanzla-baig/top-90-resources-for-the-front-end-development-3a6i)
+- [How to Get Highest Paying Engineering Jobs in 2024](https://dev.to/lodely/how-to-get-highest-paying-engineering-jobs-in-2024-pmj)
+- [Email Security and Data Protection for Startups: Affordable Solutions](https://dev.to/armen_baghdasaryan_da5798/email-security-and-data-protection-for-startups-affordable-solutions-1g7p)
+- [The Dawn of a New Era: AI in Software Development](https://dev.to/radha_4c842d8e4362a7cdd9c/the-dawn-of-a-new-era-ai-in-software-development-16jf)
+- [Advanced Playwright Features: Beyond the Basics](https://dev.to/aswani25/advanced-playwright-features-beyond-the-basics-43p7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
