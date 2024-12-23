@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GenQE: Redefining Software Testing and Quality Assurance](https://dev.to/anil_csimplifyit_905c/genqe-redefining-software-testing-and-quality-assurance-d0c)
-- [Clojure Is Awesome!!! [PART 4]](https://dev.to/borba/clojure-is-awesome-part-4-7go)
-- [Private LLMs for GitHub Actions](https://dev.to/mcasperson/private-llms-for-github-actions-4nfa)
-- [Solving the Empty Path Issue in Go Lambda Functions with API Gateway HTTP API](https://dev.to/burgossrodrigo/solving-the-empty-path-issue-in-go-lambda-functions-with-api-gateway-http-api-2c5n)
-- [Daily JavaScript Challenge #JS-54: Find Common Elements Across Multiple Arrays](https://dev.to/dpc/daily-javascript-challenge-js-54-find-common-elements-across-multiple-arrays-pp7)
+- [Community Drawing 🎨](https://dev.to/wilstaley/community-drawing-1fm9)
+- [Note: SSH to EC2 without specifying .pem](https://dev.to/ajitkumar/note-ssh-to-ec2-without-specifying-pem-2mo4)
+- [MVC vs MVVM: A Real-Life iOS Interview Insight](https://dev.to/harismadhavan/mvc-vs-mvvm-a-real-life-ios-interview-insight-1h0d)
+- [Continuously Storing Traffic Data of Multiple GitHub Repositories Using GAS](https://dev.to/route06/continuously-storing-traffic-data-of-multiple-github-repositories-using-gas-4fio)
+- [鸿蒙Next ArkTS语法适配背景概述](https://dev.to/freerain9/hong-meng-next-arktsyu-fa-gua-pei-bei-jing-gai-shu-168b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
