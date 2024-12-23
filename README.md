@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI announces new o3 models](https://dev.to/ashinno/openai-announces-new-o3-models-1ld8)
-- [Why Are AI Tools Getting Free?](https://dev.to/ridwanade_16/why-are-ai-tools-getting-free-13kc)
-- [Multi combination condition grouping and aggregation #eg93](https://dev.to/esproc_spl/multi-combination-condition-grouping-and-aggregation-eg93-4mnb)
-- [Examining the Elements That Influence Bitcoin&#39;s Price Variations](https://dev.to/ram_fb361bc2f8f94e06772e2/examining-the-elements-that-influence-bitcoins-price-variations-1b6m)
-- [Understanding Idempotence in Software Development](https://dev.to/keploy/understanding-idempotence-in-software-development-49kh)
+- [Top 10 Tools Similiar to Cursor AI](https://dev.to/apilover/top-10-tools-similiar-to-cursor-ai-4m17)
+- [LeetCode Challenge: 14. Longest Common Prefix - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-14-longest-common-prefix-javascript-solution-4e5f)
+- [The Art of Data Preparation: Building Strong Foundations for ML](https://dev.to/aws-builders/the-art-of-data-preparation-building-strong-foundations-for-ml-5810)
+- [Opentelemetry Collector&#39;ü ayağa kaldırma](https://dev.to/umuterol/opentelemetry-collectoru-ayaga-kaldirma-3h38)
+- [Kubernetes Security Best Practices: Safeguarding Your Cluster and Workloads](https://dev.to/abhay_yt_52a8e72b213be229/kubernetes-security-best-practices-safeguarding-your-cluster-and-workloads-3c49)
 <!-- BLOG-POST-LIST:END -->
 
 ---
