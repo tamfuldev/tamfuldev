@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Django Deployment : Serving Static files with Nginx and Gunicorn](https://dev.to/ajitkumar/django-deployment-serving-static-files-with-nginx-and-gunicorn-5d3o)
-- [Checklist for Selecting the Best Cloud Cost Management and Optimization Platform](https://dev.to/vaish_98/checklist-for-selecting-the-best-cloud-cost-management-and-optimization-platform-2ml1)
-- [Certifications that Matter in IT. Which certifications will boost your career prospects?](https://dev.to/kakacomputer-media/certifications-that-matter-in-it-which-certifications-will-boost-your-career-prospects-5f7j)
-- [AI has killed my coding career](https://dev.to/moth668/ai-has-killed-my-coding-career-348d)
-- [Laravel factory and seeder](https://dev.to/anashussain284/laravel-factory-and-seeder-2b9a)
+- [Code as Doc: Automate by Vercel AI SDK and ZenStack for Free](https://dev.to/zenstack/code-as-doc-automate-by-vercel-ai-sdk-and-zenstack-for-free-1ch4)
+- [Task Tracker CLI](https://dev.to/sulmanweb/task-tracker-cli-4imm)
+- [The AI Revolution in Software Testing: Leading the Way with Genqe](https://dev.to/vaibhavkuls/the-ai-revolution-in-software-testing-leading-the-way-with-genqe-k72)
+- [Linux](https://dev.to/ali_dhayni_bc17b9722bb633/linux-o74)
+- [Mastering Axios: The Ultimate JavaScript Guide to Simplifying API Calls](https://dev.to/jignect_technologies/mastering-axios-the-ultimate-javascript-guide-to-simplifying-api-calls-25io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
