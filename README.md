@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [La dualidad de tu profesión.](https://dev.to/ulisesserranop/la-dualidad-de-tu-profesion-4ahb)
-- [React v19, unboxing! 📦](https://dev.to/rlgino/react-v19-unboxing-df2)
-- [What I learned in Quantum Computing this year &lpar;as a Junior Engineer&rpar;](https://dev.to/taradev/what-i-learned-in-quantum-computing-this-year-as-a-junior-engineer-1i5a)
-- [Spotting Laravel: A Quick Guide for Identifying the Framework at a Glance](https://dev.to/radson2005official/spotting-laravel-a-quick-guide-for-identifying-the-framework-at-a-glance-5h39)
-- [Dynamic string validation using go&#39;s text/template package](https://dev.to/sleeyax/dynamic-string-validation-using-gos-texttemplate-package-2b65)
+- [How to boost your ecom search conversion up to 10% with LLM trick](https://dev.to/allmute/how-to-boost-your-ecom-search-conversion-up-to-10-with-llm-trick-43jj)
+- [鸿蒙Next类属性观测器V2](https://dev.to/freerain9/hong-meng-nextlei-shu-xing-guan-ce-qi-v2-234o)
+- [🙅🏾‍♂️ Flexbox Sem Frescura](https://dev.to/punkdasilva/flexbox-sem-frescura-m7n)
+- [Overcoming Job Market Challenges: Insights from a Successful Career Changer](https://dev.to/michaellarocca/overcoming-job-market-challenges-insights-from-a-successful-career-changer-24gd)
+- [The Dawn of a New Era: AI in Software Development](https://dev.to/anil_csimplifyit_905c/the-dawn-of-a-new-era-ai-in-software-development-5fb8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
