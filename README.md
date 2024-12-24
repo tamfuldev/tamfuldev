@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Merry Christmas!🎄](https://dev.to/best_codes/merry-christmas-36i7)
-- [Stop Hallucinating: APIs are the Missing Link For Reliable Agentic Applications](https://dev.to/agustus_gloop/stop-hallucinating-apis-are-the-missing-link-for-reliable-agentic-applications-3d5h)
-- [Ever wonder what happens when you send a transaction on Ethereum? 👀](https://dev.to/mahima_thacker/ever-wonder-what-happens-when-you-send-a-transaction-on-ethereum-1knj)
-- [The 5 Must-Have Tools I&#39;ll Stick With in 2025](https://dev.to/dev_kiran/the-5-must-have-tools-ill-stick-with-in-2025-54jd)
-- [Week 10 of My #100DaysOfCode Challenge: Mastering JavaScript and Building Projects! 🚀](https://dev.to/toptech5419/week-10-of-my-100daysofcode-challenge-mastering-javascript-and-building-projects-4cc7)
+- [❄️Introducing the HMPL Template Language](https://dev.to/anthonymax/introducing-the-hmpl-template-language-32fm)
+- [Coding Myths Debunked: Things Beginners Should Stop Believing](https://dev.to/arjun98k/coding-myths-debunked-things-beginners-should-stop-believing-2nbo)
+- [CHRISTMAS IS COMING!!](https://dev.to/anshi/christmas-is-coming-5fpd)
+- [2025 Outlook: How AI Agents May Reshape Software Development](https://dev.to/aiagentstore/2025-outlook-how-ai-agents-may-reshape-software-development-3ac0)
+- [Top 5 Google Cloud Certifications for 2025](https://dev.to/skillboosttrainer/top-5-google-cloud-certifications-for-2025-5aa0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
