@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1: Setup Laravel](https://dev.to/ehtesham_ali_abc367f36a5b/day-1-setup-laravel-2j3l)
-- [Mastering Essential Linux Commands: A Complete Guide for Beginners](https://dev.to/s3cloudhub/mastering-essential-linux-commands-a-complete-guide-for-beginners-1d4d)
-- [Docker: Day 1](https://dev.to/subham_nandi/docker-day-1-38a7)
-- [ADB Tips for Appium: How to Locate Android Package and Activity Names Easily](https://dev.to/jignect_technologies/adb-tips-for-appium-how-to-locate-android-package-and-activity-names-easily-5fd6)
-- [Unrestricted File Upload in Laravel: A Guide to Securing Your Application](https://dev.to/pentest_testing_corp/unrestricted-file-upload-in-laravel-a-guide-to-securing-your-application-4763)
+- [Setting Up and Handling Email Aliases in AWS SES](https://dev.to/kkrolikowski/setting-up-and-handling-email-aliases-in-aws-ses-3m5h)
+- [Kubernetes Networking Strategies: A Comparison of Flannel, Calico, and Weave Net](https://dev.to/abhay_yt_52a8e72b213be229/kubernetes-networking-strategies-a-comparison-of-flannel-calico-and-weave-net-3g2b)
+- [Frontend vs Backend: Why Both Are Equally Challenging](https://dev.to/web_dev-usman/frontend-vs-backend-why-both-are-equally-challenging-16b6)
+- [10 ChatGPT Prompts Secure Dream Job](https://dev.to/sathyaanand/10-chatgpt-prompts-secure-dream-job-8io)
+- [Kubernetes Storage Provisioning with Storage Classes: A Complete Guide](https://dev.to/abhay_yt_52a8e72b213be229/kubernetes-storage-provisioning-with-storage-classes-a-complete-guide-51dk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
