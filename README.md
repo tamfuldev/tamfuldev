@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [tnfy.link - One more shortener?](https://dev.to/capcom6/tnfylink-one-more-shortener-3ck7)
-- [AZURE COMPUTE GALLERY AND VIRUAL MACHINE SCALE SET](https://dev.to/oludamilola/azure-compute-gallery-and-virual-machine-scale-set-20l8)
-- [A Simple Approach to SSR with React 19 and esbuild](https://dev.to/willyelm/a-simple-approach-to-ssr-with-react-19-and-esbuild-26e5)
-- [A In-Depth Guide to Grasping Quantum Computing](https://dev.to/nutparent74/a-in-depth-guide-to-grasping-quantum-computing-3pmd)
-- [The OpenAI Whistleblower: Secrets, Cyber Generals, and a Mysterious End](https://dev.to/romanmarshanski/the-openai-whistleblower-secrets-cyber-generals-and-a-mysterious-end-be1)
+- [Building Secure Authentication Microservices with Spring Boot: Part 1 - Getting Started](https://dev.to/kaweeshamr/building-secure-authentication-microservices-with-spring-boot-part-1-getting-started-37n6)
+- [What is Nutanix Kubernetes Management?](https://dev.to/devops_den/what-is-nutanix-kubernetes-management-4234)
+- [My First App: Life on Track - Track Your Life with Ease and Fun!](https://dev.to/kaan_mert_14519f17135f4b8/my-first-app-life-on-track-track-your-life-with-ease-and-fun-40gl)
+- [DolphinScheduler and SeaTunnel VS. AirFlow and NiFi](https://dev.to/chen_debra_3060b21d12b1b0/dolphinscheduler-and-seatunnel-vs-airflow-and-nifi-3i6p)
+- [Tôi sẽ không muốn tạo Table bằng bất cứ cách khác ?](https://dev.to/nddev_18/toi-se-khong-muon-tao-table-bang-bat-cu-cach-khac--12d4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
