@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [5 Hidden Chrome DevTools Features Every Developer Should Know](https://dev.to/aninooo/5-hidden-chrome-devtools-features-every-developer-should-know-1ch8)
-- [Building a Real-Time Chat Application with WebSockets in React](https://dev.to/ayusharpcoder/building-a-real-time-chat-application-with-websockets-in-react-5fg8)
-- [Creating an AWS + NextJS site for the Cloud Resume Challenge](https://dev.to/unfiled4897/creating-a-nextjs-aws-site-for-the-cloud-resume-challenge-5121)
-- [How to Create Rock Paper Scissors Game Using HTML CSS and JavaScript](https://dev.to/sharathchandark/how-to-create-rock-paper-scissors-game-using-html-css-and-javascript-1nol)
-- [Nên sử dụng Promise hay Async/await ?](https://dev.to/nddev_18/nen-su-dung-promise-hay-asyncawait--l0d)
+- [Day 1: Setup Laravel](https://dev.to/ehtesham_ali_abc367f36a5b/day-1-setup-laravel-2j3l)
+- [Mastering Essential Linux Commands: A Complete Guide for Beginners](https://dev.to/s3cloudhub/mastering-essential-linux-commands-a-complete-guide-for-beginners-1d4d)
+- [Docker: Day 1](https://dev.to/subham_nandi/docker-day-1-38a7)
+- [ADB Tips for Appium: How to Locate Android Package and Activity Names Easily](https://dev.to/jignect_technologies/adb-tips-for-appium-how-to-locate-android-package-and-activity-names-easily-5fd6)
+- [Unrestricted File Upload in Laravel: A Guide to Securing Your Application](https://dev.to/pentest_testing_corp/unrestricted-file-upload-in-laravel-a-guide-to-securing-your-application-4763)
 <!-- BLOG-POST-LIST:END -->
 
 ---
