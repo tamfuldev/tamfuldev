@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to boost your ecom search conversion up to 10% with LLM trick](https://dev.to/allmute/how-to-boost-your-ecom-search-conversion-up-to-10-with-llm-trick-43jj)
-- [鸿蒙Next类属性观测器V2](https://dev.to/freerain9/hong-meng-nextlei-shu-xing-guan-ce-qi-v2-234o)
-- [🙅🏾‍♂️ Flexbox Sem Frescura](https://dev.to/punkdasilva/flexbox-sem-frescura-m7n)
-- [Overcoming Job Market Challenges: Insights from a Successful Career Changer](https://dev.to/michaellarocca/overcoming-job-market-challenges-insights-from-a-successful-career-changer-24gd)
-- [The Dawn of a New Era: AI in Software Development](https://dev.to/anil_csimplifyit_905c/the-dawn-of-a-new-era-ai-in-software-development-5fb8)
+- [What is infrastructure as code and how its transforming DevOps](https://dev.to/tennie/what-is-infrastructure-as-code-and-how-its-transforming-devops-12h2)
+- [Bitcoin Halving: Impact on Price and Crypto Market Dynamics](https://dev.to/cryptogem123/bitcoin-halving-impact-on-price-and-crypto-market-dynamics-4712)
+- [Review: The New NVIDIA Jetson Orin Nano](https://dev.to/jeremycmorgan/review-the-new-nvidia-jetson-orin-nano-4ci7)
+- [The Future of AI in Software Testing: Trends to Watch in 2025](https://dev.to/radha_4c842d8e4362a7cdd9c/the-future-of-ai-in-software-testing-trends-to-watch-in-2025-42ah)
+- [Unlocking the Power of TypeScript: Key Concepts for Modern Web Development](https://dev.to/austinwdigital/unlocking-the-power-of-typescript-key-concepts-for-modern-web-development-3ckg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
