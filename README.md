@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Q Developer Tips: No.24 Amazon Q Developer community resources](https://dev.to/aws/amazon-q-developer-tips-no24-amazon-q-developer-community-resources-2knh)
-- [My All Trending Medium Article Please Watch: Part 1](https://dev.to/uicraft_by_pratik/my-all-trending-medium-article-please-watch-part-1-1pgn)
-- [Cloud Christmas Hacks - Prize of 1500$](https://dev.to/styava/cloud-christmas-hacks-prize-of-1500-2g0a)
-- [Understanding SSL and Its Importance](https://dev.to/vipulkumarsviit/understanding-ssl-and-its-importance-3flh)
-- [Using Kubernetes Labels, Annotations, and Taints for Effective Resource Management](https://dev.to/abhay_yt_52a8e72b213be229/using-kubernetes-labels-annotations-and-taints-for-effective-resource-management-30lf)
+- [How to Force Delete a Directory/Folder in Linux](https://dev.to/s3cloudhub/how-to-force-delete-a-directoryfolder-in-linux-2b7f)
+- [Moderniser son Dossier d&#39;Architecture Technique : Guide pratique pour 2024](https://dev.to/onepoint/moderniser-son-dossier-darchitecture-technique-guide-pratique-pour-2024-7d6)
+- [ProcessEnv type in next-runtime-env source code](https://dev.to/thinkthroo/processenv-type-in-next-runtime-env-source-code-19pm)
+- [Next.js: Optimizing Images with the next/image Component.](https://dev.to/remejuan/nextjs-optimizing-images-with-the-nextimage-component-3dd1)
+- [Starting with Unreal Engine](https://dev.to/unmotivated_dev23/starting-with-unreal-engine-4j6e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
