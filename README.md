@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What is infrastructure as code and how its transforming DevOps](https://dev.to/tennie/what-is-infrastructure-as-code-and-how-its-transforming-devops-12h2)
-- [Bitcoin Halving: Impact on Price and Crypto Market Dynamics](https://dev.to/cryptogem123/bitcoin-halving-impact-on-price-and-crypto-market-dynamics-4712)
-- [Review: The New NVIDIA Jetson Orin Nano](https://dev.to/jeremycmorgan/review-the-new-nvidia-jetson-orin-nano-4ci7)
-- [The Future of AI in Software Testing: Trends to Watch in 2025](https://dev.to/radha_4c842d8e4362a7cdd9c/the-future-of-ai-in-software-testing-trends-to-watch-in-2025-42ah)
-- [Unlocking the Power of TypeScript: Key Concepts for Modern Web Development](https://dev.to/austinwdigital/unlocking-the-power-of-typescript-key-concepts-for-modern-web-development-3ckg)
+- [tnfy.link - One more shortener?](https://dev.to/capcom6/tnfylink-one-more-shortener-3ck7)
+- [AZURE COMPUTE GALLERY AND VIRUAL MACHINE SCALE SET](https://dev.to/oludamilola/azure-compute-gallery-and-virual-machine-scale-set-20l8)
+- [A Simple Approach to SSR with React 19 and esbuild](https://dev.to/willyelm/a-simple-approach-to-ssr-with-react-19-and-esbuild-26e5)
+- [A In-Depth Guide to Grasping Quantum Computing](https://dev.to/nutparent74/a-in-depth-guide-to-grasping-quantum-computing-3pmd)
+- [The OpenAI Whistleblower: Secrets, Cyber Generals, and a Mysterious End](https://dev.to/romanmarshanski/the-openai-whistleblower-secrets-cyber-generals-and-a-mysterious-end-be1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
