@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Full Stack Development: Key Technologies, Cloud Platforms, and CI/CD Pipelines for Modern Web Development](https://dev.to/abhay_yt_52a8e72b213be229/mastering-full-stack-development-key-technologies-cloud-platforms-and-cicd-pipelines-for-modern-11i9)
-- [🚀 Golang Goroutines: When Concurrency Meets Comedy! 🎭](https://dev.to/mdhesari/golang-goroutines-when-concurrency-meets-comedy-28d2)
-- [Mastering Web Application Testing with Cypress: Features, Setup, and Best Practices](https://dev.to/hexadecimal_software/mastering-web-application-testing-with-cypress-features-setup-and-best-practices-2f56)
-- [CSS Shorthand Plus](https://dev.to/fscss-ttr/css-shorthand-plus-5794)
-- [I recommend reading this article :&rpar;&rpar;](https://dev.to/empiree/i-recommend-reading-this-article--k9b)
+- [Create Your Own Personalised AWS Learning Experience with Streamlit](https://dev.to/omarsteam/create-your-own-personalised-aws-learning-experience-with-streamlit-8hg)
+- [Healthcare ERP System: Simplify, Optimize, and Thrive](https://dev.to/justinsaran/healthcare-erp-system-simplify-optimize-and-thrive-10f2)
+- [Node.js vs. Deno: Which One Should You Choose?](https://dev.to/emily_smith_86b5b7960eebb/nodejs-vs-deno-which-one-should-you-choose-1eam)
+- [Native LLM Calls vs Agentic Approaches in GenAI](https://dev.to/sudhakar_punniyakotti/native-llm-calls-and-agentic-approaches-in-genai-5ffl)
+- [OpenStack sur Kubernetes en toute simplicité avec Canonical MicroStack et Pulumi …](https://dev.to/deep75/openstack-sur-kubernetes-en-toute-simplicite-avec-canonical-microstack-et-pulumi--1mi6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
