@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up and Handling Email Aliases in AWS SES](https://dev.to/kkrolikowski/setting-up-and-handling-email-aliases-in-aws-ses-3m5h)
-- [Kubernetes Networking Strategies: A Comparison of Flannel, Calico, and Weave Net](https://dev.to/abhay_yt_52a8e72b213be229/kubernetes-networking-strategies-a-comparison-of-flannel-calico-and-weave-net-3g2b)
-- [Frontend vs Backend: Why Both Are Equally Challenging](https://dev.to/web_dev-usman/frontend-vs-backend-why-both-are-equally-challenging-16b6)
-- [10 ChatGPT Prompts Secure Dream Job](https://dev.to/sathyaanand/10-chatgpt-prompts-secure-dream-job-8io)
-- [Kubernetes Storage Provisioning with Storage Classes: A Complete Guide](https://dev.to/abhay_yt_52a8e72b213be229/kubernetes-storage-provisioning-with-storage-classes-a-complete-guide-51dk)
+- [Amazon Q Developer Tips: No.24 Amazon Q Developer community resources](https://dev.to/aws/amazon-q-developer-tips-no24-amazon-q-developer-community-resources-2knh)
+- [My All Trending Medium Article Please Watch: Part 1](https://dev.to/uicraft_by_pratik/my-all-trending-medium-article-please-watch-part-1-1pgn)
+- [Cloud Christmas Hacks - Prize of 1500$](https://dev.to/styava/cloud-christmas-hacks-prize-of-1500-2g0a)
+- [Understanding SSL and Its Importance](https://dev.to/vipulkumarsviit/understanding-ssl-and-its-importance-3flh)
+- [Using Kubernetes Labels, Annotations, and Taints for Effective Resource Management](https://dev.to/abhay_yt_52a8e72b213be229/using-kubernetes-labels-annotations-and-taints-for-effective-resource-management-30lf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
