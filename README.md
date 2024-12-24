@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Secure Authentication Microservices with Spring Boot: Part 1 - Getting Started](https://dev.to/kaweeshamr/building-secure-authentication-microservices-with-spring-boot-part-1-getting-started-37n6)
-- [What is Nutanix Kubernetes Management?](https://dev.to/devops_den/what-is-nutanix-kubernetes-management-4234)
-- [My First App: Life on Track - Track Your Life with Ease and Fun!](https://dev.to/kaan_mert_14519f17135f4b8/my-first-app-life-on-track-track-your-life-with-ease-and-fun-40gl)
-- [DolphinScheduler and SeaTunnel VS. AirFlow and NiFi](https://dev.to/chen_debra_3060b21d12b1b0/dolphinscheduler-and-seatunnel-vs-airflow-and-nifi-3i6p)
-- [Tôi sẽ không muốn tạo Table bằng bất cứ cách khác ?](https://dev.to/nddev_18/toi-se-khong-muon-tao-table-bang-bat-cu-cach-khac--12d4)
+- [5 Hidden Chrome DevTools Features Every Developer Should Know](https://dev.to/aninooo/5-hidden-chrome-devtools-features-every-developer-should-know-1ch8)
+- [Building a Real-Time Chat Application with WebSockets in React](https://dev.to/ayusharpcoder/building-a-real-time-chat-application-with-websockets-in-react-5fg8)
+- [Creating an AWS + NextJS site for the Cloud Resume Challenge](https://dev.to/unfiled4897/creating-a-nextjs-aws-site-for-the-cloud-resume-challenge-5121)
+- [How to Create Rock Paper Scissors Game Using HTML CSS and JavaScript](https://dev.to/sharathchandark/how-to-create-rock-paper-scissors-game-using-html-css-and-javascript-1nol)
+- [Nên sử dụng Promise hay Async/await ?](https://dev.to/nddev_18/nen-su-dung-promise-hay-asyncawait--l0d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
