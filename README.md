@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter vs React Native: Which Framework is Better for Mobile Apps?](https://dev.to/web_dev-usman/flutter-vs-react-native-which-framework-is-better-for-mobile-apps-4pk9)
-- [How to Port BOA to the FET-MX9352-C Platform on Linux 6.1.36?](https://dev.to/ronnie_r_152dc2151d9449c6/how-to-port-boa-to-the-fet-mx9352-c-platform-on-linux-6136-o2n)
-- [6 Essential Dev Tools to Boost Your Workflow](https://dev.to/aninooo/6-essential-dev-tools-to-boost-your-workflow-538b)
-- [useEffect must not return anything besides a function, which is used for clean-up.](https://dev.to/clara1123/useeffect-must-not-return-anything-besides-a-function-which-is-used-for-clean-up-46ii)
-- [Learn how to create a masonry grid layout with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/learn-how-to-create-a-masonry-grid-layout-with-tailwind-css-and-javascript-1ggc)
+- [Fast Track to Mock Data: A Developer&#39;s 2-Minute Guide](https://dev.to/theodoresummer/fast-track-to-mock-data-a-developers-2-minute-guide-52a7)
+- [Generate Mock Data in 2 Minutes: A Quick Guide to Data Mocking🚀](https://dev.to/auden/generate-mock-data-in-2-minutes-a-quick-guide-to-data-mocking-2bob)
+- [Winter Solstice: A Celebration of Science and Culture 🌌](https://dev.to/dev2801/winter-solstice-a-celebration-of-science-and-culture-2cg5)
+- [Step-by-Step Guide to User Authentication with Django, Djoser, and JWT: Part I](https://dev.to/folafolu/step-by-step-guide-to-user-authentication-with-django-djoser-and-jwt-part-i-3d8g)
+- [Handling Location Permissions in React Native](https://dev.to/amitkumar13/handling-location-permissions-in-react-native-4ijc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
