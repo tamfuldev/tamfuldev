@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [HarmonyOS Next - Mastering Log Knowledge in One Article](https://dev.to/qingkouwei/harmonyos-next-mastering-log-knowledge-in-one-article-573b)
-- [Boost Unit Test Efficiency Using Ai-Powered Extensions For Vs Code](https://dev.to/keploy/boost-unit-test-efficiency-using-ai-powered-extensions-for-vs-code-434h)
-- [How GenQE is Revolutionizing Software Testing](https://dev.to/vaibhavkuls/how-genqe-is-revolutionizing-software-testing-jfh)
-- [Behavioural Analysis models for a project](https://dev.to/indrajith_snair_33b584b4/behavioural-analysis-models-for-a-project-2ono)
-- [TS1021: An Index Signature Must Have a Type Annotation](https://dev.to/rivkaavraham/ts1021-an-index-signature-must-have-a-type-annotation-37d8)
+- [Figma To Code using CodeParrot AI](https://dev.to/codeparrot/figma-to-code-using-codeparrot-ai-3i8l)
+- [Adding Authentication to an Express.js Application with JWT: A Beginner-Friendly Guide](https://dev.to/mohinsheikh/adding-authentication-to-an-expressjs-application-with-jwt-a-beginner-friendly-guide-1733)
+- [Connecting an Express.js Application to MongoDB and PostgreSQL: A Step-by-Step Guide for Beginners](https://dev.to/mohinsheikh/connecting-an-expressjs-application-to-mongodb-and-postgresql-a-step-by-step-guide-for-beginners-2ic1)
+- [Learning Git and GitHub: The 10 Most Common Commands Explained 🌟](https://dev.to/moibra/learning-git-and-github-the-10-most-common-commands-explained-3m6n)
+- [Organizing Workflows Using Camunda Web Modeler: Best Practices for Templates, Reusable Components, and RBAC](https://dev.to/devaaai/organizing-workflows-using-camunda-web-modeler-best-practices-for-templates-reusable-components-4akm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
