@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Comprehensive Guide to JSDoc 📚](https://dev.to/alisamir/a-comprehensive-guide-to-jsdoc-3meb)
-- [Bit Manipulation In Problem Solving](https://dev.to/nadeemrashid__/bit-manipulation-in-problem-solving-4k2g)
-- [🚀 Mastering Concurrency in Go: A Deep Dive into sync.WaitGroup and sync.Cond](https://dev.to/architagr/mastering-concurrency-in-go-a-deep-dive-into-syncwaitgroup-and-synccond-4ode)
-- [Zero, One, Infinity Principle in Software Development](https://dev.to/kasir-barati/zero-one-infinity-principle-in-software-development-39p0)
-- [CSS Art: December - Snowflake Animation](https://dev.to/supremeakashdeveloper/css-art-december-snowflake-animation-22hc)
+- [SILENCE is Costing You More Than You Think!](https://dev.to/karell_stemarie_ce42bf9c/silence-is-costing-you-more-than-you-think-egg)
+- [New Post here!🍻](https://dev.to/digitaldrreamer/new-post-here-268j)
+- [A short guide to Async Components in Svelte 5](https://dev.to/digitaldrreamer/a-short-guide-to-async-components-in-svelte-5-57l4)
+- [Use generators for magic in React](https://dev.to/ashishk1331/use-generators-for-magic-in-react-2jlp)
+- [I Created API Docs for 5 Open-source Projects Within 10 Minutes](https://dev.to/lincemathew/i-created-api-docs-for-5-open-source-projects-within-10-minutes-4fg5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
