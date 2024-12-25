@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What are the best practices for integrating Playwright with Jenkins](https://dev.to/hexa-home/what-are-the-best-practices-for-integrating-playwright-with-jenkins-1377)
-- [How can companies create a culture that encourages developers to ask for help?](https://dev.to/hexa-home/how-can-companies-create-a-culture-that-encourages-developers-to-ask-for-help-2h34)
-- [[Boost]](https://dev.to/maradwan/-54pg)
-- [What we do with the box-shadows](https://dev.to/anamartins/what-we-do-with-the-box-shadows-3d39)
-- [Understanding Generative AI: A Beginner&#39;s Guide](https://dev.to/bitontree/understanding-generative-ai-a-beginners-guide-59gd)
+- [Conditional Rendering: Best Practices and Pitfalls to Avoid](https://dev.to/noureldin2303/conditional-rendering-best-practices-and-pitfalls-to-avoid-3eae)
+- [Mastering Quick Sort: A Fundamental Algorithm in Computer Science](https://dev.to/frorning/mastering-quick-sort-a-fundamental-algorithm-in-computer-science-15bi)
+- [Deploying Your Node.js Backend for Free on Vercel](https://dev.to/joodi/deploying-your-nodejs-backend-for-free-on-vercel-3407)
+- [73/365 | ¥10M Job Challenge - Cognitive Load](https://dev.to/kameken100/73365-y10m-job-challenge-cognitive-load-2h9i)
+- [🚀 Your Daily Crypto Job Digest For 25 December!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-25-december-5efo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
