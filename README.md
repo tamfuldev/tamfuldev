@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Efficiently Solving Two Sum II - Input Array Is Sorted](https://dev.to/abhivyaktii/efficiently-solving-two-sum-ii-input-array-is-sorted-323k)
-- [3 AM on Christmas: A Cloud Engineer&#39;s Holiday Survival Guide🎄](https://dev.to/aws-builders/3-am-on-christmas-a-cloud-engineers-holiday-survival-guide-3od7)
-- [Unlocking AI-Powered Conversations: Building a Retrieval-Augmented Generation &lpar;RAG&rpar; Chatbot](https://dev.to/awwdudee/unlocking-ai-powered-conversations-building-a-retrieval-augmented-generation-rag-chatbot-3hpa)
-- [Use cases of Kafka](https://dev.to/sudo_anuj/use-cases-of-kafka-297m)
-- [鸿蒙Next状态管理V2-Local装饰器总结](https://dev.to/freerain9/hong-meng-nextzhuang-tai-guan-li-v2-localzhuang-shi-qi-zong-jie-4nn)
+- [Convex &amp; Kinde](https://dev.to/sholajegede/convex-kinde-2pe1)
+- [Forget Everything You Thought You Knew About AI Video: Veo 2 is Here 🚀](https://dev.to/sathyaanand/forget-everything-you-thought-you-knew-about-ai-video-veo-2-is-here-1989)
+- [Land Surface Temperature Trends: Ahmedabad vs. Delhi &lpar;2013–2023&rpar;](https://dev.to/dishapatel363/land-surface-temperature-trends-ahmedabad-vs-delhi-2013-2023-40o7)
+- [💡 Software Testing: The Foundation of Seamless Digital Experiences 💡](https://dev.to/arun_pal_3ce740a137cf15ad/software-testing-the-foundation-of-seamless-digital-experiences-4n0b)
+- [Data ingestion using AWS Services, Part 2](https://dev.to/devoteng1/data-ingestion-using-aws-services-part-2-2pg7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
