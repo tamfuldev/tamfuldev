@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Impact of Quantum Computing on Cybersecurity](https://dev.to/techyboo009/the-impact-of-quantum-computing-on-cybersecurity-3ecn)
-- [Liman MYS - Domain Eklentisi | Ağaç Yapısı Üzerinden Belirli Organizasyona Yetki Verme](https://dev.to/aciklab/liman-mys-domain-eklentisi-agac-yapisi-uzerinden-belirli-organizasyona-yetki-verme-4d9p)
-- [Info.plist and it&#39;s importance.](https://dev.to/surhidamatya/infoplist-and-its-importance-425h)
-- [Privacy in the Digital Age: How to Stay Secure Online](https://dev.to/techyboo009/privacy-in-the-digital-age-how-to-stay-secure-online-2iph)
-- [Day 2 : Host Static App on GitHub Pages](https://dev.to/ehtesham_ali_abc367f36a5b/day-2-host-static-app-on-github-pages-2f0m)
+- [HarmonyOS Next - Mastering Log Knowledge in One Article](https://dev.to/qingkouwei/harmonyos-next-mastering-log-knowledge-in-one-article-573b)
+- [Boost Unit Test Efficiency Using Ai-Powered Extensions For Vs Code](https://dev.to/keploy/boost-unit-test-efficiency-using-ai-powered-extensions-for-vs-code-434h)
+- [How GenQE is Revolutionizing Software Testing](https://dev.to/vaibhavkuls/how-genqe-is-revolutionizing-software-testing-jfh)
+- [Behavioural Analysis models for a project](https://dev.to/indrajith_snair_33b584b4/behavioural-analysis-models-for-a-project-2ono)
+- [TS1021: An Index Signature Must Have a Type Annotation](https://dev.to/rivkaavraham/ts1021-an-index-signature-must-have-a-type-annotation-37d8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
