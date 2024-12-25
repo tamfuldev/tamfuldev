@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Test Dev.to](https://dev.to/jmr85/test-devto-2oid)
-- [HTTP: The Protocol Every Web Developer Must Master](https://dev.to/daniel_oladepo_0c5ac110f2/http-the-protocol-every-web-developer-must-master-374p)
-- [Ansible: Installation and Configuration Guide for Beginners](https://dev.to/harshm03/ansible-installation-and-configuration-guide-for-beginners-32g6)
-- [CYPRESS-AJV-SCHEMA-VALIDATOR VIDEO TUTORIAL: Mastering API Schema Testing in Cypress](https://dev.to/sebastianclavijo/cypress-ajv-schema-validator-video-tutorial-mastering-api-schema-testing-in-cypress-78)
-- [Difference between &lpar; &rpar;=&gt;{ } and &lpar; &rpar;=&gt;&lpar; &rpar; aero function in JavaScript &lpar;JS&rpar;](https://dev.to/atifwattoo/difference-between-and-aero-function-in-javascript-js-llb)
+- [Generator Concurrency Pattern in Go: A Comprehensive Guide](https://dev.to/souvikinator/generator-concurrency-pattern-in-go-a-comprehensive-guide-6om)
+- [CREATING EC2 INSTANCE ON AWS AND INSTALLING IIS SERVER.](https://dev.to/olaniyi_akinkunmi_9c3038f/creating-ec2-instance-on-aws-and-installing-iis-server-23bn)
+- [why java does not support multiple inheritance?](https://dev.to/hema_latha/why-java-does-not-support-multiple-inheritance-9lo)
+- [Why Developers Hesitate to Ask for Help at Work?](https://dev.to/respect17/why-developers-hesitate-to-ask-for-help-at-work-570j)
+- [Hierarchical inheritance in Java](https://dev.to/hema_latha/hierarchical-inheritance-in-java-11f9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
