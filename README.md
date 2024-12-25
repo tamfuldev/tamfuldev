@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Conditional Rendering: Best Practices and Pitfalls to Avoid](https://dev.to/noureldin2303/conditional-rendering-best-practices-and-pitfalls-to-avoid-3eae)
-- [Mastering Quick Sort: A Fundamental Algorithm in Computer Science](https://dev.to/frorning/mastering-quick-sort-a-fundamental-algorithm-in-computer-science-15bi)
-- [Deploying Your Node.js Backend for Free on Vercel](https://dev.to/joodi/deploying-your-nodejs-backend-for-free-on-vercel-3407)
-- [73/365 | ¥10M Job Challenge - Cognitive Load](https://dev.to/kameken100/73365-y10m-job-challenge-cognitive-load-2h9i)
-- [🚀 Your Daily Crypto Job Digest For 25 December!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-25-december-5efo)
+- [От слоистой архитектуры к DDD. Мой опыт миграции и распила монолита](https://dev.to/dmkjfs/ot-sloistoi-arkhitiektury-k-ddd-moi-opyt-mighratsii-i-raspila-monolita-44j3)
+- [Interview Questions on AWS Networking: VPC, Subnets, and Security Groups](https://dev.to/imsushant12/interview-questions-on-aws-networking-vpc-subnets-and-security-groups-40g7)
+- [Setting Up Drizzle &amp; Postgres with tRPC and Next.js App](https://dev.to/itsrakesh/setting-up-drizzle-postgres-with-trpc-and-nextjs-app-2o6m)
+- [PHP and Go as a Tech Stack.](https://dev.to/ssvikash_20/php-and-go-as-a-tech-stack-31i5)
+- [Fampay Solution#1](https://dev.to/sachin_xp/fampay-solution1-2m7g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
