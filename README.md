@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Generator Concurrency Pattern in Go: A Comprehensive Guide](https://dev.to/souvikinator/generator-concurrency-pattern-in-go-a-comprehensive-guide-6om)
-- [CREATING EC2 INSTANCE ON AWS AND INSTALLING IIS SERVER.](https://dev.to/olaniyi_akinkunmi_9c3038f/creating-ec2-instance-on-aws-and-installing-iis-server-23bn)
-- [why java does not support multiple inheritance?](https://dev.to/hema_latha/why-java-does-not-support-multiple-inheritance-9lo)
-- [Why Developers Hesitate to Ask for Help at Work?](https://dev.to/respect17/why-developers-hesitate-to-ask-for-help-at-work-570j)
-- [Hierarchical inheritance in Java](https://dev.to/hema_latha/hierarchical-inheritance-in-java-11f9)
+- [Efficiently Solving Two Sum II - Input Array Is Sorted](https://dev.to/abhivyaktii/efficiently-solving-two-sum-ii-input-array-is-sorted-323k)
+- [3 AM on Christmas: A Cloud Engineer&#39;s Holiday Survival Guide🎄](https://dev.to/aws-builders/3-am-on-christmas-a-cloud-engineers-holiday-survival-guide-3od7)
+- [Unlocking AI-Powered Conversations: Building a Retrieval-Augmented Generation &lpar;RAG&rpar; Chatbot](https://dev.to/awwdudee/unlocking-ai-powered-conversations-building-a-retrieval-augmented-generation-rag-chatbot-3hpa)
+- [Use cases of Kafka](https://dev.to/sudo_anuj/use-cases-of-kafka-297m)
+- [鸿蒙Next状态管理V2-Local装饰器总结](https://dev.to/freerain9/hong-meng-nextzhuang-tai-guan-li-v2-localzhuang-shi-qi-zong-jie-4nn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
