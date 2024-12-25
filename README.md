@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Fast Track to Mock Data: A Developer&#39;s 2-Minute Guide](https://dev.to/theodoresummer/fast-track-to-mock-data-a-developers-2-minute-guide-52a7)
-- [Generate Mock Data in 2 Minutes: A Quick Guide to Data Mocking🚀](https://dev.to/auden/generate-mock-data-in-2-minutes-a-quick-guide-to-data-mocking-2bob)
-- [Winter Solstice: A Celebration of Science and Culture 🌌](https://dev.to/dev2801/winter-solstice-a-celebration-of-science-and-culture-2cg5)
-- [Step-by-Step Guide to User Authentication with Django, Djoser, and JWT: Part I](https://dev.to/folafolu/step-by-step-guide-to-user-authentication-with-django-djoser-and-jwt-part-i-3d8g)
-- [Handling Location Permissions in React Native](https://dev.to/amitkumar13/handling-location-permissions-in-react-native-4ijc)
+- [A Comprehensive Guide to JSDoc 📚](https://dev.to/alisamir/a-comprehensive-guide-to-jsdoc-3meb)
+- [Bit Manipulation In Problem Solving](https://dev.to/nadeemrashid__/bit-manipulation-in-problem-solving-4k2g)
+- [🚀 Mastering Concurrency in Go: A Deep Dive into sync.WaitGroup and sync.Cond](https://dev.to/architagr/mastering-concurrency-in-go-a-deep-dive-into-syncwaitgroup-and-synccond-4ode)
+- [Zero, One, Infinity Principle in Software Development](https://dev.to/kasir-barati/zero-one-infinity-principle-in-software-development-39p0)
+- [CSS Art: December - Snowflake Animation](https://dev.to/supremeakashdeveloper/css-art-december-snowflake-animation-22hc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
