@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Key Elements of Digital Promotion](https://dev.to/letterhub45/exploring-the-key-elements-of-digital-promotion-23k7)
-- [Building Multi-Tenant SaaS Applications with Micro-SaaS Architecture](https://dev.to/virajlakshitha/building-multi-tenant-saas-applications-with-micro-saas-architecture-pm1)
-- [Optimizing Logistics: Strategies for Efficient Global Oil Transportation](https://dev.to/valorfzc/optimizing-logistics-strategies-for-efficient-global-oil-transportation-53ha)
-- [Convex &amp; Kinde](https://dev.to/sholajegede/convex-kinde-2pe1)
-- [Forget Everything You Thought You Knew About AI Video: Veo 2 is Here 🚀](https://dev.to/sathyaanand/forget-everything-you-thought-you-knew-about-ai-video-veo-2-is-here-1989)
+- [Welcome Thread - v308](https://dev.to/devteam/welcome-thread-v308-12hc)
+- [Creating a Dog Care Calculator Using JavaScript](https://dev.to/learninggs/creating-a-dog-care-calculator-using-javascript-2oij)
+- [TS1019: An index signature parameter cannot have a question mark.](https://dev.to/lior_amsalem_3879371237f6/ts1019-an-index-signature-parameter-cannot-have-a-question-mark-4ca7)
+- [Becoming an AWS Community Builder](https://dev.to/aws-builders/becoming-an-aws-community-builder-3je3)
+- [Exploring Quantum Computing for Future-Proof Data Encryption and Complex Problem-Solving: Expert Guidance from Abhijit Joshi](https://dev.to/mariliatirachi62/exploring-quantum-computing-for-future-proof-data-encryption-and-complex-problem-solving-expert-6a7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
