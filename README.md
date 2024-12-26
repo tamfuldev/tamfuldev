@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Best of 2024 from Rails Designer &lpar;number 1 won&#39;t surprise you 🤪&rpar;](https://dev.to/railsdesigner/the-best-of-2024-from-rails-designer-number-1-wont-surprise-you--30f5)
-- [How Toolzr Was Built](https://dev.to/toolzr/how-toolzr-was-built-2fpd)
-- [Task Runners for Projects](https://dev.to/rudolfolah/task-runners-for-projects-57gi)
-- [Why is MySQL Database Administration Vital for Reliable and Efficient Data Management?](https://dev.to/wiseguide/why-is-mysql-database-administration-vital-for-reliable-and-efficient-data-management-710)
-- [Inteligência artificial](https://dev.to/bruninhodev/inteligencia-artificial-3c8i)
+- [Tell Don&#39;t Ask principle explained](https://dev.to/thibaultchatelain/tell-dont-ask-principle-explained-1gbf)
+- [Como Instalar o n8n com Suporte a Pastas para Workflows - Guia Completo de Instalação Local](https://dev.to/ronieremarques/como-instalar-o-n8n-com-suporte-a-pastas-para-workflows-guia-completo-de-instalacao-local-2o1m)
+- [494. Target Sum](https://dev.to/mdarifulhaque/494-target-sum-1p2i)
+- [Python While Loop Examples](https://dev.to/poornima_ravi/python-while-loop-examples-5aad)
+- [Is ChatGPT Down? A Temporary Hiccup or Something More?](https://dev.to/wahidanon/is-chatgpt-down-a-temporary-hiccup-or-something-more-3bh8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
