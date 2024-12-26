@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [The Shift Toward Autonomous Testing: Revolutionizing Quality Assurance with Tools Like GenQE.ai](https://dev.to/anil_csimplifyit_905c/the-shift-toward-autonomous-testing-revolutionizing-quality-assurance-with-tools-like-genqeai-5hjk)
+- [515. Find Largest Value in Each Tree Row](https://dev.to/mdarifulhaque/515-find-largest-value-in-each-tree-row-1cbp)
+- [How to Set Up n8n on DigitalOcean with Docker and Caddy](https://dev.to/nasrulhazim/how-to-set-up-n8n-on-digitalocean-with-docker-and-caddy-1doo)
+- [鸿蒙Next状态管理V2 - @Param装饰器总结](https://dev.to/freerain9/hong-meng-nextzhuang-tai-guan-li-v2-paramzhuang-shi-qi-zong-jie-201a)
 - [Advent of Code 2024 - Day 23: LAN Party](https://dev.to/grantdotdev/advent-of-code-2024-day-23-lan-party-99l)
-- [Primeros pasos en el mundo del Machine Learning con Amazon SageMaker](https://dev.to/briansuarezsantiago/primeros-pasos-en-el-mundo-del-machine-learning-con-amazon-sagemaker-1im)
-- [SQL 101 | Chapter 1: Understanding SQL and Databases](https://dev.to/yujin/sql-101-chapter-1-understanding-sql-and-databases-2h8j)
-- [Coding challenge: Design and Implement an Advanced Text Search System](https://dev.to/radu_marias_eed98d2e201f6/coding-challenge-design-and-implement-an-advanced-text-search-system-326l)
-- [ChatGPT: Seu Pato de Borracha Turbinado ou Apenas uma Colinha?](https://dev.to/felcarv01/chatgpt-seu-pato-de-borracha-turbinado-ou-apenas-uma-colinha-783)
 <!-- BLOG-POST-LIST:END -->
 
 ---
