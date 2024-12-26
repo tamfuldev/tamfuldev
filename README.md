@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Linux and Not Windows?](https://dev.to/trixsec/why-linux-and-not-windows-4en5)
-- [Tailwind CSS and WordPress](https://dev.to/oliviarizona88/tailwind-css-and-wordpress-10f0)
-- [TS1022: An Index Signature Parameter Must Have a Type Annotation](https://dev.to/ahmad_tibibi/ts1022-an-index-signature-parameter-must-have-a-type-annotation-423k)
-- [Greating Card](https://dev.to/aditya_kumararya_973bb83/greating-card-2hej)
-- [Understanding JavaScript Data Types](https://dev.to/thedevricha/understanding-javascript-data-types-3nii)
+- [Building a GitHub Activity CLI - A Ruby Journey](https://dev.to/sulmanweb/building-a-github-activity-cli-a-ruby-journey-1eo7)
+- [Sharding vs Partitioning in Databases](https://dev.to/vipulkumarsviit/sharding-vs-partitioning-in-databases-38p1)
+- [The Art of Game Testing](https://dev.to/its_amandha/the-art-of-game-testing-2ii5)
+- [How to Fetch Relevant and Reliable News Using Bing News Search API](https://dev.to/sachinkumar123/how-to-fetch-relevant-and-reliable-news-using-bing-news-search-api-1fjd)
+- [A Deep-Dive Comparison for No-Code App Development &lpar;2025&rpar;](https://dev.to/momen_hq/a-deep-dive-comparison-for-no-code-app-development-2025-4p7f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
