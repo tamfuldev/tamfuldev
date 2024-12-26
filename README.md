@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [5 Instagantt Alternatives That Can Do Better](https://dev.to/thomasy0ung/5-instagantt-alternatives-that-can-do-better-2g3b)
-- [This post by Engin Arslan &lpar;Heuristica&rpar; is a must-read for anyone thinking about launching a SaaS side project! It offers a clear breakdown of costs and real-world insights into what it takes to build and run a profitable side hustle. Check it out!](https://dev.to/austinwdigital/this-post-by-engin-arslan-heuristica-is-a-must-read-for-anyone-thinking-about-launching-a-saas-18el)
-- [Twitter Auth 2.O](https://dev.to/trixtec/twitter-auth-2o-d1j)
-- [Creating a Basic Custom Promise in JavaScript: Step-by-Step Guide🌟](https://dev.to/abhivyaktii/creating-a-basic-custom-promise-in-javascript-step-by-step-guide-4e4m)
-- [The Complete Guide to Parameter-Efficient Fine-Tuning: Revolutionizing AI Model Adaptation](https://dev.to/akilsurya/the-complete-guide-to-parameter-efficient-fine-tuning-revolutionizing-ai-model-adaptation-3p3o)
+- [The Best of 2024 from Rails Designer &lpar;number 1 won&#39;t surprise you 🤪&rpar;](https://dev.to/railsdesigner/the-best-of-2024-from-rails-designer-number-1-wont-surprise-you--30f5)
+- [How Toolzr Was Built](https://dev.to/toolzr/how-toolzr-was-built-2fpd)
+- [Task Runners for Projects](https://dev.to/rudolfolah/task-runners-for-projects-57gi)
+- [Why is MySQL Database Administration Vital for Reliable and Efficient Data Management?](https://dev.to/wiseguide/why-is-mysql-database-administration-vital-for-reliable-and-efficient-data-management-710)
+- [Inteligência artificial](https://dev.to/bruninhodev/inteligencia-artificial-3c8i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
