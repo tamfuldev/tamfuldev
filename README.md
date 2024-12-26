@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Js in bits - 2&lpar;semicolon ;&rpar;](https://dev.to/avinashd10/js-in-bits-2semicolon-536a)
-- [Cache your function computation in React Server Components](https://dev.to/thinkthroo/cache-your-function-computation-in-react-server-components-3d01)
-- [Advanced Selenium Tips: Streamlining Your Test Automation for Success](https://dev.to/jignect_technologies/advanced-selenium-tips-streamlining-your-test-automation-for-success-16jh)
-- [Ensuring Smooth User Experiences: A Comprehensive Guide to Browser Compatibility](https://dev.to/timvandort7291/ensuring-smooth-user-experiences-a-comprehensive-guide-to-browser-compatibility-1bmp)
-- [OOP &lpar;Object-Oriented Programming&rpar;](https://dev.to/pavithra_saravanan_2/oop-object-oriented-programming-4jd)
+- [Preventing Clickjacking in Laravel Applications](https://dev.to/pentest_testing_corp/preventing-clickjacking-in-laravel-applications-2hfe)
+- [Understand curl more in Just 10 Minutes！🔥🔥](https://dev.to/fallon_jimmy/understand-curl-more-in-just-10-minutes-32om)
+- [Js in bits - 4&lpar;variables&rpar;](https://dev.to/avinashd10/js-in-bits-4variables-1d14)
+- [5 least known STL utilities in C++](https://dev.to/pikotutorial/5-least-known-stl-utilities-in-c-46n9)
+- [How PHP Handles Error and Exception Handling: A Comprehensive Guide](https://dev.to/abhay_yt_52a8e72b213be229/how-php-handles-error-and-exception-handling-a-comprehensive-guide-3c5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
