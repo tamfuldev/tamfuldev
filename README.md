@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Js in bits - 9.2&lpar;Comparisons&rpar;](https://dev.to/avinashd10/js-in-bits-92comparisons-25od)
-- [Copy changed files to another branch in Git](https://dev.to/t-kikuc/copy-changed-files-to-another-branch-in-git-5dpc)
-- [Winter Solstice Celebrations - Interactive Educational Experience](https://dev.to/prashanth123/winter-solstice-celebrations-interactive-educational-experience-4dba)
-- [The Evolution of Frontend Development: A Shift from Component Libraries to AI-Driven Custom Solutions](https://dev.to/muzaffar640/the-evolution-of-frontend-development-a-shift-from-component-libraries-to-ai-driven-custom-34me)
-- [AWS Security - Secure Users](https://dev.to/josephvpeter7/aws-security-secure-users-49b)
+- [Major Release: Total Overhaul - JavaFX Renaissance](https://dev.to/maksik997/major-release-total-overhaul-javafx-renaissance-51m)
+- [Using Vim Navigation &lpar;h, j, k, l&rpar; as Arrow Keys on Mac with Karabiner-Elements](https://dev.to/lico/using-vim-navigation-h-j-k-l-as-arrow-keys-on-mac-with-karabiner-elements-ahj)
+- [Los mejores portales de empleo para conseguir trabajo en tecnología](https://dev.to/lurodriguez/los-mejores-portales-de-empleo-para-conseguir-trabajo-en-tecnologia-48p4)
+- [Managing countries and currencies with JS](https://dev.to/headlesstech/managing-countries-and-currencies-with-js-36ff)
+- [Data Loss Risks During Cloud Migration](https://dev.to/enna/data-loss-risks-during-cloud-migration-54ik)
 <!-- BLOG-POST-LIST:END -->
 
 ---
