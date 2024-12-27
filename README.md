@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Track Amazon Prices in Real-Time and Solve CAPTCHAs Seamlessly with Bright Data](https://dev.to/sholajegede/track-amazon-prices-in-real-time-and-solve-captchas-seamlessly-with-bright-data-3533)
-- [DLL injection of managed code into native process](https://dev.to/gervantofryvia/dll-injection-of-managed-code-into-native-process-3jo6)
-- [Exploring Cupertino and Material Updates in Flutter 3.27.0](https://dev.to/canopassoftware/exploring-cupertino-and-material-updates-in-flutter-3270-2433)
-- [2025](https://dev.to/mohsinkhan_747/2025-4749)
-- [AWS Regions and Availability Zones: A Deep Dive into AWS Global Infrastructure](https://dev.to/abhay_yt_52a8e72b213be229/aws-regions-and-availability-zones-a-deep-dive-into-aws-global-infrastructure-33b4)
+- [Reporting with Playwright: Make Your Test Results Shine!](https://dev.to/jignect_technologies/reporting-with-playwright-make-your-test-results-shine-357p)
+- [「Mac畅玩鸿蒙与硬件5」鸿蒙开发环境配置篇5 - 熟悉DevEco Studio界面](https://dev.to/soraluna/macchang-wan-hong-meng-yu-ying-jian-5-hong-meng-kai-fa-huan-jing-pei-zhi-pian-5-shou-xi-deveco-studiojie-mian-3g66)
+- [Docker: Day 2](https://dev.to/subham_nandi/docker-day-2-5fio)
+- [「Mac畅玩鸿蒙与硬件4」鸿蒙开发环境配置篇4 - DevEco Studio高效使用技巧](https://dev.to/soraluna/macchang-wan-hong-meng-yu-ying-jian-4-hong-meng-kai-fa-huan-jing-pei-zhi-pian-4-deveco-studiogao-xiao-shi-yong-ji-qiao-1h9f)
+- [「Mac畅玩鸿蒙与硬件3」鸿蒙开发环境配置篇3 - DevEco Studio插件安装与配置](https://dev.to/soraluna/macchang-wan-hong-meng-yu-ying-jian-3-hong-meng-kai-fa-huan-jing-pei-zhi-pian-3-deveco-studiocha-jian-an-zhuang-yu-pei-zhi-4h85)
 <!-- BLOG-POST-LIST:END -->
 
 ---
