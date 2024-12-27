@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Setup GraphQL Mock Server](https://dev.to/akdevcraft/setup-graphql-mock-server-32fc)
-- [Real-Time Web Application demo with WebSocket - Backend](https://dev.to/tom-takeru/real-time-web-application-demo-with-websocket-backend-1a1n)
-- [Startup Growth, AI, and Leadership: My Chat with Anna 🎙️🚀](https://dev.to/spaquet/startup-growth-ai-and-leadership-my-chat-with-anna-ikc)
-- [AI-Powered Test Automation: The Future of Software Testing](https://dev.to/anil_csimplifyit_905c/ai-powered-test-automation-the-future-of-software-testing-2em0)
-- [My New Year Resolutions](https://dev.to/nicholassynovic/my-new-year-resolutions-5578)
+- [Mastering Linux: Your Step-by-Step Roadmap to Becoming a Linux Pro](https://dev.to/wantonaccountant/mastering-linux-your-step-by-step-roadmap-to-becoming-a-linux-pro-3fbm)
+- [Mastering Linux Administration for a Stable and Secure IT Environment](https://dev.to/wiseguide/mastering-linux-administration-for-a-stable-and-secure-it-environment-3obb)
+- [Unlocking the Power of Microsoft SQL Server Administration](https://dev.to/wiseguide/unlocking-the-power-of-microsoft-sql-server-administration-m0m)
+- [Next.js and React.js Integration](https://dev.to/lior_amsalem_3879371237f6/nextjs-and-reactjs-integration-1oh6)
+- [Reading the Ruby 3.4 NEWS with professionals &lpar;English translation&rpar;](https://dev.to/ko1/reading-the-ruby-34-news-with-professionals-english-translation-47a4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
