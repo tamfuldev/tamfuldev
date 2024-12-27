@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Write Clean Code – Tips for Developers with Examples](https://dev.to/codewithshahan/how-to-write-clean-code-tips-for-developers-with-examples-25ic)
-- [Tìm hiểu Object trong JavaScript](https://dev.to/duongthai/tim-hieu-object-trong-javascript-1be5)
-- [Building a CLI Task Tracker with Go: My Learning Journey](https://dev.to/devsadia/building-a-cli-task-tracker-with-go-my-learning-journey-259h)
-- [Enhancing Productivity: The Ultimate Developer Experience Tool for 2024](https://dev.to/jetthoughts/enhancing-productivity-the-ultimate-developer-experience-tool-for-2024-4bh4)
-- [Building a Chrome Extension to Capture and Export Website Interaction Events](https://dev.to/kevalbadarakhiya/building-a-chrome-extension-to-capture-and-export-website-interaction-events-281e)
+- [How to use rerank models in Amazon Bedrock](https://dev.to/tim_schill/how-to-use-rerank-models-in-amazon-bedrock-5dm3)
+- [Fixing and Validating JSON with Ease: An In-Depth Guide](https://dev.to/onlinejsonformatter0/fixing-and-validating-json-with-ease-an-in-depth-guide-19jc)
+- [How I&#39;ve been trying to improve mocking with Zod](https://dev.to/crbroughton/how-ive-been-trying-to-improve-mocking-with-zod-4j1a)
+- [Etcd Backup and Restore &lpar;1&rpar;](https://dev.to/cheedge_lee/etcd-backup-and-restore-1-2ad3)
+- [Why Function-Calling GenAI Must Be Built by AI, Not Manually Coded](https://dev.to/gentoro/why-function-calling-genai-must-be-built-by-ai-not-manually-coded-3dj2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
