@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [TIL: Why Does a SPA Have Multiple URLs? 🤔](https://dev.to/kohki_takatama/til-why-does-a-spa-have-multiple-urls-1e9j)
-- [Boost Your App’s Performance with Lazy Stacks in SwiftUI](https://dev.to/divyeshvekariya/boost-your-apps-performance-with-lazy-stacks-in-swiftui-550l)
-- [Pritunl client cli](https://dev.to/vuongbui/pritunl-client-cli-3i8n)
-- [AWS Tutorial for Beginners | S3 Tutorial | Introduction to S3 &lpar;Storage&rpar;](https://dev.to/s3cloudhub/aws-tutorial-for-beginners-s3-tutorial-introduction-to-s3-storage-em0)
-- [Frontend Challenge: CSS Art -December Edition](https://dev.to/emmyzhang/frontend-challenge-css-art-december-edition-4pl0)
+- [Tailwind CSS and Reactjs](https://dev.to/rivkaavraham/tailwind-css-and-reactjs-26p7)
+- [AWS Tutorial For Beginners | Life Cycle Policy, IA, Glacier &lpar;LAB&rpar;](https://dev.to/s3cloudhub/aws-tutorial-for-beginners-life-cycle-policy-ia-glacier-lab-1l)
+- [Network monitoring for Microservices architecture: A Developer’s guide](https://dev.to/swetha_suresh_18c9975c236/network-monitoring-for-microservices-architecture-a-developers-guide-5ce6)
+- [Js in bits - 8.9&lpar;basic operators&rpar;](https://dev.to/avinashd10/js-in-bits-89basic-operators-3577)
+- [Mastering Unit Testing with Jest: A Comprehensive Guide](https://dev.to/keploy/mastering-unit-testing-with-jest-a-comprehensive-guide-52p4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
