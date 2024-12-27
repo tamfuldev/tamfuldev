@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Major Release: Total Overhaul - JavaFX Renaissance](https://dev.to/maksik997/major-release-total-overhaul-javafx-renaissance-51m)
-- [Using Vim Navigation &lpar;h, j, k, l&rpar; as Arrow Keys on Mac with Karabiner-Elements](https://dev.to/lico/using-vim-navigation-h-j-k-l-as-arrow-keys-on-mac-with-karabiner-elements-ahj)
-- [Los mejores portales de empleo para conseguir trabajo en tecnología](https://dev.to/lurodriguez/los-mejores-portales-de-empleo-para-conseguir-trabajo-en-tecnologia-48p4)
-- [Managing countries and currencies with JS](https://dev.to/headlesstech/managing-countries-and-currencies-with-js-36ff)
-- [Data Loss Risks During Cloud Migration](https://dev.to/enna/data-loss-risks-during-cloud-migration-54ik)
+- [Digital Certificates: Your Invisible Shield ! 🔒](https://dev.to/tavernetech/digital-certificates-your-invisible-shield-in-the-digital-jungle-4g2k)
+- [ما مدى أهمية بايثون للأعمال؟](https://dev.to/kader_maarouf/m-md-hmy-bythwn-llml-9fl)
+- [@nuxt/test-utils - The First-Class Citizen for Nuxt Unit Testing](https://dev.to/akdevcraft/nuxttest-utils-the-first-class-citizen-for-nuxt-unit-testing-41h2)
+- [Overview of IBM&#39;s &quot;Machine &amp; Deep Learning&quot; Module](https://dev.to/caganshen/overview-of-ibms-machine-deep-learning-module-583i)
+- [Real-Time Data Indexing: Powering Instant Insights and Scalable Querying](https://dev.to/wallacefreitas/real-time-data-indexing-powering-instant-insights-and-scalable-querying-45ki)
 <!-- BLOG-POST-LIST:END -->
 
 ---
