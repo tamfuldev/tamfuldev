@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How AI Smart Search Reduces Bounce Rates on Nonprofit Websites](https://dev.to/alex_ferguson/how-ai-smart-search-reduces-bounce-rates-on-nonprofit-websites-10pm)
-- [How to Ensure Seamless Collaboration with a Software Development Team for Your Project](https://dev.to/marufhossain/how-to-ensure-seamless-collaboration-with-a-software-development-team-for-your-project-1dnl)
-- [The Shocking Truth About DIAGRAMS You Never Knew](https://dev.to/karell_stemarie_ce42bf9c/the-shocking-truth-about-diagrams-you-never-knew-2ej4)
-- [Test with Dummy and Stub](https://dev.to/_cds_/test-with-dummy-and-stub-30b9)
-- [Functional Programming in Go with IBM fp-go: Error Handling Made Explicit](https://dev.to/frorning/functional-programming-in-go-with-ibm-fp-go-error-handling-made-explicit-9of)
+- [How to Write Clean Code – Tips for Developers with Examples](https://dev.to/codewithshahan/how-to-write-clean-code-tips-for-developers-with-examples-25ic)
+- [Tìm hiểu Object trong JavaScript](https://dev.to/duongthai/tim-hieu-object-trong-javascript-1be5)
+- [Building a CLI Task Tracker with Go: My Learning Journey](https://dev.to/devsadia/building-a-cli-task-tracker-with-go-my-learning-journey-259h)
+- [Enhancing Productivity: The Ultimate Developer Experience Tool for 2024](https://dev.to/jetthoughts/enhancing-productivity-the-ultimate-developer-experience-tool-for-2024-4bh4)
+- [Building a Chrome Extension to Capture and Export Website Interaction Events](https://dev.to/kevalbadarakhiya/building-a-chrome-extension-to-capture-and-export-website-interaction-events-281e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
