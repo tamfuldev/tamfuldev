@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding AWS Lambda Event Source Mapping](https://dev.to/aws-builders/understanding-aws-lambda-event-source-mapping-l1e)
-- [A beginners guide to Constraints and Validations in Flask, SQLAlchemy](https://dev.to/namimai/a-beginners-guide-to-constraints-and-validations-in-flask-sqlalchemy-4cpc)
-- [Architecture Patterns for Beginners: MVC, MVP, and MVVM](https://dev.to/chiragagg5k/architecture-patterns-for-beginners-mvc-mvp-and-mvvm-2pe7)
-- [Resolving Python Import Failures in Bazel with `proto_library` Targets](https://dev.to/nioan/resolving-python-import-failures-in-bazel-with-protolibrary-targets-4i8i)
-- [My React Journey: Day 25](https://dev.to/ayoola_damilare_212d5bde0/my-react-journey-day-25-5f45)
+- [AI won&#39;t replace your job if you...](https://dev.to/wgcorrea/ai-wont-replace-your-job-if-you-4nd4)
+- [Send emails using Nodemailer &lpar;Typescript&rpar;](https://dev.to/victuk/send-emails-using-nodemailer-typescript-4763)
+- [Introducing CheckMailPro – Block Fake/Temp Emails and Secure Your User Signups!](https://dev.to/checkmailpro/introducing-checkmailpro-block-faketemp-emails-and-secure-your-user-signups-17c5)
+- [What&#39;s this time of year like for you?](https://dev.to/jess/whats-this-time-of-year-like-for-you-5ecm)
+- [HTML, CSS and JavaScript, Chatting website](https://dev.to/bdg_186/html-css-and-javascript-chatting-website-54d0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
