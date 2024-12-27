@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to use rerank models in Amazon Bedrock](https://dev.to/tim_schill/how-to-use-rerank-models-in-amazon-bedrock-5dm3)
-- [Fixing and Validating JSON with Ease: An In-Depth Guide](https://dev.to/onlinejsonformatter0/fixing-and-validating-json-with-ease-an-in-depth-guide-19jc)
-- [How I&#39;ve been trying to improve mocking with Zod](https://dev.to/crbroughton/how-ive-been-trying-to-improve-mocking-with-zod-4j1a)
-- [Etcd Backup and Restore &lpar;1&rpar;](https://dev.to/cheedge_lee/etcd-backup-and-restore-1-2ad3)
-- [Why Function-Calling GenAI Must Be Built by AI, Not Manually Coded](https://dev.to/gentoro/why-function-calling-genai-must-be-built-by-ai-not-manually-coded-3dj2)
+- [Js in bits - 9.2&lpar;Comparisons&rpar;](https://dev.to/avinashd10/js-in-bits-92comparisons-25od)
+- [Copy changed files to another branch in Git](https://dev.to/t-kikuc/copy-changed-files-to-another-branch-in-git-5dpc)
+- [Winter Solstice Celebrations - Interactive Educational Experience](https://dev.to/prashanth123/winter-solstice-celebrations-interactive-educational-experience-4dba)
+- [The Evolution of Frontend Development: A Shift from Component Libraries to AI-Driven Custom Solutions](https://dev.to/muzaffar640/the-evolution-of-frontend-development-a-shift-from-component-libraries-to-ai-driven-custom-34me)
+- [AWS Security - Secure Users](https://dev.to/josephvpeter7/aws-security-secure-users-49b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
