@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CompTIA Certification Path in 2025 : Your Guide to a Successful IT Career](https://dev.to/skillboosttrainer/comptia-certification-path-in-2025-your-guide-to-a-successful-it-career-407c)
-- [Type Casting vs Type Conversion](https://dev.to/nozibul_islam_113b1d5334f/type-casting-vs-type-conversion-ii7)
-- [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-5776)
-- [CompTIA Certification Cost 2025: Complete IT Certification in Guide](https://dev.to/skillboosttrainer/comptia-certification-cost-2025-complete-it-certification-in-guide-2h4j)
-- [GenAI Developer Roadmap 🚀 | Week 1, Day 1](https://dev.to/saichinmayt/genai-developer-roadmap-week-1-day-1-1ad3)
+- [How AI Smart Search Reduces Bounce Rates on Nonprofit Websites](https://dev.to/alex_ferguson/how-ai-smart-search-reduces-bounce-rates-on-nonprofit-websites-10pm)
+- [How to Ensure Seamless Collaboration with a Software Development Team for Your Project](https://dev.to/marufhossain/how-to-ensure-seamless-collaboration-with-a-software-development-team-for-your-project-1dnl)
+- [The Shocking Truth About DIAGRAMS You Never Knew](https://dev.to/karell_stemarie_ce42bf9c/the-shocking-truth-about-diagrams-you-never-knew-2ej4)
+- [Test with Dummy and Stub](https://dev.to/_cds_/test-with-dummy-and-stub-30b9)
+- [Functional Programming in Go with IBM fp-go: Error Handling Made Explicit](https://dev.to/frorning/functional-programming-in-go-with-ibm-fp-go-error-handling-made-explicit-9of)
 <!-- BLOG-POST-LIST:END -->
 
 ---
