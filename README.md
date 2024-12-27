@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🌥️ Exploring Cloud Computing: A Simple Guide](https://dev.to/tharindumadubashna/exploring-cloud-computing-a-simple-guide-1fd4)
-- [React Dropzone: Image Drag n Drop using Dropzone](https://dev.to/mukul_aggarwal/react-dropzone-image-drag-n-drop-using-dropzone-f69)
-- [I Found Splito: An Exciting Open-Source Bill-Splitting App](https://dev.to/divyeshvekariya/i-found-splito-an-exciting-open-source-bill-splitting-app-31di)
-- [Umbraco package of the month: xStatic](https://dev.to/jvk_io/umbraco-package-of-the-month-xstatic-28fo)
-- [My Notes on Canva’s Real-Time Mouse Pointer Implementation](https://dev.to/the_infinity/my-notes-on-canvas-real-time-mouse-pointer-implementation-4g7a)
+- [TIL: Why Does a SPA Have Multiple URLs? 🤔](https://dev.to/kohki_takatama/til-why-does-a-spa-have-multiple-urls-1e9j)
+- [Boost Your App’s Performance with Lazy Stacks in SwiftUI](https://dev.to/divyeshvekariya/boost-your-apps-performance-with-lazy-stacks-in-swiftui-550l)
+- [Pritunl client cli](https://dev.to/vuongbui/pritunl-client-cli-3i8n)
+- [AWS Tutorial for Beginners | S3 Tutorial | Introduction to S3 &lpar;Storage&rpar;](https://dev.to/s3cloudhub/aws-tutorial-for-beginners-s3-tutorial-introduction-to-s3-storage-em0)
+- [Frontend Challenge: CSS Art -December Edition](https://dev.to/emmyzhang/frontend-challenge-css-art-december-edition-4pl0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
