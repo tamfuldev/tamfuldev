@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Tailwind CSS and Reactjs](https://dev.to/rivkaavraham/tailwind-css-and-reactjs-26p7)
-- [AWS Tutorial For Beginners | Life Cycle Policy, IA, Glacier &lpar;LAB&rpar;](https://dev.to/s3cloudhub/aws-tutorial-for-beginners-life-cycle-policy-ia-glacier-lab-1l)
-- [Network monitoring for Microservices architecture: A Developer’s guide](https://dev.to/swetha_suresh_18c9975c236/network-monitoring-for-microservices-architecture-a-developers-guide-5ce6)
-- [Js in bits - 8.9&lpar;basic operators&rpar;](https://dev.to/avinashd10/js-in-bits-89basic-operators-3577)
-- [Mastering Unit Testing with Jest: A Comprehensive Guide](https://dev.to/keploy/mastering-unit-testing-with-jest-a-comprehensive-guide-52p4)
+- [How does artificial intelligence enhance healthcare software applications?](https://dev.to/mobilise/how-does-artificial-intelligence-enhance-healthcare-software-applications-1naa)
+- [From Simple RAG to Multimodal Multilingual Intelligence - Using Contact Doctor&#39;s Bio-Medical-MultiModal-Llama-3-8B-V1](https://dev.to/mckanth/from-simple-rag-to-multimodal-multilingual-intelligence-using-contact-doctors-1kn0)
+- [Increase Virtual Machine Quota: A Step-by-Step Guide](https://dev.to/s3cloudhub/increase-virtual-machine-quota-a-step-by-step-guide-3fik)
+- [Stress Testing: Ensuring System Reliability Under Pressure](https://dev.to/keploy/stress-testing-ensuring-system-reliability-under-pressure-57fa)
+- [Binary and Unary operator](https://dev.to/mujahida_joynab_64c7407d8/binary-and-unary-operator-2lec)
 <!-- BLOG-POST-LIST:END -->
 
 ---
