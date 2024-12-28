@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Software Engineering Cheatsheet I Always Wanted to Have for Interviews &lpar;This is a Game Changer!&rpar;](https://dev.to/msnmongare/software-engineering-cheatsheet-i-always-wanted-to-have-for-interviews-this-is-a-game-changer-3ko6)
-- [9 Key Benefits of Cloud Migration You Need To Know](https://dev.to/softqubetechnologies/9-key-benefits-of-cloud-migration-you-need-to-know-3h4b)
-- [Save Money on Massive Outputs: Alternatives to Consider Beyond OpenAI](https://dev.to/airabbit/save-money-on-massive-outputs-alternatives-to-consider-beyond-openai-190j)
-- [Data Analytics 101: How Small Businesses Can Turn Insights Into Growth](https://dev.to/softqubetechnologies/data-analytics-101-how-small-businesses-can-turn-insights-into-growth-1hn)
-- [How to Create Addictive Entertainment and Media Websites: Streaming, Content Delivery, and User Engagement](https://dev.to/okoye_ndidiamaka_5e3b7d30/how-to-create-addictive-entertainment-and-media-websites-streaming-content-delivery-and-user-2n36)
+- [codepen - circles](https://dev.to/jamcha123/codepen-circles-4eml)
+- [Mastering Inversion of Control: Simplify Your Code Today](https://dev.to/karell_stemarie_ce42bf9c/mastering-inversion-of-control-simplify-your-code-today-2dda)
+- [Conteúdos de estudo e cursos para iniciantes em programação web](https://dev.to/jessilyneh/conteudos-de-estudo-e-cursos-para-iniciantes-em-programacao-web-2db8)
+- [📊 Dropbox User Sentiment Analysis using Airbyte 🪼 and Motherduck 🦆](https://dev.to/abhirajadhikary06/dropbox-user-sentiment-analysis-using-airbyte-and-motherduck-1ggd)
+- [Building a Smart Heater Controller with Python, Docker, and Bluetooth #2](https://dev.to/mecorre1/building-a-smart-heater-controller-with-python-docker-and-bluetooth-2-1c5a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
