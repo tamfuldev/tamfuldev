@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From REST to GraphQL: Why and How I Made the Switch](https://dev.to/qbentil/from-rest-to-graphql-why-and-how-i-made-the-switch-4c01)
-- [Understanding Java Inheritance: A Friendly Guide 🌳](https://dev.to/respect17/understanding-java-inheritance-a-friendly-guide-13c5)
-- [Como um cego total trabalha como devops?](https://dev.to/julianoribeiro2024/como-um-cego-total-trabalha-como-devops-2k2l)
-- [A TALE OF TWO DEVELOPERS: THE WISE AND THE CRAYON-EATER](https://dev.to/ryo_suwito/a-tale-of-two-developers-the-wise-and-the-crayon-eater-2gj7)
-- [My Go-To Developer Tools: Boosting Productivity and Joy in Coding](https://dev.to/praveenrajamani/my-go-to-developer-tools-boosting-productivity-and-joy-in-coding-25kk)
+- [Redis Cache - A String story](https://dev.to/jofisaes/redis-cache-a-string-story-387c)
+- [AI Ethics | Navigating the Future with Responsibility](https://dev.to/malikhandev/ai-ethics-navigating-the-future-with-responsibility-h4j)
+- [10 Innovative Strategies to Improve Developer Experience in 2024](https://dev.to/jetthoughts/10-innovative-strategies-to-improve-developer-experience-in-2024-4824)
+- [Mejores canales de Telegram para encontrar empleo en tecnología](https://dev.to/lurodriguez/mejores-canales-de-telegram-para-encontrar-empleo-en-tecnologia-4okc)
+- [Deploy Vaultwarden Password Manager to Dokku Micro PaaS](https://dev.to/fa11enangel/deploy-vaultwarden-password-manager-to-dokku-micro-paas-37f2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
