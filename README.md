@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [With Spring can I make an optional path variable?](https://dev.to/realnamehidden1_61/with-spring-can-i-make-an-optional-path-variable-4im8)
-- [How I Fixed My Messed-Up Pull Request](https://dev.to/studiosmolthing/how-i-fixed-my-messed-up-pull-request-k7l)
-- [Emerging Trends in SaaS Development: What to Expect in 2025 and Beyond](https://dev.to/rayan2228/emerging-trends-in-saas-development-what-to-expect-in-2025-and-beyond-4l4n)
-- [How to Deploy a Web App with CI/CD Pipelines on Azure App Service](https://dev.to/olalekan_johnayansola_4a/how-to-deploy-a-web-app-with-cicd-pipelines-on-azure-app-service-153i)
-- [How AI Models Adapt to Changing Environments: Real-World Insights](https://dev.to/umeshtharukaofficial/how-ai-models-adapt-to-changing-environments-real-world-insights-47jk)
+- [How to Run Event Viewer as Administrator on Windows 11?](https://dev.to/winsides/how-to-run-event-viewer-as-administrator-on-windows-11-1d53)
+- [Role-Based Access Control in NestJS](https://dev.to/luffy_p1r4t3/role-based-access-control-in-nestjs-2cl2)
+- [DTO vs Entity: Why You Should Separate Concerns](https://dev.to/lakmal_asela_8be4eb30d9db/dto-vs-entity-why-you-should-separate-concerns-15jd)
+- [GTA 6 Trailer 2 Breaks Frustrating Release Record - The Direct](https://dev.to/hk9099/gta-6-trailer-2-breaks-frustrating-release-record-the-direct-4756)
+- [10 Rare HTML Attributes You Should Know About](https://dev.to/kaja_uvais_a8691e947dd399/10-rare-html-attributes-you-should-know-about-4leo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
