@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ethical Guidelines and Standards for AI Testing](https://dev.to/anil_csimplifyit_905c/ethical-guidelines-and-standards-for-ai-testing-29om)
-- [🚀 Software Engineering Post-Mortem: Paragon Protectors 🏰🎯](https://dev.to/victoriadeveloper/post-mortem-paragon-protectors-5620)
-- [🚀 Introducing **Preadme**: Your Ultimate README Generator!](https://dev.to/eshanized/introducing-preadme-your-ultimate-readme-generator-2p0g)
-- [Document data modeling to avoid write skew anomalies](https://dev.to/yugabyte/document-data-modeling-to-avoid-write-skew-anomaly-doctors-on-call-shift-example-465d)
-- [Few bytes of Hash Map Cake](https://dev.to/rmahawewa/few-bytes-of-hash-map-cake-127a)
+- [Back To Basics: git](https://dev.to/nicholassynovic/back-to-basics-git-478m)
+- [Why a Hosted API Gateway Is Better Than Building Your Own](https://dev.to/zuplo/why-a-hosted-api-gateway-is-better-than-building-your-own-4edf)
+- [API Gateway Hosting Options](https://dev.to/zuplo/api-gateway-hosting-options-1kjj)
+- [Generate an OpenAPI From Your Database](https://dev.to/zuplo/generate-an-openapi-from-your-database-24m4)
+- [Building a PostgREST API For Your MySQL Database](https://dev.to/zuplo/building-a-postgrest-api-for-your-mysql-database-fcm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
