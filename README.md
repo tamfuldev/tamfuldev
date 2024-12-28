@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Fix &quot;Dummy Device&quot; for sound on Debian](https://dev.to/jeansen/fix-dummy-device-for-sound-on-debian-45e)
-- [How to Configure Gmail SMTP Server Settings](https://dev.to/msnmongare/how-to-configure-gmail-smtp-server-settings-7l6)
-- [Essential SEO Strategies for Web Developers](https://dev.to/brian_keary_16db3f9defbbe/essential-seo-strategies-for-web-developers-2ik8)
-- [Django built-in authentication system](https://dev.to/doridoro/django-built-in-authentication-1j93)
-- [How to Set the Hostname on a Linux System](https://dev.to/jajera/how-to-set-the-hostname-on-a-linux-system-4b9p)
+- [Ethical Guidelines and Standards for AI Testing](https://dev.to/anil_csimplifyit_905c/ethical-guidelines-and-standards-for-ai-testing-29om)
+- [🚀 Software Engineering Post-Mortem: Paragon Protectors 🏰🎯](https://dev.to/victoriadeveloper/post-mortem-paragon-protectors-5620)
+- [🚀 Introducing **Preadme**: Your Ultimate README Generator!](https://dev.to/eshanized/introducing-preadme-your-ultimate-readme-generator-2p0g)
+- [Document data modeling to avoid write skew anomalies](https://dev.to/yugabyte/document-data-modeling-to-avoid-write-skew-anomaly-doctors-on-call-shift-example-465d)
+- [Few bytes of Hash Map Cake](https://dev.to/rmahawewa/few-bytes-of-hash-map-cake-127a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
