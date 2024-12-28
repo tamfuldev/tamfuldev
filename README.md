@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [codepen - circles](https://dev.to/jamcha123/codepen-circles-4eml)
-- [Mastering Inversion of Control: Simplify Your Code Today](https://dev.to/karell_stemarie_ce42bf9c/mastering-inversion-of-control-simplify-your-code-today-2dda)
-- [Conteúdos de estudo e cursos para iniciantes em programação web](https://dev.to/jessilyneh/conteudos-de-estudo-e-cursos-para-iniciantes-em-programacao-web-2db8)
-- [📊 Dropbox User Sentiment Analysis using Airbyte 🪼 and Motherduck 🦆](https://dev.to/abhirajadhikary06/dropbox-user-sentiment-analysis-using-airbyte-and-motherduck-1ggd)
-- [Building a Smart Heater Controller with Python, Docker, and Bluetooth #2](https://dev.to/mecorre1/building-a-smart-heater-controller-with-python-docker-and-bluetooth-2-1c5a)
+- [We no need write Java in Kotlin](https://dev.to/mikhailepatko/we-no-need-write-java-in-kotlin-5985)
+- [The Journey of ReqWeb: What’s Coming in Version 2.0](https://dev.to/taqsblaze/the-journey-of-reqweb-whats-coming-in-version-20-32d3)
+- [Configuring a custom domain for your Azure Static Web App](https://dev.to/chsami/configuring-a-custom-domain-for-your-azure-static-web-app-1igc)
+- [vogen - Value Object Generator in golang](https://dev.to/nchika/vogen-value-object-generator-in-golang-fkg)
+- [A Basic Understanding of .NET!](https://dev.to/hexa-home/a-basic-understanding-of-net-29ap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
