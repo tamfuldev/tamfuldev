@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Redis Cache - A String story](https://dev.to/jofisaes/redis-cache-a-string-story-387c)
-- [AI Ethics | Navigating the Future with Responsibility](https://dev.to/malikhandev/ai-ethics-navigating-the-future-with-responsibility-h4j)
-- [10 Innovative Strategies to Improve Developer Experience in 2024](https://dev.to/jetthoughts/10-innovative-strategies-to-improve-developer-experience-in-2024-4824)
-- [Mejores canales de Telegram para encontrar empleo en tecnología](https://dev.to/lurodriguez/mejores-canales-de-telegram-para-encontrar-empleo-en-tecnologia-4okc)
-- [Deploy Vaultwarden Password Manager to Dokku Micro PaaS](https://dev.to/fa11enangel/deploy-vaultwarden-password-manager-to-dokku-micro-paas-37f2)
+- [Part 1: Setting Up Initial AWS Infrastructure for the Intrusion Detection System with Terraform](https://dev.to/non-existent/part-1-setting-up-initial-aws-infrastructure-for-the-intrusion-detection-system-with-terraform-4g4e)
+- [REDIS TALK &amp; DEMO](https://dev.to/derekcrosslu/redis-talk-demo-2ek3)
+- [Implementasi Infrastruktur Jaringan Virtual dengan Protokol OSPF](https://dev.to/heavenaulianisa/implementasi-infrastruktur-jaringan-virtual-dengan-protokol-ospf-2ni)
+- [Building a Personal Brand and Embracing Adaptability as a Software Engineer 💯](https://dev.to/alisamir/building-a-personal-brand-and-embracing-adaptability-as-a-software-engineer-5ke)
+- [Add JWT Authentication in Deno &amp; Oak server using Kinde Authentication](https://dev.to/zaynekomichi/add-jwt-authentication-in-deno-oak-server-using-kinde-authentication-1c95)
 <!-- BLOG-POST-LIST:END -->
 
 ---
