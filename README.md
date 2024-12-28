@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Back To Basics: git](https://dev.to/nicholassynovic/back-to-basics-git-478m)
-- [Why a Hosted API Gateway Is Better Than Building Your Own](https://dev.to/zuplo/why-a-hosted-api-gateway-is-better-than-building-your-own-4edf)
-- [API Gateway Hosting Options](https://dev.to/zuplo/api-gateway-hosting-options-1kjj)
-- [Generate an OpenAPI From Your Database](https://dev.to/zuplo/generate-an-openapi-from-your-database-24m4)
-- [Building a PostgREST API For Your MySQL Database](https://dev.to/zuplo/building-a-postgrest-api-for-your-mysql-database-fcm)
+- [How to Deploy a Web App with CI/CD Pipelines on Azure App Service](https://dev.to/olalekan_johnayansola_4a/how-to-deploy-a-web-app-with-cicd-pipelines-on-azure-app-service-153i)
+- [How AI Models Adapt to Changing Environments: Real-World Insights](https://dev.to/umeshtharukaofficial/how-ai-models-adapt-to-changing-environments-real-world-insights-47jk)
+- [WICK-A11Y 1.4.0: Not Everything Needs to Fail a Test!](https://dev.to/sebastianclavijo/wick-a11y-140-not-everything-needs-to-fail-a-test-1pe5)
+- [Configure SSH Passwordless Login from Windows to Linux](https://dev.to/jajera/configure-ssh-passwordless-login-from-windows-to-linux-1nml)
+- [Accessing the Windows filesystem from WSL &lpar;WSL2&rpar;](https://dev.to/gamelord2011/accessing-the-windows-filesystem-from-wsl-wsl2-2jlb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
