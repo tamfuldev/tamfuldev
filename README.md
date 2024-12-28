@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Run Event Viewer as Administrator on Windows 11?](https://dev.to/winsides/how-to-run-event-viewer-as-administrator-on-windows-11-1d53)
-- [Role-Based Access Control in NestJS](https://dev.to/luffy_p1r4t3/role-based-access-control-in-nestjs-2cl2)
-- [DTO vs Entity: Why You Should Separate Concerns](https://dev.to/lakmal_asela_8be4eb30d9db/dto-vs-entity-why-you-should-separate-concerns-15jd)
-- [GTA 6 Trailer 2 Breaks Frustrating Release Record - The Direct](https://dev.to/hk9099/gta-6-trailer-2-breaks-frustrating-release-record-the-direct-4756)
-- [10 Rare HTML Attributes You Should Know About](https://dev.to/kaja_uvais_a8691e947dd399/10-rare-html-attributes-you-should-know-about-4leo)
+- [Transforming Retail: How Augmented Reality Enhances Shopping Experiences](https://dev.to/vishal_bisht_2bae8e8d8bd4/transforming-retail-how-augmented-reality-enhances-shopping-experiences-30gh)
+- [🚀 60+ New GitHub Repositories That Could Inspire Your Next Project &lpar;Dec 27, 2024&rpar;](https://dev.to/gittech/60-new-github-repositories-that-could-inspire-your-next-project-dec-27-2024-58m0)
+- [Push to multiple GitHub accounts!](https://dev.to/nikhil_mahato/push-to-multiple-github-accounts-3k99)
+- [AWS Security Hub notifications made actionable using Amazon Bedrock](https://dev.to/aws-builders/aws-security-hub-notifications-made-actionable-using-amazon-bedrock-1f3i)
+- [Part 16: Building Your Own AI - Building an End-to- End AI Project: A Case Study](https://dev.to/trixsec/part-16-building-your-own-ai-building-an-end-to-end-ai-project-a-case-study-e90)
 <!-- BLOG-POST-LIST:END -->
 
 ---
