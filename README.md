@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Securing Laravel Reverb](https://dev.to/edgaras/securing-laravel-reverb-2nh3)
-- [Matrix code rain - in Rust](https://dev.to/admin1299/matrix-code-rain-in-rust-1fad)
-- [Simplifying In-App Purchases with RevenueCat](https://dev.to/akash_kaintura_7d91e21763/simplifying-in-app-purchases-with-revenuecat-3dkg)
-- [Let&#39;s Explore Configuration Drift Management.](https://dev.to/574n13y/lets-explore-configuration-drift-management-462d)
-- [Working with APIs in Python: A Practical Guide](https://dev.to/21alul21/working-with-apis-in-python-a-practical-guide-3cok)
+- [Nix at level 0 is still awesome](https://dev.to/noriller/nix-at-level-0-is-still-awesome-bhf)
+- [The Legacy of Code: Famous Old Programming Languages](https://dev.to/davidcharles/the-legacy-of-code-famous-old-programming-languages-1pm6)
+- [TypeScript: Excessive Pedantry or Necessary Order?](https://dev.to/iri_denis/typescript-excessive-pedantry-or-necessary-order-3297)
+- [Laravel&#39;s 2024: Progress at Lightning Speed, But Are We Biting Off More Than We Can Chew?](https://dev.to/hichemtab-tech/laravels-2024-progress-at-lightning-speed-but-are-we-biting-off-more-than-we-can-chew-c7g)
+- [AWS Cloud: Unlocking the Future of Scalable and Secure Computing](https://dev.to/wiseguide/aws-cloud-unlocking-the-future-of-scalable-and-secure-computing-43a7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
