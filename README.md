@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Beginners Tutorial on Using Flexbox in CSS3 for Web Development](https://dev.to/brian_keary_16db3f9defbbe/a-beginners-tutorial-on-using-flexbox-in-css3-for-web-development-3h2k)
-- [Data structures and algorithms in C#](https://dev.to/govindadaspai/data-structures-and-algorithms-in-c-55j0)
-- [Experience Learning the History of the Web.](https://dev.to/rarai365/experience-learning-the-history-of-the-web-155i)
-- [The Tech News Scraper](https://dev.to/chethanyadav/the-tech-news-scraper-14kc)
-- [1639. Number of Ways to Form a Target String Given a Dictionary](https://dev.to/mdarifulhaque/1639-number-of-ways-to-form-a-target-string-given-a-dictionary-585c)
+- [Parsing command-line arguments in C](https://dev.to/tallesl/parsing-command-line-arguments-in-c-41ac)
+- [Choosing the Right Database: A Simplified Guide](https://dev.to/mohammad-reza-mahdiani/choosing-the-right-database-a-simplified-guide-30o0)
+- [Getting Started with Go and the Web: Hello, World!](https://dev.to/markmunyaka/getting-started-with-go-and-the-web-hello-world-nal)
+- [Ghostty 1.0: A Terminal Emulator Built for Speed, Features, and Native Integration](https://dev.to/dansasser/ghostty-10-a-terminal-emulator-built-for-speed-features-and-native-integration-22ng)
+- [Bright Data to Tackle AI Data Challenges](https://dev.to/ranjancse/bright-data-to-tackle-ai-data-challenges-1l7h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
