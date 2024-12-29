@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Matanuska ADR 005 - Editor Operations](https://dev.to/jfhbrook/matanuska-adr-005-editor-operations-349a)
-- [WINTER SOLSTICE](https://dev.to/sakshi_agrawal_a84623730e/winter-solstice-3d05)
-- [Optimizing Performance using Efficient LINQ queries](https://dev.to/devesh_omar_b599bc4be3ee7/optimizing-performance-using-efficient-linq-queries-392f)
-- [Beyond Boundaries: Android Inter-Process Communication with AIDL](https://dev.to/sridharsubramani/beyond-boundaries-android-inter-process-communication-with-aidl-sridhar-subramaniam-301)
-- [PydanticAI: A Comprehensive Guide to Building Production-Ready AI Applications](https://dev.to/yashddesai/pydanticai-a-comprehensive-guide-to-building-production-ready-ai-applications-20me)
+- [Securing Laravel Reverb](https://dev.to/edgaras/securing-laravel-reverb-2nh3)
+- [Matrix code rain - in Rust](https://dev.to/admin1299/matrix-code-rain-in-rust-1fad)
+- [Simplifying In-App Purchases with RevenueCat](https://dev.to/akash_kaintura_7d91e21763/simplifying-in-app-purchases-with-revenuecat-3dkg)
+- [Let&#39;s Explore Configuration Drift Management.](https://dev.to/574n13y/lets-explore-configuration-drift-management-462d)
+- [Working with APIs in Python: A Practical Guide](https://dev.to/21alul21/working-with-apis-in-python-a-practical-guide-3cok)
 <!-- BLOG-POST-LIST:END -->
 
 ---
