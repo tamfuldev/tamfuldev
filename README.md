@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Winter Beauty of December](https://dev.to/jyothi_priyaranga_b8d60b/the-winter-beauty-of-december-2ap7)
-- [🤯 Read These 30 Open-Source Pieces Before Everyone Else Does](https://dev.to/dev-resources/read-these-30-open-source-pieces-before-everyone-else-does-5ail)
-- [Docker: Day 3](https://dev.to/subham_nandi/docker-day-3-5cia)
-- [JavaScript Basics I learnt today on this developer journey.](https://dev.to/byali_macqueline_lea/javascript-basics-i-learnt-today-on-this-developer-journey-2l77)
-- [Innovative Ruby on Rails Projects to Boost Your Development Skills in 2024](https://dev.to/jetthoughts/innovative-ruby-on-rails-projects-to-boost-your-development-skills-in-2024-1je9)
+- [Top 4 NPM Libraries I used to Elevate My Project 🚀](https://dev.to/rijultp/top-4-npm-libraries-i-used-to-elevate-my-project-4g9k)
+- [Web4: A New Generation of Social Networks Transforming the Internet](https://dev.to/web4/web4-a-new-generation-of-social-networks-transforming-the-internet-7md)
+- [How to Start Solving Problems, Build Solutions, and Validate Your Idea Without Spending a Dollar](https://dev.to/rogueloop/how-to-start-solving-problems-build-solutions-and-validate-your-idea-without-spending-a-dollar-37hm)
+- [How to Deploy Puppeteer in the Cloud: Solutions Compared](https://dev.to/leapcell/how-to-deploy-puppeteer-in-the-cloud-solutions-compared-pfk)
+- [First blog!](https://dev.to/vishaaxl/first-blog-1mk3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
