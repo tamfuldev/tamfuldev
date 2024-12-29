@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Novice to Navigator: A Deep Dive into Security with Wazuh](https://dev.to/ankit_607559377fe046d5f64/from-novice-to-navigator-a-deep-dive-into-security-with-wazuh-m4)
-- [Part 4 is FINALLY out!!! come check and please leave a like/comment!! thank you so much](https://dev.to/lorebrada00/part-4-is-finally-out-come-check-and-please-leave-a-likecomment-thank-you-so-much-34ad)
-- [Mastering Essential Software Architecture Patterns: A Comprehensive Guide🛠️, Part 4](https://dev.to/cortexflow/mastering-essential-software-architecture-patterns-a-comprehensive-guide-part-4-4ee)
-- [New Year&#39;s Resolutions for Software Engineers](https://dev.to/smmd/new-years-resolutions-for-software-engineers-4243)
-- [Pulumi WASM/Rust devlog #1](https://dev.to/andrzejressel/pulumi-wasmrust-devlog-1-25n1)
+- [A Beginners Tutorial on Using Flexbox in CSS3 for Web Development](https://dev.to/brian_keary_16db3f9defbbe/a-beginners-tutorial-on-using-flexbox-in-css3-for-web-development-3h2k)
+- [Data structures and algorithms in C#](https://dev.to/govindadaspai/data-structures-and-algorithms-in-c-55j0)
+- [Experience Learning the History of the Web.](https://dev.to/rarai365/experience-learning-the-history-of-the-web-155i)
+- [The Tech News Scraper](https://dev.to/chethanyadav/the-tech-news-scraper-14kc)
+- [1639. Number of Ways to Form a Target String Given a Dictionary](https://dev.to/mdarifulhaque/1639-number-of-ways-to-form-a-target-string-given-a-dictionary-585c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
