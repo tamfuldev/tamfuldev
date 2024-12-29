@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m a senior Software Engineer](https://dev.to/philip_luther_5d14ee96b5c/im-a-senior-software-engineer-1923)
-- [Converting date by user time zone in &quot;NestJS&quot;, and entering and displaying date in &quot;Angular&quot;](https://dev.to/endykaufman/converting-date-by-user-time-zone-in-nestjs-and-entering-and-displaying-date-in-angular-2195)
-- [🤯 These Free Tools Solves the Headache for Developers](https://dev.to/0x3d_site/these-free-tools-solves-the-headache-for-developers-4l5g)
-- [State Management in React: A Brief Overview with Practical Examples](https://dev.to/manikanta_ketha_bf00556e9/state-management-in-react-a-brief-overview-with-practical-examples-5de5)
-- [Web3 of the New Generation: Projects That Defined Crypto Industry Trends in 2024](https://dev.to/maxpavlov/web3-of-the-new-generation-projects-that-defined-crypto-industry-trends-in-2024-3imc)
+- [ScrapeMate: Effortlessly Extract Data from Any Website, Even with Infinite Scroll and Complex Pagination](https://dev.to/sholajegede/scrapemate-effortlessly-extract-data-from-any-website-even-with-infinite-scroll-and-complex-5k7)
+- [Integrating Daytona into Your Spring Boot Bank Application](https://dev.to/harshsinghcs/integrating-daytona-into-your-spring-boot-bank-application-312o)
+- [Engineering with a product mindset](https://dev.to/scottharrisondev/engineering-with-a-product-mindset-14im)
+- [Kubernets Secret &lpar;2&rpar;](https://dev.to/cheedge_lee/kubernets-secret-2-20ec)
+- [How to change the Ubuntu password from the terminal](https://dev.to/joselatino/how-to-change-the-ubuntu-password-from-the-terminal-14jm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
