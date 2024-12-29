@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Unleashing Data Insights: Harnessing Amazon QuickSight Q&#39;s Generative BI for Transformative Analytics](https://dev.to/neeraj_iyer_980804515a5da/unleashing-data-insights-harnessing-amazon-quicksight-qs-generative-bi-for-transformative-18lo)
-- [Artigos sobre CSS que explodiram minha cabeça em 2024](https://dev.to/lixeletto/artigos-sobre-css-que-explodiram-minha-cabeca-em-2024-1e8m)
-- [How This SCSS Project Stays Organized Starting from a Map](https://dev.to/lovestaco/how-this-scss-project-stays-organized-starting-from-a-map-1g2e)
-- [How This SCSS Project Stays Organized Starting from a Map](https://dev.to/lovestaco/how-this-scss-project-stays-organized-starting-from-a-map-3phb)
-- [Make the zsh Prompt Go Faster](https://dev.to/terminaldweller/make-the-zsh-prompt-go-faster-5hal)
+- [The Winter Beauty of December](https://dev.to/jyothi_priyaranga_b8d60b/the-winter-beauty-of-december-2ap7)
+- [🤯 Read These 30 Open-Source Pieces Before Everyone Else Does](https://dev.to/dev-resources/read-these-30-open-source-pieces-before-everyone-else-does-5ail)
+- [Docker: Day 3](https://dev.to/subham_nandi/docker-day-3-5cia)
+- [JavaScript Basics I learnt today on this developer journey.](https://dev.to/byali_macqueline_lea/javascript-basics-i-learnt-today-on-this-developer-journey-2l77)
+- [Innovative Ruby on Rails Projects to Boost Your Development Skills in 2024](https://dev.to/jetthoughts/innovative-ruby-on-rails-projects-to-boost-your-development-skills-in-2024-1je9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
