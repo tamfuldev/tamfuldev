@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Install Tailscale With Ansible](https://dev.to/nicholassynovic/install-tailscale-with-ansible-3962)
-- [OpenAPI + Swagger UI with Micronaut Application](https://dev.to/anand_jaisy_2f7644a12001b/openapi-swagger-ui-with-micronaut-application-4hip)
-- [🚀 React Best Practices for Scalable Frontends: Part 2 – State Management](https://dev.to/el_mahfoudbouatim_b502a2/react-best-practices-for-scalable-frontends-part-2-state-management-in-react-4bpi)
-- [Server-Side Rendering in Sections](https://dev.to/zaidrehman/server-side-rendering-in-sections-d41)
-- [How a Lottery Quest Led Me to The Powers of PyTorch](https://dev.to/chiemezuo/how-a-lottery-quest-led-me-to-the-powers-of-pytorch-46c1)
+- [From Novice to Navigator: A Deep Dive into Security with Wazuh](https://dev.to/ankit_607559377fe046d5f64/from-novice-to-navigator-a-deep-dive-into-security-with-wazuh-m4)
+- [Part 4 is FINALLY out!!! come check and please leave a like/comment!! thank you so much](https://dev.to/lorebrada00/part-4-is-finally-out-come-check-and-please-leave-a-likecomment-thank-you-so-much-34ad)
+- [Mastering Essential Software Architecture Patterns: A Comprehensive Guide🛠️, Part 4](https://dev.to/cortexflow/mastering-essential-software-architecture-patterns-a-comprehensive-guide-part-4-4ee)
+- [New Year&#39;s Resolutions for Software Engineers](https://dev.to/smmd/new-years-resolutions-for-software-engineers-4243)
+- [Pulumi WASM/Rust devlog #1](https://dev.to/andrzejressel/pulumi-wasmrust-devlog-1-25n1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
