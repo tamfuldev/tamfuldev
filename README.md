@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Cross-Framework LLM Tool Integration with AG2](https://dev.to/ag2ai/cross-framework-llm-tool-integration-with-ag2-jlp)
-- [Deploying an AI Spam Detection App on AWS EC2](https://dev.to/cloudwithanne/deploying-an-ai-spam-detection-app-on-aws-ec2-1dg7)
-- [last year i build dev.to wrapped, this year its dev.to roast! Only for the brave :&rpar;](https://dev.to/code42cate/last-year-i-build-devto-wrapped-this-year-its-devto-roast-only-for-the-brave--3e80)
-- [2024 dev.to roast 🔥](https://dev.to/code42cate/2024-devto-roast-474)
-- [366 days of launch weeks](https://dev.to/launchweekdev/2024-wrapped-1432)
+- [10 Reasons to Upgrade to .NET 9](https://dev.to/antonmartyniuk/10-reasons-to-upgrade-to-net-9-4aml)
+- [Deploying an Application Using CloudFormation with CDN Integration](https://dev.to/azeemah/deploying-an-application-using-cloudformation-with-cdn-integration-36pe)
+- [Embedding Q Business into existing applications](https://dev.to/aws-builders/embedding-q-business-into-existing-applications-3nii)
+- [Feign Client vs Rest Client](https://dev.to/lahiru_rajapakshe_8634adb/feign-client-vs-rest-client-59le)
+- [🚀A Complete Guide to Deep Linking with Custom domain in React Native🚀](https://dev.to/amitkumar13/a-complete-guide-to-deep-linking-with-custom-domain-in-react-native-bj3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
