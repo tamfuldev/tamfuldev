@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Best Figma Plugins for Designers](https://dev.to/builderio/best-figma-plugins-for-designers-4m5)
-- [Module 1: Introduction to Amazon Web Services](https://dev.to/ehtesham_ali_abc367f36a5b/module-1-introduction-to-amazon-web-services-365m)
-- [LONG METHOD FIXES You Never Knew You Needed!](https://dev.to/karell_stemarie_ce42bf9c/long-method-fixes-you-never-knew-you-needed-3oba)
-- [10 Modern Web Performance Hacks That Boosted Our Site Speed by 300% 🚀](https://dev.to/akashakki/10-modern-web-performance-hacks-that-boosted-our-site-speed-by-300-ba4)
-- [Cracking AWS Certifications: A Guide From Beginner to Pro](https://dev.to/aws-builders/cracking-aws-certifications-a-guide-from-beginner-to-pro-3o05)
+- [How AI is Revolutionizing Software Testing](https://dev.to/vaibhavkuls/how-ai-is-revolutionizing-software-testing-1n2h)
+- [¿Qué son los enums en Java?](https://dev.to/asjordi/que-son-los-enums-en-java-37l5)
+- [Converting Day, Hour, Min, Sec](https://dev.to/amit_kshirsagar_237518360/converting-day-hour-min-sec-16bj)
+- [Introduction to Cloud computing.](https://dev.to/nofiu_kazeemolakunle_e13/introduction-to-cloud-computing-4o0)
+- [Ultimate guide to Flutter Keys: Optimizing Your Flutter App&#39;s Performance](https://dev.to/princetomarappdev/ultimate-guide-to-flutter-keys-optimizing-your-flutter-apps-performance-3ch1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
