@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Test](https://dev.to/ben/test-5d29)
-- [To implement CI/CD for DevOps](https://dev.to/razoropscicd/to-implement-cicd-for-devops-5eal)
-- [Getting Started with Go and the Web: Deploy to Railway](https://dev.to/markmunyaka/getting-started-with-go-and-the-web-deploy-to-railway-57l5)
-- [React.js : Choosing the State Structure](https://dev.to/sonaykara/reactjs-choosing-the-state-structure-5gnp)
-- [I created a cool SwiftUI library!](https://dev.to/nikita_nikitin_56acea4a06/i-created-a-cool-swiftui-library-3d86)
+- [Deref Coercion: Rust’s Polite Butler](https://dev.to/mdabir1203/deref-coercion-rusts-polite-butler-260m)
+- [WorldWide-chat](https://dev.to/hito/worldwide-chat-mpb)
+- [Solving the Weekly Challenge 302 Task 2: Step by Step in Python](https://dev.to/rcmcintosh/solving-the-weekly-challenge-302-task-2-step-by-step-in-python-61g)
+- [Solving the Weekly Challenge 302 Task 1: Ones and Zeroes in Python](https://dev.to/rcmcintosh/solving-the-weekly-challenge-302-task-1-ones-and-zeroes-in-python-o5o)
+- [A Workflow for Deploying Application Code with Terraform](https://dev.to/otumiky/a-workflow-for-deploying-application-code-with-terraform-37ph)
 <!-- BLOG-POST-LIST:END -->
 
 ---
