@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Docker vs Virtual Machines: What’s the Difference?](https://dev.to/toluwanee/docker-vs-virtual-machines-whats-the-difference-4o5o)
-- [Learning DevOps: Setting Up a Local Workflow System Without the Cloud](https://dev.to/toluwanee/learning-devops-setting-up-a-local-workflow-system-without-the-cloud-46oo)
-- [From DNA to DSA : How I Went From Studying Genomes To Understanding Algorithms!](https://dev.to/alfiyafatima09/from-dna-to-dsa-how-i-went-from-studying-genomes-to-understanding-algorithms-238c)
-- [NeoBrutalism: A Fresh Take on Modern Web Design 🎨](https://dev.to/oshekharo/neobrutalism-a-fresh-take-on-modern-web-design-4ej0)
-- [Reverse Engineering Business Requirements: Tips for Senior Business Analysts 🌟](https://dev.to/pro-project-mngr/reverse-engineering-business-requirements-tips-for-senior-business-analysts-3f5d)
+- [Test](https://dev.to/ben/test-5d29)
+- [To implement CI/CD for DevOps](https://dev.to/razoropscicd/to-implement-cicd-for-devops-5eal)
+- [Getting Started with Go and the Web: Deploy to Railway](https://dev.to/markmunyaka/getting-started-with-go-and-the-web-deploy-to-railway-57l5)
+- [React.js : Choosing the State Structure](https://dev.to/sonaykara/reactjs-choosing-the-state-structure-5gnp)
+- [I created a cool SwiftUI library!](https://dev.to/nikita_nikitin_56acea4a06/i-created-a-cool-swiftui-library-3d86)
 <!-- BLOG-POST-LIST:END -->
 
 ---
