@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [10 Reasons to Upgrade to .NET 9](https://dev.to/antonmartyniuk/10-reasons-to-upgrade-to-net-9-4aml)
-- [Deploying an Application Using CloudFormation with CDN Integration](https://dev.to/azeemah/deploying-an-application-using-cloudformation-with-cdn-integration-36pe)
-- [Embedding Q Business into existing applications](https://dev.to/aws-builders/embedding-q-business-into-existing-applications-3nii)
-- [Feign Client vs Rest Client](https://dev.to/lahiru_rajapakshe_8634adb/feign-client-vs-rest-client-59le)
-- [🚀A Complete Guide to Deep Linking with Custom domain in React Native🚀](https://dev.to/amitkumar13/a-complete-guide-to-deep-linking-with-custom-domain-in-react-native-bj3)
+- [Programming: Three Lessons Learned in 2024](https://dev.to/garciadiazjaime/programming-three-lessons-learned-in-2024-3ik9)
+- [❄️ Dec 30’s, Best 50+ GitHub Repositories – The Last Great Finds of 2024](https://dev.to/gittech/dec-30s-best-50-github-repositories-the-last-great-finds-of-2024-6am)
+- [Introduction to Manual Testing](https://dev.to/sowmithra030398/introduction-to-manual-testing-2g1j)
+- [Wait, are we just handing over system access to the AI agents?](https://dev.to/techgirl1908/wait-are-we-just-handing-over-system-access-to-the-ai-agents-3g5p)
+- [Calling all Replit users!](https://dev.to/mileswk/calling-all-replit-users-3l72)
 <!-- BLOG-POST-LIST:END -->
 
 ---
