@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [JeKa: The Simplest Way to Publish on Maven Central](https://dev.to/djeang/jeka-the-simplest-way-to-publish-on-maven-central-f14)
-- [Using Grammarly in Dev.to](https://dev.to/mjoycemilburn/using-grammarly-in-devto-4cd5)
-- [How to Remove the Noindex Tag in WordPress](https://dev.to/zyodigitals/how-to-remove-the-noindex-tag-in-wordpress-pc6)
-- [How to Fix a Hacked WordPress Site: A Beginner&#39;s Guide](https://dev.to/vega12/how-to-fix-a-hacked-wordpress-site-a-beginners-guide-484g)
-- [2024 - Ultimate guide to LLM analysis using NLP standalone](https://dev.to/10kvclockman_e437cfe2a8e8/2024-ultimate-guide-to-llm-analysis-using-nlp-standalone-3mif)
+- [Best Figma Plugins for Designers](https://dev.to/builderio/best-figma-plugins-for-designers-4m5)
+- [Module 1: Introduction to Amazon Web Services](https://dev.to/ehtesham_ali_abc367f36a5b/module-1-introduction-to-amazon-web-services-365m)
+- [LONG METHOD FIXES You Never Knew You Needed!](https://dev.to/karell_stemarie_ce42bf9c/long-method-fixes-you-never-knew-you-needed-3oba)
+- [10 Modern Web Performance Hacks That Boosted Our Site Speed by 300% 🚀](https://dev.to/akashakki/10-modern-web-performance-hacks-that-boosted-our-site-speed-by-300-ba4)
+- [Cracking AWS Certifications: A Guide From Beginner to Pro](https://dev.to/aws-builders/cracking-aws-certifications-a-guide-from-beginner-to-pro-3o05)
 <!-- BLOG-POST-LIST:END -->
 
 ---
