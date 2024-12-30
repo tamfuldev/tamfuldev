@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Deref Coercion: Rust’s Polite Butler](https://dev.to/mdabir1203/deref-coercion-rusts-polite-butler-260m)
-- [WorldWide-chat](https://dev.to/hito/worldwide-chat-mpb)
-- [Solving the Weekly Challenge 302 Task 2: Step by Step in Python](https://dev.to/rcmcintosh/solving-the-weekly-challenge-302-task-2-step-by-step-in-python-61g)
-- [Solving the Weekly Challenge 302 Task 1: Ones and Zeroes in Python](https://dev.to/rcmcintosh/solving-the-weekly-challenge-302-task-1-ones-and-zeroes-in-python-o5o)
-- [A Workflow for Deploying Application Code with Terraform](https://dev.to/otumiky/a-workflow-for-deploying-application-code-with-terraform-37ph)
+- [My React Journey: Day 27](https://dev.to/ayoola_damilare_212d5bde0/my-react-journey-day-27-49b8)
+- [fmod in PyTorch](https://dev.to/hyperkai/fmod-in-pytorch-5bcp)
+- [remainder in PyTorch](https://dev.to/hyperkai/remainder-in-pytorch-418l)
+- [### Flutter vs. React Native: Which Mobile Framework Will You Choose in 2025?](https://dev.to/respect17/-flutter-vs-react-native-which-mobile-framework-will-you-choose-in-2025-53hd)
+- [mul in PyTorch](https://dev.to/hyperkai/mul-in-pytorch-2i7l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
