@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [😎Debug Like a Pro in 2025🧑‍💻](https://dev.to/dev_kiran/debug-like-a-pro-in-2025-3lg1)
-- [BCMS Wrapped 2024: Top tracks &amp; top achievements](https://dev.to/momciloo/bcms-wrapped-2024-top-tracks-top-achievements-2o75)
-- [Build and Deploy a Monorepo WebSocket web application with Turbo, Express, and Vite on Render Using Docker](https://dev.to/jenchen/build-and-deploy-a-monorepo-websocket-web-application-with-turbo-express-and-vite-on-render-using-4ido)
-- [Boost Your Dev Skills with Inspect Element Shortcuts](https://dev.to/swiftproxy_residential/boost-your-dev-skills-with-inspect-element-shortcuts-47od)
-- [How to Reduce IT Costs with NetSuite’s Cloud-Based Architecture](https://dev.to/emphorasoft_70e7d6ed63b31/how-to-reduce-it-costs-with-netsuites-cloud-based-architecture-gdd)
+- [How to Start Building APIs in 2025: A Comprehensive Guide🔥🔥](https://dev.to/apilover/how-to-start-building-apis-in-2025-a-comprehensive-guide-58k5)
+- [My Journey Building an Inventory Management System as a Beginner Developer](https://dev.to/makechi02/my-journey-building-an-inventory-management-system-as-a-beginner-developer-2hpa)
+- [Building a Secure Web Application with AWS VPC, RDS, and a Simple Registration Page](https://dev.to/radurga/building-a-secure-web-application-with-aws-vpc-rds-and-a-simple-registration-page-248)
+- [Effective Data Collection for Businesses: Why Web Scraping is Essential](https://dev.to/alexandra_9f270c00e928716/effective-data-collection-for-businesses-why-web-scraping-is-essential-901)
+- [Controlled &amp; Uncontrolled Inputs](https://dev.to/matin676/controlled-uncontrolled-inputs-24ca)
 <!-- BLOG-POST-LIST:END -->
 
 ---
