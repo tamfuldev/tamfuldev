@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Check and Fix Memory Leaks in React Applications](https://dev.to/futuristicgeeks/how-to-check-and-fix-memory-leaks-in-react-applications-567b)
-- [Простая задача с собеседования в Google: Merge Strings Alternately](https://dev.to/faangmaster/prostaia-zadacha-s-sobiesiedovaniia-v-google-merge-strings-alternately-1aa3)
-- [Implementing a Scalable Forex WebSocket Using a Python Proxy](https://dev.to/shridhargv/implementing-a-scalable-forex-websocket-using-a-python-proxy-3ba0)
-- [Conquer Tedious Tasks with These 10 Python Automation Scripts](https://dev.to/the_infinity/conquer-tedious-tasks-with-these-10-python-automation-scripts-42ea)
-- [My Experience at CascadiaJS 2024: Insights](https://dev.to/klesand/my-experience-at-cascadiajs-2024-insights-507j)
+- [Server side Rendering Vs Server components. Explanation with example.](https://dev.to/hoshdev/server-side-rendering-vs-server-components-explanation-with-example-683)
+- [&lt;/2024&gt;](https://dev.to/fmerian/-d4m)
+- [Taking a look at Tiering of AWS ever-evolving File Storage services!](https://dev.to/yoshikifujiwara/taking-a-look-at-tiering-of-aws-ever-evolving-file-storage-services-24l6)
+- [Exploring the Main Properties of Tailwind CSS in Next.js!](https://dev.to/hexa-home/exploring-the-main-properties-of-tailwind-css-in-nextjs-8b9)
+- [2024 Git Wrapped](https://dev.to/nuhmanpk/2024-git-wrapped-4ogi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
