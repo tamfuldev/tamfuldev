@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Deck the Halls &lpar;and Inboxes&rpar; with a DIY Digital Postcard App](https://dev.to/ideradevtools/deck-the-halls-and-inboxes-with-a-diy-digital-postcard-app-204o)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-p8l)
-- [Part 3: Orchestrating with Nginx and Docker](https://dev.to/devwithshreyash/part-3-orchestrating-with-nginx-and-docker-4p0k)
-- [Launching open.whiskay.dev](https://dev.to/whiskay/launching-openwhiskaydev-5fk)
-- [The Evolution of Machine Learning and Natural Language Processing to Transformers: A Journey Through Time](https://dev.to/imsushant12/the-evolution-of-machine-learning-and-natural-language-processing-to-transformers-a-journey-19ic)
+- [Beginner Python Project: Build an Augmented Reality Drawing App Using OpenCV and Mediapipe](https://dev.to/vishaaxl/beginner-python-project-build-an-augmented-reality-drawing-app-using-opencv-and-mediapipe-19kl)
+- [The Ever-Expanding World of AI: What&#39;s Trending Now?](https://dev.to/aigurux/the-ever-expanding-world-of-ai-whats-trending-now-k7l)
+- [Choosing the Right Software Development Company for Startups: A 2024 Guide](https://dev.to/jetthoughts/choosing-the-right-software-development-company-for-startups-a-2024-guide-59hj)
+- [[Boost]](https://dev.to/moibra/-38od)
+- [How to make money contributing to Open-Source](https://dev.to/rogueloop/how-to-make-money-contributing-to-open-source-380p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
