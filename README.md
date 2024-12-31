@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Seven ways to Secure Your EC2 Instance on AWS](https://dev.to/ayindejamiu/seven-ways-to-secure-your-ec2-instance-on-aws-3pjc)
-- [Shopify CLI: Setting Up Your Local Environment Made Simple](https://dev.to/younis-ahmed/shopify-cli-setting-up-your-local-environment-made-simple-1555)
-- [Progress Over Perfection: A Year of Progress](https://dev.to/richardshaju/progress-over-perfection-a-year-of-progress-392c)
-- [🌐 Migrating from Monolithic to Microservices Architecture: A Developer&#39;s Guide 🚀](https://dev.to/info_generalhazedawn_a3d/-migrating-from-monolithic-to-microservices-architecture-a-developers-guide-20i9)
-- [The Future of Artificial Intelligence: Transforming the World](https://dev.to/dia_coding/the-future-of-artificial-intelligence-transforming-the-world-4hjg)
+- [How to read ip addr output on Linux](https://dev.to/pikotutorial/how-to-read-ip-addr-output-on-linux-fnj)
+- [Show or Hide a Div Based on Select Option in JavaScript](https://dev.to/askyt/show-or-hide-a-div-based-on-select-option-in-javascript-57el)
+- [Show an Element if a Checkbox is checked using JavaScript](https://dev.to/askyt/show-an-element-if-a-checkbox-is-checked-using-javascript-35pe)
+- [HuggingFace login on Google Colab](https://dev.to/0xkoji/huggingface-login-on-google-colab-54ek)
+- [Terraform](https://dev.to/b1n4ry9h0s7/terraform-3j8g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
