@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [A Cost-Effective Guide to prepare and pass the KCNA](https://dev.to/bongoe/a-cost-effective-guide-to-prepare-and-pass-the-kcna-3fge)
+- [A Straightforward Guide to Building and Using a JSON Database File](https://dev.to/p-rf/a-straightforward-guide-to-building-and-using-a-json-database-file-5a3h)
 - [From Alert to Action: Investigating a Possible Phishing URL](https://dev.to/gabrieloc/from-alert-to-action-investigating-a-possible-phishing-url-1e7p)
 - [Aprende a instalar Docker en una instancia EC2 con Amazon Linux 2023 y Ubuntu](https://dev.to/briansuarezsantiago/aprende-a-instalar-docker-en-una-instancia-ec2-con-amazon-linux-2023-y-ubuntu-3ncn)
 - [any in PyTorch](https://dev.to/hyperkai/any-in-pytorch-c7p)
-- [all in PyTorch](https://dev.to/hyperkai/all-in-pytorch-32de)
-- [What is pgAdmin?](https://dev.to/said_olano/what-is-pgadmin-2of)
 <!-- BLOG-POST-LIST:END -->
 
 ---
