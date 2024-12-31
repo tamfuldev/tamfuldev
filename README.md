@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Testcontainers for kafka](https://dev.to/said_olano/testcontainers-for-kafka-4c2o)
-- [Traefik using owned SSL certificate](https://dev.to/jhonoryza/traefik-using-owned-ssl-certificate-2b4n)
-- [Apache Avro](https://dev.to/said_olano/apache-avro-2a81)
-- [How to deal with problems caused by frequent IP access when crawling?](https://dev.to/98ip/how-to-deal-with-problems-caused-by-frequent-ip-access-when-crawling-533n)
-- [I need help choosing a framework.](https://dev.to/koen_stewart_f2b51f676687/i-need-help-choosing-a-framework-1c0d)
+- [Software Testing](https://dev.to/50_yuvashrees_70d09a9fc9/software-testing-1p4i)
+- [update notepad++](https://dev.to/longtth/update-notepad-32nc)
+- [Water bottle task](https://dev.to/hema_latha/water-bottle-task-5dd7)
+- [What I Learned Today](https://dev.to/tayodaniel/what-i-learned-today-4ph5)
+- [Debugging in Xcode: Tips to Save Your Time 🛠️](https://dev.to/divyeshvekariya/mastering-debugging-in-xcode-tips-to-save-your-time-561b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
