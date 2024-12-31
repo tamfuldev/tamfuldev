@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Server side Rendering Vs Server components. Explanation with example.](https://dev.to/hoshdev/server-side-rendering-vs-server-components-explanation-with-example-683)
-- [&lt;/2024&gt;](https://dev.to/fmerian/-d4m)
-- [Taking a look at Tiering of AWS ever-evolving File Storage services!](https://dev.to/yoshikifujiwara/taking-a-look-at-tiering-of-aws-ever-evolving-file-storage-services-24l6)
-- [Exploring the Main Properties of Tailwind CSS in Next.js!](https://dev.to/hexa-home/exploring-the-main-properties-of-tailwind-css-in-nextjs-8b9)
-- [2024 Git Wrapped](https://dev.to/nuhmanpk/2024-git-wrapped-4ogi)
+- [❄️Happy New Year Dev.to! My results for 2024 ❄️](https://dev.to/anthonymax/happy-new-year-devto-my-results-for-2024-2m03)
+- [Large Dataset - Pipeline, Seamless Scale-Up and Scale-Down](https://dev.to/vaibhav9017/large-dataset-pipeline-seamless-scale-up-and-scale-down-52bj)
+- [Changing an established SSH connection without disconnecting](https://dev.to/rafael_mori/changing-an-established-ssh-connection-without-disconnecting-p3c)
+- [30 Days of Amplify 2024](https://dev.to/aws-builders/30-days-of-amplify-2024-3n72)
+- [A Complete Guide to Creating Tasks in Jira: From Epics to Bugs 🌟](https://dev.to/pro-project-mngr/a-complete-guide-to-creating-tasks-in-jira-from-epics-to-bugs-d08)
 <!-- BLOG-POST-LIST:END -->
 
 ---
