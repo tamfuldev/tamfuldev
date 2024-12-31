@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Beginner Python Project: Build an Augmented Reality Drawing App Using OpenCV and Mediapipe](https://dev.to/vishaaxl/beginner-python-project-build-an-augmented-reality-drawing-app-using-opencv-and-mediapipe-19kl)
-- [The Ever-Expanding World of AI: What&#39;s Trending Now?](https://dev.to/aigurux/the-ever-expanding-world-of-ai-whats-trending-now-k7l)
-- [Choosing the Right Software Development Company for Startups: A 2024 Guide](https://dev.to/jetthoughts/choosing-the-right-software-development-company-for-startups-a-2024-guide-59hj)
-- [[Boost]](https://dev.to/moibra/-38od)
-- [How to make money contributing to Open-Source](https://dev.to/rogueloop/how-to-make-money-contributing-to-open-source-380p)
+- [Just sent our final email of the year 😌](https://dev.to/jess/just-sent-our-final-email-of-the-year-1djo)
+- [From C# to Haskell and Back Again: My Journey into Functional Programming](https://dev.to/rjcg916/from-c-to-haskell-and-back-again-my-journey-into-functional-programming-38l7)
+- [A happy new year to everyone in Python!](https://dev.to/evertontenorio/a-happy-new-year-to-everyone-in-python-pmb)
+- [Chat App Deploy on Kubernetes Using Kind, Metallb and Ingress](https://dev.to/kamruzzaman/chat-app-deploy-on-kubernetes-using-kind-metallb-and-ingress-2e3)
+- [Time Zones and Offsets and ObjectScript, Oh My!](https://dev.to/intersystems/time-zones-and-offsets-and-objectscript-oh-my-4p39)
 <!-- BLOG-POST-LIST:END -->
 
 ---
