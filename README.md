@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to read ip addr output on Linux](https://dev.to/pikotutorial/how-to-read-ip-addr-output-on-linux-fnj)
-- [Show or Hide a Div Based on Select Option in JavaScript](https://dev.to/askyt/show-or-hide-a-div-based-on-select-option-in-javascript-57el)
-- [Show an Element if a Checkbox is checked using JavaScript](https://dev.to/askyt/show-an-element-if-a-checkbox-is-checked-using-javascript-35pe)
-- [HuggingFace login on Google Colab](https://dev.to/0xkoji/huggingface-login-on-google-colab-54ek)
-- [Terraform](https://dev.to/b1n4ry9h0s7/terraform-3j8g)
+- [😎Debug Like a Pro in 2025🧑‍💻](https://dev.to/dev_kiran/debug-like-a-pro-in-2025-3lg1)
+- [BCMS Wrapped 2024: Top tracks &amp; top achievements](https://dev.to/momciloo/bcms-wrapped-2024-top-tracks-top-achievements-2o75)
+- [Build and Deploy a Monorepo WebSocket web application with Turbo, Express, and Vite on Render Using Docker](https://dev.to/jenchen/build-and-deploy-a-monorepo-websocket-web-application-with-turbo-express-and-vite-on-render-using-4ido)
+- [Boost Your Dev Skills with Inspect Element Shortcuts](https://dev.to/swiftproxy_residential/boost-your-dev-skills-with-inspect-element-shortcuts-47od)
+- [How to Reduce IT Costs with NetSuite’s Cloud-Based Architecture](https://dev.to/emphorasoft_70e7d6ed63b31/how-to-reduce-it-costs-with-netsuites-cloud-based-architecture-gdd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
