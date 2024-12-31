@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Start Building APIs in 2025: A Comprehensive Guide🔥🔥](https://dev.to/apilover/how-to-start-building-apis-in-2025-a-comprehensive-guide-58k5)
-- [My Journey Building an Inventory Management System as a Beginner Developer](https://dev.to/makechi02/my-journey-building-an-inventory-management-system-as-a-beginner-developer-2hpa)
-- [Building a Secure Web Application with AWS VPC, RDS, and a Simple Registration Page](https://dev.to/radurga/building-a-secure-web-application-with-aws-vpc-rds-and-a-simple-registration-page-248)
-- [Effective Data Collection for Businesses: Why Web Scraping is Essential](https://dev.to/alexandra_9f270c00e928716/effective-data-collection-for-businesses-why-web-scraping-is-essential-901)
-- [Controlled &amp; Uncontrolled Inputs](https://dev.to/matin676/controlled-uncontrolled-inputs-24ca)
+- [Test, review &amp; document your code with Amazon Q Developer](https://dev.to/welcloud-io/test-review-document-your-code-with-amazon-q-developer-19cf)
+- [My 2024 Unwrap &lpar;of course, it&#39;s not a must-read&rpar;](https://dev.to/rohan_sharma/my-2024-unwrap-of-course-its-not-a-must-read-4ap6)
+- [7 Essential Python Decorator Patterns for Cleaner, More Efficient Code](https://dev.to/aaravjoshi/7-essential-python-decorator-patterns-for-cleaner-more-efficient-code-36fe)
+- [Integrating SvelteKit with Storyblok &lpar;Using Svelte 5&rpar;](https://dev.to/robertobutti/integrating-sveltekit-with-storyblok-using-svelte-5-384p)
+- [Web3 Reality Check: How Blockchain is Solving Real-World Problems](https://dev.to/cryptosandy/web3-reality-check-how-blockchain-is-solving-real-world-problems-1pi0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
