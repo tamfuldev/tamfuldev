@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Secure TypeScript Applications...??](https://dev.to/shafayeat/how-to-secure-typescript-applications-5a27)
-- [React Native’s New Architecture: Sync and async rendering](https://dev.to/leemeganj/react-natives-new-architecture-sync-and-async-rendering-1d7f)
-- [Happy 11111101001! Join our New Year Writing Challenge 🔮](https://dev.to/devteam/happy-11111101001-join-our-new-year-writing-challenge-43g4)
-- [🎉 Let&#39;s Build an AI Twitter Post Project Using Gemini API, Next.js, and TailwindCSS 🚀](https://dev.to/jagroop2001/lets-build-an-ai-twitter-post-project-using-gemini-api-nextjs-and-tailwindcss-3194)
-- [📉 Why Improving Your AI Model Is Killing Your Project’s Success](https://dev.to/louis-dupont/why-improving-your-ai-model-is-killing-your-projects-success-4kkn)
+- [If you think debounce or onblur is not working in React, you can check it.](https://dev.to/mustafacam/if-you-think-debounce-or-onblur-is-not-working-in-react-you-can-check-it-50cd)
+- [Disabling button on api calls in Angular](https://dev.to/tonyshaji/disabling-button-on-api-calls-in-angular-2n17)
+- [A Developer’s Guide to Dependency Mapping](https://dev.to/yayabobi/a-developers-guide-to-dependency-mapping-2apd)
+- [Consejos para evitar robos en tiendas](https://dev.to/sysmaya/consejos-para-evitar-robos-en-tiendas-30ed)
+- [Setting Up Neovim](https://dev.to/jhonoryza/setting-up-neovim-3dh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
