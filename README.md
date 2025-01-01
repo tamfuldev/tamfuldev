@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Launching a Freelancer Platform: Be Seen First Forever for Just £10](https://dev.to/vulcanwm/launching-a-freelancer-platform-be-seen-first-forever-for-just-ps10-45a2)
-- [Strategic Ways to Stay Away from Office Politics](https://dev.to/nozibul_islam_113b1d5334f/strategic-ways-to-stay-away-from-office-politics-28o6)
-- [How I make same money as software engineer in Canada being a Solo Founder [ Founder Diaries ]](https://dev.to/darkinventor/my-journey-as-a-developer-and-founder-founder-diaries--28ej)
-- [🚀 Demystifying Golang Concurrency: Channels and Select🚀](https://dev.to/architagr/demystifying-golang-concurrency-channels-and-select-2dga)
-- [DevSecops Tools in CICD Pipeline](https://dev.to/akhil_mittal/devsecops-tools-in-cicd-pipeline-42b5)
+- [The Case for Build-Time Micro Frontends](https://dev.to/msm8/the-case-for-build-time-micro-frontends-2a6f)
+- [Matanuska ADR 006 - Runtime Exit](https://dev.to/jfhbrook/matanuska-adr-006-runtime-exit-34jg)
+- [Navigating Challenges: Reflections on My Career Journey](https://dev.to/yetesfa/navigating-challenges-reflections-on-my-career-journey-34p0)
+- [snackbar in flutter](https://dev.to/2025_25258d57b869e4005098/snackbar-in-flutter-1e9a)
+- [🚀 Calling All Innovators and Developers!](https://dev.to/soorajsuresh/calling-all-innovators-and-developers-2fag)
 <!-- BLOG-POST-LIST:END -->
 
 ---
