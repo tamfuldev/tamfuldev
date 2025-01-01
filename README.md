@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Onion: A Minimalist Wrapper for Go’s HTTP Module](https://dev.to/saeed_alam_b4e7b1ce1517a2/onion-a-minimalist-wrapper-for-gos-http-module-50if)
-- [Daily JavaScript Challenge #JS-61: Next Greater Element in Circular Array](https://dev.to/dpc/daily-javascript-challenge-js-61-next-greater-element-in-circular-array-2122)
-- [AI in 2025: The Transformation We’re Not Ready For &lpar;Yet&rpar;](https://dev.to/asad1/ai-in-2025-the-transformation-were-not-ready-for-yet-2dkd)
-- [The Ongoing Struggle of Maintaining Sample Apps for APIs and SDKs](https://dev.to/junliang214/the-ongoing-struggle-of-maintaining-sample-apps-for-apis-and-sdks-432p)
-- [Se preferimos composição, então por que os frameworks usam herança?](https://dev.to/terminalcoffee/se-preferimos-composicao-entao-por-que-os-frameworks-usam-heranca-1ce5)
+- [How AI is Changing Software Testing in 2025](https://dev.to/anil_csimplifyit_905c/how-ai-is-changing-software-testing-in-2025-490c)
+- [Configura un servidor GitLab en AWS EC2 en minutos](https://dev.to/briansuarezsantiago/configura-un-servidor-gitlab-en-aws-ec2-en-minutos-2g7l)
+- [Deploying APIs as Microservice with Kubernetes, Docker, and AWS](https://dev.to/azeemah/deploying-apis-as-microservice-with-kubernetes-docker-and-aws-1a79)
+- [React js](https://dev.to/frang1977/react-js-3n8l)
+- [Can we please get articles on here that are not so low effort or lists? I swear all I see on this site are articles that are just top lists that you can tell are from people just reading the articles of others and then just making the same list.](https://dev.to/havocblast/can-we-please-get-articles-on-here-that-are-not-to-low-effort-and-lists-i-swear-all-i-see-on-this-3el8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
