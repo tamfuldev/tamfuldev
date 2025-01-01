@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [If you think debounce or onblur is not working in React, you can check it.](https://dev.to/mustafacam/if-you-think-debounce-or-onblur-is-not-working-in-react-you-can-check-it-50cd)
-- [Disabling button on api calls in Angular](https://dev.to/tonyshaji/disabling-button-on-api-calls-in-angular-2n17)
-- [A Developer’s Guide to Dependency Mapping](https://dev.to/yayabobi/a-developers-guide-to-dependency-mapping-2apd)
-- [Consejos para evitar robos en tiendas](https://dev.to/sysmaya/consejos-para-evitar-robos-en-tiendas-30ed)
-- [Setting Up Neovim](https://dev.to/jhonoryza/setting-up-neovim-3dh)
+- [How To Integrate GitHub Sign-In: A Four Step Guide](https://dev.to/lovestaco/how-to-integrate-github-sign-in-a-four-step-guide-1doj)
+- [🚀 Jan 1, 2025: Start the Year Right with These Top 25+ GitHub Repositories](https://dev.to/gittech/jan-1-2025-start-the-year-right-with-these-top-25-github-repositories-1b73)
+- [Mastering Vim and NvChad for Coding and Development: A Comprehensive Guide](https://dev.to/arjun98k/mastering-vim-and-nvchad-for-coding-and-development-a-comprehensive-guide-5ac5)
+- [Creating AWS Lambda Layers for Python Runtime: A Complete Guide](https://dev.to/rishabdugar/creating-aws-lambda-layers-for-python-runtime-a-complete-guide-3gi0)
+- [Django Authentication Made Easy: A Complete Guide to Registration, Login, and User Management](https://dev.to/ebereplenty/django-authentication-made-easy-a-complete-guide-to-registration-login-and-user-management-2jih)
 <!-- BLOG-POST-LIST:END -->
 
 ---
