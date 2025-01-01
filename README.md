@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dropdown or Radio button options in Azure Devops](https://dev.to/arindam0310018/dropdown-or-radio-button-options-in-azure-devops-2d1f)
-- [Fastest and Cheapest Ways to Delete Millions of Files from Amazon S3](https://dev.to/vijaykodam/fastest-and-cheapest-ways-to-delete-millions-of-files-from-amazon-s3-d3n)
-- [My First Steps with Playwright 🎭: A Tester’s Journey from Selenium](https://dev.to/utkarsh630/my-first-steps-with-playwright-a-testers-journey-from-selenium-4bj1)
-- [Statements VS Expressions with JavaScript](https://dev.to/lawaniej/statements-vs-expressions-with-javascript-5fjc)
-- [Access Control Security: Learning from Major Data Breaches](https://dev.to/pachilo/access-control-security-learning-from-major-data-breaches-m08)
+- [Cybersecurity Understanding the OWASP® Top 10 Security Threats](https://dev.to/marcoatl/cybersecurity-understanding-the-owaspr-top-10-security-threats-59ln)
+- [2025, Starting Today](https://dev.to/envitab/2025-starting-today-72e)
+- [Crafting stories that drive product success](https://dev.to/wdp/crafting-stories-that-drive-product-success-14i4)
+- [&quot;Kubernetes Explained: Benefits, Use Cases, and Why Airbnb,Spotify and CERN Rely on It 🤖&quot;](https://dev.to/lorenzo_tettamanti/kubernetes-explained-benefits-use-cases-and-why-airbnbspotify-and-cern-rely-on-it--315f)
+- [What are your biggest struggles with deploying and managing backend APIs?](https://dev.to/1bye/what-are-your-biggest-struggles-with-deploying-and-managing-backend-apis-1fp5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
