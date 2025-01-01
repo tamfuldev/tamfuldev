@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Melakukan test menggunakan node-plug](https://dev.to/salmantok/melakukan-test-menggunakan-node-plug-12g2)
-- [How to Write a Troubleshooting Guide That Actually Helps Users](https://dev.to/elliot_brenya/how-to-write-a-troubleshooting-guide-that-actually-helps-users-2hh9)
-- [Stuck in the Stone Age? Here’s What Your Outdated Tech Is Costing You!](https://dev.to/tylermorganaqe/stuck-in-the-stone-age-heres-what-your-outdated-tech-is-costing-you-54hm)
-- [IPs Explained: The Address of the Internet](https://dev.to/habdulr1/ips-explained-the-address-of-the-internet-5pc)
-- [Simpel plugin Node.js mendukung sync, callback, promise, dan assert.](https://dev.to/salmantok/simpel-plugin-nodejs-mendukung-sync-callback-promise-dan-assert-2gki)
+- [Launching a Freelancer Platform: Be Seen First Forever for Just £10](https://dev.to/vulcanwm/launching-a-freelancer-platform-be-seen-first-forever-for-just-ps10-45a2)
+- [Strategic Ways to Stay Away from Office Politics](https://dev.to/nozibul_islam_113b1d5334f/strategic-ways-to-stay-away-from-office-politics-28o6)
+- [How I make same money as software engineer in Canada being a Solo Founder [ Founder Diaries ]](https://dev.to/darkinventor/my-journey-as-a-developer-and-founder-founder-diaries--28ej)
+- [🚀 Demystifying Golang Concurrency: Channels and Select🚀](https://dev.to/architagr/demystifying-golang-concurrency-channels-and-select-2dga)
+- [DevSecops Tools in CICD Pipeline](https://dev.to/akhil_mittal/devsecops-tools-in-cicd-pipeline-42b5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
