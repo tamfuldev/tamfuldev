@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Creating and Managing Projects in Jira: A Beginner’s Guide](https://dev.to/nelly_b84b1fd322c02b7ddec/creating-and-managing-projects-in-jira-a-beginners-guide-48h6)
-- [Item 81: Prefira os utilitários de concorrência ao wait e notify](https://dev.to/javaparainiciantes/item-81-prefira-os-utilitarios-de-concorrencia-ao-wait-e-notify-3l5m)
-- [PHP OOP Part-7: Composition vs Inheritance and Dependency Injection](https://dev.to/jamir_hossain_8800f85fdd5/php-oop-part-7-composition-vs-inheritance-and-dependency-injection-chp)
-- [PHP OOP Part-6: Polymorphism](https://dev.to/jamir_hossain_8800f85fdd5/php-oop-part-6-polymorphism-50ob)
-- [Day 9: Unleashing Creativity in Android Development - Crafting a Dynamic Recipe App!](https://dev.to/himagaur2708/day-9-unleashing-creativity-in-android-development-crafting-a-dynamic-recipe-app-4o7a)
+- [Retro&#39;ing and Debugging 2024](https://dev.to/judy_kagia_b0614d39216209/retroing-and-debugging-2024-56d1)
+- [🌟 A Fresh Start with TaskMingle in 2025! 🌟](https://dev.to/nathan_samuel_97a610f3d35/a-fresh-start-with-taskmingle-in-2025-419)
+- [Any Rollbar Typescript users on here?](https://dev.to/rbnkruger/any-rollbar-typescript-users-on-here-3dc5)
+- [Revolutionizing Financial Services in MEA and AWS Cloud Migration](https://dev.to/jessica_williams_8192bc1f/revolutionizing-financial-services-in-mea-and-aws-cloud-migration-1agh)
+- [Aurora DSQL: How it Compares to YugabyteDB](https://dev.to/franckpachot/aurora-dsql-how-it-compares-to-yugabytedb-1ag0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
