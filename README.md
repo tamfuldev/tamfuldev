@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Codewars - Friend or Foe?](https://dev.to/dantedinopegassi/codewars-friend-or-foe-2o0o)
-- [How Can Help You in This Cron JOB Code?](https://dev.to/aneesaali/how-can-help-you-in-this-cron-job-code-433f)
-- [New Year Writing Challenge](https://dev.to/balram_roy_1664bfa3ffbc44/new-year-writing-challenge-3f2b)
-- [Terraform Modules](https://dev.to/574n13y/terraform-modules-4ca9)
-- [#100DAYSOFCODE: Day 7](https://dev.to/isaiahhtml/100daysofcode-day-7-io8)
+- [Creating and Managing Projects in Jira: A Beginner’s Guide](https://dev.to/nelly_b84b1fd322c02b7ddec/creating-and-managing-projects-in-jira-a-beginners-guide-48h6)
+- [Item 81: Prefira os utilitários de concorrência ao wait e notify](https://dev.to/javaparainiciantes/item-81-prefira-os-utilitarios-de-concorrencia-ao-wait-e-notify-3l5m)
+- [PHP OOP Part-7: Composition vs Inheritance and Dependency Injection](https://dev.to/jamir_hossain_8800f85fdd5/php-oop-part-7-composition-vs-inheritance-and-dependency-injection-chp)
+- [PHP OOP Part-6: Polymorphism](https://dev.to/jamir_hossain_8800f85fdd5/php-oop-part-6-polymorphism-50ob)
+- [Day 9: Unleashing Creativity in Android Development - Crafting a Dynamic Recipe App!](https://dev.to/himagaur2708/day-9-unleashing-creativity-in-android-development-crafting-a-dynamic-recipe-app-4o7a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
