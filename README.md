@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to setup VueJs in Neovim &lpar;January 2025&rpar;](https://dev.to/ionut_gabrielmarisescu_f/how-to-setup-vuejs-in-neovim-january-2025-39bi)
-- [Selenium Testing: The Complete Step-by-Step Tutorial](https://dev.to/testifytech/selenium-testing-the-complete-step-by-step-tutorial-8b2)
-- [Docker para Jrs #2: Imágenes y Contenedores 🍰](https://dev.to/gareisdev/docker-para-jrs-2-imagenes-y-contenedores-18a3)
-- [Devnax](https://dev.to/devnax/devnax-3glm)
-- [🚀 Your Daily Crypto Job Digest For 02 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-02-january-4f0b)
+- [Do you guys think that Stackoverflow is too strict?](https://dev.to/codemonster240/do-you-guys-think-that-stackoverflow-is-too-strict-3mbk)
+- [Security Best Practices in Custom CMS Development](https://dev.to/dedote/security-best-practices-in-custom-cms-development-42pp)
+- [Start Left vs Shift Left: Preventing Deployment Failures with Proactive Strategies](https://dev.to/bcherlapally/start-left-vs-shift-left-preventing-deployment-failures-with-proactive-strategies-2fgf)
+- [Explaining Transaction Count as Important Constraint for adding additional AWS Kinesis Consumers](https://dev.to/pkutaj/explaining-transaction-count-as-important-constraint-for-adding-additional-aws-kinesis-consumers-1837)
+- [Software Development in 2025](https://dev.to/cli_2025/software-dev-in-2025-2cc0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
