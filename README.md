@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Do you guys think that Stackoverflow is too strict?](https://dev.to/codemonster240/do-you-guys-think-that-stackoverflow-is-too-strict-3mbk)
-- [Security Best Practices in Custom CMS Development](https://dev.to/dedote/security-best-practices-in-custom-cms-development-42pp)
-- [Start Left vs Shift Left: Preventing Deployment Failures with Proactive Strategies](https://dev.to/bcherlapally/start-left-vs-shift-left-preventing-deployment-failures-with-proactive-strategies-2fgf)
-- [Explaining Transaction Count as Important Constraint for adding additional AWS Kinesis Consumers](https://dev.to/pkutaj/explaining-transaction-count-as-important-constraint-for-adding-additional-aws-kinesis-consumers-1837)
-- [Software Development in 2025](https://dev.to/cli_2025/software-dev-in-2025-2cc0)
+- [Previewing and comparing fonts directly on your website?](https://dev.to/paul_freeman/previewing-and-comparing-fonts-directly-on-your-website-3c5e)
+- [Prefix Sum](https://dev.to/mujahida_joynab_64c7407d8/prefix-sum-2ig8)
+- [Use Amazon Bedrock Models with OpenAI SDKs with a Serverless Proxy Endpoint - Without Fixed Cost!](https://dev.to/aws-builders/use-amazon-bedrock-models-via-an-openai-api-compatible-serverless-endpoint-now-without-fixed-cost-5hf5)
+- [Free Obsidian PC Android sync](https://dev.to/matsch1/free-obsidian-pc-android-sync-jm5)
+- [Understanding Corporate Culture](https://dev.to/shreyash-hexa/understanding-corporate-culture-2m41)
 <!-- BLOG-POST-LIST:END -->
 
 ---
