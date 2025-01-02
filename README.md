@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Personal Portfolio | NexT JS](https://dev.to/shubhamtiwari909/personal-portfolio-next-js-35gf)
-- [Learn how to create a basic Kanban board with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/learn-how-to-create-a-basic-kanban-board-with-tailwind-css-and-javascript-2dj3)
-- [Telemetry and Tracing: A Comprehensive Overview](https://dev.to/pragyasapkota/telemetry-and-tracing-a-comprehensive-overview-4fj3)
-- [OSPF &lpar;Open Shortest Path First&rpar; - Backbone Area &lpar;Area 0&rpar; dan Fail Over](https://dev.to/heavenaulianisa/ospf-open-shortest-path-first-backbone-area-area-0-dan-fail-over-1j39)
-- [🚀 Build BigCommerce Apps 10x Faster with Gadget!](https://dev.to/devkind_team_87470192adf9/build-bigcommerce-apps-10x-faster-with-gadget-9pa)
+- [How to Track Plugins on WordPress.org?](https://dev.to/dmtlo/how-to-track-plugins-on-wordpressorg-1c8k)
+- [My Vision for 2025: A Year of Growth, Innovation, and Impact](https://dev.to/shikhar_sen_885f39d759ded/my-vision-for-2025-a-year-of-growth-innovation-and-impact-5702)
+- [Hello Dev !](https://dev.to/yaswanth8327/hello-dev--2ojj)
+- [Hello Dev Community!](https://dev.to/yaswanth8327/hello-dev-community-1173)
+- [Hands-On Guide: Building a Calendar Generator with HTML, CSS, and JavaScript for Beginners](https://dev.to/sarkaramitabh300/hands-on-guide-building-a-calendar-generator-with-html-css-and-javascript-for-beginners-2ai7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
