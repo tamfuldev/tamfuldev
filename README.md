@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Process Management: Operating System](https://dev.to/harshm03/process-management-operating-system-18gl)
-- [Common Lisp HTML templates: using Djula in .lisp files](https://dev.to/vindarel/common-lisp-html-templates-using-djula-in-lisp-files-4e64)
-- [Kubernetes Network &lpar;5&rpar; -- Ingress and NodePort](https://dev.to/cheedge_lee/kubernetes-network-5-ingress-and-nodeport-329i)
-- [Unveiling Real-Time Communication: WebSockets and You](https://dev.to/jfreveb/unveiling-real-time-communication-websockets-and-you-5eib)
-- [Understanding and Preventing Fetch Waterfalls in React](https://dev.to/richardbray/understanding-and-preventing-fetch-waterfalls-in-react-454k)
+- [Handling Dynamic Preview URLs in Cypress Tests](https://dev.to/qaproengineer/handling-dynamic-preview-urls-in-cypress-tests-2k91)
+- [A Throwback to My Holberton Days: Crafting a Simple Shell in C](https://dev.to/arycodes0/a-throwback-to-my-holberton-days-crafting-a-simple-shell-in-c-1915)
+- [Troubleshooting &quot;canceling statement due to conflict with recovery&quot; in PostgreSQL: A Practical Guide](https://dev.to/dm8ry/troubleshooting-canceling-statement-due-to-conflict-with-recovery-in-postgresql-a-practical-guide-55h7)
+- [Taking LLMs to &lpar;code&rpar; town - part II. Creating a vanilla.js web component toolchain from ground up](https://dev.to/sebs/taking-llms-to-code-town-part-ii-creating-a-vanillajs-web-component-toolchain-from-ground-up-mi9)
+- [JCA &amp; JCE : Le guide crypto du développeur Java qui ne veut pas chiffrer à l&#39;aveugle 😎](https://dev.to/kebademe/jca-jce-le-guide-crypto-du-developpeur-java-qui-ne-veut-pas-chiffrer-a-laveugle-1b62)
 <!-- BLOG-POST-LIST:END -->
 
 ---
