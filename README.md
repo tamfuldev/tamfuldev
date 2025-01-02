@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Neon Theme Using Tailwind CSS](https://dev.to/ingeborg_adolfs_c414578af/creating-a-neon-theme-using-tailwind-css-1fm9)
-- [Simplify Debugging with cl-print: A Handy Tool for Node.js Developers](https://dev.to/gitkrishnaa/simplify-debugging-with-cl-print-a-handy-tool-for-nodejs-developers-1329)
-- [Shaping the Future: Tech Trends and Predictions for 2025](https://dev.to/tjsyte/shaping-the-future-tech-trends-and-predictions-for-2025-3562)
-- [Stocks vs. ETFs: Key Differences and Investment Strategies](https://dev.to/cryptogem123/stocks-vs-etfs-key-differences-and-investment-strategies-4e0o)
-- [Reflecting on 2024 and Preparing for Growth in 2025](https://dev.to/tjsyte/reflecting-on-2024-and-preparing-for-growth-in-2025-44ce)
+- [PHP, Python, Node.js, which one is the most suitable for writing crawlers?](https://dev.to/98ip/php-python-nodejs-which-one-is-the-most-suitable-for-writing-crawlers-2j3p)
+- [Arquitectura Medallion para procesamiento de datos](https://dev.to/andresguecha/arquitectura-medallion-para-procesamiento-de-datos-736)
+- [Assignment](https://dev.to/hema_latha/assignment-65f)
+- [Delta Lake de datos](https://dev.to/andresguecha/delta-lake-de-datos-26mh)
+- [Ejemplo basico de aplicacion web para visualizacion de datos con Streamlit + Python](https://dev.to/andresguecha/ejemplo-basico-de-aplicacion-web-para-visualizacion-de-datos-con-streamlit-python-4oh7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
