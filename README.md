@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Cybersecurity Understanding the OWASP® Top 10 Security Threats](https://dev.to/marcoatl/cybersecurity-understanding-the-owaspr-top-10-security-threats-59ln)
-- [2025, Starting Today](https://dev.to/envitab/2025-starting-today-72e)
-- [Crafting stories that drive product success](https://dev.to/wdp/crafting-stories-that-drive-product-success-14i4)
-- [&quot;Kubernetes Explained: Benefits, Use Cases, and Why Airbnb,Spotify and CERN Rely on It 🤖&quot;](https://dev.to/lorenzo_tettamanti/kubernetes-explained-benefits-use-cases-and-why-airbnbspotify-and-cern-rely-on-it--315f)
-- [What are your biggest struggles with deploying and managing backend APIs?](https://dev.to/1bye/what-are-your-biggest-struggles-with-deploying-and-managing-backend-apis-1fp5)
+- [BEST PRACTICES FOR DEFINING METRICS](https://dev.to/favxlaw/best-practices-for-defining-metrics-20ka)
+- [Events in Node.js](https://dev.to/msnmongare/events-in-nodejs-381d)
+- [Typescript and HTML attributes in various frameworks](https://dev.to/baohuynhlam/typescript-and-html-attributes-in-various-frameworks-38j8)
+- [AI for Human-Centric Testing](https://dev.to/anil_csimplifyit_905c/ai-for-human-centric-testing-2b93)
+- [Prognostication of Tech 2025](https://dev.to/mikejet/prognostication-of-tech-2025-2877)
 <!-- BLOG-POST-LIST:END -->
 
 ---
