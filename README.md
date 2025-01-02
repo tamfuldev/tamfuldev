@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Handling Dynamic Preview URLs in Cypress Tests](https://dev.to/qaproengineer/handling-dynamic-preview-urls-in-cypress-tests-2k91)
-- [A Throwback to My Holberton Days: Crafting a Simple Shell in C](https://dev.to/arycodes0/a-throwback-to-my-holberton-days-crafting-a-simple-shell-in-c-1915)
-- [Troubleshooting &quot;canceling statement due to conflict with recovery&quot; in PostgreSQL: A Practical Guide](https://dev.to/dm8ry/troubleshooting-canceling-statement-due-to-conflict-with-recovery-in-postgresql-a-practical-guide-55h7)
-- [Taking LLMs to &lpar;code&rpar; town - part II. Creating a vanilla.js web component toolchain from ground up](https://dev.to/sebs/taking-llms-to-code-town-part-ii-creating-a-vanillajs-web-component-toolchain-from-ground-up-mi9)
-- [JCA &amp; JCE : Le guide crypto du développeur Java qui ne veut pas chiffrer à l&#39;aveugle 😎](https://dev.to/kebademe/jca-jce-le-guide-crypto-du-developpeur-java-qui-ne-veut-pas-chiffrer-a-laveugle-1b62)
+- [Las claves para NO romperlo TODO: Branches en Git 🚨🔑](https://dev.to/missa_eng/las-claves-para-no-romperlo-todo-branches-en-git-5amb)
+- [Terraform Cookbook: Development Environment Recipe](https://dev.to/zidenis/terraform-cookbook-development-environment-recipe-3k57)
+- [Monitoring AWS RDS Postgres Parameter Changes](https://dev.to/dm8ry/monitoring-aws-rds-postgres-parameter-changes-5c41)
+- [Guia: O que é SOLID](https://dev.to/mmsfarias/solid-55aa)
+- [Creating a To-Do app with Django and HTMX - Part 4: adding new Todos](https://dev.to/rodbv/creating-a-to-do-app-with-django-and-htmx-part-4-adding-new-todos-23f6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
