@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Best Practices for Writing Code in Tailwind CSS!](https://dev.to/hexa-home/best-practices-for-writing-code-in-tailwind-css-19lg)
-- [Unlocking the Magic of JavaScript Functions](https://dev.to/thedevricha/unlocking-the-magic-of-javascript-functions-1e2)
-- [Understanding Javascript Functions](https://dev.to/thedevricha/understanding-javascript-functions-40hn)
-- [[Boost]](https://dev.to/cristiansarmiento/-4bc8)
-- [UkrGuru.Sql &lpar;.NET &lt;=&gt; SQL&rpar;](https://dev.to/ukrguru/ukrgurusql-net-sql-2c0l)
+- [How to setup VueJs in Neovim &lpar;January 2025&rpar;](https://dev.to/ionut_gabrielmarisescu_f/how-to-setup-vuejs-in-neovim-january-2025-39bi)
+- [Selenium Testing: The Complete Step-by-Step Tutorial](https://dev.to/testifytech/selenium-testing-the-complete-step-by-step-tutorial-8b2)
+- [Docker para Jrs #2: Imágenes y Contenedores 🍰](https://dev.to/gareisdev/docker-para-jrs-2-imagenes-y-contenedores-18a3)
+- [Devnax](https://dev.to/devnax/devnax-3glm)
+- [🚀 Your Daily Crypto Job Digest For 02 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-02-january-4f0b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
