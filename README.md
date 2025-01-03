@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Las claves para NO romperlo TODO: Branches en Git 🚨🔑](https://dev.to/missa_eng/las-claves-para-no-romperlo-todo-branches-en-git-5amb)
-- [Terraform Cookbook: Development Environment Recipe](https://dev.to/zidenis/terraform-cookbook-development-environment-recipe-3k57)
-- [Monitoring AWS RDS Postgres Parameter Changes](https://dev.to/dm8ry/monitoring-aws-rds-postgres-parameter-changes-5c41)
-- [Guia: O que é SOLID](https://dev.to/mmsfarias/solid-55aa)
-- [Creating a To-Do app with Django and HTMX - Part 4: adding new Todos](https://dev.to/rodbv/creating-a-to-do-app-with-django-and-htmx-part-4-adding-new-todos-23f6)
+- [How I Built My First Portfolio Website as a Beginner](https://dev.to/deepjyoti_das/how-i-built-my-first-portfolio-website-as-a-beginner-1m2p)
+- [Item 81: Prefira os utilitários de concorrência ao wait e notify](https://dev.to/javaefetivo/item-81-prefira-os-utilitarios-de-concorrencia-ao-wait-e-notify-3nnj)
+- [A Guide to Starting Your Public Speaking Journey](https://dev.to/ara225/a-guide-to-starting-your-public-speaking-journey-2eg4)
+- [&quot;Revolutionizing Language Models: LEP and Russian Adaptation Breakthroughs&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-language-models-lep-and-russian-adaptation-breakthroughs-4od6)
+- [Daily JavaScript Challenge #JS-63: Find Maximum Subarray Sum with a Twist](https://dev.to/dpc/daily-javascript-challenge-js-63-find-maximum-subarray-sum-with-a-twist-12ca)
 <!-- BLOG-POST-LIST:END -->
 
 ---
