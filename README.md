@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a To-Do app with HTMX and Django, part 5: Testing the views](https://dev.to/rodbv/creating-a-to-do-app-with-htmx-and-django-part-5-testing-the-views-2iml)
-- [CS50 - Week 6](https://dev.to/udilbar/cs50-week-6-14d9)
-- [Malware: Your Ultimate Guide to Protecting Your System!](https://dev.to/tavernetech/malware-your-ultimate-guide-to-protecting-your-system-99b)
-- [De pleno para senior: o que está faltando?](https://dev.to/jessilyneh/de-pleno-para-senior-o-que-esta-faltando-568l)
-- [Big O Notation and the Climb Over Constants.](https://dev.to/tahsin005/big-o-notation-and-the-climb-over-constants-53lk)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4hmk)
+- [Do you want to learn about System Design? I think this is a great article for you to get started with.](https://dev.to/codagott/do-you-want-to-learn-about-system-design-i-think-this-is-a-great-article-for-you-to-get-started-16dc)
+- [🚀 Your Daily Crypto Job Digest For 03 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-03-january-23l4)
+- [The Power of Good Error Messages and Fixes in Development 🚀](https://dev.to/elvissautet/the-power-of-good-error-messages-and-fixes-in-development-4899)
+- [Docker 101: A Guide to Docker Commands, Terminologies &amp; Dockerfile](https://dev.to/yash_patil16/docker-101-a-guide-to-docker-commands-terminologies-dockerfile-3502)
 <!-- BLOG-POST-LIST:END -->
 
 ---
