@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI: Your New Work Ally, Not a Replacement 🤝](https://dev.to/elvissautet/ai-your-new-work-ally-not-a-replacement-o3e)
-- [Feijuca.Auth - Part 1: Configuring the tool](https://dev.to/felipemattioli/feijucaauth-part-1-configuring-the-tool-9ok)
-- [Understanding Regex in Python: A Practical Example](https://dev.to/melissajlw/understanding-regex-in-python-a-practical-example-1ili)
-- [Advantages of Open Banking on Retail Investment](https://dev.to/ayikalotanna/advantages-of-open-banking-on-retail-investment-38h)
-- [Managing Imports in Python: Prevent Breaking Your Program](https://dev.to/ggmurr24/managing-imports-in-python-prevent-breaking-your-program-18mb)
+- [My Portfolio](https://dev.to/hemanth_9988/my-portfolio-5fn0)
+- [Why AI Hasn’t Blown Our Minds…Yet](https://dev.to/jetthoughts/why-ai-hasnt-blown-our-mindsyet-1f7e)
+- [IMPLEMENTING MULTI-TENANCY IN LARAVEL: A COMPREHENSIVE GUIDE](https://dev.to/zoran_bogoevski_78d62459b/implementing-multi-tenancy-in-laravel-a-comprehensive-guide-3735)
+- [Why I Switched to Tailwind CSS and Never Going Back!](https://dev.to/mannat_trivedi/why-i-switched-to-tailwind-css-and-never-going-back-3fi0)
+- [Optimizing S3 Costs with Storage Classes and Lifecycle Policies](https://dev.to/imsushant12/optimizing-s3-costs-with-storage-classes-and-lifecycle-policies-ege)
 <!-- BLOG-POST-LIST:END -->
 
 ---
