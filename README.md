@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built My First Portfolio Website as a Beginner](https://dev.to/deepjyoti_das/how-i-built-my-first-portfolio-website-as-a-beginner-1m2p)
-- [Item 81: Prefira os utilitários de concorrência ao wait e notify](https://dev.to/javaefetivo/item-81-prefira-os-utilitarios-de-concorrencia-ao-wait-e-notify-3nnj)
-- [A Guide to Starting Your Public Speaking Journey](https://dev.to/ara225/a-guide-to-starting-your-public-speaking-journey-2eg4)
-- [&quot;Revolutionizing Language Models: LEP and Russian Adaptation Breakthroughs&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-language-models-lep-and-russian-adaptation-breakthroughs-4od6)
-- [Daily JavaScript Challenge #JS-63: Find Maximum Subarray Sum with a Twist](https://dev.to/dpc/daily-javascript-challenge-js-63-find-maximum-subarray-sum-with-a-twist-12ca)
+- [Don’t Get Replaced: Master AI Testing Before It’s Too Late](https://dev.to/anil_csimplifyit_905c/dont-get-replaced-master-ai-testing-before-its-too-late-1idl)
+- [Subqueries](https://dev.to/ricardomtt/subqueries-kcm)
+- [Kafka vs rabbitmq](https://dev.to/lng_minhqun_66efb0ca2/kafka-vs-rabbitmq-11cj)
+- [使用自签证书在局域网部署 HTTPS 并让浏览器识别为『安全』](https://dev.to/axum/shi-yong-zi-qian-zheng-shu-zai-ju-yu-wang-bu-shu-https-bing-rang-liu-lan-qi-shi-bie-wei-an-quan--41j7)
+- [Exploring Mina Protocol zkApps with Auro Wallet](https://dev.to/ajtech0001/exploring-mina-protocol-zkapps-with-auro-wallet-517)
 <!-- BLOG-POST-LIST:END -->
 
 ---
