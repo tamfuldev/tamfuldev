@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What Is It Like to Have a Powerful Embedding Transform Plugin?](https://dev.to/seatunnel/what-is-it-like-to-have-a-powerful-embedding-transform-plugin-26pj)
-- [Top Generative AI-Based Testing Tools in the Market](https://dev.to/testjace/top-generative-ai-based-testing-tools-in-the-market-bo)
-- [Understanding HL7 Integration Services: A Cornerstone of Modern Healthcare Technology](https://dev.to/evelynwyatt/understanding-hl7-integration-services-a-cornerstone-of-modern-healthcare-technology-bb7)
-- [✨Shadcn/UI is My Component Library of Choice. Here&#39;s Why.](https://dev.to/mrsupercraft/shadcnui-is-my-component-library-of-choice-heres-why-3l6b)
-- [A Month at IIT Guwahati: Crafting the &#39;Wave&#39; Hand-Sign Recognition System](https://dev.to/utkarshk/a-month-at-iit-guwahati-crafting-the-wave-hand-sign-recognition-system-3gk7)
+- [Annual Report：Highlights of the Apache DolphinScheduler Community in 2024!](https://dev.to/chen_debra_3060b21d12b1b0/annual-reporthighlights-of-the-apache-dolphinscheduler-community-in-2024-5971)
+- [Configuring AWS WAF, CloudFront, and S3 Bucket for Secure Access](https://dev.to/randiakm/configuring-aws-waf-cloudfront-and-s3-bucket-for-secure-access-24a3)
+- [Typical Project Timings: Quản Lý Thời Gian Trong Phát Triển Phần Mềm](https://dev.to/hcmute_project_988df1c63c/typical-project-timings-quan-ly-thoi-gian-trong-phat-trien-phan-mem-2dco)
+- [Các thành phần của Class Diagram](https://dev.to/hcmute_project_988df1c63c/cac-thanh-phan-cua-class-diagram-4638)
+- [Day 30 -HTML ans CSS](https://dev.to/lakshmipritha/day-30-html-ans-css-3bmn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
