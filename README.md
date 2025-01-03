@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why do webdev posts get so much engagement? Where are Java people?](https://dev.to/prakhars/why-do-webdev-posts-get-so-much-engagement-where-are-java-people-5eii)
-- [A Comprehensive Guide to Mastering Kotlin Coroutines](https://dev.to/prakhars/a-comprehensive-guide-to-mastering-kotlin-coroutines-1ai3)
-- [Getting Started with Docker](https://dev.to/shiva_shanmugam/getting-started-with-docker-10e7)
-- [Your Ultimate JavaScript and React Cheat Sheet for Interviews](https://dev.to/usman_awan/your-ultimate-javascript-and-react-cheat-sheet-for-interviews-2e1j)
-- [Rust: Is it Something or Nothing - The Option Type](https://dev.to/crusty-rustacean/rust-is-it-something-or-nothing-the-option-type-47l4)
+- [ReferenceError: window is not defined - A Developer&#39;s Guide](https://dev.to/codeparrot/referenceerror-window-is-not-defined-a-developers-guide-4ej0)
+- [Simplify Authentication with FastAPI!](https://dev.to/saint_vandora/simplify-authentication-with-fastapi-29l2)
+- [How to Design a Ramp Toy Using 3D CAD Software](https://dev.to/julia970/how-to-design-a-ramp-toy-using-3d-cad-software-1l5e)
+- [Mastering kubectl logs - A DevOps Engineer&#39;s Guide](https://dev.to/cicube/mastering-kubectl-logs-a-devops-engineers-guide-4f6h)
+- [Day - 1 HTML/CSS - Project 1: ILUGC&lpar;web page&rpar;](https://dev.to/guru_prasanna_01/day-1-htmlcss-project-5akm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
