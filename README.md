@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [ReferenceError: window is not defined - A Developer&#39;s Guide](https://dev.to/codeparrot/referenceerror-window-is-not-defined-a-developers-guide-4ej0)
-- [Simplify Authentication with FastAPI!](https://dev.to/saint_vandora/simplify-authentication-with-fastapi-29l2)
-- [How to Design a Ramp Toy Using 3D CAD Software](https://dev.to/julia970/how-to-design-a-ramp-toy-using-3d-cad-software-1l5e)
-- [Mastering kubectl logs - A DevOps Engineer&#39;s Guide](https://dev.to/cicube/mastering-kubectl-logs-a-devops-engineers-guide-4f6h)
-- [Day - 1 HTML/CSS - Project 1: ILUGC&lpar;web page&rpar;](https://dev.to/guru_prasanna_01/day-1-htmlcss-project-5akm)
+- [What Is It Like to Have a Powerful Embedding Transform Plugin?](https://dev.to/seatunnel/what-is-it-like-to-have-a-powerful-embedding-transform-plugin-26pj)
+- [Top Generative AI-Based Testing Tools in the Market](https://dev.to/testjace/top-generative-ai-based-testing-tools-in-the-market-bo)
+- [Understanding HL7 Integration Services: A Cornerstone of Modern Healthcare Technology](https://dev.to/evelynwyatt/understanding-hl7-integration-services-a-cornerstone-of-modern-healthcare-technology-bb7)
+- [✨Shadcn/UI is My Component Library of Choice. Here&#39;s Why.](https://dev.to/mrsupercraft/shadcnui-is-my-component-library-of-choice-heres-why-3l6b)
+- [A Month at IIT Guwahati: Crafting the &#39;Wave&#39; Hand-Sign Recognition System](https://dev.to/utkarshk/a-month-at-iit-guwahati-crafting-the-wave-hand-sign-recognition-system-3gk7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
