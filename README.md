@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [OpenMP Data-Sharing Clauses: Differences Explained](https://dev.to/minwook/openmp-data-sharing-clauses-differences-explained-3fop)
-- [150+ FREE APIs Every Developer Needs to Know](https://dev.to/hanzla-baig/150-free-apis-every-developer-needs-to-know-m9j)
-- [FREE: Password Generator ⚡ PRO &lpar;extension/add-on&rpar; + [source code]](https://dev.to/hanzla-baig/free-password-generator-pro-extensionadd-on-source-code-48gf)
-- [Generate Stunning Gradient Avatars with Ease](https://dev.to/simplr_sh/generate-stunning-gradient-avatars-with-ease-190l)
-- [How to Check if an Object is Empty in JavaScript &lpar;benchmark&rpar;](https://dev.to/hanzla-baig/how-to-check-if-an-object-is-empty-in-javascript-benchmark-4ck8)
+- [# Global vs Static in C++](https://dev.to/minwook/-global-vs-static-in-c-1k73)
+- [Becoming a Software Wizard, The Magic Wand &lpar;metaphor&rpar;](https://dev.to/danazkari/becoming-a-software-wizard-the-magic-wand-metaphor-p8p)
+- [Here’s a list of common problems that BuzzBuilder can solve for influencers:](https://dev.to/susheel_kumar/heres-a-list-of-common-problems-that-buzzbuilder-can-solve-for-influencers-ipp)
+- [When an influencer uses **BuzzBuilder**, they can expect a range of benefits that enhance their online presence,](https://dev.to/susheel_kumar/when-an-influencer-uses-buzzbuilder-they-can-expect-a-range-of-benefits-that-enhance-their-eie)
+- [How to Create a Portfolio That Lands You a Job in Web Development](https://dev.to/raajaryan/how-to-create-a-portfolio-that-lands-you-a-job-in-web-development-31pp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
