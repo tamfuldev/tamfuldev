@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [C# in Cloud Computing: Getting Started with Azure Functions](https://dev.to/vandana_babshetti_91df8eb/c-in-cloud-computing-getting-started-with-azure-functions-18ji)
-- [Optimizing C# Code for Performance](https://dev.to/vandana_babshetti_91df8eb/optimizing-c-code-for-performance-1gl7)
-- [Top 10 Features of C#.NET Every Beginner Should Know](https://dev.to/vandana_babshetti_91df8eb/top-10-features-of-cnet-every-beginner-should-know-1i21)
-- [Why Most Notion Templates Fail Businesses &lpar;And How to Create Ones That Work&rpar;](https://dev.to/resource_bunk_1077cab07da/why-most-notion-templates-fail-businesses-and-how-to-create-ones-that-work-4jnd)
-- [Innovative Tech Trends for 2025](https://dev.to/vandana_babshetti_91df8eb/innovative-tech-trends-for-2025-5718)
+- [Front end development in a AI era!](https://dev.to/youneshajizadeh/front-end-development-in-a-ai-era-m4h)
+- [Building a Login Component with SSR Support Using Solid.js](https://dev.to/lovestaco/building-a-login-component-with-ssr-support-using-solidjs-15oj)
+- [Teaching Africa through AI, one language at a time](https://dev.to/ndiaga/teaching-africa-through-ai-one-language-at-a-time-2dch)
+- [Install Flutter](https://dev.to/embatec_astelo_918d3b2808/install-flutter-5c2k)
+- [Just start it!](https://dev.to/abiodun_akintola/just-start-it-1kgo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
