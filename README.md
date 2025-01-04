@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [# Global vs Static in C++](https://dev.to/minwook/-global-vs-static-in-c-1k73)
-- [Becoming a Software Wizard, The Magic Wand &lpar;metaphor&rpar;](https://dev.to/danazkari/becoming-a-software-wizard-the-magic-wand-metaphor-p8p)
-- [Here’s a list of common problems that BuzzBuilder can solve for influencers:](https://dev.to/susheel_kumar/heres-a-list-of-common-problems-that-buzzbuilder-can-solve-for-influencers-ipp)
-- [When an influencer uses **BuzzBuilder**, they can expect a range of benefits that enhance their online presence,](https://dev.to/susheel_kumar/when-an-influencer-uses-buzzbuilder-they-can-expect-a-range-of-benefits-that-enhance-their-eie)
-- [How to Create a Portfolio That Lands You a Job in Web Development](https://dev.to/raajaryan/how-to-create-a-portfolio-that-lands-you-a-job-in-web-development-31pp)
+- [Designing Dreams with Eduleem: A Success Story](https://dev.to/shaik_muskansultana_f054/designing-dreams-with-eduleem-a-success-story-ch4)
+- [AI Models Now Master Basic Math But Struggle with Complex Problems, New Study Shows](https://dev.to/mikeyoung44/ai-models-now-master-basic-math-but-struggle-with-complex-problems-new-study-shows-566c)
+- [npx life@2024 preview: How Missing Flights, Finding Love, and Building Svelte Apps Changed Everything](https://dev.to/developerbishwas/npx-life2024-preview-how-missing-flights-finding-love-and-building-svelte-apps-changed-akm)
+- [2025：Web3时代启航，重塑未来二十年的数字版图](https://dev.to/popmaxcn/2025web3shi-dai-qi-hang-zhong-su-wei-lai-er-shi-nian-de-shu-zi-ban-tu-3loa)
+- [Next.js Course](https://dev.to/turingvangisms/nextjs-course-20gm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
