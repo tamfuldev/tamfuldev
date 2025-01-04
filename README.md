@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Front end development in a AI era!](https://dev.to/youneshajizadeh/front-end-development-in-a-ai-era-m4h)
-- [Building a Login Component with SSR Support Using Solid.js](https://dev.to/lovestaco/building-a-login-component-with-ssr-support-using-solidjs-15oj)
-- [Teaching Africa through AI, one language at a time](https://dev.to/ndiaga/teaching-africa-through-ai-one-language-at-a-time-2dch)
-- [Install Flutter](https://dev.to/embatec_astelo_918d3b2808/install-flutter-5c2k)
-- [Just start it!](https://dev.to/abiodun_akintola/just-start-it-1kgo)
+- [Part 2: Master Authentication and Role-Based Access Control &lpar;RBAC&rpar; with Kinde and Convex in a File-Sharing Application](https://dev.to/sholajegede/part-2-master-authentication-and-role-based-access-control-rbac-with-kinde-and-convex-in-a-ch)
+- [Build an OTP-Based Authentication Server with Go: Part 1](https://dev.to/vishaaxl/build-an-otp-based-authentication-server-with-go-part-1-760)
+- [Advantages of search databases](https://dev.to/axotion/advantages-of-search-databases-2lmh)
+- [Title: The Journey of a Software Developer: From Beginner to Expert](https://dev.to/swiftwave60/title-the-journey-of-a-software-developer-from-beginner-to-expert-86n)
+- [Price = Wage + Profit + Rent](https://dev.to/shrsv/price-wage-profit-rent-14p7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
