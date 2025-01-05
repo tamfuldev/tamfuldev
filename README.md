@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Jira Configuration Made Easy: First Time Tips for New Project Managers!](https://dev.to/pro-project-mngr/jira-configuration-made-easy-first-time-tips-for-new-project-managers-3j6)
-- [Functions, Procedures, Cursors, and Triggers in SQL](https://dev.to/harshm03/functions-procedures-cursors-and-triggers-in-sql-2lbf)
-- [Trying to predict the performance of file reads/writes](https://dev.to/absterdabster/trying-to-predict-the-performance-of-file-readswrites-39a5)
-- [Transactions and Concurrency Controls: DBMS](https://dev.to/harshm03/transactions-and-concurrency-controls-dbms-2gj)
-- [Creating a Deepcopy of Linkedlist with random pointers](https://dev.to/tushar_sandhu/creating-a-deepcopy-of-linkedlist-with-random-pointers-47pj)
+- [Gen AI Developer Week 1 — Day 5](https://dev.to/saichinmayt/gen-ai-developer-week-1-day-5-1jo5)
+- [To Fine-Tune or Not?](https://dev.to/thatechmaestro/to-fine-tune-or-not-3n43)
+- [I took advantage of an error in the code of a dating app](https://dev.to/zeedu_dev/i-took-advantage-of-an-error-in-the-code-of-a-dating-app-3dkp)
+- [How to Install Node.js on Windows](https://dev.to/erasmuskotoka/how-to-install-nodejs-on-windows-1ngd)
+- [Mastering Image Uploads in Node.js: A Beginner-to-Advanced Guide with Multer and Cloudinary](https://dev.to/yugjadvani/mastering-image-uploads-in-nodejs-a-beginner-to-advanced-guide-with-multer-and-cloudinary-15j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
