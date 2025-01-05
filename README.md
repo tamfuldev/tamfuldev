@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SpringBoot Web Service - Part 2 - Preparing Using Spring Initializr](https://dev.to/vlaship/springboot-web-service-part-2-preparing-using-spring-initializr-1kld)
-- [VTable Configuration Optimization Guide: Creating a Productive front-end table Experience](https://dev.to/fangsmile/vtable-configuration-optimization-guide-creating-a-productive-front-end-table-experience-aej)
-- [SpringBoot Web Service - Part 1 - Create Repository](https://dev.to/vlaship/springboot-web-service-part-1-create-repository-4e68)
-- [Configure monit services in AL2023](https://dev.to/gajjarashish/configure-monit-services-in-al2023-2d5o)
-- [Top 10 Tools for AI Testing in 2025: Streamlining AI Quality Assurance](https://dev.to/arun_pal_3ce740a137cf15ad/top-10-tools-for-ai-testing-in-2025-streamlining-ai-quality-assurance-58de)
+- [Path Manipulation in Laravel: Secure Your App from Vulnerabilities](https://dev.to/pentest_testing_corp/path-manipulation-in-laravel-secure-your-app-from-vulnerabilities-241a)
+- [Cookies, Local storage and Session storage](https://dev.to/thesanjeevsharma/cookies-local-storage-and-session-storage-1hkm)
+- [4 Easy Ways: Run Windows Terminal as Administrator With Elevated Permissions!](https://dev.to/winsides/4-easy-ways-run-windows-terminal-as-administrator-with-elevated-permissions-346b)
+- [🚀 Why I Switched from VSCode to CursorAI for Salesforce Development &amp; Personal Projects](https://dev.to/shivamkapasia0/why-i-switched-from-vscode-to-cursorai-for-salesforce-development-personal-projects-1j8n)
+- [Just committed to learning ruby for sonic pi and rails https://dev.to/highcenburg/2025-roadmap-mastering-ruby-for-sonic-pi-and-rails-696 wish me luck!](https://dev.to/highcenburg/just-committed-to-learning-ruby-for-sonic-pi-and-rails-5f7g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
