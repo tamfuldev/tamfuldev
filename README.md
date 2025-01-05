@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Create a Blogging Platform With No Backend &lpar;Zero Hosting Fee&rpar;](https://dev.to/shinjithdev/create-a-blogging-platform-with-no-backend-zero-hosting-fee-2eki)
-- [Why [4, 11, 2, 23].sort&lpar;&rpar; in JavaScript Isn’t What You Expect](https://dev.to/devmatsu/why-4-11-2-23sort-in-javascript-isnt-what-you-expect-4njl)
-- [Does anyone know someone who makes Discord bots for free, or where to find such a person?](https://dev.to/best_codes/does-anyone-know-someone-who-makes-discord-bots-for-free-or-where-to-find-such-a-person-5b8o)
-- [[Boost]](https://dev.to/anadudev/-17ne)
-- [Why Existing Tools Aren’t Built for Effective Sample Apps 🤔](https://dev.to/junliang214/why-existing-tools-arent-built-for-effective-sample-apps-5212)
+- [Jira Configuration Made Easy: First Time Tips for New Project Managers!](https://dev.to/pro-project-mngr/jira-configuration-made-easy-first-time-tips-for-new-project-managers-3j6)
+- [Functions, Procedures, Cursors, and Triggers in SQL](https://dev.to/harshm03/functions-procedures-cursors-and-triggers-in-sql-2lbf)
+- [Trying to predict the performance of file reads/writes](https://dev.to/absterdabster/trying-to-predict-the-performance-of-file-readswrites-39a5)
+- [Transactions and Concurrency Controls: DBMS](https://dev.to/harshm03/transactions-and-concurrency-controls-dbms-2gj)
+- [Creating a Deepcopy of Linkedlist with random pointers](https://dev.to/tushar_sandhu/creating-a-deepcopy-of-linkedlist-with-random-pointers-47pj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
