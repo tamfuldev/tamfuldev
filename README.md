@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I was using Tailwind wrong, so you don&#39;t have to](https://dev.to/aloisseckar/i-was-using-tailwind-wrong-so-you-dont-have-to-4h7j)
-- [How to Build and Manage Virtual Machines Using Proxmox CLI: A Step-by-Step Guide](https://dev.to/sebos/how-to-build-and-manage-virtual-machines-using-proxmox-cli-a-step-by-step-guide-5926)
-- [Searching for a Word](https://dev.to/alterum89/searching-for-a-word-1kk8)
-- [SpringBoot Web Service - Part 5 - Github Action](https://dev.to/vlaship/springboot-web-service-part-5-github-action-12nb)
-- [Edge Computing Bridging the Gap Between Cloud and IoT](https://dev.to/atharvgyan/edge-computing-bridging-the-gap-between-cloud-and-iot-3a4j)
+- [A Simple Guide for Choosing the Right Database](https://dev.to/calamont/a-simple-guide-for-choosing-the-right-database-1920)
+- [Verifying Your Shopify App Embed is Actually Enabled with Remix: A Step-by-Step Guide](https://dev.to/tommydemian/verifying-your-shopify-app-embed-is-actually-enabled-with-remix-a-step-by-step-guide-969)
+- [Mi plugin de Obsidian para facilitar el estudio de AWS!](https://dev.to/cpazro/mi-plugin-de-obsidian-para-facilitar-el-estudio-de-aws-10j1)
+- [The Only React Native Button You Will Ever Need](https://dev.to/janziemba/the-only-react-native-button-you-will-ever-need-3ijd)
+- [Your own Telegram bot on NodeJS with TypeScript, Telegraf and Fastify &lpar;Part 2&rpar;](https://dev.to/6akcuk/your-own-telegram-bot-on-nodejs-with-typescript-telegraf-and-fastify-part-2-4db5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
