@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Experience with Node.js Version Compatibility: Leveraging the engines Field in package.json for AutoScout](https://dev.to/akramshekh/my-experience-with-nodejs-version-compatibility-leveraging-the-engines-field-in-packagejson-for-4j6a)
-- [🚀 My Journey into Web &amp; Software Development](https://dev.to/shamsuddin_hamdule/my-journey-into-web-software-development-ha9)
-- [Create apps using IA free with AWS Bedrock &amp; PartyRock](https://dev.to/kevinl/certification-using-aws-bedrock-partyrock-aj1)
-- [Back to Basics 2025](https://dev.to/theoriginalbpc/back-to-basics-2025-1681)
-- [Start Shell Programming: A Beginner&#39;s Guide ⚙ [Part-I]](https://dev.to/eshanized/start-shell-programming-a-beginners-guide-part-i-20oo)
+- [SpringBoot Web Service - Part 2 - Preparing Using Spring Initializr](https://dev.to/vlaship/springboot-web-service-part-2-preparing-using-spring-initializr-1kld)
+- [VTable Configuration Optimization Guide: Creating a Productive front-end table Experience](https://dev.to/fangsmile/vtable-configuration-optimization-guide-creating-a-productive-front-end-table-experience-aej)
+- [SpringBoot Web Service - Part 1 - Create Repository](https://dev.to/vlaship/springboot-web-service-part-1-create-repository-4e68)
+- [Configure monit services in AL2023](https://dev.to/gajjarashish/configure-monit-services-in-al2023-2d5o)
+- [Top 10 Tools for AI Testing in 2025: Streamlining AI Quality Assurance](https://dev.to/arun_pal_3ce740a137cf15ad/top-10-tools-for-ai-testing-in-2025-streamlining-ai-quality-assurance-58de)
 <!-- BLOG-POST-LIST:END -->
 
 ---
