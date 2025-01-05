@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the AWS Journey Understanding Amazon EBS &lpar;Elastic Block Store&rpar;](https://dev.to/aws-builders/exploring-the-aws-journey-understanding-amazon-ebs-elastic-block-store-42pl)
-- [Permission-Based Authentication and Authorization in .NET, via Cookies](https://dev.to/tural_hasanov_11/permission-based-authentication-and-authorization-in-net-via-cookies-47fh)
-- [zsh: command not found: bun](https://dev.to/sibstark/zsh-command-not-found-bun-7n1)
-- [Creating M3U Playlists for xPola Player](https://dev.to/adama_bongado_a857dfff7ed/creating-m3u-playlists-for-xpola-player-1bd0)
-- [Mô hình MVC](https://dev.to/hcmute_project_988df1c63c/mo-hinh-mvc-2pm5)
+- [Dev Next a job platform built with Next.js, Tailwind CSS, Prisma, and NextAuth](https://dev.to/saidmounaim/dev-next-a-job-platform-built-with-nextjs-tailwind-css-prisma-and-nextauth-4ni7)
+- [Matanuska ADR 007 - Type Semantics for Primary Types](https://dev.to/jfhbrook/matanuska-adr-007-type-semantics-for-primary-types-2m13)
+- [useState Explained Simply - A Guide for Non-Developers &lpar;2025&rpar;](https://dev.to/javiductor/usestate-explained-simply-a-guide-for-non-developers-2025-1ebj)
+- [Angular 19 introduces the experimental Resource API](https://dev.to/nhannguyendevjs/angular-19-introduces-the-experimental-resource-api-2e1k)
+- [Mastering React Suspense: Simplifying Asynchronous Rendering and Enhancing User Experience](https://dev.to/codeparrot/mastering-react-suspense-simplifying-asynchronous-rendering-and-enhancing-user-experience-55fj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
