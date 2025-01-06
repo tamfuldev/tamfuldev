@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Ollama-Powered GitHub Copilot Extension](https://dev.to/nickytonline/building-an-ollama-powered-github-copilot-extension-2l4n)
-- [Rails GraphQL Auth - JWT, Email &amp; Security](https://dev.to/sulmanweb/rails-graphql-auth-jwt-email-security-342g)
-- [SEO and Speed: The Dual Cornerstones Powering High-Performance Websites in 2024](https://dev.to/way2smiledubai/seo-and-speed-the-dual-cornerstones-powering-high-performance-websites-in-2024-38bp)
-- [5 Essential Tips for Optimizing React Applications](https://dev.to/dhrumitdk/5-essential-tips-for-optimizing-react-applications-fbj)
-- [Aspect Ratio | Font size | View Width|](https://dev.to/adityaalshi/1-is-it-a-good-idea-to-maintain-a-containers-aspect-ratio2-what-should-font-size-depend-on-a3d)
+- [Enhance Your Keyboard Knowledge with the &quot;Keyboard Check&quot; App](https://dev.to/safdarali25/enhance-your-keyboard-knowledge-with-the-keyboard-check-app-1d6j)
+- [The Art of Over Engineering on the Power Platform](https://dev.to/wyattdave/the-art-of-over-engineering-on-the-power-platform-53k3)
+- [25 Questions About Event Success KPIs: The Event FAQ Guide](https://dev.to/mayrashaikh/25-questions-about-event-success-kpis-the-event-faq-guide-377l)
+- [Code Your Diagrams: Automate Architecture with Python&#39;s Diagrams Library](https://dev.to/epam_india_python/code-your-diagrams-automate-architecture-with-pythons-diagrams-library-4o5o)
+- [The Start of... Something](https://dev.to/arkan501/the-start-of-something-ifp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
