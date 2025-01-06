@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [OCP - O Princípio Aberto/Fechado](https://dev.to/thrsouza/ocp-o-principio-abertofechado-12f5)
-- [Managing users’ permissions with Cedar policies in the AWS Lambda](https://dev.to/aws-builders/managing-users-permissions-with-cedar-policies-in-the-aws-lambda-4ei7)
-- [Stack vs Heap in C#: Key Differences and Usage](https://dev.to/stevsharp/memory-management-in-c-3fhd)
-- [WitCom: Modernizing Client-Server Communication](https://dev.to/dmitrat/witcom-modernizing-client-server-communication-28an)
-- [20 Handpicked Daily Useful Tools For Web Developers](https://dev.to/mroman7/20-handpicked-daily-useful-tools-for-web-developers-19gl)
+- [Measuring Developer Experience &lpar;DX&rpar; with HEART: A Technology Focus](https://dev.to/ganeshsrambikal/measuring-developer-experience-dx-with-heart-a-technology-focus-1972)
+- [Machine Learning for Newbies](https://dev.to/anisha_bhandare_89bb0637f/machine-learning-for-newbies-2fgp)
+- [What Feature Must You Enable on a Virtual Machine to Use RDP Functionality?](https://dev.to/davidjonson/what-feature-must-you-enable-on-a-virtual-machine-to-use-rdp-functionality-p5h)
+- [WebRTC vs Agora Video SDK vs ZegoCloud for Video Calling in Flutter: A Comprehensive Comparison](https://dev.to/tech_tales_daa8a7eab515b3/webrtc-vs-agora-video-sdk-vs-zegocloud-for-video-calling-in-flutter-a-comprehensive-comparison-2494)
+- [My First Chrome Extension: TaskQueue 🚀](https://dev.to/business_prodeveloper_d4/my-first-chrome-extension-taskqueue-o9m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
