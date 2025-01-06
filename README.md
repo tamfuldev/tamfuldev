@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Grequest is inspired by the Request library for Python for GO](https://dev.to/john_fs/grequest-is-inspired-by-the-request-library-for-python-for-go-5f9a)
-- [The Role of Documentation in Hospice Care: Ensuring Accuracy and Compliance](https://dev.to/medcaremsobillingcompany/the-role-of-documentation-in-hospice-care-ensuring-accuracy-and-compliance-44jl)
-- [Native HTML: Accordion Revisited](https://dev.to/link2twenty/native-html-accordion-revisited-6ai)
-- [How AI is Becoming Everyone&#39;s Tool 🎉](https://dev.to/respect17/how-ai-is-becoming-everyones-tool-1kb7)
-- [Stepping into AI as a Web Developer](https://dev.to/yorgotabet/stepping-into-ai-as-a-web-developer-47ae)
+- [Creando un notebook con Jupyter y Kotlin](https://dev.to/feregri_no/creando-un-notebook-con-jupyter-y-kotlin-5g8d)
+- [Can Low-Code and AI Tools Really Replace Traditional Coding?](https://dev.to/caner_yesiltas/can-low-code-and-ai-tools-really-replace-traditional-coding-6i2)
+- [Pop Quiz: Is There a Bug in This React Native Component?](https://dev.to/bytehala/pop-quiz-is-there-a-bug-in-this-react-native-component-j71)
+- [🚀 Are Your Docker Containers Secure? 🛡️ In this article, learn 10 actionable strategies to protect your Docker containers like a pro](https://dev.to/onlyfave/are-your-docker-containers-secure-in-todays-cyber-threat-landscape-one-vulnerable-image-31kg)
+- [Mastering Cloud Containerization: A Step-by-Step Guide to Deploying Containers in the Cloud](https://dev.to/jtripton/mastering-cloud-containerization-a-step-by-step-guide-to-deploying-containers-in-the-cloud-en6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
