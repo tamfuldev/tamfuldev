@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [React HRR Testing Pattern](https://dev.to/ryhenness/react-hrr-testing-pattern-278o)
-- [How To Build an Ethereum wallet?](https://dev.to/block_experts_766a3a21915637/how-to-build-and-ethereum-wallet-33l7)
-- [Enhancing Security in .NET 9: New Features and Best Practices for Developers](https://dev.to/leandroveiga/enhancing-security-in-net-9-new-features-and-best-practices-for-developers-3b39)
-- [Unlocking the Power of Angular Signals for Dynamic Reactivity](https://dev.to/gervaisamoah/unlocking-the-power-of-angular-signals-for-dynamic-reactivity-23l2)
-- [A Comparative Analysis of Terraform and CloudFormation](https://dev.to/basel5001/a-comparative-analysis-of-terraform-and-cloudformation-3mb1)
+- [Getting Started with Python: Creating a Hello World Project Using Poetry](https://dev.to/jajera/getting-started-with-python-creating-a-hello-world-project-using-poetry-298h)
+- [Rust: Matchy Matchy](https://dev.to/crusty-rustacean/rust-matchy-matchy-3k07)
+- [Pointers in C++: Memory Management, Arrays, and Smart Pointers](https://dev.to/alex_ricciardi/pointers-in-c-memory-management-arrays-and-smart-pointers-50ia)
+- [Codewars - Delete occurrences of an element if it occurs more than n times](https://dev.to/dantedinopegassi/codewars-delete-occurrences-of-an-element-if-it-occurs-more-than-n-times-2g9g)
+- [Building Serverless APIS with Serverless,Node.js, Typescript, DynamoDB, and Lambda.](https://dev.to/oladele_omoarukhe_9c700bf/building-serverless-apis-with-serverlessnodejs-typescript-dynamodb-and-lambda-54ni)
 <!-- BLOG-POST-LIST:END -->
 
 ---
