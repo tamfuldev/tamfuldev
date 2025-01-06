@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Python: Creating a Hello World Project Using Poetry](https://dev.to/jajera/getting-started-with-python-creating-a-hello-world-project-using-poetry-298h)
-- [Rust: Matchy Matchy](https://dev.to/crusty-rustacean/rust-matchy-matchy-3k07)
-- [Pointers in C++: Memory Management, Arrays, and Smart Pointers](https://dev.to/alex_ricciardi/pointers-in-c-memory-management-arrays-and-smart-pointers-50ia)
-- [Codewars - Delete occurrences of an element if it occurs more than n times](https://dev.to/dantedinopegassi/codewars-delete-occurrences-of-an-element-if-it-occurs-more-than-n-times-2g9g)
-- [Building Serverless APIS with Serverless,Node.js, Typescript, DynamoDB, and Lambda.](https://dev.to/oladele_omoarukhe_9c700bf/building-serverless-apis-with-serverlessnodejs-typescript-dynamodb-and-lambda-54ni)
+- [Reflecting on My Journey Through 2024 🌟](https://dev.to/hirushi_nethmini_41168bb8/reflecting-on-my-journey-through-2024-1ajp)
+- [Exploring Angular v19 Resource API](https://dev.to/nhannguyendevjs/exploring-angular-v19-resource-api-2k89)
+- [Solving the Logistics Puzzle: How Geospatial Data Visualization Optimizes Delivery and Transportation](https://dev.to/duyhoabhsoft/solving-the-logistics-puzzle-how-geospatial-data-visualization-optimizes-delivery-and-4fa6)
+- [2025: Current &amp; Future](https://dev.to/annavi11arrea1/2025-current-future-4om9)
+- [The Top Security Risks of Not Using .env Files in Your Projects](https://dev.to/jds64/the-top-security-risks-of-not-using-env-files-in-your-projects-5bfh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
