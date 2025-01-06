@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Enhance Your Keyboard Knowledge with the &quot;Keyboard Check&quot; App](https://dev.to/safdarali25/enhance-your-keyboard-knowledge-with-the-keyboard-check-app-1d6j)
-- [The Art of Over Engineering on the Power Platform](https://dev.to/wyattdave/the-art-of-over-engineering-on-the-power-platform-53k3)
-- [25 Questions About Event Success KPIs: The Event FAQ Guide](https://dev.to/mayrashaikh/25-questions-about-event-success-kpis-the-event-faq-guide-377l)
-- [Code Your Diagrams: Automate Architecture with Python&#39;s Diagrams Library](https://dev.to/epam_india_python/code-your-diagrams-automate-architecture-with-pythons-diagrams-library-4o5o)
-- [The Start of... Something](https://dev.to/arkan501/the-start-of-something-ifp)
+- [Learn how to create a layout switcher with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/learn-how-to-create-a-layout-switcher-with-tailwind-css-and-javascript-8id)
+- [How to make a view expand downwards in an inverted FlatList?](https://dev.to/wqhui/how-to-make-a-view-expand-downwards-in-an-inverted-flatlist-37ll)
+- [Submitting a Fine-Tuning Job: Organising the Workforce](https://dev.to/es404020/submitting-a-fine-tuning-job-organising-the-workforce-3gaj)
+- [4 Techniques for Effective Prompt Engineering](https://dev.to/nikl/4-techniques-for-effective-prompt-engineering-mnd)
+- [The Difference Between Building on AWS and Making Ice Cream](https://dev.to/matheusdasmerces/the-difference-between-building-on-aws-and-making-ice-cream-ibj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
