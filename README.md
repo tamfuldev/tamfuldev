@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding UHD vs HD: How vSeeBox Delivers an Unmatched Viewing Experience](https://dev.to/cody_morris_f63d03338b753/understanding-uhd-vs-hd-how-vseebox-delivers-an-unmatched-viewing-experience-2kjf)
-- [Mastering Linux File Systems: Everything You Need to Know About Symlinks and Hard Links](https://dev.to/shweta_thikekar/mastering-linux-file-systems-everything-you-need-to-know-about-symlinks-and-hard-links-khg)
-- [Getting Started with Web Sockets in Node.js](https://dev.to/jakaria/getting-started-with-web-sockets-in-nodejs-4p6c)
-- [Day 3: How Bitcoin Works – The Basics of Blockchain Technology 🚀](https://dev.to/odenyire/day-3-how-bitcoin-works-the-basics-of-blockchain-technology-3hh3)
-- [Deploying Jenkins on AWS, Installing and Configuring Artifactory and SonarQube on Seperate EC2 Instances](https://dev.to/nonso_echendu_001/deploying-jenkins-on-aws-installing-and-configuring-artifactory-and-sonarqube-on-seperate-ec2-nm9)
+- [Web Development: Three Predictions for 2025](https://dev.to/garciadiazjaime/web-development-three-predictions-for-2025-795)
+- [Test Python Code Like a Pro with Poetry, Tox, Nox and CI/CD](https://dev.to/wallaceespindola/test-python-code-like-a-pro-with-poetry-tox-nox-and-cicd-1i6p)
+- [These are the Ghost Engineers that you want](https://dev.to/bcornils/these-are-the-ghost-engineers-that-you-want-474b)
+- [Identifying Heavy Usage of TempDB In SQLSERVER and Monitoring It](https://dev.to/arvind_toorpu/identifying-heavy-usage-of-tempdb-in-sqlserver-and-monitoring-it-40a3)
+- [Understanding GPT-4 Costs: A Comprehensive Guide](https://dev.to/keploy/understanding-gpt-4-costs-a-comprehensive-guide-540a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
