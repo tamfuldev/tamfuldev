@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Tech Trends and My Bold Predictions for 2025](https://dev.to/dminatto/tech-trends-and-my-bold-predictions-for-2025-efo)
-- [What is Semantic API?](https://dev.to/pancy/what-is-semantic-api-4i1j)
-- [That piece of Python which retrieves Google Albums...](https://dev.to/lorelu/that-piece-of-python-which-retrieves-google-albums-4kia)
-- [foot with true-color tmux support &lpar;à la Alacritty&rpar;](https://dev.to/spica/foot-with-true-color-tmux-support-a-la-alacritty-25gj)
-- [New React 19 Hook: use&lpar;&rpar;](https://dev.to/matheusmcz/new-react-19-hook-use-55m6)
+- [Grequest is inspired by the Request library for Python for GO](https://dev.to/john_fs/grequest-is-inspired-by-the-request-library-for-python-for-go-5f9a)
+- [The Role of Documentation in Hospice Care: Ensuring Accuracy and Compliance](https://dev.to/medcaremsobillingcompany/the-role-of-documentation-in-hospice-care-ensuring-accuracy-and-compliance-44jl)
+- [Native HTML: Accordion Revisited](https://dev.to/link2twenty/native-html-accordion-revisited-6ai)
+- [How AI is Becoming Everyone&#39;s Tool 🎉](https://dev.to/respect17/how-ai-is-becoming-everyones-tool-1kb7)
+- [Stepping into AI as a Web Developer](https://dev.to/yorgotabet/stepping-into-ai-as-a-web-developer-47ae)
 <!-- BLOG-POST-LIST:END -->
 
 ---
