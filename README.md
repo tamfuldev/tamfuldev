@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Learn how to create a layout switcher with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/learn-how-to-create-a-layout-switcher-with-tailwind-css-and-javascript-8id)
-- [How to make a view expand downwards in an inverted FlatList?](https://dev.to/wqhui/how-to-make-a-view-expand-downwards-in-an-inverted-flatlist-37ll)
-- [Submitting a Fine-Tuning Job: Organising the Workforce](https://dev.to/es404020/submitting-a-fine-tuning-job-organising-the-workforce-3gaj)
-- [4 Techniques for Effective Prompt Engineering](https://dev.to/nikl/4-techniques-for-effective-prompt-engineering-mnd)
-- [The Difference Between Building on AWS and Making Ice Cream](https://dev.to/matheusdasmerces/the-difference-between-building-on-aws-and-making-ice-cream-ibj)
+- [🔍 Mastering the Sliding Window Technique: A Developer&#39;s Guide](https://dev.to/rahulgithubweb/mastering-the-sliding-window-technique-a-developers-guide-1gg6)
+- [&quot;Different Types of CSS Selectors”](https://dev.to/mahiamomo/different-types-of-css-selectors-3k5i)
+- [Maximizing Productivity: The Benefits of Planning Your Day as a Software Engineer](https://dev.to/bobby_the_creatr/maximizing-productivity-the-benefits-of-planning-your-day-as-a-software-engineer-3ma5)
+- [Expanding ZKteco Dealer Global Reach](https://dev.to/endlessmessages/expanding-zkteco-dealer-global-reach-ef)
+- [React 2025: What’s New and What You Should Know](https://dev.to/knewton25/react-2025-whats-new-and-what-you-should-know-4pgh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
