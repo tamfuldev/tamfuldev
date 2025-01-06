@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Reflecting on My Journey Through 2024 🌟](https://dev.to/hirushi_nethmini_41168bb8/reflecting-on-my-journey-through-2024-1ajp)
-- [Exploring Angular v19 Resource API](https://dev.to/nhannguyendevjs/exploring-angular-v19-resource-api-2k89)
-- [Solving the Logistics Puzzle: How Geospatial Data Visualization Optimizes Delivery and Transportation](https://dev.to/duyhoabhsoft/solving-the-logistics-puzzle-how-geospatial-data-visualization-optimizes-delivery-and-4fa6)
-- [2025: Current &amp; Future](https://dev.to/annavi11arrea1/2025-current-future-4om9)
-- [The Top Security Risks of Not Using .env Files in Your Projects](https://dev.to/jds64/the-top-security-risks-of-not-using-env-files-in-your-projects-5bfh)
+- [Understanding Tailwind Pricing](https://dev.to/oliviarizona88/article-understanding-tailwind-pricing-3ff3)
+- [Cómo puedes llegar a ser AWS Cloud Club Captain &lpar;consejos de una capitana!&rpar;](https://dev.to/cpazro/como-puedes-llegar-a-ser-aws-cloud-captain-consejos-de-una-capitana-1bah)
+- [Expediting Productivity: My Favorite macOS Apps of 2024](https://dev.to/ajeetraina/expediting-productivity-my-favorite-macos-apps-of-2024-3mkg)
+- [Sharing the &quot;OSS Publishing Tutorial&quot; Created by ROUTE06, Inc.](https://dev.to/route06/sharing-the-oss-publishing-tutorial-created-by-route06-inc-57nl)
+- [TS1020: An index signature parameter cannot have an initializer](https://dev.to/ahmad_tibibi/ts1020-an-index-signature-parameter-cannot-have-an-initializer-2oad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
