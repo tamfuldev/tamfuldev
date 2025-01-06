@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Supabase Client Playground: The Ultimate Tool for Streamlined Query Testing](https://dev.to/ismaeljtl/introducing-supabase-client-playground-the-ultimate-tool-for-streamlined-query-testing-5efd)
-- [How to Host Multiple Next.js Applications on a Single AWS ECR Instance Using Kamal 2.4](https://dev.to/derick1530/how-to-host-multiple-nextjs-applications-on-a-single-aws-ecr-instance-using-kamal-24-3cn3)
-- [a glance of Kubernetes RBAC](https://dev.to/cheedge_lee/a-glance-of-kubernetes-rbac-547a)
-- [How to Set Up Cross-Account EventBridge](https://dev.to/aws-builders/how-to-set-up-cross-account-eventbridge-5d4c)
-- [50+ Most Useful CMD Commands to Boost Your Windows Productivity](https://dev.to/rustcodeweb/50-most-useful-cmd-commands-to-boost-your-windows-productivity-5458)
+- [Understanding UHD vs HD: How vSeeBox Delivers an Unmatched Viewing Experience](https://dev.to/cody_morris_f63d03338b753/understanding-uhd-vs-hd-how-vseebox-delivers-an-unmatched-viewing-experience-2kjf)
+- [Mastering Linux File Systems: Everything You Need to Know About Symlinks and Hard Links](https://dev.to/shweta_thikekar/mastering-linux-file-systems-everything-you-need-to-know-about-symlinks-and-hard-links-khg)
+- [Getting Started with Web Sockets in Node.js](https://dev.to/jakaria/getting-started-with-web-sockets-in-nodejs-4p6c)
+- [Day 3: How Bitcoin Works – The Basics of Blockchain Technology 🚀](https://dev.to/odenyire/day-3-how-bitcoin-works-the-basics-of-blockchain-technology-3hh3)
+- [Deploying Jenkins on AWS, Installing and Configuring Artifactory and SonarQube on Seperate EC2 Instances](https://dev.to/nonso_echendu_001/deploying-jenkins-on-aws-installing-and-configuring-artifactory-and-sonarqube-on-seperate-ec2-nm9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
