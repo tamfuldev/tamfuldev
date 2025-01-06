@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Creando un notebook con Jupyter y Kotlin](https://dev.to/feregri_no/creando-un-notebook-con-jupyter-y-kotlin-5g8d)
-- [Can Low-Code and AI Tools Really Replace Traditional Coding?](https://dev.to/caner_yesiltas/can-low-code-and-ai-tools-really-replace-traditional-coding-6i2)
-- [Pop Quiz: Is There a Bug in This React Native Component?](https://dev.to/bytehala/pop-quiz-is-there-a-bug-in-this-react-native-component-j71)
-- [🚀 Are Your Docker Containers Secure? 🛡️ In this article, learn 10 actionable strategies to protect your Docker containers like a pro](https://dev.to/onlyfave/are-your-docker-containers-secure-in-todays-cyber-threat-landscape-one-vulnerable-image-31kg)
-- [Mastering Cloud Containerization: A Step-by-Step Guide to Deploying Containers in the Cloud](https://dev.to/jtripton/mastering-cloud-containerization-a-step-by-step-guide-to-deploying-containers-in-the-cloud-en6)
+- [Front-End is Becoming Obsolete](https://dev.to/elanatframework/front-end-is-becoming-obsolete-f85)
+- [The Building Blocks of Python: Variables, I/O, and Operators](https://dev.to/iftakher_hossen/the-building-blocks-of-python-variables-io-and-operators-2fli)
+- [Fundamentos das expressões lambda](https://dev.to/javaparainiciantes/fundamentos-das-expressoes-lambda-plp)
+- [Codewars - Build a pile of Cubes](https://dev.to/dantedinopegassi/codewars-build-a-pile-of-cubes-3ocn)
+- [Anonymous Feedback in Retros: When, Why, and How](https://dev.to/mattlewandowski93/anonymous-feedback-in-retros-when-why-and-how-170n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
