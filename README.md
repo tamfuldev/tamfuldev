@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Tailwind Pricing](https://dev.to/oliviarizona88/article-understanding-tailwind-pricing-3ff3)
-- [Cómo puedes llegar a ser AWS Cloud Club Captain &lpar;consejos de una capitana!&rpar;](https://dev.to/cpazro/como-puedes-llegar-a-ser-aws-cloud-captain-consejos-de-una-capitana-1bah)
-- [Expediting Productivity: My Favorite macOS Apps of 2024](https://dev.to/ajeetraina/expediting-productivity-my-favorite-macos-apps-of-2024-3mkg)
-- [Sharing the &quot;OSS Publishing Tutorial&quot; Created by ROUTE06, Inc.](https://dev.to/route06/sharing-the-oss-publishing-tutorial-created-by-route06-inc-57nl)
-- [TS1020: An index signature parameter cannot have an initializer](https://dev.to/ahmad_tibibi/ts1020-an-index-signature-parameter-cannot-have-an-initializer-2oad)
+- [My 2024 in Review—And My Most Read Posts](https://dev.to/canro91/my-2024-in-review-and-my-most-read-posts-gc)
+- [Meta programming with Ruby Eval: A guide &lpar;Part 2&rpar;](https://dev.to/railsfactory/meta-programming-with-ruby-eval-a-guide-part-2-5256)
+- [Meta programming with Ruby Eval: A guide &lpar;Part 1&rpar;](https://dev.to/railsfactory/meta-programming-with-ruby-eval-a-guide-part-1-3ndn)
+- [Crea diagramas de AWS de manera gratuita con Draw.io](https://dev.to/cpazro/crea-diagramas-de-aws-de-manera-gratuita-con-drawio-2987)
+- [Exploring the Best and Latest Software in Architecture](https://dev.to/material360/exploring-the-best-and-latest-software-in-architecture-1ef5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
