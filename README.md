@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I just used the git commit message of &quot;changed code&quot; 🙃](https://dev.to/ben/i-just-used-the-git-commit-message-of-changed-code-3n18)
-- [Building a Google Sheets–Like Table Component with TanStack Table, Zod, and ShadCN/UI](https://dev.to/jacksonkasi/building-a-google-sheets-like-table-component-with-tanstack-table-zod-and-shadcnui-1ped)
-- [Accessing the AuthAction Management API with Machine-to-Machine Application](https://dev.to/authaction/accessing-the-authaction-management-api-with-machine-to-machine-application-4kk1)
-- [Fuzz Testing: A Comprehensive Guide to Uncovering Hidden Vulnerabilities](https://dev.to/keploy/fuzz-testing-a-comprehensive-guide-to-uncovering-hidden-vulnerabilities-2dci)
-- [Overhyped Tech Buzzwords of 2025 — Are We Falling for the Same Trap?](https://dev.to/digitalminds/overhyped-tech-buzzwords-of-2025-are-we-falling-for-the-same-trap-2o0b)
+- [How you used AI in 2024?](https://dev.to/sarthology/how-you-used-ai-in-2024-4mhd)
+- [Learning REST APIs in JavaScript](https://dev.to/arjun98k/learning-rest-apis-in-javascript-1dod)
+- [[jan2025] thm.jrpt-path. 1/n](https://dev.to/dace/jan-thmjrpt-path-1n-466l)
+- [Como enviar somente novos commits em uma branch que já mesclada.](https://dev.to/wesleywcr/como-enviar-somente-novos-commits-em-uma-branch-que-ja-mesclada-50g4)
+- [Top 3 AI Tools for Web3 Developers: Supercharge Your Blockchain Projects 🚀🤖](https://dev.to/sergi_web3/top-3-ai-tools-for-web3-developers-supercharge-your-blockchain-projects-be0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
