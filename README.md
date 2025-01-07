@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Weak Password Policies in Laravel: A Security Guide](https://dev.to/pentest_testing_corp/weak-password-policies-in-laravel-a-security-guide-36i8)
-- [API Destinations with Amazon EventBridge](https://dev.to/shreya_sood_cda96baa541c9/api-destinations-with-amazon-eventbridge-3am1)
-- [Creating a CloudFront Distribution](https://dev.to/hallomell/creating-a-cloudfront-distribution-4n0m)
-- [Creating an Amazon RDS Database Instance](https://dev.to/hallomell/creating-an-amazon-rds-database-instance-eik)
-- [Introduction to IAM | Identity and Access Management](https://dev.to/hallomell/introduction-to-iam-identity-and-access-management-4jo2)
+- [Using Mutating Admission Controllers to Ease Kubernetes Migrations](https://dev.to/getambassador2024/using-mutating-admission-controllers-to-ease-kubernetes-migrations-39pp)
+- [Simplifying State Management in React: An Introduction to F-Box React](https://dev.to/kentaromorishita/simplifying-react-state-management-an-introduction-to-f-box-react-2f0p)
+- [From Debian to Devuan](https://dev.to/evertontenorio/from-debian-to-devuan-2bn6)
+- [⭐5 Simple TailwindCSS Tips for Faster Web Development](https://dev.to/mrsupercraft/5-simple-tailwindcss-tips-for-faster-web-development-2p0b)
+- [Understand event loop in simple words!](https://dev.to/nozibul_islam_113b1d5334f/understand-event-loop-in-simple-words-184n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
