@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Despite all my efforts the file could not append with formData, can anyone tell me where the errors are occurring](https://dev.to/software_dev_145266f43154/despite-all-my-efforts-the-file-could-not-append-with-formdata-can-anyone-tell-me-where-the-errors-3g1g)
-- [Edge Computing: The Future of Scalable and Low-Latency Applications](https://dev.to/techwave/edge-computing-the-future-of-scalable-and-low-latency-applications-50ej)
-- [Ringing in 2025: Glimpsing the Future of Media Tech at NAB](https://dev.to/jason_jacob_dcfc2408b7557/ringing-in-2025-glimpsing-the-future-of-media-tech-at-nab-5cao)
-- [Day 5: C++ language | Arithmetic Operators](https://dev.to/mehfila_parkkulthil_23/day-5-c-language-arithmetic-operators-part-1-fgp)
-- [Build a CI/CD Pipeline Using AWS Glue, AWS CDK and GitHub](https://dev.to/aws-builders/build-a-cicd-pipeline-using-aws-glue-aws-cdk-and-github-4m0j)
+- [Is AI Making Technical Writers Obsolete?](https://dev.to/elliot_brenya/is-ai-making-technical-writers-obsolete-176p)
+- [🌿 Branching Strategies: Simplifying Development Workflows 📌](https://dev.to/aws-builders/branching-strategies-simplifying-development-workflows-17hg)
+- [Auth0 Next.js Tutorial](https://dev.to/rivkaavraham/auth0-nextjs-tutorial-159j)
+- [Next.js Course: Mastering the Power of Next.js](https://dev.to/ahmad_tibibi/nextjs-course-mastering-the-power-of-nextjs-42k8)
+- [ROUTE06, Inc. released &quot;OSS Publishing Tutorial&quot; for teams open-sourcing projects! Covers planning, setup &lpar;security &amp; GHAS&rpar;, reviews &amp; publishing. Great for a safe &amp; effective OSS strategy.](https://dev.to/shige/route06-inc-released-oss-publishing-tutorial-for-teams-open-sourcing-projects-covers-planning-2ofk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
