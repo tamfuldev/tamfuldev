@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Is AI Making Technical Writers Obsolete?](https://dev.to/elliot_brenya/is-ai-making-technical-writers-obsolete-176p)
-- [🌿 Branching Strategies: Simplifying Development Workflows 📌](https://dev.to/aws-builders/branching-strategies-simplifying-development-workflows-17hg)
-- [Auth0 Next.js Tutorial](https://dev.to/rivkaavraham/auth0-nextjs-tutorial-159j)
-- [Next.js Course: Mastering the Power of Next.js](https://dev.to/ahmad_tibibi/nextjs-course-mastering-the-power-of-nextjs-42k8)
-- [ROUTE06, Inc. released &quot;OSS Publishing Tutorial&quot; for teams open-sourcing projects! Covers planning, setup &lpar;security &amp; GHAS&rpar;, reviews &amp; publishing. Great for a safe &amp; effective OSS strategy.](https://dev.to/shige/route06-inc-released-oss-publishing-tutorial-for-teams-open-sourcing-projects-covers-planning-2ofk)
+- [The Best Tech Stacks for AI-Powered Applications in 2025](https://dev.to/elliot_brenya/the-best-tech-stacks-for-ai-powered-applications-in-2025-efe)
+- [How to Deploy a React Application Using AWS S3 and CloudFront](https://dev.to/itanand_/how-to-deploy-a-react-application-using-aws-s3-and-cloudfront-58kj)
+- [Improving Productivity with Automated Unit Testing](https://dev.to/misterankit/improving-productivity-with-automated-unit-testing-160n)
+- [How to Build and Deploy a Full-Stack MERN Application](https://dev.to/ayusharpcoder/how-to-build-and-deploy-a-full-stack-mern-application-4e9a)
+- [Building Scalable Microservices with Node.js and Event-Driven Architecture](https://dev.to/dhrumitdk/building-scalable-microservices-with-nodejs-and-event-driven-architecture-4ckc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
