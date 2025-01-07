@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating to Angular Standalone Components: A Step-by-Step Guide](https://dev.to/nicholajones075/migrating-to-angular-standalone-components-a-step-by-step-guide-5a1c)
-- [The Power of Animated GIF Generator Free: Elevating Visual Storytelling](https://dev.to/vergarakourtney/the-power-of-animated-gif-generator-free-elevating-visual-storytelling-3mkh)
-- [How I Earned the Certified Artificial Intelligence Scientist &lpar;CAIS&rpar; Credential](https://dev.to/myexamcloud/how-i-earned-the-certified-artificial-intelligence-scientist-cais-credential-2m7o)
-- [Top 10 WebSocket Testing Tools for Real-Time Applications 2025](https://dev.to/apilover/top-10-websocket-testing-tools-for-real-time-applications-2025-2i8)
-- [Compiling 2025: Year of Growth 🌱](https://dev.to/ernest_yoyowah/compiling-2025-year-of-growth-17j9)
+- [When GitHub Actions Build Fails Due to pnpm-lockfile](https://dev.to/flnzba/when-github-actions-build-fails-due-to-pnpm-lockfile-32lb)
+- [ChatGPT vs Copilot: Choosing the Right AI Assistant for Your Needs](https://dev.to/keploy/chatgpt-vs-copilot-choosing-the-right-ai-assistant-for-your-needs-367g)
+- [Beginner tutorial: Linux/Unix logins overview and a bit of clever tricks with &quot;history&quot;](https://dev.to/sjustesen/beginner-tutorial-linuxunix-logins-overview-and-a-bit-clever-tricks-with-history-3jkh)
+- [Deploy de NextJS utilizando CDK](https://dev.to/raphaamericano/deploy-de-nextjs-utilizando-cdk-10ob)
+- [Creating a Weather Dashboard with AWS S3 buckets and OpenWeather API](https://dev.to/mauricemakafui/creating-a-weather-dashboard-with-aws-s3-buckets-and-openweather-api-242e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
