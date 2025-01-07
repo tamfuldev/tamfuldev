@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Best Tech Stacks for AI-Powered Applications in 2025](https://dev.to/elliot_brenya/the-best-tech-stacks-for-ai-powered-applications-in-2025-efe)
-- [How to Deploy a React Application Using AWS S3 and CloudFront](https://dev.to/itanand_/how-to-deploy-a-react-application-using-aws-s3-and-cloudfront-58kj)
-- [Improving Productivity with Automated Unit Testing](https://dev.to/misterankit/improving-productivity-with-automated-unit-testing-160n)
-- [How to Build and Deploy a Full-Stack MERN Application](https://dev.to/ayusharpcoder/how-to-build-and-deploy-a-full-stack-mern-application-4e9a)
-- [Building Scalable Microservices with Node.js and Event-Driven Architecture](https://dev.to/dhrumitdk/building-scalable-microservices-with-nodejs-and-event-driven-architecture-4ckc)
+- [Weak Password Policies in Laravel: A Security Guide](https://dev.to/pentest_testing_corp/weak-password-policies-in-laravel-a-security-guide-36i8)
+- [API Destinations with Amazon EventBridge](https://dev.to/shreya_sood_cda96baa541c9/api-destinations-with-amazon-eventbridge-3am1)
+- [Creating a CloudFront Distribution](https://dev.to/hallomell/creating-a-cloudfront-distribution-4n0m)
+- [Creating an Amazon RDS Database Instance](https://dev.to/hallomell/creating-an-amazon-rds-database-instance-eik)
+- [Introduction to IAM | Identity and Access Management](https://dev.to/hallomell/introduction-to-iam-identity-and-access-management-4jo2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
