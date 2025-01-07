@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How you used AI in 2024?](https://dev.to/sarthology/how-you-used-ai-in-2024-4mhd)
-- [Learning REST APIs in JavaScript](https://dev.to/arjun98k/learning-rest-apis-in-javascript-1dod)
-- [[jan2025] thm.jrpt-path. 1/n](https://dev.to/dace/jan-thmjrpt-path-1n-466l)
-- [Como enviar somente novos commits em uma branch que já mesclada.](https://dev.to/wesleywcr/como-enviar-somente-novos-commits-em-uma-branch-que-ja-mesclada-50g4)
-- [Top 3 AI Tools for Web3 Developers: Supercharge Your Blockchain Projects 🚀🤖](https://dev.to/sergi_web3/top-3-ai-tools-for-web3-developers-supercharge-your-blockchain-projects-be0)
+- [Eight New Partner Deals Join DEV++! Early-bird pricing ends this month.](https://dev.to/devteam/eight-new-partner-deals-join-dev-early-bird-pricing-ends-this-month-2h42)
+- [ReasoningAgent Update - Beam Search, MCTS, and LATS for LLM Reasoning](https://dev.to/ag2ai/reasoningagent-update-beam-search-mcts-and-lats-for-llm-reasoning-3im1)
+- [Weekly Ruby Roundup: Highlights from Ruby #4](https://dev.to/jetthoughts/weekly-ruby-roundup-highlights-from-ruby-4-1435)
+- [📣 Calling All Programmers!](https://dev.to/mileswk/calling-all-programmers-3afn)
+- [Building AI Agents for Automated Trading Systems Using .NET C# Semantic Kernel, Azure AI Services, and Azure Functions](https://dev.to/paulotorrestech/building-ai-agents-for-automated-trading-systems-using-net-c-semantic-kernel-azure-ai-services-iml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
