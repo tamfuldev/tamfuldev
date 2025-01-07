@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Bug of the week #2](https://dev.to/pikotutorial/bug-of-the-week-2-4fnb)
-- [Inference with Fine-Tuned Models: Delivering the Message](https://dev.to/es404020/inference-with-fine-tuned-models-delivering-the-message-3eg8)
-- [An example of Consumer-Driven Development](https://dev.to/samuelko123/consumer-driven-development-3k87)
-- [Introducing Myself and My Technical Adventures](https://dev.to/willyvaessen/introducing-myself-and-my-technical-adventures-31nd)
-- [How Titian Physiotherapy Transformed Their Operations with Arthurite Integrated’s AWS Solutions](https://dev.to/muhtoyyib/how-titian-physiotherapy-transformed-their-operations-with-arthurite-integrateds-aws-solutions-55ln)
+- [A Pro Web Development Tip](https://dev.to/web_dev-usman/a-pro-web-development-tip-4926)
+- [andyux01/PHP-DASAR/main](https://dev.to/andy_pembelajar_597b4fc71/andyux01php-dasarmain-40k8)
+- [Back to Top button with smooth scroll](https://dev.to/snippflow/back-to-top-button-with-smooth-scroll-jfp)
+- [The Future of Backend Development: Trends and Tools to Watch in 2025](https://dev.to/nermine-slimane/the-future-of-backend-development-trends-and-tools-to-watch-in-2025-570c)
+- [I built timeconvert.org - scratching my own itch](https://dev.to/a-cypherpunk/i-built-timeconvertorg-scratching-my-own-itch-1c32)
 <!-- BLOG-POST-LIST:END -->
 
 ---
