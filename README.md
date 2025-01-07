@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🛠The Art of Refactoring: Improve Your Code Without the Risk💻](https://dev.to/praveenrajamani/the-art-of-refactoring-improve-your-code-without-the-risk-20fk)
-- [Here’s the diagram visually explaining the Node.js Architecture.](https://dev.to/erasmuskotoka/heres-the-diagram-visually-explaining-the-nodejs-architecture-3j23)
-- [OpenTelemetry integration with Dynatrace](https://dev.to/sonicboom9090/opentelemetry-3m4m)
-- [Node.js Architecture: How It Works](https://dev.to/erasmuskotoka/nodejs-architecture-how-it-works-2706)
-- [Day 1075 : Happy New Year](https://dev.to/dwane/day-1075-happy-new-year-2hnd)
+- [Despite all my efforts the file could not append with formData, can anyone tell me where the errors are occurring](https://dev.to/software_dev_145266f43154/despite-all-my-efforts-the-file-could-not-append-with-formdata-can-anyone-tell-me-where-the-errors-3g1g)
+- [Edge Computing: The Future of Scalable and Low-Latency Applications](https://dev.to/techwave/edge-computing-the-future-of-scalable-and-low-latency-applications-50ej)
+- [Ringing in 2025: Glimpsing the Future of Media Tech at NAB](https://dev.to/jason_jacob_dcfc2408b7557/ringing-in-2025-glimpsing-the-future-of-media-tech-at-nab-5cao)
+- [Day 5: C++ language | Arithmetic Operators](https://dev.to/mehfila_parkkulthil_23/day-5-c-language-arithmetic-operators-part-1-fgp)
+- [Build a CI/CD Pipeline Using AWS Glue, AWS CDK and GitHub](https://dev.to/aws-builders/build-a-cicd-pipeline-using-aws-glue-aws-cdk-and-github-4m0j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
