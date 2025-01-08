@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [First thoughts on Electron](https://dev.to/sarkispeha/first-thoughts-on-electron-2c6p)
-- [SP_HELPTEXT](https://dev.to/mirajhad/sphelptext-3773)
-- [The Role of Azure AI in Business: Transforming Enterprises with Intelligent Solutions in 2025](https://dev.to/skillboosttrainer/the-role-of-azure-ai-in-business-transforming-enterprises-with-intelligent-solutions-in-2025-4d4n)
-- [[Boost]](https://dev.to/litonarefin/-2i27)
-- [3042. Count Prefix and Suffix Pairs I](https://dev.to/mdarifulhaque/3042-count-prefix-and-suffix-pairs-i-1e4d)
+- [CocoCaptions in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/cococaptions-in-pytorch-1-2gah)
+- [Basics of JavaScript 1](https://dev.to/wanderer_1903/basics-of-javascript-1-2g9i)
+- [The Influence of Authors and Poets on Society: Proving the Pen’s Power](https://dev.to/iopener_today_56b94b1fd13/the-influence-of-authors-and-poets-on-society-proving-the-pens-power-5fdh)
+- [Using Kafka Connectors in Camunda for Request-Response Patterns with Concurrent Consumers](https://dev.to/devaaai/using-kafka-connectors-in-camunda-for-request-response-patterns-with-concurrent-consumers-4k9e)
+- [Understanding Adam Smith&#39;s View on Stock and Profit](https://dev.to/shrsv/understanding-adam-smiths-view-on-stock-and-profit-oh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
