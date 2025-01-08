@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Web Architecture: Monorepos, Micro-frontends, and Vite](https://dev.to/hxnain619/web-architecture-monorepos-micro-frontends-and-vite-3606)
-- [[BR] Arquiteturas híbridas - entrelaçando monólitos, microsserviços e serviços distribuídos](https://dev.to/scarlet/br-arquiteturas-hibridas-entrelacando-monolitos-microsservicos-e-servicos-distribuidos-3mk8)
-- [Is there anything left for me?](https://dev.to/student564/is-there-anything-left-for-me-3id1)
-- [The Magic of JavaScript Closures: A Clear and Easy Guide](https://dev.to/baraq/the-magic-of-javascript-closures-a-clear-and-easy-guide-5f00)
-- [The Birthday Paradox: A Statistical Breakdown and How it Relates to Online Security](https://dev.to/connoranastasio/the-birthday-paradox-a-statistical-breakdown-and-how-it-relates-to-online-security-52ac)
+- [Your journey to MAANG: Understanding Arrays](https://dev.to/daviidy/your-journey-to-maang-understanding-arrays-519m)
+- [Creating SBOM with sbom-tool and CycloneDX on Azure DevOps](https://dev.to/atahanceylan/creating-sbom-with-sbom-tool-and-cyclonedx-on-azure-devops-1de)
+- [Top Web Design Trends for 2025: Embracing Modern Aesthetics and Functionality](https://dev.to/nexgen_infosoft/top-web-design-trends-for-2025-embracing-modern-aesthetics-and-functionality-3icp)
+- [How to make multidimensional / 2D Arrays &amp; Hashes in Ruby ?](https://dev.to/ali-alkhawaja/how-to-make-multidimensional-2d-arrays-hashes-in-ruby--4g5n)
+- [RayNeo X3 Pro — Tested](https://dev.to/future_arvr/rayneo-x3-pro-tested-1k50)
 <!-- BLOG-POST-LIST:END -->
 
 ---
