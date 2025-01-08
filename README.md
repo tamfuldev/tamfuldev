@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Membuat prototype mudah dengan simple-prototype](https://dev.to/salmantok/membuat-prototype-mudah-dengan-simple-prototype-50k9)
-- [Why I started writing a blog](https://dev.to/cng_khanhtrnduy_84974/why-i-started-writing-a-blog-34b0)
-- [Deploying a Sample HTML Application to AWS EC2 with CodePipeline, CodeDeploy, and GitHub](https://dev.to/sandesh-d-manocharya/deploying-a-sample-html-application-to-aws-ec2-with-codepipeline-codedeploy-and-github-5fic)
-- [Top 5 Free Currency Converter APIs for Developers in 2025](https://dev.to/rameshchauhan/top-5-free-currency-converter-apis-for-developers-in-2025-2cdo)
-- [App-Token based easy OAuth2 implementation built to grow with Spring Boot](https://dev.to/andrewkangg/app-token-based-easy-oauth2-implementation-built-to-grow-with-spring-boot-16mc)
+- [🎮 Level Up Your JavaScript Skills with These Fun Games! 🕹️✨](https://dev.to/hadil/level-up-your-javascript-skills-with-these-fun-games-2a7f)
+- [Top 10 M.Com Project Topics &amp; Ideas For Students](https://dev.to/tarunfulera/top-10-mcom-project-topics-ideas-for-students-3h4k)
+- [Automation Trends That Will Impact Your Business In 2025](https://dev.to/td_inc/automation-trends-that-will-impact-your-business-in-2025-1jnb)
+- [Top Generative AI Trends to Watch in 2025](https://dev.to/bitontree/top-generative-ai-trends-to-watch-in-2025-4pfh)
+- [What is HashiCorp Vault? Features, Benefits, and Know How Does it Work](https://dev.to/sign_my_code/what-is-hashicorp-vault-features-benefits-and-know-how-does-it-work-2d1j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
