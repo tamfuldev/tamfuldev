@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CocoCaptions in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/cococaptions-in-pytorch-1-2gah)
-- [Basics of JavaScript 1](https://dev.to/wanderer_1903/basics-of-javascript-1-2g9i)
-- [The Influence of Authors and Poets on Society: Proving the Pen’s Power](https://dev.to/iopener_today_56b94b1fd13/the-influence-of-authors-and-poets-on-society-proving-the-pens-power-5fdh)
-- [Using Kafka Connectors in Camunda for Request-Response Patterns with Concurrent Consumers](https://dev.to/devaaai/using-kafka-connectors-in-camunda-for-request-response-patterns-with-concurrent-consumers-4k9e)
-- [Understanding Adam Smith&#39;s View on Stock and Profit](https://dev.to/shrsv/understanding-adam-smiths-view-on-stock-and-profit-oh)
+- [Add Onvite to Rails 8 Authentication](https://dev.to/railsdesigner/add-onvite-to-rails-8-authentication-5671)
+- [🤔Retro’ing and Debugging 2024: a year of data, books, APIs, BOTs &amp; AI](https://dev.to/adriens/retroing-and-debugging-2024-a-year-of-data-books-apis-bots-ai-4436)
+- [Dealing with internet addiction](https://dev.to/dantedinopegassi/dealing-with-internet-addiction-3l38)
+- [Serializing an enum in a Spring Boot web application](https://dev.to/mirkoperillo/serializing-an-enum-in-a-spring-boot-web-application-58d9)
+- [How to 100% CPU](https://dev.to/treehouse/how-to-100-cpu-1h60)
 <!-- BLOG-POST-LIST:END -->
 
 ---
