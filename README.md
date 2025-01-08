@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Power Platform Connect to Git](https://dev.to/zerox2cool/power-platform-connect-to-git-279b)
-- [Que es Deepseek?](https://dev.to/sysmaya/que-es-deepseek-5f4i)
-- [Deepseek V3 vs ChatGPT](https://dev.to/sysmaya/deepseek-v3-vs-chatgpt-25bb)
-- [checa como se hace una conexión entre nextjs y la autenticación de supabase](https://dev.to/bearpoint/checa-como-se-hace-una-conexion-entre-nextjs-y-la-autenticacion-de-supabase-4em8)
-- [We released AdminForth Components Library](https://dev.to/ivictbor/we-released-adminforth-components-library-3k90)
+- [Porque você deve melhorar sua capacidade de comunicação para trabalhar com tecnologia](https://dev.to/rubenichvitor/porque-voce-deve-melhorar-sua-capacidade-de-comunicacao-para-trabalhar-com-tecnologia-1bl8)
+- [Day 1076 : Life in 3D](https://dev.to/dwane/day-1076-life-in-3d-3d4l)
+- [Securing C++ iostream: Key Vulnerabilities and Mitigation Strategies](https://dev.to/alex_ricciardi/securing-c-iostream-key-vulnerabilities-and-mitigation-strategies-2ek4)
+- [Write Your First Node.js Program](https://dev.to/erasmuskotoka/write-your-first-nodejs-program-14h9)
+- [Creating Java GUIs with Swing Components](https://dev.to/alex_ricciardi/creating-java-guis-with-swing-components-471k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
