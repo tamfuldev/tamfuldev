@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Display Technology](https://dev.to/madgan95/display-technology-51bj)
-- [Common Business Analyst Interview Questions](https://dev.to/siva_velu_b39044a1dd3b732/common-business-analyst-interview-questions-1l9b)
-- [Wednesday Links - Edition 2025-01-08](https://dev.to/0xkkocel/wednesday-links-edition-2025-01-08-35p3)
-- [10 Common HTML and CSS Interview Questions and Answers](https://dev.to/matant/10-common-html-and-css-interview-questions-and-answers-38lc)
-- [Mastering XPath Commands in Cypress](https://dev.to/hexa-home/mastering-xpath-commands-in-cypress-2ngm)
+- [Retro’ing and Debugging 2024 - A year of learning and fun](https://dev.to/vignesh_j/retroing-and-debugging-2024-a-year-of-learning-and-fun-4nlg)
+- [React/Next Folder Generator with JS/TS: Simplify Your Project Setup with react-cli-builder](https://dev.to/beki78/reactnext-folder-generator-with-jsts-simplify-your-project-setup-with-react-cli-builder-4436)
+- [Migrate from Native Google to AWS Redshift](https://dev.to/krupa_bhimani_1119cab2abc/migrate-from-native-google-to-aws-redshift-544k)
+- [Day 0: Rebooting My Career in Software Engineering](https://dev.to/harshrajsinh/day-0-rebooting-my-career-in-software-engineering-3ik4)
+- [Exploring the Vue 3 Composition API: Comprehensive Guide, Advantages, and Developer Experience](https://dev.to/hasunnilupul/exploring-the-vue-3-composition-api-comprehensive-guide-advantages-and-developer-experience-28ki)
 <!-- BLOG-POST-LIST:END -->
 
 ---
