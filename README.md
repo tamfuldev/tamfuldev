@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🎮 Level Up Your JavaScript Skills with These Fun Games! 🕹️✨](https://dev.to/hadil/level-up-your-javascript-skills-with-these-fun-games-2a7f)
-- [Top 10 M.Com Project Topics &amp; Ideas For Students](https://dev.to/tarunfulera/top-10-mcom-project-topics-ideas-for-students-3h4k)
-- [Automation Trends That Will Impact Your Business In 2025](https://dev.to/td_inc/automation-trends-that-will-impact-your-business-in-2025-1jnb)
-- [Top Generative AI Trends to Watch in 2025](https://dev.to/bitontree/top-generative-ai-trends-to-watch-in-2025-4pfh)
-- [What is HashiCorp Vault? Features, Benefits, and Know How Does it Work](https://dev.to/sign_my_code/what-is-hashicorp-vault-features-benefits-and-know-how-does-it-work-2d1j)
+- [Observability 2.0 - The Best Thing Since Sliced Bread](https://dev.to/metis/observability-20-the-best-thing-since-sliced-bread-1aih)
+- [Monorepo + microfrontend with module-federation+vite](https://dev.to/hxnain619/-362h)
+- [The Future of the Internet: When Will Web4 Arrive? 🌐](https://dev.to/cryptosandy/the-future-of-the-internet-when-will-web4-arrive-14k3)
+- [Exploring Records in C#.](https://dev.to/stevsharp/exploring-records-in-c-4g11)
+- [💡 Generative AI Developer Week 2 - Day 1: Machine Learning Basics](https://dev.to/saichinmayt/generative-ai-developer-week-2-day-1-machine-learning-basics-4490)
 <!-- BLOG-POST-LIST:END -->
 
 ---
