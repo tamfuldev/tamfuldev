@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Retro’ing and Debugging 2024 - A year of learning and fun](https://dev.to/vignesh_j/retroing-and-debugging-2024-a-year-of-learning-and-fun-4nlg)
-- [React/Next Folder Generator with JS/TS: Simplify Your Project Setup with react-cli-builder](https://dev.to/beki78/reactnext-folder-generator-with-jsts-simplify-your-project-setup-with-react-cli-builder-4436)
-- [Migrate from Native Google to AWS Redshift](https://dev.to/krupa_bhimani_1119cab2abc/migrate-from-native-google-to-aws-redshift-544k)
-- [Day 0: Rebooting My Career in Software Engineering](https://dev.to/harshrajsinh/day-0-rebooting-my-career-in-software-engineering-3ik4)
-- [Exploring the Vue 3 Composition API: Comprehensive Guide, Advantages, and Developer Experience](https://dev.to/hasunnilupul/exploring-the-vue-3-composition-api-comprehensive-guide-advantages-and-developer-experience-28ki)
+- [CORS is a waste of time – Change my mind!](https://dev.to/johannesjo/cors-is-a-waste-of-time-change-my-mind-35gl)
+- [How to add Github oAuth in Nextjs with Supabase Auth | Login with Github](https://dev.to/thatanjan/how-to-add-github-oauth-in-nextjs-with-supabase-auth-login-with-github-oko)
+- [What is astype&lpar;&rpar; function in Python](https://dev.to/atifwattoo/what-is-astype-function-in-python-4bg5)
+- [Building a Local S3 Environment with MinIO: AWS SDK for Java V2 Migration Guide](https://dev.to/y_m_6cd3eef8e6349564919c7/building-a-local-s3-environment-with-minio-aws-sdk-for-java-v2-migration-guide-534h)
+- [Understanding Sitemaps: The Simple Guide 💯](https://dev.to/alisamir/understanding-sitemaps-the-simple-guide-4gmo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
