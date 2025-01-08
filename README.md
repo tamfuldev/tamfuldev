@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Scalable Web Server on AWS: A Hands-On Guide to Linux, Apache, and SSL Configuration](https://dev.to/josephibehdev/building-a-scalable-web-server-on-aws-a-hands-on-guide-to-linux-apache-and-ssl-configuration-3cmh)
-- [Frontend Developer Roadmap 2025: The Complete Guide](https://dev.to/kafeel_ahmad/frontend-developer-roadmap-2025-the-complete-guide-53dg)
-- [JavaScript Data Types](https://dev.to/asror_0306/javascript-data-types-n33)
-- [Understanding User Needs in Technical Writing: How Frameworks Like Diátaxis Help](https://dev.to/superherojt/understanding-user-needs-in-technical-writing-how-frameworks-like-diataxis-help-2l9n)
-- [Introduction to 3D Secure: Enhancing Online Payment Security](https://dev.to/azaharuddinruhit/introduction-to-3d-secure-enhancing-online-payment-security-2773)
+- [Display Technology](https://dev.to/madgan95/display-technology-51bj)
+- [Common Business Analyst Interview Questions](https://dev.to/siva_velu_b39044a1dd3b732/common-business-analyst-interview-questions-1l9b)
+- [Wednesday Links - Edition 2025-01-08](https://dev.to/0xkkocel/wednesday-links-edition-2025-01-08-35p3)
+- [10 Common HTML and CSS Interview Questions and Answers](https://dev.to/matant/10-common-html-and-css-interview-questions-and-answers-38lc)
+- [Mastering XPath Commands in Cypress](https://dev.to/hexa-home/mastering-xpath-commands-in-cypress-2ngm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
