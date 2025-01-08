@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CORS is a waste of time – Change my mind!](https://dev.to/johannesjo/cors-is-a-waste-of-time-change-my-mind-35gl)
-- [How to add Github oAuth in Nextjs with Supabase Auth | Login with Github](https://dev.to/thatanjan/how-to-add-github-oauth-in-nextjs-with-supabase-auth-login-with-github-oko)
-- [What is astype&lpar;&rpar; function in Python](https://dev.to/atifwattoo/what-is-astype-function-in-python-4bg5)
-- [Building a Local S3 Environment with MinIO: AWS SDK for Java V2 Migration Guide](https://dev.to/y_m_6cd3eef8e6349564919c7/building-a-local-s3-environment-with-minio-aws-sdk-for-java-v2-migration-guide-534h)
-- [Understanding Sitemaps: The Simple Guide 💯](https://dev.to/alisamir/understanding-sitemaps-the-simple-guide-4gmo)
+- [Code vs. No-Code: Building the Future, Brick by Brick or Drag-and-Drop?](https://dev.to/alfcreatives/code-vs-no-code-building-the-future-brick-by-brick-or-drag-and-drop-256j)
+- [Join us for the GitHub Copilot 1-Day Build Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-github-copilot-1-day-build-challenge-3000-in-prizes-3o2i)
+- [Utilizando la librería Mongoose](https://dev.to/derlys/utilizando-la-libreria-mongoose-34ad)
+- [Event Recap: Refactr.Tech Code Jam Meetup – Hacktoberfest Edition](https://dev.to/blkgrlcto/event-recap-refactrtech-code-jam-meetup-hacktoberfest-edition-1mh9)
+- [I want check size and type of file in asp.net core with fluent validation but I do not know?](https://dev.to/__a0d53ef9a42d2/i-want-check-size-and-type-of-file-in-aspnet-core-with-fluent-validation-but-i-do-not-know-2b4a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
