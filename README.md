@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Code vs. No-Code: Building the Future, Brick by Brick or Drag-and-Drop?](https://dev.to/alfcreatives/code-vs-no-code-building-the-future-brick-by-brick-or-drag-and-drop-256j)
-- [Join us for the GitHub Copilot 1-Day Build Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-github-copilot-1-day-build-challenge-3000-in-prizes-3o2i)
-- [Utilizando la librería Mongoose](https://dev.to/derlys/utilizando-la-libreria-mongoose-34ad)
-- [Event Recap: Refactr.Tech Code Jam Meetup – Hacktoberfest Edition](https://dev.to/blkgrlcto/event-recap-refactrtech-code-jam-meetup-hacktoberfest-edition-1mh9)
-- [I want check size and type of file in asp.net core with fluent validation but I do not know?](https://dev.to/__a0d53ef9a42d2/i-want-check-size-and-type-of-file-in-aspnet-core-with-fluent-validation-but-i-do-not-know-2b4a)
+- [Introducing BlockBuster: is my asyncio event loop blocked?](https://dev.to/cbornet/introducing-blockbuster-is-my-asyncio-event-loop-blocked-3487)
+- [Part 1: Bangkok](https://dev.to/nicolastilkin/part-1-bangkok-13d6)
+- [5 Key Skills Every Aspiring Technical Writer Needs in 2025](https://dev.to/opman129/5-key-skills-every-aspiring-technical-writer-needs-in-2025-2jh6)
+- [How can I reverse my Jio wrong recharge?](https://dev.to/gxxkoy_ddc3974b24cb9bcbdb/how-can-i-reverse-my-jio-wrong-recharge-150a)
+- [Event Recap: OWASP Atlanta Meetup – The State of Secure Code + Tournament](https://dev.to/blkgrlcto/event-recap-owasp-atlanta-meetup-the-state-of-secure-code-tournament-5ap7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
