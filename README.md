@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy Vite React project with React router without 404 on Github pages](https://dev.to/avithe1/deploy-vite-react-project-with-react-router-without-404-on-github-pages-h6p)
-- [UX Writing Challenge: Day 3](https://dev.to/jds64/ux-writing-challenge-day-3-108c)
-- [Resolving SSH Authentication Errors on Mac: Using a .pem File](https://dev.to/khalifalmahmud0/resolving-ssh-authentication-errors-on-mac-using-a-pem-file-4k9j)
-- [What is Access Control in GRC RSA Archer?](https://dev.to/shivamchamoli18/what-is-access-control-in-grc-rsa-archer-2k52)
-- [Optimizing Images and Assets in Your React Application for Faster Load Times](https://dev.to/ayusharpcoder/optimizing-images-and-assets-in-your-react-application-for-faster-load-times-3kfc)
+- [Fix Insufficient Logging &amp; Monitoring in Laravel Easily](https://dev.to/pentest_testing_corp/fix-insufficient-logging-monitoring-in-laravel-easily-3lcl)
+- [How to Perform Perfect Margin Carving in 3D CAD Software](https://dev.to/julia970/how-to-perform-perfect-margin-carving-in-3d-cad-software-429j)
+- [How to Dynamically Apply Colors to SVGs in React Native](https://dev.to/ajmal_hasan/how-to-dynamically-apply-colors-to-svgs-in-react-native-1ha0)
+- [Exploring Quantum Computing: The Next Frontier in Technology &lpar;2025&rpar;](https://dev.to/s3cloudhub/exploring-quantum-computing-the-next-frontier-in-technology-2025-gng)
+- [Deploying Rails 8 Applications: A Complete Guide with Docker, Kamal, and Cloudflare](https://dev.to/sulmanweb/deploying-rails-8-applications-a-complete-guide-with-docker-kamal-and-cloudflare-3k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
