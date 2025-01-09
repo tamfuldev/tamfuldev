@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Digesto: A Lightning-Fast Way to Build Backends with YAML](https://dev.to/nicolasleal570/digesto-a-lightning-fast-way-to-build-backends-with-yaml-3bob)
-- [The Role of Women in Bangladesh&#39;s Struggle for Independence](https://dev.to/afzal_tipu/the-role-of-women-in-bangladeshs-struggle-for-independence-51dg)
-- [Animated Gradient Background](https://dev.to/snippflow/animated-gradient-background-188d)
-- [Top 10 Mobile E-Commerce App Ideas List for 2025](https://dev.to/tarunfulera/top-10-mobile-e-commerce-app-ideas-list-for-2025-53mn)
-- [Built a Responsive Calculator with JavaScript by Muhammad Kashif Pathan](https://dev.to/muhammadkashifpathan/built-a-responsive-calculator-with-javascript-by-muhammad-kashif-pathan-4ng6)
+- [The Mortal Enemy of Done is Perfect](https://dev.to/linkbenjamin/the-mortal-enemy-of-done-is-perfect-5dp9)
+- [Can not find module error](https://dev.to/mutaboba_elois_18060c2088/can-not-find-module-error-3nkk)
+- [.NET versiyalari haqida](https://dev.to/munisa_kuranbekova_078e1e/net-versiyalari-haqida-43ae)
+- [88/365 | ¥10M Job Challenge - Eat well and get enough sleep](https://dev.to/kameken100/88365-y10m-job-challenge-eat-well-and-get-enough-sleep-5fkc)
+- [[Boost]](https://dev.to/salembinsawad/-340b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
