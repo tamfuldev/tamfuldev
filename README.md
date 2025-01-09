@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your journey to MAANG: Understanding Arrays](https://dev.to/daviidy/your-journey-to-maang-understanding-arrays-519m)
-- [Creating SBOM with sbom-tool and CycloneDX on Azure DevOps](https://dev.to/atahanceylan/creating-sbom-with-sbom-tool-and-cyclonedx-on-azure-devops-1de)
-- [Top Web Design Trends for 2025: Embracing Modern Aesthetics and Functionality](https://dev.to/nexgen_infosoft/top-web-design-trends-for-2025-embracing-modern-aesthetics-and-functionality-3icp)
-- [How to make multidimensional / 2D Arrays &amp; Hashes in Ruby ?](https://dev.to/ali-alkhawaja/how-to-make-multidimensional-2d-arrays-hashes-in-ruby--4g5n)
-- [RayNeo X3 Pro — Tested](https://dev.to/future_arvr/rayneo-x3-pro-tested-1k50)
+- [Unlocking the Power of Open Source: Join Me on My Journey!**](https://dev.to/sammyjay1428/unlocking-the-power-of-open-source-join-me-on-my-journey-13c8)
+- [Getting Started with Blockchain: A Guide for Beginners](https://dev.to/ouma_ouma/getting-started-with-blockchain-a-guide-for-beginners-4coi)
+- [**Title: Unlocking the Power of Open Source: Join Me on My Journey!**](https://dev.to/sammyjay1428/title-unlocking-the-power-of-open-source-join-me-on-my-journey-4k4g)
+- [Microcks for dummies](https://dev.to/optnc/microcks-for-dummies-1imn)
+- [ServiceNow UI Builder](https://dev.to/sophiasemga/servicenow-ui-builder-10he)
 <!-- BLOG-POST-LIST:END -->
 
 ---
