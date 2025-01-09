@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Just think how many people you see on google maps are dead now...](https://dev.to/shafayeat/just-think-how-many-people-you-see-on-google-maps-are-dead-now-5h65)
-- [10 Common Mistakes Developers Make in React and How to Avoid Them](https://dev.to/raajaryan/10-common-mistakes-developers-make-in-react-and-how-to-avoid-them-dhd)
-- [CLR](https://dev.to/mahamadjon000/clr-298b)
-- [Scrape YouTube Video Details Efficiently with Python](https://dev.to/swiftproxy_residential/scrape-youtube-video-details-efficiently-with-python-2eah)
-- [🚀 Join Me in Building CinemaWallah: Redefining Movie Streaming Together! 🎬](https://dev.to/raja_yadav/join-me-in-building-cinemawala-redefining-movie-streaming-together-lg0)
+- [Web Accessibility: Who&#39;s it for?](https://dev.to/gloriakaduru/web-accessibility-whos-it-for-3889)
+- [Remember, It&#39;s Never Too Late to Change Focus or Direction! 🎯](https://dev.to/respect17/remember-its-never-too-late-to-change-focus-or-direction-1blf)
+- [.NET versiyalari.](https://dev.to/_e7530225be583f1/net-versiyalari-19ie)
+- [Breakthrough Method Slashes Data Transfer Costs in Serverless Computing by 90%](https://dev.to/mikeyoung44/breakthrough-method-slashes-data-transfer-costs-in-serverless-computing-by-90-104o)
+- [Python Key-Value Store Tutorial - Build, Encrypt, and Optimize Your Data Storage](https://dev.to/devasservice/python-key-value-store-tutorial-build-encrypt-and-optimize-your-data-storage-62f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
