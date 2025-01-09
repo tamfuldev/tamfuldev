@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Advanced: The Quota Monitor Review](https://dev.to/aws-builders/aws-advanced-improving-the-quota-monitor-3e6l)
-- [Congrats to the Frontend Challenge: December Edition Winners!](https://dev.to/devteam/congrats-to-the-frontend-challenge-december-edition-winners-2ei9)
-- [Automating Unity Builds with GitHub Actions](https://dev.to/virtualmaker/automating-unity-builds-with-github-actions-1inf)
-- [As a Backend Developer - My 2025 Roadmap.](https://dev.to/okayiy/as-a-backend-developer-my-2025-roadmap-1k01)
-- [🏗️ Provision AWS EC2 Instances with Terraform and Set Up Docker via User Data](https://dev.to/sharker3312/provision-aws-ec2-instances-with-terraform-and-set-up-docker-via-user-data-2ik7)
+- [Indicator to do better software design](https://dev.to/manoj_kumar_6703aa3643a64/indicator-to-do-better-software-design-4pad)
+- [Building with Twitter Data: A Developer&#39;s Guide to Cost-Effective Solutions](https://dev.to/kaito2046/building-with-twitter-data-a-developers-guide-to-cost-effective-solutions-4cmh)
+- [🚀 Supercharge Your PHP Projects with FileSizeHandler: A Flexible and Extensible File Size Utility](https://dev.to/nassiry/supercharge-your-php-projects-with-filesizehandler-a-flexible-and-extensible-file-size-utility-3nn9)
+- [Fixing Docker&#39;s Malware Warning on Mac OS Sequoia](https://dev.to/oler/fixing-dockers-malware-warning-on-mac-os-sequoia-4fl4)
+- [Understanding and Resolving System.InvalidCastException in C#](https://dev.to/iamcymentho/understanding-and-resolving-systeminvalidcastexception-in-c-2fno)
 <!-- BLOG-POST-LIST:END -->
 
 ---
