@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing passwordless sign-in flow with text messages in Cognito](https://dev.to/aws-builders/implementing-passwordless-sign-in-flow-with-text-messages-in-cognito-680)
-- [How Freelance Developers Can Save on Software and Tools](https://dev.to/khushar_waseem_60619574b9/how-freelance-developers-can-save-on-software-and-tools-5fjf)
-- [Embracing Automation: The Key to Revolutionizing Software Testing](https://dev.to/vaibhavkuls/embracing-automation-the-key-to-revolutionizing-software-testing-48ib)
-- [Balancing AI &amp; Fundamentals in Modern Software Engineering : A 2024 Career Talk](https://dev.to/foyzulkarim/balancing-ai-fundamentals-in-modern-software-engineering-a-2024-career-talk-47j3)
-- [How to Design a Birdhouse Using 3D CAD Software](https://dev.to/julia970/how-to-design-a-birdhouse-using-3d-cad-software-6ha)
+- [Just think how many people you see on google maps are dead now...](https://dev.to/shafayeat/just-think-how-many-people-you-see-on-google-maps-are-dead-now-5h65)
+- [10 Common Mistakes Developers Make in React and How to Avoid Them](https://dev.to/raajaryan/10-common-mistakes-developers-make-in-react-and-how-to-avoid-them-dhd)
+- [CLR](https://dev.to/mahamadjon000/clr-298b)
+- [Scrape YouTube Video Details Efficiently with Python](https://dev.to/swiftproxy_residential/scrape-youtube-video-details-efficiently-with-python-2eah)
+- [🚀 Join Me in Building CinemaWallah: Redefining Movie Streaming Together! 🎬](https://dev.to/raja_yadav/join-me-in-building-cinemawala-redefining-movie-streaming-together-lg0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
