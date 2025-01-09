@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The OceanGate of Software Development: Coding with Generative AI](https://dev.to/itamartati/the-oceangate-of-software-development-coding-with-generative-ai-346j)
-- [Using git Conditionals to Manage Your Git Identities](https://dev.to/implosion/using-git-conditionals-to-manage-your-git-identities-3664)
-- [UXGamer Labs - Usability Testing of Unreleased Video Games](https://dev.to/itayzuriel/uxgamer-labs-usability-testing-of-unreleased-video-games-2j5b)
-- [Understanding TypeScript and the TS1028 Error: Accessibility Modifier Already Seen](https://dev.to/rivkaavraham/understanding-typescript-and-the-ts1028-error-accessibility-modifier-already-seen-2ge7)
-- [TS1025: An index signature cannot have a trailing comma](https://dev.to/rivkaavraham/ts1025-an-index-signature-cannot-have-a-trailing-comma-50i9)
+- [Deploy Vite React project with React router without 404 on Github pages](https://dev.to/avithe1/deploy-vite-react-project-with-react-router-without-404-on-github-pages-h6p)
+- [UX Writing Challenge: Day 3](https://dev.to/jds64/ux-writing-challenge-day-3-108c)
+- [Resolving SSH Authentication Errors on Mac: Using a .pem File](https://dev.to/khalifalmahmud0/resolving-ssh-authentication-errors-on-mac-using-a-pem-file-4k9j)
+- [What is Access Control in GRC RSA Archer?](https://dev.to/shivamchamoli18/what-is-access-control-in-grc-rsa-archer-2k52)
+- [Optimizing Images and Assets in Your React Application for Faster Load Times](https://dev.to/ayusharpcoder/optimizing-images-and-assets-in-your-react-application-for-faster-load-times-3kfc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
