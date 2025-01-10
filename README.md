@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Serverless Computing with Lambda: What Solution Architects Should Know About Invocation Models and Concurrency Limits.](https://dev.to/goodluck_ekeoma_2c98866d0/serverless-computing-with-lambda-what-solution-architects-should-know-about-invocation-models-and-2ekd)
-- [Puzzle](https://dev.to/shib_charanmurmu_6be2483/puzzle-1k5c)
-- [Day 1078 : Proceed](https://dev.to/dwane/day-1078-proceed-2i)
-- [Excellent work, the DEV community is transforming the development landscape in a positive progressive way](https://dev.to/selaelo_makgato_8c4644f94/excellent-work-the-dev-community-is-transforming-the-development-landscape-in-a-positive-46p1)
-- [Aprendendo sobre Teste Estático e Dinâmico](https://dev.to/yuri-aprendendoqa/aprendendo-sobre-teste-estatico-e-dinamico-3d47)
+- [Java Comparator vs Comparable Guide with Example](https://dev.to/imkrunalkanojiya/java-comparator-vs-comparable-guide-with-example-1j3h)
+- [The best web crawler tools in 2025](https://dev.to/98ip/the-best-web-crawler-tools-in-2025-331m)
+- [خا](https://dev.to/hamidreza_karbalivand_476/kh-2539)
+- [The Hidden Challenges of Cross-Border E-Commerce and How to Overcome Them](https://dev.to/hana_lee/the-hidden-challenges-of-cross-border-e-commerce-and-how-to-overcome-them-45el)
+- [CSS Gradient Generator 🚀 🌟](https://dev.to/hanzla-baig/css-gradient-generator-3occ)
 <!-- BLOG-POST-LIST:END -->
 
 ---
