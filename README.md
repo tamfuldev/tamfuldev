@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a PHP CRUD Application with OOP and MySQL: A Best Practice Guide](https://dev.to/arafatweb/building-a-php-crud-application-with-oop-and-mysql-a-best-practice-guide-19p)
-- [Pagination using Go](https://dev.to/siddheshk02/pagination-using-go-4735)
-- [useFlexReverse Hook for Language-based Flex Direction Adjustment](https://dev.to/joodi/useflexreverse-hook-for-language-based-flex-direction-adjustment-3ofe)
-- [How to Paginate API Responses in Go](https://dev.to/siddheshk02/how-to-paginate-api-responses-in-go-4cga)
-- [Chaos Engineering with Chaos Mesh and vCluster: Testing Close to Production](https://dev.to/gentele/chaos-engineering-with-chaos-mesh-and-vcluster-testing-close-to-production-3ne7)
+- [Google’s Quantum Leap: Everything About the Breakthrough Willow Chip](https://dev.to/empiree/googles-quantum-leap-everything-about-the-breakthrough-willow-chip-53h7)
+- [Getting Started With Cerbos](https://dev.to/ziizium/getting-started-with-cerbos-nn)
+- [🗃️ Resource Routes in React Router v7](https://dev.to/rgolawski/resource-routes-in-react-router-v7-l2)
+- [10 Open Source Projects Every Developer Needs to Bookmark 📚👨‍💻](https://dev.to/itanand_/10-open-source-projects-every-developer-needs-to-bookmark-14lg)
+- [Exploring the Future of AI: Top AI News Stories You Need to Know](https://dev.to/yukifuji/exploring-the-future-of-ai-top-ai-news-stories-you-need-to-know-55m6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
