@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Every Business Needs a Website in Today’s Digital Age](https://dev.to/nexgen_infosoft/why-every-business-needs-a-website-in-todays-digital-age-5cka)
-- [&quot;Boosting Multi-Modal RAG Systems: The Power of Relevancy Scoring&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/boosting-multi-modal-rag-systems-the-power-of-relevancy-scoring-1m90)
-- [Code Smell 285 - Non-Imperative Functions Names](https://dev.to/mcsee/code-smell-285-non-imperative-functions-names-33no)
-- [How To Convert Customers With Cold Emails | Startup School](https://dev.to/jetthoughts/how-to-convert-customers-with-cold-emails-startup-school-4gif)
-- [Daily JavaScript Challenge #JS-69: Detect Anagrams in an Array of Strings](https://dev.to/dpc/daily-javascript-challenge-js-69-detect-anagrams-in-an-array-of-strings-2ef7)
+- [Serverless Computing with Lambda: What Solution Architects Should Know About Invocation Models and Concurrency Limits.](https://dev.to/goodluck_ekeoma_2c98866d0/serverless-computing-with-lambda-what-solution-architects-should-know-about-invocation-models-and-2ekd)
+- [Puzzle](https://dev.to/shib_charanmurmu_6be2483/puzzle-1k5c)
+- [Day 1078 : Proceed](https://dev.to/dwane/day-1078-proceed-2i)
+- [Excellent work, the DEV community is transforming the development landscape in a positive progressive way](https://dev.to/selaelo_makgato_8c4644f94/excellent-work-the-dev-community-is-transforming-the-development-landscape-in-a-positive-46p1)
+- [Aprendendo sobre Teste Estático e Dinâmico](https://dev.to/yuri-aprendendoqa/aprendendo-sobre-teste-estatico-e-dinamico-3d47)
 <!-- BLOG-POST-LIST:END -->
 
 ---
