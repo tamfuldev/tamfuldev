@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Daily HR News and Insights](https://dev.to/vdaubry/daily-hr-news-and-insights-15l4)
-- [SnapToPDF](https://dev.to/niteshoak/snaptopdf-1b7c)
-- [Explaining Relation and Data Independence in SQL](https://dev.to/pkutaj/explaining-relation-and-data-independence-in-sql-1225)
-- [Stream de Arquivo PDF ou Imagem S3 - AWS](https://dev.to/deesouza/stream-de-arquivo-pdf-ou-imagem-s3-aws-51gj)
-- [How to Implement Dark Mode in Tailwind CSS in One Command](https://dev.to/roton2/how-to-implement-dark-mode-in-tailwind-css-in-one-command-4f82)
+- [Self-Taught is Still Possible In 2025](https://dev.to/nmiller15/self-taught-is-still-possible-in-2025-546d)
+- [Explore, Scan, Secure: Nmap for Network Ninjas](https://dev.to/karanjain2527/explore-scan-secure-nmap-for-network-ninjas-4p0m)
+- [How to improve MSAA performance of MTKView](https://dev.to/keaukraine/how-to-improve-msaa-performance-of-mtkview-25da)
+- [Mockando Constantes em Testes com Jest: Um Exemplo Prático](https://dev.to/vitorrios1001/mockando-constantes-em-testes-com-jest-um-exemplo-pratico-1g2c)
+- [Using K-Nearest Neighbors &lpar;KNN&rpar; in Business Settings](https://dev.to/flnzba/using-k-nearest-neighbors-knn-in-business-settings-f9e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
