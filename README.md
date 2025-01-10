@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Loco 0.14 on Cathyos: 始め方](https://dev.to/nabbisen/loco-014-on-cathyos-shi-mefang-nch)
-- [Top 10 Front-End Development Technologies to Master](https://dev.to/ram_fb361bc2f8f94e06772e2/top-10-front-end-development-technologies-to-master-3o02)
-- [What Content to Create and How to Publish It, Part 1](https://dev.to/dimanikulin/what-content-to-create-and-how-to-publish-it-part-1-2hcj)
-- [How to Avoid Burnout in Tech &lpar;and Still Get Ahead&rpar;](https://dev.to/kakacomputer-media/how-to-avoid-burnout-in-tech-and-still-get-ahead-124o)
-- [The Legacy of Flappy Bird: Simplicity in Gaming at Its Best Introduction](https://dev.to/estherlindstrom/the-legacy-of-flappy-bird-simplicity-in-gaming-at-its-bestintroduction-12c8)
+- [AI and Humans: Navigating the Future Together or Apart?](https://dev.to/abhiiinavsingh/ai-and-humans-navigating-the-future-together-or-apart-357k)
+- [Node.js File Writing Methods - createWriteStream vs writeFileSync](https://dev.to/franciscomoretti/nodejs-file-writing-methods-createwritestream-vs-writefilesync-11do)
+- [Rich Online Digital Tokens Whitepaper](https://dev.to/rodit-org/rich-online-digital-tokens-whitepaper-1gpg)
+- [EU Drops the Hammer: MiCA Crypto Regulations Now in Full Force in 2025](https://dev.to/kvetoslavnovak/eu-drops-the-hammer-mica-crypto-regulations-now-in-full-force-in-2025-4e5d)
+- [GNOME vs KDE Plasma: Which One Is for You?](https://dev.to/snigdhaos/gnome-vs-kde-plasma-which-one-is-for-you-1gc9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
