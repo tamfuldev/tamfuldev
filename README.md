@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Google’s Quantum Leap: Everything About the Breakthrough Willow Chip](https://dev.to/empiree/googles-quantum-leap-everything-about-the-breakthrough-willow-chip-53h7)
-- [Getting Started With Cerbos](https://dev.to/ziizium/getting-started-with-cerbos-nn)
-- [🗃️ Resource Routes in React Router v7](https://dev.to/rgolawski/resource-routes-in-react-router-v7-l2)
-- [10 Open Source Projects Every Developer Needs to Bookmark 📚👨‍💻](https://dev.to/itanand_/10-open-source-projects-every-developer-needs-to-bookmark-14lg)
-- [Exploring the Future of AI: Top AI News Stories You Need to Know](https://dev.to/yukifuji/exploring-the-future-of-ai-top-ai-news-stories-you-need-to-know-55m6)
+- [Daily HR News and Insights](https://dev.to/vdaubry/daily-hr-news-and-insights-15l4)
+- [SnapToPDF](https://dev.to/niteshoak/snaptopdf-1b7c)
+- [Explaining Relation and Data Independence in SQL](https://dev.to/pkutaj/explaining-relation-and-data-independence-in-sql-1225)
+- [Stream de Arquivo PDF ou Imagem S3 - AWS](https://dev.to/deesouza/stream-de-arquivo-pdf-ou-imagem-s3-aws-51gj)
+- [How to Implement Dark Mode in Tailwind CSS in One Command](https://dev.to/roton2/how-to-implement-dark-mode-in-tailwind-css-in-one-command-4f82)
 <!-- BLOG-POST-LIST:END -->
 
 ---
