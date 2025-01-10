@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Test](https://dev.to/ben/test-5cj6)
-- [5 Fun Copilot Prompts You Can Use Today 🚀](https://dev.to/nikl/5-fun-copilot-prompts-you-can-use-today-5dmb)
-- [OpenAI vs. Open-source: Embedding Model Showdown](https://dev.to/timescale/openai-vs-open-source-embedding-model-showdown-189n)
-- [Reached 5k followers milestone! 🥳](https://dev.to/thesanjeevsharma/reached-5k-followers-milestone-435b)
-- [CKA Quick Check Points -- Network](https://dev.to/cheedge_lee/cka-quick-check-points-network-2gb4)
+- [Building a PHP CRUD Application with OOP and MySQL: A Best Practice Guide](https://dev.to/arafatweb/building-a-php-crud-application-with-oop-and-mysql-a-best-practice-guide-19p)
+- [Pagination using Go](https://dev.to/siddheshk02/pagination-using-go-4735)
+- [useFlexReverse Hook for Language-based Flex Direction Adjustment](https://dev.to/joodi/useflexreverse-hook-for-language-based-flex-direction-adjustment-3ofe)
+- [How to Paginate API Responses in Go](https://dev.to/siddheshk02/how-to-paginate-api-responses-in-go-4cga)
+- [Chaos Engineering with Chaos Mesh and vCluster: Testing Close to Production](https://dev.to/gentele/chaos-engineering-with-chaos-mesh-and-vcluster-testing-close-to-production-3ne7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
