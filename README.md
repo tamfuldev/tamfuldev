@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Basics of API Development.](https://dev.to/kihuni/understanding-the-basics-of-api-development-3fa)
-- [If you&#39;re trying to add collaborative features inside your app? Check this article!](https://dev.to/astrodevil/if-youre-trying-to-add-collaborative-features-inside-your-app-check-this-article-10lo)
-- [Building a Smart Heater Controller with Python, Docker, and Bluetooth #5](https://dev.to/mecorre1/building-a-smart-heater-controller-with-python-docker-and-bluetooth-5-d2a)
-- [Scalable E-Learning Platforms with Strapi’s API Integrations](https://dev.to/strapi/scalable-e-learning-platforms-with-strapis-api-integrations-1g30)
-- [trial](https://dev.to/gaurav_wani_d961507b8b476/trial-2fmf)
+- [What are the types or formats of questions can I expect in the exam?? &lpar;OCA Java SE 8 Programmer I Certification&rpar;](https://dev.to/devmercy/what-are-the-types-or-formats-of-questions-can-i-expect-in-the-exam-oca-java-se-8-programmer-i-lmf)
+- [This Week In React #216 : Next.js, ViewTransition, RSC, Compiler, React Router, Recoil, Bippy, Docusaurus, A11y...](https://dev.to/sebastienlorber/this-week-in-react-216-nextjs-viewtransition-rsc-compiler-react-router-recoil-bippy-51b0)
+- [New to working on server side development... I designed a nodejs,express mongodb and ejs project when deployed on cpanel im getting error &quot;failed to load resource:the server responded with status 500&quot; when making API calls to third party api](https://dev.to/twain97/new-to-working-on-server-side-development-i-designed-a-nodejsexpress-mongodb-and-ejs-project-16fn)
+- [Tester c&#39;est tricher, compiler c&#39;est douter](https://dev.to/mrvym/tester-cest-tricher-compiler-cest-douter-h59)
+- [Different Ways to Fetch Data from APIs Using `useEffect` in React](https://dev.to/atifwattoo/different-ways-to-fetch-data-from-apis-using-useeffect-in-react-34bh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
