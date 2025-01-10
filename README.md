@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Interesting feedback on Fuego!](https://dev.to/ewenquim/interesting-feedback-on-fuego-2ei9)
-- [[Boost]](https://dev.to/ewenquim/-4neb)
-- [Let&#39;s explore why Monad has the potential to be the most significant launch of the year.](https://dev.to/phareseacher/lets-explore-why-monad-has-the-potential-to-be-the-most-significant-launch-of-the-year-1c53)
-- [The Ultimate Guide to Cypress Testing: Features, Best Practices, and More](https://dev.to/hexadecimalsoftware/the-ultimate-guide-to-cypress-testing-features-best-practices-and-more-4m68)
-- [Skip: Build Native iOS and Android Apps with a Single SwiftUI Codebase](https://dev.to/tech_tales_daa8a7eab515b3/skip-build-native-ios-and-android-apps-with-a-single-swiftui-codebase-4p1i)
+- [CodeIgniter Monitoring Library – Born from Understanding Real Developer Needs](https://dev.to/inspector/codeigniter-monitoring-library-born-from-understanding-real-developer-needs-2d53)
+- [10 Free Tools Every Junior Developer Should Use](https://dev.to/andylarkin677/10-free-tools-every-junior-developer-should-use-4hio)
+- [O que realmente agregou profissionalmente quando eu era Junior](https://dev.to/jessilyneh/o-que-realmente-agregou-profissionalmente-quando-eu-era-junior-4ael)
+- [5 Common Mistakes Junior Developers Make and How to Avoid Them](https://dev.to/klimd1389/5-common-mistakes-junior-developers-make-and-how-to-avoid-them-11fb)
+- [An interesting observation on C# code coverage](https://dev.to/samuelko123/an-interesting-observation-on-c-code-coverage-5hl2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
