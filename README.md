@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CodeIgniter Monitoring Library – Born from Understanding Real Developer Needs](https://dev.to/inspector/codeigniter-monitoring-library-born-from-understanding-real-developer-needs-2d53)
-- [10 Free Tools Every Junior Developer Should Use](https://dev.to/andylarkin677/10-free-tools-every-junior-developer-should-use-4hio)
-- [O que realmente agregou profissionalmente quando eu era Junior](https://dev.to/jessilyneh/o-que-realmente-agregou-profissionalmente-quando-eu-era-junior-4ael)
-- [5 Common Mistakes Junior Developers Make and How to Avoid Them](https://dev.to/klimd1389/5-common-mistakes-junior-developers-make-and-how-to-avoid-them-11fb)
-- [An interesting observation on C# code coverage](https://dev.to/samuelko123/an-interesting-observation-on-c-code-coverage-5hl2)
+- [Understanding the Basics of API Development.](https://dev.to/kihuni/understanding-the-basics-of-api-development-3fa)
+- [If you&#39;re trying to add collaborative features inside your app? Check this article!](https://dev.to/astrodevil/if-youre-trying-to-add-collaborative-features-inside-your-app-check-this-article-10lo)
+- [Building a Smart Heater Controller with Python, Docker, and Bluetooth #5](https://dev.to/mecorre1/building-a-smart-heater-controller-with-python-docker-and-bluetooth-5-d2a)
+- [Scalable E-Learning Platforms with Strapi’s API Integrations](https://dev.to/strapi/scalable-e-learning-platforms-with-strapis-api-integrations-1g30)
+- [trial](https://dev.to/gaurav_wani_d961507b8b476/trial-2fmf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
