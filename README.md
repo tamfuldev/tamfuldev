@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Quick Sort is Faster Than Heap Sort](https://dev.to/jaiminbariya/why-quick-sort-is-faster-than-heap-sort-4aca)
-- [Insert into linked list random position](https://dev.to/myora/insert-into-linked-list-random-position-2029)
-- [How to create perfect CSS circle sectors](https://dev.to/andreigheorghiu/how-to-create-perfect-css-circle-sectors-2h43)
-- [Build Your Perfect Roadmap with Roadmap Creator - A Simple and Intuitive Tool](https://dev.to/bugblitz98/build-your-perfect-roadmap-with-roadmap-creator-a-simple-and-intuitive-tool-50pi)
-- [Week 12 of #100DaysOfCode: Resilience, Growth, and New Skills](https://dev.to/toptech5419/week-12-of-100daysofcode-resilience-growth-and-new-skills-1f7j)
+- [TypeScript Deep Dive: Mastering DeepStrictOmit, DeepStrictPick, and DeepStrictAssert](https://dev.to/kakasoo/typescript-deep-dive-mastering-deepstrictomit-deepstrictpick-and-deepstrictassert-jkm)
+- [AI Assistant Learns to Google: New Model Combines Language AI with Autonomous Web Search](https://dev.to/mikeyoung44/ai-assistant-learns-to-google-new-model-combines-language-ai-with-autonomous-web-search-4em7)
+- [Breakthrough Training Method Makes AI Art Generation Faster and More Stable Than Ever Before](https://dev.to/mikeyoung44/breakthrough-training-method-makes-ai-art-generation-faster-and-more-stable-than-ever-before-32gh)
+- [#Vinnifinni](https://dev.to/dhirenmadhukar/vinnifinni-2k64)
+- [How to Access Google Veo 2 AI Using a VPN](https://dev.to/s3cloudhub/how-to-access-google-veo-2-ai-using-a-vpn-4855)
 <!-- BLOG-POST-LIST:END -->
 
 ---
