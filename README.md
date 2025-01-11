@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🌎 Seamless Multi-Language Support in React Native](https://dev.to/amitkumar13/seamless-multi-language-support-in-react-native-5flg)
-- [5 Useful Shopify Plugins for E-Commerce Stores](https://dev.to/bond007/5-useful-shopify-plugins-for-e-commerce-stores-5an1)
-- [Creating Face Recognition Systems with Python](https://dev.to/krishnatadi/creating-face-recognition-systems-with-python-3ena)
-- [Portfolio That’s Wowing Everyone – See for Yourself!](https://dev.to/elvissautet/portfolio-thats-wowing-everyone-see-for-yourself-3595)
-- [AnyAppStart](https://dev.to/aceberg/anyappstart-1pk9)
+- [Free APIs You Need to Know About in 2024](https://dev.to/raajaryan/free-apis-you-need-to-know-about-in-2024-1ko9)
+- [Lance uma exceção de dentro de uma expressão lambda](https://dev.to/javaparainiciantes/lance-uma-excecao-de-dentro-de-uma-expressao-lambda-2ifp)
+- [Usando Strategy Pattern para evitar condicionamento exagerado](https://dev.to/paulinhoprado/usando-strategy-pattern-para-evitar-condicionamento-exagerado-3p24)
+- [Expressões lambda e a captura de variáveis](https://dev.to/javaparainiciantes/expressoes-lambda-e-a-captura-de-variaveis-1md3)
+- [The meta of the legal field: The disruption of Middlemen Asia that deserves recognition](https://dev.to/riteshbose/the-meta-of-the-legal-field-the-disruption-of-middlemen-asia-that-deserves-recognition-4995)
 <!-- BLOG-POST-LIST:END -->
 
 ---
