@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Streamlining CI/CD: A Complete Guide to Installing Jenkins on AWS EC2](https://dev.to/khalifalmahmud0/streamlining-cicd-a-complete-guide-to-installing-jenkins-on-aws-ec2-1edl)
-- [How to Load More data using ajax pagination on scroll in laravel 11 Example](https://dev.to/msh_sayket_6a8d9f36faac8a/how-to-load-more-data-using-ajax-pagination-on-scroll-in-laravel-11-example-2e50)
-- [TDD: No, Not Test-Driven Development; Let’s Talk Technical Design Documents](https://dev.to/hasan_py/tdd-no-not-test-driven-development-lets-talk-technical-design-documents-594m)
-- [As a beginner I need to go deeper, coding with a team might help learn quicker](https://dev.to/bhuti_db4b189b6679e2d0793/as-a-beginner-i-need-to-go-deeper-coding-with-a-team-might-help-learn-quicker-13l1)
-- [How to Image Upload with CKeditor in Laravel 11 Tutorial](https://dev.to/msh_sayket_6a8d9f36faac8a/how-to-image-upload-with-ckeditor-in-laravel-11-tutorial-2lo3)
+- [Harnessing Functional Programming with JavaScript](https://dev.to/shafayeat/harnessing-functional-programming-with-javascript-3i7b)
+- [Seeking CTO/Lead Developer to Co-Create an Innovative Music Tech Platform](https://dev.to/ampli/seeking-ctolead-developer-to-co-create-an-innovative-music-tech-platform-4iom)
+- [No Swagger in .NET 9? Here&#39;s What You Need to Know!](https://dev.to/extinctsion/no-swagger-in-net-9-heres-what-you-need-to-know-2103)
+- [Building an Async E-Commerce Web Scraper with Pydantic, Crawl4ai &amp; Gemini](https://dev.to/async_dime/building-an-async-e-commerce-web-scraper-with-pydantic-crawl4ai-gemini-4mnp)
+- [Hello devs!! I&#39;m John. I&#39;ve been building a saas in Brazil.](https://dev.to/svibudget/hello-devs-im-john-ive-been-building-a-saas-in-brazil-2k00)
 <!-- BLOG-POST-LIST:END -->
 
 ---
