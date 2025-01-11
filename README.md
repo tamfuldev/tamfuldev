@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/brunociccarino/-57cf)
-- [When Was the Last Time You Programmed Just for Fun?](https://dev.to/brunociccarino/when-was-the-last-time-you-programmed-just-for-fun-4hcm)
-- [Improving Your Productivity With Git Worktrees](https://dev.to/implosion/improving-your-productivity-with-git-worktrees-1k54)
-- [Building &quot;🔥Roast Me🤪&quot; with GitHub Copilot - A 1-Day Build Challenge](https://dev.to/jacksonkasi/building-roast-me-with-github-copilot-a-1-day-build-challenge-21gd)
-- [Understanding HTTP and HTTPS: A Comprehensive Overview](https://dev.to/ayako_yk/understanding-http-and-https-a-comprehensive-overview-50bk)
+- [How I Achieved 60% Faster Queries with Indexing](https://dev.to/digitalminds/how-i-achieved-60-faster-queries-with-indexing-514e)
+- [Creating a Dynamic Head-Out Image Box Using React + Tailwind CSS](https://dev.to/hayyaun/creating-a-dynamic-head-out-image-box-using-react-tailwind-css-3mkp)
+- [Provision EKS Cluster with Terraform, Terragrunt &amp; GitHub Actions](https://dev.to/aws-builders/provision-eks-cluster-with-terraform-terragrunt-github-actions-1c64)
+- [Adding Node.js server to Tauri App as a sidecar](https://dev.to/zaid_sunasra/adding-nodejs-server-to-tauri-app-as-a-sidecar-509j)
+- [Form Data vs. API Payload: What&#39;s the Deal?](https://dev.to/lovestaco/form-data-vs-api-payload-whats-the-deal-p01)
 <!-- BLOG-POST-LIST:END -->
 
 ---
