@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Harnessing Functional Programming with JavaScript](https://dev.to/shafayeat/harnessing-functional-programming-with-javascript-3i7b)
-- [Seeking CTO/Lead Developer to Co-Create an Innovative Music Tech Platform](https://dev.to/ampli/seeking-ctolead-developer-to-co-create-an-innovative-music-tech-platform-4iom)
-- [No Swagger in .NET 9? Here&#39;s What You Need to Know!](https://dev.to/extinctsion/no-swagger-in-net-9-heres-what-you-need-to-know-2103)
-- [Building an Async E-Commerce Web Scraper with Pydantic, Crawl4ai &amp; Gemini](https://dev.to/async_dime/building-an-async-e-commerce-web-scraper-with-pydantic-crawl4ai-gemini-4mnp)
-- [Hello devs!! I&#39;m John. I&#39;ve been building a saas in Brazil.](https://dev.to/svibudget/hello-devs-im-john-ive-been-building-a-saas-in-brazil-2k00)
+- [🌎 Seamless Multi-Language Support in React Native](https://dev.to/amitkumar13/seamless-multi-language-support-in-react-native-5flg)
+- [5 Useful Shopify Plugins for E-Commerce Stores](https://dev.to/bond007/5-useful-shopify-plugins-for-e-commerce-stores-5an1)
+- [Creating Face Recognition Systems with Python](https://dev.to/krishnatadi/creating-face-recognition-systems-with-python-3ena)
+- [Portfolio That’s Wowing Everyone – See for Yourself!](https://dev.to/elvissautet/portfolio-thats-wowing-everyone-see-for-yourself-3595)
+- [AnyAppStart](https://dev.to/aceberg/anyappstart-1pk9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
