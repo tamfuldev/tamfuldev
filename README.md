@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Free APIs You Need to Know About in 2024](https://dev.to/raajaryan/free-apis-you-need-to-know-about-in-2024-1ko9)
-- [Lance uma exceção de dentro de uma expressão lambda](https://dev.to/javaparainiciantes/lance-uma-excecao-de-dentro-de-uma-expressao-lambda-2ifp)
-- [Usando Strategy Pattern para evitar condicionamento exagerado](https://dev.to/paulinhoprado/usando-strategy-pattern-para-evitar-condicionamento-exagerado-3p24)
-- [Expressões lambda e a captura de variáveis](https://dev.to/javaparainiciantes/expressoes-lambda-e-a-captura-de-variaveis-1md3)
-- [The meta of the legal field: The disruption of Middlemen Asia that deserves recognition](https://dev.to/riteshbose/the-meta-of-the-legal-field-the-disruption-of-middlemen-asia-that-deserves-recognition-4995)
+- [[Boost]](https://dev.to/brunociccarino/-57cf)
+- [When Was the Last Time You Programmed Just for Fun?](https://dev.to/brunociccarino/when-was-the-last-time-you-programmed-just-for-fun-4hcm)
+- [Improving Your Productivity With Git Worktrees](https://dev.to/implosion/improving-your-productivity-with-git-worktrees-1k54)
+- [Building &quot;🔥Roast Me🤪&quot; with GitHub Copilot - A 1-Day Build Challenge](https://dev.to/jacksonkasi/building-roast-me-with-github-copilot-a-1-day-build-challenge-21gd)
+- [Understanding HTTP and HTTPS: A Comprehensive Overview](https://dev.to/ayako_yk/understanding-http-and-https-a-comprehensive-overview-50bk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
