@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Roadmap to Becoming a Mobile App Developer: Tips for Success](https://dev.to/devboussouf/roadmap-to-becoming-a-mobile-app-developer-tips-for-success-1k6h)
-- [how to inspect a docker container](https://dev.to/said_olano/how-to-inspect-a-docker-container-31hf)
-- [Introduction To Networking](https://dev.to/andrew_despres/introduction-to-networking-lih)
-- [How to run a Nginx-web server](https://dev.to/said_olano/how-to-run-a-nginx-web-server-456b)
-- [The Div Guild Chronicles — Embracing Light&#39;s Power](https://dev.to/santimariani/the-div-guild-chronicles-light-over-darkness-3baf)
+- [how to write a Rabbit Message](https://dev.to/said_olano/how-to-write-a-rabbit-message-35db)
+- [New Project: a repository of style references for MidJourney](https://dev.to/leooo_dev/new-project-a-repository-of-style-references-for-midjourney-45ho)
+- [Static sites FTW](https://dev.to/w4ffl35/static-sites-ftw-3cg2)
+- [Install PyTorch and JupyterLab on Ubuntu](https://dev.to/hyperkai/install-pytorch-and-jupyterlab-on-ubuntu-294i)
+- [Entity Framework Core Code First](https://dev.to/chami/entity-framework-core-database-first-378e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
