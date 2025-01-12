@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Brevo smtp emails to other gmail accounts silently failing , verified domain to the rescue](https://dev.to/tigawanna/brevo-smtp-emails-to-other-gmail-accounts-silently-failing-verified-domain-to-the-rescue-1d78)
-- [Implementing Kubernetes Security with Kyverno: A Journey Through Resource Management](https://dev.to/devopsbysetchuko/implementing-kubernetes-security-with-kyverno-a-journey-through-resource-management-16ea)
-- [Comprehensive Guide to Installing AWS CLI, Configuring It, and Downloading S3 Buckets Locally](https://dev.to/himanshusinghtomar/comprehensive-guide-to-installing-aws-cli-configuring-it-and-downloading-s3-buckets-locally-h)
-- [When and Why You Need Sharding: A Complete Guide to Scaling Databases Efficiently](https://dev.to/lvalen/when-and-why-you-need-sharding-a-complete-guide-to-scaling-databases-efficiently-3h8g)
-- [How to Build Text-to-Speech with React and Transformers.js](https://dev.to/emojiiii/how-to-build-text-to-speech-with-react-and-transformersjs-206h)
+- [Simplifying Entry Animations with @starting-style](https://dev.to/salehmubashar/simplifying-entry-animations-with-starting-style-1ige)
+- [60 Days Habit Tracker - Productivity Tool](https://dev.to/dhanush9952/60-days-habit-tracker-productivity-tool-1o3c)
+- [Understanding JavaScript Data Types](https://dev.to/ridoy_hasan/understanding-javascript-data-types-2208)
+- [Enforcing Strong Passwords in Laravel](https://dev.to/yasserelgammal/enforcing-strong-passwords-in-laravel-ibk)
+- [Observing position-change of HTML elements using Intersection Observer](https://dev.to/ajk-essential/observing-position-change-of-html-elements-using-intersection-observer-12de)
 <!-- BLOG-POST-LIST:END -->
 
 ---
