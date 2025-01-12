@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Revolutionizing Diagnosis: XAI and Deep Learning in Brain Cancer Detection&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-diagnosis-xai-and-deep-learning-in-brain-cancer-detection-2cph)
-- [Bootcamp vs. Self-Taught: Which path is the best?](https://dev.to/codex_whisperer/bootcamp-vs-self-taught-which-path-is-the-best-5acp)
-- [Daily JavaScript Challenge #JS-70: Find Missing Letter in Alphabet Sequence](https://dev.to/dpc/daily-javascript-challenge-js-70-find-missing-letter-in-alphabet-sequence-1a43)
-- [Benefits and Challenges of Using Encryption in a React Native App](https://dev.to/aneeqakhan/benefits-and-challenges-of-using-encryption-in-a-react-native-app-1ego)
-- [🌥️ Evolução da Hospedagem em Nuvem](https://dev.to/_richardson_/aws-cloud-practitioner-dia-1-26)
+- [Roadmap to Becoming a Mobile App Developer: Tips for Success](https://dev.to/devboussouf/roadmap-to-becoming-a-mobile-app-developer-tips-for-success-1k6h)
+- [how to inspect a docker container](https://dev.to/said_olano/how-to-inspect-a-docker-container-31hf)
+- [Introduction To Networking](https://dev.to/andrew_despres/introduction-to-networking-lih)
+- [How to run a Nginx-web server](https://dev.to/said_olano/how-to-run-a-nginx-web-server-456b)
+- [The Div Guild Chronicles — Embracing Light&#39;s Power](https://dev.to/santimariani/the-div-guild-chronicles-light-over-darkness-3baf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
