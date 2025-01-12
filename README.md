@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [7 Essential Design Patterns for JavaScript Developers: Boost Your Coding Mastery](https://dev.to/nazeh_taha/7-essential-design-patterns-for-javascript-developers-boost-your-coding-mastery-2h7e)
-- [Day 13: Document Flow and Floating](https://dev.to/theoriginalbpc/day-13-document-flow-and-floating-3367)
-- [Rose::DB ORM and Perl](https://dev.to/dragostrif/rosedb-orm-and-perl-3dig)
-- [🟥🕷🦈presents: EKS fun for Data Science &lpar;Part 1&rpar;](https://dev.to/crimsonspidershark/presents-eks-fun-for-data-science-part-1-1m98)
-- [Understanding &lpar;a bit of&rpar; the Gradle Kotlin DSL](https://dev.to/feregri_no/understanding-a-bit-of-the-gradle-kotlin-dsl-57kg)
+- [Shadow DOM Perfected: Experience the Power of Monster 3.100!](https://dev.to/schukai/shadow-dom-perfected-experience-the-power-of-monster-3100-18ii)
+- [The Outsourcing Trap: Why Your Product Deserves Better](https://dev.to/jetthoughts/the-outsourcing-trap-why-your-product-deserves-better-46i8)
+- [Building a Stronger Security Posture with AWS Security Hub](https://dev.to/aws-builders/building-a-stronger-security-posture-with-aws-security-hub-2foi)
+- [5 Software Development Challenges That Can Be Solved With AI](https://dev.to/opman129/5-software-development-challenges-that-can-be-solved-with-ai-112f)
+- [RabbitMQ: conceitos fundamentais](https://dev.to/lukesilva/rabbitmq-conceitos-fundamentais-9kp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
