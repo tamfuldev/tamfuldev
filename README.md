@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Master AWS Transit Gateway Management with Terraform: A Step-by-Step Guide](https://dev.to/damdev95/master-aws-transit-gateway-management-with-terraform-a-step-by-step-guide-3g9b)
-- [Pear Review: Transforming Code Reviews into Empathetic Learning Experiences with GitHub Copilot&quot;](https://dev.to/scarowar/pear-review-transforming-code-reviews-into-empathetic-learning-experiences-with-github-copilot-4ofa)
-- [Retro’ing and Debugging 2024](https://dev.to/abdullah-k18/retroing-and-debugging-2024-5c7d)
-- [Unlocking the Secret Gem Inside a Centered Div.](https://dev.to/passionoverpain/unlocking-the-secret-gem-inside-a-centered-div-4d9j)
-- [Modernizing HyperGraph&#39;s CLI: A Journey Towards Better Architecture](https://dev.to/d1d4c/modernizing-hypergraphs-cli-a-journey-towards-better-architecture-3mg3)
+- [7 Essential Design Patterns for JavaScript Developers: Boost Your Coding Mastery](https://dev.to/nazeh_taha/7-essential-design-patterns-for-javascript-developers-boost-your-coding-mastery-2h7e)
+- [Day 13: Document Flow and Floating](https://dev.to/theoriginalbpc/day-13-document-flow-and-floating-3367)
+- [Rose::DB ORM and Perl](https://dev.to/dragostrif/rosedb-orm-and-perl-3dig)
+- [🟥🕷🦈presents: EKS fun for Data Science &lpar;Part 1&rpar;](https://dev.to/crimsonspidershark/presents-eks-fun-for-data-science-part-1-1m98)
+- [Understanding &lpar;a bit of&rpar; the Gradle Kotlin DSL](https://dev.to/feregri_no/understanding-a-bit-of-the-gradle-kotlin-dsl-57kg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
