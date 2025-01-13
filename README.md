@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/rym_michaut/-3602)
-- [lodash._merge vs Defu](https://dev.to/ramunarasinga-11/lodashmerge-vs-defu-b3d)
-- [Using Ollama in Microsoft Word locally](https://dev.to/gptlocalhost/using-ollama-in-microsoft-word-locally-3l3o)
-- [How to convert geotiff to load with Cesium&#39;s imagery provider](https://dev.to/gisbox/how-to-convert-geotiff-to-load-with-cesiums-imagery-provider-376o)
-- [No Copilot? No Problem! Get Free AI in VSCode Now](https://dev.to/royged/no-copilot-no-problem-get-free-ai-in-vscode-now-1a1g)
+- [Simplifying Entry Animations with @starting-style](https://dev.to/salehmubashar/simplifying-entry-animations-with-starting-style-5c99)
+- [Static variables in Java](https://dev.to/devmercy/static-variables-in-java-1kah)
+- [Uno Platform is the revolution 🛸](https://dev.to/this-is-learning/uno-platform-is-the-revolution-2eli)
+- [Embracing the Spirit of Lohri: Innovate and Elevate with AI in Software Testing 🌾✨](https://dev.to/vaibhavkuls/embracing-the-spirit-of-lohri-innovate-and-elevate-with-ai-in-software-testing-3gcl)
+- [[vscode] Change workspace project color and name 🌈](https://dev.to/lennardv2/vscode-change-workspace-project-color-and-name-53o6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
