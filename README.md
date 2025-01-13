@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Using proxy IP for data cleaning and preprocessing](https://dev.to/98ip/using-proxy-ip-for-data-cleaning-and-preprocessing-1j48)
-- [Rust vs. Go: A Hands-On Comparison for Real Developers](https://dev.to/ryo_suwito/rust-vs-go-a-hands-on-comparison-for-real-developers-4320)
-- [Recursion: Concepts, Components, and Practical Applications — Java](https://dev.to/alex_ricciardi/recursion-concepts-components-and-practical-applications-java-1i7m)
-- [Seeking Your Expertise: AI Tools for Non-Coders](https://dev.to/dongxu_xie_19e21deeac565b/seeking-your-expertise-ai-tools-for-non-coders-374b)
-- [Truth Tables: Foundations and Applications in Logic and Neural Networks](https://dev.to/alex_ricciardi/truth-tables-foundations-and-applications-in-logic-and-neural-networks-3m7p)
+- [Modern Techniques to Prevent Unauthorized Access to Enterprise Systems](https://dev.to/adityabhuyan/modern-techniques-to-prevent-unauthorized-access-to-enterprise-systems-cle)
+- [Understanding the Essential Elements of a Well-Designed CISC Architecture for Modern Computing](https://dev.to/adityabhuyan/understanding-the-essential-elements-of-a-well-designed-cisc-architecture-for-modern-computing-5a7e)
+- [Hiding WooCommerce Cart when empty by Enqueueing JavaScript](https://dev.to/skateallday/hiding-woocommerce-cart-when-empty-by-enqueueing-javascript-1n5k)
+- [Overcoming REST API Challenges with NeoApps.AI](https://dev.to/neopric_licences_86355902/overcoming-rest-api-challenges-with-neoappsai-4f4a)
+- [Managing Secrets in an AWS Serverless Application](https://dev.to/aws-builders/managing-secrets-in-an-aws-serverless-application-2752)
 <!-- BLOG-POST-LIST:END -->
 
 ---
