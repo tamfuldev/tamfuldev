@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Site Reliability Engineering &lpar;SRE&rpar;](https://dev.to/574n13y/site-reliability-engineering-sre-ap4)
-- [Leveraging AWS Control Tower for Multi-Account Financial Organizations](https://dev.to/ikoh_sylva/leveraging-aws-control-tower-for-multi-account-financial-organizations-5ak2)
-- [Web editor with Podlite markup language syntax highlighting is here!](https://dev.to/zag/web-editor-with-podlite-markup-language-syntax-highlighting-is-here-2la)
-- [🛥️ Introduction to Docker: Core Concepts and Basics for Beginners](https://dev.to/juniourrau/introduction-to-docker-core-concepts-and-basics-for-beginners-4n0h)
-- [The 10 fastest programming languages in the world](https://dev.to/marcosplusplus/the-10-fastest-programming-languages-in-the-world-22gl)
+- [Complete Guide to Organizing Information Properly in Technical Writing](https://dev.to/olodocoder/complete-guide-to-organizing-information-properly-in-technical-writing-181o)
+- [Your first Java app with Docker deployment in 5 min](https://dev.to/alexander_uspenskiy_the_great/your-first-java-app-with-docker-deployment-in-5-min-3ofe)
+- [Encapsulation in Python](https://dev.to/vincenttommi/encapsulation-in-python-388a)
+- [Custom Angular and Karma Test Extension for VS Code](https://dev.to/ravitejavattem/custom-angular-and-karma-test-extension-for-vs-code-3b3b)
+- [Classic Programmer Jokes](https://dev.to/reypena1105/classic-programmer-jokes-40h3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
