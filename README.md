@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Complete Guide to Organizing Information Properly in Technical Writing](https://dev.to/olodocoder/complete-guide-to-organizing-information-properly-in-technical-writing-181o)
-- [Your first Java app with Docker deployment in 5 min](https://dev.to/alexander_uspenskiy_the_great/your-first-java-app-with-docker-deployment-in-5-min-3ofe)
-- [Encapsulation in Python](https://dev.to/vincenttommi/encapsulation-in-python-388a)
-- [Custom Angular and Karma Test Extension for VS Code](https://dev.to/ravitejavattem/custom-angular-and-karma-test-extension-for-vs-code-3b3b)
-- [Classic Programmer Jokes](https://dev.to/reypena1105/classic-programmer-jokes-40h3)
+- [Build an AI code review assistant with v0.dev, litellm and Agenta](https://dev.to/agenta/build-an-ai-code-review-assistant-with-v0dev-litellm-and-agenta-1ojc)
+- [Carpe Diem : Study Concentration App](https://dev.to/rudra_sahoo_a9dabffb2225f/carpe-diem-study-concentration-app-2pmb)
+- [Step-by-Step Email Verification JavaScript Tutorial: Best Practices &amp; Code Examples](https://dev.to/mailfloss/step-by-step-email-verification-javascript-tutorial-best-practices-code-examples-1gm)
+- [How to come up with project ideas](https://dev.to/jtrevdev/how-to-come-up-with-project-ideas-2dcb)
+- [How This VSCode Extension Saves Your Code from Exposed Secrets?](https://dev.to/arpitstack/how-this-vscode-extension-saves-your-code-from-exposed-secrets-48pn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
