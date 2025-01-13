@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Cómo AWS Snow está transformando el edge computing: Historias de clientes](https://dev.to/briansuarezsantiago/como-aws-snow-esta-transformando-el-edge-computing-historias-de-clientes-5bif)
-- [6 Advanced Python Techniques for Efficient Text Processing and Analysis](https://dev.to/aaravjoshi/6-advanced-python-techniques-for-efficient-text-processing-and-analysis-1cg2)
-- [What is Blockchain?](https://dev.to/jamesbright/what-is-blockchain-2bfh)
-- [7 Powerful JavaScript Automation Techniques to Boost Developer Productivity](https://dev.to/aaravjoshi/7-powerful-javascript-automation-techniques-to-boost-developer-productivity-469p)
-- [The Journey of Managing My First Open Source](https://dev.to/technoph1le/the-journey-of-managing-my-first-open-source-1a7l)
+- [Using proxy IP for data cleaning and preprocessing](https://dev.to/98ip/using-proxy-ip-for-data-cleaning-and-preprocessing-1j48)
+- [Rust vs. Go: A Hands-On Comparison for Real Developers](https://dev.to/ryo_suwito/rust-vs-go-a-hands-on-comparison-for-real-developers-4320)
+- [Recursion: Concepts, Components, and Practical Applications — Java](https://dev.to/alex_ricciardi/recursion-concepts-components-and-practical-applications-java-1i7m)
+- [Seeking Your Expertise: AI Tools for Non-Coders](https://dev.to/dongxu_xie_19e21deeac565b/seeking-your-expertise-ai-tools-for-non-coders-374b)
+- [Truth Tables: Foundations and Applications in Logic and Neural Networks](https://dev.to/alex_ricciardi/truth-tables-foundations-and-applications-in-logic-and-neural-networks-3m7p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
