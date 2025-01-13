@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Service Workers: Revolutionizing Modern Web Apps](https://dev.to/mukhilpadmanabhan/service-workers-revolutionizing-modern-web-apps-24pk)
-- [Hello future](https://dev.to/ben/hello-future-3pg3)
-- [Okay, Seriously, Mockingbird + Git is a Game Changer &lpar;and I Made a Video About It!&rpar; 🚀](https://dev.to/ozkeisar/okay-seriously-mockingbird-git-is-a-game-changer-and-i-made-a-video-about-it-3o6m)
-- [The Essential Connection Between Physical and Cybersecurity](https://dev.to/buzzgk/the-essential-connection-between-physical-and-cybersecurity-ehf)
-- [Microsoft Project in 2025](https://dev.to/skillboosttrainer/microsoft-project-in-2025-26i7)
+- [Site Reliability Engineering &lpar;SRE&rpar;](https://dev.to/574n13y/site-reliability-engineering-sre-ap4)
+- [Leveraging AWS Control Tower for Multi-Account Financial Organizations](https://dev.to/ikoh_sylva/leveraging-aws-control-tower-for-multi-account-financial-organizations-5ak2)
+- [Web editor with Podlite markup language syntax highlighting is here!](https://dev.to/zag/web-editor-with-podlite-markup-language-syntax-highlighting-is-here-2la)
+- [🛥️ Introduction to Docker: Core Concepts and Basics for Beginners](https://dev.to/juniourrau/introduction-to-docker-core-concepts-and-basics-for-beginners-4n0h)
+- [The 10 fastest programming languages in the world](https://dev.to/marcosplusplus/the-10-fastest-programming-languages-in-the-world-22gl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
