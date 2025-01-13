@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Modify Angular Material 19 Theme with SCSS &amp; CSS](https://dev.to/ngmaterialdev/modify-angular-material-19-theme-with-scss-css-50gj)
-- [Angular form field types](https://dev.to/ayyash/angular-form-field-types-24fl)
-- [Building High-Performance React Native Apps[Tips for Developers]](https://dev.to/brilworks/building-high-performance-react-native-appstips-for-developers-3afh)
-- [Why top AI architects are DITCHING relationalDBs for knowledge graphs](https://dev.to/falkordb/why-top-ai-architects-are-ditching-relationaldbs-for-knowledge-graphs-51l1)
-- [Empowering Businesses with Needle: A Generative AI Framework for Seamless Integration](https://dev.to/chetanmistry/empowering-businesses-with-needle-a-generative-ai-framework-for-seamless-integration-56jc)
+- [Building a Geospatial Server with BBOX Server](https://dev.to/mierune/building-a-geospatial-server-with-bbox-server-4e5b)
+- [👀](https://dev.to/zanaranjosa/-3g66)
+- [Top AI Video Generator Review: Unveiling Strengths, Weaknesses, and Best Picks](https://dev.to/cecilia_luo_23bae8578aa08/top-ai-video-generator-review-unveiling-strengths-weaknesses-and-best-picks-d1i)
+- [Rendering graph nodes as React components in d3.js+React graph.](https://dev.to/neznayer/force-graph-with-react-and-d3js-21h0)
+- [A Comprehensive Guide to Using OAuth 1.0a with Twitter API v2](https://dev.to/chatgptnexus/2025011319-38-38-article-56pp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
