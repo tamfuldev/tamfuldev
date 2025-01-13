@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build an AI code review assistant with v0.dev, litellm and Agenta](https://dev.to/agenta/build-an-ai-code-review-assistant-with-v0dev-litellm-and-agenta-1ojc)
-- [Carpe Diem : Study Concentration App](https://dev.to/rudra_sahoo_a9dabffb2225f/carpe-diem-study-concentration-app-2pmb)
-- [Step-by-Step Email Verification JavaScript Tutorial: Best Practices &amp; Code Examples](https://dev.to/mailfloss/step-by-step-email-verification-javascript-tutorial-best-practices-code-examples-1gm)
-- [How to come up with project ideas](https://dev.to/jtrevdev/how-to-come-up-with-project-ideas-2dcb)
-- [How This VSCode Extension Saves Your Code from Exposed Secrets?](https://dev.to/arpitstack/how-this-vscode-extension-saves-your-code-from-exposed-secrets-48pn)
+- [SkillBytes - Gamified learning process using AI](https://dev.to/schemetastic/skillbytes-gamified-learning-process-using-ai-3ed5)
+- [How to help coding agents help you](https://dev.to/inferable/how-to-help-coding-agents-help-you-4cdc)
+- [I am a beginner in Python programming and I want to develop my skills.](https://dev.to/hamza_elmanzar/i-am-a-beginner-in-python-programming-and-i-want-to-develop-my-skills-1ap8)
+- [DreamSmart StarV Air2 smart glasses with Google Gemini will be released in Q1 2025 in collaboration with Up Network](https://dev.to/future_arvr/dreamsmart-starv-air2-smart-glasses-with-google-gemini-will-be-released-in-q1-2025-in-collaboration-1ki6)
+- [Need Help with CSS and JavaScript for Video Production Website in Chicago](https://dev.to/aleks_abedini_089aba01e8a/need-help-with-css-and-javascript-for-video-production-website-in-chicago-264k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
