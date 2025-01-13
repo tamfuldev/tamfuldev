@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Pros and Cons of 3 Ways to Instantiate Objects: Telescope Pattern, JavaBeans, and Builder Pattern](https://dev.to/mspilari/pros-and-cons-of-3-ways-to-instantiate-objects-telescope-pattern-javabeans-and-builder-pattern-2j9g)
-- [Understanding API Waterfalls: How They Work, Benefits, and Best Practices](https://dev.to/keploy/understanding-api-waterfalls-how-they-work-benefits-and-best-practices-3ndj)
-- [Game Notification System with Amazon Event Scheduler, AWS Lambda, and Amazon SNS Using Terraform](https://dev.to/gbenga700/game-notification-system-with-amazon-event-scheduler-aws-lambda-and-amazon-sns-using-terraform-57bp)
-- [From Bad Data to Accurate Leads: Overcoming B2B Challenges in 2025](https://dev.to/vereigenmedia_80ca9ae2f52/from-bad-data-to-accurate-leads-overcoming-b2b-challenges-in-2025-4a7)
-- [How does asynchronous JavaScript improve the performance of web applications](https://dev.to/hexa-home/how-does-asynchronous-javascript-improve-the-performance-of-web-applications-2fm3)
+- [ISP - O Princípio da Segregação de Interface](https://dev.to/thrsouza/isp-o-principio-da-segregacao-de-interface-32c7)
+- [Effortlessly Host Static JSON Files with JSONsilo.com](https://dev.to/jaironlanda/effortlessly-host-static-json-files-with-jsonsilocom-3jm)
+- [Platforms for learning Linux](https://dev.to/david_stephen_f411b721ed2/platforms-for-learning-linux-108k)
+- [2024 Dev Rewind: Breaking Comfort Zones and Embracing the Unexpected](https://dev.to/laikokwui/2024-dev-rewind-4dd6)
+- [# That 3 AM Release Moment: Lessons from a Developer&#39;s Journey](https://dev.to/yamsbar/-that-3-am-release-moment-lessons-from-a-developers-journey-cmp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
