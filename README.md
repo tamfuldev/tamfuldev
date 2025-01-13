@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Publish a Power Platform Custom Connector](https://dev.to/wyattdave/how-to-publish-a-power-platform-custom-connector-2ihi)
-- [Format dates and times easily in your application using Day.js](https://dev.to/sarahokolo/format-dates-and-times-easily-in-your-application-using-dayjs-fja)
-- [Seven quickest ways to center your div using CSS](https://dev.to/web_dev-usman/seven-quickest-ways-to-center-your-div-using-css-42jb)
-- [Twitter Overhaul in Progress: Your Input = New Features!](https://dev.to/oceanbearstudios/twitter-overhaul-in-progress-your-input-new-features-33mf)
-- [Dog RER &amp; MER Calculator](https://dev.to/learninggs/dog-rer-mer-calculator-54ea)
+- [[Boost]](https://dev.to/rym_michaut/-3602)
+- [lodash._merge vs Defu](https://dev.to/ramunarasinga-11/lodashmerge-vs-defu-b3d)
+- [Using Ollama in Microsoft Word locally](https://dev.to/gptlocalhost/using-ollama-in-microsoft-word-locally-3l3o)
+- [How to convert geotiff to load with Cesium&#39;s imagery provider](https://dev.to/gisbox/how-to-convert-geotiff-to-load-with-cesiums-imagery-provider-376o)
+- [No Copilot? No Problem! Get Free AI in VSCode Now](https://dev.to/royged/no-copilot-no-problem-get-free-ai-in-vscode-now-1a1g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
