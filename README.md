@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [All-APIs.com: The Ultimate Free REST API Platform for Developers](https://dev.to/raya_ali_4d4f239e66f846cc/all-apiscom-the-ultimate-free-rest-api-platform-for-developers-mig)
-- [3 essential elements for Web publishing](https://dev.to/jldec/3-essential-elements-for-web-publishing-30n1)
-- [Binary Made Easy — Understand the Basics](https://dev.to/theselftaughtdev/binary-made-easy-understand-the-basics-10hl)
-- [Rutas relativas y absolutas en programación](https://dev.to/devjohanadrian/rutas-relativas-y-absolutas-en-programacion-15nh)
-- [Understanding Node Problem Detector in Kubernetes: Beyond Default Node Conditions](https://dev.to/nurudeen_kamilu/understanding-node-problem-detector-in-kubernetes-beyond-default-node-conditions-1d1h)
+- [Day 1079 : Price I&#39;ll Pay](https://dev.to/dwane/day-1079-price-ill-pay-3bmc)
+- [A Beginner Story](https://dev.to/nancy_kataria/a-beginner-story-351j)
+- [The Importance of a Design System: Lessons from Steam UI](https://dev.to/fariasmateuss/the-problem-of-not-having-a-design-system-in-place-4m14)
+- [&quot;Revolutionizing Radio Astronomy: Fast Phase Calibration Techniques Unveiled&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-radio-astronomy-fast-phase-calibration-techniques-unveiled-5him)
+- [Deploying Flutter Web Apps using Globe.dev](https://dev.to/maneesha14w/deploying-flutter-web-apps-using-globedev-550)
 <!-- BLOG-POST-LIST:END -->
 
 ---
