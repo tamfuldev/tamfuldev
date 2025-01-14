@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What is typescript?](https://dev.to/mosininamdar/what-is-typescript-1n3b)
-- [Configuring Public IP addresses in Azure](https://dev.to/willvelida/configuring-public-ip-addresses-in-azure-13bi)
-- [Streaming Responses in AI: How AI Outputs Are Generated in Real-Time](https://dev.to/pranshu_kabra_fe98a73547a/streaming-responses-in-ai-how-ai-outputs-are-generated-in-real-time-18kb)
-- [Java-kafka producing a message](https://dev.to/said_olano/java-kafka-producing-a-message-35pm)
-- [Dynamic Infrastructure Provisioning with Serverless DevOps](https://dev.to/anshul_kichara/dynamic-infrastructure-provisioning-with-serverless-devops-3n3g)
+- [Why I won&#39;t use querySelector again.](https://dev.to/codingnninja/why-i-wont-use-queryselector-again-3mod)
+- [Stable Memory In Internet Computer](https://dev.to/harshedabdulla/stable-memory-in-internet-computer-37pj)
+- [Meilleurs proxy anonymes pour le torrent et la confidentialité](https://dev.to/discord-tools/meilleurs-proxy-anonymes-pour-le-torrent-et-la-confidentialite-4j01)
+- [SCP Automation for AWS Organization](https://dev.to/aws-builders/scp-automation-for-aws-organization-569j)
+- [Why build a Microservice?](https://dev.to/said_olano/why-build-a-microservice-4h48)
 <!-- BLOG-POST-LIST:END -->
 
 ---
