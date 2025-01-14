@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;s create Data Table. Part 7: Dark theme and refactoring](https://dev.to/morewings/lets-create-data-table-part-7-dark-theme-and-refactoring-3ni9)
-- [Compiling 2025: Building a Year of Growth and Innovation](https://dev.to/prasanthj/compiling-2025-building-a-year-of-growth-and-innovation-3d3k)
-- [Understanding OAuth 1.0a Signature Generation: Postman vs. Node.js Library and Custom Implementation](https://dev.to/chatgptnexus/2025011422-50-58-article-2olf)
-- [React Korean Input Bug: First Character Not Displaying Properly](https://dev.to/gnoeykeat/react-korean-input-bug-first-character-not-displaying-properly-5epd)
-- [Query Data with DynamoDB](https://dev.to/misolainthecloud/query-data-with-dynamodb-59nj)
+- [Самые необычные технологические новинки, представленные на CES 2025](https://dev.to/arcanegamingcom/samyie-nieobychnyie-tiekhnologhichieskiie-novinki-priedstavliennyie-na-ces-2025-4j13)
+- [AI in Your Hands: Nvidia’s $3,000 Supercomputer Changes Everything](https://dev.to/empiree/ai-in-your-hands-nvidias-3000-supercomputer-changes-everything-35he)
+- [Don&#39;t use JWT for Authorization!](https://dev.to/authzed/dont-use-jwt-for-authorization-1io5)
+- [7 Open-Source Tools for Better Website Analytics](https://dev.to/piotrkulpinski/7-open-source-tools-for-better-website-analytics-1lhl)
+- [Real-Time Sentiment Analysis: Integrating Python NLP with Node.js](https://dev.to/javonet/real-time-sentiment-analysis-integrating-python-nlp-with-nodejs-4db3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
