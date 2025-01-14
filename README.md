@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top 40 Interesting Entrepreneurship Project Ideas For Students](https://dev.to/tarunfulera/top-40-interesting-entrepreneurship-project-ideas-for-students-mda)
-- [AI Plugins for WooCommerce: A Simple Guide](https://dev.to/sidra_tulmuntaha/ai-plugins-for-woocommerce-a-simple-guide-n26)
-- [[Boost]](https://dev.to/rym_michaut/-1plj)
-- [Understanding Spring Security and OAuth 2.0](https://dev.to/mayank_gupta_a98cb879081b/understanding-spring-security-and-oauth-20-4ado)
-- [Host Header Injection in Laravel: Risks and Prevention](https://dev.to/pentest_testing_corp/host-header-injection-in-laravel-risks-and-prevention-5g5f)
+- [My Journey as a First-Year Software Engineering Student](https://dev.to/gitbuddhi/my-journey-as-a-first-year-software-engineering-student-1l55)
+- [Processors: What are they and How do they impact computer performance?](https://dev.to/daniel_nwokocha/processors-what-are-they-and-how-do-they-impact-computer-performance-1j15)
+- [Processors: What are they and How do they impact computer performance?](https://dev.to/daniel_nwokocha/processors-what-are-they-and-how-do-they-impact-computer-performance-1dha)
+- [Processors: What are they and How do they impact computer performance?](https://dev.to/daniel_nwokocha/processors-what-are-they-and-how-do-they-impact-computer-performance-54i9)
+- [How to check if the microcontroller is started?](https://dev.to/carolineee/how-to-check-if-the-microcontroller-is-started-41h2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
