@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Website Down, Spirits Up: AceHack’s Unstoppable Team](https://dev.to/acehack/website-down-spirits-up-acehacks-unstoppable-team-1aop)
-- [Go&#39;s Concurrency Decoded: Goroutine Scheduling](https://dev.to/leapcell/gos-concurrency-decoded-goroutine-scheduling-1gfc)
-- [Pythonizing JavaScript](https://dev.to/heyitsandre/pythonizing-javascript-489i)
-- [&quot;Starting My React Journey&quot;](https://dev.to/imrancodes/starting-my-react-journey-3mnk)
-- [Redefining Healthcare and Insurance with Groundbreaking AI and Data Analytics Solutions](https://dev.to/mariliatirachi62/redefining-healthcare-and-insurance-with-groundbreaking-ai-and-data-analytics-solutions-5527)
+- [Let&#39;s create Data Table. Part 7: Dark theme and refactoring](https://dev.to/morewings/lets-create-data-table-part-7-dark-theme-and-refactoring-3ni9)
+- [Compiling 2025: Building a Year of Growth and Innovation](https://dev.to/prasanthj/compiling-2025-building-a-year-of-growth-and-innovation-3d3k)
+- [Understanding OAuth 1.0a Signature Generation: Postman vs. Node.js Library and Custom Implementation](https://dev.to/chatgptnexus/2025011422-50-58-article-2olf)
+- [React Korean Input Bug: First Character Not Displaying Properly](https://dev.to/gnoeykeat/react-korean-input-bug-first-character-not-displaying-properly-5epd)
+- [Query Data with DynamoDB](https://dev.to/misolainthecloud/query-data-with-dynamodb-59nj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
