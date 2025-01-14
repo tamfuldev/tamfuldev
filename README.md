@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes on Hybrid Cloud: Talos network](https://dev.to/sergelogvinov/kubernetes-on-hybrid-cloud-talos-network-51lo)
-- [Expo reads text asset file](https://dev.to/somidad/expo-reads-text-asset-file-3f07)
-- [Train LLM From Scratch](https://dev.to/fareedkhan557/train-llm-from-scratch-2jje)
-- [Why NestJS Is The New Gold Standard For Node Backend Development](https://dev.to/rayenmabrouk/why-nestjs-is-the-new-gold-standard-for-node-backend-development-lm)
-- [Top 20 Advanced JavaScript Interview Questions and Answers for Seasoned Engineers](https://dev.to/greatfrontend/top-20-advanced-javascript-interview-questions-and-answers-for-seasoned-engineers-3214)
+- [Website Down, Spirits Up: AceHack’s Unstoppable Team](https://dev.to/acehack/website-down-spirits-up-acehacks-unstoppable-team-1aop)
+- [Go&#39;s Concurrency Decoded: Goroutine Scheduling](https://dev.to/leapcell/gos-concurrency-decoded-goroutine-scheduling-1gfc)
+- [Pythonizing JavaScript](https://dev.to/heyitsandre/pythonizing-javascript-489i)
+- [&quot;Starting My React Journey&quot;](https://dev.to/imrancodes/starting-my-react-journey-3mnk)
+- [Redefining Healthcare and Insurance with Groundbreaking AI and Data Analytics Solutions](https://dev.to/mariliatirachi62/redefining-healthcare-and-insurance-with-groundbreaking-ai-and-data-analytics-solutions-5527)
 <!-- BLOG-POST-LIST:END -->
 
 ---
