@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [10 Must-Know Software Testing Interview Questions](https://dev.to/mansi_patil_ba50a09f10264/10-must-know-software-testing-interview-questions-3fci)
-- [5 Reasons Why Homework Should Be Banned?](https://dev.to/tarunfulera/5-reasons-why-homework-should-be-banned-1ke0)
-- [Debugging Authorization: How Cerbos Makes Troubleshooting Access Issues a Breeze](https://dev.to/techondiapers/debugging-authorization-how-cerbos-makes-troubleshooting-access-issues-a-breeze-1955)
-- [Top 5 Backend Programming Languages to Learn in 2024](https://dev.to/ram_fb361bc2f8f94e06772e2/top-5-backend-programming-languages-to-learn-in-2024-4hp1)
-- [AI: A Game-Changing Tool for People with Dyslexia](https://dev.to/gc-victor/ai-a-game-changing-tool-for-people-with-dyslexia-1mfo)
+- [forms in the terminal w/ JavaScript? if you love Terminal UI&#39;s check this out!](https://dev.to/sfundomhlungu/forms-in-the-terminal-w-javascript-if-you-love-terminal-uis-check-this-out-9a4)
+- [Navigating 2025: My Tech Predictions](https://dev.to/karander/navigating-2025-my-tech-predictions-2ee)
+- [A Library Console Project, Java Spring Framework, Maven, Hibernate, Data JPA, PostgreSQL Data Persistence, REST API](https://dev.to/marcoatl/a-library-console-project-java-spring-framework-maven-hibernate-data-jpa-postgresql-data-aac)
+- [How To Build Beautiful Terminal UIs &lpar;TUIs&rpar; in JavaScript 2: forms!](https://dev.to/sfundomhlungu/how-to-build-beautiful-terminal-uis-tuis-in-javascript-2-forms-4dm9)
+- [join my project semester simulator](https://dev.to/virajdouelectron/join-my-project-semester-simulator-2ee3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
