@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Completed the LFS112: Ethics in AI and Data Science course with The Linux Foundation!](https://dev.to/marcoatl/completed-the-lfs112-ethics-in-ai-and-data-science-course-with-the-linux-foundation-141i)
-- [Completed the LFQ102: Quantum Computing Essentials For Senior Leaders course with The Linux Foundation!](https://dev.to/marcoatl/completed-the-lfq102-quantum-computing-essentials-for-senior-leaders-course-with-the-linux-1lec)
-- [How RapidFeedback solved my feedback problem and can help you build Better Products](https://dev.to/vednig/how-rapidfeedback-solved-my-feedback-problem-and-can-help-you-build-better-products-1p4j)
-- [Completed the LFD121: Developing Secure Software course with The Linux Foundation!](https://dev.to/marcoatl/completed-the-lfd121-developing-secure-software-course-with-the-linux-foundation-3o6j)
-- [How AI Helps Transform Your Software Delivery and Testing Practices](https://dev.to/radha_4c842d8e4362a7cdd9c/how-ai-helps-transform-your-software-delivery-and-testing-practices-15k9)
+- [#131 — Use Association Table to Handle Interval Association](https://dev.to/judith677/131-use-association-table-to-handle-interval-association-2jg2)
+- [Using Direct Line botframework in a React Native Application to connect to Copilot Studio Agent](https://dev.to/vivekyadav200988/direct-line-usage-in-a-react-native-application-using-botframework-4lhh)
+- [uilding Thriving Communities: A Guide for Developers and Leaders](https://dev.to/shib_itsme/uilding-thriving-communities-a-guide-for-developers-and-leaders-e08)
+- [Video AI](https://dev.to/csakscreator/video-ai-dkc)
+- [The King Combination: Efficiently Completing Heterogeneous Data Integration with DolphinScheduler 3.1.* and SeaTunnel 2.3.*](https://dev.to/chen_debra_3060b21d12b1b0/the-king-combination-efficiently-completing-heterogeneous-data-integration-with-dolphinscheduler-2lp1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
