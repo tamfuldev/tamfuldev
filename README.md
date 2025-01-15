@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [forms in the terminal w/ JavaScript? if you love Terminal UI&#39;s check this out!](https://dev.to/sfundomhlungu/forms-in-the-terminal-w-javascript-if-you-love-terminal-uis-check-this-out-9a4)
-- [Navigating 2025: My Tech Predictions](https://dev.to/karander/navigating-2025-my-tech-predictions-2ee)
-- [A Library Console Project, Java Spring Framework, Maven, Hibernate, Data JPA, PostgreSQL Data Persistence, REST API](https://dev.to/marcoatl/a-library-console-project-java-spring-framework-maven-hibernate-data-jpa-postgresql-data-aac)
-- [How To Build Beautiful Terminal UIs &lpar;TUIs&rpar; in JavaScript 2: forms!](https://dev.to/sfundomhlungu/how-to-build-beautiful-terminal-uis-tuis-in-javascript-2-forms-4dm9)
-- [join my project semester simulator](https://dev.to/virajdouelectron/join-my-project-semester-simulator-2ee3)
+- [Use Power Query SDK in Visual Studio Code for Power BI](https://dev.to/flnzba/use-power-query-sdk-in-visual-studio-code-for-power-bi-5hjc)
+- [The Transformative Power of Selfless Service: How Giving Back Shapes Us All](https://dev.to/nandhitha_0203040506/the-transformative-power-of-selfless-service-how-giving-back-shapes-us-all-27im)
+- [Dev Diaries: ShareIt](https://dev.to/dd8888/dev-diaries-shareit-3gi7)
+- [6 Top Professional AI Resume Builders Offering the Best Resume Writing Services in 2025](https://dev.to/nitinfab/6-top-professional-ai-resume-builders-offering-the-best-resume-writing-services-in-2025-4ok8)
+- [🚀 Your Daily Crypto Job Digest For 15 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-15-january-epi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
