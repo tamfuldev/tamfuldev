@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Blockchain](https://dev.to/ranjithjupaka/blockchain-309n)
-- [HTML Elements](https://dev.to/kavya_655bd7b08c9f0e93601/html-elements-6lj)
-- [AngularFire Starter Template](https://dev.to/mbejda/angularfire-starter-template-4cgp)
-- [Understanding the Intersection of Software Development and Web Development: Key Insights for Aspiring Developers](https://dev.to/jetthoughts/understanding-the-intersection-of-software-development-and-web-development-key-insights-for-3ked)
-- [ESLint vs Prettier: The Great Debate for Your Codebase](https://dev.to/lovestaco/eslint-vs-prettier-the-great-debate-for-your-codebase-546m)
+- [Top 6 Email Marketing Service Providers in Noida to Grow Your Business](https://dev.to/digitalakadotcom/top-6-email-marketing-service-providers-in-noida-to-grow-your-business-4m1g)
+- [AI Workflows vs AI Agents — What’s the Difference?](https://dev.to/anandrmedia/ai-workflows-vs-ai-agents-whats-the-difference-5fk6)
+- [Edge Computing: Revolutionizing IoT Applications](https://dev.to/raquelmathew/edge-computing-revolutionizing-iot-applications-n91)
+- [SQL Server – Query Performance – Database Maintenance can Help](https://dev.to/madhu_patel_ddb6ab8288e84/sql-server-query-performance-database-maintenance-can-help-1a12)
+- [A Beginner’s Guide to Building GraphQL APIs with Apollo Server](https://dev.to/ayusharpcoder/a-beginners-guide-to-building-graphql-apis-with-apollo-server-3pdk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
