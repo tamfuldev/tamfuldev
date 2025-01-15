@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The WordPress Block Editor / Gutenberg](https://dev.to/hookedupinc/the-wordpress-block-editor-gutenberg-2i1l)
-- [Top 10 Reasons to Learn AWS in 2025](https://dev.to/skillboosttrainer/top-10-reasons-to-learn-aws-in-2025-2hk)
-- [How to Get the Most out of Cursor](https://dev.to/max_sonderby_455aa8771596/how-to-get-the-most-out-of-cursor-3fn9)
-- [How to Create a Good Pull Request Template](https://dev.to/oluwafemi_josephine_3f323/how-to-create-a-good-pull-request-template-1874)
-- [Open Source for Everyone: How to Contribute Without Writing Code](https://dev.to/oluwafemi_josephine_3f323/open-source-for-everyone-how-to-contribute-without-writing-code-4h30)
+- [🚀 Join Arkimedes and Help Us Change the World! 🌍💡](https://dev.to/lucas_mndez_c5e73e769df6/join-arkimedes-and-help-us-change-the-world-51i)
+- [Easy Discount Calculation: Tax, Fees &amp; Discount Percentage Explained](https://dev.to/learninggs/discount-calculator-117l)
+- [Top 5 Online JSON Formatter Tools for Developers in 2025](https://dev.to/onlinejsonformatter0/top-5-online-json-formatter-tools-for-developers-in-2025-58lj)
+- [Memory Management in Operating Systems](https://dev.to/arjun98k/memory-management-in-operating-systems-278m)
+- [Example of using Late Static Binding in PHP.](https://dev.to/developeralamin/example-of-using-late-static-binding-in-php-18kh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
