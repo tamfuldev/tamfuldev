@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Eurlexa Release!!! EU Regulation at Your Fingertips!](https://dev.to/eurlexa/eurlexa-release-eu-regulation-at-your-fingertips-3gkc)
-- [LeetCode Challenge: 290. Word Pattern - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-290-word-pattern-javascript-solution-2lbf)
-- [C++ 1st code](https://dev.to/md-salah/c-1st-code-38gi)
-- [Why AWS Matters: A Beginner&#39;s View](https://dev.to/ronak-vaghasiya/why-aws-matters-a-beginners-view-36lb)
-- [🎁 20 Open Source Projects You Shouldn&#39;t Miss in 2025](https://dev.to/itanand_/20-open-source-projects-you-shouldnt-miss-in-2025-ank)
+- [Resolving Auto-Scroll issues for overflow container in a Nuxt app](https://dev.to/mayashavin/resolving-auto-scroll-issues-for-overflow-container-in-a-nuxt-app-ikn)
+- [How to Resolve the &#39;Permission Denied&#39; Error in PHP File Handling](https://dev.to/saint_vandora/how-to-resolve-the-permission-denied-error-in-php-file-handling-1ppk)
+- [Vijana Wawekeze Katika Uhandisi wa Programu: Njia za Kufanikisha Kipato Kupitia Teknolojia](https://dev.to/abdulrazack23/vijana-wawekeze-katika-uhandisi-wa-programu-njia-za-kufanikisha-kipato-kupitia-teknolojia-2lk)
+- [Windows 上 VSCode 的 C/C++ 延伸模組處理編碼的問題](https://dev.to/codemee/windows-shang-vscode-de-cc-yan-shen-mo-zu-chu-li-bian-ma-de-wen-ti-2ajj)
+- [The Ultimate Guide to Heuristic Evaluation in UX Design](https://dev.to/lollypopdesign/the-ultimate-guide-to-heuristic-evaluation-in-ux-design-9nc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
