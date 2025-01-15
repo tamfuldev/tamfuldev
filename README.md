@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Chose Not to Work in an Office Job](https://dev.to/robycigar/why-i-chose-not-to-work-in-an-office-job-7hk)
-- [Nextcloud on Raspberry Pi - Fedora + Podman Quadlets](https://dev.to/metal3d/nextcloud-on-raspberry-pi-fedora-podman-quadlets-1k49)
-- [Dynamically Extracting Endpoint Names and Attributes from a Custom C# MVC API](https://dev.to/seanmdrew/dynamically-extracting-endpoint-names-and-attributes-from-a-custom-c-mvc-api-1ml9)
-- [Step 1 - GET-&gt; SET-&gt; AWS!](https://dev.to/sumaniac28/step-1-get-set-aws-1p32)
-- [Bye 2024, Hello 2025! A year in review](https://dev.to/strapi/bye-2024-hello-2025-a-year-in-review-59a)
+- [What is Next Js: A Beginner&#39;s guide to Next Js](https://dev.to/codeparrot/what-is-next-js-a-beginners-guide-to-next-js-10db)
+- [Building a Seamless File Upload System: Handling Chunked Uploads And Large File Uploads](https://dev.to/mayank_gupta_a98cb879081b/building-a-seamless-file-upload-system-handling-chunked-uploads-and-large-file-uploads-2p8h)
+- [How to scrape Crunchbase using Python in 2024 &lpar;Easy Guide&rpar;](https://dev.to/crawlee/how-to-scrape-crunchbase-using-python-in-2024-easy-guide-45on)
+- [Advanced Load Balancing with Traefik: An Introduction to Progressive Delivery, Mirroring, Sticky Sessions, and Health Checks](https://dev.to/prezaei/advanced-load-balancing-with-traefik-an-introduction-to-progressive-delivery-mirroring-sticky-4jma)
+- [Amazon S3 vs. Glacier: Data Archival Explained](https://dev.to/imsushant12/amazon-s3-vs-glacier-data-archival-explained-1m9b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
