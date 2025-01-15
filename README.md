@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Join Arkimedes and Help Us Change the World! 🌍💡](https://dev.to/lucas_mndez_c5e73e769df6/join-arkimedes-and-help-us-change-the-world-51i)
-- [Easy Discount Calculation: Tax, Fees &amp; Discount Percentage Explained](https://dev.to/learninggs/discount-calculator-117l)
-- [Top 5 Online JSON Formatter Tools for Developers in 2025](https://dev.to/onlinejsonformatter0/top-5-online-json-formatter-tools-for-developers-in-2025-58lj)
-- [Memory Management in Operating Systems](https://dev.to/arjun98k/memory-management-in-operating-systems-278m)
-- [Example of using Late Static Binding in PHP.](https://dev.to/developeralamin/example-of-using-late-static-binding-in-php-18kh)
+- [🐹 Golang Integration with Kafka and Uber ZapLog 📨](https://dev.to/truongpx396/golang-integration-with-kafka-and-uber-zaplog-53kj)
+- [check it out](https://dev.to/shivam223/check-it-out-2nah)
+- [🌐 Building Golang RESTful API with Gin, MongoDB 🌱](https://dev.to/truongpx396/building-golang-restful-api-with-gin-mongodb-482c)
+- [Why Is Everyone Unhappy With JavaScript? | State of Javascript 2024 Survey](https://dev.to/mikehtmlallthethings/why-is-everyone-unhappy-with-javascript-state-of-javascript-2024-survey-20g6)
+- [The Roadmap to Becoming a Frontend Developer in 2025.](https://dev.to/majeedatwahab/the-roadmap-to-becoming-a-frontend-developer-in-2025-1kh9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
