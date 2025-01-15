@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing PersianNameGenerator: A Python Package for Generating Random Persian Names](https://dev.to/md86mi86/introducing-persiannamegenerator-a-python-package-for-generating-random-persian-names-4b7p)
-- [The Basics of Data Science Unveiled](https://dev.to/cubanpants50/the-basics-of-data-science-unveiled-5acm)
-- [The Importance of Writing Meaningful Code and Documentation](https://dev.to/robinncode/the-importance-of-writing-meaningful-code-and-documentation-454a)
-- [Setup Shopify GraphQL Admin API Client in Hydrogen](https://dev.to/dvnrsn/setup-shopify-graphql-admin-api-client-in-hydrogen-22oj)
-- [HTML vs HTML5—the tale of two titans of web development.](https://dev.to/brendahkiragu/html-vs-html5-the-tale-of-two-titans-of-web-development-54en)
+- [Hello everyone!!! :&rpar; ...and, what am I doing wrong?](https://dev.to/techniqueen/hello-everyone-and-what-am-i-doing-wrong-4and)
+- [The Way I Use Apple Notes is... Different](https://dev.to/litd/the-way-i-use-apple-notes-is-different-4jf)
+- [Boost Your Productivity with Momentum Builder: A Web App to Overcome Procrastination and Track Progress](https://dev.to/terieyenike/boost-your-productivity-with-momentum-builder-a-web-app-to-overcome-procrastination-and-track-eco)
+- [The Great Failure of 2024](https://dev.to/ashc735/the-great-failure-of-2024-1bc0)
+- [Ruby on Rails 8 API not allowing mobile phone connection](https://dev.to/mustdos_8633a06b63abc48e3/ruby-on-rails-8-api-not-allowing-mobile-phone-connection-2gk3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
