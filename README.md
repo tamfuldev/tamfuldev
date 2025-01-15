@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Hello everyone!!! :&rpar; ...and, what am I doing wrong?](https://dev.to/techniqueen/hello-everyone-and-what-am-i-doing-wrong-4and)
-- [The Way I Use Apple Notes is... Different](https://dev.to/litd/the-way-i-use-apple-notes-is-different-4jf)
-- [Boost Your Productivity with Momentum Builder: A Web App to Overcome Procrastination and Track Progress](https://dev.to/terieyenike/boost-your-productivity-with-momentum-builder-a-web-app-to-overcome-procrastination-and-track-eco)
-- [The Great Failure of 2024](https://dev.to/ashc735/the-great-failure-of-2024-1bc0)
-- [Ruby on Rails 8 API not allowing mobile phone connection](https://dev.to/mustdos_8633a06b63abc48e3/ruby-on-rails-8-api-not-allowing-mobile-phone-connection-2gk3)
+- [What technologies do you recommend for developing an affiliate network marketing platform?](https://dev.to/samhernandezc24/what-technologies-do-you-recommend-for-developing-an-affiliate-network-marketing-platform-4c4o)
+- [Why You Hate Test Coverage](https://dev.to/liammyles/why-you-hate-test-coverage-2cg9)
+- [Building Secure and Scalable Fintech Applications: A Technical Architecture Deep Dive](https://dev.to/ojosolomon/building-secure-and-scalable-fintech-applications-a-technical-architecture-deep-dive-35in)
+- [Phase 4 Project](https://dev.to/victordelcarpio/phase-4-project-59hi)
+- [Poemio](https://dev.to/jamcha123/poemio-380k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
