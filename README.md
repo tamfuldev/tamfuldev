@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build Your First AI Application Using LlamaIndex!](https://dev.to/pavanbelagatti/build-your-first-ai-application-using-llamaindex-1f9)
-- [Psychotherapy Technology Advancements](https://dev.to/scitech-insights/psychotherapy-technology-advancements-445d)
-- [🚀 Top 50 Websites a Backend Developer Must Know 🖥️🔧](https://dev.to/itanand_/top-50-websites-a-backend-developer-must-know-2f77)
-- [Week 2: Diving Deeper into Dynamic Memory, Structures, and Beyond in C Programming](https://dev.to/adhyanjain2512/week-2-diving-deeper-into-dynamic-memory-structures-and-beyond-in-c-programming-105b)
-- [Unlocking the Power of GitHub Copilot: Your AI Pair Programmer](https://dev.to/deepakpant93/unlocking-the-power-of-github-copilot-your-ai-pair-programmer-1dm8)
+- [Eurlexa Release!!! EU Regulation at Your Fingertips!](https://dev.to/eurlexa/eurlexa-release-eu-regulation-at-your-fingertips-3gkc)
+- [LeetCode Challenge: 290. Word Pattern - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-290-word-pattern-javascript-solution-2lbf)
+- [C++ 1st code](https://dev.to/md-salah/c-1st-code-38gi)
+- [Why AWS Matters: A Beginner&#39;s View](https://dev.to/ronak-vaghasiya/why-aws-matters-a-beginners-view-36lb)
+- [🎁 20 Open Source Projects You Shouldn&#39;t Miss in 2025](https://dev.to/itanand_/20-open-source-projects-you-shouldnt-miss-in-2025-ank)
 <!-- BLOG-POST-LIST:END -->
 
 ---
