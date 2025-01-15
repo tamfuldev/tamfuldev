@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I set up my Frontend Mentor projects with Tailwind CSS](https://dev.to/theosaurusrex/how-i-set-up-my-frontend-mentor-projects-with-tailwind-css-m1i)
-- [&quot;Unlocking Music&#39;s Evolution: Insights from Network Science Analysis&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-musics-evolution-insights-from-network-science-analysis-1emg)
-- [21+ AI Website Builders to Create Your Next Website](https://dev.to/euanjudd/21-ai-website-builders-to-create-your-next-website-55pf)
-- [Comparing VPN Performance: State-of-the-Art Solutions in Stable vs. Unreliable Networks](https://dev.to/daniel_idoko/comparing-vpn-performance-state-of-the-art-solutions-in-stable-vs-unreliable-networks-1kll)
-- [Daily JavaScript Challenge #JS-73: Validate Palindrome Permutation](https://dev.to/dpc/daily-javascript-challenge-js-73-validate-palindrome-permutation-2p0d)
+- [Completed the LFS112: Ethics in AI and Data Science course with The Linux Foundation!](https://dev.to/marcoatl/completed-the-lfs112-ethics-in-ai-and-data-science-course-with-the-linux-foundation-141i)
+- [Completed the LFQ102: Quantum Computing Essentials For Senior Leaders course with The Linux Foundation!](https://dev.to/marcoatl/completed-the-lfq102-quantum-computing-essentials-for-senior-leaders-course-with-the-linux-1lec)
+- [How RapidFeedback solved my feedback problem and can help you build Better Products](https://dev.to/vednig/how-rapidfeedback-solved-my-feedback-problem-and-can-help-you-build-better-products-1p4j)
+- [Completed the LFD121: Developing Secure Software course with The Linux Foundation!](https://dev.to/marcoatl/completed-the-lfd121-developing-secure-software-course-with-the-linux-foundation-3o6j)
+- [How AI Helps Transform Your Software Delivery and Testing Practices](https://dev.to/radha_4c842d8e4362a7cdd9c/how-ai-helps-transform-your-software-delivery-and-testing-practices-15k9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
