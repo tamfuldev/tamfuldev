@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Game Day Event Notification using AWS Serverless Services](https://dev.to/ameh_mathias/game-day-event-notification-using-aws-serverless-services-ha7)
-- [Building an Order Summary Card with HTML and CSS: A Beginner’s Guide 🚀](https://dev.to/drishti1920/building-an-order-summary-card-with-html-and-css-a-beginners-guide-4lci)
-- [How Downtime Impacts SEO &lpar;and How to Build a Website Uptime Monitor with Google Sheets&rpar;](https://dev.to/elvisans/how-downtime-impacts-seo-and-how-to-build-a-website-uptime-monitor-with-google-sheets-58g3)
-- [HTMX: The Future of Web](https://dev.to/nibodhdaware/htmx-the-future-of-web-4gh2)
-- [Get Started with React: Build Your First App with UI Components Using ReExt](https://dev.to/sencha_ext_js/get-started-with-react-build-your-first-app-with-ui-components-using-reext-4345)
+- [Recursão a moda clássica em TS: auto referência do tipo de função](https://dev.to/jeffque/recursao-a-moda-classica-em-ts-auto-referencia-do-tipo-de-funcao-23pn)
+- [How to Assign vCluster to Specific Nodes Using Node Selectors](https://dev.to/gentele/how-to-assign-vcluster-to-specific-nodes-using-node-selectors-272a)
+- [🤖 Build an AI Travel Planner with CopilotKit, LangGraph &amp; Google Maps API 🤩](https://dev.to/copilotkit/build-an-ai-travel-planner-with-copilotkit-langgraph-google-maps-api-32fm)
+- [Looking for Tech Conferences in Texas &lpar;Mid-March&rpar;](https://dev.to/lfunnyboyl_48cd59ffbbd644/looking-for-tech-conferences-in-texas-mid-march-4omk)
+- [🛡️ The Unsung Heroes of Development: The Role and Relevance of QA Testers in the DevOps Process](https://dev.to/alisson-t-bucchi/the-unsung-heroes-of-development-the-role-and-relevance-of-qa-testers-in-the-devops-process-3d6j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
