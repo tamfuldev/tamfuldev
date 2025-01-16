@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Home Assistant companion app](https://dev.to/nfrankel/the-home-assistant-companion-app-40hj)
-- [From Circuit Boards to Code: How Being a Polyglot Web Developer &lpar;and an Electrical Engineer&rpar; Supercharged My Programming Game](https://dev.to/ryo_suwito/from-circuit-boards-to-code-how-being-a-polyglot-web-developer-and-an-electrical-engineer-511c)
-- [There are lots of devtools out there, but finding the one that solves your specific problems as a developer is the best one!](https://dev.to/astrodevil/there-are-lots-of-devtools-out-there-but-finding-the-one-that-solves-your-specific-problems-as-a-5h50)
-- [What Can I Do With a Forex Market API?](https://dev.to/bradi/what-can-i-do-with-a-forex-market-api-2g2a)
-- [How to Use a Forex Market API for Backtesting?](https://dev.to/bradi/how-to-use-a-forex-market-api-for-backtesting-1h63)
+- [Top CMS Trends to Watch](https://dev.to/ram_fb361bc2f8f94e06772e2/top-cms-trends-to-watch-4d7n)
+- [Maximizing Cloud Efficiency with AWS Well-Architected Review &lpar;WAR&rpar;](https://dev.to/tharinirp/maximizing-cloud-efficiency-with-aws-well-architected-review-war-2dgi)
+- [How to Build and Test a PDF Generator Lambda Using LocalStack on Your Local Machine](https://dev.to/nagatodev/how-to-build-and-test-a-pdf-generator-lambda-using-localstack-on-your-local-machine-53md)
+- [🚀 Novus Just Got Better &lpar;Again&rpar;! 🌟](https://dev.to/jozefcipa/novus-just-got-better-again-28k9)
+- [SSL Statistics and Facts 2024 for Secure Browsing in 2025](https://dev.to/me_jessicahowe/ssl-statistics-and-facts-2024-for-secure-browsing-in-2025-2c39)
 <!-- BLOG-POST-LIST:END -->
 
 ---
