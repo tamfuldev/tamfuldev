@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Rails Stats: view LoC of Rails Products](https://dev.to/railsdesigner/introducing-rails-stats-3fdo)
-- [Implementing Cookie-Based JWT Authentication in a tRPC Backend](https://dev.to/itsrakesh/implementing-cookie-based-jwt-authentication-in-a-trpc-backend-478m)
-- [What does NULL mean in an OUTER JOIN? &lpar;&quot;unknown&quot; vs. &quot;not exists&quot;&rpar;](https://dev.to/yugabyte/what-does-null-mean-in-an-outer-join-unknown-vs-not-exists-4kng)
-- [Mastering NTDS.DIT: Protecting Active Directory&#39;s Core Database](https://dev.to/ostapzabolotnyy/mastering-ntdsdit-protecting-active-directorys-core-database-3jl9)
-- [Introducing Sprout 1.0 🌱💜: A New Era for Go Templates](https://dev.to/42atomys/introducing-sprout-10-a-new-era-for-go-templates-4o7f)
+- [Routing in Next.js – How to Use App Router in Your Next Apps](https://dev.to/epicx/routing-in-nextjs-how-to-use-app-router-in-your-next-apps-2lj4)
+- [My Modern &lpar;but Retro&rpar; Web Dev Setup with Vim on Windows](https://dev.to/brunociccarino/my-modern-but-retro-web-dev-setup-with-vim-on-windows-4g8n)
+- [Different Ways to Make HTTP Requests in JavaScript](https://dev.to/ayako_yk/different-ways-to-make-http-requests-in-javascript-mc3)
+- [What is Polymorphism in Java?](https://dev.to/respect17/what-is-polymorphism-in-java-4cod)
+- [Implementing Secure Social Login Authentication in Next.js 13+ NextAuth.js](https://dev.to/emaanidev/implementing-secure-social-login-authentication-in-nextjs-13-with-nextauthjs-303d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
