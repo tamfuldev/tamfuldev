@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top CMS Trends to Watch](https://dev.to/ram_fb361bc2f8f94e06772e2/top-cms-trends-to-watch-4d7n)
-- [Maximizing Cloud Efficiency with AWS Well-Architected Review &lpar;WAR&rpar;](https://dev.to/tharinirp/maximizing-cloud-efficiency-with-aws-well-architected-review-war-2dgi)
-- [How to Build and Test a PDF Generator Lambda Using LocalStack on Your Local Machine](https://dev.to/nagatodev/how-to-build-and-test-a-pdf-generator-lambda-using-localstack-on-your-local-machine-53md)
-- [🚀 Novus Just Got Better &lpar;Again&rpar;! 🌟](https://dev.to/jozefcipa/novus-just-got-better-again-28k9)
-- [SSL Statistics and Facts 2024 for Secure Browsing in 2025](https://dev.to/me_jessicahowe/ssl-statistics-and-facts-2024-for-secure-browsing-in-2025-2c39)
+- [DIP - O Princípio da Inversão de Dependência](https://dev.to/thrsouza/dip-o-principio-da-inversao-de-dependencia-3a7e)
+- [Transfuse - A Stellar Multichain Asset Bridge](https://dev.to/hunterionize/transfuse-a-stellar-multichain-asset-bridge-2m6h)
+- [AI Software Development: Best Practices for Building Smarter Applications](https://dev.to/joinwithken/ai-software-development-best-practices-for-building-smarter-applications-jg8)
+- [[Boost]](https://dev.to/sfundomhlungu/-4jjh)
+- [🚀 Unlock the Power of Real-Time Analytics with Big Data Engineering! 🛠️](https://dev.to/anshul_kichara/unlock-the-power-of-real-time-analytics-with-big-data-engineering-d1h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
