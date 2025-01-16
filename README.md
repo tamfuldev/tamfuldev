@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [®️Reddit Scraper Pro 👑](https://dev.to/aniruddhadak/rreddit-scraper-pro-kc0)
-- [Rails Self-Join Tables - Parent-Child Magic](https://dev.to/sulmanweb/rails-self-join-tables-parent-child-magic-5abg)
-- [Minimize XOR](https://dev.to/prashantrmishra/minimize-xor-39jb)
-- [PHP is Not Bad, So Why Is It Not Well-Received?](https://dev.to/tomastomas/php-is-not-bad-so-why-is-it-not-well-received-293f)
-- [Can software save British healthcare? Dev Series Intro](https://dev.to/martinrombach88/can-software-save-british-healthcare-dev-series-intro-1h32)
+- [Implementing passwordless sign-in flow with email in Cognito](https://dev.to/aws-builders/implementing-passwordless-sign-in-flow-with-email-in-cognito-109g)
+- [Optimizing Inventory Management Using POS Data](https://dev.to/hikepos/optimizing-inventory-management-using-pos-data-2of5)
+- [Cilium: Everything you need to know for CKS](https://dev.to/ptuladhar3/cilium-everything-you-need-to-know-for-cks-31pa)
+- [The Evolution of AI: How Machines Are Shaping Our Future](https://dev.to/laxmi_bhati_c3029c819a8ec/the-evolution-of-ai-how-machines-are-shaping-our-future-16ch)
+- [Discussion: How to build dynamic workflows for multi-tenant architecture?](https://dev.to/dineshveguru/discussion-how-to-build-dynamic-workflows-for-multi-tenant-architecture-507b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
