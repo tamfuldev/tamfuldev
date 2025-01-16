@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [💥2030 Apocalypse: AI Boom vs Energy Crisis💥 Head over to my page here @dav or over at my blog @dansasser #AI #ArtificialIntelligence #creativewriting #blogging](https://dev.to/dansasser/2030-apocalypse-ai-boom-vs-energy-crisis-head-over-to-my-page-here-dav-or-over-at-my-blog-51n5)
-- [Unlocking the Power of AWS Databases: A Complete Guide for Developers](https://dev.to/nikhil_nareddula_/unlocking-the-power-of-aws-databases-a-complete-guide-for-developers-h44)
-- [PyTorch Day 03: Tensor Operations](https://dev.to/ahammadmejbah/pytorch-day-03-tensor-operations-2efc)
-- [Local storage Note](https://dev.to/fscss-ttr/local-storage-note-1af2)
-- [What is Generative AI? A Beginner’s Guide to Unlocking its Potential](https://dev.to/robertadler/what-is-generative-ai-a-beginners-guide-to-unlocking-its-potential-45ll)
+- [Understanding Digital Assets: A Beginner&#39;s Guide for Novices](https://dev.to/skycap9/understanding-digital-assets-a-beginners-guide-for-novices-1knn)
+- [Top 5 SaaS Billing Solutions in 2025](https://dev.to/arnab_ghosh_d07b11caaa107/top-5-saas-billing-solutions-in-2025-2n2a)
+- [I am a member of DEV for over a year 🍾](https://dev.to/peshale_07/i-am-a-member-of-dev-for-over-a-year-2kal)
+- [UX Case Study: MVP to Scale-up and How Tickets For Good Build Trust Through Better Design](https://dev.to/arrontp/ux-case-study-mvp-to-scale-up-and-how-tickets-for-good-build-trust-through-better-design-4p19)
+- [Architecting Angular Applications: A Case Study in Scalable and Maintainable Design 🚀](https://dev.to/bndf1/architecting-angular-applications-a-case-study-in-scalable-and-maintainable-design-40oh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
