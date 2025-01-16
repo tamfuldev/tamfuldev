@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Routing in Next.js – How to Use App Router in Your Next Apps](https://dev.to/epicx/routing-in-nextjs-how-to-use-app-router-in-your-next-apps-2lj4)
-- [My Modern &lpar;but Retro&rpar; Web Dev Setup with Vim on Windows](https://dev.to/brunociccarino/my-modern-but-retro-web-dev-setup-with-vim-on-windows-4g8n)
-- [Different Ways to Make HTTP Requests in JavaScript](https://dev.to/ayako_yk/different-ways-to-make-http-requests-in-javascript-mc3)
-- [What is Polymorphism in Java?](https://dev.to/respect17/what-is-polymorphism-in-java-4cod)
-- [Implementing Secure Social Login Authentication in Next.js 13+ NextAuth.js](https://dev.to/emaanidev/implementing-secure-social-login-authentication-in-nextjs-13-with-nextauthjs-303d)
+- [Item 84: Não dependa do agendador de threads](https://dev.to/javaefetivo/item-84-nao-dependa-do-agendador-de-threads-hcg)
+- [A Beginner’s Guide to DevOps: Where to Start and What to Learn](https://dev.to/sahilcingh/a-beginners-guide-to-devops-where-to-start-and-what-to-learn-4ipf)
+- [Early to Rise: Daily Productivity Habits](https://dev.to/mohamednizzad/early-to-rise-daily-productivity-habits-9g8)
+- [How to Dockerize NestJS](https://dev.to/code42cate/how-to-dockerize-nestjs-327j)
+- [Setup NextJs | EsLint + Prettier - Fast way 🚀](https://dev.to/bpinela/setup-nextjs-eslint-prettier-fast-way-3cpd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
