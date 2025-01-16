@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Recursão a moda clássica em TS: auto referência do tipo de função](https://dev.to/jeffque/recursao-a-moda-classica-em-ts-auto-referencia-do-tipo-de-funcao-23pn)
-- [How to Assign vCluster to Specific Nodes Using Node Selectors](https://dev.to/gentele/how-to-assign-vcluster-to-specific-nodes-using-node-selectors-272a)
-- [🤖 Build an AI Travel Planner with CopilotKit, LangGraph &amp; Google Maps API 🤩](https://dev.to/copilotkit/build-an-ai-travel-planner-with-copilotkit-langgraph-google-maps-api-32fm)
-- [Looking for Tech Conferences in Texas &lpar;Mid-March&rpar;](https://dev.to/lfunnyboyl_48cd59ffbbd644/looking-for-tech-conferences-in-texas-mid-march-4omk)
-- [🛡️ The Unsung Heroes of Development: The Role and Relevance of QA Testers in the DevOps Process](https://dev.to/alisson-t-bucchi/the-unsung-heroes-of-development-the-role-and-relevance-of-qa-testers-in-the-devops-process-3d6j)
+- [💥2030 Apocalypse: AI Boom vs Energy Crisis💥 Head over to my page here @dav or over at my blog @dansasser #AI #ArtificialIntelligence #creativewriting #blogging](https://dev.to/dansasser/2030-apocalypse-ai-boom-vs-energy-crisis-head-over-to-my-page-here-dav-or-over-at-my-blog-51n5)
+- [Unlocking the Power of AWS Databases: A Complete Guide for Developers](https://dev.to/nikhil_nareddula_/unlocking-the-power-of-aws-databases-a-complete-guide-for-developers-h44)
+- [PyTorch Day 03: Tensor Operations](https://dev.to/ahammadmejbah/pytorch-day-03-tensor-operations-2efc)
+- [Local storage Note](https://dev.to/fscss-ttr/local-storage-note-1af2)
+- [What is Generative AI? A Beginner’s Guide to Unlocking its Potential](https://dev.to/robertadler/what-is-generative-ai-a-beginners-guide-to-unlocking-its-potential-45ll)
 <!-- BLOG-POST-LIST:END -->
 
 ---
