@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [In 2025, I resolve to eliminate escalations and finger pointing](https://dev.to/causely/in-2025-i-resolve-to-eliminate-escalations-and-finger-pointing-j2g)
-- [The ADHD Advantage: Why Hiring Neurodivergent Developers is a Game-Changer](https://dev.to/marie_berezhna/the-adhd-advantage-why-hiring-neurodivergent-developers-is-a-game-changer-5anf)
-- [19 Important AWS CLI commands with Examples and Outputs for different AWS services](https://dev.to/omerberatsezer/important-aws-cli-commands-with-examples-and-outputs-for-different-aws-services-15jf)
-- [Experimenting with v0](https://dev.to/metability/experimenting-with-v0-49cf)
-- [How Developers Can Set Goals In 2025?](https://dev.to/respect17/how-developers-can-set-goals-in-2025-28o9)
+- [How to Automate Kafka Topic Creation and Deletion, Using GitHub Actions and JavaScript](https://dev.to/pmbanugo/how-to-automate-kafka-topic-creation-and-deletion-using-github-actions-and-javascript-p9n)
+- [Moving flask app to production.](https://dev.to/eddiegulay/moving-flask-app-to-production-41b6)
+- [Deploying Flask App in Digital Ocean Droplet](https://dev.to/eddiegulay/deploying-flask-app-in-digital-ocean-droplet-cep)
+- [string.indexOf&lpar;&rpar; under the hood](https://dev.to/aziz999/stringindexof-under-the-hood-2699)
+- [Cloudflare is almost perfect](https://dev.to/nuro/cloudflare-is-almost-perfect-1445)
 <!-- BLOG-POST-LIST:END -->
 
 ---
