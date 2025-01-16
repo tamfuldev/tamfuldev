@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [.http Files: The Hidden Tool Every Developer Needs for API Testing](https://dev.to/apilover/http-files-the-hidden-tool-every-developer-needs-for-api-testing-5l8)
-- [5 Common Mistakes to Avoid When Using AI Design Tools](https://dev.to/technology-posts/5-common-mistakes-to-avoid-when-using-ai-design-tools-1bna)
-- [The Top 10 Things Every Developer Needs to Know About Professionalism](https://dev.to/respect17/the-top-10-things-every-developer-needs-to-know-about-professionalism-2ca8)
-- [The Role of Proxies for Bots](https://dev.to/swiftproxy_residential/the-role-of-proxies-for-bots-48if)
-- [Master Linux File Types While Your Coffee Brews](https://dev.to/nedtechie/master-linux-file-types-while-your-coffee-brews-3d35)
+- [The Home Assistant companion app](https://dev.to/nfrankel/the-home-assistant-companion-app-40hj)
+- [From Circuit Boards to Code: How Being a Polyglot Web Developer &lpar;and an Electrical Engineer&rpar; Supercharged My Programming Game](https://dev.to/ryo_suwito/from-circuit-boards-to-code-how-being-a-polyglot-web-developer-and-an-electrical-engineer-511c)
+- [There are lots of devtools out there, but finding the one that solves your specific problems as a developer is the best one!](https://dev.to/astrodevil/there-are-lots-of-devtools-out-there-but-finding-the-one-that-solves-your-specific-problems-as-a-5h50)
+- [What Can I Do With a Forex Market API?](https://dev.to/bradi/what-can-i-do-with-a-forex-market-api-2g2a)
+- [How to Use a Forex Market API for Backtesting?](https://dev.to/bradi/how-to-use-a-forex-market-api-for-backtesting-1h63)
 <!-- BLOG-POST-LIST:END -->
 
 ---
