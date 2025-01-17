@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Rails Designer v1.11: Rails Icons now a default](https://dev.to/railsdesigner/rails-designer-v111-rails-icons-now-a-default-3h21)
-- [What the H*ck is Terraform: An Introduction](https://dev.to/brandondamue/what-the-hck-is-terraform-an-introduction-2058)
-- [Hello World for Fire TV with Kotlin &amp; Jetpack Compose](https://dev.to/amazonappdev/hello-world-for-fire-tv-with-kotlin-jetpack-compose-4b7i)
-- [Cloud SaaS template designed to help startups quickly launch own cloud](https://dev.to/victor-trapenok/cloud-saas-template-designed-to-help-startups-quickly-launch-own-cloud-fi6)
-- [Why i stoped using Redux and started using Nori-Store](https://dev.to/nori_lux_f97e1160e60ae4fc/why-i-stoped-using-redux-and-started-using-nori-store-9dk)
+- [DJANGO MODEL](https://dev.to/george_ngiye_b8648fa370bb/django-model-2kki)
+- [Streamline Your Background Tasks with the Task Repetitor Library](https://dev.to/fermantttnnn/streamline-your-background-tasks-with-the-task-repetitor-library-2fie)
+- [Do you want to change Storageclass to your PVs?](https://dev.to/tvelmachos/do-you-want-to-change-storageclass-to-your-pvs-5hb2)
+- [10 Must-Know Tailwind CSS Classes for Effortless Web Design](https://dev.to/rijultp/10-must-know-tailwind-css-classes-for-effortless-web-design-4cbg)
+- [Explained: Generative AI’s environmental impact](https://dev.to/future_ai/explained-generative-ais-environmental-impact-16)
 <!-- BLOG-POST-LIST:END -->
 
 ---
