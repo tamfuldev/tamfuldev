@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/uliyahoo/-4hfa)
+- [First post yay](https://dev.to/lucas-moura-veloso/first-post-yay-2b55)
+- [Mastering Recursion in PL/SQL:](https://dev.to/ghattas365/mastering-recursion-in-plsql-1b6l)
+- [Discover DIGIPIN: The Future of Addressing in India](https://dev.to/ronitjadhav/discover-digipin-the-future-of-addressing-in-india-can)
 - [How to Automate Kafka Topic Creation and Deletion, Using GitHub Actions and JavaScript](https://dev.to/pmbanugo/how-to-automate-kafka-topic-creation-and-deletion-using-github-actions-and-javascript-p9n)
-- [Moving flask app to production.](https://dev.to/eddiegulay/moving-flask-app-to-production-41b6)
-- [Deploying Flask App in Digital Ocean Droplet](https://dev.to/eddiegulay/deploying-flask-app-in-digital-ocean-droplet-cep)
-- [string.indexOf&lpar;&rpar; under the hood](https://dev.to/aziz999/stringindexof-under-the-hood-2699)
-- [Cloudflare is almost perfect](https://dev.to/nuro/cloudflare-is-almost-perfect-1445)
 <!-- BLOG-POST-LIST:END -->
 
 ---
