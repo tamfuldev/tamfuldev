@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Vue.js or Nuxt.js?](https://dev.to/freshtech/vuejs-or-nuxtjs-5fec)
-- [Self-belief, Pragmatism, Speed, Technical ability: characteristics of good software engineers](https://dev.to/urbanisierung/self-belief-pragmatism-speed-technical-ability-characteristics-of-good-software-engineers-18c1)
-- [ProgressPals: Your last productivity app](https://dev.to/thebuildguy/progresspals-your-last-productivity-app-4dm0)
-- [Cloud Infrastructure Management: Navigating the Future of IT Operations](https://dev.to/radhika_singh_545ca79f831/cloud-infrastructure-management-navigating-the-future-of-it-operations-33fe)
-- [The Programming Language Showdown: Why Passion for Solutions Matters More Than Language Debates](https://dev.to/dminatto/the-programming-language-showdown-why-passion-for-solutions-matters-more-than-language-debates-3ba5)
+- [How to use an API: a tutorial for beginners!🔥](https://dev.to/fallon_jimmy/how-to-use-an-api-a-tutorial-for-beginners-1m5a)
+- [My JavaScript Journey: From Callbacks to Kafka – Embracing the Chaos of Event-Driven Systems](https://dev.to/elvissautet/my-javascript-journey-from-callbacks-to-kafka-embracing-the-chaos-of-event-driven-systems-2ci3)
+- [Dynamic throttle](https://dev.to/janwiesner/dynamic-throttle-2mhb)
+- [How to Leverage Inspect Element on Any Website for Design Optimization](https://dev.to/swiftproxy_residential/how-to-leverage-inspect-element-on-any-website-for-design-optimization-18n)
+- [Harness VBA Web Scraping for Excel to Streamline Data Collection](https://dev.to/swiftproxy_residential/harness-vba-web-scraping-for-excel-to-streamline-data-collection-3c8b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
