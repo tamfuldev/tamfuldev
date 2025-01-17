@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Our Amazing APP for most Powerful Vision Model CogVLM 2 now works amazing on Windows](https://dev.to/furkangozukara/our-amazing-app-for-most-powerful-vision-model-cogvlm-2-now-works-amazing-on-windows-3bn2)
-- [I want to share and gain knowledge in the IT field, where? Comparison of the main places for blogs, articles, videos about IT](https://dev.to/__1cffd5aa1a/i-want-to-share-and-gain-knowledge-in-the-it-field-where-comparison-of-the-main-places-for-blogs-6bj)
-- [How Cerbos minimizes latency in Authorization workflows](https://dev.to/agusioma/how-cerbos-minimizes-latency-in-authorization-workflows-pfl)
-- [Habit tracker app in a day](https://dev.to/maria_a34cb82ff663dc352d9/habit-tracker-app-in-a-day-208i)
-- [Recognizing Design Patterns in System Design - Facade pattern and AWS API Gateway](https://dev.to/deniseignatova/recognizing-design-patterns-in-system-design-facade-pattern-and-aws-api-gateway-516d)
+- [Understanding Sorting Algorithms &lpar;with Examples in Java&rpar;](https://dev.to/chinonsoike/sorting-algorithms-with-examples-in-java-3ib1)
+- [22 Unique Developer Resources You Should Explore](https://dev.to/kafeel_ahmad/22-unique-developer-resources-you-should-explore-464d)
+- [10x DevKit: Build Beautiful Websites in Record Time](https://dev.to/yektadev/10x-devkit-build-beautiful-websites-in-record-time-4ip7)
+- [ERP: what is it?](https://dev.to/kasyanenko/erp-what-is-it-3dce)
+- [Unlocking the Power of Android Development: Building Apps that Stand Out](https://dev.to/bafora/unlocking-the-power-of-android-development-building-apps-that-stand-out-41k3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
