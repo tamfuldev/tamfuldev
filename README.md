@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/uliyahoo/-4hfa)
-- [First post yay](https://dev.to/lucas-moura-veloso/first-post-yay-2b55)
-- [Mastering Recursion in PL/SQL:](https://dev.to/ghattas365/mastering-recursion-in-plsql-1b6l)
-- [Discover DIGIPIN: The Future of Addressing in India](https://dev.to/ronitjadhav/discover-digipin-the-future-of-addressing-in-india-can)
-- [How to Automate Kafka Topic Creation and Deletion, Using GitHub Actions and JavaScript](https://dev.to/pmbanugo/how-to-automate-kafka-topic-creation-and-deletion-using-github-actions-and-javascript-p9n)
+- [Unleashing AI Agent Potential with Tavily Search in KaibanJS](https://dev.to/kaibanjs/unleashing-ai-agent-potential-with-tavily-search-in-kaibanjs-2j41)
+- [Umbraco: Adding custom query strings for GetCropUrl&lpar;&rpar;](https://dev.to/richard_ockerby_62d513a3f/umbraco-adding-custom-query-strings-for-getcropurl-459f)
+- [Building an AWS Gamified Learning Platform with Amazon Q and Gemini: An AI-Powered Journey &lpar;Public Repo&rpar;](https://dev.to/sam_ben_786ddbe69e5992835/building-an-aws-gamified-learning-platform-with-amazon-q-and-gemini-an-ai-powered-journey-public-379h)
+- [SquidGame Bot: A Unique Experience Inspired by the Iconic Series!](https://dev.to/squidgamebot/squidgame-bot-a-unique-experience-inspired-by-the-iconic-series-4il9)
+- [The Impact of AI on Software Testing: Revolutionizing Quality Assurance](https://dev.to/radha_4c842d8e4362a7cdd9c/the-impact-of-ai-on-software-testing-revolutionizing-quality-assurance-34lo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
