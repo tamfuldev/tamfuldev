@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to use an API: a tutorial for beginners!🔥](https://dev.to/fallon_jimmy/how-to-use-an-api-a-tutorial-for-beginners-1m5a)
-- [My JavaScript Journey: From Callbacks to Kafka – Embracing the Chaos of Event-Driven Systems](https://dev.to/elvissautet/my-javascript-journey-from-callbacks-to-kafka-embracing-the-chaos-of-event-driven-systems-2ci3)
-- [Dynamic throttle](https://dev.to/janwiesner/dynamic-throttle-2mhb)
-- [How to Leverage Inspect Element on Any Website for Design Optimization](https://dev.to/swiftproxy_residential/how-to-leverage-inspect-element-on-any-website-for-design-optimization-18n)
-- [Harness VBA Web Scraping for Excel to Streamline Data Collection](https://dev.to/swiftproxy_residential/harness-vba-web-scraping-for-excel-to-streamline-data-collection-3c8b)
+- [Validation style final tweaks](https://dev.to/ayyash/validation-style-final-tweaks-2243)
+- [🎾 Say NO to GPTennis in Academia! 🎓](https://dev.to/dms/say-no-to-gptennis-in-academia-4dn8)
+- [Exploring the Chunk Free List Mechanism in GBase 8s Database](https://dev.to/congcong/exploring-the-chunk-free-list-mechanism-in-gbase-8s-database-2f5g)
+- [Scalable and Responsive EC2 Management Application](https://dev.to/yusufgbagci/scalable-and-responsive-ec2-management-application-2obf)
+- [GDPR Compliance: A Must-Have for Every Business in the Digital Age](https://dev.to/anupriya/gdpr-compliance-a-must-have-for-every-business-in-the-digital-age-eo4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
