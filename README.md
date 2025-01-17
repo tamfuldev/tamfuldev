@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Is working with AI a job skill?](https://dev.to/ben/is-working-with-ai-a-job-skill-5an2)
-- [This Week In Python](https://dev.to/bascodes/this-week-in-python-4352)
-- [HOW TO ATTACH A DATA DISK TO A VIRTUAL MACHINE AND INITIALIZE IT FOR USE](https://dev.to/kadekade/how-to-attach-a-data-disk-to-a-virtual-machine-and-initialize-it-for-use-31j0)
-- [Como Implementar Module Flag em um Sistema Modular em Golang](https://dev.to/ortizdavid/como-implementar-module-flag-em-um-sistema-modular-em-golang-13bh)
-- [How a Database Diagram Tool Simplifies Design and Collaboration](https://dev.to/roxana_haidiner/how-a-database-diagram-tool-simplifies-design-and-collaboration-52g9)
+- [Working with AddrPort in net/netip: Complete Guide 2/7](https://dev.to/rezmoss/working-with-addrport-in-netnetip-complete-guide-1dah)
+- [Async Tasks in Cloudflare Workers – Part 2: Decomposing tasks into multiple Workers](https://dev.to/fiberplane/async-tasks-in-cloudflare-workers-part-2-decomposing-tasks-into-multiple-workers-1cpi)
+- [Creating My 2025 Roadmap: A Year of Development, Obstacles, and Aspirations](https://dev.to/marie_berezhna/creating-my-2025-roadmap-a-year-of-development-obstacles-and-aspirations-bf)
+- [Network Security Groups &lpar;NSGs&rpar; and Firewalls](https://dev.to/574n13y/network-security-groups-nsgs-and-firewalls-g3k)
+- [Squoosh: una herramienta de optimización de imágenes para tu web](https://dev.to/duxtech/squoosh-una-herramienta-de-optimizacion-de-imagenes-para-tu-web-1lh6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
