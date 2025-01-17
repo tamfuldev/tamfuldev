@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Enhancing Security with App Signature Verification](https://dev.to/helloquash/enhancing-security-with-app-signature-verification-1hi4)
-- [Main Advantage Of Hoisting In JavaScript?](https://dev.to/prabal_sharma_55f155f14be/main-advantage-of-hoisting-in-javascript-413f)
-- [Festive Sales Made Fun with WooCommerce Product Designer](https://dev.to/alan_joe_b81bdc8e7ce4b163/festive-sales-made-fun-with-woocommerce-product-designer-28m5)
-- [Building a Wishlist App: My Journey with Room Database, DAO, and Entity Integration](https://dev.to/himagaur2708/building-a-wishlist-app-my-journey-with-room-database-dao-and-entity-integration-2gjo)
-- [Change Power BI Data Source from Local to ADLS Gen2](https://dev.to/flnzba/change-power-bi-data-source-from-local-to-adls-gen2-56m0)
+- [Is working with AI a job skill?](https://dev.to/ben/is-working-with-ai-a-job-skill-5an2)
+- [This Week In Python](https://dev.to/bascodes/this-week-in-python-4352)
+- [HOW TO ATTACH A DATA DISK TO A VIRTUAL MACHINE AND INITIALIZE IT FOR USE](https://dev.to/kadekade/how-to-attach-a-data-disk-to-a-virtual-machine-and-initialize-it-for-use-31j0)
+- [Como Implementar Module Flag em um Sistema Modular em Golang](https://dev.to/ortizdavid/como-implementar-module-flag-em-um-sistema-modular-em-golang-13bh)
+- [How a Database Diagram Tool Simplifies Design and Collaboration](https://dev.to/roxana_haidiner/how-a-database-diagram-tool-simplifies-design-and-collaboration-52g9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
