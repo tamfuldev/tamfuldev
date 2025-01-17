@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing an Open-Source MySQL Memory Calculator](https://dev.to/drupaladmin/introducing-an-open-source-mysql-memory-calculator-1ca5)
-- [My Code Chronicles #1: Optimizing Images in Next.js with a Custom Component](https://dev.to/nathlowe/my-code-chronicles-1-optimizing-images-in-nextjs-with-a-custom-component-3973)
-- [Splitting Wasp TS Config?](https://dev.to/medardm/splitting-wasp-ts-config-2iei)
-- [SETTING UP REACT ON YOUR LOCAL MACHINE](https://dev.to/phanhie/setting-up-react-on-your-local-machine-8o5)
-- [[open source] A smart text editor running local models completely in browser](https://dev.to/yyjhao/open-source-a-smart-text-editor-running-local-models-completely-in-browser-210e)
+- [The Four Layers of Internet Computer Protocol](https://dev.to/therustfanatic/the-four-layers-of-internet-computer-protocol-5dp)
+- [Integrating GitLab with Slack for Better Collaboration](https://dev.to/mohsen_leveling/integrating-gitlab-with-slack-for-better-collaboration-35f4)
+- [Blockchain Fundamentals and ICP Architecture: A Deep Dive](https://dev.to/therustfanatic/blockchain-fundamentals-and-icp-architecture-a-deep-dive-5chh)
+- [Creating an AI Chatbot](https://dev.to/02ahmed/creating-an-ai-chatbot-4b4o)
+- [7 React Custom Hooks I Always Use as a Front-End Developer 🚀](https://dev.to/joodi/7-react-custom-hooks-i-always-use-as-a-front-end-developer-5i9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
