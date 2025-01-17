@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Universal Developer: Exploring What It Means to Be a Multi-Faceted Programmer](https://dev.to/mrsupercraft/the-universal-developer-exploring-what-it-means-to-be-a-multi-faceted-programmer-3i4f)
-- [Why Everyone Falls in Love with Go!](https://dev.to/nozibul_islam_113b1d5334f/why-everyone-falls-in-love-with-go-4746)
-- [Compiling 2025: Goals, strategies, and milestones](https://dev.to/mishmanners/compiling-2025-goals-strategies-and-milestones-3jhn)
-- [The Importance of Code Reviews in a React Development Workflow](https://dev.to/ayusharpcoder/the-importance-of-code-reviews-in-a-react-development-workflow-1nkj)
-- [Revolutionizing Short-Form Content Creation with AI Video Tools](https://dev.to/technology-posts/revolutionizing-short-form-content-creation-with-ai-video-tools-1idk)
+- [Generating Random User Agents in Rust: Introducing `rand_agents` Library](https://dev.to/trixsec/generating-random-user-agents-in-rust-introducing-randagents-library-4c82)
+- [Getting Started With Kubernetes: A beginner&#39;s guide](https://dev.to/onlyfave/getting-started-with-kubernetes-a-beginners-guide-jhc)
+- [Interface in Vanilla JavaScript](https://dev.to/user_r100/interface-in-vanilla-javascript-30o9)
+- [CSS3 Animations: The Total Guide with Examples](https://dev.to/paintrain6/css3-animations-the-total-guide-with-examples-54np)
+- [Citty, an elegant CLI builder by Unjs](https://dev.to/ramunarasinga-11/citty-an-elegant-cli-builder-by-unjs-h61)
 <!-- BLOG-POST-LIST:END -->
 
 ---
