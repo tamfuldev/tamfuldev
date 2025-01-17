@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Sorting Algorithms &lpar;with Examples in Java&rpar;](https://dev.to/chinonsoike/sorting-algorithms-with-examples-in-java-3ib1)
-- [22 Unique Developer Resources You Should Explore](https://dev.to/kafeel_ahmad/22-unique-developer-resources-you-should-explore-464d)
-- [10x DevKit: Build Beautiful Websites in Record Time](https://dev.to/yektadev/10x-devkit-build-beautiful-websites-in-record-time-4ip7)
-- [ERP: what is it?](https://dev.to/kasyanenko/erp-what-is-it-3dce)
-- [Unlocking the Power of Android Development: Building Apps that Stand Out](https://dev.to/bafora/unlocking-the-power-of-android-development-building-apps-that-stand-out-41k3)
+- [Rails Designer v1.11: Rails Icons now a default](https://dev.to/railsdesigner/rails-designer-v111-rails-icons-now-a-default-3h21)
+- [What the H*ck is Terraform: An Introduction](https://dev.to/brandondamue/what-the-hck-is-terraform-an-introduction-2058)
+- [Hello World for Fire TV with Kotlin &amp; Jetpack Compose](https://dev.to/amazonappdev/hello-world-for-fire-tv-with-kotlin-jetpack-compose-4b7i)
+- [Cloud SaaS template designed to help startups quickly launch own cloud](https://dev.to/victor-trapenok/cloud-saas-template-designed-to-help-startups-quickly-launch-own-cloud-fi6)
+- [Why i stoped using Redux and started using Nori-Store](https://dev.to/nori_lux_f97e1160e60ae4fc/why-i-stoped-using-redux-and-started-using-nori-store-9dk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
