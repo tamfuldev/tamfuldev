@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [গোরুটিন &lpar;Goroutine&rpar; কী?](https://dev.to/nozibul_islam_113b1d5334f/goruttin-goroutine-kii-4mp5)
-- [Go Programming Language-এর ২৫টি কিওয়ার্ডের সহজ বাংলা ব্যাখ্যা](https://dev.to/nozibul_islam_113b1d5334f/go-programming-language-er-25tti-kioyaardder-shj-baanlaa-byaakhyaa-5cbp)
-- [Building a Scalable Real-Time Weather Dashboard with Python, OpenWeather API, and AWS S3](https://dev.to/joseph_ibeh/building-a-scalable-real-time-weather-dashboard-with-python-openweather-api-and-aws-s3-5mp)
-- [KMP-102 - Otimizando a Exportação do Kotlin para o Obj-c/Swift](https://dev.to/rsicarelli/kmp-102-otimizando-a-exportacao-do-kotlin-para-o-obj-cswift-358p)
-- [Desafío Creativo: Cómo Crear un Juego de Tic-Tac-Toe Usando Solo CSS y HTML](https://dev.to/ezra_ezra_69aeb3bc575bba8/desafio-creativo-como-crear-un-juego-de-tic-tac-toe-usando-solo-css-y-html-4j9j)
+- [Discover `react-fox-toast`: A Powerful Yet Lightweight React/Next.js Toast Library with Interactive Features](https://dev.to/dhaneesh/discover-react-fox-toast-a-powerful-yet-lightweight-reactnextjs-toast-library-with-interactive-1b56)
+- [CRA AND Vite Tool In React](https://dev.to/zahakhussain/cra-and-vite-tool-7p7)
+- [Google Cloud Run with CI/CD via Terraform Cloud and GitHub Actions](https://dev.to/mkdev/google-cloud-run-with-cicd-via-terraform-cloud-and-github-actions-27fg)
+- [C#](https://dev.to/muhammad_qadafi_06978842b/c-3g3g)
+- [Project - Supervised Learning with Python - Lets use Logistic Regression for Predicting the chances of having a Heart Attack](https://dev.to/vishnu_ajit/project-supervised-learning-with-python-lets-use-logistic-regression-for-predicting-the-chances-4gf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
