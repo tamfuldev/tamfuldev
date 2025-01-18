@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Discover `react-fox-toast`: A Powerful Yet Lightweight React/Next.js Toast Library with Interactive Features](https://dev.to/dhaneesh/discover-react-fox-toast-a-powerful-yet-lightweight-reactnextjs-toast-library-with-interactive-1b56)
-- [CRA AND Vite Tool In React](https://dev.to/zahakhussain/cra-and-vite-tool-7p7)
-- [Google Cloud Run with CI/CD via Terraform Cloud and GitHub Actions](https://dev.to/mkdev/google-cloud-run-with-cicd-via-terraform-cloud-and-github-actions-27fg)
-- [C#](https://dev.to/muhammad_qadafi_06978842b/c-3g3g)
-- [Project - Supervised Learning with Python - Lets use Logistic Regression for Predicting the chances of having a Heart Attack](https://dev.to/vishnu_ajit/project-supervised-learning-with-python-lets-use-logistic-regression-for-predicting-the-chances-4gf)
+- [97/365 | ¥10M Job Challenge - Software Engineers in the AI Era](https://dev.to/kameken100/96365-y10m-job-challenge-software-engineers-in-the-ai-era-3nda)
+- [AI-Powered DNS for TXT Queries!](https://dev.to/auenkr/ai-powered-dns-for-txt-queries-1236)
+- [How Technology is Revolutionizing Global Expansion for Startups in 2025](https://dev.to/jabran_mustafa_cf7667f97a/how-technology-is-revolutionizing-global-expansion-for-startups-in-2025-n9o)
+- [Showing E-commerce More Clearly](https://dev.to/auramuch/showing-e-commerce-more-clearly-1i1f)
+- [Top 10 Strategic Technology Trends for 2025](https://dev.to/jabran_mustafa_cf7667f97a/top-10-strategic-technology-trends-for-2025-1b1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
