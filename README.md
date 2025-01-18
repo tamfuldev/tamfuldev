@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🧪 GOLANG INTEGRATION TEST WITH GIN, GORM, TESTIFY, MYSQL](https://dev.to/truongpx396/golang-integration-test-with-gin-gorm-testify-mysql-37h5)
-- [Artificial Intelligence](https://dev.to/sakhiknowledge/artificial-intelligence-3gn)
-- [A fresh start after a heartbreak](https://dev.to/sagi0312/a-fresh-start-after-a-heartbreak-b0n)
-- [Mastering FluentValidation in .NET Core](https://dev.to/hamza_zeryouh/mastering-fluentvalidation-in-net-core-4lpn)
-- [Test with Moq and AutoFixture](https://dev.to/_cds_/test-with-moq-and-autofixture-k82)
+- [Vacancy page](https://dev.to/thomas_costigan_001/vacancy-page-296l)
+- [Generative AI](https://dev.to/sakhiknowledge/generative-ai-52cn)
+- [Blockchain Technology](https://dev.to/sakhiknowledge/blockchain-technology-16ab)
+- [Bonus Episode: The Fractured Nexus – AI&#39;s Betrayal](https://dev.to/vigneshiyergithub/bonus-episode-the-fractured-nexus-ais-betrayal-ef4)
+- [Your Next Dining Table Could Be 3D Printed - Here&#39;s Why That&#39;s Revolutionary](https://dev.to/planke/your-next-dining-table-could-be-3d-printed-heres-why-thats-revolutionary-1pmd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
