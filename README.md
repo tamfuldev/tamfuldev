@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What make Rust blazing fast?](https://dev.to/sadanand_dodawadakar_10b2/what-make-rust-blazing-fast-5anj)
-- [Trampolim para funções além do primitivo recursivo? Implementação para a função de Ackermann Peter](https://dev.to/jeffque/trampolim-para-funcoes-alem-do-primitivo-recursivo-implementacao-para-a-funcao-de-ackermann-peter-3c8n)
-- [Guard expressions in JavaScript](https://dev.to/anreutt/guard-expressions-in-javascript-161e)
-- [The Differences in Truthiness and Falsiness in JavaScript vs PHP](https://dev.to/kengitahi/the-differences-in-truthiness-and-falsiness-in-javascript-vs-php-4fdb)
-- [Diagramming React code](https://dev.to/conw_y/diagramming-react-code-48m7)
+- [গোরুটিন &lpar;Goroutine&rpar; কী?](https://dev.to/nozibul_islam_113b1d5334f/goruttin-goroutine-kii-4mp5)
+- [Go Programming Language-এর ২৫টি কিওয়ার্ডের সহজ বাংলা ব্যাখ্যা](https://dev.to/nozibul_islam_113b1d5334f/go-programming-language-er-25tti-kioyaardder-shj-baanlaa-byaakhyaa-5cbp)
+- [Building a Scalable Real-Time Weather Dashboard with Python, OpenWeather API, and AWS S3](https://dev.to/joseph_ibeh/building-a-scalable-real-time-weather-dashboard-with-python-openweather-api-and-aws-s3-5mp)
+- [KMP-102 - Otimizando a Exportação do Kotlin para o Obj-c/Swift](https://dev.to/rsicarelli/kmp-102-otimizando-a-exportacao-do-kotlin-para-o-obj-cswift-358p)
+- [Desafío Creativo: Cómo Crear un Juego de Tic-Tac-Toe Usando Solo CSS y HTML](https://dev.to/ezra_ezra_69aeb3bc575bba8/desafio-creativo-como-crear-un-juego-de-tic-tac-toe-usando-solo-css-y-html-4j9j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
