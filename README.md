@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Vacancy page](https://dev.to/thomas_costigan_001/vacancy-page-296l)
-- [Generative AI](https://dev.to/sakhiknowledge/generative-ai-52cn)
-- [Blockchain Technology](https://dev.to/sakhiknowledge/blockchain-technology-16ab)
-- [Bonus Episode: The Fractured Nexus – AI&#39;s Betrayal](https://dev.to/vigneshiyergithub/bonus-episode-the-fractured-nexus-ais-betrayal-ef4)
-- [Your Next Dining Table Could Be 3D Printed - Here&#39;s Why That&#39;s Revolutionary](https://dev.to/planke/your-next-dining-table-could-be-3d-printed-heres-why-thats-revolutionary-1pmd)
+- [FG.CsvParser: A Powerful .NET Library for Working with CSV Files](https://dev.to/fermantttnnn/fgcsvparser-a-powerful-net-library-for-working-with-csv-files-15n7)
+- [Making binary search slower](https://dev.to/acoh3n/making-binary-search-slower-5h97)
+- [The start of DevOps field](https://dev.to/williambarroscosta/the-start-of-devops-field-3p4p)
+- [Leading Docker Adoption: A Senior Manager’s Perspective](https://dev.to/swap11/leading-docker-adoption-a-senior-managers-perspective-48hm)
+- [My First Encounter With ESLint](https://dev.to/georgimy/my-first-encounter-with-eslint-5g97)
 <!-- BLOG-POST-LIST:END -->
 
 ---
