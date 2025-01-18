@@ -16,7 +16,7 @@
 # Latest stack oveflow activity
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><tr><td>How to group / reuse / mix custom assertions classes for phpunit testcases?</td><td>https://stackoverflow.com/questions/79367694/how-to-group-reuse-mix-custom-assertions-classes-for-phpunit-testcases</td></tr><tr><td>Easter date beyond 2037</td><td>https://stackoverflow.com/questions/79367467/easter-date-beyond-2037</td></tr><tr><td>PHP ftp_nlist always returning false</td><td>https://stackoverflow.com/questions/79367455/php-ftp-nlist-always-returning-false</td></tr><tr><td>How to add a product to a cart?</td><td>https://stackoverflow.com/questions/79367394/how-to-add-a-product-to-a-cart</td></tr><tr><td>Laravel 11.8 Dynamic Session Lifetime</td><td>https://stackoverflow.com/questions/79367258/laravel-11-8-dynamic-session-lifetime</td></tr><!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:START --><tr><td>Laravel project to a single phar file</td><td>https://stackoverflow.com/questions/79368011/laravel-project-to-a-single-phar-file</td></tr><tr><td>How to group / reuse / mix custom assertions classes for phpunit testcases?</td><td>https://stackoverflow.com/questions/79367694/how-to-group-reuse-mix-custom-assertions-classes-for-phpunit-testcases</td></tr><tr><td>Easter date beyond 2037</td><td>https://stackoverflow.com/questions/79367467/easter-date-beyond-2037</td></tr><tr><td>PHP ftp_nlist always returning false</td><td>https://stackoverflow.com/questions/79367455/php-ftp-nlist-always-returning-false</td></tr><tr><td>How to add a product to a cart?</td><td>https://stackoverflow.com/questions/79367394/how-to-add-a-product-to-a-cart</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 
 ---
