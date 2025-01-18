@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top Use Cases for Free Exchange APIs in 2025](https://dev.to/bradi/top-use-cases-for-free-exchange-apis-in-2025-3hk8)
-- [Rust](https://dev.to/mynameisbond/rust-236i)
-- [How to push your code into github.](https://dev.to/arunkrish11/how-to-push-your-code-into-github-552m)
-- [30% Better AI Images Without Retraining: New Optimization Technique Enhances Diffusion Models](https://dev.to/mikeyoung44/30-better-ai-images-without-retraining-new-optimization-technique-enhances-diffusion-models-4m8o)
-- [AI System Makes Speech Recognition Text 3x Cleaner and Faster Using Unified Neural Network](https://dev.to/mikeyoung44/ai-system-makes-speech-recognition-text-3x-cleaner-and-faster-using-unified-neural-network-5ah9)
+- [2 Gits, 1 User: Navigating the World of Multiple Git Accounts](https://dev.to/alxizr/2-gits-1-user-navigating-the-world-of-multiple-git-accounts-23f1)
+- [🌐 Golang RESTful API with Gin, Gorm, PostgreSQL 🐘](https://dev.to/truongpx396/golang-restful-api-with-gin-gorm-postgresql-3bi)
+- [this is what I built for GitHub Copilot 1-Day Build Challenge](https://dev.to/bupalchow/this-is-what-i-built-for-github-copilot-1-day-build-challenge-2l8g)
+- [🚀 Transform Journey: 90% AI-Generated Code 🤖 | Built in Just 4 Hours with Codespaces + Copilot! 🎉](https://dev.to/bupalchow/transform-journey-90-ai-generated-code-built-in-just-4-hours-with-codespaces-copilot-2i85)
+- [Test Automation vs. Autonomous Testing: Understanding the Evolution of Software Testing](https://dev.to/radha_4c842d8e4362a7cdd9c/test-automation-vs-autonomous-testing-understanding-the-evolution-of-software-testing-2k21)
 <!-- BLOG-POST-LIST:END -->
 
 ---
