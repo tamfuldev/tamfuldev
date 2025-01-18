@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [97/365 | ¥10M Job Challenge - Software Engineers in the AI Era](https://dev.to/kameken100/96365-y10m-job-challenge-software-engineers-in-the-ai-era-3nda)
-- [AI-Powered DNS for TXT Queries!](https://dev.to/auenkr/ai-powered-dns-for-txt-queries-1236)
-- [How Technology is Revolutionizing Global Expansion for Startups in 2025](https://dev.to/jabran_mustafa_cf7667f97a/how-technology-is-revolutionizing-global-expansion-for-startups-in-2025-n9o)
-- [Showing E-commerce More Clearly](https://dev.to/auramuch/showing-e-commerce-more-clearly-1i1f)
-- [Top 10 Strategic Technology Trends for 2025](https://dev.to/jabran_mustafa_cf7667f97a/top-10-strategic-technology-trends-for-2025-1b1)
+- [This Week in Tech: My Newsletter for Developers Who Want to Stay in the Loop Without the Overwhelm](https://dev.to/digitalminds/this-week-in-tech-my-newsletter-for-developers-who-want-to-stay-in-the-loop-without-the-overwhelm-11km)
+- [Tutorial: Use OSS Bucket SDK .NET Autodesk Platform Services &lpar;APS&rpar;](https://dev.to/chuongmep/tutorial-use-oss-bucket-api-with-net-autodesk-platform-services-aps-3kjb)
+- [Single Page Multi-difficulty Quiz application](https://dev.to/atombrown/single-page-multi-difficulty-quiz-application-4c5k)
+- [Open Source Projects into Money-Making Business: A Simple Guide](https://dev.to/abubakersiddique761/open-source-projects-into-money-making-business-a-simple-guide-m53)
+- [First post](https://dev.to/tridev/first-post-3jn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
