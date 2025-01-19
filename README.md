@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Effective Error Handling Strategies for AWS Lambda](https://dev.to/aws-builders/effective-error-handling-strategies-for-aws-lambda-587k)
-- [Why You Need a Digital Dead Man&#39;s Switch - and How Vital Watchdog Makes It Easy](https://dev.to/edkirin/why-you-need-a-digital-dead-mans-switch-and-how-vital-watchdog-makes-it-easy-87k)
-- [How Goals It 2? An Update on last year’s Website Tech Goals and what’s in store for 2025](https://dev.to/reubenwalker64/how-goals-it-2-an-update-on-last-years-website-tech-goals-and-whats-in-store-for-2025-4hhi)
-- [Simplifying backlog management on Jira with CrewAI](https://dev.to/rosidotidev/simplifying-backlog-management-on-jira-with-crewai-3jmd)
-- [Day 15: Get Read to Code a Website](https://dev.to/theoriginalbpc/day-15-get-read-to-code-a-website-45j7)
+- [Pulumi WASM/Rust devlog #4](https://dev.to/andrzejressel/pulumi-wasmrust-devlog-4-3acd)
+- [Diverse AI tools used for the C# developer](https://dev.to/karenpayneoregon/diverse-ai-tools-used-for-the-c-developer-4981)
+- [Live Resume: Take your resume online on github pages](https://dev.to/hithesh_reddivari_b646cd8/live-resume-take-your-resume-online-on-github-pages-4o5h)
+- [LifeTrackr 2025: A New Beginnings minimal visual focused app with GitHub Copilot](https://dev.to/hidde38967103/lifetrackr-2025-a-new-beginnings-minimal-visual-focused-app-with-github-copilot-1kl4)
+- [Configure EKS Cluster Security - Pod Security, Network Policies, Pod Identity](https://dev.to/aws-builders/configure-eks-cluster-security-pod-security-network-policies-pod-identity-506d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
