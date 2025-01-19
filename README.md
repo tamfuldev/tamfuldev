@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Quarkus notes &lpar;1&rpar;](https://dev.to/saladlam/quarkus-notes-1-o63)
-- [Recursion in JavaScript Types, Structure, and Practical Examples](https://dev.to/sudhanshudevelopers/mastering-recursion-in-javascript-types-structure-and-practical-examples-5gk5)
-- [&quot;Revolutionizing Autonomous Driving: The Power of Language Models Unleashed&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-autonomous-driving-the-power-of-language-models-unleashed-9gh)
-- [Daily JavaScript Challenge #JS-77: Rotate a Matrix Clockwise](https://dev.to/dpc/daily-javascript-challenge-js-77-rotate-a-matrix-clockwise-5739)
-- [¿Qué pasa cuando AWS se cae? El impacto de un gigante en pausa](https://dev.to/briansuarezsantiago/que-pasa-cuando-aws-se-cae-el-impacto-de-un-gigante-en-pausa-1fp8)
+- [A Guide to Awareness Meditation and its Advantages](https://dev.to/endscarf1/a-guide-to-awareness-meditation-and-its-advantages-1881)
+- [&quot;Tell, Don&#39;t Ask&quot; Principle Explained in 100 Seconds](https://dev.to/dzungnt98/tell-dont-ask-principle-explained-in-100-seconds-540h)
+- [Ruby on Rails 8 - Frontend Rápido Usando CSS-Zero como um Frameworks CSS Classless](https://dev.to/dailson_igo/ruby-on-rails-8-frontend-rapido-usando-css-zero-como-um-frameworks-css-classless-35m1)
+- [My First Attempt at Building a Retrieval-Augmented Generation &lpar;RAG&rpar; Model](https://dev.to/jeffrey_martin_44f7bcf2a3/my-first-attempt-at-building-a-retrieval-augmented-generation-rag-model-24de)
+- [Ruby on Rails 8 - Frontend Rápido Usando CSS-Zero como um Frameworks CSS Classless](https://dev.to/dailson_igo/ruby-on-rails-8-frontend-rapido-usando-css-zero-como-um-frameworks-css-classless-jd8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
