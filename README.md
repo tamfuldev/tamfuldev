@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Join a Tech Community? ✋5 Powerful Reasons for Beginners](https://dev.to/joyobaidu/why-join-a-tech-community-5-powerful-reasons-for-beginners-4652)
-- [Introducing Momentum: Your Ultimate Habit Tracker App](https://dev.to/swhavy/introducing-momentum-your-ultimate-habit-tracker-app-1716)
-- [A Complete Guide to Fetching Data in Next.js with Axios and React-TanStack-Query](https://dev.to/dannypreye/a-complete-guide-to-fetching-data-in-nextjs-with-axios-and-react-tanstack-query-3chl)
-- [Introducing Momentum: Your Ultimate Habit Tracker App](https://dev.to/swhavy/introducing-momentum-your-ultimate-habit-tracker-app-3knb)
-- [Introduction to React](https://dev.to/bkthemes/introduction-to-react-1cof)
+- [Effective Error Handling Strategies for AWS Lambda](https://dev.to/aws-builders/effective-error-handling-strategies-for-aws-lambda-587k)
+- [Why You Need a Digital Dead Man&#39;s Switch - and How Vital Watchdog Makes It Easy](https://dev.to/edkirin/why-you-need-a-digital-dead-mans-switch-and-how-vital-watchdog-makes-it-easy-87k)
+- [How Goals It 2? An Update on last year’s Website Tech Goals and what’s in store for 2025](https://dev.to/reubenwalker64/how-goals-it-2-an-update-on-last-years-website-tech-goals-and-whats-in-store-for-2025-4hhi)
+- [Simplifying backlog management on Jira with CrewAI](https://dev.to/rosidotidev/simplifying-backlog-management-on-jira-with-crewai-3jmd)
+- [Day 15: Get Read to Code a Website](https://dev.to/theoriginalbpc/day-15-get-read-to-code-a-website-45j7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
