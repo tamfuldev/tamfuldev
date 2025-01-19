@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Open Pull Requests from Jira Issues with GitAuto](https://dev.to/gitautoai/how-to-open-pull-requests-from-jira-issues-with-gitauto-21bk)
-- [Internacionalización en Aplicaciones React con i18next](https://dev.to/devjohanadrian/internacionalizacion-en-aplicaciones-react-con-i18next-286k)
-- [Predictions for the New Year!](https://dev.to/vitamindel/predictions-for-the-new-year-572g)
-- [The future of Azure](https://dev.to/amircloudlab/the-future-of-azure-1b6i)
-- [React Custom Hook: useDarkSwitch](https://dev.to/niero/react-custom-hook-usedarkswitch-180g)
+- [Quarkus notes &lpar;1&rpar;](https://dev.to/saladlam/quarkus-notes-1-o63)
+- [Recursion in JavaScript Types, Structure, and Practical Examples](https://dev.to/sudhanshudevelopers/mastering-recursion-in-javascript-types-structure-and-practical-examples-5gk5)
+- [&quot;Revolutionizing Autonomous Driving: The Power of Language Models Unleashed&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-autonomous-driving-the-power-of-language-models-unleashed-9gh)
+- [Daily JavaScript Challenge #JS-77: Rotate a Matrix Clockwise](https://dev.to/dpc/daily-javascript-challenge-js-77-rotate-a-matrix-clockwise-5739)
+- [¿Qué pasa cuando AWS se cae? El impacto de un gigante en pausa](https://dev.to/briansuarezsantiago/que-pasa-cuando-aws-se-cae-el-impacto-de-un-gigante-en-pausa-1fp8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
