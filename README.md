@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;s Talk About Power Platform Previews](https://dev.to/wyattdave/lets-talk-about-power-platform-previews-58ne)
-- [#133 — Row-to-Column Conversion for Fixed Columns](https://dev.to/judith677/133-row-to-column-conversion-for-fixed-columns-be1)
-- [𝐅𝐢𝐧𝐞 𝐯𝐬 𝐂𝐥𝐚𝐮𝐝𝐞 &amp; 𝐂𝐡𝐚𝐭𝐆𝐏𝐓 - 𝐖𝐡𝐚𝐭&#39;𝐬 𝐭𝐡𝐞 𝐝𝐢𝐟𝐟𝐞𝐫𝐞𝐧𝐜𝐞 ❔](https://dev.to/thisisfinedev/--1638)
-- [GraphQL vs REST API: Key Differences and Best Use Cases | Mbloging](https://dev.to/muhayminbinmehmood/graphql-vs-rest-api-key-differences-and-best-use-cases-mbloging-3nmm)
-- [Understanding the Vue 3 Composition API](https://dev.to/jacobandrewsky/understanding-the-vue-3-composition-api-fa2)
+- [From Photos to Pixels: Building a Retro Art Transformer with GitHub Copilot](https://dev.to/mohitb_twt/from-photos-to-pixels-building-a-retro-art-transformer-with-github-copilot-1hc5)
+- [Advanced SQL Techniques for PostgreSQL Using DbVisualizer](https://dev.to/dbvismarketing/advanced-sql-techniques-for-postgresql-using-dbvisualizer-4a3l)
+- [Quick Guide to SPIFFE, SPIRE, and M2M](https://dev.to/mike-vincent/quick-guide-to-spiffe-spire-and-m2m-hd)
+- [Creative components with React Bits](https://dev.to/giuliano1993/creative-components-with-react-bits-2863)
+- [Sprout: my submission for GitHub Copilot Challenge](https://dev.to/bridget_amana/sprout-my-submission-for-github-copilot-challenge-ihe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
