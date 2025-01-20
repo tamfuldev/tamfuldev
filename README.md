@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [10 VSCode Hidden Powers You’ll Wish You Knew Earlier!](https://dev.to/arpitstack/10-vscode-hidden-powers-youll-wish-you-knew-earlier-7ln)
-- [Sum of variable length subarray](https://dev.to/prashantrmishra/sum-of-variable-length-subarray-3ak5)
-- [How to build a Grocery Delivery App](https://dev.to/laura_thomas/how-to-build-a-grocery-delivery-app-36an)
-- [SkillSphere: Your All-in-One Lifestyle Platform 🌟](https://dev.to/auramuch/skillsphere-your-all-in-one-lifestyle-platform-78d)
-- [FlutterFlow: Pros and Cons of using the framework](https://dev.to/codeparrot/flutterflow-pros-and-cons-of-using-the-framework-4epi)
+- [Clases anónimas en Java](https://dev.to/asjordi/clases-anonimas-en-java-44cp)
+- [Understanding Generics in Java: A Shopping Cart Example with Custom Classes](https://dev.to/mspilari/understanding-generics-in-java-a-shopping-cart-example-with-custom-classes-392p)
+- [Seeder vs Factory: Populating Test Data in Laravel](https://dev.to/varzoeaa/seeder-vs-factory-populating-test-data-in-laravel-2308)
+- [VMware Blast vs. PCoIP vs. RDP Performance: A Detailed Comparison](https://dev.to/davidjonson/vmware-blast-vs-pcoip-vs-rdp-performance-a-detailed-comparison-2d50)
+- [Keyword:Abstract-Extends,Interface-Implements](https://dev.to/neelakandan_ravi_2000/keywordabstract-extendsinterface-implements-1ioh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
