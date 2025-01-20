@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Transactions in Microservices: Part 1 - SAGA Patterns overview.](https://dev.to/federico_bevione/transactions-in-microservices-part-1-saga-patterns-with-choreography-and-orchestration-4an9)
-- [I built an AI Indie hacker that can research and make MVPs in minutes 🚀 🔥](https://dev.to/composiodev/i-built-an-ai-indie-hacker-that-can-research-and-make-mvps-in-minutes-1j8j)
-- [Reliving the Spirit of InnOlympics 2025](https://dev.to/kakacomputer-media/reliving-the-spirit-of-innolympics-2025-5d0o)
-- [Daily JavaScript Challenge #JS-78: Find the Most Frequent Element](https://dev.to/dpc/daily-javascript-challenge-js-78-find-the-most-frequent-element-4lma)
-- [Top 10 Data and AI Trends to Watch in 2025](https://dev.to/hardiksankhla/top-10-data-and-ai-trends-to-watch-in-2025-4ih1)
+- [The Secret to Unstoppable Motivation: Vision vs Anti-Vision Explained](https://dev.to/tyagi_data_wizard/the-secret-to-unstoppable-motivation-vision-vs-anti-vision-explained-1cld)
+- [Lessons Learned #4: One error message could expose all your data &lpar;FileSender CVE-2024–45186&rpar;](https://dev.to/mohamed_aboelkheir/lessons-learned-4-one-error-message-could-expose-all-your-data-filesender-cve-2024-45186-11pf)
+- [10-Minute Grocery Delivery App: Challenges, Tech Stack, and Key Decisions](https://dev.to/divyanshulohani/10-minute-grocery-delivery-app-challenges-tech-stack-and-key-decisions-3ch1)
+- [Explaination on array and arrays method](https://dev.to/abdulsemiu_wasilat_711255/explaination-on-array-and-arrays-method-58ng)
+- [Gemini is so good, I have let it control/use my phone](https://dev.to/mkagenius/gemini-is-so-good-i-have-let-it-controluse-my-phone-4mf6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
