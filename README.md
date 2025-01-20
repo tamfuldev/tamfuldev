@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Photos to Pixels: Building a Retro Art Transformer with GitHub Copilot](https://dev.to/mohitb_twt/from-photos-to-pixels-building-a-retro-art-transformer-with-github-copilot-1hc5)
-- [Advanced SQL Techniques for PostgreSQL Using DbVisualizer](https://dev.to/dbvismarketing/advanced-sql-techniques-for-postgresql-using-dbvisualizer-4a3l)
-- [Quick Guide to SPIFFE, SPIRE, and M2M](https://dev.to/mike-vincent/quick-guide-to-spiffe-spire-and-m2m-hd)
-- [Creative components with React Bits](https://dev.to/giuliano1993/creative-components-with-react-bits-2863)
-- [Sprout: my submission for GitHub Copilot Challenge](https://dev.to/bridget_amana/sprout-my-submission-for-github-copilot-challenge-ihe)
+- [⚡ 🚀 Top 10 Trending GitHub Repositories, January 2025 🔥](https://dev.to/leamsigc/top-10-trending-github-repositories-january-2025-1f24)
+- [How to Integrate GitHub Copilot with VS Code](https://dev.to/aneeqakhan/how-to-integrate-github-copilot-with-vs-code-i0h)
+- [Automatic deletion of unused AWS ECR container images for multi-account AWS ECS services](https://dev.to/chgerkens/automatic-deletion-of-unused-aws-ecr-container-images-for-multi-account-aws-ecs-services-4h14)
+- [Zero-Shot to Few-Shot: A Developer&#39;s Guide to Root Prompting Techniques](https://dev.to/nagasuresh_dondapati_d5df/zero-shot-to-few-shot-a-developers-guide-to-root-prompting-techniques-2og4)
+- [The Evolution of Telecom: Connecting the World in the Digital Age](https://dev.to/blogsx/the-evolution-of-telecom-connecting-the-world-in-the-digital-age-5h20)
 <!-- BLOG-POST-LIST:END -->
 
 ---
