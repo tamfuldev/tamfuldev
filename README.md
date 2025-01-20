@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Pulumi WASM/Rust devlog #4](https://dev.to/andrzejressel/pulumi-wasmrust-devlog-4-3acd)
-- [Diverse AI tools used for the C# developer](https://dev.to/karenpayneoregon/diverse-ai-tools-used-for-the-c-developer-4981)
-- [Live Resume: Take your resume online on github pages](https://dev.to/hithesh_reddivari_b646cd8/live-resume-take-your-resume-online-on-github-pages-4o5h)
-- [LifeTrackr 2025: A New Beginnings minimal visual focused app with GitHub Copilot](https://dev.to/hidde38967103/lifetrackr-2025-a-new-beginnings-minimal-visual-focused-app-with-github-copilot-1kl4)
-- [Configure EKS Cluster Security - Pod Security, Network Policies, Pod Identity](https://dev.to/aws-builders/configure-eks-cluster-security-pod-security-network-policies-pod-identity-506d)
+- [Reactjs for Beginners](https://dev.to/amrigo/reactjs-for-beginners-1g7n)
+- [Creative Transitions Visualizer](https://dev.to/glenzzy/creative-transitions-visualizer-1cb3)
+- [&quot;Boosting VANET Performance: Optimize OLSR Routing with Smart Algorithms&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/boosting-vanet-performance-optimize-olsr-routing-with-smart-algorithms-2okf)
+- [I wanna Do ____! — An AI powered habit building application](https://dev.to/arnu515/i-wanna-do-an-ai-powered-habit-building-application-3kpi)
+- [NowiPass](https://dev.to/cuadratico/nowipass-2p1g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
