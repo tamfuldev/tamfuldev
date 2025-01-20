@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Learn and Earn crypto tokens, here is how?](https://dev.to/block_experts_766a3a21915637/learn-and-earn-crypto-tokens-here-is-how-o85)
-- [C# input](https://dev.to/sanjar777/c-input-29g7)
-- [Software Testing Life Cycle &lpar;STLC&rpar;: Phases, Best Practices, and Challenges](https://dev.to/keploy/software-testing-life-cycle-stlc-phases-best-practices-and-challenges-1oa9)
-- [How to Learn Coding from Scratch: A Beginner’s Guide](https://dev.to/tarunfulera1/how-to-learn-coding-from-scratch-a-beginners-guide-2gp3)
-- [Save money on AWS by getting daily cost notifications for FREE!](https://dev.to/ibatulanand/save-money-on-aws-by-getting-daily-cost-notifications-for-free-3kce)
+- [React Native list components: FlashList, FlatList, and more](https://dev.to/logrocket/react-native-list-components-flashlist-flatlist-and-more-1l4e)
+- [Streamline Your Workflow: Automating Tasks with .NET 9’s New Tools and APIs](https://dev.to/leandroveiga/streamline-your-workflow-automating-tasks-with-net-9s-new-tools-and-apis-5520)
+- [How to Set Up a Node.js Web Server on Raspberry Pi](https://dev.to/garciadiazjaime/how-to-set-up-a-nodejs-web-server-on-raspberry-pi-3d46)
+- [my projet react website](https://dev.to/armandomateus41/my-projet-react-website-3j53)
+- [What is a database schema?](https://dev.to/burcs/what-is-a-database-schema-j3p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
