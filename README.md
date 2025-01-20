@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Dev.to is the Better Space for Developers Compared to Stack Overflow](https://dev.to/brunociccarino/why-devto-is-the-better-space-for-developers-compared-to-stack-overflow-2nio)
-- [Development Environment Configuration](https://dev.to/abdhilahiwabwire/development-environment-configuration-2goh)
-- [Married to Software Development](https://dev.to/carlosrambles/married-to-software-development-4mj4)
-- [Master-Worker Pattern in NodeJS: Explained](https://dev.to/leapcell/master-worker-pattern-in-nodejs-explained-4b4l)
-- [What are AI Agents &amp; How AI Agents simplify your workflow](https://dev.to/datacollectionscraper/what-are-ai-agents-how-ai-agents-simplify-your-workflow-2cbh)
+- [Life in Dots: A Visual Journey of Time and Transformation](https://dev.to/josectoscano/life-in-dots-a-visual-journey-of-time-and-transformation-118c)
+- [NextStep: Habit Tracker Built with GitHub Copilot](https://dev.to/mirfanhassan/nextstep-habit-tracker-built-with-github-copilot-313)
+- [New Beginnings Personal Growth Productivity Tool](https://dev.to/cvipuls/new-beginnings-personal-growth-productivity-tool-344e)
+- [Use Selenium and proxy IP to easily crawl dynamic page information](https://dev.to/98ip/use-selenium-and-proxy-ip-to-easily-crawl-dynamic-page-information-1mk5)
+- [How to Make HTTP Requests in Node.js with Node-Fetch API?](https://dev.to/scraper0024/how-to-make-http-requests-in-nodejs-with-node-fetch-api-i19)
 <!-- BLOG-POST-LIST:END -->
 
 ---
