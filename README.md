@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [terraProof: The Secret Weapon Every DevOps Engineer Needs](https://dev.to/aws-builders/terraproof-the-secret-weapon-every-devops-engineer-needs-fa1)
-- [Experiment with Chainlit AI interface with RAG on Upsun](https://dev.to/gmoigneu/experiment-with-chainlit-ai-interface-with-rag-on-upsun-4cdj)
-- [Stateless loading in React](https://dev.to/ijal/stateless-loading-in-react-29dj)
-- [Deepseek R1](https://dev.to/avanichols_dev/deepseek-r1-4i9h)
-- [Cara Aman Mengakses Data pada Object](https://dev.to/hadihammurabi/cara-aman-mengakses-data-pada-object-1bkb)
+- [Learn and Earn crypto tokens, here is how?](https://dev.to/block_experts_766a3a21915637/learn-and-earn-crypto-tokens-here-is-how-o85)
+- [C# input](https://dev.to/sanjar777/c-input-29g7)
+- [Software Testing Life Cycle &lpar;STLC&rpar;: Phases, Best Practices, and Challenges](https://dev.to/keploy/software-testing-life-cycle-stlc-phases-best-practices-and-challenges-1oa9)
+- [How to Learn Coding from Scratch: A Beginner’s Guide](https://dev.to/tarunfulera1/how-to-learn-coding-from-scratch-a-beginners-guide-2gp3)
+- [Save money on AWS by getting daily cost notifications for FREE!](https://dev.to/ibatulanand/save-money-on-aws-by-getting-daily-cost-notifications-for-free-3kce)
 <!-- BLOG-POST-LIST:END -->
 
 ---
