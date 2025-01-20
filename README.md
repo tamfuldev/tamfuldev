@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stay ahead in web development: latest news, tools, and insights #68](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-68-2hpd)
-- [Configuring Virtual Network Peering in Azure](https://dev.to/willvelida/configuring-virtual-network-peering-in-azure-46jf)
-- [Rails 8 CI/CD: GitHub Actions &amp; Kamal 2025](https://dev.to/sulmanweb/rails-8-cicd-github-actions-kamal-2025-2gce)
-- [SHIFT - AI-Powered Browser Extension 🌱](https://dev.to/ayesha_imr/shift-ai-powered-browser-extension-425f)
-- [Test Automation Frameworks and Their Types](https://dev.to/misterankit/test-automation-frameworks-and-their-types-34ad)
+- [Let&#39;s Talk About Power Platform Previews](https://dev.to/wyattdave/lets-talk-about-power-platform-previews-58ne)
+- [#133 — Row-to-Column Conversion for Fixed Columns](https://dev.to/judith677/133-row-to-column-conversion-for-fixed-columns-be1)
+- [𝐅𝐢𝐧𝐞 𝐯𝐬 𝐂𝐥𝐚𝐮𝐝𝐞 &amp; 𝐂𝐡𝐚𝐭𝐆𝐏𝐓 - 𝐖𝐡𝐚𝐭&#39;𝐬 𝐭𝐡𝐞 𝐝𝐢𝐟𝐟𝐞𝐫𝐞𝐧𝐜𝐞 ❔](https://dev.to/thisisfinedev/--1638)
+- [GraphQL vs REST API: Key Differences and Best Use Cases | Mbloging](https://dev.to/muhayminbinmehmood/graphql-vs-rest-api-key-differences-and-best-use-cases-mbloging-3nmm)
+- [Understanding the Vue 3 Composition API](https://dev.to/jacobandrewsky/understanding-the-vue-3-composition-api-fa2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
