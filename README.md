@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Comprehensive Guide to 50+ Kubernetes Resources](https://dev.to/theyasirr/comprehensive-guide-to-50-kubernetes-resources-34k)
-- [Декоратори](https://dev.to/gr555/diekoratori-1jlc)
-- [Comprehensive Guide to Security Automation in Software Development](https://dev.to/mikesays/comprehensive-guide-to-security-automation-in-software-development-106f)
-- [Postmortem of my First Game Engine Project](https://dev.to/romanstanuch/postmortem-of-my-first-game-engine-project-36eh)
-- [Mindset of a Senior Engineer](https://dev.to/landb/mindset-of-a-senior-engineer-3n6i)
+- [Building a Board Game with React: Lessons Learned](https://dev.to/rasyidf/building-a-board-game-with-react-lessons-learned-3ajh)
+- [Goose Retro’ing and Debugging 2024](https://dev.to/sergo/goose-retroing-and-debugging-2024-2jk1)
+- [UX Writing Challenge Day 15: Mastering Microcopy for Better User Engagement](https://dev.to/jds64/ux-writing-challenge-day-15-mastering-microcopy-for-better-user-engagement-1omj)
+- [Implementation of jaxb-api has not been found on module path or classpath. Error Solution](https://dev.to/mehmetakar/implementation-of-jaxb-api-has-not-been-found-on-module-path-or-classpath-4mmh)
+- [Ensuring Mobile Application Quality Through Automated Testing](https://dev.to/mikesays/ensuring-mobile-application-quality-through-automated-testing-4579)
 <!-- BLOG-POST-LIST:END -->
 
 ---
