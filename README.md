@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Frontend Developer’s Guide to the Essentials](https://dev.to/golsaesk/a-frontend-developers-guide-to-the-essentials-11j7)
-- [[Boost]](https://dev.to/leamsigc/-49bm)
-- [After Effects: The Modulo Operator &lpar;%&rpar;](https://dev.to/kocreative/after-effects-using-the-modulo-operator-in-motion-graphics-expressions-to-make-digital-and-45lj)
-- [Integración de Salesforce, Node.js y React: Una Guía Paso a Paso](https://dev.to/javiernicolasadan/integracion-de-salesforce-nodejs-y-react-una-guia-paso-a-paso-nl7)
-- [Web3 and the Future of the Internet](https://dev.to/knewton25/web3-and-the-future-of-the-internet-50an)
+- [10 VSCode Hidden Powers You’ll Wish You Knew Earlier!](https://dev.to/arpitstack/10-vscode-hidden-powers-youll-wish-you-knew-earlier-7ln)
+- [Sum of variable length subarray](https://dev.to/prashantrmishra/sum-of-variable-length-subarray-3ak5)
+- [How to build a Grocery Delivery App](https://dev.to/laura_thomas/how-to-build-a-grocery-delivery-app-36an)
+- [SkillSphere: Your All-in-One Lifestyle Platform 🌟](https://dev.to/auramuch/skillsphere-your-all-in-one-lifestyle-platform-78d)
+- [FlutterFlow: Pros and Cons of using the framework](https://dev.to/codeparrot/flutterflow-pros-and-cons-of-using-the-framework-4epi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
