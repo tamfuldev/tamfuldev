@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Secret to Unstoppable Motivation: Vision vs Anti-Vision Explained](https://dev.to/tyagi_data_wizard/the-secret-to-unstoppable-motivation-vision-vs-anti-vision-explained-1cld)
-- [Lessons Learned #4: One error message could expose all your data &lpar;FileSender CVE-2024–45186&rpar;](https://dev.to/mohamed_aboelkheir/lessons-learned-4-one-error-message-could-expose-all-your-data-filesender-cve-2024-45186-11pf)
-- [10-Minute Grocery Delivery App: Challenges, Tech Stack, and Key Decisions](https://dev.to/divyanshulohani/10-minute-grocery-delivery-app-challenges-tech-stack-and-key-decisions-3ch1)
-- [Explaination on array and arrays method](https://dev.to/abdulsemiu_wasilat_711255/explaination-on-array-and-arrays-method-58ng)
-- [Gemini is so good, I have let it control/use my phone](https://dev.to/mkagenius/gemini-is-so-good-i-have-let-it-controluse-my-phone-4mf6)
+- [terraProof: The Secret Weapon Every DevOps Engineer Needs](https://dev.to/aws-builders/terraproof-the-secret-weapon-every-devops-engineer-needs-fa1)
+- [Experiment with Chainlit AI interface with RAG on Upsun](https://dev.to/gmoigneu/experiment-with-chainlit-ai-interface-with-rag-on-upsun-4cdj)
+- [Stateless loading in React](https://dev.to/ijal/stateless-loading-in-react-29dj)
+- [Deepseek R1](https://dev.to/avanichols_dev/deepseek-r1-4i9h)
+- [Cara Aman Mengakses Data pada Object](https://dev.to/hadihammurabi/cara-aman-mengakses-data-pada-object-1bkb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
