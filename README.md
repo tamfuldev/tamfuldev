@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [LLM Agents in E-Commerce are Transforming Digital Retail](https://dev.to/malikhandev/llm-agents-in-e-commerce-are-transforming-digital-retail-4ggj)
-- [The Growth Paradox](https://dev.to/thiagoandf/the-growth-paradox-5h5h)
-- [Déverrouiller l&#39;engagement : Comment des avantages innovants pour les employés redéfinissent le lieu de travail en 2023](https://dev.to/vdaubry/deverrouiller-lengagement-comment-des-avantages-innovants-pour-les-employes-redefinissent-le-2o9j)
-- [Twilio API on Zapier &lpar;Error: Invalid Phone Number&rpar;](https://dev.to/amna_abbas_ed7e1b47cfcbfc/twilio-api-on-zapier-error-invalid-phone-number-1mkh)
-- [Launching Executables and Switching Focus in Delphi](https://dev.to/seanmdrew/launching-executables-and-switching-focus-in-delphi-5aef)
+- [Automating Python Code Linting with GitHub Actions](https://dev.to/namanvashistha/automating-python-code-linting-with-github-actions-1p6f)
+- [Basic SQL Operations &lpar;CRUD&rpar;](https://dev.to/arjun98k/basic-sql-operations-crud-ofg)
+- [Playwright Mobile Testing: A Comprehensive Guide](https://dev.to/mikesays/playwright-mobile-testing-a-comprehensive-guide-2enm)
+- [Capitalizing Words in PostgreSQL: Handling Hyphenated Words and More](https://dev.to/subrata71/capitalizing-words-in-postgresql-handling-hyphenated-words-and-more-1l63)
+- [Striking the Right Balance: The Perils of Over-Engineering and Under-Designing](https://dev.to/mariliatirachi62/striking-the-right-balance-the-perils-of-over-engineering-and-under-designing-27h4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
