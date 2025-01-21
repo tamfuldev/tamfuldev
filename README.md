@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Design Patterns #1: Strategy – A Different Perspective.](https://dev.to/serhii_korol_ab7776c50dba/design-patterns-1-strategy-a-different-perspective-1a98)
-- [Web App Development Simplified: How to Choose the Right Type for Your Business?](https://dev.to/flatlogic/web-app-development-simplified-how-to-choose-the-right-type-for-your-business-2k22)
-- [How to create react project with version 18 and with CRA, As now React 19 is the default version](https://dev.to/rupesh_bhoir_2a88b10744ca/how-to-create-react-project-with-version-18-and-with-cra-as-now-react-19-is-the-default-version-2jak)
-- [The Average Developer is a Multitasker: A Case for Agents](https://dev.to/blackgirlbytes/the-average-developer-is-a-multitasker-a-case-for-agents-832)
-- [𝐓𝐡𝐞 𝐭𝐚𝐬𝐤𝐬 𝐭𝐡𝐚𝐭 𝐮𝐬𝐞𝐝 𝐭𝐨 𝐚𝐝𝐝 𝐮𝐩 𝐭𝐨 80% 𝐨𝐟 𝐨𝐮𝐫 𝐭𝐢𝐦𝐞 𝐚𝐭 𝐦𝐲 𝐩𝐫𝐞𝐯𝐢𝐨𝐮𝐬 𝐬𝐭𝐚𝐫𝐭𝐮𝐩, 𝐧𝐨𝐰 𝐭𝐚𝐤𝐞 20% - 𝐛𝐞𝐜𝐚𝐮𝐬𝐞 𝐨𝐟 𝐭𝐡𝐞 𝐰𝐚𝐲 𝐰𝐞&#39;𝐫𝐞 𝐮𝐬𝐢𝐧𝐠 𝐀𝐈.](https://dev.to/dror_wayne_fine/80-20--45cm)
+- [Organizing Playwright Tests Effectively](https://dev.to/debs_obrien/organizing-playwright-tests-effectively-2hi0)
+- [The Tech Stack for Building AI Apps in 2025](https://dev.to/copilotkit/the-tech-stack-for-building-ai-apps-in-2025-12l9)
+- [Takeaways from the DeepSeek-R1 model](https://dev.to/aws/takeaways-from-the-deepseek-r1-model-2dli)
+- [Lean app monitoring—The Starter Pack](https://dev.to/stebunovd/lean-app-monitoring-the-starter-pack-283e)
+- [JavaScript Basics: Your First Step Into Web Development](https://dev.to/majeedatwahab/javascript-basics-your-first-step-into-web-development-5l2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
