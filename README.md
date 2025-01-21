@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Dynamic Carousel Component with Shadcn UI, ViteJS, TailwindCSS, and ReactJS &lpar;with TypeScript&rpar;](https://dev.to/remy349/building-a-dynamic-carousel-component-with-shadcn-ui-vitejs-tailwindcss-and-reactjs-with-4b80)
-- [Deploying Your Angular v19 Site to Vercel](https://dev.to/nhannguyendevjs/deploying-your-angular-v19-site-to-vercel-1e20)
-- [C language from 0](https://dev.to/sbre/c-language-from-0-1k37)
-- [Test Automation: Revolutionizing Software Quality Assurance](https://dev.to/radha_4c842d8e4362a7cdd9c/test-automation-revolutionizing-software-quality-assurance-8ik)
-- [📰 Planet WGS-804HPT Industrial Switch flaws could be chained to achieve remote code execution](https://dev.to/d_thiranjaya_6d3ec4552111/planet-wgs-804hpt-industrial-switch-flaws-could-be-chained-to-achieve-remote-code-execution-1f7m)
+- [Working remotely effectively](https://dev.to/sinaptia_dev/working-remotely-effectively-a9f)
+- [FiveCrop in PyTorch](https://dev.to/hyperkai/fivecrop-in-pytorch-3ba2)
+- [Shift-Left Testing: Transforming Software Quality Through Early and Continuous Testing](https://dev.to/arun_pal_3ce740a137cf15ad/shift-left-testing-transforming-software-quality-through-early-and-continuous-testing-3mnm)
+- [Understanding Vite’s File Structure: Why index.html Belongs at the Root](https://dev.to/codedir/understanding-vites-file-structure-why-indexhtml-belongs-at-the-root-5a0h)
+- [The Role of AI in Automating Software Deployment: Revolutionizing DevOps and Efficiency](https://dev.to/adityabhuyan/the-role-of-ai-in-automating-software-deployment-revolutionizing-devops-and-efficiency-5d9j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
