@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Driven Testing: Revolutionizing the Future of Software Quality Assurance](https://dev.to/anil_csimplifyit_905c/ai-driven-testing-revolutionizing-the-future-of-software-quality-assurance-18p7)
-- [Getting Started With Terraform! Deploying an AWS EC2 Instance](https://dev.to/johnogbonna/getting-started-with-terraform-deploying-an-aws-ec2-instance-51hg)
-- [🚀 Dica de Ouro para 2025: Seu Currículo é Seu Cartão de Visita!](https://dev.to/robsonamendonca/dica-de-ouro-para-2025-seu-curriculo-e-seu-cartao-de-visita-p78)
-- [Nest.Js best practice](https://dev.to/bsachref/nestjs-best-practice-85)
-- [&quot;Revolutionizing Education: How AI-Powered Agents Enhance Learning Efficiency&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-education-how-ai-powered-agents-enhance-learning-efficiency-1nme)
+- [Building a Dynamic Carousel Component with Shadcn UI, ViteJS, TailwindCSS, and ReactJS &lpar;with TypeScript&rpar;](https://dev.to/remy349/building-a-dynamic-carousel-component-with-shadcn-ui-vitejs-tailwindcss-and-reactjs-with-4b80)
+- [Deploying Your Angular v19 Site to Vercel](https://dev.to/nhannguyendevjs/deploying-your-angular-v19-site-to-vercel-1e20)
+- [C language from 0](https://dev.to/sbre/c-language-from-0-1k37)
+- [Test Automation: Revolutionizing Software Quality Assurance](https://dev.to/radha_4c842d8e4362a7cdd9c/test-automation-revolutionizing-software-quality-assurance-8ik)
+- [📰 Planet WGS-804HPT Industrial Switch flaws could be chained to achieve remote code execution](https://dev.to/d_thiranjaya_6d3ec4552111/planet-wgs-804hpt-industrial-switch-flaws-could-be-chained-to-achieve-remote-code-execution-1f7m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
