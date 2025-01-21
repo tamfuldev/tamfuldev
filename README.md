@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Board Game with React: Lessons Learned](https://dev.to/rasyidf/building-a-board-game-with-react-lessons-learned-3ajh)
-- [Goose Retro’ing and Debugging 2024](https://dev.to/sergo/goose-retroing-and-debugging-2024-2jk1)
-- [UX Writing Challenge Day 15: Mastering Microcopy for Better User Engagement](https://dev.to/jds64/ux-writing-challenge-day-15-mastering-microcopy-for-better-user-engagement-1omj)
-- [Implementation of jaxb-api has not been found on module path or classpath. Error Solution](https://dev.to/mehmetakar/implementation-of-jaxb-api-has-not-been-found-on-module-path-or-classpath-4mmh)
-- [Ensuring Mobile Application Quality Through Automated Testing](https://dev.to/mikesays/ensuring-mobile-application-quality-through-automated-testing-4579)
+- [AI-Driven Testing: Revolutionizing the Future of Software Quality Assurance](https://dev.to/anil_csimplifyit_905c/ai-driven-testing-revolutionizing-the-future-of-software-quality-assurance-18p7)
+- [Getting Started With Terraform! Deploying an AWS EC2 Instance](https://dev.to/johnogbonna/getting-started-with-terraform-deploying-an-aws-ec2-instance-51hg)
+- [🚀 Dica de Ouro para 2025: Seu Currículo é Seu Cartão de Visita!](https://dev.to/robsonamendonca/dica-de-ouro-para-2025-seu-curriculo-e-seu-cartao-de-visita-p78)
+- [Nest.Js best practice](https://dev.to/bsachref/nestjs-best-practice-85)
+- [&quot;Revolutionizing Education: How AI-Powered Agents Enhance Learning Efficiency&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-education-how-ai-powered-agents-enhance-learning-efficiency-1nme)
 <!-- BLOG-POST-LIST:END -->
 
 ---
