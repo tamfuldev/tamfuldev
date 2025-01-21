@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to create a website on your own for free. A detailed guide for beginners](https://dev.to/ispmanager/how-to-create-a-website-on-your-own-for-free-a-detailed-guide-for-beginners-454n)
-- [🎯VS Code Editor Shortcuts So Good, They’ll Make Your Mouse Jealous 🖱️💔](https://dev.to/sudo_091/vs-code-editor-shortcuts-so-good-theyll-make-your-mouse-jealous-42c5)
-- [Mastering Multi-Screen Presentations: A Technical Guide for Modern Event Professionals](https://dev.to/anju_sainircon_1677aa2/mastering-multi-screen-presentations-a-technical-guide-for-modern-event-professionals-1ajo)
-- [Cultiver des amitiés au travail : La clé pour améliorer le bien-être et l&#39;engagement des employés](https://dev.to/vdaubry/cultiver-des-amities-au-travail-la-cle-pour-ameliorer-le-bien-etre-et-lengagement-des-employes-5c32)
-- [How to Test SSE Protocol Endpoints?](https://dev.to/theodoresummer/how-to-test-sse-protocol-endpoints-3a6d)
+- [My Journey into Full-Stack Development: A Beginner&#39;s Perspective](https://dev.to/benjaminmweribaya/my-journey-into-full-stack-development-a-beginners-perspective-48oh)
+- [AceHack 4.0: March 2025’s Most Anticipated Tech Event](https://dev.to/acehack/acehack-40-march-2025s-most-anticipated-tech-event-1ml)
+- [How a dev.to Challenge helped me launch my first SaaS](https://dev.to/gabrielsenadev/how-a-devto-challenge-helped-me-launch-my-first-saas-55lc)
+- [3 Node.js Features You Didn’t Know About](https://dev.to/pmbanugo/3-nodejs-features-you-didnt-know-about-1mo2)
+- [Portfolio Project - Python Terminal Game](https://dev.to/roy_saunderson_56de011ad5/portfolio-project-python-terminal-game-b1c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
