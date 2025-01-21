@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Troubleshoot a Failed Re-creation of Google Cloud Certificate Manager Resources with Terraform](https://dev.to/nomi3/how-to-troubleshoot-a-failed-re-creation-of-google-cloud-certificate-manager-resources-with-fok)
-- [Surprising side effect of running EKS Auto Mode](https://dev.to/vijaykodam/surprising-side-effect-of-running-eks-auto-mode-3oj8)
-- [useMemo in ReactJs](https://dev.to/sajakshrestha8/usememo-in-reactjs-449)
-- [7 MIND-BLOWING Hugging Face AI Projects That Will CHANGE Your Life 🚀](https://dev.to/awaisz99/7-mind-blowing-hugging-face-ai-projects-that-will-change-your-life-nm5)
-- [Why I Love: git reset --hard](https://dev.to/namanvashistha/why-i-love-git-reset-hard-49np)
+- [Resize in PyTorch](https://dev.to/hyperkai/resize-in-pytorch-55kb)
+- [How to Use cURL With Proxy](https://dev.to/crawlbase/how-to-use-curl-with-proxy-21ie)
+- [How I Built a Serverless Web App Using AWS in 24 Hours](https://dev.to/patelrahul/how-i-built-a-serverless-web-app-using-aws-in-24-hours-4047)
+- [Principles of Agile and Scrum in DevOps](https://dev.to/574n13y/principles-of-agile-and-scrum-in-devops-3l9h)
+- [The Go Back On Time](https://dev.to/ngouend_gerard_90/the-go-back-on-time-4k26)
 <!-- BLOG-POST-LIST:END -->
 
 ---
