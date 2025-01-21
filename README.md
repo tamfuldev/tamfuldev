@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Resize in PyTorch](https://dev.to/hyperkai/resize-in-pytorch-55kb)
-- [How to Use cURL With Proxy](https://dev.to/crawlbase/how-to-use-curl-with-proxy-21ie)
-- [How I Built a Serverless Web App Using AWS in 24 Hours](https://dev.to/patelrahul/how-i-built-a-serverless-web-app-using-aws-in-24-hours-4047)
-- [Principles of Agile and Scrum in DevOps](https://dev.to/574n13y/principles-of-agile-and-scrum-in-devops-3l9h)
-- [The Go Back On Time](https://dev.to/ngouend_gerard_90/the-go-back-on-time-4k26)
+- [LLM Agents in E-Commerce are Transforming Digital Retail](https://dev.to/malikhandev/llm-agents-in-e-commerce-are-transforming-digital-retail-4ggj)
+- [The Growth Paradox](https://dev.to/thiagoandf/the-growth-paradox-5h5h)
+- [Déverrouiller l&#39;engagement : Comment des avantages innovants pour les employés redéfinissent le lieu de travail en 2023](https://dev.to/vdaubry/deverrouiller-lengagement-comment-des-avantages-innovants-pour-les-employes-redefinissent-le-2o9j)
+- [Twilio API on Zapier &lpar;Error: Invalid Phone Number&rpar;](https://dev.to/amna_abbas_ed7e1b47cfcbfc/twilio-api-on-zapier-error-invalid-phone-number-1mkh)
+- [Launching Executables and Switching Focus in Delphi](https://dev.to/seanmdrew/launching-executables-and-switching-focus-in-delphi-5aef)
 <!-- BLOG-POST-LIST:END -->
 
 ---
