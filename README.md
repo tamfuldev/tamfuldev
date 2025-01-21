@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Lo mejor de la comunidad son las personas](https://dev.to/barbara_gaspar/lo-mejor-de-la-comunidad-son-las-personas-2101)
-- [Human Factors in Software Production Part 1](https://dev.to/ourai/human-factors-in-software-production-part-1-59kf)
-- [Server Actions in React with Next.js: A Beginner&#39;s Guide](https://dev.to/ivmarcos/server-actions-in-react-with-nextjs-a-beginners-guide-4j12)
-- [C++12 code&lpar;nested if --&gt;Max number &rpar;](https://dev.to/md-salah/c12-codenested-if-max-number--4d73)
-- [UI Design Trends In 2025](https://dev.to/souptikdn/ui-design-trends-in-2025-252g)
+- [How Programming Will Look In the Future?](https://dev.to/emil14/how-programming-will-look-in-the-future-5bj4)
+- [Agent AI as you personal gym trainer](https://dev.to/binarygarage/agent-ai-as-you-personal-gym-trainer-23n9)
+- [Azure Bicep parameters](https://dev.to/omiossec/azure-bicep-parameters-mc6)
+- [Reviving An Outdated Project](https://dev.to/udayr/reviving-an-outdated-project-3eij)
+- [Getting Oneself around Hardware Skills](https://dev.to/ngouend_gerard_90/getting-oneself-around-hardware-skills-1l48)
 <!-- BLOG-POST-LIST:END -->
 
 ---
