@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Programming Will Look In the Future?](https://dev.to/emil14/how-programming-will-look-in-the-future-5bj4)
-- [Agent AI as you personal gym trainer](https://dev.to/binarygarage/agent-ai-as-you-personal-gym-trainer-23n9)
-- [Azure Bicep parameters](https://dev.to/omiossec/azure-bicep-parameters-mc6)
-- [Reviving An Outdated Project](https://dev.to/udayr/reviving-an-outdated-project-3eij)
-- [Getting Oneself around Hardware Skills](https://dev.to/ngouend_gerard_90/getting-oneself-around-hardware-skills-1l48)
+- [Read and Earn crypto tokens, Built in 1 Day with GitHub Copilot!](https://dev.to/block_experts_766a3a21915637/read-and-earn-crypto-tokens-built-in-1-day-with-github-copilot-4ha9)
+- [Building a Modern Web App: FastAPI + React TypeScript Template](https://dev.to/yagnesh97/building-a-modern-web-app-fastapi-react-typescript-template-5d88)
+- [Big O notation](https://dev.to/freshta_1_45571040cd88708/big-o-notation-2pop)
+- [Sharing data between ViewModels in Compose](https://dev.to/mardsoul/sharing-data-between-viewmodels-in-compose-15dd)
+- [Gurubase - AI-Powered Q&amp;A Assistants for Any Topic](https://dev.to/fatihbaltaci/gurubase-ai-powered-qa-assistants-for-any-topic-4g1l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
