@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Unlocking Code Efficiency: How Treefix Revolutionizes Software Development&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-code-efficiency-how-treefix-revolutionizes-software-development-4hb3)
-- [What to Expect at Your First Hackathon in 2025: A Beginner’s Guide to Success](https://dev.to/vaunt/what-to-expect-at-your-first-hackathon-in-2025-a-beginners-guide-to-success-59jc)
-- [From Junior to Senior Developer: 4 Essential System Design Patterns 📈](https://dev.to/adrianartiles/from-junior-to-senior-developer-4-essential-system-design-patterns-5g60)
-- [Prime Number Generation Algorithm in Ruby](https://dev.to/daviducolo/prime-number-generation-algorithm-in-ruby-2d4e)
-- [A few month old, but still very up 2 date!](https://dev.to/per-starke-642/a-few-month-old-but-still-very-up-2-date-40jk)
+- [Microsoft Entra ID Governance: Securing Digital Identities](https://dev.to/aragorn_talks/microsoft-entra-id-governance-securing-digital-identities-bel)
+- [Top 30 most asked Advanced Java Questions in Interviews.](https://dev.to/piyush_kumarsingh/top-30-most-asked-advanced-java-questions-in-interviews-48pp)
+- [7 Common Mistakes to Avoid While Learning to Code](https://dev.to/tarunfulera1/7-common-mistakes-to-avoid-while-learning-to-code-267b)
+- [An Intro To Generative AI Applications with Amazon Bedrock](https://dev.to/asankab/an-intro-to-generative-ai-applications-with-amazon-bedrock-41el)
+- [Road to fitness](https://dev.to/omar_mohamed_4e1d783a0048/road-to-fitness-49a8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
