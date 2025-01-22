@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Read and Earn crypto tokens, Built in 1 Day with GitHub Copilot!](https://dev.to/block_experts_766a3a21915637/read-and-earn-crypto-tokens-built-in-1-day-with-github-copilot-4ha9)
-- [Building a Modern Web App: FastAPI + React TypeScript Template](https://dev.to/yagnesh97/building-a-modern-web-app-fastapi-react-typescript-template-5d88)
-- [Big O notation](https://dev.to/freshta_1_45571040cd88708/big-o-notation-2pop)
-- [Sharing data between ViewModels in Compose](https://dev.to/mardsoul/sharing-data-between-viewmodels-in-compose-15dd)
-- [Gurubase - AI-Powered Q&amp;A Assistants for Any Topic](https://dev.to/fatihbaltaci/gurubase-ai-powered-qa-assistants-for-any-topic-4g1l)
+- [Webzite conversion &amp; traffic Improver](https://dev.to/ayabongaqwabi/webzite-conversion-traffic-improver-716)
+- [How to create an AI agent powered by your screen &amp; mic](https://dev.to/louis030195/how-to-create-an-ai-agent-powered-by-your-screen-mic-5g9b)
+- [A Comprehensive Guide to useRouter&lpar;&rpar; in Next.js 15](https://dev.to/joodi/a-comprehensive-guide-to-userouter-in-nextjs-15-59bg)
+- [Is HTML/CSS worth it?](https://dev.to/jekoja/is-htmlcss-worth-it-2l48)
+- [The Test Drama &lpar;The Opening Salvo&rpar;: Cypress vs Playwright Installation - The Good, The Bad, and the... Bug-ly!](https://dev.to/sebastianclavijo/the-test-drama-the-opening-salvo-cypress-vs-playwright-installation-the-good-the-bad-and-4hm6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
