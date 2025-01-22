@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Angular, NgRx] Tối Ưu Hiệu Năng: Phân Tách và Quản Lý State Hiệu Quả Trong Ứng Dụng](https://dev.to/quocld/angular-ngrx-toi-uu-hieu-nang-phan-tach-va-quan-ly-state-hieu-qua-trong-ung-dung-3je0)
-- [My 2025 Roadmap to Growth, Grit, and Greatness](https://dev.to/aniruddhadak/my-2025-roadmap-to-growth-grit-and-greatness-350h)
-- [#135 — Convert Crosstab to Row-Based Table](https://dev.to/judith677/135-convert-crosstab-to-row-based-table-2lki)
-- [How to Make API Documentation Easily: Guide &amp; 6 Tips for Beginners 🔥](https://dev.to/fallon_jimmy/how-to-make-api-documentation-easily-guide-6-tips-for-beginners-3agi)
-- [Using DolphinScheduler API to Achieve Efficient Batch Workflow Import and Script Deployment](https://dev.to/chen_debra_3060b21d12b1b0/using-dolphinscheduler-api-to-achieve-efficient-batch-workflow-import-and-script-deployment-3m4e)
+- [How to Turn Off Glance: A Complete Guide to Managing Your Android Lock Screen Experience](https://dev.to/adambrooks1231/how-to-turn-off-glance-a-complete-guide-to-managing-your-android-lock-screen-experience-51ih)
+- [We build HMPL to help developers make web apps smaller in size🔥](https://dev.to/anthonymax/we-build-hmpl-to-help-developers-make-web-apps-smaller-in-size-5f8k)
+- [Programming Is Easy… Until It’s Not: The Truth About the programming Mindset](https://dev.to/web_dev-usman/programming-is-easy-until-its-not-the-truth-about-the-programming-mindset-3d5j)
+- [Add SSH key in GitLab account](https://dev.to/nitinkumar30/add-ssh-key-in-gitlab-account-45j9)
+- [Bring Your Designs to Life: Mastering SVG Animations with CSS and JavaScript](https://dev.to/okoye_ndidiamaka_5e3b7d30/bring-your-designs-to-life-mastering-svg-animations-with-css-and-javascript-mgi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
