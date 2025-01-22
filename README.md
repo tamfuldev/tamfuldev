@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Webzite conversion &amp; traffic Improver](https://dev.to/ayabongaqwabi/webzite-conversion-traffic-improver-716)
-- [How to create an AI agent powered by your screen &amp; mic](https://dev.to/louis030195/how-to-create-an-ai-agent-powered-by-your-screen-mic-5g9b)
-- [A Comprehensive Guide to useRouter&lpar;&rpar; in Next.js 15](https://dev.to/joodi/a-comprehensive-guide-to-userouter-in-nextjs-15-59bg)
-- [Is HTML/CSS worth it?](https://dev.to/jekoja/is-htmlcss-worth-it-2l48)
-- [The Test Drama &lpar;The Opening Salvo&rpar;: Cypress vs Playwright Installation - The Good, The Bad, and the... Bug-ly!](https://dev.to/sebastianclavijo/the-test-drama-the-opening-salvo-cypress-vs-playwright-installation-the-good-the-bad-and-4hm6)
+- [Day 2 - Datatypes, Variables,Operators, Conditional Statements,Looping in Javascript](https://dev.to/lakshmipritha/day-2-datatypes-variablesoperators-conditional-statementslooping-in-javascript-3l45)
+- [How Prevalent is REACT to Today’s Web Developer?](https://dev.to/bkthemes/how-prevalent-is-react-to-todays-web-developer-374b)
+- [$500 billion into Stargate](https://dev.to/peter/500-billion-into-stargate-1d1n)
+- [Wowza Streaming Engine 4 2025](https://dev.to/basharat_deevaan_abfca4ca/wowza-streaming-engine-4-2025-2h3f)
+- [Blockchain Testing: Ensuring Trust and Reliability in Decentralized Systems](https://dev.to/radha_4c842d8e4362a7cdd9c/blockchain-testing-ensuring-trust-and-reliability-in-decentralized-systems-4pmb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
