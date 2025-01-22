@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Turn Off Glance: A Complete Guide to Managing Your Android Lock Screen Experience](https://dev.to/adambrooks1231/how-to-turn-off-glance-a-complete-guide-to-managing-your-android-lock-screen-experience-51ih)
-- [We build HMPL to help developers make web apps smaller in size🔥](https://dev.to/anthonymax/we-build-hmpl-to-help-developers-make-web-apps-smaller-in-size-5f8k)
-- [Programming Is Easy… Until It’s Not: The Truth About the programming Mindset](https://dev.to/web_dev-usman/programming-is-easy-until-its-not-the-truth-about-the-programming-mindset-3d5j)
-- [Add SSH key in GitLab account](https://dev.to/nitinkumar30/add-ssh-key-in-gitlab-account-45j9)
-- [Bring Your Designs to Life: Mastering SVG Animations with CSS and JavaScript](https://dev.to/okoye_ndidiamaka_5e3b7d30/bring-your-designs-to-life-mastering-svg-animations-with-css-and-javascript-mgi)
+- [React Native 0.77 Just Landed: Styling Superpowers &amp; More!](https://dev.to/mitchiemt11/react-native-077-just-landed-styling-superpowers-more-3350)
+- [Explore Free APIs for Your Projects](https://dev.to/divyeshvekariya/explore-free-apis-for-your-projects-424p)
+- [Docs-as-code in action: Documenting a Python library.](https://dev.to/emiloju/docs-as-code-in-action-documenting-a-python-library-4pbe)
+- [Master Redis: 100 Questions to Ace Your Senior-Level Interview](https://dev.to/abhay_yt_52a8e72b213be229/master-redis-100-questions-to-ace-your-senior-level-interview-2iod)
+- [AI CERTs™ Certification Path: What You’ll Learn and How It Benefits Your Career](https://dev.to/skillboosttrainer/ai-certs-certification-path-what-youll-learn-and-how-it-benefits-your-career-2n39)
 <!-- BLOG-POST-LIST:END -->
 
 ---
