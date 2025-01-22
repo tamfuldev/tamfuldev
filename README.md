@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 2 - Datatypes, Variables,Operators, Conditional Statements,Looping in Javascript](https://dev.to/lakshmipritha/day-2-datatypes-variablesoperators-conditional-statementslooping-in-javascript-3l45)
-- [How Prevalent is REACT to Today’s Web Developer?](https://dev.to/bkthemes/how-prevalent-is-react-to-todays-web-developer-374b)
-- [$500 billion into Stargate](https://dev.to/peter/500-billion-into-stargate-1d1n)
-- [Wowza Streaming Engine 4 2025](https://dev.to/basharat_deevaan_abfca4ca/wowza-streaming-engine-4-2025-2h3f)
-- [Blockchain Testing: Ensuring Trust and Reliability in Decentralized Systems](https://dev.to/radha_4c842d8e4362a7cdd9c/blockchain-testing-ensuring-trust-and-reliability-in-decentralized-systems-4pmb)
+- [Container queries in css](https://dev.to/jsha/container-queries-in-css-1221)
+- [Upgrading Ruby on Rails applications](https://dev.to/sinaptia_dev/upgrading-ruby-on-rails-applications-46nm)
+- [Security Testing: Safeguarding the Digital Frontier](https://dev.to/arun_pal_3ce740a137cf15ad/security-testing-safeguarding-the-digital-frontier-87c)
+- [Guys, you have got to know these tech stacks if you want to be a developer standing out!](https://dev.to/apilover/guys-you-have-got-to-know-these-tech-stacks-if-you-want-to-be-a-developer-standing-out-2pdn)
+- [This New JavaScript Operator is an Absolute Game Changer](https://dev.to/sovannaro/this-new-javascript-operator-is-an-absolute-game-changer-2fp6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
