@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Install pgvector on Windows](https://dev.to/mehmetakar/install-pgvector-on-windows-6gl)
-- [50+ Remote Job Websites You Need to Know About 🌍💼](https://dev.to/elliot_brenya/50-remote-job-websites-you-need-to-know-about-g34)
-- [Why Are Many Brands Migrating from Magento Enterprise &lpar;Adobe Commerce&rpar; to Shopify?](https://dev.to/deploi-dev/why-are-many-brands-migrating-from-magento-enterprise-adobe-commerce-to-shopify-3j6l)
-- [Unruggable AI Agents with ZKML](https://dev.to/filosofiacodigoen/unruggable-ai-agents-with-zkml-4hf7)
-- [Rainmaker - Sales Pre-call Planner](https://dev.to/ali_birouti_8c9a31c6dd444/rainmaker-sales-pre-call-planner-3oni)
+- [JSON-Server for Next.js 15: Everything You Need to Know](https://dev.to/joodi/json-server-for-nextjs-15-everything-you-need-to-know-4m6m)
+- [Regular this, Arrow this &lpar;Tersely bulleted&rpar;](https://dev.to/rinidh/regular-this-arrow-this-tersely-bulleted-1fo5)
+- [Most Introductory React Blog Ever](https://dev.to/ritvikdubey27/most-introductory-react-blog-ever-5ei9)
+- [How to Create and Publish a Python Package on PyPI 🐍](https://dev.to/lovestaco/how-to-create-and-publish-a-python-package-on-pypi-4470)
+- [Best way to learn SQL](https://dev.to/burcs/best-way-to-learn-sql-me8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
