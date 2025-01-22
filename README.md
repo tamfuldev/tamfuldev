@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [JSON-Server for Next.js 15: Everything You Need to Know](https://dev.to/joodi/json-server-for-nextjs-15-everything-you-need-to-know-4m6m)
-- [Regular this, Arrow this &lpar;Tersely bulleted&rpar;](https://dev.to/rinidh/regular-this-arrow-this-tersely-bulleted-1fo5)
-- [Most Introductory React Blog Ever](https://dev.to/ritvikdubey27/most-introductory-react-blog-ever-5ei9)
-- [How to Create and Publish a Python Package on PyPI 🐍](https://dev.to/lovestaco/how-to-create-and-publish-a-python-package-on-pypi-4470)
-- [Best way to learn SQL](https://dev.to/burcs/best-way-to-learn-sql-me8)
+- [Gems I use for Rails SaaS apps](https://dev.to/railsdesigner/gems-i-use-for-rails-saas-apps-23hh)
+- [🎖️ War in the Wires : The Silent Battlefield of Cyber Warfare](https://dev.to/kkrypt0nn/war-in-the-wires-the-silent-battlefield-of-cyber-warfare-2984)
+- [My Favorite VSCode Extensions for Modern Development](https://dev.to/heydantz/my-favorite-vscode-extensions-for-modern-development-4hfd)
+- [Kapper, a Fresh Look at ORMs for Kotlin and the JVM](https://dev.to/driessamyn/kapper-a-fresh-look-at-orms-for-kotlin-and-the-jvm-1ln5)
+- [6 Must Know JavaScript Array Methods](https://dev.to/aziz999/6-must-know-javascript-array-methods-1bac)
 <!-- BLOG-POST-LIST:END -->
 
 ---
