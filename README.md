@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Entra ID Governance: Securing Digital Identities](https://dev.to/aragorn_talks/microsoft-entra-id-governance-securing-digital-identities-bel)
-- [Top 30 most asked Advanced Java Questions in Interviews.](https://dev.to/piyush_kumarsingh/top-30-most-asked-advanced-java-questions-in-interviews-48pp)
-- [7 Common Mistakes to Avoid While Learning to Code](https://dev.to/tarunfulera1/7-common-mistakes-to-avoid-while-learning-to-code-267b)
-- [An Intro To Generative AI Applications with Amazon Bedrock](https://dev.to/asankab/an-intro-to-generative-ai-applications-with-amazon-bedrock-41el)
-- [Road to fitness](https://dev.to/omar_mohamed_4e1d783a0048/road-to-fitness-49a8)
+- [JavaScript Arrays: Map](https://dev.to/oculus42/javascript-arrays-map-8nn)
+- [Mastering Delegation in Power Apps Canvas Apps: Overcoming Challenges and Misunderstood Warnings](https://dev.to/suhaassmh/mastering-delegation-in-power-apps-canvas-apps-overcoming-challenges-and-misunderstood-warnings-o03)
+- [Top 30 most asked Java OOP&#39;s Questions in Interviews.](https://dev.to/piyush_kumarsingh/top-30-most-asked-java-oops-questions-in-interviews-1g6g)
+- [Pandas histogram: creating histogram in Python with examples](https://dev.to/mfdupuis/pandas-histogram-creating-histogram-in-python-with-examples-1o4l)
+- [How I plan on scaling my Laravel &lpar;PHP&rpar; application](https://dev.to/vincentbean/how-i-plan-on-scaling-my-laravel-php-application-1n0n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
