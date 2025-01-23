@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Two-Day Razorpay Integration for Seamless Payments 🚀](https://dev.to/lovestaco/two-day-razorpay-integration-for-seamless-payments-1893)
-- [Image Optimizer has edits web app users need for quick image edits, and no code necessary for image responsiveness. I remember the days of creating over hundreds of CSS classes to accommodate every browser and device. This makes everything SO much easier!](https://dev.to/itscocopo/image-optimizer-has-edits-web-app-users-need-for-quick-image-edits-and-no-code-necessary-for-image-43nn)
-- [Full Stack Development](https://dev.to/harishchand0924/full-stack-development-479h)
-- [Exploring OpenAI Operator](https://dev.to/burcs/exploring-openai-operator-your-ai-powered-browser-assistant-3dj2)
-- [Dictionary Tutorial](https://dev.to/poornima_ravi/dictionary-tutorial-54b4)
+- [How to Dockerize FastAPI](https://dev.to/code42cate/how-to-dockerize-fastapi-2a4)
+- [Reusable NestJS Interceptors with a Factory Pattern](https://dev.to/nickcosmo/reusable-nestjs-interceptors-with-a-factory-pattern-11gg)
+- [If your project is built with Astro JS and Tailwind CSS here is a short guide to upgrade to Tailwind CSS v4.](https://dev.to/mike_andreuzza/if-your-project-is-built-with-astro-js-and-tailwind-css-here-is-a-short-guide-to-upgrade-to-2c2j)
+- [Optimizing Data Pipelines in Snowflake: Tips for Efficiency and Performance](https://dev.to/rodolfom-data/optimizing-data-pipelines-in-snowflake-tips-for-efficiency-and-performance-4iap)
+- [&quot;Social Genie&quot; - An AI-Powered Game-Changer for Social Media Management](https://dev.to/sattavatakshat/social-genie-an-ai-powered-game-changer-for-social-media-management-1a6o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
