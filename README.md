@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Customer Success Tools For SaaS Products in 2025](https://dev.to/shayy/top-5-customer-success-tools-for-saas-products-in-2025-en3)
-- [#TIL: Display table and inline are incompatible with container queries](https://dev.to/nonsalant/til-display-table-and-inline-are-incompatible-with-container-queries-48l7)
-- [Overview of RESTful API Development: A Task-Based Journey](https://dev.to/arbythecoder/overview-of-restful-api-development-a-task-based-journey-2822)
-- [Cache: Otimizando Desempenho e Reduzindo Custos na sua aplicação](https://dev.to/reishenrique/cache-otimizando-desempenho-e-reduzindo-custos-na-sua-aplicacao-458o)
-- [A New Principle in Software Testing: Human Control Over AI to Ensure Safety and Reliability](https://dev.to/yehor_romanov_4cf1c7a1c14/a-new-principle-in-software-testing-human-control-over-ai-to-ensure-safety-and-reliability-2pg5)
+- [Bring Your Integration &lpar;BYI&rpar;: Building Connected Ecosystems for Better User Experiences](https://dev.to/omacys/bring-your-integration-byi-building-connected-ecosystems-for-better-user-experiences-5hgj)
+- [Reading configuration like a pro on Spring](https://dev.to/imerik/reading-configuration-like-a-pro-on-spring-fdb)
+- [Adding Vectors Algebraically &amp; Graphically](https://dev.to/bazengdev/adding-vectors-algebraically-graphically-17ap)
+- [Spring Authorization server + spring security with custom user details service for flexible data-driven authentication](https://dev.to/anand_jaisy_2f7644a12001b/spring-authorization-server-spring-security-with-custom-user-details-service-for-flexible-105b)
+- [CCoE - Cloud Center of Excellence](https://dev.to/gurudev_prasadteketi/ccoe-cloud-center-of-excellence-16ca)
 <!-- BLOG-POST-LIST:END -->
 
 ---
