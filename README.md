@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Java Architect Certifications to Boost Your Career in 2025](https://dev.to/markwayne/top-10-java-architect-certifications-to-boost-your-career-in-2025-297n)
-- [Building Resilient Workflows with Persistent Storage](https://dev.to/iamspathan/building-resilient-workflows-with-persistent-storage-5d0p)
-- [Hosting React Application Using S3 and Cloudfront](https://dev.to/_4d9a5312ee790ace25/hosting-react-application-using-s3-and-cloudfront-3nmf)
-- [What are the 10 Principles of Usability Heuristics?](https://dev.to/lollypopdesign/what-are-the-10-principles-of-usability-heuristics-1nb1)
-- [Exploring the Critical Factors for Data Governance in Healthcare Operations | MasTech Infotrellis](https://dev.to/hana_sato/exploring-the-critical-factors-for-data-governance-in-healthcare-operations-mastech-infotrellis-57bb)
+- [7 Free APIs That Nobody Is Talking About](https://dev.to/devsimc/7-free-apis-that-nobody-is-talking-about-cll)
+- [No Keyboard Trap](https://dev.to/sarah_borgesvazcambra_8/no-keyboard-trap-4ha8)
+- [TIL you can apply git fixup automatically with git absorb](https://dev.to/benji011/til-you-can-apply-git-fixup-automatically-with-git-absorb-44hk)
+- [toolbar_value_to_cursormode function in Grida codebase](https://dev.to/ramunarasinga-11/toolbarvaluetocursormode-function-in-grida-codebase-23nc)
+- [Step-by-step guide to configure SSH key-based authorization](https://dev.to/ashishchorge/step-by-step-guide-to-configure-ssh-key-based-authorization-1glj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
