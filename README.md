@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Bring Your Integration &lpar;BYI&rpar;: Building Connected Ecosystems for Better User Experiences](https://dev.to/omacys/bring-your-integration-byi-building-connected-ecosystems-for-better-user-experiences-5hgj)
-- [Reading configuration like a pro on Spring](https://dev.to/imerik/reading-configuration-like-a-pro-on-spring-fdb)
-- [Adding Vectors Algebraically &amp; Graphically](https://dev.to/bazengdev/adding-vectors-algebraically-graphically-17ap)
-- [Spring Authorization server + spring security with custom user details service for flexible data-driven authentication](https://dev.to/anand_jaisy_2f7644a12001b/spring-authorization-server-spring-security-with-custom-user-details-service-for-flexible-105b)
-- [CCoE - Cloud Center of Excellence](https://dev.to/gurudev_prasadteketi/ccoe-cloud-center-of-excellence-16ca)
+- [Amazon MQ: Simplifying Messaging for Modern Applications.](https://dev.to/pradeepa_murugesan_15d27d/amazon-mq-simplifying-messaging-for-modern-applications-ae9)
+- [AMAZON NEPTUNE🪐](https://dev.to/dhanya_ravi/amazon-neptune-2hfk)
+- [25 Git Commands Every Developer Should Know](https://dev.to/sachinkg12/25-git-commands-every-developer-should-know-498f)
+- [PositionUs Controller](https://dev.to/akif_mammadov_340debb5f35/positionus-controller-3h55)
+- [How to Optimize and Scale Your Applications with Amazon ECS](https://dev.to/ranjan_2703/how-to-optimize-and-scale-your-applications-with-amazon-ecs-3k32)
 <!-- BLOG-POST-LIST:END -->
 
 ---
