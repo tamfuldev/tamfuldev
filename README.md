@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Heroku to Dokku: A Rails Dev&#39;s Migration Tale](https://dev.to/sulmanweb/heroku-to-dokku-a-rails-devs-migration-tale-2k5n)
-- [Unveiling Mantle: The Next-Gen Layer-2 Scaling Solution](https://dev.to/syedghufranhassan/unveiling-mantle-the-next-gen-layer-2-scaling-solution-9g2)
-- [Secrets Management Best Practices for Team Collaboration](https://dev.to/meomeo_peo/secrets-management-best-practices-for-team-collaboration-4ml)
-- [The Road Less Travelled: A Journey from Abu Dhabi to Nepal](https://dev.to/thestudentstories/the-road-less-travelled-a-journey-from-abu-dhabi-to-nepal-191n)
-- [🚀 Mastering SEO in React JS: Unlock Your Website’s Full Potential](https://dev.to/dct_technologyprivatelimited/mastering-seo-in-react-js-unlock-your-websites-full-potential-1kje)
+- [101/365 | ¥10M Job Challenge - 2 Things in the World of AI That Will Never Change](https://dev.to/kameken100/101365-y10m-job-challenge-2-things-in-the-world-of-ai-that-will-never-change-1820)
+- [What is LocalStorage and How to Use LocalStorage with Next.js?](https://dev.to/swhabitation/what-is-localstorage-and-how-to-use-localstorage-with-nextjs-4gbd)
+- [What is EC2 in AWS? Everything about EC2 Fundamentals in AWS](https://dev.to/sign_my_code/what-is-ec2-in-aws-everything-about-ec2-fundamentals-in-aws-2hj)
+- [Just Stop Writing Python Functions Like This!](https://dev.to/abhay_yt_52a8e72b213be229/just-stop-writing-python-functions-like-this-27c)
+- [[Boost]](https://dev.to/neurolov_ai_/-jk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
