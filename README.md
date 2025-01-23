@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [20 Days of HTML&lpar;Learn 20 amazing things about HTML&rpar; Part 1](https://dev.to/km-js/20-days-of-htmllearn-20-amazing-things-about-html-part-1-3ji9)
-- [Why Nobody’s Visiting Your Website](https://dev.to/resource_bunk_1077cab07da/why-nobodys-visiting-your-website-4nc3)
-- [My logo](https://dev.to/mouhammad_ndour/my-logo-1ill)
-- [Understanding LLM Concepts: Orchestrators, Evaluators, Validators, and Guardrails](https://dev.to/rodiwa/understanding-llm-concepts-orchestrators-evaluators-validators-and-guardrails-5b6n)
-- [Data and Analytics Modernization: Transforming Insights for the Digital Era](https://dev.to/jessica_williams_8192bc1f/data-and-analytics-modernization-transforming-insights-for-the-digital-era-4h3o)
+- [Two-Day Razorpay Integration for Seamless Payments 🚀](https://dev.to/lovestaco/two-day-razorpay-integration-for-seamless-payments-1893)
+- [Image Optimizer has edits web app users need for quick image edits, and no code necessary for image responsiveness. I remember the days of creating over hundreds of CSS classes to accommodate every browser and device. This makes everything SO much easier!](https://dev.to/itscocopo/image-optimizer-has-edits-web-app-users-need-for-quick-image-edits-and-no-code-necessary-for-image-43nn)
+- [Full Stack Development](https://dev.to/harishchand0924/full-stack-development-479h)
+- [Exploring OpenAI Operator](https://dev.to/burcs/exploring-openai-operator-your-ai-powered-browser-assistant-3dj2)
+- [Dictionary Tutorial](https://dev.to/poornima_ravi/dictionary-tutorial-54b4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
