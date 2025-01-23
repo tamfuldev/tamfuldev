@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon MQ: Simplifying Messaging for Modern Applications.](https://dev.to/pradeepa_murugesan_15d27d/amazon-mq-simplifying-messaging-for-modern-applications-ae9)
-- [AMAZON NEPTUNE🪐](https://dev.to/dhanya_ravi/amazon-neptune-2hfk)
-- [25 Git Commands Every Developer Should Know](https://dev.to/sachinkg12/25-git-commands-every-developer-should-know-498f)
-- [PositionUs Controller](https://dev.to/akif_mammadov_340debb5f35/positionus-controller-3h55)
-- [How to Optimize and Scale Your Applications with Amazon ECS](https://dev.to/ranjan_2703/how-to-optimize-and-scale-your-applications-with-amazon-ecs-3k32)
+- [Mastering Vectors: Practice Questions to Sharpen Your Skills](https://dev.to/bazengdev/mastering-vectors-practice-questions-to-sharpen-your-skills-45pk)
+- [Amazon Rekognition](https://dev.to/naveen_kumar_07c64deeca54/amazon-rekognition-3e4m)
+- [AMAZON APPFLOW](https://dev.to/kamali_s/amazon-appflow-20d4)
+- [AWS SYSTEMS MANAGER](https://dev.to/hema_22/aws-systems-manager-59g5)
+- [AWS CloudTrail](https://dev.to/mohamed_rafil/aws-cloudtrail-4e37)
 <!-- BLOG-POST-LIST:END -->
 
 ---
