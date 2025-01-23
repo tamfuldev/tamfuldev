@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [7 Free APIs That Nobody Is Talking About](https://dev.to/devsimc/7-free-apis-that-nobody-is-talking-about-cll)
-- [No Keyboard Trap](https://dev.to/sarah_borgesvazcambra_8/no-keyboard-trap-4ha8)
-- [TIL you can apply git fixup automatically with git absorb](https://dev.to/benji011/til-you-can-apply-git-fixup-automatically-with-git-absorb-44hk)
-- [toolbar_value_to_cursormode function in Grida codebase](https://dev.to/ramunarasinga-11/toolbarvaluetocursormode-function-in-grida-codebase-23nc)
-- [Step-by-step guide to configure SSH key-based authorization](https://dev.to/ashishchorge/step-by-step-guide-to-configure-ssh-key-based-authorization-1glj)
+- [Why we’re betting on Kubernetes &lpar;and you should too&rpar;](https://dev.to/cyclops-ui/why-were-betting-on-kubernetes-and-you-should-too-365k)
+- [Mastering React: The Complete Web Development Guide](https://dev.to/ideradevtools/mastering-react-the-complete-web-development-guide-378f)
+- [DreamDev Technologies PVT LTD](https://dev.to/dreamdev_947589cd09000835/dreamdev-technologies-pvt-ltd-25l5)
+- [Definition on global scope and local scope](https://dev.to/arikeade123/definition-on-global-scope-and-local-scope-4hbo)
+- [Understanding Kubernetes: A Beginner’s Guide](https://dev.to/hexaseo5/understanding-kubernetes-a-beginners-guide-5g2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
