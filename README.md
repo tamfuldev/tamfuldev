@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Avoiding Cloud Shock: How to Set Up AWS Budgets for Predictable Expenses](https://dev.to/lindiwe09/avoiding-cloud-shock-how-to-set-up-aws-budgets-for-predictable-expenses-495h)
-- [AceHack 4.0: Where Ideas Meet Collaboration](https://dev.to/acehack/acehack-40-where-ideas-meet-collaboration-22p5)
-- [How to integrate AWS lamda serverless with Node.js Nest.js](https://dev.to/shaikhalamin/how-to-integrate-aws-lamda-serverless-with-nodejs-nestjs-5060)
-- [Best Practices for Securing Git LFS on GitHub, GitLab, Bitbucket, and Azure DevOps](https://dev.to/gitprotect/best-practices-for-securing-git-lfs-on-github-gitlab-bitbucket-and-azure-devops-hom)
-- [Terraform Backend Configuration: Local and Remote Options](https://dev.to/env0/terraform-backend-configuration-local-and-remote-options-1e0e)
+- [Building an AI agent for your frontend project](https://dev.to/logrocket/building-an-ai-agent-for-your-frontend-project-5c21)
+- [Tips to land your first job in Tech](https://dev.to/cryptosandy/tips-to-land-your-first-job-in-tech-47j3)
+- [Simplifying SME Sales with Video Conferencing](https://dev.to/krideo/simplifying-sme-sales-with-video-conferencing-2ham)
+- [How to Enable Dark Mode on SQL Server](https://dev.to/mirajhad/how-to-enable-dark-mode-on-sql-server-19kk)
+- [Is there a 30 seconds rule for merges into production? Like, if you roll another version within that period it doesn&#39;t count as another patch?](https://dev.to/heyjmac/is-there-a-30-seconds-rule-for-merges-into-production-like-if-you-roll-another-version-within-4e16)
 <!-- BLOG-POST-LIST:END -->
 
 ---
