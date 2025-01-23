@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Azure API management](https://dev.to/higor_amorim_15d165de93d4/azure-api-management-j9b)
-- [Easily Sync Your Subtitles with React, RHF and shadcn/ui](https://dev.to/joanroucoux/easily-sync-your-subtitles-with-react-rhf-and-shadcnui-3gfe)
-- [Understanding Key Concepts in Cloud Computing](https://dev.to/onyemachi_doris/understanding-key-concepts-in-cloud-computing-2mic)
-- [[Boost]](https://dev.to/yazid_ibrahim_01/-43gh)
-- [Achieving low latency with pub/sub](https://dev.to/ably/achieving-low-latency-with-pubsub-33gd)
+- [Top 5 Customer Success Tools For SaaS Products in 2025](https://dev.to/shayy/top-5-customer-success-tools-for-saas-products-in-2025-en3)
+- [#TIL: Display table and inline are incompatible with container queries](https://dev.to/nonsalant/til-display-table-and-inline-are-incompatible-with-container-queries-48l7)
+- [Overview of RESTful API Development: A Task-Based Journey](https://dev.to/arbythecoder/overview-of-restful-api-development-a-task-based-journey-2822)
+- [Cache: Otimizando Desempenho e Reduzindo Custos na sua aplicação](https://dev.to/reishenrique/cache-otimizando-desempenho-e-reduzindo-custos-na-sua-aplicacao-458o)
+- [A New Principle in Software Testing: Human Control Over AI to Ensure Safety and Reliability](https://dev.to/yehor_romanov_4cf1c7a1c14/a-new-principle-in-software-testing-human-control-over-ai-to-ensure-safety-and-reliability-2pg5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
