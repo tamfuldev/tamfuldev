@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI agent for your frontend project](https://dev.to/logrocket/building-an-ai-agent-for-your-frontend-project-5c21)
-- [Tips to land your first job in Tech](https://dev.to/cryptosandy/tips-to-land-your-first-job-in-tech-47j3)
-- [Simplifying SME Sales with Video Conferencing](https://dev.to/krideo/simplifying-sme-sales-with-video-conferencing-2ham)
-- [How to Enable Dark Mode on SQL Server](https://dev.to/mirajhad/how-to-enable-dark-mode-on-sql-server-19kk)
-- [Is there a 30 seconds rule for merges into production? Like, if you roll another version within that period it doesn&#39;t count as another patch?](https://dev.to/heyjmac/is-there-a-30-seconds-rule-for-merges-into-production-like-if-you-roll-another-version-within-4e16)
+- [TIL Weekly 1](https://dev.to/uskdev/til-weekly-1-4akg)
+- [We just launched KitOps 1.0 and it&#39;s live in a slew of production environments around the world - see what&#39;s coming next for this wildly popular project!](https://dev.to/brad-micklea/we-just-launched-kitops-10-and-its-live-in-a-slew-of-production-environments-around-the-world--4ed8)
+- [From 14TB to 700GB: Optimizing Database Storage for Real-Time Monitoring](https://dev.to/timescale/from-14tb-to-700gb-optimizing-database-storage-for-real-time-monitoring-2l0p)
+- [Blue-Green and Canary Deployments: A Deep Dive into Modern Deployment Strategies](https://dev.to/klaus82/blue-green-and-canary-deployments-a-deep-dive-into-modern-deployment-strategies-48ci)
+- [What’s Next for the KitOps Project](https://dev.to/kitops/whats-next-for-the-kitops-project-279d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
