@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Dockerize FastAPI](https://dev.to/code42cate/how-to-dockerize-fastapi-2a4)
-- [Reusable NestJS Interceptors with a Factory Pattern](https://dev.to/nickcosmo/reusable-nestjs-interceptors-with-a-factory-pattern-11gg)
-- [If your project is built with Astro JS and Tailwind CSS here is a short guide to upgrade to Tailwind CSS v4.](https://dev.to/mike_andreuzza/if-your-project-is-built-with-astro-js-and-tailwind-css-here-is-a-short-guide-to-upgrade-to-2c2j)
-- [Optimizing Data Pipelines in Snowflake: Tips for Efficiency and Performance](https://dev.to/rodolfom-data/optimizing-data-pipelines-in-snowflake-tips-for-efficiency-and-performance-4iap)
-- [&quot;Social Genie&quot; - An AI-Powered Game-Changer for Social Media Management](https://dev.to/sattavatakshat/social-genie-an-ai-powered-game-changer-for-social-media-management-1a6o)
+- [6 Free Icon Libraries for Rails Apps](https://dev.to/railsdesigner/free-icon-libraries-for-rails-apps-26i0)
+- [Tailwind CSS 4.0 Is Here: What You Need to Know](https://dev.to/shayy/tailwind-css-40-is-here-what-you-need-to-know-484h)
+- [Retro’ing and Debugging 2024: A Year of Growth, Challenges, and Breakthroughs by Jovick-Coder](https://dev.to/jovickcoder/retroing-and-debugging-2024-a-year-of-growth-challenges-and-breakthroughs-by-jovick-coder-36l9)
+- [How To Add Swap Space on Ubuntu 22.04](https://dev.to/davidisnotnull/how-to-add-swap-space-on-ubuntu-2204-238f)
+- [Seeking Support for Something Useful](https://dev.to/darkterminal/seeking-support-for-something-useful-4ile)
 <!-- BLOG-POST-LIST:END -->
 
 ---
