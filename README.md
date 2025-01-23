@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Vectors: Practice Questions to Sharpen Your Skills](https://dev.to/bazengdev/mastering-vectors-practice-questions-to-sharpen-your-skills-45pk)
-- [Amazon Rekognition](https://dev.to/naveen_kumar_07c64deeca54/amazon-rekognition-3e4m)
-- [AMAZON APPFLOW](https://dev.to/kamali_s/amazon-appflow-20d4)
-- [AWS SYSTEMS MANAGER](https://dev.to/hema_22/aws-systems-manager-59g5)
-- [AWS CloudTrail](https://dev.to/mohamed_rafil/aws-cloudtrail-4e37)
+- [The Future of Online Medicine Delivery Apps in 2025](https://dev.to/simonharris/the-future-of-online-medicine-delivery-apps-in-2025-16hb)
+- [Emulators Vs Simulators Vs Real Devices: Choosing the Right Mobile Testing Approach](https://dev.to/grjoeay/emulators-vs-simulators-vs-real-devices-choosing-the-right-mobile-testing-approach-3elk)
+- [AI-Powered Test Observability: Revolutionizing Software Quality Assurance](https://dev.to/arun_pal_3ce740a137cf15ad/ai-powered-test-observability-revolutionizing-software-quality-assurance-532i)
+- [OSD700: How LLMs and Messengers Handling Attachments UI](https://dev.to/amullagaliev/osd700-how-llms-and-messengers-handling-attachments-ui-4264)
+- [AWS WAF &lpar;Web Application Firewall&rpar;](https://dev.to/netra_rajendran_b98ea00f6/aws-waf-web-application-firewall-28m2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
