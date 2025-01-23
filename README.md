@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Reactive State Management Without Libraries](https://dev.to/adamgolan/reactive-state-management-without-libraries-51pj)
-- [Unifi: Change Inform URL](https://dev.to/sertxudev/unifi-change-inform-url-43hj)
-- [Deploying a Static website using AWS &lpar;S3+cloudfront&rpar;-React App](https://dev.to/harinivas_m_00360dd83f42/deploying-a-static-website-using-aws-s3cloudfront-react-app-404i)
-- [✨ How to Be More Confident as a Junior Dev—Even When You’re Overwhelmed](https://dev.to/_ndeyefatoudiop/how-to-be-more-confident-as-a-junior-dev-even-when-youre-overwhelmed-235e)
-- [Java Concurrency Mastery: A Comprehensive Guide to AQS, Locks, and Concurrent Collection](https://dev.to/ryan_zhi/java-concurrency-mastery-a-comprehensive-guide-to-aqs-locks-and-concurrent-collection-1l0h)
+- [Top 10 Java Architect Certifications to Boost Your Career in 2025](https://dev.to/markwayne/top-10-java-architect-certifications-to-boost-your-career-in-2025-297n)
+- [Building Resilient Workflows with Persistent Storage](https://dev.to/iamspathan/building-resilient-workflows-with-persistent-storage-5d0p)
+- [Hosting React Application Using S3 and Cloudfront](https://dev.to/_4d9a5312ee790ace25/hosting-react-application-using-s3-and-cloudfront-3nmf)
+- [What are the 10 Principles of Usability Heuristics?](https://dev.to/lollypopdesign/what-are-the-10-principles-of-usability-heuristics-1nb1)
+- [Exploring the Critical Factors for Data Governance in Healthcare Operations | MasTech Infotrellis](https://dev.to/hana_sato/exploring-the-critical-factors-for-data-governance-in-healthcare-operations-mastech-infotrellis-57bb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
