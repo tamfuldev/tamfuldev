@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I tried out a new programming language for data analysts](https://dev.to/serina_8340/i-tried-out-a-new-programming-language-for-data-analysts-2m52)
-- [Secure Your Database: How DbVisualizer Prevents SQL Injection](https://dev.to/dbvismarketing/secure-your-database-how-dbvisualizer-prevents-sql-injection-1k58)
-- [Why Choose Malgo for Your Cryptocurrency Development Needs? A Comprehensive Guide](https://dev.to/andrew_kamal_d7e4aa2cac6d/why-choose-malgo-for-your-cryptocurrency-development-needs-a-comprehensive-guide-1l82)
-- [Sustainable DevOps: Reducing the Carbon Footprint of Software Development ✨♻️](https://dev.to/info_generalhazedawn_a3d/sustainable-devops-reducing-the-carbon-footprint-of-software-development-555g)
-- [How Malgo Leads the Way in Scalable and Secure dApp Development Solutions](https://dev.to/jude_maxwell_fe6a32b5a286/how-malgo-leads-the-way-in-scalable-and-secure-dapp-development-solutions-13fe)
+- [Reactive State Management Without Libraries](https://dev.to/adamgolan/reactive-state-management-without-libraries-51pj)
+- [Unifi: Change Inform URL](https://dev.to/sertxudev/unifi-change-inform-url-43hj)
+- [Deploying a Static website using AWS &lpar;S3+cloudfront&rpar;-React App](https://dev.to/harinivas_m_00360dd83f42/deploying-a-static-website-using-aws-s3cloudfront-react-app-404i)
+- [✨ How to Be More Confident as a Junior Dev—Even When You’re Overwhelmed](https://dev.to/_ndeyefatoudiop/how-to-be-more-confident-as-a-junior-dev-even-when-youre-overwhelmed-235e)
+- [Java Concurrency Mastery: A Comprehensive Guide to AQS, Locks, and Concurrent Collection](https://dev.to/ryan_zhi/java-concurrency-mastery-a-comprehensive-guide-to-aqs-locks-and-concurrent-collection-1l0h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
