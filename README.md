@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [May Jolt AI be the future of production-ready AI developer tools?](https://dev.to/fmerian/may-jolt-ai-be-the-future-of-production-ready-ai-developer-tools-1k80)
-- [Introducing Jolt: AI Codegen and Chat for 100K to Multi-Million Line Codebases](https://dev.to/yev_yev_yev/introducing-jolt-ai-codegen-and-chat-for-100k-to-multi-million-line-codebases-1764)
-- [[Boost]](https://dev.to/mezmo/-453p)
-- [Setting up a VPC Infrastructure For Jenkins, Artifactory, Sonarqube on AWS using Terraform](https://dev.to/nonso_echendu_001/setting-up-a-vpc-infrastructure-for-jenkins-artifactory-sonarqube-on-aws-using-terraform-27ia)
-- [Building an NBA Sport Data Lake Analytic using AWS Services](https://dev.to/ameh_mathias/building-an-nba-sport-data-lake-analytic-using-aws-services-46a8)
+- [Free Books Python, Linux and Programming](https://dev.to/sc0v0ne/free-books-python-linux-and-programming-5akc)
+- [Whether you&#39;re a beginner or a seasoned pro, showcasing machine learning &lpar;ML&rpar; projects on your resume will not only demonstrate your skills but also set you apart from the crowd. Each project listed below is rated on a difficulty scale of 1 to 10........](https://dev.to/lokesh_singh/whether-youre-a-beginner-or-a-seasoned-pro-showcasing-machine-learning-ml-projects-on-your-l1p)
+- [Top 20 Machine Learning Projects to Boost Your Resume 🚀](https://dev.to/lokesh_singh/top-20-machine-learning-projects-to-boost-your-resume-18k6)
+- [Day 1087 : Much More](https://dev.to/dwane/day-1087-much-more-34j0)
+- [How to deploy a SpringBoot API on AWS ECS using CDKTF?](https://dev.to/abdelino17/how-to-deploy-a-springboot-api-on-aws-ecs-using-cdktf-39ef)
 <!-- BLOG-POST-LIST:END -->
 
 ---
