@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Should I choose HTTP or SOCKS5 when crawling to collect data?](https://dev.to/98ip/should-i-choose-http-or-socks5-when-crawling-to-collect-data-1mpi)
-- [The Power of Java APIs: Transforming Modern Software Engineering](https://dev.to/martingreenz/the-power-of-java-apis-transforming-modern-software-engineering-3d6a)
-- [Maximize Your Savings: How Much Can You Earn by Bulk Sending to 100 Addresses Instead of Sending One by One?](https://dev.to/block_experts_766a3a21915637/maximize-your-savings-how-much-can-you-earn-by-bulk-sending-to-100-addresses-instead-of-sending-aef)
-- [Asas Kubernetes - Hari 3. Komponen penting didalam Master Node atau dikenali sebagai Control-Plane](https://dev.to/kodakademik/asas-kubernetes-hari-3-komponen-penting-didalam-master-node-atau-dikenali-sebagai-control-plane-4bn3)
-- [📰 Elon Musk publicly trashes Trump-backed Stargate AI project, clashes with OpenAI CEO Sam Altman](https://dev.to/d_thiranjaya_6d3ec4552111/elon-musk-publicly-trashes-trump-backed-stargate-ai-project-clashes-with-openai-ceo-sam-altman-2n68)
+- [Task](https://dev.to/vimala_jeyakumar_de64a9b2/task-2oia)
+- [Integrating sg-image-viewer component in Angular, Vue and React Application](https://dev.to/sudhakar_george_e6d1f136f/integrating-sg-image-viewer-component-in-angular-vue-and-react-application-23o)
+- [Uploading objects into S3 bucket using EC2&lpar;PuTTY&rpar; + IAM + S3](https://dev.to/mohamed_rafil/uploading-objects-into-s3-bucket-using-ec2putty-iam-s3-4d4d)
+- [[Boost]](https://dev.to/brunociccarino/-4mm)
+- [Tell me, what is your favorite theme? Of all the themes, which one do you like the most?](https://dev.to/brunociccarino/tell-me-what-is-your-favorite-theme-of-all-the-themes-which-one-do-you-like-the-most-4lo9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
