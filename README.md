@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Java](https://dev.to/abin_tt/java-408d)
-- [Notes on Data Engineering Zoomcamp 2025 - Launch Stream](https://dev.to/pizofreude/notes-on-data-engineering-zoomcamp-2025-launch-stream-4mpm)
-- [Date in JS&lpar;Fully Covered&rpar;](https://dev.to/sarthak_kashmira_50d8ddac/date-in-jsfully-covered-489)
-- [My Journey to Becoming a Full-Stack Developer](https://dev.to/dahami_fabbio/my-journey-to-becoming-a-full-stack-developer-p8f)
-- [Mastering Adobe Firefly AI: A Complete](https://dev.to/azkar_mediahicon_c4c29eba/mastering-adobe-firefly-ai-a-complete-35p1)
+- [Should I Consider Writing a Book? 🤔](https://dev.to/trixsec/should-i-consider-writing-a-book-81i)
+- [Unlocking Real-Time Communication with Websockets in Node.js: A Comprehensive Guide](https://dev.to/bhavyajain/unlocking-real-time-communication-with-websockets-in-nodejs-a-comprehensive-guide-12lm)
+- [Master Linux: Essential Commands and Tools You Must Know!](https://dev.to/abhay_yt_52a8e72b213be229/master-linux-essential-commands-and-tools-you-must-know-59i)
+- [Search Algorithms in Kotlin: A Comprehensive Guide](https://dev.to/wolfof420street/search-algorithms-in-kotlin-a-comprehensive-guide-20m5)
+- [How to Setup Pritunl on Ubuntu Server](https://dev.to/sammy_cloud/how-to-setup-pritunl-on-ubuntu-server-5g8d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
