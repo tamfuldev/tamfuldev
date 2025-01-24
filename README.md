@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Free Books Python, Linux and Programming](https://dev.to/sc0v0ne/free-books-python-linux-and-programming-5akc)
-- [Whether you&#39;re a beginner or a seasoned pro, showcasing machine learning &lpar;ML&rpar; projects on your resume will not only demonstrate your skills but also set you apart from the crowd. Each project listed below is rated on a difficulty scale of 1 to 10........](https://dev.to/lokesh_singh/whether-youre-a-beginner-or-a-seasoned-pro-showcasing-machine-learning-ml-projects-on-your-l1p)
-- [Top 20 Machine Learning Projects to Boost Your Resume 🚀](https://dev.to/lokesh_singh/top-20-machine-learning-projects-to-boost-your-resume-18k6)
-- [Day 1087 : Much More](https://dev.to/dwane/day-1087-much-more-34j0)
-- [How to deploy a SpringBoot API on AWS ECS using CDKTF?](https://dev.to/abdelino17/how-to-deploy-a-springboot-api-on-aws-ecs-using-cdktf-39ef)
+- [Should I choose HTTP or SOCKS5 when crawling to collect data?](https://dev.to/98ip/should-i-choose-http-or-socks5-when-crawling-to-collect-data-1mpi)
+- [The Power of Java APIs: Transforming Modern Software Engineering](https://dev.to/martingreenz/the-power-of-java-apis-transforming-modern-software-engineering-3d6a)
+- [Maximize Your Savings: How Much Can You Earn by Bulk Sending to 100 Addresses Instead of Sending One by One?](https://dev.to/block_experts_766a3a21915637/maximize-your-savings-how-much-can-you-earn-by-bulk-sending-to-100-addresses-instead-of-sending-aef)
+- [Asas Kubernetes - Hari 3. Komponen penting didalam Master Node atau dikenali sebagai Control-Plane](https://dev.to/kodakademik/asas-kubernetes-hari-3-komponen-penting-didalam-master-node-atau-dikenali-sebagai-control-plane-4bn3)
+- [📰 Elon Musk publicly trashes Trump-backed Stargate AI project, clashes with OpenAI CEO Sam Altman](https://dev.to/d_thiranjaya_6d3ec4552111/elon-musk-publicly-trashes-trump-backed-stargate-ai-project-clashes-with-openai-ceo-sam-altman-2n68)
 <!-- BLOG-POST-LIST:END -->
 
 ---
