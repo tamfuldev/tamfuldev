@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Python Complexity Cheat Sheet 🚀](https://dev.to/jaiminbariya/python-complexity-cheat-sheet-3plf)
 - [Comprehensive Comparison: CISSP vs. CCSP in 2025](https://dev.to/p2p_certs_5787663da138fad/comprehensive-comparison-cissp-vs-ccsp-in-2025-85h)
 - [Understanding AJAX, XMLHttpRequest, and Fetch API in JavaScript](https://dev.to/krushna_sananse/understanding-ajax-xmlhttprequest-and-fetch-api-in-javascript-ijf)
 - [CheckMate - quick and easy-to-use fact-checking assistant that combats misinformation](https://dev.to/filipehb/checkmate-quick-and-easy-to-use-fact-checking-assistant-that-combats-misinformation-3n41)
 - [Managing Production Configurations in ASP.NET Core WebAPI Using Environment Variables](https://dev.to/imzihad21/managing-production-configurations-in-aspnet-core-webapi-using-environment-variables-3nmf)
-- [Understanding the Benefits of Vertical Scaling Over Horizontal Scaling for Server Resources](https://dev.to/adityabhuyan/understanding-the-benefits-of-vertical-scaling-over-horizontal-scaling-for-server-resources-5f1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
