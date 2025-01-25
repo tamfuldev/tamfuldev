@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Are you stuck in Software testing role check out A Step-by-Step Guide to Transitioning from Software Testing to DevOps](https://dev.to/techconcephub/are-you-stuck-in-software-testing-role-check-out-a-step-by-step-guide-to-transitioning-from-49ba)
-- [Understanding Angular Life Cycle Hooks](https://dev.to/himanshusinghtomar/understanding-angular-life-cycle-hooks-oi4)
-- [Task-23/01/2025](https://dev.to/neelakandan_ravi_2000/task-23012025-5eck)
-- [Task-22/01/2025](https://dev.to/neelakandan_ravi_2000/task-22012025-1hni)
-- [การใช้สูตร PARENTGROUPVAL ใน Salesforce เพื่อสร้าง Report](https://dev.to/tulip_pattra/kaaraichsuutr-parentgroupval-ain-salesforce-ephuuesraang-report-13ih)
+- [The &lt;sarcasm&gt; 🙄 component - now Brits can finally be understood on the web!](https://dev.to/grahamthedev/the-component-now-brits-can-finally-be-understood-on-the-web-33m1)
+- [Riverpod Flutter: A Beginner&#39;s Guide](https://dev.to/codeparrot/riverpod-flutter-a-beginners-guide-372j)
+- [[Boost]](https://dev.to/saint_vandora/-30p2)
+- [Authentication &amp; Authorization in FastAPI with Keycloak](https://dev.to/saint_vandora/authentication-authorization-in-fastapi-with-keycloak-5h4a)
+- [Protect Your APIs from Abuse with FastAPI and Redis](https://dev.to/saint_vandora/protect-your-apis-from-abuse-with-fastapi-and-redis-1eh5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
