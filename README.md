@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Type, or Interface, That Is the Question](https://dev.to/leapcell/type-or-interface-that-is-the-question-50c7)
-- [A Clear Guide to AuthN, AuthZ, OIDC, OAuth and Their Role in Securing Applications](https://dev.to/mastermentee/a-clear-guide-to-authn-authz-oidc-oauth-and-their-role-in-securing-applications-29o1)
-- [An underwhelming story about trying to run DeepSeek R1 on AWS Free Tier](https://dev.to/fpmortal/an-underwhelming-story-about-trying-to-run-deepseek-on-aws-free-tier-5dn9)
-- [Snowflake vs. Databricks: Building Your Data Stack with Kestra🚀🌩️🧑‍💻](https://dev.to/astrodevil/snowflake-vs-databricks-building-your-data-stack-with-kestra-3b6g)
-- [Set up your own Ansible Lab using Docker](https://dev.to/rohitkalyan/setting-up-your-own-ansible-lab-using-docker-49co)
+- [Designing Website Layouts: A Friendly Guide](https://dev.to/lovestaco/designing-website-layouts-a-friendly-guide-29he)
+- [Understanding Internet Protocols: The Backbone of Communication](https://dev.to/hossamgouda/understanding-internet-protocols-the-backbone-of-communication-1bkc)
+- [C++19th Code &lpar; postfix &amp; Prefix&rpar; --&gt; &lpar;X++&rpar; &amp; &lpar;++X&rpar;](https://dev.to/md-salah/c19th-code-postfix-prefix-x-x-5ecl)
+- [Type Hero](https://dev.to/ikuzwe_shema_elie/type-hero-23bg)
+- [Mastering Field Validation and User Existence Checks in Node.js: A Developer’s Survival Guide](https://dev.to/yugjadvani/mastering-field-validation-and-user-existence-checks-in-nodejs-a-developers-survival-guide-25db)
 <!-- BLOG-POST-LIST:END -->
 
 ---
