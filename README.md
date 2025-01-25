@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Supervised vs. Unsupervised Learning](https://dev.to/prezaei/understanding-supervised-vs-unsupervised-learning-g2g)
-- [104/365 | ¥10M Job Challenge - Learning and Work Productivity](https://dev.to/kameken100/104365-y10m-job-challenge-learning-and-work-productivity-3bk8)
-- [Agentic AI Roadmap](https://dev.to/samagra07/agentic-ai-roadmap-3jp3)
-- [How to Recover from Expired vCenter 7 &lpar;ESXI&rpar; Certificates: A Step-by-Step Guide 2025](https://dev.to/adzhydra/how-to-recover-from-expired-vcenter-7-esxi-certificates-a-step-by-step-guide-2025-7cd)
-- [How to be confident in coding?](https://dev.to/manasmoon_/how-to-be-confident-in-coding-4nm1)
+- [Type, or Interface, That Is the Question](https://dev.to/leapcell/type-or-interface-that-is-the-question-50c7)
+- [A Clear Guide to AuthN, AuthZ, OIDC, OAuth and Their Role in Securing Applications](https://dev.to/mastermentee/a-clear-guide-to-authn-authz-oidc-oauth-and-their-role-in-securing-applications-29o1)
+- [An underwhelming story about trying to run DeepSeek R1 on AWS Free Tier](https://dev.to/fpmortal/an-underwhelming-story-about-trying-to-run-deepseek-on-aws-free-tier-5dn9)
+- [Snowflake vs. Databricks: Building Your Data Stack with Kestra🚀🌩️🧑‍💻](https://dev.to/astrodevil/snowflake-vs-databricks-building-your-data-stack-with-kestra-3b6g)
+- [Set up your own Ansible Lab using Docker](https://dev.to/rohitkalyan/setting-up-your-own-ansible-lab-using-docker-49co)
 <!-- BLOG-POST-LIST:END -->
 
 ---
