@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Slashing S3 Costs: How Databend Reduced List API Expenses by 70%](https://dev.to/ksanaka/slashing-s3-costs-how-databend-reduced-list-api-expenses-by-70-1l6e)
-- [FSCSS animation example](https://dev.to/fscss-ttr/fscss-animation-example-j2j)
-- [Indexing for NOT EQUAL &lpar;&lt;&gt;,!=&rpar; in YugabyteDB, PostgreSQL, Oracle Database, SQL Server, and MongoDB](https://dev.to/aws-heroes/indexing-for-not-equal-in-yugabytedb-postgresql-oracle-database-and-mongodb-25mo)
-- [Wordpress Developers](https://dev.to/friendsmohamed/wordpress-developers-3j2e)
-- [TanStack Query 101 with Next.js](https://dev.to/thekbbohara/tanstack-query-101-with-nextjs-ale)
+- [&quot;Unraveling Tidal Forces: Insights into Red Giant Binary Evolution&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unraveling-tidal-forces-insights-into-red-giant-binary-evolution-13a0)
+- [Untitled](https://dev.to/atsada_samsee_a760ab89907/untitled-54p1)
+- [Face Detection with TFLite model &lpar;without Firebase&rpar; in Flutter](https://dev.to/fosteranese/face-detection-with-tflite-model-without-firebase-in-flutter-239a)
+- [Level Up Your HTML Game with html-tags-utils](https://dev.to/niero/level-up-your-html-game-with-html-tags-utils-cbj)
+- [Bitcoin RPC Scavenger Hunt: A Journey Through 10 Challenges](https://dev.to/lymah/bitcoin-rpc-scavenger-hunt-a-journey-through-10-challenges-2ph8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
