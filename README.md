@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Performance Optimization Tips for 2025.](https://dev.to/balrajola/javascript-performance-optimization-tips-for-2025-4h38)
-- [Password Hashing and Data Integrity in Real-World Implementation](https://dev.to/nozibul_islam_113b1d5334f/password-hashing-and-data-integrity-in-real-world-implementation-50g6)
-- [Inside NVIDIA&#39;s Hopper GPU: New Architecture Delivers 3X Faster Processing and 40% Lower Data Movement Overhead](https://dev.to/mikeyoung44/inside-nvidias-hopper-gpu-new-architecture-delivers-3x-faster-processing-and-40-lower-data-2bne)
-- [Leetcode - 169. Majority Element](https://dev.to/rakeshreddy512/leetcode-169-majority-element-di7)
-- [Uncovering Hidden Threats: A Deep Drive into Amazon Detective](https://dev.to/anush_nu/uncovering-hidden-threats-a-deep-drive-into-amazon-detective-4p69)
+- [Leetcode - 189. Rotate Array](https://dev.to/rakeshreddy512/leetcode-189-rotate-array-4hig)
+- [Will AI Replace Frontend Developers?](https://dev.to/samratsahasammy/will-ai-replace-frontend-developers-50pb)
+- [AI wrote this blog, surprising intro to Convex Backend](https://dev.to/eagledev_/ai-wrote-this-blog-surprising-intro-to-convex-backend-2na3)
+- [Example FSCSS animation](https://dev.to/lmcss/example-fscss-animation-3n5b)
+- [How I Spent My Winter Learning Blockchain](https://dev.to/arkad23/how-i-spent-my-winter-learning-blockchain-3ei5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
