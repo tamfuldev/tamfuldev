@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [13 Awesome React Animation Libraries To Elevate Your Design Projects 🚀](https://dev.to/sovannaro/13-awesome-react-animation-libraries-to-elevate-your-design-projects-549g)
-- [How can I solve render-blocking issues on my website, specifically related to the Duffle Bag page?](https://dev.to/apronlady12/how-can-i-solve-render-blocking-issues-on-my-website-specifically-related-to-the-duffle-bag-page-4eea)
-- [7 Hottest UI Component Libraries of 2025](https://dev.to/sovannaro/7-hottest-ui-component-libraries-of-2025-2ce)
-- [2. Set&lt;E&gt; &lpar;para trabalhar com elementos únicos&rpar;](https://dev.to/javaparainiciantes/2-set-para-trabalhar-com-elementos-unicos-2dpb)
-- [&quot;Understanding Blockchain: The Foundation of Decentralized Systems&quot;](https://dev.to/sania_ashraf_c97464909c1d/understanding-blockchain-the-foundation-of-decentralized-systems-38o1)
+- [JavaScript Performance Optimization Tips for 2025.](https://dev.to/balrajola/javascript-performance-optimization-tips-for-2025-4h38)
+- [Password Hashing and Data Integrity in Real-World Implementation](https://dev.to/nozibul_islam_113b1d5334f/password-hashing-and-data-integrity-in-real-world-implementation-50g6)
+- [Inside NVIDIA&#39;s Hopper GPU: New Architecture Delivers 3X Faster Processing and 40% Lower Data Movement Overhead](https://dev.to/mikeyoung44/inside-nvidias-hopper-gpu-new-architecture-delivers-3x-faster-processing-and-40-lower-data-2bne)
+- [Leetcode - 169. Majority Element](https://dev.to/rakeshreddy512/leetcode-169-majority-element-di7)
+- [Uncovering Hidden Threats: A Deep Drive into Amazon Detective](https://dev.to/anush_nu/uncovering-hidden-threats-a-deep-drive-into-amazon-detective-4p69)
 <!-- BLOG-POST-LIST:END -->
 
 ---
