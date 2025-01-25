@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Workstation Situation](https://dev.to/timothy_97/my-workstation-situation-2oml)
-- [How to Open Pull Requests from Jira Issues with GitAuto](https://dev.to/gitautoai/how-to-open-pull-requests-from-jira-issues-with-gitauto-21a7)
-- [🤖🧠Making Tech Blog 4 &lpar;Vercel&rpar;](https://dev.to/webdeveloperhyper/making-tech-blog-4-vercel-ppj)
-- [HOW TO DO INPUT IN .NET C# PROGRAMMING LANGUAGE ??](https://dev.to/dilmurod_yaqubbayev_073a5/how-to-do-input-in-net-c-programming-language--4jij)
-- [Top 5 Data Visualization Libraries You Should Know in 2025](https://dev.to/burcs/top-5-data-visualization-libraries-you-should-know-in-2025-21k9)
+- [Seeking Compliance over](https://dev.to/sosmation/seeking-compliance-over-2ki9)
+- [Convert a GeoTIFF for Use with Cesium&#39;s Imagery Provider using GISBox](https://dev.to/gisbox/convert-a-geotiff-for-use-with-cesiums-imagery-provider-using-gisbox-1nl8)
+- [GISBox generates models with one click and easily completes format conversion](https://dev.to/gisbox/gisbox-generates-models-with-one-click-and-easily-completes-format-conversion-4li8)
+- [Frontend Performance Optimization: A Comprehensive Guide 🚀](https://dev.to/alisamir/frontend-performance-optimization-a-comprehensive-guide-2bfk)
+- [Ensuring Security and Compliance with On Premises Identity Verification—FacePlugin’s Advanced Solutions](https://dev.to/faceplugin/ensuring-security-and-compliance-with-on-premises-identity-verification-faceplugins-advanced-1jpf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
