@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Unraveling Tidal Forces: Insights into Red Giant Binary Evolution&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unraveling-tidal-forces-insights-into-red-giant-binary-evolution-13a0)
-- [Untitled](https://dev.to/atsada_samsee_a760ab89907/untitled-54p1)
-- [Face Detection with TFLite model &lpar;without Firebase&rpar; in Flutter](https://dev.to/fosteranese/face-detection-with-tflite-model-without-firebase-in-flutter-239a)
-- [Level Up Your HTML Game with html-tags-utils](https://dev.to/niero/level-up-your-html-game-with-html-tags-utils-cbj)
-- [Bitcoin RPC Scavenger Hunt: A Journey Through 10 Challenges](https://dev.to/lymah/bitcoin-rpc-scavenger-hunt-a-journey-through-10-challenges-2ph8)
+- [My Workstation Situation](https://dev.to/timothy_97/my-workstation-situation-2oml)
+- [How to Open Pull Requests from Jira Issues with GitAuto](https://dev.to/gitautoai/how-to-open-pull-requests-from-jira-issues-with-gitauto-21a7)
+- [🤖🧠Making Tech Blog 4 &lpar;Vercel&rpar;](https://dev.to/webdeveloperhyper/making-tech-blog-4-vercel-ppj)
+- [HOW TO DO INPUT IN .NET C# PROGRAMMING LANGUAGE ??](https://dev.to/dilmurod_yaqubbayev_073a5/how-to-do-input-in-net-c-programming-language--4jij)
+- [Top 5 Data Visualization Libraries You Should Know in 2025](https://dev.to/burcs/top-5-data-visualization-libraries-you-should-know-in-2025-21k9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
