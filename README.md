@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Study Notes: DE Zoomcamp 1.2.1 - Introduction to Docker](https://dev.to/pizofreude/study-notes-de-zoomcamp-121-introduction-to-docker-bj4)
-- [Introducing SponsoShield | An AI powered agent to indetify sponsors on youtube](https://dev.to/hikolakita/introducing-sponsoshield-an-ai-powered-agent-to-indetify-sponsors-on-youtube-e1l)
-- [Short Story Video Generator: Streamlining Social Media Content Creation with Agent.ai](https://dev.to/jacksonkasi/short-story-video-generator-streamlining-social-media-content-creation-with-agentai-1le9)
-- [GenAI: Building RAG Systems with LangChain](https://dev.to/ajmal_hasan/genai-building-rag-systems-with-langchain-4dbp)
-- [NPM Install Hanging? Fix TailwindCSS Reify Issues Now!](https://dev.to/0x2e_tech/npm-install-hanging-fix-tailwindcss-reify-issues-now-6nj)
+- [🐳DeepSeek API Integration 🌟 🔥](https://dev.to/hanzla-baig/deepseek-api-integration-2cpe)
+- [Redis Pub/Sub vs Redis Streams: A Dev-Friendly Comparison](https://dev.to/lovestaco/redis-pubsub-vs-redis-streams-a-dev-friendly-comparison-39hm)
+- [The Power of Quantization: Shrinking GPT2, Unleashing Speed](https://dev.to/shrsv/the-power-of-quantization-shrinking-gpt2-unleashing-speed-5h7c)
+- [A 30-Day Weather Dashboard: How I Built A Python Project for API Integration and Cloud Storage](https://dev.to/onlyfave/a-30-day-weather-dashboard-how-i-built-a-python-project-for-api-integration-and-cloud-storage-247b)
+- [TagMe: Your AI Partner for Crafting Captivating Taglines](https://dev.to/dyarawilliams/tagme-your-ai-partner-for-crafting-captivating-taglines-old)
 <!-- BLOG-POST-LIST:END -->
 
 ---
