@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Email Sender Service](https://dev.to/yadab_sutradhar/email-sender-service-gg1)
-- [Host React with Blazor Server](https://dev.to/ruxozheng/host-react-with-blazor-server-6ff)
-- [Simplify Your React Development with useHooks](https://dev.to/dzungnt98/simplify-your-react-development-with-usehooks-2d0p)
-- [OpenTofu - Encrypted State + Git to Bootstrap Infrastructure](https://dev.to/zloeber/opentofu-encrypted-state-git-to-bootstrap-infrastructure-47lj)
-- [@Slf4j = Facade Pattern + Service Locator Pattern](https://dev.to/minisundev/slf4j-facade-pattern-service-locator-pattern-45pa)
+- [Top 10 Tech Podcasts for Software Engineers to Level Up in 2025](https://dev.to/jaiminbariya/top-10-tech-podcasts-for-software-engineers-to-level-up-in-2025-518j)
+- [Task and Parallel](https://dev.to/sborhade/task-and-parallel-dlf)
+- [The Short Life of a Llama &lpar;a poem&rpar;](https://dev.to/auroratide/the-short-life-of-a-llama-a-poem-25gp)
+- [I&#39;ve updated the example for a better read experience.](https://dev.to/louis7/ive-updated-the-example-for-a-better-read-experience-calling-apis-between-services-is-one-of-4lhb)
+- [OTA hot update in react native, easy to control with CMS](https://dev.to/khnh_nguyen_49f492436eef/ota-hot-update-in-react-native-easy-to-control-with-cms-51ha)
 <!-- BLOG-POST-LIST:END -->
 
 ---
