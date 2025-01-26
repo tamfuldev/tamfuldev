@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Get started with Vector Search in Azure Cosmos DB](https://dev.to/abhirockzz/get-started-with-vector-search-in-azure-cosmos-db-15dk)
+- [Rust and Go: The Future of High-Performance Computing](https://dev.to/adamgolan/rust-and-go-the-future-of-high-performance-computing-2gpc)
+- [10 Must Read Data Structures and Algorithms Books for Developers](https://dev.to/somadevtoo/10-must-read-data-structures-and-algorithms-books-for-developers-39f1)
+- [InfluenceIQ: The Ultimate AI Tool for Smarter Influencer Marketing](https://dev.to/ronit_chawla_88d33416a2cd/influenceiq-the-ultimate-ai-tool-for-smarter-influencer-marketing-2i0e)
 - [Redis Demystified: A Simple Introduction for System Design 🧩](https://dev.to/priya01/redis-demystified-a-simple-introduction-for-system-design-56mb)
-- [ng-conf 2024: Angular control flow](https://dev.to/mehdi1/ng-conf-2024-angular-control-flow-4p4k)
-- [Deploying Django and Wagtail on Cloud Servers: A Step-by-Step Guide](https://dev.to/matusunuwawa/deploying-django-and-wagtail-on-cloud-servers-a-step-by-step-guide-67j)
-- [How 🚀 Go is Changing 💻 the Tech 🌐 Landscape 🏞️ in 2025 👀](https://dev.to/akashaman/how-go-is-changing-the-tech-landscape-in-2025-3869)
-- [Stocks AI by Pharmaalabs](https://dev.to/neelkanani/stocks-ai-by-pharmaalabs-ek7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
