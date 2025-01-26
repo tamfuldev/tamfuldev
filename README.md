@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Make Raindrop Even Better](https://dev.to/deshalpadmakar/make-raindrop-even-better-3a0k)
-- [JavaScript Functions Higher-Order, Anonymous, Invoked &amp; More!](https://dev.to/sudhanshudevelopers/javascript-functions-higher-order-anonymous-invoked-more-5127)
-- [Thoughts on CSS-in-JS and Utility-First CSS &lpar;Tailwind&rpar;](https://dev.to/filip_kudla/thoughts-on-css-in-js-and-utility-first-css-tailwind-159p)
-- [Beginners Guide to Django Template Tags](https://dev.to/sslguy/beginners-guide-to-django-template-tags-2j0g)
-- [Introduction to Django Querysets](https://dev.to/sslguy/introduction-to-django-querysets-3n7p)
+- [16 Front-End Code Snippets Worth Checking Out](https://dev.to/kelen/16-front-end-code-snippets-worth-checking-out-4jld)
+- [How We Designed In-Flight Business in Cabin Crew Life Simulator - Devlog #13](https://dev.to/khaisimon_devgame/how-we-designed-in-flight-business-in-cabin-crew-life-simulator-devlog-13-4mf2)
+- [New Angular 19 feature - ngComponentOutlet componentInstance](https://dev.to/railsstudent/new-angular-19-feature-ngcomponentoutlet-componentinstance-120e)
+- [Google search hover animation](https://dev.to/tromo_sm_ce16da2afa22d285/google-search-hover-animation-207g)
+- [[First Post] Created a CLI Tool to Infer Relationships from DB Schemas and Convert Them to DBML](https://dev.to/ymmy/first-post-created-a-cli-tool-to-infer-relationships-from-db-schemas-and-convert-them-to-dbml-22i7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
