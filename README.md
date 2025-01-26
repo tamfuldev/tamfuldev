@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [10 Simple &amp; Easy Steps to Create a Website](https://dev.to/tarunfulera1/10-simple-easy-steps-to-create-a-website-5cgo)
-- [Sports API System with Amazon ECS and API Gateway](https://dev.to/ayindejamiu/sports-api-system-with-amazon-ecs-and-api-gateway-1da1)
-- [The Internet Computer Protocol &lpar;ICP&rpar;: A Technical Deep Dive into the World Computer](https://dev.to/amity808/the-internet-computer-protocol-icp-a-technical-deep-dive-into-the-world-computer-1jl)
-- [Fix Insufficient TLS in Laravel: Guide with Free Security Tools](https://dev.to/pentest_testing_corp/fix-insufficient-tls-in-laravel-guide-with-free-security-tools-21n3)
-- [Python Logging: loguru vs logging](https://dev.to/leapcell/python-logging-loguru-vs-logging-1f55)
+- [Redis Demystified: A Simple Introduction for System Design 🧩](https://dev.to/priya01/redis-demystified-a-simple-introduction-for-system-design-56mb)
+- [ng-conf 2024: Angular control flow](https://dev.to/mehdi1/ng-conf-2024-angular-control-flow-4p4k)
+- [Deploying Django and Wagtail on Cloud Servers: A Step-by-Step Guide](https://dev.to/matusunuwawa/deploying-django-and-wagtail-on-cloud-servers-a-step-by-step-guide-67j)
+- [How 🚀 Go is Changing 💻 the Tech 🌐 Landscape 🏞️ in 2025 👀](https://dev.to/akashaman/how-go-is-changing-the-tech-landscape-in-2025-3869)
+- [Stocks AI by Pharmaalabs](https://dev.to/neelkanani/stocks-ai-by-pharmaalabs-ek7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
