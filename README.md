@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Tech Podcasts for Software Engineers to Level Up in 2025](https://dev.to/jaiminbariya/top-10-tech-podcasts-for-software-engineers-to-level-up-in-2025-518j)
-- [Task and Parallel](https://dev.to/sborhade/task-and-parallel-dlf)
-- [The Short Life of a Llama &lpar;a poem&rpar;](https://dev.to/auroratide/the-short-life-of-a-llama-a-poem-25gp)
-- [I&#39;ve updated the example for a better read experience.](https://dev.to/louis7/ive-updated-the-example-for-a-better-read-experience-calling-apis-between-services-is-one-of-4lhb)
-- [OTA hot update in react native, easy to control with CMS](https://dev.to/khnh_nguyen_49f492436eef/ota-hot-update-in-react-native-easy-to-control-with-cms-51ha)
+- [How to Choose the Right Brass Mortise Handle for Your Interior](https://dev.to/flybird_hardware_4683d5b1/how-to-choose-the-right-brass-mortise-handle-for-your-interior-2fpm)
+- [Optimizing Collection Operations in C#: Importing, Searching, and Sorting](https://dev.to/moh_moh701/optimizing-collection-operations-in-c-importing-searching-and-sorting-3d86)
+- [Hosting React Application Using S3 and Cloudfront](https://dev.to/sharvesh_waran_s_s/hosting-react-application-using-s3-and-cloudfront-30m4)
+- [Secure Remote Access to EC2 Instances: AWS SSM Session Manager vs EC2 Instance Connect vs EC2 Instance Connect Endpoint](https://dev.to/jajera/secure-remote-access-to-ec2-instances-aws-ssm-session-manager-vs-ec2-instance-connect-vs-ec2-3j2p)
+- [Securely Connecting to Private EC2 Instances with EC2 Instance Connect Endpoint](https://dev.to/jajera/securely-connecting-to-private-ec2-instances-with-ec2-instance-connect-endpoint-3kjd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
