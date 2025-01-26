@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [16 Front-End Code Snippets Worth Checking Out](https://dev.to/kelen/16-front-end-code-snippets-worth-checking-out-4jld)
-- [How We Designed In-Flight Business in Cabin Crew Life Simulator - Devlog #13](https://dev.to/khaisimon_devgame/how-we-designed-in-flight-business-in-cabin-crew-life-simulator-devlog-13-4mf2)
-- [New Angular 19 feature - ngComponentOutlet componentInstance](https://dev.to/railsstudent/new-angular-19-feature-ngcomponentoutlet-componentinstance-120e)
-- [Google search hover animation](https://dev.to/tromo_sm_ce16da2afa22d285/google-search-hover-animation-207g)
-- [[First Post] Created a CLI Tool to Infer Relationships from DB Schemas and Convert Them to DBML](https://dev.to/ymmy/first-post-created-a-cli-tool-to-infer-relationships-from-db-schemas-and-convert-them-to-dbml-22i7)
+- [Email Sender Service](https://dev.to/yadab_sutradhar/email-sender-service-gg1)
+- [Host React with Blazor Server](https://dev.to/ruxozheng/host-react-with-blazor-server-6ff)
+- [Simplify Your React Development with useHooks](https://dev.to/dzungnt98/simplify-your-react-development-with-usehooks-2d0p)
+- [OpenTofu - Encrypted State + Git to Bootstrap Infrastructure](https://dev.to/zloeber/opentofu-encrypted-state-git-to-bootstrap-infrastructure-47lj)
+- [@Slf4j = Facade Pattern + Service Locator Pattern](https://dev.to/minisundev/slf4j-facade-pattern-service-locator-pattern-45pa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
