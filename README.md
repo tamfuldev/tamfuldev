@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [🚀 25+ React Must-Read Articles.](https://dev.to/dev-resources/25-react-must-read-articles-13ci)
+- [Make a FREE AI Chatbot with Discord + Vercel 🤖](https://dev.to/best_codes/make-a-free-ai-chatbot-with-discord-vercel-373l)
+- [The Best DB Browser for SQLite](https://dev.to/burcs/the-best-db-browser-for-sqlite-2pj4)
 - [Streaming CSV Downloads in Rails: A Practical Guide](https://dev.to/daviducolo/streaming-csv-downloads-in-rails-a-practical-guide-41hi)
 - [How To Do Form Validation in Vue with Tanstack Form](https://dev.to/aaronksaunders/how-to-do-form-validation-in-vue-with-tanstack-form-39m5)
-- [AI could end my job — Just not the way I expected](https://dev.to/manuartero/ai-could-end-my-job-just-not-the-way-i-expected-5g3m)
-- [Firewall Basics: How to Secure Your Linux Server with Firewalld](https://dev.to/shweta_thikekar/firewall-basics-how-to-secure-your-linux-server-with-firewalld-4j0j)
-- [DeepSeek-R1: The Chinese AI Disruptor Rewriting the Rules of Artificial Intelligence](https://dev.to/mehrabjeager/deepseek-r1-the-chinese-ai-disruptor-rewriting-the-rules-of-artificial-intelligence-37ff)
 <!-- BLOG-POST-LIST:END -->
 
 ---
