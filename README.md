@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How to Use Deepseek API and Enable Streaming Output for Debugging](https://dev.to/auden/how-to-use-deepseek-api-and-enable-streaming-output-for-debugging-1ah9)
+- [Cloud-Based Software Development: An In-Depth Guide](https://dev.to/ram_fb361bc2f8f94e06772e2/cloud-based-software-development-an-in-depth-guide-2kle)
+- [How to Create a Unified Contact List by merging multiple VCF files?](https://dev.to/loganwalker/how-to-create-a-unified-contact-list-by-merging-multiple-vcf-files-5323)
 - [A Step-by-Step Guide to Install DeepSeek-R1 Locally with Ollama, vLLM or Transformers](https://dev.to/nodeshiftcloud/a-step-by-step-guide-to-install-deepseek-r1-locally-with-ollama-vllm-or-transformers-44a1)
-- [DevOps vs DevSecOps: Key Similarities and Critical Differences](https://dev.to/ram_fb361bc2f8f94e06772e2/devops-vs-devsecops-key-similarities-and-critical-differences-42hh)
-- [AWS open source newsletter, #206](https://dev.to/aws/aws-open-source-newsletter-206-3l9f)
-- [Initial load performance for React developers: investigative deep dive](https://dev.to/adevnadia/initial-load-performance-for-react-developers-investigative-deep-dive-ani)
-- [Uncertain number but regular column to row conversion:From SQL to SPL#5](https://dev.to/esproc_spl/cross-database-migratable-reports-spl-reportingfrom-sql-to-spl5-4cle)
+- [10 Common Website Development Mistakes to Avoid in 2025](https://dev.to/metablock_seo_b927d38fdbe/10-common-website-development-mistakes-to-avoid-in-2025-dil)
 <!-- BLOG-POST-LIST:END -->
 
 ---
