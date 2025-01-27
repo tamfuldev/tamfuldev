@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Derpify.js – a tool for these trying times…](https://dev.to/codepo8/derpifyjs-a-tool-for-these-trying-times-4gmg)
-- [Meme Monday](https://dev.to/ben/meme-monday-419k)
-- [Here&#39;s What We Achieved! All the insights from recent… &quot;Hack the Future: AI &amp; Open Source Hackathon&quot;.](https://dev.to/abdibrokhim/heres-what-we-achieved-all-the-insights-from-recent-hack-the-future-ai-open-source-15p4)
-- [Stop wasting time on ontology setup](https://dev.to/falkordb/stop-wasting-time-on-ontology-setup-2m1h)
-- [Scenario-1,2,3](https://dev.to/neelakandan_ravi_2000/scenario-5hec)
+- [7 Best Terraform Books for Beginners](https://dev.to/bobbyiliev/7-best-terraform-books-for-beginners-32g7)
+- [Creating An AI Agent For Kubernetes Performance Optimization](https://dev.to/thenjdevopsguy/creating-an-ai-agent-for-kubernetes-performance-optimization-2nl9)
+- [Tools with ChatContext Dependency Injection](https://dev.to/ag2ai/tools-with-chatcontext-dependency-injection-187m)
+- [Comparing Amazon DynamoDB with Other NoSQL Databases: MongoDB and Cassandra](https://dev.to/imsushant12/comparing-amazon-dynamodb-with-other-nosql-databases-mongodb-and-cassandra-1h16)
+- [Be a 10x AI Developer with these 5 tools in 2025 ✅ 🚀](https://dev.to/shricodev/be-a-10x-ai-developer-with-these-5-tools-in-2025-213a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
