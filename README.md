@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Go&#39;s http.ServeMux Is All You Need](https://dev.to/leapcell/gos-httpservemux-is-all-you-need-1mam)
-- [Building Custom Insurance Policy Management Application 60% Faster](https://dev.to/openkoda/building-custom-insurance-policy-management-application-60-faster-667)
-- [Convert Dates to Persian Time in React](https://dev.to/joodi/convert-dates-to-persian-time-in-react-1a6e)
-- [Hack the Future: AI &amp; Open Source Hackathon - Wrapped Up!!](https://dev.to/abdibrokhim/hack-the-future-ai-open-source-hackathon-wrapped-up-30ak)
-- [Why do people choose to invest in crypto?](https://dev.to/cryptosandy/why-do-people-choose-to-invest-in-crypto-3ki3)
+- [Derpify.js – a tool for these trying times…](https://dev.to/codepo8/derpifyjs-a-tool-for-these-trying-times-4gmg)
+- [Meme Monday](https://dev.to/ben/meme-monday-419k)
+- [Here&#39;s What We Achieved! All the insights from recent… &quot;Hack the Future: AI &amp; Open Source Hackathon&quot;.](https://dev.to/abdibrokhim/heres-what-we-achieved-all-the-insights-from-recent-hack-the-future-ai-open-source-15p4)
+- [Stop wasting time on ontology setup](https://dev.to/falkordb/stop-wasting-time-on-ontology-setup-2m1h)
+- [Scenario-1,2,3](https://dev.to/neelakandan_ravi_2000/scenario-5hec)
 <!-- BLOG-POST-LIST:END -->
 
 ---
