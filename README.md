@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Internet Gateway en AWS Desde Cero](https://dev.to/camila_vinza/internet-gateway-en-aws-desde-cero-51b2)
+- [How to setup Nomba checkout on Woocommerce](https://dev.to/nomba-financial-service/how-to-setup-nomba-checkout-on-woocommerce-4o05)
 - [Building a Command Line Physics Calculations Application with an IIFE Module Pattern](https://dev.to/chukwuma1976/building-a-command-line-physics-calculations-application-with-an-iife-module-pattern-dbk)
 - [Deep Research in Few Minutes with Agent.ai](https://dev.to/ifihan/deep-research-in-few-minutes-with-agentai-163f)
 - [Starting My Programming Journey: Learning Python and Building the Future!](https://dev.to/najm_dine454/starting-my-programming-journey-learning-python-and-building-the-future-j05)
-- [CSS](https://dev.to/katherineh/css-5pl)
-- [Learning Cloud, One Step at a Time: My Resume Challenge Story](https://dev.to/divyanshi_nath_c92a6ad79b/learning-cloud-one-step-at-a-time-my-resume-challenge-story-4b3f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
