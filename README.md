@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [A Step-by-Step Guide to Install DeepSeek-R1 Locally with Ollama, vLLM or Transformers](https://dev.to/nodeshiftcloud/a-step-by-step-guide-to-install-deepseek-r1-locally-with-ollama-vllm-or-transformers-44a1)
+- [DevOps vs DevSecOps: Key Similarities and Critical Differences](https://dev.to/ram_fb361bc2f8f94e06772e2/devops-vs-devsecops-key-similarities-and-critical-differences-42hh)
 - [AWS open source newsletter, #206](https://dev.to/aws/aws-open-source-newsletter-206-3l9f)
+- [Initial load performance for React developers: investigative deep dive](https://dev.to/adevnadia/initial-load-performance-for-react-developers-investigative-deep-dive-ani)
 - [Uncertain number but regular column to row conversion:From SQL to SPL#5](https://dev.to/esproc_spl/cross-database-migratable-reports-spl-reportingfrom-sql-to-spl5-4cle)
-- [🚀 API, Styling, and Frameworks: A Comprehensive Developer’s Guide](https://dev.to/0x2e_tech/api-styling-and-frameworks-a-comprehensive-developers-guide-4ag1)
-- [Agent: Content summariser](https://dev.to/saloni0512/agent-content-summariser-38f9)
-- [ResearchByte: Techy+bite-sized videos in minutes](https://dev.to/dhanushreddy29/researchbyte-techybite-sized-videos-in-minutes-3a1l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
