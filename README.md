@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Preventing Race Conditions in Laravel Applications](https://dev.to/pentest_testing_corp/preventing-race-conditions-in-laravel-applications-5b6e)
+- [🚀 Mastering Callbacks and Promises in JavaScript : A Complete Guide to Asynchronous Programming](https://dev.to/dct_technologyprivatelimited/mastering-callbacks-and-promises-in-javascript-a-complete-guide-to-asynchronous-programming-4mco)
 - [Solving the Emoji Rendering Issue: A Comprehensive Guide](https://dev.to/nixx/solving-the-emoji-rendering-issue-a-comprehensive-guide-jn2)
-- [Did you know you can secure WordPress admin URL without a plugin?](https://dev.to/web_dev-usman/did-you-know-you-can-secure-wordpress-admin-url-without-a-plugin-5gkj)
-- [WAR, JAR, EAR, and TAR - Archive file formats](https://dev.to/mrcaption49/war-jar-ear-and-tar-archive-file-formats-10gb)
-- [Continuous Integration/Continuous Deployment &lpar;CI/CD&rpar; process](https://dev.to/mrcaption49/continuous-integrationcontinuous-deployment-cicd-process-2304)
-- [Do You Really Need a Whole Team to Build an Android App?](https://dev.to/dhruvjoshi9/do-you-really-need-a-whole-team-to-build-an-android-app-4fm9)
+- [Introduction to KQL and Basic Commands](https://dev.to/balagmadhu/introduction-to-kql-and-basic-commands-36k3)
+- [Mastering Docker Image Management with GitHub Actions and Container Registries](https://dev.to/kherld/mastering-docker-image-management-with-github-actions-and-container-registries-1lda)
 <!-- BLOG-POST-LIST:END -->
 
 ---
