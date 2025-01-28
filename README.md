@@ -16,7 +16,7 @@
 # Latest stack oveflow activity
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><tr><td>How to check non-constant array</td><td>https://stackoverflow.com/questions/79393996/how-to-check-non-constant-array</td></tr><tr><td>How to remove this black screen? [closed]</td><td>https://stackoverflow.com/questions/79393961/how-to-remove-this-black-screen</td></tr><tr><td>Model write actions as job</td><td>https://stackoverflow.com/questions/79393955/model-write-actions-as-job</td></tr><tr><td>How can I correctly apply a coupon discount to an order when creating it programmatically?</td><td>https://stackoverflow.com/questions/79393849/how-can-i-correctly-apply-a-coupon-discount-to-an-order-when-creating-it-program</td></tr><tr><td>Laravel Sanctum middleware issue</td><td>https://stackoverflow.com/questions/79393842/laravel-sanctum-middleware-issue</td></tr><!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:START --><tr><td>which db server is best for hosting a numerous user app [closed]</td><td>https://stackoverflow.com/questions/79394205/which-db-server-is-best-for-hosting-a-numerous-user-app</td></tr><tr><td>PHP preg_replace insert special character tab [duplicate]</td><td>https://stackoverflow.com/questions/79394125/php-preg-replace-insert-special-character-tab</td></tr><tr><td>How to check non-constant array</td><td>https://stackoverflow.com/questions/79393996/how-to-check-non-constant-array</td></tr><tr><td>How to remove this black screen? [closed]</td><td>https://stackoverflow.com/questions/79393961/how-to-remove-this-black-screen</td></tr><tr><td>Model write actions as job</td><td>https://stackoverflow.com/questions/79393955/model-write-actions-as-job</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 
 ---
