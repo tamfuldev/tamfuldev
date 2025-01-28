@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Optimize Vite Build Time: A Comprehensive Guide](https://dev.to/perisicnikola37/optimize-vite-build-time-a-comprehensive-guide-4c99)
-- [&quot;ngrok&quot; from scratch](https://dev.to/woovi/ngrok-from-scratch-be3)
-- [ML and EDA App Deployment](https://dev.to/ndumbe0/ml-and-eda-app-deployment-5ddi)
-- [🔥Awesome Git Chrome Extensions😎](https://dev.to/dev_kiran/awesome-git-chrome-extensions-3gla)
-- [Integrating APIs with frontend framework jQuery](https://dev.to/kelvincode1234/integrating-apis-with-frontend-framework-jquery-ccb)
+- [Build a Scalable Data Pipeline with JavaScript? Yes, You Can](https://dev.to/digitalminds/build-a-scalable-data-pipeline-with-javascript-yes-you-can-101j)
+- [DeepSeek R1: A Comprehensive Overview](https://dev.to/simplr_sh/deepseek-r1-a-comprehensive-overview-3j0c)
+- [🚀 Your Daily Crypto Job Digest For 28 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-28-january-lg9)
+- [Containerizing a Node.js Application with Docker](https://dev.to/manthanank/containerizing-a-nodejs-application-with-docker-33dn)
+- [Top 9 IT Staff Augmentation Companies to Consider in 2025](https://dev.to/dhruvil_joshi14/top-9-it-staff-augmentation-companies-to-consider-in-2025-55bn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
