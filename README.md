@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Scalable Data Pipeline with JavaScript? Yes, You Can](https://dev.to/digitalminds/build-a-scalable-data-pipeline-with-javascript-yes-you-can-101j)
-- [DeepSeek R1: A Comprehensive Overview](https://dev.to/simplr_sh/deepseek-r1-a-comprehensive-overview-3j0c)
-- [🚀 Your Daily Crypto Job Digest For 28 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-28-january-lg9)
-- [Containerizing a Node.js Application with Docker](https://dev.to/manthanank/containerizing-a-nodejs-application-with-docker-33dn)
-- [Top 9 IT Staff Augmentation Companies to Consider in 2025](https://dev.to/dhruvil_joshi14/top-9-it-staff-augmentation-companies-to-consider-in-2025-55bn)
+- [Real-time Collaborative Data Science: The Container Way](https://dev.to/spicecoder/real-time-collaborative-data-science-the-container-way-1en4)
+- [Here&#39;s an extended look at Gemini in Android XR on the Samsung mixed reality headset](https://dev.to/future_arvr/heres-an-extended-look-at-gemini-in-android-xr-on-the-samsung-mixed-reality-headset-b06)
+- [DeepSeek R1 vs Kimi K1.5: A Comprehensive Comparison](https://dev.to/simplr_sh/deepseek-r1-vs-kimi-k15-a-comprehensive-comparison-kn7)
+- [Collaborative Science: Terraform to Manage Containers Without Local Docker Desktop](https://dev.to/spicecoder/-collaborative-science-terraform-to-manage-containers-without-local-docker-desktop-2m5k)
+- [It&#39;s VOTING TIME! 🥳. Here are a few things to keep in mind for this phase.](https://dev.to/abdibrokhim/its-voting-time-here-are-a-few-things-to-keep-in-mind-for-this-phase-2hj0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
