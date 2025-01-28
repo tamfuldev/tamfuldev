@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Solving the Emoji Rendering Issue: A Comprehensive Guide](https://dev.to/nixx/solving-the-emoji-rendering-issue-a-comprehensive-guide-jn2)
+- [Did you know you can secure WordPress admin URL without a plugin?](https://dev.to/web_dev-usman/did-you-know-you-can-secure-wordpress-admin-url-without-a-plugin-5gkj)
+- [WAR, JAR, EAR, and TAR - Archive file formats](https://dev.to/mrcaption49/war-jar-ear-and-tar-archive-file-formats-10gb)
 - [Continuous Integration/Continuous Deployment &lpar;CI/CD&rpar; process](https://dev.to/mrcaption49/continuous-integrationcontinuous-deployment-cicd-process-2304)
 - [Do You Really Need a Whole Team to Build an Android App?](https://dev.to/dhruvjoshi9/do-you-really-need-a-whole-team-to-build-an-android-app-4fm9)
-- [Journey From Java file to a JAR file](https://dev.to/mrcaption49/journey-from-java-file-to-a-jar-file-6bn)
-- [Does CSS Block Parsing and Rendering? A Detailed Analysis](https://dev.to/leapcell/does-css-block-parsing-and-rendering-a-detailed-analysis-1hhe)
-- [What is Sublimation? Importance of Sublimation Printing](https://dev.to/182312/what-is-sublimation-importance-of-sublimation-printing-2anp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
