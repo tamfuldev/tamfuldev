@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Continuous Integration/Continuous Deployment &lpar;CI/CD&rpar; process](https://dev.to/mrcaption49/continuous-integrationcontinuous-deployment-cicd-process-2304)
+- [Do You Really Need a Whole Team to Build an Android App?](https://dev.to/dhruvjoshi9/do-you-really-need-a-whole-team-to-build-an-android-app-4fm9)
+- [Journey From Java file to a JAR file](https://dev.to/mrcaption49/journey-from-java-file-to-a-jar-file-6bn)
+- [Does CSS Block Parsing and Rendering? A Detailed Analysis](https://dev.to/leapcell/does-css-block-parsing-and-rendering-a-detailed-analysis-1hhe)
 - [What is Sublimation? Importance of Sublimation Printing](https://dev.to/182312/what-is-sublimation-importance-of-sublimation-printing-2anp)
-- [Custom logging in Next.js](https://dev.to/theogravity/custom-logging-in-nextjs-2epm)
-- [Running DeepSeek Janus-Pro-1B in the Browser: A Comprehensive Guide](https://dev.to/emojiiii/running-deepseek-janus-pro-1b-in-the-browser-a-step-by-step-guide-kj2)
-- [libuv e Lua](https://dev.to/joao_neto/libuv-e-lua-3d30)
-- [2025: Where I Am / Where I Want To Be](https://dev.to/bytehala/2025-digitally-nomadic-ke6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
