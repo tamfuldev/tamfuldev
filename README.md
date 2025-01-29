@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Currying in JavaScript](https://dev.to/mmvergara/currying-in-javascript-3i48)
-- [Django + Heroku : Guide Complet de Déploiement 2025 🚀](https://dev.to/developpeurtaf/django-heroku-guide-complet-de-deploiement-2025-390b)
-- [FooApi Updates: Your All-in-One Fake API](https://dev.to/carban/fooapi-updates-your-all-in-one-fake-api-3cd)
-- [Build a Secure CI/CD Pipeline for Amazon EKS Using GitHub Actions and AWS OIDC](https://dev.to/dhayv/build-a-secure-cicd-pipeline-for-amazon-eks-using-github-actions-and-aws-oidc-3b0m)
-- [Computer Networking: Key Interview Questions and Learning Points](https://dev.to/ryan_zhi/computer-networking-key-interview-questions-and-learning-points-4onf)
+- [Frontend Fundamentals 2/20](https://dev.to/c6z3h/frontend-fundamentals-220-15e7)
+- [The Ultimate Guide to Debugging Your Code](https://dev.to/kakacomputer-media/the-ultimate-guide-to-debugging-your-code-p8d)
+- [Why JAVA](https://dev.to/ramya_kamalasekaran/why-java-59jp)
+- [Stop Feeling Like A Fraud &lpar;Imposter Syndrome Explained&rpar;](https://dev.to/kakacomputer-media/stop-feeling-like-a-fraud-imposter-syndrome-explained-59pi)
+- [You&#39;re thinking about passkeys wrong](https://dev.to/yawaramin/youre-thinking-about-passkeys-wrong-171o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
