@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🦄 6 CSS Snippets, Audible’s UX Insights &amp; 350ms LCP](https://dev.to/adam/6-css-snippets-audibles-ux-insights-350ms-lcp-2d0g)
-- [A Neural Network Architecture That Thinks, Adapts &amp; Creates](https://dev.to/okerew/a-neural-network-architecture-that-thinks-adapts-creates-5mp)
-- [Hash in SQL: A Key Concept for Data Engineers](https://dev.to/aragorn_talks/hash-in-sql-a-key-concept-for-data-engineers-4cda)
-- [Power Pages SPA: login redirect Part 2](https://dev.to/andrewelans/power-pages-spa-login-redirect-part-2-o79)
-- [🚀 Your Daily Crypto Job Digest For 29 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-29-january-2bgk)
+- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/stack_dev/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-4929)
+- [Solidity Crash Course - Part 02: Smart Contracts](https://dev.to/ayaz/solidity-crash-course-part-02-2f2l)
+- [SQL query optimization techniques](https://dev.to/sborhade/sql-query-optimization-techniques-47fd)
+- [TEST](https://dev.to/rudrabhardwaj/test-3i3k)
+- [HNG DevOps Stage 0 - Setting Up Nginx](https://dev.to/deltroncodes/hng-devops-stage-0-setting-up-nginx-5a5g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
