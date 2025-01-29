@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Python Performance Tips You Must Know](https://dev.to/leapcell/python-performance-tips-you-must-know-24n5)
-- [The case against ORMs](https://dev.to/cies/the-case-against-orms-5bh4)
-- [One of our best articles so far!](https://dev.to/uliyahoo/one-of-our-best-articles-so-far-1mih)
-- [While Loop](https://dev.to/sathish_balaji_2003/while-loop-2fe4)
-- [The Fluttery Framework](https://dev.to/andrious/the-fluttery-framework-3kbn)
+- [Hypermedia as the Engine of Application State &lpar;HATEOAS&rpar;](https://dev.to/lovestaco/hypermedia-as-the-engine-of-application-state-hateoas-245f)
+- [Celebrating The Top Search-Tech Voices for 2025 🏆](https://dev.to/zevireinitz/celebrating-the-top-search-tech-voices-for-2025-1gj4)
+- [Stop Wasting Time on Outdated TypeScript Starters – Meet TypeZero 🚀](https://dev.to/mislam/stop-wasting-time-on-outdated-typescript-starters-meet-typezero-4eig)
+- [SSE &lpar;service side events&rpar; example to update a table](https://dev.to/verax5/sse-service-side-events-example-to-update-a-table-46m1)
+- [Building a Flexible Share System in React with the Web Share API](https://dev.to/miracleio/building-a-flexible-share-system-in-react-with-the-web-share-api-5fi0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
