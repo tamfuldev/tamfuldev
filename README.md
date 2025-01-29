@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [React 19: Exciting Updates You Need To Know](https://dev.to/austinwdigital/react-19-exciting-updates-you-need-to-know-45ee)
-- [Beginner guide to NGINX: Hosting Your First Website On NGINX.](https://dev.to/og_dmerlin_d79f81b3a358b6/beginner-guide-to-nginx-hosting-your-first-website-on-nginx-299m)
-- [&quot;Unlocking Emotion and Identity: Innovations in AI Speech and VR User Recognition&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-emotion-and-identity-innovations-in-ai-speech-and-vr-user-recognition-17f8)
-- [Por qué Migré Mi Aplicación Laravel a AWS Serverless &lpar;Y Por Qué Podría Ahorrarte Tiempo y Dinero&rpar;](https://dev.to/hschimpf/por-que-migre-mi-aplicacion-laravel-a-aws-serverless-y-por-que-podria-ahorrarte-tiempo-y-dinero-6hp)
-- [Journey of Enhanced &amp; Mindful Architecture - Part 2](https://dev.to/aws-builders/journey-of-enhanced-mindful-architecture-part-2-m7e)
+- [Currying in JavaScript](https://dev.to/mmvergara/currying-in-javascript-3i48)
+- [Django + Heroku : Guide Complet de Déploiement 2025 🚀](https://dev.to/developpeurtaf/django-heroku-guide-complet-de-deploiement-2025-390b)
+- [FooApi Updates: Your All-in-One Fake API](https://dev.to/carban/fooapi-updates-your-all-in-one-fake-api-3cd)
+- [Build a Secure CI/CD Pipeline for Amazon EKS Using GitHub Actions and AWS OIDC](https://dev.to/dhayv/build-a-secure-cicd-pipeline-for-amazon-eks-using-github-actions-and-aws-oidc-3b0m)
+- [Computer Networking: Key Interview Questions and Learning Points](https://dev.to/ryan_zhi/computer-networking-key-interview-questions-and-learning-points-4onf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
