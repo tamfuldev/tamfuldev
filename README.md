@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [spring-013: spring-boot-application-bean-lifecycle-comprehensive-execution-order-with-related-methods](https://dev.to/hunor85/spring-013-20n1)
-- [Dark Reader - Chrome Extension Overview](https://dev.to/cloudnative_eng/dark-reader-chrome-extension-overview-2dll)
-- [vCluster Consulting and Support Partner for Enterprises](https://dev.to/infracloud/vcluster-consulting-and-support-partner-for-enterprises-3ooe)
-- [How I create my apps fast?](https://dev.to/mr69/how-i-create-my-apps-fast-2l3h)
-- [How to Design a Manual Juicer Using 3D CAD Software](https://dev.to/julia970/how-to-design-a-manual-juicer-using-3d-cad-software-26e2)
+- [🦄 6 CSS Snippets, Audible’s UX Insights &amp; 350ms LCP](https://dev.to/adam/6-css-snippets-audibles-ux-insights-350ms-lcp-2d0g)
+- [A Neural Network Architecture That Thinks, Adapts &amp; Creates](https://dev.to/okerew/a-neural-network-architecture-that-thinks-adapts-creates-5mp)
+- [Hash in SQL: A Key Concept for Data Engineers](https://dev.to/aragorn_talks/hash-in-sql-a-key-concept-for-data-engineers-4cda)
+- [Power Pages SPA: login redirect Part 2](https://dev.to/andrewelans/power-pages-spa-login-redirect-part-2-o79)
+- [🚀 Your Daily Crypto Job Digest For 29 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-29-january-2bgk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
