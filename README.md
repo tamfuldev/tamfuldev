@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Breaking into Tech](https://dev.to/emzydev/breaking-into-tech-4g9g)
-- [Running multiple MySQL versions on macOS: A Step-by-Step Guide](https://dev.to/musa11971/running-multiple-mysql-versions-on-macos-a-step-by-step-guide-4i24)
-- [Breaking into Tech, Essential Qualities to get you started](https://dev.to/emzydev/breaking-into-tech-essential-qualities-to-get-you-started-3pm3)
-- [Kubernetes Quality of Service &lpar;QoS&rpar; classes with examples and YAML snippets](https://dev.to/bowale/kubernetes-quality-of-service-qos-classes-with-examples-and-yaml-snippets-144n)
-- [What Text Area Popovers Taught Me About Browser APIs](https://dev.to/blackgirlbytes/what-text-area-popovers-taught-me-about-browser-apis-9cf)
+- [React 19: Exciting Updates You Need To Know](https://dev.to/austinwdigital/react-19-exciting-updates-you-need-to-know-45ee)
+- [Beginner guide to NGINX: Hosting Your First Website On NGINX.](https://dev.to/og_dmerlin_d79f81b3a358b6/beginner-guide-to-nginx-hosting-your-first-website-on-nginx-299m)
+- [&quot;Unlocking Emotion and Identity: Innovations in AI Speech and VR User Recognition&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-emotion-and-identity-innovations-in-ai-speech-and-vr-user-recognition-17f8)
+- [Por qué Migré Mi Aplicación Laravel a AWS Serverless &lpar;Y Por Qué Podría Ahorrarte Tiempo y Dinero&rpar;](https://dev.to/hschimpf/por-que-migre-mi-aplicacion-laravel-a-aws-serverless-y-por-que-podria-ahorrarte-tiempo-y-dinero-6hp)
+- [Journey of Enhanced &amp; Mindful Architecture - Part 2](https://dev.to/aws-builders/journey-of-enhanced-mindful-architecture-part-2-m7e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
