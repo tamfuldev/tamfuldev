@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [j-DataGrid — Total.js part 1](https://dev.to/palo/j-datagrid-totaljs-part-1-1mkj)
-- [🤯 Alibaba Just Dropped Qwen 2.5 — And It’s Shaking Up the AI World](https://dev.to/codedetech/alibaba-just-dropped-qwen-25-and-its-shaking-up-the-ai-world-1eg1)
-- [Overview of ICO Platform and its Future Trends](https://dev.to/abijohn/overview-of-ico-platform-and-its-future-trends-4cm)
-- [Photo collage tool made in Python with PIL](https://dev.to/al3xsus/photo-collage-tool-made-in-python-with-pil-46cb)
-- [Introduction to Trunk-Based Development](https://dev.to/bucketdotco/introduction-to-trunk-based-development-5hen)
+- [Kubernetes Security Checklist: Essential Steps to Secure Your Cluster](https://dev.to/krupa_bhimani_1119cab2abc/kubernetes-security-checklist-233n)
+- [you know about this tools?](https://dev.to/khushindpatel/-5he)
+- [Browser Agent Starter Guide](https://dev.to/emilanker/browser-agent-starter-guide-434h)
+- [Mastering Hybrid Video Meetings for Seamless Collaboration](https://dev.to/krideo/mastering-hybrid-video-meetings-for-seamless-collaboration-2041)
+- [React vs Svelte: A Performance Benchmarking](https://dev.to/im_sonujangra/react-vs-svelte-a-performance-benchmarking-33n4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
