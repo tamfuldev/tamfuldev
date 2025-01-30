@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript vs JavaScript: A short To the point comparison](https://dev.to/web_dev-usman/typescript-vs-javascript-a-short-to-the-point-comparison-4m82)
-- [What a good day &lt;3](https://dev.to/luan_nguyen_2398ce096f448/what-a-good-day-3-4623)
-- [Map&lpar;&rpar;, Filter&lpar;&rpar;, Reduce&lpar;&rpar; javascript array method](https://dev.to/pranit_karkera/map-filter-reduce-javascript-array-method-2khj)
-- [Why so few Women are coding?](https://dev.to/framemuse/why-so-few-women-are-coding-45ef)
-- [Roadmap to make useful AI Agents — and levels of makers](https://dev.to/ashgkwd/roadmap-to-make-useful-ai-agents-and-levels-of-makers-4njg)
+- [Prevent DNS Rebinding in Laravel: A Comprehensive Guide](https://dev.to/pentest_testing_corp/prevent-dns-rebinding-in-laravel-a-comprehensive-guide-4gmi)
+- [“Indian Root Bridge” - Integration Approach to Connect Systems](https://dev.to/bhagvank/indian-root-bridge-integration-approach-to-connect-systems-77j)
+- [Embedding JSFiddle in dev.to Articles](https://dev.to/manoj_004d/embedding-jsfiddle-in-devto-articles-1in5)
+- [🚀 Implement Passwordless Auth with MojoAuth in 10 Minutes &lpar;Yes, Really!&rpar;](https://dev.to/mojoauth/implement-passwordless-auth-with-mojoauth-in-10-minutes-yes-really-55lb)
+- [Data Structure Basics](https://dev.to/vimala_jeyakumar_de64a9b2/data-structure-basics-214d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
