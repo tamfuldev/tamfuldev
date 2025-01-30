@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Power of React Component Libraries: Elevate Your Development Process](https://dev.to/sencha_reext/unlocking-the-power-of-react-component-libraries-elevate-your-development-process-2bjg)
-- [Authorization in Golang](https://dev.to/ortizdavid/authorization-in-golang-52oj)
-- [spring-014: mvn spring-boot:run-lifecycle-phases](https://dev.to/hunor85/spring-014-mvn-spring-bootrun-lifecycle-phases-18g9)
-- [Build a Browser Use Agent with DeepSeek: A Step-by-Step Guide](https://dev.to/nodeshiftcloud/build-a-browser-use-agent-with-deepseek-a-step-by-step-guide-2n59)
-- [How AI Agents Are Redefining Healthcare and Patient Care](https://dev.to/solutelabs/how-ai-agents-are-redefining-healthcare-and-patient-care-23cg)
+- [j-DataGrid — Total.js part 1](https://dev.to/palo/j-datagrid-totaljs-part-1-1mkj)
+- [🤯 Alibaba Just Dropped Qwen 2.5 — And It’s Shaking Up the AI World](https://dev.to/codedetech/alibaba-just-dropped-qwen-25-and-its-shaking-up-the-ai-world-1eg1)
+- [Overview of ICO Platform and its Future Trends](https://dev.to/abijohn/overview-of-ico-platform-and-its-future-trends-4cm)
+- [Photo collage tool made in Python with PIL](https://dev.to/al3xsus/photo-collage-tool-made-in-python-with-pil-46cb)
+- [Introduction to Trunk-Based Development](https://dev.to/bucketdotco/introduction-to-trunk-based-development-5hen)
 <!-- BLOG-POST-LIST:END -->
 
 ---
