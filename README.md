@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Deep Dive into TypeScript&#39;s infer Keyword](https://dev.to/leapcell/a-deep-dive-into-typescripts-infer-keyword-1o4b)
-- [Cloud Networking Showdown: AWS VPC vs. Azure VNET vs. Google Cloud VPC](https://dev.to/shreya111111/cloud-networking-showdown-aws-vpc-vs-azure-vnet-vs-google-cloud-vpc-5e61)
-- [AI Agents in Manufacturing: A New Era of Excellence](https://dev.to/brucewayne12/ai-agents-in-manufacturing-a-new-era-of-excellence-43d9)
-- [WELCOME!](https://dev.to/jayani-n/welcome-nng)
-- [Setting Up NGINX on a Google Cloud Ubuntu Server: A DevOps Stage 0 Experience](https://dev.to/salakonba/setting-up-nginx-on-a-google-cloud-ubuntu-server-a-devops-stage-0-experience-4fbc)
+- [React Scan - Best choise for FE dev](https://dev.to/nddev_18/react-scan-best-choise-for-fe-dev-1mnl)
+- [Learning DevOps 30/01](https://dev.to/ashray_sam/learning-devops-2901-1hk2)
+- [Building a personal blogging platform with Next.js and Encore.ts](https://dev.to/encore/building-a-personal-blogging-platform-with-nextjs-and-encorets-44fh)
+- [How to Sort a Map in JavaScript?](https://dev.to/askyt/how-to-sort-a-map-in-javascript-324a)
+- [How to iterate over Map elements in JavaScript ?](https://dev.to/askyt/how-to-iterate-over-map-elements-in-javascript--3g3o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
