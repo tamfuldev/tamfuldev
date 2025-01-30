@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [React Scan - Best choise for FE dev](https://dev.to/nddev_18/react-scan-best-choise-for-fe-dev-1mnl)
-- [Learning DevOps 30/01](https://dev.to/ashray_sam/learning-devops-2901-1hk2)
-- [Building a personal blogging platform with Next.js and Encore.ts](https://dev.to/encore/building-a-personal-blogging-platform-with-nextjs-and-encorets-44fh)
-- [How to Sort a Map in JavaScript?](https://dev.to/askyt/how-to-sort-a-map-in-javascript-324a)
-- [How to iterate over Map elements in JavaScript ?](https://dev.to/askyt/how-to-iterate-over-map-elements-in-javascript--3g3o)
+- [Pretty much all the most popular DEV posts this week are DeepSeek-related](https://dev.to/ben/pretty-much-all-the-most-popular-dev-posts-this-week-are-deepseek-related-3cbh)
+- [10 𝑩𝒆𝒔𝒕 𝑭𝒓𝒆𝒆 𝑻𝒂𝒊𝒍𝒘𝒊𝒏𝒅-𝑩𝒂𝒔𝒆𝒅 𝑼𝑰 𝑪𝒐𝒎𝒑𝒐𝒏𝒆𝒏𝒕 𝑳𝒊𝒃𝒓𝒂𝒓𝒊𝒆𝒔 𝒇𝒐𝒓 𝒀𝒐𝒖𝒓 𝑵𝒆𝒙𝒕 𝑷𝒓𝒐𝒋𝒆𝒄𝒕](https://dev.to/yakhilesh/10--31g3)
+- [while loop](https://dev.to/neelakandan_ravi_2000/while-loop-20ee)
+- [How to check if a component is a forward ref component in React?](https://dev.to/ramunarasinga-11/how-to-check-if-a-component-is-a-forward-ref-component-in-react-178f)
+- [CKA examples](https://dev.to/cheedge_lee/cka-examples-1bgd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
