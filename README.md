@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [💻 IDE Integration: Supercharging Productivity ✔](https://dev.to/sarvar_04/ide-integration-supercharging-productivity-pap)
-- [How to Create, Run, &amp; Manage Laravel Migrations](https://dev.to/buttercms/how-to-create-run-manage-laravel-migrations-3o6d)
-- [text-Editor VSCODE Without Mouse](https://dev.to/ngouend_gerard_90/text-editor-vscode-without-mouse-2k3o)
-- [React: Unveiling the Story Behind Its Name and Iconic Logo!](https://dev.to/geetanshchahal/react-unveiling-the-story-behind-its-name-and-iconic-logo-56ho)
-- [if else and nested if in java:](https://dev.to/kaviyak/if-else-and-nested-if-in-java-28m5)
+- [HNG Stage 0: NGINX Web Server Task](https://dev.to/calebsgram/hng-stage-0-nginx-web-server-task-5f0j)
+- [Deploy DeepSeek R1 to AWS EC2](https://dev.to/fpmortal/deploy-deepseek-r1-to-aws-ec2-n78)
+- [Qwen 2.5 Max vs. DeepSeek V3 &lpar;R1&rpar; Benchmark](https://dev.to/mehmetakar/qwen-25-max-vs-deepseek-v3-r1-benchmark-49be)
+- [Criando uma API de Live Streaming com NestJS](https://dev.to/andersonzero0/criando-uma-api-de-live-streaming-com-nestjs-18n0)
+- [Data Acronym Overload: ETL vs ELT, Data Lakes vs Warehouses, Parquet vs CSV, and More](https://dev.to/burcs/data-acronym-overload-etl-vs-elt-data-lakes-vs-warehouses-parquet-vs-csv-and-more-5c4c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
