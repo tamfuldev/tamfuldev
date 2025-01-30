@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Pretty much all the most popular DEV posts this week are DeepSeek-related](https://dev.to/ben/pretty-much-all-the-most-popular-dev-posts-this-week-are-deepseek-related-3cbh)
-- [10 𝑩𝒆𝒔𝒕 𝑭𝒓𝒆𝒆 𝑻𝒂𝒊𝒍𝒘𝒊𝒏𝒅-𝑩𝒂𝒔𝒆𝒅 𝑼𝑰 𝑪𝒐𝒎𝒑𝒐𝒏𝒆𝒏𝒕 𝑳𝒊𝒃𝒓𝒂𝒓𝒊𝒆𝒔 𝒇𝒐𝒓 𝒀𝒐𝒖𝒓 𝑵𝒆𝒙𝒕 𝑷𝒓𝒐𝒋𝒆𝒄𝒕](https://dev.to/yakhilesh/10--31g3)
-- [while loop](https://dev.to/neelakandan_ravi_2000/while-loop-20ee)
-- [How to check if a component is a forward ref component in React?](https://dev.to/ramunarasinga-11/how-to-check-if-a-component-is-a-forward-ref-component-in-react-178f)
-- [CKA examples](https://dev.to/cheedge_lee/cka-examples-1bgd)
+- [13 top open-source tools to Supercharge web development in 2025🎉 🚀](https://dev.to/composiodev/13-top-open-source-tools-to-supercharge-web-development-in-2025-1d81)
+- [Beginning a Series on RAG for Nordic APIs](https://dev.to/jsimpson/beginning-a-series-on-rag-for-nordic-apis-3nl8)
+- [Top 20 Python Projects for Beginners](https://dev.to/tarunfulera1/top-20-python-projects-for-beginners-1ka)
+- [Securing APIs: Techniques and Best Practices for Security](https://dev.to/claranet/securing-apis-techniques-and-best-practices-for-security-14ik)
+- [Capítulo 12: Serialização](https://dev.to/javaefetivo/capitulo-12-serializacao-3jng)
 <!-- BLOG-POST-LIST:END -->
 
 ---
