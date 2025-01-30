@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Master Props in React: The Beginner’s Guide You Need! 🚀](https://dev.to/dct_technologyprivatelimited/master-props-in-react-the-beginners-guide-you-need-1md2)
-- [What Is DeepSeek? Why Is DeepSeek Suddenly Everywhere? Why Is It Shaking Up the AI World?](https://dev.to/swayam_248/what-is-deepseek-why-is-deepseek-suddenly-everywhere-why-is-it-shaking-up-the-ai-world-250f)
-- [Explore Essential tools of Laravel - Composer and Artisan with Useful commands](https://dev.to/thedevricha/explore-essential-tools-of-laravel-composer-and-artisan-with-useful-commands-13in)
-- [Abandon Web2 and Join Web3](https://dev.to/ourai/abandon-web2-and-join-web3-46k3)
-- [Essential Laravel Commands Every Developer Should Know](https://dev.to/thedevricha/essential-laravel-commands-every-developer-should-know-5c04)
+- [TypeScript vs JavaScript: A short To the point comparison](https://dev.to/web_dev-usman/typescript-vs-javascript-a-short-to-the-point-comparison-4m82)
+- [What a good day &lt;3](https://dev.to/luan_nguyen_2398ce096f448/what-a-good-day-3-4623)
+- [Map&lpar;&rpar;, Filter&lpar;&rpar;, Reduce&lpar;&rpar; javascript array method](https://dev.to/pranit_karkera/map-filter-reduce-javascript-array-method-2khj)
+- [Why so few Women are coding?](https://dev.to/framemuse/why-so-few-women-are-coding-45ef)
+- [Roadmap to make useful AI Agents — and levels of makers](https://dev.to/ashgkwd/roadmap-to-make-useful-ai-agents-and-levels-of-makers-4njg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
