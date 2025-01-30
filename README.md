@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [13 top open-source tools to Supercharge web development in 2025🎉 🚀](https://dev.to/composiodev/13-top-open-source-tools-to-supercharge-web-development-in-2025-1d81)
-- [Beginning a Series on RAG for Nordic APIs](https://dev.to/jsimpson/beginning-a-series-on-rag-for-nordic-apis-3nl8)
-- [Top 20 Python Projects for Beginners](https://dev.to/tarunfulera1/top-20-python-projects-for-beginners-1ka)
-- [Securing APIs: Techniques and Best Practices for Security](https://dev.to/claranet/securing-apis-techniques-and-best-practices-for-security-14ik)
-- [Capítulo 12: Serialização](https://dev.to/javaefetivo/capitulo-12-serializacao-3jng)
+- [OAuth vs SAML vs OpenID: A Beginner-Friendly Guide](https://dev.to/lovestaco/oauth-vs-saml-vs-openid-a-beginner-friendly-guide-3l7o)
+- [Implementing feedback loops](https://dev.to/574n13y/implementing-feedback-loops-4l0o)
+- [Configuring Nginx on an EC2 Instance.](https://dev.to/israeldotcom/configuring-nginx-on-an-ec2-instance-1ihb)
+- [Tutorial: Credit card cracking explained — and how to prevent it](https://dev.to/fingerprintjs/tutorial-credit-card-cracking-explained-and-how-to-prevent-it-10im)
+- [Cookbook App Help](https://dev.to/aquamanly/cookbook-ph4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
