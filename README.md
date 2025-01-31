@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Practical use of the event.stopPropagation React MUI Data Grid: Allowing Arrow Key Navigation for Input Fields](https://dev.to/rajeshroyal/practical-use-of-the-eventstoppropagation-react-mui-data-grid-allowing-arrow-key-navigation-for-571a)
-- [Minimal VSCode: How I Crafted a Clean, Keyboard-Driven Coding Setup](https://dev.to/tipomrsk/minimal-vscode-how-i-crafted-a-clean-keyboard-driven-coding-setup-401d)
-- [Set up Docker For NestJs](https://dev.to/tak089/set-up-docker-for-nestjs-3gib)
-- [How Does a Compiler Work?](https://dev.to/sovannaro/how-does-a-compiler-work-o87)
-- [เรียนภาษาใหม่ก็สนุกดี นะ เหมือน bash+powershell](https://dev.to/dvgamerr/eriiynphaasaaaihmksnukdii-na-ehmuuen-bashpowershell-5b2k)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2ek)
+- [Limitations of React v19 `use` API in Full Stack Frameworks](https://dev.to/nancy_kataria/limitations-of-react-v19-use-api-in-full-stack-frameworks-5fop)
+- [Absolute paths for assets in iOS &amp; Android Cordova apps](https://dev.to/tylerlwsmith/absolute-paths-for-assets-in-ios-android-cordova-apps-mn8)
+- [Master Special Permissions in Linux While Your Coffee Brews](https://dev.to/nedtechie/master-special-permissions-in-linux-while-your-coffee-brews-4ea9)
+- [TIC TAC TOE](https://dev.to/vexoz_agent_a9534e5b59d2e/tic-tac-toe-10hk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
