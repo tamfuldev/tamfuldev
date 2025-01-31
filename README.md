@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [awesome](https://dev.to/brunociccarino/awesome-3p6e)
-- [Plan and main algorithms](https://dev.to/tmshbai/plan-and-main-algorithms-2c28)
-- [To-do List](https://dev.to/farouk_/to-do-list-1fi0)
-- [AI Agents for Smarter Company Research in KaibanJS](https://dev.to/kaibanjs/ai-agents-for-smarter-company-research-in-kaibanjs-3chk)
-- [JavaScript](https://dev.to/feyisayo_37/javascript-3nno)
+- [Data science](https://dev.to/asquare952/data-science-3p9)
+- [New Remote Job Just Dropped - Teledriving](https://dev.to/patchnotes_/new-remote-job-just-dropped-teledriving-8m6)
+- [Safeguarding Your Data When Using DeepSeek R1 In RAG Pipelines - Part 1](https://dev.to/authzed/safeguarding-your-data-when-using-deepseek-r1-in-rag-pipelines-part-1-31d2)
+- [CORS Nightmares: The One Missing Protocol That Broke Everything 😅](https://dev.to/thatnoobdev/cors-nightmares-the-one-missing-protocol-that-broke-everything-kdj)
+- [Maven Project - Call python executable](https://dev.to/said_olano/maven-project-call-python-executable-3a5b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
