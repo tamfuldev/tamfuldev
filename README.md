@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A.I. Chat with your TypeScript Class &lpar;Every TypeScript Classes can be Super A.I. Chatbot&rpar;](https://dev.to/samchon/ai-chat-with-your-typescript-class-every-typescript-classes-can-be-super-ai-chatbot-51f)
-- [How I Configured NGINX on a Fresh Ubuntu Server: My Experience](https://dev.to/onlyfave/how-i-configured-nginx-on-a-fresh-ubuntu-server-my-experience-434b)
-- [Holographic Complex Function Visualization](https://dev.to/michael_morton_69ead6ddf7/holographic-complex-function-visualization-559c)
-- [Next.js Component Naming Conventions: Best Practices for File and Component Names](https://dev.to/vikasparmar/nextjs-component-naming-conventions-best-practices-for-file-and-component-names-39o2)
-- [The Story of Java: A Journey from an Oak Tree to Global Dominance....&lpar;Part 1&rpar;](https://dev.to/sona_08/the-story-of-java-a-journey-from-an-oak-tree-to-global-dominance-1gf8)
+- [awesome](https://dev.to/brunociccarino/awesome-3p6e)
+- [Plan and main algorithms](https://dev.to/tmshbai/plan-and-main-algorithms-2c28)
+- [To-do List](https://dev.to/farouk_/to-do-list-1fi0)
+- [AI Agents for Smarter Company Research in KaibanJS](https://dev.to/kaibanjs/ai-agents-for-smarter-company-research-in-kaibanjs-3chk)
+- [JavaScript](https://dev.to/feyisayo_37/javascript-3nno)
 <!-- BLOG-POST-LIST:END -->
 
 ---
