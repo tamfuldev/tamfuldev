@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Becoming A Software Developer](https://dev.to/maryanne_a076b4d7baacc530/becoming-a-software-developer-45mk)
-- [&quot;Puppeteer and Tabs: Why Your Automation Doesn’t Follow Your Clicks&quot;](https://dev.to/jvicmaina/puppeteer-and-tabs-why-your-automation-doesnt-follow-your-clicks-29pl)
-- [Tic tac toe!](https://dev.to/ibrahim_aln/tic-tac-toe-4b37)
-- [&quot;Revolutionizing Medical AI: The Power of Dialogue Tuning in Diagnostics&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-medical-ai-the-power-of-dialogue-tuning-in-diagnostics-12ok)
-- [Understanding Functions: From Basics to Better Coding Practices](https://dev.to/ayako_yk/understanding-functions-from-basics-to-better-coding-practices-1i36)
+- [TailwindCSS v4.0: Upgrading from v3 with some plugins](https://dev.to/sirneij/tailwindcss-v40-upgrading-from-v3-with-some-plugins-572f)
+- [AI for Test Environment Management: Streamlining Software Testing Infrastructure](https://dev.to/arun_pal_3ce740a137cf15ad/ai-for-test-environment-management-streamlining-software-testing-infrastructure-4463)
+- [Top 5 Mistakes to Avoid in Website Development](https://dev.to/advtech_market/top-5-mistakes-to-avoid-in-website-development-45ff)
+- [Nginx web-server Installation and Configuration With Custom HTML content on AWS Cloud](https://dev.to/popoola/nginx-web-server-installation-and-configuration-with-custom-html-content-on-aws-cloud-23ig)
+- [The Beginner’s Guide to Observability: From Basics to Better Quality of Life](https://dev.to/reliablemk/the-beginners-guide-to-observability-from-basics-to-better-quality-of-life-4i5p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
