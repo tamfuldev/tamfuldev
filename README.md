@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [18 BEST UI Component Libraries for React 🔥](https://dev.to/hosseinyazdi/18-best-ui-component-libraries-for-react-46fi)
-- [18 Best UI Component Libraries for React](https://dev.to/hosseinyazdi/18-best-ui-component-libraries-for-react-3iee)
-- [spring-017: spring-boot-property-loading-overview](https://dev.to/hunor85/spring-017-spring-boot-property-loading-overview-2h8k)
-- [Despite AI: you should know these CSS snippets!](https://dev.to/urbanisierung/despite-ai-you-should-know-these-css-snippets-8lg)
-- [useSyncExternalStore usage in TipTap source code](https://dev.to/ramunarasinga-11/usesyncexternalstore-usage-in-tiptap-source-code-3j3i)
+- [[Boost]](https://dev.to/ben/-36dm)
+- [IP Address Set Operations with net/netip 4/7](https://dev.to/rezmoss/ip-address-set-operations-with-netnetip-47-38b2)
+- [Avoiding global functions in JavaScript](https://dev.to/56_kode/avoiding-global-functions-in-javascript-1hlm)
+- [Built public API for HNG stage0 task](https://dev.to/mayowakalejaiye/built-public-api-for-hng-stage0-task-3aa8)
+- [Architectures of Generative AI: A Deep Dive](https://dev.to/sharsha315/architectures-of-generative-ai-a-deep-dive-6nf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
