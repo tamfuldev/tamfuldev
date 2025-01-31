@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why You Should Think Twice Before Using DeepSeek AI](https://dev.to/trixsec/why-you-should-think-twice-before-using-deepseek-ai-4da)
-- [How I Helped My Team Work Better Together and Tackle Review Delays](https://dev.to/mohsen_leveling/how-i-helped-my-team-work-better-together-and-tackle-review-delays-4ha8)
-- [[Boost]](https://dev.to/souf149/-5bh2)
-- [Javascript - Comment créer un tableau](https://dev.to/mdytrl/javascript-comment-creer-un-tableau-5ggd)
-- [Python Program to Find Largest Element in an Array](https://dev.to/askyt/python-program-to-find-largest-element-in-an-array-143d)
+- [Exploring the Best Rails Open Source Projects for Developers in 2025](https://dev.to/jetthoughts/exploring-the-best-rails-open-source-projects-for-developers-in-2025-5a0d)
+- [Picture in Picture in React Native &lpar;Android&rpar;](https://dev.to/devpenzil/picture-in-picture-in-react-native-android-f6f)
+- [The most unambitious way to bulid a startup](https://dev.to/ironbrands/the-most-unambitious-way-to-bulid-a-startup-2gj7)
+- [5 Terraform Best Practices I Wish I Knew When I Started](https://dev.to/bobbyiliev/5-terraform-best-practices-i-wish-i-knew-when-i-started-2dc)
+- [Five steps to become a software developer in 2025.](https://dev.to/leonard_simolo_87db766b43/five-steps-to-become-a-software-developer-in-2025-39a1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
