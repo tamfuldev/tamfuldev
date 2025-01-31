@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Dynamics of Open Source Contributions: A Conversation From Both Ends of the Spectrum](https://dev.to/devmercy/the-dynamics-of-open-source-contributions-a-conversation-from-both-ends-of-the-spectrum-3nbb)
-- [Usando Deepseek no Visual Studio Code de graça 💸](https://dev.to/razielrodrigues/usando-deepseek-no-visual-studio-code-de-graca-2764)
-- [Top 10 Python Libraries That Will Save You Hours of Work.](https://dev.to/balrajola/top-10-python-libraries-that-will-save-you-hours-of-work-1nm6)
-- [DeepSeek R1: A New Contender in the World of Large Language Models](https://dev.to/thedevguru/deepseek-r1-a-new-contender-in-the-world-of-large-language-models-1l8)
-- [2025&#39;s Serverless Tech Stacks your Projects](https://dev.to/abubakersiddique761/2025s-serverless-tech-stacks-your-projects-16k3)
+- [Why You Should Think Twice Before Using DeepSeek AI](https://dev.to/trixsec/why-you-should-think-twice-before-using-deepseek-ai-4da)
+- [How I Helped My Team Work Better Together and Tackle Review Delays](https://dev.to/mohsen_leveling/how-i-helped-my-team-work-better-together-and-tackle-review-delays-4ha8)
+- [[Boost]](https://dev.to/souf149/-5bh2)
+- [Javascript - Comment créer un tableau](https://dev.to/mdytrl/javascript-comment-creer-un-tableau-5ggd)
+- [Python Program to Find Largest Element in an Array](https://dev.to/askyt/python-program-to-find-largest-element-in-an-array-143d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
