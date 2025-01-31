@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stubborn junior developper &lpar;french version&rpar;](https://dev.to/str9_18/stubborn-junior-developper-french-version-26d7)
-- [Security news weekly round-up - 31st January 2025](https://dev.to/ziizium/security-news-weekly-round-up-31st-january-2025-8jf)
-- [Query AWS CloudTrail Logs Locally with SQL](https://dev.to/aws-builders/query-aws-cloudtrail-logs-locally-with-sql-4jcj)
-- [Quali benefici può trarre un&#39;azienda dall&#39;adozione anticipata del Digital Product Passport?](https://dev.to/corradofacchini/quali-benefici-puo-trarre-unazienda-dalladozione-anticipata-del-digital-product-passport-226)
-- [Tips for Reassessing Productivity and Relationships &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/if-you-want-to-live-a-happy-life-tie-it-to-a-goal-tips-for-reassessing-productivity-and-inl)
+- [Automated Workload Evaluation with Python and CloudWatch](https://dev.to/gabrielflorencio/automated-workload-evaluation-with-python-and-cloudwatch-20g7)
+- [Agentic AI Agents Go Mainstream in 2025 with Coherent Persistence](https://dev.to/100stacks/agentic-ai-agents-go-mainstream-in-2025-with-coherent-persistence-g88)
+- [Deploying First Nginx Web Page](https://dev.to/muad/deploying-first-nginx-web-page-3a1m)
+- [Managing Application State with Custom Events in React: A Simple Yet Powerful Approach](https://dev.to/adrianknapp/managing-application-state-with-custom-events-in-react-a-simple-yet-powerful-approach-ngd)
+- [Setting Up NGINX on Ubuntu: DevOps Stage 0](https://dev.to/emmanuelomoiya/setting-up-nginx-on-ubuntu-devops-stage-0-210i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
