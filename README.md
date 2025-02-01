@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Handle and make safe and secure authentications for users for your ui sites](https://dev.to/testgithubrobert/handle-and-make-safe-and-secure-authentications-for-users-for-your-ui-sites-3617)
-- [Make Rock, Paper, Scissor game with Ink &quot;Game Engine&quot;](https://dev.to/limitcracker/make-rock-paper-scissor-game-with-ink-game-engine-2kje)
-- [Building a Real-time Todo App: Django + AJAX + Bootstrap Magic](https://dev.to/idevdesign/building-a-real-time-todo-app-django-ajax-bootstrap-magic-51fc)
-- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/shaydi/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-2kl0)
-- [CDNs vs Caching: The Key to Blazing Fast Web Performance &lpar;and Why You Need Both&rpar;](https://dev.to/lovestaco/cdns-vs-caching-the-key-to-blazing-fast-web-performance-and-why-you-need-both-k58)
+- [First Steps with Git](https://dev.to/adrianogil/first-steps-with-git-5bfh)
+- [Configuring Nginx On Amazon EC2](https://dev.to/success_john_7a76d623a3b2/configuring-nginx-on-amazon-ec2-3dp0)
+- [🎯 ML Done Right: Versioning Datasets and Models with DVC &amp; MLflow](https://dev.to/aws-builders/ml-done-right-versioning-datasets-and-models-with-dvc-mlflow-4p3f)
+- [Taming the Beast: How Async Makes Your High-Load JavaScript Feel Like a Walk in the Park](https://dev.to/alessandrorodrigo/taming-the-beast-how-async-makes-your-high-load-javascript-feel-like-a-walk-in-the-park-59jo)
+- [[Boost]](https://dev.to/abdulrahmanmuhammad/-3opo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
