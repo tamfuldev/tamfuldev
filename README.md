@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Code Smarter, Not Harder: How Contextual Rules Supercharge AI Coding Assistants](https://dev.to/govindvyas/code-smarter-not-harder-how-contextual-rules-supercharge-ai-coding-assistants-2dj6)
-- [Про бессмысленность грейдов](https://dev.to/dmkjfs/pro-biessmysliennost-ghrieidov-1p32)
-- [AI Agents: Revolutionizing Customer Support Automation](https://dev.to/hyvip/ai-agents-revolutionizing-customer-support-automation-19cb)
-- [Create a user journey map for your application.](https://dev.to/574n13y/create-a-user-journey-map-for-your-application-54ak)
-- [Optimizing Line Chart Performance with LTTB Algorithm](https://dev.to/said96dev/optimizing-line-chart-performance-with-lttb-algorithm-21dj)
+- [Avalanche Subnets: The Hidden Weapon for Enterprise Blockchain Adoption](https://dev.to/luffy251/avalanche-subnets-the-hidden-weapon-for-enterprise-blockchain-adoption-5hmm)
+- [Deploy MongoDB Replica Sets with Ease Using Docker Compose](https://dev.to/abdelfattahradwan/deploy-mongodb-replica-sets-with-ease-using-docker-compose-4ddg)
+- [Newbie Machine Learning Project](https://dev.to/try_except_ham/fisnewbie-machine-learning-project-gbl)
+- [Use TypeScript + React effectively](https://dev.to/realchakrawarti/use-typescript-react-effectively-396l)
+- [This is back end setup for app and web](https://dev.to/harendra-ranjan/this-is-back-end-setup-for-app-and-web-2ddm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
