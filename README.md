@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [RSS: A Great Standard That Can’t Keep Up](https://dev.to/justlig/rss-a-great-standard-that-cant-keep-up-4ibp)
+- [Instalando o Docker no Windows 10 Home ou Professional com WSL 2](https://dev.to/papitofernando/instalando-o-docker-no-windows-10-home-ou-professional-com-wsl-2-26m3)
+- [Monitoring the Yezin Dam: A Journey Through Time with Computer Vision](https://dev.to/nikhil_reddy_/monitoring-the-yezin-dam-a-journey-through-time-with-computer-vision-2lmg)
+- [Prompt Engineering Template for Writers: Create Prompts Easily and Intuitively](https://dev.to/angel_rojas_6904bae237a0d/prompt-engineering-template-for-writers-create-prompts-easily-and-intuitively-43l8)
 - [Outsmarting the Clock: A Detective&#39;s Guide to Avoiding TLE in Programming](https://dev.to/sayed_ali_alkamel/outsmarting-the-clock-a-detectives-guide-to-avoiding-tle-in-programming-4845)
-- [How we slashed CI build time using Go’s cache](https://dev.to/siddhantkcode/how-we-slashed-ci-build-time-using-gos-cache-500f)
-- [Namespaces in Kubernetes Explained: 🔍 Understanding Isolation and Sharing](https://dev.to/favxlaw/namespaces-in-kubernetes-explained-understanding-isolation-and-sharing-5ki)
-- [ElasticTransform in PyTorch](https://dev.to/hyperkai/elastictransform-in-pytorch-1g6d)
-- [What is Defensive Programming🛡️](https://dev.to/i_am_ziike/what-is-defensive-programming-3cj4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
