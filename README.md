@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The State of Digital Payments in Gambia: A Look at Wave, Waychit, Gamswitch, and Modem Pay](https://dev.to/drantaz/the-state-of-digital-payments-in-gambia-a-look-at-wave-waychit-gamswitch-and-modem-pay-4k20)
-- [Installing Nvidia Datacenter GPU Manager on Amazon Linux 2023](https://dev.to/aws-builders/installing-nvidia-datacenter-gpu-manager-on-amazon-linux-2023-16hk)
-- [Amazon Bedrock Guardrail - How to Mask Sensitive Information&lpar;PII&rpar;](https://dev.to/vijaypabothu/amazon-bedrock-guardrail-how-to-mask-sensitive-informationpii-3ok5)
-- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals.](https://dev.to/theofortune/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-14pb)
-- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/theofortune/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-114e)
+- [Code Smarter, Not Harder: How Contextual Rules Supercharge AI Coding Assistants](https://dev.to/govindvyas/code-smarter-not-harder-how-contextual-rules-supercharge-ai-coding-assistants-2dj6)
+- [Про бессмысленность грейдов](https://dev.to/dmkjfs/pro-biessmysliennost-ghrieidov-1p32)
+- [AI Agents: Revolutionizing Customer Support Automation](https://dev.to/hyvip/ai-agents-revolutionizing-customer-support-automation-19cb)
+- [Create a user journey map for your application.](https://dev.to/574n13y/create-a-user-journey-map-for-your-application-54ak)
+- [Optimizing Line Chart Performance with LTTB Algorithm](https://dev.to/said96dev/optimizing-line-chart-performance-with-lttb-algorithm-21dj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
