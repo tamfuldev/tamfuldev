@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Daily JavaScript Challenge #JS-89: Convert Decimal Number to Roman Numerals](https://dev.to/dpc/daily-javascript-challenge-js-89-convert-decimal-number-to-roman-numerals-422p)
-- [Definição de Cognitive-Driven Development &lpar;CDD&rpar;](https://dev.to/uiratan/definicao-de-cognitive-driven-development-cdd-5542)
-- [Basics of HTML and CSS](https://dev.to/milkywoah464/basics-of-html-and-css-40ih)
-- [Paints-UNDO Installers Published - Undo Images Like Drawing From Scratch - 1-Click Install for Windows, RunPod](https://dev.to/furkangozukara/paints-undo-installers-published-undo-images-like-drawing-from-scratch-1-click-install-for-32m7)
-- [How to Generate PDF from Images and Views in React Native: A Complete Guide for Mobile Developers](https://dev.to/benjamineruvieru/how-to-generate-pdf-from-images-and-views-in-react-native-a-complete-guide-for-mobile-developers-4k1o)
+- [🌟 🔥 Meet Qwen: Your Ultimate AI Companion for Every Need 🚀](https://dev.to/hanzla-baig/meet-qwen-your-ultimate-ai-companion-for-every-need-5hh5)
+- [No-BS Friday Metrics: Store Conversion Rate](https://dev.to/diegodotta/no-bs-friday-metrics-store-conversion-rate-35ia)
+- [🚀 🔥 The Ultimate Showdown: ChatGPT vs DeepSeek vs Gemini vs Copilot vs Qwen vs Mistral 🌟](https://dev.to/hanzla-baig/the-ultimate-showdown-chatgpt-vs-deepseek-vs-gemini-vs-copilot-vs-qwen-vs-mistral-33kd)
+- [🤖🧠Making Tech Blog 5 &lpar;v0 by Vercel&rpar;](https://dev.to/webdeveloperhyper/making-tech-blog-5-v0-by-vercel-48c8)
+- [Parse JSON with Golf](https://dev.to/golf-lang/parse-json-with-golf-18p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
