@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Some one help me pls](https://dev.to/fernando_garciag_2546b7f/some-one-help-me-pls-2ml6)
-- [The Ultimate Guide to Programming Languages: Choosing the Right Tool for the Job - Part 2](https://dev.to/mohammad-reza-mahdiani/the-ultimate-guide-to-programming-languages-choosing-the-right-tool-for-the-job-part-2-41la)
-- [o3-BlockGame](https://dev.to/ueo_2e7cbabceb8c08393f0cd/o3-blockgame-4e11)
-- [LTL and CTL Applications for Smart Contracts Security](https://dev.to/0xgeorgii/ltl-and-ctl-applications-for-smart-contracts-security-32im)
-- [First Day Routine](https://dev.to/timothy_97/first-day-routine-22a9)
+- [My First Open-Source Contribution: Lessons Learned](https://dev.to/johnhooper1965/my-first-open-source-contribution-lessons-learned-2ool)
+- [5 JavaScript Concepts That Every Junior Developer Should Master](https://dev.to/johnhooper1965/5-javascript-concepts-that-every-junior-developer-should-master-off)
+- [How I Landed My First Web Development Project After Graduation](https://dev.to/johnhooper1965/how-i-landed-my-first-web-development-project-after-graduation-1pn8)
+- [Mastering Code Design: 7 Steps to Build Robust Software and Stand Out as an Architect](https://dev.to/rubofelipe/mastering-code-design-7-steps-to-build-robust-software-and-stand-out-as-an-architect-4j19)
+- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals 📌](https://dev.to/joyobaidu/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-3n25)
 <!-- BLOG-POST-LIST:END -->
 
 ---
