@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🌟 🔥 Meet Qwen: Your Ultimate AI Companion for Every Need 🚀](https://dev.to/hanzla-baig/meet-qwen-your-ultimate-ai-companion-for-every-need-5hh5)
-- [No-BS Friday Metrics: Store Conversion Rate](https://dev.to/diegodotta/no-bs-friday-metrics-store-conversion-rate-35ia)
-- [🚀 🔥 The Ultimate Showdown: ChatGPT vs DeepSeek vs Gemini vs Copilot vs Qwen vs Mistral 🌟](https://dev.to/hanzla-baig/the-ultimate-showdown-chatgpt-vs-deepseek-vs-gemini-vs-copilot-vs-qwen-vs-mistral-33kd)
-- [🤖🧠Making Tech Blog 5 &lpar;v0 by Vercel&rpar;](https://dev.to/webdeveloperhyper/making-tech-blog-5-v0-by-vercel-48c8)
-- [Parse JSON with Golf](https://dev.to/golf-lang/parse-json-with-golf-18p)
+- [Some one help me pls](https://dev.to/fernando_garciag_2546b7f/some-one-help-me-pls-2ml6)
+- [The Ultimate Guide to Programming Languages: Choosing the Right Tool for the Job - Part 2](https://dev.to/mohammad-reza-mahdiani/the-ultimate-guide-to-programming-languages-choosing-the-right-tool-for-the-job-part-2-41la)
+- [o3-BlockGame](https://dev.to/ueo_2e7cbabceb8c08393f0cd/o3-blockgame-4e11)
+- [LTL and CTL Applications for Smart Contracts Security](https://dev.to/0xgeorgii/ltl-and-ctl-applications-for-smart-contracts-security-32im)
+- [First Day Routine](https://dev.to/timothy_97/first-day-routine-22a9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
