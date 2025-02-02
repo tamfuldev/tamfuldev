@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/timidev1/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-4bkn)
-- [Understanding Inertia.js 2.0: A Comprehensive Guide for React and Vue Integration with Laravel](https://dev.to/deeajith/understanding-inertiajs-20-a-comprehensive-guide-for-react-and-vue-integration-with-laravel-2bok)
-- [Gemini Flash Analysed All Of My Health Data](https://dev.to/designrknight/gemini-flash-analysed-all-of-my-health-data-1bj)
-- [Tree traversal without recursion](https://dev.to/snosme/tree-traversal-without-recursion-2fn9)
-- [c++ easy notes](https://dev.to/muqaddas_mehboob_fb1ca65d/c-easy-notes-10bc)
+- [What is AGI](https://dev.to/rishabh_raj_2b61a1c41b371/what-is-agi-29ek)
+- [Unlocking the Potential of Artificial General Intelligence &lpar;AGI&rpar;: Benefits, Risks, and Mitigation Strategies](https://dev.to/rishabh_raj_2b61a1c41b371/unlocking-the-potential-of-artificial-general-intelligence-agi-benefits-risks-and-mitigation-1jne)
+- [How Network Communication Actually Works](https://dev.to/m13ha/how-network-communication-actually-works-en5)
+- [The Future of AI: A New Era of Innovation](https://dev.to/rishabh_raj_2b61a1c41b371/the-future-of-ai-a-new-era-of-innovation-40ld)
+- [How To Generate Structured Output &lpar;JSON, YAML&rpar; in Gemini AI](https://dev.to/shrsv/how-to-generate-structured-output-json-yaml-in-gemini-ai-2ok0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
