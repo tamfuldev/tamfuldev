@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Digital garden - Revisitando meu processo de escrita](https://dev.to/figur8/digital-garden-revisitando-meu-processo-de-escrita-2nc6)
-- [SSH Password Not Authenticating? Here’s How to Fix It](https://dev.to/bigjohncodes/ssh-password-not-authenticating-heres-how-to-fix-it-4l61)
-- [GRPO Pitfalls Record](https://dev.to/zhangyiqun018/grpo-pitfalls-record-1130)
-- [Window용 외부 키보드 Mac에서 사용하기 &lpar;Using a Windows Keyboard on Mac&rpar;](https://dev.to/minwook/windowyong-oebu-kibodeu-maceseo-sayonghagi-4315)
-- [A Production Ready EKS Deployment with IaC &amp; GitOps - Part 5 - Deploying EKS Cluster](https://dev.to/ravindukrs/a-production-ready-eks-deployment-with-iac-gitops-part-5-deploying-eks-cluster-29bn)
+- [Week 10 Recap of #100DaysOfCode](https://dev.to/lymah/week-10-recap-of-100daysofcode-49b4)
+- [Who&#39;s hiring &lpar;February 2025&rpar;](https://dev.to/fmerian/whos-hiring-february-2025-a19)
+- [check out my new blog!](https://dev.to/cendekia/check-out-my-new-blog-28oe)
+- [Flutter Flip Card Animation](https://dev.to/thanasistraitsis/flutter-flip-card-animation-3jb4)
+- [Azure Fundamentals &lpar;AI-900&rpar; certification](https://dev.to/dharani0419/azure-fundamentals-ai-900-certification-5fj6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
