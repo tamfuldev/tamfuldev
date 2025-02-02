@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Week 10 Recap of #100DaysOfCode](https://dev.to/lymah/week-10-recap-of-100daysofcode-49b4)
-- [Who&#39;s hiring &lpar;February 2025&rpar;](https://dev.to/fmerian/whos-hiring-february-2025-a19)
-- [check out my new blog!](https://dev.to/cendekia/check-out-my-new-blog-28oe)
-- [Flutter Flip Card Animation](https://dev.to/thanasistraitsis/flutter-flip-card-animation-3jb4)
-- [Azure Fundamentals &lpar;AI-900&rpar; certification](https://dev.to/dharani0419/azure-fundamentals-ai-900-certification-5fj6)
+- [How to measure Time Complexity and Space Complexity?](https://dev.to/jptlearn/how-to-measure-time-complexity-and-space-complexity-203p)
+- [What is Array.reduce in JavaScript?](https://dev.to/logannford/what-is-arrayreduce-in-javascript-3nbl)
+- [Hola mundo](https://dev.to/ggguille/hola-mundo-na4)
+- [Ransomware: A Wake-Up Call for the Digital Age](https://dev.to/victoruzoagba/ransomware-a-wake-up-call-for-the-digital-age-2687)
+- [Optimisation SQL Server : Vues, Procédures Stockées et Index](https://dev.to/mohamed_ash_data/optimisation-sql-server-vues-procedures-stockees-et-index-22mi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
