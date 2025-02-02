@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to measure Time Complexity and Space Complexity?](https://dev.to/jptlearn/how-to-measure-time-complexity-and-space-complexity-203p)
-- [What is Array.reduce in JavaScript?](https://dev.to/logannford/what-is-arrayreduce-in-javascript-3nbl)
-- [Hola mundo](https://dev.to/ggguille/hola-mundo-na4)
-- [Ransomware: A Wake-Up Call for the Digital Age](https://dev.to/victoruzoagba/ransomware-a-wake-up-call-for-the-digital-age-2687)
-- [Optimisation SQL Server : Vues, Procédures Stockées et Index](https://dev.to/mohamed_ash_data/optimisation-sql-server-vues-procedures-stockees-et-index-22mi)
+- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/timidev1/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-4bkn)
+- [Understanding Inertia.js 2.0: A Comprehensive Guide for React and Vue Integration with Laravel](https://dev.to/deeajith/understanding-inertiajs-20-a-comprehensive-guide-for-react-and-vue-integration-with-laravel-2bok)
+- [Gemini Flash Analysed All Of My Health Data](https://dev.to/designrknight/gemini-flash-analysed-all-of-my-health-data-1bj)
+- [Tree traversal without recursion](https://dev.to/snosme/tree-traversal-without-recursion-2fn9)
+- [c++ easy notes](https://dev.to/muqaddas_mehboob_fb1ca65d/c-easy-notes-10bc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
