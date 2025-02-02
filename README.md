@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why India’s AI Future Depends on You](https://dev.to/codedetech/why-indias-ai-future-depends-on-you-5gic)
-- [How to Build a GraphQL API from Scratch in Node.js](https://dev.to/im_lakhlan/how-to-build-a-graphql-api-from-scratch-in-nodejs-hlo)
-- [How Dyslexia Shapes My Code Style](https://dev.to/easytdd/how-dyslexia-shapes-my-code-style-809)
-- [LocalSeek: A Privacy-First, Visually Stunning, Localized AI Chat for VS Code](https://dev.to/hariharen/localseek-a-privacy-first-visually-stunning-localized-ai-chat-for-vs-code-2j5m)
-- [How I Converted a $10K Sales Loss into a Conversion Powerhouse: Techniques to Increase Sales and Reduce Cart Abandonment](https://dev.to/okoye_ndidiamaka_5e3b7d30/how-i-converted-a-10k-sales-loss-into-a-conversion-powerhouse-techniques-to-increase-sales-and-16pm)
+- [[Boost]](https://dev.to/timothy_2008/-2h88)
+- [What Two Years of Job Searching Taught Me](https://dev.to/brianseo/what-two-years-of-job-searching-taught-me-54l)
+- [Solidity Crash Course 🚀](https://dev.to/ayaz/-solidity-crash-course-series-4o4n)
+- [# Solidity Crash Course Series 🚀](https://dev.to/ayaz/-solidity-crash-course-series-3ohi)
+- [The Evolution of Parallel Computing and Its Importance for Modern Applications](https://dev.to/adityabhuyan/the-evolution-of-parallel-computing-and-its-importance-for-modern-applications-430a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
