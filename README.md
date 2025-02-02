@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Power of Jeda.ai: Turning Data into Actionable AI Insights](https://dev.to/ishmam_jahan_4269b6f13ba5/the-power-of-jedaai-turning-data-into-actionable-ai-insights-148n)
-- [Building a Game Day Notification Solution Using AWS Serverless Services](https://dev.to/goodluck_ekeoma_2c98866d0/building-a-game-day-notification-solution-using-aws-serverless-services-me5)
-- [Java Concurrency Models: A Comprehensive Guide](https://dev.to/blog-genius/java-concurrency-models-a-comprehensive-guide-4n9)
-- [You really have to use a headset when learning a song to hear all the parts clearly](https://dev.to/highcenburg/you-really-have-to-use-a-headset-when-learning-a-song-to-hear-all-the-parts-clearly-en9)
-- [Integrating DeepSeek into n8n: Low-Cost AI Automations](https://dev.to/dwtoledo/integrating-deepseek-into-n8n-low-cost-ai-automations-11ge)
+- [Apache Kafka Project: Real-Time Twitter Streaming with Python](https://dev.to/pravesh_sudha_3c2b0c2b5e0/apache-kafka-project-real-time-twitter-streaming-with-python-d1f)
+- [How AI&#39;s Quiet Evolution Could Slowly Erode Human Agency and Control](https://dev.to/mikeyoung44/how-ais-quiet-evolution-could-slowly-erode-human-agency-and-control-25j3)
+- [AI Safety Showdown: DeepSeek-R1 vs o3-mini - New Study Reveals Which Model is More Secure](https://dev.to/mikeyoung44/ai-safety-showdown-deepseek-r1-vs-o3-mini-new-study-reveals-which-model-is-more-secure-23d7)
+- [New Attack Method Bypasses AI Safety Controls with 80% Success Rate](https://dev.to/mikeyoung44/new-attack-method-bypasses-ai-safety-controls-with-80-success-rate-357)
+- [AI Solves 5 Long-Standing Math Puzzles by Writing Their Own Solution Code](https://dev.to/mikeyoung44/ai-solves-5-long-standing-math-puzzles-by-writing-their-own-solution-code-37ci)
 <!-- BLOG-POST-LIST:END -->
 
 ---
