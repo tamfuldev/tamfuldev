@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Command Injection in Laravel: How to Detect &amp; Prevent It](https://dev.to/pentest_testing_corp/command-injection-in-laravel-how-to-detect-prevent-it-3nnm)
-- [Django + Redis: Simplifying Data Caching with a Real-World Example 💡](https://dev.to/priya01/django-redis-simplifying-data-caching-with-a-real-world-example-4nnn)
-- [A Production Ready EKS Deployment with GitOps - Part 2 - Configuring Terraform Backend &amp; Validate Prerequisites](https://dev.to/ravindukrs/a-production-ready-eks-deployment-with-gitops-part-2-configuring-terraform-backend-validate-29i8)
-- [WAHA 2025.1 - PostgreSQL support, GOWS engine and More!](https://dev.to/waha/waha-20251-postgresql-support-gows-engine-and-more-4njk)
-- [FastAPI/SocketIO stock monitor with Python workers](https://dev.to/2x_x2_165ad4ac6609c3df4db/fastapisocketio-stock-monitor-with-python-workers-3pfc)
+- [AI DevOps Agent for Better CI](https://dev.to/cicubeteam/ai-devops-agent-for-better-ci-27ka)
+- [🚀 Kickstart Your Angular Projects with the Ultimate Starter Kit! 🚀](https://dev.to/wlucha/kickstart-your-angular-projects-with-the-ultimate-starter-kit-1cg7)
+- [Frontend Elegante y Eficiente con Patrones de Diseño](https://dev.to/iamadeveloper/frontend-elegante-y-eficiente-con-patrones-de-diseno-379e)
+- [[Boost]](https://dev.to/proxyos/-49k4)
+- [Using a Custom Type as a Dictionary Key in C#](https://dev.to/moh_moh701/using-a-custom-type-as-a-dictionary-key-in-c-5emi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
