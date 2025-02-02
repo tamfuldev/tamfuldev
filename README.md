@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Real-Time User Analytics Dashboard with Chart.js: Track Active &amp; Inactive Users Dynamically](https://dev.to/mayankchawdhari/building-a-real-time-user-analytics-dashboard-with-chartjs-track-active-inactive-users-11j7)
-- [Javascript &quot;multithreading&quot;](https://dev.to/hackus/javascript-multithreading-31g9)
-- [Stella: Open Source AI Beta Testing Agents with Personality](https://dev.to/seifbenayed/stella-open-source-ai-beta-testing-agents-with-personality-4l19)
-- [&quot;Master Your Development Environment: The Power of Dotfiles and Automation&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/master-your-development-environment-the-power-of-dotfiles-and-automation-27oj)
-- [Beyond arrays and linked lists: Exploring powerful data structures for efficient problem solving](https://dev.to/axelncho/beyond-arrays-and-linked-lists-exploring-powerful-data-structures-for-efficient-problem-solving-m24)
+- [Redes: pt. 1 - Conexão e rede](https://dev.to/mmsfarias/redes-pt-1-conexao-e-rede-1dcf)
+- [How To Set Up and Configure Gmail SMTP Server for Email Sending](https://dev.to/indrayyana/how-to-set-up-gmail-smtp-server-ka2)
+- [Database Migrations in Laravel](https://dev.to/adebayo_olukunle_06daa4ec/database-migrations-in-laravel-4nib)
+- [Semantic Similarity for Personal Knowledge Management](https://dev.to/pruthvikumarbk/semantic-similarity-for-personal-knowledge-management-3j9p)
+- [My first step in AI-driven indie development](https://dev.to/didy-kpn/my-first-step-in-ai-driven-indie-development-4b46)
 <!-- BLOG-POST-LIST:END -->
 
 ---
