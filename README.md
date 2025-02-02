@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up Custom Configuration Files in NestJS](https://dev.to/tamim_ikbal/how-to-setup-custom-configuration-files-intonestjs-288a)
-- [AI Revolution: OpenAI o3-mini, DeepSeek R1, and Meta Llama 3.3 Shaping the Future of Tomorrow’s Intelligence](https://dev.to/madds/ai-revolution-openai-o3-mini-deepseek-r1-and-meta-llama-33-shaping-the-future-of-tomorrows-20cn)
-- [The Role of Data Engineering Services in AI and Machine Learning](https://dev.to/reckonsys/the-role-of-data-engineering-services-in-ai-and-machine-learning-4aoi)
-- [Tokens and Embeddings: The Building Blocks of GenAI](https://dev.to/sharsha315/tokens-and-embeddings-the-building-blocks-of-genai-1pgk)
-- [How I Stay Updated in the Fast-Paced World of Data Science](https://dev.to/debrahayes1971/how-i-stay-updated-in-the-fast-paced-world-of-data-science-3l1o)
+- [The Power of Jeda.ai: Turning Data into Actionable AI Insights](https://dev.to/ishmam_jahan_4269b6f13ba5/the-power-of-jedaai-turning-data-into-actionable-ai-insights-148n)
+- [Building a Game Day Notification Solution Using AWS Serverless Services](https://dev.to/goodluck_ekeoma_2c98866d0/building-a-game-day-notification-solution-using-aws-serverless-services-me5)
+- [Java Concurrency Models: A Comprehensive Guide](https://dev.to/blog-genius/java-concurrency-models-a-comprehensive-guide-4n9)
+- [You really have to use a headset when learning a song to hear all the parts clearly](https://dev.to/highcenburg/you-really-have-to-use-a-headset-when-learning-a-song-to-hear-all-the-parts-clearly-en9)
+- [Integrating DeepSeek into n8n: Low-Cost AI Automations](https://dev.to/dwtoledo/integrating-deepseek-into-n8n-low-cost-ai-automations-11ge)
 <!-- BLOG-POST-LIST:END -->
 
 ---
