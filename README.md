@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Apache Kafka Project: Real-Time Twitter Streaming with Python](https://dev.to/pravesh_sudha_3c2b0c2b5e0/apache-kafka-project-real-time-twitter-streaming-with-python-d1f)
-- [How AI&#39;s Quiet Evolution Could Slowly Erode Human Agency and Control](https://dev.to/mikeyoung44/how-ais-quiet-evolution-could-slowly-erode-human-agency-and-control-25j3)
-- [AI Safety Showdown: DeepSeek-R1 vs o3-mini - New Study Reveals Which Model is More Secure](https://dev.to/mikeyoung44/ai-safety-showdown-deepseek-r1-vs-o3-mini-new-study-reveals-which-model-is-more-secure-23d7)
-- [New Attack Method Bypasses AI Safety Controls with 80% Success Rate](https://dev.to/mikeyoung44/new-attack-method-bypasses-ai-safety-controls-with-80-success-rate-357)
-- [AI Solves 5 Long-Standing Math Puzzles by Writing Their Own Solution Code](https://dev.to/mikeyoung44/ai-solves-5-long-standing-math-puzzles-by-writing-their-own-solution-code-37ci)
+- [Command Injection in Laravel: How to Detect &amp; Prevent It](https://dev.to/pentest_testing_corp/command-injection-in-laravel-how-to-detect-prevent-it-3nnm)
+- [Django + Redis: Simplifying Data Caching with a Real-World Example 💡](https://dev.to/priya01/django-redis-simplifying-data-caching-with-a-real-world-example-4nnn)
+- [A Production Ready EKS Deployment with GitOps - Part 2 - Configuring Terraform Backend &amp; Validate Prerequisites](https://dev.to/ravindukrs/a-production-ready-eks-deployment-with-gitops-part-2-configuring-terraform-backend-validate-29i8)
+- [WAHA 2025.1 - PostgreSQL support, GOWS engine and More!](https://dev.to/waha/waha-20251-postgresql-support-gows-engine-and-more-4njk)
+- [FastAPI/SocketIO stock monitor with Python workers](https://dev.to/2x_x2_165ad4ac6609c3df4db/fastapisocketio-stock-monitor-with-python-workers-3pfc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
