@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI DevOps Agent for Better CI](https://dev.to/cicubeteam/ai-devops-agent-for-better-ci-27ka)
-- [🚀 Kickstart Your Angular Projects with the Ultimate Starter Kit! 🚀](https://dev.to/wlucha/kickstart-your-angular-projects-with-the-ultimate-starter-kit-1cg7)
-- [Frontend Elegante y Eficiente con Patrones de Diseño](https://dev.to/iamadeveloper/frontend-elegante-y-eficiente-con-patrones-de-diseno-379e)
-- [[Boost]](https://dev.to/proxyos/-49k4)
-- [Using a Custom Type as a Dictionary Key in C#](https://dev.to/moh_moh701/using-a-custom-type-as-a-dictionary-key-in-c-5emi)
+- [Why India’s AI Future Depends on You](https://dev.to/codedetech/why-indias-ai-future-depends-on-you-5gic)
+- [How to Build a GraphQL API from Scratch in Node.js](https://dev.to/im_lakhlan/how-to-build-a-graphql-api-from-scratch-in-nodejs-hlo)
+- [How Dyslexia Shapes My Code Style](https://dev.to/easytdd/how-dyslexia-shapes-my-code-style-809)
+- [LocalSeek: A Privacy-First, Visually Stunning, Localized AI Chat for VS Code](https://dev.to/hariharen/localseek-a-privacy-first-visually-stunning-localized-ai-chat-for-vs-code-2j5m)
+- [How I Converted a $10K Sales Loss into a Conversion Powerhouse: Techniques to Increase Sales and Reduce Cart Abandonment](https://dev.to/okoye_ndidiamaka_5e3b7d30/how-i-converted-a-10k-sales-loss-into-a-conversion-powerhouse-techniques-to-increase-sales-and-16pm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
