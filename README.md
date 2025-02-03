@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top 11 Python Libraries Every Data Scientist Should Know](https://dev.to/tarunfulera1/top-11-python-libraries-every-data-scientist-should-know-4en0)
-- [🔱 From Dilemma to Creation: How I Brought Raavan to Life with AI](https://dev.to/avradeep_nayak_fa8d5f6995/from-dilemma-to-creation-how-i-brought-raavan-to-life-with-ai-2nde)
-- [Iconsax React: A Modern Icon Library](https://dev.to/premier213/iconsax-react-a-modern-icon-library-5dm9)
-- [Set To-Do list as windows wallpaper &lpar;coded by sonnet&rpar;](https://dev.to/casualwriter/set-to-do-list-as-windows-wallpaper-coded-by-sonnet-2dn7)
-- [The Role of Computer Vision in Autonomous Vehicle Navigation](https://dev.to/angelika_berd/the-role-of-computer-vision-in-autonomous-vehicle-navigation-25l4)
+- [Implementing React Islands in static web applications](https://dev.to/logrocket/implementing-react-islands-in-static-web-applications-402c)
+- [Rlinguo — Why Did We Build It?](https://dev.to/colinfay/rlinguo-why-did-we-build-it-5eh1)
+- [🚀 50+ Github Repositories for Your Next Project.](https://dev.to/gittech/50-github-repositories-for-your-next-project-21fi)
+- [The Perceptron! [visually see an AI learn in real time! 👀]](https://dev.to/grahamthedev/the-perceptron-visually-see-an-ai-learn-2fd9)
+- [Day 4: IP Addressing and Subnetting](https://dev.to/arjun98k/day-4-ip-addressing-and-subnetting-50pe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
