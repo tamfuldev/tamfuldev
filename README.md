@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Raspberry Pi 5 Ollama Llama3.x Performance](https://dev.to/blacknight318/raspberry-pi-5-ollama-llama3x-performance-1god)
-- [Error Handling in Frontend Development](https://dev.to/drishti1920/error-handling-in-frontend-development-dik)
-- [🧬 What’s Your DNA Ancestry? How Bioinformatics Can Find Out!](https://dev.to/biopractify_team_69ab4279/whats-your-dna-ancestry-how-bioinformatics-can-find-out-270h)
-- [Run DeepSeek-R1 Locally with Ollama and Anything LL](https://dev.to/jemi98/run-deepseek-r1-locally-with-ollama-and-anything-ll-1f3m)
-- [Java 17](https://dev.to/leoboladox/java-17-4581)
+- [Understanding Strong Password Regex in C#: From Basic to Advanced](https://dev.to/ravivis13370227/understanding-strong-password-regex-in-c-from-basic-to-advanced-25cf)
+- [The Ultimate Guide to Data Structures and Algorithms | Mbloging](https://dev.to/muhayminbinmehmood/the-ultimate-guide-to-data-structures-and-algorithms-mbloging-4bf3)
+- [JShell: Un REPL para Java](https://dev.to/asjordi/jshell-un-repl-para-java-3ik1)
+- [Blackjack in Python](https://dev.to/diodemusic/blackjack-in-python-ben)
+- [🔐 Why is Verification &lpar;KYC&rpar; Important on Crypto Exchanges? 🚀](https://dev.to/cryptosandy/why-is-verification-kyc-important-on-crypto-exchanges-4ip4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
