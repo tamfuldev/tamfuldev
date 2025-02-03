@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Onlook: A React visual editor](https://dev.to/logrocket/onlook-a-react-visual-editor-1n23)
-- [The Cloud Resume - AWS](https://dev.to/thecodemango/the-cloud-resume-aws-35ca)
-- [NCAA Game Highlights](https://dev.to/iamsegz/ncaa-game-highlights-11p)
-- [5 Free Tailwind CSS Accordions Ready to Use Now](https://dev.to/creativetim_official/5-free-tailwind-css-accordions-ready-to-use-now-1g2c)
-- [A Beginner&#39;s Guide to Unit Testing in .NET with NUnit and Moq](https://dev.to/zorous/a-beginners-guide-to-unit-testing-in-net-with-nunit-and-moq-2kll)
+- [Installation de service réseau](https://dev.to/javascriptx/installation-de-service-reseau-53fg)
+- [The Future of Insurance: Innovations in Software Development](https://dev.to/riddhi_patel_e6815161040b/the-future-of-insurance-innovations-in-software-development-58b1)
+- [Recueil de besoins &lpar;Formule 1&rpar;](https://dev.to/javascriptx/recueil-de-besoins-formule-1-1gam)
+- [Création d&#39;une base de données](https://dev.to/javascriptx/creation-dune-base-de-donnees-3dpo)
+- [Installation d&#39;un poste de développement](https://dev.to/javascriptx/installation-dun-poste-de-developpement-2cdj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
