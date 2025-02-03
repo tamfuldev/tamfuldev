@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Test Automation in the Modern Era: How Genqe.ai is Shaping the Future of Software Testing](https://dev.to/radha_4c842d8e4362a7cdd9c/test-automation-in-the-modern-era-how-genqeai-is-shaping-the-future-of-software-testing-5g6g)
-- [Setting Up an NGINX Web Server on Azure: My DevOps HNG Stage 0 Experience](https://dev.to/otumba/setting-up-an-nginx-web-server-on-azure-my-devops-hng-stage-0-experience-1i0k)
-- [Navigating the Cloud: Key Terms and Concepts Every Developer Should Know](https://dev.to/kelechiedeh/navigating-the-cloud-key-terms-and-concepts-every-developer-should-know-1pcp)
-- [The Ultimate Guide to Learning Web3: Blockchain, Smart Contracts, NFTs &amp; DeFi Explained](https://dev.to/adityabhuyan/the-ultimate-guide-to-learning-web3-blockchain-smart-contracts-nfts-defi-explained-5377)
-- [52u.today](https://dev.to/abdulmunaf_ali_9129f636b8/52utoday-4gje)
+- [Basic Explanation of Minecraft &lpar;Java Edition&rpar;](https://dev.to/peytonstrahan/basic-explanation-of-minecraft-java-edition-4jh2)
+- [Compiling 2025 : - &rpar;](https://dev.to/matrixneo20/compiling-2025--2c8p)
+- [[Boost]](https://dev.to/cozeniths/-3alc)
+- [Build a React App to Track EVM Trades Using Alchemy and RadzionKit](https://dev.to/radzion/build-a-react-app-to-track-evm-trades-using-alchemy-and-radzionkit-53pe)
+- [The Protective Security Steps and Software: A Stage-by-Stage Guide to Data Breach Response](https://dev.to/seosiri/the-protective-security-steps-and-software-a-stage-by-stage-guide-to-data-breach-response-5109)
 <!-- BLOG-POST-LIST:END -->
 
 ---
