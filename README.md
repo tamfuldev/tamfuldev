@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Criação de Hooks Personalizados no React: Reutilização de Lógica de Forma Inteligente](https://dev.to/judsonkerller/criacao-de-hooks-personalizados-no-react-reutilizacao-de-logica-de-forma-inteligente-3cap)
-- [Deepseek AI paper](https://dev.to/ai-ops/deepseek-ai-paper-4b16)
-- [𝐖𝐡𝐚𝐭 𝐢𝐬 𝐚𝐧 𝐀𝐈 𝐀𝐠𝐞𝐧𝐭?](https://dev.to/ai-ops/-1jop)
-- [Automating Conversations: Building a Smart Call Agent Using Twilio and ElevenLabs](https://dev.to/programmerraja/automating-conversations-building-a-smart-call-agent-using-twilio-and-elevenlabs-3331)
-- [Daily JavaScript Challenge #JS-91: Calculate Average RGB Values of an Image](https://dev.to/dpc/daily-javascript-challenge-js-91-calculate-average-rgb-values-of-an-image-4lfo)
+- [How to Build a Countdown Timer in C++ | Daily UI Challenge Day 14](https://dev.to/jds64/how-to-build-a-countdown-timer-in-c-daily-ui-challenge-day-14-2fmj)
+- [Feature Flags: Lessons From the Trenches - Part 1](https://dev.to/bdestrempes/feature-flags-lessons-from-the-trenches-part-1-1g31)
+- [How to use multiple JSX frameworks in Astro](https://dev.to/ryandotfurrer/how-to-use-multiple-jsx-frameworks-in-astro-3aef)
+- [The future of State Management in LWC: Understanding Signals](https://dev.to/leandrobrunner/the-future-of-state-management-in-lwc-understanding-signals-10p0)
+- [Simple and Reusable React Native Radio Button](https://dev.to/matthewzruiz/simple-and-reusable-react-native-radio-button-37ao)
 <!-- BLOG-POST-LIST:END -->
 
 ---
