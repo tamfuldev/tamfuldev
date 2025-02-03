@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Strong Password Regex in C#: From Basic to Advanced](https://dev.to/ravivis13370227/understanding-strong-password-regex-in-c-from-basic-to-advanced-25cf)
-- [The Ultimate Guide to Data Structures and Algorithms | Mbloging](https://dev.to/muhayminbinmehmood/the-ultimate-guide-to-data-structures-and-algorithms-mbloging-4bf3)
-- [JShell: Un REPL para Java](https://dev.to/asjordi/jshell-un-repl-para-java-3ik1)
-- [Blackjack in Python](https://dev.to/diodemusic/blackjack-in-python-ben)
-- [🔐 Why is Verification &lpar;KYC&rpar; Important on Crypto Exchanges? 🚀](https://dev.to/cryptosandy/why-is-verification-kyc-important-on-crypto-exchanges-4ip4)
+- [My first full on game 🎮](https://dev.to/mince/my-first-full-on-game-aba)
+- [[Boost]](https://dev.to/robertghenciu/-2kj1)
+- [How to Remove a Stubborn Docker Volume](https://dev.to/documendous/how-to-remove-a-stubborn-docker-volume-peb)
+- [Simplifying Relational Management with Strapi Populate Plugin](https://dev.to/strapi/simplifying-relational-management-with-strapi-populate-plugin-2pla)
+- [Find experienced developers to talk, main about opensource！！！](https://dev.to/xs10l3/find-experienced-developers-to-talk-main-about-opensource-1blh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
