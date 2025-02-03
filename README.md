@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Installation de service réseau](https://dev.to/javascriptx/installation-de-service-reseau-53fg)
-- [The Future of Insurance: Innovations in Software Development](https://dev.to/riddhi_patel_e6815161040b/the-future-of-insurance-innovations-in-software-development-58b1)
-- [Recueil de besoins &lpar;Formule 1&rpar;](https://dev.to/javascriptx/recueil-de-besoins-formule-1-1gam)
-- [Création d&#39;une base de données](https://dev.to/javascriptx/creation-dune-base-de-donnees-3dpo)
-- [Installation d&#39;un poste de développement](https://dev.to/javascriptx/installation-dun-poste-de-developpement-2cdj)
+- [Top 11 Python Libraries Every Data Scientist Should Know](https://dev.to/tarunfulera1/top-11-python-libraries-every-data-scientist-should-know-4en0)
+- [🔱 From Dilemma to Creation: How I Brought Raavan to Life with AI](https://dev.to/avradeep_nayak_fa8d5f6995/from-dilemma-to-creation-how-i-brought-raavan-to-life-with-ai-2nde)
+- [Iconsax React: A Modern Icon Library](https://dev.to/premier213/iconsax-react-a-modern-icon-library-5dm9)
+- [Set To-Do list as windows wallpaper &lpar;coded by sonnet&rpar;](https://dev.to/casualwriter/set-to-do-list-as-windows-wallpaper-coded-by-sonnet-2dn7)
+- [The Role of Computer Vision in Autonomous Vehicle Navigation](https://dev.to/angelika_berd/the-role-of-computer-vision-in-autonomous-vehicle-navigation-25l4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
