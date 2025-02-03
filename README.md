@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Strategy Design Pattern in Java](https://dev.to/mspilari/strategy-design-pattern-in-java-a-practical-guide-4l7j)
-- [&quot;AI and ML Integration: A Guide for Developers to Enhance Modern Applications&quot;](https://dev.to/game_apk_/ai-and-ml-integration-a-guide-for-developers-to-enhance-modern-applications-15ka)
-- [🚀 How to Run DeepSeek Locally: A Simple Guide to Your Personal AI](https://dev.to/hadil/how-to-run-deepseek-locally-a-simple-guide-to-your-personal-ai-5613)
-- [Web3 Needs More Than Just Developers: A Reflection on Awareness and Collaboration](https://dev.to/trancendgeeks/web3-needs-more-than-just-developers-a-reflection-on-awareness-and-collaboration-5h39)
-- [A Docker Not So Quick Start 🐋 - Baby Steps](https://dev.to/lucioew28/a-docker-not-so-quick-start-baby-steps-4o72)
+- [Raspberry Pi 5 Ollama Llama3.x Performance](https://dev.to/blacknight318/raspberry-pi-5-ollama-llama3x-performance-1god)
+- [Error Handling in Frontend Development](https://dev.to/drishti1920/error-handling-in-frontend-development-dik)
+- [🧬 What’s Your DNA Ancestry? How Bioinformatics Can Find Out!](https://dev.to/biopractify_team_69ab4279/whats-your-dna-ancestry-how-bioinformatics-can-find-out-270h)
+- [Run DeepSeek-R1 Locally with Ollama and Anything LL](https://dev.to/jemi98/run-deepseek-r1-locally-with-ollama-and-anything-ll-1f3m)
+- [Java 17](https://dev.to/leoboladox/java-17-4581)
 <!-- BLOG-POST-LIST:END -->
 
 ---
