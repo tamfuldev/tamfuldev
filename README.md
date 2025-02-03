@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing React Islands in static web applications](https://dev.to/logrocket/implementing-react-islands-in-static-web-applications-402c)
-- [Rlinguo — Why Did We Build It?](https://dev.to/colinfay/rlinguo-why-did-we-build-it-5eh1)
-- [🚀 50+ Github Repositories for Your Next Project.](https://dev.to/gittech/50-github-repositories-for-your-next-project-21fi)
-- [The Perceptron! [visually see an AI learn in real time! 👀]](https://dev.to/grahamthedev/the-perceptron-visually-see-an-ai-learn-2fd9)
-- [Day 4: IP Addressing and Subnetting](https://dev.to/arjun98k/day-4-ip-addressing-and-subnetting-50pe)
+- [Mastering Dockerfile: Key Instructions Explained in Simple Terms](https://dev.to/arunranu/mastering-dockerfile-key-instructions-explained-in-simple-terms-2na8)
+- [#icp](https://dev.to/therustfanatic/icp-44b3)
+- [🦊 Блокчейн и смарт-контракты: как лисички научились честно менять орешки 💰](https://dev.to/easycat/blokchiein-i-smart-kontrakty-kak-lisichki-nauchilis-chiestno-mieniat-orieshki-2bgp)
+- [My dream way of testing](https://dev.to/lioneldraghi/my-dream-way-of-testing-8m9)
+- [Build Your First Todo App on ICP: A Friendly Guide](https://dev.to/therustfanatic/build-your-first-todo-app-on-icp-a-friendly-guide-56po)
 <!-- BLOG-POST-LIST:END -->
 
 ---
