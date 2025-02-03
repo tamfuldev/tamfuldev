@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Qwen2.5 Max Release Went Unnoticed in Deepseek Hysteria](https://dev.to/maximsaplin/qwen25-max-release-went-unnoticed-in-deepseek-hysteria-276m)
-- [MonDEV goes on a break](https://dev.to/giuliano1993/mondev-goes-on-a-break-2b9e)
-- [MySQL utf8 vs utf8mb4: Which One Should You Use?](https://dev.to/dbvismarketing/mysql-utf8-vs-utf8mb4-which-one-should-you-use-1aa3)
-- [Predicting 2025 - A brave new world!](https://dev.to/fm/predicting-2025-a-brave-new-world-4iip)
-- [Data Analytics 101: A Step-by-Step Guide for Absolute Beginners](https://dev.to/uzrkhatri29/data-analytics-101-a-step-by-step-guide-for-absolute-beginners-2pb2)
+- [AI Training Breakthrough: Reinforcement Learning Beats Traditional Methods for Model Performance](https://dev.to/mikeyoung44/ai-training-breakthrough-reinforcement-learning-beats-traditional-methods-for-model-performance-5879)
+- [Breakthrough: New Algorithm Makes Robot Teams 40% Faster and More Resilient to Communication Loss](https://dev.to/mikeyoung44/breakthrough-new-algorithm-makes-robot-teams-40-faster-and-more-resilient-to-communication-loss-340k)
+- [New AI Method Cuts Search Time by 70% While Maintaining Accuracy, Study Shows](https://dev.to/mikeyoung44/new-ai-method-cuts-search-time-by-70-while-maintaining-accuracy-study-shows-56hn)
+- [Explorando la IA Generativa con South Park: Un Proyecto en Familia](https://dev.to/aws-espanol/explorando-la-ia-generativa-con-south-park-un-proyecto-en-familia-137p)
+- [AI-Powered Radio Tech Boosts Wireless Performance by 20% Using Language Model Breakthrough](https://dev.to/mikeyoung44/ai-powered-radio-tech-boosts-wireless-performance-by-20-using-language-model-breakthrough-10m4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
