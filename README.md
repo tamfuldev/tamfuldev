@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Easy way to configure your kubeconfig and to debug your your EKS Cluster](https://dev.to/aws-builders/easy-way-to-configure-your-kubeconfig-and-to-debug-your-your-eks-cluster-3k5p)
-- [Tsonnet #2 - Cram tests to the rescue](https://dev.to/bitmaybewise/tsonnet-2-cram-tests-to-the-rescue-1jpd)
-- [Modern Invoice Generation with XSLT and React: A Seamless Integration Guide](https://dev.to/serifcolakel/modern-invoice-generation-with-xslt-and-react-a-seamless-integration-guide-25n8)
-- [Building a Scalable Web Application on AWS Using Core Services [Perfect for Beginners]](https://dev.to/aws-builders/building-a-scalable-web-application-on-aws-using-core-services-perfect-for-beginners-22h8)
-- [Azure Availability Zone vs. Availability Set: Making the Right Choice](https://dev.to/preshious/azure-availability-zone-vs-availability-set-making-the-right-choice-4jpg)
+- [Criação de Hooks Personalizados no React: Reutilização de Lógica de Forma Inteligente](https://dev.to/judsonkerller/criacao-de-hooks-personalizados-no-react-reutilizacao-de-logica-de-forma-inteligente-3cap)
+- [Deepseek AI paper](https://dev.to/ai-ops/deepseek-ai-paper-4b16)
+- [𝐖𝐡𝐚𝐭 𝐢𝐬 𝐚𝐧 𝐀𝐈 𝐀𝐠𝐞𝐧𝐭?](https://dev.to/ai-ops/-1jop)
+- [Automating Conversations: Building a Smart Call Agent Using Twilio and ElevenLabs](https://dev.to/programmerraja/automating-conversations-building-a-smart-call-agent-using-twilio-and-elevenlabs-3331)
+- [Daily JavaScript Challenge #JS-91: Calculate Average RGB Values of an Image](https://dev.to/dpc/daily-javascript-challenge-js-91-calculate-average-rgb-values-of-an-image-4lfo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
