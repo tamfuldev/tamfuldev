@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Super Villain Power App](https://dev.to/wyattdave/the-super-villain-power-app-405h)
-- [Python Day-32 Object oriented programming&lpar;oops&rpar;, CSV, Matplotlib](https://dev.to/guru_prasanna_01/python-day-32-object-oriented-programmingoops-csv-matplotlib-f4c)
-- [How to Run DiskPart as Administrator on Windows 11? 4 Easy Ways!](https://dev.to/winsides/how-to-run-diskpart-as-administrator-on-windows-11-4-easy-ways-35g7)
-- [Home Assistant: Overview about Smart Light and Smart Power Protocols](https://dev.to/admantium/home-assistant-overview-about-smart-light-and-smart-power-protocols-2fjh)
-- [Integrate Azure Cosmos DB Docker Container in CI/CD pipeline with GitHub Actions](https://dev.to/abhirockzz/integrate-azure-cosmos-db-docker-container-in-cicd-pipeline-with-github-actions-jlk)
+- [Qwen2.5 Max Release Went Unnoticed in Deepseek Hysteria](https://dev.to/maximsaplin/qwen25-max-release-went-unnoticed-in-deepseek-hysteria-276m)
+- [MonDEV goes on a break](https://dev.to/giuliano1993/mondev-goes-on-a-break-2b9e)
+- [MySQL utf8 vs utf8mb4: Which One Should You Use?](https://dev.to/dbvismarketing/mysql-utf8-vs-utf8mb4-which-one-should-you-use-1aa3)
+- [Predicting 2025 - A brave new world!](https://dev.to/fm/predicting-2025-a-brave-new-world-4iip)
+- [Data Analytics 101: A Step-by-Step Guide for Absolute Beginners](https://dev.to/uzrkhatri29/data-analytics-101-a-step-by-step-guide-for-absolute-beginners-2pb2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
