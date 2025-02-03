@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Countdown Timer in C++ | Daily UI Challenge Day 14](https://dev.to/jds64/how-to-build-a-countdown-timer-in-c-daily-ui-challenge-day-14-2fmj)
-- [Feature Flags: Lessons From the Trenches - Part 1](https://dev.to/bdestrempes/feature-flags-lessons-from-the-trenches-part-1-1g31)
-- [How to use multiple JSX frameworks in Astro](https://dev.to/ryandotfurrer/how-to-use-multiple-jsx-frameworks-in-astro-3aef)
-- [The future of State Management in LWC: Understanding Signals](https://dev.to/leandrobrunner/the-future-of-state-management-in-lwc-understanding-signals-10p0)
-- [Simple and Reusable React Native Radio Button](https://dev.to/matthewzruiz/simple-and-reusable-react-native-radio-button-37ao)
+- [Test Automation in the Modern Era: How Genqe.ai is Shaping the Future of Software Testing](https://dev.to/radha_4c842d8e4362a7cdd9c/test-automation-in-the-modern-era-how-genqeai-is-shaping-the-future-of-software-testing-5g6g)
+- [Setting Up an NGINX Web Server on Azure: My DevOps HNG Stage 0 Experience](https://dev.to/otumba/setting-up-an-nginx-web-server-on-azure-my-devops-hng-stage-0-experience-1i0k)
+- [Navigating the Cloud: Key Terms and Concepts Every Developer Should Know](https://dev.to/kelechiedeh/navigating-the-cloud-key-terms-and-concepts-every-developer-should-know-1pcp)
+- [The Ultimate Guide to Learning Web3: Blockchain, Smart Contracts, NFTs &amp; DeFi Explained](https://dev.to/adityabhuyan/the-ultimate-guide-to-learning-web3-blockchain-smart-contracts-nfts-defi-explained-5377)
+- [52u.today](https://dev.to/abdulmunaf_ali_9129f636b8/52utoday-4gje)
 <!-- BLOG-POST-LIST:END -->
 
 ---
