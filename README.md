@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Start 2025 with this! 🚀🤓](https://dev.to/wahabshah23/start-2025-with-this-3hcg)
-- [Lua scripting in mpv video player](https://dev.to/sledov/lua-scripting-in-mpv-video-player-4fdh)
-- [Understanding Azure Resource Groups and How to Create One](https://dev.to/kelechiedeh/understanding-azure-resource-groups-and-how-to-create-one-4fae)
-- [React Props Explained Simply: Passing Data Between Components](https://dev.to/marveeeen/react-props-explained-simply-passing-data-between-components-1ai0)
-- [My Journey Learning CSS - Types-Inline, Internal, External 🚀 &lpar;Day-7&rpar;](https://dev.to/angshu/my-journey-learning-css-types-inline-internal-external-day-7-8n3)
+- [Short-Term vs. Long-Term: Understanding Goals, Investments, and Planning](https://dev.to/susheel_kumar/short-term-vs-long-term-understanding-goals-investments-and-planning-44la)
+- [Exploring Project IDX](https://dev.to/dev_orizon/exploring-project-idx-1n60)
+- [SWITCH SELECTION IN POWER BI DAX](https://dev.to/johnkyalo/switch-selection-in-power-bi-dax-5ai3)
+- [Puglin to insert reCAPTCHA in Wordpress](https://dev.to/julianatsoc/puglin-to-insert-recaptcha-in-wordpress-1a65)
+- [Dev Diary #3 - Fishing Rod Equipment Page](https://dev.to/tempestio/dev-diary-3-fishing-rod-equipment-page-14fe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
