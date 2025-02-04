@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/balasubramani_manoj/-4h82)
-- [🚀 CI/CD Tips: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/cicd-tips-essential-tips-and-tricks-for-developers-lnc)
-- [play_video.html](https://dev.to/md_iam_b951d591f0e90626e0/playvideohtml-1072)
-- [Automating Flask App Deployment with Docker &amp; GitHub Actions](https://dev.to/sudo_anuj/automating-flask-app-deployment-with-docker-github-actions-8gh)
-- [Mistral’s ‘Small’ 24B Parameter Model Blows Minds—No Data Sent to China, Just Pure AI Power!](https://dev.to/alexander_uspenskiy_the_great/mistrals-small-24b-parameter-model-blows-minds-no-data-sent-to-china-just-pure-ai-power-2p30)
+- [Start 2025 with this! 🚀🤓](https://dev.to/wahabshah23/start-2025-with-this-3hcg)
+- [Lua scripting in mpv video player](https://dev.to/sledov/lua-scripting-in-mpv-video-player-4fdh)
+- [Understanding Azure Resource Groups and How to Create One](https://dev.to/kelechiedeh/understanding-azure-resource-groups-and-how-to-create-one-4fae)
+- [React Props Explained Simply: Passing Data Between Components](https://dev.to/marveeeen/react-props-explained-simply-passing-data-between-components-1ai0)
+- [My Journey Learning CSS - Types-Inline, Internal, External 🚀 &lpar;Day-7&rpar;](https://dev.to/angshu/my-journey-learning-css-types-inline-internal-external-day-7-8n3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
