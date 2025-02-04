@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Benefits of Hybrid Learning Models](https://dev.to/growkon21/benefits-of-hybrid-learning-models-4gle)
-- [Improving DBChat - Part 10](https://dev.to/shrsv/improving-dbchat-part-10-3cff)
-- [Which Authentication to Use? A Comparison of 4 Popular Approaches](https://dev.to/leapcell/which-authentication-to-use-a-comparison-of-4-popular-approaches-24jc)
-- [How I take notes with Neovim](https://dev.to/kurealnum/how-i-take-notes-with-neovim-9dd)
-- [Quieres ser mi San Valentin?](https://dev.to/jonas_merchan_24ad34/quieres-ser-mi-san-valentin-2a2e)
+- [No, Wall Street, DeepSeek is not &quot;far superior&quot;](https://dev.to/alexjitbit/no-wall-street-deepseek-is-not-far-superior-51c7)
+- [How to Run DeepSeek R1 Locally on Your PC](https://dev.to/chemenggcalc/how-to-run-deepseek-r1-locally-on-your-pc-162i)
+- [Going Global with Serverless: Multi-Region Architectures on AWS](https://dev.to/aws-builders/going-global-with-serverless-multi-region-architectures-on-aws-2k8n)
+- [Building Robust Serverless Workflows with AWS Step Functions: Long-Running Order Fulfillment with Retries and Human Approvals](https://dev.to/sudoconsultants/building-robust-serverless-workflows-with-aws-step-functions-long-running-order-fulfillment-with-8ff)
+- [Study Notes 2.2.7: Managing Schedules and Backfills with BigQuery in Kestra](https://dev.to/pizofreude/study-notes-227-managing-schedules-and-backfills-with-bigquery-in-kestra-1hl9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
