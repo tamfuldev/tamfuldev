@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀My Portfolio is Now Open Source!](https://dev.to/ahmed_tabib_ts/my-portfolio-is-now-open-source-4lpb)
-- [Going beyond the basic GPT-wrapper](https://dev.to/robin_ble/going-beyond-the-basic-gpt-wrapper-1g22)
-- [The Productivity Secret Hiding in Plain Sight](https://dev.to/wraith/the-productivity-secret-hiding-in-plain-sight-381c)
-- [The 5 Best Case Management Software for Nonprofits](https://dev.to/alex_ferguson/the-5-best-case-management-software-for-nonprofits-4ip4)
-- [Graph Neural Networks: Theoretical Foundations and Core Mechanisms; A Review of the Groundbreaking 2009 Paper &lpar;Part 1&rpar;](https://dev.to/_hm/graph-neural-networks-theoretical-foundations-and-core-mechanisms-a-review-of-the-groundbreaking-1llp)
+- [Explorando o GitHub Copilot: Seu Novo Assistente de Código Inteligente!](https://dev.to/regina_celiacordeiromou/explorando-o-github-copilot-seu-novo-assistente-de-codigo-inteligente-3k9n)
+- [Migrating WordPress website to headless CMS: a step-by-step guide](https://dev.to/flotiq/migrating-wordpress-website-to-headless-cms-a-step-by-step-guide-ec1)
+- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/jayzwillz/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-303d)
+- [Gérer les événements sur un bouton en JavaScript](https://dev.to/mdytrl/gerer-les-evenements-sur-un-bouton-en-javascript-31gp)
+- [Using Android to stream to Twitch. Part 3. Manual video encoding](https://dev.to/theplebdev/using-android-to-stream-to-twitch-part-3-manual-video-encoding-mj4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
