@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Software Engineering in the Modern Era: How Genqe.ai is Revolutionizing Development Practices](https://dev.to/anil_csimplifyit_905c/software-engineering-in-the-modern-era-how-genqeai-is-revolutionizing-development-practices-5h38)
-- [[Boost]](https://dev.to/faizan_mahermaher_e9250e/-268g)
-- [Entendendo o Algoritmo Breadth-first search &lpar;BFS&rpar;](https://dev.to/lucas_oliveira_b978d8c21c/entendendo-o-algoritmo-breadth-first-search-bfs-43h8)
-- [Attack Surface Mapping: A Comprehensive Guide](https://dev.to/orhan_yildirim_5d88bf1e81/attack-surface-mapping-a-comprehensive-guide-2d5i)
-- [Navigating the AI Revolution: A Comprehensive Introduction](https://dev.to/aeyedigest/navigating-the-ai-revolution-a-comprehensive-introduction-401a)
+- [[Boost]](https://dev.to/balasubramani_manoj/-4h82)
+- [🚀 CI/CD Tips: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/cicd-tips-essential-tips-and-tricks-for-developers-lnc)
+- [play_video.html](https://dev.to/md_iam_b951d591f0e90626e0/playvideohtml-1072)
+- [Automating Flask App Deployment with Docker &amp; GitHub Actions](https://dev.to/sudo_anuj/automating-flask-app-deployment-with-docker-github-actions-8gh)
+- [Mistral’s ‘Small’ 24B Parameter Model Blows Minds—No Data Sent to China, Just Pure AI Power!](https://dev.to/alexander_uspenskiy_the_great/mistrals-small-24b-parameter-model-blows-minds-no-data-sent-to-china-just-pure-ai-power-2p30)
 <!-- BLOG-POST-LIST:END -->
 
 ---
