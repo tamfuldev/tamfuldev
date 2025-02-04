@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Time and Space Complexity: A Mind-Bending Adventure into the Realm of Efficient Algorithms!](https://dev.to/sayed_ali_alkamel/time-and-space-complexity-a-mind-bending-adventure-into-the-realm-of-efficient-algorithms-530g)
-- [Outgrowing Postgres: How to identify scale problems](https://dev.to/tbperegrine/outgrowing-postgres-how-to-identify-scale-problems-ggk)
-- [Unlocking the Power of Batch Processing with Spring Boot: A Deep Dive into Steps](https://dev.to/thiago_souza_1510/unlocking-the-power-of-batch-processing-with-spring-boot-a-deep-dive-into-steps-m70)
-- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/somtoochukwu/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-4k0l)
-- [Monitoring EC2 instances deployed with Blue/Green deployment](https://dev.to/andrii-shykhov/monitoring-ec2-instances-deployed-with-bluegreen-deployment-17dp)
+- [Software Engineering in the Modern Era: How Genqe.ai is Revolutionizing Development Practices](https://dev.to/anil_csimplifyit_905c/software-engineering-in-the-modern-era-how-genqeai-is-revolutionizing-development-practices-5h38)
+- [[Boost]](https://dev.to/faizan_mahermaher_e9250e/-268g)
+- [Entendendo o Algoritmo Breadth-first search &lpar;BFS&rpar;](https://dev.to/lucas_oliveira_b978d8c21c/entendendo-o-algoritmo-breadth-first-search-bfs-43h8)
+- [Attack Surface Mapping: A Comprehensive Guide](https://dev.to/orhan_yildirim_5d88bf1e81/attack-surface-mapping-a-comprehensive-guide-2d5i)
+- [Navigating the AI Revolution: A Comprehensive Introduction](https://dev.to/aeyedigest/navigating-the-ai-revolution-a-comprehensive-introduction-401a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
