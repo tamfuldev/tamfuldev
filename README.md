@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 04 February!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-04-february-4opi)
-- [[Boost]](https://dev.to/felix_castillo_88bc37a634/-a05)
-- [[Boost]](https://dev.to/norman_luke_2ee1689c93ffd/-aah)
-- [[Boost]](https://dev.to/calebmakafui/-1h5c)
-- [Understanding Azure Storage: A Comprehensive Guide](https://dev.to/pravinjadhav/understanding-azure-storage-a-comprehensive-guide-alb)
+- [🚀My Portfolio is Now Open Source!](https://dev.to/ahmed_tabib_ts/my-portfolio-is-now-open-source-4lpb)
+- [Going beyond the basic GPT-wrapper](https://dev.to/robin_ble/going-beyond-the-basic-gpt-wrapper-1g22)
+- [The Productivity Secret Hiding in Plain Sight](https://dev.to/wraith/the-productivity-secret-hiding-in-plain-sight-381c)
+- [The 5 Best Case Management Software for Nonprofits](https://dev.to/alex_ferguson/the-5-best-case-management-software-for-nonprofits-4ip4)
+- [Graph Neural Networks: Theoretical Foundations and Core Mechanisms; A Review of the Groundbreaking 2009 Paper &lpar;Part 1&rpar;](https://dev.to/_hm/graph-neural-networks-theoretical-foundations-and-core-mechanisms-a-review-of-the-groundbreaking-1llp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
