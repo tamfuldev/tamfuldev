@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Radio](https://dev.to/preetha_vaishnavi_2b82358/radio-2gp7)
-- [Loader](https://dev.to/preetha_vaishnavi_2b82358/loader-3fmg)
-- [Button](https://dev.to/preetha_vaishnavi_2b82358/button-4h5p)
-- [🎙️ The future of Test Data Provisioning: Why automation is essential](https://dev.to/gigantics/the-future-of-test-data-provisioning-why-automation-is-essential-4fja)
-- [Radio Button](https://dev.to/preetha_vaishnavi_2b82358/radio-button-1enp)
+- [Benefits of Hybrid Learning Models](https://dev.to/growkon21/benefits-of-hybrid-learning-models-4gle)
+- [Improving DBChat - Part 10](https://dev.to/shrsv/improving-dbchat-part-10-3cff)
+- [Which Authentication to Use? A Comparison of 4 Popular Approaches](https://dev.to/leapcell/which-authentication-to-use-a-comparison-of-4-popular-approaches-24jc)
+- [How I take notes with Neovim](https://dev.to/kurealnum/how-i-take-notes-with-neovim-9dd)
+- [Quieres ser mi San Valentin?](https://dev.to/jonas_merchan_24ad34/quieres-ser-mi-san-valentin-2a2e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
