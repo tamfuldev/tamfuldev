@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Short-Term vs. Long-Term: Understanding Goals, Investments, and Planning](https://dev.to/susheel_kumar/short-term-vs-long-term-understanding-goals-investments-and-planning-44la)
-- [Exploring Project IDX](https://dev.to/dev_orizon/exploring-project-idx-1n60)
-- [SWITCH SELECTION IN POWER BI DAX](https://dev.to/johnkyalo/switch-selection-in-power-bi-dax-5ai3)
-- [Puglin to insert reCAPTCHA in Wordpress](https://dev.to/julianatsoc/puglin-to-insert-recaptcha-in-wordpress-1a65)
-- [Dev Diary #3 - Fishing Rod Equipment Page](https://dev.to/tempestio/dev-diary-3-fishing-rod-equipment-page-14fe)
+- [4+ Best Ways- Open Computer Management as Administrator on Windows 11!](https://dev.to/winsides/4-best-ways-open-computer-management-as-administrator-on-windows-11-27pn)
+- [I retired and taught myself how to code](https://dev.to/kilou/i-retired-and-taught-myself-how-to-code-3pjj)
+- [Understanding Total Taxable Income](https://dev.to/susheel_kumar/understanding-total-taxable-income-4cd4)
+- [DeepSeek, Efficiency, and Big Tech’s Response](https://dev.to/pinei/deepseek-efficiency-and-big-techs-response-3ga9)
+- [Key Points on Section 87A of the Income Tax Act](https://dev.to/susheel_kumar/key-points-on-section-87a-of-the-income-tax-act-4ami)
 <!-- BLOG-POST-LIST:END -->
 
 ---
