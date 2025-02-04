@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [TIL Weekly #2](https://dev.to/uskdev/til-weekly-2-6pb)
-- [Unlocking the Power of NoSQL: Understanding HBase](https://dev.to/surajvatsya/unlocking-the-power-of-nosql-understanding-hbase-1n8j)
-- [Overcoming Real-world Challenges While Deploying an AWS Translation Project:](https://dev.to/philipessel/overcoming-real-world-challenges-while-deploying-an-aws-translation-project-4b4i)
-- [Integrating Elastic APM with Kubernetes Clusters for Comprehensive Monitoring](https://dev.to/devaaai/integrating-elastic-apm-with-kubernetes-clusters-for-comprehensive-monitoring-2ea6)
-- [JavaScript Jobs for Beginners: Where to Start?](https://dev.to/chetandevx/javascript-jobs-for-beginners-where-to-start-17k)
+- [Auto update for the Wordpress](https://dev.to/linomanzz/auto-update-for-the-wordpress-2759)
+- [Run DeepSeek R-1 Thinking Model in Kaggle Notebook Using Ollama](https://dev.to/ifeanyi_idiaye_3f6d81ed8a/run-deepseek-r-1-thinking-model-in-kaggle-notebook-using-ollama-5195)
+- [Connecting a React Frontend with a Node.js Express Backend](https://dev.to/igorcastilhos/connecting-a-react-frontend-with-a-nodejs-express-backend-4d82)
+- [[Boost]](https://dev.to/marcuskohlberg/-2028)
+- [How to build a Polling System with Node / TypeScript using Encore.ts](https://dev.to/encore/how-to-build-a-polling-system-with-node-typescript-using-encorets-1219)
 <!-- BLOG-POST-LIST:END -->
 
 ---
