@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Auto update for the Wordpress](https://dev.to/linomanzz/auto-update-for-the-wordpress-2759)
-- [Run DeepSeek R-1 Thinking Model in Kaggle Notebook Using Ollama](https://dev.to/ifeanyi_idiaye_3f6d81ed8a/run-deepseek-r-1-thinking-model-in-kaggle-notebook-using-ollama-5195)
-- [Connecting a React Frontend with a Node.js Express Backend](https://dev.to/igorcastilhos/connecting-a-react-frontend-with-a-nodejs-express-backend-4d82)
-- [[Boost]](https://dev.to/marcuskohlberg/-2028)
-- [How to build a Polling System with Node / TypeScript using Encore.ts](https://dev.to/encore/how-to-build-a-polling-system-with-node-typescript-using-encorets-1219)
+- [Remove local branches that are no longer in the origin](https://dev.to/dsteixeira/remove-local-branches-that-are-no-longer-in-the-origin-cdd)
+- [Análise Estática de Código com AST](https://dev.to/scovl/analise-estatica-de-codigo-com-ast-4co0)
+- [After struggling with JavaScript frameworks](https://dev.to/arshh/after-struggling-with-javascript-frameworks-3k73)
+- [How to Build Stunning UI with Modern CSS &lpar;No Frameworks Needed&rpar;](https://dev.to/digitalminds/how-to-build-stunning-ui-with-modern-css-no-frameworks-needed-4am3)
+- [Documentation Release Notes - January 2025](https://dev.to/pubnub/documentation-release-notes-january-2025-583g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
