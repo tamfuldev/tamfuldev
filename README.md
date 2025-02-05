@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Path of Typing Ninja - THOUFIQ](https://dev.to/thoufiqizhar7/the-path-of-typing-ninja-thoufiq-2ghk)
-- [🚀 Create Complete MERN Web App &lpar;OPT verification, JWT Token and more&rpar; 🔥 🌐](https://dev.to/hanzla-baig/create-complete-mern-web-app-opt-verification-jwt-token-and-more-48)
-- [NodeJS Express Setup with Typescript, ESLint, Prettier](https://dev.to/vishal_jagamani/nodejs-express-with-typescript-eslint-prettier-5a58)
-- [State Management in Software Development](https://dev.to/farhatsharifh/state-management-in-software-development-4cli)
-- [Artículo para ver sincronización con API externa](https://dev.to/leonardo_gonzlez_e98d324/articulo-para-ver-sincronizacion-con-api-externa-2ipp)
+- [Trending 50+ Github Repositories for Projects.](https://dev.to/gittech/trending-50-github-repositories-for-projects-mj5)
+- [25+ Programming Resources for Every Developers.](https://dev.to/dev-resources/25-programming-resources-for-every-developers-2750)
+- [Converting a Spring MVC App To Mendix](https://dev.to/ragutislt/converting-a-spring-mvc-app-to-mendix-36pc)
+- [A brief history of tech interviews](https://dev.to/jotafeldmann/a-brief-history-of-tech-interviews-1618)
+- [Introduction to Linked Lists in Golang: A Practical Guide](https://dev.to/wycliffealphus/introduction-to-linked-lists-in-golang-a-practical-guide-3epi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
