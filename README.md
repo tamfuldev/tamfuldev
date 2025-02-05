@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Boosting AI Resilience: Defending Against Overthink Attacks on LLMs&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/boosting-ai-resilience-defending-against-overthink-attacks-on-llms-3fgc)
-- [Gen AI Learnings : Hallucinations and your options](https://dev.to/kumartalkstech/gen-ai-learning-hallucinations-and-your-options-5gfg)
-- [The Value of Web Scraping in Data Acquisition](https://dev.to/swiftproxy_residential/the-value-of-web-scraping-in-data-acquisition-27ii)
-- [Resolve &#39;IBM437&#39; is not a supported encoding name EPPlus](https://dev.to/chuongmep/resolve-ibm437-is-not-a-supported-encoding-name-epplus-36bi)
-- [Hello Dev.to, I’m Here to Build &amp; Learn!](https://dev.to/mantle_bearer/hello-devto-im-here-to-build-learn-3gg8)
+- [Mastering Git and GitHub: A Comprehensive Guide - Cheatsheet](https://dev.to/myogeshchavan97/mastering-git-and-github-a-comprehensive-guide-cheatsheet-1gm1)
+- [Schema Changes Are a Blind Spot](https://dev.to/metis/schema-changes-are-a-blind-spot-jji)
+- [Closure in JavaScript](https://dev.to/jyotich15/closure-in-javascript-1ako)
+- [Remove the incorrect submodule addition](https://dev.to/msnmongare/remove-the-incorrect-submodule-addition-1djn)
+- [AI and Twitch: A New Era for Streamers and Advertisers](https://dev.to/entyx/ai-and-twitch-a-new-era-for-streamers-and-advertisers-3cjh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
