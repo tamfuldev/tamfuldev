@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Zodiac – Seu Mapa Astral em Instantes ✨🔮](https://dev.to/w1redl4in/zodiac-seu-mapa-astral-em-instantes-1d9m)
-- [Next.js Portfolio Site Documentation](https://dev.to/ed_sels/nextjs-portfolio-site-documentation-193b)
-- [Introduction to Algorithms and Pseudocode](https://dev.to/mohbohlahji/introduction-to-algorithms-and-pseudocode-lnj)
-- [Rapyd Protect: Machine Learning That Works For You](https://dev.to/rapyd/rapyd-protect-machine-learning-that-works-for-you-22nb)
-- [Bringing a DeepSeek R1 LangGraph Agent Into The Real World Using CopilotKit](https://dev.to/nathan_tarbert/bringing-a-deepseek-r1-langgraph-agent-into-the-real-world-using-copilotkit-3oia)
+- [[Boost]](https://dev.to/syakirurahman/-29o4)
+- [Simplify Your App Support: Announcing the Intercom Integration for Flutterflow](https://dev.to/tides_by_nuclea/simplify-your-app-support-announcing-the-intercom-integration-for-flutterflow-17kk)
+- [Decoding DeepSeek R1&#39;s Research Abstract](https://dev.to/busycaesar/decoding-deepseek-r1s-research-abstract-4cgi)
+- [DataEngineering Bootcamp Module 2](https://dev.to/grokker_f9bf83d79cb9beb6f/dataengineering-bootcamp-module-2-1pke)
+- [Making an OAuth App for the First Time](https://dev.to/khaled_abdelbar_43f8c0b1d/making-an-oauth-app-for-the-first-time-5gl3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
