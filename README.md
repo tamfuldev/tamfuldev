@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Sample Super Store Analysis Using Python &amp; Pandas](https://dev.to/gerryleonugroho/sample-super-store-analysis-using-python-pandas-g1c)
-- [Azure: Launching and Connecting to a Windows 11 Virtual Machine](https://dev.to/johnogbonna/azure-launching-and-connecting-to-a-windows-11-virtual-machine-5ac3)
-- [Stream multiple responses in the Resource API](https://dev.to/railsstudent/stream-multiple-responses-in-the-resource-api-1eld)
-- [Choosing the Right Visual Effects Outsourcing Partner: Key Considerations](https://dev.to/angelika_berd/choosing-the-right-visual-effects-outsourcing-partner-key-considerations-3a5k)
-- [Binary Innovation: Why Programmers Are at the Heart of Technology’s Evolution](https://dev.to/leslylulu/binary-innovation-why-programmers-are-at-the-heart-of-technologys-evolution-3mnj)
+- [Tailwind CSS 4: Novedades y Configuración](https://dev.to/johnserranodev/tailwind-css-4-novedades-y-configuracion-4495)
+- [Simplest ETL: Data Engineering](https://dev.to/alex_aslam/simplest-etl-data-engineering-47kb)
+- [What is String and its types in Python?](https://dev.to/atifwattoo/what-is-string-and-its-types-in-python-4ide)
+- [Text Preprocessing for NLP: A Step-by-Step Guide to Clean Raw Text Data](https://dev.to/adipamartulandi/text-preprocessing-for-nlp-a-step-by-step-guide-to-clean-raw-text-data-253n)
+- [How to Build Your First RESTful API with Spring Boot Series: Understanding the Springboot Architecture &amp; Project Structure](https://dev.to/oswaldosei/how-to-build-your-first-restful-api-with-spring-boot-series-understanding-the-springboot-10f9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
