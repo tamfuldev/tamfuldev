@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Tailwind CSS 4: Novedades y Configuración](https://dev.to/johnserranodev/tailwind-css-4-novedades-y-configuracion-4495)
-- [Simplest ETL: Data Engineering](https://dev.to/alex_aslam/simplest-etl-data-engineering-47kb)
-- [What is String and its types in Python?](https://dev.to/atifwattoo/what-is-string-and-its-types-in-python-4ide)
-- [Text Preprocessing for NLP: A Step-by-Step Guide to Clean Raw Text Data](https://dev.to/adipamartulandi/text-preprocessing-for-nlp-a-step-by-step-guide-to-clean-raw-text-data-253n)
-- [How to Build Your First RESTful API with Spring Boot Series: Understanding the Springboot Architecture &amp; Project Structure](https://dev.to/oswaldosei/how-to-build-your-first-restful-api-with-spring-boot-series-understanding-the-springboot-10f9)
+- [[Algorithm] 151. Reverse Words in a String](https://dev.to/jihyunj/algorithm-151-reverse-words-in-a-string-5com)
+- [كيف اكتشفت اكثر من ٤٥٠ ثغرة](https://dev.to/ali_essam_40774f25f0f4182/kyf-ktshft-kthr-mn-450-thgr-24gm)
+- [Python’s Popularity in AI and Data Science](https://dev.to/alfred_ferrari_4359c13919/pythons-popularity-in-ai-and-data-science-o3i)
+- [Beyond the Program: The Three Layers of Computer Abstraction and the Underlying Logic of Performance Optimization](https://dev.to/zzhihao/beyond-the-program-the-three-layers-of-computer-abstraction-and-the-underlying-logic-of-2ge4)
+- [Page Transactions and Page Object Model](https://dev.to/douglasdcm/page-transactions-and-page-object-model-2pdj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
