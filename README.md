@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to connect Azure SQL database with desktop application through ODBC or any other way?](https://dev.to/akhil_vandanapu/how-to-connect-azure-sql-database-with-desktop-application-through-odbc-or-any-other-way-1dan)
-- [PROXMOX: Creación de Cluster](https://dev.to/camila_vinza/proxmox-creacion-de-cluster-3hko)
-- [Where to next?](https://dev.to/mobolanleadebesin/where-to-next-54od)
-- [HNG12 STAGE 1: NUMBER CLASSIFICATION API DEVELOPMENT &amp; DEPLOYMENT](https://dev.to/omachokoyakubu/hng12-stage-1-number-classification-api-development-deployment-1if1)
-- [Why_--legacy-peer-deps is Better than --force in npm](https://dev.to/rishabh_rai/why-legacy-peer-deps-is-better-than-force-in-npm-288a)
+- [The Path of Typing Ninja - THOUFIQ](https://dev.to/thoufiqizhar7/the-path-of-typing-ninja-thoufiq-2ghk)
+- [🚀 Create Complete MERN Web App &lpar;OPT verification, JWT Token and more&rpar; 🔥 🌐](https://dev.to/hanzla-baig/create-complete-mern-web-app-opt-verification-jwt-token-and-more-48)
+- [NodeJS Express Setup with Typescript, ESLint, Prettier](https://dev.to/vishal_jagamani/nodejs-express-with-typescript-eslint-prettier-5a58)
+- [State Management in Software Development](https://dev.to/farhatsharifh/state-management-in-software-development-4cli)
+- [Artículo para ver sincronización con API externa](https://dev.to/leonardo_gonzlez_e98d324/articulo-para-ver-sincronizacion-con-api-externa-2ipp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
