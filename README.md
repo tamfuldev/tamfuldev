@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Monthly Amazon Location Service Updates - 2025.01](https://dev.to/aws-heroes/monthly-amazon-location-service-updates-202501-7ff)
-- [Revolutionizing Lock Screen Experience: How Glance on Motorola is Transforming Real-time Information Access](https://dev.to/adambrooks1231/revolutionizing-lock-screen-experience-how-glance-on-motorola-is-transforming-real-time-19bp)
-- [Remix Tutorial: Building A Simple Contact App With Strapi as Backend](https://dev.to/strapi/remix-tutorial-building-a-simple-contact-app-with-strapi-as-backend-407p)
-- [Matanuska ADR 016 - ECMA-55 Compliance](https://dev.to/jfhbrook/matanuska-adr-016-ecma-55-compliance-250i)
-- [Scraping Google Search Results with Python](https://dev.to/crawlbase/scraping-google-search-results-with-python-4p6)
+- [Getting Started with Salesforce: A Comprehensive Overview](https://dev.to/digitalpesitacl/getting-started-with-salesforce-a-comprehensive-overview-56ep)
+- [✨ Apoie um dev brasileiro! Teste o Zodiac agora! 🌟](https://dev.to/nestonzin/apoie-um-dev-brasileiro-teste-o-zodiac-agora-lfl)
+- [Understanding Salesforce and Diverse Industrial Applications](https://dev.to/digitalpesitacl/understanding-salesforce-and-diverse-industrial-applications-3c12)
+- [Hey guys check my new beginner post out! I&#39;m excited, what do you think?](https://dev.to/techygee/hey-guys-check-my-new-beginner-post-out-im-excited-what-do-you-think-42il)
+- [Introducing Simba: Bring Your Knowledge into Your AI](https://dev.to/hamza-zerouali/introducing-simba-bring-your-knowledge-into-your-ai-2ci)
 <!-- BLOG-POST-LIST:END -->
 
 ---
