@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Unlocking Image Generation: The Power of COCONut-PanCap and CaPO Models&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-image-generation-the-power-of-coconut-pancap-and-capo-models-4dcj)
-- [How to bundle Sqflite_common_ffi Database file in Windows .exe executable: Flutter Offline Desktop App](https://dev.to/taiwo_divine_8f40cd7c508d/how-to-bundle-sqflitecommonffi-database-file-in-windows-exe-executable-flutter-offline-desktop-3kgl)
-- [Understanding AWS Lambda&lpar;Serverless Functions&rpar;](https://dev.to/gajanan0707/understanding-aws-lambdaserverless-functions-35ge)
-- [Split Words By Separator](https://dev.to/samson_jebaraj/split-words-by-separator-1chl)
-- [Why hosting your own analytics solution has never been so essential? 🤔](https://dev.to/gilles_vauvarin_861cefba1/why-hosting-your-own-analytics-solution-has-never-been-so-essential-1b20)
+- [How to connect Azure SQL database with desktop application through ODBC or any other way?](https://dev.to/akhil_vandanapu/how-to-connect-azure-sql-database-with-desktop-application-through-odbc-or-any-other-way-1dan)
+- [PROXMOX: Creación de Cluster](https://dev.to/camila_vinza/proxmox-creacion-de-cluster-3hko)
+- [Where to next?](https://dev.to/mobolanleadebesin/where-to-next-54od)
+- [HNG12 STAGE 1: NUMBER CLASSIFICATION API DEVELOPMENT &amp; DEPLOYMENT](https://dev.to/omachokoyakubu/hng12-stage-1-number-classification-api-development-deployment-1if1)
+- [Why_--legacy-peer-deps is Better than --force in npm](https://dev.to/rishabh_rai/why-legacy-peer-deps-is-better-than-force-in-npm-288a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
