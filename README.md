@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Format Specifiers Explained: Precision, Efficiency, and Best Practices in Golang Programming](https://dev.to/the_ladybella/format-specifiers-explained-precision-efficiency-and-best-practices-in-golang-programming-3jeb)
-- [sync.Mutex in Go: A Study](https://dev.to/uskdev/syncmutex-in-go-a-study-47he)
-- [Delete post](https://dev.to/joshua_leon_65b677a50c098/delete-post-50f2)
-- [The Future of Software Development: Trends to Watch in 2025](https://dev.to/scot_cbrown/the-future-of-software-development-trends-to-watch-in-2025-5e43)
-- [Building a Responsive Website with Bootstrap: A Step-by-Step Guide](https://dev.to/ideradevtools/building-a-responsive-website-with-bootstrap-a-step-by-step-guide-3cbk)
+- [Creating a Virtual Machine in Azure Portal](https://dev.to/blessing_azeta_9a7b650577/creating-a-virtual-machine-in-azure-portal-2o94)
+- [Java method](https://dev.to/kandasami_thirunavukarasu/java-method-4k3l)
+- [[Boost]](https://dev.to/uliyahoo/-1dd)
+- [How does React Native’s New Architecture affect performance?](https://dev.to/anishamalde/how-does-react-natives-new-architecture-affect-performance-1ioe)
+- [A Step-by-Step Guide to Deployment Strategies based on AWS Route53 and ELB](https://dev.to/cheedge_lee/a-step-by-step-guide-to-deployment-strategies-based-on-aws-route53-and-elb-3ffk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
