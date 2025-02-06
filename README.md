@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Power of Test Automation](https://dev.to/tomjohnson3/the-power-of-test-automation-5cap)
-- [Golang: Implementing Cron-Like Tasks / Executing Tasks at a Specific Time](https://dev.to/shrsv/golang-implementing-cron-like-tasks-executing-tasks-at-a-specific-time-11j)
-- [Added context understaunding for my decentralized 3d Neural Web Architecture](https://dev.to/okerew/added-context-understaunding-for-my-decentralized-3d-neural-web-architecture-5bik)
-- [There&#39;s Something About Esri](https://dev.to/maryalice/theres-something-about-esri-3o7j)
-- [AWS Nitro: El secreto detrás de la virtualización en AWS](https://dev.to/briansuarezsantiago/aws-nitro-el-secreto-detras-de-la-virtualizacion-en-aws-169l)
+- [📖 Leitura Atual – Capítulo 1: Introdução à Ciência de Dados](https://dev.to/leticiaoliv/leitura-atual-capitulo-1-introducao-a-ciencia-de-dados-168d)
+- [🎙️We have updated the site and here is what I want to say...](https://dev.to/hmpljs/we-have-updated-the-site-and-here-is-what-i-want-to-say-i80)
+- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/kawthar_abolade/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-33dj)
+- [Highly Effective 7 Habits for Developers](https://dev.to/trimech_sarah/highly-effective-7-habits-for-developers-2cpe)
+- [Engineering vs. crafting](https://dev.to/mbjelac/engineering-vs-crafting-393n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
