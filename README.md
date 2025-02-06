@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Notion-like editor with Rails](https://dev.to/railsdesigner/build-a-notion-like-editor-with-rails-25mk)
-- [Next.js 15: Unleashing the Future of Web Development](https://dev.to/ahr_dev/nextjs-15-unleashing-the-future-of-web-development-18ke)
-- [Open-Source Deep Research](https://dev.to/mehmetakar/open-source-deep-research-4685)
-- [🚀 Weekly Project 1 - Project Idea: AI-Powered Interview Question Generator](https://dev.to/weeklybuilder/weekly-project-1-project-idea-ai-powered-interview-question-generator-12hp)
-- [Kombai AI: A Complete Guide &amp; Tutorial for Beginners](https://dev.to/codeparrot/kombai-ai-a-complete-guide-tutorial-for-beginners-3im1)
+- [The Power of Test Automation](https://dev.to/tomjohnson3/the-power-of-test-automation-5cap)
+- [Golang: Implementing Cron-Like Tasks / Executing Tasks at a Specific Time](https://dev.to/shrsv/golang-implementing-cron-like-tasks-executing-tasks-at-a-specific-time-11j)
+- [Added context understaunding for my decentralized 3d Neural Web Architecture](https://dev.to/okerew/added-context-understaunding-for-my-decentralized-3d-neural-web-architecture-5bik)
+- [There&#39;s Something About Esri](https://dev.to/maryalice/theres-something-about-esri-3o7j)
+- [AWS Nitro: El secreto detrás de la virtualización en AWS](https://dev.to/briansuarezsantiago/aws-nitro-el-secreto-detras-de-la-virtualizacion-en-aws-169l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
