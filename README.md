@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Smalltalk meets Forth: Episode I](https://dev.to/jolisper/smalltalk-meets-forth-episode-i-532p)
-- [[Boost]](https://dev.to/naimacodes/-50n)
-- [🚀 13 Must-Read Books for Senior Developers &amp; Software Engineers in 2025](https://dev.to/naimacodes/13-must-read-books-for-senior-developers-software-engineers-in-2025-4op8)
-- [AI Features Testing: A Comprehensive Guide to Automation &lpar;Continued&rpar;](https://dev.to/radha_4c842d8e4362a7cdd9c/ai-features-testing-a-comprehensive-guide-to-automation-continued-26ll)
-- [Why I Want To Be A Front-End Developer And How HNG Will Help Me Achieve My Goals ???](https://dev.to/niyi9889/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-4a32)
+- [Unlocking SQL Server Performance](https://dev.to/dylan_miyake_92960ae77b1c/unlocking-sql-server-performance-1n1a)
+- [🛩️ Expandindo a criatividade e melhorando a produtividade com Obsidian](https://dev.to/capela/expandindo-a-criatividade-e-melhorando-a-produtividade-com-obsidian-cbm)
+- [The Cracked Engineer’s Guide to JavaScript: Mechanics, Magic, and Misconceptions](https://dev.to/gho5t_97/the-cracked-engineers-guide-to-javascript-mechanics-magic-and-misconceptions-28jm)
+- [Providing Storage for IT Department Testing and Training: A Simple Solution](https://dev.to/kelechiedeh/providing-storage-for-it-department-testing-and-training-a-simple-solution-2ped)
+- [Os 10 Melhores Acessórios de Informática para um Desenvolvedor](https://dev.to/marcosplusplus/os-10-melhores-acessorios-de-informatica-para-um-desenvolvedor-pke)
 <!-- BLOG-POST-LIST:END -->
 
 ---
