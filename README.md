@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking SQL Server Performance](https://dev.to/dylan_miyake_92960ae77b1c/unlocking-sql-server-performance-1n1a)
-- [🛩️ Expandindo a criatividade e melhorando a produtividade com Obsidian](https://dev.to/capela/expandindo-a-criatividade-e-melhorando-a-produtividade-com-obsidian-cbm)
-- [The Cracked Engineer’s Guide to JavaScript: Mechanics, Magic, and Misconceptions](https://dev.to/gho5t_97/the-cracked-engineers-guide-to-javascript-mechanics-magic-and-misconceptions-28jm)
-- [Providing Storage for IT Department Testing and Training: A Simple Solution](https://dev.to/kelechiedeh/providing-storage-for-it-department-testing-and-training-a-simple-solution-2ped)
-- [Os 10 Melhores Acessórios de Informática para um Desenvolvedor](https://dev.to/marcosplusplus/os-10-melhores-acessorios-de-informatica-para-um-desenvolvedor-pke)
+- [Implementing RESTful APIs with Python: A Step-by-Step Guide](https://dev.to/janicehoover1989/implementing-restful-apis-with-python-a-step-by-step-guide-3mj0)
+- [How to Create a Purchase Receipt with React - Day 15](https://dev.to/jds64/how-to-create-a-purchase-receipt-with-react-day-15-2i77)
+- [.NET Learning Notes: 配置系统（Configuration）](https://dev.to/alexleeeeeeeeee/net-learning-notes-pei-zhi-xi-tong-configuration-4aen)
+- [My Favorite React Hooks and Why](https://dev.to/johnquintana1957/my-favorite-react-hooks-and-why-iha)
+- [The Power of JavaScript ES6+ Features](https://dev.to/johnquintana1957/the-power-of-javascript-es6-features-1pa8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
