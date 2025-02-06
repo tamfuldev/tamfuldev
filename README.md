@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/syakirurahman/-29o4)
-- [Simplify Your App Support: Announcing the Intercom Integration for Flutterflow](https://dev.to/tides_by_nuclea/simplify-your-app-support-announcing-the-intercom-integration-for-flutterflow-17kk)
-- [Decoding DeepSeek R1&#39;s Research Abstract](https://dev.to/busycaesar/decoding-deepseek-r1s-research-abstract-4cgi)
-- [DataEngineering Bootcamp Module 2](https://dev.to/grokker_f9bf83d79cb9beb6f/dataengineering-bootcamp-module-2-1pke)
-- [Making an OAuth App for the First Time](https://dev.to/khaled_abdelbar_43f8c0b1d/making-an-oauth-app-for-the-first-time-5gl3)
+- [Smalltalk meets Forth: Episode I](https://dev.to/jolisper/smalltalk-meets-forth-episode-i-532p)
+- [[Boost]](https://dev.to/naimacodes/-50n)
+- [🚀 13 Must-Read Books for Senior Developers &amp; Software Engineers in 2025](https://dev.to/naimacodes/13-must-read-books-for-senior-developers-software-engineers-in-2025-4op8)
+- [AI Features Testing: A Comprehensive Guide to Automation &lpar;Continued&rpar;](https://dev.to/radha_4c842d8e4362a7cdd9c/ai-features-testing-a-comprehensive-guide-to-automation-continued-26ll)
+- [Why I Want To Be A Front-End Developer And How HNG Will Help Me Achieve My Goals ???](https://dev.to/niyi9889/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-4a32)
 <!-- BLOG-POST-LIST:END -->
 
 ---
