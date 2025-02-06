@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Virtual Machine in Azure Portal](https://dev.to/blessing_azeta_9a7b650577/creating-a-virtual-machine-in-azure-portal-2o94)
-- [Java method](https://dev.to/kandasami_thirunavukarasu/java-method-4k3l)
-- [[Boost]](https://dev.to/uliyahoo/-1dd)
-- [How does React Native’s New Architecture affect performance?](https://dev.to/anishamalde/how-does-react-natives-new-architecture-affect-performance-1ioe)
-- [A Step-by-Step Guide to Deployment Strategies based on AWS Route53 and ELB](https://dev.to/cheedge_lee/a-step-by-step-guide-to-deployment-strategies-based-on-aws-route53-and-elb-3ffk)
+- [I created a mobile food delivery application in no time, thanks to Websparks AI. Here&#39;s how.](https://dev.to/maruf_hossainpranto_8fba/i-created-a-mobile-food-delivery-application-in-no-time-thanks-to-websparks-ai-heres-how-3epf)
+- [Creating a Resource Group in Azure Portal](https://dev.to/blessing_azeta_9a7b650577/creating-a-resource-group-in-azure-portal-2l3j)
+- [Do I really need N number of Intersection Observers in my app?](https://dev.to/msc24x/do-i-really-need-n-number-of-intersection-observers-in-my-app-1lnm)
+- [Pros and Cons of Next.js](https://dev.to/matthewlafalce/pros-and-cons-of-nextjs-3nh9)
+- [🔒Network Security and Threats: Protecting the Digital World](https://dev.to/arjun98k/network-security-and-threats-protecting-the-digital-world-3729)
 <!-- BLOG-POST-LIST:END -->
 
 ---
