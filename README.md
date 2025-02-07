@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Hosted My Static Website on Amazon S3 Using the AWS Console](https://dev.to/stephen_lawal_dfa0e72034f/how-i-hosted-my-static-website-on-amazon-s3-using-the-aws-console-4o2m)
-- [Serving a Widget Using Node.js 🚀](https://dev.to/shruti_jain_98b67e0d65330/serving-a-widget-using-nodejs-9d9)
-- [Why Serverless Architecture is the Future of Web Development: Pros and Cons](https://dev.to/jyotich15/why-serverless-architecture-is-the-future-of-web-development-pros-and-cons-hlj)
-- [Challenges I Faced as a Student: My Journey to Becoming a Microsoft MVP](https://dev.to/thestudentstories/challenges-i-faced-as-a-student-my-journey-to-becoming-a-microsoft-mvp-2oji)
-- [CSS Animation Performance - CheatSheet](https://dev.to/biomathcode/css-animation-performance-cheatsheet-3g70)
+- [FSCSS Attribute selectors](https://dev.to/fscss/fscss-attribute-selectors-4ejn)
+- [Unleash the Power of Unlimited Live Chat with Our AI-Driven Chatbot](https://dev.to/sunil_kumar_f0acdd0d6e54a/unleash-the-power-of-unlimited-live-chat-with-our-ai-driven-chatbot-3hme)
+- [Custom Insurance Software Development: Faster Approach](https://dev.to/openkoda/custom-insurance-software-development-faster-approach-12kf)
+- [🚀 Docker + WebAssembly &lpar;Wasm&rpar;: The Future of Cloud-Native Apps?](https://dev.to/sajiram_a4704bc095/docker-webassembly-wasm-the-future-of-cloud-native-apps-11mi)
+- [[Boost]](https://dev.to/naman_shukla02/-1gig)
 <!-- BLOG-POST-LIST:END -->
 
 ---
