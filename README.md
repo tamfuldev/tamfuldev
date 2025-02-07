@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix &quot;No Go Packages Exist&quot; Error in Go](https://dev.to/apondiart/how-to-fix-no-go-packages-exist-error-in-go-7lo)
-- [Weekly JavaScript Roundup: Friday Links 17, February 07, 2025](https://dev.to/jsdevspace/weekly-javascript-roundup-friday-links-17-february-07-2025-168l)
-- [Looking for a mentor for web development for free please](https://dev.to/reyes_simonejake_9f392eb/looking-for-a-mentor-for-web-development-for-free-please-3hmh)
-- [Enhancing User Experience on Cars.ng: An Exploratory Testing Insight](https://dev.to/adenike_okunfolami_fa1aaa/enhancing-user-experience-on-carsng-an-exploratory-testing-insight-bak)
-- [n8n: A Revolução das Automações no Mundo Empresarial - 6 exemplos](https://dev.to/dwtoledo/n8n-a-revolucao-das-automacoes-no-mundo-empresarial-6-exemplos-1ie6)
+- [The VSCode one looks awesome, I’m going to try it!](https://dev.to/ljpeg/the-vscode-one-looks-awesome-im-going-to-try-it-1k81)
+- [Help- Best way to implement dynamic permissions in a Node.js &amp; React job application platform?](https://dev.to/javiwasabi/help-best-way-to-implement-dynamic-permissions-in-a-nodejs-react-job-application-platform-3ie)
+- [Maintain and Extend Code Easily with Clean Architecture for Flutter](https://dev.to/ngmduc2012/maintain-and-extend-code-easily-with-clean-architecture-for-flutter-2apm)
+- [Great Article for REST API](https://dev.to/developer_wk_8820/great-blog-for-rest-api-k6o)
+- [Exploratory Testing on Cars.ng – A User Journey Analysis](https://dev.to/oyelade_damilola_10a1ba0e/exploratory-testing-on-carsng-a-user-journey-analysis-l4n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
