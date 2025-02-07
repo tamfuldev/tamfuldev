@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [30 Must-Know Websites Every Marketer Should Bookmark](https://dev.to/aigurux/30-must-know-websites-every-marketer-should-bookmark-3831)
-- [🔐 Best Practices for Storing Access Tokens in the Browser 🔐](https://dev.to/illia_wolkow_61d1e8e752c0/best-practices-for-storing-access-tokens-in-the-browser-31ei)
-- [How CTOs Shape Business Strategy &lpar;and Why it Matters&rpar;](https://dev.to/kakacomputer-media/how-ctos-shape-business-strategy-and-why-it-matters-1748)
-- [How to Build a High-Performing IT Team &lpar;feat. Google Expert&rpar;](https://dev.to/kakacomputer-media/how-to-build-a-high-performing-it-team-feat-google-expert-25hj)
-- [Mastering Technical Teams: Unleash Your Strategies to Motivate and Lead](https://dev.to/kakacomputer-media/mastering-technical-teams-unleash-your-strategies-to-motivate-and-lead-3do7)
+- [Kwaak 0.8 - More LLMs and usability improvements](https://dev.to/timonv/kwaak-08-more-llms-and-usability-improvements-35b7)
+- [Stop Chasing Trends. Work Smart, and Enjoy Life.](https://dev.to/msameerbm/stop-chasing-trends-work-smart-and-enjoy-life-128g)
+- [Boost Your AI Workflow with RunPod 🚀](https://dev.to/lahcenassmira/boost-your-ai-workflow-with-runpod-30f9)
+- [Stop bringing old practices to the cloud](https://dev.to/aws-builders/stop-bringing-old-practices-to-the-cloud-b1m)
+- [Learning Kotlin](https://dev.to/__masashi__/learning-kotlin-3nbe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
