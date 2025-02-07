@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up A 3-Node Kubernetes Cluster](https://dev.to/xalexander/setting-up-a-3-node-kubernetes-cluster-71o)
-- [Setting Up and Configuring NGINX on an Ubuntu Server](https://dev.to/eunini/setting-up-and-configuring-nginx-on-an-ubuntu-server-1alf)
-- [How I Designed a Red Dead Redemption 2 Inspired Map in Mapbox Studio](https://dev.to/leemartin/how-i-designed-a-red-dead-redemption-2-inspired-map-in-mapbox-studio-4gkh)
-- [Inteligencia artificial para la vida](https://dev.to/alexrestrej/inteligencia-artificial-para-la-vida-4785)
-- [The Misadventures of Deploying to Mina Protocol: My Odyssey](https://dev.to/uratmangun/the-misadventures-of-deploying-to-mina-protocol-my-odyssey-3g11)
+- [How to Fix &quot;No Go Packages Exist&quot; Error in Go](https://dev.to/apondiart/how-to-fix-no-go-packages-exist-error-in-go-7lo)
+- [Weekly JavaScript Roundup: Friday Links 17, February 07, 2025](https://dev.to/jsdevspace/weekly-javascript-roundup-friday-links-17-february-07-2025-168l)
+- [Looking for a mentor for web development for free please](https://dev.to/reyes_simonejake_9f392eb/looking-for-a-mentor-for-web-development-for-free-please-3hmh)
+- [Enhancing User Experience on Cars.ng: An Exploratory Testing Insight](https://dev.to/adenike_okunfolami_fa1aaa/enhancing-user-experience-on-carsng-an-exploratory-testing-insight-bak)
+- [n8n: A Revolução das Automações no Mundo Empresarial - 6 exemplos](https://dev.to/dwtoledo/n8n-a-revolucao-das-automacoes-no-mundo-empresarial-6-exemplos-1ie6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
