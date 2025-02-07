@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Securing AWS Environments with Advanced IAM &amp; Zero Trust](https://dev.to/prakash_rao/securing-aws-environments-with-advanced-iam-zero-trust-a-hands-on-approach-59ab)
-- [Enhancing Conversational AI: NeurochainAI Compatible with Voiceflow [no-code edition]](https://dev.to/xabri/enhancing-conversational-ai-neurochainai-compatible-with-voiceflow-no-code-edition-484c)
-- [How to Call the DeepSeek-R1 API Using Python? An In-Depth Step-by-Step Guide](https://dev.to/auden/how-to-call-the-deepseek-r1-api-using-python-an-in-depth-step-by-step-guide-311o)
-- [A React Journey - Giving up jQuery ?](https://dev.to/yasemindeki/a-react-journey-giving-up-jquery--3366)
-- [Recursion Made Easy !](https://dev.to/vijayr00/recursion-made-easy--3675)
+- [How I Hosted My Static Website on Amazon S3 Using the AWS Console](https://dev.to/stephen_lawal_dfa0e72034f/how-i-hosted-my-static-website-on-amazon-s3-using-the-aws-console-4o2m)
+- [Serving a Widget Using Node.js 🚀](https://dev.to/shruti_jain_98b67e0d65330/serving-a-widget-using-nodejs-9d9)
+- [Why Serverless Architecture is the Future of Web Development: Pros and Cons](https://dev.to/jyotich15/why-serverless-architecture-is-the-future-of-web-development-pros-and-cons-hlj)
+- [Challenges I Faced as a Student: My Journey to Becoming a Microsoft MVP](https://dev.to/thestudentstories/challenges-i-faced-as-a-student-my-journey-to-becoming-a-microsoft-mvp-2oji)
+- [CSS Animation Performance - CheatSheet](https://dev.to/biomathcode/css-animation-performance-cheatsheet-3g70)
 <!-- BLOG-POST-LIST:END -->
 
 ---
