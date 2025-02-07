@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Grateful for 2024, Inspired for 2025](https://dev.to/anuradhakumari/grateful-for-2024-inspired-for-2025-11o)
-- [Using the VAS6154A OBD Scanner Remotely with FlexiHub](https://dev.to/diana75082290/using-the-vas6154a-obd-scanner-remotely-with-flexihub-2204)
-- [The AI-Enhanced Developer: Maximizing Efficiency with Coding Agents](https://dev.to/danielsogl/the-ai-enhanced-developer-maximizing-efficiency-with-coding-agents-2lmf)
-- [Wireless Networks and Mobile Communication 📡📲](https://dev.to/arjun98k/wireless-networks-and-mobile-communication-390)
-- [Artificial intelligence in website optimization: benefits and risks](https://dev.to/daniellacatus/artificial-intelligence-in-website-optimization-benefits-and-risks-4ebp)
+- [Friendly Guide to Functional Testing: Techniques, Steps, and Benefits](https://dev.to/lovestaco/friendly-guide-to-functional-testing-techniques-steps-and-benefits-515p)
+- [Adventure: Building with NATS Jetstream KV Store -Part 3](https://dev.to/rphumulock/adventure-building-with-nats-jetstream-kv-store-part-3-4gl)
+- [[Boost]](https://dev.to/ycmjason/-4321)
+- [Event-Driven Microservices with Apache Kafka And Spring Boot: A Practical Guide](https://dev.to/innovate_8b8c24b029d689e8/event-driven-microservices-with-apache-kafka-and-spring-boot-a-practical-guide-2k68)
+- [Why You Should Master Functional Programming &lpar;And How to Do It&rpar;](https://dev.to/shrsv/why-you-should-master-functional-programming-and-how-to-do-it-4ipf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
