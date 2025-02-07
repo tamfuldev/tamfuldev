@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The VSCode one looks awesome, I’m going to try it!](https://dev.to/ljpeg/the-vscode-one-looks-awesome-im-going-to-try-it-1k81)
-- [Help- Best way to implement dynamic permissions in a Node.js &amp; React job application platform?](https://dev.to/javiwasabi/help-best-way-to-implement-dynamic-permissions-in-a-nodejs-react-job-application-platform-3ie)
-- [Maintain and Extend Code Easily with Clean Architecture for Flutter](https://dev.to/ngmduc2012/maintain-and-extend-code-easily-with-clean-architecture-for-flutter-2apm)
-- [Great Article for REST API](https://dev.to/developer_wk_8820/great-blog-for-rest-api-k6o)
-- [Exploratory Testing on Cars.ng – A User Journey Analysis](https://dev.to/oyelade_damilola_10a1ba0e/exploratory-testing-on-carsng-a-user-journey-analysis-l4n)
+- [Automated Regression Testing: How Genqe.ai is Transforming QA Efficiency](https://dev.to/radha_4c842d8e4362a7cdd9c/automated-regression-testing-how-genqeai-is-transforming-qa-efficiency-3l76)
+- [#140 — Generate Continuous Arrays](https://dev.to/judith677/140-generate-continuous-arrays-4amd)
+- [Best Web Scraping Browser | Utilizing Browserless AI to Intelligently Extract Data](https://dev.to/scraper0024/best-web-scraping-browser-utilizing-browserless-ai-to-intelligently-extract-data-28ik)
+- [Install-DeepSeek_Ollama-on-AWS-EC2](https://dev.to/enriqueaguila/install-deepseekollama-on-aws-ec2-223j)
+- [O que é a Ativei Digital?](https://dev.to/pablostorymaker/o-que-e-a-ativei-digital-21o0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
