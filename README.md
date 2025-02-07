@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Friendly Guide to Functional Testing: Techniques, Steps, and Benefits](https://dev.to/lovestaco/friendly-guide-to-functional-testing-techniques-steps-and-benefits-515p)
-- [Adventure: Building with NATS Jetstream KV Store -Part 3](https://dev.to/rphumulock/adventure-building-with-nats-jetstream-kv-store-part-3-4gl)
-- [[Boost]](https://dev.to/ycmjason/-4321)
-- [Event-Driven Microservices with Apache Kafka And Spring Boot: A Practical Guide](https://dev.to/innovate_8b8c24b029d689e8/event-driven-microservices-with-apache-kafka-and-spring-boot-a-practical-guide-2k68)
-- [Why You Should Master Functional Programming &lpar;And How to Do It&rpar;](https://dev.to/shrsv/why-you-should-master-functional-programming-and-how-to-do-it-4ipf)
+- [Supervised Learning Simplified](https://dev.to/thenomadevel/supervised-learning-simplified-1m1d)
+- [TECHNICAL DEBT EMERGENCY: Can You Get the Suits to PAY UP?](https://dev.to/karell_stemarie_ce42bf9c/technical-debt-emergency-can-you-get-the-suits-to-pay-up-4d67)
+- [Top 5 Highest Paying Cisco Certifications in 2025](https://dev.to/rohan_jee_085655230/top-5-highest-paying-cisco-certifications-in-2025-3oad)
+- [Following Line based on Centroid Detection](https://dev.to/jeffliulab/following-line-based-on-centroid-detection-1430)
+- [Zen &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/zen-bite-size-article-49ol)
 <!-- BLOG-POST-LIST:END -->
 
 ---
