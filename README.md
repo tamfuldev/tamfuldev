@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Kwaak 0.8 - More LLMs and usability improvements](https://dev.to/timonv/kwaak-08-more-llms-and-usability-improvements-35b7)
-- [Stop Chasing Trends. Work Smart, and Enjoy Life.](https://dev.to/msameerbm/stop-chasing-trends-work-smart-and-enjoy-life-128g)
-- [Boost Your AI Workflow with RunPod 🚀](https://dev.to/lahcenassmira/boost-your-ai-workflow-with-runpod-30f9)
-- [Stop bringing old practices to the cloud](https://dev.to/aws-builders/stop-bringing-old-practices-to-the-cloud-b1m)
-- [Learning Kotlin](https://dev.to/__masashi__/learning-kotlin-3nbe)
+- [Project Lombok | Java Library | Simplify Your Code | Spring Boot | Java Spring](https://dev.to/debeshpg90/project-lombok-java-library-simplify-your-code-spring-boot-java-spring-523l)
+- [Simplifying Event Grid Publishing: A Lightweight Wrapper for Cleaner Code and Easier Testing](https://dev.to/marktinderholt/simplifying-event-grid-publishing-a-lightweight-wrapper-for-cleaner-code-and-easier-testing-3mgj)
+- [Book Review: Analytical Skills for AI and Data Science](https://dev.to/ireneburresi/book-review-analytical-skills-for-ai-and-data-science-12ei)
+- [#Scope_Hoisting_in_JavaScript 🚀](https://dev.to/rating_rai_/scopehoistinginjavascript-ip6)
+- [Mocking TelemetryClient in Application Insights: A Simple Workaround](https://dev.to/marktinderholt/mocking-telemetryclient-in-application-insights-a-simple-workaround-2mec)
 <!-- BLOG-POST-LIST:END -->
 
 ---
