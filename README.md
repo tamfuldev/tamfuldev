@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [FSCSS Attribute selectors](https://dev.to/fscss/fscss-attribute-selectors-4ejn)
-- [Unleash the Power of Unlimited Live Chat with Our AI-Driven Chatbot](https://dev.to/sunil_kumar_f0acdd0d6e54a/unleash-the-power-of-unlimited-live-chat-with-our-ai-driven-chatbot-3hme)
-- [Custom Insurance Software Development: Faster Approach](https://dev.to/openkoda/custom-insurance-software-development-faster-approach-12kf)
-- [🚀 Docker + WebAssembly &lpar;Wasm&rpar;: The Future of Cloud-Native Apps?](https://dev.to/sajiram_a4704bc095/docker-webassembly-wasm-the-future-of-cloud-native-apps-11mi)
-- [[Boost]](https://dev.to/naman_shukla02/-1gig)
+- [AWS Machine Learning Certified? Let’s Do This!](https://dev.to/jorgecontreras/aws-machine-learning-certified-lets-do-this-4g1c)
+- [Frontend Fundamentals 9/20](https://dev.to/c6z3h/frontend-fundamentals-920-50no)
+- [Contract Testing: A Simple Solution to Event Schema Chaos in Event-Driven Architectures](https://dev.to/francisco_barril_a4564138/contract-testing-a-simple-solution-to-event-schema-chaos-in-event-driven-architectures-28l5)
+- [We need your help!](https://dev.to/skylerdev/we-need-your-help-3b90)
+- [Node.js vs Deno: Should You Still Hire a Node.js Developer in 2025?](https://dev.to/harshikachauhan/nodejs-vs-deno-should-you-still-hire-a-nodejs-developer-in-2025-46ei)
 <!-- BLOG-POST-LIST:END -->
 
 ---
