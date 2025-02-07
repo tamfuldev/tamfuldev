@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [a simple solution to escape maze](https://dev.to/jeffliulab/a-simple-solution-to-escape-maze-onc)
-- [Implementation of Singleton Design Pattern in React](https://dev.to/nashirjamali/implementation-of-singleton-design-pattern-in-react-5dma)
-- [Portfolio - About Me](https://dev.to/onlinedevelopers/portfolio-about-me-1lhk)
-- [Python Day- 35 Abstraction , Encapsulation](https://dev.to/guru_prasanna_01/python-day-35-abstraction-encapsulation-18n1)
-- [bancon](https://dev.to/timthoi/bancon-1dnh)
+- [One simple trick to increase Stimulus.js legacy browser compatibility](https://dev.to/mtimofiiv/one-simple-trick-to-increase-stimulusjs-legacy-browser-compatibility-2oih)
+- [Rails Designer v1.13: Updated to Tailwind CSS v4](https://dev.to/railsdesigner/rails-designer-v113-updated-to-tailwind-css-v4-5a96)
+- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-ean)
+- [Workaround Complex code when you miss some concepts](https://dev.to/mihsa_instrudy/workaround-complex-code-when-you-miss-some-concepts-444m)
+- [Boost Your Dev Workflow with This All-in-One Toolbox](https://dev.to/ivan555/boost-your-dev-workflow-with-this-all-in-one-toolbox-5hj5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
