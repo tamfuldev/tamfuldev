@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why 10 3 Isn’t Perfect, But This Rope Trick Is!](https://dev.to/im_hammad/why-10-3-isnt-perfect-but-this-rope-trick-is-ehc)
-- [How to Handle High-Frequency Trading &lpar;HFT&rpar; Efficiently in a Centralized Crypto Exchange?](https://dev.to/michealklein/how-to-handle-high-frequency-trading-hft-efficiently-in-a-centralized-crypto-exchange-1692)
-- [Day 35 - Abstraction, Encapsulation in Python and Database](https://dev.to/lakshmipritha/day-35-abstraction-encapsulation-in-python-and-database-3ap2)
-- [Let&#39;s get the hosting done!](https://dev.to/phoenix_sharma__/lets-get-the-hosting-done-f66)
-- [Adventure: Building with NATS Jetstream KV Store -Part 2](https://dev.to/rphumulock/adventure-building-with-nats-jetstream-kv-store-part-2-46i8)
+- [Serverless AI for Indies: Building a Scalable Image Analysis Pipeline. Alone.](https://dev.to/aws-builders/serverless-ai-for-indies-building-a-scalable-image-analysis-pipeline-alone-5fao)
+- [5 Critical Vulnerabilities in Cloud Deployments and How to Fix Them](https://dev.to/anshul_kichara/5-critical-vulnerabilities-in-cloud-deployments-and-how-to-fix-them-55b3)
+- [DeepSeek R1: Architecture, Training, Local Deployment, and Hardware Requirements](https://dev.to/askyt/deepseek-r1-architecture-training-local-deployment-and-hardware-requirements-3mf8)
+- [My Journey in Web Development](https://dev.to/hmpmanish/my-journey-in-web-development-39g4)
+- [Create Smarter &amp; Better Git Commits with AI](https://dev.to/rasulkireev/create-smarter-better-git-commits-with-ai-50lm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
