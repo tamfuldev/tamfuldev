@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Just &#39;cause something throws an error, doesn&#39;t mean you need to catch it.](https://dev.to/thescottyjam/just-cause-something-throws-an-error-doesnt-mean-you-need-to-catch-it-495o)
-- [GoLang for Web Development: Speed and Simplicity Combined 🚀](https://dev.to/dct_technologyprivatelimited/golang-for-web-development-speed-and-simplicity-combined-a3)
-- [A Tale of Two Databases](https://dev.to/datamonk_/a-tale-of-two-databases-hf3)
-- [How to Ensure Data Security with WhatsApp Business API](https://dev.to/krsaurabht/how-to-ensure-data-security-with-whatsapp-business-api-2bmk)
-- [Git Merge vs Git Rebase: Cómo tener un historial ordenado y claro](https://dev.to/maadcode/git-merge-vs-git-rebase-como-tener-un-historial-ordenado-y-claro-2kic)
+- [Why 10 3 Isn’t Perfect, But This Rope Trick Is!](https://dev.to/im_hammad/why-10-3-isnt-perfect-but-this-rope-trick-is-ehc)
+- [How to Handle High-Frequency Trading &lpar;HFT&rpar; Efficiently in a Centralized Crypto Exchange?](https://dev.to/michealklein/how-to-handle-high-frequency-trading-hft-efficiently-in-a-centralized-crypto-exchange-1692)
+- [Day 35 - Abstraction, Encapsulation in Python and Database](https://dev.to/lakshmipritha/day-35-abstraction-encapsulation-in-python-and-database-3ap2)
+- [Let&#39;s get the hosting done!](https://dev.to/phoenix_sharma__/lets-get-the-hosting-done-f66)
+- [Adventure: Building with NATS Jetstream KV Store -Part 2](https://dev.to/rphumulock/adventure-building-with-nats-jetstream-kv-store-part-2-46i8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
