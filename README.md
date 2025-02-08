@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey with SafeLine: A Practical Tool for Web Security](https://dev.to/carrie_luo1/my-journey-with-safeline-a-practical-tool-for-web-security-5e9a)
-- [Hiring shouldn’t be complicated](https://dev.to/yazeed95/hiring-shouldnt-be-complicated-2e7i)
-- [Single Page Applications &lpar;SPAs&rpar; vs. Multi Page Applications &lpar;MPAs&rpar; in React: A Beginner-Friendly Guide](https://dev.to/az_99f04027276612bd1dfd0f/single-page-applications-spas-vs-multi-page-applications-mpas-in-react-a-beginner-friendly-1k0c)
-- [Learning Rate](https://dev.to/asadullahmasood/learning-rate-4non)
-- [Introduction to Mathematics and Statistics for Data Science and machine learning](https://dev.to/asadullahmasood/introduction-to-mathematics-and-statistics-for-data-science-and-machine-learning-1g0e)
+- [A Comprehensive Guide to Data Preprocessing](https://dev.to/asadullahmasood/a-comprehensive-guide-to-data-preprocessing-3f2j)
+- [Boosting Algorithms](https://dev.to/asadullahmasood/boosting-algorithms-1857)
+- [Best AI Code Editors to Enhance Your Programming Efficiency](https://dev.to/robin-ivi/best-ai-code-editors-to-enhance-your-programming-efficiency-410k)
+- [Random Forest Algorithm for Machine Learning](https://dev.to/asadullahmasood/random-forest-algorithm-for-machine-learning-38od)
+- [Algorithms and Models in Machine Learning](https://dev.to/asadullahmasood/algorithms-and-models-in-machine-learning-2ce0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
