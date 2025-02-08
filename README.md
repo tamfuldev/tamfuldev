@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Micro Frontend Architecture with Vue 3, Vite and Module Federation](https://dev.to/lmlonghuynh/building-a-micro-frontend-architecture-with-vue-3-vite-and-module-federation-1bb1)
-- [The Benefits of a Landing Page Built Without a CMS and Hosted on Cloudflare](https://dev.to/bahae_elhmimdi_a5983c2fc/the-benefits-of-a-landing-page-built-without-a-cms-and-hosted-on-cloudflare-ni2)
-- [Neon number](https://dev.to/hema_latha/neon-number-5gpe)
-- [Queue&lt;E&gt; &lpar;para filas e processamento por ordem&rpar;](https://dev.to/javaparainiciantes/queue-para-filas-e-processamento-por-ordem-4ab3)
-- [Best Practices for Scaling Test Automation: A Comprehensive Guide](https://dev.to/radha_4c842d8e4362a7cdd9c/best-practices-for-scaling-test-automation-a-comprehensive-guide-224l)
+- [9 Questions on Hoisting in JavaScript Answered](https://dev.to/codeguage/9-questions-on-hoisting-in-javascript-answered-6io)
+- [What is THIS ?](https://dev.to/rm_sh/what-is-this--1298)
+- [Escalando api de mil usuários para um milhão](https://dev.to/bendevoficial/escalando-api-de-mil-usuarios-para-um-milhao-3nh4)
+- [The Software Evolution in the Era of Large Language Models: Dinosaur-like Software vs. Monkey Troop-like Software](https://dev.to/chen_debra_3060b21d12b1b0/the-software-evolution-in-the-era-of-large-language-models-dinosaur-like-software-vs-monkey-33d4)
+- [The Demand for MERN Stack Developers: How to Stand Out in the Job Market](https://dev.to/raji_moshood_ee3a4c2638f6/the-demand-for-mern-stack-developers-how-to-stand-out-in-the-job-market-4k0j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
