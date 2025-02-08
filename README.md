@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Helm vs Kustomize: A Comprehensive Guide with Examples](https://dev.to/nirmalnaveen/helm-vs-kustomize-a-comprehensive-guide-with-real-world-examples-1hn8)
-- [Building Scalable Data Pipelines with Python – A Complete Guide](https://dev.to/batrudin_haji/building-scalable-data-pipelines-with-python-a-complete-guide-40a7)
-- [How I Survived Migrating 100k Lines of Flutter Code to Navigator 2.0 &lpar;And What Almost Broke Me&rpar;](https://dev.to/arslanyousaf12/how-i-survived-migrating-100k-lines-of-flutter-code-to-navigator-20-and-what-almost-broke-me-5cil)
-- [My Journey in iOS Development: Lessons, Challenges, and Advice for Beginners](https://dev.to/divyansh_bhardwaj_1c4b5eb/my-journey-in-ios-development-lessons-challenges-and-advice-for-beginners-5941)
-- [#first_post](https://dev.to/codetirtho97/firstpost-2kco)
+- [Why 2024 Became the Year of the Virtual Revolution?](https://dev.to/lado_okhotnikov/why-2024-became-the-year-of-the-virtual-revolution-1hik)
+- [Using WebSockets to make an online pong game](https://dev.to/diogodanielsoaresferreira/using-websockets-to-make-an-online-pong-game-783)
+- [Game Night Just Got a Digital Upgrade: The Deck](https://dev.to/ilbets/game-night-just-got-a-digital-upgrade-the-deck-67p)
+- [Cloudflare domain to an AWS ApiGateway](https://dev.to/burgossrodrigo/cloudflare-domain-to-an-aws-apigateway-2le8)
+- [DG Club: खेल, इनाम और अनोखे अनुभव का संगम](https://dev.to/ak_ashrafi_c728bec6180830/dg-club-khel-inaam-aur-anokhe-anubhv-kaa-sngm-cgc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
