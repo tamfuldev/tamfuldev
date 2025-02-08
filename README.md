@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Implementação de WordPress Escalável na AWS com Docker, RDS e EFS](https://dev.to/marlonjerold/implantacao-de-wordpress-escalavel-na-aws-com-docker-rds-e-efs-2ck4)
-- [My Exploratory Testing Journey on Cars.ng](https://dev.to/owolabi_farouqmaku_7bc5a/my-exploratory-testing-journey-on-carsng-5ded)
-- [The Language of the Digital Soul: Creating Sensory Experiences with Code and Smart Data](https://dev.to/justina_ockoner_7661/the-language-of-the-digital-soul-creating-sensory-experiences-with-code-and-smart-data-342p)
-- [Day 1098 : Runnin&#39;](https://dev.to/dwane/day-1098-runnin-26ic)
-- [Empowering Open Source: The Role of Funding Workshops](https://dev.to/lisa_strato/empowering-open-source-the-role-of-funding-workshops-o6f)
+- [Running and Approving Azure DevOps Pipelines from the terminal](https://dev.to/deyanp/running-and-approving-azure-devops-pipelines-from-the-terminal-3bpc)
+- [Sports landing page By GASP](https://dev.to/pinky057/sports-landing-page-by-gasp-3lfh)
+- [The Role of Test Automation in Digital Transformation](https://dev.to/anil_csimplifyit_905c/the-role-of-test-automation-in-digital-transformation-2959)
+- [RandomPerspective in PyTorch](https://dev.to/hyperkai/randomperspective-in-pytorch-4226)
+- [Next js](https://dev.to/krisna_suputra/next-js-2k48)
 <!-- BLOG-POST-LIST:END -->
 
 ---
