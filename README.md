@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Running and Approving Azure DevOps Pipelines from the terminal](https://dev.to/deyanp/running-and-approving-azure-devops-pipelines-from-the-terminal-3bpc)
-- [Sports landing page By GASP](https://dev.to/pinky057/sports-landing-page-by-gasp-3lfh)
-- [The Role of Test Automation in Digital Transformation](https://dev.to/anil_csimplifyit_905c/the-role-of-test-automation-in-digital-transformation-2959)
-- [RandomPerspective in PyTorch](https://dev.to/hyperkai/randomperspective-in-pytorch-4226)
-- [Next js](https://dev.to/krisna_suputra/next-js-2k48)
+- [Building a Micro Frontend Architecture with Vue 3, Vite and Module Federation](https://dev.to/lmlonghuynh/building-a-micro-frontend-architecture-with-vue-3-vite-and-module-federation-1bb1)
+- [The Benefits of a Landing Page Built Without a CMS and Hosted on Cloudflare](https://dev.to/bahae_elhmimdi_a5983c2fc/the-benefits-of-a-landing-page-built-without-a-cms-and-hosted-on-cloudflare-ni2)
+- [Neon number](https://dev.to/hema_latha/neon-number-5gpe)
+- [Queue&lt;E&gt; &lpar;para filas e processamento por ordem&rpar;](https://dev.to/javaparainiciantes/queue-para-filas-e-processamento-por-ordem-4ab3)
+- [Best Practices for Scaling Test Automation: A Comprehensive Guide](https://dev.to/radha_4c842d8e4362a7cdd9c/best-practices-for-scaling-test-automation-a-comprehensive-guide-224l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
