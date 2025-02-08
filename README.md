@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why 2024 Became the Year of the Virtual Revolution?](https://dev.to/lado_okhotnikov/why-2024-became-the-year-of-the-virtual-revolution-1hik)
-- [Using WebSockets to make an online pong game](https://dev.to/diogodanielsoaresferreira/using-websockets-to-make-an-online-pong-game-783)
-- [Game Night Just Got a Digital Upgrade: The Deck](https://dev.to/ilbets/game-night-just-got-a-digital-upgrade-the-deck-67p)
-- [Cloudflare domain to an AWS ApiGateway](https://dev.to/burgossrodrigo/cloudflare-domain-to-an-aws-apigateway-2le8)
-- [DG Club: खेल, इनाम और अनोखे अनुभव का संगम](https://dev.to/ak_ashrafi_c728bec6180830/dg-club-khel-inaam-aur-anokhe-anubhv-kaa-sngm-cgc)
+- [JavaScript Interview Questions and Answers for the Job Market in Bangladesh](https://dev.to/engrsakib/javascript-interview-questions-and-answers-for-the-job-market-in-bangladesh-a05)
+- [Building Scalable Data Pipelines with Python – A Complete Guide.](https://dev.to/amin12905/building-scalable-data-pipelines-with-python-a-complete-guide-ch5)
+- [18+ Questions to Challenge and Expand Your Webpack Knowledge](https://dev.to/break_it_down/18-questions-to-challenge-and-expand-your-webpack-knowledge-20lf)
+- [Revolutionizing Development: The Ultimate Guide to Backend Tools in 2025](https://dev.to/jetthoughts/revolutionizing-development-the-ultimate-guide-to-backend-tools-in-2025-37fg)
+- [Pointers, a weird beast for beginners and beyond](https://dev.to/thestandardguy_220cf14772/pointers-a-weird-beast-for-beginners-and-beyond-1ab6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
