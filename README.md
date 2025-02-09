@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [✨It&#39;s 2025, But Jest🔧 is Still Rocking the Testing World 🚀](https://dev.to/jagroop2001/its-2025-but-jest-is-still-rocking-the-testing-world-48g2)
-- [Can GitHub Copilot Follow a Structured Development Workflow? A Real-World Experiment](https://dev.to/vigneshiyergithub/can-github-copilot-follow-a-structured-development-workflow-a-real-world-experiment-3el7)
-- [A tale about four gangsters](https://dev.to/lichtkind/a-tale-about-four-gangsters-29g6)
-- [How AI is Becoming a Game-Changer in the Fight Against Climate Change](https://dev.to/morlevi23/how-ai-is-becoming-a-game-changer-in-the-fight-against-climate-change-36gm)
-- [# **🚀 How I Fixed &quot;Not Enough Free Space in /var&quot; While Upgrading Kali Linux**](https://dev.to/khurammurad/-how-i-fixed-not-enough-free-space-in-var-while-upgrading-kali-linux-25j5)
+- [Matanuska ADR 017 - Vitest, Vite, Grabthar, Oh My!](https://dev.to/jfhbrook/matanuska-adr-017-vitest-vite-grabthar-oh-my-10ga)
+- [Which is Better for Prompt Engineering: Deepseek R1 or OpenAI o1?](https://dev.to/shivamb/which-is-better-for-prompt-engineering-deepseek-r1-or-openai-o1-46la)
+- [[Boost]](https://dev.to/paxnw/-4ij5)
+- [10 Essential JavaScript Session Security Practices for Web Applications in 2024](https://dev.to/aaravjoshi/10-essential-javascript-session-security-practices-for-web-applications-in-2024-2038)
+- [A Thank You to the Mentors Who Helped Shape My Learning Journey](https://dev.to/stinklewinks/a-thank-you-to-the-mentors-who-helped-shape-my-learning-journey-4el)
 <!-- BLOG-POST-LIST:END -->
 
 ---
