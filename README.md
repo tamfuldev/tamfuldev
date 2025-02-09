@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [10 Must Read Microservices Architecture Books for Experienced Developers](https://dev.to/somadevtoo/10-must-read-microservices-architecture-books-for-experienced-developers-226f)
-- [Free Books Python, Linux, Cloud and Programming - v2](https://dev.to/sc0v0ne/free-books-python-linux-cloud-and-programming-v2-19ao)
-- [[Boost]](https://dev.to/dzun_n/-n82)
-- [System I/O and Multi-threading in C#](https://dev.to/emmanuelmichael05/system-io-and-multi-threading-in-c-21fg)
-- [OpenAI O1 vs. O3‑Mini: Which Is Better for AI Code Reviews?](https://dev.to/pratesh_johnmathew_d25d4/openai-o1-vs-o3-mini-which-is-better-for-ai-code-reviews-2moc)
+- [Navigating the Roadblocks: An exploratory testing journey on cars.ng](https://dev.to/saladan/navigating-the-roadblocks-an-exploratory-testing-journey-on-carsng-1nh8)
+- [Web Research for Developers](https://dev.to/sunilfgh/web-research-for-developers-5nn)
+- [Transactions in Microservices: Part 3 - SAGA Pattern with Orchestration and Temporal.io.](https://dev.to/federico_bevione/transactions-in-microservices-part-3-saga-pattern-with-orchestration-and-temporalio-3e17)
+- [The Ultimate Guide to Tuples in Rust: From Basics to Mastery](https://dev.to/mbayoun95/the-ultimate-guide-to-tuples-in-rust-from-basics-to-mastery-41ho)
+- [Beyond Clean Architecture: A Pragmatic Software Model for Real-World Scalability](https://dev.to/adrihfly/beyond-clean-architecture-a-pragmatic-software-model-for-real-world-scalability-4g96)
 <!-- BLOG-POST-LIST:END -->
 
 ---
