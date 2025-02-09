@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Agentic Workflow Patterns](https://dev.to/dpaluy/exploring-agentic-workflow-patterns-312a)
-- [Exploring DeepSeek R1 Applications](https://dev.to/amigochat/exploring-deepseek-r1-applications-11kb)
-- [Ethics in AI Model Development: Bias, Fairness, and Responsible AI Programming](https://dev.to/knewton25/ethics-in-ai-model-development-bias-fairness-and-responsible-ai-programming-3p9k)
-- [Understanding DeepSeek R1](https://dev.to/amigochat/understanding-deepseek-r1-40h1)
-- [Snowflake LLMs: A Manager’s Guide to Implementation and Optimization](https://dev.to/srikatikala/snowflake-llms-a-managers-guide-to-implementation-and-optimization-5cja)
+- [DEVFEST 2024](https://dev.to/anshuman_rai/devfest-2024-1eci)
+- [Untitled](https://dev.to/netam911/untitled-44he)
+- [Building a Number Analysis API, Fun Facts and Math Insights with AWS Lambda and FastAPI](https://dev.to/aws-builders/building-a-number-analysis-api-fun-facts-and-math-insights-with-aws-lambda-and-fastapi-4h3)
+- [Build Your First Telegram Bot: URL Shortener](https://dev.to/tansihmittal/build-your-first-telegram-bot-url-shortener-1ce4)
+- [[Boost]](https://dev.to/gabrielflorencio/-7kh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
