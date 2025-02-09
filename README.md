@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [JBay](https://dev.to/jacob_liato_1166814de4e42/jbay-135g)
-- [Understanding the Java Main method.](https://dev.to/codestorm12/understanding-the-java-main-method-4ilp)
-- [Why We Built DevAssure with Tauri](https://dev.to/devassure/why-we-built-devassure-with-tauri-on)
-- [Raphael AI: The Best Free AI Image Generator You Need to Try!](https://dev.to/mahmud-r-farhan/raphael-ai-the-best-free-ai-image-generator-you-need-to-try-341f)
-- [Optimizing Data Lake Storage Architectures for High-Volume, High-Velocity Data](https://dev.to/flnzba/optimizing-data-lake-storage-architectures-for-high-volume-high-velocity-data-39bn)
+- [10 Must Read Microservices Architecture Books for Experienced Developers](https://dev.to/somadevtoo/10-must-read-microservices-architecture-books-for-experienced-developers-226f)
+- [Free Books Python, Linux, Cloud and Programming - v2](https://dev.to/sc0v0ne/free-books-python-linux-cloud-and-programming-v2-19ao)
+- [[Boost]](https://dev.to/dzun_n/-n82)
+- [System I/O and Multi-threading in C#](https://dev.to/emmanuelmichael05/system-io-and-multi-threading-in-c-21fg)
+- [OpenAI O1 vs. O3‑Mini: Which Is Better for AI Code Reviews?](https://dev.to/pratesh_johnmathew_d25d4/openai-o1-vs-o3-mini-which-is-better-for-ai-code-reviews-2moc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
