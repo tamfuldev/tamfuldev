@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [View &amp; Download Excel File in React from a URL](https://dev.to/sarwarasik/view-download-excel-file-in-react-from-a-url-3lei)
-- [[Boost]](https://dev.to/djones/-2d4f)
-- [AI Breakthrough: Self-Learning Math Provers Generate and Solve Their Own Theorems](https://dev.to/mikeyoung44/ai-breakthrough-self-learning-math-provers-generate-and-solve-their-own-theorems-fkn)
-- [New AI System Makes Precise Face Edits While Preserving Identity](https://dev.to/mikeyoung44/new-ai-system-makes-precise-face-edits-while-preserving-identity-1142)
-- [Study: Medium-Sized AI Models Match Larger Ones for Multi-Language Translation When Properly Prompted](https://dev.to/mikeyoung44/study-medium-sized-ai-models-match-larger-ones-for-multi-language-translation-when-properly-1ef4)
+- [ReinforceUI-Studio: No More Memorizing Complex Commands in Reinforcement Learning](https://dev.to/dvalenciar/reinforceui-studio-no-more-memorizing-complex-commands-in-reinforcement-learning-1g53)
+- [Lexical 0.24 with Vanilla JS: Getting started](https://dev.to/nabbisen/lexical-024-with-vanilla-js-getting-started-4g5d)
+- [A Simple Guide to Making Money with Mobile Development](https://dev.to/abubakersiddique761/a-simple-guide-to-making-money-with-mobile-development-14pi)
+- [قالب تقرير برنامج](https://dev.to/majed1401/untitled-ek6)
+- [Is Ethical Hacking a Good Career in 2025?](https://dev.to/daksh_kataria_9c4197f3f7c/is-ethical-hacking-a-good-career-in-2025-39fh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
