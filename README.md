@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [ChamaleonLLM: Dynamic Adaptation for Large Language Models During Inference](https://dev.to/qur786/chamaleonllm-dynamic-adaptation-for-large-language-models-during-inference-chi)
-- [LDAP Injection in Laravel: Prevention &amp; Secure Coding](https://dev.to/pentest_testing_corp/ldap-injection-in-laravel-prevention-secure-coding-1hld)
-- [3 mins into [Consistent Hashing]](https://dev.to/caihhuu/3-mins-into-consistent-hashing-3bj2)
-- [🚀 How to Build a Profitable SaaS in Days – The Right Way](https://dev.to/nisthar/how-to-build-a-profitable-saas-in-days-the-right-way-3dcd)
-- [Building for Low-Bandwidth Environments: How to Optimize Your Web Experience for Slower Internet Speeds](https://dev.to/okoye_ndidiamaka_5e3b7d30/building-for-low-bandwidth-environments-how-to-optimize-your-web-experience-for-slower-internet-4140)
+- [How AI is Becoming a Game-Changer in the Fight Against Climate Change](https://dev.to/morlevi23/how-ai-is-becoming-a-game-changer-in-the-fight-against-climate-change-36gm)
+- [Javascript bilan algorithm](https://dev.to/xam1dullo/javascript-bilan-algorithm-4bcf)
+- [# **🚀 How I Fixed &quot;Not Enough Free Space in /var&quot; While Upgrading Kali Linux**](https://dev.to/khurammurad/-how-i-fixed-not-enough-free-space-in-var-while-upgrading-kali-linux-25j5)
+- [Quantum Computing for Developers: What You Need to Know in 2025](https://dev.to/codetirtho97/quantum-computing-for-developers-what-you-need-to-know-in-2025-1khi)
+- [30 lines of Vue vs 150 lines of jQuery](https://dev.to/papa_house/30-lines-of-vue-vs-150-lines-of-jquery-1p4m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
