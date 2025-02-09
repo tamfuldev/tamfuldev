@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Matanuska ADR 017 - Vitest, Vite, Grabthar, Oh My!](https://dev.to/jfhbrook/matanuska-adr-017-vitest-vite-grabthar-oh-my-10ga)
-- [Which is Better for Prompt Engineering: Deepseek R1 or OpenAI o1?](https://dev.to/shivamb/which-is-better-for-prompt-engineering-deepseek-r1-or-openai-o1-46la)
-- [[Boost]](https://dev.to/paxnw/-4ij5)
-- [10 Essential JavaScript Session Security Practices for Web Applications in 2024](https://dev.to/aaravjoshi/10-essential-javascript-session-security-practices-for-web-applications-in-2024-2038)
-- [A Thank You to the Mentors Who Helped Shape My Learning Journey](https://dev.to/stinklewinks/a-thank-you-to-the-mentors-who-helped-shape-my-learning-journey-4el)
+- [JBay](https://dev.to/jacob_liato_1166814de4e42/jbay-135g)
+- [Understanding the Java Main method.](https://dev.to/codestorm12/understanding-the-java-main-method-4ilp)
+- [Why We Built DevAssure with Tauri](https://dev.to/devassure/why-we-built-devassure-with-tauri-on)
+- [Raphael AI: The Best Free AI Image Generator You Need to Try!](https://dev.to/mahmud-r-farhan/raphael-ai-the-best-free-ai-image-generator-you-need-to-try-341f)
+- [Optimizing Data Lake Storage Architectures for High-Volume, High-Velocity Data](https://dev.to/flnzba/optimizing-data-lake-storage-architectures-for-high-volume-high-velocity-data-39bn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
