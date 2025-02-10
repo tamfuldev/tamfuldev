@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Message Brokers: Kafka essentials](https://dev.to/siddarth2810/introduction-to-message-brokers-kafka-essentials-3ddk)
-- [Set Is Just Built Different 😤💪](https://dev.to/mattlewandowski93/set-is-just-built-different-3cgl)
-- [Using React Navigation instead of Expo Router](https://dev.to/matthewzruiz/using-react-navigation-instead-of-expo-router-49bl)
-- [Skeptics Shall Inherit the AI](https://dev.to/frontpills/skeptics-shall-inherit-the-ai-2bkb)
-- [Exploring Webdock: A No-Nonsense Cloud VPS Hosting Solution](https://dev.to/abdoseadaa/exploring-webdock-a-no-nonsense-cloud-vps-hosting-solution-2nh4)
+- [This Week in Docker: AI, AI, AI!](https://dev.to/code42cate/this-week-in-docker-ai-ai-ai-2khe)
+- [Understanding Access and Refresh Tokens: A Beginner&#39;s Guide](https://dev.to/gervaisamoah/understanding-access-and-refresh-tokens-a-beginners-guide-4nn8)
+- [[pt-BR] Entendendo o GNU/Linux: Um Ecossistema de Liberdade e Inovação](https://dev.to/marcos_vilela/pt-br-entendendo-o-gnulinux-um-ecossistema-de-liberdade-e-inovacao-1bf7)
+- [Desktop apps for Windows XP in 2025](https://dev.to/thejaredwilcurt/desktop-apps-for-windows-xp-in-2025-2cpc)
+- [Linux file system](https://dev.to/realjck/linux-file-system-10lp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
