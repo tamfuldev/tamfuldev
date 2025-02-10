@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🌷Creating an SSR Gallery App in JavaScript](https://dev.to/hmpljs/creating-an-ssr-gallery-app-in-javascript-16kp)
-- [BettorEdge Expands Reach with Official Apple App Store Launch](https://dev.to/gkajewski/bettoredge-expands-reach-with-official-apple-app-store-launch-2o0b)
-- [Run Deepseek locally using Docker!](https://dev.to/savvasstephnds/run-deepseek-locally-using-docker-2pdm)
-- [CI/CD Wars: GitHub Actions vs. GitLab CI vs. Jenkins vs. CircleCI](https://dev.to/raji_moshood_ee3a4c2638f6/cicd-wars-github-actions-vs-gitlab-ci-vs-jenkins-vs-circleci-3ahi)
-- [Building a basic Markdown-to-Google Docs converter](https://dev.to/googleworkspace/building-a-basic-markdown-to-google-docs-converter-1220)
+- [My Journey To The Cloud With AltSchool Africa](https://dev.to/ikoh_sylva/my-journey-to-the-cloud-with-altschool-africa-4bmk)
+- [5+ Ways- Run Component Services as Administrator on Windows 11!](https://dev.to/winsides/5-ways-run-component-services-as-administrator-on-windows-11-3g2o)
+- [Run aws Lambda locally with LocalStack](https://dev.to/ashraf-minhaj/run-aws-lambda-locally-with-localstack-3mog)
+- [Melhores práticas para criação e automação de testes E2E](https://dev.to/tcava/melhores-praticas-para-criacao-e-automacao-de-testes-e2e-51g5)
+- [What happens when you press enter in a browsers search bar?](https://dev.to/likaiznazis/what-happens-when-you-press-enter-in-a-browsers-search-bar-2foe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
