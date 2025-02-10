@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How does a small fintech company compete for top talent?](https://dev.to/artfreshcode/how-does-a-small-fintech-company-compete-for-top-talent-1jl3)
-- [8 Ways to boost your Concentration and Creativity](https://dev.to/techlabma/8-ways-to-boost-your-concentration-and-creativity-55em)
-- [Migrating Projects Between Google Cloud Organizations](https://dev.to/amaze_singh41/migrating-projects-between-google-cloud-organizations-3k44)
-- [Wink Realm: The Next Big Meme Coin on Avalanche?](https://dev.to/luffy251/wink-realm-the-next-big-meme-coin-on-avalanche-3ie)
-- [Flask: A Comprehensive Guide](https://dev.to/atifwattoo/flask-a-comprehensive-guide-19mm)
+- [How to Build a Simple AI Agent with Langflow and Composio](https://dev.to/datastax/how-to-build-a-simple-ai-agent-with-langflow-and-composio-13d4)
+- [Mastering Python Context Managers: Efficient Resource Management Made Easy](https://dev.to/keshavadk/mastering-python-context-managers-efficient-resource-management-made-easy-2npb)
+- [CI/CD no Bitbucket para SFTP](https://dev.to/jardelima/cicd-no-bitbucket-para-sftp-h5l)
+- [Enhancing 404 Pages with Search in Umbraco](https://dev.to/skttl/enhancing-404-pages-with-search-in-umbraco-1jad)
+- [Adopting NestJS in Legacy Projects: Benefits and Challenges](https://dev.to/wallacefreitas/adopting-nestjs-in-legacy-projects-benefits-and-challenges-4a44)
 <!-- BLOG-POST-LIST:END -->
 
 ---
