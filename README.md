@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ultimate Guide to Containerized Development on Mac ARM Chips: Efficient Setup with Colima and Docker](https://dev.to/chatgptnexus/2025021009-27-20-article-4d4a)
-- [Automating Blog Posting on DEV with Python](https://dev.to/kskkoushik/automating-blog-posting-on-dev-with-python-571h)
-- [&quot;Unlocking AI in Systems Engineering: Benefits, Challenges, and Future Insights&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-ai-in-systems-engineering-benefits-challenges-and-future-insights-bjj)
-- [In Defense of Using Large Frameworks for Small Problems](https://dev.to/thescottyjam/in-defense-of-using-large-frameworks-for-small-problems-57n6)
-- [HTML Micro Component System &lpar;619 bytes!&rpar;](https://dev.to/codervai/html-micro-component-system-619-bytes-40l0)
+- [Day Spas in The Big Apple: Select with Assurance](https://dev.to/nycdayspa55/day-spas-in-the-big-apple-select-with-assurance-1g60)
+- [Understand data science before using LLM into your AI agents](https://dev.to/saad_ali_21c328f1cb588b4d/understand-data-science-before-using-llm-into-your-ai-agents-161e)
+- [Introduction to PHP](https://dev.to/bkthemes/introduction-to-php-4dfb)
+- [Why We Didn’t Build a Minimum Viable Product — And How It Paid Off](https://dev.to/lonti-davidb/why-we-didnt-build-a-minimum-viable-product-and-how-it-paid-off-1cmo)
+- [📰 Massive 7.6 magnitude earthquake rattles Caribbean, tsunami advisory issued](https://dev.to/d_thiranjaya_6d3ec4552111/massive-76-magnitude-earthquake-rattles-caribbean-tsunami-advisory-issued-1d24)
 <!-- BLOG-POST-LIST:END -->
 
 ---
