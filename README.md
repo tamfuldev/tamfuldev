@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey To The Cloud With AltSchool Africa](https://dev.to/ikoh_sylva/my-journey-to-the-cloud-with-altschool-africa-4bmk)
-- [5+ Ways- Run Component Services as Administrator on Windows 11!](https://dev.to/winsides/5-ways-run-component-services-as-administrator-on-windows-11-3g2o)
-- [Run aws Lambda locally with LocalStack](https://dev.to/ashraf-minhaj/run-aws-lambda-locally-with-localstack-3mog)
-- [Melhores práticas para criação e automação de testes E2E](https://dev.to/tcava/melhores-praticas-para-criacao-e-automacao-de-testes-e2e-51g5)
-- [What happens when you press enter in a browsers search bar?](https://dev.to/likaiznazis/what-happens-when-you-press-enter-in-a-browsers-search-bar-2foe)
+- [How does a small fintech company compete for top talent?](https://dev.to/artfreshcode/how-does-a-small-fintech-company-compete-for-top-talent-1jl3)
+- [8 Ways to boost your Concentration and Creativity](https://dev.to/techlabma/8-ways-to-boost-your-concentration-and-creativity-55em)
+- [Migrating Projects Between Google Cloud Organizations](https://dev.to/amaze_singh41/migrating-projects-between-google-cloud-organizations-3k44)
+- [Wink Realm: The Next Big Meme Coin on Avalanche?](https://dev.to/luffy251/wink-realm-the-next-big-meme-coin-on-avalanche-3ie)
+- [Flask: A Comprehensive Guide](https://dev.to/atifwattoo/flask-a-comprehensive-guide-19mm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
