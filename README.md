@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [StackAuth: An open source Auth0 alternative](https://dev.to/logrocket/stackauth-an-open-source-auth0-alternative-1ib8)
-- [Food Recognition and Nutrition Estimation using OpenAI](https://dev.to/mayank_laddha_21ef3e061ff/food-recognition-and-nutrition-estimation-using-openai-4mdo)
-- [[Boost]](https://dev.to/proflead/-3f9a)
-- [How to Think Like a Software Architect: A Step-by-Step Guide](https://dev.to/niteshnitian995/how-to-think-like-a-software-architect-a-step-by-step-guide-kli)
-- [Deploying a Number Classification API on AWS Lambda + API Gateway using Zappa](https://dev.to/antai/deploying-a-number-classification-api-on-aws-lambda-api-gateway-using-zappa-4gh2)
+- [TIL Weekly #3](https://dev.to/uskdev/til-weekly-3-e07)
+- [12 AI-Powered Social Media Posting Tips for Maximum Engagement in 2025](https://dev.to/dansasser/12-ai-powered-social-media-posting-tips-for-maximum-engagement-in-2025-5a63)
+- [Understanding LINQ Extension Methods in C#](https://dev.to/silentcoder52626/understanding-linq-extension-methods-in-c-15kh)
+- [CAG &gt; RAG](https://dev.to/markus_tretzmller_1d02bf/cag-rag-26i2)
+- [Laravel Blade Template Engine: A Beginner&#39;s Guide](https://dev.to/icornea/laravel-blade-template-engine-a-beginners-guide-54bi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
