@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding JSX and Rendering in Next.js](https://dev.to/johnschibelli/understanding-jsx-and-rendering-elements-in-react-o8j)
-- [What is grammar in TOC?](https://dev.to/mujahida_joynab_64c7407d8/what-is-grammar-in-toc-chc)
-- [React Conferences – More Than Just Hype in 2025](https://dev.to/cookieduster_n/react-conferences-more-than-just-hype-in-2025-1gl5)
-- [Voice-Pro: Ultimate AI Voice Conversion and Multilingual Translation Tool 🔊](https://dev.to/abuskorea/voice-pro-ultimate-ai-voice-conversion-and-multilingual-translation-tool-5a56)
-- [Streamlining Database Migrations with GoFr: A Quickstart](https://dev.to/vaidehi_adhi_84b623a30da7/streamlining-database-migrations-with-gofr-a-quickstart-2mbk)
+- [StackAuth: An open source Auth0 alternative](https://dev.to/logrocket/stackauth-an-open-source-auth0-alternative-1ib8)
+- [Food Recognition and Nutrition Estimation using OpenAI](https://dev.to/mayank_laddha_21ef3e061ff/food-recognition-and-nutrition-estimation-using-openai-4mdo)
+- [[Boost]](https://dev.to/proflead/-3f9a)
+- [How to Think Like a Software Architect: A Step-by-Step Guide](https://dev.to/niteshnitian995/how-to-think-like-a-software-architect-a-step-by-step-guide-kli)
+- [Deploying a Number Classification API on AWS Lambda + API Gateway using Zappa](https://dev.to/antai/deploying-a-number-classification-api-on-aws-lambda-api-gateway-using-zappa-4gh2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
