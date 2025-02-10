@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Rollup.js: From Basics to Advanced](https://dev.to/leapcell/mastering-rollupjs-from-basics-to-advanced-2id3)
-- [Exploring Subquery Alternatives: Understanding and Using CTE](https://dev.to/fiyuang/exploring-subquery-alternatives-understanding-and-using-cte-1d8b)
-- [How to Manage a Remote Team of Rust Developers](https://dev.to/lisaward867/how-to-manage-a-remote-team-of-rust-developers-53jn)
-- [Have a product idea? Use this SaaS template!](https://dev.to/anvil/have-a-product-idea-use-this-saas-template-459l)
-- [A Game-Changing Next.js Feature That Will Make Your Life Easier! 🚀](https://dev.to/dhanasai_tholeti/a-game-changing-nextjs-feature-that-will-make-your-life-easier-3gco)
+- [&lpar;Neo&rpar;Vim Makes You a 10x DEV, and I&#39;m not Kidding](https://dev.to/shricodev/neovim-makes-you-a-10x-dev-and-im-not-kidding-2ka1)
+- [OUT NOW!!!!](https://dev.to/lorebrada00/out-now-59l9)
+- [The Evolution of Kafka and the Changing Data Landscape](https://dev.to/cortexflow/the-evolution-of-kafka-and-the-changing-data-landscape-4100)
+- [Should I Build an Open Core Web App Crawler &amp; Pentesting SaaS?](https://dev.to/riccardo_bevoni_774d90ea1/should-i-build-an-open-core-web-app-crawler-pentesting-saas-50cn)
+- [How do you handle physics-based object collisions in SceneKit?](https://dev.to/neville_adam/how-do-you-handle-physics-based-object-collisions-in-scenekit-3bip)
 <!-- BLOG-POST-LIST:END -->
 
 ---
