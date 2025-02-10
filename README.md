@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Unleashing the Power of High-Performance Computing: Understanding HPC Architectures &lpar;Series Part 2&rpar;](https://dev.to/mbayoun95/unleashing-the-power-of-high-performance-computing-understanding-hpc-architectures-series-part-2-ml1)
-- [USSD: The Silent Revolution in Communication &amp; Finance](https://dev.to/brian_oginga/ussd-the-silent-revolution-in-communication-finance-19np)
-- [Automatizando a criação de planilhas com .NET](https://dev.to/teuso99/automatizando-a-criacao-de-planilhas-com-net-1dia)
-- [RandomResizedCrop in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/randomresizedcrop-in-pytorch-1-48dn)
-- [Flow of Components in React](https://dev.to/pravinjadhav/flow-of-components-in-react-32jo)
+- [Ultimate Guide to Containerized Development on Mac ARM Chips: Efficient Setup with Colima and Docker](https://dev.to/chatgptnexus/2025021009-27-20-article-4d4a)
+- [Automating Blog Posting on DEV with Python](https://dev.to/kskkoushik/automating-blog-posting-on-dev-with-python-571h)
+- [&quot;Unlocking AI in Systems Engineering: Benefits, Challenges, and Future Insights&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-ai-in-systems-engineering-benefits-challenges-and-future-insights-bjj)
+- [In Defense of Using Large Frameworks for Small Problems](https://dev.to/thescottyjam/in-defense-of-using-large-frameworks-for-small-problems-57n6)
+- [HTML Micro Component System &lpar;619 bytes!&rpar;](https://dev.to/codervai/html-micro-component-system-619-bytes-40l0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
