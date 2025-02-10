@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Leading AI and Data Service Providers in 2025](https://dev.to/quinnox_/leading-ai-and-data-service-providers-in-2025-4aa9)
-- [Why Every Backend Engineer Needs to Understand Payments](https://dev.to/msnmongare/why-every-backend-engineer-needs-to-understand-payments-2l31)
-- [What is oversampling, and why is it used in DSP?](https://dev.to/carolineee/what-is-oversampling-and-why-is-it-used-in-dsp-2hje)
-- [ArcticDB Financial and Historical analysis just way faster.](https://dev.to/tikam02/arcticdb-financial-and-historical-analysis-just-way-faster-5afa)
-- [hibernate-011: Understanding Unidirectional vs. Bidirectional Relationships in Hibernate](https://dev.to/hunor85/hibernate-011-understanding-unidirectional-vs-bidirectional-relationships-in-hibernate-42bn)
+- [From Trading to Spending: How Crypto Cards Are Bringing Digital Assets Into Everyday Life](https://dev.to/leo_scott_357f10236fabe00/from-trading-to-spending-how-crypto-cards-are-bringing-digital-assets-into-everyday-life-1epk)
+- [Wish I Had Better Tools](https://dev.to/erykpiast/wish-i-had-better-tools-329c)
+- [Building for Scale: Introduction to the Cipher Horizon Journey](https://dev.to/dminatto/building-for-scale-introduction-to-the-cipher-horizon-journey-1idn)
+- [Implementing Real-Time Data Processing Using Apache Flink](https://dev.to/flnzba/implementing-real-time-data-processing-using-apache-flink-i0e)
+- [Shades of Technical Debt](https://dev.to/pmaksymov/shades-of-technical-debt-3pjj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
