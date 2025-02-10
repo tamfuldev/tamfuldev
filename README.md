@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Trading to Spending: How Crypto Cards Are Bringing Digital Assets Into Everyday Life](https://dev.to/leo_scott_357f10236fabe00/from-trading-to-spending-how-crypto-cards-are-bringing-digital-assets-into-everyday-life-1epk)
-- [Wish I Had Better Tools](https://dev.to/erykpiast/wish-i-had-better-tools-329c)
-- [Building for Scale: Introduction to the Cipher Horizon Journey](https://dev.to/dminatto/building-for-scale-introduction-to-the-cipher-horizon-journey-1idn)
-- [Implementing Real-Time Data Processing Using Apache Flink](https://dev.to/flnzba/implementing-real-time-data-processing-using-apache-flink-i0e)
-- [Shades of Technical Debt](https://dev.to/pmaksymov/shades-of-technical-debt-3pjj)
+- [Mastering Rollup.js: From Basics to Advanced](https://dev.to/leapcell/mastering-rollupjs-from-basics-to-advanced-2id3)
+- [Exploring Subquery Alternatives: Understanding and Using CTE](https://dev.to/fiyuang/exploring-subquery-alternatives-understanding-and-using-cte-1d8b)
+- [How to Manage a Remote Team of Rust Developers](https://dev.to/lisaward867/how-to-manage-a-remote-team-of-rust-developers-53jn)
+- [Have a product idea? Use this SaaS template!](https://dev.to/anvil/have-a-product-idea-use-this-saas-template-459l)
+- [A Game-Changing Next.js Feature That Will Make Your Life Easier! 🚀](https://dev.to/dhanasai_tholeti/a-game-changing-nextjs-feature-that-will-make-your-life-easier-3gco)
 <!-- BLOG-POST-LIST:END -->
 
 ---
