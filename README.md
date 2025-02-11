@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Auth Made Easy: A Beginner&#39;s Guide to Keeping Your Apps Secure](https://dev.to/rijultp/auth-made-easy-a-beginners-guide-to-keeping-your-apps-secure-bmp)
-- [ElasticSearch Architecture: A Comprehensive Guide](https://dev.to/wadee_sami_4562c11ecf8066/elasticsearch-architecture-a-comprehensive-guide-12me)
-- [Observables &amp; Chill: Getting Started with RxJS](https://dev.to/lovestaco/observables-chill-getting-started-with-rxjs-4khe)
-- [20 Curated Articles on Real Money Making for Starters.](https://dev.to/rare_source/20-curated-articles-on-real-money-making-for-starters-27pn)
-- [10 Distinct Ways to Make $500 in a Week](https://dev.to/abubakersiddique761/10-distinct-ways-to-make-550-in-a-week-359k)
+- [Master of HTML? Prove It with async and defer](https://dev.to/leapcell/master-of-html-prove-it-with-async-and-defer-5f7i)
+- [Exploring AWS Identity and Access Management &lpar;IAM&rpar;: A Hands-on Experience 🔐](https://dev.to/admiralng/exploring-aws-identity-and-access-management-iam-a-hands-on-experience-eoc)
+- [HTML pen](https://dev.to/hacker_mood_4632fdcde273b/html-pen-4k6c)
+- [out now!! #Devcommunity](https://dev.to/lorebrada00/out-now-devcommunity-4jdo)
+- [Navigating the Vue 2 to Vue 3 Migration: Lessons Learned and Key Considerations](https://dev.to/samuel_anyaele_451d874437/navigating-the-vue-2-to-vue-3-migration-lessons-learned-and-key-considerations-4413)
 <!-- BLOG-POST-LIST:END -->
 
 ---
