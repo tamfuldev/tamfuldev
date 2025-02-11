@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 TypeScript Crash Course: From Beginner to Advanced](https://dev.to/ebereplenty/typescript-crash-course-from-beginner-to-advanced-22dp)
-- [Real World Experience: Github Copilot Edits](https://dev.to/bytehala/real-world-experience-github-copilot-edits-4k37)
-- [🚀 ¡Go 1.24 ya está aquí! 🚀](https://dev.to/fuenrob/go-124-ya-esta-aqui-3ad3)
-- [Typescript-eslint + prettier for code standardization in React with Typescript](https://dev.to/griseduardo/typescript-eslint-prettier-for-code-standardization-in-react-with-typescript-3l0h)
-- [Typescript-eslint + prettier para padronização de código em React com Typescript](https://dev.to/griseduardo/typescript-eslint-prettier-para-padronizacao-de-codigo-em-react-com-typescript-2d08)
+- [Feature Toggles: A Simple Way to Manage Access to Premium Features](https://dev.to/budiwidhiyanto/feature-toggles-a-simple-way-to-manage-access-to-premium-features-52j6)
+- [Week 4 of my Data Analytics Journey](https://dev.to/awasume_marylin_8/week-4-of-my-data-analytics-journey-3bie)
+- [Doing it with a RNN model is impressing](https://dev.to/gliese832b/doing-it-with-a-rnn-model-is-impressing-35np)
+- [The Journey, the Struggles, and the Road Ahead](https://dev.to/stevengdev/the-journey-the-struggles-and-the-road-ahead-215k)
+- [Como passar na certificação AI Practitioner - AWS](https://dev.to/airton_lirajunior_2ddebd/como-passar-na-certificacao-ai-practitioner-aws-1cni)
 <!-- BLOG-POST-LIST:END -->
 
 ---
