@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Attempt at the Cloud Resume Challenge &lpar;Azure Edition&rpar;](https://dev.to/skelingtonboi/my-attempt-at-the-cloud-resume-challenge-azure-edition-36h5)
-- [Blockchain em Cena: Documentários e Filmes](https://dev.to/valterlobo/blockchain-em-cena-documentarios-e-filmes-35jk)
-- [Master Terraform Advanced Functions — No Cloud Access Required!](https://dev.to/ramkumar_manickam_a24fec3/master-terraform-advanced-functions-no-cloud-access-required-3c46)
-- [#142 — Expand One Row into Multiple Rows Based on Value](https://dev.to/judith677/142-expand-one-row-into-multiple-rows-based-on-value-3bo0)
-- [Milvus: Your Vector Database Powerhouse – A Deep Dive](https://dev.to/simplr_sh/milvus-your-vector-database-powerhouse-a-deep-dive-2d6h)
+- [The Future of AI: How OpenAI Development Companies Are Shaping Industries](https://dev.to/michael_oliver_12e41257b3/the-future-of-ai-how-openai-development-companies-are-shaping-industries-34ef)
+- [A quick rundown....](https://dev.to/mince/a-quick-rundown-560e)
+- [LIBRARY VS FRAMEWORK](https://dev.to/mince/library-vs-framework-17i7)
+- [Implementing Automated Backup, Disaster Recovery, and High Availability in Linux](https://dev.to/ibrahimsi/implementing-automated-backup-disaster-recovery-and-high-availability-in-linux-dc0)
+- [LCM - Program find out least common multiple](https://dev.to/hema_latha/lcm-program-find-out-least-common-multiple-5a40)
 <!-- BLOG-POST-LIST:END -->
 
 ---
