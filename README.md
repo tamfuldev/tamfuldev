@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [My Attempt at the Cloud Resume Challenge &lpar;Azure Edition&rpar;](https://dev.to/skelingtonboi/my-attempt-at-the-cloud-resume-challenge-azure-edition-36h5)
+- [Blockchain em Cena: Documentários e Filmes](https://dev.to/valterlobo/blockchain-em-cena-documentarios-e-filmes-35jk)
+- [Master Terraform Advanced Functions — No Cloud Access Required!](https://dev.to/ramkumar_manickam_a24fec3/master-terraform-advanced-functions-no-cloud-access-required-3c46)
+- [#142 — Expand One Row into Multiple Rows Based on Value](https://dev.to/judith677/142-expand-one-row-into-multiple-rows-based-on-value-3bo0)
 - [Milvus: Your Vector Database Powerhouse – A Deep Dive](https://dev.to/simplr_sh/milvus-your-vector-database-powerhouse-a-deep-dive-2d6h)
-- [React State: useState Explained Simply](https://dev.to/marveeeen/react-state-usestate-explained-simply-24ic)
-- [Inorder Traversal](https://dev.to/mujahida_joynab_64c7407d8/inorder-traversal-4l8d)
-- [WinUI i18n: how to create Resources.resw file](https://dev.to/shaunthegeek/winui-i18n-how-to-create-resourcesresw-file-4d25)
-- [Day 37 - Joins and Constraints in database](https://dev.to/lakshmipritha/day-37-joins-and-constraints-in-database-5b5l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
