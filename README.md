@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Say Goodbye to WebSockets? Why SSE Might Be Your New Best Friend](https://dev.to/zakariachahboun/say-goodbye-to-websockets-why-sse-might-be-your-new-best-friend-4d7n)
-- [10 Practical Fixes for Dev Problems You’ll Actually Use](https://dev.to/0x2e_tech/10-practical-fixes-for-dev-problems-youll-actually-use-3m57)
-- [25+ Trending Programming Resources for Developers](https://dev.to/dev-resources/25-trending-programming-resources-for-developers-467)
-- [Why Everyone&#39;s Talking About CSS Container Queries &lpar;And How to Use Them&rpar;](https://dev.to/digitalminds/why-everyones-talking-about-css-container-queries-and-how-to-use-them-1gc8)
-- [Building a financial dashboard with HTML5, TailwindCSS v4, and Vanilla JavaScript](https://dev.to/sirneij/building-a-financial-dashboard-with-html5-tailwindcss-v4-and-vanilla-javascript-5cmb)
+- [Observables &amp; Chill: Getting Started with RxJS](https://dev.to/lovestaco/observables-chill-getting-started-with-rxjs-4khe)
+- [20 Curated Articles on Real Money Making for Starters.](https://dev.to/rare_source/20-curated-articles-on-real-money-making-for-starters-27pn)
+- [10 Distinct Ways to Make $550 in a Week](https://dev.to/abubakersiddique761/10-distinct-ways-to-make-550-in-a-week-359k)
+- [Day 3: The Linux File System](https://dev.to/harshpandhe/day-3-the-linux-file-system-4ldg)
+- [Diseña Arquitecturas Sólidas en AWS con el Well-Architected Framework](https://dev.to/briansuarezsantiago/disena-arquitecturas-solidas-en-aws-con-el-well-architected-framework-38ak)
 <!-- BLOG-POST-LIST:END -->
 
 ---
