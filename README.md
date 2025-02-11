@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Content Security Policy: Your Website&#39;s Unsung Hero](https://dev.to/simplr_sh/content-security-policy-your-websites-unsung-hero-44dp)
+- [Parsing the ⭐&#39;s with txtai](https://dev.to/neuml/parsing-the-s-with-txtai-31lf)
+- [Game Changing Improvements to ArtistAssistApp in February 2025](https://dev.to/eugene-khyst/game-changing-improvements-to-artistassistapp-in-february-2025-5577)
+- [Do you want some tips for designing](https://dev.to/mince/do-you-want-some-tips-for-designing-30g7)
 - [Part 3 coming tomorrow](https://dev.to/mince/part-3-coming-tomorrow-2d9m)
-- [How I Debug Faster with These Simple Tricks](https://dev.to/rowsanali/how-i-debug-faster-with-these-simple-tricks-l2h)
-- [Valentine’s Day Crypto Activities Overview 🎁](https://dev.to/theodor_coin_4/valentines-day-crypto-activities-overview-4ibh)
-- [🛠️ I’ve been refining my React project structures, and this post has some great insights! Definitely worth a read.](https://dev.to/kelvincode1234/ive-been-refining-my-react-project-structures-and-this-post-has-some-great-insights-428b)
-- [The Evolution of Kafka and the Changing Data Landscape IS FINALLY OUT !!](https://dev.to/lorebrada00/the-evolution-of-kafka-and-the-changing-data-landscape-is-finally-out--296d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
