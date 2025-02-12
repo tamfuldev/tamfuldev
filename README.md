@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Feature Toggles: A Simple Way to Manage Access to Premium Features](https://dev.to/budiwidhiyanto/feature-toggles-a-simple-way-to-manage-access-to-premium-features-52j6)
-- [Week 4 of my Data Analytics Journey](https://dev.to/awasume_marylin_8/week-4-of-my-data-analytics-journey-3bie)
-- [Doing it with a RNN model is impressing](https://dev.to/gliese832b/doing-it-with-a-rnn-model-is-impressing-35np)
-- [The Journey, the Struggles, and the Road Ahead](https://dev.to/stevengdev/the-journey-the-struggles-and-the-road-ahead-215k)
-- [Como passar na certificação AI Practitioner - AWS](https://dev.to/airton_lirajunior_2ddebd/como-passar-na-certificacao-ai-practitioner-aws-1cni)
+- [MSI RTX 5090 TRIO FurMark Benchmarking + Overclocking + Noise Testing and Comparing with RTX 3090 TI](https://dev.to/furkangozukara/msi-rtx-5090-trio-furmark-benchmarking-overclocking-noise-testing-and-comparing-with-rtx-3090-ti-1nk1)
+- [Manager&#39;s Guide: AWS Tri-Secret Secure in Snowflake](https://dev.to/srikatikala/managers-guide-aws-tri-secret-secure-in-snowflake-59l)
+- [Single div ACTUALLY 3D cube📦 in Pure CSS! &lpar;They said it was impossible!&rpar;](https://dev.to/grahamthedev/single-div-actually-3d-cube-in-pure-css-they-said-it-was-impossible-48m5)
+- [Read Posts using Dev.to API: A Guide](https://dev.to/yoan-gilliand/read-posts-from-devto-using-the-api-a-guide-48g0)
+- [Creating a ToDo App with Nolang](https://dev.to/nolang/creating-a-todo-app-with-nolang-3cgf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
