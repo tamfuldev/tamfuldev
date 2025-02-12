@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Write Technical Documentation in 2025: A Step-by-Step Guide](https://dev.to/auden/how-to-write-technical-documentation-in-2025-a-step-by-step-guide-1hh1)
-- [A developers guide to v0.dev](https://dev.to/codeparrot/a-developers-guide-to-v0dev-4c4g)
-- [Game Design Constraints as a Driver for Educational Games](https://dev.to/valentin_briukhanov/game-design-constraints-as-a-driver-for-educational-games-2hn1)
-- [Review: Postman Flow VS Apidog Tests](https://dev.to/apilover/review-postman-flow-vs-apidog-tests-22b4)
-- [Do you accept that we shouldn&#39;t care of followers in dev.to, They are all bots](https://dev.to/mince/do-you-accept-that-we-shouldnt-care-of-followers-in-devto-they-are-all-bots-2mc)
+- [How I Contributed to Kestra: A Beginner’s Perspective](https://dev.to/pravesh_sudha_3c2b0c2b5e0/how-i-contributed-to-kestra-a-beginners-perspective-4leo)
+- [Go 1.24 Released: Massive Optimizations &amp; Key Upgrades!](https://dev.to/leapcell/go-124-released-massive-optimizations-key-upgrades-1mbn)
+- [Best Custom Insurance Software Development Platforms in 2025](https://dev.to/openkoda/best-custom-insurance-software-development-platforms-in-2025-5cpj)
+- [AI System Makes Lip Reading More Personal and Accurate with Audio-Visual Learning](https://dev.to/mikeyoung44/ai-system-makes-lip-reading-more-personal-and-accurate-with-audio-visual-learning-4jgn)
+- [AI Creates Two-Way Bridge Between X-Ray Images and Medical Reports](https://dev.to/mikeyoung44/ai-creates-two-way-bridge-between-x-ray-images-and-medical-reports-36g7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
