@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use CSS Grid for Complex Web Layouts: A Step-by-Step Guide](https://dev.to/rowsanali/how-to-use-css-grid-for-complex-web-layouts-a-step-by-step-guide-3fk9)
-- [A guide to Object.groupBy: An alternative to Array.reduce](https://dev.to/logrocket/a-guide-to-objectgroupby-an-alternative-to-arrayreduce-59a8)
-- [Observability in Microservices: Metrics, Logs, and Traces Explained](https://dev.to/niteshnitian995/observability-in-microservices-metrics-logs-and-traces-explained-564a)
-- [Join us for the next Frontend Challenge: February Edition!](https://dev.to/devteam/join-us-for-the-next-frontend-challenge-february-edition-3070)
-- [Networking 101: Part 3](https://dev.to/himanshu_bhatt/networking-101-part-3-356h)
+- [JUnit Testing | Spring Boot | Java Spring](https://dev.to/debeshpg90/junit-testing-spring-boot-java-spring-1891)
+- [Stop asking users for their AI API keys](https://dev.to/miguelaeh/stop-asking-users-for-their-ai-api-keys-2583)
+- [Networking 101: Part 4](https://dev.to/himanshu_bhatt/networking-101-part-4-3c8l)
+- [20+ Best Programming Project Ideas for Beginners](https://dev.to/tarunfulera1/20-best-programming-project-ideas-for-beginners-1g4p)
+- [Our Unforgettable Journey: Winning Innerve 9 Hackathon at AIT Pune](https://dev.to/mohit_nagaraj/our-unforgettable-journey-winning-innerve-9-hackathon-at-ait-pune-54ng)
 <!-- BLOG-POST-LIST:END -->
 
 ---
