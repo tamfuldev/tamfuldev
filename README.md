@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [MSI RTX 5090 TRIO FurMark Benchmarking + Overclocking + Noise Testing and Comparing with RTX 3090 TI](https://dev.to/furkangozukara/msi-rtx-5090-trio-furmark-benchmarking-overclocking-noise-testing-and-comparing-with-rtx-3090-ti-1nk1)
-- [Manager&#39;s Guide: AWS Tri-Secret Secure in Snowflake](https://dev.to/srikatikala/managers-guide-aws-tri-secret-secure-in-snowflake-59l)
-- [Single div ACTUALLY 3D cube📦 in Pure CSS! &lpar;They said it was impossible!&rpar;](https://dev.to/grahamthedev/single-div-actually-3d-cube-in-pure-css-they-said-it-was-impossible-48m5)
-- [Read Posts using Dev.to API: A Guide](https://dev.to/yoan-gilliand/read-posts-from-devto-using-the-api-a-guide-48g0)
-- [Creating a ToDo App with Nolang](https://dev.to/nolang/creating-a-todo-app-with-nolang-3cgf)
+- [Day 38 - Primary key, Foreign key in Database, Types of SQL Languages](https://dev.to/lakshmipritha/day-38-primary-key-foreign-key-in-database-types-of-sql-languages-3g3p)
+- [Deploying Serverless Functions Across Regions with AWS Lambda](https://dev.to/aws-builders/deploying-serverless-functions-across-regions-with-aws-lambda-2khc)
+- [Rate Limiting: A Practical Guide to Prevent Overuse](https://dev.to/propelauth/rate-limiting-a-practical-guide-to-prevent-overuse-16lm)
+- [Ruby, Rails, Multi-threading e Puma: Como tudo isso se conecta?](https://dev.to/erick_tmr/ruby-rails-multi-threading-e-puma-como-tudo-isso-se-conecta-3kc7)
+- [Introduction to AI-Generated Code and Its Ethics](https://dev.to/kartikmehta8/introduction-to-ai-generated-code-and-its-ethics-4ocf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
