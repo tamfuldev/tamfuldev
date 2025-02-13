@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why should we keep writing? Let&#39;s Discuss! 🤝](https://dev.to/omerberatsezer/why-should-we-keep-writing-lets-discuss-2nc)
-- [AI Agents on Avalanche: The Future of Decentralized Intelligence](https://dev.to/xavierop877/ai-agents-on-avalanche-the-future-of-decentralized-intelligence-1d9c)
-- [Agentic AI: Revolutionizing Next-Generation Software Development Teams](https://dev.to/alexander_uspenskiy_the_great/agentic-ai-revolutionizing-next-generation-software-development-teams-509p)
-- [Tooltips in Phoenix LiveView](https://dev.to/puretype/tooltips-in-phoenix-liveview-k8e)
-- [Want to make your file Immutable? Lock it down with &lpar;chattr +i&rpar; and keep your files untouchable! 🔒💻](https://dev.to/nurulislamrimon/want-to-make-your-file-immutable-lock-it-down-with-chattr-i-and-keep-your-files-untouchable-37ni)
+- [LLM Security: Mitigating Vulnerabilities, Prompt Injection, and Training Data Risks in AI Systems](https://dev.to/aragorn_talks/llm-security-mitigating-vulnerabilities-prompt-injection-and-training-data-risks-in-ai-systems-6fd)
+- [Memory Management in JavaScript: A Beginner-Friendly Guide](https://dev.to/rarai365/memory-management-in-javascript-a-beginner-friendly-guide-14ja)
+- [explica brevemente que es c# ?](https://dev.to/ricardojavister/explica-brevemente-que-es-c--4cb5)
+- [Model Tuning: Optimizing Machine Learning Performance](https://dev.to/kapusto/model-tuning-optimizing-machine-learning-performance-1j3k)
+- [Prompt Engineering: The Art of Talking to AI](https://dev.to/rage/prompt-engineering-the-art-of-talking-to-ai-2gjj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
