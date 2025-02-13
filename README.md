@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why GitBook switched from LaunchDarkly to Bucket](https://dev.to/bucketdotco/why-gitbook-switched-from-launchdarkly-to-bucket-a57)
-- [PostgreSql Tasks - Case 2](https://dev.to/guru_prasanna_01/postgresql-tasks-case-2-551o)
-- [Stack Practice in java](https://dev.to/vasanthvnr_31/stack-practice-in-java-1moj)
-- [Bridging the Gap: Java JPA, ORM, and the Database-Application Relationship](https://dev.to/zorous/bridging-the-gap-java-jpa-orm-and-the-database-application-relationship-2bm2)
-- [Inside Technology Trends: AI Chatbots &amp; Network APIs](https://dev.to/slashdatahq/inside-technology-trends-ai-chatbots-network-apis-3a12)
+- [How to Become a Data Scientist Without a Degree?](https://dev.to/tarunfulera1/how-to-become-a-data-scientist-without-a-degree-542o)
+- [[Boost]](https://dev.to/sauain/-3n8)
+- [Building Resilient APIs: A Comprehensive Guide to Throttling and Circuit Breakers with WSO2, Redis, and Kafka](https://dev.to/devaaai/building-resilient-apis-a-comprehensive-guide-to-throttling-and-circuit-breakers-with-wso2-redis-mga)
+- [Mastering the Strategy Pattern with a Car Example 🚗⚙️](https://dev.to/dhanasai_tholeti/mastering-the-strategy-pattern-with-a-car-example-39ko)
+- [Building a Profitable SaaS in 7 Days: How I made $1,680.37💵](https://dev.to/heyitslunarojas/building-a-profitable-saas-in-7-days-how-i-made-168037-1a7g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
