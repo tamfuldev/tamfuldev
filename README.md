@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Duration Conversions with Duratii](https://dev.to/alphadevking/mastering-duration-conversions-with-duratii-3jn6)
-- [Meme Roulette Chrome Extension](https://dev.to/cendekia/meme-roulette-chrome-extension-425o)
-- [Crafting a Chrome Extension: TypeScript, Webpack, and Best Practices](https://dev.to/cendekia/crafting-a-chrome-extension-typescript-webpack-and-best-practices-3g9c)
-- [PHP as a stateless language](https://dev.to/joaovitorss/php-as-a-stateless-language-3k81)
-- [C language API to talk to Golf server](https://dev.to/golf-lang/c-language-api-to-talk-to-golf-server-36k3)
+- [Combining AI with Traditional Art: New Possibilities with Generative AI Artist Yahya Yuksel](https://dev.to/yahya_yuksel_7aa7977b8460/combining-ai-with-traditional-art-new-possibilities-with-generative-ai-artist-yahya-yuksel-218h)
+- [A Deep Dive into VLSI: The Backbone of Modern Electronics](https://dev.to/daviekim13/a-deep-dive-into-vlsi-the-backbone-of-modern-electronics-2lnd)
+- [I am developing an annotation-based performance measurement tool for use in Spring.](https://dev.to/sjw/i-am-developing-an-annotation-based-performance-measurement-tool-for-use-in-spring-36fd)
+- [Kaia Portal: 分散型金融の未来とエポック2への道](https://dev.to/izi_/kaia-portal-fen-san-xing-jin-rong-nowei-lai-toepotuku2henodao-4ic0)
+- [RandomResizedCrop in PyTorch &lpar;3&rpar;](https://dev.to/hyperkai/randomresizedcrop-in-pytorch-3-25b2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
