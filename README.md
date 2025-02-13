@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Become a Data Scientist Without a Degree?](https://dev.to/tarunfulera1/how-to-become-a-data-scientist-without-a-degree-542o)
-- [[Boost]](https://dev.to/sauain/-3n8)
-- [Building Resilient APIs: A Comprehensive Guide to Throttling and Circuit Breakers with WSO2, Redis, and Kafka](https://dev.to/devaaai/building-resilient-apis-a-comprehensive-guide-to-throttling-and-circuit-breakers-with-wso2-redis-mga)
-- [Mastering the Strategy Pattern with a Car Example 🚗⚙️](https://dev.to/dhanasai_tholeti/mastering-the-strategy-pattern-with-a-car-example-39ko)
-- [Building a Profitable SaaS in 7 Days: How I made $1,680.37💵](https://dev.to/heyitslunarojas/building-a-profitable-saas-in-7-days-how-i-made-168037-1a7g)
+- [People Are Getting Dumber, and AI Is Getting Smarter](https://dev.to/iwooky/people-are-getting-dumber-and-ai-is-getting-smarter-18bc)
+- [You should be this type of developer](https://dev.to/quave/you-should-be-this-type-of-developer-n2i)
+- [Understanding Backpropagation from Scratch with micrograd - Derivatives](https://dev.to/shrsv/understanding-backpropagation-from-scratch-with-micrograd-derivatives-2703)
+- [What&#39;s the difference between DevOps And Cloud Computing ??](https://dev.to/rusandu_dewm_galhena/whats-the-difference-between-devops-and-cloud-computing--9e2)
+- [Architecture en médailon sur Microsoft Fabric](https://dev.to/mohamed_ash_data/architecture-en-medailon-sur-microsoft-fabric-2h27)
 <!-- BLOG-POST-LIST:END -->
 
 ---
