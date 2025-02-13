@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [LLM Security: Mitigating Vulnerabilities, Prompt Injection, and Training Data Risks in AI Systems](https://dev.to/aragorn_talks/llm-security-mitigating-vulnerabilities-prompt-injection-and-training-data-risks-in-ai-systems-6fd)
-- [Memory Management in JavaScript: A Beginner-Friendly Guide](https://dev.to/rarai365/memory-management-in-javascript-a-beginner-friendly-guide-14ja)
-- [explica brevemente que es c# ?](https://dev.to/ricardojavister/explica-brevemente-que-es-c--4cb5)
-- [Model Tuning: Optimizing Machine Learning Performance](https://dev.to/kapusto/model-tuning-optimizing-machine-learning-performance-1j3k)
-- [Prompt Engineering: The Art of Talking to AI](https://dev.to/rage/prompt-engineering-the-art-of-talking-to-ai-2gjj)
+- [Removal of bootstrap unused code in website](https://dev.to/paga_1403a6980c16afd0444f/removal-of-bootstrap-unused-code-in-website-4j28)
+- [STL Pair](https://dev.to/mujahida_joynab_64c7407d8/stl-pair-19ho)
+- [Guía Completa: Instalación y Configuración de NGINX en Ubuntu 24.04](https://dev.to/hopsersmerk/guia-completa-instalacion-y-configuracion-de-nginx-en-ubuntu-2404-3i9k)
+- [&quot;Unlocking Cross-Lingual Semantic Search: Insights &amp; Innovations Revealed!&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-cross-lingual-semantic-search-insights-innovations-revealed-57j6)
+- [explica brevemente que es c# ?](https://dev.to/ricardojavister/explica-brevemente-que-es-c--4lij)
 <!-- BLOG-POST-LIST:END -->
 
 ---
