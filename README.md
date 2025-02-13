@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [More people just move away from Nginx towards OpenResty imo](https://dev.to/melroy89/more-people-just-move-away-from-nginx-towards-openresty-imo-202k)
-- [Untitled](https://dev.to/__0f9d31e0ecf2/untitled-3ee1)
-- [Untitled](https://dev.to/__0f9d31e0ecf2/untitled-4om)
-- [&quot;Unlocking Hierarchical Data: The Power of Flag Decomposition in AI&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-hierarchical-data-the-power-of-flag-decomposition-in-ai-5389)
-- [SQL 101 | Chapter 8: Using Subqueries for Improved Modularity and Dynamic Calculations](https://dev.to/yujin/sql-101-chapter-8-using-subqueries-for-improved-modularity-and-dynamic-calculations-26mn)
+- [Mastering Duration Conversions with Duratii](https://dev.to/alphadevking/mastering-duration-conversions-with-duratii-3jn6)
+- [Meme Roulette Chrome Extension](https://dev.to/cendekia/meme-roulette-chrome-extension-425o)
+- [Crafting a Chrome Extension: TypeScript, Webpack, and Best Practices](https://dev.to/cendekia/crafting-a-chrome-extension-typescript-webpack-and-best-practices-3g9c)
+- [PHP as a stateless language](https://dev.to/joaovitorss/php-as-a-stateless-language-3k81)
+- [C language API to talk to Golf server](https://dev.to/golf-lang/c-language-api-to-talk-to-golf-server-36k3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
