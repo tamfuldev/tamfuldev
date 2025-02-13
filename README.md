@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Install &amp; Run VideoLLaMA3-7B Locally](https://dev.to/nodeshiftcloud/how-to-install-run-videollama3-7b-locally-24p1)
-- [🚀 Your Daily Crypto Job Digest For 13 February!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-13-february-42nl)
-- [🔐 Secure Azure Static Web Apps &lpar;SWA&rpar; with C# Azure Functions &amp; Authentication](https://dev.to/champcbg/secure-azure-static-web-apps-swa-with-c-azure-functions-authentication-2pm)
-- [Guia Prático: Primeiros Passos com C#](https://dev.to/unhacked/guia-pratico-primeiros-passos-com-c-4a3e)
-- [📰 QuEra wraps up $230m funding for quantum development](https://dev.to/d_thiranjaya_6d3ec4552111/quera-wraps-up-230m-funding-for-quantum-development-11np)
+- [Exploring Alternatives to Google Apps: ChatGPT, Brave, Mozilla Thunderbird, and More!](https://dev.to/kumar_kusumitsharma_b190/exploring-alternatives-to-google-apps-chatgpt-brave-mozilla-thunderbird-and-more-46fe)
+- [DeepSeek&#39;s AI Coding Assistant: Install DeepSeek-R1-32B-Cline Locally with Ollama and VSCode](https://dev.to/nodeshiftcloud/deepseeks-ai-coding-assistant-install-deepseek-r1-32b-cline-locally-with-ollama-and-vscode-hi2)
+- [Why Is Smart Contract Development Important for Blockchain Applications?](https://dev.to/joinwithken/why-is-smart-contract-development-important-for-blockchain-applications-4h11)
+- [Filtering out unwanted website traffic to improve website SEO statistics and improve web application performance](https://dev.to/zakwillis/filtering-out-unwanted-website-traffic-to-improve-website-seo-statistics-and-improve-web-2j61)
+- [Secure with Caddy: Focus on security features like automatic HTTPS in Caddy](https://dev.to/mobisoftinfotech/secure-with-caddy-focus-on-security-features-like-automatic-https-in-caddy-4e9d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
