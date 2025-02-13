@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Using Multiple MongoDB Databases in a Single Server with Node.js and TypeScript](https://dev.to/chukwu3meka/using-multiple-mongodb-databases-in-a-single-server-with-nodejs-and-typescript-1jf9)
-- [🚀 We Just Launched Stof – An Open-Source Project to Simplify Data Handling!](https://dev.to/amelia_wampler_e7aa93dab9/we-just-launched-stof-an-open-source-project-to-simplify-data-handling-449p)
-- [Code Smell 290 - Refused Bequest](https://dev.to/mcsee/code-smell-290-refused-bequest-3l3k)
-- [Asynchronous Programming in Django](https://dev.to/shayan_holakouee/asynchronous-programming-in-django-15f4)
-- [Reflexões ao usar o GitHub Copilot](https://dev.to/edersontec/reflexoes-ao-usar-o-github-copilot-1cc1)
+- [More people just move away from Nginx towards OpenResty imo](https://dev.to/melroy89/more-people-just-move-away-from-nginx-towards-openresty-imo-202k)
+- [Untitled](https://dev.to/__0f9d31e0ecf2/untitled-3ee1)
+- [Untitled](https://dev.to/__0f9d31e0ecf2/untitled-4om)
+- [&quot;Unlocking Hierarchical Data: The Power of Flag Decomposition in AI&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-hierarchical-data-the-power-of-flag-decomposition-in-ai-5389)
+- [SQL 101 | Chapter 8: Using Subqueries for Improved Modularity and Dynamic Calculations](https://dev.to/yujin/sql-101-chapter-8-using-subqueries-for-improved-modularity-and-dynamic-calculations-26mn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
