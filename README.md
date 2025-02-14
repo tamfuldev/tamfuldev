@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DeepResearchAgent - Your Shortcut for Faster Research](https://dev.to/ag2ai/deepresearchagent-your-shortcut-for-faster-research-5ca5)
-- [How To Get Backlink Directly From Google Official Website with JavaScript📌](https://dev.to/heyitslunarojas/how-to-get-backlink-directly-from-google-official-website-with-javascript-2bb5)
-- [NVIDIA RTX 4090 vs. RTX 5090: Deep Dive for AI Training](https://dev.to/thekbbohara/nvidia-rtx-4090-vs-rtx-5090-deep-dive-for-ai-training-3gjn)
-- [What is a Blockchain?](https://dev.to/rafiatou_okere_16004811b3/what-is-a-blockchain-5f6e)
-- [Using Docker Cp Command to Copy Files in Containers](https://dev.to/spacelift/using-docker-cp-command-to-copy-files-in-containers-331o)
+- [OpenAI o1 Capabilities](https://dev.to/maksim_tarasov_c60917a469/openai-o1-capabilities-1pga)
+- [Es la Ballena China la mejor opción?](https://dev.to/hierro59/es-la-ballena-china-la-mejor-opcion-1j7i)
+- [🚀 Your Daily Crypto Job Digest For 14 February!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-14-february-4fb)
+- [10 Essential NPM Packages You Haven&#39;t Heard Of &lpar;But Should Be Using&rpar;](https://dev.to/genesis_technologies/10-essential-npm-packages-you-havent-heard-of-but-should-be-using-36f7)
+- [The Versatility of Qwen AI](https://dev.to/maksim_tarasov_c60917a469/the-versatility-of-qwen-ai-577l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
