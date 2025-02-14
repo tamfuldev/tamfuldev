@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built Open Source Fastest URL Shortener Ever With Rust](https://dev.to/abdibrokhim/how-i-built-open-source-fastest-url-shortener-ever-with-rust-4ggm)
-- [AI Unit Tests: Revolutionizing Software Testing with Automation](https://dev.to/keploy/ai-unit-tests-revolutionizing-software-testing-with-automation-1291)
-- [The Ultimate Career Discussion Guide for Software Engineers](https://dev.to/robin-ivi/the-ultimate-career-discussion-guide-for-software-engineers-33jp)
-- [Telegram Boosts User Experience with Improved Technology](https://dev.to/saad_hassan_e94d6ecf23e3c/telegram-boosts-user-experience-with-improved-technology-1om2)
-- [Improving Visibility: The Combination of Off-Site SEO with Web Development](https://dev.to/devto_6758/improving-visibility-the-combination-of-off-site-seo-with-web-development-2hh4)
+- [Dev-C++ 4.9.9.2 版的問題](https://dev.to/codemee/dev-c-4992-ban-de-wen-ti-nem)
+- [How to Implement Secure User Authentication with Passport.js](https://dev.to/rowsanali/how-to-implement-secure-user-authentication-with-passportjs-401j)
+- [Svelte Icon Library - Svelicon 🎨](https://dev.to/developerbishwas/svelte-icon-library-svelicon-1bda)
+- [Managing Docker Images](https://dev.to/godofgeeks/managing-docker-images-5fdl)
+- [Functional Programming Explained: A Deep Dive](https://dev.to/leapcell/functional-programming-explained-a-deep-dive-knh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
