@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Set SELinux flags](https://dev.to/kubenetic/set-selinux-flags-4g17)
-- [Inclusive Technology: Making Digital Spaces for Everyone](https://dev.to/okoye_ndidiamaka_5e3b7d30/inclusive-technology-making-digital-spaces-for-everyone-2n6h)
-- [How to pass the OWASP MASVS verification by design](https://dev.to/owasp/how-to-pass-the-owasp-masvs-verification-by-design-2cf9)
-- [Create a Neovim plugin for a CLI tool](https://dev.to/praem90/create-a-neovim-plugin-for-a-cli-tool-37fm)
-- [Master React.js Development in 20 Days: Accelerate Your Career Quickly](https://dev.to/myogeshchavan97/master-reactjs-development-in-20-days-accelerate-your-career-quickly-359i)
+- [Use DeepSeek-R1 for Free: Here&#39;s Your Ultimate Guide!](https://dev.to/apilover/use-deepseek-r1-for-free-heres-your-ultimate-guide-1phe)
+- [AI Writing Mimicry Poses Growing Security Risk as Tech Becomes More Accessible](https://dev.to/mikeyoung44/ai-writing-mimicry-poses-growing-security-risk-as-tech-becomes-more-accessible-31ba)
+- [Title](https://dev.to/kin_test_8c229aecbd38506f/title-50cp)
+- [FEATool Multiphysics v1.17.3 Update for MATLAB 2025a](https://dev.to/precise-simulation/featool-multiphysics-v1173-update-for-matlab-2025a-2i1e)
+- [Understanding Demand Generation: A Complete Business Guide](https://dev.to/piyushsingh22/understanding-demand-generation-a-complete-business-guide-3ddj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
