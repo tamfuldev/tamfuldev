@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Benefits of ChatGPT 4.5](https://dev.to/maksim_tarasov_c60917a469/the-benefits-of-chatgpt-45-1j76)
-- [Understanding Entra Connect Sync Architecture: A Deep Dive - Part 1](https://dev.to/neontiger12/understanding-entra-connect-sync-architecture-a-deep-dive-part-1-3k3p)
-- [The future of manual testing in the age of AI](https://dev.to/balakumar/the-future-of-manual-testing-in-the-age-of-ai-10cm)
-- [A new Cloud Storage opensource project named Cyclone cloud https://github.com/SUBOdhar/cyclone-cloud](https://dev.to/subodh_aryal_8e1d1d8f9492/a-new-cloud-storage-opensource-project-named-cyclone-cloud-234m)
-- [Understanding Smart Contracts in Blockchain](https://dev.to/blessedtechnologist/understanding-smart-contracts-in-blockchain-3j9d)
+- [How I Deployed a Full-Stack Application with &quot;NestJS&quot; with &quot;Angular&quot; on &quot;Supabase&quot; and &quot;Vercel&quot;](https://dev.to/endykaufman/how-i-deployed-a-full-stack-application-with-nestjs-with-angular-on-supabase-and-vercel-6nk)
+- [Building a Multi-Step Form with Laravel Volt, Folio, and Neon Postgres](https://dev.to/neon-postgres/building-a-multi-step-form-with-laravel-volt-folio-and-neon-postgres-5b4f)
+- [📊 Mastering Google Sheets for Data Analytics! 🚀](https://dev.to/shreyansh_19_kumar/mastering-google-sheets-for-data-analytics-33lm)
+- [20+ Trending JavaScript Resources for Every Developer.](https://dev.to/dev-resources/20-trending-javascript-resources-for-every-developer-14bg)
+- [Some good repos listed here, Open source🔥](https://dev.to/astrodevil/some-good-repos-listed-here-open-source-4fh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
