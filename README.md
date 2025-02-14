@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Deployed a Full-Stack Application with &quot;NestJS&quot; with &quot;Angular&quot; on &quot;Supabase&quot; and &quot;Vercel&quot;](https://dev.to/endykaufman/how-i-deployed-a-full-stack-application-with-nestjs-with-angular-on-supabase-and-vercel-6nk)
-- [Building a Multi-Step Form with Laravel Volt, Folio, and Neon Postgres](https://dev.to/neon-postgres/building-a-multi-step-form-with-laravel-volt-folio-and-neon-postgres-5b4f)
-- [📊 Mastering Google Sheets for Data Analytics! 🚀](https://dev.to/shreyansh_19_kumar/mastering-google-sheets-for-data-analytics-33lm)
-- [20+ Trending JavaScript Resources for Every Developer.](https://dev.to/dev-resources/20-trending-javascript-resources-for-every-developer-14bg)
-- [Some good repos listed here, Open source🔥](https://dev.to/astrodevil/some-good-repos-listed-here-open-source-4fh)
+- [Optimize It or Crash: The Big Key Problem in Redis](https://dev.to/leapcell/optimize-it-or-crash-the-big-key-problem-in-redis-36n2)
+- [Smart Market Testing: One Domain, Infinite Possibilities](https://dev.to/aws-builders/smart-market-testing-one-domain-infinite-possibilities-4cna)
+- [🔀 GIT FLOW OVERVIEW AND COMMON GIT COMMANDS 💻](https://dev.to/truongpx396/git-flow-overview-and-common-git-commands-56mj)
+- [Apps Script&#39;s getUrl&lpar;&rpar; method deprecated ⛔️](https://dev.to/googleworkspace/apps-scripts-geturl-method-deprecated-4io7)
+- [Building AppSheet Chat apps](https://dev.to/googleworkspace/building-appsheet-chat-apps-5521)
 <!-- BLOG-POST-LIST:END -->
 
 ---
