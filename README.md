@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Linux 101: Part 3 - Decoding the Linux Prompt Structure &amp; A Beginner&#39;s Guide to Essential Commands](https://dev.to/himanshu_bhatt/linux-101-part-3-decoding-the-linux-prompt-structure-a-beginners-guide-to-essential-commands-27ia)
-- [hover text only with html](https://dev.to/tromo_sm_ce16da2afa22d285/hover-text-only-with-html-1664)
-- [Linux 101: Part 2 - Understanding the Linux File System](https://dev.to/himanshu_bhatt/linux-101-part-2-understanding-the-linux-file-system-216i)
-- [Linux 101: Part 1 – Exploring OS Concepts, Virtualization, and the Linux Kernel](https://dev.to/himanshu_bhatt/linux-101-part-1-exploring-os-concepts-virtualization-and-the-linux-kernel-46gi)
-- [How to Create an Access Key for Secure Cloud Storage](https://dev.to/khushi_jain_/how-to-create-an-access-key-for-secure-cloud-storage-1c37)
+- [18+ Questions to Challenge and Expand Your Babel Knowledge](https://dev.to/toosriet/18-questions-to-challenge-and-expand-your-babel-knowledge-4bj8)
+- [Macro-Less, Highly Integrated OpenAPI Document Generation in Rust with Ohkami](https://dev.to/kanarus/macro-less-highly-integrated-openapi-document-generation-in-rust-with-ohkami-9b2)
+- [Creating a Smooth Animated Vertical List in React Native with Reanimated](https://dev.to/amitkumar13/creating-a-smooth-animated-vertical-list-in-react-native-with-reanimated-2bb4)
+- [The Evolution of Authentication : From Passwords to Passkeys](https://dev.to/sahildahekar/the-evolution-of-authentication-from-passwords-to-passkeys-2g5d)
+- [SQL-Databse](https://dev.to/mishra9759harshit/sql-databse-5e4k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
