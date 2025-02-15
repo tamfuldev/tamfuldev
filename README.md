@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Newly Curated 40+ Developer Fixes || Try it now :&rpar;](https://dev.to/0x2e_tech/newly-curated-40-developer-fixes-try-it-now--14fe)
-- [The Boring Flutter Architecture](https://dev.to/emad_eibo/the-most-appealing-scalable-and-well-structured-architecture-for-flutter-apps-14k8)
-- [2025&#39;s Trending Tech Stacks for Full‑Stack Development](https://dev.to/resource_bunk_1077cab07da/2025s-trending-tech-stacks-for-full-stack-development-442e)
-- [Top 5 AI Tools in 2025](https://dev.to/vishnusatheesh/top-5-ai-tools-in-2025-i8n)
-- [TMP: GClient Learner Platform – Phase 1: Building a Dynamic Navbar with Next.js, TypeScript, and Tailwind CSS &lpar;Update 3&rpar;](https://dev.to/calebmakafui/tmp-gclient-learner-platform-phase-1-building-a-dynamic-navbar-with-nextjs-typescript-and-2mde)
+- [How to Check for Uncommitted or Unpushed Changes in Git](https://dev.to/msnmongare/how-to-check-for-uncommitted-or-unpushed-changes-in-git-11oh)
+- [The Synthetic Data Paradox: Are We Surrendering to Automatic Thinking?](https://dev.to/michaelstiven_rojasriva/the-synthetic-data-paradox-are-we-surrendering-to-automatic-thinking-10cg)
+- [Mastering Prompting Engineering](https://dev.to/muhammedsalie/mastering-prompting-engineering-5c30)
+- [Scroll SVG Path with Framer Motion](https://dev.to/heres/scroll-svg-path-with-framer-motion-54el)
+- [125/365 | ¥10M Job Challenge - Freedom](https://dev.to/kameken100/125365-y10m-job-challenge-freedom-119k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
