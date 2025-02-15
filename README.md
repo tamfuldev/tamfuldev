@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Acho que podemos deixar o mobile first em 2024](https://dev.to/lixeletto/acho-que-ja-podemos-deixar-o-mobile-first-em-2024-3m61)
-- [React na Prática: Melhorando Formulários com Hooks.](https://dev.to/alvarogfn/react-na-pratica-melhorando-formularios-com-hooks-4e2d)
-- [Taking Kotlin Builders to the Next Level: A Type-Safe DSL Approach](https://dev.to/lucasfugisawa/taking-kotlin-builders-to-the-next-level-a-type-safe-dsl-approach-3g8a)
-- [Set Up DeepSeek on Huawei Cloud with Docker and Open WebUI](https://dev.to/mohamednasser018/set-up-deepseek-on-huawei-cloud-with-docker-and-open-webui-1p37)
-- [Restroom Redoubt](https://dev.to/rmion/restroom-redoubt-160c)
+- [Quantum Era: A Developer’s Plug-and-Play Roadmap](https://dev.to/snappytuts/quantum-era-a-developers-plug-and-play-roadmap-2abo)
+- [10 Secret Git Commands That Will Save You 5+ Hours Every Week](https://dev.to/arpitstack/10-secret-git-commands-that-will-save-you-5-hours-every-week-1mpn)
+- [Building a Scalable, Cost-Effective Live GPS Tracking System for 300+ Trucks: Lessons from a Logistics Tech Journey](https://dev.to/jacksonkasi/building-a-scalable-cost-effective-live-gps-tracking-system-for-300-trucks-lessons-from-a-2phg)
+- [How to Learn Artificial Intelligence From Scratch?](https://dev.to/tarunfulera1/how-to-learn-artificial-intelligence-from-scratch-2j6d)
+- [Back-Propagation Spelled Out - As Explained by Karpathy](https://dev.to/shrsv/back-propagation-spelled-out-as-explained-by-karpathy-2i9j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
