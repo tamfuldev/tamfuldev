@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Quantum Era: A Developer’s Plug-and-Play Roadmap](https://dev.to/snappytuts/quantum-era-a-developers-plug-and-play-roadmap-2abo)
-- [10 Secret Git Commands That Will Save You 5+ Hours Every Week](https://dev.to/arpitstack/10-secret-git-commands-that-will-save-you-5-hours-every-week-1mpn)
-- [Building a Scalable, Cost-Effective Live GPS Tracking System for 300+ Trucks: Lessons from a Logistics Tech Journey](https://dev.to/jacksonkasi/building-a-scalable-cost-effective-live-gps-tracking-system-for-300-trucks-lessons-from-a-2phg)
-- [How to Learn Artificial Intelligence From Scratch?](https://dev.to/tarunfulera1/how-to-learn-artificial-intelligence-from-scratch-2j6d)
-- [Back-Propagation Spelled Out - As Explained by Karpathy](https://dev.to/shrsv/back-propagation-spelled-out-as-explained-by-karpathy-2i9j)
+- [Valentine&#39;s](https://dev.to/preetha_vaishnavi_2b82358/valentines-2cj1)
+- [Build a high-performance Brainf**k JIT and AOT compiler on top of C# type system](https://dev.to/hez2010/build-a-high-performance-brainfk-jit-and-aot-compiler-on-top-of-c-type-system-42i7)
+- [To Write Is To BE Free](https://dev.to/thejoernal/to-write-is-to-be-free-22kp)
+- [Laravel Business Logic: A Cleaner, Smarter Approach](https://dev.to/raheelshan/laravel-business-logic-a-cleaner-smarter-approach-4793)
+- [Hello World](https://dev.to/preetha_vaishnavi_2b82358/hello-world-45nn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
