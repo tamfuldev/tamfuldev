@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding AI, Machine Learning, and Deep Learning: A Comprehensive Guide 🚀](https://dev.to/alaa-samy/understanding-ai-machine-learning-and-deep-learning-a-comprehensive-guide-1j0)
-- [Try out Debtfree.com...!!](https://dev.to/kelvincode1234/try-out-debtfreecom-30kf)
-- [Pipes and Filter Pattern](https://dev.to/said_olano/pipes-and-filter-pattern-5f57)
-- [How I Built a Simple Shell in C – A Beginner&#39;s Guide to System Programming &lpar;1/3&rpar;](https://dev.to/ertugrulmutlu/how-i-built-a-simple-shell-in-c-a-beginners-guide-to-system-programming-13-238e)
-- [Cloud Load Balancer Pattern](https://dev.to/said_olano/cloud-load-balancer-pattern-4l0)
+- [Unlock the Power of Deep Research: Free, Private &amp; Open Source](https://dev.to/nerding-io/unlock-the-power-of-deep-research-free-private-open-source-2c7)
+- [Running DeepSeek R1 Locally on a Raspberry Pi](https://dev.to/jeremycmorgan/running-deepseek-r1-locally-on-a-raspberry-pi-1gh8)
+- [&quot;Unlocking 3D Multimodal Models: The Future of Encoder-Free Architectures&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-3d-multimodal-models-the-future-of-encoder-free-architectures-44nl)
+- [Response methods](https://dev.to/queentiol/response-methods-heo)
+- [AWS Academy by PartyRock](https://dev.to/aws-builders/aws-academy-by-partyrock-2mie)
 <!-- BLOG-POST-LIST:END -->
 
 ---
