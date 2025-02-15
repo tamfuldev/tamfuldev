@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Check for Uncommitted or Unpushed Changes in Git](https://dev.to/msnmongare/how-to-check-for-uncommitted-or-unpushed-changes-in-git-11oh)
-- [The Synthetic Data Paradox: Are We Surrendering to Automatic Thinking?](https://dev.to/michaelstiven_rojasriva/the-synthetic-data-paradox-are-we-surrendering-to-automatic-thinking-10cg)
-- [Mastering Prompting Engineering](https://dev.to/muhammedsalie/mastering-prompting-engineering-5c30)
-- [Scroll SVG Path with Framer Motion](https://dev.to/heres/scroll-svg-path-with-framer-motion-54el)
-- [125/365 | ¥10M Job Challenge - Freedom](https://dev.to/kameken100/125365-y10m-job-challenge-freedom-119k)
+- [As diferentes técnicas de navegação e renderização na web](https://dev.to/guiopen/as-diferentes-tecnicas-de-navegacao-e-renderizacao-na-web-4haa)
+- [Introduction to Neural Networks](https://dev.to/prezaei/introduction-to-neural-networks-39lj)
+- [Medusa is a composable, open-source commerce for developers. Try it out..!!!!](https://dev.to/kelvincode1234/medusa-is-a-composable-open-source-commerce-for-developers-try-it-out-4lfc)
+- [Medusa is a composable, open-source commerce for developers. Try it out..!!!!](https://dev.to/kelvincode1234/medusa-is-a-composable-open-source-commerce-for-developers-try-it-out-25d6)
+- [Github](https://dev.to/blade_afc19585650ffbe0c68/github-2b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
