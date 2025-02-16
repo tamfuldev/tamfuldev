@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Balaji Udayagiri](https://dev.to/balaji_udayagiri_aa6f571e/balaji-udayagiri-14o3)
-- [Hacking Go-TFE and Fetching All Workspaces in Terraform Enterprise: A Journey Through Pagination](https://dev.to/muhammetberdi_jepbarov/hacking-go-tfe-and-fetching-all-workspaces-in-terraform-enterprise-a-journey-through-pagination-4lel)
-- [Building a Slack Clone with Next.js and TailwindCSS - Part Two](https://dev.to/tropicolx/building-a-slack-clone-with-nextjs-and-tailwindcss-part-two-11cl)
-- [🐞Debugging Life: The Software Engineering Lessons You Can’t Ignore](https://dev.to/hassanshahzadaheer/debugging-life-the-software-engineering-lessons-you-cant-ignore-4n79)
-- [11 Must Read Software Design and Architecture Books for Developers](https://dev.to/somadevtoo/10-must-read-software-design-and-architecture-books-for-developers-347m)
+- [GIT haqida ma&#39;lumot](https://dev.to/sunnat_qayumov/git-8a)
+- [Building a URL Shortener in Go](https://dev.to/luthfisauqi17/building-a-url-shortener-in-go-592d)
+- [Getting Started with Linux: Key Lessons from the Linux Foundation](https://dev.to/madhushan/getting-started-with-linux-key-lessons-from-the-linux-foundation-1g62)
+- [From a Curious Student to Meeting Satya Nadella: My Journey with the Azure Developer Community](https://dev.to/vivek0712/from-a-curious-student-to-meeting-satya-nadella-my-journey-with-the-azure-developer-community-39g3)
+- [Formation of Existing AWS Secrets Manager Secrets Across Regions Using Replication and AWS CLI](https://dev.to/aws-builders/formation-of-existing-aws-secrets-manager-secrets-across-regions-using-replication-and-aws-cli-2hno)
 <!-- BLOG-POST-LIST:END -->
 
 ---
