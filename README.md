@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Create Realtime ChatApp Website Without Coding by Create.xyz 🔥 🚀](https://dev.to/hanzla-baig/create-realtime-chatapp-website-without-coding-by-createxyz-1ec2)
-- [SQL Coding](https://dev.to/farlamo/sql-coding-2j7)
-- [Generative and Predictive AI in Application Security: A Comprehensive Guide](https://dev.to/friendgrass7/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-37c)
-- [Prisma.js with MySQL](https://dev.to/harshm03/prismajs-with-mysql-23f0)
-- [Understanding Relationships in MySQL and Prisma](https://dev.to/harshm03/understanding-relationships-in-mysql-and-prisma-1opc)
+- [12 Must-Have Next.js Libraries to Improve Your Workflow! 🚀](https://dev.to/joodi/12-must-have-nextjs-libraries-to-boost-your-development-workflow-4p3d)
+- [¿Mi aplicación en la nube es compliance?](https://dev.to/briansuarezsantiago/mi-aplicacion-en-la-nube-es-compliance-3e5f)
+- [How to Build a Fast &amp; Secure PHP Contact Form with reCAPTCHA v3](https://dev.to/tanzi_bee/how-to-build-a-fast-secure-php-contact-form-with-recaptcha-v3-5do5)
+- [Select Dropdown + Searchbar + Clearable &lpar;React &amp; Shadcn&rpar;](https://dev.to/vic_ong/select-dropdown-searchbar-clearable-react-shadcn-cl8)
+- [The open source fastest URL shortener ever.](https://dev.to/abdibrokhim/the-open-source-fastest-url-shortener-ever-5af3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
