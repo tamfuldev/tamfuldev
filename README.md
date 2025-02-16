@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Preparing for Senior PHP Symfony Developer role at Clubee](https://dev.to/gurachek/preparing-for-senior-php-symfony-developer-role-at-clubee-2can)
-- [Linux User Management Basics](https://dev.to/madhushan/linux-user-management-basics-me0)
-- [Essential Technologies for Software Engineers Beyond Core Development](https://dev.to/kalana250/essential-technologies-for-software-engineers-beyond-core-development-1mig)
-- [Kickstart Your AI Journey with This Free Course! 🌍](https://dev.to/hrudu/kickstart-your-ai-journey-with-this-free-course-3o3n)
-- [Hands-On AI Learning with Microsoft Copilot! 🎨](https://dev.to/hrudu/hands-on-ai-learning-with-microsoft-copilot-3ilb)
+- [The Power of Promises: Separating UI and Business Logic in React](https://dev.to/anton_akhatov/the-power-of-promises-separating-ui-and-business-logic-in-react-55h0)
+- [🚀 Ensuring Unique Slugs in Next.js 15 with Prisma &amp; Slugify](https://dev.to/saiful7778/ensuring-unique-slugs-in-nextjs-15-with-prisma-slugify-4agc)
+- [Python User Group Dhaka: Our Journey Begins – Event Recap](https://dev.to/tamalchowdhury/python-user-group-dhaka-our-journey-begins-event-recap-2he7)
+- [20 Must-Know React.js Techniques for Beginners in 2025](https://dev.to/sovannaro/20-must-know-reactjs-techniques-for-beginners-in-2025-2ln4)
+- [Mobile-First Approach for FastAPI Full-Stack Template Authentication: Migrating to phone_number/OTP](https://dev.to/justjayzee/mobile-first-approach-for-fastapi-full-stack-template-authentication-migrating-to-phonenumberotp-m02)
 <!-- BLOG-POST-LIST:END -->
 
 ---
