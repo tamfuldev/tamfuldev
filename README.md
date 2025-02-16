@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What is complete binary tree](https://dev.to/mujahida_joynab_64c7407d8/what-is-complete-binary-tree-43bg)
-- [Reusable UI Blocks for Your Vue 3 Projects](https://dev.to/codetonero/reusable-ui-blocks-for-your-vue-3-projects-1183)
-- [Untitled](https://dev.to/dani_ilyas_7789d6c02ab138/untitled-2bip)
-- [DATA ANALYSIS AND DASHBOARDING IN EXCEL](https://dev.to/gedionsang/data-analysis-and-dashboarding-in-excel-1p02)
-- [&quot;KQL Showdown: distinct vs project&quot;](https://dev.to/sivolko/kql-showdown-distinct-vs-project-4h6j)
+- [Diferença entre SPA e SSR](https://dev.to/stefanyrepetcki/diferenca-entre-spa-e-ssr-1j65)
+- [What is DeepSeek-R1?: Simple guide in 5 minutes](https://dev.to/samrudhi09/what-is-deepseek-r1-simple-guide-in-5-minutes-1o0p)
+- [ConnTrack: Real-time Device Connection Tracker for Your Web Apps](https://dev.to/mahmud-r-farhan/conntrack-real-time-device-connection-tracker-for-your-web-apps-4acg)
+- [High-Quality Software: What Is It and Why Is It Worth It?](https://dev.to/joorch/high-quality-software-what-is-it-and-why-is-it-worth-it-3700)
+- [A Thought on Online Subscriptions and Payment Systems: Reimagining the Future](https://dev.to/bede_hampo/a-thought-on-online-subscriptions-and-payment-systems-reimagining-the-future-5dd2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
