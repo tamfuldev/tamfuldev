@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Cloud-Based APIs Are Making GPT and Other AI Models More Accessible for Businesses and Developers Worldwide](https://dev.to/marufhossain/how-cloud-based-apis-are-making-gpt-and-other-ai-models-more-accessible-for-businesses-and-g0p)
-- [Building GetFitter: The Ultimate Workout App with Jetpack Compose](https://dev.to/himagaur2708/building-getfitter-the-ultimate-workout-app-with-jetpack-compose-57n0)
-- [Unlock the Power of Neural Networks – From Scratch!](https://dev.to/devinsights_blog_ed29ec86/unlock-the-power-of-neural-networks-from-scratch-3off)
-- [🔥Best alternative to HTMX](https://dev.to/hmpljs/best-alternative-to-htmx-35j7)
-- [Here&#39;s a step-by-step guide to create a Linux Virtual Machine on Azure, SSH into it, and install NGINX:](https://dev.to/chifum/heres-a-step-by-step-guide-to-create-a-linux-virtual-machine-on-azure-ssh-into-it-and-install-5a0n)
+- [Java Reflection](https://dev.to/lahiru_rajapakshe_8634adb/java-reflection-141b)
+- [Deploy Flutter Web App to Vercel](https://dev.to/davidongora/deploy-flutter-web-app-to-vercel-49pp)
+- [Modeling a Neuron in micrograd &lpar;As Explained by Karpathy&rpar;](https://dev.to/shrsv/modeling-a-neuron-in-micrograd-as-explained-by-karpathy-6gh)
+- [Starting My Web Dev Journey!!](https://dev.to/toshal_kirange_0dd326864c/starting-my-web-dev-journey-4mn4)
+- [Service Mesh: A Step-by-Step Guide with Diagrams](https://dev.to/devcorner/service-mesh-a-step-by-step-guide-with-diagrams-3ha0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
