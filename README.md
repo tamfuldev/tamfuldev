@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GIT haqida ma&#39;lumot](https://dev.to/sunnat_qayumov/git-8a)
-- [Building a URL Shortener in Go](https://dev.to/luthfisauqi17/building-a-url-shortener-in-go-592d)
-- [Getting Started with Linux: Key Lessons from the Linux Foundation](https://dev.to/madhushan/getting-started-with-linux-key-lessons-from-the-linux-foundation-1g62)
-- [From a Curious Student to Meeting Satya Nadella: My Journey with the Azure Developer Community](https://dev.to/vivek0712/from-a-curious-student-to-meeting-satya-nadella-my-journey-with-the-azure-developer-community-39g3)
-- [Formation of Existing AWS Secrets Manager Secrets Across Regions Using Replication and AWS CLI](https://dev.to/aws-builders/formation-of-existing-aws-secrets-manager-secrets-across-regions-using-replication-and-aws-cli-2hno)
+- [Preparing for Senior PHP Symfony Developer role at Clubee](https://dev.to/gurachek/preparing-for-senior-php-symfony-developer-role-at-clubee-2can)
+- [Linux User Management Basics](https://dev.to/madhushan/linux-user-management-basics-me0)
+- [Essential Technologies for Software Engineers Beyond Core Development](https://dev.to/kalana250/essential-technologies-for-software-engineers-beyond-core-development-1mig)
+- [Kickstart Your AI Journey with This Free Course! 🌍](https://dev.to/hrudu/kickstart-your-ai-journey-with-this-free-course-3o3n)
+- [Hands-On AI Learning with Microsoft Copilot! 🎨](https://dev.to/hrudu/hands-on-ai-learning-with-microsoft-copilot-3ilb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
