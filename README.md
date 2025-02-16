@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Java Reflection](https://dev.to/lahiru_rajapakshe_8634adb/java-reflection-141b)
-- [Deploy Flutter Web App to Vercel](https://dev.to/davidongora/deploy-flutter-web-app-to-vercel-49pp)
-- [Modeling a Neuron in micrograd &lpar;As Explained by Karpathy&rpar;](https://dev.to/shrsv/modeling-a-neuron-in-micrograd-as-explained-by-karpathy-6gh)
-- [Starting My Web Dev Journey!!](https://dev.to/toshal_kirange_0dd326864c/starting-my-web-dev-journey-4mn4)
-- [Service Mesh: A Step-by-Step Guide with Diagrams](https://dev.to/devcorner/service-mesh-a-step-by-step-guide-with-diagrams-3ha0)
+- [Automate MySQL Backups with CRON Jobs in cPanel](https://dev.to/tahsin000/automate-mysql-backups-with-cron-jobs-in-cpanel-464n)
+- [Object Oriented Programming for Interview:&rpar;](https://dev.to/madgan95/object-oriented-programming-for-interview-cb2)
+- [Hugging Face Launches Free AI Agents Course with Certification!](https://dev.to/fardinkai/hugging-face-launches-free-ai-agents-course-with-certification-g5a)
+- [Transform Your Data Model to AI Workflow - with only 8 extra lines of code!](https://dev.to/eduardknezovic/transform-your-data-model-to-ai-workflow-with-only-8-extra-lines-of-code-3f5a)
+- [Run Google Chrome as Administrator on Windows 11! {6+} Best Ways](https://dev.to/winsides/run-google-chrome-as-administrator-on-windows-11-6-best-ways-56ib)
 <!-- BLOG-POST-LIST:END -->
 
 ---
