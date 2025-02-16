@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Any AI for Free, Online, and Without Registration](https://dev.to/angel_rojas_6904bae237a0d/how-to-use-any-ai-for-free-online-and-without-registration-p2g)
-- [Success Pop up Modal](https://dev.to/preetha_vaishnavi_2b82358/success-pop-up-modal-hg5)
-- [Deepseek-R1: El Modelo Revolucionario que Eleva los Estándares de los LLM de Código Abierto](https://dev.to/angel_rojas_6904bae237a0d/deepseek-r1-el-modelo-revolucionario-que-eleva-los-estandares-de-los-llm-de-codigo-abierto-42cc)
-- [Modal](https://dev.to/preetha_vaishnavi_2b82358/modal-3d96)
-- [Fabric &amp; Databricks Interoperability &lpar;3&rpar;: Using Fabric Tables in Databricks for Viewing, Analyzing, and Editing](https://dev.to/_d2a1ea24c442526a9777/fabric-databricks-interoperability-3-using-fabric-tables-in-databricks-for-viewing-analyzing-39o6)
+- [Balaji Udayagiri](https://dev.to/balaji_udayagiri_aa6f571e/balaji-udayagiri-14o3)
+- [Hacking Go-TFE and Fetching All Workspaces in Terraform Enterprise: A Journey Through Pagination](https://dev.to/muhammetberdi_jepbarov/hacking-go-tfe-and-fetching-all-workspaces-in-terraform-enterprise-a-journey-through-pagination-4lel)
+- [Building a Slack Clone with Next.js and TailwindCSS - Part Two](https://dev.to/tropicolx/building-a-slack-clone-with-nextjs-and-tailwindcss-part-two-11cl)
+- [🐞Debugging Life: The Software Engineering Lessons You Can’t Ignore](https://dev.to/hassanshahzadaheer/debugging-life-the-software-engineering-lessons-you-cant-ignore-4n79)
+- [11 Must Read Software Design and Architecture Books for Developers](https://dev.to/somadevtoo/10-must-read-software-design-and-architecture-books-for-developers-347m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
