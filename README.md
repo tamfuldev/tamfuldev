@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The React Folder Structure Exposé: From Newbie to Code Mastery Style](https://dev.to/toosriet/the-react-folder-structure-expose-from-newbie-to-code-mastery-style-3mlb)
-- [Factory Method in Java](https://dev.to/mspilari/factory-method-in-java-523)
-- [Funciones anónimas lambda en Java](https://dev.to/asjordi/funciones-anonimas-lambda-en-java-5f19)
-- [Telegram Bot Creation Handbook](https://dev.to/simplr_sh/telegram-bot-creation-handbook-g5g)
-- [Google OAuth 2.0 Flow in Golang and React.js](https://dev.to/the-arcade-01/google-oauth-20-flow-in-golang-and-reactjs-536a)
+- [Meme Monday](https://dev.to/ben/meme-monday-13in)
+- [Managing Lists, Keys, and Forms in React](https://dev.to/johnschibelli/managing-lists-keys-and-forms-in-react-5ao4)
+- [Joomla tip: show notifications by Joomla.renderMessages](https://dev.to/sergeytolkachyov/joomla-tip-show-notifications-by-joomlarendermessages-13lm)
+- [Why we use Clerk for auth](https://dev.to/bucketdotco/why-we-use-clerk-for-auth-5hjp)
+- [ES6 to ES14 - Features list](https://dev.to/shubhamtiwari909/es6-to-es14-features-list-57am)
 <!-- BLOG-POST-LIST:END -->
 
 ---
