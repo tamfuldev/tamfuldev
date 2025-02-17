@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What is the difference between fetch and XMLHTTPRequest? ⚙️](https://dev.to/hmpljs/what-is-the-difference-between-fetch-and-xmlhttprequest-1g9m)
-- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-3e62)
-- [How to Build a Full-Stack Web App with Next.js, Prisma, and PostgreSQL](https://dev.to/raji_moshood_ee3a4c2638f6/how-to-build-a-full-stack-web-app-with-nextjs-prisma-and-postgresql-468n)
-- [AltSchool Of Engineering Tinyuka’24 Month 1 Week 1](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-1-week-1-p9p)
-- [💖Love Language Discovery](https://dev.to/aniruddhaadak/love-language-discovery-4589)
+- [The Cybersecurity Risks of AI-Generated Code: What You Need to Know](https://dev.to/cyberwolves/the-cybersecurity-risks-of-ai-generated-code-what-you-need-to-know-5d12)
+- [Mastering watch and watchEffect in Vue 3 with Practical Examples](https://dev.to/ahmedfm/mastering-watch-and-watcheffect-in-vue-3-with-practical-examples-2gg3)
+- [Comparing Cross-Platform Mobile Development Tools](https://dev.to/resource_bunk_1077cab07da/comparing-cross-platform-mobile-development-tools-1o62)
+- [Understanding the @Value Annotation | Spring Boot | Java Spring](https://dev.to/debeshpg90/understanding-the-value-annotation-spring-boot-java-spring-2fmj)
+- [All Data and AI Weekly #177 - 17-Feb-2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-177-17-feb-2025-kh0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
