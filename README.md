@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [#145 — Insert Blank Row when Meeting with Data Change](https://dev.to/judith677/145-insert-blank-row-when-meeting-with-data-change-19f)
-- [The Magic of Embeddings: How AI Understands Language Like Humans](https://dev.to/kumarprateek18/the-magic-of-embeddings-how-ai-understands-language-like-humans-741)
-- [ECS FinHacks: Scaling Microservices with AWS ECS Fargate and RDS](https://dev.to/aws-builders/ecs-finhacks-scaling-microservices-with-aws-ecs-fargate-and-rds-1fnh)
-- [This Week&#39;s AI News Updates &lpar;Feb 13, 2025&rpar; 🚀](https://dev.to/h_metacode_74e90df0ee5da6/this-weeks-ai-news-updates-feb-13-2025-4b0l)
-- [[Boost]](https://dev.to/_7bc44b7af58b2d5a7471/-4ele)
+- [Recursion in Java](https://dev.to/neelakandan_ravi_2000/recursion-in-java-27pd)
+- [Set Is Just Built Different 😤💪](https://dev.to/mattlewandowski93/set-is-just-built-different-484f)
+- [Dynamically Modifying CloudFront Origin for Country-Specific and A/B Testing](https://dev.to/aws-builders/dynamically-modifying-cloudfront-origin-for-country-specific-and-ab-testing-2k53)
+- [Nguyên lý Controller trong GRASP Pattern](https://dev.to/hcmute_project_988df1c63c/nguyen-ly-controller-trong-grasp-pattern-36k3)
+- [Why Learn MERN Stack Development: An Introduction to Full-Stack JavaScript](https://dev.to/lekshmi_525/why-learn-mern-stack-development-an-introduction-to-full-stack-javascript-130b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
