@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Simplest Eight Queens Code You’ll Find Online](https://dev.to/esproc_spl/the-simplest-eight-queens-code-youll-find-online-28ko)
-- [Quick Guide to UPDATE Queries: How to Modify Data Efficiently](https://dev.to/dbvismarketing/quick-guide-to-update-queries-how-to-modify-data-efficiently-40lj)
-- [Why It’s Worth Outsourcing Your Rails Upgrades](https://dev.to/railsup_sedin/why-its-worth-outsourcing-your-rails-upgrades-5cbk)
-- [Adding TypeScript Support to an Existing Node.js Project &lpar;Without Dropping JavaScript Support&rpar;](https://dev.to/harshit_bhardwaj_37bd0c14/adding-typescript-support-to-an-existing-nodejs-project-without-dropping-javascript-support-4mmh)
-- [How I Built Schedulicious: A Meal Planning Web App](https://dev.to/czhoudev/how-i-built-schedulicious-a-meal-planning-web-app-576a)
+- [Study Shows Spatial Label Noise Severely Impacts AI Object Detection Performance](https://dev.to/mikeyoung44/study-shows-spatial-label-noise-severely-impacts-ai-object-detection-performance-3h4i)
+- [&quot;You Don&#39;t Know Java&quot; 💘 The Philosophy of Unit Test Naming](https://dev.to/chuck1sn/you-dont-know-java-the-philosophy-of-unit-test-naming-1j2c)
+- [How to Define and Use Custom Breakpoints in Tailwind CSS](https://dev.to/rowsanali/how-to-define-and-use-custom-breakpoints-in-tailwind-css-3m5g)
+- [React.js vs React Native: Differences, Benefits, Features &amp; More](https://dev.to/trretatechnolabs/reactjs-vs-react-native-differences-benefits-features-more-4p50)
+- [preparing the usb-stick for file-transfer](https://dev.to/linomanzz/preparing-the-usb-stick-for-file-transfer-3enm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
