@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Power Platform - The Managed Delivery Process](https://dev.to/wyattdave/power-platform-the-managed-delivery-process-1fo6)
-- [The Smart Way to Find Duplicates in an Array &lpar;No Extra Space!&rpar;](https://dev.to/mehta0007/the-smart-way-to-find-duplicates-in-an-array-no-extra-space-3ol1)
-- [🚀 Why Every Beginner &lpar;Especially Non-Tech Students&rpar; Should Learn Git](https://dev.to/masaudahmod/why-every-beginner-especially-non-tech-students-should-learn-git-4ib3)
-- [useEffect: The Hook That Keeps You Guessing &lpar;And Refreshing&rpar;](https://dev.to/umangmittal/useeffect-the-hook-that-keeps-you-guessing-and-refreshing-3i0p)
-- [SQL vs Programming Languages: Can SQL be Considered a Programming Language?](https://dev.to/katiek/sql-vs-programming-languages-lets-explore-why-sql-isnt-considered-a-programming-language-hl2)
+- [The Simplest Eight Queens Code You’ll Find Online](https://dev.to/esproc_spl/the-simplest-eight-queens-code-youll-find-online-28ko)
+- [Quick Guide to UPDATE Queries: How to Modify Data Efficiently](https://dev.to/dbvismarketing/quick-guide-to-update-queries-how-to-modify-data-efficiently-40lj)
+- [Why It’s Worth Outsourcing Your Rails Upgrades](https://dev.to/railsup_sedin/why-its-worth-outsourcing-your-rails-upgrades-5cbk)
+- [Adding TypeScript Support to an Existing Node.js Project &lpar;Without Dropping JavaScript Support&rpar;](https://dev.to/harshit_bhardwaj_37bd0c14/adding-typescript-support-to-an-existing-nodejs-project-without-dropping-javascript-support-4mmh)
+- [How I Built Schedulicious: A Meal Planning Web App](https://dev.to/czhoudev/how-i-built-schedulicious-a-meal-planning-web-app-576a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
