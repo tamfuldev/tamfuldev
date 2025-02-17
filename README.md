@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Writing Pythonic Code With Python Data Model](https://dev.to/noble47/writing-pythonic-code-with-python-data-model-2j3o)
-- [&quot;Revolutionize AI with AttentionSmithy: Modular Transformer Customization Unleashed!&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionize-ai-with-attentionsmithy-modular-transformer-customization-unleashed-2og5)
-- [Spring&#39;s new Support Policy Updates](https://dev.to/michelle_sebek_/springs-new-support-policy-updates-203)
-- [Human Regex Gets TypeScript&#39;s Magic Typing 🚀](https://dev.to/rajibola/human-regex-gets-typescripts-magic-typing-i7n)
-- [Overview Description](https://dev.to/reii0x0/overview-description-3fh7)
+- [learn Data Structure and Probleme-Solving](https://dev.to/ammardeche/learn-data-structure-and-probleme-solving-59e4)
+- [Tipos de Case na Programação: Como Escolher o Melhor para seu Código](https://dev.to/alexandrefreire/tipos-de-case-na-programacao-como-escolher-o-melhor-para-seu-codigo-4ol7)
+- [🚀 Testing Strategies: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/testing-strategies-essential-tips-and-tricks-for-developers-h2f)
+- [Share authentication cookies between ASP.NET 4.x and ASP.NET Core](https://dev.to/roicp/share-authentication-cookies-between-aspnet-4x-and-aspnet-core-47gj)
+- [Always keep this hacking technique in mind](https://dev.to/blue_byte/always-keep-this-hacking-technique-in-mind-4mi0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
