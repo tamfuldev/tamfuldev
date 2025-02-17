@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Father - an NPM package development tool.](https://dev.to/ramunarasinga-11/father-an-npm-package-development-tool-15dp)
-- [[Boost]](https://dev.to/dhruvjoshi9/-5d00)
-- [Why Your Website Needs JavaScript Minification &amp; Compression Now: Boost Performance Instantly!](https://dev.to/dct_technologyprivatelimited/why-your-website-needs-javascript-minification-compression-now-boost-performance-instantly-4i1n)
-- [Streamlining AWS Deployments: Jenkins &amp; Terraform in Action with the 2048 Game](https://dev.to/pravesh_sudha_3c2b0c2b5e0/streamlining-aws-deployments-jenkins-terraform-in-action-with-the-2048-game-4e14)
-- [How to manage clusters in Alibaba Cloud Elasticsearch for beginners](https://dev.to/a_lucas/how-to-manage-clusters-in-alibaba-cloud-elasticsearch-for-beginners-3lm3)
+- [Power Platform - The Managed Delivery Process](https://dev.to/wyattdave/power-platform-the-managed-delivery-process-1fo6)
+- [The Smart Way to Find Duplicates in an Array &lpar;No Extra Space!&rpar;](https://dev.to/mehta0007/the-smart-way-to-find-duplicates-in-an-array-no-extra-space-3ol1)
+- [🚀 Why Every Beginner &lpar;Especially Non-Tech Students&rpar; Should Learn Git](https://dev.to/masaudahmod/why-every-beginner-especially-non-tech-students-should-learn-git-4ib3)
+- [useEffect: The Hook That Keeps You Guessing &lpar;And Refreshing&rpar;](https://dev.to/umangmittal/useeffect-the-hook-that-keeps-you-guessing-and-refreshing-3i0p)
+- [SQL vs Programming Languages: Can SQL be Considered a Programming Language?](https://dev.to/katiek/sql-vs-programming-languages-lets-explore-why-sql-isnt-considered-a-programming-language-hl2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
