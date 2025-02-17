@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday](https://dev.to/ben/meme-monday-13in)
-- [Managing Lists, Keys, and Forms in React](https://dev.to/johnschibelli/managing-lists-keys-and-forms-in-react-5ao4)
-- [Joomla tip: show notifications by Joomla.renderMessages](https://dev.to/sergeytolkachyov/joomla-tip-show-notifications-by-joomlarendermessages-13lm)
-- [Why we use Clerk for auth](https://dev.to/bucketdotco/why-we-use-clerk-for-auth-5hjp)
-- [ES6 to ES14 - Features list](https://dev.to/shubhamtiwari909/es6-to-es14-features-list-57am)
+- [Excel VBA - Subs and Functions](https://dev.to/kacper2048/excel-vba-subs-and-functions-1jh)
+- [RAG: Como IA pode ser inteligente sem reter dados?](https://dev.to/marcelxv/rag-como-ia-pode-ser-inteligente-sem-reter-dados-55i5)
+- [What are your goals for the week? #114](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-114-508p)
+- [How You Can Build The Best, Fastest Blog On The Internet](https://dev.to/adityaoberai/how-you-can-build-the-best-fastest-blog-on-the-internet-5688)
+- [Amazon RDS Best Practices for High Availability and Scaling](https://dev.to/imsushant12/amazon-rds-best-practices-for-high-availability-and-scaling-271j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
