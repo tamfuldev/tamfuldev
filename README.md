@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Using Drosera Traps to Investigate a Vulnerable Smart Contract](https://dev.to/scofieldidehen/using-drosera-traps-to-investigate-a-vulnerable-smart-contract-3843)
-- [Exhaustive Guide to Generative and Predictive AI in AppSec](https://dev.to/friendgrass7/exhaustive-guide-to-generative-and-predictive-ai-in-appsec-1677)
-- [Introducing Wave v0.0.1-pre-beta: The First Usable Version](https://dev.to/lunastev/introducing-wave-v001-pre-beta-the-first-usable-version-d8p)
-- [Introducing LetterLens: A Powerful Open-Source Word Counter](https://dev.to/hardikgohilhlr/introducing-letterlens-a-powerful-open-source-word-counter-4fcm)
-- [Tales of a Novice Hardware Hacker: The Lifecycle of a Kit](https://dev.to/manchicken/tales-of-a-novice-hardware-hacker-the-lifecycle-of-a-kit-57hk)
+- [What is the difference between fetch and XMLHTTPRequest? ⚙️](https://dev.to/hmpljs/what-is-the-difference-between-fetch-and-xmlhttprequest-1g9m)
+- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-3e62)
+- [How to Build a Full-Stack Web App with Next.js, Prisma, and PostgreSQL](https://dev.to/raji_moshood_ee3a4c2638f6/how-to-build-a-full-stack-web-app-with-nextjs-prisma-and-postgresql-468n)
+- [AltSchool Of Engineering Tinyuka’24 Month 1 Week 1](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-1-week-1-p9p)
+- [💖Love Language Discovery](https://dev.to/aniruddhaadak/love-language-discovery-4589)
 <!-- BLOG-POST-LIST:END -->
 
 ---
