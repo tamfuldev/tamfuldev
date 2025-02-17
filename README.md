@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Excel VBA - Subs and Functions](https://dev.to/kacper2048/excel-vba-subs-and-functions-1jh)
-- [RAG: Como IA pode ser inteligente sem reter dados?](https://dev.to/marcelxv/rag-como-ia-pode-ser-inteligente-sem-reter-dados-55i5)
-- [What are your goals for the week? #114](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-114-508p)
-- [How You Can Build The Best, Fastest Blog On The Internet](https://dev.to/adityaoberai/how-you-can-build-the-best-fastest-blog-on-the-internet-5688)
-- [Amazon RDS Best Practices for High Availability and Scaling](https://dev.to/imsushant12/amazon-rds-best-practices-for-high-availability-and-scaling-271j)
+- [Simple User Event Tracker In Angular](https://dev.to/this-is-angular/simple-user-event-tracker-in-angular-1207)
+- [1079. Letter Tile Possibilities](https://dev.to/mdarifulhaque/1079-letter-tile-possibilities-4kcl)
+- [Why Mocks Fail: Real-Environment Testing for Microservices](https://dev.to/signadot/why-mocks-fail-real-environment-testing-for-microservices-h3a)
+- [RoadMap For Full Stack JavaScript Developer](https://dev.to/owaisnoor/roadmap-for-full-stack-javascript-developer-1n9e)
+- [15 Expert Performance Tips Every Senior JS React Developer Should Know](https://dev.to/sovannaro/15-expert-performance-tips-every-senior-js-react-developer-should-know-3ni2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
