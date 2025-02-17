@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [O poder dos Micro-Frontends](https://dev.to/juniorbasck/o-poder-dos-micro-frontends-49m0)
-- [Flutter vs. React Native: Which One Should You Learn in 2025?](https://dev.to/webtisae/flutter-vs-react-native-which-one-should-you-learn-in-2025-3hba)
-- [SGLang vs llama.cpp - A Quick Speed Test](https://dev.to/maximsaplin/sglang-vs-llamacpp-a-quick-speed-test-22li)
-- [Hey!](https://dev.to/jakem21/hey-2o4m)
-- [[Boost]](https://dev.to/lorebrada00/-3k4g)
+- [The React Folder Structure Exposé: From Newbie to Code Mastery Style](https://dev.to/toosriet/the-react-folder-structure-expose-from-newbie-to-code-mastery-style-3mlb)
+- [Factory Method in Java](https://dev.to/mspilari/factory-method-in-java-523)
+- [Funciones anónimas lambda en Java](https://dev.to/asjordi/funciones-anonimas-lambda-en-java-5f19)
+- [Telegram Bot Creation Handbook](https://dev.to/simplr_sh/telegram-bot-creation-handbook-g5g)
+- [Google OAuth 2.0 Flow in Golang and React.js](https://dev.to/the-arcade-01/google-oauth-20-flow-in-golang-and-reactjs-536a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
