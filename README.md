@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Recursion in Java](https://dev.to/neelakandan_ravi_2000/recursion-in-java-27pd)
-- [Set Is Just Built Different 😤💪](https://dev.to/mattlewandowski93/set-is-just-built-different-484f)
-- [Dynamically Modifying CloudFront Origin for Country-Specific and A/B Testing](https://dev.to/aws-builders/dynamically-modifying-cloudfront-origin-for-country-specific-and-ab-testing-2k53)
-- [Nguyên lý Controller trong GRASP Pattern](https://dev.to/hcmute_project_988df1c63c/nguyen-ly-controller-trong-grasp-pattern-36k3)
-- [Why Learn MERN Stack Development: An Introduction to Full-Stack JavaScript](https://dev.to/lekshmi_525/why-learn-mern-stack-development-an-introduction-to-full-stack-javascript-130b)
+- [Father - an NPM package development tool.](https://dev.to/ramunarasinga-11/father-an-npm-package-development-tool-15dp)
+- [[Boost]](https://dev.to/dhruvjoshi9/-5d00)
+- [Why Your Website Needs JavaScript Minification &amp; Compression Now: Boost Performance Instantly!](https://dev.to/dct_technologyprivatelimited/why-your-website-needs-javascript-minification-compression-now-boost-performance-instantly-4i1n)
+- [Streamlining AWS Deployments: Jenkins &amp; Terraform in Action with the 2048 Game](https://dev.to/pravesh_sudha_3c2b0c2b5e0/streamlining-aws-deployments-jenkins-terraform-in-action-with-the-2048-game-4e14)
+- [How to manage clusters in Alibaba Cloud Elasticsearch for beginners](https://dev.to/a_lucas/how-to-manage-clusters-in-alibaba-cloud-elasticsearch-for-beginners-3lm3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
