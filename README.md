@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Confessions of a Hacker: How I Would Take Down Your Online Store](https://dev.to/danny_anderson/confessions-of-a-hacker-how-i-would-take-down-your-online-store-f77)
-- [Real Estate AI Agents - 2025 Market Analysis of Competitors](https://dev.to/vtempest/real-estate-ai-agents-2025-market-analysis-of-competitors-5ng)
-- [✨ [4] - Build Beautiful Carousels in React Native Expo | Tôi tiếp tục code về React Native 💻 🚀](https://dev.to/skipperhoa/4-build-beautiful-carousels-in-react-native-expo-toi-tiep-tuc-code-ve-react-native-4036)
-- [How to Compile and Run NPU Test Programs Based on rknn_yolov5_demo on RK3568？](https://dev.to/ronnie_r_152dc2151d9449c6/how-to-compile-and-run-npu-test-programs-based-on-rknnyolov5demo-on-rk3568-3f09)
-- [RandomAutocontrast in PyTorch](https://dev.to/hyperkai/randomautocontrast-in-pytorch-506f)
+- [SQL PATTERNS : Pivot and Unpivot in SQL - Transforming Data Effectively](https://dev.to/anwaar/sql-patterns-pivot-and-unpivot-in-sql-transforming-data-effectively-25k4)
+- [Thriving as a Personal Tech Consultant: Navigating the AI Revolution](https://dev.to/foxgem/thriving-as-a-personal-tech-consultant-navigating-the-ai-revolution-3pfp)
+- [A Step-by-Step Guide to Kube-green: Optimizing Kubernetes for Sustainability](https://dev.to/vimal-patel/a-step-by-step-guide-to-kube-green-optimizing-kubernetes-for-sustainability-5098)
+- [Prompt Engineering For AI Model](https://dev.to/tak089/prompt-engineering-for-ai-model-561i)
+- [15 Best Mobile Application Testing Tools for 2025](https://dev.to/brilworks/15-best-mobile-application-testing-tools-for-2025-1ked)
 <!-- BLOG-POST-LIST:END -->
 
 ---
