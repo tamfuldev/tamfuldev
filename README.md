@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Master Web Automation: Automate Browsing Tasks with Puppeteer](https://dev.to/sandip_shrest/master-web-automation-automate-browsing-tasks-with-puppeteer-26ha)
-- [Beyond HMR: Understanding React&#39;s Fast Refresh](https://dev.to/leapcell/beyond-hmr-understanding-reacts-fast-refresh-13h8)
-- [🚀 𝗨𝗻𝗹𝗼𝗰𝗸𝗶𝗻𝗴 𝘁𝗵𝗲 𝗣𝗼𝘄𝗲𝗿 𝗼𝗳 𝗞𝗲𝘆𝗰𝗹𝗼𝗮𝗸 𝗳𝗼𝗿 𝗦𝗲𝗰𝘂𝗿𝗲 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀 🔐](https://dev.to/thiago_souza_1510/-3da8)
-- [Budget Calculator - Divide Your Income &amp; Conquer!](https://dev.to/davidjenner/budget-calculator-4292)
-- [Automating Data Classification with Stof](https://dev.to/amelia_wampler_e7aa93dab9/automating-data-classification-with-stof-afo)
+- [How To Deploy .NET Application to Azure using Neon Postgres and .NET Aspire](https://dev.to/antonmartyniuk/how-to-deploy-net-application-to-azure-using-neon-postgres-and-net-aspire-1cgm)
+- [Love Language Discovery](https://dev.to/mdarifulhaque/love-language-discovery-1il)
+- [Love Language Discovery](https://dev.to/mdarifulhaque/love-language-discovery-1ng6)
+- [20 Things I Learned While Writing a Multiplayer Game with Django and React](https://dev.to/0x00a_34/20-things-i-learned-while-writing-a-multiplayer-game-with-django-and-react-16ld)
+- [[Boost]](https://dev.to/abdulrahmanelshafie/-42pb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
