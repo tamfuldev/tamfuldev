@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Embrace the Future with LivinGrimoire SkillBranch](https://dev.to/owly/embrace-the-future-with-livingrimoire-skillbranch-5ejm)
-- [Unlocking the Future of AI: Multimodal Models Explained](https://dev.to/devinsights_blog/unlocking-the-future-of-ai-multimodal-models-explained-3map)
-- [Daily JavaScript Challenge #JS-105: Check if a Number is a Happy Number](https://dev.to/dpc/daily-javascript-challenge-js-105-check-if-a-number-is-a-happy-number-10nc)
-- [🚀 Integrating CI/CD Pipeline with Microsoft Teams for Real-Time Updates](https://dev.to/mukta_chourishi_b1de36253/integrating-cicd-pipeline-with-microsoft-teams-for-real-time-updates-3m3f)
-- [RandomAdjustSharpness in PyTorch](https://dev.to/hyperkai/randomadjustsharpness-in-pytorch-364f)
+- [RandomSolarize in PyTorch](https://dev.to/hyperkai/randomsolarize-in-pytorch-kid)
+- [RandomInvert in PyTorch](https://dev.to/hyperkai/randominvert-in-pytorch-596c)
+- [Encoders and Decoders in TypeScript](https://dev.to/jesterxl/encoders-and-decoders-in-typescript-mp0)
+- [Mastering Columnstore Indexes in SQL Server: New Features and Performance Enhancements in 2022](https://dev.to/arvind_toorpu/mastering-columnstore-indexes-in-sql-server-new-features-and-performance-enhancements-in-2022-58d6)
+- [🚀 Node.js Performance: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/nodejs-performance-essential-tips-and-tricks-for-developers-2870)
 <!-- BLOG-POST-LIST:END -->
 
 ---
