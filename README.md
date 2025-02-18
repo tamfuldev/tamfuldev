@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [C4 Model real world example with Google Maps](https://dev.to/anwaar/c4-model-real-world-example-with-google-maps-3ano)
-- [🎙️We have updated the site and here is what I want to say🔥](https://dev.to/hmpljs/we-have-updated-the-site-and-here-is-what-i-want-to-say-lfh)
-- [C4 Model](https://dev.to/anwaar/c4-model-1263)
-- [Agents 101: How to build your first AI Agent in 30 minutes!](https://dev.to/copilotkit/agents-101-how-to-build-your-first-ai-agent-in-30-minutes-1042)
-- [[New Update] Real-Time Location Tracking and Monitoring with Communication &lpar;Version 3&rpar;](https://dev.to/mahmud-r-farhan/new-update-real-time-location-tracking-and-monitoring-with-communication-version-3-1p5i)
+- [Image Box with Expandable Icon Hover Effect](https://dev.to/snippflow/image-box-with-expandable-icon-hover-effect-29d3)
+- [在 Linux 上安裝與使用 Notion Desktop](https://dev.to/nullity/zai-linux-shang-an-zhuang-yu-shi-yong-notion-desktop-5383)
+- [Đồng bộ &lpar;synchronous&rpar; và Bất đồng bộ &lpar;asynchronous&rpar;](https://dev.to/dvphuc_175/dong-bo-synchronous-va-bat-dong-bo-asynchronous-4g1h)
+- [Optical Character Recognition in Scanned PDFs](https://dev.to/zubinajmera/optical-character-recognition-in-scanned-pdfs-5geo)
+- [Boost Your Fitness Journey with GetFitter!](https://dev.to/himagaur2708/boost-your-fitness-journey-with-getfitter-31k0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
