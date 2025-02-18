@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [RandomSolarize in PyTorch](https://dev.to/hyperkai/randomsolarize-in-pytorch-kid)
-- [RandomInvert in PyTorch](https://dev.to/hyperkai/randominvert-in-pytorch-596c)
-- [Encoders and Decoders in TypeScript](https://dev.to/jesterxl/encoders-and-decoders-in-typescript-mp0)
-- [Mastering Columnstore Indexes in SQL Server: New Features and Performance Enhancements in 2022](https://dev.to/arvind_toorpu/mastering-columnstore-indexes-in-sql-server-new-features-and-performance-enhancements-in-2022-58d6)
-- [🚀 Node.js Performance: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/nodejs-performance-essential-tips-and-tricks-for-developers-2870)
+- [Instal WSO2 Api Manager di Server Ubuntu](https://dev.to/agusmerdeko/instal-wso2-api-manager-di-server-ubuntu-2a91)
+- [How to Boot the RK3562J on the M-Core?](https://dev.to/ronnie_r_152dc2151d9449c6/how-to-boot-the-rk3562j-on-the-m-core-24c5)
+- [Solution to Realize the Normal Calling of the Third Party Conference Software UVC Camera on OK3568-C Development Board](https://dev.to/ronnie_r_152dc2151d9449c6/solution-to-realize-the-normal-calling-of-the-third-party-conference-software-uvc-camera-on-11mj)
+- [Do Ordered Grouping and Aggregation within Groups — From SQL to SPL #1](https://dev.to/judith677/do-ordered-grouping-and-aggregation-within-groups-from-sql-to-spl-1-4p94)
+- [How to Build a .NET MAUI Windows App to Read Barcodes from Scanned Documents](https://dev.to/yushulx/how-to-build-a-net-maui-windows-app-to-read-barcodes-from-scanned-documents-igg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
