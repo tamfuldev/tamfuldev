@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CSS text effects](https://dev.to/talalemran/css-text-effects-5c24)
-- [SaaSify](https://dev.to/maheswaripinneti/saasify-52kf)
-- [Future of Artificial Intelligence](https://dev.to/raushan_sinha_8efb05c7b1c/future-of-artificial-intelligence-b9)
-- [How to Get an AWS Educate Account &lpar;No Credit Card Required&rpar;: A Step-by-Step Guide for Students](https://dev.to/muhammad_abdullah_0f40cb1/how-to-get-an-aws-educate-account-no-credit-card-required-a-step-by-step-guide-for-students-3f6j)
-- [Cache Poisoning in Laravel: Preventing Common Vulnerabilities](https://dev.to/pentest_testing_corp/cache-poisoning-in-laravel-preventing-common-vulnerabilities-4khf)
+- [How to Build High-Performance NFS Storage with xiRAID Backend and RDMA Access](https://dev.to/pltnvs/how-to-build-high-performance-nfs-storage-with-xiraid-backend-and-rdma-access-5cio)
+- [Git Architecture &amp; Installation](https://dev.to/vasutamil19/git-architecture-installation-334f)
+- [Debugging Google Chrome Extensions Locally: A Quick &amp; Easy Guide](https://dev.to/leo_chen_4c3f7844ff7bda2b/debugging-google-chrome-extensions-locally-a-quick-easy-guide-13il)
+- [Understanding SharePoint Online Quotas](https://dev.to/jaloplo/understanding-sharepoint-online-quotas-2idj)
+- [🚨 AI Outlaws: 7 Controversial Tools That Could Land You in Hot Water](https://dev.to/panicatthekernel/ai-outlaws-7-controversial-tools-that-could-land-you-in-hot-water-2icf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
