@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Explain the JDK, JRE, and JVM](https://dev.to/boorge/explain-the-jdk-jre-and-jvm-2f2g)
-- [Sending Emails with Gmail Using MailKit in .NET Web API: The Complete Guide](https://dev.to/mamun_akand/sending-emails-with-gmail-using-mailkit-in-net-web-api-4lj5)
-- [Hello World!](https://dev.to/engrsiralex/hello-world-456k)
-- [Awesome seeing spring onboard!](https://dev.to/lukehinds/awesome-seeing-spring-onboard-49cc)
-- [The Critical Role of CISOs in Managing IAM - Including Non-Human Identities](https://dev.to/gitguardian/the-critical-role-of-cisos-in-managing-iam-including-non-human-identities-4998)
+- [Master Web Automation: Automate Browsing Tasks with Puppeteer](https://dev.to/sandip_shrest/master-web-automation-automate-browsing-tasks-with-puppeteer-26ha)
+- [Beyond HMR: Understanding React&#39;s Fast Refresh](https://dev.to/leapcell/beyond-hmr-understanding-reacts-fast-refresh-13h8)
+- [🚀 𝗨𝗻𝗹𝗼𝗰𝗸𝗶𝗻𝗴 𝘁𝗵𝗲 𝗣𝗼𝘄𝗲𝗿 𝗼𝗳 𝗞𝗲𝘆𝗰𝗹𝗼𝗮𝗸 𝗳𝗼𝗿 𝗦𝗲𝗰𝘂𝗿𝗲 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀 🔐](https://dev.to/thiago_souza_1510/-3da8)
+- [Budget Calculator - Divide Your Income &amp; Conquer!](https://dev.to/davidjenner/budget-calculator-4292)
+- [Automating Data Classification with Stof](https://dev.to/amelia_wampler_e7aa93dab9/automating-data-classification-with-stof-afo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
