@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building an IBM AIX Expert Chatbot using RAG and FAISS](https://dev.to/kaustubhyerkade/building-an-ibm-aix-expert-chatbot-using-rag-and-faiss-1np2)
-- [Vibe Coding: The New Way We Create and Interact with Technology](https://dev.to/gentoro/directive-programming-a-new-paradigm-for-genai-2kgd)
-- [[Boost]](https://dev.to/gatan_compigni_649db22a7/-gfa)
-- [HTML pen](https://dev.to/kumar_shiv_c91bb752346793/html-pen-557d)
-- [Afinal, o que é SSR?](https://dev.to/marlloncps/afinal-o-que-e-ssr-1g4g)
+- [Exploring React Native Performance Optimization: My Deep Dive into Frontend Databases and MMKV](https://dev.to/gabrpimenta/exploring-react-native-performance-optimization-my-deep-dive-into-frontend-databases-and-mmkv-2ec3)
+- [Can anyone help me with MS SQL database migration? from on-prem to Azure SQL database and connect it with a .NET-based desktop application?](https://dev.to/akhil_vandanapu/can-anyone-help-me-with-ms-sql-database-migration-from-on-prem-to-azure-sql-database-and-connect-146c)
+- [Svelte Reactivity: Let&#39;s Talk About $Effects](https://dev.to/webjose/svelte-reactivity-lets-talk-about-effects-24p6)
+- [Creating a Ping service in Eyevinn Open Source Cloud](https://dev.to/oscdev/creating-a-ping-service-in-eyevinn-open-source-cloud-jh3)
+- [Supercharging React Native Performance: A Comprehensive Guide to Frontend Databases and MMKV](https://dev.to/gabrpimenta/supercharging-react-native-performance-a-comprehensive-guide-to-frontend-databases-and-mmkv-3lc3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
