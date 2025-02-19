@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Navigating Human-AI Cooperation: The Ethics of Relational Norms&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/navigating-human-ai-cooperation-the-ethics-of-relational-norms-51jb)
-- [Daily JavaScript Challenge #JS-106: Check for Palindromic Permutations](https://dev.to/dpc/daily-javascript-challenge-js-106-check-for-palindromic-permutations-1lcf)
-- [Day 1103 : Here](https://dev.to/dwane/day-1103-here-c18)
-- [Best Programming Languages to Build Smart Contracts - Part 1: Solidity](https://dev.to/sun_kanmii/best-programming-languages-to-build-smart-contracts-part-1-solidity-4bl5)
-- [What I Learned from Tracking My Child’s YouTube Activity](https://dev.to/yo-shi/what-i-learned-from-tracking-my-childs-youtube-activity-2mj2)
+- [Practice of Model Lightweighting in HarmonyOS Next Smart Home Control System](https://dev.to/xun_wang_6384a403f9817c2/practice-of-model-lightweighting-in-harmonyos-next-smart-home-control-system-3olo)
+- [JPEG in PyTorch](https://dev.to/hyperkai/jpeg-in-pytorch-11kl)
+- [Deployment and Optimization of Lightweight Models in HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/deployment-and-optimization-of-lightweight-models-in-harmonyos-next-1h31)
+- [Data Processing Optimization in Model Lightweighting of HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/data-processing-optimization-in-model-lightweighting-of-harmonyos-next-4530)
+- [Agentic Reasoning: How AI Models Use Tools to Solve Complex Problems](https://dev.to/exploredataaiml/agentic-reasoning-how-ai-models-use-tools-to-solve-complex-problems-4e52)
 <!-- BLOG-POST-LIST:END -->
 
 ---
