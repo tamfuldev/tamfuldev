@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Complete Machine Learning Pipeline: From Data to Deployment](https://dev.to/hulk-pham/the-complete-machine-learning-pipeline-from-data-to-deployment-24p2)
-- [GDPR Compliant Logging in NestJS: Masking User Data in Real Time](https://dev.to/bytehide/gdpr-compliant-logging-in-nestjs-masking-user-data-in-real-time-46ep)
-- [Stop Misusing useEffect in React! 🚨](https://dev.to/joodi/stop-misusing-useeffect-in-react-1g5o)
-- [Documenting Web Components With Storybook](https://dev.to/jamesives/documenting-web-components-with-storybook-2lj3)
-- [Trabajando con múltiples anclajes CSS y popovers dentro del loop de WordPress](https://dev.to/sergiocanram/trabajando-con-multiples-anclajes-css-y-popovers-dentro-del-loop-de-wordpress-k3m)
+- [🚀 Blockchain Social Media Platform - ReactJS UI - Tips and Tricks!](https://dev.to/vipert/blockchain-social-media-platform-reactjs-ui-tips-and-tricks-57c0)
+- [The Rise of AI in Software Development: Can AI Write Code Better Than Humans?](https://dev.to/extinctsion/the-rise-of-ai-in-software-development-can-ai-write-code-better-than-humans-17fc)
+- [Svg Animations Done Easy](https://dev.to/maurijhn/svg-animations-done-easy-52hk)
+- [PyLadies Dublin Coding Quiz Challenge Night &lpar;Feb 2025&rpar;](https://dev.to/pyladiesdub/pyladies-dublin-coding-quiz-challenge-night-feb-2025-47gc)
+- [Explained ➡️ Apps Script code for AI powered Google Workspace Add on](https://dev.to/googleworkspace/explained-apps-script-code-for-ai-powered-google-workspace-add-on-3mc2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
