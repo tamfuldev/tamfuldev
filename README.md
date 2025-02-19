@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Custom socket.io server.ts in nextjs baby.](https://dev.to/thekbbohara/custom-socketio-serverts-in-nextjs-baby-50fi)
-- [Written in the Stars: Unraveling Cosmic Love, Destiny, and Your Love Story&quot; ✨💖🌌💫](https://dev.to/divya4879/written-in-the-stars-unraveling-cosmic-love-destiny-and-your-love-story-495n)
-- [How to Fix &quot;Slow Filesystem Detected&quot; in Next.js](https://dev.to/adeyinkaesi1/how-to-fix-slow-filesystem-detected-in-nextjs-1ok8)
-- [Best 5 Programming Languages for Young Learners](https://dev.to/scrapestorm/best-5-programming-languages-for-young-learners-58lj)
-- [Top 🔝 Database Change Management 🗃️🔧 Tools in 2025](https://dev.to/bytebase/top-database-change-management-tools-in-2025-22kf)
+- [🚀Building a Scalable Push Notification Service with Firebase, Azure Functions, and React](https://dev.to/champcbg/building-a-scalable-push-notification-service-with-firebase-azure-functions-and-react-cha)
+- [How Serverless Computing is Changing Web Development 🚀](https://dev.to/jaykrishna_dogne/how-serverless-computing-is-changing-web-development-5h2o)
+- [Best Free Tools Every Developer Should Use in 2025 🚀](https://dev.to/jaykrishna_dogne/best-free-tools-every-developer-should-use-in-2025-24ka)
+- [The Role of Machine Learning in Predictive Analytics](https://dev.to/raajaryan/the-role-of-machine-learning-in-predictive-analytics-427n)
+- [Evolution of java...From Simple to Supercharged 🚀&lpar;part 5&rpar;](https://dev.to/sona_08/evolution-of-javafrom-simple-to-supercharged-part-5-igc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
