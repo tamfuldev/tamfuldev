@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Blockchain Social Media Platform - ReactJS UI - Tips and Tricks!](https://dev.to/vipert/blockchain-social-media-platform-reactjs-ui-tips-and-tricks-57c0)
-- [The Rise of AI in Software Development: Can AI Write Code Better Than Humans?](https://dev.to/extinctsion/the-rise-of-ai-in-software-development-can-ai-write-code-better-than-humans-17fc)
-- [Svg Animations Done Easy](https://dev.to/maurijhn/svg-animations-done-easy-52hk)
-- [PyLadies Dublin Coding Quiz Challenge Night &lpar;Feb 2025&rpar;](https://dev.to/pyladiesdub/pyladies-dublin-coding-quiz-challenge-night-feb-2025-47gc)
-- [Explained ➡️ Apps Script code for AI powered Google Workspace Add on](https://dev.to/googleworkspace/explained-apps-script-code-for-ai-powered-google-workspace-add-on-3mc2)
+- [Host a FastAPI Application Without a Server](https://dev.to/lightningdev123/host-a-fastapi-application-without-a-server-43n7)
+- [25+ Must-Know React Resources for React Developers.](https://dev.to/dev-resources/25-must-know-react-resources-for-react-developers-2hha)
+- [Build RAG Chatbot with LangChain, Milvus, GPT-4o mini, and text-embedding-3-large](https://dev.to/zilliz/build-rag-chatbot-with-langchain-milvus-gpt-4o-mini-and-text-embedding-3-large-2199)
+- [Don&#39;t Miss Out! 40+ Free GitHub Repositories That Are Trending Right Now!](https://dev.to/gittech/dont-miss-out-40-free-github-repositories-that-are-trending-right-now-2h4j)
+- [DIY API vs. Marketplace API: The 2025 Ultimate Innovation Showdown](https://dev.to/snappytuts/diy-api-vs-marketplace-api-the-2025-ultimate-innovation-showdown-2an3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
