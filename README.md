@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring React Native Performance Optimization: My Deep Dive into Frontend Databases and MMKV](https://dev.to/gabrpimenta/exploring-react-native-performance-optimization-my-deep-dive-into-frontend-databases-and-mmkv-2ec3)
-- [Can anyone help me with MS SQL database migration? from on-prem to Azure SQL database and connect it with a .NET-based desktop application?](https://dev.to/akhil_vandanapu/can-anyone-help-me-with-ms-sql-database-migration-from-on-prem-to-azure-sql-database-and-connect-146c)
-- [Svelte Reactivity: Let&#39;s Talk About $Effects](https://dev.to/webjose/svelte-reactivity-lets-talk-about-effects-24p6)
-- [Creating a Ping service in Eyevinn Open Source Cloud](https://dev.to/oscdev/creating-a-ping-service-in-eyevinn-open-source-cloud-jh3)
-- [Supercharging React Native Performance: A Comprehensive Guide to Frontend Databases and MMKV](https://dev.to/gabrpimenta/supercharging-react-native-performance-a-comprehensive-guide-to-frontend-databases-and-mmkv-3lc3)
+- [Real-Time Lambda Monitoring on AWS](https://dev.to/mtrentz/real-time-lambda-monitoring-on-aws-3p5j)
+- [Laravel API Docs: A Guide to L5 Swagger](https://dev.to/aleson-franca/laravel-api-docs-a-guide-to-l5-swagger-333)
+- [COBOL, Dates, May 20, 1875, and Disinformation](https://dev.to/mdchaney/cobol-dates-may-20-1875-and-disinformation-5ggh)
+- [Optimizing IoT Data Management for Business Success](https://dev.to/ostapzabolotnyy/optimizing-iot-data-management-for-business-success-5dji)
+- [Easy Bug: Open-Redirect on OAuth 2.0 redirect_uri param](https://dev.to/blue_byte/easy-bug-open-redirect-on-oauth-20-redirecturi-param-2h8f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
