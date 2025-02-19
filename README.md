@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Check Out! These 45+ Developer Solutions for Better Programming.](https://dev.to/0x2e_tech/check-out-these-45-developer-solutions-for-better-programming-1eod)
-- [Importance of DevSecOps: Integrating Security into DevOps](https://dev.to/jakeinthecloud/importance-of-devsecops-integrating-security-into-devops-13m)
-- [NPM vs Yarn vs PNPM: Choosing the right package manager for your project](https://dev.to/mroman7/npm-vs-yarn-vs-pnpm-choosing-the-right-package-manager-for-your-project-5a77)
-- [Exploring DeepSeek: The Future of Open-Source AI](https://dev.to/gimkelum/exploring-deepseek-the-future-of-open-source-ai-ak7)
-- [graph TD A[Inicio del Proceso] --&gt; B[Generación de Llegadas de Tareas] B --&gt; C[Asignación de Tiempos de Ejecución] C --&gt; D[Cola de Espera] D --&gt; E[Asignación a Núcleos Disponibles] E --&gt; F[Ejecución de Tareas] F --&gt; G[Actualización](https://dev.to/donaldo_argote_7c7444b20b/graph-td-ainicio-del-proceso-bgeneracion-de-llegadas-de-tareas-b-casignacion-2im4)
+- [Building an IBM AIX Expert Chatbot using RAG and FAISS](https://dev.to/kaustubhyerkade/building-an-ibm-aix-expert-chatbot-using-rag-and-faiss-1np2)
+- [Vibe Coding: The New Way We Create and Interact with Technology](https://dev.to/gentoro/directive-programming-a-new-paradigm-for-genai-2kgd)
+- [[Boost]](https://dev.to/gatan_compigni_649db22a7/-gfa)
+- [HTML pen](https://dev.to/kumar_shiv_c91bb752346793/html-pen-557d)
+- [Afinal, o que é SSR?](https://dev.to/marlloncps/afinal-o-que-e-ssr-1g4g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
