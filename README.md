@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Practice of Model Lightweighting in HarmonyOS Next Smart Home Control System](https://dev.to/xun_wang_6384a403f9817c2/practice-of-model-lightweighting-in-harmonyos-next-smart-home-control-system-3olo)
-- [JPEG in PyTorch](https://dev.to/hyperkai/jpeg-in-pytorch-11kl)
-- [Deployment and Optimization of Lightweight Models in HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/deployment-and-optimization-of-lightweight-models-in-harmonyos-next-1h31)
-- [Data Processing Optimization in Model Lightweighting of HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/data-processing-optimization-in-model-lightweighting-of-harmonyos-next-4530)
-- [Agentic Reasoning: How AI Models Use Tools to Solve Complex Problems](https://dev.to/exploredataaiml/agentic-reasoning-how-ai-models-use-tools-to-solve-complex-problems-4e52)
+- [20 Must-Know JavaScript Libraries for Data Visualization](https://dev.to/web_dev-usman/20-must-know-javascript-libraries-for-data-visualization-508d)
+- [aws服务器安装运行ollama](https://dev.to/dragon72463399/awsfu-wu-qi-an-zhuang-yun-xing-ollama-4dij)
+- [Puppy data](https://dev.to/saubury/puppy-data-2gin)
+- [API Validation in Next.js 15 with Zod and TypeScript](https://dev.to/saiful7778/api-validation-in-nextjs-15-with-zod-and-typescript-5aa9)
+- [Montando um ambiente local para testar LLM&#39;s OpenSource](https://dev.to/hebertrfreitas/montando-um-ambiente-local-para-testar-llms-opensource-1ia3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
