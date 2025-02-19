@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [20 Must-Know JavaScript Libraries for Data Visualization](https://dev.to/web_dev-usman/20-must-know-javascript-libraries-for-data-visualization-508d)
-- [aws服务器安装运行ollama](https://dev.to/dragon72463399/awsfu-wu-qi-an-zhuang-yun-xing-ollama-4dij)
-- [Puppy data](https://dev.to/saubury/puppy-data-2gin)
-- [API Validation in Next.js 15 with Zod and TypeScript](https://dev.to/saiful7778/api-validation-in-nextjs-15-with-zod-and-typescript-5aa9)
-- [Montando um ambiente local para testar LLM&#39;s OpenSource](https://dev.to/hebertrfreitas/montando-um-ambiente-local-para-testar-llms-opensource-1ia3)
+- [Built It Because I Was Tired of Rebuilding It: The Story Behind ThemeShift](https://dev.to/ramasundaram_s/built-it-because-i-was-tired-of-rebuilding-it-the-story-behind-themeshift-1e39)
+- [4 Year Badge… but I Don’t Remember Joining? 🤔](https://dev.to/cypheroxide/4-year-badge-but-i-dont-remember-joining-2fl9)
+- [How MongoDB’s ObjectID and B-Tree Search Make Your Queries Super Fast](https://dev.to/nishanthan-k/how-mongodbs-objectid-and-b-tree-search-make-your-queries-super-fast-3hhn)
+- [Best ERP Solutions for Small Businesses: 4 Tools to Improve Efficiency](https://dev.to/nocobase/best-erp-solutions-for-small-businesses-4-tools-to-improve-efficiency-47g4)
+- [Throttling Technique in javascript](https://dev.to/webfaisalbd/throttling-technique-in-javascript-3pj1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
