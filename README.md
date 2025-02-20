@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Apache httpd-2.4 - Secured Configuration on Fedora](https://dev.to/lancemk/apache-httpd-24-secured-configuration-on-fedora-3f4f)
-- [Sprint 3: Results](https://dev.to/amullagaliev/sprint-3-results-480)
-- [How Do Top-Level Scheduling Systems Achieve Minute-Level Data Backfill When Tasks Fail?](https://dev.to/chen_debra_3060b21d12b1b0/how-do-top-level-scheduling-systems-achieve-minute-level-data-backfill-when-tasks-fail-5ae8)
-- [AI Breakthrough: New Method Makes Models Better at Understanding Long Documents Like Humans Do](https://dev.to/mikeyoung44/ai-breakthrough-new-method-makes-models-better-at-understanding-long-documents-like-humans-do-1npp)
-- [AI-Powered Code Explorer Creates Better Software Through Systematic Solution Search](https://dev.to/mikeyoung44/ai-powered-code-explorer-creates-better-software-through-systematic-solution-search-dea)
+- [How to Protect Laravel from WebSocket Vulnerabilities](https://dev.to/pentest_testing_corp/how-to-protect-laravel-from-websocket-vulnerabilities-52e)
+- [Pull Request testing on Kubernetes: working with GitHub Actions and GKE](https://dev.to/nfrankel/pull-request-testing-on-kubernetes-working-with-github-actions-and-gke-1d91)
+- [Part 1: Detecting Alzheimer’s with EEG and Deep Learning – Theory, Motivation, and Preprocessing](https://dev.to/vivekvohra/part-1-detecting-alzheimers-with-eeg-and-deep-learning-theory-motivation-and-preprocessing-1hd1)
+- [How AI Helps Reduce False Positives in Cyber Threat Detection?](https://dev.to/lokeshjoshi/how-ai-helps-reduce-false-positives-in-cyber-threat-detection-epn)
+- [What are Topics and Partitions in Kafka?](https://dev.to/clasnake/what-are-topics-and-partitions-in-kafka-31i4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
