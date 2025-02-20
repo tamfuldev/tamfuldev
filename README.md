@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Python input&lpar;&rpar; Function - Detailed Explanation](https://dev.to/vayolapradeep/python-input-function-detailed-explanation-5b8m)
-- [&quot;Okay great, now can you briefly summarize why the original problem is mitigated by this overall approach?&quot; — Important when working with AI to make sure you *learn* about what you&#39;re doing before finishing the project.](https://dev.to/ben/okay-great-now-can-you-briefly-summarize-why-the-original-problem-is-mitigated-by-this-overall-3ac5)
-- [Our Project Got 100 First Stars on Github🔥](https://dev.to/hmpljs/our-project-got-100-first-stars-on-github-50jf)
-- [How to select oauth scopes in next-auth / authjs](https://dev.to/tigawanna/how-to-select-oauth-scopes-in-next-auth-authjs-18kd)
-- [EF Core Doesn&#39;t Support Some SQL Server Functions!](https://dev.to/girgisadel/ef-core-doesnt-support-some-sql-server-functions-4ddc)
+- [Learn Faster, Code Smarter! 25+ Programming Resources to Boost Your Skills!](https://dev.to/dev-resources/learn-faster-code-smarter-25-programming-resources-to-boost-your-skills-54k8)
+- [HashiCorp Vault](https://dev.to/aws-builders/hashicorp-vault-eb)
+- [Hosting a Static Website on S3, Versioning, Lifecycle Configuration, Cross-Region Replication &lpar;CRR&rpar;.](https://dev.to/glory_ugochukwu_57b6cf663/hosting-a-static-website-on-s3-versioning-lifecycle-configuration-cross-region-replication-crr-4ih8)
+- [Install Braille Display with Narrator on Windows 11](https://dev.to/winsides/install-braille-display-with-narrator-on-windows-11-1b61)
+- [نص متحرك من اليسار إلى اليمين](https://dev.to/ahmed_hama_c9d56a59ebcf8c/ns-mthrk-mn-lysr-l-lymyn-2o4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
