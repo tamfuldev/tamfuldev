@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Angular - Blocked request Vite issue](https://dev.to/blessina_lindon_45694ae48/angular-blocked-request-vite-issue-4ei)
-- [What is Dogecoin? The Ultimate Guide to Understanding the Cryptocurrency](https://dev.to/kiya_verma_80238900c416be/what-is-dogecoin-the-ultimate-guide-to-understanding-the-cryptocurrency-kn1)
-- [Mastering IP Addresses in Ruby with the IPAddress Gem](https://dev.to/daviducolo/mastering-ip-addresses-in-ruby-with-the-ipaddress-gem-2lh1)
-- [Top 10 React Libraries/Frameworks for 2025 🚀](https://dev.to/myogeshchavan97/top-10-react-librariesframeworks-for-2025-50i4)
-- [Basic Setup: Run SpringBoot using JBoss &lpar;Wildfly&rpar;](https://dev.to/kenji_goh/basic-setup-run-springboot-using-jboss-wildfly-2349)
+- [Asynchronous Server: Building and Rigorously Testing a WebSocket and HTTP Server](https://dev.to/sirneij/asynchronous-server-building-and-rigorously-testing-a-websocket-and-http-server-4kke)
+- [Analyzing Lotto with Data: Can Machine Learning Provide the Answer?](https://dev.to/freyasky/analyzing-lotto-with-data-can-machine-learning-provide-the-answer-c6k)
+- [Building a Data Ingestion Solution for Amazon Bedrock Knowledge Bases](https://dev.to/aws-builders/building-a-data-ingestion-solution-for-amazon-bedrock-knowledge-bases-4on4)
+- [Step-by-Step Process for Migrating from Umbraco to WordPress](https://dev.to/johnsmith244303/step-by-step-process-for-migrating-from-umbraco-to-wordpress-38p0)
+- [The two versions of Parquet](https://dev.to/jerolba/the-two-versions-of-parquet-16il)
 <!-- BLOG-POST-LIST:END -->
 
 ---
