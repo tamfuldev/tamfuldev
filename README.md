@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Crypto Exchanges Work: The Hidden Players Keeping the Market Moving](https://dev.to/endeo/how-crypto-exchanges-work-the-hidden-players-keeping-the-market-moving-lab)
-- [Shift-Left Testing: The New Development Mantra for Modern Software Excellence](https://dev.to/genesis_technologies/shift-left-testing-the-new-development-mantra-for-modern-software-excellence-1748)
-- [🐛 My Code Works… I Have No Idea Why 🤷‍♂️](https://dev.to/robin-ivi/my-code-works-i-have-no-idea-why-4kjb)
-- [Modern React website with stunning animations and free code](https://dev.to/dev-to-rater-org/modern-react-website-with-stunning-animations-and-free-code-15gi)
-- [Boom or Bust: Will Bitcoin Reach $3 Million by 2035?](https://dev.to/endeo/boom-or-bust-will-bitcoin-reach-3-million-by-2035-4aih)
+- [OpenSSH Server &lpar;Windows 11&rpar; : client_loop: send disconnect: Connection reset](https://dev.to/anuj_ray4_38774d61765a10f/openssh-server-windows-11-clientloop-send-disconnect-connection-reset-4geh)
+- [Alternatif Web Application Firewall &lpar;WAF&rpar; untuk Website: Gratis, Berbayar, dan Open-Source](https://dev.to/rohadiz_/alternatif-web-application-firewall-waf-untuk-website-gratis-berbayar-dan-open-source-4dhj)
+- [India’s AI Ambitions: Can It Catch Up in the Global Race?](https://dev.to/saad_hassan_8f937dc6fafc9/indias-ai-ambitions-can-it-catch-up-in-the-global-race-5ok)
+- [10 API Skills Every Developer Needs to Work with AI](https://dev.to/apilover/10-api-skills-every-developer-needs-to-work-with-ai-498j)
+- [Types Of Testing Environment In TestGrid](https://dev.to/george_choe_02b3c1aa415de/types-of-testing-environment-in-testgrid-301i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
