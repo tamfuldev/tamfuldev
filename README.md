@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My First Year in Love with TanStack](https://dev.to/this-is-learning/my-first-year-in-love-with-tanstack-5ceb)
-- [Open Source in Web3 and Decentralized Applications for 2025: A New Era of Innovation](https://dev.to/jaysaadana/open-source-in-web3-and-decentralized-applications-for-2025-a-new-era-of-innovation-mo8)
-- [How I did the setup for my mobile app project &lpar;ReactNative &amp; Expo&rpar;](https://dev.to/royson_menezes_479ed50941/how-i-did-the-setup-for-my-mobile-app-project-reactnative-expo-1icg)
-- [Practica selectores CSS con ejercicios 😎](https://dev.to/duxtech/practica-selectores-css-con-ejercicios-2p46)
-- [ErrGroup: Unlocking Go&#39;s Concurrency Power](https://dev.to/leapcell/errgroup-unlocking-gos-concurrency-power-3g2h)
+- [Python input&lpar;&rpar; Function - Detailed Explanation](https://dev.to/vayolapradeep/python-input-function-detailed-explanation-5b8m)
+- [&quot;Okay great, now can you briefly summarize why the original problem is mitigated by this overall approach?&quot; — Important when working with AI to make sure you *learn* about what you&#39;re doing before finishing the project.](https://dev.to/ben/okay-great-now-can-you-briefly-summarize-why-the-original-problem-is-mitigated-by-this-overall-3ac5)
+- [Our Project Got 100 First Stars on Github🔥](https://dev.to/hmpljs/our-project-got-100-first-stars-on-github-50jf)
+- [How to select oauth scopes in next-auth / authjs](https://dev.to/tigawanna/how-to-select-oauth-scopes-in-next-auth-authjs-18kd)
+- [EF Core Doesn&#39;t Support Some SQL Server Functions!](https://dev.to/girgisadel/ef-core-doesnt-support-some-sql-server-functions-4ddc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
