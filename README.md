@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 API Maker : Release Notes for v1.12.0](https://dev.to/apimaker/api-maker-release-notes-for-v1120-aoe)
-- [Untitled](https://dev.to/vishu_sharma_9f72e1a985f2/untitled-l17)
-- [How to Run DeepSeek R1 Locally &lpar;Using Ollama + ChatboxAI&rpar;](https://dev.to/kbhatnagar/how-to-run-deepseek-r1-locally-using-ollama-chatboxai-4po9)
-- [🤖 Open-CUAK: “OpenAI Operator” Now Goes Open Source! 👥](https://dev.to/key_lu_3fba4ab5cd50d0a933/open-cuak-openai-operator-now-goes-open-source-1cch)
-- [Migration of nextjs 14 to next 15](https://dev.to/caresle/migration-of-nextjs-14-to-next-15-ij2)
+- [Interface Segregation Principle &lpar;ISP&rpar; in React Development](https://dev.to/creowistech/interface-segregation-principle-isp-in-react-development-1fkn)
+- [💻 Step-by-Step: Hosting a Static Website on AWS EC2 🌟](https://dev.to/aws-builders/step-by-step-hosting-a-static-website-on-aws-ec2-5a8j)
+- [Front-End Only: Real-Time AI Stream Commentary with React, OBS Virtual Camera, and GPT-4o-mini](https://dev.to/shinshin86/front-end-only-real-time-ai-stream-commentary-with-react-obs-virtual-camera-and-gpt-4o-mini-2bda)
+- [Installing composer and configuring permissions for Laravel projects](https://dev.to/damara_lucena/installing-composer-and-configuring-permissions-for-laravel-projects-3k21)
+- [Value Driven Results](https://dev.to/in8ly/value-driven-results-gbl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
