@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding SSH Socket-Based Activation in Ubuntu 24.04](https://dev.to/saishanmukkha/understanding-ssh-socket-based-activation-in-ubuntu-2404-28m)
-- [Identifying the Ideal Fit: Project Management Software for Architectural Projects](https://dev.to/planman36/identifying-the-ideal-fit-project-management-software-for-architectural-projects-4339)
-- [NocoBase Weekly Updates: Support Global or Batch Records Triggering Custom Action Event](https://dev.to/nocobase/nocobase-weekly-updates-support-global-or-batch-records-triggering-custom-action-event-9fc)
-- [.NET Learning Notes: EFCore&lpar;Entity Framework&rpar;](https://dev.to/alexleeeeeeeeee/net-learning-notes-efcoreentity-framework-4210)
-- [Comparing JSON Libraries in .NET: Newtonsoft.Json vs. System.Text.Json](https://dev.to/chuongmep/comparing-json-libraries-in-net-newtonsoftjson-vs-systemtextjson-3gfo)
+- [🚀 API Maker : Release Notes for v1.12.0](https://dev.to/apimaker/api-maker-release-notes-for-v1120-aoe)
+- [Untitled](https://dev.to/vishu_sharma_9f72e1a985f2/untitled-l17)
+- [How to Run DeepSeek R1 Locally &lpar;Using Ollama + ChatboxAI&rpar;](https://dev.to/kbhatnagar/how-to-run-deepseek-r1-locally-using-ollama-chatboxai-4po9)
+- [🤖 Open-CUAK: “OpenAI Operator” Now Goes Open Source! 👥](https://dev.to/key_lu_3fba4ab5cd50d0a933/open-cuak-openai-operator-now-goes-open-source-1cch)
+- [Migration of nextjs 14 to next 15](https://dev.to/caresle/migration-of-nextjs-14-to-next-15-ij2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
