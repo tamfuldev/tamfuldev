@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Learn Faster, Code Smarter! 25+ Programming Resources to Boost Your Skills!](https://dev.to/dev-resources/learn-faster-code-smarter-25-programming-resources-to-boost-your-skills-54k8)
-- [HashiCorp Vault](https://dev.to/aws-builders/hashicorp-vault-eb)
-- [Hosting a Static Website on S3, Versioning, Lifecycle Configuration, Cross-Region Replication &lpar;CRR&rpar;.](https://dev.to/glory_ugochukwu_57b6cf663/hosting-a-static-website-on-s3-versioning-lifecycle-configuration-cross-region-replication-crr-4ih8)
-- [Install Braille Display with Narrator on Windows 11](https://dev.to/winsides/install-braille-display-with-narrator-on-windows-11-1b61)
-- [نص متحرك من اليسار إلى اليمين](https://dev.to/ahmed_hama_c9d56a59ebcf8c/ns-mthrk-mn-lysr-l-lymyn-2o4)
+- [Developers, You’re Missing Out on These 35+ Open-Source Gems!](https://dev.to/gittech/developers-youre-missing-out-on-these-35-open-source-gems-33b)
+- [DevOps Roadmap for Beginners: A Step-by-Step Guide to Master DevOps](https://dev.to/yash_sonawane25/devops-roadmap-for-beginners-a-step-by-step-guide-to-master-devops-2j0n)
+- [Building Websites the Smart Way: Introduction to Static Site Generators](https://dev.to/rijultp/building-websites-the-smart-way-introduction-to-static-site-generators-3fcn)
+- [Solve Faster, Debug Better: 45+ Resources to Boost Your Programming!](https://dev.to/0x2e_tech/solve-faster-debug-better-45-resources-to-boost-your-programming-30c6)
+- [Boosting My Portfolio Site’s Performance: A Journey with Lighthouse, Lazy Loading, and More ...](https://dev.to/caner_yesiltas/boosting-my-portfolio-sites-performance-a-journey-with-lighthouse-lazy-loading-and-more--126n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
