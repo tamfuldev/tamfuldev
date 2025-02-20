@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [OpenSSH Server &lpar;Windows 11&rpar; : client_loop: send disconnect: Connection reset](https://dev.to/anuj_ray4_38774d61765a10f/openssh-server-windows-11-clientloop-send-disconnect-connection-reset-4geh)
-- [Alternatif Web Application Firewall &lpar;WAF&rpar; untuk Website: Gratis, Berbayar, dan Open-Source](https://dev.to/rohadiz_/alternatif-web-application-firewall-waf-untuk-website-gratis-berbayar-dan-open-source-4dhj)
-- [India’s AI Ambitions: Can It Catch Up in the Global Race?](https://dev.to/saad_hassan_8f937dc6fafc9/indias-ai-ambitions-can-it-catch-up-in-the-global-race-5ok)
-- [10 API Skills Every Developer Needs to Work with AI](https://dev.to/apilover/10-api-skills-every-developer-needs-to-work-with-ai-498j)
-- [Types Of Testing Environment In TestGrid](https://dev.to/george_choe_02b3c1aa415de/types-of-testing-environment-in-testgrid-301i)
+- [25 Google Alternatives every DEV must use in 2025 🤯💥](https://dev.to/ingosteinke/25-google-alternatives-every-dev-must-use-in-2025-20n2)
+- [The Role of DAOs in Blockchain Game Development: Shaping the Future of Decentralized Game Governance](https://dev.to/raiden_studio/the-role-of-daos-in-blockchain-game-development-shaping-the-future-of-decentralized-game-3mfj)
+- [🚀 Your Daily Crypto Job Digest For 20 February!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-20-february-1lf0)
+- [Say Goodbye to WebDriver: Modern Alternatives for Browser Automation – Part 2](https://dev.to/serhii_korol_ab7776c50dba/say-goodbye-to-webdriver-modern-alternatives-for-browser-automation-part-2-5fd0)
+- [How to Create Advanced Nested Flex and Grid Layouts with Tailwind CSS](https://dev.to/rowsanali/how-to-create-advanced-nested-flex-and-grid-layouts-with-tailwind-css-58en)
 <!-- BLOG-POST-LIST:END -->
 
 ---
