@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [remove trailing slash only on certain page in gatsby](https://dev.to/sudhasrs/remove-trailing-slash-only-on-certain-page-in-gatsby-4j3a)
-- [Creating My Own Portfolio Website](https://dev.to/samanamirza_dev/creating-my-own-portfolio-website-4mhd)
-- [EC2 Instance Store: High-Performance Temporary Storage for Your Workloads](https://dev.to/shiv15/ec2-instance-store-high-performance-temporary-storage-for-your-workloads-3co7)
-- [How to Scrape Google Scholar Results](https://dev.to/datacollectionscraper/how-to-scrape-google-scholar-results-3a32)
-- [AI-Powered UI Generation Workflow](https://dev.to/devresurrect_f18e7d7b7bc6/ai-powered-ui-generation-workflow-3j4g)
+- [Angular - Blocked request Vite issue](https://dev.to/blessina_lindon_45694ae48/angular-blocked-request-vite-issue-4ei)
+- [What is Dogecoin? The Ultimate Guide to Understanding the Cryptocurrency](https://dev.to/kiya_verma_80238900c416be/what-is-dogecoin-the-ultimate-guide-to-understanding-the-cryptocurrency-kn1)
+- [Mastering IP Addresses in Ruby with the IPAddress Gem](https://dev.to/daviducolo/mastering-ip-addresses-in-ruby-with-the-ipaddress-gem-2lh1)
+- [Top 10 React Libraries/Frameworks for 2025 🚀](https://dev.to/myogeshchavan97/top-10-react-librariesframeworks-for-2025-50i4)
+- [Basic Setup: Run SpringBoot using JBoss &lpar;Wildfly&rpar;](https://dev.to/kenji_goh/basic-setup-run-springboot-using-jboss-wildfly-2349)
 <!-- BLOG-POST-LIST:END -->
 
 ---
