@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Asynchronous Server: Building and Rigorously Testing a WebSocket and HTTP Server](https://dev.to/sirneij/asynchronous-server-building-and-rigorously-testing-a-websocket-and-http-server-4kke)
-- [Analyzing Lotto with Data: Can Machine Learning Provide the Answer?](https://dev.to/freyasky/analyzing-lotto-with-data-can-machine-learning-provide-the-answer-c6k)
-- [Building a Data Ingestion Solution for Amazon Bedrock Knowledge Bases](https://dev.to/aws-builders/building-a-data-ingestion-solution-for-amazon-bedrock-knowledge-bases-4on4)
-- [Step-by-Step Process for Migrating from Umbraco to WordPress](https://dev.to/johnsmith244303/step-by-step-process-for-migrating-from-umbraco-to-wordpress-38p0)
-- [The two versions of Parquet](https://dev.to/jerolba/the-two-versions-of-parquet-16il)
+- [Apache httpd-2.4 - Secured Configuration on Fedora](https://dev.to/lancemk/apache-httpd-24-secured-configuration-on-fedora-3f4f)
+- [Sprint 3: Results](https://dev.to/amullagaliev/sprint-3-results-480)
+- [How Do Top-Level Scheduling Systems Achieve Minute-Level Data Backfill When Tasks Fail?](https://dev.to/chen_debra_3060b21d12b1b0/how-do-top-level-scheduling-systems-achieve-minute-level-data-backfill-when-tasks-fail-5ae8)
+- [AI Breakthrough: New Method Makes Models Better at Understanding Long Documents Like Humans Do](https://dev.to/mikeyoung44/ai-breakthrough-new-method-makes-models-better-at-understanding-long-documents-like-humans-do-1npp)
+- [AI-Powered Code Explorer Creates Better Software Through Systematic Solution Search](https://dev.to/mikeyoung44/ai-powered-code-explorer-creates-better-software-through-systematic-solution-search-dea)
 <!-- BLOG-POST-LIST:END -->
 
 ---
