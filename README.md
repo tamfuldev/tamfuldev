@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Real-Time Lambda Monitoring on AWS](https://dev.to/mtrentz/real-time-lambda-monitoring-on-aws-3p5j)
-- [Laravel API Docs: A Guide to L5 Swagger](https://dev.to/aleson-franca/laravel-api-docs-a-guide-to-l5-swagger-333)
-- [COBOL, Dates, May 20, 1875, and Disinformation](https://dev.to/mdchaney/cobol-dates-may-20-1875-and-disinformation-5ggh)
-- [Optimizing IoT Data Management for Business Success](https://dev.to/ostapzabolotnyy/optimizing-iot-data-management-for-business-success-5dji)
-- [Easy Bug: Open-Redirect on OAuth 2.0 redirect_uri param](https://dev.to/blue_byte/easy-bug-open-redirect-on-oauth-20-redirecturi-param-2h8f)
+- [Building Scalable Microservices with NestJS](https://dev.to/mouloud_hasrane_c99b0f49a/building-scalable-microservices-with-nestjs-5d16)
+- [Own Your Career: 5 Lessons to Drive Your Promotions](https://dev.to/prpatel05/own-your-career-5-lessons-to-drive-your-promotions-1hlp)
+- [AI for Peeps Scared of AI](https://dev.to/codingcatdev/ai-for-peeps-scared-of-ai-4b1)
+- [Quickstart Svelte - Setting Up and Running a Development Server](https://dev.to/yujin/quickstart-svelte-setting-up-and-running-a-development-server-1kfb)
+- [Daily JavaScript Challenge #JS-107: Validate Sudoku Board](https://dev.to/dpc/daily-javascript-challenge-js-107-validate-sudoku-board-32de)
 <!-- BLOG-POST-LIST:END -->
 
 ---
