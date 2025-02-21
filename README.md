@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Seamless Kubernetes Multi-Tenancy with vCluster and a Shared Platform Stack](https://dev.to/gentele/seamless-kubernetes-multi-tenancy-with-vcluster-and-a-shared-platform-stack-1m4n)
-- [Ultimate Guide to Data Science Careers](https://dev.to/deepikajagdeesh/ultimate-guide-to-data-science-careers-5f35)
-- [Effective Strategies for Exception Management in Freight Forwarding](https://dev.to/muthu_kumar_10/effective-strategies-for-exception-management-in-freight-forwarding-49d3)
-- [🚀 Stop Slowing Down Your Website! Find &amp; Remove Unused JavaScript Now](https://dev.to/dct_technologyprivatelimited/stop-slowing-down-your-website-find-remove-unused-javascript-now-o27)
-- [History of PHP language: How PHP Started and Where It Stands Today](https://dev.to/web_dev-usman/history-of-php-language-how-php-started-and-where-it-stands-today-5a2l)
+- [25+ Essential Linux Bash Commands Every Aspiring DevOps Must Know](https://dev.to/knight03/25-essential-linux-bash-commands-every-aspiring-devops-must-know-17cl)
+- [PEP and PDP for Secure Authorization with AVP](https://dev.to/aws-heroes/pep-and-pdp-for-secure-authorization-with-avp-290c)
+- [What&#39;s your opinion on &quot;One PR per Day Rule&quot; at workplace?](https://dev.to/gleuzio/whats-your-opinion-on-one-pr-per-day-rule-at-workplace-158)
+- [State Management with Pinia vs Vuex](https://dev.to/robin-ivi/state-management-with-pinia-vs-vuex-4mh)
+- [Never Get Caught in the Rain Again: The Next Level of Updates on Weather on An Android Lock Screen](https://dev.to/prajakta_gawande_9485a4fd/never-get-caught-in-the-rain-again-the-next-level-of-updates-on-weather-on-an-android-lock-screen-2ag6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
