@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Projects With Lombok](https://dev.to/arthur_gif/optimizing-projects-with-lombok-2gfb)
-- [&quot;Mastering Fault Localization: The Future of Bug Detection Techniques&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/mastering-fault-localization-the-future-of-bug-detection-techniques-m47)
-- [LivinGrimoire Experiment: Showcasing Key Abilities](https://dev.to/owly/livingrimoire-experiment-showcasing-key-abilities-4jii)
-- [Desarrollo de Ecommerce con Django &lpar;parte 5&rpar;](https://dev.to/villacisg93/desarrollo-de-ecommerce-con-django-parte-5-o3d)
-- [Redoc With VueJS](https://dev.to/aisone/redoc-with-vuejs-223a)
+- [TIL: 3️⃣ ways I use Large Language Models to increase learning efficiency](https://dev.to/mrzaizai2k/til-3-ways-i-use-large-language-models-to-increase-learning-efficiency-6i5)
+- [How Django Finds Static and Template Files: A Quick Guide](https://dev.to/jjokah/how-django-finds-static-and-template-files-a-quick-guide-dk6)
+- [Magic Methods in PHP: Why Programmers Need Magic Too](https://dev.to/ianpatricck/magic-methods-in-php-why-programmers-need-magic-too-2f02)
+- [creating your own Docker like what a shiny title and hard work A year ago, I built a minimal container in Go. Now, it&#39;s time for a revisit! This time, I&#39;m tackling network isolation, resource limits, and deeper container architecture.](https://dev.to/micromax/creating-your-own-docker-like-what-a-shiny-title-and-hard-work-a-year-ago-i-built-a-minimal-53fc)
+- [A 34-liner shell script to save your productivity](https://dev.to/dariomannu/a-34-liner-shell-script-to-save-your-productivity-1o7i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
