@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Go Panic and Recover: A Deep Dive into Error Handling](https://dev.to/leapcell/go-panic-and-recover-a-deep-dive-into-error-handling-56be)
-- [Love Language Discovery](https://dev.to/abhay_yt_52a8e72b213be229/love-language-discovery-5gdn)
-- [[Boost]](https://dev.to/thiteago/-299i)
-- [Hosting a Static Website on Amazon S3 – A Step-by-Step Guide 🚀](https://dev.to/carloshendvpm/hosting-a-static-website-on-amazon-s3-a-step-by-step-guide-4oe2)
-- [Preventing Real Service Calls in Tests: A Clean Approach with Angular](https://dev.to/fndme/preventing-real-service-calls-in-tests-a-clean-approach-with-angular-3d8p)
+- [Why Use a Schema Comparison Tool for SQL Server?](https://dev.to/samantha_brauer/why-use-a-schema-comparison-tool-for-sql-server-42me)
+- [How to Implement Push Notifications Using JavaScript](https://dev.to/tene/how-to-implement-push-notifications-using-javascript-461a)
+- [Building a CRUD API with ABP Framework, ASP.NET Core, and PostgreSQL](https://dev.to/berkansasmazz/building-a-crud-api-with-abp-framework-aspnet-core-and-postgresql-14p8)
+- [Scaling Up Different Functionalities in a Single Worker using Queues](https://dev.to/fiberplane/scaling-up-different-functionalities-in-a-single-worker-using-queues-1jm4)
+- [Arbitrum and State Channels: Pioneering Blockchain Scalability](https://dev.to/rachellovestowrite/arbitrum-and-state-channels-pioneering-blockchain-scalability-4d2i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
