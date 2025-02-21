@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [25+ Essential Linux Bash Commands Every Aspiring DevOps Must Know](https://dev.to/knight03/25-essential-linux-bash-commands-every-aspiring-devops-must-know-17cl)
-- [PEP and PDP for Secure Authorization with AVP](https://dev.to/aws-heroes/pep-and-pdp-for-secure-authorization-with-avp-290c)
-- [What&#39;s your opinion on &quot;One PR per Day Rule&quot; at workplace?](https://dev.to/gleuzio/whats-your-opinion-on-one-pr-per-day-rule-at-workplace-158)
-- [State Management with Pinia vs Vuex](https://dev.to/robin-ivi/state-management-with-pinia-vs-vuex-4mh)
-- [Never Get Caught in the Rain Again: The Next Level of Updates on Weather on An Android Lock Screen](https://dev.to/prajakta_gawande_9485a4fd/never-get-caught-in-the-rain-again-the-next-level-of-updates-on-weather-on-an-android-lock-screen-2ag6)
+- [Don&#39;t use React imports like this. Use Wrapper Pattern instead](https://dev.to/perisicnikola37/dont-use-react-imports-like-this-use-wrapper-pattern-instead-124p)
+- [Advanced Compilation: A Formal Analysis of a JavaScript-Based Compiler](https://dev.to/bravim_purohit_/advanced-compilation-a-formal-analysis-of-a-javascript-based-compiler-338f)
+- [AWS Certified Security – Specialty &lpar;SCS-C02&rpar;受験体験記](https://dev.to/aws-builders/aws-certified-security-specialty-scs-c02shou-yan-ti-yan-ji-50ka)
+- [DevOps Handbook: Essential Practices for Efficient CI/CD Pipeline Configuration](https://dev.to/phuong_nguyen_rosa/devops-handbook-essential-practices-for-efficient-cicd-pipeline-configuration-4c0i)
+- [The Power of CI/CD Deployment Tools: Streamlining Your Software Pipeline](https://dev.to/phuong_nguyen_rosa/the-power-of-cicd-deployment-tools-streamlining-your-software-pipeline-59ha)
 <!-- BLOG-POST-LIST:END -->
 
 ---
