@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [RandomAffine in PyTorch &lpar;3&rpar;](https://dev.to/hyperkai/randomaffine-in-pytorch-3-3hkm)
-- [How to create a Windows Server install windows server &lpar;IIS role and management tools &rpar;on it.](https://dev.to/onyemuche/how-to-create-a-windows-server-install-windows-server-iis-role-and-management-tools-on-it-24im)
-- [&quot;Unlocking the Past: Evaluating AI&#39;s Understanding of Cultural Artifacts&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-the-past-evaluating-ais-understanding-of-cultural-artifacts-15jk)
-- [🎉 Just launched my side project: a social media management tool!](https://dev.to/fistonuser/just-launched-my-side-project-a-social-media-management-tool-2l8k)
-- [HarmonyOS NEXT开发教程：加速web页面访问](https://dev.to/youlanjihua/harmonyos-nextkai-fa-jiao-cheng-jia-su-webye-mian-fang-wen-nk6)
+- [Understanding Packages in Go: A Comprehensive Guide](https://dev.to/abstractmusa/fsdfasdf-asfa-3fd1)
+- [Crossplane vs. Sveltos: A Kubernetes API Extension Comparison](https://dev.to/simone_morellato/crossplane-vs-sveltos-a-kubernetes-api-extension-comparison-4on4)
+- [Open-Source Book Creator with Multi-Agent AI](https://dev.to/guerra2fernando/open-source-book-creator-with-multi-agent-ai-1bnl)
+- [Build RAG Chatbot with LangChain, Milvus, Anthropic Claude 3 Haiku, and voyage-3-large](https://dev.to/zilliz/build-rag-chatbot-with-langchain-milvus-anthropic-claude-3-haiku-and-voyage-3-large-25na)
+- [COBOL Fundamentals: Data Types &amp; Variables](https://dev.to/stephenkjohnston/cobol-fundamentals-data-types-variables-180d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
