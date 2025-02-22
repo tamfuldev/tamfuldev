@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Packages in Go: A Comprehensive Guide](https://dev.to/abstractmusa/fsdfasdf-asfa-3fd1)
-- [Crossplane vs. Sveltos: A Kubernetes API Extension Comparison](https://dev.to/simone_morellato/crossplane-vs-sveltos-a-kubernetes-api-extension-comparison-4on4)
-- [Open-Source Book Creator with Multi-Agent AI](https://dev.to/guerra2fernando/open-source-book-creator-with-multi-agent-ai-1bnl)
-- [Build RAG Chatbot with LangChain, Milvus, Anthropic Claude 3 Haiku, and voyage-3-large](https://dev.to/zilliz/build-rag-chatbot-with-langchain-milvus-anthropic-claude-3-haiku-and-voyage-3-large-25na)
-- [COBOL Fundamentals: Data Types &amp; Variables](https://dev.to/stephenkjohnston/cobol-fundamentals-data-types-variables-180d)
+- [Amor Mio](https://dev.to/kees_7874d132ecaa0b674c93/amor-mio-5537)
+- [🎨 Tailwind CSS: Styling Inner Components on Parent Hover Using &quot;group&quot;](https://dev.to/dzungnt98/tailwind-css-styling-inner-components-on-parent-hover-using-group-2fmb)
+- [Weather App With State Management for Long Running Conversations Using AI Agents](https://dev.to/exploredataaiml/weather-app-with-state-management-for-long-running-conversations-using-ai-agents-4cd5)
+- [Innovative PCB Designs for Smart Fire Detection Systems: The Integration of Multiple Sensors for Enhanced Safety](https://dev.to/yoy/innovative-pcb-designs-for-smart-fire-detection-systems-the-integration-of-multiple-sensors-for-105f)
+- [Seamlessly Compare Maps on QGIS with the QMapCompare Plugin](https://dev.to/mierune/seamlessly-compare-maps-on-qgis-with-the-qmapcompare-plugin-3186)
 <!-- BLOG-POST-LIST:END -->
 
 ---
