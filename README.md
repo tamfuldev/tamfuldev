@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Git Cherry-Pick 🍒](https://dev.to/adrianbailador/git-cherry-pick-o4m)
-- [How to Enable Mobile Hotspot on Windows 11?](https://dev.to/winsides/how-to-enable-mobile-hotspot-on-windows-11-5ada)
-- [CSS Layouts Painful to learn? Make it EASY with this guide](https://dev.to/rijultp/css-layouts-painful-to-learn-make-it-easy-with-this-guide-aio)
-- [Arion&#39;s Birthday](https://dev.to/auramuch/arions-birthday-34j6)
-- [My second contribution to ASP.NET Core OData](https://dev.to/anasik/my-second-contribution-to-aspnet-core-odata-47c0)
+- [My React Base :&rpar;](https://dev.to/mattsu014/my-react-base--c0c)
+- [132/365 | ¥10M Job Challenge - Communication in the AI Era](https://dev.to/kameken100/132365-y10m-job-challenge-communication-in-the-ai-era-3k4b)
+- [Grok 3: The world&#39;s smartest AI?, DeepScaleR 1.5B beats OpenAI o1, new DeepSeek-R1 killer, and more](https://dev.to/thisweekinaiengineering/grok-3-the-worlds-smartest-ai-deepscaler-15b-beats-openai-o1-new-deepseek-r1-killer-and-more-58hj)
+- [1028. Recover a Tree From Preorder Traversal](https://dev.to/mdarifulhaque/1028-recover-a-tree-from-preorder-traversal-2dog)
+- [Enhancing the Map Widget in Ensemble: Introducing Fixed &amp; Draggable Markers 🚀](https://dev.to/sharjeelyunus/enhancing-the-map-widget-in-ensemble-introducing-fixed-draggable-markers-1a1h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
