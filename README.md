@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Detect Unused Classes in Laravel](https://dev.to/tegos/detect-unused-classes-in-laravel-2jjm)
-- [How AI is Changing Software Development: Will Developers Be Replaced?](https://dev.to/raji_moshood_ee3a4c2638f6/how-ai-is-changing-software-development-will-developers-be-replaced-1i18)
-- [Laravel modular folder structure](https://dev.to/xwero/laravel-modular-folder-structure-4a94)
-- [Understanding Pass-Through Authentication &lpar;PTA&rpar; and Password Hash Synchronization &lpar;PHS&rpar;](https://dev.to/sachindra149/understanding-pass-through-authentication-pta-and-password-hash-synchronization-phs-412n)
-- [Day -04 of learning python&lpar;02-22-2025&rpar;](https://dev.to/kapil_kumarshahsonar_ad/day-04-of-learning-python02-22-2025-1696)
+- [Git Cherry-Pick 🍒](https://dev.to/adrianbailador/git-cherry-pick-o4m)
+- [How to Enable Mobile Hotspot on Windows 11?](https://dev.to/winsides/how-to-enable-mobile-hotspot-on-windows-11-5ada)
+- [CSS Layouts Painful to learn? Make it EASY with this guide](https://dev.to/rijultp/css-layouts-painful-to-learn-make-it-easy-with-this-guide-aio)
+- [Arion&#39;s Birthday](https://dev.to/auramuch/arions-birthday-34j6)
+- [My second contribution to ASP.NET Core OData](https://dev.to/anasik/my-second-contribution-to-aspnet-core-odata-47c0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
