@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Get a List of Hooks in a WordPress Plugin](https://dev.to/muhammadmedhat/how-to-get-a-list-of-hooks-in-a-wordpress-plugin-3hf9)
-- [RandomAffine in PyTorch &lpar;2&rpar;](https://dev.to/hyperkai/randomaffine-in-pytorch-2-3d3a)
-- [RandomAffine in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/randomaffine-in-pytorch-1-2j6j)
-- [AI in Web Development – Is It Replacing Developers or Making Us 10x Faster?](https://dev.to/bigya/ai-in-web-development-is-it-replacing-developers-or-making-us-10x-faster-4f3h)
-- [Why Should You Use a CDN to Boost Your Website Speed?](https://dev.to/seyedahmaddv/why-should-you-use-a-cdn-to-boost-your-website-speed-2543)
+- [RandomAffine in PyTorch &lpar;3&rpar;](https://dev.to/hyperkai/randomaffine-in-pytorch-3-3hkm)
+- [How to create a Windows Server install windows server &lpar;IIS role and management tools &rpar;on it.](https://dev.to/onyemuche/how-to-create-a-windows-server-install-windows-server-iis-role-and-management-tools-on-it-24im)
+- [&quot;Unlocking the Past: Evaluating AI&#39;s Understanding of Cultural Artifacts&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-the-past-evaluating-ais-understanding-of-cultural-artifacts-15jk)
+- [🎉 Just launched my side project: a social media management tool!](https://dev.to/fistonuser/just-launched-my-side-project-a-social-media-management-tool-2l8k)
+- [HarmonyOS NEXT开发教程：加速web页面访问](https://dev.to/youlanjihua/harmonyos-nextkai-fa-jiao-cheng-jia-su-webye-mian-fang-wen-nk6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
