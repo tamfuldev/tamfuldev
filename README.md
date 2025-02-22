@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Are These 30+ GitHub Repositories Trending? Find Out Now!](https://dev.to/gittech/why-are-these-30-github-repositories-trending-find-out-now-2j4d)
-- [25+ Little-Known Python Resources That Will Make You a Pro!](https://dev.to/dev-resources/25-little-known-python-resources-that-will-make-you-a-pro-51ed)
-- [DeepDive in everything of Llama3: revealing detailed insights and implementation](https://dev.to/therealoliver/deepdive-in-everything-of-llama3-revealing-detailed-insights-and-implementation-18if)
-- [Configuring .NET APIs with Keycloak](https://dev.to/marian_s/configuring-net-api-with-keycloak-f27)
-- [Top 7 React Hooks you must know](https://dev.to/vishnusatheesh/top-7-react-hooks-you-must-know-3k7g)
+- [Observability Made Easy: Adding Logs, Traces &amp; Metrics to FastAPI with Logfire](https://dev.to/devgeetech/observability-made-easy-adding-logs-traces-metrics-to-fastapi-with-logfire-529l)
+- [Become a Healthy Developer to be a Better Developer](https://dev.to/jamiebradley/become-a-healthy-developer-to-be-a-better-developer-4b8k)
+- [Centralizing type checking with Type Guards](https://dev.to/nickgabe/how-to-check-your-types-using-type-guards-4jma)
+- [Mastering the Essentials of IT Infrastructure and Cloud Computing](https://dev.to/chinonso_ukadike/mastering-the-essentials-of-it-infrastructure-and-cloud-computing-1oe)
+- [PHP PSRs : PSR-12 Extended Coding Style Guide](https://dev.to/xxzeroxx/php-psrs-psr-12-extended-coding-style-guide-2fcm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
