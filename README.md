@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to run a cron job inside a docker container?](https://dev.to/iamrj846/how-to-run-a-cron-job-inside-a-docker-container-170a)
-- [CenterCrop in PyTorch](https://dev.to/hyperkai/centercrop-in-pytorch-16he)
-- [How does serverless computing impact web development?](https://dev.to/jaykrishna_dogne/how-does-serverless-computing-impact-web-development-4bn6)
-- [What is the difference between CMD and ENTRYPOINT in a Dockerfile?](https://dev.to/iamrj846/what-is-the-difference-between-cmd-and-entrypoint-in-a-dockerfile-3fh3)
-- [What are the best free tools every developer should use in 2025?](https://dev.to/jaykrishna_dogne/what-are-the-best-free-tools-every-developer-should-use-in-2025-1l4c)
+- [How to do Port forwarding in docker-machine?](https://dev.to/iamrj846/how-to-do-port-forwarding-in-docker-machine-4a7m)
+- [How to persist data in a dockerized postgres database using volumes?](https://dev.to/iamrj846/how-to-persist-data-in-a-dockerized-postgres-database-using-volumes-15f0)
+- [Grayscale in PyTorch](https://dev.to/hyperkai/grayscale-in-pytorch-19og)
+- [The Evolution of Programming: Trends Shaping 2025](https://dev.to/dreams_chaser/the-evolution-of-programming-trends-shaping-2025-1eoc)
+- [How does Docker Swarm implement volume sharing?](https://dev.to/iamrj846/how-does-docker-swarm-implement-volume-sharing-51dc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
