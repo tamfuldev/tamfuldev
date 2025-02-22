@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to do Port forwarding in docker-machine?](https://dev.to/iamrj846/how-to-do-port-forwarding-in-docker-machine-4a7m)
-- [How to persist data in a dockerized postgres database using volumes?](https://dev.to/iamrj846/how-to-persist-data-in-a-dockerized-postgres-database-using-volumes-15f0)
-- [Grayscale in PyTorch](https://dev.to/hyperkai/grayscale-in-pytorch-19og)
-- [The Evolution of Programming: Trends Shaping 2025](https://dev.to/dreams_chaser/the-evolution-of-programming-trends-shaping-2025-1eoc)
-- [How does Docker Swarm implement volume sharing?](https://dev.to/iamrj846/how-does-docker-swarm-implement-volume-sharing-51dc)
+- [Credit Card Payment Form](https://dev.to/oluwa_shocker05/credit-card-payment-form-3833)
+- [While the docker commit command offers a quick way to capture the current state of a container into a new image, it&#39;s generally recommended to use a Dockerfile for building images. This approach ensures reproducibility. https://twistlockdynamics.com](https://dev.to/twistlock_dynamics_25204d/while-the-docker-commit-command-offers-a-quick-way-to-capture-the-current-state-of-a-container-into-250)
+- [RandomAutocontrast in PyTorch](https://dev.to/hyperkai/randomautocontrast-in-pytorch-1311)
+- [Kubernetes &lpar;EKS&rpar; Fundamentals - In-Depth Guide](https://dev.to/shubhankardev_a0028afe8ff/kubernetes-eks-fundamentals-in-depth-guide-3mpc)
+- [RandomSolarize in PyTorch](https://dev.to/hyperkai/randomsolarize-in-pytorch-mc5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
