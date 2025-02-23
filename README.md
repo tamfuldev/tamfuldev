@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top Cybersecurity Trends to Watch in 2025](https://dev.to/dreams_chaser/top-cybersecurity-trends-to-watch-in-2025-4cf1)
-- [&quot;Revolutionizing Quantum Error Correction: Meet Micro Blossom&#39;s Breakthrough!&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-quantum-error-correction-meet-micro-blossoms-breakthrough-27hc)
-- [Choosing Integer Types in MySQL &amp; PostgreSQL](https://dev.to/kellyblaire/real-life-examples-of-choosing-integer-types-in-mysql-postgresql-183m)
-- [Por que você deve repensar o uso de Regex em validações de strings no Go](https://dev.to/renanbastos93/por-que-voce-deve-repensar-o-uso-de-regex-em-validacoes-de-strings-no-go-1cdi)
-- [A Next.js app that fetches Shopify products with sorting and search functionality](https://dev.to/saidmounaim/a-nextjs-app-that-fetches-shopify-products-with-sorting-and-search-functionality-1ak5)
+- [NestJS Distributed systems using service bus with @nestjstools/messaging](https://dev.to/sebastianiwanczyszyn/nestjs-distributed-systems-using-service-bus-with-nestjstoolsmessaging-3oha)
+- [What building a phone number validator taught me about RegEx: FCC solution](https://dev.to/israelrotimi/what-building-a-phone-number-validator-taught-me-about-regex-fcc-solution-2n26)
+- [EF Core Database/Tables exists](https://dev.to/karenpayneoregon/ef-core-databasetables-exists-4lnj)
+- [Debian netinst: Conectar na Wi-Fi pela TTY](https://dev.to/easbarba/debian-netinst-conectar-ao-wi-fi-pelo-tty-pp0)
+- [Understanding Anonymous Functions in Go: A Practical Guide](https://dev.to/abstractmusa/understanding-anonymous-functions-in-go-a-practical-guide-57hd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
