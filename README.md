@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Enable Recognize Non-Native Accents for this Language on Windows 11](https://dev.to/winsides/enable-recognize-non-native-accents-for-this-language-on-windows-11-4nnm)
-- [Running NestJS in a Lambda function with LocalStack and Serverless Framework](https://dev.to/nestjs-ninja/running-nestjs-in-a-lambda-function-with-localstack-and-serverless-framework-enk)
-- [Recipe Card](https://dev.to/preetha_vaishnavi_2b82358/recipe-card-4490)
-- [Checkout Form](https://dev.to/preetha_vaishnavi_2b82358/checkout-form-4jc7)
-- [Multi Step Form with Progress Bar using jQuery and CSS3](https://dev.to/preetha_vaishnavi_2b82358/multi-step-form-with-progress-bar-using-jquery-and-css3-5gb9)
+- [Simplifier le développement de newsletters responsives avec MJML](https://dev.to/p0p0/simplifier-le-developpement-de-newsletters-responsives-avec-mjml-jpn)
+- [👋 Hello, World!](https://dev.to/auti/hello-world-38jp)
+- [An Overview of Message Push Strategies: When and Why to Use Each](https://dev.to/leapcell/an-overview-of-message-push-strategies-when-and-why-to-use-each-51j8)
+- [New JavaScript features, Deno 2.2, ESLint now supports CSS, and more](https://dev.to/thisweekinjavascript/new-javascript-features-deno-22-eslint-now-supports-css-and-more-l7n)
+- [Check out my new post.](https://dev.to/abiodun_akintola/check-out-my-new-post-21a3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
