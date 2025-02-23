@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up Your Deep Learning Environment and Training Your First Model](https://dev.to/armansal/setting-up-your-deep-learning-environment-and-training-your-first-model-bff)
-- [How Hackers Intercept Your Messages: The Silent Cyber Threat You Need to Know](https://dev.to/nightmare-lynx/what-is-man-in-the-middle-attack-4a2j)
-- [Boy Scout Rule In Programming and Its Limitations](https://dev.to/anton9/boy-scout-rule-and-its-limitations-5404)
-- [Building a Banking Intelligence System: Transforming Customer Data for Insights](https://dev.to/apcodesphere/building-a-banking-intelligence-system-transforming-customer-data-for-insights-5h5e)
-- [Top 10 Alternatives to Next.js in 2025](https://dev.to/sovannaro/top-10-alternatives-to-nextjs-in-2025-57kc)
+- [Using K6 to check the performance of our system](https://dev.to/will_drygla/using-k6-to-check-the-performance-of-our-system-43b0)
+- [How to Dockerize Deno](https://dev.to/code42cate/how-to-dockerize-deno-h5a)
+- [My favorite K6 executors](https://dev.to/will_drygla/my-favorite-k6-executors-3aal)
+- [Code Smell 291 - Mutable Keys](https://dev.to/mcsee/code-smell-291-mutable-keys-5flf)
+- [The Importance of Structured Learning: A Lesson from Building a URL Shortener](https://dev.to/epicdivakar/the-importance-of-structured-learning-a-lesson-from-building-a-url-shortener-84o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
