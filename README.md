@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Resources to Learn Kubernetes &lpar;K8&rpar; in 2025](https://dev.to/somadevtoo/top-10-resources-to-learn-kubernetes-k8-in-2025-3nbj)
-- [J mail](https://dev.to/arsh_patel_74cf6a43525f5c/j-mail-398p)
-- [AI Writing Tools: Why Most Need Heavy Human Editing](https://dev.to/ostapzabolotnyy/ai-writing-tools-why-most-need-heavy-human-editing-5h4p)
-- [Navigating Software Development Problems: Strategies for Success in 2025](https://dev.to/jetthoughts/navigating-software-development-problems-strategies-for-success-in-2025-3no2)
-- [5 Costly Mistakes Android Developers Make That Sabotage Their Apps – And How to Fix Them!](https://dev.to/appdaddy/5-costly-mistakes-android-developers-make-that-sabotage-their-apps-and-how-to-fix-them-1o4a)
+- [Installing termux 😞😞](https://dev.to/jabane_sumac_a811ddd0cdfa/installing-termux-1412)
+- [Downtime 2025-02-22](https://dev.to/jonasbn/downtime-5gn7)
+- [sm64coopdx ported to FreeBSD](https://dev.to/mprog10/sm64coopdx-ported-to-freebsd-3gmd)
+- [Autumn Arc: Shedding Bad Habits](https://dev.to/ntombizakhona/autumn-arc-shedding-bad-habits-2i8e)
+- [Learning WebRTC: My First Peer-to-Peer Connection](https://dev.to/abhijay_yadav_712e10ab036/learning-webrtc-my-first-peer-to-peer-connection-5eg4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
