@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [ShadeView 2 - First Complete Shader Helper - VSCode](https://dev.to/przemysaw_orowski_585ea/shadeview-2-first-complete-shader-helper-vscode-29le)
-- [What is &quot;right&quot; and what is &quot;wrong&quot;? — in IT](https://dev.to/pooyan/what-is-right-and-what-is-wrong-in-it-46ae)
-- [Helm Installation and Usage Guide for Kubernetes &lpar;Step-by-Step&rpar;](https://dev.to/devcorner/helm-installation-and-usage-guide-for-kubernetes-step-by-step-fmn)
-- [ElasticTransform in PyTorch &lpar;3&rpar;](https://dev.to/hyperkai/elastictransform-in-pytorch-3-56pl)
-- [ElasticTransform in PyTorch &lpar;2&rpar;](https://dev.to/hyperkai/elastictransform-in-pytorch-2-2p5j)
+- [React useTransition Hook : The Tool for Non-Blocking Updates](https://dev.to/shreenidhibatavi/react-usetransition-hook-the-tool-for-non-blocking-updates-f55)
+- [Building a Compact, Responsive Multi-Image Uploader for Next.js](https://dev.to/jacksonkasi/building-a-compact-responsive-multi-image-uploader-for-nextjs-3m0f)
+- [A Practical Guide to ORM in GoFrame: From Basics to Advanced Relationships](https://dev.to/jones_charles_ad50858dbc0/a-practical-guide-to-orm-in-goframe-from-basics-to-advanced-relationships-17fk)
+- [JavaScript vs. TypeScript: A Developer’s Guide to Choosing the Right Tool](https://dev.to/shaunak_38/javascript-vs-typescript-a-developers-guide-to-choosing-the-right-tool-2c84)
+- [Day 7: Unlocking User Authentication &amp; Authorization](https://dev.to/rishav_upadhaya/day-7-unlocking-user-authentication-authorization-53e0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
