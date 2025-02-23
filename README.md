@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Simplifier le développement de newsletters responsives avec MJML](https://dev.to/p0p0/simplifier-le-developpement-de-newsletters-responsives-avec-mjml-jpn)
-- [👋 Hello, World!](https://dev.to/auti/hello-world-38jp)
-- [An Overview of Message Push Strategies: When and Why to Use Each](https://dev.to/leapcell/an-overview-of-message-push-strategies-when-and-why-to-use-each-51j8)
-- [New JavaScript features, Deno 2.2, ESLint now supports CSS, and more](https://dev.to/thisweekinjavascript/new-javascript-features-deno-22-eslint-now-supports-css-and-more-l7n)
-- [Check out my new post.](https://dev.to/abiodun_akintola/check-out-my-new-post-21a3)
+- [Day 19: Part 2 Jubilee Austen](https://dev.to/theoriginalbpc/day-19-part-2-jubilee-austen-389i)
+- [Getting JSON from SQL](https://dev.to/intersystems/getting-json-from-sql-4e2f)
+- [Latin Ligatures in Unicode &lpar;and fonts&rpar;](https://dev.to/cmahte/latin-ligatures-in-unicode-and-fonts-2da9)
+- [Streaming data from RDBMS with jooq](https://dev.to/maczaj/streaming-data-from-rdbms-with-jooq-130p)
+- [Using a YubiKey with AWS CLI Sessions](https://dev.to/micahcarrick/using-a-yubikey-with-aws-cli-sessions-3lk4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
