@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Using K6 to check the performance of our system](https://dev.to/will_drygla/using-k6-to-check-the-performance-of-our-system-43b0)
-- [How to Dockerize Deno](https://dev.to/code42cate/how-to-dockerize-deno-h5a)
-- [My favorite K6 executors](https://dev.to/will_drygla/my-favorite-k6-executors-3aal)
-- [Code Smell 291 - Mutable Keys](https://dev.to/mcsee/code-smell-291-mutable-keys-5flf)
-- [The Importance of Structured Learning: A Lesson from Building a URL Shortener](https://dev.to/epicdivakar/the-importance-of-structured-learning-a-lesson-from-building-a-url-shortener-84o)
+- [How to insert test context inside XML of jest](https://dev.to/will_drygla/how-to-insert-test-context-inside-xml-of-jest-53da)
+- [Circular Dependency- a never ending Paradox in Development](https://dev.to/sivakumarmanoharan/circular-dependency-a-never-ending-paradox-in-development-480b)
+- [How to learn HTML and master it?](https://dev.to/ahummaitra/how-to-learn-html-quickly-1n1m)
+- [Deploying a Static Website Using S3 and CloudFront](https://dev.to/leonardkachi/deploying-a-static-website-using-s3-and-cloudfront-5h39)
+- [A11y in SwiftUI: Grouping](https://dev.to/dianait/a11y-in-swiftui-grouping-5fd6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
