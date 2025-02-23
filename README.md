@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SSR vs SSG vs ISR vs CSR – What’s the Difference?](https://dev.to/ahmedaldrabea/ssr-vs-ssg-vs-isr-vs-csr-whats-the-difference-1gj0)
-- [🚀 Embrace the Power of Functional Programming in JavaScript and TypeScript 🚀](https://dev.to/hardikidea/embrace-the-power-of-functional-programming-in-javascript-and-typescript-3nfm)
-- [Finding Juicy Information from GraphQL](https://dev.to/cyberw1ng/finding-juicy-information-from-graphql-4ljn)
-- [Signup/login form](https://dev.to/ayushisharma45/signuplogin-form-gc0)
-- [Why You Should Use the “Do Until” Loop More Often in Power Automate](https://dev.to/myasir/why-you-should-use-the-do-until-loop-more-often-in-power-automate-4fkm)
+- [Glammed-Up Love Language Discovery 💖 | February Frontend Challenge](https://dev.to/hyeonjeong_lee_d47f5216d7/glammed-up-love-language-discovery-february-frontend-challenge-22ec)
+- [Seeking Framework Recommendations for BLE-Intensive Industrial Mobile Application](https://dev.to/khaled_002/seeking-framework-recommendations-for-ble-intensive-industrial-mobile-application-5epl)
+- [Case Study: Building a Scalable CRUD Application with Quarkus](https://dev.to/nevinn/case-study-building-a-scalable-crud-application-with-quarkus-35cn)
+- [Mastering Socket.IO: Rooms, Namespaces &amp; Authentication 🛠️](https://dev.to/matin676/mastering-socketio-rooms-namespaces-authentication-1lii)
+- [Good vs Bad Abstraction](https://dev.to/armanzahedi/good-vs-bad-abstraction-2nfm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
