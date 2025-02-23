@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Bitly + GA4 ? You’re Wasting Time.](https://dev.to/younes_yaas/bitly-ga4-youre-wasting-time-1jfo)
-- [Why PaaS is the Future of Cloud Deployment – A Developer’s Perspective](https://dev.to/kuberns_cloud/why-paas-is-the-future-of-cloud-deployment-a-developers-perspective-53h)
-- [Enterprise-Grade Node.js: Leveraging TypeScript, ESLint &amp; Prettier for Production Excellence](https://dev.to/yugjadvani/enterprise-grade-nodejs-leveraging-typescript-eslint-prettier-for-production-excellence-39lj)
-- [[Boost]](https://dev.to/muash10/-27cl)
-- [Ram&#39;s Magic Cloud: A Fun and Simple Way to Understand Cloud Computing!](https://dev.to/ramkumar_mn_ad77e024d4e8/rams-magic-cloud-a-fun-and-simple-way-to-understand-cloud-computing-2e77)
+- [Making Dating App Animation in SwiftUI [Video]](https://dev.to/yossabourne/making-dating-app-animation-in-swiftui-video-4ng6)
+- [Best Self-Hosted AI Meeting Note-Taker App &lpar;Open-Source&rpar;](https://dev.to/zackriya/best-self-hosted-ai-meeting-note-taker-app-open-source-2p9k)
+- [Three.js for my portfolio, seeking feedback.](https://dev.to/sababat/threejs-for-my-portfolio-seeking-feedback-2jnj)
+- [Why the user entity is problematic](https://dev.to/xwero/why-the-user-entity-is-problematic-2gl9)
+- [Data Structures Series #1: Stacks - Implementation &amp; Use Cases](https://dev.to/priyaselvaraj11/data-structures-series-1-stacks-implementation-use-cases-2ccc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
