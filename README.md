@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AWS X-Ray to break a monolith into microservice](https://dev.to/gurudev_prasadteketi/aws-x-ray-to-break-a-monolith-into-microservice-2da1)
-- [UI Components Gone Wild: One Component, Many Frameworks!](https://dev.to/mjuliafb/ui-components-gone-wild-one-component-many-frameworks-59e2)
-- [Exhaustive Guide to Generative and Predictive AI in AppSec](https://dev.to/lynxfelony1/exhaustive-guide-to-generative-and-predictive-ai-in-appsec-2pei)
-- [Agentic AI Revolutionizing Cybersecurity &amp; Application Security](https://dev.to/friendgrass7/agentic-ai-revolutionizing-cybersecurity-application-security-1cg)
-- [How I Built My Self-Hosted Cloud with Proxmox, Terraform &amp; Docker](https://dev.to/tejas2292/how-i-built-my-self-hosted-cloud-with-proxmox-terraform-docker-24hc)
+- [Introduction to UML for System and Process Design](https://dev.to/edgaras/introduction-to-uml-for-system-and-process-design-3l1m)
+- [Tríade CIA e Sua Importância na Cibersegurança.](https://dev.to/jaque_py/triade-cia-e-sua-importancia-na-ciberseguranca-565f)
+- [How to create a RustDLL binding for NodeJs](https://dev.to/flameoftheforest/how-to-create-a-rustdll-binding-for-nodejs-2348)
+- [Best HTML Editors: What Editor to Choose?](https://dev.to/angel_rojas_6904bae237a0d/best-html-editors-what-editor-to-choose-55co)
+- [Virtual Web](https://dev.to/gibranbanhakeia/virtual-web-4fik)
 <!-- BLOG-POST-LIST:END -->
 
 ---
