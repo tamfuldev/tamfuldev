@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 19: Part 2 Jubilee Austen](https://dev.to/theoriginalbpc/day-19-part-2-jubilee-austen-389i)
-- [Getting JSON from SQL](https://dev.to/intersystems/getting-json-from-sql-4e2f)
-- [Latin Ligatures in Unicode &lpar;and fonts&rpar;](https://dev.to/cmahte/latin-ligatures-in-unicode-and-fonts-2da9)
-- [Streaming data from RDBMS with jooq](https://dev.to/maczaj/streaming-data-from-rdbms-with-jooq-130p)
-- [Using a YubiKey with AWS CLI Sessions](https://dev.to/micahcarrick/using-a-yubikey-with-aws-cli-sessions-3lk4)
+- [AWS X-Ray to break a monolith into microservice](https://dev.to/gurudev_prasadteketi/aws-x-ray-to-break-a-monolith-into-microservice-2da1)
+- [UI Components Gone Wild: One Component, Many Frameworks!](https://dev.to/mjuliafb/ui-components-gone-wild-one-component-many-frameworks-59e2)
+- [Exhaustive Guide to Generative and Predictive AI in AppSec](https://dev.to/lynxfelony1/exhaustive-guide-to-generative-and-predictive-ai-in-appsec-2pei)
+- [Agentic AI Revolutionizing Cybersecurity &amp; Application Security](https://dev.to/friendgrass7/agentic-ai-revolutionizing-cybersecurity-application-security-1cg)
+- [How I Built My Self-Hosted Cloud with Proxmox, Terraform &amp; Docker](https://dev.to/tejas2292/how-i-built-my-self-hosted-cloud-with-proxmox-terraform-docker-24hc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
