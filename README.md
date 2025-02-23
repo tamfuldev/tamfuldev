@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to UML for System and Process Design](https://dev.to/edgaras/introduction-to-uml-for-system-and-process-design-3l1m)
-- [Tríade CIA e Sua Importância na Cibersegurança.](https://dev.to/jaque_py/triade-cia-e-sua-importancia-na-ciberseguranca-565f)
-- [How to create a RustDLL binding for NodeJs](https://dev.to/flameoftheforest/how-to-create-a-rustdll-binding-for-nodejs-2348)
-- [Best HTML Editors: What Editor to Choose?](https://dev.to/angel_rojas_6904bae237a0d/best-html-editors-what-editor-to-choose-55co)
-- [Virtual Web](https://dev.to/gibranbanhakeia/virtual-web-4fik)
+- [DeepSeek&#39;s Breakthrough: Challenging the AI Landscape 🚀](https://dev.to/lorebrada00/deepseeks-breakthrough-challenging-the-ai-landscape-43n6)
+- [¿Qué es Incogni? Elimina tus datos personales: Opinión, afiliados y usos](https://dev.to/angel_rojas_6904bae237a0d/que-es-incogni-elimina-tus-datos-personales-opinion-afiliados-y-usos-53p4)
+- [Nuxt 3 Deployment: Automating Environment-Specific Builds with GitHub Actions](https://dev.to/frozer/nuxt-3-deployment-automating-environment-specific-builds-with-github-actions-31h4)
+- [JavaScript](https://dev.to/caglar_bulat/javascript-19a8)
+- [Leveraging The Power Of Iteration Using Python Data Model](https://dev.to/noble47/leveraging-the-power-of-iteration-using-python-data-model-e3k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
