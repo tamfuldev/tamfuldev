@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Making Dating App Animation in SwiftUI [Video]](https://dev.to/yossabourne/making-dating-app-animation-in-swiftui-video-4ng6)
-- [Best Self-Hosted AI Meeting Note-Taker App &lpar;Open-Source&rpar;](https://dev.to/zackriya/best-self-hosted-ai-meeting-note-taker-app-open-source-2p9k)
-- [Three.js for my portfolio, seeking feedback.](https://dev.to/sababat/threejs-for-my-portfolio-seeking-feedback-2jnj)
-- [Why the user entity is problematic](https://dev.to/xwero/why-the-user-entity-is-problematic-2gl9)
-- [Data Structures Series #1: Stacks - Implementation &amp; Use Cases](https://dev.to/priyaselvaraj11/data-structures-series-1-stacks-implementation-use-cases-2ccc)
+- [Top 10 Resources to Learn Kubernetes &lpar;K8&rpar; in 2025](https://dev.to/somadevtoo/top-10-resources-to-learn-kubernetes-k8-in-2025-3nbj)
+- [J mail](https://dev.to/arsh_patel_74cf6a43525f5c/j-mail-398p)
+- [AI Writing Tools: Why Most Need Heavy Human Editing](https://dev.to/ostapzabolotnyy/ai-writing-tools-why-most-need-heavy-human-editing-5h4p)
+- [Navigating Software Development Problems: Strategies for Success in 2025](https://dev.to/jetthoughts/navigating-software-development-problems-strategies-for-success-in-2025-3no2)
+- [5 Costly Mistakes Android Developers Make That Sabotage Their Apps – And How to Fix Them!](https://dev.to/appdaddy/5-costly-mistakes-android-developers-make-that-sabotage-their-apps-and-how-to-fix-them-1o4a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
