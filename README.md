@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Installing termux 😞😞](https://dev.to/jabane_sumac_a811ddd0cdfa/installing-termux-1412)
-- [Downtime 2025-02-22](https://dev.to/jonasbn/downtime-5gn7)
-- [sm64coopdx ported to FreeBSD](https://dev.to/mprog10/sm64coopdx-ported-to-freebsd-3gmd)
-- [Autumn Arc: Shedding Bad Habits](https://dev.to/ntombizakhona/autumn-arc-shedding-bad-habits-2i8e)
-- [Learning WebRTC: My First Peer-to-Peer Connection](https://dev.to/abhijay_yadav_712e10ab036/learning-webrtc-my-first-peer-to-peer-connection-5eg4)
+- [Setting Up Your Deep Learning Environment and Training Your First Model](https://dev.to/armansal/setting-up-your-deep-learning-environment-and-training-your-first-model-bff)
+- [How Hackers Intercept Your Messages: The Silent Cyber Threat You Need to Know](https://dev.to/nightmare-lynx/what-is-man-in-the-middle-attack-4a2j)
+- [Boy Scout Rule In Programming and Its Limitations](https://dev.to/anton9/boy-scout-rule-and-its-limitations-5404)
+- [Building a Banking Intelligence System: Transforming Customer Data for Insights](https://dev.to/apcodesphere/building-a-banking-intelligence-system-transforming-customer-data-for-insights-5h5e)
+- [Top 10 Alternatives to Next.js in 2025](https://dev.to/sovannaro/top-10-alternatives-to-nextjs-in-2025-57kc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
