@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Agentic Code Demo](https://dev.to/vijaykodam/claude-code-agentic-code-demo-1n1c)
-- [A Beginner’s Guide to Drag-and-Drop with DnD Kit in React](https://dev.to/kelseyroche/a-beginners-guide-to-drag-and-drop-with-dnd-kit-in-react-5hfe)
-- [Discover the power of microfrontends: A revolution in frontend development](https://dev.to/darge98/discover-the-power-of-microfrontends-a-revolution-in-frontend-development-33he)
-- [[SQL] Essential Terms in the Relational Database Model and Characteristics of a relation](https://dev.to/kitco/sql-essential-terms-in-the-relational-database-model-and-characteristics-of-a-relation-1cmj)
-- [Hypothesis Testing; why and when to use.](https://dev.to/kelvin_munene/hypothesis-testing-why-and-when-to-use-if5)
+- [Zero Trust at the Edge &lpar;part 4&rpar;](https://dev.to/tmountjr/zero-trust-at-the-edge-part-4-3b8g)
+- [Neo AI: Your Intelligent Linux Terminal Companion](https://dev.to/vasco0x4_85/neo-ai-your-intelligent-linux-terminal-companion-2l3e)
+- [🚀 Setting up a Node.js API](https://dev.to/micaelmi/setting-up-a-nodejs-api-90j)
+- [Angular Konami Service](https://dev.to/mrgrigri/angular-konami-service-2fjc)
+- [Data oriented python](https://dev.to/kristofbcoding/data-oriented-python-3m25)
 <!-- BLOG-POST-LIST:END -->
 
 ---
