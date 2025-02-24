@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Talos Linux: The Kubernetes OS That’s Changing the Game &lpar;and Why You Should Care&rpar;](https://dev.to/binyam/talos-linux-the-kubernetes-os-thats-changing-the-game-and-why-you-should-care-462k)
-- [API Versioning in .NET 8](https://dev.to/hilman_karyadi_39272fd379/api-versioning-in-net-8-3ao4)
-- [Introduction to Vertical AI Agents](https://dev.to/markfreedman/introduction-to-vertical-ai-agents-mnl)
-- [Projeção de conteúdo em Angular](https://dev.to/brunoredes/projecao-de-conteudo-em-angular-fmg)
-- [Bridge Pattern in Java](https://dev.to/mspilari/bridge-pattern-in-java-ngm)
+- [Understanding Angular Ahead-of-Time &lpar;AOT&rpar; Compilation](https://dev.to/this-is-angular/understanding-angular-ahead-of-time-aot-compilation-2m7p)
+- [✨ Module Bundlers, Demystified: What You Actually Need to Know](https://dev.to/_ndeyefatoudiop/module-bundlers-demystified-what-you-actually-need-to-know-1bc4)
+- [Python Loops: A Complete Guide](https://dev.to/mike-vincent/python-loops-a-complete-guide-4l24)
+- [Advanced React Hooks: Custom Hooks and Performance Optimization](https://dev.to/johnschibelli/advanced-react-hooks-custom-hooks-and-performance-optimization-21nl)
+- [Build Your Own Smart Motion Detector That Actually Works! &lpar;ESP32 + PIR Tutorial&rpar;](https://dev.to/supermnr/build-your-own-smart-motion-detector-that-actually-works-esp32-pir-tutorial-1i8n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
