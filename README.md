@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Testing APIs with Chaos Mode: A Comprehensive Guide to Error Handling](https://dev.to/getambassador2024/testing-apis-with-chaos-mode-a-comprehensive-guide-to-error-handling-29gk)
-- [The Lost Temple of Eldoria](https://dev.to/s_r_i/the-lost-temple-of-eldoria-3n4)
-- [a fresher expecting a good future.](https://dev.to/chotu_dev/a-fresher-expecting-a-good-future-3k6i)
-- [Bippy, a toolkit to hack into react internals.](https://dev.to/ramunarasinga-11/bippy-a-toolkit-to-hack-into-react-internals-2a11)
-- [Exploring Nau Engine codebase: pt.2](https://dev.to/pvsdev/exploring-nau-engine-codebase-pt2-1me8)
+- [Database Security Made Simple: Essential Practices](https://dev.to/dbvismarketing/database-security-made-simple-essential-practices-3pf6)
+- [Building a JS pytorch clone &lpar;autograd&rpar;](https://dev.to/ndesmic/building-a-js-pytorch-clone-autograd-4ipg)
+- [Unlocking Modern Web Security: Top 5 Cutting-Edge Solutions You Need to Know](https://dev.to/mpoiiii/unlocking-modern-web-security-top-5-cutting-edge-solutions-you-need-to-know-4cik)
+- [Intro With Objects &amp; Java.](https://dev.to/vasutamil19/intro-with-objects-java-aei)
+- [Understanding Vue’s Virtual DOM](https://dev.to/jacobandrewsky/understanding-vues-virtual-dom-108p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
