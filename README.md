@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Database Security Made Simple: Essential Practices](https://dev.to/dbvismarketing/database-security-made-simple-essential-practices-3pf6)
-- [Building a JS pytorch clone &lpar;autograd&rpar;](https://dev.to/ndesmic/building-a-js-pytorch-clone-autograd-4ipg)
-- [Unlocking Modern Web Security: Top 5 Cutting-Edge Solutions You Need to Know](https://dev.to/mpoiiii/unlocking-modern-web-security-top-5-cutting-edge-solutions-you-need-to-know-4cik)
-- [Intro With Objects &amp; Java.](https://dev.to/vasutamil19/intro-with-objects-java-aei)
-- [Understanding Vue’s Virtual DOM](https://dev.to/jacobandrewsky/understanding-vues-virtual-dom-108p)
+- [Java 23: Unnamed Patterns and Variables](https://dev.to/myexamcloud/java-23-unnamed-patterns-and-variables-4d3e)
+- [Top 18 Educational Tech Startups Disrupting the Academic Landscape in Africa 2025](https://dev.to/nettribe/top-18-educational-tech-startups-disrupting-the-academic-landscape-in-africa-2025-no4)
+- [Day26 - Searching in java: &lpar;Linear Search or &lpar;Sequential Search in Java&rpar;](https://dev.to/reegan/day26-searching-in-java-linear-search-sequential-search-in-java-5ah3)
+- [Building a Blog Application with React and Tailwind CSS](https://dev.to/rowsanali/building-a-blog-application-with-react-and-tailwind-css-1h20)
+- [Signals in Angular: A New Reactive Approach](https://dev.to/renukapatil/signals-in-angular-a-new-reactive-approach-29j9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
