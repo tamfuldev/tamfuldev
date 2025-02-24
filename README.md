@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Automation and Scripting: Leveraging Residential IPs for Automated Web Tasks and Data Extraction](https://dev.to/98ip/automation-and-scripting-leveraging-residential-ips-for-automated-web-tasks-and-data-extraction-2dfb)
-- [AWS Serverless: Intelligent Prompt Routing in Amazon Bedrock – Part 1 &lpar;Using AWS Console&rpar;](https://dev.to/bhatiagirish/aws-serverless-intelligent-prompt-routing-in-amazon-bedrock-part-1-using-aws-console-bb0)
-- [How to Replace Lost KeyPair to EC2 Instance](https://dev.to/aye_nyeinsan_rubi/how-to-replace-lost-keypair-to-ec2-instance-552h)
-- [Understanding Singly and Doubly Linked Lists with Real-Life Examples and JavaScript Code](https://dev.to/md_amran_f61f217e7988d5c/understanding-singly-and-doubly-linked-lists-with-real-life-examples-and-javascript-code-327g)
-- [How to do binary search for Ruby&#39;s array by #bsearch](https://dev.to/kevinluo201/how-to-do-binary-search-for-rubys-array-by-bsearch-336g)
+- [A Beginner&#39;s Guide to C# Programming](https://dev.to/million_formula_3be3d915d/a-beginners-guide-to-c-programming-1li3)
+- [Guardius and OWASP ZAP: Boosting Web Application Security with Comprehensive Scanning](https://dev.to/guardius/guardius-and-owasp-zap-boosting-web-application-security-with-comprehensive-scanning-44fi)
+- [Hypothesis Testing: Purpose, Importance, and Applications](https://dev.to/sum_byron/hypothesis-testing-purpose-importance-and-applications-1nim)
+- [Taking pretty printing of logs to the next level with LogLayer](https://dev.to/theogravity/taking-pretty-printing-of-logs-to-the-next-level-with-loglayer-1nnp)
+- [Jekyll Github Pages Website](https://dev.to/anusree6154s/jekyll-github-pages-website-4poh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
