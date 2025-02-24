@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Akio&#39;s Presale is Live: How to Get in Early on the Future of Crypto Entertainment](https://dev.to/lacrymosatech/akios-presale-is-live-how-to-get-in-early-on-the-future-of-crypto-entertainment-1lg8)
-- [The Business Case for Rigorous Mobile App Testing](https://dev.to/radha_4c842d8e4362a7cdd9c/the-business-case-for-rigorous-mobile-app-testing-3dh5)
-- [Ai Agent Patterns with Spring AI](https://dev.to/lucasnscr/ai-agent-patterns-with-spring-ai-43gl)
-- [Overview Description](https://dev.to/reii0x0/overview-description-563a)
-- [Symfony Station Communiqué — 21 February 2025 — A look at Symfony, Drupal, PHP, and other programming news!](https://dev.to/reubenwalker64/symfony-station-communique-21-february-2025-a-look-at-symfony-drupal-php-and-other-1koh)
+- [Automation and Scripting: Leveraging Residential IPs for Automated Web Tasks and Data Extraction](https://dev.to/98ip/automation-and-scripting-leveraging-residential-ips-for-automated-web-tasks-and-data-extraction-2dfb)
+- [AWS Serverless: Intelligent Prompt Routing in Amazon Bedrock – Part 1 &lpar;Using AWS Console&rpar;](https://dev.to/bhatiagirish/aws-serverless-intelligent-prompt-routing-in-amazon-bedrock-part-1-using-aws-console-bb0)
+- [How to Replace Lost KeyPair to EC2 Instance](https://dev.to/aye_nyeinsan_rubi/how-to-replace-lost-keypair-to-ec2-instance-552h)
+- [Understanding Singly and Doubly Linked Lists with Real-Life Examples and JavaScript Code](https://dev.to/md_amran_f61f217e7988d5c/understanding-singly-and-doubly-linked-lists-with-real-life-examples-and-javascript-code-327g)
+- [How to do binary search for Ruby&#39;s array by #bsearch](https://dev.to/kevinluo201/how-to-do-binary-search-for-rubys-array-by-bsearch-336g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
