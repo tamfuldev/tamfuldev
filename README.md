@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek&#39;s Breakthrough: Challenging the AI Landscape 🚀](https://dev.to/lorebrada00/deepseeks-breakthrough-challenging-the-ai-landscape-43n6)
-- [¿Qué es Incogni? Elimina tus datos personales: Opinión, afiliados y usos](https://dev.to/angel_rojas_6904bae237a0d/que-es-incogni-elimina-tus-datos-personales-opinion-afiliados-y-usos-53p4)
-- [Nuxt 3 Deployment: Automating Environment-Specific Builds with GitHub Actions](https://dev.to/frozer/nuxt-3-deployment-automating-environment-specific-builds-with-github-actions-31h4)
-- [JavaScript](https://dev.to/caglar_bulat/javascript-19a8)
-- [Leveraging The Power Of Iteration Using Python Data Model](https://dev.to/noble47/leveraging-the-power-of-iteration-using-python-data-model-e3k)
+- [Akio&#39;s Presale is Live: How to Get in Early on the Future of Crypto Entertainment](https://dev.to/lacrymosatech/akios-presale-is-live-how-to-get-in-early-on-the-future-of-crypto-entertainment-1lg8)
+- [The Business Case for Rigorous Mobile App Testing](https://dev.to/radha_4c842d8e4362a7cdd9c/the-business-case-for-rigorous-mobile-app-testing-3dh5)
+- [Ai Agent Patterns with Spring AI](https://dev.to/lucasnscr/ai-agent-patterns-with-spring-ai-43gl)
+- [Overview Description](https://dev.to/reii0x0/overview-description-563a)
+- [Symfony Station Communiqué — 21 February 2025 — A look at Symfony, Drupal, PHP, and other programming news!](https://dev.to/reubenwalker64/symfony-station-communique-21-february-2025-a-look-at-symfony-drupal-php-and-other-1koh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
