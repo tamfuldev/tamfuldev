@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CodePipeline EC2 Action: Simplify your EC2 application deployment pipeline by 90%!](https://dev.to/aws-builders/simplify-your-ec2-application-deployment-pipeline-by-90-2mbk)
-- [Top 5 C# PPT Libraries .NET Developers Should Be Familiar With](https://dev.to/xeshan6981/top-5-c-ppt-libraries-net-developers-should-be-familiar-with-2ehe)
-- [What is a Kafka Consumer Group?](https://dev.to/clasnake/what-is-a-kafka-consumer-group-22bk)
-- [My Journey Learning CSS - Styling Lists, Creating Navbars, and Understanding Overflow🚀 &lpar;Day-13&rpar;](https://dev.to/angshu/my-journey-learning-css-styling-lists-creating-navbars-and-understanding-overflow-day-13-4dai)
-- [Game Testing Mastery: A Comprehensive Guide to Game Testing Life Cycle](https://dev.to/berthaw82414312/game-testing-mastery-a-comprehensive-guide-to-game-testing-life-cycle-13o3)
+- [Essential First Steps for Unit Testing in C#](https://dev.to/canro91/essential-first-steps-for-unit-testing-in-c-2m73)
+- [History of Laravel: How Laravel Started and Where It Stands Today](https://dev.to/ehtesham_ali_abc367f36a5b/history-of-laravel-how-laravel-started-and-where-it-stands-today-236n)
+- [Host a web application with Azure App Service](https://dev.to/essy/host-a-web-application-with-azure-app-service-iml)
+- [What Is IT Asset Lifecycle Management?](https://dev.to/emily_assetloom/what-is-it-asset-lifecycle-management-ojm)
+- [How to Install Node.js: A Step-by-Step Guide](https://dev.to/surendra_sahu_dbf30c18278/how-to-install-nodejs-a-step-by-step-guide-3ckf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
