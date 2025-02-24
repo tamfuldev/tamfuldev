@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How and when to use JavaScript arrow functions](https://dev.to/logrocket/how-and-when-to-use-javascript-arrow-functions-2gbg)
-- [I Don’t Trust JavaScript. Here’s Why console.log&lpar;&quot;Hello&quot;&rpar; Returned undefined](https://dev.to/byte-sized-news/i-dont-trust-javascript-heres-why-consoleloghello-returned-undefined-3cam)
-- [Creating a Windows Virtual Machine in the Azure Portal and connecting to it through RDP.](https://dev.to/nonny/creating-a-windows-virtual-machine-in-the-azure-portal-and-connecting-to-it-through-rdp-153g)
-- [How to Host a Static Website on Azure Blob Storage.](https://dev.to/nonny/how-to-host-a-static-website-on-azure-blob-storage-1gn7)
-- [Comprehensive Guide to Solidity: From Beginner to Expert](https://dev.to/ajtech0001/comprehensive-guide-to-solidity-from-beginner-to-expert-5b44)
+- [🍽️ Obsidian: Restaurantes](https://dev.to/oscareduardolp6/obsidian-restaurantes-28nm)
+- [🍽️ Obsidian: Restaurant&#39;s rating](https://dev.to/oscareduardolp6/obsidian-restaurants-rating-3fcb)
+- [Understanding MS Rules Engine In-Built Post Rule Actions — Part 4](https://dev.to/vamsidogiparthi/understanding-ms-rules-engine-in-built-post-rule-actions-part-4-3m66)
+- [Essential Git Commands Every Developer Should Know](https://dev.to/purushoth_26/essential-git-commands-every-developer-should-know-36gb)
+- [Typescript interfaces vs types](https://dev.to/rem0nfawzi/typescript-interfaces-vs-type-alias-bpk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
