@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What is DevOps? A Beginner’s Guide to DevOps Culture &amp; Practices](https://dev.to/yash_sonawane25/what-is-devops-a-beginners-guide-to-devops-culture-practices-498l)
-- [Develop a &quot;Multi-agent supervisor&quot; using langgraph4j &amp; langchain4j](https://dev.to/bsorrentino/develop-a-multi-agent-supervisor-using-langgraph4j-langchain4j-24mc)
-- [Automating an Open Source Project with GitHub Actions](https://dev.to/lechnerc77/automating-an-open-source-project-with-github-actions-l0e)
-- [Why Copying Tech Giant’s IDPs Dooms Your Platform Team &lpar;And How to Build What Developers Actually Need&rpar;](https://dev.to/naveens16/why-copying-tech-giants-idps-dooms-your-platform-team-and-how-to-build-what-developers-actually-57fb)
-- [🚀 15 Laravel Design Patterns for Peak Performance, Scalability &amp; Efficiency](https://dev.to/poovarasu/15-laravel-design-patterns-for-peak-performance-scalability-efficiency-4nei)
+- [Top Hacking Books for 2025 &lpar;plus Resources&rpar; — @verylazytech](https://dev.to/verylazytech/top-hacking-books-for-2025-plus-resources-verylazytech-1cbn)
+- [Hidden Project Listing Strategy That’s Disrupting the Tech World!](https://dev.to/resource_bunk_1077cab07da/hidden-project-listing-strategy-thats-disrupting-the-tech-world-3fh5)
+- [Best Practices for Monetizing AI Successfully](https://dev.to/dylan_frankcom_5d6a31e123/best-practices-for-monetizing-ai-successfully-356n)
+- [How to Set Up Docker for Your Next Microservice Project 🚀, Microservices Development with Docker 🐳, Containerization Made Easy 💻](https://dev.to/akashaman/how-to-set-up-docker-for-your-next-microservice-project-microservices-development-with-docker--40h)
+- [count of letter](https://dev.to/neelakandan_ravi_2000/count-of-letter-56e8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
