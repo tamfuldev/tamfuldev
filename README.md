@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [TargetJS: A New Paradigm in Front-End Development](https://dev.to/ahmad_wasfi_f88513699c56d/targetjs-a-new-paradigm-in-front-end-development-2g1h)
-- [Hey devs! Who&#39;s ready to build an AI-powered SaaS platform with React, ShadCN, Appwrite, &amp; Clerk?](https://dev.to/sabihasamha22/-9k4)
-- [Jam.dev – An Effective Tool for Bug Reproduction](https://dev.to/namnguyenthanhwork/jamdev-an-effective-tool-for-bug-reproduction-1979)
-- [Sentiment Analysis on IMDB Movie Reviews Using BERT](https://dev.to/sreeni5018/sentiment-analysis-on-imdb-movie-reviews-using-bert-377m)
-- [Strapi: El CMS Headless que Revoluciona tu Desarrollo Web - Ventajas, Casos de Uso y Stacks Ideales 🚀](https://dev.to/lewiz17/strapi-el-cms-headless-que-revoluciona-tu-desarrollo-web-ventajas-casos-de-uso-y-stacks-ideales-35j9)
+- [AS Backend Dev](https://dev.to/anjali_gurjar_dff81513867/as-backend-dev-kfo)
+- [React v19 Sample Code Examples](https://dev.to/vteacher/react-v19-sample-code-examples-27jj)
+- [Mastering Python: A Comprehensive Guide](https://dev.to/million_formula_3be3d915d/mastering-python-a-comprehensive-guide-529g)
+- [Summer Web Internship: Low-JavaScript Development for 🧶Knitters/Crocheters &lpar;US Only&rpar;](https://dev.to/amigurumi_blhaj/summer-web-internship-low-javascript-development-for-knitterscrocheters-us-only-5504)
+- [Sidebar Layout Design in HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/sidebar-layout-design-in-harmonyos-next-1g51)
 <!-- BLOG-POST-LIST:END -->
 
 ---
