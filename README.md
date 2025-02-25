@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Automating your workflow with GitHub Actions](https://dev.to/donnyc1/automating-your-workflow-with-github-actions-3o09)
-- [The Role of GitHub Copilot Agent Mode and Traditional Copilot in Accelerating Software Development for Large-Scale Applications](https://dev.to/marufhossain/the-role-of-github-copilot-agent-mode-and-traditional-copilot-in-accelerating-software-development-kel)
-- [Analyze Objects in S3 Bucket to Discover Sensitive Data Using Amazon Macie](https://dev.to/aws-builders/analyze-objects-in-s3-bucket-to-discover-sensitive-data-using-amazon-macie-2ga4)
-- [AI PCs For Homes: Your Family’s New Creative Superpower](https://dev.to/jonathanjone/ai-pcs-for-homes-your-familys-new-creative-superpower-309j)
-- [Are You Following These 6 Best Practices for Kubernetes Resource Management?](https://dev.to/mehul_budasana/are-you-following-these-6-best-practices-for-kubernetes-resource-management-1456)
+- [What is DevOps? A Beginner’s Guide to DevOps Culture &amp; Practices](https://dev.to/yash_sonawane25/what-is-devops-a-beginners-guide-to-devops-culture-practices-498l)
+- [Develop a &quot;Multi-agent supervisor&quot; using langgraph4j &amp; langchain4j](https://dev.to/bsorrentino/develop-a-multi-agent-supervisor-using-langgraph4j-langchain4j-24mc)
+- [Automating an Open Source Project with GitHub Actions](https://dev.to/lechnerc77/automating-an-open-source-project-with-github-actions-l0e)
+- [Why Copying Tech Giant’s IDPs Dooms Your Platform Team &lpar;And How to Build What Developers Actually Need&rpar;](https://dev.to/naveens16/why-copying-tech-giants-idps-dooms-your-platform-team-and-how-to-build-what-developers-actually-57fb)
+- [🚀 15 Laravel Design Patterns for Peak Performance, Scalability &amp; Efficiency](https://dev.to/poovarasu/15-laravel-design-patterns-for-peak-performance-scalability-efficiency-4nei)
 <!-- BLOG-POST-LIST:END -->
 
 ---
