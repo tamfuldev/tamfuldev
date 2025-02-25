@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AS Backend Dev](https://dev.to/anjali_gurjar_dff81513867/as-backend-dev-kfo)
-- [React v19 Sample Code Examples](https://dev.to/vteacher/react-v19-sample-code-examples-27jj)
-- [Mastering Python: A Comprehensive Guide](https://dev.to/million_formula_3be3d915d/mastering-python-a-comprehensive-guide-529g)
-- [Summer Web Internship: Low-JavaScript Development for 🧶Knitters/Crocheters &lpar;US Only&rpar;](https://dev.to/amigurumi_blhaj/summer-web-internship-low-javascript-development-for-knitterscrocheters-us-only-5504)
-- [Sidebar Layout Design in HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/sidebar-layout-design-in-harmonyos-next-1g51)
+- [[Boost]](https://dev.to/ocean3005/-29b1)
+- [Market Trends And Outlook For WPC Door Frames](https://dev.to/monica6656/market-trends-and-outlook-for-wpc-door-frames-fch)
+- [Running Microservices with Docker and Kubernetes](https://dev.to/swap11/running-microservices-with-docker-and-kubernetes-2h07)
+- [Unlocking Application Security: The Impact of AI on DAST Teams and Dynamic Testing](https://dev.to/orhan_yildirim_5d88bf1e81/unlocking-application-security-the-impact-of-ai-on-dast-teams-and-dynamic-testing-450h)
+- [AI in Vulnerability Scanners: Transforming Cybersecurity Threat Detection](https://dev.to/orhan_yildirim_5d88bf1e81/ai-in-vulnerability-scanners-transforming-cybersecurity-threat-detection-2nao)
 <!-- BLOG-POST-LIST:END -->
 
 ---
