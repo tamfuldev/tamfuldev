@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Boost Your Productivity with These Powerful Jira Integrations](https://dev.to/tmetric_timer_2b3a575fc8b/boost-your-productivity-with-these-powerful-jira-integrations-251k)
-- [Selecting the Right Website Speed Optimization Tools](https://dev.to/kapusto/selecting-the-right-website-speed-optimization-tools-3c5m)
-- [New Year, New Game Engine - Nikola Engine Devlog 0](https://dev.to/frodo_alsaka/new-year-new-engine-nikola-devlog-0-4ik)
-- [How to Win Your First Hackathon: A Complete Guide](https://dev.to/imhardik/how-to-win-your-first-hackathon-a-complete-guide-4dkl)
-- [Minswap in 2025: Evaluating Its Role in Cardano’s Decentralized Exchange Landscape](https://dev.to/bob_adventures/minswap-in-2025-evaluating-its-role-in-cardanos-decentralized-exchange-landscape-n22)
+- [Optimize Your Development Productivity with Devek.](https://dev.to/devek-ai/-51o4)
+- [To a React naysayer](https://dev.to/mshertzberg/to-a-react-naysayer-4mmp)
+- [Programming &amp; Programmer - প্রোগ্রামিং ও প্রোগ্রামারের জীবন 💻](https://dev.to/programmerhasan/programming-programmer-prograamin-o-prograamaarer-jiibn-122b)
+- [Dive into APIs: REST, SOAP, GraphQL &amp; WebSocket](https://dev.to/gazi2050/dive-into-apis-rest-soap-graphql-websocket-k1)
+- [Flutter MediaPlayer](https://dev.to/ibrahimsezer/flutter-mediaplayer-cf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
