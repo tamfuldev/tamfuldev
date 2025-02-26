@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create an Interactive Dropdown Menu with Tailwind CSS &amp; JavaScript](https://dev.to/rowsanali/how-to-create-an-interactive-dropdown-menu-with-tailwind-css-javascript-1cja)
-- [Join Future’s First Writing Challenge!](https://dev.to/futureteam/join-futures-first-writing-challenge-4bj4)
-- [Managing My AWS Certified Status](https://dev.to/aws-builders/managing-my-aws-certified-status-463f)
-- [How to Build a Retrieval Augmented Generation &lpar;RAG&rpar; Chatbot with LangChain, Milvus, Anthropic Claude 3 Sonnet, and mistral-embed](https://dev.to/zilliz/how-to-build-a-retrieval-augmented-generation-rag-chatbot-with-langchain-milvus-anthropic-3cp9)
-- [**Top 10 Common Cybersecurity Mistakes Developers Make**](https://dev.to/programmerhasan/top-10-common-cybersecurity-mistakes-developers-make-d5d)
+- [Why Use Object Storage for Large Files in System Design?](https://dev.to/devcorner/why-use-object-storage-for-large-files-in-system-design-4g53)
+- [Find The Admin Panel](https://dev.to/dv64/find-the-admin-panel-524b)
+- [Leetcode - 151. Reverse Words in a String](https://dev.to/rakeshreddy512/leetcode-151-reverse-words-in-a-string-2deh)
+- [The Convergence of AI and Cloud Computing Transforming the Digital Landscape](https://dev.to/max_services/the-convergence-of-ai-and-cloud-computing-transforming-the-digital-landscape-905)
+- [Why You Shouldn&#39;t Use DynamoDB Filter Expressions And What To Use Instead](https://dev.to/urielbitton/why-you-shouldnt-use-dynamodb-filter-expressions-and-what-to-use-instead-4dj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
