@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Call-to-Actions Done Right: The Ultimate CTA Guide for More Engagement](https://dev.to/per-starke-642/call-to-actions-done-right-the-ultimate-cta-guide-for-more-engagement-2no2)
-- [ORM &lpar;Object Relational Mapper&rpar;](https://dev.to/yuripeixinho/orm-object-relational-mapper-5fo7)
-- [Princípio DRY &lpar;Don&#39;t Repeat Yourself](https://dev.to/yuripeixinho/principio-dry-dont-repeat-yourself-24d7)
-- [Deploying a Serverless Architecture with REST API using API Gateway, Lambda, DynamoDB, and Terraform](https://dev.to/chinmay13/deploying-a-serverless-architecture-with-rest-api-using-api-gateway-lambda-dynamodb-and-terraform-4g57)
-- [Building a Real-Time Weather Dashboard with OpenWeather API and Django](https://dev.to/kihuni/building-a-real-time-weather-dashboard-with-openweather-api-and-django-35c5)
+- [Migrating from Create React App to Vite &lpar;with a bonus to Vitest&rpar;](https://dev.to/lucasmelo/migrating-from-create-react-app-to-vite-with-a-bonus-to-vitest-5hi7)
+- [How We Turned Bootstrapping into an Advantage](https://dev.to/lonti-davidb/how-we-turned-bootstrapping-into-an-advantage-3hl5)
+- [JSON Web Tokens &lpar;JWT&rpar; in Web Development](https://dev.to/aryan015/json-web-tokens-jwt-in-web-development-4f7l)
+- [Universal approach to integrate OAuth 2.0 and OpenID Connect into web apps and backends](https://dev.to/mechcloud_academy/universal-approach-to-integrate-oauth-20-and-openid-connect-into-web-apps-and-backends-33ol)
+- [PS1 Fear Meter](https://dev.to/alansdead/ps1-fear-meter-2nod)
 <!-- BLOG-POST-LIST:END -->
 
 ---
