@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [#28.3 Part 3/3 Basics of Software Architecture and Design Patterns](https://dev.to/flnzba/283-part-33-basics-of-software-architecture-and-design-patterns-436d)
-- [Talk 2 AI Agent Using LOLANG: The Future of AI-to-AI Communication 🤖💬](https://dev.to/loaiabdalslam/talk-2-ai-agent-using-lolang-the-future-of-ai-to-ai-communication-2j1e)
-- [Vaadin Flow for AdminUI](https://dev.to/mrkandreev/vaadin-flow-for-adminui-b8j)
-- [phy-v1](https://dev.to/frosty_fucker_7d06058f3d8/phy-v1-1a0g)
-- [Essential React Hooks &amp; Practical Use Cases 🎣](https://dev.to/saida_lachgar/react-hooks-beginners-quick-guide-3f5a)
+- [Logging in Spring Boot: A Comprehensive Guide to Centralized Logging&lpar; Using Docker &rpar;- PART 2](https://dev.to/devcorner/logging-in-spring-boot-a-comprehensive-guide-to-centralized-logging-using-docker-part-2-1da8)
+- [Reinventando a Roda: Criando uma Rede Neural com csharp](https://dev.to/angelobelchior/reinventando-a-roda-criando-uma-rede-neural-com-csharp-3mg3)
+- [AI is better at writing code than reading code. Here’s why.](https://dev.to/everett_butler_709956f108/ai-is-better-at-writing-code-than-reading-code-heres-why-2nm1)
+- [&quot;Unlocking Long-Context Decoding: The Future of Language Models Revealed!&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-long-context-decoding-the-future-of-language-models-revealed-1g4c)
+- [Wishlist: Transform Idea’s into Awesome Stuff](https://dev.to/bartohm/wishlist-transform-ideas-into-awesome-stuff-5b6f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
