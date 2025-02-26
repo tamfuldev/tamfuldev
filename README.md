@@ -16,7 +16,7 @@
 # Latest stack oveflow activity
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><tr><td>How to install runkit7?</td><td>https://stackoverflow.com/questions/79469776/how-to-install-runkit7</td></tr><tr><td>Send Email - Via JS and PHP [duplicate]</td><td>https://stackoverflow.com/questions/79469705/send-email-via-js-and-php</td></tr><tr><td>AWS Linux Web Server SeedDMS installation Error [closed]</td><td>https://stackoverflow.com/questions/79469663/aws-linux-web-server-seeddms-installation-error</td></tr><tr><td>Unable to run a Larvel Project Locally [closed]</td><td>https://stackoverflow.com/questions/79469474/unable-to-run-a-larvel-project-locally</td></tr><tr><td>How to replace a class with a custom class in php? [duplicate]</td><td>https://stackoverflow.com/questions/79469412/how-to-replace-a-class-with-a-custom-class-in-php</td></tr><!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:START --><tr><td>How to resolve module version mismatch for pecl extension?</td><td>https://stackoverflow.com/questions/79469924/how-to-resolve-module-version-mismatch-for-pecl-extension</td></tr><tr><td>How to install runkit7?</td><td>https://stackoverflow.com/questions/79469776/how-to-install-runkit7</td></tr><tr><td>Send Email - Via JS and PHP [duplicate]</td><td>https://stackoverflow.com/questions/79469705/send-email-via-js-and-php</td></tr><tr><td>AWS Linux Web Server SeedDMS installation Error [closed]</td><td>https://stackoverflow.com/questions/79469663/aws-linux-web-server-seeddms-installation-error</td></tr><tr><td>Unable to run a Larvel Project Locally [closed]</td><td>https://stackoverflow.com/questions/79469474/unable-to-run-a-larvel-project-locally</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 
 ---
