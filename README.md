@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Use Object Storage for Large Files in System Design?](https://dev.to/devcorner/why-use-object-storage-for-large-files-in-system-design-4g53)
-- [Find The Admin Panel](https://dev.to/dv64/find-the-admin-panel-524b)
-- [Leetcode - 151. Reverse Words in a String](https://dev.to/rakeshreddy512/leetcode-151-reverse-words-in-a-string-2deh)
-- [The Convergence of AI and Cloud Computing Transforming the Digital Landscape](https://dev.to/max_services/the-convergence-of-ai-and-cloud-computing-transforming-the-digital-landscape-905)
-- [Why You Shouldn&#39;t Use DynamoDB Filter Expressions And What To Use Instead](https://dev.to/urielbitton/why-you-shouldnt-use-dynamodb-filter-expressions-and-what-to-use-instead-4dj)
+- [Alternative to Ruby&#39;s Monkey Patching](https://dev.to/railsdesigner/alternative-to-rubys-monkey-patching-4i7k)
+- [How to Build a Full Stack Agentic Researcher in 5 Minutes ⚡️⚡️](https://dev.to/copilotkit/how-to-build-a-full-stack-agentic-researcher-in-5-minutes-19dp)
+- [Top 5 Best Looking Weather App in JavaScript with Source Code | HTML, CSS &amp; JavaScript Projects](https://dev.to/vishalkumar1111/top-5-best-looking-weather-app-in-javascript-with-source-code-html-css-javascript-projects-2oid)
+- [Windows Blue screen of death](https://dev.to/asterdev/windows-blue-screen-of-death-4i35)
+- [JavaScript Array Cheat Sheet](https://dev.to/logannford/javascript-array-cheat-sheet-4l3b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
