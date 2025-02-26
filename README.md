@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How To Build A Raw TCP Server Where Every Millisecond Counts.](https://dev.to/sfundomhlungu/how-to-build-a-raw-tcp-server-where-every-millisecond-counts-55lm)
-- [Buffers in Node.js: What They Do &amp; Why You Should Care](https://dev.to/sfundomhlungu/buffers-in-nodejs-what-they-do-why-you-should-care-46p1)
-- [Smart AI Data Compression Breakthrough Cuts Training Costs by 60%](https://dev.to/mikeyoung44/smart-ai-data-compression-breakthrough-cuts-training-costs-by-60-34bf)
-- [Twitter&#39;s Community Notes Match Professional Fact-Checkers with 84% Accuracy, But Work 2.4x Faster](https://dev.to/mikeyoung44/twitters-community-notes-match-professional-fact-checkers-with-84-accuracy-but-work-24x-faster-2bjd)
-- [majority element&lpar;Moore’s Voting Algorithm&rpar;](https://dev.to/neelakandan_ravi_2000/majority-elementmoores-voting-algorithm-2gie)
+- [How an &#39;Add Text Behind Image&#39; App Changed My Life Forever](https://dev.to/codecraffter/how-an-add-text-behind-image-app-changed-my-life-forever-4kmf)
+- [Rsvp website](https://dev.to/klomog_griffin/rsvp-website-5cp6)
+- [RTX 4090 vs RTX 5070 Ti vs RTX 5090 vs RTX 5080](https://dev.to/thekbbohara/rtx-4090-vs-rtx-5070-ti-vs-rtx-5090-vs-rtx-5080-1f00)
+- [Open-Source Testing Tools: Are They Worth It? Pros &amp; Cons Explained](https://dev.to/testwithtorin/open-source-testing-tools-are-they-worth-it-pros-cons-explained-2f3l)
+- [Auto Parts Inventory Management: A Must-Have for Automotive Businesses](https://dev.to/bhavesh_gangani_/auto-parts-inventory-management-a-must-have-for-automotive-businesses-4ok6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
