@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Logging in Spring Boot: A Comprehensive Guide to Centralized Logging&lpar; Using Docker &rpar;- PART 2](https://dev.to/devcorner/logging-in-spring-boot-a-comprehensive-guide-to-centralized-logging-using-docker-part-2-1da8)
-- [Reinventando a Roda: Criando uma Rede Neural com csharp](https://dev.to/angelobelchior/reinventando-a-roda-criando-uma-rede-neural-com-csharp-3mg3)
-- [AI is better at writing code than reading code. Here’s why.](https://dev.to/everett_butler_709956f108/ai-is-better-at-writing-code-than-reading-code-heres-why-2nm1)
-- [&quot;Unlocking Long-Context Decoding: The Future of Language Models Revealed!&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-long-context-decoding-the-future-of-language-models-revealed-1g4c)
-- [Wishlist: Transform Idea’s into Awesome Stuff](https://dev.to/bartohm/wishlist-transform-ideas-into-awesome-stuff-5b6f)
+- [Call-to-Actions Done Right: The Ultimate CTA Guide for More Engagement](https://dev.to/per-starke-642/call-to-actions-done-right-the-ultimate-cta-guide-for-more-engagement-2no2)
+- [ORM &lpar;Object Relational Mapper&rpar;](https://dev.to/yuripeixinho/orm-object-relational-mapper-5fo7)
+- [Princípio DRY &lpar;Don&#39;t Repeat Yourself](https://dev.to/yuripeixinho/principio-dry-dont-repeat-yourself-24d7)
+- [Deploying a Serverless Architecture with REST API using API Gateway, Lambda, DynamoDB, and Terraform](https://dev.to/chinmay13/deploying-a-serverless-architecture-with-rest-api-using-api-gateway-lambda-dynamodb-and-terraform-4g57)
+- [Building a Real-Time Weather Dashboard with OpenWeather API and Django](https://dev.to/kihuni/building-a-real-time-weather-dashboard-with-openweather-api-and-django-35c5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
