@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Optimize Your Development Productivity with Devek.](https://dev.to/devek-ai/-51o4)
-- [To a React naysayer](https://dev.to/mshertzberg/to-a-react-naysayer-4mmp)
-- [Programming &amp; Programmer - প্রোগ্রামিং ও প্রোগ্রামারের জীবন 💻](https://dev.to/programmerhasan/programming-programmer-prograamin-o-prograamaarer-jiibn-122b)
-- [Dive into APIs: REST, SOAP, GraphQL &amp; WebSocket](https://dev.to/gazi2050/dive-into-apis-rest-soap-graphql-websocket-k1)
-- [Flutter MediaPlayer](https://dev.to/ibrahimsezer/flutter-mediaplayer-cf)
+- [How to Create an Interactive Dropdown Menu with Tailwind CSS &amp; JavaScript](https://dev.to/rowsanali/how-to-create-an-interactive-dropdown-menu-with-tailwind-css-javascript-1cja)
+- [Join Future’s First Writing Challenge!](https://dev.to/futureteam/join-futures-first-writing-challenge-4bj4)
+- [Managing My AWS Certified Status](https://dev.to/aws-builders/managing-my-aws-certified-status-463f)
+- [How to Build a Retrieval Augmented Generation &lpar;RAG&rpar; Chatbot with LangChain, Milvus, Anthropic Claude 3 Sonnet, and mistral-embed](https://dev.to/zilliz/how-to-build-a-retrieval-augmented-generation-rag-chatbot-with-langchain-milvus-anthropic-3cp9)
+- [**Top 10 Common Cybersecurity Mistakes Developers Make**](https://dev.to/programmerhasan/top-10-common-cybersecurity-mistakes-developers-make-d5d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
