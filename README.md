@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Ugly Truth - Upscaling Your Databases Doesn&#39;t Always Help](https://dev.to/metis/the-ugly-truth-upscaling-your-databases-doesnt-always-help-50i5)
-- [A STEP BY STEP GUIDE ON HOW TO CREATE A VIRTUAL MACHINE ON MICROSOFT AZURE](https://dev.to/astranan/a-step-by-step-guide-on-how-to-create-a-virtual-machine-on-microsoft-azure-f6l)
-- [Struggling with project management in your dev team? Learn how to streamline workflows, improve collaboration, and boost efficiency with the right strategies. Master project management for development teams and achieve success! #Developers #ProjectManager](https://dev.to/pratham_naik_project_manager/struggling-with-project-management-in-your-dev-team-learn-how-to-streamline-workflows-improve-4de7)
-- [[Boost]](https://dev.to/abdermaiza/-5f95)
-- [Developers love coding, but project management often slows them down. Too many meetings, vague tasks, and unrealistic deadlines create frustration. Want to fix it? Discover how the right approach can make project management effortless! 🚀 Read now!](https://dev.to/pratham_naik_project_manager/developers-love-coding-but-project-management-often-slows-them-down-too-many-meetings-vague-32eb)
+- [How To Build A Raw TCP Server Where Every Millisecond Counts.](https://dev.to/sfundomhlungu/how-to-build-a-raw-tcp-server-where-every-millisecond-counts-55lm)
+- [Buffers in Node.js: What They Do &amp; Why You Should Care](https://dev.to/sfundomhlungu/buffers-in-nodejs-what-they-do-why-you-should-care-46p1)
+- [Smart AI Data Compression Breakthrough Cuts Training Costs by 60%](https://dev.to/mikeyoung44/smart-ai-data-compression-breakthrough-cuts-training-costs-by-60-34bf)
+- [Twitter&#39;s Community Notes Match Professional Fact-Checkers with 84% Accuracy, But Work 2.4x Faster](https://dev.to/mikeyoung44/twitters-community-notes-match-professional-fact-checkers-with-84-accuracy-but-work-24x-faster-2bjd)
+- [majority element&lpar;Moore’s Voting Algorithm&rpar;](https://dev.to/neelakandan_ravi_2000/majority-elementmoores-voting-algorithm-2gie)
 <!-- BLOG-POST-LIST:END -->
 
 ---
