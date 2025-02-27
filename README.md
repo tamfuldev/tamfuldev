@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [wow](https://dev.to/bad0s/wow-240d)
-- [Angular architecture](https://dev.to/antoinedumez/angular-architecture-137b)
-- [RandAugment in PyTorch &lpar;2&rpar;](https://dev.to/hyperkai/randaugment-in-pytorch-2-3lga)
-- [The tools we use inspire the tools we build.](https://dev.to/fmerian/the-tools-we-use-inspire-the-tools-we-build-5147)
-- [RandAugment in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/randaugment-in-pytorch-1-2o90)
+- [🚢 Why &quot;It Works on My Machine&quot; Is No Longer an Excuse – The Power of Docker](https://dev.to/noyandey688/why-it-works-on-my-machine-is-no-longer-an-excuse-the-power-of-docker-3d55)
+- [🚀 Best Architecture for an Angular Project &lpar;Enterprise-Grade&rpar;](https://dev.to/dipakahirav/best-architecture-for-an-angular-project-enterprise-grade-mh3)
+- [Join Trood Open Source!](https://dev.to/trood/join-trood-open-source-ofh)
+- [Desvendando SQL: Trigger](https://dev.to/cristuker/desvendando-sql-trigger-f32)
+- [What is a tiling window manager and how can it change your life as a developer ?](https://dev.to/evk_6713/what-is-a-tiling-window-manager-and-how-can-it-change-your-life-as-a-developer--1768)
 <!-- BLOG-POST-LIST:END -->
 
 ---
