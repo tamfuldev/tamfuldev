@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Create a Animated Counter in Stimulus](https://dev.to/railsdesigner/create-a-animated-counter-in-stimulus-5cea)
-- [Leveraging Python Libraries for Sentiment Analysis in Identifying Ideological and Anti-Semitic Views](https://dev.to/dante_fb3bee27976c839f7e8/leveraging-python-libraries-for-sentiment-analysis-in-identifying-ideological-and-anti-semitic-views-5b97)
-- [The Art of Laravel Models - Get the Most of Them](https://dev.to/varzoeaa/the-art-of-laravel-models-get-the-most-of-them-3geh)
-- [Unlocking Government Efficiency: The AI Software Opportunity](https://dev.to/jetthoughts/unlocking-government-efficiency-the-ai-software-opportunity-43lk)
-- [Mastering System Design: A Roadmap for Software Architects](https://dev.to/bikashdaga/mastering-system-design-a-roadmap-for-software-architects-3gl9)
+- [What They Don’t Tell You About Project Listings Could Change Your Entire Business!](https://dev.to/resource_bunk_1077cab07da/what-they-dont-tell-you-about-project-listings-could-change-your-entire-business-3m96)
+- [From Fun to Frustration: A Lone Wolf in the Open Source World](https://dev.to/darkterminal/from-fun-to-frustration-a-lone-wolf-in-the-open-source-world-57p1)
+- [Is React Native Still Worth Learning in 2025?](https://dev.to/anytechie/is-react-native-still-worth-learning-in-2025-4o5e)
+- [7 API Technologies You Should Abandon in 2025 &lpar;And What to Use Instead!&rpar;](https://dev.to/snappytuts/7-api-technologies-you-should-abandon-in-2025-and-what-to-use-instead-511j)
+- [Building a Lightweight OCR-Powered Receipt Parser](https://dev.to/jjpark987/building-a-lightweight-ocr-powered-receipt-parser-1k21)
 <!-- BLOG-POST-LIST:END -->
 
 ---
