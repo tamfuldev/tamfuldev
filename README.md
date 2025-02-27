@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [System Design for DevOps Engineers](https://dev.to/aws-builders/system-design-for-devops-engineers-45lh)
-- [A Journey through Switches](https://dev.to/dwightjack/a-journey-through-switches-3fdd)
-- [How Event Registration Apps Simplify the Attendee Check-In Process](https://dev.to/saanvipatel099/how-event-registration-apps-simplify-the-attendee-check-in-process-3ce9)
-- [How Do AI Laptops Support a Better Work-Life Balance?](https://dev.to/leoarthur01/how-do-ai-laptops-support-a-better-work-life-balance-3ca1)
-- [Precision Diamond Cutting Blades for Superior Performance](https://dev.to/ukam_industrialsuperhard/precision-diamond-cutting-blades-for-superior-performance-36f)
+- [How to Say &quot;Hello World&quot; in x86 Assembly](https://dev.to/sfundomhlungu/how-to-say-hello-world-in-x86-assembly-2bpm)
+- [📢 Is Your ServiceNow Integration Strategy Up to Date? ServiceNow is a game-changer for ITSM, but are you truly maximizing its potential? Many businesses use ServiceNow daily yet miss out on key integration advantages that could streamline operations.](https://dev.to/sip_mjb/is-your-servicenow-integration-strategy-up-to-date-servicenow-is-a-game-changer-for-itsm-but-pph)
+- [What You Should Know About HTTP/HTTPS Proxy](https://dev.to/swiftproxy_residential/what-you-should-know-about-httphttps-proxy-c16)
+- [Driving Innovation with Data: Certified Full Stack Data Scientist](https://dev.to/maria_mathur/driving-innovation-with-data-certified-full-stack-data-scientist-3pbp)
+- [VicRoads Launches Passkeys with Corbado](https://dev.to/corbado/vicroads-launches-passkeys-with-corbado-116n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
