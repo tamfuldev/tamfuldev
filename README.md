@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Escopos no Kotlin: Controlando Ciclo de Vida e Cancelamento de Corrotinas](https://dev.to/comunidadedevspace/escopos-no-kotlin-controlando-ciclo-de-vida-e-cancelamento-de-corrotinas-142o)
-- [Scopes in Kotlin: Controlling Lifecycle and Cancellation of Coroutines](https://dev.to/comunidadedevspace/scopes-in-kotlin-controlling-lifecycle-and-cancellation-of-coroutines-33nl)
-- [Mastering MySQL Security: Key Steps to Protect Your Database](https://dev.to/dbvismarketing/mastering-mysql-security-key-steps-to-protect-your-database-3anm)
-- [What is the feature of Raspberry Pi?](https://dev.to/sanjaay/what-is-the-feature-of-raspberry-pi-44c7)
-- [The Role of Python in Machine Learning](https://dev.to/rashid_/the-role-of-python-in-machine-learning-2579)
+- [Pull request testing on Kubernetes: vCluster for isolation and costs control](https://dev.to/loft/pull-request-testing-on-kubernetes-vcluster-for-isolation-and-costs-control-4gh6)
+- [The Urgent Need for You to Be Security Conscious](https://dev.to/fobabs/the-urgent-need-for-you-to-be-security-conscious-34in)
+- [🚀 Handle Flutter API Errors Like a Pro in 15 Minutes](https://dev.to/dosenngoding/handle-flutter-api-errors-like-a-pro-in-15-minutes-5150)
+- [Mercury’s Diffusion Language Model Is Better than ChatGPT, Claude, DeepSeek, and Gemini?](https://dev.to/amdadul/mercurys-diffusion-language-model-is-better-than-chatgpt-claude-deepseek-and-gemini-27de)
+- [Model-Based Design for Vehicle-to-Everything &lpar;V2X&rpar; communication](https://dev.to/vivek_patil/model-based-design-for-vehicle-to-everything-v2x-communication-43ej)
 <!-- BLOG-POST-LIST:END -->
 
 ---
