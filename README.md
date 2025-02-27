@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What is Deepseek Flash MLA](https://dev.to/andylawrence/what-is-deepseek-flash-mla-1pkp)
-- [Spring Boot 3.4 application on AWS Lambda- Part 5 Docker Container Image with AWS Serverless Java Container](https://dev.to/aws-heroes/spring-boot-34-application-on-aws-lambda-part-5-docker-container-image-with-aws-serverless-java-15ge)
-- [Styling with the CSS box-shadow property](https://dev.to/logrocket/styling-with-the-css-box-shadow-property-3cfe)
-- [What is the best way to control an authenticated user&#39;s session in a react front-end?](https://dev.to/vitorfav/what-is-the-best-way-to-control-an-authenticated-users-session-in-a-react-front-end-1b7e)
-- [selected button](https://dev.to/hallexxx/selected-button-2acn)
+- [wow](https://dev.to/bad0s/wow-240d)
+- [Angular architecture](https://dev.to/antoinedumez/angular-architecture-137b)
+- [RandAugment in PyTorch &lpar;2&rpar;](https://dev.to/hyperkai/randaugment-in-pytorch-2-3lga)
+- [The tools we use inspire the tools we build.](https://dev.to/fmerian/the-tools-we-use-inspire-the-tools-we-build-5147)
+- [RandAugment in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/randaugment-in-pytorch-1-2o90)
 <!-- BLOG-POST-LIST:END -->
 
 ---
