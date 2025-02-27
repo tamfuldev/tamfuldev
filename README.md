@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I find this topic very useful, check it out too !](https://dev.to/kelvincode1234/i-find-this-topic-very-useful-check-it-out-too--ie4)
-- [Dicas sobre GitHub](https://dev.to/vivianbr/dicas-sobre-github-fkl)
-- [GPT 4.5 Release](https://dev.to/ben/gpt-45-release-11i2)
-- [Software Engineering: Slow is Smooth, Smooth is Fast](https://dev.to/johnai/software-engineering-slow-is-smooth-smooth-is-fast-4gl1)
-- [Smart Defaults in Ruby: Setting Method Arguments Dynamically](https://dev.to/jessalejo/smart-defaults-in-ruby-setting-method-arguments-dynamically-3b15)
+- [How to Learn React: A Guide for Aspiring Developers](https://dev.to/srdan_borovi_584c6b1d773/how-to-learn-react-a-guide-for-aspiring-developers-27kf)
+- [AI-Generated Shader Experiments: A Journey](https://dev.to/benny00100/ai-generated-shader-experiments-a-journey-1pog)
+- [Best Websites to Learn Full-Stack Development](https://dev.to/srdan_borovi_584c6b1d773/best-websites-to-learn-full-stack-development-1l29)
+- [I Learned the Astro Framework in 3 Hours: A Journey from Next.js to Astro with TailwindCSS V4 🚀](https://dev.to/mrsupercraft/i-learned-the-astro-framework-in-3-hours-a-journey-from-nextjs-to-astro-with-tailwindcss-v4-4aei)
+- [Securing Flight Paths: A Developer&#39;s Guide to Mitigating DDoS Attacks in Aviation](https://dev.to/shyamavni/securing-flight-paths-a-developers-guide-to-mitigating-ddos-attacks-in-aviation-2h3p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
