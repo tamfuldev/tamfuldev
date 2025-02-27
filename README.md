@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Transition from IT Support to Cybersecurity: A Complete Career Guide](https://dev.to/dumebii/how-to-transition-from-it-support-to-cybersecurity-a-complete-career-guide-9nk)
-- [Database Verification Success](https://dev.to/oreki04/database-verification-success-2j7h)
-- [No Database? No Problem! Build Local Mock APIs with JSON Server](https://dev.to/auden/no-database-no-problem-build-local-mock-apis-with-json-server-5gci)
-- [Unlocking the Future of SEO: How SEO AI is Transforming Digital Marketing](https://dev.to/juddiy/unlocking-the-future-of-seo-how-seo-ai-is-transforming-digital-marketing-4pg7)
-- [Summary: Amazon Unveils Alexa+ AI Assistant](https://dev.to/wearetechi/summary-amazon-unveils-alexa-ai-assistant-3hi6)
+- [How to Become a Freelance Technical Writer in 2025 &lpar;Step-by-Step Guide&rpar;](https://dev.to/raajaryan/how-to-become-a-freelance-technical-writer-in-2025-step-by-step-guide-1c8i)
+- [How Python Powers AI: A Beginner&#39;s Guide to Machine Learning](https://dev.to/aditya_tripathi_17ffee7f5/how-python-powers-ai-a-beginners-guide-to-machine-learning-58kp)
+- [Chrome Extensions That’ll Transform Chaos Into Supercharged Productivity](https://dev.to/aigurux/supercharge-your-workflow-with-these-must-have-ai-chrome-extensions-4ede)
+- [animated button](https://dev.to/hallexxx/animated-button-1a0a)
+- [Animated button fusion](https://dev.to/hallexxx/animated-button-fusion-3fen)
 <!-- BLOG-POST-LIST:END -->
 
 ---
