@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Menangani Pengecualian di Spring Boot: Cara Mudah Membuat Custom Exception dan Global Exception Handler](https://dev.to/joniss/menangani-pengecualian-di-spring-boot-cara-mudah-membuat-custom-exception-dan-global-exception-4k23)
-- [Provocações sobre um dia ordinário no desenvolvimento de software](https://dev.to/apontes77/provocacoes-sobre-um-dia-ordinario-no-desenvolvimento-de-software-4nop)
-- [How to Register for Cursor? Teach You How to Freely Use It with a More Reliable Email](https://dev.to/liamcarr/how-to-register-for-cursor-teach-you-how-to-freely-use-it-with-a-more-reliable-email-2jgf)
-- [Go Simple Example: Generate Audio Stories with Google Gemini, TTS, and Cloudflare R2](https://dev.to/lico/go-simple-example-generate-audio-stories-with-google-gemini-tts-and-cloudflare-r2-3hm7)
-- [Work with data files from your terminal - visidata](https://dev.to/akaak/work-with-data-files-from-your-terminal-visidata-550d)
+- [BuilderBot - Crear chatbots es Un juego de niños !](https://dev.to/federincon/builderbot-crear-chatbots-es-un-juego-de-ninos--17e1)
+- [Hooked on React: The Complete Guide to React 19&#39;s Function Component Superpowers! 🪝⚛️✨](https://dev.to/philipjohnbasile/hooked-on-react-the-complete-guide-to-react-19s-function-component-superpowers-1hdj)
+- [Flexible Interval Aggregation — From SQL to SPL #5](https://dev.to/judith677/flexible-interval-aggregation-from-sql-to-spl-5-3l00)
+- [Seeking Guidance on Learning the Move Programming Language](https://dev.to/suhail_076/seeking-guidance-on-learning-the-move-programming-language-3ab4)
+- [Big O Notation Explained: How to Analyze Your Algorithm’s Speed](https://dev.to/alicelee2735/big-o-notation-explained-how-to-analyze-your-algorithms-speed-pi7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
