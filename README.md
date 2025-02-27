@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [React + Relay + Hasura GraphQL: a Stack Made in Typescript Heaven](https://dev.to/johnai/react-relay-hasura-graphql-a-stack-made-in-typescript-heaven-3egk)
-- [What You Need to Know From the 2024 ITRC Data Breach Report](https://dev.to/pomerium/what-you-need-to-know-from-the-2024-itrc-data-breach-report-5hb6)
-- [Aprendendo e Compartilhando: Minha Jornada com IA, Copilot e LLMs pt.1😁](https://dev.to/guintoki/aprendendo-e-compartilhando-minha-jornada-com-ia-copilot-e-llms-pt1-oj9)
-- [[iRIC] [New Feature] How to Use Project-Specific Default Colormap Settings](https://dev.to/starfieldkt/iric-new-feature-how-to-use-project-specific-default-colormap-settings-5hee)
-- [Genqe Robotic Testing for Mobile Apps](https://dev.to/anil_csimplifyit_905c/genqe-robotic-testing-for-mobile-apps-3a93)
+- [Menangani Pengecualian di Spring Boot: Cara Mudah Membuat Custom Exception dan Global Exception Handler](https://dev.to/joniss/menangani-pengecualian-di-spring-boot-cara-mudah-membuat-custom-exception-dan-global-exception-4k23)
+- [Provocações sobre um dia ordinário no desenvolvimento de software](https://dev.to/apontes77/provocacoes-sobre-um-dia-ordinario-no-desenvolvimento-de-software-4nop)
+- [How to Register for Cursor? Teach You How to Freely Use It with a More Reliable Email](https://dev.to/liamcarr/how-to-register-for-cursor-teach-you-how-to-freely-use-it-with-a-more-reliable-email-2jgf)
+- [Go Simple Example: Generate Audio Stories with Google Gemini, TTS, and Cloudflare R2](https://dev.to/lico/go-simple-example-generate-audio-stories-with-google-gemini-tts-and-cloudflare-r2-3hm7)
+- [Work with data files from your terminal - visidata](https://dev.to/akaak/work-with-data-files-from-your-terminal-visidata-550d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
