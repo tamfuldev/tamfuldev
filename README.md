@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What is the difference between static and default methods in a Java interface?](https://dev.to/dhanush9952/what-is-the-difference-between-static-and-default-methods-in-a-java-interface-5383)
-- [Establishing a secure connection to the AWS Elastic Beanstalk application](https://dev.to/aws-builders/establishing-a-secure-connection-to-the-aws-elastic-beanstalk-application-m4)
-- [DeepSeek Open Source Week Day 5: 3FS](https://dev.to/apilover/deepseek-open-source-week-day-5-3fs-jkj)
-- [How to Find Profitable App Ideas &lpar;Even If You Think Everything Already Exists&rpar;](https://dev.to/linwangg/how-to-find-profitable-app-ideas-even-if-you-think-everything-already-exists-1c7)
-- [LAB: SQL injection](https://dev.to/travondatrack/lab-sql-injection-2gbg)
+- [How to create VS Code Extension #3 &lpar;Syntax Highlight&rpar;](https://dev.to/selfish_dev/how-to-create-vs-code-extension-3-syntax-highlight-nj2)
+- [Deploying a Next.js Book Reader App on AWS EC2 with Jenkins: A Step-by-Step Guide](https://dev.to/pravesh_sudha_3c2b0c2b5e0/deploying-a-nextjs-book-reader-app-on-aws-ec2-with-jenkins-a-step-by-step-guide-cgk)
+- [🚀GitHub Profile Analyzer for HR Using Spring Boot &amp; JavaScript](https://dev.to/sidz111/github-profile-analyzer-for-hr-using-spring-boot-javascript-4j72)
+- [Push Notifications in Angular 19 with Firebase Cloud Messaging](https://dev.to/this-is-learning/push-notifications-in-angular-19-with-firebase-cloud-messaging-3o3a)
+- [7 Reasons PHP Collections Beat Traditional Arrays 🚀](https://dev.to/dosenngoding/7-reasons-php-collections-beat-traditional-arrays-b20)
 <!-- BLOG-POST-LIST:END -->
 
 ---
