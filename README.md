@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Secure Coding in C: Avoid Buffer Overflows and Memory Leaks](https://dev.to/yamil_garcia_ee1f89f1e245/secure-coding-in-c-avoid-buffer-overflows-and-memory-leaks-bkp)
-- [Protecting Sensitive Data in Microsoft 365](https://dev.to/ostapzabolotnyy/protecting-sensitive-data-in-microsoft-365-42nk)
-- [Automatizando a Qualidade de Dados com DQX: Performance e praticidade](https://dev.to/airton_lirajunior_2ddebd/automatizando-a-qualidade-de-dados-com-dqx-performance-e-praticidade-331a)
-- [Building an Interactive Badge Scanner System with Python Text-to-Speech](https://dev.to/mr_nova/building-an-interactive-badge-scanner-system-with-python-text-to-speech-38dk)
-- [Marketing Automation: Implement a Single Source of Truth](https://dev.to/johnai/marketing-automation-implement-a-single-source-of-truth-194a)
+- [👨‍💻 How I build my personal assistant!](https://dev.to/mrzaizai2k/how-i-build-my-personal-assistant-4j8b)
+- [Load Balancer 101: A Practical Guide in case your app goes viral overnight 🧿](https://dev.to/bigya/load-balancer-101-taming-the-traffic-tsunami-a-practical-guide-2k1a)
+- [Discover Imgkits: Your All-in-One AI-Powered Image Processing Solution](https://dev.to/fagac_gvwc_0ebeec7ffe710a/discover-imgkits-your-all-in-one-ai-powered-image-processing-solution-11bp)
+- [Automating Git Commit Messages with an LLM](https://dev.to/jpoehnelt/automating-git-commit-messages-with-an-llm-2hpb)
+- [🔎Behind the Scenes of Every Website: The Secret Journey from URL to Your Screen!](https://dev.to/balakumaran2112/behind-the-scenes-of-every-website-the-secret-journey-from-url-to-your-screen-4jbl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
