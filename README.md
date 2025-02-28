@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to create VS Code Extension #3 &lpar;Syntax Highlight&rpar;](https://dev.to/selfish_dev/how-to-create-vs-code-extension-3-syntax-highlight-nj2)
-- [Deploying a Next.js Book Reader App on AWS EC2 with Jenkins: A Step-by-Step Guide](https://dev.to/pravesh_sudha_3c2b0c2b5e0/deploying-a-nextjs-book-reader-app-on-aws-ec2-with-jenkins-a-step-by-step-guide-cgk)
-- [🚀GitHub Profile Analyzer for HR Using Spring Boot &amp; JavaScript](https://dev.to/sidz111/github-profile-analyzer-for-hr-using-spring-boot-javascript-4j72)
-- [Push Notifications in Angular 19 with Firebase Cloud Messaging](https://dev.to/this-is-learning/push-notifications-in-angular-19-with-firebase-cloud-messaging-3o3a)
-- [7 Reasons PHP Collections Beat Traditional Arrays 🚀](https://dev.to/dosenngoding/7-reasons-php-collections-beat-traditional-arrays-b20)
+- [What I Learned from Head First Java: Variable Casting](https://dev.to/mitchiemt11/what-i-learned-from-head-first-java-variable-casting-1ii7)
+- [Open source vector databases](https://dev.to/e77/open-source-vector-databases-228)
+- [Build a JavaScript Analytics System: Step-by-Step Implementation Guide](https://dev.to/aaravjoshi/build-a-javascript-analytics-system-step-by-step-implementation-guide-p5l)
+- [6 Essential JavaScript Image Optimization Techniques for Better Web Performance](https://dev.to/aaravjoshi/6-essential-javascript-image-optimization-techniques-for-better-web-performance-4bgd)
+- [Introduction to Edge Computing for Web Developers](https://dev.to/aryan015/introduction-to-edge-computing-for-web-developers-40d3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
