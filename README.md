@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Future is Here: A Glimpse into How Technology Will Transform Our Lives](https://dev.to/hanzla-baig/the-future-is-here-a-glimpse-into-how-technology-will-transform-our-lives-3ij9)
-- [Hi, dev.to](https://dev.to/yuki-uix/hi-devto-39e8)
-- [2460. Apply Operations to an Array](https://dev.to/mdarifulhaque/2460-apply-operations-to-an-array-1ic8)
-- [What is Deepseek 3FS](https://dev.to/andylawrence/what-is-deepseek-3fs-5e4o)
-- [Exploring the Next Generation of Containerization: WebContainers](https://dev.to/kartikmehta8/exploring-the-next-generation-of-containerization-webcontainers-2nd5)
+- [CALLING ALL CHROME OS JAILBREAKERS!!!](https://dev.to/pricklypear-who-codes/calling-all-chrome-os-jailbreakers-39l7)
+- [Chain of Draft: Thinking Faster by Writing Less](https://dev.to/foxgem/chain-of-draft-thinking-faster-by-writing-less-54j6)
+- [How I prepared for AWS DevOps Professional exam + Raw Notes](https://dev.to/jakejappar/how-i-prepared-for-aws-devops-professional-exam-raw-notes-1h95)
+- [AWS Pro Certification. My Raw notes while preparing the exam](https://dev.to/jakejappar/aws-pro-certification-my-raw-notes-while-preparing-the-exam-2a78)
+- [My new workflow of collecting news clips](https://dev.to/gugod/my-new-workflow-of-collecting-news-clips-4kd3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
