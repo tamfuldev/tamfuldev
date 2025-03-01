@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CALLING ALL CHROME OS JAILBREAKERS!!!](https://dev.to/pricklypear-who-codes/calling-all-chrome-os-jailbreakers-39l7)
-- [Chain of Draft: Thinking Faster by Writing Less](https://dev.to/foxgem/chain-of-draft-thinking-faster-by-writing-less-54j6)
-- [How I prepared for AWS DevOps Professional exam + Raw Notes](https://dev.to/jakejappar/how-i-prepared-for-aws-devops-professional-exam-raw-notes-1h95)
-- [AWS Pro Certification. My Raw notes while preparing the exam](https://dev.to/jakejappar/aws-pro-certification-my-raw-notes-while-preparing-the-exam-2a78)
-- [My new workflow of collecting news clips](https://dev.to/gugod/my-new-workflow-of-collecting-news-clips-4kd3)
+- [Innovate Workforce Training with AI-Driven L&amp;D Solutions](https://dev.to/neural-minds/innovate-workforce-training-with-ai-driven-ld-solutions-1po2)
+- [How Co-Working Spaces are Reviving Tech Communities](https://dev.to/kakacomputer-media/how-co-working-spaces-are-reviving-tech-communities-1mo1)
+- [Best Philippine Cities for IT Jobs &lpar;2025&rpar;](https://dev.to/kakacomputer-media/best-philippine-cities-for-it-jobs-2025-29f6)
+- [Best IT Companies for Career Growth &lpar;UnRanked&rpar;](https://dev.to/kakacomputer-media/best-it-companies-for-career-growth-unranked-3p00)
+- [How to Get Hired in Tech &lpar;Job Hunting Strategies for IT Market&rpar;](https://dev.to/kakacomputer-media/how-to-get-hired-in-tech-job-hunting-strategies-for-it-market-335l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
