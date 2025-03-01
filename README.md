@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [new web framework](https://dev.to/m__mdy__m/new-web-framework-42f5)
-- [How To Fine-tune a Large Language Model &lpar;LLM&rpar; Using Model Parallelism](https://dev.to/sudoconsultants/how-to-fine-tune-a-large-language-model-llm-using-model-parallelism-55h2)
-- [Security news weekly round-up - 28th February 2025](https://dev.to/ziizium/security-news-weekly-round-up-28th-february-2025-56k7)
-- [Gestión del Ciclo de Vida de Activos &lpar;ALM&rpar;: Cómo Maximizar la Eficiencia y el Valor de los Activos Industriales](https://dev.to/easymaint_software_7375bc/gestion-del-ciclo-de-vida-de-activos-alm-como-maximizar-la-eficiencia-y-el-valor-de-los-activos-3fla)
-- [How To Remediate Non-Compliant S3 Buckets/RDS Instances Using Lambda and SSM](https://dev.to/sudoconsultants/how-to-remediate-non-compliant-s3-bucketsrds-instances-using-lambda-and-ssm-440p)
+- [GearLang - A Systems Programming Language For Flexibility, Control, and Interoperability](https://dev.to/kwphil/gearlang-a-systems-programming-language-for-flexibility-control-and-interoperability-1765)
+- [Explaining Angular concepts to grandma 👵 - ViewRef / View ContainerRef](https://dev.to/tmcrs123/explaining-angular-concepts-to-grandma-viewref-view-containerref-2lo8)
+- [Daily JavaScript Challenge #JS-114: Pair Swap In an Array](https://dev.to/dpc/daily-javascript-challenge-js-114-pair-swap-in-an-array-5h5e)
+- [Authentication: Trust Vs Identity.](https://dev.to/dmigwi/authentication-trust-vs-identity-425l)
+- [SwiftUI + Firebase: Anonymous Login to Google Sign-In &lpar;Source Code Included&rpar;](https://dev.to/carlosbbuild/swiftui-firebase-anonymous-login-to-google-sign-in-source-code-included-6fc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
