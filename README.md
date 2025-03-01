@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Claude 3.7 Sonnet Thinking vs. Deepseek r1: Complete Analysis](https://dev.to/composiodev/claude-37-sonnet-thinking-vs-deepseek-r1-complete-analysis-22p3)
-- [Symfony Station Communiqué — 21 February 2025 — A look at Symfony, Drupal, PHP, and other programming news!](https://dev.to/reubenwalker64/symfony-station-communique-21-february-2025-a-look-at-symfony-drupal-php-and-other-1mif)
-- [Top Lessons Learned from Debugging Complex .NET Applications: Tools, Techniques, and Best Practices](https://dev.to/leandroveiga/top-lessons-learned-from-debugging-complex-net-applications-tools-techniques-and-best-practices-4pfc)
-- [RESTful API](https://dev.to/dvphuc_175/restful-api-39kg)
-- [Copy &amp; Clone Traits in Rust: Can You Tell the Difference?](https://dev.to/leapcell/copy-clone-traits-in-rust-can-you-tell-the-difference-400i)
+- [All the tutorials you&#39;ve read are wrong.](https://dev.to/odama626/all-the-tutorials-youve-read-are-wrong-57ek)
+- [Workloads: CPU-Bound and IO-Bound](https://dev.to/jeffotoni/workloads-cpu-bound-and-io-bound-4f1b)
+- [📖 ZomboidBookTracker – Track Your Skill Books in Project Zomboid!](https://dev.to/maksik997/zomboidbooktracker-track-your-skill-books-in-project-zomboid-4l6p)
+- [👋 Hello World! - SMTK](https://dev.to/heysmtk/hello-world-smtk-1p85)
+- [Métodos Numéricos: ¿Para Qué Sirven en la Informática?](https://dev.to/erickvasm/metodos-numericos-para-que-sirven-en-la-informatica-2ncp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
