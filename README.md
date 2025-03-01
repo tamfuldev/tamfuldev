@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Passed the AZ-900 Exam: My Study Plan, Resources &amp; Tips](https://dev.to/jeshlin_pv_1628a63168e90/how-i-passed-the-az-900-exam-my-study-plan-resources-tips-2cam)
-- [Running Private Adguard Server on Cloud &lpar;Linode&rpar;](https://dev.to/prajwol-ad/running-private-adguard-server-on-cloud-linode-18ef)
-- [How to Write SEO Meta Descriptions Without Losing Your Sanity](https://dev.to/cbid2/how-to-write-seo-meta-descriptions-without-losing-your-sanity-437c)
-- [Understanding Function.length, Function.name, Polymorphism, and NFE in JavaScript](https://dev.to/ayako_yk/understanding-functionlength-functionname-polymorphism-and-nfe-in-javascript-a3e)
-- [nice](https://dev.to/merrill_seidel_1eaf62b5f7/nice-gpl)
+- [Interactive Shell Virtual Desktop](https://dev.to/interactiveshell/interactive-shell-virtual-desktop-46ke)
+- [Top 200 Important Pointers about AWS EMR Service](https://dev.to/rahul_singh_c6a703cc3bb48/top-200-important-pointers-about-aws-emr-service-2e5n)
+- [Stop One-By-One Inserts! Bulk Insert Data In Rails With insert_all Or activerecord-import ⚡](https://dev.to/anhhatesjava/stop-one-by-one-inserts-bulk-insert-data-in-rails-with-insertall-or-activerecord-import-335o)
+- [🚀 Build Better Projects: 10 Online Tools for Debugging &amp; Testing You Can’t Miss!](https://dev.to/dct_technologyprivatelimited/build-better-projects-10-online-tools-for-debugging-testing-you-cant-miss-li3)
+- [How to Estimate Cloud Costs with Terraform using Infracost](https://dev.to/diego_santiago_b24061f2f3/how-to-estimate-cloud-costs-with-terraform-using-infracost-183p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
