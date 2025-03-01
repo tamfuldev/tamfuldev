@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [GetOutline: The Ultimate Document Management Tool for Teams](https://dev.to/namnguyenthanhwork/getoutline-the-ultimate-document-management-tool-for-teams-4nmk)
+- [Ramadan Kareem guys!!](https://dev.to/shafayeat/ramadan-kareem-guys-2bom)
+- [Front end or back end](https://dev.to/adam_mohamed/front-end-or-back-end-fm8)
+- [SQLAlchemy 2.0: The Most Powerful ORM for Python Yet](https://dev.to/leapcell/why-sqlalchemy-20-is-the-most-powerful-python-orm-37lb)
 - [10 CSS Tricks Every Frontend Developer Should Know](https://dev.to/rowsanali/10-css-tricks-every-frontend-developer-should-know-4cj4)
-- [Angular Tips #3](https://dev.to/khoanguyen1411/angular-tips-3-54dm)
-- [Patient Identity and Access Management Using AWS Cognito](https://dev.to/ikoh_sylva/patient-identity-and-access-management-using-aws-cognito-3fjf)
-- [Comprehensive Guide to Load Balancing Algorithms, Caching Strategies, and Cache Eviction Policies](https://dev.to/devcorner/comprehensive-guide-to-load-balancing-algorithms-caching-strategies-and-cache-eviction-policies-1jpg)
-- [Angular Tips #2](https://dev.to/khoanguyen1411/angular-tips-2-5920)
 <!-- BLOG-POST-LIST:END -->
 
 ---
