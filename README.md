@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How TailwindCSS Speeds Up Development](https://dev.to/tene/how-tailwindcss-speeds-up-development-47f9)
-- [Building a Modern Blog with Next.js, MDX, and Tailwind CSS](https://dev.to/gerryleonugroho/building-a-modern-blog-with-nextjs-mdx-and-tailwind-css-a24)
-- [Como Construir um Chat AI usando Python e Groq Cloud](https://dev.to/zorasantos/como-construir-um-chat-ai-usando-python-e-groq-cloud-2pac)
-- [Daily JavaScript Challenge #JS-115: Calculate Maximum Subarray Sum](https://dev.to/dpc/daily-javascript-challenge-js-115-calculate-maximum-subarray-sum-4dg2)
-- [A Step-by-Step Guide to Data Science Project Lifecycle](https://dev.to/orioninsist/a-step-by-step-guide-to-data-science-project-lifecycle-4iaj)
+- [Hello world!](https://dev.to/wagnertomaz/hello-world-21kj)
+- [DOM &lpar;Document Object Model&rpar;](https://dev.to/rubiya_reba/dom-document-object-model-2537)
+- [What is Machine Learning? A Beginner’s Guide](https://dev.to/alex_aslam/what-is-machine-learning-a-beginners-guide-2ono)
+- [Handling Big Data Challenges: A Case Study of AllFreeNovel.cc](https://dev.to/winola_zoe/-handling-big-data-challenges-a-case-study-of-allfreenovelcc-35e7)
+- [Prepped for My Amazon Interview with hack2hire.com — Was It Worth It?](https://dev.to/jw7design/prepped-for-my-amazon-interview-with-hack2hirecom-was-it-worth-it-17fe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
