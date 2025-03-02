@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [$35,000 Bounty: How Inappropriate Access Control Led to GitLab Account Takeover](https://dev.to/cyberw1ng/35000-bounty-how-inappropriate-access-control-led-to-gitlab-account-takeover-3imm)
-- [SRVRA Sync: The Enterprise-Grade State Management &amp; Real-Time, Bi-Directional Sync Engine](https://dev.to/sign/srvra-data-sync-the-enterprise-grade-state-management-real-time-bi-directional-sync-engine-5a0g)
-- [Implementing an API with Background Tasks: A Pragmatic Approach](https://dev.to/lovestaco/implementing-an-api-with-background-tasks-a-pragmatic-approach-5fbd)
-- [How do we migrate to local indexing in Oracle](https://dev.to/santattech/how-do-we-migrate-to-local-indexing-in-oracle-3j9f)
-- [My Reading Journey: Jan-Feb 2025](https://dev.to/ericbl3/my-reading-journey-jan-feb-2025-3jcg)
+- [Seeking Remote Salesforce Developer Position.](https://dev.to/dtp_hook_a5d67a7dfd9dd02a/seeking-remote-salesforce-developer-position-47bd)
+- [The Future of AI: How Retrieval-Augmented Generation &lpar;RAG&rpar; is Changing the Game](https://dev.to/mahrukh_adeel/the-future-of-ai-how-retrieval-augmented-generation-rag-is-changing-the-game-42me)
+- [140/365 | ¥10M Job Challenge - Weekends always seem to fly by](https://dev.to/kameken100/140365-y10m-job-challenge-weekends-always-seem-to-fly-by-4efb)
+- [Using Redis to build a Distributed Chat App in Go &amp; React.js](https://dev.to/the-arcade-01/using-redis-to-build-a-distributed-chat-app-in-go-reactjs-1e1m)
+- [Building a Simple Stock Insights Agent with Gemini 2.0 Flash on Vertex AI](https://dev.to/thomas-chong/building-a-stock-insights-agent-with-gemini-20-flash-on-vertex-ai-5bkl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
