@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Guide to Vite Plugins](https://dev.to/aryan015/guide-to-vite-plugins-1mdp)
-- [Firefighting with bashrc: How I restore my Ubuntu terminal](https://dev.to/santattech/firefighting-with-bashrc-how-i-restore-my-ubuntu-terminal-5958)
-- [Good Commit vs Bad Commit: The 5 Commandments of Git Bible](https://dev.to/ruppysuppy/good-commit-vs-bad-commit-the-5-commandments-of-git-bible-j4k)
-- [Rate Limiting Algorithms: A Deep Dive 2](https://dev.to/devcorner/rate-limiting-algorithms-a-deep-dive-2-14n5)
-- [Rate Limiting Algorithms: A Deep Dive](https://dev.to/devcorner/rate-limiting-algorithms-a-deep-dive-49a0)
+- [ReferenceGenerator: A Lightweight C# Library for Generating Unique References](https://dev.to/mhizokuchi/referencegenerator-a-lightweight-c-library-for-generating-unique-references-4g89)
+- [Creating Essential Geometric Shapes Using CSS Only](https://dev.to/uiuxsatyam/creating-essential-geometric-shapes-using-css-only-5bba)
+- [Setup Laragon&#39;s Cmder in VSCode &lpar;VSCode Extension&rpar;](https://dev.to/abiruzzamanmolla/setup-laragons-cmder-in-vscode-vscode-extension-27p5)
+- [Comparing Popular Embedding Models: Choosing the Right One for Your Use Case](https://dev.to/simplr_sh/comparing-popular-embedding-models-choosing-the-right-one-for-your-use-case-43p1)
+- [Exploring Cloudflare&#39;s AI Gateway: Simplifying AI Integration and Security](https://dev.to/simplr_sh/exploring-cloudflares-ai-gateway-simplifying-ai-integration-and-security-3fii)
 <!-- BLOG-POST-LIST:END -->
 
 ---
