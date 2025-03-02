@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [All the tutorials you&#39;ve read are wrong.](https://dev.to/odama626/all-the-tutorials-youve-read-are-wrong-57ek)
-- [Workloads: CPU-Bound and IO-Bound](https://dev.to/jeffotoni/workloads-cpu-bound-and-io-bound-4f1b)
-- [📖 ZomboidBookTracker – Track Your Skill Books in Project Zomboid!](https://dev.to/maksik997/zomboidbooktracker-track-your-skill-books-in-project-zomboid-4l6p)
-- [👋 Hello World! - SMTK](https://dev.to/heysmtk/hello-world-smtk-1p85)
-- [Métodos Numéricos: ¿Para Qué Sirven en la Informática?](https://dev.to/erickvasm/metodos-numericos-para-que-sirven-en-la-informatica-2ncp)
+- [How TailwindCSS Speeds Up Development](https://dev.to/tene/how-tailwindcss-speeds-up-development-47f9)
+- [Building a Modern Blog with Next.js, MDX, and Tailwind CSS](https://dev.to/gerryleonugroho/building-a-modern-blog-with-nextjs-mdx-and-tailwind-css-a24)
+- [Como Construir um Chat AI usando Python e Groq Cloud](https://dev.to/zorasantos/como-construir-um-chat-ai-usando-python-e-groq-cloud-2pac)
+- [Daily JavaScript Challenge #JS-115: Calculate Maximum Subarray Sum](https://dev.to/dpc/daily-javascript-challenge-js-115-calculate-maximum-subarray-sum-4dg2)
+- [A Step-by-Step Guide to Data Science Project Lifecycle](https://dev.to/orioninsist/a-step-by-step-guide-to-data-science-project-lifecycle-4iaj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
