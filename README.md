@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Caching in Next.js: A Beginner’s Guide](https://dev.to/melvinprince/understanding-caching-in-nextjs-a-beginners-guide-5734)
-- [Who&#39;s hiring? — March 2025](https://dev.to/fmerian/whos-hiring-march-2025-301p)
-- [🎨 Building a 3D Neon Cube That Displays My Name 🧊](https://dev.to/madhurima_rawat/building-a-3d-neon-cube-that-displays-my-name-2oni)
-- [Amazing Loaders](https://dev.to/chandan_e69c011b258e09242/amazing-loaders-2pg)
-- [How i started My coding journey - From Commerce to Code.](https://dev.to/bhagyesh_joshi_14814952f1/how-i-started-my-coding-journey-from-commerce-to-code-9cn)
+- [Bun just got 60% faster, Doom now runs on TypeScript, OpenAI launched GPT 4.5, and more](https://dev.to/thisweekinjavascript/bun-just-got-60-faster-doom-now-runs-on-typescript-openai-launched-gpt-45-and-more-3c8f)
+- [Rust&#39;s Result Type: Error Handling Made Easy](https://dev.to/leapcell/rusts-result-type-error-handling-made-easy-58i)
+- [Event Driven Architecture using GCP](https://dev.to/binyam/event-driven-architecture-using-gcp-g1g)
+- [Automate changelog generation and publish with Changesets](https://dev.to/sibiraj/automate-changelog-generation-and-publish-with-changesets-1p1g)
+- [pattern program basic](https://dev.to/hema_latha/pattern-program-basic-34k6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
