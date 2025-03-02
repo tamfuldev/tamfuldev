@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Bun just got 60% faster, Doom now runs on TypeScript, OpenAI launched GPT 4.5, and more](https://dev.to/thisweekinjavascript/bun-just-got-60-faster-doom-now-runs-on-typescript-openai-launched-gpt-45-and-more-3c8f)
-- [Rust&#39;s Result Type: Error Handling Made Easy](https://dev.to/leapcell/rusts-result-type-error-handling-made-easy-58i)
-- [Event Driven Architecture using GCP](https://dev.to/binyam/event-driven-architecture-using-gcp-g1g)
-- [Automate changelog generation and publish with Changesets](https://dev.to/sibiraj/automate-changelog-generation-and-publish-with-changesets-1p1g)
-- [pattern program basic](https://dev.to/hema_latha/pattern-program-basic-34k6)
+- [$35,000 Bounty: How Inappropriate Access Control Led to GitLab Account Takeover](https://dev.to/cyberw1ng/35000-bounty-how-inappropriate-access-control-led-to-gitlab-account-takeover-3imm)
+- [SRVRA Sync: The Enterprise-Grade State Management &amp; Real-Time, Bi-Directional Sync Engine](https://dev.to/sign/srvra-data-sync-the-enterprise-grade-state-management-real-time-bi-directional-sync-engine-5a0g)
+- [Implementing an API with Background Tasks: A Pragmatic Approach](https://dev.to/lovestaco/implementing-an-api-with-background-tasks-a-pragmatic-approach-5fbd)
+- [How do we migrate to local indexing in Oracle](https://dev.to/santattech/how-do-we-migrate-to-local-indexing-in-oracle-3j9f)
+- [My Reading Journey: Jan-Feb 2025](https://dev.to/ericbl3/my-reading-journey-jan-feb-2025-3jcg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
