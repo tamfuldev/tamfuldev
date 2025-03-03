@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Object-Oriented Programming: Encapsulation, Moving Parts, and Functional Paradigms](https://dev.to/lovestaco/object-oriented-programming-encapsulation-moving-parts-and-functional-paradigms-30d0)
+- [AltSchool Of Engineering Tinyuka’24 Month 1 Week 3](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-1-week-3-23g3)
 - [Simple Python for Data Analysis](https://dev.to/0x3d_site/simple-python-for-data-analysis-2l85)
 - [Dictionary vs. defaultdict in Python: A Beginner’s Guide](https://dev.to/extinctsion/dictionary-vs-defaultdict-in-python-a-beginners-guide-2ao1)
 - [Learn about the priority levels of config files and distinguish between .yaml and .properties files in Java Spring Boot.](https://dev.to/hieunguyendev/learn-about-the-priority-levels-of-config-files-and-distinguish-between-yaml-and-properties-files-26fi)
-- [hax cli: publish on surge.sh fast!](https://dev.to/btopro/hax-cli-publish-on-surgesh-fast-4b3c)
-- [It’s Not A.I. — Junior Developers Have Always Struggled to Code](https://dev.to/thatsoftwaredude/its-not-ai-junior-developers-have-always-struggled-to-code-26gc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
