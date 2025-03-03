@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Can AI for Job Interviews Help You Land Your Dream Job? 🤖🚀 AI is changing hiring! AI for job interviews offers real-time support, smart answer suggestions, and confidence-boosting insights, helping candidates stay sharp under pressure. Let&#39;s Discuss it.](https://dev.to/jeenifer_beezer/can-ai-for-job-interviews-help-you-land-your-dream-job-ai-is-changing-hiring-ai-for-job-1n6)
-- [HOW TO ADD DATA DISK TO A VIRTUAL MACHINE.](https://dev.to/astranan/how-to-add-data-disk-to-a-virtual-machine-2pid)
-- [Blockchain and Open Source: Revolutionizing Innovation](https://dev.to/rachellovestowrite/blockchain-and-open-source-revolutionizing-innovation-3hjm)
-- [RandAugment in PyTorch &lpar;3&rpar;](https://dev.to/hyperkai/randaugment-in-pytorch-3-13le)
-- [RandAugment in PyTorch &lpar;2&rpar;](https://dev.to/hyperkai/randaugment-in-pytorch-2-1igo)
+- [An Ideal Hustle Timetable for CS students.](https://dev.to/forloopcodes/an-ideal-hustle-timetable-for-cs-students-4i63)
+- [Localization Keys vs. Direct Text Keys](https://dev.to/spyke/localization-keys-vs-direct-text-keys-5i)
+- [Self-taught to JPMorgan Chase: My Cloud Resume Challenge Journey](https://dev.to/roddydev/self-taught-to-jpmorgan-chase-my-cloud-resume-challenge-journey-4nda)
+- [Understanding the DOM: A Practical Guide for Beginners](https://dev.to/dev_orizon/understanding-the-dom-a-practical-guide-for-beginners-492g)
+- [All Data and AI Weekly 179 - 03-March-2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-179-03-march-2025-3alj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
