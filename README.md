@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Go Web Scraper: Build and Optimize HTML Parsers](https://dev.to/leapcell/go-web-scraper-build-and-optimize-html-parsers-1lhc)
+- [Stop Suffering: Automate Terraform with GitLab CI/CD Before It Breaks You](https://dev.to/infra_insider/stop-suffering-automate-terraform-with-gitlab-cicd-before-it-breaks-you-253d)
+- [AI as the New Opium for Developers: The Dependency That’s Killing the Industry](https://dev.to/temaweb10/ai-as-the-new-opium-for-developers-the-dependency-thats-killing-the-industry-2h2p)
+- [🚀 Pengenalan Flutter: Dasar, State Management, dan Contoh Kode 🎯](https://dev.to/joenathandevid/pengenalan-flutter-dasar-state-management-dan-contoh-kode-1lge)
 - [7 Leadership Traits Every Great Tech Leader Must Possess](https://dev.to/devcorner/7-leadership-traits-every-great-tech-leader-must-possess-5b23)
-- [What are your Goals for the week? #116.](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-116-496b)
-- [FlexHired - Your Remote Career Starts Here](https://dev.to/flexhired/flexhired-your-remote-career-starts-here-4om7)
-- [Remoto é bom e pode melhorar!](https://dev.to/noriller/remoto-e-bom-e-pode-melhorar-1ja4)
-- [LangChain + FalkorDB: Building AI Agents with Memory](https://dev.to/falkordb/langchain-falkordb-building-ai-agents-with-memory-191)
 <!-- BLOG-POST-LIST:END -->
 
 ---
