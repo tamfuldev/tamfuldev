@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I developed a Smart Frontend Application for Personality Assessment](https://dev.to/web_dev-usman/i-developed-a-smart-frontend-application-for-personality-assessment-1ilg)
-- [Database calls work, but my UI isn&#39;t cooperating](https://dev.to/magipunk/database-calls-work-but-my-ui-isnt-cooperating-58j0)
-- [Kubernetes hardening made easy: Running CIS Benchmarks with kube-bench](https://dev.to/aws-builders/kubernetes-hardening-made-easy-running-cis-benchmarks-with-kube-bench-38ne)
-- [Merkle Trees in Bitcoin: A Practical Guide with TypeScript Implementation](https://dev.to/radzion/merkle-trees-in-bitcoin-a-practical-guide-with-typescript-implementation-4dal)
-- [Why India is the Go-To Destination for Affordable PHP Solutions?](https://dev.to/ezeelive/why-india-is-the-go-to-destination-for-affordable-php-solutions-1e50)
+- [Supercharging Web Apps with WebAssembly: A Hands-on Guide 🚀](https://dev.to/vibhuvibes/supercharging-web-apps-with-webassembly-a-hands-on-guide-162d)
+- [🤖 Set Up Your Own AI Agent in Minutes! Clone, Run, &amp; Deploy 🚀🛠️⚡](https://dev.to/ramkumar-m-n/set-up-your-own-ai-agent-in-minutes-clone-run-deploy-2n92)
+- [🚀 Unlock Blazing Fast Performance with HybridCache in ASP.NET Core 9](https://dev.to/dct_technologyprivatelimited/unlock-blazing-fast-performance-with-hybridcache-in-aspnet-core-9-5hnc)
+- [Top GitLab Alternatives: Best Code Repository &amp; Project Management Tools for 2025](https://dev.to/adityabhuyan/top-gitlab-alternatives-best-code-repository-project-management-tools-for-2025-1b27)
+- [How Unix, Windows, and macOS Security Models Evolved Over Time and Their Impact Today](https://dev.to/adityabhuyan/how-unix-windows-and-macos-security-models-evolved-over-time-and-their-impact-today-4n7m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
