@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Overview：&quot;Agent Commerce Protocol: Enabling Autonomous Businesses&quot;](https://dev.to/foxgem/overviewagent-commerce-protocol-enabling-autonomous-businesses-33ap)
-- [Tipos de Índices no SQL: B-Tree, Hash, GiST, GIN e BRIN](https://dev.to/mrskin_/tipos-de-indices-no-sql-b-tree-hash-gist-gin-e-brin-4hge)
-- [How To Mount an Amazon Elastic File System on Amazon CodeBuild From Another VPC](https://dev.to/matheusdasmerces/how-to-mount-an-amazon-elastic-file-system-on-amazon-codebuild-from-another-vpc-b1j)
-- [Automating Node.js Documentation with Swagger](https://dev.to/yugjadvani/automating-nodejs-documentation-with-swagger-3o0d)
-- [Free Internet](https://dev.to/jacopo/free-internet-3a46)
+- [Deploying a Microservices Stock Trading Application on AWS with Terraform, Kubernetes &amp; Helm](https://dev.to/dvsharma/deploying-a-microservices-stock-trading-application-on-aws-with-terraform-kubernetes-helm-3idn)
+- [JavaScript Closures Explained Like You’re Five](https://dev.to/anil_kumawat/javascript-closures-explained-like-youre-five-o1n)
+- [Secure continuous Integration with Dockerfile, Github Actions and AWS ECR](https://dev.to/sudo_anuj/cicd-with-secure-authentication-using-github-actions-and-aws-ecr-4d7d)
+- [Linux Command Confirmation](https://dev.to/jacopo/linux-command-confirmation-595e)
+- [How to Build a Task Manager API with Django REST Framework &lpar;Step-by-Step Guide&rpar;](https://dev.to/kihuni/how-to-build-a-task-manager-api-with-django-rest-framework-step-by-step-guide-22l8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
