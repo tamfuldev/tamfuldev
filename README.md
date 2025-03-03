@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Go Web Scraper: Build and Optimize HTML Parsers](https://dev.to/leapcell/go-web-scraper-build-and-optimize-html-parsers-1lhc)
-- [Stop Suffering: Automate Terraform with GitLab CI/CD Before It Breaks You](https://dev.to/infra_insider/stop-suffering-automate-terraform-with-gitlab-cicd-before-it-breaks-you-253d)
-- [AI as the New Opium for Developers: The Dependency That’s Killing the Industry](https://dev.to/temaweb10/ai-as-the-new-opium-for-developers-the-dependency-thats-killing-the-industry-2h2p)
-- [🚀 Pengenalan Flutter: Dasar, State Management, dan Contoh Kode 🎯](https://dev.to/joenathandevid/pengenalan-flutter-dasar-state-management-dan-contoh-kode-1lge)
-- [7 Leadership Traits Every Great Tech Leader Must Possess](https://dev.to/devcorner/7-leadership-traits-every-great-tech-leader-must-possess-5b23)
+- [Simple Python for Data Analysis](https://dev.to/0x3d_site/simple-python-for-data-analysis-2l85)
+- [Dictionary vs. defaultdict in Python: A Beginner’s Guide](https://dev.to/extinctsion/dictionary-vs-defaultdict-in-python-a-beginners-guide-2ao1)
+- [Learn about the priority levels of config files and distinguish between .yaml and .properties files in Java Spring Boot.](https://dev.to/hieunguyendev/learn-about-the-priority-levels-of-config-files-and-distinguish-between-yaml-and-properties-files-26fi)
+- [hax cli: publish on surge.sh fast!](https://dev.to/btopro/hax-cli-publish-on-surgesh-fast-4b3c)
+- [It’s Not A.I. — Junior Developers Have Always Struggled to Code](https://dev.to/thatsoftwaredude/its-not-ai-junior-developers-have-always-struggled-to-code-26gc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
