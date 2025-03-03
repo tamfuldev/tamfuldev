@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Definitive Guide to AI Benchmarks: Comparing Models, Testing Your Own, and Understanding the Future](https://dev.to/dfordp/definitive-guide-to-ai-benchmarks-comparing-models-testing-your-own-and-understanding-the-future-4d9i)
-- [10+ Best Analytics Dashboard Templates for 2025](https://dev.to/tailadmin/top-analytics-dashboard-templates-2198)
-- [Making API Calls in .NET the Easy Way with Refit](https://dev.to/akash_rana25/making-api-calls-in-net-the-easy-way-with-refit-56d5)
-- [Send logs to Sumo Logic in Node.js using LogLayer](https://dev.to/theogravity/send-logs-to-sumo-logic-in-nodejs-using-loglayer-45cg)
-- [Dependency Inversion Principle &lpar;DIP&rpar; in React](https://dev.to/chhakuli_zingare_2a0ad5f8/dependency-inversion-principle-dip-in-react-4o31)
+- [I developed a Smart Frontend Application for Personality Assessment](https://dev.to/web_dev-usman/i-developed-a-smart-frontend-application-for-personality-assessment-1ilg)
+- [Database calls work, but my UI isn&#39;t cooperating](https://dev.to/magipunk/database-calls-work-but-my-ui-isnt-cooperating-58j0)
+- [Kubernetes hardening made easy: Running CIS Benchmarks with kube-bench](https://dev.to/aws-builders/kubernetes-hardening-made-easy-running-cis-benchmarks-with-kube-bench-38ne)
+- [Merkle Trees in Bitcoin: A Practical Guide with TypeScript Implementation](https://dev.to/radzion/merkle-trees-in-bitcoin-a-practical-guide-with-typescript-implementation-4dal)
+- [Why India is the Go-To Destination for Affordable PHP Solutions?](https://dev.to/ezeelive/why-india-is-the-go-to-destination-for-affordable-php-solutions-1e50)
 <!-- BLOG-POST-LIST:END -->
 
 ---
