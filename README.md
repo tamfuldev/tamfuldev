@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a Microservices Stock Trading Application on AWS with Terraform, Kubernetes &amp; Helm](https://dev.to/dvsharma/deploying-a-microservices-stock-trading-application-on-aws-with-terraform-kubernetes-helm-3idn)
-- [JavaScript Closures Explained Like You’re Five](https://dev.to/anil_kumawat/javascript-closures-explained-like-youre-five-o1n)
-- [Secure continuous Integration with Dockerfile, Github Actions and AWS ECR](https://dev.to/sudo_anuj/cicd-with-secure-authentication-using-github-actions-and-aws-ecr-4d7d)
-- [Linux Command Confirmation](https://dev.to/jacopo/linux-command-confirmation-595e)
-- [How to Build a Task Manager API with Django REST Framework &lpar;Step-by-Step Guide&rpar;](https://dev.to/kihuni/how-to-build-a-task-manager-api-with-django-rest-framework-step-by-step-guide-22l8)
+- [Align the existing data to the corresponding position and fill in any missing data with 0 — From SQL to SPL #6](https://dev.to/judith677/align-the-existing-data-to-the-corresponding-position-and-fill-in-any-missing-data-with-0-from-l06)
+- [Robots &amp; AI - Real Talk About Our Future &lpar;Less Scary, More &quot;Whoa!&quot;&rpar;](https://dev.to/pinky057/robots-ai-real-talk-about-our-future-less-scary-more-whoa-4ii0)
+- [Docker CMD vs ENTRYPOINT: Understanding the Differences](https://dev.to/sudo_anuj/docker-cmd-vs-entrypoint-understanding-the-differences-apc)
+- [Optimistic rendering example in React with Typescript](https://dev.to/nicoenciso/renderizado-optimista-forked-3o34)
+- [Understanding Dockerfile: A Guide to Building Efficient Docker Images](https://dev.to/sudo_anuj/understanding-dockerfile-a-guide-to-building-efficient-docker-images-2npg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
