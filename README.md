@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [An Ideal Hustle Timetable for CS students.](https://dev.to/forloopcodes/an-ideal-hustle-timetable-for-cs-students-4i63)
-- [Localization Keys vs. Direct Text Keys](https://dev.to/spyke/localization-keys-vs-direct-text-keys-5i)
-- [Self-taught to JPMorgan Chase: My Cloud Resume Challenge Journey](https://dev.to/roddydev/self-taught-to-jpmorgan-chase-my-cloud-resume-challenge-journey-4nda)
-- [Understanding the DOM: A Practical Guide for Beginners](https://dev.to/dev_orizon/understanding-the-dom-a-practical-guide-for-beginners-492g)
-- [All Data and AI Weekly 179 - 03-March-2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-179-03-march-2025-3alj)
+- [Deploying Canvas LMS on Kubernetes: Unlocking Full Control, LTI 1.3 for Developers &amp; Educators](https://dev.to/adeyemi_aina_b48e323922d9/deploying-canvas-lms-on-kubernetes-unlocking-full-control-lti-13-for-developers-educators-3llb)
+- [Integrating sg-autocomplete Component](https://dev.to/sudhakar_george_e6d1f136f/integrating-sg-autocomplete-component-3m58)
+- [Developer Diary #27. AI Trap](https://dev.to/kiolk/developer-diary-27-ai-trap-162j)
+- [SEO-Driven Structure: Creating Web Pages Which Rank and Engage](https://dev.to/webdesigner15/seo-driven-structure-creating-web-pages-which-rank-and-engage-3ec5)
+- [Introducing AI Story Writer: Revolutionizing Storytelling with AI](https://dev.to/manuel_calvinolaguardia_/introducing-ai-story-writer-revolutionizing-storytelling-with-ai-13io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
