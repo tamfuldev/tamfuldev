@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [What I learned from Head First: The life of a Java object reference.](https://dev.to/mitchiemt11/what-i-learned-from-head-first-the-life-of-a-java-object-reference-3e6k)
+- [How to Prevent Your Supabase Project Database from Being Paused Using GitHub Actions](https://dev.to/jps27cse/how-to-prevent-your-supabase-project-database-from-being-paused-using-github-actions-3hel)
 - [🚀 Your Daily Crypto Job Digest For 03 March!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-03-march-4mh3)
 - [Technical Guide: Syncing Ingress Resources from various Virtual Cluster on GKE with vCluster](https://dev.to/loft/technical-guide-syncing-ingress-resources-from-various-vcluster-on-gke-with-vcluster-3c56)
 - [How Hopthru powers real-time transit analytics from a 1 TB table](https://dev.to/timescale/how-hopthru-powers-real-time-transit-analytics-from-a-1-tb-table-3o8n)
-- [Meme Monday](https://dev.to/ben/meme-monday-5646)
-- [Awesome button effects with tailwind CSS](https://dev.to/shubhamtiwari909/awesome-button-effects-with-tailwind-css-27a8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
