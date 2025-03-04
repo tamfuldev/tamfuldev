@@ -16,7 +16,7 @@
 # Latest stack oveflow activity
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><tr><td>How I can join using counts using Doctrine</td><td>https://stackoverflow.com/questions/79484363/how-i-can-join-using-counts-using-doctrine</td></tr><tr><td>WordPress CSS issue related to user agent stylesheet</td><td>https://stackoverflow.com/questions/79484232/wordpress-css-issue-related-to-user-agent-stylesheet</td></tr><tr><td>How to connect azure fabric database in laravel 8</td><td>https://stackoverflow.com/questions/79484190/how-to-connect-azure-fabric-database-in-laravel-8</td></tr><tr><td>How to setup php project on web hosting</td><td>https://stackoverflow.com/questions/79484116/how-to-setup-php-project-on-web-hosting</td></tr><tr><td>PHP, Illegal offset type</td><td>https://stackoverflow.com/questions/79483998/php-illegal-offset-type</td></tr><!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:START --><tr><td>How I can join using counts using Doctrine</td><td>https://stackoverflow.com/questions/79484363/how-i-can-join-using-counts-using-doctrine</td></tr><tr><td>WordPress CSS issue related to user agent stylesheet</td><td>https://stackoverflow.com/questions/79484232/wordpress-css-issue-related-to-user-agent-stylesheet</td></tr><tr><td>How to connect azure fabric database in laravel 8</td><td>https://stackoverflow.com/questions/79484190/how-to-connect-azure-fabric-database-in-laravel-8</td></tr><tr><td>How to setup php project on web hosting</td><td>https://stackoverflow.com/questions/79484116/how-to-setup-php-project-on-web-hosting</td></tr><tr><td>PHP, Illegal offset type [closed]</td><td>https://stackoverflow.com/questions/79483998/php-illegal-offset-type</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 
 ---
