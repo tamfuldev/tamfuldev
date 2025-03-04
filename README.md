@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SafeLine: A Top-Tier WAF Affordable for SMBs Worldwide!](https://dev.to/carrie_luo1/safeline-a-top-tier-waf-affordable-for-smbs-worldwide-1hmg)
-- [13 GitHub Projects that Supercharge Your AI and Development Journey 🚀](https://dev.to/bruh_buh_f683772f171823db/13-github-projects-that-supercharge-your-ai-and-development-journey-34c3)
-- [GPT 4.5 is Here: More Powerful, But at a Steep Price!](https://dev.to/james_lin_e0b4cf88eff0124/gpt-45-is-here-more-powerful-but-at-a-steep-price-36ce)
-- [Twitter Data Scraping using Tweepy in 2025](https://dev.to/lynerlwl/twitter-data-scraping-using-tweepy-in-2025-c5p)
-- [Media Asset Management &lpar;MAM&rpar; or Media Supply Chain? A Guide to Streamlining Your Media Management Workflows](https://dev.to/dilshaddurani/media-asset-management-mam-or-media-supply-chain-a-guide-to-streamlining-your-media-management-1mpl)
+- [What are PDF.js Layers and How You Can Use them in Vue.js](https://dev.to/9haroon/what-are-pdfjs-layers-and-how-you-can-use-them-in-vuejs-1454)
+- [Unblock Omegle and Get Back to Chatting](https://dev.to/swiftproxy_residential/unblock-omegle-and-get-back-to-chatting-fop)
+- [Tools for QA Unveiling Debugging and Bug Reporting](https://dev.to/futureagi/tools-for-qa-unveiling-debugging-and-bug-reporting-9fh)
+- [10 VS Code Extensions That Will Instantly Boost Productivity](https://dev.to/rowsanali/10-vs-code-extensions-that-will-instantly-boost-productivity-1ehm)
+- [Prevent JWT Attacks in Laravel with Secure Coding Practices](https://dev.to/pentest_testing_corp/prevent-jwt-attacks-in-laravel-with-secure-coding-practices-50nl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
