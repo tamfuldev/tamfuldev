@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Hands-On Guide: AWS S3 Lifecycle Management, EBS Volume, and Snapshot](https://dev.to/seyilufadejucyberservices/hands-on-guide-aws-s3-lifecycle-management-ebs-volume-and-snapshot-1p8a)
-- [CFP Open - AI Native DevCon Spring Edition](https://dev.to/sammyhep/cfp-open-ai-native-devcon-spring-edition-529j)
-- [Conquering the Cloud: My Google Professional Cloud Architect Certification Journey &lpar;and Tips for Yours!&rpar;](https://dev.to/joegatto/conquering-the-cloud-my-google-professional-cloud-architect-certification-journey-and-tips-for-1kmk)
-- [Driving Smarter Decisions: Using Share Price APIs for Data-Driven Marketing](https://dev.to/williamsmithh/driving-smarter-decisions-using-share-price-apis-for-data-driven-marketing-35mp)
-- [How to Post on Hacker News Without Getting Flagged or Ignored](https://dev.to/developuls/how-to-post-on-hacker-news-without-getting-flagged-or-ignored-2eaf)
+- [Building a Production-Ready To-Do API with FastAPI](https://dev.to/m_muhd8/building-a-production-ready-to-do-api-with-fastapi-33om)
+- [AWS Outposts: Lleva la nube de AWS a tu centro de datos](https://dev.to/briansuarezsantiago/aws-outposts-lleva-la-nube-de-aws-a-tu-centro-de-datos-1clo)
+- [How to Use AWK Like an Expert: The Ultimate Guide for Bash Power Users](https://dev.to/karandaid/how-to-use-awk-like-an-expert-the-ultimate-guide-for-bash-power-users-1cd)
+- [Presentation](https://dev.to/gabrian/presentation-254)
+- [JOB- NC - Application Development Manager - Onsite](https://dev.to/ckrecruit/job-in-nc-application-development-manager-59mg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
