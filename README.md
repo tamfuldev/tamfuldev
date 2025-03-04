@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [JS Question 1](https://dev.to/anjali_gurjar_dff81513867/js-question-1-4870)
-- [SQL](https://dev.to/anjali_gurjar_dff81513867/sql-39p0)
-- [MASTERING VIM – A DEVOPS ESSENTIAL!](https://dev.to/aws-builders/mastering-vim-a-devops-essential-5409)
-- [Kubernetes vs Docker Swarm: What are the practical differences?](https://dev.to/ruivalim/kubernetes-vs-docker-swarm-what-are-the-practical-differences-1hch)
-- [Kubernetes vs Docker Swarm: Qual a diferença na prática?](https://dev.to/ruivalim/kubernetes-vs-docker-swarm-qual-a-diferenca-na-pratica-398f)
+- [Exploring the Power of Ruby on Rails](https://dev.to/million_formula_3be3d915d/exploring-the-power-of-ruby-on-rails-c56)
+- [Introduction](https://dev.to/rachellovestowrite/introduction-2j1o)
+- [Understanding The Difference Between Caret&lpar;^&rpar; and Tilde&lpar;~&rpar; In Your React or Node Project](https://dev.to/sohillalakiya/understanding-the-difference-between-caret-and-tilde-in-your-react-or-node-project-23ie)
+- [7 Small Changes That Will Make A Big Difference With Your ADHD In Adults](https://dev.to/dadjeans37/7-small-changes-that-will-make-a-big-difference-with-your-adhd-in-adults-1m75)
+- [Using the skip_before Method in RSpec](https://dev.to/pepito2k/using-the-skipbefore-method-in-rspec-2kk6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
