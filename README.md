@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Check PC Specs without Logging into Windows 11?](https://dev.to/winsides/how-to-check-pc-specs-without-logging-into-windows-11-21cm)
-- [How to Build a RAG Chatbot with LangChain, Milvus, Together AI Mixtral 8x7B Instruct v0.1, and OpenAI text-embedding-3-large](https://dev.to/zilliz/how-to-build-a-rag-chatbot-with-langchain-milvus-together-ai-mixtral-8x7b-instruct-v01-and-324l)
-- [Simplifique modais com os atributos experimentais &quot;command&quot; e &quot;commandfor&quot;](https://dev.to/brunoredes/simplifique-modais-com-os-atributos-experimentais-command-e-commandfor-3ahi)
-- [Cómo implementar un widget en React Native para iOS](https://dev.to/fernando_arriagada/como-implementar-un-widget-en-react-native-para-ios-1j1m)
-- [Modern Web Development Sucks? How PostgreSQL Can Replace Your Tech Stack](https://dev.to/lovestaco/modern-web-development-sucks-how-postgresql-can-replace-your-tech-stack-2544)
+- [SPO600: Lab 02](https://dev.to/amullagaliev/spo600-lab-02-38e8)
+- [Building a Secure User Activation System in Django](https://dev.to/ndourc/building-a-secure-user-activation-system-in-django-3nil)
+- [2579. Count Total Number of Colored Cells](https://dev.to/mdarifulhaque/2579-count-total-number-of-colored-cells-10ef)
+- [How to measure round-trip time &lpar;RTT&rpar; using cURL](https://dev.to/logrocket/how-to-measure-round-trip-time-rtt-using-curl-32og)
+- [Unlocking Efficiency: The Best Developer Tools for 2025](https://dev.to/jetthoughts/unlocking-efficiency-the-best-developer-tools-for-2025-3daa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
