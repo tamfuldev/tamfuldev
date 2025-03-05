@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SPO600: Lab 02](https://dev.to/amullagaliev/spo600-lab-02-38e8)
-- [Building a Secure User Activation System in Django](https://dev.to/ndourc/building-a-secure-user-activation-system-in-django-3nil)
-- [2579. Count Total Number of Colored Cells](https://dev.to/mdarifulhaque/2579-count-total-number-of-colored-cells-10ef)
-- [How to measure round-trip time &lpar;RTT&rpar; using cURL](https://dev.to/logrocket/how-to-measure-round-trip-time-rtt-using-curl-32og)
-- [Unlocking Efficiency: The Best Developer Tools for 2025](https://dev.to/jetthoughts/unlocking-efficiency-the-best-developer-tools-for-2025-3daa)
+- [Let&#39;s go guys! Who will win?](https://dev.to/pxlmastrxd/lets-go-guys-who-will-win-2ijk)
+- [Free Follow&lpar;s&rpar; Challenge: Who can code a Number parser from Scratch?](https://dev.to/pxlmastrxd/free-follows-challenge-who-can-code-a-number-parser-from-scratch-1ln4)
+- [Agentic AI - A Developer&#39;s guide](https://dev.to/samir_sahoo_995433714e720/agentic-ai-a-developers-guide-3bf8)
+- [Docker 101 ft. Avg Web Dev](https://dev.to/harishij/docker-101-ft-avg-web-dev-25m7)
+- [A Simple Tool To Quickly Find API Entry Points Across All Your Repositories](https://dev.to/shrsv/a-simple-tool-to-quickly-find-api-entry-points-across-all-your-repositories-2pe9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
