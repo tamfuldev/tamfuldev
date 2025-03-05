@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Build Your Own AI Content Factory: From One Idea to Ten Platforms Automatically](https://dev.to/guerra2fernando/build-your-own-ai-content-factory-from-one-idea-to-ten-platforms-automatically-44al)
-- [How to detect classes contained in ruby gems in Tailwind 4](https://dev.to/nejremeslnici/how-to-detect-classes-contained-in-ruby-gems-in-tailwind-4-14n6)
-- [Game Vault 777 APKis a popular game with a large collection of exciting games and a real cash-prize gameplay experience. This game has something for every type of player. This app has a large collection of games, such as Adventure, Racing, and action games](https://dev.to/kime_mike_9242dba4147756e/game-vault-777-apkis-a-popular-game-with-a-large-collection-of-exciting-games-and-a-real-cash-prize-4p1j)
-- [Exploring OpenSource on OpenSea: A Fusion of Art and Collaboration](https://dev.to/ahmmrizv9/exploring-opensource-on-opensea-a-fusion-of-art-and-collaboration-jo8)
-- [How Gaming Apps Can Be Leveraged for Public Health Awareness](https://dev.to/bret_2c98ea2cd7607ed7415d/how-gaming-apps-can-be-leveraged-for-public-health-awareness-456l)
+- [用 Ollama？其實你在跑 llama.cpp！學會直接使用它，發揮更強性能！](https://dev.to/jambochen/yong-ollamaqi-shi-ni-zai-pao-llamacppxue-hui-zhi-jie-shi-yong-ta-fa-hui-geng-qiang-xing-neng--1m38)
+- [The future of dev, I&#39;m confused...](https://dev.to/echotedev/the-future-of-dev-im-confused-5433)
+- [Code Explanation: &quot;Repomix: Codebase Packaging for AI Consumption&quot;](https://dev.to/foxgem/code-explanation-repomix-codebase-packaging-for-ai-consumption-2g44)
+- [Day 1: Mastering Django, PostgreSQL &amp; SQL – My 20-Day Challenge Begins!](https://dev.to/techfixbyte/day-1-mastering-django-postgresql-sql-my-20-day-challenge-begins-d5m)
+- [A Julia game engine: Cruise](https://dev.to/geseey/a-julia-game-engine-cruise-3jph)
 <!-- BLOG-POST-LIST:END -->
 
 ---
