@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to build your Solana sniper bot &lpar;2&rpar;💰🚀](https://dev.to/vietthanhsai/how-to-build-your-solana-sniper-bot-2-18b)
-- [License-Token: Revolutionizing Open Source Licensing](https://dev.to/ahmmrizv9/license-token-revolutionizing-open-source-licensing-2p7e)
-- [Pt 2: Payload Form Builder Plugin - Custom Array Field](https://dev.to/mikecebul/pt-2-payload-form-builder-plugin-custom-array-field-23d2)
-- [Streamlining Routine ML Tasks with LangChain: A Hacker News Comment Analysis Example](https://dev.to/sangeetagarwal/streamlining-routine-ml-tasks-with-langchain-a-hacker-news-comment-analysis-example-22e9)
-- [Me ajudou muito](https://dev.to/paulopbi_/me-ajudou-muito-3n15)
+- [Can Snyk Detect JWT Security Issues?](https://dev.to/snyk/can-snyk-detect-jwt-security-issues-4i25)
+- [ChatGPT and Secure Coding: Benefits and Security Vulnerabilities of ChatGPT-Generated Code](https://dev.to/snyk/chatgpt-and-secure-coding-benefits-and-security-vulnerabilities-of-chatgpt-generated-code-44e)
+- [Can Individuals Sell on Lazada? Registration Rules Explained](https://dev.to/clarkeer/can-individuals-sell-on-lazada-registration-rules-explained-2eop)
+- [The Ultimate 2025 Guide to Choosing a No-Code Tool &lpar;23 Best Picks&rpar;](https://dev.to/nocobase/the-ultimate-2025-guide-to-choosing-a-no-code-tool-23-best-picks-g24)
+- [Microsoft&#39;s Journey into Open Source: A Transformational Tale](https://dev.to/vitalisorenko/microsofts-journey-into-open-source-a-transformational-tale-2jpj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
