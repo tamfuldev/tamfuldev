@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Production-Ready To-Do API with FastAPI](https://dev.to/m_muhd8/building-a-production-ready-to-do-api-with-fastapi-33om)
-- [AWS Outposts: Lleva la nube de AWS a tu centro de datos](https://dev.to/briansuarezsantiago/aws-outposts-lleva-la-nube-de-aws-a-tu-centro-de-datos-1clo)
-- [How to Use AWK Like an Expert: The Ultimate Guide for Bash Power Users](https://dev.to/karandaid/how-to-use-awk-like-an-expert-the-ultimate-guide-for-bash-power-users-1cd)
-- [Presentation](https://dev.to/gabrian/presentation-254)
-- [JOB- NC - Application Development Manager - Onsite](https://dev.to/ckrecruit/job-in-nc-application-development-manager-59mg)
+- [How to build your Solana sniper bot &lpar;2&rpar;💰🚀](https://dev.to/vietthanhsai/how-to-build-your-solana-sniper-bot-2-18b)
+- [License-Token: Revolutionizing Open Source Licensing](https://dev.to/ahmmrizv9/license-token-revolutionizing-open-source-licensing-2p7e)
+- [Pt 2: Payload Form Builder Plugin - Custom Array Field](https://dev.to/mikecebul/pt-2-payload-form-builder-plugin-custom-array-field-23d2)
+- [Streamlining Routine ML Tasks with LangChain: A Hacker News Comment Analysis Example](https://dev.to/sangeetagarwal/streamlining-routine-ml-tasks-with-langchain-a-hacker-news-comment-analysis-example-22e9)
+- [Me ajudou muito](https://dev.to/paulopbi_/me-ajudou-muito-3n15)
 <!-- BLOG-POST-LIST:END -->
 
 ---
