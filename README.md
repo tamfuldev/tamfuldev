@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Built a NextJS headless Shopify boilerplate](https://dev.to/pontusabrahamsson/built-a-nextjs-headless-shopify-boilerplate-4b7e)
-- [Estimación de costos desde Terraform con Infracost](https://dev.to/barbara_gaspar/estimacion-de-costos-desde-terraform-con-infracost-49co)
-- [AI-Generated Code vs. Learning to Code: The Future of Software Development &amp; Critical Thinking](https://dev.to/nidasahar/ai-generated-code-vs-learning-to-code-the-future-of-software-development-critical-thinking-1ldl)
-- [Understanding Go’s Supercharged Map in v1.24](https://dev.to/chen/understanding-gos-supercharged-map-in-v124-1gka)
-- [Understanding JSX in React: History, Features, and Examples](https://dev.to/marie_berezhna/understanding-jsx-in-react-history-features-and-examples-1e7i)
+- [🚀 Build Your Own AI Content Factory: From One Idea to Ten Platforms Automatically](https://dev.to/guerra2fernando/build-your-own-ai-content-factory-from-one-idea-to-ten-platforms-automatically-44al)
+- [How to detect classes contained in ruby gems in Tailwind 4](https://dev.to/nejremeslnici/how-to-detect-classes-contained-in-ruby-gems-in-tailwind-4-14n6)
+- [Game Vault 777 APKis a popular game with a large collection of exciting games and a real cash-prize gameplay experience. This game has something for every type of player. This app has a large collection of games, such as Adventure, Racing, and action games](https://dev.to/kime_mike_9242dba4147756e/game-vault-777-apkis-a-popular-game-with-a-large-collection-of-exciting-games-and-a-real-cash-prize-4p1j)
+- [Exploring OpenSource on OpenSea: A Fusion of Art and Collaboration](https://dev.to/ahmmrizv9/exploring-opensource-on-opensea-a-fusion-of-art-and-collaboration-jo8)
+- [How Gaming Apps Can Be Leveraged for Public Health Awareness](https://dev.to/bret_2c98ea2cd7607ed7415d/how-gaming-apps-can-be-leveraged-for-public-health-awareness-456l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
