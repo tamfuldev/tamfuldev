@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Vibe Coding is here—are we ready? 🤖 AI-powered coding tools like GitHub Copilot &amp; Claude Code are changing how we write software—faster builds, cleaner code, less hassle. But is this the future or a risky shortcut? Let&#39;s discuss! 👇](https://dev.to/johnschibelli/vibe-coding-is-here-are-we-ready-ai-powered-coding-tools-like-github-copilot-claude-code-are-1nc1)
-- [How to Create an Azure Compute Gallery and Capture the Image of a Virtual Machine Using the Azure Portal](https://dev.to/ibrahimbioabu/how-to-create-an-azure-compute-gallery-and-capture-the-image-of-a-virtual-machine-using-the-azure-1mgl)
-- [Writing and Reading NFC in Flutter | Comprehensive Guide](https://dev.to/anshikaila/writing-and-reading-nfc-in-flutter-comprehensive-guide-5570)
-- [Kubernetes vs Serverless: Cutting Through the Complexity for Stateless Success](https://dev.to/naveens16/kubernetes-vs-serverless-cutting-through-the-complexity-for-stateless-success-4ic0)
-- [System Throughput: A Deep Dive into Performance Metrics, Calculation, and Influencing Factors](https://dev.to/devcorner/system-throughput-a-deep-dive-into-performance-metrics-calculation-and-influencing-factors-254d)
+- [How Not to Build a Ledger](https://dev.to/formance/how-not-to-build-a-ledger-cfg)
+- [Pattern Print](https://dev.to/anjali_gurjar_dff81513867/pattern-print-40k8)
+- [Turn Your Existing DevOps Pipeline Into an MLOps Pipeline](https://dev.to/engroso/turn-your-existing-devops-pipeline-into-an-mlops-pipeline-3hof)
+- [Building a reusable multi-step form with React Hook Form and Zod](https://dev.to/logrocket/building-a-reusable-multi-step-form-with-react-hook-form-and-zod-39lc)
+- [Join Our First-Ever WeCoded Challenge – Celebrating Underrepresented Voices in Tech Through Stories &amp; Code!](https://dev.to/devteam/join-our-first-ever-wecoded-challenge-celebrating-underrepresented-voices-in-tech-through-stories-5m5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
