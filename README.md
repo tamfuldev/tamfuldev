@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/arcanoix/-6e9)
-- [Chronology and Evolution of Angular through the Years - From v2 to v19](https://dev.to/windmateus/chronology-and-evolution-of-angular-through-the-years-from-v2-to-v19-4obc)
-- [From Template Troubles to Top 10: My 24-Hour Hackathon Journey](https://dev.to/47sathwik_sureshshetty_/from-template-troubles-to-top-10-my-24-hour-hackathon-journey-4bck)
-- [Big O Notation: Explicação Simples para Quem Não É Expert &lpar;Ainda!&rpar;](https://dev.to/pripoliveira50/big-o-notation-explicacao-simples-para-quem-nao-e-expert-ainda-1f1d)
-- [Unlocking Success: Amazon Marketing Strategies for 2024](https://dev.to/jetthoughts/unlocking-success-amazon-marketing-strategies-for-2024-5eg1)
+- [Last chance for early-bird pricing for IBM TechXchange 2025!](https://dev.to/ibmdeveloper-staff/last-chance-for-early-bird-pricing-for-ibm-techxchange-2025-2e4e)
+- [GA Tracking without urls using WP tags](https://dev.to/johnnyb/ga-tracking-without-urls-using-wp-tags-1af)
+- [How to spin a Windows Virtual Machine in Azure](https://dev.to/timilehin_olatunde_i/how-to-spin-a-windows-virtual-machine-in-azure-52hn)
+- [Como criar e consumir uma API REST simples em Java puro](https://dev.to/brayanmonteiroo/como-criar-e-consumir-uma-api-rest-simples-em-java-puro-1ag3)
+- [CRUD Java, MySQL e JDBC](https://dev.to/brayanmonteiroo/crud-java-mysql-e-jdbc-19j4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
