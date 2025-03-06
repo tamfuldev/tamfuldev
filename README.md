@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My First Python Project : Terminal Wordle](https://dev.to/dgilson74/my-first-python-project-terminal-wordle-1e78)
-- [Criando Web APIs modernas, autônomas e rastreáveis com .Net Core utilizando arquitetura de microsserviços – Parte 2](https://dev.to/silvairsoares/criando-web-apis-modernas-autonomas-e-rastreaveis-com-net-core-utilizando-arquitetura-de-4hko)
-- [New features for my neural web architecture](https://dev.to/okerew/new-features-for-my-neural-web-architecture-440j)
-- [How to Handle Form Validation in Codeigniter in 2025?](https://dev.to/jordankeurope/how-to-handle-form-validation-in-codeigniter-in-2025-527j)
-- [How Nudge Theory Shapes Our Everyday Choices &lpar;and UX Design!&rpar;](https://dev.to/rijultp/how-nudge-theory-shapes-our-everyday-choices-and-ux-design-9ke)
+- [[Boost]](https://dev.to/arcanoix/-6e9)
+- [Chronology and Evolution of Angular through the Years - From v2 to v19](https://dev.to/windmateus/chronology-and-evolution-of-angular-through-the-years-from-v2-to-v19-4obc)
+- [From Template Troubles to Top 10: My 24-Hour Hackathon Journey](https://dev.to/47sathwik_sureshshetty_/from-template-troubles-to-top-10-my-24-hour-hackathon-journey-4bck)
+- [Big O Notation: Explicação Simples para Quem Não É Expert &lpar;Ainda!&rpar;](https://dev.to/pripoliveira50/big-o-notation-explicacao-simples-para-quem-nao-e-expert-ainda-1f1d)
+- [Unlocking Success: Amazon Marketing Strategies for 2024](https://dev.to/jetthoughts/unlocking-success-amazon-marketing-strategies-for-2024-5eg1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
