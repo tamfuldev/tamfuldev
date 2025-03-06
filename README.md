@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [^ &lpar;Caret&rpar; and ~ &lpar;Tilde&rpar; in package.json](https://dev.to/the-vs/-and-in-packagejson-p64)
-- [The Role of AI and Machine Learning in Data Discovery](https://dev.to/henry_29970f849a925d6a300/the-role-of-ai-and-machine-learning-in-data-discovery-c88)
-- [Hybrid Cloud vs. Multi-Cloud: Choosing the Right Strategy for Your Business](https://dev.to/hrtech/hybrid-cloud-vs-multi-cloud-choosing-the-right-strategy-for-your-business-2806)
-- [Common Pitfalls in Data-Driven Testing And How To Avoid Them](https://dev.to/abhayit2000/common-pitfalls-in-data-driven-testing-and-how-to-avoid-them-4ch2)
-- [What are AI hallucinations?](https://dev.to/e77/what-are-ai-hallucinations-2oo8)
+- [10 Git Commands You Probably Didn&#39;t Know &lpar;But Should!&rpar;](https://dev.to/ananiket/10-git-commands-you-probably-didnt-know-but-should-19cg)
+- [OSD700: Sprint 4 - Planning](https://dev.to/amullagaliev/osd700-sprint-4-planning-4ieb)
+- [Managing current user in Rails, our way - part 2](https://dev.to/janmpeterka/managing-current-user-in-rails-our-way-part-2-2if0)
+- [How to Install and Use NVM Globally on Your System](https://dev.to/srijan_karki/how-to-install-and-use-nvm-globally-on-your-system-586g)
+- [Tokenizing Open Source Licenses: Revolutionizing the Software Industry](https://dev.to/vitalisorenko/tokenizing-open-source-licenses-revolutionizing-the-software-industry-396)
 <!-- BLOG-POST-LIST:END -->
 
 ---
