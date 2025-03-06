@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Domina la comunicación entre componentes en Angular: Guía completa](https://dev.to/cristian_arieta_7df932e5f/domina-la-comunicacion-entre-componentes-en-angular-guia-completa-13hd)
-- [Exploring AI Frameworks: A Deep Dive into Semantic Kernel and My Open Source Contributions](https://dev.to/shethaadit/exploring-ai-frameworks-a-deep-dive-into-semantic-kernel-and-my-open-source-contributions-1pdd)
-- [The Ultimate Guide to the Best Folder Structure in React Native](https://dev.to/ersuman/the-ultimate-guide-to-the-best-folder-structure-in-react-native-dc4)
-- [Why AI Won’t Steal Your Job &lpar;But That One Intern Might&rpar;](https://dev.to/mrshelby0/why-ai-wont-steal-your-job-but-that-one-intern-might-4p1m)
-- [Unlocking the Future Top Trends and Innovations in Bespoke Software Solutions for 2024](https://dev.to/max_services/unlocking-the-future-top-trends-and-innovations-in-bespoke-software-solutions-for-2024-4nop)
+- [Relembrando allSettled aqui com os colegas](https://dev.to/sucodelarangela/relembrando-allsettled-aqui-com-os-colegas-45og)
+- [I built a tool to automate CUDA kernel profiling and optimization, would love your feedback:D](https://dev.to/jr23_xd/i-built-a-tool-to-automate-cuda-kernel-profiling-and-optimization-would-love-your-feedbackd-1h8f)
+- [💻 Lista de Exercícios Básicos em Java 🚀 Part 5](https://dev.to/vitorpaiola/lista-de-exercicios-basicos-em-java-part-5-1mbl)
+- [How Alibaba’s QwQ-32B Model Outperforms the Mighty 671 Billion-Parameter DeepSeek-R1](https://dev.to/aibyamdad/how-alibabas-qwq-32b-model-outperforms-the-mighty-671-billion-parameter-deepseek-r1-3nep)
+- [4 Developer Personas You’ve Definitely Met &lpar;and Probably Wanted to Fire&rpar;](https://dev.to/hotfixhero/4-developer-personas-youve-definitely-met-and-probably-wanted-to-fire-2k8e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
