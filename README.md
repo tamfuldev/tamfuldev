@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Filtering Nested Data in Tanstack Table](https://dev.to/jumbo02/filtering-nested-data-in-tanstack-table-1011)
-- [Congrats to the Frontend Challenge: February Edition Winners!](https://dev.to/devteam/congrats-to-the-frontend-challenge-february-edition-winners-3an9)
-- [In 2025, we can and should simplify Web development](https://dev.to/greenersoft/in-2025-we-can-and-should-simplify-web-development-2m8c)
-- [¡Obtén tu certificación AWS gratis! Vales para niveles Fundacional y Asociado disponibles](https://dev.to/kevinl/obten-tu-certificacion-aws-gratis-vales-para-niveles-fundacional-y-asociado-disponibles-15gh)
-- [Meet Marketing Tools List: Our Indie-Maker Project for Marketers](https://dev.to/stan8086/meet-marketing-tools-list-our-indie-maker-project-for-marketers-351h)
+- [What is Manus](https://dev.to/andylawrence/what-is-manus-3lg7)
+- [Is SEO a &#39;race to the bottom&#39; or a genuine opportunity to create valuable and informative content for users?](https://dev.to/seosiri/is-seo-a-race-to-the-bottom-or-a-genuine-opportunity-to-create-valuable-and-informative-content-41k)
+- [Unleash the Power of Boosting: A Practical Guide to Ensemble Learning - PART III](https://dev.to/sreeni5018/unleash-the-power-of-boosting-a-practical-guide-to-ensemble-learning-part-iii-317h)
+- [Introduction to Manus AI: The Autonomous Digital Agent](https://dev.to/andylawrence/introduction-to-manus-ai-the-autonomous-digital-agent-3104)
+- [Hook, Hack, Defend: Frida’s Impact on Mobile Security &amp; How to Fight Back](https://dev.to/yurii_denchyk_bb561af8d2d/hook-hack-defend-fridas-impact-on-mobile-security-how-to-fight-back-14ea)
 <!-- BLOG-POST-LIST:END -->
 
 ---
