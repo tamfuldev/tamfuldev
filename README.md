@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [4th Sprint Plan](https://dev.to/aldrin312/4th-sprint-plan-2f0k)
-- [Partners: How ISOs and PayFacs Are Shaping Fintech](https://dev.to/rapyd/partners-how-isos-and-payfacs-are-shaping-fintech-1hk1)
-- [Sharding vs. Partitioning vs. Replication: A Complete Guide](https://dev.to/devcorner/sharding-vs-partitioning-vs-replication-a-complete-guide-17b2)
-- [How TLS/SSL Works: Securing Communication on the Internet](https://dev.to/devcorner/how-tlsssl-works-securing-communication-on-the-internet-2eae)
-- [Recursive permutations of characters](https://dev.to/jacopo/recursive-permutations-of-characters-4kj5)
+- [Burn Your Web Stack: PostgreSQL Does It All](https://dev.to/lovestaco/burn-your-web-stack-postgresql-does-it-all-2h0p)
+- [Google Chrome DevTools Introduces Advanced CLS Debugging Tool Enhancing Web Performance](https://dev.to/max_services/google-chrome-devtools-introduces-advanced-cls-debugging-tool-enhancing-web-performance-3pee)
+- [Destructuring of Props in React.js](https://dev.to/victoria_limadecarvalho/destructuring-of-props-in-reactjs-2a72)
+- [Revolutionizing IT Management with Infrastructure as Code](https://dev.to/max_services/revolutionizing-it-management-with-infrastructure-as-code-1i9o)
+- [A comprehensive guide to create first FastAPI Rest API](https://dev.to/cleverzone/a-comprehensive-guide-to-create-first-fastapi-rest-api-576c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
