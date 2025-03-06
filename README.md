@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [10 Git Commands You Probably Didn&#39;t Know &lpar;But Should!&rpar;](https://dev.to/ananiket/10-git-commands-you-probably-didnt-know-but-should-19cg)
-- [OSD700: Sprint 4 - Planning](https://dev.to/amullagaliev/osd700-sprint-4-planning-4ieb)
-- [Managing current user in Rails, our way - part 2](https://dev.to/janmpeterka/managing-current-user-in-rails-our-way-part-2-2if0)
-- [How to Install and Use NVM Globally on Your System](https://dev.to/srijan_karki/how-to-install-and-use-nvm-globally-on-your-system-586g)
-- [Tokenizing Open Source Licenses: Revolutionizing the Software Industry](https://dev.to/vitalisorenko/tokenizing-open-source-licenses-revolutionizing-the-software-industry-396)
+- [Filtering Nested Data in Tanstack Table](https://dev.to/jumbo02/filtering-nested-data-in-tanstack-table-1011)
+- [Congrats to the Frontend Challenge: February Edition Winners!](https://dev.to/devteam/congrats-to-the-frontend-challenge-february-edition-winners-3an9)
+- [In 2025, we can and should simplify Web development](https://dev.to/greenersoft/in-2025-we-can-and-should-simplify-web-development-2m8c)
+- [¡Obtén tu certificación AWS gratis! Vales para niveles Fundacional y Asociado disponibles](https://dev.to/kevinl/obten-tu-certificacion-aws-gratis-vales-para-niveles-fundacional-y-asociado-disponibles-15gh)
+- [Meet Marketing Tools List: Our Indie-Maker Project for Marketers](https://dev.to/stan8086/meet-marketing-tools-list-our-indie-maker-project-for-marketers-351h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
