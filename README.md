@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🧠🤖AI coding agent 1 &lpar;Cline + Cursor&rpar;](https://dev.to/webdeveloperhyper/ai-coding-agent-1-cline-cursor-2p86)
-- [⛏️How to Compile and Install Neovim on Debian](https://dev.to/yawatasensei/how-to-compile-and-install-neovim-on-debian-134g)
-- [AI tool for Developer](https://dev.to/abhishek_chaudhary_2768d1/ai-tool-for-developer-2i01)
-- [Navigating Open Source Compliance in SAP Environments](https://dev.to/ahmmrizv9/navigating-open-source-compliance-in-sap-environments-2e1i)
-- [Streaming Success: Navigating the World of Roku App Developer](https://dev.to/yansiel_aistechnolabs/streaming-success-navigating-the-world-of-roku-app-developer-5bij)
+- [The Friendly Future: How AI Makes Life Easier and Safer for Everyone](https://dev.to/yashksaini/the-friendly-future-how-ai-makes-life-easier-and-safer-for-everyone-4de8)
+- [🚀 The Ultimate Guide to REST API Design: Best Practices &amp; Patterns You Can’t Ignore](https://dev.to/dct_technologyprivatelimited/the-ultimate-guide-to-rest-api-design-best-practices-patterns-you-cant-ignore-f83)
+- [Navigating Innovation: The Intersection of NFTs, Open Source Licensing, and Pudgy Penguins](https://dev.to/rachellovestowrite/navigating-innovation-the-intersection-of-nfts-open-source-licensing-and-pudgy-penguins-42ig)
+- [mangle.json in Preact source code.](https://dev.to/ramunarasinga-11/manglejson-in-preact-source-code-5aea)
+- [QwQ-32B vs DeepSeek-R1-671B](https://dev.to/amrs-tech/qwq-32b-vs-deepseek-r1-671b-5d64)
 <!-- BLOG-POST-LIST:END -->
 
 ---
