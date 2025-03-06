@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Important Concept in Cloud Computing](https://dev.to/timilehin_olatunde_i/important-concept-in-cloud-computing-4bfl)
-- [Introduction to Storybook: A Guide for UI Development](https://dev.to/tene/introduction-to-storybook-a-guide-for-ui-development-2ddj)
-- [Shortcut Linking with AWS Identity Center SSO](https://dev.to/thesnups/shortcut-linking-with-aws-identity-center-sso-26j8)
-- [How Does Vue.js Compare to React and Angular for Front-end Development?](https://dev.to/jordankeurope/how-does-vuejs-compare-to-react-and-angular-for-front-end-development-47m9)
-- [Troubleshooting AWS Console Issues: A Comprehensive Guide](https://dev.to/billgist/troubleshooting-aws-console-issues-a-comprehensive-guide-3nbi)
+- [Breaking Down Problems Step by Step](https://dev.to/testamplify/breaking-down-problems-step-by-step-2dl4)
+- [How my kids learned English with Serverless and GenAI](https://dev.to/aws-heroes/how-my-kids-learned-english-with-serverless-and-genai-pfe)
+- [Why Can&#39;t I Receive the Verification Code When Registering for Cursor?](https://dev.to/scde/why-cant-i-receive-the-verification-code-when-registering-for-cursor-501o)
+- [What is Programming? Understanding How Computers Think](https://dev.to/testamplify/what-is-programming-understanding-how-computers-think-2b63)
+- [flowchart TD A[Inicio] --&gt; B[Recolección y Clasificación de Residuos] B --&gt; C[Pretratamiento &lpar;Trituración y Homogeneización&rpar;] C --&gt; D[Digestión Anaerobia en Biodigestores] D --&gt; E1[Producción de Biogás] D --&gt; E2[Producción de Digestato]](https://dev.to/juliana_hernandez_471cc7c/flowchart-td-ainicio-brecoleccion-y-clasificacion-de-residuos-b--2f4m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
