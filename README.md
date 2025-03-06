@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Burn Your Web Stack: PostgreSQL Does It All](https://dev.to/lovestaco/burn-your-web-stack-postgresql-does-it-all-2h0p)
-- [Google Chrome DevTools Introduces Advanced CLS Debugging Tool Enhancing Web Performance](https://dev.to/max_services/google-chrome-devtools-introduces-advanced-cls-debugging-tool-enhancing-web-performance-3pee)
-- [Destructuring of Props in React.js](https://dev.to/victoria_limadecarvalho/destructuring-of-props-in-reactjs-2a72)
-- [Revolutionizing IT Management with Infrastructure as Code](https://dev.to/max_services/revolutionizing-it-management-with-infrastructure-as-code-1i9o)
-- [A comprehensive guide to create first FastAPI Rest API](https://dev.to/cleverzone/a-comprehensive-guide-to-create-first-fastapi-rest-api-576c)
+- [Domina la comunicación entre componentes en Angular: Guía completa](https://dev.to/cristian_arieta_7df932e5f/domina-la-comunicacion-entre-componentes-en-angular-guia-completa-13hd)
+- [Exploring AI Frameworks: A Deep Dive into Semantic Kernel and My Open Source Contributions](https://dev.to/shethaadit/exploring-ai-frameworks-a-deep-dive-into-semantic-kernel-and-my-open-source-contributions-1pdd)
+- [The Ultimate Guide to the Best Folder Structure in React Native](https://dev.to/ersuman/the-ultimate-guide-to-the-best-folder-structure-in-react-native-dc4)
+- [Why AI Won’t Steal Your Job &lpar;But That One Intern Might&rpar;](https://dev.to/mrshelby0/why-ai-wont-steal-your-job-but-that-one-intern-might-4p1m)
+- [Unlocking the Future Top Trends and Innovations in Bespoke Software Solutions for 2024](https://dev.to/max_services/unlocking-the-future-top-trends-and-innovations-in-bespoke-software-solutions-for-2024-4nop)
 <!-- BLOG-POST-LIST:END -->
 
 ---
