@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [You Thought Your Job Was Safe from Automation? Bad News.](https://dev.to/softyflow/you-thought-your-job-was-safe-from-automation-bad-news-1nk)
-- [🚀 Cómo reducir costos en AWS con Savings Plans 💰](https://dev.to/francotel/como-reducir-costos-en-aws-con-savings-plans-460f)
-- [Asynchronous Programming in Dart and Flutter](https://dev.to/eliseyozerov/asynchronous-programming-in-dart-and-flutter-34dd)
-- [End-to-End SEO Testing with Playwright and Lighthouse](https://dev.to/autumn_tonita1/end-to-end-seo-testing-with-playwright-and-lighthouse-3n5c)
-- [Still Using WireMock? Here’s Why You Should Switch to Mockingbird](https://dev.to/ozkeisar/still-using-wiremock-heres-why-you-should-switch-to-mockingbird-4pji)
+- [4th Sprint Plan](https://dev.to/aldrin312/4th-sprint-plan-2f0k)
+- [Partners: How ISOs and PayFacs Are Shaping Fintech](https://dev.to/rapyd/partners-how-isos-and-payfacs-are-shaping-fintech-1hk1)
+- [Sharding vs. Partitioning vs. Replication: A Complete Guide](https://dev.to/devcorner/sharding-vs-partitioning-vs-replication-a-complete-guide-17b2)
+- [How TLS/SSL Works: Securing Communication on the Internet](https://dev.to/devcorner/how-tlsssl-works-securing-communication-on-the-internet-2eae)
+- [Recursive permutations of characters](https://dev.to/jacopo/recursive-permutations-of-characters-4kj5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
