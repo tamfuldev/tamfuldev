@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Relembrando allSettled aqui com os colegas](https://dev.to/sucodelarangela/relembrando-allsettled-aqui-com-os-colegas-45og)
-- [I built a tool to automate CUDA kernel profiling and optimization, would love your feedback:D](https://dev.to/jr23_xd/i-built-a-tool-to-automate-cuda-kernel-profiling-and-optimization-would-love-your-feedbackd-1h8f)
-- [💻 Lista de Exercícios Básicos em Java 🚀 Part 5](https://dev.to/vitorpaiola/lista-de-exercicios-basicos-em-java-part-5-1mbl)
-- [How Alibaba’s QwQ-32B Model Outperforms the Mighty 671 Billion-Parameter DeepSeek-R1](https://dev.to/aibyamdad/how-alibabas-qwq-32b-model-outperforms-the-mighty-671-billion-parameter-deepseek-r1-3nep)
-- [4 Developer Personas You’ve Definitely Met &lpar;and Probably Wanted to Fire&rpar;](https://dev.to/hotfixhero/4-developer-personas-youve-definitely-met-and-probably-wanted-to-fire-2k8e)
+- [My First Python Project : Terminal Wordle](https://dev.to/dgilson74/my-first-python-project-terminal-wordle-1e78)
+- [Criando Web APIs modernas, autônomas e rastreáveis com .Net Core utilizando arquitetura de microsserviços – Parte 2](https://dev.to/silvairsoares/criando-web-apis-modernas-autonomas-e-rastreaveis-com-net-core-utilizando-arquitetura-de-4hko)
+- [New features for my neural web architecture](https://dev.to/okerew/new-features-for-my-neural-web-architecture-440j)
+- [How to Handle Form Validation in Codeigniter in 2025?](https://dev.to/jordankeurope/how-to-handle-form-validation-in-codeigniter-in-2025-527j)
+- [How Nudge Theory Shapes Our Everyday Choices &lpar;and UX Design!&rpar;](https://dev.to/rijultp/how-nudge-theory-shapes-our-everyday-choices-and-ux-design-9ke)
 <!-- BLOG-POST-LIST:END -->
 
 ---
