@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Friendly Future: How AI Makes Life Easier and Safer for Everyone](https://dev.to/yashksaini/the-friendly-future-how-ai-makes-life-easier-and-safer-for-everyone-4de8)
-- [🚀 The Ultimate Guide to REST API Design: Best Practices &amp; Patterns You Can’t Ignore](https://dev.to/dct_technologyprivatelimited/the-ultimate-guide-to-rest-api-design-best-practices-patterns-you-cant-ignore-f83)
-- [Navigating Innovation: The Intersection of NFTs, Open Source Licensing, and Pudgy Penguins](https://dev.to/rachellovestowrite/navigating-innovation-the-intersection-of-nfts-open-source-licensing-and-pudgy-penguins-42ig)
-- [mangle.json in Preact source code.](https://dev.to/ramunarasinga-11/manglejson-in-preact-source-code-5aea)
-- [QwQ-32B vs DeepSeek-R1-671B](https://dev.to/amrs-tech/qwq-32b-vs-deepseek-r1-671b-5d64)
+- [Advanced WebRTC Python: Unleashing Real-Time Communication](https://dev.to/bhavyajain/advanced-webrtc-python-unleashing-real-time-communication-22nn)
+- [Role of RSA Certificates in Securing Online Transactions](https://dev.to/olivia_carter/role-of-rsa-certificates-in-securing-online-transactions-5356)
+- [Rarible’s Open Source Sustainability: A New Era for Decentralized Innovation](https://dev.to/ashucommits/raribles-open-source-sustainability-a-new-era-for-decentralized-innovation-3do7)
+- [The Decentralized Web &lpar;Web 3.0&rpar;: Building the Future of Digital Freedom](https://dev.to/okoye_ndidiamaka_5e3b7d30/the-decentralized-web-web-30-building-the-future-of-digital-freedom-d48)
+- [鸿蒙NEXT开发案例：指南针](https://dev.to/zhongcx/hong-meng-nextkai-fa-an-li-zhi-nan-zhen-19c8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
