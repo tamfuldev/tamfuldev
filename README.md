@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 RAG on AWS: Building an AI-powerd Knowledge Base, with Amazon Bedrock and Pinecone using AWS CloudFormation](https://dev.to/ddesio/rag-on-aws-building-an-ai-powerd-knowledge-base-with-amazon-bedrock-and-pinecone-using-aws-nl1)
-- [How do I stop auto payment on Kuku FM?](https://dev.to/userjhd/how-do-i-stop-auto-payment-on-kuku-fm-5f9f)
-- [🎉 I just hit 100 WPM 🎊](https://dev.to/shricodev/i-just-hit-100-wpm-3ppo)
-- [Kế hoạch Du lịch Úc Tự Túc Hoàn Hảo Nhất 2025](https://dev.to/taichinhnguyenle2008/ke-hoach-du-lich-uc-tu-tuc-hoan-hao-nhat-2025-5h3d)
-- [Understanding SAML Authentication: Key Concepts and Differences Between SP and IdP Initiated Flows](https://dev.to/dushmanta/understanding-saml-authentication-key-concepts-and-differences-between-sp-and-idp-initiated-flows-jea)
+- [JavaScript Weekly: Top Links for March 7, 2025](https://dev.to/jsdevspace/javascript-weekly-top-links-for-march-7-2025-4oo3)
+- [2025 Integration Testing Handbook: Techniques, Tools, and Trends](https://dev.to/testwithtorin/2025-integration-testing-handbook-techniques-tools-and-trends-3ebc)
+- [Creating an Azure Compute Gallery and Capturing the Image of a Virtual Machine &lpar;VM&rpar;](https://dev.to/sammyug7/creating-an-azure-compute-gallery-and-capturing-the-image-of-a-virtual-machine-vm-1n39)
+- [A REST Implementation of ‘Docling’ with FastAPI](https://dev.to/aairom/a-rest-implementation-of-docling-with-fastapi-ogn)
+- [Everything* as code](https://dev.to/hatedabamboo/everything-as-code-3he6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
