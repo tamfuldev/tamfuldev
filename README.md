@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Dynamic Push Notifications with Firebase and Node.js](https://dev.to/this-is-learning/building-dynamic-push-notifications-with-firebase-and-nodejs-516h)
-- [Dell Stock Decline: Margin Pressures and Market Reactions](https://dev.to/terjewilliamson/dell-stock-decline-margin-pressures-and-market-reactions-dan)
-- [I Built a Free URL Shortener with No Ads or Tracking – Try It!](https://dev.to/djobox/i-built-a-free-url-shortener-with-no-ads-or-tracking-try-it-5fcp)
-- [Building a Ruby Gem with CLI and Networking Capabilities: The Lanet Story](https://dev.to/daviducolo/building-a-ruby-gem-with-cli-and-networking-capabilities-the-lanet-story-9kg)
-- [How I Track API Usage for My API Product](https://dev.to/geiger01/how-i-track-api-usage-for-my-api-product-189l)
+- [Enabling Bank Transfer Payments with Live Reconciliation](https://dev.to/flutterwaveeng/enabling-bank-transfer-payments-with-live-reconciliation-1goi)
+- [Web Components without classes](https://dev.to/dariomannu/web-components-without-classes-34hb)
+- [10 Hidden Gems in Angular That You should use](https://dev.to/iss_ssi_ee2c9f3b23dab0747/10-hidden-gems-in-angular-that-you-should-use-5n8)
+- [Modelagem de Dados](https://dev.to/sthefanyspina/modelagem-de-dados-1429)
+- [Master Drizzle ORM](https://dev.to/abeertech01/master-drizzle-orm-4a25)
 <!-- BLOG-POST-LIST:END -->
 
 ---
