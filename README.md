@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Role of AI and Data Science in FinTech](https://dev.to/suresh_ommi_09ed3f224369c/the-role-of-ai-and-data-science-in-fintech-ioe)
-- [HCP Terraform to Azure Cloud using OIDC](https://dev.to/rokicool/hcp-terraform-to-azure-cloud-using-oidc-2i28)
-- [Exploring the Future of Data Access with Spring Data](https://dev.to/jennythomas498/exploring-the-future-of-data-access-with-spring-data-2h0e)
-- [My Journey in the Apache SeaTunnel Community: Contributions, Challenges, and Reflections](https://dev.to/seatunnel/my-journey-in-the-apache-seatunnel-community-contributions-challenges-and-reflections-3djg)
-- [[Boost]](https://dev.to/ali_hassan/-59ka)
+- [🚀 Elasticsearch vs. MongoDB: RAM, Speed &amp; Search Accuracy Tested!](https://dev.to/mrzaizai2k/elasticsearch-and-mongodb-comparison-my-way-45kl)
+- [Flutter + Docker: The Fastest Way to Build Web &amp; Android Apps](https://dev.to/iarunsaragadam/flutter-docker-the-fastest-way-to-build-web-android-apps-2aap)
+- [Exploring Spring Cloud: Innovation, Funding, and Community Empowerment](https://dev.to/ahmmrizv9/exploring-spring-cloud-innovation-funding-and-community-empowerment-5357)
+- [Employing A/B Analysis to Enhance Your Site Design and Online Strategy](https://dev.to/code-charley27/employing-ab-analysis-to-enhance-your-site-design-and-online-strategy-3del)
+- [Traces for Go application with OpenTelemetry on AWS EKS](https://dev.to/aws-builders/traces-for-go-application-with-opentelemetry-on-aws-eks-2e3e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
