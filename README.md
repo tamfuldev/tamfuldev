@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [TDengine Achieves 10x Compression vs. Elasticsearch for Smart Vehicle Solution Provider](https://dev.to/rebecca_tao_651f5198fd9ea/tdengine-achieves-10x-compression-vs-elasticsearch-for-smart-vehicle-solution-provider-1lkd)
-- [Why Major Gaming Companies Are Entering the Blockchain Space](https://dev.to/raiden_studio/why-major-gaming-companies-are-entering-the-blockchain-space-55m8)
-- [Engineering for Growth: Why Your First Architecture Won’t Be Perfect](https://dev.to/this-is-learning/engineering-for-growth-why-your-first-architecture-wont-be-perfect-3007)
-- [Hexagon v4 released 🎉](https://dev.to/hexagontk/hexagon-v4-released-am3)
-- [Exploring Python Web Scraping for Data Collection](https://dev.to/swiftproxy_residential/exploring-python-web-scraping-for-data-collection-3ldc)
+- [Echoes of the Past - Tech is Still Not Equal for All](https://dev.to/eevajonnapanula/echoes-of-the-past-tech-is-still-not-equal-for-all-2c71)
+- [Dockerfile for Django Devs](https://dev.to/exler/dockerfile-for-django-devs-5bml)
+- [Is Your Job Safe? The Future of Work &amp; Career Security](https://dev.to/harsh_patel_ac22862fb37b6/is-your-job-safe-the-future-of-work-career-security-ok6)
+- [How Spotify Uses Containers and Kubernetes to Scale Seamlessly](https://dev.to/techstrategy/how-spotify-uses-containers-kubernetes-to-scale-seamlessly-4j2j)
+- [Reddit Drops Game-Changing Tools For Content Moderation and Analytics For User](https://dev.to/saad_hassan_e94d6ecf23e3c/reddit-drops-game-changing-tools-for-content-moderation-and-analytics-for-user-10in)
 <!-- BLOG-POST-LIST:END -->
 
 ---
