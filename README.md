@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing the tech stack for your SaaS](https://dev.to/egor_kaleynik_7dbe9393e86/choosing-the-tech-stack-for-your-saas-13l2)
-- [On code smells catalogues and taxonomies](https://dev.to/trikitrok/on-code-smells-catalogues-and-taxonomies-3ba6)
-- [HIPAA-Compliant Logging in .NET Healthcare Applications](https://dev.to/bytehide/hipaa-compliant-logging-in-net-healthcare-applications-1mbj)
-- [The Future of AI in Software Development](https://dev.to/sofia-tech/the-future-of-ai-in-software-development-m0g)
-- [Shift Left Testing: A Comprehensive Guide for QA Test Engineers](https://dev.to/dheerajpd411/shift-left-testing-a-comprehensive-guide-for-qa-test-engineers-3dd0)
+- [🤖 RAG on AWS: Building an AI-powerd Knowledge Base, with Amazon Bedrock and Pinecone using AWS CloudFormation](https://dev.to/ddesio/rag-on-aws-building-an-ai-powerd-knowledge-base-with-amazon-bedrock-and-pinecone-using-aws-nl1)
+- [How do I stop auto payment on Kuku FM?](https://dev.to/userjhd/how-do-i-stop-auto-payment-on-kuku-fm-5f9f)
+- [🎉 I just hit 100 WPM 🎊](https://dev.to/shricodev/i-just-hit-100-wpm-3ppo)
+- [Kế hoạch Du lịch Úc Tự Túc Hoàn Hảo Nhất 2025](https://dev.to/taichinhnguyenle2008/ke-hoach-du-lich-uc-tu-tuc-hoan-hao-nhat-2025-5h3d)
+- [Understanding SAML Authentication: Key Concepts and Differences Between SP and IdP Initiated Flows](https://dev.to/dushmanta/understanding-saml-authentication-key-concepts-and-differences-between-sp-and-idp-initiated-flows-jea)
 <!-- BLOG-POST-LIST:END -->
 
 ---
