@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The art of creating an effective application security program: Strategies, Tips and Tools for the Best Results](https://dev.to/lynxfelony1/the-art-of-creating-an-effective-application-security-program-strategies-tips-and-tools-for-the-3akm)
-- [Elevating Your IT Expertise With Software Testing Certification](https://dev.to/kara_masterson/elevating-your-it-expertise-with-software-testing-certification-3i9b)
-- [Making an effective Application Security program: Strategies, Tips, and Tooling for Optimal End-to-End Results](https://dev.to/lynxfelony1/making-an-effective-application-security-program-strategies-tips-and-tooling-for-optimal-3ghg)
-- [Optimizing AWS EventBridge - Default vs. Custom Event Buses and Best Practices](https://dev.to/jajera/optimizing-aws-eventbridge-default-vs-custom-event-buses-and-best-practices-h2a)
-- [Hey everyone, I have a question: is developing a Shopify app still worth it?](https://dev.to/el_aggalimran_37bc51cf59/hey-everyone-i-have-a-question-is-developing-a-shopify-app-still-worth-it-1f51)
+- [The time I Realized I was No Longer an Impostor In the workplace](https://dev.to/andrew_moody_41/the-time-i-realized-i-was-no-longer-an-impostor-in-the-workplace-3lg0)
+- [Simplifying Ecto Fragments with Defrag: A Better Way to Write Database Queries](https://dev.to/dkuku/simplifying-ecto-fragments-with-defrag-a-better-way-to-write-database-queries-enj)
+- [# Pragmatic Programming: How to develop mental models and good practices to be a successful software developer?](https://dev.to/gharsaamin/-pragmatic-programming-how-to-develop-mental-models-and-good-practices-to-be-a-successful-4nli)
+- [Easy Development Environments](https://dev.to/hanna/easy-development-environments-5599)
+- [Security news weekly round-up - 7th March 2025](https://dev.to/ziizium/security-news-weekly-round-up-7th-march-2025-2hmn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
