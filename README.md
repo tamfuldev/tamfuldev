@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Much Does It Cost to Build a SaaS App- A Complete Guide](https://dev.to/raftlabs/how-much-does-it-cost-to-build-a-saas-app-a-complete-guide-284p)
-- [How do I speak to an American representative?](https://dev.to/danilo_gomez_3726a0afa449/how-do-i-speak-to-an-american-representative-a5e)
-- [How To Add Event Listener In JavaScript](https://dev.to/theudemezue/how-to-add-event-listener-in-javascript-1c6n)
-- [Use Docker, No more setup Hell! &lpar;Part-1&rpar;](https://dev.to/sardinessz/use-docker-no-more-setup-hell-part-1-f65)
-- [How to create an effective application security Program: Strategies, Practices and tools to maximize results](https://dev.to/lynxfelony1/how-to-create-an-effective-application-security-program-strategies-practices-and-tools-to-2peg)
+- [TDengine Achieves 10x Compression vs. Elasticsearch for Smart Vehicle Solution Provider](https://dev.to/rebecca_tao_651f5198fd9ea/tdengine-achieves-10x-compression-vs-elasticsearch-for-smart-vehicle-solution-provider-1lkd)
+- [Why Major Gaming Companies Are Entering the Blockchain Space](https://dev.to/raiden_studio/why-major-gaming-companies-are-entering-the-blockchain-space-55m8)
+- [Engineering for Growth: Why Your First Architecture Won’t Be Perfect](https://dev.to/this-is-learning/engineering-for-growth-why-your-first-architecture-wont-be-perfect-3007)
+- [Hexagon v4 released 🎉](https://dev.to/hexagontk/hexagon-v4-released-am3)
+- [Exploring Python Web Scraping for Data Collection](https://dev.to/swiftproxy_residential/exploring-python-web-scraping-for-data-collection-3ldc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
