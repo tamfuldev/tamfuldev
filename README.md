@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Elasticsearch vs. MongoDB: RAM, Speed &amp; Search Accuracy Tested!](https://dev.to/mrzaizai2k/elasticsearch-and-mongodb-comparison-my-way-45kl)
-- [Flutter + Docker: The Fastest Way to Build Web &amp; Android Apps](https://dev.to/iarunsaragadam/flutter-docker-the-fastest-way-to-build-web-android-apps-2aap)
-- [Exploring Spring Cloud: Innovation, Funding, and Community Empowerment](https://dev.to/ahmmrizv9/exploring-spring-cloud-innovation-funding-and-community-empowerment-5357)
-- [Employing A/B Analysis to Enhance Your Site Design and Online Strategy](https://dev.to/code-charley27/employing-ab-analysis-to-enhance-your-site-design-and-online-strategy-3del)
-- [Traces for Go application with OpenTelemetry on AWS EKS](https://dev.to/aws-builders/traces-for-go-application-with-opentelemetry-on-aws-eks-2e3e)
+- [How to Conduct an SDET Technical Interview](https://dev.to/cydavid/how-to-conduct-an-sdet-technical-interview-1b6h)
+- [If programmers have a level, how should we define them?](https://dev.to/cleary_hy_fc24ae650f1db41/if-programmers-have-a-level-how-should-we-define-them-1946)
+- [cypress-runner-themes: Alternative Styles for the Cypress Test Runner](https://dev.to/cydavid/cypress-runner-themes-alternative-styles-for-the-cypress-test-runner-28hb)
+- [Apache Spark: Revolutionizing Big Data with Sustainable Open Source Funding](https://dev.to/rachellovestowrite/apache-spark-revolutionizing-big-data-with-sustainable-open-source-funding-1ag6)
+- [Cypress — Programmatically Control Test Data](https://dev.to/cydavid/cypress-programmatically-control-test-data-3c6e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
