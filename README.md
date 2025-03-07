@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Python One Trick at a Time: A Guide for Dev.to Readers](https://dev.to/0x3d_site/python-one-trick-at-a-time-a-guide-for-devto-readers-hj5)
-- [Introducing yaps.chat - one-time end-to-end encrypted anonymous chats](https://dev.to/abdibrokhim/introducing-yapschat-one-time-end-to-end-encrypted-anonymous-chats-23kf)
-- [I Asked ChatGPT to Write an App… This Happened](https://dev.to/resource_bunk_1077cab07da/i-asked-chatgpt-to-write-an-app-this-happened-27gk)
-- [API Authentication: JWT vs OAuth vs API Keys](https://dev.to/snappytuts/api-authentication-jwt-vs-oauth-vs-api-keys-52bm)
-- [2523. Closest Prime Numbers in Range](https://dev.to/mdarifulhaque/2523-closest-prime-numbers-in-range-3bne)
+- [Unleashing the Power of @ in Rust’s Pattern Matching](https://dev.to/leapcell/unleashing-the-power-of-in-rusts-pattern-matching-22ae)
+- [My Cybersecurity Journey: From Curiosity to Command Lines](https://dev.to/panicatthekernel/my-cybersecurity-journey-from-curiosity-to-command-lines-3nak)
+- [Best Tools for Editing and Sharing Video Content on iOS?](https://dev.to/funkjose/best-tools-for-editing-and-sharing-video-content-on-ios-24mc)
+- [[Boost]](https://dev.to/djones/-27b5)
+- [We&#39;ve Been Here Since the Beginning: 2025 Edition](https://dev.to/abbeyperini/weve-been-here-since-the-beginning-2025-edition-90)
 <!-- BLOG-POST-LIST:END -->
 
 ---
