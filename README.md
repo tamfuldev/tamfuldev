@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Last chance for early-bird pricing for IBM TechXchange 2025!](https://dev.to/ibmdeveloper-staff/last-chance-for-early-bird-pricing-for-ibm-techxchange-2025-2e4e)
-- [GA Tracking without urls using WP tags](https://dev.to/johnnyb/ga-tracking-without-urls-using-wp-tags-1af)
-- [How to spin a Windows Virtual Machine in Azure](https://dev.to/timilehin_olatunde_i/how-to-spin-a-windows-virtual-machine-in-azure-52hn)
-- [Como criar e consumir uma API REST simples em Java puro](https://dev.to/brayanmonteiroo/como-criar-e-consumir-uma-api-rest-simples-em-java-puro-1ag3)
-- [CRUD Java, MySQL e JDBC](https://dev.to/brayanmonteiroo/crud-java-mysql-e-jdbc-19j4)
+- [The Role of AI and Data Science in FinTech](https://dev.to/suresh_ommi_09ed3f224369c/the-role-of-ai-and-data-science-in-fintech-ioe)
+- [HCP Terraform to Azure Cloud using OIDC](https://dev.to/rokicool/hcp-terraform-to-azure-cloud-using-oidc-2i28)
+- [Exploring the Future of Data Access with Spring Data](https://dev.to/jennythomas498/exploring-the-future-of-data-access-with-spring-data-2h0e)
+- [My Journey in the Apache SeaTunnel Community: Contributions, Challenges, and Reflections](https://dev.to/seatunnel/my-journey-in-the-apache-seatunnel-community-contributions-challenges-and-reflections-3djg)
+- [[Boost]](https://dev.to/ali_hassan/-59ka)
 <!-- BLOG-POST-LIST:END -->
 
 ---
