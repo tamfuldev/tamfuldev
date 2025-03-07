@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Unleashing the Power of @ in Rust’s Pattern Matching](https://dev.to/leapcell/unleashing-the-power-of-in-rusts-pattern-matching-22ae)
-- [My Cybersecurity Journey: From Curiosity to Command Lines](https://dev.to/panicatthekernel/my-cybersecurity-journey-from-curiosity-to-command-lines-3nak)
-- [Best Tools for Editing and Sharing Video Content on iOS?](https://dev.to/funkjose/best-tools-for-editing-and-sharing-video-content-on-ios-24mc)
-- [[Boost]](https://dev.to/djones/-27b5)
-- [We&#39;ve Been Here Since the Beginning: 2025 Edition](https://dev.to/abbeyperini/weve-been-here-since-the-beginning-2025-edition-90)
+- [Chi-Square Tests and Degrees of Freedom](https://dev.to/dorcas_bwire/chi-square-tests-and-degrees-of-freedom-4op3)
+- [Pipeline de Dados](https://dev.to/sthefanyspina/pipeline-de-dados-1j68)
+- [Getting Hooked on React!](https://dev.to/senken18/getting-hooked-on-react-3c64)
+- [Better Rails Forms with Superform: A Game-Changer for Developers](https://dev.to/gsgermanok/better-rails-forms-with-superform-a-game-changer-for-developers-3fm)
+- [How we release beta features in React with Bucket](https://dev.to/bucketdotco/how-we-release-beta-features-in-react-with-bucket-1klf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
