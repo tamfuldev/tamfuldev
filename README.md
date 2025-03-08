@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [#32 PHP Server Tools for your file management needs on the server](https://dev.to/flnzba/32-php-server-tools-for-your-file-management-needs-on-the-server-55fp)
-- [Route Declaration Order: Laravel&#39;s Hidden Routing Rule](https://dev.to/dosenngoding/route-declaration-order-laravels-hidden-routing-rule-o4a)
-- [10 DevOps Hacks Every Freelancer Needs to Deliver Client Projects Faster](https://dev.to/kuberns_cloud/10-devops-hacks-every-freelancer-needs-to-deliver-client-projects-faster-35g9)
-- [My Cloud Journey](https://dev.to/ntombizakhona/my-cloud-journey-go2)
-- [Cloud Certification vs. Real-World Experience: What Matters More?](https://dev.to/ramkumar-m-n/cloud-certification-vs-real-world-experience-what-matters-more-3ogi)
+- [Install olmOCR: The Best Open-Source OCR Toolkit for Document Parsing](https://dev.to/nodeshiftcloud/install-olmocr-the-best-open-source-ocr-toolkit-for-document-parsing-npn)
+- [🚀 Pilha e Heap – Onde os Dados Ficam na Memória?](https://dev.to/develop4us/pilha-e-heap-onde-os-dados-ficam-na-memoria-go1)
+- [7 Essential Practices for Mastering Component-Driven Development](https://dev.to/aaravjoshi/7-essential-practices-for-mastering-component-driven-development-4n6b)
+- [7 Must-Have Features in a POS System for Retail Shops](https://dev.to/bhavesh_gangani_/7-must-have-features-in-a-pos-system-for-retail-shops-3i4e)
+- [Installing Jekins](https://dev.to/mallikarjuna/installing-jekins-493j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
