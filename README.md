@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 20 Must-Know GitHub Repositories for Developers in 2025!](https://dev.to/sahinur/20-must-know-github-repositories-for-developers-in-2025-57a8)
-- [4 Ways to Deploy any LLM on Hugging Face every developer should know](https://dev.to/aigurux/4-ways-to-deploy-any-llm-on-hugging-face-every-developer-should-know-5217)
-- [Odoo Payment Gateway Integration: Transactions Not Processing](https://dev.to/james_scott_bf1d5c8cfcaa0/odoo-payment-gateway-integration-transactions-not-processing-69a)
-- [Authentication in nextjs app-router using Auth.js v5 with Credentials](https://dev.to/venumarious/authentication-in-nextjs-app-router-using-authjs-v5-with-credentials-47ji)
-- [Performance Issues in Odoo: Slow Loading on Large Datasets](https://dev.to/james_scott_bf1d5c8cfcaa0/performance-issues-in-odoo-slow-loading-on-large-datasets-3f39)
+- [#32 PHP Server Tools for your file management needs on the server](https://dev.to/flnzba/32-php-server-tools-for-your-file-management-needs-on-the-server-55fp)
+- [Route Declaration Order: Laravel&#39;s Hidden Routing Rule](https://dev.to/dosenngoding/route-declaration-order-laravels-hidden-routing-rule-o4a)
+- [10 DevOps Hacks Every Freelancer Needs to Deliver Client Projects Faster](https://dev.to/kuberns_cloud/10-devops-hacks-every-freelancer-needs-to-deliver-client-projects-faster-35g9)
+- [My Cloud Journey](https://dev.to/ntombizakhona/my-cloud-journey-go2)
+- [Cloud Certification vs. Real-World Experience: What Matters More?](https://dev.to/ramkumar-m-n/cloud-certification-vs-real-world-experience-what-matters-more-3ogi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
