@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🐰 Kafka и Spring: Почтовый голубь против почтовой службы 🌸](https://dev.to/easycat/kafka-i-spring-pochtovyi-gholub-protiv-pochtovoi-sluzhby-5e4e)
-- [Kali Linux](https://dev.to/blade_afc19585650ffbe0c68/kali-linux-42i3)
-- [Kubectl Demystified: Mastering the `kubectl create` Command](https://dev.to/naveens16/kubectl-demystified-mastering-the-kubectl-create-command-2nma)
-- [What is in silico cloning of disease genes?](https://dev.to/lisw05/what-is-in-silico-cloning-of-disease-genes-592k)
-- [Building Jenkins Pipeline Free style](https://dev.to/mallikarjuna/building-jenkins-pipeline-free-style-37o4)
+- [AWK Basics Tutorial](https://dev.to/leapcell/awk-basics-tutorial-4fe3)
+- [AWS DEMO: Step By Step Guide To Deploy Full End To End Web Application on 7 Services](https://dev.to/josephhonpah/aws-demo-step-by-step-guide-to-deploy-full-end-to-end-web-application-on-7-services-hk3)
+- [Sherlock Holmes: The Case of the Invalid HeloHost Error](https://dev.to/programmerraja/sherlock-holmes-the-case-of-the-invalid-helohost-error-1dnn)
+- [Digging Deep into the Core of Frontend Development](https://dev.to/saadahmad/digging-deep-into-the-core-of-frontend-development-oi3)
+- [AWS CONTROL TOWER FOR MULTI ACCOUNT AND COMPLIANCE.](https://dev.to/josephhonpah/aws-control-tower-for-multi-account-and-compliance-1h35)
 <!-- BLOG-POST-LIST:END -->
 
 ---
