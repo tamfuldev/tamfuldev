@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [External Versioning in GCC: Defining Project Versions Without Modifying Source Code](https://dev.to/pcmagas/quicktip-how-to-define-version-your-project-written-in-c-4o8c)
-- [Dynamic routes in Next](https://dev.to/udit_saurabh_86a790171b67/dynamic-routes-in-next-5e84)
-- [What is Financial Spreading? How SimplAI’s Agentic AI Makes It Seamless](https://dev.to/simplai/what-is-financial-spreading-how-simplais-agentic-ai-makes-it-seamless-2h9c)
-- [[Boost]](https://dev.to/dt_yo0x9/-1f2h)
-- [12 cool open-source projects worth checking out in 2025](https://dev.to/andrewbaisden/12-cool-open-source-projects-worth-checking-out-in-2025-46ie)
+- [Part 1: Introduction and Basics of WebGPU](https://dev.to/dev-dhanushkumar/part-1-introduction-and-basics-of-webgpu-46i0)
+- [Small and Little Things: Removing Substrings from Arrays in Ruby](https://dev.to/gsgermanok/small-and-little-things-removing-substrings-from-arrays-in-ruby-4j6l)
+- [Git Commands](https://dev.to/gadeprarthana/git-commands-46j1)
+- [Women&#39;s Day](https://dev.to/maheswaripinneti/womens-day-1lml)
+- [Building a Scalable IPTV Service: Lessons from the Netherlands’ Streaming Boom](https://dev.to/sanne_van_der-linde/building-a-scalable-iptv-service-lessons-from-the-netherlands-streaming-boom-2iob)
 <!-- BLOG-POST-LIST:END -->
 
 ---
