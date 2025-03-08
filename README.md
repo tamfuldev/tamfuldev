@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/shyamsundersrd/-25i1)
-- [Why Every Programmer Should Learn Soft Skills](https://dev.to/tanmay_sinha1304/why-every-programmer-should-learn-soft-skills-5chn)
-- [Voice Search Optimization: Preparing Your Site for the Future of Digital Engagement](https://dev.to/okoye_ndidiamaka_5e3b7d30/voice-search-optimization-preparing-your-site-for-the-future-of-digital-engagement-52kf)
-- [Product of Array Expect Itself Leetcode Question - 238](https://dev.to/ratheeshkumar25/product-of-array-expect-itself-leetcode-question-238-2oc2)
-- [How to Build a Secure ENS Domain Registration App with React and Wagmi](https://dev.to/radzion/how-to-build-a-secure-ens-domain-registration-app-with-react-and-wagmi-1ljo)
+- [A utility for automatically generating files that follow the Next.js App Router structure based on folder name patterns.](https://dev.to/myjeong19/do-you-konw-notionpresso-29hc)
+- [Unlocking the Secret to 90% Smaller Logs: How Flowgger Transforms Your Logging Strategy](https://dev.to/solothought/unlocking-the-secret-to-90-smaller-logs-how-flowgger-transforms-your-logging-strategy-3kfi)
+- [Step-by-Step Guide: Setting Up MCP Locally with LLMs Using TypeScript](https://dev.to/balajikandavel/step-by-step-guide-setting-up-mcp-locally-with-llms-using-typescript-64e)
+- [My New Journey Starts Today](https://dev.to/tomomomomomomomo/my-new-journey-starts-today-3jdp)
+- [JWT Authentication in Express.js using Cookies](https://dev.to/sanjokale/jwt-authentication-in-expressjs-using-cookies-27gi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
