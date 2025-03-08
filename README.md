@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Install olmOCR: The Best Open-Source OCR Toolkit for Document Parsing](https://dev.to/nodeshiftcloud/install-olmocr-the-best-open-source-ocr-toolkit-for-document-parsing-npn)
-- [🚀 Pilha e Heap – Onde os Dados Ficam na Memória?](https://dev.to/develop4us/pilha-e-heap-onde-os-dados-ficam-na-memoria-go1)
-- [7 Essential Practices for Mastering Component-Driven Development](https://dev.to/aaravjoshi/7-essential-practices-for-mastering-component-driven-development-4n6b)
-- [7 Must-Have Features in a POS System for Retail Shops](https://dev.to/bhavesh_gangani_/7-must-have-features-in-a-pos-system-for-retail-shops-3i4e)
-- [Installing Jekins](https://dev.to/mallikarjuna/installing-jekins-493j)
+- [React hydration slowing your app? See how the Browser Scheduling API boosts perf with scheduler.postTask&lpar;&rpar; &amp; yield&lpar;&rpar;. Cut INP from 24179s to 62ms with a 3s delay—chunking next! Explore code &amp; React 19 teases. Tackle heavy components here. Dive in &amp; comment](https://dev.to/suzyg38/react-hydration-slowing-your-app-see-how-the-browser-scheduling-api-boosts-perf-with-gc2)
+- [Laravel 12 § Laravel Herd](https://dev.to/developpeurtaf/laravel-12-ss-laravel-herd-16b3)
+- [Funding a new tech project / find a company investor](https://dev.to/jackie-d/funding-a-new-tech-project-find-a-company-investor-5bmf)
+- [Are you really treating redis as cache storage ?](https://dev.to/mdnurahmed/are-you-really-treating-redis-as-cache-storage--43e3)
+- [100 Essential Nmap Commands for Network Scanning](https://dev.to/kumar_kusumitsharma_b190/100-essential-nmap-commands-for-network-scanning-3fcp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
