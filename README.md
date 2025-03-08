@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [📝 Docker Images Cheat Sheet 🚀](https://dev.to/ciscoanass/docker-images-cheat-sheet-2on3)
-- [Nocode LLM based chatbot generator platform](https://dev.to/genraidev_23c4e0ee7422f/nocode-llm-based-chatbot-generator-platform-43a7)
-- [Move Your Hugging Face LLM to S3 Like a Pro &lpar;Without Wasting Local Space!&rpar; 🚀](https://dev.to/codexmakercompany/move-your-hugging-face-llm-to-s3-like-a-pro-without-wasting-local-space-15kp)
-- [Manus Invite Codes Selling for $14,000? Try This Free DeepSeek-Based Alternative!](https://dev.to/localfaceswap/manus-invite-codes-selling-for-14000-try-this-free-deepseek-based-alternative-1idc)
-- [OpenxAI Is Hiring 30 Developers](https://dev.to/mayeth/openxai-is-hiring-30-developers-1i6n)
+- [🚀 Celebrating the WeCoded Challenge with Code! 🎉](https://dev.to/hanzla-baig/celebrating-the-wecoded-challenge-with-code-2ohi)
+- [# 🌗 How to Add Theme Switching with MobX in React](https://dev.to/hemantgovekar/-how-to-add-theme-switching-with-mobx-in-react-62h)
+- [JS basic question. with answer](https://dev.to/anjali_gurjar_dff81513867/js-basic-question-with-answer-1b7j)
+- [Creating the Hesed Dental Website: A Technical Journey](https://dev.to/stephanopez/creating-the-hesed-dental-website-a-technical-journey-1cpm)
+- [How Metrics Flow from Applications to Grafana Dashboard](https://dev.to/devcorner/how-metrics-flow-from-applications-to-grafana-dashboard-1k5d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
