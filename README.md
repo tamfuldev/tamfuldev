@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The time I Realized I was No Longer an Impostor In the workplace](https://dev.to/andrew_moody_41/the-time-i-realized-i-was-no-longer-an-impostor-in-the-workplace-3lg0)
-- [Simplifying Ecto Fragments with Defrag: A Better Way to Write Database Queries](https://dev.to/dkuku/simplifying-ecto-fragments-with-defrag-a-better-way-to-write-database-queries-enj)
-- [# Pragmatic Programming: How to develop mental models and good practices to be a successful software developer?](https://dev.to/gharsaamin/-pragmatic-programming-how-to-develop-mental-models-and-good-practices-to-be-a-successful-4nli)
-- [Easy Development Environments](https://dev.to/hanna/easy-development-environments-5599)
-- [Security news weekly round-up - 7th March 2025](https://dev.to/ziizium/security-news-weekly-round-up-7th-march-2025-2hmn)
+- [Using Neovim on OpenWRT](https://dev.to/yawatasensei/using-neovim-on-openwrt-158k)
+- [The Future of Kubernetes Networking: Key Concepts for Beginners in 2025:](https://dev.to/devlinkstudios/the-future-of-kubernetes-networking-key-concepts-for-beginners-in-2025-g5m)
+- [Launching an Amazon EC2 Instance: A Strategic Deep Dive for Decision-Makers](https://dev.to/yugjadvani/launching-an-amazon-ec2-instance-a-strategic-deep-dive-for-decision-makers-15fh)
+- [What Is Split For Heat In Amazon DynamoDB?](https://dev.to/urielbitton/what-is-split-for-heat-in-amazon-dynamodb-bm8)
+- [Automating Version Updates in Node.js with Git Hooks](https://dev.to/lebed2045/automating-version-updates-in-nodejs-with-git-hooks-5dfa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
