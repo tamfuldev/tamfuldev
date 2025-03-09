@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Diseño de productos de software](https://dev.to/ggguille/diseno-de-productos-de-software-1fc3)
-- [Why Rust is the Future of Programming](https://dev.to/sureshchandras3kar/why-rust-is-the-future-of-programming-19jb)
-- [Best Practices for Designing Scalable MongoDB Models with Mongoose](https://dev.to/babar_bilal_2e14c231dfa8d/best-practices-for-designing-scalable-mongodb-models-with-mongoose-10nm)
-- [The of Accessibility in Website Development for Promotions](https://dev.to/codecharley93/the-of-accessibility-in-website-development-for-promotions-2cg8)
-- [Feature Factory: A Feature Engineering Library for Rust &lpar;Built on Apache DataFusion&rpar; 🦀](https://dev.to/habedi/feature-factory-a-feature-engineering-library-for-rust-built-on-apache-datafusion-3go)
+- [🎙️We have implemented new features in HMPL to make developers&#39; web apps more secure🔥](https://dev.to/hmpljs/we-have-implemented-new-features-in-hmpl-to-make-developers-web-apps-more-secure-1ppa)
+- [The future of manual testing in the age of Artificial Intelligence &lpar;AI&rpar;](https://dev.to/thillai_devikanthan_205a/the-future-of-manual-testing-in-the-age-of-artificial-intelligence-ai-14a1)
+- [React Keys: The Hidden Hero of Lists! 🔑](https://dev.to/aman_kureshi_/react-keys-the-hidden-hero-of-lists-43m7)
+- [Stop Wasting Money 💰 on Idle Jenkins Instances: A Serverless 🚀 Solution to Slash Your AWS Bill](https://dev.to/codehirise/stop-wasting-money-on-idle-jenkins-instances-a-serverless-solution-to-slash-your-aws-bill-54m1)
+- [The Day My Imposter Syndrome Was No Longer Just in My Head](https://dev.to/umitic/the-day-my-imposter-syndrome-was-no-longer-just-in-my-head-16h8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
