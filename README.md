@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Tech Stack Behind My Side Projects &lpar;And Why I Stick to It&rpar;](https://dev.to/geiger01/the-tech-stack-behind-my-side-projects-and-why-i-stick-to-it-2bh9)
-- [[Boost]](https://dev.to/manojlingala/-3a0g)
-- [Orchestrating Financial Transactions with AWS Step Functions](https://dev.to/aws-builders/orchestrating-financial-transactions-with-aws-step-functions-3ilk)
-- [Members](https://dev.to/firdavs_mukhsimov_9f62550/members-4nng)
-- [My HNG Internship Journey: Stage 4 — Designing a Kanban Board in Figma](https://dev.to/toptech5419/my-hng-internship-journey-stage-4-designing-a-kanban-board-in-figma-3eaa)
+- [🚀 O que é uma struct no C#?](https://dev.to/develop4us/o-que-e-uma-struct-no-c-3m4h)
+- [Unsupported expression type: ConditionalExpression” for Dynamic Filters](https://dev.to/nadun_malinda_54544e2e45c/unsupported-expression-type-conditionalexpression-for-dynamic-filters-44mp)
+- [So you would like to digitise your CD collection? &lpar;Part 3&rpar;](https://dev.to/fernand0/so-you-would-like-to-digitise-your-cd-collection-part-3-505f)
+- [How I Vibe-Coded an App to Explore GitHub Topics and Trending Repositories](https://dev.to/justalternate/how-i-vibe-coded-an-app-to-explore-github-topics-and-trending-repositories-57hk)
+- [Tsonnet #12 - To negate or not to negate: adding unary operations](https://dev.to/bitmaybewise/tsonnet-12-to-negate-or-not-to-negate-adding-unary-operations-4931)
 <!-- BLOG-POST-LIST:END -->
 
 ---
