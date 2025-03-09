@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Prevent Web Cache Deception Attacks in Laravel: A Complete Guide](https://dev.to/pentest_testing_corp/how-to-prevent-web-cache-deception-attacks-in-laravel-a-complete-guide-3c3n)
-- [The Future of ERP: Transforming Enterprise Software for the Digital Age](https://dev.to/truesuggest/the-future-of-erp-transforming-enterprise-software-for-the-digital-age-2m90)
-- [How to be Test Driven with Spark: Chapter 4 - Leaning into Property Based Testing](https://dev.to/nda_27/how-to-be-test-driven-with-spark-chapter-4-leaning-into-property-based-testing-2hln)
-- [Exploring Cursor: The AI Code Editor](https://dev.to/uiuxsatyam/exploring-cursor-the-ai-code-editor-5bbm)
-- [Automating AWS RDS Management Using IAM, Lambda, CloudWatch, and EventBridge](https://dev.to/naamiahmed/automating-aws-rds-management-using-iam-lambda-cloudwatch-and-eventbridge-2l47)
+- [Member,Field,Property,Method,Constructor,Readonly](https://dev.to/mushtariy/memberfieldpropertymethodconstructorreadonly-18m1)
+- [IntelliJ의 댜양한 검색기능 - Find 부터 커스텀 inspection rule 까지](https://dev.to/kingori/intellijyi-dyayanghan-geomsaeggineung-find-buteo-keoseuteom-inspection-rule-ggaji-43o5)
+- [Members](https://dev.to/fazliddin7777/members-4oip)
+- [Built DRY components with signal and Directive Composition API in Angular](https://dev.to/railsstudent/built-dry-components-with-signal-and-directive-composition-api-in-angular-4j8l)
+- [Building a Robust Message Queue System with Kafka and GoFrame](https://dev.to/jones_charles_ad50858dbc0/building-a-robust-message-queue-system-with-kafka-and-goframe-4a5n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
