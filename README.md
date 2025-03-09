@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Code Explanation: &quot;STORM: Synthesis of Topic Outlines through Retrieval and Multi-perspective Question Asking&quot;](https://dev.to/foxgem/code-explanation-storm-synthesis-of-topic-outlines-through-retrieval-and-multi-perspective-26bi)
-- [[Boost]](https://dev.to/bierdok/-1dg3)
-- [Simplify your environment variable management](https://dev.to/baptiste_parmantier/simplify-your-environment-variable-management-49k7)
-- [RAG Toolkit: A Powerful Text Chunking and Retrieval-Augmented Generation System](https://dev.to/mtalhazulf/rag-toolkit-a-powerful-text-chunking-and-retrieval-augmented-generation-system-51mj)
-- [How to free up space on your Mac&#39;s ssd &lpar;256GB&rpar;](https://dev.to/oler/how-to-free-up-space-on-your-macs-ssd-256gb-1d1d)
+- [Product-Based vs. Service-Based Companies: Key Differences and Examples](https://dev.to/tene/product-based-vs-service-based-companies-key-differences-and-examples-3hg0)
+- [[Boost]](https://dev.to/dream_life_f3f4a537a11874/-2m73)
+- [How to use pgpainless-core](https://dev.to/wennan_xu/how-to-use-pgpainless-core-2amn)
+- [HarmonyOS Next开发教程之地图定位](https://dev.to/youlanjihua/harmonyos-nextkai-fa-jiao-cheng-zhi-di-tu-ding-wei-47l9)
+- [Daily JavaScript Challenge #JS-121: Detect Consecutive Duplicates in a String](https://dev.to/dpc/daily-javascript-challenge-js-121-detect-consecutive-duplicates-in-a-string-d47)
 <!-- BLOG-POST-LIST:END -->
 
 ---
