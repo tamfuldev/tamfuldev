@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript is Slowing You Down](https://dev.to/0x3d_site/javascript-is-slowing-you-down-2oba)
-- [Laravel API ডকুমেন্টেশন উইথ Swagger](https://dev.to/programmerhasan/laravel-api-ddkumentteshn-uith-swagger-iol)
-- [All Data and AI Weekly #180 - 10-March-2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-180-10-march-2025-1dj9)
-- [Building a Web Scraper for Link Validation: Part 2](https://dev.to/thelogicwarlock/building-a-web-scraper-for-link-validation-part-2-4i69)
-- [Full-Featured Next.js 14 Project Inspired by Laravel&#39;s MVC Structure](https://dev.to/harshm03/full-featured-nextjs-14-project-inspired-by-laravels-mvc-structure-1h9i)
+- [Achieving Zero Downtime Deployment with YARP: Blue-Green and Canary Strategies](https://dev.to/leandroveiga/achieving-zero-downtime-deployment-with-yarp-blue-green-and-canary-strategies-ele)
+- [Interceptors en Angular: ¿Para qué se utilizan, sus funciones y cómo implementarlos? 🚀](https://dev.to/cristian_arieta_7df932e5f/interceptors-en-angular-para-que-se-utilizan-sus-funciones-y-como-implementarlos-2mo8)
+- [Zero-Code RSS Feeds with Mkfd: From Webpage to Feed in Minutes](https://dev.to/tbosak/zero-code-rss-feeds-with-mkfd-from-webpage-to-feed-in-minutes-4p0l)
+- [Ng-News 25/10: Advanced Content Projection, Outlook 2025+](https://dev.to/this-is-angular/ng-news-2510-advanced-content-projection-outlook-2025-j49)
+- [Programming in C++ &lpar;SQLite Databases&rpar;](https://dev.to/markm208/sqlite-databases-6jn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
