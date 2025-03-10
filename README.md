@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [While not officially one, I would definitely consider this a really great #frontendchallenge.](https://dev.to/jess/while-not-officially-one-i-would-definitely-consider-this-a-really-great-frontendchallenge-1448)
-- [Setting Up a Windows VM for Log Collection Using the ELK Stack - A Step-by-Step Guide](https://dev.to/suprimdevkota/setting-up-a-windows-vm-for-log-collection-using-the-elk-stack-a-step-by-step-guide-4hod)
-- [How I Set Up Amazon WorkSpaces Pools with Okta for Call Center Agents](https://dev.to/aajolly/how-i-set-up-amazon-workspaces-pools-with-okta-for-call-center-agents-1nk0)
-- [Codestarter: fase 3 update](https://dev.to/xwero/codestarter-fase-3-update-4ln)
-- [The Ultimate Guide to Apache Kafka: Basics, Architecture, and Core Concepts](https://dev.to/batrudin_haji/the-ultimate-guide-to-apache-kafka-basics-architecture-and-core-concepts-1ji3)
+- [I&#39;ve learned things the hard way so you don&#39;t have to 👩🏻‍💻](https://dev.to/_arpy/ive-learned-things-the-hard-way-so-you-dont-have-to-3ceg)
+- [Maximizing Value and Minimizing Risk with Software Asset Lifecycle](https://dev.to/emily_assetloom/maximizing-value-and-minimizing-risk-with-software-asset-lifecycle-2od)
+- [VS Code Hidden Features 🎉](https://dev.to/ramkumar-m-n/vs-code-hidden-features-328g)
+- [The Rise of Quantum Computing and Its Impact on Cybersecurity](https://dev.to/devraj_more_5a115bafe8b0f/the-rise-of-quantum-computing-and-its-impact-on-cybersecurity-2eij)
+- [10 Key Features of CoTester That Every QA Engineer Should Know](https://dev.to/ronika_kashyap/10-key-features-of-cotester-that-every-qa-engineer-should-know-1h98)
 <!-- BLOG-POST-LIST:END -->
 
 ---
