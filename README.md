@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [RunAs-Stealer](https://dev.to/darkspace/runas-stealer-479m)
-- [Why Community Helps](https://dev.to/j3ffjessie/why-community-helps-ji6)
-- [Advanced Service Communication and Resilience Patterns in Cipher Horizon](https://dev.to/dminatto/advanced-service-communication-and-resilience-patterns-in-cipher-horizon-1d00)
-- [Manticore Search vs Elasticsearch: 3x Faster Kibana Dashboard Rendering for Log Analysis](https://dev.to/sanikolaev/manticore-search-vs-elasticsearch-3x-faster-kibana-dashboard-rendering-for-log-analysis-1lkf)
-- [Coinverter: A Simple Yet Powerful Currency Converter](https://dev.to/robsonmuniz16/coinverter-a-simple-yet-powerful-currency-converter-4gcg)
+- [Ledgers Open Source: Transformando Conceitos em Vantagem Competitiva](https://dev.to/lerian/ledgers-open-source-transformando-conceitos-em-vantagem-competitiva-3g8k)
+- [What are your Goals for the week? #117](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-117-3npb)
+- [Understanding HTTP/2 Parallel Requests: Streams vs Connections](https://dev.to/sibiraj/understanding-http2-parallel-requests-streams-vs-connections-3anf)
+- [🔐 𝗙𝗶𝘅𝗶𝗻𝗴 𝗟𝗼𝗴𝗶𝗻 𝗙𝗮𝗶𝗹𝘂𝗿𝗲 𝗶𝗻 𝗔𝗦𝗣.𝗡𝗘𝗧 𝗖𝗼𝗿𝗲 𝗜𝗱𝗲𝗻𝘁𝗶𝘁𝘆: 𝗔 𝗗𝗲𝗯𝘂𝗴𝗴𝗶𝗻𝗴 𝗚𝘂𝗶𝗱𝗲](https://dev.to/supraja_tangella_b7f0738e/--1ko1)
+- [How to Use Generative AI Tools for Content Creation](https://dev.to/saschaya_pranev_b25142470/how-to-use-generative-ai-tools-for-content-creation-16ej)
 <!-- BLOG-POST-LIST:END -->
 
 ---
