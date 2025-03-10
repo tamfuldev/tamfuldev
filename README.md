@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Analyzing the NVIDIA GeForce RTX 5070 Ti for AI Model Training: Performance Insights](https://dev.to/berkan_baerbuilder_85/analyzing-the-nvidia-geforce-rtx-5070-ti-for-ai-model-training-performance-insights-4mb9)
-- [🔎 From Concept to Schema: How I Design Databases](https://dev.to/micaelmi/from-concept-to-schema-how-i-design-databases-51h)
-- [got my very first practice project💥💥💥](https://dev.to/tamannakouser/got-my-very-first-practice-project-50p)
-- [Axios vs. Fetch: Which Fetch Wrapper Should I Choose in 2025?](https://dev.to/suhaotian/axios-vs-fetch-which-fetch-wrapper-should-i-choose-in-2025-57f2)
-- [Comunidades de AWS: Aprende, conecta y crece con expertos](https://dev.to/briansuarezsantiago/comunidades-de-aws-aprende-conecta-y-crece-con-expertos-2o44)
+- [How to Practice Git Commands Online: A Developer&#39;s Guide](https://dev.to/foxinfotech/how-to-practice-git-commands-online-a-developers-guide-23kk)
+- [【Python】What is pip? how to use it?](https://dev.to/lisw05/python-what-is-pip-how-to-use-it-2kgf)
+- [How to Create and Manage Computed Observables in Knockout.js?](https://dev.to/jordankeurope/how-to-create-and-manage-computed-observables-in-knockoutjs-1jj7)
+- [AWS EventBridge Transforms: Making Alerts Readable](https://dev.to/aws-builders/aws-eventbridge-transforms-making-alerts-readable-1pb5)
+- [Empowering Developers to Achieve Microservices Observability on Kubernetes with Tracestore, OPA, Flagger &amp; Custom Metrics](https://dev.to/prabhu_chinnasamy_086fba6/empowering-developers-to-achieve-microservices-observability-on-kubernetes-with-tracestore-opa-4mba)
 <!-- BLOG-POST-LIST:END -->
 
 ---
