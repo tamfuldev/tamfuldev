@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1117 : Broad Daylight](https://dev.to/dwane/day-1117-broad-daylight-36h1)
-- [DeepLearning4j Blockchain Integration: Merging AI and Blockchain for a Transparent Future](https://dev.to/kallileiser/deeplearning4j-blockchain-integration-merging-ai-and-blockchain-for-a-transparent-future-2fpe)
-- [Introduction to Forms-Building Interactive Web Pages](https://dev.to/ouma_ouma/introduction-to-forms-building-interactive-web-pages-5dgk)
-- [Day 8 : C++Language| Logical Operators](https://dev.to/mehfila_parkkulthil_23/day-8-clanguage-logical-operators-16ib)
-- [Simplifying VBA Debugging: Real-Time Insights with Immediate and Locals Windows](https://dev.to/michaellarocca/simplifying-vba-debugging-real-time-insights-with-immediate-and-locals-windows-4ak9)
+- [Simple example of reverse .apk &lpar;removing Ads&rpar;](https://dev.to/mardsoul/simple-example-of-reverse-apk-removing-ads-24dl)
+- [Challenge Lab: Creating a Static Website for the Café](https://dev.to/ameh_mathias/challenge-lab-creating-a-static-website-for-the-cafe-447i)
+- [Cultivating Excellence: The Defining Habit of Top Data Professionals](https://dev.to/daviewisdm/cultivating-excellence-the-defining-habit-of-top-data-professionals-475f)
+- [PGBackRest Configuration from Standby Database](https://dev.to/hujan/pgbackrest-configuration-from-standby-database-iho)
+- [Code Explanation: &quot;AI-Powered Hedge Fund&quot;](https://dev.to/foxgem/code-explanation-ai-powered-hedge-fund-465)
 <!-- BLOG-POST-LIST:END -->
 
 ---
