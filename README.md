@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Bedrock Session Management APIs: Persistencia de Estado en Conversaciones de IA Generativa 🧠](https://dev.to/aws-builders/amazon-bedrock-session-management-apis-persistencia-de-estado-en-conversaciones-de-ia-generativa-ac4)
-- [Becoming a Frontend from Zero: A Step-by-Step Guide [PT-BR]](https://dev.to/odevbr/becoming-a-frontend-from-zero-a-step-by-step-guide-pt-br-2dj1)
-- [This Month in Solid #12: Gear 5, The Road for 2.0😎](https://dev.to/danieljcafonso/this-month-in-solid-12-gear-5-the-road-for-20-3gj3)
-- [Meme Monday](https://dev.to/ben/meme-monday-3p2n)
-- [Setup Nginx reverse proxy and force redirect HTTP to HTTPS](https://dev.to/xinitd/setup-nginx-reverse-proxy-and-force-redirect-http-to-https-5bfg)
+- [A Beginner&#39;s Guide to Prompt Engineering](https://dev.to/thatsoftwaredude/a-beginners-guide-to-prompt-engineering-4hih)
+- [How I prepared for the ISTQB Advanced Test Automation Engineer Exam: Tips and Tricks](https://dev.to/iryna_k_d5aabe217736fefe7/how-i-prepared-for-the-istqb-advanced-test-automation-engineer-exam-tips-and-tricks-3emm)
+- [First time I saw Twitter broken](https://dev.to/seosiri/first-time-i-saw-twitter-broken-3g3d)
+- [Getting started with Google APIs: Service Accounts &lpar;Part 1&rpar;](https://dev.to/wescpy/getting-started-with-google-apis-service-accounts-part-1-2fi0)
+- [In-depth file management in Python: Underlying tooling and advanced functionalities](https://dev.to/axelncho/in-depth-file-management-in-python-underlying-tooling-and-functionalities-452h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
