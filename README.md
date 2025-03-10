@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Practice Git Commands Online: A Developer&#39;s Guide](https://dev.to/foxinfotech/how-to-practice-git-commands-online-a-developers-guide-23kk)
-- [【Python】What is pip? how to use it?](https://dev.to/lisw05/python-what-is-pip-how-to-use-it-2kgf)
-- [How to Create and Manage Computed Observables in Knockout.js?](https://dev.to/jordankeurope/how-to-create-and-manage-computed-observables-in-knockoutjs-1jj7)
-- [AWS EventBridge Transforms: Making Alerts Readable](https://dev.to/aws-builders/aws-eventbridge-transforms-making-alerts-readable-1pb5)
-- [Empowering Developers to Achieve Microservices Observability on Kubernetes with Tracestore, OPA, Flagger &amp; Custom Metrics](https://dev.to/prabhu_chinnasamy_086fba6/empowering-developers-to-achieve-microservices-observability-on-kubernetes-with-tracestore-opa-4mba)
+- [Fixing CORS Issues in a Flask-React App](https://dev.to/westsidedev/fixing-cors-issues-in-a-flask-react-app-2ndj)
+- [The Ultimate Guide to Improving Data Scraping Efficiency](https://dev.to/98ip/the-ultimate-guide-to-improving-data-scraping-efficiency-4okd)
+- [Why Java Developers Should Choose Jakarta EE / Microprofile Framework](https://dev.to/theelitegentleman/why-java-developers-should-choose-jakarta-ee-microprofile-framework-2l2d)
+- [How to Build a Successful TikTok Matrix Account Strategy &lpar;Without Losing Your Mind&rpar;](https://dev.to/avaed/how-to-build-a-successful-tiktok-matrix-account-strategy-without-losing-your-mind-23in)
+- [Cronsmith - The Ultimate Cron Expression Generator &amp; Parser](https://dev.to/paganini2008/cronsmith-the-ultimate-cron-expression-generator-parser-5950)
 <!-- BLOG-POST-LIST:END -->
 
 ---
