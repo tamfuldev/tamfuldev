@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built Perplexity from scratch, but mine better. | Tutorial](https://dev.to/abdibrokhim/i-built-perplexity-from-scratch-but-mine-better-11pj)
-- [QR Codes in the Philippines: Convenience or Cyberthreat?](https://dev.to/kakacomputer-media/qr-codes-in-the-philippines-convenience-or-cyberthreat-cf)
-- [Java Collections Framework: Classes and Interfaces Explained with Code Snippets](https://dev.to/devcorner/java-collections-framework-classes-and-interfaces-explained-with-code-snippets-a33)
-- [Example of Multi Agent AI in healthcare](https://dev.to/mrinmoycty/example-of-multi-agent-ai-in-healthcare-13f2)
-- [The Ultimate Guide to Disaster Recovery: RTO, RPO, and Failover](https://dev.to/devcorner/the-ultimate-guide-to-disaster-recovery-rto-rpo-and-failover-4d4n)
+- [JavaScript is Slowing You Down](https://dev.to/0x3d_site/javascript-is-slowing-you-down-2oba)
+- [Laravel API ডকুমেন্টেশন উইথ Swagger](https://dev.to/programmerhasan/laravel-api-ddkumentteshn-uith-swagger-iol)
+- [All Data and AI Weekly #180 - 10-March-2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-180-10-march-2025-1dj9)
+- [Building a Web Scraper for Link Validation: Part 2](https://dev.to/thelogicwarlock/building-a-web-scraper-for-link-validation-part-2-4i69)
+- [Full-Featured Next.js 14 Project Inspired by Laravel&#39;s MVC Structure](https://dev.to/harshm03/full-featured-nextjs-14-project-inspired-by-laravels-mvc-structure-1h9i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
