@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [ProgrammerHumor.io - Wordpress to Elixir &lpar;Phoenix Liveview&rpar;](https://dev.to/prgrmmrhumor_io/programmerhumorio-wordpress-to-elixir-phoenix-liveview-344d)
-- [The Psychology Behind AI Conversations: Why We Connect with Virtual Beings](https://dev.to/william_cooksey/the-psychology-behind-ai-conversations-why-we-connect-with-virtual-beings-3j)
-- [Future of CSS: Select styling without the hacks](https://dev.to/link2twenty/future-of-css-select-styling-without-the-hacks-38c2)
-- [Business Process Modeling using No Code Tools](https://dev.to/vaseem_anjum_b1050bcfaffe/business-process-modeling-using-no-code-tools-2ig0)
-- [Quicker to assume](https://dev.to/lizmat/quicker-to-assume-2cpj)
+- [Day 1117 : Broad Daylight](https://dev.to/dwane/day-1117-broad-daylight-36h1)
+- [DeepLearning4j Blockchain Integration: Merging AI and Blockchain for a Transparent Future](https://dev.to/kallileiser/deeplearning4j-blockchain-integration-merging-ai-and-blockchain-for-a-transparent-future-2fpe)
+- [Introduction to Forms-Building Interactive Web Pages](https://dev.to/ouma_ouma/introduction-to-forms-building-interactive-web-pages-5dgk)
+- [Day 8 : C++Language| Logical Operators](https://dev.to/mehfila_parkkulthil_23/day-8-clanguage-logical-operators-16ib)
+- [Simplifying VBA Debugging: Real-Time Insights with Immediate and Locals Windows](https://dev.to/michaellarocca/simplifying-vba-debugging-real-time-insights-with-immediate-and-locals-windows-4ak9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
