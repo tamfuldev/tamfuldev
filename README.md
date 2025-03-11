@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [TryHackMe: Web Application Pentesting Review](https://dev.to/seanleeys/tryhackme-web-application-pentesting-review-3h14)
-- [App Video: react-native-video VS expo-video](https://dev.to/zuludev/app-video-react-native-video-vs-expo-video-2jo)
-- [OOP project idea](https://dev.to/thin_phu/oop-project-idea-k08)
-- [TryHackMe: Summit](https://dev.to/seanleeys/tryhackme-summit-1mei)
-- [Apps Script’s Rhino runtime deprecated, launch of Meet Media API, and more!](https://dev.to/googleworkspace/apps-scripts-rhino-runtime-deprecated-launch-of-meet-media-api-and-more-391l)
+- [Exploring ZZZCode.ai: An AI Coding Assistant for Developers](https://dev.to/codeparrot/exploring-zzzcodeai-an-ai-coding-assistant-for-developers-4phk)
+- [5 Important Metrics to Measure Customer Loyalty](https://dev.to/piyushsingh22/5-important-metrics-to-measure-customer-loyalty-41go)
+- [JavaScript Essential Concepts for 2025: The Modern Developer&#39;s Roadmap](https://dev.to/amaresh_adak/javascript-essential-concepts-for-2025-the-modern-developers-roadmap-3ce)
+- [My First Software Launch As a 14-Year-Old](https://dev.to/mavenbuilds/my-first-software-launch-as-a-14-year-old-40p3)
+- [Understanding Cron Jobs in Laravel](https://dev.to/oluwajubelo1/understanding-cron-jobs-in-laravel-1oig)
 <!-- BLOG-POST-LIST:END -->
 
 ---
