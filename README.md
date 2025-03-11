@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating PostgreSQL - Pages and Blocks](https://dev.to/aditya999123/navigating-postgresql-pages-and-blocks-238l)
-- [Hands-on Lab - Event Driven Architecture with Amazon API Gateway, Amazon EventBridge and AWS Lambda](https://dev.to/gurudev_prasadteketi/hands-on-lab-event-driven-architecture-with-amazon-api-gateway-amazon-eventbridge-and-aws-lambda-kn2)
-- [Using Logger Middleware in Go Fiber](https://dev.to/luthfisauqi17/using-logger-middleware-in-go-fiber-21cn)
-- [OData with .NET core: Essential Concepts &amp; Best Practices](https://dev.to/renukapatil/odata-with-net-core-essential-concepts-best-practices-1iea)
-- [Building CraveSpin: A Fun Web App to Help You Choose What to Eat](https://dev.to/devchiii/building-cravespin-a-fun-web-app-to-help-you-choose-what-to-eat-2lo0)
+- [Singleton Pattern: The Lonely Chapter of Design Patterns](https://dev.to/zand/singleton-pattern-the-lonely-chapter-of-design-patterns-14kn)
+- [NodeJS vs GoLang #1](https://dev.to/rajanlagah/nodejs-vs-golang-1-3f69)
+- [The Role of C++ Tutorials in Building Strong Coding Foundations](https://dev.to/cpptutorial/the-role-of-c-tutorials-in-building-strong-coding-foundations-4og2)
+- [Exploring the Hyperledger Fabric Python SDK: Open Source, Funding, and Community Innovation](https://dev.to/kallileiser/exploring-the-hyperledger-fabric-python-sdk-open-source-funding-and-community-innovation-3a1d)
+- [`createHighlightCanvas` function in react-scan source code.](https://dev.to/ramunarasinga-11/createhighlightcanvas-function-in-react-scan-source-code-2f0l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
