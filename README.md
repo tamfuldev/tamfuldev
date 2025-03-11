@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [KelpsGet: Um Clone Moderno do Wget em Rust 🦀](https://dev.to/davimf7221/kelpsget-um-clone-moderno-do-wget-em-rust-38hg)
+- [Developing Energy-Efficient AI Models for Sustainability](https://dev.to/kartikmehta8/developing-energy-efficient-ai-models-for-sustainability-1n75)
+- [What is Spring PetClinic?](https://dev.to/amdose/what-is-spring-petclinic-2n1n)
+- [How Improv Helped an Amazonian Overcome Stage Fear](https://dev.to/mastermentee/how-improv-helped-an-amazonian-overcome-stage-fear-4kli)
 - [10 Javascript animation you might need](https://dev.to/oluwalonimi_oye/10-javascript-animation-you-might-need-5g0c)
-- [[Boost]](https://dev.to/oluwalonimi_oye/-9jp)
-- [What Is Hadoop and How Does It Handle Big Data Efficiently?](https://dev.to/cristianalex_17/what-is-hadoop-and-how-does-it-handle-big-data-efficiently-35fa)
-- [GitHub Project Setup: Markdown Tips](https://dev.to/marciorc_/github-project-setup-markdown-tips-4kan)
-- [6.3 Compondo comparators](https://dev.to/fundamentosjava/63-compondo-comparators-2n4e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
