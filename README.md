@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Simple example of reverse .apk &lpar;removing Ads&rpar;](https://dev.to/mardsoul/simple-example-of-reverse-apk-removing-ads-24dl)
-- [Challenge Lab: Creating a Static Website for the Café](https://dev.to/ameh_mathias/challenge-lab-creating-a-static-website-for-the-cafe-447i)
-- [Cultivating Excellence: The Defining Habit of Top Data Professionals](https://dev.to/daviewisdm/cultivating-excellence-the-defining-habit-of-top-data-professionals-475f)
-- [PGBackRest Configuration from Standby Database](https://dev.to/hujan/pgbackrest-configuration-from-standby-database-iho)
-- [Code Explanation: &quot;AI-Powered Hedge Fund&quot;](https://dev.to/foxgem/code-explanation-ai-powered-hedge-fund-465)
+- [10 Javascript animation you might need](https://dev.to/oluwalonimi_oye/10-javascript-animation-you-might-need-5g0c)
+- [[Boost]](https://dev.to/oluwalonimi_oye/-9jp)
+- [What Is Hadoop and How Does It Handle Big Data Efficiently?](https://dev.to/cristianalex_17/what-is-hadoop-and-how-does-it-handle-big-data-efficiently-35fa)
+- [GitHub Project Setup: Markdown Tips](https://dev.to/marciorc_/github-project-setup-markdown-tips-4kan)
+- [6.3 Compondo comparators](https://dev.to/fundamentosjava/63-compondo-comparators-2n4e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
