@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Next Evolution of AI - Merging Biology and Machine](https://dev.to/dansasser/the-next-evolution-of-ai-merging-biology-and-machine-44c6)
-- [ANDROID GRADLE PART -1](https://dev.to/jimthecaptaion/android-gradle-part-1-6o5)
-- [Manus AI: A Technical Deep Dive into China&#39;s First Autonomous AI Agent](https://dev.to/sayed_ali_alkamel/manus-ai-a-technical-deep-dive-into-chinas-first-autonomous-ai-agent-30d3)
-- [Master Audio and Video Processing in 3 Minutes: Integrating FFmpeg Elegantly in Rust](https://dev.to/yeauty/master-audio-and-video-processing-in-3-minutes-integrating-ffmpeg-elegantly-in-rust-53k5)
-- [The Future of Market Data: No Fees, No Limits, Just Pure Data](https://dev.to/gokhanuck/the-future-of-market-data-no-fees-no-limits-just-pure-data-3n41)
+- [TryHackMe: Web Application Pentesting Review](https://dev.to/seanleeys/tryhackme-web-application-pentesting-review-3h14)
+- [App Video: react-native-video VS expo-video](https://dev.to/zuludev/app-video-react-native-video-vs-expo-video-2jo)
+- [OOP project idea](https://dev.to/thin_phu/oop-project-idea-k08)
+- [TryHackMe: Summit](https://dev.to/seanleeys/tryhackme-summit-1mei)
+- [Apps Script’s Rhino runtime deprecated, launch of Meet Media API, and more!](https://dev.to/googleworkspace/apps-scripts-rhino-runtime-deprecated-launch-of-meet-media-api-and-more-391l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
