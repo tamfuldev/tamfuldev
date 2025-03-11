@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [KelpsGet: Um Clone Moderno do Wget em Rust 🦀](https://dev.to/davimf7221/kelpsget-um-clone-moderno-do-wget-em-rust-38hg)
-- [Developing Energy-Efficient AI Models for Sustainability](https://dev.to/kartikmehta8/developing-energy-efficient-ai-models-for-sustainability-1n75)
-- [What is Spring PetClinic?](https://dev.to/amdose/what-is-spring-petclinic-2n1n)
-- [How Improv Helped an Amazonian Overcome Stage Fear](https://dev.to/mastermentee/how-improv-helped-an-amazonian-overcome-stage-fear-4kli)
-- [10 Javascript animation you might need](https://dev.to/oluwalonimi_oye/10-javascript-animation-you-might-need-5g0c)
+- [Decoding the Digital Blueprint: Forging Exceptional Apps from the Tech Stack&#39;s Core](https://dev.to/daria_ester_7bc79acd97d54/decoding-the-digital-blueprint-forging-exceptional-apps-from-the-tech-stacks-core-1kh7)
+- [How To Add a Data Disk To A Virtual Machine In Azure: A Guide.](https://dev.to/essy/how-to-add-a-data-disk-to-a-virtual-machine-in-azure-a-guide-3g2g)
+- [Parameter Type Safety in JavaScript](https://dev.to/besworks/parameter-type-safety-in-javascript-4je2)
+- [Ethical Hacking vs Black Hat Hacking – What’s the Difference?](https://dev.to/serverzone/ethical-hacking-vs-black-hat-hacking-whats-the-difference-cgk)
+- [𝗢𝗻-𝗗𝗲𝘃𝗶𝗰𝗲 𝗔𝗜: 𝗬𝗼𝘂𝗿 𝗣𝗵𝗼𝗻𝗲 𝗝𝘂𝘀𝘁 𝗚𝗼𝘁 𝗮 𝗕𝗿𝗮𝗶𝗻 𝗨𝗽𝗴𝗿𝗮𝗱𝗲](https://dev.to/lifeofdekisugi/--3466)
 <!-- BLOG-POST-LIST:END -->
 
 ---
