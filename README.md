@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Auto CRUD Generator: Save 8+ Hours Per Project](https://dev.to/dosenngoding/laravel-auto-crud-generator-save-8-hours-per-project-m2l)
-- [4-Optimizing and Refactoring the Code - Building a Reactive System in TypeScript](https://dev.to/michaeljota/4-optimizing-and-refactoring-the-code-building-a-reactive-system-in-typescript-2d3)
-- [Telegram mini-app development and testing specifics: from initialisation to launch](https://dev.to/dev_family/telegram-mini-app-development-and-testing-specifics-from-initialisation-to-launch-1ofh)
-- [Chapter 7: HTML part two](https://dev.to/rossangus/chapter-7-html-part-two-15k)
-- [First pseudocode lines!](https://dev.to/matthijs_pouwels_9996aa3f/first-pseudocode-lines-1mij)
+- [🚀 Implementação de Interfaces por Tipos ref struct no C# 13](https://dev.to/develop4us/implementacao-de-interfaces-por-tipos-ref-struct-no-c-13-2j94)
+- [Что такое язык стилизации CSS? Почему его критикуют, но без него невозможно создать красивый сайт?](https://dev.to/sundaycoding/chto-takoie-iazyk-stilizatsii-css-pochiemu-iegho-kritikuiut-no-biez-niegho-nievozmozhno-sozdat-krasivyi-sait-17k4)
+- [Christmas Sweater vs. Ugly Sweater – Is There a Difference?](https://dev.to/pajamavillagecanada/christmas-sweater-vs-ugly-sweater-is-there-a-difference-on7)
+- [Monthly vs. Catch-Up Bookkeeping](https://dev.to/divya_shukla/monthly-vs-catch-up-bookkeeping-lp3)
+- [Unveiling Solana-Java: The Future of Open Source Blockchain Development](https://dev.to/ashucommits/unveiling-solana-java-the-future-of-open-source-blockchain-development-192j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
