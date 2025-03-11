@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking AI’s potential: How to quickly set up a Cursor MCP Server](https://dev.to/apideck/unlocking-ais-potential-how-to-quickly-set-up-a-cursor-mcp-server-4bk1)
-- [Build Once ! Deploy Many :Ensuring Consistency Across Environments with Angular Docker](https://dev.to/arpan_gautam/build-once-deploy-many-ensuring-consistency-across-environments-with-angular-docker-1iep)
-- [HerGaurdian](https://dev.to/sidatgithubcode/hergaurdian-3kgp)
-- [Cloud Mining Software Development: Key Features &amp; Strategies](https://dev.to/steveeys/cloud-mining-software-development-key-features-strategies-3h5e)
-- [The Future of AI: Trends, Predictions, and What to Expect](https://dev.to/its_ali_53c76e350e15a2149/the-future-of-ai-trends-predictions-and-what-to-expect-mjd)
+- [Eloquent API Resources: Best Practices for Transforming Data in Laravel](https://dev.to/programmerhasan/eloquent-api-resources-best-practices-for-transforming-data-in-laravel-4bed)
+- [Building a Secure Authentication System in MERN Stack: My Experience with JWT, Refresh Tokens, RBAC, and CORS](https://dev.to/sandeep_dara/building-a-secure-authentication-system-in-mern-stack-my-experience-with-jwt-refresh-tokens-4jfi)
+- [How to detect and fix flaky tests in Pytest](https://dev.to/gewenyu99/how-to-detect-and-fix-flaky-tests-in-pytest-1k61)
+- [Stop Writing Bad JavaScript — Do This Instead](https://dev.to/0x3d_site/stop-writing-bad-javascript-do-this-instead-2p76)
+- [Starlink x Airtel: A Satellite Internet Revolution in India?](https://dev.to/wearetechi/starlink-x-airtel-a-satellite-internet-revolution-in-india-4mk5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
