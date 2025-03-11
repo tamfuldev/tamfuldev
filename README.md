@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Implementação de Interfaces por Tipos ref struct no C# 13](https://dev.to/develop4us/implementacao-de-interfaces-por-tipos-ref-struct-no-c-13-2j94)
-- [Что такое язык стилизации CSS? Почему его критикуют, но без него невозможно создать красивый сайт?](https://dev.to/sundaycoding/chto-takoie-iazyk-stilizatsii-css-pochiemu-iegho-kritikuiut-no-biez-niegho-nievozmozhno-sozdat-krasivyi-sait-17k4)
-- [Christmas Sweater vs. Ugly Sweater – Is There a Difference?](https://dev.to/pajamavillagecanada/christmas-sweater-vs-ugly-sweater-is-there-a-difference-on7)
-- [Monthly vs. Catch-Up Bookkeeping](https://dev.to/divya_shukla/monthly-vs-catch-up-bookkeeping-lp3)
-- [Unveiling Solana-Java: The Future of Open Source Blockchain Development](https://dev.to/ashucommits/unveiling-solana-java-the-future-of-open-source-blockchain-development-192j)
+- [React vs Next.js: Which One to Choose?](https://dev.to/raajaryan/react-vs-nextjs-which-one-to-choose-p57)
+- [Prevent viewport scroll bounce effect](https://dev.to/devy/prevent-viewport-scroll-bounce-effect-30d5)
+- [PR Summarizer: Your GitHub Sidekick for Faster and Funnier Reviews! 🎉](https://dev.to/bansikah/pr-summarizer-your-github-sidekick-for-faster-and-funnier-reviews-1635)
+- [AEPS Software: The Future of Banking for Agents &amp; Retailers](https://dev.to/ankit_vijayvargiya_50b613/aeps-software-the-future-of-banking-for-agents-retailers-1if6)
+- [What Are Embeddings? How They Help in RAG](https://dev.to/shaheryaryousaf/what-are-embeddings-how-they-help-in-rag-2l1k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
