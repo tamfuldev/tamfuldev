@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Git Documentation - Config, Reflog, and Tags](https://dev.to/moustafaabedi/git-documentation-config-reflog-and-tags-38hm)
-- [I&#39;m totally new to this space](https://dev.to/ninjaplays69/im-totally-new-to-this-space-3m0a)
-- [Backporting New ColdFusion 2025 Function listGetDuplicates&lpar;&rpar;](https://dev.to/gamesover/backporting-new-coldfusion-2025-function-listgetduplicates-i9n)
-- [Untitled](https://dev.to/jlazycom_60ee6b1075da9bb9/untitled-1nn5)
-- [Creating a Portal for the Logistics with AI](https://dev.to/blueqbitcode/creating-a-portal-for-the-logistics-with-ai-2fn9)
+- [get set Hola mundo en Soroban😀](https://dev.to/sergiotechx/get-set-hola-mundo-en-soroban-16mm)
+- [Meditations on Chasing a Developer Career](https://dev.to/mrsupercraft/meditations-on-chasing-a-developer-career-499b)
+- [Inception Labs released a production-grade diffusion LLM 🤯](https://dev.to/best_codes/inception-labs-released-a-production-grade-diffusion-llm-3a8j)
+- [Connecting your CDN to Fastly Object Storage](https://dev.to/fastly/connecting-your-cdn-to-fastly-object-storage-46n9)
+- [Resolving dpkg Lock Contention in Ubuntu Deployments](https://dev.to/yulin/resolving-dpkg-lock-contention-in-ubuntu-deployments-5fkk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
