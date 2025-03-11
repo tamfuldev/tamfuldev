@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [범위 한정될 때 유리한 계수 정렬](https://dev.to/junghwan18/susjayi-beomwiga-hanjeongdoeeo-isseul-ddaen-gyesujeongryeoldo-gominhaeboja-1j7h)
-- [Stop Naming Things Wrong! Enforce Naming Conventions with TypeScript](https://dev.to/coconut_coder/stop-naming-things-wrong-enforce-naming-conventions-with-typescript-5h90)
-- [Test Design: What Is It and Why Is It Important?](https://dev.to/radha_4c842d8e4362a7cdd9c/test-design-what-is-it-and-why-is-it-important-35o7)
-- [First Post](https://dev.to/kelly_hopkins/first-post-16k7)
-- [testing](https://dev.to/diwakar810/testing-127d)
+- [Navigating PostgreSQL - Pages and Blocks](https://dev.to/aditya999123/navigating-postgresql-pages-and-blocks-238l)
+- [Hands-on Lab - Event Driven Architecture with Amazon API Gateway, Amazon EventBridge and AWS Lambda](https://dev.to/gurudev_prasadteketi/hands-on-lab-event-driven-architecture-with-amazon-api-gateway-amazon-eventbridge-and-aws-lambda-kn2)
+- [Using Logger Middleware in Go Fiber](https://dev.to/luthfisauqi17/using-logger-middleware-in-go-fiber-21cn)
+- [OData with .NET core: Essential Concepts &amp; Best Practices](https://dev.to/renukapatil/odata-with-net-core-essential-concepts-best-practices-1iea)
+- [Building CraveSpin: A Fun Web App to Help You Choose What to Eat](https://dev.to/devchiii/building-cravespin-a-fun-web-app-to-help-you-choose-what-to-eat-2lo0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
