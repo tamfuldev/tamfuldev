@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Sawtooth Python SDK: Open Source, Funding, and Community Impact](https://dev.to/vitalisorenko/exploring-the-sawtooth-python-sdk-open-source-funding-and-community-impact-5hba)
-- [Gradle 101: How This Tool Builds Your Android App Behind the Scenes](https://dev.to/rijultp/gradle-101-how-this-tool-builds-your-android-app-behind-the-scenes-134p)
-- [2025 ChatGPT Case Study: AI Search Framework](https://dev.to/masterplanner25/2025-chatgpt-case-study-ai-search-framework-79)
-- [🚀 Build a No-Code Project Management App in Bubble.io | Full CRUD Tutorial](https://dev.to/ebereplenty/build-a-no-code-project-management-app-in-bubbleio-full-crud-tutorial-2h0e)
-- [Calico Network Policy](https://dev.to/alakkadshaw/calico-network-policy-88)
+- [Git Documentation - Config, Reflog, and Tags](https://dev.to/moustafaabedi/git-documentation-config-reflog-and-tags-38hm)
+- [I&#39;m totally new to this space](https://dev.to/ninjaplays69/im-totally-new-to-this-space-3m0a)
+- [Backporting New ColdFusion 2025 Function listGetDuplicates&lpar;&rpar;](https://dev.to/gamesover/backporting-new-coldfusion-2025-function-listgetduplicates-i9n)
+- [Untitled](https://dev.to/jlazycom_60ee6b1075da9bb9/untitled-1nn5)
+- [Creating a Portal for the Logistics with AI](https://dev.to/blueqbitcode/creating-a-portal-for-the-logistics-with-ai-2fn9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
