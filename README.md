@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Простая шпаргалка по jQuery для начинающих веб программистов](https://dev.to/sundaycoding/prostaia-shparghalka-po-jquery-dlia-nachinaiushchikh-vieb-proghrammistov-36cf)
-- [Intro to Rsmolagent](https://dev.to/gkosmo/intro-to-rsmolagent-1gf7)
-- [Introducing crossmemo: A Powerful Cross-Environment Caching &amp; Memoization Utility](https://dev.to/alok5953/introducing-crossmemo-a-powerful-cross-environment-caching-memoization-utility-1pm0)
-- [How Much Does It Cost To Maintain A Website](https://dev.to/lindacouri/how-much-does-it-cost-to-maintain-a-website-26n8)
-- [Good one. I can create my golang/rust wrapper to use it](https://dev.to/vikasavnish/good-one-i-can-create-my-golangrust-wrapper-to-use-it-453a)
+- [Unconventional Yet Common Aggregation Operations](https://dev.to/esproc_spl/unconventional-yet-common-aggregation-operations-55do)
+- [Hello World with Proto.Actor: Building Your First Actor Model System in .NET](https://dev.to/actor-swe/proto-actor-hello-world-8bk)
+- [Replacing Docker with Podman on Windows](https://dev.to/petersaktor/replacing-docker-with-podman-on-windows-56ee)
+- [Building a PDF-to-Podcast Pipeline with Open-Source AI: From Text Extraction to Voice Synthesis](https://dev.to/featherlessai/building-a-pdf-to-podcast-pipeline-with-open-source-ai-from-text-extraction-to-voice-synthesis-eo1)
+- [Open Source in 2025: Strap In, Disruption Straight Ahead](https://dev.to/chen_debra_3060b21d12b1b0/open-source-in-2025-strap-in-disruption-straight-ahead-3n2n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
