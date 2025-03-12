@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating to Valkey from Redis](https://dev.to/logrocket/migrating-to-valkey-from-redis-3jib)
-- [Building for Users: The Real Purpose of Software Development](https://dev.to/wraith/building-for-users-the-real-purpose-of-software-development-a3a)
-- [Luhn algorithm- credit card](https://dev.to/neelakandan_ravi_2000/luhn-algorithm-6id)
-- [Structuring Invoices](https://dev.to/formance/structuring-invoices-420a)
-- [🚀Learn The Ultimate Stack for Web3 Development:🔥 Next.js + RainbowKit + wagmi + viem](https://dev.to/zt_myo/learn-the-ultimate-stack-for-web3-development-nextjs-rainbowkit-wagmi-viem-4fn8)
+- [Building FastRace: A High-Performance Traceroute Implementation in Pure C](https://dev.to/daviducolo/building-fastrace-a-high-performance-traceroute-implementation-in-pure-c-3h92)
+- [TypeScript just got 10x faster… &lpar;because of Go&rpar;](https://dev.to/fabianfrankwerner/typescript-just-got-10x-faster-because-of-go-12cn)
+- [Automating Amazon EKS Provisioning with Terraform &amp; GitHub OIDC &amp; Actions](https://dev.to/ayush_pant_67bc0b97507a25/automating-amazon-eks-provisioning-with-terraform-github-oidc-actions-5dof)
+- [Secure Packages with AWS CodeArtifact](https://dev.to/misolainthecloud/secure-packageswith-aws-codeartifact-1gh4)
+- [Introducing Dengo: MongoDB API for Deno KV](https://dev.to/vfssantos/introducing-dengo-mongodb-api-for-deno-kv-4cgf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
