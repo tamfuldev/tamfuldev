@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Types of Databases: Relational, NoSQL, and Beyond](https://dev.to/be11amer/types-of-databases-relational-nosql-and-beyond-45l)
-- [Next.js vs. Solid.js: What to Choose in 2025?](https://dev.to/sharvin26/nextjs-vs-solidjs-what-to-choose-in-2025-enh)
-- [Tutorial: Build a RAG Chatbot with LangChain 🦜, Zilliz Cloud, Anthropic Claude 3 Opus, and Google Vertex AI text-embedding-004](https://dev.to/zilliz/tutorial-build-a-rag-chatbot-with-langchain-zilliz-cloud-anthropic-claude-3-opus-and-google-24gg)
-- [From Side Projects to Job Offers: The Hidden Value of Your First Tech Projects and Articles](https://dev.to/stan015/from-side-projects-to-job-offers-the-hidden-value-of-your-first-tech-projects-and-articles-5619)
-- [How to Start a Mobile Recharge Portal and Business in India: A Complete Guide with Noble Web Studio](https://dev.to/vicky_vijaywargiya_4c7fbd/how-to-start-a-mobile-recharge-portal-and-business-in-india-a-complete-guide-with-noble-web-studio-18fd)
+- [Export Figma to CSS](https://dev.to/builderio/export-figma-to-css-503g)
+- [Generative and Predictive AI in Application Security: A Comprehensive Guide](https://dev.to/lynxfelony1/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-559i)
+- [Styling the Lynx project](https://dev.to/iarchitsharma/styling-the-lynx-project-26d5)
+- [Первый в мире программист, её непростая жизнь, и при чём тут Лермонтов?](https://dev.to/sundaycoding/piervyi-v-mirie-proghrammist-ieio-nieprostaia-zhizn-i-pri-chiom-tut-liermontov-4n79)
+- [Terraform vs Pulumi vs SST: A tradeoffs analysis](https://dev.to/gautierblandin/terraform-vs-pulumi-vs-sst-a-tradeoffs-analysis-9jb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
