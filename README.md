@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Export Figma to CSS](https://dev.to/builderio/export-figma-to-css-503g)
-- [Generative and Predictive AI in Application Security: A Comprehensive Guide](https://dev.to/lynxfelony1/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-559i)
-- [Styling the Lynx project](https://dev.to/iarchitsharma/styling-the-lynx-project-26d5)
-- [Первый в мире программист, её непростая жизнь, и при чём тут Лермонтов?](https://dev.to/sundaycoding/piervyi-v-mirie-proghrammist-ieio-nieprostaia-zhizn-i-pri-chiom-tut-liermontov-4n79)
-- [Terraform vs Pulumi vs SST: A tradeoffs analysis](https://dev.to/gautierblandin/terraform-vs-pulumi-vs-sst-a-tradeoffs-analysis-9jb)
+- [Let&#39;s create international phone number input with React, Tailwind CSS and Headless UI](https://dev.to/morewings/lets-create-international-phone-number-input-with-react-tailwind-css-and-headless-ui-31jc)
+- [Space-time collision problem that renders MPP powerless to solve: SPL practice](https://dev.to/esproc_spl/space-time-collision-problem-that-renders-mpp-powerless-to-solve-spl-practice-3in6)
+- [Automate Everything to Avoid Failures](https://dev.to/metis/automate-everything-to-avoid-failures-h0k)
+- [A Beginner’s Guide to Debugging Like a Pro](https://dev.to/dimagi_sihilel_0d6234fd02/a-beginners-guide-to-debugging-like-a-pro-l7i)
+- [Carving Your Path in Tech: Finding the Right Niche for You](https://dev.to/kakacomputer-media/carving-your-path-in-tech-finding-the-right-niche-for-you-5aom)
 <!-- BLOG-POST-LIST:END -->
 
 ---
