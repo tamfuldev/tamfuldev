@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy Nextcloud on Kubernetes](https://dev.to/mrgitops/deploy-nextcloud-on-kubernetes-31n5)
-- [Online Diagnostic Tools: Supplement, Not Replacement](https://dev.to/rustemsoft_llc_4b38a13294/online-diagnostic-tools-supplement-not-replacement-3gip)
-- [Using AWS Secret Manager to store credentials](https://dev.to/ramparamhansa/using-aws-secret-manager-to-store-credentials-and-retrieve-it-in-terraform-module-4ofk)
-- [React for Embedded Development](https://dev.to/fefa4ka/react-for-embedded-development-mho)
-- [What Are the Key Features Of Delphi Programming That Make It a Preferred Choice for Windows Application Development?](https://dev.to/jordankeurope/what-are-the-key-features-of-delphi-programming-that-make-it-a-preferred-choice-for-windows-4g2h)
+- [Step-by-Step Guide: Creating a SharePoint Site with Custom Permissions](https://dev.to/seyilufadejucyberservices/step-by-step-guide-creating-a-sharepoint-site-with-custom-permissions-630)
+- [• Personal Finance Tracker &lpar;Track income/expenses with charts &amp; tables&rpar;](https://dev.to/pk_shahood_76c6e86d745494/personal-finance-tracker-track-incomeexpenses-with-charts-tables-5eki)
+- [Securing Your Kubernetes Fortress](https://dev.to/arbythecoder/securing-your-kubernetes-fortress-5308)
+- [[Boost]](https://dev.to/martygo/-3hpn)
+- [Interface vs. Type in TypeScript: How I Built a Custom ESLint Rule to Convert All Interfaces to Types](https://dev.to/janszotkowski/interface-vs-type-in-typescript-how-i-built-a-custom-eslint-rule-to-convert-all-interfaces-to-29n3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
