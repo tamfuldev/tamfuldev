@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Google Cloud Infrastructure for AWS Professionals: A Complete Guide for 2025](https://dev.to/rohan_jee_085655230/google-cloud-infrastructure-for-aws-professionals-a-complete-guide-for-2025-8p3)
-- [2529. Maximum Count of Positive Integer and Negative Integer](https://dev.to/mdarifulhaque/2529-maximum-count-of-positive-integer-and-negative-integer-2la3)
-- [Unveiling PHP License 3.0: Balancing Fairness and Innovation in Software Licensing](https://dev.to/vitalisorenko/unveiling-php-license-30-balancing-fairness-and-innovation-in-software-licensing-4lh8)
-- [CCNA Certification Guide: Your Complete Roadmap for 2025](https://dev.to/rohan_jee_085655230/ccna-certification-guide-your-complete-roadmap-for-2025-589g)
-- [Tailwind CSS vs. Bootstrap: Which Framework is Better for Your Project?](https://dev.to/ideradevtools/tailwind-css-vs-bootstrap-which-framework-is-better-for-your-project-bh6)
+- [Pricing Card Code Challenge](https://dev.to/thek2j/pricing-card-code-challenge-453c)
+- [Simplifying React Hooks: useReducer 💯](https://dev.to/alisamir/simplifying-react-hooks-usereducer-86k)
+- [Just Launched My Custom Tetris Game! 🎮](https://dev.to/nemish/just-launched-my-custom-tetris-game-7gd)
+- [Monitor Docker Logs in Real-Time with a Simple Bash Script](https://dev.to/kishore_suzil_v/monitor-docker-logs-in-real-time-with-a-simple-bash-script-4fb4)
+- [Python Keyloggers: Do They Still Work in 2025?](https://dev.to/snappytuts/python-keyloggers-do-they-still-work-in-2025-120i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
