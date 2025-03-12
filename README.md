@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build A Personal AI-Powered Finance Copilot: Maybe + CopilotKit 🪁](https://dev.to/copilotkit/build-a-personal-ai-powered-finance-copilot-maybe-copilotkit-2knf)
-- [Building Robust Python Data Models with Pydantic Validators](https://dev.to/samconibear/building-robust-python-data-models-with-pydantic-validators-41lf)
-- [C# da Nuqtalar va Doiralar bilan Ishlash](https://dev.to/umida5/struct-5d2i)
-- [The Transformation of Digital Illustration in Digital Marketing](https://dev.to/max_services/the-transformation-of-digital-illustration-in-digital-marketing-2g71)
-- [🚀 𝗦𝗼𝗹𝘃𝗶𝗻𝗴 𝗚𝗺𝗮𝗶𝗹 𝗦𝗠𝗧𝗣 𝗜𝘀𝘀𝘂𝗲𝘀 𝗶𝗻 𝗔𝗦𝗣.𝗡𝗘𝗧 𝗖𝗼𝗿𝗲! 🔥](https://dev.to/supraja_tangella_b7f0738e/--581b)
+- [Migrating to Valkey from Redis](https://dev.to/logrocket/migrating-to-valkey-from-redis-3jib)
+- [Building for Users: The Real Purpose of Software Development](https://dev.to/wraith/building-for-users-the-real-purpose-of-software-development-a3a)
+- [Luhn algorithm- credit card](https://dev.to/neelakandan_ravi_2000/luhn-algorithm-6id)
+- [Structuring Invoices](https://dev.to/formance/structuring-invoices-420a)
+- [🚀Learn The Ultimate Stack for Web3 Development:🔥 Next.js + RainbowKit + wagmi + viem](https://dev.to/zt_myo/learn-the-ultimate-stack-for-web3-development-nextjs-rainbowkit-wagmi-viem-4fn8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
