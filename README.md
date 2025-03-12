@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Como Criar um Raycaster&lpar;estilo DOOM&rpar; com C++](https://dev.to/marcosplusplus/como-criar-um-raycasterestilo-doom-com-c-42na)
-- [Day 1118 : Drop](https://dev.to/dwane/day-1118-drop-4e6a)
-- [4 lessons from learning webdev as a beginner](https://dev.to/jleung230/4-lessons-from-learning-webdev-as-a-beginner-2nm1)
-- [Implementación de &quot;EleganFlow&quot;: Arquitectura Modular y Sostenible](https://dev.to/juan_carlosvalderrbano/implementacion-de-eleganflow-arquitectura-modular-y-sostenible-odn)
-- [Dify + AgentQL: Build AI Apps with Live Web Data, No Code Needed](https://dev.to/nearestnabors/dify-agentql-build-ai-apps-with-live-web-data-no-code-needed-5b4e)
+- [Reusable Components in Flutter: Write Once, Use Everywhere! 🚀](https://dev.to/abubaker_alhomidy_057530c/reusable-components-in-flutter-write-once-use-everywhere-9oa)
+- [The Mobile App Testing Guide for Beginners](https://dev.to/radha_4c842d8e4362a7cdd9c/the-mobile-app-testing-guide-for-beginners-2ke)
+- [Dog Hack the Box Writeup](https://dev.to/deadbeff/dog-hack-the-box-writeup-o19)
+- [Simplify Your PHP Code with KISS, YAGNI, and DRY](https://dev.to/peixotons/simplify-your-php-code-with-kiss-yagni-and-dry-p5g)
+- [Understanding AI APIs with APIpie.ai](https://dev.to/apipie-ai/understanding-ai-apis-with-apipieai-16b9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
