@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Static Typing is Essential for Efficient Ruby and Rails Development](https://dev.to/aeremin/why-static-typing-is-essential-for-efficient-ruby-and-rails-development-3n0d)
-- [AI compute revolution is Here!!! Please check out this article](https://dev.to/lorebrada00/ai-compute-revolution-is-here-please-check-out-this-article-bkc)
-- [Democratizing AI Compute, Part 1: The Impact of DeepSeek on AI](https://dev.to/cortexflow/democratizing-ai-compute-part-1-the-impact-of-deepseek-on-ai-3kf2)
-- [&quot;Vibe Coding&quot; 101: What It Is, How It Works, and Why It Matters](https://dev.to/austinwdigital/vibe-coding-101-what-it-is-how-it-works-and-why-it-matters-1e4a)
-- [chrome driver and chrome browser mismatch versions](https://dev.to/pasto_aurelio_06c14c2fd1b/chrome-driver-and-chrome-browser-mismatch-versions-14e2)
+- [Deploy Nextcloud on Kubernetes](https://dev.to/mrgitops/deploy-nextcloud-on-kubernetes-31n5)
+- [Online Diagnostic Tools: Supplement, Not Replacement](https://dev.to/rustemsoft_llc_4b38a13294/online-diagnostic-tools-supplement-not-replacement-3gip)
+- [Using AWS Secret Manager to store credentials](https://dev.to/ramparamhansa/using-aws-secret-manager-to-store-credentials-and-retrieve-it-in-terraform-module-4ofk)
+- [React for Embedded Development](https://dev.to/fefa4ka/react-for-embedded-development-mho)
+- [What Are the Key Features Of Delphi Programming That Make It a Preferred Choice for Windows Application Development?](https://dev.to/jordankeurope/what-are-the-key-features-of-delphi-programming-that-make-it-a-preferred-choice-for-windows-4g2h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
