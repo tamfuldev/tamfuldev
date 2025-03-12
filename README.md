@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top Features of ZinariPay You Should Know About](https://dev.to/zinaritech/top-features-of-zinaripay-you-should-know-about-31gg)
-- [Building Infinite AI Web: The Journey Begins &lpar;pt1&rpar;](https://dev.to/thelime1/building-infinite-ai-web-the-journey-begins-pt1-1enb)
-- [Google Workspace and the Model Context Protocol](https://dev.to/googleworkspace/google-workspace-and-the-model-context-protocol-5amf)
-- [Unveiling the OpenSSL License: A Deep Dive into Open Source Security](https://dev.to/jennythomas498/unveiling-the-openssl-license-a-deep-dive-into-open-source-security-k86)
-- [🚀 Flare Chat – A Modern Flutter Chat App with Firebase 💬](https://dev.to/chethankrishna_manikonda_/flare-chat-a-modern-flutter-chat-app-with-firebase-5fc2)
+- [Google Cloud Infrastructure for AWS Professionals: A Complete Guide for 2025](https://dev.to/rohan_jee_085655230/google-cloud-infrastructure-for-aws-professionals-a-complete-guide-for-2025-8p3)
+- [2529. Maximum Count of Positive Integer and Negative Integer](https://dev.to/mdarifulhaque/2529-maximum-count-of-positive-integer-and-negative-integer-2la3)
+- [Unveiling PHP License 3.0: Balancing Fairness and Innovation in Software Licensing](https://dev.to/vitalisorenko/unveiling-php-license-30-balancing-fairness-and-innovation-in-software-licensing-4lh8)
+- [CCNA Certification Guide: Your Complete Roadmap for 2025](https://dev.to/rohan_jee_085655230/ccna-certification-guide-your-complete-roadmap-for-2025-589g)
+- [Tailwind CSS vs. Bootstrap: Which Framework is Better for Your Project?](https://dev.to/ideradevtools/tailwind-css-vs-bootstrap-which-framework-is-better-for-your-project-bh6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
