@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Daily React Learning -10](https://dev.to/utsabnepal55/daily-react-learning-10-n42)
-- [Ditching the Overhead: My Experience with Go, HTMX, Tailwind &amp; Alpine.js](https://dev.to/thesimdak/ditching-the-overhead-my-experience-with-go-htmx-tailwind-alpinejs-1gif)
-- [When Files Ask for a Password: A Developer&#39;s Solution](https://dev.to/tabuna/when-files-ask-for-a-password-a-developers-solution-396a)
-- [TypeScript 7: 10x Speedup and the Go Language 🚨](https://dev.to/anthonymax/typescript-7-10x-speedup-and-the-go-language-1mkf)
-- [Linux awareness, Distrohopping, Ricing, and Growing up](https://dev.to/abanoubha/linux-awareness-distrohopping-ricing-and-growing-up-2ikl)
+- [Why Static Typing is Essential for Efficient Ruby and Rails Development](https://dev.to/aeremin/why-static-typing-is-essential-for-efficient-ruby-and-rails-development-3n0d)
+- [AI compute revolution is Here!!! Please check out this article](https://dev.to/lorebrada00/ai-compute-revolution-is-here-please-check-out-this-article-bkc)
+- [Democratizing AI Compute, Part 1: The Impact of DeepSeek on AI](https://dev.to/cortexflow/democratizing-ai-compute-part-1-the-impact-of-deepseek-on-ai-3kf2)
+- [&quot;Vibe Coding&quot; 101: What It Is, How It Works, and Why It Matters](https://dev.to/austinwdigital/vibe-coding-101-what-it-is-how-it-works-and-why-it-matters-1e4a)
+- [chrome driver and chrome browser mismatch versions](https://dev.to/pasto_aurelio_06c14c2fd1b/chrome-driver-and-chrome-browser-mismatch-versions-14e2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
