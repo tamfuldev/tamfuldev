@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [startup job description red flags/amateur/elitist indicators](https://dev.to/codewander/startup-job-description-red-flagsamateurelitist-indicators-mdc)
-- [What Is DevOps? Demystifying Its Purpose, Importance, and Role in Tech](https://dev.to/jayk/what-is-devops-demystifying-its-purpose-importance-and-role-in-tech-102i)
-- [Mastering OpenAI’s new Agents SDK &amp; Responses API [Part 1]](https://dev.to/bobbyhalljr/mastering-openais-new-agents-sdk-responses-api-part-1-2al8)
-- [Building a Secure Password Reset System with Node.js and MySQL](https://dev.to/shreyansii/building-a-secure-password-reset-system-with-nodejs-and-mysql-9l1)
-- [Exploring the Enduring Legacy of the BSD 3-Clause License](https://dev.to/ahmmrizv9/exploring-the-enduring-legacy-of-the-bsd-3-clause-license-50p4)
+- [Escaping the Digital Treadmill: How to Daily Drive a Flip phone in 2025 - TCL Flip 2](https://dev.to/tylerboni/escaping-the-digital-treadmill-how-to-daily-drive-a-flip-phone-in-2025-tcl-flip-2-17el)
+- [Unveiling GNU Free Documentation License 1.3: A Deep Dive into Open Documentation Freedom](https://dev.to/laetitiaperraut/unveiling-gnu-free-documentation-license-13-a-deep-dive-into-open-documentation-freedom-4e0h)
+- [How to Fix the &quot;This email is not available&quot; Error in Cursor](https://dev.to/falldd/how-to-fix-the-this-email-is-not-available-error-in-cursor-2bfk)
+- [I Built a Docker Image Download Tool in 7 Days – No Docker Required! 🚀](https://dev.to/herche_jane/i-built-a-docker-image-download-tool-in-7-days-no-docker-required-267o)
+- [Consume la api de GitHub](https://dev.to/fainnerramirez/consume-la-api-de-github-37jc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
