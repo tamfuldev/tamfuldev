@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Reusable Components in Flutter: Write Once, Use Everywhere! 🚀](https://dev.to/abubaker_alhomidy_057530c/reusable-components-in-flutter-write-once-use-everywhere-9oa)
-- [The Mobile App Testing Guide for Beginners](https://dev.to/radha_4c842d8e4362a7cdd9c/the-mobile-app-testing-guide-for-beginners-2ke)
-- [Dog Hack the Box Writeup](https://dev.to/deadbeff/dog-hack-the-box-writeup-o19)
-- [Simplify Your PHP Code with KISS, YAGNI, and DRY](https://dev.to/peixotons/simplify-your-php-code-with-kiss-yagni-and-dry-p5g)
-- [Understanding AI APIs with APIpie.ai](https://dev.to/apipie-ai/understanding-ai-apis-with-apipieai-16b9)
+- [startup job description red flags/amateur/elitist indicators](https://dev.to/codewander/startup-job-description-red-flagsamateurelitist-indicators-mdc)
+- [What Is DevOps? Demystifying Its Purpose, Importance, and Role in Tech](https://dev.to/jayk/what-is-devops-demystifying-its-purpose-importance-and-role-in-tech-102i)
+- [Mastering OpenAI’s new Agents SDK &amp; Responses API [Part 1]](https://dev.to/bobbyhalljr/mastering-openais-new-agents-sdk-responses-api-part-1-2al8)
+- [Building a Secure Password Reset System with Node.js and MySQL](https://dev.to/shreyansii/building-a-secure-password-reset-system-with-nodejs-and-mysql-9l1)
+- [Exploring the Enduring Legacy of the BSD 3-Clause License](https://dev.to/ahmmrizv9/exploring-the-enduring-legacy-of-the-bsd-3-clause-license-50p4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
