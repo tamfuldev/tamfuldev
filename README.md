@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀O que é a palavra-chave field no C# 13?](https://dev.to/develop4us/o-que-e-a-palavra-chave-field-no-c-13-1an6)
-- [Laravel: Do you need facades?](https://dev.to/spo0q/laravel-facades-5hmd)
-- [Pricing Card](https://dev.to/thek2j/pricing-card-2bo8)
-- [Singleton - Anti Pattern?](https://dev.to/darlangui/singleton-anti-pattern-18d7)
-- [Internal Developer Portals vs Platforms](https://dev.to/cyclops-ui/internal-developer-portals-vs-platforms-1aab)
+- [Embedded Wallets 2.0: A More Powerful, Flexible Web3 Experience](https://dev.to/deseniska/embedded-wallets-20-a-more-powerful-flexible-web3-experience-1gec)
+- [Building a Simple Terminal-Based File Manager in Bash](https://dev.to/beta_shorts_7f1150259405a/building-a-simple-terminal-based-file-manager-in-bash-1e4n)
+- [Unveiling the Modified BSD License: A Deep Dive into Permissive Open Source Licensing](https://dev.to/jennythomas498/unveiling-the-modified-bsd-license-a-deep-dive-into-permissive-open-source-licensing-2pf)
+- [Exploring Passive Income with Crypto Staking and Lending: A Growing Trend](https://dev.to/andrewdeveloper/exploring-passive-income-with-crypto-staking-and-lending-a-growing-trend-21gl)
+- [Selenium Commands List: The Ultimate Reference Guide](https://dev.to/shubham-theqa/selenium-commands-list-the-ultimate-reference-guide-5fn0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
