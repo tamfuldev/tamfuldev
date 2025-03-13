@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents with Fetch.ai: Tips for Smarter Automation ⚡](https://dev.to/ramkumar-m-n/ai-agents-with-fetchai-tips-for-smarter-automation-52nc)
-- [Isolated API Routing in ViteJS with `vite-plugin-api-routes`](https://dev.to/yracnet/isolated-api-routing-in-vitejs-with-vite-plugin-api-routes-480e)
-- [150/365 | ¥10M Job Challenge - Beliefs about life](https://dev.to/kameken100/150365-y10m-job-challenge-beliefs-about-life-a9c)
-- [Build a free ip info cache with PocketBase](https://dev.to/huakun/build-a-free-ip-info-cache-with-pocketbase-55nc)
-- [Magic Wormhole Source Code Analysis](https://dev.to/huakun/magic-wormhole-source-code-analysis-529)
+- [n3xt w33k 1s l4unch w33k](https://dev.to/fmerian/n3xt-w33k-1s-l4unch-w33k-2pkf)
+- [I heard this was the community that could help me out with my project!? 😁](https://dev.to/devrabb/i-heard-this-was-the-community-that-could-help-me-out-with-my-project-eni)
+- [Dependencies and Layering with C#](https://dev.to/tak089/dependencies-and-layering-with-c-51l9)
+- [AI Chat bots Are Now Speaking Their Own Language — Is This the Future or a Nightmare?](https://dev.to/jithendrasai_kilaru_1a67a/ai-chat-bots-are-now-speaking-their-own-language-is-this-the-future-or-a-nightmare-59c1)
+- [Types of Dependency Injection](https://dev.to/shreyans_padmani/types-of-dependency-injection-5394)
 <!-- BLOG-POST-LIST:END -->
 
 ---
