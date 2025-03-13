@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [NocoBase v1.6.0 Officially Released](https://dev.to/nocobase/nocobase-v160-officially-released-36d)
-- [Unveiling Creative Commons Share-Alike 4.0: A Deep Dive into Open Collaboration](https://dev.to/bobcars/unveiling-creative-commons-share-alike-40-a-deep-dive-into-open-collaboration-23fe)
-- [non-human resources](https://dev.to/rustyshackleford01/non-human-resources-396i)
-- [Webmentions Revisited: 5yrs later](https://dev.to/jswhisperer/webmentions-revisited-5yrs-later-cdn)
-- [What to do if the crawler IP is restricted? Simple solution to crawler IP ban](https://dev.to/98ip/what-to-do-if-the-crawler-ip-is-restricted-simple-solution-to-crawler-ip-ban-2nc1)
+- [😴 Go Code You Can Trust: Sleep Well After You Commit](https://dev.to/trungdlp/go-code-you-can-trust-sleep-well-after-you-commit-440n)
+- [Multipass Unlocked: Effortlessly Spin Up Ubuntu VMs in Seconds!](https://dev.to/robert_coffie/multipass-unlocked-effortlessly-spin-up-ubuntu-vms-in-seconds-46e5)
+- [This post is spot on! I believe its true that developers who use AI are moving ahead, while those still coding manually are falling behind. The best developers use AI to save time, learn quickly, and even make money.](https://dev.to/nitin_sharma_808db619a8a9/this-post-is-spot-on-i-believe-its-true-that-developers-who-use-ai-are-moving-ahead-while-1lcp)
+- [Well I never thought this](https://dev.to/djblackeye/well-i-never-thought-this-1ipa)
+- [Best AI prompt generators and AI Prompt Manager](https://dev.to/foxinfotech/best-ai-prompt-generators-and-ai-prompt-manager-1i1b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
