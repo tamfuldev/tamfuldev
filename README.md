@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/foxinfotech/-2j0o)
-- [Social link share | Portfolio website | Personal link share website](https://dev.to/mahmud-r-farhan/social-link-share-portfolio-website-personal-link-share-website-586j)
-- [🌐 𝐔𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝𝐢𝐧𝐠 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬: 𝐂𝐥𝐮𝐬𝐭𝐞𝐫𝐈𝐏, 𝐍𝐨𝐝𝐞𝐏𝐨𝐫𝐭, 𝐚𝐧𝐝 𝐋𝐨𝐚𝐝𝐁𝐚𝐥𝐚𝐧𝐜𝐞𝐫 🚀](https://dev.to/anil_kumar_ff4f6ad3549983/--jea)
-- [Optimizing Code for Better Rankings in 2025](https://dev.to/andrewphilmorgan/optimizing-code-for-better-rankings-in-2025-1c4p)
-- [Request-Mocking-Protocol: A New Approach to Mocking Server-Side Requests in E2E Testing](https://dev.to/vitalets/request-mocking-protocol-a-new-approach-to-mocking-server-side-requests-in-e2e-testing-3p2i)
+- [🚀O que é a palavra-chave field no C# 13?](https://dev.to/develop4us/o-que-e-a-palavra-chave-field-no-c-13-1an6)
+- [Laravel: Do you need facades?](https://dev.to/spo0q/laravel-facades-5hmd)
+- [Pricing Card](https://dev.to/thek2j/pricing-card-2bo8)
+- [Singleton - Anti Pattern?](https://dev.to/darlangui/singleton-anti-pattern-18d7)
+- [Internal Developer Portals vs Platforms](https://dev.to/cyclops-ui/internal-developer-portals-vs-platforms-1aab)
 <!-- BLOG-POST-LIST:END -->
 
 ---
