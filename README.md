@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Embedded Wallets 2.0: A More Powerful, Flexible Web3 Experience](https://dev.to/deseniska/embedded-wallets-20-a-more-powerful-flexible-web3-experience-1gec)
-- [Building a Simple Terminal-Based File Manager in Bash](https://dev.to/beta_shorts_7f1150259405a/building-a-simple-terminal-based-file-manager-in-bash-1e4n)
-- [Unveiling the Modified BSD License: A Deep Dive into Permissive Open Source Licensing](https://dev.to/jennythomas498/unveiling-the-modified-bsd-license-a-deep-dive-into-permissive-open-source-licensing-2pf)
-- [Exploring Passive Income with Crypto Staking and Lending: A Growing Trend](https://dev.to/andrewdeveloper/exploring-passive-income-with-crypto-staking-and-lending-a-growing-trend-21gl)
-- [Selenium Commands List: The Ultimate Reference Guide](https://dev.to/shubham-theqa/selenium-commands-list-the-ultimate-reference-guide-5fn0)
+- [Unveiling Freedom in Open Licensing: A Deep Dive into the PDDL](https://dev.to/zhangwei42/unveiling-freedom-in-open-licensing-a-deep-dive-into-the-pddl-g2o)
+- [Security and Safety While Working Remotely: Tips and Tricks To Keep You Secure](https://dev.to/aditya-saasy/security-and-safety-while-working-remotely-tips-and-tricks-to-keep-you-secure-cep)
+- [Ethereum’s Pectra Upgrade on Sepolia Testnet, Candide Labs’ InstaGas, Echooo’s Abstracted Competition, and Etherspot’s X Space](https://dev.to/etherspot/ethereums-pectra-upgrade-on-sepolia-testnet-candide-labs-instagas-echooos-abstracted-230i)
+- [test blog hehehe](https://dev.to/shivaraj_eb0e4729bc350a50/test-blog-hehehe-3hef)
+- [test blog hehehe](https://dev.to/shivaraj_eb0e4729bc350a50/test-blog-hehehe-3k9c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
