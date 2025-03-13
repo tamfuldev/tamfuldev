@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [🌟 Top 30 Websites for Stunning Front-End Development Resources 🚀](https://dev.to/hanzla-baig/top-30-websites-for-stunning-front-end-development-resources-1na8)
+- [MongoDB Queryable Encryption: Secure Your Data While Querying!](https://dev.to/saint_vandora/mongodb-queryable-encryption-secure-your-data-while-querying-485g)
+- [Unveiling the Nokia Open Source License: A New Era in Fair Code Licensing](https://dev.to/ahmmrizv9/unveiling-the-nokia-open-source-license-a-new-era-in-fair-code-licensing-2ko5)
 - [Don&#39;t Let Incidents Drown Your Support Team: How to Minimize Support Requests](https://dev.to/leotulii/incidents-drown-your-team-22o5)
 - [Introduction](https://dev.to/jennythomas498/introduction-4pnd)
-- [Mapping History with Code: Digitizing the Île de la Cité](https://dev.to/marc_pissot_752975d2f3988/mapping-history-with-code-digitizing-the-ile-de-la-cite-57ae)
-- [🧟‍♂️ The Zombie Server That Wouldn’t Die 💀](https://dev.to/francotel/the-zombie-server-that-wouldnt-die-45di)
-- [Singleton - Anti Pattern?](https://dev.to/darlangui/singleton-anti-pattern-1d02)
 <!-- BLOG-POST-LIST:END -->
 
 ---
