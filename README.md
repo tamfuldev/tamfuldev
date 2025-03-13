@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [TanStack for Beginners: A Complete Guide &amp; Tutorial](https://dev.to/codeparrot/tanstack-for-beginners-a-complete-guide-tutorial-2ch3)
-- [The process of creating an effective Application Security Programme: Strategies, practices and tools for the best outcomes](https://dev.to/lynxfelony1/the-process-of-creating-an-effective-application-security-programme-strategies-practices-and-11l7)
-- [🚀 Can Dogecoin Price Surge with Bitwise ETF Approval in 2025?](https://dev.to/sergi_web3/can-dogecoin-price-surge-with-bitwise-etf-approval-in-2025-4fek)
-- [Introducing highlight-plus: Supercharged Syntax Highlighting for React](https://dev.to/pranav-rustagi/introducing-highlight-plus-supercharged-syntax-highlighting-for-react-1gb6)
-- [🚀 $XRP Price Targets $3 as Fed Rate Pause Looks Likely! 💸](https://dev.to/sergi_web3/xrp-price-targets-3-as-fed-rate-pause-looks-likely-3986)
+- [ECS CloudFormation Taking Forever - Just for a Failed Deployment](https://dev.to/aws-builders/ecs-cloudformation-taking-forever-just-for-a-failed-deployment-41k7)
+- [Mastering Error Handling in Rust: Beyond Result and Option](https://dev.to/leapcell/mastering-error-handling-in-rust-beyond-result-and-option-468f)
+- [The Django Iceberg](https://dev.to/yokwejuste/the-django-iceberg-24d9)
+- [CloudFormation Drift Detection and Notification with AWS Config Remediation Action](https://dev.to/andrii-shykhov/cloudformation-drift-detection-and-notification-with-aws-config-remediation-action-2nn3)
+- [OpenTelemetry Tracing for File Downloads from an S3 Bucket via API Gateway and Lambda Functions](https://dev.to/andrii-shykhov/opentelemetry-tracing-for-file-downloads-from-an-s3-bucket-via-api-gateway-and-lambda-functions-mp3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
