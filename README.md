@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🌟 Top 30 Websites for Stunning Front-End Development Resources 🚀](https://dev.to/hanzla-baig/top-30-websites-for-stunning-front-end-development-resources-1na8)
-- [MongoDB Queryable Encryption: Secure Your Data While Querying!](https://dev.to/saint_vandora/mongodb-queryable-encryption-secure-your-data-while-querying-485g)
-- [Unveiling the Nokia Open Source License: A New Era in Fair Code Licensing](https://dev.to/ahmmrizv9/unveiling-the-nokia-open-source-license-a-new-era-in-fair-code-licensing-2ko5)
-- [Don&#39;t Let Incidents Drown Your Support Team: How to Minimize Support Requests](https://dev.to/leotulii/incidents-drown-your-team-22o5)
-- [Introduction](https://dev.to/jennythomas498/introduction-4pnd)
+- [NocoBase v1.6.0 Officially Released](https://dev.to/nocobase/nocobase-v160-officially-released-36d)
+- [Unveiling Creative Commons Share-Alike 4.0: A Deep Dive into Open Collaboration](https://dev.to/bobcars/unveiling-creative-commons-share-alike-40-a-deep-dive-into-open-collaboration-23fe)
+- [non-human resources](https://dev.to/rustyshackleford01/non-human-resources-396i)
+- [Webmentions Revisited: 5yrs later](https://dev.to/jswhisperer/webmentions-revisited-5yrs-later-cdn)
+- [What to do if the crawler IP is restricted? Simple solution to crawler IP ban](https://dev.to/98ip/what-to-do-if-the-crawler-ip-is-restricted-simple-solution-to-crawler-ip-ban-2nc1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
