@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [😴 Go Code You Can Trust: Sleep Well After You Commit](https://dev.to/trungdlp/go-code-you-can-trust-sleep-well-after-you-commit-440n)
-- [Multipass Unlocked: Effortlessly Spin Up Ubuntu VMs in Seconds!](https://dev.to/robert_coffie/multipass-unlocked-effortlessly-spin-up-ubuntu-vms-in-seconds-46e5)
-- [This post is spot on! I believe its true that developers who use AI are moving ahead, while those still coding manually are falling behind. The best developers use AI to save time, learn quickly, and even make money.](https://dev.to/nitin_sharma_808db619a8a9/this-post-is-spot-on-i-believe-its-true-that-developers-who-use-ai-are-moving-ahead-while-1lcp)
-- [Well I never thought this](https://dev.to/djblackeye/well-i-never-thought-this-1ipa)
-- [Best AI prompt generators and AI Prompt Manager](https://dev.to/foxinfotech/best-ai-prompt-generators-and-ai-prompt-manager-1i1b)
+- [AI Agents with Fetch.ai: Tips for Smarter Automation ⚡](https://dev.to/ramkumar-m-n/ai-agents-with-fetchai-tips-for-smarter-automation-52nc)
+- [Isolated API Routing in ViteJS with `vite-plugin-api-routes`](https://dev.to/yracnet/isolated-api-routing-in-vitejs-with-vite-plugin-api-routes-480e)
+- [150/365 | ¥10M Job Challenge - Beliefs about life](https://dev.to/kameken100/150365-y10m-job-challenge-beliefs-about-life-a9c)
+- [Build a free ip info cache with PocketBase](https://dev.to/huakun/build-a-free-ip-info-cache-with-pocketbase-55nc)
+- [Magic Wormhole Source Code Analysis](https://dev.to/huakun/magic-wormhole-source-code-analysis-529)
 <!-- BLOG-POST-LIST:END -->
 
 ---
