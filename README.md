@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling Freedom in Open Licensing: A Deep Dive into the PDDL](https://dev.to/zhangwei42/unveiling-freedom-in-open-licensing-a-deep-dive-into-the-pddl-g2o)
-- [Security and Safety While Working Remotely: Tips and Tricks To Keep You Secure](https://dev.to/aditya-saasy/security-and-safety-while-working-remotely-tips-and-tricks-to-keep-you-secure-cep)
-- [Ethereum’s Pectra Upgrade on Sepolia Testnet, Candide Labs’ InstaGas, Echooo’s Abstracted Competition, and Etherspot’s X Space](https://dev.to/etherspot/ethereums-pectra-upgrade-on-sepolia-testnet-candide-labs-instagas-echooos-abstracted-230i)
-- [test blog hehehe](https://dev.to/shivaraj_eb0e4729bc350a50/test-blog-hehehe-3hef)
-- [test blog hehehe](https://dev.to/shivaraj_eb0e4729bc350a50/test-blog-hehehe-3k9c)
+- [Optimizing Business Connectivity: API Marketplaces and Integration with eZintegrations™](https://dev.to/bizdataadmin/optimizing-business-connectivity-api-marketplaces-and-integration-with-ezintegrations-5e7n)
+- [How to allowlist Salesforce extension for Gemini in Google Workspace](https://dev.to/googleworkspace/how-to-allowlist-salesforce-extension-for-gemini-in-google-workspace-2icg)
+- [🚀 Mastering WebRTC: Turning Challenges into a Learning Journey!](https://dev.to/joodi/mastering-webrtc-turning-challenges-into-a-learning-journey-2i82)
+- [Streamlining Environment Variables with direnv: A Developer&#39;s Guide](https://dev.to/radzion/streamlining-environment-variables-with-direnv-a-developers-guide-en7)
+- [151/365 | ¥10M Job Challenge - AI prediction?](https://dev.to/kameken100/151365-y10m-job-challenge-ai-prediction-jdj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
