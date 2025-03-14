@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Who is Nishant Rana? An Introductory Blog](https://dev.to/nishantelite/who-is-nishant-rana-an-introductory-blog-o0d)
-- [How Gaming Led Me to Programming: My Journey as a Solo Developer](https://dev.to/sureshchandras3kar/how-gaming-led-me-to-programming-my-journey-as-a-solo-developer-3ii2)
-- [JavaScript: Linked Objects](https://dev.to/mobolanleadebesin/javascript-linked-objects-41di)
-- [Ultimate GitHub Slack Integration: Stop Context Switching and Start Collaborating](https://dev.to/pullflow/ultimate-github-slack-integration-stop-context-switching-and-start-collaborating-ioi)
-- [Amran Munir UK: A Leading Cyber Security Expert and IT Solutions Provider](https://dev.to/arjack/amran-munir-uk-a-leading-cyber-security-expert-and-it-solutions-provider-cdh)
+- [10 Open-source Tools to build AI Agents](https://dev.to/potpie/10-open-source-tools-to-build-ai-agents-45h6)
+- [30+ Must-See GitHub Projects of This Week!](https://dev.to/gittech/30-must-see-github-projects-of-this-week-14ii)
+- [Learning GO: A new beginning](https://dev.to/link2twenty/learning-go-a-new-beginning-2c15)
+- [What Role Does Ai Play in E-commerce in 2025?](https://dev.to/puratabla/what-role-does-ai-play-in-e-commerce-in-2025-4p0c)
+- [Let&#39;s Start](https://dev.to/sanwal_sulehria/lets-start-3910)
 <!-- BLOG-POST-LIST:END -->
 
 ---
