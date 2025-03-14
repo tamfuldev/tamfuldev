@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Введение в пакетную обработку и Spark](https://dev.to/pro100v/vviedieniie-v-pakietnuiu-obrabotku-i-spark-14ah)
-- [Complex Event Processing: Revolutionizing Real-Time Data Analysis](https://dev.to/kapusto/complex-event-processing-revolutionizing-real-time-data-analysis-kne)
-- [How AI is Revolutionizing Coding: Enhancing Efficiency and Quality](https://dev.to/itsscottjames/how-ai-is-revolutionizing-coding-enhancing-efficiency-and-quality-12bn)
-- [What’s in My Bag: The Essentials for a Productive Day at the Office [2025]](https://dev.to/this-is-learning/whats-in-my-bag-the-essentials-for-a-productive-day-at-the-office-2025-e2o)
-- [This Week In Python](https://dev.to/bascodes/this-week-in-python-19o)
+- [Adobe Commerce&#39;s Big Announcement: A Technical Deep Dive](https://dev.to/rafaelcg/adobe-commerces-big-announcement-a-technical-deep-dive-2jjc)
+- [Advanced string typing in TypeScript](https://dev.to/56_kode/advanced-string-typing-in-typescript-81c)
+- [Currently active Wi-Fi network URL scheme for iOS and macOS](https://dev.to/no_op_co/currently-active-wi-fi-network-url-scheme-for-ios-and-macos-577j)
+- [What to Prioritize in a Code Review](https://dev.to/kodustech/what-to-prioritize-in-a-code-review-mog)
+- [Spring Boot: JPA Many-to-One Mapping](https://dev.to/sovannaro/spring-boot-jpa-many-to-one-mapping-5g80)
 <!-- BLOG-POST-LIST:END -->
 
 ---
