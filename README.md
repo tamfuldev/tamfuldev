@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Fargate Deep Dive: Key Takeaways from Melbourne User Group](https://dev.to/aws-builders/aws-fargate-deep-dive-key-takeaways-from-melbourne-user-group-kl5)
-- [Game-Changing Guide to SQL for SEO Optimization](https://dev.to/anastasia-kotsiubynska/game-changing-guide-to-sql-for-seo-optimization-i78)
-- [Y&#39;all. What the heck is Vibe Coding?](https://dev.to/patchnotes_/yall-what-the-heck-is-vibe-coding-55dl)
-- [Building a community-led product roadmap](https://dev.to/quadraticai/building-a-community-led-product-roadmap-4lgb)
-- [I ran npm run dev but it is saying next command not found](https://dev.to/surjoyday_kt/i-ran-npm-run-dev-but-it-is-saying-next-command-not-found-20b1)
+- [Java for beginners](https://dev.to/pratiks-desk/java-for-beginners-1289)
+- [Java for beginners](https://dev.to/pratiks-desk/java-for-beginners-40p9)
+- [React](https://dev.to/__00abfd/react-1jhk)
+- [[cpc] Pokemon Slide Gallery &lpar;yet another circle gallery&rpar;](https://dev.to/rumman157/cpc-pokemon-slide-gallery-yet-another-circle-gallery-118o)
+- [Fastapi over Django for app developers](https://dev.to/m_muhd8/fastapi-over-django-for-app-developers-2nlh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
