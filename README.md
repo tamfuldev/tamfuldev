@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [New Umbrella AI Method Cuts Learning Time by 50% While Boosting Performance in Complex Systems](https://dev.to/mikeyoung44/new-umbrella-ai-method-cuts-learning-time-by-50-while-boosting-performance-in-complex-systems-3ed4)
-- [Breakthrough: Cut AI Memory Usage in Half Without Losing Performance Using K-Cache Attention](https://dev.to/mikeyoung44/breakthrough-cut-ai-memory-usage-in-half-without-losing-performance-using-k-cache-attention-4hpe)
-- [Estudos e Aprendizados](https://dev.to/thedigitalbricklayer/estudos-e-aprendizados-30nl)
-- [Latest Post-Training Methods for Large Language Models: A Complete Guide to Enhancing AI Performance](https://dev.to/mikeyoung44/latest-post-training-methods-for-large-language-models-a-complete-guide-to-enhancing-ai-performance-2pe1)
-- [New AI Model Eliminates Visual Glitches in Image Generation Through Advanced Anti-Aliasing Technology](https://dev.to/mikeyoung44/new-ai-model-eliminates-visual-glitches-in-image-generation-through-advanced-anti-aliasing-2nlj)
+- [🚀 Your Daily Crypto Job Digest For 14 March!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-14-march-2k18)
+- [Understanding Public Interest Litigation &lpar;PIL&rpar; in India: A Guide for Citizens](https://dev.to/sam_3432cf27edf43445/understanding-public-interest-litigation-pil-in-india-a-guide-for-citizens-1ld9)
+- [Google Gemma 3 Unlocked: The 128K-Token Multimodal AI Breakthrough Every Developer Must Explore](https://dev.to/sayed_ali_alkamel/google-gemma-3-unlocked-the-128k-token-multimodal-ai-breakthrough-every-developer-must-explore-n5k)
+- [𝗛𝗼𝘄 𝘁𝗼 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗰𝗮𝗹𝗹𝘆 𝗨𝗽𝗱𝗮𝘁𝗲 𝗦𝗽𝗲𝗻𝘁 𝗔𝗺𝗼𝘂𝗻𝘁 𝗶𝗻 𝗕𝘂𝗱𝗴𝗲𝘁 𝗨𝘀𝗶𝗻𝗴 𝗧𝗿𝗶𝗴𝗴𝗲𝗿𝘀 𝗶𝗻 𝗦𝗤𝗟 𝗦𝗲𝗿𝘃𝗲𝗿](https://dev.to/supraja_tangella_b7f0738e/-5da2)
+- [Real-time Like Notifications with Redis Pub/Sub in CampusX](https://dev.to/prathvihan108/real-time-like-notifications-with-redis-pubsub-in-campusx-3082)
 <!-- BLOG-POST-LIST:END -->
 
 ---
