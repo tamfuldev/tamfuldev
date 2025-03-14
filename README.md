@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Базовые программы и IDE для новичков в программировании. Как создать IT-стартап, сидя на кухне.](https://dev.to/sundaycoding/bazovyie-proghrammy-i-ide-dlia-novichkov-v-proghrammirovanii-kak-sozdat-it-startap-sidia-na-kukhnie-204k)
-- [Checkout FeedX : A seamless modern feedback collection platform Modern UI](https://dev.to/sjxsubham/checkout-feedx-a-seamless-modern-feedback-collection-platform-modern-ui-4fmm)
-- [Best Open Source LLM](https://dev.to/mehmetakar/best-open-source-llm-3ig8)
-- [Quickly Prepare Your Tooling with Nixery.dev: No Dockerfile Needed](https://dev.to/bnovickovs/quickly-prepare-your-tooling-with-nixerydev-no-dockerfile-needed-596b)
-- [Unveiling Sybase Open Watcom Public License 1.0 – A Deep Dive into Open Source Licensing](https://dev.to/bobcars/unveiling-sybase-open-watcom-public-license-10-a-deep-dive-into-open-source-licensing-43nl)
+- [How to execute SQL on CSV files with esProc SPL](https://dev.to/esproc_spl/how-to-execute-sql-on-csv-files-with-esproc-spl-59l9)
+- [GISBox and Cesium ion: Exploring 3D geospatial visualization](https://dev.to/gisbox/gisbox-and-cesium-ion-exploring-3d-geospatial-visualization-2eep)
+- [Hiding Root Layout in Next.js Subpages: A Step-by-Step Guide](https://dev.to/sheikmostafizur/hiding-root-layout-in-nextjs-subpages-a-step-by-step-guide-fgm)
+- [Your Software Architecture is a Black Box—Here’s Why That’s a Problem](https://dev.to/justusvanm/your-software-architecture-is-a-black-box-heres-why-thats-a-problem-4818)
+- [Extract Valuable Data with Reddit Scraper](https://dev.to/swiftproxy_residential/extract-valuable-data-with-reddit-scraper-gkb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
