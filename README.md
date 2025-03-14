@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Electromagnetic Shielding: Picking the Perfect Faraday Box](https://dev.to/rfcage761/electromagnetic-shielding-picking-the-perfect-faraday-box-5abl)
-- [Days 101-102: Back to Frontend Learning &amp; Building a Personal Dashboard Chrome Extension](https://dev.to/toptech5419/days-101-102-back-to-frontend-learning-building-a-personal-dashboard-chrome-extension-5emk)
-- [[Boost]](https://dev.to/devarkarr/-5dm1)
-- [Scaling Your Cloudflare D1 Database: From the 10 GB Limit to TBs](https://dev.to/araldhafeeri/scaling-your-cloudflare-d1-database-from-the-10-gb-limit-to-tbs-4a16)
-- [Map vs Set: Modern Alternatives to Objects in JavaScript](https://dev.to/ayako_yk/map-vs-set-modern-alternatives-to-objects-in-javascript-24a9)
+- [Pergola Grey or Gazebo Grey? Choosing the Right Structure for Your Yard](https://dev.to/tuff_digitalmarketing_e7/pergola-grey-or-gazebo-grey-choosing-the-right-structure-for-your-yard-ib0)
+- [MintID Holders Alert: Big Update on Staking Rules!](https://dev.to/mint_/mintid-holders-alert-big-update-on-staking-rules-1eeg)
+- [WeakMap in react-scan vs next-mdx source code.](https://dev.to/ramunarasinga-11/weakmap-in-react-scan-vs-next-mdx-source-code-12id)
+- [I now use zed on a daily basis because of the git integration!](https://dev.to/urbanisierung/i-now-use-zed-on-a-daily-basis-because-of-the-git-integration-52ie)
+- [Exhaustive Guide to Generative and Predictive AI in AppSec](https://dev.to/lynxfelony1/exhaustive-guide-to-generative-and-predictive-ai-in-appsec-p8f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
