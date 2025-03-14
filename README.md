@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Full-Stack MERN E-Commerce Website &lpar;React, Redux, Node.js, Express &amp; MongoDB&rpar;](https://dev.to/arishn/how-i-built-a-full-stack-mern-e-commerce-website-react-redux-nodejs-express-mongodb-3k5g)
-- [Python API Testing Guide: Tools and Techniques for Reliable Development](https://dev.to/aaravjoshi/python-api-testing-guide-tools-and-techniques-for-reliable-development-2k7l)
-- [No Fake Freedom](https://dev.to/tambet_vli_53f2fdcd17c0e/no-fake-freedom-44fm)
-- [HomeWork](https://dev.to/fazliddin7777/homework-ml3)
-- [From Passion to Purpose: Small Town to Global Tech Leadership](https://dev.to/thestudentstories/from-passion-to-purpose-small-town-to-global-tech-leadership-4nh1)
+- [New Umbrella AI Method Cuts Learning Time by 50% While Boosting Performance in Complex Systems](https://dev.to/mikeyoung44/new-umbrella-ai-method-cuts-learning-time-by-50-while-boosting-performance-in-complex-systems-3ed4)
+- [Breakthrough: Cut AI Memory Usage in Half Without Losing Performance Using K-Cache Attention](https://dev.to/mikeyoung44/breakthrough-cut-ai-memory-usage-in-half-without-losing-performance-using-k-cache-attention-4hpe)
+- [Estudos e Aprendizados](https://dev.to/thedigitalbricklayer/estudos-e-aprendizados-30nl)
+- [Latest Post-Training Methods for Large Language Models: A Complete Guide to Enhancing AI Performance](https://dev.to/mikeyoung44/latest-post-training-methods-for-large-language-models-a-complete-guide-to-enhancing-ai-performance-2pe1)
+- [New AI Model Eliminates Visual Glitches in Image Generation Through Advanced Anti-Aliasing Technology](https://dev.to/mikeyoung44/new-ai-model-eliminates-visual-glitches-in-image-generation-through-advanced-anti-aliasing-2nlj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
