@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What is SQL? A Simple Introduction to Structured Query Language](https://dev.to/be11amer/what-is-sql-a-simple-introduction-to-structured-query-language-4nep)
-- [Next.js vs Express: What to Choose in 2025?](https://dev.to/sharvin26/nextjs-vs-express-what-to-choose-in-2025-4kgd)
-- [Build RAG Chatbot 🤖 with LangChain, Milvus, Mistral AI Pixtral, and NVIDIA bge-m3](https://dev.to/zilliz/build-rag-chatbot-with-langchain-milvus-mistral-ai-pixtral-and-nvidia-bge-m3-30om)
-- [Unveiling Open Hardware License: A Deep Dive into Transparency and Collaboration](https://dev.to/vitalisorenko/unveiling-open-hardware-license-a-deep-dive-into-transparency-and-collaboration-5ag6)
-- [Unveiling Open Data Commons Public Domain Dedication and License: A Deep Dive](https://dev.to/rachellovestowrite/unveiling-open-data-commons-public-domain-dedication-and-license-a-deep-dive-1d12)
+- [Базовые программы и IDE для новичков в программировании. Как создать IT-стартап, сидя на кухне.](https://dev.to/sundaycoding/bazovyie-proghrammy-i-ide-dlia-novichkov-v-proghrammirovanii-kak-sozdat-it-startap-sidia-na-kukhnie-204k)
+- [Checkout FeedX : A seamless modern feedback collection platform Modern UI](https://dev.to/sjxsubham/checkout-feedx-a-seamless-modern-feedback-collection-platform-modern-ui-4fmm)
+- [Best Open Source LLM](https://dev.to/mehmetakar/best-open-source-llm-3ig8)
+- [Quickly Prepare Your Tooling with Nixery.dev: No Dockerfile Needed](https://dev.to/bnovickovs/quickly-prepare-your-tooling-with-nixerydev-no-dockerfile-needed-596b)
+- [Unveiling Sybase Open Watcom Public License 1.0 – A Deep Dive into Open Source Licensing](https://dev.to/bobcars/unveiling-sybase-open-watcom-public-license-10-a-deep-dive-into-open-source-licensing-43nl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
