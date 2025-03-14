@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Adobe Commerce&#39;s Big Announcement: A Technical Deep Dive](https://dev.to/rafaelcg/adobe-commerces-big-announcement-a-technical-deep-dive-2jjc)
-- [Advanced string typing in TypeScript](https://dev.to/56_kode/advanced-string-typing-in-typescript-81c)
-- [Currently active Wi-Fi network URL scheme for iOS and macOS](https://dev.to/no_op_co/currently-active-wi-fi-network-url-scheme-for-ios-and-macos-577j)
-- [What to Prioritize in a Code Review](https://dev.to/kodustech/what-to-prioritize-in-a-code-review-mog)
-- [Spring Boot: JPA Many-to-One Mapping](https://dev.to/sovannaro/spring-boot-jpa-many-to-one-mapping-5g80)
+- [Who is Nishant Rana? An Introductory Blog](https://dev.to/nishantelite/who-is-nishant-rana-an-introductory-blog-o0d)
+- [How Gaming Led Me to Programming: My Journey as a Solo Developer](https://dev.to/sureshchandras3kar/how-gaming-led-me-to-programming-my-journey-as-a-solo-developer-3ii2)
+- [JavaScript: Linked Objects](https://dev.to/mobolanleadebesin/javascript-linked-objects-41di)
+- [Ultimate GitHub Slack Integration: Stop Context Switching and Start Collaborating](https://dev.to/pullflow/ultimate-github-slack-integration-stop-context-switching-and-start-collaborating-ioi)
+- [Amran Munir UK: A Leading Cyber Security Expert and IT Solutions Provider](https://dev.to/arjack/amran-munir-uk-a-leading-cyber-security-expert-and-it-solutions-provider-cdh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
