@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What to Say to an AI Chatbot? Starters and Prompts for Fun](https://dev.to/jajaji/what-to-say-to-an-ai-chatbot-starters-and-prompts-for-fun-17f6)
-- [🍺 Drinking Culture and How I Survive?](https://dev.to/mrzaizai2k/drinking-culture-and-how-i-survive-2c6k)
-- [Bouncing Back: My Journey Through My First Tech Layoff](https://dev.to/clarizalooktech/bouncing-back-my-journey-through-my-first-tech-layoff-5187)
-- [Why 3D Passive Liveness Detection is Essential for Secure Authentication](https://dev.to/faceplugin/why-3d-passive-liveness-detection-is-essential-for-secure-authentication-5445)
-- [The Art of Saying Goodbye: How to Farewell your Family and Lover](https://dev.to/max_peng_c9419453738ce589/the-art-of-saying-goodbye-how-to-farewell-your-family-and-lover-4k44)
+- [How Kubernetes Simplifies Cloud Application Deployment, Scaling, and Management](https://dev.to/adityabhuyan/how-kubernetes-simplifies-cloud-application-deployment-scaling-and-management-588o)
+- [Deploy Next.js on AWS EC2 with PM2, Nginx, and Cloudflare CDN](https://dev.to/duythenight/deploy-nextjs-on-aws-ec2-with-pm2-nginx-and-cloudflare-cdn-b42)
+- [Using Excel Today Function in 2025!](https://dev.to/excel24x7/using-excel-today-function-in-2025-2de)
+- [Build a BMI Calculator Using JavaScript – Try It Now!](https://dev.to/babynamenestlings_efe5ba9/build-a-bmi-calculator-using-javascript-try-it-now-4hk7)
+- [[ Solution Library AWS ] Live Chat Content AI on AWS](https://dev.to/aws-builders/-solution-library-aws-live-chat-content-ai-on-aws-5gih)
 <!-- BLOG-POST-LIST:END -->
 
 ---
