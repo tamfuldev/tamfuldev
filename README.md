@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Java for beginners](https://dev.to/pratiks-desk/java-for-beginners-1289)
-- [Java for beginners](https://dev.to/pratiks-desk/java-for-beginners-40p9)
-- [React](https://dev.to/__00abfd/react-1jhk)
-- [[cpc] Pokemon Slide Gallery &lpar;yet another circle gallery&rpar;](https://dev.to/rumman157/cpc-pokemon-slide-gallery-yet-another-circle-gallery-118o)
-- [Fastapi over Django for app developers](https://dev.to/m_muhd8/fastapi-over-django-for-app-developers-2nlh)
+- [What to Say to an AI Chatbot? Starters and Prompts for Fun](https://dev.to/jajaji/what-to-say-to-an-ai-chatbot-starters-and-prompts-for-fun-17f6)
+- [🍺 Drinking Culture and How I Survive?](https://dev.to/mrzaizai2k/drinking-culture-and-how-i-survive-2c6k)
+- [Bouncing Back: My Journey Through My First Tech Layoff](https://dev.to/clarizalooktech/bouncing-back-my-journey-through-my-first-tech-layoff-5187)
+- [Why 3D Passive Liveness Detection is Essential for Secure Authentication](https://dev.to/faceplugin/why-3d-passive-liveness-detection-is-essential-for-secure-authentication-5445)
+- [The Art of Saying Goodbye: How to Farewell your Family and Lover](https://dev.to/max_peng_c9419453738ce589/the-art-of-saying-goodbye-how-to-farewell-your-family-and-lover-4k44)
 <!-- BLOG-POST-LIST:END -->
 
 ---
