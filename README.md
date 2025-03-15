@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 New Feature: Receive SMS via Webhook on SMS Textr!](https://dev.to/saltypenguin313/new-feature-receive-sms-via-webhook-on-sms-textr-3hhe)
-- [&quot;Mastering Attacks on Vision-Language Models: Strategies &amp; Insights Revealed&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/mastering-attacks-on-vision-language-models-strategies-insights-revealed-4o7c)
-- [Viewbadger](https://dev.to/stevo_49b8ac0aa869/view-badger-h5a)
-- [Breaking Stereotypes - Lessons Learned from Unconscious Bias in Tech](https://dev.to/makendrang/breaking-stereotypes-lessons-learned-from-unconscious-bias-in-tech-57kg)
-- [Maximize Your Remote Dev Day](https://dev.to/mehedihsiamt/maximize-your-remote-dev-day-25gl)
+- [Creating Company-Standard Errors in Node.js Microservices &lpar;Part 2&rpar;](https://dev.to/skillnter/creating-company-standard-errors-in-nodejs-microservices-part-2-3i5k)
+- [Future AI Deployment: Automating Full Lifecycle Management with Rollback Strategies and Cloud Migration](https://dev.to/prabhu_chinnasamy_086fba6/future-ai-deployment-automating-full-lifecycle-management-with-rollback-strategies-and-cloud-34on)
+- [What makes Bonza AI Chat different from other AI companions?](https://dev.to/tyler_ash/what-makes-bonza-ai-chat-different-from-other-ai-companions-omi)
+- [Migrate Your Bitbucket Repository to GitHub Effortlessly](https://dev.to/babar_bilal_2e14c231dfa8d/migrate-your-bitbucket-repository-to-github-effortlessly-3pjf)
+- [Why Personalization Will Be the Next Frontier for AI Chatbot Platforms](https://dev.to/kaitlyn_cheek_3572cdb67fc/why-personalization-will-be-the-next-frontier-for-ai-chatbot-platforms-3k26)
 <!-- BLOG-POST-LIST:END -->
 
 ---
