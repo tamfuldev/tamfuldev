@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [HiveTorrent – A Web-Based Torrent Client &amp; Search Engine &lpar;Looking for Contributors !&rpar;](https://dev.to/urnem/hivetorrent-a-web-based-torrent-client-search-engine-looking-for-contributors--53h8)
-- [Tutorial: What is JSON? How Douglas Crockford Created JSON.](https://dev.to/agunechemba/tutorial-what-is-json-how-douglas-crockford-created-json-2o04)
-- [چاپ لیبل: ابزاری ضروری برای شناسایی و بازاریابی محصولات](https://dev.to/chapansar2025/chp-lybl-bzry-drwry-bry-shnsyy-w-bzryby-mhswlt-2o3b)
-- [Simplest way to understand how HTTP works using TCP and Streams](https://dev.to/iamsujit/simplest-way-to-understand-how-http-works-using-tcp-and-streams-48d7)
-- [Gas Fees Are Holding Web3 Back—Here’s How to Fix It](https://dev.to/omniradhanexus/gas-fees-are-holding-web3-back-heres-how-to-fix-it-2ef6)
+- [Disruptive, Viral, Productive AI Agents 🚀](https://dev.to/vijayr00/disruptive-viral-productive-ai-agents-1g97)
+- [🚀 Introducing FlowBlog: A Minimalist, Developer-First Blogging Platform](https://dev.to/mrsupercraft/introducing-flowblog-a-minimalist-developer-first-blogging-platform-bcd)
+- [🚀 Managing Merge Conflicts in Git: Strategies and Best Practices](https://dev.to/imevanc/managing-merge-conflicts-in-git-strategies-and-best-practices-21g2)
+- [Annoying shouldn&#39;t be ugly, or cute animated validation.](https://dev.to/ykosinets/annoying-shouldnt-be-ugly-or-cute-animated-validation-3bkm)
+- [Simple calculator](https://dev.to/rifat_hasan_497b839e408d3/simple-calculator-4lh9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
