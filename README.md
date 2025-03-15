@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Introducing Supreme Bot: A Python-Based Web Automation Tool 🛒](https://dev.to/francio/introducing-supreme-bot-a-python-based-web-automation-tool-4i43)
-- [I have a quite bit of knowledge in python and now currently i like to study and learn about it more and more so any of you guys recommend projects that&#39;s helps to improve more about python?](https://dev.to/arun04hack/i-have-a-quite-bit-of-knowledge-in-python-and-now-currently-i-like-to-study-and-learn-about-it-more-kl3)
-- [10 Tips for Junior Developers from a Senior Programmer](https://dev.to/coderabbitai/10-tips-for-junior-developers-from-a-senior-programmer-j4o)
-- [Why Is Rust So Far Behind Go?](https://dev.to/leapcell/why-is-rust-so-far-behind-go-45cd)
-- [Sarvam: A deep dive into multilingual translations](https://dev.to/sarika_kumari_fb86085c224/sarvam-a-deep-dive-into-multilingual-translations-3p6j)
+- [🚀 New Feature: Receive SMS via Webhook on SMS Textr!](https://dev.to/saltypenguin313/new-feature-receive-sms-via-webhook-on-sms-textr-3hhe)
+- [&quot;Mastering Attacks on Vision-Language Models: Strategies &amp; Insights Revealed&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/mastering-attacks-on-vision-language-models-strategies-insights-revealed-4o7c)
+- [Viewbadger](https://dev.to/stevo_49b8ac0aa869/view-badger-h5a)
+- [Breaking Stereotypes - Lessons Learned from Unconscious Bias in Tech](https://dev.to/makendrang/breaking-stereotypes-lessons-learned-from-unconscious-bias-in-tech-57kg)
+- [Maximize Your Remote Dev Day](https://dev.to/mehedihsiamt/maximize-your-remote-dev-day-25gl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
