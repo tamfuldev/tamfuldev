@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CodeScribe - A Note Taking App](https://dev.to/imrancodes/codescribe-a-note-taking-app-224)
-- [Auto-Creating Contacts in Dynamics 365: A Deep Dive into the Personal Setting](https://dev.to/nikhildynamicsce/auto-creating-contacts-in-dynamics-365-a-deep-dive-into-the-personal-setting-1fgb)
-- [Building High-Performance Message Queues in Go: A Developer&#39;s Guide](https://dev.to/aaravjoshi/building-high-performance-message-queues-in-go-a-developers-guide-1ic7)
-- [Dead Letter Queue &lpar;DLQ&rpar; - In-Depth Explanation](https://dev.to/devcorner/dead-letter-queue-dlq-in-depth-explanation-32o)
-- [What Developers Often Get Wrong When Interacting with AI](https://dev.to/iredox10/what-developers-often-get-wrong-when-interacting-with-ai-3c2d)
+- [Python for OSINT: Stalking the Internet Like a Pro](https://dev.to/rocky_rowdy/python-for-osint-stalking-the-internet-like-a-pro-59na)
+- [Most Used NPM Packages for React Developers](https://dev.to/tahir_rafique/most-used-npm-packages-for-react-developers-3784)
+- [Project: Syncing Govee lights to sports events](https://dev.to/eric_maclean_9b816003b56d/project-syncing-govee-lights-to-sports-events-2h34)
+- [Asynchronous Events: Getting Rid of Internal Services in Angular applications](https://dev.to/artstesh/asynchronous-events-getting-rid-of-callbacks-and-subscriptions-in-angular-applications-2hib)
+- [Kill Any Process by Port Instantly with kill-my-port 🚀](https://dev.to/tene/kill-any-process-by-port-instantly-with-kill-my-port-3gfe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
