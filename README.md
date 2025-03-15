@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Securing Your Container Pipeline: Using AWS Inspector with GitHub Actions](https://dev.to/aws-builders/securing-your-container-pipeline-using-aws-inspector-with-github-actions-4fma)
-- [Tamilnadu Tourism Website Mockup](https://dev.to/swotkarthik/tamilnadu-tourism-website-mockup-2mk4)
-- [Admin Panel Design Tailwind](https://dev.to/swotkarthik/admin-panel-design-tailwind-3con)
-- [鸿蒙开发：走进stateStyles多态样式](https://dev.to/abnerming888/hong-meng-kai-fa-zou-jin-statestylesduo-tai-yang-shi-od0)
-- [鸿蒙开发：实现一个超简单的网格拖拽](https://dev.to/abnerming888/hong-meng-kai-fa-shi-xian-ge-chao-jian-dan-de-wang-ge-tuo-zhuai-9j8)
+- [6.7 Outros tipos de referências](https://dev.to/fundamentosjava/67-outros-tipos-de-referencias-4o11)
+- [The choice of Tech Stack is overrated!](https://dev.to/pratikgchaudhari/the-choice-of-tech-stack-is-overrated-5922)
+- [Azure For Data Engineering](https://dev.to/madgan95/azure-for-data-engineering-33p2)
+- [6.5 Referenciando métodos que recebem argumen tos](https://dev.to/fundamentosjava/65-referenciando-metodos-que-recebem-argumentos-2796)
+- [Are Your Developers Costing You Money? Here’s How to Tell](https://dev.to/developerpartners/are-your-developers-costing-you-money-heres-how-to-tell-3e4h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
