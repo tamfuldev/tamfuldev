@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Instalando o PostgreSQL no WSL &lpar;Windows Subsystem Linux&rpar;](https://dev.to/videosdeti/instalando-o-postgresql-no-wsl-windows-subsystem-linux-56a9)
-- [How to Create an Azure Compute Gallery and Capturing a VM Image](https://dev.to/busa_wilmer/how-to-create-an-azure-compute-gallery-and-capturing-a-vm-image-20g6)
-- [Instalando o VSCode, Rails e testando a instalação &lpar;Windows&rpar;](https://dev.to/videosdeti/instalando-o-vscode-rails-e-testando-a-instalacao-windows-5fmf)
-- [Instalando o RVM no WSL](https://dev.to/videosdeti/instalando-o-rvm-no-wsl-32lf)
-- [Como instalar o WSL no Windows 11](https://dev.to/videosdeti/como-instalar-o-wsl-no-windows-11-2b9d)
+- [🚀 Introducing Supreme Bot: A Python-Based Web Automation Tool 🛒](https://dev.to/francio/introducing-supreme-bot-a-python-based-web-automation-tool-4i43)
+- [I have a quite bit of knowledge in python and now currently i like to study and learn about it more and more so any of you guys recommend projects that&#39;s helps to improve more about python?](https://dev.to/arun04hack/i-have-a-quite-bit-of-knowledge-in-python-and-now-currently-i-like-to-study-and-learn-about-it-more-kl3)
+- [10 Tips for Junior Developers from a Senior Programmer](https://dev.to/coderabbitai/10-tips-for-junior-developers-from-a-senior-programmer-j4o)
+- [Why Is Rust So Far Behind Go?](https://dev.to/leapcell/why-is-rust-so-far-behind-go-45cd)
+- [Sarvam: A deep dive into multilingual translations](https://dev.to/sarika_kumari_fb86085c224/sarvam-a-deep-dive-into-multilingual-translations-3p6j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
