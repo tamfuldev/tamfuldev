@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Python for OSINT: Stalking the Internet Like a Pro](https://dev.to/rocky_rowdy/python-for-osint-stalking-the-internet-like-a-pro-59na)
-- [Most Used NPM Packages for React Developers](https://dev.to/tahir_rafique/most-used-npm-packages-for-react-developers-3784)
-- [Project: Syncing Govee lights to sports events](https://dev.to/eric_maclean_9b816003b56d/project-syncing-govee-lights-to-sports-events-2h34)
-- [Asynchronous Events: Getting Rid of Internal Services in Angular applications](https://dev.to/artstesh/asynchronous-events-getting-rid-of-callbacks-and-subscriptions-in-angular-applications-2hib)
-- [Kill Any Process by Port Instantly with kill-my-port 🚀](https://dev.to/tene/kill-any-process-by-port-instantly-with-kill-my-port-3gfe)
+- [Instalando o PostgreSQL no WSL &lpar;Windows Subsystem Linux&rpar;](https://dev.to/videosdeti/instalando-o-postgresql-no-wsl-windows-subsystem-linux-56a9)
+- [How to Create an Azure Compute Gallery and Capturing a VM Image](https://dev.to/busa_wilmer/how-to-create-an-azure-compute-gallery-and-capturing-a-vm-image-20g6)
+- [Instalando o VSCode, Rails e testando a instalação &lpar;Windows&rpar;](https://dev.to/videosdeti/instalando-o-vscode-rails-e-testando-a-instalacao-windows-5fmf)
+- [Instalando o RVM no WSL](https://dev.to/videosdeti/instalando-o-rvm-no-wsl-32lf)
+- [Como instalar o WSL no Windows 11](https://dev.to/videosdeti/como-instalar-o-wsl-no-windows-11-2b9d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
