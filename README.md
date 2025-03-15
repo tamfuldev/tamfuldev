@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Task Manager API with Django REST Framework: Part 5 - Optimizing API Performance: Filtering, Pagination &amp; Search](https://dev.to/kihuni/how-to-build-a-task-manager-api-with-django-rest-framework-part-5-optimizing-api-performance-24p6)
-- [Building My AI Assistant App: Lessons Learned &amp; Growth Strategies](https://dev.to/muhammad_arif_faab4f0564f/building-my-ai-assistant-app-lessons-learned-growth-strategies-43k6)
-- [🔐 Zero Trust: The Future of Cloud Security](https://dev.to/teqnisys_accountgooglet/zero-trust-the-future-of-cloud-security-15jh)
-- [Trying to solve a React practise question](https://dev.to/sonal_khare_e7aa1ae84a951/trying-to-solve-a-react-practise-question-1o5h)
-- [&quot;Unlocking Quantum Insights: The Power of Discrete Variable Representations&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-quantum-insights-the-power-of-discrete-variable-representations-2n13)
+- [new dev](https://dev.to/dalney/new-dev-4o2n)
+- [new dev](https://dev.to/dalney/new-dev-4f5b)
+- [Cara Mudah Reverse Proxy di cPanel dengan Nginx](https://dev.to/ferryops/cara-mudah-reverse-proxy-di-cpanel-dengan-nginx-4opi)
+- [[Boost]](https://dev.to/foxinfotech/-1epn)
+- [RedEventStore](https://dev.to/fco/redeventstore-3o9o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
