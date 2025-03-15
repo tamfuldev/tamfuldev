@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Disruptive, Viral, Productive AI Agents 🚀](https://dev.to/vijayr00/disruptive-viral-productive-ai-agents-1g97)
-- [🚀 Introducing FlowBlog: A Minimalist, Developer-First Blogging Platform](https://dev.to/mrsupercraft/introducing-flowblog-a-minimalist-developer-first-blogging-platform-bcd)
-- [🚀 Managing Merge Conflicts in Git: Strategies and Best Practices](https://dev.to/imevanc/managing-merge-conflicts-in-git-strategies-and-best-practices-21g2)
-- [Annoying shouldn&#39;t be ugly, or cute animated validation.](https://dev.to/ykosinets/annoying-shouldnt-be-ugly-or-cute-animated-validation-3bkm)
-- [Simple calculator](https://dev.to/rifat_hasan_497b839e408d3/simple-calculator-4lh9)
+- [CodeScribe - A Note Taking App](https://dev.to/imrancodes/codescribe-a-note-taking-app-224)
+- [Auto-Creating Contacts in Dynamics 365: A Deep Dive into the Personal Setting](https://dev.to/nikhildynamicsce/auto-creating-contacts-in-dynamics-365-a-deep-dive-into-the-personal-setting-1fgb)
+- [Building High-Performance Message Queues in Go: A Developer&#39;s Guide](https://dev.to/aaravjoshi/building-high-performance-message-queues-in-go-a-developers-guide-1ic7)
+- [Dead Letter Queue &lpar;DLQ&rpar; - In-Depth Explanation](https://dev.to/devcorner/dead-letter-queue-dlq-in-depth-explanation-32o)
+- [What Developers Often Get Wrong When Interacting with AI](https://dev.to/iredox10/what-developers-often-get-wrong-when-interacting-with-ai-3c2d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
