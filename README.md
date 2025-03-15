@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Creating Company-Standard Errors in Node.js Microservices &lpar;Part 2&rpar;](https://dev.to/skillnter/creating-company-standard-errors-in-nodejs-microservices-part-2-3i5k)
-- [Future AI Deployment: Automating Full Lifecycle Management with Rollback Strategies and Cloud Migration](https://dev.to/prabhu_chinnasamy_086fba6/future-ai-deployment-automating-full-lifecycle-management-with-rollback-strategies-and-cloud-34on)
-- [What makes Bonza AI Chat different from other AI companions?](https://dev.to/tyler_ash/what-makes-bonza-ai-chat-different-from-other-ai-companions-omi)
-- [Migrate Your Bitbucket Repository to GitHub Effortlessly](https://dev.to/babar_bilal_2e14c231dfa8d/migrate-your-bitbucket-repository-to-github-effortlessly-3pjf)
-- [Why Personalization Will Be the Next Frontier for AI Chatbot Platforms](https://dev.to/kaitlyn_cheek_3572cdb67fc/why-personalization-will-be-the-next-frontier-for-ai-chatbot-platforms-3k26)
+- [Applying to 100s of companies but not getting even a single reply - A sad story of every candidate nowadays.](https://dev.to/vamshi_d11c1aecc785f63648/applying-to-100s-of-companies-but-not-getting-even-a-single-reply-a-sad-story-of-every-candidate-45f0)
+- [AI girlfriends just got real, Manus AI Agent is mind-blowing, and Google Gemma 3](https://dev.to/thisweekinaiengineering/ai-girlfriends-just-got-real-manus-ai-agent-is-mind-blowing-and-google-gemma-3-3bb8)
+- [Koin on modularization: How to use it?](https://dev.to/mikkelofficial7/koin-on-modularization-how-to-set-it-103c)
+- [2560. House Robber IV](https://dev.to/mdarifulhaque/2560-house-robber-iv-40mg)
+- [Testing Go Test Helpers](https://dev.to/rzajac/testing-go-test-helpers-4k3g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
