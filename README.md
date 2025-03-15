@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Performance in Javascript/ReactJS: Part 1](https://dev.to/shelly_agarwal_19/performance-in-javascriptreactjs-part-1-2gah)
+- [AI AVATAR CUSTOMIZATION: What You Need to Know](https://dev.to/eljoooy/ai-avatar-customization-what-you-need-to-know-5eec)
+- [Most Common Docker Use Cases in 2025](https://dev.to/babita/most-common-docker-use-cases-in-2025-2c7o)
+- [Master Video Editing in Rust with FFmpeg in Just 3 Minutes](https://dev.to/yeauty/master-video-editing-in-rust-with-ffmpeg-in-just-3-minutes-27dm)
 - [6.7 Outros tipos de referências](https://dev.to/fundamentosjava/67-outros-tipos-de-referencias-4o11)
-- [The choice of Tech Stack is overrated!](https://dev.to/pratikgchaudhari/the-choice-of-tech-stack-is-overrated-5922)
-- [Azure For Data Engineering](https://dev.to/madgan95/azure-for-data-engineering-33p2)
-- [6.5 Referenciando métodos que recebem argumen tos](https://dev.to/fundamentosjava/65-referenciando-metodos-que-recebem-argumentos-2796)
-- [Are Your Developers Costing You Money? Here’s How to Tell](https://dev.to/developerpartners/are-your-developers-costing-you-money-heres-how-to-tell-3e4h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
