@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CEAPs_Data_analysis](https://dev.to/lucaslins_lima/ceapsdataanalysis-578)
-- [Best End to End Backend Projects](https://dev.to/rachitsinghh/best-end-to-end-backend-projects-5e15)
-- [have fun with Zeek](https://dev.to/clastrox/have-fun-with-zeek-4c5)
-- [[Boost]](https://dev.to/idevgames/-35dh)
-- [📱 How to Create a GitHub-Style Floating Header with Trig.js](https://dev.to/idevgames/how-to-create-a-github-style-floating-header-with-trigjs-3an9)
+- [THIS](https://dev.to/jbz/this-1cch)
+- [King of the Mountain](https://dev.to/thomas_koszoru/king-of-the-mountain-1fja)
+- [my first post, I am confident that I will find here an integrated complex that includes the most international experiences](https://dev.to/atlasx/my-first-post-i-am-confident-that-i-will-find-here-an-integrated-complex-that-includes-the-most-3dkf)
+- [I Am a Hacker, and I Need a Crazy Indian Girl Hacker! 👀💻 Hey folks, I am Tigethack – a passionate white hat hacker and cybersecurity enthusiast! 🔥 My ultimate goal is to explore the world of ethical hacking and cybersecurity, and on this journey.](https://dev.to/tigethack/i-am-a-hacker-and-i-need-a-crazy-indian-girl-hacker-hey-folks-i-am-tigethack-a-passionate-3jf9)
+- [[Boost]](https://dev.to/idevgames/-311p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
