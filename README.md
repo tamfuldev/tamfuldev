@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Range Headers: Pagination the HTTP way](https://dev.to/justcatdev/range-headers-pagination-the-http-way-31mf)
-- [I master the c# language with .net. Is c# an excellent language for the future or do I have to learn python and what is the difference between them and who is stronger?](https://dev.to/mahdi_moussa_526377e45e30/i-master-the-c-language-with-net-is-c-an-excellent-language-for-the-future-or-do-i-have-to-1ii)
-- [super engajamento e momentos de satisfação](https://dev.to/m1rr4/super-engajamento-e-momentos-de-satisfacao-2fd9)
-- [DevOps Made Simple: A Beginner’s Guide to Understanding Microservices and Their Role in DevOps](https://dev.to/yash_sonawane25/devops-made-simple-a-beginners-guide-to-understanding-microservices-and-their-role-in-devops-3pki)
-- [Building Jam-Text: A High-Performance Text Indexer in Go](https://dev.to/skanenje/building-jam-text-a-high-performance-text-indexer-in-go-34c)
+- [Como publicar mensagens no Broker MQTT usando a BananaPi e Python](https://dev.to/henriqueotogami/como-publicar-mensagens-no-broker-mqtt-usando-a-bananapi-e-python-3816)
+- [The Real Story Behind Building is-cod.in Universe: From $52 Bills to Free Hosting 😅](https://dev.to/araan/the-real-story-behind-building-is-codin-universe-from-52-bills-to-free-hosting-4hkc)
+- [Building an Image to Text Converter with Next.js and Tesseract.js 🚀](https://dev.to/moibra/building-an-image-to-text-converter-with-nextjs-and-tesseractjs-45c3)
+- [1. HTML Document Structure.](https://dev.to/code_2/1-html-document-structure-44c4)
+- [TheHumanizer.ai Review: Is It the Best AI Humanizer?](https://dev.to/thehumanizerai/thehumanizerai-review-is-it-the-best-ai-humanizer-i6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
