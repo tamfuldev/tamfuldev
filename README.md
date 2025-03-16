@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating Cypress with Jenkins API for Automated Test Preparation](https://dev.to/martin_chudomel/integrating-cypress-with-jenkins-api-for-automated-test-preparation-h9f)
-- [Which Go Web Backend Framework Is Right for Your Next Project? A Detailed Analysis of Features and Performance](https://dev.to/ganesh-kumar/which-go-web-backend-framework-is-right-for-your-next-project-a-detailed-analysis-of-features-and-fpc)
-- [C# to Typescript Cheatsheet](https://dev.to/this-is-learning/c-to-typescript-cheatsheet-gp6)
-- [How to Perform Transfer Learning with Tensorflow for Custom Datasets?](https://dev.to/anna_golubkova/how-to-perform-transfer-learning-with-tensorflow-for-custom-datasets-2j60)
-- [2594. Minimum Time to Repair Cars](https://dev.to/mdarifulhaque/2594-minimum-time-to-repair-cars-2c49)
+- [Range Headers: Pagination the HTTP way](https://dev.to/justcatdev/range-headers-pagination-the-http-way-31mf)
+- [I master the c# language with .net. Is c# an excellent language for the future or do I have to learn python and what is the difference between them and who is stronger?](https://dev.to/mahdi_moussa_526377e45e30/i-master-the-c-language-with-net-is-c-an-excellent-language-for-the-future-or-do-i-have-to-1ii)
+- [super engajamento e momentos de satisfação](https://dev.to/m1rr4/super-engajamento-e-momentos-de-satisfacao-2fd9)
+- [DevOps Made Simple: A Beginner’s Guide to Understanding Microservices and Their Role in DevOps](https://dev.to/yash_sonawane25/devops-made-simple-a-beginners-guide-to-understanding-microservices-and-their-role-in-devops-3pki)
+- [Building Jam-Text: A High-Performance Text Indexer in Go](https://dev.to/skanenje/building-jam-text-a-high-performance-text-indexer-in-go-34c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
