@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What is HTML?](https://dev.to/merndev_enamul/what-is-html-54l2)
-- [Understanding Islamic Law: Key Principles, Sources, and Applications](https://dev.to/guidelinesislamiclaw/understanding-islamic-law-key-principles-sources-and-applications-42d2)
-- [Quick overview of Model Context Protocol &lpar;MCP&rpar;](https://dev.to/jldec/quick-overview-of-model-context-protocol-mcp-123c)
-- [Enhancing User Experience with a Custom Number Input Component in React](https://dev.to/joaquinpereira/enhancing-user-experience-with-a-custom-number-input-component-in-react-10m4)
-- [Woliyu Note](https://dev.to/kemal_mulatu_b6b88a3dd0c9/woliyu-note-11pe)
+- [When Getting Well Isn’t Happening Soon: My Experience with Long COVID](https://dev.to/nehamaity/when-getting-well-isnt-happening-soon-my-experience-with-long-covid-ed0)
+- [Comprehensive List of Programming Languages and Their Uses](https://dev.to/tene/comprehensive-list-of-programming-languages-and-their-uses-3p0f)
+- [What Technologies Should I Use in My Application?](https://dev.to/theenmanuel23/what-technologies-should-i-use-in-my-application-39bl)
+- [🚀 Git Cheat Sheet – Copy &amp; Paste Commands Easily](https://dev.to/john_robertguazon_ad4d2b/git-cheat-sheet-copy-paste-commands-easily-1931)
+- [Hi. It&#39;s Joanne here.](https://dev.to/chiuyen/hi-its-joanne-here-28fd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
