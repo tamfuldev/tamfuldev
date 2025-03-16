@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Your Project Discovered: Why Directories Are Your Secret Weapon](https://dev.to/dariubs/getting-your-project-discovered-why-directories-are-your-secret-weapon-23ei)
-- [[Boost]](https://dev.to/nivafy/-4o73)
-- [With the deprecation of create-react-app, this guide now uses Vite for React projects. Additionally, testing push notifications requires deploying the app, as Firebase needs HTTPS for message delivery. Follow the revised steps for seamless FCM integration.](https://dev.to/iamsujit/with-the-deprecation-of-create-react-app-this-guide-now-uses-vite-for-react-projects-45b5)
-- [Mastering Linux for DevOps: A Beginner&#39;s Guide Using Git Bash &amp; Linux Terminal](https://dev.to/robinrai2612/mastering-linux-for-devops-a-beginners-guide-using-git-bash-linux-terminal-21ko)
-- [Day 3: BackendChallenges.com - Why Multi-Tenancy Matters?](https://dev.to/learnwithparam/day-3-backendchallengescom-why-multi-tenancy-matters-fe6)
+- [Integrating Cypress with Jenkins API for Automated Test Preparation](https://dev.to/martin_chudomel/integrating-cypress-with-jenkins-api-for-automated-test-preparation-h9f)
+- [Which Go Web Backend Framework Is Right for Your Next Project? A Detailed Analysis of Features and Performance](https://dev.to/ganesh-kumar/which-go-web-backend-framework-is-right-for-your-next-project-a-detailed-analysis-of-features-and-fpc)
+- [C# to Typescript Cheatsheet](https://dev.to/this-is-learning/c-to-typescript-cheatsheet-gp6)
+- [How to Perform Transfer Learning with Tensorflow for Custom Datasets?](https://dev.to/anna_golubkova/how-to-perform-transfer-learning-with-tensorflow-for-custom-datasets-2j60)
+- [2594. Minimum Time to Repair Cars](https://dev.to/mdarifulhaque/2594-minimum-time-to-repair-cars-2c49)
 <!-- BLOG-POST-LIST:END -->
 
 ---
