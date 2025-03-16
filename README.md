@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀TypeScript 10x Lebih Ngebut: Inovasi Gede Buat Developer JavaScript](https://dev.to/ferryops/typescript-10x-lebih-ngebut-inovasi-gede-buat-developer-javascript-4gm1)
-- [React architecture](https://dev.to/victormarques92/react-architecture-4gfh)
-- [Static Site Generation &lpar;SSG&rpar; vs. Incremental Static Regeneration &lpar;ISR&rpar; in Modern Web Development](https://dev.to/aryan015/static-site-generation-ssg-vs-incremental-static-regeneration-isr-in-modern-web-development-4h50)
-- [Creating a Pixel Art Generator with Export Option: A Step-by-Step Guide](https://dev.to/learncomputer/creating-a-pixel-art-generator-with-export-option-a-step-by-step-guide-1397)
-- [Implementing Performance optimization with AWS Aurora PostgreSQL/MySQL for high-throughput workloads 👨‍💻⚙](https://dev.to/neo_rival67/implementingperformance-optimization-with-aws-aurora-postgresqlmysql-for-high-throughput-2end)
+- [Is Ionic Lagging Behind in Cross-Platform App Development?](https://dev.to/mmar58/is-ionic-lagging-behind-in-cross-platform-app-development-29hi)
+- [1. Introduction to C# and .NET framework](https://dev.to/yandralal/1-introduction-to-c-and-net-framework-26ck)
+- [O básico que você precisa saber sobre internet.](https://dev.to/gusvasconcelos/o-basico-que-voce-precisa-saber-sobre-internet-5g3k)
+- [Embarking on a C# Adventure: Unveiling the Topics Covered on Our Learning Journey](https://dev.to/yandralal/embarking-on-a-c-adventure-unveiling-the-topics-covered-on-our-learning-journey-50gk)
+- [Performance in Javascript/ReactJS: Part 2](https://dev.to/shelly_agarwal_19/performance-in-javascriptreactjs-part-2-1e1g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
