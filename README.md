@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [When Getting Well Isn’t Happening Soon: My Experience with Long COVID](https://dev.to/nehamaity/when-getting-well-isnt-happening-soon-my-experience-with-long-covid-ed0)
-- [Comprehensive List of Programming Languages and Their Uses](https://dev.to/tene/comprehensive-list-of-programming-languages-and-their-uses-3p0f)
-- [What Technologies Should I Use in My Application?](https://dev.to/theenmanuel23/what-technologies-should-i-use-in-my-application-39bl)
-- [🚀 Git Cheat Sheet – Copy &amp; Paste Commands Easily](https://dev.to/john_robertguazon_ad4d2b/git-cheat-sheet-copy-paste-commands-easily-1931)
-- [Hi. It&#39;s Joanne here.](https://dev.to/chiuyen/hi-its-joanne-here-28fd)
+- [Pokemon3D API v0.2.1](https://dev.to/sudhanshuambastha/pokemon3d-api-v021-38ok)
+- [Mobile Agents Powered by LLMs: Revolutionizing On-Device Intelligence](https://dev.to/vihuvac/mobile-agents-powered-by-llms-revolutionizing-on-device-intelligence-5gdi)
+- [Developing Explainable AI Models for Compliance](https://dev.to/kartikmehta8/developing-explainable-ai-models-for-compliance-pg)
+- [How to Capture Screenshots of Any Website Automatically? Discover ZonySnap API](https://dev.to/mga_dev/how-to-capture-screenshots-of-any-website-automatically-discover-zonysnap-api-47mh)
+- [Amran Munir UK Software and IT Solutions Provider Company](https://dev.to/techno_insights_d8b5bd951/amran-munir-uk-software-and-it-solutions-provider-company-5cmk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
