@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up an S3 Bucket with Terraform](https://dev.to/jamiu_cloud/setting-up-an-s3-bucket-with-terraform-436o)
-- [Free and Open Source image blending tool that lets you create stunning image effects, generate Tailwind CSS code, and more!](https://dev.to/muhammadhafijur/free-and-open-source-image-blending-tool-that-lets-you-create-stunning-image-effects-generate-42h4)
-- [Deep Dive into HTTP/3: The Future of the Web](https://dev.to/devcorner/deep-dive-into-http3-the-future-of-the-web-kjg)
-- [Drive API now support folders with limited access 🔒](https://dev.to/googleworkspace/drive-api-now-support-folders-with-limited-access-1in2)
-- [How HTTP/2 Addresses Head-of-Line &lpar;HOL&rpar; Blocking](https://dev.to/devcorner/how-http2-addresses-head-of-line-hol-blocking-3om2)
+- [Python vs Rust: I Tested Both. The Winner Is…](https://dev.to/resource_bunk_1077cab07da/python-vs-rust-i-tested-both-the-winner-is-1d8b)
+- [Sliding Window Pattern in JavaScript: A Beginner-Friendly Guide](https://dev.to/biswasprasana001/sliding-window-pattern-in-javascript-a-beginner-friendly-guide-2kpo)
+- [How AI is Changing Affiliate Marketing: The Future of Automated Earnings](https://dev.to/savemitra/how-ai-is-changing-affiliate-marketing-the-future-of-automated-earnings-4mfk)
+- [Python Cheats for Bypassing CAPTCHAs in 2025](https://dev.to/snappytuts/python-cheats-for-bypassing-captchas-in-2025-47og)
+- [How To Deploy a React + Vite Application with cPanel Shared Hosting](https://dev.to/programmerhasan/how-to-deploy-a-react-vite-application-with-cpanel-shared-hosting-421g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
