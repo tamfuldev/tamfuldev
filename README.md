@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Single Executable Applications with Node.js](https://dev.to/this-is-learning/building-single-executable-applications-with-nodejs-16k3)
-- [Top 100 PHP Functions Every Developer Should Know](https://dev.to/robin-ivi/top-100-php-functions-every-developer-should-know-1ecg)
-- [Your framework sucks when it comes to cloud integration &lpar;and I believe AWS should do more about it&rpar;](https://dev.to/aws-builders/your-framework-sucks-when-it-comes-to-cloud-integration-and-i-believe-aws-should-do-more-about-it-oj7)
-- [Deploying rapidly an enterprise grade Generative AI platform](https://dev.to/aairom/deploying-rapidly-an-enterprise-grade-generative-ai-platform-2p98)
-- [I Was Wrong About Email For Startups. Here’s Everything I Wish I Knew A Year Ago.](https://dev.to/prithwish_nath/i-was-wrong-about-email-for-startups-heres-everything-i-wish-i-knew-a-year-ago-4h63)
+- [Test-Driven Development: Write Tests First, Code Later](https://dev.to/lovestaco/test-driven-development-write-tests-first-code-later-2d90)
+- [Gopsutil: Powerful System Stats for Go Developers](https://dev.to/leapcell/gopsutil-powerful-system-stats-for-go-developers-53e0)
+- [🚀 How I Merged Multiple Kubernetes Clusters with Zero Downtime](https://dev.to/aleksei_aleinikov/how-i-merged-multiple-kubernetes-clusters-with-zero-downtime-28cm)
+- [The Future of Htmx: Stability and Compatibility Insights](https://dev.to/abhishek-dave-008/the-future-of-htmx-stability-and-compatibility-insights-eoa)
+- [Why in C both bool and int are %d](https://dev.to/selfish_dev/why-in-c-both-bool-and-int-are-d-3d82)
 <!-- BLOG-POST-LIST:END -->
 
 ---
