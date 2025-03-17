@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Are Your AWS CloudTrail Costs Out of Control? Here’s Why](https://dev.to/aws-builders/are-your-aws-cloudtrail-costs-out-of-control-heres-why-pn9)
-- [Comparing LEGO SPIKE Prime Programming : Which Is Best for Robotics Competitions? - 2](https://dev.to/_ff41734170f7cc70ac79/comparing-lego-spike-prime-programming-which-is-best-for-robotics-competitions-2-3pb1)
-- [Cache mutex locks using Spring boot](https://dev.to/prav_myls_3b497e599d01fde/cache-mutex-locks-using-spring-boot-3fk9)
-- [&quot;Unlocking Image Generation: The Power of Conditional Optimal Transport and Reasoning&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-image-generation-the-power-of-conditional-optimal-transport-and-reasoning-45kn)
-- [Проблема фреймворков](https://dev.to/ryzhpolsos/probliema-frieimvorkov-kd0)
+- [A little progress on world building](https://dev.to/magipunk/a-little-progress-on-world-building-18ok)
+- [Revolutionizing Mobile Apps: The Impact of Augmented Reality](https://dev.to/jetthoughts/revolutionizing-mobile-apps-the-impact-of-augmented-reality-jf1)
+- [S1E1 - Hands-on With GitHub Models!](https://dev.to/azure/s1e1-hands-on-with-github-models-1gb4)
+- [Follow these 6 Easy Steps to Learn a Programming Language 🚀](https://dev.to/nirajkaushal/do-you-want-to-learn-a-programming-language-4o)
+- [3D Zig-Zag Matrix](https://dev.to/dan52242644dan/3d-zig-zag-matrix-3neo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
