@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A little progress on world building](https://dev.to/magipunk/a-little-progress-on-world-building-18ok)
-- [Revolutionizing Mobile Apps: The Impact of Augmented Reality](https://dev.to/jetthoughts/revolutionizing-mobile-apps-the-impact-of-augmented-reality-jf1)
-- [S1E1 - Hands-on With GitHub Models!](https://dev.to/azure/s1e1-hands-on-with-github-models-1gb4)
-- [Follow these 6 Easy Steps to Learn a Programming Language 🚀](https://dev.to/nirajkaushal/do-you-want-to-learn-a-programming-language-4o)
-- [3D Zig-Zag Matrix](https://dev.to/dan52242644dan/3d-zig-zag-matrix-3neo)
+- [I created a Japanese Learning Web Application with Nuxt and PrimeVue](https://dev.to/doantrongnam/i-created-a-japanese-learning-web-application-with-nuxt-and-primevue-581k)
+- [The problems I faced when coding a Pomodoro Timer with React.js](https://dev.to/quibylix/the-problems-i-faced-when-coding-a-pomodoro-timer-with-reactjs-5bpd)
+- [Exception Handling](https://dev.to/neelakandan_ravi_2000/exception-handling-1pi5)
+- [Exploring the World of Game Development with Unity](https://dev.to/million_formula_3be3d915d/exploring-the-world-of-game-development-with-unity-3pb4)
+- [UX/UI Designs In Fintech](https://dev.to/althisolutions/uxui-designs-in-fintech-440l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
