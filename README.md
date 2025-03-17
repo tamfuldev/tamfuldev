@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 iOS vs Android Development: Which One Should You Learn First? &lpar;The Truth No One Tells You!&rpar;](https://dev.to/dct_technologyprivatelimited/ios-vs-android-development-which-one-should-you-learn-first-the-truth-no-one-tells-you-2g90)
-- [How to Get Started with Rust Programming](https://dev.to/stellaacharoiro/how-to-get-started-with-rust-programming-1b28)
-- [File Input/Output &lpar;I/O&rpar;: Working with External Data](https://dev.to/testamplify/file-inputoutput-io-working-with-external-data-33gb)
-- [Developers, are endless meetings and Slack pings crushing your focus? Discover how to balance deep work and collaboration without sacrificing productivity. Master time blocking, async communication, and smart workflows to code better &amp; work smarter!](https://dev.to/pratham_naik_project_manager/developers-are-endless-meetings-and-slack-pings-crushing-your-focus-discover-how-to-balance-deep-36da)
-- [How to fix Prometheus &quot;open /prometheus/queries.active: permission denied&quot; on Kubernetes: step-by-step](https://dev.to/unfiled4897/how-to-fix-prometheus-open-prometheusqueriesactive-permission-denied-on-kubernetes-22gf)
+- [Exploring the Cryptix General License: A Journey into Fairness and Open Source Sustainability](https://dev.to/laetitiaperraut/exploring-the-cryptix-general-license-a-journey-into-fairness-and-open-source-sustainability-1f8m)
+- [Blue Oak Model License 1.0.0: A Game Changer for Fair Code Licensing](https://dev.to/bobcars/blue-oak-model-license-100-a-game-changer-for-fair-code-licensing-1e9k)
+- [My newest amazing novel &quot;King of the Mountain&quot; cover picture.](https://dev.to/thomas_koszoru/my-newest-amazing-novel-king-of-the-mountain-cover-picture-193g)
+- [Tired of Jira’s complexity and high costs? There are better, simpler, and more efficient alternatives waiting for you! Discover the best project management tools that fit your team’s needs and boost productivity. Find your perfect Jira alternative today!](https://dev.to/rajesh_patel/tired-of-jiras-complexity-and-high-costs-there-are-better-simpler-and-more-efficient-2212)
+- [Unveiling the BitTorrent Open Source License: A Deep Dive into Fair Code and Innovation](https://dev.to/zhangwei42/unveiling-the-bittorrent-open-source-license-a-deep-dive-into-fair-code-and-innovation-34b3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
