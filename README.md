@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Cryptix General License: A Journey into Fairness and Open Source Sustainability](https://dev.to/laetitiaperraut/exploring-the-cryptix-general-license-a-journey-into-fairness-and-open-source-sustainability-1f8m)
-- [Blue Oak Model License 1.0.0: A Game Changer for Fair Code Licensing](https://dev.to/bobcars/blue-oak-model-license-100-a-game-changer-for-fair-code-licensing-1e9k)
-- [My newest amazing novel &quot;King of the Mountain&quot; cover picture.](https://dev.to/thomas_koszoru/my-newest-amazing-novel-king-of-the-mountain-cover-picture-193g)
-- [Tired of Jira’s complexity and high costs? There are better, simpler, and more efficient alternatives waiting for you! Discover the best project management tools that fit your team’s needs and boost productivity. Find your perfect Jira alternative today!](https://dev.to/rajesh_patel/tired-of-jiras-complexity-and-high-costs-there-are-better-simpler-and-more-efficient-2212)
-- [Unveiling the BitTorrent Open Source License: A Deep Dive into Fair Code and Innovation](https://dev.to/zhangwei42/unveiling-the-bittorrent-open-source-license-a-deep-dive-into-fair-code-and-innovation-34b3)
+- [Everything you didn&#39;t know you needed to know about Power Automate Errors](https://dev.to/wyattdave/everything-you-didnt-know-you-needed-to-know-about-power-automate-errors-429f)
+- [Copy-paste on big screen. Analyzing errors and oddities in Radarr code](https://dev.to/pvsdev/copy-paste-on-big-screen-analyzing-errors-and-oddities-in-radarr-code-13m)
+- [Why Free AI Training Consultation is the Key to Unlocking AI Success](https://dev.to/skillboosttrainer/why-free-ai-training-consultation-is-the-key-to-unlocking-ai-success-dh6)
+- [Einstein AI in Salesforce: 2025 Updates](https://dev.to/itechcloud_solution_01/einstein-ai-in-salesforce-2025-updates-441c)
+- [Why AI Training Bundles are Essential for Career Growth](https://dev.to/skillboosttrainer/why-ai-training-bundles-are-essential-for-career-growth-4054)
 <!-- BLOG-POST-LIST:END -->
 
 ---
