@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [THIS](https://dev.to/jbz/this-1cch)
-- [King of the Mountain](https://dev.to/thomas_koszoru/king-of-the-mountain-1fja)
-- [my first post, I am confident that I will find here an integrated complex that includes the most international experiences](https://dev.to/atlasx/my-first-post-i-am-confident-that-i-will-find-here-an-integrated-complex-that-includes-the-most-3dkf)
-- [I Am a Hacker, and I Need a Crazy Indian Girl Hacker! 👀💻 Hey folks, I am Tigethack – a passionate white hat hacker and cybersecurity enthusiast! 🔥 My ultimate goal is to explore the world of ethical hacking and cybersecurity, and on this journey.](https://dev.to/tigethack/i-am-a-hacker-and-i-need-a-crazy-indian-girl-hacker-hey-folks-i-am-tigethack-a-passionate-3jf9)
-- [[Boost]](https://dev.to/idevgames/-311p)
+- [Are Your AWS CloudTrail Costs Out of Control? Here’s Why](https://dev.to/aws-builders/are-your-aws-cloudtrail-costs-out-of-control-heres-why-pn9)
+- [Comparing LEGO SPIKE Prime Programming : Which Is Best for Robotics Competitions? - 2](https://dev.to/_ff41734170f7cc70ac79/comparing-lego-spike-prime-programming-which-is-best-for-robotics-competitions-2-3pb1)
+- [Cache mutex locks using Spring boot](https://dev.to/prav_myls_3b497e599d01fde/cache-mutex-locks-using-spring-boot-3fk9)
+- [&quot;Unlocking Image Generation: The Power of Conditional Optimal Transport and Reasoning&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-image-generation-the-power-of-conditional-optimal-transport-and-reasoning-45kn)
+- [Проблема фреймворков](https://dev.to/ryzhpolsos/probliema-frieimvorkov-kd0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
