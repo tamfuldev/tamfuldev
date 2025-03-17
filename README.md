@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Everything you didn&#39;t know you needed to know about Power Automate Errors](https://dev.to/wyattdave/everything-you-didnt-know-you-needed-to-know-about-power-automate-errors-429f)
-- [Copy-paste on big screen. Analyzing errors and oddities in Radarr code](https://dev.to/pvsdev/copy-paste-on-big-screen-analyzing-errors-and-oddities-in-radarr-code-13m)
-- [Why Free AI Training Consultation is the Key to Unlocking AI Success](https://dev.to/skillboosttrainer/why-free-ai-training-consultation-is-the-key-to-unlocking-ai-success-dh6)
-- [Einstein AI in Salesforce: 2025 Updates](https://dev.to/itechcloud_solution_01/einstein-ai-in-salesforce-2025-updates-441c)
-- [Why AI Training Bundles are Essential for Career Growth](https://dev.to/skillboosttrainer/why-ai-training-bundles-are-essential-for-career-growth-4054)
+- [Scrape Jobs for Competitive Advantage](https://dev.to/swiftproxy_residential/scrape-jobs-for-competitive-advantage-3951)
+- [AI in Autonomous Vehicles: Are We Ready for a Driverless Future?](https://dev.to/aditya_tripathi_17ffee7f5/ai-in-autonomous-vehicles-are-we-ready-for-a-driverless-future-4oig)
+- [How to Make a Cardboard Packaging Box](https://dev.to/jowenkay/how-to-make-a-cardboard-packaging-box-1k3g)
+- [SUBSTRING_INDEX in MySQL: A Simple Guide to String Extraction](https://dev.to/dbvismarketing/substringindex-in-mysql-a-simple-guide-to-string-extraction-14ag)
+- [Master the Art of Scraping Jobs Efficiently and Ethically](https://dev.to/swiftproxy_residential/master-the-art-of-scraping-jobs-efficiently-and-ethically-5f61)
 <!-- BLOG-POST-LIST:END -->
 
 ---
