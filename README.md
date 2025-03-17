@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a JS pytorch clone with WebGPU](https://dev.to/ndesmic/building-a-js-pytorch-clone-with-webgpu-3m7h)
-- [API Security: The First Steps Toward a Fortified Backend](https://dev.to/mungaivic/api-security-the-first-steps-toward-a-fortified-backend-48ie)
-- [Mutually Exclusive Checkbox Selection with Reactive Forms](https://dev.to/goangu/mutually-exclusive-checkbox-selection-with-reactive-forms-4l0c)
-- [How to Build High-Performance NFS Storage with xiRAID Backend and RDMA Access](https://dev.to/pltnvs/how-to-build-high-performance-nfs-storage-with-xiraid-backend-and-rdma-access-1ok4)
-- [🚀 Looking for Developers to Join a Startup Like Yandex Eats &amp; Wolt!](https://dev.to/annurbek_gaybullayv_eee9d/looking-for-developers-to-join-a-startup-like-yandex-eats-wolt-3n6l)
+- [Setting Up an S3 Bucket with Terraform](https://dev.to/jamiu_cloud/setting-up-an-s3-bucket-with-terraform-436o)
+- [Free and Open Source image blending tool that lets you create stunning image effects, generate Tailwind CSS code, and more!](https://dev.to/muhammadhafijur/free-and-open-source-image-blending-tool-that-lets-you-create-stunning-image-effects-generate-42h4)
+- [Deep Dive into HTTP/3: The Future of the Web](https://dev.to/devcorner/deep-dive-into-http3-the-future-of-the-web-kjg)
+- [Drive API now support folders with limited access 🔒](https://dev.to/googleworkspace/drive-api-now-support-folders-with-limited-access-1in2)
+- [How HTTP/2 Addresses Head-of-Line &lpar;HOL&rpar; Blocking](https://dev.to/devcorner/how-http2-addresses-head-of-line-hol-blocking-3om2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
