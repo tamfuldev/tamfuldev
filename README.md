@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Exception Handling,throw,throws](https://dev.to/neelakandan_ravi_2000/exception-handlingthrowthrows-3fdo)
+- [✅ Image Quality: AVIF vs WebP vs JPEG/PNG](https://dev.to/dharamgfx/image-quality-avif-vs-webp-vs-jpegpng-416o)
+- [Our AI Agent + 3.7 Sonnet ranked #1 on Aider’s polyglot bench — a 76.4% score](https://dev.to/refact/our-ai-agent-37-sonnet-ranked-1-on-aiders-polyglot-bench-a-764-score-10d0)
 - [Payment APIs: Simplifying Business Transactions](https://dev.to/apilover/payment-apis-simplifying-business-transactions-4hfc)
 - [Create Prompts That Get AI to See Your Vision](https://dev.to/foxinfotech/create-prompts-that-get-ai-to-see-your-vision-4mhd)
-- [open source notification Inbox](https://dev.to/novu/open-source-notification-inbox-2fji)
-- [No Hassle: Serverless Social Login Powered by AWS Cognito](https://dev.to/ooye_sanket/no-hassle-serverless-social-login-powered-by-aws-cognito-f3i)
-- [🎨 Figma vs. Adobe XD: Which Web Design Tool Should You Use in 2025?](https://dev.to/dct_technologyprivatelimited/figma-vs-adobe-xd-which-web-design-tool-should-you-use-in-2025-59fi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
