@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Exception Handling,throw,throws](https://dev.to/neelakandan_ravi_2000/exception-handlingthrowthrows-3fdo)
-- [✅ Image Quality: AVIF vs WebP vs JPEG/PNG](https://dev.to/dharamgfx/image-quality-avif-vs-webp-vs-jpegpng-416o)
-- [Our AI Agent + 3.7 Sonnet ranked #1 on Aider’s polyglot bench — a 76.4% score](https://dev.to/refact/our-ai-agent-37-sonnet-ranked-1-on-aiders-polyglot-bench-a-764-score-10d0)
-- [Payment APIs: Simplifying Business Transactions](https://dev.to/apilover/payment-apis-simplifying-business-transactions-4hfc)
-- [Create Prompts That Get AI to See Your Vision](https://dev.to/foxinfotech/create-prompts-that-get-ai-to-see-your-vision-4mhd)
+- [Command-Line Arguments in Go: How to Use the Flag Library](https://dev.to/leapcell/command-line-arguments-in-go-how-to-use-the-flag-library-1j62)
+- [🚀 Your Daily Crypto Job Digest For 18 March!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-18-march-4i9p)
+- [Implementing Load More Animation in React Native with Reanimated and Lottie](https://dev.to/amitkumar13/implementing-load-more-animation-in-react-native-with-reanimated-and-lottie-3ddh)
+- [The Quite Nice and Fairly Accurate Intro to JS Primitive Data Types &lpar;pt. 1&rpar;](https://dev.to/ale3oula/the-quite-nice-and-fairly-accurate-intro-to-js-primitive-data-types-pt-1-oj4)
+- [Just posted this article](https://dev.to/syakirurahman/just-posted-this-article-498g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
