@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Azure Databricks](https://dev.to/madgan95/introduction-to-azure-databricks-5gle)
-- [Enhancing Your Stream Chat with Elasticsearch for Advanced Full-Text Search](https://dev.to/dumebii/enhancing-your-stream-chat-with-elasticsearch-for-advanced-full-text-search-471c)
-- [Day 10 of Python : The Magic 8-Ball](https://dev.to/grimkillingbeck/day-10-of-python-the-magic-8-ball-579a)
-- [Melhorando a observabilidade da sua aplicação - parte 1: Logs](https://dev.to/marcosbelorio/melhorando-a-observabilidade-da-sua-aplicacao-parte-1-logs-jm2)
-- [Manga: A Global Phenomenon](https://dev.to/newssocity/manga-a-global-phenomenon-22p7)
+- [OSCP Preparation Guide 2025](https://dev.to/verylazytech/oscp-preparation-guide-2025-1hlg)
+- [TIL: curl has a config file?](https://dev.to/jonasbn/curl-has-a-config-file-5423)
+- [Fast And Simple Tips](https://dev.to/evertontenorio/fast-and-simple-tips-3gnd)
+- [First Ubuntu Journey](https://dev.to/annavi11arrea1/first-ubuntu-journey-20cd)
+- [Hunt for Secrets in Git Repos](https://dev.to/constantineukah/hunt-for-secrets-in-git-repos-2dcd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
