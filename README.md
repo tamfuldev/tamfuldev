@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Need a mentor for the KendoReact Free Components Challenge?!](https://dev.to/jess/need-a-mentor-for-the-kendoreact-free-components-challenge-3jei)
-- [O que é um ArrayList?](https://dev.to/williamkoller/o-que-e-um-arraylist-k88)
-- [The Ultimate React Performance Guide Every Developer Needs](https://dev.to/amaresh_adak/the-ultimate-react-performance-guide-every-developer-needs-e0m)
-- [🏆 Ultimate System Design &amp; Cloud Interview Cheat Sheet 🚀](https://dev.to/criscmd/ultimate-system-design-cloud-interview-cheat-sheet-4lgp)
-- [Introduction to Go for TypeScript Developers 🚀](https://dev.to/criscmd/introduction-to-go-for-typescript-developers-1ol3)
+- [DeepShell: Your self-hosted shell assistant](https://dev.to/abyss-c0re/deepshell-your-self-hosted-shell-assistant-1e74)
+- [Use Promise.all](https://dev.to/codescirahul/use-promiseall-4dam)
+- [Windows Security Alert: Signs of a Hack &amp; How to Remove Malware](https://dev.to/cybrpunked/windows-security-alert-signs-of-a-hack-how-to-remove-malware-1gin)
+- [Big-O en Español Parte 5](https://dev.to/martin_pi/big-o-en-espanol-parte-5-455e)
+- [Unveiling Amsterdam License: A New Frontier for Fair Code](https://dev.to/ahmmrizv9/unveiling-amsterdam-license-a-new-frontier-for-fair-code-2l36)
 <!-- BLOG-POST-LIST:END -->
 
 ---
