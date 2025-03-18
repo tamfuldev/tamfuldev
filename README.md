@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Test Automation Strategy: A Practical Approach to Scalable and Reliable Testing](https://dev.to/testwithtorin/test-automation-strategy-a-practical-approach-to-scalable-and-reliable-testing-4kgj)
-- [Introducing a Lightweight Apache JMeter Docker Image: Efficient Load Testing Made Simple](https://dev.to/qainsights/introducing-a-lightweight-apache-jmeter-docker-image-efficient-load-testing-made-simple-430g)
-- [How to Build an AI-Powered Open-Source Financial Manager ⚡️using Maybe Finance &amp; CopilotKit🪁](https://dev.to/copilotkit/how-to-build-an-ai-powered-open-source-financial-manager-using-maybe-finance-copilotkit-4441)
-- [How to Crater Your Database, Part Two - Aggregations](https://dev.to/aws-builders/how-to-crater-your-database-part-two-aggregations-322d)
-- [We&#39;re live on Product Hunt! meooow.link/bucket](https://dev.to/fmerian/were-live-on-product-hunt-meooowlinkbucket-1foh)
+- [Introduction to Azure Databricks](https://dev.to/madgan95/introduction-to-azure-databricks-5gle)
+- [Enhancing Your Stream Chat with Elasticsearch for Advanced Full-Text Search](https://dev.to/dumebii/enhancing-your-stream-chat-with-elasticsearch-for-advanced-full-text-search-471c)
+- [Day 10 of Python : The Magic 8-Ball](https://dev.to/grimkillingbeck/day-10-of-python-the-magic-8-ball-579a)
+- [Melhorando a observabilidade da sua aplicação - parte 1: Logs](https://dev.to/marcosbelorio/melhorando-a-observabilidade-da-sua-aplicacao-parte-1-logs-jm2)
+- [Manga: A Global Phenomenon](https://dev.to/newssocity/manga-a-global-phenomenon-22p7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
