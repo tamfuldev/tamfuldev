@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [OSCP Preparation Guide 2025](https://dev.to/verylazytech/oscp-preparation-guide-2025-1hlg)
-- [TIL: curl has a config file?](https://dev.to/jonasbn/curl-has-a-config-file-5423)
-- [Fast And Simple Tips](https://dev.to/evertontenorio/fast-and-simple-tips-3gnd)
-- [First Ubuntu Journey](https://dev.to/annavi11arrea1/first-ubuntu-journey-20cd)
-- [Hunt for Secrets in Git Repos](https://dev.to/constantineukah/hunt-for-secrets-in-git-repos-2dcd)
+- [Need a mentor for the KendoReact Free Components Challenge?!](https://dev.to/jess/need-a-mentor-for-the-kendoreact-free-components-challenge-3jei)
+- [O que é um ArrayList?](https://dev.to/williamkoller/o-que-e-um-arraylist-k88)
+- [The Ultimate React Performance Guide Every Developer Needs](https://dev.to/amaresh_adak/the-ultimate-react-performance-guide-every-developer-needs-e0m)
+- [🏆 Ultimate System Design &amp; Cloud Interview Cheat Sheet 🚀](https://dev.to/criscmd/ultimate-system-design-cloud-interview-cheat-sheet-4lgp)
+- [Introduction to Go for TypeScript Developers 🚀](https://dev.to/criscmd/introduction-to-go-for-typescript-developers-1ol3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
