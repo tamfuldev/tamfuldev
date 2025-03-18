@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Programming Doesn’t Happen at the Keyboard — But It Also Does](https://dev.to/skilleddevs/programming-doesnt-happen-at-the-keyboard-but-it-also-does-154)
-- [What exactly is Active Directory?](https://dev.to/timo_reusch/what-exactly-is-active-directory-389d)
-- [RootMe CTF](https://dev.to/khelil_cherfimohamedfar/rootme-ctf-12e9)
-- [What is DevRel and why are they important?](https://dev.to/macmartins/what-is-devrel-and-why-are-they-important-2727)
-- [How to Add Scroll Animations in Webflow, WordPress, and Squarespace – The Easy Way](https://dev.to/idevgames/how-to-add-scroll-animations-in-webflow-wordpress-and-squarespace-the-easy-way-3faa)
+- [Hello, devs! 👋](https://dev.to/nikhilgoesfullstack/hello-devs-4f27)
+- [Python Tips for Beginners: A Guide to Writing Clean Code](https://dev.to/adetola_jesulayomi_e3bd55/python-tips-for-beginners-a-guide-to-writing-clean-code-26id)
+- [Mastering Timers in React: A Comprehensive Developer&#39;s Guide](https://dev.to/jsdevspace/mastering-timers-in-react-a-comprehensive-developers-guide-462p)
+- [Daily JavaScript Challenge #JS-128: Find First Non-Repeated Word in a Sentence](https://dev.to/dpc/daily-javascript-challenge-js-128-find-first-non-repeated-word-in-a-sentence-d1h)
+- [🚀 Micro Frontend Turborepo Starter: A Scalable Approach to Frontend Development](https://dev.to/imevanc/micro-frontend-turborepo-starter-a-scalable-approach-to-frontend-development-6jo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
