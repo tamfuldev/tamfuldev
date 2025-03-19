@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling GNU FDL 1.1: A Deep Dive into Free Documentation Licensing](https://dev.to/laetitiaperraut/unveiling-gnu-fdl-11-a-deep-dive-into-free-documentation-licensing-5e3a)
-- [Unveiling the FSF All Permissive License: Freedom, Flexibility, and Fair Code](https://dev.to/ashucommits/unveiling-the-fsf-all-permissive-license-freedom-flexibility-and-fair-code-1hi9)
-- [Demystifying Authentication in Spring Security](https://dev.to/esteban389/demystifying-authentication-in-spring-security-57oj)
-- [Common Website Mistakes You Might Be Overlooking - These Are Costing You Visitors and Hurt Your SEO!](https://dev.to/per-starke-642/common-website-mistakes-you-might-be-overlooking-these-are-costing-you-visitors-and-hurt-your-seo-45fe)
-- [AugMix in PyTorch &lpar;4&rpar;](https://dev.to/hyperkai/augmix-in-pytorch-4-3c0m)
+- [Unveiling the Power and Complexity of GPL 2.0](https://dev.to/rachellovestowrite/unveiling-the-power-and-complexity-of-gpl-20-4468)
+- [How to Value a Tech Startup in Belgium](https://dev.to/gratiswaardering/how-to-value-a-tech-startup-in-belgium-23b6)
+- [Calculate the Hierarchy of Recursive References — From SQL to SPL #11](https://dev.to/judith677/calculate-the-hierarchy-of-recursive-references-from-sql-to-spl-11-4kmp)
+- [How to Use Cursor Email Like a Pro &lpar;Without the Headaches&rpar;](https://dev.to/syntaxbloom/how-to-use-cursor-email-like-a-pro-without-the-headaches-5078)
+- [Business Valuation in Belgium: A Comprehensive Guide](https://dev.to/gratiswaardering/business-valuation-in-belgium-a-comprehensive-guide-4nei)
 <!-- BLOG-POST-LIST:END -->
 
 ---
