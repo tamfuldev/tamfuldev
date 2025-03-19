@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ultimate @angular/material update guide - All versions!](https://dev.to/shhdharmen/ultimate-angularmaterial-update-guide-all-versions-453l)
-- [I&#39;m learning React from a &quot;First Principles&quot; approach. I am concerned that a undefined variable can be rendered in root.render; error prone. Would anyone know why is this allowed? root.render&lpar;&rpar;.](https://dev.to/siddhartha_gupta_dc55b628/im-learning-react-from-a-first-principles-approach-i-am-concerned-that-a-undefined-variable-can-5df2)
-- [How Ai workflow Process?](https://dev.to/e77/how-ai-workflow-process-44jd)
-- [How Blockchain Technology is Transforming Web Development](https://dev.to/metablock_seo_b927d38fdbe/how-blockchain-technology-is-transforming-web-development-3hgl)
-- [Unlocking the Power of .NET for Web Development](https://dev.to/zayn27/unlocking-the-power-of-net-for-web-development-4cac)
+- [I&#39;m new here, please take care of me](https://dev.to/showinbuaoye/im-new-here-please-take-care-of-me-3fjd)
+- [Docker Logs Observability Using Grafana](https://dev.to/daimus/docker-logs-observability-using-grafana-3mf2)
+- [Next-Level CSS: Master Advanced Selectors with Real-World Examples](https://dev.to/teki_solves_fb72717580279/next-level-css-master-advanced-selectors-with-real-world-examples-17h7)
+- [HitPaw VikPea &lpar;HitPaw Video Enhancer&rpar; Expert Review](https://dev.to/quincy_ran_3b6729ca743d1f/hitpaw-vikpea-hitpaw-video-enhancer-expert-review-5061)
+- [React Micro Frontend Architecture – An in Depth Tutorial With Example](https://dev.to/mobisoftinfotech/react-micro-frontend-architecture-an-in-depth-tutorial-with-example-1p4o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
