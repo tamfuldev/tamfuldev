@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [RESTful vs. GraphQL: Which One Should You Choose? 🤔](https://dev.to/hadil/restful-vs-graphql-which-one-should-you-choose-2850)
-- [My Takeaways from Anthropic&#39;s MCP Session](https://dev.to/shaunak_38/my-takeaways-from-anthropics-mcp-session-1olb)
-- [LLMs-txt: Enhancing AI Understanding of Website Content](https://dev.to/foxgem/llms-txt-enhancing-ai-understanding-of-website-content-3gdi)
-- [How to render dynamic data in client side page of nextjs ??](https://dev.to/arman_4b25b03dbcddf8d945a/how-to-render-dynamic-data-in-client-side-page-of-nextjs--1bph)
-- [Beginners on this platform](https://dev.to/sara_f4a532bf7cb/beginners-on-this-platform-3p8m)
+- [Exercise 04: Configure Network Routing](https://dev.to/1suleyman/exercise-04-configure-network-routing-5fll)
+- [Secure Client-Side Encryption and Decryption with JavaScript: A Practical Guide](https://dev.to/babynamenestlings_efe5ba9/secure-client-side-encryption-and-decryption-with-javascript-a-practical-guide-6h0)
+- [PSQL Day:](https://dev.to/sugumar_r_a5f301adf1fb49a/psql-day-3hoh)
+- [One Phish. One Click. One Breach. Why Ignoring Email Security and Dark Web Threats Puts Your Business in Danger](https://dev.to/donald1981/one-phish-one-click-one-breach-why-ignoring-email-security-and-dark-web-threats-puts-your-41h7)
+- [Micro Frontend Architecture: A Visual Guide for Scalable React Apps](https://dev.to/mobisoftinfotech/micro-frontend-architecture-a-visual-guide-for-scalable-react-apps-4ld6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
