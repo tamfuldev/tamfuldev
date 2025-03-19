@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [yo check this out](https://dev.to/tanvirsciart/yo-check-this-out-2bkh)
-- [Explore how computer vision AI enhances underwater object detection &amp; classification](https://dev.to/chandraks/explore-how-computer-vision-ai-enhances-underwater-object-detection-classification-3d1k)
-- [Proper Logging in ASP.NET Core](https://dev.to/ipazooki/proper-logging-in-aspnet-core-4l61)
-- [hi guys its my last post for a year or 2](https://dev.to/wilf0248/hi-guys-its-my-last-post-for-a-year-or-2-3f52)
-- [How to Build a Task Manager API with Django REST Framework: Part 7 - API Documentation with OpenAPI and Swagger](https://dev.to/kihuni/how-to-build-a-task-manager-api-with-django-rest-framework-part-7-api-documentation-with-openapi-2fp9)
+- [Neurolov Launches Freedom AI — The World’s First Uncensored AI Chat App](https://dev.to/neurolov_ai_/neurolov-launches-freedom-ai-the-worlds-first-uncensored-ai-chat-app-52ag)
+- [Gamification Strategies in B2B](https://dev.to/freshtech/gamification-strategies-in-b2b-5263)
+- [Unlock the Power of Parsing CSV Files with Python](https://dev.to/swiftproxy_residential/unlock-the-power-of-parsing-csv-files-with-python-32jh)
+- [Fintech 2.0: The New Era of Financial Startups](https://dev.to/jetthoughts/fintech-20-the-new-era-of-financial-startups-260l)
+- [I Built a Neural Network from Scratch Using Only Numpy—Here’s How You Can Too!](https://dev.to/dassomnath99/i-built-a-neural-network-from-scratch-using-only-numpy-heres-how-you-can-too-2d11)
 <!-- BLOG-POST-LIST:END -->
 
 ---
