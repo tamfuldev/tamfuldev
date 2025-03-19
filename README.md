@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Lo Mejor De NestJS](https://dev.to/dragosb/lo-mejor-de-nestjs-5160)
-- [Master Video Resolution Adjustment in Rust with FFmpeg in 3 Minutes](https://dev.to/yeauty/master-video-resolution-adjustment-in-rust-with-ffmpeg-in-3-minutes-3hfd)
-- [Mencegah SQL Injection di Prisma dengan Middleware dan withAccelerare](https://dev.to/wadahkode/mencegah-sql-injection-di-prisma-dengan-middleware-dan-withaccelerare-5foa)
-- [1. Arrays &amp; Hashing: Contains Duplicate](https://dev.to/phaniallamsetty/1-contains-duplicate-51kb)
-- [Anyone Else Tired of Having SSR Shoved Down Their Throats?](https://dev.to/matsilva/anyone-else-tired-of-having-ssr-shoved-down-their-throats-mgi)
+- [Transforming Paper Production - How O3ai Cut OEE Losses by 25%](https://dev.to/leanwitho3aii/transforming-paper-production-how-o3ai-cut-oee-losses-by-25-ibo)
+- [Membuat realtime chat](https://dev.to/wadahkode/membuat-realtime-chat-4ffk)
+- [KPMG’s AI Report Exposes Critical AI Challenges](https://dev.to/falkordb/kpmgs-ai-report-exposes-critical-ai-challenges-4j0l)
+- [DevOps Tools Cheatsheet Collection – Your Ultimate Guide🚀](https://dev.to/prodevopsguytech/devops-tools-cheatsheet-collection-your-ultimate-guide-id6)
+- [[Boost]](https://dev.to/gromnan/-5c9g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
