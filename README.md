@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond chat: Rethinking how we use LLMs](https://dev.to/logrocket/beyond-chat-rethinking-how-we-use-llms-2hf)
-- [𝗥𝗲𝘀𝗼𝗹𝘃𝗶𝗻𝗴 𝘁𝗵𝗲 &quot;𝗗𝗯𝗨𝗽𝗱𝗮𝘁𝗲𝗘𝘅𝗰𝗲𝗽𝘁𝗶𝗼𝗻&quot; 𝗶𝗻 𝗘𝗙 𝗖𝗼𝗿𝗲: 𝗔 𝗤𝘂𝗶𝗰𝗸 𝗙𝗶𝘅!](https://dev.to/supraja_tangella_b7f0738e/--1f05)
-- [Hello Dev.to](https://dev.to/magicodix/hello-devto-46c6)
-- [Week 6 – OOP Practice in C++ &lpar;Day 69–75&rpar;](https://dev.to/adhyanjain2512/week-6-oop-practice-in-c-day-69-75-229c)
-- [Understanding Developer Relations: The Bridge Between Companies and Developers](https://dev.to/blessing_io/understanding-developer-relations-the-bridge-between-companies-and-developers-58k2)
+- [Lo Mejor De NestJS](https://dev.to/dragosb/lo-mejor-de-nestjs-5160)
+- [Master Video Resolution Adjustment in Rust with FFmpeg in 3 Minutes](https://dev.to/yeauty/master-video-resolution-adjustment-in-rust-with-ffmpeg-in-3-minutes-3hfd)
+- [Mencegah SQL Injection di Prisma dengan Middleware dan withAccelerare](https://dev.to/wadahkode/mencegah-sql-injection-di-prisma-dengan-middleware-dan-withaccelerare-5foa)
+- [1. Arrays &amp; Hashing: Contains Duplicate](https://dev.to/phaniallamsetty/1-contains-duplicate-51kb)
+- [Anyone Else Tired of Having SSR Shoved Down Their Throats?](https://dev.to/matsilva/anyone-else-tired-of-having-ssr-shoved-down-their-throats-mgi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
