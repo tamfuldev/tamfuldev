@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [algorithms : intro to sorting algorithms 2 {merge sort and quick sort }](https://dev.to/atoms19/algorithms-1-intro-to-sorting-algorithms-i9p)
-- [From Employee to Entrepreneur: The Identity Shift No One Talks About by Successful Entrepreneurs such as Yasmin Bashirova](https://dev.to/yasminbashirova/from-employee-to-entrepreneur-the-identity-shift-no-one-talks-about-by-successful-entrepreneurs-1p5l)
-- [algorithms : intro to sorting algorithms { insertion sort and selection sort }](https://dev.to/atoms19/algorithms-intro-to-sorting-algorithms-insertion-sort-and-selection-sort--1105)
-- [Correct the mistakes of the character recognition software](https://dev.to/maddiepst/correct-the-mistakes-of-the-character-recognition-software-33gh)
-- [Mastering API Design: The Power of Namespaces and Contracts](https://dev.to/lmlonghuynh/mastering-api-design-the-power-of-namespaces-and-contracts-3cie)
+- [Women’s Survival Equipment: Gear Customized for Her Requirements](https://dev.to/survivalgear837/womens-survival-equipment-gear-customized-for-her-requirements-39a1)
+- [Itinerary Generator for KendoReact challenge](https://dev.to/druntern/itinerary-generator-for-kendoreact-challenge-488p)
+- [&quot;Unlocking Model Faithfulness: The Key to Better AI Interpretability&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-model-faithfulness-the-key-to-better-ai-interpretability-c31)
+- [Call for Contributors](https://dev.to/cjpoulsen/call-for-contributors-3f7e)
+- [Daily JavaScript Challenge #JS-129: Calculate Median of a Number Array](https://dev.to/dpc/daily-javascript-challenge-js-129-calculate-median-of-a-number-array-321g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
