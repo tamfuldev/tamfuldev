@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m new here, please take care of me](https://dev.to/showinbuaoye/im-new-here-please-take-care-of-me-3fjd)
-- [Docker Logs Observability Using Grafana](https://dev.to/daimus/docker-logs-observability-using-grafana-3mf2)
-- [Next-Level CSS: Master Advanced Selectors with Real-World Examples](https://dev.to/teki_solves_fb72717580279/next-level-css-master-advanced-selectors-with-real-world-examples-17h7)
-- [HitPaw VikPea &lpar;HitPaw Video Enhancer&rpar; Expert Review](https://dev.to/quincy_ran_3b6729ca743d1f/hitpaw-vikpea-hitpaw-video-enhancer-expert-review-5061)
-- [React Micro Frontend Architecture – An in Depth Tutorial With Example](https://dev.to/mobisoftinfotech/react-micro-frontend-architecture-an-in-depth-tutorial-with-example-1p4o)
+- [RESTful vs. GraphQL: Which One Should You Choose? 🤔](https://dev.to/hadil/restful-vs-graphql-which-one-should-you-choose-2850)
+- [My Takeaways from Anthropic&#39;s MCP Session](https://dev.to/shaunak_38/my-takeaways-from-anthropics-mcp-session-1olb)
+- [LLMs-txt: Enhancing AI Understanding of Website Content](https://dev.to/foxgem/llms-txt-enhancing-ai-understanding-of-website-content-3gdi)
+- [How to render dynamic data in client side page of nextjs ??](https://dev.to/arman_4b25b03dbcddf8d945a/how-to-render-dynamic-data-in-client-side-page-of-nextjs--1bph)
+- [Beginners on this platform](https://dev.to/sara_f4a532bf7cb/beginners-on-this-platform-3p8m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
