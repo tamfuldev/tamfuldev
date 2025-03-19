@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Neurolov Launches Freedom AI — The World’s First Uncensored AI Chat App](https://dev.to/neurolov_ai_/neurolov-launches-freedom-ai-the-worlds-first-uncensored-ai-chat-app-52ag)
-- [Gamification Strategies in B2B](https://dev.to/freshtech/gamification-strategies-in-b2b-5263)
-- [Unlock the Power of Parsing CSV Files with Python](https://dev.to/swiftproxy_residential/unlock-the-power-of-parsing-csv-files-with-python-32jh)
-- [Fintech 2.0: The New Era of Financial Startups](https://dev.to/jetthoughts/fintech-20-the-new-era-of-financial-startups-260l)
-- [I Built a Neural Network from Scratch Using Only Numpy—Here’s How You Can Too!](https://dev.to/dassomnath99/i-built-a-neural-network-from-scratch-using-only-numpy-heres-how-you-can-too-2d11)
+- [Elixir – Uma Linguagem de Programação para Aplicações Escaláveis](https://dev.to/actor-dev/elixir-uma-linguagem-de-programacao-para-aplicacoes-escalaveis-189o)
+- [Understanding the Structure of a Phoenix LiveView Application](https://dev.to/msnmongare/understanding-the-structure-of-a-phoenix-liveview-application-1l8p)
+- [Handling Azure Key Vault Secret Naming with Umbraco UIBuilder License Configuration](https://dev.to/erikjanwestendorp/handling-azure-key-vault-secret-naming-with-umbraco-uibuilder-license-configuration-ega)
+- [Google’s AI Evolution: Deep Research, Gemini 2.0, and the Battle Against OpenAI](https://dev.to/james_lin_e0b4cf88eff0124/googles-ai-evolution-deep-research-gemini-20-and-the-battle-against-openai-3hdd)
+- [From Idea to Code – The Birth of LMS-G](https://dev.to/benedict_baah/from-idea-to-code-the-birth-of-lms-g-3imo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
