@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Elixir – Uma Linguagem de Programação para Aplicações Escaláveis](https://dev.to/actor-dev/elixir-uma-linguagem-de-programacao-para-aplicacoes-escalaveis-189o)
-- [Understanding the Structure of a Phoenix LiveView Application](https://dev.to/msnmongare/understanding-the-structure-of-a-phoenix-liveview-application-1l8p)
-- [Handling Azure Key Vault Secret Naming with Umbraco UIBuilder License Configuration](https://dev.to/erikjanwestendorp/handling-azure-key-vault-secret-naming-with-umbraco-uibuilder-license-configuration-ega)
-- [Google’s AI Evolution: Deep Research, Gemini 2.0, and the Battle Against OpenAI](https://dev.to/james_lin_e0b4cf88eff0124/googles-ai-evolution-deep-research-gemini-20-and-the-battle-against-openai-3hdd)
-- [From Idea to Code – The Birth of LMS-G](https://dev.to/benedict_baah/from-idea-to-code-the-birth-of-lms-g-3imo)
+- [Ultimate @angular/material update guide - All versions!](https://dev.to/shhdharmen/ultimate-angularmaterial-update-guide-all-versions-453l)
+- [I&#39;m learning React from a &quot;First Principles&quot; approach. I am concerned that a undefined variable can be rendered in root.render; error prone. Would anyone know why is this allowed? root.render&lpar;&rpar;.](https://dev.to/siddhartha_gupta_dc55b628/im-learning-react-from-a-first-principles-approach-i-am-concerned-that-a-undefined-variable-can-5df2)
+- [How Ai workflow Process?](https://dev.to/e77/how-ai-workflow-process-44jd)
+- [How Blockchain Technology is Transforming Web Development](https://dev.to/metablock_seo_b927d38fdbe/how-blockchain-technology-is-transforming-web-development-3hgl)
+- [Unlocking the Power of .NET for Web Development](https://dev.to/zayn27/unlocking-the-power-of-net-for-web-development-4cac)
 <!-- BLOG-POST-LIST:END -->
 
 ---
