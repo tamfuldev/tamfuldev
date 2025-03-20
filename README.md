@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Assisted Coding: The Hype vs. The Hidden Risks](https://dev.to/ash_grover/ai-assisted-coding-the-hype-vs-the-hidden-risks-1560)
-- [Understand HarmonyOS NEXT&#39;s IDE - DevEco Studio](https://dev.to/victordeng/understand-harmonyos-nexts-ide-deveco-studio-jh5)
-- [Why Python is the Best Programming Language for Beginners](https://dev.to/md_saidul_1210/why-python-is-the-best-programming-language-for-beginners-34eg)
-- [HelloWorld](https://dev.to/meghshamkapure/helloworld-3fjc)
-- [Introducing Simulate: A Safer Way to Test Transactions on XRPL](https://dev.to/ripplexdev/introducing-simulate-a-safer-way-to-test-transactions-on-xrpl-1ena)
+- [Optimizing React Apps for Production with Vite](https://dev.to/programmerhasan/optimizing-react-apps-for-production-with-vite-15gi)
+- [How to build a web app core concept](https://dev.to/ishwar_2/how-to-build-a-web-app-core-concept-3jm4)
+- [What are the potential threats of using an Outdated OS](https://dev.to/nightmare-lynx/what-are-the-potential-threats-of-using-an-outdated-os-35nk)
+- [Open-Source Meeting Assistant - Call for collaboration!](https://dev.to/dmitrygrankin/open-source-meeting-assistant-call-for-collaboration-4359)
+- [158/365 | ¥10M Job Challenge - The only way](https://dev.to/kameken100/158365-y10m-job-challenge-the-only-way-289n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
