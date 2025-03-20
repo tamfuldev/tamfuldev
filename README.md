@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The process of creating an effective Application Security Program: Strategies, Practices and tools to maximize results](https://dev.to/lynxfelony1/the-process-of-creating-an-effective-application-security-program-strategies-practices-and-tools-19cb)
-- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-2dfn)
-- [25 Best Retro Fonts for Your Vintage-Inspired Designs](https://dev.to/varun_kelaiya_bd4c50093cc/25-best-retro-fonts-for-your-vintage-inspired-designs-2g08)
-- [Top 10 Highest Paying AWS Certifications in 2025](https://dev.to/babita/top-10-highest-paying-aws-certifications-in-2025-3ee7)
-- [Similar Components with Different Styles in Chakra UI](https://dev.to/ashphy/similar-components-with-different-styles-in-chakra-ui-kj1)
+- [[Boost]](https://dev.to/pragativerma18/-487i)
+- [[Boost]](https://dev.to/ofri_wolfus_38f4979b65436/-31lm)
+- [::before/::after pseudo elements in CSS - A Complete guide](https://dev.to/ritikaagrawal08/beforeafter-pseudo-elements-in-css-a-complete-guide-5852)
+- [Cyclops Launch Week #2](https://dev.to/cyclops-ui/cyclops-launch-week-2-9fa)
+- [Implementing Protected Dashboards Using Node.JS](https://dev.to/bhavyajain/implementing-protected-dashboards-using-nodejs-a7l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
