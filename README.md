@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Here How to Build a Chatbot for Free Using OpenRouter and DeepSeek APIs](https://dev.to/web_dev-usman/here-how-to-build-a-chatbot-for-free-using-openrouter-and-deepseek-apis-492e)
-- [30 Git Commands Every Developer Should Know 🔥](https://dev.to/moibra/30-git-commands-every-developer-should-know-2k6g)
-- [Bloom Filters Applied In Real-Life Application - Laravel Prototype](https://dev.to/abdelrahman_dwedar/bloom-filters-applied-in-real-life-application-laravel-prototype-20i9)
-- [鸿蒙开发：一个轻盈的上拉下拉刷新组件](https://dev.to/abnerming888/hong-meng-kai-fa-ge-qing-ying-de-shang-la-xia-la-shua-xin-zu-jian-5767)
-- [Say Goodbye to Trial &amp; Error: How DoCoreAI Optimizes AI Response Temperature for You](https://dev.to/sajijohn/say-goodbye-to-trial-error-how-docoreai-optimizes-ai-response-temperature-for-you-4og7)
+- [Fitness Functions - O Check-up contínuo de seu Software](https://dev.to/lcoelho_dev/fitness-functions-o-check-up-continuo-de-seu-software-13k4)
+- [What Nobody Tells You About Building a Web App From Scratch](https://dev.to/mr_nova/what-nobody-tells-you-about-building-a-web-app-from-scratch-3heb)
+- [Mastering SQL Server CONTAINS for Advanced Text Search](https://dev.to/dbvismarketing/mastering-sql-server-contains-for-advanced-text-search-2g6d)
+- [Programação Assíncrona na Prática com Kotlin: Exemplos Reais e Otimização](https://dev.to/comunidadedevspace/programacao-assincrona-na-pratica-com-kotlin-exemplos-reais-e-otimizacao-5d30)
+- [JavaFX In Action #18 with Brian Schlining: Annotating the Deep-Sea Wildlife](https://dev.to/fdelporte/javafx-in-action-18-with-brian-schlining-annotating-the-deep-sea-wildlife-44d2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
