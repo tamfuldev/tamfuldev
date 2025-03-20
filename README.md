@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling SGE-Intelligence—A Scholarly Study of AI-Driven Content Optimization in the Search Generative Experience](https://dev.to/arash_mansourpour/unveiling-sge-intelligence-a-scholarly-study-of-ai-driven-content-optimization-in-the-search-158m)
-- [How to containerize an Application](https://dev.to/olalekan_oladiran_d74b7a6/how-to-containerize-an-application-159)
-- [web dev](https://dev.to/james_arias_7248f4e27bbb4/web-dev-3k08)
-- [Developer Diary #29. Time for Change](https://dev.to/kiolk/developer-diary-29-time-for-change-21ck)
-- [How to Pick the Right Tech for Your Startup](https://dev.to/kannandreams/how-to-pick-the-right-tech-for-your-startup-1op5)
+- [JDK 24 New Features Every Java Developer Must Know](https://dev.to/myexamcloud/jdk-24-new-features-every-java-developer-must-know-21dj)
+- [Handling mapping changes in Elasticsearch and reindexing](https://dev.to/ashiqursuperfly/handling-mapping-changes-in-elasticsearch-and-reindexing-i91)
+- [Understanding Time in Go 1/10](https://dev.to/rezmoss/understanding-time-in-go-110-1j85)
+- [Docker Compose](https://dev.to/yuripeixinho/docker-compose-5ec2)
+- [Looking for a Software Developer to Join an AI-Powered Project!](https://dev.to/jtaiq97/looking-for-a-software-developer-to-join-an-ai-powered-project-3haf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
