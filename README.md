@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [News on update 25.11.2022](https://dev.to/labrob2013/news-on-update-25112022-2k24)
-- [Find The Admin Panel](https://dev.to/mr_gamer_c986b59cdb7a24a/find-the-admin-panel-521j)
-- [News on update 23.04.2022](https://dev.to/labrob2013/news-on-update-23042022-4poj)
-- [Group Dynamics: Climbing as a Team for Greater Success](https://dev.to/cesar12/group-dynamics-climbing-as-a-team-for-greater-success-43nj)
-- [News on update 27.07.2021](https://dev.to/labrob2013/news-on-update-27072021-2ipc)
+- [What Is Exception Propagation in Java?](https://dev.to/devmercy/what-is-exception-propagation-in-java-m12)
+- [KendoReact Free Games [5] Hub](https://dev.to/aniruddhaadak/kendoreact-free-games-5-hub-2goo)
+- [What’s the Difference Between Relational Databases and NoSQL?](https://dev.to/izabellalbuquerque/whats-the-difference-between-relational-databases-and-nosql-j00)
+- [The Motives Driving My Change from React to Flutter &lpar;While Preserving Both&rpar;](https://dev.to/techifydev/the-motives-driving-my-change-from-react-to-flutter-while-preserving-both-15d4)
+- [Mastering Cypress for Responsive Web Testing: The Ultimate Guide](https://dev.to/raju_dandigam/mastering-cypress-for-responsive-web-testing-the-ultimate-guide-1ife)
 <!-- BLOG-POST-LIST:END -->
 
 ---
