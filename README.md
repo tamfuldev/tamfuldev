@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [NocoBase Weekly Updates: Optimize the columns and operations of table block](https://dev.to/nocobase/nocobase-weekly-updates-optimize-the-columns-and-operations-of-table-block-4d6j)
-- [How To Fix the import.meta.env Error in a Vite + Jest Setup](https://dev.to/zubair_hossain_23250966ec/how-to-fix-the-importmetaenv-error-in-a-vite-jest-setup-12o1)
-- [Building a Ruby on Rails Chat Application with ActionCable and Heroku](https://dev.to/reinteractive/building-a-ruby-on-rails-chat-application-with-actioncable-and-heroku-4mpa)
-- [Explore BS 476 - 4 Non-combustibility test for building materials](https://dev.to/rebecca_zhang_53170276935/explore-bs-476-4-non-combustibility-test-for-building-materials-a09)
-- [MMAudio Full Tutorial — Open Source AI Audio Generator for Videos — Useful for Games and AI Videos](https://dev.to/furkangozukara/mmaudio-full-tutorial-open-source-ai-audio-generator-for-videos-useful-for-games-and-ai-videos-aga)
+- [Day-01: Java and Spring boot](https://dev.to/e00049/day-01-java-and-spring-boot-1jke)
+- [HarmonyOS NEXT 实战系列10-网络通信](https://dev.to/zhousg/harmonyos-next-shi-zhan-xi-lie-10-wang-luo-tong-xin-4c53)
+- [HarmonyOS NEXT 实战系列09-生命周期](https://dev.to/zhousg/harmonyos-next-shi-zhan-xi-lie-09-sheng-ming-zhou-qi-3724)
+- [HarmonyOS NEXT 实战系列08-案例微博导航设置](https://dev.to/zhousg/harmonyos-next-shi-zhan-xi-lie-08-an-li-wei-bo-dao-hang-she-zhi-lbh)
+- [New Video Alert: How to Provision a Web Server in AWS | Step-by-Step Guide](https://dev.to/saint_vandora/new-video-alert-how-to-provision-a-web-server-in-aws-step-by-step-guide-1fhb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
