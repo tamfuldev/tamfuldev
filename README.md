@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Adventures of Blink S3e3: Branching into the Git Multiverse](https://dev.to/linkbenjamin/the-adventures-of-blink-s3e3-branching-into-the-git-multiverse-1mgc)
-- [Anticipating User Errors in Web](https://dev.to/thanksboss/anticipating-user-errors-in-web-3nbc)
-- [[Boost]](https://dev.to/chrisvxd/-1bi7)
-- [The Rise of Vibe Coding: How AI is Changing the Way We Write Code](https://dev.to/mentorsol/the-rise-of-vibe-coding-how-ai-is-changing-the-way-we-write-code-198k)
-- [AICoinFlow: The AI-Based Trading App for New and Experienced Users Introduction](https://dev.to/techno_insights_d8b5bd951/aicoinflow-the-ai-based-trading-app-for-new-and-experienced-usersintroduction-13f3)
+- [The process of creating an effective Application Security Program: Strategies, Practices and tools to maximize results](https://dev.to/lynxfelony1/the-process-of-creating-an-effective-application-security-program-strategies-practices-and-tools-19cb)
+- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-2dfn)
+- [25 Best Retro Fonts for Your Vintage-Inspired Designs](https://dev.to/varun_kelaiya_bd4c50093cc/25-best-retro-fonts-for-your-vintage-inspired-designs-2g08)
+- [Top 10 Highest Paying AWS Certifications in 2025](https://dev.to/babita/top-10-highest-paying-aws-certifications-in-2025-3ee7)
+- [Similar Components with Different Styles in Chakra UI](https://dev.to/ashphy/similar-components-with-different-styles-in-chakra-ui-kj1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
