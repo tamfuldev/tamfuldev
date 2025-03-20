@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Fitness Functions - O Check-up contínuo de seu Software](https://dev.to/lcoelho_dev/fitness-functions-o-check-up-continuo-de-seu-software-13k4)
-- [What Nobody Tells You About Building a Web App From Scratch](https://dev.to/mr_nova/what-nobody-tells-you-about-building-a-web-app-from-scratch-3heb)
-- [Mastering SQL Server CONTAINS for Advanced Text Search](https://dev.to/dbvismarketing/mastering-sql-server-contains-for-advanced-text-search-2g6d)
-- [Programação Assíncrona na Prática com Kotlin: Exemplos Reais e Otimização](https://dev.to/comunidadedevspace/programacao-assincrona-na-pratica-com-kotlin-exemplos-reais-e-otimizacao-5d30)
-- [JavaFX In Action #18 with Brian Schlining: Annotating the Deep-Sea Wildlife](https://dev.to/fdelporte/javafx-in-action-18-with-brian-schlining-annotating-the-deep-sea-wildlife-44d2)
+- [Advanced Docker](https://dev.to/bhavyajain/advanced-docker-2jee)
+- [One giant Kubernetes cluster for everything](https://dev.to/loft/one-giant-kubernetes-cluster-for-everything-1bm6)
+- [How To Create a CI/CD Using AWS Elastic BeanStalk](https://dev.to/ijay/how-to-create-a-cicd-using-aws-elastic-beanstalk-15nh)
+- [Mastering Action and Func Delegates in C#: Real-World Patterns and Examples](https://dev.to/stevsharp/mastering-action-and-func-delegates-in-c-real-world-patterns-and-examples-5ggp)
+- [Codestarter fase 4 &lpar;final&rpar;](https://dev.to/xwero/codestarter-fase-4-final-1jao)
 <!-- BLOG-POST-LIST:END -->
 
 ---
