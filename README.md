@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Docker](https://dev.to/bhavyajain/advanced-docker-2jee)
-- [One giant Kubernetes cluster for everything](https://dev.to/loft/one-giant-kubernetes-cluster-for-everything-1bm6)
-- [How To Create a CI/CD Using AWS Elastic BeanStalk](https://dev.to/ijay/how-to-create-a-cicd-using-aws-elastic-beanstalk-15nh)
-- [Mastering Action and Func Delegates in C#: Real-World Patterns and Examples](https://dev.to/stevsharp/mastering-action-and-func-delegates-in-c-real-world-patterns-and-examples-5ggp)
-- [Codestarter fase 4 &lpar;final&rpar;](https://dev.to/xwero/codestarter-fase-4-final-1jao)
+- [Kubernetes GitOps with FluxCD - Part 2 - Secret Management using SOPS](https://dev.to/kiriapurv/kubernetes-gitops-with-fluxcd-part-2-secret-management-using-sops-4k6k)
+- [VSCode IntelliSense Broken in Tailwind CSS v4? Here’s the Solution](https://dev.to/mrpaulishaili/vscode-intellisense-broken-in-tailwind-css-v4-heres-the-solution-4d5)
+- [Why Deepseek Server is Busy? Quick fix!](https://dev.to/_37bbf0c253c0b3edec531e/why-deepseek-server-is-busy-quick-fix-58ak)
+- [Mastering JavaScript Variables: var, let, and const](https://dev.to/ebereplenty/mastering-javascript-variables-var-let-and-const-4hh7)
+- [please star it](https://dev.to/rudransh61/please-star-it-4c32)
 <!-- BLOG-POST-LIST:END -->
 
 ---
