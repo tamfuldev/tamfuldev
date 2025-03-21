@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Complexity in Data Structures](https://dev.to/priya_naik_513dae9128e2a9/understanding-complexity-in-data-structures-1me6)
-- [CCIE Certification Cost: A Complete Guide for 2025](https://dev.to/rohan_jee_085655230/ccie-certification-cost-a-complete-guide-for-2025-237p)
-- [[Boost]](https://dev.to/sauain/-4gno)
-- [Game Dev Digest — Issue #274 - A Look Ahead](https://dev.to/gamedevdigest/game-dev-digest-issue-274-a-look-ahead-5fn3)
-- [Either-like Monads to automate Feature Toggles](https://dev.to/sqreder/either-like-monads-to-automate-feature-toggles-a6c)
+- [DumbQL: A Simplified Query Language for Go Applications](https://dev.to/tomakado/dumbql-a-simplified-query-language-for-go-applications-4bef)
+- [game ideas do it if you can haha](https://dev.to/hur1el/game-ideas-do-it-if-you-can-haha-3po3)
+- [Blockchain Security: How AI Helps Prevent Hacks](https://dev.to/joinwithken/blockchain-security-how-ai-helps-prevent-hacks-1i3h)
+- [A, AAAA, CNAME, NS — Use Cases of Basic DNS Record Types](https://dev.to/kradasa4/a-aaaa-cname-ns-use-cases-of-basic-dns-record-types-1oe6)
+- [Wireframe vs Prototype vs Mockup - What’s the Difference?](https://dev.to/taskframe_team/wireframe-vs-prototype-vs-mockup-whats-the-difference-54p4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
