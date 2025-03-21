@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Unlocking Visual Intelligence: The Power of the TULIP Model in AI&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-visual-intelligence-the-power-of-the-tulip-model-in-ai-4aka)
-- [Implementing Access Control System for Microservices Using OPA](https://dev.to/bmf_san/implementing-access-control-system-for-microservices-using-opa-1c2i)
-- [Daily JavaScript Challenge #JS-131: String Compression](https://dev.to/dpc/daily-javascript-challenge-js-131-string-compression-151i)
-- [Content Strategy for Startups: Storytelling as a Growth Driver](https://dev.to/bekahhw/content-strategy-for-startups-storytelling-as-a-growth-driver-9a9)
-- [How does BCrypt Verification work?](https://dev.to/ilyasa1211/how-does-bcrypt-verification-work-g19)
+- [Top 4 Open Source Products to Help You Avoid Hidden Costs in Low-Code Platforms](https://dev.to/nocobase/top-4-open-source-products-to-help-you-avoid-hidden-costs-in-low-code-platforms-158j)
+- [FluxCD Helm Repository - chart pull error: 401](https://dev.to/rajesh_n_6a3ae85da2f1b2f3/fluxcd-helm-repository-chart-pull-error-401-5eoe)
+- [A Curated List of shadcn/ui-like React Component Collections](https://dev.to/keitam83/a-curated-list-of-shadcnui-like-react-component-collections-44pa)
+- [🏎️ Faster, Cheaper, Better: The Power of Model Routing](https://dev.to/mrzaizai2k/faster-cheaper-better-the-power-of-model-routing-3n14)
+- [Building useDebugLogger – A Custom React Hook to Log Component and Method Execution Time](https://dev.to/yassinek/building-usedebuglogger-a-custom-react-hook-to-log-component-and-method-execution-time-7b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
