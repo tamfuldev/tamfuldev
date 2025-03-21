@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top 4 Open Source Products to Help You Avoid Hidden Costs in Low-Code Platforms](https://dev.to/nocobase/top-4-open-source-products-to-help-you-avoid-hidden-costs-in-low-code-platforms-158j)
-- [FluxCD Helm Repository - chart pull error: 401](https://dev.to/rajesh_n_6a3ae85da2f1b2f3/fluxcd-helm-repository-chart-pull-error-401-5eoe)
-- [A Curated List of shadcn/ui-like React Component Collections](https://dev.to/keitam83/a-curated-list-of-shadcnui-like-react-component-collections-44pa)
-- [🏎️ Faster, Cheaper, Better: The Power of Model Routing](https://dev.to/mrzaizai2k/faster-cheaper-better-the-power-of-model-routing-3n14)
-- [Building useDebugLogger – A Custom React Hook to Log Component and Method Execution Time](https://dev.to/yassinek/building-usedebuglogger-a-custom-react-hook-to-log-component-and-method-execution-time-7b)
+- [How to Fix Shopee Email Verification Issues: A Quick Guide for Sellers](https://dev.to/mindlily/how-to-fix-shopee-email-verification-issues-a-quick-guide-for-sellers-2mfd)
+- [Understanding Assignment Operators in JavaScript: From Basics to Advanced Concepts](https://dev.to/coder_studios/understanding-assignment-operators-in-javascript-from-basics-to-advanced-concepts-34e0)
+- [Testing Basics: How Do You Prioritize Manual vs Automated Testing?](https://dev.to/radha_4c842d8e4362a7cdd9c/testing-basics-how-do-you-prioritize-manual-vs-automated-testing-eaa)
+- [Difference between null, undefined and not defined in javascript](https://dev.to/coder_studios/difference-between-null-undefined-and-not-defined-in-javascript-2ke)
+- [JavaScript String and Variable Basics Questions](https://dev.to/coder_studios/javascript-string-and-variable-basics-questions-116c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
