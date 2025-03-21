@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Accessing Amazon EKS from a Jumphost using Access Entries](https://dev.to/jajera/accessing-amazon-eks-from-a-jumphost-using-access-entries-4836)
-- [React Clean Architecture](https://dev.to/shpend_rrustemi_ae3bd4934/react-clean-architecture-4leo)
-- [This is a fantastic, concise guide to essential JavaScript debugging techniques](https://dev.to/kevin_asutton_/this-is-a-fantastic-concise-guide-to-essential-javascript-debugging-techniques-1lgn)
-- [This sounds like a goldmine for DevOps enthusiasts! Practical insights and real-world examples, especially covering Kubernetes, Terraform, and Vault, are highly valuable. I&#39;m definitely checking out the article for those hands-on tips and VSCode setups.](https://dev.to/kevin_asutton_/this-sounds-like-a-goldmine-for-devops-enthusiasts-practical-insights-and-real-world-examples-4oc4)
-- [React Deep Dive: Mastering useRef for Enhanced Control and Performance](https://dev.to/theaydev/react-deep-dive-mastering-useref-for-enhanced-control-and-performance-24g)
+- [Thought Management: My Journey to a New Way of Organizing My Mind](https://dev.to/vic_ako/thought-management-my-journey-to-a-new-way-of-organizing-my-mind-i45)
+- [Top 7 API Documentation Tools of 2025](https://dev.to/tiffany-mintlify/top-7-api-documentation-tools-of-2025-402j)
+- [Herzena – Natural Support for Cardiovascular Health](https://dev.to/chunkofhealth/herzena-natural-support-for-cardiovascular-health-144m)
+- [Understanding Newborn Spitting Up with Healthcare Professionals like Marlene Junker: Causes and Solutions for Infant Reflux](https://dev.to/marlenejunker01/understanding-newborn-spitting-up-with-healthcare-professionals-like-marlene-junker-causes-and-5fbb)
+- [Mastering Git Commit Messages: A Guide to Effective Version Control](https://dev.to/theaydev/mastering-git-commit-messages-a-guide-to-effective-version-control-hgo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
