@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Taming the Gopher: Best Practices for Structured Go Code 🐹](https://dev.to/tavernetech/taming-the-gopher-best-practices-for-structured-go-code-2idf)
-- [Stop Wasting Time on These Outdated Tech Skills in 2025](https://dev.to/mr_nova/stop-wasting-time-on-these-outdated-tech-skills-in-2025-1dp)
-- [Ubuntu Server: Easy Fastest Repository Mirror Script](https://dev.to/ijash/ubuntu-server-easy-fastest-repository-mirror-script-319i)
-- [How Web Crawlers Help Shape the Web’s Structure](https://dev.to/swiftproxy_residential/how-web-crawlers-help-shape-the-webs-structure-2d02)
-- [How to query CSV as a database table in Java with esProc](https://dev.to/esproc_spl/how-to-query-csv-as-a-database-table-in-java-with-esproc-34mh)
+- [CSS Shadow Generator For Everyone 🔥](https://dev.to/hanzla-baig/css-shadow-generator-for-everyone-1adn)
+- [🔥 CSS Shadow Generator | Happy Coding](https://dev.to/hanzla-baig/css-shadow-generator-happy-coding-1phn)
+- [What’s Inside the Best Open-Source General AI Agent?](https://dev.to/camelai/whats-inside-the-best-open-source-general-ai-agent-433f)
+- [How to use Raspberry Pi as a 1080P IP camera](https://dev.to/carolineee/how-to-use-raspberry-pi-as-a-1080p-ip-camera-437f)
+- [Concurrency in Java: A Guide for Beginners!](https://dev.to/amehpls/concurrency-in-java-a-guide-for-beginners-561e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
