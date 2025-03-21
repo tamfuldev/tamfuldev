@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up AWS S3 with Django](https://dev.to/ewan/setting-up-aws-s3-with-django-3h34)
-- [Navigating Compliance and Regulations in AI on the Edge Deployments](https://dev.to/smart_data_/navigating-compliance-and-regulations-in-ai-on-the-edge-deployments-occ)
-- [The best visual explanation &lpar;probably&rpar; of the Event Loop in JavaScript.](https://dev.to/hromium/the-best-visual-explanation-probably-of-the-event-loop-in-javascript-10pa)
-- [Simple Encryption Solutions with Zexson Toolkit](https://dev.to/signor_p/simple-encryption-solutions-with-zexson-toolkit-cld)
-- [Firebase Data Connect explained: Flutter perspective.](https://dev.to/odinachi/firebase-data-connect-explained-flutter-perspective-4e20)
+- [Understanding Complexity in Data Structures](https://dev.to/priya_naik_513dae9128e2a9/understanding-complexity-in-data-structures-1me6)
+- [CCIE Certification Cost: A Complete Guide for 2025](https://dev.to/rohan_jee_085655230/ccie-certification-cost-a-complete-guide-for-2025-237p)
+- [[Boost]](https://dev.to/sauain/-4gno)
+- [Game Dev Digest — Issue #274 - A Look Ahead](https://dev.to/gamedevdigest/game-dev-digest-issue-274-a-look-ahead-5fn3)
+- [Either-like Monads to automate Feature Toggles](https://dev.to/sqreder/either-like-monads-to-automate-feature-toggles-a6c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
