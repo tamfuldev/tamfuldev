@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Buenas prácticas para escribir commits en Git con Conventional Commits](https://dev.to/johnserranodev/buenas-practicas-para-escribir-commits-en-git-con-conventional-commits-44jm)
-- [Understanding Type Declarations, Package Initialization, Basic Data Types, Complex Numbers, UTF-8, and iota in Go](https://dev.to/l_walid/understanding-type-declarations-package-initialization-basic-data-types-complex-numbers-utf-8-4eaa)
-- [I made full-stack templates with 4 backend frameworks](https://dev.to/justinjoco/i-made-full-stack-templates-with-4-backend-frameworks-fd7)
-- [Lab 5 &lpar;AArch64&rpar; - 64-Bit Assembly Language Lab](https://dev.to/jurozaw/lab-5-aarch64-64-bit-assembly-language-lab-40am)
-- [Introduction to Go: Variables, Pointers, Memory Allocation, and Assignments](https://dev.to/l_walid/introduction-to-go-variables-pointers-memory-allocation-and-assignments-4h47)
+- [💻 Lista de Exercícios Básicos em Java 🚀 - Part 8](https://dev.to/vitorpaiola/lista-de-exercicios-basicos-em-java-part-8-35bm)
+- [AI Runner v3.3 is now under Apache 2.0](https://dev.to/w4ffl35/ai-runner-v33-is-now-under-apache-20-138n)
+- [Desentrañando un pergamino de 2000 años con Inteligencia Artificial](https://dev.to/briansuarezsantiago/desentranando-un-pergamino-de-2000-anos-con-inteligencia-artificial-4dp8)
+- [Building Autonomous AI Agents with DeepSeek, LangChain, and AWS Lambda](https://dev.to/sohagmahamud/building-autonomous-ai-agents-with-deepseek-langchain-and-aws-lambda-1ho6)
+- [Advanced Text Matching and Fuzzy Comparison for Data Professionals](https://dev.to/mokhtarebrahim/advanced-text-matching-and-fuzzy-comparison-for-data-professionals-3f8e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
