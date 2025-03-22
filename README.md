@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps Made Simple: A Beginner’s Guide to DevSecOps in Action - Securing Your CI/CD Pipeline](https://dev.to/yash_sonawane25/devops-made-simple-a-beginners-guide-to-devsecops-in-action-securing-your-cicd-pipeline-39i1)
-- [115 Awesome MCP Servers You Cannot Miss Out in 2025](https://dev.to/lynn_mikami_e94e5b9ad7daf/115-awesome-mcp-servers-you-cannot-miss-out-in-2025-5m3)
-- [🤖 Automating .NET Development: AI-Generated Projects Inside Visual Studio](https://dev.to/anup_kumar_51d4c4360384d4/automating-net-development-ai-generated-projects-inside-visual-studio-48j3)
-- [Android Architecture Components: ViewModel, Lifecycle.](https://dev.to/harsh_lade/android-architecture-components-viewmodel-lifecycle-25nl)
-- [Contacts Application with Microservices and Asynchronous Communication with RabbitMQ](https://dev.to/agitrubard/contacts-application-with-microservices-and-asynchronous-communication-with-rabbitmq-2bc1)
+- [What You Need to Know About HTTP Cookies](https://dev.to/swiftproxy_residential/what-you-need-to-know-about-http-cookies-4jce)
+- [Supervised Learning for Image Recognition: How It Works](https://dev.to/aditya_tripathi_17ffee7f5/supervised-learning-for-image-recognition-how-it-works-5h33)
+- [Custom User AUTH/Z for Strimzi Kafka: Integrating Your Corporate CERTIFICATE AUTHORITY Certs with Strimzi KAFKA](https://dev.to/sreejesh/custom-user-authz-for-strimzi-kafka-integrating-your-corporate-certificate-authority-certs-with-1amk)
+- [How to Use Proxies in Process Mining](https://dev.to/swiftproxy_residential/how-to-use-proxies-in-process-mining-437h)
+- [Optimizing JavaScript Event Handling: Bubbling and Delegation](https://dev.to/satyaveer_jaligama/optimizing-javascript-event-handling-bubbling-and-delegation-2681)
 <!-- BLOG-POST-LIST:END -->
 
 ---
