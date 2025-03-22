@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Thought Management: My Journey to a New Way of Organizing My Mind](https://dev.to/vic_ako/thought-management-my-journey-to-a-new-way-of-organizing-my-mind-i45)
-- [Top 7 API Documentation Tools of 2025](https://dev.to/tiffany-mintlify/top-7-api-documentation-tools-of-2025-402j)
-- [Herzena – Natural Support for Cardiovascular Health](https://dev.to/chunkofhealth/herzena-natural-support-for-cardiovascular-health-144m)
-- [Understanding Newborn Spitting Up with Healthcare Professionals like Marlene Junker: Causes and Solutions for Infant Reflux](https://dev.to/marlenejunker01/understanding-newborn-spitting-up-with-healthcare-professionals-like-marlene-junker-causes-and-5fbb)
-- [Mastering Git Commit Messages: A Guide to Effective Version Control](https://dev.to/theaydev/mastering-git-commit-messages-a-guide-to-effective-version-control-hgo)
+- [Memory Cache vs Semantic Cache en AI Agentics: ¿Cuál usar y cuándo?](https://dev.to/exiadev/memory-cache-vs-semantic-cache-en-ai-agentics-cual-usar-y-cuando-3e4n)
+- [Daily JavaScript Challenge #JS-132: Find Majority Element in an Array](https://dev.to/dpc/daily-javascript-challenge-js-132-find-majority-element-in-an-array-2fj)
+- [Signals in Python: How reaktiv brings Feline Reflexes to Your Backend Code](https://dev.to/buiapp/signals-in-python-how-reaktiv-brings-feline-reflexes-to-your-backend-code-1m8b)
+- [Cómo hacer un buen Makefile](https://dev.to/djsurgeon/como-hacer-un-buen-makefile-2pol)
+- [AugMix in PyTorch &lpar;5&rpar;](https://dev.to/hyperkai/augmix-in-pytorch-5-3iag)
 <!-- BLOG-POST-LIST:END -->
 
 ---
