@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🔐 Understanding JWT Authentication: A Complete Guide](https://dev.to/matin676/understanding-jwt-authentication-a-complete-guide-4j8b)
-- [The Revenue Cost of Downtime: Proactive Monitoring for Critical Systems](https://dev.to/tomcao2012/the-revenue-cost-of-downtime-proactive-monitoring-for-critical-systems-jic)
-- [AI in Everyday Life: Enhancing Efficiency Without Replacing Humans](https://dev.to/johnberl_keerababon_8fcd/ai-in-everyday-life-enhancing-efficiency-without-replacing-humans-3g88)
-- [Raspberry Pi 5 Music Genre Classification](https://dev.to/adolfo-david-romero/raspberry-pi-5-music-genre-classification-ceb)
-- [ReST: Not a Silver Bullet](https://dev.to/justcatdev/rest-not-a-silver-bullet-257i)
+- [Contacts Application with Microservices and Asynchronous Communication with RabbitMQ](https://dev.to/agitrubard/contacts-application-with-microservices-and-asynchronous-communication-with-rabbitmq-2bc1)
+- [Queen Bee Syndrome &amp; Me: Navigating internalised misogyny](https://dev.to/sophiekaelin/what-is-queen-bee-syndrome-14gh)
+- [A Hidden Character Mystery](https://dev.to/abbazs/a-hidden-character-mystery-43d9)
+- [Monolithic vs Microservices Architecture: Which One Should You Choose?](https://dev.to/tejmul_movin_707c8bc5690a/monolithic-vs-microservices-architecture-which-one-should-you-choose-11je)
+- [How to Reduce Friction in Learning New Technologies as a Software Engineer](https://dev.to/jps27cse/how-to-reduce-friction-in-learning-new-technologies-as-a-software-engineer-2ph3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
