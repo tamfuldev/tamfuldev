@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Favorite MCP Directories](https://dev.to/techgirl1908/my-favorite-mcp-directories-573n)
-- [7.6 Liste apenas os pontos de todos os usuários com o map](https://dev.to/fundamentosjava/76-liste-apenas-os-pontos-de-todos-os-usuarios-com-o-map-3hf5)
-- [Vibe Coding a Web Pong Game with poorcoder and Grok](https://dev.to/vgrichina/vibe-coding-a-web-pong-game-with-poorcoder-and-grok-o17)
-- [鸿蒙开发：了解分割线](https://dev.to/abnerming888/hong-meng-kai-fa-liao-jie-fen-ge-xian-5h08)
-- [Great, easy-to-follow content!](https://dev.to/vsm1996/great-easy-to-follow-content-5b56)
+- [Beginner Series #3 Sum of Numbers](https://dev.to/maddiepst/beginner-series-3-sum-of-numbers-2ie)
+- [Re-Evaluating My JourneySkill Idea: New Features for a Better Experience](https://dev.to/ashraful__malik/re-evaluating-my-journeyskill-idea-new-features-for-a-better-experience-2ml7)
+- [Ethical AI Testing: Ensuring Fairness and Bias-Free Models](https://dev.to/anil_csimplifyit_905c/ethical-ai-testing-ensuring-fairness-and-bias-free-models-1ooi)
+- [Periodic table of DevSecOps](https://dev.to/iamsahithya/periodic-table-of-devsecops-cak)
+- [Precision Prompting: How to Get AI to Say Exactly What You Need](https://dev.to/rijultp/precision-prompting-how-to-get-ai-to-say-exactly-what-you-need-3ec3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
