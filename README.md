@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Driven DevOps, Cloud Transformation, and Cybersecurity in Project Management](https://dev.to/md_anwer_8f8bcb4292aa6095/ai-driven-devops-cloud-transformation-and-cybersecurity-in-project-management-1g0h)
-- [O que eu gostaria de ter aprendido sobre rotas no Rails lá no início](https://dev.to/dnovais/o-que-eu-gostaria-de-ter-aprendido-sobre-rotas-no-rails-la-no-inicio-9f8)
-- [🌐 RadhaSphere Wallet — A Futuristic Multi-Chain AI Web3 Wallet](https://dev.to/omniradhanexus/radhasphere-wallet-a-futuristic-multi-chain-ai-web3-wallet-h5i)
-- [JokeGene: A Playful AI-Powered Joke App Built with KendoReact](https://dev.to/emre_tuutlu_08ce2d50db0b/jokegene-a-playful-ai-powered-joke-app-built-with-kendoreact-5e2c)
-- [SAME.DEV sucks](https://dev.to/whirl/samedev-sucks-18e4)
+- [Libraryware: Revolutionizing Library Management](https://dev.to/sofia-tech/libraryware-revolutionizing-library-management-3gmk)
+- [AWS Service Reference Information MCP Server: how up-to-date, scoped, reference data helps deliver better answers.](https://dev.to/psantus/aws-service-reference-information-mcp-server-how-up-to-date-scoped-reference-data-helps-deliver-gkk)
+- [[Boost]](https://dev.to/nivafy/-52cc)
+- [Boost React Performance and User Experience with Keyboard Shortcuts](https://dev.to/xenral/boost-react-performance-and-user-experience-with-keyboard-shortcuts-5242)
+- [PHP PSRs : PSR-4 Autoloader](https://dev.to/xxzeroxx/php-psrs-psr-4-autoloader-58ko)
 <!-- BLOG-POST-LIST:END -->
 
 ---
