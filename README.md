@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Memory Cache vs Semantic Cache en AI Agentics: ¿Cuál usar y cuándo?](https://dev.to/exiadev/memory-cache-vs-semantic-cache-en-ai-agentics-cual-usar-y-cuando-3e4n)
-- [Daily JavaScript Challenge #JS-132: Find Majority Element in an Array](https://dev.to/dpc/daily-javascript-challenge-js-132-find-majority-element-in-an-array-2fj)
-- [Signals in Python: How reaktiv brings Feline Reflexes to Your Backend Code](https://dev.to/buiapp/signals-in-python-how-reaktiv-brings-feline-reflexes-to-your-backend-code-1m8b)
-- [Cómo hacer un buen Makefile](https://dev.to/djsurgeon/como-hacer-un-buen-makefile-2pol)
-- [AugMix in PyTorch &lpar;5&rpar;](https://dev.to/hyperkai/augmix-in-pytorch-5-3iag)
+- [Applicant Registration Form](https://dev.to/daudmabena/applicant-registration-form-4d1g)
+- [Agentic Coding: The Most Fun Way to Build LLM Apps!](https://dev.to/zachary62/agentic-coding-the-most-fun-way-to-build-llm-apps-5p1)
+- [🚀 Building Real-World Solutions as a Frontend Developer](https://dev.to/umairarshad-dev/building-real-world-solutions-as-a-frontend-developer-p7b)
+- [Dev Journey: A Collection of Insights and Learnings](https://dev.to/ramkumar-m-n/dev-journey-a-collection-of-insights-and-learnings-56og)
+- [Designing AI-Driven Self-Reflection: Beyond Mood Tracking](https://dev.to/shoutzu_han_a327ff8a7342/designing-ai-driven-self-reflection-beyond-mood-tracking-g16)
 <!-- BLOG-POST-LIST:END -->
 
 ---
