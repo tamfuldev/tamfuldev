@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Containerizing a Node.js Application with Docker](https://dev.to/busa/containerizing-a-nodejs-application-with-docker-3oce)
-- [Any designers here who are looking to start a bit of coding?](https://dev.to/sujans/any-designers-here-who-are-looking-to-start-a-bit-of-coding-4fa1)
-- [Today&#39;s AI Updates](https://dev.to/devsk001/todays-ai-updates-mn9)
-- [You might be overusing Vim visual mode 🤯](https://dev.to/m4xshen/you-might-be-overusing-vim-visual-mode-434h)
-- [How Netflix Stores 140 Million Hours of Viewing Data Per Day PART-3](https://dev.to/devsk001/how-netflix-stores-140-million-hours-of-viewing-data-per-day-part-3-2mo0)
+- [Introducing AWS Service Reference Information MCP Server](https://dev.to/aws-builders/introducing-aws-service-reference-information-mcp-server-15g5)
+- [Blogging Tools](https://dev.to/vakin_mosa_009/blogging-tools-3l2j)
+- [Digital Clocks in CSS](https://dev.to/madsstoumann/digital-clocks-in-css-3dkg)
+- [Top 5 Wireframing Tools for Designers and Developers](https://dev.to/taskframe_team/top-5-wireframing-tools-for-designers-and-developers-3k43)
+- [I added some input loading functions for the neural web](https://dev.to/okerew/i-added-some-input-loading-functions-for-the-neural-web-2jdn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
