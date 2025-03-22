@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Applicant Registration Form](https://dev.to/daudmabena/applicant-registration-form-4d1g)
-- [Agentic Coding: The Most Fun Way to Build LLM Apps!](https://dev.to/zachary62/agentic-coding-the-most-fun-way-to-build-llm-apps-5p1)
-- [🚀 Building Real-World Solutions as a Frontend Developer](https://dev.to/umairarshad-dev/building-real-world-solutions-as-a-frontend-developer-p7b)
-- [Dev Journey: A Collection of Insights and Learnings](https://dev.to/ramkumar-m-n/dev-journey-a-collection-of-insights-and-learnings-56og)
-- [Designing AI-Driven Self-Reflection: Beyond Mood Tracking](https://dev.to/shoutzu_han_a327ff8a7342/designing-ai-driven-self-reflection-beyond-mood-tracking-g16)
+- [My Favorite MCP Directories](https://dev.to/techgirl1908/my-favorite-mcp-directories-573n)
+- [7.6 Liste apenas os pontos de todos os usuários com o map](https://dev.to/fundamentosjava/76-liste-apenas-os-pontos-de-todos-os-usuarios-com-o-map-3hf5)
+- [Vibe Coding a Web Pong Game with poorcoder and Grok](https://dev.to/vgrichina/vibe-coding-a-web-pong-game-with-poorcoder-and-grok-o17)
+- [鸿蒙开发：了解分割线](https://dev.to/abnerming888/hong-meng-kai-fa-liao-jie-fen-ge-xian-5h08)
+- [Great, easy-to-follow content!](https://dev.to/vsm1996/great-easy-to-follow-content-5b56)
 <!-- BLOG-POST-LIST:END -->
 
 ---
