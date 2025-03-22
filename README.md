@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Wait? JavaScript Asynchronous Code](https://dev.to/lovestaco/why-wait-javascript-asynchronous-code-307o)
-- [How to Detect AdBlock/AdBlockPlus Activation Status with JavaScript](https://dev.to/kai000/how-to-detect-adblockadblockplus-activation-status-with-javascript-3fad)
-- [GraphQL + NestJS + Interfaces &amp; Unions](https://dev.to/kasir-barati/graphql-nestjs-interfaces-unions-3794)
-- [2685. Count the Number of Complete Components](https://dev.to/mdarifulhaque/2685-count-the-number-of-complete-components-1j33)
-- [Single Responsibility Principle in C#: Writing Classes That Do One Thing Well](https://dev.to/sathish/single-responsibility-principle-in-c-writing-classes-that-do-one-thing-well-3coj)
+- [AI-Driven DevOps, Cloud Transformation, and Cybersecurity in Project Management](https://dev.to/md_anwer_8f8bcb4292aa6095/ai-driven-devops-cloud-transformation-and-cybersecurity-in-project-management-1g0h)
+- [O que eu gostaria de ter aprendido sobre rotas no Rails lá no início](https://dev.to/dnovais/o-que-eu-gostaria-de-ter-aprendido-sobre-rotas-no-rails-la-no-inicio-9f8)
+- [🌐 RadhaSphere Wallet — A Futuristic Multi-Chain AI Web3 Wallet](https://dev.to/omniradhanexus/radhasphere-wallet-a-futuristic-multi-chain-ai-web3-wallet-h5i)
+- [JokeGene: A Playful AI-Powered Joke App Built with KendoReact](https://dev.to/emre_tuutlu_08ce2d50db0b/jokegene-a-playful-ai-powered-joke-app-built-with-kendoreact-5e2c)
+- [SAME.DEV sucks](https://dev.to/whirl/samedev-sucks-18e4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
