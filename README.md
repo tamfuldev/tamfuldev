@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [On Surviving Difficult Managers](https://dev.to/imtiaz101325/on-surviving-difficult-managers-5dom)
-- [Academic Muse: Enriching Minds with AI-Powered Learning &amp; Limitless Productivity! 🚀✨📚👩🏻‍💻](https://dev.to/divya4879/academic-muse-enriching-minds-with-ai-powered-learning-limitless-productivity-21b)
-- [Productivity Suite](https://dev.to/maxi-cod3/productivity-suite-4kg8)
-- [Demystifying the .NET Compilation Process: A C# Developer&#39;s Guide](https://dev.to/omogbai/demystifying-the-net-compilation-process-a-c-developers-guide-4bna)
-- [Create an MCP Server with .NET and C#](https://dev.to/mehrandvd/create-an-mcp-server-with-net-and-c-251p)
+- [how actually react works behind the scenes](https://dev.to/3o2kmpcodes/how-actually-react-works-behind-the-scenes-50hj)
+- [Tired of losing your cursor when switching tabs in VSCode? Meet Cursorghost 👻](https://dev.to/kupumaru21/tired-of-losing-your-cursor-when-switching-tabs-in-vscode-meet-cursorghost-23ni)
+- [Flash Learning- a platform for users learn and thereafter take a Quiz](https://dev.to/aliyualbako/flash-learning-a-platform-for-users-learn-and-thereafter-take-a-quiz-1f1j)
+- [Building Robust React Apps with Zustand and Immer](https://dev.to/gicrisf/building-robust-react-apps-with-zustand-and-immer-482m)
+- [Building a Multi-Switch VLAN Network: A Successful Implementation](https://dev.to/051_muhammadshahbaz_2823/building-a-multi-switch-vlan-network-a-successful-implementation-1aof)
 <!-- BLOG-POST-LIST:END -->
 
 ---
