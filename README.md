@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The MCP Trap: Is the &quot;Open Source&quot; MCP Exploiting AI Developers?](https://dev.to/internationale/the-mcp-trap-is-the-open-source-mcp-exploiting-ai-developers-53bn)
-- [Standard ML idiosyncrasies](https://dev.to/bitmaybewise/standard-ml-idiosyncrasies-5ehj)
-- [Fun with Words: How an Incorrect Quotes Generator Can Boost Your Creativity](https://dev.to/codifyformatter/fun-with-words-how-an-incorrect-quotes-generator-can-boost-your-creativity-4j7i)
-- [Just Made a Tic-Tac-Toe Game in Python &lpar;How You Can Too&rpar;](https://dev.to/stuxint/just-made-a-tic-tac-toe-game-in-python-how-you-can-too-1nkj)
-- [🚀 AI in Finance: A Productivity Revolution or Just More Noise?](https://dev.to/nehan_mumtaz/ai-in-finance-a-productivity-revolution-or-just-more-noise-4dmb)
+- [Dev Dash - Recreating Dev.to with Kendo React](https://dev.to/ansellmaximilian/dev-dash-recreating-devto-with-kendo-react-484b)
+- [Forums-X: Building an Inclusive Community Platform for WeCoded 2025](https://dev.to/jacksonkasi/forums-x-building-an-inclusive-community-platform-for-wecoded-2025-54k0)
+- [Pt 3 - Text Classification Magic: Transform Raw Text into Emotional Insights](https://dev.to/afrologicinsect/pt-3-text-classification-magic-transform-raw-text-into-emotional-insights-28ih)
+- [tsp greedy](https://dev.to/johnsone_emett_c5c2b56a4a/tsp-coord-5f3m)
+- [Broken letters](https://dev.to/simongreennet/broken-letters-462e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
