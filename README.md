@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Generators and Iterator Protocol](https://dev.to/omriluz1/javascript-generators-and-iterator-protocol-4fej)
-- [Different Methods to Generate Random Numbers &lpar;RNG&rpar;](https://dev.to/babynamenestlings_efe5ba9/different-methods-to-generate-random-numbers-rng-5dk8)
-- [WeakMap and WeakSet: Memory-Efficient Collections](https://dev.to/omriluz1/weakmap-and-weakset-memory-efficient-collections-3402)
-- [Turning Data Insights into Action: Sailing the Seas of Data with Segmentation and Monitoring](https://dev.to/seosiri/turning-data-insights-into-action-sailing-the-seas-of-data-with-segmentation-and-monitoring-3l0o)
-- [JavaScript Temporal Dead Zone &lpar;TDZ&rpar; Deep Dive](https://dev.to/omriluz1/javascript-temporal-dead-zone-tdz-deep-dive-15cp)
+- [YOU DON&#39;T KNOW GIT](https://dev.to/mirajhad/you-dont-know-git-1b6m)
+- [&quot;Choosing the Right .NET Desktop Application: WinForms vs. WPF vs. Console&quot;](https://dev.to/sapanapal6/choosing-the-right-net-desktop-application-winforms-vs-wpf-vs-console-13i7)
+- [Smart and IoT Devices Powered By TikTik](https://dev.to/tiktik_global_2af50512887/smart-and-iot-devices-powered-by-tiktik-o73)
+- [Deep Dive into NestJS Decorators: Internals, Usage, and Custom Implementations 🛠️](https://dev.to/tejastn10/deep-dive-into-nestjs-decorators-internals-usage-and-custom-implementations-4eha)
+- [Beyond If-Else: JavaScript&#39;s Ternary Operator Explained](https://dev.to/codeparrot/beyond-if-else-javascripts-ternary-operator-explained-17j9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
