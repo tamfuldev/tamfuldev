@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [KendoReact Form Builder – Build Smarter Forms](https://dev.to/anandu_dev_a75fe0162e268f/kendoreact-form-builder-build-smarter-forms-4klc)
-- [The art of creating an effective application security program: Strategies, Tips and the right tools to achieve optimal results](https://dev.to/lynxfelony1/the-art-of-creating-an-effective-application-security-program-strategies-tips-and-the-right-tools-51km)
-- [Building a Stunning Portfolio Using KendoReact: Developer&#39;s Journey](https://dev.to/chintanonweb/building-a-stunning-portfolio-using-kendoreact-developers-journey-2f7c)
-- [⚡ Boost Your HTML Game With These 2 Beginner Tricks! 🚀](https://dev.to/learncodewithalex/boost-your-html-game-with-these-2-beginner-tricks-50ob)
-- [How to Automate Print Design Workflows with Python and APIs](https://dev.to/darren_sammy_6228dae10a91/how-to-automate-print-design-workflows-with-python-and-apis-27n7)
+- [Day 1: Laying the Foundation for My DSA Visualizer](https://dev.to/shravan250/day-1-laying-the-foundation-for-my-dsa-visualizer-1en7)
+- [Why kubectl run command is often misunderstood?](https://dev.to/naveens16/why-kubectl-run-command-is-often-misunderstood-45h)
+- [The browser feature that 95% of developers are completely overlooking 👨‍💻](https://dev.to/vinnie/the-browser-feature-that-95-of-developers-are-completely-overlooking-4c49)
+- [Enhancing Cognitive Performance Through Strategic Auditory Stimulation](https://dev.to/marcosfromrio/enhancing-cognitive-performance-through-strategic-auditory-stimulation-3o8i)
+- [Building and Documenting UI Components with Storybook and React](https://dev.to/debajit13/building-and-documenting-ui-components-with-storybook-in-react-2c1c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
