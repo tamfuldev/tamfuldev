@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Bridging Java and AI Systems with Model Integration Protocol](https://dev.to/vishalmysore/bridging-java-and-ai-systems-with-model-integration-protocol-3chd)
-- [Goodbye JSON - Hello Protobuf: a more robust alternative](https://dev.to/jacopo/goodbye-json-hello-protobuf-a-more-robust-alternative-5bbm)
-- [[Boost]](https://dev.to/martindeleon94/-49p0)
-- [Beyond Autocomplete: How Cursor AI is Helping Standardize and Write Ruby on Rails Code](https://dev.to/cirdes/beyond-autocomplete-how-cursor-ai-is-helping-standardize-and-write-ruby-on-rails-code-1ie6)
-- [Além do autocomplete: como o Cursor AI está ajudando na padronização e escrita do código Ruby on Rails](https://dev.to/cirdes/alem-do-autocomplete-como-o-cursor-ai-esta-ajudando-na-padronizacao-e-escrita-do-codigo-ruby-on-52e0)
+- [On Surviving Difficult Managers](https://dev.to/imtiaz101325/on-surviving-difficult-managers-5dom)
+- [Academic Muse: Enriching Minds with AI-Powered Learning &amp; Limitless Productivity! 🚀✨📚👩🏻‍💻](https://dev.to/divya4879/academic-muse-enriching-minds-with-ai-powered-learning-limitless-productivity-21b)
+- [Productivity Suite](https://dev.to/maxi-cod3/productivity-suite-4kg8)
+- [Demystifying the .NET Compilation Process: A C# Developer&#39;s Guide](https://dev.to/omogbai/demystifying-the-net-compilation-process-a-c-developers-guide-4bna)
+- [Create an MCP Server with .NET and C#](https://dev.to/mehrandvd/create-an-mcp-server-with-net-and-c-251p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
