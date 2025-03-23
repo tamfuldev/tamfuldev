@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [HarmonyOS NEXT开发实战教程--招聘app](https://dev.to/youlanjihua/harmonyos-nextkai-fa-shi-zhan-jiao-cheng-zhao-pin-app-3e57)
-- [鸿蒙开发入门教程--@Prop和@Link装饰器](https://dev.to/youlanjihua/hong-meng-kai-fa-ru-men-jiao-cheng-prophe-linkzhuang-shi-qi-3me7)
-- [鸿蒙开发实战案例--用户隐私弹窗](https://dev.to/youlanjihua/hong-meng-kai-fa-shi-zhan-an-li-yong-hu-yin-si-dan-chuang-43j3)
-- [鸿蒙Next开发实战案例--朋友圈](https://dev.to/youlanjihua/hong-meng-nextkai-fa-shi-zhan-an-li-peng-you-quan-di3)
-- [Python Decorator](https://dev.to/anvo0000/python-decorator-1d42)
+- [The MCP Trap: Is the &quot;Open Source&quot; MCP Exploiting AI Developers?](https://dev.to/internationale/the-mcp-trap-is-the-open-source-mcp-exploiting-ai-developers-53bn)
+- [Standard ML idiosyncrasies](https://dev.to/bitmaybewise/standard-ml-idiosyncrasies-5ehj)
+- [Fun with Words: How an Incorrect Quotes Generator Can Boost Your Creativity](https://dev.to/codifyformatter/fun-with-words-how-an-incorrect-quotes-generator-can-boost-your-creativity-4j7i)
+- [Just Made a Tic-Tac-Toe Game in Python &lpar;How You Can Too&rpar;](https://dev.to/stuxint/just-made-a-tic-tac-toe-game-in-python-how-you-can-too-1nkj)
+- [🚀 AI in Finance: A Productivity Revolution or Just More Noise?](https://dev.to/nehan_mumtaz/ai-in-finance-a-productivity-revolution-or-just-more-noise-4dmb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
