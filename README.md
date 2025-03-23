@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What is HarmonyOS NEXT - Page Router?](https://dev.to/victordeng/what-is-harmonyos-next-page-router-40io)
-- [What are MCP Servers](https://dev.to/krish_desai_117/what-are-mcp-servers-4m4a)
-- [🚀 Master Flutter DevTools Like a Pro &amp; Make Your App Fly!](https://dev.to/pranta/master-flutter-devtools-like-a-pro-make-your-app-fly-1e6g)
-- [Semaphores in Crystal](https://dev.to/mamantoha/semaphores-in-crystal-5eha)
-- [Understanding Web Real-Time Communication&lpar;WebRTC&rpar;](https://dev.to/clifford_potter/understanding-web-real-time-communicationwebrtc-bn2)
+- [Next.js vs. TanStack, rsdoctor for rspack, OpenAI o1&#39;s pricing problem, and more](https://dev.to/thisweekinjavascript/nextjs-vs-tanstack-rsdoctor-for-rspack-openai-o1s-pricing-problem-and-more-1ech)
+- [Vite এবং React অ্যাপ প্রোডাকশনে ডিপ্লয় করা](https://dev.to/programmerhasan/vite-ebn-react-ayaap-proddaakshne-ddiply-kraa-1ao6)
+- [Day 1: Getting Started with PSQL: The Powerful SQL DataBase.](https://dev.to/sugumar_r_a5f301adf1fb49a/day-1-getting-started-with-psql-the-powerful-sql-database-m0l)
+- [Personal Portfolio Builder: A Developer’s Dream Tool Powered by Kendo-React](https://dev.to/shivam_soni_244deacdd4b3e/personal-portfolio-builder-a-developers-dream-tool-powered-by-kendo-react-40mh)
+- [HealthAI-Assistant](https://dev.to/sumitraikwar/healthai-assistant-4ake)
 <!-- BLOG-POST-LIST:END -->
 
 ---
