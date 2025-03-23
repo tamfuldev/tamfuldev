@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dev Dash - Recreating Dev.to with Kendo React](https://dev.to/ansellmaximilian/dev-dash-recreating-devto-with-kendo-react-484b)
-- [Forums-X: Building an Inclusive Community Platform for WeCoded 2025](https://dev.to/jacksonkasi/forums-x-building-an-inclusive-community-platform-for-wecoded-2025-54k0)
-- [Pt 3 - Text Classification Magic: Transform Raw Text into Emotional Insights](https://dev.to/afrologicinsect/pt-3-text-classification-magic-transform-raw-text-into-emotional-insights-28ih)
-- [tsp greedy](https://dev.to/johnsone_emett_c5c2b56a4a/tsp-coord-5f3m)
-- [Broken letters](https://dev.to/simongreennet/broken-letters-462e)
+- [HarmonyOS NEXT开发实战教程：聊天交友App](https://dev.to/youlanjihua/harmonyos-nextkai-fa-shi-zhan-jiao-cheng-liao-tian-jiao-you-app-1362)
+- [鸿蒙Next开发实战教程--银行App](https://dev.to/youlanjihua/hong-meng-nextkai-fa-shi-zhan-jiao-cheng-yin-xing-app-c0e)
+- [DIY — Building a Cost-Effective Questionnaire Automation with Bedrock](https://dev.to/aws-builders/diy-building-a-cost-effective-questionnaire-automation-with-bedrock-2fb9)
+- [Making an Effective Application Security Program: Strategies, methods and tools to maximize outcomes](https://dev.to/lynxfelony1/making-an-effective-application-security-program-strategies-methods-and-tools-to-maximize-outcomes-3gfi)
+- [在鸿蒙NEXT中开发一个2048小游戏](https://dev.to/youlanjihua/zai-hong-meng-nextzhong-kai-fa-ge-2048xiao-you-xi-foe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
