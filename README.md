@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [YOU DON&#39;T KNOW GIT](https://dev.to/mirajhad/you-dont-know-git-1b6m)
-- [&quot;Choosing the Right .NET Desktop Application: WinForms vs. WPF vs. Console&quot;](https://dev.to/sapanapal6/choosing-the-right-net-desktop-application-winforms-vs-wpf-vs-console-13i7)
-- [Smart and IoT Devices Powered By TikTik](https://dev.to/tiktik_global_2af50512887/smart-and-iot-devices-powered-by-tiktik-o73)
-- [Deep Dive into NestJS Decorators: Internals, Usage, and Custom Implementations 🛠️](https://dev.to/tejastn10/deep-dive-into-nestjs-decorators-internals-usage-and-custom-implementations-4eha)
-- [Beyond If-Else: JavaScript&#39;s Ternary Operator Explained](https://dev.to/codeparrot/beyond-if-else-javascripts-ternary-operator-explained-17j9)
+- [HarmonyOS NEXT开发实战教程--招聘app](https://dev.to/youlanjihua/harmonyos-nextkai-fa-shi-zhan-jiao-cheng-zhao-pin-app-3e57)
+- [鸿蒙开发入门教程--@Prop和@Link装饰器](https://dev.to/youlanjihua/hong-meng-kai-fa-ru-men-jiao-cheng-prophe-linkzhuang-shi-qi-3me7)
+- [鸿蒙开发实战案例--用户隐私弹窗](https://dev.to/youlanjihua/hong-meng-kai-fa-shi-zhan-an-li-yong-hu-yin-si-dan-chuang-43j3)
+- [鸿蒙Next开发实战案例--朋友圈](https://dev.to/youlanjihua/hong-meng-nextkai-fa-shi-zhan-an-li-peng-you-quan-di3)
+- [Python Decorator](https://dev.to/anvo0000/python-decorator-1d42)
 <!-- BLOG-POST-LIST:END -->
 
 ---
