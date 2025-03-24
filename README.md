@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [how actually react works behind the scenes](https://dev.to/3o2kmpcodes/how-actually-react-works-behind-the-scenes-50hj)
-- [Tired of losing your cursor when switching tabs in VSCode? Meet Cursorghost 👻](https://dev.to/kupumaru21/tired-of-losing-your-cursor-when-switching-tabs-in-vscode-meet-cursorghost-23ni)
-- [Flash Learning- a platform for users learn and thereafter take a Quiz](https://dev.to/aliyualbako/flash-learning-a-platform-for-users-learn-and-thereafter-take-a-quiz-1f1j)
-- [Building Robust React Apps with Zustand and Immer](https://dev.to/gicrisf/building-robust-react-apps-with-zustand-and-immer-482m)
-- [Building a Multi-Switch VLAN Network: A Successful Implementation](https://dev.to/051_muhammadshahbaz_2823/building-a-multi-switch-vlan-network-a-successful-implementation-1aof)
+- [What is Vibe Coding? Satire](https://dev.to/carlosrambles/what-is-vibe-coding-satire-379l)
+- [Zorin setup](https://dev.to/thejaredwilcurt/zorin-setup-4jpf)
+- [MyFinApp: Take Control of Your Finances – Track, Analyze, and Achieve Your Financial Goals with Ease!](https://dev.to/jakpanudoh/myfinapp-take-control-of-your-finances-track-analyze-and-achieve-your-financial-goals-with-1blh)
+- [&quot;Revolutionizing Quantum SVM: A Probabilistic Approach for Enhanced Accuracy&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-quantum-svm-a-probabilistic-approach-for-enhanced-accuracy-1f2)
+- [KendoReact Challenge: Bark Board](https://dev.to/its_tudes/kendoreact-challenge-bark-board-2i67)
 <!-- BLOG-POST-LIST:END -->
 
 ---
