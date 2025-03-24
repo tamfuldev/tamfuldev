@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What is Vibe Coding? Satire](https://dev.to/carlosrambles/what-is-vibe-coding-satire-379l)
-- [Zorin setup](https://dev.to/thejaredwilcurt/zorin-setup-4jpf)
-- [MyFinApp: Take Control of Your Finances – Track, Analyze, and Achieve Your Financial Goals with Ease!](https://dev.to/jakpanudoh/myfinapp-take-control-of-your-finances-track-analyze-and-achieve-your-financial-goals-with-1blh)
-- [&quot;Revolutionizing Quantum SVM: A Probabilistic Approach for Enhanced Accuracy&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-quantum-svm-a-probabilistic-approach-for-enhanced-accuracy-1f2)
-- [KendoReact Challenge: Bark Board](https://dev.to/its_tudes/kendoreact-challenge-bark-board-2i67)
+- [Keyboard Layers and Home Row Modifiers](https://dev.to/argenkiwi/keyboard-layers-and-home-row-modifiers-51p4)
+- [Menambahkan approval saat subscribe di WSO2 API Manager](https://dev.to/agusmerdeko/menambahkan-approval-saat-subscribe-di-wso2-api-manager-3963)
+- [How to generate an AI video with no watermark for free](https://dev.to/blank_ht/how-to-generate-an-ai-video-with-no-watermark-for-free-dbd)
+- [deepseek with 1 line of code](https://dev.to/owly/deepseek-with-1-line-of-code-26b)
+- [NVIDIA GTC 2025: Ushering in the AI Super Era](https://dev.to/james_lin_e0b4cf88eff0124/nvidia-gtc-2025-ushering-in-the-ai-super-era-18km)
 <!-- BLOG-POST-LIST:END -->
 
 ---
