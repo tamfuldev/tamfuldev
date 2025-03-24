@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [.cursorignore file in Refine codebase, an OSS React framework](https://dev.to/ramunarasinga-11/cursorignore-file-in-refine-codebase-an-oss-react-framework-19pi)
-- [I Tested 35+ AI Headshot Generators — Here’s the Best One for Professional Results](https://dev.to/artturijalli/i-tested-35-ai-headshot-generators-heres-the-best-one-for-professional-results-3k6l)
-- [Build AI Agent Memory From Scratch — Tutorial For Dummies](https://dev.to/zachary62/build-ai-agent-memory-from-scratch-tutorial-for-dummies-47ma)
-- [What is a Domain Name System &lpar;DNS&rpar;?](https://dev.to/clouddefenseai/what-is-a-domain-name-system-dns-2ja3)
-- [GenAI x Kendo-react: AI Pair Programmer optimized for kendo-react](https://dev.to/karan_shah_2cbf1785a701a7/genai-x-kendo-react-ai-pair-programmer-optimized-for-kendo-react-hcj)
+- [CodingCam](https://dev.to/haseebarshad/codingcam-33k7)
+- [From Idea to MVP: Building a Shot Tracker with KendoReact](https://dev.to/theslladev/from-idea-to-mvp-building-a-shot-tracker-with-kendoreact-2k31)
+- [Dynamic Healthcare AI chat widget&#39;s with Kendo React Components](https://dev.to/shaikmohdhuzaifa/dynamic-healthcare-ai-chat-widgets-with-kendo-react-components-3hda)
+- [✨ Mindful Metrics: Unleashing Habit Mastery with KendoReact Magic 🚀](https://dev.to/divya4879/mindful-metrics-unleashing-habit-mastery-with-kendoreact-magic-nk7)
+- [KendoReact Free Components Challenge : 🚀 VibePilot – Your AI-Powered Social Media Co-Pilot](https://dev.to/amlandev10/kendoreact-free-components-challenge-vibepilot-your-ai-powered-social-media-co-pilot-40in)
 <!-- BLOG-POST-LIST:END -->
 
 ---
