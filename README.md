@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Family Focus Planner](https://dev.to/aniruddhaadak/family-focus-planner-3gc3)
-- [Power Platform, The Emergency Tool Kit](https://dev.to/wyattdave/power-platform-the-emergency-tool-kit-2bgo)
-- [Boas Práticas de Segurança e Qualidade no Terraform.](https://dev.to/hugollemos/boas-praticas-de-seguranca-e-qualidade-no-terraform-29oi)
-- [Calculate a Pair of Minimum Values that Meet the Criteria within the Group — From SQL to SPL #12](https://dev.to/judith677/calculate-a-pair-of-minimum-values-that-meet-the-criteria-within-the-group-from-sql-to-spl-12-309m)
-- [Real Time Page Updates with Rails and Hotwire - Turbo Broadcasts](https://dev.to/reinteractive/real-time-page-updates-with-rails-and-hotwire-turbo-broadcasts-3fnn)
+- [It Costs That Much Because it Takes Me F***ing Hours](https://dev.to/adatole/it-costs-that-much-because-it-takes-me-fing-hours-51hn)
+- [Basics of Pentest on AWS Environment](https://dev.to/morpheusme/basics-of-pentest-on-aws-environment-393e)
+- [Java File Handling Programs](https://dev.to/neelakandan_ravi_2000/java-file-handling-programs-m52)
+- [How to Build a Scalable Uptime Strategy with Minimal Resources](https://dev.to/tomcao2012/how-to-build-a-scalable-uptime-strategy-with-minimal-resources-4ian)
+- [Understanding Snapshot Structures](https://dev.to/kakasoo/understanding-snapshot-structures-2h6a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
