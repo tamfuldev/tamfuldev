@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What are HarmonyOS NEXT - General Properties?](https://dev.to/victordeng/what-are-harmonyos-next-general-properties-58lo)
-- [Updating some metadata and found this post - still relevant! 🏆](https://dev.to/terabytetiger/updating-some-metadata-and-found-this-post-still-relevant-18bm)
-- [MongoDB TTL and Disk Storage](https://dev.to/franckpachot/mongodb-ttl-and-disk-storage-2d35)
-- [From Coinbase to Mainstream: How Base L2 Is Redefining Blockchain Developer Experience](https://dev.to/excellus/from-coinbase-to-mainstream-how-base-l2-is-redefining-blockchain-developer-experience-5dam)
-- [What are your Goals for the week? #119](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-119-fme)
+- [Building a JS pytorch clone: Performance investigation](https://dev.to/ndesmic/building-a-js-pytorch-clone-performance-investigation-3cjf)
+- [Get hyped for React Summit US!](https://dev.to/gitnationorg/get-hyped-for-react-summit-us-4moo)
+- [Java Memory Leaks: What Causes Them and How to Avoid Them](https://dev.to/skilledcoder/java-memory-leaks-what-causes-them-and-how-to-avoid-them-469b)
+- [NumPy: Understanding NumPy python library](https://dev.to/liz_decoder/numpy-understanding-numpy-python-library-4pl6)
+- [View vs. Materialized View | A Beginner’s Guide with AWS Athena &amp; Redshift](https://dev.to/kriangsak_sumthong/view-vs-materialized-view-a-beginners-guide-with-aws-athena-redshift-5cbl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
