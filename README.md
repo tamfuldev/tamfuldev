@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CodingCam](https://dev.to/haseebarshad/codingcam-33k7)
-- [From Idea to MVP: Building a Shot Tracker with KendoReact](https://dev.to/theslladev/from-idea-to-mvp-building-a-shot-tracker-with-kendoreact-2k31)
-- [Dynamic Healthcare AI chat widget&#39;s with Kendo React Components](https://dev.to/shaikmohdhuzaifa/dynamic-healthcare-ai-chat-widgets-with-kendo-react-components-3hda)
-- [✨ Mindful Metrics: Unleashing Habit Mastery with KendoReact Magic 🚀](https://dev.to/divya4879/mindful-metrics-unleashing-habit-mastery-with-kendoreact-magic-nk7)
-- [KendoReact Free Components Challenge : 🚀 VibePilot – Your AI-Powered Social Media Co-Pilot](https://dev.to/amlandev10/kendoreact-free-components-challenge-vibepilot-your-ai-powered-social-media-co-pilot-40in)
+- [PostgreSQL Data Types: An Essential Guide](https://dev.to/dbvismarketing/postgresql-data-types-an-essential-guide-2clm)
+- [Custom Iterators Using Symbol.iterator](https://dev.to/omriluz1/custom-iterators-using-symboliterator-7cn)
+- [How to develop a web project with local files?](https://dev.to/muhyilmaz/how-to-develop-a-web-project-with-local-files-197n)
+- [How to Scientifically Choose Sandblasting Pressure? Core Parameter Analysis for Different Materials](https://dev.to/js-henglihong/how-to-scientifically-choose-sandblasting-pressure-core-parameter-analysis-for-different-materials-cng)
+- [Top 10 MySQL Monitoring Tools](https://dev.to/drupaladmin/top-10-mysql-monitoring-tools-gaa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
