@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [10 common backend tasks and how to automate them](https://dev.to/anmolbaranwal/10-common-backend-tasks-and-how-to-automate-them-4c79)
-- [s](https://dev.to/abdulazizkxon/s-74h)
-- [sa](https://dev.to/abdulazizkxon/sa-l4o)
-- [The Rise of AI: Transforming the World as We Know It](https://dev.to/syed_mudasseranayat_e251/the-rise-of-ai-transforming-the-world-as-we-know-it-14f7)
-- [Consuming an Azure ML service from .NET](https://dev.to/samvanhoutte/consuming-an-azure-ml-service-from-net-42ij)
+- [&quot;Just use AI&quot;](https://dev.to/amjadmh73/just-use-ai-57m0)
+- [🚀 Control Trig.js CSS Scroll Animations with JavaScript for Dynamic Direction Changes 🔄](https://dev.to/idevgames/control-trigjs-css-scroll-animations-with-javascript-for-dynamic-direction-changes-4fi8)
+- [How to Use AI to Personalize Your eCommerce Shopping Experience](https://dev.to/andybeohar/how-to-use-ai-to-personalize-your-ecommerce-shopping-experience-112)
+- [Corgi: The CLI That Tames Your Local Microservices Chaos](https://dev.to/andriiklymiuk/corgi-the-cli-that-tames-your-local-microservices-chaos-45nd)
+- [Double Your Output - The Secrets of Action Stacking](https://dev.to/wraith/double-your-output-the-secrets-of-action-stacking-12p3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
