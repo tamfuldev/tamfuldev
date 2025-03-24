@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Track Developer Productivity Without Micromanaging](https://dev.to/pratham_naik_project_manager/how-to-track-developer-productivity-without-micromanaging-1kdl)
-- [Bloom – A Privacy-Focused Women’s Health App](https://dev.to/iamceejay/bloom-a-privacy-focused-womens-health-app-41ie)
-- [🌙 Dark Mode in React, Angular &amp; Vue – A Must-Have for Modern Apps!](https://dev.to/dct_technologyprivatelimited/dark-mode-in-react-angular-vue-a-must-have-for-modern-apps-497d)
-- [You&#39;re Not a Programmer Until...](https://dev.to/canro91/youre-not-a-programmer-until-58i)
-- [Server Components vs. Server-Side Rendering in Next.js 15: Understanding the Difference](https://dev.to/hasunnilupul/server-components-vs-server-side-rendering-in-nextjs-15-understanding-the-difference-4cpj)
+- [.cursorignore file in Refine codebase, an OSS React framework](https://dev.to/ramunarasinga-11/cursorignore-file-in-refine-codebase-an-oss-react-framework-19pi)
+- [I Tested 35+ AI Headshot Generators — Here’s the Best One for Professional Results](https://dev.to/artturijalli/i-tested-35-ai-headshot-generators-heres-the-best-one-for-professional-results-3k6l)
+- [Build AI Agent Memory From Scratch — Tutorial For Dummies](https://dev.to/zachary62/build-ai-agent-memory-from-scratch-tutorial-for-dummies-47ma)
+- [What is a Domain Name System &lpar;DNS&rpar;?](https://dev.to/clouddefenseai/what-is-a-domain-name-system-dns-2ja3)
+- [GenAI x Kendo-react: AI Pair Programmer optimized for kendo-react](https://dev.to/karan_shah_2cbf1785a701a7/genai-x-kendo-react-ai-pair-programmer-optimized-for-kendo-react-hcj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
