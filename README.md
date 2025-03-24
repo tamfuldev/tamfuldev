@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Just use AI&quot;](https://dev.to/amjadmh73/just-use-ai-57m0)
-- [🚀 Control Trig.js CSS Scroll Animations with JavaScript for Dynamic Direction Changes 🔄](https://dev.to/idevgames/control-trigjs-css-scroll-animations-with-javascript-for-dynamic-direction-changes-4fi8)
-- [How to Use AI to Personalize Your eCommerce Shopping Experience](https://dev.to/andybeohar/how-to-use-ai-to-personalize-your-ecommerce-shopping-experience-112)
-- [Corgi: The CLI That Tames Your Local Microservices Chaos](https://dev.to/andriiklymiuk/corgi-the-cli-that-tames-your-local-microservices-chaos-45nd)
-- [Double Your Output - The Secrets of Action Stacking](https://dev.to/wraith/double-your-output-the-secrets-of-action-stacking-12p3)
+- [# Building Scalable ML Architectures with Java: Beyond the Basics#](https://dev.to/engnelson/-building-scalable-ml-architectures-with-java-beyond-the-basics-23al)
+- [Amazon Bedrock: A Practical Guide for Developers and DevOps Engineers](https://dev.to/microtica/amazon-bedrock-a-practical-guide-for-developers-and-devops-engineers-kag)
+- [The Developer Guide to Working in the Netherlands](https://dev.to/stetsenko_me/the-developer-guide-to-working-in-the-netherlands-9ne)
+- [Mix: A Beginner’s Guide to Elixir’s Build Tool and Dependency Manage](https://dev.to/actor-dev/mix-101-a-beginners-guide-to-elixirs-build-tool-and-dependency-manage-1b2m)
+- [Switch Expression en Java](https://dev.to/asjordi/switch-expression-en-java-3ak9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
