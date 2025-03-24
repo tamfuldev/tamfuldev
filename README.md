@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Keyboard Layers and Home Row Modifiers](https://dev.to/argenkiwi/keyboard-layers-and-home-row-modifiers-51p4)
-- [Menambahkan approval saat subscribe di WSO2 API Manager](https://dev.to/agusmerdeko/menambahkan-approval-saat-subscribe-di-wso2-api-manager-3963)
-- [How to generate an AI video with no watermark for free](https://dev.to/blank_ht/how-to-generate-an-ai-video-with-no-watermark-for-free-dbd)
-- [deepseek with 1 line of code](https://dev.to/owly/deepseek-with-1-line-of-code-26b)
-- [NVIDIA GTC 2025: Ushering in the AI Super Era](https://dev.to/james_lin_e0b4cf88eff0124/nvidia-gtc-2025-ushering-in-the-ai-super-era-18km)
+- [Family Focus Planner](https://dev.to/aniruddhaadak/family-focus-planner-3gc3)
+- [Power Platform, The Emergency Tool Kit](https://dev.to/wyattdave/power-platform-the-emergency-tool-kit-2bgo)
+- [Boas Práticas de Segurança e Qualidade no Terraform.](https://dev.to/hugollemos/boas-praticas-de-seguranca-e-qualidade-no-terraform-29oi)
+- [Calculate a Pair of Minimum Values that Meet the Criteria within the Group — From SQL to SPL #12](https://dev.to/judith677/calculate-a-pair-of-minimum-values-that-meet-the-criteria-within-the-group-from-sql-to-spl-12-309m)
+- [Real Time Page Updates with Rails and Hotwire - Turbo Broadcasts](https://dev.to/reinteractive/real-time-page-updates-with-rails-and-hotwire-turbo-broadcasts-3fnn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
