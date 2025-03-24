@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [It Costs That Much Because it Takes Me F***ing Hours](https://dev.to/adatole/it-costs-that-much-because-it-takes-me-fing-hours-51hn)
-- [Basics of Pentest on AWS Environment](https://dev.to/morpheusme/basics-of-pentest-on-aws-environment-393e)
-- [Java File Handling Programs](https://dev.to/neelakandan_ravi_2000/java-file-handling-programs-m52)
-- [How to Build a Scalable Uptime Strategy with Minimal Resources](https://dev.to/tomcao2012/how-to-build-a-scalable-uptime-strategy-with-minimal-resources-4ian)
-- [Understanding Snapshot Structures](https://dev.to/kakasoo/understanding-snapshot-structures-2h6a)
+- [How to Track Developer Productivity Without Micromanaging](https://dev.to/pratham_naik_project_manager/how-to-track-developer-productivity-without-micromanaging-1kdl)
+- [Bloom – A Privacy-Focused Women’s Health App](https://dev.to/iamceejay/bloom-a-privacy-focused-womens-health-app-41ie)
+- [🌙 Dark Mode in React, Angular &amp; Vue – A Must-Have for Modern Apps!](https://dev.to/dct_technologyprivatelimited/dark-mode-in-react-angular-vue-a-must-have-for-modern-apps-497d)
+- [You&#39;re Not a Programmer Until...](https://dev.to/canro91/youre-not-a-programmer-until-58i)
+- [Server Components vs. Server-Side Rendering in Next.js 15: Understanding the Difference](https://dev.to/hasunnilupul/server-components-vs-server-side-rendering-in-nextjs-15-understanding-the-difference-4cpj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
