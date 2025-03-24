@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [10 Hidden Factors Recruiters Use to Evaluate Candidates](https://dev.to/respect17/10-hidden-factors-recruiters-use-to-evaluate-candidates-1kpp)
-- [JanitorAI: The Ultimate Guide to Building Smart, Custom AI Chatbots for Work and Play](https://dev.to/wearetechi/janitorai-the-ultimate-guide-to-building-smart-custom-ai-chatbots-for-work-and-play-o8b)
-- [Message Brokers: RabbitMQ – Choosing the Right One for Microservices](https://dev.to/kawanedres/message-brokers-rabbitmq-choosing-the-right-one-for-microservices-57ih)
-- [Effortless Data Migration with AI – No Manual Effort, No Expensive Consultants](https://dev.to/tableautopowerbimigration/effortless-data-migration-with-ai-no-manual-effort-no-expensive-consultants-3cj7)
-- [Java Message Brokers: 5 Essential Technologies for Enterprise Integration](https://dev.to/aaravjoshi/java-message-brokers-5-essential-technologies-for-enterprise-integration-1e21)
+- [10 common backend tasks and how to automate them](https://dev.to/anmolbaranwal/10-common-backend-tasks-and-how-to-automate-them-4c79)
+- [s](https://dev.to/abdulazizkxon/s-74h)
+- [sa](https://dev.to/abdulazizkxon/sa-l4o)
+- [The Rise of AI: Transforming the World as We Know It](https://dev.to/syed_mudasseranayat_e251/the-rise-of-ai-transforming-the-world-as-we-know-it-14f7)
+- [Consuming an Azure ML service from .NET](https://dev.to/samvanhoutte/consuming-an-azure-ml-service-from-net-42ij)
 <!-- BLOG-POST-LIST:END -->
 
 ---
