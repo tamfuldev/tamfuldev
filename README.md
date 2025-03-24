@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL Data Types: An Essential Guide](https://dev.to/dbvismarketing/postgresql-data-types-an-essential-guide-2clm)
-- [Custom Iterators Using Symbol.iterator](https://dev.to/omriluz1/custom-iterators-using-symboliterator-7cn)
-- [How to develop a web project with local files?](https://dev.to/muhyilmaz/how-to-develop-a-web-project-with-local-files-197n)
-- [How to Scientifically Choose Sandblasting Pressure? Core Parameter Analysis for Different Materials](https://dev.to/js-henglihong/how-to-scientifically-choose-sandblasting-pressure-core-parameter-analysis-for-different-materials-cng)
-- [Top 10 MySQL Monitoring Tools](https://dev.to/drupaladmin/top-10-mysql-monitoring-tools-gaa)
+- [Accessing MySQL Server from a Remote Machine in the Same Network](https://dev.to/ayon_ssp/accessing-mysql-server-from-a-remote-machine-in-the-same-network-20n4)
+- [Mix: Um Guia para Iniciantes sobre a Ferramenta de Build e Gerenciamento de Dependências do Elixir](https://dev.to/actor-dev/mix-um-guia-para-iniciantes-sobre-a-ferramenta-de-build-e-gerenciamento-de-dependencias-do-elixir-4g4j)
+- [How to Create a Splash Screen and App Icon in a React Native Expo App](https://dev.to/aneeqakhan/how-to-create-a-splash-screen-and-app-icon-in-a-react-native-expo-app-50bp)
+- [Deploying an App With AWS App Runner](https://dev.to/ijay/deploying-an-app-with-aws-app-runner-3lbe)
+- [Reusable GitHub Worfklows](https://dev.to/keracudmore/reusable-github-worfklows-md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
