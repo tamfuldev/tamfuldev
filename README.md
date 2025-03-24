@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [# Building Scalable ML Architectures with Java: Beyond the Basics#](https://dev.to/engnelson/-building-scalable-ml-architectures-with-java-beyond-the-basics-23al)
-- [Amazon Bedrock: A Practical Guide for Developers and DevOps Engineers](https://dev.to/microtica/amazon-bedrock-a-practical-guide-for-developers-and-devops-engineers-kag)
-- [The Developer Guide to Working in the Netherlands](https://dev.to/stetsenko_me/the-developer-guide-to-working-in-the-netherlands-9ne)
-- [Mix: A Beginner’s Guide to Elixir’s Build Tool and Dependency Manage](https://dev.to/actor-dev/mix-101-a-beginners-guide-to-elixirs-build-tool-and-dependency-manage-1b2m)
-- [Switch Expression en Java](https://dev.to/asjordi/switch-expression-en-java-3ak9)
+- [How to configure CI/CD for your Node.js application](https://dev.to/olalekan_oladiran_d74b7a6/how-to-configure-cicd-for-your-nodejs-application-1fhg)
+- [AI Agents in PHP with MCP &lpar;Model Context Protocol&rpar;](https://dev.to/inspector/ai-agents-in-php-with-mcp-model-context-protocol-55)
+- [Day-04: Java Work Flow](https://dev.to/e00049/day-04-java-work-flow-38h7)
+- [All Data and AI Weekly #182 - 24-March-2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-182-24-march-2025-hgj)
+- [Designing a successful Application Security program: Strategies, Tips and the right tools to achieve optimal results](https://dev.to/lynxfelony1/designing-a-successful-application-security-program-strategies-tips-and-the-right-tools-to-29f7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
