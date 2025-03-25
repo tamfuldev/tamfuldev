@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Winning Onboarding Strategy](https://dev.to/getjv/building-a-winning-onboarding-strategy-cf6)
-- [React Elementor](https://dev.to/cfarhad/react-elementor-115m)
-- [Structuring the Server: Node.js, MongoDB, and User Models for Our CMS](https://dev.to/webcraft-notes/structuring-the-server-nodejs-mongodb-and-user-models-for-our-cms-549l)
-- [Devnexus: Bringing Java Into The Age Of AI](https://dev.to/gitguardian/devnexus-bringing-java-into-the-age-of-ai-4kal)
-- [¿Donde Estudiar la Carrera de Desarrollo de Software y Transforma tu Futuro?](https://dev.to/itsqmet/donde-estudiar-la-carrera-de-desarrollo-de-software-y-transforma-tu-futuro-4jdi)
+- [typia &lpar;20,000x faster validator&rpar; challenges to Agentic AI framework, with its compiler skill](https://dev.to/samchon/typia-20000x-faster-validator-challenges-to-agentic-ai-framework-with-its-compiler-skill-3h9i)
+- [How Ashkan Rajaee Changed the Way I Write Emails](https://dev.to/techbyfelix/how-ashkan-rajaee-changed-the-way-i-write-emails-1nk9)
+- [lopdesa](https://dev.to/rahul_d_69c56a981e11c6728/lopdesa-leh)
+- [models](https://dev.to/rahul_d_69c56a981e11c6728/models-34bm)
+- [20 20 20 rule for eye care](https://dev.to/arisgio/20-20-20-rule-for-eye-care-f0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
