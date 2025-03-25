@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Microtasks and Macrotasks: Event Loop Demystified](https://dev.to/omriluz1/microtasks-and-macrotasks-event-loop-demystified-2pg5)
-- [Multi-Agent Hybrid Knowledge Base Retrieval: Building a High-Precision Legal Case Analysis Platform](https://dev.to/jamesli/multi-agent-hybrid-knowledge-base-retrieval-building-a-high-precision-legal-case-analysis-platform-47p3)
-- [Summary of LLM Function Calling](https://dev.to/kakasoo/summary-of-llm-function-calling-44o1)
-- [SafeLine WAF Running Out of Disk Space? A Step-by-Step Guide to Easy Cleanup](https://dev.to/carrie_luo1/safeline-waf-running-out-of-disk-space-a-step-by-step-guide-to-easy-cleanup-5el5)
-- [Framework-Level DI Even for student Node.js Developers](https://dev.to/sunrabbit123/framework-level-di-even-for-student-nodejs-developers-59jb)
+- [Build a Twitter ReplyGuy using AI/ML API and Twitter API V2.](https://dev.to/abdibrokhim/build-a-twitter-replyguy-using-aiml-api-and-twitter-api-v2-3c3j)
+- [Introduction to Linux](https://dev.to/prasanth_fcf045e10b53562c/introduction-to-linux-4c7g)
+- [Flutter RenderTree : How Rendering Works](https://dev.to/vayuz_insights/flutter-rendertree-how-rendering-works-j48)
+- [Day 7: BackendChallenges.com – The Frontend Security Checklist Devs Ignore](https://dev.to/learnwithparam/day-7-backendchallengescom-the-frontend-security-checklist-devs-ignore-56fp)
+- [Free Web App Hosting Platforms :](https://dev.to/meenakshi_lodhirajput_8e/free-web-app-hosting-platforms--a9l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
