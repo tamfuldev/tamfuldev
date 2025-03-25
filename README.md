@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Diversity and inclusion are essential in the tech industry. The #WeCoded challenge is building a landing page to highlight and celebrate diverse voices in technology. Explore the initiative and its impact.](https://dev.to/naik_sejal/diversity-and-inclusion-are-essential-in-the-tech-industry-the-wecoded-challenge-is-building-a-1lbl)
-- [Mastering Angular&#39;s New Control Flow with TypeScript Code Examples](https://dev.to/manthanank/mastering-angulars-new-control-flow-with-typescript-code-examples-1i96)
-- [Celebrate diversity in tech with WeCoded! 🌟 Build a dynamic landing page showcasing inspiring stories of underrepresented voices. Use the DEV API to pull submissions &amp; design an inclusive hub for empowerment. Let’s amplify voices that matter! #WeCoded](https://dev.to/pratham_naik_project_manager/celebrate-diversity-in-tech-with-wecoded-build-a-dynamic-landing-page-showcasing-inspiring-37io)
-- [Celebrating Voices in Tech: Building the WeCoded Landing Page to Inspire Change](https://dev.to/pratham_naik_project_manager/celebrating-voices-in-tech-building-the-wecoded-landing-page-to-inspire-change-2516)
-- [Timezone Madness: A Computer Scientist&#39;s Guide to Time&#39;s Intricate Landscape](https://dev.to/kesharipiyush24/timezone-madness-a-computer-scientists-guide-to-times-intricate-landscape-39gb)
+- [💸 Are your cloud bills getting out of control?](https://dev.to/teqnisys_accountgooglet/are-your-cloud-bills-getting-out-of-control-2gpp)
+- [What is YAML? A Developer&#39;s Guide to YAML vs YML](https://dev.to/keploy/what-is-yaml-a-developers-guide-to-yaml-vs-yml-54h1)
+- [How to Contact Lazada Customer Service via Email: A Quick Guide](https://dev.to/doriana/how-to-contact-lazada-customer-service-via-email-a-quick-guide-3j7d)
+- [Cybersecurity Tip: Never Open Suspicious Attachments—They Could Be a Gateway to Malware](https://dev.to/wizdomtek/cybersecurity-tip-never-open-suspicious-attachments-they-could-be-a-gateway-to-malware-4ldo)
+- [What is Marketing Attribution Software and Why Does Your Business Need It?](https://dev.to/simran-indulkar/what-is-marketing-attribution-software-and-why-does-your-business-need-it-3hg8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
