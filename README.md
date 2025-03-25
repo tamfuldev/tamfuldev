@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Guards en Angular: Protegiendo nuestras rutas](https://dev.to/cristian_arieta_7df932e5f/guards-en-angular-protegiendo-nuestras-rutas-1677)
-- [Getting Rid of Boilerplate in Angular: Using TypeScript Decorators](https://dev.to/artstesh/getting-rid-of-boilerplate-in-angular-using-typescript-decorators-3fdj)
-- [Resolving PowerShell Text Input Issues on Windows Server 2022 EC2 via Fleet Manager](https://dev.to/issy929/resolving-powershell-text-input-issues-on-windows-server-2022-ec2-via-fleet-manager-1fkc)
-- [Code Rabbit - AI Code Reviewer for Git](https://dev.to/samseptiano/code-rabbit-ai-code-reviewer-for-git-21fa)
-- [Mocktender: simplified testing using entry points](https://dev.to/nizarmah/mocktender-simplified-testing-using-entry-points-256a)
+- [Building a Winning Onboarding Strategy](https://dev.to/getjv/building-a-winning-onboarding-strategy-cf6)
+- [React Elementor](https://dev.to/cfarhad/react-elementor-115m)
+- [Structuring the Server: Node.js, MongoDB, and User Models for Our CMS](https://dev.to/webcraft-notes/structuring-the-server-nodejs-mongodb-and-user-models-for-our-cms-549l)
+- [Devnexus: Bringing Java Into The Age Of AI](https://dev.to/gitguardian/devnexus-bringing-java-into-the-age-of-ai-4kal)
+- [¿Donde Estudiar la Carrera de Desarrollo de Software y Transforma tu Futuro?](https://dev.to/itsqmet/donde-estudiar-la-carrera-de-desarrollo-de-software-y-transforma-tu-futuro-4jdi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
