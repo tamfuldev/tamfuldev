@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use MetaMask for Buying, Storing &amp; Sending Crypto](https://dev.to/kiya_verma_80238900c416be/how-to-use-metamask-for-buying-storing-sending-crypto-4b19)
-- [dbForge Tools for Oracle 6.0: A New Level of Efficiency and Performance](https://dev.to/david_kaplunov_a521411a15/dbforge-tools-for-oracle-60-a-new-level-of-efficiency-and-performance-4h7e)
-- [What does &#39;porting&#39; to Wasm mean?](https://dev.to/drs_software/what-does-porting-to-wasm-mean-375o)
-- [How to use HarmonyOS NEXT - @State variable?](https://dev.to/victordeng/how-to-use-harmonyos-next-state-variable-4bpn)
-- [Express.js vs Nest.js: The Battle of Backend Frameworks](https://dev.to/dipraj_girase_/expressjs-vs-nestjs-the-battle-of-backend-frameworks-1e5)
+- [My “Vibe-Coding” Experience: Web Service Over a Weekend](https://dev.to/davidklassen/my-vibe-coding-experience-web-service-over-a-weekend-mbg)
+- [Building a Non-AI tool feels refreshing to me](https://dev.to/tinchox5/building-a-non-ai-tool-feels-refreshing-to-me-2bpe)
+- [[Boost]](https://dev.to/agunechemba/-4ad9)
+- [Apa Itu Jekyll? Panduan Terlengkap untuk Pemula di Tahun 2025](https://dev.to/idblogger/apa-itu-jekyll-panduan-terlengkap-untuk-pemula-di-tahun-2025-jo1)
+- [🌶️ Newest Episode of Leet Heat: A Game Show For Developers!](https://dev.to/jlengstorf/newest-episode-of-leet-heat-a-game-show-for-developers-gim)
 <!-- BLOG-POST-LIST:END -->
 
 ---
