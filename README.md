@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Meet Lynx – A New Multiplatform Framework!](https://dev.to/divyeshvekariya/meet-lynx-a-new-multiplatform-framework-5al7)
-- [iOS 18.4 Brings AI-Powered Priority Notifications](https://dev.to/divyeshvekariya/ios-184-brings-ai-powered-priority-notifications-43b7)
-- [Building a MCP server in Swift](https://dev.to/divyeshvekariya/building-a-mcp-server-in-swift-4gge)
-- [🚀 Add Dark/Light Mode to Your React 19 Project in 10 Minutes!](https://dev.to/promi_mojumder/add-darklight-mode-to-your-react-19-project-in-10-minutes-2gb2)
-- [axaxasxsc](https://dev.to/rahul_d_69c56a981e11c6728/axaxasxsc-236a)
+- [Diversity and inclusion are essential in the tech industry. The #WeCoded challenge is building a landing page to highlight and celebrate diverse voices in technology. Explore the initiative and its impact.](https://dev.to/naik_sejal/diversity-and-inclusion-are-essential-in-the-tech-industry-the-wecoded-challenge-is-building-a-1lbl)
+- [Mastering Angular&#39;s New Control Flow with TypeScript Code Examples](https://dev.to/manthanank/mastering-angulars-new-control-flow-with-typescript-code-examples-1i96)
+- [Celebrate diversity in tech with WeCoded! 🌟 Build a dynamic landing page showcasing inspiring stories of underrepresented voices. Use the DEV API to pull submissions &amp; design an inclusive hub for empowerment. Let’s amplify voices that matter! #WeCoded](https://dev.to/pratham_naik_project_manager/celebrate-diversity-in-tech-with-wecoded-build-a-dynamic-landing-page-showcasing-inspiring-37io)
+- [Celebrating Voices in Tech: Building the WeCoded Landing Page to Inspire Change](https://dev.to/pratham_naik_project_manager/celebrating-voices-in-tech-building-the-wecoded-landing-page-to-inspire-change-2516)
+- [Timezone Madness: A Computer Scientist&#39;s Guide to Time&#39;s Intricate Landscape](https://dev.to/kesharipiyush24/timezone-madness-a-computer-scientists-guide-to-times-intricate-landscape-39gb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
