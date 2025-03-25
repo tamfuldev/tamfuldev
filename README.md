@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How App Interface Expectations Have Changed in 5 Years — A Frontend Developer&#39;s Confession](https://dev.to/iri_denis/how-app-interface-expectations-have-changed-in-5-years-a-frontend-developers-confession-3cic)
-- [Kubernetes GitOps with FluxCD - Part 3 - Automated Image Updates](https://dev.to/kiriapurv/kubernetes-gitops-with-fluxcd-part-3-automated-image-updates-of8)
-- [Agentic AI: The Future of Autonomous Decision-Making](https://dev.to/htcnxt/agentic-ai-the-future-of-autonomous-decision-making-4hl2)
-- [Why on-boarding processes can be a snooze fest &lpar;and how to fix It with svelte&rpar;](https://dev.to/notreeceharris/why-on-boarding-processes-can-be-a-snooze-fest-and-how-to-fix-it-with-svelte-3p7)
-- [Next.js Middleware Bypass Vulnerability &lpar;CVE-2025-29927&rpar; Affecting Popular AI Applications](https://dev.to/carrie_luo1/nextjs-middleware-bypass-vulnerability-cve-2025-29927-affecting-popular-ai-applications-5h1n)
+- [Avoid These 5 Worst Interview Mistakes to Secure Your Tech Job](https://dev.to/web_dev-usman/avoid-these-5-worst-interview-mistakes-to-secure-your-tech-job-5dee)
+- [A Guide to SOLID Principles in Software Development](https://dev.to/ebenezer_tosan/a-guide-to-solid-principles-in-software-development-35ok)
+- [KYC API &amp; KYC Onboarding: Automate Compliance &amp; Security](https://dev.to/clear_dil/kyc-api-kyc-onboarding-automate-compliance-security-40jm)
+- [What is an EPG Schedule and How Does It Improve Viewer Experience?](https://dev.to/livestreaming/what-is-an-epg-schedule-and-how-does-it-improve-viewer-experience-3cmk)
+- [Etherspot and RealT: Unlocking the Future of Real Estate Tokenization](https://dev.to/etherspot/etherspot-and-realt-unlocking-the-future-of-real-estate-tokenization-1jbl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
