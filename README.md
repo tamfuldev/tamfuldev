@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Daily JavaScript Challenge #JS-134: Sum of Prime Numbers](https://dev.to/dpc/daily-javascript-challenge-js-134-sum-of-prime-numbers-4o51)
-- [Arquitetura antes do código: como planejar te faz codificar com confiança](https://dev.to/rafadev/arquitetura-antese-do-codigo-como-planejar-te-faz-codificar-com-confianca-2d42)
-- [Code Smell 295 - String Concatenation](https://dev.to/mcsee/code-smell-295-string-concatenation-1hpi)
-- [Day 1125 : Waste](https://dev.to/dwane/day-1125-waste-4g0j)
-- [[Boost]](https://dev.to/jacklehamster/-la6)
+- [Easy and simple AI development for web developers!](https://dev.to/kakasoo/easy-and-simple-ai-development-for-web-developers-k73)
+- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-54j7)
+- [Implementing an effective Application Security Programme: Strategies, practices and tools for the best outcomes](https://dev.to/lynxfelony1/implementing-an-effective-application-security-programme-strategies-practices-and-tools-for-the-2j3p)
+- [Agentic AI Revolutionizing Cybersecurity &amp; Application Security](https://dev.to/rollbrace0/agentic-ai-revolutionizing-cybersecurity-application-security-3ph1)
+- [My Blackjack Terminal Game](https://dev.to/aaronasb/my-blackjack-terminal-game-1end)
 <!-- BLOG-POST-LIST:END -->
 
 ---
