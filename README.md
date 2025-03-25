@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Exploring react-native-calendars–Calendar Component! 📅](https://dev.to/laxmann/exploring-react-native-calendars-calendar-component-13ma)
-- [Enhance Photo Resolution for Stunning Results: Easy Tips and Tricks](https://dev.to/emma-bb888/enhance-photo-resolution-for-stunning-results-easy-tips-and-tricks-5hge)
-- [Enhance Professional Development with Advanced Agile Testing Certifications](https://dev.to/tom_cruise_47f47443bff64e/enhance-professional-development-with-advanced-agile-testing-certifications-4j2c)
-- [Solidity Developer &amp; Blockchain Architect](https://dev.to/openxai_network/solidity-developer-blockchain-architect-4cgj)
-- [10 Proven Ways to Boost Productivity as a Software Engineer](https://dev.to/er-raj-aryan/10-proven-ways-to-boost-productivity-as-a-software-engineer-533n)
+- [Microtasks and Macrotasks: Event Loop Demystified](https://dev.to/omriluz1/microtasks-and-macrotasks-event-loop-demystified-2pg5)
+- [Multi-Agent Hybrid Knowledge Base Retrieval: Building a High-Precision Legal Case Analysis Platform](https://dev.to/jamesli/multi-agent-hybrid-knowledge-base-retrieval-building-a-high-precision-legal-case-analysis-platform-47p3)
+- [Summary of LLM Function Calling](https://dev.to/kakasoo/summary-of-llm-function-calling-44o1)
+- [SafeLine WAF Running Out of Disk Space? A Step-by-Step Guide to Easy Cleanup](https://dev.to/carrie_luo1/safeline-waf-running-out-of-disk-space-a-step-by-step-guide-to-easy-cleanup-5el5)
+- [Framework-Level DI Even for student Node.js Developers](https://dev.to/sunrabbit123/framework-level-di-even-for-student-nodejs-developers-59jb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
