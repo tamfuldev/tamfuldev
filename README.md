@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Avoid These 5 Worst Interview Mistakes to Secure Your Tech Job](https://dev.to/web_dev-usman/avoid-these-5-worst-interview-mistakes-to-secure-your-tech-job-5dee)
-- [A Guide to SOLID Principles in Software Development](https://dev.to/ebenezer_tosan/a-guide-to-solid-principles-in-software-development-35ok)
-- [KYC API &amp; KYC Onboarding: Automate Compliance &amp; Security](https://dev.to/clear_dil/kyc-api-kyc-onboarding-automate-compliance-security-40jm)
-- [What is an EPG Schedule and How Does It Improve Viewer Experience?](https://dev.to/livestreaming/what-is-an-epg-schedule-and-how-does-it-improve-viewer-experience-3cmk)
-- [Etherspot and RealT: Unlocking the Future of Real Estate Tokenization](https://dev.to/etherspot/etherspot-and-realt-unlocking-the-future-of-real-estate-tokenization-1jbl)
+- [How to Use MetaMask for Buying, Storing &amp; Sending Crypto](https://dev.to/kiya_verma_80238900c416be/how-to-use-metamask-for-buying-storing-sending-crypto-4b19)
+- [dbForge Tools for Oracle 6.0: A New Level of Efficiency and Performance](https://dev.to/david_kaplunov_a521411a15/dbforge-tools-for-oracle-60-a-new-level-of-efficiency-and-performance-4h7e)
+- [What does &#39;porting&#39; to Wasm mean?](https://dev.to/drs_software/what-does-porting-to-wasm-mean-375o)
+- [How to use HarmonyOS NEXT - @State variable?](https://dev.to/victordeng/how-to-use-harmonyos-next-state-variable-4bpn)
+- [Express.js vs Nest.js: The Battle of Backend Frameworks](https://dev.to/dipraj_girase_/expressjs-vs-nestjs-the-battle-of-backend-frameworks-1e5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
