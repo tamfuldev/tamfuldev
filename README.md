@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Twitter ReplyGuy using AI/ML API and Twitter API V2.](https://dev.to/abdibrokhim/build-a-twitter-replyguy-using-aiml-api-and-twitter-api-v2-3c3j)
-- [Introduction to Linux](https://dev.to/prasanth_fcf045e10b53562c/introduction-to-linux-4c7g)
-- [Flutter RenderTree : How Rendering Works](https://dev.to/vayuz_insights/flutter-rendertree-how-rendering-works-j48)
-- [Day 7: BackendChallenges.com – The Frontend Security Checklist Devs Ignore](https://dev.to/learnwithparam/day-7-backendchallengescom-the-frontend-security-checklist-devs-ignore-56fp)
-- [Free Web App Hosting Platforms :](https://dev.to/meenakshi_lodhirajput_8e/free-web-app-hosting-platforms--a9l)
+- [How App Interface Expectations Have Changed in 5 Years — A Frontend Developer&#39;s Confession](https://dev.to/iri_denis/how-app-interface-expectations-have-changed-in-5-years-a-frontend-developers-confession-3cic)
+- [Kubernetes GitOps with FluxCD - Part 3 - Automated Image Updates](https://dev.to/kiriapurv/kubernetes-gitops-with-fluxcd-part-3-automated-image-updates-of8)
+- [Agentic AI: The Future of Autonomous Decision-Making](https://dev.to/htcnxt/agentic-ai-the-future-of-autonomous-decision-making-4hl2)
+- [Why on-boarding processes can be a snooze fest &lpar;and how to fix It with svelte&rpar;](https://dev.to/notreeceharris/why-on-boarding-processes-can-be-a-snooze-fest-and-how-to-fix-it-with-svelte-3p7)
+- [Next.js Middleware Bypass Vulnerability &lpar;CVE-2025-29927&rpar; Affecting Popular AI Applications](https://dev.to/carrie_luo1/nextjs-middleware-bypass-vulnerability-cve-2025-29927-affecting-popular-ai-applications-5h1n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
