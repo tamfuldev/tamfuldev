@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How ML Transforms Cybersecurity: Detecting Threats Early](https://dev.to/sai_rishika_0e321c17cfc13/how-ml-transforms-cybersecurity-detecting-threats-early-4535)
-- [&lpar;Ⅱ&rpar; Android Identity Authentication](https://dev.to/tecno-security/ii-android-identity-authentication-486g)
-- [We build an AI mental health assistant with 7 AI agents! &lpar;no-code needed&rpar;](https://dev.to/momen_hq/we-build-an-ai-mental-health-assistant-with-7-ai-agents-no-code-needed-45aj)
-- [8 Golden Rules of Interface Design &amp; Best Practices](https://dev.to/lollypopdesign/8-golden-rules-of-interface-design-best-practices-48h9)
-- [Martian Kilts: Designing Ceremonial Dress for Future Colonists](https://dev.to/davidtaylor852/martian-kilts-designing-ceremonial-dress-for-future-colonists-1no6)
+- [ABEND dump #17](https://dev.to/bitmaybewise/abend-dump-17-4e13)
+- [Trap Handlers in JavaScript Proxies](https://dev.to/omriluz1/trap-handlers-in-javascript-proxies-49mp)
+- [How AI Enhances Employee Learning &amp; Development](https://dev.to/corporateone/how-ai-enhances-employee-learning-development-7d1)
+- [How To Start A Dev Tools Company: Insights From YC](https://dev.to/jetthoughts/how-to-start-a-dev-tools-company-insights-from-yc-3ome)
+- [Twitter vs. X: Product Lessons For Startup Founders](https://dev.to/jetthoughts/twitter-vs-x-product-lessons-for-startup-founders-37c8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
