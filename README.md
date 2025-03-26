@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering and Learning HTML &amp; CSS in 2025](https://dev.to/devibbi/mastering-and-learning-html-css-in-2025-3c43)
-- [Is Your Code a Swiss Army Knife or a Master Blueprint? Unraveling the Mystery of Interfaces vs. Abstract Classes](https://dev.to/tyrell_wellicq_767cb57340/is-your-code-a-swiss-army-knife-or-a-master-blueprint-unraveling-the-mystery-of-interfaces-vs-54ma)
-- [How to get your pet projects done](https://dev.to/just_kolesnikov/how-to-get-your-pet-projects-done-1fgj)
-- [How AI Turned Me Into a 10x Engineer &lpar;But Only Because I Took Coding Seriously First&rpar;](https://dev.to/brightiodev/how-ai-turned-me-into-a-10x-engineer-but-only-because-i-took-coding-seriously-first-2f3m)
-- [Grok 2 with Java for Real-Time Tools Integration](https://dev.to/vishalmysore/grok-2-with-java-for-real-time-tools-integration-mb6)
+- [Let&#39;s Build a Full-Stack App Using the MERN Stack! Part 3: React NextJS UI](https://dev.to/jaywatson2pt0/lets-build-a-full-stack-app-using-the-mern-stack-part-3-react-nextjs-ui-5fcd)
+- [AWS Proton: Microservices Infrastructure Automation](https://dev.to/neo_rival67/aws-proton-microservices-infrastructure-automation-103p)
+- [THREE MAIN SERVICE MODELS PROVIDED BY AZURE](https://dev.to/iniobong_ema_92e60ed18028/three-main-service-models-provided-by-azure-4c1j)
+- [Sets are the Data Type Your Code Needs](https://dev.to/muydanny/sets-are-the-data-type-your-code-needs-2c64)
+- [Day 1126 : Laser](https://dev.to/dwane/day-1126-laser-26k1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
