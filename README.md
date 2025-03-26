@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [ABEND dump #17](https://dev.to/bitmaybewise/abend-dump-17-4e13)
-- [Trap Handlers in JavaScript Proxies](https://dev.to/omriluz1/trap-handlers-in-javascript-proxies-49mp)
-- [How AI Enhances Employee Learning &amp; Development](https://dev.to/corporateone/how-ai-enhances-employee-learning-development-7d1)
-- [How To Start A Dev Tools Company: Insights From YC](https://dev.to/jetthoughts/how-to-start-a-dev-tools-company-insights-from-yc-3ome)
-- [Twitter vs. X: Product Lessons For Startup Founders](https://dev.to/jetthoughts/twitter-vs-x-product-lessons-for-startup-founders-37c8)
+- [How to create an animated input field with Tailwind CSS](https://dev.to/mike_andreuzza/how-to-create-an-animated-input-field-with-tailwind-css-18k1)
+- [Healthcare Cybersecurity: Strategies to Avoid Data Breaches and Implement Patient Privacy Protection](https://dev.to/mobisoftinfotech/healthcare-cybersecurity-strategies-to-avoid-data-breaches-and-implement-patient-privacy-protection-2ea8)
+- [Generative AI in Supply Chain: Turning Complexity Into Competitive Advantage](https://dev.to/riya_marketing_2025/generative-ai-in-supply-chain-turning-complexity-into-competitive-advantage-1jb5)
+- [Top API Technologies and How to Write Docs for Them](https://dev.to/apidog/top-api-technologies-and-how-to-write-docs-for-them-5818)
+- [Best Custom Cosmetic Boxes for Skincare Brands](https://dev.to/jowenkay/best-custom-cosmetic-boxes-for-skincare-brands-1c8d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
