@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Pair and Transpose Adjacent Records within the Group - From SQL to SPL #13](https://dev.to/judith677/pair-and-transpose-adjacent-records-within-the-group-from-sql-to-spl-13-1kg4)
-- [Introducing Peacy – An AI Agent built around the Non-Violent Communication principles](https://dev.to/canberkvarli/introducing-peacy-an-ai-agent-built-around-the-non-violent-communication-principles-2oid)
-- [How To Create A Resource Group StepByStep](https://dev.to/dopey/how-to-create-a-resource-group-stepbystep-1cpe)
-- [Spring Certified Professional 2024 Certification Exam Tips](https://dev.to/myexamcloud/spring-certified-professional-2024-certification-exam-tips-12k9)
-- [Taking tv clips from social media and finding the full movie content. Shazam for movies!](https://dev.to/sebastiandevelops/taking-tv-clips-from-social-media-and-finding-the-full-movie-content-shazam-for-movies-2497)
+- [Crafting an Effective Application Security Program: Strategies, Techniques and tools for optimal Results](https://dev.to/lynxfelony1/crafting-an-effective-application-security-program-strategies-techniques-and-tools-for-optimal-136b)
+- [AI-Powered Testing Trends in 2025: Automated, Smart, and Efficient](https://dev.to/anil_csimplifyit_905c/ai-powered-testing-trends-in-2025-automated-smart-and-efficient-51j7)
+- [models](https://dev.to/rahul_d_69c56a981e11c6728/models-fnj)
+- [Key Features No Longer Supported in Oracle 23ai](https://dev.to/vahidusefzadeh/key-features-no-longer-supported-in-oracle-23ai-41o6)
+- [ServBay Launches Educational Program for Students and Teachers](https://dev.to/servbay/servbay-launches-educational-program-for-students-and-teachers-che)
 <!-- BLOG-POST-LIST:END -->
 
 ---
