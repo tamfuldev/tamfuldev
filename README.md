@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;s Build a Full-Stack App Using the MERN Stack! Part 3: React NextJS UI](https://dev.to/jaywatson2pt0/lets-build-a-full-stack-app-using-the-mern-stack-part-3-react-nextjs-ui-5fcd)
-- [AWS Proton: Microservices Infrastructure Automation](https://dev.to/neo_rival67/aws-proton-microservices-infrastructure-automation-103p)
-- [THREE MAIN SERVICE MODELS PROVIDED BY AZURE](https://dev.to/iniobong_ema_92e60ed18028/three-main-service-models-provided-by-azure-4c1j)
-- [Sets are the Data Type Your Code Needs](https://dev.to/muydanny/sets-are-the-data-type-your-code-needs-2c64)
-- [Day 1126 : Laser](https://dev.to/dwane/day-1126-laser-26k1)
+- [Pair and Transpose Adjacent Records within the Group - From SQL to SPL #13](https://dev.to/judith677/pair-and-transpose-adjacent-records-within-the-group-from-sql-to-spl-13-1kg4)
+- [Introducing Peacy – An AI Agent built around the Non-Violent Communication principles](https://dev.to/canberkvarli/introducing-peacy-an-ai-agent-built-around-the-non-violent-communication-principles-2oid)
+- [How To Create A Resource Group StepByStep](https://dev.to/dopey/how-to-create-a-resource-group-stepbystep-1cpe)
+- [Spring Certified Professional 2024 Certification Exam Tips](https://dev.to/myexamcloud/spring-certified-professional-2024-certification-exam-tips-12k9)
+- [Taking tv clips from social media and finding the full movie content. Shazam for movies!](https://dev.to/sebastiandevelops/taking-tv-clips-from-social-media-and-finding-the-full-movie-content-shazam-for-movies-2497)
 <!-- BLOG-POST-LIST:END -->
 
 ---
