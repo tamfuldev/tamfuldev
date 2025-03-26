@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Feynman Technique - Explaining Code Quality to My 10-Year-Old Self](https://dev.to/jm27/the-feynman-technique-explaining-code-quality-to-my-10-year-old-self-31mm)
-- [How I Built an Accurate and Ad-Free Age Calculator](https://dev.to/mukesh_bagaria_d0a7a9063c/how-i-built-an-accurate-and-ad-free-age-calculator-4hg7)
-- [Overcoming SAML Testing Challenges with a Simple, Free Tool](https://dev.to/andyssojet/overcoming-saml-testing-challenges-with-a-simple-free-tool-3lkf)
-- [How Java Virtual Threads Work?](https://dev.to/devsk001/how-java-virtual-threads-work-2347)
-- [The Rise of Low-Code/No-Code Platforms in Web Development](https://dev.to/sparkout/the-rise-of-low-codeno-code-platforms-in-web-development-5h7k)
+- [Announcing the Pulumi Deploy and Document Challenge: $3,000 in Prizes!](https://dev.to/devteam/announcing-the-pulumi-deploy-and-document-challenge-3000-in-prizes-887)
+- [How to Build a T-Shirt Mockup Web App with Realistic Wrinkles &amp; Color Change?](https://dev.to/hasib_haque_211bda2154dae/how-to-build-a-t-shirt-mockup-web-app-with-realistic-wrinkles-color-change-2lfl)
+- [Hướng Dẫn Gọi API với Pmn](https://dev.to/chu_anhhuy_db2ab2820ca3/huong-dan-goi-api-voi-pmn-5142)
+- [What are the implications of quantum computing on current encryption standards?](https://dev.to/hesam_attari_97a2916d7488/what-are-the-implications-of-quantum-computing-on-current-encryption-standards-1e42)
+- [A minimum of books that should be read by a novice or experienced programmer](https://dev.to/tertiumnon/a-minimum-of-books-that-should-be-read-by-a-novice-or-experienced-programmer-4hpb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
