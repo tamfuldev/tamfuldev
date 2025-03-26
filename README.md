@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Descubre los Servicios en Angular: Potencia tu Aplicación como un Pro](https://dev.to/cristian_arieta_7df932e5f/descubre-los-servicios-en-angular-potencia-tu-aplicacion-como-un-pro-4gmb)
-- [Software&#39;s Future: Developer&#39;s Role Evolves Software drives our world, from phones to global systems. Developers are key, but tech advances bring change. The world is increasingly powered by software. From the smartphones in our pockets to the complex](https://dev.to/ogc16/-softwares-future-developers-role-evolves-software-drives-our-world-from-phones-to-global-533j)
-- [My First Step Into Web Design! 🚀](https://dev.to/queenlisaomondi/my-first-step-into-web-design-3g0g)
-- [How I Learned Linux: A Deep Dive into Debugging, Troubleshooting, and System Mastery](https://dev.to/sourav_mahato_3900/how-i-learned-linux-a-deep-dive-into-debugging-troubleshooting-and-system-mastery-29m3)
-- [I launched a game you can only play during missile attacks in Israel Hi, I’m an entrepreneur from Israel, and I just launched a weird little project called Iron Battles – a browser game that only becomes available when real-time missile alerts are happeni](https://dev.to/ai224/i-launched-a-game-you-can-only-play-during-missile-attacks-in-israel-hi-im-an-entrepreneur-2lio)
+- [Test Post 69740](https://dev.to/vn_tnhnguyn_7a0a11189/test-post-69740-2113)
+- [Test Post 29559](https://dev.to/vn_tnhnguyn_7a0a11189/test-post-29559-mal)
+- [164/365 | ¥10M Job Challenge - 4o image generation](https://dev.to/kameken100/164365-y10m-job-challenge-4o-image-generation-2hoc)
+- [Automating Vue CLI to Vite Migration with AI](https://dev.to/aliozzaim/automating-vue-cli-to-vite-migration-with-ai-223f)
+- [🚀Introducing PastesApp - A Simple and Secure Online Pastebin](https://dev.to/himanshu_shishodia_/introducing-pastesapp-a-simple-and-secure-online-pastebin-1kbp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
