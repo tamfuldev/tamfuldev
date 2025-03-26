@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to create an animated input field with Tailwind CSS](https://dev.to/mike_andreuzza/how-to-create-an-animated-input-field-with-tailwind-css-18k1)
-- [Healthcare Cybersecurity: Strategies to Avoid Data Breaches and Implement Patient Privacy Protection](https://dev.to/mobisoftinfotech/healthcare-cybersecurity-strategies-to-avoid-data-breaches-and-implement-patient-privacy-protection-2ea8)
-- [Generative AI in Supply Chain: Turning Complexity Into Competitive Advantage](https://dev.to/riya_marketing_2025/generative-ai-in-supply-chain-turning-complexity-into-competitive-advantage-1jb5)
-- [Top API Technologies and How to Write Docs for Them](https://dev.to/apidog/top-api-technologies-and-how-to-write-docs-for-them-5818)
-- [Best Custom Cosmetic Boxes for Skincare Brands](https://dev.to/jowenkay/best-custom-cosmetic-boxes-for-skincare-brands-1c8d)
+- [SOC 2 Compliance in India, Extensive Security &amp; Privacy Protection](https://dev.to/cybersigma/soc-2-compliance-in-india-extensive-security-privacy-protection-40la)
+- [How Grok 3 Works? Why Choose it?](https://dev.to/_37bbf0c253c0b3edec531e/how-grok-3-works-why-choose-it-4085)
+- [Troubleshoot Your Last Boot Crash on Linux](https://dev.to/jakariya3/troubleshoot-your-last-boot-crash-on-linux-11hl)
+- [The API Documentation Game-Changer You Didn&#39;t Know You Needed](https://dev.to/apilover/the-api-documentation-game-changer-you-didnt-know-you-needed-101l)
+- [Collections in Java](https://dev.to/neelakandan_ravi_2000/collections-in-java-35mm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
