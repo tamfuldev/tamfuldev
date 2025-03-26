@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Test Post 69740](https://dev.to/vn_tnhnguyn_7a0a11189/test-post-69740-2113)
-- [Test Post 29559](https://dev.to/vn_tnhnguyn_7a0a11189/test-post-29559-mal)
-- [164/365 | ¥10M Job Challenge - 4o image generation](https://dev.to/kameken100/164365-y10m-job-challenge-4o-image-generation-2hoc)
-- [Automating Vue CLI to Vite Migration with AI](https://dev.to/aliozzaim/automating-vue-cli-to-vite-migration-with-ai-223f)
-- [🚀Introducing PastesApp - A Simple and Secure Online Pastebin](https://dev.to/himanshu_shishodia_/introducing-pastesapp-a-simple-and-secure-online-pastebin-1kbp)
+- [My local AI Ollama for POCs](https://dev.to/getjv/my-local-ai-ollama-for-pocs-i25)
+- [github-rpg-contributors](https://dev.to/btopro/hax-sip-github-rpg-contributors-24ka)
+- [Intelligent Prompt Routing en Amazon Bedrock - Optimizando la elección del modelo fundacional ideal](https://dev.to/exiadev/intelligent-prompt-routing-en-amazon-bedrock-optimizando-la-eleccion-del-modelo-fundacional-ideal-5pn)
+- [new post](https://dev.to/aymanepraxe/new-post-m8c)
+- [Building Kafka HTTP Scanner: An Open-Source Web Vulnerability Scanner in Go](https://dev.to/aymanepraxe/building-kafka-http-scanner-an-open-source-web-vulnerability-scanner-in-go-8fm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
