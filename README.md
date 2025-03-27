@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Platform Engineering Helps You Move Like a Startup Again](https://dev.to/cyclops-ui/how-platform-engineering-helps-you-move-like-a-startup-again-1ja2)
-- [Java StrictMath scalb&lpar;&rpar; Method: Syntax, Usage, and Examples](https://dev.to/tpointtechadu/java-strictmath-scalb-method-syntax-usage-and-examples-275h)
-- [5 practical Python scripts for 2025](https://dev.to/scrapestorm/5-practical-python-scripts-for-2025-56bk)
-- [Maintenance Script: Keeping Your Linux Box in Check](https://dev.to/destinyobs/maintenance-script-keeping-your-linux-box-in-check-4chh)
-- [Next.js Middleware Broken Access Controls](https://dev.to/blue_byte/nextjs-middleware-broken-access-controls-i8m)
+- [How to connect Cursor to 100+ MCP Servers within minutes](https://dev.to/composiodev/how-to-connect-cursor-to-100-mcp-servers-within-minutes-3h74)
+- [Ghibli Style Taking Over The World or Does OpenAI GPT-4o Hyped Again?](https://dev.to/abdibrokhim/ghibli-style-taking-over-the-world-or-does-openai-gpt-4o-hyped-again-1lj5)
+- [ArkTS语法之条件语句](https://dev.to/jinghz98os/arktsyu-fa-zhi-tiao-jian-yu-ju-2p49)
+- [Syncing AWS S3 Storage Bucket Objects to LocalStack S3 Storage Bucket](https://dev.to/roguecode25/syncing-aws-s3-storage-bucket-objects-to-localstack-s3-storage-bucket-46c9)
+- [遵循HarmonyOS NEXT UI设计原则，打造卓越用户体验](https://dev.to/jinghz98os/zun-xun-harmonyos-next-uishe-ji-yuan-ze-da-zao-zhuo-yue-yong-hu-ti-yan-2bp3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
