@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up a Jenkins Host on a Remote Server for Ansible Job Execution](https://dev.to/titans_sarim_42380409554b/how-to-set-up-a-jenkins-host-on-a-remote-server-for-ansible-job-execution-3dl0)
-- [Day 1127 : Traffic Jam](https://dev.to/dwane/day-1127-traffic-jam-k3c)
-- [Monorepo Issue: Multiple Angular Projects Using a Shared Firebase Auth Service](https://dev.to/jure_raji_39c45a4a8219b/monorepo-issue-multiple-angular-projects-using-a-shared-firebase-auth-service-2dfb)
-- [Sun Header With Rising Logo Bouncing Letters Using Trig.js ☀️](https://dev.to/idevgames/sun-header-with-rising-logo-bouncing-letters-using-trigjs-kj)
-- [A New Virtualisation Solution For Linux](https://dev.to/dev_prince/a-new-virtualisation-solution-for-linux-occ)
+- [Google DeepMind Introduces Gemini 2.5: A Leap Forward with &quot;Thinking&quot; AI](https://dev.to/jayptl_rq/google-deepmind-introduces-gemini-25-a-leap-forward-with-thinking-ai-3oo4)
+- [Exploring AI-Powered Edge Computing for Smart Cities](https://dev.to/kartikmehta8/exploring-ai-powered-edge-computing-for-smart-cities-khd)
+- [【电机控制器】以STC8H1K系列举例——持续更新](https://dev.to/kisorge/dian-ji-kong-zhi-qi-yi-stc8h1kxi-lie-ju-li-chi-xu-geng-xin-1kb0)
+- [The Ultimate HTML Cheat Sheet](https://dev.to/tene/the-ultimate-html-tags-list-cheatsheet-3po4)
+- [GoFrame&#39;s garray: The Array Package You Didn&#39;t Know You Needed 🚀](https://dev.to/jones_charles_ad50858dbc0/goframes-garray-the-array-package-you-didnt-know-you-needed-43jc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
