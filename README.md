@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How To Build Full-Stack AI Agents &lpar;CrewAI + CopilotKit&rpar;](https://dev.to/copilotkit/how-to-build-full-stack-ai-agents-crewai-copilotkit-1fn6)
-- [সবে কদরের ইতিহাস: রমজানের পবিত্র রাতের উৎপত্তি ও তাৎপর্য](https://dev.to/rironib/sbe-kdrer-itihaas-rmjaaner-pbitr-raater-uptti-o-taapry-3nkg)
-- [🤬 Somebody Stole My Website!](https://dev.to/evergrowingdev/somebody-stole-my-website-5aj5)
-- [Login to D365 from Devops pipeline step by step](https://dev.to/rattlemaster/login-to-d365-from-devops-pipeline-step-by-step-ni1)
-- [[Boost]](https://dev.to/fredabod/-3cg0)
+- [🗞 Rapyd Developer Newsletter: March 2025 💥 Boost Your Dev Workflow: Automate APIs, Track Payouts &amp; Master Fintech KPIs](https://dev.to/rapyd/rapyd-developer-newsletter-march-2025-boost-your-dev-workflow-automate-apis-track-payouts--3po0)
+- [I Built an AI Name Generator for Literally Anything](https://dev.to/jiajunyan/i-built-an-ai-name-generator-for-literally-anything-3dkb)
+- [10+ Best Open-Source Alternatives to Your Favorite SaaS](https://dev.to/theme_selection/10-best-open-source-alternatives-to-your-favorite-saas-10f4)
+- [🔹 Good Design = Faster Decisions + Better User Experience!](https://dev.to/swetty_sultania_834f90237/good-design-faster-decisions-better-user-experience-31la)
+- [𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝗻𝗴 𝗮 𝗠𝗼𝗻𝘁𝗵𝗹𝘆 𝗘𝘅𝗽𝗲𝗻𝘀𝗲 𝗥𝗲𝗽𝗼𝗿𝘁 𝗳𝗼𝗿 𝗮 𝗨𝘀𝗲𝗿 𝗶𝗻 𝗖# 𝗨𝘀𝗶𝗻𝗴 𝗶𝗧𝗲𝘅𝘁𝗦𝗵𝗮𝗿𝗽 📄](https://dev.to/supraja_tangella_b7f0738e/-42e4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
