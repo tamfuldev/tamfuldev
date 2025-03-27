@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Certified Network Defender &lpar;CND&rpar; v3](https://dev.to/skillboosttrainer/certified-network-defender-cnd-v3-eff)
-- [On the Precarious Nature of Coding Jobs in 2025](https://dev.to/dotmavriq/on-the-precarious-nature-of-coding-jobs-in-2025-47hn)
-- [Things I Wish I Knew Before Building My First Shopware Plugin #shopware #symfony #php](https://dev.to/stefan-freelancer/things-i-wish-i-knew-before-building-my-first-shopware-plugin-shopware-symfony-php-195a)
-- [API as a Project vs. API as a Product](https://dev.to/devxme/api-as-a-project-vs-api-as-a-product-4gbe)
-- [API as a Project vs. API as a Product: Why Companies Should Treat Their APIs as Products](https://dev.to/devxme/api-as-a-project-vs-api-as-a-product-why-companies-should-treat-their-apis-as-products-14k9)
+- [How to install HUGO with Tailwind CSS and Flowbite](https://dev.to/zoltanszogyenyi/how-to-install-hugo-with-tailwind-cs-and-flowbite-56e)
+- [Recursion Power Sum](https://dev.to/ethanhaseaten/recursion-power-sum-56h9)
+- [Building a Webflow Portal That Vibrates: KELEALife Launch Log #1](https://dev.to/stampdmedia/-building-a-webflow-portal-that-vibrates-kelealife-launch-log-1-hon)
+- [Best way to deploy Nodejs app](https://dev.to/shubhamb/best-way-to-deploy-nodejs-app-35fk)
+- [Can AI coding platforms replace traditional page builders?](https://dev.to/momciloo/can-ai-coding-platforms-replace-traditional-page-builders-1c74)
 <!-- BLOG-POST-LIST:END -->
 
 ---
