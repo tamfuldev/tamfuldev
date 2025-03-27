@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🗞 Rapyd Developer Newsletter: March 2025 💥 Boost Your Dev Workflow: Automate APIs, Track Payouts &amp; Master Fintech KPIs](https://dev.to/rapyd/rapyd-developer-newsletter-march-2025-boost-your-dev-workflow-automate-apis-track-payouts--3po0)
-- [I Built an AI Name Generator for Literally Anything](https://dev.to/jiajunyan/i-built-an-ai-name-generator-for-literally-anything-3dkb)
-- [10+ Best Open-Source Alternatives to Your Favorite SaaS](https://dev.to/theme_selection/10-best-open-source-alternatives-to-your-favorite-saas-10f4)
-- [🔹 Good Design = Faster Decisions + Better User Experience!](https://dev.to/swetty_sultania_834f90237/good-design-faster-decisions-better-user-experience-31la)
-- [𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝗻𝗴 𝗮 𝗠𝗼𝗻𝘁𝗵𝗹𝘆 𝗘𝘅𝗽𝗲𝗻𝘀𝗲 𝗥𝗲𝗽𝗼𝗿𝘁 𝗳𝗼𝗿 𝗮 𝗨𝘀𝗲𝗿 𝗶𝗻 𝗖# 𝗨𝘀𝗶𝗻𝗴 𝗶𝗧𝗲𝘅𝘁𝗦𝗵𝗮𝗿𝗽 📄](https://dev.to/supraja_tangella_b7f0738e/-42e4)
+- [Certified Network Defender &lpar;CND&rpar; v3](https://dev.to/skillboosttrainer/certified-network-defender-cnd-v3-eff)
+- [On the Precarious Nature of Coding Jobs in 2025](https://dev.to/dotmavriq/on-the-precarious-nature-of-coding-jobs-in-2025-47hn)
+- [Things I Wish I Knew Before Building My First Shopware Plugin #shopware #symfony #php](https://dev.to/stefan-freelancer/things-i-wish-i-knew-before-building-my-first-shopware-plugin-shopware-symfony-php-195a)
+- [API as a Project vs. API as a Product](https://dev.to/devxme/api-as-a-project-vs-api-as-a-product-4gbe)
+- [API as a Project vs. API as a Product: Why Companies Should Treat Their APIs as Products](https://dev.to/devxme/api-as-a-project-vs-api-as-a-product-why-companies-should-treat-their-apis-as-products-14k9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
