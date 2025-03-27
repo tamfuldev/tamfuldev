@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Touch Events &lpar;swipe&rpar; using Stimulus](https://dev.to/railsdesigner/touch-events-swipe-using-stimulus-1kml)
-- [The Best Beginner Friendly JavaScript Coding Challenges](https://dev.to/logannford/the-best-beginner-friendly-javascript-coding-challenges-3gib)
-- [Are you using AI only to write code? You&#39;re missing out](https://dev.to/ayush2390/are-you-using-ai-only-to-write-code-youre-missing-out-28j3)
-- [11 Most Popular Tools for Logging and Monitoring API Calls](https://dev.to/moesif/11-most-popular-tools-for-logging-and-monitoring-api-calls-5f06)
-- [11 Most Popular Tools for Logging and Monitoring API Calls](https://dev.to/moesif/11-most-popular-tools-for-logging-and-monitoring-api-calls-561e)
+- [Run LLMs Locally: Build Your Own AI Chat Assistant](https://dev.to/khokon/run-llms-locally-build-your-own-ai-chat-assistant-ipc)
+- [OpenAI Agents SDK + Multiple MCP Servers](https://dev.to/seratch/openai-agents-sdk-multiple-mcp-servers-8d2)
+- [How to use Gyroscope in Presentations or Why Take a JoyCon to DPG2025](https://dev.to/jerryi/how-to-use-gyroscope-in-presentations-or-why-take-a-joycon-to-dpg2025-7k)
+- [Exploring ChatGPT’s New Image Generation Feature: Studio Ghibli-Inspired Artwork](https://dev.to/gajanan0707/exploring-chatgpts-new-image-generation-feature-studio-ghibli-inspired-artwork-3866)
+- [My 48h SaaS Challenge](https://dev.to/bartohm/my-48h-saas-challenge-2i9h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
