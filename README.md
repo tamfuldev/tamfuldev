@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps Made Simple: A Beginner’s Guide to Deploying a Scalable Web App on AWS with Terraform &amp; Docker](https://dev.to/yash_sonawane25/devops-made-simple-a-beginners-guide-to-deploying-a-scalable-web-app-on-aws-with-terraform--1f7)
-- [How to Cosplay 2: Costume and Props Production Guide](https://dev.to/gregg001/how-to-cosplay-2-costume-and-props-production-guide-2cc0)
-- [Как записать данные в файл Excel на языке C#](https://dev.to/jelizaveta/kak-zapisat-dannyie-v-fail-excel-na-iazykie-c-1h9i)
-- [Linux Commands](https://dev.to/bdporomon/linux-commands-2pf4)
-- [Testing Guide for Beginners](https://dev.to/thanh_danh_a24f36232c823b/testing-guide-for-beginners-3cih)
+- [Contribute to Open English VN – Help Build a Valuable Learning Resource!](https://dev.to/gianguyen1234/contribute-to-open-english-vn-help-build-a-valuable-learning-resource-gal)
+- [greedy challenges](https://dev.to/johnsone_emett_c5c2b56a4a/greedy-challenges-oe3)
+- [[Boost]](https://dev.to/sudhanshu_dasgupta/-868)
+- [NocoBase Weekly Updates: Support user role union](https://dev.to/nocobase/nocobase-weekly-updates-support-user-role-union-5fk)
+- [SolidJS](https://dev.to/taytay836/solidjs-4doa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
