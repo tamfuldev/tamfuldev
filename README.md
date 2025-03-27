@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Test API](https://dev.to/hoangthanh/test-api-5a2d)
-- [Top Features of Salesforce B2B Commerce Cloud for Business Growth](https://dev.to/smartitstaff/top-features-of-salesforce-b2b-commerce-cloud-for-business-growth-473i)
-- [🧭 Part 3: Implementing Vector Search with Pinecone](https://dev.to/praveencs87/part-3-implementing-vector-search-with-pinecone-4aj0)
-- [How David Lieb Turned a Failing Startup Into Google Photos | Backstory](https://dev.to/jetthoughts/how-david-lieb-turned-a-failing-startup-into-google-photos-backstory-4864)
-- [Vibe Coding: Transforming Software Development Forever](https://dev.to/ayush_chaudhary_b5df8f756/vibe-coding-transforming-software-development-forever-5a8a)
+- [Integrating Quantum Computing with AI: The Next Frontier](https://dev.to/ayusharpcoder/integrating-quantum-computing-with-ai-the-next-frontier-15kb)
+- [How Can AI Fix Bugs Automatically?](https://dev.to/webshipco/how-can-ai-fix-bugs-automatically-2b9f)
+- [Burndown charts don’t tell the whole story. The right project metrics can drive real progress, improve team efficiency, and reduce bottlenecks. Explore the key metrics that matter most to developers.](https://dev.to/naik_sejal/burndown-charts-dont-tell-the-whole-story-the-right-project-metrics-can-drive-real-progress-11ic)
+- [Burndown charts are just the tip of the iceberg! Discover the project metrics that truly impact developers—think cycle time, DORA metrics, and developer satisfaction.](https://dev.to/pranesh_patel/burndown-charts-are-just-the-tip-of-the-iceberg-discover-the-project-metrics-that-truly-impact-4klg)
+- [Create Tkinter GUI’s using Tkinter GUI Builder — PyUiBuilder](https://dev.to/paul_freeman/create-tkinter-guis-using-tkinter-gui-builder-pyuibuilder-14cp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
