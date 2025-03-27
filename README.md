@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Google DeepMind Introduces Gemini 2.5: A Leap Forward with &quot;Thinking&quot; AI](https://dev.to/jayptl_rq/google-deepmind-introduces-gemini-25-a-leap-forward-with-thinking-ai-3oo4)
-- [Exploring AI-Powered Edge Computing for Smart Cities](https://dev.to/kartikmehta8/exploring-ai-powered-edge-computing-for-smart-cities-khd)
-- [【电机控制器】以STC8H1K系列举例——持续更新](https://dev.to/kisorge/dian-ji-kong-zhi-qi-yi-stc8h1kxi-lie-ju-li-chi-xu-geng-xin-1kb0)
-- [The Ultimate HTML Cheat Sheet](https://dev.to/tene/the-ultimate-html-tags-list-cheatsheet-3po4)
-- [GoFrame&#39;s garray: The Array Package You Didn&#39;t Know You Needed 🚀](https://dev.to/jones_charles_ad50858dbc0/goframes-garray-the-array-package-you-didnt-know-you-needed-43jc)
+- [DevOps Made Simple: A Beginner’s Guide to Deploying a Scalable Web App on AWS with Terraform &amp; Docker](https://dev.to/yash_sonawane25/devops-made-simple-a-beginners-guide-to-deploying-a-scalable-web-app-on-aws-with-terraform--1f7)
+- [How to Cosplay 2: Costume and Props Production Guide](https://dev.to/gregg001/how-to-cosplay-2-costume-and-props-production-guide-2cc0)
+- [Как записать данные в файл Excel на языке C#](https://dev.to/jelizaveta/kak-zapisat-dannyie-v-fail-excel-na-iazykie-c-1h9i)
+- [Linux Commands](https://dev.to/bdporomon/linux-commands-2pf4)
+- [Testing Guide for Beginners](https://dev.to/thanh_danh_a24f36232c823b/testing-guide-for-beginners-3cih)
 <!-- BLOG-POST-LIST:END -->
 
 ---
