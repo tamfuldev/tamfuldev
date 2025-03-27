@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Run LLMs Locally: Build Your Own AI Chat Assistant](https://dev.to/khokon/run-llms-locally-build-your-own-ai-chat-assistant-ipc)
-- [OpenAI Agents SDK + Multiple MCP Servers](https://dev.to/seratch/openai-agents-sdk-multiple-mcp-servers-8d2)
-- [How to use Gyroscope in Presentations or Why Take a JoyCon to DPG2025](https://dev.to/jerryi/how-to-use-gyroscope-in-presentations-or-why-take-a-joycon-to-dpg2025-7k)
-- [Exploring ChatGPT’s New Image Generation Feature: Studio Ghibli-Inspired Artwork](https://dev.to/gajanan0707/exploring-chatgpts-new-image-generation-feature-studio-ghibli-inspired-artwork-3866)
-- [My 48h SaaS Challenge](https://dev.to/bartohm/my-48h-saas-challenge-2i9h)
+- [🚀 Introducing `neo`: A CLI Tool for Your NeoHaskell Projects](https://dev.to/neohaskell/introducing-neo-a-cli-tool-for-your-neohaskell-projects-58gp)
+- [Symbol.iterator and Custom Iteration Protocols](https://dev.to/omriluz1/symboliterator-and-custom-iteration-protocols-1h5o)
+- [Open Source: AWS Lambda + Puppeteer Starter Repo](https://dev.to/geiger01/open-source-aws-lambda-puppeteer-starter-repo-5f4g)
+- [Advanced Jetpack Compose Previews](https://dev.to/markkazakov/advanced-jetpack-compose-previews-1f49)
+- [Autenticación Social en Aplicaciones Web Usando AWS Cognito y OAuth](https://dev.to/geramireze/autenticacion-social-en-aplicaciones-web-usando-aws-cognito-y-oauth-1jj9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
