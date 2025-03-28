@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Video streaming tutorial. Javascript webrtc streaming example 🌐LibreRemotePlay](https://dev.to/piterweb/video-streaming-tutorial-javascript-webrtc-streaming-example-libreremoteplay-l90)
-- [How to start using gRPC with PHP - Part 4/4](https://dev.to/getjv/how-to-start-using-grpc-with-php-part-44-42ki)
-- [🧪 Types of Software Testing and What They Actually Accomplish](https://dev.to/criscmd/types-of-software-testing-and-what-they-actually-accomplish-4b7)
-- [Applications in prod. How to handle skyrocket growth with caching.](https://dev.to/redlineeyes/applications-in-prod-how-to-handle-skyrocket-growth-with-caching-6i2)
-- [I Made a TUI in C... and regretted it](https://dev.to/kurealnum/i-made-a-tui-in-c-and-regretted-it-2gh5)
+- [PACELC Theorem in Distributed Databases](https://dev.to/devcorner/pacelc-theorem-in-distributed-databases-pfe)
+- [Java Class](https://dev.to/sudhakar_v_c404997aeec839/java-class-5coa)
+- [Why AI Agents in Web3 Desperately Need a Privacy Layer &lpar;and How Oasis Sapphire Solves It&rpar;](https://dev.to/caerlower/why-ai-agents-in-web3-desperately-need-a-privacy-layer-and-how-oasis-sapphire-solves-it-2e5g)
+- [TangoMan vscode-command-cycle: Simplify Your Workflow with Command Cycling in VSCode](https://dev.to/tangoman75/tangoman-vscode-command-cycle-simplify-your-workflow-with-command-cycling-in-vscode-4830)
+- [Best Networking Solutions: Aruba &amp; Ubiquiti for Reliable Connectivity](https://dev.to/marvelolivia/best-networking-solutions-aruba-ubiquiti-for-reliable-connectivity-4oia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
