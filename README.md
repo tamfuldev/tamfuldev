@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Future of Mobile App Testing: Ensuring Quality in an AI-Driven World](https://dev.to/radha_4c842d8e4362a7cdd9c/future-of-mobile-app-testing-ensuring-quality-in-an-ai-driven-world-5glk)
-- [6 Key Factors Affecting Abrasive Blasting Results: An Optimization Guide for Engineers &amp; Procurement Managers](https://dev.to/js-henglihong/6-key-factors-affecting-abrasive-blasting-results-an-optimization-guide-for-engineers--4j2l)
-- [Complete Terraform Course - From BEGINNER to PRO](https://dev.to/rahimbtc1994/complete-terraform-course-from-beginner-to-pro-1boc)
-- [Building Your First Android App: A Beginner&#39;s Guide](https://dev.to/million_formula_3be3d915d/building-your-first-android-app-a-beginners-guide-372l)
-- [Demystifying CSS Grid: A Comprehensive Guide for Modern Layouts](https://dev.to/louay24/demystifying-css-grid-a-comprehensive-guide-for-modern-layouts-2k5i)
+- [Day-07: Unpacking Java: How Classes, Objects, and Methods Work Together](https://dev.to/e00049/day-07-unpacking-java-how-classes-objects-and-methods-work-together-290e)
+- [NestJS Best Practices for Developers](https://dev.to/raviyasas/nestjs-best-practices-for-developers-1670)
+- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-2h4f)
+- [JavaScript Callback Functions - What are they and how to use them.](https://dev.to/logannford/javascript-callback-functions-what-are-they-and-how-to-use-them-30n4)
+- [鸿蒙开发：单一手势实现多次点击事件](https://dev.to/abnerming888/hong-meng-kai-fa-dan-shou-shi-shi-xian-duo-ci-dian-ji-shi-jian-4bgh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
