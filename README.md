@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Wireframes for Better Team Collaboration](https://dev.to/taskframe/how-to-use-wireframes-for-better-team-collaboration-27mc)
-- [Key Strategies for Effective Records Management](https://dev.to/kara_masterson/key-strategies-for-effective-records-management-340h)
-- [10+ Best News APIs for Devs](https://dev.to/mattthehobbydev/10-best-news-apis-for-devs-1fdi)
-- [Mastering CSS Float Property for Modern Layouts](https://dev.to/thedevspace/mastering-css-float-property-for-modern-layouts-5bh7)
-- [Storybook Starter Guide: Learn Design System Principles](https://dev.to/ckeditor/storybook-starter-guide-learn-design-system-principles-2b61)
+- [AWS Security Tools for Your Environment.](https://dev.to/aws-builders/aws-security-tools-for-your-environment-5c8l)
+- [Local Tunnels](https://dev.to/ghoshbishakh/local-tunnels-376e)
+- [MLflow-Powered Generative AI Observability with Amazon Bedrock](https://dev.to/aws-builders/mlflow-powered-generative-ai-observability-with-amazon-bedrock-47nb)
+- [Securing MCP: Applying Lessons Learned from the Language Server Protocol](https://dev.to/kitops/securing-mcp-applying-lessons-learned-from-the-language-server-protocol-338)
+- [Unified Supremacy: How I Orchestrated Microsoft’s Full Stack into an Autonomous AI-Driven Control System](https://dev.to/aakash_rahsi_8d28156d5f2c/unified-supremacy-how-i-orchestrated-microsofts-full-stack-into-an-autonomous-ai-driven-control-15d0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
