@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to build a strong code review culture](https://dev.to/kodus/how-to-build-a-strong-code-review-culture-225d)
-- [Mastering Python: A Step-by-Step Guide for Beginners](https://dev.to/ndivho_ndadza_8a33fba4943/mastering-python-a-step-by-step-guide-for-beginners-5fdk)
-- [Writing Software That Works with the Machine, Not Against It in GO](https://dev.to/l_walid/writing-software-that-works-with-the-machine-not-against-it-in-go-1apg)
-- [I am trying figuring out SSL in Apache kafka kraft 4.0.0. Have setup the keystore, truststore, self signed ca &lpar;testing&rpar;, raised car, signed it got .crt files then imported .crt and truststore into keystore for each controller and broker. Word limit reached](https://dev.to/datalotbagger/i-am-trying-figuring-out-ssl-in-apache-kafka-kraft-400-have-setup-the-keystore-truststore-self-4l57)
-- [Debugged AI](https://dev.to/jpvance123/debugged-ai-3gjl)
+- [Playwrite - Basics](https://dev.to/kiranuknow/playwrite-basics-2j58)
+- [Creating a Super-Agent to Manage Milk, Routes, Health &amp; Humans](https://dev.to/sriharikatta/creating-a-super-agent-to-manage-milk-routes-health-humans-20p8)
+- [Breaking Free from Webflow&#39;s Hosting Chains: Exporting Your Entire Site &lpar;Including CMS&rpar;](https://dev.to/ybouane/breaking-free-from-webflows-hosting-chains-exporting-your-entire-site-including-cms-19gf)
+- [Skyren DAO: Advanced Yield Tokenization and Dynamic Airdrop Farming](https://dev.to/skyrenfoundation/skyren-dao-advanced-yield-tokenization-and-dynamic-airdrop-farming-38bk)
+- [🚀CommitBro — an AI Git commit message generator that runs locally, speaks your language](https://dev.to/aidataguy/commitbro-an-ai-git-commit-message-generator-that-runs-locally-speaks-your-language-54kp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
