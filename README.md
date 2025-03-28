@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dear Vim, Thanks for My Configuration Addiction](https://dev.to/pacheco/dear-vim-thanks-for-my-configuration-addiction-1j91)
-- [Looks promising.. Need to check it!](https://dev.to/wahabshah23/looks-promising-need-to-check-it-3450)
-- [Estou pensando em como faço para não desistir de novo de aprender desenvolvimento web e programação, eu sempre começo e paro no meio do caminho!](https://dev.to/sofia_rebeca/estou-pensando-em-como-faco-para-nao-desistir-de-novo-de-aprender-desenvolvimento-web-e-4jb0)
-- [Common Async/Await mistakes in C#](https://dev.to/jrmorais3/common-asyncawait-mistakes-in-c-2i3g)
-- [This is How Senior developers name their functions and variables](https://dev.to/coderosion/this-is-how-senior-developers-name-their-functions-and-variables-33jn)
+- [Operation Golden Arches: A Playful Hacker&#39;s Deep Dive into McDonald&#39;s Deal Exploits](https://dev.to/copyleftdev/operation-golden-arches-a-playful-hackers-deep-dive-into-mcdonalds-deal-exploits-363a)
+- [🤔 To Do Assistant: The Plan](https://dev.to/mrzaizai2k/to-do-assistant-the-plan-1iek)
+- [【结构设计】立创EDA专业版——3D外壳设计](https://dev.to/kisorge/jie-gou-she-ji-li-chuang-edazhuan-ye-ban-3dwai-ke-she-ji-3lhh)
+- [Introducing: CloudMind](https://dev.to/cbtw98/introducing-cloudmind-g21)
+- [Analyze the special solution for industrial PC disk power supply burnout](https://dev.to/sinsmarttech/analyze-the-special-solution-for-industrial-pc-disk-power-supply-burnout-536f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
