@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Automad No Longer Uses Any Frontend or Backend Framework](https://dev.to/marcantondahmen/why-automad-no-longer-uses-any-frontend-or-backend-framework-3pod)
-- [New AI Training Method Cuts Vision Model Development Time by 83% While Boosting Performance](https://dev.to/mikeyoung44/new-ai-training-method-cuts-vision-model-development-time-by-83-while-boosting-performance-m85)
-- [AI Search Method Boosts Answer Accuracy While Using Fewer Documents, Study Shows](https://dev.to/mikeyoung44/ai-search-method-boosts-answer-accuracy-while-using-fewer-documents-study-shows-fjn)
-- [Safe array handling? Never heard of it](https://dev.to/pvsdev/safe-array-handling-never-heard-of-it-22i7)
-- [First Dataset Shows Major Gaps in Self-Driving AI&#39;s Ability to Learn from Corrections](https://dev.to/mikeyoung44/first-dataset-shows-major-gaps-in-self-driving-ais-ability-to-learn-from-corrections-374)
+- [Error Handling in Go vs. C#: Trading Exceptions for Clarity](https://dev.to/syawqy/error-handling-in-go-vs-c-trading-exceptions-for-clarity-41pn)
+- [166/365 | ¥10M Job Challenge - X account got suspended](https://dev.to/kameken100/166365-y10m-job-challenge-x-account-got-suspended-1318)
+- [Building AI-Powered Applications in Laravel with Neuron AI](https://dev.to/robin-ivi/building-ai-powered-applications-in-laravel-with-neuron-ai-3mc9)
+- [&#39;if consteval&#39; in C++20 - A Better Alternative to is_constant_evaluated&lpar;&rpar;](https://dev.to/adam_czapla/if-consteval-in-c20-a-better-alternative-to-isconstantevaluated-590m)
+- [How to Reduce Your AWS Bill: 3 Hidden Costs You Might Be Ignoring](https://dev.to/aws-builders/how-to-reduce-your-aws-bill-3-hidden-costs-you-might-be-ignoring-424o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
