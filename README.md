@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Wireframing for Beginners - 10 Tips to Get Started](https://dev.to/taskframe/wireframing-for-beginners-10-tips-to-get-started-1fk2)
-- [The AI Revolution in Software Engineering: What Stays, What Changes?](https://dev.to/vishal563/the-ai-revolution-in-software-engineering-what-stays-what-changes-3lc4)
-- [Building my first AI agent with NeuronAI and Ollama](https://dev.to/robertobutti/building-my-first-ai-agent-with-neuronai-and-ollama-2kdg)
-- [Raycast: More Than a Launcher, It&#39;s Your Development Command Center](https://dev.to/simplr_sh/raycast-more-than-a-launcher-its-your-development-command-center-48o1)
-- [🔐 Understanding SAML, OAuth 2.0 and OpenID Connect](https://dev.to/fazal_mansuri_/understanding-saml-oauth-20-and-openid-connect-1d3c)
+- [React Native Reanimated 3: The Ultimate Guide to High-Performance Animations in 2025 🚀](https://dev.to/erenelagz/react-native-reanimated-3-the-ultimate-guide-to-high-performance-animations-in-2025-4ae4)
+- [OAuth Authentication: Google, Facebook, GitHub Login via NODE JS &lpar;Backend&rpar;](https://dev.to/uniyalmanas/oauth-authentication-google-facebook-github-login-via-node-js-backend-22fg)
+- [Concurrency Showdown: Goroutines and Channels vs. C#&#39;s async/await and TPL](https://dev.to/syawqy/concurrency-showdown-goroutines-and-channels-vs-cs-asyncawait-and-tpl-32pb)
+- [Chart an Extensible Course with Helm](https://dev.to/aws-builders/chart-an-extensible-course-with-helm-2b9g)
+- [Synchronous vs. Asynchronous in Python: Understanding the Key Differences](https://dev.to/engrmark/synchronous-vs-asynchronous-in-python-understanding-the-key-differences-d7g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
