@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [whoamI - my joyful journey into the unknown aka tech industry](https://dev.to/alexandrammr/whoami-my-joyful-journey-into-the-unknown-aka-tech-industry-1fd6)
-- [La seguridad y la guerra en la era de la Inteligencia Artificial](https://dev.to/j0rgear/la-seguridad-y-la-guerra-en-la-era-de-la-inteligencia-artificial-4ooc)
-- [Decade of Growth as a Software Engineer](https://dev.to/manideep_ami/decade-of-growth-as-a-software-engineer-3998)
-- [Native vs. Cross-Platform App Development: The Best Choice for Nigerian Startups](https://dev.to/raji_moshood_ee3a4c2638f6/native-vs-cross-platform-app-development-the-best-choice-for-nigerian-startups-2k63)
-- [GITHUB !!!!!!!](https://dev.to/vipulsc1/github--agf)
+- [Explore Golang Metaprogramming: A Deep Dive](https://dev.to/leapcell/explore-golang-metaprogramming-a-deep-dive-3i0k)
+- [Conditional Rendering in React: The Ultimate Guide](https://dev.to/devshefali/conditional-rendering-in-react-the-ultimate-guide-5c09)
+- [🌟 Hackathon Tamasha: Where DevOps Meets Creativity! 🚀](https://dev.to/francescobianco/hackathon-tamasha-where-devops-meets-creativity-o3o)
+- [Checkout Slate - A super simple markdown editor with AI superpowers](https://dev.to/thetronjohnson/checkout-slate-a-super-simple-markdown-editor-with-ai-superpowers-3l5)
+- [Lifetimes in Rust: Preventing Dangling References](https://dev.to/gideonbature/lifetimes-in-rust-preventing-dangling-references-6pj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
