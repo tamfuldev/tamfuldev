@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [8.6 Conhecendo mais métodos do Stream](https://dev.to/fundamentosjava/86-conhecendo-mais-metodos-do-stream-4agb)
-- [getting past the airtag limit on ios](https://dev.to/sam_sorkin_f6060af993cd63/getting-past-the-airtag-limit-on-ios-1ie3)
-- [The Ultimate Guide to Mobile Game Performance Testing in 2025: Metrics, Tools, and Future Trends](https://dev.to/radha_4c842d8e4362a7cdd9c/the-ultimate-guide-to-mobile-game-performance-testing-in-2025-metrics-tools-and-future-trends-29da)
-- [Eclipse Code Template](https://dev.to/jay_l_d9070976d2f2c99d5ee/eclipse-code-template-48f9)
-- [Is Modern Web Dev Too Complex for Newcomers?](https://dev.to/distalx/is-modern-web-dev-too-complex-for-newcomers-5aon)
+- [8.9 FlatMap](https://dev.to/fundamentosjava/89-flatmap-4pnk)
+- [8.8 Praticando o que aprendemos com java.nio.file.Files](https://dev.to/fundamentosjava/88-praticando-o-que-aprendemos-com-javaniofilefiles-5c0l)
+- [The Principle Analysis of Frontend Monitoring SDK](https://dev.to/woai3c/the-principle-analysis-of-frontend-monitoring-sdk-bpf)
+- [8.7 Streams primitivos e infinitos](https://dev.to/fundamentosjava/87-streams-primitivos-e-infinitos-10df)
+- [Adding Electronic Signatures to a Rails 8 App](https://dev.to/ukaypromise/adding-electronic-signatures-to-a-rails-8-app-1jdo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
