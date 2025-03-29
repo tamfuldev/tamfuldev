@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Startup Weekend Pitch Events Fail Great Ideas](https://dev.to/criticalmynd/why-startup-weekend-pitches-fail-great-ideas-2em3)
-- [🚀 Master JavaScript Operators &amp; Math Methods](https://dev.to/ebereplenty/master-javascript-operators-math-methods-5879)
-- [JavaFX Notepad Tutorial](https://dev.to/mklestil/javafx-notepad-tutorial-52hk)
-- [Tokenizing Nigerian Real Estate: How Blockchain is Changing Property Investment](https://dev.to/raji_moshood_ee3a4c2638f6/tokenizing-nigerian-real-estate-how-blockchain-is-changing-property-investment-2ojf)
-- [Models46](https://dev.to/rahul_d_69c56a981e11c6728/models46-n5n)
+- [whoamI - my joyful journey into the unknown aka tech industry](https://dev.to/alexandrammr/whoami-my-joyful-journey-into-the-unknown-aka-tech-industry-1fd6)
+- [La seguridad y la guerra en la era de la Inteligencia Artificial](https://dev.to/j0rgear/la-seguridad-y-la-guerra-en-la-era-de-la-inteligencia-artificial-4ooc)
+- [Decade of Growth as a Software Engineer](https://dev.to/manideep_ami/decade-of-growth-as-a-software-engineer-3998)
+- [Native vs. Cross-Platform App Development: The Best Choice for Nigerian Startups](https://dev.to/raji_moshood_ee3a4c2638f6/native-vs-cross-platform-app-development-the-best-choice-for-nigerian-startups-2k63)
+- [GITHUB !!!!!!!](https://dev.to/vipulsc1/github--agf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
