@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [React Native Reanimated 3: The Ultimate Guide to High-Performance Animations in 2025 🚀](https://dev.to/erenelagz/react-native-reanimated-3-the-ultimate-guide-to-high-performance-animations-in-2025-4ae4)
-- [OAuth Authentication: Google, Facebook, GitHub Login via NODE JS &lpar;Backend&rpar;](https://dev.to/uniyalmanas/oauth-authentication-google-facebook-github-login-via-node-js-backend-22fg)
-- [Concurrency Showdown: Goroutines and Channels vs. C#&#39;s async/await and TPL](https://dev.to/syawqy/concurrency-showdown-goroutines-and-channels-vs-cs-asyncawait-and-tpl-32pb)
-- [Chart an Extensible Course with Helm](https://dev.to/aws-builders/chart-an-extensible-course-with-helm-2b9g)
-- [Synchronous vs. Asynchronous in Python: Understanding the Key Differences](https://dev.to/engrmark/synchronous-vs-asynchronous-in-python-understanding-the-key-differences-d7g)
+- [2818. Apply Operations to Maximize Score](https://dev.to/mdarifulhaque/2818-apply-operations-to-maximize-score-48dm)
+- [Convert into the studio Ghibli](https://dev.to/saniya_praveen_3732c6a9f6/convert-into-the-studio-ghibli-g9a)
+- [Security Comparison Of Best Web3 Wallets To Develop On](https://dev.to/thirdwebdeveloper/security-comparison-of-best-web3-wallets-to-develop-on-dof)
+- [High-Performance Secure Networking with RIOC](https://dev.to/mehrant/high-performance-secure-networking-with-rioc-3kco)
+- [Frontend Dev Tries Backend… Sends Server to Another Dimension 🚀](https://dev.to/preeti_yadav/frontend-dev-tries-backend-sends-server-to-another-dimension-47l9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
