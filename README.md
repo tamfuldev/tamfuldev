@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Different SSH Keys for GitHub and Bitbucket on the Same Machine](https://dev.to/koushikweb/how-to-use-different-ssh-keys-for-github-and-bitbucket-on-the-same-machine-hf)
-- [Unpacking React Router v7.4: A Source Code Guided Tour](https://dev.to/kenn/unpacking-react-router-v74-a-source-code-guided-tour-47d4)
-- [What should you expect when collaborating with a professional Ludo game development company?](https://dev.to/jamie_sugar_952598da38817/what-should-you-expect-when-collaborating-with-a-professional-ludo-game-development-company-3d3e)
-- [Web3 is Too Fragmented. Here’s How We’re Fixing It.](https://dev.to/omniradhanexus/web3-is-too-fragmented-heres-how-were-fixing-it-4k0j)
-- [Was](https://dev.to/tayeb_mohamed_0cad9a1105b/was-3nmf)
+- [Object.getOwnPropertyDescriptors and Property Management](https://dev.to/omriluz1/objectgetownpropertydescriptors-and-property-management-3mmb)
+- [What is NPL?](https://dev.to/e77/what-is-npl-57oe)
+- [AI Development Made Simple for Web Developers!](https://dev.to/kakasoo/ai-development-made-simple-for-web-developers-3pa0)
+- [The GitHub PR Grim Reaper: Because Your Team Won&#39;t Clean Up After Themselves](https://dev.to/arec1b0/the-github-pr-grim-reaper-because-your-team-wont-clean-up-after-themselves-ffn)
+- [Screenshot testing: Gotta Catch &#39;Em All](https://dev.to/marvinav/screenshot-testing-gotta-catch-em-all-3123)
 <!-- BLOG-POST-LIST:END -->
 
 ---
