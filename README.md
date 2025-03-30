@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Inlining and Deoptimization in JavaScript Engines](https://dev.to/omriluz1/inlining-and-deoptimization-in-javascript-engines-117h)
-- [Holograms You Can See, Hear, and Touch](https://dev.to/justin_downes/holograms-you-can-see-hear-and-touch-2930)
-- [The Harsh Truth: Why Most Developers Stay Stuck in Service-Based Companies 🚨](https://dev.to/piyush_sati_0409/the-harsh-truth-why-most-developers-stay-stuck-in-service-based-companies-1h70)
-- [damaged ZIP file during WordPress export](https://dev.to/m7d/damaged-zip-file-during-wordpress-export-2iej)
-- [How to Prepare for a Technical Interview as an SDET](https://dev.to/marcos_galeano/how-to-prepare-for-a-technical-interview-as-an-sdet-1b60)
+- [Ember Essence](https://dev.to/wlegard/ember-essence-16mf)
+- [Understanding Operating System concepts](https://dev.to/leadpresence/understanding-operating-system-concepts-41e9)
+- [We struggled at $1k MRR for a year… then hit $1k MRR in 2 weeks &lpar;and here&#39;s why&rpar;](https://dev.to/hugo_theindiesaas/we-struggled-at-1k-mrr-for-a-year-then-hit-1k-mrr-in-2-weeks-and-heres-why-2a0p)
+- [Deploy A Simple Cat Website to Azure 🐱](https://dev.to/saisha_goel/deploy-a-simple-cat-website-to-azure-8d)
+- [Beyond Cryptocurrency: Unlocking the Potential of Smart Contracts in Web3 Applications](https://dev.to/slyvestang/beyond-cryptocurrency-unlocking-the-potential-of-smart-contracts-in-web3-applications-3g58)
 <!-- BLOG-POST-LIST:END -->
 
 ---
