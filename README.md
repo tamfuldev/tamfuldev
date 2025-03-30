@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Team That Resembles Your Brand Values and Vision](https://dev.to/okoye_ndidiamaka_5e3b7d30/building-a-team-that-resembles-your-brand-values-and-vision-5586)
-- [Optimizing Multithreading Performance in Java: Best Practices and Techniques](https://dev.to/tpointtechadu/optimizing-multithreading-performance-in-java-best-practices-and-techniques-lf7)
-- [Finding the Right Collaborator on GitHub](https://dev.to/miltonhyndrex/finding-the-right-collaborator-on-github-g0p)
-- [AI Model Predicts Node Importance in Networks Using Limited Data and Uncertainty Analysis](https://dev.to/mikeyoung44/ai-model-predicts-node-importance-in-networks-using-limited-data-and-uncertainty-analysis-205m)
-- [Mastering `EXPLAIN ANALYZE` in MySQL: Optimize Your Queries Like a Pro!](https://dev.to/devcorner/mastering-explain-analyze-in-mysql-optimize-your-queries-like-a-pro-3ekk)
+- [V8 Engine Optimization Techniques](https://dev.to/omriluz1/v8-engine-optimization-techniques-1bcd)
+- [Auto-Scaling Web Application with CI/CD Pipeline on AWS](https://dev.to/akuphe-devops/auto-scaling-web-application-with-cicd-pipeline-on-aws-4gm4)
+- [5 Awesome ownCloud Alternatives to consider in 2025](https://dev.to/code42cate/5-awesome-owncloud-alternatives-to-consider-in-2025-1oa)
+- [🔐 Secure Password Manager: A Modern Tkinter-Based Solution for Safeguarding Your Credentials](https://dev.to/srijan-xi/secure-password-manager-a-modern-tkinter-based-solution-for-safeguarding-your-credentials-1blc)
+- [10 Must-Read SQL and Database Design Books for Software Engineers](https://dev.to/somadevtoo/10-must-read-sql-and-database-design-books-for-software-engineers-5f6m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
