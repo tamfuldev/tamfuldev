@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Inboto: Your AI Copilot for Effortless Email Support](https://dev.to/jianping_liu/introducing-inboto-your-ai-copilot-for-effortless-email-support-4987)
-- [DevOps Made Simple: A Beginner’s Guide to Landing a DevOps Internship](https://dev.to/yash_sonawane25/devops-made-simple-a-beginners-guide-to-landing-a-devops-internship-4ch6)
-- [Superintelligence: Choosing Life](https://dev.to/i_g_f7eb0420f3daf5a22bee1/superintelligence-choosing-life-9ni)
-- [Understanding Cyclomatic Complexity in Go: A Comprehensive Guide](https://dev.to/l_walid/understanding-cyclomatic-complexity-in-go-a-comprehensive-guide-2lpl)
-- [Tutorial 3: Swift Control Flow - Loops, Conditionals, and Optionals](https://dev.to/cl0udleadanis/swift-control-flow-loops-conditionals-and-optionals-4h9k)
+- [I Built an LLM Framework in just 100 Lines — Here is Why](https://dev.to/zachary62/i-built-an-llm-framework-in-just-100-lines-here-is-why-35b0)
+- [Master side effects, dependencies, and cleanup like a pro! 🚀 Learn how to fetch data, manage event listeners, and avoid common mistakes. #React #WebDev #JavaScript #reacthooks](https://dev.to/joshi16/master-side-effects-dependencies-and-cleanup-like-a-pro-learn-how-to-fetch-data-manage-event-1e6m)
+- [🚀 The 1825-Day Challenge – A Journey of Consistency](https://dev.to/munin-1/the-1825-day-challenge-a-journey-of-consistency-3i44)
+- [Complete DSA Roadmap for Product-Based Companies](https://dev.to/coder_studios/complete-dsa-roadmap-for-product-based-companies-1coj)
+- [🧠 Understanding useEffect in React](https://dev.to/joshi16/understanding-useeffect-in-react-1geb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
