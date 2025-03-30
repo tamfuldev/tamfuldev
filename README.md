@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Weekly #13-2025: AI, React, PHPxTKY meetup and More](https://dev.to/weekly/weekly-13-2025-ai-react-phpxtky-meetup-and-more-23n9)
-- [Boost Your Django Docker Images by using UV package and project manager](https://dev.to/soldatov-ss/boost-your-django-docker-images-by-using-uv-package-and-project-manager-16lj)
-- [Convert this image into ghibli studio style art](https://dev.to/aniket_singh_373c14d1d9f1/convert-this-image-into-ghibli-studio-style-art-7g2)
-- [Going beyond the docs: Story of fixing the third-party code](https://dev.to/aloisseckar/going-beyond-the-docs-2lff)
-- [Construyendo un BFF en Go con OpenAPI: Casos de Uso y Buenas Prácticas](https://dev.to/devjaime/construyendo-un-bff-en-go-con-openapi-casos-de-uso-y-buenas-practicas-39ag)
+- [🌟 When Your Code Works but You Have No Idea Why 🤔](https://dev.to/hanzla-baig/when-your-code-works-but-you-have-no-idea-why-47i)
+- [My WeCoded Landing Page](https://dev.to/imamdev_/my-wecoded-landing-page-d5i)
+- [🌟 Stop Using Bootstrap: Here’s Why Tailwind CSS Is Better 🚀](https://dev.to/hanzla-baig/stop-using-bootstrap-heres-why-tailwind-css-is-better-2jih)
+- [168/365 - IPA Exam](https://dev.to/kameken100/168365-ipa-exam-587e)
+- [Do you know the closures well?](https://dev.to/ompals/do-you-know-the-closures-well-1cc4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
