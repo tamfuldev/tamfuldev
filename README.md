@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Develop a Powerful Commerce Platform with Magento Enterprise](https://dev.to/parthprajapatispan/how-to-develop-a-powerful-commerce-platform-with-magento-enterprise-35p4)
-- [Tokenization of Real-World Assets &lpar;RWA&rpar;](https://dev.to/victoruzo/tokenization-of-real-world-assets-rwa-1cj6)
-- [QEMU: Lightweight Virtualization for the Command Line Enthusiast](https://dev.to/sebos/qemu-lightweight-virtualization-for-the-command-line-enthusiast-n95)
-- [170/365 - IPA SG Exam](https://dev.to/kameken100/169365-ipa-sg-exam-21bd)
-- [169/365 - IPA SG Exam](https://dev.to/kameken100/169365-ipa-sg-exam-3ma8)
+- [Digitale Transformation in Bau und Projektmanagement mit Power Apps, Business Central und CX Time](https://dev.to/connamix/digitale-transformation-in-bau-und-projektmanagement-mit-power-apps-business-central-und-cx-time-1cbo)
+- [MCP unmasked: Why it matters, who should care, and where to be cautious](https://dev.to/subeshb1/mcp-unmasked-why-it-matters-who-should-care-and-where-to-be-cautious-1i7p)
+- [Why Doesn&#39;t Anyone Want to Write Code comments Anymore?](https://dev.to/brights/why-doesnt-anyone-want-to-write-code-comments-anymore-40jf)
+- [1º Projeto - Imersão Alura](https://dev.to/juniordamazeno/1o-projeto-imersao-alura-59ko)
+- [The Ecommerce Customer Experience Playbook: Turn Browsers Into Buyers](https://dev.to/kapusto/the-ecommerce-customer-experience-playbook-turn-browsers-into-buyers-l95)
 <!-- BLOG-POST-LIST:END -->
 
 ---
