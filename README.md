@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [k8sprojects.com The Kuberentes Review Platform](https://dev.to/kikiodazie/k8sprojectscom-the-kuberentes-review-platform-4i8l)
-- [Integrating Fractal ArUco Markers into OpenCV: A Game-Changer for Fiducial Marker Detection](https://dev.to/suhasramesha/integrating-fractal-aruco-markers-into-opencv-a-game-changer-for-fiducial-marker-detection-4j57)
-- [Mastering pull requests. How to prepare and review.](https://dev.to/rigo/mastering-pull-requests-how-to-prepare-and-review-1lff)
-- [Why Knowing CMS Can Make You a More Valuable Developer](https://dev.to/arseniydev/why-knowing-cms-can-make-you-a-more-valuable-developer-3e2n)
-- [Securing My AWS EC2: A Journey Through IAM and SSH Struggles](https://dev.to/tharun_reddy_a193bc1b993b/securing-my-aws-ec2-a-journey-through-iam-and-ssh-struggles-3e9d)
+- [A Deep Dive into Apache Doris Indexes](https://dev.to/darren_xu/a-deep-dive-into-apache-doris-indexes-3fi8)
+- [What is Google Apps Script?](https://dev.to/googleworkspace/what-is-google-apps-script-58d)
+- [A Must-Read Guide to Project Planning &amp; Scheduling Software for IT Companies](https://dev.to/vaishnavi_lokhande_af0b66/a-must-read-guide-to-project-planning-scheduling-software-for-it-companies-110f)
+- [Set in Java](https://dev.to/neelakandan_ravi_2000/set-in-java-fb7)
+- [Fix InvalidParameterValueException for AWS Lambda docker images built by GitHub Actions](https://dev.to/aws-builders/fix-invalidparametervalueexception-for-aws-lambda-docker-images-built-by-github-actions-32p9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
