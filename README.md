@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Digitale Transformation in Bau und Projektmanagement mit Power Apps, Business Central und CX Time](https://dev.to/connamix/digitale-transformation-in-bau-und-projektmanagement-mit-power-apps-business-central-und-cx-time-1cbo)
-- [MCP unmasked: Why it matters, who should care, and where to be cautious](https://dev.to/subeshb1/mcp-unmasked-why-it-matters-who-should-care-and-where-to-be-cautious-1i7p)
-- [Why Doesn&#39;t Anyone Want to Write Code comments Anymore?](https://dev.to/brights/why-doesnt-anyone-want-to-write-code-comments-anymore-40jf)
-- [1º Projeto - Imersão Alura](https://dev.to/juniordamazeno/1o-projeto-imersao-alura-59ko)
-- [The Ecommerce Customer Experience Playbook: Turn Browsers Into Buyers](https://dev.to/kapusto/the-ecommerce-customer-experience-playbook-turn-browsers-into-buyers-l95)
+- [All Data and AI Weekly #183 - 31-March-2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-183-31-march-2025-4534)
+- [How to set up TypeScript with Node.js and Express](https://dev.to/logrocket/how-to-set-up-typescript-with-nodejs-and-express-3ab4)
+- [A Tool I Built for Synthetic Datasets](https://dev.to/voxdroid/a-tool-i-built-for-synthetic-datasets-301j)
+- [WeCoded Landing Page Celebrate in Code](https://dev.to/yashvikothari/wecoded-landing-page-celebrate-in-code-1f9o)
+- [Photo Metadata Standards: IPTC, EXIF, and XMP](https://dev.to/maryalice/photo-metadata-standards-iptc-exif-and-xmp-4n5d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
