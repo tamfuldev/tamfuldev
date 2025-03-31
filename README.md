@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Fountain of fire ministry](https://dev.to/khulisojohn/fountain-of-fire-ministry-a39)
-- [🚀 Optimizing Your React App: Best Practices for Developers](https://dev.to/ayon_ssp/optimizing-your-react-app-best-practices-for-developers-5egf)
-- [How to Optimize React Apps for SEO](https://dev.to/hasunnilupul/how-to-optimize-react-apps-for-seo-38h)
-- [JWT - Based Auth: A Deep Dive](https://dev.to/aditya999123/jwt-based-auth-a-deep-dive-559)
-- [Level Up Your Cypress Game: Cypress Smart Tests Plugin](https://dev.to/s_chathuranga_j/level-up-your-cypress-game-cypress-smart-tests-plugin-4i8o)
+- [The Digital Dilemma: Balancing Visibility with Privacy](https://dev.to/okoye_ndidiamaka_5e3b7d30/the-digital-dilemma-balancing-visibility-with-privacy-hej)
+- [Top Creative Strategies to Promote Your Event App on Social Media](https://dev.to/saanvipatel099/top-creative-strategies-to-promote-your-event-app-on-social-media-1mob)
+- [Understanding OAuth/OpenID Response Types in .NET Web APIs](https://dev.to/manhhungtran/understanding-oauthopenid-response-types-in-net-web-apis-311k)
+- [Chat 4O - AI Image Generator &amp; Assistant with GPT-4o &amp; O1](https://dev.to/chat4o_ai_64bc2ec253d50e6/chat-4o-ai-image-generator-assistant-with-gpt-4o-o1-57mm)
+- [Move All Special Characters to the End of the String in Java: A Detailed Guide](https://dev.to/tpointech/move-all-special-characters-to-the-end-of-the-string-in-java-a-detailed-guide-4kc0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
