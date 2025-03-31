@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [pg_dump PostgreSQL Backups: A Quick and Practical Guide](https://dev.to/dbvismarketing/pgdump-postgresql-backups-a-quick-and-practical-guide-o3l)
-- [Java Streams: The Gatherers API](https://dev.to/zenika/java-streams-the-gatherers-api-4b0d)
-- [Rise of Serverless Computing: End of Traditional Infrastructure?](https://dev.to/shashank_kumar_19ef36c198/rise-of-serverless-computing-end-of-traditional-infrastructure-2lbg)
-- [Embarking on Cloud Computing: My Journey Through the AWS 101 Workshop](https://dev.to/harshad_dpt/embarking-on-cloud-computing-my-journey-through-the-aws-101-workshop-4bbf)
-- [Journal 2: The Grind – Building Authentication &amp; Role Management 📅 Date: February 20th, 2025](https://dev.to/benedict_baah/journal-2-the-grind-building-authentication-role-management-date-february-20th-2025-2dhl)
+- [How to Identify and Fix Performance Bottlenecks in Your Mobile App](https://dev.to/aneeqakhan/how-to-identify-and-fix-performance-bottlenecks-in-your-mobile-app-4kmk)
+- [Event Loop Monitoring and Performance Analysis](https://dev.to/omriluz1/event-loop-monitoring-and-performance-analysis-mh0)
+- [Open/Closed Principle &lpar;OCP&rpar; and Dependency Inversion Principle &lpar;DIP&rpar;](https://dev.to/imajenasyon/openclosed-principle-ocp-and-dependency-inversion-principle-dip-54kb)
+- [Building a Solid Future: Exploring the Work of My Concrete Company TX](https://dev.to/anash_kom_e7cbffde/building-a-solid-future-exploring-the-work-of-my-concrete-company-tx-2c3m)
+- [4o Image Gen - Diffusion/Transformer Cross-over Trend?](https://dev.to/maximsaplin/4o-image-gen-diffusiontransformer-cross-over-trend-4p6k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
