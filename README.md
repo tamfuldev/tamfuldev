@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How AI is revolutionizing the way we build for the web.](https://dev.to/sunny7899/how-ai-is-revolutionizing-the-way-we-build-for-the-web-2o0m)
-- [Building Bitcoin&#39;s Proof of Work: A TypeScript Implementation Guide](https://dev.to/radzion/building-bitcoins-proof-of-work-a-typescript-implementation-guide-236j)
-- [What happened isn&#39;t the point. How you respond is.](https://dev.to/adatole/what-happened-isnt-the-point-how-you-respond-is-29ip)
-- [Wasting Space! Master the Art of SEO-Optimized Content Snippets &lpar;Your Quick-Win Guide!&rpar;](https://dev.to/seosiri/wasting-space-master-the-art-of-seo-optimized-content-snippets-your-quick-win-guide-3nna)
-- [Ghibliart.ai: A Game-Changer for AI Art Lovers](https://dev.to/fredai/ghibliartai-a-game-changer-for-ai-art-lovers-l11)
+- [Fountain of fire ministry](https://dev.to/khulisojohn/fountain-of-fire-ministry-a39)
+- [🚀 Optimizing Your React App: Best Practices for Developers](https://dev.to/ayon_ssp/optimizing-your-react-app-best-practices-for-developers-5egf)
+- [How to Optimize React Apps for SEO](https://dev.to/hasunnilupul/how-to-optimize-react-apps-for-seo-38h)
+- [JWT - Based Auth: A Deep Dive](https://dev.to/aditya999123/jwt-based-auth-a-deep-dive-559)
+- [Level Up Your Cypress Game: Cypress Smart Tests Plugin](https://dev.to/s_chathuranga_j/level-up-your-cypress-game-cypress-smart-tests-plugin-4i8o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
