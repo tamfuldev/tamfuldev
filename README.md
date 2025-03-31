@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Terraform for DevOps: Variables, Outputs, and Dynamic Workflows &lpar;Part 4&rpar;](https://dev.to/rahimbtc1994/terraform-for-devops-variables-outputs-and-dynamic-workflows-part-4-dpc)
-- [Comprehensive Guide to PromptL and the Its Python Library &lpar;promptl-py&rpar;](https://dev.to/yigit-konur/comprehensive-guide-to-promptl-and-the-its-python-library-promptl-py-4ge8)
-- [&quot;Revolutionizing 4D Modeling: Discover the Power of Uni4D Framework!&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-4d-modeling-discover-the-power-of-uni4d-framework-43o8)
-- [Enterprise Networks Unveiled: A Software Engineer&#39;s Guide to the Basics &lpar;Part 5&rpar;](https://dev.to/prince_of_pasta/enterprise-networks-unveiled-a-software-engineers-guide-to-the-basics-part-5-5d2b)
-- [Refactoring 025 - Decompose Regular Expressions](https://dev.to/mcsee/refactoring-025-decompose-regular-expressions-1ipc)
+- [Using Pulumi for Rapid Deployment](https://dev.to/celopez3/using-pulumi-for-rapid-deployment-5d95)
+- [[Boost]](https://dev.to/bogdannovotarskij/-2em8)
+- [Getting Started with Vision Pro App Development Using Unity: “Metal” vs “RealityKit”](https://dev.to/tkr1234st/getting-started-with-vision-pro-app-development-using-unity-metal-vs-realitykit-4mb7)
+- [I Took a Popular Vibe Coding Course and Built a Sample App](https://dev.to/atsushiambo/i-took-a-popular-vibe-coding-course-and-built-a-sample-app-3124)
+- [I Took a Popular Vibe Coding Course and Built a Sample App](https://dev.to/atsushiambo/i-took-a-popular-vibe-coding-course-and-built-a-sample-app-55o8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
