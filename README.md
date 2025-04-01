@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Discovering DNS: A Beginner’s Introduction to nslookup](https://dev.to/rijultp/discovering-dns-a-beginners-introduction-to-nslookup-2pop)
-- [Aula02 - Desafie o Sheldon e sua equipe!](https://dev.to/iurycn_/aula02-desafie-o-sheldon-e-sua-equipe-5gmp)
-- [[Boost]](https://dev.to/djones/-5d0g)
-- [New profile, new mission: I’m StackShiftX, embarking on a 6-month quest to become a full-stack developer!](https://dev.to/stackshiftx/new-profile-new-mission-im-stackshiftx-embarking-on-a-6-month-quest-to-become-a-full-stack-2222)
-- [Aula02 - ImersãoDev](https://dev.to/wedne_morais_7862f80bd27e/aula02-imersaodev-2mo1)
+- [Integrating with LoyVerse POS – A proper Guide](https://dev.to/gilbert_hathaway_a9c814a9/integrating-with-loyverse-pos-a-proper-guide-18ed)
+- [Module Federation in Modern JavaScript](https://dev.to/omriluz1/module-federation-in-modern-javascript-3lpl)
+- [Automating Cryptocurrency Data with Python, Apache Airflow and PostgreSQL](https://dev.to/milcah03/automating-cryptocurrency-data-collection-with-python-apache-airflow-and-postgresql-1kd6)
+- [Server-Sent Events &lpar;SSE&rpar; 🖧🌐](https://dev.to/himanayk/server-sent-events-sse-2n19)
+- [lecture 5 &lpar;HTMLLMS&rpar;:](https://dev.to/abhayj/lecture-5-htmllms-1d29)
 <!-- BLOG-POST-LIST:END -->
 
 ---
