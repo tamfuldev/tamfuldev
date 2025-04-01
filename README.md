@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to React](https://dev.to/tene/introduction-to-react-394m)
-- [Heap Sort Algorithm | Heapify | GeeksforGeeks Beginner&#39;s DSA Sheet | Heap Tree](https://dev.to/debeshpg90/heap-sort-algorithm-heapify-geeksforgeeks-beginners-dsa-sheet-heap-tree-4md8)
-- [A Safer Container Runtime](https://dev.to/ihechi_okere/a-safer-container-runtime-17of)
-- [Introducing HTML++ – The Future of Web Development](https://dev.to/ronynn/introducing-html-the-future-of-web-development-2abj)
-- [&quot;Unlocking AI&#39;s Potential: Enhancing Diagnostic Accuracy with MedAgentSim&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-ais-potential-enhancing-diagnostic-accuracy-with-medagentsim-3884)
+- [PWA Easy Setup for Laravel &lpar;With Vue.js and React.js](https://dev.to/eramitgupta/pwa-easy-setup-for-laravel-with-vuejs-and-reactjs-2goj)
+- [How I Set Up CI/CD with GitHub Actions in a Real Node.js Project](https://dev.to/softmaker/how-i-set-up-cicd-with-github-actions-in-a-real-nodejs-project-112p)
+- [안드로이드 앱의 API 응답 캐싱](https://dev.to/kingori/andeuroideu-aebyi-api-eungdab-kaesing-2l6l)
+- [Creative Work: ChatGPT-4 and the Future of Design](https://dev.to/algolok/creative-work-chatgpt-4-and-the-future-of-design-jfm)
+- [DBMS](https://dev.to/ishwar_2/dbms-4ago)
 <!-- BLOG-POST-LIST:END -->
 
 ---
