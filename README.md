@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A step-by-step guide to creating an EC2 instance in AWS &lpar;using Ubuntu server as the image&rpar; to install nginx.](https://dev.to/nelson_akpa01/a-step-by-step-guide-to-creating-an-ec2-instance-in-aws-using-ubuntu-server-as-the-image-to-1994)
-- [Why Web3 Must Move Beyond Seed Phrases](https://dev.to/omniradhanexus/why-web3-must-move-beyond-seed-phrases-8o6)
-- [Hướng dẫn sử dụng Forem API bằng Postmannnn](https://dev.to/trungg_nghia/huong-dan-su-dung-forem-api-bang-postmannnn-103c)
-- [8 Best R.E.P.O. MODs and Installation Guide](https://dev.to/alcor_zsm/8-best-repo-mods-and-installation-guide-4eca)
-- [I Tried Kuberns.com + Plane.so Instead of Jira Because of This](https://dev.to/jevin925/i-tried-kubernscom-planeso-instead-of-jira-because-of-this-185o)
+- [Sales Process: A Step-by-Step Guide to Closing More Deals](https://dev.to/piyushsingh_22/sales-process-a-step-by-step-guide-to-closing-more-deals-1lh7)
+- [AI in Automotive Manufacturing 2025: Driving the Future of Smart Production](https://dev.to/priyankapandey/ai-in-automotive-manufacturing-2025-driving-the-future-of-smart-production-jf7)
+- [Vibe Coding: A Weekend Hack That&#39;s Not Ready for the Real World](https://dev.to/charly3pins/vibe-coding-a-weekend-hack-thats-not-ready-for-the-real-world-9f2)
+- [TDD and Mocking](https://dev.to/mirnes_mrkaljevic/tdd-and-mocking-2jhc)
+- [From Vue to Next.js: How I Let Go and Built a Curated Tool Hub 🌟](https://dev.to/solomakerstudio/from-vue-to-nextjs-how-i-let-go-and-built-a-curated-tool-hub-1jig)
 <!-- BLOG-POST-LIST:END -->
 
 ---
