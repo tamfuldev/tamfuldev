@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Defend Against Bot Attacks with SafeLine WAF](https://dev.to/carrie_luo1/how-to-defend-against-bot-attacks-with-safeline-waf-2m3c)
-- [Implementing ADC Sampling in Microcontrollers](https://dev.to/carolineee/implementing-adc-sampling-in-microcontrollers-3f0l)
-- [Integrating a Custom Provider into the ONLYOFFICE AI Plugin](https://dev.to/onlyoffice/integrating-a-custom-provider-into-the-onlyoffice-ai-plugin-4do6)
-- [The magic of Debouncing in creating reactive Search Bars](https://dev.to/mmvergara/the-magic-of-debouncing-in-creating-reactive-search-bars-2h8c)
-- [Best Free Code Tester Tools For Web &amp; Software Developers](https://dev.to/keploy/best-free-code-tester-tools-for-web-software-developers-2gm4)
+- [Professional Programmer Proves Prolog Prolongs Productivity](https://dev.to/auroratide/professional-programmer-proves-prolog-prolongs-productivity-3oc9)
+- [Is AI Agents Really Driving the Crypto Boom or It’s Just a Fad?](https://dev.to/lync/is-ai-agents-really-driving-the-crypto-boom-or-its-just-a-fad-42k9)
+- [Intermediate Go Tutorial - Building Your Own Redis: Like In-Memory Cache](https://dev.to/vishaaxl/intermediate-go-tutorial-building-your-own-redis-like-in-memory-cache-5aa2)
+- [Shadcn UI: Revamp your legacy React app with minimal effort](https://dev.to/theopinionateddev/shadcn-ui-revamp-your-legacy-react-app-with-minimal-effort-k19)
+- [Images Vanish: My Experience with the dev.to Image Outage](https://dev.to/ankushppie/images-vanish-my-experience-with-the-devto-image-outage-f0g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
