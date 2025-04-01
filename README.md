@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Conheça o Phrest Finder.](https://dev.to/notmadebyahuman/conheca-o-phrest-finder-3eh7)
-- [🎉 My WeCoded Landing Page](https://dev.to/kelvincode1234/my-wecoded-landing-page-3g5c)
-- [Tutorial 20: Dependency Injection Tutorial](https://dev.to/cl0udleadanis/tutorial-20-dependency-injection-tutorial-231m)
-- [Implementing Shift-Left Testing: Best Practices for Agile and DevOps Teams](https://dev.to/testwithtorin/implementing-shift-left-testing-best-practices-for-agile-and-devops-teams-f16)
-- [Arbitrum Simplified: Understanding Its Technical Edge in the L2 Ecosystem](https://dev.to/excellus/arbitrum-simplified-understanding-its-technical-edge-in-the-l2-ecosystem-315p)
+- [Discovering DNS: A Beginner’s Introduction to nslookup](https://dev.to/rijultp/discovering-dns-a-beginners-introduction-to-nslookup-2pop)
+- [Aula02 - Desafie o Sheldon e sua equipe!](https://dev.to/iurycn_/aula02-desafie-o-sheldon-e-sua-equipe-5gmp)
+- [[Boost]](https://dev.to/djones/-5d0g)
+- [New profile, new mission: I’m StackShiftX, embarking on a 6-month quest to become a full-stack developer!](https://dev.to/stackshiftx/new-profile-new-mission-im-stackshiftx-embarking-on-a-6-month-quest-to-become-a-full-stack-2222)
+- [Aula02 - ImersãoDev](https://dev.to/wedne_morais_7862f80bd27e/aula02-imersaodev-2mo1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
