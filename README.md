@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Solve &quot;Port Already in Use&quot; Error When Configuring an APP in SafeLine?](https://dev.to/carrie_luo1/how-to-solve-port-already-in-use-error-when-configuring-an-app-in-safeline-1p29)
-- [# Blockchain 101: Building a Smart Contract with Solidity](https://dev.to/info_generalhazedawn_a3d/-blockchain-101-building-a-smart-contract-with-solidity-4g5c)
-- [Here’s why I opt for Laravel — A Personal Perspective on its Evolution and its Role in Modern Web Development](https://dev.to/hamzasehouli/heres-why-i-opt-for-laravel-a-personal-perspective-on-its-evolution-and-its-role-in-modern-web-32pl)
-- [Comparing ChatGPT, Grok, Gemini on Studio Ghibli style transformation](https://dev.to/andylawrence/comparing-chatgpt-grok-gemini-on-studio-ghibli-style-transformation-3c64)
-- [Building an NSFW Image Generator with Next.js, React, and Sentry: A Technical Journey](https://dev.to/ficav/building-an-nsfw-image-generator-with-nextjs-react-and-sentry-a-technical-journey-2o00)
+- [How to Defend Against Bot Attacks with SafeLine WAF](https://dev.to/carrie_luo1/how-to-defend-against-bot-attacks-with-safeline-waf-2m3c)
+- [Implementing ADC Sampling in Microcontrollers](https://dev.to/carolineee/implementing-adc-sampling-in-microcontrollers-3f0l)
+- [Integrating a Custom Provider into the ONLYOFFICE AI Plugin](https://dev.to/onlyoffice/integrating-a-custom-provider-into-the-onlyoffice-ai-plugin-4do6)
+- [The magic of Debouncing in creating reactive Search Bars](https://dev.to/mmvergara/the-magic-of-debouncing-in-creating-reactive-search-bars-2h8c)
+- [Best Free Code Tester Tools For Web &amp; Software Developers](https://dev.to/keploy/best-free-code-tester-tools-for-web-software-developers-2gm4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
