@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [PWA Easy Setup for Laravel &lpar;With Vue.js and React.js](https://dev.to/eramitgupta/pwa-easy-setup-for-laravel-with-vuejs-and-reactjs-2goj)
-- [How I Set Up CI/CD with GitHub Actions in a Real Node.js Project](https://dev.to/softmaker/how-i-set-up-cicd-with-github-actions-in-a-real-nodejs-project-112p)
-- [안드로이드 앱의 API 응답 캐싱](https://dev.to/kingori/andeuroideu-aebyi-api-eungdab-kaesing-2l6l)
-- [Creative Work: ChatGPT-4 and the Future of Design](https://dev.to/algolok/creative-work-chatgpt-4-and-the-future-of-design-jfm)
-- [DBMS](https://dev.to/ishwar_2/dbms-4ago)
+- [Create Your Own Interactive 3D Dice Roller: A Step-by-Step Guide](https://dev.to/learncomputer/create-your-own-interactive-3d-dice-roller-a-step-by-step-guide-34b3)
+- [Why Is Profiling Important for Node.js Applications?](https://dev.to/arunangshu_das/why-is-profiling-important-for-nodejs-applications-13hb)
+- [🚀 Real-Time Smile Detector Using Python &amp; OpenCV 😃](https://dev.to/sripadh_sujith_1487e8db18/real-time-smile-detector-using-python-opencv-4c8g)
+- [Copying Nuxt&#39;s useState in Qwik and Svelte](https://dev.to/jdgamble555/copying-nuxts-usestate-in-qwik-and-svelte-5eo3)
+- [Premium or Budget? A Gamer’s Guide to Keycap Brands &lpar;with Hands-On Reviews&rpar;](https://dev.to/mysticcoder/premium-or-budget-a-gamers-guide-to-keycap-brands-with-hands-on-reviews-1hhp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
