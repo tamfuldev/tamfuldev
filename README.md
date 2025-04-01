@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Create Your Own Interactive 3D Dice Roller: A Step-by-Step Guide](https://dev.to/learncomputer/create-your-own-interactive-3d-dice-roller-a-step-by-step-guide-34b3)
-- [Why Is Profiling Important for Node.js Applications?](https://dev.to/arunangshu_das/why-is-profiling-important-for-nodejs-applications-13hb)
-- [🚀 Real-Time Smile Detector Using Python &amp; OpenCV 😃](https://dev.to/sripadh_sujith_1487e8db18/real-time-smile-detector-using-python-opencv-4c8g)
-- [Copying Nuxt&#39;s useState in Qwik and Svelte](https://dev.to/jdgamble555/copying-nuxts-usestate-in-qwik-and-svelte-5eo3)
-- [Premium or Budget? A Gamer’s Guide to Keycap Brands &lpar;with Hands-On Reviews&rpar;](https://dev.to/mysticcoder/premium-or-budget-a-gamers-guide-to-keycap-brands-with-hands-on-reviews-1hhp)
+- [April 1st: The Nuclear Pranks Only Real Developers Will Respect &lpar;and Regret&rpar;](https://dev.to/hotfixhero/april-1st-the-nuclear-pranks-only-real-developers-will-respect-and-regret-2iom)
+- [From Idea to Web App: Building ExamGenius with Vibe Coding and Claude](https://dev.to/vibecodecr-en/from-idea-to-web-app-building-examgenius-with-vibe-coding-and-claude-m2b)
+- [parameter 與 argument](https://dev.to/codemee/parameter-yu-argument-162n)
+- [Mago digital](https://dev.to/david_bermenvliz/mago-digital-2gpj)
+- [The Hidden Breach: Secrets Leaked Outside the Codebase Pose a Serious Threat](https://dev.to/gitguardian/the-hidden-breach-secrets-leaked-outside-the-codebase-pose-a-serious-threat-1bid)
 <!-- BLOG-POST-LIST:END -->
 
 ---
