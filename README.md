@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dumb](https://dev.to/avanichols_dev/dumb-2jba)
-- [Automate 90% of Your Work with AI Agents &lpar;Real Examples &amp; Code Inside&rpar;](https://dev.to/copilotkit/automate-90-of-your-work-with-ai-agents-real-examples-code-inside-46ke)
-- [Just in! Supabase UI library](https://dev.to/iammtander/just-in-supabase-ui-library-4hfe)
-- [Introducing &quot;DUMB DEV&quot;](https://dev.to/devteam/introducing-dumb-dev-5hjl)
-- [Where it all happens](https://dev.to/ben/where-it-all-happens-2dk4)
+- [🚀 𝗨𝗻𝗹𝗼𝗰𝗸𝗶𝗻𝗴 𝘁𝗵𝗲 𝗣𝗼𝘄𝗲𝗿 𝗼𝗳 𝗦𝗽𝗿𝗶𝗻𝗴 𝗗𝗮𝘁𝗮 𝗝𝗣𝗔 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝗶𝗲𝘀: 𝗔 𝗚𝗮𝗺𝗲-𝗖𝗵𝗮𝗻𝗴𝗲𝗿 𝗳𝗼𝗿 𝗝𝗮𝘃𝗮 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝘀](https://dev.to/thiago_souza_1510/--200j)
+- [Best warehouse-native analytics tools](https://dev.to/pambrus/best-warehouse-native-analytics-tools-nfa)
+- [DUMB DEV is ad-free](https://dev.to/ben/dumb-dev-is-ad-free-237j)
+- [Clojure Is Awesome!!! [PART 17]](https://dev.to/borba/clojure-is-awesome-part-17-3eml)
+- [Starknet on its own with Reserve](https://dev.to/gitkit13/starknet-on-its-own-with-reserve-15dk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
