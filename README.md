@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Custom Linux Image for Raspberry Pi 5: A Guide with Buildroot](https://dev.to/pfs/custom-linux-image-for-raspberry-pi-5-a-guide-with-buildroot-bp3)
-- [I Got Carried Away Coding a Simple Lander Game... Now I Can&#39;t Even Beat Level 1](https://dev.to/shubhankar_madgulkar_a4f1/i-got-carried-away-coding-a-simple-lander-game-now-i-cant-even-beat-level-1-35mh)
-- [AULA1 _Arquivo 0](https://dev.to/juan_krupechacke_f0c6537e/aula1-arquivo-0-17dp)
-- [Android/iOS Testing Perfected: 20 Appium Tricks You Need](https://dev.to/bugnificent/androidios-testing-perfected-20-appium-tricks-you-need-2n52)
-- [Implementing multi-tenancy into a Supabase app with Clerk](https://dev.to/clerk/implementing-multi-tenancy-into-a-supabase-app-with-clerk-1k70)
+- [Autenticação e Autorização](https://dev.to/reishenrique/autenticacao-e-autorizacao-1nkl)
+- [Building a Self-Optimizing Data Pipeline](https://dev.to/shreyash333/building-a-self-optimizing-data-pipeline-59da)
+- [🎨 Build a Full Stack Canva Clone 2.0 with Next.js, React &amp; Convex, ImageKit](https://dev.to/rrs301/build-a-full-stack-canva-clone-20-with-nextjs-react-convex-imagekit-nkj)
+- [Optimizing Angular Change Detection with OnPush: Skipping Subtrees for Performance](https://dev.to/atheodosiou/optimizing-angular-change-detection-with-onpush-skipping-subtrees-for-performance-45md)
+- [Mastering the Linux Terminal: A Practical Guide from Basics to Power Commands](https://dev.to/chinonso_ukadike/mastering-the-linux-terminal-a-practical-guide-from-basics-to-power-commands-o21)
 <!-- BLOG-POST-LIST:END -->
 
 ---
