@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating with LoyVerse POS – A proper Guide](https://dev.to/gilbert_hathaway_a9c814a9/integrating-with-loyverse-pos-a-proper-guide-18ed)
-- [Module Federation in Modern JavaScript](https://dev.to/omriluz1/module-federation-in-modern-javascript-3lpl)
-- [Automating Cryptocurrency Data with Python, Apache Airflow and PostgreSQL](https://dev.to/milcah03/automating-cryptocurrency-data-collection-with-python-apache-airflow-and-postgresql-1kd6)
-- [Server-Sent Events &lpar;SSE&rpar; 🖧🌐](https://dev.to/himanayk/server-sent-events-sse-2n19)
-- [lecture 5 &lpar;HTMLLMS&rpar;:](https://dev.to/abhayj/lecture-5-htmllms-1d29)
+- [Custom Linux Image for Raspberry Pi 5: A Guide with Buildroot](https://dev.to/pfs/custom-linux-image-for-raspberry-pi-5-a-guide-with-buildroot-bp3)
+- [I Got Carried Away Coding a Simple Lander Game... Now I Can&#39;t Even Beat Level 1](https://dev.to/shubhankar_madgulkar_a4f1/i-got-carried-away-coding-a-simple-lander-game-now-i-cant-even-beat-level-1-35mh)
+- [AULA1 _Arquivo 0](https://dev.to/juan_krupechacke_f0c6537e/aula1-arquivo-0-17dp)
+- [Android/iOS Testing Perfected: 20 Appium Tricks You Need](https://dev.to/bugnificent/androidios-testing-perfected-20-appium-tricks-you-need-2n52)
+- [Implementing multi-tenancy into a Supabase app with Clerk](https://dev.to/clerk/implementing-multi-tenancy-into-a-supabase-app-with-clerk-1k70)
 <!-- BLOG-POST-LIST:END -->
 
 ---
