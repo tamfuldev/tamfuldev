@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Gérer le CRUD sur une liste de données avec Angular ? Voici l’outil que me manquait[FR]](https://dev.to/romain_geffrault_10d88369/gerer-le-crud-sur-une-liste-de-donnees-avec-angular-voici-loutil-que-me-manquaitfr-24ea)
-- [[Boost]](https://dev.to/javier_bertolino_87c99bc8/-484o)
-- [You Probably Don&#39;t Know How to Write APIs Like This Using Express](https://dev.to/lovestaco/you-probably-dont-know-how-to-write-apis-like-this-using-express-f7h)
-- [Define and serve an HTML page using a single Dockerfile](https://dev.to/ndrbrt/define-and-serve-an-html-page-using-a-single-dockerfile-2pa7)
-- [Introduction to React: Understanding the Basics-part.9](https://dev.to/nedajahanfar/introduction-to-react-understanding-the-basics-part9-2pgn)
+- [Adding Field Attributes to multiple fields at once in Odoo](https://dev.to/trishan_fernando/adding-field-attributes-to-multiple-fields-at-once-in-odoo-h0l)
+- [IA filha e filhos da Nona](https://dev.to/adevilsonx/ia-filha-e-filhos-da-nona-2p9i)
+- [How to Write Maintainable Code: A Developer’s Guide to Future-Proofing Your Work](https://dev.to/imparaag/how-to-write-maintainable-code-a-developers-guide-to-future-proofing-your-work-2jc8)
+- [Probando Model Context Protocol &lpar;MCP&rpar; con Claude y una API real](https://dev.to/ronniemh/probando-model-context-protocol-mcp-con-claude-y-una-api-real-3a0d)
+- [Day 1: Linux Basics – The Power of Commands 🐧💻](https://dev.to/abdulrub/day-1-linux-basics-the-power-of-commands-3hl8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
