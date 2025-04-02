@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Clojure Is Awesome!!! [PART 18]](https://dev.to/borba/clojure-is-awesome-part-18-23lk)
-- [Abstraction](https://dev.to/alisher0909/abstraction-1fgc)
-- [What Makes A 1 Year PGDM For Executives Different From A Traditional MBA?](https://dev.to/imtcdl_ghaziabad/what-makes-a-1-year-pgdm-for-executives-different-from-a-traditional-mba-2m5f)
-- [171/365 - Improved focus](https://dev.to/kameken100/171365-improved-focus-1ck3)
-- [How I built a spelling game with AWS Serverless and GenAI](https://dev.to/aws-builders/how-i-built-a-spelling-game-with-aws-serverless-and-genai-5d65)
+- [Agentic AI in 2025: Definition, Architecture, and Real-World Applications](https://dev.to/gocodeo/agentic-ai-in-2025-definition-architecture-and-real-world-applications-4jj4)
+- [Comprehensive Overview of HTTP Caching](https://dev.to/leapcell/comprehensive-overview-of-http-caching-4b5e)
+- [From Zero to Hosted: Building a Static Website Platform with Pulumi and MinIO](https://dev.to/shashankpai/from-zero-to-hosted-building-a-static-website-platform-with-pulumi-and-minio-1n65)
+- [Brújula del Propósito: Manteniendo el Rumbo con un Concepto Definido](https://dev.to/juan_carlosvalderrbano/brujula-del-proposito-manteniendo-el-rumbo-con-un-concepto-definido-29p9)
+- [Reflecting on My Time at Kainos](https://dev.to/freshcaffeine/reflecting-on-my-time-at-kainos-14of)
 <!-- BLOG-POST-LIST:END -->
 
 ---
