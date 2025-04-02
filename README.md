@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [AULA1 _Arquivo 0](https://dev.to/naiara_santos_c09fdf6b932/aula1-arquivo-0-3c8p)
 - [Terraform for DevOps: Managing Infrastructure Across Multiple Environments &lpar;Part 6&rpar;](https://dev.to/rahimbtc1994/terraform-for-devops-managing-infrastructure-across-multiple-environments-part-6-5g6o)
 - [Calculate all the year/months included in the year/month interval — From SQL to SPL #15](https://dev.to/judith677/calculate-all-the-yearmonths-included-in-the-yearmonth-interval-from-sql-to-spl-15-54lg)
 - [DUMB DEV: Where &quot;Good Enough&quot; is the Enemy of &quot;Wow That&#39;s a Hot Mess](https://dev.to/aniruddhaadak/dumb-dev-where-good-enough-is-the-enemy-of-wow-thats-a-hot-mess-j7i)
 - [DUMB DEV](https://dev.to/aniruddhaadak/dumb-dev-1c2i)
-- [DUMB DEV: Where &quot;Good Enough&quot; is the Enemy of &quot;Wow That&#39;s a Hot Mess](https://dev.to/aniruddhaadak/dumb-dev-where-good-enough-is-the-enemy-of-wow-thats-a-hot-mess-4o1h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
