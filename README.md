@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Agentic AI in 2025: Definition, Architecture, and Real-World Applications](https://dev.to/gocodeo/agentic-ai-in-2025-definition-architecture-and-real-world-applications-4jj4)
-- [Comprehensive Overview of HTTP Caching](https://dev.to/leapcell/comprehensive-overview-of-http-caching-4b5e)
-- [From Zero to Hosted: Building a Static Website Platform with Pulumi and MinIO](https://dev.to/shashankpai/from-zero-to-hosted-building-a-static-website-platform-with-pulumi-and-minio-1n65)
-- [Brújula del Propósito: Manteniendo el Rumbo con un Concepto Definido](https://dev.to/juan_carlosvalderrbano/brujula-del-proposito-manteniendo-el-rumbo-con-un-concepto-definido-29p9)
-- [Reflecting on My Time at Kainos](https://dev.to/freshcaffeine/reflecting-on-my-time-at-kainos-14of)
+- [Create an Email Drip Campaign Using Rails Vault](https://dev.to/railsdesigner/create-an-email-drip-campaign-using-rails-vault-2i7k)
+- [Join us for the Alibaba Cloud Web Game Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-alibaba-cloud-web-game-challenge-3000-in-prizes-1n5d)
+- [Au](https://dev.to/ara_robert_lima/aula1--163d)
+- [Use async await with Array.map](https://dev.to/palchandu_dev/use-async-await-with-arraymap-4ia7)
+- [HashSet removing duplication in java](https://dev.to/v_inoth_f0fad29baec4c/hashset-removing-duplication-in-java-2dc4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
