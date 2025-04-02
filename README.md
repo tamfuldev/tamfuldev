@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Hype: A Practical Guide to Cloud and Datacenter Decisions](https://dev.to/ravishan16/beyond-the-hype-a-practical-guide-to-cloud-and-datacenter-decisions-39da)
-- [My Software Development Process](https://dev.to/ikemcodedit/my-software-development-process-2i64)
-- [With an AI Interview Assistant, you can tackle tough technical and behavioral questions, identify weak points, and receive AI-powered coaching to enhance your performance. Have you tried an AI Interview Assistant before? What was your experience like?](https://dev.to/lockedinai1/with-an-ai-interview-assistant-you-can-tackle-tough-technical-and-behavioral-questions-identify-44e6)
-- [AI and Pizza: Can Language Models Take Your Order Without Messing It Up?](https://dev.to/owly/ai-and-pizza-can-language-models-take-your-order-without-messing-it-up-4n8i)
-- [Personal Project: Math Learning Tool](https://dev.to/simon_mei_81277acc9215249/personal-project-math-learning-tool-2fc8)
+- [Agentic AI Revolutionizing Cybersecurity &amp; Application Security](https://dev.to/rollbrace0/agentic-ai-revolutionizing-cybersecurity-application-security-1mh0)
+- [Making an effective Application Security program: Strategies, Tips and Tools for the Best results](https://dev.to/lynxfelony1/making-an-effective-application-security-program-strategies-tips-and-tools-for-the-best-results-1n41)
+- [Job Scheduler with Quartz.NET and Azure WebJobs](https://dev.to/luigbi/job-scheduler-with-quartznet-and-azure-webjobs-2dne)
+- [#APIOps #DevOps #GitHubActions #AzureAPIM #PlatformEngineering](https://dev.to/bsudabathula/-5cgd)
+- [Empowering Teachers Through AI-Enhanced Education](https://dev.to/evanmarie/empowering-teachers-through-ai-enhanced-education-2n0a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
