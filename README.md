@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Agentic AI Revolutionizing Cybersecurity &amp; Application Security](https://dev.to/rollbrace0/agentic-ai-revolutionizing-cybersecurity-application-security-1mh0)
-- [Making an effective Application Security program: Strategies, Tips and Tools for the Best results](https://dev.to/lynxfelony1/making-an-effective-application-security-program-strategies-tips-and-tools-for-the-best-results-1n41)
-- [Job Scheduler with Quartz.NET and Azure WebJobs](https://dev.to/luigbi/job-scheduler-with-quartznet-and-azure-webjobs-2dne)
-- [#APIOps #DevOps #GitHubActions #AzureAPIM #PlatformEngineering](https://dev.to/bsudabathula/-5cgd)
-- [Empowering Teachers Through AI-Enhanced Education](https://dev.to/evanmarie/empowering-teachers-through-ai-enhanced-education-2n0a)
+- [Terraform for DevOps: Managing Infrastructure Across Multiple Environments &lpar;Part 6&rpar;](https://dev.to/rahimbtc1994/terraform-for-devops-managing-infrastructure-across-multiple-environments-part-6-5g6o)
+- [Calculate all the year/months included in the year/month interval — From SQL to SPL #15](https://dev.to/judith677/calculate-all-the-yearmonths-included-in-the-yearmonth-interval-from-sql-to-spl-15-54lg)
+- [DUMB DEV: Where &quot;Good Enough&quot; is the Enemy of &quot;Wow That&#39;s a Hot Mess](https://dev.to/aniruddhaadak/dumb-dev-where-good-enough-is-the-enemy-of-wow-thats-a-hot-mess-j7i)
+- [DUMB DEV](https://dev.to/aniruddhaadak/dumb-dev-1c2i)
+- [DUMB DEV: Where &quot;Good Enough&quot; is the Enemy of &quot;Wow That&#39;s a Hot Mess](https://dev.to/aniruddhaadak/dumb-dev-where-good-enough-is-the-enemy-of-wow-thats-a-hot-mess-4o1h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
