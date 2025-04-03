@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Time Durations and Calculations in Go 3/10](https://dev.to/rezmoss/time-durations-and-calculations-in-go-310-maf)
-- [OS page replacement &lpar;FIFO and LRU&rpar; animation](https://dev.to/yintokey/os-page-replacement-fifo-and-lru-animation-1i55)
-- [🚀 Laravel 12 Resmi Rilis! Inilah Fitur-Fitur Terbarunya yang Bikin Ngoding Makin Seru!](https://dev.to/kompak_akademi/series-belajar-laravel-12-fitur-terbaru-yang-bikin-ngoding-makin-seru--4b99)
-- [3 anos, 1 mês e 16 dias](https://dev.to/wivsonmachado/3-anos-1-mes-e-16-dias-540i)
-- [Aula02 - Arquivo0](https://dev.to/websonms/aula02-arquivo0-5982)
+- [Shhh, It&#39;s a Secret! Using Pulumi ESC &amp; AWS Lambda for Secure Secrets Management](https://dev.to/techondiapers/shhh-its-a-secret-using-pulumi-esc-aws-lambda-for-secure-secrets-management-1kbn)
+- [NocoBase Weekly Updates: Optimization and Bug Fixes](https://dev.to/nocobase/nocobase-weekly-updates-optimization-and-bug-fixes-2mog)
+- [GitHub Copilot &amp; AI for DevOps Engineers: How to Boost Productivity](https://dev.to/yash_sonawane25/github-copilot-ai-for-devops-engineers-how-to-boost-productivity-34m8)
+- [What is llms.txt? How it works and examples](https://dev.to/tiffany-mintlify/what-is-llmstxt-how-it-works-and-examples-p0p)
+- [The Thankless Complexity of Custom Form Validations](https://dev.to/jenc/the-thankless-complexity-of-custom-form-validations-5hi3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
