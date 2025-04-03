@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Top Social Trading Apps of 2025](https://dev.to/nvstly/the-top-social-trading-apps-of-2025-118)
-- [🌟 Minecraft 1.30: The Galilean Update - A Cosmic Gaming Revolution! 🚀](https://dev.to/berkan_baerbuilder_85/minecraft-130-the-galilean-update-a-cosmic-gaming-revolution-5e44)
-- [Top Global AI Companies in 2025: Who’s Leading the Innovation Race?](https://dev.to/priyankapandey/top-global-ai-companies-in-2025-whos-leading-the-innovation-race-13gp)
-- [Leetcode - 206. Reverse Linked List](https://dev.to/rakeshreddy512/leetcode-206-reverse-linked-list-56a3)
-- [🚀 Improving My No-Code App – Looking for Open Source Contributors!](https://dev.to/cosimosgobio/improving-my-no-code-app-looking-for-open-source-contributors-234a)
+- [How to create cool project using ElectronJS framework ✿](https://dev.to/shelly_agarwal_19/how-to-create-cool-project-using-electronjs-framework-deg-458e)
+- [Once the Java Sustaining](https://dev.to/rahul_d_69c56a981e11c6728/once-the-java-sustaining-1847)
+- [From data to 3D visualization! Introducing five terrain tile generation software including GISBox](https://dev.to/gisbox/from-data-to-3d-visualization-introducing-five-terrain-tile-generation-software-including-gisbox-410d)
+- [Binance Smart Chain a Complete Guide to Beginners and its Trends in 2025](https://dev.to/abijohn/binance-smart-chain-a-complete-guide-to-beginners-and-its-trends-in-2025-2a01)
+- [Writing an LLM Eval with Vercel&#39;s AI SDK and Vitest](https://dev.to/xata/writing-an-llm-eval-with-vercels-ai-sdk-and-vitest-4pfb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
