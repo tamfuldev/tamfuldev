@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Observables ♦️ Signals ♦️ Callforwards: 3 ways to manage reactive state](https://dev.to/dariomannu/observables-signals-callforwards-managing-reactive-state-114e)
-- [Sustainable DevOps: Building a Greener Future](https://dev.to/priyanka_priyanka_ba12a34/sustainable-devops-building-a-greener-future-1p7b)
-- [Error Propagation with Custom Error Types](https://dev.to/omriluz1/error-propagation-with-custom-error-types-4i70)
-- [How to Choose a Crypto Loan Platform](https://dev.to/kaankaya/how-to-choose-a-crypto-loan-platform-5h8n)
-- [Discovering European Open Source Projects at KubeCon London](https://dev.to/simone_morellato/discovering-european-open-source-projects-at-kubecon-london-15ge)
+- [Taming the Concurrency Beast: A Guide to Go&#39;s Goroutines and Channels 🐹💪](https://dev.to/tavernetech/taming-the-concurrency-beast-a-guide-to-gos-goroutines-and-channels-1cj6)
+- [Mutation Testing in Rust](https://dev.to/nfrankel/mutation-testing-in-rust-3hpl)
+- [Top 10 Free AI Tools for VS Code to Boost Your Coding Productivity &lpar;2025&rpar; 🚀🚀](https://dev.to/manas_tole_039/top-10-free-ai-tools-for-vs-code-to-boost-your-coding-productivity-2025-1me5)
+- [Navigating Regulatory Compliance in API Development](https://dev.to/rapyd/navigating-regulatory-compliance-in-api-development-3nab)
+- [Générer un id unique avec une solution serverless !](https://dev.to/aws-builders/generer-un-id-unique-avec-une-solution-serverless--7io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
