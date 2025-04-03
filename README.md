@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Taming the Concurrency Beast: A Guide to Go&#39;s Goroutines and Channels 🐹💪](https://dev.to/tavernetech/taming-the-concurrency-beast-a-guide-to-gos-goroutines-and-channels-1cj6)
-- [Mutation Testing in Rust](https://dev.to/nfrankel/mutation-testing-in-rust-3hpl)
-- [Top 10 Free AI Tools for VS Code to Boost Your Coding Productivity &lpar;2025&rpar; 🚀🚀](https://dev.to/manas_tole_039/top-10-free-ai-tools-for-vs-code-to-boost-your-coding-productivity-2025-1me5)
-- [Navigating Regulatory Compliance in API Development](https://dev.to/rapyd/navigating-regulatory-compliance-in-api-development-3nab)
-- [Générer un id unique avec une solution serverless !](https://dev.to/aws-builders/generer-un-id-unique-avec-une-solution-serverless--7io)
+- [The Top Social Trading Apps of 2025](https://dev.to/nvstly/the-top-social-trading-apps-of-2025-118)
+- [🌟 Minecraft 1.30: The Galilean Update - A Cosmic Gaming Revolution! 🚀](https://dev.to/berkan_baerbuilder_85/minecraft-130-the-galilean-update-a-cosmic-gaming-revolution-5e44)
+- [Top Global AI Companies in 2025: Who’s Leading the Innovation Race?](https://dev.to/priyankapandey/top-global-ai-companies-in-2025-whos-leading-the-innovation-race-13gp)
+- [Leetcode - 206. Reverse Linked List](https://dev.to/rakeshreddy512/leetcode-206-reverse-linked-list-56a3)
+- [🚀 Improving My No-Code App – Looking for Open Source Contributors!](https://dev.to/cosimosgobio/improving-my-no-code-app-looking-for-open-source-contributors-234a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
