@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to simplify MongoDB queries with esProc](https://dev.to/esproc_spl/how-to-simplify-mongodb-queries-with-esproc-402b)
-- [How to Automate Azure Storage Using Pulumi ESC &amp; Automation API](https://dev.to/ajanthan_hr_c019bb2b72c79/how-to-automate-azure-storage-using-pulumi-esc-automation-api-1khj)
-- [The Rise of Self-Healing Test Automation: How AI is Changing Testing in 2025](https://dev.to/anil_csimplifyit_905c/the-rise-of-self-healing-test-automation-how-ai-is-changing-testing-in-2025-2e4)
-- [What Is the Best Ide for Developers in 2025?](https://dev.to/rociogarciavf/what-is-the-best-ide-for-developers-in-2025-4m8l)
-- [Building a Serverless URL Shortener: A Practical AWS Project](https://dev.to/aws-builders/building-a-serverless-url-shortener-a-practical-aws-project-3e7l)
+- [How Do I Fix Performance Bottlenecks in Node.js?](https://dev.to/arunangshu_das/how-do-i-fix-performance-bottlenecks-in-nodejs-5e76)
+- [[Tutorial] Validação de formulário HTML5](https://dev.to/luysla/tutorial-validacao-de-formulario-html5-2a66)
+- [AWS CloudFront CNAME Conflict – “One or more of the CNAMEs you provided are already associated with a different resource”](https://dev.to/siddddd17/aws-cloudfront-cname-conflict-one-or-more-of-the-cnames-you-provided-are-already-associated-with-1mp7)
+- [The Importance of Enterprise Asset Management &lpar;EAM&rpar; for Modern Businesses](https://dev.to/seleam/the-importance-of-enterprise-asset-management-eam-for-modern-businesses-203n)
+- [Creating Your Ultimate QR Code Hub: Generate and Scan QR Codes with JavaScript](https://dev.to/learncomputer/creating-your-ultimate-qr-code-hub-generate-and-scan-qr-codes-with-javascript-140)
 <!-- BLOG-POST-LIST:END -->
 
 ---
