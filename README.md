@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to create cool project using ElectronJS framework ✿](https://dev.to/shelly_agarwal_19/how-to-create-cool-project-using-electronjs-framework-deg-458e)
-- [Once the Java Sustaining](https://dev.to/rahul_d_69c56a981e11c6728/once-the-java-sustaining-1847)
-- [From data to 3D visualization! Introducing five terrain tile generation software including GISBox](https://dev.to/gisbox/from-data-to-3d-visualization-introducing-five-terrain-tile-generation-software-including-gisbox-410d)
-- [Binance Smart Chain a Complete Guide to Beginners and its Trends in 2025](https://dev.to/abijohn/binance-smart-chain-a-complete-guide-to-beginners-and-its-trends-in-2025-2a01)
-- [Writing an LLM Eval with Vercel&#39;s AI SDK and Vitest](https://dev.to/xata/writing-an-llm-eval-with-vercels-ai-sdk-and-vitest-4pfb)
+- [DMarket and Cyberwarfare: Bridging the Virtual and Real Worlds](https://dev.to/laetitiaperraut/dmarket-and-cyberwarfare-bridging-the-virtual-and-real-worlds-31b1)
+- [Much Simpler Alternative to Spring Profile](https://dev.to/kiponos/much-simpler-alternative-to-spring-profile-1blc)
+- [Never Miss a Booking Again! The Salon Appointment Software That Changes Everything](https://dev.to/john_winter_3710/never-miss-a-booking-again-the-salon-appointment-software-that-changes-everything-18ab)
+- [Creating custom command in your terminal](https://dev.to/bcncodeschool/creating-custom-command-in-your-terminal-5d44)
+- [12 problems Developers face while Testing and how to solve them](https://dev.to/anmolbaranwal/12-problems-developers-face-while-testing-and-how-to-solve-them-1mdj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
