@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Redis on Your Local Machine Using Docker: A Step-by-Step Guide 🚀](https://dev.to/speaklouder/redis-on-your-local-machine-using-docker-a-step-by-step-guide-l62)
-- [Vike 6: The Underrated Meta-Framework That Lets You Choose Your Own Stack](https://dev.to/ezhil_sivarajsr/vike-6-the-underrated-meta-framework-that-lets-you-choose-your-own-stack-891)
-- [Trend Watch: Why Next.js 15 Is Google’s New Favorite Framework](https://dev.to/rajondey/trend-watch-why-nextjs-15-is-googles-new-favorite-framework-37e8)
-- [What are key words in java?](https://dev.to/bagavath_98/what-are-key-words-in-java-1dm3)
-- [My first experience with cursor](https://dev.to/fazd/my-first-experience-with-cursor-4a5g)
+- [How to use the array filter&lpar;&rpar; method in JavaScript](https://dev.to/logrocket/how-to-use-the-array-filter-method-in-javascript-43e6)
+- [Beyond translations in Stimulus: formatting dates, time and currency](https://dev.to/railsdesigner/beyond-translations-in-stimulus-formatting-dates-time-and-currency-52o5)
+- [Google Cloud Pub/Sub: A Deep Dive](https://dev.to/swayam_sampad_e68f2950997/google-cloud-pubsub-a-deep-dive-13pe)
+- [React Best Practices: Maintaining Large Scale Projects](https://dev.to/buttercms/react-best-practices-maintaining-large-scale-projects-3kbo)
+- [Spring Boot,Annotation](https://dev.to/v_inoth_f0fad29baec4c/spring-bootannotation-hc9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
