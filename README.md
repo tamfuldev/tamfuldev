@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Clojure Is Awesome!!! [PART 19]](https://dev.to/borba/clojure-is-awesome-part-19-4133)
-- [Desire for Structure &lpar;read “SQL”&rpar;](https://dev.to/benedetto_proietti/desire-for-structure-read-sql-ofh)
-- [Three Ways to Fight AI Crawlers](https://dev.to/this-is-learning/three-ways-to-fight-ai-crawlers-1c2f)
-- [Comparison Between Fetch and Axios: Usage, Differences, and Real-World Applications](https://dev.to/engrsakib/comparison-between-fetch-and-axios-usage-differences-and-real-world-applications-36on)
-- [Much useful content](https://dev.to/nj23/much-usefule-53nn)
+- [Redis on Your Local Machine Using Docker: A Step-by-Step Guide 🚀](https://dev.to/speaklouder/redis-on-your-local-machine-using-docker-a-step-by-step-guide-l62)
+- [Vike 6: The Underrated Meta-Framework That Lets You Choose Your Own Stack](https://dev.to/ezhil_sivarajsr/vike-6-the-underrated-meta-framework-that-lets-you-choose-your-own-stack-891)
+- [Trend Watch: Why Next.js 15 Is Google’s New Favorite Framework](https://dev.to/rajondey/trend-watch-why-nextjs-15-is-googles-new-favorite-framework-37e8)
+- [What are key words in java?](https://dev.to/bagavath_98/what-are-key-words-in-java-1dm3)
+- [My first experience with cursor](https://dev.to/fazd/my-first-experience-with-cursor-4a5g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
