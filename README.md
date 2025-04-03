@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Shhh, It&#39;s a Secret! Using Pulumi ESC &amp; AWS Lambda for Secure Secrets Management](https://dev.to/techondiapers/shhh-its-a-secret-using-pulumi-esc-aws-lambda-for-secure-secrets-management-1kbn)
-- [NocoBase Weekly Updates: Optimization and Bug Fixes](https://dev.to/nocobase/nocobase-weekly-updates-optimization-and-bug-fixes-2mog)
-- [GitHub Copilot &amp; AI for DevOps Engineers: How to Boost Productivity](https://dev.to/yash_sonawane25/github-copilot-ai-for-devops-engineers-how-to-boost-productivity-34m8)
-- [What is llms.txt? How it works and examples](https://dev.to/tiffany-mintlify/what-is-llmstxt-how-it-works-and-examples-p0p)
-- [The Thankless Complexity of Custom Form Validations](https://dev.to/jenc/the-thankless-complexity-of-custom-form-validations-5hi3)
+- [How to simplify MongoDB queries with esProc](https://dev.to/esproc_spl/how-to-simplify-mongodb-queries-with-esproc-402b)
+- [How to Automate Azure Storage Using Pulumi ESC &amp; Automation API](https://dev.to/ajanthan_hr_c019bb2b72c79/how-to-automate-azure-storage-using-pulumi-esc-automation-api-1khj)
+- [The Rise of Self-Healing Test Automation: How AI is Changing Testing in 2025](https://dev.to/anil_csimplifyit_905c/the-rise-of-self-healing-test-automation-how-ai-is-changing-testing-in-2025-2e4)
+- [What Is the Best Ide for Developers in 2025?](https://dev.to/rociogarciavf/what-is-the-best-ide-for-developers-in-2025-4m8l)
+- [Building a Serverless URL Shortener: A Practical AWS Project](https://dev.to/aws-builders/building-a-serverless-url-shortener-a-practical-aws-project-3e7l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
