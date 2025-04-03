@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Introducing Laravel Cookie Consent – The Ultimate GDPR Compliance Solution for Laravel](https://dev.to/devrabiul/introducing-laravel-cookie-consent-the-ultimate-gdpr-compliance-solution-for-laravel-2kmf)
-- [The Render Props Pattern in React: A Flexible Approach to Component Reusability](https://dev.to/maximlogunov/the-render-props-pattern-in-react-a-flexible-approach-to-component-reusability-3imb)
-- [Getting Started with Azure for AWS Professionals: A Quick Guide](https://dev.to/rexben001/getting-started-with-azure-for-aws-professionals-a-quick-guide-25e8)
-- [🚀 Enhancing Your React Native Codebase: Best Practices &amp; Modern Tooling](https://dev.to/ersuman/enhancing-your-react-native-codebase-best-practices-modern-tooling-2h3e)
-- [Exploring the Drip Network: The Community-Driven DeFi Revolution Illuminated](https://dev.to/laetitiaperraut/exploring-the-drip-network-the-community-driven-defi-revolution-illuminated-5076)
+- [[Boost]](https://dev.to/elizabeth8012/-4bb7)
+- [Fine-Tuning e RAG: Entendendo as Estratégias para Personalizar um Chatbot com IA](https://dev.to/igorspestana/fine-tuning-e-rag-entendendo-as-estrategias-para-personalizar-um-chatbot-com-ia-3leg)
+- [My First Solo Full Development Site](https://dev.to/runnndmc/my-first-solo-full-development-site-2g59)
+- [Guardrails en AWS Bedrock: Controlando la generación de contenido con IA](https://dev.to/briansuarezsantiago/guardrails-en-aws-bedrock-controlando-la-generacion-de-contenido-con-ia-9e8)
+- [Unlocking Passive Income: A Deep Dive into Drip Network&#39;s Daily Rewards and Beyond](https://dev.to/jennythomas498/unlocking-passive-income-a-deep-dive-into-drip-networks-daily-rewards-and-beyond-4mge)
 <!-- BLOG-POST-LIST:END -->
 
 ---
