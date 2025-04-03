@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DMarket and Cyberwarfare: Bridging the Virtual and Real Worlds](https://dev.to/laetitiaperraut/dmarket-and-cyberwarfare-bridging-the-virtual-and-real-worlds-31b1)
-- [Much Simpler Alternative to Spring Profile](https://dev.to/kiponos/much-simpler-alternative-to-spring-profile-1blc)
-- [Never Miss a Booking Again! The Salon Appointment Software That Changes Everything](https://dev.to/john_winter_3710/never-miss-a-booking-again-the-salon-appointment-software-that-changes-everything-18ab)
-- [Creating custom command in your terminal](https://dev.to/bcncodeschool/creating-custom-command-in-your-terminal-5d44)
-- [12 problems Developers face while Testing and how to solve them](https://dev.to/anmolbaranwal/12-problems-developers-face-while-testing-and-how-to-solve-them-1mdj)
+- [How to create an effective application security Programme: Strategies, practices and tools for the best results](https://dev.to/lynxfelony1/how-to-create-an-effective-application-security-programme-strategies-practices-and-tools-for-the-4gh2)
+- [The Role of Smart Technologies in Power Cable Engineering and Maintenance](https://dev.to/leadvent_172e38f89cc7ca98/the-role-of-smart-technologies-in-power-cable-engineering-and-maintenance-3068)
+- [Stock Management System](https://dev.to/shaikr786/stock-management-system-2ilh)
+- [Static](https://dev.to/sugumar_r_a5f301adf1fb49a/static-2k8o)
+- [Navigation Property neden var ? Amacımız ne ?](https://dev.to/mustafacam/navigation-property-neden-var-amacimiz-ne--3aoc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
