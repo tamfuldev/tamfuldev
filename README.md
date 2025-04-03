@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Do I Fix Performance Bottlenecks in Node.js?](https://dev.to/arunangshu_das/how-do-i-fix-performance-bottlenecks-in-nodejs-5e76)
-- [[Tutorial] Validação de formulário HTML5](https://dev.to/luysla/tutorial-validacao-de-formulario-html5-2a66)
-- [AWS CloudFront CNAME Conflict – “One or more of the CNAMEs you provided are already associated with a different resource”](https://dev.to/siddddd17/aws-cloudfront-cname-conflict-one-or-more-of-the-cnames-you-provided-are-already-associated-with-1mp7)
-- [The Importance of Enterprise Asset Management &lpar;EAM&rpar; for Modern Businesses](https://dev.to/seleam/the-importance-of-enterprise-asset-management-eam-for-modern-businesses-203n)
-- [Creating Your Ultimate QR Code Hub: Generate and Scan QR Codes with JavaScript](https://dev.to/learncomputer/creating-your-ultimate-qr-code-hub-generate-and-scan-qr-codes-with-javascript-140)
+- [What is a Test Plan? A Complete Guide to Software Testing Strategy](https://dev.to/keploy/what-is-a-test-plan-a-complete-guide-to-software-testing-strategy-5ddg)
+- [Latency v/s Throughput – What’s Slowing You Down?](https://dev.to/parulchaddha/latency-vs-throughput-whats-slowing-you-down-4kl5)
+- [What is SOAR?](https://dev.to/clouddefenseai/what-is-soar-1ap)
+- [[Boost]](https://dev.to/gq23401/-lek)
+- [Role-based access control in Laravel with Spatie’s Laravel-permission package](https://dev.to/hamzasehouli/role-based-access-control-in-laravel-with-spaties-laravel-permission-package-37ld)
 <!-- BLOG-POST-LIST:END -->
 
 ---
