@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [173/365 | ¥10M Job Challenge](https://dev.to/kameken100/173365-y10m-job-challenge-4383)
-- [Understanding the Dynamic World of Fragment Telegram Usernames: A Deep Dive into Digital Identity and Market Trends](https://dev.to/laetitiaperraut/understanding-the-dynamic-world-of-fragment-telegram-usernames-a-deep-dive-into-digital-identity-1mm4)
-- [How to Create Your First Rust Project with Cargo](https://dev.to/stellaacharoiro/how-to-create-your-first-rust-project-with-cargo-1349)
-- [⚔️ CodeQuest: Build a text-based RPG with Java, JDBC &amp; Hibernate! Create players, save progress, connect to MySQL, and master ORM with Hibernate—all while crafting your own adventure. Are you ready to code your quest? 🎮💻](https://dev.to/arkadiptakundu/codequest-build-a-text-based-rpg-with-java-jdbc-hibernate-create-players-save-progress-11ih)
-- [My explanation of the rising Model Context Protocol &lpar;or MCP&rpar; used to communicate with LLMs](https://dev.to/zeedu_dev/my-explanation-of-the-rising-model-context-protocol-or-mcp-used-to-communicate-with-llms-31bc)
+- [🚀](https://dev.to/akhilesh_verma_4dd53b7054/-1edj)
+- [Mocking API Requests in Unit Tests](https://dev.to/jszutkowski/mocking-api-requests-in-unit-tests-4j6o)
+- [How to Build a Number Guessing Game in Rust: A Step-by-Step Guide](https://dev.to/stellaacharoiro/how-to-build-a-number-guessing-game-in-rust-a-step-by-step-guide-2ca6)
+- [Building a Basic MCP Server with Python](https://dev.to/alexmercedcoder/building-a-basic-mcp-server-with-python-5ci7)
+- [Python Doesn’t Support True Constants – So I Built “setconstant” to Fix That](https://dev.to/anuraj_r/python-doesnt-support-true-constants-so-i-built-setconstant-to-fix-that-3a26)
 <!-- BLOG-POST-LIST:END -->
 
 ---
