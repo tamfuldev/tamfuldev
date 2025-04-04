@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Smart Image Tagging on AWS - The Finale](https://dev.to/aws-builders/smart-image-tagging-on-aws-the-finale-303)
-- [AI helps me write code — but it kept turning into a mess. So I built a tool to fix it.](https://dev.to/david_bru/ai-helps-me-write-code-but-it-kept-turning-into-a-mess-so-i-built-a-tool-to-fix-it-54de)
-- [Analisi Logica Facile e Veloce con Questo Strumento Gratuito](https://dev.to/frank_show_7d60eb178f713e/analisi-logica-facile-e-veloce-con-questo-strumento-gratuito-2p9f)
-- [Ambiente de desenvolvimento rails e postgres com dev containers](https://dev.to/videosdeti/ambiente-de-desenvolvimento-rails-e-postgres-com-dev-containers-4k3e)
-- [Quick Integration of Bitcoin Payments with Apirone SDK for PHP — in 5 Steps](https://dev.to/apirone_com/quick-integration-of-bitcoin-payments-with-apirone-sdk-for-php-in-5-steps-473n)
+- [what is tRPC ? how to use it in react project?](https://dev.to/santoshpremi/what-is-trpc-how-to-use-it-in-react-project-38o5)
+- [🚀 How Amazon Shapes the Future of Dev &amp; Cloud ☁️](https://dev.to/cecile_agrios_8f41df14128/how-amazon-shapes-the-future-of-dev-cloud-14h5)
+- [🌐 Day 15/250 - CSS Position, Variables &amp; Media Queries](https://dev.to/munin-1/day-15250-css-position-variables-media-queries-31ia)
+- [🚀 Your Daily Crypto Job Digest For 04 April!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-04-april-2m5f)
+- [The power of saying it three times](https://dev.to/measuredco/the-power-of-saying-it-three-times-3ifm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
