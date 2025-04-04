@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GSP321: Develop your Google Cloud Network - Challenge Lab Solution.](https://dev.to/emmanueloloke/gsp321-develop-your-google-cloud-network-challenge-lab-solution-1nl0)
-- [Strengthening XRPL EVM Sidechain: Key Takeaways from Informal Systems Security Audit](https://dev.to/ripplexdev/strengthening-xrpl-evm-sidechain-key-takeaways-from-informal-systems-security-audit-4dme)
-- [Mastering GSP313: Step-by-Step Guide to Implementing Load Balancing on Google Cloud Compute Engine.](https://dev.to/emmanueloloke/mastering-gsp313-step-by-step-guide-to-implementing-load-balancing-on-google-cloud-compute-engine-4h27)
-- [useDebounce Hook in React](https://dev.to/joodi/usedebounce-hook-in-react-48gi)
-- [Timeout 2023: Implementing App Timeout in React](https://dev.to/emmanueloloke/timeout-2023-implementing-app-timeout-in-react-5bhi)
+- [🚀 Auto-Clearing Flash Messages in Phoenix LiveView &lpar;with a Visual Countdown!&rpar;](https://dev.to/marinacdev/auto-clearing-flash-messages-in-phoenix-liveview-with-a-visual-countdown-b9i)
+- [Monomorphization The Rust Way](https://dev.to/martcpp/monomorphization-the-rust-way-26e8)
+- [Here&#39;s what I like to do during my off-peak seasons as a #technicalwriter, I enjoy using this time to do some proofreading, often also to enhance my existing content so that it becomes more value-adding to whomever reads it. #offpeak #reposts](https://dev.to/d2d_weizhi/heres-what-i-like-to-do-during-my-off-peak-seasons-as-a-technicalwriter-i-enjoy-using-this-time-38j4)
+- [&quot;Revolutionizing Search and Rescue: The Future of Robotics and 6G Tech&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-search-and-rescue-the-future-of-robotics-and-6g-tech-308n)
+- [Open Cart Setup in docker using Postgres as database](https://dev.to/tunerlabs_dev/open-cart-setup-in-docker-using-postgres-as-database-1id5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
