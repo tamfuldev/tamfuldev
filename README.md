@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Auto-Clearing Flash Messages in Phoenix LiveView &lpar;with a Visual Countdown!&rpar;](https://dev.to/marinacdev/auto-clearing-flash-messages-in-phoenix-liveview-with-a-visual-countdown-b9i)
-- [Monomorphization The Rust Way](https://dev.to/martcpp/monomorphization-the-rust-way-26e8)
-- [Here&#39;s what I like to do during my off-peak seasons as a #technicalwriter, I enjoy using this time to do some proofreading, often also to enhance my existing content so that it becomes more value-adding to whomever reads it. #offpeak #reposts](https://dev.to/d2d_weizhi/heres-what-i-like-to-do-during-my-off-peak-seasons-as-a-technicalwriter-i-enjoy-using-this-time-38j4)
-- [&quot;Revolutionizing Search and Rescue: The Future of Robotics and 6G Tech&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-search-and-rescue-the-future-of-robotics-and-6g-tech-308n)
-- [Open Cart Setup in docker using Postgres as database](https://dev.to/tunerlabs_dev/open-cart-setup-in-docker-using-postgres-as-database-1id5)
+- [AULA1 do Ubirajara Imersão Dev](https://dev.to/ubirajara_neto_3147e2cd66/aula1-do-ubirajara-imersao-dev-4l8p)
+- [game4 do Ubirajara ImersaoDev](https://dev.to/ubirajara_neto_3147e2cd66/game4-do-ubirajara-imersaodev-5e31)
+- [AIOps: Automating Incident Management with AI &amp; Machine Learning](https://dev.to/yash_sonawane25/aiops-automating-incident-management-with-ai-machine-learning-4ebg)
+- [Intro to React: Components, fragments, state, and props.](https://dev.to/isaiah2k/intro-to-react-components-fragments-state-and-props-c0l)
+- [Exploring the Drip Network Referral System: A New Wave in DeFi](https://dev.to/bobcars/exploring-the-drip-network-referral-system-a-new-wave-in-defi-414d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
