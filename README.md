@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AULA1 do Ubirajara Imersão Dev](https://dev.to/ubirajara_neto_3147e2cd66/aula1-do-ubirajara-imersao-dev-4l8p)
-- [game4 do Ubirajara ImersaoDev](https://dev.to/ubirajara_neto_3147e2cd66/game4-do-ubirajara-imersaodev-5e31)
-- [AIOps: Automating Incident Management with AI &amp; Machine Learning](https://dev.to/yash_sonawane25/aiops-automating-incident-management-with-ai-machine-learning-4ebg)
-- [Intro to React: Components, fragments, state, and props.](https://dev.to/isaiah2k/intro-to-react-components-fragments-state-and-props-c0l)
-- [Exploring the Drip Network Referral System: A New Wave in DeFi](https://dev.to/bobcars/exploring-the-drip-network-referral-system-a-new-wave-in-defi-414d)
+- [DuckDB 🦆 : Libérez le puissant moteur de Requêtes](https://dev.to/mikekenneth77/duckdb-liberez-le-puissant-moteur-de-requetes-1977)
+- [The Drip Network Team: Innovators in DeFi](https://dev.to/laetitiaperraut/the-drip-network-team-innovators-in-defi-1kda)
+- [SOHO Networking](https://dev.to/andrew_despres/soho-networking-afl)
+- [Conversor de Wons](https://dev.to/danielcezar/conversor-de-wons-25kd)
+- [I Want FAST API Framework with RAW please post basic concept](https://dev.to/anjali_gurjar_dff81513867/i-want-fast-api-framework-with-raw-please-post-basic-concept-h20)
 <!-- BLOG-POST-LIST:END -->
 
 ---
