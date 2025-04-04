@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Deep Dive - How Chunked Transfer Encoding Works](https://dev.to/sahan/deep-dive-how-chunked-transfer-encoding-works-4o9n)
-- [🚀Introducing the DevOps &amp; Cloud Docs Portal – Your Ultimate Learning Hub! 📚](https://dev.to/prodevopsguytech/introducing-the-devops-cloud-docs-portal-your-ultimate-learning-hub-38j2)
-- [The Best Postman Alternatives to Streamline API testing](https://dev.to/ronika_kashyap/the-best-postman-alternatives-to-streamline-api-testing-4dpo)
-- [Discover how sustainability is reshaping tech project management in 2025! Learn practical strategies, emerging technologies, and how tools like Teamcamp drive efficiency and innovation. 🌱](https://dev.to/nikhil_sachapara/discover-how-sustainability-is-reshaping-tech-project-management-in-2025-learn-practical-1f0i)
-- [Discover how sustainability is reshaping tech project management in 2025! Learn practical strategies, emerging technologies, and how tools like Teamcamp drive efficiency and innovation. 🌱](https://dev.to/naik_sejal/discover-how-sustainability-is-reshaping-tech-project-management-in-2025-learn-practical-108f)
+- [From Features to Finances: A Simple Guide to Fintech App Development in Australia](https://dev.to/emma_jenkins_5ebc66ac329d/from-features-to-finances-a-simple-guide-to-fintech-app-development-in-australia-2nni)
+- [Platform Engineering- Quick Introduction](https://dev.to/linhgumiho/platform-engineering-quick-introduction-5epe)
+- [🚀 How I Built a Web App in 3 Minutes with Bolt and API.market—No Coding Required!](https://dev.to/imshashank/how-i-built-a-web-app-in-3-minutes-with-bolt-and-apimarket-no-coding-required-4fed)
+- [Connect Four Summary](https://dev.to/codebyblazej/connect-four-summary-2h4i)
+- [What is MCP Server? Clearly Explained!](https://dev.to/lynn_mikami_e94e5b9ad7daf/what-is-mcp-server-clearly-explained-210l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
