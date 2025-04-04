@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Fragment: The Blockchain-Based TON Wallet Integrated with Telegram](https://dev.to/rachellovestowrite/fragment-the-blockchain-based-ton-wallet-integrated-with-telegram-g1m)
-- [Day-1 🌟 Understanding Java Statements: Normal, Conditional, and Control Statements](https://dev.to/elayaraj_c_04396748f52a1c/day-1-understanding-java-statements-normal-conditional-and-control-statements-4mb2)
-- [🚀 GitHub SSH &amp; &quot;Repo Not Found&quot;: The Mistake That Took Me a Bit Too Long to Debug](https://dev.to/byte-sized-news/github-ssh-repo-not-found-the-mistake-that-took-me-a-bit-too-long-to-debug-1hon)
-- [How I Built an HSC GPA Calculator for Bangladeshi Students Using Next.js](https://dev.to/ih_sajjad/how-i-built-an-hsc-gpa-calculator-for-bangladeshi-students-using-nextjs-253j)
-- [5 practical tips for internationalizing your Website](https://dev.to/wimadev/5-practical-tips-for-internationalizing-your-website-3a5c)
+- [173/365 | ¥10M Job Challenge](https://dev.to/kameken100/173365-y10m-job-challenge-4383)
+- [Understanding the Dynamic World of Fragment Telegram Usernames: A Deep Dive into Digital Identity and Market Trends](https://dev.to/laetitiaperraut/understanding-the-dynamic-world-of-fragment-telegram-usernames-a-deep-dive-into-digital-identity-1mm4)
+- [How to Create Your First Rust Project with Cargo](https://dev.to/stellaacharoiro/how-to-create-your-first-rust-project-with-cargo-1349)
+- [⚔️ CodeQuest: Build a text-based RPG with Java, JDBC &amp; Hibernate! Create players, save progress, connect to MySQL, and master ORM with Hibernate—all while crafting your own adventure. Are you ready to code your quest? 🎮💻](https://dev.to/arkadiptakundu/codequest-build-a-text-based-rpg-with-java-jdbc-hibernate-create-players-save-progress-11ih)
+- [My explanation of the rising Model Context Protocol &lpar;or MCP&rpar; used to communicate with LLMs](https://dev.to/zeedu_dev/my-explanation-of-the-rising-model-context-protocol-or-mcp-used-to-communicate-with-llms-31bc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
