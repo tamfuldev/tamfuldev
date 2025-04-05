@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Floating Point Numbers and Scientific Notation](https://dev.to/nozibul_islam_113b1d5334f/floating-point-numbers-and-scientific-notation-1ih1)
-- [Introductory Collections in Python](https://dev.to/devbyleandro/introductory-collections-in-python-g7g)
-- [Difference between betting_system and betting_system_web in Elixir](https://dev.to/msnmongare/difference-between-bettingsystem-and-bettingsystemweb-in-elixir-37hi)
-- [How Blockchain Is Transforming Industries Beyond Crypto](https://dev.to/devkantbhagat/how-blockchain-is-transforming-industries-beyond-crypto-5814)
-- [HawkClient: A developer and git friendly API client &lpar;postman alternative&rpar;](https://dev.to/prashantrathi123/hawkclient-a-developer-and-git-friendly-api-client-postman-alternative-1gm4)
+- [Stop Using Your Database as a Message Queue: Why It&#39;s a Bad Idea](https://dev.to/pratikpathak/stop-using-your-database-as-a-message-queue-why-its-a-bad-idea-2kff)
+- [Ditch the Stock Photos: Supercharge Your Dev Projects with AI Image Generation](https://dev.to/aigame/ditch-the-stock-photos-supercharge-your-dev-projects-with-ai-image-generation-1el6)
+- [Bits, bytes y los operadores bitwise](https://dev.to/djsurgeon/bits-bytes-y-los-operadores-bitwise-42m)
+- [Deploying Flask Todo Application using Pulumi for Fast Static Website Deployment](https://dev.to/pravesh_sudha_3c2b0c2b5e0/deploying-flask-todo-application-using-pulumi-for-fast-static-website-deployment-1in5)
+- [🤖 How AI Is Changing Software Development – And How You Can Keep Up](https://dev.to/learn_with_santosh/how-ai-is-changing-software-development-and-how-you-can-keep-up-4ioc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
