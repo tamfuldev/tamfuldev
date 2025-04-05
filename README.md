@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Hello C++&quot;](https://dev.to/rohit_juyal_68a5f2251c433/hello-c-3m6i)
-- [MongoDB vs. PostgreSQL: Which One is Right for You?](https://dev.to/niks_kirdak_47c783a80cbc7/mongodb-vs-postgresql-which-one-is-right-for-you-46nh)
-- [Beyond the Basics: 10 TypeScript Features That Will Supercharge Your Code](https://dev.to/raju_dandigam/beyond-the-basics-10-typescript-features-that-will-supercharge-your-code-3180)
-- [How To Build A Dynamic Modal In Next js](https://dev.to/ewenikeemmanue4/how-to-build-a-dynamic-modal-in-next-js-gnf)
-- [Untitled](https://dev.to/kashan_6d5ad4a3690f2140cf/untitled-385k)
+- [Every CSS Function You Need – With Practical Examples](https://dev.to/web_dev-usman/every-css-function-you-need-with-practical-examples-23h)
+- [List Of Best Artificial Intelligence Companies In Pakistan](https://dev.to/seo_glaxit_8e9af3e01a9970/list-of-best-artificial-intelligence-companies-in-pakistan-2hk2)
+- [Handling Transactions on Large Tables in High-Traffic C# Applications](https://dev.to/syawqy/handling-transactions-on-large-tables-in-high-traffic-c-applications-103m)
+- [connected components](https://dev.to/dushyant_singhrao_08/connected-components-5cla)
+- [How to Hire a Ruby on Rails Developer: Tips for Finding the Perfect Fit](https://dev.to/jetthoughts/how-to-hire-a-ruby-on-rails-developer-tips-for-finding-the-perfect-fit-51o6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
