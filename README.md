@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Embracing Decentralization with XPATRON: Unleashing Indie Hacker Innovation on Infinex Patrons](https://dev.to/bobcars/embracing-decentralization-with-xpatron-unleashing-indie-hacker-innovation-on-infinex-patrons-28gc)
-- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-kb)
-- [Unleashing the Power of Agentic AI: How Autonomous Agents are transforming Cybersecurity and Application Security](https://dev.to/rollbrace0/unleashing-the-power-of-agentic-ai-how-autonomous-agents-are-transforming-cybersecurity-and-4635)
-- [Mastering Vim: The Underrated Power Tool for IT and Business Professionals](https://dev.to/alexenson/mastering-vim-the-underrated-power-tool-for-it-and-business-professionals-43fi)
-- [Implementing an effective Application Security Programm: Strategies, techniques, and Tools for Optimal outcomes](https://dev.to/lynxfelony1/implementing-an-effective-application-security-programm-strategies-techniques-and-tools-for-2e5c)
+- [Llama 4 Unleashed: Revolutionizing AI with Multimodal Models and Massive Context Windows](https://dev.to/aniruddhaadak/llama-4-unleashed-revolutionizing-ai-with-multimodal-models-and-massive-context-windows-d6p)
+- [The Uneasy Truth I Found in AI Research](https://dev.to/usamaa/the-uneasy-truth-i-found-in-ai-research-270b)
+- [The Indie Hacking Journey of Kumis: Insights and Innovations in the Digital Era](https://dev.to/jennythomas498/the-indie-hacking-journey-of-kumis-insights-and-innovations-in-the-digital-era-3cja)
+- [[Boost]](https://dev.to/lildeon9/-3n9k)
+- [[AWS] IaC generator to migrate from ManagementConsole operation to CDK operation [IaC]](https://dev.to/nao_san_9736c3c2d72e2589f/aws-iac-generator-to-migrate-from-managementconsole-operation-to-cdk-operation-iac-43p3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
