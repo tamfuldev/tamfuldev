@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AULA1-LOV](https://dev.to/gabriela_bueno_aafd93378e/aula1-lov-1d54)
-- [Aula02 - fuyuki](https://dev.to/gabriela_bueno_aafd93378e/aula02-fuyuki-1hon)
-- [OOP for Unity Beginners: Build Better Games from the Start](https://dev.to/alok_krishali/oop-for-unity-beginners-build-better-games-from-the-start-34pj)
-- [Aula03-Arquivo0](https://dev.to/mylenelima/aula03-arquivo0-2833)
-- [How to Enable Google Analytics Tracking in Your Greening-Deployed Site](https://dev.to/chrisgreening/how-to-enable-google-analytics-tracking-in-your-greening-deployed-site-4830)
+- [The Next Big Event In The Generate Code For Dvla Industry](https://dev.to/pinray50/the-next-big-event-in-the-generate-code-for-dvla-industry-1252)
+- [Did you know that TOML means Tom&#39;s Obvious Minimal Language?](https://dev.to/stellaacharoiro/did-you-know-that-toml-means-toms-obvious-minimal-language-114d)
+- [10 Essential Steps to Secure a Node.js REST API](https://dev.to/arunangshu_das/10-essential-steps-to-secure-a-nodejs-rest-api-2p22)
+- [Understanding Rust&#39;s Any Trait: Type Introspection Without Reflection](https://dev.to/leapcell/understanding-rusts-any-trait-type-introspection-without-reflection-bj0)
+- [Aula03-onde está a bolinha??](https://dev.to/gabriela_bueno_aafd93378e/aula03-onde-esta-a-bolinha-hd0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
