@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Zapfolio : Linkedin To Portfolio Website In Two Clicks](https://dev.to/iam_hemanth_sr/zapfolio-linkedin-to-portfolio-website-in-two-clicks-288g)
-- [Secure Image Processing with Pulumi ESC, Clarifai, and pCloud](https://dev.to/kihuni/secure-image-processing-with-pulumi-esc-clarifai-and-pcloud-40ni)
-- [🚀 Mastering the Fetch API in JavaScript — GET, POST, PUT, PATCH, DELETE &lpar;With Examples&rpar;](https://dev.to/devcorner/mastering-the-fetch-api-in-javascript-get-post-put-patch-delete-with-examples-4m7h)
-- [Angular Pipes: Transformando Datos Directamente en tus Plantillas HTML 🔧 - Guía Exhaustiva ✨](https://dev.to/cristian_arieta_7df932e5f/angular-pipes-transformando-datos-directamente-en-tus-plantillas-html-guia-exhaustiva-56e6)
-- [🚀 How to Fetch API Using Axios in JavaScript &lpar;With Code Examples&rpar;](https://dev.to/devcorner/how-to-fetch-api-using-axios-in-javascript-with-code-examples-369c)
+- [How to Create and Use userChrome.css in Firefox](https://dev.to/jakariyaaa/how-to-create-and-use-userchromecss-in-firefox-26g7)
+- [Java Dead Code Confusion: Is My Sir Right?](https://dev.to/vigneshwaralingam/java-dead-code-confusion-is-my-sir-right-3j7n)
+- [✅ GUI Based Universal Unit Converter Using Python With Source Code](https://dev.to/srijan-xi/gui-based-universal-unit-converter-using-python-with-source-code-4fi8)
+- [📘User Management REST API Documentation](https://dev.to/devcorner/user-management-rest-api-documentation-4n3o)
+- [How to Connect a React App with MySQL Database](https://dev.to/sudhanshudevelopers/how-to-connect-a-react-app-with-mysql-database-1n3i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
