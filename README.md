@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating the GitHub Sponsors Payout Process: A Comprehensive Guide to Supporting Open Source](https://dev.to/bobcars/navigating-the-github-sponsors-payout-process-a-comprehensive-guide-to-supporting-open-source-d2g)
-- [&quot;Unlocking Image Editing: The Power of CoLan and AI Innovations&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-image-editing-the-power-of-colan-and-ai-innovations-1cne)
-- [Bolstering Open Source with GitHub Sponsors: The Impact of Matching Funds](https://dev.to/rachellovestowrite/bolstering-open-source-with-github-sponsors-the-impact-of-matching-funds-1cfm)
-- [Today marks 50 years since Paul Allen and I officially started Microsoft by Bill Gates](https://dev.to/agunechemba/today-marks-50-years-since-paul-allen-and-i-officially-started-microsoft-by-bill-gates-mh4)
-- [Embracing the unknown, navigating tech as a women of color.](https://dev.to/laura_rbisou/embracing-the-unknown-navigating-tech-as-a-women-of-color-1okk)
+- [Aula03-Arquivo0](https://dev.to/mylenelima/aula03-arquivo0-2833)
+- [How to Enable Google Analytics Tracking in Your Greening-Deployed Site](https://dev.to/chrisgreening/how-to-enable-google-analytics-tracking-in-your-greening-deployed-site-4830)
+- [Using ChatGPT &amp; AI Agents for Infrastructure Automation in DevOps](https://dev.to/yash_sonawane25/using-chatgpt-ai-agents-for-infrastructure-automation-in-devops-2ped)
+- [Estrutura do projeto React para escalar: decomposition, camadas e hierarquia](https://dev.to/dougsource/estrutura-do-projeto-react-para-escalar-decomposition-camadas-e-hierarquia-1kdh)
+- [My Journey with Microsoft: From a Parallel Port to Azure and AI](https://dev.to/erickbr15/my-journey-with-microsoft-from-a-parallel-port-to-azure-and-ai-l80)
 <!-- BLOG-POST-LIST:END -->
 
 ---
