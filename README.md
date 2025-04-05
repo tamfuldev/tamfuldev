@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Alibaba&#39;s Claude 3.7 killer, Anthropic&#39;s FULL Large Language Model guide, and more](https://dev.to/thisweekinaiengineering/alibabas-claude-37-killer-anthropics-full-large-language-model-guide-and-more-1b1f)
-- [🌩️ How to Get AWS Certifications for Free in 2025 💸](https://dev.to/uniyalmanas/how-to-get-aws-certifications-for-free-in-2025-554c)
-- [Deep Dive into Data Validation with Vaadin – final part](https://dev.to/pbalves/deep-dive-into-data-validation-with-vaadin-final-part-3i27)
-- [Cool &amp; Creative Hardware from Japan&#39;s Maker Contests](https://dev.to/buono/cool-creative-hardware-from-japans-maker-contests-1ph4)
-- [SQL Composite Indexes: When to Use?](https://dev.to/leapcell/sql-composite-indexes-when-to-use-15k0)
+- [Zapfolio : Linkedin To Portfolio Website In Two Clicks](https://dev.to/iam_hemanth_sr/zapfolio-linkedin-to-portfolio-website-in-two-clicks-288g)
+- [Secure Image Processing with Pulumi ESC, Clarifai, and pCloud](https://dev.to/kihuni/secure-image-processing-with-pulumi-esc-clarifai-and-pcloud-40ni)
+- [🚀 Mastering the Fetch API in JavaScript — GET, POST, PUT, PATCH, DELETE &lpar;With Examples&rpar;](https://dev.to/devcorner/mastering-the-fetch-api-in-javascript-get-post-put-patch-delete-with-examples-4m7h)
+- [Angular Pipes: Transformando Datos Directamente en tus Plantillas HTML 🔧 - Guía Exhaustiva ✨](https://dev.to/cristian_arieta_7df932e5f/angular-pipes-transformando-datos-directamente-en-tus-plantillas-html-guia-exhaustiva-56e6)
+- [🚀 How to Fetch API Using Axios in JavaScript &lpar;With Code Examples&rpar;](https://dev.to/devcorner/how-to-fetch-api-using-axios-in-javascript-with-code-examples-369c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
