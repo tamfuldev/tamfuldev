@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Next Big Event In The Generate Code For Dvla Industry](https://dev.to/pinray50/the-next-big-event-in-the-generate-code-for-dvla-industry-1252)
-- [Did you know that TOML means Tom&#39;s Obvious Minimal Language?](https://dev.to/stellaacharoiro/did-you-know-that-toml-means-toms-obvious-minimal-language-114d)
-- [10 Essential Steps to Secure a Node.js REST API](https://dev.to/arunangshu_das/10-essential-steps-to-secure-a-nodejs-rest-api-2p22)
-- [Understanding Rust&#39;s Any Trait: Type Introspection Without Reflection](https://dev.to/leapcell/understanding-rusts-any-trait-type-introspection-without-reflection-bj0)
-- [Aula03-onde está a bolinha??](https://dev.to/gabriela_bueno_aafd93378e/aula03-onde-esta-a-bolinha-hd0)
+- [Sneak peek of RovioCon, a premium invite-only event 🤩](https://dev.to/googleworkspace/sneak-peek-of-roviocon-a-premium-invite-only-event-fcg)
+- [Update to Calendar API, Google Workspace Add ons that extend Google Chat, and more!](https://dev.to/googleworkspace/update-to-calendar-api-google-workspace-add-ons-that-extend-google-chat-and-more-4ho6)
+- [Developer Spotlight with Zack Akil - Senior ML Engineer &amp; Developer Advocate](https://dev.to/googleworkspace/developer-spotlight-with-zack-akil-senior-ml-engineer-developer-advocate-2gjh)
+- [Aula03-Arquivo0](https://dev.to/danielcezar/aula03-arquivo0-4i36)
+- [Exploring .NET Aspire and Adding it to my existing boilerplate](https://dev.to/berviantoleo/exploring-net-aspire-and-adding-it-to-my-existing-boilerplate-40bb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
