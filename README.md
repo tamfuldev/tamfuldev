@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Using Your Database as a Message Queue: Why It&#39;s a Bad Idea](https://dev.to/pratikpathak/stop-using-your-database-as-a-message-queue-why-its-a-bad-idea-2kff)
-- [Ditch the Stock Photos: Supercharge Your Dev Projects with AI Image Generation](https://dev.to/aigame/ditch-the-stock-photos-supercharge-your-dev-projects-with-ai-image-generation-1el6)
-- [Bits, bytes y los operadores bitwise](https://dev.to/djsurgeon/bits-bytes-y-los-operadores-bitwise-42m)
-- [Deploying Flask Todo Application using Pulumi for Fast Static Website Deployment](https://dev.to/pravesh_sudha_3c2b0c2b5e0/deploying-flask-todo-application-using-pulumi-for-fast-static-website-deployment-1in5)
-- [🤖 How AI Is Changing Software Development – And How You Can Keep Up](https://dev.to/learn_with_santosh/how-ai-is-changing-software-development-and-how-you-can-keep-up-4ioc)
+- [How I Fixed ERR_TOO_MANY_REDIRECTS with Cloudflare + Vercel](https://dev.to/samitkapoor/how-i-fixed-errtoomanyredirects-with-cloudflare-vercel-1dbd)
+- [Learning Elixir: Advanced Control Structures](https://dev.to/abreujp/learning-elixir-advanced-control-structures-132n)
+- [🧩 Questions about general web development. &lpar;Share your knowledge&rpar;](https://dev.to/geanny_deraben_75b1f0f21/questions-about-general-web-development-share-your-knowledge-54nn)
+- [Identifying Spam Emails through ML Classification with AWS ☁️](https://dev.to/aws-builders/identifying-spam-emails-through-ml-classification-with-aws-3f0g)
+- [PEM, DER, PFX, CER, CRT, and CSR for connecting to servers](https://dev.to/hobbyistprogrammerar/pem-der-pfx-cer-crt-and-csr-for-connecting-to-servers-54k1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
