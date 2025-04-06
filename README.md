@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 15 : Local variables and Global variables](https://dev.to/sangamithra_k_78d83d6fb9d/day-15-local-variables-and-global-variables-3gj8)
-- [starting up firstly.academy](https://dev.to/charlescrowley/starting-up-firstlyacademy-50ci)
-- [TicketCraft: Dynamic Ticket Generator](https://dev.to/musliu2kul/ticketcraft-dynamic-ticket-generator-3kge)
-- [Bipartite-Based 2-Approximation for Dominating Sets in General Graphs](https://dev.to/frank_vega_987689489099bf/bipartite-based-2-approximation-for-dominating-sets-in-general-graphs-l5g)
-- [Daily JavaScript Challenge #JS-144: Determine the Longest Sequence of Consecutive Ones in a Binary Array](https://dev.to/dpc/daily-javascript-challenge-js-144-determine-the-longest-sequence-of-consecutive-ones-in-a-binary-4dho)
+- [Building AI-Powered Apps with Vercel AI SDK and React](https://dev.to/brayancodes/building-ai-powered-apps-with-vercel-ai-sdk-and-react-46kd)
+- [Edge Computing: The Future of Cloud &amp; DevOps](https://dev.to/yash_sonawane25/edge-computing-the-future-of-cloud-devops-3h1g)
+- [CAP theorem](https://dev.to/husnain/cap-theorem-apo)
+- [[Boost]](https://dev.to/nipundinuranga/-1p67)
+- [My one stop for solution open source setup of software on Linux](https://dev.to/sammy_cloud/my-one-stop-for-solution-open-source-setup-of-software-on-linux-1cmk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
