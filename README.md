@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 FeedBear Alternatives in 2025](https://dev.to/shayy/top-5-feedbear-alternatives-in-2025-26m1)
-- [Memperbaiki Error 0x0000011b Windows 10 Sharing Printer](https://dev.to/tcandra24/memperbaiki-error-0x0000011b-windows-10-sharing-printer-383i)
-- [Llama 4: Breaking Down Meta&#39;s Latest Powerhouse Model](https://dev.to/maxprilutskiy/llama-4-breaking-down-metas-latest-powerhouse-model-3k0p)
-- [Project Stage 2, Part 3: “Prune Away!”](https://dev.to/jpjpjp/project-stage-2-part-3-prune-away-23g0)
-- [🚀 Getting Started with Razen Lang: A Simple, Fast &amp; Friendly Language&lpar;10 Min Read!&rpar;](https://dev.to/prathmesh_pro/getting-started-with-razen-lang-a-simple-fast-friendly-language10-min-read-1h0a)
+- [Pulumi Gestalt 0.0.2 released](https://dev.to/andrzejressel/pulumi-gestalt-002-released-5hm8)
+- [Exploring Next.js 15 and Server Actions: A Deep Dive](https://dev.to/brayancodes/exploring-nextjs-15-and-server-actions-a-deep-dive-3bcl)
+- [License-Token: Revolutionizing OSS License Distribution for a New Era of Open Source Innovation](https://dev.to/kallileiser/license-token-revolutionizing-oss-license-distribution-for-a-new-era-of-open-source-innovation-1330)
+- [DSA in Web Development](https://dev.to/raushan_sinha_8efb05c7b1c/dsa-in-web-development-7om)
+- [Hello Devs! Transitioning from Mechanical to Tech - Need some HTML/CSS tips!!](https://dev.to/shifil/hello-devs-transitioning-from-mechanical-to-tech-need-some-htmlcss-tips-2apd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
