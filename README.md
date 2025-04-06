@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Llama 4: Meta’s MoE-Powered Multimodal Revolution](https://dev.to/sohamehta/llama-4-metas-moe-powered-multimodal-revolution-3f3k)
-- [A Complete Guide to Angular Component Testing with Cypress](https://dev.to/raju_dandigam/a-complete-guide-to-angular-component-testing-with-cypress-5g5b)
-- [MCP — Azure CLI integration](https://dev.to/selvapal/mcp-azure-cli-integration-of5)
-- [Decoding My Portfolio: How a Simple Tool Brought Clarity to My Stock Investments](https://dev.to/isabel_fd69975df2c2210921/decoding-my-portfolio-how-a-simple-tool-brought-clarity-to-my-stock-investments-12gd)
-- [Connecting Database with NestJS Using Prisma ORM](https://dev.to/dilumdarshana/connecting-database-with-nestjs-using-prisma-orm-5f7h)
+- [My Journey to Programming: Building my first Full-Stack Application](https://dev.to/desiii_notfound/my-journey-to-programming-building-my-first-full-stack-application-51k4)
+- [Why JSONsilo is Perfect for Prototyping and Small Projects](https://dev.to/jaironlanda/why-jsonsilo-is-perfect-for-prototyping-and-small-projects-1h8b)
+- [🚗 Help Wanted: Admin CMS for Car Listing Platform](https://dev.to/andreas_2630/help-wanted-admin-cms-for-car-listing-platform-2633)
+- [📱 RadhaSphere Wallet – The Wallet UX We Deserve](https://dev.to/omniradhanexus/radhasphere-wallet-the-wallet-ux-we-deserve-3f6n)
+- [&quot;Unlocking Reliability: Testing Neural Networks for Critical Systems&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-reliability-testing-neural-networks-for-critical-systems-3607)
 <!-- BLOG-POST-LIST:END -->
 
 ---
