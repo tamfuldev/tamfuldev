@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [MuleSoft Artificial Intelligence: Revolutionizing Integration Workflows](https://dev.to/kapusto/mulesoft-artificial-intelligence-revolutionizing-integration-workflows-ek1)
-- [Standard built-in objects in Java Script](https://dev.to/the-matrixneo/standard-built-in-objects-in-java-script-350n)
-- [Largest Divisible subset](https://dev.to/prashantrmishra/largest-divisible-subset-4gcl)
-- [Automating PR Reviews: How I Enforced Screenshots with GitHub Actions](https://dev.to/imsameerkhan/automating-pr-reviews-how-i-enforced-screenshots-with-github-actions-3k8g)
-- [✍️ Writing Better Error Messages: A Simple Guide Inspired by Google](https://dev.to/ikhaledabdelfattah/writing-better-error-messages-a-simple-guide-inspired-by-google-im9)
+- [Empowering Open Source: A Comprehensive Guide to Developer Stipends, Sponsorship, and Open Collaboration](https://dev.to/bobcars/empowering-open-source-a-comprehensive-guide-to-developer-stipends-sponsorship-and-open-1lb4)
+- [Check this out](https://dev.to/the-idealist/-2m70)
+- [Rethink JS Classes: Embrace Closures for Lightweight State &amp; Typing](https://dev.to/svehla/rethink-js-classes-embrace-closures-for-lightweight-state-typing-fbk)
+- [Build a Contact Form in React with Node.js Backend and Store Messages in MongoDB &lpar;With Email Alerts!&rpar;](https://dev.to/the-idealist/build-a-contact-form-in-react-with-nodejs-backend-and-store-messages-in-mongodb-with-email-1bhe)
+- [Voice Search and Zero-Click Content: The Conversational Search Revolution](https://dev.to/kapusto/voice-search-and-zero-click-content-the-conversational-search-revolution-2c92)
 <!-- BLOG-POST-LIST:END -->
 
 ---
