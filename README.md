@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Testing &amp; Fixes - Project Stage 02](https://dev.to/jurozaw/testing-fixes-project-stage-02-2i2a)
-- [Must to know JS Concepts](https://dev.to/jay818/must-to-know-js-concepts-1i82)
-- [Using WakaTime to Boost Productivity](https://dev.to/gmitch215/using-wakatime-to-boost-productivity-21e0)
-- [Dive into the core concepts of JavaScript in this beginner-friendly deep dive!](https://dev.to/jay818/dive-into-the-core-concepts-of-javascript-in-this-beginner-friendly-deep-dive-p79)
-- [Ever wondered why this is sometimes undefined? Or how currying actually works? Dive into the core concepts of JavaScript in this beginner-friendly deep dive!](https://dev.to/jay818/ever-wondered-why-this-is-sometimes-undefined-or-how-currying-actually-works-dive-into-the-core-44e0)
+- [Pulumi ESC Config: Simplify Your Local Configuration Management](https://dev.to/ion_finisher/pulumi-esc-config-simplify-your-local-configuration-management-40jk)
+- [I made a real-time Mafia game you can play with strangers – no signups](https://dev.to/hito/i-made-a-real-time-mafia-game-you-can-play-with-strangers-no-signups-4ga2)
+- [Unlocking the Future: Open Source and Blockchain Funding Revolution](https://dev.to/zhangwei42/unlocking-the-future-open-source-and-blockchain-funding-revolution-amg)
+- [WeCoded Landing page](https://dev.to/rinka_pro/wecoded-landing-page-5a9g)
+- [quiz- fuyuki](https://dev.to/gabriela_bueno_aafd93378e/quiz-fuyuki-3o15)
 <!-- BLOG-POST-LIST:END -->
 
 ---
