@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [New Method Reveals How AI Models Actually Think by Mapping Their Reasoning Process](https://dev.to/mikeyoung44/new-method-reveals-how-ai-models-actually-think-by-mapping-their-reasoning-process-32ml)
-- [AI System Achieves 71% of Human Performance in Image Segmentation Without Training Labels](https://dev.to/mikeyoung44/ai-system-achieves-71-of-human-performance-in-image-segmentation-without-training-labels-1j7l)
-- [NVIDIA AI Turns Text-Generated Videos into Physically Accurate 3D Character Animations](https://dev.to/mikeyoung44/nvidia-ai-turns-text-generated-videos-into-physically-accurate-3d-character-animations-7am)
-- [Brain-Like AI Model Learns More Efficiently by Mimicking Neural Spike Patterns](https://dev.to/mikeyoung44/brain-like-ai-model-learns-more-efficiently-by-mimicking-neural-spike-patterns-50fa)
-- [From Legacy to Leading: A Guide to Seeding the Switch from Old Systems to New Technology](https://dev.to/okoye_ndidiamaka_5e3b7d30/from-legacy-to-leading-a-guide-to-seeding-the-switch-from-old-systems-to-new-technology-39f9)
+- [Llama 4: Meta’s MoE-Powered Multimodal Revolution](https://dev.to/sohamehta/llama-4-metas-moe-powered-multimodal-revolution-3f3k)
+- [A Complete Guide to Angular Component Testing with Cypress](https://dev.to/raju_dandigam/a-complete-guide-to-angular-component-testing-with-cypress-5g5b)
+- [MCP — Azure CLI integration](https://dev.to/selvapal/mcp-azure-cli-integration-of5)
+- [Decoding My Portfolio: How a Simple Tool Brought Clarity to My Stock Investments](https://dev.to/isabel_fd69975df2c2210921/decoding-my-portfolio-how-a-simple-tool-brought-clarity-to-my-stock-investments-12gd)
+- [Connecting Database with NestJS Using Prisma ORM](https://dev.to/dilumdarshana/connecting-database-with-nestjs-using-prisma-orm-5f7h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
