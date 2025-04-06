@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [IaC in Action: Deploying a Static Site with Pulumi, AWS &amp; Cloudflare](https://dev.to/onlyfave/iac-in-action-deploying-a-static-site-with-pulumi-aws-cloudflare-29cj)
-- [Commentary on the ThoughtWorks Radar 2025](https://dev.to/jesterxl/commentary-on-the-thoughtworks-radar-2025-gd9)
-- [My WeCoded Landing Page](https://dev.to/prubianes/my-wecoded-landing-page-3i6i)
-- [Linux Filesystem: Understanding the Core Structure &lpar;Day 1 of 30&rpar;](https://dev.to/sheikhhassaanbinnadeem/linux-filesystem-understanding-the-core-structure-day-1-of-30-2m0j)
-- [Top 5 Usersnap Alternatives in 2025](https://dev.to/shayy/top-5-usersnap-alternatives-in-2025-2fkn)
+- [Tilt: Improving Local Development with Production-Like Environments](https://dev.to/gurghet/improving-local-development-with-production-like-environments-hhh)
+- [Vibe Tech #1: Welcome and initial thoughts](https://dev.to/surfing_devs/vibe-tech-1-welcome-and-initial-thoughts-jkh)
+- [🧠 Cache no Banco de Dados: Maneiras de Ser Mais Rápido](https://dev.to/viniciusteodoro/cache-no-banco-de-dados-maneiras-de-ser-mais-rapido-4b39)
+- [Red &lpar;wifi&rpar; y SSH en Stage1 &lpar;boot - initrd&rpar; de NixOS - Parte 2](https://dev.to/federico_jensen/red-wifi-y-ssh-en-stage1-boot-initrd-de-nixos-parte-2-4j9m)
+- [Bypassing reCAPTCHA V3 For Scraping](https://dev.to/task0001/bypassing-recaptcha-v3-for-scraping-4681)
 <!-- BLOG-POST-LIST:END -->
 
 ---
