@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why did you choose JavaScript?](https://dev.to/shafiqbd/why-did-you-choose-javascript-2bmd)
-- [EC2 User Data for Beginners](https://dev.to/rajathkumarks/ec2-user-data-for-beginners-2fn3)
-- [Time of YAML/JSON for data engineer](https://dev.to/kination/time-of-yamljson-for-data-engineer-84c)
-- [Creating a Middleware in FastAPI for Logging Request and Responses](https://dev.to/rajathkumarks/creating-a-middleware-in-fastapi-for-logging-request-and-responses-379o)
-- [I Made a Detective Game That Teaches You SQL](https://dev.to/hristo2612/i-made-a-detective-game-that-teaches-you-sql-njd)
+- [MuleSoft Artificial Intelligence: Revolutionizing Integration Workflows](https://dev.to/kapusto/mulesoft-artificial-intelligence-revolutionizing-integration-workflows-ek1)
+- [Standard built-in objects in Java Script](https://dev.to/the-matrixneo/standard-built-in-objects-in-java-script-350n)
+- [Largest Divisible subset](https://dev.to/prashantrmishra/largest-divisible-subset-4gcl)
+- [Automating PR Reviews: How I Enforced Screenshots with GitHub Actions](https://dev.to/imsameerkhan/automating-pr-reviews-how-i-enforced-screenshots-with-github-actions-3k8g)
+- [✍️ Writing Better Error Messages: A Simple Guide Inspired by Google](https://dev.to/ikhaledabdelfattah/writing-better-error-messages-a-simple-guide-inspired-by-google-im9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
