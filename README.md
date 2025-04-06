@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building AI-Powered Apps with Vercel AI SDK and React](https://dev.to/brayancodes/building-ai-powered-apps-with-vercel-ai-sdk-and-react-46kd)
-- [Edge Computing: The Future of Cloud &amp; DevOps](https://dev.to/yash_sonawane25/edge-computing-the-future-of-cloud-devops-3h1g)
-- [CAP theorem](https://dev.to/husnain/cap-theorem-apo)
-- [[Boost]](https://dev.to/nipundinuranga/-1p67)
-- [My one stop for solution open source setup of software on Linux](https://dev.to/sammy_cloud/my-one-stop-for-solution-open-source-setup-of-software-on-linux-1cmk)
+- [Top 5 FeedBear Alternatives in 2025](https://dev.to/shayy/top-5-feedbear-alternatives-in-2025-26m1)
+- [Memperbaiki Error 0x0000011b Windows 10 Sharing Printer](https://dev.to/tcandra24/memperbaiki-error-0x0000011b-windows-10-sharing-printer-383i)
+- [Llama 4: Breaking Down Meta&#39;s Latest Powerhouse Model](https://dev.to/maxprilutskiy/llama-4-breaking-down-metas-latest-powerhouse-model-3k0p)
+- [Project Stage 2, Part 3: “Prune Away!”](https://dev.to/jpjpjp/project-stage-2-part-3-prune-away-23g0)
+- [🚀 Getting Started with Razen Lang: A Simple, Fast &amp; Friendly Language&lpar;10 Min Read!&rpar;](https://dev.to/prathmesh_pro/getting-started-with-razen-lang-a-simple-fast-friendly-language10-min-read-1h0a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
