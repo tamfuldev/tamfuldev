@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Llama 4 Unleashed: Revolutionizing AI with Multimodal Models and Massive Context Windows](https://dev.to/aniruddhaadak/llama-4-unleashed-revolutionizing-ai-with-multimodal-models-and-massive-context-windows-d6p)
-- [The Uneasy Truth I Found in AI Research](https://dev.to/usamaa/the-uneasy-truth-i-found-in-ai-research-270b)
-- [The Indie Hacking Journey of Kumis: Insights and Innovations in the Digital Era](https://dev.to/jennythomas498/the-indie-hacking-journey-of-kumis-insights-and-innovations-in-the-digital-era-3cja)
-- [[Boost]](https://dev.to/lildeon9/-3n9k)
-- [[AWS] IaC generator to migrate from ManagementConsole operation to CDK operation [IaC]](https://dev.to/nao_san_9736c3c2d72e2589f/aws-iac-generator-to-migrate-from-managementconsole-operation-to-cdk-operation-iac-43p3)
+- [Day 15 : Local variables and Global variables](https://dev.to/sangamithra_k_78d83d6fb9d/day-15-local-variables-and-global-variables-3gj8)
+- [starting up firstly.academy](https://dev.to/charlescrowley/starting-up-firstlyacademy-50ci)
+- [TicketCraft: Dynamic Ticket Generator](https://dev.to/musliu2kul/ticketcraft-dynamic-ticket-generator-3kge)
+- [Bipartite-Based 2-Approximation for Dominating Sets in General Graphs](https://dev.to/frank_vega_987689489099bf/bipartite-based-2-approximation-for-dominating-sets-in-general-graphs-l5g)
+- [Daily JavaScript Challenge #JS-144: Determine the Longest Sequence of Consecutive Ones in a Binary Array](https://dev.to/dpc/daily-javascript-challenge-js-144-determine-the-longest-sequence-of-consecutive-ones-in-a-binary-4dho)
 <!-- BLOG-POST-LIST:END -->
 
 ---
