@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Nullish Coalescing and Optional Chaining Explained](https://dev.to/omriluz1/nullish-coalescing-and-optional-chaining-explained-igb)
-- [Simplifying Design Patterns : Factory Method](https://dev.to/bccaxias/simplifying-design-patterns-factory-method-16f6)
-- [Mkdotenv: the tool that makes .env manipulation a breeze](https://dev.to/pcmagas/mkdotenv-the-tool-that-makes-env-manipulation-a-breeze-16m8)
-- [Aula02 da imersao Dev](https://dev.to/fernandamaresi/aula02-da-imersao-dev-2l46)
-- [Self-hosting LLMs for Production Systems: Solving the Model Quality Challenge](https://dev.to/ezodude/self-hosting-llms-for-production-systems-solving-the-model-quality-challenge-3h6i)
+- [The Mechanics of SELECT FOR UPDATE in SQL](https://dev.to/leapcell/the-mechanics-of-select-for-update-in-sql-3of5)
+- [Cómo Crear una App para Lectura de Cartas del Tarot Paso a Paso: Guía para Desarrolladores de Botánicas](https://dev.to/emily_johnson_dev/como-crear-una-app-para-lectura-de-cartas-del-tarot-paso-a-paso-guia-para-desarrolladores-de-nog)
+- [How to Build an AI Image Caption Generator in Vue 3](https://dev.to/yahav10/how-to-build-an-ai-image-caption-generator-in-vue-3-59kb)
+- [has anyone seen this new feature...?](https://dev.to/mrjoel/has-anyone-seen-this-new-feature-157n)
+- [🤖 5 AI Apps You Can Start Building Using MCP Agents](https://dev.to/hani__8725b7a/5-real-world-apps-you-can-start-building-using-mcp-agents-3ecb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
