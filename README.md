@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Static site in Minutes using Pulumi and Hugo](https://dev.to/ashish_kumar_4dc2a7ee7693/static-site-in-minutes-using-pulumi-and-hugo-2300)
-- [Building an NSFW AI Text-to-Image Generator with Next.js and Tailwind CSS](https://dev.to/ficav/building-an-nsfw-ai-text-to-image-generator-with-nextjs-and-tailwind-css-5chc)
-- [Pulumi + GitHub Actions: A CI/CD Pipeline for AWS S3 Deployment](https://dev.to/vec21/pulumi-github-actions-a-cicd-pipeline-for-aws-s3-deployment-klh)
-- [Trump’s 2025 Reciprocal Tariff Policy | Vibe Weekly Vol.002](https://dev.to/vibeweekly/trumps-2025-reciprocal-tariff-policy-vibe-weekly-vol002-2h0d)
-- [Week 10: Pre-Holiday](https://dev.to/c6z3h/week-10-pre-holiday-31j0)
+- [Exploring Siemens’ Decentralized Licensing: Transforming Software Management](https://dev.to/ahmmrizv9/exploring-siemens-decentralized-licensing-transforming-software-management-2npl)
+- [Cookies vs. Sessions: The Stateful Dance of the Web](https://dev.to/dehemi_fabio/cookies-vs-sessions-the-stateful-dance-of-the-web-31jb)
+- [Secure and Fast Static Website Deployment on AWS using Pulumi](https://dev.to/drintech/secure-and-fast-static-website-deployment-on-aws-using-pulumi-3bi5)
+- [From Concept to Code: Crafting an Intelligent Calorie Burn Tracker](https://dev.to/learncomputer/from-concept-to-code-crafting-an-intelligent-calorie-burn-tracker-k29)
+- [Exploring Front-End Unit Testing Frameworks: A Comprehensive Guide](https://dev.to/mohan_dandigam_198ba99e58/exploring-front-end-unit-testing-frameworks-a-comprehensive-guide-o69)
 <!-- BLOG-POST-LIST:END -->
 
 ---
