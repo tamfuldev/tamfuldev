@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Open Source Revenue Generation: Balancing Community and Commerce](https://dev.to/rachellovestowrite/open-source-revenue-generation-balancing-community-and-commerce-kee)
-- [Test Post from cURL](https://dev.to/steven_yang_267/test-post-from-curl-44cp)
-- [⚠️ Common Problems in Spring Boot Exception Handling &lpar;and How to Fix Them&rpar; 🚀](https://dev.to/codereacher_20b8a/common-problems-in-spring-boot-exception-handling-and-how-to-fix-them-1o2o)
-- [Kubernetes on the Edge: Running Containers Closer to Users](https://dev.to/yash_sonawane25/kubernetes-on-the-edge-running-containers-closer-to-users-aig)
-- [Elastic Beanstalk + VPC integration](https://dev.to/leonardkachi/elastic-beanstalk-vpc-integration-2ea9)
+- [Static site in Minutes using Pulumi and Hugo](https://dev.to/ashish_kumar_4dc2a7ee7693/static-site-in-minutes-using-pulumi-and-hugo-2300)
+- [Building an NSFW AI Text-to-Image Generator with Next.js and Tailwind CSS](https://dev.to/ficav/building-an-nsfw-ai-text-to-image-generator-with-nextjs-and-tailwind-css-5chc)
+- [Pulumi + GitHub Actions: A CI/CD Pipeline for AWS S3 Deployment](https://dev.to/vec21/pulumi-github-actions-a-cicd-pipeline-for-aws-s3-deployment-klh)
+- [Trump’s 2025 Reciprocal Tariff Policy | Vibe Weekly Vol.002](https://dev.to/vibeweekly/trumps-2025-reciprocal-tariff-policy-vibe-weekly-vol002-2h0d)
+- [Week 10: Pre-Holiday](https://dev.to/c6z3h/week-10-pre-holiday-31j0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
