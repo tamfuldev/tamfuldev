@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SPO600 Project - Stage 2: Function Clone Detection and Analysis &lpar;Part 2&rpar;](https://dev.to/amullagaliev/spo600-project-stage-2-function-clone-detection-and-analysis-part-2-16k9)
-- [Analysis of Key Technical Principles for a Visual Drag-and-Drop Component Library](https://dev.to/woai3c/analysis-of-key-technical-principles-for-a-visual-drag-and-drop-component-library-n31)
-- [Article 4 : Déploiement Kubernetes avec GitOps](https://dev.to/woulf/article-4-deploiement-kubernetes-avec-gitops-55gf)
-- [A Step-By-Step Guide to Install Llama-4 Maverick 17B 128E Instruct](https://dev.to/nodeshiftcloud/a-step-by-step-guide-to-install-llama-4-maverick-17b-128e-instruct-4e5l)
-- [Composant Select avec RiotJS](https://dev.to/steeve/composant-select-avec-riotjs-58jk)
+- [🚀 Your Daily Crypto Job Digest For 07 April!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-07-april-4ked)
+- [Predicting Legacy Failures: Training and Hosting ML Models in SageMaker](https://dev.to/semperfitodd/predicting-legacy-failures-training-and-hosting-ml-models-in-sagemaker-48b7)
+- [JavaScript Prototype and __proto__ - Do you know how it works?](https://dev.to/matheusjulidori/javascript-prototype-and-proto-do-you-know-how-it-works-3bec)
+- [Code Review Best Practices](https://dev.to/mirnes_mrkaljevic/code-review-best-practices-4d8a)
+- [Code execution system..](https://dev.to/ssvikash_20/code-execution-system-deo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
