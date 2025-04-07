@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Depth Over Trend](https://dev.to/olanetsoft/depth-over-trend-3ccd)
-- [SPO600: Project Stage 2 - Function Clone Detection and Analysis &lpar;Part 1&rpar;](https://dev.to/amullagaliev/spo600-project-stage-2-function-clone-detection-and-analysis-part-1-2ob7)
-- [Full Stack Starter: build an image gallery from scratch without frameworks](https://dev.to/sean_shirazi/full-stack-starter-build-a-image-gallery-from-scratch-without-frameworks-5h64)
-- [AI เกมงู การค้นหาเส้นทางด้วยDijkstra Algorithm](https://dev.to/team_th_089909a56ce4d0593/ai-ekmnguu-kaarkhnhaaesnthaangdwydijkstra-algorithm-10pd)
-- [Intelligent Data Management in Life Sciences: Transforming Drug Development with Smart, Scalable Systems](https://dev.to/hana_sato/intelligent-data-management-in-life-sciences-transforming-drug-development-with-smart-scalable-ink)
+- [SPO600 Project - Stage 2: Function Clone Detection and Analysis &lpar;Part 2&rpar;](https://dev.to/amullagaliev/spo600-project-stage-2-function-clone-detection-and-analysis-part-2-16k9)
+- [Analysis of Key Technical Principles for a Visual Drag-and-Drop Component Library](https://dev.to/woai3c/analysis-of-key-technical-principles-for-a-visual-drag-and-drop-component-library-n31)
+- [Article 4 : Déploiement Kubernetes avec GitOps](https://dev.to/woulf/article-4-deploiement-kubernetes-avec-gitops-55gf)
+- [A Step-By-Step Guide to Install Llama-4 Maverick 17B 128E Instruct](https://dev.to/nodeshiftcloud/a-step-by-step-guide-to-install-llama-4-maverick-17b-128e-instruct-4e5l)
+- [Composant Select avec RiotJS](https://dev.to/steeve/composant-select-avec-riotjs-58jk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
