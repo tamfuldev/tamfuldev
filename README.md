@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [This is really fun](https://dev.to/neusacodes/this-is-really-fun-250p)
-- [Hacking Ético, Kali Linux y Metasploitable 3: Conceptos Claves](https://dev.to/ezavalar/hacking-etico-kali-linux-y-metasploitable-3-conceptos-claves-4mi3)
-- [Into the Spider-verse: Maybe the best movie soundtrack of all time?](https://dev.to/ben/into-the-spider-verse-maybe-the-best-movie-soundtrack-of-all-time-393f)
-- [array of arrays js.. thoughts?](https://dev.to/lanor_rigby_7fe9c90f68151/array-of-arrays-js-thoughts-ndp)
-- [Anodized Aluminum VR Gravity Cards](https://dev.to/jsabutis/anodized-aluminum-vr-gravity-cards-3e7g)
+- [Custom RAG in Zurich: Revolutionizing the Search and Retrieval Landscape](https://dev.to/antegris/custom-rag-in-zurich-revolutionizing-the-search-and-retrieval-landscape-58be)
+- [RL for Multimodal Label Ranking: A Novel Approach](https://dev.to/aimodels-fyi/rl-for-multimodal-label-ranking-a-novel-approach-3j12)
+- [Firefox&#39;s Data Sharing: What It Means for Your Privacy](https://dev.to/kallileiser/firefoxs-data-sharing-what-it-means-for-your-privacy-1dki)
+- [Day 1135 : Old Man](https://dev.to/dwane/day-1135-old-man-43l6)
+- [10.1 A java.time vem do Joda Time](https://dev.to/fundamentosjava/101-a-javatime-vem-do-joda-time-1meg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
