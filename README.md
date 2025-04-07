@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Mechanics of SELECT FOR UPDATE in SQL](https://dev.to/leapcell/the-mechanics-of-select-for-update-in-sql-3of5)
-- [Cómo Crear una App para Lectura de Cartas del Tarot Paso a Paso: Guía para Desarrolladores de Botánicas](https://dev.to/emily_johnson_dev/como-crear-una-app-para-lectura-de-cartas-del-tarot-paso-a-paso-guia-para-desarrolladores-de-nog)
-- [How to Build an AI Image Caption Generator in Vue 3](https://dev.to/yahav10/how-to-build-an-ai-image-caption-generator-in-vue-3-59kb)
-- [has anyone seen this new feature...?](https://dev.to/mrjoel/has-anyone-seen-this-new-feature-157n)
-- [🤖 5 AI Apps You Can Start Building Using MCP Agents](https://dev.to/hani__8725b7a/5-real-world-apps-you-can-start-building-using-mcp-agents-3ecb)
+- [This is really fun](https://dev.to/neusacodes/this-is-really-fun-250p)
+- [Hacking Ético, Kali Linux y Metasploitable 3: Conceptos Claves](https://dev.to/ezavalar/hacking-etico-kali-linux-y-metasploitable-3-conceptos-claves-4mi3)
+- [Into the Spider-verse: Maybe the best movie soundtrack of all time?](https://dev.to/ben/into-the-spider-verse-maybe-the-best-movie-soundtrack-of-all-time-393f)
+- [array of arrays js.. thoughts?](https://dev.to/lanor_rigby_7fe9c90f68151/array-of-arrays-js-thoughts-ndp)
+- [Anodized Aluminum VR Gravity Cards](https://dev.to/jsabutis/anodized-aluminum-vr-gravity-cards-3e7g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
