@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Leadership Lessons from Disney&#39;s CEO](https://dev.to/getjv/leadership-lessons-from-disneys-ceo-51e5)
-- [Navigating Grok 3 API Rate Limits: Strategies for Seamless Integration](https://dev.to/_37bbf0c253c0b3edec531e/navigating-grok-3-api-rate-limits-strategies-for-seamless-integration-44pj)
-- [Midjourney V7: How Is It Revolutionizing AI Image Generation?](https://dev.to/_37bbf0c253c0b3edec531e/midjourney-v7-how-is-it-revolutionizing-ai-image-generation-2o9o)
-- [Meta Llama 4 Model Series Full Analysis](https://dev.to/_37bbf0c253c0b3edec531e/meta-llama-4-model-series-full-analysis-2nm4)
-- [Docker Scout: Revolutionizing Container Security Through Automated Audits](https://dev.to/naveens16/docker-scout-revolutionizing-container-security-through-automated-audits-2a0n)
+- [Depth Over Trend](https://dev.to/olanetsoft/depth-over-trend-3ccd)
+- [SPO600: Project Stage 2 - Function Clone Detection and Analysis &lpar;Part 1&rpar;](https://dev.to/amullagaliev/spo600-project-stage-2-function-clone-detection-and-analysis-part-1-2ob7)
+- [Full Stack Starter: build an image gallery from scratch without frameworks](https://dev.to/sean_shirazi/full-stack-starter-build-a-image-gallery-from-scratch-without-frameworks-5h64)
+- [AI เกมงู การค้นหาเส้นทางด้วยDijkstra Algorithm](https://dev.to/team_th_089909a56ce4d0593/ai-ekmnguu-kaarkhnhaaesnthaangdwydijkstra-algorithm-10pd)
+- [Intelligent Data Management in Life Sciences: Transforming Drug Development with Smart, Scalable Systems](https://dev.to/hana_sato/intelligent-data-management-in-life-sciences-transforming-drug-development-with-smart-scalable-ink)
 <!-- BLOG-POST-LIST:END -->
 
 ---
