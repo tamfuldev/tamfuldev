@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Zed Run: Indie Hacking and NFT Innovation on the Digital Racetrack](https://dev.to/ashucommits/zed-run-indie-hacking-and-nft-innovation-on-the-digital-racetrack-3del)
-- [[Boost]](https://dev.to/karanverma/-4983)
-- [Understanding Anxiety: Causes and Symptoms](https://dev.to/isla_brown_662ed08f2867f1/understanding-anxiety-causes-and-symptoms-226g)
-- [To hone your skills as a Cloud Engineer, knowledge of networking is a must-have. Read up in this article the basics of networking. This will equip you to handle your tasks more effciently and also give you a basis to further deepen your understanding.](https://dev.to/oluwanifemi_loveth_1/to-hone-your-skills-as-a-cloud-engineer-knowledge-of-networking-is-a-must-have-read-up-in-this-428a)
-- [Mobile App Development: iOS vs. Android](https://dev.to/gaudigabrielmorales/mobile-app-development-ios-vs-android-2lek)
+- [Leadership Lessons from Disney&#39;s CEO](https://dev.to/getjv/leadership-lessons-from-disneys-ceo-51e5)
+- [Navigating Grok 3 API Rate Limits: Strategies for Seamless Integration](https://dev.to/_37bbf0c253c0b3edec531e/navigating-grok-3-api-rate-limits-strategies-for-seamless-integration-44pj)
+- [Midjourney V7: How Is It Revolutionizing AI Image Generation?](https://dev.to/_37bbf0c253c0b3edec531e/midjourney-v7-how-is-it-revolutionizing-ai-image-generation-2o9o)
+- [Meta Llama 4 Model Series Full Analysis](https://dev.to/_37bbf0c253c0b3edec531e/meta-llama-4-model-series-full-analysis-2nm4)
+- [Docker Scout: Revolutionizing Container Security Through Automated Audits](https://dev.to/naveens16/docker-scout-revolutionizing-container-security-through-automated-audits-2a0n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
