@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Tilt: Improving Local Development with Production-Like Environments](https://dev.to/gurghet/improving-local-development-with-production-like-environments-hhh)
-- [Vibe Tech #1: Welcome and initial thoughts](https://dev.to/surfing_devs/vibe-tech-1-welcome-and-initial-thoughts-jkh)
-- [🧠 Cache no Banco de Dados: Maneiras de Ser Mais Rápido](https://dev.to/viniciusteodoro/cache-no-banco-de-dados-maneiras-de-ser-mais-rapido-4b39)
-- [Red &lpar;wifi&rpar; y SSH en Stage1 &lpar;boot - initrd&rpar; de NixOS - Parte 2](https://dev.to/federico_jensen/red-wifi-y-ssh-en-stage1-boot-initrd-de-nixos-parte-2-4j9m)
-- [Bypassing reCAPTCHA V3 For Scraping](https://dev.to/task0001/bypassing-recaptcha-v3-for-scraping-4681)
+- [Developing AI-Powered Accessibility Features for the Web](https://dev.to/kartikmehta8/developing-ai-powered-accessibility-features-for-the-web-m7g)
+- [i made a code review assistant. it&#39;s kindof like a competitor to coderabbit. but it&#39;s more focused on manual-review augmentation: coderev.q32.com would appreciate any feedback. like, maybe you want an &quot;overall&quot; summary in the draft, etc.](https://dev.to/earonesty/i-made-a-code-review-assistant-its-kindof-like-a-competitor-to-coderabbit-but-its-more-4mj5)
+- [Over-Complicated Pricing Could Kill A Sales Process](https://dev.to/jetthoughts/over-complicated-pricing-could-kill-a-sales-process-3gcj)
+- [Designing an API with Swagger: A Step-by-Step Breakdown](https://dev.to/harishankarr7/designing-an-api-with-swagger-a-step-by-step-breakdown-531d)
+- [🚀 Enhancing Development Efficiency with VS Code Snippets: A React Native Example Using TypeScript](https://dev.to/ersuman/enhancing-development-efficiency-with-vs-code-snippets-a-react-native-example-using-typescript-6lh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
