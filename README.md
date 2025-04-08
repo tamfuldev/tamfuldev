@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Cost Optimization: Deleting Unattached EBS Volumes Using AWS Lambda and CloudFormation](https://dev.to/bowale/automating-cost-optimization-deleting-unattached-ebs-volumes-using-aws-lambda-and-cloudformation-1fng)
-- [I Blew 400€ on Cursor — 10 tips for AI Coding in 2025](https://dev.to/techbyadam/i-blew-400eu-on-cursor-10-tips-for-ai-coding-in-2025-oa2)
-- [How to run containerized JAVA application](https://dev.to/kubenetic/how-to-run-containerized-java-application-1iog)
-- [Reimagining WordPress Category Management with Advanced Taxonomy Manager](https://dev.to/gbti-network/reimagining-wordpress-category-management-with-advanced-taxonomy-manager-29cb)
-- [Jozu Hub–Your private, on-prem Hugging Face registry](https://dev.to/kitops/jozu-hub-your-private-on-prem-hugging-face-registry-2p61)
+- [How to Vibe Code Responsibly &lpar;with Goose&rpar;](https://dev.to/blockopensource/how-to-vibe-code-responsibly-with-goose-42kb)
+- [Dealing with Pushback to Product Engineering](https://dev.to/epilot/dealing-with-pushback-to-product-engineering-431o)
+- [177/365 | ¥10M Job Challenge - Pay to play](https://dev.to/kameken100/177365-y10m-job-challenge-pay-to-play-3p5e)
+- [Folder structure - backend java](https://dev.to/imajenasyon/folder-structure-backend-java-2402)
+- [Context Is King: Reframing Our Mental Model of Coding Assistants](https://dev.to/filipeximenes/context-is-king-reframing-our-mental-model-of-coding-assistants-4jc3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
