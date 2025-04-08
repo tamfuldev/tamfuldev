@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [So you would like to digitise your CD collection? &lpar;&amp; Part 4&rpar;](https://dev.to/fernand0/so-you-would-like-to-digitise-your-cd-collection-part-4-4kem)
-- [ความแตกต่างระหว่าง Decision Tree และ Random Forrest พร้อมข้อดีและข้อเสีย](https://dev.to/3061__2/khwaamaetktaangrahwaang-decision-tree-aela-random-forrest-phrmkhdiiaelakhesiiy-32cl)
-- [𝗧𝗵𝗲 𝗖𝗿𝘂𝗰𝗶𝗮𝗹 𝗥𝗼𝗹𝗲 𝗼𝗳 𝗗𝗮𝘁𝗮 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲𝘀](https://dev.to/mazzaracm/-3ld5)
-- [Step by Step: Build Your Business from the Ground Up](https://dev.to/olivia_jacqueline/step-by-step-build-your-business-from-the-ground-up-5gl2)
-- [🚀 What Is MCP? Anthropic&#39;s USB-C Port for AI 🔌](https://dev.to/aswinzz/what-is-mcp-anthropics-usb-c-port-for-ai-189p)
+- [gprofng on Oracle ARM Linux](https://dev.to/abhilash8/gprofng-on-oracle-arm-linux-5dcp)
+- [What is the Security Operation Center &lpar;SOC&rpar; Framework?](https://dev.to/clouddefenseai/what-is-the-security-operation-center-soc-framework-3dil)
+- [Unlock Your Contacts: How to Convert VCF Files to CSV on Any Platform](https://dev.to/loganwalker/unlock-your-contacts-how-to-convert-vcf-files-to-csv-on-any-platform-3n31)
+- [How to build a tree-shakable library with Vite and Rollup](https://dev.to/morewings/how-to-build-a-tree-shakable-library-with-vite-and-rollup-16cb)
+- [Understanding Kubernetes Probes By Deploying A Go App](https://dev.to/olymahmud/understanding-kubernetes-probes-by-deploying-a-go-app-716)
 <!-- BLOG-POST-LIST:END -->
 
 ---
