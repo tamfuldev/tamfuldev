@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [gprofng on Oracle ARM Linux](https://dev.to/abhilash8/gprofng-on-oracle-arm-linux-5dcp)
-- [What is the Security Operation Center &lpar;SOC&rpar; Framework?](https://dev.to/clouddefenseai/what-is-the-security-operation-center-soc-framework-3dil)
-- [Unlock Your Contacts: How to Convert VCF Files to CSV on Any Platform](https://dev.to/loganwalker/unlock-your-contacts-how-to-convert-vcf-files-to-csv-on-any-platform-3n31)
-- [How to build a tree-shakable library with Vite and Rollup](https://dev.to/morewings/how-to-build-a-tree-shakable-library-with-vite-and-rollup-16cb)
-- [Understanding Kubernetes Probes By Deploying A Go App](https://dev.to/olymahmud/understanding-kubernetes-probes-by-deploying-a-go-app-716)
+- [Automating Cost Optimization: Deleting Unattached EBS Volumes Using AWS Lambda and CloudFormation](https://dev.to/bowale/automating-cost-optimization-deleting-unattached-ebs-volumes-using-aws-lambda-and-cloudformation-1fng)
+- [I Blew 400€ on Cursor — 10 tips for AI Coding in 2025](https://dev.to/techbyadam/i-blew-400eu-on-cursor-10-tips-for-ai-coding-in-2025-oa2)
+- [How to run containerized JAVA application](https://dev.to/kubenetic/how-to-run-containerized-java-application-1iog)
+- [Reimagining WordPress Category Management with Advanced Taxonomy Manager](https://dev.to/gbti-network/reimagining-wordpress-category-management-with-advanced-taxonomy-manager-29cb)
+- [Jozu Hub–Your private, on-prem Hugging Face registry](https://dev.to/kitops/jozu-hub-your-private-on-prem-hugging-face-registry-2p61)
 <!-- BLOG-POST-LIST:END -->
 
 ---
