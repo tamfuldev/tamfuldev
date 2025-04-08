@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Vibe Code Responsibly &lpar;with Goose&rpar;](https://dev.to/blockopensource/how-to-vibe-code-responsibly-with-goose-42kb)
-- [Dealing with Pushback to Product Engineering](https://dev.to/epilot/dealing-with-pushback-to-product-engineering-431o)
-- [177/365 | ¥10M Job Challenge - Pay to play](https://dev.to/kameken100/177365-y10m-job-challenge-pay-to-play-3p5e)
-- [Folder structure - backend java](https://dev.to/imajenasyon/folder-structure-backend-java-2402)
-- [Context Is King: Reframing Our Mental Model of Coding Assistants](https://dev.to/filipeximenes/context-is-king-reframing-our-mental-model-of-coding-assistants-4jc3)
+- [SQL Database Fundamentals](https://dev.to/souhaillaghchimdev/sql-database-fundamentals-24ib)
+- [Java Programming for Beginners](https://dev.to/souhaillaghchimdev/java-programming-for-beginners-cmh)
+- [Building a Smart Feedback Loop: Real-Time Inference on COBOL Logs](https://dev.to/semperfitodd/building-a-smart-feedback-loop-real-time-inference-on-cobol-logs-4n7i)
+- [DuckDB ❤️ LLMs: SQL Meets AI for Blazing Fast Data Analysis](https://dev.to/aimodels-fyi/duckdb-llms-sql-meets-ai-for-blazing-fast-data-analysis-16ac)
+- [Spam Mail Detection ด้วย TF-IDF และ Logistic Regression](https://dev.to/3048_fbd/spam-mail-detection-dwy-tf-idf-aela-logistic-regression-80e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
