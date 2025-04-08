@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Tsonnet #14 - Where’s Wally? Adding parsing error tracing](https://dev.to/bitmaybewise/tsonnet-14-wheres-wally-adding-parsing-error-tracing-1a04)
-- [Intermediate Strategies for Building Reward Systems in Mobile Game Development](https://dev.to/raiden_studio/intermediate-strategies-for-building-reward-systems-in-mobile-game-development-3h1n)
-- [Testing and QA: Ensuring Software Excellence](https://dev.to/vishal_more_02990955c9358/testing-and-qa-ensuring-software-excellence-3h48)
-- [Agentic AI Revolutionizing Cybersecurity &amp; Application Security](https://dev.to/rollbrace0/agentic-ai-revolutionizing-cybersecurity-application-security-16ih)
-- [Make your textareas auto-expand with just 3 lines of JavaScript! 📝](https://dev.to/abdullah_al_masud/make-your-textareas-auto-expand-with-just-3-lines-of-javascript-40d5)
+- [Faster Shell, Calmer Brain: Three Terminal Tweaks I Can’t Live Without](https://dev.to/alexopengrid/faster-shell-calmer-brain-three-terminal-tweaks-i-cant-live-without-4hpg)
+- [Writing Clean Code in Front-end: KISS, DRY, YAGNI, and Beyond](https://dev.to/miasalazar/writing-clean-code-in-front-end-kiss-dry-yaign-and-beyond-54ok)
+- [Oracle Cloud Services vs. AWS &amp; Azure: Which One is Right for Your Business?](https://dev.to/astutemarketing/oracle-cloud-services-vs-aws-azure-which-one-is-right-for-your-business-9kp)
+- [What Makes a Winning Hackathon Project? A Judge’s Perspective](https://dev.to/urmajesty516/what-makes-a-winning-hackathon-project-a-judges-perspective-31c9)
+- [How to Track Unique Page Views in Google Analytics 4: A Step-by-Step Guide &lpar;2025&rpar;](https://dev.to/me_bhavesh/how-to-track-unique-page-views-in-google-analytics-4-a-step-by-step-guide-2025-11bl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
