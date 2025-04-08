@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What is Model Context Protocol &lpar;MCP&rpar;: The 2025 Beginner&#39;s Guide](https://dev.to/neo-cruz/what-is-model-context-protocol-mcp-the-2025-beginners-guide-5h15)
-- [Word of Mouth: DoozieSoft’s Silent Growth Engine](https://dev.to/doozieakshay/word-of-mouth-dooziesofts-silent-growth-engine-4lcf)
-- [AG Grid React Crashes Inside Tableau Extension Due to Invalid CSS Selector &#39;:not&lpar;title, meta&rpar;&#39; DOMException](https://dev.to/athuldas/ag-grid-react-crashes-inside-tableau-extension-due-to-invalid-css-selector-nottitle-meta-2odm)
-- [Maximize your dev team&#39;s focus and output by combining the Pomodoro Technique with Teamcamp — see how it’s done.](https://dev.to/pratham_naik_project_manager/maximize-your-dev-teams-focus-and-output-by-combining-the-pomodoro-technique-with-teamcamp-see-222c)
-- [Implementing the Pomodoro Technique in Software Development: Case Studies and Best Practices](https://dev.to/teamcamp/implementing-the-pomodoro-technique-in-software-development-case-studies-and-best-practices-4hj9)
+- [Tsonnet #14 - Where’s Wally? Adding parsing error tracing](https://dev.to/bitmaybewise/tsonnet-14-wheres-wally-adding-parsing-error-tracing-1a04)
+- [Intermediate Strategies for Building Reward Systems in Mobile Game Development](https://dev.to/raiden_studio/intermediate-strategies-for-building-reward-systems-in-mobile-game-development-3h1n)
+- [Testing and QA: Ensuring Software Excellence](https://dev.to/vishal_more_02990955c9358/testing-and-qa-ensuring-software-excellence-3h48)
+- [Agentic AI Revolutionizing Cybersecurity &amp; Application Security](https://dev.to/rollbrace0/agentic-ai-revolutionizing-cybersecurity-application-security-16ih)
+- [Make your textareas auto-expand with just 3 lines of JavaScript! 📝](https://dev.to/abdullah_al_masud/make-your-textareas-auto-expand-with-just-3-lines-of-javascript-40d5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
