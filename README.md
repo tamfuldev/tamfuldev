@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Custom RAG in Zurich: Revolutionizing the Search and Retrieval Landscape](https://dev.to/antegris/custom-rag-in-zurich-revolutionizing-the-search-and-retrieval-landscape-58be)
-- [RL for Multimodal Label Ranking: A Novel Approach](https://dev.to/aimodels-fyi/rl-for-multimodal-label-ranking-a-novel-approach-3j12)
-- [Firefox&#39;s Data Sharing: What It Means for Your Privacy](https://dev.to/kallileiser/firefoxs-data-sharing-what-it-means-for-your-privacy-1dki)
-- [Day 1135 : Old Man](https://dev.to/dwane/day-1135-old-man-43l6)
-- [10.1 A java.time vem do Joda Time](https://dev.to/fundamentosjava/101-a-javatime-vem-do-joda-time-1meg)
+- [Mastering Pointers in Go: A Complete Beginner-to-Advanced Guide](https://dev.to/abstractmusa/mastering-pointers-in-go-a-complete-beginner-to-advanced-guide-213b)
+- [Stock Management System - Frontend](https://dev.to/shaikr786/stock-management-system-frontend-2e37)
+- [You’re Invited: Apache SeaTunnel Biweekly Community Meeting on April 8, 2025](https://dev.to/seatunnel/youre-invited-apache-seatunnel-biweekly-community-meeting-on-april-8-2025-5fkb)
+- [Stop Writing API Glue Code – Let Protocols Handle It](https://dev.to/regen/stop-writing-api-glue-code-let-protocols-handle-it-ap2)
+- [Deque](https://dev.to/mujahida_joynab_64c7407d8/deque-j2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
