@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Many ways to express one thing in Ruby &lpar;_n syntax, _ prefix, &amp; ampersand&rpar;](https://dev.to/darcylol/many-ways-to-express-one-thing-in-ruby-n-syntax-prefix-ampersand-2h0j)
-- [Database Backup In Django](https://dev.to/daviekim13/database-backup-in-django-1h49)
-- [From Diagnosis to Development: Building Celio!](https://dev.to/rapheal_suber_d5fd1bd08e6/from-diagnosis-to-development-building-celio-3cn9)
-- [MT7922 não funciona bluetooth no Linux Mint](https://dev.to/duardodev/mt7922-nao-funciona-bluetooth-no-linux-mint-3dae)
-- [Day 1136 : Sometimes](https://dev.to/dwane/day-1136-sometimes-10hm)
+- [Untitled](https://dev.to/luis_manuel/untitled-106b)
+- [Building a Modern EPG System for Roku with BrightScript](https://dev.to/tvboy109/building-a-modern-epg-system-for-roku-with-brightscript-ak3)
+- [Untitled](https://dev.to/luis_manuel/untitled-1k4b)
+- [CI/CD Pipeline for a Node.js App with Automated Testing and Deployment to Render](https://dev.to/arbythecoder/cicd-pipeline-for-a-nodejs-app-with-automated-testing-and-deployment-to-render-3a16)
+- [AWS Observability: Achieving Comprehensive Visibility in the Cloud](https://dev.to/ace_8/aws-observability-achieving-comprehensive-visibility-in-the-cloud-4b0i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
