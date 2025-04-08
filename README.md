@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Pointers in Go: A Complete Beginner-to-Advanced Guide](https://dev.to/abstractmusa/mastering-pointers-in-go-a-complete-beginner-to-advanced-guide-213b)
-- [Stock Management System - Frontend](https://dev.to/shaikr786/stock-management-system-frontend-2e37)
-- [You’re Invited: Apache SeaTunnel Biweekly Community Meeting on April 8, 2025](https://dev.to/seatunnel/youre-invited-apache-seatunnel-biweekly-community-meeting-on-april-8-2025-5fkb)
-- [Stop Writing API Glue Code – Let Protocols Handle It](https://dev.to/regen/stop-writing-api-glue-code-let-protocols-handle-it-ap2)
-- [Deque](https://dev.to/mujahida_joynab_64c7407d8/deque-j2)
+- [Qiskit Aer vs MQT DDSIM](https://dev.to/ksk0629/qiskit-aer-vs-mqt-ddsim-3k50)
+- [AugMix in PyTorch &lpar;12&rpar;](https://dev.to/hyperkai/augmix-in-pytorch-12-515e)
+- [AWS Fargate vs Google Cloud Run: Serverless Container Wars](https://dev.to/yash_sonawane25/aws-fargate-vs-google-cloud-run-serverless-container-wars-585p)
+- [🚀 Dependency Management Issues in Spring Boot &amp; How to Fix Them!](https://dev.to/codereacher_20b8a/dependency-management-issues-in-spring-boot-how-to-fix-them-333i)
+- [How Call of Duty:Verdansk Reminded Me RAM is Truly Dynamic](https://dev.to/harishankarr7/how-call-of-dutyverdansk-reminded-me-ram-is-truly-dynamic-4en6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
