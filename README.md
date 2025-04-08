@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Llama 4 - 10M Context? Coding? Decent Follow-up?](https://dev.to/maximsaplin/llama-4-10m-context-coding-decent-follow-up-426n)
-- [Deploying a Sentiment Analysis API with Nitric and Python](https://dev.to/rsiv/deploying-a-sentiment-analysis-api-with-nitric-and-python-o1h)
-- [3D Renderer in C - Update to SDL3](https://dev.to/justinhhorner/update-to-sdl3-3igm)
-- [Comprehending the Life Cycle of Common Pests](https://dev.to/pestcontrolservice752/comprehending-the-life-cycle-of-common-pests-53a1)
-- [From Vibe Coding to Vibe Engineering with V0 and Firebase. [Part 0].](https://dev.to/turingsoracle/from-vibe-coding-to-vibe-engineering-with-v0-and-firebase-part-0-2m8m)
+- [HTMLRewriter API in JavaScript Environments](https://dev.to/omriluz1/htmlrewriter-api-in-javascript-environments-2k52)
+- [Leetcode - 25. Reverse Nodes in k-Group](https://dev.to/rakeshreddy512/leetcode-25-reverse-nodes-in-k-group-4nbd)
+- [PostgreSQL vs MySQL - A Real Developer Rates an AI Podcast](https://dev.to/joseph_higgins/postgresql-vs-mysql-a-real-developer-rates-an-ai-podcast-86n)
+- [How to install a GUI in Ubuntu 22](https://dev.to/farisdurrani/how-to-install-a-gui-in-ubuntu-22-5hmo)
+- [[Boost]](https://dev.to/meer/-1cm5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
