@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [HTMLRewriter API in JavaScript Environments](https://dev.to/omriluz1/htmlrewriter-api-in-javascript-environments-2k52)
-- [Leetcode - 25. Reverse Nodes in k-Group](https://dev.to/rakeshreddy512/leetcode-25-reverse-nodes-in-k-group-4nbd)
-- [PostgreSQL vs MySQL - A Real Developer Rates an AI Podcast](https://dev.to/joseph_higgins/postgresql-vs-mysql-a-real-developer-rates-an-ai-podcast-86n)
-- [How to install a GUI in Ubuntu 22](https://dev.to/farisdurrani/how-to-install-a-gui-in-ubuntu-22-5hmo)
-- [[Boost]](https://dev.to/meer/-1cm5)
+- [Securing the Model Context Protocol](https://dev.to/blockopensource/securing-the-model-context-protocol-1jfm)
+- [Context API + TypeScript: How to avoid prop drilling in React](https://dev.to/gunnarhalen/context-api-typescript-how-to-avoid-prop-drilling-in-react-3862)
+- [The Ultimate CV Format Guide for Freshers in 2025](https://dev.to/hey_rishabh/the-ultimate-cv-format-guide-for-freshers-in-2025-206a)
+- [Understanding Users in Linux: Who’s Using the System?](https://dev.to/sheikhhassaanbinnadeem/understanding-users-in-linux-whos-using-the-system-2d2a)
+- [Cursed Excel: “1/2”+1=45660](https://dev.to/quadraticai/cursed-excel-12145660-26a4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
