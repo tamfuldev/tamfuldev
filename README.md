@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Faster Shell, Calmer Brain: Three Terminal Tweaks I Can’t Live Without](https://dev.to/alexopengrid/faster-shell-calmer-brain-three-terminal-tweaks-i-cant-live-without-4hpg)
-- [Writing Clean Code in Front-end: KISS, DRY, YAGNI, and Beyond](https://dev.to/miasalazar/writing-clean-code-in-front-end-kiss-dry-yaign-and-beyond-54ok)
-- [Oracle Cloud Services vs. AWS &amp; Azure: Which One is Right for Your Business?](https://dev.to/astutemarketing/oracle-cloud-services-vs-aws-azure-which-one-is-right-for-your-business-9kp)
-- [What Makes a Winning Hackathon Project? A Judge’s Perspective](https://dev.to/urmajesty516/what-makes-a-winning-hackathon-project-a-judges-perspective-31c9)
-- [How to Track Unique Page Views in Google Analytics 4: A Step-by-Step Guide &lpar;2025&rpar;](https://dev.to/me_bhavesh/how-to-track-unique-page-views-in-google-analytics-4-a-step-by-step-guide-2025-11bl)
+- [What Does Your Desk Look Like?](https://dev.to/jenueldev/what-does-your-desk-look-like-3kep)
+- [Data Analytics for Business: How Understanding Data Can Drive Smarter Decisions](https://dev.to/lekshmi_525/data-analytics-for-business-how-understanding-data-can-drive-smarter-decisions-3iln)
+- [The Next Generation of No-Code: AI, Code, and Diagrams](https://dev.to/haimzlato/the-next-generation-of-no-code-ai-code-and-diagrams-3lin)
+- [How to Run and Debug Tests in VS Code &lpar;With Keploy Integration&rpar;](https://dev.to/keploy/how-to-run-and-debug-tests-in-vs-code-with-keploy-integration-27lc)
+- [Let&#39;s Talk About the Trending &quot;Ghibli Style&quot;](https://dev.to/stellan/lets-talk-about-the-trending-ghibli-style-4hd6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
