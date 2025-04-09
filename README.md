@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [LLM Showdown: Google Gemini 2.5 Pro vs. OpenRouter&#39;s Quasar Alpha](https://dev.to/simplr_sh/llm-showdown-google-gemini-25-pro-vs-openrouters-quasar-alpha-57ec)
-- [Build in Public Like a Pro: Supercharge Your Startup with Smart Web Analytics](https://dev.to/simplr_sh/build-in-public-like-a-pro-supercharge-your-startup-with-smart-web-analytics-4nek)
-- [The Best Productivity Apps for Software Developers](https://dev.to/taskframe/the-best-productivity-apps-for-software-developers-2mo0)
-- [Clean Code no Front-end](https://dev.to/nodebr/clean-code-no-front-end-587m)
-- [Both-sides form validation with Next.js &lpar;React Hook Form &amp; next-safe-action&rpar;](https://dev.to/arnaudrenaud/both-sides-form-validation-with-nextjs-react-hook-form-next-safe-action-1di1)
+- [🧨 The Hotel California of Managed Services: How DigitalOcean Trapped My 800GB Database](https://dev.to/philsmy/the-hotel-california-of-managed-services-how-digitalocean-trapped-my-800gb-database-3ae5)
+- [💡 Exercise 04 – Reusing Stuff with ARM Template Variables &lpar;Your Azure Subscription&rpar;](https://dev.to/1suleyman/exercise-04-reusing-stuff-with-arm-template-variables-your-azure-subscription-2i4m)
+- [Building a Multi-Agent Blog Publishing System with CrewAI](https://dev.to/aileenvl/building-a-multi-agent-blog-publishing-system-with-crewai-efn)
+- [Trigger Lambda from SQS in Minutes: No-Fluff Guide](https://dev.to/megha_shivhare_5038dc1047/trigger-lambda-from-sqs-in-minutes-no-fluff-guide-102i)
+- [What Is a Data Intelligence Layer: Powering the Future of AI and Blockchain Integration](https://dev.to/joinwithken/what-is-a-data-intelligence-layer-powering-the-future-of-ai-and-blockchain-integration-20a8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
