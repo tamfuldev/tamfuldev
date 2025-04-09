@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🧨 The Hotel California of Managed Services: How DigitalOcean Trapped My 800GB Database](https://dev.to/philsmy/the-hotel-california-of-managed-services-how-digitalocean-trapped-my-800gb-database-3ae5)
-- [💡 Exercise 04 – Reusing Stuff with ARM Template Variables &lpar;Your Azure Subscription&rpar;](https://dev.to/1suleyman/exercise-04-reusing-stuff-with-arm-template-variables-your-azure-subscription-2i4m)
-- [Building a Multi-Agent Blog Publishing System with CrewAI](https://dev.to/aileenvl/building-a-multi-agent-blog-publishing-system-with-crewai-efn)
-- [Trigger Lambda from SQS in Minutes: No-Fluff Guide](https://dev.to/megha_shivhare_5038dc1047/trigger-lambda-from-sqs-in-minutes-no-fluff-guide-102i)
-- [What Is a Data Intelligence Layer: Powering the Future of AI and Blockchain Integration](https://dev.to/joinwithken/what-is-a-data-intelligence-layer-powering-the-future-of-ai-and-blockchain-integration-20a8)
+- [Storage Virtualization – Simplify and Scale Your Storage](https://dev.to/kevin_asutton_/storage-virtualization-simplify-and-scale-your-storage-5dg5)
+- [การใช้ KMeans Clustering ในการแบ่งกลุ่มลูกค้า เพื่อการตลาดที่มีประสิทธิภาพ โดยใช้ Python](https://dev.to/yaowaman_chulrat_032bad7c/kaaraich-kmeans-clustering-ainkaaraebngklumluukkhaa-ephuuekaartlaadthiimiiprasiththiphaaph-odyaich-python-29la)
+- [How to Use Excel DAY Function?](https://dev.to/excel24x7/how-to-use-excel-day-function-5664)
+- [Using Vue.js with Laravel for Full-Stack Web Development](https://dev.to/nithya_iyer/using-vuejs-with-laravel-for-full-stack-web-development-5500)
+- [The Enterprise Access Model: Secure Business Infrastructure](https://dev.to/kapusto/the-enterprise-access-model-secure-business-infrastructure-i98)
 <!-- BLOG-POST-LIST:END -->
 
 ---
