@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SOFTWARE TESTING](https://dev.to/kani_3b5e7fe44183ce7bbb5f/software-testing-1i2n)
-- [Best AI to Use to Supercharge Your Learning &amp; Creativity in 2025](https://dev.to/dev_kumar_9a1db98e34077b6/best-ai-to-use-to-supercharge-your-learning-creativity-in-2025-168e)
-- [Create an expandable image gallery with Tailwind CSS](https://dev.to/mike_andreuzza/create-an-expandable-image-gallery-with-tailwind-css-43m1)
-- [What is JSX and Why Do We Use It in React?](https://dev.to/shubha_k/what-is-jsx-and-why-do-we-use-it-in-react-3f4o)
-- [Tricky Parts of JavaScript](https://dev.to/himanayk/tricky-parts-of-javascript-310f)
+- [Top 10 CSS Features You Can Use in 2025 &lpar;Fully Supported!&rpar;](https://dev.to/joodi/top-10-css-features-you-can-use-in-2025-fully-supported-41b4)
+- [Build a random image component with Astro and React](https://dev.to/nemanjam/build-a-random-image-component-with-astro-and-react-4p5f)
+- [No-Code vs. Full-Code: Who Wins in 2025?](https://dev.to/cloudestersoftware/no-code-vs-full-code-who-wins-in-2025-f02)
+- [Building Scalable and Secure Applications: Best Practices for Modern Developers](https://dev.to/corporateone/building-scalable-and-secure-applications-best-practices-for-modern-developers-2p5e)
+- [Data Analysis Using SQL](https://dev.to/kadoon_verinumbe_93807d68/data-analysis-using-sql-5ane)
 <!-- BLOG-POST-LIST:END -->
 
 ---
