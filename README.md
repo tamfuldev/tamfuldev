@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Mastering Uncertainty in AI: Transforming Healthcare and Education with LLMs&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/mastering-uncertainty-in-ai-transforming-healthcare-and-education-with-llms-177e)
-- [What are common techniques for data preprocessing?](https://dev.to/the_medicaltreasure_cf3a/what-are-common-techniques-for-data-preprocessing-2ddj)
-- [Stop giving hackers the easy button](https://dev.to/bcornils/stop-giving-hackers-the-easy-button-3a93)
-- [Daily JavaScript Challenge #JS-147: Balance the Parentheses Count](https://dev.to/dpc/daily-javascript-challenge-js-147-balance-the-parentheses-count-1kmb)
-- [Getting Started with 3D Game Development](https://dev.to/souhaillaghchimdev/getting-started-with-3d-game-development-m75)
+- [Getting Values from Multiple Format Strings to Multiple Records — From SQL to SPL #16](https://dev.to/judith677/getting-values-from-multiple-format-strings-to-multiple-records-from-sql-to-spl-16-119o)
+- [The Rise of Multi-Cloud Strategies: Best Practices for 2025](https://dev.to/yash_sonawane25/the-rise-of-multi-cloud-strategies-best-practices-for-2025-4goe)
+- [Convert handwriting to text - how I built a handwriting recognition platform](https://dev.to/danieelatu_71b7ad8ea3fa31/convert-handwriting-to-text-how-i-built-a-handwriting-recognition-platform-3odf)
+- [How to Integrate REST, GraphQL, and SOAP APIs Seamlessly in Martini](https://dev.to/lonti-davidb/how-to-integrate-rest-graphql-and-soap-apis-seamlessly-in-martini-498h)
+- [Starting as a Junior Developer and Breaking into the Job Market – A Retrospective](https://dev.to/josemariairiarte/starting-as-a-junior-developer-and-breaking-into-the-job-market-a-retrospective-10f4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
