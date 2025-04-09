@@ -16,7 +16,7 @@
 # Latest stack oveflow activity
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><tr><td>WordPress editor custom styles</td><td>https://stackoverflow.com/questions/79563693/wordpress-editor-custom-styles</td></tr><tr><td>WordPress link by default only for gallery images</td><td>https://stackoverflow.com/questions/79563608/wordpress-link-by-default-only-for-gallery-images</td></tr><tr><td>Woocommerce Error preventing me from adding custom fields to checkout</td><td>https://stackoverflow.com/questions/79563484/woocommerce-error-preventing-me-from-adding-custom-fields-to-checkout</td></tr><tr><td>same query different result in laravel [closed]</td><td>https://stackoverflow.com/questions/79563386/same-query-different-result-in-laravel</td></tr><tr><td>Hooks in suitecrm 8</td><td>https://stackoverflow.com/questions/79563119/hooks-in-suitecrm-8</td></tr><!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:START --><tr><td>WordPress editor custom styles</td><td>https://stackoverflow.com/questions/79563693/wordpress-editor-custom-styles</td></tr><tr><td>WordPress link by default only for gallery images</td><td>https://stackoverflow.com/questions/79563608/wordpress-link-by-default-only-for-gallery-images</td></tr><tr><td>Woocommerce Error preventing me from adding custom fields to checkout [closed]</td><td>https://stackoverflow.com/questions/79563484/woocommerce-error-preventing-me-from-adding-custom-fields-to-checkout</td></tr><tr><td>same query different result in laravel [closed]</td><td>https://stackoverflow.com/questions/79563386/same-query-different-result-in-laravel</td></tr><tr><td>Hooks in suitecrm 8</td><td>https://stackoverflow.com/questions/79563119/hooks-in-suitecrm-8</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 
 ---
