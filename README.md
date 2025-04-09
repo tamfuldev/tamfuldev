@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Values from Multiple Format Strings to Multiple Records — From SQL to SPL #16](https://dev.to/judith677/getting-values-from-multiple-format-strings-to-multiple-records-from-sql-to-spl-16-119o)
-- [The Rise of Multi-Cloud Strategies: Best Practices for 2025](https://dev.to/yash_sonawane25/the-rise-of-multi-cloud-strategies-best-practices-for-2025-4goe)
-- [Convert handwriting to text - how I built a handwriting recognition platform](https://dev.to/danieelatu_71b7ad8ea3fa31/convert-handwriting-to-text-how-i-built-a-handwriting-recognition-platform-3odf)
-- [How to Integrate REST, GraphQL, and SOAP APIs Seamlessly in Martini](https://dev.to/lonti-davidb/how-to-integrate-rest-graphql-and-soap-apis-seamlessly-in-martini-498h)
-- [Starting as a Junior Developer and Breaking into the Job Market – A Retrospective](https://dev.to/josemariairiarte/starting-as-a-junior-developer-and-breaking-into-the-job-market-a-retrospective-10f4)
+- [Chapter 8: Knowledge Base - Tree Collection](https://dev.to/nocobase/chapter-8-knowledge-base-tree-collection-1ao9)
+- [MediatR Simple Alternative](https://dev.to/criscoelho/-dl6)
+- [[Tutorial] Building a Complete Project Management Platform](https://dev.to/nocobase/tutorial-building-a-complete-project-management-platform-40aa)
+- [Blockchain App Testing with AI: Ensuring Trust and Transparency](https://dev.to/radha_4c842d8e4362a7cdd9c/blockchain-app-testing-with-ai-ensuring-trust-and-transparency-3k58)
+- [3375. Minimum Operations to Make Array Values Equal to K](https://dev.to/mdarifulhaque/3375-minimum-operations-to-make-array-values-equal-to-k-4ada)
 <!-- BLOG-POST-LIST:END -->
 
 ---
