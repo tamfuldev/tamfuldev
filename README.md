@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Local Filesystem MCP Server](https://dev.to/furudo_erika_7633eee4afa5/how-to-use-local-filesystem-mcp-server-363e)
-- [From Leads to Repeat Customers: The Role of CRM in Manufacturing](https://dev.to/bhavesh_gangani_/from-leads-to-repeat-customers-the-role-of-crm-in-manufacturing-4g9c)
-- [Decoding AI Jargons Over Coffee ☕️✨](https://dev.to/harshraj6982/decoding-ai-jargons-over-coffee-1ibl)
-- [Do We Really Need Frameworks for Frontend Development?](https://dev.to/marie_berezhna/do-we-really-need-frameworks-for-frontend-development-59gd)
-- [pressione aqui!](https://dev.to/zanonana/pressione-aqui-39pj)
+- [LLM Showdown: Google Gemini 2.5 Pro vs. OpenRouter&#39;s Quasar Alpha](https://dev.to/simplr_sh/llm-showdown-google-gemini-25-pro-vs-openrouters-quasar-alpha-57ec)
+- [Build in Public Like a Pro: Supercharge Your Startup with Smart Web Analytics](https://dev.to/simplr_sh/build-in-public-like-a-pro-supercharge-your-startup-with-smart-web-analytics-4nek)
+- [The Best Productivity Apps for Software Developers](https://dev.to/taskframe/the-best-productivity-apps-for-software-developers-2mo0)
+- [Clean Code no Front-end](https://dev.to/nodebr/clean-code-no-front-end-587m)
+- [Both-sides form validation with Next.js &lpar;React Hook Form &amp; next-safe-action&rpar;](https://dev.to/arnaudrenaud/both-sides-form-validation-with-nextjs-react-hook-form-next-safe-action-1di1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
