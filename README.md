@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Pipelines and Pipeline Operator Proposal](https://dev.to/omriluz1/javascript-pipelines-and-pipeline-operator-proposal-22pg)
-- [💼 Hiring a Full-Stack Dev to Build an Chat Platform &lpar;Paid Project&rpar;](https://dev.to/isicktear/hiring-a-full-stack-dev-to-build-an-chat-platform-paid-project-2chg)
-- [The Ultimate Guide to the Evolution of Microservices](https://dev.to/dishitdevasia/the-ultimate-guide-to-the-evolution-of-microservices-48o3)
-- [Guys, please check out a new take on Frontend development](https://dev.to/isumix/guys-please-check-out-a-new-take-on-frontend-development-5fmc)
-- [Creating a Fully Responsive Navigation Bar Using Only CSS &lpar;No JavaScript&rpar;](https://dev.to/hexshift/creating-a-fully-responsive-navigation-bar-using-only-css-no-javascript-1l3n)
+- [Automating Botox Appointment Scheduling with PHP: Step-by-Step Guide](https://dev.to/karen_londres/automating-botox-appointment-scheduling-with-php-step-by-step-guide-5bal)
+- [Bad Data Is Breaking AI: The Cost, the Risks, and How to Fix It](https://dev.to/joacod/bad-data-is-breaking-ai-the-cost-the-risks-and-how-to-fix-it-56nh)
+- [สร้าง Simple Random Forest Model โดยใช้ Python](https://dev.to/kawin951/sraang-simple-random-forest-model-odyaich-python-3i5c)
+- [Setting Up a Dev Environment on Google Cloud: A Challenge Lab Walkthrough](https://dev.to/kelechiedeh/setting-up-a-dev-environment-on-google-cloud-a-challenge-lab-walkthrough-2jci)
+- [Proud to share that I’ve completed my first AWS courses. Excited for what’s next!](https://dev.to/andy_goncalves/proud-to-share-that-ive-completed-my-first-aws-courses-excited-for-whats-next-2e1a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
