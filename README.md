@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Google Agentspace: The Future of Enterprise AI Integration is Here &lpar;2025 Edition&rpar;](https://dev.to/aniruddhaadak/google-agentspace-the-future-of-enterprise-ai-integration-is-here-2025-edition-3nhl)
-- [Audio and Music Application Development](https://dev.to/souhaillaghchimdev/audio-and-music-application-development-10gk)
-- [Learning to Write Secure Code](https://dev.to/souhaillaghchimdev/learning-to-write-secure-code-3ic3)
-- [Educational Game Application Programming](https://dev.to/souhaillaghchimdev/educational-game-application-programming-5cj8)
-- [Database Management System &lpar;DBMS&rpar; Development](https://dev.to/souhaillaghchimdev/database-management-system-dbms-development-4n0c)
+- [[Boost]](https://dev.to/ansher/-3c6a)
+- [Some of my projects](https://dev.to/cristovoxdgm/some-of-my-projects-46pb)
+- [Really extremely useful](https://dev.to/king_code/really-extremely-useful-1ii0)
+- [npm vs npx: Understanding the Difference](https://dev.to/tene/npm-vs-npx-understanding-the-difference-4gob)
+- [Beyond JSON: Unleashing the Power of httpResource Sub-constructors in Angular](https://dev.to/railsstudent/beyond-json-unleashing-the-power-of-httpresource-sub-constructors-in-angular-2c2a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
