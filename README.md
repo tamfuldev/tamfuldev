@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What are prompt engineering techniques?](https://dev.to/shriyansh_iot_98734929139/what-are-prompt-engineering-techniques-3dn0)
-- [GitOps: A Beginner’s Guide to Managing Infrastructure with Git](https://dev.to/yash_sonawane25/gitops-a-beginners-guide-to-managing-infrastructure-with-git-4o0p)
-- [Simplifying Design Patterns : Builder](https://dev.to/bccaxias/simplifying-design-patterns-builder-2c0h)
-- [The Testing Paradox: Why We Neglect Testing in Personal Projects &lpar;And How to Change That&rpar;](https://dev.to/matheussricardoo/the-testing-paradox-why-we-neglect-testing-in-personal-projects-and-how-to-change-that-4gjb)
-- [What is @Component and How to Use It in Spring](https://dev.to/tiuwill/what-is-component-and-how-to-use-it-in-spring-2oj1)
+- [Is JavaScript Still Worth Learning in 2025? A Developer’s Take](https://dev.to/raajaryan/is-javascript-still-worth-learning-in-2025-a-developers-take-4ma4)
+- [I&#39;ve been receiving plenty of support from the dev community this morning, now that I&#39;ve officially began a new stage of my professional journey as an UX Engineer. I am feeling very thankful.](https://dev.to/d2d_weizhi/ive-been-receiving-plenty-of-support-from-the-dev-community-this-morning-now-that-ive-officially-3ghe)
+- [TERMINAL MASTERY: Master Linux File Commands in 10 Minutes Flat!](https://dev.to/dtemi/terminal-mastery-master-linux-file-commands-in-10-minutes-flat-1c32)
+- [Cognitive QA: The Next Evolution in Software Testing with AI](https://dev.to/radha_4c842d8e4362a7cdd9c/cognitive-qa-the-next-evolution-in-software-testing-with-ai-mej)
+- [Google&#39;s New Move! How Does the A2A Protocol Enable AI Agents to &quot;Add Friends&quot;?](https://dev.to/sienna/googles-new-move-how-does-the-a2a-protocol-enable-ai-agents-to-add-friends-3iff)
 <!-- BLOG-POST-LIST:END -->
 
 ---
