@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 The Role of WebAssembly in Modern Frontend Development](https://dev.to/hasunnilupul/the-role-of-webassembly-in-modern-frontend-development-3ji6)
-- [This article does a fantastic job of capturing the transformative impact of AI-powered code assistants on developer productivity. Must read](https://dev.to/rajesh_patel/this-article-does-a-fantastic-job-of-capturing-the-transformative-impact-of-ai-powered-code-4kid)
-- [Codium vs Copilot: Which AI Coding Assistant Should You Choose?](https://dev.to/keploy/codium-vs-copilot-which-ai-coding-assistant-should-you-choose-4dgj)
-- [This article does a fantastic job of capturing the transformative impact of AI-powered code assistants on developer productivity. The blend of real-world examples, challenges, and actionable insights makes it highly relatable for the dev community.](https://dev.to/naik_sejal/this-article-does-a-fantastic-job-of-capturing-the-transformative-impact-of-ai-powered-code-2ddn)
-- [# DAY 1 JAVASCRIPT INTRODUCTION &amp; TOOLS SETUP](https://dev.to/code_2/-day-1-javascript-introduction-tools-setup-24ik)
+- [🌀 Cycle Sort: Asked in Amazon, Google, and Microsoft](https://dev.to/br-lovanshi/cycle-sort-asked-in-amazon-google-and-microsoft-2l24)
+- [Full stack development course in Coimbatore](https://dev.to/kannan_palanisamy_c10fdfb/full-stack-development-course-in-coimbatore-1gc3)
+- [🚀 The Power of `...`: Mastering JavaScript&#39;s Spread Syntax Like a Code Wizard](https://dev.to/mainabernard/the-power-of-mastering-javascripts-spread-syntax-like-a-code-wizard-1jnb)
+- [What is Secure SD-Branch?](https://dev.to/clouddefenseai/what-is-secure-sd-branch-gca)
+- [🚀 API Speed Challenge: How Fast Can You Build &amp; Deploy? 🚀](https://dev.to/u4systems/api-speed-challenge-how-fast-can-you-build-deploy-k8h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
