@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [7 AI Tools That Can Replace a Full Dev Team in 2025!](https://dev.to/pavanbelagatti/7-ai-tools-that-can-replace-a-full-dev-team-in-2025-3k2g)
-- [Building MCP Tools and Running Them in Cursor Editor](https://dev.to/lovestaco/building-mcp-tools-and-running-them-in-cursor-editor-3ono)
-- [The Case of the Curious Data: An AWS Detective Story! 🕵️‍♀️🔍](https://dev.to/janvi_bhagchandani/the-case-of-the-curious-data-an-aws-detective-story-ip8)
-- [Just published a tiny npm tool: tree-generator 🌲 Turn a text-based folder structure into real folders/files instantly. https://www.npmjs.com/package/tree-generator-cli #npm #opensource #javascript #productivitytools #devtools #nodejs](https://dev.to/navedrizv/just-published-a-tiny-npm-tool-tree-generator-turn-a-text-based-folder-structure-into-real-49ll)
-- [10 Best Free UI Libraries Based on Tailwind CSS in 2025](https://dev.to/joodi/10-best-free-ui-libraries-based-on-tailwind-css-in-2025-3a98)
+- [Navigating the Hidden Costs of Hosting: What Every Freelancer Should Know](https://dev.to/florentv11/navigating-the-hidden-costs-of-hosting-what-every-freelancer-should-know-5dm8)
+- [The Invisible Work of a Frontend Lead &lpar;And Why It Matters&rpar;](https://dev.to/_arpy/the-invisible-work-of-a-frontend-lead-and-why-it-matters-5d5)
+- [Raiders of the Lost Code: Unearthing Abandonware with AI Agents](https://dev.to/thejesper/raiders-of-the-lost-code-unearthing-abandonware-with-ai-agents-3p63)
+- [What is Linux and Why it is Important! The Secret OS That Powers Everything!](https://dev.to/utcli-solutions/what-is-linux-and-why-it-is-important-the-secret-os-that-powers-everything-46b5)
+- [Enhancing Invoice Data Extraction with OCR and Large Language Models](https://dev.to/klearstack/enhancing-invoice-data-extraction-with-ocr-and-large-language-models-2ci)
 <!-- BLOG-POST-LIST:END -->
 
 ---
