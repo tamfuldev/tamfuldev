@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Botox Appointment Scheduling with PHP: Step-by-Step Guide](https://dev.to/karen_londres/automating-botox-appointment-scheduling-with-php-step-by-step-guide-5bal)
-- [Bad Data Is Breaking AI: The Cost, the Risks, and How to Fix It](https://dev.to/joacod/bad-data-is-breaking-ai-the-cost-the-risks-and-how-to-fix-it-56nh)
-- [สร้าง Simple Random Forest Model โดยใช้ Python](https://dev.to/kawin951/sraang-simple-random-forest-model-odyaich-python-3i5c)
-- [Setting Up a Dev Environment on Google Cloud: A Challenge Lab Walkthrough](https://dev.to/kelechiedeh/setting-up-a-dev-environment-on-google-cloud-a-challenge-lab-walkthrough-2jci)
-- [Proud to share that I’ve completed my first AWS courses. Excited for what’s next!](https://dev.to/andy_goncalves/proud-to-share-that-ive-completed-my-first-aws-courses-excited-for-whats-next-2e1a)
+- [Managing React State with Context and useReducer: A Practical Guide](https://dev.to/bastiani/managing-react-state-with-context-and-usereducer-a-practical-guide-401i)
+- [Day 1138 : Parts Unknown](https://dev.to/dwane/day-1138-parts-unknown-2982)
+- [Want to Join a Remote AI Company in 2025? Here’s What Actually Matters 🌍 🤖](https://dev.to/clickit_devops/want-to-join-a-remote-ai-company-in-2025-heres-what-actually-matters-52fg)
+- [SSIS tips: How to import JSON files to MongoDB](https://dev.to/jorge316/ssis-tips-how-to-import-json-files-to-mongodb-dj0)
+- [Navigating Hosting Hurdles: Solutions for Freelancers and E-Commerce Innovators](https://dev.to/florentv11/navigating-hosting-hurdles-solutions-for-freelancers-and-e-commerce-innovators-2enb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
