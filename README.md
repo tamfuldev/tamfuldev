@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating the Hidden Costs of Hosting: What Every Freelancer Should Know](https://dev.to/florentv11/navigating-the-hidden-costs-of-hosting-what-every-freelancer-should-know-5dm8)
-- [The Invisible Work of a Frontend Lead &lpar;And Why It Matters&rpar;](https://dev.to/_arpy/the-invisible-work-of-a-frontend-lead-and-why-it-matters-5d5)
-- [Raiders of the Lost Code: Unearthing Abandonware with AI Agents](https://dev.to/thejesper/raiders-of-the-lost-code-unearthing-abandonware-with-ai-agents-3p63)
-- [What is Linux and Why it is Important! The Secret OS That Powers Everything!](https://dev.to/utcli-solutions/what-is-linux-and-why-it-is-important-the-secret-os-that-powers-everything-46b5)
-- [Enhancing Invoice Data Extraction with OCR and Large Language Models](https://dev.to/klearstack/enhancing-invoice-data-extraction-with-ocr-and-large-language-models-2ci)
+- [Mastering Custom React Hooks: Best Practices for Clean, Scalable Code](https://dev.to/austinwdigital/mastering-custom-react-hooks-best-practices-for-clean-scalable-code-40b1)
+- [TIL: Returning to your previous Git branch](https://dev.to/eyewritecode/til-returning-to-your-previous-git-branch-e7e)
+- [AI Traffic Accelerator: What You Need To Know &lpar;Complete Review&rpar;](https://dev.to/lilia10/ai-traffic-accelerator-what-you-need-to-know-complete-review-8d8)
+- [Ng-News 25/14: Selectorless PR](https://dev.to/this-is-angular/ng-news-2514-selectorless-pr-4j36)
+- [How to Secure AWS Infrastructure](https://dev.to/ijay/how-to-secure-aws-infrastructure-1k8h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
