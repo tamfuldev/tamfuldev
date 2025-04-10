@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/ansher/-3c6a)
-- [Some of my projects](https://dev.to/cristovoxdgm/some-of-my-projects-46pb)
-- [Really extremely useful](https://dev.to/king_code/really-extremely-useful-1ii0)
-- [npm vs npx: Understanding the Difference](https://dev.to/tene/npm-vs-npx-understanding-the-difference-4gob)
-- [Beyond JSON: Unleashing the Power of httpResource Sub-constructors in Angular](https://dev.to/railsstudent/beyond-json-unleashing-the-power-of-httpresource-sub-constructors-in-angular-2c2a)
+- [What are prompt engineering techniques?](https://dev.to/shriyansh_iot_98734929139/what-are-prompt-engineering-techniques-3dn0)
+- [GitOps: A Beginner’s Guide to Managing Infrastructure with Git](https://dev.to/yash_sonawane25/gitops-a-beginners-guide-to-managing-infrastructure-with-git-4o0p)
+- [Simplifying Design Patterns : Builder](https://dev.to/bccaxias/simplifying-design-patterns-builder-2c0h)
+- [The Testing Paradox: Why We Neglect Testing in Personal Projects &lpar;And How to Change That&rpar;](https://dev.to/matheussricardoo/the-testing-paradox-why-we-neglect-testing-in-personal-projects-and-how-to-change-that-4gjb)
+- [What is @Component and How to Use It in Spring](https://dev.to/tiuwill/what-is-component-and-how-to-use-it-in-spring-2oj1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
