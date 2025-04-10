@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating Downtime: Solutions for Freelancers Facing Hosting Hurdles](https://dev.to/florentv11/navigating-downtime-solutions-for-freelancers-facing-hosting-hurdles-2pe0)
-- [🎙️ Building ResonanceX – A Podcast Analytics Tool for Creators Left Behind by Chartable](https://dev.to/resonancex/building-resonancex-a-podcast-analytics-tool-for-creators-left-behind-by-chartable-o2n)
-- [From Manual to Magical: Transforming Accounts Payable with Automation](https://dev.to/astutemarketing/from-manual-to-magical-transforming-accounts-payable-with-automation-1681)
-- [The Ultimate Guide to Connecting ERP Systems with Shopify for Seamless Operations](https://dev.to/markloops/the-ultimate-guide-to-connecting-erp-systems-with-shopify-for-seamless-operations-1pek)
-- [Java Interview Guide for Freshers: Questions &amp; Expert Tips](https://dev.to/tpointtechadu/java-interview-guide-for-freshers-questions-expert-tips-28j2)
+- [7 AI Tools That Can Replace a Full Dev Team in 2025!](https://dev.to/pavanbelagatti/7-ai-tools-that-can-replace-a-full-dev-team-in-2025-3k2g)
+- [Building MCP Tools and Running Them in Cursor Editor](https://dev.to/lovestaco/building-mcp-tools-and-running-them-in-cursor-editor-3ono)
+- [The Case of the Curious Data: An AWS Detective Story! 🕵️‍♀️🔍](https://dev.to/janvi_bhagchandani/the-case-of-the-curious-data-an-aws-detective-story-ip8)
+- [Just published a tiny npm tool: tree-generator 🌲 Turn a text-based folder structure into real folders/files instantly. https://www.npmjs.com/package/tree-generator-cli #npm #opensource #javascript #productivitytools #devtools #nodejs](https://dev.to/navedrizv/just-published-a-tiny-npm-tool-tree-generator-turn-a-text-based-folder-structure-into-real-49ll)
+- [10 Best Free UI Libraries Based on Tailwind CSS in 2025](https://dev.to/joodi/10-best-free-ui-libraries-based-on-tailwind-css-in-2025-3a98)
 <!-- BLOG-POST-LIST:END -->
 
 ---
