@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Letting the power of Agentic AI: How Autonomous Agents are revolutionizing cybersecurity and Application Security](https://dev.to/rollbrace0/letting-the-power-of-agentic-ai-how-autonomous-agents-are-revolutionizing-cybersecurity-and-53m3)
-- [🛠 How I Reduced Product Page Load Time by Nearly 85%](https://dev.to/emanuelfacundo/how-i-reduced-product-page-load-time-by-nearly-85-40kl)
-- [How to Build a Self-Service DevOps Platform &lpar;Platform Engineering Explained&rpar;](https://dev.to/yash_sonawane25/how-to-build-a-self-service-devops-platform-platform-engineering-explained-4fe0)
-- [Navigating Hidden Hosting Costs: What Every Freelancer Should Know](https://dev.to/florentv11/navigating-hidden-hosting-costs-what-every-freelancer-should-know-33l7)
-- [Prompt Engineering Is Just Asking Better Questions](https://dev.to/engineeredai/prompt-engineering-is-just-asking-better-questions-4l8b)
+- [🚀 New AWS Marketplace Feature: Simplified Fulfilment for Container Products](https://dev.to/latchudevops/new-aws-marketplace-feature-simplified-fulfilment-for-container-products-5gdo)
+- [Systems Programming and Overstimulation: Finding Balance in a Complex Technical Industry](https://dev.to/clarizalooktech/systems-programming-and-overstimulation-finding-balance-in-a-complex-technical-industry-377h)
+- [Navigating Web Hosting Pitfalls: Key Insights for U.S. Digital Entrepreneurs](https://dev.to/florentv11/navigating-web-hosting-pitfalls-key-insights-for-us-digital-entrepreneurs-4i7i)
+- [How to Clean Up Git Branches: Scripts to Delete Old, Inactive, and Unused Branches](https://dev.to/manojspace/how-to-clean-up-git-branches-a-complete-guide-for-local-remote-repositories-f3d)
+- [DAY 20 &amp; 21: Explanation of IDEs in Eclipse and Inheritance](https://dev.to/sangamithra_k_78d83d6fb9d/day-20-21-explanation-of-ides-in-eclipse-and-inheritance-3pd5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
