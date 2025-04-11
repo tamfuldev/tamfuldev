@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Systemctl Basics: Managing Your Linux Services](https://dev.to/youngtech/systemctl-basics-managing-your-linux-services-2akh)
-- [Announcing : Global Agentic AI and LLM Bootcamp May 16-18 Bay Area](https://dev.to/leena_hinson_31d0fd74ec29/announcing-global-agentic-ai-and-llm-bootcamp-may-16-18-bay-area-2gkh)
-- [My new coding language &lpar; Faceone&rpar;](https://dev.to/zako_mako_9a4826822204c78/my-new-coding-language-faceone-35g6)
-- [How to Disable SVG Preview Mode](https://dev.to/vrauuss-softwares/how-to-disable-svg-preview-mode-1338)
-- [وأخيراً، عرفنا معنى اسم الشركة الناشئة Palmos Lplex &lpar;بالموس لبليكس&rpar;](https://dev.to/story_master_m/wkhyran-rfn-mn-sm-lshrk-lnshy-palmos-lplex-blmws-lblyks-30cf)
+- [Python](https://dev.to/rudrabhardwaj/python-3o7o)
+- [Reinventando a Roda: Criando seu próprio MediatR - Parte 1](https://dev.to/angelobelchior/reinventando-a-roda-criando-seu-proprio-mediatr-parte-1-3f1o)
+- [How to Create a Resource Group in Azure](https://dev.to/timilehin_olatunde_i/how-to-create-a-resource-group-in-azure-4p4j)
+- [Connect Excel to Google BigQuery — The Easy No-Code Way with ZappySys ODBC Driver](https://dev.to/daniel_zs/connect-excel-to-google-bigquery-the-easy-no-code-way-with-zappysys-odbc-driver-cd8)
+- [Headless vs. Traditional UI Libraries: When and Why to Choose Each 🧩](https://dev.to/mohammad_kh4441/headless-vs-traditional-ui-libraries-when-and-why-to-choose-each-1c5b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
