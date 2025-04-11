@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Python](https://dev.to/rudrabhardwaj/python-3o7o)
-- [Reinventando a Roda: Criando seu próprio MediatR - Parte 1](https://dev.to/angelobelchior/reinventando-a-roda-criando-seu-proprio-mediatr-parte-1-3f1o)
-- [How to Create a Resource Group in Azure](https://dev.to/timilehin_olatunde_i/how-to-create-a-resource-group-in-azure-4p4j)
-- [Connect Excel to Google BigQuery — The Easy No-Code Way with ZappySys ODBC Driver](https://dev.to/daniel_zs/connect-excel-to-google-bigquery-the-easy-no-code-way-with-zappysys-odbc-driver-cd8)
-- [Headless vs. Traditional UI Libraries: When and Why to Choose Each 🧩](https://dev.to/mohammad_kh4441/headless-vs-traditional-ui-libraries-when-and-why-to-choose-each-1c5b)
+- [Letting the power of Agentic AI: How Autonomous Agents are revolutionizing cybersecurity and Application Security](https://dev.to/rollbrace0/letting-the-power-of-agentic-ai-how-autonomous-agents-are-revolutionizing-cybersecurity-and-53m3)
+- [🛠 How I Reduced Product Page Load Time by Nearly 85%](https://dev.to/emanuelfacundo/how-i-reduced-product-page-load-time-by-nearly-85-40kl)
+- [How to Build a Self-Service DevOps Platform &lpar;Platform Engineering Explained&rpar;](https://dev.to/yash_sonawane25/how-to-build-a-self-service-devops-platform-platform-engineering-explained-4fe0)
+- [Navigating Hidden Hosting Costs: What Every Freelancer Should Know](https://dev.to/florentv11/navigating-hidden-hosting-costs-what-every-freelancer-should-know-33l7)
+- [Prompt Engineering Is Just Asking Better Questions](https://dev.to/engineeredai/prompt-engineering-is-just-asking-better-questions-4l8b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
