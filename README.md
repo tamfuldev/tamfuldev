@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up AWS EFS Static Provisioning Across Multiple Kubernetes Namespaces](https://dev.to/ismailg/how-to-set-up-aws-efs-static-provisioning-across-multiple-kubernetes-namespaces-58i2)
-- [600+ Days of an AI Podcast I Accidentally Got Emotionally Attached To](https://dev.to/kamecat/600-days-of-an-ai-podcast-i-accidentally-got-emotionally-attached-to-2h75)
-- [Navigating Hosting Hurdles: Strategies for Freelancers and E-Commerce Success](https://dev.to/florentv11/navigating-hosting-hurdles-strategies-for-freelancers-and-e-commerce-success-nl3)
-- [ใช้ LSTM vs Prophet เพื่อพยากรณ์อุณหภูมิเฉลี่ยรายวันจากข้อมูลจำลอง 730 วัน](https://dev.to/3-032-patthara/epriiybethiiybkaarphyaakrnunhphuumirahwaang-lstm-aela-prophet-nnn)
-- [# Day 3 Learn JavaScript Basic Syntax &amp; Principles &lpar;Beginner Friendly Guide&rpar;](https://dev.to/code_2/-day-3-learn-javascript-basic-syntax-principles-beginner-friendly-guide-1f78)
+- [Clean Code in the Age of AI: Why Machines Need Comments Too 🤖🧠](https://dev.to/bgauryy/clean-code-in-the-age-of-ai-why-machines-need-comments-too-15d0)
+- [Game Dev Digest — Issue #277 - Physics, Shaders, Resources and more](https://dev.to/gamedevdigest/game-dev-digest-issue-277-physics-shaders-resources-and-more-3nac)
+- [Mastering Browser Dimension Properties &lpar;clientWidth, offsetWidth etc&rpar;: Never to look back again](https://dev.to/saurabh_raj_afaabe1844a4c/understanding-browser-dimension-properties-clientwidth-offsetwidth-etc-never-to-look-back-again-283k)
+- [Building a Secure API: A Beginner-Friendly Guide with Express and TypeScript](https://dev.to/arbythecoder/building-a-secure-api-a-beginner-friendly-guide-with-express-and-typescript-4la)
+- [How to Set Up Free Reverse Proxy with High-Security Protection](https://dev.to/carrie_luo1/how-to-set-up-free-reverse-proxy-with-high-security-protection-4cb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
