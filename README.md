@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Clean Code in the Age of AI: Why Machines Need Comments Too 🤖🧠](https://dev.to/bgauryy/clean-code-in-the-age-of-ai-why-machines-need-comments-too-15d0)
-- [Game Dev Digest — Issue #277 - Physics, Shaders, Resources and more](https://dev.to/gamedevdigest/game-dev-digest-issue-277-physics-shaders-resources-and-more-3nac)
-- [Mastering Browser Dimension Properties &lpar;clientWidth, offsetWidth etc&rpar;: Never to look back again](https://dev.to/saurabh_raj_afaabe1844a4c/understanding-browser-dimension-properties-clientwidth-offsetwidth-etc-never-to-look-back-again-283k)
-- [Building a Secure API: A Beginner-Friendly Guide with Express and TypeScript](https://dev.to/arbythecoder/building-a-secure-api-a-beginner-friendly-guide-with-express-and-typescript-4la)
-- [How to Set Up Free Reverse Proxy with High-Security Protection](https://dev.to/carrie_luo1/how-to-set-up-free-reverse-proxy-with-high-security-protection-4cb)
+- [Beyond Basic Practice: Creating the JobSage AI Interview Simulator with Gemini &amp; Embeddings](https://dev.to/david_angaya_e7156aa5266d/beyond-basic-practice-creating-the-jobsage-ai-interview-simulator-with-gemini-embeddings-2c93)
+- [Firebase Authentication in Android using Kotlin &lpar;Login &amp; Register&rpar;](https://dev.to/luv_dumka_73b5c3e11dcea61/firebase-authentication-in-android-using-kotlin-login-register-4njp)
+- [Introducing the AI Action Figure Creator by CrayonAI](https://dev.to/jsam/introducing-the-ai-action-figure-creator-by-crayonai-2a33)
+- [🧠 Programming Session Day 7: Mastering Loops, Conditions &amp; Database Logic in Java](https://dev.to/vigneshwaralingam/programming-session-day-7-mastering-loops-conditions-database-logic-in-java-2kmb)
+- [React Tailwind CSS Example](https://dev.to/jwmdykes/react-tailwind-css-example-1d42)
 <!-- BLOG-POST-LIST:END -->
 
 ---
