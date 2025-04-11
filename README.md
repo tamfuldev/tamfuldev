@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 New AWS Marketplace Feature: Simplified Fulfilment for Container Products](https://dev.to/latchudevops/new-aws-marketplace-feature-simplified-fulfilment-for-container-products-5gdo)
-- [Systems Programming and Overstimulation: Finding Balance in a Complex Technical Industry](https://dev.to/clarizalooktech/systems-programming-and-overstimulation-finding-balance-in-a-complex-technical-industry-377h)
-- [Navigating Web Hosting Pitfalls: Key Insights for U.S. Digital Entrepreneurs](https://dev.to/florentv11/navigating-web-hosting-pitfalls-key-insights-for-us-digital-entrepreneurs-4i7i)
-- [How to Clean Up Git Branches: Scripts to Delete Old, Inactive, and Unused Branches](https://dev.to/manojspace/how-to-clean-up-git-branches-a-complete-guide-for-local-remote-repositories-f3d)
-- [DAY 20 &amp; 21: Explanation of IDEs in Eclipse and Inheritance](https://dev.to/sangamithra_k_78d83d6fb9d/day-20-21-explanation-of-ides-in-eclipse-and-inheritance-3pd5)
+- [Java Constructor.](https://dev.to/vasutamil19/java-constructor-3aka)
+- [DAY 10 in python](https://dev.to/maddy_mathan/day-10-in-python-3ln)
+- [Why Some Tech Companies Are Moving Away from Next.js](https://dev.to/araf_injazat_1bd03c5907fa/why-some-tech-companies-are-moving-away-from-nextjs-53om)
+- [Hashing in Presto/Athena](https://dev.to/dendihandian/hashing-in-athenaprestosql-ged)
+- [My Type of Coding: Who reads what AI writes?](https://dev.to/shiftyp/my-type-of-coding-who-reads-what-ai-writes-2i7e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
