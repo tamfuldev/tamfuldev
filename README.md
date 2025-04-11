@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Rise of AI: A Turning Point for All of Us](https://dev.to/jenueldev/the-rise-of-ai-a-turning-point-for-all-of-us-2ddc)
-- [AI ตรวจจับคำหยาบในข้อความภาษาไทยด้วย Machine Learning](https://dev.to/nnamenatchx/ai-trwcchcchabkhamhyaabainkhkhwaamphaasaaaithydwy-machine-learning-cbf)
-- [Tuples in Python: A Simple Yet Powerful Data Structure](https://dev.to/priya_naik_513dae9128e2a9/tuples-in-python-a-simple-yet-powerful-data-structure-loc)
-- [Building and Automating the Deployment of a Flask Application with Docker, GitHub, and CI/CD](https://dev.to/sir-j/building-and-automating-the-deployment-of-a-flask-application-with-docker-github-and-cicd-2dc4)
-- [Deadline Extended for the Alibaba Cloud Web Game Challenge!](https://dev.to/devteam/deadline-extended-for-the-alibaba-cloud-web-game-challenge-45ip)
+- [𝗨𝗻𝗹𝗼𝗰𝗸 𝘁𝗵𝗲 𝗣𝗼𝘄𝗲𝗿 𝗼𝗳 𝗝𝗮𝘃𝗮 𝗙𝗹𝗶𝗴𝗵𝘁 𝗥𝗲𝗰𝗼𝗿𝗱𝗲𝗿: 𝗔 𝗚𝗮𝗺𝗲-𝗖𝗵𝗮𝗻𝗴𝗲𝗿 𝗳𝗼𝗿 𝗝𝗮𝘃𝗮 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝘀 🚀](https://dev.to/thiago_souza_1510/--3o9)
+- [How to Build Software Without Writing Code](https://dev.to/lucaspelisari/how-to-build-software-without-writing-code-4ep)
+- [AI ChatBot แนะนำActivityตามอารมณ์ ในภาษา Python](https://dev.to/jynzeehongtae/ai-chatbot-aenanamactivitytaamaarmn-ainphaasaa-python-58p5)
+- [Instrument your LLM calls to analyze AI costs and usage](https://dev.to/tinybirdco/instrument-your-llm-calls-to-analyze-ai-costs-and-usage-57mo)
+- [From Goldfish to Elephant: Scaling AI Agent Memory for Teams 🧠](https://dev.to/orenme/from-goldfish-to-elephant-scaling-ai-agent-memory-for-teams-22p9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
