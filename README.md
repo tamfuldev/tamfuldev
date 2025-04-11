@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [𝗨𝗻𝗹𝗼𝗰𝗸 𝘁𝗵𝗲 𝗣𝗼𝘄𝗲𝗿 𝗼𝗳 𝗝𝗮𝘃𝗮 𝗙𝗹𝗶𝗴𝗵𝘁 𝗥𝗲𝗰𝗼𝗿𝗱𝗲𝗿: 𝗔 𝗚𝗮𝗺𝗲-𝗖𝗵𝗮𝗻𝗴𝗲𝗿 𝗳𝗼𝗿 𝗝𝗮𝘃𝗮 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝘀 🚀](https://dev.to/thiago_souza_1510/--3o9)
-- [How to Build Software Without Writing Code](https://dev.to/lucaspelisari/how-to-build-software-without-writing-code-4ep)
-- [AI ChatBot แนะนำActivityตามอารมณ์ ในภาษา Python](https://dev.to/jynzeehongtae/ai-chatbot-aenanamactivitytaamaarmn-ainphaasaa-python-58p5)
-- [Instrument your LLM calls to analyze AI costs and usage](https://dev.to/tinybirdco/instrument-your-llm-calls-to-analyze-ai-costs-and-usage-57mo)
-- [From Goldfish to Elephant: Scaling AI Agent Memory for Teams 🧠](https://dev.to/orenme/from-goldfish-to-elephant-scaling-ai-agent-memory-for-teams-22p9)
+- [How to Set Up AWS EFS Static Provisioning Across Multiple Kubernetes Namespaces](https://dev.to/ismailg/how-to-set-up-aws-efs-static-provisioning-across-multiple-kubernetes-namespaces-58i2)
+- [600+ Days of an AI Podcast I Accidentally Got Emotionally Attached To](https://dev.to/kamecat/600-days-of-an-ai-podcast-i-accidentally-got-emotionally-attached-to-2h75)
+- [Navigating Hosting Hurdles: Strategies for Freelancers and E-Commerce Success](https://dev.to/florentv11/navigating-hosting-hurdles-strategies-for-freelancers-and-e-commerce-success-nl3)
+- [ใช้ LSTM vs Prophet เพื่อพยากรณ์อุณหภูมิเฉลี่ยรายวันจากข้อมูลจำลอง 730 วัน](https://dev.to/3-032-patthara/epriiybethiiybkaarphyaakrnunhphuumirahwaang-lstm-aela-prophet-nnn)
+- [# Day 3 Learn JavaScript Basic Syntax &amp; Principles &lpar;Beginner Friendly Guide&rpar;](https://dev.to/code_2/-day-3-learn-javascript-basic-syntax-principles-beginner-friendly-guide-1f78)
 <!-- BLOG-POST-LIST:END -->
 
 ---
