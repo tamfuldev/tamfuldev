@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Turn Your React App into a PWA That Works Offline, Installs Like Magic &amp; Feels Native](https://dev.to/codewithsuhani/turn-your-react-app-into-a-pwa-that-works-offline-installs-like-magic-feels-native-40dn)
-- [Understanding Constraints in DBMS](https://dev.to/rishabhtpt/understanding-constraints-in-dbms-4kb9)
-- [hey guys speed up your python code, especially with dynamic programming and recursive functions](https://dev.to/coderatul/hey-guys-speed-up-your-python-code-especially-with-dynamic-programming-and-recursive-functions-2hol)
-- [Cache in Python !](https://dev.to/coderatul/cache-in-python--18g)
-- [Function Currying and Partial Application](https://dev.to/omriluz1/function-currying-and-partial-application-3jj0)
+- [How AI Based Knowledge Management Systems Are Transforming EdTech](https://dev.to/altumind/how-ai-based-knowledge-management-systems-are-transforming-edtech-5ad7)
+- [Leetcode - 82. Remove Duplicates from Sorted List II](https://dev.to/rakeshreddy512/leetcode-82-remove-duplicates-from-sorted-list-ii-2nek)
+- [File System vs DBMS](https://dev.to/rishabhtpt/file-system-vs-dbms-66k)
+- [The Rise of the Hybrid Developer: Why the World Doesn’t Need Hardcore Coders Anymore](https://dev.to/doozieakshay/the-rise-of-the-hybrid-developer-why-the-world-doesnt-need-hardcore-coders-anymore-2782)
+- [zxsdfghjk,](https://dev.to/wnjsjen/zxsdfghjk-278g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
