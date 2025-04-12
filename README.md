@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a WordPress Online Store with Blocks: A Step-by-Step Guide](https://dev.to/minima_desk_cd9b151c4e2fb/how-to-build-a-wordpress-online-store-with-blocks-a-step-by-step-guide-3jdh)
-- [Improving Websites with AI: Benefits, Optimization, and FAQs](https://dev.to/minima_desk_cd9b151c4e2fb/improving-websites-with-ai-benefits-optimization-and-faqs-1655)
-- [Mastering Laravel Artisan: A Comprehensive Guide for Developers](https://dev.to/minima_desk_cd9b151c4e2fb/mastering-laravel-artisan-a-comprehensive-guide-for-developers-41eo)
-- [10 Hidden Features You Might Be Missing in WordPress](https://dev.to/minima_desk_cd9b151c4e2fb/10-hidden-features-you-might-be-missing-in-wordpress-17f4)
-- [11 Free Ways to Promote Your Website: A Comprehensive Guide for WordPress Users](https://dev.to/minima_desk_cd9b151c4e2fb/11-free-ways-to-promote-your-website-a-comprehensive-guide-for-wordpress-users-2ipc)
+- [Level Up as a Developer: Using AI to Spot and Close Your Coding Skill Gaps](https://dev.to/raajaryan/level-up-as-a-developer-using-ai-to-spot-and-close-your-coding-skill-gaps-759)
+- [How I Use AI to Identify and Fix My Developer Skill Gaps Efficiently](https://dev.to/codewithsuhani/how-i-use-ai-to-identify-and-fix-my-developer-skill-gaps-efficiently-20p7)
+- [Boost Your Tech Career: A Practical Guide to Using AI for Skill Gap Analysis](https://dev.to/thecampuscoders/boost-your-tech-career-a-practical-guide-to-using-ai-for-skill-gap-analysis-3n7n)
+- [An Open Source AI Agent for YouTube Streamers](https://dev.to/arber/an-open-source-ai-agent-for-youtube-streamers-4ihd)
+- [Cilium &amp; eBPF: The Future of Secure &amp; Scalable Kubernetes Networking](https://dev.to/yash_sonawane25/cilium-ebpf-the-future-of-secure-scalable-kubernetes-networking-529a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
