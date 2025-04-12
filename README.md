@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Don’t Just Build It—Containerize It! Master ASP.NET Core with Docker Before It’s Too Late](https://dev.to/dct_technology/dont-just-build-it-containerize-it-master-aspnet-core-with-docker-before-its-too-late-14n2)
-- [Pathology AI Breakthrough: Train SOTA Models With 1000x Less Data](https://dev.to/aimodels-fyi/pathology-ai-breakthrough-train-sota-models-with-1000x-less-data-4i7k)
-- [Legal Text AI Breakthrough: 98% Accuracy in Sentence Boundary Detection](https://dev.to/aimodels-fyi/legal-text-ai-breakthrough-98-accuracy-in-sentence-boundary-detection-13e8)
-- [M-Prometheus: Open LLM Judges Excel in 20+ Languages &amp; Boost Text Quality](https://dev.to/aimodels-fyi/m-prometheus-open-llm-judges-excel-in-20-languages-boost-text-quality-4b97)
-- [Massive Audio Compressor Dataset Powers Better AI Music Production](https://dev.to/aimodels-fyi/massive-audio-compressor-dataset-powers-better-ai-music-production-15o0)
+- [Meet RedCoffee : A Python CLI to export SonarQube analysis as shareable PDF Reports](https://dev.to/konnichiwa_anubhav/meet-redcoffee-a-python-cli-to-export-sonarqube-analysis-as-shareable-pdf-reports-19em)
+- [PHP is now the best choice for web based software](https://dev.to/robin-ivi/php-is-now-the-best-choice-for-web-based-software-4fpf)
+- [First 10 Seconds That Can Make or Break a Product](https://dev.to/jagroop2001/first-10-seconds-that-can-make-or-break-a-product-8ff)
+- [Warp Terminal: Revolutionizing Command Line Interfaces with Modern UX and AI](https://dev.to/omriluz1/warp-terminal-revolutionizing-command-line-interfaces-with-modern-ux-and-ai-477p)
+- [Spring Security Part 2 : Getting started with jdbc authentication](https://dev.to/akshay161099/spring-security-part-2-getting-started-with-jdbc-authentication-2b1g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
