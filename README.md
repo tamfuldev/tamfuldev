@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build Function-Calling Agents in Node.js with Agentic](https://dev.to/obaydmerz/build-function-calling-agents-in-nodejs-with-agentic-315c)
-- [Untitled](https://dev.to/mohammad_ghlibalrazzaq_9/untitled-514j)
-- [17 open roles for product engineers, developer advocates, and technical writers](https://dev.to/fmerian/17-open-roles-for-product-engineers-developer-advocates-and-technical-writers-329d)
-- [Hello World](https://dev.to/rayjay/hello-world-13cf)
-- [From Feature Graveyard to Viable Product: Beano v2.0 Redemption Arc](https://dev.to/beanboi64/from-feature-graveyard-to-viable-product-beanos-tic-tac-toe-redemption-arc-2pkp)
+- [How to Build a WordPress Online Store with Blocks: A Step-by-Step Guide](https://dev.to/minima_desk_cd9b151c4e2fb/how-to-build-a-wordpress-online-store-with-blocks-a-step-by-step-guide-3jdh)
+- [Improving Websites with AI: Benefits, Optimization, and FAQs](https://dev.to/minima_desk_cd9b151c4e2fb/improving-websites-with-ai-benefits-optimization-and-faqs-1655)
+- [Mastering Laravel Artisan: A Comprehensive Guide for Developers](https://dev.to/minima_desk_cd9b151c4e2fb/mastering-laravel-artisan-a-comprehensive-guide-for-developers-41eo)
+- [10 Hidden Features You Might Be Missing in WordPress](https://dev.to/minima_desk_cd9b151c4e2fb/10-hidden-features-you-might-be-missing-in-wordpress-17f4)
+- [11 Free Ways to Promote Your Website: A Comprehensive Guide for WordPress Users](https://dev.to/minima_desk_cd9b151c4e2fb/11-free-ways-to-promote-your-website-a-comprehensive-guide-for-wordpress-users-2ipc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
