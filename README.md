@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Linux Networking Commands: A Handy Guide for Professionals](https://dev.to/axisinfo_0a61830e06c3c950/mastering-linux-networking-commands-a-handy-guide-for-professionals-39gg)
-- [Filament Vertical Tabs](https://dev.to/afs19/filament-vertical-tabs-1k60)
-- [How to create an effective application security Program: Strategies, methods and tools for optimal results](https://dev.to/lynxfelony1/how-to-create-an-effective-application-security-program-strategies-methods-and-tools-for-optimal-4872)
-- [Godfingering vs. Dogfooding: A Tale of Two Dev Cultures](https://dev.to/copyleftdev/godfingering-vs-dogfooding-a-tale-of-two-dev-cultures-132m)
-- [What is JRE 🤔?](https://dev.to/iyappan_009/what-is-jre--1pkd)
+- [If you are looking to learn oops concept in fun way do check this out!](https://dev.to/akashjana/if-you-are-looking-to-learn-oops-concept-in-fun-way-do-check-this-out-obm)
+- [INSANE one-click MCP AI agent, Meta Llama 4 Herd, an AI Model 8X larger than OpenAI, and more](https://dev.to/thisweekinaiengineering/insane-one-click-mcp-ai-agent-meta-llama-4-herd-an-ai-model-8x-larger-than-openai-and-more-45b0)
+- [XPORT by Wanchain: A Free and Simple Cross-Chain Data Protocol](https://dev.to/insanechemical_/xport-by-wanchain-a-free-and-simple-cross-chain-data-protocol-2lop)
+- [TCP/IP vs OSI: Understanding the Backbone of Networking](https://dev.to/axisinfo_0a61830e06c3c950/tcpip-vs-osi-understanding-the-backbone-of-networking-b31)
+- [Integrating Stripe Checkout in a Next.js Application](https://dev.to/hexshift/integrating-stripe-checkout-in-a-nextjs-application-1cde)
 <!-- BLOG-POST-LIST:END -->
 
 ---
