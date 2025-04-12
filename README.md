@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Achieving High Availability with IBM WebSphere Application Server 🌐](https://dev.to/mohamed_nabil_19a2c451a59/achieving-high-availability-with-ibm-websphere-application-server-5ca6)
-- [🚀 Achieving High Availability with IBM WebSphere Application Server 🌐](https://dev.to/mohamed_nabil_19a2c451a59/achieving-high-availability-with-ibm-websphere-application-server-8kh)
-- [Load Balancing vs Load Shedding vs Load Leveling](https://dev.to/smiah/load-balancing-vs-load-shedding-vs-load-leveling-48ff)
-- [Theming and Styling in Vaadin – part 2](https://dev.to/pbalves/theming-and-styling-in-vaadin-part-2-3c0f)
-- [🔍 A Developer-Friendly Guide to Prisma with Next.js &lpar;From Basics to Powerful Features&rpar;](https://dev.to/itspedram/a-developer-friendly-guide-to-prisma-with-nextjs-from-basics-to-powerful-features-906)
+- [Untitled](https://dev.to/abhi_jadhav_d307ff1108e56/untitled-37a4)
+- [Securing React Applications with ReCAPTZ: A Complete Guide](https://dev.to/shejanmahamud/securing-react-applications-with-recaptz-a-complete-guide-3bpf)
+- [JavaScript DOM Manipulation](https://dev.to/ashikrnhq04/javascript-dom-manipulation-2998)
+- [Drag a window by clicking everywhere in the window. Improving usability. Which programs are better to choose. My experience](https://dev.to/tvlao/drag-a-window-by-clicking-everywhere-in-the-window-improving-usability-which-programs-are-better-35j9)
+- [Streaming vs Queuing: What Happens If You Choose Wrong?](https://dev.to/smiah/streaming-vs-queuing-what-happens-if-you-choose-wrong-2h6e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
