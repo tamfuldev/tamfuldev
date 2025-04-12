@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Useful Dev Tools for Hardware Beyond the IDE](https://dev.to/buonoatsushi/useful-dev-tools-for-hardware-beyond-the-ide-27kp)
-- [[Boost]](https://dev.to/dumboprogrammer/-4399)
-- [Meta&#39;s Llama 4 Scandal](https://dev.to/dumboprogrammer/metas-llama-4-scandal-fak)
-- [Obter informações de índices e seu uso em diversos Bancos de Dados em MongoDB](https://dev.to/magno_rodolfodossantos_/obter-informacoes-de-indices-e-seu-uso-em-diversos-bancos-de-dados-em-mongodb-1a6p)
-- [Daily JavaScript Challenge #JS-152: Evaluate Sudoku Board Validity](https://dev.to/dpc/daily-javascript-challenge-js-152-evaluate-sudoku-board-validity-2387)
+- [1.1 - 100 Days of Code](https://dev.to/aiglelevant/11-100-days-of-code-394l)
+- [The Rise of &#39;Vibe Packages&#39; in Open Source Development](https://dev.to/seuros/the-rise-of-vibe-packages-in-open-source-development-40kg)
+- [Beyond Basic RAG: Measuring Embedding and Generation Performance with RAGAS](https://dev.to/syamaner/beyond-basic-rag-measuring-embedding-and-generation-performance-with-ragas-ddk)
+- [How I Deployed a Vite React App to Azure Static Web App &lpar;SWA&rpar; Using Azure DevOps CI/CD](https://dev.to/shivampawar/how-i-deployed-a-vite-react-app-to-azure-static-web-app-swa-using-azure-devops-cicd-1gna)
+- [AquaScript 🌊✨](https://dev.to/hanzla-baig/aquascript-24af)
 <!-- BLOG-POST-LIST:END -->
 
 ---
