@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CORS and Same-Origin Policy Deep Dive](https://dev.to/omriluz1/cors-and-same-origin-policy-deep-dive-337g)
-- [Cartoonify Your Image: Add a Fun Twist to Any Picture](https://dev.to/smartdev72/cartoonify-your-image-add-a-fun-twist-to-any-picture-25ak)
-- [Building an E-commerce Website: A Step-by-Step Tutorial on Mastering .some&lpar;&rpar; and .every&lpar;&rpar; in JavaScript](https://dev.to/agunechemba/building-an-e-commerce-website-a-step-by-step-tutorial-on-mastering-some-and-every-in-3dej)
-- [**Title: Improving Distributed Systems Reliability Using the Fibonacci Backoff Mechanism** Retrying failed operations on temporary failures is one of the prevalent strategies in contemporary distributed systems. But when done inadequately, these retries l](https://dev.to/nourelhodabarkat/title-improving-distributed-systems-reliability-using-the-fibonacci-backoff-mechanism-3p46)
-- [Explore Pentesting the Easy Way: Using Nmap and Docker](https://dev.to/rijultp/explore-pentesting-the-easy-way-using-nmap-and-docker-ii4)
+- [🚀 Achieving High Availability with IBM WebSphere Application Server 🌐](https://dev.to/mohamed_nabil_19a2c451a59/achieving-high-availability-with-ibm-websphere-application-server-5ca6)
+- [🚀 Achieving High Availability with IBM WebSphere Application Server 🌐](https://dev.to/mohamed_nabil_19a2c451a59/achieving-high-availability-with-ibm-websphere-application-server-8kh)
+- [Load Balancing vs Load Shedding vs Load Leveling](https://dev.to/smiah/load-balancing-vs-load-shedding-vs-load-leveling-48ff)
+- [Theming and Styling in Vaadin – part 2](https://dev.to/pbalves/theming-and-styling-in-vaadin-part-2-3c0f)
+- [🔍 A Developer-Friendly Guide to Prisma with Next.js &lpar;From Basics to Powerful Features&rpar;](https://dev.to/itspedram/a-developer-friendly-guide-to-prisma-with-nextjs-from-basics-to-powerful-features-906)
 <!-- BLOG-POST-LIST:END -->
 
 ---
