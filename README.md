@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dbms Definition](https://dev.to/rishabhtpt/dbms-definition-365d)
-- [10 &lpar;+1&rpar; QA Archetypes Dominating 2025 &lpar;Memes Included&rpar;](https://dev.to/harsha_vardhanreddy_9017/10-1-qa-archetypes-dominating-2025-memes-included-2hb8)
-- [Optimizing React Performance With Memoization and Code Splitting](https://dev.to/hexshift/optimizing-react-performance-with-memoization-and-code-splitting-18gi)
-- [☠️ Never Run These! 10 Linux Commands That Can Destroy Your System](https://dev.to/rajpreet_gill_6272051bd31/never-run-these-10-linux-commands-that-can-destroy-your-system-4k28)
-- [Docker Model Runner: Running AI Models Locally](https://dev.to/idsulik/docker-model-runner-running-ai-models-locally-1a3n)
+- [🚀 Don’t Just Build It—Containerize It! Master ASP.NET Core with Docker Before It’s Too Late](https://dev.to/dct_technology/dont-just-build-it-containerize-it-master-aspnet-core-with-docker-before-its-too-late-14n2)
+- [Pathology AI Breakthrough: Train SOTA Models With 1000x Less Data](https://dev.to/aimodels-fyi/pathology-ai-breakthrough-train-sota-models-with-1000x-less-data-4i7k)
+- [Legal Text AI Breakthrough: 98% Accuracy in Sentence Boundary Detection](https://dev.to/aimodels-fyi/legal-text-ai-breakthrough-98-accuracy-in-sentence-boundary-detection-13e8)
+- [M-Prometheus: Open LLM Judges Excel in 20+ Languages &amp; Boost Text Quality](https://dev.to/aimodels-fyi/m-prometheus-open-llm-judges-excel-in-20-languages-boost-text-quality-4b97)
+- [Massive Audio Compressor Dataset Powers Better AI Music Production](https://dev.to/aimodels-fyi/massive-audio-compressor-dataset-powers-better-ai-music-production-15o0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
