@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How `Localhost` Works ?](https://dev.to/bharathvajganesan/what-happens-when-you-type-localhost-in-the-browser-2g81)
-- [Why not use GraphQL?](https://dev.to/slickstef11/why-not-use-graphql-3o1n)
-- [Use Cogito-32B in Microsoft Word Locally](https://dev.to/gptlocalhost/use-cogito-32b-in-microsoft-word-locally-35al)
-- [Introduction To Reflection | Part 1](https://dev.to/milad-sadeghi/introduction-to-reflection-part-1-1ch0)
-- [Don&#39;t use instance variables in Rails Validators](https://dev.to/mtrolle/dont-use-instance-variables-in-rails-validators-3nmm)
+- [Mesmo pra quem já teve essa primeira aula, acho que vale olhar. Eu tive minha primeira em html 3 e 4 &lpar;quando tava começando a ser semântico&rpar;, achei ótimo o exemplo em um editor de texto.](https://dev.to/vitoriazzp/mesmo-pra-quem-ja-teve-essa-primeira-aula-acho-que-vale-olhar-eu-tive-minha-primeira-em-html-3-e-k45)
+- [From Flask App to CI/CD Pipeline with GitHub Actions &amp; Docker Hub](https://dev.to/adeleke123/from-flask-app-to-cicd-pipeline-with-github-actions-docker-hub-aoa)
+- [Feeling the Code: Understanding &quot;Vibe Coding&quot; and the AI Revolution in Software Development](https://dev.to/simplr_sh/feeling-the-code-understanding-vibe-coding-and-the-ai-revolution-in-software-development-5flg)
+- [Building Your Own Scalable Video Streaming Server: Part 3 - Data, Deployment &amp; Durability](https://dev.to/awalhossain/building-your-own-scalable-video-streaming-server-part-3-data-deployment-durability-172h)
+- [Building Your Own Scalable Video Streaming Server: Part 2 - Setup &amp; Core Implementation](https://dev.to/awalhossain/building-your-own-scalable-video-streaming-server-part-2-setup-core-implementation-32gf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
