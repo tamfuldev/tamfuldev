@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up a Scalable Monorepo With Turborepo and PNPM](https://dev.to/hexshift/setting-up-a-scalable-monorepo-with-turborepo-and-pnpm-4doh)
-- [Weekly Challenge: Sub circular](https://dev.to/simongreennet/weekly-challenge-sub-circular-hno)
-- [My Experience with Next.js Why It&#39;s Bad &lpar;And Getting Worse&rpar;](https://dev.to/bharathvaj_ganesan/my-experience-with-nextjs-why-its-bad-and-getting-worse-36e3)
-- [Unity Learning Blog #1](https://dev.to/foo_mingsheng_0c9d82f0ec/unity-learning-blog-1-12ol)
-- [Building a Chat App with MCP&lpar;Model Context Protocol&rpar; and Claude in Node js](https://dev.to/rajeshrenato/building-a-chat-app-with-mcpmodel-context-protocol-and-claude-in-node-js-4bb7)
+- [Next.js vs PHP: Real Code Comparison for Web Applications](https://dev.to/leapcell/nextjs-vs-php-real-code-comparison-for-web-applications-3he9)
+- [Cosmetic vs. Functional Goals: Preparing for Diverse Rhinoplasty Outcomes with Plastic Surgeons including Dr Reish](https://dev.to/richardreish/cosmetic-vs-functional-goals-preparing-for-diverse-rhinoplasty-outcomes-with-plastic-surgeons-2gae)
+- [A Minimal Static Blog Generator in Purescript - My Notes and Code Walkthrough](https://dev.to/druchan/a-minimal-static-blog-generator-in-purescript-my-notes-and-code-walkthrough-f4j)
+- [Cara Uninstall dan Install Ulang WSL di Windows](https://dev.to/ryfazrin/cara-uninstall-dan-install-ulang-wsl-di-windows-59p0)
+- [Convert a batch of images into Ghibli style using ChatGPT and macOS Automator](https://dev.to/kopiro/process-bunch-of-pictures-into-ghibli-style-using-chatgpt-and-macos-automator-4a37)
 <!-- BLOG-POST-LIST:END -->
 
 ---
