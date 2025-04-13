@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [LASRS Login app offers secure, mobile access for Louisiana providers to manage data, reports, and compliance on the go.](https://dev.to/ghulam_murtaza_25dd49e5a9/lasrs-login-app-offers-secure-mobile-access-for-louisiana-providers-to-manage-data-reports-and-kja)
-- [🚀 Set Up Node.js Logging with Winston and OpenSearch Dashboard &lpar;Step-by-Step Guide&rpar;](https://dev.to/subham1901/set-up-nodejs-logging-with-winston-and-opensearch-dashboard-step-by-step-guide-nge)
-- [Daily JavaScript Challenge #JS-154: Currency String Parser](https://dev.to/dpc/daily-javascript-challenge-js-154-currency-string-parser-56de)
-- [Daily JavaScript Challenge #JS-153: Identify Unique Words in a Sentence](https://dev.to/dpc/daily-javascript-challenge-js-153-identify-unique-words-in-a-sentence-4mn1)
-- [🚀 Deploying Sonatype Nexus on AWS EC2 using Terraform](https://dev.to/himanshusinghtomar/deploying-sonatype-nexus-on-aws-ec2-using-terraform-en6)
+- [BenQ RD280U Review: A 28&quot; 4K Monitor Built for Developers](https://dev.to/nickytonline/benq-rd280u-review-a-28-4k-monitor-built-for-developers-20d2)
+- [The Evolution of Documentation in the AI Era: A CPTO&#39;s Perspective](https://dev.to/jlcases/the-evolution-of-documentation-in-the-ai-era-a-cptos-perspective-41d0)
+- [🏭 #Fabrika-Metodu &lpar;Factory Method&rpar;](https://dev.to/mustafasamedyeyin/fabrika-metodu-factory-method-3c9j)
+- [Journey to GNOME Circle: Community, App Ideas, and Getting Started](https://dev.to/revisto/journey-to-gnome-circle-community-app-ideas-and-getting-started-4k2)
+- [Ninjas Training Coding Problem](https://dev.to/rohithv07/ninjas-training-coding-problem-218)
 <!-- BLOG-POST-LIST:END -->
 
 ---
