@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mesmo pra quem já teve essa primeira aula, acho que vale olhar. Eu tive minha primeira em html 3 e 4 &lpar;quando tava começando a ser semântico&rpar;, achei ótimo o exemplo em um editor de texto.](https://dev.to/vitoriazzp/mesmo-pra-quem-ja-teve-essa-primeira-aula-acho-que-vale-olhar-eu-tive-minha-primeira-em-html-3-e-k45)
-- [From Flask App to CI/CD Pipeline with GitHub Actions &amp; Docker Hub](https://dev.to/adeleke123/from-flask-app-to-cicd-pipeline-with-github-actions-docker-hub-aoa)
-- [Feeling the Code: Understanding &quot;Vibe Coding&quot; and the AI Revolution in Software Development](https://dev.to/simplr_sh/feeling-the-code-understanding-vibe-coding-and-the-ai-revolution-in-software-development-5flg)
-- [Building Your Own Scalable Video Streaming Server: Part 3 - Data, Deployment &amp; Durability](https://dev.to/awalhossain/building-your-own-scalable-video-streaming-server-part-3-data-deployment-durability-172h)
-- [Building Your Own Scalable Video Streaming Server: Part 2 - Setup &amp; Core Implementation](https://dev.to/awalhossain/building-your-own-scalable-video-streaming-server-part-2-setup-core-implementation-32gf)
+- [Setting Up a Scalable Monorepo With Turborepo and PNPM](https://dev.to/hexshift/setting-up-a-scalable-monorepo-with-turborepo-and-pnpm-4doh)
+- [Weekly Challenge: Sub circular](https://dev.to/simongreennet/weekly-challenge-sub-circular-hno)
+- [My Experience with Next.js Why It&#39;s Bad &lpar;And Getting Worse&rpar;](https://dev.to/bharathvaj_ganesan/my-experience-with-nextjs-why-its-bad-and-getting-worse-36e3)
+- [Unity Learning Blog #1](https://dev.to/foo_mingsheng_0c9d82f0ec/unity-learning-blog-1-12ol)
+- [Building a Chat App with MCP&lpar;Model Context Protocol&rpar; and Claude in Node js](https://dev.to/rajeshrenato/building-a-chat-app-with-mcpmodel-context-protocol-and-claude-in-node-js-4bb7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
