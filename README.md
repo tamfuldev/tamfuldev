@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Harness vs Spinnaker: The Future of Continuous Deployment Tools](https://dev.to/yash_sonawane25/harness-vs-spinnaker-the-future-of-continuous-deployment-tools-3nka)
-- [Jika style CSS kamu tidak diterapkan oleh browser, maka besar kemungkinan masalah kamu di CSS Specificity](https://dev.to/sejutaimpian/jika-style-css-kamu-tidak-diterapkan-oleh-browser-maka-besar-kemungkinan-masalah-kamu-di-css-3hp9)
-- [Escape Analysis in Go: Stack vs Heap Allocation Explained](https://dev.to/abstractmusa/escape-analysis-in-go-stack-vs-heap-allocation-explained-506a)
-- [Google just released A2A protocol. AI agents will soon work as teams instead of solo performers? I break down 3 key differences to MCP at: https://dev.to/zachary62/a2a-protocol-simply-explained-here-are-3-key-differences-to-mcp-3b7l](https://dev.to/zachary62/google-just-released-a2a-protocol-ai-agents-will-soon-work-as-teams-instead-of-solo-performers-i-3c5g)
-- [Downstream Resiliency of Distributed System](https://dev.to/smiah/downstream-resiliency-of-distributed-system-12ml)
+- [From Timezone Chaos to Clarity: Crafting an Interactive Time Zone Converter](https://dev.to/learncomputer/from-timezone-chaos-to-clarity-crafting-an-interactive-time-zone-converter-54h)
+- [[Boost]](https://dev.to/rs0579_73/-3175)
+- [A Practical Guide to Data Architecture: Real-World Use Cases from Lakes to Warehouses](https://dev.to/harsh9410/a-practical-guide-to-data-architecture-real-world-use-cases-from-lakes-to-warehouses-497j)
+- [The Importance of Clean Code](https://dev.to/xsoto/the-importance-of-clean-code-2ke1)
+- [Different cloud deployment models &lpar;Public, Private, Hybrid&rpar; and their use cases.](https://dev.to/oghenesuvwe/different-cloud-deployment-models-public-private-hybrid-and-their-use-cases-3k87)
 <!-- BLOG-POST-LIST:END -->
 
 ---
