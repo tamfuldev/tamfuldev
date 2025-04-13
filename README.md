@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [BenQ RD280U Review: A 28&quot; 4K Monitor Built for Developers](https://dev.to/nickytonline/benq-rd280u-review-a-28-4k-monitor-built-for-developers-20d2)
-- [The Evolution of Documentation in the AI Era: A CPTO&#39;s Perspective](https://dev.to/jlcases/the-evolution-of-documentation-in-the-ai-era-a-cptos-perspective-41d0)
-- [🏭 #Fabrika-Metodu &lpar;Factory Method&rpar;](https://dev.to/mustafasamedyeyin/fabrika-metodu-factory-method-3c9j)
-- [Journey to GNOME Circle: Community, App Ideas, and Getting Started](https://dev.to/revisto/journey-to-gnome-circle-community-app-ideas-and-getting-started-4k2)
-- [Ninjas Training Coding Problem](https://dev.to/rohithv07/ninjas-training-coding-problem-218)
+- [🔨 #Soyut-Fabrika &lpar;Abstract Factory&rpar;](https://dev.to/mustafasamedyeyin/soyut-fabrika-abstract-factory-2g9)
+- [🚀 Getting Started with Bicep: The Friendly Way to Deploy Azure Infrastructure](https://dev.to/1suleyman/getting-started-with-bicep-the-friendly-way-to-deploy-azure-infrastructure-5163)
+- [💻 Exercise 03: Refactoring with Bicep Modules – Making Your Templates Cleaner &amp; Smarter](https://dev.to/1suleyman/exercise-03-refactoring-with-bicep-modules-making-your-templates-cleaner-smarter-loc)
+- [Building CareerAgent: An AI-Powered Job Search Assistant with LangChain and Gemini](https://dev.to/sharmachaitanya945/building-careeragent-an-ai-powered-job-search-assistant-with-langchain-and-gemini-319i)
+- [Is AI Safety Keeping Up with AI Progress?](https://dev.to/djleamen/is-ai-safety-keeping-up-with-ai-progress-1cm2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
