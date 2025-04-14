@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Cross-Site Scripting &lpar;XSS&rpar; Mitigation Strategies](https://dev.to/omriluz1/cross-site-scripting-xss-mitigation-strategies-3gk5)
-- [Creating Your First OpenSearch Dashboard: A Step-by-Step Tutorial](https://dev.to/mangesh28/creating-your-first-opensearch-dashboard-a-step-by-step-tutorial-45j8)
-- [There are two web game competitions happening now and you should participate in both!](https://dev.to/jess/there-are-two-web-game-competitions-happening-now-and-you-should-participate-in-both-5bhi)
-- [The Importance of Code Hygiene](https://dev.to/kareem_itani_e51fee03fb7a/the-importance-of-code-hygiene-40op)
-- [[Boost]](https://dev.to/mateus-rauli/-5a8k)
+- [Editing RakuDoc, CRO&#39;ing it to Github](https://dev.to/finanalyst/editing-rakudoc-croing-it-to-github-1507)
+- [You don&#39;t need a Builder in Scala](https://dev.to/eronalves1996/you-dont-need-a-builder-in-scala-kp9)
+- [🚀 Introducing `react-native-sync-tasks`: Native JSI-Powered Background Polling for React Native](https://dev.to/pioner92/introducing-react-native-sync-tasks-native-jsi-powered-background-polling-for-react-native-30dd)
+- [[Boost]](https://dev.to/ggriffin/-3m6l)
+- [Simplifying Pagination in Angular with a Reusable Base Component](https://dev.to/kedar7/simplifying-pagination-in-angular-with-a-reusable-base-component-12jc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
