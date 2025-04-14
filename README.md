@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Event loop](https://dev.to/parth_patel_1505c905ab430/javascript-event-loop-egm)
-- [The Psychology of Decision Pulse: Why We Make the Choices We Do](https://dev.to/tableautopowerbimigration/the-psychology-of-decision-pulse-why-we-make-the-choices-we-do-23i1)
-- [Spring Cleaning: Tidy Your Java Code &amp; Maybe Your Framework? ✨](https://dev.to/myfear/spring-cleaning-tidy-your-java-code-maybe-your-framework-bpe)
-- [How to Better Organize Your Program.cs File in ASP.NET Core Apps](https://dev.to/canro91/how-to-better-organize-your-programcs-file-in-aspnet-core-apps-54n7)
-- [&lpar;Mis&rpar;Understanding React Context](https://dev.to/bunmioye/misunderstanding-react-context-2ei2)
+- [Proton: Pluggable SSR + DOM | Or How I implemented better SSR from scratch](https://dev.to/framemuse/proton-pluggable-ssr-dom-or-how-i-implemented-better-ssr-from-scratch-4hl8)
+- [How to book AWS exam from Pakistan](https://dev.to/shameel/how-to-book-aws-exam-from-pakistan-4b0h)
+- [Retrieval Technique Series-1.Linear Structure Retrieval](https://dev.to/yaruyng/retrieval-technique-series-1linear-structure-retrieval-8k3)
+- [Generative AI for Climate Change: Can AI Help Save the Planet?](https://dev.to/levitation_infotech/generative-ai-for-climate-change-can-ai-help-save-the-planet-30a4)
+- [A Developer’s Guide to Circuit Breakers: Protect Your Service from Failure](https://dev.to/brilianfird/a-developers-guide-to-circuit-breakers-protect-your-service-from-failure-5bf8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
