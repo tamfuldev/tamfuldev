@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Reality of Code Quality: Is Perfection More Important Than Progress?](https://dev.to/aneeqakhan/the-reality-of-code-quality-is-perfection-more-important-than-progress-3mh5)
-- [Cloud 101: A No-Fluff Guide to AWS Concepts That Matter](https://dev.to/aws-builders/cloud-101-a-no-fluff-guide-to-aws-concepts-that-matter-35n7)
-- [Understanding JSON Web Tokens &lpar;JWT&rpar; in JavaScript](https://dev.to/omriluz1/understanding-json-web-tokens-jwt-in-javascript-12je)
-- [How to Implement Hot-Cold Data Mixed Computing with esProc](https://dev.to/esproc_spl/how-to-implement-hot-cold-data-mixed-computing-with-esproc-3jk2)
-- [End-to-End Testing in Angular with Cypress](https://dev.to/artem_turlenko/end-to-end-testing-in-angular-with-cypress-5b2e)
+- [Which One Offers Better Performance For our Needs: A 4 GB RAM VPS or a 6GB RAM VPS?](https://dev.to/ankit_mathur_dun/which-one-offers-better-performance-for-our-needs-a-4-gb-ram-vps-or-a-6gb-ram-vps-6lm)
+- [Why does my JavaScript code receive a &quot;No Access-Control-Allow-Origin&quot; error, while Postman does not? &lpar;Solution Explained&rpar;](https://dev.to/reynaldi/why-does-my-javascript-code-receive-a-no-access-control-allow-origin-error-while-postman-does-2l2c)
+- [Nue.js, SvelteKit and MariaDB now available on Diploi 🎉](https://dev.to/diploi/nuejs-sveltekit-and-mariadb-now-available-on-diploi-c5c)
+- [Decommissioning the Workspace Events API v1beta enpoint](https://dev.to/googleworkspace/decommissioning-the-workspace-events-api-v1beta-enpoint-59hh)
+- [Pull Requests: The Key to Long-Term Code Quality and Fewer Bugs](https://dev.to/ivan-klimenkov/pull-requests-the-key-to-long-term-code-quality-and-fewer-bugs-o0i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
