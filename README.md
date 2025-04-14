@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [generateUUID&lpar;&rpar; util in vercel/ai-chatbot source code.](https://dev.to/ramunarasinga-11/generateuuid-util-in-vercelai-chatbot-source-code-96p)
-- [🔍 Breadth-First Search &lpar;BFS&rpar; Algorithm](https://dev.to/khushi2488/breadth-first-search-bfs-algorithm-3lmh)
-- [🐱 Class trong JavaScript – Tập 1: Khi lập trình cũng cần &quot;thần thái&quot;](https://dev.to/duythenight/class-trong-javascript-tap-1-khi-lap-trinh-cung-can-than-thai-3blm)
-- [I&#39;m developing a new note app. It&#39;s in testing now. Come try it!🚀](https://dev.to/nextjser/im-developing-a-new-note-app-its-in-testing-now-come-try-it-16ia)
-- [Exploring Monetization Strategies for Video Content in AI, Machine Learning, and Data Science](https://dev.to/supreme_c94d2e21f71444c89/exploring-monetization-strategies-for-video-content-in-ai-machine-learning-and-data-science-fha)
+- [JavaScript Event loop](https://dev.to/parth_patel_1505c905ab430/javascript-event-loop-egm)
+- [The Psychology of Decision Pulse: Why We Make the Choices We Do](https://dev.to/tableautopowerbimigration/the-psychology-of-decision-pulse-why-we-make-the-choices-we-do-23i1)
+- [Spring Cleaning: Tidy Your Java Code &amp; Maybe Your Framework? ✨](https://dev.to/myfear/spring-cleaning-tidy-your-java-code-maybe-your-framework-bpe)
+- [How to Better Organize Your Program.cs File in ASP.NET Core Apps](https://dev.to/canro91/how-to-better-organize-your-programcs-file-in-aspnet-core-apps-54n7)
+- [&lpar;Mis&rpar;Understanding React Context](https://dev.to/bunmioye/misunderstanding-react-context-2ei2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
