@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Which One Offers Better Performance For our Needs: A 4 GB RAM VPS or a 6GB RAM VPS?](https://dev.to/ankit_mathur_dun/which-one-offers-better-performance-for-our-needs-a-4-gb-ram-vps-or-a-6gb-ram-vps-6lm)
-- [Why does my JavaScript code receive a &quot;No Access-Control-Allow-Origin&quot; error, while Postman does not? &lpar;Solution Explained&rpar;](https://dev.to/reynaldi/why-does-my-javascript-code-receive-a-no-access-control-allow-origin-error-while-postman-does-2l2c)
-- [Nue.js, SvelteKit and MariaDB now available on Diploi 🎉](https://dev.to/diploi/nuejs-sveltekit-and-mariadb-now-available-on-diploi-c5c)
-- [Decommissioning the Workspace Events API v1beta enpoint](https://dev.to/googleworkspace/decommissioning-the-workspace-events-api-v1beta-enpoint-59hh)
-- [Pull Requests: The Key to Long-Term Code Quality and Fewer Bugs](https://dev.to/ivan-klimenkov/pull-requests-the-key-to-long-term-code-quality-and-fewer-bugs-o0i)
+- [How can you evaluate the credibility of a Ludo game developer before hiring?](https://dev.to/jamie_sugar_952598da38817/how-can-you-evaluate-the-credibility-of-a-ludo-game-developer-before-hiring-1nl9)
+- [Understanding Harbor: part 1 – Proxy Cache](https://dev.to/aurelievache/understanding-harbor-part-1-proxy-cache-3dcb)
+- [10 Key Things to Know About Audio Live Streaming in 2025](https://dev.to/livestreaming/10-key-things-to-know-about-audio-live-streaming-in-2025-e0j)
+- [Introduction to Apache Spark for Data Engineering](https://dev.to/amin12905/introduction-to-apache-spark-for-data-engineering-3fmh)
+- [TDD у Python](https://dev.to/gr555/tdd-u-python-2494)
 <!-- BLOG-POST-LIST:END -->
 
 ---
