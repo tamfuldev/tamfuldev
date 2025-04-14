@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Everything You Need to Know About Vim on Linux](https://dev.to/nanakwameops/everything-you-need-to-know-about-vim-on-linux-31p4)
+- [Get the Records after and before the Searched One — From SQL to SPL #18](https://dev.to/judith677/get-the-records-after-and-before-the-searched-one-from-sql-to-spl-18-5f22)
 - [Redis Delayed Queue: Explained Once and for All](https://dev.to/leapcell/redis-delayed-queue-explained-once-and-for-all-51o8)
 - [Cloud-Native Security: How to Secure Kubernetes &amp; Serverless Apps](https://dev.to/yash_sonawane25/cloud-native-security-how-to-secure-kubernetes-serverless-apps-4fp6)
 - [From Confused to Confident: How Vim Made Me Better in Cloud &amp; DevOps](https://dev.to/dtemi/from-confused-to-confident-how-vim-made-me-better-in-cloud-devops-17jk)
-- [10 Best Wiki Plugins for WordPress &lpar;2025 Guide&rpar;](https://dev.to/minima_desk_cd9b151c4e2fb/10-best-wiki-plugins-for-wordpress-2025-guide-3241)
-- [Building a Scalable Sales Process: Strategies for Growth in Cybersecurity by Industry Leaders including John Almond &lpar;TX&rpar;](https://dev.to/johnalmond02/building-a-scalable-sales-process-strategies-for-growth-in-cybersecurity-by-industry-leaders-20l1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
