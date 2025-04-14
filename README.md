@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [web3](https://dev.to/poland_silvia/web3-1002)
-- [A Beginner&#39;s Guide to WordPress Plugins: How to Use, Install, and Manage Them](https://dev.to/minima_desk_cd9b151c4e2fb/a-beginners-guide-to-wordpress-plugins-how-to-use-install-and-manage-them-2ob1)
-- [How to Change Your Domain Name in WordPress: A Step-by-Step Guide](https://dev.to/minima_desk_cd9b151c4e2fb/how-to-change-your-domain-name-in-wordpress-a-step-by-step-guide-2cb1)
-- [Building a Nodejs API using the Twelve-Factor App Principles](https://dev.to/dipe_/building-a-nodejs-api-using-the-twelve-factor-app-principles-1jd7)
-- [The Best CMS Platforms of 2025: Choosing the Right Content Management System](https://dev.to/minima_desk_cd9b151c4e2fb/the-best-cms-platforms-of-2025-choosing-the-right-content-management-system-6om)
+- [Mudança de Mentalidade: Do Paradigma Orientado a Objetos para o Funcional](https://dev.to/asouza/mudanca-de-mentalidade-do-paradigma-orientado-a-objetos-para-o-funcional-4l28)
+- [🛑 Chega de Pulos na Tela! Guia Prático para Eliminar o CLS &lpar;Cumulative Layout Shift&rpar; &lpar;Parte 3 de 3 sobre Core Web Vitals&rpar;](https://dev.to/santoslucas11/chega-de-pulos-na-tela-guia-pratico-para-eliminar-o-cls-cumulative-layout-shift-parte-3-de-3-nc1)
+- [🔒 Secure ROS2 Setup: Hardening Your Robot Project from the Start](https://dev.to/sebos/secure-ros2-setup-hardening-your-robot-project-from-the-start-448a)
+- [Automating Cross-Region Replication in AWS S3 Using Lambda Triggers](https://dev.to/glory_ugochukwu_57b6cf663/automating-cross-region-replication-in-aws-s3-using-lambda-triggers-18hk)
+- [Weekly #15-2025: An early look at PHP 9.0&#39;s, Javascript debug ids, A2A and more](https://dev.to/weekly/weekly-15-2025-an-early-look-at-php-90s-javascript-debug-ids-a2a-and-more-5cif)
 <!-- BLOG-POST-LIST:END -->
 
 ---
