@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Hyper-V VM 의 스위치에 고정 IP 부여하기](https://dev.to/devtester/hyper-v-vm-yi-seuwicie-gojeong-ip-buyeohagi-9gm)
-- [PHP 8.4’s array_find Function: Innovative and Practical, or Just a Nice-to-Have?](https://dev.to/mattyedwards/php-84s-arrayfind-function-innovative-and-practical-or-just-a-nice-to-have-48io)
-- [🚀 How I Hosted a Static Website on Azure &lpar;in Under 15 Minutes&rpar;](https://dev.to/vvakim/how-i-hosted-a-static-website-on-azure-in-under-15-minutes-3ala)
-- [Rust Tutorial: Mastering Strings with Real Examples](https://dev.to/ouma_ouma/rust-tutorial-mastering-strings-with-real-examples-pb1)
-- [Programming Fundamentals](https://dev.to/mr_wairimu/programming-fundamentals-j2k)
+- [Menggunakan spesial karakter password di WSO2 APIM](https://dev.to/agusmerdeko/menggunakan-spesial-karakter-password-di-wso2-apim-4ap2)
+- [Your Own Notion in a Weekend: Next.js Meets Ember Link](https://dev.to/elijah_johnson/your-own-notion-in-a-weekend-nextjs-meets-ember-link-43mc)
+- [Observability 2.0: The Future of Monitoring with OpenTelemetry](https://dev.to/yash_sonawane25/observability-20-the-future-of-monitoring-with-opentelemetry-1d10)
+- [Building a Multi-Room WebSocket Chat Server with User Presence in Node.js](https://dev.to/hexshift/building-a-multi-room-websocket-chat-server-with-user-presence-in-nodejs-1a3d)
+- [Mastering Real-Time Collaborative Editing with Yjs and WebSockets](https://dev.to/hexshift/mastering-real-time-collaborative-editing-with-yjs-and-websockets-12n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
