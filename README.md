@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Liman Çekirdek 2.2 Duyuruldu](https://dev.to/liman/liman-cekirdek-22-duyuruldu-1e1k)
-- [QuickLook ile Dosyaları Açmadan Önizle](https://dev.to/eagledfc/quicklook-ile-dosyalari-acmadan-onizle-2aab)
-- [LockHunter ile Silinmeyen Dosyaları Kökten Temizle](https://dev.to/eagledfc/lockhunter-ile-silinmeyen-dosyalari-kokten-temizle-53mm)
-- [Internal State: Not Evil, Just Misplaced](https://dev.to/myungsunrex/internal-state-not-evil-just-misplaced-20dh)
-- [Show me your AI side project](https://dev.to/nicolalessi/show-me-your-ai-side-project-omo)
+- [ECMAScript Proposals and the TC39 Process](https://dev.to/omriluz1/ecmascript-proposals-and-the-tc39-process-1p4k)
+- [SUA FUTURA IDE TEM ALGO INOVADOR!](https://dev.to/notmadebyahuman/sua-futura-ide-tem-algo-inovador-c35)
+- [Headless Tree is now available in Beta!](https://dev.to/lukasbach/headless-tree-is-now-available-in-beta-j62)
+- [[Research] Starting Web App in 2025: Vibe-coding, AI Agents…](https://dev.to/alesiasirotka/research-starting-web-app-in-2025-vibe-coding-ai-agents-5p8)
+- [Headless-Tree, and the Future of React-Complex-Tree](https://dev.to/lukasbach/headless-tree-and-the-future-of-react-complex-tree-33j5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
