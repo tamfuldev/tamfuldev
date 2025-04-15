@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Blog Draft Ai Technologies And Monetization Strategies 20250415 232449](https://dev.to/pponali/blog-draft-ai-technologies-and-monetization-strategies-20250415-232449-4l35)
-- [Docker compose - MariaDB -- EN](https://dev.to/xandecodes/docker-compose-mariadb-en-19pl)
-- [technological upheaval](https://dev.to/yesra_sajid_90cc25b86dcda/technological-upheaval-4f09)
-- [MCP uses a client-server architecture where:](https://dev.to/yesra_sajid_90cc25b86dcda/mcp-uses-a-client-server-architecture-where-2mob)
-- [CLI ou Client oque traz mais performance e produtividade no dia a dia ?](https://dev.to/ramondiniz27/cli-ou-client-oque-traz-mais-performance-e-produtividade-no-dia-a-dia--6oe)
+- [Liman Çekirdek 2.2 Duyuruldu](https://dev.to/liman/liman-cekirdek-22-duyuruldu-1e1k)
+- [QuickLook ile Dosyaları Açmadan Önizle](https://dev.to/eagledfc/quicklook-ile-dosyalari-acmadan-onizle-2aab)
+- [LockHunter ile Silinmeyen Dosyaları Kökten Temizle](https://dev.to/eagledfc/lockhunter-ile-silinmeyen-dosyalari-kokten-temizle-53mm)
+- [Internal State: Not Evil, Just Misplaced](https://dev.to/myungsunrex/internal-state-not-evil-just-misplaced-20dh)
+- [Show me your AI side project](https://dev.to/nicolalessi/show-me-your-ai-side-project-omo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
