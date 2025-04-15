@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [why remix.ide create arcifacts](https://dev.to/himero/why-remixide-create-arcifacts-2ead)
-- [Why 2025 Is Still a Great Year to Start Learning App Development &lpar;Even If It Feels Tough Right Now&rpar;](https://dev.to/aryanneupane/why-2025-is-still-a-great-year-to-start-learning-app-development-even-if-it-feels-tough-right-now-1emg)
-- [My first blog series Math behind ML](https://dev.to/god_of_geeks/my-first-blog-series-math-behind-ml-hpc)
-- [Virtual Tables in Dynamics 365 CE: Real-Time Integration with FinOps Invoices](https://dev.to/nikhildynamicsce/virtual-tables-in-dynamics-365-ce-real-time-integration-with-finops-invoices-6e7)
-- [I built my own UI library for Next.js — Feedback Appreciated!](https://dev.to/mihir_jaiswal/i-built-my-own-ui-library-for-nextjs-feedback-appreciated-a20)
+- [How to build SER model?](https://dev.to/joepaulvilsan_7/how-to-build-ser-model-23da)
+- [Top 9 React JS Frameworks Developers Are Using in 2025](https://dev.to/brilworks/top-9-react-js-frameworks-developers-are-using-in-2025-4ff)
+- [Top 10 Icon Libraries for Next.js - 2025](https://dev.to/icons/icon-libraries-for-nextjs-1915)
+- [Boost your developer productivity and streamline your workflow with Kanban boards—discover step-by-step setup tips, real-world examples](https://dev.to/nikhil_sachapara/boost-your-developer-productivity-and-streamline-your-workflow-with-kanban-boards-discover-de6)
+- [Tableau to Power BI: Understanding Data Model Differences](https://dev.to/tableautopowerbimigration/tableau-to-power-bi-understanding-data-model-differences-3pcb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
