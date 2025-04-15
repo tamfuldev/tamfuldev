@@ -16,7 +16,7 @@
 # Latest stack oveflow activity
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><tr><td>string type fractional values need to be stored in table, calculated, and then display in laravel</td><td>https://stackoverflow.com/questions/79576098/string-type-fractional-values-need-to-be-stored-in-table-calculated-and-then-d</td></tr><tr><td>Session start globally vs per page</td><td>https://stackoverflow.com/questions/79575990/session-start-globally-vs-per-page</td></tr><tr><td>PHP PDO: Named Parameter in LIKE clause [duplicate]</td><td>https://stackoverflow.com/questions/79575913/php-pdo-named-parameter-in-like-clause</td></tr><tr><td>Why is this very simple form not posting</td><td>https://stackoverflow.com/questions/79575906/why-is-this-very-simple-form-not-posting</td></tr><tr><td>Stripe amount not shown</td><td>https://stackoverflow.com/questions/79575849/stripe-amount-not-shown</td></tr><!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:START --><tr><td>How can I host laravel react app on shared hosting</td><td>https://stackoverflow.com/questions/79576133/how-can-i-host-laravel-react-app-on-shared-hosting</td></tr><tr><td>Session start globally vs per page</td><td>https://stackoverflow.com/questions/79575990/session-start-globally-vs-per-page</td></tr><tr><td>PHP PDO: Named Parameter in LIKE clause [duplicate]</td><td>https://stackoverflow.com/questions/79575913/php-pdo-named-parameter-in-like-clause</td></tr><tr><td>Why is this very simple form not posting</td><td>https://stackoverflow.com/questions/79575906/why-is-this-very-simple-form-not-posting</td></tr><tr><td>Stripe amount not shown</td><td>https://stackoverflow.com/questions/79575849/stripe-amount-not-shown</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 
 ---
