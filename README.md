@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing PostgreSQL Queries With Indexes: A Deep Dive](https://dev.to/hexshift/optimizing-postgresql-queries-with-indexes-a-deep-dive-3gb7)
-- [Is BCA the Right Tech Degree for You? A Developer’s Guide to the Bachelor of Computer Applications](https://dev.to/rakshasingh12/is-bca-the-right-tech-degree-for-you-a-developers-guide-to-the-bachelor-of-computer-applications-2fe6)
-- [Form I-9 Instructions for CPT &amp; OPT Students](https://dev.to/emily_e832cc7d5902e1223ee/form-i-9-instructions-for-cpt-opt-students-4529)
-- [Clean Architecture in Frontend Applications. Transaction](https://dev.to/harunou/clean-architecture-in-frontend-applications-transaction-4ma2)
-- [Hello From Newbies!](https://dev.to/melody_nwaogu_798c52c4ea6/hello-from-newbies-28ld)
+- [CloudTest Pro – Enterprise-Grade Performance and Functional Testing](https://dev.to/berthaw82414312/cloudtest-pro-enterprise-grade-performance-and-functional-testing-1bop)
+- [I made the world 1shopping AI chatbot, by MCP like approach, and avoided pink slip](https://dev.to/samchon/i-made-the-world-first-shopping-ai-chatbot-by-mcp-like-approach-and-avoided-pink-slip-5f5m)
+- [Are LLMs Just ETL Pipelines on Steroids? Rethinking AI Training](https://dev.to/ayazmirza54/are-llms-just-etl-pipelines-on-steroids-rethinking-ai-training-1i0c)
+- [Mastering Linux File Permissions: The Ultimate Guide.](https://dev.to/vishnutejas/mastering-linux-file-permissions-the-ultimate-guide-4223)
+- [Debugging in Python: Turning Errors into Opportunities 🚫➡️✅](https://dev.to/vigneswaran_m_091af47bab8/debugging-in-python-turning-errors-into-opportunities-2ll)
 <!-- BLOG-POST-LIST:END -->
 
 ---
