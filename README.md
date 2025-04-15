@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Menggunakan spesial karakter password di WSO2 APIM](https://dev.to/agusmerdeko/menggunakan-spesial-karakter-password-di-wso2-apim-4ap2)
-- [Your Own Notion in a Weekend: Next.js Meets Ember Link](https://dev.to/elijah_johnson/your-own-notion-in-a-weekend-nextjs-meets-ember-link-43mc)
-- [Observability 2.0: The Future of Monitoring with OpenTelemetry](https://dev.to/yash_sonawane25/observability-20-the-future-of-monitoring-with-opentelemetry-1d10)
-- [Building a Multi-Room WebSocket Chat Server with User Presence in Node.js](https://dev.to/hexshift/building-a-multi-room-websocket-chat-server-with-user-presence-in-nodejs-1a3d)
-- [Mastering Real-Time Collaborative Editing with Yjs and WebSockets](https://dev.to/hexshift/mastering-real-time-collaborative-editing-with-yjs-and-websockets-12n)
+- [Stack Memory vs. Heap Memory](https://dev.to/abhishek_gupta_f080622fe3/stack-memory-vs-heap-memory-47ii)
+- [9 Ways Palm Vein Recognition Enhances Public Safety and Security](https://dev.to/faceplugin/9-ways-palm-vein-recognition-enhances-public-safety-and-security-3jfj)
+- [Building a Text-to-Image NSFW AI Image Generator with Next.js and Sentry](https://dev.to/ficav/building-a-text-to-image-nsfw-ai-image-generator-with-nextjs-and-sentry-2fd3)
+- [JavaScript Memory Management](https://dev.to/coder_studios/javascript-memory-management-15m4)
+- [MCP+Database: A New Approach with Better Retrieval Effects Than RAG!](https://dev.to/platypus98/mcpdatabase-a-new-approach-with-better-retrieval-effects-than-rag-14gk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
