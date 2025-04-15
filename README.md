@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Customize Widgets in Django Forms](https://dev.to/guzmanojero/how-to-customize-widgets-in-django-forms-51n9)
-- [Exploring elixir processes using merge sort](https://dev.to/w3ndo/exploring-elixir-processes-using-merge-sort-27m2)
-- [Unlocking the Power of Vim: A Beginner’s Journey to Efficient, Mindful Editing](https://dev.to/ibrahim_morakinyo_8f47965/unlocking-the-power-of-vim-a-beginners-journey-to-efficient-mindful-editing-14gh)
-- [Can AI Be the Perfect Companion? How AI Chatbots Are Redefining Relationships](https://dev.to/carl_tyson/can-ai-be-the-perfect-companion-how-ai-chatbots-are-redefining-relationships-4c1k)
-- [With ghosting being a thing, it&#39;s no wonder that people seek companionship in all of the wrong placesAI, for example.](https://dev.to/kennedy-gabriel/with-ghosting-being-a-thing-its-no-wonder-that-people-seek-companionship-in-all-of-the-wrong-4643)
+- [Hyper-V VM 의 스위치에 고정 IP 부여하기](https://dev.to/devtester/hyper-v-vm-yi-seuwicie-gojeong-ip-buyeohagi-9gm)
+- [PHP 8.4’s array_find Function: Innovative and Practical, or Just a Nice-to-Have?](https://dev.to/mattyedwards/php-84s-arrayfind-function-innovative-and-practical-or-just-a-nice-to-have-48io)
+- [🚀 How I Hosted a Static Website on Azure &lpar;in Under 15 Minutes&rpar;](https://dev.to/vvakim/how-i-hosted-a-static-website-on-azure-in-under-15-minutes-3ala)
+- [Rust Tutorial: Mastering Strings with Real Examples](https://dev.to/ouma_ouma/rust-tutorial-mastering-strings-with-real-examples-pb1)
+- [Programming Fundamentals](https://dev.to/mr_wairimu/programming-fundamentals-j2k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
