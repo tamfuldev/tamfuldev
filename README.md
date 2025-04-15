@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to build SER model?](https://dev.to/joepaulvilsan_7/how-to-build-ser-model-23da)
-- [Top 9 React JS Frameworks Developers Are Using in 2025](https://dev.to/brilworks/top-9-react-js-frameworks-developers-are-using-in-2025-4ff)
-- [Top 10 Icon Libraries for Next.js - 2025](https://dev.to/icons/icon-libraries-for-nextjs-1915)
-- [Boost your developer productivity and streamline your workflow with Kanban boards—discover step-by-step setup tips, real-world examples](https://dev.to/nikhil_sachapara/boost-your-developer-productivity-and-streamline-your-workflow-with-kanban-boards-discover-de6)
-- [Tableau to Power BI: Understanding Data Model Differences](https://dev.to/tableautopowerbimigration/tableau-to-power-bi-understanding-data-model-differences-3pcb)
+- [Protobuf vs JSON: Performance, Efficiency, and API Optimization](https://dev.to/getambassador2024/protobuf-vs-json-performance-efficiency-and-api-optimization-2nkl)
+- [SQL Basics: SELECT, INSERT, UPDATE, and DELETE Explained](https://dev.to/be11amer/sql-basics-select-insert-update-and-delete-explained-1cgf)
+- [Prefabrication and Modular Construction: The Future of Smart, Sustainable Building](https://dev.to/artee091842/prefabrication-and-modular-construction-the-future-of-smart-sustainable-building-5c79)
+- [wawa-vfx: Open-Source VFX + Particle System for React Three Fiber Projects](https://dev.to/wawasensei/wawa-vfx-open-source-vfx-particle-system-for-react-three-fiber-projects-151l)
+- [What is a 3D website? Explanation for beginners](https://dev.to/wawasensei/what-is-a-3d-website-explanation-for-beginners-3m3h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
