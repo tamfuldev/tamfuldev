@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stack Memory vs. Heap Memory](https://dev.to/abhishek_gupta_f080622fe3/stack-memory-vs-heap-memory-47ii)
-- [9 Ways Palm Vein Recognition Enhances Public Safety and Security](https://dev.to/faceplugin/9-ways-palm-vein-recognition-enhances-public-safety-and-security-3jfj)
-- [Building a Text-to-Image NSFW AI Image Generator with Next.js and Sentry](https://dev.to/ficav/building-a-text-to-image-nsfw-ai-image-generator-with-nextjs-and-sentry-2fd3)
-- [JavaScript Memory Management](https://dev.to/coder_studios/javascript-memory-management-15m4)
-- [MCP+Database: A New Approach with Better Retrieval Effects Than RAG!](https://dev.to/platypus98/mcpdatabase-a-new-approach-with-better-retrieval-effects-than-rag-14gk)
+- [why remix.ide create arcifacts](https://dev.to/himero/why-remixide-create-arcifacts-2ead)
+- [Why 2025 Is Still a Great Year to Start Learning App Development &lpar;Even If It Feels Tough Right Now&rpar;](https://dev.to/aryanneupane/why-2025-is-still-a-great-year-to-start-learning-app-development-even-if-it-feels-tough-right-now-1emg)
+- [My first blog series Math behind ML](https://dev.to/god_of_geeks/my-first-blog-series-math-behind-ml-hpc)
+- [Virtual Tables in Dynamics 365 CE: Real-Time Integration with FinOps Invoices](https://dev.to/nikhildynamicsce/virtual-tables-in-dynamics-365-ce-real-time-integration-with-finops-invoices-6e7)
+- [I built my own UI library for Next.js — Feedback Appreciated!](https://dev.to/mihir_jaiswal/i-built-my-own-ui-library-for-nextjs-feedback-appreciated-a20)
 <!-- BLOG-POST-LIST:END -->
 
 ---
