@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Built a 2d collision simulator](https://dev.to/noltekcar/built-a-2d-collision-simulator-pg2)
-- [Hidden Classes and Inline Caches in V8](https://dev.to/omriluz1/hidden-classes-and-inline-caches-in-v8-43dd)
-- [Build a Simple File Compressor with Node.js in 10 Minutes](https://dev.to/arbythecoder/build-a-simple-file-compressor-with-nodejs-in-10-minutes-3n4)
-- [[Boost]](https://dev.to/dominque_terry_852760387b/-3cbm)
-- [Debugging a 500 Error in Amplify Gen 2 SSR with DynamoDB &lpar;Solved&rpar;](https://dev.to/soulsbossdev/debugging-a-500-error-in-amplify-gen-2-ssr-with-dynamodb-solved-m50)
+- [Sprint 5 - Chakra UI v3 Migration](https://dev.to/theoforger/sprint-5-chakra-ui-v3-migration-4pfi)
+- [I Built a Birthday Party Planner App with Next.js](https://dev.to/kakimaru/i-built-a-birthday-party-planner-app-with-nextjs-2gpo)
+- [Dica Java: Use o ciclo de vida do UT! #005](https://dev.to/oigorrudel/dica-java-use-o-ciclo-de-vida-do-ut-005-3648)
+- [🤖 How to Force Cursor AI Agents into 🧑‍🎓 Always following Project Rules using 💡 Auto-Rule Generation Techniques](https://dev.to/ultrawideturbodevs/how-to-force-cursor-ai-agents-into-always-following-project-rules-using-auto-rule-2ilk)
+- [Ready to become a real developer study -day01](https://dev.to/qianwen_guo/ready-to-become-a-real-developer-study-day01-3lbd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
