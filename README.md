@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Diving into Spring Web Services &lpar;Spring-WS&rpar;: Contract-First SOAP Service Development](https://dev.to/codereacher_20b8a/diving-into-spring-web-services-spring-ws-contract-first-soap-service-development-2227)
-- [Automate Semantic Versioning and Tagging with a Git Hook](https://dev.to/elpalomo/automate-semantic-versioning-and-tagging-with-a-git-hook-577b)
-- [PanguSync: A High-Performance Database Synchronization Tool](https://dev.to/pangucore/pangusync-a-high-performance-database-synchronization-tool-285e)
-- [Newbie](https://dev.to/lindsey_ekallal_995d187d/newbie-20m0)
-- [Feature Engineering: A Practical Guide to Doing It Right](https://dev.to/echo9k/feature-engineering-a-practical-guide-to-doing-it-right-1f1j)
+- [Adaptive Compression for Cache Systems with Hexagonal Architecture](https://dev.to/aws-builders/adaptive-compression-for-cache-systems-with-hexagonal-architecture-560e)
+- [Welcome Thread - v322](https://dev.to/devteam/welcome-thread-v322-g8h)
+- [Programing session Armstrang Number](https://dev.to/sugumar_r_a5f301adf1fb49a/programing-session-armstrang-number-55gn)
+- [Top 10+ Tailwind Plus &lpar;Tailwind UI&rpar; Alternatives - 2025](https://dev.to/tailwindcss/tailwind-plus-alternatives-g0l)
+- [suggestedActions component in vercel/ai-chatbot source code.](https://dev.to/ramunarasinga-11/suggestedactions-component-in-vercelai-chatbot-source-code-43g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
