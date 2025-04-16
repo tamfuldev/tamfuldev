@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built my own analytics tool out of frustration — and now I’m stuck at 7 users](https://dev.to/yousifpa98/i-built-my-own-analytics-tool-out-of-frustration-and-now-im-stuck-at-7-users-gim)
-- [Understanding AI&#39;s Role in Personalized Content Generation](https://dev.to/kartikmehta8/understanding-ais-role-in-personalized-content-generation-4cjk)
-- [🤖 Build &quot;Dhanian AI&quot; — A Simple AI Chatbot to Debug Code and Find Coding Solutions](https://dev.to/code_2/build-dhanian-ai-a-simple-ai-chatbot-to-debug-code-and-find-coding-solutions-pmp)
-- [💻 Da TI ao Código: Minha Transição de Suporte para Dev](https://dev.to/manudresch/-da-ti-ao-codigo-minha-transicao-de-suporte-para-dev-3g86)
-- [Здесь русский язык или Украинский есть???Ядебил…не могу](https://dev.to/__2dec8ad55/zdies-russkii-iazyk-ili-ukrainskii-iestiadiebilnie-moghu-1pk8)
+- [Find the Superset from the Relationship Table — From SQL to SPL #19](https://dev.to/judith677/find-the-superset-from-the-relationship-table-from-sql-to-spl-19-1p4o)
+- [WebAssembly &lpar;Wasm&rpar; in DevOps: Why It’s the Next Big Thing](https://dev.to/yash_sonawane25/webassembly-wasm-in-devops-why-its-the-next-big-thing-4m76)
+- [Databricks Asset Bundle: A Template to Make Life Easier](https://dev.to/sacode/databricks-asset-bundle-a-template-to-make-life-easier-13f2)
+- [What’s Pythonic way to handle exceptions?](https://dev.to/the_medicaltreasure_cf3a/whats-pythonic-way-to-handle-exceptions-115e)
+- [Problems with Time-Based Code &amp; How Fake Clocks Solve Them](https://dev.to/mohammadzeyaahmad/problems-with-time-based-code-how-fake-clocks-solve-them-50de)
 <!-- BLOG-POST-LIST:END -->
 
 ---
