@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Clean code , Clear Mind](https://dev.to/mehfila_parkkulthil_23/clean-code-clear-mind-281)
-- [Analisis de](https://dev.to/david_bermenvliz/analisis-de-1eef)
-- [3D Renderer in C - Full Screen Window](https://dev.to/justinhhorner/3d-renderer-in-c-full-screen-window-mbp)
-- [Building a Real-Time AI Fraud Detection System with Spring Kafka and MongoDB](https://dev.to/mongodb/building-a-real-time-ai-fraud-detection-system-with-spring-kafka-and-mongodb-2jbn)
-- [Build AI Agents Fast with DDE Agents](https://dev.to/dde64bit/build-ai-agents-fast-with-dde-agents-11pd)
+- [Surviving the Wild: 36 Days in the Amazon Jungle](https://dev.to/getjv/surviving-the-wild-36-days-in-the-amazon-jungle-36cd)
+- [How to write a java program?](https://dev.to/shrinidhi_s/how-to-write-a-java-program-52hm)
+- [Blog Draft Ai Technologies Analysis And Monetization Strategies 20250416 201752](https://dev.to/pponali/blog-draft-ai-technologies-analysis-and-monetization-strategies-20250416-201752-1ld8)
+- [Create AI-Powered Store Assistant Bot for Natural Language Inventory queries using BigQuery, Firestore, GFCs, and Vertex AI](https://dev.to/aqibnawazdev/create-ai-powered-store-assistant-bot-for-natural-language-inventory-queries-using-bigquery-2nnd)
+- [Hello dear community, I am looking for someone who can create a bot or a script in Java, Selenium, etc, to make a click instantly on a button that appears when a new request pop up. I am open to hear any option or alternatives. Best, Guirion.](https://dev.to/guido_millo_30e7b9df9a47f/hello-dear-community-i-am-looking-for-someone-who-can-create-a-bot-or-a-script-in-java-selenium-j10)
 <!-- BLOG-POST-LIST:END -->
 
 ---
