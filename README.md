@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Odoo Customization Empowers Your Business with Tailored ERP Solutions](https://dev.to/bhavesh_gangani_/how-odoo-customization-empowers-your-business-with-tailored-erp-solutions-8mj)
-- [🧙‍♂️ If Harry Potter Used TypeScript – A Magical Guide to Types](https://dev.to/raajaryan/if-harry-potter-used-typescript-a-magical-guide-to-types-d3m)
-- [Joy Sutradhar](https://dev.to/joy_sutrdhar/joy-sutradhar-1ne7)
-- [Kotlin + gRPC: Enhance Protobuf schema design with Optional, Repeated, Maps, Enums, Oneof and backwards compatibility](https://dev.to/lucasfugisawa/kotlin-grpc-enhance-protobuf-schema-design-with-optional-repeated-maps-enums-oneof-and-30kd)
-- [Speed Up Your Website with InstantClick](https://dev.to/blamsa0mine/speed-up-your-website-with-instantclick-2i05)
+- [I built a Mental Math version of Monkeytype! Feedback appreciated!](https://dev.to/om3x4/i-built-a-mental-math-version-of-monkeytype-feedback-appreciated-4nhb)
+- [Power Apps - Canvas - Formula Bar Anatomy](https://dev.to/_follone/power-apps-canvas-formula-bar-anatomy-1h0n)
+- [✅ 𝗙𝗶𝘅𝗲𝗱 𝗮 𝗙𝗼𝗿𝗲𝗶𝗴𝗻 𝗞𝗲𝘆 𝗖𝗼𝗻𝘀𝘁𝗿𝗮𝗶𝗻𝘁 𝗘𝗿𝗿𝗼𝗿 𝗶𝗻 𝗔𝗦𝗣.𝗡𝗘𝗧 𝗖𝗼𝗿𝗲 &lpar;𝗘𝗙 𝗖𝗼𝗿𝗲&rpar;](https://dev.to/supraja_tangella_b7f0738e/--4dkn)
+- [Write Code Like A Pro: Mastering The SOLID Principles](https://dev.to/gauravdalvi/write-code-like-a-pro-mastering-the-solid-principles-e8)
+- [what is use of ESLint ?](https://dev.to/tahir_rafique/what-is-use-of-eslint--412c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
