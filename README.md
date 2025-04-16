@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Typescript to Know for React](https://dev.to/_ndeyefatoudiop/typescript-to-know-for-react-2p02)
-- [⏰ Time-Travelling JavaScript, Smart CSS Cursors &amp; Product Team Tips](https://dev.to/adam/time-travelling-javascript-smart-css-cursors-product-team-tips-4no2)
-- [Digitlo – Exploring Digital Assets, Blockchain, and Tech Trends](https://dev.to/mantasha_faheemuddin_8a32/digitlo-exploring-digital-assets-blockchain-and-tech-trends-56n7)
-- [Mastering AWS Cost Optimization: Practical Tips to Save Big!](https://dev.to/aws-builders/mastering-aws-cost-optimization-practical-tips-to-save-big-3cao)
-- [LAMP Stack &lpar;WEB STACK&rpar; Implementation in AWS](https://dev.to/uwadon1/lamp-stack-web-stack-implementation-in-aws-54h3)
+- [How Odoo Customization Empowers Your Business with Tailored ERP Solutions](https://dev.to/bhavesh_gangani_/how-odoo-customization-empowers-your-business-with-tailored-erp-solutions-8mj)
+- [🧙‍♂️ If Harry Potter Used TypeScript – A Magical Guide to Types](https://dev.to/raajaryan/if-harry-potter-used-typescript-a-magical-guide-to-types-d3m)
+- [Joy Sutradhar](https://dev.to/joy_sutrdhar/joy-sutradhar-1ne7)
+- [Kotlin + gRPC: Enhance Protobuf schema design with Optional, Repeated, Maps, Enums, Oneof and backwards compatibility](https://dev.to/lucasfugisawa/kotlin-grpc-enhance-protobuf-schema-design-with-optional-repeated-maps-enums-oneof-and-30kd)
+- [Speed Up Your Website with InstantClick](https://dev.to/blamsa0mine/speed-up-your-website-with-instantclick-2i05)
 <!-- BLOG-POST-LIST:END -->
 
 ---
