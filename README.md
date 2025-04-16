@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Surviving the Wild: 36 Days in the Amazon Jungle](https://dev.to/getjv/surviving-the-wild-36-days-in-the-amazon-jungle-36cd)
-- [How to write a java program?](https://dev.to/shrinidhi_s/how-to-write-a-java-program-52hm)
-- [Blog Draft Ai Technologies Analysis And Monetization Strategies 20250416 201752](https://dev.to/pponali/blog-draft-ai-technologies-analysis-and-monetization-strategies-20250416-201752-1ld8)
-- [Create AI-Powered Store Assistant Bot for Natural Language Inventory queries using BigQuery, Firestore, GFCs, and Vertex AI](https://dev.to/aqibnawazdev/create-ai-powered-store-assistant-bot-for-natural-language-inventory-queries-using-bigquery-2nnd)
-- [Hello dear community, I am looking for someone who can create a bot or a script in Java, Selenium, etc, to make a click instantly on a button that appears when a new request pop up. I am open to hear any option or alternatives. Best, Guirion.](https://dev.to/guido_millo_30e7b9df9a47f/hello-dear-community-i-am-looking-for-someone-who-can-create-a-bot-or-a-script-in-java-selenium-j10)
+- [Add a Transcription to Your Video using Next.js](https://dev.to/engroso/add-a-transcription-to-your-video-using-nextjs-2815)
+- [Create a Custom Playground to your LLM application](https://dev.to/agenta/create-a-custom-playground-to-your-llm-application-21j0)
+- [Exploring how student innovators benefit from attending global artificial intelligence summits](https://dev.to/marufhossain/exploring-how-student-innovators-benefit-from-attending-global-artificial-intelligence-summits-4dek)
+- [Let&#39;s go!](https://dev.to/ben/lets-go-4kp5)
+- [My understanding Access modifier 🔐](https://dev.to/elayaraj_c_04396748f52a1c/my-understanding-access-modifier-555f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
