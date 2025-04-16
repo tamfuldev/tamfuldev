@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Find the Superset from the Relationship Table — From SQL to SPL #19](https://dev.to/judith677/find-the-superset-from-the-relationship-table-from-sql-to-spl-19-1p4o)
-- [WebAssembly &lpar;Wasm&rpar; in DevOps: Why It’s the Next Big Thing](https://dev.to/yash_sonawane25/webassembly-wasm-in-devops-why-its-the-next-big-thing-4m76)
-- [Databricks Asset Bundle: A Template to Make Life Easier](https://dev.to/sacode/databricks-asset-bundle-a-template-to-make-life-easier-13f2)
-- [What’s Pythonic way to handle exceptions?](https://dev.to/the_medicaltreasure_cf3a/whats-pythonic-way-to-handle-exceptions-115e)
-- [Problems with Time-Based Code &amp; How Fake Clocks Solve Them](https://dev.to/mohammadzeyaahmad/problems-with-time-based-code-how-fake-clocks-solve-them-50de)
+- [Diving into Spring Web Services &lpar;Spring-WS&rpar;: Contract-First SOAP Service Development](https://dev.to/codereacher_20b8a/diving-into-spring-web-services-spring-ws-contract-first-soap-service-development-2227)
+- [Automate Semantic Versioning and Tagging with a Git Hook](https://dev.to/elpalomo/automate-semantic-versioning-and-tagging-with-a-git-hook-577b)
+- [PanguSync: A High-Performance Database Synchronization Tool](https://dev.to/pangucore/pangusync-a-high-performance-database-synchronization-tool-285e)
+- [Newbie](https://dev.to/lindsey_ekallal_995d187d/newbie-20m0)
+- [Feature Engineering: A Practical Guide to Doing It Right](https://dev.to/echo9k/feature-engineering-a-practical-guide-to-doing-it-right-1f1j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
