@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/uliyahoo/-gh1)
-- [From Zero to Hero: How I Tricked AI into Building My Startup MVP in 24 Hours](https://dev.to/sakethkowtha/from-zero-to-hero-how-i-tricked-ai-into-building-my-startup-mvp-in-24-hours-3np1)
-- [🧃 Just Me, C++ &amp; the STL](https://dev.to/hrdxh/just-me-c-the-stl-38je)
-- [Cloudflare Tunnel vs. ngrok vs. Tailscale: Choosing the Right Secure Tunneling Solution](https://dev.to/mechcloud_academy/cloudflare-tunnel-vs-ngrok-vs-tailscale-choosing-the-right-secure-tunneling-solution-4inm)
-- [🔮 The Top 10 Programming Languages to Master for 2025](https://dev.to/theodor_coin_4/the-top-10-programming-languages-to-master-for-2025-1ddm)
+- [S3&#39;s Evolution: Key Points from AWS&#39;s Pi Day Blog Post](https://dev.to/aws-builders/s3s-evolution-key-points-from-awss-pi-day-blog-post-5a1)
+- [Non-Access Modifiers in Java](https://dev.to/sudhakar_v_c404997aeec839/non-access-modifiers-in-java-lal)
+- [Want to learn coding](https://dev.to/lalaee/want-to-learn-coding-5bi5)
+- [How to Build Your Own AI People Research Agent using Supercog Agentic Framework 🔍](https://dev.to/emmakodes_/how-to-build-your-own-ai-people-research-agent-using-supercog-agentic-framework-25ac)
+- [Testing Angular Components with Children using Jest](https://dev.to/fransaoco/testing-angular-components-with-children-using-jest-405f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
