@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 Best Practices for Managing State in React](https://dev.to/hasunnilupul/best-practices-for-managing-state-in-react-1clg)
-- [Mastering SQLite: Efficient Database Management Tips](https://dev.to/stealthstephen/mastering-sqlite-efficient-database-management-tips-2nkj)
-- [Warren Buffett’s “2 List” strategy isn’t just for investors—developers can use it to cut distractions, focus on what matters, and ship better code, faster.](https://dev.to/pratham_naik_project_manager/warren-buffetts-2-list-strategy-isnt-just-for-investors-developers-can-use-it-to-cut-lj8)
-- [IOT: How to Collect ESP8266 Sensor Hardware Metrics with Home Assistant](https://dev.to/admantium/iot-how-to-collect-esp8266-sensor-hardware-metrics-with-home-assistant-1apc)
-- [How to Serve a Laravel Project on Your Local Network](https://dev.to/ankitvermaonline/how-to-serve-a-laravel-project-on-your-local-network-33o9)
+- [Advanced Guide to Kubernetes Secrets and ConfigMaps](https://dev.to/getambassador2024/advanced-guide-to-kubernetes-secrets-and-configmaps-4h4f)
+- [30Day- SOC challenge Day 4 &amp; 5](https://dev.to/https_aneesah/30day-soc-challenge-day-4-5-2mk9)
+- [Intelligent Support Ticket Routing with Natural Language Processing &lpar;NLP&rpar;](https://dev.to/fortune-ndlovu/intelligent-support-ticket-routing-with-natural-language-processing-nlp-57g1)
+- [Unlocking Event-Driven Architectures with Amazon EventBridge](https://dev.to/shivanshu_sharma_81a7cd55/unlocking-event-driven-architectures-with-amazon-eventbridge-5455)
+- [Explore the React JS course with Fusion Software Institute.](https://dev.to/sagarheddurshetty_vionsys/explore-the-react-js-course-with-fusion-software-institute-2cam)
 <!-- BLOG-POST-LIST:END -->
 
 ---
