@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What is DAX? Amazon DynamoDB Accelerator Explained](https://dev.to/leonardkachi/what-is-dax-amazon-dynamodb-accelerator-explained-10al)
-- [POS Terminals: Fintech Reinvented](https://dev.to/rapyd/pos-terminals-fintech-reinvented-2ipf)
-- [Kaltrinkeda e o BS Studio+](https://dev.to/notmadebyahuman/kaltrinkeda-e-o-bs-studio-2d70)
-- [Building a Student REST API with Flask and Docker](https://dev.to/techondiapers/building-a-student-rest-api-with-flask-and-docker-42en)
-- [Tools and Techniques That Help Me Stay Productive as a Developer](https://dev.to/alekswheeler/tools-and-techniques-that-help-me-stay-productive-as-a-developer-382b)
+- [What Does a2ensite Do and Why Is It Important for Apache?](https://dev.to/axisinfo_0a61830e06c3c950/what-does-a2ensite-do-and-why-is-it-important-for-apache-134d)
+- [I&#39;m a Software Engineer exploring a shift to Technical PM. I wrote a short blog on how Pinterest could improve user experience with a simple filter + AI. Feedback or tips from SEs-turned-PMs are welcome! Link - https://www.blogger.com/blog/stats/week/1237](https://dev.to/aakansha_arora_23423b2e78/im-a-software-engineer-exploring-a-shift-to-technical-pm-i-wrote-a-short-blog-on-how-pinterest-428n)
+- [JSX in React: Writing HTML Inside JavaScript Explained](https://dev.to/tene/jsx-in-react-writing-html-inside-javascript-explained-17m2)
+- [🛠️ Copying and Moving Data Between Tables in ClickHouse &lpar;with Different Engines&rpar;](https://dev.to/ranjbaryshahab/copying-and-moving-data-between-tables-in-clickhouse-with-different-engines-3kj0)
+- [GitHub Issues or GitHub Discussions? What&#39;s the difference, and when should you use each one?](https://dev.to/mishmanners/github-issues-or-github-discussions-whats-the-difference-and-when-should-you-use-each-one-4lhd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
