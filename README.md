@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [S3&#39;s Evolution: Key Points from AWS&#39;s Pi Day Blog Post](https://dev.to/aws-builders/s3s-evolution-key-points-from-awss-pi-day-blog-post-5a1)
-- [Non-Access Modifiers in Java](https://dev.to/sudhakar_v_c404997aeec839/non-access-modifiers-in-java-lal)
-- [Want to learn coding](https://dev.to/lalaee/want-to-learn-coding-5bi5)
-- [How to Build Your Own AI People Research Agent using Supercog Agentic Framework 🔍](https://dev.to/emmakodes_/how-to-build-your-own-ai-people-research-agent-using-supercog-agentic-framework-25ac)
-- [Testing Angular Components with Children using Jest](https://dev.to/fransaoco/testing-angular-components-with-children-using-jest-405f)
+- [RoboRescue Puzzle . A logic-based grid navigation game](https://dev.to/adonaitechnologies/roborescue-puzzle-a-logic-based-grid-navigation-game-mgi)
+- [Rogue Domain Controller Detection in Cloud Identity Infrastructure](https://dev.to/kapusto/rogue-domain-controller-detection-in-cloud-identity-infrastructure-58k5)
+- [Calling all engineers we&#39;re hosting a Tech Meetup! Join us for an evening of code, conversation, and - good food! discussion on How to Build Systems That Don’t Need a Prompt, led by speaker and CTO Scott Ryder: RSVP: https://forms.gle/1DziWb1zaMVqXcee6](https://dev.to/sydney_rousso_18e87ce962b/calling-all-engineers-were-hosting-a-tech-meetup-join-us-for-an-evening-of-code-conversation-25j0)
+- [Building an Artificial Neural Network to make Predictions with Machine Learning.](https://dev.to/thekalderon/building-an-artificial-neural-network-to-make-predictions-with-machine-learning-5bpf)
+- [iOS Picture in Picture &lpar;PiP&rpar; Implementation Guide](https://dev.to/sylar/ios-picture-in-picture-pip-implementation-guide-3b56)
 <!-- BLOG-POST-LIST:END -->
 
 ---
