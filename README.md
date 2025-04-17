@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Google Cloud Next 2025: Day 2](https://dev.to/googleworkspace/google-cloud-next-2025-day-2-2e0e)
-- [SPO600 Project Stage 3: Wrapping it Up](https://dev.to/jpjpjp/spo600-project-stage-3-wrapping-it-up-2422)
-- [Linux Commands You Should Avoid Like the Plague &lpar;Especially in Red Hat RHEL9&rpar;](https://dev.to/higgs182092/linux-commands-you-should-avoid-like-the-plague-especially-in-red-hat-rhel9-4goj)
-- [My Backend Stack Is Just TypeScript + Postgres. Here’s Why That’s Enough](https://dev.to/shayy/my-backend-stack-is-just-typescript-postgres-heres-why-thats-enough-1pni)
-- [Featured as one of the best hindi-speaking nestjs freelancers to hire in 2025 on Contra.](https://dev.to/sahilrana/featured-as-one-of-the-best-hindi-speaking-nestjs-freelancers-to-hire-in-2025-on-contra-5104)
+- [Pizza Radar🍕: Finding Pizzerias in Panama City with LinkedLists](https://dev.to/thecoder507/pizza-radar-finding-pizzerias-in-panama-city-with-linkedlists-3ogh)
+- [Build a Simple ToDo App with React and GraphQL](https://dev.to/ayas_tech_2b0560ee159e661/build-a-simple-todo-app-with-react-and-graphql-27f2)
+- [Simbora de teste](https://dev.to/piluvitu/simbora-de-teste-54c5)
+- [Pub-sub pattern - components communication in React](https://dev.to/mohsen_khademhoseini_c0d/pub-sub-pattern-components-communication-in-react-1gl9)
+- [Spring Boot and Java 24: What Developers Need to Know in 2025](https://dev.to/initialm503/spring-boot-and-java-24-what-developers-need-to-know-in-2025-3jae)
 <!-- BLOG-POST-LIST:END -->
 
 ---
