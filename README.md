@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Level up your TypeScript with Record types](https://dev.to/logrocket/level-up-your-typescript-with-record-types-188k)
-- [LangChain vs LangGraph: The Epic Showdown You Didn&#39;t Know You Needed](https://dev.to/sakethkowtha/langchain-vs-langgraph-the-epic-showdown-you-didnt-know-you-needed-3ll1)
-- [How Injector ML Changes the Mobile Legends Meta for Casual Players](https://dev.to/james9420/how-injector-ml-changes-the-mobile-legends-meta-for-casual-players-7hh)
-- [Rethinking Authorization in the Age of AI Agents](https://dev.to/pomerium/rethinking-authorization-in-the-age-of-ai-agents-110c)
-- [Chain of LLMs: A Collaborative Approach to AI Problem Solving](https://dev.to/daviducolo/chain-of-llms-a-collaborative-approach-to-ai-problem-solving-533)
+- [Python: Why Quart Might Be the Better Choice over FastAPI](https://dev.to/mechcloud_academy/python-why-quart-might-be-the-better-choice-over-fastapi-398b)
+- [Replace HELM with KISS](https://dev.to/avkr/replace-helm-with-kiss-456a)
+- [Joshua Vignona_ Mastering the Art of Commercial Strategy and Execution — Joshua Vignona](https://dev.to/joshua022/joshua-vignona-mastering-the-art-of-commercial-strategy-and-execution-joshua-vignona-2957)
+- [What I Wish I Knew as a Junior Developer](https://dev.to/tlorent/what-i-wish-i-knew-as-a-junior-developer-k2)
+- [🕯️ THE RITUAL CHAMBER IS OPEN 🎧 Yes, it’s a music player. But not like any you’ve seen before.](https://dev.to/ghostking314/the-ritual-chamber-is-open-yes-its-a-music-player-but-not-like-any-youve-seen-before-3mh2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
