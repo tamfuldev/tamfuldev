@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Attribute Mixins: a declarative-functional alternative to Directives](https://dev.to/dariomannu/attribute-mixins-a-declarative-functional-alternative-to-directives-4gf6)
-- [Everything You Need to Know About JavaScript Compilers](https://dev.to/tpointtechedu/everything-you-need-to-know-about-javascript-compilers-3jl5)
-- [Why Developers Should Upgrade to IAB TCF v2.2 for Cookie Consent](https://dev.to/mehwish_malik_4f29ff7fb04/why-developers-should-upgrade-to-iab-tcf-v22-for-cookie-consent-115m)
-- [5 Things Your Website Needs Before You Hit ‘Publish’](https://dev.to/web_dev-usman/5-things-your-website-needs-before-you-hit-publish-1705)
-- [Demystifying Agile, Scrum, and Kanban: Find the perfect methodology for your dev team&#39;s](https://dev.to/pratham_naik_project_manager/demystifying-agile-scrum-and-kanban-find-the-perfect-methodology-for-your-dev-teams-3l6c)
+- [The Overengineer’s Manifesto: Saying Hello the Hard Way](https://dev.to/copyleftdev/the-overengineers-manifesto-saying-hello-the-hard-way-8pb)
+- [🧵 How Print-on-Demand E-commerce APIs Work](https://dev.to/jeremy_libeskind_4bfdc99f/how-print-on-demand-e-commerce-apis-work-4o3f)
+- [The Importance of a WordPress Developer for SaaS Websites](https://dev.to/patricia_smith/the-importance-of-a-wordpress-developer-for-saas-websites-4ejl)
+- [Unlocking Growth with Digital Marketing: A Modern Approach](https://dev.to/vishal_more_02990955c9358/unlocking-growth-with-digital-marketing-a-modern-approach-5hch)
+- [Building Accessible Angular Applications &lpar;WCAG, ARIA&rpar;](https://dev.to/artem_turlenko/building-accessible-angular-applications-wcag-aria-13bo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
