@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [NDPR, GDPR, and CCPA — What Every Nigerian Techie Should Know About Data Compliance](https://dev.to/mantle_bearer/ndpr-gdpr-and-ccpa-what-every-nigerian-techie-should-know-about-data-compliance-26j6)
-- [Tidy &amp; Wrap Up - Project Stage 03](https://dev.to/jurozaw/tidy-wrap-up-project-stage-03-38h2)
-- [Building a Scalable, Secure Multi-Tier Architecture on AWS — My Recent Infrastructure Project](https://dev.to/leonardkachi/building-a-scalable-secure-multi-tier-architecture-on-aws-my-recent-infrastructure-project-1a16)
-- [Working on the Open Data Editor at the Open Knowledge Foundation](https://dev.to/guergana/working-at-the-open-knowledge-foundation-42n3)
-- [Mentorship To Me](https://dev.to/jacobmgevans/mentorship-to-me-fg7)
+- [[Boost]](https://dev.to/valariebd94/-2bm8)
+- [🚨 Top DevOps Mistakes Beginners Make – And How to Avoid Them](https://dev.to/yash_sonawane25/top-devops-mistakes-beginners-make-and-how-to-avoid-them-18p0)
+- [Stacked-Topology](https://dev.to/mohammed_banabila_3bc9e49/stacked-topology-34pf)
+- [Utility Types - Tipos utilitarios](https://dev.to/luisfosg/utility-types-tipos-utilitarios-bba)
+- [Got 1 Paying User. Time to Move to Kubernetes.](https://dev.to/shayy/got-1-paying-user-time-to-move-to-kubernetes-5825)
 <!-- BLOG-POST-LIST:END -->
 
 ---
