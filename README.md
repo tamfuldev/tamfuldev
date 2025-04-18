@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Learn Effectively &amp; Efficiently as a Professional in any Field. 🧠⏱️🎯](https://dev.to/mrchike/how-to-learn-effectively-efficiently-as-a-professional-in-any-field-4l7d)
-- [Networking for Developers: What You Should Know Beyond Coding](https://dev.to/flynnjones/networking-for-developers-what-you-should-know-beyond-coding-1cji)
-- [Transaction Verification in Fintech Applications: A Step-By-Step Guide](https://dev.to/engroso/transaction-verification-in-fintech-applications-a-step-by-step-guide-4953)
-- [C# &amp; .NET Insights: AsEnumerable in LINQ](https://dev.to/abdullahal_mahmud/c-net-insights-pgp)
-- [How to Scrape Google Hotels in Python](https://dev.to/crawlbase/how-to-scrape-google-hotels-in-python-3f40)
+- [🚀 Introducing Qastra — A Curiosity-Driven Q&amp;A Platform](https://dev.to/puneetkumar2010/introducing-qastra-a-curiosity-driven-qa-platform-4f0d)
+- [Using Auth.js in QwikJS with Modular Forms](https://dev.to/devoresyah/using-authjs-in-qwikjs-with-modular-forms-c62)
+- [Git Hooks — The Developer&#39;s Silent Sidekick](https://dev.to/gauravdalvi/git-hooks-the-developers-silent-sidekick-1obe)
+- [Documentation That Builds Itself with Sphinx + Read the Docs](https://dev.to/chrisgreening/documentation-that-builds-itself-with-sphinx-read-the-docs-56pl)
+- [How I found my &quot;First Bug&quot; in a public bug bounty program](https://dev.to/blue_byte/how-i-found-my-first-bug-in-a-public-bug-bounty-program-20lc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
