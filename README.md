@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Introducing Qastra — A Curiosity-Driven Q&amp;A Platform](https://dev.to/puneetkumar2010/introducing-qastra-a-curiosity-driven-qa-platform-4f0d)
-- [Using Auth.js in QwikJS with Modular Forms](https://dev.to/devoresyah/using-authjs-in-qwikjs-with-modular-forms-c62)
-- [Git Hooks — The Developer&#39;s Silent Sidekick](https://dev.to/gauravdalvi/git-hooks-the-developers-silent-sidekick-1obe)
-- [Documentation That Builds Itself with Sphinx + Read the Docs](https://dev.to/chrisgreening/documentation-that-builds-itself-with-sphinx-read-the-docs-56pl)
-- [How I found my &quot;First Bug&quot; in a public bug bounty program](https://dev.to/blue_byte/how-i-found-my-first-bug-in-a-public-bug-bounty-program-20lc)
+- [Level up your TypeScript with Record types](https://dev.to/logrocket/level-up-your-typescript-with-record-types-188k)
+- [LangChain vs LangGraph: The Epic Showdown You Didn&#39;t Know You Needed](https://dev.to/sakethkowtha/langchain-vs-langgraph-the-epic-showdown-you-didnt-know-you-needed-3ll1)
+- [How Injector ML Changes the Mobile Legends Meta for Casual Players](https://dev.to/james9420/how-injector-ml-changes-the-mobile-legends-meta-for-casual-players-7hh)
+- [Rethinking Authorization in the Age of AI Agents](https://dev.to/pomerium/rethinking-authorization-in-the-age-of-ai-agents-110c)
+- [Chain of LLMs: A Collaborative Approach to AI Problem Solving](https://dev.to/daviducolo/chain-of-llms-a-collaborative-approach-to-ai-problem-solving-533)
 <!-- BLOG-POST-LIST:END -->
 
 ---
