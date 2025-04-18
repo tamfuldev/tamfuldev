@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/valariebd94/-2bm8)
-- [🚨 Top DevOps Mistakes Beginners Make – And How to Avoid Them](https://dev.to/yash_sonawane25/top-devops-mistakes-beginners-make-and-how-to-avoid-them-18p0)
-- [Stacked-Topology](https://dev.to/mohammed_banabila_3bc9e49/stacked-topology-34pf)
-- [Utility Types - Tipos utilitarios](https://dev.to/luisfosg/utility-types-tipos-utilitarios-bba)
-- [Got 1 Paying User. Time to Move to Kubernetes.](https://dev.to/shayy/got-1-paying-user-time-to-move-to-kubernetes-5825)
+- [Mastering React Design Patterns: Recursive, Partial, and Composition for Scalable Code 🚀](https://dev.to/0xtanzim/exploring-react-design-patterns-recursive-partial-and-composition-2mef)
+- [SPO600 - Lab 3: Building a Number Guessing Game in 6502 Assembly](https://dev.to/amullagaliev/spo600-lab-3-building-a-number-guessing-game-in-6502-assembly-3ca2)
+- [[Boost]](https://dev.to/pa1_explorer/-1p9g)
+- [Integrating MCP Servers](https://dev.to/heetvekariya/integrating-mcp-servers-1fp2)
+- [40 days of K8s - CKA chalange &lpar;01/40&rpar;](https://dev.to/idubi/40-days-of-k8s-cka-chalange-0140-36k1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
