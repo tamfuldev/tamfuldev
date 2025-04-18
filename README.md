@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Creation d&#39;une page web simple avec html et css](https://dev.to/josu_olamba_990b7a055e48/creation-dune-page-web-simple-avec-html-et-css-9ij)
-- [Introduction Post](https://dev.to/princewill_monday_32b7eff/introduction-post-8g0)
-- [Square Every Digit](https://dev.to/maddiepst/square-every-digit-52kl)
-- [Build Once, Filter Forever: Automating Process Street Data Set Queries in Power Automate](https://dev.to/improvizations/build-once-filter-forever-automating-process-street-data-set-queries-in-power-automate-424g)
-- [My Journey Into Frontend Development: Learning HTML, CSS, and Flexbox with freeCodeCamp](https://dev.to/bashir_alazaki_671cf8c59/my-journey-into-frontend-development-learning-html-css-and-flexbox-with-freecodecamp-5fon)
+- [Tìm Hiểu Về MCP Server2](https://dev.to/thi_le_26e54b136ffaa84ad1/tim-hieu-ve-mcp-server2-489e)
+- [Advanced AI, superintelligence, logic, life, future](https://dev.to/ygo/advanced-ai-superintelligence-logic-life-future-53cp)
+- [[Boost]](https://dev.to/robertolabarcab/-447j)
+- [Resolving code vs cursor command paths for WSL2 &amp; Windows 11 setups](https://dev.to/asross311/resolving-code-vs-cursor-command-paths-for-wsl2-windows-11-setups-e1m)
+- [How to build an event assistant in under 1 hour using Open AI and Vercel, part I](https://dev.to/val_brodsky_d8f012aaafe5d/how-to-build-an-event-assistant-in-under-1-hour-using-open-ai-and-vercel-part-i-27oa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
