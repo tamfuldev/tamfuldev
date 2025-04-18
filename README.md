@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Hello Community](https://dev.to/ph0enix46/hello-community-l96)
-- [Function Calling vs. MCP &lpar;Model Context Protocol&rpar; + A2A: A Clean Architecture Analogy](https://dev.to/sreeni5018/function-calling-vs-mcp-model-context-protocol-a2a-a-clean-architecture-analogy-j4g)
-- [Hi, I am Kisra!](https://dev.to/kisra_fistya/hi-i-am-kisra-2ja9)
-- [RootMe | TryHackMe | Spanish](https://dev.to/c4s/rootme-tryhackme-spanish-34ej)
-- [Preventing Outlook Data Corruption: A Developer’s Guide to PST/OST Integrity &lpar;&amp; Recovery Tips&rpar;](https://dev.to/stealthstephen/preventing-outlook-data-corruption-a-developers-guide-353g)
+- [Attribute Mixins: a declarative-functional alternative to Directives](https://dev.to/dariomannu/attribute-mixins-a-declarative-functional-alternative-to-directives-4gf6)
+- [Everything You Need to Know About JavaScript Compilers](https://dev.to/tpointtechedu/everything-you-need-to-know-about-javascript-compilers-3jl5)
+- [Why Developers Should Upgrade to IAB TCF v2.2 for Cookie Consent](https://dev.to/mehwish_malik_4f29ff7fb04/why-developers-should-upgrade-to-iab-tcf-v22-for-cookie-consent-115m)
+- [5 Things Your Website Needs Before You Hit ‘Publish’](https://dev.to/web_dev-usman/5-things-your-website-needs-before-you-hit-publish-1705)
+- [Demystifying Agile, Scrum, and Kanban: Find the perfect methodology for your dev team&#39;s](https://dev.to/pratham_naik_project_manager/demystifying-agile-scrum-and-kanban-find-the-perfect-methodology-for-your-dev-teams-3l6c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
