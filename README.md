@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Amplifyの古いハンズオンを実施してハマった話](https://dev.to/aws-builders/aws-amplifynogu-ihanzuonwoshi-shi-sitehamatutahua-1490)
-- [WebSockets and Real-Time Communication](https://dev.to/omriluz1/websockets-and-real-time-communication-2a8j)
-- [[Boost]](https://dev.to/teledev30/-3c8l)
-- [How to use spectral in typescript](https://dev.to/teledev30/how-to-use-spectral-in-typescript-1mg6)
-- [✅ 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲 𝗦𝗼𝗹𝘃𝗲𝗱: 𝗥𝗲𝗺𝗶𝗻𝗱𝗲𝗿 𝗘𝗺𝗮𝗶𝗹𝘀 𝘄𝗶𝘁𝗵 𝗛𝗮𝗻𝗴𝗳𝗶𝗿𝗲 𝗶𝗻 𝗠𝘆 𝗝𝗼𝗯 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗧𝗿𝗮𝗰𝗸𝗲𝗿 🧠💼](https://dev.to/supraja_tangella_b7f0738e/-5fkg)
+- [Why Linux over Windows?](https://dev.to/omkarsharma2821/why-linux-over-windows-3nmc)
+- [External vs Internal Monitoring: Which is Better for Uptime?](https://dev.to/tomcao2012/external-vs-internal-monitoring-which-is-better-for-uptime-9h9)
+- [🧠 AI-Powered Professional Services: Bridging Code and Client Needs](https://dev.to/srijan-xi/ai-powered-professional-services-bridging-code-and-client-needs-53hk)
+- [Develop SEO Application in .NET](https://dev.to/hasanmonsur/develop-seo-application-in-net-3dg4)
+- [📌 Pinterest Clone — Fullstack App with Vue 3 &amp; FastAPI](https://dev.to/shutsuensha/pinterest-clone-fullstack-app-with-vue-3-fastapi-2jkl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
