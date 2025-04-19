@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Python: A Comprehensive Guide](https://dev.to/million_formula_3be3d915d/mastering-python-a-comprehensive-guide-ien)
-- [Best Cloud Hosting Deals in 2025 – 20% OFF with Exclusive Link](https://dev.to/raajaryan/best-cloud-hosting-deals-in-2025-20-off-with-exclusive-link-2jc3)
-- [ChatPDF didn’t meet my needs, so I built a more powerful AI financial report chat tool](https://dev.to/tahitimoon/chatpdf-didnt-meet-my-needs-so-i-built-a-more-powerful-ai-financial-report-chat-tool-12kl)
-- [How to Compress Web Assets in Real-Time Using Brotli with NGINX](https://dev.to/hexshift/how-to-compress-web-assets-in-real-time-using-brotli-with-nginx-43h3)
-- [How to Use View Transitions API for Seamless Page Animations in Modern Browsers](https://dev.to/hexshift/how-to-use-view-transitions-api-for-seamless-page-animations-in-modern-browsers-5b08)
+- [Stop Using Docker like its 2015](https://dev.to/code42cate/stop-using-docker-like-its-2015-1o5l)
+- [Telegram Name Scam - Be Vigilant](https://dev.to/scofieldidehen/telegram-name-scam-be-vigilant-41lg)
+- [Machine Learning](https://dev.to/congngheaivn/machine-learning-3k9i)
+- [My Journey Creating a Hate Speech Detection App with Machine Learning](https://dev.to/foxinfotech/my-journey-creating-a-hate-speech-detection-app-with-machine-learning-2p5l)
+- [The Ultimate Home 3D Modeling &amp; Rendering Setup for $2,000 + $100/Month](https://dev.to/hexshift/the-ultimate-home-3d-modeling-rendering-setup-for-2000-100month-3lg7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
