@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Spent 45 Hours To Built this Image Compressor Give Your Thoughts On it](https://dev.to/baba_yaga_b9d904b509/i-spent-45-hours-to-built-this-image-compressor-give-your-thoughts-on-it-43cm)
-- [Streaming Azure DevOps auditlogs to azure monitor](https://dev.to/frits-becker/streaming-azure-devops-auditlogs-to-azure-monitor-2dbj)
-- [How to Translate a Whole Word Document Online[](https://dev.to/colinreed/how-to-translate-a-whole-word-document-online-1472)
-- [🦀 Borrowing - Rust: Utilizar sem perder a posse./Access with Ownership Intact](https://dev.to/slns/borrowing-rust-utilizar-sem-perder-a-posseaccess-with-ownership-intact-5891)
-- [Proximal Policy Optimization &lpar;PPO&rpar; and Generalized Reinforcement Learning with Proximal Optimizer &lpar;GRPO&rpar;](https://dev.to/busycaesar/proximal-policy-optimization-ppo-and-generalized-reinforcement-learning-with-proximal-optimizer-2369)
+- [Hands-on with Amazon Q Business! 🧪 Learn &amp; build with my step-by-step lab. Unlock enterprise AI now! #AI #AmazonQ](https://dev.to/anitha_senthilnathan/hands-on-with-amazon-q-business-learn-build-with-my-step-by-step-lab-unlock-enterprise-ai-31n6)
+- [The Role of Recitals and Concerts in Shaping Your Career as a Horn Player by Master Teachers like William VerMeulen](https://dev.to/william04/the-role-of-recitals-and-concerts-in-shaping-your-career-as-a-horn-player-by-master-teachers-like-3oop)
+- [Getting Started with Kubernetes](https://dev.to/cloudwithabhi/getting-started-with-kubernetes-27gl)
+- [This is 100% correct](https://dev.to/rishithaminol/-3e15)
+- [[Boost]](https://dev.to/emmyspace/-2k8p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
