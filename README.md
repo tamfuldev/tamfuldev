@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Simple chat server in rust, Shat!](https://dev.to/paradoxy/a-simple-chat-server-in-rust-shat-4fkh)
-- [Effective Design Patterns in Go](https://dev.to/leapcell/effective-design-patterns-in-go-20d7)
-- [How to Create and Connect to a Linux VM Using a Public Key](https://dev.to/theodora_e6f61d02577a5f06/how-to-create-and-connect-to-a-linux-vm-using-a-public-key-34k0)
-- [🚀 Step-by-Step Guide to Building a Node.js Server with Express](https://dev.to/swapnil_ahmmedshishir_2d/step-by-step-guide-to-building-a-nodejs-server-with-express-4m06)
-- [Today i learned about if statement and switches in java ...these are SS of video lectures, I will be posting my codes soon too](https://dev.to/ayush_kumar_f0dd69996cd7a/today-i-learned-about-if-statement-and-switches-in-java-these-are-ss-of-video-lectures-i-will-23m4)
+- [Fixed image backgrounds](https://dev.to/preetha_vaishnavi_2b82358/fixed-image-backgrounds-12eh)
+- [Mastering Azure: Core Architectural Components Explained](https://dev.to/theodora_e6f61d02577a5f06/mastering-azure-core-architectural-components-explained-28g6)
+- [Most absurd programming stories.](https://dev.to/gamelord2011/most-absurd-programming-stories-129i)
+- [JavaScript vs Python: What to Choose?](https://dev.to/dhanushnehru/javascript-vs-python-what-to-choose-31la)
+- [TS2205: Construct signatures with no arguments have incompatible return types &#39;{0}&#39; and &#39;{1}&#39;](https://dev.to/lior_amsalem_3879371237f6/ts2205-construct-signatures-with-no-arguments-have-incompatible-return-types-0-and-1-2m09)
 <!-- BLOG-POST-LIST:END -->
 
 ---
