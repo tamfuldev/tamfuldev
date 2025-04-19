@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Linux over Windows?](https://dev.to/omkarsharma2821/why-linux-over-windows-3nmc)
-- [External vs Internal Monitoring: Which is Better for Uptime?](https://dev.to/tomcao2012/external-vs-internal-monitoring-which-is-better-for-uptime-9h9)
-- [🧠 AI-Powered Professional Services: Bridging Code and Client Needs](https://dev.to/srijan-xi/ai-powered-professional-services-bridging-code-and-client-needs-53hk)
-- [Develop SEO Application in .NET](https://dev.to/hasanmonsur/develop-seo-application-in-net-3dg4)
-- [📌 Pinterest Clone — Fullstack App with Vue 3 &amp; FastAPI](https://dev.to/shutsuensha/pinterest-clone-fullstack-app-with-vue-3-fastapi-2jkl)
+- [Angular Material Blocks MCP server - Demo](https://dev.to/ngmaterialdev/angular-material-blocks-mcp-server-demo-2je)
+- [Angular Material Blocks MCP server](https://dev.to/ngmaterialdev/angular-material-blocks-mcp-server-cj)
+- [How to Embed Binary Data into a Win32 Executable File in 4 Methods](https://dev.to/sorecchione07435/how-to-embed-binary-data-into-a-win32-executable-file-in-4-methods-43kp)
+- [Updated Tik](https://dev.to/samantha_samuels_e4b03731/updated-tik-56ak)
+- [How to Secure Your .NET Applications](https://dev.to/adrianbailador/how-to-secure-your-net-applications-24ed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
