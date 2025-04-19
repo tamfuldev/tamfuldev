@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [📝 Building a Simple &amp; Optimized ToDo App in React Native](https://dev.to/amitkumar13/building-a-simple-optimized-todo-app-in-react-native-2468)
-- [Setting Up Your First HTML Project &lpar;Without Any Framework&rpar;](https://dev.to/raajaryan/setting-up-your-first-html-project-without-any-framework-4d0j)
-- [The Evolution of HTML: From HTML 1.0 to HTML 5.3](https://dev.to/raajaryan/the-evolution-of-html-from-html-10-to-html-53-4fa9)
-- [What is Javascript?](https://dev.to/priyanka_sarode_694e69474/what-is-javascript-23gi)
-- [Devcanvas can now build stunning websites super FAST with AI!](https://dev.to/abdulmuminyqn/devcanvas-can-now-build-stunning-websites-super-fast-with-ai-4kd1)
+- [I Spent 45 Hours To Built this Image Compressor Give Your Thoughts On it](https://dev.to/baba_yaga_b9d904b509/i-spent-45-hours-to-built-this-image-compressor-give-your-thoughts-on-it-43cm)
+- [Streaming Azure DevOps auditlogs to azure monitor](https://dev.to/frits-becker/streaming-azure-devops-auditlogs-to-azure-monitor-2dbj)
+- [How to Translate a Whole Word Document Online[](https://dev.to/colinreed/how-to-translate-a-whole-word-document-online-1472)
+- [🦀 Borrowing - Rust: Utilizar sem perder a posse./Access with Ownership Intact](https://dev.to/slns/borrowing-rust-utilizar-sem-perder-a-posseaccess-with-ownership-intact-5891)
+- [Proximal Policy Optimization &lpar;PPO&rpar; and Generalized Reinforcement Learning with Proximal Optimizer &lpar;GRPO&rpar;](https://dev.to/busycaesar/proximal-policy-optimization-ppo-and-generalized-reinforcement-learning-with-proximal-optimizer-2369)
 <!-- BLOG-POST-LIST:END -->
 
 ---
