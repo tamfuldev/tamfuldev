@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [use strict in JavaScript](https://dev.to/betelgeuseas/use-strict-in-javascript-57mk)
-- [10 Daily Linux Questions and Answers Series &lpar;part 8&rpar;](https://dev.to/alexenson/10-daily-linux-questions-and-answers-series-part-8-1171)
-- [How to Set Up a Local WordPress Environment Like a Pro with Valet, WP-CLI, and MySQL](https://dev.to/domegang/how-to-set-up-a-local-wordpress-environment-like-a-pro-with-valet-wp-cli-and-mysql-53p6)
-- [Creating a Countdown Timer with Tkinter in Python](https://dev.to/blackmare01wolf/creating-a-countdown-timer-with-tkinter-in-python-4i3j)
-- [Monitoring and Controlling CPU Temperature on Linux Systems Using Buildroot](https://dev.to/pfs/monitoring-and-controlling-cpu-temperature-on-raspberry-pi-5-using-buildroot-31gp)
+- [A Simple chat server in rust, Shat!](https://dev.to/paradoxy/a-simple-chat-server-in-rust-shat-4fkh)
+- [Effective Design Patterns in Go](https://dev.to/leapcell/effective-design-patterns-in-go-20d7)
+- [How to Create and Connect to a Linux VM Using a Public Key](https://dev.to/theodora_e6f61d02577a5f06/how-to-create-and-connect-to-a-linux-vm-using-a-public-key-34k0)
+- [🚀 Step-by-Step Guide to Building a Node.js Server with Express](https://dev.to/swapnil_ahmmedshishir_2d/step-by-step-guide-to-building-a-nodejs-server-with-express-4m06)
+- [Today i learned about if statement and switches in java ...these are SS of video lectures, I will be posting my codes soon too](https://dev.to/ayush_kumar_f0dd69996cd7a/today-i-learned-about-if-statement-and-switches-in-java-these-are-ss-of-video-lectures-i-will-23m4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
