@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Personalized Email Generator in Python &lpar;as a Beginner&rpar;](https://dev.to/jgraspopovich/how-i-built-a-personalized-email-generator-in-python-as-a-beginner-2hfc)
-- [The Rise of Freelancing in Africa: A New Era of Digital Work](https://dev.to/tapiwagondo/the-rise-of-freelancing-in-africa-a-new-era-of-digital-work-3lbi)
-- [How I Became One of the Top 1% on Freelancer.com and Earned the Verified &amp; Preferred Badge](https://dev.to/ahmedaskar/how-i-became-one-of-the-top-1-on-freelancercom-and-earned-the-verified-preferred-badge-17md)
-- [How to Start a Blog from Scratch &lpar;Beginner’s Guide 2025&rpar;](https://dev.to/blogzeros/how-to-start-a-blog-from-scratch-beginners-guide-2025-2nk0)
-- [How to Trigger AWS Lambda Functions on a Schedule Using CloudWatch Events &lpar;Serverless Cron Jobs&rpar;](https://dev.to/hexshift/how-to-trigger-aws-lambda-functions-on-a-schedule-using-cloudwatch-events-serverless-cron-jobs-3kfo)
+- [Rendering Lists – React Docs](https://dev.to/buildlogmmd/rendering-lists-react-docs-b0d)
+- [Conditional rendering – React Docs](https://dev.to/buildlogmmd/conditional-rendering-react-docs-5h2k)
+- [Mastering the cp Command in Linux](https://dev.to/sanasadiq/mastering-the-cp-command-in-linux-5bef)
+- [Introducing MCP Server Boilerplate: Build Extensible Python MCP Servers for LLMS and Agents](https://dev.to/josharsh/introducing-mcp-server-boilerplate-build-extensible-python-mcp-servers-for-llms-and-agents-5hj)
+- [Deploy Your Full-Stack App for Free: Host Backend on Render and Frontend on Netlify in Minutes](https://dev.to/shaad2114/deploy-your-full-stack-app-for-free-host-backend-on-render-and-frontend-on-netlify-in-minutes-c7i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
