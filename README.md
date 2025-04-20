@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Role of AI in Supply Chain Risk Management](https://dev.to/kartikmehta8/understanding-the-role-of-ai-in-supply-chain-risk-management-30g9)
-- [Hexagonal Architecture](https://dev.to/akdevblog/hexagonal-architecture-1a0d)
-- [🧠 JSON AI Inspector: Analyzing JSON with AI &lpar;Open Source Tool&rpar;](https://dev.to/devjaime/json-ai-inspector-analyzing-json-with-ai-open-source-tool-pj3)
-- [Components in React: Functional vs. Class Components](https://dev.to/tene/components-in-react-functional-vs-class-components-2o3a)
-- [OVHcloud vs. AWS: France’s Cloud Giant vs. Amazon Which One Respects Your Data More?](https://dev.to/devlinkstudios/ovhcloud-vs-aws-frances-cloud-giant-vs-amazon-which-one-respects-your-data-more-2d28)
+- [Understanding useState and Props in React: A Beginner-Friendly Guide](https://dev.to/davinceleecode/understanding-usestate-and-props-in-react-a-beginner-friendly-guide-298l)
+- [Blog Draft Ai Technologies Monetization Strategy 20250420 073107](https://dev.to/pponali/blog-draft-ai-technologies-monetization-strategy-20250420-073107-2n09)
+- [Blog Draft Ai Monetization Strategies 20250420 072930](https://dev.to/pponali/blog-draft-ai-monetization-strategies-20250420-072930-3b19)
+- [Exploiting HTB’s ‘Redeemer’ Box with Redis Misconfiguration](https://dev.to/keyfive5/exploiting-htbs-redeemer-box-with-redis-misconfiguration-20dh)
+- [RandomResizedCrop in PyTorch &lpar;6&rpar;](https://dev.to/hyperkai/randomresizedcrop-in-pytorch-6-54bh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
