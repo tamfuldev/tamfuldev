@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Rust Ownership and Borrowing Explained](https://dev.to/leapcell/rust-ownership-and-borrowing-explained-22l6)
-- [Building a RAG-Powered Self-Improving Trading Department with LangGraph](https://dev.to/nikan_haj_f3ab68512ab23cc/building-a-rag-powered-self-improving-trading-department-with-langgraph-34h7)
-- [🧑‍💻 AI-Powered Multilingual Translator — Kaggle Notebook &amp; Telegram Bot Project](https://dev.to/aksel588/ai-powered-multilingual-translator-kaggle-notebook-telegram-bot-project-4l78)
-- [Pulumi + Azure Series: A Developer’s Perspective](https://dev.to/nedimhozic/pulumi-azure-series-a-developers-perspective-4h5f)
-- [The Singoff-agen — Learning Through Dumb Projects](https://dev.to/sc00p/the-singoff-agen-learning-through-dumb-projects-3bfg)
+- [How I Built a Personalized Email Generator in Python &lpar;as a Beginner&rpar;](https://dev.to/jgraspopovich/how-i-built-a-personalized-email-generator-in-python-as-a-beginner-2hfc)
+- [The Rise of Freelancing in Africa: A New Era of Digital Work](https://dev.to/tapiwagondo/the-rise-of-freelancing-in-africa-a-new-era-of-digital-work-3lbi)
+- [How I Became One of the Top 1% on Freelancer.com and Earned the Verified &amp; Preferred Badge](https://dev.to/ahmedaskar/how-i-became-one-of-the-top-1-on-freelancercom-and-earned-the-verified-preferred-badge-17md)
+- [How to Start a Blog from Scratch &lpar;Beginner’s Guide 2025&rpar;](https://dev.to/blogzeros/how-to-start-a-blog-from-scratch-beginners-guide-2025-2nk0)
+- [How to Trigger AWS Lambda Functions on a Schedule Using CloudWatch Events &lpar;Serverless Cron Jobs&rpar;](https://dev.to/hexshift/how-to-trigger-aws-lambda-functions-on-a-schedule-using-cloudwatch-events-serverless-cron-jobs-3kfo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
