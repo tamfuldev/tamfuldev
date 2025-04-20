@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/marksduarte/-305a)
-- [The Ultimate Web Design Learning Guide in 2025](https://dev.to/code_2/the-ultimate-web-design-learning-guide-in-2025-4hjg)
-- [Writing Quality Commit Messages: A Small Habit with a Big Impact](https://dev.to/jakaria/writing-quality-commit-messages-a-small-habit-with-a-big-impact-1i5n)
-- [99% of People Think AI Can Replace Developers - They&#39;re Dead Wrong](https://dev.to/coderabbitai/99-of-people-think-ai-can-replace-developers-theyre-dead-wrong-33m)
-- [Transform Text to Image for Free with Hugging Face](https://dev.to/anusha_nukala_6597dac70cb/transform-text-to-image-for-free-with-hugging-face-5fje)
+- [🚀 Easily Connect LLMs and MCP Servers with mcp-use &lpar;TypeScript&rpar;](https://dev.to/zand/easily-connect-llms-and-mcp-servers-with-mcp-use-typescript-4gnd)
+- [Power Platform: Copying Environments — With Data or Just Customizations?](https://dev.to/nikhildynamicsce/power-platform-copying-environments-with-data-or-just-customizations-3n4p)
+- [C++ import for Faceone tutorial](https://dev.to/zako_mako_9a4826822204c78/c-import-for-faceone-tutorial-52bf)
+- [781. Rabbits in Forest](https://dev.to/mdarifulhaque/781-rabbits-in-forest-4fnh)
+- [Mastering GoFrame&#39;s gqueue: A Practical Guide to In-Memory Queues in Go 🚀](https://dev.to/jones_charles_ad50858dbc0/mastering-goframes-gqueue-a-practical-guide-to-in-memory-queues-in-go-501o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
