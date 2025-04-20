@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Simulation Project: Real-Time Control, Multi-Screen Sync, and the Power of Teamwork Under Pressure](https://dev.to/faizan_pervaiz/simulation-project-real-time-control-multi-screen-sync-and-the-power-of-teamwork-under-pressure-5b50)
-- [Android vs iPhone&lpar;iOS&rpar;: Perbandingan, Kelebihan, dan Kekurangan &lpar;2025&rpar;](https://dev.to/ryfazrin/android-vs-iphoneios-perbandingan-kelebihan-dan-kekurangan-2025-2j9l)
-- [Axios and Fetch template for CRUD](https://dev.to/devcorner/axios-and-fetch-template-for-crud-2ig1)
-- [Simple Guide to Setting Up EC2 with Auto Scaling Groups &lpar;ASG&rpar; on AWS](https://dev.to/durga_v/simple-guide-to-setting-up-ec2-with-auto-scaling-groups-asg-on-aws-4j0m)
-- [Open Source MCP Playground - TRMX.Ai](https://dev.to/_4b254f4408ef55656a22e4/open-source-mcp-playground-trmxai-2d7p)
+- [Crafting an Effective Application Security Program: Strategies, Techniques and Tools for the Best End-to-End Results](https://dev.to/lynxfelony1/crafting-an-effective-application-security-program-strategies-techniques-and-tools-for-the-best-416h)
+- [Weekly Challenge: Short and friendly](https://dev.to/simongreennet/weekly-challenge-short-and-friendly-jf)
+- [Day 10: My first GitHub action](https://dev.to/s_j_9c4bdb31f6630da7/day-10-my-first-github-action-20hm)
+- [Network Troubleshooting Tools in Red Hat Linux](https://dev.to/shamain_anjum/network-troubleshooting-tools-in-red-hat-linux-2084)
+- [Blog Post from blog_draft_ai_technologies_monetization_strategy_20250420_101707.md](https://dev.to/pponali/blog-post-from-blogdraftaitechnologiesmonetizationstrategy20250420101707md-3h19)
 <!-- BLOG-POST-LIST:END -->
 
 ---
