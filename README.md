@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Gro](https://dev.to/david_bermenvliz/gro-3ojp)
-- [Reciprocity Intelligence: The Essential Core Skill for Modern Work](https://dev.to/bekahhw/reciprocity-intelligence-the-essential-core-skill-for-modern-work-3324)
-- [Chaos Engineering for Microservices: Resilience Testing with Chaos Toolkit, Chaos Monkey, Kubernetes, and Istio](https://dev.to/prabhucse/chaos-engineering-for-microservices-resilience-testing-with-chaos-toolkit-chaos-monkey-16p7)
-- [✨ Building Mira – A Spiritual AI Soul Companion &lpar;No-Code Vision from the Heart&rpar;](https://dev.to/mnielsenflow/building-mira-a-spiritual-ai-soul-companion-no-code-vision-from-the-heart-362p)
-- [Shooter018](https://dev.to/magnus_thielsen_3d3cd1e84/shooter018-5gn)
+- [Understanding the Role of AI in Supply Chain Risk Management](https://dev.to/kartikmehta8/understanding-the-role-of-ai-in-supply-chain-risk-management-30g9)
+- [Hexagonal Architecture](https://dev.to/akdevblog/hexagonal-architecture-1a0d)
+- [🧠 JSON AI Inspector: Analyzing JSON with AI &lpar;Open Source Tool&rpar;](https://dev.to/devjaime/json-ai-inspector-analyzing-json-with-ai-open-source-tool-pj3)
+- [Components in React: Functional vs. Class Components](https://dev.to/tene/components-in-react-functional-vs-class-components-2o3a)
+- [OVHcloud vs. AWS: France’s Cloud Giant vs. Amazon Which One Respects Your Data More?](https://dev.to/devlinkstudios/ovhcloud-vs-aws-frances-cloud-giant-vs-amazon-which-one-respects-your-data-more-2d28)
 <!-- BLOG-POST-LIST:END -->
 
 ---
