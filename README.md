@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [40 days of K8s - CKA challenge &lpar;02/40&rpar;](https://dev.to/idubi/40-days-of-k8s-cka-challenge-0240-1idc)
-- [JavaScript Best Practices for Beginners](https://dev.to/million_formula_3be3d915d/javascript-best-practices-for-beginners-30ic)
-- [OpenAI GPT 4.1 is HUGE for developers, Nvidia&#39;s newest reasoning model, Google AI for dolphins, and more](https://dev.to/thisweekinaiengineering/openai-gpt-41-is-huge-for-developers-nvidias-newest-reasoning-model-google-ai-for-dolphins-and-3dk2)
-- [How to Implement Secure Random Number Generation in JavaScript](https://dev.to/hexshift/how-to-implement-secure-random-number-generation-in-javascript-5ejf)
-- [🔥 The Kumite of Code — The Most Mysterious Developer Tournament You&#39;ve Never Heard Of](https://dev.to/ghostking314/the-kumite-of-code-the-most-mysterious-developer-tournament-youve-never-heard-of-22n9)
+- [Simulation Project: Real-Time Control, Multi-Screen Sync, and the Power of Teamwork Under Pressure](https://dev.to/faizan_pervaiz/simulation-project-real-time-control-multi-screen-sync-and-the-power-of-teamwork-under-pressure-5b50)
+- [Android vs iPhone&lpar;iOS&rpar;: Perbandingan, Kelebihan, dan Kekurangan &lpar;2025&rpar;](https://dev.to/ryfazrin/android-vs-iphoneios-perbandingan-kelebihan-dan-kekurangan-2025-2j9l)
+- [Axios and Fetch template for CRUD](https://dev.to/devcorner/axios-and-fetch-template-for-crud-2ig1)
+- [Simple Guide to Setting Up EC2 with Auto Scaling Groups &lpar;ASG&rpar; on AWS](https://dev.to/durga_v/simple-guide-to-setting-up-ec2-with-auto-scaling-groups-asg-on-aws-4j0m)
+- [Open Source MCP Playground - TRMX.Ai](https://dev.to/_4b254f4408ef55656a22e4/open-source-mcp-playground-trmxai-2d7p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
