@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [3D Rotation Login/Signup Box](https://dev.to/preetha_vaishnavi_2b82358/3d-rotation-loginsignup-box-24i3)
-- [Testing A FastAPI App With Pytest](https://dev.to/jod35/testing-a-fastapi-app-with-pytest-31f5)
-- [Level Up Your Java: A Developer&#39;s Guide to Agentic AI](https://dev.to/myfear/level-up-your-java-a-developers-guide-to-agentic-ai-4b3l)
-- [Difference Between Block-level and Inline Elements](https://dev.to/raajaryan/difference-between-block-level-and-inline-elements-53g3)
-- [Just wrote my very first Python program!](https://dev.to/harshvdev/just-wrote-my-very-first-python-program-25cm)
+- [Additive creature](https://dev.to/preetha_vaishnavi_2b82358/additive-creature-3b8o)
+- [Mastering AWS EC2 Automation](https://dev.to/badalraj9203/mastering-aws-ec2-automation-4pm9)
+- [Building a Multilingual Children&#39;s Bedtime Story Platform](https://dev.to/qi_yimi_bb1e489215be28450/building-a-multilingual-childrens-bedtime-story-platform-3p3n)
+- [Discover NeverLose: The Ultimate Browser Extension for Effortless Data Savings and Productivity](https://dev.to/neverlose/discover-neverlose-the-ultimate-browser-extension-for-effortless-data-savings-and-productivity-38om)
+- [You’re Not a Real Developer Until You’ve Built These 5 Projects](https://dev.to/code_2/youre-not-a-real-developer-until-youve-built-these-5-projects-1l7a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
