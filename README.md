@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Additive creature](https://dev.to/preetha_vaishnavi_2b82358/additive-creature-3b8o)
-- [Mastering AWS EC2 Automation](https://dev.to/badalraj9203/mastering-aws-ec2-automation-4pm9)
-- [Building a Multilingual Children&#39;s Bedtime Story Platform](https://dev.to/qi_yimi_bb1e489215be28450/building-a-multilingual-childrens-bedtime-story-platform-3p3n)
-- [Discover NeverLose: The Ultimate Browser Extension for Effortless Data Savings and Productivity](https://dev.to/neverlose/discover-neverlose-the-ultimate-browser-extension-for-effortless-data-savings-and-productivity-38om)
-- [You’re Not a Real Developer Until You’ve Built These 5 Projects](https://dev.to/code_2/youre-not-a-real-developer-until-youve-built-these-5-projects-1l7a)
+- [CSS-only Slide-up Caption Hover Effect](https://dev.to/preetha_vaishnavi_2b82358/css-only-slide-up-caption-hover-effect-1pi6)
+- [200 Inspiring JavaScript Project Ideas &lpar;With Source Code eBook Included!&rpar;](https://dev.to/code_2/200-inspiring-javascript-project-ideas-with-source-code-ebook-included-3gnf)
+- [Capaz](https://dev.to/david_bermenvliz/capaz-1gkk)
+- [Creative Black Hole](https://dev.to/preetha_vaishnavi_2b82358/creative-black-hole-53dc)
+- [JavaScript Rest Parameters: Because Sometimes You Just Need More Args](https://dev.to/lovestaco/javascript-rest-parameters-because-sometimes-you-just-need-more-args-2koj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
