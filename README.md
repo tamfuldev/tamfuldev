@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CSS-only Slide-up Caption Hover Effect](https://dev.to/preetha_vaishnavi_2b82358/css-only-slide-up-caption-hover-effect-1pi6)
-- [200 Inspiring JavaScript Project Ideas &lpar;With Source Code eBook Included!&rpar;](https://dev.to/code_2/200-inspiring-javascript-project-ideas-with-source-code-ebook-included-3gnf)
-- [Capaz](https://dev.to/david_bermenvliz/capaz-1gkk)
-- [Creative Black Hole](https://dev.to/preetha_vaishnavi_2b82358/creative-black-hole-53dc)
-- [JavaScript Rest Parameters: Because Sometimes You Just Need More Args](https://dev.to/lovestaco/javascript-rest-parameters-because-sometimes-you-just-need-more-args-2koj)
+- [Minecraft’s Uncensored Virtual Library](https://dev.to/justin_downes/minecrafts-uncensored-virtual-library-ece)
+- [I will write a tiny blog every day for 3 weeks](https://dev.to/yulei-chen/i-will-write-a-tiny-blog-every-day-for-3-weeks-36kg)
+- [Anatomy of a Github Copilot Extension in Golang](https://dev.to/shrsv/anatomy-of-a-github-copilot-extension-in-golang-17cd)
+- [How to Set Pattern and PIN on Android for Maximum Security](https://dev.to/junaidi_19/how-to-set-pattern-and-pin-on-android-for-maximum-security-1oj6)
+- [🚫 Stop Using array.length - 1. Here’s a Magical Alternative ✨](https://dev.to/developerhub/stop-using-arraylength-1-here-are-something-magical-1bi1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
