@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/jackiizcc/-3cf7)
-- [🔍 Data Cleaning Techniques Using SQL](https://dev.to/mohammed_jobairhossain_c/data-cleaning-techniques-using-sql-68d)
-- [Building a Local AI Agent with Ollama + MCP + LangChain + Docker&quot;](https://dev.to/rajeev_3ce9f280cbae73b234/building-a-local-ai-agent-with-ollama-mcp-docker-37a)
-- [Chef Salt &amp; Chef Pepper: Gemini-Powered Chef Assistants](https://dev.to/jonathonchenvert/chef-salt-chef-pepper-gemini-powered-chef-assistants-1mlk)
-- [Graph RAG의 모든 것](https://dev.to/bits-bytes-nn/graph-ragyi-modeun-geos-1n5k)
+- [Annotation in SpringBoot](https://dev.to/neelakandan_ravi/annotation-in-springboot-1jf3)
+- [The Day I Realized I Needed to Raise My Rates as a Coder](https://dev.to/canro91/the-day-i-realized-i-needed-to-raise-my-rates-as-a-coder-hog)
+- [The one place for &#39;IMAGE TOOLS&#39; - Image Forge](https://dev.to/phantom_dev/the-one-place-for-image-tools-image-forge-36ak)
+- [Does React Work for iOS, and How Does it Perform?](https://dev.to/brilworks/does-react-work-for-ios-and-how-does-it-perform-2phe)
+- [🧩 The Microservices Database Dilemma: Patterns, Challenges, and Best Practices](https://dev.to/junihoj/the-microservices-database-dilemma-patterns-challenges-and-best-practices-22on)
 <!-- BLOG-POST-LIST:END -->
 
 ---
