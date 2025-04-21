@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Startups vs Big Tech for Web Developers](https://dev.to/mikehtmlallthethings/startups-vs-big-tech-for-web-developers-3bf4)
-- [day-30: enumeration in java](https://dev.to/e00049/day-30-enumeration-in-java-mbe)
-- [Your GenAI-git trainer](https://dev.to/lucailvec/your-genai-git-trainer-17h)
-- [Cut CI/CD Costs by 77% &amp; 2x Deployment Speed with GitHub Actions on EKS Auto](https://dev.to/aws-builders/cut-cicd-costs-by-77-2x-deployment-speed-with-github-actions-on-eks-auto-2ob2)
-- [LEMP Stack &lpar;WEB STACK&rpar; Implementation in AWS](https://dev.to/uwadon1/lemp-stack-web-stack-implementation-in-aws-jmo)
+- [Applying the SAST Tool Checkov to a Terraform IaC Project](https://dev.to/team3/applying-the-sast-tool-checkov-to-a-terraform-iac-project-1l23)
+- [Untitled](https://dev.to/david_kaycreatx_73f1425/untitled-o5)
+- [How I Built My Technical Writing Portfolio Website Using GitHub Pages](https://dev.to/sandrameshack/how-i-built-my-technical-writing-portfolio-website-using-github-pages-40k4)
+- [GenAI Genie: Conjuring Magic with LangChain, Pinecone, and FastAPI](https://dev.to/sakethkowtha/genai-genie-conjuring-magic-with-langchain-pinecone-and-fastapi-211d)
+- [Cosplay Industry Trends: Insights and Analysis for 2025](https://dev.to/gregg001/cosplay-industry-trends-insights-and-analysis-for-2025-329i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
