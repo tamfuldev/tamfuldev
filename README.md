@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/wellington01/-330e)
-- [🦀 Rust&#39;s Type System: Forte, estático e à prova de erros/Strong, Static, and Built for Safety](https://dev.to/slns/rusts-type-system-forte-estatico-e-a-prova-de-errosstrong-static-and-built-for-safety-1cjd)
-- [Composant Chip avec RiotJS](https://dev.to/steeve/composant-chip-avec-riotjs-20nd)
-- [assignment](https://dev.to/jeya_lakshmi_c417e8c65649/void-and-return-type-in-java-405j)
-- [Coupling and Cohesion: The Two Principles for Effective Architecture](https://dev.to/devsk001/coupling-and-cohesion-the-two-principles-for-effective-architecture-3oc8)
+- [7 Things I Wish I Knew When I Started Coding &lpar;Beginner Dev Tips&rpar;](https://dev.to/mariecolvinn/7-things-i-wish-i-knew-when-i-started-coding-beginner-dev-tips-oco)
+- [If You Can&#39;t Control Access, You Can&#39;t Control the Cloud &lpar;Part 1&rpar;](https://dev.to/dtemi/if-you-cant-control-access-you-cant-control-the-cloud-part-1-4330)
+- [🚀 600 Minds in the Swarm — What Comes Next?](https://dev.to/matrixswarm/600-minds-in-the-swarm-what-comes-next-4e31)
+- [How Kubernetes Automates and Manages Your Docker Containers](https://dev.to/upcloud/how-kubernetes-automates-and-manages-your-docker-containers-278n)
+- [On wasted effort and ‘vibe coding’](https://dev.to/lpnts/on-wasted-effort-and-vibe-coding-356e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
