@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [XRPL Stability and Scalability Efforts](https://dev.to/ripplexdev/xrpl-stability-and-scalability-efforts-45h4)
-- [The ROI of daily monitoring: calculating the cost of a missed web change](https://dev.to/monitlog/the-roi-of-daily-monitoring-calculating-the-cost-of-a-missed-web-change-71m)
-- [Own Custom Calculator Build &lpar;Yes, You Can!&rpar;](https://dev.to/olivia_innovation/own-custom-calculator-build-yes-you-can-14gm)
-- [Leetcode - 101. Symmetric Tree](https://dev.to/rakeshreddy512/leetcode-101-symmetric-tree-202c)
-- [[Boost]](https://dev.to/it9tl/-3f45)
+- [Help Build Doguino – A Dutch Online Dog Game](https://dev.to/vinboy/help-build-doguino-a-dutch-online-dog-game-359f)
+- [I&#39;m a Bicester South &quot;paper candidate&quot; for the Green Party!](https://dev.to/nottrobin/im-a-bicester-south-paper-candidate-for-the-green-party-53e5)
+- [E se eu tivesse um Jekyll homemade?](https://dev.to/paulopilotti/e-se-eu-tivesse-um-jekyll-homemade-4e3g)
+- [🥋 Applying Aikido: SAST in Web Applications from the Repository](https://dev.to/ahmed_a_o/applying-aikido-sast-in-web-applications-from-the-repository-c1o)
+- [[Boost]](https://dev.to/elizabeth8012/-18gg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
