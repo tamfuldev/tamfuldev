@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Connect Your Next.js React Application to Redis](https://dev.to/garciadiazjaime/how-to-connect-your-nextjs-react-application-to-redis-306d)
-- [Dropline: Turn Your Android into an FTP Server and Share Files Over Wi-Fi](https://dev.to/md_rakibulhaquesardar_/dropline-turn-your-android-into-an-ftp-server-and-share-files-over-wi-fi-1mpb)
-- [How to Build a &quot;Clean Office Reminder App&quot; with React](https://dev.to/karen_londres/how-to-build-a-clean-office-reminder-app-with-react-1477)
-- [PNPM vs NPM: Why You Should Switch in 2025](https://dev.to/thelogicwarlock/pnpm-vs-npm-why-you-should-switch-in-2025-4egg)
-- [Types of Human Resource Information Systems &lpar;HRIS System&rpar;](https://dev.to/tarunfulera1/types-of-human-resource-information-systems-hris-system-1il8)
+- [XRPL Stability and Scalability Efforts](https://dev.to/ripplexdev/xrpl-stability-and-scalability-efforts-45h4)
+- [The ROI of daily monitoring: calculating the cost of a missed web change](https://dev.to/monitlog/the-roi-of-daily-monitoring-calculating-the-cost-of-a-missed-web-change-71m)
+- [Own Custom Calculator Build &lpar;Yes, You Can!&rpar;](https://dev.to/olivia_innovation/own-custom-calculator-build-yes-you-can-14gm)
+- [Leetcode - 101. Symmetric Tree](https://dev.to/rakeshreddy512/leetcode-101-symmetric-tree-202c)
+- [[Boost]](https://dev.to/it9tl/-3f45)
 <!-- BLOG-POST-LIST:END -->
 
 ---
