@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Como configurar diferentes ambientes em apps React Native](https://dev.to/ambegossi/como-configurar-diferentes-ambientes-para-apps-react-native-2o5k)
-- [Software Testing in 2025: Crafting User-Centric Apps 🌍](https://dev.to/vaibhavkuls/software-testing-in-2025-crafting-user-centric-apps-2kcp)
-- [Looking for a Technical Co-Founder for a Web3 Community Platform](https://dev.to/ruthxeus/looking-for-a-technical-co-founder-for-a-web3-community-platform-5190)
-- [Is Artificial Intelligence the Future?](https://dev.to/aryaarjan118/is-artificial-intelligence-the-future-10a5)
-- [Google Workspace Flows with Natural Language](https://dev.to/googleworkspace/google-workspace-flows-with-natural-language-13e5)
+- [🍅 The Power of the Pomodoro Timer: Why It Works and How to Use It](https://dev.to/e-clock/the-power-of-the-pomodoro-timer-why-it-works-and-how-to-use-it-cem)
+- [Design Patterns #5: Null Object Pattern – Writing Safer, Cleaner Code.](https://dev.to/serhii_korol_ab7776c50dba/design-patterns-5-null-object-pattern-writing-safer-cleaner-code-ebl)
+- [DevOops, We&#39;ve Done It Again: The Continued Silos Between AppDev and Ops](https://dev.to/dbhagen/devoops-weve-done-it-again-the-continued-silos-between-appdev-and-ops-55hb)
+- [What are your goals for the week? #123](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-123-1b9f)
+- [🌙 Daily MySQL Backup &lpar;Windows&rpar;](https://dev.to/nurulislamrimon/daily-mysql-backup-windows-ml5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
