@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Applying the SAST Tool Checkov to a Terraform IaC Project](https://dev.to/team3/applying-the-sast-tool-checkov-to-a-terraform-iac-project-1l23)
-- [Untitled](https://dev.to/david_kaycreatx_73f1425/untitled-o5)
-- [How I Built My Technical Writing Portfolio Website Using GitHub Pages](https://dev.to/sandrameshack/how-i-built-my-technical-writing-portfolio-website-using-github-pages-40k4)
-- [GenAI Genie: Conjuring Magic with LangChain, Pinecone, and FastAPI](https://dev.to/sakethkowtha/genai-genie-conjuring-magic-with-langchain-pinecone-and-fastapi-211d)
-- [Cosplay Industry Trends: Insights and Analysis for 2025](https://dev.to/gregg001/cosplay-industry-trends-insights-and-analysis-for-2025-329i)
+- [Things to Do After Installing Termux: A Comprehensive Guide for Beginners](https://dev.to/terminaltools/things-to-do-after-installing-termux-a-comprehensive-guide-for-beginners-3f9c)
+- [Corazón de melón](https://dev.to/david_bermenvliz/corazon-de-melon-5dii)
+- [Build an MVP: Strategy &amp; Design](https://dev.to/mobisoftinfotech/build-an-mvp-strategy-design-4057)
+- [Commit to Code: Branching, Merging, Squashing &amp; Rebasing](https://dev.to/shanedsouza4/commit-to-code-branching-merging-squashing-rebasing-3b64)
+- [Meet ai_localizer: Automate I18n Translation in Rails with the power of AI](https://dev.to/sokmesakhiev/meet-ailocalizer-automate-i18n-translation-in-rails-with-the-power-of-ai-2abo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
