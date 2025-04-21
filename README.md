@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Annotation in SpringBoot](https://dev.to/neelakandan_ravi/annotation-in-springboot-1jf3)
-- [The Day I Realized I Needed to Raise My Rates as a Coder](https://dev.to/canro91/the-day-i-realized-i-needed-to-raise-my-rates-as-a-coder-hog)
-- [The one place for &#39;IMAGE TOOLS&#39; - Image Forge](https://dev.to/phantom_dev/the-one-place-for-image-tools-image-forge-36ak)
-- [Does React Work for iOS, and How Does it Perform?](https://dev.to/brilworks/does-react-work-for-ios-and-how-does-it-perform-2phe)
-- [🧩 The Microservices Database Dilemma: Patterns, Challenges, and Best Practices](https://dev.to/junihoj/the-microservices-database-dilemma-patterns-challenges-and-best-practices-22on)
+- [Building a Kubernetes Cluster on Bare Metal: Insights, Challenges, and a Complete Setup Guide](https://dev.to/arkrak4568/building-a-kubernetes-cluster-on-bare-metal-insights-challenges-and-a-complete-setup-guide-5273)
+- [Applying Checkov: Static Application Security Testing &lpar;SAST&rpar; to Infrastructure as Code with Terraform](https://dev.to/ahmed_hasanakhtaroviedo/applying-checkov-static-application-security-testing-sast-to-infrastructure-as-code-with-203d)
+- [Is Node.js the Right Fit for Your Business Website or App?](https://dev.to/alex_3c165a96b43112b35d9e/is-nodejs-the-right-fit-for-your-business-website-or-app-4kn0)
+- [ToTensor in PyTorch](https://dev.to/hyperkai/totensor-in-pytorch-48c9)
+- [ClimaCode](https://dev.to/preetha_vaishnavi_2b82358/climacode-3ioo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
