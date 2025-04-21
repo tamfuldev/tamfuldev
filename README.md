@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Connecting to an EC2 Instance: A Deep Dive into Session Manager](https://dev.to/glory_ugochukwu_57b6cf663/connecting-to-an-ec2-instance-a-deep-dive-into-session-manager-1gbl)
-- [Best Blog Post Formats That Keep Readers Hooked &lpar;With Examples&rpar;](https://dev.to/blogzeros/best-blog-post-formats-that-keep-readers-hooked-with-examples-7jj)
-- [Step-by-Step Guide to Scraping Google Search](https://dev.to/swiftproxy_residential/step-by-step-guide-to-scraping-google-search-2n14)
-- [[Boost]](https://dev.to/pixaware_technologysolut/-2hmp)
-- [Leveraging ServBay&#39;s Local AI Capabilities: Effortlessly Batch Translate Markdown Documents](https://dev.to/servbay/leveraging-servbays-local-ai-capabilities-effortlessly-batch-translate-markdown-documents-1c22)
+- [A Simple Guide to ACLs in Linux](https://dev.to/chielo_chiamaka/a-simple-guide-to-acls-in-linux-pd3)
+- [The importance of mental models](https://dev.to/yulei-chen/the-importance-of-mental-models-4l00)
+- [Case Study: Deploying a Python AI Application with Ollama and FastAPI](https://dev.to/mitchell_cheng/case-study-deploying-a-python-ai-application-with-ollama-and-fastapi-l9p)
+- [AWS VPC Setup: Public &amp; Private Subnets with IGW, NAT, and EC2](https://dev.to/durga_v/aws-vpc-setup-public-private-subnets-with-igw-nat-and-ec2-4hkm)
+- [Absolutely amazing guide to testing push notifications.](https://dev.to/armmurr/guide-to-testing-push-notifications-27k4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
