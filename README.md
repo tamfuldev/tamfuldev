@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🍅 The Power of the Pomodoro Timer: Why It Works and How to Use It](https://dev.to/e-clock/the-power-of-the-pomodoro-timer-why-it-works-and-how-to-use-it-cem)
-- [Design Patterns #5: Null Object Pattern – Writing Safer, Cleaner Code.](https://dev.to/serhii_korol_ab7776c50dba/design-patterns-5-null-object-pattern-writing-safer-cleaner-code-ebl)
-- [DevOops, We&#39;ve Done It Again: The Continued Silos Between AppDev and Ops](https://dev.to/dbhagen/devoops-weve-done-it-again-the-continued-silos-between-appdev-and-ops-55hb)
-- [What are your goals for the week? #123](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-123-1b9f)
-- [🌙 Daily MySQL Backup &lpar;Windows&rpar;](https://dev.to/nurulislamrimon/daily-mysql-backup-windows-ml5)
+- [Quark&#39;s Outlines: Python Literals](https://dev.to/mike-vincent/quarks-outlines-python-literals-30d8)
+- [Parallel Query Processing - &lpar;System-wide and Query-based&rpar;](https://dev.to/intersystems/parallel-query-processing-system-wide-and-query-based-58j6)
+- [How AI handles your cloud deployment automatically?](https://dev.to/jevin/how-ai-handles-your-cloud-deployment-automatically-1i21)
+- [Logistic Regression from theory to code implementation](https://dev.to/leonhard_kwahle_7d09cf417/logistic-regression-from-theory-to-code-implementation-39l4)
+- [Using gRPC in React the Modern Way: From gRPC-web to Connect](https://dev.to/arichy/using-grpc-in-react-the-modern-way-from-grpc-web-to-connect-41lc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
