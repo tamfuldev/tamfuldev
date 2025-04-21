@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [7 Things I Wish I Knew When I Started Coding &lpar;Beginner Dev Tips&rpar;](https://dev.to/mariecolvinn/7-things-i-wish-i-knew-when-i-started-coding-beginner-dev-tips-oco)
-- [If You Can&#39;t Control Access, You Can&#39;t Control the Cloud &lpar;Part 1&rpar;](https://dev.to/dtemi/if-you-cant-control-access-you-cant-control-the-cloud-part-1-4330)
-- [🚀 600 Minds in the Swarm — What Comes Next?](https://dev.to/matrixswarm/600-minds-in-the-swarm-what-comes-next-4e31)
-- [How Kubernetes Automates and Manages Your Docker Containers](https://dev.to/upcloud/how-kubernetes-automates-and-manages-your-docker-containers-278n)
-- [On wasted effort and ‘vibe coding’](https://dev.to/lpnts/on-wasted-effort-and-vibe-coding-356e)
+- [Como configurar diferentes ambientes em apps React Native](https://dev.to/ambegossi/como-configurar-diferentes-ambientes-para-apps-react-native-2o5k)
+- [Software Testing in 2025: Crafting User-Centric Apps 🌍](https://dev.to/vaibhavkuls/software-testing-in-2025-crafting-user-centric-apps-2kcp)
+- [Looking for a Technical Co-Founder for a Web3 Community Platform](https://dev.to/ruthxeus/looking-for-a-technical-co-founder-for-a-web3-community-platform-5190)
+- [Is Artificial Intelligence the Future?](https://dev.to/aryaarjan118/is-artificial-intelligence-the-future-10a5)
+- [Google Workspace Flows with Natural Language](https://dev.to/googleworkspace/google-workspace-flows-with-natural-language-13e5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
