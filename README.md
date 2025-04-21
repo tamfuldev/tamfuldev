@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Best Practices for Managing Customer Data in a CRM](https://dev.to/bhavesh_gangani_/best-practices-for-managing-customer-data-in-a-crm-553g)
-- [Building an Agentic Workflow: Orchestrating a Multi-Step Software Engineering Interview](https://dev.to/orkes/building-an-agentic-workflow-orchestrating-a-multi-step-software-engineering-interview-57h2)
-- [Data-Driven Training Strategies: Leveraging Software for Workforce Growth](https://dev.to/lukasjeremy/data-driven-training-strategies-leveraging-software-for-workforce-growth-144p)
-- [Solving Kamal&#39;s &quot;Target Failed to Become Healthy&quot; Error: A Practical Debugging Guide](https://dev.to/jetthoughts/solving-kamals-target-failed-to-become-healthy-error-a-practical-debugging-guide-25a6)
-- [How I Discovered NEXA Website and My Insights](https://dev.to/nexa-vape/how-i-discovered-nexa-website-and-my-insights-2ea8)
+- [[Boost]](https://dev.to/wellington01/-330e)
+- [🦀 Rust&#39;s Type System: Forte, estático e à prova de erros/Strong, Static, and Built for Safety](https://dev.to/slns/rusts-type-system-forte-estatico-e-a-prova-de-errosstrong-static-and-built-for-safety-1cjd)
+- [Composant Chip avec RiotJS](https://dev.to/steeve/composant-chip-avec-riotjs-20nd)
+- [assignment](https://dev.to/jeya_lakshmi_c417e8c65649/void-and-return-type-in-java-405j)
+- [Coupling and Cohesion: The Two Principles for Effective Architecture](https://dev.to/devsk001/coupling-and-cohesion-the-two-principles-for-effective-architecture-3oc8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
