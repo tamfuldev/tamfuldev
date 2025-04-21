@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Help Build Doguino – A Dutch Online Dog Game](https://dev.to/vinboy/help-build-doguino-a-dutch-online-dog-game-359f)
-- [I&#39;m a Bicester South &quot;paper candidate&quot; for the Green Party!](https://dev.to/nottrobin/im-a-bicester-south-paper-candidate-for-the-green-party-53e5)
-- [E se eu tivesse um Jekyll homemade?](https://dev.to/paulopilotti/e-se-eu-tivesse-um-jekyll-homemade-4e3g)
-- [🥋 Applying Aikido: SAST in Web Applications from the Repository](https://dev.to/ahmed_a_o/applying-aikido-sast-in-web-applications-from-the-repository-c1o)
-- [[Boost]](https://dev.to/elizabeth8012/-18gg)
+- [Using Observables for Reactive Programming](https://dev.to/omriluz1/using-observables-for-reactive-programming-3jba)
+- [Full Stack Development Roadmap 2025 + Ebook That Will Change Your Career](https://dev.to/code_2/full-stack-development-roadmap-2025-ebook-that-will-change-your-career-3ch4)
+- [How to Implement Throttled Input Handling in React Without External Libraries](https://dev.to/hexshift/how-to-implement-throttled-input-handling-in-react-without-external-libraries-1ko5)
+- [Vibe Coding: Will AI Replace Programmers or Empower Them?](https://dev.to/dilanblog/vibe-coding-will-ai-replace-programmers-or-empower-them-1o86)
+- [Tesla Ticker NASDAQ Update: Price Trends, Predictions, and Analysis](https://dev.to/ray_parker01/tesla-ticker-nasdaq-update-price-trends-predictions-and-analysis-1ei6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
