@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Things to Do After Installing Termux: A Comprehensive Guide for Beginners](https://dev.to/terminaltools/things-to-do-after-installing-termux-a-comprehensive-guide-for-beginners-3f9c)
-- [Corazón de melón](https://dev.to/david_bermenvliz/corazon-de-melon-5dii)
-- [Build an MVP: Strategy &amp; Design](https://dev.to/mobisoftinfotech/build-an-mvp-strategy-design-4057)
-- [Commit to Code: Branching, Merging, Squashing &amp; Rebasing](https://dev.to/shanedsouza4/commit-to-code-branching-merging-squashing-rebasing-3b64)
-- [Meet ai_localizer: Automate I18n Translation in Rails with the power of AI](https://dev.to/sokmesakhiev/meet-ailocalizer-automate-i18n-translation-in-rails-with-the-power-of-ai-2abo)
+- [[Boost]](https://dev.to/jackiizcc/-3cf7)
+- [🔍 Data Cleaning Techniques Using SQL](https://dev.to/mohammed_jobairhossain_c/data-cleaning-techniques-using-sql-68d)
+- [Building a Local AI Agent with Ollama + MCP + LangChain + Docker&quot;](https://dev.to/rajeev_3ce9f280cbae73b234/building-a-local-ai-agent-with-ollama-mcp-docker-37a)
+- [Chef Salt &amp; Chef Pepper: Gemini-Powered Chef Assistants](https://dev.to/jonathonchenvert/chef-salt-chef-pepper-gemini-powered-chef-assistants-1mlk)
+- [Graph RAG의 모든 것](https://dev.to/bits-bytes-nn/graph-ragyi-modeun-geos-1n5k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
