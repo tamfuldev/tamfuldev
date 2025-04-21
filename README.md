@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Kubernetes Cluster on Bare Metal: Insights, Challenges, and a Complete Setup Guide](https://dev.to/arkrak4568/building-a-kubernetes-cluster-on-bare-metal-insights-challenges-and-a-complete-setup-guide-5273)
-- [Applying Checkov: Static Application Security Testing &lpar;SAST&rpar; to Infrastructure as Code with Terraform](https://dev.to/ahmed_hasanakhtaroviedo/applying-checkov-static-application-security-testing-sast-to-infrastructure-as-code-with-203d)
-- [Is Node.js the Right Fit for Your Business Website or App?](https://dev.to/alex_3c165a96b43112b35d9e/is-nodejs-the-right-fit-for-your-business-website-or-app-4kn0)
-- [ToTensor in PyTorch](https://dev.to/hyperkai/totensor-in-pytorch-48c9)
-- [ClimaCode](https://dev.to/preetha_vaishnavi_2b82358/climacode-3ioo)
+- [SQL DDL Commands Explained: Structuring Your Database](https://dev.to/dbvismarketing/sql-ddl-commands-explained-structuring-your-database-4i92)
+- [Menonaktifkan akses anonymous ke Devportal WSO2 API Manager](https://dev.to/agusmerdeko/menonaktifkan-akses-anonymous-ke-devportal-wso2-api-manager-2d98)
+- [All-in-One Mobile Recharge Software Solutions for DTH, Postpaid, Prepaid, and Utility Payments](https://dev.to/ankitkumar1/all-in-one-mobile-recharge-software-solutions-for-dth-postpaid-prepaid-and-utility-payments-31pk)
+- [One Brand, Multiple Voices: How to Create Platform-Specific Content Without Losing Your Identity](https://dev.to/okoye_ndidiamaka_5e3b7d30/one-brand-multiple-voices-how-to-create-platform-specific-content-without-losing-your-identity-1123)
+- [💻 40 Web Developer Questions Recruiters Actually Ask in 2025 🔥](https://dev.to/finalroundai/40-web-developer-questions-recruiters-actually-ask-in-2025-aaf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
