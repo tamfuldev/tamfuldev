@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [jenv - managing multiple JDK environments](https://dev.to/m07sk/jenv-managing-multiple-jdk-environments-5d7)
-- [Exploring a Python Project on GitHub](https://dev.to/vivek_chaurasia_5e4b55e7f/exploring-a-python-project-on-github-2dfc)
-- [Exploring a Jupyter Notebook Project on GitHub](https://dev.to/vivek_chaurasia_5e4b55e7f/exploring-a-jupyter-notebook-project-on-github-445i)
-- [Optimizing ClickHouse for Financial Time Series](https://dev.to/ms-dev/optimizing-clickhouse-for-financial-time-series-39d6)
-- [Just Joined here - Questions!](https://dev.to/oberin/just-joined-here-questions-1l88)
+- [LivinGrimoire: The Design Pattern That Makes Others Look Like Scrap Metal](https://dev.to/owly/livingrimoire-the-design-pattern-that-makes-others-look-like-scrap-metal-1ih9)
+- [Why Are Buttons Losing the Pointer Cursor? The ShadCN and Tailwind Debate](https://dev.to/mmvergara/why-are-buttons-losing-the-pointer-cursor-the-shadcn-and-tailwind-debate-2j93)
+- [Exploring a Python Project on GitHub](https://dev.to/vivek_chaurasia_5e4b55e7f/exploring-a-python-project-on-github-3n9n)
+- [Azure Applied Skills: Create and configure virtual networks](https://dev.to/johnogbonna/azure-applied-skills-create-and-configure-virtual-networks-45gi)
+- [Exploring a Python Project on GitHub](https://dev.to/vivek_chaurasia_5e4b55e7f/exploring-a-python-project-on-github-33h8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
