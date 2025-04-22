@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Stopped Planning and Just Shipped — Here’s What Happened](https://dev.to/shreshthgoyal/i-stopped-planning-and-just-shipped-heres-what-happened-4pch)
-- [Crafting URLs That Search Engines &lpar;And Humans&rpar; Love: A Developer&#39;s 2025 Playbook](https://dev.to/codebucks/crafting-urls-that-search-engines-and-humans-love-a-developers-2025-playbook-3820)
-- [[Boost]](https://dev.to/brian_dussault/-3h6c)
-- [A Reflection on My First Steps in Tech](https://dev.to/johnking376/a-reflection-on-my-first-steps-in-tech-2eaj)
-- [Celebrating our step towards sustainability this Environment Day — because change begins with us.](https://dev.to/khushihiagrawal/celebrating-our-step-towards-sustainability-this-environment-day-because-change-begins-with-us-5aec)
+- [The EventTarget Interface and Custom Events](https://dev.to/omriluz1/the-eventtarget-interface-and-custom-events-29jh)
+- [How to Generate IaC Templates from Your Docker Files](https://dev.to/piotr_hajdas/how-to-generate-iac-templates-from-your-docker-files-3gn)
+- [🧠✍️ How AI Is Revolutionizing Novel Writing: Tools, Tech &amp; Human Touch](https://dev.to/jeremy_libeskind_4bfdc99f/how-ai-is-revolutionizing-novel-writing-tools-tech-human-touch-19f8)
+- [Building a Cron Job System in Rust with Tokio and Cronexpr](https://dev.to/hexshift/building-a-cron-job-system-in-rust-with-tokio-and-cronexpr-18j1)
+- [Understanding Angular CLI Output: A Developer&#39;s Guide to `ng version`](https://dev.to/cristiansifuentes/understanding-angular-cli-output-a-developers-guide-to-ng-version-5c56)
 <!-- BLOG-POST-LIST:END -->
 
 ---
