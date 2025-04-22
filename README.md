@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The EventTarget Interface and Custom Events](https://dev.to/omriluz1/the-eventtarget-interface-and-custom-events-29jh)
-- [How to Generate IaC Templates from Your Docker Files](https://dev.to/piotr_hajdas/how-to-generate-iac-templates-from-your-docker-files-3gn)
-- [🧠✍️ How AI Is Revolutionizing Novel Writing: Tools, Tech &amp; Human Touch](https://dev.to/jeremy_libeskind_4bfdc99f/how-ai-is-revolutionizing-novel-writing-tools-tech-human-touch-19f8)
-- [Building a Cron Job System in Rust with Tokio and Cronexpr](https://dev.to/hexshift/building-a-cron-job-system-in-rust-with-tokio-and-cronexpr-18j1)
-- [Understanding Angular CLI Output: A Developer&#39;s Guide to `ng version`](https://dev.to/cristiansifuentes/understanding-angular-cli-output-a-developers-guide-to-ng-version-5c56)
+- [This algorithm&#39;s O&lpar;n log n + m&rpar; runtime for a 2-approximate Dominating Set presents tangible, efficient evidence that P = NP may be practically realizable via near-optimal polynomial-time solutions. Deployed and Ready to use https://pypi.org/project/baldor](https://dev.to/frank_vega_987689489099bf/this-algorithms-on-log-n-m-runtime-for-a-2-approximate-dominating-set-presents-tangible-2jdm)
+- [📸 Meet env-snapper: Snapshot &amp; Track Your .env Files with Ease](https://dev.to/alex_gutscher_2ab0d3cf4c3/meet-env-snapper-snapshot-track-your-env-files-with-ease-1fea)
+- [Spring Security’s Silent Rules That Break Your App](https://dev.to/tharun_07/spring-securitys-silent-rules-that-break-your-app-55j1)
+- [Test Article: MCP Publishing Demo](https://dev.to/govindup63/test-article-mcp-publishing-demo-1lo1)
+- [What Is SoftHSM](https://dev.to/hasanmonsur/what-is-softhsm-3k5h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
