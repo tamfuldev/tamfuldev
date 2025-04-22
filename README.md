@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The GitHub Chronicles: Your Contribution Graph Tells a Story &lpar;But Not the One You Think&rpar;](https://dev.to/devnenyasha/the-github-chronicles-your-contribution-graph-tells-a-story-but-not-the-one-you-think-1cio)
-- [Building an HR Team-Matching Agent With MongoDB Vector Search, Voyage AI, &amp; Vercel AI SDK](https://dev.to/mongodb/building-an-hr-team-matching-agent-with-mongodb-vector-search-voyage-ai-vercel-ai-sdk-jgl)
-- [[Boost]](https://dev.to/ayeshamunawar/-3lba)
-- [Create a Websocket client in Javascript using a web worker](https://dev.to/jerdox/create-a-websocket-client-in-javascript-using-a-web-worker-19cb)
-- [Finding Your Circle: How Teamup Circle Makes Open Source Contribution Accessible](https://dev.to/tamer-tawfik/finding-your-circle-how-teamup-circle-makes-open-source-contribution-accessible-350p)
+- [Applying Sennett&#39;s Trio to Software Architecture – Localise, Question, Open Up](https://dev.to/sebs/applying-sennetts-trio-to-software-architecture-localise-question-open-up-l5n)
+- [Going Deeper with Keycloak: Understanding Authorization Services](https://dev.to/haithamoumer/going-deeper-with-keycloak-understanding-authorization-services-27m)
+- [What is Spacelift? Key Features, Benefits &amp; Use Cases](https://dev.to/spacelift/what-is-spacelift-key-features-benefits-use-cases-3o4k)
+- [🚀 API Maker : Release Notes for v1.15.0](https://dev.to/apimaker/api-maker-release-notes-for-v1150-4hpi)
+- [WebGPU &amp; 3D: The New Frontier in Frontend](https://dev.to/klimd1389/webgpu-3d-the-new-frontier-in-frontend-1dmm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
