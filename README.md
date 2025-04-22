@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring a C++ Project on GitHub](https://dev.to/vivek_chaurasia_5e4b55e7f/exploring-a-c-project-on-github-3k85)
-- [React road map](https://dev.to/jeya_lakshmi_c417e8c65649/react-road-map-1gle)
-- [Supercharging Your LLMs: A Dev&#39;s Guide to Real-Time Data Magic with n8n](https://dev.to/sakethkowtha/supercharging-your-llms-a-devs-guide-to-real-time-data-magic-with-n8n-1egl)
-- [What are hallucinations in Gen AI?](https://dev.to/shriyansh_iot_98734929139/what-are-hallucinations-in-gen-ai-44oc)
-- [Why My Kubernetes App Crashed – Debugging Guide for Beginners](https://dev.to/yash_sonawane25/why-my-kubernetes-app-crashed-debugging-guide-for-beginners-347g)
+- [CUDA Series &lpar;2/3&rpar;](https://dev.to/minwook/cuda-series-23-2d3p)
+- [Can a Diabetic Eat Grits? Everything You Should Know](https://dev.to/oliver_b2/can-a-diabetic-eat-grits-everything-you-should-know-59l9)
+- [How to Schedule Cron Jobs in Firebase Cloud Functions &lpar;Without Paid Plans&rpar;](https://dev.to/hexshift/how-to-schedule-cron-jobs-in-firebase-cloud-functions-without-paid-plans-4oee)
+- [Understanding Time Zones: A Developer&#39;s Guide 🕒🌍](https://dev.to/e-clock/understanding-time-zones-a-developers-guide-1cl4)
+- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-5fcm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
