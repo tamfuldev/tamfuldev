@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [This algorithm&#39;s O&lpar;n log n + m&rpar; runtime for a 2-approximate Dominating Set presents tangible, efficient evidence that P = NP may be practically realizable via near-optimal polynomial-time solutions. Deployed and Ready to use https://pypi.org/project/baldor](https://dev.to/frank_vega_987689489099bf/this-algorithms-on-log-n-m-runtime-for-a-2-approximate-dominating-set-presents-tangible-2jdm)
-- [📸 Meet env-snapper: Snapshot &amp; Track Your .env Files with Ease](https://dev.to/alex_gutscher_2ab0d3cf4c3/meet-env-snapper-snapshot-track-your-env-files-with-ease-1fea)
-- [Spring Security’s Silent Rules That Break Your App](https://dev.to/tharun_07/spring-securitys-silent-rules-that-break-your-app-55j1)
-- [Test Article: MCP Publishing Demo](https://dev.to/govindup63/test-article-mcp-publishing-demo-1lo1)
-- [What Is SoftHSM](https://dev.to/hasanmonsur/what-is-softhsm-3k5h)
+- [🌍 5+ APIs Developers Can Use to Celebrate Earth Day 2025](https://dev.to/cobykalter/5-apis-developers-can-use-to-celebrate-earth-day-2025-2a0n)
+- [How I Built a GPT-Powered Study Buddy That Helped Me Learn Python in a Week](https://dev.to/gaurav_techie_1996/how-i-built-a-gpt-powered-study-buddy-that-helped-me-learn-python-in-a-week-2p91)
+- [Por que Composition API?](https://dev.to/stefanyrepetcki/por-que-composition-api-2ofm)
+- [Build the Smartest AI Bot You’ve Ever Seen — A 7B Model + Web Search, Right on Your Laptop](https://dev.to/alexander_uspenskiy_the_great/build-the-smartest-bot-youve-ever-seen-a-7b-model-web-search-right-on-your-laptop-5eoe)
+- [191/365 | ¥10M Job Challenge - Body Clock](https://dev.to/kameken100/191365-y10m-job-challenge-body-clock-1enf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
