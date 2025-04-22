@@ -16,7 +16,7 @@
 # Latest stack oveflow activity
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><tr><td>having trouble with xml mapping</td><td>https://stackoverflow.com/questions/79586737/having-trouble-with-xml-mapping</td></tr><tr><td>HTML Purify removing display:flex;</td><td>https://stackoverflow.com/questions/79586630/html-purify-removing-displayflex</td></tr><tr><td>Pagination UI is broken</td><td>https://stackoverflow.com/questions/79586616/pagination-ui-is-broken</td></tr><tr><td>How to remove tags with certain style from HTML? [duplicate]</td><td>https://stackoverflow.com/questions/79586140/how-to-remove-tags-with-certain-style-from-html</td></tr><tr><td>Erreur malgré upload du bon fichier [closed]</td><td>https://stackoverflow.com/questions/79586072/erreur-malgr%c3%a9-upload-du-bon-fichier</td></tr><!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:START --><tr><td>How to Pass Data from a Page to a Custom Widget in Filament 2?</td><td>https://stackoverflow.com/questions/79586919/how-to-pass-data-from-a-page-to-a-custom-widget-in-filament-2</td></tr><tr><td>PHP form submission not working &quot;This page isn’t working right now&quot;</td><td>https://stackoverflow.com/questions/79586861/php-form-submission-not-working-this-page-isn-t-working-right-now</td></tr><tr><td>having trouble with xml mapping [closed]</td><td>https://stackoverflow.com/questions/79586737/having-trouble-with-xml-mapping</td></tr><tr><td>HTML Purify removing display:flex;</td><td>https://stackoverflow.com/questions/79586630/html-purify-removing-displayflex</td></tr><tr><td>Pagination UI is broken</td><td>https://stackoverflow.com/questions/79586616/pagination-ui-is-broken</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 
 ---
