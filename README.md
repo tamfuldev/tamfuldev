@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🌍 5+ APIs Developers Can Use to Celebrate Earth Day 2025](https://dev.to/cobykalter/5-apis-developers-can-use-to-celebrate-earth-day-2025-2a0n)
-- [How I Built a GPT-Powered Study Buddy That Helped Me Learn Python in a Week](https://dev.to/gaurav_techie_1996/how-i-built-a-gpt-powered-study-buddy-that-helped-me-learn-python-in-a-week-2p91)
-- [Por que Composition API?](https://dev.to/stefanyrepetcki/por-que-composition-api-2ofm)
-- [Build the Smartest AI Bot You’ve Ever Seen — A 7B Model + Web Search, Right on Your Laptop](https://dev.to/alexander_uspenskiy_the_great/build-the-smartest-bot-youve-ever-seen-a-7b-model-web-search-right-on-your-laptop-5eoe)
-- [191/365 | ¥10M Job Challenge - Body Clock](https://dev.to/kameken100/191365-y10m-job-challenge-body-clock-1enf)
+- [What is Amazon API Gateway? The Ultimate Guide](https://dev.to/leonardkachi/what-is-amazon-api-gateway-the-ultimate-guide-37j)
+- [Vue - Usando watchEffect e reactive para maior controle](https://dev.to/stefanyrepetcki/vue-usando-watcheffect-e-reactive-para-maior-controle-2hkf)
+- [Meet PKI: The Quiet Hero Behind Secure Browsing](https://dev.to/rijultp/meet-pki-the-quiet-hero-behind-secure-browsing-5fkc)
+- [Vue com composition API - Computed e Watch](https://dev.to/stefanyrepetcki/vue-com-composition-api-computed-e-watch-574g)
+- [Understanding Apache Kafka: Topics, Partitions, Brokers,](https://dev.to/jhonifaber/understanding-apache-kafka-topics-partitions-brokers-2182)
 <!-- BLOG-POST-LIST:END -->
 
 ---
