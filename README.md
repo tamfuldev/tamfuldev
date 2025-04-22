@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [LivinGrimoire: The Design Pattern That Makes Others Look Like Scrap Metal](https://dev.to/owly/livingrimoire-the-design-pattern-that-makes-others-look-like-scrap-metal-1ih9)
-- [Why Are Buttons Losing the Pointer Cursor? The ShadCN and Tailwind Debate](https://dev.to/mmvergara/why-are-buttons-losing-the-pointer-cursor-the-shadcn-and-tailwind-debate-2j93)
-- [Exploring a Python Project on GitHub](https://dev.to/vivek_chaurasia_5e4b55e7f/exploring-a-python-project-on-github-3n9n)
-- [Azure Applied Skills: Create and configure virtual networks](https://dev.to/johnogbonna/azure-applied-skills-create-and-configure-virtual-networks-45gi)
-- [Exploring a Python Project on GitHub](https://dev.to/vivek_chaurasia_5e4b55e7f/exploring-a-python-project-on-github-33h8)
+- [Exploring a C++ Project on GitHub](https://dev.to/vivek_chaurasia_5e4b55e7f/exploring-a-c-project-on-github-3k85)
+- [React road map](https://dev.to/jeya_lakshmi_c417e8c65649/react-road-map-1gle)
+- [Supercharging Your LLMs: A Dev&#39;s Guide to Real-Time Data Magic with n8n](https://dev.to/sakethkowtha/supercharging-your-llms-a-devs-guide-to-real-time-data-magic-with-n8n-1egl)
+- [What are hallucinations in Gen AI?](https://dev.to/shriyansh_iot_98734929139/what-are-hallucinations-in-gen-ai-44oc)
+- [Why My Kubernetes App Crashed – Debugging Guide for Beginners](https://dev.to/yash_sonawane25/why-my-kubernetes-app-crashed-debugging-guide-for-beginners-347g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
