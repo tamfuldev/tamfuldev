@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Kotlin + gRPC: Nesting, Composition, Validations, and Idiomatic Builder DSL](https://dev.to/lucasfugisawa/kotlin-grpc-nesting-composition-validations-and-idiomatic-builder-dsl-cap)
-- [Que es AngularJS?](https://dev.to/joshua_leon_65b677a50c098/que-es-angularjs-1oo5)
-- [Software Testing: Theory and Practice &lpar;Part 1&rpar; - Fundamental Concepts of Software Testing](https://dev.to/kuniwak/software-testing-theory-and-practice-part-1-fundamental-concepts-of-software-testing-2khi)
-- [I Built a Baseball Roster Guessing Game with Angular + Cloud Run &lpar;and It Roasts You If You Lose&rpar;](https://dev.to/nbrinson2/i-built-a-baseball-roster-guessing-game-with-angular-cloud-run-and-it-roasts-you-if-you-lose-4dhe)
-- [Mastering URL‑Safe Encoding with .NET 9’s Base64Url Class: Examples &amp; Best Practices](https://dev.to/leandroveiga/mastering-url-safe-encoding-with-net-9s-base64url-class-examples-best-practices-2pp0)
+- [Why stop using TypeScript in small projects](https://dev.to/_1276edf89188473f6daef2/why-stop-using-typescript-in-small-projects-32go)
+- [Processing Large-Scale Data with Parquet Files: Pros and Cons](https://dev.to/saif_uddin/processing-large-scale-data-with-parquet-files-pros-and-cons-2d05)
+- [Running Native Bash Scripts from a Web Interface Using WebAssembly and WASI](https://dev.to/hexshift/running-native-bash-scripts-from-a-web-interface-using-webassembly-and-wasi-nnl)
+- [Cattri: The Ruby DSL for Clean, Scalable Class and Instance Attributes](https://dev.to/bnlucas/cattri-the-ruby-dsl-for-clean-scalable-class-and-instance-attributes-c5m)
+- [[Boost]](https://dev.to/it9tl/-44co)
 <!-- BLOG-POST-LIST:END -->
 
 ---
