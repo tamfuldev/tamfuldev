@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [.NET Learning Notes: Using xUnit + moq to unit test](https://dev.to/alexleeeeeeeeee/net-learning-notes-using-xunit-moq-to-unit-test-1nc5)
-- [Como Aprender Uma Nova Linguagem de Programação: Um roteiro para devs :&rpar;](https://dev.to/mayulabs/como-aprender-uma-nova-linguagem-de-programacao-um-roteiro-para-devs--4bha)
-- [day-32: Getter and Setter Methods in Java - Simple Example](https://dev.to/e00049/day-32-getter-and-setter-methods-in-java-simple-example-dbo)
-- [Using tech, AI to make construction jobs appeal to women](https://dev.to/sadiksajid/using-tech-ai-to-make-construction-jobs-appeal-to-women-n3k)
-- [day-31: Getter and Setter Methods in Java - Simple Example](https://dev.to/e00049/day-31-getter-and-setter-methods-in-java-simple-example-1epf)
+- [You&#39;re a square!](https://dev.to/maddiepst/youre-a-square-fgb)
+- [Welcome Thread - v323](https://dev.to/devteam/welcome-thread-v323-148c)
+- [How to Convert SQL Queries to API Requests &lpar;3 Methods&rpar;](https://dev.to/jeffdev03/how-to-convert-sql-queries-to-api-requests-3-methods-4135)
+- [Top 16 TypeScript Mistakes Developers Make &lpar;And How to Fix Them&rpar;](https://dev.to/leapcell/top-16-typescript-mistakes-developers-make-and-how-to-fix-them-4p9a)
+- [[Boost]](https://dev.to/grexe/-4lgk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
