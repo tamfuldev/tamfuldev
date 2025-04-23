@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Clipboard API and Web Share API](https://dev.to/omriluz1/clipboard-api-and-web-share-api-2eh)
-- [Memory Models of Distributed Systems](https://dev.to/ninjin/memory-models-of-distributed-systems-5b9i)
-- [Custom Keycaps as Lifestyle: Why Keyboard Design Feels So Personal](https://dev.to/mysticcoder/custom-keycaps-as-lifestyle-why-keyboard-design-feels-so-personal-474p)
-- [JWT vs Sessions: The Real Difference in Simple Words](https://dev.to/alisamir/jwt-vs-sessions-the-real-difference-in-simple-words-51c0)
-- [About Linux - Compiler , Process ,Executable](https://dev.to/guru_prasanna_01/about-linux-compiler-process-executable-53gl)
+- [My first play through was an awesome experience](https://dev.to/no_momo_f91fc40d15fd8f213/my-first-play-through-was-an-awesome-experience-5ejf)
+- [📁 Understanding HTML File Paths](https://dev.to/himanayk/understanding-html-file-paths-4cba)
+- [Create a dynamic multiple step form with Tailwind CSS and Alpine JS](https://dev.to/mike_andreuzza/create-a-dynamic-multiple-step-form-with-tailwind-css-and-alpine-js-3kdc)
+- [High-Performance Go Middleware: Building Efficient HTTP Request Chains](https://dev.to/aaravjoshi/high-performance-go-middleware-building-efficient-http-request-chains-3ib0)
+- [How to Scale Influencer Marketing Campaigns Without Expanding Your Team | Entyx AI](https://dev.to/entyx/how-to-scale-influencer-marketing-campaigns-without-expanding-your-team-entyx-ai-516i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
