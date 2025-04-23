@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Solitaire](https://dev.to/ayegl_arslan_6e7626c21d/solitaire-k8o)
-- [How to Demo Your Application to a New Development Team: A Helpful Guide](https://dev.to/autumn_tonita/how-to-demo-your-application-to-a-new-development-team-a-helpful-guide-37mo)
-- [I created my own AI search engine](https://dev.to/techtech/ich-habe-meine-eigene-ki-suchmaschine-erstellt-c12)
-- [Building Complexus: How I am Building a Modern Enterprise Frontend Architecture with Next.js and Turborepo](https://dev.to/josemukorivo/building-complexus-how-i-am-building-a-modern-enterprise-frontend-architecture-with-nextjs-and-48bp)
-- [So much yes. I’ve been pitching the benefits of a new tool without showing the exit strategy – no wonder it wasn’t landing. #AshkanRajaee #careeradvice #developerlife #softskills #techleadership #DevTo](https://dev.to/kierwolf20/so-much-yes-ive-been-pitching-the-benefits-of-a-new-tool-without-showing-the-exit-strategy-no-1e9o)
+- [Kubernetes Agent Blind to New Mounts? Demystifying Mount Propagation](https://dev.to/azalio/kubernetes-agent-blind-to-new-mounts-demystifying-mount-propagation-38ic)
+- [Modules in Node.js](https://dev.to/samandarhodiev/modules-in-nodejs-1b2f)
+- [The Art and Science of Problem Solving in Business Process Management](https://dev.to/michael-gokey/the-art-and-science-of-problem-solving-in-business-process-management-562o)
+- [Think Text-to-SQL is complicated? This simple tutorial breaks down how to turn your questions into accurate SQL queries, step-by-step: https://dev.to/zachary62/text-to-sql-from-scratch-tutorial-for-dummies-using-pocketflow-1obd](https://dev.to/zachary62/think-text-to-sql-is-complicated-this-simple-tutorial-breaks-down-how-to-turn-your-questions-into-1kne)
+- [From Code to Cloud: Why I’m Here 🚀](https://dev.to/michael-gokey/from-code-to-cloud-why-im-here-1ie1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
