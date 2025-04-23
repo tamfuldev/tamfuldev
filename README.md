@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [⚡️ 6 Standout Portfolio Tips, UX Generalist Comeback &amp; What&#39;s VibeScript?](https://dev.to/adam/6-standout-portfolio-tips-ux-generalist-comeback-whats-vibescript-40e1)
-- [Building for the Surge — What We Learned Architecting a System for 10,000+ Users at Once](https://dev.to/mehartung/building-for-the-surge-what-we-learned-architecting-a-system-for-10000-users-at-once-200c)
-- [Why Building New Blockchains Still Makes Sense in 2025](https://dev.to/iri_denis/why-building-new-blockchains-still-makes-sense-in-2025-3cf2)
-- [Biblically Accurate Rust 😇](https://dev.to/wiseai/biblically-accurate-rust-1p9h)
-- [10 Advanced Ruby on Rails Features](https://dev.to/colinsoleim/10-advanced-ruby-on-rails-features-2h04)
+- [Neural DSL v0.2.7: Enhanced HPO Support and Parser Improvements](https://dev.to/neural/neural-dsl-v027-enhanced-hpo-support-and-parser-improvements-27fg)
+- [“What is Linux?” — A Love Letter to the Operating System That Runs the World &lpar;And Your Toaster&rpar;](https://dev.to/contractorx/what-is-linux-a-love-letter-to-the-operating-system-that-runs-the-world-and-your-toaster-3dn7)
+- [Python Tidbit 1: f-strings](https://dev.to/izharahmad/python-tidbit-1-f-strings-128i)
+- [Why P2P Crypto Exchanges Are the Future of Digital Asset Trading?](https://dev.to/tomhardy/why-p2p-crypto-exchanges-are-the-future-of-digital-asset-trading-4kmi)
+- [How to build a job app with real-time chat &amp; video using Stream, Next.js &amp; Firebase. Perfect for devs building SaaS or interview platforms. Great tutorial by @DavidAsaolu 👏 #Nextjs #Stream #Firebase #webdev](https://dev.to/tyaga001/how-to-build-a-job-app-with-real-time-chat-video-using-stream-nextjs-firebase-perfect-for-44of)
 <!-- BLOG-POST-LIST:END -->
 
 ---
