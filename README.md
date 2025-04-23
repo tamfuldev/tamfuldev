@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [5 best open source tools for cross-browser CSS testing](https://dev.to/logrocket/5-best-open-source-tools-for-cross-browser-css-testing-24ab)
-- [Git and GITHUB COMMANDS](https://dev.to/annishasaravanan/git-and-github-commands-gnm)
-- [Git Workflow for Modifying and Committing Changes](https://dev.to/harini_natarajan/git-workflow-for-modifying-and-committing-changes-405j)
-- [Vibe-design And Vibe-coding Best Practices](https://dev.to/keno_reloaded/vibe-designing-and-vibe-coding-best-practices-398k)
-- [6 Ways To Supercharge Your Node.js Serverless Workflow](https://dev.to/aws-builders/supercharge-your-nodejs-serverless-workflow-3ipc)
+- [Geocoding Distance🐞](https://dev.to/max_kleiner_9d12e786b3ecc/geocoding-distance-115b)
+- [Machine Learning](https://dev.to/senthilkumar_t_34583d5f08/machine-learning-13cj)
+- [Decentralized Identity &lpar;DID&rpar;: The Missing Link in Web3?](https://dev.to/victoruzo/decentralized-identity-did-the-missing-link-in-web3-18h3)
+- [Keep Active Record models clean with Decorators](https://dev.to/railsdesigner/keep-active-record-models-clean-with-decorators-5d3a)
+- [Git and GitHub: Understanding Version Control](https://dev.to/harini_madura_06/git-and-github-understanding-version-control-1ko2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
