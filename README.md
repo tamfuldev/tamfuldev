@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [⚡Boost Your Dev Workflow with These 5 Tools](https://dev.to/dev_kiran/boost-your-dev-workflow-with-these-5-tools-3k1k)
-- [🚀 I Wrote a Docker Interview Handbook - And You Can Download It for FREE!](https://dev.to/mammadyahyayev/i-wrote-a-docker-interview-handbook-and-you-can-download-it-for-free-27io)
-- [Good one](https://dev.to/gowtham_nvs/good-one-1hn)
-- [🔍 What Is Payment Reconciliation — And Why It’s So Important](https://dev.to/pandeyaditya0002/what-is-payment-reconciliation-and-why-its-so-important-5608)
-- [Why Our Custom SBC Had to Break the Rectangle Rule: A Real-World PCB Design Challenge](https://dev.to/kevinzhang109/why-our-custom-sbc-had-to-break-the-rectangle-rule-a-real-world-pcb-design-challenge-2e5f)
+- [Switch Case in C# 8.0 and Later: What&#39;s New and Improved?](https://dev.to/pythontutorial/switch-case-in-c-80-and-later-whats-new-and-improved-3hp6)
+- [MySQL সার্ভার চালু আছে কিনা তা বোঝার উপায়](https://dev.to/swapnil_ahmmedshishir_2d/mysql-saarbhaar-caalu-aache-kinaa-taa-bojhaar-upaayy-4lp7)
+- [Build a ChatGPT-Powered Phone Assistant with Twilio in Under 2 Hours](https://dev.to/professormanhattan/build-a-chatgpt-powered-phone-assistant-with-twilio-in-under-2-hours-4a47)
+- [Java Memory Management Tips: Weak Maps, Weak Sets, and Pre-Sized Collections &lpar;with Examples&rpar;](https://dev.to/haraf/java-memory-management-tips-weak-maps-weak-sets-and-pre-sized-collections-with-examples-4o5j)
+- [AI, Ethics, and Data Security: Navigating the Risks in Banking](https://dev.to/quickwayinfosystems/ai-ethics-and-data-security-navigating-the-risks-in-banking-53g9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
