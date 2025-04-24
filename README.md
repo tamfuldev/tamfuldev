@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Retro Revival: How to Build the Classic Snake Game in JavaScript](https://dev.to/up_min_sparcs/retro-revival-how-to-build-the-classic-snake-game-in-javascript-4em7)
-- [Optimizing Tailwind CSS for React Applications: Our Journey](https://dev.to/westernal/optimizing-tailwind-css-for-react-applications-our-journey-2lck)
-- [🔐From Zero to SAST Hero: Applying Codacy to a Clean ASP.NET Core Project](https://dev.to/gregobhm/from-zero-to-sast-hero-applying-codacy-to-a-clean-aspnet-core-project-3c9d)
-- [EU fines Apple and Meta €700 million in breach of the Digital Markets Act](https://dev.to/kvetoslavnovak/eu-fines-apple-and-meta-eu700-million-in-breach-of-the-digital-markets-act-12p4)
-- [Mastering Authentication in MERN Stack Apps with JWT](https://dev.to/vizzv/mastering-authentication-in-mern-stack-apps-with-jwt-3cki)
+- [Automating Frappe &amp; ERPNext Setup with a Single Script &lpar;Linux + macOS&rpar;](https://dev.to/pranav_dixit_8b5a2ad19270/automating-frappe-erpnext-setup-with-a-single-script-linux-macos-2onl)
+- [ML_DAY2_WORKSHOP](https://dev.to/preteka/mlday2workshop-1f1g)
+- [Package Management in Red Hat Linux with `dnf` and `yum`](https://dev.to/shamain_anjum/package-management-in-red-hat-linux-with-dnf-and-yum-523m)
+- [Check my new post where i discuss a content-aware image moderation using Kafka , ClarifAI and Spring boot Microservices](https://dev.to/yassine_ramzi_2b843dc54b9/check-my-new-post-where-i-discuss-a-content-aware-image-moderation-using-kafka-clarifai-and-3935)
+- [Love how this doesn’t rely on drama or clichés. It’s modern, clean, and deeply human — a great visual for the topic. #AshkanRajaee #SmartSelling #DealFlow #SalesProcess #BusinessEnergy](https://dev.to/reynaldo_dayola_e5b762264/love-how-this-doesnt-rely-on-drama-or-cliches-its-modern-clean-and-deeply-human-a-great-2epj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
