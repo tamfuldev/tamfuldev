@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [As an SEO beginner, how can I generate traffic for the website I&#39;ve created?](https://dev.to/yang_jerry_63234ef95c90d8/as-an-seo-beginner-how-can-i-generate-traffic-for-the-website-ive-created-45bc)
-- [VUE JS IQ - Level 1 - Part 1](https://dev.to/ruhul_aminsujon_f65b3678/vue-js-iq-level-1-part-1-7e5)
-- [We built a Docker registry that runs natively on iOS](https://dev.to/tomer_cohen_82bf78274ae6f/we-built-a-docker-registry-that-runs-natively-on-ios-1910)
-- [Building a simple Real-Time Chat App with Socket.IO](https://dev.to/up_min_sparcs/building-a-simple-real-time-chat-app-with-socketio-15)
-- [Hello DEV.to 🚀](https://dev.to/ashishrnx/hello-devto-4n5m)
+- [Programming Session Day 9–15: Number Property Programs in Java &lpar;Using `while` Loops&rpar;](https://dev.to/vigneshwaralingam/programming-session-day-9-15-number-property-programs-in-java-using-while-loops-4581)
+- [🚀 Beyond Merge Speed: How AI Is Reshaping Developer Collaboration](https://dev.to/pullflow/beyond-merge-speed-how-ai-is-reshaping-developer-collaboration-500p)
+- [What is an API? Explained simply](https://dev.to/maria_manolova_9f0bb55f6a/what-is-an-api-explained-simply-5ab1)
+- [𝗥𝗲𝗮𝗰𝘁’𝘀 `𝙠𝙚𝙮` 𝗽𝗿𝗼𝗽 𝗶𝘀 𝗼𝗻𝗲 𝗼𝗳 𝘁𝗵𝗲 𝗺𝗼𝘀𝘁 𝗺𝗶𝘀𝘂𝗻𝗱𝗲𝗿𝘀𝘁𝗼𝗼𝗱 𝘁𝗵𝗶𝗻𝗴𝘀 — 𝗮𝗻𝗱 𝘁𝗼𝗱𝗮𝘆 𝗜 𝗱𝗲𝗰𝗶𝗱𝗲𝗱 𝘁𝗼 𝗯𝗿𝗲𝗮𝗸 𝗶𝘁 𝗱𝗼𝘄𝗻 𝗶𝗻 𝘁𝗵𝗲 𝘀𝗶𝗺𝗽𝗹𝗲𝘀𝘁 𝗽𝗼𝘀𝘀𝗶𝗯𝗹𝗲 𝘄𝗮𝘆 👇](https://dev.to/tbs96/--22ip)
+- [tfw when your mouse batteries are dying but you&#39;re too lazy to replace them and clicks only work every other click 😭](https://dev.to/jess/tfw-when-your-mouse-batteries-are-dying-but-youre-too-lazy-to-replace-them-and-clicks-only-work-45oo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
