@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [💡 My First Look: Docker&#39;s New MCP Catalog &amp; Toolkit for AI Developers! 🐳](https://dev.to/jeaniscoding/my-first-look-dockers-new-mcp-catalog-toolkit-for-ai-developers-3klk)
-- [How I Built a Smart Office Cleaning Tracker with Raspberry Pi and IoT Sensors](https://dev.to/emily_johnson_dev/how-i-built-a-smart-office-cleaning-tracker-with-raspberry-pi-and-iot-sensors-pei)
-- [🚀 Fly High with Flutter Rocket: The Ultimate Package for Flutter Developers](https://dev.to/m97chahboun/fly-high-with-flutter-rocket-the-ultimate-package-for-flutter-developers-3o0c)
-- [Refactor, Recharge, Repeat](https://dev.to/duplessisvanaswegen/refactor-recharge-repeat-53eh)
-- [3 Types of Chaos Experiments and How To Run Them](https://dev.to/steadybit/3-types-of-chaos-experiments-and-how-to-run-them-1p59)
+- [It’s Not Real Learning Until Something Goes Down](https://dev.to/srzainab/its-not-real-learning-until-something-goes-down-4n77)
+- [How I Built a React Job Tracker: My Journey as a New Developer](https://dev.to/shalpha2/how-i-built-a-react-job-tracker-my-journey-as-a-new-developer-2e7d)
+- [From Startup to Scale-Up: Why a Dedicated Linux Server Is a Smart Investment](https://dev.to/sanoja/from-startup-to-scale-up-why-a-dedicated-linux-server-is-a-smart-investment-3h4n)
+- [Document Loading, Parsing, and Cleaning in AI Applications](https://dev.to/timescale/document-loading-parsing-and-cleaning-in-ai-applications-2oh8)
+- [🚀 Unlock GenAI Power: Build Your Own GenAI Image Generation Website with Amazon Nova🖌️](https://dev.to/aws-builders/unlock-genai-power-build-your-own-genai-image-generation-website-with-amazon-nova-1i64)
 <!-- BLOG-POST-LIST:END -->
 
 ---
