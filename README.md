@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My First Git Experience: What I Learned as an ML Workshop Beginner](https://dev.to/indujha22/my-first-git-experience-what-i-learned-as-an-ml-workshop-beginner-48i3)
-- [11 Essential Git &amp; GitHub Commands Every Developer Should Know](https://dev.to/selyavarsnee_muthusamy_a1/11-essential-git-github-commands-every-developer-should-know-322o)
-- [The Kubernetes platform engineering north star - How to convince your boss that an internal platform accelerates business](https://dev.to/aws-builders/the-kubernetes-platform-engineering-north-star-how-to-convince-your-boss-that-an-internal-5cja)
-- [4o chagpt Image Generator](https://dev.to/antipas_ringer_73b7b1f677/4o-chagpt-image-generator-4gc0)
-- [Git commands](https://dev.to/sri_raghavardhini_ea986af/git-commands-2j9c)
+- [Tired of Excel for managing your personal finances? Discover Monifi, the smart alternative.](https://dev.to/manuemorales/tired-of-excel-for-managing-your-personal-finances-discover-monifi-the-smart-alternative-1bi4)
+- [From Idlis to AI: The FACT of AI Model Management through Rameshwaram Cafe&#39;s Lens](https://dev.to/ajeetraina/from-idlis-to-ai-the-fact-of-ai-model-management-through-rameshwaram-cafes-lens-3lal)
+- [this in JS: Scope, Context, and Behavior](https://dev.to/lovestaco/this-in-js-scope-context-and-behavior-i09)
+- [Get the Middle Character](https://dev.to/maddiepst/get-the-middle-character-37ib)
+- [Why Isn&#39;t Your CSS Working? Common Pitfalls and Best Practices](https://dev.to/umarsiddique010/why-isnt-your-css-working-common-pitfalls-and-best-practices-1n06)
 <!-- BLOG-POST-LIST:END -->
 
 ---
