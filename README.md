@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Embracing the Digital Future: Ensuring 21 CFR Part 11 Compliance in Regulated Industries](https://dev.to/aakash_parikh_651254ef060/embracing-the-digital-future-ensuring-21-cfr-part-11-compliance-in-regulated-industries-233i)
-- [Cypress Automation - Verify if your SSL Certificates are Valid](https://dev.to/cypress/cypress-automation-verify-if-your-ssl-certificates-are-valid-2kij)
-- [The precariousness of artistic work in the age of artificial intelligence](https://dev.to/dev_zamudio/the-precariousness-of-artistic-work-in-the-age-of-artificial-intelligence-14f1)
-- [🧵 [Project Showcase] MinimalMart – Motion-first E-Commerce UI with GSAP + Next.js 15](https://dev.to/worapon_code404/project-showcase-minimalmart-motion-first-e-commerce-ui-with-gsap-nextjs-15-1h03)
-- [You’re Not a Real Developer Until You’ve Built These 3 Projects](https://dev.to/neil_brown_4c355cb16f17f2/youre-not-a-real-developer-until-youve-built-these-3-projects-a8d)
+- [GITHUB COMMANDS](https://dev.to/gobinath_m_2026/github-commands-4ij9)
+- [All About Spring Thymeleaf You Need to Know in 2025](https://dev.to/abhay_srivastava_22/all-about-spring-thymeleaf-you-need-to-know-in-2025-2omd)
+- [Best SSIS Alternatives in 2025: Exploring Modern ETL Tools for Data Integration](https://dev.to/kulichechka/best-ssis-alternatives-in-2025-exploring-modern-etl-tools-for-data-integration-2cj7)
+- [How a Graphic Designer Can Correct Common Design Mistakes](https://dev.to/riyasharma312/how-a-graphic-designer-can-correct-common-design-mistakes-1eg0)
+- [Will DeepSeek Overtake ChatGPT in the AI Arms Race?](https://dev.to/anilparmar/will-deepseek-overtake-chatgpt-in-the-ai-arms-race-5enl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
