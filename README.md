@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Frappe &amp; ERPNext Setup with a Single Script &lpar;Linux + macOS&rpar;](https://dev.to/pranav_dixit_8b5a2ad19270/automating-frappe-erpnext-setup-with-a-single-script-linux-macos-2onl)
-- [ML_DAY2_WORKSHOP](https://dev.to/preteka/mlday2workshop-1f1g)
-- [Package Management in Red Hat Linux with `dnf` and `yum`](https://dev.to/shamain_anjum/package-management-in-red-hat-linux-with-dnf-and-yum-523m)
-- [Check my new post where i discuss a content-aware image moderation using Kafka , ClarifAI and Spring boot Microservices](https://dev.to/yassine_ramzi_2b843dc54b9/check-my-new-post-where-i-discuss-a-content-aware-image-moderation-using-kafka-clarifai-and-3935)
-- [Love how this doesn’t rely on drama or clichés. It’s modern, clean, and deeply human — a great visual for the topic. #AshkanRajaee #SmartSelling #DealFlow #SalesProcess #BusinessEnergy](https://dev.to/reynaldo_dayola_e5b762264/love-how-this-doesnt-rely-on-drama-or-cliches-its-modern-clean-and-deeply-human-a-great-2epj)
+- [💡 My First Look: Docker&#39;s New MCP Catalog &amp; Toolkit for AI Developers! 🐳](https://dev.to/jeaniscoding/my-first-look-dockers-new-mcp-catalog-toolkit-for-ai-developers-3klk)
+- [How I Built a Smart Office Cleaning Tracker with Raspberry Pi and IoT Sensors](https://dev.to/emily_johnson_dev/how-i-built-a-smart-office-cleaning-tracker-with-raspberry-pi-and-iot-sensors-pei)
+- [🚀 Fly High with Flutter Rocket: The Ultimate Package for Flutter Developers](https://dev.to/m97chahboun/fly-high-with-flutter-rocket-the-ultimate-package-for-flutter-developers-3o0c)
+- [Refactor, Recharge, Repeat](https://dev.to/duplessisvanaswegen/refactor-recharge-repeat-53eh)
+- [3 Types of Chaos Experiments and How To Run Them](https://dev.to/steadybit/3-types-of-chaos-experiments-and-how-to-run-them-1p59)
 <!-- BLOG-POST-LIST:END -->
 
 ---
