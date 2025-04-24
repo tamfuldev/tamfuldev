@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Step-by-Step Git Commands for First-Time Repo Setup&lpar;with GitHub&rpar;](https://dev.to/sakthivel_r_a51694ab1d9a4/step-by-step-git-commands-for-first-time-repo-setupwith-github-2lma)
-- [From Zero to Web3 🚀 | My Founder Story &lpar;OmniRadhaNexus&rpar;](https://dev.to/omniradhanexus/from-zero-to-web3-my-founder-story-omniradhanexus-2j16)
-- [Procedures for creating a sample resume and pushing it to GitHub Pages.](https://dev.to/nelson_akpa01/procedures-for-creating-a-sample-resume-and-pushing-it-to-github-pages-4nfi)
-- [From Clone to Push: 11 Git Commands Explained](https://dev.to/selya_dharsneemuthusamy_/from-clone-to-push-11-git-commands-explained-319h)
-- [Juice no Design de Software Moderno](https://dev.to/juanengml/juice-no-design-de-software-moderno-1ph0)
+- [Embracing the Digital Future: Ensuring 21 CFR Part 11 Compliance in Regulated Industries](https://dev.to/aakash_parikh_651254ef060/embracing-the-digital-future-ensuring-21-cfr-part-11-compliance-in-regulated-industries-233i)
+- [Cypress Automation - Verify if your SSL Certificates are Valid](https://dev.to/cypress/cypress-automation-verify-if-your-ssl-certificates-are-valid-2kij)
+- [The precariousness of artistic work in the age of artificial intelligence](https://dev.to/dev_zamudio/the-precariousness-of-artistic-work-in-the-age-of-artificial-intelligence-14f1)
+- [🧵 [Project Showcase] MinimalMart – Motion-first E-Commerce UI with GSAP + Next.js 15](https://dev.to/worapon_code404/project-showcase-minimalmart-motion-first-e-commerce-ui-with-gsap-nextjs-15-1h03)
+- [You’re Not a Real Developer Until You’ve Built These 3 Projects](https://dev.to/neil_brown_4c355cb16f17f2/youre-not-a-real-developer-until-youve-built-these-3-projects-a8d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
