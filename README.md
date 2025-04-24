@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 24 April!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-24-april-hen)
-- [Self-Hosting Node.js/Express Web App Behind CGNAT &lpar;No Port Forwarding&rpar; via Dynamic DNS &amp; Tunneling](https://dev.to/up_min_sparcs/self-hosting-nodejsexpress-web-app-behind-cgnat-no-port-forwarding-via-dynamic-dns-tunneling-3mod)
-- [Power Apps Custom Page Dialogs in Model-Driven Apps: Passing &amp; Receiving Data](https://dev.to/meecool/power-apps-custom-page-dialogs-in-model-driven-apps-passing-receiving-data-4cpe)
-- [App Dev Course vs Self-Learning: The Ultimate Showdown!](https://dev.to/krishanvijay/app-dev-course-vs-self-learning-the-ultimate-showdown-48df)
-- [From Strategy to Stability: A QA Engineer’s Take on Trading Cycle](https://dev.to/philip_crypto92/from-strategy-to-stability-a-qa-engineers-take-on-trading-cycle-53je)
+- [As an SEO beginner, how can I generate traffic for the website I&#39;ve created?](https://dev.to/yang_jerry_63234ef95c90d8/as-an-seo-beginner-how-can-i-generate-traffic-for-the-website-ive-created-45bc)
+- [VUE JS IQ - Level 1 - Part 1](https://dev.to/ruhul_aminsujon_f65b3678/vue-js-iq-level-1-part-1-7e5)
+- [We built a Docker registry that runs natively on iOS](https://dev.to/tomer_cohen_82bf78274ae6f/we-built-a-docker-registry-that-runs-natively-on-ios-1910)
+- [Building a simple Real-Time Chat App with Socket.IO](https://dev.to/up_min_sparcs/building-a-simple-real-time-chat-app-with-socketio-15)
+- [Hello DEV.to 🚀](https://dev.to/ashishrnx/hello-devto-4n5m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
