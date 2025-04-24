@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Programming Session Day 9–15: Number Property Programs in Java &lpar;Using `while` Loops&rpar;](https://dev.to/vigneshwaralingam/programming-session-day-9-15-number-property-programs-in-java-using-while-loops-4581)
-- [🚀 Beyond Merge Speed: How AI Is Reshaping Developer Collaboration](https://dev.to/pullflow/beyond-merge-speed-how-ai-is-reshaping-developer-collaboration-500p)
-- [What is an API? Explained simply](https://dev.to/maria_manolova_9f0bb55f6a/what-is-an-api-explained-simply-5ab1)
-- [𝗥𝗲𝗮𝗰𝘁’𝘀 `𝙠𝙚𝙮` 𝗽𝗿𝗼𝗽 𝗶𝘀 𝗼𝗻𝗲 𝗼𝗳 𝘁𝗵𝗲 𝗺𝗼𝘀𝘁 𝗺𝗶𝘀𝘂𝗻𝗱𝗲𝗿𝘀𝘁𝗼𝗼𝗱 𝘁𝗵𝗶𝗻𝗴𝘀 — 𝗮𝗻𝗱 𝘁𝗼𝗱𝗮𝘆 𝗜 𝗱𝗲𝗰𝗶𝗱𝗲𝗱 𝘁𝗼 𝗯𝗿𝗲𝗮𝗸 𝗶𝘁 𝗱𝗼𝘄𝗻 𝗶𝗻 𝘁𝗵𝗲 𝘀𝗶𝗺𝗽𝗹𝗲𝘀𝘁 𝗽𝗼𝘀𝘀𝗶𝗯𝗹𝗲 𝘄𝗮𝘆 👇](https://dev.to/tbs96/--22ip)
-- [tfw when your mouse batteries are dying but you&#39;re too lazy to replace them and clicks only work every other click 😭](https://dev.to/jess/tfw-when-your-mouse-batteries-are-dying-but-youre-too-lazy-to-replace-them-and-clicks-only-work-45oo)
+- [Retro Revival: How to Build the Classic Snake Game in JavaScript](https://dev.to/up_min_sparcs/retro-revival-how-to-build-the-classic-snake-game-in-javascript-4em7)
+- [Optimizing Tailwind CSS for React Applications: Our Journey](https://dev.to/westernal/optimizing-tailwind-css-for-react-applications-our-journey-2lck)
+- [🔐From Zero to SAST Hero: Applying Codacy to a Clean ASP.NET Core Project](https://dev.to/gregobhm/from-zero-to-sast-hero-applying-codacy-to-a-clean-aspnet-core-project-3c9d)
+- [EU fines Apple and Meta €700 million in breach of the Digital Markets Act](https://dev.to/kvetoslavnovak/eu-fines-apple-and-meta-eu700-million-in-breach-of-the-digital-markets-act-12p4)
+- [Mastering Authentication in MERN Stack Apps with JWT](https://dev.to/vizzv/mastering-authentication-in-mern-stack-apps-with-jwt-3cki)
 <!-- BLOG-POST-LIST:END -->
 
 ---
