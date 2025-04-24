@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Palm Print Biometric Deployment—5 Key Considerations for Businesses](https://dev.to/faceplugin/palm-print-biometric-deployment-5-key-considerations-for-businesses-19h7)
-- [Thuật ngữ AI](https://dev.to/congngheaivn/thuat-ngu-ai-4cdc)
-- [Step-by-Step Git Commands Execution:](https://dev.to/bharanidharan_fcaccd5d553/step-by-step-git-commands-execution-3g4o)
-- [I am learning Laravel for Web development](https://dev.to/safi710/i-am-learning-laravel-for-web-development-4d9l)
-- [LangGraph: Where AI Workflows Meet Finger Painting &lpar;for Grown-Up Devs&rpar;](https://dev.to/sakethkowtha/langgraph-where-ai-workflows-meet-finger-painting-for-grown-up-devs-4b17)
+- [My First Git Experience: What I Learned as an ML Workshop Beginner](https://dev.to/indujha22/my-first-git-experience-what-i-learned-as-an-ml-workshop-beginner-48i3)
+- [11 Essential Git &amp; GitHub Commands Every Developer Should Know](https://dev.to/selyavarsnee_muthusamy_a1/11-essential-git-github-commands-every-developer-should-know-322o)
+- [The Kubernetes platform engineering north star - How to convince your boss that an internal platform accelerates business](https://dev.to/aws-builders/the-kubernetes-platform-engineering-north-star-how-to-convince-your-boss-that-an-internal-5cja)
+- [4o chagpt Image Generator](https://dev.to/antipas_ringer_73b7b1f677/4o-chagpt-image-generator-4gc0)
+- [Git commands](https://dev.to/sri_raghavardhini_ea986af/git-commands-2j9c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
