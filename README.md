@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [7 Common DevOps Interview Questions – With Real-World Answers](https://dev.to/yash_sonawane25/7-common-devops-interview-questions-with-real-world-answers-chc)
-- [🌟](https://dev.to/hanzla-baig/-5dmd)
-- [If You Run Your CI Locally, You’ve Already Failed](https://dev.to/francescobianco/if-you-run-your-ci-locally-youve-already-failed-28fn)
-- [Looking for Web3 Developer – NFT Minting &amp; Blockchain Integration](https://dev.to/jcorbera/looking-for-web3-developer-nft-minting-blockchain-integration-2894)
-- [NoSQL Fighters Arena: The Battle of Data Titans](https://dev.to/wallaceespindola/nosql-fighters-arena-the-battle-of-data-titans-22o7)
+- [Exploring the Intersection of Cyberwarfare and Open Source License Compliance](https://dev.to/jennythomas498/exploring-the-intersection-of-cyberwarfare-and-open-source-license-compliance-4iab)
+- [Keep It Tight: Using Locally Scoped Helper Functions in Kotlin Use Cases](https://dev.to/paulfranco/keep-it-tight-using-locally-scoped-helper-functions-in-kotlin-use-cases-5004)
+- [Applying Any SAST Tools to Any Application: A Practical Guide&quot; published](https://dev.to/draigo15/applying-any-sast-tools-to-any-application-a-practical-guidepublished-3063)
+- [Forex Data Interface: Deep Dive into Alltick&#39;s Quantitative Trading Data Engine](https://dev.to/liliiii/forex-data-interface-deep-dive-into-allticks-quantitative-trading-data-engine-fi)
+- [Creating and Managing Directories in Termux &lpar;Beginner Guide&rpar;](https://dev.to/terminaltools/creating-and-managing-directories-in-termux-beginner-guide-3b2d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
