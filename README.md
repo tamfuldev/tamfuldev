@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Embracing the Future: Arbitrum’s Role in Institutional Blockchain Adoption](https://dev.to/kallileiser/embracing-the-future-arbitrums-role-in-institutional-blockchain-adoption-5735)
-- [Part 1: The Memento Problem with AI Memory](https://dev.to/trustgraph/part-1-the-memento-problem-with-ai-memory-4ge7)
-- [Become a Full Stack Developer in 2025 – Faster, Smarter, and Better!](https://dev.to/code_2/become-a-full-stack-developer-in-2025-faster-smarter-and-better-3pg6)
-- [From Source to Blockchain: How Smart Contracts Go Live with Remix and MetaMask](https://dev.to/rwu_security_researcher/from-source-to-blockchain-how-smart-contracts-go-live-with-remix-and-metamask-25h8)
-- [The Convergence of IV Therapy and Artificial Intelligence: Revolutionizing Patient Care](https://dev.to/josef_doctorovitz_ww/the-convergence-of-iv-therapy-and-artificial-intelligence-revolutionizing-patient-care-2md9)
+- [O caminho do React - Primeiros Passos: Conceitos, Componentes, Vite e Exports](https://dev.to/mathsena/o-caminho-do-react-primeiros-passos-conceitos-componentes-vite-e-exports-7kh)
+- [Scaling Ethereum with Arbitrum: Transforming Blockchain Scalability for a Decentralized Future](https://dev.to/rachellovestowrite/scaling-ethereum-with-arbitrum-transforming-blockchain-scalability-for-a-decentralized-future-36f2)
+- [The Rise of Agentic AI in Software Development](https://dev.to/gocodeo/the-rise-of-agentic-ai-in-software-development-13fp)
+- [Still Shipping 1GB Docker Images? Here’s How to Crush Them in Half an Hour](https://dev.to/devlinkstudios/still-shipping-1gb-docker-images-heres-how-to-crush-them-in-half-an-hour-5bn2)
+- [💡 SSIS Tip: Export Google Drive Data to MongoDB &lpar;No Code Required&rpar;](https://dev.to/daniel_zs/ssis-tip-export-google-drive-data-to-mongodb-no-code-required-1l25)
 <!-- BLOG-POST-LIST:END -->
 
 ---
