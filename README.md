@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Indeed.com Job Listings Scraping | Portfolio](https://dev.to/portfolio/indeedcom-job-listings-scraping-portfolio-5111)
-- [From Idea to Launch: Building High-Performance E-commerce Apps with Flutter](https://dev.to/ameliaswank/from-idea-to-launch-building-high-performance-e-commerce-apps-with-flutter-2hch)
-- [Backend Developers, Automate Frontend Development. Much better than Vibe Coding.](https://dev.to/samchon/backend-developers-automate-frontend-development-much-better-than-vibe-coding-53ag)
-- [Java](https://dev.to/amisrhiroualid94/java-2k6a)
-- [🚀 MAC Version PDFMathTranslate: Your Essential Tool for Academic Research! 📚](https://dev.to/localfaceswap/mac-version-pdfmathtranslate-your-essential-tool-for-academic-research-4j6o)
+- [Learn Python Programming - From Basics to Advanced](https://dev.to/vishal_more_02990955c9358/learn-python-programming-from-basics-to-advanced-59eh)
+- [The 7 Dumbest Ways Small Businesses Get Hacked &lpar;And How to Avoid Them&rpar;](https://dev.to/abdelaziz_moustakim_45a4c/the-7-dumbest-ways-small-businesses-get-hacked-and-how-to-avoid-them-4m08)
+- [The Ghost in the Machine: A Feeling About AI Building AI](https://dev.to/meet_desai_6fbd24be7a17e6/the-ghost-in-the-machine-a-feeling-about-ai-building-ai-1j97)
+- [How I Optimized a Spring Boot Application to Handle 1M Requests/Second 🚀](https://dev.to/mohit_bajaj_a3e3241d02fda/how-i-optimized-a-spring-boot-application-to-handle-1m-requestssecond-2i78)
+- [Import Cross Account AWS DynamoDB data from S3 bucket to DynamoDB using Python Boto3](https://dev.to/aws-builders/import-cross-account-aws-dynamodb-data-from-s3-bucket-to-dynamodb-using-python-boto3-451m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
