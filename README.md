@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What is Linux Boot Troubleshooting? A Must-Know Skill for Admins and RHCSA Certification Prep](https://dev.to/utcli-solutions/what-is-linux-boot-troubleshooting-a-must-know-skill-for-admins-and-rhcsa-certification-prep-3mdo)
-- [[Boost]](https://dev.to/khaled_abdelfattah_3f628/-e15)
-- [Stochastic Drum Machine](https://dev.to/preetha_vaishnavi_2b82358/stochastic-drum-machine-5go3)
-- [Building Blocks: The Philosophy Behind AtomicKit for Jetpack Compose](https://dev.to/adhithya_kumar_b5c55d2a5c/building-blocks-the-philosophy-behind-atomickit-for-jetpack-compose-56d7)
-- [Digital minimalism](https://dev.to/yulei-chen/digital-minimalism-jne)
+- [How I do local development CockroachDB Backups](https://dev.to/sweethuman/how-i-do-local-development-cockroachdb-backups-389b)
+- [How I Use ChatGPT to Refactor Smarter, Not Harder](https://dev.to/sung_jinwoo_ae9a810f8c46a/how-i-use-chatgpt-to-refactor-smarter-not-harder-385d)
+- [Tutorial 38: 🚀 Using NSCache and Disk Caching to Optimize Performance](https://dev.to/cl0udleadanis/tutorial-38-using-nscache-and-disk-caching-to-optimize-performance-65o)
+- [Implementing JWT Authentication in Spring Boot](https://dev.to/nishant_rathore_a4555652e/implementing-jwt-authentication-in-spring-boot-3jf3)
+- [The Beginner’s Guide to Learning JavaScript](https://dev.to/nishant_rathore_a4555652e/the-beginners-guide-to-learning-javascript-50gc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
