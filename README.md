@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [New phones](https://dev.to/zako_mako_9a4826822204c78/new-phones-l4c)
-- [GPT-image-1 Enhances Image Generation in Azure AI Foundry](https://dev.to/sadiksajid/gpt-image-1-enhances-image-generation-in-azure-ai-foundry-2jpe)
-- [Daily JavaScript Challenge #JS-164: Generate All Possible IP Addresses](https://dev.to/dpc/daily-javascript-challenge-js-164-generate-all-possible-ip-addresses-49a)
-- [ButtonDropDown vuejs and Primevue](https://dev.to/ahmadasroni38/buttondropdown-vuejs-and-primevue-1mc8)
-- [NyaruDB2: A Mobile-First Experiment in Table Partitioning for iOS](https://dev.to/maltzsama/nyarudb2-a-mobile-first-experiment-in-table-partitioning-for-ios-anl)
+- [Secret Management in DevOps: Vault vs AWS Secrets Manager](https://dev.to/yash_sonawane25/secret-management-in-devops-vault-vs-aws-secrets-manager-5dlp)
+- [DAY 2 DOCKER IMAGE](https://dev.to/rubitha_duraisamy_4ccdbb0/day-2-docker-image-4joe)
+- [🚀 How to Build a Scalable FastAPI Backend with Docker and Versioned APIs — The Right Way &lpar;Opinionated&rpar;](https://dev.to/aldorax/how-to-build-a-scalable-fastapi-backend-with-docker-and-versioned-apis-the-right-way-37b1)
+- [1KB Frontend Library](https://dev.to/codervai/1kb-frontend-library-41b5)
+- [Batch Processing of Translation Resource for Angular Apps](https://dev.to/zijianhuang/batch-processing-of-translation-resource-for-angular-apps-1il9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
