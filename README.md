@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Best Laravel Disposable Email Detection Package for Your Projects](https://dev.to/eramitgupta/the-best-laravel-disposable-email-detection-package-for-your-projects-df6)
-- [Multi-Arch Docker Builds at €14/Month - Just 2 VPSs](https://dev.to/andreamancuso/multi-arch-docker-builds-at-eu14month-just-2-vpss-1eig)
-- [Observer pattern | components communication in React - part two](https://dev.to/mohsen_khademhoseini_c0d/observer-pattern-components-communication-in-react-part-two-dh2)
-- [Self Introduction — Ruby on Rails Developer | ClinicSync Project](https://dev.to/kintsugi-coder/self-introduction-desenvolvedor-ruby-on-rails-clinicsync-project-1mg6)
-- [TS1407: Matched by include pattern &#39;{0}&#39; in &#39;{1}&#39;](https://dev.to/rivkaavraham/ts1407-matched-by-include-pattern-0-in-1-3oem)
+- [Clean Up Your React Native Imports: A Guide to Absolute Paths](https://dev.to/amitkumar13/clean-up-your-react-native-imports-a-guide-to-absolute-paths-d62)
+- [Securing Your API with a Lambda Authorizer &lpar;JWT Validation&rpar; in AWS SAM](https://dev.to/marciojc/securing-your-api-with-a-lambda-authorizer-jwt-validation-in-aws-sam-4onf)
+- [AHHHTIM](https://dev.to/nicolaskruger/ahhhtim-fbm)
+- [Android Studio Build Failing](https://dev.to/bytehala/android-studio-build-failing-6i9)
+- [Input Data Validation in NestJS](https://dev.to/geampiere/input-data-validation-in-nestjs-2ena)
 <!-- BLOG-POST-LIST:END -->
 
 ---
