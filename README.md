@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Secret Management in DevOps: Vault vs AWS Secrets Manager](https://dev.to/yash_sonawane25/secret-management-in-devops-vault-vs-aws-secrets-manager-5dlp)
-- [DAY 2 DOCKER IMAGE](https://dev.to/rubitha_duraisamy_4ccdbb0/day-2-docker-image-4joe)
-- [🚀 How to Build a Scalable FastAPI Backend with Docker and Versioned APIs — The Right Way &lpar;Opinionated&rpar;](https://dev.to/aldorax/how-to-build-a-scalable-fastapi-backend-with-docker-and-versioned-apis-the-right-way-37b1)
-- [1KB Frontend Library](https://dev.to/codervai/1kb-frontend-library-41b5)
-- [Batch Processing of Translation Resource for Angular Apps](https://dev.to/zijianhuang/batch-processing-of-translation-resource-for-angular-apps-1il9)
+- [Untitled](https://dev.to/__1513823cab68510bb4e/untitled-381n)
+- [Simulating Chaos: My Latest Foray into Failure Testing](https://dev.to/blkgrlcto/simulating-chaos-my-latest-foray-into-failure-testing-2ecj)
+- [Why Argument &amp; Evidence Summaries Help Improve Essays](https://dev.to/researchwize/why-argument-evidence-summaries-help-improve-essays-38oj)
+- [🤖 Z3-R0 – A Not-So-Smart Robot With a Lot of Personality](https://dev.to/wesleybertipaglia/z3-r0-a-not-so-smart-robot-with-a-lot-of-personality-3j11)
+- [🚀 Day 6 — Project Days Begin: Crafting Real-World UI with Anime.js](https://dev.to/anticoder03/day-6-project-days-begin-crafting-real-world-ui-with-animejs-2o8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
