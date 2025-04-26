@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A2A Protocol : Deep Dive](https://dev.to/vishalmysore/a2a-protocol-deep-dive-3707)
-- [Slanted Text](https://dev.to/preetha_vaishnavi_2b82358/slanted-text-33o3)
-- [ironskydive-solution](https://dev.to/preetha_vaishnavi_2b82358/ironskydive-solution-29ke)
-- [Wheel Carousel with Astro.build CSS](https://dev.to/preetha_vaishnavi_2b82358/wheel-carousel-with-astrobuild-css-32k2)
-- [🚀 How to Reduce Your React Native APK Size by 50%](https://dev.to/amitkumar13/how-to-reduce-your-react-native-apk-size-by-50-4df3)
+- [What is Linux Boot Troubleshooting? A Must-Know Skill for Admins and RHCSA Certification Prep](https://dev.to/utcli-solutions/what-is-linux-boot-troubleshooting-a-must-know-skill-for-admins-and-rhcsa-certification-prep-3mdo)
+- [[Boost]](https://dev.to/khaled_abdelfattah_3f628/-e15)
+- [Stochastic Drum Machine](https://dev.to/preetha_vaishnavi_2b82358/stochastic-drum-machine-5go3)
+- [Building Blocks: The Philosophy Behind AtomicKit for Jetpack Compose](https://dev.to/adhithya_kumar_b5c55d2a5c/building-blocks-the-philosophy-behind-atomickit-for-jetpack-compose-56d7)
+- [Digital minimalism](https://dev.to/yulei-chen/digital-minimalism-jne)
 <!-- BLOG-POST-LIST:END -->
 
 ---
