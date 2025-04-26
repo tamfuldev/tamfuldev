@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Clean Up Your React Native Imports: A Guide to Absolute Paths](https://dev.to/amitkumar13/clean-up-your-react-native-imports-a-guide-to-absolute-paths-d62)
-- [Securing Your API with a Lambda Authorizer &lpar;JWT Validation&rpar; in AWS SAM](https://dev.to/marciojc/securing-your-api-with-a-lambda-authorizer-jwt-validation-in-aws-sam-4onf)
-- [AHHHTIM](https://dev.to/nicolaskruger/ahhhtim-fbm)
-- [Android Studio Build Failing](https://dev.to/bytehala/android-studio-build-failing-6i9)
-- [Input Data Validation in NestJS](https://dev.to/geampiere/input-data-validation-in-nestjs-2ena)
+- [A2A Protocol : Deep Dive](https://dev.to/vishalmysore/a2a-protocol-deep-dive-3707)
+- [Slanted Text](https://dev.to/preetha_vaishnavi_2b82358/slanted-text-33o3)
+- [ironskydive-solution](https://dev.to/preetha_vaishnavi_2b82358/ironskydive-solution-29ke)
+- [Wheel Carousel with Astro.build CSS](https://dev.to/preetha_vaishnavi_2b82358/wheel-carousel-with-astrobuild-css-32k2)
+- [🚀 How to Reduce Your React Native APK Size by 50%](https://dev.to/amitkumar13/how-to-reduce-your-react-native-apk-size-by-50-4df3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
