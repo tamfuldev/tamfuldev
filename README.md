@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [7 skill you must know to call yourself HTML master in 2025 🚀](https://dev.to/ruppysuppy/7-skill-you-must-know-to-call-yourself-html-master-in-2025-199e)
-- [Cloned Two New Websites with Bootstrap! 🚀 &lpar;Papergrid + Restaurant Landing Page](https://dev.to/shifil/completed-two-new-projects-with-bootstrap-papergrid-clone-restaurant-landing-page-1i53)
-- [Submit vs Break on Enter on ChatGPT Website](https://dev.to/benbavar/submit-vs-break-on-enter-on-chatgpt-website-43h5)
-- [Cookies in Golf applications, plus HAProxy](https://dev.to/golf-lang/cookies-in-golf-applications-plus-haproxy-2g11)
-- [Building an NSFW AI Image Generator with Next.js and Tailwind CSS](https://dev.to/ficav/building-an-nsfw-ai-image-generator-with-nextjs-and-tailwind-css-pjd)
+- [Hands-On: Working with AWS RDS](https://dev.to/aws_1_27d6cbc9e944aa228ef/hands-on-working-with-aws-rds-44dc)
+- [Building Fluid, Motion-Safe Animations in Tailwind CSS That Respect User Preferences](https://dev.to/hexshift/building-fluid-motion-safe-animations-in-tailwind-css-that-respect-user-preferences-3i6e)
+- [Dynamic Theme Switching in Tailwind CSS Without Rebuilding Stylesheets](https://dev.to/hexshift/dynamic-theme-switching-in-tailwind-css-without-rebuilding-stylesheets-1le5)
+- [From Stargazing to Programming: How the Cosmos Guided My Journey](https://dev.to/bhuvaneshm_dev/from-stargazing-to-programming-how-the-cosmos-guided-my-journey-1e37)
+- [Go - &lpar;8&rpar; Advanced Functions](https://dev.to/chathurashmini/go-8-advanced-functions-18ej)
 <!-- BLOG-POST-LIST:END -->
 
 ---
