@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Part 2: Why Your AI is Stuck in a Memento Loop](https://dev.to/trustgraph/part-2-why-your-ai-is-stuck-in-a-memento-loop-ilf)
-- [The Power of Going Back to the Basics: Why I Learned Algebra as an Adult](https://dev.to/arcibyte/the-power-of-going-back-to-the-basics-why-i-learned-algebra-as-an-adult-18ld)
-- [A Beginner&#39;s Journey into Rust](https://dev.to/leapcell/a-beginners-journey-into-rust-5al8)
-- [Understand Spanning Tree Protocol &lpar;STP&rpar;](https://dev.to/h0ag/understand-spanning-tree-protocol-stp-23b8)
-- [Hospedagem gratuita: vale a Pena? vantagens e limitações explicadas](https://dev.to/estudiowin/hospedagem-gratuita-vale-a-pena-vantagens-e-limitacoes-explicadas-4g4l)
+- [How do you serve media files correctly in Docker with Next.js and Nginx!?🛠️🖼️](https://dev.to/amankrsahu/how-do-you-serve-media-files-correctly-in-docker-with-nextjs-and-nginx-5b35)
+- [Redes: pt. 4 - Gateway, ARP e roteamento](https://dev.to/mmsfarias/redes-pt-4-gateway-arp-e-roteamento-1j57)
+- [CH-01 : The Tale of Two Threads](https://dev.to/nikhil-amin/ch-01-the-tale-of-two-threads-4a31)
+- [React Hooks Overview](https://dev.to/tene/react-hooks-overview-2o11)
+- [Beginner-Friendly Guide to Solving &quot;Count Subarrays With Fixed Bounds&quot; | LeetCode 2444 Explained &lpar;C++ | JavaScript | Python&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-to-solving-count-subarrays-with-fixed-bounds-leetcode-2444-explained-2f0f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
