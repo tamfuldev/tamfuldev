@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Como escolher a melhor hospedagem de sites em 2025](https://dev.to/estudiowin/como-escolher-a-melhor-hospedagem-de-sites-em-2025-30e6)
-- [Smart Contracts Deep Dive: Storage Packing, Payment Flows, and msg Object Explained](https://dev.to/rwu_security_researcher/smart-contracts-deep-dive-storage-packing-payment-flows-and-msg-object-explained-4b8e)
-- [Week 13: Renewed Vigor after Holidays](https://dev.to/c6z3h/week-13-renewed-vigor-after-holidays-3d99)
-- [TypeScript in a Nutshell - The Ultimate Guide](https://dev.to/susmitadey/typescript-in-a-nutshell-the-ultimate-guide-5f6i)
-- [From Mispronouncing &#39;Vocabulary&#39; to Building Al Projects: My Journey in Tech....](https://dev.to/rankush_vishwakarma_18215/from-mispronouncing-vocabulary-to-building-al-projects-my-journey-in-tech-2aad)
+- [Prevent viewport scroll bounce effect](https://dev.to/devy/prevent-viewport-scroll-bounce-effect-22cl)
+- [Terraform](https://dev.to/ryo_ariyama_b521d7133c493/terraform-29ng)
+- [&quot;Stop Wasting Time on Manual Elasticsearch Backups — Automate It with Python &amp; S3&quot;](https://dev.to/minh_trivo_vmt/stop-wasting-time-on-manual-elasticsearch-backups-automate-it-with-python-s3-4dak)
+- [What do version numbers mean?](https://dev.to/devsk001/what-do-version-numbers-mean-34a7)
+- [@layer in CSS](https://dev.to/betelgeuseas/layer-in-css-552m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
