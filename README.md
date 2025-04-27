@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/yemi_adeoye_e660cd663a281/-58b8)
-- [Check Out These 5 GitHub Repositories Now 🤯](https://dev.to/dev_kiran/check-out-these-5-github-repositories-now-3bpb)
-- [Богдан Новотарский 8](https://dev.to/bogdannovotarskij/boghdan-novotarskii-8-45bi)
-- [Create an API in .NET with MongoDB and Pagination](https://dev.to/adrianbailador/create-an-api-in-net-with-mongodb-and-pagination-3dhb)
-- [Богдан Новотарский 3](https://dev.to/bogdannovotarskij/boghdan-novotarskii-3-2ibg)
+- [Como escolher a melhor hospedagem de sites em 2025](https://dev.to/estudiowin/como-escolher-a-melhor-hospedagem-de-sites-em-2025-30e6)
+- [Smart Contracts Deep Dive: Storage Packing, Payment Flows, and msg Object Explained](https://dev.to/rwu_security_researcher/smart-contracts-deep-dive-storage-packing-payment-flows-and-msg-object-explained-4b8e)
+- [Week 13: Renewed Vigor after Holidays](https://dev.to/c6z3h/week-13-renewed-vigor-after-holidays-3d99)
+- [TypeScript in a Nutshell - The Ultimate Guide](https://dev.to/susmitadey/typescript-in-a-nutshell-the-ultimate-guide-5f6i)
+- [From Mispronouncing &#39;Vocabulary&#39; to Building Al Projects: My Journey in Tech....](https://dev.to/rankush_vishwakarma_18215/from-mispronouncing-vocabulary-to-building-al-projects-my-journey-in-tech-2aad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
