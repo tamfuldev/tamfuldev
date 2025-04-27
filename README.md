@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Find and Extract All URLs from a Website Using Olostep Maps API and Streamlit](https://dev.to/mohammad_ehsanansari_671/how-to-find-and-extract-all-urls-from-a-website-using-olostep-maps-api-and-streamlit-1cbp)
-- [4th, save tester&#39;s behavior](https://dev.to/bruce_doctor_515422886dae/4th-save-testers-behavior-27i5)
-- [The Intersection of Blockchain, Diamond Tracking, and Counterfeiting: Bridging Transparency with Innovative Technologies](https://dev.to/bobcars/the-intersection-of-blockchain-diamond-tracking-and-counterfeiting-bridging-transparency-with-3048)
-- [Acerca de](https://dev.to/david_bermenvliz/acerca-de-1ca9)
-- [DashBot: 1v1 Space Robot Sprint Battle](https://dev.to/jianong/dashbot-1v1-space-robot-sprint-battle-1h1)
+- [Untitled](https://dev.to/preetha_vaishnavi_2b82358/untitled-1bm0)
+- [Web Server Scanning with Nikto in Termux: A Comprehensive Guide](https://dev.to/terminaltools/web-server-scanning-with-nikto-in-termux-a-comprehensive-guide-514)
+- [Portfolio Page](https://dev.to/preetha_vaishnavi_2b82358/portfolio-page-3ogd)
+- [I Built CodeNudge: An AI Reviewer for Your GitHub Pull Requests](https://dev.to/floranpagliai/i-built-codenudge-an-ai-reviewer-for-your-github-pull-requests-1hbm)
+- [A Better Way to Organize Your Front-End Projects: Component-Focused Architecture &lpar;CFA&rpar;](https://dev.to/isemilia/a-better-way-to-organize-your-front-end-projects-component-focused-architecture-cfa-42hb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
