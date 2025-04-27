@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Turbocharge Dev Velocity: Modern Tooling &amp; DX in the Node.js Ecosystem](https://dev.to/codanyks/turbocharge-dev-velocity-modern-tooling-dx-in-the-nodejs-ecosystem-30fl)
-- [The Future of Terminals: How Warp is Redefining Command Line Interactions](https://dev.to/omriluz1/the-future-of-terminals-how-warp-is-redefining-command-line-interactions-199a)
-- [Web Scraping CloudFront Responsibly and Efficiently](https://dev.to/swiftproxy_residential/web-scraping-cloudfront-responsibly-and-efficiently-169)
-- [Building a Recipe-Sharing Application](https://dev.to/gakuruuri/building-a-recipe-sharing-application-3gc5)
-- [Your CMS Could Be Under Attack Right Now As I Write This — Here&#39;s How to Protect It](https://dev.to/okoye_ndidiamaka_5e3b7d30/your-cms-could-be-under-attack-right-now-as-i-write-this-heres-how-to-protect-it-2f3n)
+- [How to Forward CloudFlare IP to SafeLine WAF](https://dev.to/carrie_luo1/how-to-forward-cloudflare-ip-to-safeline-waf-n1j)
+- [DevOps : A Fundamental Overview](https://dev.to/abhay_shaw_a80a4cebf45c6a/devops-a-fundamental-overview-1nog)
+- [A beginner&#39;s guide to the Hunyuan3d-2 model by Prunaai on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-hunyuan3d-2-model-by-prunaai-on-replicate-1ln6)
+- [AI Code Breakthrough: Generates Deep Learning Projects with 92% Success](https://dev.to/aimodels-fyi/ai-code-breakthrough-generates-deep-learning-projects-with-92-success-4424)
+- [GreenMind: Next-Gen Vietnamese LLM Excels at Reasoning](https://dev.to/aimodels-fyi/greenmind-next-gen-vietnamese-llm-excels-at-reasoning-5h8b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
