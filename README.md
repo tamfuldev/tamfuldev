@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s Beyond the Vibe Code Era?](https://dev.to/adam_cyclones/whats-beyond-the-vibe-code-era-1jp0)
-- [# PostgreSQL Tutorial: 📚 What Really Happens When You Add and Drop Columns 2000 Times in PostgreSQL](https://dev.to/mangesh28/-postgresql-tutorial-what-really-happens-when-you-add-and-drop-columns-2000-times-in-postgresql-3m5p)
-- [I Never Planned on Becoming a Google Developer Expert](https://dev.to/lassiecoder/i-never-planned-on-becoming-a-google-developer-expert-ec5)
-- [Blockchain and Data Integrity: Transforming the Future of Secure Information Management](https://dev.to/ahmmrizv9/blockchain-and-data-integrity-transforming-the-future-of-secure-information-management-288i)
-- [6 Essential Steps of Data Cleaning Every Data Analyst Should Know in MS Excel](https://dev.to/samuel_omondi_4c8df8999c2/6-essential-steps-of-data-cleaning-every-data-analyst-should-know-in-ms-excel-8m3)
+- [Blockchain&#39;s Transformative Potential Across Industries](https://dev.to/rachellovestowrite/blockchains-transformative-potential-across-industries-5eec)
+- [5 Linux Hardening Techniques I Apply Before Hosting Any Website | by Faruk Ahmed | Apr, 2025](https://dev.to/cyberwebpen/5-linux-hardening-techniques-i-apply-before-hosting-any-website-by-faruk-ahmed-apr-2025-1hmg)
+- [10 Security Commands Every Linux Admin Should Know &lpar;But Probably Doesn’t&rpar; | by Faruk Ahmed | Apr, 2025](https://dev.to/cyberwebpen/10-security-commands-every-linux-admin-should-know-but-probably-doesnt-by-faruk-ahmed-apr-4igh)
+- [Web Design Sacramento](https://dev.to/websitedesignsacramento/web-design-sacramento-52f2)
+- [Building Transparent Supply Chains with Blockchain: A Developer&#39;s Guide to DPPs](https://dev.to/arkhan/building-transparent-supply-chains-with-blockchain-a-developers-guide-to-dpps-3f1k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
