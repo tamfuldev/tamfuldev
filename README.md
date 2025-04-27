@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Hands-On: Working with AWS RDS](https://dev.to/aws_1_27d6cbc9e944aa228ef/hands-on-working-with-aws-rds-44dc)
-- [Building Fluid, Motion-Safe Animations in Tailwind CSS That Respect User Preferences](https://dev.to/hexshift/building-fluid-motion-safe-animations-in-tailwind-css-that-respect-user-preferences-3i6e)
-- [Dynamic Theme Switching in Tailwind CSS Without Rebuilding Stylesheets](https://dev.to/hexshift/dynamic-theme-switching-in-tailwind-css-without-rebuilding-stylesheets-1le5)
-- [From Stargazing to Programming: How the Cosmos Guided My Journey](https://dev.to/bhuvaneshm_dev/from-stargazing-to-programming-how-the-cosmos-guided-my-journey-1e37)
-- [Go - &lpar;8&rpar; Advanced Functions](https://dev.to/chathurashmini/go-8-advanced-functions-18ej)
+- [7 less common computer input devices](https://dev.to/maxpatiiuk/7-less-common-computer-input-devices-1bel)
+- [building a reactive library from](https://dev.to/jiang8823/building-a-reactive-library-from-471o)
+- [[Boost]](https://dev.to/akash029/-492g)
+- [🚀 Building Dynamic Parallel Workflows in Google ADK](https://dev.to/masahide/building-dynamic-parallel-workflows-in-google-adk-lmn)
+- [react](https://dev.to/jiang8823/react-17h7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
