@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Arbitrum, Validator Rewards, and PoS Innovations: A Comprehensive Overview](https://dev.to/zhangwei42/exploring-arbitrum-validator-rewards-and-pos-innovations-a-comprehensive-overview-obj)
-- [How to Detect If a User Is Using a VPN with JavaScript](https://dev.to/jenueldev/how-to-detect-if-a-user-is-using-a-vpn-with-javascript-4nam)
-- [Count Date Ranges per Year — From SQL to SPL #23](https://dev.to/judith677/count-date-ranges-per-year-from-sql-to-spl-23-1lmo)
-- [Smarter SEO Starts Here: How AI Streamlines Technical and On-Page Tasks](https://dev.to/d-libro-digital-skills/smarter-seo-starts-here-how-ai-streamlines-technical-and-on-page-tasks-jfe)
-- [Weekly #17-2025: PhpStorm Upgrades, AI Job Fakes, Ansible’s Reality, Brain Drain, and Zuckerberg’s Social Shift](https://dev.to/weekly/weekly-17-2025-phpstorm-upgrades-ai-job-fakes-ansibles-reality-brain-drain-and-zuckerbergs-3p5p)
+- [7 skill you must know to call yourself HTML master in 2025 🚀](https://dev.to/ruppysuppy/7-skill-you-must-know-to-call-yourself-html-master-in-2025-199e)
+- [Cloned Two New Websites with Bootstrap! 🚀 &lpar;Papergrid + Restaurant Landing Page](https://dev.to/shifil/completed-two-new-projects-with-bootstrap-papergrid-clone-restaurant-landing-page-1i53)
+- [Submit vs Break on Enter on ChatGPT Website](https://dev.to/benbavar/submit-vs-break-on-enter-on-chatgpt-website-43h5)
+- [Cookies in Golf applications, plus HAProxy](https://dev.to/golf-lang/cookies-in-golf-applications-plus-haproxy-2g11)
+- [Building an NSFW AI Image Generator with Next.js and Tailwind CSS](https://dev.to/ficav/building-an-nsfw-ai-image-generator-with-nextjs-and-tailwind-css-pjd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
