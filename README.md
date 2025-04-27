@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [7 less common computer input devices](https://dev.to/maxpatiiuk/7-less-common-computer-input-devices-1bel)
-- [building a reactive library from](https://dev.to/jiang8823/building-a-reactive-library-from-471o)
-- [[Boost]](https://dev.to/akash029/-492g)
-- [🚀 Building Dynamic Parallel Workflows in Google ADK](https://dev.to/masahide/building-dynamic-parallel-workflows-in-google-adk-lmn)
-- [react](https://dev.to/jiang8823/react-17h7)
+- [💎 enum-plus: Believe it or Not, This Might be Your Last Javascript Enum Library](https://dev.to/shijistar/enum-plus-believe-it-or-not-this-might-be-your-last-javascript-enum-library-4gmc)
+- [Mastering Backend Development: Build Scalable and Secure Applications](https://dev.to/code_2/mastering-backend-development-build-scalable-and-secure-applications-4k93)
+- [DeepWiki: An AI Guide to GitHub Codebase Mastery🚀](https://dev.to/fallon_jimmy/deepwiki-an-ai-guide-to-github-codebase-mastery-3p5m)
+- [Go - &lpar;9&rpar; Pointers](https://dev.to/chathurashmini/go-9-pointers-20d2)
+- [The AI-Powered Development Revolution: Transforming Teamwork with Copilot Agent Mode and MCP Server](https://dev.to/kb1234/the-ai-powered-development-revolution-transforming-teamwork-with-copilot-agent-mode-and-mcp-server-53nm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
