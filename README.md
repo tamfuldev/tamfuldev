@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Installing and Using OpenVAS on Kali Linux – A Complete Guide](https://dev.to/terminaltools/installing-and-using-openvas-on-kali-linux-a-complete-guide-10d3)
-- [Automação de Processos: BPMN, BPMS e RPA - by Vladimir Oliveira Lima](https://dev.to/vladimiroliveiralima/automacao-de-processos-bpmn-bpms-e-rpa-by-vladimir-oliveira-lima-120g)
-- [Quick introduction to isomorphic-validation javascript library.](https://dev.to/itihon/quick-introduction-to-isomorphic-validation-javascript-library-48p6)
-- [How to Install John The Ripper on Termux](https://dev.to/terminaltools/how-to-install-john-the-ripper-on-termux-58je)
-- [🚀 Test Post for DEV.to from TrendForge](https://dev.to/ashishrnx/test-post-for-devto-from-trendforge-55n3)
+- [Day 5/90: Purge Elements Like the Shadow Monarch — Conquering LeetCode’s Remove Element Problem](https://dev.to/luparinx/day-590-purge-elements-like-the-shadow-monarch-conquering-leetcodes-remove-element-problem-i64)
+- [BEST GITHUB PROFILE README TEMPLATE FOR BEGINNERS](https://dev.to/karkeys1108/best-github-profile-readme-template-for-beginners-2joh)
+- [2.2 SYSTEM ARCHITECTURES / 2.2.1 Centralized Architectures &lpar;Distributed Systems&rpar;](https://dev.to/dima853/22-system-architectures-221-centralized-architectures-distributed-systems-2ep0)
+- [ripgrep: Not Just a Faster grep, but a Sharper One](https://dev.to/lovestaco/ripgrep-not-just-a-faster-grep-but-a-sharper-one-pe)
+- [Mojolicious and Docker](https://dev.to/dragostrif/mojolicious-and-docker-939)
 <!-- BLOG-POST-LIST:END -->
 
 ---
