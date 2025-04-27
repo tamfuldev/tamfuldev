@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Untitled](https://dev.to/preetha_vaishnavi_2b82358/untitled-1bm0)
-- [Web Server Scanning with Nikto in Termux: A Comprehensive Guide](https://dev.to/terminaltools/web-server-scanning-with-nikto-in-termux-a-comprehensive-guide-514)
-- [Portfolio Page](https://dev.to/preetha_vaishnavi_2b82358/portfolio-page-3ogd)
-- [I Built CodeNudge: An AI Reviewer for Your GitHub Pull Requests](https://dev.to/floranpagliai/i-built-codenudge-an-ai-reviewer-for-your-github-pull-requests-1hbm)
-- [A Better Way to Organize Your Front-End Projects: Component-Focused Architecture &lpar;CFA&rpar;](https://dev.to/isemilia/a-better-way-to-organize-your-front-end-projects-component-focused-architecture-cfa-42hb)
+- [[Boost]](https://dev.to/yemi_adeoye_e660cd663a281/-58b8)
+- [Check Out These 5 GitHub Repositories Now 🤯](https://dev.to/dev_kiran/check-out-these-5-github-repositories-now-3bpb)
+- [Богдан Новотарский 8](https://dev.to/bogdannovotarskij/boghdan-novotarskii-8-45bi)
+- [Create an API in .NET with MongoDB and Pagination](https://dev.to/adrianbailador/create-an-api-in-net-with-mongodb-and-pagination-3dhb)
+- [Богдан Новотарский 3](https://dev.to/bogdannovotarskij/boghdan-novotarskii-3-2ibg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
