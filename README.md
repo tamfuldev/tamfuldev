@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Blockchain&#39;s Transformative Potential Across Industries](https://dev.to/rachellovestowrite/blockchains-transformative-potential-across-industries-5eec)
-- [5 Linux Hardening Techniques I Apply Before Hosting Any Website | by Faruk Ahmed | Apr, 2025](https://dev.to/cyberwebpen/5-linux-hardening-techniques-i-apply-before-hosting-any-website-by-faruk-ahmed-apr-2025-1hmg)
-- [10 Security Commands Every Linux Admin Should Know &lpar;But Probably Doesn’t&rpar; | by Faruk Ahmed | Apr, 2025](https://dev.to/cyberwebpen/10-security-commands-every-linux-admin-should-know-but-probably-doesnt-by-faruk-ahmed-apr-4igh)
-- [Web Design Sacramento](https://dev.to/websitedesignsacramento/web-design-sacramento-52f2)
-- [Building Transparent Supply Chains with Blockchain: A Developer&#39;s Guide to DPPs](https://dev.to/arkhan/building-transparent-supply-chains-with-blockchain-a-developers-guide-to-dpps-3f1k)
+- [OpenBSD Upgrade 7.6 to 7.7](https://dev.to/nabbisen/openbsd-upgrade-76-to-77-1cco)
+- [Mindfck Devlog 2: Memory Handling, Variables, and Flow Control in Brainfuck](https://dev.to/angrykoala/mindfck-devlog-2-memory-handling-variables-and-flow-control-in-brainfuck-5fml)
+- [Blockchain and Digital Rights Management: A Revolutionary Synergy in a Digital Era](https://dev.to/bobcars/blockchain-and-digital-rights-management-a-revolutionary-synergy-in-a-digital-era-3con)
+- [Structured approach to versioning](https://dev.to/khanze99/structured-approach-to-versioning-5eig)
+- [Cloud Resume Challenge - AWS](https://dev.to/alexisjvilc/cloud-resume-challenge-aws-130n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
