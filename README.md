@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How do you serve media files correctly in Docker with Next.js and Nginx!?🛠️🖼️](https://dev.to/amankrsahu/how-do-you-serve-media-files-correctly-in-docker-with-nextjs-and-nginx-5b35)
-- [Redes: pt. 4 - Gateway, ARP e roteamento](https://dev.to/mmsfarias/redes-pt-4-gateway-arp-e-roteamento-1j57)
-- [CH-01 : The Tale of Two Threads](https://dev.to/nikhil-amin/ch-01-the-tale-of-two-threads-4a31)
-- [React Hooks Overview](https://dev.to/tene/react-hooks-overview-2o11)
-- [Beginner-Friendly Guide to Solving &quot;Count Subarrays With Fixed Bounds&quot; | LeetCode 2444 Explained &lpar;C++ | JavaScript | Python&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-to-solving-count-subarrays-with-fixed-bounds-leetcode-2444-explained-2f0f)
+- [Exploring Arbitrum, Validator Rewards, and PoS Innovations: A Comprehensive Overview](https://dev.to/zhangwei42/exploring-arbitrum-validator-rewards-and-pos-innovations-a-comprehensive-overview-obj)
+- [How to Detect If a User Is Using a VPN with JavaScript](https://dev.to/jenueldev/how-to-detect-if-a-user-is-using-a-vpn-with-javascript-4nam)
+- [Count Date Ranges per Year — From SQL to SPL #23](https://dev.to/judith677/count-date-ranges-per-year-from-sql-to-spl-23-1lmo)
+- [Smarter SEO Starts Here: How AI Streamlines Technical and On-Page Tasks](https://dev.to/d-libro-digital-skills/smarter-seo-starts-here-how-ai-streamlines-technical-and-on-page-tasks-jfe)
+- [Weekly #17-2025: PhpStorm Upgrades, AI Job Fakes, Ansible’s Reality, Brain Drain, and Zuckerberg’s Social Shift](https://dev.to/weekly/weekly-17-2025-phpstorm-upgrades-ai-job-fakes-ansibles-reality-brain-drain-and-zuckerbergs-3p5p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
