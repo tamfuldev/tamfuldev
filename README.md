@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Search Engine That Feels Like Magic](https://dev.to/lovestaco/the-search-engine-that-feels-like-magic-e93)
-- [Strong Typing is a Security Blanket for Weak Developers](https://dev.to/hotfixhero/strong-typing-is-a-security-blanket-for-weak-developers-d9g)
-- [Exploratory Data Analysis](https://dev.to/yesra_sajid_90cc25b86dcda/exploratory-data-analysis-1gg7)
-- [Understanding Network Attacks: Types, Impact, and Prevention Strategies](https://dev.to/terminaltools/understanding-network-attacks-types-impact-and-prevention-strategies-5fn7)
-- [ML workshop day2](https://dev.to/harish_r_6e377c4fc214e03/ml-workshop-day2-4nec)
+- [Building a Kubernetes Cluster from Scratch With K3s And MetalLB](https://dev.to/alyconr/building-a-kubernetes-cluster-from-scratch-with-k3s-and-metallb-ia0)
+- [build image in docker](https://dev.to/sfathim_nisha_syedabut/build-image-in-docker-2agp)
+- [Exportar Connections do Developer Para o Visual Code](https://dev.to/devkaiqueramos_133321f65e/exportar-connections-do-developer-para-o-visual-code-2m12)
+- [advanced git commands](https://dev.to/sfathim_nisha_syedabut/advanced-git-commands-36ah)
+- [Build a rich text editor with Angular + NgxTraak](https://dev.to/mouhamadalmounayar/build-a-rich-text-editor-with-angular-ngxtraak-1agk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
