@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Medidas Preventivas Essenciais para Escritórios Compartilhados](https://dev.to/segurancaspecialist800/medidas-preventivas-essenciais-para-escritorios-compartilhados-hn0)
-- [Sistemas de Alarme: A Nova Era de Integração com Resgate Eficiente](https://dev.to/orangeliquor59/sistemas-de-alarme-a-nova-era-de-integracao-com-resgate-eficiente-2b55)
-- [Comparing Copilot Edits and Cursor](https://dev.to/ankk98/comparing-copilot-edits-and-cursor-5f1a)
-- [Brigada de incêndio em centros comerciais: Segurança em primeiro lugar](https://dev.to/orangeliquor59/brigada-de-incendio-em-centros-comerciais-seguranca-em-primeiro-lugar-3a80)
-- [Prevenção de Incêndio: Aprenda a Proteger Sua Vida e Patrimônio](https://dev.to/emergenciasafety272/prevencao-de-incendio-aprenda-a-proteger-sua-vida-e-patrimonio-2o25)
+- [Why You Need a Status Page Before You Need a Status Page](https://dev.to/therealfloatdev/why-you-need-a-status-page-before-you-need-a-status-page-1m1m)
+- [Luminária de Sobrepor LED Atacado: Ilumine Seus Espaços com Economia](https://dev.to/butanegender6/luminaria-de-sobrepor-led-atacado-ilumine-seus-espacos-com-economia-3o7j)
+- [Web Development Week 1](https://dev.to/upinar/web-development-week-1-41md)
+- [Como calcular o consumo de energia com LED e economizar na conta](https://dev.to/puffinbrandy5/como-calcular-o-consumo-de-energia-com-led-e-economizar-na-conta-3nej)
+- [Why I Chose RHEL 9 to Deepen My Cloud Engineering Skills...](https://dev.to/dtemi/why-i-chose-rhel-9-to-deepen-my-cloud-engineering-skills-33e5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
