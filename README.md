@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [PerformanceObserver API for Resource Tracking](https://dev.to/omriluz1/performanceobserver-api-for-resource-tracking-467p)
-- [Apendicectomia: Entenda os Sintomas e o Processo de Recuperação](https://dev.to/breadclam40/apendicectomia-entenda-os-sintomas-e-o-processo-de-recuperacao-12bn)
-- [Encrypting and Decrypting a .txt File Using Python’s Cryptography Library | by Faruk Ahmed](https://dev.to/cyberwebpen/encrypting-and-decrypting-a-txt-file-using-pythons-cryptography-library-by-faruk-ahmed-ld2)
-- [Embracing the Unknown: How I Turned Challenges into Opportunities in the Tech World | by Faruk Ahmed | Apr, 2025](https://dev.to/cyberwebpen/embracing-the-unknown-how-i-turned-challenges-into-opportunities-in-the-tech-world-by-faruk-3b88)
-- [7 Bash Mistakes I Made That Cost Me Time &lpar;And How to Avoid Them&rpar; | by Faruk Ahmed | Apr, 2025](https://dev.to/cyberwebpen/7-bash-mistakes-i-made-that-cost-me-time-and-how-to-avoid-them-by-faruk-ahmed-apr-2025-2obg)
+- [Medidas Preventivas Essenciais para Escritórios Compartilhados](https://dev.to/segurancaspecialist800/medidas-preventivas-essenciais-para-escritorios-compartilhados-hn0)
+- [Sistemas de Alarme: A Nova Era de Integração com Resgate Eficiente](https://dev.to/orangeliquor59/sistemas-de-alarme-a-nova-era-de-integracao-com-resgate-eficiente-2b55)
+- [Comparing Copilot Edits and Cursor](https://dev.to/ankk98/comparing-copilot-edits-and-cursor-5f1a)
+- [Brigada de incêndio em centros comerciais: Segurança em primeiro lugar](https://dev.to/orangeliquor59/brigada-de-incendio-em-centros-comerciais-seguranca-em-primeiro-lugar-3a80)
+- [Prevenção de Incêndio: Aprenda a Proteger Sua Vida e Patrimônio](https://dev.to/emergenciasafety272/prevencao-de-incendio-aprenda-a-proteger-sua-vida-e-patrimonio-2o25)
 <!-- BLOG-POST-LIST:END -->
 
 ---
