@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL aborts the transactions on error](https://dev.to/aws-heroes/postgresql-rollback-on-error-515a)
-- [Understanding the JavaScript Event Loop &lpar;In Simple Terms&rpar;](https://dev.to/joseat/understanding-the-javascript-event-loop-in-simple-terms-22hb)
-- [Blockchain for Intellectual Property Management: Revolutionizing Copyright and Patent Systems](https://dev.to/laetitiaperraut/blockchain-for-intellectual-property-management-revolutionizing-copyright-and-patent-systems-4hn2)
-- [Top 5 Ethical AI Companies Setting New Standards in 2025](https://dev.to/priyankapandey/top-5-ethical-ai-companies-setting-new-standards-in-2025-8f8)
-- [Top Cryptos to Invest in 2025: Trends and Investment Tips](https://dev.to/coinw/top-cryptos-to-invest-in-2025-trends-and-investment-tips-2j3o)
+- [enum-plus: A drop-in replacement for native enum](https://dev.to/shijistar/enum-plus-a-drop-in-replacement-for-native-enum-3a4m)
+- [Learn How to Build Multi-Class Text Classification Models with RNN and LSTM](https://dev.to/aionlinecourse/learn-how-to-build-multi-class-text-classification-models-with-rnn-and-lstm-ned)
+- [Machine Learning Engineer vs Data Scientist - Fejlesztői perspektíva a szerepkörökről](https://dev.to/balazsrefi/machine-learning-engineer-vs-data-scientist-fejlesztoi-perspektiva-a-szerepkorokrol-jkk)
+- [HTTP Status Codes Cheat Sheet 📝](https://dev.to/davinceleecode/http-status-codes-cheat-sheet-5f2i)
+- [MicroK8s: Create a HA cluster](https://dev.to/sertxudev/microk8s-create-a-ha-cluster-1929)
 <!-- BLOG-POST-LIST:END -->
 
 ---
