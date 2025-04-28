@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Best Practices for Beginners](https://dev.to/media_geneous_bb80d6b5563/javascript-best-practices-for-beginners-jfb)
-- [🚀 Flashbot: The Color Click Challenge!](https://dev.to/jaydenyoon/flashbot-the-color-click-challenge-9ke)
-- [Web Deploy no longer works](https://dev.to/sinestresdev/web-deploy-no-longer-works-2nho)
-- [Factory design pattern in C#](https://dev.to/sebastiandevelops/factory-design-pattern-in-c-4nh4)
-- [Why not pprint anymore? Introducing SetPrint: Structural Debugging for Real Data](https://dev.to/mtur2007/why-not-pprint-anymore-introducing-setprint-structural-debugging-for-real-data-733)
+- [Software Testing: Theory and Practice &lpar;Part 8&rpar; - One Step Beyond](https://dev.to/kuniwak/software-testing-theory-and-practice-part-8-one-step-beyond-55k6)
+- [ToPILImage in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/topilimage-in-pytorch-1-kb6)
+- [5th, I run into a few problems](https://dev.to/bruce_doctor_515422886dae/5th-i-run-into-a-few-problems-4bg3)
+- [How to Install a Honeypot to Catch Hackers](https://dev.to/pawanjswal/how-to-install-a-honeypot-to-catch-hackers-48ao)
+- [How AWS Kinesis and Lambda Work Together to Send Emails Instantly](https://dev.to/pratikshya_behera_/how-aws-kinesis-and-lambda-work-together-to-send-emails-instantly-1gai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
