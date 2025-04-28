@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Excel MONTH Function?](https://dev.to/excel24x7/how-to-use-excel-month-function-1ljc)
-- [How I Built FSMvid &lpar;With a Little Help From Cursor and Next.js&rpar;](https://dev.to/ahmed_mostafa_eg/how-i-built-fsmvid-with-a-little-help-from-cursor-and-nextjs-450k)
-- [Metabase 54: Table visualization improvements, smarter custom expression editor, better alerts, and more](https://dev.to/metabase/metabase-54-table-visualization-improvements-smarter-custom-expression-editor-better-alerts-and-2h29)
-- [Why React Components Must Return a Single Root Element](https://dev.to/itspedram/why-react-components-must-return-a-single-root-element-354b)
-- [Docker: The Developer’s Secret Weapon for Conquering Chaos](https://dev.to/anupam_kumar/-docker-the-developers-secret-weapon-for-conquering-chaos-llm)
+- [Think Bigger. Manage Smarter. Choose ERP](https://dev.to/bhavesh_gangani_/think-bigger-manage-smarter-choose-erp-2049)
+- [Flotiq vs Hygraph: Headless CMS Guide 2025](https://dev.to/flotiq/flotiq-vs-hygraph-headless-cms-guide-2025-1o5)
+- [Control the Flow: Building Dynamic Workflows with Orkes Operators](https://dev.to/orkes/control-the-flow-building-dynamic-workflows-with-orkes-operators-2fo9)
+- [🧠 Lead Agents with Prompts](https://dev.to/imaginex/lead-agents-with-prompts-2mpc)
+- [Thinking of Starting a VPN Company? Here’s What Developers Should Know](https://dev.to/muhammad_shoaib_558e597e2/thinking-of-starting-a-vpn-company-heres-what-developers-should-know-506j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
