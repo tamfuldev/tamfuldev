@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/aryan_panwala/-42n8)
-- [[Boost]](https://dev.to/pranesh_patel/-7kn)
-- [How to - Convert HTML Table to JSON Power Automate](https://dev.to/wyattdave/how-to-convert-html-table-to-json-power-automate-5gmp)
-- [Measuring Developer Productivity: Metrics That Matter and Not matter detail, guide](https://dev.to/pratham_naik_project_manager/measuring-developer-productivity-metrics-that-matter-and-not-matter-detail-guide-1f95)
-- [How to Fix &quot;MySQL Unexpected Shutdown&quot; in XAMPP &lpar;Easy Step-by-Step Guide&rpar;](https://dev.to/chaitanyarai3/how-to-fix-mysql-unexpected-shutdown-in-xampp-easy-step-by-step-guide-m7c)
+- [Neuromorphic Computing: Brain-Inspired Tech You Should Know About](https://dev.to/ayush_rai_3a4bf2876ad190f/neuromorphic-computing-brain-inspired-tech-you-should-know-about-1a11)
+- [Unleashing Blockchain in Gaming: Revolutionizing Digital Ownership and Play-to-Earn Economies](https://dev.to/zhangwei42/unleashing-blockchain-in-gaming-revolutionizing-digital-ownership-and-play-to-earn-economies-m5c)
+- [[Boost]](https://dev.to/osiris8/-30jc)
+- [Understanding AWS Regions and Availability Zones: A Guide for Beginners](https://dev.to/luminousmen/understanding-aws-regions-and-availability-zones-a-guide-for-beginners-1bcd)
+- [Customer Relationship Management &lpar;CRM&rpar; Trends: Shaping the Future of Business](https://dev.to/giri25/customer-relationship-management-crm-trends-shaping-the-future-of-business-1hk6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
