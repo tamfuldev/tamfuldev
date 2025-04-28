@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Nextjs](https://dev.to/seyma/nextjs-2pj0)
-- [[Boost]](https://dev.to/seyma/-247b)
-- [Drum Machine.](https://dev.to/syedhammas/drum-machine-1c6i)
-- [Meme Monday](https://dev.to/ben/meme-monday-1l21)
-- [The first open-source AI Agent for OLX.](https://dev.to/abdibrokhim/the-first-open-source-ai-agent-for-olx-35ia)
+- [DeepSeek R2: Is This the Most Efficient AI Model Yet?](https://dev.to/_37bbf0c253c0b3edec531e/deepseek-r2-is-this-the-most-efficient-ai-model-yet-4fk0)
+- [🚀 Your Daily Crypto Job Digest For 28 April!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-28-april-1fc1)
+- [Building a RESTful To-Do API with Clean Architecture in Python](https://dev.to/sung_jinwoo_ae9a810f8c46a/building-a-restful-to-do-api-with-clean-architecture-in-python-48am)
+- [Master the OCI 2025 Foundations Associate Exam with These Essential Exam Questions](https://dev.to/cert_study_4c9a871b492407/master-the-oci-2025-foundations-associate-exam-with-these-essential-exam-questions-56em)
+- [[Boost]](https://dev.to/jollenmoyani/-3c2p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
