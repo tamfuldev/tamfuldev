@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Think Bigger. Manage Smarter. Choose ERP](https://dev.to/bhavesh_gangani_/think-bigger-manage-smarter-choose-erp-2049)
-- [Flotiq vs Hygraph: Headless CMS Guide 2025](https://dev.to/flotiq/flotiq-vs-hygraph-headless-cms-guide-2025-1o5)
-- [Control the Flow: Building Dynamic Workflows with Orkes Operators](https://dev.to/orkes/control-the-flow-building-dynamic-workflows-with-orkes-operators-2fo9)
-- [🧠 Lead Agents with Prompts](https://dev.to/imaginex/lead-agents-with-prompts-2mpc)
-- [Thinking of Starting a VPN Company? Here’s What Developers Should Know](https://dev.to/muhammad_shoaib_558e597e2/thinking-of-starting-a-vpn-company-heres-what-developers-should-know-506j)
+- [Nextjs](https://dev.to/seyma/nextjs-2pj0)
+- [[Boost]](https://dev.to/seyma/-247b)
+- [Drum Machine.](https://dev.to/syedhammas/drum-machine-1c6i)
+- [Meme Monday](https://dev.to/ben/meme-monday-1l21)
+- [The first open-source AI Agent for OLX.](https://dev.to/abdibrokhim/the-first-open-source-ai-agent-for-olx-35ia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
