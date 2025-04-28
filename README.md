@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Scaling Your Node.js App with PM2: Cluster Mode vs Fork Mode](https://dev.to/smit-vaghasiya/scaling-your-nodejs-app-with-pm2-cluster-mode-vs-fork-mode-3bo9)
-- [Demystifying Generative AI: Essential Concepts for Understanding the Technology](https://dev.to/aditya_tripathi_17ffee7f5/demystifying-generative-ai-essential-concepts-for-understanding-the-technology-47cc)
-- [Make JavaScript Art with p5.js 2.0, new React 19 Features, Solid.js just turned 10, and more](https://dev.to/thisweekinjavascript/make-javascript-art-with-p5js-20-new-react-19-features-solidjs-just-turned-10-and-more-309p)
-- [Tin tức AI](https://dev.to/congngheaivn/tin-tuc-ai-228)
-- [Understanding SuperStacks with Mint: A New Paradigm for Superchain Incentives](https://dev.to/mint_/understanding-superstacks-with-mint-a-new-paradigm-for-superchain-incentives-e1j)
+- [How to Use Excel MONTH Function?](https://dev.to/excel24x7/how-to-use-excel-month-function-1ljc)
+- [How I Built FSMvid &lpar;With a Little Help From Cursor and Next.js&rpar;](https://dev.to/ahmed_mostafa_eg/how-i-built-fsmvid-with-a-little-help-from-cursor-and-nextjs-450k)
+- [Metabase 54: Table visualization improvements, smarter custom expression editor, better alerts, and more](https://dev.to/metabase/metabase-54-table-visualization-improvements-smarter-custom-expression-editor-better-alerts-and-2h29)
+- [Why React Components Must Return a Single Root Element](https://dev.to/itspedram/why-react-components-must-return-a-single-root-element-354b)
+- [Docker: The Developer’s Secret Weapon for Conquering Chaos](https://dev.to/anupam_kumar/-docker-the-developers-secret-weapon-for-conquering-chaos-llm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
