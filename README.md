@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [enum-plus: A drop-in replacement for native enum](https://dev.to/shijistar/enum-plus-a-drop-in-replacement-for-native-enum-3a4m)
-- [Learn How to Build Multi-Class Text Classification Models with RNN and LSTM](https://dev.to/aionlinecourse/learn-how-to-build-multi-class-text-classification-models-with-rnn-and-lstm-ned)
-- [Machine Learning Engineer vs Data Scientist - Fejlesztői perspektíva a szerepkörökről](https://dev.to/balazsrefi/machine-learning-engineer-vs-data-scientist-fejlesztoi-perspektiva-a-szerepkorokrol-jkk)
-- [HTTP Status Codes Cheat Sheet 📝](https://dev.to/davinceleecode/http-status-codes-cheat-sheet-5f2i)
-- [MicroK8s: Create a HA cluster](https://dev.to/sertxudev/microk8s-create-a-ha-cluster-1929)
+- [Scaling Your Node.js App with PM2: Cluster Mode vs Fork Mode](https://dev.to/smit-vaghasiya/scaling-your-nodejs-app-with-pm2-cluster-mode-vs-fork-mode-3bo9)
+- [Demystifying Generative AI: Essential Concepts for Understanding the Technology](https://dev.to/aditya_tripathi_17ffee7f5/demystifying-generative-ai-essential-concepts-for-understanding-the-technology-47cc)
+- [Make JavaScript Art with p5.js 2.0, new React 19 Features, Solid.js just turned 10, and more](https://dev.to/thisweekinjavascript/make-javascript-art-with-p5js-20-new-react-19-features-solidjs-just-turned-10-and-more-309p)
+- [Tin tức AI](https://dev.to/congngheaivn/tin-tuc-ai-228)
+- [Understanding SuperStacks with Mint: A New Paradigm for Superchain Incentives](https://dev.to/mint_/understanding-superstacks-with-mint-a-new-paradigm-for-superchain-incentives-e1j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
