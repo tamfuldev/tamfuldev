@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Software Testing: Theory and Practice &lpar;Part 8&rpar; - One Step Beyond](https://dev.to/kuniwak/software-testing-theory-and-practice-part-8-one-step-beyond-55k6)
-- [ToPILImage in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/topilimage-in-pytorch-1-kb6)
-- [5th, I run into a few problems](https://dev.to/bruce_doctor_515422886dae/5th-i-run-into-a-few-problems-4bg3)
-- [How to Install a Honeypot to Catch Hackers](https://dev.to/pawanjswal/how-to-install-a-honeypot-to-catch-hackers-48ao)
-- [How AWS Kinesis and Lambda Work Together to Send Emails Instantly](https://dev.to/pratikshya_behera_/how-aws-kinesis-and-lambda-work-together-to-send-emails-instantly-1gai)
+- [Avoid performance issues when using Zustand](https://dev.to/devgrana/avoid-performance-issues-when-using-zustand-12ee)
+- [What are Tables in Snowflake Really?](https://dev.to/armaankhan8270/what-are-tables-in-snowflake-really-1k53)
+- [🚀 Deploy Your Project to GitHub Pages Using gh-pages](https://dev.to/rohantgeorge/deploy-your-project-to-github-pages-using-gh-pages-1dlh)
+- [What Are the Best Practices for Writing Dockerfiles?](https://dev.to/puratabla/what-are-the-best-practices-for-writing-dockerfiles-17ec)
+- [MidJourney Mastery: Create Beautiful AI Art – A Deep Technical and Coding Approach](https://dev.to/kimberegon/midjourney-mastery-create-beautiful-ai-art-a-deep-technical-and-coding-approach-470e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
