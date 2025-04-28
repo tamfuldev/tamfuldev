@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Neuromorphic Computing: Brain-Inspired Tech You Should Know About](https://dev.to/ayush_rai_3a4bf2876ad190f/neuromorphic-computing-brain-inspired-tech-you-should-know-about-1a11)
-- [Unleashing Blockchain in Gaming: Revolutionizing Digital Ownership and Play-to-Earn Economies](https://dev.to/zhangwei42/unleashing-blockchain-in-gaming-revolutionizing-digital-ownership-and-play-to-earn-economies-m5c)
-- [[Boost]](https://dev.to/osiris8/-30jc)
-- [Understanding AWS Regions and Availability Zones: A Guide for Beginners](https://dev.to/luminousmen/understanding-aws-regions-and-availability-zones-a-guide-for-beginners-1bcd)
-- [Customer Relationship Management &lpar;CRM&rpar; Trends: Shaping the Future of Business](https://dev.to/giri25/customer-relationship-management-crm-trends-shaping-the-future-of-business-1hk6)
+- [PostgreSQL aborts the transactions on error](https://dev.to/aws-heroes/postgresql-rollback-on-error-515a)
+- [Understanding the JavaScript Event Loop &lpar;In Simple Terms&rpar;](https://dev.to/joseat/understanding-the-javascript-event-loop-in-simple-terms-22hb)
+- [Blockchain for Intellectual Property Management: Revolutionizing Copyright and Patent Systems](https://dev.to/laetitiaperraut/blockchain-for-intellectual-property-management-revolutionizing-copyright-and-patent-systems-4hn2)
+- [Top 5 Ethical AI Companies Setting New Standards in 2025](https://dev.to/priyankapandey/top-5-ethical-ai-companies-setting-new-standards-in-2025-8f8)
+- [Top Cryptos to Invest in 2025: Trends and Investment Tips](https://dev.to/coinw/top-cryptos-to-invest-in-2025-trends-and-investment-tips-2j3o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
