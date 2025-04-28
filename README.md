@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Group Management in Linux: My Journey to Organized Systems](https://dev.to/ibrahim_morakinyo_8f47965/group-management-in-linux-my-journey-to-organized-systems-eo1)
-- [OpenBSD 7.6 を 7.7 へ アップグレード](https://dev.to/nabbisen/openbsd-76-wo-77-he-atupuguredo-1eh7)
-- [OpenBSD Upgrade 7.6 to 7.7](https://dev.to/nabbisen/openbsd-upgrade-76-to-77-1cco)
-- [Mindfck Devlog 2: Memory Handling, Variables, and Flow Control in Brainfuck](https://dev.to/angrykoala/mindfck-devlog-2-memory-handling-variables-and-flow-control-in-brainfuck-5fml)
-- [Blockchain and Digital Rights Management: A Revolutionary Synergy in a Digital Era](https://dev.to/bobcars/blockchain-and-digital-rights-management-a-revolutionary-synergy-in-a-digital-era-3con)
+- [JavaScript Best Practices for Beginners](https://dev.to/media_geneous_bb80d6b5563/javascript-best-practices-for-beginners-jfb)
+- [🚀 Flashbot: The Color Click Challenge!](https://dev.to/jaydenyoon/flashbot-the-color-click-challenge-9ke)
+- [Web Deploy no longer works](https://dev.to/sinestresdev/web-deploy-no-longer-works-2nho)
+- [Factory design pattern in C#](https://dev.to/sebastiandevelops/factory-design-pattern-in-c-4nh4)
+- [Why not pprint anymore? Introducing SetPrint: Structural Debugging for Real Data](https://dev.to/mtur2007/why-not-pprint-anymore-introducing-setprint-structural-debugging-for-real-data-733)
 <!-- BLOG-POST-LIST:END -->
 
 ---
