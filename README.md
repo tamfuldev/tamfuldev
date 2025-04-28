@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Solving the Navier-Stokes Equation with Physics-Informed Neural Networks: A New Frontier in CFD](https://dev.to/darkstalker/solving-the-navier-stokes-equation-with-physics-informed-neural-networks-a-new-frontier-in-cfd-4hia)
-- [Local Data Analysis: DuckDB or esProc SPL?](https://dev.to/serina_8340/local-data-analysis-duckdb-or-esproc-spl-4462)
-- [Nerds Go to War: Why Linux and Red Hat Certified Heroes Matter](https://dev.to/xane_xahid/nerds-go-to-war-why-linux-and-red-hat-certified-heroes-matter-2698)
-- [Kubernetes &lpar;K8s&rpar; Command Cheat Sheet](https://dev.to/ktnl/kubernetes-k8s-command-cheat-sheet-291h)
-- [How to Build an NSFW AI Image Generator Using Next.js and TensorFlow.js](https://dev.to/ficav/how-to-build-an-nsfw-ai-image-generator-using-nextjs-and-tensorflowjs-1ao0)
+- [[Boost]](https://dev.to/aryan_panwala/-42n8)
+- [[Boost]](https://dev.to/pranesh_patel/-7kn)
+- [How to - Convert HTML Table to JSON Power Automate](https://dev.to/wyattdave/how-to-convert-html-table-to-json-power-automate-5gmp)
+- [Measuring Developer Productivity: Metrics That Matter and Not matter detail, guide](https://dev.to/pratham_naik_project_manager/measuring-developer-productivity-metrics-that-matter-and-not-matter-detail-guide-1f95)
+- [How to Fix &quot;MySQL Unexpected Shutdown&quot; in XAMPP &lpar;Easy Step-by-Step Guide&rpar;](https://dev.to/chaitanyarai3/how-to-fix-mysql-unexpected-shutdown-in-xampp-easy-step-by-step-guide-m7c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
