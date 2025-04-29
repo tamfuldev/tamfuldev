@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Angular Signals: A New Era of Reactivity](https://dev.to/khoanguyen1411/understanding-angular-signals-a-new-era-of-reactivity-4533)
-- [[Boost]](https://dev.to/blackscripts/-9nh)
-- [Batch curl requests in PHP using multi handles](https://dev.to/danrot90/batch-curl-requests-in-php-using-multi-handles-3jg6)
-- [Bridging the Gap: Dynamic JSON UI from Flutter to Android Compose - A Tale of Mapping Challenges](https://dev.to/dwiki_riyadi_692551d04968/bridging-the-gap-dynamic-json-ui-from-flutter-to-android-compose-a-tale-of-mapping-challenges-4ek1)
-- [Explorando Salários na NBA com Machine Learning e Visualização de Dados](https://dev.to/dimas7dev/explorando-salarios-na-nba-com-machine-learning-e-visualizacao-de-dados-1d1c)
+- [VectorRAG is naive, lacks domain awareness, and can’t handle full dataset retrieval](https://dev.to/falkordb/vectorrag-is-naive-lacks-domain-awareness-and-cant-handle-full-dataset-retrieval-5g59)
+- [Git Tales: Secrets in the Shadows](https://dev.to/davisbug/git-tales-secrets-in-the-shadows-2n8b)
+- [🧠 Part 2: Building Advanced useDateFormatter Hook with dayjs, UTC &amp; Timezone Support](https://dev.to/pramod_boda/part-2-building-advanced-usedateformatter-hook-with-dayjs-utc-timezone-support-1aii)
+- [🧠 Part 1: Stop Formatting Dates in PostgreSQL!, lets Create a Reusable useDateFormatter Hook in React &lpar;with TypeScript&rpar; 🎯](https://dev.to/pramod_boda/part-1-stop-formatting-dates-in-postgresql-lets-create-a-reusable-usedateformatter-hook-in-1ig)
+- [Enterprise Networks Unveiled: A Software Engineer&#39;s Guide to the Basics &lpar;Wrap Up&rpar;](https://dev.to/prince_of_pasta/enterprise-networks-unveiled-a-software-engineers-guide-to-the-basics-wrap-up-8g3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
