@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [safeJsonParse utility in Suna, an open source generalist AI agent.](https://dev.to/ramunarasinga-11/safejsonparse-utility-in-suna-an-open-source-generalist-ai-agent-hf2)
-- [How to Create a Search Menu to Filter List Items, using CSS and JavaScript](https://dev.to/chrys/how-to-create-a-search-menu-to-filter-list-items-using-css-and-javascript-55lj)
-- [Unit Testing Practice &lpar;forked&rpar;](https://dev.to/toprogramkhushijain/unit-testing-practice-forked-33bc)
-- [Day : 32 &quot;Byte by Byte: The Programmer’s Journey&quot;](https://dev.to/sangamithra_k_78d83d6fb9d/day-32-byte-by-byte-the-programmers-journey-224m)
-- [The new World](https://dev.to/emmanuel_gaytan_2afb85a69/the-new-world-2ega)
+- [Developer&#39;s Journey: The name of my squad.](https://dev.to/web_dev-usman/developers-journey-the-name-of-my-squad-32fl)
+- [Why Joining a Startup Early Was the Best Career Move I Ever Made](https://dev.to/kevinabestilla/why-joining-a-startup-early-was-the-best-career-move-i-ever-made-idi)
+- [Git-Hub Commands](https://dev.to/tharun801/git-hub-commands-5dpf)
+- [[Boost]](https://dev.to/eva_clari_289d85ecc68da48/-13a9)
+- [🔐 AWS ACM Now Automates Public TLS Certificates for Cloud Front — Just Check a Box!](https://dev.to/latchudevops/aws-acm-now-automates-public-tls-certificates-for-cloud-front-just-check-a-box-4job)
 <!-- BLOG-POST-LIST:END -->
 
 ---
