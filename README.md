@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Untitled](https://dev.to/kaviarasan_e/untitled-52n9)
-- [How to Type the &#39;_id&#39; Field in TypeScript with Mongoose](https://dev.to/fromchiapasdev/how-to-type-the-id-field-in-typescript-with-mongoose-5dib)
-- [[Boost]](https://dev.to/dcastrocordero22/-5f2b)
-- [InsightFlow Part 7: Data Quality Implementation &amp; Best Practices for InsightFlow](https://dev.to/pizofreude/insightflow-part-7-data-quality-implementation-best-practices-for-insightflow-27cp)
-- [🚀 How to Create a New Laravel Project Quickly!](https://dev.to/ramajayamk11/how-to-create-a-new-laravel-project-quickly-1n29)
+- [safeJsonParse utility in Suna, an open source generalist AI agent.](https://dev.to/ramunarasinga-11/safejsonparse-utility-in-suna-an-open-source-generalist-ai-agent-hf2)
+- [How to Create a Search Menu to Filter List Items, using CSS and JavaScript](https://dev.to/chrys/how-to-create-a-search-menu-to-filter-list-items-using-css-and-javascript-55lj)
+- [Unit Testing Practice &lpar;forked&rpar;](https://dev.to/toprogramkhushijain/unit-testing-practice-forked-33bc)
+- [Day : 32 &quot;Byte by Byte: The Programmer’s Journey&quot;](https://dev.to/sangamithra_k_78d83d6fb9d/day-32-byte-by-byte-the-programmers-journey-224m)
+- [The new World](https://dev.to/emmanuel_gaytan_2afb85a69/the-new-world-2ega)
 <!-- BLOG-POST-LIST:END -->
 
 ---
