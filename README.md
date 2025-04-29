@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Resource Timing API for Network Latency Analysis](https://dev.to/omriluz1/resource-timing-api-for-network-latency-analysis-3jfe)
-- [The Truth Behind Cheap Traffic](https://dev.to/deividas_strole/the-truth-behind-cheap-traffic-470k)
-- [Blockchain Project Funding and Token Burns: Fueling Innovation and Value Creation](https://dev.to/laetitiaperraut/blockchain-project-funding-and-token-burns-fueling-innovation-and-value-creation-2k00)
-- [Gridiron Survivor&#39;s Elfgorithm: Introduction and Team Installation](https://dev.to/michaellarocca/gridiron-survivors-elfgorithm-introduction-and-team-installation-550)
-- [JavaScript basics for future me](https://dev.to/ritumka/javascript-basics-for-future-me-3dm4)
+- [Pymupdf: A Python Library That Reduces the Size of PDF files](https://dev.to/maigaridavid/pymupdf-a-python-library-that-reduces-the-size-of-pdf-files-1anp)
+- [Cooperatives on Socio-data Pools as per &quot;Closures&quot;](https://dev.to/cyrus_zargaani_6a19e0c497/cooperatives-on-socio-data-pools-as-per-closures-4a7m)
+- [𝟳 𝗣𝗿𝗼𝘃𝗲𝗻 𝗜𝗧 𝗝𝗼𝗯 𝗦𝗲𝗮𝗿𝗰𝗵 𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗲𝘀 𝗧𝗵𝗮𝘁 𝗔𝗰𝘁𝘂𝗮𝗹𝗹𝘆 𝗪𝗼𝗿𝗸](https://dev.to/supraja_tangella_b7f0738e/-56mo)
+- [How Do You Integrate Security into the SDLC? &lpar;Researching Developer &amp; DevOps Workflows&rpar;](https://dev.to/jethalalchampaklal/how-do-you-integrate-security-into-the-sdlc-researching-developer-devops-workflows-1f99)
+- [Build Code-RAGent, an agent for your codebase](https://dev.to/astrabert/build-code-ragent-an-agent-for-your-codebase-5dh8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
