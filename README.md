@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [VectorRAG is naive, lacks domain awareness, and can’t handle full dataset retrieval](https://dev.to/falkordb/vectorrag-is-naive-lacks-domain-awareness-and-cant-handle-full-dataset-retrieval-5g59)
-- [Git Tales: Secrets in the Shadows](https://dev.to/davisbug/git-tales-secrets-in-the-shadows-2n8b)
-- [🧠 Part 2: Building Advanced useDateFormatter Hook with dayjs, UTC &amp; Timezone Support](https://dev.to/pramod_boda/part-2-building-advanced-usedateformatter-hook-with-dayjs-utc-timezone-support-1aii)
-- [🧠 Part 1: Stop Formatting Dates in PostgreSQL!, lets Create a Reusable useDateFormatter Hook in React &lpar;with TypeScript&rpar; 🎯](https://dev.to/pramod_boda/part-1-stop-formatting-dates-in-postgresql-lets-create-a-reusable-usedateformatter-hook-in-1ig)
-- [Enterprise Networks Unveiled: A Software Engineer&#39;s Guide to the Basics &lpar;Wrap Up&rpar;](https://dev.to/prince_of_pasta/enterprise-networks-unveiled-a-software-engineers-guide-to-the-basics-wrap-up-8g3)
+- [Day 9/ 30 Days of Linux Mastery: Special Permissions &lpar;SUID, SGID, Sticky Bit&rpar;](https://dev.to/amandaigwe/day-9-30-days-of-linux-mastery-special-permissions-suid-sgid-sticky-bit-5daa)
+- [2 cool ways to use :has&lpar;&rpar;](https://dev.to/preetha_vaishnavi_2b82358/2-cool-ways-to-use-has-4hcn)
+- [How to Receive Phone Call 📞 Alerts Using AWS CloudWatch, Lambda &amp; Twilio](https://dev.to/harshil_thummar/how-to-receive-phone-call-alerts-using-aws-cloudwatch-lambda-twilio-3hlj)
+- [Embracing Change: The Real Skill Every Software Engineer Needs](https://dev.to/wraith/embracing-change-the-real-skill-every-software-engineer-needs-2690)
+- [Maximizing CPMs: Ad Strategies for FAST Channel Success-fast channel providers](https://dev.to/malhotraaa/maximizing-cpms-ad-strategies-for-fast-channel-success-fast-channel-providers-56ok)
 <!-- BLOG-POST-LIST:END -->
 
 ---
