@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Blockchain Governance: Navigating Decentralization – A Holistic Overview](https://dev.to/rachellovestowrite/exploring-blockchain-governance-navigating-decentralization-a-holistic-overview-2k81)
-- [Evaluación de Modelos en Amazon Bedrock: El Arte de la Selección Inteligente. Parte 2.](https://dev.to/aws-builders/evaluacion-de-modelos-en-amazon-bedrock-el-arte-de-la-seleccion-inteligente-parte-2-4a)
-- [Understanding Blockchain Forks: In-Depth Insight into Protocol Divergence](https://dev.to/zhangwei42/understanding-blockchain-forks-in-depth-insight-into-protocol-divergence-ljc)
-- [Responsive Collapse of Columns in TanStack Table](https://dev.to/juancruzroldan/responsive-collapse-of-columns-in-tanstack-table-2175)
-- [Blockchain for Open Source Funding: A New Paradigm](https://dev.to/ashucommits/blockchain-for-open-source-funding-a-new-paradigm-4f9)
+- [What is a Denial of Service &lpar;DoS&rpar; Attack? A Comprehensive Guide](https://dev.to/terminaltools/what-is-a-denial-of-service-dos-attack-a-comprehensive-guide-389j)
+- [InsightFlow Part 4: Data Exploration &amp; Understanding the Datasets](https://dev.to/pizofreude/insightflow-part-4-data-exploration-understanding-the-datasets-4hdi)
+- [How Does the Command Pattern Simplify Code in 2025?](https://dev.to/anna_golubkova/how-does-the-command-pattern-simplify-code-in-2025-3i5j)
+- [Large Language Models are Wrong](https://dev.to/llms-are-not-the-way/large-language-models-are-wrong-440j)
+- [Understanding Session Hijacking: Detection, Prevention, and Mitigation](https://dev.to/terminaltools/understanding-session-hijacking-detection-prevention-and-mitigation-2g5n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
