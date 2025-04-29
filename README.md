@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Pymupdf: A Python Library That Reduces the Size of PDF files](https://dev.to/maigaridavid/pymupdf-a-python-library-that-reduces-the-size-of-pdf-files-1anp)
-- [Cooperatives on Socio-data Pools as per &quot;Closures&quot;](https://dev.to/cyrus_zargaani_6a19e0c497/cooperatives-on-socio-data-pools-as-per-closures-4a7m)
-- [𝟳 𝗣𝗿𝗼𝘃𝗲𝗻 𝗜𝗧 𝗝𝗼𝗯 𝗦𝗲𝗮𝗿𝗰𝗵 𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗲𝘀 𝗧𝗵𝗮𝘁 𝗔𝗰𝘁𝘂𝗮𝗹𝗹𝘆 𝗪𝗼𝗿𝗸](https://dev.to/supraja_tangella_b7f0738e/-56mo)
-- [How Do You Integrate Security into the SDLC? &lpar;Researching Developer &amp; DevOps Workflows&rpar;](https://dev.to/jethalalchampaklal/how-do-you-integrate-security-into-the-sdlc-researching-developer-devops-workflows-1f99)
-- [Build Code-RAGent, an agent for your codebase](https://dev.to/astrabert/build-code-ragent-an-agent-for-your-codebase-5dh8)
+- [How to Monitor Everything That’s Not Just Your App &lpar;DNS, Email, APIs, DBs…&rpar;](https://dev.to/therealfloatdev/how-to-monitor-everything-thats-not-just-your-app-dns-email-apis-dbs-16)
+- [Limitações da inferência no lambda](https://dev.to/fundamentosjava/limitacoes-da-inferencia-no-lambda-nc3)
+- [Qual é o tipo de uma expressão Lambda?](https://dev.to/fundamentosjava/qual-e-o-tipo-de-uma-expressao-lambda-o30)
+- [Conversões entre interfaces funcionais](https://dev.to/fundamentosjava/conversoes-entre-interfaces-funcionais-4lmg)
+- [How CDNs Make the Internet Faster for Everyone](https://dev.to/lindiwe09/how-cdns-make-the-internet-faster-for-everyone-1oka)
 <!-- BLOG-POST-LIST:END -->
 
 ---
