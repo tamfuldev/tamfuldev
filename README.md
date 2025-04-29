@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [6 hidden gems in the JavaScript API you should be using](https://dev.to/logrocket/6-hidden-gems-in-the-javascript-api-you-should-be-using-4id6)
-- [Building Multimodal AI Applications With MongoDB, Voyage AI, and Gemini](https://dev.to/mongodb/building-multimodal-ai-applications-with-mongodb-voyage-ai-and-gemini-49g3)
-- [What is the Difference Between a Software Programmer and a Software Engineer?](https://dev.to/anitaolsen/what-is-the-difference-between-a-software-programmer-and-a-software-engineer-2bfj)
-- [flash-install v1.8.0 - New Organization Release](https://dev.to/flashinstall/flash-install-v180-new-organization-release-1mij)
-- [Create AI Agents In PHP Powered By Google Gemini LLMs](https://dev.to/inspector/create-ai-agents-in-php-powered-by-google-gemini-llms-3kj6)
+- [🤖 AI Agents in Open Source: Evolving the Contribution Model](https://dev.to/pullflow/ai-agents-in-open-source-evolving-the-contribution-model-40e7)
+- [2025 Webby Award Nominee 🎉](https://dev.to/preetha_vaishnavi_2b82358/2025-webby-award-nominee-46h9)
+- [Would you wear an AI pendant?](https://dev.to/jess/would-you-wear-an-ai-pendant-5ei2)
+- [SpiderJS 🕷 | JS Runtime Revealed: The Three Pillars of JavaScript Execution](https://dev.to/omar_mayallo/spiderjs-js-runtime-revealed-the-three-pillars-of-javascript-execution-19g2)
+- [Go for Sort: Part 2 - Expanding the Fundamentals and Implementing Few Other Sorting Algorithms](https://dev.to/alikawp/go-for-sort-part-2-expanding-the-fundamentals-and-implementing-few-other-sorting-algorithms-3hbp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
