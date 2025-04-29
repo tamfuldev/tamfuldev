@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What is a Denial of Service &lpar;DoS&rpar; Attack? A Comprehensive Guide](https://dev.to/terminaltools/what-is-a-denial-of-service-dos-attack-a-comprehensive-guide-389j)
-- [InsightFlow Part 4: Data Exploration &amp; Understanding the Datasets](https://dev.to/pizofreude/insightflow-part-4-data-exploration-understanding-the-datasets-4hdi)
-- [How Does the Command Pattern Simplify Code in 2025?](https://dev.to/anna_golubkova/how-does-the-command-pattern-simplify-code-in-2025-3i5j)
-- [Large Language Models are Wrong](https://dev.to/llms-are-not-the-way/large-language-models-are-wrong-440j)
-- [Understanding Session Hijacking: Detection, Prevention, and Mitigation](https://dev.to/terminaltools/understanding-session-hijacking-detection-prevention-and-mitigation-2g5n)
+- [Untitled](https://dev.to/kaviarasan_e/untitled-52n9)
+- [How to Type the &#39;_id&#39; Field in TypeScript with Mongoose](https://dev.to/fromchiapasdev/how-to-type-the-id-field-in-typescript-with-mongoose-5dib)
+- [[Boost]](https://dev.to/dcastrocordero22/-5f2b)
+- [InsightFlow Part 7: Data Quality Implementation &amp; Best Practices for InsightFlow](https://dev.to/pizofreude/insightflow-part-7-data-quality-implementation-best-practices-for-insightflow-27cp)
+- [🚀 How to Create a New Laravel Project Quickly!](https://dev.to/ramajayamk11/how-to-create-a-new-laravel-project-quickly-1n29)
 <!-- BLOG-POST-LIST:END -->
 
 ---
