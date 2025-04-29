@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Writing Confusing Code Review Comments!](https://dev.to/marcopatino/stop-writing-confusing-code-review-comments-eni)
-- [Parsing Unstructured Text Into Clean, Structured Data — A Regex-Powered Approach](https://dev.to/chloe123190241/parsing-unstructured-text-into-clean-structured-data-a-regex-powered-approach-1e65)
-- [Docker Desktop 4.40 Enhances AI Development with Model Runner](https://dev.to/ssojet/docker-desktop-440-enhances-ai-development-with-model-runner-5d4k)
-- [What&#39;s New in MySQL 9 - a DBA&#39;s Perspective](https://dev.to/bytebase/whats-new-in-mysql-9-a-dbas-perspective-750)
-- [Build a Secure Login System with PHP and MySQL: Step-by-Step Guide&quot;](https://dev.to/gyoussef03/build-a-secure-login-system-with-php-and-mysql-step-by-step-guide-17ba)
+- [Understanding Angular Signals: A New Era of Reactivity](https://dev.to/khoanguyen1411/understanding-angular-signals-a-new-era-of-reactivity-4533)
+- [[Boost]](https://dev.to/blackscripts/-9nh)
+- [Batch curl requests in PHP using multi handles](https://dev.to/danrot90/batch-curl-requests-in-php-using-multi-handles-3jg6)
+- [Bridging the Gap: Dynamic JSON UI from Flutter to Android Compose - A Tale of Mapping Challenges](https://dev.to/dwiki_riyadi_692551d04968/bridging-the-gap-dynamic-json-ui-from-flutter-to-android-compose-a-tale-of-mapping-challenges-4ek1)
+- [Explorando Salários na NBA com Machine Learning e Visualização de Dados](https://dev.to/dimas7dev/explorando-salarios-na-nba-com-machine-learning-e-visualizacao-de-dados-1d1c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
