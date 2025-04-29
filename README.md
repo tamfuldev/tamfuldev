@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Tech debt - When should developers refactor?](https://dev.to/nicorask/tech-debt-when-should-developers-refactor-47m5)
-- [How to Set Up a Full DNS Server in Red Hat Linux](https://dev.to/axisinfo_0a61830e06c3c950/how-to-set-up-a-full-dns-server-in-red-hat-linux-3oa7)
-- [Surva.ai - Grow faster with AI surveys, testimonials, and cancel flows](https://dev.to/surva-ai/survaai-grow-faster-with-ai-surveys-testimonials-and-cancel-flows-3j27)
-- [Deep Research UIs - Perplexity vs. Manus vs. ChatGPT vs. Gemini](https://dev.to/franciscomoretti/deep-research-uis-perplexity-vs-manus-vs-chatgpt-vs-gemini-5cc2)
-- [Navigating the Future: Blockchain Project Funding and Interoperability](https://dev.to/ashucommits/navigating-the-future-blockchain-project-funding-and-interoperability-1cb5)
+- [Resource Timing API for Network Latency Analysis](https://dev.to/omriluz1/resource-timing-api-for-network-latency-analysis-3jfe)
+- [The Truth Behind Cheap Traffic](https://dev.to/deividas_strole/the-truth-behind-cheap-traffic-470k)
+- [Blockchain Project Funding and Token Burns: Fueling Innovation and Value Creation](https://dev.to/laetitiaperraut/blockchain-project-funding-and-token-burns-fueling-innovation-and-value-creation-2k00)
+- [Gridiron Survivor&#39;s Elfgorithm: Introduction and Team Installation](https://dev.to/michaellarocca/gridiron-survivors-elfgorithm-introduction-and-team-installation-550)
+- [JavaScript basics for future me](https://dev.to/ritumka/javascript-basics-for-future-me-3dm4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
