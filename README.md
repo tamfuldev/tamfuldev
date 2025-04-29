@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Changing Ownership in Linux: Mastering the chown Command](https://dev.to/sanasadiq/changing-ownership-in-linux-mastering-the-chown-command-37jd)
-- [Angular](https://dev.to/rafaellmarques/angular-lme)
-- [The insights here are spot on for anyone selling into layered orgs. #SalesStrategy #B2BSales #EnterpriseSales #SalesLeadership](https://dev.to/techbyfelix/the-insights-here-are-spot-on-for-anyone-selling-into-layered-orgs-salesstrategy-b2bsales-4o22)
-- [Here is some local Storage and some cookie js storage](https://dev.to/lanor_rigby_7fe9c90f68151/here-is-some-local-storage-and-some-cookie-js-storage-1cm5)
-- [EventSource vs Async Generator - What to Use for LLM Streaming?](https://dev.to/bharathvaj_ganesan/eventsource-vs-async-generator-what-to-use-for-llm-streaming-39l3)
+- [Future Trends and the Role of .NET 9 in the Evolution of Software Development](https://dev.to/leandroveiga/future-trends-and-the-role-of-net-9-in-the-evolution-of-software-development-i8k)
+- [Dev Diary #1 — Google Agent Development Kit: Lessons I Learned](https://dev.to/protsenko/dev-diary-1-google-agent-development-kit-lessons-i-learned-332g)
+- [The `final` Keyword in Java](https://dev.to/sudhakar_v_c404997aeec839/the-final-keyword-in-java-2505)
+- [Object literals with satisfies operator for UI field mapping](https://dev.to/angelapy/object-literals-with-satisfies-operator-for-ui-field-mapping-2ggp)
+- [Interface In Java](https://dev.to/sudhakar_v_c404997aeec839/interface-in-java-c7k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
