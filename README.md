@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 9/ 30 Days of Linux Mastery: Special Permissions &lpar;SUID, SGID, Sticky Bit&rpar;](https://dev.to/amandaigwe/day-9-30-days-of-linux-mastery-special-permissions-suid-sgid-sticky-bit-5daa)
-- [2 cool ways to use :has&lpar;&rpar;](https://dev.to/preetha_vaishnavi_2b82358/2-cool-ways-to-use-has-4hcn)
-- [How to Receive Phone Call 📞 Alerts Using AWS CloudWatch, Lambda &amp; Twilio](https://dev.to/harshil_thummar/how-to-receive-phone-call-alerts-using-aws-cloudwatch-lambda-twilio-3hlj)
-- [Embracing Change: The Real Skill Every Software Engineer Needs](https://dev.to/wraith/embracing-change-the-real-skill-every-software-engineer-needs-2690)
-- [Maximizing CPMs: Ad Strategies for FAST Channel Success-fast channel providers](https://dev.to/malhotraaa/maximizing-cpms-ad-strategies-for-fast-channel-success-fast-channel-providers-56ok)
+- [6 hidden gems in the JavaScript API you should be using](https://dev.to/logrocket/6-hidden-gems-in-the-javascript-api-you-should-be-using-4id6)
+- [Building Multimodal AI Applications With MongoDB, Voyage AI, and Gemini](https://dev.to/mongodb/building-multimodal-ai-applications-with-mongodb-voyage-ai-and-gemini-49g3)
+- [What is the Difference Between a Software Programmer and a Software Engineer?](https://dev.to/anitaolsen/what-is-the-difference-between-a-software-programmer-and-a-software-engineer-2bfj)
+- [flash-install v1.8.0 - New Organization Release](https://dev.to/flashinstall/flash-install-v180-new-organization-release-1mij)
+- [Create AI Agents In PHP Powered By Google Gemini LLMs](https://dev.to/inspector/create-ai-agents-in-php-powered-by-google-gemini-llms-3kj6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
