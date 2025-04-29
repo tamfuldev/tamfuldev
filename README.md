@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Création d&#39;un système d&#39;authentification sécurisé en utilisant: php , sql , js](https://dev.to/loufi__yt_2b361de6191c9c0/creation-dun-systeme-dauthentification-securise-en-utilisant-php-sql-js-10gb)
-- [InsightFlow Part 2: Setting Up the Cloud Infrastructure with Terraform](https://dev.to/pizofreude/insightflow-part-2-setting-up-the-cloud-infrastructure-with-terraform-368k)
-- [Leveraging our cutting-edge work on node dominating sets, we present an efficient 2-approximation algorithm for edge dominating sets in sparse graphs—delivering practical solutions for this NP-hard challenge. Ready to use: https://pypi.org/project/loynaz/](https://dev.to/frank_vega_987689489099bf/leveraging-our-cutting-edge-work-on-node-dominating-sets-we-present-an-efficient-2-approximation-1368)
-- [How I Went From Googling “What Is Solidity?” to Writing Smart Contracts for Fun](https://dev.to/mehulimukherjee/how-i-went-from-googling-what-is-solidity-to-writing-smart-contracts-for-fun-3a3g)
-- [🚀 Building an AI-Powered Resume Tailoring Platform with Next.js, FastAPI, and OpenAI](https://dev.to/thakkarrajan/building-an-ai-powered-resume-tailoring-platform-with-nextjs-fastapi-and-openai-3lmg)
+- [Exploring Blockchain Governance: Navigating Decentralization – A Holistic Overview](https://dev.to/rachellovestowrite/exploring-blockchain-governance-navigating-decentralization-a-holistic-overview-2k81)
+- [Evaluación de Modelos en Amazon Bedrock: El Arte de la Selección Inteligente. Parte 2.](https://dev.to/aws-builders/evaluacion-de-modelos-en-amazon-bedrock-el-arte-de-la-seleccion-inteligente-parte-2-4a)
+- [Understanding Blockchain Forks: In-Depth Insight into Protocol Divergence](https://dev.to/zhangwei42/understanding-blockchain-forks-in-depth-insight-into-protocol-divergence-ljc)
+- [Responsive Collapse of Columns in TanStack Table](https://dev.to/juancruzroldan/responsive-collapse-of-columns-in-tanstack-table-2175)
+- [Blockchain for Open Source Funding: A New Paradigm](https://dev.to/ashucommits/blockchain-for-open-source-funding-a-new-paradigm-4f9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
