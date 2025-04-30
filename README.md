@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Tainted Canvas: why the browser blocks your canvas &lpar;and how to unblock it&rpar;](https://dev.to/reynaldi/tainted-canvas-why-the-browser-blocks-your-canvas-and-how-to-unblock-it-57e7)
-- [Scaling Search at finlight.me: From Postgres Full-Text to Real-Time OpenSearch](https://dev.to/jubeiargh/scaling-search-at-finlightme-from-postgres-full-text-to-real-time-opensearch-33op)
-- [Angular example of a team style guide with best practices 🅰️](https://dev.to/nawfelsekrafi/angular-example-of-a-team-style-guide-with-best-practices-2bji)
-- [Trending in Software Development: How ChampSoft is Shaping the Future with AI and Automation](https://dev.to/champsoft/trending-in-software-development-how-champsoft-is-shaping-the-future-with-ai-and-automation-1pfe)
-- [Customize of Scaling Plan in Auto Scaling Groups Using AWS Auto Scaling](https://dev.to/aws-builders/customize-of-scaling-plan-in-auto-scaling-groups-using-aws-auto-scaling-45np)
+- [Building a Smart Documentation, based on OpenAI Embeddings &lpar;Chunking, Indexing, and Searching&rpar;](https://dev.to/aypineau/building-a-smart-documentation-based-on-openai-embeddings-chunking-indexing-and-searching-4nam)
+- [Accelerating Insurance Digital Transformation: 2025 Outlook](https://dev.to/openkoda/accelerating-insurance-digital-transformation-2025-outlook-38ec)
+- [A Handy Way to Handle API Validation in Laravel](https://dev.to/initstack/a-handy-way-to-handle-api-validation-in-laravel-43c0)
+- [The Evolution of Architecture: Monolithic vs. Microservices](https://dev.to/leapcell/the-evolution-of-architecture-monolithic-vs-microservices-431j)
+- [Database Sharding 101](https://dev.to/thelennzer/database-sharding-101-112l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
