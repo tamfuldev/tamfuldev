@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Will AI Ruin Society?](https://dev.to/besworks/will-ai-ruin-society-2e02)
-- [Introducing DevUtils: a free &amp; open-source toolbox for developers](https://dev.to/devutils_tools/introducing-devutils-a-free-open-source-toolbox-for-developers-3ig0)
-- [Creating Unit Tests in ObjectScript for HL7 pipelines using %UnitTest class](https://dev.to/intersystems/creating-unit-tests-in-objectscript-for-hl7-pipelines-using-unittest-class-4mkg)
-- [Digging Through Linux: Must-Know Tools for File and Content Searches](https://dev.to/shrsv/digging-through-linux-must-know-tools-for-file-and-content-searches-4oon)
-- [This is test article from MCP server with Cline](https://dev.to/sbmagar13/this-is-test-article-from-mcp-server-with-cline-3p6)
+- [Resize Observer API for UI Adaptability](https://dev.to/omriluz1/resize-observer-api-for-ui-adaptability-h3d)
+- [Why &quot;Just Google It!&quot; Doesn’t Work for Every Developer](https://dev.to/kelvincode1234/why-just-google-it-doesnt-work-for-every-developer-15n4)
+- [You own Your PATH](https://dev.to/gabrieltoma/you-own-your-path-3jg7)
+- [How to Learn HTML and Start Earning Money: A Complete Guide](https://dev.to/code_2/how-to-learn-html-and-start-earning-money-a-complete-guide-244f)
+- [Forget the Hype: Agents are Loops](https://dev.to/cloudx/forget-the-hype-agents-are-loops-1n3i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
