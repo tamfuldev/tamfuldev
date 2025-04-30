@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Resize Observer API for UI Adaptability](https://dev.to/omriluz1/resize-observer-api-for-ui-adaptability-h3d)
-- [Why &quot;Just Google It!&quot; Doesn’t Work for Every Developer](https://dev.to/kelvincode1234/why-just-google-it-doesnt-work-for-every-developer-15n4)
-- [You own Your PATH](https://dev.to/gabrieltoma/you-own-your-path-3jg7)
-- [How to Learn HTML and Start Earning Money: A Complete Guide](https://dev.to/code_2/how-to-learn-html-and-start-earning-money-a-complete-guide-244f)
-- [Forget the Hype: Agents are Loops](https://dev.to/cloudx/forget-the-hype-agents-are-loops-1n3i)
+- [Understanding Your Identity in Linux Using id, whoami, and groups](https://dev.to/sanasadiq/understanding-your-identity-in-linux-using-id-whoami-and-groups-m4l)
+- [Why My Code Works Better at Night &lpar;And Other Lies I Tell Myself&rpar;](https://dev.to/dayologic/why-my-code-works-better-at-night-and-other-lies-i-tell-myself-31p3)
+- [Understanding Blockchain Scalability: Challenges and Solutions](https://dev.to/jennythomas498/understanding-blockchain-scalability-challenges-and-solutions-1khf)
+- [Clerk + Shopify: Elevating Customer Authentication for E-Commerce](https://dev.to/arapp_clerkian/clerk-shopify-elevating-customer-authentication-for-e-commerce-59b6)
+- [How to Use IoT to Improve Cleaning and Maintenance in Your Airbnb](https://dev.to/karen_londres/how-to-use-iot-to-improve-cleaning-and-maintenance-in-your-airbnb-5eeo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
