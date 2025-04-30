@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Simplifying Rust Error Handling with anyhow](https://dev.to/leapcell/simplifying-rust-error-handling-with-anyhow-34be)
-- [Building Smarter AI Workflows with LangChain](https://dev.to/iamfaham/building-smarter-ai-workflows-with-langchain-26o)
-- [Querying embedded arrays in JSON &lpar;PostgreSQL JSONB and MongoDB documents&rpar;](https://dev.to/franckpachot/query-and-index-json-array-fields-in-postgresql-and-mongodb-3md)
-- [Dica de TI: O que é linguagem de programação?](https://dev.to/vivianbr/dica-de-ti-o-que-e-linguagem-de-programacao-35el)
-- [Kotlin: 100 Simple Codes](https://dev.to/souhaillaghchimdev/kotlin-100-simple-codes-30hj)
+- [Why Meeting-Centric Tools Fail at Async Work](https://dev.to/rally_for_jira/why-meeting-centric-tools-fail-at-async-work-mic)
+- [A Arte da Simplicidade no Desenvolvimento de Software: DRY, KISS, YAGNI e TDA](https://dev.to/diegobrandao/a-arte-da-simplicidade-no-desenvolvimento-de-software-dry-kiss-yagni-e-tda-aak)
+- [Blockchain&#39;s Role in Enhancing Open Source Transparency](https://dev.to/zhangwei42/blockchains-role-in-enhancing-open-source-transparency-2m3b)
+- [Building a Simple TCP Client in C: A Ground-Up Networking Exercise](https://dev.to/akashnanistar/building-a-simple-tcp-client-in-c-a-ground-up-networking-exercise-111a)
+- [Software Design Principles: Applying KISS and YAGNI with a Real Python Example](https://dev.to/ronal_daniellupacamaman/software-design-principles-applying-kiss-and-yagni-with-a-real-python-example-1hmp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
