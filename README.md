@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Your Identity in Linux Using id, whoami, and groups](https://dev.to/sanasadiq/understanding-your-identity-in-linux-using-id-whoami-and-groups-m4l)
-- [Why My Code Works Better at Night &lpar;And Other Lies I Tell Myself&rpar;](https://dev.to/dayologic/why-my-code-works-better-at-night-and-other-lies-i-tell-myself-31p3)
-- [Understanding Blockchain Scalability: Challenges and Solutions](https://dev.to/jennythomas498/understanding-blockchain-scalability-challenges-and-solutions-1khf)
-- [Clerk + Shopify: Elevating Customer Authentication for E-Commerce](https://dev.to/arapp_clerkian/clerk-shopify-elevating-customer-authentication-for-e-commerce-59b6)
-- [How to Use IoT to Improve Cleaning and Maintenance in Your Airbnb](https://dev.to/karen_londres/how-to-use-iot-to-improve-cleaning-and-maintenance-in-your-airbnb-5eeo)
+- [Simplifying Rust Error Handling with anyhow](https://dev.to/leapcell/simplifying-rust-error-handling-with-anyhow-34be)
+- [Building Smarter AI Workflows with LangChain](https://dev.to/iamfaham/building-smarter-ai-workflows-with-langchain-26o)
+- [Querying embedded arrays in JSON &lpar;PostgreSQL JSONB and MongoDB documents&rpar;](https://dev.to/franckpachot/query-and-index-json-array-fields-in-postgresql-and-mongodb-3md)
+- [Dica de TI: O que é linguagem de programação?](https://dev.to/vivianbr/dica-de-ti-o-que-e-linguagem-de-programacao-35el)
+- [Kotlin: 100 Simple Codes](https://dev.to/souhaillaghchimdev/kotlin-100-simple-codes-30hj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
