@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Install Qwen 3 Locally?](https://dev.to/nodeshiftcloud/how-to-install-qwen-3-locally-4fme)
-- [AWS SageMaker](https://dev.to/lea_abraham_7a0232a6cd616/aws-sagemaker-l91)
-- [Meet YouTubeThumbnailGrabber.app: Effortless HD Thumbnail Extraction](https://dev.to/rutanshiraval200/meet-youtubethumbnailgrabberapp-effortless-hd-thumbnail-extraction-3nm5)
-- [Top 10 AI Models Every Developer Should Know in 2025](https://dev.to/nikl/top-10-ai-models-every-developer-should-know-in-2025-30f8)
-- [Turbocharge Your Go Apps with Custom Memory Caching 🚀](https://dev.to/tavernetech/turbocharge-your-go-apps-with-custom-memory-caching-hop)
+- [You Should Break Prod](https://dev.to/code42cate/you-should-break-prod-24lb)
+- [Untitled](https://dev.to/michael_02910bc84e622d090/untitled-kg4)
+- [Quick Tutorial: Implementing Google OAuth2 in FastAPI &lpar;Callback Method&rpar;](https://dev.to/ayoub3bidi/quick-tutorial-implementing-google-oauth2-in-fastapi-callback-method-ba4)
+- [Quick Tutorial: Adding Google Auth to FastAPI &lpar;Token Method&rpar;](https://dev.to/ayoub3bidi/quick-tutorial-adding-google-auth-to-fastapi-token-method-1ggg)
+- [Better Presentations with AI-Powered Slide Notes](https://dev.to/researchwize/better-presentations-with-ai-powered-slide-notes-22gm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
