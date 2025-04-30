@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Bugs Fuel Open-Source Community](https://dev.to/fzambia/bugs-fuel-open-source-community-1cp6)
-- [I&#39;ve been planning to do a platform for researchers. I would love to get feedback and recommendation from the dev community here.](https://dev.to/naratech/ive-been-planning-to-do-a-platform-for-researchers-i-would-love-to-get-feedback-and-6ca)
-- [10 Lightweight API Gateways for Your Next Project](https://dev.to/nordicapis/10-lightweight-api-gateways-for-your-next-project-1ha3)
-- [𝗨𝗻𝗹𝗼𝗰𝗸𝗶𝗻𝗴 𝗠𝗼𝗱𝗲𝗿𝗻 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆: 𝗪𝗵𝘆 𝗢𝗔𝘂𝘁𝗵 𝗠𝗮𝘁𝘁𝗲𝗿𝘀 𝗶𝗻 𝗧𝗼𝗱𝗮𝘆’𝘀 𝗝𝗮𝘃𝗮 &amp; 𝗦𝗽𝗿𝗶𝗻𝗴 𝗕𝗼𝗼𝘁 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀](https://dev.to/thiago_souza_1510/--17fm)
-- [AWS -Elastic Network Interfaces &lpar;ENI&rpar;](https://dev.to/skillboosttrainer/aws-elastic-network-interfaces-eni-10kh)
+- [Mudando o Jogo com StackSpot AI &amp; Testes Automatizados](https://dev.to/rafaelbercam/mudando-o-jogo-com-stackspot-ai-testes-automatizados-155a)
+- [🤖 What Are Smart Contracts? A Beginner-Friendly Guide to the Future of Digital Agreements](https://dev.to/mysteryminusplus/what-are-smart-contracts-a-beginner-friendly-guide-to-the-future-of-digital-agreements-k22)
+- [Vector: A lightweight tool for collecting EKS application logs with long-term storage capabilities](https://dev.to/aws-builders/vector-a-lightweight-tool-for-collecting-eks-application-logs-with-long-term-storage-capabilities-44j4)
+- [Action-Domain-Responder VS. MVC: Laravel Implementation Example](https://dev.to/initstack/action-domain-responder-vs-mvc-laravel-implementation-example-3ojo)
+- [🔁 Harnessing Python Generators for Efficient Data Streaming in Stock APIs](https://dev.to/freelancingsolutions/harnessing-python-generators-for-efficient-data-streaming-in-stock-apis-1gpm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
