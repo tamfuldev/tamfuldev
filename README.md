@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Smart Documentation, based on OpenAI Embeddings &lpar;Chunking, Indexing, and Searching&rpar;](https://dev.to/aypineau/building-a-smart-documentation-based-on-openai-embeddings-chunking-indexing-and-searching-4nam)
-- [Accelerating Insurance Digital Transformation: 2025 Outlook](https://dev.to/openkoda/accelerating-insurance-digital-transformation-2025-outlook-38ec)
-- [A Handy Way to Handle API Validation in Laravel](https://dev.to/initstack/a-handy-way-to-handle-api-validation-in-laravel-43c0)
-- [The Evolution of Architecture: Monolithic vs. Microservices](https://dev.to/leapcell/the-evolution-of-architecture-monolithic-vs-microservices-431j)
-- [Database Sharding 101](https://dev.to/thelennzer/database-sharding-101-112l)
+- [How to Install Qwen 3 Locally?](https://dev.to/nodeshiftcloud/how-to-install-qwen-3-locally-4fme)
+- [AWS SageMaker](https://dev.to/lea_abraham_7a0232a6cd616/aws-sagemaker-l91)
+- [Meet YouTubeThumbnailGrabber.app: Effortless HD Thumbnail Extraction](https://dev.to/rutanshiraval200/meet-youtubethumbnailgrabberapp-effortless-hd-thumbnail-extraction-3nm5)
+- [Top 10 AI Models Every Developer Should Know in 2025](https://dev.to/nikl/top-10-ai-models-every-developer-should-know-in-2025-30f8)
+- [Turbocharge Your Go Apps with Custom Memory Caching 🚀](https://dev.to/tavernetech/turbocharge-your-go-apps-with-custom-memory-caching-hop)
 <!-- BLOG-POST-LIST:END -->
 
 ---
