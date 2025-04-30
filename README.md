@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built the Cursor of SQL databases ⚡️](https://dev.to/danilovilhena/i-built-the-cursor-of-sql-databases-415e)
-- [Why Cybersecurity Isn&#39;t Optional Anymore From a Dev POV](https://dev.to/contractorx/why-cybersecurity-isnt-optional-anymore-from-a-dev-pov-e36)
-- [Reinventando a Roda: Criando seu próprio MediatR - Parte 3](https://dev.to/angelobelchior/reinventando-a-roda-criando-seu-proprio-mediatr-parte-3-3gp1)
-- [Slop is the new normal](https://dev.to/noriller/slop-is-the-new-normal-248l)
-- [How to create Azure Blob Storage Account: A beginner&#39;s step by step guide](https://dev.to/adesola_kehinde/how-to-create-azure-blob-storage-account-a-beginners-step-by-step-guide-ed7)
+- [5 recommended GIS tiling software that supports SHP files!](https://dev.to/gisbox/5-recommended-gis-tiling-software-that-supports-shp-files-3pi0)
+- [Top 10 Cybersecurity Blog Posts That Made April 2025 a Breakthrough Month for OpenExploit](https://dev.to/pawanjswal/top-10-cybersecurity-blog-posts-that-made-april-2025-a-breakthrough-month-for-openexploit-2om8)
+- [How I Cut Docker Build Time in Half Using Savepoints — And Built a CLI Tool in Go](https://dev.to/zeflq/how-i-cut-docker-build-time-in-half-using-savepoints-and-built-a-cli-tool-in-go-5g9a)
+- [The 6.5 Tbps Attack!](https://dev.to/yuvasec/the-65-tbps-attack-443o)
+- [Real-Time Cross-Tab Sync with SharedArrayBuffer and Atomics &lpar;No Server, No BroadcastChannel&rpar;](https://dev.to/hexshift/real-time-cross-tab-sync-with-sharedarraybuffer-and-atomics-no-server-no-broadcastchannel-2emj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
