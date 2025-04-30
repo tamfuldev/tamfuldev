@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [5 recommended GIS tiling software that supports SHP files!](https://dev.to/gisbox/5-recommended-gis-tiling-software-that-supports-shp-files-3pi0)
-- [Top 10 Cybersecurity Blog Posts That Made April 2025 a Breakthrough Month for OpenExploit](https://dev.to/pawanjswal/top-10-cybersecurity-blog-posts-that-made-april-2025-a-breakthrough-month-for-openexploit-2om8)
-- [How I Cut Docker Build Time in Half Using Savepoints — And Built a CLI Tool in Go](https://dev.to/zeflq/how-i-cut-docker-build-time-in-half-using-savepoints-and-built-a-cli-tool-in-go-5g9a)
-- [The 6.5 Tbps Attack!](https://dev.to/yuvasec/the-65-tbps-attack-443o)
-- [Real-Time Cross-Tab Sync with SharedArrayBuffer and Atomics &lpar;No Server, No BroadcastChannel&rpar;](https://dev.to/hexshift/real-time-cross-tab-sync-with-sharedarraybuffer-and-atomics-no-server-no-broadcastchannel-2emj)
+- [[Boost] Agentica, Every TypeScript Developer is an AI Developer &lpar;AI function calling framework&rpar;](https://dev.to/samchon/-2djp)
+- [How to Build an NSFW AI Image Generator Using Next.js and React](https://dev.to/ficav/how-to-build-an-nsfw-ai-image-generator-using-nextjs-and-react-4ak1)
+- [Understanding Scope in Software Design from Architecture to Idioms](https://dev.to/dimasbagussusilo/understanding-scope-in-software-design-from-architecture-to-idioms-497h)
+- [Driving Innovation: Blockchain Funding and Token Incentives](https://dev.to/kallileiser/driving-innovation-blockchain-funding-and-token-incentives-2k4g)
+- [hey Everyone!](https://dev.to/vishal_choudhary_836/hey-everyone-3ino)
 <!-- BLOG-POST-LIST:END -->
 
 ---
