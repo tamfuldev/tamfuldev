@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🐍 40 Python Interview Questions for 2025 — How Many Can You Answer? 🎯](https://dev.to/finalroundai/40-python-interview-questions-for-2025-how-many-can-you-answer-9k6)
-- [SVG dimension attributes and adaptive icons](https://dev.to/jsha/svg-dimension-attributes-and-adaptive-icons-5d6g)
-- [Goals Check-In: How&#39;s Your Progress Flowing?](https://dev.to/virtualcoffee/goals-check-in-hows-your-progress-flowing-2a45)
-- [Part 2: Smarter Than Rules — Semantic Detection, Zero-Day Protection, and Real-World Impact](https://dev.to/sharon_42e16b8da44dabde6d/part-2-smarter-than-rules-semantic-detection-zero-day-protection-and-real-world-impact-3g9a)
-- [Top 10 Java Libraries Every Developer Should Know](https://dev.to/million_formula_3be3d915d/top-10-java-libraries-every-developer-should-know-ck8)
+- [Pointer Events API for Advanced Gesture Handling](https://dev.to/omriluz1/pointer-events-api-for-advanced-gesture-handling-2nf9)
+- [Why Upgrading to Tailwind CSS 4.1.4 Might Be the Best Decision You Make This Year](https://dev.to/gerryleonugroho/why-upgrading-to-tailwindcss-414-might-be-the-best-decision-you-make-this-year-4bc5)
+- [What kind of MCP server fits your use case?](https://dev.to/mcphubs/what-kind-of-mcp-server-fits-your-use-case-3noe)
+- [Exhaustive Guide to Generative and Predictive AI in AppSec](https://dev.to/lynxfelony1/exhaustive-guide-to-generative-and-predictive-ai-in-appsec-4g73)
+- [What is memory when we talk about computers?](https://dev.to/greghamilton/what-is-memory-when-we-talk-about-computers-3d84)
 <!-- BLOG-POST-LIST:END -->
 
 ---
