@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mudando o Jogo com StackSpot AI &amp; Testes Automatizados](https://dev.to/rafaelbercam/mudando-o-jogo-com-stackspot-ai-testes-automatizados-155a)
-- [🤖 What Are Smart Contracts? A Beginner-Friendly Guide to the Future of Digital Agreements](https://dev.to/mysteryminusplus/what-are-smart-contracts-a-beginner-friendly-guide-to-the-future-of-digital-agreements-k22)
-- [Vector: A lightweight tool for collecting EKS application logs with long-term storage capabilities](https://dev.to/aws-builders/vector-a-lightweight-tool-for-collecting-eks-application-logs-with-long-term-storage-capabilities-44j4)
-- [Action-Domain-Responder VS. MVC: Laravel Implementation Example](https://dev.to/initstack/action-domain-responder-vs-mvc-laravel-implementation-example-3ojo)
-- [🔁 Harnessing Python Generators for Efficient Data Streaming in Stock APIs](https://dev.to/freelancingsolutions/harnessing-python-generators-for-efficient-data-streaming-in-stock-apis-1gpm)
+- [Will AI Ruin Society?](https://dev.to/besworks/will-ai-ruin-society-2e02)
+- [Introducing DevUtils: a free &amp; open-source toolbox for developers](https://dev.to/devutils_tools/introducing-devutils-a-free-open-source-toolbox-for-developers-3ig0)
+- [Creating Unit Tests in ObjectScript for HL7 pipelines using %UnitTest class](https://dev.to/intersystems/creating-unit-tests-in-objectscript-for-hl7-pipelines-using-unittest-class-4mkg)
+- [Digging Through Linux: Must-Know Tools for File and Content Searches](https://dev.to/shrsv/digging-through-linux-must-know-tools-for-file-and-content-searches-4oon)
+- [This is test article from MCP server with Cline](https://dev.to/sbmagar13/this-is-test-article-from-mcp-server-with-cline-3p6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
