@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost] Agentica, Every TypeScript Developer is an AI Developer &lpar;AI function calling framework&rpar;](https://dev.to/samchon/-2djp)
-- [How to Build an NSFW AI Image Generator Using Next.js and React](https://dev.to/ficav/how-to-build-an-nsfw-ai-image-generator-using-nextjs-and-react-4ak1)
-- [Understanding Scope in Software Design from Architecture to Idioms](https://dev.to/dimasbagussusilo/understanding-scope-in-software-design-from-architecture-to-idioms-497h)
-- [Driving Innovation: Blockchain Funding and Token Incentives](https://dev.to/kallileiser/driving-innovation-blockchain-funding-and-token-incentives-2k4g)
-- [hey Everyone!](https://dev.to/vishal_choudhary_836/hey-everyone-3ino)
+- [Welcome Thread - v324](https://dev.to/devteam/welcome-thread-v324-1fgg)
+- [Untitled](https://dev.to/michael_02910bc84e622d090/untitled-aen)
+- [How Can I Make Progress on DEV Community?](https://dev.to/nicole_smith/how-can-i-make-progress-on-dev-community-1n8h)
+- [Navigating Blockchain Project Funding Challenges](https://dev.to/ashucommits/navigating-blockchain-project-funding-challenges-390k)
+- [Desarrollo Web](https://dev.to/librada_altagraciaarias_/desarrollo-web-4451)
 <!-- BLOG-POST-LIST:END -->
 
 ---
