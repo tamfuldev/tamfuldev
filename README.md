@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why PHP Logging and Observability Are Essential for Modern Web Applications?](https://dev.to/olivia_madison_b0ad7090ad/why-php-logging-and-observability-are-essential-for-modern-web-applications-4cl8)
-- [good👍](https://dev.to/ixkit/good-1dkd)
-- [How Reinforcement Learning Powers Decision-Making in AI](https://dev.to/sai_rishika_0e321c17cfc13/how-reinforcement-learning-powers-decision-making-in-ai-1gk7)
-- [day-34: looping statements in java](https://dev.to/e00049/day-34-looping-statements-in-java-ccg)
-- [TypeScript vs JavaScript: What&#39;s the Difference and Which Should You Choose?](https://dev.to/johnidogun/typescript-vs-javascript-whats-the-difference-and-which-should-you-choose-1cok)
+- [🐍 40 Python Interview Questions for 2025 — How Many Can You Answer? 🎯](https://dev.to/finalroundai/40-python-interview-questions-for-2025-how-many-can-you-answer-9k6)
+- [SVG dimension attributes and adaptive icons](https://dev.to/jsha/svg-dimension-attributes-and-adaptive-icons-5d6g)
+- [Goals Check-In: How&#39;s Your Progress Flowing?](https://dev.to/virtualcoffee/goals-check-in-hows-your-progress-flowing-2a45)
+- [Part 2: Smarter Than Rules — Semantic Detection, Zero-Day Protection, and Real-World Impact](https://dev.to/sharon_42e16b8da44dabde6d/part-2-smarter-than-rules-semantic-detection-zero-day-protection-and-real-world-impact-3g9a)
+- [Top 10 Java Libraries Every Developer Should Know](https://dev.to/million_formula_3be3d915d/top-10-java-libraries-every-developer-should-know-ck8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
