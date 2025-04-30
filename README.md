@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Everything You Need to Know About SolidJS](https://dev.to/abdelaziz_moustakim_45a4c/everything-you-need-to-know-about-solidjs-4mg4)
-- [Open-source Node.js blogging engine with newsletter functionality](https://dev.to/maxim-fin/open-source-nodejs-blogging-engine-with-newsletter-functionality-1aok)
-- [Clair Obscur: Expedition 33 may be Metacritic&#39;s highest user-rated game in history](https://dev.to/gg_news/clair-obscur-expedition-33-may-be-metacritics-highest-user-rated-game-in-history-4lme)
-- [Alex from Digital Foundry: &lpar;Oblivion Remastered&rpar; is perhaps one of the worst-running games I&#39;ve ever tested for Digital Foundry.](https://dev.to/gg_news/alex-from-digital-foundry-oblivion-remastered-is-perhaps-one-of-the-worst-running-games-ive-2ahk)
-- [How to Deploy Your App on Kubernetes — The Easy Way](https://dev.to/hostman_com/how-to-deploy-your-app-on-kubernetes-the-easy-way-3fd7)
+- [Communication is All You Need: What is A2A protocol ?](https://dev.to/heetvekariya/communication-is-all-you-need-what-is-a2a-protocol--p78)
+- [Best Lightweight Jira Alternatives for Startups and Small Teams](https://dev.to/tanmay-m-chaudhari/best-lightweight-jira-alternatives-for-startups-and-small-teams-jeg)
+- [Try this out Guys](https://dev.to/abhinowww/try-this-out-guys-1oek)
+- [How to Build an ATS-Friendly Resume for Free – Mectora.com](https://dev.to/abhinowww/how-to-build-an-ats-friendly-resume-for-free-mectoracom-43mi)
+- [Join the Amazon Q Developer &quot;Quack The Code&quot; Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-amazon-q-developer-quack-the-code-challenge-3000-in-prizes-ng5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
