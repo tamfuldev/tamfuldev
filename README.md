@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 The Hidden Cost of Ignoring QA in Fast-Paced Development](https://dev.to/vaibhavkuls/the-hidden-cost-of-ignoring-qa-in-fast-paced-development-3g60)
-- [AI TIMLINE - All prominent events in the field](https://dev.to/nhlocal/ai-timline-all-prominent-events-in-the-field-1bnl)
-- [Introduction to Data Analysis using Microsoft Excel](https://dev.to/joy_nyayieka_fc5b89b9b20e/introduction-to-data-analysis-using-microsoft-excel-5ac4)
-- [Generative AI in Drug Discovery: Designing Molecules with Precision](https://dev.to/siddharthbhalsod/generative-ai-in-drug-discovery-designing-molecules-with-precision-54ba)
-- [⚡ VeltoPHP: The Lightweight Framework Challenging Laravel’s Heavyweight Status](https://dev.to/veltophp/veltophp-the-lightweight-framework-challenging-laravels-heavyweight-status-3kkc)
+- [Tainted Canvas: why the browser blocks your canvas &lpar;and how to unblock it&rpar;](https://dev.to/reynaldi/tainted-canvas-why-the-browser-blocks-your-canvas-and-how-to-unblock-it-57e7)
+- [Scaling Search at finlight.me: From Postgres Full-Text to Real-Time OpenSearch](https://dev.to/jubeiargh/scaling-search-at-finlightme-from-postgres-full-text-to-real-time-opensearch-33op)
+- [Angular example of a team style guide with best practices 🅰️](https://dev.to/nawfelsekrafi/angular-example-of-a-team-style-guide-with-best-practices-2bji)
+- [Trending in Software Development: How ChampSoft is Shaping the Future with AI and Automation](https://dev.to/champsoft/trending-in-software-development-how-champsoft-is-shaping-the-future-with-ai-and-automation-1pfe)
+- [Customize of Scaling Plan in Auto Scaling Groups Using AWS Auto Scaling](https://dev.to/aws-builders/customize-of-scaling-plan-in-auto-scaling-groups-using-aws-auto-scaling-45np)
 <!-- BLOG-POST-LIST:END -->
 
 ---
