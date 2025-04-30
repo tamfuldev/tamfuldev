@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v324](https://dev.to/devteam/welcome-thread-v324-1fgg)
-- [Untitled](https://dev.to/michael_02910bc84e622d090/untitled-aen)
-- [How Can I Make Progress on DEV Community?](https://dev.to/nicole_smith/how-can-i-make-progress-on-dev-community-1n8h)
-- [Navigating Blockchain Project Funding Challenges](https://dev.to/ashucommits/navigating-blockchain-project-funding-challenges-390k)
-- [Desarrollo Web](https://dev.to/librada_altagraciaarias_/desarrollo-web-4451)
+- [Vibe Coding: The Calm Revolution in Developer Workflows](https://dev.to/sung_jinwoo_ae9a810f8c46a/vibe-coding-the-calm-revolution-in-developer-workflows-d04)
+- [Re: Will AI Take My Job? A Coder&#39;s Reality Check](https://dev.to/canro91/re-will-ai-take-my-job-a-coders-reality-check-4gmg)
+- [How Generative AI Is Redefining ITSM Workflows in 2025](https://dev.to/sip_mjb/how-generative-ai-is-redefining-itsm-workflows-in-2025-1ia2)
+- [Beyond Automation: How Generative AI Is Redefining ITSM Workflows in 2025](https://dev.to/sip_mjb/beyond-automation-how-generative-ai-is-redefining-itsm-workflows-in-2025-4aaj)
+- [[Boost]](https://dev.to/nikhil_sachapara/-56a2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
