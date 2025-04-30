@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Pointer Events API for Advanced Gesture Handling](https://dev.to/omriluz1/pointer-events-api-for-advanced-gesture-handling-2nf9)
-- [Why Upgrading to Tailwind CSS 4.1.4 Might Be the Best Decision You Make This Year](https://dev.to/gerryleonugroho/why-upgrading-to-tailwindcss-414-might-be-the-best-decision-you-make-this-year-4bc5)
-- [What kind of MCP server fits your use case?](https://dev.to/mcphubs/what-kind-of-mcp-server-fits-your-use-case-3noe)
-- [Exhaustive Guide to Generative and Predictive AI in AppSec](https://dev.to/lynxfelony1/exhaustive-guide-to-generative-and-predictive-ai-in-appsec-4g73)
-- [What is memory when we talk about computers?](https://dev.to/greghamilton/what-is-memory-when-we-talk-about-computers-3d84)
+- [🚀 The Hidden Cost of Ignoring QA in Fast-Paced Development](https://dev.to/vaibhavkuls/the-hidden-cost-of-ignoring-qa-in-fast-paced-development-3g60)
+- [AI TIMLINE - All prominent events in the field](https://dev.to/nhlocal/ai-timline-all-prominent-events-in-the-field-1bnl)
+- [Introduction to Data Analysis using Microsoft Excel](https://dev.to/joy_nyayieka_fc5b89b9b20e/introduction-to-data-analysis-using-microsoft-excel-5ac4)
+- [Generative AI in Drug Discovery: Designing Molecules with Precision](https://dev.to/siddharthbhalsod/generative-ai-in-drug-discovery-designing-molecules-with-precision-54ba)
+- [⚡ VeltoPHP: The Lightweight Framework Challenging Laravel’s Heavyweight Status](https://dev.to/veltophp/veltophp-the-lightweight-framework-challenging-laravels-heavyweight-status-3kkc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
