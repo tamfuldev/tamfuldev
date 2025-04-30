@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Communication is All You Need: What is A2A protocol ?](https://dev.to/heetvekariya/communication-is-all-you-need-what-is-a2a-protocol--p78)
-- [Best Lightweight Jira Alternatives for Startups and Small Teams](https://dev.to/tanmay-m-chaudhari/best-lightweight-jira-alternatives-for-startups-and-small-teams-jeg)
-- [Try this out Guys](https://dev.to/abhinowww/try-this-out-guys-1oek)
-- [How to Build an ATS-Friendly Resume for Free – Mectora.com](https://dev.to/abhinowww/how-to-build-an-ats-friendly-resume-for-free-mectoracom-43mi)
-- [Join the Amazon Q Developer &quot;Quack The Code&quot; Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-amazon-q-developer-quack-the-code-challenge-3000-in-prizes-ng5)
+- [Bugs Fuel Open-Source Community](https://dev.to/fzambia/bugs-fuel-open-source-community-1cp6)
+- [I&#39;ve been planning to do a platform for researchers. I would love to get feedback and recommendation from the dev community here.](https://dev.to/naratech/ive-been-planning-to-do-a-platform-for-researchers-i-would-love-to-get-feedback-and-6ca)
+- [10 Lightweight API Gateways for Your Next Project](https://dev.to/nordicapis/10-lightweight-api-gateways-for-your-next-project-1ha3)
+- [𝗨𝗻𝗹𝗼𝗰𝗸𝗶𝗻𝗴 𝗠𝗼𝗱𝗲𝗿𝗻 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆: 𝗪𝗵𝘆 𝗢𝗔𝘂𝘁𝗵 𝗠𝗮𝘁𝘁𝗲𝗿𝘀 𝗶𝗻 𝗧𝗼𝗱𝗮𝘆’𝘀 𝗝𝗮𝘃𝗮 &amp; 𝗦𝗽𝗿𝗶𝗻𝗴 𝗕𝗼𝗼𝘁 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀](https://dev.to/thiago_souza_1510/--17fm)
+- [AWS -Elastic Network Interfaces &lpar;ENI&rpar;](https://dev.to/skillboosttrainer/aws-elastic-network-interfaces-eni-10kh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
