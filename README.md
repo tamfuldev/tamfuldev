@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [# When Laravel Feels Too Heavy: Why Velto Was Created?](https://dev.to/veltophp/-when-laravel-feels-too-heavy-why-velto-was-created-219)
-- [LangChain4J musings, six months after](https://dev.to/nfrankel/langchain4j-musings-six-months-after-3017)
-- [Book Recommendation Web App: A Cloud-Powered Solution for Personalized Book Discovery](https://dev.to/leonardkachi/book-recommendation-web-app-a-cloud-powered-solution-for-personalized-book-discovery-2cmn)
-- [Giới Thiệu Về SEO Và Cách Cấu Hình SEO Trong PHP](https://dev.to/18_nhtphngv_c0a9824/gioi-thieu-ve-seo-va-cach-cau-hinh-seo-trong-php-790)
-- [Implementing OTP Auth in Next.js: A Step-by-Step Guide](https://dev.to/corbado/implementing-otp-auth-in-nextjs-a-step-by-step-guide-4g7i)
+- [🍔 Navbar: A Deliciously Simple Wasmy Navbar](https://dev.to/wiseai/navbar-a-deliciously-simple-wasmy-navbar-component-5gmk)
+- [Prevent XXE Injection in Symfony Framework](https://dev.to/pentest_testing_corp/prevent-xxe-injection-in-symfony-framework-415g)
+- [What happens when you type gcc main.c](https://dev.to/aboahmd/what-happens-when-you-type-gcc-mainc-h17)
+- [[Boost]](https://dev.to/mahdijazini/-2686)
+- [Asynchronous Communication: Making the Most of Time Zone Differences with Offshore React Developers](https://dev.to/shahidmansuri1/asynchronous-communication-making-the-most-of-time-zone-differences-with-offshore-react-developers-np6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
