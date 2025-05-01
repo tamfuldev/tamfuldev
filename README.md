@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [File System Access API for Local File Management](https://dev.to/omriluz1/file-system-access-api-for-local-file-management-533o)
-- [HRMS+AI Bot](https://dev.to/etop_software_088f26bea05/hrmsai-bot-4l78)
-- [The Effortless 10-Step Routine for Glowing Skin=](https://dev.to/fitandhealty_world_47bdd1/the-effortless-10-step-routine-for-glowing-skin-42h6)
-- [Discover how PixelCascade leverages AWS fanout architecture for scalable, serverless image processing. Automate tasks like resizing, formatting &amp; metadata extraction! 🚀 Check out the full guide and architecture insights now!](https://dev.to/dandipangestu/discover-how-pixelcascade-leverages-aws-fanout-architecture-for-scalable-serverless-image-4d4l)
-- [Exploring Deutsche Telekom&#39;s Innovative Applications of Blockchain Technology](https://dev.to/rachellovestowrite/exploring-deutsche-telekoms-innovative-applications-of-blockchain-technology-52j9)
+- [# When Laravel Feels Too Heavy: Why Velto Was Created?](https://dev.to/veltophp/-when-laravel-feels-too-heavy-why-velto-was-created-219)
+- [LangChain4J musings, six months after](https://dev.to/nfrankel/langchain4j-musings-six-months-after-3017)
+- [Book Recommendation Web App: A Cloud-Powered Solution for Personalized Book Discovery](https://dev.to/leonardkachi/book-recommendation-web-app-a-cloud-powered-solution-for-personalized-book-discovery-2cmn)
+- [Giới Thiệu Về SEO Và Cách Cấu Hình SEO Trong PHP](https://dev.to/18_nhtphngv_c0a9824/gioi-thieu-ve-seo-va-cach-cau-hinh-seo-trong-php-790)
+- [Implementing OTP Auth in Next.js: A Step-by-Step Guide](https://dev.to/corbado/implementing-otp-auth-in-nextjs-a-step-by-step-guide-4g7i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
