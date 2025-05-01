@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL CASE: Conditional Logic for Powerful SQL Queries](https://dev.to/dbvismarketing/postgresql-case-conditional-logic-for-powerful-sql-queries-4nci)
-- [How to Compile C++ Code Online Without Installing Anything](https://dev.to/tpointech/how-to-compile-c-code-online-without-installing-anything-2497)
-- [IoT Security Risks and How to Protect Your Devices](https://dev.to/renaissance_9daeacf8a183c/iot-security-risks-and-how-to-protect-your-devices-2c74)
-- [¿Cómo llamar a Iberia Chile teléfono y obtener ayuda rápida?](https://dev.to/eytueiyr/como-llamar-a-iberia-chile-telefono-y-obtener-ayuda-rapida-2lil)
-- [When Not to Use DB Indexes](https://dev.to/mo7amed_3bdalla7/when-not-to-use-db-indexes-8fn)
+- [File System Access API for Local File Management](https://dev.to/omriluz1/file-system-access-api-for-local-file-management-533o)
+- [HRMS+AI Bot](https://dev.to/etop_software_088f26bea05/hrmsai-bot-4l78)
+- [The Effortless 10-Step Routine for Glowing Skin=](https://dev.to/fitandhealty_world_47bdd1/the-effortless-10-step-routine-for-glowing-skin-42h6)
+- [Discover how PixelCascade leverages AWS fanout architecture for scalable, serverless image processing. Automate tasks like resizing, formatting &amp; metadata extraction! 🚀 Check out the full guide and architecture insights now!](https://dev.to/dandipangestu/discover-how-pixelcascade-leverages-aws-fanout-architecture-for-scalable-serverless-image-4d4l)
+- [Exploring Deutsche Telekom&#39;s Innovative Applications of Blockchain Technology](https://dev.to/rachellovestowrite/exploring-deutsche-telekoms-innovative-applications-of-blockchain-technology-52j9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
