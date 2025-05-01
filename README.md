@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DeFi Isn’t Dead — But Most Tokens Are](https://dev.to/martin_call/defi-isnt-dead-but-most-tokens-are-4iag)
-- [✍️ 📄 𝐖𝐫𝐢𝐭𝐢𝐧𝐠 𝐃𝐞𝐬𝐢𝐠𝐧 𝐃𝐨𝐜𝐬 𝐓𝐡𝐚𝐭 𝐃𝐨𝐧’𝐭 𝐒𝐮𝐜𝐤 &lpar;𝐀𝐧𝐝 𝐖𝐡𝐲 𝐈𝐭’𝐬 𝐚 𝐒𝐮𝐩𝐞𝐫𝐩𝐨𝐰𝐞𝐫 𝐟𝐨𝐫 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐬&rpar; What separates 𝘨𝘰𝘰𝘥 engineers from 𝘨𝘳𝘦𝘢𝘵 ones? Give it a read!](https://dev.to/pronnoygoswami/-what-m1a)
-- [TIL!](https://dev.to/fmerian/til-2212)
-- [🛡️ Linux Admin Project: Secure Bank Customer Portal with Automated Auditing](https://dev.to/rajpreet_gill_6272051bd31/linux-admin-project-secure-bank-customer-portal-with-automated-auditing-3egl)
-- [Synchronous vs. Asynchronous Communication in Programming](https://dev.to/msnmongare/synchronous-vs-asynchronous-communication-in-programming-38lm)
+- [How to make your Tauri dev faster](https://dev.to/ahonn/how-to-make-your-tauri-dev-faster-2en1)
+- [How to Build Your First REST API with Node.js and Express &lpar;From Someone Who Was Scared at First&rpar;](https://dev.to/arbythecoder/how-to-build-your-first-rest-api-with-nodejs-and-express-from-someone-who-was-scared-at-first-59d7)
+- [Homomorphic Encryption &lpar;HE&rpar; Explained: A Beginner’s Guide to Secure AI on Encrypted Data](https://dev.to/shamspias/homomorphic-encryption-he-explained-a-beginners-guide-to-secure-ai-on-encrypted-data-2en1)
+- [Harnessing AI: A Guide for Startups](https://dev.to/jetthoughts/harnessing-ai-a-guide-for-startups-2chn)
+- [Algorithms: Learning One&#39;s Learnings](https://dev.to/djangotricks/algorithms-learning-ones-learnings-513d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
