@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating from Windows to Linux](https://dev.to/raman_butta/migrating-from-windows-to-linux-53ho)
-- [Power of Manufacturing Data Analytics: A Strategic Advantage](https://dev.to/gauridigital/power-of-manufacturing-data-analytics-a-strategic-advantage-47of)
-- [Unlocking the Power of AI: A Developer’s Ultimate Guide to Tools, Prompt Engineering, and Productivity Mastery](https://dev.to/ivocreates/unlocking-the-power-of-ai-a-developers-ultimate-guide-to-tools-prompt-engineering-and-4dj)
-- [How do GANs balance generator and discriminator training?](https://dev.to/the_medicaltreasure_cf3a/how-do-gans-balance-generator-and-discriminator-training-412o)
-- [USA-Based Developers for Hire: What You Need to Prepare First](https://dev.to/yashsmith/usa-based-developers-for-hire-what-you-need-to-prepare-first-3841)
+- [Git | Basic](https://dev.to/ibrahimsi/git-basic-3ndd)
+- [Bad Data Is Breaking Your Campaigns: How TDZ Pro Fixes It](https://dev.to/dayologic/bad-data-is-breaking-your-campaigns-how-tdz-pro-fixes-it-2ne)
+- [Learning Elixir: Anonymous Functions](https://dev.to/abreujp/learning-elixir-anonymous-functions-ag4)
+- [🚨 Are we truly celebrating Labour Day — or just pretending to? 💭 This Labour Day, I decided to reflect not just on the history — but on the harsh realities that many tech professionals, especially in Pakistan 🇵🇰, still face.](https://dev.to/hbg_dev/are-we-truly-celebrating-labour-day-or-just-pretending-to-this-labour-day-i-decided-to-422d)
+- [FUTURE OF MANUAL TESTING AGE OF AI](https://dev.to/ashnet_a/future-of-manual-testing-age-of-ai-22c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
