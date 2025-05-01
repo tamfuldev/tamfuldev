@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Microservices Ki Kahaani Part 2: Messaging - When REST &amp; gRPC Need a Break!](https://dev.to/puneet_kumar_0e593e14483e/microservices-ki-kahaani-part-2-messaging-when-rest-grpc-need-a-break-3pph)
-- [How to implement AI automation in your business](https://dev.to/viitorcloud/how-to-implement-ai-automation-in-your-business-g4e)
-- [Multiplayer VR Development using Unity XR Interaction Toolkit and Photon Fusion 2](https://dev.to/niraj_gaming/multiplayer-vr-development-using-unity-xr-interaction-toolkit-and-photon-fusion-2-dnb)
-- [Scripting Series – Part 3 of 7](https://dev.to/alexenson/scripting-series-part-3-of-7-4jjf)
-- [RAG - Retrieval-Augmented Generation, Making AI Smarter](https://dev.to/pawarjay19/rag-retrieval-augmented-generation-making-ai-smarter-mb1)
+- [Understanding GenAI, RAG, MCP Server &amp; LLM — A Beginner’s Guide](https://dev.to/bhumit_parmar_2f49c692978/understanding-genai-rag-mcp-server-llm-a-beginners-guide-2pdn)
+- [Easily speed up your AI business initiatives with DeepSeek-R1 model deployment on Amazon Bedrock.](https://dev.to/ejime_oghenefejiro_f906bc/easily-speed-up-your-ai-business-initiatives-with-deepseek-r1-model-deployment-on-amazon-bedrock-24ni)
+- [Making Sure AI Agents Play Nice: A Look at How We Evaluate Them](https://dev.to/dineshkumarsarangapani/making-sure-ai-agents-play-nice-a-look-at-how-we-evaluate-them-1pje)
+- [OT Security Explained: How to Protect Industrial Systems the Smart Way](https://dev.to/terminaltools/ot-security-explained-how-to-protect-industrial-systems-the-smart-way-3595)
+- [Cool!](https://dev.to/razbakov/cool-310e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
