@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Git | Basic](https://dev.to/ibrahimsi/git-basic-3ndd)
-- [Bad Data Is Breaking Your Campaigns: How TDZ Pro Fixes It](https://dev.to/dayologic/bad-data-is-breaking-your-campaigns-how-tdz-pro-fixes-it-2ne)
-- [Learning Elixir: Anonymous Functions](https://dev.to/abreujp/learning-elixir-anonymous-functions-ag4)
-- [🚨 Are we truly celebrating Labour Day — or just pretending to? 💭 This Labour Day, I decided to reflect not just on the history — but on the harsh realities that many tech professionals, especially in Pakistan 🇵🇰, still face.](https://dev.to/hbg_dev/are-we-truly-celebrating-labour-day-or-just-pretending-to-this-labour-day-i-decided-to-422d)
-- [FUTURE OF MANUAL TESTING AGE OF AI](https://dev.to/ashnet_a/future-of-manual-testing-age-of-ai-22c)
+- [Track Chaos Engineering Progress with Steadybit&#39;s New Reporting Feature](https://dev.to/hisummer/track-chaos-engineering-progress-with-steadybits-new-reporting-feature-36me)
+- [The Developer&#39;s Dilemma: Accountability in an AI-Assisted World](https://dev.to/pullflow/the-developers-dilemma-accountability-in-an-ai-assisted-world-5gf4)
+- [Long shadow](https://dev.to/preetha_vaishnavi_2b82358/long-shadow-28j4)
+- [Donations for Open Source Projects: Fueling Innovation Through Community Contributions](https://dev.to/jennythomas498/donations-for-open-source-projects-fueling-innovation-through-community-contributions-2lkp)
+- [Pokedex - 3D Pokémon Viewer: Gotta View &#39;Em All in 3D! ✨](https://dev.to/sudhanshuambastha/pokedex-3d-pokemon-viewer-gotta-view-em-all-in-3d-1fe4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
