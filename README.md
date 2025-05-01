@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Parallel Processing with PHP &lpar;Part 2&rpar;: Inter-Process Communication](https://dev.to/robertobutti/parallel-processing-with-php-part-2-inter-process-communication-517m)
-- [Tunneling Made Simple: Exposing Local React and Node Apps with ngrok and LocalTunnel](https://dev.to/ashay_tiwari_3658168ad5db/tunneling-made-simple-exposing-local-react-and-node-apps-with-ngrok-and-localtunnel-5g1g)
-- [You can not make a reverse engineering of “why” somebody made a decision](https://dev.to/dan1618/you-can-not-make-a-reverse-engineering-of-why-somebody-made-a-decision-4imk)
-- [Build a Real-Time Gold Rate Tracker for Pakistan Using Public Data](https://dev.to/beboo_rani_99b0cb9d2d098f/build-a-real-time-gold-rate-tracker-for-pakistan-using-public-data-4nfn)
-- [Lock Down GitHub Actions: Block Secrets Leaks &amp; Malicious Code](https://dev.to/alex_aslam/lock-down-github-actions-block-secrets-leaks-malicious-code-5576)
+- [Chapter 4: Writing Better Product Specs](https://dev.to/taskframe/chapter-4-writing-better-product-specs-bm1)
+- [Bridging the MVP-to-Production Gap with ChatOps](https://dev.to/alexthh/bridging-the-mvp-to-production-gap-with-chatops-5ac3)
+- [Realistic DOT AMBER LIGHTBAR](https://dev.to/alex_9665d25784cbffcce7e9/realistic-dot-amber-lightbar-53fh)
+- [Show Additional Calendars in the Taskbar on Windows 11](https://dev.to/winsides/show-additional-calendars-in-the-taskbar-on-windows-11-32im)
+- [Split Data into Multiple Columns: Organizing Your Information Effectively](https://dev.to/excelcombo/split-data-into-multiple-columns-organizing-your-information-effectively-k2o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
