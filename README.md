@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I need code help with these javascript questions Create a BankAccount constructor function that takes a user&#39;s name and balance. Add a method called deposit&lpar;amount&rpar; that increases the balance and logs the new balance, and another method withdraw&lpar;amount&rpar;](https://dev.to/joanitaawinjo/i-need-code-help-with-these-javascript-questions-create-a-bankaccount-constructor-function-that-hl3)
-- [Mastering Permission Management with `sudoers` in Red Hat Linux](https://dev.to/axisinfo_0a61830e06c3c950/mastering-permission-management-with-sudoers-in-red-hat-linux-346k)
-- [Harnessing Office Power Tools and Tips for Energy Efficiency](https://dev.to/tech_love_ccd095911ee1dac/harnessing-office-power-tools-and-tips-for-energy-efficiency-23pg)
-- [PandaStack - An Eco-system for developers](https://dev.to/ajay_kumar_devops/pandastack-an-eco-system-for-developers-214e)
-- [Serverless Event Sourcing with AWS Lambda and DynamoDB: Implementing CQRS for Scalable, Fault-Tolerant APIs](https://dev.to/hexshift/serverless-event-sourcing-with-aws-lambda-and-dynamodb-implementing-cqrs-for-scalable-2f2l)
+- [Accelerating Python with Rust: A Practical Guide](https://dev.to/leapcell/accelerating-python-with-rust-a-practical-guide-38gm)
+- [How AI Understands Your Documents: The Secret Sauce of RAG](https://dev.to/mario_s/how-ai-understands-your-documents-the-secret-sauce-of-rag-5cnb)
+- [200 JavaScript Project Ideas to Sharpen Your Skills &lpar;With Source Code Inside!&rpar;](https://dev.to/code_2/200-javascript-project-ideas-to-sharpen-your-skills-with-source-code-inside-518h)
+- [handleExportPdf&lpar;&rpar; in Suna, an open source generalist AI agent.](https://dev.to/ramunarasinga-11/handleexportpdf-in-suna-an-open-source-generalist-ai-agent-46e2)
+- [Creating a Live Playwright REPL for Browser Automation over SSH or API](https://dev.to/hexshift/creating-a-live-playwright-repl-for-browser-automation-over-ssh-or-api-dn5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
