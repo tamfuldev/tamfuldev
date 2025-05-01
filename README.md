@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🍔 Navbar: A Deliciously Simple Wasmy Navbar](https://dev.to/wiseai/navbar-a-deliciously-simple-wasmy-navbar-component-5gmk)
-- [Prevent XXE Injection in Symfony Framework](https://dev.to/pentest_testing_corp/prevent-xxe-injection-in-symfony-framework-415g)
-- [What happens when you type gcc main.c](https://dev.to/aboahmd/what-happens-when-you-type-gcc-mainc-h17)
-- [[Boost]](https://dev.to/mahdijazini/-2686)
-- [Asynchronous Communication: Making the Most of Time Zone Differences with Offshore React Developers](https://dev.to/shahidmansuri1/asynchronous-communication-making-the-most-of-time-zone-differences-with-offshore-react-developers-np6)
+- [Microservices Ki Kahaani Part 2: Messaging - When REST &amp; gRPC Need a Break!](https://dev.to/puneet_kumar_0e593e14483e/microservices-ki-kahaani-part-2-messaging-when-rest-grpc-need-a-break-3pph)
+- [How to implement AI automation in your business](https://dev.to/viitorcloud/how-to-implement-ai-automation-in-your-business-g4e)
+- [Multiplayer VR Development using Unity XR Interaction Toolkit and Photon Fusion 2](https://dev.to/niraj_gaming/multiplayer-vr-development-using-unity-xr-interaction-toolkit-and-photon-fusion-2-dnb)
+- [Scripting Series – Part 3 of 7](https://dev.to/alexenson/scripting-series-part-3-of-7-4jjf)
+- [RAG - Retrieval-Augmented Generation, Making AI Smarter](https://dev.to/pawarjay19/rag-retrieval-augmented-generation-making-ai-smarter-mb1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
