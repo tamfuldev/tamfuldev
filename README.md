@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Track Chaos Engineering Progress with Steadybit&#39;s New Reporting Feature](https://dev.to/hisummer/track-chaos-engineering-progress-with-steadybits-new-reporting-feature-36me)
-- [The Developer&#39;s Dilemma: Accountability in an AI-Assisted World](https://dev.to/pullflow/the-developers-dilemma-accountability-in-an-ai-assisted-world-5gf4)
-- [Long shadow](https://dev.to/preetha_vaishnavi_2b82358/long-shadow-28j4)
-- [Donations for Open Source Projects: Fueling Innovation Through Community Contributions](https://dev.to/jennythomas498/donations-for-open-source-projects-fueling-innovation-through-community-contributions-2lkp)
-- [Pokedex - 3D Pokémon Viewer: Gotta View &#39;Em All in 3D! ✨](https://dev.to/sudhanshuambastha/pokedex-3d-pokemon-viewer-gotta-view-em-all-in-3d-1fe4)
+- [Iterator vs Generator — What’s the Difference?](https://dev.to/bharathvaj_ganesan/iterator-vs-generator-whats-the-difference-43ko)
+- [What Makes the Best Patent Search Tool in 2025?](https://dev.to/patentscanai/what-makes-the-best-patent-search-tool-in-2025-24mn)
+- [What does &quot;API Brownout&quot; actually mean?](https://dev.to/martyndavies/what-does-api-brownout-actually-mean-2k4j)
+- [Peer Review 2: Data Warehousing, Transformation, and Reproducibility in tfl-data-visualization &lpar;Part 2&rpar;](https://dev.to/pizofreude/peer-review-2-data-warehousing-transformation-and-reproducibility-in-tfl-data-visualization-22pp)
+- [How Image to PDF Converters Streamline Office Workflows](https://dev.to/pdf_4me/how-image-to-pdf-converters-streamline-office-workflows-3bhd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
