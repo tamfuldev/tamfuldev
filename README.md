@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Wave v0.1.0-pre-beta: Add Import and UTF-8 Support](https://dev.to/lunastev/introduction-to-wave-v010-pre-beta-add-import-and-utf-8-support-2cid)
-- [How to start your journey in Open Source using the example of a small Go project](https://dev.to/pashkov256/how-to-start-your-journey-in-open-source-using-the-example-of-a-small-go-project-1e5j)
-- [Angular](https://dev.to/gaurangdhorda/angular-3mj7)
-- [Integrating authorization in a Spring Boot API](https://dev.to/authaction/integrating-authorization-in-a-spring-boot-api-3151)
-- [Implementing a Modular Kargo Promotion Workflow: Extracting PromotionTask from Stage for Maintainability](https://dev.to/josephcc/implementing-a-modular-kargo-promotion-workflow-extracting-promotiontask-from-stage-for-4npi)
+- [Ethical Funding Methods: Navigating the Path to Responsible Financing](https://dev.to/ahmmrizv9/ethical-funding-methods-navigating-the-path-to-responsible-financing-1pc0)
+- [Doing TDD improved my DevExp](https://dev.to/lucasbrogni1/doing-tdd-improved-my-devexp-3lhi)
+- [✂️ From 2500+ to 10+ Lines: Automated Modular Code Refactor 🤖](https://dev.to/madhurima_rawat/from-2500-to-10-lines-automated-modular-code-refactor-803)
+- [How to Perform List Operations in Python Without Built-in Methods](https://dev.to/ciamuthama/how-to-perform-list-operations-in-python-without-built-in-methods-j27)
+- [Building AI Model](https://dev.to/theaniketraj/building-ai-model-2an5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
