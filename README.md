@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Drip Network vs. Other DeFi Projects: A Comprehensive Comparison and Future Outlook](https://dev.to/zhangwei42/drip-network-vs-other-defi-projects-a-comprehensive-comparison-and-future-outlook-4i8a)
-- [Meta’s Big AI Bet: What Zuckerberg’s Code Prediction Really Means](https://dev.to/__be9c17204c7921/metas-big-ai-bet-what-zuckerbergs-code-prediction-really-means-2f0o)
-- [Discovering the Potential of Drip Network: A Deep Dive into DeFi and Sustainable Blockchain Innovation](https://dev.to/ashucommits/discovering-the-potential-of-drip-network-a-deep-dive-into-defi-and-sustainable-blockchain-4g97)
-- [How I Created a CI/CD Pipeline for Deploying a Dockerized Slim-PHP App with Caddy](https://dev.to/aabill/how-i-created-a-cicd-pipeline-for-deploying-a-dockerized-slim-php-app-with-caddy-nib)
-- [Integrating APIs Is Now Table Stakes—So We’re Giving It Away for Free](https://dev.to/lonti-davidb/integrating-apis-is-now-table-stakes-so-were-giving-it-away-for-free-2bbf)
+- [Motiono - A React Animation Library Powered by GSAP](https://dev.to/codervai/motiono-a-react-animation-library-powered-by-gsap-488a)
+- [&quot;Unleashing Creativity: How AI Sparks Innovation in Bootstrapped Startups&quot;](https://dev.to/dibborah100/unleashing-creativity-how-ai-sparks-innovation-in-bootstrapped-startups-3bg7)
+- [A Guide to Setting Up Local HTTPS Portals with Docker](https://dev.to/medrix/a-guide-to-setting-up-local-https-portals-with-docker-1aj9)
+- [TryHackMe: NetworkMiner](https://dev.to/seanleeys/tryhackme-networkminer-1ao0)
+- [Day 153/365 [Learning Full Stack]](https://dev.to/munin-1/day-153365-learning-full-stack-1ehn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
