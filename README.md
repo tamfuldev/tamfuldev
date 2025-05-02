@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Guide to Creating a Flawless Mobile App UI/UX Design](https://dev.to/seo_esignature_8b18cc8801/the-ultimate-guide-to-creating-a-flawless-mobile-app-uiux-design-2l3a)
-- [[REPOST] Installing Genymotion for Android App Pentesting: The Definitive Guide](https://dev.to/blue_byte/installing-genymotion-for-android-app-pentesting-the-definitive-guide-repost-of-my-old-article-m32)
-- [Why ARP Matters !!!](https://dev.to/akash029/why-arp-matters--441m)
-- [#4 DP: Facade](https://dev.to/stv4s/4-dp-facade-1i9k)
-- [My Wins of the Week! ⭐](https://dev.to/anitaolsen/my-wins-of-the-week-33dc)
+- [Sustainable Kubernetes workload with Kepler](https://dev.to/mageshwaransekar/sustainable-kubernetes-workload-with-kepler-2lp7)
+- [OWASP Top 10 For Flutter — M5: Insecure Communication for Flutter and Dart](https://dev.to/yurii_denchyk_bb561af8d2d/owasp-top-10-for-flutter-m5-insecure-communication-for-flutter-and-dart-42hm)
+- [WeTransact: Microsoft Azure Marketplace Integration](https://dev.to/wetransact/wetransact-microsoft-azure-marketplace-integration-a96)
+- [Part 2: The Vite Chronicals](https://dev.to/svbygoibear/part-2-the-vite-chronicals-2ic0)
+- [Exploring the Power of AI in Our Everyday Lives](https://dev.to/saimblogsai/exploring-the-power-of-ai-in-our-everyday-lives-2hn4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
