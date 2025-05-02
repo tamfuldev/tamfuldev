@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ethical Funding Methods: Navigating the Path to Responsible Financing](https://dev.to/ahmmrizv9/ethical-funding-methods-navigating-the-path-to-responsible-financing-1pc0)
-- [Doing TDD improved my DevExp](https://dev.to/lucasbrogni1/doing-tdd-improved-my-devexp-3lhi)
-- [✂️ From 2500+ to 10+ Lines: Automated Modular Code Refactor 🤖](https://dev.to/madhurima_rawat/from-2500-to-10-lines-automated-modular-code-refactor-803)
-- [How to Perform List Operations in Python Without Built-in Methods](https://dev.to/ciamuthama/how-to-perform-list-operations-in-python-without-built-in-methods-j27)
-- [Building AI Model](https://dev.to/theaniketraj/building-ai-model-2an5)
+- [How AI Influence Operations Are Testing the Limits of Open Digital Communities](https://dev.to/rawveg/how-ai-influence-operations-are-testing-the-limits-of-open-digital-communities-2jei)
+- [Exploring Paid MCP Servers with Stripe and Cloudflare: My Hands-on Experience](https://dev.to/hideokamoto/exploring-paid-mcp-servers-with-stripe-and-cloudflare-my-hands-on-experience-3le9)
+- [OData API using .Net 8](https://dev.to/vimaltwit/odata-api-using-net-8-3779)
+- [Node.js Interview Guide tailored for backend developers, ranging from beginner to advanced levels](https://dev.to/devcorner/nodejs-interview-guide-tailored-for-backend-developers-ranging-from-beginner-to-advanced-levels-4m0h)
+- [NEW post trying](https://dev.to/sudharshan/new-post-trying-4nbo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
