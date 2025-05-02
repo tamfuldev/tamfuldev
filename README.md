@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [2.2.3 Hybrid Architectures &lpar;Distributed Systems&rpar;](https://dev.to/dima853/223-hybrid-architectures-distributed-systems-14d4)
-- [Predicting Crop Yield using Machine Learning](https://dev.to/h4ck3r/predicting-crop-yield-using-machine-learning-3b79)
-- [Couchbase Weekly Updates - May 2, 2025](https://dev.to/couchbase/couchbase-weekly-updates-may-2-2025-3hc6)
-- [3.4 Stronger Security Notions &lpar;Introduction to Modern Cryptography Jonathan Katz and Yehuda Lindell&rpar;](https://dev.to/dima853/34-stronger-security-notions-introduction-to-modern-cryptography-jonathan-katz-and-yehuda-lindell-35d5)
-- [Great reminder that numbers drive results, not just good copy.](https://dev.to/ivolowkey/great-reminder-that-numbers-drive-results-not-just-good-copy-1n9)
+- [Tailwind CSS to your React Native projects!](https://dev.to/swapnil_ahmmedshishir_2d/tailwind-css-to-your-react-native-projects-29g)
+- [AI Killed Your Competitive Edge. Here&#39;s What Will Save It.](https://dev.to/shayy/ai-killed-your-competitive-edge-heres-what-will-save-it-2gje)
+- [What Happens When AI Becomes the Client?](https://dev.to/slickstef11/what-happens-when-ai-becomes-the-client-595p)
+- [Leaders Are Overlooking This Crucial Factor in AI Readiness](https://dev.to/talweezy/leaders-are-overlooking-this-crucial-factor-in-ai-readiness-3a1j)
+- [I Built an Open-Source Framework to Make LLM Data Extraction Dead Simple](https://dev.to/sergiishcherbak/i-built-an-open-source-framework-to-make-llm-data-extraction-dead-simple-44h3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
