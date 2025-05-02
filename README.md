@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to make your Tauri dev faster](https://dev.to/ahonn/how-to-make-your-tauri-dev-faster-2en1)
-- [How to Build Your First REST API with Node.js and Express &lpar;From Someone Who Was Scared at First&rpar;](https://dev.to/arbythecoder/how-to-build-your-first-rest-api-with-nodejs-and-express-from-someone-who-was-scared-at-first-59d7)
-- [Homomorphic Encryption &lpar;HE&rpar; Explained: A Beginner’s Guide to Secure AI on Encrypted Data](https://dev.to/shamspias/homomorphic-encryption-he-explained-a-beginners-guide-to-secure-ai-on-encrypted-data-2en1)
-- [Harnessing AI: A Guide for Startups](https://dev.to/jetthoughts/harnessing-ai-a-guide-for-startups-2chn)
-- [Algorithms: Learning One&#39;s Learnings](https://dev.to/djangotricks/algorithms-learning-ones-learnings-513d)
+- [How to Build a Nutrition Tracker App Using the Foodie API](https://dev.to/martintonev/how-to-build-a-nutrition-tracker-app-using-the-foodie-api-10hh)
+- [Daily JavaScript Challenge #JS-167: Calculate the Maximum Depth of Nested Parentheses in a String](https://dev.to/dpc/daily-javascript-challenge-js-167-calculate-the-maximum-depth-of-nested-parentheses-in-a-string-3lfe)
+- [Reactive Statistics in Angular 19: Signals, Effects, and Smart Control Flow](https://dev.to/cristiansifuentes/reactive-statistics-in-angular-19-signals-effects-and-smart-control-flow-4gdm)
+- [Web Performansını İyileştirme: Temel Stratejiler](https://dev.to/yunus_emremert_1756b71d3/web-performansini-iyilestirme-temel-stratejiler-2dk8)
+- [Hello, AWS Community lovers I&#39;m new here!](https://dev.to/olfa_habli_aws/hello-aws-community-lovers-im-new-here-963)
 <!-- BLOG-POST-LIST:END -->
 
 ---
