@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Sustainable Kubernetes workload with Kepler](https://dev.to/mageshwaransekar/sustainable-kubernetes-workload-with-kepler-2lp7)
-- [OWASP Top 10 For Flutter — M5: Insecure Communication for Flutter and Dart](https://dev.to/yurii_denchyk_bb561af8d2d/owasp-top-10-for-flutter-m5-insecure-communication-for-flutter-and-dart-42hm)
-- [WeTransact: Microsoft Azure Marketplace Integration](https://dev.to/wetransact/wetransact-microsoft-azure-marketplace-integration-a96)
-- [Part 2: The Vite Chronicals](https://dev.to/svbygoibear/part-2-the-vite-chronicals-2ic0)
-- [Exploring the Power of AI in Our Everyday Lives](https://dev.to/saimblogsai/exploring-the-power-of-ai-in-our-everyday-lives-2hn4)
+- [Kubernetes 1.32: Real-World Use Cases &amp; Examples](https://dev.to/rajeev_3ce9f280cbae73b234/kubernetes-132-real-world-use-cases-examples-4227)
+- [Peer Review 3: France Data Engineering Job Market Transformations, Visualization, and Feedback &lpar;Part 2&rpar;](https://dev.to/pizofreude/peer-review-3-france-data-engineering-job-market-transformations-visualization-and-feedback-3ahl)
+- [A2A Python Tutorial - Comprehensive Guide](https://dev.to/czmilo/a2a-python-tutorial-comprehensive-guide-5c9k)
+- [🚀 upup – a drop-in React uploader for AWS S3, DigitalOcean, Backblaze, GCP &amp; Azure w/ GDrive and OneDrive user integration!](https://dev.to/amindhou/upup-a-drop-in-react-uploader-for-aws-s3-digitalocean-backblaze-gcp-azure-w-gdrive-and-3a4l)
+- [Physics MDHI 27-Dimension Analogy N-Back](https://dev.to/michael_02910bc84e622d090/physics-mdhi-27-dimension-analogy-n-back-1l8e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
