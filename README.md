@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AWS EC2 Instance Types](https://dev.to/himanshusinghtomar/aws-ec2-instance-types-16c0)
-- [Crushing the Command Line: Automating Workflows with Amazon Q Developer Project Overview](https://dev.to/parthpariwandh/crushing-the-command-line-automating-workflows-with-amazon-q-developerproject-overview-4d)
-- [PRINCIPIA DEMOCRATICA](https://dev.to/ryo_suwito/principia-democratica-3521)
-- [Transforming Media with Blockchain Funding: Unlocking Potential](https://dev.to/laetitiaperraut/transforming-media-with-blockchain-funding-unlocking-potential-4n9p)
-- [C# Programming Basics: A Beginner’s Guide to .NET Development](https://dev.to/pythontutorial/c-programming-basics-a-beginners-guide-to-net-development-310j)
+- [Audio Worklets for Low-Latency Audio Processing](https://dev.to/omriluz1/audio-worklets-for-low-latency-audio-processing-3b9p)
+- [How To Ace Tech Interview Questions.](https://dev.to/rankush_vishwakarma_18215/how-to-ace-tech-interview-questions-n04)
+- [Stop shipping insecure Dockerfiles: real devs don’t run as root](https://dev.to/devlinktips/stop-shipping-insecure-dockerfiles-real-devs-dont-run-as-root-4d8)
+- [Repository for e-commerce website for beginners](https://dev.to/ssekabirarobertsims/repository-for-e-commerce-website-for-beginners-4no8)
+- [15 AI tools that almost replace a full dev team but please don’t fire us yet](https://dev.to/devlinktips/15-ai-tools-that-almost-replace-a-full-dev-team-but-please-dont-fire-us-yet-56ld)
 <!-- BLOG-POST-LIST:END -->
 
 ---
