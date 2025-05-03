@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How MCP Leverages OAuth 2.1 and RFC 9728 for Authorization](https://dev.to/patrick_chan_0922a197d89d/how-mcp-leverages-oauth-21-and-rfc-9728-for-authorization-58dn)
 - [Maybe Your Business Doesn&#39;t Need an App.](https://dev.to/bill_vivino_481bc473fa0d9/maybe-your-business-doesnt-need-an-app-3jae)
 - [Code Smell 298 - Microsoft Windows Time Waste](https://dev.to/mcsee/code-smell-298-microsoft-windows-time-waste-30k1)
 - [🚀 How to Install and Use Amazon Q for Developers in Your IDE](https://dev.to/aws-builders/how-to-install-and-use-amazon-q-for-developers-in-your-ide-4e3h)
 - [Creating a Node.js calculator application](https://dev.to/ameh_mathias/creating-a-nodejs-calculator-application-5ld)
-- [Real-World Blue-Green Deployment: 10 Lessons I Wish I Knew Earlier](https://dev.to/egor_kaleynik_7dbe9393e86/real-world-blue-green-deployment-10-lessons-i-wish-i-knew-earlier-71j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
