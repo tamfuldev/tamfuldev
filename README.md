@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I’m testing Google Ads before building my SaaS — here’s why &lpar;and how&rpar;](https://dev.to/charliehunsaas/im-testing-google-ads-before-building-my-saas-heres-why-and-how-3d3m)
-- [Untangling the AWS VPC Maze: Your 10-Step Network Troubleshooting Guide](https://dev.to/pkkolla/untangling-the-aws-vpc-maze-your-10-step-network-troubleshooting-guide-48i4)
-- [What is Data Science and Why It Matters Today – A Beginner’s Roadmap](https://dev.to/anushi_amarasinghe/what-is-data-science-and-why-it-matters-today-a-beginners-roadmap-2aal)
-- [Understanding onMouseEnter, onMouseOver, and onMouseMove in React](https://dev.to/samitkapoor/understanding-onmouseenter-onmouseover-and-onmousemove-in-react-4ce2)
-- [Cool python syntax techniques](https://dev.to/ceir/cool-python-syntax-techniques-469d)
+- [My Git &amp; GitHub Learning](https://dev.to/sourav_mahato_3900/my-git-github-learning-5a9b)
+- [Annotations in Oracle Database 23ai](https://dev.to/vahidusefzadeh/annotations-in-oracle-database-23ai-13el)
+- [AI Agents: how they work and how to build them](https://dev.to/aws-heroes/ai-agents-how-they-work-and-how-to-build-them-17if)
+- [[Boost]](https://dev.to/anthonymax/-27gh)
+- [AltSchool Of Engineering Tinyuka’24 Month 3 Week 2](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-3-week-2-49pd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
