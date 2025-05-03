@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Simple JavaScript Render Method](https://dev.to/mohansandesh/creating-a-simple-javascript-render-method-5972)
-- [Why Your API Is Slow – And How to Fix It in 15 Minutes 🚀](https://dev.to/alisamir/why-your-api-is-slow-and-how-to-fix-it-in-15-minutes-40fo)
-- [Building a Rock-Solid Testing Framework at Bynry:](https://dev.to/mr_harshkumar_jha/building-a-rock-solid-testing-framework-at-bynry-4l8o)
-- [🌍 The smallest and simplest global state manager for React](https://dev.to/9zemian5/the-smallest-and-simplest-global-state-manager-for-react-4h2h)
-- [XQL Group Playbook: High‑Performance B2B Marketing Channels for Early‑Stage Software Development Companies](https://dev.to/danylo_fedirko_e38be56528/xql-group-playbook-high-performance-b2b-marketing-channels-for-early-stage-software-development-51nd)
+- [Crushing the Command Line with Amazon Q Developer 🚀](https://dev.to/aws_1_27d6cbc9e944aa228ef/crushing-the-command-line-with-amazon-q-developer-1l61)
+- [💰 Cost Optimization with AWS Compute Optimizer:](https://dev.to/balahariharang/cost-optimization-with-aws-compute-optimizer-nna)
+- [Revolutionize Your Audio Experience: Natural Text-to-Speech with Kokoro TTS](https://dev.to/nazdridoy/revolutionize-your-audio-experience-natural-text-to-speech-with-kokoro-tts-3enh)
+- [Crushing the Command Line with Amazon Q Developer 🚀](https://dev.to/aws_1_27d6cbc9e944aa228ef/crushing-the-command-line-with-amazon-q-developer-1laa)
+- [Angular](https://dev.to/dima_savenkov/angular-10o5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
