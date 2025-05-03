@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Running llama3 in WSL2 using Docker in your PC 🐧🦙🐋](https://dev.to/pratyush_mohanty_6b8f2749/running-llama3-in-wsl2-using-docker-in-your-pc-eh9)
-- [12.5 Reflection: parameter names](https://dev.to/fundamentosjava/125-reflection-parameter-names-14ho)
-- [Leveling Up in .NET, Exploring Classes &amp; Methods!](https://dev.to/khulyso/leveling-up-in-net-exploring-classes-methods-3e27)
-- [The AI agent stack that’s quietly taking over enterprise workflows](https://dev.to/sidswirl/the-ai-agent-stack-thats-quietly-taking-over-enterprise-workflows-2h8o)
-- [How to Manage Authentication in a GraphQL API in 2025?](https://dev.to/nigelsilonero/how-to-manage-authentication-in-a-graphql-api-in-2025-4p3h)
+- [Collection List](https://dev.to/preetha_vaishnavi_2b82358/collection-list-76)
+- [Shopify webpage](https://dev.to/preetha_vaishnavi_2b82358/shopify-webpage-459f)
+- [The difference between `@RestController` and `@Controller`](https://dev.to/devcorner/the-difference-between-restcontroller-and-controller-4083)
+- [Subdomain Hunters! Meet SubFors – The Most Advanced &amp; Fastest Tool You Haven’t Tried Yet &lpar;Beats Subfinder 🔥&rpar;](https://dev.to/said_7f44036b94612ff063c1/subdomain-hunters-meet-subfors-the-most-advanced-fastest-tool-you-havent-tried-yet-beats-4a13)
+- [Mastering MCP Servers: The Complete Guide to Modded Minecraft Hosting](https://dev.to/krish_desai_117/mastering-mcp-servers-the-complete-guide-to-modded-minecraft-hosting-4jd8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
