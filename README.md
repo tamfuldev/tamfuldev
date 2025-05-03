@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [nil in Go: Is More Complicated Than You Think](https://dev.to/leapcell/nil-in-go-is-more-complicated-than-you-think-29gp)
-- [Roly, my first CSS animation &lpar;check hover&rpar;](https://dev.to/preetha_vaishnavi_2b82358/roly-my-first-css-animation-check-hover-2525)
-- [Image Carousel](https://dev.to/preetha_vaishnavi_2b82358/image-carousel-2d9)
-- [Senior Frontend Developer](https://dev.to/preetha_vaishnavi_2b82358/senior-frontend-developer-20ci)
-- [Mastering Angular Directives for Reusable UI Components](https://dev.to/dct_technology/mastering-angular-directives-for-reusable-ui-components-f1a)
+- [Cryptocurrency &amp; Blockchain 101: Bitcoin, Ethereum, dApps, and Beyond](https://dev.to/sung_jinwoo_ae9a810f8c46a/cryptocurrency-blockchain-101-bitcoin-ethereum-dapps-and-beyond-418c)
+- [TryHackMe: Brim](https://dev.to/seanleeys/tryhackme-brim-3i36)
+- [The Evolution of Fashion Through Blockchain: Navigating the Funding Landscape](https://dev.to/bobcars/the-evolution-of-fashion-through-blockchain-navigating-the-funding-landscape-5810)
+- [AWS security tips for large scale java angular application](https://dev.to/amogh_deshpande_1176/aws-security-tips-for-large-scale-java-angular-application-eoh)
+- [Mocky.io vs. Mock-API.net: Which Mock API Tool Fits Your Workflow?](https://dev.to/samirfcis/mockyio-vs-mock-apinet-which-mock-api-tool-fits-your-workflow-lob)
 <!-- BLOG-POST-LIST:END -->
 
 ---
