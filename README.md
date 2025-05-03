@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Crushing the Command Line with Amazon Q Developer 🚀](https://dev.to/aws_1_27d6cbc9e944aa228ef/crushing-the-command-line-with-amazon-q-developer-1l61)
-- [💰 Cost Optimization with AWS Compute Optimizer:](https://dev.to/balahariharang/cost-optimization-with-aws-compute-optimizer-nna)
-- [Revolutionize Your Audio Experience: Natural Text-to-Speech with Kokoro TTS](https://dev.to/nazdridoy/revolutionize-your-audio-experience-natural-text-to-speech-with-kokoro-tts-3enh)
-- [Crushing the Command Line with Amazon Q Developer 🚀](https://dev.to/aws_1_27d6cbc9e944aa228ef/crushing-the-command-line-with-amazon-q-developer-1laa)
-- [Angular](https://dev.to/dima_savenkov/angular-10o5)
+- [🌱 A Beginner&#39;s Guide to Functional Programming](https://dev.to/devcorner/a-beginners-guide-to-functional-programming-2gkg)
+- [I Tested Tons of AI Resume Builders - These 8 Are the Absolute Best](https://dev.to/nitinfab/i-tested-tons-of-ai-resume-builders-these-8-are-the-absolute-best-p7e)
+- [From Beginner to Pro: Docker + Terraform for Scalable AI Agents](https://dev.to/docker/from-beginner-to-pro-deploying-scalable-ai-workloads-with-docker-terraform-41f2)
+- [2025 Update: CompTIA A+ Core 1 &lpar;220-1201&rpar; Certification Guide – Syllabus, Cost &amp; Tips](https://dev.to/cert_study_4c9a871b492407/2025-update-comptia-a-core-1-220-1201-certification-guide-syllabus-cost-tips-1efg)
+- [AI-Powered Code Assistance: HOW Developers Are Writing Smarter, Not Harder](https://dev.to/okoye_ndidiamaka_5e3b7d30/ai-powered-code-assistance-how-developers-are-writing-smarter-not-harder-3ae9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
