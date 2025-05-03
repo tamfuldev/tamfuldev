@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Git &amp; GitHub Learning](https://dev.to/sourav_mahato_3900/my-git-github-learning-5a9b)
-- [Annotations in Oracle Database 23ai](https://dev.to/vahidusefzadeh/annotations-in-oracle-database-23ai-13el)
-- [AI Agents: how they work and how to build them](https://dev.to/aws-heroes/ai-agents-how-they-work-and-how-to-build-them-17if)
-- [[Boost]](https://dev.to/anthonymax/-27gh)
-- [AltSchool Of Engineering Tinyuka’24 Month 3 Week 2](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-3-week-2-49pd)
+- [Navigate Linux Like a Pro: Understanding Absolute vs Relative Paths](https://dev.to/sanasadiq/navigate-linux-like-a-pro-understanding-absolute-vs-relative-paths-37c3)
+- [Hello I am new and want to learn coding](https://dev.to/billychristian65/hello-i-am-new-and-want-to-learn-coding-3090)
+- [Content about build_influence](https://dev.to/drorivry/content-about-buildinfluence-4jjk)
+- [Content about build_influence](https://dev.to/drorivry/content-about-buildinfluence-11ip)
+- [What is Machine Learning really about ?](https://dev.to/shub_03/what-is-machine-learning-really-about--349j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
