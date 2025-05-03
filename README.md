@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Navigate Linux Like a Pro: Understanding Absolute vs Relative Paths](https://dev.to/sanasadiq/navigate-linux-like-a-pro-understanding-absolute-vs-relative-paths-37c3)
-- [Hello I am new and want to learn coding](https://dev.to/billychristian65/hello-i-am-new-and-want-to-learn-coding-3090)
-- [Content about build_influence](https://dev.to/drorivry/content-about-buildinfluence-4jjk)
-- [Content about build_influence](https://dev.to/drorivry/content-about-buildinfluence-11ip)
-- [What is Machine Learning really about ?](https://dev.to/shub_03/what-is-machine-learning-really-about--349j)
+- [A Next.js Starter for Music/Video SaaS --Would You Use It?](https://dev.to/minyorange/a-nextjs-starter-for-musicvideo-saas-would-you-use-it-52b9)
+- [Ready for challenge.](https://dev.to/mahir_dasare_333/ready-for-challenge-48io)
+- [Should I learn full-stack development in 2025 ?](https://dev.to/sunny_rajput_463a6f109306/should-i-learn-full-stack-development-in-2025--104k)
+- [How to use canvas in Web Workers with OffscreenCanvas](https://dev.to/sachinchaurasiya/how-to-use-canvas-in-web-workers-with-offscreencanvas-5540)
+- [Getting Started with Pydantic: Type-Safe Data Models in Python](https://dev.to/mechcloud_academy/getting-started-with-pydantic-type-safe-data-models-in-python-2141)
 <!-- BLOG-POST-LIST:END -->
 
 ---
