@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Full Stack Web3 Development Roadmap: Learn Full Stack Web3 in 90 Days](https://dev.to/code_2/full-stack-web3-development-roadmap-learn-full-stack-web3-in-90-days-2jdk)
-- [ApocalypseGPT 🧟](https://dev.to/sebastiandevelops/apocalypsegpt-2n9i)
-- [Web Development Week 2](https://dev.to/upinar/web-development-week-2-o1d)
-- [Guia Prático Spring Boot WebFlux](https://dev.to/ikauedev/guia-pratico-spring-boot-webflux-22co)
-- [1128. Number of Equivalent Domino Pairs](https://dev.to/mdarifulhaque/1128-number-of-equivalent-domino-pairs-24an)
+- [☁️ Keep Using AWS as Usual](https://dev.to/wiseai/keep-using-aws-as-usual-3dk6)
+- [Foundational Project Structure for .NET Projects](https://dev.to/georgekobaidze/foundational-project-structure-for-net-projects-3dn3)
+- [Understanding IaaS/PaaS/SaaS](https://dev.to/tak089/understanding-iaaspaassaas-4m5g)
+- [Dynamic Twinkling Particle System | Vanilla JS](https://dev.to/preetha_vaishnavi_2b82358/dynamic-twinkling-particle-system-vanilla-js-2bmi)
+- [Mastering Linux File Permissions](https://dev.to/kmsaifullah/mastering-linux-file-permissions-4hoo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
