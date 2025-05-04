@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why is my C code not printing output in Go?](https://dev.to/generatecodedev/why-is-my-c-code-not-printing-output-in-go-4ha5)
-- [How I Became the Gatekeeper of a Web Directory on RHEL 9](https://dev.to/higgs182092/how-i-became-the-gatekeeper-of-a-web-directory-on-rhel-9-5gn9)
-- [Comprehensive Guide to Monitoring in MCP](https://dev.to/matt_lenhard_650f4412cb21/comprehensive-guide-to-monitoring-in-mcp-3k74)
-- [How to Deploy a Full-Stack React &amp; Node.js App on Google Cloud Run.](https://dev.to/raghad60/how-to-deploy-a-full-stack-react-nodejs-app-on-google-cloud-run-52m9)
-- [👨🏻‍💻 Let&#39;s Intro! 🍏 CodeLikeAndrew](https://dev.to/codelikeandrew/lets-intro-codelikeandrew-28ph)
+- [Web Bluetooth API for Device Communication](https://dev.to/omriluz1/web-bluetooth-api-for-device-communication-27i3)
+- [Разработка дизайна информационного сайта на WordPress с нуля своими руками](https://dev.to/wphelpru/razrabotka-dizaina-informatsionnogho-saita-na-wordpress-4ddp)
+- [Building Your AI Side Hustle: A Developer&#39;s Guide to Extra Income in 2025](https://dev.to/limacodes/building-your-ai-side-hustle-a-developers-guide-to-extra-income-in-2025-1hoj)
+- [How to Use Reference and Output Parameters in Java](https://dev.to/generatecodedev/how-to-use-reference-and-output-parameters-in-java-291d)
+- [Desenvolvimento de Sistemas Seguros: A Importância da Segurança em Sistemas de Software](https://dev.to/katleenmm/desenvolvimento-de-sistemas-seguros-a-importancia-da-seguranca-em-sistemas-de-software-54n0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
