@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [EDA Pro: Reusable Python Notebook for Exploratory Data Analysis](https://dev.to/drkouakou_rene_c45b636d7c/eda-pro-reusable-python-notebook-for-exploratory-data-analysis-mpl)
-- [Mastering Python with UV: The Complete Guide to Lightning-Fast Development](https://dev.to/krish_desai_117/mastering-python-with-uv-the-complete-guide-to-lightning-fast-development-2gnl)
-- [Why Big Tech Is Slowly Ghosting Golang](https://dev.to/alikolahdoozan/why-big-tech-is-slowly-ghosting-golang-30bk)
-- [202/365 | ¥10M Job Challenge - Another day](https://dev.to/kameken100/202365-y10m-job-challenge-another-day-gci)
-- [Gestión de paquetes privados con Verdaccio: una solución eficiente para proyectos personales y colaborativos](https://dev.to/hackroot23/gestion-de-paquetes-privados-con-verdaccio-una-solucion-eficiente-para-proyectos-personales-y-3l3a)
+- [Go&#39;s singleflight package and why it&#39;s awesome for concurrent requests](https://dev.to/nickytonline/gos-singleflight-package-and-why-itd-awesome-for-concurrent-requests-4di7)
+- [Implementing Vue Modal Route](https://dev.to/shunnnet/implementing-vue-modal-route-58ff)
+- [Alibaba Qwen 3 is the fastest LLM ever, Microsoft&#39;s byte-sized open source model, DeepSeek Prover is GREAT at maths, and more](https://dev.to/thisweekinaiengineering/alibaba-qwen-3-is-the-fastest-llm-ever-microsofts-byte-sized-open-source-model-deepseek-prover-416f)
+- [Learn Linux Navigation: Absolute vs Relative Paths Simplified](https://dev.to/abhishekshakya/learn-linux-navigation-absolute-vs-relative-paths-simplified-4d9m)
+- [My Journey into AI: Understanding the Building Blocks of Artificial Intelligence](https://dev.to/dinakajoy/my-journey-into-ai-understanding-the-building-blocks-of-artificial-intelligence-321a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
