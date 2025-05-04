@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [May the Fourth CSS Art](https://dev.to/alvaromontoro/may-the-fourth-css-art-2205)
-- [Google Chrome feature makes JavaScript 10X faster, GSAP is now free, UNKNOWN JavaScript hack, and more](https://dev.to/thisweekinjavascript/google-chrome-feature-makes-javascript-10x-faster-gsap-is-now-free-unknown-javascript-hack-and-c8e)
-- [Clean Code Is a Habit, Not a Talent](https://dev.to/muhammad_chandrabintang/clean-code-is-a-habit-not-a-talent-2l01)
-- [Bora simular uma compra completa com Azure Durable Functions e padrão Saga? 🎉](https://dev.to/sertaoseracloud/bora-simular-uma-compra-completa-com-azure-durable-functions-e-padrao-saga-20pe)
-- [AutoSecure API Gateway: API-First Authorization Reimagined](https://dev.to/kevin_heidt_d73c1752454fb/autosecure-api-gateway-api-first-authorization-reimagined-21k2)
+- [Mastering Kotlin Coroutines in Android: A Practical Guide](https://dev.to/mohitrajput987/mastering-kotlin-coroutines-in-android-a-practical-guide-4dn)
+- [Best Embroidery Cotton Baby Pajamas for Family Matching](https://dev.to/affihub/best-embroidery-cotton-baby-pajamas-for-family-matching-23j3)
+- [Scared of System Design? Try This Tradeoff Quadrant](https://dev.to/smilegupta/scared-of-system-design-try-this-tradeoff-quadrant-1b4a)
+- [What Font Style Can I Use to Replicate the Google Logo?](https://dev.to/generatecodedev/what-font-style-can-i-use-to-replicate-the-google-logo-3ofo)
+- [Sentinel AI: Chat Boundaries, Defined by Policy](https://dev.to/ykimura/sentinel-ai-chat-boundaries-defined-by-policy-2lnn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
