@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [☁️ Keep Using AWS as Usual](https://dev.to/wiseai/keep-using-aws-as-usual-3dk6)
-- [Foundational Project Structure for .NET Projects](https://dev.to/georgekobaidze/foundational-project-structure-for-net-projects-3dn3)
-- [Understanding IaaS/PaaS/SaaS](https://dev.to/tak089/understanding-iaaspaassaas-4m5g)
-- [Dynamic Twinkling Particle System | Vanilla JS](https://dev.to/preetha_vaishnavi_2b82358/dynamic-twinkling-particle-system-vanilla-js-2bmi)
-- [Mastering Linux File Permissions](https://dev.to/kmsaifullah/mastering-linux-file-permissions-4hoo)
+- [May the Fourth CSS Art](https://dev.to/alvaromontoro/may-the-fourth-css-art-2205)
+- [Google Chrome feature makes JavaScript 10X faster, GSAP is now free, UNKNOWN JavaScript hack, and more](https://dev.to/thisweekinjavascript/google-chrome-feature-makes-javascript-10x-faster-gsap-is-now-free-unknown-javascript-hack-and-c8e)
+- [Clean Code Is a Habit, Not a Talent](https://dev.to/muhammad_chandrabintang/clean-code-is-a-habit-not-a-talent-2l01)
+- [Bora simular uma compra completa com Azure Durable Functions e padrão Saga? 🎉](https://dev.to/sertaoseracloud/bora-simular-uma-compra-completa-com-azure-durable-functions-e-padrao-saga-20pe)
+- [AutoSecure API Gateway: API-First Authorization Reimagined](https://dev.to/kevin_heidt_d73c1752454fb/autosecure-api-gateway-api-first-authorization-reimagined-21k2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
