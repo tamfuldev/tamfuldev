@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Kubernetes Cluster On On-premises](https://dev.to/keyvan_soleimani/deploying-kubernetes-cluster-on-on-premises-2pgf)
-- [Real-Time Private Channel Notifications in Vue 3 with Laravel Echo and Pusher](https://dev.to/oghenetega_adiri/real-time-notifications-in-vue-3-with-laravel-echo-and-pusher-5bb9)
-- [AutoDrawer ile Otomatik Çizim Kurulum ve Kullanım Rehberi](https://dev.to/eagledfc/autodrawer-otomatik-cizim-yapan-akilli-yazilim-11np)
-- [Parameters &amp; Arguments in Python](https://dev.to/hyperkai/parameters-arguments-in-python-45nm)
-- [Who Controls Your Files in Linux? Discover the Power of Permissions 🔐](https://dev.to/omkarsharma2821/who-controls-your-files-in-linux-discover-the-power-of-permissions-5g6d)
+- [Phi 4 Reasoning Benchmarks, Model Specs, and Comparisons](https://dev.to/best_codes/phi-4-reasoning-benchmarks-model-specs-and-comparisons-4hk)
+- [Vibe Coding — My Simple Way to Enjoy Coding More 🌿💻](https://dev.to/rohansh08/vibe-coding-my-simple-way-to-enjoy-coding-more-26i)
+- [Using nanostores in Astro + Vue setup](https://dev.to/nabeel_karnasym/using-nanostores-in-astro-vue-setup-1n55)
+- [Understanding Python Concurrency: Multithreading VS AsyncIO](https://dev.to/leapcell/understanding-python-concurrency-multithreading-vs-asyncio-3png)
+- [Qwen 3 vs. Deepseek R1: Complete comparison](https://dev.to/composiodev/qwen-3-vs-deep-seek-r1-evaluation-notes-1bi1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
