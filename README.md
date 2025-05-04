@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s changed in Webdev in the past few years](https://dev.to/thejaredwilcurt/whats-changed-in-webdev-in-the-past-few-years-p7e)
-- [🧠 Monitor Your Full LAMP Stack with ELK + Metricbeat &lpar;No Guesswork, Just Data&rpar;](https://dev.to/minh_trivo_vmt/monitor-your-full-lamp-stack-with-elk-metricbeat-no-guesswork-just-data-34dd)
-- [&quot;I Want to Learn Programming, But Doubts Are Holding Me Back&quot;](https://dev.to/sir_monkey_06/i-want-to-learn-programming-but-doubts-are-holding-me-back-270b)
-- [🛡️ Blog – Multi-Factor Authentication &lpar;MFA&rpar;: Your Critical Second Layer of Defense](https://dev.to/amit_ambekar_c022e6732f8d/blog-multi-factor-authentication-mfa-your-critical-second-layer-of-defense-nb8)
-- [CRUD &lpar;Create, Read, Update, Delete&rpar; operation using Java Spring Boot with PostgreSQL-2025](https://dev.to/saif_uddin/crud-create-read-update-delete-operation-using-java-spring-boot-with-postgresql-2025-4nf2)
+- [Full stack development 2025](https://dev.to/abdu_karim_5f2f2c6b3a82de/full-stack-development-2025-1j30)
+- [Refactoring a Messy Codebase: Lessons I Learned](https://dev.to/visavadiyavrushik/refactoring-a-messy-codebase-lessons-i-learned-3n0m)
+- [Hello DEV! From Graphic Design to Data Analytics &lpar;with coffee &amp; chaos&rpar;](https://dev.to/sachin_kumar_978b87100f2d/hello-dev-from-graphic-design-to-data-analytics-with-coffee-chaos-1hd8)
+- [🚀 Update: create-node-spark CLI Gets Major Boost!](https://dev.to/talhabilaldev/update-create-node-spark-cli-gets-major-boost-35a5)
+- [Youtube API Project](https://dev.to/bobokech/youtube-api-project-214n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
