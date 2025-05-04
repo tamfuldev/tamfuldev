@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Web Bluetooth API for Device Communication](https://dev.to/omriluz1/web-bluetooth-api-for-device-communication-27i3)
-- [Разработка дизайна информационного сайта на WordPress с нуля своими руками](https://dev.to/wphelpru/razrabotka-dizaina-informatsionnogho-saita-na-wordpress-4ddp)
-- [Building Your AI Side Hustle: A Developer&#39;s Guide to Extra Income in 2025](https://dev.to/limacodes/building-your-ai-side-hustle-a-developers-guide-to-extra-income-in-2025-1hoj)
-- [How to Use Reference and Output Parameters in Java](https://dev.to/generatecodedev/how-to-use-reference-and-output-parameters-in-java-291d)
-- [Desenvolvimento de Sistemas Seguros: A Importância da Segurança em Sistemas de Software](https://dev.to/katleenmm/desenvolvimento-de-sistemas-seguros-a-importancia-da-seguranca-em-sistemas-de-software-54n0)
+- [Como Organizar Suas Conversas com Inteligências Artificiais para Aumentar a Produtividade.](https://dev.to/robsonamendonca/como-organizar-suas-conversas-com-inteligencias-artificiais-para-aumentar-a-produtividade-enh)
+- [🧠 MedAi Pro – AI-Powered Medical Report Analyzer Using Camel AI, LLaMA 4, Groq API, and Streamlit_](https://dev.to/_tusharrathore/medai-pro-ai-powered-medical-report-analyzer-using-camel-ai-llama-4-groq-api-and-streamlit-p6a)
+- [Tell me about best object detection github repo written by pyton](https://dev.to/afshin_jian_4794d14082b7b/tell-me-about-best-object-detection-github-repo-written-by-pyton-5ffp)
+- [MedRecord – Secure Medical Records with Fine-Grained Access Control](https://dev.to/walidadebayo/medrecord-secure-medical-records-with-fine-grained-access-control-3b6)
+- [🔐MedSecure: Healthcare Authorization Redefined with Permit.io](https://dev.to/manishjha/medsecure-healthcare-authorization-redefined-with-permitio-179p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
