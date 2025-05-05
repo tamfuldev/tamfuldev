@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Efficient String Splitting in PostgreSQL: 5 Essential Functions](https://dev.to/dbvismarketing/efficient-string-splitting-in-postgresql-5-essential-functions-5bkj)
-- [Quark’s Outlines: Python Delimiters](https://dev.to/mike-vincent/quarks-outlines-python-delimiters-5511)
-- [🚀 GitGuard – Secure Just-In-Time Repository Access with Biometrics &amp; Permit.io](https://dev.to/nikhilsahni7/gitguard-secure-just-in-time-repository-access-with-biometrics-permitio-ejp)
-- [How to Use Pinia for State Management in Vue](https://dev.to/jacobandrewsky/how-to-use-pinia-for-state-management-in-vue-535)
-- [SkyRulers – AI-Powered Drone Parts Ordering with Fine-Grained Access Control](https://dev.to/mariano_gongora_ee3aff3bd/skyrulers-ai-powered-drone-parts-ordering-with-fine-grained-access-control-2o6c)
+- [WordPress vs Squarespace: A Detailed Comparison for Beginners](https://dev.to/leojohnson235/wordpress-vs-squarespace-a-detailed-comparison-for-beginners-m86)
+- [Основы SEO для начинающих разработчиков сайтов на WordPress](https://dev.to/wphelpru/osnovy-seo-dlia-nachinaiushchikh-razrabotchikov-saitov-na-wordpress-3l3b)
+- [Expectation &#39;Hired to Love&#39; 🖤Reality DNS Rescue 😫](https://dev.to/techwithhari/expectation-hired-to-love-reality-dns-rescue-2f88)
+- [Avoid CAPTCHA Fatigue: Try These Browser Extensions Today](https://dev.to/henrym14/avoid-captcha-fatigue-try-these-browser-extensions-today-4bg9)
+- [Top 5 AI-Based Code Editors for Coding in 2025](https://dev.to/aneeqakhan/top-5-ai-based-code-editors-for-coding-in-2025-obm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
