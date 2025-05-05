@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Marketplace de Drupal](https://dev.to/oskar_calvo_1615a9b3b293f/marketplace-de-drupal-22ac)
-- [Validasi di Frontend dan Backend: Kenapa Harus Dua-duanya?](https://dev.to/thecrudify/validasi-di-frontend-dan-backend-kenapa-harus-dua-duanya-2f05)
-- [Bring third-party incidents into Better Stack](https://dev.to/isdown/bring-third-party-incidents-into-better-stack-54oa)
-- [What’s Really Running in MySQL? Use SHOW PROCESSLIST to Find Out](https://dev.to/drupaladmin/whats-really-running-in-mysql-use-show-processlist-to-find-out-2f7l)
-- [How to Fix TS1259 Error in Next.js with Express and TypeScript?](https://dev.to/generatecodedev/how-to-fix-ts1259-error-in-nextjs-with-express-and-typescript-49bc)
+- [Grumphp en proyectos Ddev](https://dev.to/oskar_calvo_1615a9b3b293f/grumphp-en-proyectos-ddev-4hb8)
+- [Understanding the Builder Pattern – One Brick at a Time](https://dev.to/syedyshiraz/understanding-the-builder-pattern-one-brick-at-a-time-ffm)
+- [React Compiler RC: What it means for React devs](https://dev.to/logrocket/react-compiler-rc-what-it-means-for-react-devs-46pl)
+- [Chapter 5: Cross-Functional Teamwork Done Right](https://dev.to/taskframe/chapter-5-cross-functional-teamwork-done-right-57n0)
+- [AWS Storage Explained: Choosing Between File, Block, and Object Storage Like a Pro](https://dev.to/pkkolla/aws-storage-explained-choosing-between-file-block-and-object-storage-like-a-pro-2061)
 <!-- BLOG-POST-LIST:END -->
 
 ---
