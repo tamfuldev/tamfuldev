@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SOFTWARE DEVELOPMENT MEMES](https://dev.to/ben/software-development-memes-44nk)
-- [Meme Monday](https://dev.to/ben/meme-monday-1ik7)
-- [Why Flip Phones Still Matter in 2025 | w/ Tom Barrasso](https://dev.to/mikehtmlallthethings/why-flip-phones-still-matter-in-2025-w-tom-barrasso-p9m)
-- [License-Token: A New Era for Open Source Licensing](https://dev.to/bobcars/license-token-a-new-era-for-open-source-licensing-35k2)
-- [Vacuous Truth in JS](https://dev.to/amanimavu/vacuous-truth-in-js-b7o)
+- [🤖📚 Build Your Own AI-Powered Book Chatbot using Python, Flask, Lang Chain, and Pinecone!](https://dev.to/ujjwal_nepal/build-your-own-ai-powered-book-chatbot-using-python-flask-lang-chain-and-pinecone-loi)
+- [Setting up my home lab](https://dev.to/hanswillem/setting-up-my-home-lab-2fk5)
+- [A beginner&#39;s guide to the Qwen3-32b model by Prunaai on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-qwen3-32b-model-by-prunaai-on-replicate-flg)
+- [Dhvagna-DOM: A Lightweight TypeScript DOM Ready Utility by Gnanesh Balusa](https://dev.to/gnox79/dhvagna-dom-a-lightweight-typescript-dom-ready-utility-by-gnanesh-balusa-3hp)
+- [Is programming still worth it in 2025?](https://dev.to/paulthedev/is-programming-still-worth-it-in-2025-afn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
