@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Fii Dii Data](https://dev.to/shahzeb_malik_6bc043c98a3/fii-dii-data-545)
-- [📦 At Most Once, At Least Once, Exactly Once: What Do These Really Mean?](https://dev.to/pandeyaditya0002/at-most-once-at-least-once-exactly-once-what-do-these-really-mean-1a39)
-- [Hey Frontend Devs, Feeling Slowed Down by Your CMS?](https://dev.to/caisy_b3dab8bba6a26f388ca/hey-frontend-devs-feeling-slowed-down-by-your-cms-56jp)
-- [SQL and I Had Beef 😂So I Built a Trigger](https://dev.to/jmwendwa/sql-and-i-had-beef-so-i-built-a-trigger-26m9)
-- [Jest - Mocking Next.js Image to handle dynamic properties in tests](https://dev.to/jenchen/jest-mocking-nextjs-image-to-handle-dynamic-properties-in-tests-33m4)
+- [What is Database Server?](https://dev.to/e77/what-is-database-server-26l4)
+- [AWS Config vs Kubernetes Native Policy Engines: Who Governs What?](https://dev.to/nurudeen_kamilu/aws-config-vs-kubernetes-native-policy-engines-who-governs-what-5dga)
+- [Malai - Share your dev server &lpar;and more&rpar; over P2P](https://dev.to/siddhantk232/malai-share-your-dev-server-and-more-over-p2p-12bf)
+- [License-Token: Paving the Future of OSS Sustainability Through Blockchain and Digital Assets](https://dev.to/kallileiser/license-token-paving-the-future-of-oss-sustainability-through-blockchain-and-digital-assets-1if)
+- [What is Data Mart?](https://dev.to/e77/what-is-data-mart-2okc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
