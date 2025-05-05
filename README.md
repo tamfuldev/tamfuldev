@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What is Database Server?](https://dev.to/e77/what-is-database-server-26l4)
-- [AWS Config vs Kubernetes Native Policy Engines: Who Governs What?](https://dev.to/nurudeen_kamilu/aws-config-vs-kubernetes-native-policy-engines-who-governs-what-5dga)
-- [Malai - Share your dev server &lpar;and more&rpar; over P2P](https://dev.to/siddhantk232/malai-share-your-dev-server-and-more-over-p2p-12bf)
-- [License-Token: Paving the Future of OSS Sustainability Through Blockchain and Digital Assets](https://dev.to/kallileiser/license-token-paving-the-future-of-oss-sustainability-through-blockchain-and-digital-assets-1if)
-- [What is Data Mart?](https://dev.to/e77/what-is-data-mart-2okc)
+- [SOFTWARE DEVELOPMENT MEMES](https://dev.to/ben/software-development-memes-44nk)
+- [Meme Monday](https://dev.to/ben/meme-monday-1ik7)
+- [Why Flip Phones Still Matter in 2025 | w/ Tom Barrasso](https://dev.to/mikehtmlallthethings/why-flip-phones-still-matter-in-2025-w-tom-barrasso-p9m)
+- [License-Token: A New Era for Open Source Licensing](https://dev.to/bobcars/license-token-a-new-era-for-open-source-licensing-35k2)
+- [Vacuous Truth in JS](https://dev.to/amanimavu/vacuous-truth-in-js-b7o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
