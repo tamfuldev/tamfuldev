@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Go-To Toolkit: Top 10 Shadcn/ui Components I Rely On for Modern Web Development](https://dev.to/therealmrmumba/my-go-to-toolkit-top-10-shadcnui-components-i-rely-on-for-modern-web-development-31l3)
-- [#3 Fidely Project Update: a better UI 💪](https://dev.to/pul/3-fidely-project-update-a-better-ui-15j8)
-- [I built gitNull: A minimalist GitFlow CLI tool to save time and stay focused](https://dev.to/faithreborn/i-built-gitnull-a-minimalist-gitflow-cli-tool-to-save-time-and-stay-focused-ff8)
-- [Why You Should Boycott VS Code](https://dev.to/stroiman/why-you-should-boycott-vs-code-4a7i)
-- [🧱 What Technical Skills Are Needed to Become a Blockchain Developer?](https://dev.to/cryptosandy/what-technical-skills-are-needed-to-become-a-blockchain-developer-274)
+- [Fii Dii Data](https://dev.to/shahzeb_malik_6bc043c98a3/fii-dii-data-545)
+- [📦 At Most Once, At Least Once, Exactly Once: What Do These Really Mean?](https://dev.to/pandeyaditya0002/at-most-once-at-least-once-exactly-once-what-do-these-really-mean-1a39)
+- [Hey Frontend Devs, Feeling Slowed Down by Your CMS?](https://dev.to/caisy_b3dab8bba6a26f388ca/hey-frontend-devs-feeling-slowed-down-by-your-cms-56jp)
+- [SQL and I Had Beef 😂So I Built a Trigger](https://dev.to/jmwendwa/sql-and-i-had-beef-so-i-built-a-trigger-26m9)
+- [Jest - Mocking Next.js Image to handle dynamic properties in tests](https://dev.to/jenchen/jest-mocking-nextjs-image-to-handle-dynamic-properties-in-tests-33m4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
