@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Created My Own WHOIS Lookup Tool with SEO &amp; Mobile Optimization](https://dev.to/unknown_coder1x/how-i-created-my-own-whois-lookup-tool-with-seo-mobile-optimization-25if)
-- [Post 1: How I Built My Own Payment Gateway in PHP Without Using External APIs](https://dev.to/unknown_coder1x/post-1-how-i-built-my-own-payment-gateway-in-php-without-using-external-apis-2n1n)
-- [Demystifying Flutter: A Beginner-Friendly Tutorial](https://dev.to/rishabhtpt/demystifying-flutter-a-beginner-friendly-tutorial-5gj5)
-- [How to Fix &#39;Sign Invalid&#39; Errors in Arduino C++ for Tuya API?](https://dev.to/generatecodedev/how-to-fix-sign-invalid-errors-in-arduino-c-for-tuya-api-5c4k)
-- [HireFlow: For candidates, recruiters, and companies](https://dev.to/sarahokolo/hireflow-for-candidates-recruiters-and-companies-52ng)
+- [Efficient String Splitting in PostgreSQL: 5 Essential Functions](https://dev.to/dbvismarketing/efficient-string-splitting-in-postgresql-5-essential-functions-5bkj)
+- [Quark’s Outlines: Python Delimiters](https://dev.to/mike-vincent/quarks-outlines-python-delimiters-5511)
+- [🚀 GitGuard – Secure Just-In-Time Repository Access with Biometrics &amp; Permit.io](https://dev.to/nikhilsahni7/gitguard-secure-just-in-time-repository-access-with-biometrics-permitio-ejp)
+- [How to Use Pinia for State Management in Vue](https://dev.to/jacobandrewsky/how-to-use-pinia-for-state-management-in-vue-535)
+- [SkyRulers – AI-Powered Drone Parts Ordering with Fine-Grained Access Control](https://dev.to/mariano_gongora_ee3aff3bd/skyrulers-ai-powered-drone-parts-ordering-with-fine-grained-access-control-2o6c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
