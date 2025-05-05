@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Generic Structure with a Default Type in Rust?](https://dev.to/generatecodedev/how-to-create-a-generic-structure-with-a-default-type-in-rust-58a4)
-- [🔁 1128. Number of Equivalent Domino Pairs – Explained with Code in C++, JavaScript, and Python](https://dev.to/om_shree_0709/1128-number-of-equivalent-domino-pairs-explained-with-code-in-c-javascript-and-python-1b97)
-- [# OpenSearch : 🚀 How to Improve Index and Shard Performance in OpenSearch](https://dev.to/mangesh28/-opensearch-how-to-improve-index-and-shard-performance-in-opensearch-1pe6)
-- [Milestone Two: Build 8 Is Here, and It’s a Big One](https://dev.to/tavrn/milestone-two-build-8-is-here-and-its-a-big-one-53hn)
-- [Mas allá de la moda de los microservicios](https://dev.to/galindocode/mas-alla-de-la-moda-de-los-microservicios-4m4k)
+- [Import a large CSV more than 1G into a database quickly](https://dev.to/ryjfgjl/import-a-large-csv-more-than-1g-into-a-database-quickly-244e)
+- [Realistic Snake twists using just 2 images? Possible!](https://dev.to/spekcezstolicku/realistic-snake-twists-using-just-2-images-possible-49oc)
+- [How to Simplify Operand Size Handling in C for Emulators?](https://dev.to/generatecodedev/how-to-simplify-operand-size-handling-in-c-for-emulators-2k6a)
+- [DAY 1 / 200.](https://dev.to/munin-1/day-1-200-23gg)
+- [When Letting go Control Meant React Taking Over: A lesson on Agile and Development](https://dev.to/wanjiru_muchiri/when-letting-go-control-meant-react-taking-over-a-lesson-on-agile-and-development-3ik3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
