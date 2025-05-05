@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🤖📚 Build Your Own AI-Powered Book Chatbot using Python, Flask, Lang Chain, and Pinecone!](https://dev.to/ujjwal_nepal/build-your-own-ai-powered-book-chatbot-using-python-flask-lang-chain-and-pinecone-loi)
-- [Setting up my home lab](https://dev.to/hanswillem/setting-up-my-home-lab-2fk5)
-- [A beginner&#39;s guide to the Qwen3-32b model by Prunaai on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-qwen3-32b-model-by-prunaai-on-replicate-flg)
-- [Dhvagna-DOM: A Lightweight TypeScript DOM Ready Utility by Gnanesh Balusa](https://dev.to/gnox79/dhvagna-dom-a-lightweight-typescript-dom-ready-utility-by-gnanesh-balusa-3hp)
-- [Is programming still worth it in 2025?](https://dev.to/paulthedev/is-programming-still-worth-it-in-2025-afn)
+- [We Listened: Pgai Vectorizer Now Works With Any Postgres Database](https://dev.to/timescale/we-listened-pgai-vectorizer-now-works-with-any-postgres-database-1e57)
+- [🚀 OpenAI Agents SDK: A Step-by-Step Guide to Building Real-World MCP Agents with Composio](https://dev.to/composiodev/openai-agents-sdk-a-step-by-step-guide-to-building-real-world-mcp-agents-with-composio-4f92)
+- [🛠️ Logging Like a Pro: A Simple Yet Powerful Logger Function for Your Shell Scripts](https://dev.to/kartikdudeja21/logging-like-a-pro-a-simple-yet-powerful-logger-function-for-your-shell-scripts-3l0)
+- [Understanding Child Processes in Node.js Through the Eyes of a Toddler](https://dev.to/shankarjatin/understanding-child-processes-in-nodejs-through-the-eyes-of-a-toddler-11j8)
+- [Scanner Class in Java](https://dev.to/sudhakar_v_c404997aeec839/scanner-class-in-java-c2f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
