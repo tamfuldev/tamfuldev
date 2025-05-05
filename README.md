@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Bits to Bytes: Building a Better Binary Converter for Devs 🧮](https://dev.to/learncomputer/from-bits-to-bytes-building-a-better-binary-converter-for-devs-3p8k)
-- [🔐 AWS Elastic Beanstalk Now Supports Custom Security Group Configuration](https://dev.to/latchudevops/aws-elastic-beanstalk-now-supports-custom-security-group-configuration-2ao8)
-- [12 Premium Tailwind Portfolio Templates for Creative Professionals](https://dev.to/aribudin/12-premium-tailwind-portfolio-templates-for-creative-professionals-2n7e)
-- [Intel&#39;s Open Source Hardware and Blockchain Initiatives](https://dev.to/zhangwei42/intels-open-source-hardware-and-blockchain-initiatives-20oh)
-- [🚀 CoderBot v2: Open Source, Gamification &amp; AI for Real Programming Education](https://dev.to/andr_mendes_8eae278f1601/coderbot-v2-open-source-gamification-ai-for-real-programming-education-4j9m)
+- [Comparing Optimization Algorithms: Lessons from the Himmelblau Function](https://dev.to/darkstalker/comparing-optimization-algorithms-lessons-from-the-himmelblau-function-17nh)
+- [Hover Bug: A Prankware Simulator. Based on the &quot;Butterfly on Desktop&quot; &lpar;text only&rpar; that will probably never touch the corner.](https://dev.to/saahen_sriyan_mishra/hover-bug-a-prankware-simulator-based-on-the-butterfly-on-desktop-text-only-that-will-2dj6)
+- [Fragment Telegram: Security, Use Cases, and the Blockchain Connection](https://dev.to/bobcars/fragment-telegram-security-use-cases-and-the-blockchain-connection-1bdl)
+- [How to Fix Django Installation Issues on Pythonista 3.4?](https://dev.to/generatecodedev/how-to-fix-django-installation-issues-on-pythonista-34-4ng8)
+- [Ambiente Linux para Desenvolvimento: Por que escolhi e não me arrependo](https://dev.to/nicolaazdev/ambiente-linux-para-desenvolvimento-por-que-escolhi-e-nao-me-arrependo-56ji)
 <!-- BLOG-POST-LIST:END -->
 
 ---
