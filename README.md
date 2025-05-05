@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [We Listened: Pgai Vectorizer Now Works With Any Postgres Database](https://dev.to/timescale/we-listened-pgai-vectorizer-now-works-with-any-postgres-database-1e57)
-- [🚀 OpenAI Agents SDK: A Step-by-Step Guide to Building Real-World MCP Agents with Composio](https://dev.to/composiodev/openai-agents-sdk-a-step-by-step-guide-to-building-real-world-mcp-agents-with-composio-4f92)
-- [🛠️ Logging Like a Pro: A Simple Yet Powerful Logger Function for Your Shell Scripts](https://dev.to/kartikdudeja21/logging-like-a-pro-a-simple-yet-powerful-logger-function-for-your-shell-scripts-3l0)
-- [Understanding Child Processes in Node.js Through the Eyes of a Toddler](https://dev.to/shankarjatin/understanding-child-processes-in-nodejs-through-the-eyes-of-a-toddler-11j8)
-- [Scanner Class in Java](https://dev.to/sudhakar_v_c404997aeec839/scanner-class-in-java-c2f)
+- [Basics of Stack, Heap, memory management, VM &amp; JVM](https://dev.to/ssd/basics-of-stack-heap-memory-management-vm-jvm-1png)
+- [Part 2 of Pattern Matching in Switch - Java](https://dev.to/sowmiya07/part-2-of-pattern-matching-in-switch-java-pno)
+- [Vector Databases: The Secret Sauce for AI-Powered Search &lpar;That Won&#39;t Make Your Brain Explode&rpar;](https://dev.to/sakethkowtha/vector-databases-the-secret-sauce-for-ai-powered-search-that-wont-make-your-brain-explode-4147)
+- [Dev Diary #1 – Google Agent Development Kit: Lessons I Learned](https://dev.to/protsenko/dev-diary-1-google-agent-development-kit-lessons-i-learned-16mi)
+- [API Testing Essentials: What Every QA Engineer Should Know](https://dev.to/shubham-theqa/api-testing-essentials-what-every-qa-engineer-should-know-ei8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
