@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Web Dev Journey Begins: From Zero to Full Stack with 3D &lpar;Three.js&rpar;](https://dev.to/jysurya_mhdvn/my-web-dev-journey-begins-from-zero-to-full-stack-with-3d-threejs-5h65)
-- [🚀 Why C++ Still Dominates Blockchain Development](https://dev.to/cryptosandy/why-c-still-dominates-blockchain-development-1b8k)
-- [Solana Developers Patch Critical Vulnerability: A Technical Breakdown](https://dev.to/philip_crypto92/solana-developers-patch-critical-vulnerability-a-technical-breakdown-2p67)
-- [where go wrong](https://dev.to/lingxiang_he_589358ba6243/where-go-wrong-4g3m)
-- [Custom ValidaCtion Rules in Laravel 12](https://dev.to/ayekpleclemence/custom-validaction-rules-in-laravel-12-4m8i)
+- [My Go-To Toolkit: Top 10 Shadcn/ui Components I Rely On for Modern Web Development](https://dev.to/therealmrmumba/my-go-to-toolkit-top-10-shadcnui-components-i-rely-on-for-modern-web-development-31l3)
+- [#3 Fidely Project Update: a better UI 💪](https://dev.to/pul/3-fidely-project-update-a-better-ui-15j8)
+- [I built gitNull: A minimalist GitFlow CLI tool to save time and stay focused](https://dev.to/faithreborn/i-built-gitnull-a-minimalist-gitflow-cli-tool-to-save-time-and-stay-focused-ff8)
+- [Why You Should Boycott VS Code](https://dev.to/stroiman/why-you-should-boycott-vs-code-4a7i)
+- [🧱 What Technical Skills Are Needed to Become a Blockchain Developer?](https://dev.to/cryptosandy/what-technical-skills-are-needed-to-become-a-blockchain-developer-274)
 <!-- BLOG-POST-LIST:END -->
 
 ---
