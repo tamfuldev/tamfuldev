@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Import a large CSV more than 1G into a database quickly](https://dev.to/ryjfgjl/import-a-large-csv-more-than-1g-into-a-database-quickly-244e)
-- [Realistic Snake twists using just 2 images? Possible!](https://dev.to/spekcezstolicku/realistic-snake-twists-using-just-2-images-possible-49oc)
-- [How to Simplify Operand Size Handling in C for Emulators?](https://dev.to/generatecodedev/how-to-simplify-operand-size-handling-in-c-for-emulators-2k6a)
-- [DAY 1 / 200.](https://dev.to/munin-1/day-1-200-23gg)
-- [When Letting go Control Meant React Taking Over: A lesson on Agile and Development](https://dev.to/wanjiru_muchiri/when-letting-go-control-meant-react-taking-over-a-lesson-on-agile-and-development-3ik3)
+- [From Bits to Bytes: Building a Better Binary Converter for Devs 🧮](https://dev.to/learncomputer/from-bits-to-bytes-building-a-better-binary-converter-for-devs-3p8k)
+- [🔐 AWS Elastic Beanstalk Now Supports Custom Security Group Configuration](https://dev.to/latchudevops/aws-elastic-beanstalk-now-supports-custom-security-group-configuration-2ao8)
+- [12 Premium Tailwind Portfolio Templates for Creative Professionals](https://dev.to/aribudin/12-premium-tailwind-portfolio-templates-for-creative-professionals-2n7e)
+- [Intel&#39;s Open Source Hardware and Blockchain Initiatives](https://dev.to/zhangwei42/intels-open-source-hardware-and-blockchain-initiatives-20oh)
+- [🚀 CoderBot v2: Open Source, Gamification &amp; AI for Real Programming Education](https://dev.to/andr_mendes_8eae278f1601/coderbot-v2-open-source-gamification-ai-for-real-programming-education-4j9m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
