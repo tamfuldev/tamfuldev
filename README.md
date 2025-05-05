@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Grumphp en proyectos Ddev](https://dev.to/oskar_calvo_1615a9b3b293f/grumphp-en-proyectos-ddev-4hb8)
-- [Understanding the Builder Pattern – One Brick at a Time](https://dev.to/syedyshiraz/understanding-the-builder-pattern-one-brick-at-a-time-ffm)
-- [React Compiler RC: What it means for React devs](https://dev.to/logrocket/react-compiler-rc-what-it-means-for-react-devs-46pl)
-- [Chapter 5: Cross-Functional Teamwork Done Right](https://dev.to/taskframe/chapter-5-cross-functional-teamwork-done-right-57n0)
-- [AWS Storage Explained: Choosing Between File, Block, and Object Storage Like a Pro](https://dev.to/pkkolla/aws-storage-explained-choosing-between-file-block-and-object-storage-like-a-pro-2061)
+- [Artificial Intelligence In The IT Industry Opportunities &amp; Challenges](https://dev.to/glaxitofficial/artificial-intelligence-in-the-it-industry-opportunities-challenges-o5d)
+- [Starvation in Javascript: When your program remains Hungry](https://dev.to/devanshhh/starvation-in-javascript-when-your-program-remains-hungry-1i19)
+- [🚀 Application Tier Platform Migration Oracle EBS R12.2.x](https://dev.to/decomoreira/application-tier-platform-migration-oracle-ebs-r122x-28oc)
+- [Expedition 33 publisher: &quot;Elder Scrolls: Oblivion didn’t seem to harm us at all&quot;](https://dev.to/gg_news/expedition-33-publisher-elder-scrolls-oblivion-didnt-seem-to-harm-us-at-all-4in)
+- [$50 masterpiece in an $80 industry. Cost Quality](https://dev.to/gg_news/50-masterpiece-in-an-80-industry-cost-quality-23mi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
