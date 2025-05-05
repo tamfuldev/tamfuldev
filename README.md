@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Basics of Stack, Heap, memory management, VM &amp; JVM](https://dev.to/ssd/basics-of-stack-heap-memory-management-vm-jvm-1png)
-- [Part 2 of Pattern Matching in Switch - Java](https://dev.to/sowmiya07/part-2-of-pattern-matching-in-switch-java-pno)
-- [Vector Databases: The Secret Sauce for AI-Powered Search &lpar;That Won&#39;t Make Your Brain Explode&rpar;](https://dev.to/sakethkowtha/vector-databases-the-secret-sauce-for-ai-powered-search-that-wont-make-your-brain-explode-4147)
-- [Dev Diary #1 – Google Agent Development Kit: Lessons I Learned](https://dev.to/protsenko/dev-diary-1-google-agent-development-kit-lessons-i-learned-16mi)
-- [API Testing Essentials: What Every QA Engineer Should Know](https://dev.to/shubham-theqa/api-testing-essentials-what-every-qa-engineer-should-know-ei8)
+- [Marketplace de Drupal](https://dev.to/oskar_calvo_1615a9b3b293f/marketplace-de-drupal-22ac)
+- [Validasi di Frontend dan Backend: Kenapa Harus Dua-duanya?](https://dev.to/thecrudify/validasi-di-frontend-dan-backend-kenapa-harus-dua-duanya-2f05)
+- [Bring third-party incidents into Better Stack](https://dev.to/isdown/bring-third-party-incidents-into-better-stack-54oa)
+- [What’s Really Running in MySQL? Use SHOW PROCESSLIST to Find Out](https://dev.to/drupaladmin/whats-really-running-in-mysql-use-show-processlist-to-find-out-2f7l)
+- [How to Fix TS1259 Error in Next.js with Express and TypeScript?](https://dev.to/generatecodedev/how-to-fix-ts1259-error-in-nextjs-with-express-and-typescript-49bc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
