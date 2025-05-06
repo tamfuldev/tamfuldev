@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Convert a PHP Array to Database Tables with IDs?](https://dev.to/generatecodedev/how-to-convert-a-php-array-to-database-tables-with-ids-2bn4)
-- [How To Create a Responsive Top Navigation Bar with Left-aligned and Right-aligned Hyperlinks](https://dev.to/chrys/how-to-create-a-responsive-top-navigation-bar-with-left-aligned-and-right-aligned-hyperlinks-1n4m)
-- [An Introduction to TypeScript for JavaScript Developers](https://dev.to/media_geneous_bb80d6b5563/an-introduction-to-typescript-for-javascript-developers-43mm)
-- [Building Smarter Dashboards: Improve Power BI Copilot Accuracy with Semantic Models and Metadata](https://dev.to/harsh9410/building-smarter-dashboards-improve-power-bi-copilot-accuracy-with-semantic-models-and-metadata-2a03)
-- [Maratona de Testes Automatizados — Step 0: Fundamentos, Importância e a Pirâmide de Testes](https://dev.to/diegobrandao/maratona-de-testes-automatizados-step-0-fundamentos-importancia-e-a-piramide-de-testes-3i6n)
+- [How to Fix Capybara-Webkit Installation Errors on Ubuntu?](https://dev.to/generatecodedev/how-to-fix-capybara-webkit-installation-errors-on-ubuntu-6n6)
+- [Components structure in &#39;/apps&#39; route in open source ACI.dev platform.](https://dev.to/ramunarasinga-11/components-structure-in-apps-route-in-open-source-acidev-platform-1jd9)
+- [🎉 Introducing AHA! – Tavrn’s Spotlight for Amazing Communities](https://dev.to/tavrn/introducing-aha-tavrns-spotlight-for-amazing-communities-13jo)
+- [Suna AI: Open-Source General Software: Cost and Deployment Tutorial🔥](https://dev.to/fallon_jimmy/suna-ai-open-source-general-software-cost-and-deployment-tutorial-3bk9)
+- [How to Fix Rust Borrowed Data Escaping Error in Debug](https://dev.to/generatecodedev/how-to-fix-rust-borrowed-data-escaping-error-in-debug-3p1c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
