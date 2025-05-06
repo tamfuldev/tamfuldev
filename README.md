@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Code Review Exercises That Actually Work: Java Edition &lpar;Junior to Senior&rpar;](https://dev.to/iamibi/code-review-exercises-that-actually-work-java-edition-junior-to-senior-2lp1)
-- [Beyond DORA: Redefining DevOps Metrics in the Age of AI](https://dev.to/pullflow/beyond-dora-redefining-devops-metrics-in-the-age-of-ai-4n90)
-- [I just published a tutorial on parallel LLM calls: https://dev.to/zachary62/parallel-llm-calls-from-scratch-tutorial-for-dummies-using-pocketflow-1972](https://dev.to/zachary62/i-just-published-a-tutorial-on-parallel-llm-calls-10ki)
-- [DataWeave Functions in MuleSoft: A Complete Guide](https://dev.to/kapusto/dataweave-functions-in-mulesoft-a-complete-guide-8ip)
-- [SSM Session Manager: Secure and Seamless EC2 Access Without SSH](https://dev.to/mazharhuda/ssm-session-manager-secure-and-seamless-ec2-access-without-ssh-1efe)
+- [Scrimba &#39;Learn JavaScript&#39; Journey](https://dev.to/sharondavidhub/scrimba-learn-javascript-journey-32io)
+- [Day 13/ 30 Days of Linux Mastery: Task Automation with Cron](https://dev.to/amandaigwe/day-13-30-days-of-linux-mastery-task-automation-with-cron-np8)
+- [How I Built an AI-Powered Medical Diagnostic Tool](https://dev.to/ratan_3511/how-i-built-an-ai-powered-medical-diagnostic-tool-11pi)
+- [Getting Started with minikube for Kubernetes](https://dev.to/hridyeshbisht/getting-started-with-minikube-for-kubernetes-40a6)
+- [Open Source Developer Fundraising: Importance and Methods – A Deep Dive](https://dev.to/ashucommits/open-source-developer-fundraising-importance-and-methods-a-deep-dive-1n67)
 <!-- BLOG-POST-LIST:END -->
 
 ---
