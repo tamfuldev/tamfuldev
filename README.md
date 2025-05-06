@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI](https://dev.to/hpthang88/ai-254o)
-- [If You Think MCP Is Just a Tool Registry, You’re Missing the Point](https://dev.to/seuros/if-you-think-mcp-is-just-a-tool-registry-youre-missing-the-point-5982)
-- [Hair Loss Isn’t Just Physical — Here’s How a Hair Transplant Can Heal You Inside Out](https://dev.to/singhai_udhyog_8ca18884c6/hair-loss-isnt-just-physical-heres-how-a-hair-transplant-can-heal-you-inside-out-4gdm)
-- [NVIDIA CUDA Toolkit 12.8](https://dev.to/synabreu/nvidia-cuda-toolkit-128-58ch)
-- [🚀 Something Powerful is Coming… Introducing Blaze™ Studio 🔥](https://dev.to/fss-bhaveshg/something-powerful-is-coming-introducing-blaze-studio-54p2)
+- [Decentralized AI: The Blueprint for a Safer, Smarter, and More Sovereign Future](https://dev.to/malok/decentralized-ai-the-blueprint-for-a-safer-smarter-and-more-sovereign-future-3idp)
+- [Categorizing Markdown Files for a Scalable Knowledge Base](https://dev.to/hexshift/categorizing-markdown-files-for-a-scalable-knowledge-base-2g4m)
+- [Why Does My Jetpack Compose APK Crash with NoSuchMethodError?](https://dev.to/generatecodedev/why-does-my-jetpack-compose-apk-crash-with-nosuchmethoderror-1dm2)
+- [The Hallmark of Great Developers: Writing Simple Code](https://dev.to/wraith/the-hallmark-of-great-developers-writing-simple-code-32od)
+- [Adding Search to Your Markdown Knowledge Base Without a Backend](https://dev.to/hexshift/adding-search-to-your-markdown-knowledge-base-without-a-backend-35pc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
