@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Scrimba &#39;Learn JavaScript&#39; Journey](https://dev.to/sharondavidhub/scrimba-learn-javascript-journey-32io)
-- [Day 13/ 30 Days of Linux Mastery: Task Automation with Cron](https://dev.to/amandaigwe/day-13-30-days-of-linux-mastery-task-automation-with-cron-np8)
-- [How I Built an AI-Powered Medical Diagnostic Tool](https://dev.to/ratan_3511/how-i-built-an-ai-powered-medical-diagnostic-tool-11pi)
-- [Getting Started with minikube for Kubernetes](https://dev.to/hridyeshbisht/getting-started-with-minikube-for-kubernetes-40a6)
-- [Open Source Developer Fundraising: Importance and Methods – A Deep Dive](https://dev.to/ashucommits/open-source-developer-fundraising-importance-and-methods-a-deep-dive-1n67)
+- [Leading with Conviction, Listening with an Open Mind](https://dev.to/mtorun/leading-with-conviction-listening-with-an-open-mind-1cm4)
+- [Unlocking Potential: The Benefits and Challenges of Open Source Developer Patronage](https://dev.to/vitalisorenko/unlocking-potential-the-benefits-and-challenges-of-open-source-developer-patronage-2h2j)
+- [Teste md legal](https://dev.to/piluvitu/teste-md-legal-43da)
+- [How to Prevent Intruders with IoT-Connected Vinyl Fencing](https://dev.to/giovany_osorio_707759bc6b/how-to-prevent-intruders-with-iot-connected-vinyl-fencing-4bn8)
+- [Read CSV files in Common Lisp &lpar;cl-csv, data-table&rpar;](https://dev.to/vindarel/read-csv-files-in-common-lisp-cl-csv-data-table-3c9n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
