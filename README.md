@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Q Developer &quot;Quack The Code&quot; Challenge: NL TaskLogger with Ollama](https://dev.to/irtazaali/amazon-q-developer-quack-the-code-challenge-nl-tasklogger-with-ollama-186l)
-- [A versatile tool for previewing and fine-tuning AI-generated frontend code -- CodeFlux](https://dev.to/blaze_liu_18baba431fa8752/a-versatile-tool-for-previewing-and-fine-tuning-ai-generated-frontend-code-codeflux-4a15)
-- [Backend Development Demystified: From Structure to Real-Life APIs](https://dev.to/kartikshukla17/backend-development-demystified-from-structure-to-real-life-apis-42ba)
-- [Intro to Calypso](https://dev.to/dyfet/intro-to-calypso-221c)
-- [How to Ensure &#39;set +x&#39; is Called After a Bash Function?](https://dev.to/generatecodedev/how-to-ensure-set-x-is-called-after-a-bash-function-159d)
+- [How to Convert a PHP Array to Database Tables with IDs?](https://dev.to/generatecodedev/how-to-convert-a-php-array-to-database-tables-with-ids-2bn4)
+- [How To Create a Responsive Top Navigation Bar with Left-aligned and Right-aligned Hyperlinks](https://dev.to/chrys/how-to-create-a-responsive-top-navigation-bar-with-left-aligned-and-right-aligned-hyperlinks-1n4m)
+- [An Introduction to TypeScript for JavaScript Developers](https://dev.to/media_geneous_bb80d6b5563/an-introduction-to-typescript-for-javascript-developers-43mm)
+- [Building Smarter Dashboards: Improve Power BI Copilot Accuracy with Semantic Models and Metadata](https://dev.to/harsh9410/building-smarter-dashboards-improve-power-bi-copilot-accuracy-with-semantic-models-and-metadata-2a03)
+- [Maratona de Testes Automatizados — Step 0: Fundamentos, Importância e a Pirâmide de Testes](https://dev.to/diegobrandao/maratona-de-testes-automatizados-step-0-fundamentos-importancia-e-a-piramide-de-testes-3i6n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
