@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Catalysis Today: Progress, Purpose, and the Future of Shared Security](https://dev.to/dhis_is_jj/catalysis-today-progress-purpose-and-the-future-of-shared-security-353b)
-- [The Magic of Spring Boot’s Inversion of Control &lpar;IoC&rpar;](https://dev.to/wittedtech-by-harshit/the-magic-of-spring-boots-inversion-of-control-ioc-361j)
-- [SQL Query Optimization for Data Engineers](https://dev.to/uendi_hoxha/sql-query-optimization-for-data-engineers-35ld)
-- [🏦 Building a Bank Admin Management System with Angular](https://dev.to/vivek_dudhatra/building-a-bank-admin-management-system-with-angular-2bdm)
-- [How to Fix LoadError When Requiring Screen Base Gem in Ruby?](https://dev.to/generatecodedev/how-to-fix-loaderror-when-requiring-screen-base-gem-in-ruby-1pom)
+- [5 Projects That Will Actually Make You Better at Docker](https://dev.to/code42cate/5-projects-that-will-actually-make-you-better-at-docker-5108)
+- [Part 3: Protecting Routes and Security](https://dev.to/jais_mukesh/part-3-protecting-routes-and-security-54pk)
+- [Common Issues Identified In DMARC Reports And How To Resolve Them](https://dev.to/joywinter90/common-issues-identified-in-dmarc-reports-and-how-to-resolve-them-4jia)
+- [Solving TryHackMe&#39;s &quot;Brains&quot; Room: A complete Walktrough](https://dev.to/shadownet0110/solving-tryhackmes-brains-room-a-complete-walktrough-6cp)
+- [The Rise of Web3: A Tech Leader&#39;s Perspective](https://dev.to/klimd1389/the-rise-of-web3-a-tech-leaders-perspective-3cc7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
