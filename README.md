@@ -16,7 +16,7 @@
 # Latest stack oveflow activity
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><tr><td>Email dashboard with codeigniter4</td><td>https://stackoverflow.com/questions/79608549/email-dashboard-with-codeigniter4</td></tr><tr><td>Read xml from url [duplicate]</td><td>https://stackoverflow.com/questions/79608536/read-xml-from-url</td></tr><tr><td>Preprocessing function never called</td><td>https://stackoverflow.com/questions/79608354/preprocessing-function-never-called</td></tr><tr><td>PHP Call to undefined function $name = call_user_func [closed]</td><td>https://stackoverflow.com/questions/79608320/php-call-to-undefined-function-name-call-user-func</td></tr><tr><td>How to set OCI 8 in Servbayy PHP</td><td>https://stackoverflow.com/questions/79608241/how-to-set-oci-8-in-servbayy-php</td></tr><!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:START --><tr><td>PHP target _blank issue [closed]</td><td>https://stackoverflow.com/questions/79608647/php-target-blank-issue</td></tr><tr><td>Email dashboard with codeigniter4</td><td>https://stackoverflow.com/questions/79608549/email-dashboard-with-codeigniter4</td></tr><tr><td>Read xml from url [duplicate]</td><td>https://stackoverflow.com/questions/79608536/read-xml-from-url</td></tr><tr><td>Preprocessing function never called</td><td>https://stackoverflow.com/questions/79608354/preprocessing-function-never-called</td></tr><tr><td>PHP Call to undefined function $name = call_user_func [closed]</td><td>https://stackoverflow.com/questions/79608320/php-call-to-undefined-function-name-call-user-func</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 
 ---
