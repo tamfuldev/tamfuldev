@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [5 Projects That Will Actually Make You Better at Docker](https://dev.to/code42cate/5-projects-that-will-actually-make-you-better-at-docker-5108)
-- [Part 3: Protecting Routes and Security](https://dev.to/jais_mukesh/part-3-protecting-routes-and-security-54pk)
-- [Common Issues Identified In DMARC Reports And How To Resolve Them](https://dev.to/joywinter90/common-issues-identified-in-dmarc-reports-and-how-to-resolve-them-4jia)
-- [Solving TryHackMe&#39;s &quot;Brains&quot; Room: A complete Walktrough](https://dev.to/shadownet0110/solving-tryhackmes-brains-room-a-complete-walktrough-6cp)
-- [The Rise of Web3: A Tech Leader&#39;s Perspective](https://dev.to/klimd1389/the-rise-of-web3-a-tech-leaders-perspective-3cc7)
+- [AI](https://dev.to/hpthang88/ai-254o)
+- [If You Think MCP Is Just a Tool Registry, You’re Missing the Point](https://dev.to/seuros/if-you-think-mcp-is-just-a-tool-registry-youre-missing-the-point-5982)
+- [Hair Loss Isn’t Just Physical — Here’s How a Hair Transplant Can Heal You Inside Out](https://dev.to/singhai_udhyog_8ca18884c6/hair-loss-isnt-just-physical-heres-how-a-hair-transplant-can-heal-you-inside-out-4gdm)
+- [NVIDIA CUDA Toolkit 12.8](https://dev.to/synabreu/nvidia-cuda-toolkit-128-58ch)
+- [🚀 Something Powerful is Coming… Introducing Blaze™ Studio 🔥](https://dev.to/fss-bhaveshg/something-powerful-is-coming-introducing-blaze-studio-54p2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
