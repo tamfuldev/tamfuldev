@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix Empty Secrets in Azure DevOps Pipeline for .NET 8](https://dev.to/generatecodedev/how-to-fix-empty-secrets-in-azure-devops-pipeline-for-net-8-587b)
-- [Why Engineering Teams Should Build Their Own AI Coding Agents](https://dev.to/ch_wood/why-engineering-teams-should-build-their-own-ai-coding-agents-2bl8)
-- [The code review chaos we faced with GitLab &lpar;and what we tried to fix it&rpar;](https://dev.to/thetwentyfive/the-code-review-chaos-we-faced-with-gitlab-and-what-we-tried-to-fix-it-3gl7)
-- [How to Replace Empty Anchor Tags with IDs in HTML Files?](https://dev.to/generatecodedev/how-to-replace-empty-anchor-tags-with-ids-in-html-files-fhg)
-- [Highly recommended, brilliant writings.](https://dev.to/manwar/highly-recommended-brilliant-writings-51j)
+- [Amazon Q Developer &quot;Quack The Code&quot; Challenge: NL TaskLogger with Ollama](https://dev.to/irtazaali/amazon-q-developer-quack-the-code-challenge-nl-tasklogger-with-ollama-186l)
+- [A versatile tool for previewing and fine-tuning AI-generated frontend code -- CodeFlux](https://dev.to/blaze_liu_18baba431fa8752/a-versatile-tool-for-previewing-and-fine-tuning-ai-generated-frontend-code-codeflux-4a15)
+- [Backend Development Demystified: From Structure to Real-Life APIs](https://dev.to/kartikshukla17/backend-development-demystified-from-structure-to-real-life-apis-42ba)
+- [Intro to Calypso](https://dev.to/dyfet/intro-to-calypso-221c)
+- [How to Ensure &#39;set +x&#39; is Called After a Bash Function?](https://dev.to/generatecodedev/how-to-ensure-set-x-is-called-after-a-bash-function-159d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
