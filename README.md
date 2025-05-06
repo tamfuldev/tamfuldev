@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Is the AWS Advanced Networking Worth It?](https://dev.to/skillboosttrainer/is-the-aws-advanced-networking-worth-it-5hdl)
-- [What is Tailgating?](https://dev.to/clouddefenseai/what-is-tailgating-1kd2)
-- [How to Use n8n with CometAPI](https://dev.to/_37bbf0c253c0b3edec531e/how-to-use-n8n-with-cometapi-bcd)
-- [schema-env v2.1: Now with Pluggable Validation Adapters &lpar;Joi, Yup, Your Own!&rpar;](https://dev.to/devvictrix/schema-env-v21-now-with-pluggable-validation-adapters-joi-yup-your-own-2663)
-- [How GPT-Image‑1 Works: A Deep Dive](https://dev.to/_37bbf0c253c0b3edec531e/how-gpt-image-1-works-a-deep-dive-4nf2)
+- [Code Review Exercises That Actually Work: Java Edition &lpar;Junior to Senior&rpar;](https://dev.to/iamibi/code-review-exercises-that-actually-work-java-edition-junior-to-senior-2lp1)
+- [Beyond DORA: Redefining DevOps Metrics in the Age of AI](https://dev.to/pullflow/beyond-dora-redefining-devops-metrics-in-the-age-of-ai-4n90)
+- [I just published a tutorial on parallel LLM calls: https://dev.to/zachary62/parallel-llm-calls-from-scratch-tutorial-for-dummies-using-pocketflow-1972](https://dev.to/zachary62/i-just-published-a-tutorial-on-parallel-llm-calls-10ki)
+- [DataWeave Functions in MuleSoft: A Complete Guide](https://dev.to/kapusto/dataweave-functions-in-mulesoft-a-complete-guide-8ip)
+- [SSM Session Manager: Secure and Seamless EC2 Access Without SSH](https://dev.to/mazharhuda/ssm-session-manager-secure-and-seamless-ec2-access-without-ssh-1efe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
