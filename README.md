@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Mobile Phone Schematic Diagrams: A Beginner’s Guide](https://dev.to/borhan_salehi_bc82a16bbe6/getting-started-with-mobile-phone-schematic-diagrams-a-beginners-guide-4oe4)
-- [How to Write a SELECT SQL Query for Oracle 19c Groups?](https://dev.to/generatecodedev/how-to-write-a-select-sql-query-for-oracle-19c-groups-3m31)
-- [Coding Challenge Practice -Question 2](https://dev.to/tomivan/coding-challenge-practice-question-2-1p4c)
-- [FitVision - devlog #3](https://dev.to/ceir/fitvision-devlog-3-3d69)
-- [Moonbirds and Indie Hacking in the NFT Ecosystem](https://dev.to/vitalisorenko/moonbirds-and-indie-hacking-in-the-nft-ecosystem-14n)
+- [How to Fix Empty Secrets in Azure DevOps Pipeline for .NET 8](https://dev.to/generatecodedev/how-to-fix-empty-secrets-in-azure-devops-pipeline-for-net-8-587b)
+- [Why Engineering Teams Should Build Their Own AI Coding Agents](https://dev.to/ch_wood/why-engineering-teams-should-build-their-own-ai-coding-agents-2bl8)
+- [The code review chaos we faced with GitLab &lpar;and what we tried to fix it&rpar;](https://dev.to/thetwentyfive/the-code-review-chaos-we-faced-with-gitlab-and-what-we-tried-to-fix-it-3gl7)
+- [How to Replace Empty Anchor Tags with IDs in HTML Files?](https://dev.to/generatecodedev/how-to-replace-empty-anchor-tags-with-ids-in-html-files-fhg)
+- [Highly recommended, brilliant writings.](https://dev.to/manwar/highly-recommended-brilliant-writings-51j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
