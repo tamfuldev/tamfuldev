@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Setup Blinko Notes with Ollama](https://dev.to/blacknight318/setup-blinko-notes-with-ollama-5h7)
-- [Why AI’s Future Rests on Human Partnership](https://dev.to/rawveg/why-ais-future-rests-on-human-partnership-12fe)
-- [Como ler scripts SQL Server grandes com Python](https://dev.to/rodrigozan/como-ler-scripts-sql-server-grandes-com-python-3mhg)
-- [Do Not Build Without Reading This](https://dev.to/scofieldidehen/do-not-build-without-reading-this-b59)
-- [Empowering Community-Driven Projects: The Power of Open Source Funding Workshops](https://dev.to/zhangwei42/empowering-community-driven-projects-the-power-of-open-source-funding-workshops-o05)
+- [The Deglobalization and Fragmentation of the Cloud](https://dev.to/code42cate/the-deglobalization-and-fragmentation-of-the-cloud-3p93)
+- [How to Efficiently Use SpamAssassin&#39;s sa-learn with Bash?](https://dev.to/generatecodedev/how-to-efficiently-use-spamassassins-sa-learn-with-bash-1j98)
+- [BoldSign June 2024: Discover the Latest Updates and Features](https://dev.to/boldsign/boldsign-june-2024-discover-the-latest-updates-and-features-12o3)
+- [Mastering JavaScript: A Deep Dive into Browser APIs and Advanced Patterns](https://dev.to/code_2/mastering-javascript-a-deep-dive-into-browser-apis-and-advanced-patterns-35i3)
+- [What is DevOps as a Service: Definition and Evolution](https://dev.to/artyom_mukhopad_a9444ed6d/what-is-devops-as-a-service-definition-and-evolution-g15)
 <!-- BLOG-POST-LIST:END -->
 
 ---
