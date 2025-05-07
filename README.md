@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Learning Swift: The Basics of iOS Development](https://dev.to/media_geneous_bb80d6b5563/learning-swift-the-basics-of-ios-development-1mpp)
-- [Variable assignment in Python &lpar;2&rpar;](https://dev.to/hyperkai/variable-assignment-in-python-2-1if9)
-- [How to Create a Vertical Navigation Menu for Smartphones and Tablets Using CSS and JavaScript](https://dev.to/chrys/how-to-create-a-vertical-navigation-menu-for-smartphones-and-tablets-using-css-and-javascript-2dnm)
-- [Cloud vendor lock-in! How much should I be scared of? 😱](https://dev.to/pooyan/cloud-vendor-lock-in-how-much-should-i-be-scared-of-2a8b)
-- [How to Fix Java JAR &#39;No Main Manifest Attribute&#39; Error?](https://dev.to/generatecodedev/how-to-fix-java-jar-no-main-manifest-attribute-error-4dci)
+- [You Don&#39;t Need Markdown to Blog—But It Makes It Easier](https://dev.to/canro91/you-dont-need-markdown-to-blog-but-it-makes-it-easier-5255)
+- [Power Up Your Playtime: Jollibee Just Launched GameJoy Combos and They&#39;re a Gamer’s Dream Come True! 🎮🍔](https://dev.to/kakacomputer-media/power-up-your-playtime-jollibee-just-launched-gamejoy-combos-and-theyre-a-gamers-dream-come-10jf)
+- [How to configure and customize the Go SDK for Azure Cosmos DB](https://dev.to/abhirockzz/how-to-configure-and-customize-the-go-sdk-for-azure-cosmos-db-97a)
+- [A Recipe for Success: Cooking Up Repeatable Agentic Workflows](https://dev.to/blockopensource/a-recipe-for-success-cooking-up-repeatable-agentic-workflows-48m2)
+- [Educational Credentials in the Digital Age: Ensuring Authenticity and Portability](https://dev.to/victoruzo/educational-credentials-in-the-digital-age-ensuring-authenticity-and-portability-1b6b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
