@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [📘 Building My Resume from Scratch Using HTML – A Practical Learning Experience](https://dev.to/tamilselvan1812/building-my-resume-from-scratch-using-html-a-practical-learning-experience-3h27)
-- [Regular Expression](https://dev.to/vids18/regular-expression-597)
-- [[Boost]](https://dev.to/picolt/-45o)
-- [How to Fix &#39;externally-managed-environment&#39; Error in Python?](https://dev.to/generatecodedev/how-to-fix-externally-managed-environment-error-in-python-1947)
-- [Tired of JavaScript? Here is WebAssembly Tutorial!](https://dev.to/picolt/tired-of-javascript-here-is-webassembly-tutorial-1pch)
+- [Under the hood: What can you learn by building an HTTP Server from scratch?](https://dev.to/aghyad/under-the-hood-what-can-you-learn-by-building-an-http-server-from-scratch-1lkk)
+- [Misconfigured S3 Buckets: Detect and Remediate with AWS Config + Lambda](https://dev.to/francotel/misconfigured-s3-buckets-detect-and-remediate-with-aws-config-lambda-11p)
+- [Matrix in Python](https://dev.to/ciamuthama/matrix-in-python-5l4)
+- [Famed AI researcher launches controversial startup to replace all human workers everywhere](https://dev.to/future_ai/famed-ai-researcher-launches-controversial-startup-to-replace-all-human-workers-everywhere-22ng)
+- [Filament Render Hooks: example with authentication pages](https://dev.to/filamentmastery/filament-render-hooks-example-with-authentication-pages-4b0m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
