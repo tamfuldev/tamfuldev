@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What Would Rust Be Without Cargo? A Beautiful Disaster](https://dev.to/francescobianco/what-would-rust-be-without-cargo-a-beautiful-disaster-1o1o)
-- [Kotlin + gRPC: Tooling, CI/CD, and Architectural Practices](https://dev.to/lucasfugisawa/kotlin-grpc-tooling-cicd-and-architectural-practices-4a2k)
-- [E-Learning Software Development](https://dev.to/souhaillaghchimdev/e-learning-software-development-3cph)
-- [Deep Learning and Its Programming Applications](https://dev.to/souhaillaghchimdev/deep-learning-and-its-programming-applications-293e)
-- [🧠 AI, Neural Networks &amp; CNNs — Explained Like You’re 5 &lpar;But Smarter&rpar;](https://dev.to/itsaryanchauhan/ai-neural-networks-cnns-explained-like-youre-5-but-smarter-196k)
+- [How to Prevent CSS Hover State Flicker on Button Release?](https://dev.to/generatecodedev/how-to-prevent-css-hover-state-flicker-on-button-release-32i4)
+- [Mobile UI Design](https://dev.to/souhaillaghchimdev/mobile-ui-design-3hmo)
+- [Digital Marketing Application Programming](https://dev.to/souhaillaghchimdev/digital-marketing-application-programming-2fai)
+- [Game AI Programming](https://dev.to/souhaillaghchimdev/game-ai-programming-3kbi)
+- [Audio and Music Application Development](https://dev.to/souhaillaghchimdev/audio-and-music-application-development-57do)
 <!-- BLOG-POST-LIST:END -->
 
 ---
