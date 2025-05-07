@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Clamp: Tools That Make Fluid Design Effortless](https://dev.to/prabashri/css-clamp-tools-that-make-fluid-design-effortless-327c)
-- [Installing AWS CLI v2 on WSL &lpar;Ubuntu&rpar;](https://dev.to/pu-lazydev/installing-aws-cli-v2-on-wsl-ubuntu-plg)
-- [MVVM Directory Structure for Point of Sale &lpar;POS&rpar; System](https://dev.to/pheak_pheasa/mvvm-directory-structure-for-point-of-sale-pos-system-552)
-- [MVVM Directory Structure for Point of Sale &lpar;POS&rpar; System](https://dev.to/pheak_pheasa/mvvm-directory-structure-for-point-of-sale-pos-system-2e1)
-- [🚀 12+ Must-Have Free JSON APIs for Developers in 2025](https://dev.to/aquascript/12-must-have-free-json-apis-for-developers-in-2025-11b0)
+- [Learning Swift: The Basics of iOS Development](https://dev.to/media_geneous_bb80d6b5563/learning-swift-the-basics-of-ios-development-1mpp)
+- [Variable assignment in Python &lpar;2&rpar;](https://dev.to/hyperkai/variable-assignment-in-python-2-1if9)
+- [How to Create a Vertical Navigation Menu for Smartphones and Tablets Using CSS and JavaScript](https://dev.to/chrys/how-to-create-a-vertical-navigation-menu-for-smartphones-and-tablets-using-css-and-javascript-2dnm)
+- [Cloud vendor lock-in! How much should I be scared of? 😱](https://dev.to/pooyan/cloud-vendor-lock-in-how-much-should-i-be-scared-of-2a8b)
+- [How to Fix Java JAR &#39;No Main Manifest Attribute&#39; Error?](https://dev.to/generatecodedev/how-to-fix-java-jar-no-main-manifest-attribute-error-4dci)
 <!-- BLOG-POST-LIST:END -->
 
 ---
