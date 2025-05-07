@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Screen Orientation API for Responsive Design](https://dev.to/omriluz1/screen-orientation-api-for-responsive-design-3oop)
-- [ImageVault: A Full-Stack Image Upload &amp; Gallery App Built with MERN and Tailwind](https://dev.to/adesh_mishra_07/imagevault-a-full-stack-image-upload-gallery-app-built-with-mern-and-tailwind-2cin)
-- [A Developer&#39;s Guide to Kubernetes Components](https://dev.to/hridyeshbisht/a-developers-guide-to-kubernetes-components-222g)
-- [Dockerize a Node.js Application for Efficient Deployment](https://dev.to/dera2024/dockerize-a-nodejs-application-for-efficient-deployment-3lfa)
-- [Combatting Rising Cyber Threats: Leveraging Large Model Capabilities for Vulnerability Detection](https://dev.to/tencent_cloudedgeone/combatting-rising-cyber-threats-leveraging-large-model-capabilities-for-vulnerability-detection-4o30)
+- [If You’re Not Watching Catalysis Yet… You Will Be](https://dev.to/dhis_is_jj/if-youre-not-watching-catalysis-yet-you-will-be-2inj)
+- [How to Fix Google OAuth Error 403 User Agent Issue on iPhone?](https://dev.to/generatecodedev/how-to-fix-google-oauth-error-403-user-agent-issue-on-iphone-2bn1)
+- [Why I Prefer Go Over Node.js for Backend Development](https://dev.to/antmusumba/why-i-prefer-go-over-nodejs-for-backend-development-ipp)
+- [Delta Executor: Mobile-First Roblox Script Execution](https://dev.to/deltadevs/delta-executor-mobile-first-roblox-script-execution-5c7)
+- [When “More” Isn’t Better — A Note from a Senior Engineering Manager](https://dev.to/diamantino_almeida/when-more-isnt-better-a-note-from-a-senior-engineering-manager-47je)
 <!-- BLOG-POST-LIST:END -->
 
 ---
