@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Terraform depends_on: What it is, When to use it, and Best Practices](https://dev.to/techielass/terraform-dependson-what-it-is-when-to-use-it-and-best-practices-5ene)
-- [Skip the Pixel Pushing: Build Stunning UIs in DronaHQ with Figma + AI](https://dev.to/shib_itsme/skip-the-pixel-pushing-build-stunning-uis-in-dronahq-with-figma-ai-1a21)
-- [Installing Go &lpar;Golang&rpar; on WSL Ubuntu](https://dev.to/pu-lazydev/installing-go-golang-on-wsl-ubuntu-18b7)
-- [Machine Learning: A Quick Intro to different types of ML](https://dev.to/satyam_gupta/machine-learning-a-quick-intro-to-different-types-of-ml-5gme)
-- [How to Implement Context-Aware AI Responses in Your Chat App](https://dev.to/getstreamhq/how-to-implement-context-aware-ai-responses-in-your-chat-app-902)
+- [Screen Orientation API for Responsive Design](https://dev.to/omriluz1/screen-orientation-api-for-responsive-design-3oop)
+- [ImageVault: A Full-Stack Image Upload &amp; Gallery App Built with MERN and Tailwind](https://dev.to/adesh_mishra_07/imagevault-a-full-stack-image-upload-gallery-app-built-with-mern-and-tailwind-2cin)
+- [A Developer&#39;s Guide to Kubernetes Components](https://dev.to/hridyeshbisht/a-developers-guide-to-kubernetes-components-222g)
+- [Dockerize a Node.js Application for Efficient Deployment](https://dev.to/dera2024/dockerize-a-nodejs-application-for-efficient-deployment-3lfa)
+- [Combatting Rising Cyber Threats: Leveraging Large Model Capabilities for Vulnerability Detection](https://dev.to/tencent_cloudedgeone/combatting-rising-cyber-threats-leveraging-large-model-capabilities-for-vulnerability-detection-4o30)
 <!-- BLOG-POST-LIST:END -->
 
 ---
