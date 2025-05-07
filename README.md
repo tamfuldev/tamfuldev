@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fetch Aggregated Measurement Data with Eloquent?](https://dev.to/generatecodedev/how-to-fetch-aggregated-measurement-data-with-eloquent-32gf)
-- [10 Essential Developer Principles for Writing Clean and Maintainable Code](https://dev.to/saif_uddin/10-essential-developer-principles-for-writing-clean-and-maintainable-code-3836)
-- [Blockchain for Charity and Non-Profits: Revolutionizing Social Impact through Transparency and Open Source Innovation](https://dev.to/vitalisorenko/blockchain-for-charity-and-non-profits-revolutionizing-social-impact-through-transparency-and-open-1c7m)
-- [Adding Dynamic Lighting Effects with SVG Filters](https://dev.to/hexshift/adding-dynamic-lighting-effects-with-svg-filters-1jj6)
-- [Getting Started with SVG Filters: A Visual Playground in Code](https://dev.to/hexshift/getting-started-with-svg-filters-a-visual-playground-in-code-24gn)
+- [CSS Clamp: Tools That Make Fluid Design Effortless](https://dev.to/prabashri/css-clamp-tools-that-make-fluid-design-effortless-327c)
+- [Installing AWS CLI v2 on WSL &lpar;Ubuntu&rpar;](https://dev.to/pu-lazydev/installing-aws-cli-v2-on-wsl-ubuntu-plg)
+- [MVVM Directory Structure for Point of Sale &lpar;POS&rpar; System](https://dev.to/pheak_pheasa/mvvm-directory-structure-for-point-of-sale-pos-system-552)
+- [MVVM Directory Structure for Point of Sale &lpar;POS&rpar; System](https://dev.to/pheak_pheasa/mvvm-directory-structure-for-point-of-sale-pos-system-2e1)
+- [🚀 12+ Must-Have Free JSON APIs for Developers in 2025](https://dev.to/aquascript/12-must-have-free-json-apis-for-developers-in-2025-11b0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
