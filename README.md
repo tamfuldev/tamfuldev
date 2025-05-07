@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Under the hood: What can you learn by building an HTTP Server from scratch?](https://dev.to/aghyad/under-the-hood-what-can-you-learn-by-building-an-http-server-from-scratch-1lkk)
-- [Misconfigured S3 Buckets: Detect and Remediate with AWS Config + Lambda](https://dev.to/francotel/misconfigured-s3-buckets-detect-and-remediate-with-aws-config-lambda-11p)
-- [Matrix in Python](https://dev.to/ciamuthama/matrix-in-python-5l4)
-- [Famed AI researcher launches controversial startup to replace all human workers everywhere](https://dev.to/future_ai/famed-ai-researcher-launches-controversial-startup-to-replace-all-human-workers-everywhere-22ng)
-- [Filament Render Hooks: example with authentication pages](https://dev.to/filamentmastery/filament-render-hooks-example-with-authentication-pages-4b0m)
+- [Implementing xor value swap without third variable in C](https://dev.to/ceir/implementing-xor-value-swap-without-third-variable-in-c-1aag)
+- [[Boost]](https://dev.to/blurbify/-2pmm)
+- [How to Control Python Version for Brew Pipx Installations?](https://dev.to/generatecodedev/how-to-control-python-version-for-brew-pipx-installations-418p)
+- [How The NEW &lt;selectedcontent&gt; HTML Element Changes Selects Forever](https://dev.to/arnoldgunter/how-the-new-html-element-changes-selects-forever-4p7d)
+- [Exploring Open Source Licensing Models in the Blockchain Era: Merging Innovation with Transparency](https://dev.to/ahmmrizv9/exploring-open-source-licensing-models-in-the-blockchain-era-merging-innovation-with-transparency-p43)
 <!-- BLOG-POST-LIST:END -->
 
 ---
