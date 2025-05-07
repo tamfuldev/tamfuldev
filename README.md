@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Solid Testing Strategies for Salesforce Releases](https://dev.to/johnjvester/solid-testing-strategies-for-salesforce-releases-3662)
-- [Open Source Funding Challenges: Navigating the Path to Sustainability](https://dev.to/kallileiser/open-source-funding-challenges-navigating-the-path-to-sustainability-onh)
-- [How to Resolve Java Compilation Errors in VS Code?](https://dev.to/generatecodedev/how-to-resolve-java-compilation-errors-in-vs-code-4kip)
-- [How Geekbench 6 Multicore Is Broken by Design](https://dev.to/dkechag/how-geekbench-6-multicore-is-broken-by-design-44ig)
-- [Null-Conditional Assignment in C# 14 — Elegance Meets Safety](https://dev.to/cristiansifuentes/null-conditional-assignment-in-c-14-elegance-meets-safety-10fh)
+- [How to Fetch Aggregated Measurement Data with Eloquent?](https://dev.to/generatecodedev/how-to-fetch-aggregated-measurement-data-with-eloquent-32gf)
+- [10 Essential Developer Principles for Writing Clean and Maintainable Code](https://dev.to/saif_uddin/10-essential-developer-principles-for-writing-clean-and-maintainable-code-3836)
+- [Blockchain for Charity and Non-Profits: Revolutionizing Social Impact through Transparency and Open Source Innovation](https://dev.to/vitalisorenko/blockchain-for-charity-and-non-profits-revolutionizing-social-impact-through-transparency-and-open-1c7m)
+- [Adding Dynamic Lighting Effects with SVG Filters](https://dev.to/hexshift/adding-dynamic-lighting-effects-with-svg-filters-1jj6)
+- [Getting Started with SVG Filters: A Visual Playground in Code](https://dev.to/hexshift/getting-started-with-svg-filters-a-visual-playground-in-code-24gn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
