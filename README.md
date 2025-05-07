@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing xor value swap without third variable in C](https://dev.to/ceir/implementing-xor-value-swap-without-third-variable-in-c-1aag)
-- [[Boost]](https://dev.to/blurbify/-2pmm)
-- [How to Control Python Version for Brew Pipx Installations?](https://dev.to/generatecodedev/how-to-control-python-version-for-brew-pipx-installations-418p)
-- [How The NEW &lt;selectedcontent&gt; HTML Element Changes Selects Forever](https://dev.to/arnoldgunter/how-the-new-html-element-changes-selects-forever-4p7d)
-- [Exploring Open Source Licensing Models in the Blockchain Era: Merging Innovation with Transparency](https://dev.to/ahmmrizv9/exploring-open-source-licensing-models-in-the-blockchain-era-merging-innovation-with-transparency-p43)
+- [How to Use a Local Gradle Project in Another Gradle Project?](https://dev.to/generatecodedev/how-to-use-a-local-gradle-project-in-another-gradle-project-4hbd)
+- [Exploring Economic Models for Open Source Projects](https://dev.to/ashucommits/exploring-economic-models-for-open-source-projects-491d)
+- [Balancing Flexibility &amp; Responsibility: The Shift to Openness in Telcos, At What Cost?](https://dev.to/anas_alloush/balancing-flexibility-responsibility-the-shift-to-openness-in-telcos-at-what-cost-3peb)
+- [Frontend Futures: How JavaScript Frameworks Are Shaping Tomorrow’s Web](https://dev.to/arkhan/frontend-futures-how-javascript-frameworks-are-shaping-tomorrows-web-125b)
+- [Stripe Just Became a Merchant of Record](https://dev.to/shayy/stripe-just-became-a-merchant-of-record-phh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
