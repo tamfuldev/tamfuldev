@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Effortlessly Remove Watermarks](https://dev.to/luckyricky/effortlessly-remove-watermarks-amb)
-- [5 Risks of Using Terraform for Azure](https://dev.to/stas_sultanov/5-risks-of-using-terraform-for-azure-1jlp)
-- [Part 1: Getting Started with SafeLine WAF - Installation and Basic Configuration](https://dev.to/sharon_42e16b8da44dabde6d/part-1-getting-started-with-safeline-waf-installation-and-basic-configuration-21eb)
-- [Comparison of esProc SPL and DuckDB in Multi-Data Source Capabilities](https://dev.to/serina_8340/comparison-of-esproc-spl-and-duckdb-in-multi-data-source-capabilities-32op)
-- [[Boost]](https://dev.to/jack3381/-2i93)
+- [Terraform depends_on: What it is, When to use it, and Best Practices](https://dev.to/techielass/terraform-dependson-what-it-is-when-to-use-it-and-best-practices-5ene)
+- [Skip the Pixel Pushing: Build Stunning UIs in DronaHQ with Figma + AI](https://dev.to/shib_itsme/skip-the-pixel-pushing-build-stunning-uis-in-dronahq-with-figma-ai-1a21)
+- [Installing Go &lpar;Golang&rpar; on WSL Ubuntu](https://dev.to/pu-lazydev/installing-go-golang-on-wsl-ubuntu-18b7)
+- [Machine Learning: A Quick Intro to different types of ML](https://dev.to/satyam_gupta/machine-learning-a-quick-intro-to-different-types-of-ml-5gme)
+- [How to Implement Context-Aware AI Responses in Your Chat App](https://dev.to/getstreamhq/how-to-implement-context-aware-ai-responses-in-your-chat-app-902)
 <!-- BLOG-POST-LIST:END -->
 
 ---
