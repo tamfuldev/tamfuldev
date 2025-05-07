@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Deglobalization and Fragmentation of the Cloud](https://dev.to/code42cate/the-deglobalization-and-fragmentation-of-the-cloud-3p93)
-- [How to Efficiently Use SpamAssassin&#39;s sa-learn with Bash?](https://dev.to/generatecodedev/how-to-efficiently-use-spamassassins-sa-learn-with-bash-1j98)
-- [BoldSign June 2024: Discover the Latest Updates and Features](https://dev.to/boldsign/boldsign-june-2024-discover-the-latest-updates-and-features-12o3)
-- [Mastering JavaScript: A Deep Dive into Browser APIs and Advanced Patterns](https://dev.to/code_2/mastering-javascript-a-deep-dive-into-browser-apis-and-advanced-patterns-35i3)
-- [What is DevOps as a Service: Definition and Evolution](https://dev.to/artyom_mukhopad_a9444ed6d/what-is-devops-as-a-service-definition-and-evolution-g15)
+- [Marking tools](https://dev.to/andy124/marking-tools-555j)
+- [Everything You Should Know About Arbitrum: The Ethereum Scaling Giant](https://dev.to/favebs/everything-you-should-know-about-arbitrum-the-ethereum-scaling-giant-2g30)
+- [Setting Up Inter-Region VPC Communication Using AWS Transit Gateway](https://dev.to/aws-builders/setting-up-inter-region-vpc-communication-using-aws-transit-gateway-522m)
+- [The Role of Data Integration in Healthcare Research and Precision Medicine](https://dev.to/blogposting/the-role-of-data-integration-in-healthcare-research-and-precision-medicine-21l4)
+- [How to Fix the &#39;Failed to run config for lsp-zero.nvim&#39; Error in Neovim](https://dev.to/generatecodedev/how-to-fix-the-failed-to-run-config-for-lsp-zeronvim-error-in-neovim-23ie)
 <!-- BLOG-POST-LIST:END -->
 
 ---
