@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Heroes and Villains](https://dev.to/rawveg/beyond-heroes-and-villains-578o)
-- [The Documentation Paradox](https://dev.to/rally_for_jira/the-documentation-paradox-o2b)
-- [Coding Challenge Practice - Question 3](https://dev.to/tomivan/coding-challenge-practice-question-3-25mo)
-- [How to Humanize Strings in C# Like Ruby&#39;s Humanize?](https://dev.to/generatecodedev/how-to-humanize-strings-in-c-like-rubys-humanize-4jke)
-- [How to Set Up a Laravel Project with Docker in 2025?](https://dev.to/cristianalex_17/how-to-set-up-a-laravel-project-with-docker-in-2025-2d5f)
+- [Solid Testing Strategies for Salesforce Releases](https://dev.to/johnjvester/solid-testing-strategies-for-salesforce-releases-3662)
+- [Open Source Funding Challenges: Navigating the Path to Sustainability](https://dev.to/kallileiser/open-source-funding-challenges-navigating-the-path-to-sustainability-onh)
+- [How to Resolve Java Compilation Errors in VS Code?](https://dev.to/generatecodedev/how-to-resolve-java-compilation-errors-in-vs-code-4kip)
+- [How Geekbench 6 Multicore Is Broken by Design](https://dev.to/dkechag/how-geekbench-6-multicore-is-broken-by-design-44ig)
+- [Null-Conditional Assignment in C# 14 — Elegance Meets Safety](https://dev.to/cristiansifuentes/null-conditional-assignment-in-c-14-elegance-meets-safety-10fh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
