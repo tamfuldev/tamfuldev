@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Bungie has motion to dismiss Destiny 2 copyright lawsuit denied over &#39;vaulted&#39; campaign storyline](https://dev.to/gg_news/bungie-has-motion-to-dismiss-destiny-2-copyright-lawsuit-denied-over-vaulted-campaign-storyline-5b97)
-- [EA says Apex Legends revenue will drop 40% this year making it one of the biggest declines in the game’s history](https://dev.to/gg_news/ea-says-apex-legends-revenue-will-drop-40-this-year-making-it-one-of-the-biggest-declines-in-the-2m4)
-- [Newborns living near trees tend to be healthier and new data suggests it’s not because healthier people reside near parks](https://dev.to/future_science/newborns-living-near-trees-tend-to-be-healthier-and-new-data-suggests-its-not-because-healthier-3n27)
-- [&quot;Two-way communication breakdown&quot; Study reveals AI chatbots shouldn&#39;t be relied on for health advice](https://dev.to/future_ai/two-way-communication-breakdown-study-reveals-ai-chatbots-shouldnt-be-relied-on-for-health-advice-315g)
-- [Looking for dev + UI designer to help launch MVP of viral short-form AI tool &lpar;rev share&rpar;](https://dev.to/jakearnk/looking-for-dev-ui-designer-to-help-launch-mvp-of-viral-short-form-ai-tool-rev-share-1din)
+- [Advice Needed: Front-End Dev Profile for Browser-Based 2D Tactical RPG? &lpar;Passion Project&rpar;](https://dev.to/sevencley/advice-needed-front-end-dev-profile-for-browser-based-2d-tactical-rpg-passion-project-ppp)
+- [Create a new SSH key🔑 and first commit to GitHub🐱‍👤](https://dev.to/yuit_solutions/create-a-new-ssh-key-and-first-commit-to-github-4en5)
+- [• وان درایو &lpar;OneDrive&rpar; چیست؟ فضای ابری مایکروسافت برای ذخیره سازی](https://dev.to/tosinso/wn-dryw-onedrive-chyst-fdy-bry-mykhrwsft-bry-dhkhyrh-szy-bjm)
+- [Why Testexplore](https://dev.to/testexplore/why-testexplore-37do)
+- [WordPress Object Cache: Beyond Transients for Speed](https://dev.to/farhan-developer/wordpress-object-cache-beyond-transients-for-speed-h34)
 <!-- BLOG-POST-LIST:END -->
 
 ---
