@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Prevent CSS Hover State Flicker on Button Release?](https://dev.to/generatecodedev/how-to-prevent-css-hover-state-flicker-on-button-release-32i4)
-- [Mobile UI Design](https://dev.to/souhaillaghchimdev/mobile-ui-design-3hmo)
-- [Digital Marketing Application Programming](https://dev.to/souhaillaghchimdev/digital-marketing-application-programming-2fai)
-- [Game AI Programming](https://dev.to/souhaillaghchimdev/game-ai-programming-3kbi)
-- [Audio and Music Application Development](https://dev.to/souhaillaghchimdev/audio-and-music-application-development-57do)
+- [The Art of API Documentation: A Comprehensive Guide](https://dev.to/ttibbs/the-art-of-api-documentation-a-comprehensive-guide-222k)
+- [How to Extract Data from Klipfolio to CSV Using Bash](https://dev.to/generatecodedev/how-to-extract-data-from-klipfolio-to-csv-using-bash-122m)
+- [HTTP Status Codes Explained: A Beginner&#39;s Guide to Web Responses](https://dev.to/tene/http-status-codes-explained-a-beginners-guide-to-web-responses-3ool)
+- [[Boost]](https://dev.to/bellaaacoder/-302f)
+- [Understanding SOLID Principles in Java &lpar;With Real life Examples&rpar;](https://dev.to/chhavirana/understanding-solid-principles-in-java-with-real-life-examples-1ked)
 <!-- BLOG-POST-LIST:END -->
 
 ---
