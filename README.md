@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Extend Python Function Signature for Type Safety?](https://dev.to/generatecodedev/how-to-extend-python-function-signature-for-type-safety-3k98)
-- [How to Build and Run K3s on macOS with Multipass and k3d](https://dev.to/amol_kavitkar_cisco/how-to-build-and-run-k3s-on-macos-with-multipass-and-k3d-334c)
-- [Attention? You Don&#39;t Need It](https://dev.to/ryo_suwito/attention-you-dont-need-it-5dnn)
-- [Top P Sampling Explained: Smarter Text Generation with AI](https://dev.to/rijultp/top-p-sampling-explained-smarter-text-generation-with-ai-13mh)
-- [How to Fix CSS and JS Issues with Spring Boot and Thymeleaf?](https://dev.to/generatecodedev/how-to-fix-css-and-js-issues-with-spring-boot-and-thymeleaf-17ci)
+- [MediaSession API for Custom Media Controls](https://dev.to/omriluz1/mediasession-api-for-custom-media-controls-50n3)
+- [Creating Dynamic Routes in Next.js with Just 4 Lines of Code](https://dev.to/yosolita1978/creating-dynamic-routes-in-nextjs-with-just-4-lines-of-code-3k3)
+- [$100K/day cloud bill isn&#39;t a Bug – it&#39;s by Design](https://dev.to/nikolay_chirkov/100kday-cloud-bill-isnt-a-bug-its-by-design-5fk4)
+- [Untitled](https://dev.to/claudio_y0001_b92dbdb42ff/untitled-3bin)
+- [10 Cheap Ways to Deploy Docker Containers in 2025](https://dev.to/toki_hossain/10-cheap-ways-to-deploy-docker-containers-in-2025-lig)
 <!-- BLOG-POST-LIST:END -->
 
 ---
