@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Advice Needed: Front-End Dev Profile for Browser-Based 2D Tactical RPG? &lpar;Passion Project&rpar;](https://dev.to/sevencley/advice-needed-front-end-dev-profile-for-browser-based-2d-tactical-rpg-passion-project-ppp)
-- [Create a new SSH key🔑 and first commit to GitHub🐱‍👤](https://dev.to/yuit_solutions/create-a-new-ssh-key-and-first-commit-to-github-4en5)
-- [• وان درایو &lpar;OneDrive&rpar; چیست؟ فضای ابری مایکروسافت برای ذخیره سازی](https://dev.to/tosinso/wn-dryw-onedrive-chyst-fdy-bry-mykhrwsft-bry-dhkhyrh-szy-bjm)
-- [Why Testexplore](https://dev.to/testexplore/why-testexplore-37do)
-- [WordPress Object Cache: Beyond Transients for Speed](https://dev.to/farhan-developer/wordpress-object-cache-beyond-transients-for-speed-h34)
+- [Comparing Text Search Strategies pg_search vs. tsvector vs. External Engines](https://dev.to/neon-postgres/comparing-text-search-strategies-pgsearch-vs-tsvector-vs-external-engines-54f0)
+- [FrontendDev Ending](https://dev.to/umairshakoor/frontenddev-ending-1m14)
+- [How I Lost 35kg and Built a Habit Tracker That Actually Works](https://dev.to/baransel/how-i-lost-35kg-and-built-a-habit-tracker-that-actually-works-146d)
+- [Are you trying to manage AI Workloads on Kubernetes at Scale? Maybe deploying complex AI stacks such as Kubeflow and KServe? Here is how Sveltos Enables Multi-Cluster, GitOps-driven MLOps https://ppaolo.substack.com/p/managing-ai-workloads-on-kubernetes](https://dev.to/simone_morellato/are-you-trying-to-manage-ai-workloads-on-kubernetes-at-scale-maybe-deploying-complex-ai-stacks-1djl)
+- [first post](https://dev.to/andyritting/first-post-415p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
