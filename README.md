@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Easy parsing with reasonable error messages in OCaml&#39;s Angstrom](https://dev.to/yawaramin/easy-parsing-with-reasonable-error-messages-in-ocamls-angstrom-g5f)
-- [Why Does Fused Location Client Freeze Locations? Insights and Solutions](https://dev.to/generatecodedev/why-does-fused-location-client-freeze-locations-insights-and-solutions-4b2p)
-- [Git as a Content Manager: Beyond Version Control](https://dev.to/cristiansifuentes/git-as-a-content-manager-beyond-version-control-5516)
-- [How to Maintain Content Editable Box Functionality with Color Change](https://dev.to/generatecodedev/how-to-maintain-content-editable-box-functionality-with-color-change-f65)
-- [Artificial Intelligence Models: Overview for Developers](https://dev.to/santiaghou/artificial-intelligence-models-overview-for-developers-nb8)
+- [Voices at the Threshold](https://dev.to/rawveg/voices-at-the-threshold-4ddp)
+- [Your Agile team might be losing productivity without you realizing it!](https://dev.to/rally_for_jira/your-agile-team-might-be-losing-productivity-without-you-realizing-it-l49)
+- [Exploring SuperRare’s Integration with Arbitrum: Bridging Digital Art and Next-Generation Blockchain Solutions](https://dev.to/kallileiser/exploring-superrares-integration-with-arbitrum-bridging-digital-art-and-next-generation-333)
+- [How to Sync Git Repository Dependencies Using uv in Python?](https://dev.to/generatecodedev/how-to-sync-git-repository-dependencies-using-uv-in-python-3kc5)
+- [Mastering HTML, CSS &amp; JavaScript: A Web Developer’s Roadmap](https://dev.to/code_2/mastering-html-css-javascript-a-web-developers-roadmap-i9n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
