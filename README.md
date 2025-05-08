@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [HLD | Network Protocols in Action: How the Internet Communicates](https://dev.to/vampirepapi/hld-network-protocols-in-action-how-the-internet-communicates-24kd)
-- [The Future of Blockchain Project Funding and Open Source Sustainable Innovations](https://dev.to/bobcars/the-future-of-blockchain-project-funding-and-open-source-sustainable-innovations-2c5a)
-- [Mastering Lambda Expressions, Functional Interfaces, and Streams in Java 8 and Beyond](https://dev.to/adityabhuyan/mastering-lambda-expressions-functional-interfaces-and-streams-in-java-8-and-beyond-164)
-- [Creating Responsive Layouts in React using Material UI Grid](https://dev.to/smartterss/creating-responsive-layouts-in-react-using-material-ui-grid-3gc6)
-- [Free GraphQL APIs You Can Use Today](https://dev.to/divyesh_vekariya/free-graphql-apis-you-can-use-today-21c9)
+- [Developer Spotlight - Google Cloud Next 2025 Special Edition](https://dev.to/googleworkspace/developer-spotlight-google-cloud-next-2025-special-edition-5el8)
+- [Can HHH Simulate DD and Reach the Return Instruction?](https://dev.to/generatecodedev/can-hhh-simulate-dd-and-reach-the-return-instruction-4ebg)
+- [Speed Up Your Workflow with an Online C++ Compiler](https://dev.to/tpointtechblog/speed-up-your-workflow-with-an-online-c-compiler-74h)
+- [From Localhost to Live](https://dev.to/nightwalker28/from-localhost-to-live-2e4f)
+- [[Boost]](https://dev.to/aryan_panwala/-47l2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
