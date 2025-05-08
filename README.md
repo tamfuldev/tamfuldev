@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why HTML Exists—And What Most Developers Miss](https://dev.to/umarsiddique010/why-html-exists-and-what-most-developers-miss-251h)
-- [Create Columns from Distinct Values of a Column — From SQL to SPL #26](https://dev.to/judith677/create-columns-from-distinct-values-of-a-column-from-sql-to-spl-26-5hj6)
-- [End the Obsession with Servers](https://dev.to/fermyon/end-the-obsession-with-servers-2ad5)
-- [Spin JS/TS Router Showdown: Hono vs Itty vs Manual Routing](https://dev.to/fermyon/spin-jsts-router-showdown-hono-vs-itty-vs-manual-routing-32b6)
-- [CrewAI: Building Collaborative AI Teams with Python](https://dev.to/naimaitech/crewai-building-collaborative-ai-teams-with-python-hjp)
+- [Type-Safe Theming in Tailwind CSS Using CSS Variables and TypeScript](https://dev.to/abtahitajwar/type-safe-theming-in-tailwind-css-using-css-variables-and-typescript-1e6j)
+- [How to Retrieve Selected Index from Gtk DropDown in Rust?](https://dev.to/generatecodedev/how-to-retrieve-selected-index-from-gtk-dropdown-in-rust-5kp)
+- [Visual Studio Code: The Unexpected Bridge Between Worlds](https://dev.to/ljvasquezr/visual-studio-code-the-unexpected-bridge-between-worlds-52bi)
+- [VC写Windows服务程序](https://dev.to/second/vcxie-windowsfu-wu-cheng-xu-1bpm)
+- [Why React is Better for Multi-Page Websites?](https://dev.to/deansaiful/why-react-is-better-for-multi-page-websites-5dhm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
