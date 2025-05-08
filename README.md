@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Type-Safe Theming in Tailwind CSS Using CSS Variables and TypeScript](https://dev.to/abtahitajwar/type-safe-theming-in-tailwind-css-using-css-variables-and-typescript-1e6j)
-- [How to Retrieve Selected Index from Gtk DropDown in Rust?](https://dev.to/generatecodedev/how-to-retrieve-selected-index-from-gtk-dropdown-in-rust-5kp)
-- [Visual Studio Code: The Unexpected Bridge Between Worlds](https://dev.to/ljvasquezr/visual-studio-code-the-unexpected-bridge-between-worlds-52bi)
-- [VC写Windows服务程序](https://dev.to/second/vcxie-windowsfu-wu-cheng-xu-1bpm)
-- [Why React is Better for Multi-Page Websites?](https://dev.to/deansaiful/why-react-is-better-for-multi-page-websites-5dhm)
+- [Understanding the 9 Types of Indexes in PostgreSQL](https://dev.to/leapcell/understanding-the-9-types-of-indexes-in-postgresql-24cj)
+- [Three.js com React Three Fiber: Criando Experiências 3D Impressionantes no React](https://dev.to/nicolaazdev/threejs-com-react-three-fiber-criando-experiencias-3d-impressionantes-no-react-29ha)
+- [Hyper-Personalization in Marketing: How Generative AI is Revolutionizing Customer Experiences](https://dev.to/siddharthbhalsod/hyper-personalization-in-marketing-how-generative-ai-is-revolutionizing-customer-experiences-2o6g)
+- [Open Source Project Financial Planning: A Key to Sustainability](https://dev.to/ahmmrizv9/open-source-project-financial-planning-a-key-to-sustainability-1ef6)
+- [Genereate LLMs.txt for your Astro site](https://dev.to/areai51/genereate-llmstxt-for-your-astro-site-5chi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
