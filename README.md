@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Vertical HTML Button Group with CSS](https://dev.to/chrys/how-to-create-a-vertical-html-button-group-with-css-2ljc)
-- [Navigating Financial Sustainability in Open Source Projects](https://dev.to/ashucommits/navigating-financial-sustainability-in-open-source-projects-2on7)
-- [Deploying AI/ML Models via Cloud APIs in Healthcare: A Developer&#39;s Guide to National Impact](https://dev.to/a_bojjam/deploying-aiml-models-via-cloud-apis-in-healthcare-a-developers-guide-to-national-impact-1a46)
-- [Inside Azure DevOps: Boards, Repos, Pipelines, and Artifacts](https://dev.to/akash_roy_3bc76e473db5e40/inside-azure-devops-boards-repos-pipelines-and-artifacts-2l9)
-- [From Chaos to Code: How I Tamed My Life with 100 Lines of Python](https://dev.to/sakethkowtha/from-chaos-to-code-how-i-tamed-my-life-with-100-lines-of-python-4kh5)
+- [HLD | Network Protocols in Action: How the Internet Communicates](https://dev.to/vampirepapi/hld-network-protocols-in-action-how-the-internet-communicates-24kd)
+- [The Future of Blockchain Project Funding and Open Source Sustainable Innovations](https://dev.to/bobcars/the-future-of-blockchain-project-funding-and-open-source-sustainable-innovations-2c5a)
+- [Mastering Lambda Expressions, Functional Interfaces, and Streams in Java 8 and Beyond](https://dev.to/adityabhuyan/mastering-lambda-expressions-functional-interfaces-and-streams-in-java-8-and-beyond-164)
+- [Creating Responsive Layouts in React using Material UI Grid](https://dev.to/smartterss/creating-responsive-layouts-in-react-using-material-ui-grid-3gc6)
+- [Free GraphQL APIs You Can Use Today](https://dev.to/divyesh_vekariya/free-graphql-apis-you-can-use-today-21c9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
