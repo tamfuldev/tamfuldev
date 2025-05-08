@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Getting my feet wet with Crossplane](https://dev.to/nfrankel/getting-my-feet-wet-with-crossplane-17d7)
-- [How to Use AWS S3 Console for Website Deployment](https://dev.to/ijay/how-to-use-aws-s3-console-for-website-deployment-2mhh)
-- [** for Dictionary Unpacking in Python](https://dev.to/hyperkai/-for-dictionary-unpacking-in-python-584m)
-- [The Programmer Who Reads Charts: From Codes to CandleSticks](https://dev.to/dhis_is_jj/the-programmer-who-reads-charts-from-codes-to-candlesticks-2o56)
-- [Next Gen Developer Experience with Amazon Q Developer](https://dev.to/aws-heroes/next-gen-developer-experience-with-amazon-q-developer-1eja)
+- [How to Format Dates with Accessors and Mutators in Laravel 12](https://dev.to/ayekpleclemence/how-to-format-dates-with-accessors-and-mutators-in-laravel-12-171d)
+- [Liferay DXP 7.4: New Features and Developer Benefits](https://dev.to/aixtor_technologies/liferay-dxp-74-new-features-and-developer-benefits-54ke)
+- [Improve PHP AI Agents output quality with Rerankers](https://dev.to/inspector/improve-php-ai-agents-output-quality-with-rerankers-5ie)
+- [React rendering quiz](https://dev.to/asmyshlyaev177/react-rendering-quiz-443k)
+- [Swiftide 0.26 - Streaming agents](https://dev.to/timonv/swiftide-026-streaming-agents-1j2h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
