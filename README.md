@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Avoiding Common Eloquent Pitfalls in Laravel Projects at Scale](https://dev.to/kinsflow/avoiding-common-eloquent-pitfalls-in-laravel-projects-at-scale-313a)
-- [Green Padlock, Zero Headache: Let’s Encrypt SSL for Self-Hosted Dify](https://dev.to/shamspias/green-padlock-zero-headache-lets-encrypt-ssl-for-self-hosted-dify-cie)
-- [Building a Dynamic Color Changer app with React and Vite](https://dev.to/adesh_mishra_07/building-a-dynamic-color-changer-app-with-react-and-vite-5ad1)
-- [Nexus 001 - Kurulum](https://dev.to/berkanterbey/nexus-001-kurulum-5e7o)
-- [How to Debug POST Fields in PHP cURL Requests?](https://dev.to/generatecodedev/how-to-debug-post-fields-in-php-curl-requests-khh)
+- [How to Extend Python Function Signature for Type Safety?](https://dev.to/generatecodedev/how-to-extend-python-function-signature-for-type-safety-3k98)
+- [How to Build and Run K3s on macOS with Multipass and k3d](https://dev.to/amol_kavitkar_cisco/how-to-build-and-run-k3s-on-macos-with-multipass-and-k3d-334c)
+- [Attention? You Don&#39;t Need It](https://dev.to/ryo_suwito/attention-you-dont-need-it-5dnn)
+- [Top P Sampling Explained: Smarter Text Generation with AI](https://dev.to/rijultp/top-p-sampling-explained-smarter-text-generation-with-ai-13mh)
+- [How to Fix CSS and JS Issues with Spring Boot and Thymeleaf?](https://dev.to/generatecodedev/how-to-fix-css-and-js-issues-with-spring-boot-and-thymeleaf-17ci)
 <!-- BLOG-POST-LIST:END -->
 
 ---
