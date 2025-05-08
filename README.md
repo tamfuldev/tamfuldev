@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Developer Spotlight - Google Cloud Next 2025 Special Edition](https://dev.to/googleworkspace/developer-spotlight-google-cloud-next-2025-special-edition-5el8)
-- [Can HHH Simulate DD and Reach the Return Instruction?](https://dev.to/generatecodedev/can-hhh-simulate-dd-and-reach-the-return-instruction-4ebg)
-- [Speed Up Your Workflow with an Online C++ Compiler](https://dev.to/tpointtechblog/speed-up-your-workflow-with-an-online-c-compiler-74h)
-- [From Localhost to Live](https://dev.to/nightwalker28/from-localhost-to-live-2e4f)
-- [[Boost]](https://dev.to/aryan_panwala/-47l2)
+- [Speech Synthesis API for Text-to-Speech](https://dev.to/omriluz1/speech-synthesis-api-for-text-to-speech-3agn)
+- [How to verify your cookie consent is working 🍪🍪](https://dev.to/dev_family/how-to-verify-your-cookie-consent-is-working-i4f)
+- [Ethical AI: How to Build Trustworthy, Transparent, and Fair Technology That Wins Trust](https://dev.to/okoye_ndidiamaka_5e3b7d30/ethical-ai-how-to-build-trustworthy-transparent-and-fair-technology-that-wins-trust-ggi)
+- [{230+} Excel SHORTCUTS List for Windows &amp; MAC](https://dev.to/excel24x7/230-excel-shortcuts-list-for-windows-mac-72i)
+- [AI Integration in Silicon Love Dolls](https://dev.to/tripleminds/ai-integration-in-silicon-love-dolls-2m2d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
