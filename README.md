@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create an EditorFor Without a Label for 508 Compliance?](https://dev.to/generatecodedev/how-to-create-an-editorfor-without-a-label-for-508-compliance-3b0c)
-- [MCP en acción: integra datos del sistema en tus modelos generativos](https://dev.to/aws-espanol/mcp-en-accion-integra-datos-del-sistema-en-tus-modelos-generativos-2c9c)
-- [Hands on MCP: Extending LLMs with Real-Time Data](https://dev.to/aws-builders/mcp-in-practice-extending-llms-with-real-time-data-4f6f)
-- [📦 npm vs Yarn vs pnpm – Which Package Manager Should You Use in 2025?](https://dev.to/hamzakhan/npm-vs-yarn-vs-pnpm-which-package-manager-should-you-use-in-2025-2f1g)
-- [Observer Pattern - practical React example](https://dev.to/nemmtor/observer-pattern-practical-react-example-26c2)
+- [What is a Large Language Model &lpar;LLM&rpar;? A Comprehensive Guide for Developers](https://dev.to/sudhanshudevelopers/what-is-a-large-language-model-llm-a-comprehensive-guide-for-developers-55en)
+- [PocketBase + React Native](https://dev.to/aaronblondeau/pocketbase-react-native-3c82)
+- [BrogsCursor: Revolutionizing Workflow Automation with Precise Mouse &amp; Keyboard Recording](https://dev.to/gnox79/brogscursor-revolutionizing-workflow-automation-with-precise-mouse-keyboard-recording-40en)
+- [Share markdown: Vibe coding a tweet](https://dev.to/omarnaguib/share-markdown-vibe-coding-a-tweet-3l38)
+- [&quot;Building a Lightweight Blockchain in Go from Scratch&quot;](https://dev.to/sumeet_ingenuity/building-a-lightweight-blockchain-in-go-from-scratch-4i85)
 <!-- BLOG-POST-LIST:END -->
 
 ---
