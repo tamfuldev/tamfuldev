@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [This right here..... keep your AI generated stuff properly validated](https://dev.to/michbarsinai/this-right-here-keep-your-ai-generated-stuff-properly-validated-40ge)
-- [Neurointerfaces - Por que botões devem parecer botões?](https://dev.to/alissonfcosta/-por-que-botoes-devem-parecer-botoes-2fap)
-- [How to Create a Bash Script to Activate a Python Virtualenv?](https://dev.to/generatecodedev/how-to-create-a-bash-script-to-activate-a-python-virtualenv-4d6o)
-- [What if adding in-app notifications to your Next.js app only took one command?](https://dev.to/empe/what-if-adding-in-app-notifications-to-your-nextjs-app-only-took-one-command-c8g)
-- [When News Becomes Fiction: Why Technologists Must Now Defend the Truth](https://dev.to/doozieakshay/when-news-becomes-fiction-why-technologists-must-now-defend-the-truth-1fmb)
+- [Lessons from Building a Full Invoice App for the Price of a Netflix Subscription](https://dev.to/jaypa/lessons-from-building-a-full-invoice-app-for-the-price-of-a-netflix-subscription-jbb)
+- [The Real Reason Cloud Costs Spike After Deployment &lpar;And How to Stop It&rpar;](https://dev.to/jevin/the-real-reason-cloud-costs-spike-after-deployment-and-how-to-stop-it-20b1)
+- [How to Extract Base64 String Using Perl Regex Pattern?](https://dev.to/generatecodedev/how-to-extract-base64-string-using-perl-regex-pattern-49d5)
+- [Lagoon v2.25: Enhanced Infrastructure Security and Performance Optimization](https://dev.to/laurenhasthree/lagoon-v225-enhanced-infrastructure-security-and-performance-optimization-2681)
+- [Finding the Longest Unique Substring](https://dev.to/tanvir_azad/finding-the-longest-unique-substring-47na)
 <!-- BLOG-POST-LIST:END -->
 
 ---
