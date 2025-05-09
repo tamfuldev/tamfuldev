@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Hey Guys, I&#39;m new to web development, I&#39;m building my portfolio with react and react router for server side, should I use nextjs instead?](https://dev.to/enrique_b11b7471d91491fcb/hey-guys-im-new-to-web-development-im-building-my-portfolio-with-react-and-react-router-for-1ooo)
-- [How to Convert SQL Query to Swift NSPredicate Syntax?](https://dev.to/generatecodedev/how-to-convert-sql-query-to-swift-nspredicate-syntax-21cn)
-- [Been having fun with TDD for the past two weeks- this is to boost my confidence &amp; and how to logically refactor code](https://dev.to/congomusah/dive-into-tdd-for-the-past-two-week-this-is-to-boost-my-confidence-353j)
-- [Essential Dev Environments with Docker Compose](https://dev.to/gingermuffn/essential-dev-environments-with-docker-compose-60b)
-- [Built for Brains: Why AI Loves Linux](https://dev.to/dtemi/built-for-brains-why-ai-loves-linux-c8j)
+- [How to Fix &#39;@unchecked Sendable&#39; Warning in Swift Xcode 16.2](https://dev.to/generatecodedev/how-to-fix-unchecked-sendable-warning-in-swift-xcode-162-f04)
+- [Convert YAML to Interactive Diagrams Online – Visualize YAML as Graph or Tree with jsonviewer.tools](https://dev.to/bugblitz98/convert-yaml-to-interactive-diagrams-online-visualize-yaml-as-graph-or-tree-with-jsonviewertools-587i)
+- [How does AI enhance embedded decision-making?](https://dev.to/shriyansh_iot_98734929139/how-does-ai-enhance-embedded-decision-making-2l42)
+- [How to Keep a Scrolling Log Updated in Real-Time with CSS?](https://dev.to/generatecodedev/how-to-keep-a-scrolling-log-updated-in-real-time-with-css-5h39)
+- [Dealing with Mountains of Data: Why Just Buying a Bigger Hard Drive Won&#39;t Cut It](https://dev.to/haydencordeiro/dealing-with-mountains-of-data-why-just-buying-a-bigger-hard-drive-wont-cut-it-26ec)
 <!-- BLOG-POST-LIST:END -->
 
 ---
