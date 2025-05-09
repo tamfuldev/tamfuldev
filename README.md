@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-3cif)
-- [AI Meets 5G: The Ultimate Telecom Glow-Up That&#39;s Changing Everything](https://dev.to/la-b-ib/ai-meets-5g-the-ultimate-telecom-glow-up-thats-changing-everything-8b8)
-- [Slow SQL? Diagnose &amp; Fix Bottlenecks Fast!](https://dev.to/chat2db/slow-sql-diagnose-fix-bottlenecks-fast-4l70)
-- [Refactoring a component from @Input&lpar;&rpar;/@Output&lpar;&rpar; to NgRx?](https://dev.to/naimulkarim/refactoring-a-component-from-inputoutput-to-ngrx-bib)
-- [Code Smell 299 - Overloaded Test Setup](https://dev.to/mcsee/code-smell-299-overloaded-test-setup-216i)
+- [Why Are Internal Properties Not Visible in DataGridView in C#?](https://dev.to/generatecodedev/why-are-internal-properties-not-visible-in-datagridview-in-c-3ppk)
+- [Rich Robot Behaviors from Interacting, Trusted LLMs - A Beginner&#39;s Guide](https://dev.to/bobjiang/rich-robot-behaviors-from-interacting-trusted-llms-a-beginners-guide-l40)
+- [Platform Engineering: The Next Evolution of DevOps Teams](https://dev.to/dct_technology/platform-engineering-the-next-evolution-of-devops-teams-5h5f)
+- [Custom Hooks – useKeyPress](https://dev.to/esbanegas/custom-hooks-usekeypress-3d5g)
+- [Can PostgreSQL Be a Search Engine? Yes, You Might Not Need Elasticsearch](https://dev.to/leapcell/can-postgresql-be-a-search-engine-yes-you-might-not-need-elasticsearch-3bi2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
