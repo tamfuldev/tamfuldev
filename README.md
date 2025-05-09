@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Create a Node.js REST API with an OpenAPI description in minutes](https://dev.to/apexjs-org/create-a-nodejs-rest-api-with-an-openapi-description-in-minutes-2k73)
-- [[Boost]](https://dev.to/alex_iscanderov_60b4ea965/-35hk)
-- [Javascript](https://dev.to/balaxjd/javascript-4g6f)
-- [PNPM vs Yarn vs NPM: Which Node Package Manager is Best?](https://dev.to/blockexperts/pnpm-vs-yarn-vs-npm-which-node-package-manager-is-best-i8)
-- [Mastering A/B Testing for Data Science Interviews](https://dev.to/muskan2244/mastering-ab-testing-for-data-science-interviews-gh0)
+- [How to Translate Large Files with Ease](https://dev.to/colinreed/how-to-translate-large-files-with-ease-3jbn)
+- [Integration testing tRPC and in memory MySQL database.](https://dev.to/pietro_palmesi_b8b68ba0f6/integration-testing-trpc-and-in-memory-mysql-database-40m6)
+- [Automate Your Terraform Module Updates with Scalr &amp; Dependabot](https://dev.to/sebastian_stadil/automate-your-terraform-module-updates-with-scalr-dependabot-3eea)
+- [Why is it so difficult to paste my markdown code snippets here on Dev.to? This should change so I can write full posts.](https://dev.to/mike_andreuzza/why-is-it-so-difficult-to-paste-my-markdown-code-snippets-here-on-devto-this-should-change-so-i-3dph)
+- [React Dev? Sell Tiny Tech Zines Instead](https://dev.to/0x8h_site/react-dev-sell-tiny-tech-zines-instead-5c6a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
