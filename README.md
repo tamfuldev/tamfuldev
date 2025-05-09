@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Voices at the Threshold](https://dev.to/rawveg/voices-at-the-threshold-4ddp)
-- [Your Agile team might be losing productivity without you realizing it!](https://dev.to/rally_for_jira/your-agile-team-might-be-losing-productivity-without-you-realizing-it-l49)
-- [Exploring SuperRare’s Integration with Arbitrum: Bridging Digital Art and Next-Generation Blockchain Solutions](https://dev.to/kallileiser/exploring-superrares-integration-with-arbitrum-bridging-digital-art-and-next-generation-333)
-- [How to Sync Git Repository Dependencies Using uv in Python?](https://dev.to/generatecodedev/how-to-sync-git-repository-dependencies-using-uv-in-python-3kc5)
-- [Mastering HTML, CSS &amp; JavaScript: A Web Developer’s Roadmap](https://dev.to/code_2/mastering-html-css-javascript-a-web-developers-roadmap-i9n)
+- [Hey Guys, I&#39;m new to web development, I&#39;m building my portfolio with react and react router for server side, should I use nextjs instead?](https://dev.to/enrique_b11b7471d91491fcb/hey-guys-im-new-to-web-development-im-building-my-portfolio-with-react-and-react-router-for-1ooo)
+- [How to Convert SQL Query to Swift NSPredicate Syntax?](https://dev.to/generatecodedev/how-to-convert-sql-query-to-swift-nspredicate-syntax-21cn)
+- [Been having fun with TDD for the past two weeks- this is to boost my confidence &amp; and how to logically refactor code](https://dev.to/congomusah/dive-into-tdd-for-the-past-two-week-this-is-to-boost-my-confidence-353j)
+- [Essential Dev Environments with Docker Compose](https://dev.to/gingermuffn/essential-dev-environments-with-docker-compose-60b)
+- [Built for Brains: Why AI Loves Linux](https://dev.to/dtemi/built-for-brains-why-ai-loves-linux-c8j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
