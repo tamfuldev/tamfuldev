@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Fastest Way to Earn Money in Tech &lpar;Master Guide&rpar;](https://dev.to/scofieldidehen/the-fastest-way-to-earn-money-in-tech-master-guide-3a0o)
-- [3 Popular SaaS Growth Tips Worth Questioning](https://dev.to/drew_wilkinson_236161a2f7/3-popular-saas-growth-tips-worth-questioning-15f5)
-- [Introducing BOSE Academy: A Self-Training Platform to Build Your Future in Tech](https://dev.to/hirwa/introducing-bose-academy-a-self-training-platform-to-build-your-future-in-tech-3lei)
-- [How the NEW Temporal API Finally Fixed JavaScript’s 30-Year Time Problem](https://dev.to/arnoldgunter/how-the-new-temporal-api-finally-fixed-javascripts-30-year-time-problem-cgg)
-- [Build an MCP Client in Minutes: Local AI Agents Just Got Real](https://dev.to/jonigl/build-an-mcp-client-in-minutes-local-ai-agents-just-got-real-4gj6)
+- [How to Create an EditorFor Without a Label for 508 Compliance?](https://dev.to/generatecodedev/how-to-create-an-editorfor-without-a-label-for-508-compliance-3b0c)
+- [MCP en acción: integra datos del sistema en tus modelos generativos](https://dev.to/aws-espanol/mcp-en-accion-integra-datos-del-sistema-en-tus-modelos-generativos-2c9c)
+- [Hands on MCP: Extending LLMs with Real-Time Data](https://dev.to/aws-builders/mcp-in-practice-extending-llms-with-real-time-data-4f6f)
+- [📦 npm vs Yarn vs pnpm – Which Package Manager Should You Use in 2025?](https://dev.to/hamzakhan/npm-vs-yarn-vs-pnpm-which-package-manager-should-you-use-in-2025-2f1g)
+- [Observer Pattern - practical React example](https://dev.to/nemmtor/observer-pattern-practical-react-example-26c2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
