@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ecto for Elixir: A Beginner&#39;s Guide to Database Interactions](https://dev.to/actor-dev/ecto-for-elixir-a-beginners-guide-to-database-interactions-4l7k)
-- [C# How to ambient transaction work under the hood](https://dev.to/eveissim/how-to-ambient-transaction-work-under-the-hood-5e55)
-- [Ecto para Elixir: Guia para Iniciantes sobre Interações com Banco de Dados](https://dev.to/actor-dev/ecto-para-elixir-guia-para-iniciantes-sobre-interacoes-com-banco-de-dados-1ng6)
-- [EyeDropper API for Color Selection from Screen](https://dev.to/omriluz1/eyedropper-api-for-color-selection-from-screen-1nio)
-- [10 open-source cursor alternatives devs are loving in 2025](https://dev.to/devlinktips/10-open-source-cursor-alternatives-devs-are-loving-in-2025-2e63)
+- [The Currency of Cyberwar: Understanding TENDER and Its Implications in a New Era of Conflict](https://dev.to/rachellovestowrite/the-currency-of-cyberwar-understanding-tender-and-its-implications-in-a-new-era-of-conflict-90a)
+- [How should AI respond to uncertainty?](https://dev.to/uka_aidev/how-should-ai-respond-to-uncertainty-lli)
+- [Build Dynamic Mock APIs Effortlessly with AutoAPI](https://dev.to/rakeshgombi/build-dynamic-mock-apis-effortlessly-with-autoapi-1l6k)
+- [WeaveDB Litepaper v0.1](https://dev.to/weave_db/weavedb-litepaper-v01-3pah)
+- [What are the 5 types of AI agents?](https://dev.to/louis_elliot_1904d2e7d242/what-are-the-5-types-of-ai-agents-3lb4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
