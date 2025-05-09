@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Add Application in SafeLine](https://dev.to/sharon_42e16b8da44dabde6d/how-to-add-application-in-safeline-3423)
-- [NocoBase Weekly Updates: Template Printing Supports Images and Barcodes](https://dev.to/nocobase/nocobase-weekly-updates-template-printing-supports-images-and-barcodes-7ak)
-- [How to Dynamically Adjust Content Div Height in jQuery?](https://dev.to/generatecodedev/how-to-dynamically-adjust-content-div-height-in-jquery-5cm6)
-- [TE AMO♥️](https://dev.to/cristian_rubio_c3c94cc2b4/te-amo-po7)
-- [🧪 Trying the Replit + Notion Integration — My Early Thoughts](https://dev.to/adit/trying-the-replit-notion-integration-my-early-thoughts-4o6m)
+- [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-3cif)
+- [AI Meets 5G: The Ultimate Telecom Glow-Up That&#39;s Changing Everything](https://dev.to/la-b-ib/ai-meets-5g-the-ultimate-telecom-glow-up-thats-changing-everything-8b8)
+- [Slow SQL? Diagnose &amp; Fix Bottlenecks Fast!](https://dev.to/chat2db/slow-sql-diagnose-fix-bottlenecks-fast-4l70)
+- [Refactoring a component from @Input&lpar;&rpar;/@Output&lpar;&rpar; to NgRx?](https://dev.to/naimulkarim/refactoring-a-component-from-inputoutput-to-ngrx-bib)
+- [Code Smell 299 - Overloaded Test Setup](https://dev.to/mcsee/code-smell-299-overloaded-test-setup-216i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
