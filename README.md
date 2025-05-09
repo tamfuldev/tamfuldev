@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter Polls: Creative Ways to Connect with Your Audience in Real Time](https://dev.to/viparabiansafar/twitter-polls-creative-ways-to-connect-with-your-audience-in-real-time-25dh)
-- [What is JSON?](https://dev.to/selfish_dev/what-is-json-13p9)
-- [Is the database setup for small project development too complicated?](https://dev.to/xianzs/is-the-database-setup-for-small-project-development-too-complicated-3hlm)
-- [Data Structures Tutorial: A Complete Guide for Beginners](https://dev.to/tpointtechadu/data-structures-tutorial-a-complete-guide-for-beginners-575i)
-- [How to Shift Associated Data After Filtering an Array in JavaScript?](https://dev.to/generatecodedev/how-to-shift-associated-data-after-filtering-an-array-in-javascript-3nlh)
+- [Create a Node.js REST API with an OpenAPI description in minutes](https://dev.to/apexjs-org/create-a-nodejs-rest-api-with-an-openapi-description-in-minutes-2k73)
+- [[Boost]](https://dev.to/alex_iscanderov_60b4ea965/-35hk)
+- [Javascript](https://dev.to/balaxjd/javascript-4g6f)
+- [PNPM vs Yarn vs NPM: Which Node Package Manager is Best?](https://dev.to/blockexperts/pnpm-vs-yarn-vs-npm-which-node-package-manager-is-best-i8)
+- [Mastering A/B Testing for Data Science Interviews](https://dev.to/muskan2244/mastering-ab-testing-for-data-science-interviews-gh0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
