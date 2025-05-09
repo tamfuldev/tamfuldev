@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Hallucinations in AI: Scary or not?](https://dev.to/twiddling_thumbs/-4ld0)
-- [Common SSL Issues and How to Resolve Them](https://dev.to/edenallen/common-ssl-issues-and-how-to-resolve-them-52n2)
-- [What a ride as a solo engineer to €1M ARR!](https://dev.to/urbanisierung/what-a-ride-as-a-solo-engineer-to-eu1m-arr-2gi8)
-- [Solana at Web2 Speed: Real-Time Performance Without Fragmentation](https://dev.to/lordghostx/solana-at-web2-speed-real-time-performance-without-fragmentation-3b9p)
-- [Raising Block Limits on Solana: SIMD-0250 and Its Economic Effects](https://dev.to/lordghostx/raising-block-limits-on-solana-simd-0250-and-its-economic-effects-ade)
+- [Ecto for Elixir: A Beginner&#39;s Guide to Database Interactions](https://dev.to/actor-dev/ecto-for-elixir-a-beginners-guide-to-database-interactions-4l7k)
+- [C# How to ambient transaction work under the hood](https://dev.to/eveissim/how-to-ambient-transaction-work-under-the-hood-5e55)
+- [Ecto para Elixir: Guia para Iniciantes sobre Interações com Banco de Dados](https://dev.to/actor-dev/ecto-para-elixir-guia-para-iniciantes-sobre-interacoes-com-banco-de-dados-1ng6)
+- [EyeDropper API for Color Selection from Screen](https://dev.to/omriluz1/eyedropper-api-for-color-selection-from-screen-1nio)
+- [10 open-source cursor alternatives devs are loving in 2025](https://dev.to/devlinktips/10-open-source-cursor-alternatives-devs-are-loving-in-2025-2e63)
 <!-- BLOG-POST-LIST:END -->
 
 ---
