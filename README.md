@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The only 7 Projects That Makes You Better at Docker](https://dev.to/thecloudarchitect/the-only-7-projects-that-makes-you-better-at-docker-3625)
-- [🚀 Como Configurar o Java 8 no IntelliJ IDEA — Guia Completo com Imagens](https://dev.to/klebes/como-configurar-o-java-8-no-intellij-idea-guia-completo-com-imagens-3go4)
-- [Local PDF Parsing with AWS Textract &amp; Python &lpar;Part 1&rpar;](https://dev.to/aws-builders/local-pdf-parsing-with-aws-textract-python-part-1-2iei)
-- [Building a Reusable Table Component in Angular](https://dev.to/kapilkumar0037/building-a-reusable-table-component-in-angular-2c7a)
-- [Exploring GitHub Sponsors: Global Impact and Future Funding Innovations](https://dev.to/bobcars/exploring-github-sponsors-global-impact-and-future-funding-innovations-apk)
+- [just got the two year badge, thanks dev.to :&rpar;](https://dev.to/kurealnum/just-got-the-two-year-badge-thanks-devto--2kbb)
+- [How to Process Multiple Results Pages in Microsoft Graph API Beta](https://dev.to/generatecodedev/how-to-process-multiple-results-pages-in-microsoft-graph-api-beta-2ddh)
+- [Public, Private, and Hybrid Cloud: What&#39;s the Difference?](https://dev.to/sudiptapradhan/public-private-and-hybrid-cloud-whats-the-difference-13ki)
+- [Keyboard Input In Miniscript](https://dev.to/selfish_dev/keyboard-input-in-miniscript-3cjm)
+- [New shared objects linker on JavaScript nodejs u all waiting for!!!](https://dev.to/jeck_christopheranog_4a2/new-shared-objects-linker-on-javascript-nodejs-u-all-waiting-for-232n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
