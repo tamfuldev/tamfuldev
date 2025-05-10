@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Postman Was My Therapist: How I Finally Mastered APIs by Talking to Them Directly](https://dev.to/arbythecoder/postman-was-my-therapist-how-i-finally-mastered-apis-by-talking-to-them-directly-2309)
-- [Kaltrinkeda e os Novos Avanços.](https://dev.to/notmadebyahuman/kaltrinkeda-e-os-novos-avancos-57l)
-- [Kaltrinkeda and the New Advances](https://dev.to/notmadebyahuman_english/kaltrinkeda-and-the-new-advances-o8k)
-- [Solving The Big IAM Challenge](https://dev.to/aws-builders/solving-the-big-iam-challenge-39ho)
-- [Building &quot;Production-Grade&quot; APIs in .NET: Part 1 - Design Clean and Intuitive APIs](https://dev.to/georgopoulosgiannis/building-production-grade-apis-in-net-part-1-design-clean-and-intuitive-apis-87g)
+- [How to Write Better Prompts: A Simple 3-Part Formula](https://dev.to/rijultp/how-to-write-better-prompts-a-simple-3-part-formula-37cn)
+- [A2A Protocol Implementation](https://dev.to/heetvekariya/a2a-protocol-implementation-5b2m)
+- [5 Common Mistakes in Cloud Migration Projects — and How to Avoid Them](https://dev.to/fred_rodrigues_996451110b/5-common-mistakes-in-cloud-migration-projects-and-how-to-avoid-them-1o5b)
+- [Awesome 60+ FREE Notion Templates Curated for your Next Startup/Project](https://dev.to/abubakersiddique761/awesome-60-free-notion-templates-curated-for-your-next-startupproject-42ib)
+- [NoSQL Databases](https://dev.to/said_olano/nosql-database-3kkd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
