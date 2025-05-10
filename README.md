@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Source Filmmaker for Programmers: Tips to Maximize Efficiency](https://dev.to/ray_parker01/source-filmmaker-for-programmers-tips-to-maximize-efficiency-2569)
-- [🧠🥷Docker MCP Toolkit and Dokcer MCP Catalog &lpar;How to use MCP secure and easy &lpar;Cline and Cursor&rpar;&rpar;🛡️](https://dev.to/webdeveloperhyper/docker-mcp-toolkit-and-dokcer-mcp-catalog-how-to-use-mcp-secure-and-easy-cline-and-cursor-4jeb)
-- [POS Testing Explained: Ensuring Reliability in Retail Transactions](https://dev.to/shubham-theqa/pos-testing-explained-ensuring-reliability-in-retail-transactions-1a7n)
-- [How to Run a Basic Mojolicious Hello World App on Windows?](https://dev.to/generatecodedev/how-to-run-a-basic-mojolicious-hello-world-app-on-windows-111b)
-- [No classroom? No problem. Here are tools every home-based UI/UX learner needs. #nurodesign #UXTools #LearnUX](https://dev.to/swetty_sultania_834f90237/no-classroom-no-problem-here-are-tools-every-home-based-uiux-learner-needs-nurodesign-uxtools-470p)
+- [Project made with latest Angular 19 features](https://dev.to/anubedam/project-made-with-latest-angular-19-features-48op)
+- [Building &lpar;PWAs&rpar; with Vue.js &amp; Ionic](https://dev.to/dct_technology/building-pwas-with-vuejs-ionic-1li1)
+- [Code Whisperer Time Machine](https://dev.to/zareen/code-whisperer-time-machine-143b)
+- [How to Implement Instance Counters with Class-Level Variables in Ruby?](https://dev.to/generatecodedev/how-to-implement-instance-counters-with-class-level-variables-in-ruby-187m)
+- [◼️1/100 Block-by-Block: Learning Resources](https://dev.to/nocibambi/1100-block-by-block-learning-resources-2598)
 <!-- BLOG-POST-LIST:END -->
 
 ---
