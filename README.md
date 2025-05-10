@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Write Better Prompts: A Simple 3-Part Formula](https://dev.to/rijultp/how-to-write-better-prompts-a-simple-3-part-formula-37cn)
-- [A2A Protocol Implementation](https://dev.to/heetvekariya/a2a-protocol-implementation-5b2m)
-- [5 Common Mistakes in Cloud Migration Projects — and How to Avoid Them](https://dev.to/fred_rodrigues_996451110b/5-common-mistakes-in-cloud-migration-projects-and-how-to-avoid-them-1o5b)
-- [Awesome 60+ FREE Notion Templates Curated for your Next Startup/Project](https://dev.to/abubakersiddique761/awesome-60-free-notion-templates-curated-for-your-next-startupproject-42ib)
-- [NoSQL Databases](https://dev.to/said_olano/nosql-database-3kkd)
+- [🚀 React Compiler is now in RC! No more manual memoization — just write React, and the compiler optimizes it for you. Still experimental, but a big leap forward. 🔗 https://react.dev/blog/2025/04/21/react-compiler-rc #react #javascript #webdev](https://dev.to/dzienisz/react-compiler-is-now-in-rc-no-more-manual-memoization-just-write-react-and-the-compiler-1inm)
+- [Implementing a Scalable Filtering and Segmentation Panel for Large-Scale MongoDB Database](https://dev.to/devaaai/implementing-a-scalable-filtering-and-segmentation-panel-for-large-scale-mongodb-database-37fh)
+- [How to Add Custom Fields to HubSpot Forms with ClickPatrol?](https://dev.to/generatecodedev/how-to-add-custom-fields-to-hubspot-forms-with-clickpatrol-145i)
+- [Essential Collaboration Tools for Remote Development Teams](https://dev.to/jetthoughts/essential-collaboration-tools-for-remote-development-teams-2n8f)
+- [Getting Started with Unreal Engine Game Development: My Journey and Insights](https://dev.to/winterturtle23/getting-started-with-unreal-engine-game-development-my-journey-and-insights-5gl4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
