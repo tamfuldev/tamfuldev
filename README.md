@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [just got the two year badge, thanks dev.to :&rpar;](https://dev.to/kurealnum/just-got-the-two-year-badge-thanks-devto--2kbb)
-- [How to Process Multiple Results Pages in Microsoft Graph API Beta](https://dev.to/generatecodedev/how-to-process-multiple-results-pages-in-microsoft-graph-api-beta-2ddh)
-- [Public, Private, and Hybrid Cloud: What&#39;s the Difference?](https://dev.to/sudiptapradhan/public-private-and-hybrid-cloud-whats-the-difference-13ki)
-- [Keyboard Input In Miniscript](https://dev.to/selfish_dev/keyboard-input-in-miniscript-3cjm)
-- [New shared objects linker on JavaScript nodejs u all waiting for!!!](https://dev.to/jeck_christopheranog_4a2/new-shared-objects-linker-on-javascript-nodejs-u-all-waiting-for-232n)
+- [Crushing the Command Line: How I Used Amazon Q to Build a Smarter FastAPI Scaffolder](https://dev.to/ken_mwaura1/crushing-the-command-line-how-i-used-amazon-q-to-build-a-smarter-fastapi-scaffolder-3c45)
+- [Trying to Build in Public — But Reddit Keeps Silencing Me](https://dev.to/barret_kc/trying-to-build-in-public-but-reddit-keeps-silencing-me-24p4)
+- [Audio Steganography, Faster and Friendlier: My Dive into Spectrogram](https://dev.to/vishwaksen1/audio-steganography-faster-and-friendlier-my-dive-into-spectrogram-1i0l)
+- [What are the Syntax Issues in My SQL Recursive Query?](https://dev.to/generatecodedev/what-are-the-syntax-issues-in-my-sql-recursive-query-262b)
+- [AI Medicine Analyzer – Diagnose Medicines Smarter with Amazon Q](https://dev.to/sumitkcs/ai-medicine-analyzer-diagnose-medicines-smarter-with-amazon-q-5eg5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
