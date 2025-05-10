@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Truthy and Falsy in JS: What Every Developer Should Know](https://dev.to/abuhorairatarif/truthy-and-falsy-in-js-what-every-developer-should-know-3c59)
-- [ECMAScript with Node.js is more powerful then C++ with Microsoft](https://dev.to/aldo_9e8e9235d49a6c9beaec/ecmascript-with-nodejs-is-more-powerful-then-c-with-microsoft-5eke)
-- [Amazon Q CLI for Code Review: Focus on What Changed, Not Everything](https://dev.to/aws-builders/amazon-q-cli-for-code-review-focus-on-what-changed-not-everything-152g)
-- [Using Loose Equality in JS/TS](https://dev.to/dorla/using-loose-equality-in-jsts-2f52)
-- [How to Use Generics in C# Repository Pattern Effectively?](https://dev.to/generatecodedev/how-to-use-generics-in-c-repository-pattern-effectively-3p4j)
+- [Postman Was My Therapist: How I Finally Mastered APIs by Talking to Them Directly](https://dev.to/arbythecoder/postman-was-my-therapist-how-i-finally-mastered-apis-by-talking-to-them-directly-2309)
+- [Kaltrinkeda e os Novos Avanços.](https://dev.to/notmadebyahuman/kaltrinkeda-e-os-novos-avancos-57l)
+- [Kaltrinkeda and the New Advances](https://dev.to/notmadebyahuman_english/kaltrinkeda-and-the-new-advances-o8k)
+- [Solving The Big IAM Challenge](https://dev.to/aws-builders/solving-the-big-iam-challenge-39ho)
+- [Building &quot;Production-Grade&quot; APIs in .NET: Part 1 - Design Clean and Intuitive APIs](https://dev.to/georgopoulosgiannis/building-production-grade-apis-in-net-part-1-design-clean-and-intuitive-apis-87g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
