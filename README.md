@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Crushing the Command Line: How I Used Amazon Q to Build a Smarter FastAPI Scaffolder](https://dev.to/ken_mwaura1/crushing-the-command-line-how-i-used-amazon-q-to-build-a-smarter-fastapi-scaffolder-3c45)
-- [Trying to Build in Public — But Reddit Keeps Silencing Me](https://dev.to/barret_kc/trying-to-build-in-public-but-reddit-keeps-silencing-me-24p4)
-- [Audio Steganography, Faster and Friendlier: My Dive into Spectrogram](https://dev.to/vishwaksen1/audio-steganography-faster-and-friendlier-my-dive-into-spectrogram-1i0l)
-- [What are the Syntax Issues in My SQL Recursive Query?](https://dev.to/generatecodedev/what-are-the-syntax-issues-in-my-sql-recursive-query-262b)
-- [AI Medicine Analyzer – Diagnose Medicines Smarter with Amazon Q](https://dev.to/sumitkcs/ai-medicine-analyzer-diagnose-medicines-smarter-with-amazon-q-5eg5)
+- [Truthy and Falsy in JS: What Every Developer Should Know](https://dev.to/abuhorairatarif/truthy-and-falsy-in-js-what-every-developer-should-know-3c59)
+- [ECMAScript with Node.js is more powerful then C++ with Microsoft](https://dev.to/aldo_9e8e9235d49a6c9beaec/ecmascript-with-nodejs-is-more-powerful-then-c-with-microsoft-5eke)
+- [Amazon Q CLI for Code Review: Focus on What Changed, Not Everything](https://dev.to/aws-builders/amazon-q-cli-for-code-review-focus-on-what-changed-not-everything-152g)
+- [Using Loose Equality in JS/TS](https://dev.to/dorla/using-loose-equality-in-jsts-2f52)
+- [How to Use Generics in C# Repository Pattern Effectively?](https://dev.to/generatecodedev/how-to-use-generics-in-c-repository-pattern-effectively-3p4j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
