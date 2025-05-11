@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [JavaRaft: Raft-Based Distributed Key-Value Store](https://dev.to/sashaonion/javaraft-raft-based-distributed-key-value-store-5h0a)
-- [How to Run Axum and Tonic on the Same Port with Routing](https://dev.to/generatecodedev/how-to-run-axum-and-tonic-on-the-same-port-with-routing-4okk)
-- [Plot Twist: I Didn’t Get the Job &lpar;Yet&rpar;](https://dev.to/rodrigoeloyc/plot-twist-i-didnt-get-the-job-yet-6f1)
-- [🚀 Devlog #1 – Voltando a mexer no meu jogo após 2 anos](https://dev.to/joashneves/devlog-1-voltando-a-mexer-no-meu-jogo-apos-2-anos-5a5f)
-- [🚀 Automating Project Setup with Amazon Q Developer CLI: A Command-Line Revolution](https://dev.to/risshi-codes/automating-project-setup-with-amazon-q-developer-cli-a-command-line-revolution-3m69)
+- [Feliz cumpleaños gracielita](https://dev.to/jesus293993939/feliz-cumpleanos-gracielita-4of7)
+- [Stop Overengineering in the Name of Clean Architecture](https://dev.to/criscmd/stop-overengineering-in-the-name-of-clean-architecture-b8h)
+- [How to Fix Grey Background Issue in Flutter&#39;s showModalBottomSheet](https://dev.to/generatecodedev/how-to-fix-grey-background-issue-in-flutters-showmodalbottomsheet-3dde)
+- [AWS Serverless: Build a Custom IAM Policy for Lambda CI/CD with SAM and GitHub – Part 2](https://dev.to/bhatiagirish/aws-serverless-build-a-custom-iam-policy-for-lambda-cicd-with-sam-and-github-part-2-478f)
+- [HarmonyOS NEXT Development Case: Simplified-Traditional Converter](https://dev.to/zhongcx/harmonyos-next-development-case-simplified-traditional-converter-1gf5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
