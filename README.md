@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Angular Learning Curve in 2025: A Roadmap for New Developers](https://dev.to/karol_modelski/the-angular-learning-curve-in-2025-a-roadmap-for-new-developers-e0o)
-- [💪 SweatSpace: Powered by Amazon Q Developer](https://dev.to/mngayathri_prasad_648bb/sweatspace-powered-by-amazon-q-developer-58jg)
-- [Understanding JSON in JavaScript: A Complete Guide](https://dev.to/shifa_2/understanding-json-in-javascript-a-complete-guide-2hma)
-- [Kyverno - Namespace restriction policy](https://dev.to/sjegadeeswaran/kyverno-namespace-restriction-policy-5c9n)
-- [Securing Kubernetes Workloads with Falco](https://dev.to/vinod827/securing-kubernetes-workloads-with-falco-1mod)
+- [📱Tech News to Your Ears: WhatsApp Voice Notes Powered by Python, AWS &amp; Twilio🧠🎙️](https://dev.to/yugesh_a_003/tech-news-to-your-ears-whatsapp-voice-notes-powered-by-python-aws-twilio-1834)
+- [How to Implement Google Sign-In with Credential Manager in Android?](https://dev.to/generatecodedev/how-to-implement-google-sign-in-with-credential-manager-in-android-2jg8)
+- [Cardano-Java: Unleashing Open Source Innovation in Blockchain](https://dev.to/vitalisorenko/cardano-java-unleashing-open-source-innovation-in-blockchain-21dk)
+- [Leetcode 3. Longest Substring Without Repeating Characters](https://dev.to/rohithv07/leetcode-3-longest-substring-without-repeating-characters-1gj7)
+- [How to Fix Text Change Issues on TextButton in Lua](https://dev.to/generatecodedev/how-to-fix-text-change-issues-on-textbutton-in-lua-32hf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
