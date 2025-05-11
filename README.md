@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Creating an FAQ Page Without JavaScript](https://dev.to/elanatframework/creating-an-faq-page-without-javascript-4dmj)
-- [How to Implement a Nested Search-Select Component in JavaScript](https://dev.to/generatecodedev/how-to-implement-a-nested-search-select-component-in-javascript-23m0)
-- [🦆 Quack Docs — AI-Powered Code Documentation From Your CLI](https://dev.to/wesleybertipaglia/quack-docs-ai-powered-code-documentation-from-your-cli-47ii)
-- [C4 Modelizer – draw your C4 architecture in minutes!](https://dev.to/eth3rnit3/c4-modelizer-draw-your-c4-architecture-in-minutes-4pf)
-- [What is the Difference Between UDF and Vector UDF in Spark 3?](https://dev.to/generatecodedev/what-is-the-difference-between-udf-and-vector-udf-in-spark-3-28lm)
+- [How to Dynamically Join Multiple DataTables with LINQ in C#?](https://dev.to/generatecodedev/how-to-dynamically-join-multiple-datatables-with-linq-in-c-2clo)
+- [HarmonyOS NEXT Development Case: Tic-Tac-Toe Game Implementation](https://dev.to/zhongcx/harmonyos-next-development-case-tic-tac-toe-game-implementation-5de6)
+- [Enterprise JavaBeans &lpar;EJB&rpar;: Arquitetura Corporativa para Componentização e Escalabilidade em Aplicações Java EE](https://dev.to/ikauedev/enterprise-javabeans-ejb-arquitetura-corporativa-para-componentizacao-e-escalabilidade-em-god)
+- [Love sharing anything about Hugo](https://dev.to/ogundiyantobiloba/love-sharing-anything-about-hugo-3eag)
+- [Suggest some features I could add!](https://dev.to/scarabdata/suggest-some-features-i-could-add-91h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
