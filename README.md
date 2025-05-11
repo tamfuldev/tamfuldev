@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [9 tricks that separate a pro Typescript developer from an noob 😎](https://dev.to/ruppysuppy/9-tricks-that-separate-a-pro-typescript-developer-from-an-noob-jpd)
-- [&lt;h1&gt;Just how to Get an Original Spanish Vehicle driver&#39;s License in 2025&lt;/h1&gt;&lt;br&gt;](https://dev.to/mouseland69/just-how-to-get-an-original-spanish-vehicle-drivers-license-in-2025-2en0)
-- [Build a game Under an Hour with SplashKit](https://dev.to/movini/build-a-game-under-an-hour-with-splashkit-1j57)
-- [&lt;h1&gt;Exactly how to Obtain an Original Spanish Chauffeur&#39;s License in 2025&lt;/h1&gt;&lt;br&gt;](https://dev.to/orangecheese7/exactly-how-to-obtain-an-original-spanish-chauffeurs-license-in-2025-p5m)
-- [Chaos in Production? Bring it on.](https://dev.to/quorummind/chaos-in-production-bring-it-on-4jfj)
+- [What is Apache Flink? Exploring Its Open Source Business Model, Funding, and Community](https://dev.to/kallileiser/what-is-apache-flink-exploring-its-open-source-business-model-funding-and-community-584c)
+- [Why Avoid MySQL Functions in PHP and What to Use Instead?](https://dev.to/generatecodedev/why-avoid-mysql-functions-in-php-and-what-to-use-instead-4fi3)
+- [Understanding the Singleton Pattern – One Instance to Rule Them All](https://dev.to/syedyshiraz/understanding-the-singleton-pattern-one-instance-to-rule-them-all-2f1k)
+- [Setting Up SplashKit Manager &lpar;SKM&rpar;- Windows](https://dev.to/movini/setting-up-splashkit-manager-skm-windows-2kpl)
+- [How to Effectively Use Getter Methods in Rust Structs?](https://dev.to/generatecodedev/how-to-effectively-use-getter-methods-in-rust-structs-55d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
