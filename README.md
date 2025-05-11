@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Dynamically Join Multiple DataTables with LINQ in C#?](https://dev.to/generatecodedev/how-to-dynamically-join-multiple-datatables-with-linq-in-c-2clo)
-- [HarmonyOS NEXT Development Case: Tic-Tac-Toe Game Implementation](https://dev.to/zhongcx/harmonyos-next-development-case-tic-tac-toe-game-implementation-5de6)
-- [Enterprise JavaBeans &lpar;EJB&rpar;: Arquitetura Corporativa para Componentização e Escalabilidade em Aplicações Java EE](https://dev.to/ikauedev/enterprise-javabeans-ejb-arquitetura-corporativa-para-componentizacao-e-escalabilidade-em-god)
-- [Love sharing anything about Hugo](https://dev.to/ogundiyantobiloba/love-sharing-anything-about-hugo-3eag)
-- [Suggest some features I could add!](https://dev.to/scarabdata/suggest-some-features-i-could-add-91h)
+- [JavaRaft: Raft-Based Distributed Key-Value Store](https://dev.to/sashaonion/javaraft-raft-based-distributed-key-value-store-5h0a)
+- [How to Run Axum and Tonic on the Same Port with Routing](https://dev.to/generatecodedev/how-to-run-axum-and-tonic-on-the-same-port-with-routing-4okk)
+- [Plot Twist: I Didn’t Get the Job &lpar;Yet&rpar;](https://dev.to/rodrigoeloyc/plot-twist-i-didnt-get-the-job-yet-6f1)
+- [🚀 Devlog #1 – Voltando a mexer no meu jogo após 2 anos](https://dev.to/joashneves/devlog-1-voltando-a-mexer-no-meu-jogo-apos-2-anos-5a5f)
+- [🚀 Automating Project Setup with Amazon Q Developer CLI: A Command-Line Revolution](https://dev.to/risshi-codes/automating-project-setup-with-amazon-q-developer-cli-a-command-line-revolution-3m69)
 <!-- BLOG-POST-LIST:END -->
 
 ---
