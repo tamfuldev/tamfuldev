@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Model Intelligence System for Tasks](https://dev.to/cloaky233/model-intelligence-system-for-tasks-247)
-- [How to Fix &#39;win32yank.exe is not executable&#39; Error in Neovim](https://dev.to/generatecodedev/how-to-fix-win32yankexe-is-not-executable-error-in-neovim-5d92)
-- [🔧 AI Automated Error Review &amp; AI Refactor Helper – Crushing the Command Line Challenge](https://dev.to/gulzer/ai-automated-error-review-ai-refactor-helper-crushing-the-command-line-challenge-5395)
-- [[Boost]](https://dev.to/samir_elmadi_88f4c0acdf4/-1kbl)
-- [Designing Conveyor Belts for Industrial Projects: Practical Notes for Engineers &amp; Makers](https://dev.to/omidomra_fb998588cd4/designing-conveyor-belts-for-industrial-projects-practical-notes-for-engineers-makers-15a4)
+- [How to Self-Host Uptime Kuma &lpar;And When You Should Use Something Better&rpar;](https://dev.to/therealfloatdev/how-to-self-host-uptime-kuma-and-when-you-should-use-something-better-6d7)
+- [How to Include and Execute PHP File Contents in a Variable?](https://dev.to/generatecodedev/how-to-include-and-execute-php-file-contents-in-a-variable-3fgp)
+- [Hedera Mirror Node Java Client: Unlocking Open Source Funding and Community-Driven Innovation in Blockchain](https://dev.to/zhangwei42/hedera-mirror-node-java-client-unlocking-open-source-funding-and-community-driven-innovation-in-4d7)
+- [The Complete Beginner’s Guide to Git: Setup, SSH, Tokens, Remotes, and More.](https://dev.to/ronak_navadia/the-complete-beginners-guide-to-git-setup-ssh-tokens-remotes-and-more-2hca)
+- [dbt for Normies - A Complete Guide.](https://dev.to/dkkinyua/dbt-for-normies-a-complete-guide-4bj2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
