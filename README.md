@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Architecture: Breaking It Down](https://dev.to/mayankcse/kubernetes-architecture-breaking-it-down-428n)
-- [Node.js 24 is here, VS Code now has better OpenAI and Anthropic support, a new JavaScript load testing tool, and more](https://dev.to/thisweekinjavascript/nodejs-24-is-here-vs-code-now-has-better-openai-and-anthropic-support-a-new-javascript-load-bp2)
-- [Kubernetes Pod Scheduling: Optimizing Workload Placement for Performance and Efficiency](https://dev.to/kapusto/kubernetes-pod-scheduling-optimizing-workload-placement-for-performance-and-efficiency-h44)
-- [Why Developers Are Choosing Tortoise ORM as Python’s Modern ORM](https://dev.to/leapcell/why-developers-are-choosing-tortoise-orm-as-pythons-modern-orm-4cd0)
-- [Kubernetes: The Backbone of Modern Cloud-Native Applications](https://dev.to/mayankcse/kubernetes-the-backbone-of-modern-cloud-native-applications-37ne)
+- [Web3CLI: Revolutionizing Smart Contract Development with AI](https://dev.to/shiv_a_875365fc8fb07a4db7/web3cli-revolutionizing-smart-contract-development-with-ai-30o5)
+- [SMUGGLER: Sub-quadratic Multi-scale Unified Generative Gated Language Encoder-Representation](https://dev.to/ryo_suwito/smuggler-sub-quadratic-multi-scale-unified-generative-gated-language-encoder-representation-1fp0)
+- [Software License management with Polar.sh](https://dev.to/skatkov/software-license-management-with-polarsh-eb8)
+- [Blockchain Architecture Basics: Components, Structure, Benefits &amp; Creation](https://dev.to/andinugroho/blockchain-architecture-basics-components-structure-benefits-creation-58nm)
+- [PYTHON SELENIUM](https://dev.to/dhanusappa/python-selenium-2bdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
