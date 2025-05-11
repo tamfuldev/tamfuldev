@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What is Apache Flink? Exploring Its Open Source Business Model, Funding, and Community](https://dev.to/kallileiser/what-is-apache-flink-exploring-its-open-source-business-model-funding-and-community-584c)
-- [Why Avoid MySQL Functions in PHP and What to Use Instead?](https://dev.to/generatecodedev/why-avoid-mysql-functions-in-php-and-what-to-use-instead-4fi3)
-- [Understanding the Singleton Pattern – One Instance to Rule Them All](https://dev.to/syedyshiraz/understanding-the-singleton-pattern-one-instance-to-rule-them-all-2f1k)
-- [Setting Up SplashKit Manager &lpar;SKM&rpar;- Windows](https://dev.to/movini/setting-up-splashkit-manager-skm-windows-2kpl)
-- [How to Effectively Use Getter Methods in Rust Structs?](https://dev.to/generatecodedev/how-to-effectively-use-getter-methods-in-rust-structs-55d)
+- [The Angular Learning Curve in 2025: A Roadmap for New Developers](https://dev.to/karol_modelski/the-angular-learning-curve-in-2025-a-roadmap-for-new-developers-e0o)
+- [💪 SweatSpace: Powered by Amazon Q Developer](https://dev.to/mngayathri_prasad_648bb/sweatspace-powered-by-amazon-q-developer-58jg)
+- [Understanding JSON in JavaScript: A Complete Guide](https://dev.to/shifa_2/understanding-json-in-javascript-a-complete-guide-2hma)
+- [Kyverno - Namespace restriction policy](https://dev.to/sjegadeeswaran/kyverno-namespace-restriction-policy-5c9n)
+- [Securing Kubernetes Workloads with Falco](https://dev.to/vinod827/securing-kubernetes-workloads-with-falco-1mod)
 <!-- BLOG-POST-LIST:END -->
 
 ---
