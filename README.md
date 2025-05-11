@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Feliz cumpleaños gracielita](https://dev.to/jesus293993939/feliz-cumpleanos-gracielita-4of7)
-- [Stop Overengineering in the Name of Clean Architecture](https://dev.to/criscmd/stop-overengineering-in-the-name-of-clean-architecture-b8h)
-- [How to Fix Grey Background Issue in Flutter&#39;s showModalBottomSheet](https://dev.to/generatecodedev/how-to-fix-grey-background-issue-in-flutters-showmodalbottomsheet-3dde)
-- [AWS Serverless: Build a Custom IAM Policy for Lambda CI/CD with SAM and GitHub – Part 2](https://dev.to/bhatiagirish/aws-serverless-build-a-custom-iam-policy-for-lambda-cicd-with-sam-and-github-part-2-478f)
-- [HarmonyOS NEXT Development Case: Simplified-Traditional Converter](https://dev.to/zhongcx/harmonyos-next-development-case-simplified-traditional-converter-1gf5)
+- [HarmonyOS NEXT Development Case: Emoticon Searcher](https://dev.to/zhongcx/harmonyos-next-development-case-emoticon-searcher-2pi9)
+- [HarmonyOS NEXT Development Case: World Clock Application](https://dev.to/zhongcx/harmonyos-next-development-case-world-clock-application-3ojf)
+- [🚀 Hello World, But Make It Existential 🧠](https://dev.to/codestory__/hello-world-but-make-it-existential-2g73)
+- [HarmonyOS NEXT Development Case: Expiry Date Calculator](https://dev.to/zhongcx/harmonyos-next-development-case-expiry-date-calculator-7o4)
+- [HarmonyOS NEXT Development Case: Randomized 9-Cell Grid](https://dev.to/zhongcx/harmonyos-next-development-case-randomized-9-cell-grid-3ip2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
