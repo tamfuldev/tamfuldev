@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Web3CLI: Revolutionizing Smart Contract Development with AI](https://dev.to/shiv_a_875365fc8fb07a4db7/web3cli-revolutionizing-smart-contract-development-with-ai-30o5)
-- [SMUGGLER: Sub-quadratic Multi-scale Unified Generative Gated Language Encoder-Representation](https://dev.to/ryo_suwito/smuggler-sub-quadratic-multi-scale-unified-generative-gated-language-encoder-representation-1fp0)
-- [Software License management with Polar.sh](https://dev.to/skatkov/software-license-management-with-polarsh-eb8)
-- [Blockchain Architecture Basics: Components, Structure, Benefits &amp; Creation](https://dev.to/andinugroho/blockchain-architecture-basics-components-structure-benefits-creation-58nm)
-- [PYTHON SELENIUM](https://dev.to/dhanusappa/python-selenium-2bdf)
+- [FastAPI: 5 Dicas Cruciais para Turbinar a Performance da sua API Python](https://dev.to/gustavogarciapereira/fastapi-5-dicas-cruciais-para-turbinar-a-performance-da-sua-api-python-4l1k)
+- [Building Tools for ANT National Transit Authority Matrícula Data](https://dev.to/johnsmith6/building-tools-for-ant-national-transit-authority-matricula-data-45ne)
+- [Secure, Swift, and Smart: A Basic Guide to Building AI Agentic Workflows with Local Models](https://dev.to/maverick_tr/secure-swift-and-smart-a-basic-guide-to-building-ai-agentic-workflows-with-local-models-58lo)
+- [How to Fix Cursor Movement Issues in Angular Quill Editor](https://dev.to/generatecodedev/how-to-fix-cursor-movement-issues-in-angular-quill-editor-1adk)
+- [The Design of Trust, or How a Game Designer Manipulates .](https://dev.to/nickkeepkind/the-design-of-trust-or-how-a-game-designer-manipulates--mnp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
