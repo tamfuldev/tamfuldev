@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Self-Host Uptime Kuma &lpar;And When You Should Use Something Better&rpar;](https://dev.to/therealfloatdev/how-to-self-host-uptime-kuma-and-when-you-should-use-something-better-6d7)
-- [How to Include and Execute PHP File Contents in a Variable?](https://dev.to/generatecodedev/how-to-include-and-execute-php-file-contents-in-a-variable-3fgp)
-- [Hedera Mirror Node Java Client: Unlocking Open Source Funding and Community-Driven Innovation in Blockchain](https://dev.to/zhangwei42/hedera-mirror-node-java-client-unlocking-open-source-funding-and-community-driven-innovation-in-4d7)
-- [The Complete Beginner’s Guide to Git: Setup, SSH, Tokens, Remotes, and More.](https://dev.to/ronak_navadia/the-complete-beginners-guide-to-git-setup-ssh-tokens-remotes-and-more-2hca)
-- [dbt for Normies - A Complete Guide.](https://dev.to/dkkinyua/dbt-for-normies-a-complete-guide-4bj2)
+- [Kubernetes Architecture: Breaking It Down](https://dev.to/mayankcse/kubernetes-architecture-breaking-it-down-428n)
+- [Node.js 24 is here, VS Code now has better OpenAI and Anthropic support, a new JavaScript load testing tool, and more](https://dev.to/thisweekinjavascript/nodejs-24-is-here-vs-code-now-has-better-openai-and-anthropic-support-a-new-javascript-load-bp2)
+- [Kubernetes Pod Scheduling: Optimizing Workload Placement for Performance and Efficiency](https://dev.to/kapusto/kubernetes-pod-scheduling-optimizing-workload-placement-for-performance-and-efficiency-h44)
+- [Why Developers Are Choosing Tortoise ORM as Python’s Modern ORM](https://dev.to/leapcell/why-developers-are-choosing-tortoise-orm-as-pythons-modern-orm-4cd0)
+- [Kubernetes: The Backbone of Modern Cloud-Native Applications](https://dev.to/mayankcse/kubernetes-the-backbone-of-modern-cloud-native-applications-37ne)
 <!-- BLOG-POST-LIST:END -->
 
 ---
