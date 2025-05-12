@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Food-Ordering Chatbot in 30 Minutes by .NET 10 and Azure](https://dev.to/ngtduc693/build-a-food-ordering-chatbot-in-30-minutes-by-net-10-and-azure-14df)
-- [Everyone is working on something, and most time we work too hard only to realize that whatever we are building is already outdated or not right for the market. How do you define what is right to build and when to build? Read my thoughts.](https://dev.to/scofieldidehen/everyone-is-working-on-something-and-most-time-we-work-too-hard-only-to-realize-that-whatever-we-5h8k)
-- [How JavaScript helped me find a Car](https://dev.to/garciadiazjaime/how-javascript-helped-me-find-a-car-24ii)
-- [STON.fi vs SWAP.COFFEE☕️ — Which One’s for You?](https://dev.to/wqrisee/stonfi-vs-swapcoffee-which-ones-for-you-13l0)
-- [The Ultimate Beginner’s Guide to Becoming a Developer](https://dev.to/code_area_9036c9663233d92/the-ultimate-beginners-guide-to-becoming-a-developer-254i)
+- [Hoisted and Confused? Let’s Decode JavaScript’s Scope Magic](https://dev.to/obere4u/hoisted-and-confused-lets-decode-javascripts-scope-magic-358c)
+- [Java Script Engine&lpar;How JS Works Behind The Scenes The Engine&rpar;](https://dev.to/ahmed_niazy/java-script-engine-2gcj)
+- [MIT License Explained: A Deep Dive into Open Source Permissiveness and Fair Code Practices](https://dev.to/ahmmrizv9/mit-license-explained-a-deep-dive-into-open-source-permissiveness-and-fair-code-practices-3ni3)
+- [🧵 Git — Explained Like You’re 5 &lpar;But Smarter&rpar;](https://dev.to/itsaryanchauhan/git-explained-like-youre-5-but-smarter-32g5)
+- [Capture url of web page when the site is broken](https://dev.to/leela_bondada_fda85057f33/capture-url-of-web-page-when-the-site-is-broken-c1f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
