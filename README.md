@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Clair Obscur: Expedition 33 breaks new record, it is now the Highest Rated Original IP in PS Store history.](https://dev.to/gg_news/clair-obscur-expedition-33-breaks-new-record-it-is-now-the-highest-rated-original-ip-in-ps-store-3g1)
-- [Cisco Pulls Together A Quantum Network Architecture](https://dev.to/future_quantum/cisco-pulls-together-a-quantum-network-architecture-3np5)
-- [A simple, convenience package for the Azure Cosmos DB Go SDK](https://dev.to/abhirockzz/a-simple-convenience-package-for-the-azure-cosmos-db-go-sdk-46mn)
-- [HTML Escaping &amp; Sanitization: What Belongs in the Backend vs. Frontend?](https://dev.to/suryadavinci/html-escaping-sanitization-what-belongs-in-the-backend-vs-frontend-330a)
-- [Mafia: The Old Country gameplay trailer gives off major Red Dead Redemption 2 vibes](https://dev.to/gg_news/mafia-the-old-country-gameplay-trailer-gives-off-major-red-dead-redemption-2-vibes-4320)
+- [Debug Smarter: How grep Helps Engineers Fix Issues Fast and Stand Out](https://dev.to/dtemi/debug-smarter-how-grep-helps-engineers-fix-issues-fast-and-stand-out-2f6i)
+- [Real Use Cases of Blockchain in the Indian Banking Sector](https://dev.to/bridgegroupsolutions/real-use-cases-of-blockchain-in-the-indian-banking-sector-ah4)
+- [The Future of Datacenters: Building Faster and Smarter](https://dev.to/jetthoughts/the-future-of-datacenters-building-faster-and-smarter-4b8k)
+- [Introducing Fusion – A PHP Package Manager](https://dev.to/retlim/introducing-fusion-a-php-package-manager-3cj2)
+- [The Past, Present, and Future of Web Components](https://dev.to/besworks/the-past-present-and-future-of-web-components-2g43)
 <!-- BLOG-POST-LIST:END -->
 
 ---
