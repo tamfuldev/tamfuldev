@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Bridging Brilliance and Blunder](https://dev.to/rawveg/bridging-brilliance-and-blunder-340m)
-- [Clean Architecture](https://dev.to/stv4s/clean-architecture-44kl)
-- [How to Send Traces Using Scala and OpenTelemetry](https://dev.to/generatecodedev/how-to-send-traces-using-scala-and-opentelemetry-4ll3)
-- [Capstone process outline](https://dev.to/donnellycarroll/capstone-process-outline-42mg)
-- [How to Accurately Position Image Parts Using CSS and JavaScript?](https://dev.to/generatecodedev/how-to-accurately-position-image-parts-using-css-and-javascript-4hc)
+- [Fix missing headerfile &lt;gtk/gtk.h&gt;](https://dev.to/neosahadeo/fix-missing-headerfile-gtkgtkh-1pa3)
+- [How to Read CSV Files in PHP and Count Records Easily](https://dev.to/generatecodedev/how-to-read-csv-files-in-php-and-count-records-easily-3167)
+- [Rate Limiting Microservice in Rust](https://dev.to/tanishparashar/rate-limiting-microservice-in-rust-5pi)
+- [Kernelized Normalizing Constant Estimation: Bridging Bayesian Quadrature and Bayesian Optimization](https://dev.to/sweet_mouth/kernelized-normalizing-constant-estimation-bridging-bayesian-quadrature-and-bayesian-optimization-jk8)
+- [What is Py-EVM? The Open Source Business Model, Funding, and Community – In-Depth Analysis and Future Outlook](https://dev.to/ashucommits/what-is-py-evm-the-open-source-business-model-funding-and-community-in-depth-analysis-and-k5m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
