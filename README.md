@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Smart Indulgence: Why Dark Chocolate is the Ultimate Dessert Upgrade](https://dev.to/isladavid/smart-indulgence-why-dark-chocolate-is-the-ultimate-dessert-upgrade-1ff2)
-- [Student benefits part 1](https://dev.to/imajenasyon/student-benefits-part-1-pd9)
-- [Student benefits part 2](https://dev.to/imajenasyon/student-benefits-part-2-2o39)
-- [How to Store Polymorphic Objects in C++ STL Containers?](https://dev.to/generatecodedev/how-to-store-polymorphic-objects-in-c-stl-containers-34g2)
-- [Hackers Love Lazy People — Here’s Why!](https://dev.to/nightmare-lynx/hackers-love-lazy-people-heres-why-1k93)
+- [Clair Obscur: Expedition 33 breaks new record, it is now the Highest Rated Original IP in PS Store history.](https://dev.to/gg_news/clair-obscur-expedition-33-breaks-new-record-it-is-now-the-highest-rated-original-ip-in-ps-store-3g1)
+- [Cisco Pulls Together A Quantum Network Architecture](https://dev.to/future_quantum/cisco-pulls-together-a-quantum-network-architecture-3np5)
+- [A simple, convenience package for the Azure Cosmos DB Go SDK](https://dev.to/abhirockzz/a-simple-convenience-package-for-the-azure-cosmos-db-go-sdk-46mn)
+- [HTML Escaping &amp; Sanitization: What Belongs in the Backend vs. Frontend?](https://dev.to/suryadavinci/html-escaping-sanitization-what-belongs-in-the-backend-vs-frontend-330a)
+- [Mafia: The Old Country gameplay trailer gives off major Red Dead Redemption 2 vibes](https://dev.to/gg_news/mafia-the-old-country-gameplay-trailer-gives-off-major-red-dead-redemption-2-vibes-4320)
 <!-- BLOG-POST-LIST:END -->
 
 ---
