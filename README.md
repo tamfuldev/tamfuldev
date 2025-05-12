@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Clean SQL with Comments: Syntax and Practices for All Engines](https://dev.to/dbvismarketing/clean-sql-with-comments-syntax-and-practices-for-all-engines-38df)
-- [Quark’s Outlines: Python Forbidden Characters](https://dev.to/mike-vincent/quarks-outlines-python-forbidden-characters-5chn)
-- [The Digital Antidote: A.I Companions Attack Loneliness in 2025](https://dev.to/nuno_garcia/the-digital-antidote-ai-companions-attack-loneliness-in-2025-1jca)
-- [Q-Orchestrator: My AI-Powered CLI Co-Pilot, Supercharged by Amazon Q Developer!](https://dev.to/haseebarshad/q-orchestrator-my-ai-powered-cli-co-pilot-supercharged-by-amazon-q-developer-o4e)
-- [Solutions Architect Simulator](https://dev.to/erendirek/solutions-architect-simulator-4f0h)
+- [Arranca QA IA Weekly: lo que vas a encontrar aquí](https://dev.to/abarragancosto/arranca-qa-ia-weekly-lo-que-vas-a-encontrar-aqui-1ahh)
+- [Brighter and RabbitMQ: How to setup and use Brighter with RabbitMQ](https://dev.to/actor-dev/brighter-and-rabbitmq-how-to-setup-and-use-brighter-with-rabbitmq-dcn)
+- [A Developer’s Guide to Browser Storage: Local Storage, Session Storage, and Cookies](https://dev.to/aneeqakhan/a-developers-guide-to-browser-storage-local-storage-session-storage-and-cookies-4c5f)
+- [Brighter + RabbitMQ: Como configurar Brighter com RabbitMQ](https://dev.to/actor-dev/brighter-rabbitmq-como-configurar-brighter-com-rabbitmq-1lj5)
+- [How to Format Strings in Go Like Python&#39;s f-Strings?](https://dev.to/generatecodedev/how-to-format-strings-in-go-like-pythons-f-strings-3g18)
 <!-- BLOG-POST-LIST:END -->
 
 ---
