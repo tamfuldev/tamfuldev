@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Web Development Trends in 2025](https://dev.to/riteshkokam/web-development-trends-in-2025-536l)
-- [I Installed Omakub Five Times So You Can Do It Just Once](https://dev.to/tacoda/i-installed-omakub-five-times-so-you-can-do-it-just-once-2ek8)
-- [[Boost]](https://dev.to/brains_behind_bots/-286a)
-- [Voice AI Agents](https://dev.to/brains_behind_bots/voice-ai-agents-k2e)
-- [EA says it ‘feels very good’ about Battlefield’s release now that GTA 6 has been delayed | VGC](https://dev.to/gg_news/ea-says-it-feels-very-good-about-battlefields-release-now-that-gta-6-has-been-delayed-vgc-imf)
+- [How to format dates in JavaScript: Methods, libraries, and best practices](https://dev.to/logrocket/how-to-format-dates-in-javascript-methods-libraries-and-best-practices-4h56)
+- [Convertir elementos usando map en Java](https://dev.to/asjordi/convertir-elementos-usando-map-en-java-f28)
+- [What is Machine Learning? A Beginner’s Journey Through the World of Smart Algorithms](https://dev.to/codestory__/what-is-machine-learning-a-beginners-journey-through-the-world-of-smart-algorithms-18kb)
+- [What are your goals for the week? #126](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-126-2d7i)
+- [Check if All Characters Have Equal Number of Occurrences](https://dev.to/thivyaamohan/check-if-all-characters-have-equal-number-of-occurrences-29eo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
