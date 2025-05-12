@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Arranca QA IA Weekly: lo que vas a encontrar aquí](https://dev.to/abarragancosto/arranca-qa-ia-weekly-lo-que-vas-a-encontrar-aqui-1ahh)
-- [Brighter and RabbitMQ: How to setup and use Brighter with RabbitMQ](https://dev.to/actor-dev/brighter-and-rabbitmq-how-to-setup-and-use-brighter-with-rabbitmq-dcn)
-- [A Developer’s Guide to Browser Storage: Local Storage, Session Storage, and Cookies](https://dev.to/aneeqakhan/a-developers-guide-to-browser-storage-local-storage-session-storage-and-cookies-4c5f)
-- [Brighter + RabbitMQ: Como configurar Brighter com RabbitMQ](https://dev.to/actor-dev/brighter-rabbitmq-como-configurar-brighter-com-rabbitmq-1lj5)
-- [How to Format Strings in Go Like Python&#39;s f-Strings?](https://dev.to/generatecodedev/how-to-format-strings-in-go-like-pythons-f-strings-3g18)
+- [The Evolution of AI Companions: From Text to Lifelike Conversation](https://dev.to/rizzoc/the-evolution-of-ai-companions-from-text-to-lifelike-conversation-3bkn)
+- [The Evolution of Chat Technology: Bridging the Digital Divide](https://dev.to/tyler_ash/the-evolution-of-chat-technology-bridging-the-digital-divide-1262)
+- [Common SQL Mistakes and How to Avoid Them](https://dev.to/nicodemus_koech_de2504f3e/common-sql-mistakes-and-how-to-avoid-them-5dh)
+- [Simplify Signing Policies and Procedures in Accounting Firms with BoldSign](https://dev.to/boldsign/simplify-signing-policies-and-procedures-in-accounting-firms-with-boldsign-40nl)
+- [What is Corda Java SDK? The Open Source Business Model, Funding, and Community](https://dev.to/ahmmrizv9/what-is-corda-java-sdk-the-open-source-business-model-funding-and-community-1jc8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
