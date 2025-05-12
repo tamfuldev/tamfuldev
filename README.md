@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Engaging Multichoice Quiz App with Vanilla JavaScript](https://dev.to/learncomputer/building-an-engaging-multichoice-quiz-app-with-vanilla-javascript-2701)
-- [Creating an MCP server with Anthropic](https://dev.to/codecowboydotio/creating-an-mcp-server-with-anthropic-3m87)
-- [The ultimate kubernetes guide](https://dev.to/stellaacharoiro/the-ultimate-kubernetes-guide-3j40)
-- [The Ultimate Kubernetes Guide: From Zero to Production-Ready](https://dev.to/stellaacharoiro/the-ultimate-kubernetes-guide-from-zero-to-production-ready-1pih)
-- [Build a Flutter Live Streaming App in 10 Minutes](https://dev.to/susiewang/build-a-flutter-live-streaming-app-in-10-minutes-2hid)
+- [Mason.nvim: The Ultimate Guide to Managing Your Neovim Tooling](https://dev.to/ralphsebastian/masonnvim-the-ultimate-guide-to-managing-your-neovim-tooling-4520)
+- [🚀 Efficient Web Directory Search with PHP! 🔎](https://dev.to/vsuin/efficient-web-directory-search-with-php-1092)
+- [Contact Form 📩](https://dev.to/vsuin/contact-form-3jn5)
+- [Amazon Q Quack The Code: Pompeii Time Out](https://dev.to/allen_proulx_341c49170609/amazon-q-quack-the-code-pompeii-time-out-3hnh)
+- [Is AI the New Oil? We Need to Talk About What It’s Costing Us](https://dev.to/mayankdhingra02/is-ai-the-new-oil-we-need-to-talk-about-what-its-costing-us-2opn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
