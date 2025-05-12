@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to format dates in JavaScript: Methods, libraries, and best practices](https://dev.to/logrocket/how-to-format-dates-in-javascript-methods-libraries-and-best-practices-4h56)
-- [Convertir elementos usando map en Java](https://dev.to/asjordi/convertir-elementos-usando-map-en-java-f28)
-- [What is Machine Learning? A Beginner’s Journey Through the World of Smart Algorithms](https://dev.to/codestory__/what-is-machine-learning-a-beginners-journey-through-the-world-of-smart-algorithms-18kb)
-- [What are your goals for the week? #126](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-126-2d7i)
-- [Check if All Characters Have Equal Number of Occurrences](https://dev.to/thivyaamohan/check-if-all-characters-have-equal-number-of-occurrences-29eo)
+- [React Isn’t Dead—You’re Just Building the Wrong Startup](https://dev.to/dev-resources/react-isnt-dead-youre-just-building-the-wrong-startup-4lfo)
+- [Launch a Nerdy React Blog Without Writing a Word](https://dev.to/0x8h_site/launch-a-nerdy-react-blog-without-writing-a-word-26h)
+- [What Is Vibe-But-Verify Coding?](https://dev.to/bagelbomb/what-is-vibe-but-verify-coding-cbk)
+- [[Boost]](https://dev.to/rakeshv675/-2mi8)
+- [Jenkins Shared Libraries: Stop Repeating Yourself and Master Complex Pipelines](https://dev.to/alex_aslam/jenkins-shared-libraries-stop-repeating-yourself-and-master-complex-pipelines-11if)
 <!-- BLOG-POST-LIST:END -->
 
 ---
