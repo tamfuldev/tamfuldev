@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🔐 Build &amp; Run Your Own TOTP Generator in Under 5 Minutes — with Amazon Q Developer](https://dev.to/minhlong2605/build-run-your-own-totp-generator-in-under-5-minutes-with-amazon-q-developer-1f6d)
-- [Power Automate - How to Change Connection Owners](https://dev.to/wyattdave/power-automate-how-to-change-connection-owners-oid)
-- [Devbridge, a knowledge bridge](https://dev.to/async_dime/devbridge-a-knowledge-bridge-4479)
-- [Conquer the Realm of Coding in the Code Quest Adventure Game](https://dev.to/hasbimizan/conquer-the-realm-of-coding-in-the-code-quest-adventure-game-57kp)
-- [Anaconda vs Miniconda: Which one should you use for DS](https://dev.to/vjs/anaconda-vs-miniconda-which-one-should-you-use-for-ds-6co)
+- [Clean SQL with Comments: Syntax and Practices for All Engines](https://dev.to/dbvismarketing/clean-sql-with-comments-syntax-and-practices-for-all-engines-38df)
+- [Quark’s Outlines: Python Forbidden Characters](https://dev.to/mike-vincent/quarks-outlines-python-forbidden-characters-5chn)
+- [The Digital Antidote: A.I Companions Attack Loneliness in 2025](https://dev.to/nuno_garcia/the-digital-antidote-ai-companions-attack-loneliness-in-2025-1jca)
+- [Q-Orchestrator: My AI-Powered CLI Co-Pilot, Supercharged by Amazon Q Developer!](https://dev.to/haseebarshad/q-orchestrator-my-ai-powered-cli-co-pilot-supercharged-by-amazon-q-developer-o4e)
+- [Solutions Architect Simulator](https://dev.to/erendirek/solutions-architect-simulator-4f0h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
