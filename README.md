@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Tree vs Trie: Understanding the Differences and Use Cases](https://dev.to/imsushant12/tree-vs-trie-understanding-the-differences-and-use-cases-1430)
-- [Understanding DNS: The Internet&#39;s Phone Book and Why It&#39;s Critical for Web Browsing](https://dev.to/hlnb/understanding-dns-the-internets-phone-book-and-why-its-critical-for-web-browsing-3h95)
-- [How to Generate Video Thumbnails in Dart Using File Picker](https://dev.to/generatecodedev/how-to-generate-video-thumbnails-in-dart-using-file-picker-ke9)
-- [What is Iroha Java Library: Exploring Open Source Business Models, Funding, and Community Dynamics](https://dev.to/laetitiaperraut/what-is-iroha-java-library-exploring-open-source-business-models-funding-and-community-dynamics-131e)
-- [Building an AI-Powered Form Builder with Community Templates – Seeking Your Feedback!](https://dev.to/dhirajarya01/building-an-ai-powered-form-builder-with-community-templates-seeking-your-feedback-4onn)
+- [Building an Engaging Multichoice Quiz App with Vanilla JavaScript](https://dev.to/learncomputer/building-an-engaging-multichoice-quiz-app-with-vanilla-javascript-2701)
+- [Creating an MCP server with Anthropic](https://dev.to/codecowboydotio/creating-an-mcp-server-with-anthropic-3m87)
+- [The ultimate kubernetes guide](https://dev.to/stellaacharoiro/the-ultimate-kubernetes-guide-3j40)
+- [The Ultimate Kubernetes Guide: From Zero to Production-Ready](https://dev.to/stellaacharoiro/the-ultimate-kubernetes-guide-from-zero-to-production-ready-1pih)
+- [Build a Flutter Live Streaming App in 10 Minutes](https://dev.to/susiewang/build-a-flutter-live-streaming-app-in-10-minutes-2hid)
 <!-- BLOG-POST-LIST:END -->
 
 ---
