@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Multi-User Secure File Sharing System with ACLs on Red Hat Linux](https://dev.to/shamain_anjum/multi-user-secure-file-sharing-system-with-acls-on-red-hat-linux-1n9g)
-- [Tableu Calculated Fields](https://dev.to/robinadoro/tableu-calculated-fields-4e6n)
-- [Vercel AI SDK v5 Internals - Part 4 — Decoupling Client &amp; Server: State Management and Message Conversion](https://dev.to/yigit-konur/vercel-ai-sdk-v5-internals-part-4-decoupling-client-server-state-management-and-message-1lb1)
-- [What Are the Differences Between USE_CONCAT and OR_EXPAND in SQL?](https://dev.to/generatecodedev/what-are-the-differences-between-useconcat-and-orexpand-in-sql-1mia)
-- [You Asked, I Coded: How I Turned AWS Architecture into a Diagram Using Code](https://dev.to/r0mymendez/you-asked-i-coded-how-i-turned-aws-architecture-into-a-diagram-using-code-17c8)
+- [Stop Hiring Data Analysts](https://dev.to/hermanzdosilovic/stop-hiring-data-analysts-1deb)
+- [You Don&#39;t Need GORM, there is a better alternative](https://dev.to/bitsofmandal-yt/you-dont-need-gorm-there-is-a-better-alternative-12j2)
+- [A Inteligência Artificial Generativa não ameaça empregos. Ela ameaça estruturas empresariais obsoletas.](https://dev.to/igoraraujo/a-inteligencia-artificial-generativa-nao-ameaca-empregos-ela-ameaca-estruturas-empresariais-3il4)
+- [Choosing a Cloud Provider? Here’s Why It’s More Than Just a Price Tag](https://dev.to/shlok-talepa/choosing-a-cloud-provider-heres-why-its-more-than-just-a-price-tag-edb)
+- [Live Streaming 1080p VP9 via Icecast – No CDN, Just WebM!](https://dev.to/dos_gr/live-streaming-1080p-vp9-via-icecast-no-cdn-just-webm-1g9d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
