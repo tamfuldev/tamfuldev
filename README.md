@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Code in Dark Mode?](https://dev.to/anitaolsen/why-code-in-dark-mode-2hee)
-- [12 Essential Sites Every Developer Should Know 🌐](https://dev.to/cryptosandy/12-essential-sites-every-developer-should-know-2h6i)
-- [Day 20/ 30 Days of Linux Mastery: Recover/Rescue Root Password in RHEL9](https://dev.to/amandaigwe/day-20-30-days-of-linux-mastery-recoverrescue-root-password-in-rhel9-111b)
-- [From Code to Competition: The Technical Evolution of Crypto Trading Tournaments](https://dev.to/alexnav/from-code-to-competition-the-technical-evolution-of-crypto-trading-tournaments-2dco)
-- [Sending Personalized Telegram Messages in Bulk](https://dev.to/sqlman/sending-personalized-telegram-messages-in-bulk-2pa)
+- [UK games market decreased by 1.8% in 2024 to £7.63 billion](https://dev.to/gg_news/uk-games-market-decreased-by-18-in-2024-to-ps763-billion-4h09)
+- [It Looks Like We&#39;re Gonna Get Half-Life 3 Before GTA 6 And The Elder Scrolls 6](https://dev.to/gg_news/it-looks-like-were-gonna-get-half-life-3-before-gta-6-and-the-elder-scrolls-6-572l)
+- [Apple’s smart glasses might run on this AI model](https://dev.to/future_arvr/apples-smart-glasses-might-run-on-this-ai-model-3o3c)
+- [How to use custom fonts in Tailwind CSS](https://dev.to/logrocket/how-to-use-custom-fonts-in-tailwind-css-57bh)
+- [Crafting Type-Safe Zod Helpers: A Deep Dive into `preprocess` and TypeScript Wizardry](https://dev.to/ssilve1989/crafting-type-safe-zod-helpers-a-deep-dive-into-preprocess-and-typescript-wizardry-6pa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
