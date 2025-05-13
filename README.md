@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Modern Rails Rendering Techniques: Choosing Between Turbo Drive, Frames, Streams and Morph](https://dev.to/harsh_u115/modern-rails-rendering-techniques-choosing-between-turbo-drive-frames-streams-and-morph-3lek)
-- [[Boost]](https://dev.to/mkahil/-4gm4)
-- [How to Make Your Perl Script Executable in CGI-Bin?](https://dev.to/generatecodedev/how-to-make-your-perl-script-executable-in-cgi-bin-1le1)
-- [[Boost]](https://dev.to/wisser/-ldd)
-- [3. Longest Substring Without Repeating Characters Solved](https://dev.to/xyz_pythonic/3-longest-substring-without-repeating-characterssolved-40lk)
+- [Unveiling Open Group License: In-Depth Analysis, Applications, and Future Innovations](https://dev.to/jennythomas498/unveiling-open-group-license-in-depth-analysis-applications-and-future-innovations-1710)
+- [Your Email Was in a Data Breach :&lpar;](https://dev.to/nightmare-lynx/your-email-was-in-a-data-breach--47mo)
+- [Extracting Data from APIs Using Python — A Beginner-Friendly Guide](https://dev.to/evlyn_njagi_a32f3ab6c984/extracting-data-from-apis-using-python-a-beginner-friendly-guide-4l48)
+- [Extracting Data from APIs Using Python — A Beginner-Friendly Guide](https://dev.to/evlyn_njagi_a32f3ab6c984/extracting-data-from-apis-using-python-a-beginner-friendly-guide-36k6)
+- [Cross-Platform Content Publishing](https://dev.to/revisepdf/cross-platform-content-publishing-476e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
