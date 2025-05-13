@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Machine Learning testing strategies](https://dev.to/kunaal_ai_tester/machine-learning-testing-strategies-410g)
-- [A small note about me &lpar;and the weird stuff I post&rpar;](https://dev.to/uka_aidev/a-small-note-about-me-and-the-weird-stuff-i-post-4ib4)
-- [How to Retrieve Required Properties from a TypeScript Interface](https://dev.to/generatecodedev/how-to-retrieve-required-properties-from-a-typescript-interface-3j66)
-- [Lombok Field Iteration: Safer Object Copying in Java](https://dev.to/naomimyselfandi/lombok-field-iteration-safer-object-copying-in-java-2mp1)
-- [🔐 OAuth 2.0: The Modern Gatekeeper of Secure Authorization](https://dev.to/mohammad1105/oauth-20-the-modern-gatekeeper-of-secure-authorization-55ak)
+- [How I Got Funded for My Startup Through a Hackathon Win](https://dev.to/pitterdamaged/how-i-got-funded-for-my-startup-through-a-hackathon-win-1fb7)
+- [🎬 I Built a YouTube Clone](https://dev.to/soorajsnblaze333/i-built-a-youtube-clone-f0a)
+- [How to Retrieve Hierarchical Flex Values in Oracle EBS?](https://dev.to/generatecodedev/how-to-retrieve-hierarchical-flex-values-in-oracle-ebs-5e6g)
+- [𝐀 𝐅𝐮𝐥𝐥𝐲 𝐋𝐨𝐜𝐚𝐥 𝐀𝐈 𝐂𝐡𝐚𝐭𝐛𝐨𝐭 𝐔𝐬𝐢𝐧𝐠 𝐎𝐥𝐥𝐚𝐦𝐚, 𝐋𝐚𝐧𝐠𝐂𝐡𝐚𝐢𝐧 &amp; 𝐂𝐡𝐫𝐨𝐦𝐚𝐃𝐁](https://dev.to/rajeev_3ce9f280cbae73b234/--2koi)
+- [Unveiling GNU Free Documentation License 1.3: A Comprehensive Exploration of Its Depths, Applications, and Future Trends](https://dev.to/ahmmrizv9/unveiling-gnu-free-documentation-license-13-a-comprehensive-exploration-of-its-depths-4d67)
 <!-- BLOG-POST-LIST:END -->
 
 ---
