@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building an A2A Currency Agent with LangGraph](https://dev.to/czmilo/building-an-a2a-currency-agent-with-langgraph-5c24)
-- [Implementing Sign in with Apple in Laravel REST API](https://dev.to/mamondev193/implementing-sign-in-with-apple-in-laravel-rest-api-m5o)
-- [Here&#39;s Why You Should Still Care About Creating Wireframes](https://dev.to/d2d_weizhi/heres-why-you-should-still-care-about-creating-wireframes-2ga0)
-- [Getting Started with Rust: A Modern Systems Programming Language](https://dev.to/media_geneous_bb80d6b5563/getting-started-with-rust-a-modern-systems-programming-language-28ko)
-- [Copilot Proxy: Your Free LLM API for Local Development](https://dev.to/hankchiutw/copilot-proxy-your-free-llm-api-for-local-development-3c07)
+- [Under the Hood: How Tesla Powers its Android App with React Native](https://dev.to/whatstack/under-the-hood-how-tesla-powers-its-android-app-with-react-native-eb4)
+- [A Comprehensive Guide to Building a Deep Research Agent with Qwen3 Locally](https://dev.to/composiodev/a-comprehensive-guide-to-building-a-deep-research-agent-with-qwen3-locally-1jgm)
+- [🚀 Day 1 of My 30-Day Core Java Challenge – Learning with Udemy!](https://dev.to/sujaykumar_84604ac0165b3a/day-1-of-my-30-day-core-java-challenge-learning-with-udemy-580)
+- [Uniapp Development Tutorial for HarmonyOS Applications - Optional api and Composite api](https://dev.to/youlanjihua/uniappkai-fa-hong-meng-ying-yong-jiao-cheng-zhi-xuan-xiang-shi-apihe-zu-he-shi-api-b7j)
+- [🌐 From Zero to Web Hero: Mastering HTML, CSS &amp; JavaScript in Style 💻✨](https://dev.to/rashmi_kaveesha/from-zero-to-web-hero-mastering-html-css-javascript-in-style-2n7j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
