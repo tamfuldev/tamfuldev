@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [MongoDB Views or Materialized Views: When to Use?](https://dev.to/mayallo/mongodb-views-or-materialized-views-when-to-use-46d8)
-- [Unlocking Space-Efficient Magic: A Deep Dive into Bloom Filters](https://dev.to/dhanush___b/unlocking-space-efficient-magic-a-deep-dive-into-bloom-filters-1b62)
-- [Why You Should Use function_exists in Your PHP Helpers](https://dev.to/yasserelgammal/why-you-should-use-functionexists-in-your-php-helpers-3m4h)
-- [How to Pass AWS Certifications](https://dev.to/kuljotbiring/how-to-pass-aws-certifications-64c)
-- [OAuth 1.0 vs OAuth 2.0 in .NET Core](https://dev.to/renukapatil/oauth-10-vs-oauth-20-in-net-core-5bpg)
+- [[WIP][Godot 4 &amp; Py] BrainsIAAndPixels – 3D PixelArt Game with AI-Controlled NPCs](https://dev.to/the_giordi/wipgodot-4-py-brainsiaandpixels-3d-pixelart-game-with-ai-controlled-npcs-3oee)
+- [Which is the best Agile certification for Project Managers?](https://dev.to/arianaa/which-is-the-best-agile-certification-for-project-managers-2fpp)
+- [How to Test and Debug Servers with Postman MCP Client, A Step by Step guide.](https://dev.to/ralphsebastian/how-to-test-and-debug-servers-with-postman-mcp-client-a-step-by-step-guide-275g)
+- [Automating Random Backdated Git Commits with Node.js](https://dev.to/mahmud-r-farhan/automating-random-backdated-git-commits-with-nodejs-48ob)
+- [Next-Gen WAF for Devs: Why SafeLine Is Gaining 14K+ GitHub Stars](https://dev.to/sharon_42e16b8da44dabde6d/next-gen-waf-for-devs-why-safeline-is-gaining-14k-github-stars-3jjf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
