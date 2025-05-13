@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why is My Dart Broadcast Stream Controller Not Working?](https://dev.to/generatecodedev/why-is-my-dart-broadcast-stream-controller-not-working-p0o)
-- [How to Handle Firefox&#39;s DOM State Reload Issue for Your Website?](https://dev.to/generatecodedev/how-to-handle-firefoxs-dom-state-reload-issue-for-your-website-48d)
-- [From Chaos to Clarity: Making Your Data AI-Ready](https://dev.to/marcus_w/from-chaos-to-clarity-making-your-data-ai-ready-16an)
-- [DiffusionEdge: Diffusion Probabilistic Model for Crisp Edge Detection](https://dev.to/sweet_mouth/diffusionedge-diffusion-probabilistic-model-for-crisp-edge-detection-2jo9)
-- [Linux](https://dev.to/mr_mfrzo/linux-4n8i)
+- [Machine Learning testing strategies](https://dev.to/kunaal_ai_tester/machine-learning-testing-strategies-410g)
+- [A small note about me &lpar;and the weird stuff I post&rpar;](https://dev.to/uka_aidev/a-small-note-about-me-and-the-weird-stuff-i-post-4ib4)
+- [How to Retrieve Required Properties from a TypeScript Interface](https://dev.to/generatecodedev/how-to-retrieve-required-properties-from-a-typescript-interface-3j66)
+- [Lombok Field Iteration: Safer Object Copying in Java](https://dev.to/naomimyselfandi/lombok-field-iteration-safer-object-copying-in-java-2mp1)
+- [🔐 OAuth 2.0: The Modern Gatekeeper of Secure Authorization](https://dev.to/mohammad1105/oauth-20-the-modern-gatekeeper-of-secure-authorization-55ak)
 <!-- BLOG-POST-LIST:END -->
 
 ---
