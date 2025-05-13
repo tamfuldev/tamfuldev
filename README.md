@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building with Heart](https://dev.to/rukshanprog/building-with-heart-54fb)
-- [Exporting and Summarizing PDF Annotations](https://dev.to/revisepdf/exporting-and-summarizing-pdf-annotations-33d1)
-- [Code is Liability](https://dev.to/vst/code-is-liability-1l4o)
-- [Your Engineering Velocity Is the Only Metric That Matters](https://dev.to/shayy/your-engineering-velocity-is-the-only-metric-that-matters-ocg)
-- [Breaking Barriers: Why Women&#39;s Representation in Tech Matters](https://dev.to/urielalonso/breaking-barriers-why-womens-representation-in-tech-matters-1d0j)
+- [Multi-User Secure File Sharing System with ACLs on Red Hat Linux](https://dev.to/shamain_anjum/multi-user-secure-file-sharing-system-with-acls-on-red-hat-linux-1n9g)
+- [Tableu Calculated Fields](https://dev.to/robinadoro/tableu-calculated-fields-4e6n)
+- [Vercel AI SDK v5 Internals - Part 4 — Decoupling Client &amp; Server: State Management and Message Conversion](https://dev.to/yigit-konur/vercel-ai-sdk-v5-internals-part-4-decoupling-client-server-state-management-and-message-1lb1)
+- [What Are the Differences Between USE_CONCAT and OR_EXPAND in SQL?](https://dev.to/generatecodedev/what-are-the-differences-between-useconcat-and-orexpand-in-sql-1mia)
+- [You Asked, I Coded: How I Turned AWS Architecture into a Diagram Using Code](https://dev.to/r0mymendez/you-asked-i-coded-how-i-turned-aws-architecture-into-a-diagram-using-code-17c8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
