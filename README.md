@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Got Funded for My Startup Through a Hackathon Win](https://dev.to/pitterdamaged/how-i-got-funded-for-my-startup-through-a-hackathon-win-1fb7)
-- [🎬 I Built a YouTube Clone](https://dev.to/soorajsnblaze333/i-built-a-youtube-clone-f0a)
-- [How to Retrieve Hierarchical Flex Values in Oracle EBS?](https://dev.to/generatecodedev/how-to-retrieve-hierarchical-flex-values-in-oracle-ebs-5e6g)
-- [𝐀 𝐅𝐮𝐥𝐥𝐲 𝐋𝐨𝐜𝐚𝐥 𝐀𝐈 𝐂𝐡𝐚𝐭𝐛𝐨𝐭 𝐔𝐬𝐢𝐧𝐠 𝐎𝐥𝐥𝐚𝐦𝐚, 𝐋𝐚𝐧𝐠𝐂𝐡𝐚𝐢𝐧 &amp; 𝐂𝐡𝐫𝐨𝐦𝐚𝐃𝐁](https://dev.to/rajeev_3ce9f280cbae73b234/--2koi)
-- [Unveiling GNU Free Documentation License 1.3: A Comprehensive Exploration of Its Depths, Applications, and Future Trends](https://dev.to/ahmmrizv9/unveiling-gnu-free-documentation-license-13-a-comprehensive-exploration-of-its-depths-4d67)
+- [Building an A2A Currency Agent with LangGraph](https://dev.to/czmilo/building-an-a2a-currency-agent-with-langgraph-5c24)
+- [Implementing Sign in with Apple in Laravel REST API](https://dev.to/mamondev193/implementing-sign-in-with-apple-in-laravel-rest-api-m5o)
+- [Here&#39;s Why You Should Still Care About Creating Wireframes](https://dev.to/d2d_weizhi/heres-why-you-should-still-care-about-creating-wireframes-2ga0)
+- [Getting Started with Rust: A Modern Systems Programming Language](https://dev.to/media_geneous_bb80d6b5563/getting-started-with-rust-a-modern-systems-programming-language-28ko)
+- [Copilot Proxy: Your Free LLM API for Local Development](https://dev.to/hankchiutw/copilot-proxy-your-free-llm-api-for-local-development-3c07)
 <!-- BLOG-POST-LIST:END -->
 
 ---
