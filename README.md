@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 Stripe + Jony Ive Fireside, UI After LLMs &amp; DOOM in CSS](https://dev.to/adam/stripe-jony-ive-fireside-ui-after-llms-doom-in-css-2j3i)
-- [Pioneering a New Era of AI Innovation](https://dev.to/rawveg/pioneering-a-new-era-of-ai-innovation-197)
-- [Docker – Simplifying the Deployment Process](https://dev.to/gabrielle_eduarda_776996b/docker-simplifying-the-deployment-process-447a)
-- [How to Diagnose Azure Function Failures with Octokit Instantiation?](https://dev.to/generatecodedev/how-to-diagnose-azure-function-failures-with-octokit-instantiation-2n3e)
-- [Real-Time Monitoring of Laser Lipo Output via Python or Node.js](https://dev.to/kora_pertenson_0d09b8e1be/real-time-monitoring-of-laser-lipo-output-via-python-or-nodejs-3gg0)
+- [Day 3/200 &lpar;Full stack&rpar;](https://dev.to/munin-1/day-3200-full-stack-n42)
+- [How to Override Bootstrap Fonts with Custom Fonts](https://dev.to/generatecodedev/how-to-override-bootstrap-fonts-with-custom-fonts-52j9)
+- [Personal Picks: Data Product News &lpar;May 14, 2025&rpar;](https://dev.to/sagara/personal-picks-data-product-news-may-14-2025-502o)
+- [Solidity for Beginners: A Complete Guide to Writing, Testing, and Deploying Smart Contracts with Foundry, Hardhat, and EVM](https://dev.to/ozee/solidity-for-beginners-a-complete-guide-to-writing-testing-and-deploying-smart-contracts-with-11g1)
+- [Digging Deeper into Code with Tree-Sitter: How to Query Your Syntax Tree](https://dev.to/shailendra53/digging-deeper-into-code-with-tree-sitter-how-to-query-your-syntax-tree-3i1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
