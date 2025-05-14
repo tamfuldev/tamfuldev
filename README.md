@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix &#39;singleton can&#39;t be dumped&#39; in Rails 8 Cache?](https://dev.to/generatecodedev/how-to-fix-singleton-cant-be-dumped-in-rails-8-cache-5hdo)
-- [Linux Primer](https://dev.to/rajaaaaa07_/linux-primer-355)
-- [200+ Free PHP Projects with Source Code for Beginners](https://dev.to/hello_coderobotics_e811b/200-free-php-projects-with-source-code-for-beginners-20o6)
-- [How Do Function Literals Impact Performance in Scala Pipelines?](https://dev.to/generatecodedev/how-do-function-literals-impact-performance-in-scala-pipelines-4ji1)
-- [Tired of GUI builders? I made a code-first alternative to Retool](https://dev.to/aktky/tired-of-gui-builders-i-made-a-code-first-alternative-to-retool-2kgh)
+- [Building a Searchable Product List with React Server Components](https://dev.to/hexshift/building-a-searchable-product-list-with-react-server-components-4hod)
+- [The Basics of PHP for Web Development](https://dev.to/media_geneous_bb80d6b5563/the-basics-of-php-for-web-development-5hnh)
+- [Common Use Cases for Button-Triggered Excel Macros](https://dev.to/seonglinchua/common-use-cases-for-button-triggered-excel-macros-352d)
+- [Finding A Mentor For My Web development journey](https://dev.to/nande_nqetho343/finding-a-mentor-for-my-web-development-journey-45ic)
+- [HarmonyOS Next Game Development: From Creativity to Online](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-game-development-from-creativity-to-online-2cda)
 <!-- BLOG-POST-LIST:END -->
 
 ---
