@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Web Transport API for Low-Latency Data Streams](https://dev.to/omriluz1/web-transport-api-for-low-latency-data-streams-402m)
-- [Which Kubernetes Certification Should You Get? A Clear Guide &lpar;No Hype&rpar;](https://dev.to/thecloudarchitect/which-kubernetes-certification-should-you-get-a-clear-guide-no-hype-4f8g)
-- [How I Built Italian Brainrot AI Animals Alternative using AI/ML API](https://dev.to/abdibrokhim/how-i-built-italian-brainrot-ai-animals-alternative-using-aiml-api-3cai)
-- [Networking in HarmonyOS: HTTP and WebSocket](https://dev.to/handwer/networking-in-harmonyos-http-and-websocket-2h64)
-- [Cloud-Native Maintenance: The New Standard for Software Longevity](https://dev.to/alona_instandart/cloud-native-maintenance-the-new-standard-for-software-longevity-1ae2)
+- [3 Projects I Built to Learn Web Development &lpar;with Next.js&rpar;](https://dev.to/unisho/3-projects-i-built-to-learn-web-development-with-nextjs-1b4e)
+- [Rowing team dev fail](https://dev.to/hotfixhero/rowing-team-dev-fail-1ba)
+- [TypeScript for React Developers – 5-Minute Quick Review](https://dev.to/tishonator/typescript-for-react-developers-5-minute-quick-review-583c)
+- [Unveiling Creative Commons Attribution 4.0: A Comprehensive Overview and Future Outlook](https://dev.to/bobcars/unveiling-creative-commons-attribution-40-a-comprehensive-overview-and-future-outlook-4cja)
+- [Redux in React – 5-Minute Quick Review](https://dev.to/tishonator/redux-in-react-5-minute-quick-review-1h86)
 <!-- BLOG-POST-LIST:END -->
 
 ---
