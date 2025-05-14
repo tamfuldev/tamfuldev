@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Track LLM User Feedback to Improve Your AI Applications](https://dev.to/lina_lam_9ee459f98b67e9d5/how-to-track-llm-user-feedback-to-improve-your-ai-applications-1a08)
-- [Internship Completed](https://dev.to/ritesh_thakur_4a4301a95a1/internship-completed-257g)
-- [Optimizing Lambda Performance with AWS Lambda Power Tuning](https://dev.to/marciojc/optimizing-lambda-performance-with-aws-lambda-power-tuning-2m2o)
-- [Unveiling Educational Community License 2.0: A Comprehensive Overview](https://dev.to/ahmmrizv9/unveiling-educational-community-license-20-a-comprehensive-overview-1694)
-- [Descubra o Modo Agente do GitHub Copilot](https://dev.to/pachicodes/descubra-o-modo-agente-do-github-copilot-54j2)
+- [Focus on the product, not the tech stack](https://dev.to/chiragagg5k/focus-on-the-product-not-the-tech-stack-15d)
+- [213/365 | ¥10M Job Challenge - Dream](https://dev.to/kameken100/213365-y10m-job-challenge-dream-6af)
+- [How to Join Two Tables with Composite Keys in SQL?](https://dev.to/generatecodedev/how-to-join-two-tables-with-composite-keys-in-sql-5a6e)
+- [Oracle Visual Builder &lpar;VB&rpar; Authentication Using External Identity Provider Instead of Oracle IAM](https://dev.to/mrinmoyaichdevto/oracle-visual-builder-vb-authentication-using-external-identity-provider-instead-of-oracle-iam-196l)
+- [🦾 Modify Like a Machine: Mastering `usermod` with The Terminator](https://dev.to/ldwit/modify-like-a-machine-mastering-usermod-with-the-terminator-2m9i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
