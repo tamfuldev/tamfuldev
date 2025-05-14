@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Searchable Product List with React Server Components](https://dev.to/hexshift/building-a-searchable-product-list-with-react-server-components-4hod)
-- [The Basics of PHP for Web Development](https://dev.to/media_geneous_bb80d6b5563/the-basics-of-php-for-web-development-5hnh)
-- [Common Use Cases for Button-Triggered Excel Macros](https://dev.to/seonglinchua/common-use-cases-for-button-triggered-excel-macros-352d)
-- [Finding A Mentor For My Web development journey](https://dev.to/nande_nqetho343/finding-a-mentor-for-my-web-development-journey-45ic)
-- [HarmonyOS Next Game Development: From Creativity to Online](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-game-development-from-creativity-to-online-2cda)
+- [How to Build a Prompt-Friendly UI with React &amp; TypeScript](https://dev.to/gaa_song_9b454a81a1239a90/how-to-build-a-prompt-friendly-ui-with-react-typescript-2766)
+- [[HandsOn]Launching and testing Cisco Catalyst 8000V for SD-WAN &amp; Routing on AWS](https://dev.to/masakiokuda/handsonlaunching-and-testing-cisco-catalyst-8000v-for-sd-wan-routing-on-aws-3imf)
+- [Welcome Thread - v326](https://dev.to/devteam/welcome-thread-v326-1gg)
+- [AI Message Cleaner - Remove/Replace All Weird Characters](https://dev.to/u4systems/ai-message-cleaner-removereplace-all-weird-characters-aoo)
+- [I’m Still a Kid in This Ruthless Workplace: How Do I Cope?](https://dev.to/sharon_meng_0826/im-still-a-kid-in-this-ruthless-workplace-how-do-i-cope-2jdd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
