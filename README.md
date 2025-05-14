@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Are Apologies Training AIs to Deceive?](https://dev.to/rawveg/are-apologies-training-ais-to-deceive-3ja3)
-- [Untitled](https://dev.to/deeptargha_kumar_5c8e51da/untitled-2a99)
-- [Generate Professional AI Videos in Seconds with LTX by Lightricks](https://dev.to/nodeshiftcloud/generate-professional-ai-videos-in-seconds-with-ltx-by-lightricks-o97)
-- [How to Integrate Role-Based Access Control &lpar;RBAC&rpar; in Hospital Management Software](https://dev.to/nzcares/how-to-integrate-role-based-access-control-rbac-in-hospital-management-software-2cj4)
-- [How to Wrap Text in Flutter&#39;s Draggable Widget with Dart?](https://dev.to/generatecodedev/how-to-wrap-text-in-flutters-draggable-widget-with-dart-3jcl)
+- [Organização de Projetos no Github](https://dev.to/tjuliu/organizacao-de-projetos-no-github-121k)
+- [RestController](https://dev.to/tamilarasi/restcontroller-5283)
+- [Untitled](https://dev.to/deeptargha_kumar_5c8e51da/untitled-1ohg)
+- [Simple habits that made me a better developer](https://dev.to/sergueyasaelshinder/simple-habits-that-made-me-a-better-developer-5h17)
+- [How I Learned Generative AI in Two Weeks &lpar;and You Can Too&rpar;: Part 3 - Prompts &amp; Models](https://dev.to/llmware/how-i-learned-generative-ai-in-two-weeks-and-you-can-too-part-3-prompts-models-dd7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
