@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Focus on the product, not the tech stack](https://dev.to/chiragagg5k/focus-on-the-product-not-the-tech-stack-15d)
-- [213/365 | ¥10M Job Challenge - Dream](https://dev.to/kameken100/213365-y10m-job-challenge-dream-6af)
-- [How to Join Two Tables with Composite Keys in SQL?](https://dev.to/generatecodedev/how-to-join-two-tables-with-composite-keys-in-sql-5a6e)
-- [Oracle Visual Builder &lpar;VB&rpar; Authentication Using External Identity Provider Instead of Oracle IAM](https://dev.to/mrinmoyaichdevto/oracle-visual-builder-vb-authentication-using-external-identity-provider-instead-of-oracle-iam-196l)
-- [🦾 Modify Like a Machine: Mastering `usermod` with The Terminator](https://dev.to/ldwit/modify-like-a-machine-mastering-usermod-with-the-terminator-2m9i)
+- [🐚 What Happens When You Type ls *.c in the Terminal?](https://dev.to/aboahmd/what-happens-when-you-type-ls-c-in-the-terminal-2njo)
+- [I hope this changes the open source contributors](https://dev.to/anshuman_khanna_ff3187f11/i-hope-this-changes-the-open-source-contributors-15l)
+- [Unveiling Libpng License: A Comprehensive Exploration of Open Source Fair Code](https://dev.to/bobcars/unveiling-libpng-license-a-comprehensive-exploration-of-open-source-fair-code-5c82)
+- [The problem with Open Source, in 2025](https://dev.to/anshuman_khanna_ff3187f11/the-problem-with-open-source-in-2025-36bp)
+- [Deadline Extended for the Bright Data Real-Time AI Agents Challenge](https://dev.to/devteam/deadline-extended-for-bright-data-real-time-ai-agents-challenge-p1n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
