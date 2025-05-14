@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🎨 Freelancer / Indie Developer Website Template](https://dev.to/shreyvijayvargiya/freelancer-indie-developer-website-template-13c0)
-- [How To Learn C++](https://dev.to/sfundomhlungu/how-to-learn-c-neh)
-- [🚨 Your Kubernetes Cluster Is a Ticking Time Bomb &lpar;Unless You Patch It&rpar;](https://dev.to/alialp/-29i9)
-- [Freshservice Software License Management Explained](https://dev.to/emily_assetloom/freshservice-software-license-management-explained-53cf)
-- [The Inevitable Decay: How Long Before an Unpatched Kubernetes Cluster Becomes Critically Vulnerable?](https://dev.to/alialp/the-inevitable-decay-how-long-before-an-unpatched-kubernetes-cluster-becomes-critically-vulnerable-4bk)
+- [Are Apologies Training AIs to Deceive?](https://dev.to/rawveg/are-apologies-training-ais-to-deceive-3ja3)
+- [Untitled](https://dev.to/deeptargha_kumar_5c8e51da/untitled-2a99)
+- [Generate Professional AI Videos in Seconds with LTX by Lightricks](https://dev.to/nodeshiftcloud/generate-professional-ai-videos-in-seconds-with-ltx-by-lightricks-o97)
+- [How to Integrate Role-Based Access Control &lpar;RBAC&rpar; in Hospital Management Software](https://dev.to/nzcares/how-to-integrate-role-based-access-control-rbac-in-hospital-management-software-2cj4)
+- [How to Wrap Text in Flutter&#39;s Draggable Widget with Dart?](https://dev.to/generatecodedev/how-to-wrap-text-in-flutters-draggable-widget-with-dart-3jcl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
