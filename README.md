@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How YouTube handles downloading video](https://dev.to/hesanam/how-youtube-handles-downloading-video-54cc)
-- [Feature Management in .NET](https://dev.to/vimaltwit/feature-management-in-net-3l9e)
-- [Hi everyone! I’m working on a React project . My screen layout isn’t stretching properly . I’ve created a GitHub issue with code and screenshots. I’d really appreciate your input. 🔗 [https://github.com/Anonymous2024-spec/react-dashboard-milestone1/issues]](https://dev.to/nana_shifah_27908dd3b993e/hi-everyone-im-working-on-a-react-project-my-screen-layout-isnt-stretching-properly-ive-51g5)
-- [How to Implement a Simple Calculator in C](https://dev.to/generatecodedev/how-to-implement-a-simple-calculator-in-c-5g17)
-- [How to Post on DEV.to Using Python](https://dev.to/palak_singla_ae13e55615a4/how-to-post-on-devto-using-python-4be)
+- [Introducing the PullFlow Agent Experience: Streamline Your AI Collaboration](https://dev.to/pullflow/introducing-the-pullflow-agent-experience-streamline-your-ai-collaboration-52e9)
+- [Teaching Kids Ubuntu: Command Line Adventures!](https://dev.to/jliter/teaching-kids-ubuntu-command-line-adventures-4bge)
+- [My Journey Through `this` in JavaScript: From Confusion to Clarity](https://dev.to/skanenje/my-journey-through-this-in-javascript-from-confusion-to-clarity-hl1)
+- [Do you know how it works? - JS Getters &amp; Setters?](https://dev.to/matheusjulidori/do-you-know-how-it-works-js-getters-setters-2dnf)
+- [Streamlining Multi-Tenant Kubernetes: A Practical Implementation Guide for 2025](https://dev.to/gerimate/streamlining-multi-tenant-kubernetes-a-practical-implementation-guide-for-2025-1bin)
 <!-- BLOG-POST-LIST:END -->
 
 ---
