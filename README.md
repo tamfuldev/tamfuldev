@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 3/200 &lpar;Full stack&rpar;](https://dev.to/munin-1/day-3200-full-stack-n42)
-- [How to Override Bootstrap Fonts with Custom Fonts](https://dev.to/generatecodedev/how-to-override-bootstrap-fonts-with-custom-fonts-52j9)
-- [Personal Picks: Data Product News &lpar;May 14, 2025&rpar;](https://dev.to/sagara/personal-picks-data-product-news-may-14-2025-502o)
-- [Solidity for Beginners: A Complete Guide to Writing, Testing, and Deploying Smart Contracts with Foundry, Hardhat, and EVM](https://dev.to/ozee/solidity-for-beginners-a-complete-guide-to-writing-testing-and-deploying-smart-contracts-with-11g1)
-- [Digging Deeper into Code with Tree-Sitter: How to Query Your Syntax Tree](https://dev.to/shailendra53/digging-deeper-into-code-with-tree-sitter-how-to-query-your-syntax-tree-3i1)
+- [How to Fix &#39;singleton can&#39;t be dumped&#39; in Rails 8 Cache?](https://dev.to/generatecodedev/how-to-fix-singleton-cant-be-dumped-in-rails-8-cache-5hdo)
+- [Linux Primer](https://dev.to/rajaaaaa07_/linux-primer-355)
+- [200+ Free PHP Projects with Source Code for Beginners](https://dev.to/hello_coderobotics_e811b/200-free-php-projects-with-source-code-for-beginners-20o6)
+- [How Do Function Literals Impact Performance in Scala Pipelines?](https://dev.to/generatecodedev/how-do-function-literals-impact-performance-in-scala-pipelines-4ji1)
+- [Tired of GUI builders? I made a code-first alternative to Retool](https://dev.to/aktky/tired-of-gui-builders-i-made-a-code-first-alternative-to-retool-2kgh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
