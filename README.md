@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Introducing Coputo — Build Remote MCP Server in Seconds with TypeScript](https://dev.to/jtakahashi0604/introducing-coputo-build-remote-mcp-server-in-seconds-with-typescript-g33)
-- [Publishing ZIP artifacts with SBT](https://dev.to/lexplt/publishing-zip-artifacts-with-sbt-5edd)
-- [How AI Is Transforming Telegram Bot Development](https://dev.to/ivan_lysak/how-ai-is-transforming-telegram-bot-development-43fm)
-- [Unveiling Open Data Commons and Beyond: Exploring Open Database Licenses, Fair Code, and Blockchain Innovation](https://dev.to/jennythomas498/unveiling-open-data-commons-and-beyond-exploring-open-database-licenses-fair-code-and-blockchain-25cc)
-- [Github notification - webhooks](https://dev.to/imajenasyon/github-notification-webhooks-4jho)
+- [Demystifying RAG 🔍: Retrieval-Augmented Generation Explained](https://dev.to/esthernaisimoi/demystifying-rag-retrieval-augmented-generation-explained-5ed5)
+- [Over the air &lpar;OTA&rpar; update using Revopush in react native](https://dev.to/asim_mehmood_275a2236b23e/over-the-air-ota-update-using-revopush-in-react-native-2h3f)
+- [Unveiling Open Hardware License: A Comprehensive Exploration of Open Source Hardware Licensing, Applications, and Future Trends](https://dev.to/kallileiser/unveiling-open-hardware-license-a-comprehensive-exploration-of-open-source-hardware-licensing-1cl8)
+- [How to Manage State with Flutter Bloc and Cubit for Todos?](https://dev.to/generatecodedev/how-to-manage-state-with-flutter-bloc-and-cubit-for-todos-3jmg)
+- [How to Prevent Email Spoofing with DMARC: A Comprehensive Guide](https://dev.to/judypage/how-to-prevent-email-spoofing-with-dmarc-a-comprehensive-guide-2227)
 <!-- BLOG-POST-LIST:END -->
 
 ---
