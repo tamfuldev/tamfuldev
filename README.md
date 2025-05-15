@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [5 Lessons from Neurology That Make Me a Better Software Engineer](https://dev.to/alireza_minagar_99f01ecb6/5-lessons-from-neurology-that-make-me-a-better-software-engineer-2e5g)
-- [5 INCREDIBLE new features in Symfony 7.3 🚀](https://dev.to/pentiminax/5-incredible-new-features-in-symfony-73-4ei3)
-- [Edited the article a bit](https://dev.to/kooiinc/edited-the-article-a-bit-45ij)
-- [ONLYOFFICE DocSpace MCP Server: a quick-start guide for developers](https://dev.to/onlyoffice/onlyoffice-docspace-mcp-server-a-quick-start-guide-for-developers-1d4j)
-- [[Boost]](https://dev.to/sairam409/-2ffm)
+- [🕵️‍♂️ Unlock Hidden Job Opportunities with Google Dorking: The Job Hunter’s Secret Weapon &lpar;Part 1&rpar;](https://dev.to/nish2005karsh/unlock-hidden-job-opportunities-with-google-dorking-the-job-hunters-secret-weapon-part-1-37pp)
+- [Loved the real-world insights on how data mining works when done right.](https://dev.to/techbyfelix/loved-the-real-world-insights-on-how-data-mining-works-when-done-right-o2j)
+- [How to Deploy PostgreSQL on Kubernetes](https://dev.to/hostman_com/how-to-deploy-postgresql-on-kubernetes-3ejm)
+- [How to Resolve Firebase Database URL Errors in Flutter?](https://dev.to/generatecodedev/how-to-resolve-firebase-database-url-errors-in-flutter-7eo)
+- [Designing a CI/CD Pipeline: Stages, Jobs, and Parallel Execution Made Simple](https://dev.to/alex_aslam/designing-a-cicd-pipeline-stages-jobs-and-parallel-execution-made-simple-e0n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
