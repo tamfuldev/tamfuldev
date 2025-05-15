@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [is Justmarkets regulated in kenya? Review Justmarkets Forex broker .md](https://dev.to/vdepvtrader/is-justmarkets-regulated-in-kenya-review-justmarkets-forex-broker-md-35h3)
-- [Understanding the CRM Sales Process](https://dev.to/moniruzzamansaikat/understanding-the-crm-sales-process-3o18)
-- [Unveiling University of Illinois/NCSA Open Source License: A Comprehensive Exploration for Modern Developers](https://dev.to/bobcars/unveiling-university-of-illinoisncsa-open-source-license-a-comprehensive-exploration-for-modern-4phg)
-- [Moving Away from Debian, Trying WSL, and Coming Back to Linux the Right Way](https://dev.to/joaomaranhao/moving-away-from-debian-trying-wsl-and-coming-back-to-linux-the-right-way-2ea1)
-- [The Secret Trick to Customizing Console Logs with CSS](https://dev.to/luckychauhan/the-secret-trick-to-customizing-console-logs-with-css-150n)
+- [🚀🧠💼The Ultimate AI &amp; ML Career Roadmap for 2025: A Personal Journey](https://dev.to/furqanahmadrao/the-ultimate-ai-ml-career-roadmap-for-2025-a-personal-journey-3gkg)
+- [🚗 Build a Real-World Parking Management System in Angular](https://dev.to/chetan_void/build-a-real-world-parking-management-system-in-angular-4n41)
+- [Introducing a Transformative Multi-Camera Dataset for Vision AI](https://dev.to/rita_ho_d399c28be9d8a25a3/introducing-a-transformative-multi-camera-dataset-for-vision-ai-27ai)
+- [Unveiling the Zlib/Libpng License: A Deep Dive into Permissive Open Source Licensing and Fair Code](https://dev.to/laetitiaperraut/unveiling-the-zliblibpng-license-a-deep-dive-into-permissive-open-source-licensing-and-fair-code-2g5g)
+- [Can a Free WAF Really Stop Crawlers and Scanners? — See What SafeLine Does Differently](https://dev.to/sharon_42e16b8da44dabde6d/can-a-free-waf-really-stop-crawlers-and-scanners-see-what-safeline-does-differently-3g47)
 <!-- BLOG-POST-LIST:END -->
 
 ---
