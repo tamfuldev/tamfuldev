@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Scaling Apache SeaTunnel for Enterprise: Billion-Level Data Processing and Intelligent Fault Tolerance in Real-World Use Cases](https://dev.to/seatunnel/scaling-apache-seatunnel-for-enterprise-billion-level-data-processing-and-intelligent-fault-4dad)
-- [Crack the Google Interview in 2025: Your Complete Preparation Guide](https://dev.to/avinash201199/crack-the-google-interview-in-2025-your-complete-preparation-guide-4bek)
-- [Zero to API Hero: Crafting Go Web Services with Echo 🚀](https://dev.to/tavernetech/zero-to-api-hero-crafting-go-web-services-with-echo-5fik)
-- [Database Schema Design: How to Structure Your App’s Data Effectively](https://dev.to/dbvismarketing/database-schema-design-how-to-structure-your-apps-data-effectively-3418)
-- [Cracking the Compiler: What Happens After Preprocessing](https://dev.to/xbze3/cracking-the-compiler-what-happens-after-preprocessing-42dk)
+- [Human Error – The Most Common Cybersecurity Mistakes for DevOps](https://dev.to/gitprotect/human-error-the-most-common-cybersecurity-mistakes-for-devops-216i)
+- [Project KARL](https://dev.to/theaniketraj/project-karl-24ge)
+- [When should I use LLMs?](https://dev.to/filiptrivan/when-should-i-use-llms-1957)
+- [Automatiser l&#39;Envoi de Rapports Système au SysAdmin Chaque Minute avec Python &amp; Cron](https://dev.to/ismael_galekwa_67833ec813/automatiser-lenvoi-de-rapports-systeme-au-sysadmin-chaque-minute-avec-python-cron-2kc8)
+- [The Art of Writing Maintainable React Components](https://dev.to/shruti_kumbhar/the-art-of-writing-maintainable-react-components-5foj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
