@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Standard vs Reasoning Models: The Two Ways AI Solves Problems](https://dev.to/rijultp/standard-vs-reasoning-models-the-two-ways-ai-solves-problems-3dj5)
-- [Webdesign-Typografie: 5 Tipps für Lesbarkeit &amp; professionelle Optik ✍️](https://dev.to/ivo_sa/webdesign-typografie-5-tipps-fur-lesbarkeit-professionelle-optik-3bb8)
-- [Your Code is a Money Printer: Trading Prop Firm Capital](https://dev.to/funded_sim/your-code-is-a-money-printer-trading-prop-firm-capital-1m4l)
-- [The Future of AI Development](https://dev.to/aniruddhaadak/the-future-of-ai-development-2mod)
-- [Avoiding N+1 Queries in Rails: Easy Performance Wins for Beginners](https://dev.to/rob__race/avoiding-n1-queries-in-rails-easy-performance-wins-for-beginners-4lim)
+- [Azure OpenAI vs Azure AI Search: What’s the Difference?](https://dev.to/harman_diaz/azure-openai-vs-azure-ai-search-whats-the-difference-7fb)
+- [Want to learn about validation in ASP.NET Core with minimal API&#39;s? Check this blog!](https://dev.to/pascal_vorwerk/want-to-learn-about-validation-in-aspnet-core-with-minimal-apis-check-this-blog-5da5)
+- [Meet AxonJs: The Express Slayer That Doubles Your API Speed](https://dev.to/mrmkz/meet-axonjs-the-express-slayer-that-doubles-your-api-speed-3a03)
+- [Rust in 2025: Did It Finally Overtake C++?](https://dev.to/code_2/rust-in-2025-did-it-finally-overtake-c-10ko)
+- [❌ Top 10 Common Mistakes in Writing Scripts](https://dev.to/elsayed_zewayed_91621702f/top-10-common-mistakes-in-writing-scripts-4gle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
