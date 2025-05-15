@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Melhorando a resiliência de sua aplicação com Stale Cache](https://dev.to/renandotcorrea/melhorando-a-resiliencia-de-sua-aplicacao-com-stale-cache-45jn)
-- [How to Fix Common Errors When Using BERT with TensorFlow](https://dev.to/generatecodedev/how-to-fix-common-errors-when-using-bert-with-tensorflow-5d97)
-- [Node.js exec vs. execSync: Choosing the Right Tool for Your Child Processes](https://dev.to/tene/nodejs-exec-vs-execsync-choosing-the-right-tool-for-your-child-processes-20n9)
-- [What is Asynchronous?](https://dev.to/muhammad_khazin_2e2c98318/what-is-asynchronous-58bc)
-- [Warp custom theme setup](https://dev.to/karleeov/warp-custom-theme-setup-1hmh)
+- [Building Daily, One Commit at a Time 🔁](https://dev.to/vinayakgote2730/building-daily-one-commit-at-a-time-19mk)
+- [How to Fix iOS App Stuck on Splash Screen in Flutter?](https://dev.to/generatecodedev/how-to-fix-ios-app-stuck-on-splash-screen-in-flutter-1if8)
+- [Deploying an MCP server on AWS](https://dev.to/alejofig/deploying-an-mcp-on-aws-497)
+- [What Is Linux](https://dev.to/rajaaaaa07_/what-is-linux-4d6o)
+- [Big Announcement | Apache SeaTunnel Integrates MCP to Unlock the Power of Model Context Protocol!](https://dev.to/seatunnel/big-announcement-apache-seatunnel-integrates-mcp-to-unlock-the-power-of-model-context-protocol-1912)
 <!-- BLOG-POST-LIST:END -->
 
 ---
