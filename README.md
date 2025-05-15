@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [TV&#39;s Next Revolution](https://dev.to/rawveg/tvs-next-revolution-3gnm)
-- [Building a React Counter with TypeScript: From useState to Mathematical Insight](https://dev.to/cristiansifuentes/building-a-react-counter-with-typescript-from-usestate-to-mathematical-insight-5706)
-- [How to Fix Android Studio Plugin Issues After Updates?](https://dev.to/generatecodedev/how-to-fix-android-studio-plugin-issues-after-updates-5c57)
-- [Coding Polyglot](https://dev.to/timothy_97/coding-polyglot-ji5)
-- [How to Save Daily Log Files Using Tauri Framework in Rust?](https://dev.to/generatecodedev/how-to-save-daily-log-files-using-tauri-framework-in-rust-54ag)
+- [Melhorando a resiliência de sua aplicação com Stale Cache](https://dev.to/renandotcorrea/melhorando-a-resiliencia-de-sua-aplicacao-com-stale-cache-45jn)
+- [How to Fix Common Errors When Using BERT with TensorFlow](https://dev.to/generatecodedev/how-to-fix-common-errors-when-using-bert-with-tensorflow-5d97)
+- [Node.js exec vs. execSync: Choosing the Right Tool for Your Child Processes](https://dev.to/tene/nodejs-exec-vs-execsync-choosing-the-right-tool-for-your-child-processes-20n9)
+- [What is Asynchronous?](https://dev.to/muhammad_khazin_2e2c98318/what-is-asynchronous-58bc)
+- [Warp custom theme setup](https://dev.to/karleeov/warp-custom-theme-setup-1hmh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
