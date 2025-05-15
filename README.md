@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Valve takes another step toward making SteamOS a true Windows competitor](https://dev.to/gg_news/valve-takes-another-step-toward-making-steamos-a-true-windows-competitor-e6p)
-- [Sony considers further price rises, as it braces for £500m tariffs impact](https://dev.to/gg_news/sony-considers-further-price-rises-as-it-braces-for-ps500m-tariffs-impact-59nm)
-- [DOOM The Dark Ages on Steam Deck is a &quot;nightmare&quot; even at &quot;low-quality&quot; and in linear levels](https://dev.to/gg_news/doom-the-dark-ages-on-steam-deck-is-a-nightmare-even-at-low-quality-and-in-linear-levels-1o90)
-- [Another GTA 6 delay could happen as respected insider says there’s “no guarantee” for a May 2026 release](https://dev.to/gg_news/another-gta-6-delay-could-happen-as-respected-insider-says-theres-no-guarantee-for-a-may-2026-1jch)
-- [The Voice Of Master Chief Asks Halo Fans To Stand Up For Voice Actors On Strike.](https://dev.to/gg_news/the-voice-of-master-chief-asks-halo-fans-to-stand-up-for-voice-actors-on-strike-52gf)
+- [5 Lessons from Neurology That Make Me a Better Software Engineer](https://dev.to/alireza_minagar_99f01ecb6/5-lessons-from-neurology-that-make-me-a-better-software-engineer-2e5g)
+- [5 INCREDIBLE new features in Symfony 7.3 🚀](https://dev.to/pentiminax/5-incredible-new-features-in-symfony-73-4ei3)
+- [Edited the article a bit](https://dev.to/kooiinc/edited-the-article-a-bit-45ij)
+- [ONLYOFFICE DocSpace MCP Server: a quick-start guide for developers](https://dev.to/onlyoffice/onlyoffice-docspace-mcp-server-a-quick-start-guide-for-developers-1d4j)
+- [[Boost]](https://dev.to/sairam409/-2ffm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
