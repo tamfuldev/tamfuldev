@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Set It. Test It. Break It. This WAF Actually Fights Back.](https://dev.to/sharon_42e16b8da44dabde6d/set-it-test-it-break-it-this-waf-actually-fights-back-afp)
-- [Mastering Design Patterns in JavaScript: A Developer&#39;s Guide](https://dev.to/zeeshanali0704/mastering-design-patterns-in-javascript-a-developers-guide-2nkp)
-- [How We Reduced Technical Debt by 37%](https://dev.to/appstackwriter/how-we-reduced-technical-debt-by-37-5d4a)
-- [The Power of Thinking...&quot;I CAN&quot;](https://dev.to/d2d_weizhi/the-power-of-thinkingi-can-gbb)
-- [Unveiling Vovida Software License 1.0: A Holistic Exploration of Fair Code Licensing](https://dev.to/laetitiaperraut/unveiling-vovida-software-license-10-a-holistic-exploration-of-fair-code-licensing-1i98)
+- [Ethereum’s Technicals Suggest Further Upside, Analysts Predict $2,750–$2,900 by Month End](https://dev.to/theblockverse/ethereums-technicals-suggest-further-upside-analysts-predict-2750-2900-by-month-end-223b)
+- [JavaScript in the Browser: Understanding and Manipulating the Document Object Model &lpar;DOM&rpar;](https://dev.to/manav-1011/javascript-in-the-browser-understanding-and-manipulating-the-document-object-model-dom-edf)
+- [Run Code in Your Browser: Best Online Compilers for C++, PHP, Python, Java, C#, Go &amp; More](https://dev.to/cryptosandy/run-code-in-your-browser-best-online-compilers-for-c-php-python-java-c-go-more-54dg)
+- [ForgeMT: A Scalable, Secure Multi-Tenant GitHub Runner Platform at Cisco](https://dev.to/edersonbrilhante/forgemt-a-scalable-secure-multi-tenant-github-runner-platform-at-cisco-735)
+- [Outsell the Competition: How Smart Sales Teams Use AI](https://dev.to/array_platforms/outsell-the-competition-how-smart-sales-teams-use-ai-3n9p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
