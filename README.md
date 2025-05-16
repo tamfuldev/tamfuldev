@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [But how does torrenting actually work?](https://dev.to/kurealnum/but-how-does-torrenting-actually-work-5hlf)
-- [Project of the Week: HedgeDoc 🦔](https://dev.to/pullflow/project-of-the-week-hedgedoc-19on)
-- [Why Your App Breaks and Hackers Laugh: A Real Talk on HTTP](https://dev.to/c_d_a7c10b4d6f6aa68be7495/why-your-app-breaks-and-hackers-laugh-a-real-talk-on-http-4b0)
-- [Try the new Secure Session Vault](https://dev.to/ethernmyth/try-the-new-secure-session-vault-5b01)
-- [Mastering Kubernetes Requests and Limits: A Practical Guide](https://dev.to/hostman_com/mastering-kubernetes-requests-and-limits-a-practical-guide-4o76)
+- [My Wins of the Week! ⭐](https://dev.to/anitaolsen/my-wins-of-the-week-14on)
+- [Custom Elements: The Superpower of Svelte 5](https://dev.to/leuzga/custom-elements-the-superpower-of-svelte-5-4mo)
+- [How to build a Legal Document Chat with OpenAI, Ducky.ai, Next.js and Browserless](https://dev.to/kyle_eaton_268b8b0d67b221/how-to-build-a-legal-document-chat-with-openai-duckyai-nextjs-and-browserless-2559)
+- [Still paying full price for AWS? Kuberns helps you save 40% and deploy apps without Developer efforts](https://dev.to/jevin/still-paying-full-price-for-aws-kuberns-helps-you-save-40-and-deploy-apps-without-developer-2n32)
+- [Why I Don&#39;t Use WordPress Anymore &lpar;And What I Built Instead&rpar;](https://dev.to/sajjadakbari/why-i-dont-use-wordpress-anymore-and-what-i-built-instead-eb4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
