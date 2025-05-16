@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ng-News 25/19: NgRx SignalStore Events, Nx 21](https://dev.to/this-is-angular/ng-news-2518-ngrx-signalstore-events-nx-21-1526)
-- [Python Variables Explained for Beginners](https://dev.to/chinmaynataraj/python-variables-explained-for-beginners-4p9d)
-- [A Simple AWS-Powered Clinic Appointment System App Using Docker and SNS](https://dev.to/shivasaipeddy/a-simple-aws-powered-clinic-appointment-system-app-using-docker-and-sns-3aod)
-- [React + TypeScript: Using useEffect + useRef + Custom Props to Simulate a Math Function in Real-Time](https://dev.to/cristiansifuentes/react-typescript-using-useeffect-useref-custom-props-to-simulate-a-math-function-in-real-time-40h)
-- [2901. Longest Unequal Adjacent Groups Subsequence II](https://dev.to/mdarifulhaque/2901-longest-unequal-adjacent-groups-subsequence-ii-2mf0)
+- [[Boost]](https://dev.to/anthonymax/-kcg)
+- [8 important security changes from Android 8 to Android 15](https://dev.to/marcotcdev/8-important-security-changes-from-android-8-to-android-15-3l8f)
+- [Full Integration Guide: Camunda 8.5 with OpenTelemetry for End-to-End Observability](https://dev.to/devaaai/full-integration-guide-camunda-85-with-opentelemetry-for-end-to-end-observability-pkh)
+- [Real-World Asset Tokenization: Introduction](https://dev.to/vadym_info_polus/real-world-asset-tokenization-introduction-cif)
+- [Smart In-Store Clothing Assistant – From Style Query to Shelf Location](https://dev.to/mathur-nitish/smart-in-store-clothing-assistant-from-style-query-to-shelf-location-4594)
 <!-- BLOG-POST-LIST:END -->
 
 ---
