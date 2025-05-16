@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [👋 Just Passing By...](https://dev.to/onedev/just-passing-by-2nl1)
-- [Strings, Arrays &amp; Hash Tables — Let’s Talk About the One You’re Probably Not Using Enough](https://dev.to/onedev/strings-arrays-hash-tables-lets-talk-about-the-one-youre-probably-not-using-enough-2ebn)
-- [Gemini 2.5 vs OpenAI o3: Which is Better](https://dev.to/_37bbf0c253c0b3edec531e/gemini-25-vs-openai-o3-which-is-better-8fg)
-- [Midjourney: Turn Your Sketches into Amazing Images](https://dev.to/_37bbf0c253c0b3edec531e/midjourney-turn-your-sketches-into-amazing-images-24od)
-- [✨ Bringing Children&#39;s Stories to Life with the Amazon Nova Family of Models](https://dev.to/damogallagher/bringing-childrens-stories-to-life-with-the-amazon-nova-family-of-models-597m)
+- [Launch of: Open Workout Spots](https://dev.to/igarridosi/launch-of-open-workout-spots-3b91)
+- [.NET Digest #7](https://dev.to/pvsdev/net-digest-7-255a)
+- [Do You Really Know What&#39;s Inside Your Object? Or Are You Just Trusting for...in?](https://dev.to/werliton/do-you-really-know-whats-inside-your-object-or-are-you-just-trusting-forin-38ci)
+- [5 Developer Pain Points Solved by Internal Developer Platforms](https://dev.to/gerimate/5-developer-pain-points-solved-by-internal-developer-platforms-1bd6)
+- [Build Smarter: Creating Full-Stack Apps with AI-Powered Frontends](https://dev.to/skapi_api/build-smarter-creating-full-stack-apps-with-ai-powered-frontends-31j2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
