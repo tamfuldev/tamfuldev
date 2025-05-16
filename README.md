@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚫 Top 10 Common Mistakes in Kotlin Programming](https://dev.to/elsayed_zewayed_91621702f/top-10-common-mistakes-in-kotlin-programming-595a)
-- [How 𝐋𝐚𝐧𝐠𝐒𝐦𝐢𝐭𝐡, 𝐋𝐚𝐧𝐠𝐆𝐫𝐚𝐩𝐡, 𝐎𝐥𝐥𝐚𝐦𝐚 &amp; 𝐅𝐀𝐈𝐒𝐒 Gave Me End-to-End Observability in a Local AI Chatbot](https://dev.to/rajeev_3ce9f280cbae73b234/how-gave-me-end-to-end-observability-in-a-local-ai-chatbot-4ch8)
-- [Why You Need Proxy IPs to Enhance Web Data Scraping](https://dev.to/member_960fb7a7/why-you-need-proxy-ips-to-enhance-web-data-scraping-phb)
-- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-2jf7)
-- [How to Fix Typescript Errors with Promise.allSettled?](https://dev.to/generatecodedev/how-to-fix-typescript-errors-with-promiseallsettled-1f58)
+- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-aca)
+- [Seasonal Heroes: Initial Looks](https://dev.to/macglencoe/seasonal-heroes-initial-looks-47ad)
+- [Tired of Choppy Videos? Here’s How to Smooth Them with Higher FPS &lpar;No Reshoot Needed&rpar;](https://dev.to/harper_seven_bcbbdc48c218/tired-of-choppy-videos-heres-how-to-smooth-them-with-higher-fps-no-reshoot-needed-417h)
+- [Entendendo SQL: Comandos Principais e Diferença com NoSQL](https://dev.to/isaac_maciel_34b6d0db388f/entendendo-sql-comandos-principais-e-diferenca-com-nosql-3n0o)
+- [Essential CSS Optimization Techniques to speed up your site](https://dev.to/javascriptwizzard/essential-css-optimization-techniques-to-speed-up-your-site-1g4k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
