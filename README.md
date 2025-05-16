@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Kickstarting a .NET Solution from Scratch with the CLI](https://dev.to/georgekobaidze/kickstarting-a-net-solution-from-scratch-with-the-cli-1m97)
-- [Why Doesn&#39;t My Android Device Show Up in IntelliJ IDEA?](https://dev.to/generatecodedev/why-doesnt-my-android-device-show-up-in-intellij-idea-4jjc)
-- [Why Developers Seek an Auth0 Alternative](https://dev.to/deepakgupta/why-developers-seek-an-auth0-alternative-253b)
-- [How to import Excel to MySQL](https://dev.to/ryjfgjl/how-to-import-excel-to-mysql-33n5)
-- [Building High-Performance Smart Contracts on Solana: A Technical Guide for Developers](https://dev.to/favebs/building-high-performance-smart-contracts-on-solana-a-technical-guide-for-developers-2150)
+- [Como o Tipo de Acoplamento Pode Guiar a Decisão de Onde Colocar um Método](https://dev.to/asouza/como-o-tipo-de-acoplamento-pode-guiar-a-decisao-de-onde-colocar-um-metodo-1131)
+- [Exploring the Rate package and the Token Bucket algorithm](https://dev.to/mfbmina/exploring-the-rate-package-and-the-token-bucket-algorithm-3pli)
+- [How to Resolve SDL3 Renderer Issues in C Programming?](https://dev.to/generatecodedev/how-to-resolve-sdl3-renderer-issues-in-c-programming-37bn)
+- [[Hiring] Career Development Consultant - Software Engineering Focus](https://dev.to/e_e829a42b0b08f7e185be4ca/hiring-career-development-consultant-software-engineering-focus-1oel)
+- [Explorando o pacote Rate e o algoritmo de Token Bucket](https://dev.to/mfbmina/explorando-o-pacote-rate-e-o-algoritmo-de-token-bucket-30d1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
