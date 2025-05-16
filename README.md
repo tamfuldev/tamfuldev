@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-aca)
-- [Seasonal Heroes: Initial Looks](https://dev.to/macglencoe/seasonal-heroes-initial-looks-47ad)
-- [Tired of Choppy Videos? Here’s How to Smooth Them with Higher FPS &lpar;No Reshoot Needed&rpar;](https://dev.to/harper_seven_bcbbdc48c218/tired-of-choppy-videos-heres-how-to-smooth-them-with-higher-fps-no-reshoot-needed-417h)
-- [Entendendo SQL: Comandos Principais e Diferença com NoSQL](https://dev.to/isaac_maciel_34b6d0db388f/entendendo-sql-comandos-principais-e-diferenca-com-nosql-3n0o)
-- [Essential CSS Optimization Techniques to speed up your site](https://dev.to/javascriptwizzard/essential-css-optimization-techniques-to-speed-up-your-site-1g4k)
+- [You can organize your dependencies in a better way!](https://dev.to/urbanisierung/you-can-organize-your-dependencies-in-a-better-way-59jd)
+- [Its an Awesome journey to learn AWS in Vivid Manner](https://dev.to/manu5305/its-an-awesome-journey-to-learn-aws-in-vivid-manner-2l3k)
+- [🧠 Master UI Wireframing 101 Before colors, layout matters.Start smart. Design better.#UIDesign #Wireframing](https://dev.to/swetty_sultania_834f90237/master-ui-wireframing-101-before-colors-layout-mattersstart-smart-design-betteruidesign-342n)
+- [Understanding MariaDB Indexes: A Battle-Tested Engineer&#39;s Guide](https://dev.to/dongnt/understanding-mariadb-indexes-a-battle-tested-engineers-guide-47ii)
+- [HTML Tutorial: Learn HyperText Markup Language with Examples](https://dev.to/tpointtechblog/html-tutorial-learn-hypertext-markup-language-with-examples-1l1a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
