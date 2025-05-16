@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Psychology of Brand Loyalty: What Makes Customers Stick?](https://dev.to/aditya-saasy/the-psychology-of-brand-loyalty-what-makes-customers-stick-3bdl)
-- [We Don’t Need More Apps -We Need Better Ones](https://dev.to/p_0c0278d/we-dont-need-more-apps-we-need-better-ones-1e9l)
-- [Implementing LDAP Authentication in ASP.NET Core and ASP.NET Zero](https://dev.to/hussein_zakizadeh_680f918/implementing-ldap-authentication-in-aspnet-core-and-aspnet-zero-45ki)
-- [Locking Down the Box: A Comprehensive Guide to Container Security Evaluation and Hardening](https://dev.to/naveens16/locking-down-the-box-a-comprehensive-guide-to-container-security-evaluation-and-hardening-1bkn)
-- [Real-Time Threat Modeling with AI? This Open-Source WAF Does It.](https://dev.to/sharon_42e16b8da44dabde6d/real-time-threat-modeling-with-ai-this-open-source-waf-does-it-2nl)
+- [Set It. Test It. Break It. This WAF Actually Fights Back.](https://dev.to/sharon_42e16b8da44dabde6d/set-it-test-it-break-it-this-waf-actually-fights-back-afp)
+- [Mastering Design Patterns in JavaScript: A Developer&#39;s Guide](https://dev.to/zeeshanali0704/mastering-design-patterns-in-javascript-a-developers-guide-2nkp)
+- [How We Reduced Technical Debt by 37%](https://dev.to/appstackwriter/how-we-reduced-technical-debt-by-37-5d4a)
+- [The Power of Thinking...&quot;I CAN&quot;](https://dev.to/d2d_weizhi/the-power-of-thinkingi-can-gbb)
+- [Unveiling Vovida Software License 1.0: A Holistic Exploration of Fair Code Licensing](https://dev.to/laetitiaperraut/unveiling-vovida-software-license-10-a-holistic-exploration-of-fair-code-licensing-1i98)
 <!-- BLOG-POST-LIST:END -->
 
 ---
