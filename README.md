@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Launch of: Open Workout Spots](https://dev.to/igarridosi/launch-of-open-workout-spots-3b91)
-- [.NET Digest #7](https://dev.to/pvsdev/net-digest-7-255a)
-- [Do You Really Know What&#39;s Inside Your Object? Or Are You Just Trusting for...in?](https://dev.to/werliton/do-you-really-know-whats-inside-your-object-or-are-you-just-trusting-forin-38ci)
-- [5 Developer Pain Points Solved by Internal Developer Platforms](https://dev.to/gerimate/5-developer-pain-points-solved-by-internal-developer-platforms-1bd6)
-- [Build Smarter: Creating Full-Stack Apps with AI-Powered Frontends](https://dev.to/skapi_api/build-smarter-creating-full-stack-apps-with-ai-powered-frontends-31j2)
+- [Mastering the Game Creation Process: From Concept to Completion](https://dev.to/ludoai/mastering-the-game-creation-process-from-concept-to-completion-4pp1)
+- [Python 101:The Ultimate Beginner’s Guide](https://dev.to/doreen_jerotich_0c02c93c8/python-101the-ultimate-beginners-guide-3mme)
+- [Deploying Prometheus on a Raspberry Pi Cluster](https://dev.to/travis_ross_f41ce1ef4ab73/deploying-prometheus-on-a-raspberry-pi-cluster-4pae)
+- [Real-Time ETLT: Meet the Demands of Modern Data Processing](https://dev.to/nomzykush/real-time-etlt-meet-the-demands-of-modern-data-processing-bke)
+- [FinOps Optimization: Reducing AWS Bills Through Automated EC2 Shutdowns](https://dev.to/philippe_borribo/finops-optimization-reducing-aws-bills-through-automated-ec2-shutdowns-1d9e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
