@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Wins of the Week! ⭐](https://dev.to/anitaolsen/my-wins-of-the-week-14on)
-- [Custom Elements: The Superpower of Svelte 5](https://dev.to/leuzga/custom-elements-the-superpower-of-svelte-5-4mo)
-- [How to build a Legal Document Chat with OpenAI, Ducky.ai, Next.js and Browserless](https://dev.to/kyle_eaton_268b8b0d67b221/how-to-build-a-legal-document-chat-with-openai-duckyai-nextjs-and-browserless-2559)
-- [Still paying full price for AWS? Kuberns helps you save 40% and deploy apps without Developer efforts](https://dev.to/jevin/still-paying-full-price-for-aws-kuberns-helps-you-save-40-and-deploy-apps-without-developer-2n32)
-- [Why I Don&#39;t Use WordPress Anymore &lpar;And What I Built Instead&rpar;](https://dev.to/sajjadakbari/why-i-dont-use-wordpress-anymore-and-what-i-built-instead-eb4)
+- [Big Changes at Meteor Software: Our Next Chapter](https://dev.to/meteor/big-changes-at-meteor-software-our-next-chapter-g22)
+- [Valve are expanding the Steam Deck Verified system to cover future SteamOS devices](https://dev.to/gg_news/valve-are-expanding-the-steam-deck-verified-system-to-cover-future-steamos-devices-a6a)
+- [Tim Sweeney says Apple has ‘neither accepted nor rejected’ second Fortnite submission to the App Store](https://dev.to/gg_news/tim-sweeney-says-apple-has-neither-accepted-nor-rejected-second-fortnite-submission-to-the-app-16ll)
+- [TAKETWO: “The most anticipated entertainment property of all time”, GTA 6 has reportedly cost over $1 billion](https://dev.to/gg_news/taketwo-the-most-anticipated-entertainment-property-of-all-time-gta-6-has-reportedly-cost-over-196h)
+- [Samsung shows off OLED trch for Mixed Reality HMDs at 5,000 Pixels per inch](https://dev.to/future_arvr/samsung-shows-off-oled-trch-for-mixed-reality-hmds-at-5000-pixels-per-inch-2m1l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
