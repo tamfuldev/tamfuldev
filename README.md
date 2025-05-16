@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Como o Tipo de Acoplamento Pode Guiar a Decisão de Onde Colocar um Método](https://dev.to/asouza/como-o-tipo-de-acoplamento-pode-guiar-a-decisao-de-onde-colocar-um-metodo-1131)
-- [Exploring the Rate package and the Token Bucket algorithm](https://dev.to/mfbmina/exploring-the-rate-package-and-the-token-bucket-algorithm-3pli)
-- [How to Resolve SDL3 Renderer Issues in C Programming?](https://dev.to/generatecodedev/how-to-resolve-sdl3-renderer-issues-in-c-programming-37bn)
-- [[Hiring] Career Development Consultant - Software Engineering Focus](https://dev.to/e_e829a42b0b08f7e185be4ca/hiring-career-development-consultant-software-engineering-focus-1oel)
-- [Explorando o pacote Rate e o algoritmo de Token Bucket](https://dev.to/mfbmina/explorando-o-pacote-rate-e-o-algoritmo-de-token-bucket-30d1)
+- [Supercharging Databricks Asset Bundles](https://dev.to/sacode/supercharging-databricks-asset-bundles-18ga)
+- [🛠️ Debugging AOSP System Software Memory Leaks Using LeakCanary](https://dev.to/nikheelvs/debugging-aosp-system-software-memory-leaks-using-leakcanary-5gph)
+- [Account Permission Delegation - QA Test Report](https://dev.to/sgramkumar/account-permission-delegation-qa-test-report-3j69)
+- [How I finally got my apps to make money](https://dev.to/pixelswithin/how-i-finally-got-my-apps-to-make-money-20f5)
+- [How to Retrieve UUID for Keychain Keys in Swift?](https://dev.to/generatecodedev/how-to-retrieve-uuid-for-keychain-keys-in-swift-26f1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
