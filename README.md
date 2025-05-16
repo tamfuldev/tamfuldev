@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Supercharging Databricks Asset Bundles](https://dev.to/sacode/supercharging-databricks-asset-bundles-18ga)
-- [🛠️ Debugging AOSP System Software Memory Leaks Using LeakCanary](https://dev.to/nikheelvs/debugging-aosp-system-software-memory-leaks-using-leakcanary-5gph)
-- [Account Permission Delegation - QA Test Report](https://dev.to/sgramkumar/account-permission-delegation-qa-test-report-3j69)
-- [How I finally got my apps to make money](https://dev.to/pixelswithin/how-i-finally-got-my-apps-to-make-money-20f5)
-- [How to Retrieve UUID for Keychain Keys in Swift?](https://dev.to/generatecodedev/how-to-retrieve-uuid-for-keychain-keys-in-swift-26f1)
+- [🚫 Top 10 Common Mistakes in Kotlin Programming](https://dev.to/elsayed_zewayed_91621702f/top-10-common-mistakes-in-kotlin-programming-595a)
+- [How 𝐋𝐚𝐧𝐠𝐒𝐦𝐢𝐭𝐡, 𝐋𝐚𝐧𝐠𝐆𝐫𝐚𝐩𝐡, 𝐎𝐥𝐥𝐚𝐦𝐚 &amp; 𝐅𝐀𝐈𝐒𝐒 Gave Me End-to-End Observability in a Local AI Chatbot](https://dev.to/rajeev_3ce9f280cbae73b234/how-gave-me-end-to-end-observability-in-a-local-ai-chatbot-4ch8)
+- [Why You Need Proxy IPs to Enhance Web Data Scraping](https://dev.to/member_960fb7a7/why-you-need-proxy-ips-to-enhance-web-data-scraping-phb)
+- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-2jf7)
+- [How to Fix Typescript Errors with Promise.allSettled?](https://dev.to/generatecodedev/how-to-fix-typescript-errors-with-promiseallsettled-1f58)
 <!-- BLOG-POST-LIST:END -->
 
 ---
