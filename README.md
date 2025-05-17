@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding JavaScript&#39;s Memory Leak Patterns](https://dev.to/omriluz1/understanding-javascripts-memory-leak-patterns-39ao)
-- [What is Bitroot?](https://dev.to/hank_cea742789210baecd903/what-is-bitroot-4kkl)
-- [Started Writing Technical Articles on Medium — First Article on Sliding Window Algorithm in Java!](https://dev.to/shaan_yadav_04ba7ca288cbc/started-writing-technical-articles-on-medium-first-article-on-sliding-window-algorithm-in-java-5o5)
-- [How to Automate Azure App Service IP Whitelisting with Azure DevOps Pipeline](https://dev.to/awofe/how-to-automate-azure-app-service-ip-whitelisting-with-azure-devops-pipeline-4mda)
-- [Write Less, Reuse More: Template Inheritance in Flask Explained](https://dev.to/shravanjain/write-less-reuse-more-template-inheritance-in-flask-explained-4ll7)
+- [A ilusão da escolha: como a interface guia decisões 🧠🎯](https://dev.to/alissonfcosta/a-ilusao-da-escolha-como-a-interface-guia-decisoes-f5i)
+- [Understanding Postfix Mail Server Setup for Beginners](https://dev.to/techwithhari/understanding-postfix-mail-server-setup-for-beginners-58pl)
+- [DualRAG: A Dual-Process Approach to Integrate Reasoning and Retrieval for Multi-Hop Question Answering](https://dev.to/tutti/dualrag-a-dual-process-approach-to-integrate-reasoning-and-retrieval-for-multi-hop-question-411j)
+- [◼️6/100 Block-by-Block: DAO governance data](https://dev.to/nocibambi/6100-block-by-block-dao-governance-data-325n)
+- [🔔 How i added a web push notification feature in my project](https://dev.to/professor12/how-i-added-a-web-push-notification-feature-in-my-project-34po)
 <!-- BLOG-POST-LIST:END -->
 
 ---
