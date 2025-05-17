@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Pandas vs Polars in 2025: Who Wins the Data Speed Race?](https://dev.to/aleksei_aleinikov/pandas-vs-polars-in-2025-who-wins-the-data-speed-race-4h38)
-- [Async I/O + CPU Tasks in 2025: Keep the Loop Fast and Cores Busy](https://dev.to/aleksei_aleinikov/async-io-cpu-tasks-in-2025-keep-the-loop-fast-and-cores-busy-2llc)
-- [Django ORM vs Raw SQL in 2025: When to Drop Down and Why](https://dev.to/aleksei_aleinikov/django-orm-vs-raw-sql-in-2025-when-to-drop-down-and-why-1b76)
-- [🧠 Launch AI Agents in 2025 With LangChain &lpar;No PhD Needed&rpar;](https://dev.to/aleksei_aleinikov/launch-ai-agents-in-2025-with-langchain-no-phd-needed-182e)
-- [8 Years Later, The Tank Fires Again](https://dev.to/deveshhh/8-years-later-the-tank-fires-again-j6h)
+- [Understanding JavaScript&#39;s Memory Leak Patterns](https://dev.to/omriluz1/understanding-javascripts-memory-leak-patterns-39ao)
+- [What is Bitroot?](https://dev.to/hank_cea742789210baecd903/what-is-bitroot-4kkl)
+- [Started Writing Technical Articles on Medium — First Article on Sliding Window Algorithm in Java!](https://dev.to/shaan_yadav_04ba7ca288cbc/started-writing-technical-articles-on-medium-first-article-on-sliding-window-algorithm-in-java-5o5)
+- [How to Automate Azure App Service IP Whitelisting with Azure DevOps Pipeline](https://dev.to/awofe/how-to-automate-azure-app-service-ip-whitelisting-with-azure-devops-pipeline-4mda)
+- [Write Less, Reuse More: Template Inheritance in Flask Explained](https://dev.to/shravanjain/write-less-reuse-more-template-inheritance-in-flask-explained-4ll7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
