@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [New Heroes](https://dev.to/macglencoe/new-heroes-253o)
-- [Writing Maintainable ETL Code: Empowering Support and Avoiding Knowledge Silo](https://dev.to/govind_joshi/writing-maintainable-etl-code-empowering-support-and-avoiding-knowledge-silo-imc)
-- [You Are the Stack](https://dev.to/tonystpierre/you-are-the-stack-ilf)
-- [Unveiling European Union Public Licence 1.1: A Comprehensive Overview and Future Outlook](https://dev.to/ashucommits/unveiling-european-union-public-licence-11-a-comprehensive-overview-and-future-outlook-51eh)
-- [Daily JavaScript Challenge #JS-181: Find the Smallest Missing Positive Integer](https://dev.to/dpc/daily-javascript-challenge-js-181-find-the-smallest-missing-positive-integer-496e)
+- [Unveiling IBM Public License 1.0-rv: A Comprehensive Deep Dive into Open Source Fairness and Blockchain Implications](https://dev.to/laetitiaperraut/unveiling-ibm-public-license-10-rv-a-comprehensive-deep-dive-into-open-source-fairness-and-179o)
+- [🚀 Seamless Data Magic: From Notion to Database with MCP Server &amp; AI Agents](https://dev.to/toshiya_matsumoto_ac94abe/seamless-data-magic-from-notion-to-database-with-mcp-server-ai-agents-3kp7)
+- [Building beyond the ISO 32000 PDF standard](https://dev.to/joyfill/building-beyond-the-iso-32000-pdf-standard-2eeg)
+- [Did AI just kill 6,000 tech jobs?](https://dev.to/davinceleecode/did-ai-just-kill-6000-tech-jobs-1mne)
+- [Unveiling the HSQLDB License: Comprehensive Insights into Fair Code, Open Source, and Dual Licensing](https://dev.to/vitalisorenko/unveiling-the-hsqldb-license-comprehensive-insights-into-fair-code-open-source-and-dual-licensing-3kcl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
