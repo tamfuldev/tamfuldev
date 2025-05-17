@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What is Hexagonal Architecture and Why You Should Care](https://dev.to/adamsnows/what-is-hexagonal-architecture-and-why-you-should-care-4n28)
-- [Panduan Kustomisasi Neovim: Menciptakan Editor Teks Super Sesuai Keinginan Anda](https://dev.to/miki-dev/panduan-kustomisasi-neovim-menciptakan-editor-teks-super-sesuai-keinginan-anda-4j9e)
-- [คู่มือปรับแต่ง Neovim: สร้างสุดยอด Text Editor ในแบบของคุณ](https://dev.to/kimidev/khuumuueprabaetng-neovim-sraangsudyd-text-editor-ainaebbkhngkhun-nfm)
-- [Difference between HTML, CSS and JavaScript in Frontend Development 💻⚙️🚀](https://dev.to/raushan_sinha_8efb05c7b1c/difference-between-html-css-and-javascript-in-frontend-development-3jj5)
-- [Leet2Git: Automatically Push Your LeetCode Submissions to GitHub &lpar;Free and Supports All Languages!&rpar;](https://dev.to/raishwith/leet2git-automatically-push-your-leetcode-submissions-to-github-free-and-supports-all-languages-47pd)
+- [reCharge：基于 SwiftUI 的全方位健康睡眠管理 App 实现原理与技术分享](https://dev.to/carpe_wang_37cb6023fc08ee/rechargeji-yu-swiftui-de-quan-fang-wei-jian-kang-shui-mian-guan-li-app-shi-xian-yuan-li-yu-ji-zhu-fen-xiang-4abc)
+- [Hey everyone, I’m working on a cybersecurity app called JamLock — focused on protecting users from skimming, hacking, and digital identity theft in real time. It includes features like NFC skimmer detection, encrypted vaults, behavioral security, emergenc](https://dev.to/curtis_ray_6d17eca1efba78/hey-everyone-im-working-on-a-cybersecurity-app-called-jamlock-focused-on-protecting-users-3ecd)
+- [Fixing the &quot;Connection failed&quot; Error in Cursor](https://dev.to/yigedaohang/fixing-the-connection-failed-error-in-cursor-lmg)
+- [Weekly Insights: AI, Cloud, and Quantum Advances &lpar;May 4–16, 2025&rpar;](https://dev.to/djleamen/weekly-insights-ai-cloud-and-quantum-advances-may-4-16-2025-4oi3)
+- [Lessons learnt from hosting a virtual meetup for AWS UG Women in Tech India](https://dev.to/aws-builders/lessons-learnt-from-hosting-a-virtual-meetup-for-aws-ug-women-in-tech-india-ia5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
