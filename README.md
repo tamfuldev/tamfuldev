@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [NumberGuessingGame](https://dev.to/neelakandan_ravi/numberguessinggame-3ppi)
-- [Build your resume in minutes with AI-powered precision](https://dev.to/sakshi_singh_1011d1325082/build-your-resume-in-minutes-with-ai-powered-precision-5ec5)
-- [Understanding Generics in TypeScript: The Ultimate Guide to Reusable Code](https://dev.to/nahidulislam/understanding-generics-in-typescript-the-ultimate-guide-to-reusable-code-p41)
-- [Shallow Copy &amp; Deep Copy in Python](https://dev.to/hyperkai/shallow-copy-deep-copy-in-python-3ghh)
-- [Variable assignment in Python](https://dev.to/hyperkai/variable-assignment-in-python-4pla)
+- [Pandas vs Polars in 2025: Who Wins the Data Speed Race?](https://dev.to/aleksei_aleinikov/pandas-vs-polars-in-2025-who-wins-the-data-speed-race-4h38)
+- [Async I/O + CPU Tasks in 2025: Keep the Loop Fast and Cores Busy](https://dev.to/aleksei_aleinikov/async-io-cpu-tasks-in-2025-keep-the-loop-fast-and-cores-busy-2llc)
+- [Django ORM vs Raw SQL in 2025: When to Drop Down and Why](https://dev.to/aleksei_aleinikov/django-orm-vs-raw-sql-in-2025-when-to-drop-down-and-why-1b76)
+- [🧠 Launch AI Agents in 2025 With LangChain &lpar;No PhD Needed&rpar;](https://dev.to/aleksei_aleinikov/launch-ai-agents-in-2025-with-langchain-no-phd-needed-182e)
+- [8 Years Later, The Tank Fires Again](https://dev.to/deveshhh/8-years-later-the-tank-fires-again-j6h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
