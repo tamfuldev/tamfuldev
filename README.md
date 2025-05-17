@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling IBM Public License 1.0-rv: A Comprehensive Deep Dive into Open Source Fairness and Blockchain Implications](https://dev.to/laetitiaperraut/unveiling-ibm-public-license-10-rv-a-comprehensive-deep-dive-into-open-source-fairness-and-179o)
-- [🚀 Seamless Data Magic: From Notion to Database with MCP Server &amp; AI Agents](https://dev.to/toshiya_matsumoto_ac94abe/seamless-data-magic-from-notion-to-database-with-mcp-server-ai-agents-3kp7)
-- [Building beyond the ISO 32000 PDF standard](https://dev.to/joyfill/building-beyond-the-iso-32000-pdf-standard-2eeg)
-- [Did AI just kill 6,000 tech jobs?](https://dev.to/davinceleecode/did-ai-just-kill-6000-tech-jobs-1mne)
-- [Unveiling the HSQLDB License: Comprehensive Insights into Fair Code, Open Source, and Dual Licensing](https://dev.to/vitalisorenko/unveiling-the-hsqldb-license-comprehensive-insights-into-fair-code-open-source-and-dual-licensing-3kcl)
+- [What is Hexagonal Architecture and Why You Should Care](https://dev.to/adamsnows/what-is-hexagonal-architecture-and-why-you-should-care-4n28)
+- [Panduan Kustomisasi Neovim: Menciptakan Editor Teks Super Sesuai Keinginan Anda](https://dev.to/miki-dev/panduan-kustomisasi-neovim-menciptakan-editor-teks-super-sesuai-keinginan-anda-4j9e)
+- [คู่มือปรับแต่ง Neovim: สร้างสุดยอด Text Editor ในแบบของคุณ](https://dev.to/kimidev/khuumuueprabaetng-neovim-sraangsudyd-text-editor-ainaebbkhngkhun-nfm)
+- [Difference between HTML, CSS and JavaScript in Frontend Development 💻⚙️🚀](https://dev.to/raushan_sinha_8efb05c7b1c/difference-between-html-css-and-javascript-in-frontend-development-3jj5)
+- [Leet2Git: Automatically Push Your LeetCode Submissions to GitHub &lpar;Free and Supports All Languages!&rpar;](https://dev.to/raishwith/leet2git-automatically-push-your-leetcode-submissions-to-github-free-and-supports-all-languages-47pd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
