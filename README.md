@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How AI is Changing Neurology: A Developer’s Perspective](https://dev.to/alireza_minagar_99f01ecb6/how-ai-is-changing-neurology-a-developers-perspective-7g8)
-- [Unveiling the Expat License: A Comprehensive Exploration into Open Source Fairness and Sustainability](https://dev.to/ahmmrizv9/unveiling-the-expat-license-a-comprehensive-exploration-into-open-source-fairness-and-3jof)
-- [Understanding CSRF Attacks: How They Work and How to Protect Your Website](https://dev.to/ayako_yk/understanding-csrf-attacks-how-they-work-and-how-to-protect-your-website-3b2o)
-- [What happens when you type https://www.google.com and press Enter? 🌐💡](https://dev.to/macfe1/what-happens-when-you-type-httpswwwgooglecom-and-press-enter-4bja)
-- [*args &amp; **kwargs in Python function](https://dev.to/hyperkai/args-kwargs-in-python-function-58l2)
+- [The Basics of Python and Cybersecurity: A Beginner’s Guide](https://dev.to/hexshift/the-basics-of-python-and-cybersecurity-a-beginners-guide-3bkj)
+- [Accessible PDF Tables and Complex Content](https://dev.to/revisepdf/accessible-pdf-tables-and-complex-content-cmj)
+- [Unveiling GNU Free Documentation License 1.1: In-Depth Exploration and Future Outlook](https://dev.to/kallileiser/unveiling-gnu-free-documentation-license-11-in-depth-exploration-and-future-outlook-4kd3)
+- [Relational-n-back](https://dev.to/michael_02910bc84e622d090/relational-n-back-4834)
+- [[Boost]](https://dev.to/rakeshv675/-56h6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
