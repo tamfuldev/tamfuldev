@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling GNU Free Documentation License 1.2: A Holistic Deep Dive into Open Source Documentation](https://dev.to/ashucommits/unveiling-gnu-free-documentation-license-12-a-holistic-deep-dive-into-open-source-documentation-33pa)
-- [# Uptime Kuma: The Ultimate Self-Hosted Uptime Monitoring Tool](https://dev.to/mdismail_e830c2c4f43ae37/-uptime-kuma-the-ultimate-self-hosted-uptime-monitoring-tool-1pnj)
-- [🚀 382 Downloads in 48 Hours — Help Me Shape Cerious Grid!](https://dev.to/ryoucerious/382-downloads-in-48-hours-help-me-shape-cerious-grid-3mo5)
-- [VarMQ Tuning Worker Pool](https://dev.to/fahimfaisaal/varmq-tuning-worker-pool-1bo6)
-- [Mastering Mouse Events in React + TypeScript: Click, Drag, Hover and Beyond](https://dev.to/cristiansifuentes/mastering-mouse-events-in-react-typescript-click-drag-hover-and-beyond-21a6)
+- [Data Structures Study Guide for BCA Semester 2 - MCU Bhopal](https://dev.to/abhishek_gupta_f080622fe3/data-structures-study-guide-for-bca-semester-2-mcu-bhopal-3m2j)
+- [DBMS Guide for MCU Bhopal BCA - Semester 2](https://dev.to/abhishek_gupta_f080622fe3/dbms-guide-for-mcu-bhopal-bca-semester-2-1o0m)
+- [Just Learned Go – Built My First CLI Tool! ⚡️](https://dev.to/pika003/just-learned-go-built-my-first-cli-tool-2ee9)
+- [Unveiling GNU Lesser General Public License 2.0: A Comprehensive Exploration and Future Perspectives](https://dev.to/rachellovestowrite/unveiling-gnu-lesser-general-public-license-20-a-comprehensive-exploration-and-future-perspectives-5d1a)
+- [Exploring Microsoft Copilot Studio and Model Context Protocol &lpar;MCP&rpar;](https://dev.to/seenakhan/exploring-microsoft-copilot-studio-and-model-context-protocol-mcp-642)
 <!-- BLOG-POST-LIST:END -->
 
 ---
