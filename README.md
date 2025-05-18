@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build a One-File EXE with PyInstaller &lpar;Including Binaries &amp; Resources&rpar;](https://dev.to/arhamrumi/build-a-one-file-exe-with-pyinstaller-including-binaries-resources-3o00)
-- [🧠 𝗪𝗲𝗲𝗸𝗲𝗻𝗱 𝗥𝗲𝗮𝗱𝘀 𝗳𝗼𝗿 𝗖𝗹𝗼𝘂𝗱 𝗘𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁𝘀! ☁️ If you&#39;re diving into AWS or brushing up on fundamentals, here’s a curated list of some of my most popular posts, simplified analogies, real-world use cases 🔌 𝗔𝗪𝗦 𝗡𝗲𝘁𝘄𝗼𝗿𝗸](https://dev.to/full_stackgeek/-if-youre-diving-into-aws-or-brushing-up-on-3p03)
-- [In-Memory Advisor in Oracle 23ai](https://dev.to/vahidusefzadeh/in-memory-advisor-in-oracle-23ai-pfi)
-- [🚀 Building and Interacting with a StarkNet Contract using React and StarkNet.js](https://dev.to/aditya-alchemist/building-and-interacting-with-a-starknet-contract-using-react-and-starknetjs-3lfa)
-- [Day 1 — The Start of Something Non-Negotiable](https://dev.to/mridulbansal2006/day-1-the-start-of-something-non-negotiable-36bf)
+- [How one bad coder made our stack unbreakable](https://dev.to/devlinktips/how-one-bad-coder-made-our-stack-unbreakable-514j)
+- [why software engineering feels like you’re losing your mind and why you’re not alone](https://dev.to/devlinktips/why-software-engineering-feels-like-youre-losing-your-mind-and-why-youre-not-alone-38fh)
+- [Command line instructions to uncheck “Select the previous input source” on macOS](https://dev.to/dirtyhenry/command-line-instructions-to-uncheck-select-the-previous-input-source-on-macos-254g)
+- [🦊 &quot;Believe It!&quot; - Mastering Linux File Permissions with Naruto 🍥](https://dev.to/ldwit/believe-it-mastering-linux-file-permissions-with-naruto-483h)
+- [Learning Quartz Scheduler with a Real-Time Spring Boot Project](https://dev.to/akshay0505/learning-quartz-scheduler-with-a-real-time-spring-boot-project-437l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
