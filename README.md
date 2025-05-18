@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top 16 Django Questions for Intermediate to Advanced Developers](https://dev.to/leapcell/top-16-django-questions-for-intermediate-to-advanced-developers-5ff4)
-- [Avoiding the God Object - A Guide to Better Software Design](https://dev.to/bharathvaj_ganesan/avoiding-the-god-object-a-guide-to-better-software-design-3l7p)
-- [⬜️ AI told me to move to Estonia, so I’m eating bread now](https://dev.to/uka_aidev/ai-told-me-to-move-to-estonia-so-im-eating-bread-now-2e71)
-- [Study Guide for Working with Operating Systems &lpar;DOS, Windows, Linux&rpar; - BCA Semester 2 - MCU Bhopal](https://dev.to/abhishek_gupta_f080622fe3/study-guide-for-working-with-operating-systems-dos-windows-linux-bca-semester-2-mcu-bhopal-29e3)
-- [Day 2 - Create the ShoppingCart component](https://dev.to/railsstudent/day-2-create-the-shoppingcart-component-4p4l)
+- [7 Programming Mistakes I Made That Almost Destroyed My Projects &lpar;And How I Fixed Them&rpar;](https://dev.to/thameemx/7-programming-mistakes-i-made-that-almost-destroyed-my-projects-and-how-i-fixed-them-1fcn)
+- [Push Notifications: How Your App Speaks When It’s Sleeping](https://dev.to/techlabma/push-notifications-4lma)
+- [A Comprehensive Guide to Bug Hunting](https://dev.to/xybersec/a-comprehensive-guide-to-bug-hunting-2l01)
+- [Building a No-Code Quant Backtesting Platform — My Journey Begins](https://dev.to/chair_2579a3e599995ce64da/building-a-no-code-quant-backtesting-platform-my-journey-begins-2kcj)
+- [How I went from a no name tech company to a 250k TC job at one of the biggest tech companies in the world.](https://dev.to/tigerwoodsenjoyer/how-i-went-from-a-no-name-tech-company-to-a-250k-tc-job-at-one-of-the-biggest-tech-companies-in-the-420n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
