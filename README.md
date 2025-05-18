@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/karanverma/-a2d)
-- [Rediscovering ACID – The Foundation of Reliable Databases](https://dev.to/mandarg13/rediscovering-acid-the-foundation-of-reliable-databases-3h5p)
-- [Python for Oracle on ARM Linux | Part 2 - &quot;shell like&quot; SQL scripts](https://dev.to/nabhaas/python-for-oracle-on-arm-linux-part-2-shell-like-sql-scripts-1415)
-- [Pourquoi votre code python ne marche plus sur votre serveur](https://dev.to/neuronaddict/pourquoi-votre-code-python-ne-marche-plus-sur-votre-serveur-5c58)
-- [Avoid Memory Leaks in Angular When Using takeUntil with Higher-Order RxJS Operators](https://dev.to/petersaktor/avoid-memory-leaks-in-angular-when-using-takeuntil-with-higher-order-rxjs-operators-268m)
+- [Weekly Challenge: Compare the Average](https://dev.to/simongreennet/weekly-challenge-compare-the-average-1907)
+- [I never really liked the term “10x engineer”, here&#39;s a better term](https://dev.to/rj11io/i-never-really-liked-the-term-10x-engineer-heres-a-better-term-31k)
+- [🚀 React Documentation Walkthrough – Learn React the Right Way!](https://dev.to/ebereplenty/react-documentation-walkthrough-learn-react-the-right-way-ggj)
+- [React Native Get Save Value Locally using AsyncStorage in App Memory Example](https://dev.to/skptricks_93/react-native-get-save-value-locally-using-asyncstorage-in-app-memory-example-2lj7)
+- [Dijital Deneyimin Üç Boyutu: Aktuel.net, Haberdizayn.com, AbdulkadirGungor.com ile Yaratıcılığın Teknik Derinliğinde Bir Keşif](https://dev.to/abdulkadir_gungor_86/dijital-deneyimin-uc-boyutu-aktuelnet-haberdizayncom-abdulkadirgungorcom-ile-yaraticiligin-3jkp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
