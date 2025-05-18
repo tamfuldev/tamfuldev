@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CH-04 : The Singleton Paradox — Jai &amp; Veeru vs. The Multiverse of Objects](https://dev.to/nikhil-amin/ch-04-the-singleton-paradox-jai-veeru-vs-the-multiverse-of-objects-4cb1)
-- [Understanding err, stdout, and stderr in Node.js](https://dev.to/tene/understanding-err-stdout-and-stderr-in-nodejs-44ia)
-- [AI killed my coding brain but I’m rebuilding it](https://dev.to/devlinktips/ai-killed-my-coding-brain-but-im-rebuilding-it-4i35)
-- [Skype is dead. Long live Teams? Why Microsoft finally pulled the plug in 2025](https://dev.to/devlinktips/skype-is-dead-long-live-teams-why-microsoft-finally-pulled-the-plug-in-2025-176h)
-- [Grafana 12 just leveled up observability as code and dashboards that think](https://dev.to/devlinktips/grafana-12-just-leveled-up-observability-as-code-and-dashboards-that-think-nlh)
+- [How AI is Changing Neurology: A Developer’s Perspective](https://dev.to/alireza_minagar_99f01ecb6/how-ai-is-changing-neurology-a-developers-perspective-7g8)
+- [Unveiling the Expat License: A Comprehensive Exploration into Open Source Fairness and Sustainability](https://dev.to/ahmmrizv9/unveiling-the-expat-license-a-comprehensive-exploration-into-open-source-fairness-and-3jof)
+- [Understanding CSRF Attacks: How They Work and How to Protect Your Website](https://dev.to/ayako_yk/understanding-csrf-attacks-how-they-work-and-how-to-protect-your-website-3b2o)
+- [What happens when you type https://www.google.com and press Enter? 🌐💡](https://dev.to/macfe1/what-happens-when-you-type-httpswwwgooglecom-and-press-enter-4bja)
+- [*args &amp; **kwargs in Python function](https://dev.to/hyperkai/args-kwargs-in-python-function-58l2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
