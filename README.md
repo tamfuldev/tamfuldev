@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How one bad coder made our stack unbreakable](https://dev.to/devlinktips/how-one-bad-coder-made-our-stack-unbreakable-514j)
-- [why software engineering feels like you’re losing your mind and why you’re not alone](https://dev.to/devlinktips/why-software-engineering-feels-like-youre-losing-your-mind-and-why-youre-not-alone-38fh)
-- [Command line instructions to uncheck “Select the previous input source” on macOS](https://dev.to/dirtyhenry/command-line-instructions-to-uncheck-select-the-previous-input-source-on-macos-254g)
-- [🦊 &quot;Believe It!&quot; - Mastering Linux File Permissions with Naruto 🍥](https://dev.to/ldwit/believe-it-mastering-linux-file-permissions-with-naruto-483h)
-- [Learning Quartz Scheduler with a Real-Time Spring Boot Project](https://dev.to/akshay0505/learning-quartz-scheduler-with-a-real-time-spring-boot-project-437l)
+- [Threat Modeling Meets Test Planning: A Unified Workflow for Secure Code](https://dev.to/gopinath_kathiresan_2f4b2/threat-modeling-meets-test-planning-a-unified-workflow-for-secure-code-102i)
+- [SkillTrack AI – A Simple AI-Powered Developer Skill Tracker](https://dev.to/soulaimen99/skilltrack-ai-a-simple-ai-powered-developer-skill-tracker-31fn)
+- [Deploy AWS VPC with ALB, NAT Gateway, and Send Apache Logs to CloudWatch Using CloudWatch Agent](https://dev.to/san_dev_65a0346580173629d/deploy-aws-vpc-with-alb-nat-gateway-and-send-apache-logs-to-cloudwatch-using-cloudwatch-agent-1non)
+- [Working with Containers on Linux: Docker &amp; Podman Made Simple](https://dev.to/marzena_pugo_b8978575380f/working-with-containers-on-linux-docker-podman-made-simple-50g5)
+- [Terratags: Enforce Tags on your AWS Terraform configuration](https://dev.to/quixoticmonk/terratags-enforce-tags-on-your-aws-terraform-configuration-1ck5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
