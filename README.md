@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My $10,000 Mistake with EKS Auto Mode &lpar;And How You Can Avoid It&rpar;](https://dev.to/costqai/my-10000-mistake-with-eks-auto-mode-and-how-you-can-avoid-it-3go2)
-- [Some tips for beginners trying to take the AWS Cloud Practitioner certification :&rpar;](https://dev.to/jeromes_dev/some-tips-for-beginners-trying-to-take-the-aws-cloud-practitioner-certification--3i4g)
-- [A quick and beginner-friendly guide to deploying any HTML page to Azure App Service using only the CLI](https://dev.to/adesola_kehinde/a-quick-and-beginner-friendly-guide-to-deploying-any-html-page-to-azure-app-service-using-only-the-d5m)
-- [How the 2025 Japan Concert Series Streams Live to Millions](https://dev.to/yivifil1/how-the-2025-japan-concert-series-streams-live-to-millions-3jif)
-- [Passing the AWS CLF-C02 Certification [AWS Cloud Practitioner Blog]](https://dev.to/jeromes_dev/passing-the-aws-clf-c02-certification-aws-cloud-practitioner-blog-o63)
+- [How to Land a Coding Job in Post-Pandemic Times—The Untraditional Way](https://dev.to/canro91/how-to-land-a-coding-job-in-post-pandemic-times-the-untraditional-way-1045)
+- [AI HR Assistant with Amazon Bedrock Agent](https://dev.to/pnghaianh/ai-hr-assistant-with-amazon-bedrock-agent-4l3)
+- [Developer’s Guide to Focus in the Age of AI Distraction](https://dev.to/pratham_naik_project_manager/developers-guide-to-focus-in-the-age-of-ai-distraction-col)
+- [The Developer’s Guide to Focus in the Age of AI Distraction](https://dev.to/teamcamp/the-developers-guide-to-focus-in-the-age-of-ai-distraction-3k18)
+- [Understanding Conditional Validation in Laravel with sometimes](https://dev.to/homezonic/understanding-conditional-validation-in-laravel-with-sometimes-h81)
 <!-- BLOG-POST-LIST:END -->
 
 ---
