@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Image Engineering with Amazon Nova Canvas [🎥 Video Demo Included]](https://dev.to/aws-builders/image-engineering-with-amazon-nova-canvas-video-demo-included-4kag)
-- [Building a Nuxt module from scratch](https://dev.to/jacobandrewsky/building-a-nuxt-module-from-scratch-4bd3)
-- [Why SafeLine Might Be the Best Open Source WAF You Haven’t Tried Yet](https://dev.to/sharon_42e16b8da44dabde6d/why-safeline-might-be-the-best-open-source-waf-you-havent-tried-yet-o7l)
-- [Schemas in PostgreSQL: A Practical Guide for Developers](https://dev.to/dbvismarketing/schemas-in-postgresql-a-practical-guide-for-developers-36ep)
-- [[Boost]](https://dev.to/enasmetwaly/-1oab)
+- [Brighter + Redis/Valkey: Como configurar o Brighter com Redis/Valkey](https://dev.to/actor-dev/brighter-redisvalkey-como-configurar-o-brighter-com-redisvalkey-4plp)
+- [Guide to using Filament Components in public-facing pages](https://dev.to/filamentmastery/guide-to-using-filament-components-in-public-facing-pages-nei)
+- [Brighter and Redis/Valkey: How to setup and use Brighter with Redis/Valkey](https://dev.to/actor-dev/brighter-and-redisvalkey-how-to-setup-and-use-brighter-with-redisvalkey-2djm)
+- [Building a DEX: A Simple Overview](https://dev.to/david_beckam_df898f761b30/building-a-dex-a-simple-overview-h70)
+- [Running Quantized LLMs Locally: Unlocking Docker Model Runner&#39;s Potential](https://dev.to/cloudengg/running-quantized-llms-locally-unlocking-docker-model-runners-potential-5ehi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
