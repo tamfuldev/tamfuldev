@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI-Powered Web Data Pipeline with n8n, Scrapeless, and Claude](https://dev.to/datacollectionscraper/building-an-ai-powered-web-data-pipeline-with-n8n-scrapeless-and-claude-4eg6)
-- [Dark Patterns in Enterprise Software &lpar;And How to Avoid Them&rpar;](https://dev.to/corporateone/dark-patterns-in-enterprise-software-and-how-to-avoid-them-bf)
-- [Comprehensive guide to understanding and building effective AI agents](https://dev.to/ai4b/comprehensive-guide-to-understanding-and-building-effective-ai-agents-4p95)
-- [Entry-Level Data Engineer: What Recruiters Are Really Looking For in 2025](https://dev.to/browsejobs/entry-level-data-engineer-what-recruiters-are-really-looking-for-in-2025-3fkf)
-- [I Took the Long Way Home to Code, and That’s Okay](https://dev.to/choiceg/i-took-the-long-way-home-to-code-and-thats-okay-194i)
+- [Meme Monday](https://dev.to/ben/meme-monday-38l8)
+- [Salesforce Security Best Practices for Admins in 2025](https://dev.to/elearning_solutions_791be/salesforce-security-best-practices-for-admins-in-2025-2gho)
+- [Software design isn’t magic, but it feels like sorcery when you get it right](https://dev.to/devlinktips/software-design-isnt-magic-but-it-feels-like-sorcery-when-you-get-it-right-3l7n)
+- [Generative AI: What It Is, How It Works, and Why It Matters](https://dev.to/moh_moh701/generative-ai-what-it-is-how-it-works-and-why-it-matters-924)
+- [Higgsfield AI: The Revolutionary Image-to-Video Generator Transforming Cinematic Creation](https://dev.to/aibyamdad/higgsfield-ai-the-revolutionary-image-to-video-generator-transforming-cinematic-creation-2ack)
 <!-- BLOG-POST-LIST:END -->
 
 ---
