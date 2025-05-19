@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built My Own Home Server for $150 &lpar;And Why I Ditched AWS for It&rpar;](https://dev.to/mayankdhingra02/how-i-built-my-own-home-server-for-150-and-why-i-ditched-aws-for-it-4ffi)
-- [🎯 Covercraft AI: A Smart Tool for Automated, Personalized Cover Letter Generation](https://dev.to/suvadip_chakraborty_0561a/covercraft-ai-a-smart-tool-for-automated-personalized-cover-letter-generation-baj)
-- [Terminal based Graphical Interface in NodeJs](https://dev.to/leonardopinezi/terminal-based-graphical-interface-in-nodejs-3f05)
-- [Unveiling the X Consortium License: Bridging Open Source Fairness and Legal Innovation](https://dev.to/laetitiaperraut/unveiling-the-x-consortium-license-bridging-open-source-fairness-and-legal-innovation-438b)
-- [Advanced Image Editing with the PixLab Online Photo Editor](https://dev.to/unqlite_db/advanced-image-editing-with-the-pixlab-online-photo-editor-2lcj)
+- [Building a File Upload Time Estimator: Your Users Will Thank You](https://dev.to/learncomputer/building-a-file-upload-time-estimator-your-users-will-thank-you-pd6)
+- [Color Mastery Unlocked: Top 10 Digital Tools for Stunning Design Palettes](https://dev.to/solitrix02/color-mastery-unlocked-top-10-digital-tools-for-stunning-design-palettes-52gn)
+- [Cangjie Language Development Beginner&#39;s Tutorial: Setting Up a Development Environment](https://dev.to/youlanjihua/cangjie-language-development-beginners-tutorial-setting-up-a-development-environment-4m9j)
+- [I Let an AI Coach Me for Dev Interviews. Here&#39;s How It Went.](https://dev.to/zy_li_d74fa193c2b190918be/i-let-an-ai-coach-me-for-dev-interviews-heres-how-it-went-998)
+- [Understanding TypeScript: Inference, Types, and Generics](https://dev.to/coder7475/understanding-typescript-inference-types-and-generics-1akc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
