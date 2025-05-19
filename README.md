@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Land a Coding Job in Post-Pandemic Times—The Untraditional Way](https://dev.to/canro91/how-to-land-a-coding-job-in-post-pandemic-times-the-untraditional-way-1045)
-- [AI HR Assistant with Amazon Bedrock Agent](https://dev.to/pnghaianh/ai-hr-assistant-with-amazon-bedrock-agent-4l3)
-- [Developer’s Guide to Focus in the Age of AI Distraction](https://dev.to/pratham_naik_project_manager/developers-guide-to-focus-in-the-age-of-ai-distraction-col)
-- [The Developer’s Guide to Focus in the Age of AI Distraction](https://dev.to/teamcamp/the-developers-guide-to-focus-in-the-age-of-ai-distraction-3k18)
-- [Understanding Conditional Validation in Laravel with sometimes](https://dev.to/homezonic/understanding-conditional-validation-in-laravel-with-sometimes-h81)
+- [Docker Like a Pro: Essential Commands and Tips](https://dev.to/ramkumar-m-n/docker-like-a-pro-essential-commands-and-tips-2gpb)
+- [Power Automate - Why and How to Avoid Nesting](https://dev.to/wyattdave/power-automate-why-and-how-to-avoid-nesting-841)
+- [Is Learning HTML &amp; CSS Still Worth It in the Age of AI?](https://dev.to/d-libro-digital-skills/is-learning-html-css-still-worth-it-in-the-age-of-ai-1jo3)
+- [React Animation Libraries in 2025: What Companies Are Actually Using](https://dev.to/raajaryan/react-animation-libraries-in-2025-what-companies-are-actually-using-3lik)
+- [Perl 🐪 Weekly #721 - Perl Roadmap](https://dev.to/szabgab/perl-weekly-721-perl-roadmap-1dlj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
