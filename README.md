@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday](https://dev.to/ben/meme-monday-38l8)
-- [Salesforce Security Best Practices for Admins in 2025](https://dev.to/elearning_solutions_791be/salesforce-security-best-practices-for-admins-in-2025-2gho)
-- [Software design isn’t magic, but it feels like sorcery when you get it right](https://dev.to/devlinktips/software-design-isnt-magic-but-it-feels-like-sorcery-when-you-get-it-right-3l7n)
-- [Generative AI: What It Is, How It Works, and Why It Matters](https://dev.to/moh_moh701/generative-ai-what-it-is-how-it-works-and-why-it-matters-924)
-- [Higgsfield AI: The Revolutionary Image-to-Video Generator Transforming Cinematic Creation](https://dev.to/aibyamdad/higgsfield-ai-the-revolutionary-image-to-video-generator-transforming-cinematic-creation-2ack)
+- [From JavaScript to Python: A Syntax Guide for Developers](https://dev.to/mohinsheikh/from-javascript-to-python-a-syntax-guide-for-developers-4ea0)
+- [Реализация Паттерна Compound Component в React: Практическое Руководство от Богдана Новотарского](https://dev.to/bogdannovotarskij/riealizatsiia-pattierna-compound-component-v-react-praktichieskoie-rukovodstvo-ot-boghdana-novotarskogho-5ff2)
+- [Why as a Back-end-engineer you should know an Operating System and it&#39;s Basics!](https://dev.to/vincenttommi/why-as-a-back-end-engineer-you-should-know-an-operating-system-and-its-basics-4594)
+- [Share the Blessings - Support Qurbani 2025 at Banbury Madni Masjid](https://dev.to/banbury_madni_masjid/share-the-blessings-support-qurbani-2025-at-banbury-madni-masjid-30gp)
+- [We just hit 354 stars on GitHub. If you&#39;re curious, Kodus is an open source AI-powered code review tool we&#39;re building. https://kodus.io](https://dev.to/ed_dfreitas/we-just-hit-354-stars-on-github-if-youre-curious-kodus-is-an-open-source-ai-powered-code-review-439e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
