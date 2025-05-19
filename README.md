@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a File Upload Time Estimator: Your Users Will Thank You](https://dev.to/learncomputer/building-a-file-upload-time-estimator-your-users-will-thank-you-pd6)
-- [Color Mastery Unlocked: Top 10 Digital Tools for Stunning Design Palettes](https://dev.to/solitrix02/color-mastery-unlocked-top-10-digital-tools-for-stunning-design-palettes-52gn)
-- [Cangjie Language Development Beginner&#39;s Tutorial: Setting Up a Development Environment](https://dev.to/youlanjihua/cangjie-language-development-beginners-tutorial-setting-up-a-development-environment-4m9j)
-- [I Let an AI Coach Me for Dev Interviews. Here&#39;s How It Went.](https://dev.to/zy_li_d74fa193c2b190918be/i-let-an-ai-coach-me-for-dev-interviews-heres-how-it-went-998)
-- [Understanding TypeScript: Inference, Types, and Generics](https://dev.to/coder7475/understanding-typescript-inference-types-and-generics-1akc)
+- [My $10,000 Mistake with EKS Auto Mode &lpar;And How You Can Avoid It&rpar;](https://dev.to/costqai/my-10000-mistake-with-eks-auto-mode-and-how-you-can-avoid-it-3go2)
+- [Some tips for beginners trying to take the AWS Cloud Practitioner certification :&rpar;](https://dev.to/jeromes_dev/some-tips-for-beginners-trying-to-take-the-aws-cloud-practitioner-certification--3i4g)
+- [A quick and beginner-friendly guide to deploying any HTML page to Azure App Service using only the CLI](https://dev.to/adesola_kehinde/a-quick-and-beginner-friendly-guide-to-deploying-any-html-page-to-azure-app-service-using-only-the-d5m)
+- [How the 2025 Japan Concert Series Streams Live to Millions](https://dev.to/yivifil1/how-the-2025-japan-concert-series-streams-live-to-millions-3jif)
+- [Passing the AWS CLF-C02 Certification [AWS Cloud Practitioner Blog]](https://dev.to/jeromes_dev/passing-the-aws-clf-c02-certification-aws-cloud-practitioner-blog-o63)
 <!-- BLOG-POST-LIST:END -->
 
 ---
