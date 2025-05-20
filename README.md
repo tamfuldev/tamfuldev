@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [10 Livros de Programação Escritos por Brasileiros ou em Português](https://dev.to/marcosplusplus/10-livros-de-programacao-escritos-por-brasileiros-ou-em-portugues-4675)
-- [🧩 GitHub con múltiples perfiles SSH: trabaja con varias cuentas sin enloquecer](https://dev.to/jetaype21/github-con-multiples-perfiles-ssh-trabaja-con-varias-cuentas-sin-enloquecer-1035)
-- [OWASP® Cornucopia 2.2 &amp; Copi - A Game Engine for OWASP® Cornucopia Threat Modeling](https://dev.to/owasp/owaspr-cornucopia-22-copi-a-game-engine-for-owaspr-cornucopia-threat-modeling-4okj)
-- [🔐 Git + GitHub con SSH: Guía paso a paso &lpar;y sin morir en el intento&rpar;](https://dev.to/jetaype21/git-github-con-ssh-guia-paso-a-paso-y-sin-morir-en-el-intento-ig4)
-- [Why Repetitive Code is Problem in React? | Why is my React code running twice?](https://dev.to/code_area_9036c9663233d92/why-repetitive-code-is-problem-in-react-why-is-my-react-code-running-twice-f4)
+- [Stablecoin di Indonesia: Mengapa USDT dan USDC Populer di Kalangan Trader](https://dev.to/ahmmrizv9/stablecoin-di-indonesia-mengapa-usdt-dan-usdc-populer-di-kalangan-trader-2m6b)
+- [[Boost]](https://dev.to/yusafs94/-44md)
+- [Sorotan Bitcoin di Indonesia: Cara Mendapatkan Keuntungan dari Bitcoin pada 2025 untuk Investor Indonesia](https://dev.to/jennythomas498/sorotan-bitcoin-di-indonesia-cara-mendapatkan-keuntungan-dari-bitcoin-pada-2025-untuk-investor-2e23)
+- [[Boost]](https://dev.to/guilhermesoares009/-38fa)
+- [Print Smarter in Ruby - Know When and How to Use Each Method](https://dev.to/rob__race/print-smarter-in-ruby-know-when-and-how-to-use-each-method-4d9f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
