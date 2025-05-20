@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stablecoin di Indonesia: Mengapa USDT dan USDC Populer di Kalangan Trader](https://dev.to/ahmmrizv9/stablecoin-di-indonesia-mengapa-usdt-dan-usdc-populer-di-kalangan-trader-2m6b)
-- [[Boost]](https://dev.to/yusafs94/-44md)
-- [Sorotan Bitcoin di Indonesia: Cara Mendapatkan Keuntungan dari Bitcoin pada 2025 untuk Investor Indonesia](https://dev.to/jennythomas498/sorotan-bitcoin-di-indonesia-cara-mendapatkan-keuntungan-dari-bitcoin-pada-2025-untuk-investor-2e23)
-- [[Boost]](https://dev.to/guilhermesoares009/-38fa)
-- [Print Smarter in Ruby - Know When and How to Use Each Method](https://dev.to/rob__race/print-smarter-in-ruby-know-when-and-how-to-use-each-method-4d9f)
+- [Masa Depan Kripto di Indonesia: 5 Tren untuk 2025 dan Lebih Jauh](https://dev.to/zhangwei42/masa-depan-kripto-di-indonesia-5-tren-untuk-2025-dan-lebih-jauh-2nj0)
+- [[JS] One Mistake I Made with await in a Loop](https://dev.to/eminel9311/js-one-mistake-i-made-with-await-in-a-loop-54pk)
+- [Using Pub/Sub to Build a Serverless Async Processing Pipeline on GCP](https://dev.to/charlottetowell/using-pubsub-to-build-a-serverless-async-processing-pipeline-on-gcp-406p)
+- [AI for SEO? Still Useless Without Strategy.](https://dev.to/engineeredai/ai-for-seo-still-useless-without-strategy-4f01)
+- [CerbiStream: Real-Time Governance-Enforced Logging for .NET](https://dev.to/zeroshi/cerbistream-real-time-governance-enforced-logging-for-net-1kc4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
