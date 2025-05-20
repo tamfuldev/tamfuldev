@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [💻 If You Can’t Answer These 40 Next.js Questions, You’re Not Ready for 2025 Interviews ⚠️](https://dev.to/finalroundai/if-you-cant-answer-these-40-nextjs-questions-youre-not-ready-for-2025-interviews-1lfd)
-- [TypeScript Type Vs Interface? The Answer Is Type!](https://dev.to/mayallo/typescript-type-vs-interface-the-answer-is-type-38g5)
-- [The Accidental Architect: How Developers Are Becoming AI Workflow Designers](https://dev.to/santoshi_kumari_c34ae877b/the-accidental-architect-how-developers-are-becoming-ai-workflow-designers-n4m)
-- [TDD is a scam. Grow up and do this instead](https://dev.to/dariomannu/tdd-is-a-scam-grow-up-and-use-this-instead-5hk1)
-- [Networking Made Simple](https://dev.to/aniruddhaadak_/networking-made-simple-37ei)
+- [💼 40 Java Interview Questions Every Developer Should Master](https://dev.to/coursedia/40-java-interview-questions-every-developer-should-master-20d9)
+- [Analyzing DuckDB’s Performance Optimization through TOPN and COUNT DISTINCT Operations](https://dev.to/serina_8340/analyzing-duckdbs-performance-optimization-through-topn-and-count-distinct-operations-218p)
+- [A Quick Guide to Making a Loan App](https://dev.to/david_beckam_df898f761b30/a-quick-guide-to-making-a-loan-app-3cfb)
+- [Version Fatigue Is Real and the AI Models Keep Multiplying”](https://dev.to/santoshi_kumari_c34ae877b/version-fatigue-is-real-and-the-ai-models-keep-multiplying-57cj)
+- [Effect Unit in Clean Architecture for Frontend Applications](https://dev.to/harunou/effect-unit-explained-clean-architecture-in-frontend-applications-2b0p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
