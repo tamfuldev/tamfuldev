@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [An interesting read...it dives into the low-level details](https://dev.to/ogundiyantobiloba/an-interesting-readit-dives-into-the-low-level-details-3571)
-- [📚 What&#39;s Your Opinion? Comparing SEO in React.js vs Next.js](https://dev.to/mustafa_ayoubi_44404eaff5/whats-your-opinion-comparing-seo-in-reactjs-vs-nextjs-4367)
-- [What I&#39;m thinking](https://dev.to/inhabit_app/what-im-thinking-48nb)
-- [Understanding SPF &lpar;Sender Policy Framework&rpar; at its core](https://dev.to/ogundiyantobiloba/understanding-spf-sender-policy-framework-at-its-core-e34)
-- [AI&#39;s deep human wisdom framework: revolutionizing code quality, solving LLM&#39;s core limits.](https://dev.to/jungwook_kim_ec7248e91e81/ais-deep-human-wisdom-framework-revolutionizing-code-quality-solving-llms-core-limits-4pok)
+- [🚧 Understanding CORS: Cross-Origin Resource Sharing for Web Developers](https://dev.to/inam003/understanding-cors-cross-origin-resource-sharing-for-web-developers-59gm)
+- [Advanced NgRx Patterns for Enterprise Angular Applications](https://dev.to/michael-gokey/advanced-ngrx-patterns-for-enterprise-angular-applications-5ki)
+- [NgRx State Management Across Angular Modules](https://dev.to/michael-gokey/ngrx-state-management-across-angular-modules-264)
+- [Background jobs with Rails 8 are delightful](https://dev.to/bdavidxyz/background-jobs-with-rails-8-are-delightful-22ce)
+- [Building a Multi-Module Angular Application with NgRx](https://dev.to/michael-gokey/building-a-multi-module-angular-application-with-ngrx-11p6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
