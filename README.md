@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Masa Depan Kripto di Indonesia: 5 Tren untuk 2025 dan Lebih Jauh](https://dev.to/zhangwei42/masa-depan-kripto-di-indonesia-5-tren-untuk-2025-dan-lebih-jauh-2nj0)
-- [[JS] One Mistake I Made with await in a Loop](https://dev.to/eminel9311/js-one-mistake-i-made-with-await-in-a-loop-54pk)
-- [Using Pub/Sub to Build a Serverless Async Processing Pipeline on GCP](https://dev.to/charlottetowell/using-pubsub-to-build-a-serverless-async-processing-pipeline-on-gcp-406p)
-- [AI for SEO? Still Useless Without Strategy.](https://dev.to/engineeredai/ai-for-seo-still-useless-without-strategy-4f01)
-- [CerbiStream: Real-Time Governance-Enforced Logging for .NET](https://dev.to/zeroshi/cerbistream-real-time-governance-enforced-logging-for-net-1kc4)
+- [An interesting read...it dives into the low-level details](https://dev.to/ogundiyantobiloba/an-interesting-readit-dives-into-the-low-level-details-3571)
+- [📚 What&#39;s Your Opinion? Comparing SEO in React.js vs Next.js](https://dev.to/mustafa_ayoubi_44404eaff5/whats-your-opinion-comparing-seo-in-reactjs-vs-nextjs-4367)
+- [What I&#39;m thinking](https://dev.to/inhabit_app/what-im-thinking-48nb)
+- [Understanding SPF &lpar;Sender Policy Framework&rpar; at its core](https://dev.to/ogundiyantobiloba/understanding-spf-sender-policy-framework-at-its-core-e34)
+- [AI&#39;s deep human wisdom framework: revolutionizing code quality, solving LLM&#39;s core limits.](https://dev.to/jungwook_kim_ec7248e91e81/ais-deep-human-wisdom-framework-revolutionizing-code-quality-solving-llms-core-limits-4pok)
 <!-- BLOG-POST-LIST:END -->
 
 ---
