@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why your terminal is boring and what to use instead](https://dev.to/devlinktips/why-your-terminal-is-boring-and-what-to-use-instead-26f)
-- [Simple Gas Optimization Techniques Every Ethereum Developer Should Know](https://dev.to/dhis_is_jj/simple-gas-optimization-techniques-every-ethereum-developer-should-know-2ei4)
-- [🚀 Meet ApolloAgent: The Code Assistant I Built So I’d Stop Talking to Myself](https://dev.to/albz/meet-apolloagent-the-code-assistant-i-built-so-id-stop-talking-to-myself-4fp4)
-- [Why Everyone’s Building AI Apps, and No One’s Fixing the Old Ones](https://dev.to/santoshi_kumari_c34ae877b/why-everyones-building-ai-apps-and-no-ones-fixing-the-old-ones-5500)
-- [A Comprehensive Comparison of the Three Major Python Web Frameworks: Which One Do You Favor? | Opinion](https://dev.to/dheeraj-lee27/a-comprehensive-comparison-of-the-three-major-python-web-frameworks-which-one-do-you-favor--2ec9)
+- [OUTPUT Clause — Log, Sync, and Debug Like a Pro](https://dev.to/hasansafwan/output-clause-log-sync-and-debug-like-a-pro-58hj)
+- [Deploy My First Node.js App on AWS: EC2 + Docker + RDS MySQL Explained](https://dev.to/soumen_bhunia_9ebb71bc67a/deploy-my-first-nodejs-app-on-aws-ec2-docker-rds-mysql-explained-39hn)
+- [The Pro Designer’s Toolkit: 12 Plugins You’ll Use Daily](https://dev.to/atforeveryoung/the-pro-designers-toolkit-12-plugins-youll-use-daily-4034)
+- [Mastering package.json Versioning: Essential for Node.js Developers](https://dev.to/mor3/mastering-packagejson-versioning-essential-for-nodejs-developers-5a8c)
+- [The Seven Types of Locks in InnoDB](https://dev.to/yangguangyong/the-seven-types-of-locks-in-innodb-5h0a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
