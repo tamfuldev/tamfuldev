@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [OUTPUT Clause — Log, Sync, and Debug Like a Pro](https://dev.to/hasansafwan/output-clause-log-sync-and-debug-like-a-pro-58hj)
-- [Deploy My First Node.js App on AWS: EC2 + Docker + RDS MySQL Explained](https://dev.to/soumen_bhunia_9ebb71bc67a/deploy-my-first-nodejs-app-on-aws-ec2-docker-rds-mysql-explained-39hn)
-- [The Pro Designer’s Toolkit: 12 Plugins You’ll Use Daily](https://dev.to/atforeveryoung/the-pro-designers-toolkit-12-plugins-youll-use-daily-4034)
-- [Mastering package.json Versioning: Essential for Node.js Developers](https://dev.to/mor3/mastering-packagejson-versioning-essential-for-nodejs-developers-5a8c)
-- [The Seven Types of Locks in InnoDB](https://dev.to/yangguangyong/the-seven-types-of-locks-in-innodb-5h0a)
+- [Best DAM Systems for Managing 3D Files in 2025](https://dev.to/valerie_daminion/best-dam-systems-for-managing-3d-files-in-2025-210n)
+- [OnlyOffice in 2025: A Game-Changer for Linux Users or Just Another Suite?](https://dev.to/bhuvaneshm_dev/-1ilb)
+- [Rabarber v5: Cleaner, Leaner, and More Stable](https://dev.to/enjaku4/rabarber-v5-cleaner-leaner-and-more-stable-1fhc)
+- [Show VM IP in Proxmox](https://dev.to/cheulong/show-vm-ip-in-proxmox-1c4a)
+- [Big numbers readability in PHP](https://dev.to/sirzarganwar/unreadable-large-numbers-in-php-2b61)
 <!-- BLOG-POST-LIST:END -->
 
 ---
