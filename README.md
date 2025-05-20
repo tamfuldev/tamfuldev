@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [💼 40 Java Interview Questions Every Developer Should Master](https://dev.to/coursedia/40-java-interview-questions-every-developer-should-master-20d9)
-- [Analyzing DuckDB’s Performance Optimization through TOPN and COUNT DISTINCT Operations](https://dev.to/serina_8340/analyzing-duckdbs-performance-optimization-through-topn-and-count-distinct-operations-218p)
-- [A Quick Guide to Making a Loan App](https://dev.to/david_beckam_df898f761b30/a-quick-guide-to-making-a-loan-app-3cfb)
-- [Version Fatigue Is Real and the AI Models Keep Multiplying”](https://dev.to/santoshi_kumari_c34ae877b/version-fatigue-is-real-and-the-ai-models-keep-multiplying-57cj)
-- [Effect Unit in Clean Architecture for Frontend Applications](https://dev.to/harunou/effect-unit-explained-clean-architecture-in-frontend-applications-2b0p)
+- [Prompt Debugging Is the New Stack Trace](https://dev.to/julien_doussot/prompt-debugging-is-the-new-stack-trace-2hie)
+- [What is a Software Firewall?](https://dev.to/clouddefenseai/what-is-a-software-firewall-15c3)
+- [How to Set Up GitLab CI/CD for Deploying Frontend Apps to Vercel](https://dev.to/ephraimx/how-to-set-up-gitlab-cicd-for-deploying-frontend-apps-to-vercel-nd2)
+- [How Provaantech Helps Startups Accelerate Digital Transformation in 2025](https://dev.to/provaantech/how-provaantech-helps-startups-accelerate-digital-transformation-in-2025-4ckc)
+- [AI Interviews: A Hidden Threat to Corporate Secrets](https://dev.to/libardo_ramirez_7a2680303/ai-interviews-a-hidden-threat-to-corporate-secrets-6ck)
 <!-- BLOG-POST-LIST:END -->
 
 ---
