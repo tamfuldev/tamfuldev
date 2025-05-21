@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Turn Your Artwork into NFTs and Sell It Like a Pro &lpar;Even If You’re Not a Techie&rpar;](https://dev.to/favebs/how-to-turn-your-artwork-into-nfts-and-sell-it-like-a-pro-even-if-youre-not-a-techie-2pch)
-- [Clean Architecture in .NET: Build Scalable &amp; Maintainable Apps](https://dev.to/jenilsojitra/clean-architecture-in-net-build-scalable-maintainable-apps-5aei)
-- [Predictive Analytics: Your Guide to Anticipating Future Trends](https://dev.to/tasmiya_krish_f79e8f34500/predictive-analytics-your-guide-to-anticipating-future-trends-1ldb)
-- [🚀@zeroopensource/pack-packages v0.0.2 is live!](https://dev.to/zeroopensource/zeroopensourcepack-packages-v002-is-live-5ff3)
-- [🚀@zeroopensource/pack-packages v0.0.1 is live!](https://dev.to/zeroopensource/zeroopensourcepack-packages-v001-is-live-25o)
+- [Google I/O 2025 Summary](https://dev.to/justin3go/google-io-2025-summary-3c64)
+- [Python has map&lpar;&rpar; and filter&lpar;&rpar;? How come no one told me?](https://dev.to/dave_banwell_26fd6e4680c0/python-has-map-and-filter-how-come-no-one-told-me-3n9p)
+- [Stop Hesitating, Just Use React Or Any Modern Framework](https://dev.to/wildboar_dev/stop-hesitating-just-use-react-or-any-modern-framework-5h84)
+- [Java Resource Management and Leak Prevention: Insights from SeaTunnel Source Code](https://dev.to/seatunnel/java-resource-management-and-leak-prevention-insights-from-seatunnel-source-code-33m3)
+- [AI CreaI](https://dev.to/qqriri99/ai-creai-6jn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
