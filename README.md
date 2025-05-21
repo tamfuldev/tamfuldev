@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Digital Renaissance](https://dev.to/rawveg/the-digital-renaissance-9lo)
-- [🧠 How UX Shaped COVID, Airbnb’s Redesign &amp; SVG-to-CSS Tool](https://dev.to/adam/how-ux-shaped-covid-airbnbs-redesign-svg-to-css-tool-5ajk)
-- [10 Open Source Tools for Observability Every DevOps Engineer Should Know](https://dev.to/thecloudarchitect/10-open-source-tools-for-observability-every-devops-engineer-should-know-45fl)
-- [How BitriseDev is Powering the Future of Web Development &amp; Business Automation](https://dev.to/bitrisedev/how-bitrisedev-is-powering-the-future-of-web-development-business-automation-1n4d)
-- [We Are Not Code Monkeys](https://dev.to/dsfx3d/we-are-not-code-monkeys-52j9)
+- [Best Machine Translation Engine to Use by Scenario](https://dev.to/colinreed/best-machine-translation-engine-to-use-by-scenario-4ek2)
+- [CORS : The Browser Bouncers Explained](https://dev.to/jerkeyray/cors-the-browser-bouncers-explained-1ccg)
+- [Lofty AI Like Platform Development: A Complete Guide to Building a Fractional Real Estate Investment App](https://dev.to/outreach_ideausher_142cf1/lofty-ai-like-platform-development-a-complete-guide-to-building-a-fractional-real-estate-57ge)
+- [Day 27/ 30 Days of Linux Mastery: Introduction to Shell Scripting](https://dev.to/amandaigwe/day-27-30-days-of-linux-mastery-introduction-to-shell-scripting-2c8j)
+- [All ways to get a DOM element reference](https://dev.to/naugtur/all-ways-to-get-a-dom-element-reference-57e2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
