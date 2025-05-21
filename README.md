@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Best Machine Translation Engine to Use by Scenario](https://dev.to/colinreed/best-machine-translation-engine-to-use-by-scenario-4ek2)
-- [CORS : The Browser Bouncers Explained](https://dev.to/jerkeyray/cors-the-browser-bouncers-explained-1ccg)
-- [Lofty AI Like Platform Development: A Complete Guide to Building a Fractional Real Estate Investment App](https://dev.to/outreach_ideausher_142cf1/lofty-ai-like-platform-development-a-complete-guide-to-building-a-fractional-real-estate-57ge)
-- [Day 27/ 30 Days of Linux Mastery: Introduction to Shell Scripting](https://dev.to/amandaigwe/day-27-30-days-of-linux-mastery-introduction-to-shell-scripting-2c8j)
-- [All ways to get a DOM element reference](https://dev.to/naugtur/all-ways-to-get-a-dom-element-reference-57e2)
+- [A COMPREHENSIVE LOOK INTO SQL : - What a Beginner can learn](https://dev.to/tiff_thua/a-comprehensive-look-into-sql-what-a-beginner-can-learn-3l6g)
+- [HarmonyOSNext -Schedule Management](https://dev.to/rorylhj/harmonyosnext-schedule-management-4lhk)
+- [The Importance of AI Automation: Powering the Future of Efficiency](https://dev.to/vanshajpoonia/the-importance-of-ai-automation-powering-the-future-of-efficiency-1m6o)
+- [Floating Pi: Video](https://dev.to/annavi11arrea1/floating-pi-video-10kh)
+- [How to setup the Next.js starter template on Appwrite Sites](https://dev.to/appwrite/how-to-setup-the-nextjs-starter-template-on-appwrite-sites-357k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
