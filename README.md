@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding `filter`, `map`, and `reduce` in JavaScript](https://dev.to/shifa_2/understanding-filter-map-and-reduce-in-javascript-pa1)
-- [Hello everyone in the developer community! 👋 I&#39;m a backend developer with 3 years of experience in building scalable and maintainable systems. This is my very first product – a small starter project built based on the clean architecture structure I use in](https://dev.to/tech_persona21/hello-everyone-in-the-developer-community-im-a-backend-developer-with-3-years-of-experience-in-55b0)
-- [This is one of those &quot;betting on the tech getting better&quot; bets](https://dev.to/fedhacks/this-is-one-of-those-betting-on-the-tech-getting-better-bets-4g7i)
-- [🐍 10 Python Scripts That Will Save You Hours Every Week!!](https://dev.to/nish2005karsh/10-python-scripts-that-will-save-you-hours-every-week-38bc)
-- [Engenharia de missões robóticas, com Genaína Rodrigues &lpar;UnB&rpar;](https://dev.to/fronteirases/engenharia-de-missoes-roboticas-com-genaina-rodrigues-unb-1ajj)
+- [Basic OOP - Part 01](https://dev.to/sajjadrahman56/basic-oop-part-01-1ihp)
+- [Docker Cheatset Releases and Support for `arm64` Architecture](https://dev.to/jonasbn/docker-cheatset-releases-and-support-for-arm64-architecture-2445)
+- [🐍 Part 2: 5 More Python Scripts That Will Save You Hours Every Week!!](https://dev.to/nish2005karsh/part-2-5-more-python-scripts-that-will-save-you-hours-every-week-kc1)
+- [Goose gets a Driver&#39;s License](https://dev.to/blockopensource/goose-gets-a-drivers-license-3l0j)
+- [Building multi-region infrastructure with AWS](https://dev.to/logrocket/building-multi-region-infrastructure-with-aws-1k7n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
