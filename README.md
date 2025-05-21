@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A COMPREHENSIVE LOOK INTO SQL : - What a Beginner can learn](https://dev.to/tiff_thua/a-comprehensive-look-into-sql-what-a-beginner-can-learn-3l6g)
-- [HarmonyOSNext -Schedule Management](https://dev.to/rorylhj/harmonyosnext-schedule-management-4lhk)
-- [The Importance of AI Automation: Powering the Future of Efficiency](https://dev.to/vanshajpoonia/the-importance-of-ai-automation-powering-the-future-of-efficiency-1m6o)
-- [Floating Pi: Video](https://dev.to/annavi11arrea1/floating-pi-video-10kh)
-- [How to setup the Next.js starter template on Appwrite Sites](https://dev.to/appwrite/how-to-setup-the-nextjs-starter-template-on-appwrite-sites-357k)
+- [I wrote this one some time ago as a form of therapy:](https://dev.to/canro91/i-wrote-this-one-some-time-ago-as-a-form-of-therapy-19om)
+- [Top Cryptocurrency Exchanges 2025: Review](https://dev.to/merehead2015/top-cryptocurrency-exchanges-2025-review-56h4)
+- [[Boost]](https://dev.to/anthonymax/-4jak)
+- [Recursive Renaissance](https://dev.to/rawveg/recursive-renaissance-3em7)
+- [High-Level System Design: WhatsApp Chat](https://dev.to/yashp24/high-level-system-design-whatsapp-chat-5egl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
