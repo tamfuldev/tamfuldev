@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [# 🔗 nodeBond – Local IPC Bridge for Node.js &lpar;no TCP, no dependencies&rpar;](https://dev.to/xzdes/-nodebond-local-ipc-bridge-for-nodejs-no-tcp-no-dependencies-8c9)
-- [Self-Paced Learning Strategies for Today’s Evolving Job Market](https://dev.to/marketdaily/self-paced-learning-strategies-for-todays-evolving-job-market-2nm4)
-- [Debugging Embedded Systems: Practical Tips for Developers](https://dev.to/kalvin_mccallum/debugging-embedded-systems-practical-tips-for-developers-12ho)
-- [Parameter decorators in NestJS](https://dev.to/wakeup_flower_8591a6cb6a9/parameter-decorators-in-nestjs-2l5f)
-- [Turbocharge Your Monorepo: Battle-Tested Tips for Nx, Turborepo, and Bazel Pros 🚀](https://dev.to/alex_aslam/turbocharge-your-monorepo-battle-tested-tips-for-nx-turborepo-and-bazel-pros-214h)
+- [Ubuntu turn server tutorial in 5 Mins](https://dev.to/alakkadshaw/ubuntu-turn-server-tutorial-in-5-mins-2j5g)
+- [JobWizard: You AI Job Seeker](https://dev.to/jimzer/jobwizard-you-ai-job-seeker-2pn9)
+- [Rocket SVG Cursor](https://dev.to/leimapapa/rocket-svg-cursor-5a0j)
+- [Building Enterprise-Grade SaaS: Infrastructure Requirements for Scaling Beyond SMB](https://dev.to/deepakgupta/building-enterprise-grade-saas-infrastructure-requirements-for-scaling-beyond-smb-3jn)
+- [HepatoAI](https://dev.to/hm4744/hepatoai-1be3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
