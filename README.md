@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [📊 Did you know this?](https://dev.to/tpeoficial/did-you-know-this-4e04)
-- [🧨 Solidity Security 101: Mistakes I’ll Never Make Again](https://dev.to/dhis_is_jj/solidity-security-101-mistakes-ill-never-make-again-3pi5)
-- [Boost Your JavaScript Skills with Closures, Promises, and Async/Await](https://dev.to/code_area_9036c9663233d92/boost-your-javascript-skills-with-closures-promises-and-asyncawait-5064)
-- [The Ultimate React Folder Structure I Use as a Frontend Developer](https://dev.to/sercangundogan/the-ultimate-react-folder-structure-i-use-as-a-frontend-developer-4pfm)
-- [🛠️ AWS CodePipeline Basics – CI/CD Explained for Beginners](https://dev.to/latchudevops/aws-codepipeline-basics-cicd-explained-for-beginners-44me)
+- [Coding Is Thinking: Why I Still Write Code by Hand](https://dev.to/diamantino_almeida/coding-is-thinking-why-i-still-write-code-by-hand-4nf2)
+- [Using NanoAPI on Game Mods](https://dev.to/nanoapi_io/using-nanoapi-on-game-mods-1392)
+- [The Gamma Distance Forecasts All-Cause Death in Chronic Dialysis Individuals.](https://dev.to/chordglue51/the-gamma-distance-forecasts-all-cause-death-in-chronic-dialysis-individuals-16ho)
+- [Speeding up Elixir: integration with native code &lpar;NIF, Ports, etc.&rpar;](https://dev.to/adamanq/speeding-up-elixir-integration-with-native-code-nif-ports-etc-5ajd)
+- [[00] 👋 Hello Dev Community — I’m Anik Paul!](https://dev.to/anikpaul/00-hello-dev-community-im-anik-paul-2nn3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
