@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Google I/O 2025 Summary](https://dev.to/justin3go/google-io-2025-summary-3c64)
-- [Python has map&lpar;&rpar; and filter&lpar;&rpar;? How come no one told me?](https://dev.to/dave_banwell_26fd6e4680c0/python-has-map-and-filter-how-come-no-one-told-me-3n9p)
-- [Stop Hesitating, Just Use React Or Any Modern Framework](https://dev.to/wildboar_dev/stop-hesitating-just-use-react-or-any-modern-framework-5h84)
-- [Java Resource Management and Leak Prevention: Insights from SeaTunnel Source Code](https://dev.to/seatunnel/java-resource-management-and-leak-prevention-insights-from-seatunnel-source-code-33m3)
-- [AI CreaI](https://dev.to/qqriri99/ai-creai-6jn)
+- [How to Host a Mongoose-Powered App on Fly.io](https://dev.to/arunangshu_das/how-to-host-a-mongoose-powered-app-on-flyio-4fpk)
+- [DSA](https://dev.to/ysathyasai/dsa-5192)
+- [the &quot;npm run dev&quot; link can&#39;t open the login page i want](https://dev.to/snow_virus_6da173c4383e63/the-npm-run-dev-link-cant-open-the-login-page-i-want-5ae1)
+- [How to Merge &amp; Combine Columns without Losing Data in Excel?](https://dev.to/excel24x7/how-to-merge-combine-columns-without-losing-data-in-excel-3cd)
+- [Como Instalar a JDK](https://dev.to/lucasramalho314/como-instalar-a-jdk-2pbi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
