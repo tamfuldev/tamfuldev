@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Specter-AAL](https://dev.to/g0d/specter-aal-mmg)
-- [From EC2 to GitHub: Connecting Your Cloud Code Like a Pro](https://dev.to/adesola_kehinde/from-ec2-to-github-connecting-your-cloud-code-like-a-pro-54e7)
-- [Vulcan - JS library for the pros and smart devs](https://dev.to/g0d/vulcan-js-library-for-the-pros-and-smart-devs-54h)
-- [PHAISTOS - Data Exchange Redefined!](https://dev.to/g0d/phaistos-data-exchange-redefined-5cjc)
-- [The Serverless Dream Is Dead](https://dev.to/shayy/the-serverless-dream-is-dead-2945)
+- [How to Turn Your Artwork into NFTs and Sell It Like a Pro &lpar;Even If You’re Not a Techie&rpar;](https://dev.to/favebs/how-to-turn-your-artwork-into-nfts-and-sell-it-like-a-pro-even-if-youre-not-a-techie-2pch)
+- [Clean Architecture in .NET: Build Scalable &amp; Maintainable Apps](https://dev.to/jenilsojitra/clean-architecture-in-net-build-scalable-maintainable-apps-5aei)
+- [Predictive Analytics: Your Guide to Anticipating Future Trends](https://dev.to/tasmiya_krish_f79e8f34500/predictive-analytics-your-guide-to-anticipating-future-trends-1ldb)
+- [🚀@zeroopensource/pack-packages v0.0.2 is live!](https://dev.to/zeroopensource/zeroopensourcepack-packages-v002-is-live-5ff3)
+- [🚀@zeroopensource/pack-packages v0.0.1 is live!](https://dev.to/zeroopensource/zeroopensourcepack-packages-v001-is-live-25o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
