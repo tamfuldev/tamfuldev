@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI is buying Jony Ive&#39;s AI hardware company | The deal is valued at nearly $6.5 billion.](https://dev.to/future_ai/openai-is-buying-jony-ives-ai-hardware-company-the-deal-is-valued-at-nearly-65-billion-1n27)
-- [Greptile: Smarter Code Reviews Through Codebase-Aware AI](https://dev.to/pullflow/greptile-smarter-code-reviews-through-codebase-aware-ai-258a)
-- [State of the Art BrightDataQL with the MCP Agent](https://dev.to/ranjancse/state-of-the-art-brightdataql-with-the-mcp-agent-58hg)
-- [Forged in Feedback and Sharpened by Every Review](https://dev.to/tonystpierre/forged-in-feedback-and-sharpened-by-every-review-4pj3)
-- [Automating Vinyl Fence Locks Using Python and Relays](https://dev.to/karen_londres/automating-vinyl-fence-locks-using-python-and-relays-pbe)
+- [Linked Lists — A Core Building Block in Data Structures](https://dev.to/onedev/linked-lists-a-core-building-block-in-data-structures-k2d)
+- [What will display on the screen? 🤔](https://dev.to/werliton/what-will-display-on-the-screen-46mi)
+- [Awesome](https://dev.to/mohaviy/awesome-56gh)
+- [API Gateway vs Service Mesh](https://dev.to/ankitmalikg/api-gateway-vs-service-mesh-2fl9)
+- [OpenAI’s Codex: What it is,How to Work and How to Use](https://dev.to/_37bbf0c253c0b3edec531e/openais-codex-what-it-ishow-to-work-and-how-to-use-2gem)
 <!-- BLOG-POST-LIST:END -->
 
 ---
