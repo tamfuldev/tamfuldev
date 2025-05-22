@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Day I Discovered BBK’s Android Empire](https://dev.to/bhuvaneshm_dev/the-day-i-discovered-bbks-android-empire-3jng)
-- [Birth of JavaScript: 10 Days, One Man, and a New Era](https://dev.to/umarsiddique010/birth-of-javascript-10-days-one-man-and-a-new-era-4d63)
-- [Ultimate guide to creating a pipeline&lpar;Apache Airflow&rpar;](https://dev.to/mendy_kevin_94ec1db73e1df/ultimate-guide-to-creating-a-pipelineapache-airflow-165b)
-- [Transforming the Future of UX Through AI Conversational Interfaces](https://dev.to/lollypopdesign/transforming-the-future-of-ux-through-ai-conversational-interfaces-4ehi)
-- [How AI-Powered Personalization Transformed a Telecom Customer Experience Platform](https://dev.to/sai_b_3c1c8c18be3f66605ab/how-ai-powered-personalization-transformed-a-telecom-customer-experience-platform-572e)
+- [RAG: Smarter AI Agents [Part 2]](https://dev.to/maksym_mosiura_7dd1c98618/rag-smarter-ai-agents-4ej9)
+- [How I Built an AWS Project Idea Generator Using AI](https://dev.to/aws-builders/how-i-built-an-aws-project-idea-generator-using-ai-oif)
+- [How I Set Up SafeLine WAF in 3 Minutes and Blocked Real Attacks](https://dev.to/sharon_42e16b8da44dabde6d/how-i-set-up-safeline-waf-in-3-minutes-and-blocked-real-attacks-1ldf)
+- [devlog0 — the one where I fine-tune Mistral and it just barely works](https://dev.to/maxfrecka/devlog0-3ia1)
+- [Building Your First Android App: A Beginner&#39;s Guide](https://dev.to/media_geneous_bb80d6b5563/building-your-first-android-app-a-beginners-guide-4d0e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
