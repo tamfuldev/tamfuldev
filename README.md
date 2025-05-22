@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What should we do when SQL &lpar;and stored procedure&rpar; runs too slowly?](https://dev.to/esproc_spl/what-should-we-do-when-sql-and-stored-procedure-runs-too-slowly-2lpb)
-- [How to translate a PowerPoint presentation into Spanish](https://dev.to/jennamitchell/how-to-translate-a-powerpoint-presentation-into-spanish-hji)
-- [ALTER TABLE ADD COLUMN in SQL: Syntax, Tips &amp; Tools](https://dev.to/dbvismarketing/alter-table-add-column-in-sql-syntax-tips-tools-3b0)
-- [【HarmonyOS 5】华为分享-碰一碰开发分享](https://dev.to/vi_lu_43267766b416e6fde2d/harmonyos-next-hua-wei-fen-xiang-peng-peng-kai-fa-fen-xiang-1mhg)
-- [AI-Powered Bond Cleaning Platform: Developer Snapshot](https://dev.to/adscampsdigital/ai-powered-bond-cleaning-platform-developer-snapshot-ae4)
+- [The Network Layer: The GPS of the Internet &lpar;With More Drama Than Your Road Trip&rpar;](https://dev.to/aniruddhaadak_/the-network-layer-the-gps-of-the-internet-with-more-drama-than-your-road-trip-3762)
+- [What I’ve Learned After 3 Years as a Frontend Developer](https://dev.to/sercangundogan/what-ive-learned-after-3-years-as-a-frontend-developer-329o)
+- [How to Build an End-to-End MLOps Pipeline for Visual Quality Inspection](https://dev.to/sudoconsultants/how-to-build-an-end-to-end-mlops-pipeline-for-visual-quality-inspection-1660)
+- [Scripting Limitation of Microsoft 365 F1](https://dev.to/ranjit_rimal_3bfb1aea03e6/scripting-limitation-of-microsoft-365-f1-3201)
+- [Design Database Schemas Offline &amp; Synchronize with DbSchema](https://dev.to/roxana_haidiner/design-database-schemas-offline-synchronize-with-dbschema-fpa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
