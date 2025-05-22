@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [RAG: Smarter AI Agents [Part 2]](https://dev.to/maksym_mosiura_7dd1c98618/rag-smarter-ai-agents-4ej9)
-- [How I Built an AWS Project Idea Generator Using AI](https://dev.to/aws-builders/how-i-built-an-aws-project-idea-generator-using-ai-oif)
-- [How I Set Up SafeLine WAF in 3 Minutes and Blocked Real Attacks](https://dev.to/sharon_42e16b8da44dabde6d/how-i-set-up-safeline-waf-in-3-minutes-and-blocked-real-attacks-1ldf)
-- [devlog0 — the one where I fine-tune Mistral and it just barely works](https://dev.to/maxfrecka/devlog0-3ia1)
-- [Building Your First Android App: A Beginner&#39;s Guide](https://dev.to/media_geneous_bb80d6b5563/building-your-first-android-app-a-beginners-guide-4d0e)
+- [Top 5 Free Figma Plugins &amp; Libraries for Illustrations in 2025](https://dev.to/smartterss/top-5-free-figma-plugins-libraries-for-illustrations-in-2025-1821)
+- [Destructor in python](https://dev.to/muskanfatim/destructor-in-python-380e)
+- [📘AI Fundamentals: What Everyone Should Know in the Age of Artificial Intelligence](https://dev.to/furqanahmadrao/ai-fundamentals-what-everyone-should-know-in-the-age-of-artificial-intelligence-3gmm)
+- [Rate Limiting Hono Apps: An Introduction](https://dev.to/ambergristle/an-introduction-to-rate-limiting-3j0)
+- [Understanding Stale Closures in React: Common Pitfalls and How to Avoid Them](https://dev.to/wildboar_developer/understanding-stale-closures-in-react-common-pitfalls-and-how-to-avoid-them-1j3p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
