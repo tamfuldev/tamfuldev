@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding ViewContainerRef in Angular](https://dev.to/benarambide/understanding-viewcontainerref-in-angular-3457)
-- [Are Your Linux Files as Secure as They Should Be?](https://dev.to/sebos/are-your-linux-files-as-secure-as-they-should-be-ahd)
-- [I made another AI built Idle clicker game? Yup.](https://dev.to/icedteas/i-made-another-ai-built-idle-clicker-game-yup-2h0o)
-- [Gatekeeper Tracks SSH Logins and Fires Reflexes — Live.](https://dev.to/matrixswarm/gatekeeper-tracks-ssh-logins-and-fires-reflexes-live-2nk7)
-- [Go &lpar;12&rpar; - Mutexes &amp; Generics](https://dev.to/chathurashmini/go-12-mutexes-generics-11lc)
+- [The Day I Discovered BBK’s Android Empire](https://dev.to/bhuvaneshm_dev/the-day-i-discovered-bbks-android-empire-3jng)
+- [Birth of JavaScript: 10 Days, One Man, and a New Era](https://dev.to/umarsiddique010/birth-of-javascript-10-days-one-man-and-a-new-era-4d63)
+- [Ultimate guide to creating a pipeline&lpar;Apache Airflow&rpar;](https://dev.to/mendy_kevin_94ec1db73e1df/ultimate-guide-to-creating-a-pipelineapache-airflow-165b)
+- [Transforming the Future of UX Through AI Conversational Interfaces](https://dev.to/lollypopdesign/transforming-the-future-of-ux-through-ai-conversational-interfaces-4ehi)
+- [How AI-Powered Personalization Transformed a Telecom Customer Experience Platform](https://dev.to/sai_b_3c1c8c18be3f66605ab/how-ai-powered-personalization-transformed-a-telecom-customer-experience-platform-572e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
