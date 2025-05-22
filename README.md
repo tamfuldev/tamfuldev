@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How To Create Generative AI Agents That Interact with Your Companies’ Systems in a Few Clicks](https://dev.to/sudoconsultants/how-to-create-generative-ai-agents-that-interact-with-your-companies-systems-in-a-few-clicks-4dof)
-- [Monorepo vs Polyrepo: Which One Should You Choose in 2025?](https://dev.to/md-afsar-mahmud/monorepo-vs-polyrepo-which-one-should-you-choose-in-2025-g77)
-- [Essential Guide to HarmonyOS 5 Development: In-Depth Understanding of the Cangjie Language Package Manager cjpm](https://dev.to/dcdvdv_a_5059c020ba962689/essential-guide-to-harmonyos-5-development-in-depth-understanding-of-the-cangjie-language-package-3idj)
-- [Educação, Developer Relations e Inteligência Artificial](https://dev.to/morgannadev/educacao-developer-relations-e-inteligencia-artificial-1hi)
-- [iPhone 的語音辨識功能：語音備忘錄，自動標點分段](https://dev.to/letswrite/iphone-de-yu-yin-bian-shi-gong-neng-yu-yin-bei-wang-lu-zi-dong-biao-dian-fen-duan-23c7)
+- [⚙️ Go Tools: Code Generation from OpenAPI Specs in Go with oapi-codegen](https://dev.to/nikita_rykhlov/go-tools-code-generation-from-openapi-specs-in-go-with-oapi-codegen-3jc1)
+- [How To Integrate Amazon Bedrock’s Claude 3 Sonnet for SQL generation](https://dev.to/sudoconsultants/how-to-integrate-amazon-bedrocks-claude-3-sonnet-for-sql-generation-55hb)
+- [The Hidden Costs of Poorly Optimized Dockerfiles: DevOps&#39; Silent Productivity Killer](https://dev.to/akhil_varute/the-hidden-costs-of-poorly-optimized-dockerfiles-devops-silent-productivity-killer-3mgp)
+- [𝗛𝗼𝘄 𝘁𝗼 𝗦𝘁𝗶𝗰𝗸 𝘄𝗶𝘁𝗵 𝗚𝗼𝗼𝗱 𝗛𝗮𝗯𝗶𝘁𝘀 𝗘𝘃𝗲𝗿𝘆 𝗗𝗮𝘆: 𝗞𝗲𝘆 𝗟𝗲𝘀𝘀𝗼𝗻𝘀 𝗳𝗿𝗼𝗺 𝗔𝘁𝗼𝗺𝗶𝗰 𝗛𝗮𝗯𝗶𝘁𝘀](https://dev.to/supraja_tangella_b7f0738e/-29ie)
+- [Unleashing the Power of Agentic AI: How Autonomous Agents are Revolutionizing Cybersecurity and Application Security](https://dev.to/rollbrace0/unleashing-the-power-of-agentic-ai-how-autonomous-agents-are-revolutionizing-cybersecurity-and-5ck2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
