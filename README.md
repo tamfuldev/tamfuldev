@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Transcription to Make YouTube Videos Searchable &lpar;And SEO-Friendly&rpar;](https://dev.to/shruti_saraswat_c258d5934/how-to-use-transcription-to-make-youtube-videos-searchable-and-seo-friendly-1o0j)
-- [Exploring Blockchain Variants: Public, Private, Consortium, and Hybrid](https://dev.to/ahmmrizv9/exploring-blockchain-variants-public-private-consortium-and-hybrid-17nn)
-- [SQL COALESCE Explained: Simplify NULL Handling in Queries](https://dev.to/pythontutorial/sql-coalesce-explained-simplify-null-handling-in-queries-48d2)
-- [Unlocking Productivity and Security with Office 365 E3: A Smart Choice for Modern Enterprises](https://dev.to/roshan_karki_f2b61b26c3a8/unlocking-productivity-and-security-with-office-365-e3-a-smart-choice-for-modern-enterprises-2bhn)
-- [TypeScript Simplified: A Practical Guide for New Developers](https://dev.to/rishabhtpt/typescript-simplified-a-practical-guide-for-new-developers-g8i)
+- [What should we do when SQL &lpar;and stored procedure&rpar; runs too slowly?](https://dev.to/esproc_spl/what-should-we-do-when-sql-and-stored-procedure-runs-too-slowly-2lpb)
+- [How to translate a PowerPoint presentation into Spanish](https://dev.to/jennamitchell/how-to-translate-a-powerpoint-presentation-into-spanish-hji)
+- [ALTER TABLE ADD COLUMN in SQL: Syntax, Tips &amp; Tools](https://dev.to/dbvismarketing/alter-table-add-column-in-sql-syntax-tips-tools-3b0)
+- [【HarmonyOS 5】华为分享-碰一碰开发分享](https://dev.to/vi_lu_43267766b416e6fde2d/harmonyos-next-hua-wei-fen-xiang-peng-peng-kai-fa-fen-xiang-1mhg)
+- [AI-Powered Bond Cleaning Platform: Developer Snapshot](https://dev.to/adscampsdigital/ai-powered-bond-cleaning-platform-developer-snapshot-ae4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
