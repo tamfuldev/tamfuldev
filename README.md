@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Rising Beyond Routine](https://dev.to/rawveg/rising-beyond-routine-1blh)
-- [readonly vs disabled in Rails Forms](https://dev.to/jessalejo/readonly-vs-disabled-in-rails-forms-47cj)
-- [mkdir &quot;No-google-AI-overviews&quot; &amp;&amp; man &quot;google AI overviews&quot; &amp;&amp; rm &quot;google AI overviews&quot;](https://dev.to/junaid_dev/mkdir-no-google-ai-overviews-man-google-ai-overviews-rm-google-ai-overviews-2mn3)
-- [🐍 Building a Classic Snake Game with Amazon Q CLI &amp; Pygame](https://dev.to/swayam_nax_c16b4a31a4026f/building-a-classic-snake-game-with-amazon-q-cli-pygame-md5)
-- [Simple Firewall with ufw or firewalld](https://dev.to/salamilinux/simple-firewall-with-ufw-or-firewalld-i9d)
+- [How To Introduce a New API Quickly Using Quarkus and ChatGPT](https://dev.to/johnjvester/how-to-introduce-a-new-api-quickly-using-quarkus-and-chatgpt-4e6e)
+- [LockedIn AI: A Hidden Desktop App Powered by Bright Data to Crack Interviews Anywhere](https://dev.to/jeenifer_beezer/lockedin-ai-a-hidden-desktop-app-powered-by-bright-data-to-crack-interviews-anywhere-31ij)
+- [React Mastery: Understanding `onChange={handleChange}` vs `onChange={&lpar;e&rpar; =&gt; handleChange&lpar;e&rpar;}`](https://dev.to/cristiansifuentes/react-mastery-understanding-onchangehandlechange-vs-onchangee-handlechangee-51ac)
+- [[Boost]](https://dev.to/ippatev/-4jnb)
+- [How an AI Experiment Became My Most Complete Project &lpar;Even Without Learning Much About Sentiment Analysis&rpar;](https://dev.to/alan_oliveiragoncalves/how-an-ai-experiment-became-my-most-complete-project-even-without-learning-much-about-sentiment-5h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
