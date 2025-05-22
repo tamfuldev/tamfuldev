@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Linked Lists — A Core Building Block in Data Structures](https://dev.to/onedev/linked-lists-a-core-building-block-in-data-structures-k2d)
-- [What will display on the screen? 🤔](https://dev.to/werliton/what-will-display-on-the-screen-46mi)
-- [Awesome](https://dev.to/mohaviy/awesome-56gh)
-- [API Gateway vs Service Mesh](https://dev.to/ankitmalikg/api-gateway-vs-service-mesh-2fl9)
-- [OpenAI’s Codex: What it is,How to Work and How to Use](https://dev.to/_37bbf0c253c0b3edec531e/openais-codex-what-it-ishow-to-work-and-how-to-use-2gem)
+- [Enabling CORS in Flask](https://dev.to/reynaldi/enabling-cors-in-flask-120n)
+- [How to pass a TypeScript function as a parameter](https://dev.to/logrocket/how-to-pass-a-typescript-function-as-a-parameter-2572)
+- [Qubit-Efficient Encoding Techniques for Solving QUBO Problems](https://dev.to/supreethmv/qubit-efficient-encoding-techniques-for-solving-qubo-problems-4iad)
+- [JavaScript distinguish picture or alive person in webcam](https://dev.to/skac/javascript-distinguish-picture-or-alive-person-in-webcam-1j1a)
+- [Unmasking Linux: What Building From Scratch Truly Reveals 🐧](https://dev.to/bibek_khanal_863076fe9ec4/unmasking-linux-what-building-from-scratch-truly-reveals-4l9c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
