@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Meet MCP: The Simple Rulebook Behind Smarter AI Prompts](https://dev.to/rijultp/meet-mcp-the-simple-rulebook-behind-smarter-ai-prompts-4g26)
-- [Install Signoz in Ubuntu](https://dev.to/themodernpk/install-signoz-in-ubuntu-1i4o)
-- [Understanding Idempotency in APIs and Distributed Systems](https://dev.to/msnmongare/understanding-idempotency-in-apis-and-distributed-systems-3afb)
-- [Tinkering Today: PyAudio](https://dev.to/superultramax/tinkering-today-pyaudio-3ka0)
-- [coding agent](https://dev.to/donnellycarroll/coding-agent-3j6j)
+- [Summer 2025 Internships at Fermyon](https://dev.to/fermyon/summer-2025-internships-at-fermyon-2ie7)
+- [Every time a new model comes out it unlocks something new. Cannot wait to share what I am shipping next 🤗](https://dev.to/lilouartz/every-time-a-new-model-comes-out-it-unlocks-something-new-cannot-wait-to-share-what-i-am-shipping-5a2i)
+- [Super impressed by how actionable this was. I’ve bookmarked it and shared it with three people already.](https://dev.to/themooreperspective/super-impressed-by-how-actionable-this-was-ive-bookmarked-it-and-shared-it-with-three-people-838)
+- [I didn’t expect an article on email to be this insightful. I’m already rethinking how I write every message.](https://dev.to/thearmi/i-didnt-expect-an-article-on-email-to-be-this-insightful-im-already-rethinking-how-i-write-every-4531)
+- [Paracetamol.ts💊| #36: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-36-explica-este-codigo-typescript-40bp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
