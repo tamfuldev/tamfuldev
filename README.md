@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How To Introduce a New API Quickly Using Quarkus and ChatGPT](https://dev.to/johnjvester/how-to-introduce-a-new-api-quickly-using-quarkus-and-chatgpt-4e6e)
-- [LockedIn AI: A Hidden Desktop App Powered by Bright Data to Crack Interviews Anywhere](https://dev.to/jeenifer_beezer/lockedin-ai-a-hidden-desktop-app-powered-by-bright-data-to-crack-interviews-anywhere-31ij)
-- [React Mastery: Understanding `onChange={handleChange}` vs `onChange={&lpar;e&rpar; =&gt; handleChange&lpar;e&rpar;}`](https://dev.to/cristiansifuentes/react-mastery-understanding-onchangehandlechange-vs-onchangee-handlechangee-51ac)
-- [[Boost]](https://dev.to/ippatev/-4jnb)
-- [How an AI Experiment Became My Most Complete Project &lpar;Even Without Learning Much About Sentiment Analysis&rpar;](https://dev.to/alan_oliveiragoncalves/how-an-ai-experiment-became-my-most-complete-project-even-without-learning-much-about-sentiment-5h)
+- [Understanding ViewContainerRef in Angular](https://dev.to/benarambide/understanding-viewcontainerref-in-angular-3457)
+- [Are Your Linux Files as Secure as They Should Be?](https://dev.to/sebos/are-your-linux-files-as-secure-as-they-should-be-ahd)
+- [I made another AI built Idle clicker game? Yup.](https://dev.to/icedteas/i-made-another-ai-built-idle-clicker-game-yup-2h0o)
+- [Gatekeeper Tracks SSH Logins and Fires Reflexes — Live.](https://dev.to/matrixswarm/gatekeeper-tracks-ssh-logins-and-fires-reflexes-live-2nk7)
+- [Go &lpar;12&rpar; - Mutexes &amp; Generics](https://dev.to/chathurashmini/go-12-mutexes-generics-11lc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
