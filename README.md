@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [⚙️ Go Tools: Code Generation from OpenAPI Specs in Go with oapi-codegen](https://dev.to/nikita_rykhlov/go-tools-code-generation-from-openapi-specs-in-go-with-oapi-codegen-3jc1)
-- [How To Integrate Amazon Bedrock’s Claude 3 Sonnet for SQL generation](https://dev.to/sudoconsultants/how-to-integrate-amazon-bedrocks-claude-3-sonnet-for-sql-generation-55hb)
-- [The Hidden Costs of Poorly Optimized Dockerfiles: DevOps&#39; Silent Productivity Killer](https://dev.to/akhil_varute/the-hidden-costs-of-poorly-optimized-dockerfiles-devops-silent-productivity-killer-3mgp)
-- [𝗛𝗼𝘄 𝘁𝗼 𝗦𝘁𝗶𝗰𝗸 𝘄𝗶𝘁𝗵 𝗚𝗼𝗼𝗱 𝗛𝗮𝗯𝗶𝘁𝘀 𝗘𝘃𝗲𝗿𝘆 𝗗𝗮𝘆: 𝗞𝗲𝘆 𝗟𝗲𝘀𝘀𝗼𝗻𝘀 𝗳𝗿𝗼𝗺 𝗔𝘁𝗼𝗺𝗶𝗰 𝗛𝗮𝗯𝗶𝘁𝘀](https://dev.to/supraja_tangella_b7f0738e/-29ie)
-- [Unleashing the Power of Agentic AI: How Autonomous Agents are Revolutionizing Cybersecurity and Application Security](https://dev.to/rollbrace0/unleashing-the-power-of-agentic-ai-how-autonomous-agents-are-revolutionizing-cybersecurity-and-5ck2)
+- [Simplifying Multi-Region EC2 Management with AWS EC2 Instance Manager](https://dev.to/yeshwanthlm/simplifying-multi-region-ec2-management-with-aws-ec2-instance-manager-3h22)
+- [关于java的反射](https://dev.to/aquareo/guan-yu-javade-fan-she-fig)
+- [🚀 From Code to Cash: Panduan Lengkap Memilih Badan Usaha untuk Developer Indonesia](https://dev.to/frynnn/from-code-to-cash-panduan-lengkap-memilih-badan-usaha-untuk-developer-indonesia-4j5i)
+- [Ethereum Approaches $3,600: A Developer’s Perspective on Price Dynamics, Market Making, and Technical Resistance](https://dev.to/alexnav/ethereum-approaches-3600-a-developers-perspective-on-price-dynamics-market-making-and-308n)
+- [The One Chart That Will Change How Your Dev Team Builds Software](https://dev.to/teamcamp/the-one-chart-that-will-change-how-your-dev-team-builds-software-2e7i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
