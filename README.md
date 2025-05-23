@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Responsive Carousel Component in React: The Complete Guide](https://dev.to/sukhjinderarora/building-a-responsive-carousel-component-in-react-the-complete-guide-2ojh)
-- [From Code to Purpose: Kickoff at InfraForge-dev](https://dev.to/infraforge-dev/from-code-to-purpose-kickoff-at-infraforge-dev-40h2)
-- [I Built a Free Invoice Creator](https://dev.to/devwithmike/i-built-a-free-invoice-creator-2o8m)
-- [God-Tier Developer Roadmap](https://dev.to/alishirani/god-tier-developer-roadmap-hg1)
-- [Project of the Week: Grafana](https://dev.to/pullflow/project-of-the-week-grafana-2cd5)
+- [Just Launched: Snow Days Calculator – Predict School Closures with Weather Data](https://dev.to/iamvibecoder/just-launched-snow-days-calculator-predict-school-closures-with-weather-data-5bn9)
+- [How Great Developers Handle Critique Without Flinching](https://dev.to/tonystpierre/how-great-developers-handle-critique-without-flinching-40le)
+- [3D form](https://dev.to/preetha_vaishnavi_2b82358/3d-form-374h)
+- [🚀 The Future of the Internet, AI, and Creators: End, Evolution, or Empowerment?](https://dev.to/mahmud-r-farhan/the-future-of-the-internet-ai-and-creators-end-evolution-or-empowerment-2aba)
+- [Set Limits for Your Boss](https://dev.to/david_sullivan_5111dcd0ba/set-limits-for-your-boss-n1g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
