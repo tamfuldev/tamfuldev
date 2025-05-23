@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [SafeLine&#39;s Waiting Room: A Smarter Way to Handle HTTP Floods](https://dev.to/sharon_42e16b8da44dabde6d/safelines-waiting-room-a-smarter-way-to-handle-http-floods-1do7)
+- [login &amp; signup form with html css &amp; javascript](https://dev.to/baybin_baby_30c68118f4908/login-signup-form-with-html-css-javascript-o2i)
+- [Beginner’s Guide to Exception Handling in Spring Boot](https://dev.to/mohammedquasimda/beginners-guide-to-exception-handling-in-spring-boot-mo7)
+- [DevLog 20250522: Serverles &amp; Serverside vs Client Side Rendering](https://dev.to/methodox/devlog-20250522-serverles-serverside-vs-client-side-rendering-2n0h)
 - [🧑‍💻 Want to Become a Full Stack Developer? Here&#39;s Your Step-by-Step Roadmap 🚀 2025](https://dev.to/saif_uddin/want-to-become-a-full-stack-developer-heres-your-step-by-step-roadmap-2025-405k)
-- [Overdraw, Memory Leaks, ANR and Slow Rendering in Android Apps](https://dev.to/tohemt/overdraw-memory-leaks-anr-and-slow-rendering-in-android-apps-3njb)
-- [Overdraw, Memory Leaks, ANR and Slow Rendering in Android Apps](https://dev.to/tohemt/overdraw-memory-leaks-anr-and-slow-rendering-in-android-apps-3k32)
-- [TE AMO](https://dev.to/farid_huaman_30b0bced210/te-amo-1lpg)
-- [TE AMO](https://dev.to/farid_huaman_30b0bced210/te-amo-33h4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
