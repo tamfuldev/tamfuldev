@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Just Launched: Snow Days Calculator – Predict School Closures with Weather Data](https://dev.to/iamvibecoder/just-launched-snow-days-calculator-predict-school-closures-with-weather-data-5bn9)
-- [How Great Developers Handle Critique Without Flinching](https://dev.to/tonystpierre/how-great-developers-handle-critique-without-flinching-40le)
-- [3D form](https://dev.to/preetha_vaishnavi_2b82358/3d-form-374h)
-- [🚀 The Future of the Internet, AI, and Creators: End, Evolution, or Empowerment?](https://dev.to/mahmud-r-farhan/the-future-of-the-internet-ai-and-creators-end-evolution-or-empowerment-2aba)
-- [Set Limits for Your Boss](https://dev.to/david_sullivan_5111dcd0ba/set-limits-for-your-boss-n1g)
+- [How AI is Giving Programmers Their Weekends Back:](https://dev.to/mwacharo6/how-ai-is-giving-programmers-their-weekends-back-5fah)
+- [Query Strings vs. Hash Fragments: What’s the Real Difference?](https://dev.to/zahra_mirkazemi/query-strings-vs-hash-fragments-whats-the-real-difference-597n)
+- [Unraveling the Chain: A Deep Dive into Linked Lists 🔗](https://dev.to/bibek_khanal_863076fe9ec4/unraveling-the-chain-a-deep-dive-into-linked-lists-22n6)
+- [Understanding NodeList in JavaScript](https://dev.to/shifa_2/understanding-nodelist-in-javascript-532n)
+- [Claude Sonnet 3.7 better than Sonnet 4 ?](https://dev.to/rodrigo_nascimento_3404c3/claude-sonnet-37-better-than-sonnet-4--9j4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
