@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Automation and Humanity](https://dev.to/rawveg/automation-and-humanity-3jf8)
-- [[Boost] Basics of React server-side rendering with Express.js](https://dev.to/gnrlbzik/-27i6)
-- [How to Build Custom Filters with awk and sed Pipelines on Ubuntu 20.04](https://dev.to/boonecabaldev/how-to-build-custom-filters-with-awk-and-sed-pipelines-on-ubuntu-2004-49ng)
-- [Unlock Seamless Software Testing with LambdaTest:Stop Browser Bugs Before They Ship – Cross-Browser Testing with LambdaTest](https://dev.to/5uig3n3ris/unlock-seamless-software-testing-with-lambdateststop-browser-bugs-before-they-ship-cross-browser-4nba)
-- [How to Create a Lightweight Dotfiles Repository](https://dev.to/boonecabaldev/how-to-create-a-lightweight-dotfiles-repository-28dh)
+- [Node.js&#39; config Library Shouldn&#39;t Be Used in TypeScript](https://dev.to/jesterxl/nodejs-config-library-shouldnt-be-used-in-typescript-48op)
+- [Why We Almost Gave Up on Our App—Until We Fixed the UX](https://dev.to/ryan_adam_ad956fc4a05e487/why-we-almost-gave-up-on-our-app-until-we-fixed-the-ux-5g8n)
+- [CS5OP Final Project](https://dev.to/jblenumerateur/cs5op-final-project-56b5)
+- [HTML &amp; CSS basics](https://dev.to/lsgunn11/html-css-basics-2l9e)
+- [From Pyramids to Programs: What Ancient Egypt Teaches Us About Building Great AI Systems](https://dev.to/alireza_minagar_99f01ecb6/from-pyramids-to-programs-what-ancient-egypt-teaches-us-about-building-great-ai-systems-2bac)
 <!-- BLOG-POST-LIST:END -->
 
 ---
