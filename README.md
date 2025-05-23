@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How AI is Giving Programmers Their Weekends Back:](https://dev.to/mwacharo6/how-ai-is-giving-programmers-their-weekends-back-5fah)
-- [Query Strings vs. Hash Fragments: What’s the Real Difference?](https://dev.to/zahra_mirkazemi/query-strings-vs-hash-fragments-whats-the-real-difference-597n)
-- [Unraveling the Chain: A Deep Dive into Linked Lists 🔗](https://dev.to/bibek_khanal_863076fe9ec4/unraveling-the-chain-a-deep-dive-into-linked-lists-22n6)
-- [Understanding NodeList in JavaScript](https://dev.to/shifa_2/understanding-nodelist-in-javascript-532n)
-- [Claude Sonnet 3.7 better than Sonnet 4 ?](https://dev.to/rodrigo_nascimento_3404c3/claude-sonnet-37-better-than-sonnet-4--9j4)
+- [💻 Hacking the Grid: How I Built CypherCore with Amazon Q CLI](https://dev.to/ahnafashiqueadi/hacking-the-grid-how-i-built-cyphercore-with-amazon-q-cli-575a)
+- [Build Your Own AI Code Generator From Scratch — A PocketFlow Tutorial!](https://dev.to/zachary62/build-your-own-ai-code-generator-from-scratch-a-pocketflow-tutorial-2b65)
+- [Definitely bookmarking this. I’ve shared it with my team because these tips will help us improve how we work with external partners.](https://dev.to/theangeloreyes/definitely-bookmarking-this-ive-shared-it-with-my-team-because-these-tips-will-help-us-improve-g5e)
+- [Using ChatGPT](https://dev.to/nicm42/using-chatgpt-ppp)
+- [The Power of Boring Tech: Why Simple Tools Often Win](https://dev.to/sailman/the-power-of-boring-tech-why-simple-tools-often-win-28p0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
