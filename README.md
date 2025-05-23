@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Node.js&#39; config Library Shouldn&#39;t Be Used in TypeScript](https://dev.to/jesterxl/nodejs-config-library-shouldnt-be-used-in-typescript-48op)
-- [Why We Almost Gave Up on Our App—Until We Fixed the UX](https://dev.to/ryan_adam_ad956fc4a05e487/why-we-almost-gave-up-on-our-app-until-we-fixed-the-ux-5g8n)
-- [CS5OP Final Project](https://dev.to/jblenumerateur/cs5op-final-project-56b5)
-- [HTML &amp; CSS basics](https://dev.to/lsgunn11/html-css-basics-2l9e)
-- [From Pyramids to Programs: What Ancient Egypt Teaches Us About Building Great AI Systems](https://dev.to/alireza_minagar_99f01ecb6/from-pyramids-to-programs-what-ancient-egypt-teaches-us-about-building-great-ai-systems-2bac)
+- [🧑‍💻 Want to Become a Full Stack Developer? Here&#39;s Your Step-by-Step Roadmap 🚀 2025](https://dev.to/saif_uddin/want-to-become-a-full-stack-developer-heres-your-step-by-step-roadmap-2025-405k)
+- [Overdraw, Memory Leaks, ANR and Slow Rendering in Android Apps](https://dev.to/tohemt/overdraw-memory-leaks-anr-and-slow-rendering-in-android-apps-3njb)
+- [Overdraw, Memory Leaks, ANR and Slow Rendering in Android Apps](https://dev.to/tohemt/overdraw-memory-leaks-anr-and-slow-rendering-in-android-apps-3k32)
+- [TE AMO](https://dev.to/farid_huaman_30b0bced210/te-amo-1lpg)
+- [TE AMO](https://dev.to/farid_huaman_30b0bced210/te-amo-33h4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
