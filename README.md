@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build Medical AI with Google’s MedGemma 4B &amp; 27B: A Complete Installation Guide](https://dev.to/nodeshiftcloud/build-medical-ai-with-googles-medgemma-4b-27b-a-complete-installation-guide-1pb3)
-- [Step Five into RxJS: Error Handling](https://dev.to/artstesh/step-five-into-rxjs-error-handling-51g1)
-- [Resource API Changes in Angular 20 - Query Resource in rxResource](https://dev.to/railsstudent/-resource-api-changes-in-angular-20-query-resource-in-rxresource-2o8m)
-- [Peer Programming with LLMs, For Senior+ Engineers](https://dev.to/pmbanugo/peer-programming-with-llms-for-senior-engineers-3gmj)
-- [Innovating Music Social Experiences with Real-Time Beauty Effects](https://dev.to/susiewang/innovating-music-social-experiences-with-real-time-beauty-effects-4n37)
+- [How to Crack Your First DevOps Interview: Tips and Sample Questions](https://dev.to/haswanth/how-to-crack-your-first-devops-interview-tips-and-sample-questions-2jce)
+- [Application Monitoring: Black-Box vs White-Box](https://dev.to/rafaeljcamara/application-monitoring-black-box-vs-white-box-32ij)
+- [Automating Infrastructure with AWS CloudFormation: A Beginner&#39;s Guide](https://dev.to/haswanth/automating-infrastructure-with-aws-cloudformation-a-beginners-guide-5h10)
+- [Compare generated tests with Playwright MCP Server and LLMs](https://dev.to/idavidov13/compare-generated-tests-with-playwright-mcp-server-and-llms-59ak)
+- [How Does sync.WaitGroup Work? A Look into Goroutine Synchronization via Source Code](https://dev.to/leapcell/how-does-syncwaitgroup-work-a-look-into-goroutine-synchronization-via-source-code-4g0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
