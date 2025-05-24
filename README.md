@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Crack Your First DevOps Interview: Tips and Sample Questions](https://dev.to/haswanth/how-to-crack-your-first-devops-interview-tips-and-sample-questions-2jce)
-- [Application Monitoring: Black-Box vs White-Box](https://dev.to/rafaeljcamara/application-monitoring-black-box-vs-white-box-32ij)
-- [Automating Infrastructure with AWS CloudFormation: A Beginner&#39;s Guide](https://dev.to/haswanth/automating-infrastructure-with-aws-cloudformation-a-beginners-guide-5h10)
-- [Compare generated tests with Playwright MCP Server and LLMs](https://dev.to/idavidov13/compare-generated-tests-with-playwright-mcp-server-and-llms-59ak)
-- [How Does sync.WaitGroup Work? A Look into Goroutine Synchronization via Source Code](https://dev.to/leapcell/how-does-syncwaitgroup-work-a-look-into-goroutine-synchronization-via-source-code-4g0)
+- [Understanding the Basics of REST APIs](https://dev.to/mohamed-riham/understanding-the-basics-of-rest-apis-2ngp)
+- [🚨 My Website Got Flagged by Google Safe Browsing – Here&#39;s How I Fixed It](https://dev.to/creator_x/my-website-got-flagged-by-google-safe-browsing-heres-how-i-fixed-it-24k9)
+- [📘 Day 1: What is LangChain? A Beginner’s Guide to the AI App Framework](https://dev.to/aws-builders/day-1-what-is-langchain-a-beginners-guide-to-the-ai-app-framework-4fn0)
+- [The best data grid library?](https://dev.to/gnrlbzik/the-best-data-grid-library-355g)
+- [React Performance Optimization: From Slow to Lightning Fast &lpar;Complete Guide 2025&rpar;](https://dev.to/amaresh_adak/react-performance-optimization-from-slow-to-lightning-fast-complete-guide-2025-19hl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
