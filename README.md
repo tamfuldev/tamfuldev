@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Job Pipeline](https://dev.to/thejaredwilcurt/the-job-pipeline-2jgc)
-- [Day-35 of Coding!](https://dev.to/harshvdev/day-35-of-coding-1eha)
-- [Windows 11’s New Advanced Settings: A Power User’s Dream &lpar;No More Registry Hacks!&rpar;](https://dev.to/squaredtech/windows-11s-new-advanced-settings-a-power-users-dream-no-more-registry-hacks-h3k)
-- [How to Configure Touchpad Gestures on Windows 11?](https://dev.to/winsides/how-to-configure-touchpad-gestures-on-windows-11-nnc)
-- [How a Math Breakthrough Can Help Us Build Better Software: A COMMON Developer&#39;s Guide to Williams&#39; Time-Space Insight](https://dev.to/jotafeldmann/how-a-math-breakthrough-can-help-us-build-better-software-a-common-developers-guide-to-williams-3ldc)
+- [React’s Four Horsemen of the Frontendpocalypse](https://dev.to/lovestaco/reacts-four-horsemen-of-the-frontendpocalypse-52hh)
+- [Deep Dive into JavaScript&#39;s Call Stack and Heap](https://dev.to/omriluz1/deep-dive-into-javascripts-call-stack-and-heap-m9l)
+- [Data Definitions, Not Flowcharts](https://dev.to/vst/data-definitions-not-flowcharts-48bf)
+- [How to Stay Relevant as a Developer in the AI Era](https://dev.to/arkhan/how-to-stay-relevant-as-a-developer-in-the-ai-era-3fi3)
+- [3 HUGE Things I Wish I Knew When I First Started](https://dev.to/javanteb23/3-huge-things-i-wish-i-knew-when-i-first-started-1nf6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
