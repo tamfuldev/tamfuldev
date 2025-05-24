@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to setup and configure NGINX on Ubuntu](https://dev.to/vishnusatheesh/how-to-setup-and-configure-nginx-on-ubuntu-3ol8)
-- [Key Factors Affecting Cloud Migration ROI](https://dev.to/emma_wags_8dd9b74533690da/key-factors-affecting-cloud-migration-roi-2gpd)
-- [Shared Hosting Isn’t Set-and-Forget: Best Practices for Developers](https://dev.to/merin_reji_c98c113a0d2a47/shared-hosting-isnt-set-and-forget-best-practices-for-developers-54i7)
-- [Navigating Git Conflicts: Best Practices to Prevent Code Loss in Development Teams](https://dev.to/code_heisenberg/navigating-git-conflicts-best-practices-to-prevent-code-loss-in-development-teams-3h6g)
-- [Asp.Net Core app with Dynamic Modular Monolith Architecture](https://dev.to/musmanrafiq/aspnet-core-app-with-dynamic-modular-monolith-architecture-2apb)
+- [The Job Pipeline](https://dev.to/thejaredwilcurt/the-job-pipeline-2jgc)
+- [Day-35 of Coding!](https://dev.to/harshvdev/day-35-of-coding-1eha)
+- [Windows 11’s New Advanced Settings: A Power User’s Dream &lpar;No More Registry Hacks!&rpar;](https://dev.to/squaredtech/windows-11s-new-advanced-settings-a-power-users-dream-no-more-registry-hacks-h3k)
+- [How to Configure Touchpad Gestures on Windows 11?](https://dev.to/winsides/how-to-configure-touchpad-gestures-on-windows-11-nnc)
+- [How a Math Breakthrough Can Help Us Build Better Software: A COMMON Developer&#39;s Guide to Williams&#39; Time-Space Insight](https://dev.to/jotafeldmann/how-a-math-breakthrough-can-help-us-build-better-software-a-common-developers-guide-to-williams-3ldc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
