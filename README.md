@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Pipelining for Memcached](https://dev.to/obbap/pipelining-for-memcached-1pm9)
-- [How to build index with text embeddings](https://dev.to/cocoindex/how-to-build-index-with-text-embeddings-j3m)
-- [Automate to Scale: How Founders &amp; Startups Can Streamline Bookings, Emails, and CRM with n8n](https://dev.to/tolu_cloudops/automate-to-scale-how-founders-startups-can-streamline-bookings-emails-and-crm-with-n8n-2fdi)
-- [Daily JavaScript Challenge #JS-187: Find the Shortest Word in a Sentence](https://dev.to/dpc/daily-javascript-challenge-js-187-find-the-shortest-word-in-a-sentence-1d2k)
-- [Gogoanime: A Go-To Platform for Free Anime Streaming](https://dev.to/tnia_posh_d9933578f3b5a28/gogoanime-a-go-to-platform-for-free-anime-streaming-57bm)
+- [Practical Development of News Applications Based on HarmonyOS Next](https://dev.to/linzhongxue/practical-development-of-news-applications-based-on-harmonyos-next-30ba)
+- [Building an Intelligent Learning Platform Using AppGallery Connect](https://dev.to/linzhongxue/building-an-intelligent-learning-platform-using-appgallery-connect-5bb1)
+- [P++: A Language That Speaks Both Interpreter and Compiler](https://dev.to/teejayredex/p-a-language-that-speaks-both-interpreter-and-compiler-19do)
+- [Developing an Educational Application Based on HarmonyOS Next](https://dev.to/linzhongxue/developing-an-educational-application-based-on-harmonyos-next-55nf)
+- [Building an Intelligent Learning Platform Using AppGallery Connect](https://dev.to/linzhongxue/building-an-intelligent-learning-platform-using-appgallery-connect-2io6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
