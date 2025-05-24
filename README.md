@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [13 Free Web-Based Developer Tools You&#39;ll Actually Use](https://dev.to/sayem314/13-free-web-based-developer-tools-youll-actually-use-3j4p)
-- [The Ultimate Choice for Building Modern Web Services: A Lightweight Rust HTTP Framework](https://dev.to/_95e41982c9ad08a13458d/the-ultimate-choice-for-building-modern-web-services-a-lightweight-rust-http-framework-oo)
-- [Padrão Repository: A Abstração que Transformou o Acesso a Dados em Aplicações .NET](https://dev.to/gustavo_cremonez/padrao-repository-a-abstracao-que-transformou-o-acesso-a-dados-em-aplicacoes-net-21pn)
-- [WebSocket Broadcasting with hyperlane](https://dev.to/_95e41982c9ad08a13458d/websocket-broadcasting-with-hyperlane-26o0)
-- [How i18n in Next.js broke my route interceptors &lpar;and how I fixed it&rpar;](https://dev.to/antononoprienko/how-i18n-in-nextjs-broke-my-route-interceptors-and-how-i-fixed-it-18mb)
+- [Git: 50 Essential Commands for Everyday Workflow](https://dev.to/ahmed_niazy/git-50-essential-commands-for-everyday-workflow-2d7l)
+- [We Need a Spec Format for Design, QA, and Documentation](https://dev.to/pckerneis/we-need-a-spec-format-for-design-qa-and-documentation-5a52)
+- [Working Smarter: Figma’s Smart Assistant Plugins Explained](https://dev.to/atforeveryoung/working-smarter-figmas-smart-assistant-plugins-explained-eop)
+- [The Definitive Guide to Modern HTML Mastery](https://dev.to/code_2/the-definitive-guide-to-modern-html-mastery-6m1)
+- [How can i create youtube shorts frontend code using HTML CSS JS WITH Scrolling options same like shorts](https://dev.to/dva3121/how-can-i-create-youtube-shorts-frontend-code-using-html-css-js-with-scrolling-options-same-like-369f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
