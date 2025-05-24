@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Practical Development of News Applications Based on HarmonyOS Next](https://dev.to/linzhongxue/practical-development-of-news-applications-based-on-harmonyos-next-30ba)
-- [Building an Intelligent Learning Platform Using AppGallery Connect](https://dev.to/linzhongxue/building-an-intelligent-learning-platform-using-appgallery-connect-5bb1)
-- [P++: A Language That Speaks Both Interpreter and Compiler](https://dev.to/teejayredex/p-a-language-that-speaks-both-interpreter-and-compiler-19do)
-- [Developing an Educational Application Based on HarmonyOS Next](https://dev.to/linzhongxue/developing-an-educational-application-based-on-harmonyos-next-55nf)
-- [Building an Intelligent Learning Platform Using AppGallery Connect](https://dev.to/linzhongxue/building-an-intelligent-learning-platform-using-appgallery-connect-2io6)
+- [Cat Loader: A Cute and Creative Loading Animation for Your Website](https://dev.to/robin-ivi/cat-loader-a-cute-and-creative-loading-animation-for-your-website-4cph)
+- [Database Security in DBMS](https://dev.to/aniruddhaadak/database-security-in-dbms-4mg4)
+- [First Contributions: learn how to contribute to open source projects](https://dev.to/praneet_biswal_d355dcff3c/first-contributions-learn-how-to-contribute-to-open-source-projects-47ib)
+- [Leveling Up Daily 💪 | Java, SpringBoot &amp; GoLang](https://dev.to/vinayakgote2730/leveling-up-daily-java-springboot-golang-102)
+- [2942. Find Words Containing Character](https://dev.to/mdarifulhaque/2942-find-words-containing-character-2cj9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
