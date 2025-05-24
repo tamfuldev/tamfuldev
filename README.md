@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Git: 50 Essential Commands for Everyday Workflow](https://dev.to/ahmed_niazy/git-50-essential-commands-for-everyday-workflow-2d7l)
-- [We Need a Spec Format for Design, QA, and Documentation](https://dev.to/pckerneis/we-need-a-spec-format-for-design-qa-and-documentation-5a52)
-- [Working Smarter: Figma’s Smart Assistant Plugins Explained](https://dev.to/atforeveryoung/working-smarter-figmas-smart-assistant-plugins-explained-eop)
-- [The Definitive Guide to Modern HTML Mastery](https://dev.to/code_2/the-definitive-guide-to-modern-html-mastery-6m1)
-- [How can i create youtube shorts frontend code using HTML CSS JS WITH Scrolling options same like shorts](https://dev.to/dva3121/how-can-i-create-youtube-shorts-frontend-code-using-html-css-js-with-scrolling-options-same-like-369f)
+- [Server-Side Caching vs Client-Side Caching in Next.js: Best Practices for Performance](https://dev.to/melvinprince/server-side-caching-vs-client-side-caching-in-nextjs-best-practices-for-performance-48he)
+- [React Tutorial for Beginners: Build Your First App Step-by-Step](https://dev.to/tpointtechadu/react-tutorial-for-beginners-build-your-first-app-step-by-step-3jm5)
+- [The Body Slows Down but the Dream Still Breathes](https://dev.to/versiqcontent/the-body-slows-down-but-the-dream-still-breathes-58cc)
+- [gRPC: A Modern Approach to Service Communication](https://dev.to/rajkundalia/grpc-a-modern-approach-to-service-communication-4gjb)
+- [And my 270 days of coding journey began...](https://dev.to/chakshuisadev/and-my-270-days-of-coding-journey-began-1fkj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
