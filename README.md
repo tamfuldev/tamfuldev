@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Server-Side Caching vs Client-Side Caching in Next.js: Best Practices for Performance](https://dev.to/melvinprince/server-side-caching-vs-client-side-caching-in-nextjs-best-practices-for-performance-48he)
-- [React Tutorial for Beginners: Build Your First App Step-by-Step](https://dev.to/tpointtechadu/react-tutorial-for-beginners-build-your-first-app-step-by-step-3jm5)
-- [The Body Slows Down but the Dream Still Breathes](https://dev.to/versiqcontent/the-body-slows-down-but-the-dream-still-breathes-58cc)
-- [gRPC: A Modern Approach to Service Communication](https://dev.to/rajkundalia/grpc-a-modern-approach-to-service-communication-4gjb)
-- [And my 270 days of coding journey began...](https://dev.to/chakshuisadev/and-my-270-days-of-coding-journey-began-1fkj)
+- [Build Medical AI with Google’s MedGemma 4B &amp; 27B: A Complete Installation Guide](https://dev.to/nodeshiftcloud/build-medical-ai-with-googles-medgemma-4b-27b-a-complete-installation-guide-1pb3)
+- [Step Five into RxJS: Error Handling](https://dev.to/artstesh/step-five-into-rxjs-error-handling-51g1)
+- [Resource API Changes in Angular 20 - Query Resource in rxResource](https://dev.to/railsstudent/-resource-api-changes-in-angular-20-query-resource-in-rxresource-2o8m)
+- [Peer Programming with LLMs, For Senior+ Engineers](https://dev.to/pmbanugo/peer-programming-with-llms-for-senior-engineers-3gmj)
+- [Innovating Music Social Experiences with Real-Time Beauty Effects](https://dev.to/susiewang/innovating-music-social-experiences-with-real-time-beauty-effects-4n37)
 <!-- BLOG-POST-LIST:END -->
 
 ---
