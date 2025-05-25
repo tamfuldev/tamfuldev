@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [⬛️🟪zzh/Google revoluciona el e-commerce: Su IA crea productos 3D interactivos a partir de simples fotos](https://dev.to/zzhdlr5/zzhgoogle-revoluciona-el-e-commerce-su-ia-crea-productos-3d-interactivos-a-partir-de-simples-2j7a)
-- [Why Type Is the Better Choice in React + TypeScript](https://dev.to/wildboar_developer/why-type-is-the-better-choice-in-react-typescript-1njm)
-- [MFA Fatigue Attacks and Session Hijacking: How Threat Actors Bypass Modern Defenses](https://dev.to/kedster/mfa-fatigue-attacks-and-session-hijacking-how-threat-actors-bypass-modern-defenses-33am)
-- [Why You Need Multi-Factor Authentication &lpar;MFA&rpar; on Every Account—Right Now](https://dev.to/kedster/why-you-need-multi-factor-authentication-mfa-on-every-account-right-now-39mk)
-- [Bypassing Windows Defender in 2025: What DevSecOps Must Understand About Home vs. Enterprise](https://dev.to/kedster/bypassing-windows-defender-in-2025-what-devsecops-must-understand-about-home-vs-enterprise-4148)
+- [St Page Flip](https://dev.to/preetha_vaishnavi_2b82358/st-page-flip-2fo4)
+- [Animated Tab Bar](https://dev.to/preetha_vaishnavi_2b82358/animated-tab-bar-2h43)
+- [Bubbles](https://dev.to/preetha_vaishnavi_2b82358/bubbles-13om)
+- [Form with SVG radio buttons](https://dev.to/preetha_vaishnavi_2b82358/form-with-svg-radio-buttons-46l)
+- [How I Deployed My Portfolio Using AWS S3 + CloudFront + Cloudflare &lpar;Free SSL &amp; Email!&rpar;](https://dev.to/itsfarhan/how-i-deployed-my-portfolio-using-aws-s3-cloudfront-cloudflare-free-ssl-email-c3c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
