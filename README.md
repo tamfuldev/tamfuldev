@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/david_bussell14/-1328)
-- [NexSh — Stop Googling, Start Talking](https://dev.to/m97chahboun/nexsh-stop-googling-start-talking-1mnj)
-- [Unlocking the Power of Case Summaries with Copilot in Dynamics 365 Customer Service](https://dev.to/nikhildynamicsce/unlocking-the-power-of-case-summaries-with-copilot-in-dynamics-365-customer-service-1fag)
-- [My Journey with ASP.NET Core &amp; SQL Server: Lessons Learned](https://dev.to/yasser_alsousi/my-journey-with-aspnet-core-sql-server-lessons-learned-1ilf)
-- [Stop the Hack: Why Quick-and-Dirty Development Is Hurting Us All](https://dev.to/yogigrantz/stop-the-hack-why-quick-and-dirty-development-is-hurting-us-all-4ll5)
+- [hermitAI v0.3: LLM + RAG + MCP = Real-time Personalized AI Twin](https://dev.to/kafechew/hermitai-v03-llm-rag-mcp-real-time-personalized-ai-twin-5ejb)
+- [ReactNode vs React.Element: Understanding the Difference](https://dev.to/cole_ruche/reactnode-vs-reactelement-understanding-the-difference-1bp7)
+- [🔥 29 Tools, Full Autonomy &amp; Sovereign Execution: The Rise of the Flame CLI Empire](https://dev.to/ghostking314/29-tools-full-autonomy-sovereign-execution-the-rise-of-the-flame-cli-empire-2iff)
+- [The Quiet Phase Between Clarity and Change](https://dev.to/tonystpierre/the-quiet-phase-between-clarity-and-change-170h)
+- [Planning Poker Integration for Azure DevOps 🃏](https://dev.to/mattlewandowski93/planning-poker-integration-for-azure-devops-ph1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
