@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Pipeline Pattern in Go: A Practical Guide](https://dev.to/leapcell/pipeline-pattern-in-go-a-practical-guide-5dmm)
-- [Real Gem](https://dev.to/derrickatongo/-46h2)
-- [Analysis of the King of Aridoria : A Prompt Engineering Project](https://dev.to/grimkillingbeck/analysis-of-the-king-of-aridoria-a-prompt-engineering-project-3dfe)
-- [Real-Time News Sentiment Tracker with Bright Data Proxies](https://dev.to/tombri_bowei_e93e5827c03c/real-time-news-sentiment-tracker-with-bright-data-proxies-50d5)
-- [Revolutionize Your Database Development with SchemaCrawler MCP Server](https://dev.to/sualeh/revolutionize-your-database-development-with-schemacrawler-mcp-server-310i)
+- [⬛️🟪zzh/Google revoluciona el e-commerce: Su IA crea productos 3D interactivos a partir de simples fotos](https://dev.to/zzhdlr5/zzhgoogle-revoluciona-el-e-commerce-su-ia-crea-productos-3d-interactivos-a-partir-de-simples-2j7a)
+- [Why Type Is the Better Choice in React + TypeScript](https://dev.to/wildboar_developer/why-type-is-the-better-choice-in-react-typescript-1njm)
+- [MFA Fatigue Attacks and Session Hijacking: How Threat Actors Bypass Modern Defenses](https://dev.to/kedster/mfa-fatigue-attacks-and-session-hijacking-how-threat-actors-bypass-modern-defenses-33am)
+- [Why You Need Multi-Factor Authentication &lpar;MFA&rpar; on Every Account—Right Now](https://dev.to/kedster/why-you-need-multi-factor-authentication-mfa-on-every-account-right-now-39mk)
+- [Bypassing Windows Defender in 2025: What DevSecOps Must Understand About Home vs. Enterprise](https://dev.to/kedster/bypassing-windows-defender-in-2025-what-devsecops-must-understand-about-home-vs-enterprise-4148)
 <!-- BLOG-POST-LIST:END -->
 
 ---
