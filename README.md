@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SecurityContext in Kubernetes](https://dev.to/omkara18/securitycontext-in-kubernetes-2j10)
-- [What Qualities Does It Take to Be the Best Software Developer](https://dev.to/devto-articles/what-qualities-does-it-take-to-be-the-best-software-developer-4nol)
-- [Understanding PowerBI](https://dev.to/emmanuel_kiriinya_416fc40/understanding-powerbi-1kmb)
-- [Modules in Python](https://dev.to/datatoinfinity/modules-in-python-41hm)
-- [🧠 Building “Memory Maze” with Amazon Q CLI and Python — A Brain-Training Game with AI Power ⚡🎮](https://dev.to/aditya_kumar_1ed587da5d8f/building-memory-maze-with-amazon-q-cli-and-python-a-brain-training-game-with-ai-power-39d6)
+- [Weekly Challenge: Strings and Arrays](https://dev.to/simongreennet/weekly-challenge-strings-and-arrays-4a8h)
+- [Hands-Free Design: Automated Assistants That Do the Heavy Lifting](https://dev.to/atforeveryoung/hands-free-design-automated-assistants-that-do-the-heavy-lifting-ibe)
+- [🚀 My DevOps Journey: From Linux Basics to Dockerized Projects — Follow Along on GitHub! 🐧🐳](https://dev.to/rockstarmonil/my-devops-journey-from-linux-basics-to-dockerized-projects-follow-along-on-github-48j3)
+- [Looking for a job opportunity](https://dev.to/ohorodnichuk17/looking-for-a-jon-opportunity-4g17)
+- [Building a Real-time Search Aggregation Workflow with Bright Data MCP, Brave Search and Google Gemini LLM](https://dev.to/ranjancse/building-a-real-time-search-aggregation-workflow-with-bright-data-mcp-brave-search-and-google-4bem)
 <!-- BLOG-POST-LIST:END -->
 
 ---
