@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Weekly Challenge: Strings and Arrays](https://dev.to/simongreennet/weekly-challenge-strings-and-arrays-4a8h)
-- [Hands-Free Design: Automated Assistants That Do the Heavy Lifting](https://dev.to/atforeveryoung/hands-free-design-automated-assistants-that-do-the-heavy-lifting-ibe)
-- [🚀 My DevOps Journey: From Linux Basics to Dockerized Projects — Follow Along on GitHub! 🐧🐳](https://dev.to/rockstarmonil/my-devops-journey-from-linux-basics-to-dockerized-projects-follow-along-on-github-48j3)
-- [Looking for a job opportunity](https://dev.to/ohorodnichuk17/looking-for-a-jon-opportunity-4g17)
-- [Building a Real-time Search Aggregation Workflow with Bright Data MCP, Brave Search and Google Gemini LLM](https://dev.to/ranjancse/building-a-real-time-search-aggregation-workflow-with-bright-data-mcp-brave-search-and-google-4bem)
+- [Building a Free AI Story Generator with Next.js 15: From Zero to Deployment](https://dev.to/dylan_huang_2686f6cef827a/building-a-free-ai-story-generator-with-nextjs-15-from-zero-to-deployment-a3k)
+- [TE AMO](https://dev.to/cristhian_huarsaya_56bffd/te-amo-4099)
+- [How to Download and Install Anime Witcher APK on Android [Step-by-Step Guide]](https://dev.to/anime_witcher_0e5e5aad5fe/how-to-download-and-install-anime-witcher-apk-on-android-step-by-step-guide-p6l)
+- [Razorpay Integration with Django: Step-by-Step Guide 💳](https://dev.to/madhubankhatri/razorpay-integration-with-django-step-by-step-guide-1cmn)
+- [Spider.css - A lightweight css framework](https://dev.to/pjdeveloper896/spidercss-a-lightweight-css-framework-2gf6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
