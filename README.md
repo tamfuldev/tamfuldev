@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Impact of JIT Compilation on JS Code](https://dev.to/omriluz1/exploring-the-impact-of-jit-compilation-on-js-code-59ji)
-- [Code Smell 301 - Database as Parameter](https://dev.to/mcsee/code-smell-301-database-as-parameter-27)
-- [Top 10 Underrated JavaScript Libraries You Should Explore in 2025](https://dev.to/arkhan/top-10-underrated-javascript-libraries-you-should-explore-in-2025-2o11)
-- [Turn Emails into Support Tickets with Postmark](https://dev.to/ipek_efendiev_192742a5571/turn-emails-into-support-tickets-with-postmark-fao)
-- [Understanding AWS S3: Your Personal Cloud Self-Storage Facility](https://dev.to/franciscojeg78/understanding-aws-s3-your-personal-cloud-self-storage-facility-4n17)
+- [[Boost]](https://dev.to/david_bussell14/-1328)
+- [NexSh — Stop Googling, Start Talking](https://dev.to/m97chahboun/nexsh-stop-googling-start-talking-1mnj)
+- [Unlocking the Power of Case Summaries with Copilot in Dynamics 365 Customer Service](https://dev.to/nikhildynamicsce/unlocking-the-power-of-case-summaries-with-copilot-in-dynamics-365-customer-service-1fag)
+- [My Journey with ASP.NET Core &amp; SQL Server: Lessons Learned](https://dev.to/yasser_alsousi/my-journey-with-aspnet-core-sql-server-lessons-learned-1ilf)
+- [Stop the Hack: Why Quick-and-Dirty Development Is Hurting Us All](https://dev.to/yogigrantz/stop-the-hack-why-quick-and-dirty-development-is-hurting-us-all-4ll5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
