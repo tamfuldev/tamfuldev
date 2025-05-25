@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Here is a creative blog post about space: &quot;Beyond the Cosmic Veil: Unraveling the Mysteries of Space&quot; The All](https://dev.to/palak_singla_ae13e55615a4/here-is-a-creative-blog-post-about-space-beyond-the-cosmic-veil-unraveling-the-mysteries-of-18ci)
-- [Do you know what happens to your resume formatting when you apply to a job? I’d never heard of an Applicant Tracking System &lpar;ATS&rpar; or how it can garble your beautiful, fancy formatting. 🤯 https://climbandpivot.beehiiv.com/p/interview-with-a-recruiter-every](https://dev.to/severin_wiggenhorn/do-you-know-what-happens-to-your-resume-formatting-when-you-apply-to-a-job-id-never-heard-of-an-1a2d)
-- [# 🚀 A Guide to Cracking the AWS Certified Advanced Networking – Specialty &lpar;ANS-C01&rpar;](https://dev.to/aws-builders/-a-guide-to-cracking-the-aws-certified-advanced-networking-specialty-ans-c01-46ed)
-- [A Glimpse into My Shell](https://dev.to/vst/a-glimpse-into-my-shell-121i)
-- [Welcome to the Code Digest](https://dev.to/ezek-iel/welcome-to-the-code-digest-5cog)
+- [Exploring the Impact of JIT Compilation on JS Code](https://dev.to/omriluz1/exploring-the-impact-of-jit-compilation-on-js-code-59ji)
+- [Code Smell 301 - Database as Parameter](https://dev.to/mcsee/code-smell-301-database-as-parameter-27)
+- [Top 10 Underrated JavaScript Libraries You Should Explore in 2025](https://dev.to/arkhan/top-10-underrated-javascript-libraries-you-should-explore-in-2025-2o11)
+- [Turn Emails into Support Tickets with Postmark](https://dev.to/ipek_efendiev_192742a5571/turn-emails-into-support-tickets-with-postmark-fao)
+- [Understanding AWS S3: Your Personal Cloud Self-Storage Facility](https://dev.to/franciscojeg78/understanding-aws-s3-your-personal-cloud-self-storage-facility-4n17)
 <!-- BLOG-POST-LIST:END -->
 
 ---
