@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Brighter and the Outbox Pattern: At-Least-Once Delivery for Resilient](https://dev.to/actor-dev/outbox-pattern-86l)
-- [Quark’s Outlines: Python Data Model](https://dev.to/mike-vincent/quarks-outlines-python-data-model-5373)
-- [Implementando o Padrão Outbox com Brighter: Confiabilidade na Publicação de Eventos](https://dev.to/actor-dev/implementando-o-padrao-outbox-com-brighter-confiabilidade-na-publicacao-de-eventos-2k5j)
-- [Understanding and Mitigating JavaScript Memory Bloat](https://dev.to/omriluz1/understanding-and-mitigating-javascript-memory-bloat-2kn4)
-- [new22](https://dev.to/armaankhan8270/new22-49io)
+- [[AutoBE] Backend Vibe Coding Agent, generating 100% working code by Compiler Feedback Strategy](https://dev.to/samchon/autobe-backend-vibe-coding-agent-generating-100-working-code-by-compiler-feedback-strategy-50j1)
+- [[Boost]](https://dev.to/paulwababu/-1mbn)
+- [My Generative Coding Workflow: How an Old School Coder is Adapting to AI &lpar;Let&#39;s Talk!&rpar;](https://dev.to/gokerdev/my-generative-coding-workflow-how-an-old-school-coder-is-adapting-to-ai-lets-talk-34gg)
+- [Part 4: How to Implement a Dialog That Blocks the System Back Key in HarmonyOS?](https://dev.to/xhunmon/part-4-how-to-implement-a-dialog-that-blocks-the-system-back-key-in-harmonyos-1m2o)
+- [Part 3: Step-by-Step Guide to Encapsulating the Navigation Routing Framework in HarmonyOS](https://dev.to/xhunmon/part-3-step-by-step-guide-to-encapsulating-the-navigation-routing-framework-in-harmonyos-35c7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
