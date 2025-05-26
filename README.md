@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🧭 Introduction to Web Accessibility &lpar;a11y&rpar; – where to start?](https://dev.to/aleksandra_rataj/introduction-to-web-accessibility-a11y-where-to-start-5h6d)
-- [Supercharge Your Deployments: GitHub Actions + Azure Web App CI/CD](https://dev.to/edudeveloper/supercharge-your-deployments-github-actions-azure-web-app-cicd-1lkd)
-- [Building a Canvas App PCF Control to Download Files from SharePoint](https://dev.to/ievafil/building-a-canvas-app-pcf-control-to-download-files-from-sharepoint-3697)
-- [Enterprise-Ready Logging with Serilog in .NET](https://dev.to/nikhilworkflow/enterprise-ready-logging-with-serilog-in-net-3pl3)
-- [Leadership](https://dev.to/aniruddhaadak_/leadership-ak8)
+- [Lynx vs React Native: Uma Nova Alternativa no Mundo Cross-Platform?](https://dev.to/aroldo_goulart_b196718b4f/lynx-vs-react-native-uma-nova-alternativa-no-mundo-cross-platform-383l)
+- [Lonely Island RPG](https://dev.to/jpaulin/lonely-island-rpg-4eci)
+- [I just published my first dev article! While working on a React Native project, I couldn’t find a good guide on setting up push notifications with Expo and Firebase, so I decided to write one myself.](https://dev.to/totoledao/i-just-published-my-first-dev-article-while-working-on-a-react-native-project-i-couldnt-find-a-3438)
+- [The Big Three Cloud Providers Have All Launched AI Copilots for DevOps](https://dev.to/franciscojeg78/the-big-three-cloud-providers-have-all-launched-ai-copilots-for-devops-2554)
+- [Started keeping a video blog about the development process. So that it wouldn&#39;t be boring.](https://dev.to/vladimirm/started-keeping-a-video-blog-about-the-development-process-so-that-it-wouldnt-be-boring-10e8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
