@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Use of Symbol.toStringTag for Custom Objects](https://dev.to/omriluz1/advanced-use-of-symboltostringtag-for-custom-objects-5gja)
-- [🐍 𝗣𝘆𝘁𝗵𝗼𝗻: 𝗕𝘂𝗶𝗹𝘁 𝗳𝗼𝗿 𝗦𝗽𝗲𝗲𝗱 𝗼𝗳 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁, 𝗡𝗼𝘁 𝗘𝘅𝗲𝗰𝘂𝘁𝗶𝗼𝗻](https://dev.to/justin_morales_225c97a732/--546p)
-- [Mustiolo: A Python library for creating CLI applications.](https://dev.to/cereal84/mustiolo-a-python-library-for-creating-cli-applications-33og)
-- [Sharding Demystified](https://dev.to/hellonehha/sharding-demystified-3cl9)
-- [PostmarkGBA: A working GBA emulator running through Postmark](https://dev.to/rensieeee/postmarkgba-a-working-gba-emulator-running-through-postmark-oj2)
+- [🧭 Introduction to Web Accessibility &lpar;a11y&rpar; – where to start?](https://dev.to/aleksandra_rataj/introduction-to-web-accessibility-a11y-where-to-start-5h6d)
+- [Supercharge Your Deployments: GitHub Actions + Azure Web App CI/CD](https://dev.to/edudeveloper/supercharge-your-deployments-github-actions-azure-web-app-cicd-1lkd)
+- [Building a Canvas App PCF Control to Download Files from SharePoint](https://dev.to/ievafil/building-a-canvas-app-pcf-control-to-download-files-from-sharepoint-3697)
+- [Enterprise-Ready Logging with Serilog in .NET](https://dev.to/nikhilworkflow/enterprise-ready-logging-with-serilog-in-net-3pl3)
+- [Leadership](https://dev.to/aniruddhaadak_/leadership-ak8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
