@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [ApplyMate✍🏻Form Filler AI Agent! | Your best friend Form Filler](https://dev.to/diosamuel/applymateform-filler-ai-agent-your-best-friend-form-filler-43da)
-- [Fixing Go Unit Test Problems: When Your Code Just Stops!](https://dev.to/nyunja_jp/fixing-go-test-problems-when-your-code-just-stops-27g)
-- [How to build a flat L2 network between VMs and hardware in different locations](https://dev.to/mateor404/how-to-build-a-flat-l2-network-between-vms-and-hardware-in-different-locations-1gk2)
-- [Adding screen share to your react application with WebRTC](https://dev.to/justine_gichana_fe7079f71/adding-screen-share-to-your-react-application-with-webrtc-3mj8)
-- [[EN] My journey in cloud computing has just begun ☁️ Join me!](https://dev.to/jessicaalines/en-my-journey-in-cloud-computing-has-just-begun-join-me-5dj0)
+- [How to Run Data Exchange?](https://dev.to/guisell_urbina_74e3c24732/how-to-run-data-exchange-2b1h)
+- [7 Practical Tips to Improve Your IT Asset Lifecycle Management Processes](https://dev.to/jennifer_sui_devsamurai/7-practical-tips-to-improve-your-it-asset-lifecycle-management-processes-19bf)
+- [A beginner&#39;s guide to the Cosyvoice model by Jichengdu on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-cosyvoice-model-by-jichengdu-on-replicate-ci0)
+- [My AI Agent Learning Kickoff : Day 0](https://dev.to/distalx/my-ai-agent-learning-kickoff-day-0-1a2i)
+- [We Couldn’t Find Free Business APIs to Prototype With — So We Built Them](https://dev.to/lonti-davidb/we-couldnt-find-free-business-apis-to-prototype-with-so-we-built-them-13e8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
