@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/espoir/-184e)
-- [Build an API on a Docker image that is less than 20 MB](https://dev.to/rhonalchirinos/build-an-api-on-a-docker-image-that-is-less-than-20-mb-4ngb)
-- [MicroPython for Motion Sensors in Fence Security Systems](https://dev.to/karen_londres/micropython-for-motion-sensors-in-fence-security-systems-1093)
-- [Digital Elevation Models &lpar;DEMs&rpar;: Applications in Flood Risk Assessment and Management](https://dev.to/bhaveshsattavan/digital-elevation-models-dems-applications-in-flood-risk-assessment-and-management-5h29)
-- [Data Quest &lpar;0&rpar; Introduction](https://dev.to/jholic/data-quest-0-introduction-1dp1)
+- [ML in 2025: Which Platform Wins — SageMaker or Azure ML? ⚔️](https://dev.to/clickit_devops/ml-in-2025-which-platform-wins-sagemaker-or-azure-ml-3g57)
+- [Ever wondered how apps instantly know when an order is placed, a form is submitted, or a payment succeeds? The answer is Webhooks — and how they are different with APIs.](https://dev.to/brains_behind_bots/ever-wondered-how-apps-instantly-know-when-an-order-is-placed-a-form-is-submitted-or-a-payment-229)
+- [Why Every Automation Needs Webhooks — And How to Use Them in n8n](https://dev.to/brains_behind_bots/why-every-automation-needs-webhooks-and-how-to-use-them-in-n8n-440c)
+- [Enchant your terminal application with python: survey, glow, rich, textwrap.](https://dev.to/nakedonthebus/enchant-your-terminal-application-with-python-survey-glow-rich-textwrap-and-more-j62)
+- [System Revamp: Stepping Into System Design](https://dev.to/vn-vision/system-revamp-stepping-into-system-design-15l0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
