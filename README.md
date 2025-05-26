@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [HarmonyOS运动开发：如何集成百度地图SDK、运动跟随与运动公里数记录](https://dev.to/smartbackme/harmonyosyun-dong-kai-fa-ru-he-ji-cheng-bai-du-di-tu-sdk-yun-dong-gen-sui-yu-yun-dong-gong-li-shu-ji-lu-eoh)
-- [Parquet? What Parquet?](https://dev.to/konstantinas_mamonas/parquet-what-parquet-5hfc)
-- [Segurança ao Alugar Vans: Tudo que Você Precisa Saber para Viajar Tranquilo](https://dev.to/eventosway086/seguranca-ao-alugar-vans-tudo-que-voce-precisa-saber-para-viajar-tranquilo-2pgi)
-- [AuraFeed - Real-time AI News Sentiment Analyzer](https://dev.to/bhavna_b_baa952ae51dac930/hackathon-real-time-ai-news-intelligence-dashboard-5epm)
-- [My Two Cents: Reflections on 30 Days of Daily Coding](https://dev.to/mahamudul_hasan_e716e8fa1/my-two-cents-reflections-on-30-days-of-daily-coding-224e)
+- [Brighter and the Outbox Pattern: At-Least-Once Delivery for Resilient](https://dev.to/actor-dev/outbox-pattern-86l)
+- [Quark’s Outlines: Python Data Model](https://dev.to/mike-vincent/quarks-outlines-python-data-model-5373)
+- [Implementando o Padrão Outbox com Brighter: Confiabilidade na Publicação de Eventos](https://dev.to/actor-dev/implementando-o-padrao-outbox-com-brighter-confiabilidade-na-publicacao-de-eventos-2k5j)
+- [Understanding and Mitigating JavaScript Memory Bloat](https://dev.to/omriluz1/understanding-and-mitigating-javascript-memory-bloat-2kn4)
+- [new22](https://dev.to/armaankhan8270/new22-49io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
