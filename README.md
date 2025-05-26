@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Just launched: Laravel SecretSync — an easy way to sync secrets from Infisical into your Laravel apps easily.](https://dev.to/umarjimoh/just-launched-laravel-secretsync-an-easy-way-to-sync-secrets-from-infisical-into-your-laravel-3ccj)
-- [Cómo Recibir SMS Internacionales en España: Guía Práctica 2025](https://dev.to/grizzly_sms/como-recibir-sms-internacionales-en-espana-guia-practica-2025-44pn)
-- [𓅪 Huginn: A Discord Bot for My Valheim Server ~ felt too lazy to click on bash script — so made a bot ;3](https://dev.to/pratyush_soni_853633e1553/huginn-a-discord-bot-for-my-valheim-server-felt-too-lazy-to-click-on-bash-script-so-made-a-42l8)
-- [A Comprehensive Guide to Application Security: Types, Benefits, Tools and Techniques](https://dev.to/wininlife_academy_14d5cee/a-comprehensive-guide-to-application-security-types-benefits-tools-and-techniques-7ja)
-- [🚀 I Built an Offline J.A.R.V.I.S. in Python &lpar;No Internet Needed!&rpar; DEMO VIDEO INSIDE!](https://dev.to/mohamed-riham/i-built-an-offline-jarvis-in-python-no-internet-needed-demo-video-inside-4bhn)
+- [Benchmarking AI-Generated Code: Cursor vs Windsurf vs Secure Coding Standards](https://dev.to/clouddefenseai/benchmarking-ai-generated-code-cursor-vs-windsurf-vs-secure-coding-standards-3afp)
+- [5 Top CMS Platforms in 2025: Pagepro Picks](https://dev.to/pagepro_agency/5-top-cms-platforms-in-2025-pagepro-picks-2l4j)
+- [Seamless AI: Integrating Machine Learning Into Your Figma Files](https://dev.to/atforeveryoung/seamless-ai-integrating-machine-learning-into-your-figma-files-phj)
+- [Composant Menu avec RiotJS](https://dev.to/steeve/composant-menu-avec-riotjs-400f)
+- [How to Connect to DuckDB with C++](https://dev.to/marcosplusplus/how-to-connect-to-duckdb-with-c-82g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
