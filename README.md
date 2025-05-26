@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Command Line Renaissance](https://dev.to/rawveg/command-line-renaissance-377a)
-- [Day 34 — Layers Are Building &lpar;React, JS OOP, Matplotlib&rpar;](https://dev.to/mridulbansal2006/day-34-layers-are-building-react-js-oop-matplotlib-2l0i)
-- [PinMe: Deploy Your Static Front-End to IPFS + ENS in One Command](https://dev.to/glitterprotocol/pinme-deploy-your-static-front-end-to-ipfs-ens-in-one-command-57c7)
-- [Playlist de Trilhas Cristãs com Instrumentos Acústicos para Inspirar sua Fé](https://dev.to/bateriacordas994/playlist-de-trilhas-cristas-com-instrumentos-acusticos-para-inspirar-sua-fe-56ip)
-- [Entrevista com Luthier Local: Entre Tradição e Novas Ideias](https://dev.to/partituramaster065/entrevista-com-luthier-local-entre-tradicao-e-novas-ideias-2bfe)
+- [ApplyMate✍🏻Form Filler AI Agent! | Your best friend Form Filler](https://dev.to/diosamuel/applymateform-filler-ai-agent-your-best-friend-form-filler-43da)
+- [Fixing Go Unit Test Problems: When Your Code Just Stops!](https://dev.to/nyunja_jp/fixing-go-test-problems-when-your-code-just-stops-27g)
+- [How to build a flat L2 network between VMs and hardware in different locations](https://dev.to/mateor404/how-to-build-a-flat-l2-network-between-vms-and-hardware-in-different-locations-1gk2)
+- [Adding screen share to your react application with WebRTC](https://dev.to/justine_gichana_fe7079f71/adding-screen-share-to-your-react-application-with-webrtc-3mj8)
+- [[EN] My journey in cloud computing has just begun ☁️ Join me!](https://dev.to/jessicaalines/en-my-journey-in-cloud-computing-has-just-begun-join-me-5dj0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
