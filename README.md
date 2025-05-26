@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Benchmarking AI-Generated Code: Cursor vs Windsurf vs Secure Coding Standards](https://dev.to/clouddefenseai/benchmarking-ai-generated-code-cursor-vs-windsurf-vs-secure-coding-standards-3afp)
-- [5 Top CMS Platforms in 2025: Pagepro Picks](https://dev.to/pagepro_agency/5-top-cms-platforms-in-2025-pagepro-picks-2l4j)
-- [Seamless AI: Integrating Machine Learning Into Your Figma Files](https://dev.to/atforeveryoung/seamless-ai-integrating-machine-learning-into-your-figma-files-phj)
-- [Composant Menu avec RiotJS](https://dev.to/steeve/composant-menu-avec-riotjs-400f)
-- [How to Connect to DuckDB with C++](https://dev.to/marcosplusplus/how-to-connect-to-duckdb-with-c-82g)
+- [How to Host and Transfer WordPress on Hostman Server](https://dev.to/hostman_com/how-to-host-and-transfer-wordpress-on-hostman-server-1643)
+- [9 Modern Developer Tools to Improve Your Coding Workflow 👨‍💻⚡](https://dev.to/madza/9-modern-developer-tools-to-improve-your-coding-workflow-1onn)
+- [🚀 How I Aced My LLM Interview: Building a RAG Chatbot](https://dev.to/mrzaizai2k/how-i-aced-my-llm-interview-building-a-rag-chatbot-2p6f)
+- [The Singleton Design Pattern](https://dev.to/mspilari/the-singleton-design-pattern-3k5h)
+- [Certificate Generator html and javascript](https://dev.to/preetha_vaishnavi_2b82358/certificate-generator-html-and-javascript-2dj6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
