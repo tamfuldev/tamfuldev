@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Four Lessons &lpar;and a Challenge&rpar; for a Coder Struggling to Write](https://dev.to/canro91/four-lessons-and-a-challenge-for-a-coder-struggling-to-write-2c91)
-- [🚀 What Are Progressive Web Apps &lpar;PWAs&rpar;? A Complete Guide for Modern Web Devs](https://dev.to/hasunnilupul/what-are-progressive-web-apps-pwas-a-complete-guide-for-modern-web-devs-4191)
-- [Stay ahead in web development: latest news, tools, and insights #86](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-86-25cd)
-- [LocalStack: Simulating AWS Locally for Faster Development and Testing](https://dev.to/navedrizv/localstack-simulating-aws-locally-for-faster-development-and-testing-45n9)
-- [Ready to learn Kubernetes but not sure where to start? Check out my latest article: &quot;How to Set Up Your First Kubernetes Cluster and Deploy Applications&quot; a beginner-friendly guide to launching your first cluster and getting your apps up and running.](https://dev.to/stellaacharoiro/ready-to-learn-kubernetes-but-not-sure-where-to-start-check-out-my-latest-article-how-to-set-15nh)
+- [What is LLM Orchestration?](https://dev.to/voltagent/what-is-llm-orchestration-1b5e)
+- [Set Theory for Developers](https://dev.to/csprimer/set-theory-for-developers-1b14)
+- [Sentinel Nexus: AI-Powered Threat Intelligence Platform](https://dev.to/collynce/sentinel-nexus-ai-powered-threat-intelligence-platform-1ibj)
+- [How to Build an AI-Powered Portfolio Analyzer Using LangGraph and LangChain &lpar;Step-by-Step Guide&rpar;](https://dev.to/ritahchanger/build-a-portfolio-analysis-agent-with-ai-a-guide-using-langgraph-56h8)
+- [Mastering Dependency Injection: Effective Ways to Inject Dependencies in C#](https://dev.to/jitenshahani/mastering-dependency-injection-effective-ways-to-inject-dependencies-in-c-n5j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
