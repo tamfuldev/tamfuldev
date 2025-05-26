@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Run Data Exchange?](https://dev.to/guisell_urbina_74e3c24732/how-to-run-data-exchange-2b1h)
-- [7 Practical Tips to Improve Your IT Asset Lifecycle Management Processes](https://dev.to/jennifer_sui_devsamurai/7-practical-tips-to-improve-your-it-asset-lifecycle-management-processes-19bf)
-- [A beginner&#39;s guide to the Cosyvoice model by Jichengdu on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-cosyvoice-model-by-jichengdu-on-replicate-ci0)
-- [My AI Agent Learning Kickoff : Day 0](https://dev.to/distalx/my-ai-agent-learning-kickoff-day-0-1a2i)
-- [We Couldn’t Find Free Business APIs to Prototype With — So We Built Them](https://dev.to/lonti-davidb/we-couldnt-find-free-business-apis-to-prototype-with-so-we-built-them-13e8)
+- [The Software Industry is &quot;Cooked&quot; !](https://dev.to/dehemi_fabio/the-software-industry-is-cooked--f7p)
+- [🔐 Top 10 Cybersecurity Myths You Should Stop Believing](https://dev.to/ivocreates/top-10-cybersecurity-myths-you-should-stop-believing-28n)
+- [Copilot Agent: Glorified Code Monkey in a VM](https://dev.to/ghostking314/copilot-agent-glorified-code-monkey-in-a-vm-e14)
+- [We Asked DeepSeek to Rank Free WAFs — Here&#39;s What It Said](https://dev.to/sharon_42e16b8da44dabde6d/we-asked-deepseek-to-rank-free-wafs-heres-what-it-said-48ao)
+- [Converting JSON Data to Tabular in Snowflake — From SQL to SPL #32](https://dev.to/judith677/converting-json-data-to-tabular-in-snowflake-from-sql-to-spl-32-49ik)
 <!-- BLOG-POST-LIST:END -->
 
 ---
