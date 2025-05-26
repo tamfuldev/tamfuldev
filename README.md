@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [📞 Integrating Twilio into your project: Part 1 - Creating your account](https://dev.to/nicolasmontielf/integrating-twilio-into-your-project-part-1-creating-your-account-1oof)
-- [What Is a Case Class in Scala and Why Is It Useful?](https://dev.to/puratabla/what-is-a-case-class-in-scala-and-why-is-it-useful-2b3o)
-- [InboxHire – AI-Powered Job Application Tracker Using Emails + Postmark](https://dev.to/shivamkapasia0/inboxhire-ai-powered-job-application-tracker-using-emails-postmark-5cg4)
-- [Shrimp Task Manager Research Mode Is Live: Equipping AI with Real Technical Research Capabilities](https://dev.to/siage/shrimp-task-manager-research-mode-is-live-equipping-ai-with-real-technical-research-capabilities-52ol)
-- [Introducing tsc.run: The Serverless TypeScript Framework](https://dev.to/mrbenosborne/introducing-tscrun-the-serverless-typescript-framework-280n)
+- [I built a WhatsApp Web UI Clone](https://dev.to/soorajsnblaze333/i-built-a-whatsapp-web-ui-clone-2723)
+- [Apple Ordered to Allow Crypto Payments &amp; NFT Links in iOS Apps After Court Ruling](https://dev.to/dextrapps/apple-ordered-to-allow-crypto-payments-nft-links-in-ios-apps-after-court-ruling-3043)
+- [Setting Up Row-Level Security in Supabase User and Admin](https://dev.to/shahidkhans/setting-up-row-level-security-in-supabase-user-and-admin-2ac1)
+- [AWS Solutions Architect Associate](https://dev.to/kuljotbiring/aws-solutions-architect-associate-22m7)
+- [PostgreSQL: Dominando os Fundamentos da Administração de Banco de Dados](https://dev.to/marcosfernandesdev/postgresql-dominando-os-fundamentos-da-administracao-de-banco-de-dados-5454)
 <!-- BLOG-POST-LIST:END -->
 
 ---
