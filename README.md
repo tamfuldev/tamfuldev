@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built a WhatsApp Web UI Clone](https://dev.to/soorajsnblaze333/i-built-a-whatsapp-web-ui-clone-2723)
-- [Apple Ordered to Allow Crypto Payments &amp; NFT Links in iOS Apps After Court Ruling](https://dev.to/dextrapps/apple-ordered-to-allow-crypto-payments-nft-links-in-ios-apps-after-court-ruling-3043)
-- [Setting Up Row-Level Security in Supabase User and Admin](https://dev.to/shahidkhans/setting-up-row-level-security-in-supabase-user-and-admin-2ac1)
-- [AWS Solutions Architect Associate](https://dev.to/kuljotbiring/aws-solutions-architect-associate-22m7)
-- [PostgreSQL: Dominando os Fundamentos da Administração de Banco de Dados](https://dev.to/marcosfernandesdev/postgresql-dominando-os-fundamentos-da-administracao-de-banco-de-dados-5454)
+- [Making AI Less of a Black Box: The Basics of Explainable AI](https://dev.to/rawveg/making-ai-less-of-a-black-box-the-basics-of-explainable-ai-4lnh)
+- [Why software projects fail.](https://dev.to/fjzavala21/why-software-projects-fail-2gla)
+- [Void + Ollama + LLMs: How I Turned My Code Editor into a Full-Blown AI Workbench](https://dev.to/nodeshiftcloud/void-ollama-llms-how-i-turned-my-code-editor-into-a-full-blown-ai-workbench-eop)
+- [Using Copilot agent in Visual Studio](https://dev.to/karenpayneoregon/using-copilot-agent-in-visual-studio-16nb)
+- [Social Media Widgets and Privacy](https://dev.to/alvaromontoro/social-media-widgets-and-privacy-3mje)
 <!-- BLOG-POST-LIST:END -->
 
 ---
