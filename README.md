@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Making AI Less of a Black Box: The Basics of Explainable AI](https://dev.to/rawveg/making-ai-less-of-a-black-box-the-basics-of-explainable-ai-4lnh)
-- [Why software projects fail.](https://dev.to/fjzavala21/why-software-projects-fail-2gla)
-- [Void + Ollama + LLMs: How I Turned My Code Editor into a Full-Blown AI Workbench](https://dev.to/nodeshiftcloud/void-ollama-llms-how-i-turned-my-code-editor-into-a-full-blown-ai-workbench-eop)
-- [Using Copilot agent in Visual Studio](https://dev.to/karenpayneoregon/using-copilot-agent-in-visual-studio-16nb)
-- [Social Media Widgets and Privacy](https://dev.to/alvaromontoro/social-media-widgets-and-privacy-3mje)
+- [Advanced Use of Symbol.toStringTag for Custom Objects](https://dev.to/omriluz1/advanced-use-of-symboltostringtag-for-custom-objects-5gja)
+- [🐍 𝗣𝘆𝘁𝗵𝗼𝗻: 𝗕𝘂𝗶𝗹𝘁 𝗳𝗼𝗿 𝗦𝗽𝗲𝗲𝗱 𝗼𝗳 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁, 𝗡𝗼𝘁 𝗘𝘅𝗲𝗰𝘂𝘁𝗶𝗼𝗻](https://dev.to/justin_morales_225c97a732/--546p)
+- [Mustiolo: A Python library for creating CLI applications.](https://dev.to/cereal84/mustiolo-a-python-library-for-creating-cli-applications-33og)
+- [Sharding Demystified](https://dev.to/hellonehha/sharding-demystified-3cl9)
+- [PostmarkGBA: A working GBA emulator running through Postmark](https://dev.to/rensieeee/postmarkgba-a-working-gba-emulator-running-through-postmark-oj2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
