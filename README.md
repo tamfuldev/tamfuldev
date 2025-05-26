@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Got an app idea? Build your MVP in 30 days without burning your budget.](https://dev.to/beitroot/got-an-app-idea-build-your-mvp-in-30-days-without-burning-your-budget-596j)
-- [Looking at c#&#39;s Task&lt;IEnumerable&lt;T&gt;&gt;](https://dev.to/dampee/looking-at-cs-taskienumerable-14ph)
-- [🚀🚀](https://dev.to/borba/-4g0e)
-- [[Boost]](https://dev.to/elldora/-gbp)
-- [Google Cloud Summit Benelux was 🤩](https://dev.to/googleworkspace/google-cloud-summit-benelux-was-440j)
+- [[Boost]](https://dev.to/espoir/-184e)
+- [Build an API on a Docker image that is less than 20 MB](https://dev.to/rhonalchirinos/build-an-api-on-a-docker-image-that-is-less-than-20-mb-4ngb)
+- [MicroPython for Motion Sensors in Fence Security Systems](https://dev.to/karen_londres/micropython-for-motion-sensors-in-fence-security-systems-1093)
+- [Digital Elevation Models &lpar;DEMs&rpar;: Applications in Flood Risk Assessment and Management](https://dev.to/bhaveshsattavan/digital-elevation-models-dems-applications-in-flood-risk-assessment-and-management-5h29)
+- [Data Quest &lpar;0&rpar; Introduction](https://dev.to/jholic/data-quest-0-introduction-1dp1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
