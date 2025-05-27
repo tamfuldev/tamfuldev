@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What Is a WAF? A Beginner’s Guide to Web App Firewalls](https://dev.to/sharon_42e16b8da44dabde6d/what-is-a-waf-a-beginners-guide-to-web-app-firewalls-4g9f)
-- [Git clean local branches](https://dev.to/bdavidxyz/git-clean-local-branches-14c7)
-- [useCallback in React: Memoizing Functions to Prevent Re-Creation](https://dev.to/devshefali/usecallback-in-react-memoizing-functions-to-prevent-re-creation-38bc)
-- [ChatGPT-4 vs Gemini 2.5: Which AI Powerhouse Will Rule 2025?](https://dev.to/jane_watson_c27fd17f03341/chatgpt-4-vs-gemini-25-which-ai-powerhouse-will-rule-2025-2bmf)
-- [Independent Development Tools Bimonthly Issue 001](https://dev.to/immerse/independent-development-tools-bimonthly-issue-001-3md0)
+- [Library Vs Framework](https://dev.to/sudhakar_v_c404997aeec839/library-vs-framework-mib)
+- [J1SE &lpar;Java 1 Standard Edition&rpar; VS J2EE &lpar;Java 2 Enterprise Edition&rpar;](https://dev.to/sudhakar_v_c404997aeec839/j1se-java-1-standard-edition-vs-j2ee-java-2-enterprise-edition-41ae)
+- [What is home healthcare scheduling software? &lpar;Simple But Powerful&rpar;](https://dev.to/agmaitech/what-is-home-healthcare-scheduling-software-simple-but-powerful-3hmp)
+- [[How to Build an AITuber] How to Fetch Viewer Comments from YouTube and Twitch](https://dev.to/shinshin86/how-to-build-an-aituber-how-to-fetch-viewer-comments-from-youtube-and-twitch-1p6a)
+- [Validating VAT numbers in Laravel - Package In Review: burtds/laravel-vatnumber-checker](https://dev.to/burtds/validating-vat-numbers-in-laravel-package-in-review-burtdslaravel-vatnumber-checker-f55)
 <!-- BLOG-POST-LIST:END -->
 
 ---
