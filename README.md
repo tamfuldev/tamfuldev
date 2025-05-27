@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🛠 Maven vs Gradle vs Apache Ant — Which Java Build Tool Should You Use?](https://dev.to/matin676/maven-vs-gradle-vs-apache-ant-which-java-build-tool-should-you-use-4phl)
-- [Magnetic Glow Cards](https://dev.to/preetha_vaishnavi_2b82358/magnetic-glow-cards-4a4l)
-- [Learning Amazon EventBridge - Notes by Archies Gurav](https://dev.to/rcheeez/learning-amazon-eventbridge-notes-by-archies-gurav-1cpp)
-- [Debugging Docker? You’re Probably Missing This Hidden Gem](https://dev.to/noushad_hasan_4be85cd12d6/debugging-docker-youre-probably-missing-this-hidden-gem-17e)
-- [100DaysOfCode — Day 26](https://dev.to/jobkroongit/100daysofcode-day-26-3k5n)
+- [What Is a WAF? A Beginner’s Guide to Web App Firewalls](https://dev.to/sharon_42e16b8da44dabde6d/what-is-a-waf-a-beginners-guide-to-web-app-firewalls-4g9f)
+- [Git clean local branches](https://dev.to/bdavidxyz/git-clean-local-branches-14c7)
+- [useCallback in React: Memoizing Functions to Prevent Re-Creation](https://dev.to/devshefali/usecallback-in-react-memoizing-functions-to-prevent-re-creation-38bc)
+- [ChatGPT-4 vs Gemini 2.5: Which AI Powerhouse Will Rule 2025?](https://dev.to/jane_watson_c27fd17f03341/chatgpt-4-vs-gemini-25-which-ai-powerhouse-will-rule-2025-2bmf)
+- [Independent Development Tools Bimonthly Issue 001](https://dev.to/immerse/independent-development-tools-bimonthly-issue-001-3md0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
