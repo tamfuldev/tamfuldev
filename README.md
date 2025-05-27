@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Fired Accountant to Future Cloud Engineer](https://dev.to/jabulani_meki_a537563a784/from-fired-accountant-to-future-cloud-engineer-55ob)
-- [Como o Agile Mata a Paixão do Programador](https://dev.to/ghostinit0x/como-o-agile-mata-a-paixao-do-programador-3e2c)
-- [We’re Building an AI Labeling Platform in Public — Join the Journey](https://dev.to/teeshine/were-building-an-ai-labeling-platform-in-public-join-the-journey-1958)
-- [From Screenshot to Figma: How Codia AI Makes Design Conversion Effortless](https://dev.to/atforeveryoung/from-screenshot-to-figma-how-codia-ai-makes-design-conversion-effortless-1m3)
-- [Backend Developer – Firebase, Google Cloud, LangFlow, Python](https://dev.to/sergio_proao_6b7e6865945/backend-developer-firebase-google-cloud-langflow-python-20a3)
+- [Optimizing Struct Layout and Padding in Practice](https://dev.to/buarki/optimizing-struct-layout-and-padding-in-practice-23p1)
+- [Hostel Stress](https://dev.to/techpepson/hostel-stress-12m7)
+- [📦WebSocket Broadcasting with hyperlane](https://dev.to/_95e41982c9ad08a13458d/websocket-broadcasting-with-hyperlane-44ko)
+- [Day 16/200 &lpar;Full stack&rpar;](https://dev.to/munin-1/day-16200-full-stack-395i)
+- [🚀 Revolutionizing Precision The Power of Hysteresis Technology in Modern Motor Testing Systems 🌟](https://dev.to/musclespot02/revolutionizing-precision-the-power-of-hysteresis-technology-in-modern-motor-testing-systems-52k0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
