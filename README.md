@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up CI/CD for Your Django App Using GitHub Actions and Systemd](https://dev.to/msnmongare/how-to-set-up-cicd-for-your-django-app-using-github-actions-and-systemd-2cob)
-- [Step-by-Step: Generate SSH Key Pair for CI/CD](https://dev.to/msnmongare/step-by-step-generate-ssh-key-pair-for-cicd-2922)
-- [Keycloak MCP: Simplifying Keycloak Management Through Model Context Protocol](https://dev.to/haithamoumer/keycloak-mcp-simplifying-keycloak-management-through-model-context-protocol-18bh)
-- [MarketMail](https://dev.to/cank256/marketmail-1hl4)
-- [Introducing dearme.email](https://dev.to/koaning/introducing-dearmeemail-3480)
+- [Guarding the Gates](https://dev.to/rawveg/guarding-the-gates-fd1)
+- [This linear-time triangle-finding algorithm will imply subquadratic solutions for many 3SUM-hard problems, as triangle detection is 3SUM-hard and reductions preserve time complexity under plausible conjectures.](https://dev.to/frank_vega_987689489099bf/this-linear-time-triangle-finding-algorithm-will-imply-subquadratic-solutions-for-many-3sum-hard-2d72)
+- [Sell Yourself as a Developer: Creating a Personal Brand That Stands Out](https://dev.to/grantwatsondev/sell-yourself-as-a-developer-creating-a-personal-brand-that-stands-out-mmf)
+- [Artificial General Intelligence: 6 Definitions, 6 Perspectives, 6 Predictions](https://dev.to/boris_burakovski_c7420552/artificial-general-intelligence-6-definitions-6-perspectives-6-predictions-1731)
+- [AI Marketing: Revolutionizing the Digital Landscape with Artificial Intelligence](https://dev.to/marketmediama_team/ai-marketing-revolutionizing-the-digital-landscape-with-artificial-intelligence-4agg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
