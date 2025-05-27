@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🌍 WorldExplorer Developer Guide: Mastering Global Country Data Fetching](https://dev.to/fonyuygita/worldexplorer-developer-guide-mastering-global-country-data-fetching-5655)
-- [Prompt Injection: A New Frontier in Generative AI Security Challenges](https://dev.to/brayanarrieta/prompt-injection-a-new-frontier-in-generative-ai-security-challenges-3e1b)
-- [Understanding the @Configuration Annotation in Spring](https://dev.to/tiuwill/understanding-the-configuration-annotation-in-spring-25ne)
-- [How to Work with Clients as a Web Developer: The Essential Guide](https://dev.to/hlnb/how-to-work-with-clients-as-a-web-developer-the-essential-guide-nok)
-- [Clean Architecture for Enterprise Applications: A Practical Guide from the Trenches](https://dev.to/rayson_lawrencedsouza_54/clean-architecture-for-enterprise-applications-a-practical-guide-from-the-trenches-3ii0)
+- [📲 Integrating Twilio into your project: Part 2 - Setting up the Sandbox and Handling Webhooks](https://dev.to/nicolasmontielf/integrating-twilio-into-your-project-part-2-setting-up-the-sandbox-and-handling-webhooks-j02)
+- [Architecture: Document architecture in a way that everyone understands](https://dev.to/nikita_rykhlov/architecture-document-architecture-in-a-way-that-everyone-understands-16dp)
+- [Real-Time Data Without WebSocket Overhead](https://dev.to/lovestaco/real-time-data-without-websocket-overhead-3h5j)
+- [The Cleanest Way to Add Optional Properties in JavaScript](https://dev.to/tlorent/the-cleanest-way-to-add-optional-properties-in-javascript-45ol)
+- [[Boost]](https://dev.to/thegranduke/-3534)
 <!-- BLOG-POST-LIST:END -->
 
 ---
