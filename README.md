@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Struct Layout and Padding in Practice](https://dev.to/buarki/optimizing-struct-layout-and-padding-in-practice-23p1)
-- [Hostel Stress](https://dev.to/techpepson/hostel-stress-12m7)
-- [📦WebSocket Broadcasting with hyperlane](https://dev.to/_95e41982c9ad08a13458d/websocket-broadcasting-with-hyperlane-44ko)
-- [Day 16/200 &lpar;Full stack&rpar;](https://dev.to/munin-1/day-16200-full-stack-395i)
-- [🚀 Revolutionizing Precision The Power of Hysteresis Technology in Modern Motor Testing Systems 🌟](https://dev.to/musclespot02/revolutionizing-precision-the-power-of-hysteresis-technology-in-modern-motor-testing-systems-52k0)
+- [💼✨ A blog to boost your skills &amp; land your dream job—fast!](https://dev.to/lokesh_singh/a-blog-to-boost-your-skills-land-your-dream-job-fast-23dd)
+- [🚀 10 Proven Ways to Land Your Dream Job or Internship in 2025 💼](https://dev.to/lokesh_singh/10-proven-ways-to-land-your-dream-job-or-internship-in-2025-17p5)
+- [I had a lot of fun over the long weekend putting this together! I think it can be a valuable tool for teachers, freelancers, and anyone who routinely receives email attachments they could better manage from their Google Drive.](https://dev.to/mrmemory/i-had-a-lot-of-fun-over-the-long-weekend-putting-this-together-i-think-it-can-be-a-valuable-tool-1nh9)
+- [What Is a Reverse Proxy? A Developer-Friendly Guide](https://dev.to/sharon_42e16b8da44dabde6d/what-is-a-reverse-proxy-a-developer-friendly-guide-o4p)
+- [Mengenal Tipe SSH Key dan Cara Membuatnya](https://dev.to/naandan/mengenal-tipe-ssh-key-dan-cara-membuatnya-47ek)
 <!-- BLOG-POST-LIST:END -->
 
 ---
