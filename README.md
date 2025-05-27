@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing FastAPI from Scratch Using Only Pure Python](https://dev.to/leapcell/implementing-fastapi-from-scratch-using-only-pure-python-ni)
-- [CozyCommerce: A FullStack self-hosted eCommerce Solution](https://dev.to/vinishbhaskar/cozycommerce-fullstack-ecommerce-solution-4l10)
-- [📜The Evolution of Artificial Intelligence: From Ancient Dreams to Modern Reality](https://dev.to/furqanahmadrao/the-evolution-of-artificial-intelligence-from-ancient-dreams-to-modern-reality-26b8)
-- [Spring Annotations vs Node.js Decorators: A Cross-Stack Developer’s Guide](https://dev.to/haraf/spring-annotations-vs-nodejs-decorators-a-cross-stack-developers-guide-4n4b)
-- [Modern Neovim: Lua, LSP, and Lightning-Fast Productivity](https://dev.to/goutham8400/modern-neovim-lua-lsp-and-lightning-fast-productivity-1f7f)
+- [🛠 Maven vs Gradle vs Apache Ant — Which Java Build Tool Should You Use?](https://dev.to/matin676/maven-vs-gradle-vs-apache-ant-which-java-build-tool-should-you-use-4phl)
+- [Magnetic Glow Cards](https://dev.to/preetha_vaishnavi_2b82358/magnetic-glow-cards-4a4l)
+- [Learning Amazon EventBridge - Notes by Archies Gurav](https://dev.to/rcheeez/learning-amazon-eventbridge-notes-by-archies-gurav-1cpp)
+- [Debugging Docker? You’re Probably Missing This Hidden Gem](https://dev.to/noushad_hasan_4be85cd12d6/debugging-docker-youre-probably-missing-this-hidden-gem-17e)
+- [100DaysOfCode — Day 26](https://dev.to/jobkroongit/100daysofcode-day-26-3k5n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
