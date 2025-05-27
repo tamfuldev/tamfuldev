@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Entelligence.ai: Elevating Code Reviews with Full Codebase Understanding](https://dev.to/pullflow/entelligenceai-elevating-code-reviews-with-full-codebase-understanding-2d6b)
-- [10 Node.js 24 features you’re probably not using](https://dev.to/logrocket/10-nodejs-24-features-youre-probably-not-using-2a29)
-- [Why the RED KOMODO-X Is the Ultimate Camera for Modern Filmmakers](https://dev.to/scheimpflugg/why-the-red-komodo-x-is-the-ultimate-camera-for-modern-filmmakers-cfl)
-- [Proper setup for a MiniScript GitHub repo](https://dev.to/joestrout/proper-setup-for-a-miniscript-github-repo-4ian)
-- [Automating Gates with Python and Raspberry Pi: A Smart Security Upgrade](https://dev.to/karen_londres/automating-gates-with-python-and-raspberry-pi-a-smart-security-upgrade-doh)
+- [🌍 WorldExplorer Developer Guide: Mastering Global Country Data Fetching](https://dev.to/fonyuygita/worldexplorer-developer-guide-mastering-global-country-data-fetching-5655)
+- [Prompt Injection: A New Frontier in Generative AI Security Challenges](https://dev.to/brayanarrieta/prompt-injection-a-new-frontier-in-generative-ai-security-challenges-3e1b)
+- [Understanding the @Configuration Annotation in Spring](https://dev.to/tiuwill/understanding-the-configuration-annotation-in-spring-25ne)
+- [How to Work with Clients as a Web Developer: The Essential Guide](https://dev.to/hlnb/how-to-work-with-clients-as-a-web-developer-the-essential-guide-nok)
+- [Clean Architecture for Enterprise Applications: A Practical Guide from the Trenches](https://dev.to/rayson_lawrencedsouza_54/clean-architecture-for-enterprise-applications-a-practical-guide-from-the-trenches-3ii0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
