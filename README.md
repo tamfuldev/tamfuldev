@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [.NET 10 Features You Should Be Using Now](https://dev.to/nikhilworkflow/net-10-features-you-should-be-using-now-5jd)
-- [Amazon Aurora DSQL is GA](https://dev.to/vijaykodam/amazon-aurora-dsql-is-ga-4bp8)
-- [⚙️ DevOps — Explained Like You’re 5 &lpar;But Smarter&rpar;](https://dev.to/itsaryanchauhan/devops-explained-like-youre-5-but-smarter-2c63)
-- [O Poder do SOLID: Desmistificando e construindo componentes com React e Typescript](https://dev.to/marcusmaialima/o-poder-do-solid-desmistificando-e-construindo-componentes-com-react-e-typescript-3m0m)
-- [Android launch pad!!](https://dev.to/truezerox/android-launch-pad-2pnj)
+- [How to Set Up CI/CD for Your Django App Using GitHub Actions and Systemd](https://dev.to/msnmongare/how-to-set-up-cicd-for-your-django-app-using-github-actions-and-systemd-2cob)
+- [Step-by-Step: Generate SSH Key Pair for CI/CD](https://dev.to/msnmongare/step-by-step-generate-ssh-key-pair-for-cicd-2922)
+- [Keycloak MCP: Simplifying Keycloak Management Through Model Context Protocol](https://dev.to/haithamoumer/keycloak-mcp-simplifying-keycloak-management-through-model-context-protocol-18bh)
+- [MarketMail](https://dev.to/cank256/marketmail-1hl4)
+- [Introducing dearme.email](https://dev.to/koaning/introducing-dearmeemail-3480)
 <!-- BLOG-POST-LIST:END -->
 
 ---
