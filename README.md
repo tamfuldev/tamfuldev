@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/farlamo/-1kee)
-- [Introduction to PostgreSQL](https://dev.to/farlamo/introduction-to-postgresql-3cp4)
-- [The Art of Automation in Modern Engineering](https://dev.to/nigel10122/the-art-of-automation-in-modern-engineering-27f8)
-- [Reinventando a Roda: Criando um compilador em csharp - Parte 2](https://dev.to/angelobelchior/reinventando-a-roda-criando-um-compilador-em-csharp-parte-2-2jmi)
-- [Controlling Chrome with an AnythingLLM MCP Agent](https://dev.to/drunnells/controlling-chrome-with-an-anythingllm-mcp-agent-5891)
+- [From Fired Accountant to Future Cloud Engineer](https://dev.to/jabulani_meki_a537563a784/from-fired-accountant-to-future-cloud-engineer-55ob)
+- [Como o Agile Mata a Paixão do Programador](https://dev.to/ghostinit0x/como-o-agile-mata-a-paixao-do-programador-3e2c)
+- [We’re Building an AI Labeling Platform in Public — Join the Journey](https://dev.to/teeshine/were-building-an-ai-labeling-platform-in-public-join-the-journey-1958)
+- [From Screenshot to Figma: How Codia AI Makes Design Conversion Effortless](https://dev.to/atforeveryoung/from-screenshot-to-figma-how-codia-ai-makes-design-conversion-effortless-1m3)
+- [Backend Developer – Firebase, Google Cloud, LangFlow, Python](https://dev.to/sergio_proao_6b7e6865945/backend-developer-firebase-google-cloud-langflow-python-20a3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
