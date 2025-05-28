@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Handling X -&gt; Y -&gt; X Relationships in Rails](https://dev.to/mdchaney/handling-x-y-x-relationships-in-rails-16k0)
-- [Your PostgreSQL Command Cheat Sheet &lpar;But Way More Useful!&rpar;](https://dev.to/jing_li/your-postgresql-command-cheat-sheet-but-way-more-useful-20o7)
-- [Try DeepWiki MCP Server with MCP Clients](https://dev.to/0xkoji/try-deepwiki-mcp-server-with-mcp-clients-390c)
-- [Ensuring Data Consistency Across Microservices: Herding Cats with Saga &amp; Transactional Outbox](https://dev.to/haydencordeiro/ensuring-data-consistency-across-microservices-herding-cats-with-saga-outbox-3mhe)
-- [Svelte framework - high-performance front-end framework optimized at compile time](https://dev.to/tianyaschool/svelte-framework-high-performance-front-end-framework-optimized-at-compile-time-4g5a)
+- [The Best Side Hustles 2025: Unlock Your Earning Potential](https://dev.to/william_clark_7427c126834/the-best-side-hustles-2025-unlock-your-earning-potential-3nb5)
+- [Bots Hate It: How This Free WAF Stopped 98% of Crawlers](https://dev.to/sharon_42e16b8da44dabde6d/bots-hate-it-how-this-free-waf-stopped-98-of-crawlers-153l)
+- [🚀 4 Best Proxy Providers in 2025](https://dev.to/xicheng_li_f56ea6c13217cf/4-best-proxy-providers-in-2025-4hee)
+- [How to Post to DEV.to with Python](https://dev.to/digital-brewers/how-to-post-to-devto-with-python-5c13)
+- [How to Control GPIO on OK3568-C Using libgpiod &lpar;Buildroot Linux 4.19.206&rpar;](https://dev.to/ronnie_r_152dc2151d9449c6/how-to-control-gpio-on-ok3568-c-using-libgpiod-buildroot-linux-419206-41je)
 <!-- BLOG-POST-LIST:END -->
 
 ---
