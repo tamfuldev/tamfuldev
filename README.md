@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Best Side Hustles 2025: Unlock Your Earning Potential](https://dev.to/william_clark_7427c126834/the-best-side-hustles-2025-unlock-your-earning-potential-3nb5)
-- [Bots Hate It: How This Free WAF Stopped 98% of Crawlers](https://dev.to/sharon_42e16b8da44dabde6d/bots-hate-it-how-this-free-waf-stopped-98-of-crawlers-153l)
-- [🚀 4 Best Proxy Providers in 2025](https://dev.to/xicheng_li_f56ea6c13217cf/4-best-proxy-providers-in-2025-4hee)
-- [How to Post to DEV.to with Python](https://dev.to/digital-brewers/how-to-post-to-devto-with-python-5c13)
-- [How to Control GPIO on OK3568-C Using libgpiod &lpar;Buildroot Linux 4.19.206&rpar;](https://dev.to/ronnie_r_152dc2151d9449c6/how-to-control-gpio-on-ok3568-c-using-libgpiod-buildroot-linux-419206-41je)
+- [Welcome Thread - v328](https://dev.to/devteam/welcome-thread-v328-4c1m)
+- [Building an actually secure MCP Server with Fastly Compute](https://dev.to/fastly/building-an-actually-secure-mcp-server-with-fastly-compute-33go)
+- [How to Safely Upgrade SafeLine WAF &lpar;With Backup Steps&rpar;](https://dev.to/sharon_42e16b8da44dabde6d/how-to-safely-upgrade-safeline-waf-with-backup-steps-3bee)
+- [How to Use APIs in Your Applications](https://dev.to/media_geneous_bb80d6b5563/how-to-use-apis-in-your-applications-g5k)
+- [Mitt, a tiny 200b functional event emitter.](https://dev.to/ramunarasinga-11/mitt-a-tiny-200b-functional-event-emitter-3dom)
 <!-- BLOG-POST-LIST:END -->
 
 ---
