@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Article Outline: Data Visualization with Python — Make Interactive Dashboards with Plotly &amp; Dash!!](https://dev.to/nish2005karsh/article-outline-data-visualization-with-python-make-interactive-dashboards-with-plotly-dash-1f07)
-- [Assorted Slush Cells](https://dev.to/preetha_vaishnavi_2b82358/assorted-slush-cells-3g9c)
-- [Learning JavaScript: Local Variables and the DOM](https://dev.to/rajeshwari_rajeshwari_bb6/learning-javascript-local-variables-and-the-dom-1im5)
-- [Parallax Bake Shop Card 🧁✨](https://dev.to/preetha_vaishnavi_2b82358/parallax-bake-shop-card-he)
-- [Sprinklejoy](https://dev.to/preetha_vaishnavi_2b82358/sprinklejoy-29m)
+- [Functional Programming and Erlang Platform](https://dev.to/muzhawir/functional-programming-and-erlang-platform-3051)
+- [Quiz De conhecimento Gerais](https://dev.to/lucas_matheus_469db4af48d/quiz-de-conhecimento-gerais-213n)
+- [ForgeRock vs Keycloak: Choosing the Right IAM Solution for Your Needs](https://dev.to/iamdevbox/forgerock-vs-keycloak-choosing-the-right-iam-solution-for-your-needs-2cb4)
+- [how to create definition step by step](https://dev.to/vuejstest_9d7a4f2fbe7631a/how-to-create-definition-step-by-step-ml1)
+- [A judge forced &#39;Fortnite&#39; to return to iOS, with an assist from Microsoft and Spotify](https://dev.to/gg_news/a-judge-forced-fortnite-to-return-to-ios-with-an-assist-from-microsoft-and-spotify-1oo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
