@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Want GitHub Copilot to code like your team? Customize it with repository instructions and prompt files to boost productivity and consistency—share your best tips below!](https://dev.to/andreagriffiths11/want-github-copilot-to-code-like-your-team-customize-it-with-repository-instructions-and-prompt-p2f)
-- [Boost Your Team&#39;s Productivity with GitHub Copilot Custom Instructions](https://dev.to/andreagriffiths11/boost-your-teams-productivity-with-github-copilot-custom-instructions-17lh)
-- [Elevate your React project to the next level using MSW mocking flow](https://dev.to/perisicnikola37/elevate-your-react-project-to-the-next-level-using-msw-mocking-flow-2490)
-- [Integrating Quill Editor and Image Upload Functionality in a React CMS](https://dev.to/webcraft-notes/integrating-quill-editor-and-image-upload-functionality-in-a-react-cms-28a4)
-- [Why Every Company Needs an Inclusive Language Tool to Foster Workplace Equity](https://dev.to/andrew_morrison_05164d314/why-every-company-needs-an-inclusive-language-tool-to-foster-workplace-equity-739)
+- [How to Install BAGEL by ByteDance: The Vision Language Model That Can Do It All](https://dev.to/nodeshiftcloud/how-to-install-bagel-by-bytedance-the-vision-language-model-that-can-do-it-all-52k0)
+- [Resources for Project Managers: Essential Tools, Websites, and Communities](https://dev.to/isabella_harry_e56dfaa53c/resources-for-project-managers-essential-tools-websites-and-communities-4oo4)
+- [Stochastic Momentum Index &lpar;SMI&rpar; with RSI and MACD for Confirmation](https://dev.to/johnwilson1/stochastic-momentum-index-smi-with-rsi-and-macd-for-confirmation-4hjp)
+- [Top 5 Mistakes Startups Make When Integrating LLMs](https://dev.to/ideausher/top-5-mistakes-startups-make-when-integrating-llms-5779)
+- [Why Every College Student Learning to Code Needs a GitHub Student Developer Pack](https://dev.to/jliter/why-every-college-student-learning-to-code-needs-a-github-student-developer-pack-1nhb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
