@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 The Role of AI in Modern Frontend Development](https://dev.to/hasunnilupul/the-role-of-ai-in-modern-frontend-development-3clg)
-- [Understanding RAG Architecture in Large Language Models: A Complete Guide](https://dev.to/rocks_r_0ecb986bacc30a5f4/understanding-rag-architecture-in-large-language-models-a-complete-guide-38op)
-- [Quick Tip: Use Pydantic to validate data in your Python AI workflows. It ensures your inputs match the expected types at runtime — reducing bugs and making your AI agents more reliable. #python #aiautomation #pydantic](https://dev.to/brains_behind_bots/quick-tip-use-pydantic-to-validate-data-in-your-python-ai-workflows-it-ensures-your-inputs-match-2b05)
-- [🌍🔒 **Local and Global Variables in JavaScript](https://dev.to/sudhakar_v_c404997aeec839/local-and-global-variables-in-javascript-3776)
-- [My first professional portfolio site... 🎉](https://dev.to/kc900201/my-first-professional-portfolio-site-2e67)
+- [HarmonyOS Next struct instance creation full parsing: from constructor to memory management](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-struct-instance-creation-full-parsing-from-constructor-to-memory-management-3ad9)
+- [HarmonyOS Next struct type restrictions and alternative solutions: from recursive ban to memory optimization](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-struct-type-restrictions-and-alternative-solutions-from-recursive-ban-to-memory-n1a)
+- [HarmonyOS Next struct instance creation and memory management in-depth analysis](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-struct-instance-creation-and-memory-management-in-depth-analysis-5dpg)
+- [HarmonyOS Next struct member variable detailed explanation: Collaborative design of instance members and static members](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-struct-member-variable-detailed-explanation-collaborative-design-of-instance-4061)
+- [Meet HTML: The Web’s Silent Architect](https://dev.to/rishabhtpt/meet-html-the-webs-silent-architect-4a33)
 <!-- BLOG-POST-LIST:END -->
 
 ---
