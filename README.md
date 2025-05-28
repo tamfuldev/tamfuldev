@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Guarding the Gates](https://dev.to/rawveg/guarding-the-gates-fd1)
-- [This linear-time triangle-finding algorithm will imply subquadratic solutions for many 3SUM-hard problems, as triangle detection is 3SUM-hard and reductions preserve time complexity under plausible conjectures.](https://dev.to/frank_vega_987689489099bf/this-linear-time-triangle-finding-algorithm-will-imply-subquadratic-solutions-for-many-3sum-hard-2d72)
-- [Sell Yourself as a Developer: Creating a Personal Brand That Stands Out](https://dev.to/grantwatsondev/sell-yourself-as-a-developer-creating-a-personal-brand-that-stands-out-mmf)
-- [Artificial General Intelligence: 6 Definitions, 6 Perspectives, 6 Predictions](https://dev.to/boris_burakovski_c7420552/artificial-general-intelligence-6-definitions-6-perspectives-6-predictions-1731)
-- [AI Marketing: Revolutionizing the Digital Landscape with Artificial Intelligence](https://dev.to/marketmediama_team/ai-marketing-revolutionizing-the-digital-landscape-with-artificial-intelligence-4agg)
+- [List in Python &lpar;3&rpar;](https://dev.to/hyperkai/list-in-python-3-5583)
+- [Google Meet can now translate what you say in real-time](https://dev.to/isaac29/google-meet-can-now-translate-what-you-say-in-real-time-4ig1)
+- [Automate Your Design Process: A Deep Dive into Codia AI&#39;s Capabilities](https://dev.to/atforeveryoung/automate-your-design-process-a-deep-dive-into-codia-ais-capabilities-n6h)
+- [🛰️ DataOps Terminal v2.0 — Real-World AI Ops with Dual Model Intelligence](https://dev.to/ghostking314/dataops-terminal-v20-real-world-ai-ops-with-dual-model-intelligence-p9d)
+- [Full Stack in Progress: My Restarted Journey into Code](https://dev.to/avdevblog/full-stack-in-progress-my-restarted-journey-into-code-id3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
