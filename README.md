@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v328](https://dev.to/devteam/welcome-thread-v328-4c1m)
-- [Building an actually secure MCP Server with Fastly Compute](https://dev.to/fastly/building-an-actually-secure-mcp-server-with-fastly-compute-33go)
-- [How to Safely Upgrade SafeLine WAF &lpar;With Backup Steps&rpar;](https://dev.to/sharon_42e16b8da44dabde6d/how-to-safely-upgrade-safeline-waf-with-backup-steps-3bee)
-- [How to Use APIs in Your Applications](https://dev.to/media_geneous_bb80d6b5563/how-to-use-apis-in-your-applications-g5k)
-- [Mitt, a tiny 200b functional event emitter.](https://dev.to/ramunarasinga-11/mitt-a-tiny-200b-functional-event-emitter-3dom)
+- [🤖 The Role of AI in Modern Frontend Development](https://dev.to/hasunnilupul/the-role-of-ai-in-modern-frontend-development-3clg)
+- [Understanding RAG Architecture in Large Language Models: A Complete Guide](https://dev.to/rocks_r_0ecb986bacc30a5f4/understanding-rag-architecture-in-large-language-models-a-complete-guide-38op)
+- [Quick Tip: Use Pydantic to validate data in your Python AI workflows. It ensures your inputs match the expected types at runtime — reducing bugs and making your AI agents more reliable. #python #aiautomation #pydantic](https://dev.to/brains_behind_bots/quick-tip-use-pydantic-to-validate-data-in-your-python-ai-workflows-it-ensures-your-inputs-match-2b05)
+- [🌍🔒 **Local and Global Variables in JavaScript](https://dev.to/sudhakar_v_c404997aeec839/local-and-global-variables-in-javascript-3776)
+- [My first professional portfolio site... 🎉](https://dev.to/kc900201/my-first-professional-portfolio-site-2e67)
 <!-- BLOG-POST-LIST:END -->
 
 ---
