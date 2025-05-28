@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Functional Programming and Erlang Platform](https://dev.to/muzhawir/functional-programming-and-erlang-platform-3051)
-- [Quiz De conhecimento Gerais](https://dev.to/lucas_matheus_469db4af48d/quiz-de-conhecimento-gerais-213n)
-- [ForgeRock vs Keycloak: Choosing the Right IAM Solution for Your Needs](https://dev.to/iamdevbox/forgerock-vs-keycloak-choosing-the-right-iam-solution-for-your-needs-2cb4)
-- [how to create definition step by step](https://dev.to/vuejstest_9d7a4f2fbe7631a/how-to-create-definition-step-by-step-ml1)
-- [A judge forced &#39;Fortnite&#39; to return to iOS, with an assist from Microsoft and Spotify](https://dev.to/gg_news/a-judge-forced-fortnite-to-return-to-ios-with-an-assist-from-microsoft-and-spotify-1oo)
+- [Melhores práticas de segurança com o GitHub Copilot](https://dev.to/pachicodes/melhores-praticas-de-seguranca-com-o-github-copilot-343n)
+- [Owlcat Games reveals new CRPG Warhammer 40,000: Dark Heresy with official trailer](https://dev.to/gg_news/owlcat-games-reveals-new-crpg-warhammer-40000-dark-heresy-with-official-trailer-2d3e)
+- [OG Star Wars Battlefront devs were asked to make Battlefront 3 in just one year, but Pandemic couldn&#39;t hit LucasArts&#39; timeline](https://dev.to/gg_news/og-star-wars-battlefront-devs-were-asked-to-make-battlefront-3-in-just-one-year-but-pandemic-1lkl)
+- [Baldur&#39;s Gate 3 devs originally went for a truly “cartoony” art style, but I&#39;m glad they didn&#39;t go with it](https://dev.to/gg_news/baldurs-gate-3-devs-originally-went-for-a-truly-cartoony-art-style-but-im-glad-they-didnt-go-5cmo)
+- [‘Elden Ring&#39; Movie in the Works From &#39;Civil War&#39; Director Alex Garland, A24](https://dev.to/gg_news/elden-ring-movie-in-the-works-from-civil-war-director-alex-garland-a24-63k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
