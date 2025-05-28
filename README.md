@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [List in Python &lpar;3&rpar;](https://dev.to/hyperkai/list-in-python-3-5583)
-- [Google Meet can now translate what you say in real-time](https://dev.to/isaac29/google-meet-can-now-translate-what-you-say-in-real-time-4ig1)
-- [Automate Your Design Process: A Deep Dive into Codia AI&#39;s Capabilities](https://dev.to/atforeveryoung/automate-your-design-process-a-deep-dive-into-codia-ais-capabilities-n6h)
-- [🛰️ DataOps Terminal v2.0 — Real-World AI Ops with Dual Model Intelligence](https://dev.to/ghostking314/dataops-terminal-v20-real-world-ai-ops-with-dual-model-intelligence-p9d)
-- [Full Stack in Progress: My Restarted Journey into Code](https://dev.to/avdevblog/full-stack-in-progress-my-restarted-journey-into-code-id3)
+- [Handling X -&gt; Y -&gt; X Relationships in Rails](https://dev.to/mdchaney/handling-x-y-x-relationships-in-rails-16k0)
+- [Your PostgreSQL Command Cheat Sheet &lpar;But Way More Useful!&rpar;](https://dev.to/jing_li/your-postgresql-command-cheat-sheet-but-way-more-useful-20o7)
+- [Try DeepWiki MCP Server with MCP Clients](https://dev.to/0xkoji/try-deepwiki-mcp-server-with-mcp-clients-390c)
+- [Ensuring Data Consistency Across Microservices: Herding Cats with Saga &amp; Transactional Outbox](https://dev.to/haydencordeiro/ensuring-data-consistency-across-microservices-herding-cats-with-saga-outbox-3mhe)
+- [Svelte framework - high-performance front-end framework optimized at compile time](https://dev.to/tianyaschool/svelte-framework-high-performance-front-end-framework-optimized-at-compile-time-4g5a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
