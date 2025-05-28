@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Install BAGEL by ByteDance: The Vision Language Model That Can Do It All](https://dev.to/nodeshiftcloud/how-to-install-bagel-by-bytedance-the-vision-language-model-that-can-do-it-all-52k0)
-- [Resources for Project Managers: Essential Tools, Websites, and Communities](https://dev.to/isabella_harry_e56dfaa53c/resources-for-project-managers-essential-tools-websites-and-communities-4oo4)
-- [Stochastic Momentum Index &lpar;SMI&rpar; with RSI and MACD for Confirmation](https://dev.to/johnwilson1/stochastic-momentum-index-smi-with-rsi-and-macd-for-confirmation-4hjp)
-- [Top 5 Mistakes Startups Make When Integrating LLMs](https://dev.to/ideausher/top-5-mistakes-startups-make-when-integrating-llms-5779)
-- [Why Every College Student Learning to Code Needs a GitHub Student Developer Pack](https://dev.to/jliter/why-every-college-student-learning-to-code-needs-a-github-student-developer-pack-1nhb)
+- [Beyond the Buzzword: What Lakehouse Actually Means for Your Business](https://dev.to/ksanaka/beyond-the-buzzword-what-lakehouse-actually-means-for-your-business-4577)
+- [What are your goals for the week? #128](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-128-4jej)
+- [[Boost]](https://dev.to/jeffdev03/-3900)
+- [[Boost]](https://dev.to/audrey_lopez/-57go)
+- [💣 I Built a Typing Defense Game in Godot: Play “Alpha Bomb” Now! 🚀](https://dev.to/gauravk_/i-built-a-typing-defense-game-in-godot-play-alpha-bomb-now-10a9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
