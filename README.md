@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Securing ASP.NET Core APIs with OAuth2 and OpenID Connect &lpar;2025 Edition&rpar;](https://dev.to/nikhilwagh/securing-aspnet-core-apis-with-oauth2-and-openid-connect-2025-edition-4j1c)
-- [🔥 From O&lpar;n&rpar; to O&lpar;1&rpar;: Smarter Game State for Smarter Code](https://dev.to/taratimmerman/from-on-to-o1-smarter-game-state-for-smarter-code-1fho)
-- [How FundGuard Drastically Improved Our CI with Modest Effort](https://dev.to/fundguard/how-fundguard-drastically-improved-our-ci-with-modest-effort-17jg)
-- [Motivation](https://dev.to/aniruddhaadak_/motivation-2o44)
-- [Don&#39;t Marry Next.js: My Warning from the Trenches](https://dev.to/felipestanzani/dont-marry-nextjs-my-warning-from-the-trenches-2e5d)
+- [Claw Finding Algorithm Using Aegypti](https://dev.to/frank_vega_987689489099bf/claw-finding-algorithm-using-aegypti-2p0k)
+- [Taming the Server Beast: AWS EC2 vs. DigitalOcean vs. Linode for Node.js &lpar;No Ops Nightmares&rpar; 🐉⚡](https://dev.to/alex_aslam/taming-the-server-beast-aws-ec2-vs-digitalocean-vs-linode-for-nodejs-no-ops-nightmares-3897)
+- [Building Cross-Protocol AI Agents with Spring Boot: A2A and MCP Server Guide](https://dev.to/vishalmysore/building-cross-protocol-ai-agents-with-spring-boot-a2a-and-mcp-server-guide-2d71)
+- [Why engineers with strategic plans earn 40% more and get promoted twice as fast](https://dev.to/wgcorrea/why-engineers-with-strategic-plans-earn-40-more-and-get-promoted-twice-as-fast-5an5)
+- [🚀 Introducing K2 — A Blazing Fast Language for the Next Generation](https://dev.to/the_seljuckandotomaned/introducing-k2-a-blazing-fast-language-for-the-next-generation-213m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
