@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Need Help with Career](https://dev.to/mkfrd/need-help-with-career-1l05)
-- [AI Readiness Framework in the Enterprise: Bridging the Gap Between Potential and Practicality](https://dev.to/kapusto/ai-readiness-framework-in-the-enterprise-bridging-the-gap-between-potential-and-practicality-pah)
-- [Activation Functions in Neural Networks — The Real MVPs of Deep Learning](https://dev.to/satyam_gupta/activation-functions-in-neural-networks-the-real-mvps-of-deep-learning-26g6)
-- [Image Processing MCQs](https://dev.to/aniruddhaadak_/image-processing-mcqs-29gn)
-- [Embarking on My DevOps Journey: DevOps or Not](https://dev.to/timiajiboye/embarking-on-my-devops-journey-3fla)
+- [Open-source Quotes webapp](https://dev.to/evalvis/open-source-quotes-webapp-4co0)
+- [🛠️ How I Recovered a Broken AD Trust Network After a Server Rollback](https://dev.to/babsarena/how-i-recovered-a-broken-ad-trust-network-after-a-server-rollback-1in4)
+- [[Boost]](https://dev.to/anthonymax/-288)
+- [Using MutationObservers for Real-Time UI Updates](https://dev.to/omriluz1/using-mutationobservers-for-real-time-ui-updates-348j)
+- [Everything about Generics in Go](https://dev.to/leapcell/everything-about-generics-in-go-4hak)
 <!-- BLOG-POST-LIST:END -->
 
 ---
