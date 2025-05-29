@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel helper for you](https://dev.to/anonymushelper/laravel-helper-for-you-379p)
-- [Why &amp;str is Better Than String in Parameters](https://dev.to/sgchris/why-str-is-better-than-string-in-parameters-4jn0)
-- [Accessing cross account S3 bucket via EC2 instance with assume role](https://dev.to/aws-builders/accessing-cross-account-s3-bucket-via-ec2-instance-with-assume-role-21g3)
-- [🚀 Just Launched AiogramX: Prebuilt Widgets for Telegram Bots Using Aiogram &lpar;Open Source&rpar;](https://dev.to/jzr-supove/just-launched-aiogramx-prebuilt-widgets-for-telegram-bots-using-aiogram-open-source-5h75)
-- [How to Host and Test PMTiles on GitHub Pages — The Easiest Way to Serve Maps Without a Server](https://dev.to/ronitjadhav/how-to-host-and-test-pmtiles-on-github-pages-the-easiest-way-to-serve-maps-without-a-server-2ei8)
+- [The promise that wasn’t kept](https://dev.to/whitep4nth3r/the-promise-that-wasnt-kept-3554)
+- [Beyond Stars and Forks: Why Open Source Needs Better Collaboration Metrics](https://dev.to/bekahhw/beyond-stars-and-forks-why-open-source-needs-better-collaboration-metrics-hla)
+- [🎉I tried to create a platform like DEV in Next.js 15](https://dev.to/chaoocharles/i-tried-to-create-a-platform-like-dev-in-nextjs-15-2abi)
+- [OG Star Wars Battlefront devs were asked to make Battlefront 3 in just one year, but Pandemic couldn&#39;t hit LucasArts&#39; timeline](https://dev.to/gg_news/og-star-wars-battlefront-devs-were-asked-to-make-battlefront-3-in-just-one-year-but-pandemic-3a4)
+- [Persona 4 Remake Is Apparently Happening, As Voice Actor Confirms He&#39;s Not Coming Back For It](https://dev.to/gg_news/persona-4-remake-is-apparently-happening-as-voice-actor-confirms-hes-not-coming-back-for-it-297)
 <!-- BLOG-POST-LIST:END -->
 
 ---
