@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Zero to Production: Vibe-Coding an App and Scaling it on AWS](https://dev.to/karaniph/zero-to-production-vibe-coding-an-app-and-scaling-it-on-aws-47p2)
-- [Sapient HR: Transforming How Businesses Manage Talent](https://dev.to/amberava/sapient-hr-transforming-how-businesses-manage-talent-1a0k)
-- [Microfrontends in 2025: A Reality Check from the Trenches](https://dev.to/vitalii_petrenko_dev/microfrontends-in-2025-a-reality-check-from-the-trenches-1nj2)
-- [10 Genius Python Tricks Every Beginner Should Be Using](https://dev.to/niveshbansal07/10-genius-python-tricks-every-beginner-should-be-using-36io)
-- [Cybersecurity Tips for Users](https://dev.to/bridgegroupsolutions/cybersecurity-tips-for-users-24pf)
+- [Laravel helper for you](https://dev.to/anonymushelper/laravel-helper-for-you-379p)
+- [Why &amp;str is Better Than String in Parameters](https://dev.to/sgchris/why-str-is-better-than-string-in-parameters-4jn0)
+- [Accessing cross account S3 bucket via EC2 instance with assume role](https://dev.to/aws-builders/accessing-cross-account-s3-bucket-via-ec2-instance-with-assume-role-21g3)
+- [🚀 Just Launched AiogramX: Prebuilt Widgets for Telegram Bots Using Aiogram &lpar;Open Source&rpar;](https://dev.to/jzr-supove/just-launched-aiogramx-prebuilt-widgets-for-telegram-bots-using-aiogram-open-source-5h75)
+- [How to Host and Test PMTiles on GitHub Pages — The Easiest Way to Serve Maps Without a Server](https://dev.to/ronitjadhav/how-to-host-and-test-pmtiles-on-github-pages-the-easiest-way-to-serve-maps-without-a-server-2ei8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
