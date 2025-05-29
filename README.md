@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built a JSON AST Interpreter — write &amp; run programs in pure JSON!](https://dev.to/xzdes/i-built-a-json-ast-interpreter-write-run-programs-in-pure-json-1hm6)
-- [Teams that manage Tech Debt well do this](https://dev.to/andrewkelly/teams-that-manage-tech-debt-well-do-this-ck5)
-- [Black Box Testing vs White Box Testing: A Complete Guide](https://dev.to/morrismoses149/black-box-testing-vs-white-box-testing-a-complete-guide-1g2o)
-- [Understanding Template Literals and the DOM in JavaScript](https://dev.to/elayaraj31/understanding-template-literals-and-the-dom-in-javascript-4n4e)
-- [Are You Actually Making Money From Each Customer?](https://dev.to/shayy/are-you-actually-making-money-from-each-customer-13li)
+- [Building Clean Data Pipelines in Angular - Performance Best Practices](https://dev.to/er1cak/building-clean-data-pipelines-in-angular-performance-best-practices-582l)
+- [I Learned Today-Understanding null and undefined in JavaScript,Template Literals.](https://dev.to/mukilaperiyasamy/i-learned-today-understanding-null-and-undefined-in-javascripttemplate-literals-58n2)
+- [$9,000 per minute: That’s the average cost of downtime](https://dev.to/gatling/9000-per-minute-thats-the-average-cost-of-downtime-3ef9)
+- [Getting Comfortable with Terraform: Infrastructure as Code &lpar;IAC&rpar;](https://dev.to/tai_ck_dev/getting-comfortable-with-terraform-infrastructure-as-code-iac-4hkk)
+- [My AWS Bill Gave Me Heartburn😖](https://dev.to/aws-builders/my-aws-bill-gave-me-heartburn-117h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
