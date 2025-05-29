@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Import SVG as React Component](https://dev.to/vrauuss-softwares/how-to-import-svg-as-react-component-4797)
-- [scheduleFlushToURL function in `nuqs` source code.](https://dev.to/ramunarasinga-11/scheduleflushtourl-function-in-nuqs-source-code-1e9j)
-- [Exploring Gemini 2.5 Pro: A Look at Google&#39;s Latest AI Model](https://dev.to/fallon_jimmy/exploring-gemini-25-pro-a-look-at-googles-latest-ai-model-3bi2)
-- [Create Custom Symbols v2.14: Convert SVG to SF Symbols for use in Xcode &lpar;UIKit/SwiftUI&rpar;.](https://dev.to/jaywcjlove/create-custom-symbols-v214-convert-svg-to-sf-symbols-for-use-in-xcode-uikitswiftui-22c2)
-- [Day 5 &lpar;interface &rpar;](https://dev.to/ranjith_ranjith_/day-5-interface--4inl)
+- [Home Assistant: Light Intensity Sensor APDS-9960](https://dev.to/admantium/home-assistant-light-intensity-sensor-apds-9960-4bn8)
+- [Day 2 - Session 2: JavaScript — DOM, Variables, and Interactivity](https://dev.to/sathish_226_/day-2-session-2-javascript-dom-variables-and-interactivity-1hn2)
+- [Day 2 - Session 1: Building a Product Card with HTML &amp; CSS](https://dev.to/sathish_226_/day-2-session-1-building-a-product-card-with-html-css-2j22)
+- [💡Understanding AI vs Machine Learning vs Deep Learning: A Clear Guide](https://dev.to/furqanahmadrao/understanding-ai-vs-machine-learning-vs-deep-learning-a-clear-guide-4ic3)
+- [An Introduction to Artificial Intelligence for Developers](https://dev.to/media_geneous_bb80d6b5563/an-introduction-to-artificial-intelligence-for-developers-2k61)
 <!-- BLOG-POST-LIST:END -->
 
 ---
