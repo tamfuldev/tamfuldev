@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Clean Data Pipelines in Angular - Performance Best Practices](https://dev.to/er1cak/building-clean-data-pipelines-in-angular-performance-best-practices-582l)
-- [I Learned Today-Understanding null and undefined in JavaScript,Template Literals.](https://dev.to/mukilaperiyasamy/i-learned-today-understanding-null-and-undefined-in-javascripttemplate-literals-58n2)
-- [$9,000 per minute: That’s the average cost of downtime](https://dev.to/gatling/9000-per-minute-thats-the-average-cost-of-downtime-3ef9)
-- [Getting Comfortable with Terraform: Infrastructure as Code &lpar;IAC&rpar;](https://dev.to/tai_ck_dev/getting-comfortable-with-terraform-infrastructure-as-code-iac-4hkk)
-- [My AWS Bill Gave Me Heartburn😖](https://dev.to/aws-builders/my-aws-bill-gave-me-heartburn-117h)
+- [Integrating Langflow into Open WebUI](https://dev.to/jeromek13/integrating-langflow-into-open-webui-2oc6)
+- [7 AI Predictions &lpar;AI, We Really Need To Talk: Part 2&rpar;](https://dev.to/david_whitney/7-ai-predictions-ai-we-really-need-to-talk-part-2-5dnm)
+- [How AI is changing debugging with Google Gemini](https://dev.to/logrocket/how-ai-is-changing-debugging-with-google-gemini-5d9l)
+- [Smart Gaming in Action: The Claw Machine Meets Amazon Q CL:](https://dev.to/mahek_bhagchandani_4864dd/smart-gaming-in-action-the-claw-machine-meets-amazon-q-cl-13mh)
+- [Top 10 Features of RTasks in 2025 You Should Be Using](https://dev.to/ray_parker01/top-10-features-of-rtasks-in-2025-you-should-be-using-1m5d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
