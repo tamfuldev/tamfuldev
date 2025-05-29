@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How AI also save the time in SCHOOL ....!](https://dev.to/mushfiq56/how-ai-also-save-the-time-in-school--11j7)
-- [🧠 You’re Still Asking ChatGPT for Jokes? They’re Using It to Earn \$10K/Month 💸](https://dev.to/er-raj-aryan/youre-still-asking-chatgpt-for-jokes-theyre-using-it-to-earn-10kmonth-21ok)
-- [[Boost]](https://dev.to/ramkumar-m-n/-i7e)
-- [Fix Radeon HD 6400 Series on Ubuntu](https://dev.to/kholis/fix-radeon-hd-6400-series-on-ubuntu-3idb)
-- [Day 17&amp;18/200 &lpar;Full stack&rpar;](https://dev.to/munin-1/day-1718200-full-stack-4fha)
+- [How to Import SVG as React Component](https://dev.to/vrauuss-softwares/how-to-import-svg-as-react-component-4797)
+- [scheduleFlushToURL function in `nuqs` source code.](https://dev.to/ramunarasinga-11/scheduleflushtourl-function-in-nuqs-source-code-1e9j)
+- [Exploring Gemini 2.5 Pro: A Look at Google&#39;s Latest AI Model](https://dev.to/fallon_jimmy/exploring-gemini-25-pro-a-look-at-googles-latest-ai-model-3bi2)
+- [Create Custom Symbols v2.14: Convert SVG to SF Symbols for use in Xcode &lpar;UIKit/SwiftUI&rpar;.](https://dev.to/jaywcjlove/create-custom-symbols-v214-convert-svg-to-sf-symbols-for-use-in-xcode-uikitswiftui-22c2)
+- [Day 5 &lpar;interface &rpar;](https://dev.to/ranjith_ranjith_/day-5-interface--4inl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
