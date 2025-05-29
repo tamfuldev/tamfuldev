@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Open-source Quotes webapp](https://dev.to/evalvis/open-source-quotes-webapp-4co0)
-- [🛠️ How I Recovered a Broken AD Trust Network After a Server Rollback](https://dev.to/babsarena/how-i-recovered-a-broken-ad-trust-network-after-a-server-rollback-1in4)
-- [[Boost]](https://dev.to/anthonymax/-288)
-- [Using MutationObservers for Real-Time UI Updates](https://dev.to/omriluz1/using-mutationobservers-for-real-time-ui-updates-348j)
-- [Everything about Generics in Go](https://dev.to/leapcell/everything-about-generics-in-go-4hak)
+- [Array Manipulation Hackerrank problem analysis and solution optimization &lpar;prefix sum + difference array&rpar;](https://dev.to/yovo_manolov/array-manipulation-hackerrank-problem-analysis-and-solution-optimization-prefix-sum-difference-5546)
+- [Organizational Behaviour](https://dev.to/aniruddhaadak_/organizational-behaviour-2ih2)
+- [Deploying a Web service with GCP compute &amp; Terraform](https://dev.to/sardinessz/deploying-a-web-service-with-gcp-compute-terraform-nko)
+- [Veterinário e a Dieta Terapêutica: A Importância dos Exames para Pets](https://dev.to/animalclinico664/veterinario-e-a-dieta-terapeutica-a-importancia-dos-exames-para-pets-16pf)
+- [AI Commercial Open Source Software &lpar;AICOSS&rpar;](https://dev.to/jetthoughts/ai-commercial-open-source-software-aicoss-22f4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
