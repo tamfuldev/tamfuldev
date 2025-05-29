@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Initial Driver&#39;s Certificate vs. International Driving Authorization&lt;br&gt;](https://dev.to/bitestream09/initial-drivers-certificate-vs-international-driving-authorization-2kl2)
-- [Filas em PHP: um estudo de caso sobre o Leetcode 649 - Dota2 Senate](https://dev.to/gabrielgomes94/filas-em-php-um-estudo-de-caso-sobre-o-leetcode-649-dota2-senate-1d06)
-- [How to create custom Azure DevOps Pipelines that autoscale with Virtual Machine Scale Sets &lpar;VMSS&rpar;](https://dev.to/dmo2000/how-to-create-custom-azure-devops-pipelines-that-autoscale-with-virtual-machine-scale-sets-vmss-1k16)
-- [The Hidden Cost of Bad Code](https://dev.to/invalid_input/the-hidden-cost-of-bad-code-55nc)
-- [Daily JavaScript Challenge #JS-192: Determine if a String Has All Unique Characters](https://dev.to/dpc/daily-javascript-challenge-js-192-determine-if-a-string-has-all-unique-characters-dj)
+- [How AI also save the time in SCHOOL ....!](https://dev.to/mushfiq56/how-ai-also-save-the-time-in-school--11j7)
+- [🧠 You’re Still Asking ChatGPT for Jokes? They’re Using It to Earn \$10K/Month 💸](https://dev.to/er-raj-aryan/youre-still-asking-chatgpt-for-jokes-theyre-using-it-to-earn-10kmonth-21ok)
+- [[Boost]](https://dev.to/ramkumar-m-n/-i7e)
+- [Fix Radeon HD 6400 Series on Ubuntu](https://dev.to/kholis/fix-radeon-hd-6400-series-on-ubuntu-3idb)
+- [Day 17&amp;18/200 &lpar;Full stack&rpar;](https://dev.to/munin-1/day-1718200-full-stack-4fha)
 <!-- BLOG-POST-LIST:END -->
 
 ---
