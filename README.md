@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Can Roblox Be the Future of Gaming Programming❔](https://dev.to/joao_dalbem_afa16a8be0433/can-roblox-be-the-future-of-gaming-programming-c7c)
-- [Why Junior Developers Are Primed to Fail](https://dev.to/varun918/why-junior-developers-are-primed-to-fail-1nh5)
-- [Me: I’ll fix it later. Also me: 3 months later 😬](https://dev.to/joao_dalbem_afa16a8be0433/me-ill-fix-it-later-also-me-3-months-later-14e2)
-- [My code: 1% logic, 99% hope](https://dev.to/joao_dalbem_afa16a8be0433/my-code-1-logic-99-hope-5bdg)
-- [Me: ‘My code is clean.’ My future self: ‘You fool.](https://dev.to/joao_dalbem_afa16a8be0433/me-my-code-is-clean-my-future-self-you-fool-406l)
+- [Beyond Averages](https://dev.to/rawveg/beyond-averages-blm)
+- [Cristhian](https://dev.to/cristhian_huarsaya_56bffd/cristhian-4j6n)
+- [[1] Why You Should Understand What a CPU Is, even as a High-Level Developer](https://dev.to/adamsnows/why-you-should-understand-what-a-cpu-is-even-as-a-high-level-developer-3emm)
+- [Make Custom Stickers from Photos Easily](https://dev.to/jake-braham/make-custom-stickers-from-photos-easily-32hf)
+- [Escape the Container Chaos: Deploy Docker Apps to ECS, Cloud Run &amp; Swarm Without Losing Your Mind 🐳🚀](https://dev.to/alex_aslam/escape-the-container-chaos-deploy-docker-apps-to-ecs-cloud-run-swarm-without-losing-your-mind-4ec3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
