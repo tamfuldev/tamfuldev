@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your application should be PCI-DSS-compliant](https://dev.to/avonnadozie/your-application-should-be-pci-dss-compliant-1l6n)
-- [5 Real Crypto Projects You Can Build This Weekend Using the Token Metrics API](https://dev.to/api_builder_01/5-real-crypto-projects-you-can-build-this-weekend-using-the-token-metrics-api-2g69)
-- [Write Cleaner Code](https://dev.to/joao_dalbem_afa16a8be0433/write-cleaner-code-clm)
-- [Daily JavaScript Challenge #JS-193: Calculate Fibonacci Number Using Dynamic Programming](https://dev.to/dpc/daily-javascript-challenge-js-193-calculate-fibonacci-number-using-dynamic-programming-547m)
-- [Ngoding Sambil Healing: Tips Jaga Waras Buat Software Engineer!](https://dev.to/chandrabachtiar/ngoding-sambil-healing-tips-jaga-waras-buat-software-engineer-39km)
+- [Angular 20 Is Here: Master the Latest Features Like a Pro](https://dev.to/cristiansifuentes/angular-20-is-here-master-the-latest-features-like-a-pro-ke0)
+- [Day 19/200 &lpar;Full stack&rpar;](https://dev.to/munin-1/day-19200-full-stack-26i1)
+- [I am very happy for being here for 8 years. Not only have I read and learned many interesting things, I have also seldomly used this place to share some of my own experiences and thinking. Thanks to all for this journey!](https://dev.to/alex_escalante/i-am-very-happy-for-being-here-for-8-years-not-only-have-i-read-and-learned-many-interesting-5dnl)
+- [Unveiling the Truth Behind AWS Savings Plans: Cost Savings or Hidden Constraints?](https://dev.to/cloudpilot-ai/unveiling-the-truth-behind-aws-savings-plans-cost-savings-or-hidden-constraints-k5k)
+- [What do I have to do/learn/know if I want to become an AI Tech Lead😊](https://dev.to/viswa_d3e90a07f0198bd0a95/what-do-i-have-to-dolearnknow-if-i-want-to-become-an-ai-tech-lead-54nb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
