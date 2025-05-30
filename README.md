@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Window.performance in nuqs source code.](https://dev.to/ramunarasinga-11/windowperformance-in-nuqs-source-code-2mco)
-- [Qué hacer después de instalar Odoo: primeros pasos para empezar a trabajar](https://dev.to/moatelbow7/que-hacer-despues-de-instalar-odoo-primeros-pasos-para-empezar-a-trabajar-22o0)
-- [100 Days of JavaScript🔥– Day 1️⃣:Understanding Data Types &amp; Variables](https://dev.to/ansishahid/100-days-of-javascript-day-1understanding-data-types-variables-4093)
-- [Mastering Fuzzy Search with Manticore Search](https://dev.to/sanikolaev/mastering-fuzzy-search-with-manticore-search-51mg)
-- [07-HarmonyOS5-ObjectDetection-Case](https://dev.to/zhousg/07-harmonyos5-objectdetection-case-4f48)
+- [Integrating Sentry Error Monitoring with Encore.ts](https://dev.to/leonardo_marciano/integrating-sentry-error-monitoring-with-encorets-3614)
+- [Can This Open Source WAF Stop SQL Injection Attacks?](https://dev.to/sharon_42e16b8da44dabde6d/can-this-open-source-waf-stop-sql-injection-attacks-597c)
+- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-1pa8)
+- [What is useEffect in React?](https://dev.to/amalzewita/what-is-useeffect-in-react-3n7a)
+- [Understanding Redux Toolkit with React: A Beginner-Friendly Guide](https://dev.to/amalzewita/understanding-redux-toolkit-with-react-a-beginner-friendly-guide-5hlf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
