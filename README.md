@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Expert Recommendations for LLC Registered Agents](https://dev.to/backgas99/expert-recommendations-for-llc-registered-agents-41ae)
-- [Dockerize Node.js + React in 5 Minutes: End &quot;Works on My Machine&quot; Forever 🐳🚀](https://dev.to/alex_aslam/dockerize-nodejs-react-in-5-minutes-end-works-on-my-machine-forever-2dgi)
-- [🚀 Deploying a URL Shortener App on AWS EC2 with Auto Scaling and Load Balancer](https://dev.to/akashabish/deploying-a-url-shortener-app-on-aws-ec2-with-auto-scaling-and-load-balancer-1955)
-- [Nuxt3 form validation on client side with Yup](https://dev.to/skyhayato/nuxt3-form-validation-on-client-side-with-yup-3hl6)
-- [I Redesigned My GitHub Profile Generator After Getting Top 5 on Product Hunt](https://dev.to/sushilmagare10/i-redesigned-my-github-profile-generator-after-getting-top-5-on-product-hunt-g9c)
+- [High-quality SVG icons for UIs](https://dev.to/gnrlbzik/high-quality-svg-icons-for-uis-31hg)
+- [Rock, Paper, Innovation: Create a Game in Minutes with Amazon Q](https://dev.to/aws-builders/rock-paper-innovation-create-a-game-in-minutes-with-amazon-q-ag3)
+- [The Enterprise Comfort Zone: When DevOps Teams Make You Forget How to Deploy](https://dev.to/jmazagao/the-enterprise-comfort-zone-when-devops-teams-make-you-forget-how-to-deploy-2jd0)
+- [Daily Z Reports and Weekly Reviews](https://dev.to/vst/daily-z-reports-and-weekly-reviews-4gmk)
+- [JWT Pros and Cons](https://dev.to/ayako_yk/jwt-pros-and-cons-4hc0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
