@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Angular 20 Is Here: Master the Latest Features Like a Pro](https://dev.to/cristiansifuentes/angular-20-is-here-master-the-latest-features-like-a-pro-ke0)
-- [Day 19/200 &lpar;Full stack&rpar;](https://dev.to/munin-1/day-19200-full-stack-26i1)
-- [I am very happy for being here for 8 years. Not only have I read and learned many interesting things, I have also seldomly used this place to share some of my own experiences and thinking. Thanks to all for this journey!](https://dev.to/alex_escalante/i-am-very-happy-for-being-here-for-8-years-not-only-have-i-read-and-learned-many-interesting-5dnl)
-- [Unveiling the Truth Behind AWS Savings Plans: Cost Savings or Hidden Constraints?](https://dev.to/cloudpilot-ai/unveiling-the-truth-behind-aws-savings-plans-cost-savings-or-hidden-constraints-k5k)
-- [What do I have to do/learn/know if I want to become an AI Tech Lead😊](https://dev.to/viswa_d3e90a07f0198bd0a95/what-do-i-have-to-dolearnknow-if-i-want-to-become-an-ai-tech-lead-54nb)
+- [Window.performance in nuqs source code.](https://dev.to/ramunarasinga-11/windowperformance-in-nuqs-source-code-2mco)
+- [Qué hacer después de instalar Odoo: primeros pasos para empezar a trabajar](https://dev.to/moatelbow7/que-hacer-despues-de-instalar-odoo-primeros-pasos-para-empezar-a-trabajar-22o0)
+- [100 Days of JavaScript🔥– Day 1️⃣:Understanding Data Types &amp; Variables](https://dev.to/ansishahid/100-days-of-javascript-day-1understanding-data-types-variables-4093)
+- [Mastering Fuzzy Search with Manticore Search](https://dev.to/sanikolaev/mastering-fuzzy-search-with-manticore-search-51mg)
+- [07-HarmonyOS5-ObjectDetection-Case](https://dev.to/zhousg/07-harmonyos5-objectdetection-case-4f48)
 <!-- BLOG-POST-LIST:END -->
 
 ---
