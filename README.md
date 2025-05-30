@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating Sentry Error Monitoring with Encore.ts](https://dev.to/leonardo_marciano/integrating-sentry-error-monitoring-with-encorets-3614)
-- [Can This Open Source WAF Stop SQL Injection Attacks?](https://dev.to/sharon_42e16b8da44dabde6d/can-this-open-source-waf-stop-sql-injection-attacks-597c)
-- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-1pa8)
-- [What is useEffect in React?](https://dev.to/amalzewita/what-is-useeffect-in-react-3n7a)
-- [Understanding Redux Toolkit with React: A Beginner-Friendly Guide](https://dev.to/amalzewita/understanding-redux-toolkit-with-react-a-beginner-friendly-guide-5hlf)
+- [Scrape Like a Pro: BeautifulSoup + Python Full Tutorial](https://dev.to/leapcell/scrape-like-a-pro-beautifulsoup-python-full-tutorial-nj4)
+- [[Write Up] Bandit Wargame Clear Log &lpar;Level 10 - 20&rpar;](https://dev.to/sankworks/write-up-bandit-wargame-clear-log-level-10-20-2042)
+- [Blazor Web App - WebAssembly Hosted in .NET8 and .NET9](https://dev.to/kazinix/blazor-web-app-webassembly-hosted-in-net8-and-net9-1k6g)
+- [Dropping Detection](https://dev.to/dat_one_dev/dropping-detection-1mkk)
+- [Recréer un signalStore comme dans NgRx : retour d&#39;expérience](https://dev.to/romain_geffrault_10d88369/recreer-un-signalstore-comme-dans-ngrx-retour-dexperience-638)
 <!-- BLOG-POST-LIST:END -->
 
 ---
