@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day-4 in JS: To create a Counter Application project in JS...](https://dev.to/chithra_priya/day-4-in-js-create-a-counter-project-in-js-3cah)
-- [¿Qué pasará con React Router? Tranquilidad tras el anuncio &quot;Wake up, Remix!&quot;](https://dev.to/kevinccbsg/que-pasara-con-react-router-tranquilidad-tras-el-anuncio-wake-up-remix-3kj0)
-- [Vibe Coding with Cursor AI](https://dev.to/manimovassagh/vibe-coding-with-cursor-ai-25gb)
-- [Building Real-Time Applications with SignalR and C#](https://dev.to/chakewitz/building-real-time-applications-with-signalr-and-c-m5a)
-- [Getting Started with Traits and Trait Bounds](https://dev.to/sgchris/getting-started-with-traits-and-trait-bounds-3hpm)
+- [🚀 Kicking Off My Bolt.new Hackathon Journey – Let’s See Where This Goes](https://dev.to/lord_xavier/-kicking-off-my-boltnew-hackathon-journey-lets-see-where-this-goes-5fi4)
+- [5 Windows Defender Features You’re Probably Not Using &lpar;But Should Be&rpar; | by Faruk Ahmed | May, 2025](https://dev.to/cyberwebpen/5-windows-defender-features-youre-probably-not-using-but-should-be-by-faruk-ahmed-may-2025-3c7l)
+- [How I Rebuild a Linux Server After a Suspected Compromise &lpar;Step by Step&rpar; | by Faruk Ahmed | May, 2025](https://dev.to/cyberwebpen/how-i-rebuild-a-linux-server-after-a-suspected-compromise-step-by-step-by-faruk-ahmed-may-4pl1)
+- [Community Bonding with CircuitVerse - GSoC 2025](https://dev.to/senbo/community-bonding-with-circuitverse-gsoc-2025-54aa)
+- [The Ethics Of Digital Surveillance](https://dev.to/pat2002/the-ethics-of-digital-surveillance-4h0c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
