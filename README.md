@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Learning Perl XS - How to create an object](https://dev.to/lnation/learning-perl-xs-how-to-create-an-object-24lj)
-- [I created a complete web OS named CloudOS , go to see it on https://maeldevelop7.github.io/CloudOS/](https://dev.to/maelgruand_web_dev/i-created-a-complete-web-os-named-cloudos-go-to-see-it-on-httpsmaeldevelop7githubiocloudos-igm)
-- [How to Test and Reduce Duplications in GitHub Actions Workflows](https://dev.to/yulin/how-to-test-and-reduce-duplications-in-github-actions-workflows-ppj)
-- [A Sketch of Reversible Deterministic Concurrency for Distributed Protocols](https://dev.to/replica-io/a-sketch-of-reversible-deterministic-concurrency-for-distributed-protocols-6k8)
-- [Day-14 : Counter Page Using HTML, CSS &amp; JavaScript...](https://dev.to/a_ramesh/counter-page-using-html-css-javascript-36c5)
+- [Day-4 in JS: To create a Counter Application project in JS...](https://dev.to/chithra_priya/day-4-in-js-create-a-counter-project-in-js-3cah)
+- [¿Qué pasará con React Router? Tranquilidad tras el anuncio &quot;Wake up, Remix!&quot;](https://dev.to/kevinccbsg/que-pasara-con-react-router-tranquilidad-tras-el-anuncio-wake-up-remix-3kj0)
+- [Vibe Coding with Cursor AI](https://dev.to/manimovassagh/vibe-coding-with-cursor-ai-25gb)
+- [Building Real-Time Applications with SignalR and C#](https://dev.to/chakewitz/building-real-time-applications-with-signalr-and-c-m5a)
+- [Getting Started with Traits and Trait Bounds](https://dev.to/sgchris/getting-started-with-traits-and-trait-bounds-3hpm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
