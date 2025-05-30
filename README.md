@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Kicking Off My Bolt.new Hackathon Journey – Let’s See Where This Goes](https://dev.to/lord_xavier/-kicking-off-my-boltnew-hackathon-journey-lets-see-where-this-goes-5fi4)
-- [5 Windows Defender Features You’re Probably Not Using &lpar;But Should Be&rpar; | by Faruk Ahmed | May, 2025](https://dev.to/cyberwebpen/5-windows-defender-features-youre-probably-not-using-but-should-be-by-faruk-ahmed-may-2025-3c7l)
-- [How I Rebuild a Linux Server After a Suspected Compromise &lpar;Step by Step&rpar; | by Faruk Ahmed | May, 2025](https://dev.to/cyberwebpen/how-i-rebuild-a-linux-server-after-a-suspected-compromise-step-by-step-by-faruk-ahmed-may-4pl1)
-- [Community Bonding with CircuitVerse - GSoC 2025](https://dev.to/senbo/community-bonding-with-circuitverse-gsoc-2025-54aa)
-- [The Ethics Of Digital Surveillance](https://dev.to/pat2002/the-ethics-of-digital-surveillance-4h0c)
+- [🔌 Building Playwright Framework Step By Step - Implementing API Fixtures](https://dev.to/idavidov13/building-playwright-framework-step-by-step-implementing-api-fixtures-32bc)
+- [Security news weekly round-up - 30th May 2025](https://dev.to/ziizium/security-news-weekly-round-up-30th-may-2025-38kb)
+- [If I Were the First Engineer at a Startup, Here&#39;s What I’d Do](https://dev.to/0xdaniiel/if-i-were-the-first-engineer-at-a-startup-heres-what-id-do-off)
+- [How to install avalonia on ubuntu](https://dev.to/yassir_elradi_ded89bd833a/how-to-install-avalonia-on-ubuntu-34m0)
+- [4 Front-end Frameworks That Didn&#39;t Age as Well!](https://dev.to/amoreno/4-front-end-frameworks-that-didnt-age-as-well-ion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
