@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Project of the Week: Ghost 👻](https://dev.to/pullflow/project-of-the-week-ghost-1645)
-- [Secure Team Collaboration in Anvil](https://dev.to/anvil/secure-team-collaboration-in-anvil-3680)
-- [Dell Technologies World 2025 Kickoff: A Front Row Seat to the Future of AI](https://dev.to/brandon_seymour_320566f5e/dell-technologies-world-2025-kickoff-a-front-row-seat-to-the-future-of-ai-3fjo)
-- [Dizziness and Vertigo: What’s Normal and What’s Not?](https://dev.to/napollo_software/dizziness-and-vertigo-whats-normal-and-whats-not-504n)
-- [🧪DevOps Sandbox: Build Your Own Kubernetes Lab with Vagrant &amp; Ansible](https://dev.to/kartikdudeja21/devops-sandbox-build-your-own-kubernetes-lab-with-vagrant-ansible-3imi)
+- [Expert Recommendations for LLC Registered Agents](https://dev.to/backgas99/expert-recommendations-for-llc-registered-agents-41ae)
+- [Dockerize Node.js + React in 5 Minutes: End &quot;Works on My Machine&quot; Forever 🐳🚀](https://dev.to/alex_aslam/dockerize-nodejs-react-in-5-minutes-end-works-on-my-machine-forever-2dgi)
+- [🚀 Deploying a URL Shortener App on AWS EC2 with Auto Scaling and Load Balancer](https://dev.to/akashabish/deploying-a-url-shortener-app-on-aws-ec2-with-auto-scaling-and-load-balancer-1955)
+- [Nuxt3 form validation on client side with Yup](https://dev.to/skyhayato/nuxt3-form-validation-on-client-side-with-yup-3hl6)
+- [I Redesigned My GitHub Profile Generator After Getting Top 5 on Product Hunt](https://dev.to/sushilmagare10/i-redesigned-my-github-profile-generator-after-getting-top-5-on-product-hunt-g9c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
