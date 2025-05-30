@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🔌 Building Playwright Framework Step By Step - Implementing API Fixtures](https://dev.to/idavidov13/building-playwright-framework-step-by-step-implementing-api-fixtures-32bc)
-- [Security news weekly round-up - 30th May 2025](https://dev.to/ziizium/security-news-weekly-round-up-30th-may-2025-38kb)
-- [If I Were the First Engineer at a Startup, Here&#39;s What I’d Do](https://dev.to/0xdaniiel/if-i-were-the-first-engineer-at-a-startup-heres-what-id-do-off)
-- [How to install avalonia on ubuntu](https://dev.to/yassir_elradi_ded89bd833a/how-to-install-avalonia-on-ubuntu-34m0)
-- [4 Front-end Frameworks That Didn&#39;t Age as Well!](https://dev.to/amoreno/4-front-end-frameworks-that-didnt-age-as-well-ion)
+- [Can Roblox Be the Future of Gaming Programming❔](https://dev.to/joao_dalbem_afa16a8be0433/can-roblox-be-the-future-of-gaming-programming-c7c)
+- [Why Junior Developers Are Primed to Fail](https://dev.to/varun918/why-junior-developers-are-primed-to-fail-1nh5)
+- [Me: I’ll fix it later. Also me: 3 months later 😬](https://dev.to/joao_dalbem_afa16a8be0433/me-ill-fix-it-later-also-me-3-months-later-14e2)
+- [My code: 1% logic, 99% hope](https://dev.to/joao_dalbem_afa16a8be0433/my-code-1-logic-99-hope-5bdg)
+- [Me: ‘My code is clean.’ My future self: ‘You fool.](https://dev.to/joao_dalbem_afa16a8be0433/me-my-code-is-clean-my-future-self-you-fool-406l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
