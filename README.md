@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Context Transference](https://dev.to/david_whitney/context-transference-531g)
-- [Brighter’s Threading Model: Why Dedicated Threads Power Async Messaging Pumps](https://dev.to/actor-dev/brighter-and-thread-4eik)
-- [O Modelo de Concorrência do Brighter: Como Threads Dedicadas Impulsionam Pumps de Mensagens Assíncronas](https://dev.to/actor-dev/o-modelo-de-concorrencia-do-brighter-como-threads-dedicadas-impulsionam-pumps-de-mensagens-h0l)
-- [HTTP vs HTTPS: Why Encryption Isn’t Enough to Stop Attacks](https://dev.to/sharon_42e16b8da44dabde6d/http-vs-https-why-encryption-isnt-enough-to-stop-attacks-1e57)
-- [The Moment I let go of Clean Code](https://dev.to/wimadev/the-moment-i-let-go-of-clean-code-4ofp)
+- [Top 10 Must-Know Data Structures for Every Programmer](https://dev.to/rac/top-10-must-know-data-structures-for-every-programmer-1hg2)
+- [Automating Flutter Apps: An Introduction to CI/CD Pipelines](https://dev.to/vlopess/automating-flutter-apps-an-introduction-to-cicd-pipelines-59mn)
+- [Research, Innovation &amp; Impact – Sabaragamuwa University Leads the Way The future belongs to innovators. At Sabaragamuwa University of Sri Lanka, innovation is not just a buzzword — it’s a way of life. SUSL has established itself as a research-driven univ](https://dev.to/davitson/research-innovation-impact-sabaragamuwa-university-leads-the-way-the-future-belongs-to-4mm5)
+- [Modern Depo Yönetimi İçin WMS Sistemi Nasıl Kurulur? Teknolojisi, Mimarisi ve Katkısı](https://dev.to/sinan_durmu_8a9e16bb1c28/modern-depo-yonetimi-icin-wms-sistemi-nasil-kurulur-teknolojisi-mimarisi-ve-katkisi-4pne)
+- [Microsoft 365 Apps for Business: The Ideal Subscription for Secure, Scalable Productivity](https://dev.to/roshan_karki_f2b61b26c3a8/microsoft-365-apps-for-business-the-ideal-subscription-for-secure-scalable-productivity-h5l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
