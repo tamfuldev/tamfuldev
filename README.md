@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AWS open source newsletter, #210](https://dev.to/aws/aws-open-source-newsletter-210-23l0)
-- [How AI Agents Are Transforming the Future of E-Commerce Automation](https://dev.to/destinovaailabs/how-ai-agents-are-transforming-the-future-of-e-commerce-automation-2kcf)
-- [Building Resilient Hybrid Cloud Architectures](https://dev.to/bridgegroupsolutions/building-resilient-hybrid-cloud-architectures-bbk)
-- [LLM on MacOS: XLM support](https://dev.to/hanswillem/llm-on-macos-xlm-support-4c93)
-- [shamir](https://dev.to/shamir_hussain_441bd087f1/shamir-1icd)
+- [Context Transference](https://dev.to/david_whitney/context-transference-531g)
+- [Brighter’s Threading Model: Why Dedicated Threads Power Async Messaging Pumps](https://dev.to/actor-dev/brighter-and-thread-4eik)
+- [O Modelo de Concorrência do Brighter: Como Threads Dedicadas Impulsionam Pumps de Mensagens Assíncronas](https://dev.to/actor-dev/o-modelo-de-concorrencia-do-brighter-como-threads-dedicadas-impulsionam-pumps-de-mensagens-h0l)
+- [HTTP vs HTTPS: Why Encryption Isn’t Enough to Stop Attacks](https://dev.to/sharon_42e16b8da44dabde6d/http-vs-https-why-encryption-isnt-enough-to-stop-attacks-1e57)
+- [The Moment I let go of Clean Code](https://dev.to/wimadev/the-moment-i-let-go-of-clean-code-4ofp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
