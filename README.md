@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Data storing using file or database, which is more suitable?](https://dev.to/esproc_spl/data-storing-using-file-or-database-which-is-more-suitable-59bn)
-- [Agentic AI in Enterprise Software: The Next Leap in Intelligent Automation](https://dev.to/inapp_marketing_02d7c6755/agentic-ai-in-enterprise-software-the-next-leap-in-intelligent-automation-4h1b)
-- [One-Click HeyForm Deployment on Clawcloud Run: The Ultimate Zero-Code Smart Form Guide](https://dev.to/clawcloudrun/one-click-heyform-deployment-on-clawcloud-run-the-ultimate-zero-code-smart-form-guide-20lo)
-- [Goodbye Context Switching: Flutter 3.32’s Property Editor Just Saved My Sanity](https://dev.to/p_0c0278d/goodbye-context-switching-flutter-332s-property-editor-just-saved-my-sanity-922)
-- [🌟 Understanding Strings in Java: A Beginner’s Guide](https://dev.to/vimal_krush_349f0675b4ef9/understanding-strings-in-java-a-beginners-guide-fb7)
+- [AWS open source newsletter, #210](https://dev.to/aws/aws-open-source-newsletter-210-23l0)
+- [How AI Agents Are Transforming the Future of E-Commerce Automation](https://dev.to/destinovaailabs/how-ai-agents-are-transforming-the-future-of-e-commerce-automation-2kcf)
+- [Building Resilient Hybrid Cloud Architectures](https://dev.to/bridgegroupsolutions/building-resilient-hybrid-cloud-architectures-bbk)
+- [LLM on MacOS: XLM support](https://dev.to/hanswillem/llm-on-macos-xlm-support-4c93)
+- [shamir](https://dev.to/shamir_hussain_441bd087f1/shamir-1icd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
