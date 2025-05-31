@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Securing Redis with ACLs and Integrating Redis Insight in Docker](https://dev.to/silentwatcher_95/securing-redis-with-acls-and-integrating-redis-insight-in-docker-59c1)
-- [Day 39 – Locked Reloaded Ready to Devour the Last 60 Days](https://dev.to/mridulbansal2006/day-39-locked-reloaded-ready-to-devour-the-last-60-days-mjo)
-- [Published my first article!](https://dev.to/secesther/published-my-first-article-4om2)
-- [Navigating the DevOps Career Path: From Junior to Principal Engineer](https://dev.to/sameerimtiaz/navigating-the-devops-career-path-from-junior-to-principal-engineer-5c3h)
-- [Building an AI Assistant with NodeJs: Essential Tools and Concepts](https://dev.to/ataur39n/building-an-ai-assistant-with-nodejs-essential-tools-and-concepts-2n2p)
+- [🚦 Swift 6.1 From Risky to Robust: Concurrency &amp; Import Improvements](https://dev.to/shubham_sanghavi_55c51b74/swift-61-from-risky-to-robust-concurrency-import-improvements-1p14)
+- [[Boost]](https://dev.to/ytx/-2ni8)
+- [👋 Hello Dev Community – I’m Building Snippai, an AI-Powered Screenshot Agent](https://dev.to/ytx/hello-dev-community-im-building-snippai-an-ai-powered-screenshot-agent-5eab)
+- [How to Use Anthropic&#39;s Opus &amp; Sonnet-4 in Windsurf with Your Own API Key](https://dev.to/hanselcarter/how-to-use-anthropics-opus-sonnet-4-in-windsurf-with-your-own-api-key-22kp)
+- [Version 0.2 Fast-translate app](https://dev.to/truezerox/version-02-fast-translate-app-4102)
 <!-- BLOG-POST-LIST:END -->
 
 ---
