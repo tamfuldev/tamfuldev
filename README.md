@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Stay Safe from Cyber Attacks: Tips Anyone Can Follow](https://dev.to/terminaltools/how-to-stay-safe-from-cyber-attacks-tips-anyone-can-follow-19c5)
-- [Cybersecurity for Beginners: How to Get Started in 2025](https://dev.to/terminaltools/cybersecurity-for-beginners-how-to-get-started-in-2025-22cp)
-- [iOS 18.4 Simulator Error](https://dev.to/hejliang/ios-184-simulator-error-4d87)
-- [Fullstack Frontend: Geleceğin Web Geliştiricisi](https://dev.to/yunus_emremert_1756b71d3/fullstack-frontend-gelecegin-web-gelistiricisi-3pej)
-- [[📝LeetCode #88] Merge Sorted Array](https://dev.to/shine7on/leetcode-88-merge-sorted-array-1hod)
+- [How to Build Agentic Rag in Rust](https://dev.to/skeptrune/how-to-build-agentic-rag-in-rust-44o0)
+- [Why Every Programmer Should Embrace Failure](https://dev.to/joao_dalbem_afa16a8be0433/why-every-programmer-should-embrace-failure-2nb9)
+- [Performans İyileştirmesi: Saniyeler Kazan](https://dev.to/yunus_emremert_1756b71d3/performans-iyilestirmesi-saniyeler-kazan-ca7)
+- [Top 5 Tools That Changed How I Code Forever](https://dev.to/joao_dalbem_afa16a8be0433/top-5-tools-that-changed-how-i-code-forever-4ka9)
+- [My Favorite Game Dev Moments: When Coding Meets Gaming](https://dev.to/joao_dalbem_afa16a8be0433/my-favorite-game-dev-moments-when-coding-meets-gaming-14ja)
 <!-- BLOG-POST-LIST:END -->
 
 ---
