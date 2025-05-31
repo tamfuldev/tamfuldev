@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Averages](https://dev.to/rawveg/beyond-averages-blm)
-- [Cristhian](https://dev.to/cristhian_huarsaya_56bffd/cristhian-4j6n)
-- [[1] Why You Should Understand What a CPU Is, even as a High-Level Developer](https://dev.to/adamsnows/why-you-should-understand-what-a-cpu-is-even-as-a-high-level-developer-3emm)
-- [Make Custom Stickers from Photos Easily](https://dev.to/jake-braham/make-custom-stickers-from-photos-easily-32hf)
-- [Escape the Container Chaos: Deploy Docker Apps to ECS, Cloud Run &amp; Swarm Without Losing Your Mind 🐳🚀](https://dev.to/alex_aslam/escape-the-container-chaos-deploy-docker-apps-to-ecs-cloud-run-swarm-without-losing-your-mind-4ec3)
+- [How to Stay Safe from Cyber Attacks: Tips Anyone Can Follow](https://dev.to/terminaltools/how-to-stay-safe-from-cyber-attacks-tips-anyone-can-follow-19c5)
+- [Cybersecurity for Beginners: How to Get Started in 2025](https://dev.to/terminaltools/cybersecurity-for-beginners-how-to-get-started-in-2025-22cp)
+- [iOS 18.4 Simulator Error](https://dev.to/hejliang/ios-184-simulator-error-4d87)
+- [Fullstack Frontend: Geleceğin Web Geliştiricisi](https://dev.to/yunus_emremert_1756b71d3/fullstack-frontend-gelecegin-web-gelistiricisi-3pej)
+- [[📝LeetCode #88] Merge Sorted Array](https://dev.to/shine7on/leetcode-88-merge-sorted-array-1hod)
 <!-- BLOG-POST-LIST:END -->
 
 ---
