@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Powered Virtual Try-On App](https://dev.to/magicnull/ai-powered-virtual-try-on-app-3c7d)
-- [Understanding React&#39;s Declarative UI Through a Copy Button Example](https://dev.to/samitkapoor/understanding-reacts-declarative-ui-through-a-copy-button-example-499c)
-- [Top AI Frameworks in 2025: Powering the Future of Intelligent Systems](https://dev.to/shivamp0987/top-ai-frameworks-in-2025-powering-the-future-of-intelligent-systems-35ki)
-- [Learn How Websites Remember You: JavaScript Cookies Explained](https://dev.to/agunechemba/learn-how-websites-remember-you-javascript-cookies-explained-5808)
-- [How I stop users with a disposable email from creating an account on appstate.co](https://dev.to/magicnull/how-i-stop-users-with-a-disposable-email-from-creating-an-account-on-appstateco-d12)
+- [Visualize Your Application Entities with MSAGL &lpar;Toolkit for .NET Devs&rpar;](https://dev.to/catchybytes_techy_5d77bcf/visualize-your-application-entities-with-msagl-free-toolkit-for-net-devs-jln)
+- [Refactoring with Result&lt;T, E&gt; and Custom Errors](https://dev.to/sgchris/refactoring-with-resultt-e-and-custom-errors-24ik)
+- [AI Hallucinations: Can We Trust AI-Generated Data?](https://dev.to/grenishrai/ai-hallucinations-can-we-trust-ai-generated-data-e7b)
+- [Osint app dev](https://dev.to/peter_karanja_43543e36af7/osint-app-dev-27pb)
+- [[Side Project] Maroik: Modern ASP.NET Core 9.0 CMS with Full-Stack Features](https://dev.to/ikhyeon_jo_bac055cc6e6a90/side-project-maroik-modern-aspnet-core-90-cms-with-full-stack-features-4370)
 <!-- BLOG-POST-LIST:END -->
 
 ---
