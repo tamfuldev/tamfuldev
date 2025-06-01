@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Simplifying Policy Management in HCP Terraform with the Policysets Module](https://dev.to/quixoticmonk/simplifying-policy-management-in-hcp-terraform-with-the-policysets-module-4pg3)
-- [Building Reliable Workflows with Serverless JavaScript](https://dev.to/restdbjones/building-reliable-workflows-with-serverless-javascript-44e8)
-- [🧱 Building a Front-End Web App in 2025: What You Actually Need](https://dev.to/er-raj-aryan/building-a-front-end-web-app-in-2025-what-you-actually-need-5b68)
-- [Introducing Jawbone Sockets](https://dev.to/thebuzzsaw/introducing-jawbone-sockets-ah0)
-- [Building an AI Assistant with Ollama and Next.js – Part 3 &lpar;RAG with LangChain, Pinecone and Ollama&rpar;](https://dev.to/abayomijohn273/building-an-ai-assistant-with-ollama-and-nextjs-part-3-rag-with-langchain-pinecone-and-ollama-dja)
+- [Como utilizar o FFmpeg com C++ &lpar;Windows e GNU/Linux&rpar;](https://dev.to/marcosplusplus/como-utilizar-o-ffmpeg-com-c-windows-e-gnulinux-36en)
+- [Simplify Your API Calls in React with em-use-controller](https://dev.to/ethernmyth/simplify-your-api-calls-in-react-with-em-use-controller-4ib0)
+- [🧪 Managing Machine Learning Experiments with MLflow and Weights &amp; Biases &lpar;W&amp;B&rpar;](https://dev.to/fahadabid545/check-out-my-ai-portfolio-projects-resume-and-more-3h5p)
+- [🚀 Check Out My AI Portfolio — Projects, Resume, and More!](https://dev.to/fahadabid545/check-out-my-ai-portfolio-projects-resume-and-more-3k6f)
+- [Answers to the GitHub Foundation Quiz](https://dev.to/sabghat90/answers-to-the-github-foundation-quiz-2fjd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
