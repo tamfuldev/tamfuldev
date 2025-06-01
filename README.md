@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Stay Motivated as an Angular Developer in a Rapidly Evolving Tech World](https://dev.to/karol_modelski/how-to-stay-motivated-as-an-angular-developer-in-a-rapidly-evolving-tech-world-329a)
-- [what is an oa interview -unequal elements snowflake oa](https://dev.to/net_programhelp_e160eef28/what-is-an-oa-interview-unequal-elements-snowflake-oa-21ap)
-- [Brain-inspired agentic memory](https://dev.to/hannahyan/brain-inspired-agentic-memory-4765)
-- [Object‑Oriented Programming](https://dev.to/ahmed_niazy/object-oriented-programming-41g)
-- [Destructuring in TypeScript: Arrays &amp; Objects](https://dev.to/lea_abraham_7a0232a6cd616/destructuring-in-typescript-arrays-objects-3pp9)
+- [Check How LTM is very important and useful](https://dev.to/grenishrai/check-how-ltm-is-very-important-and-useful-2b4m)
+- [231/365 | ¥10M Job Challenge - From vague to clear](https://dev.to/tenshokukame/231365-y10m-job-challenge-from-vague-to-clear-1k5m)
+- [A switch is a code smell](https://dev.to/oaxoa/a-switch-is-a-code-smell-2ed0)
+- [How to Replace 5 Different Tools with One Workflow in Svalync](https://dev.to/svalync/how-to-replace-5-different-tools-with-one-workflow-in-svalync-4idd)
+- [From Stateless to Smart: The Role of LTM and MCP in Next-Gen AI](https://dev.to/grenishrai/from-stateless-to-smart-the-role-of-ltm-and-mcp-in-next-gen-ai-46bp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
