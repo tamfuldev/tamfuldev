@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top AI 3D Model Generators in 2025: Revolutionizing 3D Creation](https://dev.to/lokeshjoshi/top-ai-3d-model-generators-in-2025-revolutionizing-3d-creation-5fa8)
-- [Using Odoo as a Backend: Module Setup, API Access, and curl Commands](https://dev.to/maurice_ombewa_21d073ef7a/using-odoo-as-a-backend-module-setup-api-access-and-curl-commands-1dia)
-- [PKI Demystified: From That Green Lock to Digital Trust](https://dev.to/stkisengese/pki-demystified-from-that-green-lock-to-digital-trust-1opi)
-- [Clean Architecture in Front-End Development](https://dev.to/miasalazar/clean-architecture-in-front-end-development-523n)
-- [Hexagonal Architecture in A Nutshell](https://dev.to/muhammadazis/hexagonal-architecture-in-a-nutshell-22bd)
+- [hello all](https://dev.to/peterakachukwu/hello-all-5blf)
+- [Whatsapp UI clone](https://dev.to/preetha_vaishnavi_2b82358/whatsapp-ui-clone-1710)
+- [Whatsapp UI Clone](https://dev.to/preetha_vaishnavi_2b82358/whatsapp-ui-clone-h95)
+- [How to Implement API Rate Limiting in .NET](https://dev.to/shreyans_padmani/how-to-implement-api-rate-limiting-in-net-4mn1)
+- [Preloader Animation CSS3](https://dev.to/preetha_vaishnavi_2b82358/preloader-animation-css3-2ic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
