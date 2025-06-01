@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Simplifying Policy Management in HCP Terraform with the Policysets Module](https://dev.to/quixoticmonk/simplifying-policy-management-in-hcp-terraform-with-the-policysets-module-4pg3)
+- [Building Reliable Workflows with Serverless JavaScript](https://dev.to/restdbjones/building-reliable-workflows-with-serverless-javascript-44e8)
+- [🧱 Building a Front-End Web App in 2025: What You Actually Need](https://dev.to/er-raj-aryan/building-a-front-end-web-app-in-2025-what-you-actually-need-5b68)
 - [Introducing Jawbone Sockets](https://dev.to/thebuzzsaw/introducing-jawbone-sockets-ah0)
 - [Building an AI Assistant with Ollama and Next.js – Part 3 &lpar;RAG with LangChain, Pinecone and Ollama&rpar;](https://dev.to/abayomijohn273/building-an-ai-assistant-with-ollama-and-nextjs-part-3-rag-with-langchain-pinecone-and-ollama-dja)
-- [Whispers of Winter&#39;s Charm](https://dev.to/palak_singla_ae13e55615a4/whispers-of-winters-charm-159h)
-- [Harmony in School Halls](https://dev.to/palak_singla_ae13e55615a4/harmony-in-school-halls-49a2)
-- [Focus on one thing](https://dev.to/danytulumidis/focus-on-one-thing-2o1n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
