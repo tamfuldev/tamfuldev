@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Meet Hope AI: Ship Real Software at Lightning Speed](https://dev.to/adam/meet-hope-ai-ship-real-software-at-lightning-speed-3ch8)
-- [I’ve reached Phase 2, often called the &#39;Cliff of Confusion.&#39; I began learning last year and picked up some HTML and CSS, but I realized my knowledge was still limited. When I tried taking on a client project, they asked me to use Node.js, which I hadn’t le](https://dev.to/lester2027/ive-reached-phase-2-often-called-the-cliff-of-confusion-i-began-learning-last-year-and-picked-28dd)
-- [Building a Tetris Game with Python and Pygame](https://dev.to/aws-builders/building-a-tetris-game-with-python-and-pygame-40pf)
-- [15 Must-Know Coding Patterns to Ace Your Tech Interview &lpar;with Resources&rpar;](https://dev.to/somadevtoo/15-must-know-coding-patterns-to-ace-your-tech-interview-with-resources-1c8k)
-- [Stop Forcing Time Windows on Bursty User Behavior - Try This Instead](https://dev.to/__354f265b41dafa0d901b/stop-forcing-time-windows-on-bursty-user-behavior-try-this-instead-46ij)
+- [🟦 Hey AI, Is This Question Too Sensitive?](https://dev.to/uka_aidev/hey-ai-is-this-question-too-sensitive-fe8)
+- [Speed It Up: Hacks and Plugins to Cut Design Time in Half](https://dev.to/atforeveryoung/speed-it-up-hacks-and-plugins-to-cut-design-time-in-half-4a51)
+- [Reach Hooks Beginner to Advanced](https://dev.to/suchintan/reach-hooks-beginner-to-advanced-3e04)
+- [Learning Elixir: Pipe Operator](https://dev.to/abreujp/learning-elixir-pipe-operator-58a8)
+- [The &quot;AI SaaS Dream&quot; is a Lie](https://dev.to/timtan/the-ai-saas-dream-is-a-lie-27ab)
 <!-- BLOG-POST-LIST:END -->
 
 ---
