@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Como transformar seu freelancing em um negócio escalável 🚀](https://dev.to/albericojr/como-transformar-seu-freelancing-em-um-negocio-escalavel-joi)
-- [Most Important DWDM questions in MAKAUT exam](https://dev.to/aniruddhaadak_/most-important-dwdm-questions-in-makaut-exam-1g42)
-- [Distributed Systems | What can we learn from Roblox&#39;s 3-day outage?](https://dev.to/zhijunl/distributed-systems-what-can-we-learn-from-robloxs-3-day-outage-4p5g)
-- [Project KARL AI](https://dev.to/theaniketraj/project-karl-ai-37mn)
-- [Debugging Stripe Webhook Signature Verification Errors in Production](https://dev.to/nerdincode/debugging-stripe-webhook-signature-verification-errors-in-production-1h7c)
+- [JavaScript Operators](https://dev.to/sundar_joseph_94059a3e7a6/javascript-operators-51ag)
+- [Fibonacci series](https://dev.to/biswa_ranjanpatra_49d50c/fibonacci-series-2jof)
+- [Here is what Claude 4 sonnet is talking about me](https://dev.to/aniruddhaadak_/here-is-what-claude-4-sonnet-is-talking-about-me-gfj)
+- [The Truth About Preloading in Modern Web](https://dev.to/realoff/the-truth-about-preloading-in-modern-web-23p0)
+- [Fibonacci series without third variable](https://dev.to/biswa_ranjanpatra_49d50c/fibonacci-series-without-third-variable-3j6e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
