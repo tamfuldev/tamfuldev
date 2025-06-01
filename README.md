@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/rakeshv675/-1olb)
-- [8 Essential Network Protocols Every Developer Should Know](https://dev.to/kalana250/8-essential-network-protocols-every-developer-should-know-1ep9)
-- [Supabase WordPress Integration - Save Data to Supabase](https://dev.to/dalenguyen/supabase-wordpress-integration-save-data-to-supabase-2b89)
-- [The Algorithmic Faustian Bargain](https://dev.to/rawveg/the-algorithmic-faustian-bargain-2cpl)
-- [Alternative to Mailchimp vs MailerLite Comparison](https://dev.to/charlesmudy/alternative-to-mailchimp-vs-mailerlite-comparison-141i)
+- [Obtenha Emojis via Linha de Comando](https://dev.to/marcosplusplus/obtenha-emojis-via-linha-de-comando-4cbh)
+- [Get Emojis via Command Line](https://dev.to/marcosplusplus/get-emojis-via-command-line-1h3d)
+- [A beginner&#39;s guide to the Ltx-Video-0.9.7 model by Lightricks on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-ltx-video-097-model-by-lightricks-on-replicate-34k)
+- [Quantum Financial System vs. Traditional Banking: A Comparative Analysis](https://dev.to/api_builder_01/quantum-financial-system-vs-traditional-banking-a-comparative-analysis-2bk7)
+- [Daily Debug — Day 1: Blocks in Motion](https://dev.to/stinklewinks/daily-debug-day-1-blocks-in-motion-1ad2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
