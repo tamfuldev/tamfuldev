@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Operators](https://dev.to/sundar_joseph_94059a3e7a6/javascript-operators-51ag)
-- [Fibonacci series](https://dev.to/biswa_ranjanpatra_49d50c/fibonacci-series-2jof)
-- [Here is what Claude 4 sonnet is talking about me](https://dev.to/aniruddhaadak_/here-is-what-claude-4-sonnet-is-talking-about-me-gfj)
-- [The Truth About Preloading in Modern Web](https://dev.to/realoff/the-truth-about-preloading-in-modern-web-23p0)
-- [Fibonacci series without third variable](https://dev.to/biswa_ranjanpatra_49d50c/fibonacci-series-without-third-variable-3j6e)
+- [API and SDK, What Are These Two Terms Actually?](https://dev.to/ohdylan/api-and-sdk-what-are-these-two-terms-actually-1ad8)
+- [Exploring the Journey of Aniruddha Adak: A Tech Enthusiast and Innovator](https://dev.to/aniruddhaadak_/exploring-the-journey-of-aniruddha-adak-a-tech-enthusiast-and-innovator-by-sciraai-1ip9)
+- [📦WebSocket Broadcasting with hyperlane](https://dev.to/_95e41982c9ad08a13458d/websocket-broadcasting-with-hyperlane-b9a)
+- [🚀 Streamlining Infrastructure Management and Enhancing End User Geolocation with AWS ECS, Lambda, and CloudFront](https://dev.to/shivasaipeddy/streamlining-infrastructure-management-and-enhancing-end-user-geolocation-with-aws-ecs-lambda-i1o)
+- [React vs Next Frontend: Which is better?](https://dev.to/himeshdua/react-vs-next-frontend-which-is-better-h3p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
