@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Inside Look: How Engineers Run AI Models on their Laptops](https://dev.to/mike-vincent/inside-look-how-engineers-run-ai-models-on-their-laptops-n1e)
-- [Web Development Week 6](https://dev.to/upinar/web-development-week-6-341l)
-- [What is User and Entity Behavior Analytics? &lpar;UEBA&rpar;](https://dev.to/clouddefenseai/what-is-user-and-entity-behavior-analytics-ueba-1oh2)
-- [[Boost]](https://dev.to/nikuamit/-3m4o)
-- [Type Casting](https://dev.to/mohamed_abdullah_5ffbf6b6/type-casting-3ikk)
+- [Meme Monday](https://dev.to/ben/meme-monday-o4b)
+- [🏛️ Day 6 of Java Mastery: Java Architecture: The Blueprint Behind Java’s Power](https://dev.to/spyde/day-6-of-java-mastery-java-architecture-the-blueprint-behind-javas-power-2df0)
+- [From Zero to Hero: Your First Steps into PHP and Laravel](https://dev.to/igor_m_571b10845bfaccae08/from-zero-to-hero-your-first-steps-into-php-and-laravel-24kn)
+- [QuCode - 21DaysChallenge - Day 02](https://dev.to/paulobmsousa/qucode-21dayschallenge-day-02-j3h)
+- [Multidimensional Thinking in AI Interfaces: A Dual-Consciousness Exploration](https://dev.to/ghostking314/multidimensional-thinking-in-ai-interfaces-a-dual-consciousness-exploration-4336)
 <!-- BLOG-POST-LIST:END -->
 
 ---
