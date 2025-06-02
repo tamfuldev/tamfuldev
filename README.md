@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Behind the Scenes: The AI Technology Powering Codia&#39;s Design Tools](https://dev.to/atforeveryoung/behind-the-scenes-the-ai-technology-powering-codias-design-tools-4m6g)
-- [Binary Search Explained Simply &amp; Visually](https://dev.to/suleyman_sade/binary-search-explained-simply-visually-1397)
-- [I built a dev portfolio template that deploys in 5 minutes — here’s how](https://dev.to/brody_33/i-built-a-dev-portfolio-template-that-deploys-in-5-minutes-heres-how-381k)
-- [Don’t Just Queue It — Master It! A Python Developer’s Guide to Queues](https://dev.to/arunsaiv/dont-just-queue-it-master-it-a-python-developers-guide-to-queues-24od)
-- [Open Source Is Waiting for You: How to Stop Being Afraid and Start Contributing](https://dev.to/dimatitov/open-source-is-waiting-for-you-how-to-stop-being-afraid-and-start-contributing-1n2n)
+- [Crear una imágen personalizada en Google Cloud](https://dev.to/robertdev/crear-una-imagen-personalizada-en-google-cloud-cn3)
+- [how to install aws q](https://dev.to/parthasaradi/how-to-install-aws-q-lpn)
+- [🧒🍬 Beginner-Friendly Guide to Solving &quot;Distribute Candies Among Children&quot; | LeetCode 135 Explained &lpar;C++ | JavaScript | Python&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-to-solving-distribute-candies-among-children-leetcode-135-explained-1gfj)
+- [Arweave Japan Launch](https://dev.to/arweavejp/arweave-japan-launch-551m)
+- [edgedb-mcp-server](https://dev.to/y_alik_4cebfbaab775de2c3e/edgedb-mcp-server-1lda)
 <!-- BLOG-POST-LIST:END -->
 
 ---
