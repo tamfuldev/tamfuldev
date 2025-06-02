@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DeepMind Open-Sources AlphaFold 3: A New Era for AI-Driven Biology and Drug Discovery](https://dev.to/maurizio_morri_f7f4bd128c/deepmind-open-sources-alphafold-3-a-new-era-for-ai-driven-biology-and-drug-discovery-4pc2)
-- [“Notary Near Me” Searches Soar in Brampton: Here’s Why](https://dev.to/future_academic_886bac731/notary-near-me-searches-soar-in-brampton-heres-why-310)
-- [MicroFrontend: integración sin host — prácticas y configuración](https://dev.to/miguelquispe/microfrontend-integracion-sin-host-practicas-y-configuracion-42g8)
-- [Smartchat AI Assistant with Plugin System](https://dev.to/adesh_mishra_07/smartchat-ai-assistant-with-plugin-system-5d9p)
-- [Benefits of a Modularized Automation Framework Over Independent Modules for Mobile, API, and Web Testing](https://dev.to/amarnathrayudu/benefits-of-a-modularized-automation-framework-over-independent-modules-for-mobile-api-and-web-2228)
+- [Mastering HTTP Requests in n8n: The Key to Connecting Any App &amp; Automating Anything](https://dev.to/brains_behind_bots/mastering-http-requests-in-n8n-the-key-to-connecting-any-app-automating-anything-gm3)
+- [Java proxy for overlapping interfaces](https://dev.to/denissudak/java-proxy-for-overlapping-interfaces-19p7)
+- [What Do We Mean When We Say DeepSeek ‘Thinks’?](https://dev.to/fonyuygita/what-do-we-mean-when-we-say-deepseek-thinks-35b0)
+- [🔍 Building Powerful Search Functionality in JavaScript &lpar;With Real-Life Use Cases&rpar;](https://dev.to/ankitchaurasiya84/building-powerful-search-functionality-in-javascript-with-real-life-use-cases-28l0)
+- [Baldur&#39;s Gate 3 devs originally went for a truly “cartoony” art style, but I&#39;m glad they didn&#39;t go with it](https://dev.to/gg_news/baldurs-gate-3-devs-originally-went-for-a-truly-cartoony-art-style-but-im-glad-they-didnt-go-5fli)
 <!-- BLOG-POST-LIST:END -->
 
 ---
