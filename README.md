@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Crear una imágen personalizada en Google Cloud](https://dev.to/robertdev/crear-una-imagen-personalizada-en-google-cloud-cn3)
-- [how to install aws q](https://dev.to/parthasaradi/how-to-install-aws-q-lpn)
-- [🧒🍬 Beginner-Friendly Guide to Solving &quot;Distribute Candies Among Children&quot; | LeetCode 135 Explained &lpar;C++ | JavaScript | Python&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-to-solving-distribute-candies-among-children-leetcode-135-explained-1gfj)
-- [Arweave Japan Launch](https://dev.to/arweavejp/arweave-japan-launch-551m)
-- [edgedb-mcp-server](https://dev.to/y_alik_4cebfbaab775de2c3e/edgedb-mcp-server-1lda)
+- [Automate App Deployment with Cloud Build](https://dev.to/aldifp01/automate-app-deployment-with-cloud-build-2cdb)
+- [10 Common Mongoose Mistakes That Break Your MongoDB App](https://dev.to/arunangshu_das/10-common-mongoose-mistakes-that-break-your-mongodb-app-3780)
+- [What If YAML and Lisp Had a Child?: Bring Functional Power to Your Kubernetes Manifests](https://dev.to/totegamma/what-if-yaml-and-lisp-had-a-child-bring-functional-power-to-your-kubernetes-manifests-266h)
+- [Learn Python 001](https://dev.to/tamilvanan/learn-python-001-3gop)
+- [🚀 Building World-Class Multi-Platform Apps: The Ultimate Tech Stack for 2025](https://dev.to/mwacharo6/building-world-class-multi-platform-apps-the-ultimate-tech-stack-for-2025-3bc5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
