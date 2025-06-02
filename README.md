@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Tomorrow will be an exciting day, the first serious launch on ProductHunt. Well, I hope it will be interesting!](https://dev.to/anthonymax/tomorrow-will-be-an-exciting-day-the-first-serious-launch-on-producthunt-well-i-hope-it-will-be-4cl7)
-- [Day 3](https://dev.to/thankamatho/day-3-11fj)
-- [Built an AI-powered Shopify app that lets merchants create upsell rules using natural language](https://dev.to/pr135t/built-an-ai-powered-shopify-app-that-lets-merchants-create-upsell-rules-using-natural-language-16h)
-- [LIT PLAYER YOUTUBE](https://dev.to/leonardo_leal_224c2d052f5/lit-player-youtube-764)
-- [Build an LLM Web App in Python from Scratch: Part 1 &lpar;Local CLI&rpar;](https://dev.to/zachary62/build-an-llm-web-app-in-python-from-scratch-part-1-local-cli-4824)
+- [Behind the Scenes: The AI Technology Powering Codia&#39;s Design Tools](https://dev.to/atforeveryoung/behind-the-scenes-the-ai-technology-powering-codias-design-tools-4m6g)
+- [Binary Search Explained Simply &amp; Visually](https://dev.to/suleyman_sade/binary-search-explained-simply-visually-1397)
+- [I built a dev portfolio template that deploys in 5 minutes — here’s how](https://dev.to/brody_33/i-built-a-dev-portfolio-template-that-deploys-in-5-minutes-heres-how-381k)
+- [Don’t Just Queue It — Master It! A Python Developer’s Guide to Queues](https://dev.to/arunsaiv/dont-just-queue-it-master-it-a-python-developers-guide-to-queues-24od)
+- [Open Source Is Waiting for You: How to Stop Being Afraid and Start Contributing](https://dev.to/dimatitov/open-source-is-waiting-for-you-how-to-stop-being-afraid-and-start-contributing-1n2n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
