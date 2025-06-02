@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Scalable Voice Infrastructure with Programmable Telephony APIs](https://dev.to/klarissa_f/how-to-build-scalable-voice-infrastructure-with-programmable-telephony-apis-7o2)
-- [🧠 The Secret Sauce Behind Web3 Growth? Referral Architectures That Actually Scale](https://dev.to/andylarkin677/the-secret-sauce-behind-web3-growth-referral-architectures-that-actually-scale-1n7o)
-- [Pure Python HTTP Server with Sockets – A Deep Dive into Web Server Internals](https://dev.to/leapcell/pure-python-http-server-with-sockets-a-deep-dive-into-web-server-internals-53jj)
-- [Creating Your First Window in a NativePHP App](https://dev.to/therahul_gupta/creating-your-first-window-in-a-nativephp-app-3fo1)
-- [&quot;The Untold Secret Behind JavaScript&#39;s Flexibility: Lexical Scope and Closures Revealed&quot;](https://dev.to/shifa_2/the-untold-secret-behind-javascripts-flexibility-lexical-scope-and-closures-revealed-41jb)
+- [DeepMind Open-Sources AlphaFold 3: A New Era for AI-Driven Biology and Drug Discovery](https://dev.to/maurizio_morri_f7f4bd128c/deepmind-open-sources-alphafold-3-a-new-era-for-ai-driven-biology-and-drug-discovery-4pc2)
+- [“Notary Near Me” Searches Soar in Brampton: Here’s Why](https://dev.to/future_academic_886bac731/notary-near-me-searches-soar-in-brampton-heres-why-310)
+- [MicroFrontend: integración sin host — prácticas y configuración](https://dev.to/miguelquispe/microfrontend-integracion-sin-host-practicas-y-configuracion-42g8)
+- [Smartchat AI Assistant with Plugin System](https://dev.to/adesh_mishra_07/smartchat-ai-assistant-with-plugin-system-5d9p)
+- [Benefits of a Modularized Automation Framework Over Independent Modules for Mobile, API, and Web Testing](https://dev.to/amarnathrayudu/benefits-of-a-modularized-automation-framework-over-independent-modules-for-mobile-api-and-web-2228)
 <!-- BLOG-POST-LIST:END -->
 
 ---
