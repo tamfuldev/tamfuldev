@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Check Gunicorn Logs and Monitor Your Django App as a Systemd Service](https://dev.to/msnmongare/how-to-check-gunicorn-logs-and-monitor-your-django-app-as-a-systemd-service-3joc)
-- [Unxus kernel: The kernel for developers](https://dev.to/fxos/unxus-kernel-the-kernel-for-developers-3bla)
-- [Why QA is Essential and What Types Exist?](https://dev.to/dan_bf907de896/why-qa-is-essential-and-what-types-exist-4aci)
-- [AI will assassinate the internet as we know it.](https://dev.to/wiloucharlz/ai-will-assassinate-the-internet-as-we-know-it-3ahf)
-- [12 Advanced TypeScript Tricks Every Developer Should Know](https://dev.to/elfrontend/12-advanced-typescript-tricks-every-developer-should-know-3dn8)
+- [Mini Search engine](https://dev.to/melody_kelly_n/mini-search-engine-5g26)
+- [AI Simulates 500 Million Years of Evolution to Create a Novel Fluorescent Protein](https://dev.to/maurizio_morri_f7f4bd128c/ai-simulates-500-million-years-of-evolution-to-create-a-novel-fluorescent-protein-1nf4)
+- [How to keep unread notifications relevant](https://dev.to/denissudak/how-to-keep-unread-notifications-relevant-48b9)
+- [Public Wi-Fi Safety: How to Browse Securely on the Go](https://dev.to/terminaltools/public-wi-fi-safety-how-to-browse-securely-on-the-go-1jaa)
+- [O que é Developer Relations &lpar;DevRel&rpar;?](https://dev.to/levxyca/o-que-e-developer-relations-devrel-4e5m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
