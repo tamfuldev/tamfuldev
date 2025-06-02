@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Prueba de concepto: interpretación de infraestructura con ChatGPT + Terraform](https://dev.to/danieljsaldana/prueba-de-concepto-interpretacion-de-infraestructura-con-chatgpt-terraform-mgf)
-- [Building Your First Web Page: Understanding the Why, Not Just the How](https://dev.to/hlnb/building-your-first-web-page-understanding-the-why-not-just-the-how-2lb6)
-- [The reality of remote hiring today is so much more complex than people think. Glad someone is finally talking about it with clarity.](https://dev.to/donnygeisl75478/the-reality-of-remote-hiring-today-is-so-much-more-complex-than-people-think-glad-someone-is-1070)
-- [Upgrade Their Web, Grow Your Biz: Outreach Tactics for Developers](https://dev.to/terrance_danielson/upgrade-their-web-grow-your-biz-outreach-tactics-for-developers-305d)
-- [Getting Started: Build a Model Context Protocol Server](https://dev.to/kenzic/getting-started-build-a-model-context-protocol-server-2bm7)
+- [How to Build Scalable Voice Infrastructure with Programmable Telephony APIs](https://dev.to/klarissa_f/how-to-build-scalable-voice-infrastructure-with-programmable-telephony-apis-7o2)
+- [🧠 The Secret Sauce Behind Web3 Growth? Referral Architectures That Actually Scale](https://dev.to/andylarkin677/the-secret-sauce-behind-web3-growth-referral-architectures-that-actually-scale-1n7o)
+- [Pure Python HTTP Server with Sockets – A Deep Dive into Web Server Internals](https://dev.to/leapcell/pure-python-http-server-with-sockets-a-deep-dive-into-web-server-internals-53jj)
+- [Creating Your First Window in a NativePHP App](https://dev.to/therahul_gupta/creating-your-first-window-in-a-nativephp-app-3fo1)
+- [&quot;The Untold Secret Behind JavaScript&#39;s Flexibility: Lexical Scope and Closures Revealed&quot;](https://dev.to/shifa_2/the-untold-secret-behind-javascripts-flexibility-lexical-scope-and-closures-revealed-41jb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
