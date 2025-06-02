@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Simple Counter Smart Contract in Solidity](https://dev.to/karthikaaax/build-a-simple-counter-smart-contract-in-solidity-emg)
-- [Opera Neon 2025: AI-Powered Browser Redefining Web Browsing](https://dev.to/khankhan/opera-neon-2025-ai-powered-browser-redefining-web-browsing-hfc)
-- [Crypto Borrow on WhiteBIT: A Practical Tool for Developers Working with Digital Assets](https://dev.to/alexnav/crypto-borrow-on-whitebit-a-practical-tool-for-developers-working-with-digital-assets-2n71)
-- [Day-23 I Built a Colorful Random Number Guessing Game with JavaScript!](https://dev.to/tamilselvan1812/i-built-a-colorful-random-number-guessing-game-with-javascript-3i18)
-- [🚀 20 Most Useful TypeScript Snippets](https://dev.to/parthraval9/20-most-useful-typescript-snippets-27k0)
+- [This is getting traction now :&rpar;](https://dev.to/bogomil/this-is-getting-traction-now--1m02)
+- [📦 Stacks &amp; Queues: Two Sides of the Same Coin](https://dev.to/onedev/stacks-queues-two-sides-of-the-same-coin-2nfh)
+- [NVIDIA Adds Native Python Support to CUDA](https://dev.to/maurizio_morri_f7f4bd128c/nvidia-adds-native-python-support-to-cuda-93a)
+- [🧭 Mastering Command Line Navigation: The Essentials](https://dev.to/1suleyman/mastering-command-line-navigation-the-essentials-29jh)
+- [Writing Modular and Scalable Services with NestJS](https://dev.to/niel_morphius/writing-modular-and-scalable-services-with-nestjs-561i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
