@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [This is getting traction now :&rpar;](https://dev.to/bogomil/this-is-getting-traction-now--1m02)
-- [📦 Stacks &amp; Queues: Two Sides of the Same Coin](https://dev.to/onedev/stacks-queues-two-sides-of-the-same-coin-2nfh)
-- [NVIDIA Adds Native Python Support to CUDA](https://dev.to/maurizio_morri_f7f4bd128c/nvidia-adds-native-python-support-to-cuda-93a)
-- [🧭 Mastering Command Line Navigation: The Essentials](https://dev.to/1suleyman/mastering-command-line-navigation-the-essentials-29jh)
-- [Writing Modular and Scalable Services with NestJS](https://dev.to/niel_morphius/writing-modular-and-scalable-services-with-nestjs-561i)
+- [Prueba de concepto: interpretación de infraestructura con ChatGPT + Terraform](https://dev.to/danieljsaldana/prueba-de-concepto-interpretacion-de-infraestructura-con-chatgpt-terraform-mgf)
+- [Building Your First Web Page: Understanding the Why, Not Just the How](https://dev.to/hlnb/building-your-first-web-page-understanding-the-why-not-just-the-how-2lb6)
+- [The reality of remote hiring today is so much more complex than people think. Glad someone is finally talking about it with clarity.](https://dev.to/donnygeisl75478/the-reality-of-remote-hiring-today-is-so-much-more-complex-than-people-think-glad-someone-is-1070)
+- [Upgrade Their Web, Grow Your Biz: Outreach Tactics for Developers](https://dev.to/terrance_danielson/upgrade-their-web-grow-your-biz-outreach-tactics-for-developers-305d)
+- [Getting Started: Build a Model Context Protocol Server](https://dev.to/kenzic/getting-started-build-a-model-context-protocol-server-2bm7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
