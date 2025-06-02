@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Abstraction That Hid the Only Logic That Mattered](https://dev.to/duplessisvanaswegen/the-abstraction-that-hid-the-only-logic-that-mattered-14hg)
-- [I Asked Phind and Copilot to Solve a LeetCode-Like Interview Exercise—Their Solutions Surprised Me](https://dev.to/canro91/i-asked-phind-and-copilot-to-solve-a-leetcode-like-interview-exercise-their-solutions-surprised-me-2pp6)
-- [[Boost]](https://dev.to/pranesh_patel/-1bfh)
-- [Web3 Social Media Will Fail — Because Most People Don’t Want to Own Their Data](https://dev.to/favebs/web3-social-media-will-fail-because-most-people-dont-want-to-own-their-data-525k)
-- [Comprehension in Python &lpar;2&rpar;](https://dev.to/hyperkai/comprehension-in-python-2-ph)
+- [How to Find and Clean Up Unowned `__pycache__` Directories on Arch Linux](https://dev.to/redrum_yot/how-to-find-and-clean-up-unowned-pycache-directories-on-arch-linux-206n)
+- [Server Scheduler - Slash cloud costs with server scheduling](https://dev.to/server-scheduler/server-scheduler-slash-cloud-costs-with-server-scheduling-152m)
+- [Day 12/30 - git push --force-with-lease – Safer alternative to --force](https://dev.to/ruqaiya_beguwala/day-1230-git-push-force-with-lease-safer-alternative-to-force-5fc)
+- [Autoscaling in Azure: A Hands-On Example](https://dev.to/sandrabrown/autoscaling-in-azure-a-hands-on-example-1l7b)
+- [JavaScript’s not-so-obvious type coercion examples](https://dev.to/saboor_bhutta/javascripts-not-so-obvious-type-coercion-examples-1lio)
 <!-- BLOG-POST-LIST:END -->
 
 ---
