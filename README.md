@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How do you stay sane with the non-stop tech hype &lpar;LLMs, anyone?&rpar;](https://dev.to/olgabraginskaya/how-do-you-stay-sane-with-the-non-stop-tech-hype-llms-anyone-5c86)
-- [Export Retrospectives to Confluence with Kollabe 📝](https://dev.to/mattlewandowski93/export-retrospectives-to-confluence-with-kollabe-g4o)
-- [Introduction](https://dev.to/bananawinter19/introduction-26ln)
-- [Load balancing multiple Rathole tunnels with Traefik HTTP and TCP routers](https://dev.to/nemanjam/title-load-balancing-multiple-rathole-tunnels-with-traefik-http-and-tcp-routers-2jo8)
-- [Encoding Corpus](https://dev.to/datatoinfinity/encoding-corpus-3nal)
+- [How I Fixed the Mystery of Corrupted File Downloads from AWS S3](https://dev.to/unkletayo/how-i-fixed-the-mystery-of-corrupted-file-downloads-from-aws-s3-58og)
+- [Stop Vibe Coding Every Damn Time!](https://dev.to/adityaoberai/stop-vibe-coding-every-damn-time-5fj2)
+- [Building Accessible Forms with Angular](https://dev.to/lxt/building-accessible-forms-with-angular-38ii)
+- [SaaS Pricing Page Design: Best Practices for Higher Conversion Rates](https://dev.to/lollypopdesign/saas-pricing-page-design-best-practices-for-higher-conversion-rates-3fgp)
+- [Weight Loss Starts on Your Plate: Powered by Bluepill Express](https://dev.to/bluepills_7db609523d5027d/weight-loss-starts-on-your-plate-powered-by-bluepill-express-2pg7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
