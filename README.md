@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Automate App Deployment with Cloud Build](https://dev.to/aldifp01/automate-app-deployment-with-cloud-build-2cdb)
-- [10 Common Mongoose Mistakes That Break Your MongoDB App](https://dev.to/arunangshu_das/10-common-mongoose-mistakes-that-break-your-mongodb-app-3780)
-- [What If YAML and Lisp Had a Child?: Bring Functional Power to Your Kubernetes Manifests](https://dev.to/totegamma/what-if-yaml-and-lisp-had-a-child-bring-functional-power-to-your-kubernetes-manifests-266h)
-- [Learn Python 001](https://dev.to/tamilvanan/learn-python-001-3gop)
-- [🚀 Building World-Class Multi-Platform Apps: The Ultimate Tech Stack for 2025](https://dev.to/mwacharo6/building-world-class-multi-platform-apps-the-ultimate-tech-stack-for-2025-3bc5)
+- [Rust builder pattern library - what do you think?](https://dev.to/tomoikey/rust-builder-pattern-library-what-do-you-think-24c8)
+- [Developed my first AI application using open source model from Meta. https://ainify.me/](https://dev.to/ianmacalisang/developed-my-first-ai-application-using-open-source-model-from-meta-httpsainifyme-1dhe)
+- [Student&#39;s Final Grade](https://dev.to/maddiepst/students-final-grade-1ie3)
+- [[Share] REST API - A Refresher](https://dev.to/methodox/share-rest-api-a-refresher-5i2)
+- [[Share] Hello World in Divooka](https://dev.to/methodox/share-hello-world-in-divooka-l44)
 <!-- BLOG-POST-LIST:END -->
 
 ---
