@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Rust builder pattern library - what do you think?](https://dev.to/tomoikey/rust-builder-pattern-library-what-do-you-think-24c8)
-- [Developed my first AI application using open source model from Meta. https://ainify.me/](https://dev.to/ianmacalisang/developed-my-first-ai-application-using-open-source-model-from-meta-httpsainifyme-1dhe)
-- [Student&#39;s Final Grade](https://dev.to/maddiepst/students-final-grade-1ie3)
-- [[Share] REST API - A Refresher](https://dev.to/methodox/share-rest-api-a-refresher-5i2)
-- [[Share] Hello World in Divooka](https://dev.to/methodox/share-hello-world-in-divooka-l44)
+- [The Abstraction That Hid the Only Logic That Mattered](https://dev.to/duplessisvanaswegen/the-abstraction-that-hid-the-only-logic-that-mattered-14hg)
+- [I Asked Phind and Copilot to Solve a LeetCode-Like Interview Exercise—Their Solutions Surprised Me](https://dev.to/canro91/i-asked-phind-and-copilot-to-solve-a-leetcode-like-interview-exercise-their-solutions-surprised-me-2pp6)
+- [[Boost]](https://dev.to/pranesh_patel/-1bfh)
+- [Web3 Social Media Will Fail — Because Most People Don’t Want to Own Their Data](https://dev.to/favebs/web3-social-media-will-fail-because-most-people-dont-want-to-own-their-data-525k)
+- [Comprehension in Python &lpar;2&rpar;](https://dev.to/hyperkai/comprehension-in-python-2-ph)
 <!-- BLOG-POST-LIST:END -->
 
 ---
