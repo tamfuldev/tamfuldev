@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Detailed Guide to Packaging and Signing Process](https://dev.to/xhunmon/detailed-guide-to-packaging-and-signing-process-2ha3)
-- [New Test Uses Machine Learning to Personalize Prostate Cancer Treatment](https://dev.to/maurizio_morri_f7f4bd128c/new-test-uses-machine-learning-to-personalize-prostate-cancer-treatment-288h)
-- [VS Code Ninja Tricks: 10 Hidden Features That’ll 10x Your Productivity](https://dev.to/imoh_imohowo/vs-code-ninja-tricks-10-hidden-features-thatll-10x-your-productivity-2e8)
-- [Localization vs. Internationalization](https://dev.to/xfq/localization-vs-internationalization-4kc7)
-- [Wordpress development - creating a shortcode with parameters](https://dev.to/raymundoch/wordpress-development-creating-a-shortcode-41p7)
+- [The Quiet Revolution of Empowered Workers](https://dev.to/charpie_searchcraft/the-quiet-revolution-of-empowered-workers-49pp)
+- [Next.js 15 + React 19: Worth It?](https://dev.to/liu-purnomo/nextjs-15-react-19-worth-it-5fbj)
+- [🔒AI Ethics and Governance: A Comprehensive Guide](https://dev.to/furqanahmadrao/ai-ethics-and-governance-a-comprehensive-guide-4fce)
+- [The Philosophy of JavaScript: Messy, Mighty, and Made for the Web](https://dev.to/umarsiddique010/the-philosophy-of-javascript-messy-mighty-and-made-for-the-web-3ook)
+- [Are they the &quot;same&quot;?](https://dev.to/maddiepst/are-they-the-same-57ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
