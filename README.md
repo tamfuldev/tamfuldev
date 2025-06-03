@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I will convert figma to html xd to html PSD to html css responsive website](https://dev.to/ali_ali_1e10a930fd19b7770/i-will-convert-figma-to-html-xd-to-html-psd-to-html-css-responsive-website-4fen)
-- [I Built a Git Tutorial That Uses Branches as Learning Modules &lpar;And It&#39;s Going Viral&rpar; 🔥](https://dev.to/arwinux/i-built-a-git-tutorial-that-uses-branches-as-learning-modules-and-its-going-viral-1f7a)
-- [Selenium Automation with Python: Your First Test Script Explained](https://dev.to/pythontutorial/selenium-automation-with-python-your-first-test-script-explained-hnk)
-- [Day 13/30 - Git Pull --rebase: Keep Your History Linear When Pulling Changes](https://dev.to/ruqaiya_beguwala/day-1330-git-pull-rebase-keep-your-history-linear-when-pulling-changes-4poe)
-- [🚀 Building an AI-Powered Desktop Assistant](https://dev.to/sai_deepak_a267b8e518485e/building-an-ai-powered-desktop-assistant-1d93)
+- [Discover how ForkJoinPool powers Java&#39;s high-performance parallel processing](https://dev.to/headf1rst/discover-how-forkjoinpool-powers-javas-high-performance-parallel-processing-3pn7)
+- [Old School Racing Game](https://dev.to/preetha_vaishnavi_2b82358/old-school-racing-game-4c13)
+- [Asynchronous SQLAlchemy 2: A simple step-by-step guide to configuration, models, relationships, and migrations using Alembic](https://dev.to/amverum/asynchronous-sqlalchemy-2-a-simple-step-by-step-guide-to-configuration-models-relationships-and-3ob3)
+- [Career Growth After Getting Salesforce Certified: Your First Step Toward Success](https://dev.to/sap_salesforceoraclec/career-growth-after-getting-salesforce-certified-your-first-step-toward-success-48d5)
+- [Creating a Cybersecurity Culture in Small Businesses](https://dev.to/bridgegroupsolutions/creating-a-cybersecurity-culture-in-small-businesses-2njn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
