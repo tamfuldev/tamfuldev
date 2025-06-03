@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[SECURITY IN RAILS] Preventing enumeration attacks, data leaks, and timing based attacks 🔐🛤️](https://dev.to/rwxpat/security-in-rails-preventing-enumeration-attacks-data-leaks-and-timing-based-attacks-4k6e)
-- [Detecting nginx worker leaks](https://dev.to/tonymeehan/detecting-nginx-worker-leaks-411d)
-- [📢 JavaScript Warriors &amp; DSA Dreamers! Just dropped DSA with JavaScript series, and trust me, Don&#39;t miss it! 👉 Read it here: [Read here]&lpar;https://medium.com/@rahhuul3110/mastering-dsa-with-javascript-a-roadmap-for-developers-in-2025-part-1-e8597d3083e8&rpar;](https://dev.to/rahul_patel_45f7eb609f16c/javascript-warriors-dsa-dreamers-just-dropped-dsa-with-javascript-series-and-trust-me-not-502i)
-- [🚀 From Idea to GitHub in 2 Days: Introducing InkCollector](https://dev.to/bertcafecito/from-idea-to-github-in-2-days-introducing-inkcollector-2pb4)
-- [Understanding JavaScript: The Language of the Web](https://dev.to/elsayed85/understanding-javascript-the-language-of-the-web-c5c)
+- [Create a feature flag in your IDE in 5 minutes with LaunchDarkly’s MCP server](https://dev.to/annthurium/create-a-feature-flag-in-your-ide-in-5-minutes-with-launchdarklys-mcp-server-2jg)
+- [Turning Adversity into Opportunity: Harnessing the Power of Difficult Times](https://dev.to/gov_afrika_b681dfae823748/turning-adversity-into-opportunity-harnessing-the-power-of-difficult-times-5h3)
+- [Cloud Business Continuity and Disaster Recovery: Why It Actually Matters &lpar;Especially for DevOps&rpar;](https://dev.to/terraformmonkey/cloud-business-continuity-and-disaster-recovery-why-it-actually-matters-especially-for-devops-4bdn)
+- [Turning Adversity into Opportunity: Harnessing the Power of Difficult Times](https://dev.to/saja_osman_c476c977f25017/turning-adversity-into-opportunity-harnessing-the-power-of-difficult-times-4ea0)
+- [The Hidden Major Flaws in ‘Work Smart, Not Hard’ That Make People Mediocre](https://dev.to/georgekobaidze/the-hidden-major-flaws-in-work-smart-not-hard-that-make-people-mediocre-5dgn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
