@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Ghost in the Machine](https://dev.to/rawveg/the-ghost-in-the-machine-4m3i)
-- [A Detailed Explanation of the Timer in the HarmonyOS Cangjie development Language](https://dev.to/youlanjihua/a-detailed-explanation-of-the-timer-in-the-harmonyos-cangjie-development-language-3m1p)
-- [Como eu trampei 7 meses de graça com PHP pra receber 700 reais](https://dev.to/gustavodevdoido/como-eu-trampei-7-meses-de-graca-com-php-pra-receber-700-reais-emj)
-- [Hallucinating with Q: deep conversations at midnight](https://dev.to/agi_general/hallucinating-with-q-deep-conversations-at-midnight-4hjm)
-- [Building a Console-Based Blackjack Game in C# – Card Rendering, Clean Code and a Simple AI Bot](https://dev.to/porzeraklon/building-a-console-based-blackjack-game-in-c-card-rendering-clean-code-and-a-simple-ai-bot-46pk)
+- [15 ‘Hard’ leetcode problems that are actually easy](https://dev.to/rshxx/15-hard-leetcode-problems-that-are-actually-easy-k99)
+- [Web Dev Day 8: Backend - NodeJS, Express, Ejs, REST &lpar;Part - 1&rpar;](https://dev.to/_bhupeshk_/backend-nodejs-express-ejs-rest-part-1-53o0)
+- [Introducing YAP: Speak. Earn. Repeat.](https://dev.to/yap2learn/introducing-yap-speak-earn-repeat-jj7)
+- [Request for maintainer&lpar;s&rpar;](https://dev.to/adamghill/request-for-maintainers-4b08)
+- [[📝LeetCode #26] Remove Duplicates from Sorted Array](https://dev.to/shine7on/leetcode-26-remove-duplicates-from-sorted-array-30hp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
