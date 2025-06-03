@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing LogManticsAI: LLM-Powered CLI for Semantic JSON Log Analysis](https://dev.to/chattermate/introducing-logmanticsai-llm-powered-cli-for-semantic-json-log-analysis-1969)
-- [Using Mermaid Diagrams 100x Better with Your Favorite AI / LLM App](https://dev.to/yigit-konur/using-mermaid-diagrams-100x-better-with-your-favorite-ai-llm-app-3m1p)
-- [LangGraph + Graphiti + Long Term Memory = Powerful Agentic Memory](https://dev.to/gaodalie_ai/langgraph-graphiti-long-term-memory-powerful-agentic-memory-1iag)
-- [Prof. Postmark](https://dev.to/gokerdev/prof-postmark-2lo6)
-- [I built another aesthetic Pomodoro timer — 800 users show up in the first week](https://dev.to/davidtran/i-built-another-aesthetic-pomodoro-timer-800-users-show-up-in-the-first-week-4alb)
+- [I will convert figma to html xd to html PSD to html css responsive website](https://dev.to/ali_ali_1e10a930fd19b7770/i-will-convert-figma-to-html-xd-to-html-psd-to-html-css-responsive-website-4fen)
+- [I Built a Git Tutorial That Uses Branches as Learning Modules &lpar;And It&#39;s Going Viral&rpar; 🔥](https://dev.to/arwinux/i-built-a-git-tutorial-that-uses-branches-as-learning-modules-and-its-going-viral-1f7a)
+- [Selenium Automation with Python: Your First Test Script Explained](https://dev.to/pythontutorial/selenium-automation-with-python-your-first-test-script-explained-hnk)
+- [Day 13/30 - Git Pull --rebase: Keep Your History Linear When Pulling Changes](https://dev.to/ruqaiya_beguwala/day-1330-git-pull-rebase-keep-your-history-linear-when-pulling-changes-4poe)
+- [🚀 Building an AI-Powered Desktop Assistant](https://dev.to/sai_deepak_a267b8e518485e/building-an-ai-powered-desktop-assistant-1d93)
 <!-- BLOG-POST-LIST:END -->
 
 ---
