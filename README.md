@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Queueing Theory](https://dev.to/tsudhishnair/understanding-queueing-theory-1jon)
-- [💰 The Best Way to Earn Money Online as a Developer in 2025](https://dev.to/code_area_9036c9663233d92/the-best-way-to-earn-money-online-as-a-developer-in-2025-3dcp)
-- [🔥 Fire Burns The Ignorant - Featuring Arch - Day 2 Log](https://dev.to/abhayrsr/fire-burns-the-ignorant-featuring-arch-day-2-log-186a)
-- [Day 6 - Session 1: HTML &amp; CSS: Doubt-Clearing &amp; Interview Preparation Session with Vijay Sir](https://dev.to/sathish_226_/day-6-session-1-html-css-doubt-clearing-interview-preparation-session-with-vijay-sir-5b6)
-- [@ConditionalOnProperty In Spring Boot](https://dev.to/eduesqui/conditionalonproperty-in-spring-boot-pfd)
+- [Conditional Statements, AND &lpar;&amp;&amp;&rpar;, and OR &lpar;||&rpar; in Programming](https://dev.to/mukilaperiyasamy/conditional-statements-and-and-or-in-programming-447l)
+- [How to use Claude to build a web app](https://dev.to/logrocket/how-to-use-claude-to-build-a-web-app-2if9)
+- [easy-live2d - Making Live2D integration easier!](https://dev.to/panzer_jack/easy-live2d-making-live2d-integration-easier-4ia8)
+- [What is Caddy and How It Helped My Product DBLayer.dev](https://dev.to/scorcism/what-is-caddy-and-how-it-helped-my-product-dblayerdev-2k41)
+- [The Rise of Intelligent Tracking Systems in Digital Marketing](https://dev.to/williamoliver/the-rise-of-intelligent-tracking-systems-in-digital-marketing-n65)
 <!-- BLOG-POST-LIST:END -->
 
 ---
