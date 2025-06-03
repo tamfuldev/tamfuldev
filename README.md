@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [15 ‘Hard’ leetcode problems that are actually easy](https://dev.to/rshxx/15-hard-leetcode-problems-that-are-actually-easy-k99)
-- [Web Dev Day 8: Backend - NodeJS, Express, Ejs, REST &lpar;Part - 1&rpar;](https://dev.to/_bhupeshk_/backend-nodejs-express-ejs-rest-part-1-53o0)
-- [Introducing YAP: Speak. Earn. Repeat.](https://dev.to/yap2learn/introducing-yap-speak-earn-repeat-jj7)
-- [Request for maintainer&lpar;s&rpar;](https://dev.to/adamghill/request-for-maintainers-4b08)
-- [[📝LeetCode #26] Remove Duplicates from Sorted Array](https://dev.to/shine7on/leetcode-26-remove-duplicates-from-sorted-array-30hp)
+- [Harmonyos Cangjie Language Development Practical Tutorial: Shopping Cart Page](https://dev.to/youlanjihua/harmonyos-cangjie-language-development-practical-tutorial-shopping-cart-page-55mm)
+- [Data Types in Java](https://dev.to/ramya_kamalasekaran/data-types-in-java-3a8d)
+- [Cypress: Copy Debug Prompt](https://dev.to/elaichenkov/cypress-copy-debug-prompt-4hnb)
+- [Corporate system prompts -for fun and profit](https://dev.to/dermotholmes/corporate-system-prompts-for-fun-and-profit-a9p)
+- [Just asking to know!](https://dev.to/kawsar_jvai/just-asking-to-know-1a05)
 <!-- BLOG-POST-LIST:END -->
 
 ---
