@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Run My SaaS for $45/month Without Supabase, Vercel, or Firebase. Just Rails.](https://dev.to/andresurdaneta/how-i-run-my-saas-for-45month-without-supabase-vercel-or-firebase-just-rails-22pc)
-- [Y&#39;all hear me out: Coding is just poetry in different font](https://dev.to/s_hreya/yall-hear-me-out-coding-is-just-poetry-in-different-font-1n7o)
-- [Beyond the Hype: A Look at 5+ AI Coding Agents for Your Terminal](https://dev.to/skeptrune/beyond-the-hype-a-look-at-5-ai-coding-agents-for-your-terminal-e0m)
-- [Introducing Lingo.dev Compiler: Localize a React app without rewriting its code](https://dev.to/maxprilutskiy/introducing-lingodev-compiler-localize-a-react-app-without-rewriting-its-code-5anm)
-- [Enclave Games Monthly Report: May 2025](https://dev.to/end3r/enclave-games-monthly-report-may-2025-b7i)
+- [[SECURITY IN RAILS] Preventing enumeration attacks, data leaks, and timing based attacks 🔐🛤️](https://dev.to/rwxpat/security-in-rails-preventing-enumeration-attacks-data-leaks-and-timing-based-attacks-4k6e)
+- [Detecting nginx worker leaks](https://dev.to/tonymeehan/detecting-nginx-worker-leaks-411d)
+- [📢 JavaScript Warriors &amp; DSA Dreamers! Just dropped DSA with JavaScript series, and trust me, Don&#39;t miss it! 👉 Read it here: [Read here]&lpar;https://medium.com/@rahhuul3110/mastering-dsa-with-javascript-a-roadmap-for-developers-in-2025-part-1-e8597d3083e8&rpar;](https://dev.to/rahul_patel_45f7eb609f16c/javascript-warriors-dsa-dreamers-just-dropped-dsa-with-javascript-series-and-trust-me-not-502i)
+- [🚀 From Idea to GitHub in 2 Days: Introducing InkCollector](https://dev.to/bertcafecito/from-idea-to-github-in-2-days-introducing-inkcollector-2pb4)
+- [Understanding JavaScript: The Language of the Web](https://dev.to/elsayed85/understanding-javascript-the-language-of-the-web-c5c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
