@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Harmonyos Cangjie Language Development Practical Tutorial: Shopping Cart Page](https://dev.to/youlanjihua/harmonyos-cangjie-language-development-practical-tutorial-shopping-cart-page-55mm)
-- [Data Types in Java](https://dev.to/ramya_kamalasekaran/data-types-in-java-3a8d)
-- [Cypress: Copy Debug Prompt](https://dev.to/elaichenkov/cypress-copy-debug-prompt-4hnb)
-- [Corporate system prompts -for fun and profit](https://dev.to/dermotholmes/corporate-system-prompts-for-fun-and-profit-a9p)
-- [Just asking to know!](https://dev.to/kawsar_jvai/just-asking-to-know-1a05)
+- [Detailed Guide to Packaging and Signing Process](https://dev.to/xhunmon/detailed-guide-to-packaging-and-signing-process-2ha3)
+- [New Test Uses Machine Learning to Personalize Prostate Cancer Treatment](https://dev.to/maurizio_morri_f7f4bd128c/new-test-uses-machine-learning-to-personalize-prostate-cancer-treatment-288h)
+- [VS Code Ninja Tricks: 10 Hidden Features That’ll 10x Your Productivity](https://dev.to/imoh_imohowo/vs-code-ninja-tricks-10-hidden-features-thatll-10x-your-productivity-2e8)
+- [Localization vs. Internationalization](https://dev.to/xfq/localization-vs-internationalization-4kc7)
+- [Wordpress development - creating a shortcode with parameters](https://dev.to/raymundoch/wordpress-development-creating-a-shortcode-41p7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
