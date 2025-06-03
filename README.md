@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [When Your Job Doesn’t Match Your Goals…](https://dev.to/bellatrix/when-your-job-doesnt-match-your-goals-5eda)
-- [Shorten URL Reflections](https://dev.to/jason_oh_242b4e371630fdac/url-shortening-service-reflections-44fj)
-- [Build MCP server in Java with a2ajava](https://dev.to/vishalmysore/build-mcp-server-in-java-with-a2ajava-5b1n)
-- [Hardship Is the Key to Success: The Example of Somaliland and Nelson Mandela](https://dev.to/gov_afrika_b681dfae823748/hardship-is-the-key-to-success-the-example-of-somaliland-and-nelson-mandela-38f8)
-- [[Boost]](https://dev.to/aleksmaus/-5del)
+- [How to Talk to AI &lpar;and Get Better Results&rpar;](https://dev.to/_senhorbento/how-to-talk-to-ai-and-get-better-results-oia)
+- [The Bold Sweetness of a Raspberry Background](https://dev.to/smartdev72/the-bold-sweetness-of-a-raspberry-background-3ggp)
+- [Reflexões Noturnas: Por que “Team Topologies” me fez repensar tudo sobre como a gente trabalha &lpar;e entrega valor&rpar;](https://dev.to/maicon_luizanschau_2ec1f/reflexoes-noturnas-por-que-team-topologies-me-fez-repensar-tudo-sobre-como-a-gente-trabalha-e-5cj8)
+- [The Deep Sophistication of a Plum Background](https://dev.to/smartdev72/the-deep-sophistication-of-a-plum-background-2o87)
+- [The Vibrant Blend of a Pink Orange Background](https://dev.to/smartdev72/the-vibrant-blend-of-a-pink-orange-background-4j8h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
