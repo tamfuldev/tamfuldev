@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [readme](https://dev.to/armaankhan8270/readme-2fbd)
-- [How to Create a React App in 2025](https://dev.to/tahmidbintaslim/how-to-create-a-react-app-in-2025-1kei)
-- [From Function to Icon: The Evolution of the Spacebar Keycap](https://dev.to/mysticcoder/from-function-to-icon-the-evolution-of-the-spacebar-keycap-2iio)
-- [Demystifying Dapr State Store](https://dev.to/sirivarma/demystifying-dapr-state-store-3ijh)
-- [Responsive Layouts Done Right: The Critical Role of max-width](https://dev.to/trae_z/responsive-layouts-done-right-the-critical-role-of-max-width-8m6)
+- [How to Install and Run Chatterbox Locally](https://dev.to/nodeshiftcloud/how-to-install-and-run-chatterbox-locally-5fd2)
+- [Building Custom Magento Modules with Hyvä Compatibility in Mind](https://dev.to/sagar_panchal/building-custom-magento-modules-with-hyva-compatibility-in-mind-51f5)
+- [🛡️ Data Protection: Building Trust, Ensuring Compliance, and Driving Growth](https://dev.to/ashikur_rahmannazil93/data-protection-building-trust-ensuring-compliance-and-driving-growth-onc)
+- [Reportgen.io vs Html2pdf.app - Which PDF API Should You Use in 2025? ⚔️](https://dev.to/ethan_reportgen/reportgenio-vs-html2pdfapp-which-pdf-api-should-you-use-in-2025-357p)
+- [Transform Your Speech into Text with the Power of OpenAI and useWhisper](https://dev.to/chengsokdara/transform-your-speech-into-text-with-the-power-of-openai-and-usewhisper-5175)
 <!-- BLOG-POST-LIST:END -->
 
 ---
