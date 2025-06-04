@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Update: I ordered loops as a stop gap. Gotta start somewhere!](https://dev.to/jess/update-i-ordered-loops-as-a-stop-gap-gotta-start-somewhere-3n6e)
+- [Why Most AI in Language Learning Apps Is Just Flashy Garbage](https://dev.to/yaptech/why-most-ai-in-language-learning-apps-is-just-flashy-garbage-24b1)
 - [When Identity Becomes UI: Reflections on Ego, Skin, and the Invisible Code Between Us](https://dev.to/versiqcontent/when-identity-becomes-ui-reflections-on-ego-skin-and-the-invisible-code-between-us-4ndi)
 - [Advanced Ruby Regular Expressions: Mastering Pattern Matching and Text Processing](https://dev.to/daviducolo/advanced-ruby-regular-expressions-mastering-pattern-matching-and-text-processing-4m6i)
 - [What are the best new games?](https://dev.to/glenn_trojan_1e79e881c2b7/what-are-the-best-new-games-56kl)
-- [How I Built My First Web3 dApp: A &quot;Buy Me a Coffee&quot; Ethereum Tip Jar ☕](https://dev.to/dhis_is_jj/how-i-built-my-first-web3-dapp-a-buy-me-a-coffee-ethereum-tip-jar-4c8j)
-- [😵‍💫 The Solo Dev Struggle Is Real: Projects, Deadlines, Life… All at Once!!](https://dev.to/nish2005karsh/the-solo-dev-struggle-is-real-projects-deadlines-life-all-at-once-2me2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
