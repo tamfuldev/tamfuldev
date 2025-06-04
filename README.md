@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to calculate your real GitHub Actions usage in minutes](https://dev.to/depot/how-to-calculate-your-real-github-actions-usage-in-minutes-nlb)
-- [Make In A Day: Sudoku](https://dev.to/chigbeef_77/make-in-a-day-sudoku-36fb)
-- [Novo aqui](https://dev.to/lucas_antonio_f58b0a3ce24/novo-aqui-1l0c)
-- [The Ultimate Guide to Codia AI: Your New Design Powerhouse](https://dev.to/atforeveryoung/the-ultimate-guide-to-codia-ai-your-new-design-powerhouse-3oho)
-- [🧠 KMSPico - A Developer’s Take on Windows Activation, Licensing Systems &amp; Automation Ethics](https://dev.to/kmspico/kmspico-a-developers-take-on-windows-activation-licensing-systems-automation-ethics-3m2g)
+- [How to operate large CSV files with esProc SPL](https://dev.to/esproc_spl/how-to-operate-large-csv-files-with-esproc-spl-16k3)
+- [Part 2: Advanced Code Editing, Refactoring &amp; Multi-Cursor Power &lpar;VS Code Shortcuts for Windows &amp; Mac&rpar;!!](https://dev.to/nish2005karsh/part-2-advanced-code-editing-refactoring-multi-cursor-power-vs-code-shortcuts-for-windows--1e3a)
+- [Complete Guide to Creating an App in AppGallery Connect](https://dev.to/xhunmon/complete-guide-to-creating-an-app-in-appgallery-connect-o81)
+- [Calling Devs: Help Build Mothrly — A Digital Village for Mothers](https://dev.to/myra_barnes_1985/calling-devs-help-build-mothrly-a-digital-village-for-mothers-1b4d)
+- [[en] What are HW and SW?!](https://dev.to/elasfalamtech/en-what-are-hw-and-sw-2o40)
 <!-- BLOG-POST-LIST:END -->
 
 ---
