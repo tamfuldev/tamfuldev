@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to operate large CSV files with esProc SPL](https://dev.to/esproc_spl/how-to-operate-large-csv-files-with-esproc-spl-16k3)
-- [Part 2: Advanced Code Editing, Refactoring &amp; Multi-Cursor Power &lpar;VS Code Shortcuts for Windows &amp; Mac&rpar;!!](https://dev.to/nish2005karsh/part-2-advanced-code-editing-refactoring-multi-cursor-power-vs-code-shortcuts-for-windows--1e3a)
-- [Complete Guide to Creating an App in AppGallery Connect](https://dev.to/xhunmon/complete-guide-to-creating-an-app-in-appgallery-connect-o81)
-- [Calling Devs: Help Build Mothrly — A Digital Village for Mothers](https://dev.to/myra_barnes_1985/calling-devs-help-build-mothrly-a-digital-village-for-mothers-1b4d)
-- [[en] What are HW and SW?!](https://dev.to/elasfalamtech/en-what-are-hw-and-sw-2o40)
+- [Zero Trust for DevOps: How to Architect It Without Destroying Your CI/CD](https://dev.to/kedster/zero-trust-for-devops-how-to-architect-it-without-destroying-your-cicd-557p)
+- [Dynamic Data in Test Automation: Guide to Best Practices](https://dev.to/anil_csimplifyit_905c/dynamic-data-in-test-automation-guide-to-best-practices-5ee3)
+- [🚦 Smarter API Routing with Amazon API Gateway &lpar;June 2025 Update&rpar;](https://dev.to/latchudevops/smarter-api-routing-with-amazon-api-gateway-june-2025-update-27na)
+- [Hands-On with MCP Server: Simplifying AWS Cloud Cost Analysis](https://dev.to/cloudpilot-ai/hands-on-with-mcp-server-simplifying-aws-cloud-cost-analysis-3g0c)
+- [Get the Initial Date Using the Total — From SQL to SPL #35](https://dev.to/judith677/get-the-initial-date-using-the-total-from-sql-to-spl-35-2hmg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
