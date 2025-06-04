@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/badmonster0/-1f0a)
-- [Build Real-Time Knowledge Graphs from Documents Using CocoIndex + Kuzu &lpar;with LLMs &amp; Live Updates&rpar;](https://dev.to/cocoindex/build-real-time-knowledge-graphs-from-documents-using-cocoindex-kuzu-with-llms-live-updates-n1b)
-- [Day 14/30 - Git Reset: Soft, Hard, and Mixed - Undo Commits at Different Levels](https://dev.to/ruqaiya_beguwala/day-1430-git-reset-soft-hard-and-mixed-undo-commits-at-different-levels-4me4)
-- [A School Hub, My native PHP project!](https://dev.to/adham_hashem/a-shool-hub-my-native-php-project-206p)
-- [Ephemeral Design Manifesto](https://dev.to/hamajyotan/ephemeral-design-manifesto-1km7)
+- [readme](https://dev.to/armaankhan8270/readme-2fbd)
+- [How to Create a React App in 2025](https://dev.to/tahmidbintaslim/how-to-create-a-react-app-in-2025-1kei)
+- [From Function to Icon: The Evolution of the Spacebar Keycap](https://dev.to/mysticcoder/from-function-to-icon-the-evolution-of-the-spacebar-keycap-2iio)
+- [Demystifying Dapr State Store](https://dev.to/sirivarma/demystifying-dapr-state-store-3ijh)
+- [Responsive Layouts Done Right: The Critical Role of max-width](https://dev.to/trae_z/responsive-layouts-done-right-the-critical-role-of-max-width-8m6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
