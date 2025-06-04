@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Talk to AI &lpar;and Get Better Results&rpar;](https://dev.to/_senhorbento/how-to-talk-to-ai-and-get-better-results-oia)
-- [The Bold Sweetness of a Raspberry Background](https://dev.to/smartdev72/the-bold-sweetness-of-a-raspberry-background-3ggp)
-- [Reflexões Noturnas: Por que “Team Topologies” me fez repensar tudo sobre como a gente trabalha &lpar;e entrega valor&rpar;](https://dev.to/maicon_luizanschau_2ec1f/reflexoes-noturnas-por-que-team-topologies-me-fez-repensar-tudo-sobre-como-a-gente-trabalha-e-5cj8)
-- [The Deep Sophistication of a Plum Background](https://dev.to/smartdev72/the-deep-sophistication-of-a-plum-background-2o87)
-- [The Vibrant Blend of a Pink Orange Background](https://dev.to/smartdev72/the-vibrant-blend-of-a-pink-orange-background-4j8h)
+- [How to calculate your real GitHub Actions usage in minutes](https://dev.to/depot/how-to-calculate-your-real-github-actions-usage-in-minutes-nlb)
+- [Make In A Day: Sudoku](https://dev.to/chigbeef_77/make-in-a-day-sudoku-36fb)
+- [Novo aqui](https://dev.to/lucas_antonio_f58b0a3ce24/novo-aqui-1l0c)
+- [The Ultimate Guide to Codia AI: Your New Design Powerhouse](https://dev.to/atforeveryoung/the-ultimate-guide-to-codia-ai-your-new-design-powerhouse-3oho)
+- [🧠 KMSPico - A Developer’s Take on Windows Activation, Licensing Systems &amp; Automation Ethics](https://dev.to/kmspico/kmspico-a-developers-take-on-windows-activation-licensing-systems-automation-ethics-3m2g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
