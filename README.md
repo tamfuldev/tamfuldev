@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Story Hero - Dev Log - Day 7](https://dev.to/danielreiling/story-hero-dev-log-day-7-1dl6)
+- [How to Make ChatGPT Codex Work with PHP and Symfony](https://dev.to/javiereguiluz/how-to-make-chatgpt-codex-work-with-php-and-symfony-4lj8)
 - [The 12 Best Entity Component Systems for C++](https://dev.to/marcosplusplus/the-12-best-entity-component-systems-for-c-98h)
 - [Os 12 Melhores Entity Component System para C++](https://dev.to/marcosplusplus/os-12-melhores-entity-component-system-para-c-50p4)
 - [More Than Cleanliness: The Truth About OCD](https://dev.to/vitalhealthpsychiatry_846/more-than-cleanliness-the-truth-about-ocd-4n0f)
-- [Apache Helm Chart](https://dev.to/mahir_dasare_333/apache-helm-chart-294n)
-- [A Baby Step into Markdown 👶](https://dev.to/ld80061/a-baby-step-into-markdown-2fmp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
