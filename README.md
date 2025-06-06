@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/anthonymax/-26c2)
-- [How to Implement JOIN Operations Between Tables from Different Databases with esProc?](https://dev.to/esproc_spl/how-to-implement-join-operations-between-tables-from-different-databases-with-esproc-1g32)
-- [🤖 Greedy Robot &amp; Lexicographically Smallest String | LeetCode 2434 &lpar;C++ | JavaScript | Python&rpar;](https://dev.to/om_shree_0709/greedy-robot-lexicographically-smallest-string-leetcode-2434-c-javascript-python-3k4)
-- [Critical RCE Vulnerabilities Found in DataEase &lpar;CVE-2025-49001/49002&rpar;](https://dev.to/sharon_42e16b8da44dabde6d/critical-rce-vulnerabilities-found-in-dataease-cve-2025-4900149002-4bl4)
-- [Full-Scope Tests Passed! A Practical Guide to Apache DolphinScheduler 3.2.0 Single-Node Deployment and Verification](https://dev.to/chen_debra_3060b21d12b1b0/full-scope-tests-passed-a-practical-guide-to-apache-dolphinscheduler-320-single-node-deployment-1iba)
+- [🧠 Your Guide to Terraform Variables](https://dev.to/terraformmonkey/your-guide-to-terraform-variables-27kb)
+- [esProc SPL: Equivalent to the Python-enhanced DuckDB](https://dev.to/serina_8340/esproc-spl-equivalent-to-the-python-enhanced-duckdb-29if)
+- [Docker কি জিনিস?](https://dev.to/emdadulislam/docker-ki-jinis-21ah)
+- [Kubernetes &lpar;K8s&rpar; কি জিনিস? আড্ডায় শিখে নিই!](https://dev.to/emdadulislam/kubernetes-k8s-ki-jinis-aaddddaay-shikhe-nii-30p5)
+- [কাফকা &lpar;Apache Kafka&rpar; কি জিনিস? বন্ধুদের আড্ডায় শিখে নিই!](https://dev.to/emdadulislam/kaaphkaa-apache-kafka-ki-jinis-bndhuder-aaddddaay-shikhe-nii-1o0o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
