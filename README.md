@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [What is Generative AI? Like I’m 10!](https://dev.to/kedark/what-is-generative-ai-like-im-10-1hdi)
+- [Daily JavaScript Challenge #JS-199: Find the Longest Increasing Subsequence](https://dev.to/dpc/daily-javascript-challenge-js-199-find-the-longest-increasing-subsequence-12m0)
 - [If your app solves real problems, the frontend doesn&#39;t matter.](https://dev.to/boluwatifeilerioluwa/if-your-app-solves-real-problems-the-frontend-doesnt-matter-4gcl)
 - [My GitHub activity this year 💪💪](https://dev.to/boluwatifeilerioluwa/my-github-activity-this-year-4837)
 - [Nintendo Switch 2 Screen Punctures Ruin Launch Day for Fans Due to Store Receipts Stapled Into Console&#39;s Box](https://dev.to/gg_news/nintendo-switch-2-screen-punctures-ruin-launch-day-for-fans-due-to-store-receipts-stapled-into-9ef)
-- [Rumour: Hunter Schafer is being eyed as Princess Zelda in the Zelda movie](https://dev.to/gg_news/rumour-hunter-schafer-is-being-eyed-as-princess-zelda-in-the-zelda-movie-5hb8)
-- [Nintendo Switch 2 Screen Punctures Ruin Launch Day for Fans Due to GameStop Receipts Stapled Into Console&#39;s Box](https://dev.to/gg_news/nintendo-switch-2-screen-punctures-ruin-launch-day-for-fans-due-to-gamestop-receipts-stapled-into-3lmc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
