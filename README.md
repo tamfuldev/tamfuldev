@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Build a Custom Scheduling Page in Minutes with Cogency.io &lpar;No Code Needed&rpar;](https://dev.to/dailysandbox/build-a-custom-scheduling-page-in-minutes-with-cogencyio-no-code-needed-4fa8)
-- [Security news weekly round-up - 6th June 2025](https://dev.to/ziizium/security-news-weekly-round-up-6th-june-2025-4118)
-- [How I Got Cited by ChatGPT, Perplexity, and Grok — Without Gaming the System](https://dev.to/blackblocksheep/how-i-got-cited-by-chatgpt-perplexity-and-grok-without-gaming-the-system-fg1)
-- [Learning Perl – Introduction](https://dev.to/lnation/learning-perl-introduction-3d1a)
-- [Building YAP’s Community: How I’m Leading the Charge and Why I’m the Best Fit](https://dev.to/yaptech/building-yaps-community-how-im-leading-the-charge-and-why-im-the-best-fit-26d5)
+- [Avoid These 3 Common Form Traps in React](https://dev.to/werliton/avoid-these-3-common-form-traps-in-react-4m3j)
+- [Game Engine Architecture: An Evolution of the ECS Paradigm](https://dev.to/geseey/game-engine-architecture-an-evolution-of-the-ecs-paradigm-27ap)
+- [The SaaS Sentinel: Automated Competitive Intelligence Analyst](https://dev.to/takitajwar17/the-saas-sentinel-automated-competitive-intelligence-analyst-10a3)
+- [Build a Policy-Based Access System in Python](https://dev.to/kuba_szw/build-a-policy-based-access-system-in-python-3k1i)
+- [A Recruiter&#39;s favourite tool: Powered by Postmark](https://dev.to/arndom/a-recruiters-favourite-tool-powered-by-postmark-k3k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
