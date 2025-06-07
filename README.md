@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [VS2022 External tools in toolbar](https://dev.to/karenpayneoregon/vs2022-external-tools-in-toolbar-1kc3)
-- [🧠 A Beginner’s Guide to Git: What It Is, Why It Matters, and How to Use It.](https://dev.to/carsonbtw/a-beginners-guide-to-git-what-it-is-why-it-matters-and-how-to-use-it-4825)
-- [⚛️ When React Context API Turns Against You: A Late-Night Debugging Story](https://dev.to/juandadev/when-react-context-api-turns-against-you-a-late-night-debugging-story-3bkf)
-- [AutoML Might Be the Most Important Tool You’re Not Using Yet](https://dev.to/superorange0707/automl-might-be-the-most-important-tool-youre-not-using-yet-3pne)
-- [&lt;h1&gt;So Just Why Are Med Spas Turning Out the New Standard for Aesthetics and Health and wellbeing?&lt;/h1&gt;&lt;br&gt;](https://dev.to/capstreet07/so-just-why-are-med-spas-turning-out-the-new-standard-for-aesthetics-and-health-and-5e2m)
+- [Snyk for Government Achieves FedRAMP Moderate Authorization: A Milestone for Secure Government Software](https://dev.to/snyk/snyk-for-government-achieves-fedramp-moderate-authorization-a-milestone-for-secure-government-3p9b)
+- [Bolt Hackathon Day 8/30: Week 1 Post Mortem &amp; Week 2 Plans](https://dev.to/thankamatho/bolt-hackathon-day-830-week-1-post-mortem-week-2-plans-1ila)
+- [☁️ AWS Lambda Ki Desi Kahani: Chotu the Serverless Superstar ☕💥](https://dev.to/aws-builders/aws-lambda-ki-desi-kahani-chotu-the-serverless-superstar-204g)
+- [DDoS Protection: How to Monitor, Detect, and Defend Against Attacks](https://dev.to/hakimmohamed/ddos-protection-how-to-monitor-detect-and-defend-against-attacks-5aji)
+- [Untitled](https://dev.to/james_figuroa_452da4fab5a/untitled-311e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
