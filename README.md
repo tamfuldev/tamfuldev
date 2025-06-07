@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Snyk for Government Achieves FedRAMP Moderate Authorization: A Milestone for Secure Government Software](https://dev.to/snyk/snyk-for-government-achieves-fedramp-moderate-authorization-a-milestone-for-secure-government-3p9b)
-- [Bolt Hackathon Day 8/30: Week 1 Post Mortem &amp; Week 2 Plans](https://dev.to/thankamatho/bolt-hackathon-day-830-week-1-post-mortem-week-2-plans-1ila)
-- [☁️ AWS Lambda Ki Desi Kahani: Chotu the Serverless Superstar ☕💥](https://dev.to/aws-builders/aws-lambda-ki-desi-kahani-chotu-the-serverless-superstar-204g)
-- [DDoS Protection: How to Monitor, Detect, and Defend Against Attacks](https://dev.to/hakimmohamed/ddos-protection-how-to-monitor-detect-and-defend-against-attacks-5aji)
-- [Untitled](https://dev.to/james_figuroa_452da4fab5a/untitled-311e)
+- [RAG and LangChain Basics](https://dev.to/priyaselvaraj11/rag-and-langchain-basics-3n0h)
+- [Deps](https://dev.to/fco/deps-453b)
+- [Index Negation Technique](https://dev.to/ashusharmacs/index-negation-technique-19ep)
+- [From Zero to Arrays: A Historical &amp; Conceptual Journey to Mastering Arrays](https://dev.to/m__mdy__m/from-zero-to-arrays-a-historical-conceptual-journey-to-mastering-arrays-1ge3)
+- [Data Structures Series #3: Binary Trees - Implementation &amp; Use Cases](https://dev.to/priyaselvaraj11/data-structures-series-3-binary-trees-implementation-use-cases-5dl5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
