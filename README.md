@@ -16,7 +16,7 @@
 # Latest stack oveflow activity
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><tr><td>INSERT INTO TABLE WHERE id=$ID [duplicate]</td><td>https://stackoverflow.com/questions/79657038/insert-into-table-where-id-id</td></tr><tr><td>Symfony CollectionType form theme</td><td>https://stackoverflow.com/questions/79656896/symfony-collectiontype-form-theme</td></tr><tr><td>Get Value out op PHP object [duplicate]</td><td>https://stackoverflow.com/questions/79656857/get-value-out-op-php-object</td></tr><tr><td>Bypass Maintenance Mode with Header Set Secret</td><td>https://stackoverflow.com/questions/79656843/bypass-maintenance-mode-with-header-set-secret</td></tr><tr><td>How to register a custom REST API endpoint in WordPress?</td><td>https://stackoverflow.com/questions/79656706/how-to-register-a-custom-rest-api-endpoint-in-wordpress</td></tr><!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:START --><tr><td>How do I get specific meta tag data from a URL - PHP [closed]</td><td>https://stackoverflow.com/questions/79657205/how-do-i-get-specific-meta-tag-data-from-a-url-php</td></tr><tr><td>INSERT INTO TABLE WHERE id=$ID [duplicate]</td><td>https://stackoverflow.com/questions/79657038/insert-into-table-where-id-id</td></tr><tr><td>Symfony CollectionType form theme</td><td>https://stackoverflow.com/questions/79656896/symfony-collectiontype-form-theme</td></tr><tr><td>Get Value out op PHP object [duplicate]</td><td>https://stackoverflow.com/questions/79656857/get-value-out-op-php-object</td></tr><tr><td>Bypass Maintenance Mode with Header Set Secret</td><td>https://stackoverflow.com/questions/79656843/bypass-maintenance-mode-with-header-set-secret</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 
 ---
