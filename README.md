@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Start with DevOps in 3 simple steps 🐳](https://dev.to/larastewart_engdev/start-with-devops-in-3-simple-steps-2lli)
-- [Astranis Launches Four Satellites with SpaceX: A New Era in Broadband](https://dev.to/jetthoughts/astranis-launches-four-satellites-with-spacex-a-new-era-in-broadband-3ekf)
-- [AI Personal Staff for Everyone](https://dev.to/jetthoughts/ai-personal-staff-for-everyone-m93)
-- [Writing Scalable &amp; Maintainable Unit Tests in Django — A Practical Guide with Real Examples](https://dev.to/shreyash_jhon_doe/writing-scalable-maintainable-unit-tests-in-django-a-practical-guide-with-real-examples-47a4)
-- [&quot;Automate Your Design Job Hunt with Runner H – Daily Email Reports Made Easy&quot;](https://dev.to/member_68930cc9/automate-your-design-job-hunt-with-runner-h-daily-email-reports-made-easy-19ig)
+- [Learning Go Interface Encapsulation from K8s](https://dev.to/leapcell/learning-go-interface-encapsulation-from-k8s-nnd)
+- [Am I good to go?](https://dev.to/boluwatifeilerioluwa/am-i-good-to-go-52m6)
+- [🎵 I Built the World&#39;s First Email Music Studio with Postmark](https://dev.to/1exer22/i-built-the-worlds-first-email-music-studio-with-postmark-l9l)
+- [Navigating the Landscape of Data-Modeling – A Comprehensive Guide](https://dev.to/chaets/navigating-the-landscape-of-data-modeling-a-comprehensive-guide-238j)
+- [Whats the difference b/w Path and Query in FastAPI?](https://dev.to/sarvesh42/whats-the-difference-bw-path-and-query-in-fastapi-1c3e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
