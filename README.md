@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Start with the problem statement and your mindset approach, then dive into the code journey.](https://dev.to/elhamnajeebullah/start-with-the-problem-statement-and-your-mindset-approach-then-dive-into-the-code-journey-4mm9)
-- [Research Experiment: Auto-Pricing SILVE via BNB on Binance Smart Chain](https://dev.to/quantum_shield1/research-experiment-auto-pricing-silve-via-bnb-on-binance-smart-chain-2mmn)
-- [GraphQL for Dummies](https://dev.to/dehemi_fabio/graphql-for-dummies-192)
-- [I added if-else &amp; loops in HTML5](https://dev.to/ktbsomen/i-added-if-else-loops-in-html5-3ola)
-- [Encapsulation &lpar;getter &amp;setter&rpar;](https://dev.to/ranjithdhivya/encapsulation-getter-setter-1i28)
+- [Migrating from Ingress to Gateway API: Lessons from the Trenches](https://dev.to/mrupguru/migrating-from-ingress-to-gateway-api-lessons-from-the-trenches-4mnl)
+- [Zero-Config DB Setup with Drizzle ORM Using drizzle-setup CLI](https://dev.to/devgauravjatt/zero-config-db-setup-with-drizzle-orm-using-drizzle-setup-cli-4905)
+- [CI/CD with GitHub Actions Using AWS self-hosted Runner](https://dev.to/sainath_patil_bcb48cfb7b9/cicd-with-github-actions-using-aws-self-hosted-runner-1gap)
+- [I built a File Sharing App in Python &lpar;with Auto Discovery + Drag &amp; Drop&rpar;. Here is what I learned.](https://dev.to/asimbuilds/i-built-a-file-sharing-app-in-python-with-auto-discovery-drag-drop-here-is-what-i-learned-1dol)
+- [Working with File Systems and Storage in NativePHP](https://dev.to/therahul_gupta/working-with-file-systems-and-storage-in-nativephp-3330)
 <!-- BLOG-POST-LIST:END -->
 
 ---
