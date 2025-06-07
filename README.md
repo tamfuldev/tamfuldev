@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [RAG and LangChain Basics](https://dev.to/priyaselvaraj11/rag-and-langchain-basics-3n0h)
-- [Deps](https://dev.to/fco/deps-453b)
-- [Index Negation Technique](https://dev.to/ashusharmacs/index-negation-technique-19ep)
-- [From Zero to Arrays: A Historical &amp; Conceptual Journey to Mastering Arrays](https://dev.to/m__mdy__m/from-zero-to-arrays-a-historical-conceptual-journey-to-mastering-arrays-1ge3)
-- [Data Structures Series #3: Binary Trees - Implementation &amp; Use Cases](https://dev.to/priyaselvaraj11/data-structures-series-3-binary-trees-implementation-use-cases-5dl5)
+- [Start with the problem statement and your mindset approach, then dive into the code journey.](https://dev.to/elhamnajeebullah/start-with-the-problem-statement-and-your-mindset-approach-then-dive-into-the-code-journey-4mm9)
+- [Research Experiment: Auto-Pricing SILVE via BNB on Binance Smart Chain](https://dev.to/quantum_shield1/research-experiment-auto-pricing-silve-via-bnb-on-binance-smart-chain-2mmn)
+- [GraphQL for Dummies](https://dev.to/dehemi_fabio/graphql-for-dummies-192)
+- [I added if-else &amp; loops in HTML5](https://dev.to/ktbsomen/i-added-if-else-loops-in-html5-3ola)
+- [Encapsulation &lpar;getter &amp;setter&rpar;](https://dev.to/ranjithdhivya/encapsulation-getter-setter-1i28)
 <!-- BLOG-POST-LIST:END -->
 
 ---
