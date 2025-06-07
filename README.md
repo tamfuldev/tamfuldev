@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Knowledge Virus](https://dev.to/rawveg/the-knowledge-virus-4pk2)
-- [How I Automated My Tech Blog Workflow Using Runner H and AI](https://dev.to/extinctsion/how-i-automated-my-tech-blog-workflow-using-runner-h-and-ai-4h4)
-- [How to get AWS certification for beginners](https://dev.to/evolution25_4476ca8996573/how-to-get-aws-certification-for-beginners-4mnb)
-- [I Built Limgx, an Image Conversion Powerhouse, with FFmpeg.wasm!](https://dev.to/gagaisyou/i-built-limgx-an-image-conversion-powerhouse-with-ffmpegwasm-2jg5)
-- [NanoTS - embeddable, blazingly fast, time series database.](https://dev.to/tony_dicroce_4f662a9d8ae/nanots-embeddable-blazingly-fast-time-series-database-2l36)
+- [🚀 How Warp AI Terminal Became an Essential Part of My Developer Workflow](https://dev.to/richardshaju/how-warp-ai-terminal-became-an-essential-part-of-my-developer-workflow-4hj1)
+- [Build a Cross-Platform Markdown Notes System with Syncthing, Neovim &amp; Markor &lpar;Offline, Fast &amp; Private&rpar;](https://dev.to/abreujp/build-a-cross-platform-markdown-notes-system-with-syncthing-neovim-markor-offline-fast--3gme)
+- [Learning Perl - Loops and Iteration](https://dev.to/lnation/learning-perl-loops-and-iteration-5e71)
+- [Starting My Java Learning Journey 🚀](https://dev.to/namjr/starting-my-java-learning-journey-5bj5)
+- [Auto-Invest: What’s Under the Hood?](https://dev.to/kaankaya/auto-invest-whats-under-the-hood-23kp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
