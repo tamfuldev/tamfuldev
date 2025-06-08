@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DynamoDB with Enhanced Client - Schemas and data serialization made easy](https://dev.to/neeldev96/dynamodb-with-aws-enhancedclient-v2x-schemas-and-data-serialization-made-easy-307i)
-- [🤖 The Sensational Machine](https://dev.to/j_t/the-sensational-machine-4164)
-- [CodeReview Mail - Collaborative Development via Email](https://dev.to/aniruddhaadak/codereview-mail-collaborative-development-via-email-4022)
-- [DSA Pattern — Finding Common Characters From Words](https://dev.to/dev-alamin/dsa-pattern-finding-common-characters-from-words-5a5e)
-- [Learning Perl - Regular Expressions](https://dev.to/lnation/learning-perl-regular-expressions-1d4h)
+- [MailPlanet🌍: Visualize email origins on a global map](https://dev.to/ion_finisher/mailplanet-visualize-email-origins-on-a-global-map-33fo)
+- [HellRush: Building a Python-Based DDoS Simulation Toolkit for Security Education](https://dev.to/medjahdi/hellrush-building-a-python-based-ddos-simulation-toolkit-for-security-education-52f6)
+- [So thrilled! My personal project just made it into the GitHub Trending Top 10! 🎉](https://dev.to/daymychen/so-thrilled-my-personal-project-just-made-it-into-the-github-trending-top-10-3nn1)
+- [Integrate SwaggerUI into Vue 3 — and extend it like a Jedi Dev](https://dev.to/pascalboth/integrate-swaggerui-into-vue-3-and-extend-it-like-a-jedi-dev-2dpe)
+- [Startup Compliance Checklist](https://dev.to/kapusto/startup-compliance-checklist-4ii0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
