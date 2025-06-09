@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Rust Renaissance: Why OpenAI and the Tech World Are Shifting from Node.js for High-Performance Tools](https://dev.to/platypus98/the-rust-renaissance-why-openai-and-the-tech-world-are-shifting-from-nodejs-for-high-performance-5561)
-- [How to Migrate a PostgreSQL Database to Another Server](https://dev.to/hostman_com/how-to-migrate-a-postgresql-database-to-another-server-56dj)
-- [Charts in CSS](https://dev.to/madsstoumann/charts-in-css-1di1)
-- [Lists, Tuples, Sets, and Dictionaries in Python](https://dev.to/khushii_34ceada974a6bfcc2/lists-tuples-sets-and-dictionaries-in-python-368j)
-- [Top 5 Local LLM Tools and Models in 2025](https://dev.to/lightningdev123/top-5-local-llm-tools-and-models-in-2025-47o7)
+- [Best Bolt.new Alternatives](https://dev.to/violetbrown/best-boltnew-alternatives-253e)
+- [In this beginner-friendly series, we’ll go from “What is Docker?” to “I’m confidently using Docker in real-world projects.”](https://dev.to/ibrahimbagalwa/in-this-beginner-friendly-series-well-go-from-what-is-docker-to-im-confidently-using-docker-1g27)
+- [You Can Use Python with Arduino — Here’s How](https://dev.to/david_thomas/you-can-use-python-with-arduino-heres-how-44il)
+- [Partage de données entre composants RiotJS avec Mitt &lpar;émetteur d&#39;évènements&rpar;](https://dev.to/steeve/partage-de-donnees-entre-composants-riotjs-avec-mitt-emetteur-devenements-31di)
+- [[Boost]](https://dev.to/ibrahimbagalwa/-285e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
