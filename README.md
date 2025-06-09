@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Home Assistant: Measuring Sound and Vibration](https://dev.to/admantium/home-assistant-measuring-sound-and-vibration-4p48)
-- [🛣️ Complete React Roadmap – Become a React Superhero 💪](https://dev.to/coder_studios/complete-react-roadmap-become-a-react-superhero-k54)
-- [7 Strategies to Stay Sane in the Never-Ending Tech Hype Cycle](https://dev.to/canro91/7-strategies-to-stay-sane-in-the-never-ending-tech-hype-cycle-3ef3)
-- [Helper, Utility, Factory… or Something More Sinister?](https://dev.to/duplessisvanaswegen/helper-utility-factory-or-something-more-sinister-426e)
-- [📘 AWS IAM Explained Desi-Style — With Hall Passes, Principals &amp; Guest Lecturers! &lpar;Part 1&rpar;](https://dev.to/aws-builders/aws-iam-explained-desi-style-with-hall-passes-principals-guest-lecturers-part-1-f2d)
+- [Most Accurate Translator Tool: What to Look for](https://dev.to/liamcorwin/most-accurate-translator-tool-what-to-look-for-k73)
+- [Instant Dataverse Functions &amp; Low-Code Plug-ins](https://dev.to/wyattdave/instant-dataverse-functions-low-code-plug-ins-2l20)
+- [An efficient approach to problem solving for DSA](https://dev.to/addy118/an-efficient-approach-to-problem-solving-for-dsa-2j6l)
+- [Understanding Type Coercion in JavaScript](https://dev.to/crispy-broccoli/understanding-type-coercion-in-javascript-35k5)
+- [Perl 🐪 Weekly #724 - Perl and XS](https://dev.to/szabgab/perl-weekly-724-perl-and-xs-3gc8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
