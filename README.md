@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/nikhil_sachapara/-1gh)
-- [[Boost]](https://dev.to/nikhil_sachapara/-4n57)
-- [[Boost]](https://dev.to/naik_sejal/-16p4)
-- [🚨 Cuando la &quot;Oportunidad&quot; Esconde una Estafa: Mi Experiencia con un Falso Colaborador](https://dev.to/jrgil20/cuando-la-oportunidad-esconde-una-estafa-mi-experiencia-con-un-falso-colaborador-31j9)
-- [[Boost]](https://dev.to/danyearl/-1d82)
+- [Home Assistant: Measuring Sound and Vibration](https://dev.to/admantium/home-assistant-measuring-sound-and-vibration-4p48)
+- [🛣️ Complete React Roadmap – Become a React Superhero 💪](https://dev.to/coder_studios/complete-react-roadmap-become-a-react-superhero-k54)
+- [7 Strategies to Stay Sane in the Never-Ending Tech Hype Cycle](https://dev.to/canro91/7-strategies-to-stay-sane-in-the-never-ending-tech-hype-cycle-3ef3)
+- [Helper, Utility, Factory… or Something More Sinister?](https://dev.to/duplessisvanaswegen/helper-utility-factory-or-something-more-sinister-426e)
+- [📘 AWS IAM Explained Desi-Style — With Hall Passes, Principals &amp; Guest Lecturers! &lpar;Part 1&rpar;](https://dev.to/aws-builders/aws-iam-explained-desi-style-with-hall-passes-principals-guest-lecturers-part-1-f2d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
