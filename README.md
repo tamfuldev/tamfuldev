@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Desvendando a Comunicação com LLMs: O Poder da Engenharia de Prompts](https://dev.to/pachicodes/desvendando-a-comunicacao-com-llms-o-poder-da-engenharia-de-prompts-4406)
-- [9 Exciting Open Source Projects to Simplify Your Life as a Developer 👨‍💻👩‍💻](https://dev.to/madza/9-exciting-open-source-projects-to-simplify-your-life-as-a-developer-1eij)
-- [Zero: The Most Dangerous Number in Your Code](https://dev.to/preeti_yadav/zero-the-most-dangerous-number-in-your-code-1l9)
-- [Microsoft Entra ID: What you need to know](https://dev.to/brandondamue/microsoft-entra-id-what-you-need-to-know-8l3)
-- [Great introduction to Fermyon&#39;s new Wasm Functions platform.](https://dev.to/technosophos/great-introduction-to-fermyons-new-wasm-functions-platform-4oh8)
+- [Unlock Your DevOps Potential with KodeKloud Engineer](https://dev.to/odenyire/unlock-your-devops-potential-with-kodekloud-engineer-31gd)
+- [🚀 Exploring Serverless Architecture with AWS Lambda](https://dev.to/ahamed_ahnaf_84f1b6cdf9de/exploring-serverless-architecture-with-aws-lambda-353n)
+- [Practical FinOps Tips for AWS Cost Optimization](https://dev.to/kochereshchenko/practical-finops-tips-for-aws-cost-optimization-8ol)
+- [⛵Build a Collaborative App with Real-Time Comments &amp; @Mentions Using Velt, Clerk Auth, Prisma &amp; Radix UI🔑](https://dev.to/astrodevil/build-a-collaborative-app-with-real-time-comments-mentions-using-velt-clerk-auth-prisma--18ml)
+- [Claude 4 First Impressions: A Developer&#39;s Perspective](https://dev.to/forgecode/claude-4-first-impressions-a-developers-perspective-293d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
