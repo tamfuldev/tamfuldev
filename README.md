@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [EPB: Turn Emails into Code - AI-Powered Pull Requests from Your Inbox](https://dev.to/async_dime/epb-turn-emails-into-code-ai-powered-pull-requests-from-your-inbox-33pg)
-- [My ReadLater App Powered by Postmark](https://dev.to/bridget_amana/my-readlater-app-powered-by-postmark-37d)
-- [SupportAddress — An email-first support platform](https://dev.to/arnu515/supportaddress-an-email-first-support-platform-1lo5)
-- [Mail to Blog: Publish to Blog using Email](https://dev.to/gigaarpit/mail-to-blog-publish-to-blog-using-email-3imn)
-- [Postmark Challenge: Publish to Dev.to Straight from Your Inbox 📖](https://dev.to/razielrodrigues/postmark-challenge-publish-to-devto-straight-from-your-inbox-e16)
+- [Duolingo’s Shallow Learning Trap: Gamified Streaks, Harmful Habits](https://dev.to/yaptech/duolingos-shallow-learning-trap-gamified-streaks-harmful-habits-4134)
+- [How to Filter a Collection Using Streams in Java?](https://dev.to/adityabhuyan/how-to-filter-a-collection-using-streams-in-java-13np)
+- [Identity Attestation via Hiring Emails.](https://dev.to/fsegall/we-created-an-application-called-identity-attestation-via-hiring-emails-20nn)
+- [How to Make SVGs Accessible: A Short Guide](https://dev.to/accessibly_speaking/how-to-make-svgs-accessible-a-short-guide-1ope)
+- [Getting Started with Building AI Apps Using Vercel AI SDK](https://dev.to/elfrontend/getting-started-with-building-ai-apps-using-vercel-ai-sdk-2gn3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
