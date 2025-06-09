@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Duolingo’s Shallow Learning Trap: Gamified Streaks, Harmful Habits](https://dev.to/yaptech/duolingos-shallow-learning-trap-gamified-streaks-harmful-habits-4134)
-- [How to Filter a Collection Using Streams in Java?](https://dev.to/adityabhuyan/how-to-filter-a-collection-using-streams-in-java-13np)
-- [Identity Attestation via Hiring Emails.](https://dev.to/fsegall/we-created-an-application-called-identity-attestation-via-hiring-emails-20nn)
-- [How to Make SVGs Accessible: A Short Guide](https://dev.to/accessibly_speaking/how-to-make-svgs-accessible-a-short-guide-1ope)
-- [Getting Started with Building AI Apps Using Vercel AI SDK](https://dev.to/elfrontend/getting-started-with-building-ai-apps-using-vercel-ai-sdk-2gn3)
+- [[Boost]](https://dev.to/nikhil_sachapara/-1gh)
+- [[Boost]](https://dev.to/nikhil_sachapara/-4n57)
+- [[Boost]](https://dev.to/naik_sejal/-16p4)
+- [🚨 Cuando la &quot;Oportunidad&quot; Esconde una Estafa: Mi Experiencia con un Falso Colaborador](https://dev.to/jrgil20/cuando-la-oportunidad-esconde-una-estafa-mi-experiencia-con-un-falso-colaborador-31j9)
+- [[Boost]](https://dev.to/danyearl/-1d82)
 <!-- BLOG-POST-LIST:END -->
 
 ---
