@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Best Bolt.new Alternatives](https://dev.to/violetbrown/best-boltnew-alternatives-253e)
-- [In this beginner-friendly series, we’ll go from “What is Docker?” to “I’m confidently using Docker in real-world projects.”](https://dev.to/ibrahimbagalwa/in-this-beginner-friendly-series-well-go-from-what-is-docker-to-im-confidently-using-docker-1g27)
-- [You Can Use Python with Arduino — Here’s How](https://dev.to/david_thomas/you-can-use-python-with-arduino-heres-how-44il)
-- [Partage de données entre composants RiotJS avec Mitt &lpar;émetteur d&#39;évènements&rpar;](https://dev.to/steeve/partage-de-donnees-entre-composants-riotjs-avec-mitt-emetteur-devenements-31di)
-- [[Boost]](https://dev.to/ibrahimbagalwa/-285e)
+- [Meme Monday](https://dev.to/ben/meme-monday-g2o)
+- [Architecting a Scalable Voice Cloning Platform on AWS: A Case Study](https://dev.to/semperfitodd/architecting-a-scalable-voice-cloning-platform-on-aws-a-case-study-20e6)
+- [Harmonyos Next Cangjie Language Development Practical Tutorial: Store Detail Page](https://dev.to/youlanjihua/harmonyos-next-cangjie-language-development-practical-tutorial-store-detail-page-24db)
+- [Python Dictionary Methods All in One](https://dev.to/theonlineaid/python-dictionary-methods-all-in-one-3n6o)
+- [Exhausted by Language Streaks? 7 Habits for Real Fluency](https://dev.to/yaptech/exhausted-by-language-streaks-7-habits-for-real-fluency-2gki)
 <!-- BLOG-POST-LIST:END -->
 
 ---
