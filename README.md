@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Learning Architecture Design from K8s](https://dev.to/leapcell/learning-architecture-design-from-k8s-2dd9)
-- [Stop Overpaying: 3 Cheaper Alternatives to DigitalOcean VPS](https://dev.to/tuliocalil/stop-overpaying-3-cheaper-alternatives-to-digitalocean-vps-449)
-- [How to Install Qwen3 Embedding 8B: Best Model for RAG, Search, &amp; Multilingual Embeddings](https://dev.to/nodeshiftcloud/how-to-install-qwen3-embedding-8b-best-model-for-rag-search-multilingual-embeddings-4kb)
-- [MCP OAuth on AWS Lambda with WorkOS](https://dev.to/aws-builders/mcp-oauth-on-aws-lambda-with-workos-129)
-- [How to Install and Run Xiaomi MiMo-VL Locally](https://dev.to/nodeshiftcloud/how-to-install-and-run-xiaomi-mimo-vl-locally-4mpo)
+- [Docker + Ansible: The Clean Way to Automate Infrastructure](https://dev.to/lovestaco/docker-ansible-the-clean-way-to-automate-infrastructure-5gmi)
+- [Story Hero - Day 1 Update](https://dev.to/danielreiling/story-hero-day-1-update-4ek8)
+- [Using Nebius AI Models with LangChain/Langgraph via LiteLLM](https://dev.to/shivaylamba/using-nebius-ai-models-with-langchainlanggraph-via-litellm-5c78)
+- [All Data and AI Weekly #193 - June 9, 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-193-june-9-2025-18h4)
+- [The AI-Powered Low-Code Revolution: Crafting Tomorrow&#39;s Applications, Today](https://dev.to/vaib/the-ai-powered-low-code-revolution-crafting-tomorrows-applications-today-2ej4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
