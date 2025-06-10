@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What is the Most Difficult Thing You Ever Had to Code?](https://dev.to/anitaolsen/what-is-the-most-difficult-thing-you-ever-had-to-code-bfp)
-- [🚀 From Local Repo to GitHub – Your First Commit and Push](https://dev.to/1suleyman/from-local-repo-to-github-your-first-commit-and-push-26fe)
-- [I appreciate the fact that this didn’t try to fix everything with a list of tools. It’s deeper than that, and more useful because of it.](https://dev.to/dayologic/i-appreciate-the-fact-that-this-didnt-try-to-fix-everything-with-a-list-of-tools-its-deeper-than-mda)
-- [Is Burnout the Default Setting for Modern Developers?](https://dev.to/jliter/is-burnout-the-default-setting-for-modern-developers-4ooc)
-- [Cracking the Code: Best Wordle Starting Words](https://dev.to/andreita_bello_aa877b46c5/cracking-the-code-best-wordle-starting-words-42dj)
+- [Surviving Extreme Programming: A Developer&#39;s Wild Ride](https://dev.to/sazardev/surviving-extreme-programming-a-developers-wild-ride-4m3a)
+- [Debugging Playwright Tests with AI: A Smarter, Faster Workflow](https://dev.to/playwright/debugging-playwright-tests-with-ai-a-smarter-faster-workflow-4501)
+- [🚀 Understanding The GitHub Flow: Your Blueprint for Collaborative Coding](https://dev.to/1suleyman/understanding-the-github-flow-your-blueprint-for-collaborative-coding-2pkf)
+- [Gerenciando Serviços Linux](https://dev.to/jonathanrocha/gerenciando-servicos-linux-273g)
+- [I didn’t expect to relate to this as much as I did. The emotional honesty here makes all the difference.](https://dev.to/edwardvinke/i-didnt-expect-to-relate-to-this-as-much-as-i-did-the-emotional-honesty-here-makes-all-the-5216)
 <!-- BLOG-POST-LIST:END -->
 
 ---
