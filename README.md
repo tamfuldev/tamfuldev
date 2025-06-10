@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Read This Before OOP-ing Your Project : The Curse of Inheritance.](https://dev.to/sfundomhlungu/read-this-before-oop-ing-your-project-the-curse-of-inheritance-52hi)
-- [Kubernetes Fundamentals: A Beginner’s Guide to Modern Container Orchestration](https://dev.to/sindhuja_ns_1e491ce1088d/kubernetes-fundamentals-a-beginners-guide-to-modern-container-orchestration-3002)
-- [Building High-Performance Web3 Infrastructure @ EvaCodes](https://dev.to/illia_kuzmenko_24d533cb0d/building-high-performance-web3-infrastructure-evacodes-436l)
-- [Optimize Your SaaS Funnel with AI Developer](https://dev.to/alex2002/optimize-your-saas-funnel-with-ai-developer-3hca)
-- [SelfDB – Ditch Supabase and Firebase Lock-In, Self-Host Simply](https://dev.to/selfdb_io/selfdb-ditch-supabase-and-firebase-lock-in-self-host-simply-53nb)
+- [Features I Wish MySQL Had but Postgres Already Has](https://dev.to/bytebase/features-i-wish-mysql-had-but-postgres-already-has-4986)
+- [The Unstoppable Rise of AI: A 2025 Perspective](https://dev.to/deepika0614/the-unstoppable-rise-of-ai-a-2025-perspective-9mn)
+- [The complete guide to building MCP Agents](https://dev.to/composiodev/the-complete-guide-to-building-mcp-agents-543m)
+- [Top 5 Full-Stack Development Companies in Sweden in 2025: A Developer’s Perspective](https://dev.to/farheen_56ec2dd2897def354/top-5-full-stack-development-companies-in-sweden-in-2025-a-developers-perspective-3pja)
+- [What Is Bot Traffic &lpar;And How SafeLine WAF Stops It&rpar;](https://dev.to/sharon_42e16b8da44dabde6d/what-is-bot-traffic-and-how-safeline-waf-stops-it-5dpg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
