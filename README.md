@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Xcode Build Phase 文件类型谜团](https://dev.to/yo1995/xcode-build-phase-wen-jian-lei-xing-mi-tuan-o03)
-- [The IntelliJ Settings I Always Change &lpar;Every. Single. Time.&rpar;](https://dev.to/tarcalia/the-intellij-settings-i-always-change-every-single-time-2oii)
-- [Story Hero - Day 12 Update](https://dev.to/danielreiling/story-hero-day-12-update-2p5c)
-- [Create a Java Microservice Using Spring Boot in Minutes with Maven](https://dev.to/amit_salvi_at_dev_to/create-a-java-microservice-using-spring-boot-in-minutes-with-maven-50p9)
-- [Compressing for Performance over Cost in Opensearch](https://dev.to/aayush/compressing-for-performance-over-cost-in-opensearch-2d)
+- [Check Every Key Exists in a PHP Array with Arr::hasAll&lpar;&rpar;](https://dev.to/ashallendesign/check-every-key-exists-in-a-php-array-with-arrhasall-4hef)
+- [Spring Boot 3 Redis](https://dev.to/c4rlosc7/spring-boot-3-redis-l9g)
+- [Why the M16A1 Upper Is Still the Backbone of Precision AR Builds](https://dev.to/alexjames25/why-the-m16a1-upper-is-still-the-backbone-of-precision-ar-builds-nmg)
+- [什么是环境变量 环境变量有什么用](https://dev.to/woodyxin/shi-yao-shi-huan-jing-bian-liang-huan-jing-bian-liang-you-shi-yao-yong-1090)
+- [My personal website](https://dev.to/m__mdy__m/my-personal-website-59hc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
