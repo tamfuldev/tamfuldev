@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [any facing playwright docker image issue as below](https://dev.to/raju_lingampalli_8813d86f/any-facing-playwright-docker-image-issue-as-below-3d55)
-- [Clerk Billing Live Demo + AMA](https://dev.to/arapp_clerkian/clerk-billing-live-demo-ama-d4o)
-- [[Boost]](https://dev.to/dessignnet/-116a)
-- [The ILOVEYOU Virus: When the First Social Engineering Attack Broke the Internet](https://dev.to/snehapatil1/the-iloveyou-virus-when-the-first-social-engineering-attack-broke-the-internet-50i1)
-- [Authentication in Express Using JWT &lpar;JSON Web Tokens&rpar;](https://dev.to/tanmay_dev/authentication-in-express-using-jwt-json-web-tokens-ep5)
+- [Recreating Apple&#39;s Liquid Glass Effect with Pure CSS ✨](https://dev.to/kevinbism/recreating-apples-liquid-glass-effect-with-pure-css-3gpl)
+- [LibreBlog — An in-browser Static Site Generator focused on content-rich blogs and news websites](https://dev.to/thiagogq/libreblog-an-in-browser-static-site-generator-focused-on-content-rich-blogs-and-news-websites-196n)
+- [Trying Out New Ideas](https://dev.to/allramest83/trying-out-new-ideas-4pjk)
+- [🏳️‍⚧️ Pride Hero: LGBTQ+ Landing Page for WASM Frameworks](https://dev.to/wiseai/pride-hero-lgbtq-landing-page-for-wasm-frameworks-4kl5)
+- [Current Trends in Authorization: Simplifying Access Control](https://dev.to/aydrian/current-trends-in-authorization-simplifying-access-control-29hk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
