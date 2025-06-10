@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Quickly Create Remote MCP Servers for APIs with Zuplo](https://dev.to/zuplo/quickly-create-remote-mcp-servers-for-apis-with-zuplo-18o6)
-- [What is Tableau?](https://dev.to/satya_prakash_06/what-is-tableau-332n)
-- [Introduction to Day 2 Serverless Operations – Part 2](https://dev.to/aws-builders/introduction-to-day-2-serverless-operations-part-2-37oj)
-- [The writing style made it easy to connect with, and the ideas actually stick. Rare to find something this real.](https://dev.to/richards_l52689/the-writing-style-made-it-easy-to-connect-with-and-the-ideas-actually-stick-rare-to-find-gng)
-- [ArkTS programming specification&lpar;5&rpar;](https://dev.to/liu_yang_fc0e605820ac220c/arkts-programming-specification5-h29)
+- [Android Studio: Stockholm Syndrome Disguised as an IDE](https://dev.to/pranta/android-studio-stockholm-syndrome-disguised-as-an-ide-2llf)
+- [Js interview #1 : var, let, and const in JavaScript – What&#39;s the Difference?](https://dev.to/mahammadmansur95/js-interview-1-var-let-and-const-in-javascript-whats-the-difference-nhj)
+- [How to Get a Windows 11 Key for Less Than $10 &lpar;2025&rpar;](https://dev.to/azzeddine_douche_7f365703/how-to-get-a-windows-11-key-for-less-than-10-2025-4eij)
+- [Congratulations to the winner of the Bright Data Real-Time AI Agents Challenge!](https://dev.to/devteam/congratulations-to-the-winner-of-the-bright-data-real-time-ai-agents-challenge-h92)
+- [Your Ultimate Dev Server Setup: With Tailscale, Caddy, and Docker](https://dev.to/shrsv/your-ultimate-dev-server-setup-with-tailscale-caddy-and-docker-1laf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
