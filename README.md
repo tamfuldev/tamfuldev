@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Recreating Apple&#39;s Liquid Glass Effect with Pure CSS ✨](https://dev.to/kevinbism/recreating-apples-liquid-glass-effect-with-pure-css-3gpl)
-- [LibreBlog — An in-browser Static Site Generator focused on content-rich blogs and news websites](https://dev.to/thiagogq/libreblog-an-in-browser-static-site-generator-focused-on-content-rich-blogs-and-news-websites-196n)
-- [Trying Out New Ideas](https://dev.to/allramest83/trying-out-new-ideas-4pjk)
-- [🏳️‍⚧️ Pride Hero: LGBTQ+ Landing Page for WASM Frameworks](https://dev.to/wiseai/pride-hero-lgbtq-landing-page-for-wasm-frameworks-4kl5)
-- [Current Trends in Authorization: Simplifying Access Control](https://dev.to/aydrian/current-trends-in-authorization-simplifying-access-control-29hk)
+- [Xcode Build Phase 文件类型谜团](https://dev.to/yo1995/xcode-build-phase-wen-jian-lei-xing-mi-tuan-o03)
+- [The IntelliJ Settings I Always Change &lpar;Every. Single. Time.&rpar;](https://dev.to/tarcalia/the-intellij-settings-i-always-change-every-single-time-2oii)
+- [Story Hero - Day 12 Update](https://dev.to/danielreiling/story-hero-day-12-update-2p5c)
+- [Create a Java Microservice Using Spring Boot in Minutes with Maven](https://dev.to/amit_salvi_at_dev_to/create-a-java-microservice-using-spring-boot-in-minutes-with-maven-50p9)
+- [Compressing for Performance over Cost in Opensearch](https://dev.to/aayush/compressing-for-performance-over-cost-in-opensearch-2d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
