@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Inbox Zen in 200 Words: My “Daily Focus Capsule](https://dev.to/raeder20/inbox-zen-in-200-words-my-daily-focus-capsule-6jk)
-- [🚀 Supercharge Your Laravel App with Highly Optimized Eloquent Queries](https://dev.to/tahsin000/supercharge-your-laravel-app-with-highly-optimized-eloquent-queries-2o1h)
-- [🎮 Singleton e Concorrência em C# — Um Joguinho pra Aprender de Verdade](https://dev.to/rodrigoschemes/singleton-e-concorrencia-em-c-um-joguinho-pra-aprender-de-verdade-1k4o)
-- [Need help finsing the tight path forward to get my full stack as a beginner](https://dev.to/nikolai143/need-help-finsing-the-tight-path-forward-to-get-my-full-stack-as-a-beginner-1k9o)
-- [How to Build a High-Performance Hypercasual Game Aggregator Like RiseQuest](https://dev.to/mufeng/how-to-build-a-high-performance-hypercasual-game-aggregator-like-risequest-2ppd)
+- [📊 New: Amazon CloudWatch Agent Now Supports Detailed EBS Performance Metrics &lpar;June 2025&rpar;](https://dev.to/latchudevops/new-amazon-cloudwatch-agent-now-supports-detailed-ebs-performance-metrics-june-2025-2lld)
+- [Shell for anxious developers](https://dev.to/augustohp/shell-primer-for-anxious-developers-38i8)
+- [The problem with React and MUI](https://dev.to/torrin/the-problem-with-react-and-mui-gl2)
+- [Sorting the Mail: An Introduction to Supervised Learning: Classification](https://dev.to/dev_patel_35864ca1db6093c/sorting-the-mail-an-introduction-to-supervised-learning-classification-4n6n)
+- [Predicting the Future: An Introduction to Supervised Learning: Regression](https://dev.to/dev_patel_35864ca1db6093c/predicting-the-future-an-introduction-to-supervised-learning-regression-39f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
