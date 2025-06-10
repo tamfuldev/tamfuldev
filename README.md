@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [🧮Beginner-Friendly Guide &quot;Maximum Difference Between Even and Odd Frequency I&quot; LeetCode 3442 &lpar;C++ | JavaScript | Python&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-maximum-difference-between-even-and-odd-frequency-i-leetcode-3442-c-5734)
+- [CVE-2025-29927: How a Header Bypass in Next.js Broke Auth for Some AI Apps](https://dev.to/sharon_42e16b8da44dabde6d/cve-2025-29927-how-a-header-bypass-in-nextjs-broke-auth-for-some-ai-apps-518p)
+- [Troubleshooting de redes em servidores cloud: como identifiquei um problema externo na conectividade](https://dev.to/marcos_vile/troubleshooting-de-redes-em-servidores-cloud-como-identifiquei-um-problema-externo-na-conectividade-122o)
 - [📊 New: Amazon CloudWatch Agent Now Supports Detailed EBS Performance Metrics &lpar;June 2025&rpar;](https://dev.to/latchudevops/new-amazon-cloudwatch-agent-now-supports-detailed-ebs-performance-metrics-june-2025-2lld)
 - [Shell for anxious developers](https://dev.to/augustohp/shell-primer-for-anxious-developers-38i8)
-- [The problem with React and MUI](https://dev.to/torrin/the-problem-with-react-and-mui-gl2)
-- [Sorting the Mail: An Introduction to Supervised Learning: Classification](https://dev.to/dev_patel_35864ca1db6093c/sorting-the-mail-an-introduction-to-supervised-learning-classification-4n6n)
-- [Predicting the Future: An Introduction to Supervised Learning: Regression](https://dev.to/dev_patel_35864ca1db6093c/predicting-the-future-an-introduction-to-supervised-learning-regression-39f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
