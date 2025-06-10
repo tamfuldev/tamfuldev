@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Surviving Extreme Programming: A Developer&#39;s Wild Ride](https://dev.to/sazardev/surviving-extreme-programming-a-developers-wild-ride-4m3a)
-- [Debugging Playwright Tests with AI: A Smarter, Faster Workflow](https://dev.to/playwright/debugging-playwright-tests-with-ai-a-smarter-faster-workflow-4501)
-- [🚀 Understanding The GitHub Flow: Your Blueprint for Collaborative Coding](https://dev.to/1suleyman/understanding-the-github-flow-your-blueprint-for-collaborative-coding-2pkf)
-- [Gerenciando Serviços Linux](https://dev.to/jonathanrocha/gerenciando-servicos-linux-273g)
-- [I didn’t expect to relate to this as much as I did. The emotional honesty here makes all the difference.](https://dev.to/edwardvinke/i-didnt-expect-to-relate-to-this-as-much-as-i-did-the-emotional-honesty-here-makes-all-the-5216)
+- [Quickly Create Remote MCP Servers for APIs with Zuplo](https://dev.to/zuplo/quickly-create-remote-mcp-servers-for-apis-with-zuplo-18o6)
+- [What is Tableau?](https://dev.to/satya_prakash_06/what-is-tableau-332n)
+- [Introduction to Day 2 Serverless Operations – Part 2](https://dev.to/aws-builders/introduction-to-day-2-serverless-operations-part-2-37oj)
+- [The writing style made it easy to connect with, and the ideas actually stick. Rare to find something this real.](https://dev.to/richards_l52689/the-writing-style-made-it-easy-to-connect-with-and-the-ideas-actually-stick-rare-to-find-gng)
+- [ArkTS programming specification&lpar;5&rpar;](https://dev.to/liu_yang_fc0e605820ac220c/arkts-programming-specification5-h29)
 <!-- BLOG-POST-LIST:END -->
 
 ---
