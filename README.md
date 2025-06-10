@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking AI&#39;s Mysteries](https://dev.to/rawveg/unlocking-ais-mysteries-2k9e)
-- [Debug Heroku Deployment Errors: Slay Asset Compilation &amp; Env Vars Dragons 🐉](https://dev.to/alex_aslam/debug-heroku-deployment-errors-slay-asset-compilation-env-vars-dragons-3pdk)
-- [Software Architecture Needs a Rethink &lpar;Because AI Isn&#39;t Waiting&rpar;](https://dev.to/enricopiovesan/software-architecture-needs-a-rethink-because-ai-isnt-waiting-31me)
-- [12 Open Source Tools Every Developer Should Know🔥](https://dev.to/anthonymax/12-open-source-tools-every-developer-should-know-pn2)
-- [Understanding DRAM Internals: How Channels, Banks, and DRAM Access Patterns Impact Performance](https://dev.to/sachin_tolay_052a7e539e57/understanding-dram-internals-how-channels-banks-and-dram-access-patterns-impact-performance-57ng)
+- [Inbox Zen in 200 Words: My “Daily Focus Capsule](https://dev.to/raeder20/inbox-zen-in-200-words-my-daily-focus-capsule-6jk)
+- [🚀 Supercharge Your Laravel App with Highly Optimized Eloquent Queries](https://dev.to/tahsin000/supercharge-your-laravel-app-with-highly-optimized-eloquent-queries-2o1h)
+- [🎮 Singleton e Concorrência em C# — Um Joguinho pra Aprender de Verdade](https://dev.to/rodrigoschemes/singleton-e-concorrencia-em-c-um-joguinho-pra-aprender-de-verdade-1k4o)
+- [Need help finsing the tight path forward to get my full stack as a beginner](https://dev.to/nikolai143/need-help-finsing-the-tight-path-forward-to-get-my-full-stack-as-a-beginner-1k9o)
+- [How to Build a High-Performance Hypercasual Game Aggregator Like RiseQuest](https://dev.to/mufeng/how-to-build-a-high-performance-hypercasual-game-aggregator-like-risequest-2ppd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
