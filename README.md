@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How One Middleware Fixed 90% of Our Node.js Bugs](https://dev.to/arunangshu_das/how-one-middleware-fixed-90-of-our-nodejs-bugs-h95)
-- [SaaS UX Design: Exploring Best Practices with Insights from Mavic’s Case Study](https://dev.to/lollypopdesign/saas-ux-design-exploring-best-practices-with-insights-from-mavics-case-study-30lj)
-- [Cybrary Lab Active Directory Basics Completd](https://dev.to/char1iedevos/cybrary-lab-active-directory-basics-completd-28mi)
-- [Stateful vs Stateless Systems](https://dev.to/tak089/stateful-vs-stateless-systems-5hml)
-- [about VPN](https://dev.to/woodyxin/about-vpn-22o6)
+- [Welcome Thread - v330](https://dev.to/devteam/welcome-thread-v330-55km)
+- [Linear Issues to Google Calendar: MBTJ](https://dev.to/k-gopher/linear-issues-to-google-calendar-mbtj-22pl)
+- [Building a Fitness and Health App Based on HarmonyOS Next: Creating an Intelligent Health Data Tracking System](https://dev.to/linzhongxue/building-a-fitness-and-health-app-based-on-harmonyos-next-creating-an-intelligent-health-data-1m82)
+- [Developing a Fitness &amp; Health App on HarmonyOS Next: Heart Rate Monitoring and Health Reporting System](https://dev.to/linzhongxue/developing-a-fitness-health-app-on-harmonyos-next-heart-rate-monitoring-and-health-reporting-2931)
+- [🦀 Week 3 of Learning Rust: Match, Patterns, and the Power of Methods](https://dev.to/lymah/week-3-of-learning-rust-match-patterns-and-the-power-of-methods-3ed4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
