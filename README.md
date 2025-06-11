@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Patent Translation Software: What to Know Before You Buy](https://dev.to/colinreed/patent-translation-software-what-to-know-before-you-buy-j9o)
-- [Project KARL](https://dev.to/theaniketraj/project-karl-2d7n)
-- [Export SafeLine WAF Logs Using Syslog &lpar;RFC 5424 Format&rpar;](https://dev.to/sharon_42e16b8da44dabde6d/export-safeline-waf-logs-using-syslog-rfc-5424-format-1de3)
-- [iOS App Design Principles That Maximize User Retention](https://dev.to/jhavtech/ios-app-design-principles-that-maximize-user-retention-5ah)
-- [From Backlog to Breakthrough: How Citizen Developers Are Reshaping ITSM with Low-Code/No-Code Tools](https://dev.to/sip_mjb/from-backlog-to-breakthrough-how-citizen-developers-are-reshaping-itsm-with-low-codeno-code-tools-538g)
+- [Tolgee is the future of localization](https://dev.to/nazarii/tolgee-is-the-future-of-localization-2p72)
+- [Dictionary in Python - Continuation](https://dev.to/datatoinfinity/dictionary-in-python-continuation-1e15)
+- [Building a High-Performance HTML5 Game Aggregator: A Deep Dive with RiseQuestGame](https://dev.to/mufeng/building-a-high-performance-html5-game-aggregator-a-deep-dive-with-risequestgame-cia)
+- [How Excel is Used in Real-World Data Analysis](https://dev.to/maureen_mukami_4268d10eac/how-excel-is-used-in-real-world-data-analysis-6c4)
+- [Caching, Queuing, and Pub/Sub: Supercharging Your C++ App with Redis and `qbm-redis`](https://dev.to/mbelhadi/caching-queuing-and-pubsub-supercharging-your-c-app-with-redis-and-qbm-redis-5aii)
 <!-- BLOG-POST-LIST:END -->
 
 ---
