@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Untitled](https://dev.to/sayed_sami_fe929b6ce27237/untitled-19ge)
-- [How Excel is Used in Real-World Data Analysis](https://dev.to/giddybyt/how-excel-is-used-in-real-world-data-analysis-1j39)
-- [Untitled](https://dev.to/sayed_sami_fe929b6ce27237/untitled-4kei)
-- [MARVEL POSTER [CSS GRID]](https://dev.to/mahmoud_adel_e2115d5a60b7/marvel-poster-css-grid-263c)
-- [GSAP vs Anime.js_ A Comprehensive Guide](https://dev.to/ahmed_niazy/gsap-vs-animejs-a-comprehensive-guide-ncb)
+- [Using AI to Detect Flaky Tests in CI/CD Pipelines: A Practical Framework for QA Teams](https://dev.to/ramamallika_kadali_49a08f/using-ai-to-detect-flaky-tests-in-cicd-pipelines-a-practical-framework-for-qa-teams-hpc)
+- [Excel; still an enigma, for now.](https://dev.to/gacherimutua/excel-still-an-enigma-for-now-41ag)
+- [Gist Share](https://dev.to/jswhisperer/gist-share-4ac4)
+- [Story Hero - Day 13 Update](https://dev.to/danielreiling/story-hero-day-13-update-3a4h)
+- [How to install Beef Language on GNU/Linux](https://dev.to/marcosplusplus/how-to-install-beef-language-on-gnulinux-10mg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
