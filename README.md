@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Tolgee is the future of localization](https://dev.to/nazarii/tolgee-is-the-future-of-localization-2p72)
-- [Dictionary in Python - Continuation](https://dev.to/datatoinfinity/dictionary-in-python-continuation-1e15)
-- [Building a High-Performance HTML5 Game Aggregator: A Deep Dive with RiseQuestGame](https://dev.to/mufeng/building-a-high-performance-html5-game-aggregator-a-deep-dive-with-risequestgame-cia)
-- [How Excel is Used in Real-World Data Analysis](https://dev.to/maureen_mukami_4268d10eac/how-excel-is-used-in-real-world-data-analysis-6c4)
-- [Caching, Queuing, and Pub/Sub: Supercharging Your C++ App with Redis and `qbm-redis`](https://dev.to/mbelhadi/caching-queuing-and-pubsub-supercharging-your-c-app-with-redis-and-qbm-redis-5aii)
+- [Create a Database Schema and REST APIs with a Single Prompt Using GitHub Copilot in VS Code](https://dev.to/bobur/create-a-database-schema-and-rest-apis-with-a-single-prompt-using-github-copilot-in-vs-code-41dj)
+- [Why Russia Should Be on Every Traveler’s Bucket List in 2025](https://dev.to/muppidathiskyplanet_b9695/why-russia-should-be-on-every-travelers-bucket-list-in-2025-1g28)
+- [How to Run a Tiny LLM in a Potato Computer](https://dev.to/darwinphi/how-to-run-a-tiny-llm-in-a-potato-computer-2d63)
+- [LDR Sensor Guide for Beginners: Meaning, Types, and Applications](https://dev.to/vayuyaan/ldr-sensor-guide-for-beginners-meaning-types-and-applications-346h)
+- [How to Reduce Email Bounce Rate by 90% with One Simple Tool](https://dev.to/mahalekshmi_n_42acab92d7a/how-to-reduce-email-bounce-rate-by-90-with-one-simple-tool-1bjm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
