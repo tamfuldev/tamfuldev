@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 Unlock Next-Level CSS Skills with scroll-driven-animations.style](https://dev.to/mdhassanpatwary/unlock-next-level-css-skills-with-scroll-driven-animationsstyle-4fka)
-- [Phoenix as an API Powerhouse: Architecting JSON-First Backends for Real-World Frontends](https://dev.to/hexshift/phoenix-as-an-api-powerhouse-architecting-json-first-backends-for-real-world-frontends-43bk)
-- [🚀 Benchmarks of Python 3.14b2 with --disable-gil](https://dev.to/basilemarchand/benchmarks-of-python-314b2-with-disable-gil-1ml3)
-- [Godot 3D MMO: Server and Network Infrastructure, Authentication and Security, Gameserver Sharding](https://dev.to/petervanderhook/godot-3d-mmo-server-and-network-infrastructure-authentication-and-security-gameserver-sharding-48kh)
-- [Precisa de uma Fábrica de software? entenda isso antes](https://dev.to/codetechsoftware/precisa-de-uma-fabrica-de-software-entenda-isso-antes-1jch)
+- [Patent Translation Software: What to Know Before You Buy](https://dev.to/colinreed/patent-translation-software-what-to-know-before-you-buy-j9o)
+- [Project KARL](https://dev.to/theaniketraj/project-karl-2d7n)
+- [Export SafeLine WAF Logs Using Syslog &lpar;RFC 5424 Format&rpar;](https://dev.to/sharon_42e16b8da44dabde6d/export-safeline-waf-logs-using-syslog-rfc-5424-format-1de3)
+- [iOS App Design Principles That Maximize User Retention](https://dev.to/jhavtech/ios-app-design-principles-that-maximize-user-retention-5ah)
+- [From Backlog to Breakthrough: How Citizen Developers Are Reshaping ITSM with Low-Code/No-Code Tools](https://dev.to/sip_mjb/from-backlog-to-breakthrough-how-citizen-developers-are-reshaping-itsm-with-low-codeno-code-tools-538g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
