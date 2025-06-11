@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Learn to Use Microsoft OneNote for Note-Taking Without Getting Overwhelmed — A Steady Start](https://dev.to/rushier/learn-to-use-microsoft-onenote-for-note-taking-without-getting-overwhelmed-a-steady-start-5dcb)
-- [Excel has changed my view on data and its analysis](https://dev.to/lesootia/excel-has-changed-my-view-on-data-and-its-analysis-4lk)
-- [Cracking Down on Cyber Scams: A Breakthrough in Email Threat Detection Using AI .](https://dev.to/saboorhamedi/cracking-down-on-cyber-scams-a-breakthrough-in-email-threat-detection-using-ai--4049)
-- [How Excel is Used in Real-World Data Analysis](https://dev.to/datawithnaomi/how-excel-is-used-in-real-world-data-analysis-3hhp)
-- [7 App Maintenance Hacks to Boost Speed, Security, and Customers](https://dev.to/vikrant_bhalodia/7-app-maintenance-hacks-to-boost-speed-security-and-customers-544n)
+- [A Family-Friendly Guide to Exploring Andaman](https://dev.to/muppidathiskyplanet_b9695/a-family-friendly-guide-to-exploring-andaman-59n1)
+- [How to Add Images to Existing PDF Documents](https://dev.to/revisepdf/how-to-add-images-to-existing-pdf-documents-29c4)
+- [How Excel is Used in Real-World Data Analysis](https://dev.to/puritynyaguthii/how-excel-is-used-in-real-world-data-analysis-40cd)
+- [When to Use Arc and Mutex in Rust](https://dev.to/sgchris/when-to-use-arc-and-mutex-in-rust-420j)
+- [Introduction to Cryptography: Basic Blocks](https://dev.to/dmytro_huz/introduction-to-cryptography-basic-blocks-3an7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
