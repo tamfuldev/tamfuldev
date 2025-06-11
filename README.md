@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Following along a tutorial I successfully built a text editor in C, patched up its readability a bit, and extended it to support Ruby. Huge leap forward as someone very used to higher-level languages, but still a long way to go. Cheers!](https://dev.to/andyrosenberg/following-along-a-tutorial-i-successfully-built-a-text-editor-in-c-patched-up-its-readability-a-ml)
-- [Building a Secure API with Quarkus, PostgreSQL, Kong, and OAuth2](https://dev.to/djamware_tutorial_eba1a61/building-a-secure-api-with-quarkus-postgresql-kong-and-oauth2-3fko)
-- [FOOTBALL PUNDIT FIXTURES](https://dev.to/bello_bambo_549a73d66df3b/football-pundit-fixtures-300)
-- [Iterator in Python &lpar;7&rpar;](https://dev.to/hyperkai/iterator-in-python-7-3179)
-- [Git vs Change Sets: A Salesforce Deployment Guide](https://dev.to/lily_adlin_2409ea817e5c9d/git-vs-change-sets-a-salesforce-deployment-guide-1ejc)
+- [Is HTML not a Programming Language?](https://dev.to/dat_one_dev/is-html-not-a-programming-language-1ifi)
+- [AI Is Writing the Code—So Why Are We Still Debugging Everything by Hand?](https://dev.to/engineeredai/ai-is-writing-the-code-so-why-are-we-still-debugging-everything-by-hand-31n8)
+- [动态代理](https://dev.to/aquareo/dong-tai-dai-li-3hk1)
+- [Personal Picks: Data Product News &lpar;June 11, 2025&rpar;](https://dev.to/sagara/personal-picks-data-product-news-june-11-2025-fii)
+- [How to Become a Web Developer in 2025: A Step-by-Step Plan](https://dev.to/mikevarenek/how-to-become-a-web-developer-in-2025-a-step-by-step-plan-40ph)
 <!-- BLOG-POST-LIST:END -->
 
 ---
