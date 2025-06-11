@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🏗️ DEMOLISH THE GIANT: OPENAI — The Cult of the Prompt Whisperer](https://dev.to/the_epyq/demolish-the-giant-openai-the-cult-of-the-prompt-whisperer-g1c)
-- [HTML AND CSS INTRODUCTION](https://dev.to/sabithasivaprakasam/html-and-css-introduction-152o)
-- [Today I learn Introduction of React...](https://dev.to/chithra_priya/today-i-learn-introduction-of-react-222a)
-- [Day 5/180 Frontend Dev: Mastering HTML Lists - Ordered, Unordered, and Description Lists](https://dev.to/code_2/day-5180-frontend-dev-mastering-html-lists-ordered-unordered-and-description-lists-4fik)
-- [How to Integrate Redux in React Native with the New Architecture](https://dev.to/amitkumar13/how-to-integrate-redux-in-react-native-with-the-new-architecture-4p8g)
+- [DevLog 20250611: SFML Text Shaping](https://dev.to/methodoxdivooka/devlog-20250611-sfml-text-shaping-3m39)
+- [How Excel is Used in Real-World Data Analysis](https://dev.to/lilly_kiganya_31ded25bb2f/how-excel-is-used-in-real-world-data-analysis-i0i)
+- [Sustainable Living &amp; Environmental Impact Optimizer Agent](https://dev.to/ai_agi/sustainable-living-environmental-impact-optimizer-agent-5d90)
+- [Self-Sovereign Identity: The Missing Link for Web3](https://dev.to/vaib/self-sovereign-identity-the-missing-link-for-web3-c3m)
+- [Apple WWDC25 Recap: Apple Intelligence, Liquid Glass, and Next-Gen OS 🚀](https://dev.to/om_shree_0709/apple-wwdc25-recap-apple-intelligence-liquid-glass-and-next-gen-os-2inn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
