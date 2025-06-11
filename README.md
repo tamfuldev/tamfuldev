@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top Kubernetes Interview Questions and Answers](https://dev.to/hostman_com/top-kubernetes-interview-questions-and-answers-202o)
-- [Git branch](https://dev.to/immanuel_joy_60fa98b6d1b3/git-branch-j0m)
-- [💼 Interviewing: The Most Profitable Skill You Can Learn](https://dev.to/ml318097/interviewing-the-most-profitable-skill-you-can-learn-1caj)
-- [Some Vim snippets from my workflow](https://dev.to/vbd/some-vim-snippets-from-my-workflow-1054)
-- [🔥Claude Sonnet 4 vs. Gemini 2.5 Pro Coding Comparison ✅](https://dev.to/composiodev/claude-sonnet-4-vs-gemini-25-pro-coding-comparison-5787)
+- [Series: Frontend Architecture in a Nutshell: Interface](https://dev.to/mshertzberg/series-frontend-architecture-in-a-nutshell-interface-462h)
+- [DevLog 20250611: Audio API Design for Divooka Glaze!](https://dev.to/methodox/devlog-20250611-audio-api-design-for-divooka-glaze-5gi2)
+- [Future of Software Engineering when AI can code. What does students and new grads need to learn?](https://dev.to/paras_kavdikar_5606bf62e2/future-of-software-engineering-when-ai-can-code-what-does-students-and-new-grads-need-to-learn-5804)
+- [Series: Frontend Architecture in a Nutshell: Data](https://dev.to/mshertzberg/series-frontend-architecture-in-a-nutshell-data-37bj)
+- [Series: Frontend Architecture in a Nutshell: Architecture](https://dev.to/mshertzberg/series-frontend-architecture-in-a-nutshell-architecture-3jme)
 <!-- BLOG-POST-LIST:END -->
 
 ---
