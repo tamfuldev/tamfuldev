@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Is HTML not a Programming Language?](https://dev.to/dat_one_dev/is-html-not-a-programming-language-1ifi)
-- [AI Is Writing the Code—So Why Are We Still Debugging Everything by Hand?](https://dev.to/engineeredai/ai-is-writing-the-code-so-why-are-we-still-debugging-everything-by-hand-31n8)
-- [动态代理](https://dev.to/aquareo/dong-tai-dai-li-3hk1)
-- [Personal Picks: Data Product News &lpar;June 11, 2025&rpar;](https://dev.to/sagara/personal-picks-data-product-news-june-11-2025-fii)
-- [How to Become a Web Developer in 2025: A Step-by-Step Plan](https://dev.to/mikevarenek/how-to-become-a-web-developer-in-2025-a-step-by-step-plan-40ph)
+- [How One Middleware Fixed 90% of Our Node.js Bugs](https://dev.to/arunangshu_das/how-one-middleware-fixed-90-of-our-nodejs-bugs-h95)
+- [SaaS UX Design: Exploring Best Practices with Insights from Mavic’s Case Study](https://dev.to/lollypopdesign/saas-ux-design-exploring-best-practices-with-insights-from-mavics-case-study-30lj)
+- [Cybrary Lab Active Directory Basics Completd](https://dev.to/char1iedevos/cybrary-lab-active-directory-basics-completd-28mi)
+- [Stateful vs Stateless Systems](https://dev.to/tak089/stateful-vs-stateless-systems-5hml)
+- [about VPN](https://dev.to/woodyxin/about-vpn-22o6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
