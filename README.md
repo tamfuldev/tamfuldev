@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DevLog 20250611: SFML Text Shaping](https://dev.to/methodoxdivooka/devlog-20250611-sfml-text-shaping-3m39)
-- [How Excel is Used in Real-World Data Analysis](https://dev.to/lilly_kiganya_31ded25bb2f/how-excel-is-used-in-real-world-data-analysis-i0i)
-- [Sustainable Living &amp; Environmental Impact Optimizer Agent](https://dev.to/ai_agi/sustainable-living-environmental-impact-optimizer-agent-5d90)
-- [Self-Sovereign Identity: The Missing Link for Web3](https://dev.to/vaib/self-sovereign-identity-the-missing-link-for-web3-c3m)
-- [Apple WWDC25 Recap: Apple Intelligence, Liquid Glass, and Next-Gen OS 🚀](https://dev.to/om_shree_0709/apple-wwdc25-recap-apple-intelligence-liquid-glass-and-next-gen-os-2inn)
+- [I built &amp; launched AI headshot generator in 2 weeks](https://dev.to/codebucks/i-built-launched-ai-headshot-generator-in-2-weeks-ec2)
+- [This AI Tool Creates Professional Diagrams in 3 Seconds &lpar;You&#39;ll Definitely Love It!&rpar;](https://dev.to/connectalamin/this-ai-tool-creates-professional-diagrams-in-3-seconds-youll-definitely-love-it-75o)
+- [🚀 Parte 1: Fundamentos do Quarkus - Capítulo 2](https://dev.to/erf88/parte-1-fundamentos-do-quarkus-capitulo-2-c63)
+- [LLM and AI for Full-Stack Developers: A Practical Guide to Modern Development](https://dev.to/neeleshwark17/llm-and-ai-for-full-stack-developers-a-practical-guide-to-modern-development-30cg)
+- [Exporting AUDIT tables Using Oracle Data Pump](https://dev.to/vahidusefzadeh/exporting-audit-tables-using-oracle-data-pump-1ahj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
