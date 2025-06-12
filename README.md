@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Fast-Track Your Backend Skills with This Node.js Tutorial](https://dev.to/tpointtechblog/fast-track-your-backend-skills-with-this-nodejs-tutorial-4knp)
-- [09-TextProcessing-WordSegment-Case](https://dev.to/zhousg/09-textprocessing-wordsegment-case-42bg)
-- [🔍 AWS CloudTrail Now Logs Individual S3 Object Deletes in Bulk Operations](https://dev.to/latchudevops/aws-cloudtrail-now-logs-individual-s3-object-deletes-in-bulk-operations-5e13)
-- [AnimateAI: Turn Text Prompts into 2D Animations with AI &lpar;p5.js + Gemini&rpar;](https://dev.to/sai_ritesh_2ce5756a065162/animateai-turn-text-prompts-into-2d-animations-with-ai-p5js-gemini-1eje)
-- [Nyreth - A Recursive Symbolic Cognition System for AI](https://dev.to/thauron/nyreth-a-recursive-symbolic-cognition-system-for-ai-24c9)
+- [10 No-Code Tools Tech Beginners Should Try in 2025](https://dev.to/metana/10-no-code-tools-tech-beginners-should-try-in-2025-456h)
+- [Follow as we build the HotDog App with bolt.new: Your Dog&#39;s Progress Journal](https://dev.to/anamaharjan/follow-as-we-build-the-hotdog-app-with-boltnew-your-dogs-progress-journal-16no)
+- [[03] Mastering Absolute Positioning in CSS: A Comprehensive Guide](https://dev.to/anikpaul/03-mastering-absolute-positioning-in-css-a-comprehensive-guide-2fgk)
+- [Address | Internet](https://dev.to/ibrahimsi/address-internet-462c)
+- [Arweave AO Lua Programming Guide](https://dev.to/arweavejp/arweave-ao-lua-programming-guide-3dg3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
