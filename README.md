@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [PCK3R : Package manager [V1.0] Windows 10 X64](https://dev.to/amzyei/pck3r-package-manager-2pib)
-- [The Story Behind MultiDrive](https://dev.to/empiree/the-story-behind-multidrive-eo8)
-- [Bridging the Quantum Gap: A Guide to Hybrid Quantum-Classical Algorithms](https://dev.to/vaib/bridging-the-quantum-gap-a-guide-to-hybrid-quantum-classical-algorithms-343g)
-- [React Router Data Mode: Parte 6 – Actions, formularios y mutaciones](https://dev.to/kevinccbsg/react-router-data-mode-parte-6-actions-formularios-y-mutaciones-5354)
-- [So You Want to Be a Senior Engineer...](https://dev.to/goldennoodles/so-you-want-to-be-a-senior-engineer-2jl3)
+- [WanderGuide - Interactive Travel Platform](https://dev.to/ai_agi/wanderguide-interactive-travel-platform-2k4f)
+- [Supplementing USPTO Prior Art Searches with AI Tools](https://dev.to/patentscanai/supplementing-uspto-prior-art-searches-with-ai-tools-1jd9)
+- [PropertyHub - Dynamic Real Estate Platform](https://dev.to/ariondev/propertyhub-dynamic-real-estate-platform-3fj)
+- [Learning Go Testing from K8s](https://dev.to/leapcell/learning-go-testing-from-k8s-52oo)
+- [EventFlow - Dynamic Event Management System](https://dev.to/aibughunter/eventflow-dynamic-event-management-system-4mhc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
