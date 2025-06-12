@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Blockchain Beyond Cryptocurrency: Opportunities for CSE Students](https://dev.to/solamalai_college/blockchain-beyond-cryptocurrency-opportunities-for-cse-students-15lm)
-- [How We Built our API Multimodal Summary Engine](https://dev.to/fidget_dan/how-we-built-our-api-multimodal-summary-engine-1oj4)
-- [From Red to Green: What I Learned Diving into Test-Driven Development &lpar;TDD&rpar;](https://dev.to/chandana_prabhakar/from-red-to-green-what-i-learned-diving-into-test-driven-development-tdd-1c6p)
-- [How Much Does OpenAI’s o3 API Cost Now? &lpar;As of June 2025&rpar;](https://dev.to/_37bbf0c253c0b3edec531e/how-much-does-openais-o3-api-cost-now-as-of-june-2025-2557)
-- [Gemini 2.5 Pro vs OpenAI’s GPT-4.1: A Complete Comparison](https://dev.to/_37bbf0c253c0b3edec531e/gemini-25-pro-vs-openais-gpt-41-a-complete-comparison-li1)
+- [Here’s the Only Way That Worked for Me to Level Up as a Frontend Developer](https://dev.to/biloustrike/heres-the-only-way-that-worked-for-me-to-level-up-as-a-frontend-developer-1djm)
+- [I wasn’t expecting much from an article about taxes, but this was smart, clear, and surprisingly motivating.](https://dev.to/rinaldiwmeanix/i-wasnt-expecting-much-from-an-article-about-taxes-but-this-was-smart-clear-and-surprisingly-28bl)
+- [Becoming an AI-native engineer](https://dev.to/rfitz/becoming-an-ai-native-engineer-25gb)
+- [When Code Reviews Go Too Far: Finding the Balance Between Quality and Velocity](https://dev.to/pullflow/when-code-reviews-go-too-far-finding-the-balance-between-quality-and-velocity-2n3o)
+- [新一代 Rust Web 框架的高性能之选](https://dev.to/_95e41982c9ad08a13458d/xin-dai-rust-web-kuang-jia-de-gao-xing-neng-zhi-xuan-453a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
