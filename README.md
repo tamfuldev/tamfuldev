@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Golang: The Infra Darling.](https://dev.to/sfundomhlungu/how-to-golang-the-infra-darling-4cff)
-- [Learn SQL’s CAST Function for Clean Type Conversion](https://dev.to/dbvismarketing/learn-sqls-cast-function-for-clean-type-conversion-4cod)
-- [🔍 Understanding `Array.includes&lpar;&rpar;` in JavaScript – What Happens Under the Hood?](https://dev.to/vetriselvan_11/understanding-arrayincludes-in-javascript-what-happens-under-the-hood-43mi)
-- [Event Management &amp; Ticketing Platform](https://dev.to/aibughunter/event-management-ticketing-platform-3c3h)
-- [🛠️ My Journey to Becoming a Creative Builder &lpar;And Why You Might Want to Join Me&rpar;](https://dev.to/lilac_code/my-journey-to-becoming-a-creative-builder-and-why-you-might-want-to-join-me-n4j)
+- [# GitHub Copilot Agent looks promising – Part2 &lpar;June 2025&rpar;](https://dev.to/markpelf/-github-copilot-agent-looks-promising-part2-june-2025-1igf)
+- [Unveiling Security Mechanisms in HarmonyOS 5&#39;s Cangjie Programming Language: From Static Typing to Null Reference Safety](https://dev.to/dcdvdv_a_5059c020ba962689/unveiling-security-mechanisms-in-harmonyos-5s-cangjie-programming-language-from-static-typing-to-pp3)
+- [GitHub Copilot Agent looks promising – Part1 &lpar;June 2025&rpar;](https://dev.to/markpelf/github-copilot-agent-looks-promising-part1-june-2025-4cfc)
+- [What To Expect From Apple&#39;s Bold New Liquid Glass UI](https://dev.to/orage_mayank/what-to-expect-from-apples-bold-new-liquid-glass-ui-4f8l)
+- [CI/CD Pipeline using GitHub Actions and AWS S3](https://dev.to/omkarsharma2821/cicd-pipeline-using-github-actions-and-aws-s3-1l9b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
