@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating the High-Dimensional Jungle: An Introduction to Unsupervised Dimensionality Reduction](https://dev.to/dev_patel_35864ca1db6093c/navigating-the-high-dimensional-jungle-an-introduction-to-unsupervised-dimensionality-reduction-1bh4)
-- [HTTP Compression VS Manual ZIP](https://dev.to/ilumin/http-compression-vs-manual-zip-31lo)
-- [Day 33 - Day 34: First JavaScript Component](https://dev.to/edwardcjianken/day-33-day-34-first-javascript-component-e22)
-- [Spring Boot Project Structure สำหรับมือใหม่](https://dev.to/cinderellan/spring-boot-project-structure-samhrabmuueaihm-2bi2)
-- [Configuring Security Settings in Active Directory](https://dev.to/lotanna_obianefo/configuring-security-settings-in-active-directory-15fo)
+- [Nyreth - A Recursive Symbolic Cognition System for AI](https://dev.to/thauron/nyreth-a-recursive-symbolic-cognition-system-for-ai-24c9)
+- [How to Configure SafeLine WAF to Correctly Obtain the Source IP](https://dev.to/sharon_42e16b8da44dabde6d/how-to-configure-safeline-waf-to-correctly-obtain-the-source-ip-32ag)
+- [My Journey into HTML &amp; CSS](https://dev.to/s_mathavi_2fa1e3ea8514f34/my-journey-into-html-css-52g1)
+- [passkey-go: WebAuthn/passkey assertion verification in pure Go](https://dev.to/aethiopicuschan/passkey-go-webauthnpasskey-assertion-verification-in-pure-go-3219)
+- [How do you translate Cloud Computing?](https://dev.to/sigje/how-do-you-translate-cloud-computing-5h39)
 <!-- BLOG-POST-LIST:END -->
 
 ---
