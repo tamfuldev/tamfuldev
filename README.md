@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Who Will Build the Future of Web3?](https://dev.to/martin_call/who-will-build-the-future-of-web3-i8d)
-- [Facebook Login in Angular 20 Using Standalone Components](https://dev.to/djamware_tutorial_eba1a61/facebook-login-in-angular-20-using-standalone-components-2m57)
-- [3 Features Every Debugging Tool Should Have](https://dev.to/tomjohnson3/3-features-every-debugging-tool-should-have-1kag)
-- [From Scratch to Kubernetes: My Full-Stack DevOps Project on a Local Machine](https://dev.to/david_oyewole/from-scratch-to-kubernetes-my-full-stack-devops-project-on-a-local-machine-1143)
-- [Mastering Flutter Animation: A Complete Guide to Bringing Your Apps to Life](https://dev.to/kalana250/mastering-flutter-animation-a-complete-guide-to-bringing-your-apps-to-life-4oe9)
+- [Blockchain Beyond Cryptocurrency: Opportunities for CSE Students](https://dev.to/solamalai_college/blockchain-beyond-cryptocurrency-opportunities-for-cse-students-15lm)
+- [How We Built our API Multimodal Summary Engine](https://dev.to/fidget_dan/how-we-built-our-api-multimodal-summary-engine-1oj4)
+- [From Red to Green: What I Learned Diving into Test-Driven Development &lpar;TDD&rpar;](https://dev.to/chandana_prabhakar/from-red-to-green-what-i-learned-diving-into-test-driven-development-tdd-1c6p)
+- [How Much Does OpenAI’s o3 API Cost Now? &lpar;As of June 2025&rpar;](https://dev.to/_37bbf0c253c0b3edec531e/how-much-does-openais-o3-api-cost-now-as-of-june-2025-2557)
+- [Gemini 2.5 Pro vs OpenAI’s GPT-4.1: A Complete Comparison](https://dev.to/_37bbf0c253c0b3edec531e/gemini-25-pro-vs-openais-gpt-41-a-complete-comparison-li1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
