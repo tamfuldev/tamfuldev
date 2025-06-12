@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [WWDC 2025 - Automate dev process with App Store Connect API](https://dev.to/softwaretechpro/wwdc-2025-automate-dev-process-with-app-store-connect-api-22f7)
-- [Landbase Raises $30M to Scale GTM-1 Omni – Reinforcement Learning Meets Go‑to‑Market](https://dev.to/landbasegtm/landbase-raises-30m-to-scale-gtm-1-omni-reinforcement-learning-meets-go-to-market-23km)
-- [WWDC 2025 - App Store server APIs for In-App Purchase](https://dev.to/softwaretechpro/wwdc-2025-app-store-server-apis-for-in-app-purchase-2l02)
-- [40+ MCP Search Tools](https://dev.to/charpie_searchcraft/40-mcp-search-tools-1dcj)
-- [When Illness Moves In and You Still Have to Ship Code](https://dev.to/versiqcontent/when-illness-moves-in-and-you-still-have-to-ship-code-4hgb)
+- [How to create a nginx web server with ansible](https://dev.to/said_olano/how-to-create-a-nginx-web-server-with-ansible-19nh)
+- [Where to Publish Your Writing for Maximum Impact](https://dev.to/cole_ruche/where-to-publish-your-writing-for-maximum-impact-3gac)
+- [React Native 0.80 Oficial: Saiu! O Que Mudou de Verdade?](https://dev.to/ogoul4rt/react-native-080-oficial-saiu-o-que-mudou-de-verdade-fj7)
+- [Building Africa’s AI Future: Yamify’s Vision for Education and Infrastructure](https://dev.to/yamify/building-africas-ai-future-yamifys-vision-for-education-and-infrastructure-2j2n)
+- [App Intents for Apple ecosystem](https://dev.to/softwaretechpro/app-intents-for-apple-ecosystem-3nek)
 <!-- BLOG-POST-LIST:END -->
 
 ---
