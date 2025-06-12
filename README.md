@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [# GitHub Copilot Agent looks promising – Part2 &lpar;June 2025&rpar;](https://dev.to/markpelf/-github-copilot-agent-looks-promising-part2-june-2025-1igf)
-- [Unveiling Security Mechanisms in HarmonyOS 5&#39;s Cangjie Programming Language: From Static Typing to Null Reference Safety](https://dev.to/dcdvdv_a_5059c020ba962689/unveiling-security-mechanisms-in-harmonyos-5s-cangjie-programming-language-from-static-typing-to-pp3)
-- [GitHub Copilot Agent looks promising – Part1 &lpar;June 2025&rpar;](https://dev.to/markpelf/github-copilot-agent-looks-promising-part1-june-2025-4cfc)
-- [What To Expect From Apple&#39;s Bold New Liquid Glass UI](https://dev.to/orage_mayank/what-to-expect-from-apples-bold-new-liquid-glass-ui-4f8l)
-- [CI/CD Pipeline using GitHub Actions and AWS S3](https://dev.to/omkarsharma2821/cicd-pipeline-using-github-actions-and-aws-s3-1l9b)
+- [Authoring an OpenRewrite recipe](https://dev.to/nfrankel/authoring-an-openrewrite-recipe-1li1)
+- [How to Authenticate Your React App Using Firebase](https://dev.to/ijay/how-to-authenticate-your-react-app-using-firebase-5687)
+- [C# Loops: for vs while - When to Use Each &lpar;With Real Examples&rpar;](https://dev.to/blackscripts/c-loops-for-vs-while-when-to-use-each-with-real-examples-35bm)
+- [[Boost]](https://dev.to/vidakhoshpey22/-1baf)
+- [How I Built a Mood-Based Recommender with the Google Gemini API and JavaScript](https://dev.to/noanynameforme/how-i-built-a-mood-based-recommender-with-the-google-gemini-api-and-javascript-m15)
 <!-- BLOG-POST-LIST:END -->
 
 ---
