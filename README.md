@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Today I Learned Introduction of React...](https://dev.to/paviarunachalam/today-i-learned-introduction-of-react-44nf)
-- [[Boost]](https://dev.to/mr_aziz_92b920784e2afff96/-47g3)
-- [OAuth 2.0 Overview: How It Works and Why It Matters](https://dev.to/andyssojet/oauth-20-overview-how-it-works-and-why-it-matters-377e)
-- [Implementation Decisions: Replit&#39;s Approach vs. Technical Requirements](https://dev.to/sebs/implementation-decisions-replits-approach-vs-technical-requirements-b24)
-- [🚀 Istio Service Mesh Essentials: What You Need to Know](https://dev.to/sindhuja_ns_1e491ce1088d/istio-service-mesh-essentials-what-you-need-to-know-54i0)
+- [How I Built a Bulk Email Sender with Python and Brevo API](https://dev.to/david_oyewole/how-i-built-a-bulk-email-sender-with-python-and-brevo-api-1p72)
+- [Why I Switched from WSL to Ubuntu for DevOps: A Personal Journey](https://dev.to/david_oyewole/why-i-switched-from-wsl-to-ubuntu-for-devops-a-personal-journey-44dp)
+- [A new OpenSource java decompiler](https://dev.to/neocanable/a-new-opensource-java-decompiler-4on9)
+- [[Boost]](https://dev.to/itsplankton/-41a2)
+- [Introduction to DevOps &amp; DevSecOps](https://dev.to/alifareed0009/introduction-to-devops-devsecops-301d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
