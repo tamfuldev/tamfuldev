@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Bulk Email Sender with Python and Brevo API](https://dev.to/david_oyewole/how-i-built-a-bulk-email-sender-with-python-and-brevo-api-1p72)
-- [Why I Switched from WSL to Ubuntu for DevOps: A Personal Journey](https://dev.to/david_oyewole/why-i-switched-from-wsl-to-ubuntu-for-devops-a-personal-journey-44dp)
-- [A new OpenSource java decompiler](https://dev.to/neocanable/a-new-opensource-java-decompiler-4on9)
-- [[Boost]](https://dev.to/itsplankton/-41a2)
-- [Introduction to DevOps &amp; DevSecOps](https://dev.to/alifareed0009/introduction-to-devops-devsecops-301d)
+- [Who Will Build the Future of Web3?](https://dev.to/martin_call/who-will-build-the-future-of-web3-i8d)
+- [Facebook Login in Angular 20 Using Standalone Components](https://dev.to/djamware_tutorial_eba1a61/facebook-login-in-angular-20-using-standalone-components-2m57)
+- [3 Features Every Debugging Tool Should Have](https://dev.to/tomjohnson3/3-features-every-debugging-tool-should-have-1kag)
+- [From Scratch to Kubernetes: My Full-Stack DevOps Project on a Local Machine](https://dev.to/david_oyewole/from-scratch-to-kubernetes-my-full-stack-devops-project-on-a-local-machine-1143)
+- [Mastering Flutter Animation: A Complete Guide to Bringing Your Apps to Life](https://dev.to/kalana250/mastering-flutter-animation-a-complete-guide-to-bringing-your-apps-to-life-4oe9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
