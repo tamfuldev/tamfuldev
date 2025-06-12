@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Formatting Monetary Values in JavaScript](https://dev.to/ashallendesign/formatting-monetary-values-in-javascript-3gi7)
-- [How I Created a SkiFree Clone Using Amazon Q](https://dev.to/aws-builders/how-i-created-a-skifree-clone-using-amazon-q-f1d)
-- [WWDC 2025 - Bring on-device AI to your app with Foundation Models framework](https://dev.to/softwaretechpro/wwdc-2025-bring-on-device-ai-to-your-app-with-foundation-models-framework-ieb)
-- [This AI App Made My Trades Smarter — Try It FREE Before Everyone Else!](https://dev.to/juanemilio31323/this-ai-app-made-my-trades-smarter-try-it-free-before-everyone-else-o07)
-- [How AI is Transforming QA: Automation, Manual, and Performance Testing](https://dev.to/ramamallika_kadali_49a08f/how-ai-is-transforming-qa-automation-manual-and-performance-testing-1f0e)
+- [Review Qodana static code analysis and SCA/SBOM license audit](https://dev.to/dmo2000/review-qodana-static-code-analysis-and-scasbom-license-audit-ehf)
+- [[ object Object ]](https://dev.to/hookjs/-object-object--156f)
+- [Create a Parallax Navbar with Just HTML, CSS &amp; JavaScript](https://dev.to/matin676/create-a-parallax-navbar-with-just-html-css-javascript-bgi)
+- [Laravel Performance Tips: Count Optimization, Avoiding N+1, and Polymorphic Relationships](https://dev.to/tahsin000/laravel-performance-tips-count-optimization-avoiding-n1-and-polymorphic-relationships-2g1o)
+- [What I Learned the Hard Way About Hiring a Web Development Agency](https://dev.to/ryan_adam_ad956fc4a05e487/what-i-learned-the-hard-way-about-hiring-a-web-development-agency-1gld)
 <!-- BLOG-POST-LIST:END -->
 
 ---
