@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Review Qodana static code analysis and SCA/SBOM license audit](https://dev.to/dmo2000/review-qodana-static-code-analysis-and-scasbom-license-audit-ehf)
-- [[ object Object ]](https://dev.to/hookjs/-object-object--156f)
-- [Create a Parallax Navbar with Just HTML, CSS &amp; JavaScript](https://dev.to/matin676/create-a-parallax-navbar-with-just-html-css-javascript-bgi)
-- [Laravel Performance Tips: Count Optimization, Avoiding N+1, and Polymorphic Relationships](https://dev.to/tahsin000/laravel-performance-tips-count-optimization-avoiding-n1-and-polymorphic-relationships-2g1o)
-- [What I Learned the Hard Way About Hiring a Web Development Agency](https://dev.to/ryan_adam_ad956fc4a05e487/what-i-learned-the-hard-way-about-hiring-a-web-development-agency-1gld)
+- [Navigating the High-Dimensional Jungle: An Introduction to Unsupervised Dimensionality Reduction](https://dev.to/dev_patel_35864ca1db6093c/navigating-the-high-dimensional-jungle-an-introduction-to-unsupervised-dimensionality-reduction-1bh4)
+- [HTTP Compression VS Manual ZIP](https://dev.to/ilumin/http-compression-vs-manual-zip-31lo)
+- [Day 33 - Day 34: First JavaScript Component](https://dev.to/edwardcjianken/day-33-day-34-first-javascript-component-e22)
+- [Spring Boot Project Structure สำหรับมือใหม่](https://dev.to/cinderellan/spring-boot-project-structure-samhrabmuueaihm-2bi2)
+- [Configuring Security Settings in Active Directory](https://dev.to/lotanna_obianefo/configuring-security-settings-in-active-directory-15fo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
