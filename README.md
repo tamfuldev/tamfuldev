@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Here’s the Only Way That Worked for Me to Level Up as a Frontend Developer](https://dev.to/biloustrike/heres-the-only-way-that-worked-for-me-to-level-up-as-a-frontend-developer-1djm)
-- [I wasn’t expecting much from an article about taxes, but this was smart, clear, and surprisingly motivating.](https://dev.to/rinaldiwmeanix/i-wasnt-expecting-much-from-an-article-about-taxes-but-this-was-smart-clear-and-surprisingly-28bl)
-- [Becoming an AI-native engineer](https://dev.to/rfitz/becoming-an-ai-native-engineer-25gb)
-- [When Code Reviews Go Too Far: Finding the Balance Between Quality and Velocity](https://dev.to/pullflow/when-code-reviews-go-too-far-finding-the-balance-between-quality-and-velocity-2n3o)
-- [新一代 Rust Web 框架的高性能之选](https://dev.to/_95e41982c9ad08a13458d/xin-dai-rust-web-kuang-jia-de-gao-xing-neng-zhi-xuan-453a)
+- [This is going to help a lot of new companies avoid the mistakes early-stage teams often walk right into.](https://dev.to/michbrowning/this-is-going-to-help-a-lot-of-new-companies-avoid-the-mistakes-early-stage-teams-often-walk-right-5452)
+- [Adaptation Rules from TypeScript to ArkTS &lpar;4&rpar;](https://dev.to/liu_yang_fc0e605820ac220c/adaptation-rules-from-typescript-to-arkts-4-2han)
+- [深入理解Hyperlane的中间件系统：一个大三学生的实践笔记](https://dev.to/_95e41982c9ad08a13458d/shen-ru-li-jie-hyperlanede-zhong-jian-jian-xi-tong-ge-da-san-xue-sheng-de-shi-jian-bi-ji-15k1)
+- [This gave me the push I needed to finally deal with the mess in my books.](https://dev.to/michbrowning/this-gave-me-the-push-i-needed-to-finally-deal-with-the-mess-in-my-books-2fgo)
+- [校园二手交易平台的技术选型：为什么我选择了Hyperlane框架](https://dev.to/_95e41982c9ad08a13458d/xiao-yuan-er-shou-jiao-yi-ping-tai-de-ji-zhu-xuan-xing-wei-shi-yao-wo-xuan-ze-liao-hyperlanekuang-jia-26f5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
