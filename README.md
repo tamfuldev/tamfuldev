@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Fast-Track Your Backend Skills with This Node.js Tutorial](https://dev.to/tpointtechblog/fast-track-your-backend-skills-with-this-nodejs-tutorial-4knp)
+- [09-TextProcessing-WordSegment-Case](https://dev.to/zhousg/09-textprocessing-wordsegment-case-42bg)
+- [🔍 AWS CloudTrail Now Logs Individual S3 Object Deletes in Bulk Operations](https://dev.to/latchudevops/aws-cloudtrail-now-logs-individual-s3-object-deletes-in-bulk-operations-5e13)
+- [AnimateAI: Turn Text Prompts into 2D Animations with AI &lpar;p5.js + Gemini&rpar;](https://dev.to/sai_ritesh_2ce5756a065162/animateai-turn-text-prompts-into-2d-animations-with-ai-p5js-gemini-1eje)
 - [Nyreth - A Recursive Symbolic Cognition System for AI](https://dev.to/thauron/nyreth-a-recursive-symbolic-cognition-system-for-ai-24c9)
-- [How to Configure SafeLine WAF to Correctly Obtain the Source IP](https://dev.to/sharon_42e16b8da44dabde6d/how-to-configure-safeline-waf-to-correctly-obtain-the-source-ip-32ag)
-- [My Journey into HTML &amp; CSS](https://dev.to/s_mathavi_2fa1e3ea8514f34/my-journey-into-html-css-52g1)
-- [passkey-go: WebAuthn/passkey assertion verification in pure Go](https://dev.to/aethiopicuschan/passkey-go-webauthnpasskey-assertion-verification-in-pure-go-3219)
-- [How do you translate Cloud Computing?](https://dev.to/sigje/how-do-you-translate-cloud-computing-5h39)
 <!-- BLOG-POST-LIST:END -->
 
 ---
