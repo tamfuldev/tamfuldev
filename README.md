@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [从零开始的Hyperlane框架学习之旅：一个大三学生的真实体验](https://dev.to/_95e41982c9ad08a13458d/cong-ling-kai-shi-de-hyperlanekuang-jia-xue-xi-zhi-lu-ge-da-san-xue-sheng-de-zhen-shi-ti-yan-487a)
-- [The New Generation of High-Performance Rust Web Frameworks](https://dev.to/_95e41982c9ad08a13458d/the-new-generation-of-high-performance-rust-web-frameworks-464o)
-- [Smart Fence Monitoring: Motion Detection Using PIR Sensors and ESP8266](https://dev.to/karen_londres/smart-fence-monitoring-motion-detection-using-pir-sensors-and-esp8266-2ioc)
-- [👨‍💻 Learn to Code with the World’s Largest Web Developer Site!](https://dev.to/ml318097/learn-to-code-with-the-worlds-largest-web-developer-site-449j)
-- [Hyperlane性能优化实战：从理论到实践的深度探索](https://dev.to/_95e41982c9ad08a13458d/hyperlanexing-neng-you-hua-shi-zhan-cong-li-lun-dao-shi-jian-de-shen-du-tan-suo-2015)
+- [My Experience with Hyperlane A Rust Newbie’s Journey in Developing a Campus API](https://dev.to/_95e41982c9ad08a13458d/my-experience-with-hyperlane-a-rust-newbies-journey-in-developing-a-campus-api-5g29)
+- [DuckDB to query MongoDB](https://dev.to/franckpachot/duckdb-to-query-mongodb-3lnk)
+- [My Journey with the Hyperlane Framework From Getting Started to Performance Optimization](https://dev.to/_95e41982c9ad08a13458d/my-journey-with-the-hyperlane-framework-from-getting-started-to-performance-optimization-1c8m)
+- [🐜 HMPL.js: Small Template Language. Reduce the build size several times 📦](https://dev.to/hmpljs/hmpljs-small-template-language-reduce-the-build-size-several-times-k94)
+- [AI Agents Are Coming For Your APIs](https://dev.to/zuplo/ai-agents-are-coming-for-your-apis-13pn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
