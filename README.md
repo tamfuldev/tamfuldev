@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [eKilo – A super lightweight Vim alternative.](https://dev.to/antonio-foti/ekilo-a-super-lightweight-vim-alternative-1alf)
-- [打造你自己的虚拟定位神器：Linux Bash 脚本模拟 GPS NMEA 坐标](https://dev.to/ctkqiang/da-zao-ni-zi-ji-de-xu-ni-ding-wei-shen-qi-linux-bash-jiao-ben-mo-ni-gps-nmea-zuo-biao-5el3)
-- [How to Write AI Prompts That Actually Work: 4 Game-Changing Tips](https://dev.to/itshayder/how-to-write-ai-prompts-that-actually-work-4-game-changing-tips-388h)
-- [50+ APIs &lpar;All Free!&rpar; For Savvy Marketers &amp; Content Developers🔥](https://dev.to/fallon_jimmy/50-apis-all-free-for-savvy-marketers-content-developers-1d1o)
-- [How to Build Your First AR App in 2025 from Idea to App Store](https://dev.to/krishanvijay/how-to-build-your-first-ar-app-in-2025-from-idea-to-app-store-pp7)
+- [CI/CD: The Key to Faster, Stress-Free Software Development](https://dev.to/jeandevbr/cicd-the-key-to-faster-stress-free-software-development-4gmf)
+- [AI in Our Sacred Spaces](https://dev.to/rawveg/ai-in-our-sacred-spaces-3953)
+- [Building Your First AI Agent Without Frameworks](https://dev.to/gerimate/building-your-first-ai-agent-without-frameworks-l5p)
+- [How To Import Your Character Into Builds?](https://dev.to/pathofbuildingg/how-to-import-your-character-into-builds-164j)
+- [Umemura Farm Website – Devlog #4: Copywriting – One Step Forward, Two Steps Back](https://dev.to/ri_ki_251ca3db361b527f552/umemura-farm-website-devlog-5-copywriting-one-step-forward-two-steps-back-10gd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
