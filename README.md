@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [新一代 Rust Web 框架的高性能之选](https://dev.to/_95e41982c9ad08a13458d/xin-dai-rust-web-kuang-jia-de-gao-xing-neng-zhi-xuan-2d5j)
-- [The New Generation of High-Performance Rust Web Frameworks](https://dev.to/_95e41982c9ad08a13458d/the-new-generation-of-high-performance-rust-web-frameworks-1n5b)
-- [展望Hyperlane的未来：一个大三学生的开发心得与思考](https://dev.to/_95e41982c9ad08a13458d/zhan-wang-hyperlanede-wei-lai-ge-da-san-xue-sheng-de-kai-fa-xin-de-yu-si-kao-23of)
-- [Como implementar o Google Tag Manager e Analytics no Next.js 13+ com eventos de clique](https://dev.to/rogeriorioli/como-implementar-o-google-tag-manager-e-analytics-no-nextjs-13-com-eventos-de-clique-4k5a)
-- [Junior Year Self-Study Notes My Journey with the Hyperlane Framework](https://dev.to/_95e41982c9ad08a13458d/junior-year-self-study-notes-my-journey-with-the-hyperlane-framework-42cb)
+- [从零开始的Hyperlane框架学习之旅：一个大三学生的真实体验](https://dev.to/_95e41982c9ad08a13458d/cong-ling-kai-shi-de-hyperlanekuang-jia-xue-xi-zhi-lu-ge-da-san-xue-sheng-de-zhen-shi-ti-yan-487a)
+- [The New Generation of High-Performance Rust Web Frameworks](https://dev.to/_95e41982c9ad08a13458d/the-new-generation-of-high-performance-rust-web-frameworks-464o)
+- [Smart Fence Monitoring: Motion Detection Using PIR Sensors and ESP8266](https://dev.to/karen_londres/smart-fence-monitoring-motion-detection-using-pir-sensors-and-esp8266-2ioc)
+- [👨‍💻 Learn to Code with the World’s Largest Web Developer Site!](https://dev.to/ml318097/learn-to-code-with-the-worlds-largest-web-developer-site-449j)
+- [Hyperlane性能优化实战：从理论到实践的深度探索](https://dev.to/_95e41982c9ad08a13458d/hyperlanexing-neng-you-hua-shi-zhan-cong-li-lun-dao-shi-jian-de-shen-du-tan-suo-2015)
 <!-- BLOG-POST-LIST:END -->
 
 ---
