@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CI/CD: The Key to Faster, Stress-Free Software Development](https://dev.to/jeandevbr/cicd-the-key-to-faster-stress-free-software-development-4gmf)
-- [AI in Our Sacred Spaces](https://dev.to/rawveg/ai-in-our-sacred-spaces-3953)
-- [Building Your First AI Agent Without Frameworks](https://dev.to/gerimate/building-your-first-ai-agent-without-frameworks-l5p)
-- [How To Import Your Character Into Builds?](https://dev.to/pathofbuildingg/how-to-import-your-character-into-builds-164j)
-- [Umemura Farm Website – Devlog #4: Copywriting – One Step Forward, Two Steps Back](https://dev.to/ri_ki_251ca3db361b527f552/umemura-farm-website-devlog-5-copywriting-one-step-forward-two-steps-back-10gd)
+- [My First Day in Chennai – The Beginning of My Java Full Stack Journey](https://dev.to/megha_m_3acdfe3f62da7873f/my-first-day-in-chennai-the-beginning-of-my-java-full-stack-journey-52ab)
+- [Choosing the Right Software Development Model for Your Project](https://dev.to/infomaginesoftwares/choosing-the-right-software-development-model-for-your-project-45o6)
+- [Launching Bugle Call](https://dev.to/adrianfreemantle/launching-bugle-call-97b)
+- [The AI &amp; Blockchain Revolution: Reshaping the API Economy](https://dev.to/vaib/the-ai-blockchain-revolution-reshaping-the-api-economy-38e7)
+- [This Week In React #238 : React Router, RSC, shadcn/ui, React Aria, Cosmos | iOS 26, JSI, Nitro, Windows, Tabs, PencilKit](https://dev.to/sebastienlorber/this-week-in-react-238-react-router-rsc-shadcnui-react-aria-cosmos-ios-26-jsi-nitro-10pi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
