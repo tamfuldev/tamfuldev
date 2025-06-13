@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Merge malloc/calloc/realloc/free into one safe macro, and test code](https://dev.to/shajunxing/merge-malloccallocreallocfree-into-one-safe-macro-and-test-code-1022)
-- [AWS CDK in Action — May 2025: Empowered Deployments, Governance, and Community](https://dev.to/aws/aws-cdk-in-action-may-2025-empowered-deployments-governance-and-community-1gdb)
-- [The Future of GitOps: Integrating AI, FinOps, and GreenOps for Intelligent Operations](https://dev.to/vaib/the-future-of-gitops-integrating-ai-finops-and-greenops-for-intelligent-operations-5g4n)
-- [Finding Software Flaws Early in the Development Process Provides Clear ROI](https://dev.to/snyk/finding-software-flaws-early-in-the-development-process-provides-clear-roi-1bgf)
-- [In this guide, we&#39;ll walk through creating an MCP server using the fastapi-mcp package, integrated with FastAPI, to serve stock analysis endpoints.](https://dev.to/mrzaizai2k/in-this-guide-well-walk-through-creating-an-mcp-server-using-the-fastapi-mcp-package-integrated-m1d)
+- [🔄 Nested loops O&lpar;n &rpar; — it depends how the data is traversed.](https://dev.to/sameer_chawla_b7acddb508f/nested-loops-on2-it-depends-how-the-data-is-traversed-453b)
+- [🛡️ AWS WAF Now Supports Automatic Application Layer &lpar;L7&rpar; DDoS Protection — Fast, Smart, and Hassle-Free](https://dev.to/latchudevops/aws-waf-now-supports-automatic-application-layer-l7-ddos-protection-fast-smart-and-j03)
+- [Let&#39;s build an Agentic Trading System. Together](https://dev.to/callebknox/lets-build-an-agentic-trading-system-together-47mp)
+- [A Developer’s Guide to OAuth and OIDC Endpoints](https://dev.to/mechcloud_academy/a-developers-guide-to-oauth-and-oidc-endpoints-3o74)
+- [ThreadPoolExecutor](https://dev.to/woodyxin/threadpoolexecutor-1358)
 <!-- BLOG-POST-LIST:END -->
 
 ---
