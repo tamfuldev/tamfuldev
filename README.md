@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My First Day in Chennai – The Beginning of My Java Full Stack Journey](https://dev.to/megha_m_3acdfe3f62da7873f/my-first-day-in-chennai-the-beginning-of-my-java-full-stack-journey-52ab)
-- [Choosing the Right Software Development Model for Your Project](https://dev.to/infomaginesoftwares/choosing-the-right-software-development-model-for-your-project-45o6)
-- [Launching Bugle Call](https://dev.to/adrianfreemantle/launching-bugle-call-97b)
-- [The AI &amp; Blockchain Revolution: Reshaping the API Economy](https://dev.to/vaib/the-ai-blockchain-revolution-reshaping-the-api-economy-38e7)
-- [This Week In React #238 : React Router, RSC, shadcn/ui, React Aria, Cosmos | iOS 26, JSI, Nitro, Windows, Tabs, PencilKit](https://dev.to/sebastienlorber/this-week-in-react-238-react-router-rsc-shadcnui-react-aria-cosmos-ios-26-jsi-nitro-10pi)
+- [Apple&#39;s Liquid Glass Design](https://dev.to/anistark/apples-liquid-glass-design-1ol5)
+- [Balancing Transparency and Privacy in Blockchain](https://dev.to/amio13/balancing-transparency-and-privacy-in-blockchain-5go7)
+- [No Recursion, No Table, Still DP? My Shift From Brute Force to Intuition](https://dev.to/guna01/no-recursion-no-table-still-dp-my-shift-from-brute-force-to-intuition-5e6n)
+- [June 13 2025](https://dev.to/liza_1978/june-13-2025-e1o)
+- [Simple Website with SvelteKit](https://dev.to/somulo/simple-website-with-sveltekit-47p8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
