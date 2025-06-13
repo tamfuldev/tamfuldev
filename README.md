@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [✨ A Tribute to Juneteenth – A Scroll Through History](https://dev.to/soorajsnblaze333/a-tribute-to-juneteenth-a-scroll-through-history-51io)
-- [深入理解Hyperlane的中间件系统：一个大三学生的实践笔记](https://dev.to/_95e41982c9ad08a13458d/shen-ru-li-jie-hyperlanede-zhong-jian-jian-xi-tong-ge-da-san-xue-sheng-de-shi-jian-bi-ji-3c49)
-- [[Boost]](https://dev.to/vidakhoshpey22/-3coj)
-- [校园二手交易平台的技术选型：为什么我选择了Hyperlane框架](https://dev.to/_95e41982c9ad08a13458d/xiao-yuan-er-shou-jiao-yi-ping-tai-de-ji-zhu-xuan-xing-wei-shi-yao-wo-xuan-ze-liao-hyperlanekuang-jia-3jl3)
-- [新一代 Rust Web 框架的高性能之选](https://dev.to/_95e41982c9ad08a13458d/xin-dai-rust-web-kuang-jia-de-gao-xing-neng-zhi-xuan-1m82)
+- [Merge malloc/calloc/realloc/free into one safe macro, and test code](https://dev.to/shajunxing/merge-malloccallocreallocfree-into-one-safe-macro-and-test-code-1022)
+- [AWS CDK in Action — May 2025: Empowered Deployments, Governance, and Community](https://dev.to/aws/aws-cdk-in-action-may-2025-empowered-deployments-governance-and-community-1gdb)
+- [The Future of GitOps: Integrating AI, FinOps, and GreenOps for Intelligent Operations](https://dev.to/vaib/the-future-of-gitops-integrating-ai-finops-and-greenops-for-intelligent-operations-5g4n)
+- [Finding Software Flaws Early in the Development Process Provides Clear ROI](https://dev.to/snyk/finding-software-flaws-early-in-the-development-process-provides-clear-roi-1bgf)
+- [In this guide, we&#39;ll walk through creating an MCP server using the fastapi-mcp package, integrated with FastAPI, to serve stock analysis endpoints.](https://dev.to/mrzaizai2k/in-this-guide-well-walk-through-creating-an-mcp-server-using-the-fastapi-mcp-package-integrated-m1d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
