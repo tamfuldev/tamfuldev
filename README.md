@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to create a nginx web server with ansible](https://dev.to/said_olano/how-to-create-a-nginx-web-server-with-ansible-19nh)
-- [Where to Publish Your Writing for Maximum Impact](https://dev.to/cole_ruche/where-to-publish-your-writing-for-maximum-impact-3gac)
-- [React Native 0.80 Oficial: Saiu! O Que Mudou de Verdade?](https://dev.to/ogoul4rt/react-native-080-oficial-saiu-o-que-mudou-de-verdade-fj7)
-- [Building Africa’s AI Future: Yamify’s Vision for Education and Infrastructure](https://dev.to/yamify/building-africas-ai-future-yamifys-vision-for-education-and-infrastructure-2j2n)
-- [App Intents for Apple ecosystem](https://dev.to/softwaretechpro/app-intents-for-apple-ecosystem-3nek)
+- [✨ A Tribute to Juneteenth – A Scroll Through History](https://dev.to/soorajsnblaze333/a-tribute-to-juneteenth-a-scroll-through-history-51io)
+- [深入理解Hyperlane的中间件系统：一个大三学生的实践笔记](https://dev.to/_95e41982c9ad08a13458d/shen-ru-li-jie-hyperlanede-zhong-jian-jian-xi-tong-ge-da-san-xue-sheng-de-shi-jian-bi-ji-3c49)
+- [[Boost]](https://dev.to/vidakhoshpey22/-3coj)
+- [校园二手交易平台的技术选型：为什么我选择了Hyperlane框架](https://dev.to/_95e41982c9ad08a13458d/xiao-yuan-er-shou-jiao-yi-ping-tai-de-ji-zhu-xuan-xing-wei-shi-yao-wo-xuan-ze-liao-hyperlanekuang-jia-3jl3)
+- [新一代 Rust Web 框架的高性能之选](https://dev.to/_95e41982c9ad08a13458d/xin-dai-rust-web-kuang-jia-de-gao-xing-neng-zhi-xuan-1m82)
 <!-- BLOG-POST-LIST:END -->
 
 ---
