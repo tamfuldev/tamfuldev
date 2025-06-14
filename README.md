@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AWS SSM Association - Schedule Stop and Start RDS &lpar;Power of AWS SSM - EP 1&rpar;](https://dev.to/aws-builders/aws-ssm-association-schedule-stop-and-start-rds-power-of-aws-ssm-ep-1-6g4)
-- [The Poetry and Horizon of Code Framework（1749926846557600）](https://dev.to/codeqwertyuiop/the-poetry-and-horizon-of-code-framework1749926846557600-388i)
-- [Building an Interactive Resume: My Journey with React, Tailwind CSS, and Framer Motion ✨](https://dev.to/gojer16/building-an-interactive-resume-my-journey-with-react-tailwind-css-and-framer-motion-54ck)
-- [𝗨𝗻𝗹𝗼𝗰𝗸 𝘁𝗵𝗲 𝗣𝗼𝘄𝗲𝗿 𝗼𝗳 𝗢𝗽𝗲𝗻𝗔𝗣𝗜 𝗶𝗻 𝗔𝗦𝗣.𝗡𝗘𝗧 𝗖𝗼𝗿𝗲: 𝗨𝘀𝗶𝗻𝗴 𝗦𝘄𝗮𝗴𝗴𝗲𝗿 𝗨𝗜, 𝗦𝗰𝗮𝗹𝗮𝗿, 𝗮𝗻𝗱 𝗦𝗽𝗲𝗰𝘁𝗿𝗮𝗹 𝗳𝗼𝗿 𝗕𝗲𝘁𝘁𝗲𝗿 𝗔𝗣𝗜 𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗮𝗻𝗱 𝗧𝗲𝘀𝘁𝗶𝗻𝗴](https://dev.to/supraja_tangella_b7f0738e/--1e6f)
-- [Enhancing RAG Precision Using Bedrock Metadata](https://dev.to/gustavo_aleixo/enhancing-rag-precision-using-bedrock-metadata-5bk9)
+- [Peak Performance Understated Power（1749931078864500）](https://dev.to/codeqwertyuiop/peak-performance-understated-power1749931078864500-2jf1)
+- [ScholarRank Profile: John Round](https://dev.to/puddin1066/scholarrank-profile-john-round-1kdd)
+- [My Journey with the Hyperlane Framework（1749930473907800）](https://dev.to/codeqwertyuiop/my-journey-with-the-hyperlane-framework1749930473907800-151)
+- [[Boost]](https://dev.to/frolikovea/-39ap)
+- [Video Generation using BedRock [Part 1] Amazon Nova Canvas, Lambda and S3](https://dev.to/aws-builders/video-generation-using-bedrock-part-1-amazon-nova-canvas-lambda-and-s3-i3g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
