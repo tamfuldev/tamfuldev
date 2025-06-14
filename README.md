@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What I Learned About Arrays While Grinding NeetCode 150](https://dev.to/derya_65464c085c63b3c0788/what-i-learned-about-arrays-while-grinding-neetcode-150-31pe)
-- [How do you protect your peace and mental health in an industry that never sleeps?](https://dev.to/theneverdone/how-do-you-protect-your-peace-and-mental-health-in-an-industry-that-never-sleeps-3dh0)
-- [Node.js Clustering vs. Worker Threads: When to Fork and When to Thread](https://dev.to/alex_aslam/nodejs-clustering-vs-worker-threads-when-to-fork-and-when-to-thread-fe4)
-- [Coding Without Collisions: My Take on Version Control and Global Collaboration](https://dev.to/amitha_0706/coding-without-collisions-my-take-on-version-control-and-global-collaboration-1ike)
-- [Security news weekly round-up - 13th June 2025](https://dev.to/ziizium/security-news-weekly-round-up-13th-june-2025-44ha)
+- [Why Architecture Matters in Mobile App Development](https://dev.to/lukewon/why-architecture-matters-in-mobile-app-development-522b)
+- [JavaScript vs TypeScript – Which to Learn in 2025?](https://dev.to/mohitdecodes/javascript-vs-typescript-which-to-learn-in-2025-3kmf)
+- [Sorry tech bros, Agentic AI will not kill SaaS](https://dev.to/djleamen/sorry-tech-bros-agentic-ai-will-not-kill-saas-287m)
+- [TE AMO](https://dev.to/joaquin_ramirez_faa018844/te-amo-58dn)
+- [m](https://dev.to/khaledabdelsa/m-p9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
