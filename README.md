@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 How to Name Things in Code — 2025 Edition](https://dev.to/aleksei_aleinikov/how-to-name-things-in-code-2025-edition-onf)
-- [Junior Year Self-Study Notes My Journey with the Hyperlane Framework](https://dev.to/codeqwertyuiop/junior-year-self-study-notes-my-journey-with-the-hyperlane-framework-1k96)
-- [⚡ Keeping State Simple in 2025 &lpar;No Redux Required&rpar;](https://dev.to/aleksei_aleinikov/keeping-state-simple-in-2025-no-redux-required-21do)
-- [🚀 React Query in 2025: Fast Data Without Redux Bloat](https://dev.to/aleksei_aleinikov/react-query-in-2025-fast-data-without-redux-bloat-492m)
-- [Bridging in React Native with Turbo Native Modules New Architecture 0.79+: A Comprehensive Guide to Cross-Platform](https://dev.to/amitkumar13/bridging-in-react-native-with-turbo-native-modules-new-architecture-079-a-comprehensive-guide-to-19df)
+- [Stop using shady QR apps! Try this clean browser tool](https://dev.to/naman_sachdeva/stop-using-shady-qr-apps-try-this-clean-browser-tool-2i83)
+- [Goodbye Lag, Hello Smoothness My Journey Exploring Efficient Web Development Frameworks](https://dev.to/codeqwertyuiop/goodbye-lag-hello-smoothness-my-journey-exploring-efficient-web-development-frameworks-4jkk)
+- [Mastering JavaScript Set Operations: 7 Powerful Methods You Can’t Miss](https://dev.to/arunteja/mastering-javascript-set-operations-7-powerful-methods-you-cant-miss-4b4c)
+- [The &#39;Sea-Calming Needle&#39; in the Microservices Wave My Architectural Choices and Practical Experience](https://dev.to/codeqwertyuiop/the-sea-calming-needle-in-the-microservices-wave-my-architectural-choices-and-practical-experience-3d62)
+- [The New Generation of High-Performance Rust Web Frameworks](https://dev.to/codeqwertyuiop/the-new-generation-of-high-performance-rust-web-frameworks-21ld)
 <!-- BLOG-POST-LIST:END -->
 
 ---
