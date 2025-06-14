@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Poetry and Horizon of Code Framework（1749937113506600）](https://dev.to/codeqwertyuiop/the-poetry-and-horizon-of-code-framework1749937113506600-4gc5)
-- [The Heartbeat of Modern Web Applications（1749936509773500）](https://dev.to/codeqwertyuiop/the-heartbeat-of-modern-web-applications1749936509773500-12hp)
-- [100 days of Coding! Day 15](https://dev.to/aaanishaaa/100-days-of-coding-day-15-b82)
-- [Umemura Farm Website – Devlog #5: Copywriting Rework with Caples &amp; Sugarman](https://dev.to/ri_ki_251ca3db361b527f552/umemura-farm-website-devlog-5-copywriting-rework-with-caples-sugarman-d91)
-- [Stop Certificate Expiry Outages with certwatch-js: A Node.js SSL Health Monitor](https://dev.to/raghavachellu/stop-certificate-expiry-outages-with-certwatch-js-a-nodejs-ssl-health-monitor-50f6)
+- [The Critical Importance of Security in the Digital Age（1749941946306700）](https://dev.to/codeqwertyuiop/the-critical-importance-of-security-in-the-digital-age1749941946306700-1mbo)
+- [Teste with image](https://dev.to/xandongurgel/teste-with-image-hhh)
+- [Dropping this one here in case anyone who missed it might find it useful 🙌](https://dev.to/onedev/dropping-this-one-here-in-case-anyone-who-missed-it-might-find-it-useful-31ae)
+- [My Architectural Choices and Practical Experience（1749941342160200）](https://dev.to/codeqwertyuiop/my-architectural-choices-and-practical-experience1749941342160200-43cf)
+- [Peak Performance Understated Power（1749940736268800）](https://dev.to/codeqwertyuiop/peak-performance-understated-power1749940736268800-2kmk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
