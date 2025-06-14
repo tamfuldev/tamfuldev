@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Architecture Matters in Mobile App Development](https://dev.to/lukewon/why-architecture-matters-in-mobile-app-development-522b)
-- [JavaScript vs TypeScript – Which to Learn in 2025?](https://dev.to/mohitdecodes/javascript-vs-typescript-which-to-learn-in-2025-3kmf)
-- [Sorry tech bros, Agentic AI will not kill SaaS](https://dev.to/djleamen/sorry-tech-bros-agentic-ai-will-not-kill-saas-287m)
-- [TE AMO](https://dev.to/joaquin_ramirez_faa018844/te-amo-58dn)
-- [m](https://dev.to/khaledabdelsa/m-p9)
+- [Maharashtra&#39;s first Digital Forest by Bajaj Institute of technology, Wardha](https://dev.to/piyushdeshkar/maharashtras-first-digital-forest-by-bajaj-institute-of-technology-wardha-4jpo)
+- [The Agentic Web: AI Agents and the Power of Semantic Data](https://dev.to/vaib/the-agentic-web-ai-agents-and-the-power-of-semantic-data-4o2e)
+- [Getting Started with React: My Learning Journey So Far](https://dev.to/a_ramesh/getting-started-with-react-my-learning-journey-so-far-393c)
+- [gabi](https://dev.to/lilith_online_3fc0d19c684/gabi-16ii)
+- [I Just Wanted a Portfolio, Now I Have An Interactive Local AI Front End That Doubles As A Resume](https://dev.to/ghotet/i-just-wanted-a-portfolio-now-i-have-an-interactive-local-ai-front-end-that-doubles-as-a-resume-561c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
