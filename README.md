@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Using AI for Predictive Trend Analysis in Your Market](https://dev.to/mikuiwai/using-ai-for-predictive-trend-analysis-in-your-market-4jcd)
-- [Freelancers vs Agencies: Which Web Developer Should You Pick?](https://dev.to/weberasolutions/freelancers-vs-agencies-which-web-developer-should-you-pick-2nhf)
-- [How to Turn Marketing Data into an Actionable Narrative with AI](https://dev.to/mikuiwai/how-to-turn-marketing-data-into-an-actionable-narrative-with-ai-3b5a)
-- [A Guide to AI-Powered Competitor Analysis for Marketers](https://dev.to/mikuiwai/a-guide-to-ai-powered-competitor-analysis-for-marketers-1f1l)
-- [Managing Alembic Migrations Across Multiple Environments](https://dev.to/al-chris/managing-alembic-migrations-across-multiple-environments-247m)
+- [Why I Analyzed 16,384 Bundle Combinations &lpar;And You Should Too&rpar;](https://dev.to/puruvj/why-i-analyzed-16384-bundle-combinations-and-you-should-too-4bc4)
+- [Not a full-stack dev. Not a startup. Just a 16 y/o with ideas.](https://dev.to/naman_sachdeva/not-a-full-stack-dev-not-a-startup-just-a-16-yo-with-ideas-pmj)
+- [Cosine Similarity Explained — Intuitively and Practically](https://dev.to/obrutus/cosine-similarity-explained-intuitively-and-practically-44md)
+- [React Native vs Flutter: The Hidden Accessibility Performance Gap](https://dev.to/gabrielrovesti/react-native-vs-flutter-the-hidden-accessibility-performance-gap-1hi9)
+- [Hello, I am Sharda Kaur 👋](https://dev.to/sharda_kaur/hello-i-am-sharda-kaur-1o1f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
