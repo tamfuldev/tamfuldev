@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Symfony Station Communiqué - 13 June 2025 - A look at Symfony, Drupal, PHP, and other programming news!](https://dev.to/reubenwalker64/symfony-station-communique-13-june-2025-a-look-at-symfony-drupal-php-and-other-programming-4ddo)
-- [João Cláudio Nunes Carvalho – Projetos em Ciência de Dados e Educação Superior](https://dev.to/joo_cludiojoaoclaudio/joao-claudio-nunes-carvalho-projetos-em-ciencia-de-dados-e-educacao-superior-3l7h)
-- [Shader Learn: Your Fast-Track to Hands-On GLSL Mastery](https://dev.to/mu_san_cdd820a45d42450ddf/shader-learn-your-fast-track-to-hands-on-glsl-mastery-4l3k)
-- [Artificial Intelligence Evolved from Civilian Use to Military Superpower](https://dev.to/ashikur_rahmannazil93/artificial-intelligence-evolved-from-civilian-use-to-military-superpower-689)
-- [Why Every Junior Developer Should Learn Software Architecture Early](https://dev.to/techies_grow_28919d1972db/why-every-junior-developer-should-learn-software-architecture-early-97m)
+- [Kevin Mitnick: The Life and Legacy of the World&#39;s Most Notorious Hacker](https://dev.to/ashikur_rahmannazil93/kevin-mitnick-the-life-and-legacy-of-the-worlds-most-notorious-hacker-55ea)
+- [我开发校园API的那些事儿：一个Rust新手的框架体验](https://dev.to/codeqwertyuiop/wo-kai-fa-xiao-yuan-apide-na-xie-shi-er-ge-rustxin-shou-de-kuang-jia-ti-yan-44fm)
+- [How to Build Collaborative Real-Time Interfaces in Phoenix LiveView with CRDTs](https://dev.to/hexshift/how-to-build-collaborative-real-time-interfaces-in-phoenix-liveview-with-crdts-2iop)
+- [从零开始的Web框架学习之旅：一个大三学生的真实体验](https://dev.to/codeqwertyuiop/cong-ling-kai-shi-de-webkuang-jia-xue-xi-zhi-lu-ge-da-san-xue-sheng-de-zhen-shi-ti-yan-31m0)
+- [Rendering Methods in React: CSR vs SSR vs SSG vs ISR](https://dev.to/mdmohsanul/rendering-methods-in-react-csr-vs-ssr-vs-ssg-vs-isr-3hi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
