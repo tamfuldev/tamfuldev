@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop using shady QR apps! Try this clean browser tool](https://dev.to/naman_sachdeva/stop-using-shady-qr-apps-try-this-clean-browser-tool-2i83)
-- [Goodbye Lag, Hello Smoothness My Journey Exploring Efficient Web Development Frameworks](https://dev.to/codeqwertyuiop/goodbye-lag-hello-smoothness-my-journey-exploring-efficient-web-development-frameworks-4jkk)
-- [Mastering JavaScript Set Operations: 7 Powerful Methods You Can’t Miss](https://dev.to/arunteja/mastering-javascript-set-operations-7-powerful-methods-you-cant-miss-4b4c)
-- [The &#39;Sea-Calming Needle&#39; in the Microservices Wave My Architectural Choices and Practical Experience](https://dev.to/codeqwertyuiop/the-sea-calming-needle-in-the-microservices-wave-my-architectural-choices-and-practical-experience-3d62)
-- [The New Generation of High-Performance Rust Web Frameworks](https://dev.to/codeqwertyuiop/the-new-generation-of-high-performance-rust-web-frameworks-21ld)
+- [Goodbye Lag, Hello Smoothness My Journey Exploring Efficient Web Development Frameworks](https://dev.to/codeqwertyuiop/goodbye-lag-hello-smoothness-my-journey-exploring-efficient-web-development-frameworks-mgh)
+- [Unveiling the Next-Generation Web Engine My In-Depth Experience with a Rust Framework and the Path to Performance Supremacy](https://dev.to/codeqwertyuiop/unveiling-the-next-generation-web-engine-my-in-depth-experience-with-a-rust-framework-and-the-path-23a3)
+- [JPA Naming Method Conventions: A Complete Guide for Developers](https://dev.to/devcorner/jpa-naming-method-conventions-a-complete-guide-for-developers-4p5)
+- [Goodbye Wait Wait Wait My Junior Year Adventure A Secret Weapon That Makes Code Fly](https://dev.to/codeqwertyuiop/goodbye-wait-wait-wait-my-junior-year-adventure-a-secret-weapon-that-makes-code-fly-c73)
+- [使用 Lumen AI 简化 Git Commit 信息生成](https://dev.to/xiaodao/shi-yong-lumen-ai-jian-hua-git-commit-xin-xi-sheng-cheng-439a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
