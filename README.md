@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/gurukulkarni/-2a9e)
-- [Goodbye Lag, Hello Smoothness My Journey Exploring Efficient Web Development Frameworks](https://dev.to/codeqwertyuiop/goodbye-lag-hello-smoothness-my-journey-exploring-efficient-web-development-frameworks-j6l)
-- [Code the Grid: Reimagining Tic-Tac-Toe with Just Chat Prompts ❌⭕⚡](https://dev.to/ayushi_kanwar_7e3baf8bb79/code-the-grid-reimagining-tic-tac-toe-with-just-chat-prompts-3385)
-- [Junior Year Self-Study Notes My Journey with the Hyperlane Framework](https://dev.to/codeqwertyuiop/junior-year-self-study-notes-my-journey-with-the-hyperlane-framework-4ggp)
-- [The Gem of a Github Action you never used](https://dev.to/raghavyuva/the-gem-of-a-github-action-you-never-used-11i6)
+- [Elementor AI Site Planner Review and Tutorial 2025 – FREE AI TOOL](https://dev.to/blogkraft/elementor-ai-site-planner-review-and-tutorial-2025-free-ai-tool-3a9)
+- [How to Ace the 30 Most Common Project Defense Questions](https://dev.to/project_championz_9d9586c/how-to-ace-the-30-most-common-project-defense-questions-10kg)
+- [Completed All Two-Tier Application Deployment Series.](https://dev.to/devops_methodology_d2b67f/completed-all-two-tier-application-deployment-series-42a7)
+- [How Browsers Work — A Deep Dive into the Rendering Pipeline](https://dev.to/anpet9779/how-browsers-work-a-deep-dive-into-the-rendering-pipeline-1gjg)
+- [Keep awake - ps script](https://dev.to/sachin_varghese_zele/keep-awake-ps-script-1j6b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
