@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Poetry and Horizon of Code Framework（1749934700915400）](https://dev.to/codeqwertyuiop/the-poetry-and-horizon-of-code-framework1749934700915400-j3h)
-- [WWDC 2025 - Optimize SwiftUI performance with Instruments](https://dev.to/softwaretechpro/wwdc-2025-optimize-swiftui-performance-with-instruments-4o4j)
-- [You Are The CEO of Your Own Career](https://dev.to/kparmar/you-are-the-ceo-of-your-own-career-4cab)
-- [A Beginner&#39;s Guide to Promises in JavaScript &lpar;with Real Examples&rpar;](https://dev.to/smriti_4f19f53a3e55b45bcc/a-beginners-guide-to-promises-in-javascript-with-real-examples-6a4)
-- [JSON Escaping vs Unescaping: A Developer&#39;s Guide](https://dev.to/eaglepeak/json-escaping-vs-unescaping-a-developers-guide-1dp3)
+- [The Poetry and Horizon of Code Framework（1749937113506600）](https://dev.to/codeqwertyuiop/the-poetry-and-horizon-of-code-framework1749937113506600-4gc5)
+- [The Heartbeat of Modern Web Applications（1749936509773500）](https://dev.to/codeqwertyuiop/the-heartbeat-of-modern-web-applications1749936509773500-12hp)
+- [100 days of Coding! Day 15](https://dev.to/aaanishaaa/100-days-of-coding-day-15-b82)
+- [Umemura Farm Website – Devlog #5: Copywriting Rework with Caples &amp; Sugarman](https://dev.to/ri_ki_251ca3db361b527f552/umemura-farm-website-devlog-5-copywriting-rework-with-caples-sugarman-d91)
+- [Stop Certificate Expiry Outages with certwatch-js: A Node.js SSL Health Monitor](https://dev.to/raghavachellu/stop-certificate-expiry-outages-with-certwatch-js-a-nodejs-ssl-health-monitor-50f6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
