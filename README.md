@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Vue コンポーネント 階層](https://dev.to/nabbisen/vue-konponento-jie-ceng-4dd4)
-- [Vue ディレクティブ 基本要素](https://dev.to/nabbisen/vue-deirekuteibu-ji-ben-yao-su-1epi)
-- [Vue 3 Composition API エッセンス](https://dev.to/nabbisen/vue-3-composition-api-etusensu-1nhg)
-- [Vue とはどのようなものか](https://dev.to/nabbisen/vue-tohadonoyounamonoka-4mk3)
-- [Vue 初めてのプロジェクト作成](https://dev.to/nabbisen/vue-chu-metenopuroziekutozuo-cheng-lgh)
+- [Thanks for this badge. I am proud to be a member of this great dev community!](https://dev.to/sinaezekiel/thanks-for-this-badge-i-am-proud-to-be-a-member-of-this-great-dev-community-16j)
+- [📬 Inbox Zero Butler – AI Agent for Smart Email Triage using Runner](https://dev.to/vishnu_rachapudi_75e73248/inbox-zero-butler-ai-agent-for-smart-email-triage-using-runner-5lc)
+- [My Journey Exploring Efficient Web Development Frameworks（1749917163660400）](https://dev.to/codeqwertyuiop/my-journey-exploring-efficient-web-development-frameworks1749917163660400-1h87)
+- [Demystifying the Black Box: An Introduction to Explainable AI &lpar;XAI&rpar;](https://dev.to/vaib/demystifying-the-black-box-an-introduction-to-explainable-ai-xai-266h)
+- [◼️38/100 Block-by-Block: The fastest way to set up a blockchain node &lpar;II&rpar;](https://dev.to/nocibambi/38100-block-by-block-the-fastest-way-to-set-up-a-blockchain-node-ii-fk0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
