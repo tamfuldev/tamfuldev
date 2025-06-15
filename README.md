@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [8 Complete Alternatives to Native macOS Apps for 2025: Rapidly Reshape Your Mac Workflow](https://dev.to/tomastomas/8-complete-alternatives-to-native-macos-apps-for-2025-rapidly-reshape-your-mac-workflow-22kh)
-- [Creating a Space Impact Game with Amazon Q CLI Extension](https://dev.to/nurnwal09/creating-a-space-impact-game-with-amazon-q-cli-extension-25g)
-- [My Journey with the Hyperlane Framework（1749989196780500）](https://dev.to/codeqwertyuiop/my-journey-with-the-hyperlane-framework1749989196780500-28hh)
-- [Built CodeVault: A Fullstack Code Snippet Manager with React, Node.js, and SQLite](https://dev.to/vincentcocal/built-codevault-a-fullstack-code-snippet-manager-with-react-nodejs-and-sqlite-1f2j)
-- [Step-by-Step Guide to Setting Up Azure Entra ID with Domain, and User Management](https://dev.to/christiana_orji/step-by-step-guide-to-setting-up-azure-entra-id-with-domain-and-user-management-27ne)
+- [Weekly Challenge: Counting the discounts](https://dev.to/simongreennet/weekly-challenge-counting-the-discounts-313f)
+- [The Heartbeat of Modern Web Applications（1749992939248200）](https://dev.to/codeqwertyuiop/the-heartbeat-of-modern-web-applications1749992939248200-641)
+- [My Architectural Choices and Practical Experience（1749992842337800）](https://dev.to/codeqwertyuiop/my-architectural-choices-and-practical-experience1749992842337800-3lem)
+- [🌀 What is React Portal &lpar;And Why You Should Use It&rpar;](https://dev.to/afaq_shahid/what-is-react-portal-and-why-you-should-use-it-2acc)
+- [➗ Day 10 of Java Mastery: Arithmetic Operators in Java](https://dev.to/spyde/day-10-of-java-mastery-arithmetic-operators-in-java-o14)
 <!-- BLOG-POST-LIST:END -->
 
 ---
