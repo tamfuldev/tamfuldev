@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Critical Importance of Security in the Digital Age（1749941946306700）](https://dev.to/codeqwertyuiop/the-critical-importance-of-security-in-the-digital-age1749941946306700-1mbo)
-- [Teste with image](https://dev.to/xandongurgel/teste-with-image-hhh)
-- [Dropping this one here in case anyone who missed it might find it useful 🙌](https://dev.to/onedev/dropping-this-one-here-in-case-anyone-who-missed-it-might-find-it-useful-31ae)
-- [My Architectural Choices and Practical Experience（1749941342160200）](https://dev.to/codeqwertyuiop/my-architectural-choices-and-practical-experience1749941342160200-43cf)
-- [Peak Performance Understated Power（1749940736268800）](https://dev.to/codeqwertyuiop/peak-performance-understated-power1749940736268800-2kmk)
+- [My Architectural Choices and Practical Experience（1749948576216500）](https://dev.to/codeqwertyuiop/my-architectural-choices-and-practical-experience1749948576216500-50km)
+- [how to make a decision when have no enough experience](https://dev.to/woodyxin/how-to-make-a-decision-when-have-no-enough-experience-4md1)
+- [My Journey Exploring Efficient Web Development Frameworks（1749948272195000）](https://dev.to/codeqwertyuiop/my-journey-exploring-efficient-web-development-frameworks1749948272195000-566e)
+- [Agentes de IA sabem trabalhar em equipe? Com MCP e A2A, sim](https://dev.to/halfjust/agentes-de-ia-sabem-trabalhar-em-equipe-com-mcp-e-a2a-sim-4dp1)
+- [Junior Year Self-Study Notes My Journey with the Framework（1749947968358600）](https://dev.to/codeqwertyuiop/junior-year-self-study-notes-my-journey-with-the-framework1749947968358600-5e97)
 <!-- BLOG-POST-LIST:END -->
 
 ---
