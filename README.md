@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Get Instant WordPress Login Alerts in Telegram &lpar;with Login Telegram Notifier&rpar;](https://dev.to/iphil/get-instant-wordpress-login-alerts-in-telegram-with-login-telegram-notifier-4nm1)
-- [My Experience with Hyperlane（1750006347008900）](https://dev.to/codeqwertyuiop/my-experience-with-hyperlane1750006347008900-3oni)
-- [The Critical Importance of Security in the Digital Age（1750006343643200）](https://dev.to/member_b06955cb/the-critical-importance-of-security-in-the-digital-age1750006343643200-5425)
-- [Shallow Copy &amp; Deep Copy in Python &lpar;4&rpar;](https://dev.to/hyperkai/shallow-copy-deep-copy-in-python-4-2h0a)
-- [The Art and Zen of Claude Code: Why Simplicity Always Wins](https://dev.to/ctrlshiftbryan/the-art-and-zen-of-claude-code-why-simplicity-always-wins-38ki)
+- [AI here and everywhere](https://dev.to/danytulumidis/ai-here-and-everywhere-dj8)
+- [The New Generation of High-Performance Web Frameworks（1750010308282300）](https://dev.to/member_b06955cb/the-new-generation-of-high-performance-web-frameworks1750010308282300-3gl8)
+- [Peak Performance Understated Power（1750010303818600）](https://dev.to/codeqwertyuiop/peak-performance-understated-power1750010303818600-48fm)
+- [🚀 Introduction to System Design: LLD and SOLID Principles](https://dev.to/asutoshk_09/introduction-to-system-design-lld-and-solid-principles-41df)
+- [My Architectural Choices and Practical Experience（1750009698161300）](https://dev.to/member_b06955cb/my-architectural-choices-and-practical-experience1750009698161300-2d09)
 <!-- BLOG-POST-LIST:END -->
 
 ---
