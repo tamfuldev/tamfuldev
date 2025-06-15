@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Architectural Choices and Practical Experience（1749948576216500）](https://dev.to/codeqwertyuiop/my-architectural-choices-and-practical-experience1749948576216500-50km)
-- [how to make a decision when have no enough experience](https://dev.to/woodyxin/how-to-make-a-decision-when-have-no-enough-experience-4md1)
-- [My Journey Exploring Efficient Web Development Frameworks（1749948272195000）](https://dev.to/codeqwertyuiop/my-journey-exploring-efficient-web-development-frameworks1749948272195000-566e)
-- [Agentes de IA sabem trabalhar em equipe? Com MCP e A2A, sim](https://dev.to/halfjust/agentes-de-ia-sabem-trabalhar-em-equipe-com-mcp-e-a2a-sim-4dp1)
-- [Junior Year Self-Study Notes My Journey with the Framework（1749947968358600）](https://dev.to/codeqwertyuiop/junior-year-self-study-notes-my-journey-with-the-framework1749947968358600-5e97)
+- [鸿蒙运动开发实战：打造专属运动视频播放器](https://dev.to/smartbackme/hong-meng-yun-dong-kai-fa-shi-zhan-da-zao-zhuan-shu-yun-dong-shi-pin-bo-fang-qi-18ob)
+- [AI Internship Application Assistant &lpar;Built with Runner H&rpar;](https://dev.to/illona/ai-internship-application-assistant-built-with-runner-h-4b14)
+- [From Redundancy to Reusability: A Better Way to Manage Shared Records in Relational Databases](https://dev.to/galisetty_priyatham_c1a49/from-redundancy-to-reusability-a-better-way-to-manage-shared-records-in-relational-databases-2h4h)
+- [Junior Year Self-Study Notes My Journey with the Framework（1749955657880800）](https://dev.to/sdhjfhdshjgfhdsgfhj/junior-year-self-study-notes-my-journey-with-the-framework1749955657880800-4i6m)
+- [My Architectural Choices and Practical Experience（1749955640429400）](https://dev.to/codeqwertyuiop/my-architectural-choices-and-practical-experience1749955640429400-4kcb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
