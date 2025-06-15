@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [When the Heart Goes Digital](https://dev.to/rawveg/when-the-heart-goes-digital-2ol1)
-- [Junior Year Self-Study Notes My Journey with the Framework（1749983968855800）](https://dev.to/codeqwertyuiop/junior-year-self-study-notes-my-journey-with-the-framework1749983968855800-46co)
-- [The New Generation of High-Performance Web Frameworks（1749983918181000）](https://dev.to/codeqwertyuiop/the-new-generation-of-high-performance-web-frameworks1749983918181000-2dhl)
-- [My Journey with the Hyperlane Framework（1749983614138900）](https://dev.to/codeqwertyuiop/my-journey-with-the-hyperlane-framework1749983614138900-568i)
-- [GSoC Week 2 — Languages, UX &amp; 40 Failing Tests](https://dev.to/jatsuakayashvant/gsoc-week-2-languages-ux-40-failing-tests-5b72)
+- [8 Complete Alternatives to Native macOS Apps for 2025: Rapidly Reshape Your Mac Workflow](https://dev.to/tomastomas/8-complete-alternatives-to-native-macos-apps-for-2025-rapidly-reshape-your-mac-workflow-22kh)
+- [Creating a Space Impact Game with Amazon Q CLI Extension](https://dev.to/nurnwal09/creating-a-space-impact-game-with-amazon-q-cli-extension-25g)
+- [My Journey with the Hyperlane Framework（1749989196780500）](https://dev.to/codeqwertyuiop/my-journey-with-the-hyperlane-framework1749989196780500-28hh)
+- [Built CodeVault: A Fullstack Code Snippet Manager with React, Node.js, and SQLite](https://dev.to/vincentcocal/built-codevault-a-fullstack-code-snippet-manager-with-react-nodejs-and-sqlite-1f2j)
+- [Step-by-Step Guide to Setting Up Azure Entra ID with Domain, and User Management](https://dev.to/christiana_orji/step-by-step-guide-to-setting-up-azure-entra-id-with-domain-and-user-management-27ne)
 <!-- BLOG-POST-LIST:END -->
 
 ---
