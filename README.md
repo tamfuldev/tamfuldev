@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Confused Between Web Dev and AI/ML — Need Advice on Core Language and Roadmap](https://dev.to/sera1i/confused-between-web-dev-and-aiml-need-advice-on-core-language-and-roadmap-3dfj)
-- [Week 6 of my DevOps Journey : Mastering Variables, JSON &amp; YAML](https://dev.to/mritunjay_tiwari_c043f513/week-6-of-my-devops-journey-mastering-variables-json-yaml-4p4b)
-- [ScholarRank Profile: John Round](https://dev.to/puddin1066/scholarrank-profile-john-round-f9p)
-- [Abstraction](https://dev.to/prasanth362k/abstraction-1npb)
-- [“Prompt Design Is an Art — Here&#39;s the Brushstroke Guide”](https://dev.to/muskanfatim/prompt-design-is-an-art-heres-the-brushstroke-guide-2ce)
+- [Get Instant WordPress Login Alerts in Telegram &lpar;with Login Telegram Notifier&rpar;](https://dev.to/iphil/get-instant-wordpress-login-alerts-in-telegram-with-login-telegram-notifier-4nm1)
+- [My Experience with Hyperlane（1750006347008900）](https://dev.to/codeqwertyuiop/my-experience-with-hyperlane1750006347008900-3oni)
+- [The Critical Importance of Security in the Digital Age（1750006343643200）](https://dev.to/member_b06955cb/the-critical-importance-of-security-in-the-digital-age1750006343643200-5425)
+- [Shallow Copy &amp; Deep Copy in Python &lpar;4&rpar;](https://dev.to/hyperkai/shallow-copy-deep-copy-in-python-4-2h0a)
+- [The Art and Zen of Claude Code: Why Simplicity Always Wins](https://dev.to/ctrlshiftbryan/the-art-and-zen-of-claude-code-why-simplicity-always-wins-38ki)
 <!-- BLOG-POST-LIST:END -->
 
 ---
