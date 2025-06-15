@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Complete Guide to Scalable Next.js Architecture](https://dev.to/melvinprince/the-complete-guide-to-scalable-nextjs-architecture-39o0)
-- [FluentValidation Rule Sets](https://dev.to/karenpayneoregon/fluentvalidation-rule-sets-35ck)
-- [My Architectural Choices and Practical Experience（1750023414505000）](https://dev.to/member_b06955cb/my-architectural-choices-and-practical-experience1750023414505000-3dd3)
-- [Junior Year Self-Study Notes My Journey with the Framework（1750023110480600）](https://dev.to/member_b06955cb/junior-year-self-study-notes-my-journey-with-the-framework1750023110480600-403p)
-- [The New Generation of High-Performance Web Frameworks（1750023073836300）](https://dev.to/codeqwertyuiop/the-new-generation-of-high-performance-web-frameworks1750023073836300-3468)
+- [Choosing the Right Workflow Engine for Business Approval Systems](https://dev.to/mohammad_anzawi/choosing-the-right-workflow-engine-for-business-approval-systems-3klf)
+- [Junior Year Self-Study Notes My Journey with the Framework（1750027057570400）](https://dev.to/member_b06955cb/junior-year-self-study-notes-my-journey-with-the-framework1750027057570400-3bbp)
+- [How I created the fastest JavaScript Physics Engine.](https://dev.to/gabrielxyz/how-i-created-the-fastest-javascript-physics-engine-1375)
+- [The Poetry and Horizon of Code Framework（1750026451302400）](https://dev.to/member_b06955cb/the-poetry-and-horizon-of-code-framework1750026451302400-4i8i)
+- [The Heartbeat of Modern Web Applications（1750026416784000）](https://dev.to/codeqwertyuiop/the-heartbeat-of-modern-web-applications1750026416784000-4ch5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
