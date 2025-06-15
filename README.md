@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [📚 Explore JavaScript Like Never Before](https://dev.to/ml318097/explore-javascript-like-never-before-4l47)
-- [Achieve Labubu freedom with AI](https://dev.to/yang_ella_f2a3e16ccb54550/achieve-labubu-freedom-with-ai-5og)
-- [Why your ECS tasks aren’t scaling](https://dev.to/aws-builders/why-your-ecs-tasks-arent-scaling-5c04)
-- [Why your site needs a sitemap?](https://dev.to/ritaly/why-your-site-needs-a-sitemap-23if)
-- [Peak Performance Understated Power（1749998728272800）](https://dev.to/codeqwertyuiop/peak-performance-understated-power1749998728272800-15k6)
+- [Confused Between Web Dev and AI/ML — Need Advice on Core Language and Roadmap](https://dev.to/sera1i/confused-between-web-dev-and-aiml-need-advice-on-core-language-and-roadmap-3dfj)
+- [Week 6 of my DevOps Journey : Mastering Variables, JSON &amp; YAML](https://dev.to/mritunjay_tiwari_c043f513/week-6-of-my-devops-journey-mastering-variables-json-yaml-4p4b)
+- [ScholarRank Profile: John Round](https://dev.to/puddin1066/scholarrank-profile-john-round-f9p)
+- [Abstraction](https://dev.to/prasanth362k/abstraction-1npb)
+- [“Prompt Design Is an Art — Here&#39;s the Brushstroke Guide”](https://dev.to/muskanfatim/prompt-design-is-an-art-heres-the-brushstroke-guide-2ce)
 <!-- BLOG-POST-LIST:END -->
 
 ---
