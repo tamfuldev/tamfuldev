@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to create an interactive solar system using P5.js.](https://dev.to/hr21don/how-to-create-an-interactive-solar-system-using-p5js-4oi4)
-- [Step-by-Step Guide: Just minutes! Build an MCP Server and Client interacting with Ollama in C#](https://dev.to/auyeungdavid_2847435260/step-by-step-guide-just-minutes-build-an-mcp-server-and-client-interacting-with-ollama-in-c-906)
-- [The New Generation of High-Performance Web Frameworks（1749980883903600）](https://dev.to/codeqwertyuiop/the-new-generation-of-high-performance-web-frameworks1749980883903600-2cje)
-- [Hello DEV community😄](https://dev.to/huey/hello-dev-community-blk)
-- [How to Make CarouselView Work with Pinch-to-Zoom in .NET MAUI](https://dev.to/amina_taariq/how-to-make-carouselview-work-with-pinch-to-zoom-in-net-maui-5aao)
+- [When the Heart Goes Digital](https://dev.to/rawveg/when-the-heart-goes-digital-2ol1)
+- [Junior Year Self-Study Notes My Journey with the Framework（1749983968855800）](https://dev.to/codeqwertyuiop/junior-year-self-study-notes-my-journey-with-the-framework1749983968855800-46co)
+- [The New Generation of High-Performance Web Frameworks（1749983918181000）](https://dev.to/codeqwertyuiop/the-new-generation-of-high-performance-web-frameworks1749983918181000-2dhl)
+- [My Journey with the Hyperlane Framework（1749983614138900）](https://dev.to/codeqwertyuiop/my-journey-with-the-hyperlane-framework1749983614138900-568i)
+- [GSoC Week 2 — Languages, UX &amp; 40 Failing Tests](https://dev.to/jatsuakayashvant/gsoc-week-2-languages-ux-40-failing-tests-5b72)
 <!-- BLOG-POST-LIST:END -->
 
 ---
