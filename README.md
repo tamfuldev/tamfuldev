@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Kubuntu might be the revive potion you are looking for your old laptop 🐦‍🔥](https://dev.to/elpidaguy/kubuntu-might-be-the-revive-potion-you-are-looking-for-your-old-laptop-8fk)
-- [`insecureHash` function in langchainjs source code.](https://dev.to/ramunarasinga-11/insecurehash-function-in-langchainjs-source-code-34e6)
-- [AWS WAF: A Comprehensive Guide to Web Application Protection](https://dev.to/aws-builders/aws-waf-a-comprehensive-guide-to-web-application-protection-5ab1)
-- [Build Client Online Offline Status Feature using Ruby on Rails 8 Action Cable](https://dev.to/muhammad_syaifuddinzuhri/build-client-online-offline-status-feature-using-ruby-on-rails-8-action-cable-5bnm)
-- [🎯 Day 23 – Started Learning JPA &lpar;Java Persistence API&rpar;!](https://dev.to/krishna_chd/day-23-started-learning-jpa-java-persistence-api-1m20)
+- [ClaraVerse: The Open-Source AI Powerhouse That Might Just Dethrone OpenWebUI](https://dev.to/shahdeep/claraverse-the-open-source-ai-powerhouse-that-might-just-dethrone-openwebui-38in)
+- [How to Install V-JEPA 2 by Meta: Enable Real-World Interaction in Robots &amp; AI Agents](https://dev.to/nodeshiftcloud/how-to-install-v-jepa-2-by-meta-enable-real-world-interaction-in-robots-ai-agents-2g84)
+- [I attended POST/CON 2025. Here are my thoughts](https://dev.to/jeremycmorgan/i-attended-postcon-2025-here-are-my-thoughts-2d70)
+- [This is exactly what good leadership content should be. Actionable, honest, and grounded. Well done, Ashkan Rajaee.](https://dev.to/noahboswel79/this-is-exactly-what-good-leadership-content-should-be-actionable-honest-and-grounded-well-4h8a)
+- [Efeito de máquina de escrever com React usando requestAnimationFrame](https://dev.to/evenilsonliandro/efeito-de-maquina-de-escrever-com-react-usando-requestanimationframe-2fep)
 <!-- BLOG-POST-LIST:END -->
 
 ---
