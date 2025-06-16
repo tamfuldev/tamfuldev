@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Experience with Hyperlane（1750067371103800）](https://dev.to/codeqwertyuiop/my-experience-with-hyperlane1750067371103800-1710)
-- [My Journey with the Hyperlane Framework（1750067365384300）](https://dev.to/member_b06955cb/my-journey-with-the-hyperlane-framework1750067365384300-2563)
-- [Deploying a Full Stack Java App with RabbitMQ, MariaDB &amp; Tomcat on VMs](https://dev.to/michaelolowotech/deploying-a-full-stack-java-app-with-rabbitmq-mariadb-tomcat-on-vms-2hba)
-- [A Developer’s Guide to HMAC Validation for Adyen Webhooks](https://dev.to/adyen/a-developers-guide-to-hmac-validation-for-adyen-webhooks-4i96)
-- [Does Cursor Generate Accessible Android Apps?](https://dev.to/eevajonnapanula/does-cursor-generate-accessibile-android-apps-1cej)
+- [My Architectural Choices and Practical Experience（1750071040093400）](https://dev.to/codeqwertyuiop/my-architectural-choices-and-practical-experience1750071040093400-50nk)
+- [We&#39;ve Been Compiling Web Apps Wrong for a Decade](https://dev.to/professional_joe/weve-been-compiling-web-apps-wrong-for-a-decade-43aj)
+- [My Experience with Hyperlane（1750071023394900）](https://dev.to/member_b06955cb/my-experience-with-hyperlane1750071023394900-1kbp)
+- [Python: Your Gateway to Versatile Programming](https://dev.to/sia_negi21/python-your-gateway-to-versatile-programming-3glf)
+- [The Web Revolution Happening Right Under Our Noses](https://dev.to/professional_joe/the-web-revolution-happening-right-under-our-noses-9b5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
