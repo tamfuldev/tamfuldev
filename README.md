@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [NVIDIA CEO Drops the Blueprint for Europe&#39;s AI Boom](https://dev.to/future_ai/nvidia-ceo-drops-the-blueprint-for-europes-ai-boom-2h8d)
-- [ChatGPT obsession and delusions](https://dev.to/future_ai/chatgpt-obsession-and-delusions-1h9)
-- [Mark Zuckerberg is reportedly recruiting a team to build a ‘superintelligence&#39;](https://dev.to/future_ai/mark-zuckerberg-is-reportedly-recruiting-a-team-to-build-a-superintelligence-4p5d)
-- [The Meta AI app is a privacy disaster](https://dev.to/future_ai/the-meta-ai-app-is-a-privacy-disaster-28b2)
-- [Chinese scientists confirm AI capable of spontaneously forming human-level cognition](https://dev.to/future_ai/chinese-scientists-confirm-ai-capable-of-spontaneously-forming-human-level-cognition-38mh)
+- [Peak Performance Understated Power（1750079863883000）](https://dev.to/member_b06955cb/peak-performance-understated-power1750079863883000-4f9h)
+- [Squiggles](https://dev.to/tokopedia_care_6c7791d3d4/squiggles-19n)
+- [Enforcing Kubernetes Probes with a Custom Admission Webhook](https://dev.to/ashiqursuperfly/enforcing-kubernetes-probes-with-a-custom-admission-webhook-16o8)
+- [A go-to backend template for express](https://dev.to/rahil1202/a-go-to-backend-template-for-express-ci6)
+- [The Legal Landscape Is Evolving: How CLM and Generative AI Are Reshaping Legal Operations in 2025](https://dev.to/andrew_ethan_5e351ab1aeab/the-legal-landscape-is-evolving-how-clm-and-generative-ai-are-reshaping-legal-operations-in-2025-3926)
 <!-- BLOG-POST-LIST:END -->
 
 ---
