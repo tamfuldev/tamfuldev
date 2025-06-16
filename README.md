@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Beating the Monday Blues as a CTO &lpar;Without Losing Your Mind&rpar;](https://dev.to/doozieakshay/beating-the-monday-blues-as-a-cto-without-losing-your-mind-1aan)
-- [A Duet of Performance and Safety（1750045122547000）](https://dev.to/member_b06955cb/a-duet-of-performance-and-safety1750045122547000-3g9p)
-- [Peak Performance Understated Power（1750045120603600）](https://dev.to/codeqwertyuiop/peak-performance-understated-power1750045120603600-5774)
-- [The Heartbeat of Modern Web Applications（1750044817661800）](https://dev.to/member_b06955cb/the-heartbeat-of-modern-web-applications1750044817661800-1cj3)
-- [The New Generation of High-Performance Web Frameworks（1750044816351300）](https://dev.to/codeqwertyuiop/the-new-generation-of-high-performance-web-frameworks1750044816351300-3pcc)
+- [My Experience with Hyperlane（1750047250764600）](https://dev.to/member_b06955cb/my-experience-with-hyperlane1750047250764600-1gii)
+- [My Architectural Choices and Practical Experience（1750047247081100）](https://dev.to/codeqwertyuiop/my-architectural-choices-and-practical-experience1750047247081100-3mg4)
+- [MVC vs DDD: Go Language Architecture Deep Dive](https://dev.to/leapcell/mvc-vs-ddd-go-language-architecture-deep-dive-466f)
+- [Junior Year Self-Study Notes My Journey with the Framework（1750046947943200）](https://dev.to/member_b06955cb/junior-year-self-study-notes-my-journey-with-the-framework1750046947943200-415l)
+- [My Experience with Hyperlane（1750046944027600）](https://dev.to/codeqwertyuiop/my-experience-with-hyperlane1750046944027600-5ebj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
