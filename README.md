@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Vue コンポーネント間 データ受渡し: 子 -&gt; 親](https://dev.to/nabbisen/vue-konponentojian-detashou-du-si-zi-qin-4p9a)
-- [Comunicação Rápida e Tipada com gRPC no .NET](https://dev.to/daniloopinheiro/comunicacao-rapida-e-tipada-com-grpc-no-net-2b65)
-- [Mobile performance testing for banking and payment apps](https://dev.to/vivian_astor_2ed76e342250/mobile-performance-testing-for-banking-and-payment-apps-d54)
-- [DDD com .NET: Separando Responsabilidades com Bounded Contexts](https://dev.to/daniloopinheiro/ddd-com-net-separando-responsabilidades-com-bounded-contexts-22ke)
-- [Latest news](https://dev.to/zako_mako_9a4826822204c78/latest-news-36df)
+- [🚀 Challenge Me!](https://dev.to/boluwatifeilerioluwa/challenge-me-1n08)
+- [Work with deeplinks faster with deepvoke!](https://dev.to/gabrielbrasileiro/work-with-deeplinks-faster-with-deepvoke-2afm)
+- [Beginner Friendly React Native Notes](https://dev.to/vincod/beginner-friendly-react-native-notes-33h2)
+- [Neural Electrical Signals Reveal Clues to Happiness &lpar;20250616-144435&rpar;](https://dev.to/maurizio_morri_f7f4bd128c/neural-electrical-signals-reveal-clues-to-happiness-20250616-144435-1ii2)
+- [Deepvoke 1.3 -  The ultimate web tool to work with deeplinks](https://dev.to/gabrielbrasileiro/deepvoke-13-the-ultimate-web-tool-to-work-with-deeplinks-e6l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
