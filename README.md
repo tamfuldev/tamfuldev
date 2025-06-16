@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Peak Performance Understated Power（1750034921553600）](https://dev.to/codeqwertyuiop/peak-performance-understated-power1750034921553600-27bk)
-- [Sorry, no dev blog this week](https://dev.to/magipunk/sorry-no-dev-blog-this-week-174g)
-- [How I Made My First Open Source Contribution: A Beginner’s Guide](https://dev.to/justinhasda/how-i-made-my-first-open-source-contribution-a-beginners-guide-13b9)
-- [[Boost]](https://dev.to/rakeshv675/-1bgo)
-- [My Journey Exploring Efficient Web Development Frameworks（1750034336185500）](https://dev.to/member_b06955cb/my-journey-exploring-efficient-web-development-frameworks1750034336185500-bjb)
+- [Shallow Copy &amp; Deep Copy in Python &lpar;6&rpar;](https://dev.to/hyperkai/shallow-copy-deep-copy-in-python-6-4f14)
+- [My Architectural Choices and Practical Experience（1750041464645000）](https://dev.to/member_b06955cb/my-architectural-choices-and-practical-experience1750041464645000-352k)
+- [My Architectural Choices and Practical Experience（1750041463465000）](https://dev.to/codeqwertyuiop/my-architectural-choices-and-practical-experience1750041463465000-4gbk)
+- [My Journey with the Hyperlane Framework（1750041158698200）](https://dev.to/member_b06955cb/my-journey-with-the-hyperlane-framework1750041158698200-3bjc)
+- [Junior Year Self-Study Notes My Journey with the Framework（1750041158083300）](https://dev.to/codeqwertyuiop/junior-year-self-study-notes-my-journey-with-the-framework1750041158083300-4hbm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
