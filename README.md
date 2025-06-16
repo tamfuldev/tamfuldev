@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Duet of Performance and Safety（1750061590075500）](https://dev.to/codeqwertyuiop/a-duet-of-performance-and-safety1750061590075500-o32)
-- [Would You Prefer a Dark Mode or a Light Mode User Interface in the Year 2025?](https://dev.to/dellzo_limited_707d0a005e/would-you-prefer-a-dark-mode-or-a-light-mode-user-interface-in-the-year-2025-23dp)
-- [📺 Getting Started with Firebase Studio](https://dev.to/zenika/getting-started-with-firebase-studio-4150)
-- [Comprehensive Guide to Publishing Pure HarmonyOS Applications &lpar;2025 Edition&rpar;](https://dev.to/moyantianwang/comprehensive-guide-to-publishing-pure-harmonyos-applications-2025-edition-dln)
-- [Token Bucket Algorithm](https://dev.to/jay818/token-bucket-algorithm-1hhh)
+- [Why Everyone’s Talking About SafeLine — The Most Powerful Free WAF from Asia](https://dev.to/carrie_luo1/why-everyones-talking-about-safeline-the-most-powerful-free-waf-from-asia-51ne)
+- [Getting Started with LangChain: Build Smarter AI Apps with LLMs](https://dev.to/brains_behind_bots/getting-started-with-langchain-build-smarter-ai-apps-with-llms-53go)
+- [The Heartbeat of Modern Web Applications（1750064330497700）](https://dev.to/codeqwertyuiop/the-heartbeat-of-modern-web-applications1750064330497700-4fga)
+- [Peak Performance Understated Power（1750064322082300）](https://dev.to/member_b06955cb/peak-performance-understated-power1750064322082300-h5f)
+- [ArchLinuxを日常PCとしてインストールしてみた](https://dev.to/kitsunem/archlinuxwori-chang-pctositeinsutorusitemita-2kid)
 <!-- BLOG-POST-LIST:END -->
 
 ---
