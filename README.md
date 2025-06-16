@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing the Right Workflow Engine for Business Approval Systems](https://dev.to/mohammad_anzawi/choosing-the-right-workflow-engine-for-business-approval-systems-3klf)
-- [Junior Year Self-Study Notes My Journey with the Framework（1750027057570400）](https://dev.to/member_b06955cb/junior-year-self-study-notes-my-journey-with-the-framework1750027057570400-3bbp)
-- [How I created the fastest JavaScript Physics Engine.](https://dev.to/gabrielxyz/how-i-created-the-fastest-javascript-physics-engine-1375)
-- [The Poetry and Horizon of Code Framework（1750026451302400）](https://dev.to/member_b06955cb/the-poetry-and-horizon-of-code-framework1750026451302400-4i8i)
-- [The Heartbeat of Modern Web Applications（1750026416784000）](https://dev.to/codeqwertyuiop/the-heartbeat-of-modern-web-applications1750026416784000-4ch5)
+- [Peak Performance Understated Power（1750034921553600）](https://dev.to/codeqwertyuiop/peak-performance-understated-power1750034921553600-27bk)
+- [Sorry, no dev blog this week](https://dev.to/magipunk/sorry-no-dev-blog-this-week-174g)
+- [How I Made My First Open Source Contribution: A Beginner’s Guide](https://dev.to/justinhasda/how-i-made-my-first-open-source-contribution-a-beginners-guide-13b9)
+- [[Boost]](https://dev.to/rakeshv675/-1bgo)
+- [My Journey Exploring Efficient Web Development Frameworks（1750034336185500）](https://dev.to/member_b06955cb/my-journey-exploring-efficient-web-development-frameworks1750034336185500-bjb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
