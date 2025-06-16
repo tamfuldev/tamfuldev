@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [“I built and sold my first developer portfolio template with Tailwind — here’s what I learned”](https://dev.to/justcallmealek/i-built-and-sold-my-first-developer-portfolio-template-with-tailwind-heres-what-i-learned-4n6i)
-- [Ashkan Rajaee’s reflection on leadership during crisis is the kind of content I’ll come back to again.](https://dev.to/techtalk/ashkan-rajaees-reflection-on-leadership-during-crisis-is-the-kind-of-content-ill-come-back-to-461p)
-- [AWS EC2 + Nginx: Your First Web Server on Ubuntu](https://dev.to/_eve_/aws-ec2-nginx-your-first-web-server-on-ubuntu-j4n)
-- [ScholarRank Profile: 6885c502ed9efdca](https://dev.to/puddin1066/scholarrank-profile-6885c502ed9efdca-2g32)
-- [Wolfram&#39;s Automatas Explorer](https://dev.to/carban/wolframs-1d-cellular-automatas-bi1)
+- [Kubuntu might be the revive potion you are looking for your old laptop 🐦‍🔥](https://dev.to/elpidaguy/kubuntu-might-be-the-revive-potion-you-are-looking-for-your-old-laptop-8fk)
+- [`insecureHash` function in langchainjs source code.](https://dev.to/ramunarasinga-11/insecurehash-function-in-langchainjs-source-code-34e6)
+- [AWS WAF: A Comprehensive Guide to Web Application Protection](https://dev.to/aws-builders/aws-waf-a-comprehensive-guide-to-web-application-protection-5ab1)
+- [Build Client Online Offline Status Feature using Ruby on Rails 8 Action Cable](https://dev.to/muhammad_syaifuddinzuhri/build-client-online-offline-status-feature-using-ruby-on-rails-8-action-cable-5bnm)
+- [🎯 Day 23 – Started Learning JPA &lpar;Java Persistence API&rpar;!](https://dev.to/krishna_chd/day-23-started-learning-jpa-java-persistence-api-1m20)
 <!-- BLOG-POST-LIST:END -->
 
 ---
