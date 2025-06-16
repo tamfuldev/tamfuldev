@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Your Feet Rust-y: A Beginner’s Guide to Rust for Polkadot Devs”](https://dev.to/githaiga22/getting-your-feet-rust-y-a-beginners-guide-to-rust-for-polkadot-devs-3bh)
-- [Quick Access to Ruby Documentation](https://dev.to/burdettelamar/quick-access-to-ruby-documentation-50he)
-- [New bandcamp embed is live](https://dev.to/ben/new-bandcamp-embed-is-live-5g9e)
-- [Testing Bandcamp embed](https://dev.to/ben/testing-bandcamp-embed-3p87)
-- [neovim: Wrap selection into clipboard](https://dev.to/voyeg3r/neovim-wrap-selection-into-clipboard-554c)
+- [Vue コンポーネント間 データ受渡し: 子 -&gt; 親](https://dev.to/nabbisen/vue-konponentojian-detashou-du-si-zi-qin-4p9a)
+- [Comunicação Rápida e Tipada com gRPC no .NET](https://dev.to/daniloopinheiro/comunicacao-rapida-e-tipada-com-grpc-no-net-2b65)
+- [Mobile performance testing for banking and payment apps](https://dev.to/vivian_astor_2ed76e342250/mobile-performance-testing-for-banking-and-payment-apps-d54)
+- [DDD com .NET: Separando Responsabilidades com Bounded Contexts](https://dev.to/daniloopinheiro/ddd-com-net-separando-responsabilidades-com-bounded-contexts-22ke)
+- [Latest news](https://dev.to/zako_mako_9a4826822204c78/latest-news-36df)
 <!-- BLOG-POST-LIST:END -->
 
 ---
