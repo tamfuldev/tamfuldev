@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Architectural Choices and Practical Experience（1750071040093400）](https://dev.to/codeqwertyuiop/my-architectural-choices-and-practical-experience1750071040093400-50nk)
-- [We&#39;ve Been Compiling Web Apps Wrong for a Decade](https://dev.to/professional_joe/weve-been-compiling-web-apps-wrong-for-a-decade-43aj)
-- [My Experience with Hyperlane（1750071023394900）](https://dev.to/member_b06955cb/my-experience-with-hyperlane1750071023394900-1kbp)
-- [Python: Your Gateway to Versatile Programming](https://dev.to/sia_negi21/python-your-gateway-to-versatile-programming-3glf)
-- [The Web Revolution Happening Right Under Our Noses](https://dev.to/professional_joe/the-web-revolution-happening-right-under-our-noses-9b5)
+- [NVIDIA CEO Drops the Blueprint for Europe&#39;s AI Boom](https://dev.to/future_ai/nvidia-ceo-drops-the-blueprint-for-europes-ai-boom-2h8d)
+- [ChatGPT obsession and delusions](https://dev.to/future_ai/chatgpt-obsession-and-delusions-1h9)
+- [Mark Zuckerberg is reportedly recruiting a team to build a ‘superintelligence&#39;](https://dev.to/future_ai/mark-zuckerberg-is-reportedly-recruiting-a-team-to-build-a-superintelligence-4p5d)
+- [The Meta AI app is a privacy disaster](https://dev.to/future_ai/the-meta-ai-app-is-a-privacy-disaster-28b2)
+- [Chinese scientists confirm AI capable of spontaneously forming human-level cognition](https://dev.to/future_ai/chinese-scientists-confirm-ai-capable-of-spontaneously-forming-human-level-cognition-38mh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
