@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [10+ Best Next.js eCommerce Templates for 2025](https://dev.to/vinishbhaskar/10-best-nextjs-ecommerce-templates-for-2025-3cek)
+- [Day 9: Supercharge FastAPI with Async Programming](https://dev.to/awslearnerdaily/day-9-supercharge-fastapi-with-async-programming-3op4)
 - [What I Learned Today in React: useState, Spread Operator &amp; Map Function...](https://dev.to/a_ramesh/what-i-learned-today-in-react-usestate-spread-operator-map-function-2jm6)
 - [How to Set Up GitHub Login in SafeLine](https://dev.to/sharon_42e16b8da44dabde6d/how-to-set-up-github-login-in-safeline-2i0m)
-- [🚀 Create React App Using Vite.js — A Modern, Faster Alternative!](https://dev.to/dthiwanka/create-react-app-using-vitejs-a-modern-faster-alternative-44g)
-- [🚀 AWS CodeBuild Just Got Faster — Thanks to Remote Docker Server Support!](https://dev.to/latchudevops/aws-codebuild-just-got-faster-thanks-to-remote-docker-server-support-22ie)
-- [🧠 How I Built LungIQ: A Weekend Project to Train Better Respiratory Clinicians](https://dev.to/nicholasamsler/how-i-built-lungiq-a-weekend-project-to-train-better-respiratory-clinicians-17b6)
+- [Building Robust API Rate Limiters: A Comprehensive Guide for Developers](https://dev.to/softheartengineer/building-robust-api-rate-limiters-a-comprehensive-guide-for-developers-2p37)
 <!-- BLOG-POST-LIST:END -->
 
 ---
