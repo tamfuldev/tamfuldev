@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [have a read](https://dev.to/tamanna_aira/have-a-read-49mj)
-- [Gerenciando Volumes do Kubernetes de Forma Fácil](https://dev.to/fernandomullerjr/gerenciando-volumes-do-kubernetes-de-forma-facil-429b)
-- [I built a product people said they wanted. No one showed up.](https://dev.to/gguggulab/i-built-a-product-people-said-they-wanted-no-one-showed-up-13f3)
-- [How to Learn AI from Scratch](https://dev.to/lazypro/how-to-learn-ai-from-scratch-3368)
-- [Doing Science: What I learned while building RouteBastion as a Master’s Thesis project](https://dev.to/pietro-swe/doing-science-what-i-learned-while-building-routebastion-as-a-masters-thesis-project-279d)
+- [What I Learned Today in React: useState, Spread Operator &amp; Map Function...](https://dev.to/a_ramesh/what-i-learned-today-in-react-usestate-spread-operator-map-function-2jm6)
+- [How to Set Up GitHub Login in SafeLine](https://dev.to/sharon_42e16b8da44dabde6d/how-to-set-up-github-login-in-safeline-2i0m)
+- [🚀 Create React App Using Vite.js — A Modern, Faster Alternative!](https://dev.to/dthiwanka/create-react-app-using-vitejs-a-modern-faster-alternative-44g)
+- [🚀 AWS CodeBuild Just Got Faster — Thanks to Remote Docker Server Support!](https://dev.to/latchudevops/aws-codebuild-just-got-faster-thanks-to-remote-docker-server-support-22ie)
+- [🧠 How I Built LungIQ: A Weekend Project to Train Better Respiratory Clinicians](https://dev.to/nicholasamsler/how-i-built-lungiq-a-weekend-project-to-train-better-respiratory-clinicians-17b6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
