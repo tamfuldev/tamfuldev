@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Jekyll auto posts from YouTube feeds](https://dev.to/solvecomputerscience/jekyll-auto-posts-from-youtube-feeds-h1k)
-- [How I Automated My Content Creation: From 4 Hours of Manual Work to 8 Minutes of AI Magic](https://dev.to/allanninal/how-i-automated-my-content-creation-from-4-hours-of-manual-work-to-8-minutes-of-ai-magic-2o9d)
-- [How to Install and Use reCaptcha by BestWebSoft &lpar;Pro Version&rpar;](https://dev.to/_1242322bc59de17c3faf6/how-to-install-and-use-recaptcha-by-bestwebsoft-pro-version-5blf)
-- [How I built Classic Pac-Man game using AmazonQ CLI](https://dev.to/aws-builders/how-i-built-classic-pac-man-game-using-amazonq-cli-4bfi)
-- [Go Coding with Asparagos: Tomato Discrimination in the Soup Queue](https://dev.to/asparagos/go-coding-with-asparagos-tomato-discrimination-in-the-soup-queue-4i7)
+- [I’ve never thought about treating my environment like part of my business strategy. TDZ Pro nailed it.](https://dev.to/colesilverstone/ive-never-thought-about-treating-my-environment-like-part-of-my-business-strategy-tdz-pro-nailed-2e5g)
+- [Honestly grateful someone wrote this. Most content is about marketing or scaling. This is about surviving.](https://dev.to/colesilverstone/honestly-grateful-someone-wrote-this-most-content-is-about-marketing-or-scaling-this-is-about-1pfo)
+- [Revolutionizing AI: A Guide to Multimodal NLP](https://dev.to/vaib/revolutionizing-ai-a-guide-to-multimodal-nlp-3e7g)
+- [Are Nx Monorepo Configurations Really Complex?](https://dev.to/mayallo/are-nx-monorepo-configurations-really-complex-l0l)
+- [what is the purpose of aikido security](https://dev.to/imajenasyon/what-is-the-purpose-of-aikido-security-337h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
