@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/mahdichaari01/-5b9n)
-- [Packaging and Distributing a Rust CLI for All Platforms - A Case Study with Tooka](https://dev.to/benji377/packaging-and-distributing-a-rust-cli-for-all-platforms-a-case-study-with-tooka-172)
-- [My](https://dev.to/lati89/my-54ic)
-- [Why Your Django OAuth Endpoints Mysteriously Show POST Methods &lpar;And How to Fix It&rpar;](https://dev.to/c_6b7a8e65d067ddc62/why-your-django-oauth-endpoints-mysteriously-show-post-methods-and-how-to-fix-it-453l)
-- [C++, Unsafe Doesn’t Always Mean Dangerous : How I increased performance with raw pointers](https://dev.to/mahdichaari01/c-unsafe-doesnt-always-mean-dangerous-how-i-increased-performance-with-raw-pointers-2lee)
+- [[Boost]](https://dev.to/lanoia/-3549)
+- [🔢 Count the Number of Arrays with K Matching Adjacent Elements LeetCode 3405 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/count-the-number-of-arrays-with-k-matching-adjacent-elements-leetcode-3405-c-python--1keo)
+- [🚀 Building Lightning-Fast Search with search-plus-ts: A Full-Stack TypeScript Solution](https://dev.to/devgauravjatt/building-lightning-fast-search-with-search-plus-ts-a-full-stack-typescript-solution-39f0)
+- [The new Indicator navigation point component in HarmonyOS API 15.](https://dev.to/waylau521/the-new-indicator-navigation-point-component-in-harmonyos-api-15-14bb)
+- [Democratizing AI: Building a RAG System with Gemma and LangChain](https://dev.to/saol/democratizing-ai-building-a-rag-system-with-gemma-and-langchain-50l2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
