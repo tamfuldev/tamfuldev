@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I’ve never thought about treating my environment like part of my business strategy. TDZ Pro nailed it.](https://dev.to/colesilverstone/ive-never-thought-about-treating-my-environment-like-part-of-my-business-strategy-tdz-pro-nailed-2e5g)
-- [Honestly grateful someone wrote this. Most content is about marketing or scaling. This is about surviving.](https://dev.to/colesilverstone/honestly-grateful-someone-wrote-this-most-content-is-about-marketing-or-scaling-this-is-about-1pfo)
-- [Revolutionizing AI: A Guide to Multimodal NLP](https://dev.to/vaib/revolutionizing-ai-a-guide-to-multimodal-nlp-3e7g)
-- [Are Nx Monorepo Configurations Really Complex?](https://dev.to/mayallo/are-nx-monorepo-configurations-really-complex-l0l)
-- [what is the purpose of aikido security](https://dev.to/imajenasyon/what-is-the-purpose-of-aikido-security-337h)
+- [Automating AWS Infrastructure Provisioning with GitSync and CloudFormation](https://dev.to/aws-builders/automating-aws-infrastructure-provisioning-with-gitsync-and-cloudformation-3334)
+- [Building for SaaS Growth: Architecting Systems for 10 to 500 Customers](https://dev.to/deepakgupta/building-for-saas-growth-architecting-systems-for-10-to-500-customers-2h4p)
+- [Types of Cache Used in System Design and Architecture](https://dev.to/devscriptor/types-of-cache-used-in-system-design-and-architecture-4kha)
+- [💌 Build Your Own AI Email Manager with n8n, OpenAI &amp; Slack](https://dev.to/swayam_nakshane_aef87e228/build-your-own-ai-email-manager-with-n8n-openai-slack-9h4)
+- [Build Your Own Uptime Monitor in Python](https://dev.to/0x7b-shop/build-your-own-uptime-monitor-in-python-1b52)
 <!-- BLOG-POST-LIST:END -->
 
 ---
