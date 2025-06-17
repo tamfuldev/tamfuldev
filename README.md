@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/lanoia/-3549)
-- [🔢 Count the Number of Arrays with K Matching Adjacent Elements LeetCode 3405 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/count-the-number-of-arrays-with-k-matching-adjacent-elements-leetcode-3405-c-python--1keo)
-- [🚀 Building Lightning-Fast Search with search-plus-ts: A Full-Stack TypeScript Solution](https://dev.to/devgauravjatt/building-lightning-fast-search-with-search-plus-ts-a-full-stack-typescript-solution-39f0)
-- [The new Indicator navigation point component in HarmonyOS API 15.](https://dev.to/waylau521/the-new-indicator-navigation-point-component-in-harmonyos-api-15-14bb)
-- [Democratizing AI: Building a RAG System with Gemma and LangChain](https://dev.to/saol/democratizing-ai-building-a-rag-system-with-gemma-and-langchain-50l2)
+- [have a read](https://dev.to/tamanna_aira/have-a-read-49mj)
+- [Gerenciando Volumes do Kubernetes de Forma Fácil](https://dev.to/fernandomullerjr/gerenciando-volumes-do-kubernetes-de-forma-facil-429b)
+- [I built a product people said they wanted. No one showed up.](https://dev.to/gguggulab/i-built-a-product-people-said-they-wanted-no-one-showed-up-13f3)
+- [How to Learn AI from Scratch](https://dev.to/lazypro/how-to-learn-ai-from-scratch-3368)
+- [Doing Science: What I learned while building RouteBastion as a Master’s Thesis project](https://dev.to/pietro-swe/doing-science-what-i-learned-while-building-routebastion-as-a-masters-thesis-project-279d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
