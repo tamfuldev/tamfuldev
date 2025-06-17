@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/nikhil_sachapara/-2ae5)
-- [The Illusion of Thinking: Why Apple’s Findings Hold True for AI Code Reviews](https://dev.to/pantoai/the-illusion-of-thinking-why-apples-findings-hold-true-for-ai-code-reviews-5a3c)
-- [[Boost]](https://dev.to/anakin_developer/-3jc2)
-- [My Fav Open Source Tools on Github as a Developer &lpar;2025 List&rpar;](https://dev.to/therealmrmumba/my-fav-open-source-github-tools-2025-as-a-developer-2o6b)
-- [Mastering C#: Complete C Sharp Tutorial for Beginners](https://dev.to/rishabhtpt/mastering-c-complete-c-sharp-tutorial-for-beginners-42j1)
+- [Changeish: Automate your changelog with AI](https://dev.to/itlackey/changeish-automate-your-changelog-with-ai-45kj)
+- [Why Your PHP App is Slowing Down and How Monitoring can Help?](https://dev.to/olivia_madison_b0ad7090ad/why-your-php-app-is-slowing-down-and-how-monitoring-can-help-2io3)
+- [Why AI Interview Assistants Are the Future of Job Hunting](https://dev.to/zy_li_d74fa193c2b190918be/why-ai-interview-assistants-are-the-future-of-job-hunting-1aof)
+- [MongoDB Tutorial: From Basics to Advanced Techniques](https://dev.to/suraj_kumar_fb57ae0928df2/mongodb-tutorial-from-basics-to-advanced-techniques-37pd)
+- [&quot;Understanding AWS Pricing Models – Simplified for Developers&quot;](https://dev.to/2021_cse_gayathrir_e733/understanding-aws-pricing-models-simplified-for-developers-138m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
