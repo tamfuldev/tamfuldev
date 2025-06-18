@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Bringing Enterprise Grade AI Tool Calling to Rust: Introducing mcp-protocol-sdk](https://dev.to/rishirandhawa/bringing-enterprise-grade-ai-tool-calling-to-rust-introducing-mcp-protocol-sdk-2a31)
-- [Two Sum in C# – From Brute Force to Optimal Hash Map &amp; Beyond](https://dev.to/mostafa_samir_fe0bbfde587/two-sum-in-c-from-brute-force-to-optimal-hash-map-beyond-4kph)
-- [Junior Year Self-Study Notes My Journey with the Framework（1750276763072800）](https://dev.to/member_e911e096/junior-year-self-study-notes-my-journey-with-the-framework1750276763072800-1964)
-- [The Zen of Python and My Journey into Tech](https://dev.to/emmanita20/the-zen-of-python-and-my-journey-into-tech-obj)
-- [AI Code Reviews: Spotting Bugs Like Apple](https://dev.to/drxven/ai-code-reviews-spotting-bugs-like-apple-4cci)
+- [6 Reasons CLI Coding Agents Are the Future of Software Development](https://dev.to/pankaj_singh_1022ee93e755/6-reasons-cli-coding-agents-are-the-future-of-software-development-38n1)
+- [Vue の TypeScript 親和性](https://dev.to/nabbisen/vue-no-typescript-qin-he-xing-o5m)
+- [How I Improved SEO and Load Speed for My React SPA Without Switching to Next.js](https://dev.to/jankostanic/how-i-improved-seo-and-load-speed-for-my-react-spa-without-switching-to-nextjs-1pdl)
+- [Realtime（1750279364747000）](https://dev.to/member_e911e096/realtime1750279364747000-1ibl)
+- [Beyond DRY: When AI-Generated Duplication Improves Maintainability](https://dev.to/rakbro/beyond-dry-when-ai-generated-duplication-improves-maintainability-1daf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
