@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Who is Mohammad Rifatujjaman?](https://dev.to/mohammad_rifatujjaman/who-is-mohammad-rifatujjaman-468a)
-- [Deadline Extended for Storyblok Headless CMS Challenge! Jump in while there&#39;s time.](https://dev.to/devteam/deadline-extended-for-storyblok-headless-cms-challenge-jump-in-while-theres-time-15m8)
-- [FastAPI: Your First Production-Ready API](https://dev.to/drxven/fastapi-your-first-production-ready-api-o6b)
-- [The Heartbeat of Modern Web Applications（1750272187612500）](https://dev.to/member_e911e096/the-heartbeat-of-modern-web-applications1750272187612500-33c5)
-- [Why Solving Small Problems Matters in Software Development](https://dev.to/mohammad_rifatujjaman/why-solving-small-problems-matters-in-software-development-4kbh)
+- [Bringing Enterprise Grade AI Tool Calling to Rust: Introducing mcp-protocol-sdk](https://dev.to/rishirandhawa/bringing-enterprise-grade-ai-tool-calling-to-rust-introducing-mcp-protocol-sdk-2a31)
+- [Two Sum in C# – From Brute Force to Optimal Hash Map &amp; Beyond](https://dev.to/mostafa_samir_fe0bbfde587/two-sum-in-c-from-brute-force-to-optimal-hash-map-beyond-4kph)
+- [Junior Year Self-Study Notes My Journey with the Framework（1750276763072800）](https://dev.to/member_e911e096/junior-year-self-study-notes-my-journey-with-the-framework1750276763072800-1964)
+- [The Zen of Python and My Journey into Tech](https://dev.to/emmanita20/the-zen-of-python-and-my-journey-into-tech-obj)
+- [AI Code Reviews: Spotting Bugs Like Apple](https://dev.to/drxven/ai-code-reviews-spotting-bugs-like-apple-4cci)
 <!-- BLOG-POST-LIST:END -->
 
 ---
