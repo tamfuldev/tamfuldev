@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript で型安全](https://dev.to/nabbisen/typescript-dexing-an-quan-141e)
-- [A Deep Guide to HarmonyOS Next Permission Management](https://dev.to/liu_yang_fc0e605820ac220c/a-deep-guide-to-harmonyos-next-permission-management-15k4)
-- [HarmonyOS Learning: Developer Classroom](https://dev.to/xhunmon/harmonyos-learning-developer-classroom-39mc)
-- [Build a Web3 Mood-to-NFT Generator with React and Thirdweb](https://dev.to/milan_reyes_da10aae8e0f/build-a-web3-mood-to-nft-generator-with-react-and-thirdweb-c9j)
-- [Why Vectorize Structured Accounting Data Instead of Relying Solely on SQL](https://dev.to/jmd_is_me/why-vectorize-structured-accounting-data-instead-of-relying-solely-on-sql-1do9)
+- [What&#39;s new in ONLYOFFICE Docs 9.0: .md, redesigned interface, AI tools, and more](https://dev.to/onlyoffice/whats-new-in-onlyoffice-docs-90-md-redesigned-interface-ai-tools-and-more-1o4p)
+- [AI Resume Analyzer with Next.js 15, Tailwind CSS, and OpenAI](https://dev.to/saidmounaim/ai-resume-analyzer-with-nextjs-15-tailwind-css-and-openai-5bah)
+- [Best 15 Svelte UI Components &amp; Libraries for Enterprise-Grade Apps](https://dev.to/olga_tash/best-15-svelte-ui-components-libraries-for-enterprise-grade-apps-23gc)
+- [Embrace the guilt and shame, it&#39;s a reminder that you are human.](https://dev.to/andyrosenberg/embrace-the-guilt-and-shame-its-a-reminder-that-you-are-human-5cp2)
+- [How to Document a PostgreSQL Schema in 2025](https://dev.to/roxana_haidiner/how-to-document-a-postgresql-schema-in-2025-3ijk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
