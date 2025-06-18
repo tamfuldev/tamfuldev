@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Server-Sent Events: A Simple Solution you didn&#39;t know you needed](https://dev.to/vigneshintech/server-sent-events-a-simple-solution-you-didnt-know-you-needed-3c3m)
-- [Simplified Usage of Shape Clipping](https://dev.to/flfljh/simplified-usage-of-shape-clipping-38ah)
-- [DSIP-91 Proposal: A New Solution to Simplify Workflow Debugging and Deployment — Join the Discussion!](https://dev.to/chen_debra_3060b21d12b1b0/dsip-91-proposal-a-new-solution-to-simplify-workflow-debugging-and-deployment-join-the-cdd)
-- [# Introducing Simple Calc: Your No‑BS Online Calculator](https://dev.to/titanicbhai/-introducing-simple-calc-your-no-bs-online-calculator-b6c)
-- [Step-by-Step Guide: OIDC Login Integration in SafeLine WAF](https://dev.to/sharon_42e16b8da44dabde6d/step-by-step-guide-oidc-login-integration-in-safeline-waf-8ji)
+- [16-HarmonyOS5-VisionKit-VisionImageAnalyzer-Case](https://dev.to/zhousg/16-harmonyos5-visionkit-visionimageanalyzer-case-3ah2)
+- [I Was Frustrated Converting CSS to Tailwind — So I Built My Own Tool](https://dev.to/devshefali/i-was-frustrated-converting-css-to-tailwind-so-i-built-my-own-tool-5had)
+- [What If I Told You Prompt Engineering Could Make You a Better Leader?](https://dev.to/mohammed_husain/what-if-i-told-you-prompt-engineering-could-make-you-a-better-leader-2g9e)
+- [Next-Gen PWAs: AI and ML Drive Personalized &amp; Predictive Web Experiences](https://dev.to/vaib/next-gen-pwas-ai-and-ml-drive-personalized-predictive-web-experiences-2k34)
+- [Welcome Thread - v331](https://dev.to/devteam/welcome-thread-v331-550e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
