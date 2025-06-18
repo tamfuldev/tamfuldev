@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [6 Reasons CLI Coding Agents Are the Future of Software Development](https://dev.to/pankaj_singh_1022ee93e755/6-reasons-cli-coding-agents-are-the-future-of-software-development-38n1)
-- [Vue の TypeScript 親和性](https://dev.to/nabbisen/vue-no-typescript-qin-he-xing-o5m)
-- [How I Improved SEO and Load Speed for My React SPA Without Switching to Next.js](https://dev.to/jankostanic/how-i-improved-seo-and-load-speed-for-my-react-spa-without-switching-to-nextjs-1pdl)
-- [Realtime（1750279364747000）](https://dev.to/member_e911e096/realtime1750279364747000-1ibl)
-- [Beyond DRY: When AI-Generated Duplication Improves Maintainability](https://dev.to/rakbro/beyond-dry-when-ai-generated-duplication-improves-maintainability-1daf)
+- [4 iOS UX Writing Secrets That Will Transform Your App&#39;s User Experience &lpar;Apple Insiders Reveal All&rpar;](https://dev.to/arshtechpro/4-ios-ux-writing-secrets-that-will-transform-your-apps-user-experience-apple-insiders-reveal-all-3d0f)
+- [My Architectural Choices and Practical Experience（1750282774876400）](https://dev.to/member_e911e096/my-architectural-choices-and-practical-experience1750282774876400-gef)
+- [Realtime（1750282675141300）](https://dev.to/member_e911e096/realtime1750282675141300-k85)
+- [AI Isn’t the Story. How We Work Together Is.](https://dev.to/wittycircuitry/ai-isnt-the-story-how-we-work-together-is-162c)
+- [Architecture（1750282272480500）](https://dev.to/member_a4f1642a/architecture1750282272480500-3l9h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
