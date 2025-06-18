@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Powered Job Hunt Automation - From Search to Interview Scheduling](https://dev.to/ariondev/ai-powered-job-hunt-automation-from-search-to-interview-scheduling-47ek)
-- [Introducing NeuroTwin - your AI twin that attends meetings, writes, replies, and thinks like you.](https://dev.to/ak1531/introducing-neurotwin-your-ai-twin-that-attends-meetings-writes-replies-and-thinks-like-you-5ajm)
-- [🚨 Your Site Is Down Right Now &lpar;And You Don&#39;t Even Know It&rpar;](https://dev.to/alexsofroniev/your-site-is-down-right-now-and-you-dont-even-know-it-3398)
-- [🏗️ DEMOLISH THE GIANT: META — The Metaverse That Never Was](https://dev.to/the_epyq/demolish-the-giant-meta-the-metaverse-that-never-was-5en4)
-- [CSS Container Queries Tutorial for Beginners](https://dev.to/mechcloud_academy/css-container-queries-tutorial-for-beginners-30em)
+- [What Was One of Your First Projects As A Programmer?](https://dev.to/javanteb23/what-was-one-of-your-first-projects-as-a-programmer-12e8)
+- [Generate Playwright Tests Without Code Access Using MCP and Copilot](https://dev.to/debs_obrien/generate-playwright-tests-without-code-access-using-mcp-and-copilot-2m05)
+- [Scholar Profile - J Jay Round - 20250618-135128](https://dev.to/puddin1066/scholar-profile-j-jay-round-20250618-135128-4mnj)
+- [Architecture（1750269008985600）](https://dev.to/member_e911e096/architecture1750269008985600-jeg)
+- [evm-lens: Instant, Local EVM CLI Bytecode Disassembly](https://dev.to/andyrobert3/evm-lens-instant-local-evm-cli-bytecode-disassembly-16jl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
