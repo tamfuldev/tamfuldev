@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix Your Sender Reputation with Bulk Email Verification Tools](https://dev.to/mahalekshmi_n_42acab92d7a/how-to-fix-your-sender-reputation-with-bulk-email-verification-tools-2al7)
-- [Behind the Click: The Untold Journey of a Payment Gateway](https://dev.to/sneha_a3489ef74e6d3589455/behind-the-click-the-untold-journey-of-a-payment-gateway-g5g)
-- [Senior Developer Interview Guide: Master Contentful with Confidence](https://dev.to/sadamkhan7679/senior-developer-interview-guide-master-contentful-with-confidence-5329)
-- [Segment Tree](https://dev.to/mearjuntripathi/segment-tree-59n1)
-- [WBT Surpasses $52: Developer’s Outlook on 3 Strategic Scenarios for Q3 2025](https://dev.to/philip_crypto92/wbt-surpasses-52-developers-outlook-on-3-strategic-scenarios-for-q3-2025-1olo)
+- [📈 Letting AI Drive: From Hell Loops to Happy Commits](https://dev.to/anchildress11/from-hell-loops-to-happy-commits-38c4)
+- [🚀 Go Testing Unleashed: From Basics to Beast Mode](https://dev.to/tavernetech/go-testing-unleashed-from-basics-to-beast-mode-326b)
+- [The Power of Microtools: How AI and &quot;Vibe Coding&quot; Are Changing the Way We Build](https://dev.to/colocodes/the-power-of-microtools-how-ai-and-vibe-coding-are-changing-the-way-we-build-5df8)
+- [Jetpack Compose Made Easy: Image-to-Code for Modern Android UIs](https://dev.to/atforeveryoung/jetpack-compose-made-easy-image-to-code-for-modern-android-uis-359l)
+- [Boosting React Native Performance: Quick Tips for UI &amp; Native Optimization](https://dev.to/samuel_mitter_06d9e3f9c78/boosting-react-native-performance-quick-tips-for-ui-native-optimization-2b92)
 <!-- BLOG-POST-LIST:END -->
 
 ---
