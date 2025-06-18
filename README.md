@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Simple Budgeting App Called Budget Buddy](https://dev.to/voxdroid/i-built-a-simple-budgeting-app-called-budget-buddy-3nng)
-- [🐧 Meet Wally — Your Bilingual AI Penguin Buddy!](https://dev.to/julywu/meet-wally-your-bilingual-ai-penguin-buddy-50ge)
-- [Frontier Communications Login Account](https://dev.to/vladimirputinvp/frontier-communications-login-account-1nfd)
-- [🧩 Day 11 of Java Mastery: Relational Operators](https://dev.to/spyde/day-11-of-java-mastery-relational-operators-1fbl)
-- [A Guide to the Spring Framework with Examples](https://dev.to/galisetty_priyatham_c1a49/a-guide-to-the-spring-framework-with-examples-2e93)
+- [TypeScript で型安全](https://dev.to/nabbisen/typescript-dexing-an-quan-141e)
+- [A Deep Guide to HarmonyOS Next Permission Management](https://dev.to/liu_yang_fc0e605820ac220c/a-deep-guide-to-harmonyos-next-permission-management-15k4)
+- [HarmonyOS Learning: Developer Classroom](https://dev.to/xhunmon/harmonyos-learning-developer-classroom-39mc)
+- [Build a Web3 Mood-to-NFT Generator with React and Thirdweb](https://dev.to/milan_reyes_da10aae8e0f/build-a-web3-mood-to-nft-generator-with-react-and-thirdweb-c9j)
+- [Why Vectorize Structured Accounting Data Instead of Relying Solely on SQL](https://dev.to/jmd_is_me/why-vectorize-structured-accounting-data-instead-of-relying-solely-on-sql-1do9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
