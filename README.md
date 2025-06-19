@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Screaming Architecture: The Key to a Scalable Frontend](https://dev.to/sergioazoc/screaming-architecture-the-key-to-a-scalable-frontend-1e8l)
-- [True future of Databricks Lakebase](https://dev.to/gigapress/true-future-of-databricks-lakebase-13cl)
-- [AWS Fundamentals: Airflow](https://dev.to/devops_fundamental/aws-fundamentals-airflow-17fi)
-- [MongoDB Made Easy: A Beginner’s Guide to NoSQL](https://dev.to/_bhupeshk_/mongodb-made-easy-a-beginners-guide-to-nosql-1la9)
-- [Deny AI, Embrace You. - An AI Deconstuction](https://dev.to/alanlovesw3/deny-ai-embrace-you-an-ai-deconstuctions-3e7g)
+- [Generative AI vs Predictive AI: What are the differences?](https://dev.to/lollypopdesign/generative-ai-vs-predictive-ai-what-are-the-differences-332e)
+- [🔥 Shrink Your Flutter App Size by 60% — Pro Techniques to Build Leaner, Faster APKs &lpar;2025&rpar;](https://dev.to/alex_codex_dev/shrink-your-flutter-app-size-by-60-pro-techniques-to-build-leaner-faster-apks-2025-lfh)
+- [HarmonyOS FlutterEngineGroup Integration Guide](https://dev.to/flfljh/harmonyos-flutterenginegroup-integration-guide-4kof)
+- [System Screenshot Detection](https://dev.to/flfljh/system-screenshot-detection-133p)
+- [How to Use IEEE Xplore for Effective Prior Art Searches](https://dev.to/patentscanai/how-to-use-ieee-xplore-for-effective-prior-art-searches-515n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
