@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Impact of Garbage Collection on JS Performance](https://dev.to/omriluz1/understanding-the-impact-of-garbage-collection-on-js-performance-23jk)
-- [AI code reviews: where it shines, where it fails, and how to use it like a pro](https://dev.to/devlinktips/ai-code-reviews-where-it-shines-where-it-fails-and-how-to-use-it-like-a-pro-1id1)
-- [100 days of Coding! Day 20](https://dev.to/aaanishaaa/100-days-of-coding-day-20-16nm)
-- [MenuMaster - Restaurant Chain Content Platform](https://dev.to/aibughunter/menumaster-restaurant-chain-content-platform-21fm)
-- [Designing your own node-based visual programming language](https://dev.to/cosmomyzrailgorynych/designing-your-own-node-based-visual-programming-language-2mpg)
+- [[Boost]](https://dev.to/anthonymax/-1f93)
+- [[Boost]](https://dev.to/vaib/-hp0)
+- [Testing ITConnect Before Launch: Making Sure Everything Works Smoothly](https://dev.to/erzana_muharremi/testing-itconnect-before-launch-making-sure-everything-works-smoothly-190h)
+- [CreatiFlow: My Journey Building an AI-Powered Image Editing SaaS with Next.js 14, Cloudinary, and Stripe](https://dev.to/faarehahmed/creatiflow-my-journey-building-an-ai-powered-image-editing-saas-with-nextjs-14-cloudinary-and-2hln)
+- [Do This to Make a Game That Doesn’t Flop &lpar;From Experience&rpar;](https://dev.to/flatingofamily/do-this-to-make-a-game-that-doesnt-flop-from-experience-14hp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
