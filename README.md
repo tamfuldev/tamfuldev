@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Do NLP and Computer Vision Work Together in Modern AI Applications?](https://dev.to/smart_data_/how-do-nlp-and-computer-vision-work-together-in-modern-ai-applications-5398)
-- [🚀 15 Best AI Tools Every Developer Should Use to Crush Their Interviews 💻](https://dev.to/finalroundai/15-best-ai-tools-every-developer-should-use-to-crush-their-interviews-8j6)
-- [Collaborative Translation Software Features to Look for](https://dev.to/jennamitchell/collaborative-translation-software-features-to-look-for-2lkn)
-- [TCM Security Post](https://dev.to/char1iedevos/tcm-security-post-617)
-- [My Honest Experience with Ritesh Verma’s AI Agent Mentorship &lpar;BecomeABotDeveloper&rpar;](https://dev.to/baurzhan_zhetenov_442c4cd/my-honest-experience-with-ritesh-vermas-ai-agent-mentorship-becomeabotdeveloper-48g2)
+- [A Developer’s Guide to SQL NOT IN: Smarter Queries, Faster Results](https://dev.to/dbvismarketing/a-developers-guide-to-sql-not-in-smarter-queries-faster-results-27dn)
+- [So glad I came across this. It does not just inspire, it equips.](https://dev.to/celestehar88/so-glad-i-came-across-this-it-does-not-just-inspire-it-equips-51k7)
+- [Day #2 Building in Public bolt.new Hackathon](https://dev.to/paako/day-2-building-in-public-boltnew-hackathon-4e0e)
+- [Realtime（1750315759503700）](https://dev.to/member_e911e096/realtime1750315759503700-79j)
+- [Hexagonal Architecture: Building Maintainable and Testable Applications](https://dev.to/asm_tarek/hexagonal-architecture-building-maintainable-and-testable-applications-1gp9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
