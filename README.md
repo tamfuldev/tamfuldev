@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🕹️ History of Game Consoles – A Visual Timeline Powered by Storyblok](https://dev.to/jamesrmoro/history-of-game-consoles-a-visual-timeline-powered-by-storyblok-2i0h)
-- [So, tech salaries stopped climbing now what? we are not hiring right now, the new normal.](https://dev.to/devlinktips/so-tech-salaries-stopped-climbing-now-what-we-are-not-hiring-right-now-the-new-normal-41dd)
-- [How I Automated My Next.js Deployments to cPanel with GitHub Actions &lpar;and All the Debugging That Came With It&rpar;](https://dev.to/braincodes/how-i-automated-my-nextjs-deployments-to-cpanel-with-github-actions-and-all-the-debugging-that-1kic)
-- [Build a Semantic Search-Powered FAQ Assistant with TiDB and AWS Bedrock](https://dev.to/realchrissean/build-a-semantic-search-powered-faq-assistant-with-tidb-and-aws-bedrock-5c09)
-- [WWDC 2025 Deep Dive: Mastering Swift Concurrency&#39;s Evolution Path](https://dev.to/arshtechpro/wwdc-2025-deep-dive-mastering-swift-concurrencys-evolution-path-3mpj)
+- [The &quot;never&quot; Type in PHP](https://dev.to/ashallendesign/the-never-type-in-php-49e1)
+- [Devops isn’t broken it just hurts more than we admit](https://dev.to/devlinktips/devops-isnt-broken-it-just-hurts-more-than-we-admit-3ge)
+- [Por que Acessibilidade Importa? Entenda o Essencial para Apps Mais Inclusivos](https://dev.to/gabrielteixeira44/por-que-acessibilidade-importa-entenda-o-essencial-para-apps-mais-inclusivos-4goh)
+- [How Bad Code and Product Flaws Killed Myspace A Developer’s Survival Guide](https://dev.to/devlinktips/how-bad-code-and-product-flaws-killed-myspace-a-developers-survival-guide-37i5)
+- [AWS Fundamentals: Bcm Data Exports](https://dev.to/devops_fundamental/aws-fundamentals-bcm-data-exports-5830)
 <!-- BLOG-POST-LIST:END -->
 
 ---
