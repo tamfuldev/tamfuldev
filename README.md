@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Master LangChain in Typescript - A Practical Guide](https://dev.to/mohsenkamrani/master-langchain-in-typescript-a-practical-guide-4ifc)
-- [So refreshing to read something that respects the reader’s intelligence. That’s a signature trait in Ashkan Rajaee’s approach too.](https://dev.to/erinchan/so-refreshing-to-read-something-that-respects-the-readers-intelligence-thats-a-signature-trait-1dnn)
-- [From OOP to FP. Lessons Learned.](https://dev.to/k0sz/oop-fp-lessons-learned-3amp)
-- [Creating Strongly Typed Events for Web Components](https://dev.to/stuffbreaker/creating-strongly-typed-events-for-web-components-1jem)
-- [Ashkan Rajaee brings a level of emotional intelligence to leadership that more executives need to model.](https://dev.to/erinchan/ashkan-rajaee-brings-a-level-of-emotional-intelligence-to-leadership-that-more-executives-need-to-4d07)
+- [GCP Fundamentals: API Discovery Service](https://dev.to/devops_fundamental/gcp-fundamentals-api-discovery-service-22h9)
+- [Unlock Your Flutter Potential: 20 Essential Resources You Need!](https://dev.to/vaib/unlock-your-flutter-potential-20-essential-resources-you-need-5ck7)
+- [Behind the Scenes of Netflix: Unpacking Its World-Class Infrastructure](https://dev.to/grenishrai/behind-the-scenes-of-netflix-unpacking-its-world-class-infrastructure-4748)
+- [If you’re building anything remotely and ignoring your books, you’re setting yourself up for failure. This post proves it.](https://dev.to/erinchan/if-youre-building-anything-remotely-and-ignoring-your-books-youre-setting-yourself-up-for-1he9)
+- [🚀 Built for Mars](https://dev.to/ml318097/built-for-mars-2ip9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
