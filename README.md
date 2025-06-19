@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Locking It Down with Redis ACLs: A Dev&#39;s Guide to Secure Access](https://dev.to/lovestaco/locking-it-down-with-redis-acls-a-devs-guide-to-secure-access-1935)
-- [AWS Fundamentals: Autoscaling Plans](https://dev.to/devops_fundamental/aws-fundamentals-autoscaling-plans-162o)
-- [Azure Fundamentals: Microsoft.ApiManagement](https://dev.to/devops_fundamental/azure-fundamentals-microsoftapimanagement-1dgj)
-- [Designing a Better String Utility - Part 2](https://dev.to/fluentfuture/designing-a-better-string-utility-4k49)
-- [Code Review: Deep Dive into vLLM&#39;s Architecture and Implementation Analysis of OpenAI-Compatible Serving &lpar;2/2&rpar;](https://dev.to/zerohertz/code-review-deep-dive-into-vllms-architecture-and-implementation-analysis-of-openai-compatible-4cp9)
+- [TanStack Start vs. Next.js: Choosing the right full-stack React framework](https://dev.to/logrocket/tanstack-start-vs-nextjs-choosing-the-right-full-stack-react-framework-io5)
+- [Angular 20 Admin Template](https://dev.to/therichpost/angular-20-admin-template-cea)
+- [MAMR vs HAMR: The Battle for the Future of hard Drives](https://dev.to/dima853/mamr-vs-hamr-the-battle-for-the-future-of-hard-drives-4abd)
+- [🚀 Enabling GZIP Compression in Spring Boot for Faster Web Apps](https://dev.to/rock_win_c053fa5fb2399067/enabling-gzip-compression-in-spring-boot-for-faster-web-apps-3abe)
+- [Modular State Machines with Redux as Orchestration Layer](https://dev.to/stazcp/modular-state-machines-with-redux-as-orchestration-layer-4575)
 <!-- BLOG-POST-LIST:END -->
 
 ---
