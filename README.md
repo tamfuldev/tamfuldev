@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Synthetic Data](https://dev.to/rawveg/synthetic-data-2mmf)
-- [The Joys of Modern Software Development: A Sarcastic Ode](https://dev.to/vaib/the-joys-of-modern-software-development-a-sarcastic-ode-4622)
-- [Architecture（1750330783854700）](https://dev.to/member_e911e096/architecture1750330783854700-3d6i)
-- [Performance（1750330008319200）](https://dev.to/member_e911e096/performance1750330008319200-5b60)
-- [AWS Fundamentals: Appsync](https://dev.to/devops_fundamental/aws-fundamentals-appsync-2p9o)
+- [Master LangChain in Typescript - A Practical Guide](https://dev.to/mohsenkamrani/master-langchain-in-typescript-a-practical-guide-4ifc)
+- [So refreshing to read something that respects the reader’s intelligence. That’s a signature trait in Ashkan Rajaee’s approach too.](https://dev.to/erinchan/so-refreshing-to-read-something-that-respects-the-readers-intelligence-thats-a-signature-trait-1dnn)
+- [From OOP to FP. Lessons Learned.](https://dev.to/k0sz/oop-fp-lessons-learned-3amp)
+- [Creating Strongly Typed Events for Web Components](https://dev.to/stuffbreaker/creating-strongly-typed-events-for-web-components-1jem)
+- [Ashkan Rajaee brings a level of emotional intelligence to leadership that more executives need to model.](https://dev.to/erinchan/ashkan-rajaee-brings-a-level-of-emotional-intelligence-to-leadership-that-more-executives-need-to-4d07)
 <!-- BLOG-POST-LIST:END -->
 
 ---
