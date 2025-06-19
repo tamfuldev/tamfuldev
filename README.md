@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [NocoBase Weekly Updates: Support Filling Input Fields Via QR Code Scanning](https://dev.to/nocobase/nocobase-weekly-updates-support-filling-input-fields-via-qr-code-scanning-30i7)
-- [detect hallucinations in langchain rag pipelines](https://dev.to/0xwenar/detect-hallucinations-in-langchain-rag-pipelines-1hkn)
-- [AWS Fundamentals: Acm Pca](https://dev.to/devops_fundamental/aws-fundamentals-acm-pca-3nh1)
-- [Realtime（1750297598333300）](https://dev.to/member_e911e096/realtime1750297598333300-58k0)
-- [Hands-On Guide: Build an AI Legal Chatbot with Next.js and OpenAI GPT-4o-mini - Read the Full Article](https://dev.to/corpcubite/hands-on-guide-build-an-ai-legal-chatbot-with-nextjs-and-openai-gpt-4o-mini-read-the-full-371m)
+- [Screaming Architecture: The Key to a Scalable Frontend](https://dev.to/sergioazoc/screaming-architecture-the-key-to-a-scalable-frontend-1e8l)
+- [True future of Databricks Lakebase](https://dev.to/gigapress/true-future-of-databricks-lakebase-13cl)
+- [AWS Fundamentals: Airflow](https://dev.to/devops_fundamental/aws-fundamentals-airflow-17fi)
+- [MongoDB Made Easy: A Beginner’s Guide to NoSQL](https://dev.to/_bhupeshk_/mongodb-made-easy-a-beginners-guide-to-nosql-1la9)
+- [Deny AI, Embrace You. - An AI Deconstuction](https://dev.to/alanlovesw3/deny-ai-embrace-you-an-ai-deconstuctions-3e7g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
