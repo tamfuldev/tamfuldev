@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Experience with Hyperlane（1750286901763400）](https://dev.to/member_e911e096/my-experience-with-hyperlane1750286901763400-17k8)
-- [NLWeb - Turn Your Website into an AI chat bot quickly](https://dev.to/agenticarch/nlweb-accelerate-agentic-ai-in-your-website-1j56)
-- [Junior Year Self-Study Notes My Journey with the Framework（1750286598724400）](https://dev.to/member_a4f1642a/junior-year-self-study-notes-my-journey-with-the-framework1750286598724400-574o)
-- [Deploy WordPress Locally with Vagrant + LAMP Learn how to spin up a VM, set up Apache, MySQL, PHP, and install WordPress - all from scratch. 📘 Clean, beginner-friendly, and practical. Check it out.](https://dev.to/bluezeus/deploy-wordpress-locally-with-vagrant-lamp-learn-how-to-spin-up-a-vm-set-up-apache-mysql-php-pe)
-- [Scholar Profile - John Round](https://dev.to/puddin1066/scholar-profile-john-round-40oj)
+- [My Experience with Hyperlane（1750292282289300）](https://dev.to/member_a4f1642a/my-experience-with-hyperlane1750292282289300-2j4b)
+- [Junior Year Self-Study Notes My Journey with the Framework（1750291847979500）](https://dev.to/member_e911e096/junior-year-self-study-notes-my-journey-with-the-framework1750291847979500-11a2)
+- [Junior Year Self-Study Notes My Journey with the Framework（1750291837017900）](https://dev.to/member_e911e096/junior-year-self-study-notes-my-journey-with-the-framework1750291837017900-5hkh)
+- [Optimizing IT Operations: Dedicated Storage for Testing and Training](https://dev.to/aneneemmanuel_1/optimizing-it-operations-dedicated-storage-for-testing-and-training-58ei)
+- [My Architectural Choices and Practical Experience（1750291572569900）](https://dev.to/member_a4f1642a/my-architectural-choices-and-practical-experience1750291572569900-505o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
