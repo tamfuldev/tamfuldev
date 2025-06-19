@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Experience with Hyperlane（1750292282289300）](https://dev.to/member_a4f1642a/my-experience-with-hyperlane1750292282289300-2j4b)
-- [Junior Year Self-Study Notes My Journey with the Framework（1750291847979500）](https://dev.to/member_e911e096/junior-year-self-study-notes-my-journey-with-the-framework1750291847979500-11a2)
-- [Junior Year Self-Study Notes My Journey with the Framework（1750291837017900）](https://dev.to/member_e911e096/junior-year-self-study-notes-my-journey-with-the-framework1750291837017900-5hkh)
-- [Optimizing IT Operations: Dedicated Storage for Testing and Training](https://dev.to/aneneemmanuel_1/optimizing-it-operations-dedicated-storage-for-testing-and-training-58ei)
-- [My Architectural Choices and Practical Experience（1750291572569900）](https://dev.to/member_a4f1642a/my-architectural-choices-and-practical-experience1750291572569900-505o)
+- [NocoBase Weekly Updates: Support Filling Input Fields Via QR Code Scanning](https://dev.to/nocobase/nocobase-weekly-updates-support-filling-input-fields-via-qr-code-scanning-30i7)
+- [detect hallucinations in langchain rag pipelines](https://dev.to/0xwenar/detect-hallucinations-in-langchain-rag-pipelines-1hkn)
+- [AWS Fundamentals: Acm Pca](https://dev.to/devops_fundamental/aws-fundamentals-acm-pca-3nh1)
+- [Realtime（1750297598333300）](https://dev.to/member_e911e096/realtime1750297598333300-58k0)
+- [Hands-On Guide: Build an AI Legal Chatbot with Next.js and OpenAI GPT-4o-mini - Read the Full Article](https://dev.to/corpcubite/hands-on-guide-build-an-ai-legal-chatbot-with-nextjs-and-openai-gpt-4o-mini-read-the-full-371m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
