@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey with the Hyperlane Framework（1750309156979600）](https://dev.to/member_e911e096/my-journey-with-the-hyperlane-framework1750309156979600-1n8p)
-- [HarmonyOS Application Development Practice with uni-app x](https://dev.to/zhao1743914721/harmonyos-application-development-practice-with-uni-app-x-1oi9)
-- [AWS Fundamentals: Amplifybackend](https://dev.to/devops_fundamental/aws-fundamentals-amplifybackend-3ii3)
-- [Vibe coding a simple STEM Game with Amazon Q CLI](https://dev.to/aws-builders/vibe-coding-a-simple-stem-game-with-amazon-q-cli-2m7j)
-- [Day 16: My First Round Node.js Interview Experience at Payilagam – Writing Round](https://dev.to/seenuvasan_p/day-15-my-first-round-nodejs-interview-experience-at-payilagam-writing-round-4pb1)
+- [How Do NLP and Computer Vision Work Together in Modern AI Applications?](https://dev.to/smart_data_/how-do-nlp-and-computer-vision-work-together-in-modern-ai-applications-5398)
+- [🚀 15 Best AI Tools Every Developer Should Use to Crush Their Interviews 💻](https://dev.to/finalroundai/15-best-ai-tools-every-developer-should-use-to-crush-their-interviews-8j6)
+- [Collaborative Translation Software Features to Look for](https://dev.to/jennamitchell/collaborative-translation-software-features-to-look-for-2lkn)
+- [TCM Security Post](https://dev.to/char1iedevos/tcm-security-post-617)
+- [My Honest Experience with Ritesh Verma’s AI Agent Mentorship &lpar;BecomeABotDeveloper&rpar;](https://dev.to/baurzhan_zhetenov_442c4cd/my-honest-experience-with-ritesh-vermas-ai-agent-mentorship-becomeabotdeveloper-48g2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
