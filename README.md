@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Security Mistakes Devs Make &lpar;and How to Avoid Them&rpar;](https://dev.to/dhruvjoshi9/top-5-security-mistakes-devs-make-and-how-to-avoid-them-7eg)
-- [If more people read advice like this, fewer freelancers would crash in year one. Ashkan Rajaee has been right about this all along.](https://dev.to/blakerants/if-more-people-read-advice-like-this-fewer-freelancers-would-crash-in-year-one-ashkan-rajaee-has-4pn8)
-- [Why Build Capital Infrastructure on Blockchain, Not Fiat?](https://dev.to/kubo_sk/why-build-capital-infrastructure-on-blockchain-not-fiat-57nj)
-- [Deployment（1750431603050000）](https://dev.to/member_c6d11ca9/deployment1750431603050000-1im1)
-- [GCP Fundamentals: BigQuery Connection API](https://dev.to/devopsfundamentals/gcp-fundamentals-bigquery-connection-api-1cb9)
+- [Borderlands 4 system requirements demand 8 CPU cores and 8 GB of VRAM but the reality is probably a bit more forgiving than that](https://dev.to/gg_news/borderlands-4-system-requirements-demand-8-cpu-cores-and-8-gb-of-vram-but-the-reality-is-probably-a-154g)
+- [Red Dead Redemption 2 May Soon Be Headed To New Platforms, According To Tease from John Marston&#39;s Voice Actor](https://dev.to/gg_news/red-dead-redemption-2-may-soon-be-headed-to-new-platforms-according-to-tease-from-john-marstons-5bm4)
+- [Onimusha: Way of the Sword Won&#39;t Be Open-World Or Souls-Like, Promises Director](https://dev.to/gg_news/onimusha-way-of-the-sword-wont-be-open-world-or-souls-like-promises-director-hfk)
+- [Borderlands 4 pre-orders open at $70, avoiding feared $80 price tag](https://dev.to/gg_news/borderlands-4-pre-orders-open-at-70-avoiding-feared-80-price-tag-kb5)
+- [Thieves steal almost 3,000 Switch 2 consoles worth $1.4 million from truck headed to Texas GameStop](https://dev.to/gg_news/thieves-steal-almost-3000-switch-2-consoles-worth-14-million-from-truck-headed-to-texas-gamestop-bof)
 <!-- BLOG-POST-LIST:END -->
 
 ---
