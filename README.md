@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [New Release: Lambda Bayesian Causality Detection &amp; Event Forecasting](https://dev.to/miosyncmasa/new-release-lambda3-bayesian-causality-detection-event-forecasting-52i2)
-- [[Boost]](https://dev.to/gillarohith/-3nkj)
-- [Building Remote MCP Servers with .NET and Azure Container Apps](https://dev.to/willvelida/building-remote-mcp-servers-with-net-and-azure-container-apps-cc2)
-- [Protecting Yourself: A Beginner&#39;s Guide to Cyber Security for Individuals &amp; MSMEs](https://dev.to/koswara_c79/protecting-yourself-a-beginners-guide-to-cyber-security-for-individuals-msmes-pmc)
-- [HellaJS - A Tiny Reactive Framework](https://dev.to/ols87/hellajs-a-tiny-reactive-framework-24al)
+- [Mengenal Earl: Bahasa Pemrograman dengan Struktur Modular di Node.js](https://dev.to/dev_nazwashabrina/mengenal-earl-bahasa-pemrograman-dengan-struktur-modular-di-nodejs-4oon)
+- [AWS Fundamentals: Billingconductor](https://dev.to/devops_fundamental/aws-fundamentals-billingconductor-21ll)
+- [How to Set Up LDAP Login for SafeLine WAF](https://dev.to/sharon_42e16b8da44dabde6d/how-to-set-up-ldap-login-for-safeline-waf-29l6)
+- [🚀 Building and Training DeepSeek from Scratch for Children&#39;s Stories](https://dev.to/lakhera2015/building-and-training-deepseek-from-scratch-for-childrens-stories-5p6)
+- [Técnicas de refatoração](https://dev.to/lucaspereiradesouzat/tecnicas-de-refatoracao-5bdn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
