@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [gettemplate.website](https://dev.to/shreyvijayvargiya/gettemplatewebsite-3fg9)
-- [Comprehensive Guide to Event Dispatching in HarmonyOS](https://dev.to/moyantianwang/comprehensive-guide-to-event-dispatching-in-harmonyos-456l)
-- [How to Build a Download‑Free HTML5 Game Portal Like SurgeBlazePlay](https://dev.to/mufeng/how-to-build-a-download-free-html5-game-portal-like-surgeblazeplay-2ffo)
-- [AWS Fundamentals: Cleanrooms](https://dev.to/devops_fundamental/aws-fundamentals-cleanrooms-2i53)
-- [From Good to Great: Turning a Decent Resume Into a Powerful One](https://dev.to/rac/from-good-to-great-turning-a-decent-resume-into-a-powerful-one-24kg)
+- [AMD Syntax in SAP UI5](https://dev.to/lehonglong2411/amd-syntax-in-sap-ui5-4p7f)
+- [CodePen #Challenge: Visualizing McDonald’s Menu with Free Pivot Grid Library 👩🏼‍💻📊🍔](https://dev.to/daria_filozop_bfe6aa68940/codepen-challenge-visualizing-mcdonalds-menu-with-free-pivot-grid-library-4nec)
+- [Comprehensive Guide to HarmonyOS ArkWeb Development](https://dev.to/moyantianwang/comprehensive-guide-to-harmonyos-arkweb-development-45aj)
+- [Azure Fundamentals: Microsoft.ClassicCompute](https://dev.to/devops_fundamental/azure-fundamentals-microsoftclassiccompute-2ol1)
+- [Why UX is Part of Your Brand ?&lpar;And How to Get It Right&rpar;](https://dev.to/blog_articles/why-ux-is-part-of-your-brand-and-how-to-get-it-right-35d8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
