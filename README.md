@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day #3 Bolt hackathon](https://dev.to/paako/day-3-bolt-hackathon-17cc)
-- [Beyond Code: Why I Build Apps with a Human Purpose](https://dev.to/dilip_kumardk_b41b9418/beyond-code-why-i-build-apps-with-a-human-purpose-59i7)
-- [Crafting Perfect Cold Messages: My AI-Powered Streamlit App Journey 🧊](https://dev.to/asutoshk_09/crafting-perfect-cold-messages-my-ai-powered-streamlit-app-journey-4i36)
-- [Data Comparison between Different Types of Databases-SPL Practice](https://dev.to/esproc_spl/data-comparison-between-different-types-of-databases-spl-practice-2g6h)
-- [The Dueling Titans: How the US and Japan Forge Their Distinct Paths in Tech Innovation](https://dev.to/ashikur_rahmannazil93/the-dueling-titans-how-the-us-and-japan-forge-their-distinct-paths-in-tech-innovation-57am)
+- [Azure Fundamentals: Microsoft.BlockchainTokens](https://dev.to/devops_fundamental/azure-fundamentals-microsoftblockchaintokens-4i19)
+- [Understanding @layer and Cascade Layers in CSS](https://dev.to/mechcloud_academy/understanding-layer-and-cascade-layers-in-css-f2k)
+- [How to Build a Successful App Business from Scratch in 2025](https://dev.to/william_roberts_fc2bfc1dc/how-to-build-a-successful-app-business-from-scratch-in-2025-4k0k)
+- [Azure Fundamentals: Microsoft.Blockchain](https://dev.to/devops_fundamental/azure-fundamentals-microsoftblockchain-1jf)
+- [Advanced Techniques for Optimizing JavaScript Rendering Pipelines](https://dev.to/omriluz1/advanced-techniques-for-optimizing-javascript-rendering-pipelines-33d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
