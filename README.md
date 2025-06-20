@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [📝 Beginner-Friendly Guide &quot;Maximum Manhattan Distance After K Changes&quot; LeetCode 3443 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-maximum-manhattan-distance-after-k-changes-leetcode-3443-c-python-1bjh)
-- [GCP Fundamentals: Admin SDK API](https://dev.to/devops_fundamental/gcp-fundamentals-admin-sdk-api-ibb)
-- [ShowDev: I built Hexto – a color converter &amp; accessibility tool for designers/devs](https://dev.to/elhoucine_ousidiali_fae35/showdev-i-built-hexto-a-color-converter-accessibility-tool-for-designersdevs-3fkc)
-- [Switch Between Components Dynamicly in Vue](https://dev.to/ibrahimalanshor/switch-between-components-dynamicly-in-vue-3jaa)
-- [My Journey as a Young Web Developer in a Fast-Changing Tech World](https://dev.to/ogundimuemmanuel/my-journey-as-a-young-web-developer-in-a-fast-changing-tech-world-4g7o)
+- [New Release: Lambda Bayesian Causality Detection &amp; Event Forecasting](https://dev.to/miosyncmasa/new-release-lambda3-bayesian-causality-detection-event-forecasting-52i2)
+- [[Boost]](https://dev.to/gillarohith/-3nkj)
+- [Building Remote MCP Servers with .NET and Azure Container Apps](https://dev.to/willvelida/building-remote-mcp-servers-with-net-and-azure-container-apps-cc2)
+- [Protecting Yourself: A Beginner&#39;s Guide to Cyber Security for Individuals &amp; MSMEs](https://dev.to/koswara_c79/protecting-yourself-a-beginners-guide-to-cyber-security-for-individuals-msmes-pmc)
+- [HellaJS - A Tiny Reactive Framework](https://dev.to/ols87/hellajs-a-tiny-reactive-framework-24al)
 <!-- BLOG-POST-LIST:END -->
 
 ---
