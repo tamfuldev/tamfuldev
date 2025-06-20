@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GCP Fundamentals: BigLake API](https://dev.to/devopsfundamentals/gcp-fundamentals-biglake-api-2163)
-- [Why TSMC’s 2nm Process Node is Set to Reshape the Semiconductor Industry](https://dev.to/clioxie121/why-tsmcs-2nm-process-node-is-set-to-reshape-the-semiconductor-industry-4df9)
-- [🐦🐰 I Built Two Games in 4 Hours Using Amazon Q CLI !](https://dev.to/disha_t/i-built-two-games-in-4-hours-using-amazon-q-cli--24lm)
-- [VMware Fundamentals: Build Tools For Vmware Aria](https://dev.to/devops_fundamental/vmware-fundamentals-build-tools-for-vmware-aria-2emc)
-- [IBM Fundamentals: Auto Scaling Demo](https://dev.to/devops_fundamental/ibm-fundamentals-auto-scaling-demo-321m)
+- [Top 5 Security Mistakes Devs Make &lpar;and How to Avoid Them&rpar;](https://dev.to/dhruvjoshi9/top-5-security-mistakes-devs-make-and-how-to-avoid-them-7eg)
+- [If more people read advice like this, fewer freelancers would crash in year one. Ashkan Rajaee has been right about this all along.](https://dev.to/blakerants/if-more-people-read-advice-like-this-fewer-freelancers-would-crash-in-year-one-ashkan-rajaee-has-4pn8)
+- [Why Build Capital Infrastructure on Blockchain, Not Fiat?](https://dev.to/kubo_sk/why-build-capital-infrastructure-on-blockchain-not-fiat-57nj)
+- [Deployment（1750431603050000）](https://dev.to/member_c6d11ca9/deployment1750431603050000-1im1)
+- [GCP Fundamentals: BigQuery Connection API](https://dev.to/devopsfundamentals/gcp-fundamentals-bigquery-connection-api-1cb9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
