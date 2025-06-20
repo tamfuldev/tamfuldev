@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🧪 Getting Started with the KuCoin API Using kucoin-api &lpar;Node.js SDK&rpar;](https://dev.to/favee042/getting-started-with-the-kucoin-api-using-kucoin-api-nodejs-sdk-cfm)
-- [🚀 Building a Real-Time Notification Service with FastAPI, Redis Streams, and WebSockets](https://dev.to/geetnsh2k1/building-a-real-time-notification-service-with-fastapi-redis-streams-and-websockets-52ib)
-- [⚙️ Go Tools: Password Hashing with Argon2 Instead of bcrypt](https://dev.to/nikita_rykhlov/go-tools-password-hashing-with-argon2-instead-of-bcrypt-38aj)
-- [GCP Fundamentals: Assured Workloads API](https://dev.to/devops_fundamental/gcp-fundamentals-assured-workloads-api-54cj)
-- [🧠 Solving LeetCode Until I Become Top 1% — Day `25`](https://dev.to/therealrishat/solving-leetcode-until-i-become-top-1-day-25-3817)
+- [Azure Fundamentals: Microsoft.Communication](https://dev.to/devops_fundamental/azure-fundamentals-microsoftcommunication-88g)
+- [💥 C# for Newbies: A Solid Start or a Trap in Disguise?](https://dev.to/theodor_coin_4/c-for-newbies-a-solid-start-or-a-trap-in-disguise-4o1i)
+- [IBM Fundamentals: Aspnet Core Cloudant](https://dev.to/devops_fundamental/ibm-fundamentals-aspnet-core-cloudant-2jid)
+- [Flutter AI Chatbots: Build Yours Today](https://dev.to/sushan_dristi_ab98c07ea8f/flutter-ai-chatbots-build-yours-today-35l8)
+- [DigitalOcean Fundamentals: App Platform](https://dev.to/devops_fundamental/digitalocean-fundamentals-app-platform-43ae)
 <!-- BLOG-POST-LIST:END -->
 
 ---
