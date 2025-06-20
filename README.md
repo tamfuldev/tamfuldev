@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The &quot;never&quot; Type in PHP](https://dev.to/ashallendesign/the-never-type-in-php-49e1)
-- [Devops isn’t broken it just hurts more than we admit](https://dev.to/devlinktips/devops-isnt-broken-it-just-hurts-more-than-we-admit-3ge)
-- [Por que Acessibilidade Importa? Entenda o Essencial para Apps Mais Inclusivos](https://dev.to/gabrielteixeira44/por-que-acessibilidade-importa-entenda-o-essencial-para-apps-mais-inclusivos-4goh)
-- [How Bad Code and Product Flaws Killed Myspace A Developer’s Survival Guide](https://dev.to/devlinktips/how-bad-code-and-product-flaws-killed-myspace-a-developers-survival-guide-37i5)
-- [AWS Fundamentals: Bcm Data Exports](https://dev.to/devops_fundamental/aws-fundamentals-bcm-data-exports-5830)
+- [📝 Beginner-Friendly Guide &quot;Maximum Manhattan Distance After K Changes&quot; LeetCode 3443 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-maximum-manhattan-distance-after-k-changes-leetcode-3443-c-python-1bjh)
+- [GCP Fundamentals: Admin SDK API](https://dev.to/devops_fundamental/gcp-fundamentals-admin-sdk-api-ibb)
+- [ShowDev: I built Hexto – a color converter &amp; accessibility tool for designers/devs](https://dev.to/elhoucine_ousidiali_fae35/showdev-i-built-hexto-a-color-converter-accessibility-tool-for-designersdevs-3fkc)
+- [Switch Between Components Dynamicly in Vue](https://dev.to/ibrahimalanshor/switch-between-components-dynamicly-in-vue-3jaa)
+- [My Journey as a Young Web Developer in a Fast-Changing Tech World](https://dev.to/ogundimuemmanuel/my-journey-as-a-young-web-developer-in-a-fast-changing-tech-world-4g7o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
