@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Fundamentals: Microsoft.BlockchainTokens](https://dev.to/devops_fundamental/azure-fundamentals-microsoftblockchaintokens-4i19)
-- [Understanding @layer and Cascade Layers in CSS](https://dev.to/mechcloud_academy/understanding-layer-and-cascade-layers-in-css-f2k)
-- [How to Build a Successful App Business from Scratch in 2025](https://dev.to/william_roberts_fc2bfc1dc/how-to-build-a-successful-app-business-from-scratch-in-2025-4k0k)
-- [Azure Fundamentals: Microsoft.Blockchain](https://dev.to/devops_fundamental/azure-fundamentals-microsoftblockchain-1jf)
-- [Advanced Techniques for Optimizing JavaScript Rendering Pipelines](https://dev.to/omriluz1/advanced-techniques-for-optimizing-javascript-rendering-pipelines-33d)
+- [gettemplate.website](https://dev.to/shreyvijayvargiya/gettemplatewebsite-3fg9)
+- [Comprehensive Guide to Event Dispatching in HarmonyOS](https://dev.to/moyantianwang/comprehensive-guide-to-event-dispatching-in-harmonyos-456l)
+- [How to Build a Download‑Free HTML5 Game Portal Like SurgeBlazePlay](https://dev.to/mufeng/how-to-build-a-download-free-html5-game-portal-like-surgeblazeplay-2ffo)
+- [AWS Fundamentals: Cleanrooms](https://dev.to/devops_fundamental/aws-fundamentals-cleanrooms-2i53)
+- [From Good to Great: Turning a Decent Resume Into a Powerful One](https://dev.to/rac/from-good-to-great-turning-a-decent-resume-into-a-powerful-one-24kg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
