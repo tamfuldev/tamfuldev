@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Fundamentals: Microsoft.Features](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftfeatures-3ki9)
-- [Mengenal Modul Fungsi: Cara Mendefinisikan dan Menjalankan Fungsi di Bahasa Earl](https://dev.to/dev_nazwashabrina/mengenal-modul-fungsi-cara-mendefinisikan-dan-menjalankan-fungsi-di-bahasa-earl-b6h)
-- [Developer Presence: The Underrated Skill for Focused &amp; Resilient Code](https://dev.to/tonystpierre/developer-presence-the-underrated-skill-for-focused-resilient-code-3nc4)
-- [Revolutionizing Cloud Cost Management: The Power of AI in FinOps](https://dev.to/vaib/revolutionizing-cloud-cost-management-the-power-of-ai-in-finops-3e2d)
-- [Unlocking Speed: Your Essential Guide to CDN Resources](https://dev.to/vaib/unlocking-speed-your-essential-guide-to-cdn-resources-3fli)
+- [What is pure function?](https://dev.to/kittichanr/what-is-pure-function-518)
+- [Build an AI Quiz Generator with OpenAI: Step-by-Step Tutorial Part 1 - Read the Full Article](https://dev.to/corpcubite/build-an-ai-quiz-generator-with-openai-step-by-step-tutorial-part-1-read-the-full-article-1d8f)
+- [Fetxhing-keys](https://dev.to/pritam_pande/fetxhing-keys-59ai)
+- [GCP Fundamentals: Cloud Composer API](https://dev.to/devopsfundamentals/gcp-fundamentals-cloud-composer-api-1c42)
+- [Terraform Fundamentals: AMP &lpar;Managed Prometheus&rpar;](https://dev.to/devopsfundamentals/terraform-fundamentals-amp-managed-prometheus-1ogg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
