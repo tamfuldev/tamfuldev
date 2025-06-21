@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mutual invocation between application side and front-end pages &lpar;C/C++&rpar;](https://dev.to/liu_yang_fc0e605820ac220c/mutual-invocation-between-application-side-and-front-end-pages-cc-2in4)
-- [Looking For Feed Back and Suggestions For My Terminal](https://dev.to/darco/looking-for-feed-back-and-suggestions-for-my-terminal-43ha)
-- [NodeJS Fundamentals: V8 engine](https://dev.to/devopsfundamentals/nodejs-fundamentals-v8-engine-523p)
-- [Privacy as a Workplace Benefit: Digital Employee Protection for a Stronger Organization](https://dev.to/shirazkahn123/privacy-as-a-workplace-benefit-digital-employee-protection-for-a-stronger-organization-3l1l)
-- [The front-end page calls the application-side function](https://dev.to/liu_yang_fc0e605820ac220c/the-front-end-page-calls-the-application-side-function-3188)
+- [Azure Fundamentals: Microsoft.HanaOnAzure](https://dev.to/devopsfundamentals/azure-fundamentals-microsofthanaonazure-251f)
+- [From React to SvelteKit: 3 &quot;Aha!&quot; Moments for a Skeptic](https://dev.to/lulumassagebh/from-react-to-sveltekit-3-aha-moments-for-a-skeptic-2dep)
+- [RunnerChallenge](https://dev.to/jeraldfelix/runnerchallenge-2959)
+- [The Wanderer&#39;s Path: A Journey of a Thousand Steps](https://dev.to/skill-wanderer/the-wanderers-path-a-journey-of-a-thousand-steps-22ej)
+- [NodeJS Fundamentals: event loop](https://dev.to/devopsfundamentals/nodejs-fundamentals-event-loop-5dgc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
