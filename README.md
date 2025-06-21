@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Typescript Journey and effect of Copilot auto-completion](https://dev.to/iamvatsal/my-typescript-journey-and-effect-of-copilot-auto-completion-5apn)
-- [My Typescript Journey and effect of Copilot auto-completion](https://dev.to/iamvatsal/my-typescript-journey-and-effect-of-copilot-auto-completion-3oig)
-- [✨ Why the Same Font Can Look So Different — and How to Fix It](https://dev.to/yoursgaurav/why-the-same-font-can-look-so-different-and-how-to-fix-it-2kfg)
-- [💻 Basics of JavaScript](https://dev.to/tanaykubade/basics-of-javascript-5cg6)
-- [Web Developer&#39;s Shortcut: From Figma Mockups to Clean HTML in Seconds](https://dev.to/atforeveryoung/web-developers-shortcut-from-figma-mockups-to-clean-html-in-seconds-2831)
+- [Polyfill for Array.isArray](https://dev.to/varadan13/polyfill-for-arrayisarray-38ei)
+- [Choosing the Best Linux Distribution for Embedded Systems](https://dev.to/clioxie121/choosing-the-best-linux-distribution-for-embedded-systems-5g01)
+- [Voxel Raycaster &lpar;Voxlap-style&rpar; with baked cubic PBS/PBR lighting C#](https://dev.to/joseph7f/voxel-raycaster-voxlap-style-with-baked-cubic-pbspbr-lighting-c-4m2d)
+- [Polyfill for a function to check if a value is a string!](https://dev.to/varadan13/polyfill-for-a-function-to-check-if-a-value-is-a-string-351d)
+- [Stack and Heap: Memory in Javascript](https://dev.to/indraphoton/stack-and-heap-memory-in-javascript-a25)
 <!-- BLOG-POST-LIST:END -->
 
 ---
