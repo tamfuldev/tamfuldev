@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Just dropped a new glass variant in Crossbuild UI!](https://dev.to/gauravchadhry/just-dropped-a-new-glass-variant-in-crossbuild-ui-aj5)
-- [AWS Fundamentals: Cognito Sync](https://dev.to/devopsfundamentals/aws-fundamentals-cognito-sync-1chn)
-- [Terraform Fundamentals: App Runner](https://dev.to/devopsfundamentals/terraform-fundamentals-app-runner-681)
-- [⚙️ Vite vs Webpack – Modern Build Tools Compared &lpar;2025&rpar;](https://dev.to/mohitdecodes/vite-vs-webpack-modern-build-tools-compared-2025-26e)
-- [Restaurant &amp; Food Discovery App](https://dev.to/aniruddhaadak/restaurant-food-discovery-app-2eg3)
+- [Exploring the Boundaries of Dynamic Code Execution in JS](https://dev.to/omriluz1/exploring-the-boundaries-of-dynamic-code-execution-in-js-3dj7)
+- [From Distraction to Direction: My Journey Post-Bachelor&#39;s](https://dev.to/sahillearninglinux/from-distraction-to-direction-my-journey-post-bachelors-29do)
+- [IBM Fundamentals: Cloud Event Management Sample](https://dev.to/devopsfundamentals/ibm-fundamentals-cloud-event-management-sample-29op)
+- [NodeJS Fundamentals: module](https://dev.to/devopsfundamentals/nodejs-fundamentals-module-n1a)
+- [Azure Fundamentals: Microsoft.Kubernetes](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftkubernetes-54cj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
