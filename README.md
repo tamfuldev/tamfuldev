@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Python Fundamentals: GraphQL](https://dev.to/devopsfundamentals/python-fundamentals-graphql-9i9)
-- [NodeJS Fundamentals: env](https://dev.to/devopsfundamentals/nodejs-fundamentals-env-25od)
-- [JurisKit: The No-Build Full-Stack JavaScript Framework That’s Redefining Developer Experience](https://dev.to/professional_joe/juriskit-the-no-build-full-stack-javascript-framework-thats-redefining-developer-experience-52nn)
-- [GCP Fundamentals: Cloud Runtime Configuration API](https://dev.to/devopsfundamentals/gcp-fundamentals-cloud-runtime-configuration-api-4pdp)
-- [Terraform Fundamentals: Chatbot](https://dev.to/devopsfundamentals/terraform-fundamentals-chatbot-l34)
+- [Mobile Apps in der Immobilienbranche: Revolution für Investoren und Verwalter](https://dev.to/smartlandlord/mobile-apps-in-der-immobilienbranche-revolution-fur-investoren-und-verwalter-2a59)
+- [Online-Plattformen vs. traditionelle Makler: Die Disruption des Immobilienvertriebs](https://dev.to/smartlandlord/online-plattformen-vs-traditionelle-makler-die-disruption-des-immobilienvertriebs-2om0)
+- [NodeJS Fundamentals: call stack](https://dev.to/devopsfundamentals/nodejs-fundamentals-call-stack-17ed)
+- [Ubuntu Fundamentals: apt-get](https://dev.to/devopsfundamentals/ubuntu-fundamentals-apt-get-523h)
+- [VMware Fundamentals: Likewise Open](https://dev.to/devopsfundamentals/vmware-fundamentals-likewise-open-4h9e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
