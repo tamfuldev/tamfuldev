@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Install and Run MonkeyOCR Locally](https://dev.to/nodeshiftcloud/how-to-install-and-run-monkeyocr-locally-1k2e)
-- [VMware Fundamentals: Harbor Boshrelease](https://dev.to/devopsfundamentals/vmware-fundamentals-harbor-boshrelease-mg8)
-- [Python Fundamentals: :=](https://dev.to/devopsfundamentals/python-fundamentals--2fla)
-- [Ubuntu Fundamentals: systemd](https://dev.to/devopsfundamentals/ubuntu-fundamentals-systemd-459l)
-- [AWS Fundamentals: Dataexchange](https://dev.to/devopsfundamentals/aws-fundamentals-dataexchange-3f75)
+- [Python Fundamentals: GraphQL](https://dev.to/devopsfundamentals/python-fundamentals-graphql-9i9)
+- [NodeJS Fundamentals: env](https://dev.to/devopsfundamentals/nodejs-fundamentals-env-25od)
+- [JurisKit: The No-Build Full-Stack JavaScript Framework That’s Redefining Developer Experience](https://dev.to/professional_joe/juriskit-the-no-build-full-stack-javascript-framework-thats-redefining-developer-experience-52nn)
+- [GCP Fundamentals: Cloud Runtime Configuration API](https://dev.to/devopsfundamentals/gcp-fundamentals-cloud-runtime-configuration-api-4pdp)
+- [Terraform Fundamentals: Chatbot](https://dev.to/devopsfundamentals/terraform-fundamentals-chatbot-l34)
 <!-- BLOG-POST-LIST:END -->
 
 ---
