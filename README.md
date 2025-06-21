@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Quantum Imperative](https://dev.to/rawveg/the-quantum-imperative-2pp6)
-- [NodeJS Fundamentals: lexical scope](https://dev.to/devopsfundamentals/nodejs-fundamentals-lexical-scope-1mb4)
-- [Introducing Releasify Action — Announce GitHub Releases on Discord Effortlessly](https://dev.to/tene/introducing-releasify-action-announce-github-releases-on-discord-effortlessly-3132)
-- [IBM Fundamentals: Clouddatabases Helloworld Examples](https://dev.to/devopsfundamentals/ibm-fundamentals-clouddatabases-helloworld-examples-4pfo)
-- [Modul Perulangan Dalam Bahasa Earl](https://dev.to/dev_nazwashabrina/modul-perulangan-dalam-bahasa-earl-2pfo)
+- [My Typescript Journey and effect of Copilot auto-completion](https://dev.to/iamvatsal/my-typescript-journey-and-effect-of-copilot-auto-completion-5apn)
+- [My Typescript Journey and effect of Copilot auto-completion](https://dev.to/iamvatsal/my-typescript-journey-and-effect-of-copilot-auto-completion-3oig)
+- [✨ Why the Same Font Can Look So Different — and How to Fix It](https://dev.to/yoursgaurav/why-the-same-font-can-look-so-different-and-how-to-fix-it-2kfg)
+- [💻 Basics of JavaScript](https://dev.to/tanaykubade/basics-of-javascript-5cg6)
+- [Web Developer&#39;s Shortcut: From Figma Mockups to Clean HTML in Seconds](https://dev.to/atforeveryoung/web-developers-shortcut-from-figma-mockups-to-clean-html-in-seconds-2831)
 <!-- BLOG-POST-LIST:END -->
 
 ---
