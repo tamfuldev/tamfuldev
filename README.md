@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Boundaries of Dynamic Code Execution in JS](https://dev.to/omriluz1/exploring-the-boundaries-of-dynamic-code-execution-in-js-3dj7)
-- [From Distraction to Direction: My Journey Post-Bachelor&#39;s](https://dev.to/sahillearninglinux/from-distraction-to-direction-my-journey-post-bachelors-29do)
-- [IBM Fundamentals: Cloud Event Management Sample](https://dev.to/devopsfundamentals/ibm-fundamentals-cloud-event-management-sample-29op)
-- [NodeJS Fundamentals: module](https://dev.to/devopsfundamentals/nodejs-fundamentals-module-n1a)
-- [Azure Fundamentals: Microsoft.Kubernetes](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftkubernetes-54cj)
+- [Why I Switched from Framer Motion to GSAP](https://dev.to/worapon_jintajirakul/why-i-switched-from-framer-motion-to-gsap-597b)
+- [7 Essential English Vocabulary Words Every Developer Should Know &lpar;with Bengali Meaning&rpar;](https://dev.to/rafiqul_islamnoyon_be6/7-essential-english-vocabulary-words-every-developer-should-know-with-bengali-meaning-2gjh)
+- [VMware Fundamentals: Dscr For Vmware](https://dev.to/devopsfundamentals/vmware-fundamentals-dscr-for-vmware-4lbi)
+- [Building an AWS Summit Japan 2025 Mini Stage Schedule Viewer with Amazon Q CLI - Complete Implementation and Article Generation](https://dev.to/aws-builders/building-an-aws-summit-japan-2025-mini-stage-schedule-viewer-with-amazon-q-cli-complete-1ci7)
+- [IBM Fundamentals: Cloud Provider Vpc Controller](https://dev.to/devopsfundamentals/ibm-fundamentals-cloud-provider-vpc-controller-laj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
