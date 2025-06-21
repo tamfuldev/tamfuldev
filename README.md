@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [VMware Fundamentals: Container Service Extension Templates](https://dev.to/devopsfundamentals/vmware-fundamentals-container-service-extension-templates-2g8k)
-- [Bug：io.netty.util.IllegalReferenceCountException: refCnt: 0, decrement: 1](https://dev.to/xilio/bugionettyutilillegalreferencecountexception-refcnt-0-decrement-1-1i2g)
-- [From Sketchbook to meks.quest](https://dev.to/meksquest/from-sketchbook-to-meksquest-111p)
-- [Frustrated with Static Feedback? See How YAP Delivers Real-Time Results](https://dev.to/yap2learn/frustrated-with-static-feedback-see-how-yap-delivers-real-time-results-4458)
-- [IBM Fundamentals: Cf Manifest Generator](https://dev.to/devopsfundamentals/ibm-fundamentals-cf-manifest-generator-2je4)
+- [Mutual invocation between application side and front-end pages &lpar;C/C++&rpar;](https://dev.to/liu_yang_fc0e605820ac220c/mutual-invocation-between-application-side-and-front-end-pages-cc-2in4)
+- [Looking For Feed Back and Suggestions For My Terminal](https://dev.to/darco/looking-for-feed-back-and-suggestions-for-my-terminal-43ha)
+- [NodeJS Fundamentals: V8 engine](https://dev.to/devopsfundamentals/nodejs-fundamentals-v8-engine-523p)
+- [Privacy as a Workplace Benefit: Digital Employee Protection for a Stronger Organization](https://dev.to/shirazkahn123/privacy-as-a-workplace-benefit-digital-employee-protection-for-a-stronger-organization-3l1l)
+- [The front-end page calls the application-side function](https://dev.to/liu_yang_fc0e605820ac220c/the-front-end-page-calls-the-application-side-function-3188)
 <!-- BLOG-POST-LIST:END -->
 
 ---
