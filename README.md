@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Use of Async Hooks in Node.js](https://dev.to/omriluz1/advanced-use-of-async-hooks-in-nodejs-2363)
-- [What Is n8n ? Nodemation = n8n](https://dev.to/heetvekariya/what-is-n8n-nodemation-n8n-o7a)
-- [Big Data Fundamentals: big data project](https://dev.to/devopsfundamentals/big-data-fundamentals-big-data-project-2b7b)
-- [Big Data Fundamentals: big data](https://dev.to/devopsfundamentals/big-data-fundamentals-big-data-1gcd)
-- [Big Data Fundamentals: big data example](https://dev.to/devopsfundamentals/big-data-fundamentals-big-data-example-2g6e)
+- [Web Application Penetration Testing: How to Hack Like a Hacker &lpar;Before You Find You&rpar;](https://dev.to/okoye_ndidiamaka_5e3b7d30/web-application-penetration-testing-how-to-hack-like-a-hacker-before-you-find-you-f3j)
+- [End-to-End Workflow Automation with Prismatic.io](https://dev.to/rodgayacao01/end-to-end-workflow-automation-with-prismaticio-5ajh)
+- [Building a Resilient Architecture on AWS](https://dev.to/saydotech/building-a-resilient-architecture-on-aws-lkm)
+- [Fixing &#39;Dynamic Web Module cannot be uninstalled&#39; Error in Spring Boot Maven Project &lpar;Eclipse&rpar;](https://dev.to/pd230/fixing-dynamic-web-module-cannot-be-uninstalled-error-in-spring-boot-maven-project-eclipse-1d35)
+- [Restarting My Java Journey: From Exam-Oriented Learning to Becoming a Real Developer](https://dev.to/pd230/restarting-my-java-journey-from-exam-oriented-learning-to-becoming-a-real-developer-6h8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
