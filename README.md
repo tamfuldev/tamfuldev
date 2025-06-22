@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Tunnelmole: The Open Source ngrok Alternative Developers Need](https://dev.to/robbiecahill/tunnelmole-the-open-source-ngrok-alternative-developers-need-4a0c)
-- [Step-by-Step Guide to Setting OIDC With Terraform for GitHub Actions Workflows with AWS](https://dev.to/aws-builders/step-by-step-guide-to-setting-oidc-for-github-actions-workflows-with-aws-4ogn)
-- [Fixing Microservice Communication: From Fragile Calls to Resilient Systems](https://dev.to/dinesh_dunukedeniya_539a3/fixing-microservice-communication-from-fragile-calls-to-resilient-systems-2c17)
-- [Untitled](https://dev.to/sekak_seddik_6b74e689dd4c/untitled-2hi2)
-- [What is TypeScript?](https://dev.to/itsayu/what-is-typescript-gkj)
+- [Web NFC and Broadcast Audio URIs](https://dev.to/denladeside/web-nfc-and-broadcast-audio-uris-1oh5)
+- [Imgur Image Uploader](https://dev.to/boyquang/imgur-image-uploader-2onl)
+- [Nested If vs. Ternary Operator in C#: When to Use What](https://dev.to/boomi1/nested-if-vs-ternary-operator-in-c-when-to-use-what-h7m)
+- [GSoC Coding Period Week 3:](https://dev.to/jatsuakayashvant/gsoc-coding-period-week-3-42j3)
+- [🐍 Don&#39;t Need to Create requirements.txt and .venv Manually [UV]](https://dev.to/sajidurshajib/dont-need-to-create-requirementstxt-and-venv-manually-uv-mdd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
