@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🎮 From Prompt to Play: My Game Made with Amazon Q CLI](https://dev.to/jamesrmoro/from-prompt-to-play-my-game-made-with-amazon-q-cli-3clb)
-- [Modern Docker Made Easy: Real Apps, Volumes, and Live Resource Updates](https://dev.to/raju_dandigam/modern-docker-made-easy-real-apps-volumes-and-live-resource-updates-5a76)
-- [🌌 Enter the Frame: The AquaScript Movies Challenge Begins](https://dev.to/hanzla-baig/enter-the-frame-the-aquascript-movies-challenge-begins-3jdd)
-- [鸿蒙运动项目开发：项目运行环境切换器](https://dev.to/smartbackme/hong-meng-yun-dong-xiang-mu-kai-fa-xiang-mu-yun-xing-huan-jing-qie-huan-qi-147j)
-- [我的 Vibe Coding 的第一个项目](https://dev.to/immerse/wo-de-vibe-coding-de-di-ge-xiang-mu-4cho)
+- [Terraform Fundamentals: CloudWatch Observability Access Manager](https://dev.to/devopsfundamentals/terraform-fundamentals-cloudwatch-observability-access-manager-23ia)
+- [React Props and Hooks](https://dev.to/vincod/react-props-and-hooks-770)
+- [Boost Your React App Performance with Lazy Loading](https://dev.to/saijamii/boost-your-react-app-performance-with-lazy-loading-5046)
+- [Introducing TypeStrongLab – Learn TypeScript by Building, Exploring, and Tracking Your Progress](https://dev.to/codewithharsh/introducing-typestronglab-learn-typescript-by-building-exploring-and-tracking-your-progress-4g06)
+- [video-to-format: YouTube Video &amp; Audio Downloader CLI/Node.js Tool](https://dev.to/nguyn_vin_d8ad3f9a2aae7/video-to-format-youtube-video-audio-downloader-clinodejs-tool-4746)
 <!-- BLOG-POST-LIST:END -->
 
 ---
