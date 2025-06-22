@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Experimental ECMAScript Features in Production Code](https://dev.to/omriluz1/exploring-experimental-ecmascript-features-in-production-code-18mk)
-- [Routage avec RiotJS](https://dev.to/steeve/routage-avec-riotjs-19a)
-- [Your IDE is not your identity](https://dev.to/danytulumidis/your-ide-is-not-your-identity-2e7c)
-- [🤝 Team Collaboration via Google Meet](https://dev.to/bleart_hyseni_96e2f4b936c/team-collaboration-via-google-meet-4nod)
-- [💬 Comments on a Dare](https://dev.to/bleart_hyseni_96e2f4b936c/comments-on-a-dare-5dda)
+- [FitFlow - Personalized Fitness Platform](https://dev.to/ai_agi/fitflow-personalized-fitness-platform-3mef)
+- [🔥 Exploring `@HostBinding&lpar;&rpar;` in Angular -- Decorator series -- 3](https://dev.to/vetriselvan_11/exploring-hostbinding-in-angular-decorator-series-3-44p6)
+- [Quantum gravity](https://dev.to/tyler_vanosdol_9c7f2e919/quantum-gravity-289p)
+- [[Boost]](https://dev.to/oludamilola/-1led)
+- [CONTAINERIZATION](https://dev.to/oludamilola/containerization-1-2h61)
 <!-- BLOG-POST-LIST:END -->
 
 ---
