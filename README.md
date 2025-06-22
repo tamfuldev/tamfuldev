@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Networking Fundamentals: Bridge](https://dev.to/devopsfundamentals/networking-fundamentals-bridge-23md)
-- [Python Fundamentals: any](https://dev.to/devopsfundamentals/python-fundamentals-any-3d3c)
-- [Ubuntu Fundamentals: dpkg-query](https://dev.to/devopsfundamentals/ubuntu-fundamentals-dpkg-query-2kfl)
-- [Networking Fundamentals: Switch](https://dev.to/devopsfundamentals/networking-fundamentals-switch-4702)
-- [Kafka Fundamentals: kafka controller](https://dev.to/devopsfundamentals/kafka-fundamentals-kafka-controller-njm)
+- [30-DAY CHALLENGE LEARNING SQL](https://dev.to/riettah/30-day-challenge-learning-sql-3k2p)
+- [[Boost]](https://dev.to/sharker3312/-4bhb)
+- [Is the software engineer the new farmer of the digital age?](https://dev.to/neilton_rocha_dev/the-software-engineer-is-the-new-farmer-of-the-digital-age-2d40)
+- [File conversion APIs are a mess - here&#39;s what I learned](https://dev.to/fabibi/file-conversion-apis-are-a-mess-heres-what-i-learned-1pkm)
+- [EXSQL: An open-source SQL language extension for customizable querying](https://dev.to/greem/exsql-an-open-source-sql-language-extension-for-customizable-querying-lpk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
