@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Web NFC and Broadcast Audio URIs](https://dev.to/denladeside/web-nfc-and-broadcast-audio-uris-1oh5)
-- [Imgur Image Uploader](https://dev.to/boyquang/imgur-image-uploader-2onl)
-- [Nested If vs. Ternary Operator in C#: When to Use What](https://dev.to/boomi1/nested-if-vs-ternary-operator-in-c-when-to-use-what-h7m)
-- [GSoC Coding Period Week 3:](https://dev.to/jatsuakayashvant/gsoc-coding-period-week-3-42j3)
-- [🐍 Don&#39;t Need to Create requirements.txt and .venv Manually [UV]](https://dev.to/sajidurshajib/dont-need-to-create-requirementstxt-and-venv-manually-uv-mdd)
+- [Fine-Tuning a Language Model for Summarisation using LoRA](https://dev.to/sri_harikarthik_909342ac/fine-tuning-a-language-model-for-summarisation-using-lora-3lg)
+- [No More Boilerplate: Let AI Generate Your Express.js Endpoints](https://dev.to/ivanivanovv/no-more-boilerplate-let-ai-generate-your-expressjs-endpoints-3mo)
+- [What is Linux and Why is Linux](https://dev.to/gaurav_sharma_sit/what-is-linux-and-why-is-linux-1046)
+- [How do signals in Angular 20 simplify reactive programming for me](https://dev.to/dhanushdevadiga/how-do-signals-in-angular-20-simplify-reactive-programming-for-me-a8d)
+- [Tailwind CSS v4.0: A Complete Game Changer for Modern Web Development](https://dev.to/gouranga-das-khulna/tailwind-css-v40-a-complete-game-changer-for-modern-web-development-4hon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
