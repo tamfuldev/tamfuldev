@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A comprehensive guide to applying Network Security in our Azure environment](https://dev.to/christiana_orji/a-comprehensive-guide-to-applying-network-security-in-our-azure-environment-ijh)
-- [UI/UX - ユーザー視点デザイン](https://dev.to/nabbisen/uiux-yuzashi-dian-dezain-5cg5)
-- [🧠 Mom Mode – Let Runner H Nag You into a Better Life](https://dev.to/imkarthikeyan/mom-mode-let-runner-h-nag-you-into-a-better-life-34km)
-- [I made a new programming language for kids — real code, real fun!](https://dev.to/the_fox_project/i-made-a-new-programming-language-for-kids-real-code-real-fun-1b8p)
-- [RAG Made Simple: Demonstration and Analysis of Simplicity &lpar;Part 3&rpar;](https://dev.to/sri_harikarthik_909342ac/rag-made-simple-demonstration-and-analysis-of-simplicity-part-3-1cel)
+- [TanStack Router: How to protect routes with an authentication guard](https://dev.to/this-is-learning/tanstack-router-how-to-protect-routes-with-an-authentication-guard-1laj)
+- [The One Productivity Tool You Didn&#39;t Know You Can&#39;t Live Without](https://dev.to/saarshechter/the-one-productivity-tool-you-didnt-know-you-cant-live-without-4378)
+- [A Minimal Yet Scalable React + TypeScript + styled-components Architecture](https://dev.to/blamsa0mine/a-minimal-yet-scalable-react-typescript-styled-components-architecture-106o)
+- [I Lost My Git Stash, So I Built a Tool to Share It](https://dev.to/wisdombits/i-lost-my-git-stash-so-i-built-a-tool-to-share-it-27bn)
+- [Floating point addition in Computers. Why is 0.1 + 0.2 != 0.3 ?](https://dev.to/arma_sahar_c271a2aa4a404d/decimal-addition-in-computers-why-is-01-02-03--o15)
 <!-- BLOG-POST-LIST:END -->
 
 ---
