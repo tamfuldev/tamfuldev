@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [TanStack Router: How to protect routes with an authentication guard](https://dev.to/this-is-learning/tanstack-router-how-to-protect-routes-with-an-authentication-guard-1laj)
-- [The One Productivity Tool You Didn&#39;t Know You Can&#39;t Live Without](https://dev.to/saarshechter/the-one-productivity-tool-you-didnt-know-you-cant-live-without-4378)
-- [A Minimal Yet Scalable React + TypeScript + styled-components Architecture](https://dev.to/blamsa0mine/a-minimal-yet-scalable-react-typescript-styled-components-architecture-106o)
-- [I Lost My Git Stash, So I Built a Tool to Share It](https://dev.to/wisdombits/i-lost-my-git-stash-so-i-built-a-tool-to-share-it-27bn)
-- [Floating point addition in Computers. Why is 0.1 + 0.2 != 0.3 ?](https://dev.to/arma_sahar_c271a2aa4a404d/decimal-addition-in-computers-why-is-01-02-03--o15)
+- [🚀 Looking for a Co-Coder: Join Us in Building an E-Commerce Project for Our Portfolio](https://dev.to/nghimgiabo6/looking-for-a-co-coder-join-us-in-building-an-e-commerce-project-for-our-portfolio-5831)
+- [Designing the Experience of Creating a Dare](https://dev.to/altin_deliu_979987a45b3dd/designing-the-experience-of-creating-a-dare-4h28)
+- [How to Detect NSFW Images in Your Platform Using Deep Detect API](https://dev.to/nabilkrs/how-to-detect-nsfw-images-in-your-platform-using-deep-detect-api-1l0g)
+- [Relationships, in Power BI](https://dev.to/makenakinyua/relationships-in-power-bi-4acj)
+- [Why I Choose Next.js + Spring Boot for My Solo SaaS Project](https://dev.to/jhuang_hsu_82b2c67916c343/why-i-choose-nextjs-spring-boot-for-my-solo-saas-project-399n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
