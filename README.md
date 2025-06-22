@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My React App Was Slow Until I Did This: Performance Tips for MERN Stack Developers](https://dev.to/prajesh_16/my-react-app-was-slow-until-i-did-this-performance-tips-for-mern-stack-developers-hci)
-- [Scale APP using Dependency Inversion Principle](https://dev.to/jay818/scale-app-using-dependency-inversion-principle-bgi)
-- [Why NestJS is the Ideal Framework for Scaling Large JavaScript Projects](https://dev.to/tanvir_ahamed/why-nestjs-is-the-ideal-framework-for-scaling-large-javascript-projects-5cdk)
-- [I created a Facebook marketplace listing assistant.](https://dev.to/aron_kipkorir_e496e0e4931/i-created-a-facebook-marketplace-listing-assistant-1mcf)
-- [🚀 JavaScript Full Course 2025 in Hindi – Free &amp; Beginner-Friendly!](https://dev.to/mohitdecodes/javascript-full-course-2025-free-beginner-friendly-50i)
+- [Advanced Use of Async Hooks in Node.js](https://dev.to/omriluz1/advanced-use-of-async-hooks-in-nodejs-2363)
+- [What Is n8n ? Nodemation = n8n](https://dev.to/heetvekariya/what-is-n8n-nodemation-n8n-o7a)
+- [Big Data Fundamentals: big data project](https://dev.to/devopsfundamentals/big-data-fundamentals-big-data-project-2b7b)
+- [Big Data Fundamentals: big data](https://dev.to/devopsfundamentals/big-data-fundamentals-big-data-1gcd)
+- [Big Data Fundamentals: big data example](https://dev.to/devopsfundamentals/big-data-fundamentals-big-data-example-2g6e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
