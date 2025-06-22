@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Web Application Penetration Testing: How to Hack Like a Hacker &lpar;Before You Find You&rpar;](https://dev.to/okoye_ndidiamaka_5e3b7d30/web-application-penetration-testing-how-to-hack-like-a-hacker-before-you-find-you-f3j)
-- [End-to-End Workflow Automation with Prismatic.io](https://dev.to/rodgayacao01/end-to-end-workflow-automation-with-prismaticio-5ajh)
-- [Building a Resilient Architecture on AWS](https://dev.to/saydotech/building-a-resilient-architecture-on-aws-lkm)
-- [Fixing &#39;Dynamic Web Module cannot be uninstalled&#39; Error in Spring Boot Maven Project &lpar;Eclipse&rpar;](https://dev.to/pd230/fixing-dynamic-web-module-cannot-be-uninstalled-error-in-spring-boot-maven-project-eclipse-1d35)
-- [Restarting My Java Journey: From Exam-Oriented Learning to Becoming a Real Developer](https://dev.to/pd230/restarting-my-java-journey-from-exam-oriented-learning-to-becoming-a-real-developer-6h8)
+- [Day 6 of Building the Ultimate Gamified Notion Developer&#39;s Hub](https://dev.to/lux_seminare/day-6-of-building-the-ultimate-gamified-notion-developers-hub-58ng)
+- [AgentNet — The TCP/IP Protocol Stack for the AI Era](https://dev.to/agentnet_ac5cb5c8f0576e27/agentnet-the-tcpip-protocol-stack-for-the-ai-era-3hkk)
+- [Introduction to KEDA in Kubernetes: An Event-Driven AutoScaler](https://dev.to/mageshwaransekar/introduction-to-keda-in-kubernetes-an-event-driven-autoscaler-d2j)
+- [My first independent development product is launched](https://dev.to/tahitimoon/my-first-independentdevelopment-product-is-launched-1ll1)
+- [The Complete YouTube Channel Creation Guide: From Zero to Monetization Using AI Tools](https://dev.to/digitalfrontier/the-complete-youtube-channel-creation-guide-from-zero-to-monetization-using-ai-tools-b3b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
