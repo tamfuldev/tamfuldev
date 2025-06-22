@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Sunday Reflection: Coding Apps &amp; New Opportunities](https://dev.to/dilip_kumardk_b41b9418/a-sunday-reflection-coding-apps-new-opportunities-22hp)
-- [Higher Order Functions in JavaScript – Map, Filter, Reduce Deep Dive](https://dev.to/mechcloud_academy/higher-order-functions-in-javascript-map-filter-reduce-deep-dive-3boi)
-- [Unlocking the Power of Functional Programming: Easier Solutions to Complex Problems](https://dev.to/adityabhuyan/unlocking-the-power-of-functional-programming-easier-solutions-to-complex-problems-1je7)
-- [Transitioning from Assembly to C: Challenges and Solutions for Programmers Effectively](https://dev.to/adityabhuyan/transitioning-from-assembly-to-c-challenges-and-solutions-for-programmers-effectively-11al)
-- [Php Fun: Rustyfy classes](https://dev.to/xwero/php-fun-rustyfy-classes-1cl8)
+- [AI Agent Coding - a recap of my experience with Copilot Agent Mode](https://dev.to/jonasbn/ai-agent-coding-a-recap-of-my-experience-with-copilot-agent-mode-36lg)
+- [IBM Fundamentals: Github Traffic Stats](https://dev.to/devopsfundamentals/ibm-fundamentals-github-traffic-stats-1ml6)
+- [Top 5 Automation Tools 2025: The Ultimate Guide to Streamlining Your Workflow](https://dev.to/sushant_raj_420bacbb30d0c/top-5-automation-tools-2025-the-ultimate-guide-to-streamlining-your-workflow-3ni4)
+- [Python Fundamentals: asgi](https://dev.to/devopsfundamentals/python-fundamentals-asgi-1m67)
+- [Chess Meets Code: How I Created a Full-Stack Game Using React + MongoDB](https://dev.to/itxnargis/chess-meets-code-how-i-created-a-full-stack-game-using-react-mongodb-2610)
 <!-- BLOG-POST-LIST:END -->
 
 ---
