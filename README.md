@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [30-DAY CHALLENGE LEARNING SQL](https://dev.to/riettah/30-day-challenge-learning-sql-3k2p)
-- [[Boost]](https://dev.to/sharker3312/-4bhb)
-- [Is the software engineer the new farmer of the digital age?](https://dev.to/neilton_rocha_dev/the-software-engineer-is-the-new-farmer-of-the-digital-age-2d40)
-- [File conversion APIs are a mess - here&#39;s what I learned](https://dev.to/fabibi/file-conversion-apis-are-a-mess-heres-what-i-learned-1pkm)
-- [EXSQL: An open-source SQL language extension for customizable querying](https://dev.to/greem/exsql-an-open-source-sql-language-extension-for-customizable-querying-lpk)
+- [🎮 From Prompt to Play: My Game Made with Amazon Q CLI](https://dev.to/jamesrmoro/from-prompt-to-play-my-game-made-with-amazon-q-cli-3clb)
+- [Modern Docker Made Easy: Real Apps, Volumes, and Live Resource Updates](https://dev.to/raju_dandigam/modern-docker-made-easy-real-apps-volumes-and-live-resource-updates-5a76)
+- [🌌 Enter the Frame: The AquaScript Movies Challenge Begins](https://dev.to/hanzla-baig/enter-the-frame-the-aquascript-movies-challenge-begins-3jdd)
+- [鸿蒙运动项目开发：项目运行环境切换器](https://dev.to/smartbackme/hong-meng-yun-dong-xiang-mu-kai-fa-xiang-mu-yun-xing-huan-jing-qie-huan-qi-147j)
+- [我的 Vibe Coding 的第一个项目](https://dev.to/immerse/wo-de-vibe-coding-de-di-ge-xiang-mu-4cho)
 <!-- BLOG-POST-LIST:END -->
 
 ---
