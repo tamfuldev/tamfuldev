@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Looking for a Co-Coder: Join Us in Building an E-Commerce Project for Our Portfolio](https://dev.to/nghimgiabo6/looking-for-a-co-coder-join-us-in-building-an-e-commerce-project-for-our-portfolio-5831)
-- [Designing the Experience of Creating a Dare](https://dev.to/altin_deliu_979987a45b3dd/designing-the-experience-of-creating-a-dare-4h28)
-- [How to Detect NSFW Images in Your Platform Using Deep Detect API](https://dev.to/nabilkrs/how-to-detect-nsfw-images-in-your-platform-using-deep-detect-api-1l0g)
-- [Relationships, in Power BI](https://dev.to/makenakinyua/relationships-in-power-bi-4acj)
-- [Why I Choose Next.js + Spring Boot for My Solo SaaS Project](https://dev.to/jhuang_hsu_82b2c67916c343/why-i-choose-nextjs-spring-boot-for-my-solo-saas-project-399n)
+- [🧠 Download Smarter: Using Colab + Google Drive to Bypass Slow Direct Downloads](https://dev.to/rushier/download-smarter-using-colab-google-drive-to-bypass-slow-direct-downloads-2e7a)
+- [UI/UX - デザインの基本的な原則](https://dev.to/nabbisen/uiux-dezainnoji-ben-de-nayuan-ze-lf2)
+- [Automating Ghost CMS + MariaDB with Ansible &lpar;the Smart Way&rpar;](https://dev.to/lovestaco/automating-ghost-cms-mariadb-with-ansible-the-smart-way-33bk)
+- [Building a Web-Based Riddle Game with Amazon Q CLI: My Journey with &#39;Riddle Me This&#39;](https://dev.to/yusraliaqat/building-a-web-based-riddle-game-with-amazon-q-cli-my-journey-with-riddle-me-this-588f)
+- [React Router Data Mode: Parte 9 – Optimistic UI con useFetcher](https://dev.to/kevinccbsg/react-router-data-mode-parte-9-optimistic-ui-con-usefetcher-dmb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
