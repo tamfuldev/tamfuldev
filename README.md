@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 6 of Building the Ultimate Gamified Notion Developer&#39;s Hub](https://dev.to/lux_seminare/day-6-of-building-the-ultimate-gamified-notion-developers-hub-58ng)
-- [AgentNet — The TCP/IP Protocol Stack for the AI Era](https://dev.to/agentnet_ac5cb5c8f0576e27/agentnet-the-tcpip-protocol-stack-for-the-ai-era-3hkk)
-- [Introduction to KEDA in Kubernetes: An Event-Driven AutoScaler](https://dev.to/mageshwaransekar/introduction-to-keda-in-kubernetes-an-event-driven-autoscaler-d2j)
-- [My first independent development product is launched](https://dev.to/tahitimoon/my-first-independentdevelopment-product-is-launched-1ll1)
-- [The Complete YouTube Channel Creation Guide: From Zero to Monetization Using AI Tools](https://dev.to/digitalfrontier/the-complete-youtube-channel-creation-guide-from-zero-to-monetization-using-ai-tools-b3b)
+- [Tunnelmole: The Open Source ngrok Alternative Developers Need](https://dev.to/robbiecahill/tunnelmole-the-open-source-ngrok-alternative-developers-need-4a0c)
+- [Step-by-Step Guide to Setting OIDC With Terraform for GitHub Actions Workflows with AWS](https://dev.to/aws-builders/step-by-step-guide-to-setting-oidc-for-github-actions-workflows-with-aws-4ogn)
+- [Fixing Microservice Communication: From Fragile Calls to Resilient Systems](https://dev.to/dinesh_dunukedeniya_539a3/fixing-microservice-communication-from-fragile-calls-to-resilient-systems-2c17)
+- [Untitled](https://dev.to/sekak_seddik_6b74e689dd4c/untitled-2hi2)
+- [What is TypeScript?](https://dev.to/itsayu/what-is-typescript-gkj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
