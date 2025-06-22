@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI Agent Coding - a recap of my experience with Copilot Agent Mode](https://dev.to/jonasbn/ai-agent-coding-a-recap-of-my-experience-with-copilot-agent-mode-36lg)
-- [IBM Fundamentals: Github Traffic Stats](https://dev.to/devopsfundamentals/ibm-fundamentals-github-traffic-stats-1ml6)
-- [Top 5 Automation Tools 2025: The Ultimate Guide to Streamlining Your Workflow](https://dev.to/sushant_raj_420bacbb30d0c/top-5-automation-tools-2025-the-ultimate-guide-to-streamlining-your-workflow-3ni4)
-- [Python Fundamentals: asgi](https://dev.to/devopsfundamentals/python-fundamentals-asgi-1m67)
-- [Chess Meets Code: How I Created a Full-Stack Game Using React + MongoDB](https://dev.to/itxnargis/chess-meets-code-how-i-created-a-full-stack-game-using-react-mongodb-2610)
+- [My React App Was Slow Until I Did This: Performance Tips for MERN Stack Developers](https://dev.to/prajesh_16/my-react-app-was-slow-until-i-did-this-performance-tips-for-mern-stack-developers-hci)
+- [Scale APP using Dependency Inversion Principle](https://dev.to/jay818/scale-app-using-dependency-inversion-principle-bgi)
+- [Why NestJS is the Ideal Framework for Scaling Large JavaScript Projects](https://dev.to/tanvir_ahamed/why-nestjs-is-the-ideal-framework-for-scaling-large-javascript-projects-5cdk)
+- [I created a Facebook marketplace listing assistant.](https://dev.to/aron_kipkorir_e496e0e4931/i-created-a-facebook-marketplace-listing-assistant-1mcf)
+- [🚀 JavaScript Full Course 2025 in Hindi – Free &amp; Beginner-Friendly!](https://dev.to/mohitdecodes/javascript-full-course-2025-free-beginner-friendly-50i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
