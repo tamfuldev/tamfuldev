@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Rebooting After a Holiday: Smart Work Planning with Copilot &lpar;M365&rpar;](https://dev.to/balagmadhu/rebooting-after-a-holiday-smart-work-planning-with-copilot-m365-8go)
-- [The Dark Art of Safe Rebasing: Mastering &quot;Onto&quot; in IDEs and CLI](https://dev.to/jigargosar/the-dark-art-of-safe-rebasing-mastering-onto-in-ides-and-cli-30cd)
-- [☁️💻 Cloud, Code &amp; Conversations: My Journey of Innovation and Networking at AWS Community Day Ahmedabad 🚀🤝](https://dev.to/parmar_smit_983ce4648c148/cloud-code-conversations-my-journey-of-innovation-and-networking-at-aws-community-day-21d9)
-- [Website to track GitHub releases across several repositories](https://dev.to/feature_delivery_17318efb/website-to-track-github-releases-across-several-repositories-5dk6)
-- [☕️ Monday Motivation: Survive Monday in One Piece](https://dev.to/sroy8091/monday-motivation-survive-monday-in-one-piece-82p)
+- [Understanding Docker: part 49 – Docker Compose &lpar;2025&rpar;](https://dev.to/aurelievache/understanding-docker-part-49-docker-compose-2025-5fdd)
+- [[Boost]](https://dev.to/senior-debugger/-1i93)
+- [Father&#39;s Day - CSS Art](https://dev.to/devabdul/fathers-day-css-art-3kf9)
+- [CQRS Pattern in Nest.js](https://dev.to/jacobandrewsky/cqrs-pattern-in-nestjs-4n3p)
+- [How to Increase or Decrease Laravel Session Lifetime](https://dev.to/itstuffsolutions/how-to-increase-or-decrease-laravel-session-lifetime-222)
 <!-- BLOG-POST-LIST:END -->
 
 ---
