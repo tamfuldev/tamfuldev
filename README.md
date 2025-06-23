@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🔥Storyblok MCP Server: Let AI Agents Manage Your Content 🤖](https://dev.to/dev_kiran/storyblok-mcp-server-let-ai-agents-manage-your-content-3jaa)
-- [Ashkan Rajaee’s story is a clear example of what it means to lead with both purpose and precision during uncertain times.](https://dev.to/alexbenshoof/ashkan-rajaees-story-is-a-clear-example-of-what-it-means-to-lead-with-both-purpose-and-precision-2bfg)
-- [MindsDB Made It Easy, I Made It Hard: Building an AI-Powered Knowledge Map](https://dev.to/priyanshuverma/mindsdb-made-it-easy-i-made-it-hard-building-an-ai-powered-knowledge-map-d0g)
-- [The Best ML Model Archiving Tool: Why Jozu and KitOps Are Built for the Job](https://dev.to/jozu/the-best-ml-model-archiving-tool-why-jozu-and-kitops-are-built-for-the-job-31op)
-- [From Rejection to Redemption: How I Landed My SRE Role](https://dev.to/branden-hernandez/from-rejection-to-redemption-how-i-landed-my-sre-role-3p2g)
+- [I Switched from Nginx to Caddy and I&#39;ll Never Go Back](https://dev.to/shayy/i-switched-from-nginx-to-caddy-and-ill-never-go-back-7dg)
+- [Build a backend with Cursor and Manifest in just 5 minutes 😱](https://dev.to/sebconejo/build-a-backend-with-cursor-and-manifest-in-just-5-minutes-3m74)
+- [Day 1/100: Why Learn Python in 2025?](https://dev.to/therahul_gupta/day-1100-why-learn-python-in-2025-3fme)
+- [Credit Card Processing: How It Works and Why It Matters for Modern Businesses](https://dev.to/micrich/credit-card-processing-how-it-works-and-why-it-matters-for-modern-businesses-3hlo)
+- [What I Learned from DevSync: Complete Git &amp; GitHub for Beginners?](https://dev.to/rohan_harne_45/what-i-learned-from-devsync-complete-git-github-for-beginners-k8d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
