@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Algorithmic Classroom](https://dev.to/rawveg/the-algorithmic-classroom-nfh)
-- [Implementing a Simple Static File Server in a Lightweight Python Web Framework](https://dev.to/hexshift/implementing-a-simple-static-file-server-in-a-lightweight-python-web-framework-3f21)
-- [Building Middleware Support in a Lightweight Python Web Framework](https://dev.to/hexshift/building-middleware-support-in-a-lightweight-python-web-framework-4cbl)
-- [Getting Started with Infracost: Estimating Cloud Costs](https://dev.to/aws-builders/getting-started-with-infracost-estimating-cloud-costs-an4)
-- [From RAG to Multi-Agent AI for Job Matching](https://dev.to/reebow/from-rag-to-multi-agent-ai-for-job-matching-5d66)
+- [Unified Search in Control Panel – Navigate Instantly Across Services &amp; Docs | Hostman](https://dev.to/hostman_com/unified-search-in-control-panel-navigate-instantly-across-services-docs-hostman-46dp)
+- [Introducing @ts-migrating: The Best Way To Upgrade Your TSConfig](https://dev.to/ycmjason/introducing-ts-migrating-the-best-way-to-upgrade-your-tsconfig-2jmn)
+- [Supercharge LLMs with LangChain&lpar;Part-1&rpar;](https://dev.to/dharmendra_singh_786/supercharge-llms-with-langchainpart-1-506)
+- [Day 7 of Building Ultimate Gamified Notion Developer&#39;s Hub](https://dev.to/lux_seminare/day-7-of-building-ultimate-gamified-notion-developers-hub-592o)
+- [My friend quit after a performance review. Here&#39;s why.](https://dev.to/cryptosandy/my-friend-quit-after-a-performance-review-heres-why-28l9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
