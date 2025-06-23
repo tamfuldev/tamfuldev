@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Docker: part 49 – Docker Compose &lpar;2025&rpar;](https://dev.to/aurelievache/understanding-docker-part-49-docker-compose-2025-5fdd)
-- [[Boost]](https://dev.to/senior-debugger/-1i93)
-- [Father&#39;s Day - CSS Art](https://dev.to/devabdul/fathers-day-css-art-3kf9)
-- [CQRS Pattern in Nest.js](https://dev.to/jacobandrewsky/cqrs-pattern-in-nestjs-4n3p)
-- [How to Increase or Decrease Laravel Session Lifetime](https://dev.to/itstuffsolutions/how-to-increase-or-decrease-laravel-session-lifetime-222)
+- [Best Mobile App Testing Frameworks for Android and iOS](https://dev.to/lambdatest/best-mobile-app-testing-frameworks-for-android-and-ios-202m)
+- [Implementando o Padrão Outbox com SQLite e usando Brighter](https://dev.to/actor-dev/implementando-o-padrao-outbox-com-sqlite-e-usando-brighter-4i25)
+- [Implementing the Outbox Pattern with SQLite and using Brighter](https://dev.to/actor-dev/implementing-the-outbox-pattern-with-sqlite-and-using-brighter-15ha)
+- [Run MCP Servers In Seconds With Docker](https://dev.to/pradumnasaraf/run-mcp-servers-in-seconds-with-docker-1ik5)
+- [How to Set Up Config Auto Sync in SafeLine](https://dev.to/sharon_42e16b8da44dabde6d/how-to-set-up-config-auto-syncin-safeline-41c6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
