@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Clean Architecture in Go: A Practical Guide with go-clean-arch](https://dev.to/leapcell/clean-architecture-in-go-a-practical-guide-with-go-clean-arch-51h7)
-- [Cross-Language Model Inference Without Python: An Engineering Perspective](https://dev.to/e_b680bbca20c348/cross-language-model-inference-without-python-an-engineering-perspective-1i12)
-- [Umemura Farm Website – Devlog #14: Designing with Intuition And a Bit of Watercolor](https://dev.to/ri_ki_251ca3db361b527f552/umemura-farm-website-devlog-14-designing-with-intuition-and-a-bit-of-watercolor-cdm)
-- [Escape from Lambda Function Name Hardcoding Hell: Type-Safe Serverless Development with sls_enum](https://dev.to/hayata_yamamoto/escape-from-lambda-function-name-hardcoding-hell-type-safe-serverless-development-with-slsenum-dl2)
-- [How to Find Prior Art in Foreign Patents: Expert Guide](https://dev.to/patentscanai/how-to-find-prior-art-in-foreign-patents-expert-guide-5amd)
+- [Built a Legal PDF Question-Answering Tool with AI &lpar;RAG + Streamlit&rpar;](https://dev.to/hassanahmedai/built-a-legal-pdf-question-answering-tool-with-ai-rag-streamlit-2of1)
+- [From Gantt Charts to Agile Sprints: Adapting Maritime Project Rigor to Software Delivery](https://dev.to/cyril_ajayi_67c25fb8beea1/from-gantt-charts-to-agile-sprints-adapting-maritime-project-rigor-to-software-delivery-4c0p)
+- [🔐 Day 12 of Java Mastery: Logical Operators in Java](https://dev.to/spyde/day-12-of-java-mastery-logical-operators-in-java-27nm)
+- [Smarter Frontends with AI: Building Intelligent UI Features in 2025](https://dev.to/melvinprince/smarter-frontends-with-ai-building-intelligent-ui-features-in-2025-i5l)
+- [I rolled my own auth](https://dev.to/nebulae/i-rolled-my-own-auth-p8o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
