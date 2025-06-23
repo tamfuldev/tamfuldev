@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Switched from Nginx to Caddy and I&#39;ll Never Go Back](https://dev.to/shayy/i-switched-from-nginx-to-caddy-and-ill-never-go-back-7dg)
-- [Build a backend with Cursor and Manifest in just 5 minutes 😱](https://dev.to/sebconejo/build-a-backend-with-cursor-and-manifest-in-just-5-minutes-3m74)
-- [Day 1/100: Why Learn Python in 2025?](https://dev.to/therahul_gupta/day-1100-why-learn-python-in-2025-3fme)
-- [Credit Card Processing: How It Works and Why It Matters for Modern Businesses](https://dev.to/micrich/credit-card-processing-how-it-works-and-why-it-matters-for-modern-businesses-3hlo)
-- [What I Learned from DevSync: Complete Git &amp; GitHub for Beginners?](https://dev.to/rohan_harne_45/what-i-learned-from-devsync-complete-git-github-for-beginners-k8d)
+- [The David vs. Goliath Playbook: How Small Teams Can Build Big Tech-Caliber AI Customer Experiences](https://dev.to/sonnia_okoye/the-david-vs-goliath-playbook-how-small-teams-can-build-big-tech-caliber-ai-customer-experiences-24p3)
+- [Test Drive Before You Buy: Your Guide to AI Code Assistant Trials in 2025](https://dev.to/bekahhw/test-drive-before-you-buy-your-guide-to-ai-code-assistant-trials-in-2025-14pk)
+- [🦀 Understanding Lifetimes, Traits, Enums, and Pattern Matching in Rust](https://dev.to/nyagooh/understanding-lifetimes-traits-enums-and-pattern-matching-in-rust-2dc7)
+- [Books That Found Me When I Wasn’t Looking](https://dev.to/wittycircuitry/books-that-found-me-when-i-wasnt-looking-26k3)
+- [Why is my CSV file messed up?](https://dev.to/yowise/why-is-my-csv-file-messed-up-gge)
 <!-- BLOG-POST-LIST:END -->
 
 ---
