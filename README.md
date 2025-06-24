@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Delhi&#39;s Big Shift: Only BS-VI, CNG, LNG &amp; EV Commercial Vehicles from Nov 1, 2025](https://dev.to/sia_negi21/delhis-big-shift-only-bs-vi-cng-lng-ev-commercial-vehicles-from-nov-1-2025-3ko4)
-- [Automating AWS Infrastructure Provisioning with CloudFormation and GitLab CI/CD](https://dev.to/aws-builders/automating-aws-infrastructure-provisioning-with-cloudformation-and-gitlab-cicd-4mem)
-- [Summary of My Experience While Learning GSAP &lpar;GreenSock Animation Platform&rpar;](https://dev.to/r_mohitjoe_9a96dd616a03/summary-of-my-experience-while-learning-gsap-greensock-animation-platform-ng8)
-- [⚙️ Tuesday Tech Tip: One Command That Changed My Workflow Forever](https://dev.to/sroy8091/tuesday-tech-tip-one-command-that-changed-my-workflow-forever-id7)
-- [Dev Diaries Episode 3 - User Feedback &amp; The Pivot That Saved The Project](https://dev.to/stellar/dev-diaries-episode-3-user-feedback-the-pivot-that-saved-the-project-54g7)
+- [This entire system is a reminder that professionalism doesn’t require fancy tools, just consistency and clear intent. TDZ PRO gets that.](https://dev.to/techtalk/this-entire-system-is-a-reminder-that-professionalism-doesnt-require-fancy-tools-just-consistency-mh)
+- [Writing Your First Automated Test Using Python &lpar;unittest Framework&rpar;](https://dev.to/testrig/writing-your-first-automated-test-using-python-unittest-framework-2n89)
+- [In crypto and fintech, you&#39;re either moving at speed or you&#39;re irrelevant](https://dev.to/iri_denis/in-crypto-and-fintech-youre-either-moving-at-speed-or-youre-irrelevant-2mne)
+- [Why More Developers Are Turning to Haskell in 2025](https://dev.to/haskell-jobs/why-more-developers-are-turning-to-haskell-in-2025-2d0k)
+- [I made a new OS](https://dev.to/cheese_king_e815378335419/i-made-a-new-os-4glk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
