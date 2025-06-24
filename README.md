@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What Are HTTP Headers — And How Do They Keep Your Site Secure?](https://dev.to/sharon_42e16b8da44dabde6d/what-are-http-headers-and-how-do-they-keep-your-site-secure-513l)
-- [Amazing Breakdown of such a complex problem.](https://dev.to/thedeepseeker/amazing-breakdown-of-such-a-complex-problem-4m9j)
-- [🌋 Find All K-Distant Indices in an Array – LeetCode 2200 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/find-all-k-distant-indices-in-an-array-leetcode-2200-c-python-javascript-4l4p)
-- [How I Got Started with Embedded Linux Development](https://dev.to/jasonliu112/how-i-got-started-with-embedded-linux-development-2h1g)
-- [Cronjob](https://dev.to/devarthurbarboza/cronjob-2408)
+- [The URL Space is Bigger than the Universe](https://dev.to/kireji/the-url-space-is-bigger-than-the-universe-4dfg)
+- [WWDC 2025: Apple&#39;s Liquid Glass Design System](https://dev.to/arshtechpro/wwdc-2025-apples-liquid-glass-design-system-52an)
+- [Introduction: The Evolution of AI to Agentic AI](https://dev.to/azubuike_alexmmaghiri_9e/introduction-the-evolution-of-ai-to-agentic-ai-55em)
+- [Azure Fundamentals: Microsoft.TimeSeriesInsights](https://dev.to/devopsfundamentals/azure-fundamentals-microsofttimeseriesinsights-4c5g)
+- [How I Migrated U-Boot to Support a New eMMC Chip After Old eMMC Line Shutdown](https://dev.to/jasonliu112/how-i-migrated-u-boot-to-support-a-new-emmc-chip-after-old-emmc-line-shutdown-4fj5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
