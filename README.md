@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Reflecting on the Air India Tragedy — Lessons and Condolences](https://dev.to/sonmusui/reflecting-on-the-air-india-tragedy-lessons-and-condolences-1id8)
-- [I built an Event-Sourcing Database Engine, because I love Event-Driven Architectures: Meet Genesis DB](https://dev.to/patriceckhart/i-built-an-event-sourcing-database-engine-because-i-love-event-driven-architectures-meet-genesis-3me8)
-- [C programming notes - 001](https://dev.to/tamilvanan/c-programming-notes-001-176)
-- [The way we make sense of success.](https://dev.to/sonmusui/outliers-by-malcolm-gladwell-2d8e)
-- [Job Application Tip for Node.js Developers](https://dev.to/sonmusui/job-application-tip-for-nodejs-developers-70o)
+- [Transition to a Robust Infrastructure - Terraform and ArgoCD in Action](https://dev.to/neomi/transition-to-a-robust-infrastructure-terraform-and-argocd-in-action-gnc)
+- [Umemura Farm Website – Devlog #15: Building the Contact Page: Day 1 Progress](https://dev.to/ri_ki_251ca3db361b527f552/umemura-farm-website-devlog-15-building-the-contact-page-day-1-progress-5bko)
+- [Harmony-Free Hengong Loading Frame](https://dev.to/rogueybj/harmony-free-hengong-loading-frame-560j)
+- [🚀 How Web3 Partnerships Like WhiteBIT 🤝 Juventus Are More Than Marketing](https://dev.to/daniel_crypto/how-web3-partnerships-like-whitebit-juventus-are-more-than-marketing-1h33)
+- [Veiled in the Sea of Chains, Hidden in the Mountain of Coins: Privacy Security as Both Constraint and Path Forward](https://dev.to/jalongsol/veiled-in-the-sea-of-chains-hidden-in-the-mountain-of-coins-privacy-security-as-both-constraint-1458)
 <!-- BLOG-POST-LIST:END -->
 
 ---
