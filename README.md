@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing &quot;Suspense&quot; with a simple Observable](https://dev.to/dariomannu/implementing-suspense-with-a-simple-observable-5ag2)
+- [🚀 Why Linux is the Backbone of DevOps](https://dev.to/sreekanth_kuruba_91721e5d/why-linux-is-the-backbone-of-devops-1dj7)
+- [Terraform Fundamentals: CloudWatch RUM](https://dev.to/devopsfundamentals/terraform-fundamentals-cloudwatch-rum-4k6g)
+- [Using 4 AI Tools to Build a Real Project &lpar;Claude + Cursor + Windsurf + VS Code&rpar;](https://dev.to/agape_aurora_4b5303956dc6/using-4-ai-tools-to-build-a-real-project-claude-cursor-windsurf-vs-code-56ih)
 - [The URL Space is Bigger than the Universe](https://dev.to/kireji/the-url-space-is-bigger-than-the-universe-4dfg)
-- [WWDC 2025: Apple&#39;s Liquid Glass Design System](https://dev.to/arshtechpro/wwdc-2025-apples-liquid-glass-design-system-52an)
-- [Introduction: The Evolution of AI to Agentic AI](https://dev.to/azubuike_alexmmaghiri_9e/introduction-the-evolution-of-ai-to-agentic-ai-55em)
-- [Azure Fundamentals: Microsoft.TimeSeriesInsights](https://dev.to/devopsfundamentals/azure-fundamentals-microsofttimeseriesinsights-4c5g)
-- [How I Migrated U-Boot to Support a New eMMC Chip After Old eMMC Line Shutdown](https://dev.to/jasonliu112/how-i-migrated-u-boot-to-support-a-new-emmc-chip-after-old-emmc-line-shutdown-4fj5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
