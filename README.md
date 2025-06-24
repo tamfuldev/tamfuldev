@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [6G Connectivity: The Future of Wireless Communication](https://dev.to/azubuike_alexmmaghiri_9e/6g-connectivity-the-future-of-wireless-communication-28f1)
-- [Rust’s Approach to Memory and Performance](https://dev.to/obeej/rusts-approach-to-memory-and-performance-1m22)
-- [Just built my firts express app no laptop just my phone.](https://dev.to/raymond_pro_guy/just-built-my-firts-express-app-no-laptop-just-my-phone-4j5b)
-- [Hello World!](https://dev.to/tecco2233/hello-world-3e4e)
-- [Please help me with this, any developers. This has been my dream since I was a child.](https://dev.to/_pes_843e3c69f562a5/please-help-me-with-this-any-developers-this-has-been-my-dream-since-i-was-a-child-53ni)
+- [What Are HTTP Headers — And How Do They Keep Your Site Secure?](https://dev.to/sharon_42e16b8da44dabde6d/what-are-http-headers-and-how-do-they-keep-your-site-secure-513l)
+- [Amazing Breakdown of such a complex problem.](https://dev.to/thedeepseeker/amazing-breakdown-of-such-a-complex-problem-4m9j)
+- [🌋 Find All K-Distant Indices in an Array – LeetCode 2200 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/find-all-k-distant-indices-in-an-array-leetcode-2200-c-python-javascript-4l4p)
+- [How I Got Started with Embedded Linux Development](https://dev.to/jasonliu112/how-i-got-started-with-embedded-linux-development-2h1g)
+- [Cronjob](https://dev.to/devarthurbarboza/cronjob-2408)
 <!-- BLOG-POST-LIST:END -->
 
 ---
