@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Fortinet Under Fire: New Auth Bypass Bug Actively Exploited &lpar;CVE-2024-55591&rpar;](https://dev.to/sharon_42e16b8da44dabde6d/fortinet-under-fire-new-auth-bypass-bug-actively-exploited-cve-2024-55591-bb0)
-- [Go Coding with Asparagos: Can oranges sow the seeds of discord in linear time?](https://dev.to/asparagos/go-coding-with-asparagos-can-oranges-sow-the-seeds-of-discord-in-linear-time-1643)
-- [Get Past the Robots](https://dev.to/thetechpreneur/get-past-the-robots-3d16)
-- [Machine Learning](https://dev.to/prashant_rajpoot_0e51a2b4/machine-learning-md0)
-- [Resiliency Patterns](https://dev.to/sirivarma/resiliency-patterns-3hcl)
+- [Reflecting on the Air India Tragedy — Lessons and Condolences](https://dev.to/sonmusui/reflecting-on-the-air-india-tragedy-lessons-and-condolences-1id8)
+- [I built an Event-Sourcing Database Engine, because I love Event-Driven Architectures: Meet Genesis DB](https://dev.to/patriceckhart/i-built-an-event-sourcing-database-engine-because-i-love-event-driven-architectures-meet-genesis-3me8)
+- [C programming notes - 001](https://dev.to/tamilvanan/c-programming-notes-001-176)
+- [The way we make sense of success.](https://dev.to/sonmusui/outliers-by-malcolm-gladwell-2d8e)
+- [Job Application Tip for Node.js Developers](https://dev.to/sonmusui/job-application-tip-for-nodejs-developers-70o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
