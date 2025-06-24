@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Transition to a Robust Infrastructure - Terraform and ArgoCD in Action](https://dev.to/neomi/transition-to-a-robust-infrastructure-terraform-and-argocd-in-action-gnc)
-- [Umemura Farm Website – Devlog #15: Building the Contact Page: Day 1 Progress](https://dev.to/ri_ki_251ca3db361b527f552/umemura-farm-website-devlog-15-building-the-contact-page-day-1-progress-5bko)
-- [Harmony-Free Hengong Loading Frame](https://dev.to/rogueybj/harmony-free-hengong-loading-frame-560j)
-- [🚀 How Web3 Partnerships Like WhiteBIT 🤝 Juventus Are More Than Marketing](https://dev.to/daniel_crypto/how-web3-partnerships-like-whitebit-juventus-are-more-than-marketing-1h33)
-- [Veiled in the Sea of Chains, Hidden in the Mountain of Coins: Privacy Security as Both Constraint and Path Forward](https://dev.to/jalongsol/veiled-in-the-sea-of-chains-hidden-in-the-mountain-of-coins-privacy-security-as-both-constraint-1458)
+- [I published my first Desktop App after 6 months of work — Everything I learnt](https://dev.to/paul_freeman/i-published-my-first-desktop-app-after-6-months-of-work-everything-i-learnt-34m0)
+- [Here is my first article ever! I hope you&#39;ll enjoy reading it. I will be very happy to respond to any comments you may have. :&rpar;](https://dev.to/restray/here-is-my-first-article-ever-i-hope-youll-enjoy-reading-it-i-will-be-very-happy-to-respond-to-2oc)
+- [AI vs. AGI: Key Differences and Why It Matters and What You Need to Know](https://dev.to/abuhorairatarif/ai-vs-agi-key-differences-and-why-it-matters-and-what-you-need-to-know-n9k)
+- [Top 6 On-Premises API Management Tools for 2025: The Developer’s Guide](https://dev.to/apilover/top-6-on-premises-api-management-tools-for-2025-the-developers-guide-1lbl)
+- [Vibe Data Analysis: Natural Language-Driven Data Insights](https://dev.to/powerdrill_ai/vibe-data-analysis-natural-language-driven-data-insights-7ce)
 <!-- BLOG-POST-LIST:END -->
 
 ---
