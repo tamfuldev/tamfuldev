@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [This entire system is a reminder that professionalism doesn’t require fancy tools, just consistency and clear intent. TDZ PRO gets that.](https://dev.to/techtalk/this-entire-system-is-a-reminder-that-professionalism-doesnt-require-fancy-tools-just-consistency-mh)
-- [Writing Your First Automated Test Using Python &lpar;unittest Framework&rpar;](https://dev.to/testrig/writing-your-first-automated-test-using-python-unittest-framework-2n89)
-- [In crypto and fintech, you&#39;re either moving at speed or you&#39;re irrelevant](https://dev.to/iri_denis/in-crypto-and-fintech-youre-either-moving-at-speed-or-youre-irrelevant-2mne)
-- [Why More Developers Are Turning to Haskell in 2025](https://dev.to/haskell-jobs/why-more-developers-are-turning-to-haskell-in-2025-2d0k)
-- [I made a new OS](https://dev.to/cheese_king_e815378335419/i-made-a-new-os-4glk)
+- [Slack plus WhatsApp plus Zoho is such an underrated combo. This just validated our own tech decisions.](https://dev.to/lucasvonb/slack-plus-whatsapp-plus-zoho-is-such-an-underrated-combo-this-just-validated-our-own-tech-g1i)
+- [This was the kind of content that sticks with you. I will be thinking about this every time I set up my desk now.](https://dev.to/lucasvonb/this-was-the-kind-of-content-that-sticks-with-you-i-will-be-thinking-about-this-every-time-i-set-859)
+- [おわりに - Vue フロントエンド開発入門](https://dev.to/nabbisen/owarini-vue-hurontoendokai-fa-ru-men-1j75)
+- [Ashkan Rajaee gives voice to the silent battles many businesses face. That honesty matters.](https://dev.to/lucasvonb/ashkan-rajaee-gives-voice-to-the-silent-battles-many-businesses-face-that-honesty-matters-3jgh)
+- [I find Ashkan Rajaee’s focus on rebuilding internal systems during crisis incredibly smart and forward-thinking.](https://dev.to/lucasvonb/i-find-ashkan-rajaees-focus-on-rebuilding-internal-systems-during-crisis-incredibly-smart-and-2c2f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
