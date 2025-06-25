@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Creating Knowledge bases using MindsDB](https://dev.to/chiragagg5k/creating-knowledge-bases-using-mindsdb-1a33)
-- [If programming languages were people](https://dev.to/alex_stewart_ee973ece52be/if-programming-languages-were-people-57l4)
-- [Umemura Farm Website – Devlog #16: Contact Page Progress and Adding Texture to Home Visuals](https://dev.to/ri_ki_251ca3db361b527f552/umemura-farm-website-devlog-16-contact-page-progress-and-adding-texture-to-home-visuals-kl2)
-- [Modelo de Maturidade Richardson &lpar;RMM&rpar;](https://dev.to/carloseduardoalvesviana/niveis-de-maturidade-de-richardson-30c8)
-- [HarmonyOS 5 Demo Example of Bidirectional Communication between HarmonyOS Web Components and Embedded Web Pages](https://dev.to/dcdvdv_a_5059c020ba962689/harmonyos-5-demo-example-of-bidirectional-communication-between-harmonyos-web-components-and-3ed9)
+- [I Wrote the S2E01 Recap for Model Mondays: Advanced Reasoning Session](https://dev.to/sharda_kaur/i-wrote-the-s2e01-recap-for-model-mondays-advanced-reasoning-session-o05)
+- [How to Generate QR Codes in Bulk—Fast](https://dev.to/alexandriawilson/how-to-generate-qr-codes-in-bulk-fast-3mme)
+- [A Comparative Analysis of Smart Contract Languages: Compact &lpar;zk-SNARK&rpar; vs. Cairo &lpar;zk-STARK&rpar; and Solidity Migration Challenges](https://dev.to/bobjiang/a-comparative-analysis-of-smart-contract-languages-compact-zk-snark-vs-cairo-zk-stark-and-3pn)
+- [Unlocking Hyper-Security: The Power of AI in Multi-Modal Biometric Systems](https://dev.to/vaib/unlocking-hyper-security-the-power-of-ai-in-multi-modal-biometric-systems-23n)
+- [Welcome Thread - v332](https://dev.to/devteam/welcome-thread-v332-3caj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
