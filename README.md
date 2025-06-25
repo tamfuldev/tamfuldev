@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Wrote the S2E01 Recap for Model Mondays: Advanced Reasoning Session](https://dev.to/sharda_kaur/i-wrote-the-s2e01-recap-for-model-mondays-advanced-reasoning-session-o05)
-- [How to Generate QR Codes in Bulk—Fast](https://dev.to/alexandriawilson/how-to-generate-qr-codes-in-bulk-fast-3mme)
-- [A Comparative Analysis of Smart Contract Languages: Compact &lpar;zk-SNARK&rpar; vs. Cairo &lpar;zk-STARK&rpar; and Solidity Migration Challenges](https://dev.to/bobjiang/a-comparative-analysis-of-smart-contract-languages-compact-zk-snark-vs-cairo-zk-stark-and-3pn)
-- [Unlocking Hyper-Security: The Power of AI in Multi-Modal Biometric Systems](https://dev.to/vaib/unlocking-hyper-security-the-power-of-ai-in-multi-modal-biometric-systems-23n)
-- [Welcome Thread - v332](https://dev.to/devteam/welcome-thread-v332-3caj)
+- [Top Visual Studio Code Shortcuts to Boost Your Productivity](https://dev.to/codeliner/top-visual-studio-code-shortcuts-to-boost-your-productivity-4k32)
+- [Further Understanding Cargo and Crates.io](https://dev.to/john_wilson/further-understanding-cargo-and-cratesio-gna)
+- [Proof Key for Code Exchange: A developer’s guide](https://dev.to/saif_shines/proof-key-for-code-exchange-a-developers-guide-pih)
+- [Node.js Tutorial 2025: Learn Modern Backend Development](https://dev.to/tpointtechblog/nodejs-tutorial-2025-learn-modern-backend-development-3b21)
+- [Node.js Tutorial 2025: Learn Modern Backend Development](https://dev.to/tpointtechblog/nodejs-tutorial-2025-learn-modern-backend-development-18mk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
