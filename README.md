@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Second Raku Core Summit](https://dev.to/lizmat/the-second-raku-core-summit-f99)
-- [Revolutionizing Mobile App Development with Cutting-Edge Mobile UI/UX Design](https://dev.to/vjnvisakh/revolutionizing-mobile-app-development-with-cutting-edge-mobile-uiux-design-6fh)
-- [The Cold Email Method That Actually Works: A Breakdown ✉️✉️](https://dev.to/manas_tole_039/the-cold-email-method-that-actually-works-a-breakdown-g13)
-- [Secure Your Site in Minutes: Open-Source WAF With 99%+ Accuracy and Zero Hassle](https://dev.to/sharon_42e16b8da44dabde6d/secure-your-site-in-minutes-open-source-waf-with-99-accuracy-and-zero-hassle-2bko)
-- [Which AI is the strongest at writing code?](https://dev.to/elfreda/which-ai-is-the-strongest-at-writing-code-5a93)
+- [Terms of Intimacy](https://dev.to/rawveg/terms-of-intimacy-3ang)
+- [Building a Simple Email Spam Classifier in Rust with SmartCore](https://dev.to/devwonder01/building-a-simple-email-spam-classifier-in-rust-with-smartcore-4k3n)
+- [My passion? Building web apps that are both powerful and visually striking. Think robust Django backends, dynamic React frontends, and a design aesthetic that truly sets you apart. Ready for something different? hashtag#DjangoDeveloper hashtag#ReactDevelo](https://dev.to/highcenburg/my-passion-building-web-apps-that-are-both-powerful-and-visually-striking-think-robust-django-25en)
+- [Where is the Vibe in &quot;Vibe Coding&quot; and what happened to Music Monday?](https://dev.to/ingosteinke/where-is-the-vibe-in-vibe-coding-and-what-happened-to-music-monday-49ek)
+- [FRONTEND](https://dev.to/nebula_3108/frontend-l12)
 <!-- BLOG-POST-LIST:END -->
 
 ---
