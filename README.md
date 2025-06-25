@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A programmer yelling at the clouds about vibe coding](https://dev.to/daniel-octomind/a-programmer-yelling-at-the-clouds-about-vibe-coding-2m3j)
-- [The Grammar of Objectivity](https://dev.to/agustn_startari_0c8417a8/the-grammar-of-objectivity-2c16)
-- [Connect Your Agents to the MCP Server](https://dev.to/codanyks/connect-your-agents-to-the-mcp-server-28m)
-- [daily quizzz](https://dev.to/marrmorgan/daily-quizzz-1nh9)
-- [🧠 We Save Links, But We Don&#39;t Save Knowledge — Why I&#39;m Rethinking Web Reading](https://dev.to/sumitagarwal-i/we-save-links-but-we-dont-save-knowledge-why-im-rethinking-web-reading-5281)
+- [Doing database stuff](https://dev.to/ben/doing-database-stuff-1k4e)
+- [Hidden Complexities of Scaling GraphQL Federation &lpar;And How to Fix Them&rpar;](https://dev.to/hackmamba/hidden-complexities-of-scaling-graphql-federation-and-how-to-fix-them-2peg)
+- [Beyond Frameworks: How Computer Science Fundamentals Forge the Complete Developer](https://dev.to/skill-wanderer/beyond-frameworks-how-computer-science-fundamentals-forge-the-complete-developer-1335)
+- [Security Compliance Enforcement &lpar;SCE&rpar; for Linux version 2.4.0 is now available!](https://dev.to/puppet/security-compliance-enforcement-sce-for-linux-version-240-is-now-available-3bao)
+- [Post-Listing Strategy: How Exchanges Support Crypto Projects Beyond the Launch](https://dev.to/alexnav/post-listing-strategy-how-exchanges-support-crypto-projects-beyond-the-launch-3nj3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
