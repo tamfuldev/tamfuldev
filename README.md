@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🏗️ DEMOLISH THE GIANT: AMAZON — The Invisible Empire](https://dev.to/the_epyq/demolish-the-giant-amazon-the-invisible-empire-2o09)
-- [🐳 Creating a 3-Node Docker Swarm Cluster: A Simple &amp; Fun Guide](https://dev.to/sovannaro/creating-a-3-node-docker-swarm-cluster-a-simple-fun-guide-1gji)
-- [Introducing ScriptHub: Your Universal Script Repository](https://dev.to/curiousbud/introducing-scripthub-your-universal-script-repository-nid)
-- [I Design Digital Products. But I Forgot About the One That Mattered Most.](https://dev.to/alina_turlevska_708955575/i-design-digital-products-but-i-forgot-about-the-one-that-mattered-most-5639)
-- [Warp - The Intelligent Terminal for Developers](https://dev.to/joyston_ccd43d53e268ec635/warp-the-intelligent-terminal-for-developers-4chm)
+- [So you want to become better than 99% of programmers, right?](https://dev.to/satyabrata_dd224dce47e7bc/so-you-want-to-become-better-than-99-of-programmers-right-2731)
+- [Can AI Write Bars? I Tried 30+ Free Rap Lyric Tools &lpar;So You Don’t Have To&rpar;](https://dev.to/mukeshkdesigns/can-ai-write-bars-i-tried-30-free-rap-lyric-tools-so-you-dont-have-to-2pjc)
+- [No one should have to learn about transaction isolation levels.](https://dev.to/cainlevy/no-one-should-have-to-learn-about-transaction-isolation-levels-2jal)
+- [Effective Agent Instruction](https://dev.to/yysun/effective-agent-instruction-2k20)
+- [Test Driven Development with Java &amp; Spring Boot: The Complete Guide](https://dev.to/devcorner/test-driven-development-with-java-spring-boot-the-complete-guide-16d3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
