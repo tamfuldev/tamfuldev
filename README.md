@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [This is how I created a game from scratch using AWS](https://dev.to/javitech_co/this-is-how-i-created-a-game-from-scratch-using-aws-5enb)
-- [🚀 Stepping into Dev++ | Let’s Build the Future with AI 🤖](https://dev.to/balram15/stepping-into-dev-lets-build-the-future-with-ai-33hf)
-- [How and Why to Use Patches](https://dev.to/kdipippo/how-and-why-to-use-patches-3enp)
-- [Styling Your First React Component — A Gentle Introduction](https://dev.to/elram_gavrieli_887f3d6046/styling-your-first-react-component-a-gentle-introduction-1c82)
-- [Day 1 dev setup: Installing Docker, WSL, Python, GitHub SSH &lpar;with some challenges &amp; solutions&rpar;](https://dev.to/zipporahmutanu04/day-1-dev-setup-installing-docker-wsl-python-github-ssh-with-some-challenges-oo1)
+- [Spring Batch Uma Visão Abrangente Sobre Componentes e Processos](https://dev.to/ikauedev/spring-batch-uma-visao-abrangente-componentes-processos-e-exemplos-praticos-4a5k)
+- [In spite of AI, tasks are still repetitive: prompts for UI, PRDs, vibe code to add logic, manually fix issues on AI code, repeat till the task is done. Anyone interested in automating these to have time for more meaningful coding? #DoWhatMatters](https://dev.to/wehadit/in-spite-of-ai-tasks-are-still-repetitive-prompts-for-ui-prds-vibe-code-to-add-logic-manually-4fa8)
+- [Why Does AI Still Make Me Repeat Myself?](https://dev.to/wehadit/why-does-ai-still-make-me-repeat-myself-2c91)
+- [Revolutionizing AI with Retrieval-Augmented Generation &lpar;RAG&rpar;: Architectures, Workflows, and Practical Applications](https://dev.to/azubuike_alexmmaghiri_9e/revolutionizing-ai-with-retrieval-augmented-generation-rag-architectures-workflows-and-9c4)
+- [LeetCode 2040 Beginner friendly explanation](https://dev.to/thedeepseeker/leetcode-2040-beginner-friendly-explanation-5f96)
 <!-- BLOG-POST-LIST:END -->
 
 ---
