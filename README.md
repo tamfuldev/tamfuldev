@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Hey, great work on your project! 🙌 I noticed one of the links seems to be broken&lpar;https://codebeautify.org/jsoncompare&rpar;. If you&#39;re looking for a working JSON comparison tool, feel free to check out mine: https://formatjsononline.com/json-compare](https://dev.to/anil_c84dda16a00ec91d5057/hey-great-work-on-your-project-i-noticed-one-of-the-links-seems-to-be-171h)
-- [publish blog](https://dev.to/tech_journey_85208cd43521/publish-blog-220)
-- [How to Get the Best Translation Quality from Machine Translation](https://dev.to/jennamitchell/how-to-get-the-best-translation-quality-from-machine-translation-400k)
-- [Introducing getStack.dev - Track technologies trends across GitHub](https://dev.to/samuel_bodin/introducing-getstackdev-track-technologies-trends-across-github-52al)
-- [Pull Real-Time SEC Filings and Stock Data in Python &lpar;and Analyze It With AI!&rpar;](https://dev.to/adafromcoinapi/pull-real-time-sec-filings-and-stock-data-in-python-and-analyze-it-with-ai-efg)
+- [A programmer yelling at the clouds about vibe coding](https://dev.to/daniel-octomind/a-programmer-yelling-at-the-clouds-about-vibe-coding-2m3j)
+- [The Grammar of Objectivity](https://dev.to/agustn_startari_0c8417a8/the-grammar-of-objectivity-2c16)
+- [Connect Your Agents to the MCP Server](https://dev.to/codanyks/connect-your-agents-to-the-mcp-server-28m)
+- [daily quizzz](https://dev.to/marrmorgan/daily-quizzz-1nh9)
+- [🧠 We Save Links, But We Don&#39;t Save Knowledge — Why I&#39;m Rethinking Web Reading](https://dev.to/sumitagarwal-i/we-save-links-but-we-dont-save-knowledge-why-im-rethinking-web-reading-5281)
 <!-- BLOG-POST-LIST:END -->
 
 ---
