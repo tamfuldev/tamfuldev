@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Terms of Intimacy](https://dev.to/rawveg/terms-of-intimacy-3ang)
-- [Building a Simple Email Spam Classifier in Rust with SmartCore](https://dev.to/devwonder01/building-a-simple-email-spam-classifier-in-rust-with-smartcore-4k3n)
-- [My passion? Building web apps that are both powerful and visually striking. Think robust Django backends, dynamic React frontends, and a design aesthetic that truly sets you apart. Ready for something different? hashtag#DjangoDeveloper hashtag#ReactDevelo](https://dev.to/highcenburg/my-passion-building-web-apps-that-are-both-powerful-and-visually-striking-think-robust-django-25en)
-- [Where is the Vibe in &quot;Vibe Coding&quot; and what happened to Music Monday?](https://dev.to/ingosteinke/where-is-the-vibe-in-vibe-coding-and-what-happened-to-music-monday-49ek)
-- [FRONTEND](https://dev.to/nebula_3108/frontend-l12)
+- [Hey, great work on your project! 🙌 I noticed one of the links seems to be broken&lpar;https://codebeautify.org/jsoncompare&rpar;. If you&#39;re looking for a working JSON comparison tool, feel free to check out mine: https://formatjsononline.com/json-compare](https://dev.to/anil_c84dda16a00ec91d5057/hey-great-work-on-your-project-i-noticed-one-of-the-links-seems-to-be-171h)
+- [publish blog](https://dev.to/tech_journey_85208cd43521/publish-blog-220)
+- [How to Get the Best Translation Quality from Machine Translation](https://dev.to/jennamitchell/how-to-get-the-best-translation-quality-from-machine-translation-400k)
+- [Introducing getStack.dev - Track technologies trends across GitHub](https://dev.to/samuel_bodin/introducing-getstackdev-track-technologies-trends-across-github-52al)
+- [Pull Real-Time SEC Filings and Stock Data in Python &lpar;and Analyze It With AI!&rpar;](https://dev.to/adafromcoinapi/pull-real-time-sec-filings-and-stock-data-in-python-and-analyze-it-with-ai-efg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
