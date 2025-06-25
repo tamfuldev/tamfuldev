@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [19 Best Practices for Automation Testing with Node.js](https://dev.to/lambdatest/19-best-practices-for-automation-testing-with-nodejs-47e7)
-- [💡 From Idea to Post: Meet the AI Agent That Writes Linkedin post for You💡](https://dev.to/lakhera2015/from-idea-to-post-meet-the-ai-agent-that-writes-linkedin-post-for-you-452m)
-- [A Deep Dive Into SeaTunnel&#39;s Thread Sharing Mechanism and Task Execution Model Optimization](https://dev.to/seatunnel/a-deep-dive-into-seatunnels-thread-sharing-mechanism-and-task-execution-model-optimization-1ejk)
-- [Razões e Proporções](https://dev.to/alsetchannel/razoes-e-proporcoes-1go2)
-- [5 Smart AI Tools That Supercharge Productivity](https://dev.to/sebastian_reid999/5-smart-ai-tools-that-supercharge-productivity-33gb)
+- [Creating Knowledge bases using MindsDB](https://dev.to/chiragagg5k/creating-knowledge-bases-using-mindsdb-1a33)
+- [If programming languages were people](https://dev.to/alex_stewart_ee973ece52be/if-programming-languages-were-people-57l4)
+- [Umemura Farm Website – Devlog #16: Contact Page Progress and Adding Texture to Home Visuals](https://dev.to/ri_ki_251ca3db361b527f552/umemura-farm-website-devlog-16-contact-page-progress-and-adding-texture-to-home-visuals-kl2)
+- [Modelo de Maturidade Richardson &lpar;RMM&rpar;](https://dev.to/carloseduardoalvesviana/niveis-de-maturidade-de-richardson-30c8)
+- [HarmonyOS 5 Demo Example of Bidirectional Communication between HarmonyOS Web Components and Embedded Web Pages](https://dev.to/dcdvdv_a_5059c020ba962689/harmonyos-5-demo-example-of-bidirectional-communication-between-harmonyos-web-components-and-3ed9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
