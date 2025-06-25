@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Un loader UX-friendly en Angular avec cet utilitaire RxJS](https://dev.to/romain_geffrault_10d88369/un-loader-ux-friendly-en-angular-avec-cet-utilitaire-rxjs-1184)
-- [Give Your AI Agents Persistent Memory with Mem0](https://dev.to/abdibrokhim/give-your-ai-agents-persistent-memory-with-mem0-3eff)
-- [Day 10 - Building the Navigation System with a Workspace-Aware Sidebar](https://dev.to/nader_fh/day-10-building-the-navigation-system-with-a-workspace-aware-sidebar-2bco)
-- [Microsoft 365 Business Standard Security and Productivity Features: What You Get in 2025](https://dev.to/roshan_karki_f2b61b26c3a8/microsoft-365-business-standard-security-and-productivity-features-what-you-get-in-2025-fe)
-- [What is WordPress? Explained for Beginners &lpar;2025 Guide&rpar;](https://dev.to/champsoft/what-is-wordpress-explained-for-beginners-2025-guide-1do3)
+- [The Second Raku Core Summit](https://dev.to/lizmat/the-second-raku-core-summit-f99)
+- [Revolutionizing Mobile App Development with Cutting-Edge Mobile UI/UX Design](https://dev.to/vjnvisakh/revolutionizing-mobile-app-development-with-cutting-edge-mobile-uiux-design-6fh)
+- [The Cold Email Method That Actually Works: A Breakdown ✉️✉️](https://dev.to/manas_tole_039/the-cold-email-method-that-actually-works-a-breakdown-g13)
+- [Secure Your Site in Minutes: Open-Source WAF With 99%+ Accuracy and Zero Hassle](https://dev.to/sharon_42e16b8da44dabde6d/secure-your-site-in-minutes-open-source-waf-with-99-accuracy-and-zero-hassle-2bko)
+- [Which AI is the strongest at writing code?](https://dev.to/elfreda/which-ai-is-the-strongest-at-writing-code-5a93)
 <!-- BLOG-POST-LIST:END -->
 
 ---
