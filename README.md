@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Spring Batch Uma Visão Abrangente Sobre Componentes e Processos](https://dev.to/ikauedev/spring-batch-uma-visao-abrangente-componentes-processos-e-exemplos-praticos-4a5k)
-- [In spite of AI, tasks are still repetitive: prompts for UI, PRDs, vibe code to add logic, manually fix issues on AI code, repeat till the task is done. Anyone interested in automating these to have time for more meaningful coding? #DoWhatMatters](https://dev.to/wehadit/in-spite-of-ai-tasks-are-still-repetitive-prompts-for-ui-prds-vibe-code-to-add-logic-manually-4fa8)
-- [Why Does AI Still Make Me Repeat Myself?](https://dev.to/wehadit/why-does-ai-still-make-me-repeat-myself-2c91)
-- [Revolutionizing AI with Retrieval-Augmented Generation &lpar;RAG&rpar;: Architectures, Workflows, and Practical Applications](https://dev.to/azubuike_alexmmaghiri_9e/revolutionizing-ai-with-retrieval-augmented-generation-rag-architectures-workflows-and-9c4)
-- [LeetCode 2040 Beginner friendly explanation](https://dev.to/thedeepseeker/leetcode-2040-beginner-friendly-explanation-5f96)
+- [19 Best Practices for Automation Testing with Node.js](https://dev.to/lambdatest/19-best-practices-for-automation-testing-with-nodejs-47e7)
+- [💡 From Idea to Post: Meet the AI Agent That Writes Linkedin post for You💡](https://dev.to/lakhera2015/from-idea-to-post-meet-the-ai-agent-that-writes-linkedin-post-for-you-452m)
+- [A Deep Dive Into SeaTunnel&#39;s Thread Sharing Mechanism and Task Execution Model Optimization](https://dev.to/seatunnel/a-deep-dive-into-seatunnels-thread-sharing-mechanism-and-task-execution-model-optimization-1ejk)
+- [Razões e Proporções](https://dev.to/alsetchannel/razoes-e-proporcoes-1go2)
+- [5 Smart AI Tools That Supercharge Productivity](https://dev.to/sebastian_reid999/5-smart-ai-tools-that-supercharge-productivity-33gb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
