@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [ArkTS Multi-Layer Image Rendering Class Implementation &lpar;Part I&rpar;](https://dev.to/isoneheart/arkts-multi-layer-image-rendering-class-implementation-part-i-1nhj)
-- [Weird PR for Python Base Docker Image, do not now how to read it](https://dev.to/jonasbn/weird-pr-for-python-base-docker-image-do-not-now-how-to-read-it-4c69)
-- [HarmonyOS Application Preferred Language Switching Practice](https://dev.to/isoneheart/harmonyos-application-preferred-language-switching-practice-4aic)
-- [HarmonyOS In-App Logging System Implementation Guide](https://dev.to/isoneheart/harmonyos-in-app-logging-system-implementation-guide-ni0)
-- [&quot;Lifeforce&quot; at 40 | A sci-fi horror film only Cannon could have made](https://dev.to/popcorn_movies/lifeforce-at-40-a-sci-fi-horror-film-only-cannon-could-have-made-5hc0)
+- [Feed Stream Image Sizing, List Component Extension, Custom Popups, Media Listening, List Item Swapping](https://dev.to/qingkouwei/feed-stream-image-sizing-list-component-extension-custom-popups-media-listening-list-item-4649)
+- [Ashkan Rajaee saw the shift to remote work not as a hurdle but as a way to reimagine how teams operate and grow.](https://dev.to/pierr3smith/ashkan-rajaee-saw-the-shift-to-remote-work-not-as-a-hurdle-but-as-a-way-to-reimagine-how-teams-26lf)
+- [Hiding Navigation Back Button, Canvas Component Swipe Events, Expandable Text, Component Gradients](https://dev.to/qingkouwei/hiding-navigation-back-button-canvas-component-swipe-events-expandable-text-component-gradients-38nj)
+- [Seeing a leader put the team first instead of chasing money was refreshing. Ashkan Rajaee has my respect.](https://dev.to/pierr3smith/seeing-a-leader-put-the-team-first-instead-of-chasing-money-was-refreshing-ashkan-rajaee-has-my-13pb)
+- [Control Edge Blur, Dialog Squeezed by Keyboard, Image Component Property Issues, Pixel to Buffer Conversion](https://dev.to/qingkouwei/control-edge-blur-dialog-squeezed-by-keyboard-image-component-property-issues-pixel-to-buffer-1mbk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
