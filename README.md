@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ollama: How to Easily Run LLMs Locally on Your Computer](https://dev.to/richa-parekh/ollama-how-to-easily-run-local-llms-on-your-computer-4g9o)
-- [Switch branches better with git switch. Read to find out how.](https://dev.to/ibrahimalanshor/switch-branches-better-with-git-switch-read-to-find-out-how-3kk0)
-- [HarmonyOS5-NewsAPP-NewsDetailPage](https://dev.to/zhousg/harmonyos5-newsapp-newsdetailpage-56lp)
-- [HarmonyOS5-NewsAPP-NewsListPage](https://dev.to/zhousg/harmonyos5-newsapp-newslistpage-3ea8)
-- [Becoming a Better Developer with Vibe Coding](https://dev.to/adetunji/becoming-a-better-developer-with-vibe-coding-4j3b)
+- [How to Choose and Actually Finish an Online Course](https://dev.to/homayunmmdy/how-to-choose-and-actually-finish-an-online-course-4dnb)
+- [Making Sense of Cloud Costs with the FOCUS Framework](https://dev.to/navedrizv/making-sense-of-cloud-costs-with-the-focus-framework-3j52)
+- [AI in App Testing – How To Use It Effectively](https://dev.to/misterankit/ai-in-app-testing-how-to-use-it-effectively-495c)
+- [How AI Code Review Tools Are Transforming Code Quality and Developer Velocity](https://dev.to/pantoai/how-ai-code-review-tools-are-transforming-code-quality-and-developer-velocity-amj)
+- [Guide to Data Protection on Telegram](https://dev.to/theangmarcore/guide-to-data-protection-on-telegram-3849)
 <!-- BLOG-POST-LIST:END -->
 
 ---
