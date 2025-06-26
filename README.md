@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Anonymous Developer Who Fixed a Government System Overnight](https://dev.to/freezystock/the-anonymous-developer-who-fixed-a-government-system-overnight-6ie)
-- [# Secure the Future: Dive into Innovations in Digital Archiving](https://dev.to/mosininamdar/-secure-the-future-dive-into-innovations-in-digital-archiving-1b3e)
-- [Azure Fundamentals: Microsoft.VMware](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftvmware-5gpk)
-- [Why I Stopped Using SQL Queries for AI Workloads &lpar;and What Happened Next&rpar;](https://dev.to/e_b680bbca20c348/why-i-stopped-using-sql-queries-for-ai-workloads-and-what-happened-next-4lcj)
-- [Vibe Testing — An Intuition-Driven Approach with Genqe](https://dev.to/anil_csimplifyit_905c/vibe-testing-an-intuition-driven-approach-with-genqe-3ib7)
+- [Ollama: How to Easily Run LLMs Locally on Your Computer](https://dev.to/richa-parekh/ollama-how-to-easily-run-local-llms-on-your-computer-4g9o)
+- [Switch branches better with git switch. Read to find out how.](https://dev.to/ibrahimalanshor/switch-branches-better-with-git-switch-read-to-find-out-how-3kk0)
+- [HarmonyOS5-NewsAPP-NewsDetailPage](https://dev.to/zhousg/harmonyos5-newsapp-newsdetailpage-56lp)
+- [HarmonyOS5-NewsAPP-NewsListPage](https://dev.to/zhousg/harmonyos5-newsapp-newslistpage-3ea8)
+- [Becoming a Better Developer with Vibe Coding](https://dev.to/adetunji/becoming-a-better-developer-with-vibe-coding-4j3b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
