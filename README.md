@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Polling to Partying: Writing Cooler Goroutines with sync.Cond](https://dev.to/2nguyenlong000k/from-polling-to-partying-writing-cooler-goroutines-with-synccond-1ld8)
-- [From Web to Mobile in 30 Seconds: The Zero-Config PWA Revolution](https://dev.to/tony04031234/from-web-to-mobile-in-30-seconds-the-zero-config-pwa-revolution-8i0)
-- [support upload CH play when account terminated](https://dev.to/ceetran/support-upload-ch-play-when-account-terminated-k2g)
-- [Support upload app CH Play when old account has terminated](https://dev.to/ceetran/support-upload-app-ch-play-when-old-account-has-terminated-19nf)
-- [Rise of OpenJDK &amp; Oracle vs Others](https://dev.to/bsanju/rise-of-openjdk-oracle-vs-others-2aem)
+- [The Anonymous Developer Who Fixed a Government System Overnight](https://dev.to/freezystock/the-anonymous-developer-who-fixed-a-government-system-overnight-6ie)
+- [# Secure the Future: Dive into Innovations in Digital Archiving](https://dev.to/mosininamdar/-secure-the-future-dive-into-innovations-in-digital-archiving-1b3e)
+- [Azure Fundamentals: Microsoft.VMware](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftvmware-5gpk)
+- [Why I Stopped Using SQL Queries for AI Workloads &lpar;and What Happened Next&rpar;](https://dev.to/e_b680bbca20c348/why-i-stopped-using-sql-queries-for-ai-workloads-and-what-happened-next-4lcj)
+- [Vibe Testing — An Intuition-Driven Approach with Genqe](https://dev.to/anil_csimplifyit_905c/vibe-testing-an-intuition-driven-approach-with-genqe-3ib7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
