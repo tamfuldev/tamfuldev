@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [15 Go Packages Worth Your Time](https://dev.to/oyedeletemitope/15-go-packages-worth-your-time-3loj)
-- [10 das melhores placas de vídeo para programadores em 2025](https://dev.to/marcosplusplus/10-das-melhores-placas-de-video-para-programadores-em-2025-54d5)
-- [Top Vue Admin Templates on GitHub](https://dev.to/brijesh_dobariya/top-free-vue-admin-templates-on-github-34fe)
-- [Auto-Investing: How I Stopped Chasing the Perfect Entry Point](https://dev.to/cryptosandy/auto-investing-how-i-stopped-chasing-the-perfect-entry-point-5cj7)
-- [Beginning My Django Journey: A Dive into Version Control and Collaboration](https://dev.to/rinnahoyugi/beginning-my-django-journey-a-dive-into-version-control-and-collaboration-4jn7)
+- [Playwright: Using Cognito to Log In for Your E2E Tests](https://dev.to/r0nunes/playwright-using-cognito-to-log-in-for-your-e2e-tests-3ap7)
+- [Building REST APIs with FastAPI: A Comprehensive Guide](https://dev.to/gautammanak1/building-rest-apis-with-fastapi-a-comprehensive-guide-45f8)
+- [Variables-Java](https://dev.to/sri_raam_8a9025855753313a/variables-java-54ok)
+- [Paracetamol.ts💊| #37: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-37-explica-este-codigo-typescript-14h7)
+- [𝗪𝗵𝘆 𝗘𝗻𝘁𝗲𝗿𝗽𝗿𝗶𝘀𝗲𝘀 𝗧𝗵𝗶𝗻𝗸 𝗧𝘄𝗶𝗰𝗲 𝗕𝗲𝗳𝗼𝗿𝗲 𝗔𝗱𝗼𝗽𝘁𝗶𝗻𝗴 𝗢𝗿𝗮𝗰𝗹𝗲 𝗚𝗼𝗹𝗱𝗲𝗻𝗚𝗮𝘁𝗲: 𝗧𝗼𝗽 𝗣𝗮𝗶𝗻 𝗣𝗼𝗶𝗻𝘁𝘀 𝗥𝗲𝘃𝗲𝗮𝗹𝗲𝗱](https://dev.to/pokhraj_das_oracle/-lon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
