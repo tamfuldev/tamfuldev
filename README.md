@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🎉 Philly Teens: Join Us for Flourish – A Social Coding Jam This Saturday!](https://dev.to/anvitha_vemula_fc40f81502/philly-teens-join-us-for-flourish-a-social-coding-jam-this-saturday-4ja3)
-- [Comparativo Profundo: Selenium, Playwright, Cypress e TestCafe para Testes Automatizados Web](https://dev.to/ikauedev/comparativo-profundo-selenium-playwright-cypress-e-testcafe-para-testes-automatizados-web-2o5k)
-- [Developer eXperience &lpar;DX&rpar; and LGBTQIAPN+ people, my first paper &lpar;ICSE-SEIS&rpar;](https://dev.to/edwassouf/developer-experience-dx-and-lgbtqiapn-people-my-first-paper-icse-seis-1m6b)
-- [Analysis of the DORA 4 Keys from the Perspective of the Toyota Production System &lpar;TPS&rpar;](https://dev.to/sean2121/analysis-of-the-dora-4-keys-from-the-perspective-of-the-toyota-production-system-tps-791)
-- [[📝LeetCode #290] Word Pattern](https://dev.to/shine7on/leetcode-290-word-pattern-1aba)
+- [From Polling to Partying: Writing Cooler Goroutines with sync.Cond](https://dev.to/2nguyenlong000k/from-polling-to-partying-writing-cooler-goroutines-with-synccond-1ld8)
+- [From Web to Mobile in 30 Seconds: The Zero-Config PWA Revolution](https://dev.to/tony04031234/from-web-to-mobile-in-30-seconds-the-zero-config-pwa-revolution-8i0)
+- [support upload CH play when account terminated](https://dev.to/ceetran/support-upload-ch-play-when-account-terminated-k2g)
+- [Support upload app CH Play when old account has terminated](https://dev.to/ceetran/support-upload-app-ch-play-when-old-account-has-terminated-19nf)
+- [Rise of OpenJDK &amp; Oracle vs Others](https://dev.to/bsanju/rise-of-openjdk-oracle-vs-others-2aem)
 <!-- BLOG-POST-LIST:END -->
 
 ---
