@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Save a Word Document as a PDF: A Simple Step-by-Step Guide](https://dev.to/jennamitchell/how-to-save-a-word-document-as-a-pdf-a-simple-step-by-step-guide-1572)
-- [Google&#39;s Making a Huge Move! Gemini CLI is Open-Source + Free, and You&#39;re Still Using Claude Code?](https://dev.to/platypus98/googles-making-a-huge-move-gemini-cli-is-open-source-free-and-youre-still-using-claude-code-534)
-- [最近创建的demo和坑](https://dev.to/woodyxin/zui-jin-chuang-jian-de-demohe-keng-2kep)
-- [💎 Bespoke Opportunity Forge: AI-Powered Job Concierge 📬](https://dev.to/dev_99718084404de/bespoke-opportunity-forge-ai-powered-job-concierge-2j3o)
-- [DAY 14-DEPLOYING VIA GIT](https://dev.to/asran_2025/day-14-deploying-via-git-gpd)
+- [15 Go Packages Worth Your Time](https://dev.to/oyedeletemitope/15-go-packages-worth-your-time-3loj)
+- [10 das melhores placas de vídeo para programadores em 2025](https://dev.to/marcosplusplus/10-das-melhores-placas-de-video-para-programadores-em-2025-54d5)
+- [Top Vue Admin Templates on GitHub](https://dev.to/brijesh_dobariya/top-free-vue-admin-templates-on-github-34fe)
+- [Auto-Investing: How I Stopped Chasing the Perfect Entry Point](https://dev.to/cryptosandy/auto-investing-how-i-stopped-chasing-the-perfect-entry-point-5cj7)
+- [Beginning My Django Journey: A Dive into Version Control and Collaboration](https://dev.to/rinnahoyugi/beginning-my-django-journey-a-dive-into-version-control-and-collaboration-4jn7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
