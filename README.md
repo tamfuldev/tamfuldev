@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🐳Longest Subsequence Repeated k Times – LeetCode 2014 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/longest-subsequence-repeated-k-times-leetcode-2014-c-python-javascript-9e3)
-- [Why Software Testing Matters: A Developer&#39;s Perspective](https://dev.to/megha_m_3acdfe3f62da7873f/why-software-testing-matters-a-developers-perspective-3599)
-- [in which aspects does DINOv2 improve DINO?](https://dev.to/henri_wang_d48b1e9bc1ea79/in-which-aspects-does-dinov2-improve-dino-1j6j)
-- [Azure Fundamentals: Microsoft.VMwareCloudSimple](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftvmwarecloudsimple-2ojn)
-- [The Illusion of Intelligence](https://dev.to/sonmusui/the-illusion-of-intelligence-2e6)
+- [🚀 I Built CutClip: Instantly Cut Viral Clips from YouTube Videos on macOS](https://dev.to/moinulmoin/i-built-cutclip-instantly-cut-viral-clips-from-youtube-videos-on-macos-3k54)
+- [Arrays](https://dev.to/bharad_s/arrays-5286)
+- [How to Create an AWS EC2 Instance: Beginner’s Guide to Cloud Hosting](https://dev.to/aiferrydermawan/how-to-create-an-aws-ec2-instance-beginners-guide-to-cloud-hosting-51a0)
+- [🌱 Spring vs Spring Boot – Explained Simply for Everyone](https://dev.to/dev_shubham/spring-vs-spring-boot-explained-simply-for-everyone-5c5l)
+- [My take on Go-To-Market &lpar;GTM&rpar;?](https://dev.to/sonmusui/my-take-on-go-to-market-gtm-4plj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
