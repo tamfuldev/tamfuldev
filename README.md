@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Dynamic Color Changer using HTML, CSS &amp; JavaScript 🎨 &lpar;Beginner Project&rpar;](https://dev.to/alizehcodes/build-a-dynamic-color-changer-using-html-css-javascript-beginner-project-56ka)
-- [The Ultimate Guide to Creating Viral AI Vlogs in 2025](https://dev.to/koolkamalkishor/-the-ultimate-guide-to-creating-viral-ai-vlogs-in-2025-2jbb)
-- [How to Get Yesterday’s Date in JavaScript](https://dev.to/kiani0x01/how-to-get-yesterdays-date-in-javascript-2f84)
-- [Mastering JavaScript forEach: A Developer&#39;s Guide](https://dev.to/kiani0x01/mastering-javascript-foreach-a-developers-guide-2agg)
-- [Understanding JavaScript reduce](https://dev.to/kiani0x01/understanding-javascript-reduce-2784)
+- [SSO Security Exposed: Real-World Attack Scenarios in 2025](https://dev.to/smdefencerabbit/sso-security-exposed-real-world-attack-scenarios-in-2025-2fo1)
+- [AI Won’t Replace You — But It Will Move You](https://dev.to/javaskr/ai-wont-replace-you-but-it-will-move-you-12nd)
+- [Here’s how i break down what job listings really mean](https://dev.to/thetechpreneur/heres-how-i-break-down-what-job-listings-really-mean-5blg)
+- [When You Lack Motivation, Do Something You “Shouldn’t Be Doing” Instead &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/when-you-lack-motivation-do-something-you-shouldnt-be-doing-instead-bite-size-article-17f)
+- [Automating App Version Update With Github Actions and Slack](https://dev.to/zach0811/automating-app-version-update-with-github-actions-and-slack-5h49)
 <!-- BLOG-POST-LIST:END -->
 
 ---
