@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 I Built CutClip: Instantly Cut Viral Clips from YouTube Videos on macOS](https://dev.to/moinulmoin/i-built-cutclip-instantly-cut-viral-clips-from-youtube-videos-on-macos-3k54)
-- [Arrays](https://dev.to/bharad_s/arrays-5286)
-- [How to Create an AWS EC2 Instance: Beginner’s Guide to Cloud Hosting](https://dev.to/aiferrydermawan/how-to-create-an-aws-ec2-instance-beginners-guide-to-cloud-hosting-51a0)
-- [🌱 Spring vs Spring Boot – Explained Simply for Everyone](https://dev.to/dev_shubham/spring-vs-spring-boot-explained-simply-for-everyone-5c5l)
-- [My take on Go-To-Market &lpar;GTM&rpar;?](https://dev.to/sonmusui/my-take-on-go-to-market-gtm-4plj)
+- [Things Every JavaScript Engineer Knows—But Needs to Hear Again](https://dev.to/urbanisierung/things-every-javascript-engineer-knows-but-needs-to-hear-again-504b)
+- [Why Your Deadlines Are Wrong: Evidence-Based Estimation for Developers](https://dev.to/teamcamp/why-your-deadlines-are-wrong-evidence-based-estimation-for-developers-110d)
+- [Windows Logging For SOC | TryHackMe](https://dev.to/dhwanit25/windows-logging-for-soc-tryhackme-4de1)
+- [Enterprise Growth with Data Annotation: The Unsung Hero of AI at Scale](https://dev.to/priyansh_shah_786ec03624e/enterprise-growth-with-data-annotation-the-unsung-hero-of-ai-at-scale-543i)
+- [⚠️ What Happens to Your AWS RDS Instances After Account Suspension? Author: Naami Ahmed](https://dev.to/naamiahmed/what-happens-to-your-aws-rds-instances-after-account-suspensionauthor-naami-ahmed-456c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
