@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Care Without a Pulse](https://dev.to/rawveg/care-without-a-pulse-4nid)
-- [Prompting Pixels: How Amazon Q Powered My Asteroids Homage](https://dev.to/farrukhkhalid/prompting-pixels-how-amazon-q-powered-my-asteroids-homage-2alp)
-- [Is JavaScript Fatigue Still a Real Thing in 2025?](https://dev.to/h_abbasi_02bdbc5b9bd/is-javascript-fatigue-still-a-real-thing-in-2025-3jom)
-- [Go Project Scaffolding Guide: A Choice That Earned My Team&#39;s Rave Reviews](https://dev.to/zhufuyi/go-project-scaffolding-guide-a-choice-that-earned-my-teams-rave-reviews-i03)
-- [AI Agent Architecture and the Autonomous Enterprise](https://dev.to/kapusto/ai-agent-architecture-and-the-autonomous-enterprise-215n)
+- [The Googly way of Making AI Agents](https://dev.to/splintersword/the-googly-way-of-making-ai-agents-4g9l)
+- [I Built an ML-Powered War Prediction App with Python &amp; Streamlit – Here&#39;s How It Works](https://dev.to/naveen_kumar_64b131ab0bca/i-built-an-ml-powered-war-prediction-app-with-python-streamlit-heres-how-it-works-3d24)
+- [How to Enable Claude 3 Sonnet in Amazon Bedrock Console](https://dev.to/jajera/how-to-enable-claude-3-sonnet-in-amazon-bedrock-console-4jd6)
+- [Building a Laravel Blog with ChatGPT Codex](https://dev.to/blamsa0mine/building-a-laravel-blog-with-chatgpt-codex-4fdk)
+- [Building a Super Mario-Style Platformer Game with Amazon Q Developer](https://dev.to/pawansharmaggc/building-a-super-mario-style-platformer-game-with-amazon-q-developer-5b35)
 <!-- BLOG-POST-LIST:END -->
 
 ---
