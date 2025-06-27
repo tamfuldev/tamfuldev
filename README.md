@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Supercharging Entity Framework Core: Efficient Bulk Inserts Without Loops or Raw SQL](https://dev.to/davinceleecode/supercharging-entity-framework-core-efficient-bulk-inserts-without-loops-or-raw-sql-1356)
-- [Untitle](https://dev.to/rober2184/untitle-5egm)
-- [Without a Native Operating System, Decentralized AI Cannot Exist — This Is Why SeaOS Was Born](https://dev.to/seaos_ai/without-a-native-operating-system-decentralized-ai-cannot-exist-this-is-why-seaos-was-born-pl7)
-- [Implementing an Exam Timer in HarmonyOS Next](https://dev.to/flfljh/implementing-an-exam-timer-in-harmonyos-next-2kif)
-- [Implementing Responsive Tab Bar in HarmonyOS Next](https://dev.to/flfljh/implementing-responsive-tab-bar-in-harmonyos-next-mf5)
+- [🐳Longest Subsequence Repeated k Times – LeetCode 2014 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/longest-subsequence-repeated-k-times-leetcode-2014-c-python-javascript-9e3)
+- [Why Software Testing Matters: A Developer&#39;s Perspective](https://dev.to/megha_m_3acdfe3f62da7873f/why-software-testing-matters-a-developers-perspective-3599)
+- [in which aspects does DINOv2 improve DINO?](https://dev.to/henri_wang_d48b1e9bc1ea79/in-which-aspects-does-dinov2-improve-dino-1j6j)
+- [Azure Fundamentals: Microsoft.VMwareCloudSimple](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftvmwarecloudsimple-2ojn)
+- [The Illusion of Intelligence](https://dev.to/sonmusui/the-illusion-of-intelligence-2e6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
