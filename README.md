@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Working at a Café Can Supercharge Your Productivity as a Developer](https://dev.to/satyabrata_dd224dce47e7bc/why-working-at-a-cafe-can-supercharge-your-productivity-as-a-developer-5606)
-- [A very good read on CRP and how to optimize it.](https://dev.to/javascriptwizzard/a-very-good-read-on-crp-and-how-to-optimize-it-1g47)
-- [🚀 5 Must-Know Modern JavaScript Tips for Cleaner Code](https://dev.to/mdshijanali/5-must-know-modern-javascript-tips-for-cleaner-code-3fom)
-- [Inside the Critical Rendering Path: What Your Browser Is Really Doing](https://dev.to/abhinavshinoy90/inside-the-critical-rendering-path-what-your-browser-is-really-doing-15mp)
-- [Save Smarter: Introducing Cost-Saving Pause Mode for Your ClawCloud Run DevBox!](https://dev.to/clawcloudrun/save-smarter-introducing-cost-saving-pause-mode-for-your-clawcloud-run-devbox-25ic)
+- [💡 What is Hoisting in JavaScript? | Explained with Examples &amp; Visuals](https://dev.to/webtechnology_tutorials_f/what-is-hoisting-in-javascript-explained-with-examples-visuals-4loe)
+- [SwiftUI Component Architecture Mastery: Generic Components &amp; Advanced State Management &lpar;2025&rpar;](https://dev.to/swift_pal/swiftui-component-architecture-mastery-generic-components-advanced-state-management-2025-4ok)
+- [From Trending Topics to Published Posts in Minutes—All with AI – Suhaib Bin Younis](https://dev.to/suhaibbinyounis/from-trending-topics-to-published-posts-in-minutes-all-with-ai-suhaib-bin-younis-o7i)
+- [Mind and Medicine: How Psychiatry and Primary Care Work Together](https://dev.to/thehealinghead2toe/mind-and-medicine-how-psychiatry-and-primary-care-work-together-4ne4)
+- [How to Make a Vue Component Work with v-model](https://dev.to/ibrahimalanshor/how-to-make-a-vue-component-work-with-v-model-5h2a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
