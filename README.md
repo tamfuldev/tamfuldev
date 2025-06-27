@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Learns to Blackmail? : Anthropic&#39;s Research](https://dev.to/grenishrai/claude-learns-to-blackmail-anthropics-research-mhf)
-- [Automating Vault Installation with Ansible on Ubuntu](https://dev.to/lovestaco/automating-vault-installation-with-ansible-on-ubuntu-3k3i)
-- [A Personal Portfolio you must try !](https://dev.to/msranjana/a-personal-portfolio-you-must-try--jdj)
-- [From Beginner to Clean Coder: A Junior Developer&#39;s Journey](https://dev.to/devcorner/from-beginner-to-clean-coder-a-junior-developers-journey-17b5)
-- [AI-Powered API Testing in Minutes using Keploy Chrome Extension 🚀](https://dev.to/imishangrover/i-powered-api-testing-in-minutes-using-keploy-chrome-extension-17p9)
+- [Build a Dynamic Color Changer using HTML, CSS &amp; JavaScript 🎨 &lpar;Beginner Project&rpar;](https://dev.to/alizehcodes/build-a-dynamic-color-changer-using-html-css-javascript-beginner-project-56ka)
+- [The Ultimate Guide to Creating Viral AI Vlogs in 2025](https://dev.to/koolkamalkishor/-the-ultimate-guide-to-creating-viral-ai-vlogs-in-2025-2jbb)
+- [How to Get Yesterday’s Date in JavaScript](https://dev.to/kiani0x01/how-to-get-yesterdays-date-in-javascript-2f84)
+- [Mastering JavaScript forEach: A Developer&#39;s Guide](https://dev.to/kiani0x01/mastering-javascript-foreach-a-developers-guide-2agg)
+- [Understanding JavaScript reduce](https://dev.to/kiani0x01/understanding-javascript-reduce-2784)
 <!-- BLOG-POST-LIST:END -->
 
 ---
