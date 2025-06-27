@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Juris.js: Non-Blocking Rendering: The Game-Changer in Modern Web Development](https://dev.to/lynphp/jurisjs-non-blocking-rendering-the-game-changer-in-modern-web-development-39bm)
-- [🎬🚀 Dive Into the AquaScript Movies Challenge — Show Off Your Frontend Superpowers! ⚡️💻](https://dev.to/hanzla-baig/dive-into-the-aquascript-movies-challenge-show-off-your-frontend-superpowers-5a2n)
-- [Building a React Task Manager with Gemini CLI: A Developer&#39;&#39;s Story](https://dev.to/blamsa0mine/building-a-react-task-manager-with-gemini-cli-a-developers-story-1i37)
-- [Secure Your React Native App with Firebase App Check and reCAPTCHA](https://dev.to/djamware_tutorial_eba1a61/secure-your-react-native-app-with-firebase-app-check-and-recaptcha-3kjf)
-- [10 Factors To Know Regarding Guttering Maintenance You Didn&#39;t Learn In The Classroom](https://dev.to/subwaysandra63/10-factors-to-know-regarding-guttering-maintenance-you-didnt-learn-in-the-classroom-552j)
+- [Great to see someone talking about funnel structure with real expertise and clarity.](https://dev.to/noahboswel79/great-to-see-someone-talking-about-funnel-structure-with-real-expertise-and-clarity-lfa)
+- [Migration to a Safe and Affordable Country: A Smart Step Towards Building a Better Future](https://dev.to/sobati_5e12d6a6f6e3663f98/migration-to-a-safe-and-affordable-country-a-smart-step-towards-building-a-better-future-2c9i)
+- [We use a lot of programming languages at Fermyon -- TypeScript, Go, Rust, Python.... But for the core tooling, we chose Rust. Here&#39;s why.](https://dev.to/technosophos/we-use-a-lot-of-programming-languages-at-fermyon-typescript-go-rust-python-but-for-the-lco)
+- [Introducing Batch Transactions on the XRP Ledger: More Opportunities, Less Friction](https://dev.to/ripplexdev/introducing-batch-transactions-on-the-xrp-ledger-more-opportunities-less-friction-50h5)
+- [How your experience to Build your website with AI](https://dev.to/muhammad_moaz_7e4cf9fae1f/how-your-experience-to-build-your-website-with-ai-3aei)
 <!-- BLOG-POST-LIST:END -->
 
 ---
