@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Refactor Your Soul Like Legacy Code: A Stoic Developer&#39;s Guide to Inner Clarity](https://dev.to/tonystpierre/refactor-your-soul-like-legacy-code-a-stoic-developers-guide-to-inner-clarity-2eb6)
-- [From expected to actual: Kotlin doesn&#39;t reinvent, it reuses 🔄](https://dev.to/romaa_dev/from-expected-to-actual-kotlin-doesnt-reinvent-it-reuses-304j)
-- [The Morning I Realised I&#39;d Built Something Bigger Than Myself](https://dev.to/revisepdf/the-morning-i-realised-id-built-something-bigger-than-myself-1p23)
-- [SSIS tutorial: Connecto to SFTP](https://dev.to/zappysys/ssis-tutorial-connecto-to-sftp-6f9)
-- [Razorpay-Clone](https://dev.to/amarjeetjyotish/razorpay-clone-4i5o)
+- [Supercharging Entity Framework Core: Efficient Bulk Inserts Without Loops or Raw SQL](https://dev.to/davinceleecode/supercharging-entity-framework-core-efficient-bulk-inserts-without-loops-or-raw-sql-1356)
+- [Untitle](https://dev.to/rober2184/untitle-5egm)
+- [Without a Native Operating System, Decentralized AI Cannot Exist — This Is Why SeaOS Was Born](https://dev.to/seaos_ai/without-a-native-operating-system-decentralized-ai-cannot-exist-this-is-why-seaos-was-born-pl7)
+- [Implementing an Exam Timer in HarmonyOS Next](https://dev.to/flfljh/implementing-an-exam-timer-in-harmonyos-next-2kif)
+- [Implementing Responsive Tab Bar in HarmonyOS Next](https://dev.to/flfljh/implementing-responsive-tab-bar-in-harmonyos-next-mf5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
