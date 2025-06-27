@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Googly way of Making AI Agents](https://dev.to/splintersword/the-googly-way-of-making-ai-agents-4g9l)
-- [I Built an ML-Powered War Prediction App with Python &amp; Streamlit – Here&#39;s How It Works](https://dev.to/naveen_kumar_64b131ab0bca/i-built-an-ml-powered-war-prediction-app-with-python-streamlit-heres-how-it-works-3d24)
-- [How to Enable Claude 3 Sonnet in Amazon Bedrock Console](https://dev.to/jajera/how-to-enable-claude-3-sonnet-in-amazon-bedrock-console-4jd6)
-- [Building a Laravel Blog with ChatGPT Codex](https://dev.to/blamsa0mine/building-a-laravel-blog-with-chatgpt-codex-4fdk)
-- [Building a Super Mario-Style Platformer Game with Amazon Q Developer](https://dev.to/pawansharmaggc/building-a-super-mario-style-platformer-game-with-amazon-q-developer-5b35)
+- [The Human Side of Vue.js: How Learning Vue Changes Your Life as a Developer](https://dev.to/eleftheriabatsou/the-human-side-of-vuejs-how-learning-vue-changes-your-life-as-a-developer-1dij)
+- [This Week In React #240: Radix, shadcn/ui, Next.js, Apollo, Vercel, Recharts | Skia, WebGPU, Radon IDE...](https://dev.to/sebastienlorber/this-week-in-react-240-radix-shadcnui-nextjs-apollo-vercel-recharts-skia-webgpu-radon-305e)
+- [What&#39;s the First DevOps Tool You’d Ditch if You Had To?](https://dev.to/devopsdaily/whats-the-first-devops-tool-youd-ditch-if-you-had-to-1lf9)
+- [Why Vue.js is a Great Starting Point for New Coders](https://dev.to/eleftheriabatsou/why-vuejs-is-a-great-starting-point-for-new-coders-8l6)
+- [🚀 Production-Ready: 6 Advanced Fixes for Your LLMService Class 🚀](https://dev.to/mrzaizai2k/advanced-techniques-to-supercharge-your-llmservice-1i40)
 <!-- BLOG-POST-LIST:END -->
 
 ---
