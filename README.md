@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What Makes a Project Management Tool Truly Work for Modern Teams](https://dev.to/parizad/what-makes-a-project-management-tool-truly-work-for-modern-teams-4ln2)
-- [Web Application Security Input Protection Common（1751108282582500）](https://dev.to/member_9f9a54c5/web-application-security-input-protection-common1751108282582500-68c)
-- [Embrace the Default: Let HTML and CSS Do the Work](https://dev.to/treagod/embrace-the-default-let-html-and-css-do-the-work-ejp)
-- [Announcing Sniffnet v1.4: introduced PCAP files import — it’s 2X faster than Wireshark!](https://dev.to/gyulyvgc/announcing-sniffnet-v14-introduced-pcap-files-import-its-2x-faster-than-wireshark-476l)
-- [I Needed Clean Exchange Rate Data, So I Built My Own API](https://dev.to/steven_777d5fbebbc30a9384/i-needed-clean-exchange-rate-data-so-i-built-my-own-api-1bap)
+- [Set, Get, and Don&#39;t Fret with JSON](https://dev.to/intersystems/set-get-and-dont-fret-with-json-2d97)
+- [Popup Issues, Transparent Background Setting, any Type Problem, Combination Gestures for Swipe and Drag](https://dev.to/qingkouwei/popup-issues-transparent-background-setting-any-type-problem-combination-gestures-for-swipe-and-3e16)
+- [Cursor BugBot vs Entelligence](https://dev.to/entelligenceai/cursor-bugbot-vs-entelligence-37d9)
+- [Screenshot Prevention, Scope Issues, Observer Problems, Dialog Closure, Object Field Check](https://dev.to/qingkouwei/screenshot-prevention-scope-issues-observer-problems-dialog-closure-object-field-check-2cd2)
+- [Page Reference Issues, JSON Third-party Libraries, Routing Table Usage, Pull-to-Refresh Problems, Video Playback Errors](https://dev.to/qingkouwei/page-reference-issues-json-third-party-libraries-routing-table-usage-pull-to-refresh-problems-59kh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
