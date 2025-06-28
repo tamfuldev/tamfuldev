@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Set, Get, and Don&#39;t Fret with JSON](https://dev.to/intersystems/set-get-and-dont-fret-with-json-2d97)
-- [Popup Issues, Transparent Background Setting, any Type Problem, Combination Gestures for Swipe and Drag](https://dev.to/qingkouwei/popup-issues-transparent-background-setting-any-type-problem-combination-gestures-for-swipe-and-3e16)
-- [Cursor BugBot vs Entelligence](https://dev.to/entelligenceai/cursor-bugbot-vs-entelligence-37d9)
-- [Screenshot Prevention, Scope Issues, Observer Problems, Dialog Closure, Object Field Check](https://dev.to/qingkouwei/screenshot-prevention-scope-issues-observer-problems-dialog-closure-object-field-check-2cd2)
-- [Page Reference Issues, JSON Third-party Libraries, Routing Table Usage, Pull-to-Refresh Problems, Video Playback Errors](https://dev.to/qingkouwei/page-reference-issues-json-third-party-libraries-routing-table-usage-pull-to-refresh-problems-59kh)
+- [Chrome Extension for Summarizing YouTube Videos with AI](https://dev.to/ibrahimkamal/chrome-extension-for-summarizing-youtube-videos-with-ai-3mml)
+- [Basic Looping Statements using while loop,for loop](https://dev.to/dinesh_nagarajan_7f102d3e/basic-looping-statements-using-while-loopfor-loop-4d57)
+- [Beyond async/await: 10 Advanced JS/TS Techniques Senior Engineers Use](https://dev.to/vishad_patel_f54e007e16e5/beyond-asyncawait-10-advanced-jsts-techniques-senior-engineers-use-h8f)
+- [Long meetings are a problem, but not THE PROBLEM](https://dev.to/rally_for_jira/long-meetings-are-a-problem-but-not-the-problem-3kh4)
+- [VoiceMorph](https://dev.to/sravani_08_59daa4b94d4dcf/voicemorph-391g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
