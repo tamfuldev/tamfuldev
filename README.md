@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Chrome Extension for Summarizing YouTube Videos with AI](https://dev.to/ibrahimkamal/chrome-extension-for-summarizing-youtube-videos-with-ai-3mml)
-- [Basic Looping Statements using while loop,for loop](https://dev.to/dinesh_nagarajan_7f102d3e/basic-looping-statements-using-while-loopfor-loop-4d57)
-- [Beyond async/await: 10 Advanced JS/TS Techniques Senior Engineers Use](https://dev.to/vishad_patel_f54e007e16e5/beyond-asyncawait-10-advanced-jsts-techniques-senior-engineers-use-h8f)
-- [Long meetings are a problem, but not THE PROBLEM](https://dev.to/rally_for_jira/long-meetings-are-a-problem-but-not-the-problem-3kh4)
-- [VoiceMorph](https://dev.to/sravani_08_59daa4b94d4dcf/voicemorph-391g)
+- [Angular Image Optimization: Lazy Loading and Beyond](https://dev.to/hardik_b2d8f0bca/angular-image-optimization-lazy-loading-and-beyond-he7)
+- [Python Trending Weekly #108：Will AI Replace Junior Developers?](https://dev.to/pythoncat/python-trending-weekly-108will-ai-replace-junior-developers-258e)
+- [Beyond Speed: A Smarter Framework for Measuring AI Developer Efficiency](https://dev.to/_vjk/beyond-speed-a-smarter-framework-for-measuring-ai-developer-efficiency-1bil)
+- [The Leaderboard Illusion: Is Your Model Smart or Just Well-Studied?](https://dev.to/mhamadelitawi/the-leaderboard-illusion-is-your-model-smart-or-just-well-studied-1ndo)
+- [ZewpolOS 2.2](https://dev.to/zako_mako_9a4826822204c78/zewpolos-22-1i6k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
