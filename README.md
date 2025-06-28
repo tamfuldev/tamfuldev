@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🌍 Build My Own Telegram Translator Bot with Python](https://dev.to/jeancarje/build-my-own-telegram-translator-bot-with-python-23n7)
-- [How I Created Keppli Finance: An AI-Driven App That Transforms Personal Money](https://dev.to/reliek21/how-i-created-keppli-finance-an-ai-driven-app-that-transforms-personal-money-2lik)
-- [Designing APIs for Scale -Lessons from Building Systems Handling 10M+ Requests](https://dev.to/ramya_boorugula_b92d0867b/designing-apis-for-scale-lessons-from-building-systems-handling-10m-requests-259o)
-- [Did it afraid CONSISTENCY CLARITY GROWTH](https://dev.to/chihurumnanyan/did-it-afraidconsistency-clarity-growth-394o)
-- [I Was Tired of Manually Tracking My GitHub Repos](https://dev.to/phuc/i-was-tired-of-manually-tracking-my-github-repos-3b67)
+- [Azure Fundamentals: Microsoft.VSOnline](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftvsonline-2m2d)
+- [HarmonyOS Development: Application on Shelf Part II, Application for Issued Certificate](https://dev.to/abnerming888/harmonyos-development-application-on-shelf-part-ii-application-for-issued-certificate-4pcp)
+- [From Jupyter to Production: Operationalizing ML Models at Scale](https://dev.to/ramya_boorugula_eb8dcdbbc/from-jupyter-to-production-operationalizing-ml-models-at-scale-1de3)
+- [FastAPI: A Python Web Framework for NodeJS Developers](https://dev.to/raffycastillo/fastapi-a-python-web-framework-for-nodejs-developers-4klj)
+- [GCP Fundamentals: Data Labeling API](https://dev.to/devopsfundamentals/gcp-fundamentals-data-labeling-api-5a6a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
