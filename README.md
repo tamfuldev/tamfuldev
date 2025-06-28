@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How to use python pixi with ruff in vscode?](https://dev.to/nl_p_/how-to-use-python-pixi-with-ruff-in-vscode-15bc)
+- [HarmonyOS Development: I made a detailed summary of this interview.](https://dev.to/abnerming888/harmonyos-development-i-made-a-detailed-summary-of-this-interview-241f)
+- [Umemura Farm Website – Devlog #19: Organizing the Directory Before Building Seasonal Pages](https://dev.to/ri_ki_251ca3db361b527f552/umemura-farm-website-devlog-19-organizing-the-directory-before-building-seasonal-pages-2kan)
+- [HarmonyOS development: code generation in DevEcoStudio](https://dev.to/abnerming888/harmonyos-development-code-generation-in-devecostudio-2po2)
 - [Azure Fundamentals: Microsoft.VSOnline](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftvsonline-2m2d)
-- [HarmonyOS Development: Application on Shelf Part II, Application for Issued Certificate](https://dev.to/abnerming888/harmonyos-development-application-on-shelf-part-ii-application-for-issued-certificate-4pcp)
-- [From Jupyter to Production: Operationalizing ML Models at Scale](https://dev.to/ramya_boorugula_eb8dcdbbc/from-jupyter-to-production-operationalizing-ml-models-at-scale-1de3)
-- [FastAPI: A Python Web Framework for NodeJS Developers](https://dev.to/raffycastillo/fastapi-a-python-web-framework-for-nodejs-developers-4klj)
-- [GCP Fundamentals: Data Labeling API](https://dev.to/devopsfundamentals/gcp-fundamentals-data-labeling-api-5a6a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
