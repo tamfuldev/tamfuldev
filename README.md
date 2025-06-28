@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [please who can help me on a project of c?? using the library gtk on ubuntu ??](https://dev.to/lyrian_nono_ada48afd39cac/please-who-can-help-me-on-a-project-of-c-using-the-library-gtk-on-ubuntu--3k75)
-- [A Beginner Guide to LLM Prompts](https://dev.to/corpcubite/prompt-engineering-in-ai-a-beginner-guide-to-llm-prompts-read-the-full-article-39dg)
-- [Secure D365 Like a Pro: Automate Access Requests with Canvas App + Teams Approvals](https://dev.to/nikhildynamicsce/secure-d365-like-a-pro-automate-access-requests-with-canvas-app-teams-approvals-58al)
-- [iOS Development Democratized: Create Objective-C Apps with Simple Commands](https://dev.to/atforeveryoung/ios-development-democratized-create-objective-c-apps-with-simple-commands-4lf6)
-- [Automating Real-Time API Tests with Keploy — A Hands-On Experience with Weather &amp; Zomato API](https://dev.to/prakhar_singh_239d95d9c72/automating-real-time-api-tests-with-keploy-a-hands-on-experience-with-weather-zomato-api-2e8j)
+- [🌍 Build My Own Telegram Translator Bot with Python](https://dev.to/jeancarje/build-my-own-telegram-translator-bot-with-python-23n7)
+- [How I Created Keppli Finance: An AI-Driven App That Transforms Personal Money](https://dev.to/reliek21/how-i-created-keppli-finance-an-ai-driven-app-that-transforms-personal-money-2lik)
+- [Designing APIs for Scale -Lessons from Building Systems Handling 10M+ Requests](https://dev.to/ramya_boorugula_b92d0867b/designing-apis-for-scale-lessons-from-building-systems-handling-10m-requests-259o)
+- [Did it afraid CONSISTENCY CLARITY GROWTH](https://dev.to/chihurumnanyan/did-it-afraidconsistency-clarity-growth-394o)
+- [I Was Tired of Manually Tracking My GitHub Repos](https://dev.to/phuc/i-was-tired-of-manually-tracking-my-github-repos-3b67)
 <!-- BLOG-POST-LIST:END -->
 
 ---
