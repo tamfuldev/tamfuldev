@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Imitation Hema - Choose Coupon &lpar;59&rpar;](https://dev.to/whl15290959515/imitation-hema-choose-coupon-59-74p)
-- [Memory management with Flyweight Design Pattern](https://dev.to/shirin_monzavi_f3d63ff99d/memory-management-with-flyweight-design-pattern-1hf3)
-- [Imitation Hema - Get Coupons &lpar;56&rpar;](https://dev.to/whl15290959515/imitation-hema-get-coupons-56-3faf)
-- [Imitation Box Horse - Safety Lock Verification &lpar;55&rpar;](https://dev.to/whl15290959515/imitation-box-horse-safety-lock-verification-55-50ig)
-- [Imitation Box Horse - Retrieval and Withdrawal Record Query &lpar;54&rpar;](https://dev.to/whl15290959515/imitation-box-horse-retrieval-and-withdrawal-record-query-54-lhd)
+- [who want to vibe together](https://dev.to/open_efficiency/who-want-to-vibe-together-1nik)
+- [Dynamic Imports](https://dev.to/jay818/dynamic-imports-15i6)
+- [Deploy a TypeScript Node.js App to Vercel using Vercel CLI](https://dev.to/alifa_ara_heya/deploy-a-typescript-nodejs-app-to-vercel-using-vercel-cli-1oph)
+- [Tech Layoffs Continue Amid AI Shift: A Deep Dive into the Changing Landscape of Employment](https://dev.to/archil_gajera/tech-layoffs-continue-amid-ai-shift-a-deep-dive-into-the-changing-landscape-of-employment-383l)
+- [🚀 10 Modern JavaScript Features Every Developer Should Know](https://dev.to/david_emmanuelg/10-modern-javascript-features-every-developer-should-know-1h53)
 <!-- BLOG-POST-LIST:END -->
 
 ---
