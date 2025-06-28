@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to use python pixi with ruff in vscode?](https://dev.to/nl_p_/how-to-use-python-pixi-with-ruff-in-vscode-15bc)
-- [HarmonyOS Development: I made a detailed summary of this interview.](https://dev.to/abnerming888/harmonyos-development-i-made-a-detailed-summary-of-this-interview-241f)
-- [Umemura Farm Website – Devlog #19: Organizing the Directory Before Building Seasonal Pages](https://dev.to/ri_ki_251ca3db361b527f552/umemura-farm-website-devlog-19-organizing-the-directory-before-building-seasonal-pages-2kan)
-- [HarmonyOS development: code generation in DevEcoStudio](https://dev.to/abnerming888/harmonyos-development-code-generation-in-devecostudio-2po2)
-- [Azure Fundamentals: Microsoft.VSOnline](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftvsonline-2m2d)
+- [The 20-Minute Daily Review That Tripled My Code Quality &lpar;Git Data Proof&rpar;](https://dev.to/teamcamp/the-20-minute-daily-review-that-tripled-my-code-quality-git-data-proof-1b6g)
+- [The AI Revolution Is Here What It Means for Your Future](https://dev.to/user_12_16fa9736579e6bcec/the-ai-revolution-is-here-what-it-means-for-your-future-291l)
+- [How to Deploy a Laravel Application to a VPS: Complete Step-by-Step Guide](https://dev.to/aiferrydermawan/how-to-deploy-a-laravel-application-to-a-vps-complete-step-by-step-guide-3ba1)
+- [Free Self-Host AI Agent Workflows with n8n and Cloudflare Tunnel](https://dev.to/dalenguyen/free-self-host-ai-agent-workflows-with-n8n-and-cloudflare-tunnel-2bff)
+- [RAMS Emergencia: la app panameña que automatiza el auxilio, protege a los rescatistas y responde incluso sin internet.](https://dev.to/abel_rosmel_ca056b/rams-emergencia-la-app-panamena-que-automatiza-el-auxilio-protege-a-los-rescatistas-y-responde-54hk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
