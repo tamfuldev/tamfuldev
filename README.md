@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [who want to vibe together](https://dev.to/open_efficiency/who-want-to-vibe-together-1nik)
-- [Dynamic Imports](https://dev.to/jay818/dynamic-imports-15i6)
-- [Deploy a TypeScript Node.js App to Vercel using Vercel CLI](https://dev.to/alifa_ara_heya/deploy-a-typescript-nodejs-app-to-vercel-using-vercel-cli-1oph)
-- [Tech Layoffs Continue Amid AI Shift: A Deep Dive into the Changing Landscape of Employment](https://dev.to/archil_gajera/tech-layoffs-continue-amid-ai-shift-a-deep-dive-into-the-changing-landscape-of-employment-383l)
-- [🚀 10 Modern JavaScript Features Every Developer Should Know](https://dev.to/david_emmanuelg/10-modern-javascript-features-every-developer-should-know-1h53)
+- [Redis for Maps and Locations: Understanding Geospatial Indexing](https://dev.to/rijultp/redis-for-maps-and-locations-understanding-geospatial-indexing-12ig)
+- [[Boost]](https://dev.to/rakeshv675/-46go)
+- [SpeakUp AI — Master Professional Communication with AI](https://dev.to/hateem_ansari_/speakup-ai-master-professional-communication-with-ai-19hn)
+- [Exploring File System Basics in Node.js](https://dev.to/ayako_yk/exploring-file-system-basics-in-nodejs-47j1)
+- [Tutorial Lengkap: Membuat Laravel Backend Auth Menggunakan Sanctum &lpar;Laravel 9 &amp; MySQL&rpar;](https://dev.to/ahmadasroni38/tutorial-lengkap-membuat-laravel-backend-auth-menggunakan-sanctum-laravel-9-mysql-41pe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
