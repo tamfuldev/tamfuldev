@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [【Journey of HarmonyOS Next】Developing Based on ArkTS &lpar;2&rpar; - &gt; Common layouts for UI development](https://dev.to/zhzlm/journey-of-harmonyos-next-developing-based-on-arkts-2-common-layouts-for-ui-development-1o9n)
-- [from poetry to uv](https://dev.to/amarao/poetry-uv-3l32)
-- [Critical Security Importance Digital Age Web Techniques（1751100275734200）](https://dev.to/member_9f9a54c5/critical-security-importance-digital-age-web-techniques1751100275734200-1c46)
-- [🔧 Most Powerful CSS Properties Every Developer Should Master](https://dev.to/chaitanya_chopde_dd0642ed/most-powerful-css-properties-every-developer-should-master-58if)
-- [Built a modular SaaS admin dashboard framework. feedback welcome!](https://dev.to/shoaib_79f05e2ac0555e0e42/built-a-modular-saas-admin-dashboard-framework-feedback-welcome-g0b)
+- [Detailed Explanation of HarmonyOS App.json5 Configuration](https://dev.to/mengr/detailed-explanation-of-harmonyos-appjson5-configuration-21aj)
+- [Routing Stack Issues, Image Rounding, Color Resource to Hex Conversion, Dataset Change Crash, Component Lifecycle](https://dev.to/qingkouwei/routing-stack-issues-image-rounding-color-resource-to-hex-conversion-dataset-change-crash-1kck)
+- [Like Animation Implementation, Grid Visible Items, Refresh Component, Code Specifications, State Variables](https://dev.to/qingkouwei/like-animation-implementation-grid-visible-items-refresh-component-code-specifications-state-llm)
+- [Open source: ImageKit, a Rust-based tool for batch image compression and watermarking.](https://dev.to/frr/open-source-imagekit-a-rust-based-tool-for-batch-image-compression-and-watermarking-2i5)
+- [Type Judgment, Notch Height, Privacy Popup, Swipe to Next Page Effect, Clear Cache](https://dev.to/qingkouwei/type-judgment-notch-height-privacy-popup-swipe-to-next-page-effect-clear-cache-16ie)
 <!-- BLOG-POST-LIST:END -->
 
 ---
