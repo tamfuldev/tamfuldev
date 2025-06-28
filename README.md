@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AWS User Group Toronto @ Toronto Tech Week&#39;25 – June Meetup Recap](https://dev.to/bansi2000/aws-user-group-toronto-toronto-tech-week25-june-meetup-recap-1chh)
-- [AWS User Group Toronto @ Toronto Tech Week&#39;25 – June Meetup Recap](https://dev.to/bansi2000/aws-user-group-toronto-toronto-tech-week25-june-meetup-recap-2je6)
-- [AWS User Group Toronto @ Toronto Tech Week&#39;25 – June Meetup Recap](https://dev.to/bansi2000/aws-user-group-toronto-toronto-tech-week25-june-meetup-recap-2jcm)
-- [AWS User Group Toronto @ Toronto Tech Week&#39;25 – June Meetup Recap](https://dev.to/bansi2000/aws-user-group-toronto-toronto-tech-week25-june-meetup-recap-3jk9)
-- [Implementing Multi-tenancy with Keycloak and NestJS](https://dev.to/italoqueiroz/implementing-multi-tenancy-with-keycloak-and-nestjs-4oe6)
+- [please who can help me on a project of c?? using the library gtk on ubuntu ??](https://dev.to/lyrian_nono_ada48afd39cac/please-who-can-help-me-on-a-project-of-c-using-the-library-gtk-on-ubuntu--3k75)
+- [A Beginner Guide to LLM Prompts](https://dev.to/corpcubite/prompt-engineering-in-ai-a-beginner-guide-to-llm-prompts-read-the-full-article-39dg)
+- [Secure D365 Like a Pro: Automate Access Requests with Canvas App + Teams Approvals](https://dev.to/nikhildynamicsce/secure-d365-like-a-pro-automate-access-requests-with-canvas-app-teams-approvals-58al)
+- [iOS Development Democratized: Create Objective-C Apps with Simple Commands](https://dev.to/atforeveryoung/ios-development-democratized-create-objective-c-apps-with-simple-commands-4lf6)
+- [Automating Real-Time API Tests with Keploy — A Hands-On Experience with Weather &amp; Zomato API](https://dev.to/prakhar_singh_239d95d9c72/automating-real-time-api-tests-with-keploy-a-hands-on-experience-with-weather-zomato-api-2e8j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
