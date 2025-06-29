@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🛠️ Inject Complex Data Types in Spring Boot Using @ConfigurationProperties](https://dev.to/realnamehidden1_61/inject-complex-data-types-in-spring-boot-using-configurationproperties-4i0l)
-- [Hyperlane Framework Deep Dive Real World Case（1751198899004600）](https://dev.to/member_f4f4c714/hyperlane-framework-deep-dive-real-world-case1751198899004600-15pc)
-- [Why You Shouldn’t Miss The Next Satinder Sartaaj Show Near You](https://dev.to/satindersartaaj/why-you-shouldnt-miss-the-next-satinder-sartaaj-show-near-you-280l)
-- [I&#39;m 15 and built a zero-dependency PHP deployment tool that eliminates server setup hell](https://dev.to/dante_tk/im-15-and-built-a-zero-dependency-php-deployment-tool-that-eliminates-server-setup-hell-hoa)
-- [10 Front-End Performance Fixes You Should Apply Today](https://dev.to/gouranga-das-khulna/10-front-end-performance-fixes-you-should-apply-today-3506)
+- [Why AI Agents Should Have Their Own Computers: Unlocking True Autonomy And Potential](https://dev.to/0xoracle/why-ai-agents-should-have-their-own-computers-unlocking-true-autonomy-and-potential-50bj)
+- [🧠Mastering the DOM: A Beginner’s Guide to Dynamic Web Pages](https://dev.to/vivgichure/mastering-the-dom-a-beginners-guide-to-dynamic-web-pages-59fh)
+- [💡Java Virtual Threads Explained: Continuations, Carrier Threads, and Scalable Concurrency](https://dev.to/24adithya/java-virtual-threads-explained-continuations-carrier-threads-and-scalable-concurrency-2dk5)
+- [[Boost]](https://dev.to/rakeshv675/-2no7)
+- [Farewell to Tedious Configuration Minimalist Philosophy of Starting Web Service with One Line of Code（1751202284581700）](https://dev.to/member_8d9a8f47/farewell-to-tedious-configuration-minimalist-philosophy-of-starting-web-service-with-one-line-of-2e5d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
