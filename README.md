@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mission 6 Resume Prep Part Two](https://dev.to/theoriginalbpc/mission-6-resume-prep-part-two-2np4)
-- [Delegating Isn’t Ditching](https://dev.to/leaddontctrl/delegating-isnt-ditching-4k24)
-- [Top 10 Free AI Coding Assistants Developers Should Try in 2025](https://dev.to/arkhan/top-10-free-ai-coding-assistants-developers-should-try-in-2025-2i5f)
-- [A day of code,fun and learning at the JVM meetup in chennai.](https://dev.to/paviarunachalam/a-day-of-codefun-and-learning-at-the-jvm-meetup-in-chennai-56no)
-- [Text Based Games and How to Make Them](https://dev.to/jberesford94/text-based-games-and-how-to-make-them-4igj)
+- [Working with Scheduled Tasks in Go: Timer and Ticker](https://dev.to/leapcell/working-with-scheduled-tasks-in-go-timer-and-ticker-8jb)
+- [From Migrations to Seed : Working with Fixtures in Nixopus](https://dev.to/raghavyuva/from-migrations-to-seed-working-with-fixtures-in-nixopus-2e95)
+- [💡 TIME COMPLEXITY PRIMER – Understand Big O Like a Kid With Candies 🍬](https://dev.to/ankushsinghgandhi/time-complexity-primer-understand-big-o-like-a-kid-with-candies-2ih0)
+- [Varta](https://dev.to/vynride/varta-4ijg)
+- [Track, Analyze, and Simplify: RedisTimeSeries for Real-Time Data](https://dev.to/rijultp/track-analyze-and-simplify-redistimeseries-for-real-time-data-1ikf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
