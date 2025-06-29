@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🔥Top 5 Amazing CLI Tools🤯](https://dev.to/dev_kiran/top-5-amazing-cli-tools-38pj)
-- [I built an AI-powered npm dependency scanner – give it 30 seconds &amp; a package.json](https://dev.to/dark_king_bb7196f2b458f62/i-built-an-ai-powered-npm-dependency-scanner-give-it-30-seconds-a-packagejson-16ei)
-- [From Microservices to Fan-Out: Evolving Cross-Service Communication in Modern Systems](https://dev.to/gambhirsamarth/from-microservices-to-fan-out-evolving-cross-service-communication-in-modern-systems-e9p)
-- [Adding Sessions and Memory to Your AI Agent with Agent Development Kit &lpar;ADK&rpar;](https://dev.to/marianocodes/adding-sessions-and-memory-to-your-ai-agent-with-agent-development-kit-adk-31ap)
-- [【HarmonyOS 5】Detailed Explanation of Privacy Protection in HarmonyOS Applications](https://dev.to/georgegcs/harmonyos-5-detailed-explanation-of-privacy-protection-in-harmonyos-applications-4d3a)
+- [Mission 6 Resume Prep Part Two](https://dev.to/theoriginalbpc/mission-6-resume-prep-part-two-2np4)
+- [Delegating Isn’t Ditching](https://dev.to/leaddontctrl/delegating-isnt-ditching-4k24)
+- [Top 10 Free AI Coding Assistants Developers Should Try in 2025](https://dev.to/arkhan/top-10-free-ai-coding-assistants-developers-should-try-in-2025-2i5f)
+- [A day of code,fun and learning at the JVM meetup in chennai.](https://dev.to/paviarunachalam/a-day-of-codefun-and-learning-at-the-jvm-meetup-in-chennai-56no)
+- [Text Based Games and How to Make Them](https://dev.to/jberesford94/text-based-games-and-how-to-make-them-4igj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
