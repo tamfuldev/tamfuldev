@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Python course: Boolean logic](https://dev.to/costa86/python-course-boolean-logic-36cj)
-- [Developer Happiness Improvement Guide Modern Toolchain and Framework Selection Strategy（1751194078204900）](https://dev.to/member_f4f4c714/developer-happiness-improvement-guide-modern-toolchain-and-framework-selection-2gbj)
-- [gradual-rollout](https://dev.to/nebula_3108/gradual-rollout-1458)
-- [Cómo instalar y configurar Tailwind CSS 4 con React y Vite &lpar;paso a paso&rpar;](https://dev.to/iratxebarrio/como-instalar-y-configurar-tailwind-css-4-con-react-y-vite-paso-a-paso-3ngc)
-- [Charm of Method Chaining Exploration of Fluent Interface Design Patterns in Modern Frameworks（1751193475405700）](https://dev.to/member_f4f4c714/charm-of-method-chaining-exploration-of-fluent-interface-design-patterns-in-modern-170o)
+- [🛠️ Inject Complex Data Types in Spring Boot Using @ConfigurationProperties](https://dev.to/realnamehidden1_61/inject-complex-data-types-in-spring-boot-using-configurationproperties-4i0l)
+- [Hyperlane Framework Deep Dive Real World Case（1751198899004600）](https://dev.to/member_f4f4c714/hyperlane-framework-deep-dive-real-world-case1751198899004600-15pc)
+- [Why You Shouldn’t Miss The Next Satinder Sartaaj Show Near You](https://dev.to/satindersartaaj/why-you-shouldnt-miss-the-next-satinder-sartaaj-show-near-you-280l)
+- [I&#39;m 15 and built a zero-dependency PHP deployment tool that eliminates server setup hell](https://dev.to/dante_tk/im-15-and-built-a-zero-dependency-php-deployment-tool-that-eliminates-server-setup-hell-hoa)
+- [10 Front-End Performance Fixes You Should Apply Today](https://dev.to/gouranga-das-khulna/10-front-end-performance-fixes-you-should-apply-today-3506)
 <!-- BLOG-POST-LIST:END -->
 
 ---
