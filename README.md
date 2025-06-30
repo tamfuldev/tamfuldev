@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [WWDC 2025 - Advanced Passkeys Implementation in iOS 26](https://dev.to/arshtechpro/wwdc-2025-advanced-passkeys-implementation-in-ios-26-5bg6)
-- [🛡️ How to Build a Scalable QA Framework with Advanced TypeScript Patterns](https://dev.to/idavidov13/how-to-build-a-scalable-qa-framework-with-advanced-typescript-patterns-5eh5)
-- [Core Attributes of Distributed Systems: Reliability, Availability, Scalability, and More](https://dev.to/sachin_tolay_052a7e539e57/core-attributes-of-distributed-systems-reliability-availability-scalability-and-more-23p6)
-- [Using bicep-deploy in GitHub action, part 2, deploymentStack](https://dev.to/omiossec/using-bicep-deploy-in-github-action-part-2-deploymentstack-3h9d)
-- [How to create an AI ChatBot and flex in front of your dumb friends](https://dev.to/souviktests/how-to-create-an-ai-chatbot-and-flex-in-front-of-your-dumb-friends-d76)
+- [🚀 Tavrn Alpha Has Launched!](https://dev.to/tavrn/tavrn-alpha-has-launched-23j2)
+- [Gemini CLI and I created our first project together.](https://dev.to/argenkiwi/gemini-cli-and-i-created-our-first-project-together-7b6)
+- [How to Sell VPN as a SaaS Using VMmanager — Setup in 3 Steps](https://dev.to/mateor404/how-to-sell-vpn-as-a-saas-using-vmmanager-setup-in-3-steps-13je)
+- [🌟 5 Things I Wish I Knew Before Starting Freelancing as a Teen Designer](https://dev.to/alizehcodes/5-things-i-wish-i-knew-before-starting-freelancing-as-a-teen-designer-5egm)
+- [Gemeni CLI and I created our first piece of working software together: https://github.com/argenkiwi/audini. It was a rewrite of and old project &lpar;https://github.com/argenkiwi/extereo&rpar;: a Chrome Extension to make playlist from audio in the sites you visit.](https://dev.to/argenkiwi/gemeni-cli-and-i-created-our-first-piece-of-working-software-together-1j38)
 <!-- BLOG-POST-LIST:END -->
 
 ---
