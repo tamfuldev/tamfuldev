@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🗽 Longest Harmonious Subsequence LeetCode 594 &lpar;C++ | JavaScript | Python &rpar;](https://dev.to/om_shree_0709/longest-harmonious-subsequence-leetcode-594-c-javascript-python--jpd)
-- [Aplicando conceitos do C4 Model no desenho de arquiteturas de soluções AWS](https://dev.to/igmarcelo_/aplicando-conceitos-do-c4-model-no-desenho-de-arquiteturas-de-solucoes-aws-2c2m)
-- [Early Retirement - What FIRE Is Absolutely Not About](https://dev.to/sonika_onboardedhq/early-retirement-what-fire-is-absolutely-not-about-2koj)
-- [Demystifying Cloud Computing: 7 Key Concepts Every Developer Should Know](https://dev.to/adeyemo/demystifying-cloud-computing-7-key-concepts-every-developer-should-know-58p3)
-- [Drawing a Koala with HTML and CSS](https://dev.to/alvaromontoro/drawing-a-koala-with-html-and-css-bpf)
+- [HarmonyOS App Dev with Uniapp Real-World Practice &amp; Tips](https://dev.to/lovehmos/harmonyos-app-dev-with-uniapp-real-world-practice-tips-2k92)
+- [🚀 Mastering Functional Programming Concepts in JavaScript](https://dev.to/manukumar07/mastering-functional-programming-concepts-in-javascript-gdm)
+- [HarmonyOS Amount Converter Dev Notes &amp; Pitfalls](https://dev.to/lovehmos/harmonyos-amount-converter-dev-notes-pitfalls-5gia)
+- [HarmonyOS AES Encryption Dev Notes &amp; Common Pitfalls](https://dev.to/lovehmos/harmonyos-aes-encryption-dev-notes-common-pitfalls-2gk4)
+- [Obfuscating an Entire .NET Assembly](https://dev.to/rustemsoft/obfuscating-an-entire-net-assembly-33pn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
