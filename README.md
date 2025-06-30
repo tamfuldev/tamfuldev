@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🔐 Mastering Authentication in Bubble: A Complete Guide &lpar;with Social Login, Magic Links &amp; More&rpar;](https://dev.to/ebereplenty/mastering-authentication-in-bubble-a-complete-guide-with-social-login-magic-links-more-3e7p)
-- [Trends in the frontend tech stack in 2025: What you need to know for long-term growth](https://dev.to/smriti_webdev/trends-in-the-frontend-tech-stack-in-2025-what-you-need-to-know-for-long-term-growth-4fgd)
-- [[Boost]](https://dev.to/phuc/-klp)
-- [Demystifying Django: How I Learned the Project Structure &lpar;Through My Own Debugging Lens&rpar;](https://dev.to/zabby/demystifying-django-how-i-learned-the-project-structure-through-my-own-debugging-lens-2929)
-- [Learn Bootstrap 5 by Building a Clean and Responsive Dashboard](https://dev.to/learncodewithalex/learn-bootstrap-5-by-building-a-clean-and-responsive-dashboard-48io)
+- [[Learn HarmonyOS Next Knowledge Daily] Package Size Optimization, WebView PDF Download, etc.](https://dev.to/qingkouwei/learn-harmonyos-next-knowledge-daily-package-size-optimization-webview-pdf-download-etc-p1)
+- [Top Tech Companies in Nepal Making Global Waves in 2025](https://dev.to/amelia_lark/top-tech-companies-in-nepal-making-global-waves-in-2025-3i79)
+- [[Learn HarmonyOS Next Knowledge Every Day] Push and UI Layout](https://dev.to/qingkouwei/learn-harmonyos-next-knowledge-every-day-push-and-ui-layout-4aeo)
+- [[Learn HarmonyOS Next Knowledge Every Day] Network-related Knowledge](https://dev.to/qingkouwei/learn-harmonyos-next-knowledge-every-day-network-related-knowledge-4f3l)
+- [SpaceX Launches Starlink Satellites from California](https://dev.to/qwegle_insights/spacex-launches-starlink-satellites-from-california-1ji3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
