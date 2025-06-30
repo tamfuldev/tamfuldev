@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Learn HarmonyOS Next Knowledge Daily] Package Size Optimization, WebView PDF Download, etc.](https://dev.to/qingkouwei/learn-harmonyos-next-knowledge-daily-package-size-optimization-webview-pdf-download-etc-p1)
-- [Top Tech Companies in Nepal Making Global Waves in 2025](https://dev.to/amelia_lark/top-tech-companies-in-nepal-making-global-waves-in-2025-3i79)
-- [[Learn HarmonyOS Next Knowledge Every Day] Push and UI Layout](https://dev.to/qingkouwei/learn-harmonyos-next-knowledge-every-day-push-and-ui-layout-4aeo)
-- [[Learn HarmonyOS Next Knowledge Every Day] Network-related Knowledge](https://dev.to/qingkouwei/learn-harmonyos-next-knowledge-every-day-network-related-knowledge-4f3l)
-- [SpaceX Launches Starlink Satellites from California](https://dev.to/qwegle_insights/spacex-launches-starlink-satellites-from-california-1ji3)
+- [Mastering Your Digital Privacy: A Comprehensive Guide to Online Protection](https://dev.to/swayam_dc1eefb8839da110de/mastering-your-digital-privacy-a-comprehensive-guide-to-online-protection-43n5)
+- [Easy Water Level Indicator You Can Build – No Microcontroller Needed](https://dev.to/david_thomas/diy-water-level-alarm-with-buzzer-no-microcontroller-needed-4l37)
+- [🧭 React Router Too Verbose? Try This: File-Based Routing like Next.js — In Any React App!](https://dev.to/prasanthreact/react-router-too-verbose-try-this-file-based-routing-like-nextjs-in-any-react-app-1c69)
+- [How to back up files &lpar;from an android phone&rpar; on GCS](https://dev.to/gnsp/how-to-back-up-files-from-an-android-phone-on-gcs-1dlh)
+- [Jetpack Compose Revolution: Describe Your UI, Get Perfect Kotlin Code](https://dev.to/atforeveryoung/jetpack-compose-revolution-describe-your-ui-get-perfect-kotlin-code-3he5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
