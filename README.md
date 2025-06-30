@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Postgres SQL FILTER: A Smarter CASE and CTE Alternative](https://dev.to/mayallo/postgres-sql-filter-a-smarter-case-and-cte-alternative-2l63)
-- [20+ Free Nextjs Website Templates for Developers](https://dev.to/wrap-pixel/free-nextjs-website-templates-for-developers-nch)
-- [How to Add and Subtract Dates in SQL &lpar;MySQL, PostgreSQL, SQL Server&rpar;](https://dev.to/dbvismarketing/how-to-add-and-subtract-dates-in-sql-mysql-postgresql-sql-server-5a0j)
-- [storyblok ai builder](https://dev.to/shivam_agrawal_c2c3c80a06/storyblok-ai-builder-13hc)
-- [BlokLy AI: From space to site](https://dev.to/sarahokolo/blokly-ai-from-space-to-site-40kl)
+- [How to Block HTTP Flood DDoS Attacks with a WAF](https://dev.to/sharon_42e16b8da44dabde6d/how-to-block-http-flood-ddos-attacks-with-a-waf-1766)
+- [Advanced Techniques for Implementing Singleton Patterns in JS](https://dev.to/omriluz1/advanced-techniques-for-implementing-singleton-patterns-in-js-54ng)
+- [10 React UI/UX Practices Every Senior Developer Should Use in 2025](https://dev.to/madhavkabra/10-react-uiux-practices-every-senior-developer-should-use-in-2025-3hho)
+- [Flame Graph Reveals Performance Optimization Truth Deep Analysis by Computer Science Student（1751269449870100）](https://dev.to/member_6d3fad5b/flame-graph-reveals-performance-optimization-truth-deep-analysis-by-computer-science-2j6n)
+- [What is Generative AI? Benefits, Limitations, and Future Explained](https://dev.to/digital_marketingavtech/what-is-generative-ai-benefits-limitations-and-future-explained-3905)
 <!-- BLOG-POST-LIST:END -->
 
 ---
