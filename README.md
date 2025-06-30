@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [HarmonyOS Development: Filling the remaining space](https://dev.to/abnerming888/harmonyos-development-filling-the-remaining-space-2ia5)
-- [HarmonyOS Development: Authorization Method of Rights Management](https://dev.to/abnerming888/harmonyos-development-authorization-method-of-rights-management-1e3)
-- [HarmonyOS Development: Authority Statement for Authority Management](https://dev.to/abnerming888/harmonyos-development-authority-statement-for-authority-management-4c5p)
-- [HarmonyOS Development: Understanding Application-Level Configuration Information](https://dev.to/abnerming888/harmonyos-development-understanding-application-level-configuration-information-g6i)
-- [WWDC 2025 - Enhance child safety with PermissionKit](https://dev.to/arshtechpro/wwdc-2025-enhance-child-safety-with-permissionkit-52jb)
+- [🗽 Longest Harmonious Subsequence LeetCode 594 &lpar;C++ | JavaScript | Python &rpar;](https://dev.to/om_shree_0709/longest-harmonious-subsequence-leetcode-594-c-javascript-python--jpd)
+- [Aplicando conceitos do C4 Model no desenho de arquiteturas de soluções AWS](https://dev.to/igmarcelo_/aplicando-conceitos-do-c4-model-no-desenho-de-arquiteturas-de-solucoes-aws-2c2m)
+- [Early Retirement - What FIRE Is Absolutely Not About](https://dev.to/sonika_onboardedhq/early-retirement-what-fire-is-absolutely-not-about-2koj)
+- [Demystifying Cloud Computing: 7 Key Concepts Every Developer Should Know](https://dev.to/adeyemo/demystifying-cloud-computing-7-key-concepts-every-developer-should-know-58p3)
+- [Drawing a Koala with HTML and CSS](https://dev.to/alvaromontoro/drawing-a-koala-with-html-and-css-bpf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
