@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [☕️ Monday Motivation: Debug Your Monday Blues 🐛](https://dev.to/sroy8091/monday-motivation-debug-your-monday-blues-mfi)
-- [🔍 Demystifying Node.js Core Modules: A Practical Dive into fs and path](https://dev.to/ayushssshhh/demystifying-nodejs-core-modules-a-practical-dive-into-fs-and-path-i0l)
-- [Bloom Filters and Cuckoo Filters](https://dev.to/vigneshm243/bloom-filters-and-cuckoo-filters-3hgl)
-- [Introducing DEV Education Tracks: Expert-Guided Tutorials for Learning New Skills and Earning Badges](https://dev.to/devteam/introducing-dev-education-tracks-expert-guided-tutorials-for-learning-new-skills-and-earning-badges-48oi)
-- [From Scratch to Restore: Automating PostgreSQL Setup &amp; Backups with Ansible](https://dev.to/lovestaco/from-scratch-to-restore-automating-postgresql-setup-backups-with-ansible-12h6)
+- [WWDC 2025 - Advanced Passkeys Implementation in iOS 26](https://dev.to/arshtechpro/wwdc-2025-advanced-passkeys-implementation-in-ios-26-5bg6)
+- [🛡️ How to Build a Scalable QA Framework with Advanced TypeScript Patterns](https://dev.to/idavidov13/how-to-build-a-scalable-qa-framework-with-advanced-typescript-patterns-5eh5)
+- [Core Attributes of Distributed Systems: Reliability, Availability, Scalability, and More](https://dev.to/sachin_tolay_052a7e539e57/core-attributes-of-distributed-systems-reliability-availability-scalability-and-more-23p6)
+- [Using bicep-deploy in GitHub action, part 2, deploymentStack](https://dev.to/omiossec/using-bicep-deploy-in-github-action-part-2-deploymentstack-3h9d)
+- [How to create an AI ChatBot and flex in front of your dumb friends](https://dev.to/souviktests/how-to-create-an-ai-chatbot-and-flex-in-front-of-your-dumb-friends-d76)
 <!-- BLOG-POST-LIST:END -->
 
 ---
