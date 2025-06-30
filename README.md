@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Tavrn Alpha Has Launched!](https://dev.to/tavrn/tavrn-alpha-has-launched-23j2)
-- [Gemini CLI and I created our first project together.](https://dev.to/argenkiwi/gemini-cli-and-i-created-our-first-project-together-7b6)
-- [How to Sell VPN as a SaaS Using VMmanager — Setup in 3 Steps](https://dev.to/mateor404/how-to-sell-vpn-as-a-saas-using-vmmanager-setup-in-3-steps-13je)
-- [🌟 5 Things I Wish I Knew Before Starting Freelancing as a Teen Designer](https://dev.to/alizehcodes/5-things-i-wish-i-knew-before-starting-freelancing-as-a-teen-designer-5egm)
-- [Gemeni CLI and I created our first piece of working software together: https://github.com/argenkiwi/audini. It was a rewrite of and old project &lpar;https://github.com/argenkiwi/extereo&rpar;: a Chrome Extension to make playlist from audio in the sites you visit.](https://dev.to/argenkiwi/gemeni-cli-and-i-created-our-first-piece-of-working-software-together-1j38)
+- [CSS Counters: Unlocking the Power of Stylish Numbering](https://dev.to/muhammadmedhat/css-counters-unlocking-the-power-of-stylish-numbering-2p4o)
+- [Use Case 5](https://dev.to/etohartman/use-case-5-100p)
+- [The Heap Memory](https://dev.to/suvijak_vinyunavan_1f9ff9/the-heap-memory-5ali)
+- [💥 That One Time globals.css Crashed My Next.js Build](https://dev.to/jvicmaina/that-one-time-globalscss-crashed-my-nextjs-build-5e2m)
+- [Free Tools for Developers — Built by Me &lpar;100+ Tools!&rpar;](https://dev.to/hamzaashkar/free-tools-for-developers-built-by-me-100-tools-26h1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
