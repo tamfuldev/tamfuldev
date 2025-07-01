@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Unlock the Power of ForgeRock IDM Scripting](https://dev.to/iamdevbox/unlock-the-power-of-forgerock-idm-scripting-15l8)
-- [Code Evolution Strategies（1751381533403100）](https://dev.to/member_35db4d53/code-evolution-strategies1751381533403100-190k)
-- [⚡ Introducing CORE - open source, shareable, user-owned memory graph for LLMs](https://dev.to/heysolhq/introducing-core-open-source-shareable-user-owned-memory-graph-for-llms-570m)
-- [📈 TrendSage – An AI Agent That Tracks Trends So You Don’t Have To](https://dev.to/shravzzv/trendsage-an-ai-agent-that-tracks-trends-so-you-dont-have-to-1n0)
-- [MVT vs MVC Architecture](https://dev.to/mavoochie/mvt-vs-mvc-architecture-25ma)
+- [Architectural Decision Making Real World Web Modern（1751386144959800）](https://dev.to/member_14fef070/architectural-decision-making-real-world-web-modern1751386144959800-1p29)
+- [Get the Syntax of a Hexadecimal Color for the Terminal &lpar;ANSI RGB&rpar;](https://dev.to/marcosplusplus/get-the-syntax-of-a-hexadecimal-color-for-the-terminal-ansi-rgb-3h42)
+- [🛡️ OWASP Top 10 &lpar;2021 Edition&rpar; — Explained](https://dev.to/davinceleecode/owasp-top-10-2021-edition-explained-4a6g)
+- [Obtenha a Sintaxe de uma Cor Hexadecimal para o Terminal &lpar;ANSI RGB&rpar;](https://dev.to/marcosplusplus/obtenha-a-sintaxe-de-uma-cor-hexadecimal-para-o-terminal-ansi-rgb-h37)
+- [Web Development Learning Path（1751384975997000）](https://dev.to/member_35db4d53/web-development-learning-path1751384975997000-5a7j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
