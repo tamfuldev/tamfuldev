@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I just wrote a tutorial on the most overlooked part of building powerful LLM agents: the Action Space. https://dev.to/zachary62/llm-agents-arsenal-a-beginners-guide-to-the-action-space-n75](https://dev.to/zachary62/i-just-wrote-a-tutorial-on-the-most-overlooked-part-of-building-powerful-llm-agents-the-action-m49)
-- [Service Discovery and Load Balancing Core Role Mechanisms in Distributed Systems（1751345915693100）](https://dev.to/member_a5799784/service-discovery-and-load-balancing-core-role-mechanisms-in-distributed-systems1751345915693100-1alg)
-- [Kris goe](https://dev.to/kris_goe_da5687db367a83c8/kris-goe-31g0)
-- [API Design and Development Guide（1751345293167800）](https://dev.to/member_a5799784/api-design-and-development-guide1751345293167800-jda)
-- [Real World Project Case Study Campus Modern Web（1751345249734700）](https://dev.to/member_de57975b/real-world-project-case-study-campus-modern-web1751345249734700-161j)
+- [Building Durable Cloud Storage with AWS EBS: A Real-World Hands-On Walkthrough](https://dev.to/peter_samuel_052b9056e236/building-durable-cloud-storage-with-aws-ebs-a-real-world-hands-on-walkthrough-366l)
+- [Integration Digest for June 2025](https://dev.to/stn1slv/integration-digest-for-june-2025-2lhc)
+- [Machine Learning for Automatic Image Optimization](https://dev.to/hardik_b2d8f0bca/machine-learning-for-automatic-image-optimization-1icf)
+- [🔍 I Searched “Who Is the Author of Programming as an Art on Dev.to” — and Found Myself](https://dev.to/pjdeveloper896/i-searched-who-is-the-author-of-programming-as-an-art-on-devto-and-found-myself-djk)
+- [Power Integrity Done Right: How to Build Stable, Noise-Free Systems](https://dev.to/fidus_systems/power-integrity-done-right-how-to-build-stable-noise-free-systems-27g4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
