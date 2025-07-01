@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SQL Injection Attacks: What Developers Need to Know - A $8.7M Lesson](https://dev.to/zblack/sql-injection-attacks-what-developers-need-to-know-a-87m-lesson-197)
-- [Community Building Strategies: How I Built 500+ Engaged Users Without Paid Advertising](https://dev.to/revisepdf/community-building-strategies-how-i-built-500-engaged-users-without-paid-advertising-2hi3)
-- [What Is KALP Instant Deployer and Why Does It Matter for Web3 Developers](https://dev.to/kalpstudio/what-is-kalp-instant-deployer-and-why-does-it-matter-for-web3-developers-ip8)
-- [From Finite Automata to Infinite Patience: My Journey Teaching the &quot;Scary&quot; Side of Computer Science 🤖](https://dev.to/gabrielrovesti/from-finite-automata-to-infinite-patience-my-journey-teaching-the-scary-side-of-computer-science-4j2m)
-- [⚡ React Performance: How to Optimize Your Components for Lightning Speed](https://dev.to/manukumar07/react-performance-how-to-optimize-your-components-for-lightning-speed-4on6)
+- [HTML Form Inspector: inspect and debug your forms online](https://dev.to/kilianvalkhof/html-form-inspector-inspect-and-debug-your-forms-online-m0p)
+- [AI Won’t Replace Quality Engineers — It Will Empower Us](https://dev.to/marivicdbp/ai-wont-replace-quality-engineers-it-will-empower-us-4p9l)
+- [ONLYOFFICE Docs 9.0 for developers: API updates](https://dev.to/onlyoffice/onlyoffice-docs-90-for-developers-api-updates-di8)
+- [AWS Cost Optimization- Identify Stale Resources using Lambda Function.](https://dev.to/abhishek_korde_31/aws-cost-optimization-using-lambda-function-20m1)
+- [Just Launched LogicLore — Interactive CS Learning for Kids!](https://dev.to/vulcanwm/just-launched-logiclore-interactive-cs-learning-for-kids-k4c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
