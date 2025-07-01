@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Team Collaboration Best Practices（1751330971234800）](https://dev.to/member_a5799784/team-collaboration-best-practices1751330971234800-34hp)
-- [Mastering Asynchronous Programming Patterns Task Modern Web（1751330915539700）](https://dev.to/member_35db4d53/mastering-asynchronous-programming-patterns-task-modern-web1751330915539700-1dle)
-- [Message Queue Architecture Patterns（1751330349436700）](https://dev.to/member_a5799784/message-queue-architecture-patterns1751330349436700-jlg)
-- [100K QPS Web Server Design（1751329726313900）](https://dev.to/member_a5799784/100k-qps-web-server-design1751329726313900-5dcb)
-- [API Gateway Pattern Unified Entry Management Strategy in Microservices（1751329104221600）](https://dev.to/member_a5799784/api-gateway-pattern-unified-entry-management-strategy-in-microservices1751329104221600-3h59)
+- [Tech Zen Wisdom: Abstraction](https://dev.to/latobibor/tech-zen-wisdom-abstraction-22po)
+- [Vibe coding a Perl interface to a C library - Part 1](https://dev.to/chrisarg/vibe-coding-a-perl-interface-to-a-c-library-part-1-54ca)
+- [Application and Evolution of Patterns in Programming ization of Classic Patterns（1751339322812300）](https://dev.to/member_35db4d53/application-and-evolution-of-patterns-in-programming-ization-of-classic-patterns1751339322812300-3in1)
+- [MODEL TRAINING AND EVALUATION](https://dev.to/o_mutwiri/model-training-and-evaluation-55kn)
+- [📌 Beyond Hello World: A Free 8-Week Generative AI Learning Series📌](https://dev.to/lakhera2015/beyond-hello-world-a-free-8-week-generative-ai-learning-series-ldg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
