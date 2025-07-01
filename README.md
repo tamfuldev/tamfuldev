@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Space and Time Complexity in Software Development](https://dev.to/blackscripts/understanding-space-and-time-complexity-in-software-development-2k0g)
-- [Kubernetes Day 2: Pods, Deployments, ReplicaSets, &amp; DaemonSets: Your App&#39;s Superheroes\! 🦸‍♂️🦸‍♀️](https://dev.to/hritikraj8804/kubernetes-day-2-pods-deployments-replicasets-daemonsets-your-apps-superheroes-5hh5)
-- [Immersive Ticket Booking in WebXR with Three.js – View &amp; Hear Before You Book!](https://dev.to/vishnu_mr_42f070c97c98f1/immersive-ticket-booking-in-webxr-with-threejs-view-hear-before-you-book-397c)
-- [Day-47 Today I learned Fetch, Async/Await &amp; Axios in JavaScript](https://dev.to/tamilselvan1812/day-47-today-i-learned-fetch-asyncawait-axios-in-javascript-5ccb)
-- [✅ 10 React Best Practices Every Developer Should Know in 2025](https://dev.to/manukumar07/10-react-best-practices-every-developer-should-know-in-2025-2ojn)
+- [My Learning Today – JavaScript Promises, Async/Await, Fetch, and Axios](https://dev.to/seenuvasan_p/my-learning-today-javascript-promises-asyncawait-fetch-and-axios-1705)
+- [Mastering State Management: The Synergy of React and Redux in the Future of Web Apps](https://dev.to/vjnvisakh/mastering-state-management-the-synergy-of-react-and-redux-in-the-future-of-web-apps-5h0l)
+- [DEV.to Writer Agent](https://dev.to/gautammanak1/devto-writer-agent-mm5)
+- [📖 The Era of AI — A New Blog Series Begins](https://dev.to/pjdeveloper896/the-era-of-ai-a-new-blog-series-begins-4epi)
+- [Implementing Domain Driven Design - Entities](https://dev.to/edgaremmanuel/implementing-domain-driven-design-entities-30h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
