@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Durable Cloud Storage with AWS EBS: A Real-World Hands-On Walkthrough](https://dev.to/peter_samuel_052b9056e236/building-durable-cloud-storage-with-aws-ebs-a-real-world-hands-on-walkthrough-366l)
-- [Integration Digest for June 2025](https://dev.to/stn1slv/integration-digest-for-june-2025-2lhc)
-- [Machine Learning for Automatic Image Optimization](https://dev.to/hardik_b2d8f0bca/machine-learning-for-automatic-image-optimization-1icf)
-- [🔍 I Searched “Who Is the Author of Programming as an Art on Dev.to” — and Found Myself](https://dev.to/pjdeveloper896/i-searched-who-is-the-author-of-programming-as-an-art-on-devto-and-found-myself-djk)
-- [Power Integrity Done Right: How to Build Stable, Noise-Free Systems](https://dev.to/fidus_systems/power-integrity-done-right-how-to-build-stable-noise-free-systems-27g4)
+- [Just-Rust](https://dev.to/0x23gj28/just-rust-11bm)
+- [Untitled](https://dev.to/ali_mido_ffcd59f08b7c1b02/untitled-3kh5)
+- [The Internet’s Full of Trash Info, So I Made Nexix. You’re Welcome 💅](https://dev.to/liemar90/the-internets-full-of-trash-info-so-i-made-nexix-youre-welcome-2amp)
+- [Forget ChatGPT &amp; Gemini - Here Are New AI Tools That Will Blow Your Mind](https://dev.to/nitinfab/forget-chatgpt-gemini-here-are-new-ai-tools-that-will-blow-your-mind-1l02)
+- [MCP Server for Amazon Products &lpar;100% Open Source&rpar; 🛒🚀](https://dev.to/buildandcodewithraman/mcp-server-for-amazon-products-100-open-source-o80)
 <!-- BLOG-POST-LIST:END -->
 
 ---
