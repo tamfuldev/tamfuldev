@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [HTML Form Inspector: inspect and debug your forms online](https://dev.to/kilianvalkhof/html-form-inspector-inspect-and-debug-your-forms-online-m0p)
-- [AI Won’t Replace Quality Engineers — It Will Empower Us](https://dev.to/marivicdbp/ai-wont-replace-quality-engineers-it-will-empower-us-4p9l)
-- [ONLYOFFICE Docs 9.0 for developers: API updates](https://dev.to/onlyoffice/onlyoffice-docs-90-for-developers-api-updates-di8)
-- [AWS Cost Optimization- Identify Stale Resources using Lambda Function.](https://dev.to/abhishek_korde_31/aws-cost-optimization-using-lambda-function-20m1)
-- [Just Launched LogicLore — Interactive CS Learning for Kids!](https://dev.to/vulcanwm/just-launched-logiclore-interactive-cs-learning-for-kids-k4c)
+- [Tech, Talk &amp; Emotions – PostgreSQL Meetup Recap](https://dev.to/megha_m_3acdfe3f62da7873f/tech-talk-emotions-postgresql-meetup-recap-271a)
+- [[Boost]](https://dev.to/bagaswibowo/-57c9)
+- [Building QuantaCode: Our Bolt Hackathon Saga &lpar;and the AI Brainrot is Real!&rpar;](https://dev.to/aldorax/building-quantacode-our-bolt-hackathon-saga-and-the-ai-brainrot-is-real-5dh0)
+- [My First code On JVM Meeting](https://dev.to/s_mathavi_2fa1e3ea8514f34/my-first-code-on-jvm-meeting-46f9)
+- [CLOUD CONCEPT](https://dev.to/ajayid10/cloud-concept-3fph)
 <!-- BLOG-POST-LIST:END -->
 
 ---
