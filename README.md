@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Tech, Talk &amp; Emotions – PostgreSQL Meetup Recap](https://dev.to/megha_m_3acdfe3f62da7873f/tech-talk-emotions-postgresql-meetup-recap-271a)
-- [[Boost]](https://dev.to/bagaswibowo/-57c9)
-- [Building QuantaCode: Our Bolt Hackathon Saga &lpar;and the AI Brainrot is Real!&rpar;](https://dev.to/aldorax/building-quantacode-our-bolt-hackathon-saga-and-the-ai-brainrot-is-real-5dh0)
-- [My First code On JVM Meeting](https://dev.to/s_mathavi_2fa1e3ea8514f34/my-first-code-on-jvm-meeting-46f9)
-- [CLOUD CONCEPT](https://dev.to/ajayid10/cloud-concept-3fph)
+- [Unlock the Power of ForgeRock IDM Scripting](https://dev.to/iamdevbox/unlock-the-power-of-forgerock-idm-scripting-15l8)
+- [Code Evolution Strategies（1751381533403100）](https://dev.to/member_35db4d53/code-evolution-strategies1751381533403100-190k)
+- [⚡ Introducing CORE - open source, shareable, user-owned memory graph for LLMs](https://dev.to/heysolhq/introducing-core-open-source-shareable-user-owned-memory-graph-for-llms-570m)
+- [📈 TrendSage – An AI Agent That Tracks Trends So You Don’t Have To](https://dev.to/shravzzv/trendsage-an-ai-agent-that-tracks-trends-so-you-dont-have-to-1n0)
+- [MVT vs MVC Architecture](https://dev.to/mavoochie/mvt-vs-mvc-architecture-25ma)
 <!-- BLOG-POST-LIST:END -->
 
 ---
