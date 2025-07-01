@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Automate GitHub like a pro: Build your own bot with TypeScript and Serverless](https://dev.to/alwil17/automate-github-like-a-pro-build-your-own-bot-with-typescript-and-serverless-58fg)
-- [Event Driven Architecture Pattern Application Practice in Web Frameworks（1751399282688700）](https://dev.to/member_de57975b/event-driven-architecture-pattern-application-practice-in-web-frameworks1751399282688700-8ef)
-- [Scalability Trade-offs](https://dev.to/parulchaddha/scalability-trade-offs-52ll)
-- [💻🧠 &quot;I’m a Self-Taught Developer. Here’s My Truth.&quot;](https://dev.to/tinega_chris_6ef7a662728f/im-a-self-taught-developer-heres-my-truth-8km)
-- [Not using MessageBus, nya” — Claude Code Me: “NYAAAAAA!!”](https://dev.to/charmpic/not-using-messagebus-nya-claude-code-me-nyaaaaaa-4ho8)
+- [Now available: Claude Code sessions in Depot](https://dev.to/depot/now-available-claude-code-sessions-in-depot-33kd)
+- [Reference Architecture for Team AI Productivity](https://dev.to/leading-edje/reference-architecture-for-team-ai-productivity-1dpi)
+- [Hey guess what but MTV are now bringing back 24/7 music videos ahead of 2025 VMAs](https://dev.to/popcorn_tv/hey-guess-what-but-mtv-are-now-bringing-back-247-music-videos-ahead-of-2025-vmas-15o2)
+- [Martin Kove Accused Of Sexual Harassment On &#39;Cobra Kai&#39; Set in 2024](https://dev.to/popcorn_tv/martin-kove-accused-of-sexual-harassment-on-cobra-kai-set-in-2024-1k4)
+- [‘The Bear&#39; Season 4 Is Better, but Not by Enough: TV Review](https://dev.to/popcorn_tv/the-bear-season-4-is-better-but-not-by-enough-tv-review-22el)
 <!-- BLOG-POST-LIST:END -->
 
 ---
