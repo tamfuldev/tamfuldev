@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter Write Less, Do More: Supercharge Your Flutter Apps with Mplix Extensions](https://dev.to/taniksha_sharma_b4a11092f/flutter-write-less-do-more-supercharge-your-flutter-apps-with-mplix-extensions-4ik5)
-- [FastiQuran: A Distraction-Free Digital Companion for Your Spiritual Journey](https://dev.to/cas8398/fastiquran-a-distraction-free-digital-companion-for-your-spiritual-journey-2d30)
-- [[Boost]](https://dev.to/osiris8/-1anh)
-- [Garbage Collection and Weak References](https://dev.to/omriluz1/garbage-collection-and-weak-references-20ha)
-- [DAY 8 OF HTML](https://dev.to/raizo03/day-7-of-html-1f1c)
+- [Compiling Linux Source Code for DEBIX Boards](https://dev.to/debix_sbc/compiling-linux-source-code-for-debix-boards-2f9i)
+- [Project KARL](https://dev.to/theaniketraj/project-karl-21nn)
+- [Systematic Thinking Development（1751445623800000）](https://dev.to/member_35db4d53/systematic-thinking-development1751445623800000-2p28)
+- [Things you did not know about the World&#39;s Largest Hackathon by⚡⚡ @boltdotnew . &lpar;It&#39;s not what you think&rpar;](https://dev.to/dirsebastian/things-you-did-not-know-about-the-worlds-largest-hackathon-by-boltdotnew-its-not-what-you-51i5)
+- [What Are the Best PCs for Redshift Rendering in 2025? [Build Guide &amp; Buying Tips]](https://dev.to/irender_gpu_cloud/what-are-the-best-pcs-for-redshift-rendering-in-2025-build-guide-buying-tips-42hl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
