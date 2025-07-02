@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Control of spin qubits at near absolute zero a game changer for quantum computers](https://dev.to/future_quantum/control-of-spin-qubits-at-near-absolute-zero-a-game-changer-for-quantum-computers-3k86)
-- [Roundcube: CVE-2025-49113 Room | TryHackMe](https://dev.to/dhwanit25/roundcube-cve-2025-49113-room-tryhackme-4i3p)
-- [California Lawmakers Agree on $750 Million in Funding for Film and TV Tax Credit](https://dev.to/popcorn_movies/california-lawmakers-agree-on-750-million-in-funding-for-film-and-tv-tax-credit-4hei)
-- [0delay — The Best Diss Linux-to-Linux File Transfer System You Will Wanna Use.](https://dev.to/contractorx/0delay-the-best-diss-linux-to-linux-file-transfer-system-you-will-wanna-use-168j)
-- [‘Brokeback Mountain&#39; Co-Writer Knew the Film Would Lose Best Picture After Learning Clint Eastwood Hadn&#39;t Seen the Movie](https://dev.to/popcorn_movies/brokeback-mountain-co-writer-knew-the-film-would-lose-best-picture-after-learning-clint-eastwood-211k)
+- [Technical Blog Writing Guide（1751417508416800）](https://dev.to/member_de57975b/technical-blog-writing-guide1751417508416800-3nj4)
+- [Step-by-Step Guideline to Teach HTML, CSS, and GitHub](https://dev.to/nadim_ch0wdhury/step-by-step-guideline-to-teach-html-css-and-github-lp)
+- [Switch 2 LCD Screen Slowest on Record](https://dev.to/gg_news/switch-2-lcd-screen-slowest-on-record-3kk1)
+- [# LabTorch Launches Lightweight Toolkit for Deep Learning in Molecular Biology](https://dev.to/maurizio_morri_f7f4bd128c/-labtorch-launches-lightweight-toolkit-for-deep-learning-in-molecular-biology-2f44)
+- [Just Launched: PRACTAcademy – Open Source Platform for Students Applying to MIT and Top U.S. Colleges](https://dev.to/theushen/just-launched-practacademy-open-source-platform-for-students-applying-to-mit-and-top-us-1pi4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
