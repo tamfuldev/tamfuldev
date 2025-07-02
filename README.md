@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Compiling Linux Source Code for DEBIX Boards](https://dev.to/debix_sbc/compiling-linux-source-code-for-debix-boards-2f9i)
-- [Project KARL](https://dev.to/theaniketraj/project-karl-21nn)
-- [Systematic Thinking Development（1751445623800000）](https://dev.to/member_35db4d53/systematic-thinking-development1751445623800000-2p28)
-- [Things you did not know about the World&#39;s Largest Hackathon by⚡⚡ @boltdotnew . &lpar;It&#39;s not what you think&rpar;](https://dev.to/dirsebastian/things-you-did-not-know-about-the-worlds-largest-hackathon-by-boltdotnew-its-not-what-you-51i5)
-- [What Are the Best PCs for Redshift Rendering in 2025? [Build Guide &amp; Buying Tips]](https://dev.to/irender_gpu_cloud/what-are-the-best-pcs-for-redshift-rendering-in-2025-build-guide-buying-tips-42hl)
+- [🤖 Agentic AI: Why Everyone’s Talking About the Future of Autonomous Intelligence](https://dev.to/abhishekjaiswal_4896/agentic-ai-why-everyones-talking-about-the-future-of-autonomous-intelligence-20ho)
+- [Mastering AWS Lambda: Your Guide to Serverless Computing](https://dev.to/prathish_deivendiran_86b5/mastering-aws-lambda-your-guide-to-serverless-computing-2emf)
+- [Testing for Accessibility: Building Inclusive Software in 2025](https://dev.to/vaibhavkuls/testing-for-accessibility-building-inclusive-software-in-2025-1lam)
+- [100K QPS Web Server Design（1751449800120900）](https://dev.to/member_de57975b/100k-qps-web-server-design1751449800120900-1p65)
+- [Advanced Tips for Building High-Performance Android Games](https://dev.to/krishanvijay/advanced-tips-for-building-high-performance-android-games-j4j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
