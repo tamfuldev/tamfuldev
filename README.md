@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Technical Blog Writing Guide（1751417508416800）](https://dev.to/member_de57975b/technical-blog-writing-guide1751417508416800-3nj4)
-- [Step-by-Step Guideline to Teach HTML, CSS, and GitHub](https://dev.to/nadim_ch0wdhury/step-by-step-guideline-to-teach-html-css-and-github-lp)
-- [Switch 2 LCD Screen Slowest on Record](https://dev.to/gg_news/switch-2-lcd-screen-slowest-on-record-3kk1)
-- [# LabTorch Launches Lightweight Toolkit for Deep Learning in Molecular Biology](https://dev.to/maurizio_morri_f7f4bd128c/-labtorch-launches-lightweight-toolkit-for-deep-learning-in-molecular-biology-2f44)
-- [Just Launched: PRACTAcademy – Open Source Platform for Students Applying to MIT and Top U.S. Colleges](https://dev.to/theushen/just-launched-practacademy-open-source-platform-for-students-applying-to-mit-and-top-us-1pi4)
+- [Real-Time Data Stream Processing（1751423501059300）](https://dev.to/member_35db4d53/real-time-data-stream-processing1751423501059300-3hpe)
+- [Running ML Models Locally with Docker Model Runner](https://dev.to/raju_dandigam/running-ml-models-locally-with-docker-model-runner-2pio)
+- [Event Driven Architecture Pattern Application Practice in Web Frameworks（1751422737742100）](https://dev.to/member_35db4d53/event-driven-architecture-pattern-application-practice-in-web-frameworks1751422737742100-24af)
+- [How AI Is Spicing Up Your Cooking Game](https://dev.to/sebastian_reid999/how-ai-is-spicing-up-your-cooking-game-ob8)
+- [RIP CRA - Now what?](https://dev.to/annaspies/rip-cra-now-what-1h9a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
