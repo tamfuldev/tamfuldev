@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 Agentic AI: Why Everyone’s Talking About the Future of Autonomous Intelligence](https://dev.to/abhishekjaiswal_4896/agentic-ai-why-everyones-talking-about-the-future-of-autonomous-intelligence-20ho)
-- [Mastering AWS Lambda: Your Guide to Serverless Computing](https://dev.to/prathish_deivendiran_86b5/mastering-aws-lambda-your-guide-to-serverless-computing-2emf)
-- [Testing for Accessibility: Building Inclusive Software in 2025](https://dev.to/vaibhavkuls/testing-for-accessibility-building-inclusive-software-in-2025-1lam)
-- [100K QPS Web Server Design（1751449800120900）](https://dev.to/member_de57975b/100k-qps-web-server-design1751449800120900-1p65)
-- [Advanced Tips for Building High-Performance Android Games](https://dev.to/krishanvijay/advanced-tips-for-building-high-performance-android-games-j4j)
+- [20+ Free &amp; Responsive React Website Templates to Use](https://dev.to/wrap-pixel/responsive-react-website-templates-for-developers-37gi)
+- [Starting Small, Dreaming Big: My LN247 Talk on Building Tech Startups in Nigeria](https://dev.to/subair09/starting-small-dreaming-big-my-ln247-talk-on-building-tech-startups-in-nigeria-k42)
+- [TSWHZC Technical Deep Dive: Openpayd-Ripple Integration Architecture](https://dev.to/tswhzc/tswhzc-technical-deep-dive-openpayd-ripple-integration-architecture-gl8)
+- [Memory Leak Terminator How Type Safety Saved My Graduation Project（1751453256722600）](https://dev.to/member_35db4d53/memory-leak-terminator-how-type-safety-saved-my-graduation-project1751453256722600-194h)
+- [The Modern Developer&#39;s Guide to Online API Documentation](https://dev.to/apilover/the-modern-developers-guide-to-online-api-documentation-88n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
