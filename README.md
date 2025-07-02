@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Real-Time Data Stream Processing（1751423501059300）](https://dev.to/member_35db4d53/real-time-data-stream-processing1751423501059300-3hpe)
-- [Running ML Models Locally with Docker Model Runner](https://dev.to/raju_dandigam/running-ml-models-locally-with-docker-model-runner-2pio)
-- [Event Driven Architecture Pattern Application Practice in Web Frameworks（1751422737742100）](https://dev.to/member_35db4d53/event-driven-architecture-pattern-application-practice-in-web-frameworks1751422737742100-24af)
-- [How AI Is Spicing Up Your Cooking Game](https://dev.to/sebastian_reid999/how-ai-is-spicing-up-your-cooking-game-ob8)
-- [RIP CRA - Now what?](https://dev.to/annaspies/rip-cra-now-what-1h9a)
+- [System Call Overhead Analysis（1751427467942800）](https://dev.to/member_de57975b/system-call-overhead-analysis1751427467942800-18ik)
+- [Service Discovery and Load Balancing Core Role Mechanisms in Distributed Systems（1751426192480800）](https://dev.to/member_de57975b/service-discovery-and-load-balancing-core-role-mechanisms-in-distributed-systems1751426192480800-5hk9)
+- [Azure Fundamentals: Microsoft.WindowsDefenderATP](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftwindowsdefenderatp-4in0)
+- [Congratulations To All Bolt Hackathon Participants](https://dev.to/baghmama/congratulations-to-all-bolt-hackathon-participants-2ag1)
+- [Containerized vs Traditional Deployment（1751425858053600）](https://dev.to/member_a5799784/containerized-vs-traditional-deployment1751425858053600-2i9l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
