@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Custom Web Apps Improve SEO Performance in 2025](https://dev.to/qasim_blogs/how-custom-web-apps-improve-seo-performance-in-2025-2575)
-- [Ngrok GitHub: The New Ngrok Isn’t Open Source, But Here’s a drop-in Open Source Alternative](https://dev.to/robbiecahill/ngrok-github-the-new-ngrok-isnt-open-source-but-heres-a-drop-in-open-source-alternative-4fmi)
-- [What does clean code look like in the age of AI?](https://dev.to/stephan/what-does-clean-code-look-like-in-the-age-of-ai-4i5c)
-- [Modern Web Architecture Type Safety Error Best（1751457072079400）](https://dev.to/member_35db4d53/modern-web-architecture-type-safety-error-best1751457072079400-47be)
-- [The End of Prompt Engineering and the Rise of Prompt Thinking](https://dev.to/norealname/the-end-of-prompt-engineering-and-the-rise-of-prompt-thinking-3c4d)
+- [PHP Static Analysis Tools: Writing Bug-Free Code Before Execution](https://dev.to/patoliyainfotech/php-static-analysis-tools-writing-bug-free-code-before-execution-311k)
+- [Code Cascade Theme for the Notion Developer&#39;s Hub is Complete! Next Up: The Circuit Board!](https://dev.to/lux_seminare/code-cascade-theme-for-the-notion-developers-hub-is-complete-next-up-the-circuit-board-jbc)
+- [Code with Soul: Solaria &amp; Barva Themes for VS Code](https://dev.to/andriy_ovcharov_312ead391/code-with-soul-solaria-barva-themes-for-vs-code-2cd8)
+- [Mastering Asynchronous JavaScript: Promises, Async/Await, and Beyond](https://dev.to/alexeybashkirov/mastering-asynchronous-javascript-promises-asyncawait-and-beyond-3b0i)
+- [Open Innovation Series #1 : What If Innovation Didn&#39;t Need Secrets?](https://dev.to/jholic/why-im-writing-about-open-technology-and-sustainable-ai-4la8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
