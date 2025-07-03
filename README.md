@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Well Explained Leetcode Hard 3333](https://dev.to/thedeepseeker/well-explained-leetcode-hard-3333-583d)
-- [🧙‍♂️Beginner-Friendly Guide &quot;Find the K-th Character in String Game I&quot; – LeetCode 3304 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-find-the-k-th-character-in-string-game-i-leetcode-3304-c--478a)
-- [Minimizing False Positives: Enhancing Security Efficiency](https://dev.to/snyk/minimizing-false-positives-enhancing-security-efficiency-b54)
-- [Cross Platform Web Write Once Run Rust Framework（1751506224416200）](https://dev.to/member_6bc7e52c/cross-platform-web-write-once-run-rust-framework1751506224416200-2hf2)
-- [Can Modern Systems Run Out of Memory Effects on malloc&lpar;&rpar;?](https://dev.to/adityabhuyan/can-modern-systems-run-out-of-memory-effects-on-malloc-22n1)
+- [Someone’s About to Get Egged… Is It You?](https://dev.to/junling_chen_6e7b70e8882a/someones-about-to-get-egged-is-it-you-517l)
+- [Flame Graph Performance Truth Analysis（1751513941781900）](https://dev.to/member_57439f86/flame-graph-performance-truth-analysis1751513941781900-2inj)
+- [Long Connection Management（1751513758421900）](https://dev.to/member_6bc7e52c/long-connection-management1751513758421900-19oc)
+- [How to Supercharge Your Dashboards: Combining Python Pandas with JavaScript for Advanced Data Analysis](https://dev.to/genildocs/how-to-supercharge-your-dashboards-combining-python-pandas-with-javascript-for-advanced-data-41n9)
+- [Understanding the Call Stack in JavaScript](https://dev.to/gunjangidwani/understanding-the-call-stack-in-javascript-3ojl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
