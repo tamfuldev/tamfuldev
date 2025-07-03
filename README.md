@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Debiasing LLM Judges: Understanding and correcting AI Evaluation Bias](https://dev.to/gyani_s/debiasing-llm-judges-understanding-and-correcting-ai-evaluation-bias-2ce4)
-- [Perfect Combination of Message Queue and Real-Time Communication Distributed Practice（1751557889400100）](https://dev.to/member_57439f86/perfect-combination-of-message-queue-and-real-time-communication-distributed-159o)
-- [What is o4-mini-high? All You Need to Know](https://dev.to/_37bbf0c253c0b3edec531e/what-is-o4-mini-high-all-you-need-to-know-58da)
-- [Remove the minimum](https://dev.to/maddiepst/remove-the-minimum-967)
-- [💸 How I Automated AWS Billing Control with Lambda, SNS &amp; Boto3](https://dev.to/akashabish/how-i-automated-aws-billing-control-with-lambda-sns-boto3-1j11)
+- [Hi, I’m Mohammad Rifatujjaman — Specializing in Software Development &amp; Android App Development](https://dev.to/mohammad_rifatujjaman/hi-im-mohammad-rifatujjaman-specializing-in-software-development-android-app-development-2hap)
+- [Indicators of Compromise &lpar;IoCs&rpar;](https://dev.to/pelk/indicators-of-compromise-iocs-1p77)
+- [Machine Learning Fundamentals: boosting project](https://dev.to/devopsfundamentals/machine-learning-fundamentals-boosting-project-1638)
+- [Bye bye!](https://dev.to/terceranexus6/bye-bye-3d8p)
+- [Sending Emails Using Queues in Laravel](https://dev.to/techsolver94/sending-emails-using-queues-in-laravel-16n0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
