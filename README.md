@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [𝘠𝘰𝘶 𝘮𝘢𝘺 𝘥𝘦𝘭𝘢𝘺, 𝘣𝘶𝘵 𝘵𝘪𝘮𝘦 𝘸𝘪𝘭𝘭 𝘯𝘰𝘵.](https://dev.to/sonmusui/--1k68)
-- [Why Now Is the Best Time to Start Freelance Web Development](https://dev.to/vjygour/why-now-is-the-best-time-to-start-freelance-web-development-2pm5)
-- [JavaScript Variable Naming: Rules You Can’t Ignore](https://dev.to/andriy_ovcharov_312ead391/javascript-variable-naming-rules-you-cant-ignore-593i)
-- [Containerized vs Traditional Deployment（1751519242763600）](https://dev.to/member_57439f86/containerized-vs-traditional-deployment1751519242763600-3084)
-- [Modular Design for Large-Scale Systems（1751519237254400）](https://dev.to/member_6bc7e52c/modular-design-for-large-scale-systems1751519237254400-3873)
+- [Developing a .NET Local Tool as a GitHub Copilot MCP Server](https://dev.to/elderjames/developing-a-net-local-tool-as-a-github-copilot-mcp-server-16n1)
+- [Make a Simple Airbnb Clone App](https://dev.to/david_beckam_df898f761b30/make-a-simple-airbnb-clone-app-3bpf)
+- [Memory Safety and Ultimate Performance Finding Perfect Balance in Rust（1751521513673600）](https://dev.to/member_57439f86/memory-safety-and-ultimate-performance-finding-perfect-balance-in-rust1751521513673600-568f)
+- [🎓 Currently Pursuing a Degree and Designing on Figma — My Dual Life as a Student &amp; Creator](https://dev.to/rosenkrvz/currently-pursuing-a-degree-and-designing-on-figma-my-dual-life-as-a-student-creator-224i)
+- [[Boost]](https://dev.to/chiamaka_nwoke/-16pf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
