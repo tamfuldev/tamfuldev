@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/sarahokolo/-4499)
-- [Onion Architecture Application in Web Dev Deep Analysis of Middleware Patterns（1751529511681000）](https://dev.to/member_6bc7e52c/onion-architecture-application-in-web-dev-deep-analysis-of-middleware-patterns1751529511681000-4gg0)
-- [Middleware Magic Advanced Request Processing Techniques（1751528826827600）](https://dev.to/member_6bc7e52c/middleware-magic-advanced-request-processing-techniques1751528826827600-3fl9)
-- [A Developer&#39;s Guide to Unit Testing Nuxt 3 Server Routes](https://dev.to/doantrongnam/a-developers-guide-to-unit-testing-nuxt-3-server-routes-4f55)
-- [Access to Gemini Model](https://dev.to/olatunjiayodel9/access-to-gemini-model-3d84)
+- [Broadcast devices&#39; name on the local network](https://dev.to/nfrankel/broadcast-devices-name-on-the-local-network-2no7)
+- [Recognizing SEMI OCR Font with Python and Dynamsoft Capture Vision SDK](https://dev.to/yushulx/recognizing-semi-ocr-font-with-python-and-dynamsoft-capture-vision-sdk-4n53)
+- [How to test signup flows with Playwright and real email verification](https://dev.to/rodion_3389008d3dc9f14749/how-to-test-signup-flows-with-playwright-and-real-email-verification-2ki7)
+- [🧠 JSONZen: Free Online JSON Formatter Tool Built with Next.js &amp; Tailwind](https://dev.to/manukumar07/jsonzen-free-online-json-formatter-tool-built-with-nextjs-tailwind-p62)
+- [Functional Programming in Web（1751532936719600）](https://dev.to/member_6bc7e52c/functional-programming-in-web1751532936719600-2pma)
 <!-- BLOG-POST-LIST:END -->
 
 ---
