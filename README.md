@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Next Generation High Web Rust Based Solutions（1751497162357700）](https://dev.to/member_6bc7e52c/next-generation-high-web-rust-based-solutions1751497162357700-4bfi)
-- [Charm of Method Chaining Fluent Interface Patterns in Frameworks（1751497103333400）](https://dev.to/member_57439f86/charm-of-method-chaining-fluent-interface-patterns-in-frameworks1751497103333400-l6a)
-- [[Boost]](https://dev.to/nawab_kumar_sarraf/-437a)
-- [API Gateway Pattern Unified Entry Management Strategy in Microservices（1751496533987200）](https://dev.to/member_6bc7e52c/api-gateway-pattern-unified-entry-management-strategy-in-microservices1751496533987200-3fla)
-- [Deployment Automation 1（1751496462042800）](https://dev.to/member_57439f86/deployment-automation-11751496462042800-2b6l)
+- [SaaS friends - Stop reimplementing messaging features 🛑 🫷🦺🫸 🛑](https://dev.to/chandycraig/saas-friends-stop-reimplementing-messaging-features-53hb)
+- [Memory Layout Optimization（1751499047330300）](https://dev.to/member_6bc7e52c/memory-layout-optimization1751499047330300-2jmd)
+- [Flame Graph Performance Truth Analysis（1751499026815000）](https://dev.to/member_57439f86/flame-graph-performance-truth-analysis1751499026815000-2g93)
+- [Career Planning for CS Students（1751499017933300）](https://dev.to/member_35db4d53/career-planning-for-cs-students1751499017933300-2opd)
+- [Understanding Node.js ABI Version: What It Is and Why It Matters](https://dev.to/silentwatcher_95/understanding-nodejs-abi-version-what-it-is-and-why-it-matters-22g3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
