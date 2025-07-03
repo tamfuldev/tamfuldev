@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Business Problems Solved by Custom AI Solutions](https://dev.to/qasim_blogs/top-5-business-problems-solved-by-custom-ai-solutions-2gp9)
-- [Article: Write an article on Seasons](https://dev.to/varuni_j_154728175e3f9f85/article-write-an-article-on-seasons-4j2g)
-- [Rust Web Framework Analysis Deep Dive Safety Features（1751544580794900）](https://dev.to/member_6bc7e52c/rust-web-framework-analysis-deep-dive-safety-features1751544580794900-37k6)
-- [Article: Write an article on seasons](https://dev.to/varuni_j_154728175e3f9f85/article-write-an-article-on-seasons-21af)
-- [Simple todo app with HTML and JS](https://dev.to/tamilvanan/simple-todo-app-with-html-and-js-1ko2)
+- [Technical Debt Management（1751548777698600）](https://dev.to/member_57439f86/technical-debt-management1751548777698600-429o)
+- [Art of System Integration Make Applications Run Seamlessly Across Different Platforms（1751548691003600）](https://dev.to/member_6bc7e52c/art-of-system-integration-make-applications-run-seamlessly-across-different-1ohf)
+- [Why 72% of Magento Developers Prefer Hyvä](https://dev.to/navigate_commerce/why-72-of-magento-developers-prefer-hyva-3mg5)
+- [From Binance to Grafana: Building a Real-Time Crypto Dashboard with CDC &amp; Cassandra](https://dev.to/kelly_10/from-binance-to-grafana-building-a-real-time-crypto-dashboard-with-cdc-cassandra-4c26)
+- [🔍 Correlating Mirantis Kubernetes Engine &lpar;MKE&rpar; Symptoms with Components](https://dev.to/sindhuja_ns_1e491ce1088d/correlating-mirantis-kubernetes-engine-mke-symptoms-with-components-59d0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
