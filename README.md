@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Excited to share my developer journey! Just got listed on Wikidata as one of the youngest full-stack developers in India. See my full story and work here: https://sai-likhith-portfolio.vercel.app 🚀 #MERN #Developer #Wikidata #TechJourney](https://dev.to/sailikhith_gb_d4e7440980/excited-to-share-my-developer-journey-just-got-listed-on-wikidata-as-one-of-the-youngest-2po1)
-- [I deleted Windows &lpar;and my Bootloader&rpar;](https://dev.to/lsroot/i-deleted-windows-and-my-bootloader-299f)
-- [Path of Network Programming Deep Dive from TCP to Application Layer Protocols（1751550748669400）](https://dev.to/member_6bc7e52c/path-of-network-programming-deep-dive-from-tcp-to-application-layer-protocols1751550748669400-23mj)
-- [Memory Safety in Web Rust System Zero Cost Secure（1751550293518900）](https://dev.to/member_57439f86/memory-safety-in-web-rust-system-zero-cost-secure1751550293518900-24nd)
-- [Hexagonal Architecture Implementation（1751550062786700）](https://dev.to/member_6bc7e52c/hexagonal-architecture-implementation1751550062786700-1g40)
+- [I Started Learning JavaScript Again—A Beginner-Friendly Guide to the Basics](https://dev.to/dumebii/i-started-learning-javascript-again-a-beginner-friendly-guide-to-the-basics-5f50)
+- [Day 4 :Building Models and Templates for Inventory and Orders Apps in My Django Store Manager](https://dev.to/silasochieng/building-models-and-templates-for-inventory-and-orders-apps-in-my-django-store-manager-7jm)
+- [JavaScript loops explained, and best practices](https://dev.to/logrocket/javascript-loops-explained-and-best-practices-23ep)
+- [Weekly Job Roundup ✨ July 3rd Edition](https://dev.to/resume-matcher/weekly-job-roundup-july-3rd-edition-3bc6)
+- [Say Goodbye to Try-Catch: Smarter Async Error Handling in Express](https://dev.to/rashedin063/say-goodbye-to-try-catch-smarter-async-error-handling-in-express-njj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
