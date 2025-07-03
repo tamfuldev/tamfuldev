@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Technical Debt Management（1751548777698600）](https://dev.to/member_57439f86/technical-debt-management1751548777698600-429o)
-- [Art of System Integration Make Applications Run Seamlessly Across Different Platforms（1751548691003600）](https://dev.to/member_6bc7e52c/art-of-system-integration-make-applications-run-seamlessly-across-different-1ohf)
-- [Why 72% of Magento Developers Prefer Hyvä](https://dev.to/navigate_commerce/why-72-of-magento-developers-prefer-hyva-3mg5)
-- [From Binance to Grafana: Building a Real-Time Crypto Dashboard with CDC &amp; Cassandra](https://dev.to/kelly_10/from-binance-to-grafana-building-a-real-time-crypto-dashboard-with-cdc-cassandra-4c26)
-- [🔍 Correlating Mirantis Kubernetes Engine &lpar;MKE&rpar; Symptoms with Components](https://dev.to/sindhuja_ns_1e491ce1088d/correlating-mirantis-kubernetes-engine-mke-symptoms-with-components-59d0)
+- [Excited to share my developer journey! Just got listed on Wikidata as one of the youngest full-stack developers in India. See my full story and work here: https://sai-likhith-portfolio.vercel.app 🚀 #MERN #Developer #Wikidata #TechJourney](https://dev.to/sailikhith_gb_d4e7440980/excited-to-share-my-developer-journey-just-got-listed-on-wikidata-as-one-of-the-youngest-2po1)
+- [I deleted Windows &lpar;and my Bootloader&rpar;](https://dev.to/lsroot/i-deleted-windows-and-my-bootloader-299f)
+- [Path of Network Programming Deep Dive from TCP to Application Layer Protocols（1751550748669400）](https://dev.to/member_6bc7e52c/path-of-network-programming-deep-dive-from-tcp-to-application-layer-protocols1751550748669400-23mj)
+- [Memory Safety in Web Rust System Zero Cost Secure（1751550293518900）](https://dev.to/member_57439f86/memory-safety-in-web-rust-system-zero-cost-secure1751550293518900-24nd)
+- [Hexagonal Architecture Implementation（1751550062786700）](https://dev.to/member_6bc7e52c/hexagonal-architecture-implementation1751550062786700-1g40)
 <!-- BLOG-POST-LIST:END -->
 
 ---
