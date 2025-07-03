@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Developing a .NET Local Tool as a GitHub Copilot MCP Server](https://dev.to/elderjames/developing-a-net-local-tool-as-a-github-copilot-mcp-server-16n1)
-- [Make a Simple Airbnb Clone App](https://dev.to/david_beckam_df898f761b30/make-a-simple-airbnb-clone-app-3bpf)
-- [Memory Safety and Ultimate Performance Finding Perfect Balance in Rust（1751521513673600）](https://dev.to/member_57439f86/memory-safety-and-ultimate-performance-finding-perfect-balance-in-rust1751521513673600-568f)
-- [🎓 Currently Pursuing a Degree and Designing on Figma — My Dual Life as a Student &amp; Creator](https://dev.to/rosenkrvz/currently-pursuing-a-degree-and-designing-on-figma-my-dual-life-as-a-student-creator-224i)
-- [[Boost]](https://dev.to/chiamaka_nwoke/-16pf)
+- [☁️🧠🕹️AWS Cloud Quest: Practitioner Mode &lpar;Retro Edition&rpar;🤖](https://dev.to/divyasinghdev/aws-cloud-quest-practitioner-mode-retro-edition-5b43)
+- [I&#39;m a complete beginner with no skills so far and I want to begin with DSA in java, can anyone suggest free platforms for that](https://dev.to/chhavi_joshi_ede276cfcc06/im-a-complete-beginner-with-no-skills-so-far-and-i-want-to-begin-with-dsa-can-anyone-suggest-free-4hje)
+- [Top 5 WordPress Security Plugins to Use for Site Safety 2025](https://dev.to/serveravatar/top-5-wordpress-security-plugins-to-use-for-site-safety-2025-5785)
+- [Polling Is So Last Year—Level Up with Real‑Time WebSockets in Node.js! 🚀](https://dev.to/saumyaaggarwal/polling-is-so-last-year-level-up-with-real-time-websockets-in-nodejs-4oi2)
+- [Next Generation High Web Rust Based Solutions（1751525403587200）](https://dev.to/member_6bc7e52c/next-generation-high-web-rust-based-solutions1751525403587200-53ha)
 <!-- BLOG-POST-LIST:END -->
 
 ---
