@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Someone’s About to Get Egged… Is It You?](https://dev.to/junling_chen_6e7b70e8882a/someones-about-to-get-egged-is-it-you-517l)
-- [Flame Graph Performance Truth Analysis（1751513941781900）](https://dev.to/member_57439f86/flame-graph-performance-truth-analysis1751513941781900-2inj)
-- [Long Connection Management（1751513758421900）](https://dev.to/member_6bc7e52c/long-connection-management1751513758421900-19oc)
-- [How to Supercharge Your Dashboards: Combining Python Pandas with JavaScript for Advanced Data Analysis](https://dev.to/genildocs/how-to-supercharge-your-dashboards-combining-python-pandas-with-javascript-for-advanced-data-41n9)
-- [Understanding the Call Stack in JavaScript](https://dev.to/gunjangidwani/understanding-the-call-stack-in-javascript-3ojl)
+- [Creating a Storage Account with Security and Networking Settings](https://dev.to/cliffndee/creating-a-storage-account-with-security-and-networking-settings-2k84)
+- [[Adult Learning Log] C Language – Week 4 Review](https://dev.to/sankworks/adult-learning-log-c-language-week-4-review-c9p)
+- [Laravel Octane vs. PHP-FPM: A Deep Dive into Modern PHP Performance](https://dev.to/arasosman/laravel-octane-vs-php-fpm-a-deep-dive-into-modern-php-performance-4lf7)
+- [Open Source Community Values（1751515813278400）](https://dev.to/member_6bc7e52c/open-source-community-values1751515813278400-3g96)
+- [A Step-by-Step Guide to Deploying n8n on Oracle Cloud Free Tier](https://dev.to/dalenguyen/a-step-by-step-guide-to-deploying-n8n-on-oracle-cloud-free-tier-cjp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
