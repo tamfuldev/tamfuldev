@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SafeLine WAF Docker Compose Explained: How the `fvm` Service Works](https://dev.to/sharon_42e16b8da44dabde6d/safeline-waf-docker-compose-explained-how-the-fvm-service-works-21a4)
-- [🤖 Runner H x You: A Tactical Life Overhaul Agent ❤️‍🔥📜✨](https://dev.to/divyasinghdev/runner-h-x-you-a-tactical-life-overhaul-agent-2og9)
-- [Day 1 : Institute Management](https://dev.to/sugumar_r_a5f301adf1fb49a/day-1-institute-management-5d3g)
-- [Understanding Malware: From Viruses to Ransomware, What You Need to Know?](https://dev.to/koswara_c79/understanding-malware-from-viruses-to-ransomware-what-you-need-to-know-3k6g)
-- [Use codecrafters to learn by building the most fundamental concepts of computer science](https://dev.to/sroy8091/use-codecrafters-to-learn-by-building-the-most-fundamental-concepts-of-computer-science-4m19)
+- [Don&#39;t expose your database to the world](https://dev.to/michaelishri/dont-expose-your-database-to-the-world-3fke)
+- [Interactive 3D Office Desk](https://dev.to/member_01928ffe/interactive-3d-office-desk-1b4i)
+- [AI Is Just Another Excel: What the Spreadsheet Revolution Teaches Us About the Future of Work](https://dev.to/copyleftdev/ai-is-just-another-excel-what-the-spreadsheet-revolution-teaches-us-about-the-future-of-work-59cl)
+- [PWA Offline-First Strategies-Key Steps to Enhance User Experience](https://dev.to/tianyaschool/pwa-offline-first-strategies-key-steps-to-enhance-user-experience-53po)
+- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-n84)
 <!-- BLOG-POST-LIST:END -->
 
 ---
