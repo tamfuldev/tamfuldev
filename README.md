@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My experience with Fedora Atomic](https://dev.to/r0x0d/my-experience-with-fedora-atomic-3k2m)
-- [AI Is Collapsing the Front‑End / Back‑End Divide](https://dev.to/elfrontend/ai-is-collapsing-the-front-end-back-end-divide-lk2)
-- [Basics of Delegates](https://dev.to/elcatbot/basics-of-delegates-46fn)
-- [[memo]Evaluating the Quality of Hallucination Benchmarks for Large Vision-Language Models](https://dev.to/taniguchitakara/memoevaluating-the-quality-of-hallucination-benchmarksfor-large-vision-language-models-2962)
-- [Build Apps with Google AI Studio](https://dev.to/persadian/build-apps-with-google-ai-studio-30l2)
+- [Stop Wasting API Calls: Learn API Request Cancellation in Modern JavaScript](https://dev.to/codewithrajat/stop-wasting-api-calls-learn-api-request-cancellation-in-modern-javascript-57e7)
+- [Best Solution and explanation of Leetcode-3307](https://dev.to/thedeepseeker/best-solution-and-explanation-of-leetcode-3307-22lc)
+- [Showcasing MinuteMail: Secure Disposable Inboxes with API Access](https://dev.to/christian_potvin_73438f37/showcasing-minutemail-secure-disposable-inboxes-with-api-access-10p0)
+- [Today I Learned JavaScript String Methods](https://dev.to/seenuvasan_p/today-i-learned-javascript-string-methods-4bih)
+- [The 90–90 Rule and DevOps: Why the Last 10% of Code Will Break Your Sprint](https://dev.to/kedster/the-90-90-rule-and-devops-why-the-last-10-of-code-will-break-your-sprint-506o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
