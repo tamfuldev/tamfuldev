@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Wasting API Calls: Learn API Request Cancellation in Modern JavaScript](https://dev.to/codewithrajat/stop-wasting-api-calls-learn-api-request-cancellation-in-modern-javascript-57e7)
-- [Best Solution and explanation of Leetcode-3307](https://dev.to/thedeepseeker/best-solution-and-explanation-of-leetcode-3307-22lc)
-- [Showcasing MinuteMail: Secure Disposable Inboxes with API Access](https://dev.to/christian_potvin_73438f37/showcasing-minutemail-secure-disposable-inboxes-with-api-access-10p0)
-- [Today I Learned JavaScript String Methods](https://dev.to/seenuvasan_p/today-i-learned-javascript-string-methods-4bih)
-- [The 90–90 Rule and DevOps: Why the Last 10% of Code Will Break Your Sprint](https://dev.to/kedster/the-90-90-rule-and-devops-why-the-last-10-of-code-will-break-your-sprint-506o)
+- [SafeLine WAF Docker Compose Explained: How the `fvm` Service Works](https://dev.to/sharon_42e16b8da44dabde6d/safeline-waf-docker-compose-explained-how-the-fvm-service-works-21a4)
+- [🤖 Runner H x You: A Tactical Life Overhaul Agent ❤️‍🔥📜✨](https://dev.to/divyasinghdev/runner-h-x-you-a-tactical-life-overhaul-agent-2og9)
+- [Day 1 : Institute Management](https://dev.to/sugumar_r_a5f301adf1fb49a/day-1-institute-management-5d3g)
+- [Understanding Malware: From Viruses to Ransomware, What You Need to Know?](https://dev.to/koswara_c79/understanding-malware-from-viruses-to-ransomware-what-you-need-to-know-3k6g)
+- [Use codecrafters to learn by building the most fundamental concepts of computer science](https://dev.to/sroy8091/use-codecrafters-to-learn-by-building-the-most-fundamental-concepts-of-computer-science-4m19)
 <!-- BLOG-POST-LIST:END -->
 
 ---
