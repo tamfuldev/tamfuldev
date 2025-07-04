@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t expose your database to the world](https://dev.to/michaelishri/dont-expose-your-database-to-the-world-3fke)
-- [Interactive 3D Office Desk](https://dev.to/member_01928ffe/interactive-3d-office-desk-1b4i)
-- [AI Is Just Another Excel: What the Spreadsheet Revolution Teaches Us About the Future of Work](https://dev.to/copyleftdev/ai-is-just-another-excel-what-the-spreadsheet-revolution-teaches-us-about-the-future-of-work-59cl)
-- [PWA Offline-First Strategies-Key Steps to Enhance User Experience](https://dev.to/tianyaschool/pwa-offline-first-strategies-key-steps-to-enhance-user-experience-53po)
-- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-n84)
+- [7 Premium AI Tools You Can Get for Free](https://dev.to/connectalamin/7-premium-ai-tools-you-can-get-for-free-231k)
+- [Distributed Logging: ตอนที่ 1 ให้ Log รู้ว่าเกิดจาก Request เดียวกัน](https://dev.to/somprasongd/distributed-logging-tnthii-1-aih-log-ruuwaaekidcchaak-request-ediiywkan-2p4n)
+- [🤬 Hidden Dangers of Modern Living: The Rise of New Diseases, Industrial Greed, and How to Protect Yourself](https://dev.to/zainulabdeenofficial/hidden-dangers-of-modern-living-the-rise-of-new-diseases-industrial-greed-and-how-to-protect-31f6)
+- [Building the Future: Career Paths in Agentic AI](https://dev.to/agami_tech_414cabb7522ea1/building-the-future-career-paths-in-agentic-ai-1ja)
+- [[Boost]](https://dev.to/plinho/-5ddf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
