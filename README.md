@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Escritura para desarrolladores en la era de la IA](https://dev.to/meyer-pidiache/escritura-para-desarrolladores-en-la-era-de-la-ia-1cn8)
-- [Security news weekly round-up - 4th July 2025](https://dev.to/ziizium/security-news-weekly-round-up-4th-july-2025-gfi)
-- [Automating SOP Content Creation with Runner H](https://dev.to/cybertica/automating-sop-content-creation-with-runner-h-5cnp)
-- [10 Best LeetCode Alternatives for Coding Practice and Interview Prep &lpar;2025&rpar;](https://dev.to/blasterzm/10-best-leetcode-alternatives-for-coding-practice-and-interview-prep-2025-1nk1)
-- [From “I don’t know a single line of code” to building my first AI-powered web app at the world’s largest hackathon](https://dev.to/yanleong1027/from-i-dont-know-a-single-line-of-code-to-building-my-first-ai-powered-web-app-at-the-worlds-4phe)
+- [Warum Clean Code manchmal zu &#39;sauber&#39; ist 🧹](https://dev.to/ivo_sa/warum-clean-code-manchmal-zu-sauber-ist-oka)
+- [Code Smell 306 - AI External Comments](https://dev.to/mcsee/code-smell-306-ai-external-comments-4556)
+- [How to Easily Export an Entire Squarespace Site as Static HTML Files](https://dev.to/ybouane/how-to-easily-export-an-entire-squarespace-site-as-static-html-files-57jp)
+- [Our Company&#39;s Newest Employee is an AI. It&#39;s Rewriting My Job Description.](https://dev.to/sonnia_okoye/our-companys-newest-employee-is-an-ai-its-rewriting-my-job-description-1ijg)
+- [Why More People in Dalton Are Choosing Dental Implants](https://dev.to/smith_jacob_f1ad69b6f40b6/why-more-people-in-dalton-are-choosing-dental-implants-46jp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
