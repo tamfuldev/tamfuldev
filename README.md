@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding - Conversational Software Development - Part 1 Introduction](https://dev.to/gauravgaur/vibe-coding-conversational-software-development-part-1-introduction-2p41)
-- [A Multi-Part Series: Architecting a Giant - 17 Products Enhanced by AI](https://dev.to/khuepm/a-multi-part-series-architecting-a-giant-17-products-enhanced-by-ai-2cgm)
-- [Day 13/100: Variable Scope – Global vs Local in Python](https://dev.to/therahul_gupta/day-13100-variable-scope-global-vs-local-in-python-5882)
-- [AI-Driven Development: Code Smarter with Vue.js, Beginners-Friendly 2025](https://dev.to/eleftheriabatsou/ai-driven-development-code-smarter-with-vuejs-beginners-friendly-2025-3632)
-- [Email Template Tricks that Actually Work](https://dev.to/saltorgil/email-template-tricks-that-actually-work-15ol)
+- [Everyone said it was genius. No one used it.](https://dev.to/vulcanwm/everyone-said-it-was-genius-no-one-used-it-2hap)
+- [BrandSpark: AI-Powered Logo Generator with Google AI Studio](https://dev.to/soumasish2005/brandspark-ai-powered-logo-generator-with-google-ai-studio-39l4)
+- [From manual to autonomous: How AI-driven scraping saves 40% of time](https://dev.to/astro-official/from-manual-to-autonomous-how-ai-driven-scraping-saves-40-of-time-420l)
+- [Advanced Testing Management Tools: Enterprise-Grade CI/CD Pipeline Examples](https://dev.to/luzkalidgm/advanced-testing-management-tools-enterprise-grade-cicd-pipeline-examples-g97)
+- [I’ve added my demo video to my post.](https://dev.to/budigunawan99/ive-added-my-demo-video-to-my-post-1p8o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
