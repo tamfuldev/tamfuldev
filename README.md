@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Warum Clean Code manchmal zu &#39;sauber&#39; ist 🧹](https://dev.to/ivo_sa/warum-clean-code-manchmal-zu-sauber-ist-oka)
-- [Code Smell 306 - AI External Comments](https://dev.to/mcsee/code-smell-306-ai-external-comments-4556)
-- [How to Easily Export an Entire Squarespace Site as Static HTML Files](https://dev.to/ybouane/how-to-easily-export-an-entire-squarespace-site-as-static-html-files-57jp)
-- [Our Company&#39;s Newest Employee is an AI. It&#39;s Rewriting My Job Description.](https://dev.to/sonnia_okoye/our-companys-newest-employee-is-an-ai-its-rewriting-my-job-description-1ijg)
-- [Why More People in Dalton Are Choosing Dental Implants](https://dev.to/smith_jacob_f1ad69b6f40b6/why-more-people-in-dalton-are-choosing-dental-implants-46jp)
+- [How I Structure My FastAPI Projects for Clean, Scalable Code](https://dev.to/m_muhd8/how-i-structure-my-fastapi-projects-for-clean-scalable-code-594n)
+- [Programming Entry Level: learn linux](https://dev.to/devopsfundamentals/programming-entry-level-learn-linux-130i)
+- [🚀 Frontend Roadmap 2025 for Absolute Beginners &lpar;With Free Resources&rpar;](https://dev.to/yaldakhoshpey/frontend-roadmap-2025-for-absolute-beginners-with-free-resources-3c2o)
+- [How to Write a CV That Matches Today’s Hiring Standards](https://dev.to/david_jone/how-to-write-a-cv-that-matches-todays-hiring-standards-5889)
+- [Day night cycle](https://dev.to/waste_land_0202106205ae31/day-night-cycle-5ghp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
