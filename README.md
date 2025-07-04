@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 24: When Your Startup Title Sounds Cooler Than Your Actual Skills](https://dev.to/casperday11/day-24-when-your-startup-title-sounds-cooler-than-your-actual-skills-j4b)
-- [The Zen of a Programmer: &quot;Less Code — More Meaning&quot;](https://dev.to/andriy_ovcharov_312ead391/the-zen-of-a-programmer-less-code-more-meaning-3lh6)
-- [CSS Animations](https://dev.to/asran_2025/css-animations-1f9a)
-- [Understanding the TSX Completion Index: A Guide for Investors](https://dev.to/elsa_rae_098/understanding-the-tsx-completion-index-a-guide-for-investors-3ea1)
-- [🎉 Friday Fun: Building a B-Tree Visualizer &lpar;Because We&#39;re Nerds&rpar;](https://dev.to/sroy8091/friday-fun-building-a-b-tree-visualizer-because-were-nerds-3d2d)
+- [Part 1: Building Zero-Knowledge Encryption That Actually Works](https://dev.to/alexsofroniev/part-1-building-zero-knowledge-encryption-that-actually-works-2ijf)
+- [Postgres on a Budget: 3 Free Solutions You Should Know](https://dev.to/engroso/postgres-on-a-budget-3-free-solutions-you-should-know-184h)
+- [Open Innovation #2 : If We Share Technology, What Kind of Future Could We Build?](https://dev.to/jholic/open-innovation-2-if-we-share-technology-what-kind-of-future-could-we-build-2ghj)
+- [วิธี add vdi to virtualbox ที่ download จาก osboxes.org](https://dev.to/cross1308/withii-add-vdi-to-virtualbox-thii-download-cchaak-osboxesorg-5a9m)
+- [วิธี share clipboard ไปยัง ubuntu ใน virtualbox](https://dev.to/cross1308/withii-share-clipboard-aipyang-ubuntu-ain-virtualbox-39gj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
