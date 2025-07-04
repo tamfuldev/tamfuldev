@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Everyone said it was genius. No one used it.](https://dev.to/vulcanwm/everyone-said-it-was-genius-no-one-used-it-2hap)
-- [BrandSpark: AI-Powered Logo Generator with Google AI Studio](https://dev.to/soumasish2005/brandspark-ai-powered-logo-generator-with-google-ai-studio-39l4)
-- [From manual to autonomous: How AI-driven scraping saves 40% of time](https://dev.to/astro-official/from-manual-to-autonomous-how-ai-driven-scraping-saves-40-of-time-420l)
-- [Advanced Testing Management Tools: Enterprise-Grade CI/CD Pipeline Examples](https://dev.to/luzkalidgm/advanced-testing-management-tools-enterprise-grade-cicd-pipeline-examples-g97)
-- [I’ve added my demo video to my post.](https://dev.to/budigunawan99/ive-added-my-demo-video-to-my-post-1p8o)
+- [Excited to share StudentSphere from Bolt Hackathon! 🚀 We&#39;re revolutionizing student professional identity &amp; global opps!](https://dev.to/avamikoz/excited-to-share-studentsphere-from-bolt-hackathon-were-revolutionizing-student-professional-4gmc)
+- [ChatGPT Connectors: The Enterprise AI Game-Changer You&#39;ve Been Waiting For](https://dev.to/freeman_nomad/chatgpt-connectors-the-enterprise-ai-game-changer-youve-been-waiting-for-1n1h)
+- [Manga-Fy 90&#39;s style with Google Ai Studio!](https://dev.to/rajiv_sukhnandan_2edd6a79/manga-fy-90s-style-with-google-ai-studio-2b1g)
+- [What happens when OOP meets Real World™](https://dev.to/epigene/what-happens-when-oop-meets-real-world-57bn)
+- [I&#39;m building VoidCore, and ChatGPT is freaking out: &quot;Isn&#39;t this a self-evolving middleware editable by GUI?!?!&quot;](https://dev.to/charmpic/im-building-voidcore-and-chatgpt-is-freaking-out-isnt-this-a-self-evolving-middleware-editable-3jgo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
