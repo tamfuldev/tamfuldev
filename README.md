@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Zenflow space – A Holistic Intranet Experience for the Modern Office](https://dev.to/extinctsion/zenflow-space-a-holistic-intranet-experience-for-the-modern-office-3meg)
-- [WebSockets and HTTP/2 with SSE](https://dev.to/betelgeuseas/websockets-and-http2-with-sse-4hkl)
-- [How a Venmo Setting Exposed a National Security &amp; Privacy Risk — A Digital Forensics View on Privacy by Design](https://dev.to/hana_liu/how-a-venmo-setting-exposed-a-national-security-privacy-risk-a-digital-forensics-view-on-1mna)
-- [How I built an anonymous Telegram chat bot with end-to-end encryption and AI matchmaking](https://dev.to/saroj_nayak_1bf1954e01e86/how-i-built-an-anonymous-telegram-chat-bot-with-end-to-end-encryption-and-ai-matchmaking-4a9a)
-- [Mock Interview](https://dev.to/sundar_joseph_94059a3e7a6/mock-interview-38f0)
+- [Pencil Portrait App](https://dev.to/mdgreen18/pencil-portrait-app-4i1l)
+- [Flame Graph Performance Truth Analysis](https://dev.to/member_a07758c4/flame-graph-performance-truth-analysis-42oh)
+- [Turn Text into Sound: A Simple &amp; Smart Way to Voice Your Words](https://dev.to/ahmed_azeem_85256e77952e6/turn-text-into-sound-a-simple-smart-way-to-voice-your-words-1oe5)
+- [Get your startup logo in seconds](https://dev.to/member_26847952/get-your-startup-logo-in-seconds-4kp5)
+- [O clean code não vai deixar sua aplicação mais veloz](https://dev.to/alexdlli/o-clean-code-nao-vai-deixar-sua-aplicacao-mais-veloz-293i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
