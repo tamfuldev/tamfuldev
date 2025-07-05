@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Fruit Sales Invoice Generator, Runner Hackaton](https://dev.to/capjud95/fruit-sales-invoice-generator-runner-hackaton-ll6)
-- [growth.design](https://dev.to/blue8akash/growthdesign-1coo)
-- [WWDC 2025 - Swift Charts 3D: A Complete Guide to 3D Data Visualization](https://dev.to/arshtechpro/wwdc-2025-swift-charts-3d-a-complete-guide-to-3d-data-visualization-40nc)
-- [From Prompts to Plays: Using Language Models as Game AI in PHP](https://dev.to/dobrenteiistvan/from-prompts-to-plays-using-language-models-as-game-ai-in-php-kcm)
-- [Domain Mapping Architecture](https://dev.to/member_a07758c4/domain-mapping-architecture-2cp1)
+- [An AI Assistant for Smarter Search experience in Firefox](https://dev.to/dfumg_e7873759c4024089bc3/an-ai-assistant-for-smarter-search-experience-in-firefox-36b6)
+- [Junie uses Sonnet models](https://dev.to/ozkanpakdil/junie-uses-sonnet-models-2793)
+- [My Git Learning Journey: From git init to git rebase 🚀](https://dev.to/sahillearninglinux/my-git-learning-journey-from-git-init-to-git-rebase-1d91)
+- [Contextual chunking for Retrieval Augmented Generation](https://dev.to/lewis_won/contextual-chunking-for-retrieval-augmented-generation-3lha)
+- [Build and Deploy a Fullstack AI App with Flask, React, JWT, Neon Database, Mistral &amp; Groq Cloud – Project Milo Part 1 &lpar;Backend&rpar;](https://dev.to/osiris8/build-and-deploy-a-fullstack-ai-app-with-flask-react-jwt-neon-database-mistral-groq-cloud--42ce)
 <!-- BLOG-POST-LIST:END -->
 
 ---
