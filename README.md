@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Single Core High Concurrency](https://dev.to/member_a07758c4/single-core-high-concurrency-8kj)
-- [Java Architecture](https://dev.to/bharad_s/java-architecture-3n6h)
-- [Day 15/100: Lambda Functions – Python&#39;s Anonymous One-Liners](https://dev.to/therahul_gupta/day-15100-lambda-functions-pythons-anonymous-one-liners-1iio)
-- [Personal AI Assistant](https://dev.to/thesurajarya/personal-ai-assistant-3ffb)
-- [Locking Down Your Docker Containers: A Developer’s Guide to Encryption](https://dev.to/shrsv/locking-down-your-docker-containers-a-developers-guide-to-encryption-2h3l)
+- [Zenflow space – A Holistic Intranet Experience for the Modern Office](https://dev.to/extinctsion/zenflow-space-a-holistic-intranet-experience-for-the-modern-office-3meg)
+- [WebSockets and HTTP/2 with SSE](https://dev.to/betelgeuseas/websockets-and-http2-with-sse-4hkl)
+- [How a Venmo Setting Exposed a National Security &amp; Privacy Risk — A Digital Forensics View on Privacy by Design](https://dev.to/hana_liu/how-a-venmo-setting-exposed-a-national-security-privacy-risk-a-digital-forensics-view-on-1mna)
+- [How I built an anonymous Telegram chat bot with end-to-end encryption and AI matchmaking](https://dev.to/saroj_nayak_1bf1954e01e86/how-i-built-an-anonymous-telegram-chat-bot-with-end-to-end-encryption-and-ai-matchmaking-4a9a)
+- [Mock Interview](https://dev.to/sundar_joseph_94059a3e7a6/mock-interview-38f0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
