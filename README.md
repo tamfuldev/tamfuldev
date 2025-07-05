@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Building a Responsive Layout in 2025: CSS Grid vs Flexbox vs Container Queries](https://dev.to/smriti_webdev/building-a-responsive-layout-in-2025-css-grid-vs-flexbox-vs-container-queries-234m)
-- [🔐What, Why, How, Where, When of AWS CloudHSM...](https://dev.to/cloud_man/what-why-how-where-when-of-aws-cloudhsm-ik8)
-- [Why Teaching Our Kids About Their Tech Is More Important Than Ever](https://dev.to/jliter/why-teaching-our-kids-about-their-tech-is-more-important-than-ever-2485)
-- [DAY 4 OF CSS](https://dev.to/raizo03/day-4-of-css-1840)
-- [Begin with JMerter - J1](https://dev.to/tester_learn_testing/begin-with-jmerter-j1-he1)
+- [Fruit Sales Invoice Generator, Runner Hackaton](https://dev.to/capjud95/fruit-sales-invoice-generator-runner-hackaton-ll6)
+- [growth.design](https://dev.to/blue8akash/growthdesign-1coo)
+- [WWDC 2025 - Swift Charts 3D: A Complete Guide to 3D Data Visualization](https://dev.to/arshtechpro/wwdc-2025-swift-charts-3d-a-complete-guide-to-3d-data-visualization-40nc)
+- [From Prompts to Plays: Using Language Models as Game AI in PHP](https://dev.to/dobrenteiistvan/from-prompts-to-plays-using-language-models-as-game-ai-in-php-kcm)
+- [Domain Mapping Architecture](https://dev.to/member_a07758c4/domain-mapping-architecture-2cp1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
