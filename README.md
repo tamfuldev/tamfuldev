@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top Fractional CMO Agencies for Custom Software Development Firms](https://dev.to/danylo_fedirko_e38be56528/top-fractional-cmo-agencies-for-custom-software-development-firms-4071)
-- [🔐 How to Reset MySQL Root Password &lpar;Windows - Beginner Friendly&rpar;](https://dev.to/nuwandev/how-to-reset-mysql-root-password-windows-beginner-friendly-2006)
-- [TypeScript’s Most Important Concept, Made Stupidly Simple&lpar;Generics!&rpar;&lpar;11&rpar;](https://dev.to/wisdombits/typescripts-most-important-concept-made-stupidly-simplegenerics11-26hn)
-- [🛠️ Dev Helpers – Quick Tools for Everyday Dev Tasks](https://dev.to/nullstring/dev-helpers-quick-tools-for-everyday-dev-tasks-27p3)
-- [Stop Struggling with AI Prompts - This Agent Does the Heavy Lifting for You &lpar;Universal Agent Prompt Generator&rpar;](https://dev.to/ximet/stop-struggling-with-ai-prompts-this-agent-does-the-heavy-lifting-for-you-universal-agent-prompt-3c82)
+- [Single Core High Concurrency](https://dev.to/member_a07758c4/single-core-high-concurrency-8kj)
+- [Java Architecture](https://dev.to/bharad_s/java-architecture-3n6h)
+- [Day 15/100: Lambda Functions – Python&#39;s Anonymous One-Liners](https://dev.to/therahul_gupta/day-15100-lambda-functions-pythons-anonymous-one-liners-1iio)
+- [Personal AI Assistant](https://dev.to/thesurajarya/personal-ai-assistant-3ffb)
+- [Locking Down Your Docker Containers: A Developer’s Guide to Encryption](https://dev.to/shrsv/locking-down-your-docker-containers-a-developers-guide-to-encryption-2h3l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
