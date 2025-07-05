@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel&#39;de Sentry Kullanımı: Hata İzleme ve Performans Monitörü için Kapsamlı Rehber](https://dev.to/arasosman/laravelde-sentry-kullanimi-hata-izleme-ve-performans-monitoru-icin-kapsamli-rehber-4hc5)
-- [Daily Calendar Optimization Workflow](https://dev.to/radiant1/daily-calendar-optimization-workflow-3l5l)
-- [Technical Blog Writing Guide](https://dev.to/member_a07758c4/technical-blog-writing-guide-34li)
-- [Service Discovery and Load Balancing Core Role Mechanisms in Distributed Systems](https://dev.to/member_4731f562/service-discovery-and-load-balancing-core-role-mechanisms-in-distributed-systems-1ij6)
-- [How I Survived the Great Kubernetes Exodus: Migrating EKS Cluster from v1.26 to v1.33 on AWS](https://dev.to/aws-builders/how-i-survived-the-great-kubernetes-exodus-migrating-eks-cluster-from-v126-to-v133-on-aws-39ko)
+- [Power Apps - Canvas - Code Reusability How to Do It](https://dev.to/_follone/power-apps-canvas-code-reusability-how-to-do-it-3jhc)
+- [Rust Web Framework Analysis Deep Dive Safety Features](https://dev.to/member_4731f562/rust-web-framework-analysis-deep-dive-safety-features-2m77)
+- [You&#39;ve been using Node.js Transform streams wrong](https://dev.to/kierans/youve-been-using-nodejs-transform-streams-wrong-bbo)
+- [Minimalist Programming Philosophy](https://dev.to/member_4731f562/minimalist-programming-philosophy-2g41)
+- [# Introducing PrettyParser: Your Go-To Tool for Code Beautification and Minifica](https://dev.to/helpothon/-introducing-prettyparser-your-go-to-tool-for-code-beautification-and-minifica-49ml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
