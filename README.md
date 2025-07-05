@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Structure My FastAPI Projects for Clean, Scalable Code](https://dev.to/m_muhd8/how-i-structure-my-fastapi-projects-for-clean-scalable-code-594n)
-- [Programming Entry Level: learn linux](https://dev.to/devopsfundamentals/programming-entry-level-learn-linux-130i)
-- [🚀 Frontend Roadmap 2025 for Absolute Beginners &lpar;With Free Resources&rpar;](https://dev.to/yaldakhoshpey/frontend-roadmap-2025-for-absolute-beginners-with-free-resources-3c2o)
-- [How to Write a CV That Matches Today’s Hiring Standards](https://dev.to/david_jone/how-to-write-a-cv-that-matches-todays-hiring-standards-5889)
-- [Day night cycle](https://dev.to/waste_land_0202106205ae31/day-night-cycle-5ghp)
+- [Laravel&#39;de Sentry Kullanımı: Hata İzleme ve Performans Monitörü için Kapsamlı Rehber](https://dev.to/arasosman/laravelde-sentry-kullanimi-hata-izleme-ve-performans-monitoru-icin-kapsamli-rehber-4hc5)
+- [Daily Calendar Optimization Workflow](https://dev.to/radiant1/daily-calendar-optimization-workflow-3l5l)
+- [Technical Blog Writing Guide](https://dev.to/member_a07758c4/technical-blog-writing-guide-34li)
+- [Service Discovery and Load Balancing Core Role Mechanisms in Distributed Systems](https://dev.to/member_4731f562/service-discovery-and-load-balancing-core-role-mechanisms-in-distributed-systems-1ij6)
+- [How I Survived the Great Kubernetes Exodus: Migrating EKS Cluster from v1.26 to v1.33 on AWS](https://dev.to/aws-builders/how-i-survived-the-great-kubernetes-exodus-migrating-eks-cluster-from-v126-to-v133-on-aws-39ko)
 <!-- BLOG-POST-LIST:END -->
 
 ---
