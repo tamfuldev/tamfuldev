@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Métricas em DevRel: Como Medir o Sucesso da Sua Estratégia de Developer Relations](https://dev.to/abacatedevrel/metricas-em-devrel-como-medir-o-sucesso-da-sua-estrategia-de-developer-relations-fpo)
-- [Context Engineering: The Game-Changing Discipline Powering Modern AI](https://dev.to/rakshith2605/context-engineering-the-game-changing-discipline-powering-modern-ai-4nle)
-- [A guide to create custom hooks in React](https://dev.to/ashishsimplecoder/a-guide-to-create-custom-hooks-in-react-471i)
-- [What is the difference between string.Empty and &quot;&quot;](https://dev.to/boomi1/what-is-the-difference-between-stringempty-and--39eo)
-- [Middleware Magic Advanced Request Processing Techniques](https://dev.to/member_a07758c4/middleware-magic-advanced-request-processing-techniques-3ich)
+- [Deleted a Directory? Don’t Panic: Tools Every Dev Should Know for Data Recovery](https://dev.to/lovestaco/deleted-a-directory-dont-panic-tools-every-dev-should-know-for-data-recovery-pml)
+- [Is Node.js Single Threaded or Multithreaded?](https://dev.to/kiani0x01/is-nodejs-single-threaded-or-multithreaded-p8m)
+- [From SEO to Software: My Journey into Full-Stack Development](https://dev.to/mrsquid45/from-seo-to-software-my-journey-into-full-stack-development-522c)
+- [#1 Introduction to Python](https://dev.to/prakash_vinukonda_363ed4b/1-introduction-to-python-2651)
+- [🧑‍💻 New Portfolio Template Released!](https://dev.to/sathishk_dev/new-portfolio-template-released-1ghg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
