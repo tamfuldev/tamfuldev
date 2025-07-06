@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Spring Boot Redis Multi-Cache: A Complete Guide](https://dev.to/devcorner/spring-boot-redis-multi-cache-a-complete-guide-1pff)
-- [🚧 Scope Will Creep - Your Job Is to Tame It, Not Eliminate It](https://dev.to/mohammad_ajouri/scope-will-creep-your-job-is-to-tame-it-not-eliminate-it-2p5n)
-- [Portfolio Gallary with Angular 20, Tailwind CSS 4, and Material Design](https://dev.to/prasunchakra/portfolio-gallary-with-angular-20-tailwind-css-4-and-material-design-1757)
-- [AI Menu Visualizer: Bringing Restaurant Menus to Life](https://dev.to/williamhatch/ai-menu-visualizer-bringing-restaurant-menus-to-life-1g76)
-- [Flame Graph Performance Truth Analysis](https://dev.to/member_a07758c4/flame-graph-performance-truth-analysis-4ce)
+- [Understanding Python Memory and Garbage Collection Through Hands-On Experiments](https://dev.to/kfir-g/understanding-python-memory-and-garbage-collection-through-hands-on-experiments-4g0p)
+- [10 Months as a Self-Taught Dev - Reflecting on My Developper Journey](https://dev.to/uzzy412_73/10-months-as-a-self-taught-dev-reflecting-on-my-developper-journey-30d8)
+- [Distributed Computing Framework](https://dev.to/member_a07758c4/distributed-computing-framework-m27)
+- [HttpSession](https://dev.to/prasanth362k/httpsession-21g2)
+- [Controller-runtime](https://dev.to/minwook/controller-runtime-644)
 <!-- BLOG-POST-LIST:END -->
 
 ---
