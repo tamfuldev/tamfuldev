@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Hexagonal Architecture Implementation](https://dev.to/member_a07758c4/hexagonal-architecture-implementation-26ag)
-- [Part 3: Sending Your First Blockchain Transaction with web3.py --- From Reading to Writing](https://dev.to/divine_igbinoba_fb6de7207/part-3-sending-your-first-blockchain-transaction-with-web3py-from-reading-to-writing-387j)
-- [Authentication Vs Authorization](https://dev.to/himj266/authentication-vs-authorization-37eb)
-- [Lock-Free Data Structures](https://dev.to/member_a07758c4/lock-free-data-structures-e7)
-- [Untitled](https://dev.to/ghali8_05ca1b24b52c7c157/untitled-3nob)
+- [PaperPulse—Your daily heartbeat on the latest research](https://dev.to/ifihan/paperpulse-your-daily-heartbeat-on-the-latest-research-46ko)
+- [Code Poetry Elegant Framework Design](https://dev.to/member_a07758c4/code-poetry-elegant-framework-design-3mal)
+- [How to Export a Webflow Site and Host It Anywhere Easily](https://dev.to/ybouane/how-to-export-a-webflow-site-and-host-it-anywhere-easily-1f1)
+- [🔐 CodeSentinel: The AI Agent That Audits GitHub Repos for Security Threats](https://dev.to/nikhilsahni7/codesentinel-the-ai-agent-that-audits-github-repos-for-security-threats-ded)
+- [Claude Code &lpar;MAX&rpar; is the best deal](https://dev.to/themuneebh/claude-code-max-is-the-best-deal-1a0h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
