@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Create Raw Loader Plugin for NX Angular Application Executor](https://dev.to/shhdharmen/create-raw-loader-plugin-for-nx-angular-application-executor-42hi)
-- [I realy need help, it can make my life better.](https://dev.to/shaheen_amjed_41de8050d49/i-realy-need-help-it-can-make-my-life-better-4afn)
-- [Onion Architecture Application in Web Dev Deep Analysis of Middleware Patterns](https://dev.to/member_a07758c4/onion-architecture-application-in-web-dev-deep-analysis-of-middleware-patterns-585l)
-- [The Ultimate AI Coding Stack Every Developer Should Know in 2025](https://dev.to/devtechinsights/the-ultimate-ai-coding-stack-every-developer-should-know-in-2025-1j8n)
-- [Kubernetes Autoscaling Fails Silently. Here&#39;s Why and How to Fix It](https://dev.to/ismailkovvuru/kubernetes-autoscaling-fails-silently-heres-why-and-how-to-fix-it-34h8)
+- [🔧 Flutter Clean Architecture - Fast Feature-First Setup Guide](https://dev.to/shanshaji/flutter-clean-architecture-fast-feature-first-setup-guide-342l)
+- [Week 2 of Hustle2Grand: Two Launches, No Users, and a Lot of Learning](https://dev.to/vulcanwm/week-2-of-hustle2grand-two-launches-no-users-and-a-lot-of-learning-1lmo)
+- [Why Modern Web Development Is More Than Just Code, It’s About Problem Solving &amp; User Experience](https://dev.to/pranav89624/why-modern-web-development-is-more-than-just-code-its-about-problem-solving-user-experience-2f0o)
+- [Should we upload a video?](https://dev.to/aspxone-official/should-we-upload-a-video-3a2b)
+- [CI/CD Intelligence with Shell Lifecycle for DevOps Engineers](https://dev.to/srinivasamcjf/cicd-intelligence-with-shell-lifecycle-for-devops-engineers-3fi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
