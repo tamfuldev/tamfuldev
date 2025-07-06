@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Train AI Model](https://dev.to/atifwattoo/how-to-train-ai-model-bd)
-- [Mission 7: Update Your Portfolio Part One](https://dev.to/theoriginalbpc/mission-7-update-your-portfolio-part-one-1eji)
-- [Building My First End-to-End Machine Learning Project](https://dev.to/anshikalohan/building-my-first-end-to-end-machine-learning-project-23a3)
-- [Never Miss a Hackathon Again: My Calendar-Driven Automation with Runner H](https://dev.to/bridget_amana/never-miss-a-hackathon-again-my-calendar-driven-automation-with-runner-h-33ag)
-- [Minimalist Programming Philosophy](https://dev.to/member_a07758c4/minimalist-programming-philosophy-2ggg)
+- [Hexagonal Architecture Implementation](https://dev.to/member_a07758c4/hexagonal-architecture-implementation-26ag)
+- [Part 3: Sending Your First Blockchain Transaction with web3.py --- From Reading to Writing](https://dev.to/divine_igbinoba_fb6de7207/part-3-sending-your-first-blockchain-transaction-with-web3py-from-reading-to-writing-387j)
+- [Authentication Vs Authorization](https://dev.to/himj266/authentication-vs-authorization-37eb)
+- [Lock-Free Data Structures](https://dev.to/member_a07758c4/lock-free-data-structures-e7)
+- [Untitled](https://dev.to/ghali8_05ca1b24b52c7c157/untitled-3nob)
 <!-- BLOG-POST-LIST:END -->
 
 ---
