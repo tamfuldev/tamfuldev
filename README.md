@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Manage stock calculation product variation package in WP](https://dev.to/dicky54putra/manage-stock-calculation-product-variation-package-in-wp-3c5c)
-- [Deno 2.4 brings back deno bundle, GitHub Copilot Chat is now open source, Minecraft built in 100% CSS, and more](https://dev.to/thisweekinjavascript/deno-24-brings-back-deno-bundle-github-copilot-chat-is-now-open-source-minecraft-built-in-100-1o8d)
-- [14+ Open Source Tools Every Developer Should Know in 2025 🔥](https://dev.to/dev-arafat-alim/14-open-source-tools-every-developer-should-know-in-2025-5f6e)
-- [Next Generation High Web Rust Based Solutions](https://dev.to/member_a07758c4/next-generation-high-web-rust-based-solutions-cce)
-- [Вебинар | Пошаговое введение в Docs as Code с практическими примерами и личным опытом](https://dev.to/__c87c/viebinar-poshaghovoie-vviedieniie-v-docs-as-code-s-praktichieskimi-primierami-i-lichnym-opytom-3c7l)
+- [Métricas em DevRel: Como Medir o Sucesso da Sua Estratégia de Developer Relations](https://dev.to/abacatedevrel/metricas-em-devrel-como-medir-o-sucesso-da-sua-estrategia-de-developer-relations-fpo)
+- [Context Engineering: The Game-Changing Discipline Powering Modern AI](https://dev.to/rakshith2605/context-engineering-the-game-changing-discipline-powering-modern-ai-4nle)
+- [A guide to create custom hooks in React](https://dev.to/ashishsimplecoder/a-guide-to-create-custom-hooks-in-react-471i)
+- [What is the difference between string.Empty and &quot;&quot;](https://dev.to/boomi1/what-is-the-difference-between-stringempty-and--39eo)
+- [Middleware Magic Advanced Request Processing Techniques](https://dev.to/member_a07758c4/middleware-magic-advanced-request-processing-techniques-3ich)
 <!-- BLOG-POST-LIST:END -->
 
 ---
