@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Fundamentals: Ecs](https://dev.to/devopsfundamentals/aws-fundamentals-ecs-441d)
-- [Java from JPEGs: How AI Turns App Screenshots into Android Code](https://dev.to/atforeveryoung/java-from-jpegs-how-ai-turns-app-screenshots-into-android-code-1nf3)
-- [Open Source Contribution Guide](https://dev.to/member_a07758c4/open-source-contribution-guide-3mde)
-- [Single Core Hundred Thousand Concurrency](https://dev.to/member_a07758c4/single-core-hundred-thousand-concurrency-560h)
-- [AI Research Assistant: Summarizes Academic Papers in Minutes](https://dev.to/geektubash/ai-research-assistant-summarizes-academic-papers-in-minutes-13he)
+- [Distributed Computing Framework](https://dev.to/member_a07758c4/distributed-computing-framework-2f9k)
+- [__getitem__ &amp; __setitem__ in Python &lpar;3&rpar;](https://dev.to/hyperkai/getitem-setitem-in-python-3-lh8)
+- [Weekly #27-2025: Behind the Code – From Databases to Developer Superpowers](https://dev.to/weekly/weekly-27-2025-behind-the-code-from-databases-to-developer-superpowers-e6a)
+- [Imagination Unlimited - Build a webapp within an hour using Google AI Studio](https://dev.to/ak_moorthy_c3753a8d360ee4/imagination-unlimited-build-a-webapp-within-an-hour-using-google-ai-studio-1mbk)
+- [The Art of Vibe-Coding &lpar;with Google AI Studio&rpar;: Personal Writing Assistant App](https://dev.to/rachel_cheuk/the-art-of-vibe-coding-with-google-ai-studio-personal-writing-assistant-app-53ge)
 <!-- BLOG-POST-LIST:END -->
 
 ---
