@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Distributed Computing Framework](https://dev.to/member_a07758c4/distributed-computing-framework-2f9k)
-- [__getitem__ &amp; __setitem__ in Python &lpar;3&rpar;](https://dev.to/hyperkai/getitem-setitem-in-python-3-lh8)
-- [Weekly #27-2025: Behind the Code – From Databases to Developer Superpowers](https://dev.to/weekly/weekly-27-2025-behind-the-code-from-databases-to-developer-superpowers-e6a)
-- [Imagination Unlimited - Build a webapp within an hour using Google AI Studio](https://dev.to/ak_moorthy_c3753a8d360ee4/imagination-unlimited-build-a-webapp-within-an-hour-using-google-ai-studio-1mbk)
-- [The Art of Vibe-Coding &lpar;with Google AI Studio&rpar;: Personal Writing Assistant App](https://dev.to/rachel_cheuk/the-art-of-vibe-coding-with-google-ai-studio-personal-writing-assistant-app-53ge)
+- [Understanding State &amp; Memory in AutoGen: Teaching AI to Think in Steps](https://dev.to/brains_behind_bots/understanding-state-memory-in-autogen-teaching-ai-to-think-in-steps-5cdb)
+- [🔄 Model Context Protocol vs API: Understanding the Next Evolution in AI Integration](https://dev.to/aiservices/model-context-protocol-vs-api-understanding-the-next-evolution-in-ai-integration-2nc8)
+- [Server-Side Geolocation Filtering in Laravel with the Haversine Formula](https://dev.to/mreduar/server-side-geolocation-filtering-in-laravel-with-the-haversine-formula-28c)
+- [Code Review and Refactoring Practice Methods and Tools for Improving Code Quality](https://dev.to/member_a07758c4/code-review-and-refactoring-practice-methods-and-tools-for-improving-code-quality-3gf5)
+- [How to Stream Large File Uploads to AWS S3 in Laravel](https://dev.to/mreduar/how-to-stream-large-file-uploads-to-aws-s3-in-laravel-4dh6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
