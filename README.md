@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Event Driven Architecture Pattern Application Practice in Web Frameworks](https://dev.to/member_a07758c4/event-driven-architecture-pattern-application-practice-in-web-frameworks-3h62)
-- [Word bank automation](https://dev.to/subutai/word-bank-automation-dcg)
-- [Programming Entry Level: how to web development](https://dev.to/devopsfundamentals/programming-entry-level-how-to-web-development-2g08)
-- [Type Safety in Web Compile Time Error Robust Design](https://dev.to/member_a07758c4/type-safety-in-web-compile-time-error-robust-design-2jjp)
-- [Getting Started with Databases: SQL &amp; MySQL](https://dev.to/osugodbless/getting-started-with-databases-sql-mysql-39n5)
+- [Hackathon scanner to spark your next big idea!](https://dev.to/julsr_mx/hackathon-scanner-to-spark-your-next-big-idea-3e1e)
+- [Study Group Connector: Automating Learning Community Discovery with Runner H](https://dev.to/amyxandra/study-group-connector-automating-learning-community-discovery-with-runner-h-3mg0)
+- [Student Learning Journey Framework](https://dev.to/member_a07758c4/student-learning-journey-framework-k82)
+- [Enforcing Cloud Guardrails with Spacelift Policies: My Hands-On Test with Rego, Terraform, and AWS](https://dev.to/akingbade_omosebi/enforcing-cloud-guardrails-with-spacelift-policies-my-hands-on-test-with-rego-terraform-and-aws-5efj)
+- [Enforcing Cloud Guardrails with Spacelift Policies: My Hands-On Test with Rego, Terraform, and AWS&quot;](https://dev.to/akingbade_omosebi/enforcing-cloud-guardrails-with-spacelift-policies-my-hands-on-test-with-rego-terraform-and-aws-2b3g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
