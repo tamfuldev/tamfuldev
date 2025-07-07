@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Hackathon scanner to spark your next big idea!](https://dev.to/julsr_mx/hackathon-scanner-to-spark-your-next-big-idea-3e1e)
-- [Study Group Connector: Automating Learning Community Discovery with Runner H](https://dev.to/amyxandra/study-group-connector-automating-learning-community-discovery-with-runner-h-3mg0)
-- [Student Learning Journey Framework](https://dev.to/member_a07758c4/student-learning-journey-framework-k82)
-- [Enforcing Cloud Guardrails with Spacelift Policies: My Hands-On Test with Rego, Terraform, and AWS](https://dev.to/akingbade_omosebi/enforcing-cloud-guardrails-with-spacelift-policies-my-hands-on-test-with-rego-terraform-and-aws-5efj)
-- [Enforcing Cloud Guardrails with Spacelift Policies: My Hands-On Test with Rego, Terraform, and AWS&quot;](https://dev.to/akingbade_omosebi/enforcing-cloud-guardrails-with-spacelift-policies-my-hands-on-test-with-rego-terraform-and-aws-2b3g)
+- [Live Streaming System Architecture](https://dev.to/member_a07758c4/live-streaming-system-architecture-50kl)
+- [Google Ads Guide 2025: What It Is and How It Works](https://dev.to/agrowth_agency/google-ads-guide-2025-what-it-is-and-how-it-works-g0a)
+- [When Composer Met pnpm: The Birth of Pomposer](https://dev.to/hichemtab-tech/when-composer-met-pnpm-the-birth-of-pomposer-2igj)
+- [Cybr - Introduction to AWS Security](https://dev.to/kuljotbiring/cybr-introduction-to-aws-security-535n)
+- [I built a command-style search extension for Chrome — TypeGo](https://dev.to/hoseale/i-built-a-command-style-search-extension-for-chrome-typego-1p1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
