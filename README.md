@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built CGMB: An MCP That Unifies Claude Code, Gemini CLI, and Gemini API](https://dev.to/ryoto_miyake/i-built-cgmb-an-mcp-that-unifies-claude-code-gemini-cli-and-gemini-api-3b0i)
-- [Why is an Information Security Policy important for organizations?](https://dev.to/writegenic/why-is-an-information-security-policy-important-for-organizations-56n7)
-- [How I Hack a Hacker](https://dev.to/scofieldidehen/how-i-hack-a-hacker-329b)
-- [Using LlamaIndex.TS to Orchestrate MCP Servers](https://dev.to/azure/using-llamaindexts-to-orchestrate-mcp-servers-413k)
-- [Day 21: Backend Security – The Last Line of Defense](https://dev.to/nader_fh/day-21-backend-security-the-last-line-of-defense-3p1k)
+- [How to Build Beautiful GUIs in Golang : 3 Web UI Paths](https://dev.to/sfundomhlungu/how-to-build-beautiful-guis-in-golang-3-web-ui-paths-1pjm)
+- [The Golang Masterclass: Singleton Structs Will Save Your Project.](https://dev.to/sfundomhlungu/the-golang-masterclass-singleton-structs-will-save-your-project-g70)
+- [Why Everybody&#39;s so Excited about MCP](https://dev.to/kylemistele/why-everybodys-so-excited-about-mcp-1l7d)
+- [Pros and Cons of the Top AI Code Assistants: Continue.dev, GitHub Copilot, and Cursor &lpar;With a Hero’s Twist&rpar;](https://dev.to/bekahhw/pros-and-cons-of-the-top-ai-code-assistants-continuedev-github-copilot-and-cursor-with-a-24nf)
+- [Juris Headless Components](https://dev.to/artyprog/juris-headless-components-59kk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
