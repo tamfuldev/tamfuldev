@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Essential Sprint Ceremonies](https://dev.to/kdipippo/the-essential-sprint-ceremonies-4co9)
-- [Create a Lift and Drag Calculator with Python: A Beginner’s Guide to Aerodynamics](https://dev.to/galacticcircuit/create-a-lift-and-drag-calculator-with-python-a-beginners-guide-to-aerodynamics-1bm0)
-- [&quot;🎮 Novo jogo lançado: Bola Frenética! Controle o boneco e a bola preta &lpar;A/D e setas e clica com o mouse na tela.&rpar; para pegar bolas coloridas. Meu primeiro jogo. Não é alto nível, mas já um inicio!](https://dev.to/franciscobatistajunior/-novo-jogo-lancado-bola-frenetica-controle-o-boneco-e-a-bola-preta-ad-e-setas-e-clica-com-o-3lif)
-- [Step-by-Step Guide: Creating an Amazon EKS Cluster Using Terraform](https://dev.to/kelechiedeh/step-by-step-guide-creating-an-amazon-eks-cluster-using-terraform-5204)
-- [Creating a Webhook API Endpoint with n8n](https://dev.to/aihacks/creating-a-webhook-api-endpoint-with-n8n-1f37)
+- [Building a Slack AI Chatbot to Process PDF Content with n8n](https://dev.to/aihacks/building-a-slack-ai-chatbot-to-process-pdf-content-with-n8n-14hi)
+- [Built an AI Agent using Strands Agents SDK](https://dev.to/aws-builders/built-an-ai-agent-using-strands-agents-sdk-2o55)
+- [One-Stop Developer Guide to Prompt Engineering Across OpenAI, Anthropic, and Google](https://dev.to/kenangain/one-stop-developer-guide-to-prompt-engineering-across-openai-anthropic-and-google-4bfb)
+- [How to Build a Home Kubernetes Cluster With Raspberry Pi &lpar;2025 Guide&rpar;](https://dev.to/subnetsavy/how-to-build-a-home-kubernetes-cluster-with-raspberry-pi-2025-guide-204o)
+- [5-6-7-8 menu-3](https://dev.to/mehmet_degerli_64edc1e7b8/5-6-7-8-menu-3-2458)
 <!-- BLOG-POST-LIST:END -->
 
 ---
