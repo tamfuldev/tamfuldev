@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/anthonymax/-1nlj)
-- [Service Mesh: A Senior Software Engineer’s Guide &lpar;With Kuma as an Example&rpar;](https://dev.to/iamcymentho/service-mesh-a-senior-software-engineers-guide-with-kuma-as-an-example-1g7h)
-- [Reactive HTML Without JavaScript Frameworks 🔥](https://dev.to/anthonymax/reactive-html-without-javascript-frameworks-1anh)
-- [Creating Effective Blog Outlines &lpar;Plus a Tool to Speed Up the Process&rpar;](https://dev.to/0x7b-shop/overcome-writers-block-by-creating-effective-blog-outlines-plus-a-tool-to-speed-up-the-process-5c6e)
-- [Instantly Write Engaging FAQ Sections for Your Product Pages &lpar;Without Spending Hours&rpar;](https://dev.to/snappy_tuts/instantly-write-engaging-faq-sections-for-your-product-pages-without-spending-hours-4dn6)
+- [The Essential Sprint Ceremonies](https://dev.to/kdipippo/the-essential-sprint-ceremonies-4co9)
+- [Create a Lift and Drag Calculator with Python: A Beginner’s Guide to Aerodynamics](https://dev.to/galacticcircuit/create-a-lift-and-drag-calculator-with-python-a-beginners-guide-to-aerodynamics-1bm0)
+- [&quot;🎮 Novo jogo lançado: Bola Frenética! Controle o boneco e a bola preta &lpar;A/D e setas e clica com o mouse na tela.&rpar; para pegar bolas coloridas. Meu primeiro jogo. Não é alto nível, mas já um inicio!](https://dev.to/franciscobatistajunior/-novo-jogo-lancado-bola-frenetica-controle-o-boneco-e-a-bola-preta-ad-e-setas-e-clica-com-o-3lif)
+- [Step-by-Step Guide: Creating an Amazon EKS Cluster Using Terraform](https://dev.to/kelechiedeh/step-by-step-guide-creating-an-amazon-eks-cluster-using-terraform-5204)
+- [Creating a Webhook API Endpoint with n8n](https://dev.to/aihacks/creating-a-webhook-api-endpoint-with-n8n-1f37)
 <!-- BLOG-POST-LIST:END -->
 
 ---
