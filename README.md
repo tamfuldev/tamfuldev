@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Great Vue example project](https://dev.to/dbavedb/great-vue-example-project-51g3)
-- [What is NER in NLP? Real-World Examples and Use Cases Using Python and spaCy](https://dev.to/datatoinfinity/what-is-ner-in-nlp-real-world-examples-and-use-cases-using-python-and-spacy-7ik)
-- [UGC vs. AIGC vs. AI-UGC](https://dev.to/synergy_shock/ugc-vs-aigc-vs-ai-ugc-3anm)
-- [AI-Powered Image Prompt Generator for Faster App Creation](https://dev.to/kakra/ai-powered-image-prompt-generator-for-faster-app-creation-408i)
-- [Enterprise AI feature development with LLMs](https://dev.to/sunny7899/enterprise-ai-feature-development-with-llms-3p5e)
+- [How Node.js Differs from Other Server-Side Technologies](https://dev.to/kiani0x01/how-nodejs-differs-from-other-server-side-technologies-36oi)
+- [The most popular AI coding tools, according to devs](https://dev.to/gail_axelrod_03844667f64d/the-most-popular-ai-coding-tools-according-to-devs-28pf)
+- [Can Node.js Really Handle Millions of Users?](https://dev.to/kiani0x01/can-nodejs-really-handle-millions-of-users-58nh)
+- [How is Node.js Asynchronous When JavaScript is Single-Threaded](https://dev.to/kiani0x01/how-is-nodejs-asynchronous-when-javascript-is-single-threaded-1hcf)
+- [Is JavaScript Dynamically or Statically Typed?](https://dev.to/kiani0x01/is-javascript-dynamically-or-statically-typed-27hb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
