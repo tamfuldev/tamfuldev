@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Pesticides: Separating Fact from Fiction](https://dev.to/sysmaya/pesticides-separating-fact-from-fiction-355j)
-- [Anyone know when Dev++ members are able to claim the 2-month Warp Pro offer?](https://dev.to/p5n/anyone-know-when-dev-members-are-able-to-claim-the-2-month-warp-pro-offer-5ddi)
-- [Bronze Medal for Team Unibo at CyberChallenge.IT 2025](https://dev.to/ulisse/bronze-medal-for-team-unibo-at-cyberchallengeit-2025-16j0)
-- [Umemura Farm Website – Devlog #29: Lighthouse-Informed Refactoring and Optimization](https://dev.to/ri_ki_251ca3db361b527f552/umemura-farm-website-devlog-29-lighthouse-informed-refactoring-and-optimization-512i)
-- [Zero to Production App in 22 Days?! 🤯](https://dev.to/seanmccurdy/zero-to-production-app-in-22-days-2kdk)
+- [🧌Beginner-Friendly Guide &quot;Maximize Value from Non-Overlapping Events with DP&quot; – LeetCode 1751 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-maximize-value-from-non-overlapping-events-with-dp-leetcode-1751-c-384p)
+- [การดู ip address เครื่องตัวเองใน rocky linux](https://dev.to/cross1308/kaarduu-ip-address-ekhruuengtawengain-rocky-linux-4nhk)
+- [I got tired of Instagram&#39;s grid limitations, so I built SplitImage.org](https://dev.to/christianhappygo/i-got-tired-of-instagrams-grid-limitations-so-i-built-splitimageorg-4knk)
+- [From Bacolod to the Cloud: My Journey into Sustainable Tech in Negros Occidental 🇵🇭](https://dev.to/cottancandy1217/from-bacolod-to-the-cloud-my-journey-into-sustainable-tech-in-negros-occidental-2bdb)
+- [การใช้ docker compose ในการติดตั้ง sonarqube ใน rocky linux](https://dev.to/cross1308/kaaraich-docker-compose-ainkaartidtang-sonarqube-ain-rocky-linux-2ce5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
