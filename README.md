@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Anthem&#39;s servers are shutting down in January 2026](https://dev.to/gg_news/anthems-servers-are-shutting-down-in-january-2026-405p)
-- [Cyberpunk Edgerunners Sequel Officially Announced](https://dev.to/gg_news/cyberpunk-edgerunners-sequel-officially-announced-490i)
-- [Forza Motorsport Series Is Reportedly Cancelled After Xbox Laid Off 50% Of Studio](https://dev.to/gg_news/forza-motorsport-series-is-reportedly-cancelled-after-xbox-laid-off-50-of-studio-jne)
-- [The Last of Us Creator Neil Druckmann is stepping down from the HBO TV Show](https://dev.to/gg_news/the-last-of-us-creator-neil-druckmann-is-stepping-down-from-the-hbo-tv-show-4fjg)
-- [European game publisher group responds to Stop Killing Games, claims &quot;These proposals would curtail developer choice&quot;](https://dev.to/gg_news/european-game-publisher-group-responds-to-stop-killing-games-claims-these-proposals-would-curtail-ppl)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3pi8)
+- [Unlock Go&#39;s HTTP Potential: See Our Performance Benchmarks ✨](https://dev.to/evilmagics/unlock-gos-http-potential-see-our-performance-benchmarks-3ooc)
+- [Is GPT-5 Arriving This Summer? What the AI World Is Whispering](https://dev.to/jovin_george_733dcfc16291/is-gpt-5-arriving-this-summer-what-the-ai-world-is-whispering-2e18)
+- [Golf With Aimee: Stop Losing Power &amp; Direction – Fix Your Lead Foot!](https://dev.to/youtube_golf/golf-with-aimee-stop-losing-power-direction-fix-your-lead-foot-3coh)
+- [Golf With Aimee: Your lead foot is killing your distance &amp; Accuracy💥 왼발 때문에 정확도와 비거리가 다 날아가고 있어요](https://dev.to/youtube_golf/golf-with-aimee-your-lead-foot-is-killing-your-distance-accuracy-oenbal-ddaemune-jeonghwagdowa-bigeoriga-da-nalagago-isseoyo-1e6l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
