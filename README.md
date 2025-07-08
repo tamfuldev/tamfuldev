@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why You Should Think Twice Before Using Google AI Studio](https://dev.to/alifar/google-ai-studio-a-powerful-playground-for-prompting-but-at-what-cost-2hjm)
-- [Building iettnext - a next-gen, modern, feature-rich application for Istanbul&#39;s transportation.](https://dev.to/rednexie/building-iettnext-a-next-gen-modern-feature-rich-application-for-istanbuls-transportation-14bf)
-- [How I Hacked a Hacker – Part 2: The Hunt Begins &lpar;Real-Life Story&rpar;](https://dev.to/scofieldidehen/how-i-hacked-a-hacker-part-2-the-hunt-begins-real-life-story-1dkj)
-- [Simulating a United Nations Session with CAMEL Multi-Agent Systems](https://dev.to/jauhar/simulating-a-united-nations-session-with-camel-multi-agent-systems-5dhi)
-- [Today I learned how to create forms in HTML. I created a contact form and styled it using CSS so that the text area turns a snazzy shade of green when you click on the box to insert text. This is a first for me and I&#39;m very proud.](https://dev.to/323masong/today-i-learned-how-to-create-forms-in-html-i-created-a-contact-form-and-styled-it-using-css-so-52d3)
+- [Next.js: React&#39;s Glow-Up Era](https://dev.to/ana_almonte029/nextjs-reacts-glow-up-era-586c)
+- [From Code to Live in Minutes: Deploying My Astro Starlight Static Site on Vercel.](https://dev.to/uzukwu_michael_91a95b823b/from-code-to-live-in-minutes-deploying-my-astro-starlight-static-site-on-vercel-49ca)
+- [Hello Dev.to 👋 — I&#39;m Travis McCracken &lpar;Web Developer&rpar;](https://dev.to/travis-mccracken-dev/hello-devto-im-travis-mccracken-web-developer-dbc)
+- [# Building a Robust Neovim Format Autocommand](https://dev.to/voyeg3r/-building-a-robust-neovim-format-autocommand-9ii)
+- [Building MIA: A WhatsApp AI Assistant to Escape Subscription Hell](https://dev.to/pablo_pusiol_90007f459a22/building-mia-a-whatsapp-ai-assistant-to-escape-subscription-hell-51o0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
