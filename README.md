@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Pipeline of Agents Pattern: Building Maintainable AI Workflows with LangGraph](https://dev.to/vitaliihonchar/pipeline-of-agents-pattern-building-maintainable-ai-workflows-with-langgraph-1e50)
-- [Vector Databases: Foundations, Function, and the Future of AI Retrieval](https://dev.to/cortexflow/vector-databases-foundations-function-and-the-future-of-ai-retrieval-5ga6)
-- [CSS Counting Magic: Converting Counter Values to Variables](https://dev.to/rezi/css-counting-magic-converting-counter-values-to-variables-e9m)
-- [Transforming AI Interaction Through Personalization](https://dev.to/agape_aurora_4b5303956dc6/transforming-ai-interaction-through-personalization-39m7)
-- [Introducing Deforge, the Visual, No-Code Builder](https://dev.to/deforge_io/introducing-deforge-the-visual-no-code-builder-dg2)
+- [How I Built a Patient-Friendly Form Finder for Specialty Medications Using Static HTML](https://dev.to/sherlin7779/how-i-built-a-patient-friendly-form-finder-for-specialty-medications-using-static-html-1jd9)
+- [Minimal LangChain chatbot example with vector and graph](https://dev.to/surrealdb/minimal-langchain-chatbot-example-with-vector-and-graph-510e)
+- [🚀 Build Stunning Websites in Minutes with GetTemplate.website](https://dev.to/shreyvijayvargiya/build-stunning-websites-in-minutes-with-gettemplatewebsite-1cfn)
+- [The Current State of AI: How It’s Changing Our Lives](https://dev.to/elfreda/the-current-state-of-ai-how-its-changing-our-lives-37na)
+- [Behind the Scenes: How We Built a High-Performance Charting Library in React](https://dev.to/devexperts/behind-the-scenes-how-we-built-a-high-performance-charting-library-in-react-cdc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
