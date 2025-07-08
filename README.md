@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js: React&#39;s Glow-Up Era](https://dev.to/ana_almonte029/nextjs-reacts-glow-up-era-586c)
-- [From Code to Live in Minutes: Deploying My Astro Starlight Static Site on Vercel.](https://dev.to/uzukwu_michael_91a95b823b/from-code-to-live-in-minutes-deploying-my-astro-starlight-static-site-on-vercel-49ca)
-- [Hello Dev.to 👋 — I&#39;m Travis McCracken &lpar;Web Developer&rpar;](https://dev.to/travis-mccracken-dev/hello-devto-im-travis-mccracken-web-developer-dbc)
-- [# Building a Robust Neovim Format Autocommand](https://dev.to/voyeg3r/-building-a-robust-neovim-format-autocommand-9ii)
-- [Building MIA: A WhatsApp AI Assistant to Escape Subscription Hell](https://dev.to/pablo_pusiol_90007f459a22/building-mia-a-whatsapp-ai-assistant-to-escape-subscription-hell-51o0)
+- [The Security Checklist I Use for Every Website I Build](https://dev.to/arbythecoder/the-security-checklist-i-use-for-every-website-i-build-4321)
+- [Ulance, NothingNess; Expectance %%](https://dev.to/taste_crafter/ulance-nothingness-expectance--2k7k)
+- [Brevity](https://dev.to/oculus42/brevity-2ljp)
+- [Programming Entry Level: beginner text editor](https://dev.to/devopsfundamentals/programming-entry-level-beginner-text-editor-58b3)
+- [🤖 Part 3: Building a Price Recommendation Engine with Pandas and Scikit-Learn](https://dev.to/qvfagundes/part-3-building-a-price-recommendation-engine-with-pandas-and-scikit-learn-2pk9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
