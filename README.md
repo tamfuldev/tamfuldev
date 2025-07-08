@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Patient-Friendly Form Finder for Specialty Medications Using Static HTML](https://dev.to/sherlin7779/how-i-built-a-patient-friendly-form-finder-for-specialty-medications-using-static-html-1jd9)
-- [Minimal LangChain chatbot example with vector and graph](https://dev.to/surrealdb/minimal-langchain-chatbot-example-with-vector-and-graph-510e)
-- [🚀 Build Stunning Websites in Minutes with GetTemplate.website](https://dev.to/shreyvijayvargiya/build-stunning-websites-in-minutes-with-gettemplatewebsite-1cfn)
-- [The Current State of AI: How It’s Changing Our Lives](https://dev.to/elfreda/the-current-state-of-ai-how-its-changing-our-lives-37na)
-- [Behind the Scenes: How We Built a High-Performance Charting Library in React](https://dev.to/devexperts/behind-the-scenes-how-we-built-a-high-performance-charting-library-in-react-cdc)
+- [Day 3/100: Assembling the Toolkit on a Shoestring Budget 🛠️💰](https://dev.to/khuepm/day-3100-assembling-the-toolkit-on-a-shoestring-budget-3a45)
+- [How To Synchronize threads In Go.](https://dev.to/sfundomhlungu/how-to-synchronize-threads-in-go-1elo)
+- [Your First Claude Integration Using MCP-Style Tooling](https://dev.to/aun_aideveloper/your-first-claude-integration-using-mcp-style-tooling-3081)
+- [AI For Beginners](https://dev.to/ali_e97e4fa82de1024780940/-4273)
+- [Finding Your Niche in Tech: A Guide for the Confused but Curious](https://dev.to/gertrude_abagale/finding-your-niche-in-tech-a-guide-for-the-confused-but-curious-4m9e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
