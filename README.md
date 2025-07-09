@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [JECQ: Smart, Open-Source Compression for FAISS Users—6x Compression Ratio, 85% Accuracy](https://dev.to/janeasystems/jecq-smart-open-source-compression-for-faiss-users-6x-compression-ratio-85-accuracy-5a5n)
-- [How Logistics Companies Can Automate Freight Tracking Using APIs](https://dev.to/melika_ghasemifard_7676f5/how-logistics-companies-can-automate-freight-tracking-using-apis-1i0l)
-- [tmux Cheatsheet](https://dev.to/mss/tmux-cheatsheet-3m7k)
-- [⚙️ Build It Better: Real-World AI Coding with GitHub Copilot](https://dev.to/anchildress11/build-it-better-real-world-ai-coding-with-github-copilot-1d47)
-- [Sonar Exporter: Solving SonarQube&#39;s Report Export Problem with Next.js](https://dev.to/fonteeboa/sonar-exporter-solving-sonarqubes-report-export-problem-with-nextjs-a5e)
+- [HTML in a Heartbeat: Instantly Export Figma Mockups to Web-Ready Code](https://dev.to/atforeveryoung/html-in-a-heartbeat-instantly-export-figma-mockups-to-web-ready-code-34eg)
+- [My config pain turned into a micro SaaS: the story behind togglit](https://dev.to/guna_sheelan_0b5b852779a1/my-config-pain-turned-into-a-micro-saas-the-story-behind-togglit-5c57)
+- [AI and Art: Bold New Canvas or Culture Clash?](https://dev.to/sebastian_reid999/ai-and-art-bold-new-canvas-or-culture-clash-17fm)
+- [Linus Torvalds – The Reluctant Revolutionary Who Changed Everything](https://dev.to/jliter/linus-torvalds-the-reluctant-revolutionary-who-changed-everything-9n6)
+- [Beyond the Chatbot: Why 2025 is the Year of Hyper-Specialized AI for Developers 🛠️🤖](https://dev.to/cottancandy1217/beyond-the-chatbot-why-2025-is-the-year-of-hyper-specialized-ai-for-developers-31pk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
