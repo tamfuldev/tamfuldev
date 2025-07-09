@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Science Behind Cognitive Overload](https://dev.to/a_belova/the-science-behind-cognitive-overload-39ga)
-- [Real Time Communication Modern Web Server Sent Events](https://dev.to/github-recommend/real-time-communication-modern-web-server-sent-events-3d69)
-- [Build an AI Food Ordering Agents with n8n - Read the Full Article](https://dev.to/corpcubite/build-an-ai-food-ordering-agents-with-n8n-read-the-full-article-57jj)
-- [My first day!](https://dev.to/darwintech/my-first-day-416b)
-- [Distributed Computing Framework](https://dev.to/github-recommend/distributed-computing-framework-3l9e)
+- [How does the MEAN stack compare to the MERN stack for web app development?](https://dev.to/adityabhuyan/how-does-the-mean-stack-compare-to-the-mern-stack-for-web-app-development-218k)
+- [Running Cron Jobs by Kamal with the Whenever Gem &lpar;The Simple Way&rpar;](https://dev.to/kevinluo201/running-cron-jobs-in-kamal-with-the-whenever-gem-the-simple-way-1bb7)
+- [Coding with Constant Interruptions: A Parent Developer&#39;s Survival Guide](https://dev.to/raisingpixels/coding-with-constant-interruptions-a-parent-developers-survival-guide-34ba)
+- [Personal Picks: Data Product News &lpar;July 9, 2025&rpar;](https://dev.to/sagara/personal-picks-data-product-news-july-9-2025-1ghk)
+- [Umemura Farm Website – Devlog #30: Fixing Link Errors, Button Unification, and More UI Enhancements in Next.js](https://dev.to/ri_ki_251ca3db361b527f552/umemura-farm-website-devlog-30-fixing-link-errors-button-unification-and-more-ui-54gp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
