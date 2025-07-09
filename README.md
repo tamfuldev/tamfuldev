@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Chaos to Control: GitHub Rule Sets and Workflows for Safer AWS Deployments](https://dev.to/domderrien/from-chaos-to-control-github-rule-sets-and-workflows-for-safer-aws-deployments-3jm0)
-- [🚀 Convert JSON to Clean HTML Instantly – Feedback Wanted!](https://dev.to/devops_aladin_3d1a9d005ab/convert-json-to-clean-html-instantly-feedback-wanted-486)
-- [Full Stack Learning : Day 2 Insights](https://dev.to/vidya_varshini/full-stack-learning-day-2-insights-30mh)
-- [logical programming exercises](https://dev.to/_cblas/logical-programming-exercises-4ka0)
-- [&quot;JavaScript Comparison &amp; Logical Operators — Made Simple for Beginners!&quot;](https://dev.to/2021_cse_gayathrir_e733/javascript-comparison-logical-operators-made-simple-for-beginners-54c5)
+- [Why AI Agents Are Suddenly Everywhere &lpar;And What the Heck is an MCP Server?&rpar;](https://dev.to/itsaryanchauhan/why-ai-agents-are-suddenly-everywhere-and-what-the-heck-is-an-mcp-server-29j5)
+- [Ways to Avoid Cross-Browser Compatibility Issues](https://dev.to/betelgeuseas/ways-to-avoid-cross-browser-compatibility-issues-36ec)
+- [The Divooka Way - Part 1: Philosophically, How Exactly is Divooka Different and Useful Compared to Plain Good Code API](https://dev.to/methodox/the-divooka-way-part-1-philosophically-how-exactly-is-divooka-different-and-useful-compared-to-5fjp)
+- [Big Data Fundamentals: delta lake example](https://dev.to/devopsfundamentals/big-data-fundamentals-delta-lake-example-3ncg)
+- [Tired of Static Figures? Blokees Lets You Build the Legends Yourself](https://dev.to/katherineboyarsky/tired-of-static-figures-blokees-lets-you-build-the-legends-yourself-5d3c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
