@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Developers Should Think Like PMs](https://dev.to/dct_technology/why-developers-should-think-like-pms-2f0c)
-- [VPS Management made easy with Nixopus](https://dev.to/zhravan/vps-management-made-easy-with-nixopus-1fop)
-- [Async First: How 7 Remote Dev Teams Ship Faster Than Office Teams](https://dev.to/pratham_naik_project_manager/-5ca8)
-- [Async First: How 7 Remote Dev Teams Ship Faster Than Office Teams](https://dev.to/teamcamp/async-first-how-7-remote-dev-teams-ship-faster-than-office-teams-1jil)
-- [Development Environment Optimization](https://dev.to/github-recommend/development-environment-optimization-2650)
+- [Calling All NodeJS Wizards: What Would You Add to the Ultimate Boilerplate?](https://dev.to/anchildress11/calling-all-nodejs-wizards-what-would-you-add-to-the-ultimate-boilerplate-38aj)
+- [TalkRush — A Real-Time Strangers Video &amp; Text Chat Platform](https://dev.to/aman_kumar_0538996d0e82fc/talkrush-a-real-time-strangers-video-text-chat-platform-5pl)
+- [Collection Challenge Day : 0](https://dev.to/vigneshwaralingam/collection-challenge-day-0-32d5)
+- [Creative Toolbox: Your New Favorite Visual Tool for Devs &amp; Creators](https://dev.to/dev_kiran/creative-toolbox-your-new-favorite-visual-tool-for-devs-creators-4od)
+- [Learn Python 002](https://dev.to/tamilvanan/learn-python-002-1kbo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
