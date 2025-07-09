@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Map - Explicação detalhada, casos e exemplos de uso](https://dev.to/jpster/javascript-map-explicacao-detalhada-casos-e-exemplos-de-uso-1h0j)
-- [Platform Engineering Hands-on Lab #1: Creating Crossplane Configuration Packages for Keycloak on AWS](https://dev.to/segoja7/platform-engineering-hands-on-lab-1-creating-crossplane-configuration-packages-for-keycloak-on-aws-boe)
-- [One Prompt, Many Brains: How MultiMindSDK Lets You Switch Between LLMs Seamlessly](https://dev.to/niral_bhalodia/one-prompt-many-brains-how-multimindsdk-lets-you-switch-between-llms-seamlessly-39al)
-- [Pragra’s Advanced AI &amp; ML Certification: The Fastest Route to a Tech Career in Canada](https://dev.to/mritunjay_dubey_abb164768/pragras-advanced-ai-ml-certification-the-fastest-route-to-a-tech-career-in-canada-imh)
-- [Securing MCP Servers: Adding Authentication with AuthAction](https://dev.to/authaction/securing-mcp-servers-adding-authentication-with-authaction-1cba)
+- [DiParrot: The Low-Maintenance Pet Skill](https://dev.to/owly/diparrot-the-low-maintenance-pet-skill-35hf)
+- [If Kubernetes Runs in F-16 Fighter Jets, Why Are You Still Scared to Use It in Your Business?](https://dev.to/donjay/if-kubernetes-runs-in-f-16-fighter-jets-why-are-you-still-scared-to-use-it-in-your-business-54ea)
+- [Build an AI Agent for Airbnb Hosting with n8n - Read the Full Article](https://dev.to/corpcubite/build-an-ai-agent-for-airbnb-hosting-with-n8n-read-the-full-article-29n6)
+- [Thanos TSDB: How Default Configurations Can Lead to Silent Data Loss](https://dev.to/julienlau/thanos-tsdb-how-default-configurations-can-lead-to-silent-data-loss-57jh)
+- [Welcome!](https://dev.to/maddiepst/welcome-3g5l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
