@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [HTML in a Heartbeat: Instantly Export Figma Mockups to Web-Ready Code](https://dev.to/atforeveryoung/html-in-a-heartbeat-instantly-export-figma-mockups-to-web-ready-code-34eg)
-- [My config pain turned into a micro SaaS: the story behind togglit](https://dev.to/guna_sheelan_0b5b852779a1/my-config-pain-turned-into-a-micro-saas-the-story-behind-togglit-5c57)
-- [AI and Art: Bold New Canvas or Culture Clash?](https://dev.to/sebastian_reid999/ai-and-art-bold-new-canvas-or-culture-clash-17fm)
-- [Linus Torvalds – The Reluctant Revolutionary Who Changed Everything](https://dev.to/jliter/linus-torvalds-the-reluctant-revolutionary-who-changed-everything-9n6)
-- [Beyond the Chatbot: Why 2025 is the Year of Hyper-Specialized AI for Developers 🛠️🤖](https://dev.to/cottancandy1217/beyond-the-chatbot-why-2025-is-the-year-of-hyper-specialized-ai-for-developers-31pk)
+- [Getting started with Claude 4 API: A developer’s walkthrough](https://dev.to/logrocket/getting-started-with-claude-4-api-a-developers-walkthrough-1n1b)
+- [🚀 What’s New in Ruby 3.4 – The Language We Love Keeps Getting Sharper](https://dev.to/obaidaashfaq20/whats-new-in-ruby-34-the-language-we-love-keeps-getting-sharper-1e10)
+- [Building a Modern, Type-Safe Authentication System for Django REST Framework](https://dev.to/huynguyengl99/building-a-modern-type-safe-authentication-system-for-django-rest-framework-c42)
+- [Fun Operators of JavaScript – Compare &amp; Conquer!](https://dev.to/megha_m/fun-operators-of-javascript-compare-conquer-11hp)
+- [&quot;Operator overload? Not Anymore - JS Operators Made Easy!&quot;](https://dev.to/praveena_2109/operator-overload-not-anymore-js-operators-made-easy-3514)
 <!-- BLOG-POST-LIST:END -->
 
 ---
