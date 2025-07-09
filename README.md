@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [dapper and EF core](https://dev.to/renukapatil/dapper-and-ef-core-579c)
-- [How to Create Any Google Veo 3 Video Styles with json format Hack](https://dev.to/therealmrmumba/how-to-create-any-google-veo-3-video-styles-with-json-format-hack-1ond)
-- [How To Master Databases and Data Systems with JavaScript Examples.](https://dev.to/sfundomhlungu/how-to-master-databases-and-data-systems-with-javascript-examples-2501)
-- [Understanding Bitcoin Market Patterns: AZETHIO&#39;s Technical Analysis Guide](https://dev.to/azethio/understanding-bitcoin-market-patterns-azethios-technical-analysis-guide-omd)
-- [Production Deployment Strategies Docker Cloud High Web](https://dev.to/github-recommend/production-deployment-strategies-docker-cloud-high-web-26h)
+- [Top Agency Internships for Social Media Marketing Training](https://dev.to/techverdi/top-agency-internships-for-social-media-marketing-training-6oe)
+- [AI Security in 2025](https://dev.to/rawveg/ai-security-in-2025-3e8b)
+- [Send Automated SMS Alerts Using Net2Phone and Python](https://dev.to/alex_deg/send-automated-sms-alerts-using-net2phone-and-python-28ej)
+- [Serverless Mastery: A Comprehensive Guide to AWS Lambda and Snapshot](https://dev.to/christiana_orji/serverless-mastery-a-comprehensive-guide-to-aws-lambda-and-snapshot-369)
+- [Custom Sorting in Python: Lists and Dictionaries Demystified](https://dev.to/techienadeem/custom-sorting-in-python-lists-and-dictionaries-demystified-44be)
 <!-- BLOG-POST-LIST:END -->
 
 ---
