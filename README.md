@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Security Checklist I Use for Every Website I Build](https://dev.to/arbythecoder/the-security-checklist-i-use-for-every-website-i-build-4321)
-- [Ulance, NothingNess; Expectance %%](https://dev.to/taste_crafter/ulance-nothingness-expectance--2k7k)
-- [Brevity](https://dev.to/oculus42/brevity-2ljp)
-- [Programming Entry Level: beginner text editor](https://dev.to/devopsfundamentals/programming-entry-level-beginner-text-editor-58b3)
-- [🤖 Part 3: Building a Price Recommendation Engine with Pandas and Scikit-Learn](https://dev.to/qvfagundes/part-3-building-a-price-recommendation-engine-with-pandas-and-scikit-learn-2pk9)
+- [The Science Behind Cognitive Overload](https://dev.to/a_belova/the-science-behind-cognitive-overload-39ga)
+- [Real Time Communication Modern Web Server Sent Events](https://dev.to/github-recommend/real-time-communication-modern-web-server-sent-events-3d69)
+- [Build an AI Food Ordering Agents with n8n - Read the Full Article](https://dev.to/corpcubite/build-an-ai-food-ordering-agents-with-n8n-read-the-full-article-57jj)
+- [My first day!](https://dev.to/darwintech/my-first-day-416b)
+- [Distributed Computing Framework](https://dev.to/github-recommend/distributed-computing-framework-3l9e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
