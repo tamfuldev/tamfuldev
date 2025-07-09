@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Calling All NodeJS Wizards: What Would You Add to the Ultimate Boilerplate?](https://dev.to/anchildress11/calling-all-nodejs-wizards-what-would-you-add-to-the-ultimate-boilerplate-38aj)
-- [TalkRush — A Real-Time Strangers Video &amp; Text Chat Platform](https://dev.to/aman_kumar_0538996d0e82fc/talkrush-a-real-time-strangers-video-text-chat-platform-5pl)
-- [Collection Challenge Day : 0](https://dev.to/vigneshwaralingam/collection-challenge-day-0-32d5)
-- [Creative Toolbox: Your New Favorite Visual Tool for Devs &amp; Creators](https://dev.to/dev_kiran/creative-toolbox-your-new-favorite-visual-tool-for-devs-creators-4od)
-- [Learn Python 002](https://dev.to/tamilvanan/learn-python-002-1kbo)
+- [Can Gemini Figure Out the Ultimate Question: 100 Men Versus a Gorilla — Who Would Win?](https://dev.to/ansellmaximilian/can-gemini-figure-out-the-ultimate-question-100-men-versus-a-gorilla-who-would-win-475h)
+- [Speed Up Your Next.js App: Optimizing S3 Images with Cloudflare Images](https://dev.to/u11d/speed-up-your-nextjs-app-optimizing-s3-images-with-cloudflare-images-1h67)
+- [Hello, World!](https://dev.to/lucaster/hello-world-2cjl)
+- [Benefits of Working From Home: Why Remote Work Is the Future of Productivity](https://dev.to/teamcamp/benefits-of-working-from-home-why-remote-work-is-the-future-of-productivity-16f2)
+- [hello](https://dev.to/kishan01/hello-nbm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
