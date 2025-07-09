@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How does the MEAN stack compare to the MERN stack for web app development?](https://dev.to/adityabhuyan/how-does-the-mean-stack-compare-to-the-mern-stack-for-web-app-development-218k)
-- [Running Cron Jobs by Kamal with the Whenever Gem &lpar;The Simple Way&rpar;](https://dev.to/kevinluo201/running-cron-jobs-in-kamal-with-the-whenever-gem-the-simple-way-1bb7)
-- [Coding with Constant Interruptions: A Parent Developer&#39;s Survival Guide](https://dev.to/raisingpixels/coding-with-constant-interruptions-a-parent-developers-survival-guide-34ba)
-- [Personal Picks: Data Product News &lpar;July 9, 2025&rpar;](https://dev.to/sagara/personal-picks-data-product-news-july-9-2025-1ghk)
-- [Umemura Farm Website – Devlog #30: Fixing Link Errors, Button Unification, and More UI Enhancements in Next.js](https://dev.to/ri_ki_251ca3db361b527f552/umemura-farm-website-devlog-30-fixing-link-errors-button-unification-and-more-ui-54gp)
+- [Time Intelligence Functions &lpar;DAX&rpar;](https://dev.to/johnkyalo/time-intelligence-functions-dax-5h6d)
+- [CSS `color-mix&lpar;&rpar;` Function](https://dev.to/drprime01/css-color-mix-function-34jh)
+- [Who Counts as ‘Human’ in Human-Centered Design?](https://dev.to/a11yatasurion/who-counts-as-human-in-human-centered-design-49g5)
+- [What makes Rust&#39;s compiler and runtime appealing for developers who are less experienced or prone to mistakes compared to C++?](https://dev.to/adityabhuyan/what-makes-rusts-compiler-and-runtime-appealing-for-developers-who-are-less-experienced-or-prone-55o8)
+- [From Slow as Snail to Fast as Lightning My Web Framework Performance Practice Record](https://dev.to/github-recommend/from-slow-as-snail-to-fast-as-lightning-my-web-framework-performance-practice-record-9h1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
