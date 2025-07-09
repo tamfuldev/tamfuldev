@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why AI Agents Are Suddenly Everywhere &lpar;And What the Heck is an MCP Server?&rpar;](https://dev.to/itsaryanchauhan/why-ai-agents-are-suddenly-everywhere-and-what-the-heck-is-an-mcp-server-29j5)
-- [Ways to Avoid Cross-Browser Compatibility Issues](https://dev.to/betelgeuseas/ways-to-avoid-cross-browser-compatibility-issues-36ec)
-- [The Divooka Way - Part 1: Philosophically, How Exactly is Divooka Different and Useful Compared to Plain Good Code API](https://dev.to/methodox/the-divooka-way-part-1-philosophically-how-exactly-is-divooka-different-and-useful-compared-to-5fjp)
-- [Big Data Fundamentals: delta lake example](https://dev.to/devopsfundamentals/big-data-fundamentals-delta-lake-example-3ncg)
-- [Tired of Static Figures? Blokees Lets You Build the Legends Yourself](https://dev.to/katherineboyarsky/tired-of-static-figures-blokees-lets-you-build-the-legends-yourself-5d3c)
+- [JavaScript Map - Explicação detalhada, casos e exemplos de uso](https://dev.to/jpster/javascript-map-explicacao-detalhada-casos-e-exemplos-de-uso-1h0j)
+- [Platform Engineering Hands-on Lab #1: Creating Crossplane Configuration Packages for Keycloak on AWS](https://dev.to/segoja7/platform-engineering-hands-on-lab-1-creating-crossplane-configuration-packages-for-keycloak-on-aws-boe)
+- [One Prompt, Many Brains: How MultiMindSDK Lets You Switch Between LLMs Seamlessly](https://dev.to/niral_bhalodia/one-prompt-many-brains-how-multimindsdk-lets-you-switch-between-llms-seamlessly-39al)
+- [Pragra’s Advanced AI &amp; ML Certification: The Fastest Route to a Tech Career in Canada](https://dev.to/mritunjay_dubey_abb164768/pragras-advanced-ai-ml-certification-the-fastest-route-to-a-tech-career-in-canada-imh)
+- [Securing MCP Servers: Adding Authentication with AuthAction](https://dev.to/authaction/securing-mcp-servers-adding-authentication-with-authaction-1cba)
 <!-- BLOG-POST-LIST:END -->
 
 ---
