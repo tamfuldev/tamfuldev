@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Cassandra vs PostgreSQL: A Developer’s Guide to Choose the Right Database](https://dev.to/wallaceespindola/cassandra-vs-postgresql-a-developers-guide-to-choose-the-right-database-3nhi)
-- [GitFlow Studio – All-in-One Git + Git Flow + GitHub, right in your terminal](https://dev.to/vision2030/gitflow-studio-all-in-one-git-git-flow-github-right-in-your-terminal-4g85)
-- [Developer Experience Revolution](https://dev.to/github-recommend/developer-experience-revolution-55d5)
-- [Set up github work/company email on mac together with your personal github account](https://dev.to/message/set-up-github-workcompany-email-on-mac-together-with-your-personal-github-account-3lda)
-- [The Telegram Username Scam: How People Are Losing Thousands in TON](https://dev.to/scofieldidehen/the-telegram-username-scam-how-people-are-losing-thousands-in-ton-140n)
+- [Code vs LLM in a simple planning poker agent example](https://dev.to/portia-ai/code-vs-llm-in-a-simple-planning-poker-agent-example-5dg0)
+- [How to Create an EC2 Instance on AWS](https://dev.to/dj_orchido/how-to-create-an-ec2-instance-on-aws-56gl)
+- [Pinterest Scraping in 2025: Why I Built a Production-Ready Scrapy Spider &lpar;And You Should Too&rpar;](https://dev.to/noorsimar/pinterest-scraping-in-2025-why-i-built-a-production-ready-scrapy-spider-and-you-should-too-4j0n)
+- [Locking Down Your Parse Server Schema in Production](https://dev.to/lovestaco/locking-down-your-parse-server-schema-in-production-2ke4)
+- [AI Speed vs. &quot;What Not To Do&quot;: Dev Secrets Revealed](https://dev.to/sushan_dristi_ab98c07ea8f/ai-speed-vs-what-not-to-do-dev-secrets-revealed-b6p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
