@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Create ER Diagrams for PostgreSQL with a Free Design Tool](https://dev.to/roxana_haidiner/create-er-diagrams-for-postgresql-with-a-free-design-tool-4pjo)
-- [SQL REPLACE Function: Quick Guide with Real Examples](https://dev.to/dbvismarketing/sql-replace-function-quick-guide-with-real-examples-l6j)
-- [STM32F103RCT6 Microcontroller: Features, Pinout, Applications, and Power Management](https://dev.to/zheng2a2e5f5b/stm32f103rct6-microcontroller-features-pinout-applications-and-power-management-1an4)
-- [Behind Every High-Performing Magento Store Is an Invisible Dev Team](https://dev.to/navigate_commerce/behind-every-high-performing-magento-store-is-an-invisible-dev-team-569g)
-- [Migrating from .NET Framework to .NET 8: A Complete Strategy Guide](https://dev.to/sanjay_serviots_08ee56986/migrating-from-net-framework-to-net-8-a-complete-strategy-guide-43jd)
+- [Is an All-in-One Docker Image Really a Bad Idea?](https://dev.to/adam-banaszkiewicz/is-an-all-in-one-docker-image-really-a-bad-idea-26a8)
+- [I Left My 9–5 to Freelance — Here&#39;s What I Wish I Knew Before Starting](https://dev.to/muzammil_mughal_18d97e834/i-left-my-9-5-to-freelance-heres-what-i-wish-i-knew-before-starting-dg7)
+- [&quot;Freemium vs. free trials for B2B SaaS—what’s your playbook? &lpar;Building an AI tool, need your take&rpar;&quot;](https://dev.to/ybeybeybe/freemium-vs-free-trials-for-b2b-saas-whats-your-playbook-building-an-ai-tool-need-your-take-567a)
+- [forget agi. forget agents. you have no idea what is coming.](https://dev.to/polymathsomnath/forget-agi-forget-agents-you-have-no-idea-what-is-coming-4gbe)
+- [Is Node.js Really “Dead”? Maybe You’re Just Using It Wrong 💥](https://dev.to/xinjie_zou_d67d2805538130/is-nodejs-really-dead-maybe-youre-just-using-it-wrong-196l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
