@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/lucky-cyber3008/-170g)
-- [What is the purpose of jsconfig.json?](https://dev.to/xnivaxhzne/what-is-the-purpose-of-jsconfigjson-4ob0)
-- [Inspirational Quotes](https://dev.to/jruetas/inspirational-quotes-20mh)
-- [Stuff You Need to Know If You Plan to Become a Technical Writer](https://dev.to/amoreno/stuff-you-need-to-know-if-you-plan-to-become-a-technical-writer-4oin)
-- [Building Spokane Tech: Part 6](https://dev.to/spokanetech/building-spokane-tech-part-6-3jp1)
+- [I Built a Blog Website in Minutes Using ChatGPT — Here&#39;s the Exact Workflow](https://dev.to/nitinfab/i-built-a-blog-website-in-minutes-using-chatgpt-heres-the-exact-workflow-388b)
+- [DYNAMIC BINDING](https://dev.to/infanta_mano_0c36865b3d79/dynamic-binding-51fc)
+- [How to Build and Launch AI SaaS Product Faster with AI Starter Kit](https://dev.to/vinishbhaskar/how-to-build-and-launch-ai-saas-product-faster-with-ai-starter-kit-3d6k)
+- [[06 | CSS 05] A Comprehensive Guide to Setting Up and Using Tailwind CSS with Vite](https://dev.to/anikpaul/06-css-05-a-comprehensive-guide-to-setting-up-and-using-tailwind-css-with-vite-47d0)
+- [Beating Scope Creep: Implementing Extreme Prototyping &lpar;XPT&rpar; with GenAI Bolt, Figma &amp; Postman](https://dev.to/ovichowdhury/beating-scope-creep-implementing-extreme-prototyping-xpt-with-genai-bolt-figma-postman-51m4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
