@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Asset Tracking: Knowing Where Everything Is](https://dev.to/prapti_b7389e1e574f41f40a/asset-tracking-knowing-where-everything-is-1ikd)
-- [Google Play Console Rejects Flutter App with targetSdkVersion 34](https://dev.to/flavdev23/google-play-console-rejects-flutter-app-with-targetsdkversion-34-1nno)
-- [Email API Integration Assistant](https://dev.to/emailguru/email-api-integration-assistant-3ah8)
-- [Asynchronous programming in Javascript](https://dev.to/bilal_haider_697f82e123f3/asynchronous-programming-in-javascript-32fl)
-- [🌐 Top 10 AI Web Agents in 2025 — Ranked by Usage &amp; Popularity &lpar;Free &amp; Paid&rpar;](https://dev.to/abhishek-nexgen-dev/top-10-ai-web-agents-in-2025-ranked-by-usage-popularity-free-paid-2nhe)
+- [Ever wondered how AI is quietly reshaping the world of software testing?](https://dev.to/shrinithi/ever-wondered-how-ai-is-quietly-reshaping-the-world-of-software-testing-2a3d)
+- [My Project: &quot;EcoRoute - Sustainable Navigation&quot;](https://dev.to/cuervo279/my-project-ecoroute-sustainable-navigation-3pap)
+- [Building AI VoiceCoach with Bolt.new: My Hackathon Journey](https://dev.to/shiva_shanker_k/building-ai-voicecoach-with-boltnew-my-hackathon-journey-4kj7)
+- [🧠 2 Easy Ways to Rename a Git Commit Message &lpar;GUI or CLI&rpar;](https://dev.to/kaleemelahi/2-easy-ways-to-rename-a-git-commit-message-gui-or-cli-5fbk)
+- [OpenAudit – Add auditing to your Node.js app with pluggable adapters &lpar;Postgres, Mongo, File…&rpar;](https://dev.to/tomaslachmann/openaudit-add-auditing-to-your-nodejs-app-with-pluggable-adapters-postgres-mongo-file-2gkg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
