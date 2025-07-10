@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/mohamed_arshath_b5ee96731/-1lek)
-- [Week 6 - You&#39;re not stuck, you just skipped the basics: What is a real database?](https://dev.to/adamsnows/week-6-youre-not-stuck-you-just-skipped-the-basics-what-is-a-real-database-4ag5)
-- [Announcing NocoBase v1.8.0](https://dev.to/nocobase/announcing-nocobase-v180-215k)
-- [Certificações Microsoft: Um Guia Completo](https://dev.to/edesantomaz/certificacoes-microsoft-um-guia-completo-18oi)
-- [DEV Education Track: Build Apps with Google AI Studio](https://dev.to/sirjoe/dev-education-track-build-apps-with-google-ai-studio-3n3i)
+- [Top Asynchronous JavaScript Interview Questions &lpar;2025&rpar;](https://dev.to/wynnt3o/top-asynchronous-javascript-interview-questions-2025-16ak)
+- [☣︎ Beginner-Friendly Guide: &quot;Reschedule Meetings for Maximum Free Time II&quot; – LeetCode 3440 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-reschedule-meetings-for-maximum-free-time-ii-leetcode-3440-c--12me)
+- [The Builder Design Pattern in Java](https://dev.to/wkreuch/the-builder-design-pattern-in-java-167l)
+- [🚀 404ffice: The Time-Traveling Intranet](https://dev.to/tanvirmulla11/404ffice-the-time-traveling-intranet-reimagining-office-culture-through-the-decades-28da)
+- [THIRD DAY JAVA FULL STACK TRAINING](https://dev.to/selvakumar_r_4bac08f5eaa6/third-day-java-full-stack-training-4fe2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
