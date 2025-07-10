@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🌐 Open-WebSearch MCP: Give Your AI Plugin Real-Time Web Access — for Free](https://dev.to/aasee/open-websearch-mcp-give-your-ai-plugin-real-time-web-access-for-free-1coc)
-- [🔥 MASSIVE AI UPDATE: 424 NEW MODELS UNLEASHED! 🚀 #TypeGPT](https://dev.to/mjehra/massive-ai-update-424-new-models-unleashed-typegpt-36ai)
-- [My AI Search for Developer Chairs - 2025 Findings](https://dev.to/accioprocurement/my-ai-search-for-developer-chairs-2025-findings-1a2g)
-- [Inferra AI - New Releases](https://dev.to/bonfire_base/inferra-ai-new-releases-496k)
-- [🔥 How to Stay Relevant in 2025: Mastering Modern Skills for the Future Job Market](https://dev.to/er-raj-aryan/how-to-stay-relevant-in-2025-mastering-modern-skills-for-the-future-job-market-3nc2)
+- [[Boost]](https://dev.to/lucky-cyber3008/-170g)
+- [What is the purpose of jsconfig.json?](https://dev.to/xnivaxhzne/what-is-the-purpose-of-jsconfigjson-4ob0)
+- [Inspirational Quotes](https://dev.to/jruetas/inspirational-quotes-20mh)
+- [Stuff You Need to Know If You Plan to Become a Technical Writer](https://dev.to/amoreno/stuff-you-need-to-know-if-you-plan-to-become-a-technical-writer-4oin)
+- [Building Spokane Tech: Part 6](https://dev.to/spokanetech/building-spokane-tech-part-6-3jp1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
