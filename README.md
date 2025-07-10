@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Is an All-in-One Docker Image Really a Bad Idea?](https://dev.to/adam-banaszkiewicz/is-an-all-in-one-docker-image-really-a-bad-idea-26a8)
-- [I Left My 9–5 to Freelance — Here&#39;s What I Wish I Knew Before Starting](https://dev.to/muzammil_mughal_18d97e834/i-left-my-9-5-to-freelance-heres-what-i-wish-i-knew-before-starting-dg7)
-- [&quot;Freemium vs. free trials for B2B SaaS—what’s your playbook? &lpar;Building an AI tool, need your take&rpar;&quot;](https://dev.to/ybeybeybe/freemium-vs-free-trials-for-b2b-saas-whats-your-playbook-building-an-ai-tool-need-your-take-567a)
-- [forget agi. forget agents. you have no idea what is coming.](https://dev.to/polymathsomnath/forget-agi-forget-agents-you-have-no-idea-what-is-coming-4gbe)
-- [Is Node.js Really “Dead”? Maybe You’re Just Using It Wrong 💥](https://dev.to/xinjie_zou_d67d2805538130/is-nodejs-really-dead-maybe-youre-just-using-it-wrong-196l)
+- [Creative Full-Screen Photography Slider](https://dev.to/creative_salahu/creative-full-screen-photography-slider-3155)
+- [Come ho creato TrovaMi.pro con l’AI &lpar;in 48 ore&rpar;](https://dev.to/drilonhametaj25/come-ho-creato-trovamipro-con-lai-in-48-ore-kbo)
+- [How did you manage to create graphs or visuals back in the day with limited resources like line printers and FORTRAN?](https://dev.to/adityabhuyan/how-did-you-manage-to-create-graphs-or-visuals-back-in-the-day-with-limited-resources-like-line-3ole)
+- [When Millions Need Answers: Building Sub-50ms Search for Unstructured Data](https://dev.to/schiffer_kate_18420bf9766/when-millions-need-answers-building-sub-50ms-search-for-unstructured-data-3p2k)
+- [📱 How Social Media Feed Algorithms Are Controlling Your Brain &lpar;And Your Dog Video Addiction&rpar;](https://dev.to/hmzas/how-social-media-feed-algorithms-are-controlling-your-brain-and-your-dog-video-addiction-bko)
 <!-- BLOG-POST-LIST:END -->
 
 ---
