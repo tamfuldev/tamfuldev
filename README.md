@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ever wondered how AI is quietly reshaping the world of software testing?](https://dev.to/shrinithi/ever-wondered-how-ai-is-quietly-reshaping-the-world-of-software-testing-2a3d)
-- [My Project: &quot;EcoRoute - Sustainable Navigation&quot;](https://dev.to/cuervo279/my-project-ecoroute-sustainable-navigation-3pap)
-- [Building AI VoiceCoach with Bolt.new: My Hackathon Journey](https://dev.to/shiva_shanker_k/building-ai-voicecoach-with-boltnew-my-hackathon-journey-4kj7)
-- [🧠 2 Easy Ways to Rename a Git Commit Message &lpar;GUI or CLI&rpar;](https://dev.to/kaleemelahi/2-easy-ways-to-rename-a-git-commit-message-gui-or-cli-5fbk)
-- [OpenAudit – Add auditing to your Node.js app with pluggable adapters &lpar;Postgres, Mongo, File…&rpar;](https://dev.to/tomaslachmann/openaudit-add-auditing-to-your-nodejs-app-with-pluggable-adapters-postgres-mongo-file-2gkg)
+- [Python Learning Progress for a Japanese Beginner](https://dev.to/tofu1216/python-learning-progress-for-a-japanese-beginner-1obg)
+- [Cloud Cost Optimization: FinOps Best Practices](https://dev.to/binyam/cloud-cost-optimization-finops-best-practices-1050)
+- [How I Fixed GitHub’s 14 Days Repo Traffic Graph](https://dev.to/m4xshen/how-i-fixed-githubs-14-days-repo-traffic-graph-59ji)
+- [Discord community; let&#39;s go](https://dev.to/trucktrek_trek_d7dcf92c7b/hello-everyone-51a5)
+- [[Boost]](https://dev.to/roman_chudov_aae89a53d641/-3779)
 <!-- BLOG-POST-LIST:END -->
 
 ---
