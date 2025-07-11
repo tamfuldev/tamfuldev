@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Bhindi AI: Transforming Text into Action with Intelligent Automation](https://dev.to/kalash_shah_2dc42e379be0d/bhindi-ai-transforming-text-into-action-with-intelligent-automation-57m0)
-- [Getting Started with ClickHouse in TypeScript using hypequery.](https://dev.to/lureilly1/getting-started-with-clickhouse-in-typescript-using-hypequery-15k4)
-- [Building Quantum Maze with Amazon Q Developer CLI - My Build Games Challenge Journey](https://dev.to/j_49d950a33e76f1ee3e55449/building-quantum-maze-with-amazon-q-developer-cli-my-build-games-challenge-journey-4nf9)
-- [Hackerrank - SQL - Japanese Cities&#39; Names](https://dev.to/mrpunkdasilva/hackerrank-sql-japanese-cities-names-49a3)
-- [From Zero to Code-Ready: Set Up Your Dev Environment in 2025 &lpar;No Experience Needed&rpar;](https://dev.to/murithivictor/from-zero-to-code-ready-set-up-your-dev-environment-in-2025-no-experience-needed-28hg)
+- [⚙️ Basic Docker Commands](https://dev.to/sajjadrahman56/basic-docker-commands-omo)
+- [Understanding that app you vibe coded](https://dev.to/suesmith/understanding-that-app-you-vibe-coded-5hig)
+- [🚢 Docker কী? কেন শিখবে? POST -01](https://dev.to/sajjadrahman56/docker-kii-ken-shikhbe-post-01-5ecl)
+- [Is It Over for `localStorage`? Was It Ever That Good?](https://dev.to/werliton/is-it-over-for-localstorage-was-it-ever-that-good-3jak)
+- [Build a Super-Smart Chatbot: Your Guide to RAG with Pinecone, OpenAI, and Claude 3.5 Sonnet](https://dev.to/saurabh2836/build-a-super-smart-chatbot-your-guide-to-rag-with-pinecone-openai-and-claude-35-sonnet-4a9h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
