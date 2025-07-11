@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Handling Deep Links, Deferred Deep Links &amp; User Invites in React Native using AppsFlyer](https://dev.to/amitkumar13/handling-deep-links-deferred-deep-links-user-invites-in-react-native-using-appsflyer-58bg)
+- [WWDC 2025 - SceneKit Deprecation and RealityKit Migration: A Comprehensive Guide for iOS Developers](https://dev.to/arshtechpro/wwdc-2025-scenekit-deprecation-and-realitykit-migration-a-comprehensive-guide-for-ios-developers-o26)
+- [Why Competing on Google Feels Like Fighting a Losing Battle 🥀](https://dev.to/herimaxsi/why-competing-on-google-feels-like-fighting-a-losing-battle-jb4)
 - [Google AI Studio - The Game of WAR!](https://dev.to/mccordinator/google-ai-studio-the-game-of-war-3fb8)
-- [What happens if a backdoored laptop is bought by the wrong person?](https://dev.to/adc/what-happens-if-a-backdoored-laptop-is-bought-by-the-wrong-person-3m31)
-- [How I Saved 2.7GB of Memory in Odoo by Skipping the ORM](https://dev.to/alesisjoan/how-i-saved-27gb-of-memory-in-odoo-by-skipping-the-orm-828)
-- [Serving Local Apps Securely with Caddy and Authentik: Fixing TLS Warnings in Development](https://dev.to/lovestaco/serving-local-apps-securely-with-caddy-and-authentik-fixing-tls-warnings-in-development-29op)
-- [My First Day In JAVA, introduction and JDK, JRE, JVM and Features.](https://dev.to/seenuvasan_p/my-first-day-in-java-introduction-and-jdk-jre-jvm-and-features-4c8i)
+- [Couchbase Weekly Updates - July 11, 2025](https://dev.to/couchbase/couchbase-weekly-updates-july-11-2025-jd3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
