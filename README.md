@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [javascript conditional statements](https://dev.to/kuhanraja_ar_1df623b8e2e/javascript-conditional-statements-2ppp)
-- [Hot Reloading in Ruby](https://dev.to/yet_anotherdev/hot-reloading-in-ruby-5gac)
-- [Supercharge Your Java Side Projects: Create CI Pipeline with GitHub Actions](https://dev.to/mammadyahyayev/supercharge-your-java-side-projects-create-ci-pipeline-with-github-actions-2hb1)
-- [[Boost]](https://dev.to/rajesh_patel/-m9l)
-- [[Boost]](https://dev.to/aryan_panwala/-156a)
+- [What I learned through the process of building a Crypto Payment Gateway?](https://dev.to/edwinjose2401/what-i-learned-through-the-process-of-building-a-crypto-payment-gateway-57bi)
+- [Find the cycle section for infinite cyclic decimals](https://dev.to/esproc_spl/find-the-cycle-section-for-infinite-cyclic-decimals-1app)
+- [👨‍💻 Why Developers Should Care About Interactive Learning UX](https://dev.to/buildvr/why-developers-should-care-about-interactive-learning-ux-2ffa)
+- [C# Minimal APIs: Building Lightweight Web Services](https://dev.to/chakewitz/c-minimal-apis-building-lightweight-web-services-36ii)
+- [Building Reactive Applications with C# and Rx.NET](https://dev.to/chakewitz/building-reactive-applications-with-c-and-rxnet-4lom)
 <!-- BLOG-POST-LIST:END -->
 
 ---
