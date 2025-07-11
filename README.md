@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Why Every Beginner Should Build Console-Based Projects Before Moving to Backend Frameworks&quot;](https://dev.to/pd230/why-every-beginner-should-build-console-based-projects-before-moving-to-backend-frameworks-1h3a)
-- [Quick overview of modern patterns in NodeJS](https://dev.to/urbanisierung/quick-overview-of-modern-patterns-in-nodejs-40md)
-- [Is Legally Non-Compliant Behavior a Security Vulnerability?](https://dev.to/irori_0125ad051fc310c119c/is-legally-non-compliant-behavior-a-security-vulnerability-b7a)
-- [Building Leaders, Shaping Futures: Uniting AWS Community Leaders in 2025](https://dev.to/kakacomputer-media/building-leaders-shaping-futures-uniting-aws-community-leaders-in-2025-2lgn)
-- [Day 3 of Learning Web Development: My Third Day learning HTML &amp; CSS](https://dev.to/vijayaraj_21/day-3-of-learning-web-development-my-third-day-learning-html-css-lj3)
+- [javascript conditional statements](https://dev.to/kuhanraja_ar_1df623b8e2e/javascript-conditional-statements-2ppp)
+- [Hot Reloading in Ruby](https://dev.to/yet_anotherdev/hot-reloading-in-ruby-5gac)
+- [Supercharge Your Java Side Projects: Create CI Pipeline with GitHub Actions](https://dev.to/mammadyahyayev/supercharge-your-java-side-projects-create-ci-pipeline-with-github-actions-2hb1)
+- [[Boost]](https://dev.to/rajesh_patel/-m9l)
+- [[Boost]](https://dev.to/aryan_panwala/-156a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
