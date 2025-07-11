@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🎙️ “I Spoke to My Browser… And It Spoke Back with the Truth!”](https://dev.to/rajguru_yadav_56d13a7b8fc/i-spoke-to-my-browser-and-it-spoke-back-with-the-truth-2f8j)
-- [A Day in the Life of a DevOps Engineer](https://dev.to/devopsdaily/a-day-in-the-life-of-a-devops-engineer-58ba)
-- [Why Numpy is faster than Pure Python: A Speed Comparison](https://dev.to/uwintwalijean/why-numpy-is-faster-than-pure-python-a-speed-comparison-57mj)
-- [How to Get the Best Out of Notion MCP Server with Cursor and Claude?](https://dev.to/composiodev/how-to-get-the-best-out-of-notion-mcp-server-with-cursor-and-claude-1lc9)
-- [Cash Flow Forecasting Mistakes to Avoid: Lessons from Real Businesses](https://dev.to/modelreef/cash-flow-forecasting-mistakes-to-avoid-lessons-from-real-businesses-3phj)
+- [Domain-Driven Design in Web7452](https://dev.to/member_d50fddd8/domain-driven-design-in-web7452-4dof)
+- [TikCopy – A Minimal Clipboard History Tool for Linux Built in Rust](https://dev.to/tikrack_0b5ca7f793d07d3db/tikcopy-a-minimal-clipboard-history-tool-for-linux-built-in-rust-365j)
+- [Exception Handling In Java](https://dev.to/akamzchidi/exception-handling-in-java-3app)
+- [Network Programming Guide1892](https://dev.to/member_d50fddd8/network-programming-guide1892-1aa9)
+- [Interfaces: Job Interviews for Your Classes](https://dev.to/rodrigodelascio/interfaces-job-interviews-for-your-classes-1f9e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
