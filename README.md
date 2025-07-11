@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🍁Beginner-Friendly Guide &quot;Most Booked Meeting Room Logic&quot; – LeetCode 2402 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-most-booked-meeting-room-logic-leetcode-2402-c-python--1i0l)
-- [AI-Generated Code: Finding the Right Percentage for Your Development Team](https://dev.to/pantoai/ai-generated-code-finding-the-right-percentage-for-your-development-team-5f83)
-- [Model Mondays S2E04 - AI Developer Experiences](https://dev.to/azure/model-mondays-s2e04-ai-developer-experiences-41mf)
-- [Constructor](https://dev.to/infanta_mano_0c36865b3d79/constructor-2ili)
-- [Real-Time Data Stream Processing8995](https://dev.to/member_d50fddd8/real-time-data-stream-processing8995-2ap4)
+- [&quot;Why Every Beginner Should Build Console-Based Projects Before Moving to Backend Frameworks&quot;](https://dev.to/pd230/why-every-beginner-should-build-console-based-projects-before-moving-to-backend-frameworks-1h3a)
+- [Quick overview of modern patterns in NodeJS](https://dev.to/urbanisierung/quick-overview-of-modern-patterns-in-nodejs-40md)
+- [Is Legally Non-Compliant Behavior a Security Vulnerability?](https://dev.to/irori_0125ad051fc310c119c/is-legally-non-compliant-behavior-a-security-vulnerability-b7a)
+- [Building Leaders, Shaping Futures: Uniting AWS Community Leaders in 2025](https://dev.to/kakacomputer-media/building-leaders-shaping-futures-uniting-aws-community-leaders-in-2025-2lgn)
+- [Day 3 of Learning Web Development: My Third Day learning HTML &amp; CSS](https://dev.to/vijayaraj_21/day-3-of-learning-web-development-my-third-day-learning-html-css-lj3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
