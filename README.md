@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Domain-Driven Design in Web7452](https://dev.to/member_d50fddd8/domain-driven-design-in-web7452-4dof)
-- [TikCopy – A Minimal Clipboard History Tool for Linux Built in Rust](https://dev.to/tikrack_0b5ca7f793d07d3db/tikcopy-a-minimal-clipboard-history-tool-for-linux-built-in-rust-365j)
-- [Exception Handling In Java](https://dev.to/akamzchidi/exception-handling-in-java-3app)
-- [Network Programming Guide1892](https://dev.to/member_d50fddd8/network-programming-guide1892-1aa9)
-- [Interfaces: Job Interviews for Your Classes](https://dev.to/rodrigodelascio/interfaces-job-interviews-for-your-classes-1f9e)
+- [📘 Complete Docker Image Publishing CheatSheet 🐳🚀](https://dev.to/dpvasani56/complete-docker-image-publishing-cheatsheet-jo4)
+- [🧭 Docker Port Mapping &amp; CLI Flag CheatSheet](https://dev.to/dpvasani56/docker-port-mapping-cli-flag-cheatsheet-cm)
+- [De C# 10.0 a C# 11.0 — Produtividade, padrões poderosos e novas formas de expressar código limpo](https://dev.to/daniloopinheiro/de-c-100-a-c-110-produtividade-padroes-poderosos-e-novas-formas-de-expressar-codigo-limpo-2nf9)
+- [# Port Mapping](https://dev.to/dpvasani56/-port-mapping-3jme)
+- [Why Industrial TFT Displays Are Essential in Harsh Environments](https://dev.to/industrial-tft/why-industrial-tft-displays-are-essential-in-harsh-environments-1g8d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
