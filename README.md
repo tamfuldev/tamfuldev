@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [When your home network lies to you](https://dev.to/czekaj/when-your-home-network-lies-to-you-28a6)
-- [Prompt Engineering: From Basic Principles to Science-Based Strategies](https://dev.to/cursedknowledge/prompt-engineering-from-basic-principles-to-science-based-strategies-41kd)
-- [When Versions Divide: The Break Isn&#39;t Always in the Code](https://dev.to/tonystpierre/when-versions-divide-the-break-isnt-always-in-the-code-24k6)
-- [String in Python &lpar;17&rpar;](https://dev.to/hyperkai/string-in-python-17-p3m)
-- [The way I see DDD &lpar;from a still-learning POV&rpar;](https://dev.to/leonardo_solisdark_astr/the-way-i-see-ddd-from-a-still-learning-pov-4nha)
+- [How to provide private storage for internal company documents.](https://dev.to/onyemuche/how-to-provide-private-storage-for-internal-company-documents-2k53)
+- [DynamoDB in AWS](https://dev.to/aws_1_27d6cbc9e944aa228ef/dynamodb-in-aws-5851)
+- [Parsing 1 Billion Rows in Bun/Typescript](https://dev.to/taehkimmm/parsing-1-billion-rows-in-buntypescript-3cfl)
+- [The next update is here for my system design diagram builder](https://dev.to/sroy8091/the-next-update-is-here-for-my-system-design-diagram-builder-2nfi)
+- [Git learn basic](https://dev.to/hieubr/git-learn-basic-37ek)
 <!-- BLOG-POST-LIST:END -->
 
 ---
