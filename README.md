@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What I learned through the process of building a Crypto Payment Gateway?](https://dev.to/edwinjose2401/what-i-learned-through-the-process-of-building-a-crypto-payment-gateway-57bi)
-- [Find the cycle section for infinite cyclic decimals](https://dev.to/esproc_spl/find-the-cycle-section-for-infinite-cyclic-decimals-1app)
-- [👨‍💻 Why Developers Should Care About Interactive Learning UX](https://dev.to/buildvr/why-developers-should-care-about-interactive-learning-ux-2ffa)
-- [C# Minimal APIs: Building Lightweight Web Services](https://dev.to/chakewitz/c-minimal-apis-building-lightweight-web-services-36ii)
-- [Building Reactive Applications with C# and Rx.NET](https://dev.to/chakewitz/building-reactive-applications-with-c-and-rxnet-4lom)
+- [Key Technologies in e-commerce software development](https://dev.to/techverdi/key-technologies-in-e-commerce-software-development-1d4b)
+- [Key Technologies in e-commerce software development](https://dev.to/techverdi/key-technologies-in-e-commerce-software-development-181d)
+- [Awesome DevTools — A Curated List of Tools for Developers](https://dev.to/devush/awesome-devtools-a-curated-list-of-tools-for-developers-4lkd)
+- [Car Batteries: The Magic Core of Electronics](https://dev.to/ersajay/car-batteries-the-magic-core-of-electronics-3fg5)
+- [🦄 Chasing Traces Like Unicorns: Implementing OpenTelemetry in Angular](https://dev.to/marialurdes_dehtiarenko_/chasing-traces-like-unicorns-implementing-opentelemetry-in-angular-233b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
