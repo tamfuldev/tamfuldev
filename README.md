@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Key Technologies in e-commerce software development](https://dev.to/techverdi/key-technologies-in-e-commerce-software-development-1d4b)
-- [Key Technologies in e-commerce software development](https://dev.to/techverdi/key-technologies-in-e-commerce-software-development-181d)
-- [Awesome DevTools — A Curated List of Tools for Developers](https://dev.to/devush/awesome-devtools-a-curated-list-of-tools-for-developers-4lkd)
-- [Car Batteries: The Magic Core of Electronics](https://dev.to/ersajay/car-batteries-the-magic-core-of-electronics-3fg5)
-- [🦄 Chasing Traces Like Unicorns: Implementing OpenTelemetry in Angular](https://dev.to/marialurdes_dehtiarenko_/chasing-traces-like-unicorns-implementing-opentelemetry-in-angular-233b)
+- [JuiceFS Community 1.3: Python SDK, Faster Backup, SQL &amp; Windows Optimizations](https://dev.to/daswu/juicefs-community-13-python-sdk-faster-backup-sql-windows-optimizations-4l8e)
+- [LeRobot 机械臂操作教程](https://dev.to/jambochen/lerobot-ji-jie-bi-cao-zuo-jiao-cheng-78i)
+- [LeetCode 30 Days of JavaScript — Day 1: Closures &amp; Counter Function](https://dev.to/iam_kyei/leetcode-30-days-of-javascript-day-1-closures-counter-function-4on3)
+- [Single Core High Concurrency5344](https://dev.to/member_d50fddd8/single-core-high-concurrency5344-4cok)
+- [Would you like to be a movie star by contributing to open source?](https://dev.to/szabgab/would-you-like-to-be-a-movie-star-by-contributing-to-open-source-1be6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
