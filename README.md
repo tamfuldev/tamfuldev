@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [21.7.2021](https://dev.to/ramas__18621f48f2602fbbc/2172021-3d08)
-- [I wrote up a post about how to easily build A2A-style agents. I also talk a bit about why I like A2A more than MCP.](https://dev.to/technosophos/i-wrote-up-a-post-about-how-to-easily-build-a2a-style-agents-i-also-talk-a-bit-about-why-i-like-j0j)
-- [Dev Setup - dbt Core 1.9.0 with Airflow 3.0 Orchestration](https://dev.to/sanjayio/dev-setup-dbt-core-190-with-airflow-30-orchestration-1fgf)
-- [Number Guessing Game](https://dev.to/ameh_mathias/number-guessing-game-107e)
-- [✨Mood-based Travel Poster Generator✈️](https://dev.to/khaledsaeed18/mood-based-travel-poster-generator-a2d)
+- [Understanding Functional Programming with Haskell](https://dev.to/satp2000/understanding-functional-programming-with-haskell-2h3)
+- [Programming reactive](https://dev.to/c4rlosc7/programming-reactive-2cff)
+- [Hi 👋](https://dev.to/muhammad_mubashir__786/hi-3dl1)
+- [👋 Hey friends! I&#39;m Muhammad Mubashir, a passionate Web Developer who turns ideas into interactive digital experiences. GitHub: https://github.com/ProgrammerMuhammadMubashir](https://dev.to/muhammad_mubashir__786/hey-friends-im-muhammad-mubashir-a-passionate-web-developer-who-turns-ideas-into-interactive-2beo)
+- [⚡ Share the Rust projects that you&#39;re excited about!](https://dev.to/jakeroggenbuck/share-the-rust-projects-that-youre-excited-about-26fo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
