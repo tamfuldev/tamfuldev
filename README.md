@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [KAI Scheduler](https://dev.to/minwook/kai-scheduler-22ih)
-- [I&#39;m Sorry Arch! Part 2](https://dev.to/darthmoomancer/im-sorry-arch-part-2-163h)
-- [Rust Implementation for High Concurrency Processing3319](https://dev.to/member_3bd028d5/rust-implementation-for-high-concurrency-processing3319-ga6)
-- [Bidirectional Communication Patterns in Modern Web Apps3315](https://dev.to/member_fdfd31bf/bidirectional-communication-patterns-in-modern-web-apps3315-48lj)
-- [Context Management and Request Lifecycle Optimization3322](https://dev.to/member_bf115bc6/context-management-and-request-lifecycle-optimization3322-3b12)
+- [What Is Vibe Coding🤔? Here&#39;s To Do It.](https://dev.to/soumyadeepdey/what-is-vibe-coding-how-to-do-it-4e9j)
+- [Microservices Architecture with Lightweight Framework Design&lpar;8637&rpar;](https://dev.to/member_3bd028d5/microservices-architecture-with-lightweight-framework-design8637-4dc5)
+- [Dynamic Routing Systems for Scalable Web Applications&lpar;9874&rpar;](https://dev.to/member_fdfd31bf/dynamic-routing-systems-for-scalable-web-applications9874-29id)
+- [THE JAVASCRIPT NEEDED TO BE TOP 1% REACT NATIVE DEVELOPER](https://dev.to/fonyuygita/the-javascript-needed-to-be-top-1-react-native-developer-1lad)
+- [best practices for REST practices](https://dev.to/saicharanb/best-practices-for-rest-practices-5a2f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
