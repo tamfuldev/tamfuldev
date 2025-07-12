@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Invisible Epidemic 😷: Facing the Silent Crisis of Burnout [with Sam Loeffler]](https://dev.to/sonika_onboardedhq/the-invisible-epidemic-facing-the-silent-crisis-of-burnout-with-sam-loeffler-19jp)
-- [Why HikariCP Throws Timeout &amp; How to Fix It](https://dev.to/anasanjaria/why-hikaricp-throws-timeout-how-to-fix-it-3p0f)
-- [🧠 Understanding the CAP Theorem – Through Alice’s Distributed Adventure 🚀](https://dev.to/sajidurshajib/understanding-the-cap-theorem-through-alices-distributed-adventure-pmp)
-- [What if your app could get what it needs—without building everything itself? That’s the magic of dependency injection in App.](https://dev.to/hiteshm_devapp/what-if-your-app-could-get-what-it-needs-without-building-everything-itself-thats-the-magic-of-3f6n)
-- [From Pain Point to Public Package: A Developer&#39;s Guide to Publishing on NPM](https://dev.to/itsaryanchauhan/from-pain-point-to-public-package-a-developers-guide-to-publishing-on-npm-1fio)
+- [[Boost]](https://dev.to/theorienet/-8d2)
+- [🚀 5 AI Tools That Saved Me 20+ Hours Last Month](https://dev.to/theorienet/5-ai-tools-that-saved-me-20-hours-last-month-52i8)
+- [Why Not Implement HMR with Static Analysis?](https://dev.to/muspi-merol/why-not-implement-hmr-with-static-analysis-2l5d)
+- [Building HelpMe webapp – Part 2: Core Ticket Routes with Express &amp; Mongoose](https://dev.to/abhijeet_sachan_34f5d10dc/building-helpme-webapp-part-2-core-ticket-routes-with-express-mongoose-3fdm)
+- [Programming Entry Level: cheat sheet javascript](https://dev.to/devopsfundamentals/programming-entry-level-cheat-sheet-javascript-alh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
