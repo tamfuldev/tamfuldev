@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Middleware Architecture Patterns for Request Processing&lpar;3755&rpar;](https://dev.to/member_fdfd31bf/middleware-architecture-patterns-for-request-processing3755-5g7c)
-- [Error Handling Strategies in High-Performance Web Servers&lpar;3735&rpar;](https://dev.to/member_c4991035/error-handling-strategies-in-high-performance-web-servers3735-17e6)
-- [How to Create A Telegram Bot with BuilderEngine.](https://dev.to/a_rjun_m/how-to-create-a-telegram-bot-with-builderengine-1716)
-- [High-Performance Routing System Design and Implementation&lpar;5600&rpar;](https://dev.to/member_3bd028d5/high-performance-routing-system-design-and-implementation5600-2o53)
-- [Rust Implementation for High Concurrency Processing&lpar;7508&rpar;](https://dev.to/member_bf115bc6/rust-implementation-for-high-concurrency-processing7508-2km8)
+- [Efficient WebSocket Server-Side Processing&lpar;2202&rpar;](https://dev.to/member_bf115bc6/efficient-websocket-server-side-processing2202-5fh9)
+- [Rust Async Web Framework Performance Breakthrough&lpar;8093&rpar;](https://dev.to/member_8a2272d3/rust-async-web-framework-performance-breakthrough8093-3493)
+- [Microservices Architecture with Lightweight Framework Design&lpar;6842&rpar;](https://dev.to/member_bf115bc6/microservices-architecture-with-lightweight-framework-design6842-424k)
+- [Efficient WebSocket Server-Side Processing&lpar;9936&rpar;](https://dev.to/member_bb466cd7/efficient-websocket-server-side-processing9936-2ckc)
+- [Why Your NodeJs/NestJS JWT Authentication is Probably Broken](https://dev.to/theadeyemiolayinka/why-your-nodejsnestjs-jwt-authentication-is-probably-broken-73e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
