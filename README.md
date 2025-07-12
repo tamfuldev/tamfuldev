@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Functional Programming with Haskell](https://dev.to/satp2000/understanding-functional-programming-with-haskell-2h3)
-- [Programming reactive](https://dev.to/c4rlosc7/programming-reactive-2cff)
-- [Hi 👋](https://dev.to/muhammad_mubashir__786/hi-3dl1)
-- [👋 Hey friends! I&#39;m Muhammad Mubashir, a passionate Web Developer who turns ideas into interactive digital experiences. GitHub: https://github.com/ProgrammerMuhammadMubashir](https://dev.to/muhammad_mubashir__786/hey-friends-im-muhammad-mubashir-a-passionate-web-developer-who-turns-ideas-into-interactive-2beo)
-- [⚡ Share the Rust projects that you&#39;re excited about!](https://dev.to/jakeroggenbuck/share-the-rust-projects-that-youre-excited-about-26fo)
+- [DEV HELL: FRAUD OR F*CKING GENIUS](https://dev.to/jinparkmida/dev-hell-fraud-or-fcking-genius-32km)
+- [Remotely Access an IoT Device Instantly with Tunnelmole](https://dev.to/robbiecahill/remotely-access-an-iot-device-instantly-with-tunnelmole-4f4o)
+- [AWS IOT: How to get a public URL instantly using the open source Tunnelmole](https://dev.to/robbiecahill/aws-iot-how-to-get-a-public-url-instantly-using-the-open-source-tunnelmole-5ddc)
+- [Instantly expose a server behind cgnat with a public URL - Bypass cgnat port forwarding restrictions](https://dev.to/robbiecahill/instantly-expose-a-server-behind-cgnat-with-a-public-url-bypass-cgnat-port-forwarding-restrictions-33d7)
+- [Switch images in desktop and mobile views using CSS: Media queries](https://dev.to/md_ashraf_dev_to/switch-images-in-desktop-and-mobile-views-using-css-media-queries-3h8f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
