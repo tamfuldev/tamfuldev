@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Importance of Coding in the Human World](https://dev.to/david_786/the-importance-of-coding-in-the-human-world-1im0)
-- [Dark Web Scraping Using AI : Tools, Techniques, and Challenges](https://dev.to/medamyyne/dark-web-scraping-using-ai-tools-techniques-and-challenges-48c0)
-- [How I Blog with Bots &lpar;But You Can Still Blame Me&rpar; 😅](https://dev.to/anchildress1/how-i-blog-with-bots-but-you-can-still-blame-me-2861)
-- [Hey all, it&#39;s my first blog. Please give it a read and let me know what enhancements should be added for my next blogs. Hope you like it :&rpar;](https://dev.to/srushti/hey-all-its-my-first-blog-please-give-it-a-read-and-let-me-know-what-enhancements-should-be-6g8)
-- [Understanding PostgreSQL crosstab](https://dev.to/altesack/understanding-postgresql-crosstab-2j89)
+- [Step-by-Step Beginner Guide: Set Up Apache on AWS EC2 with Git Bash.](https://dev.to/chimdi_ucheeni/step-by-step-beginner-guide-set-up-apache-on-aws-ec2-with-git-bash-2knk)
+- [A Practical Guide to Python&#39;s @property Decorator &lpar;with Examples&rpar;](https://dev.to/amohgodwin/a-practical-guide-to-pythons-property-decorator-with-examples-26mo)
+- [Guide: Deploy Ghost with Docker on Sliplane](https://dev.to/wimadev/guide-deploy-ghost-with-docker-on-sliplane-4c0b)
+- [Análisis de datos con IA &lpar;gemini&rpar;](https://dev.to/horaciodegiorgi/analisis-de-datos-con-ia-gemini-1m1e)
+- [Intro to PYJSX](https://dev.to/ddebajyati/intro-to-pyjsx-5h2e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
