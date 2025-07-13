@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [C the right way to program part 2](https://dev.to/anshuman_khanna/c-the-right-way-to-program-part-2-1dep)
-- [Learning to Unlearn: The Superpower Developers Need in the AI Era](https://dev.to/hallar_ali_6df60db78e978a/learning-to-unlearn-the-superpower-developers-need-in-the-ai-era-40ga)
-- [How to Secure SSH Access with Short-Lived Certificates](https://dev.to/sebos/how-to-secure-ssh-access-with-short-lived-certificates-44a5)
-- [Building Spokane Tech: Part 7](https://dev.to/spokanetech/building-spokane-tech-part-7-1joa)
-- [India Has a Big f***ing Talent Problem’: What Runable’s Viral Hiring Post Means for Developers](https://dev.to/shiva_shanker_k/india-has-a-big-fing-talent-problem-what-runables-viral-hiring-post-means-for-developers-4cga)
+- [MovieMood is a React Native app built with Expo that lets you discover and explore movies using the TMDb API.](https://dev.to/saidmounaim/moviemood-is-a-react-native-app-built-with-expo-that-lets-you-discover-and-explore-movies-using-the-12cp)
+- [Axero Digital Workspace](https://dev.to/nebiyu_girma_007d227cbd12/this-is-a-submission-for-frontend-challenge-office-1ndd)
+- [Broken API Documentation: Why Developers Can&#39;t Integrate Successfully](https://dev.to/arbythecoder/broken-api-documentation-why-developers-cant-integrate-successfully-1cg)
+- [Programming Entry Level: how to error handling](https://dev.to/devopsfundamentals/programming-entry-level-how-to-error-handling-5593)
+- [How to develop a MacOS App easily with Wails](https://dev.to/wickenico/how-to-develop-a-macos-app-easily-with-wails-19eb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
