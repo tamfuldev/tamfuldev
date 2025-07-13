@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Tryhackme - Cyber Kill Chain](https://dev.to/hr21don/tryhackme-cyber-kill-chain-2ab5)
-- [🟢 How to Launch an Ubuntu EC2 Instance on AWS &lpar;Step-by-Step Guide&rpar;](https://dev.to/augustine_okwaraebuzie_4e/how-to-launch-an-ubuntu-ec2-instance-on-aws-step-by-step-guide-59al)
-- [How to Avoid TLE &lpar;Time Limit Exceeded&rpar; Errors in Coding Problems](https://dev.to/pratikshya_behera_/how-to-avoid-tle-time-limit-exceeded-errors-in-coding-problems-1df2)
-- [🧩 When to Use NoSQL and SQL?](https://dev.to/sajidurshajib/when-to-use-nosql-and-sql-a1m)
-- [[Boost]](https://dev.to/maradwan/-1mpd)
+- [IGN: Who Is The Greatest Superman?](https://dev.to/gg_news/ign-who-is-the-greatest-superman-504l)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 16 - ‘Oppenheimer&#39; | The Big Picture](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-16-oppenheimer-the-big-picture-1n6k)
+- [Ringer Movies: ‘Jaws 2&#39; With Bill Simmons, Chris Ryan, and Sean Fennessey | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-jaws-2-with-bill-simmons-chris-ryan-and-sean-fennessey-the-rewatchables-2p7f)
+- [Ringer Movies: ‘Superman&#39; Is Here to Save the Day. Are We Saved? | The Big Picture](https://dev.to/popcorn_movies/ringer-movies-superman-is-here-to-save-the-day-are-we-saved-the-big-picture-nc1)
+- [CinemaSins: Everything Wrong With Superman IV: The Quest for Peace in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-superman-iv-the-quest-for-peace-in-24-minutes-or-less-2c31)
 <!-- BLOG-POST-LIST:END -->
 
 ---
