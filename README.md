@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Step-by-Step Beginner Guide: Set Up Apache on AWS EC2 with Git Bash.](https://dev.to/chimdi_ucheeni/step-by-step-beginner-guide-set-up-apache-on-aws-ec2-with-git-bash-2knk)
-- [A Practical Guide to Python&#39;s @property Decorator &lpar;with Examples&rpar;](https://dev.to/amohgodwin/a-practical-guide-to-pythons-property-decorator-with-examples-26mo)
-- [Guide: Deploy Ghost with Docker on Sliplane](https://dev.to/wimadev/guide-deploy-ghost-with-docker-on-sliplane-4c0b)
-- [Análisis de datos con IA &lpar;gemini&rpar;](https://dev.to/horaciodegiorgi/analisis-de-datos-con-ia-gemini-1m1e)
-- [Intro to PYJSX](https://dev.to/ddebajyati/intro-to-pyjsx-5h2e)
+- [Convention over configuration in the age of AI. &lpar; Happy accident ? &rpar;](https://dev.to/w3ndo/convention-over-configuration-in-the-age-of-ai-happy-accident--1b9j)
+- [Mission 7: Update Your Portfolio Part Two](https://dev.to/theoriginalbpc/mission-7-update-your-portfolio-part-two-4bkc)
+- [Understanding of Deep Copy and Shallow Copy in JavaScript](https://dev.to/kannan_ravi/understanding-of-deep-copy-and-shallow-copy-in-javascript-h3i)
+- [Why Your Flutter App Rebuilds Too Much — And How to Fix It](https://dev.to/alaminkarno/why-your-flutter-app-rebuilds-too-much-and-how-to-fix-it-bpi)
+- [🧠 10-Day JS Challenge: Arrays &amp; Array Methods Day-6](https://dev.to/smriti_webdev/10-day-js-challenge-arrays-array-methods-day-6-b3b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
