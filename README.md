@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I built JavaScript&#39;s fastest &quot;deep equals&quot; function](https://dev.to/ahrjarrett/how-i-built-javascripts-fastest-deep-equals-function-51n8)
-- [From URL to React: What Happens When You Type URL and Press Enter?](https://dev.to/shubham_ghule_e94e88f98ce/from-url-to-react-what-happens-when-you-press-enter-40n8)
-- [Day 3 of Java Full Stack Learning](https://dev.to/vidya_varshini/day-3-of-java-full-stack-learning-103p)
-- [🚀 LookAtni File Markers — Invisible Markers to Structure Your Files Like Magic](https://dev.to/rafael_mori/lookatni-file-markers-invisible-markers-to-structure-your-files-like-magic-mfl)
-- [🚦 Routing in Laravel - web.php vs api.php](https://dev.to/rohitdhiman/routing-in-laravel-webphp-vs-apiphp-50ld)
+- [Git and Version Control Systems: A Developer&#39;s Essential Guide](https://dev.to/matin676/git-and-version-control-systems-a-developers-essential-guide-11bh)
+- [🚀 Think Redux and Zustand Are Fast? We Put Them to the Test.](https://dev.to/karandeepsingh7070/think-redux-and-zustand-are-fast-we-put-them-to-the-test-5cfi)
+- [Why do you contribute to Open Source? What is your motivation?](https://dev.to/szabgab/why-do-you-contribute-to-open-source-what-is-your-motivation-2pdo)
+- [Day 1 &amp; 2 of My Java Full Stack Journey:Starting with HTML &amp; CSS Basis](https://dev.to/bhuvanasri/day-1-2-of-my-java-full-stack-journeystarting-with-html-css-basis-13a)
+- [Weekly #28-2025: Git Mastery, Algorithms, Why are there So many Databases, AI Agents &amp; Prompting](https://dev.to/weekly/weekly-28-2025-git-mastery-algorithms-why-are-there-so-many-databases-ai-agents-prompting-ohg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
