@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Git and Version Control Systems: A Developer&#39;s Essential Guide](https://dev.to/matin676/git-and-version-control-systems-a-developers-essential-guide-11bh)
-- [🚀 Think Redux and Zustand Are Fast? We Put Them to the Test.](https://dev.to/karandeepsingh7070/think-redux-and-zustand-are-fast-we-put-them-to-the-test-5cfi)
-- [Why do you contribute to Open Source? What is your motivation?](https://dev.to/szabgab/why-do-you-contribute-to-open-source-what-is-your-motivation-2pdo)
-- [Day 1 &amp; 2 of My Java Full Stack Journey:Starting with HTML &amp; CSS Basis](https://dev.to/bhuvanasri/day-1-2-of-my-java-full-stack-journeystarting-with-html-css-basis-13a)
-- [Weekly #28-2025: Git Mastery, Algorithms, Why are there So many Databases, AI Agents &amp; Prompting](https://dev.to/weekly/weekly-28-2025-git-mastery-algorithms-why-are-there-so-many-databases-ai-agents-prompting-ohg)
+- [How to rate limit your Next.js APIs using Upstash](https://dev.to/charanx/how-to-rate-limit-your-nextjs-apis-using-upstash-3bm)
+- [Understanding Tech Debt](https://dev.to/clifford_otieno/understanding-tech-debt-5e2f)
+- [Why Standalone Components and Signals Are Game-Changers for Angular Developers](https://dev.to/karol_modelski/why-standalone-components-and-signals-are-game-changers-for-angular-developers-5228)
+- [Sunrise](https://dev.to/preetha_vaishnavi_2b82358/sunrise-59lc)
+- [Looking for a full-stack Django project idea that’s actually useful, and looks amazing in your portfolio?](https://dev.to/iamrealzippo/looking-for-a-full-stack-django-project-idea-thats-actually-useful-and-looks-amazing-in-your-1flk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
