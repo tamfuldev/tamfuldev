@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Who Is The Greatest Superman?](https://dev.to/gg_news/ign-who-is-the-greatest-superman-504l)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 16 - ‘Oppenheimer&#39; | The Big Picture](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-16-oppenheimer-the-big-picture-1n6k)
-- [Ringer Movies: ‘Jaws 2&#39; With Bill Simmons, Chris Ryan, and Sean Fennessey | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-jaws-2-with-bill-simmons-chris-ryan-and-sean-fennessey-the-rewatchables-2p7f)
-- [Ringer Movies: ‘Superman&#39; Is Here to Save the Day. Are We Saved? | The Big Picture](https://dev.to/popcorn_movies/ringer-movies-superman-is-here-to-save-the-day-are-we-saved-the-big-picture-nc1)
-- [CinemaSins: Everything Wrong With Superman IV: The Quest for Peace in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-superman-iv-the-quest-for-peace-in-24-minutes-or-less-2c31)
+- [New Devs on Your Project? Here’s How to Onboard Them Without Losing Your Mind](https://dev.to/abubakersiddique771/new-devs-on-your-project-heres-how-to-onboard-them-without-losing-your-mind-fh4)
+- [Visualize Data with QuickSight: Turn Raw Data into Stunning Visuals [Part 4]](https://dev.to/suvrajeet/visualize-data-with-quicksight-turn-raw-data-into-stunning-visuals-part-4-1go8)
+- [A Plug and Play Auth API](https://dev.to/thesbd/a-plug-and-play-auth-api-59bi)
+- [Escalabilidade DE ZERO A MILHÕES DE USUÁRIOS](https://dev.to/fumagallilaura/escalabilidade-de-zero-a-milhoes-de-usuarios-452d)
+- [🔹 Peek: A Fast, Colorful, Tree-Based ls Alternative Built in Rust](https://dev.to/tikrack_0b5ca7f793d07d3db/peek-a-fast-colorful-tree-based-ls-alternative-built-in-rust-1pal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
