@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy of Application from S3 Bucket Using AWS Amplify](https://dev.to/aws-builders/deploy-of-application-from-s3-bucket-using-aws-amplify-bpf)
-- [How Jekyll almost killed our vitepress docs](https://dev.to/raghavyuva/how-jkyll-almost-killed-our-vitepress-docs-3ph8)
-- [Help me fix the error code](https://dev.to/huy_nguyn_95e81095b82a7b/help-me-fix-the-error-code-2cp9)
-- [🎨 I Created My First VS Code Theme, Introducing VoidCore](https://dev.to/pranav89624/i-created-my-first-vs-code-theme-introducing-voidcore-1koa)
-- [🎨 I Created My First VS Code Theme, Introducing VoidCore](https://dev.to/pranav89624/i-created-my-first-vs-code-theme-introducing-voidcore-5fam)
+- [The Importance of Coding in the Human World](https://dev.to/david_786/the-importance-of-coding-in-the-human-world-1im0)
+- [Dark Web Scraping Using AI : Tools, Techniques, and Challenges](https://dev.to/medamyyne/dark-web-scraping-using-ai-tools-techniques-and-challenges-48c0)
+- [How I Blog with Bots &lpar;But You Can Still Blame Me&rpar; 😅](https://dev.to/anchildress1/how-i-blog-with-bots-but-you-can-still-blame-me-2861)
+- [Hey all, it&#39;s my first blog. Please give it a read and let me know what enhancements should be added for my next blogs. Hope you like it :&rpar;](https://dev.to/srushti/hey-all-its-my-first-blog-please-give-it-a-read-and-let-me-know-what-enhancements-should-be-6g8)
+- [Understanding PostgreSQL crosstab](https://dev.to/altesack/understanding-postgresql-crosstab-2j89)
 <!-- BLOG-POST-LIST:END -->
 
 ---
