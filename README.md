@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Linux cheat sheet for day-to-day actions...!!!](https://dev.to/shiva_beepeta/linux-cheat-sheet-for-day-to-day-actions-5507)
-- [CodeCrate—A Snippet Manager Built with Next.js and MongoDB](https://dev.to/duraidmustafa/codecrate-a-snippet-manager-built-with-nextjs-and-mongodb-3k9f)
-- [Leet Code Problem Solutions](https://dev.to/harshpdev/leet-code-problem-solutions-3gi9)
-- [Unleashing the Power of Machine Learning Models: A Guide to Model Deployment](https://dev.to/vjnvisakh/unleashing-the-power-of-machine-learning-models-a-guide-to-model-deployment-2a85)
-- [Looking for Hackathon Squad](https://dev.to/imrancodes/looking-for-hackathon-squad-50cn)
+- [The Gamification of Truth in Digital Spaces](https://dev.to/rawveg/the-gamification-of-truth-in-digital-spaces-55b9)
+- [🚀 Introducing CodeWhiz: Your AI-Powered Code Commenting Sidekick for VS Code 🧠✨](https://dev.to/puneetkumar2010/introducing-codewhiz-your-ai-powered-code-commenting-sidekick-for-vs-code-1nhc)
+- [How to create a simple waitlist form in Next.js using Supabase to collect responses](https://dev.to/charanx/how-to-create-a-simple-waitlist-form-in-nextjs-using-supabase-to-collect-responses-4dpe)
+- [How to rate limit your Next.js APIs using Upstash](https://dev.to/charanx/how-to-rate-limit-your-nextjs-apis-using-upstash-1d82)
+- [Coding Interviews was HARD, until I learned these Patterns](https://dev.to/somadevtoo/coding-interviews-was-hard-until-i-learned-these-patterns-2ji7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
