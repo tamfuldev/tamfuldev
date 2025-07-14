@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dataverse Row Level Security](https://dev.to/wyattdave/dataverse-row-level-security-54if)
-- [Build Visual Workflows with n8n and Automate Everything](https://dev.to/dilumdarshana/build-visual-workflows-with-n8n-and-automate-everything-2hk3)
-- [[Boost]](https://dev.to/srushti/-1aem)
-- [💰 From Side Project to Revenue: GMB Booking Monetization Journey](https://dev.to/webiatic/from-side-project-to-revenue-gmb-booking-monetization-journey-5267)
-- [Fixing “The file is too large to render in Typora” by Increasing the File Size Limit](https://dev.to/l1u7/fixing-the-file-is-too-large-to-render-in-typora-by-increasing-the-file-size-limit-hnc)
+- [# 🎙️ Building Voice Agents: The Revolutionary Future of Customer Support is Here!](https://dev.to/pradipbhor/-building-voice-agents-the-revolutionary-future-of-customer-support-is-here-1pe)
+- [Quark’s Outlines: Python Numbers](https://dev.to/mike-vincent/quarks-outlines-python-numbers-g6c)
+- [Manage user cookie consent with Google Tag Manager: a step-by-step guide](https://dev.to/u11d/manage-user-cookie-consent-with-google-tag-manager-a-step-by-step-guide-313e)
+- [Manage user cookie consent with Google Tag Manager: Adapting to CookieConsent v3](https://dev.to/u11d/manage-user-cookie-consent-with-google-tag-manager-adapting-to-cookieconsent-v3-2pl)
+- [SQL CASE Statement Explained with Real-World Examples](https://dev.to/dbvismarketing/sql-case-statement-explained-with-real-world-examples-1pid)
 <!-- BLOG-POST-LIST:END -->
 
 ---
