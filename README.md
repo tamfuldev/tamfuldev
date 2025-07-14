@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Series: Learn Docker from Scratch](https://dev.to/pooja_bhavani/docker-series-learn-docker-from-scratch-57ad)
-- [How to Get Real IPs Through FRP with SafeLine WAF](https://dev.to/sharon_42e16b8da44dabde6d/how-to-get-real-ips-through-frp-with-safeline-waf-hih)
-- [Asparagos vs Potato Bugs: Can He Detect the Cycle in O&lpar;1&rpar; Space?](https://dev.to/asparagos/asparagos-vs-potato-bugs-can-he-detect-the-cycle-in-o1-space-1dll)
-- [Seamlessly integrate strongly-typed primitives into your Umbraco apis](https://dev.to/d_inventor/seamlessly-integrate-strongly-typed-primitives-into-your-umbraco-apis-4jeb)
-- [Web Font Performance Checklist](https://dev.to/jacobandrewsky/web-font-performance-checklist-12i6)
+- [Secure by design !!!](https://dev.to/balagmadhu/secure-by-design--2an8)
+- [Modern CSS – Container Queries and :has&lpar;&rpar; in Action](https://dev.to/letanure/modern-css-container-queries-and-has-in-action-49cp)
+- [Cara pembayaran di ADAKAMI](https://dev.to/alo_alo_b5542eda750fd7968/cara-pembayaran-di-adakami-1937)
+- [Audience Engagement in Webinars: Why Real-Time Interaction Matters](https://dev.to/jack_davis_72eff1ff3e4afd/audience-engagement-in-webinars-why-real-time-interaction-matters-1g7f)
+- [Low-Code and No-Code – Threat or Boon for Developers?](https://dev.to/letanure/low-code-and-no-code-threat-or-boon-for-developers-3ke8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
