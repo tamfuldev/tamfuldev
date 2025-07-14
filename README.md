@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Smart Day‑Starter: The Ultimate Office Dashboard](https://dev.to/axrisi/smart-day-starter-the-ultimate-office-dashboard-1fof)
+- [How I Built a Full Stack AI Chatbot Using GPT, React, and .NET 10 in a Weekend](https://dev.to/nikhilwagh/how-i-built-a-full-stack-ai-chatbot-using-gpt-react-and-net-10-in-a-weekend-4856)
+- [How to Choose the Best AI Development Company for Your Business](https://dev.to/devarticles/how-to-choose-the-best-ai-development-company-for-your-business-2692)
 - [Axero Frontend Challenge: Workplace Moodboard – CSS Art Edition](https://dev.to/axrisi/axero-frontend-challenge-workplace-moodboard-css-art-edition-4800)
 - [Data Culture in the Tech Era](https://dev.to/julsr_mx/data-culture-in-the-tech-era-54l5)
-- [Filtering Out Rows Using LEFT JOIN: A Clean Alternative to NOT IN](https://dev.to/drorata/filtering-out-rows-using-left-join-a-clean-alternative-to-not-in-2lk8)
-- [Kicking off another week featuring Excalidraw!](https://dev.to/riyanapatel/kicking-off-another-week-featuring-excalidraw-45fh)
-- [Reducing Risk, Fueling Growth: A Government-Backed Credit Scheme MSMEs Should Know About](https://dev.to/gov01/reducing-risk-fueling-growth-a-government-backed-credit-scheme-msmes-should-know-about-d2k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
