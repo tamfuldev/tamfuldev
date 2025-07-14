@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [# 🎙️ Building Voice Agents: The Revolutionary Future of Customer Support is Here!](https://dev.to/pradipbhor/-building-voice-agents-the-revolutionary-future-of-customer-support-is-here-1pe)
-- [Quark’s Outlines: Python Numbers](https://dev.to/mike-vincent/quarks-outlines-python-numbers-g6c)
-- [Manage user cookie consent with Google Tag Manager: a step-by-step guide](https://dev.to/u11d/manage-user-cookie-consent-with-google-tag-manager-a-step-by-step-guide-313e)
-- [Manage user cookie consent with Google Tag Manager: Adapting to CookieConsent v3](https://dev.to/u11d/manage-user-cookie-consent-with-google-tag-manager-adapting-to-cookieconsent-v3-2pl)
-- [SQL CASE Statement Explained with Real-World Examples](https://dev.to/dbvismarketing/sql-case-statement-explained-with-real-world-examples-1pid)
+- [From side project idea to Hacker News front page: A 7,112 user retrospective](https://dev.to/skeptrune/from-side-project-idea-to-hacker-news-front-page-a-7112-user-retrospective-2p3i)
+- [🚀 Is Mojo Really 1,000,000x Faster Than Python3?](https://dev.to/hmzas/is-mojo-really-1000000x-faster-than-python3-5bnc)
+- [Why you should stick to one Code editor](https://dev.to/ezek-iel/why-you-should-stick-to-one-code-editor-2283)
+- [Interesting read!! ⭐](https://dev.to/zhravan/interesting-read-8bp)
+- [Scaling and Monetizing Amazon through Experimentation](https://dev.to/arjun_mullick_e734b4da656/scaling-and-monetizing-amazon-through-experimentation-15il)
 <!-- BLOG-POST-LIST:END -->
 
 ---
