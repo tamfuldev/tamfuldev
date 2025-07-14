@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [‘Murderbot&#39; Lands Season 2 Renewal at Apple TV+](https://dev.to/popcorn_tv/murderbot-lands-season-2-renewal-at-apple-tv-1eo2)
-- [‘Scrubs&#39; Reboot Scores ABC Series Order With Donald Faison &amp;amp; Sarah Chalke Joining Zach Braff](https://dev.to/popcorn_tv/scrubs-reboot-scores-abc-series-order-with-donald-faison-amp-sarah-chalke-joining-zach-braff-26e4)
-- [Andy Samberg Fondly Remembers “Deeply Moral And Kind” Andre Braugher &amp;amp; Time On ‘Brooklyn Nine-Nine&#39;](https://dev.to/popcorn_tv/andy-samberg-fondly-remembers-deeply-moral-and-kind-andre-braugher-amp-time-on-brooklyn-1ck0)
-- [Krafton addresses leadership changes at Unknown Worlds, former executives file lawsuit against publisher](https://dev.to/gg_news/krafton-addresses-leadership-changes-at-unknown-worlds-former-executives-file-lawsuit-against-4i1i)
-- [Killing Floor 3 PC System Requirements plus a SSD Is Mandatory](https://dev.to/gg_news/killing-floor-3-pc-system-requirements-plus-a-ssd-is-mandatory-47jd)
+- [Meet Kiro!](https://dev.to/aspittel/meet-kiro-4m0o)
+- [Implementasi Autoscaling VM di Azure](https://dev.to/bisacloud/implementasi-autoscaling-vm-di-azure-3kc1)
+- [Build a Real-Time Chat App with WebSockets](https://dev.to/gingermuffn/build-a-real-time-chat-app-with-websockets-1om8)
+- [Got Obsessed with AI Flower Backdrops — Then Prompt Chaos Hit Me](https://dev.to/junxiao_mai_6ebd738502862/got-obsessed-with-ai-flower-backdrops-then-prompt-chaos-hit-me-45go)
+- [From Disruptions to Opportunities: Failing and Emerging Businesses Under Climate-Induced Droughts](https://dev.to/mimran/from-disruptions-to-opportunities-failing-and-emerging-businesses-under-climate-induced-droughts-5bcg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
