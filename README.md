@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Cloud Native ☁️](https://dev.to/riteshkokam/introduction-to-cloud-native-4i82)
-- [Time Data Series: Written In Our Stars](https://dev.to/adatole/time-data-series-written-in-our-stars-2f6d)
-- [When Machines Meet Meaning A Look at SEO’s Evolving Role](https://dev.to/aaliyah_connolly_e7a40e85/when-machines-meet-meaning-a-look-at-seos-evolving-role-32og)
-- [Building a Dumb Sensor Simulator in C &lpar;That Taught Me How I Took Python For Granted&rpar;](https://dev.to/asimbuilds/building-a-dumb-sensor-simulator-in-c-that-taught-me-how-i-took-python-for-granted-49f5)
-- [Easy logging in your small ruby scripts/apps](https://dev.to/oinak/easy-logging-in-your-small-ruby-scriptsapps-4ceg)
+- [‘Murderbot&#39; Lands Season 2 Renewal at Apple TV+](https://dev.to/popcorn_tv/murderbot-lands-season-2-renewal-at-apple-tv-1eo2)
+- [‘Scrubs&#39; Reboot Scores ABC Series Order With Donald Faison &amp;amp; Sarah Chalke Joining Zach Braff](https://dev.to/popcorn_tv/scrubs-reboot-scores-abc-series-order-with-donald-faison-amp-sarah-chalke-joining-zach-braff-26e4)
+- [Andy Samberg Fondly Remembers “Deeply Moral And Kind” Andre Braugher &amp;amp; Time On ‘Brooklyn Nine-Nine&#39;](https://dev.to/popcorn_tv/andy-samberg-fondly-remembers-deeply-moral-and-kind-andre-braugher-amp-time-on-brooklyn-1ck0)
+- [Krafton addresses leadership changes at Unknown Worlds, former executives file lawsuit against publisher](https://dev.to/gg_news/krafton-addresses-leadership-changes-at-unknown-worlds-former-executives-file-lawsuit-against-4i1i)
+- [Killing Floor 3 PC System Requirements plus a SSD Is Mandatory](https://dev.to/gg_news/killing-floor-3-pc-system-requirements-plus-a-ssd-is-mandatory-47jd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
