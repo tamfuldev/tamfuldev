@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Secure by design !!!](https://dev.to/balagmadhu/secure-by-design--2an8)
-- [Modern CSS – Container Queries and :has&lpar;&rpar; in Action](https://dev.to/letanure/modern-css-container-queries-and-has-in-action-49cp)
-- [Cara pembayaran di ADAKAMI](https://dev.to/alo_alo_b5542eda750fd7968/cara-pembayaran-di-adakami-1937)
-- [Audience Engagement in Webinars: Why Real-Time Interaction Matters](https://dev.to/jack_davis_72eff1ff3e4afd/audience-engagement-in-webinars-why-real-time-interaction-matters-1g7f)
-- [Low-Code and No-Code – Threat or Boon for Developers?](https://dev.to/letanure/low-code-and-no-code-threat-or-boon-for-developers-3ke8)
+- [Mastering JavaScript Functions &amp; DOM Manipulation: A Beginner-Friendly Deep Dive](https://dev.to/dumebii/mastering-javascript-functions-dom-manipulation-a-beginner-friendly-deep-dive-2935)
+- [15 Tiny Python Scripts to Supercharge Your Social Media Workflow](https://dev.to/xinjie_zou_d67d2805538130/15-tiny-python-scripts-to-supercharge-your-social-media-workflow-4l2a)
+- [Tailwind CSS – Utility-First CSS in Action](https://dev.to/letanure/tailwind-css-utility-first-css-in-action-4c0a)
+- [The Transformative Role of AI Agents in Business Automation by 2025](https://dev.to/paras_test/the-transformative-role-of-ai-agents-in-business-automation-by-2025-5c2k)
+- [Web Accessibility Checklist – Building Inclusive Web Apps](https://dev.to/letanure/web-accessibility-checklist-building-inclusive-web-apps-l1l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
