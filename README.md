@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering JavaScript Functions &amp; DOM Manipulation: A Beginner-Friendly Deep Dive](https://dev.to/dumebii/mastering-javascript-functions-dom-manipulation-a-beginner-friendly-deep-dive-2935)
-- [15 Tiny Python Scripts to Supercharge Your Social Media Workflow](https://dev.to/xinjie_zou_d67d2805538130/15-tiny-python-scripts-to-supercharge-your-social-media-workflow-4l2a)
-- [Tailwind CSS – Utility-First CSS in Action](https://dev.to/letanure/tailwind-css-utility-first-css-in-action-4c0a)
-- [The Transformative Role of AI Agents in Business Automation by 2025](https://dev.to/paras_test/the-transformative-role-of-ai-agents-in-business-automation-by-2025-5c2k)
-- [Web Accessibility Checklist – Building Inclusive Web Apps](https://dev.to/letanure/web-accessibility-checklist-building-inclusive-web-apps-l1l)
+- [Build Node.js app in Replit &amp; use s3 as static web hosting serving with CDN](https://dev.to/mizaniftee/build-nodejs-app-in-replit-use-s3-as-static-web-hosting-serving-with-cdn-4n83)
+- [Frago – A Django App for Secure, Resumable, Parallel Chunked Uploads](https://dev.to/albin_mathew_2e639a421ec4/frago-a-django-app-for-secure-resumable-parallel-chunked-uploads-213k)
+- [Understanding Code Vulnerabilities: Real-World Examples and How They’re Exploited](https://dev.to/ozee/understanding-code-vulnerabilities-real-world-examples-and-how-theyre-exploited-e6a)
+- [How to Run Automated E2E Tests with Stormkit and Browserless](https://dev.to/svedova/how-to-run-automated-e2e-tests-with-stormkit-and-browserless-2ne7)
+- [How to Remotely Access Your Raspberry Pi Server Outside Your Network with Tunnelmole](https://dev.to/robbiecahill/how-to-remotely-access-your-raspberry-pi-server-outside-your-network-with-tunnelmole-15df)
 <!-- BLOG-POST-LIST:END -->
 
 ---
