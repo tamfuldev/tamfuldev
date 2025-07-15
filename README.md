@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Install Playwright MCP Server in VS Code](https://dev.to/debs_obrien/install-playwright-mcp-server-in-vs-code-4o91)
-- [What Is a Trie? The Data Structure Behind Autocomplete](https://dev.to/onedev/what-is-a-trie-the-data-structure-behind-autocomplete-i99)
-- [Open-Source AI&#39;s Great Accessibility Illusion](https://dev.to/rawveg/open-source-ais-great-accessibility-illusion-4p8h)
-- [How to Build Your Own AI Mascot in Golang.](https://dev.to/sfundomhlungu/how-to-build-your-own-ai-mascot-in-golang-38m0)
-- [Modern Server-Side Event Implementation&lpar;7573&rpar;](https://dev.to/member_466da0bd/modern-server-side-event-implementation7573-25jk)
+- [What’s New in AWS Free Tier &lpar;2025&rpar;](https://dev.to/aws-builders/whats-new-in-aws-free-tier-2025-2ba5)
+- [📱 Graduation Project: Smart Financial Assistant](https://dev.to/haya/graduation-project-smart-financial-assistant-51i1)
+- [💘 How I Built a Global Dating Platform with React &amp; Firebase in 2 Weeks](https://dev.to/senzy01/how-i-built-a-global-dating-platform-with-react-firebase-in-2-weeks-aj)
+- [No Laying Up Podcast: 1039: 2025 Open Championship Preview](https://dev.to/youtube_golf/no-laying-up-podcast-1039-2025-open-championship-preview-5blb)
+- [No Laying Up Podcast: Seamsters Union: All-Star Break | Trap Draw, Ep 350](https://dev.to/youtube_golf/no-laying-up-podcast-seamsters-union-all-star-break-trap-draw-ep-350-afl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
