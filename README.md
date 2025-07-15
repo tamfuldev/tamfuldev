@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Multi-Modal Content Processing with Strands Agent and just a few lines of code](https://dev.to/aws/multi-modal-content-processing-with-strands-agent-and-just-a-few-lines-of-code-4hn4)
-- [🚀 Unlocking G Suite SSO in Your Chrome Extension: The Definitive Manifest V3 Guide](https://dev.to/jaymalli_programmer/unlocking-g-suite-sso-in-your-chrome-extension-the-definitive-manifest-v3-guide-2ghi)
-- [180 Days of Frontend Development Challenge: Day 33 CSS Grid Basics](https://dev.to/code_2/180-days-of-frontend-development-challenge-day-33-css-grid-basics-4d95)
-- [Memory Safety Meets Extreme Performance in Web Servers&lpar;2158&rpar;](https://dev.to/member_466da0bd/memory-safety-meets-extreme-performance-in-web-servers2158-186d)
-- [I Love You &lpar;mo.js animation&rpar;](https://dev.to/resego_gaobepe_11d47861ff/i-love-you-mojs-animation-196h)
+- [Building RoamSense: AI-powered accommodation review analysis for Romania](https://dev.to/yowise/building-roamsense-ai-powered-accommodation-review-analysis-for-romania-3n6e)
+- [New Choice for Cross-Platform Web Service Development&lpar;3432&rpar;](https://dev.to/member_466da0bd/new-choice-for-cross-platform-web-service-development3432-97l)
+- [🛠️ Build Your First Chrome Extension &lpar;with a React Bonus&rpar;](https://dev.to/jaymalli_programmer/build-your-first-chrome-extension-with-a-react-bonus-2af9)
+- [Understanding Kubernetes in Simple English: What would Kubernetes look like if it was a global restaurant franchise?](https://dev.to/hstiwana/understanding-kubernetes-in-simple-english-what-would-kubernetes-look-like-if-it-was-a-global-1bal)
+- [Rust Implementation for High Concurrency Processing&lpar;8138&rpar;](https://dev.to/member_02ee4941/rust-implementation-for-high-concurrency-processing8138-hal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
