@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 Part 10 — Why You Should Learn Ruby on Rails in 2025](https://dev.to/hmzas/part-10-why-you-should-learn-ruby-on-rails-in-2025-53l8)
-- [🚀 Part 9 — Deployment: Taking Your Rails App Live](https://dev.to/hmzas/part-9-deployment-taking-your-rails-app-live-1b2c)
-- [🧪 Part 8 — Testing in Rails: Built-in and Battle-Tested](https://dev.to/hmzas/part-8-testing-in-rails-built-in-and-battle-tested-33m7)
-- [🔐 Part 7 — Authentication &amp; Authorization in Rails](https://dev.to/hmzas/part-7-authentication-authorization-in-rails-5hm0)
-- [🛣️ Part 6 — Routing in Rails: Connect URLs to Actions](https://dev.to/hmzas/part-6-routing-in-rails-connect-urls-to-actions-45fb)
+- [EP01: Getting Started with Dockerfile](https://dev.to/mirrorsan/ep01-getting-started-with-dockerfile-2jfj)
+- [Blockchain](https://dev.to/newcoder789/blockchain-16nl)
+- [How to Calculate Total Cost of Ownership &lpar;TCO&rpar;?](https://dev.to/teresa_tran/how-to-calculate-total-cost-of-ownership-tco-d6)
+- [Why I Ditched the &#39;Move Fast and Break Things&#39; Mentality for &#39;Move Fast and Save Users Money&#39;.](https://dev.to/ybeybeybe/why-i-ditched-the-move-fast-and-break-things-mentality-for-move-fast-and-save-users-money-32ic)
+- [PL SQL Tutorial: A Complete Guide for Beginners](https://dev.to/suraj_kumar_fb57ae0928df2/pl-sql-tutorial-a-complete-guide-for-beginners-2iib)
 <!-- BLOG-POST-LIST:END -->
 
 ---
