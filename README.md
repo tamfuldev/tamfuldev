@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What’s New in AWS Free Tier &lpar;2025&rpar;](https://dev.to/aws-builders/whats-new-in-aws-free-tier-2025-2ba5)
-- [📱 Graduation Project: Smart Financial Assistant](https://dev.to/haya/graduation-project-smart-financial-assistant-51i1)
-- [💘 How I Built a Global Dating Platform with React &amp; Firebase in 2 Weeks](https://dev.to/senzy01/how-i-built-a-global-dating-platform-with-react-firebase-in-2-weeks-aj)
-- [No Laying Up Podcast: 1039: 2025 Open Championship Preview](https://dev.to/youtube_golf/no-laying-up-podcast-1039-2025-open-championship-preview-5blb)
-- [No Laying Up Podcast: Seamsters Union: All-Star Break | Trap Draw, Ep 350](https://dev.to/youtube_golf/no-laying-up-podcast-seamsters-union-all-star-break-trap-draw-ep-350-afl)
+- [[Boost]](https://dev.to/hadil/-3jn4)
+- [Building Full-Stack Angular Applications with Analog](https://dev.to/pmbanugo/building-full-stack-angular-applications-with-analog-863)
+- [[AWS] We tried out the popular Kiro features, including applying rule files and implementing from an architecture diagram [KIRO]](https://dev.to/aws-builders/aws-we-tried-out-the-popular-kiro-features-including-applying-rule-files-and-implementing-from-54di)
+- [📢 Boosting Revenue with AI: 3 Smart Web Integration Strategies](https://dev.to/capjud95/boosting-revenue-with-ai-3-smart-web-integration-strategies-51im)
+- [📦 repository_backup: A DevOps-Friendly CLI for Safe, Modular Backups](https://dev.to/raymonepping/repositorybackup-a-devops-friendly-cli-for-safe-modular-backups-121c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
