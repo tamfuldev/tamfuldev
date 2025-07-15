@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building RoamSense: AI-powered accommodation review analysis for Romania](https://dev.to/yowise/building-roamsense-ai-powered-accommodation-review-analysis-for-romania-3n6e)
-- [New Choice for Cross-Platform Web Service Development&lpar;3432&rpar;](https://dev.to/member_466da0bd/new-choice-for-cross-platform-web-service-development3432-97l)
-- [🛠️ Build Your First Chrome Extension &lpar;with a React Bonus&rpar;](https://dev.to/jaymalli_programmer/build-your-first-chrome-extension-with-a-react-bonus-2af9)
-- [Understanding Kubernetes in Simple English: What would Kubernetes look like if it was a global restaurant franchise?](https://dev.to/hstiwana/understanding-kubernetes-in-simple-english-what-would-kubernetes-look-like-if-it-was-a-global-1bal)
-- [Rust Implementation for High Concurrency Processing&lpar;8138&rpar;](https://dev.to/member_02ee4941/rust-implementation-for-high-concurrency-processing8138-hal)
+- [Bidirectional Communication Patterns in Modern Web Apps&lpar;9415&rpar;](https://dev.to/member_466da0bd/bidirectional-communication-patterns-in-modern-web-apps9415-41fe)
+- [Server-Side Events Implementation for Real-Time Applications&lpar;9190&rpar;](https://dev.to/member_466da0bd/server-side-events-implementation-for-real-time-applications9190-237i)
+- [🦊 Lynx Keymap: Boost Your Productivity in VSCode... with Custom Shortcuts — &lpar; AI &rpar;](https://dev.to/bastndev/lynx-keymap-boost-your-productivity-in-vscode-with-custom-shortcuts-ai--3dj)
+- [Application of Async Programming in Web Development&lpar;7115&rpar;](https://dev.to/member_02ee4941/application-of-async-programming-in-web-development7115-ekm)
+- [From 30+ API Parameters to Natural Language: ZapCap MCP Server](https://dev.to/bogdan01m/from-30-api-parameters-to-natural-language-zapcap-mcp-server-3pf1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
