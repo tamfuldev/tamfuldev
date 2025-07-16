@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [React &amp; TypeScript: 10 patterns for writing better code](https://dev.to/logrocket/react-typescript-10-patterns-for-writing-better-code-224l)
-- [Solvaldr: The Sun Tyrant – Devlog &amp; Concept Showcase](https://dev.to/hejhdiss/solvaldr-the-sun-tyrant-devlog-concept-showcase-1860)
-- [Best practice for building an e-commerce system with React Native, Django Admin, and FastAPI](https://dev.to/axioray/best-practice-for-building-an-e-commerce-system-with-react-native-django-admin-and-fastapi-3l2g)
-- [Click to See How I Made PWAs in Next.js Stupidly Simple](https://dev.to/devfamdk/click-to-see-how-i-made-pwas-in-nextjs-stupidly-simple-5hji)
-- [Web Developer Travis McCracken on Rust vs Go in Production APIs](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-rust-vs-go-in-production-apis-1ifj)
+- [Why 80% of Tutorials Are Lying to You &lpar;And What I Do Instead&rpar; 🤯](https://dev.to/0x7b-shop/why-80-of-tutorials-are-lying-to-you-and-what-i-do-instead-4o3o)
+- [10 Silly Mistakes I Still Make After 5 Years of Coding 🙈](https://dev.to/0x7b-shop/10-silly-mistakes-i-still-make-after-5-years-of-coding-j2p)
+- [Refactoring Repetitive Model Validation in ASP.NET Core](https://dev.to/seanmdrew/refactoring-repetitive-model-validation-in-aspnet-core-2hb7)
+- [Beyond the Hype: What AI Agents Really Mean for SaaS Companies in 2025](https://dev.to/tarunsinghofficial/beyond-the-hype-what-ai-agents-really-mean-for-saas-companies-in-2025-4c2l)
+- [A História do Ruby](https://dev.to/henriquesilvadev/a-historia-do-ruby-ihc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
