@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Experience Building a Freelance Platform from Scratch](https://dev.to/rmohitjoe/my-experience-building-a-freelance-platform-from-scratch-4214)
-- [I Created a Website That Helps You Easily Generate ChatGPT Prompts for Blender Python API Code](https://dev.to/uni928/i-created-a-website-that-helps-you-easily-generate-chatgpt-prompts-for-blender-python-api-code-1f3h)
-- [Memory Safety Meets Extreme Performance in Web Servers&lpar;5085&rpar;](https://dev.to/member_466da0bd/memory-safety-meets-extreme-performance-in-web-servers5085-27kn)
-- [Untitled](https://dev.to/renaldi_saliko_65ec94b39d/untitled-10eo)
-- [Bidirectional Communication Patterns in Modern Web Apps&lpar;8320&rpar;](https://dev.to/member_02ee4941/bidirectional-communication-patterns-in-modern-web-apps8320-3mpa)
+- [From Zero to Python: A Beginner&#39;s Guide to Starting Your Journey](https://dev.to/joy_nyambura_0973be467329/from-zero-to-python-a-beginners-guide-to-starting-your-journey-ljo)
+- [Revolutionary Performance Breakthrough in Modern Web Development&lpar;1354&rpar;](https://dev.to/member_466da0bd/revolutionary-performance-breakthrough-in-modern-web-development1354-37bh)
+- [Gemini 2.5 API Missing Manual: How to get started &lpar;or upgrade from Gemini 1.0/1.5&rpar;](https://dev.to/wescpy/gemini-25-api-missing-manual-how-to-get-started-or-upgrade-from-gemini-1015-1el6)
+- [Latency Optimization Secrets for Millisecond Response Times&lpar;7998&rpar;](https://dev.to/member_02ee4941/latency-optimization-secrets-for-millisecond-response-times7998-3kj4)
+- [Application of Async Programming in Web Development&lpar;8992&rpar;](https://dev.to/member_466da0bd/application-of-async-programming-in-web-development8992-1fjm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
