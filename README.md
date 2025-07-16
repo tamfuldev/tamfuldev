@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why 80% of Tutorials Are Lying to You &lpar;And What I Do Instead&rpar; 🤯](https://dev.to/0x7b-shop/why-80-of-tutorials-are-lying-to-you-and-what-i-do-instead-4o3o)
-- [10 Silly Mistakes I Still Make After 5 Years of Coding 🙈](https://dev.to/0x7b-shop/10-silly-mistakes-i-still-make-after-5-years-of-coding-j2p)
-- [Refactoring Repetitive Model Validation in ASP.NET Core](https://dev.to/seanmdrew/refactoring-repetitive-model-validation-in-aspnet-core-2hb7)
-- [Beyond the Hype: What AI Agents Really Mean for SaaS Companies in 2025](https://dev.to/tarunsinghofficial/beyond-the-hype-what-ai-agents-really-mean-for-saas-companies-in-2025-4c2l)
-- [A História do Ruby](https://dev.to/henriquesilvadev/a-historia-do-ruby-ihc)
+- [10 Powerful Reasons Why IoT is Shaping the Future of Mobile App Development](https://dev.to/elena_martin_174c6c4aef6a/10-powerful-reasons-why-iot-is-shaping-the-future-of-mobile-app-development-4nji)
+- [Grok 4 vs. Claude Opus 4 vs. Gemini 2.5 Pro Coding Comparison 🚀](https://dev.to/composiodev/grok-4-vs-claude-opus-4-vs-gemini-25-pro-coding-comparison-35ed)
+- [Migrating Classic LangChain Agents to LangGraph a How To](https://dev.to/austinbv/migrating-classic-langchain-agents-to-langgraph-a-how-to-nea)
+- [Solving the Enter Key Frustration in AI Chat: &quot;Chat-Key-Changer&quot; Chrome Extension](https://dev.to/deer-hunt/solving-the-enter-key-frustration-in-ai-chat-chat-key-changer-chrome-extension-1o2o)
+- [Golf.com: Shane Lowry&#39;s Epic Portrush Return | 2025 Open](https://dev.to/youtube_golf/golfcom-shane-lowrys-epic-portrush-return-2025-open-599l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
