@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Starting new Journey as A Backend Learner from &quot;July 18 &quot;](https://dev.to/bigyanlogs/starting-new-journey-as-a-backend-learner-from-july-18--5hm1)
-- [How AI Is Transforming Mental Wellbeing at Work](https://dev.to/coach-nova/how-ai-is-transforming-mental-wellbeing-at-work-3mei)
-- [AI Agents: The New Vanguard of Intelligent Computing](https://dev.to/mattylantz/ai-agents-the-new-vanguard-of-intelligent-computing-4loj)
-- [Unlocking Site Reliability Engineering Tools for DevOps Incident Management](https://dev.to/pauclaver_zsh/unlocking-site-reliability-engineering-tools-for-devops-incident-management-750)
-- [I’m excited to share some 🔥 updates in DevConnect](https://dev.to/code__mancer/im-excited-to-share-some-updates-in-devconnect-5h6o)
+- [On Scaling DevTools](https://dev.to/fmerian/on-scaling-devtools-3ffk)
+- [Ethereum’s Next Leap: Scaling Growth at a Tipping Point](https://dev.to/kaankaya/ethereums-next-leap-scaling-growth-at-a-tipping-point-lkc)
+- [🟥 Must Have Discord Role ! Drosera Network Hoodi](https://dev.to/izmers/must-have-discord-role-drosera-network-hoodi-5b0d)
+- [Step-by-Step Guide: How to Configure Secure Azure Storage with Encryption and Access Control](https://dev.to/subair09/step-by-step-guide-how-to-configure-secure-azure-storage-with-encryption-and-access-control-3p5k)
+- [New series or camp starting!](https://dev.to/aspxone-official/new-series-or-camp-starting-b6c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
