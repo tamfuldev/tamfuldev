@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Hype: Rediscovering Why Containers Won](https://dev.to/unfor19/beyond-the-hype-rediscovering-why-containers-won-3k4l)
-- [Cross-Platform Web Development Without Compromise&lpar;9311&rpar;](https://dev.to/member_a26aac70/cross-platform-web-development-without-compromise9311-183g)
-- [If Your UI Feels Weird, You Might Be Missing Visual Rhythm and Baselines](https://dev.to/dvjosefr/if-your-ui-feels-weird-you-might-be-missing-visual-rhythm-and-baselines-10me)
-- [How to collect data from the whole project and perform hot reloads in vite plugin?](https://dev.to/orthopole/how-to-collect-data-from-the-whole-project-and-perform-hot-reloads-in-vite-plugin-4jin)
-- [From 5.98 CGPA &amp; 20 Backlogs to Learning Web Development My Journey Begins](https://dev.to/kamesh_kothandapani_44236/from-598-cgpa-20-backlogs-to-learning-web-development-my-journey-begins-1b1h)
+- [Automate GitHub stats reporting with scheduled pipelines](https://dev.to/ravgeetdhillon/automate-github-stats-reporting-with-scheduled-pipelines-1jo3)
+- [Why Women in Tech isn&#39;t enough](https://dev.to/whitep4nth3r/why-women-in-tech-isnt-enough-2cah)
+- [Kiro or Amazon Q? How Amazon’s AI Strategy is Splitting for Devs and Ops](https://dev.to/alifar/kiro-or-amazon-q-how-amazons-ai-strategy-is-splitting-for-devs-and-ops-3f91)
+- [What are the key elements of a good Mission Statement?](https://dev.to/writegenic/what-are-the-key-elements-of-a-good-mission-statement-1f6d)
+- [Build A README-To-Comic Converter With Google AI Studio And Imagen](https://dev.to/professord/build-a-readme-to-comic-converter-with-google-ai-studio-and-imagen-cg7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
