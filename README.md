@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Built My Portfolio Website;&rpar;](https://dev.to/compteccharan/built-my-portfolio-website-jad)
-- [Install Docker with Ansible on Ubuntu &lpar;Official Repo + Docker Compose&rpar;](https://dev.to/lovestaco/install-docker-with-ansible-on-ubuntu-official-repo-docker-compose-578b)
-- [Dynamic Routing Systems for Scalable Web Applications&lpar;0412&rpar;](https://dev.to/member_a26aac70/dynamic-routing-systems-for-scalable-web-applications0412-2547)
-- [Day 37: When Your Body Rebels Against Medical Advice](https://dev.to/casperday11/day-37-when-your-body-rebels-against-medical-advice-4iib)
-- [How YouTube Helped Me Become a Web Developer &lpar;No Paid Courses, No Bootcamps&rpar;](https://dev.to/indravathi_botcha_286347f/how-youtube-helped-me-become-a-web-developer-no-paid-courses-no-bootcamps-266o)
+- [Unpacking Go Slices: 3 Common Gotchas You Need to Know](https://dev.to/mahdifardi/unpacking-go-slices-3-common-gotchas-you-need-to-know-mpa)
+- [📄 Architecture That Delivers Real Value — Not Just Diagrams](https://dev.to/tmorin/architecture-that-delivers-real-value-not-just-diagrams-3ldm)
+- [HomeWhisper: Beyond the Code – Building a Human-Centered Smart Home Experience](https://dev.to/aniruddhaadak/homewhisper-beyond-the-code-building-a-human-centered-smart-home-experience-4f5o)
+- [How to Explain Technical Concepts to Non-Technical Teams Without Losing Them](https://dev.to/kraizy_amy_a80dacf26d203d/how-to-explain-technical-concepts-to-non-technical-teams-without-losing-them-2j8a)
+- [Low-Level Design &lpar;LLD&rpar; :Interview Framework](https://dev.to/devcorner/low-level-design-lld-interview-framework-5b77)
 <!-- BLOG-POST-LIST:END -->
 
 ---
