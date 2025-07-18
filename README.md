@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [50+ Tips For Big Unity Games](https://dev.to/dumboprogrammer/50-tips-for-big-unity-games-1lpa)
-- [Automate Like a Pro: Flutter Meets n8n for Real-Time Hacker News Search + Auto-Posting](https://dev.to/shamnad_sherief/automate-like-a-pro-flutter-meets-n8n-for-real-time-hacker-news-search-auto-posting-1hk0)
-- [Modern Server-Side Event Implementation&lpar;8259&rpar;](https://dev.to/member_214bcde5/modern-server-side-event-implementation8259-1b1p)
-- [🧩 Why Less Is More: The Power of Soft Interactions in Web Game Development](https://dev.to/tarif_hossain_4ce2d31e35c/why-less-is-more-the-power-of-soft-interactions-in-web-game-development-4oah)
-- [Resource Management and Memory Efficiency in Web Servers&lpar;3594&rpar;](https://dev.to/member_aa44a2ae/resource-management-and-memory-efficiency-in-web-servers3594-4d3a)
+- [Elegant Middleware Architecture Implementation&lpar;6494&rpar;](https://dev.to/member_214bcde5/elegant-middleware-architecture-implementation6494-386)
+- [React notes](https://dev.to/himanimehra/react-notes-2mp9)
+- [Ultimate Optimization of Lightweight Server Architecture&lpar;3502&rpar;](https://dev.to/member_aa44a2ae/ultimate-optimization-of-lightweight-server-architecture3502-5gif)
+- [13 Principles of Information Architecture Every Web Designer Should Know✅](https://dev.to/margishpatel/13-principles-of-information-architecture-every-web-designer-should-know-4jd1)
+- [ncdu - NCurses Disk Usage](https://dev.to/mss/ncdu-ncurses-disk-usage-gg2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
