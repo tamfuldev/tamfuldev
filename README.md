@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How a Mandatory Accounting Software Became the Gateway to Ukraine’s NotPetya Cyberattack](https://dev.to/davidgomesr/how-a-mandatory-accounting-software-became-the-gateway-to-ukraines-notpetya-cyberattack-4bm0)
-- [Golf.com: Shane Lowry&#39;s Epic Portrush Return | 2025 Open](https://dev.to/youtube_golf/golfcom-shane-lowrys-epic-portrush-return-2025-open-4ak9)
-- [Golf.com: Rory McIlroy&#39;s Journey to Royal Portrush: A Hopeful Homecoming](https://dev.to/youtube_golf/golfcom-rory-mcilroys-journey-to-royal-portrush-a-hopeful-homecoming-4bbm)
-- [Rick Shiels Golf: THE HARDEST COURSE I&#39;ve played all year….MAYBE EVER!](https://dev.to/youtube_golf/rick-shiels-golf-the-hardest-course-ive-played-all-yearmaybe-ever-5e8m)
-- [How to Send and Receive RCS Suggested Replies with Node.js](https://dev.to/vonagedev/how-to-send-and-receive-rcs-suggested-replies-with-nodejs-1dhk)
+- [Project of the Week: Supabase](https://dev.to/pullflow/project-of-the-week-supabase-1mpm)
+- [Deadlines Aren’t Evil. They’re Information ⚡️](https://dev.to/cdownard/deadlines-arent-evil-theyre-information-1c1m)
+- [2163. Minimum Difference in Sums After Removal of Elements](https://dev.to/mdarifulhaque/2163-minimum-difference-in-sums-after-removal-of-elements-aa2)
+- [Not Everyone Gets Into FAANG — and That’s Okay](https://dev.to/algo_sync/not-everyone-gets-into-faang-and-thats-okay-40b7)
+- [🧹 Clean Your JavaScript Objects Like a Pro with clean-object-keys](https://dev.to/manukumar07/clean-your-javascript-objects-like-a-pro-with-clean-object-keys-4c4j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
