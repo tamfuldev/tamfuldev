@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Cross-Platform Web Development Without Compromise&lpar;1842&rpar;](https://dev.to/member_a26aac70/cross-platform-web-development-without-compromise1842-8i6)
-- [WebSocket Revolution in Real-Time Communication&lpar;9861&rpar;](https://dev.to/member_214bcde5/websocket-revolution-in-real-time-communication9861-1eng)
-- [Resource Management and Memory Efficiency in Web Servers&lpar;6936&rpar;](https://dev.to/member_aa44a2ae/resource-management-and-memory-efficiency-in-web-servers6936-2jbi)
-- [Does AI really help with Markdown writing?](https://dev.to/accioprocurement/does-ai-really-help-with-markdown-writing-2jcg)
-- [Elegant Middleware Architecture Implementation&lpar;9602&rpar;](https://dev.to/member_a26aac70/elegant-middleware-architecture-implementation9602-325f)
+- [Day 29/100: Dictionary and Set Comprehensions in Python](https://dev.to/therahul_gupta/day-29100-dictionary-and-set-comprehensions-in-python-3m9l)
+- [Code Smell 307 - Naive Time Assumptions](https://dev.to/mcsee/code-smell-307-naive-time-assumptions-42g8)
+- [Day 28/100: List Comprehensions in Python](https://dev.to/therahul_gupta/day-28100-list-comprehensions-in-python-1498)
+- [Gothic Lolita AI... okay, I&#39;m intrigued.](https://dev.to/benlin/gothic-lolita-ai-okay-im-intrigued-cmm)
+- [Send Excel Rows as Individual Emails Automatically](https://dev.to/sqlman/send-excel-rows-as-individual-emails-automatically-3595)
 <!-- BLOG-POST-LIST:END -->
 
 ---
