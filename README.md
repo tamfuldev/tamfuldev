@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Elegant Middleware Architecture Implementation&lpar;6494&rpar;](https://dev.to/member_214bcde5/elegant-middleware-architecture-implementation6494-386)
-- [React notes](https://dev.to/himanimehra/react-notes-2mp9)
-- [Ultimate Optimization of Lightweight Server Architecture&lpar;3502&rpar;](https://dev.to/member_aa44a2ae/ultimate-optimization-of-lightweight-server-architecture3502-5gif)
-- [13 Principles of Information Architecture Every Web Designer Should Know✅](https://dev.to/margishpatel/13-principles-of-information-architecture-every-web-designer-should-know-4jd1)
-- [ncdu - NCurses Disk Usage](https://dev.to/mss/ncdu-ncurses-disk-usage-gg2)
+- [Amazon Bedrock’s AgentCore: How It Powers the Next Generation of AI Agents](https://dev.to/alifar/amazon-bedrocks-agentcore-how-it-powers-the-next-generation-of-ai-agents-2ea0)
+- [9 JavaScript Function Types You Should Know as a Beginner](https://dev.to/devshefali/9-javascript-function-types-you-should-know-as-a-beginner-4pad)
+- [Images from the Road: How Digital Nomadism Changed My Approach to Image Optimization](https://dev.to/hardik_b2d8f0bca/images-from-the-road-how-digital-nomadism-changed-my-approach-to-image-optimization-hjl)
+- [Rust Async Web Framework Performance Breakthrough&lpar;1606&rpar;](https://dev.to/member_a26aac70/rust-async-web-framework-performance-breakthrough1606-3831)
+- [The Ship of Theseus in Your CDN: Philosophical Questions That Image Optimization Forces Us to Ask](https://dev.to/hardik_b2d8f0bca/the-ship-of-theseus-in-your-cdn-philosophical-questions-that-image-optimization-forces-us-to-ask-23k6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
