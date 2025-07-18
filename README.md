@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Resource Management and Memory Efficiency in Web Servers&lpar;3661&rpar;](https://dev.to/member_aa44a2ae/resource-management-and-memory-efficiency-in-web-servers3661-4f78)
-- [What&#39;s Your Go-To Stack for Personal Projects in 2025?](https://dev.to/devopsdaily/whats-your-go-to-stack-for-personal-projects-in-2025-3pg2)
-- [Why No One Will Be Using JavaScript in 5 Years](https://dev.to/abubakersiddique761/why-no-one-will-be-using-javascript-in-5-years-2pec)
-- [The One Programming Skill That&#39;ll Be Obsolete by 2026](https://dev.to/abubakersiddique761/the-one-programming-skill-thatll-be-obsolete-by-2026-5f58)
-- [Rust Implementation for High Concurrency Processing&lpar;4734&rpar;](https://dev.to/member_a26aac70/rust-implementation-for-high-concurrency-processing4734-1map)
+- [Storage: 10x Larger Uploads, 3x Cheaper Cached Egress, and 2x Egress Quota](https://dev.to/supabase/storage-10x-larger-uploads-3x-cheaper-cached-egress-and-2x-egress-quota-46ed)
+- [Dump and Sync PostgreSQL Schema with Python &lpar;No Data, No BS&rpar;](https://dev.to/lovestaco/dump-and-sync-postgresql-schema-with-python-no-data-no-bs-3c1c)
+- [viboxai: After the Hack - WLH Challenge](https://dev.to/ariondev/viboxai-after-the-hack-wlh-challenge-2jk7)
+- [Memory Safety Meets Extreme Performance in Web Servers&lpar;3662&rpar;](https://dev.to/member_a26aac70/memory-safety-meets-extreme-performance-in-web-servers3662-2fca)
+- [My Desk, My Journey: CSS Art Inspired by My Remote DevOps Workspace](https://dev.to/pravesh_sudha_3c2b0c2b5e0/my-desk-my-journey-css-art-inspired-by-my-remote-devops-workspace-36b8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
