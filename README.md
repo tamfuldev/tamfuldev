@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build High-Performance Websites with React.js, Next.js, Vue.js and Tailwind CSS](https://dev.to/mohosin2126/build-high-performance-websites-with-reactjs-nextjs-vuejs-and-tailwind-css-6e9)
-- [Why I Built a C# Markdown-to-HTML Converter &lpar;That’s Actually Fast and Safe&rpar;](https://dev.to/milos74/why-i-built-a-c-markdown-to-html-converter-thats-actually-fast-and-safe-22fc)
-- [Full-Stack Application Deployment Guide Using Docker, Kubernetes, Jenkins, and Prometheus Monitoring](https://dev.to/prodevopsguytech/full-stack-application-deployment-guide-using-docker-kubernetes-jenkins-and-prometheus-monitoring-275c)
-- [.env vs .toml for Config in Go: What Should You Use?](https://dev.to/lovestaco/env-vs-toml-for-config-in-go-what-should-you-use-564l)
-- [Python For beginners](https://dev.to/kemboijebby/python-for-beginners-4khh)
+- [Implementing OpenDAL with Filesystem &lpar;FS&rpar; In Rust](https://dev.to/mukhtar_onif/implementing-opendal-with-filesystem-fs-in-rust-2ha8)
+- [SwiftUI Performance and Stability: Avoiding the Most Costly Mistakes](https://dev.to/arshtechpro/swiftui-performance-and-stability-avoiding-the-most-costly-mistakes-234c)
+- [Youtube video summarizer with linkedin post creation](https://dev.to/prasenjit_debnath/youtube-video-summarizer-with-linkedin-post-creation-4icm)
+- [AI Agents Are Getting Smarter Than You Think — And That’s Changing Everything](https://dev.to/arkhan/ai-agents-are-getting-smarter-than-you-think-and-thats-changing-everything-dao)
+- [Mastering SSG, SSR, ISR, and CSR in Next.js](https://dev.to/bdhamithkumara/mastering-ssg-ssr-isr-and-csr-in-nextjs-19bi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
