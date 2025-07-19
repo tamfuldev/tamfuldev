@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [📚 JavaScript.info — The Modern JavaScript Tutorial](https://dev.to/ml318097/javascriptinfo-the-modern-javascript-tutorial-4lgp)
-- [How to provide storage for the IT department testing and training](https://dev.to/zube/how-to-provide-storage-for-the-it-department-testing-and-training-2517)
-- [Horizon World Tutorial – Player Management – Part 2 – Double Jump](https://dev.to/lnationorg/horizon-world-tutorial-player-management-part-2-double-jump-474k)
-- [Advanced PDF Optimization Techniques - 1752936](https://dev.to/revisepdf/advanced-pdf-optimization-techniques-1752936-1j5m)
-- [Why I’m Betting on BI, Compliance &amp; QA — Not AI Hype](https://dev.to/tamyrah/why-im-betting-on-bi-compliance-qa-not-ai-hype-i83)
+- [AWS Skill Builder: Is It Enough to Learn AWS for Free?](https://dev.to/komaldedaniya/aws-skill-builder-is-it-enough-to-learn-aws-for-free-gjd)
+- [🎮 dvd-pong: Retro Physics in the Browser!](https://dev.to/akbak/dvd-pong-retro-physics-in-the-browser-g65)
+- [How to Save an Hour of Figma Work Using Webcrumbs](https://dev.to/astrodevil/how-to-save-an-hour-of-figma-work-using-webcrumbs-25j0)
+- [Why I Made Veko Go: A Free Alternative to for Load Testing &lpar;and Why I Share It](https://dev.to/vekoo111/why-i-am-sharing-veko-ecosystem-publicly-and-for-free-5150)
+- [Introducing Veko Ecosystem: A Complete Solution for Privacy, Load Testing, and Secure Data Storage](https://dev.to/vekoo111/introducing-veko-ecosystem-a-complete-solution-for-privacy-load-testing-and-secure-data-storage-1alo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
