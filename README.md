@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Skill Builder: Is It Enough to Learn AWS for Free?](https://dev.to/komaldedaniya/aws-skill-builder-is-it-enough-to-learn-aws-for-free-gjd)
-- [🎮 dvd-pong: Retro Physics in the Browser!](https://dev.to/akbak/dvd-pong-retro-physics-in-the-browser-g65)
-- [How to Save an Hour of Figma Work Using Webcrumbs](https://dev.to/astrodevil/how-to-save-an-hour-of-figma-work-using-webcrumbs-25j0)
-- [Why I Made Veko Go: A Free Alternative to for Load Testing &lpar;and Why I Share It](https://dev.to/vekoo111/why-i-am-sharing-veko-ecosystem-publicly-and-for-free-5150)
-- [Introducing Veko Ecosystem: A Complete Solution for Privacy, Load Testing, and Secure Data Storage](https://dev.to/vekoo111/introducing-veko-ecosystem-a-complete-solution-for-privacy-load-testing-and-secure-data-storage-1alo)
+- [ChatGPT Agent is FINALLY here, Kimi K2 just killed Claude, Perplexity&#39;s AI web browser, and more](https://dev.to/thisweekinaiengineering/chatgpt-agent-is-finally-here-kimi-k2-just-killed-claude-perplexitys-ai-web-browser-and-more-ffn)
+- [DhaScan: Level Up Your Web Security with AI 🛡️ - Think Like an Attacker, Defend Like a Pro.](https://dev.to/ronit_paikray_c98c5bf84b8/dhascan-level-up-your-web-security-with-ai-think-like-an-attacker-defend-like-a-pro-4d0f)
+- [🕵️‍♂️ Social Media First Post Finder](https://dev.to/akbak/social-media-first-post-finder-2jbp)
+- [🎭 Solivagus](https://dev.to/akbak/solivagus-1ld5)
+- [Comunicação entre a Camada Application e a API no .NET Moderno](https://dev.to/daniloopinheiro/comunicacao-entre-a-camada-application-e-a-api-no-net-moderno-47oj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
