@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Callforwards are actually not that bad!](https://dev.to/dariomannu/callforwards-are-actually-not-that-bad-475e)
-- [The Real Problem with AI Agents &lpar;and How We Built the Fix&rpar;](https://dev.to/contextspace_/the-real-problem-with-ai-agents-and-how-we-built-the-fix-p7o)
-- [Why Jumeirah Village Circle Is Gaining Popularity Among Investors](https://dev.to/john_connor_956c3b3934316/why-jumeirah-village-circle-is-gaining-popularity-among-investors-3292)
-- [Why Match &amp; Merge Behaves Differently in Cloud MDM &lpar;And What Most People Miss&rpar;](https://dev.to/inventmodel/why-match-merge-behaves-differently-in-cloud-mdm-and-what-most-people-miss-336n)
-- [Advanced PDF Optimization Techniques - 1752914](https://dev.to/revisepdf/advanced-pdf-optimization-techniques-1752914-26ip)
+- [Your API is Cute, But Where&#39;s the Real Backend? 🤔](https://dev.to/dhaval_agrvat_6e65394a83/your-api-is-cute-but-wheres-the-real-backend-5088)
+- [future ready learning with timeless values](https://dev.to/sumit_gariya_e6073d17e62b/future-ready-learning-with-timeless-values-gn)
+- [180 Days of Frontend Development Challenge: Day 35 CSS Pseudo-classes and Pseudo-elements](https://dev.to/code_2/180-days-of-frontend-development-challenge-day-35-css-pseudo-classes-and-pseudo-elements-56pf)
+- [What is Infrastructure as Code &lpar;IaC&rpar; and What are the benefits of using it ?](https://dev.to/rgunasekaran/what-is-infrastructure-as-code-iac-and-what-are-the-benefits-of-using-it--38gk)
+- [How I deployed my first project for my devops portfolio: Project Architecture](https://dev.to/shahin1337/how-i-deployed-my-first-project-for-my-devops-portfolio-project-architecture-1i9g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
