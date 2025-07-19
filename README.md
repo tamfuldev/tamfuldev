@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT Agent is FINALLY here, Kimi K2 just killed Claude, Perplexity&#39;s AI web browser, and more](https://dev.to/thisweekinaiengineering/chatgpt-agent-is-finally-here-kimi-k2-just-killed-claude-perplexitys-ai-web-browser-and-more-ffn)
-- [DhaScan: Level Up Your Web Security with AI 🛡️ - Think Like an Attacker, Defend Like a Pro.](https://dev.to/ronit_paikray_c98c5bf84b8/dhascan-level-up-your-web-security-with-ai-think-like-an-attacker-defend-like-a-pro-4d0f)
-- [🕵️‍♂️ Social Media First Post Finder](https://dev.to/akbak/social-media-first-post-finder-2jbp)
-- [🎭 Solivagus](https://dev.to/akbak/solivagus-1ld5)
-- [Comunicação entre a Camada Application e a API no .NET Moderno](https://dev.to/daniloopinheiro/comunicacao-entre-a-camada-application-e-a-api-no-net-moderno-47oj)
+- [Build High-Performance Websites with React.js, Next.js, Vue.js and Tailwind CSS](https://dev.to/mohosin2126/build-high-performance-websites-with-reactjs-nextjs-vuejs-and-tailwind-css-6e9)
+- [Why I Built a C# Markdown-to-HTML Converter &lpar;That’s Actually Fast and Safe&rpar;](https://dev.to/milos74/why-i-built-a-c-markdown-to-html-converter-thats-actually-fast-and-safe-22fc)
+- [Full-Stack Application Deployment Guide Using Docker, Kubernetes, Jenkins, and Prometheus Monitoring](https://dev.to/prodevopsguytech/full-stack-application-deployment-guide-using-docker-kubernetes-jenkins-and-prometheus-monitoring-275c)
+- [.env vs .toml for Config in Go: What Should You Use?](https://dev.to/lovestaco/env-vs-toml-for-config-in-go-what-should-you-use-564l)
+- [Python For beginners](https://dev.to/kemboijebby/python-for-beginners-4khh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
