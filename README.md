@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Provide private storage for internal company documents](https://dev.to/isaiah_izibili_7a39b7d627/provide-private-storage-for-internal-company-documents-3f1c)
-- [Top 10 Launches of Launch Week 15](https://dev.to/supabase/top-10-launches-of-launch-week-15-225n)
-- [How Aptos&#39; Quorum Store Unlocks True Scalability](https://dev.to/danielkestrel/how-aptos-quorum-store-unlocks-true-scalability-28l9)
-- [Avoiding Lifetime Annotations with Structs](https://dev.to/sgchris/avoiding-lifetime-annotations-with-structs-16ni)
-- [Building CLI Tools with clap and structopt](https://dev.to/sgchris/building-cli-tools-with-clap-and-structopt-62j)
+- [Promises em Nodejs Paralelo, Sequencial e Corrida – Qual usar?](https://dev.to/h1bertobarbosa/promises-em-nodejs-paralelo-sequencial-e-corrida-qual-usar-1g3g)
+- [AI Ethics Prompt Engineering Java Cognitive Systems](https://dev.to/matheus_porto_52c105fca68/ai-ethics-prompt-engineering-java-cognitive-systems-5cp4)
+- [I’d like to hear from experts in chatbot development](https://dev.to/juanjefry23/id-like-to-hear-from-experts-in-chatbot-development-15h3)
+- [CVE-2025-0282: Ivanti Connect Secure, Policy Secure, and ZTA Gateways Stack-Based Buffer Overflow Vulnerability](https://dev.to/freedom_coder/cve-2025-0282-ivanti-connect-secure-policy-secure-and-zta-gateways-stack-based-buffer-overflow-53ob)
+- [CVE-2025-22457: Ivanti Connect Secure, Policy Secure, and ZTA Gateways Stack-Based Buffer Overflow Vulnerability](https://dev.to/freedom_coder/cve-2025-22457-ivanti-connect-secure-policy-secure-and-zta-gateways-stack-based-buffer-overflow-ppl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
