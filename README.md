@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Promises em Nodejs Paralelo, Sequencial e Corrida – Qual usar?](https://dev.to/h1bertobarbosa/promises-em-nodejs-paralelo-sequencial-e-corrida-qual-usar-1g3g)
-- [AI Ethics Prompt Engineering Java Cognitive Systems](https://dev.to/matheus_porto_52c105fca68/ai-ethics-prompt-engineering-java-cognitive-systems-5cp4)
-- [I’d like to hear from experts in chatbot development](https://dev.to/juanjefry23/id-like-to-hear-from-experts-in-chatbot-development-15h3)
-- [CVE-2025-0282: Ivanti Connect Secure, Policy Secure, and ZTA Gateways Stack-Based Buffer Overflow Vulnerability](https://dev.to/freedom_coder/cve-2025-0282-ivanti-connect-secure-policy-secure-and-zta-gateways-stack-based-buffer-overflow-53ob)
-- [CVE-2025-22457: Ivanti Connect Secure, Policy Secure, and ZTA Gateways Stack-Based Buffer Overflow Vulnerability](https://dev.to/freedom_coder/cve-2025-22457-ivanti-connect-secure-policy-secure-and-zta-gateways-stack-based-buffer-overflow-ppl)
+- [🎬 Introducing Ravgeek: Dev Concepts in 60 Seconds](https://dev.to/ravgeetdhillon/introducing-ravgeek-dev-concepts-in-60-seconds-54nj)
+- [Most people are using ChatGPT the wrong way. Here&#39;s how to learn any skill faster](https://dev.to/manasi_patil_/most-people-are-using-chatgpt-the-wrong-way-heres-how-to-learn-any-skill-faster-10bm)
+- [20 Go Performance Tricks I Learned the Hard Way](https://dev.to/leapcell/20-go-performance-tricks-i-learned-the-hard-way-2h8h)
+- [Restart Unhealthy Docker Containers Automatically](https://dev.to/binarypatrick/restart-unhealthy-docker-containers-automatically-4c00)
+- [Think Like an Attacker, Defend Like a Technician: The Cybersecurity Mindset + Toolkit You Actually Need](https://dev.to/nullc0d3/think-like-an-attacker-defend-like-a-technician-the-cybersecurity-mindset-toolkit-you-actually-4jo9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
