@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your API is Cute, But Where&#39;s the Real Backend? 🤔](https://dev.to/dhaval_agrvat_6e65394a83/your-api-is-cute-but-wheres-the-real-backend-5088)
-- [future ready learning with timeless values](https://dev.to/sumit_gariya_e6073d17e62b/future-ready-learning-with-timeless-values-gn)
-- [180 Days of Frontend Development Challenge: Day 35 CSS Pseudo-classes and Pseudo-elements](https://dev.to/code_2/180-days-of-frontend-development-challenge-day-35-css-pseudo-classes-and-pseudo-elements-56pf)
-- [What is Infrastructure as Code &lpar;IaC&rpar; and What are the benefits of using it ?](https://dev.to/rgunasekaran/what-is-infrastructure-as-code-iac-and-what-are-the-benefits-of-using-it--38gk)
-- [How I deployed my first project for my devops portfolio: Project Architecture](https://dev.to/shahin1337/how-i-deployed-my-first-project-for-my-devops-portfolio-project-architecture-1i9g)
+- [How Vision-Language Models Miss What Isn&#39;t There](https://dev.to/rawveg/how-vision-language-models-miss-what-isnt-there-2i7l)
+- [I Tested 5 CLI Coding Agents &amp; Here’s What Surprised Me!](https://dev.to/forgecode/i-tested-5-cli-coding-agents-heres-what-surprised-me-28i)
+- [20 Rules for Becoming THAT Manager &lpar;From a Principal Engineer’s Perspective&rpar;](https://dev.to/georgekobaidze/20-rules-for-becoming-that-manager-from-a-principal-engineers-perspective-58n3)
+- [Should I Encourage People to Learn Programming in 2025? I Don’t Think So.](https://dev.to/pranta/should-i-encourage-people-to-learn-programming-in-2025-i-dont-think-so-1a38)
+- [Horizon World Tutorial – Player Management – Part 1 – Server and Local Controller](https://dev.to/lnationorg/horizon-world-tutorial-player-management-part-1-server-and-local-controller-1k2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
