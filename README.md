@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Fact-Checking the Fear Behind “The Dark Side of AI”: The Real Story](https://dev.to/anchildress1/fact-checking-the-fear-behind-the-dark-side-of-ai-the-real-story-366p)
-- [Self-implemented IFTTT Pro&#39;s RSS feed notification feature with AWS serverless architecture](https://dev.to/masutaka/self-implemented-ifttt-pros-rss-feed-notification-feature-with-aws-serverless-architecture-2ope)
-- [تفاوت مدیر پروژه و مدیر محصول: نقش‌ها و وظایف](https://dev.to/parizad/tfwt-mdyr-prwjh-w-mdyr-mhswl-nqshh-w-wzyf-2g72)
-- [Elicitation in Modern AI Agents: How Smart Agents Ask the Right Questions](https://dev.to/sreeni5018/elicitation-in-modern-ai-agents-how-smart-agents-ask-the-right-questions-j4h)
-- [State Monad](https://dev.to/depa_reddy_5e0e3025aa6eed/state-monad-2ic4)
+- [AI: Introduction to Ollama for local LLM launch](https://dev.to/setevoy/ai-introduction-to-ollama-for-local-llm-launch-41io)
+- [Terraform: data types, loops, indexes, and the &quot;resource must be replaced&quot; issue](https://dev.to/setevoy/terraform-data-types-loops-indexes-and-the-resource-must-be-replaced-issue-5ccl)
+- [Kubernetes: 503 errors with AWS ALB possible causes and solutions](https://dev.to/aws-builders/kubernetes-503-errors-with-aws-alb-possible-causes-and-solutions-1ddh)
+- [The Power of HTML - Part 5: Accessibility Unleashed: Inclusive Design with HTML](https://dev.to/karthikeyans21/the-power-of-html-part-5-accessibility-unleashed-inclusive-design-with-html-4566)
+- [🚀 The Complete Guide to Prompt Engineering: From Zero-Shot to AI Agents](https://dev.to/warayus/the-complete-guide-to-prompt-engineering-from-zero-shot-to-ai-agents-35bk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
