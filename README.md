@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Looking for Feedback: Building a Self-Hosted n8n + LLM Setup with MCP &lpar;without Claude&rpar;](https://dev.to/neo457_eab636c701319c68ca/looking-for-feedback-building-a-self-hosted-n8n-llm-setup-with-mcp-without-claude-517h)
-- [[Boost]](https://dev.to/srushti/-1285)
-- [35 Free Platforms to Boost Your Startup’s SEO &amp; Visibility](https://dev.to/gokayburuc/35-free-platforms-to-boost-your-startups-seo-visibility-2275)
-- [Mastering Algorithm Analysis: Leveraging Lower Bounds in Java Searching Algorithms](https://dev.to/adityabhuyan/mastering-algorithm-analysis-leveraging-lower-bounds-in-java-searching-algorithms-1kpn)
-- [Advanced PDF Optimization Techniques - 1753001](https://dev.to/revisepdf/advanced-pdf-optimization-techniques-1753001-16an)
+- [Fact-Checking the Fear Behind “The Dark Side of AI”: The Real Story](https://dev.to/anchildress1/fact-checking-the-fear-behind-the-dark-side-of-ai-the-real-story-366p)
+- [Self-implemented IFTTT Pro&#39;s RSS feed notification feature with AWS serverless architecture](https://dev.to/masutaka/self-implemented-ifttt-pros-rss-feed-notification-feature-with-aws-serverless-architecture-2ope)
+- [تفاوت مدیر پروژه و مدیر محصول: نقش‌ها و وظایف](https://dev.to/parizad/tfwt-mdyr-prwjh-w-mdyr-mhswl-nqshh-w-wzyf-2g72)
+- [Elicitation in Modern AI Agents: How Smart Agents Ask the Right Questions](https://dev.to/sreeni5018/elicitation-in-modern-ai-agents-how-smart-agents-ask-the-right-questions-j4h)
+- [State Monad](https://dev.to/depa_reddy_5e0e3025aa6eed/state-monad-2ic4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
