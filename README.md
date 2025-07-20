@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AWS SQS service Expands IPv6 Support to VPC Endpoints](https://dev.to/nishath_jp/aws-sqs-service-expands-ipv6-support-to-vpc-endpoints-4d9l)
-- [Exploring the Functional Options Pattern in Go](https://dev.to/leapcell/exploring-the-functional-options-pattern-in-go-23dc)
-- [Interview with a recruiter: Everything you&#39;ve wanted to ask about resumes](https://dev.to/severin_wiggenhorn/interview-with-a-recruiter-everything-youve-wanted-to-ask-about-resumes-p7h)
-- [I made it simple for you](https://dev.to/akemnoorsingh/-2og2)
-- [How to Talk to an AI 💻: A Beginner’s Guide to the OpenAI API](https://dev.to/akemnoorsingh/how-to-talk-to-an-ai-a-beginners-guide-to-the-openai-api-3lk2)
+- [The SQL Renaissance: More Than Just Tables](https://dev.to/farlamo/the-sql-renaissance-more-than-just-tables-2ckd)
+- [How Browsers Parse a URL](https://dev.to/kanta1207/how-browsers-parse-a-url-5764)
+- [Office Culture Through the Decades: A Pure CSS Time Machine 🕰️](https://dev.to/prateekk07/office-culture-through-the-decades-a-pure-css-time-machine-47e)
+- [Decoding No-Code: When to Let Go of the Code](https://dev.to/calderbughunter/decoding-no-code-when-to-let-go-of-the-code-5ap1)
+- [How Khoj Samachar Made It to The Org Top 45 Global Publishing Companies](https://dev.to/roshan-shrestha/how-khoj-samachar-made-it-to-the-org-top-45-global-publishing-companies-2bj9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
