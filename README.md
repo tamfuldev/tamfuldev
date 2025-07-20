@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding - Conversational Software Development - Part 2 In Practice](https://dev.to/gauravgaur/vibe-coding-conversational-software-development-part-2-in-practice-2f9o)
-- [[Boost]](https://dev.to/little_coding_things/-2jn0)
-- [My Dream Intranet Home Page Inspired by Axero](https://dev.to/tech-vexy/my-dream-intranet-home-page-inspired-by-axero-2p1e)
-- [&quot;End-to-End SonarQube Integration with GitLab CI/CD for DevSecOps Pipelines&quot;](https://dev.to/aniket_agarkar_27c0f3b330/end-to-end-sonarqube-integration-with-gitlab-cicd-for-devsecops-pipelines-28aa)
-- [Imposter Syndrome Is Lying to You—Don’t Let It Run Your Career](https://dev.to/dalton_abreshears/imposter-syndrome-is-lying-to-you-dont-let-it-run-your-career-1af4)
+- [Fixing OutOfMemoryError in Spring Boot: Implementing Pagination &lpar;With Angular Example&rpar;](https://dev.to/shahidfoy/fixing-outofmemoryerror-in-spring-boot-implementing-pagination-with-angular-example-lp)
+- [[EN] Granularity: The Art of Breaking the System into the Right Size](https://dev.to/renannrocha/en-granularity-the-art-of-breaking-the-system-into-the-right-size-1o01)
+- [My FastAPI template repo](https://dev.to/smenendez19/my-fastapi-template-repo-dc7)
+- [Introducing nextjs-starter-pack](https://dev.to/shubhankarval/introducing-nextjs-starter-pack-f1o)
+- [Pragmata Gameplay Breakdown Details Its Blend Of Hacking And Gunplay](https://dev.to/yagyaraj_sharma_6cd410179/pragmata-gameplay-breakdown-details-its-blend-of-hacking-and-gunplay-e9k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
