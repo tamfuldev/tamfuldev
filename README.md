@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Know If Odoo ERP Is the Right Fit for Your Business](https://dev.to/hamxa_f786/how-to-know-if-odoo-erp-is-the-right-fit-for-your-business-5elj)
-- [Kiro is amazing](https://dev.to/sake/kiro-is-amazing-2ia0)
-- [AI Code Generation, Smarter and More Cost-Efficient with Context Engineering](https://dev.to/unfor19/ai-code-generation-smarter-and-more-cost-efficient-with-context-engineering-1bjh)
-- [I Finally Understand .gitkeep](https://dev.to/ibrahimalanshor/i-finally-understand-gitkeep-48ln)
-- [Common JS library import in ES Module](https://dev.to/pulimoodan/common-js-library-import-in-es-module-57i7)
+- [Subarray Sum Divisible By K.](https://dev.to/umair01/subarray-sum-divisible-by-k-40ai)
+- [Give your AI agent superpowers with MCP](https://dev.to/diogodanielsoaresferreira/give-your-ai-agent-superpowers-with-mcp-2d4l)
+- [Why Tech Consulting Should Be the First Step in Your Digital Strategy](https://dev.to/cylsyssoftwaresolution/why-tech-consulting-should-be-the-first-step-in-your-digital-strategy-3mej)
+- [Max Consecutive Ones III](https://dev.to/umair01/max-consecutive-ones-iii-2nb0)
+- [Best Downdetector Alternatives for Outage Monitoring in 2025](https://dev.to/isdown/best-downdetector-alternatives-for-outage-monitoring-in-2025-4ck5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
