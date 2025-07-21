@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Subarray Sum Divisible By K.](https://dev.to/umair01/subarray-sum-divisible-by-k-40ai)
-- [Give your AI agent superpowers with MCP](https://dev.to/diogodanielsoaresferreira/give-your-ai-agent-superpowers-with-mcp-2d4l)
-- [Why Tech Consulting Should Be the First Step in Your Digital Strategy](https://dev.to/cylsyssoftwaresolution/why-tech-consulting-should-be-the-first-step-in-your-digital-strategy-3mej)
-- [Max Consecutive Ones III](https://dev.to/umair01/max-consecutive-ones-iii-2nb0)
-- [Best Downdetector Alternatives for Outage Monitoring in 2025](https://dev.to/isdown/best-downdetector-alternatives-for-outage-monitoring-in-2025-4ck5)
+- [From Trainee to Software Engineer: A 5 Year Journey Through Code, Growth, and AI](https://dev.to/jsandaruwan/from-trainee-to-software-engineer-a-5-year-journey-through-code-growth-and-ai-53f4)
+- [Firebase Project Setup: Your Complete Getting Started Guide 🔥](https://dev.to/this-is-learning/firebase-project-setup-your-complete-getting-started-guide-3k23)
+- [Ingress and ingress controller](https://dev.to/srinivas_ettedi_a91e6d53a/ingress-and-ingress-controller-25ni)
+- [What Are the Career Paths After Learning SAP FICO?](https://dev.to/blog012/what-are-the-career-paths-after-learning-sap-fico-9d8)
+- [🧠 Solving LeetCode Until I Become Top 1% — Day `50`](https://dev.to/therealrishat/solving-leetcode-until-i-become-top-1-day-50-5gn4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
