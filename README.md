@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Querying CSV/XLS and other files：SPL Lightweight Multisource Mixed Computation Practices #2](https://dev.to/esproc_spl/querying-csvxls-and-other-filesspl-lightweight-multisource-mixed-computation-practices-2-4g2a)
-- [🧠 Productivity Tips for Self-Taught Developers: Build Faster, Smarter, Stronger](https://dev.to/vjygour/productivity-tips-for-self-taught-developers-build-faster-smarter-stronger-4foh)
-- [Unpacking the EVM: Opcodes – The DNA of Ethereum Smart Contracts 🧬](https://dev.to/ouma_ouma/unpacking-the-evm-opcodes-the-dna-of-ethereum-smart-contracts-2fob)
-- [Auto Rotation of PM2 log](https://dev.to/jasim_alam_88ad5ffe68ef66/auto-rotation-of-pm2-log-4ied)
-- [Why use useEffect in React? ⚛️](https://dev.to/aman_kureshi_/why-use-useeffect-in-react-5680)
+- [AI Code Generation, Smarter and More Cost-Efficient with Context Engineering](https://dev.to/unfor19/ai-code-generation-smarter-and-more-cost-efficient-with-context-engineering-1bjh)
+- [I Finally Understand .gitkeep](https://dev.to/ibrahimalanshor/i-finally-understand-gitkeep-48ln)
+- [Common JS library import in ES Module](https://dev.to/pulimoodan/common-js-library-import-in-es-module-57i7)
+- [Design Style Slider](https://dev.to/alansdead/design-style-slider-3o56)
+- [Understand JOINs in MySQL Easily](https://dev.to/freyasky/understand-joins-in-mysql-easily-2df9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
