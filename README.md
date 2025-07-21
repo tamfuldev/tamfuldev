@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [“How I Fixed ‘No NIC Except Loopback’ on CentOS Stream Minimal in VMware”](https://dev.to/khurammurad/how-i-fixed-no-nic-except-loopback-on-centos-stream-minimal-in-vmware-1cg5)
-- [A Tale of Two Threads &lpar;APIs&rpar;](https://dev.to/pauljlucas/a-tale-of-two-threads-apis-2m32)
-- [The Unsent Project Reimagined: Build Thoughtful Messages with PaperGen AI](https://dev.to/brynlee_kate/the-unsent-project-reimagined-build-thoughtful-messages-with-papergen-ai-35ck)
-- [How docker build Really Works?](https://dev.to/abdelino17/how-docker-build-really-works-21id)
-- [Foster AI: After the Hack - WLH Challenge](https://dev.to/ariondev/foster-ai-after-the-hack-wlh-challenge-1d6n)
+- [How to deploy Azure Key Vault with Terraform: A Step-by-Step Guide](https://dev.to/techielass/how-to-deploy-azure-key-vault-with-terraform-a-step-by-step-guide-4o72)
+- [Every remote team should look at what TDZ PRO is doing and learn from it.](https://dev.to/richards_l52689/every-remote-team-should-look-at-what-tdz-pro-is-doing-and-learn-from-it-905)
+- [What makes TDZ PRO stand out is how they make their clients feel heard and understood.](https://dev.to/kierwolf20/what-makes-tdz-pro-stand-out-is-how-they-make-their-clients-feel-heard-and-understood-df4)
+- [What stands out about TDZ PRO is their ability to turn a regular video call into a moment of client confidence and clarity.](https://dev.to/jackied0minguez/what-stands-out-about-tdz-pro-is-their-ability-to-turn-a-regular-video-call-into-a-moment-of-client-gci)
+- [Simulador de Modulação 16QAM em Python](https://dev.to/gabriel_dias/simulador-de-modulacao-16qam-em-python-5397)
 <!-- BLOG-POST-LIST:END -->
 
 ---
