@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Orchestrating 6 Subagents to Build a Collaborative API Playground for Kids](https://dev.to/blockopensource/orchestrating-6-subagents-to-build-a-collaborative-api-playground-for-kids-52je)
-- [How to Distribute a Statically Linked Crystal Binary on macOS with GitHub Actions](https://dev.to/kojix2/how-to-distribute-a-statically-linked-crystal-binary-on-macos-with-github-actions-1gc6)
-- [The Future of Brand Design: Merging Creativity with AI Tools](https://dev.to/awaishashmi/the-future-of-brand-design-merging-creativity-with-ai-tools-2p1a)
-- [Advanced Angular Testing: 10+ Real-World Mocking Scenarios That Actually Work](https://dev.to/codewithrajat/advanced-angular-testing-10-real-world-mocking-scenarios-that-actually-work-1no4)
-- [Creating Blog Tutorial Using Next.JS 15 &amp; TailwindCSS 4.0 &lpar;Part #3&rpar;](https://dev.to/gerryleonugroho/creating-blog-tutorial-using-nextjs-15-tailwindcss-40-part-3-2npb)
+- [Stay ahead in web development: latest news, tools, and insights #94](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-94-1627)
+- [Amazon S3 Vectors: Insert &amp; Query Embeddings with Indian Snacks &lpar;Titan + Bedrock Demo&rpar;](https://dev.to/aws-builders/amazon-s3-vectors-insert-query-embeddings-with-indian-snacks-titan-bedrock-demo-1mc3)
+- [How we Created a Simpsonize Yourself Service in 1 Week](https://dev.to/stargazermedia/how-we-created-a-simpsonize-yourself-service-in-1-week-18jf)
+- [🚀 Build AI Agents from a Prompt — Meet Nexent, the Open-Source Agent Platform](https://dev.to/nexent/build-ai-agents-from-a-prompt-meet-nexent-the-open-source-agent-platform-4029)
+- [The Most Underrated Way AI Helps Developers &lpar;That Almost Nobody&#39;s Talking About&rpar;](https://dev.to/pantoai/the-most-underrated-way-ai-helps-developers-that-almost-nobodys-talking-about-5c59)
 <!-- BLOG-POST-LIST:END -->
 
 ---
