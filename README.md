@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Interactively Retrieve Terminal History](https://dev.to/marcosplusplus/how-to-interactively-retrieve-terminal-history-3f6n)
-- [From Darkness to Light: How a Final Chance Reignited My Dream](https://dev.to/__8ffb969b14cef9/from-darkness-to-light-how-a-final-chance-reignited-my-dream-5e67)
-- [Untitled](https://dev.to/travis_schwartz_6aa3b4bb2/untitled-5gk)
-- [Why Your Org Chart is About to Disappear](https://dev.to/seanmccurdy/why-your-org-chart-is-about-to-disappear-2hj9)
-- [Distributed Web Crawlers: A Hands-On Guide with Go](https://dev.to/jones_charles_ad50858dbc0/distributed-web-crawlers-a-hands-on-guide-with-go-1jdl)
+- [Orchestrating 6 Subagents to Build a Collaborative API Playground for Kids](https://dev.to/blockopensource/orchestrating-6-subagents-to-build-a-collaborative-api-playground-for-kids-52je)
+- [How to Distribute a Statically Linked Crystal Binary on macOS with GitHub Actions](https://dev.to/kojix2/how-to-distribute-a-statically-linked-crystal-binary-on-macos-with-github-actions-1gc6)
+- [The Future of Brand Design: Merging Creativity with AI Tools](https://dev.to/awaishashmi/the-future-of-brand-design-merging-creativity-with-ai-tools-2p1a)
+- [Advanced Angular Testing: 10+ Real-World Mocking Scenarios That Actually Work](https://dev.to/codewithrajat/advanced-angular-testing-10-real-world-mocking-scenarios-that-actually-work-1no4)
+- [Creating Blog Tutorial Using Next.JS 15 &amp; TailwindCSS 4.0 &lpar;Part #3&rpar;](https://dev.to/gerryleonugroho/creating-blog-tutorial-using-nextjs-15-tailwindcss-40-part-3-2npb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
