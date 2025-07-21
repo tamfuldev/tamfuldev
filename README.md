@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How to Know If Odoo ERP Is the Right Fit for Your Business](https://dev.to/hamxa_f786/how-to-know-if-odoo-erp-is-the-right-fit-for-your-business-5elj)
+- [Kiro is amazing](https://dev.to/sake/kiro-is-amazing-2ia0)
 - [AI Code Generation, Smarter and More Cost-Efficient with Context Engineering](https://dev.to/unfor19/ai-code-generation-smarter-and-more-cost-efficient-with-context-engineering-1bjh)
 - [I Finally Understand .gitkeep](https://dev.to/ibrahimalanshor/i-finally-understand-gitkeep-48ln)
 - [Common JS library import in ES Module](https://dev.to/pulimoodan/common-js-library-import-in-es-module-57i7)
-- [Design Style Slider](https://dev.to/alansdead/design-style-slider-3o56)
-- [Understand JOINs in MySQL Easily](https://dev.to/freyasky/understand-joins-in-mysql-easily-2df9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
