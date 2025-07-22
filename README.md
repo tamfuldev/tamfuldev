@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Resumable File Uploader in React with Node.js and resumable.js](https://dev.to/hackmack4772/how-to-build-a-resumable-file-uploader-in-react-with-nodejs-and-resumablejs-2m79)
-- [Grub in ubuntu](https://dev.to/surajvatsya/grub-in-ubuntu-5b8k)
-- [The Last Developer Standing: Image Optimization in the Post-Apocalyptic Internet](https://dev.to/hardik_b2d8f0bca/the-last-developer-standing-image-optimization-in-the-post-apocalyptic-internet-4ejp)
-- [🛠️ After the Hack: What’s Next for Promptle &lpar;and Me&rpar;](https://dev.to/nithya_subramaniam_223c76/after-the-hack-whats-next-for-promptle-and-me-225e)
-- [Instance Instance ID VS Instance ARN](https://dev.to/surajvatsya/instance-instance-id-vs-instance-arn-394)
+- [Why You &lpar;Still&rpar; Need an Effortless JPG Converter in 2025: Streamline Your Image Workflow](https://dev.to/hardik_b2d8f0bca/why-you-still-need-an-effortless-jpg-converter-in-2025-streamline-your-image-workflow-1i0n)
+- [Solid list!](https://dev.to/jimmylin/solid-list-49e)
+- [I want to disable one field and enable another when selecting an option from the select. How can I do that with jQuery?](https://dev.to/joao_macondo/i-want-to-disable-one-field-and-enable-another-when-selecting-an-option-from-the-select-how-can-i-b8c)
+- [Day-62 Java BankAccount Program](https://dev.to/tamilselvan1812/day-62-java-bankaccount-program-4783)
+- [Understanding SSL Certificates and Domain Expiry](https://dev.to/netsi1964/understanding-ssl-certificates-and-domain-expiry-553f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
