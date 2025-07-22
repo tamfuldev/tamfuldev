@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [USPTO to Launch AI Image-Based Prior-Art Search Tool for Design Patents in October 2025](https://dev.to/ytosko/uspto-to-launch-ai-image-based-prior-art-search-tool-for-design-patents-in-october-2025-26o6)
-- [Threats, Vulnerabilities, and Mitigations: Understanding Threat Actors and Attack Vectors](https://dev.to/pelk/threats-vulnerabilities-and-mitigations-understanding-threat-actors-and-attack-vectors-gk8)
-- [Access Control](https://dev.to/cyberwizd/access-control-16nb)
-- [How to add loading spinner to Angular material button](https://dev.to/dhutaryan/how-to-add-loading-spinner-to-angular-material-button-1eok)
-- [🔁 How to Automate Everyday Tasks with Python – Part 2](https://dev.to/trixsec/how-to-automate-everyday-tasks-with-python-part-2-3ej2)
+- [swagrLite ⚡️ – Say Hello to a Lightweight Swagger Editor Alternative](https://dev.to/deyrupak/swagrlite-say-hello-to-a-lightweight-swagger-editor-alternative-4340)
+- [Vibe coding clarity with Kiro specs](https://dev.to/myl3s/vibe-coding-clarity-with-kiro-specs-5e56)
+- [Array programs](https://dev.to/ajay_kumar_6b7bf6882d9319/array-programs-5d9h)
+- [Comunicação Entre a Camada de Domínio e a Camada de Infraestrutura no .NET](https://dev.to/daniloopinheiro/comunicacao-entre-a-camada-de-dominio-e-a-camada-de-infraestrutura-no-net-i7j)
+- [Referential transparency with mutation](https://dev.to/this-is-learning/referential-transparency-with-mutation-3lai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
