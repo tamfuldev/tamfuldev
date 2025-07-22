@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Pulse - The Living Workplace Dashboard](https://dev.to/vivek-aws/pulse-the-living-workplace-dashboard-5af2)
-- [How to Integrate OpenAI in a React App &lpar;Step-by-Step&rpar;](https://dev.to/aneeqakhan/how-to-integrate-openai-in-a-react-app-step-by-step-2k3)
-- [Understanding Statements vs. Expressions in JavaScript](https://dev.to/wisdomudo/understanding-statements-vs-expressions-in-javascript-3acn)
-- [Human Coder Defeats OpenAI in Tokyo—What It Means for the Future of AI Development](https://dev.to/arkhan/human-coder-defeats-openai-in-tokyo-what-it-means-for-the-future-of-ai-development-3b6i)
-- [When Robots Build Your Dining Table](https://dev.to/michael_nielsen_70ab83d55/when-robots-build-your-dining-table-2am8)
+- [Understanding Measures of Central Tendency and Their Importance in Data Science](https://dev.to/wanjirunjoroge/understanding-measures-of-central-tendency-and-their-importance-in-data-science-1e98)
+- [I just typed &quot;big&quot; instead of &quot;git&quot; ????](https://dev.to/taliastorymaker/i-just-typed-big-instead-of-git-e55)
+- [Building Bod.Coach: LLM Lessons Learned The Hard Way.](https://dev.to/justinschroeder/building-bodcoach-llm-lessons-learned-the-hard-way-59kf)
+- [Routing in Laravel](https://dev.to/younes_nz/routing-in-laravel-1lk7)
+- [CLI vs IDE Coding Agents: Choose the Right One for 10x Productivity!](https://dev.to/forgecode/cli-vs-ide-coding-agents-choose-the-right-one-for-10x-productivity-5gkc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
