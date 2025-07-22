@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SphereConnect: Creating Team Vibes for Axero&#39;s Intranet Challenge](https://dev.to/highflyer910/sphereconnect-creating-team-vibes-for-axeros-intranet-challenge-41jb)
-- [Has Alibaba&#39;s New Qwen3 AI Really Outperformed Kimi K2 and Claude 4 Opus While Being Open Source?](https://dev.to/jovin_george_733dcfc16291/has-alibabas-new-qwen3-ai-really-outperformed-kimi-k2-and-claude-4-opus-while-being-open-source-2e2b)
-- [What Is an AI Cyber Attack? Understanding Modern AI-Driven Threats](https://dev.to/cygeniq_ai_48d24820ff2bff/what-is-an-ai-cyber-attack-understanding-modern-ai-driven-threats-4o18)
-- [What Is Isaac Sim? Features, Use Cases &amp; Setup Guide](https://dev.to/thenexttech/what-is-isaac-sim-features-use-cases-setup-guide-3ke9)
-- [Performance testing maturity: A comprehensive guide](https://dev.to/gatling/performance-testing-maturity-a-comprehensive-guide-1nif)
+- [🚀 The Future of SEO: Strategy, Structure &amp; Search in 2025 and Beyond](https://dev.to/trixsec/the-future-of-seo-strategy-structure-search-in-2025-and-beyond-993)
+- [🚀 15+ Free &amp; Powerful Tools Every Developer, Hacker, and Tech Enthusiast Should Bookmark in 2025 💻✨](https://dev.to/trixsec/15-free-powerful-tools-every-developer-hacker-and-tech-enthusiast-should-bookmark-in-2025-bbb)
+- [مراحل کنترل پروژه و نقش آن در موفقیت پروژه‌های چابک](https://dev.to/parizad/mrhl-khntrl-prwjh-w-nqsh-an-dr-mwfqyt-prwjhhy-chbkh-5g08)
+- [A simple responsive navbar component with Juris](https://dev.to/artyprog/a-simple-responsive-navbar-component-with-juris-cn8)
+- [How to Build a Headless Shopify Store with React.js &amp; Next.js](https://dev.to/ryan_caldwell/how-to-build-a-headless-shopify-store-with-reactjs-nextjs-2lc7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
