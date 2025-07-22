@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Guides To Python Web App on AWS Lightsail](https://dev.to/haroffcode/guides-to-python-web-app-on-aws-lightsail-i9a)
-- [Is your Vector Database Really Fast?](https://dev.to/redis/is-your-vector-database-really-fast-i62)
-- [Python is DEAD](https://dev.to/thetechpreneur/python-is-dead-58b0)
-- [Tailwind in Reality: Bringing CSS Classes to Life with AI Videos!](https://dev.to/alimobasheri/tailwind-in-reality-bringing-css-classes-to-life-with-ai-videos-40li)
-- [Fixing Clangd &quot;No Locations Found&quot; Error in Neovim for C++ Projects](https://dev.to/arunpal_/fixing-clangd-no-locations-found-error-in-neovim-for-c-projects-2pgl)
+- [WORLD HACKATHON EXPERIENCE SERIES 1](https://dev.to/theneverdone/world-hackathon-experience-series-1-237)
+- [No Laying Up Podcast: Chop Session with DJ Pie | Trap Draw, Ep 351](https://dev.to/youtube_golf/no-laying-up-podcast-chop-session-with-dj-pie-trap-draw-ep-351-2gd9)
+- [Golf.com: Overnight at Bethpage Black: Behind the scenes at golf&#39;s most sought-after muni](https://dev.to/youtube_golf/golfcom-overnight-at-bethpage-black-behind-the-scenes-at-golfs-most-sought-after-muni-2oca)
+- [Grant Horvat: Can I Break 50 with Collin Morikawa?](https://dev.to/youtube_golf/grant-horvat-can-i-break-50-with-collin-morikawa-4085)
+- [Peter Finch Golf: My Lesson With THE WORLD&#39;S No1 PUTTING COACH | Phil Kenyon](https://dev.to/youtube_golf/peter-finch-golf-my-lesson-with-the-worlds-no1-putting-coach-phil-kenyon-1b56)
 <!-- BLOG-POST-LIST:END -->
 
 ---
