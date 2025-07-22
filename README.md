@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The API Apocalypse: When Third-Party Services Turn into Supervillains](https://dev.to/vibhuvibes/the-api-apocalypse-when-third-party-services-turn-into-supervillains-395m)
-- [How to Deploy a Tetris Game on AWS ECS with Terraform](https://dev.to/aws-builders/how-to-deploy-a-tetris-game-on-aws-ecs-with-terraform-59hf)
-- [Best Practices for Ensuring AI Agent Performance and Reliability](https://dev.to/kuldeep_paul/best-practices-for-ensuring-ai-agent-performance-and-reliability-4ok0)
-- [3 TypeScript Playgrounds You Should Definitely Try](https://dev.to/md_motiurrahman/3-typescript-playgrounds-you-should-definitely-try-mfh)
-- [The Problem with Perfect Engineers](https://dev.to/remejuan/the-problem-with-perfect-engineers-3jbm)
+- [Prompt Engineering for Developers: A Practical Guide](https://dev.to/dimagi_sihilel_0d6234fd02/prompt-engineering-for-developers-a-practical-guide-269f)
+- [Designing The Conveyor CI Pipeline Engine](https://dev.to/jimjunior/designing-the-conveyor-ci-pipeline-engine-22f1)
+- [Setting up a multi-factor dev environment for payment approvals](https://dev.to/flutterwaveeng/setting-up-a-multi-factor-dev-environment-for-payment-approvals-1blm)
+- [Data Privacy and Compliance Considerations in Webinar Marketing](https://dev.to/jack_davis_72eff1ff3e4afd/data-privacy-and-compliance-considerations-in-webinar-marketing-13gn)
+- [How to use Terraform to generate secrets](https://dev.to/techielass/how-to-use-terraform-to-generate-secrets-1loh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
