@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [swagrLite ⚡️ – Say Hello to a Lightweight Swagger Editor Alternative](https://dev.to/deyrupak/swagrlite-say-hello-to-a-lightweight-swagger-editor-alternative-4340)
-- [Vibe coding clarity with Kiro specs](https://dev.to/myl3s/vibe-coding-clarity-with-kiro-specs-5e56)
-- [Array programs](https://dev.to/ajay_kumar_6b7bf6882d9319/array-programs-5d9h)
-- [Comunicação Entre a Camada de Domínio e a Camada de Infraestrutura no .NET](https://dev.to/daniloopinheiro/comunicacao-entre-a-camada-de-dominio-e-a-camada-de-infraestrutura-no-net-i7j)
-- [Referential transparency with mutation](https://dev.to/this-is-learning/referential-transparency-with-mutation-3lai)
+- [Guides To Python Web App on AWS Lightsail](https://dev.to/haroffcode/guides-to-python-web-app-on-aws-lightsail-i9a)
+- [Is your Vector Database Really Fast?](https://dev.to/redis/is-your-vector-database-really-fast-i62)
+- [Python is DEAD](https://dev.to/thetechpreneur/python-is-dead-58b0)
+- [Tailwind in Reality: Bringing CSS Classes to Life with AI Videos!](https://dev.to/alimobasheri/tailwind-in-reality-bringing-css-classes-to-life-with-ai-videos-40li)
+- [Fixing Clangd &quot;No Locations Found&quot; Error in Neovim for C++ Projects](https://dev.to/arunpal_/fixing-clangd-no-locations-found-error-in-neovim-for-c-projects-2pgl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
