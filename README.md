@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How AI Is Revolutionizing Industrial Automation &lpar;Faster Than You Think!&rpar;](https://dev.to/ab_devilliars365/how-ai-is-revolutionizing-industrial-automation-faster-than-you-think-93p)
-- [Building Real-Time Web Apps with WebTransport &lpar;Replacing WebSockets?&rpar;](https://dev.to/mukhilpadmanabhan/building-real-time-web-apps-with-webtransport-replacing-websockets-3348)
-- [How to Choose Career-Focused Degrees That Employers Want](https://dev.to/aspseo10/how-to-choose-career-focused-degrees-that-employers-want-lbg)
-- [Vector Databases for Data Scientists: What, Why, and When to Use Them](https://dev.to/fahad_dev/vector-databases-for-data-scientists-what-why-and-when-to-use-them-54m2)
-- [How to Install Docker Engine on Ubuntu &lpar;Debian&rpar;](https://dev.to/coder7475/how-to-install-docker-engine-on-ubuntu-debian-3nbp)
+- [Pulse - The Living Workplace Dashboard](https://dev.to/vivek-aws/pulse-the-living-workplace-dashboard-5af2)
+- [How to Integrate OpenAI in a React App &lpar;Step-by-Step&rpar;](https://dev.to/aneeqakhan/how-to-integrate-openai-in-a-react-app-step-by-step-2k3)
+- [Understanding Statements vs. Expressions in JavaScript](https://dev.to/wisdomudo/understanding-statements-vs-expressions-in-javascript-3acn)
+- [Human Coder Defeats OpenAI in Tokyo—What It Means for the Future of AI Development](https://dev.to/arkhan/human-coder-defeats-openai-in-tokyo-what-it-means-for-the-future-of-ai-development-3b6i)
+- [When Robots Build Your Dining Table](https://dev.to/michael_nielsen_70ab83d55/when-robots-build-your-dining-table-2am8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
