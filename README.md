@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [WORLD HACKATHON EXPERIENCE SERIES 1](https://dev.to/theneverdone/world-hackathon-experience-series-1-237)
-- [No Laying Up Podcast: Chop Session with DJ Pie | Trap Draw, Ep 351](https://dev.to/youtube_golf/no-laying-up-podcast-chop-session-with-dj-pie-trap-draw-ep-351-2gd9)
-- [Golf.com: Overnight at Bethpage Black: Behind the scenes at golf&#39;s most sought-after muni](https://dev.to/youtube_golf/golfcom-overnight-at-bethpage-black-behind-the-scenes-at-golfs-most-sought-after-muni-2oca)
-- [Grant Horvat: Can I Break 50 with Collin Morikawa?](https://dev.to/youtube_golf/grant-horvat-can-i-break-50-with-collin-morikawa-4085)
-- [Peter Finch Golf: My Lesson With THE WORLD&#39;S No1 PUTTING COACH | Phil Kenyon](https://dev.to/youtube_golf/peter-finch-golf-my-lesson-with-the-worlds-no1-putting-coach-phil-kenyon-1b56)
+- [How AI Is Revolutionizing Industrial Automation &lpar;Faster Than You Think!&rpar;](https://dev.to/ab_devilliars365/how-ai-is-revolutionizing-industrial-automation-faster-than-you-think-93p)
+- [Building Real-Time Web Apps with WebTransport &lpar;Replacing WebSockets?&rpar;](https://dev.to/mukhilpadmanabhan/building-real-time-web-apps-with-webtransport-replacing-websockets-3348)
+- [How to Choose Career-Focused Degrees That Employers Want](https://dev.to/aspseo10/how-to-choose-career-focused-degrees-that-employers-want-lbg)
+- [Vector Databases for Data Scientists: What, Why, and When to Use Them](https://dev.to/fahad_dev/vector-databases-for-data-scientists-what-why-and-when-to-use-them-54m2)
+- [How to Install Docker Engine on Ubuntu &lpar;Debian&rpar;](https://dev.to/coder7475/how-to-install-docker-engine-on-ubuntu-debian-3nbp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
