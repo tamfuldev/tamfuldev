@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building RideLink with Bolt.new: From Frustration to Functional App in One Month](https://dev.to/tiagohgl/building-ridelink-with-boltnew-from-frustration-to-functional-app-in-one-month-58me)
-- [How I Use AI to Run My Digital Nomad Business &lpar;While Traveling the World&rpar;](https://dev.to/jcberg/how-i-use-ai-to-run-my-digital-nomad-business-while-traveling-the-world-3gjo)
-- [Measures of central tendency and their significance in the field of data science](https://dev.to/cherotich/measures-of-central-tendency-and-their-significance-in-the-field-of-data-science-4a76)
-- [Teaching the Toaster: What We Get Wrong About AI &quot;Learning&quot;](https://dev.to/darcee/teaching-the-toaster-what-we-get-wrong-about-ai-learning-2ka8)
-- [Understanding LLMs: A Beginner’s Guide for Non-AI Folks](https://dev.to/madhumanti_majumdar_5dd94/understanding-llms-a-beginners-guide-for-non-ai-folks-4m7j)
+- [97% drop in traffic. No code changes. Just added a package.](https://dev.to/avraham_neeman/97-drop-in-traffic-no-code-changes-just-added-a-package-1jba)
+- [The AI tool no one talks about is secretly winning](https://dev.to/sanket_gawas_3d0381846af2/the-ai-tool-no-one-talks-about-is-secretly-winning-3n16)
+- [Build a Production-Ready Crypto Alert System in 20 Minutes](https://dev.to/dbatson/build-a-production-ready-crypto-alert-system-in-20-minutes-3ja1)
+- [Claude Code Tip: Game changer: Ask Claude Code ...](https://dev.to/igorganapolsky/claude-code-tip-game-changer-ask-claude-code--4mog)
+- [Claude Code Debugging Magic](https://dev.to/igorganapolsky/claude-code-debugging-magic-a5k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
