@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [97% drop in traffic. No code changes. Just added a package.](https://dev.to/avraham_neeman/97-drop-in-traffic-no-code-changes-just-added-a-package-1jba)
-- [The AI tool no one talks about is secretly winning](https://dev.to/sanket_gawas_3d0381846af2/the-ai-tool-no-one-talks-about-is-secretly-winning-3n16)
-- [Build a Production-Ready Crypto Alert System in 20 Minutes](https://dev.to/dbatson/build-a-production-ready-crypto-alert-system-in-20-minutes-3ja1)
-- [Claude Code Tip: Game changer: Ask Claude Code ...](https://dev.to/igorganapolsky/claude-code-tip-game-changer-ask-claude-code--4mog)
-- [Claude Code Debugging Magic](https://dev.to/igorganapolsky/claude-code-debugging-magic-a5k)
+- [Ferramentas e rotina nos meus estudos com IA](https://dev.to/anabiscalchin/ferramentas-e-rotina-nos-meus-estudos-com-ia-4alj)
+- [Getting Started with YINI: A Modern, Human-Friendly Config Format](https://dev.to/marko_kseppnen_6250a7f/getting-started-with-yini-a-modern-human-friendly-config-format-4n6p)
+- [Robots-AI: Free Multi-Agent AI Platform](https://dev.to/wissam_metawee_c320c2e1d8/robots-ai-free-multi-agent-ai-platform-1od6)
+- [Domain Event Pattern for Decoupled Architectures](https://dev.to/horse_patterns/domain-event-pattern-for-decoupled-architectures-50mf)
+- [WebForms Core Birthday](https://dev.to/elanatframework/webforms-core-birthday-m0p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
