@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A FREE and Open Source Airtable Alternative - How to Spin Up NocoDB Using Docker](https://dev.to/wimadev/a-free-and-open-source-airtable-alternative-how-to-spin-up-nocodb-using-docker-510a)
-- [Migração para Brighter V10 com MS SQL Server](https://dev.to/actor-dev/migracao-para-brighter-v10-com-ms-sql-server-3knb)
-- [Migrating to Brighter V10 with MS SQL](https://dev.to/actor-dev/migrating-to-brighter-v10-with-ms-sql-11mm)
-- [Excel for Asset Inventory: Why It’s Time for an Upgrade](https://dev.to/teresa_tran/excel-for-asset-inventory-why-its-time-for-an-upgrade-3jj2)
-- [DEK-KEK the industry standard to protect highly sensitive data &lpar;Part 1&rpar;](https://dev.to/anhp9669/dek-kek-the-industry-standard-to-protect-highly-sensitive-data-part-1-4910)
+- [Bidirectional Communication Patterns in Modern Web Apps&lpar;9594&rpar;](https://dev.to/member_8c78b76f/bidirectional-communication-patterns-in-modern-web-apps9594-2625)
+- [Your Device’s ID Cards: IP vs MAC with Real Life Analogies](https://dev.to/speedon_180_d811dcfdf0836/your-devices-id-cards-ip-vs-mac-with-real-life-analogies-3671)
+- [Cross-Platform Web Development Without Compromise&lpar;8237&rpar;](https://dev.to/member_8c78b76f/cross-platform-web-development-without-compromise8237-52k)
+- [5 Big Developer Problems Solved by Knowledge Management Tools](https://dev.to/parizad/5-big-developer-problems-solved-by-knowledge-management-tools-30c1)
+- [This is how My tech journey started....](https://dev.to/shreedh/this-is-how-my-tech-journey-started-5751)
 <!-- BLOG-POST-LIST:END -->
 
 ---
