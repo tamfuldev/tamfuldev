@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Using FireCrawl MCP Server with Claude for Web Scraping](https://dev.to/composiodev/using-firecrawl-mcp-server-with-claude-for-web-scraping-18ig)
-- [JavaScript Private Elements Trump Compile-Time Illusion](https://dev.to/itzsaga/javascript-private-elements-trump-compile-time-illusion-3k7a)
-- [GhostLayer - AI Text Humanization - My first app launching](https://dev.to/hectorta/ghostlayer-ai-text-humanization-my-first-app-launching-2ih1)
-- [Join the Redis AI Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-redis-ai-challenge-3000-in-prizes-3oj2)
-- [Building Offline Apps with Next.js and Serwist](https://dev.to/sukechris/building-offline-apps-with-nextjs-and-serwist-2cbj)
+- [Server-Side Events Implementation for Real-Time Applications&lpar;8587&rpar;](https://dev.to/member_8c78b76f/server-side-events-implementation-for-real-time-applications8587-4m29)
+- [🔄 Just published a new article on enhancing CLI experiences! 🚀 I recently worked on an interesting UX challenge in the JHipster Lite CLI: users were left staring at blank screens during operations, unsure if things were working or frozen. 🤔](https://dev.to/renanfranca/just-published-a-new-article-on-enhancing-cli-experiences-i-recently-worked-on-an-4mll)
+- [Stamp Signatures Made Easy: Sign DOCX Files in Java with Cloud REST API](https://dev.to/shahzad_ashraf_5ea18e2b2d/stamp-signatures-made-easy-sign-docx-files-in-java-with-cloud-rest-api-7bn)
+- [WWDC25: Meet Containerization | Apple](https://dev.to/the-modern-web/wwdc25-meet-containerization-apple-3km2)
+- [Kubernetes + FinOps = OpenCost 🔍💰](https://dev.to/ibbus/kubernetes-finops-opencost-5b4b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
