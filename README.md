@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ferramentas e rotina nos meus estudos com IA](https://dev.to/anabiscalchin/ferramentas-e-rotina-nos-meus-estudos-com-ia-4alj)
-- [Getting Started with YINI: A Modern, Human-Friendly Config Format](https://dev.to/marko_kseppnen_6250a7f/getting-started-with-yini-a-modern-human-friendly-config-format-4n6p)
-- [Robots-AI: Free Multi-Agent AI Platform](https://dev.to/wissam_metawee_c320c2e1d8/robots-ai-free-multi-agent-ai-platform-1od6)
-- [Domain Event Pattern for Decoupled Architectures](https://dev.to/horse_patterns/domain-event-pattern-for-decoupled-architectures-50mf)
-- [WebForms Core Birthday](https://dev.to/elanatframework/webforms-core-birthday-m0p)
+- [Why Your Vibe-Coded App Will Fail &lpar;And How to Fix It&rpar;](https://dev.to/shayy/why-your-vibe-coded-app-will-fail-and-how-to-fix-it-369p)
+- [WinDirStat 2.0 GitHub App – Automate Your Disk Cleanup](https://dev.to/roman_muslikhov_2ab4ae3a2/windirstat-20-github-app-automate-your-disk-cleanup-2k3c)
+- [Neural Networks: Developing a Really Simple Neuron in TypeScript](https://dev.to/joehoppe/neural-networks-developing-a-really-simple-neuron-in-typescript-4fc1)
+- [Which speeds up development more: AI Coding Agents or Pair Programming?](https://dev.to/mrlarson2007/which-speeds-up-development-more-ai-coding-agents-or-pair-programming-5030)
+- [My First Hackathon – 24 Hours, 1 Fintech App, 0 Sleep &lpar;Spoiler: We won a Special Mention too 🏆&rpar;](https://dev.to/zenoguy/my-first-hackathon-24-hours-1-fintech-app-0-sleepspoiler-we-won-a-special-mention-too--3pho)
 <!-- BLOG-POST-LIST:END -->
 
 ---
