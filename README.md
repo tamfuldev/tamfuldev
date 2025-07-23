@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Content Editors Love In-Place Relation Editing](https://dev.to/flotiq/why-content-editors-love-in-place-relation-editing-amg)
-- [PHP 8.3 and What to Expect in PHP 8.4 – A Practical Developer Preview](https://dev.to/patoliyainfotech/php-83-and-what-to-expect-in-php-84-a-practical-developer-preview-526l)
-- [VictoriaMetrics: migrating VMSingle and VictoriaLogs data between Kubernetes clusters](https://dev.to/setevoy/victoriametrics-migrating-vmsingle-and-victorialogs-data-between-kubernetes-clusters-559f)
-- [🌍 How Global Teams Win at UX &lpar;&amp; the CSS Subgrid Power Move&rpar;](https://dev.to/adam/how-global-teams-win-at-ux-the-css-subgrid-power-move-2h3f)
-- [Empathy Engineered](https://dev.to/rawveg/empathy-engineered-1b88)
+- [TIL: How to reset all files in one folder in git](https://dev.to/kummerer94/til-how-to-reset-all-files-in-one-folder-in-git-57ig)
+- [HTML Forms, features and benefits explained](https://dev.to/idrsolutions/html-forms-features-and-benefits-explained-3k4m)
+- [Will OpenTelemetry Slow Down Your .NET App? 🤔](https://dev.to/akshaybora09/will-opentelemetry-slow-down-your-net-app-2ebd)
+- [WireGuard vs OpenVPN — Which VPN Protocol Fits Your Self-Hosting Needs?](https://dev.to/lightningdev123/wireguard-vs-openvpn-which-vpn-protocol-fits-your-self-hosting-needs-2pop)
+- [ELSA &lpar;Emulated Learning and Speech Assistant&rpar;](https://dev.to/vihanga_anuththara_0a402f/elsa-emulated-learning-and-speech-assistant-1kej)
 <!-- BLOG-POST-LIST:END -->
 
 ---
