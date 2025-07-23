@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI Code Editors Are Having Their Main Character Moment in 2025](https://dev.to/humbleakh/ai-code-editors-are-having-their-main-character-moment-in-2025-13k9)
-- [Puppet Core 8.14 Released with Critical Security Patches and AI-powered Doc Search](https://dev.to/puppet/puppet-core-814-released-with-critical-security-patches-and-ai-powered-doc-search-2jn)
-- [A really good and comprehensive list of open source softwares!](https://dev.to/rinsama77/-3o2b)
-- [30 Days of Code- Day 7](https://dev.to/akshitaexe/30-days-of-code-day-7-4bln)
-- [ToDo Today - After the Hack](https://dev.to/lumo1987/todo-today-after-the-hack-1ggb)
+- [Arduino library has few delay function: 1. delay&lpar;&rpar; - as a parameter you should pass a value on milliseconds; 2. delayMicroseconds&lpar;&rpar; - as a parameter you should pass a value on microseconds. I see that really first time.](https://dev.to/snorri1986/arduino-library-has-few-delay-function-1-delay-as-a-parameter-you-should-pass-a-value-on-4m1i)
+- [Advices needed!](https://dev.to/p_abhi110249/advices-needed-4ifo)
+- [How Edge Computing Made Me a Better Programmer: My library now is 10x faster.](https://dev.to/araldhafeeri/how-edge-computing-made-me-a-better-programmer-my-library-now-is-200-faster-50me)
+- [Enforcing Go coding conventions and best practices with Cursor](https://dev.to/sht5/enforcing-go-coding-conventions-and-best-practices-with-cursor-139l)
+- [hcxdupcap: Real-Time WPA Handshake Capture &amp; Cracking Toolkit](https://dev.to/tfmbot/hcxdupcap-real-time-wpa-handshake-capture-cracking-toolkit-3ogg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
