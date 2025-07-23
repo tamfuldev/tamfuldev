@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Bidirectional Communication Patterns in Modern Web Apps&lpar;9594&rpar;](https://dev.to/member_8c78b76f/bidirectional-communication-patterns-in-modern-web-apps9594-2625)
-- [Your Device’s ID Cards: IP vs MAC with Real Life Analogies](https://dev.to/speedon_180_d811dcfdf0836/your-devices-id-cards-ip-vs-mac-with-real-life-analogies-3671)
-- [Cross-Platform Web Development Without Compromise&lpar;8237&rpar;](https://dev.to/member_8c78b76f/cross-platform-web-development-without-compromise8237-52k)
-- [5 Big Developer Problems Solved by Knowledge Management Tools](https://dev.to/parizad/5-big-developer-problems-solved-by-knowledge-management-tools-30c1)
-- [This is how My tech journey started....](https://dev.to/shreedh/this-is-how-my-tech-journey-started-5751)
+- [How to Set Up and Manage APIs Using Kalp Studio’s API Gateway](https://dev.to/kalpstudio/how-to-set-up-and-manage-apis-using-kalp-studios-api-gateway-1me0)
+- [Middleware Architecture Patterns for Request Processing&lpar;1460&rpar;](https://dev.to/member_8c78b76f/middleware-architecture-patterns-for-request-processing1460-46m4)
+- [Using Data Engineering to Track Food Prices and Inflation in Kenya from 2006 to 2025](https://dev.to/dkkinyua/using-data-engineering-to-track-food-prices-and-inflation-in-kenya-from-2006-to-2025-47ja)
+- [10+ Free and Open Source n8n Workflow Automation Templates to Boost Your Productivity](https://dev.to/creativetim_official/10-free-and-open-source-n8n-workflow-automation-templates-to-boost-your-productivity-18j9)
+- [## CodeHarmony](https://dev.to/asume21/-codeharmony-504k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
