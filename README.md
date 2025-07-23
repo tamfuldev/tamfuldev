@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Vibe-Coded App Will Fail &lpar;And How to Fix It&rpar;](https://dev.to/shayy/why-your-vibe-coded-app-will-fail-and-how-to-fix-it-369p)
-- [WinDirStat 2.0 GitHub App – Automate Your Disk Cleanup](https://dev.to/roman_muslikhov_2ab4ae3a2/windirstat-20-github-app-automate-your-disk-cleanup-2k3c)
-- [Neural Networks: Developing a Really Simple Neuron in TypeScript](https://dev.to/joehoppe/neural-networks-developing-a-really-simple-neuron-in-typescript-4fc1)
-- [Which speeds up development more: AI Coding Agents or Pair Programming?](https://dev.to/mrlarson2007/which-speeds-up-development-more-ai-coding-agents-or-pair-programming-5030)
-- [My First Hackathon – 24 Hours, 1 Fintech App, 0 Sleep &lpar;Spoiler: We won a Special Mention too 🏆&rpar;](https://dev.to/zenoguy/my-first-hackathon-24-hours-1-fintech-app-0-sleepspoiler-we-won-a-special-mention-too--3pho)
+- [Please Make Jarvis So I Don’t Have To – Vision from Kent C. Dodds](https://dev.to/om_shree_0709/please-make-jarvis-so-i-dont-have-to-vision-from-kent-c-dodds-564i)
+- [lynnx Theme Pro](https://dev.to/bastndev/lynnx-theme-pro-4gg5)
+- [Middleware Architecture Patterns for Request Processing&lpar;6044&rpar;](https://dev.to/member_8c78b76f/middleware-architecture-patterns-for-request-processing6044-1h2n)
+- [A Simple Guide to Bash Commands for New Developers](https://dev.to/xiaoguang_/a-simple-guide-to-bash-commands-for-new-developers-314a)
+- [🛠️ FastAPI in Production: Build, Scale &amp; Deploy - Series B : Services, Queues &amp; Containers](https://dev.to/mrchike/fastapi-in-production-build-scale-deploy-series-b-services-queues-containers-2i08)
 <!-- BLOG-POST-LIST:END -->
 
 ---
