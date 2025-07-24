@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What Vibe Coding Actually Looks Like for a Senior Engineer](https://dev.to/pmbanugo/what-vibe-coding-actually-looks-like-for-a-senior-engineer-1jgl)
-- [How to Decide if Your Product Needs AI &lpar;or If You’re Just Chasing Trends&rpar;](https://dev.to/codelink/how-to-decide-if-your-product-needs-ai-or-if-youre-just-chasing-trends-n0h)
-- [The Ultimate Guide to Software Architecture in Next.js: From Monolith to Microservices](https://dev.to/shayan_saed/the-ultimate-guide-to-software-architecture-in-nextjs-from-monolith-to-microservices-i2c)
-- [How I replaced Obsidian and Emacs Org-mode with localStorage](https://dev.to/meistertigan/how-i-replaced-obsidian-and-emacs-org-mode-with-localstorage-2co3)
-- [Zed disable AI feature](https://dev.to/xwero/zed-disable-ai-feature-bn1)
+- [🚀 [Open Source] SmoothMotion – Clean, Smooth Animations in Jetpack Compose](https://dev.to/abdullah_alhakimi/open-source-smoothmotion-clean-smooth-animations-in-jetpack-compose-1fa9)
+- [Benchmarking python JSON libraries](https://dev.to/kanakos01/benchmarking-python-json-libraries-33bb)
+- [Your Startup Doesn’t Need a Backend Dev - It Needs a Web3 Integrator!](https://dev.to/vadym_info_polus/your-startup-doesnt-need-a-backend-dev-it-needs-a-web3-integrator-5hn3)
+- [Centralized Data Is No Longer a Luxury, It’s a Performance Driver](https://dev.to/capjud95/centralized-data-is-no-longer-a-luxury-its-a-performance-driver-57jb)
+- [Synchronous by Design: Why async/await in REST or gRPC Doesn’t Make Your System Asynchronous](https://dev.to/iamcymentho/synchronous-by-design-why-asyncawait-in-rest-or-grpc-doesnt-make-your-system-asynchronous-10a6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
