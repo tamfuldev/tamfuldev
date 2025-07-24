@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Rethinking UI in Agent Driven Systems](https://dev.to/infoxicator/rethinking-ui-in-agent-driven-systems-10nd)
-- [AI Agents: From Tools to Teammates](https://dev.to/gamepill/ai-agents-from-tools-to-teammates-2c7h)
-- [How I Built a Global NGO Website on AWS S3 for Pennies – A Practical Step-by-Step Guide](https://dev.to/peter_samuel_052b9056e236/how-i-built-a-global-ngo-website-on-aws-s3-for-pennies-a-practical-step-by-step-guide-256)
-- [Why I Built My Own Markup Language for AI-Powered Video Editing](https://dev.to/idrees_a/why-i-built-my-own-markup-language-for-ai-powered-video-editing-5925)
-- [Resource Management and Memory Efficiency in Web Servers&lpar;7195&rpar;](https://dev.to/member_8c78b76f/resource-management-and-memory-efficiency-in-web-servers7195-3o10)
+- [Cross-Platform Web Development Without Compromise&lpar;6096&rpar;](https://dev.to/member_8c78b76f/cross-platform-web-development-without-compromise6096-800)
+- [🚀 Uploading Files to Anthropic AI Using Node.js](https://dev.to/princeaden1/uploading-files-to-anthropic-ai-using-nodejs-1g44)
+- [Coffee culture = office culture](https://dev.to/ulrikedetective/coffee-culture-office-culture-ljd)
+- [Ultimate Optimization of Lightweight Server Architecture&lpar;1531&rpar;](https://dev.to/member_8c78b76f/ultimate-optimization-of-lightweight-server-architecture1531-4dpk)
+- [Serverless FastAPI Security: Unlocked Doors Invite Unwanted Guests](https://dev.to/aws-builders/serverless-fastapi-security-unlocked-doors-invite-unwanted-guests-5fnl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
