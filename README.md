@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Scalable Web Apps on AWS: My Hands-On Journey with ALBs, ASGs, and Custom VPCs](https://dev.to/deepaksonii/building-scalable-web-apps-on-aws-my-hands-on-journey-with-albs-asgs-and-custom-vpcs-58p7)
-- [High-Performance Routing System Design and Implementation&lpar;2041&rpar;](https://dev.to/member_8c78b76f/high-performance-routing-system-design-and-implementation2041-2k8a)
-- [TCP Optimization Techniques for Web Server Performance&lpar;6345&rpar;](https://dev.to/member_8c78b76f/tcp-optimization-techniques-for-web-server-performance6345-a87)
-- [How to Manage virtual machines](https://dev.to/zube/how-to-manage-virtual-machines-4l3l)
-- [Umemura Farm Website – Devlog #41: LP is completed!](https://dev.to/ri_ki_251ca3db361b527f552/umemura-farm-website-devlog-41-lp-is-completed-g97)
+- [The Rise of Deepfake Threats in Cybersecurity](https://dev.to/__52904/the-rise-of-deepfake-threats-in-cybersecurity-1nm5)
+- [How to Protect an Application from Cyber Attacks](https://dev.to/carrie_luo1/how-to-protect-an-application-from-cyber-attacks-1j42)
+- [New 0day RCE in Apache OFBiz &lpar;CVE-2023-51467&rpar;: Patch Now](https://dev.to/sharon_42e16b8da44dabde6d/new-0day-rce-in-apache-ofbiz-cve-2023-51467-patch-now-p53)
+- [Introducing marchat: A Real-Time Terminal-Based Chat App in Go](https://dev.to/cod-e-codes/introducing-marchat-a-real-time-terminal-based-chat-app-in-go-3188)
+- [Middleware Architecture Patterns for Request Processing&lpar;8315&rpar;](https://dev.to/member_8c78b76f/middleware-architecture-patterns-for-request-processing8315-5d9j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
