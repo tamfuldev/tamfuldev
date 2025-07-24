@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Unify Your GenAI Arsenal: Deploying Bedrock, Gemini, and More with LiteLLM](https://dev.to/binyam/unify-your-genai-arsenal-deploying-bedrock-gemini-and-more-with-litellm-3701)
-- [trap for beginners in C++](https://dev.to/snorri1986/trap-for-beginners-in-c-3k7f)
-- [D4](https://dev.to/gchar/d4-3fa)
-- [Just finished writing my project for AssemblyAI Challenge.](https://dev.to/pravesh_sudha_3c2b0c2b5e0/just-finished-writing-my-project-for-assemblyai-challenge-518d)
-- [How I Built a Simple Shell in C – A Beginner&#39;s Guide to System Programming &lpar;3/3&rpar;](https://dev.to/ertugrulmutlu/how-i-built-a-simple-shell-in-c-a-beginners-guide-to-system-programming-33-eah)
+- [Rethinking UI in Agent Driven Systems](https://dev.to/infoxicator/rethinking-ui-in-agent-driven-systems-10nd)
+- [AI Agents: From Tools to Teammates](https://dev.to/gamepill/ai-agents-from-tools-to-teammates-2c7h)
+- [How I Built a Global NGO Website on AWS S3 for Pennies – A Practical Step-by-Step Guide](https://dev.to/peter_samuel_052b9056e236/how-i-built-a-global-ngo-website-on-aws-s3-for-pennies-a-practical-step-by-step-guide-256)
+- [Why I Built My Own Markup Language for AI-Powered Video Editing](https://dev.to/idrees_a/why-i-built-my-own-markup-language-for-ai-powered-video-editing-5925)
+- [Resource Management and Memory Efficiency in Web Servers&lpar;7195&rpar;](https://dev.to/member_8c78b76f/resource-management-and-memory-efficiency-in-web-servers7195-3o10)
 <!-- BLOG-POST-LIST:END -->
 
 ---
