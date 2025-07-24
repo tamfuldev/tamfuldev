@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What are Your Daily Driver Apps??](https://dev.to/dirsebastian/what-are-your-daily-driver-apps-442k)
-- [Forked by Cursor: The Hidden Cost of VS Code Fragmentation](https://dev.to/pullflow/forked-by-cursor-the-hidden-cost-of-vs-code-fragmentation-4p1)
-- [We’re live on Product Hunt today! Support us here https://www.producthunt.com/products/microtica-ai-agents-for-devops](https://dev.to/mmarulka/were-live-on-product-hunt-today-support-us-here--2kmk)
-- [Entiende el Aspect Ratio en CSS](https://dev.to/byandrev/entiende-el-aspect-ratio-en-css-3314)
-- [为什么我讨厌与马来西亚的软件公司合作？](https://dev.to/ctkqiang/wei-shi-yao-wo-tao-yan-yu-ma-lai-xi-ya-de-ruan-jian-gong-si-he-zuo--3l6j)
+- [How I Built a Self-Updating AI Sales Agent for Using Perplexity Public Rooms](https://dev.to/alifar/how-i-built-a-self-updating-ai-sales-agent-for-using-perplexity-public-rooms-547h)
+- [Understanding Docker Buildx &amp; Builder: Modern Docker Builds with BuildKit](https://dev.to/lovestaco/understanding-docker-buildx-builder-modern-docker-builds-with-buildkit-1hd)
+- [New Project](https://dev.to/harith_y_a97ea256afe8255f/new-project-564e)
+- [RAG Chatbot - MoviesGPT](https://dev.to/harith_y_a97ea256afe8255f/rag-chatbot-moviesgpt-15mm)
+- [Get started on building AI Automations in Salesforce with Agentforce](https://dev.to/hemantj/get-started-on-building-ai-automations-in-salesforce-with-agentforce-3oh6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
