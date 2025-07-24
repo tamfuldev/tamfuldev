@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dreaming of Jupiter - Three.js](https://dev.to/blancmonarch/dreaming-of-jupiter-threejs-3bdc)
-- [Building a TypeScript Library in 2025](https://dev.to/arshadyaseen/building-a-typescript-library-in-2025-2h0i)
-- [How I make teams productive](https://dev.to/bookofcooks/how-i-make-teams-productive-4603)
-- [WebGL Distortion Slider](https://dev.to/blancmonarch/webgl-distortion-slider-49f4)
-- [Complete Hummingbot Arbitrage Usage Guide](https://dev.to/einarcesar/complete-hummingbot-arbitrage-usage-guide-1g32)
+- [Building Scalable Web Apps on AWS: My Hands-On Journey with ALBs, ASGs, and Custom VPCs](https://dev.to/deepaksonii/building-scalable-web-apps-on-aws-my-hands-on-journey-with-albs-asgs-and-custom-vpcs-58p7)
+- [High-Performance Routing System Design and Implementation&lpar;2041&rpar;](https://dev.to/member_8c78b76f/high-performance-routing-system-design-and-implementation2041-2k8a)
+- [TCP Optimization Techniques for Web Server Performance&lpar;6345&rpar;](https://dev.to/member_8c78b76f/tcp-optimization-techniques-for-web-server-performance6345-a87)
+- [How to Manage virtual machines](https://dev.to/zube/how-to-manage-virtual-machines-4l3l)
+- [Umemura Farm Website – Devlog #41: LP is completed!](https://dev.to/ri_ki_251ca3db361b527f552/umemura-farm-website-devlog-41-lp-is-completed-g97)
 <!-- BLOG-POST-LIST:END -->
 
 ---
