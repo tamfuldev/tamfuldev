@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 [Open Source] SmoothMotion – Clean, Smooth Animations in Jetpack Compose](https://dev.to/abdullah_alhakimi/open-source-smoothmotion-clean-smooth-animations-in-jetpack-compose-1fa9)
-- [Benchmarking python JSON libraries](https://dev.to/kanakos01/benchmarking-python-json-libraries-33bb)
-- [Your Startup Doesn’t Need a Backend Dev - It Needs a Web3 Integrator!](https://dev.to/vadym_info_polus/your-startup-doesnt-need-a-backend-dev-it-needs-a-web3-integrator-5hn3)
-- [Centralized Data Is No Longer a Luxury, It’s a Performance Driver](https://dev.to/capjud95/centralized-data-is-no-longer-a-luxury-its-a-performance-driver-57jb)
-- [Synchronous by Design: Why async/await in REST or gRPC Doesn’t Make Your System Asynchronous](https://dev.to/iamcymentho/synchronous-by-design-why-asyncawait-in-rest-or-grpc-doesnt-make-your-system-asynchronous-10a6)
+- [What are Your Daily Driver Apps??](https://dev.to/dirsebastian/what-are-your-daily-driver-apps-442k)
+- [Forked by Cursor: The Hidden Cost of VS Code Fragmentation](https://dev.to/pullflow/forked-by-cursor-the-hidden-cost-of-vs-code-fragmentation-4p1)
+- [We’re live on Product Hunt today! Support us here https://www.producthunt.com/products/microtica-ai-agents-for-devops](https://dev.to/mmarulka/were-live-on-product-hunt-today-support-us-here--2kmk)
+- [Entiende el Aspect Ratio en CSS](https://dev.to/byandrev/entiende-el-aspect-ratio-en-css-3314)
+- [为什么我讨厌与马来西亚的软件公司合作？](https://dev.to/ctkqiang/wei-shi-yao-wo-tao-yan-yu-ma-lai-xi-ya-de-ruan-jian-gong-si-he-zuo--3l6j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
