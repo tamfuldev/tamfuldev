@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Skin Progress Monitoring App Using Python and Flutter](https://dev.to/karen_londres/how-to-build-a-skin-progress-monitoring-app-using-python-and-flutter-2773)
-- [Error Handling Strategies in High-Performance Web Servers&lpar;0819&rpar;](https://dev.to/member_8c78b76f/error-handling-strategies-in-high-performance-web-servers0819-1hb0)
-- [Reformas e Manutenções: Como Tornar Seu Projeto Prático, Seguro e Econômico](https://dev.to/pianocoat26/reformas-e-manutencoes-como-tornar-seu-projeto-pratico-seguro-e-economico-1og2)
-- [Modernização no Dia a Dia: Como a Aluguel de Máquinas Transforma Pequenos Trabalhos em Grandes Conquistas](https://dev.to/syrianerve09/modernizacao-no-dia-a-dia-como-a-aluguel-de-maquinas-transforma-pequenos-trabalhos-em-grandes-3a2d)
-- [Aluguel para Consultores Independentes: A Abordagem Inteligente que Moderniza Projetos e Reformas no Brasil](https://dev.to/honeyoffice1/aluguel-para-consultores-independentes-a-abordagem-inteligente-que-moderniza-projetos-e-reformas-1p99)
+- [How to use the Slack MCP server with Claude flawlessly](https://dev.to/composiodev/how-to-use-the-slack-mcp-server-with-claude-flawlessly-2dao)
+- [Elegant Middleware Architecture Implementation&lpar;4257&rpar;](https://dev.to/member_8c78b76f/elegant-middleware-architecture-implementation4257-50pf)
+- [Title: Making the Big Move to the U.K.: Should I Invest My $30K Savings or Pay Down My Mortgage?](https://dev.to/yagyaraj_sharma_6cd410179/title-making-the-big-move-to-the-uk-should-i-invest-my-30k-savings-or-pay-down-my-mortgage-2m1i)
+- [I Built an Tool to AI Agent Testing](https://dev.to/lfrichter/i-built-an-tool-to-ai-agent-testing-3co8)
+- [High-Performance Routing System Design and Implementation&lpar;9420&rpar;](https://dev.to/member_8c78b76f/high-performance-routing-system-design-and-implementation9420-24l3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
