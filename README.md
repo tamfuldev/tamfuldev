@@ -16,7 +16,7 @@
 # Latest stack oveflow activity
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><tr><td>shopify admin API create product not working</td><td>https://stackoverflow.com/questions/79714475/shopify-admin-api-create-product-not-working</td></tr><tr><td>Add Imagick to Xampp on linux</td><td>https://stackoverflow.com/questions/79714438/add-imagick-to-xampp-on-linux</td></tr><tr><td>Etag Implementation in Magento2</td><td>https://stackoverflow.com/questions/79714315/etag-implementation-in-magento2</td></tr><tr><td>Opening website on localhost show black page [closed]</td><td>https://stackoverflow.com/questions/79714243/opening-website-on-localhost-show-black-page</td></tr><tr><td>number_format only works up to 999,99 [closed]</td><td>https://stackoverflow.com/questions/79714029/number-format-only-works-up-to-999-99</td></tr><!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:START --><tr><td>Add Imagick to Xampp on linux</td><td>https://stackoverflow.com/questions/79714438/add-imagick-to-xampp-on-linux</td></tr><tr><td>Etag Implementation in Magento2</td><td>https://stackoverflow.com/questions/79714315/etag-implementation-in-magento2</td></tr><tr><td>Opening website on localhost show black page [closed]</td><td>https://stackoverflow.com/questions/79714243/opening-website-on-localhost-show-black-page</td></tr><tr><td>number_format only works up to 999,99 [closed]</td><td>https://stackoverflow.com/questions/79714029/number-format-only-works-up-to-999-99</td></tr><tr><td>How to reference current property value in class property attribute in PHP 8.4?</td><td>https://stackoverflow.com/questions/79713904/how-to-reference-current-property-value-in-class-property-attribute-in-php-8-4</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 
 ---
