@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What is a Load Balancer? A Beginner&#39;s Guide with Examples](https://dev.to/sanny10k_coders_4f9d0316d/what-is-a-load-balancer-a-beginners-guide-with-examples-8ln)
-- [⚔️ The Mighty MERGE: Using SQL Merge Statements Safely with EF Core](https://dev.to/stevsharp/the-mighty-merge-using-sql-merge-statements-safely-with-ef-core-3boo)
-- [Making blockchain data sane with smarter tools](https://dev.to/rocknblock/making-blockchain-data-sane-with-smarter-tools-3e7a)
-- [Compilation and Execution of Static and Instance Members in C# &lpar;article&rpar;](https://dev.to/eylifyucel/compilation-and-execution-of-static-and-instance-members-in-c-article-fgf)
-- [Find out max and min value in array](https://dev.to/flevia/find-out-max-and-min-value-in-array-1606)
+- [Building a Modern Image Pipeline: From Upload to Optimization in 2025](https://dev.to/hardik_b2d8f0bca/building-a-modern-image-pipeline-from-upload-to-optimization-in-2025-219j)
+- [Filtering Lines with `grep` in Helix Editor](https://dev.to/gokayburuc/filtering-lines-with-grep-in-helix-editor-pnb)
+- [Why Go’s Simplicity Is Its Greatest Engineering Strength](https://dev.to/xinjie_zou_d67d2805538130/why-gos-simplicity-is-its-greatest-engineering-strength-33k)
+- [Your Money, Their Syntax: How LLMs Write Trust into Empty Crypto Promises](https://dev.to/agustin_v_startari/your-money-their-syntax-how-llms-write-trust-into-empty-crypto-promises-4bdg)
+- [Windows 11 Key Explained : Activation, Licensing, and Best Practices](https://dev.to/windows11key/windows-11-key-explained-activation-licensing-and-best-practices-30m0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
