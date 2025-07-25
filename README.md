@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [When Companions Gaslight](https://dev.to/rawveg/when-companions-gaslight-218n)
-- [🧠 The Ultimate AI Showdown: Which Tools Actually Deliver in 2025?](https://dev.to/tahamjp/the-ultimate-ai-showdown-which-tools-actually-deliver-in-2025-45p3)
-- [✨ Automate Your ML Pipelines with MLFCrafter &lpar;Open Source&rpar;](https://dev.to/burakcvlk/automate-your-ml-pipelines-with-mlfcrafter-open-source-13p9)
-- [🚀 Join the Super Productivity Remote Mini Hackathon – Win €150!](https://dev.to/johannesjo/join-the-super-productivity-remote-mini-hackathon-win-eu150-221i)
-- [Top 5 Tools to Attach Human Feedback to Agent Runs](https://dev.to/kuldeep_paul/top-5-tools-to-attach-human-feedback-to-agent-runs-261j)
+- [What is a Load Balancer? A Beginner&#39;s Guide with Examples](https://dev.to/sanny10k_coders_4f9d0316d/what-is-a-load-balancer-a-beginners-guide-with-examples-8ln)
+- [⚔️ The Mighty MERGE: Using SQL Merge Statements Safely with EF Core](https://dev.to/stevsharp/the-mighty-merge-using-sql-merge-statements-safely-with-ef-core-3boo)
+- [Making blockchain data sane with smarter tools](https://dev.to/rocknblock/making-blockchain-data-sane-with-smarter-tools-3e7a)
+- [Compilation and Execution of Static and Instance Members in C# &lpar;article&rpar;](https://dev.to/eylifyucel/compilation-and-execution-of-static-and-instance-members-in-c-article-fgf)
+- [Find out max and min value in array](https://dev.to/flevia/find-out-max-and-min-value-in-array-1606)
 <!-- BLOG-POST-LIST:END -->
 
 ---
