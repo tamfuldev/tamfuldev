@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Debugging MATLAB Scripts Like a Pro: Common Mistakes and How to Fix Them](https://dev.to/dumboprogrammer/debugging-matlab-scripts-like-a-pro-common-mistakes-and-how-to-fix-them-1on)
-- [Day 3 of My React Journey: Why Hooks Exist + Built a Counter App with useState](https://dev.to/usman_butt_dev/day-3-of-my-react-journey-why-hooks-exist-built-a-counter-app-with-usestate-19oj)
-- [Top 5 Python Libraries Every Control Engineer Should Know](https://dev.to/dumboprogrammer/top-5-python-libraries-every-control-engineer-should-know-3ejl)
-- [How Engineers Can Use MATLAB and Python Together: A Programmer’s Guide](https://dev.to/dumboprogrammer/how-engineers-can-use-matlab-and-python-together-a-programmers-guide-h2)
-- [Threads, Tasks, and Async in C#: What Every .NET Developer Must Know](https://dev.to/iamcymentho/threads-tasks-and-async-in-c-what-every-net-developer-must-know-2nlc)
+- [📦 What is DBMS and Why You Should Care](https://dev.to/mushfiqurrahman/what-is-dbms-and-why-you-should-care-4077)
+- [Custom CUDA Kernels Outperforming cuBLAS: Deep Dive into GPU Memory Optimization for Small-Batch ML Workloads](https://dev.to/shreshth_kapai_2c604e9d4f/custom-cuda-kernels-outperforming-cublas-deep-dive-into-gpu-memory-optimization-for-small-batch-ml-57cb)
+- [Launching PROTOCORE Signals: A Lightweight System for Multilingual Knowledge Prompts](https://dev.to/sfnzai/launching-protocore-signals-a-lightweight-system-for-multilingual-knowledge-prompts-4e2o)
+- [Single bash script to install CUDA 12.8 on Ubuntu](https://dev.to/mc-nicbaughman/single-bash-script-to-install-cuda-128-on-ubuntu-3g1n)
+- [Lessons Learned from Building an MCP Client](https://dev.to/aws-builders/lessons-learned-from-building-an-mcp-client-30if)
 <!-- BLOG-POST-LIST:END -->
 
 ---
