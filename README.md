@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Brighter V10: Using PostgreSQL as a Lightweight Messaging Gateway](https://dev.to/actor-dev/brighter-v10-using-postgresql-as-a-lightweight-messaging-gateway-3747)
-- [How can Developers 💪help💪 or 💥hurt💥 the Daily Scrum?](https://dev.to/starkmapper/how-can-developers-help-or-hurt-the-daily-scrum-4knp)
-- [Brighter V10: Utilizando PostgreSQL como Gateway de Mensagens Leve](https://dev.to/actor-dev/brighter-v10-utilizando-postgresql-como-gateway-de-mensagens-leve-1gff)
-- [7 Image Conversion Mistakes That Are Killing Your App Performance &lpar;And How to Fix Them&rpar;](https://dev.to/hardik_b2d8f0bca/7-image-conversion-mistakes-that-are-killing-your-app-performance-and-how-to-fix-them-1lgd)
-- [ios :18 pic issue](https://dev.to/monu_kashyap_9015/ios-18-pic-issue-2ape)
+- [🚀 Qwen3‑Coder + Qwen Code CLI: A Powerful Open Source Alternative to Claude for Developers](https://dev.to/poojan_vig_0c5a3a104afc31/qwen3-coder-qwen-code-cli-a-powerful-open-source-alternative-to-claude-for-developers-2j45)
+- [Best Practices for Overcoming SIEM Integration and Security Challenges](https://dev.to/kapusto/best-practices-for-overcoming-siem-integration-and-security-challenges-531l)
+- [So Cool!](https://dev.to/assosam_ocr/so-cool-11ka)
+- [3487. Maximum Unique Subarray Sum After Deletion](https://dev.to/mdarifulhaque/3487-maximum-unique-subarray-sum-after-deletion-5d7g)
+- [Introduction to Grafana Cloud &amp; Account Creation](https://dev.to/srinivasuluparanduru/introduction-to-grafana-cloud-account-creation-514)
 <!-- BLOG-POST-LIST:END -->
 
 ---
