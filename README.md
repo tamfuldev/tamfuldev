@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Overcoming AWS Security Alert Fatigue](https://dev.to/aws-builders/overcoming-aws-security-alert-fatigue-e28)
-- [Keeping MCP Inspector Safe: Lessons from CVE‑2025‑49596](https://dev.to/om_shree_0709/keeping-mcp-inspector-safe-lessons-from-cve-2025-49596-547d)
-- [Why AI Hallucinations Cost Businesses Millions and How BAML Prevents Them](https://dev.to/talweezy/why-ai-hallucinations-cost-businesses-millions-and-how-baml-prevents-them-49bm)
-- [Benefits of OLAP and OLTP in Data Management.](https://dev.to/erickaranja17/benefits-of-olap-and-oltp-in-data-management-26cl)
-- [We submitted the same app in the bolt Hackathon!](https://dev.to/davidos366/we-submitted-the-same-app-in-the-bolt-hackathon-2cgl)
+- [Debugging MATLAB Scripts Like a Pro: Common Mistakes and How to Fix Them](https://dev.to/dumboprogrammer/debugging-matlab-scripts-like-a-pro-common-mistakes-and-how-to-fix-them-1on)
+- [Day 3 of My React Journey: Why Hooks Exist + Built a Counter App with useState](https://dev.to/usman_butt_dev/day-3-of-my-react-journey-why-hooks-exist-built-a-counter-app-with-usestate-19oj)
+- [Top 5 Python Libraries Every Control Engineer Should Know](https://dev.to/dumboprogrammer/top-5-python-libraries-every-control-engineer-should-know-3ejl)
+- [How Engineers Can Use MATLAB and Python Together: A Programmer’s Guide](https://dev.to/dumboprogrammer/how-engineers-can-use-matlab-and-python-together-a-programmers-guide-h2)
+- [Threads, Tasks, and Async in C#: What Every .NET Developer Must Know](https://dev.to/iamcymentho/threads-tasks-and-async-in-c-what-every-net-developer-must-know-2nlc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
