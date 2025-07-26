@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Title: Google&#39;s New Web Guide Search Experiment: Organizing Search Results with AI](https://dev.to/yagyaraj_sharma_6cd410179/title-googles-new-web-guide-search-experiment-organizing-search-results-with-ai-17l0)
-- [I Built an AI Toolset That Applies to Jobs While I Sleep &lpar;You Should Use It Too&rpar;](https://dev.to/stmovva/i-built-an-ai-toolset-that-applies-to-jobs-while-i-sleep-you-should-use-it-too-3hk4)
-- [Title: Thinking Machines Announces New Product Release with Significant Open Source Component](https://dev.to/yagyaraj_sharma_6cd410179/title-thinking-machines-announces-new-product-release-with-significant-open-source-component-316l)
-- [Title: Bitcoin Options Gamma Pin at $123k: A Technical Analysis](https://dev.to/yagyaraj_sharma_6cd410179/title-bitcoin-options-gamma-pin-at-123k-a-technical-analysis-3m62)
-- [游戏行业财报](https://dev.to/woodyxin/you-xi-xing-ye-cai-bao-3jfd)
+- [Coze 开源了！所有人都可以免费使用了](https://dev.to/immerse/coze-kai-yuan-liao-suo-you-ren-du-ke-yi-mian-fei-shi-yong-liao-19ef)
+- [Understanding IMAP and SMTP Mail Protocols](https://dev.to/woovi/understanding-imap-and-smtp-mail-protocols-1bch)
+- [Code Quality Check with PHPStan](https://dev.to/nasrulhazim/code-quality-check-with-phpstan-4b0a)
+- [AI Recommendation Engine with Redis:Real-Time AI Innovators](https://dev.to/cliffordisaboke/ai-recommendation-engine-with-redis-4ei2)
+- [E-Commerce System Powered by Redis: Beyond the Cache](https://dev.to/cliffordisaboke/e-commerce-system-powered-by-redis-beyond-the-cache-mc1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
