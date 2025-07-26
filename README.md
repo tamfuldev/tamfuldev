@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Security news weekly round-up - 25th July 2025](https://dev.to/ziizium/security-news-weekly-round-up-25th-july-2025-5dj5)
-- [LearnSync – A Unified Knowledge Explorer](https://dev.to/pulkitgovrani/learnsync-a-unified-knowledge-explorer-322k)
-- [Test title](https://dev.to/hiagoscierry/test-title-149h)
-- [Clipper: Orchestrating Amazon Q with Algolia MCP for Read-Later Link Management](https://dev.to/ykimura/clipper-orchestrating-amazon-q-with-algolia-mcp-for-read-later-link-management-40oi)
-- [AI in Freight: Cutting Emissions with Smarter Load Optimization](https://dev.to/pelumi_ayomide_048561a48e/ai-in-freight-cutting-emissions-with-smarter-load-optimization-d9i)
+- [Title: Google&#39;s New Web Guide Search Experiment: Organizing Search Results with AI](https://dev.to/yagyaraj_sharma_6cd410179/title-googles-new-web-guide-search-experiment-organizing-search-results-with-ai-17l0)
+- [I Built an AI Toolset That Applies to Jobs While I Sleep &lpar;You Should Use It Too&rpar;](https://dev.to/stmovva/i-built-an-ai-toolset-that-applies-to-jobs-while-i-sleep-you-should-use-it-too-3hk4)
+- [Title: Thinking Machines Announces New Product Release with Significant Open Source Component](https://dev.to/yagyaraj_sharma_6cd410179/title-thinking-machines-announces-new-product-release-with-significant-open-source-component-316l)
+- [Title: Bitcoin Options Gamma Pin at $123k: A Technical Analysis](https://dev.to/yagyaraj_sharma_6cd410179/title-bitcoin-options-gamma-pin-at-123k-a-technical-analysis-3m62)
+- [游戏行业财报](https://dev.to/woodyxin/you-xi-xing-ye-cai-bao-3jfd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
