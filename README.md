@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DevSecOps with Github Actions and ArgoCD](https://dev.to/subham_behera/devsecops-with-github-actions-and-argocd-48c6)
-- [Query Smarter, Not Harder](https://dev.to/yogi_rahul/query-smarter-not-harder-ci5)
-- [My Best Web Development and Design Resources for 2025](https://dev.to/shatlyk/my-best-web-development-and-design-resources-for-2025-n3c)
-- [Deploy Node.js app anywhere with TurboCloud](https://dev.to/turbocloud_dev/deploy-nodejs-app-anywhere-with-turbocloud-2pji)
-- [Um...... I don&#39;t know what to do with my hands.](https://dev.to/duck13/um-i-dont-know-what-to-do-with-my-hands-24o8)
+- [Locally Weighted Linear Regression: When One Line Isn&#39;t Enough &lpar;and Why It&#39;s Non-Parametric!&rpar; ✨🗺️](https://dev.to/randhir_kumar_6ccab967a14/locally-weighted-linear-regression-when-one-line-isnt-enough-and-why-its-non-parametric-3kca)
+- [🔄 Introducing Galus: A Lightweight and Blazing-Fast Live Reload Tool for Go Developers](https://dev.to/aliftech/introducing-galus-a-lightweight-and-blazing-fast-live-reload-tool-for-go-developers-1glg)
+- [Code Splitting, Dynamic Imports &amp; Bundle Analysis](https://dev.to/maurya-sachin/code-splitting-dynamic-imports-bundle-analysis-3an2)
+- [How Do Great Developers Manage Their Time Without Using 10 Different Tools?](https://dev.to/pratham_naik_project_manager/how-do-great-developers-manage-their-time-without-using-10-different-tools-35a5)
+- [Starting My Coding Journey — First Post](https://dev.to/aadhi5h/starting-my-coding-journey-first-post-467e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
