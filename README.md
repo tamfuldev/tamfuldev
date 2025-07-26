@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top 8 React Component Libraries You Should Know](https://dev.to/devshefali/top-8-react-component-libraries-you-should-know-d7e)
-- [I proved ChatGPT wrong for the first time!](https://dev.to/vishal_narayan_75221d21cc/i-proved-chatgpt-wrong-for-the-first-time-4i54)
-- [Tube Magic Alternative That Actually Delivers: Why I Switched to Pictory AI](https://dev.to/aidencarter55/tube-magic-alternative-that-actually-delivers-why-i-switched-to-pictory-ai-17ld)
-- [Module 3: Testing Framework - Quality Assurance with Bazel](https://dev.to/sushilbaligar/module-3-testing-framework-quality-assurance-with-bazel-2056)
-- [CSS Art: Office Culture – Work From the Office](https://dev.to/treciaks/css-art-office-culture-work-from-the-office-1ieg)
+- [Recreating Chrome&#39;s Classic: A Pixel-Perfect QR Code Generator Extension Built with WebAssembly](https://dev.to/liuliangsir/recreating-chromes-classic-a-pixel-perfect-qr-code-generator-extension-built-with-webassembly-3i9a)
+- [[Prompt] ND-ReRanker v 0.1](https://dev.to/neuron_dev/prompt-nd-reranker-v-01-494j)
+- [Cloning Users in Dynamics 365 CE Security App via Plugin](https://dev.to/nikhildynamicsce/cloning-users-in-dynamics-365-ce-security-app-via-plugin-cgf)
+- [Modern Bazel with Python-Module 5: Advanced Python Rules and Toolchains](https://dev.to/sushilbaligar/modern-bazel-with-python-module-5-advanced-python-rules-and-toolchains-1aep)
+- [From SMA to TEMA: Coding Technical Indicators in Python — Building stocksimpy 2](https://dev.to/suleyman_sade/from-sma-to-tema-coding-technical-indicators-in-python-building-stocksimpy-2-3162)
 <!-- BLOG-POST-LIST:END -->
 
 ---
