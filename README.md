@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Hybrid Intrane -Modern PWA Dashboard](https://dev.to/paulo_abbcba03b4df70572fc/hybrid-intrane-modern-pwa-dashboard-4e08)
-- [Between Doing and Doing Well: A Quest for Effectiveness and Excellence](https://dev.to/gstxxx/between-doing-and-doing-well-a-quest-for-effectiveness-and-excellence-j78)
-- [Novalink System](https://dev.to/melody_kelly_n/novalink-system-jc2)
-- [Remote Team Collaboration Made Easy](https://dev.to/anuragbhagsain/remote-team-collaboration-made-easy-8-strategies-for-better-results-3ga)
-- [Precision Engineering in Lithography: Behind the Semiconductor Machines](https://dev.to/aleemalrazeetonoy/precision-engineering-in-lithography-behind-the-semiconductor-machines-2cg6)
+- [How We Built Zero-Knowledge Encryption in the Browser &lpar;So We Can&#39;t Read Your Notes&rpar;](https://dev.to/typelets/how-we-built-zero-knowledge-encryption-in-the-browser-so-we-cant-read-your-notes-3c7a)
+- [Late Night Work #20](https://dev.to/0xj0n1/late-night-work-20-39pe)
+- [Git Guide to Delete Old Commits and Clear Sensitive Info from Git History](https://dev.to/chefgs/git-guide-to-delete-old-commits-and-clear-sensitive-files-from-git-history-4l71)
+- [the easiest dark mode for beginners](https://dev.to/amr2010m/the-easiest-dark-mode-for-beginners-a1j)
+- [I Accidentally Discovered a Hidden Gem for Testing Premium AI Models &lpar;Completely Free!&rpar;](https://dev.to/puneet-chandna/i-accidentally-discovered-a-hidden-gem-for-testing-premium-ai-models-completely-free-2k3c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
