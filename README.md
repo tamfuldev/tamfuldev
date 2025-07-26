@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Coze 开源了！所有人都可以免费使用了](https://dev.to/immerse/coze-kai-yuan-liao-suo-you-ren-du-ke-yi-mian-fei-shi-yong-liao-19ef)
-- [Understanding IMAP and SMTP Mail Protocols](https://dev.to/woovi/understanding-imap-and-smtp-mail-protocols-1bch)
-- [Code Quality Check with PHPStan](https://dev.to/nasrulhazim/code-quality-check-with-phpstan-4b0a)
-- [AI Recommendation Engine with Redis:Real-Time AI Innovators](https://dev.to/cliffordisaboke/ai-recommendation-engine-with-redis-4ei2)
-- [E-Commerce System Powered by Redis: Beyond the Cache](https://dev.to/cliffordisaboke/e-commerce-system-powered-by-redis-beyond-the-cache-mc1)
+- [Spring Boot Server Admin](https://dev.to/said_olano/spring-boot-server-admin-5f40)
+- [Best React Native Icon Libraries in 2025](https://dev.to/masumparvej/best-react-native-icon-libraries-in-2025-55m5)
+- [Automating YouTube Shorts with Python and AI](https://dev.to/gu1lh3rm3_x/automating-youtube-shorts-with-python-and-ai-4i3)
+- [Complete DevOps Roadmap: From Beginner to Advanced](https://dev.to/anshul_kichara/complete-devops-roadmap-from-beginner-to-advanced-2knb)
+- [Nothing Comes for Free — If It’s Free, Your Data Is the Price](https://dev.to/aishwarygathe/nothing-comes-for-free-if-its-free-your-data-is-the-price-3nh3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
