@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🏢 IntraSpace: AI-Powered Office Productivity Platform | Frontend Challenge: Office Edition](https://dev.to/jacksonkasi/intraspace-ai-powered-office-productivity-platform-frontend-challenge-office-edition-2m2n)
-- [Holistic Webdev: Office Space](https://dev.to/aditya_007/holistic-webdev-office-space-32gg)
-- [[Boost]](https://dev.to/pouyanjazini/-58g7)
-- [DEV Frontend Challenge](https://dev.to/aws_1_27d6cbc9e944aa228ef/dev-frontend-challenge-2321)
-- [Revenue Sharing Model: A Powerful Marketing Strategy for Token Presales](https://dev.to/marksantiago02/revenue-sharing-model-a-powerful-marketing-strategy-for-token-presales-3k48)
+- [Why Bluebox Is the Cloud Storage You’ve Been Waiting For &lpar;15GB Free — Forever&rpar;](https://dev.to/alagba/why-bluebox-is-the-cloud-storage-youve-been-waiting-for-15gb-free-forever-2e6j)
+- [✨🎨 Pure CSS Magic: How to Build a Realistic 3D Office Experience 🏢💻🪑](https://dev.to/mohamednizzad/pure-css-magic-how-to-build-a-realistic-3d-office-experience-h76)
+- [Guide on Creating &amp; Connecting to an Azure Virtual Machine](https://dev.to/isaiah_izibili_7a39b7d627/guide-on-creating-connecting-to-an-azure-virtual-machine-1f2a)
+- [🔀 Maintaining a Linear Commit History in Git](https://dev.to/rashidpbi/maintaining-a-linear-commit-history-in-git-4gff)
+- [Introducing Bluebox: A Free Cloud Storage Built for Developers, by Developers](https://dev.to/alagba/introducing-bluebox-a-free-cloud-storage-built-for-developers-by-developers-4iba)
 <!-- BLOG-POST-LIST:END -->
 
 ---
