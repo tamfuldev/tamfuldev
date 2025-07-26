@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Secure Subnet for FTP Traffic in Azure — My First Network Task](https://dev.to/peter_samuel_052b9056e236/creating-a-secure-subnet-for-ftp-traffic-in-azure-my-first-network-task-2o6f)
+- [The Hidden Challenge of Contradictory Requirements in Development Projects](https://dev.to/accioprocurement/the-hidden-challenge-of-contradictory-requirements-in-development-projects-109f)
 - [Spring Boot Server Admin](https://dev.to/said_olano/spring-boot-server-admin-5f40)
 - [Best React Native Icon Libraries in 2025](https://dev.to/masumparvej/best-react-native-icon-libraries-in-2025-55m5)
 - [Automating YouTube Shorts with Python and AI](https://dev.to/gu1lh3rm3_x/automating-youtube-shorts-with-python-and-ai-4i3)
-- [Complete DevOps Roadmap: From Beginner to Advanced](https://dev.to/anshul_kichara/complete-devops-roadmap-from-beginner-to-advanced-2knb)
-- [Nothing Comes for Free — If It’s Free, Your Data Is the Price](https://dev.to/aishwarygathe/nothing-comes-for-free-if-its-free-your-data-is-the-price-3nh3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
