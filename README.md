@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How We Built Zero-Knowledge Encryption in the Browser &lpar;So We Can&#39;t Read Your Notes&rpar;](https://dev.to/typelets/how-we-built-zero-knowledge-encryption-in-the-browser-so-we-cant-read-your-notes-3c7a)
-- [Late Night Work #20](https://dev.to/0xj0n1/late-night-work-20-39pe)
-- [Git Guide to Delete Old Commits and Clear Sensitive Info from Git History](https://dev.to/chefgs/git-guide-to-delete-old-commits-and-clear-sensitive-files-from-git-history-4l71)
-- [the easiest dark mode for beginners](https://dev.to/amr2010m/the-easiest-dark-mode-for-beginners-a1j)
-- [I Accidentally Discovered a Hidden Gem for Testing Premium AI Models &lpar;Completely Free!&rpar;](https://dev.to/puneet-chandna/i-accidentally-discovered-a-hidden-gem-for-testing-premium-ai-models-completely-free-2k3c)
+- [Claude Code Debugging Magic](https://dev.to/igorganapolsky/claude-code-debugging-magic-1cgp)
+- [REST vs gRPC – When to Use What](https://dev.to/yash007_95/rest-vs-grpc-when-to-use-what-18f)
+- [Claude Code Debugging Magic](https://dev.to/igorganapolsky/claude-code-debugging-magic-4jaa)
+- [📈 Code quality improvement after switching to keyboard short](https://dev.to/igorganapolsky/code-quality-improvement-after-switching-to-keyboard-short-ip)
+- [NestJS OAuth2 Starter: Google, GitHub, JWT, Redis, PostgreSQL – Ready for Production](https://dev.to/jimmycamus/nestjs-oauth2-starter-google-github-jwt-redis-postgresql-ready-for-production-225d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
