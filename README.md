@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Locally Weighted Linear Regression: When One Line Isn&#39;t Enough &lpar;and Why It&#39;s Non-Parametric!&rpar; ✨🗺️](https://dev.to/randhir_kumar_6ccab967a14/locally-weighted-linear-regression-when-one-line-isnt-enough-and-why-its-non-parametric-3kca)
-- [🔄 Introducing Galus: A Lightweight and Blazing-Fast Live Reload Tool for Go Developers](https://dev.to/aliftech/introducing-galus-a-lightweight-and-blazing-fast-live-reload-tool-for-go-developers-1glg)
-- [Code Splitting, Dynamic Imports &amp; Bundle Analysis](https://dev.to/maurya-sachin/code-splitting-dynamic-imports-bundle-analysis-3an2)
-- [How Do Great Developers Manage Their Time Without Using 10 Different Tools?](https://dev.to/pratham_naik_project_manager/how-do-great-developers-manage-their-time-without-using-10-different-tools-35a5)
-- [Starting My Coding Journey — First Post](https://dev.to/aadhi5h/starting-my-coding-journey-first-post-467e)
+- [git-mcp-server crashed my repository](https://dev.to/dasheck0/git-mcp-server-crashed-my-repository-1om4)
+- [Building a Modern Data Warehouse in SQL Server with Medallion Architecture](https://dev.to/samit_paudel_5d330ffcfb22/building-a-modern-data-warehouse-in-sql-server-with-medallion-architecture-1234)
+- [I Published My First Python Library: `rs-calculator`](https://dev.to/rasa8877/i-published-my-first-python-library-rs-calculator-b1i)
+- [Compilers and How They Work](https://dev.to/mohanseetha/compilers-and-how-they-work-4ol9)
+- [AlgorithmO #11 — Решето на Ератостен](https://dev.to/dvt32/algorithmo-11-rieshieto-na-ieratostien-79a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
