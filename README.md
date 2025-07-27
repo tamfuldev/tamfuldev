@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript’s Role in Web Development: A Comprehensive Introduction](https://dev.to/vandnakapoor19/javascripts-role-in-web-development-a-comprehensive-introduction-30ja)
-- [Clean Product Card with Add to Cart Button](https://dev.to/musa379/clean-product-card-with-add-to-cart-button-5a9d)
-- [GitHub Just Killed Stack Overflow &lpar;And Nobody&#39;s Talking About It&rpar;](https://dev.to/shiva_shanker_k/github-just-killed-stack-overflow-and-nobodys-talking-about-it-283i)
-- [Understanding Go Modules: A Brief Guide](https://dev.to/diogojlq/understanding-go-modules-a-brief-guide-1nb)
-- [Building a User Authentication and File Management API with FastAPI](https://dev.to/dillionhuston/building-a-user-authentication-and-file-management-api-with-fastapi-5al)
+- [Enhance your Code Security with Amazon Inspector](https://dev.to/aws-builders/enhance-your-code-security-with-amazon-inspector-45no)
+- [Python](https://dev.to/yasir_landur_7300786d7c8c/python-46nc)
+- [Website Monitoring &lpar;Golang&rpar;](https://dev.to/pardnchiu/website-monitoring-system-golang-1lfo)
+- [Understanding Promise Chaining](https://dev.to/pushkar8723/understanding-promise-chaining-4mhe)
+- [WebLines: Your On-Screen Ruler for Perfect Alignment](https://dev.to/sushilbajracharya01/weblines-your-on-screen-ruler-for-perfect-alignment-24ba)
 <!-- BLOG-POST-LIST:END -->
 
 ---
