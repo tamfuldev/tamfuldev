@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Proxies: What, Why, and How to Build One in Go](https://dev.to/lovestaco/understanding-proxies-what-why-and-how-to-build-one-in-go-108d)
-- [How I Built MemoirVault: A Private Multimedia Autobiography App with Kiro &lpar;#kiro&rpar;](https://dev.to/enclaveprojects/how-i-built-memoirvault-a-private-multimedia-autobiography-app-with-kiro-kiro-1fgi)
-- [Axero Intranet Solution - Modern Workplace Portal](https://dev.to/agihtaws_581/axero-intranet-solution-modern-workplace-portal-46gi)
-- [VectorChat - Real-Time AI-Powered Customer Support with Redis Vector Search](https://dev.to/ariondev/vectorchat-real-time-ai-powered-customer-support-with-redis-vector-search-4kna)
-- [VoiceFlow Pro](https://dev.to/sreeganesh_jagatab_0368f2/voiceflow-pro-41nk)
+- [Python Length of Array](https://dev.to/kiani0x01/python-length-of-array-3p6o)
+- [Top Platform Engineering Mistakes to Watch Out For](https://dev.to/mehul_budasana/top-platform-engineering-mistakes-to-watch-out-for-137)
+- [Frontend Challenge: Office Edition Submission](https://dev.to/aniruddhaadak/frontend-challenge-office-edition-submission-2m6l)
+- [World&#39;s Largest Hackathon Writing Challenge Submission](https://dev.to/aniruddhaadak/worlds-largest-hackathon-writing-challenge-submission-22i5)
+- [How MCP Works: Step-by-Step Guide for New Engineers](https://dev.to/marufhossain/how-mcp-works-step-by-step-guide-for-new-engineers-12hc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
