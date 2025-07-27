@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 47: When Everything Goes Wrong Despite Doing Everything Right](https://dev.to/casperday11/day-47-when-everything-goes-wrong-despite-doing-everything-right-2agk)
-- [Building a RESTful API with Node.js, Express, Sequelize &amp; PostgreSQL &lpar;2025 Update&rpar;](https://dev.to/djamware_tutorial_eba1a61/building-a-restful-api-with-nodejs-express-sequelize-postgresql-2025-update-5be3)
-- [Quick Update: My Bookmark Extension Hits 500 Users! 🎉](https://dev.to/sheep_/quick-update-my-bookmark-extension-hits-500-users-4f86)
-- [Which is better: Healthcare Software as a Service &lpar;SaaS&rpar; or a professional license?](https://dev.to/nzcares/which-is-better-healthcare-software-as-a-service-saas-or-a-professional-license-549d)
-- [Building IntelliCV: An AI Resume Tool That Actually Helps 🚀](https://dev.to/himanshujain112/building-intellicv-an-ai-resume-tool-that-actually-helps-1n7m)
+- [Why TypeScript Won &lpar;and You Should Just Give In Already&rpar;](https://dev.to/pranta/why-typescript-won-and-you-should-just-give-in-already-49k4)
+- [From Challenge to Comprehensive App, My Frontend Development Journey](https://dev.to/robot254/from-challenge-to-comprehensive-app-my-frontend-development-journey-54dp)
+- [How to Solve MySQL and Redis Cache Inconsistency Like a Pro](https://dev.to/xinjie_zou_d67d2805538130/how-to-solve-mysql-and-redis-cache-inconsistency-like-a-pro-2d7i)
+- [Microsoft Azure Static Web Apps: The Art of Sucking, Web App Horror Story](https://dev.to/ezhil_sivarajsr/microsoft-azure-static-web-apps-the-art-of-sucking-web-app-horror-story-4jg1)
+- [AlgorithmO #13 — Сортиране чрез селекция &lpar;Selection Sort&rpar;](https://dev.to/dvt32/algorithmo-13-sortiranie-chriez-sieliektsiia-selection-sort-3bpd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
