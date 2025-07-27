@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Code: My Hackathon Journey with MyMealMind at the World&#39;s Largest Hackathon](https://dev.to/devraiks/beyond-the-code-my-hackathon-journey-with-mymealmind-at-the-worlds-largest-hackathon-1126)
-- [🔍 What is White-Hat SEO? [2025 Guide]](https://dev.to/kashif-mukhtar/what-is-white-hat-seo-2025-guide-2ef4)
-- [The AI coding pattern spreading through engineering teams](https://dev.to/sanket_gawas_3d0381846af2/the-ai-coding-pattern-spreading-through-engineering-teams-3mfh)
-- [How I Built MyMealMind — A Full Recipe Platform in Just Weeks with Bolt](https://dev.to/devraiks/how-i-built-mymealmind-a-full-recipe-platform-in-just-weeks-with-bolt-10gh)
-- [DevTech AI Hub – AI-Powered Developer Platform](https://dev.to/aibughunter/devtech-ai-hub-ai-powered-developer-platform-4639)
+- [CSS Office Art: The Work](https://dev.to/cruxcodes/css-office-art-the-work-3nk5)
+- [🎨 Office Coolors: A Colorful Intranet for Creative Productivity](https://dev.to/jamesrmoro/office-coolors-a-colorful-intranet-for-creative-productivity-4aic)
+- [From Beira to the World: My Journey as a Fullstack Developer](https://dev.to/arnaldo/from-beira-to-the-world-my-journey-as-a-fullstack-developer-33l9)
+- [Da Beira para o Mundo: Minha Jornada como Desenvolvedor Fullstack](https://dev.to/arnaldo/da-beira-para-o-mundo-minha-jornada-como-desenvolvedor-fullstack-21p8)
+- [The Internals of Bidirectional Pagination in Relay: A Deep Dive](https://dev.to/ikjot2605/the-internals-of-bidirectional-pagination-in-relay-a-deep-dive-9f4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
