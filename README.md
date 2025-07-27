@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Python Length of Array](https://dev.to/kiani0x01/python-length-of-array-3p6o)
-- [Top Platform Engineering Mistakes to Watch Out For](https://dev.to/mehul_budasana/top-platform-engineering-mistakes-to-watch-out-for-137)
-- [Frontend Challenge: Office Edition Submission](https://dev.to/aniruddhaadak/frontend-challenge-office-edition-submission-2m6l)
-- [World&#39;s Largest Hackathon Writing Challenge Submission](https://dev.to/aniruddhaadak/worlds-largest-hackathon-writing-challenge-submission-22i5)
-- [How MCP Works: Step-by-Step Guide for New Engineers](https://dev.to/marufhossain/how-mcp-works-step-by-step-guide-for-new-engineers-12hc)
+- [Building a Smart Recipe Discovery Platform with Algolia MCP Server](https://dev.to/ai_agi/building-a-smart-recipe-discovery-platform-with-algolia-mcp-server-4b70)
+- [View CSV Instantly — No Uploads, No Installs, Just Paste and See](https://dev.to/trixahub/view-csv-instantly-no-uploads-no-installs-just-paste-and-see-4kn3)
+- [VoiceFlow Pro: AI-Powered Real-Time Audio Processing and Analysis Agent](https://dev.to/ai_agi/voiceflow-pro-ai-powered-real-time-audio-processing-and-analysis-agent-57bp)
+- [Real-Time AI Code Review Assistant with Redis Vector Search](https://dev.to/ai_agi/real-time-ai-code-review-assistant-with-redis-vector-search-56an)
+- [YINI Parser Hits Beta - Human-Friendly, Modern Config Format with Minimal Syntax Noise](https://dev.to/marko_kseppnen_6250a7f/yini-parser-hits-beta-human-friendly-modern-config-format-with-minimal-syntax-noise-2goo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
