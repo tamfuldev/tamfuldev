@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Who Protects the Lonely Child from a Lying AI?](https://dev.to/rawveg/who-protects-the-lonely-child-from-a-lying-ai-li6)
-- [DevStash: AI-Powered Developer Knowledge Management with Algolia MCP](https://dev.to/cached_engineer/devstash-ai-powered-developer-knowledge-management-with-algolia-mcp-4n76)
-- [🚀 Real-time data isn’t just for big tech — learn how to harness it with plain, powerful SQL! ⚡ #SQL #DataEngineering #RealTime](https://dev.to/meenakshi052003/real-time-data-isnt-just-for-big-tech-learn-how-to-harness-it-with-plain-powerful-sql-sql-i3d)
-- [TypeScript &amp; Express Headaches: Lessons from A Day of Nightmare](https://dev.to/uzzy412_73/typescript-express-headaches-lessons-from-a-day-of-nightmare-2me1)
-- [SQL for Real-Time Data: Make Decisions Now!](https://dev.to/meenakshi052003/sql-for-real-time-data-make-decisions-now-7ml)
+- [MCP - The &quot;USB-C Port&quot; for AI Apps](https://dev.to/ashishsimplecoder/mcp-the-usb-c-port-for-ai-apps-22pg)
+- [How I Went from Government Job to Global AI Voice &lpar;My Story&rpar;](https://dev.to/jaideepparashar/how-i-went-from-government-job-to-global-ai-voice-my-story-2mhj)
+- [Applying the Mediator Pattern in ASP.NET Core with MediatR](https://dev.to/adrianbailador/applying-the-mediator-pattern-in-aspnet-core-with-mediatr-la3)
+- [Top 10 CSS Mistakes That Make Your Website Look Unprofessional](https://dev.to/gouranga-das-khulna/top-10-css-mistakes-that-make-your-website-look-unprofessional-499o)
+- [🎫 Awesome self-hosted discord ticket bots &lpar;2025&rpar;](https://dev.to/djj123dj/awesome-self-hosted-discord-ticket-bots-2025-568h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
