@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Code Reviewing Copilot in Power Automate](https://dev.to/wyattdave/code-reviewing-copilot-in-power-automate-410d)
-- [Use Algolia MCP Server &amp; VSCode GitHub Copilot to Submit Unique Projects in Dev Challenges! ❤️‍🔥](https://dev.to/fm/use-algolia-mcp-server-vscode-github-copilot-to-submit-unique-projects-in-dev-challenges-3ph1)
-- [Intradash - Dashboard + Bento Builder](https://dev.to/schemetastic/intradash-dashboard-bento-builder-3c60)
-- [building sales agents that know their stuff: vocallq&#39;s domain expertise approach](https://dev.to/takitajwar17/building-sales-agents-that-know-their-stuff-vocallqs-domain-expertise-approach-1d1d)
-- [Why You Should Try Coding In Rust.](https://dev.to/dumboprogrammer/why-you-should-try-coding-in-rust-2f81)
+- [🛡️ PayShield: The Voice-Powered Shield Against $2.4B Daily Invoice Fraud](https://dev.to/kareemblessed/payshield-the-voice-powered-shield-against-24b-daily-invoice-fraud-2o1o)
+- [CSS ART](https://dev.to/bridget_amana/css-art-285f)
+- [Scaling Image Processing from Startup to Enterprise: Lessons from Processing 50M+ Images Monthly](https://dev.to/hardik_b2d8f0bca/scaling-image-processing-from-startup-to-enterprise-lessons-from-processing-50m-images-monthly-38nf)
+- [A Developer&#39;s Guide to PostgreSQL Full Text Search](https://dev.to/dbvismarketing/a-developers-guide-to-postgresql-full-text-search-4me8)
+- [building a medical ai platform that doctors actually want to use](https://dev.to/takitajwar17/algolia-mcp-server-challenge-53oo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
