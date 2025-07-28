@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How SVG Became the Standard Icon Format](https://dev.to/masumparvej/how-svg-became-the-standard-icon-format-5ec2)
-- [Unleashing the Power of React with Custom Hooks](https://dev.to/vjnvisakh/unleashing-the-power-of-react-with-custom-hooks-5aof)
-- [Firebase Authentication: From Zero to Hero 🔐](https://dev.to/this-is-learning/firebase-authentication-from-zero-to-hero-4mj8)
-- [HTTP/3 &amp; QUIC: Faster Entry for Cross-Border Businesses in China](https://dev.to/ksea0309/http3-quic-faster-entry-for-cross-border-businesses-in-china-58l9)
-- [Co‑Marketing Through Partnered Webinars: A Smart Strategy for Expanding Reach and Building Trust](https://dev.to/jack_davis_72eff1ff3e4afd/co-marketing-through-partnered-webinars-a-smart-strategy-for-expanding-reach-and-building-trust-ae7)
+- [URL Shorteners Uncovered: How They Work and Why You Should Use Them](https://dev.to/trixsec/url-shorteners-uncovered-how-they-work-and-why-you-should-use-them-44j6)
+- [Cursor AI Tips and tricks on Medium](https://dev.to/dev_edgefl/cursor-ai-tips-and-tricks-on-medium-1gln)
+- [Provide Storage for IT Department Testing and Training](https://dev.to/biola_lawaljr_d5dc2882c89/provide-storage-for-it-department-testing-and-training-299e)
+- [⚽ Calculating Premier League Win Probabilities Using Python and the Football-Data.org API](https://dev.to/sudoruss/calculating-premier-league-win-probabilities-using-python-and-the-football-dataorg-api-11bl)
+- [Why Gen AI Isn&#39;t Optional for Your Startup Anymore](https://dev.to/viissgg/why-gen-ai-isnt-optional-for-your-startup-anymore-3g10)
 <!-- BLOG-POST-LIST:END -->
 
 ---
