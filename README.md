@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [5 Legal Landmines For Creators to Dodge in 2025](https://dev.to/viralnoise/5-legal-landmines-for-creators-to-dodge-in-2025-k1c)
-- [🚀 WP-XPub v1.0.0 – A Clean Architecture Approach to Multi-Channel Publishing in WordPress](https://dev.to/n3xt0r/wp-xpub-v100-a-clean-architecture-approach-to-multi-channel-publishing-in-wordpress-8fc)
-- [React and typescript components lib, part 7: conclusion](https://dev.to/griseduardo/react-and-typescript-components-lib-part-7-conclusion-5881)
-- [Biblioteca de componentes React e typescript, parte 7: encerramento](https://dev.to/griseduardo/biblioteca-de-componentes-react-e-typescript-parte-7-encerramento-4h62)
-- [Introducing HruHruLauncher — a custom Minecraft launcher written in Python with PySide6](https://dev.to/krutoychel24/introducing-hruhrulauncher-a-custom-minecraft-launcher-written-in-python-with-pyside6-h2i)
+- [Convert Any Picture into a Spreadsheet with FileConvertFree &lpar;Image to Excel Tool&rpar;](https://dev.to/fileconvertfree/convert-any-picture-into-a-spreadsheet-with-fileconvertfree-image-to-excel-tool-32i9)
+- [Say Goodbye to Unfair Performance Reviews with Team Vertex](https://dev.to/bhupinderjeet_singh_c3a7f/say-goodbye-to-unfair-performance-reviews-with-team-vertex-2nle)
+- [An Ode to Clarity — Bitcoin’s White Paper Could Have Launched Sooner &lpar;and We Missed the Rocket&rpar;.](https://dev.to/quetzalquant/an-ode-to-clarity-bitcoins-white-paper-could-have-launched-sooner-and-we-missed-the-rocket-59do)
+- [¿Por dónde empezarías un proyecto? No, no es solo por la lógica](https://dev.to/altaskur/por-donde-empezarias-un-proyecto-no-no-es-solo-por-la-logica-1dao)
+- [App Store Offers: Implementation Guide for iOS Developers](https://dev.to/arshtechpro/wwdc-app-store-offers-implementation-guide-for-ios-developers-3lbh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
