@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Office Art: The Work](https://dev.to/cruxcodes/css-office-art-the-work-3nk5)
-- [🎨 Office Coolors: A Colorful Intranet for Creative Productivity](https://dev.to/jamesrmoro/office-coolors-a-colorful-intranet-for-creative-productivity-4aic)
-- [From Beira to the World: My Journey as a Fullstack Developer](https://dev.to/arnaldo/from-beira-to-the-world-my-journey-as-a-fullstack-developer-33l9)
-- [Da Beira para o Mundo: Minha Jornada como Desenvolvedor Fullstack](https://dev.to/arnaldo/da-beira-para-o-mundo-minha-jornada-como-desenvolvedor-fullstack-21p8)
-- [The Internals of Bidirectional Pagination in Relay: A Deep Dive](https://dev.to/ikjot2605/the-internals-of-bidirectional-pagination-in-relay-a-deep-dive-9f4)
+- [How I Beat the LeetCode Grind with Tiny Habits](https://dev.to/huynhnguyen/how-i-beat-the-leetcode-grind-with-tiny-habits-39mn)
+- [Whispers - A Voice Journaling App with Smart Memory Search &lpar;Algolia MCP&rpar;](https://dev.to/vaishakhvipin/whispers-a-voice-journaling-app-with-smart-memory-search-algolia-mcp-27mf)
+- [Whispers - A Real-Time Voice Journaling Agent Built with AssemblyAI](https://dev.to/vaishakhvipin/whispers-a-real-time-voice-journaling-agent-built-with-assemblyai-119o)
+- [Synapse](https://dev.to/haseebarshad/synapse-2l5l)
+- [Visual Studio custom project templates](https://dev.to/karenpayneoregon/visual-studio-custom-project-templates-5c5o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
