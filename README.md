@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [10 Open Source AI Tools Every Developer Should Know](https://dev.to/therealmrmumba/httpsdevtotariqdotdev10-open-source-ai-tools-every-developer-should-know-5cgk-1il9)
-- [🚀 Introducing ToolBox Hub – Your All-in-One Suite of Free Online Tools](https://dev.to/sreeappt/introducing-toolbox-hub-your-all-in-one-suite-of-free-online-tools-p8n)
-- [Better MCP tools/call Error Responses: Help Your AI Recover Gracefully](https://dev.to/alpic/better-mcp-toolscall-error-responses-help-your-ai-recover-gracefully-15c7)
-- [🚀 From Zero to 800+ LeetCode Problems: My Full-Stack Development Journey](https://dev.to/atul_kumarupadhyay_638f2/from-zero-to-800-leetcode-problems-my-full-stack-development-journey-264g)
-- [欧洲程序员德国篇](https://dev.to/woodyxin/ou-zhou-cheng-xu-yuan-de-guo-pian-4an8)
+- [🧱 What Are Terraform Variables? &lpar;And Why They Save Your Sanity at Scale&rpar;](https://dev.to/1suleyman/what-are-terraform-variables-and-why-they-save-your-sanity-at-scale-2j8g)
+- [Testrun](https://dev.to/moliap123/testrun-4cgj)
+- [Leveraging ChatGPT in Blue Team Cybersecurity Operations: Enhancing Defense with AI](https://dev.to/moh4med404/leveraging-chatgpt-in-blue-team-cybersecurity-operations-enhancing-defense-with-ai-2fh8)
+- [The TikTok Aftermath: How the West Just Lost the Economic War](https://dev.to/ryo_suwito/the-tiktok-aftermath-how-the-west-just-lost-the-economic-war-4bn5)
+- [Why TikTok&#39;s PC Streaming Sucks: The $200 Billion Export Pipeline Disguised as a Social Media App](https://dev.to/ryo_suwito/why-tiktoks-pc-streaming-sucks-the-200-billion-export-pipeline-disguised-as-a-social-media-app-2n1a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
