@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Trump&#39;s Anti-Bias AI Order Is Just More Bias](https://dev.to/future_ai/trumps-anti-bias-ai-order-is-just-more-bias-36hp)
-- [Amazon buys Bee AI wearable that listens to everything you say](https://dev.to/future_ai/amazon-buys-bee-ai-wearable-that-listens-to-everything-you-say-1om1)
-- [Goodbye enlightened AI](https://dev.to/future_ai/goodbye-enlightened-ai-26cl)
-- [Immersive Web Design – This Isn’t Wix, Baby!](https://dev.to/lawnwalker/immersive-web-design-this-isnt-wix-baby-2932)
-- [Meme Monday](https://dev.to/ben/meme-monday-3pe5)
+- [Mastering the Shell: Essential Commands and their Uses](https://dev.to/christiana_orji/mastering-the-shell-essential-commands-and-their-uses-4313)
+- [Observability 101: Metrics, Logs, and Traces. What’s the Difference ?](https://dev.to/mspilari/observability-101-metrics-logs-and-traces-whats-the-difference--3kbc)
+- [Building With Symfony: Scaling Surfshark’s Backend](https://dev.to/mongodb/building-with-symfony-scaling-surfsharks-backend-39pf)
+- [Avalanche Node Peculiarities and Benefits](https://dev.to/getblockapi/avalanche-node-peculiarities-and-benefits-50k)
+- [Hello from Make.com!](https://dev.to/sudheera_n_bc361cfbdb1df9/hello-from-makecom-2pjg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
