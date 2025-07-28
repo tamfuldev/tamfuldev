@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Lessons From a Burnt Wick: Why Mistakes Make Better Makers🕯️](https://dev.to/candles_by_midnight/lessons-from-a-burnt-wick-why-mistakes-make-better-makers-3d0m)
-- [Understanding Go&#39;s Type System: A Complete Guide to Interfaces, Structs, and Composition [2025]](https://dev.to/arasosman/understanding-gos-type-system-a-complete-guide-to-interfaces-structs-and-composition-2025-3an)
-- [The Complete Guide to Finding the Best PHP Hosting in 2025 [Top 10 Providers Compared]](https://dev.to/arasosman/the-complete-guide-to-finding-the-best-php-hosting-in-2025-top-10-providers-compared-3h1n)
-- [How to Localize Multiplatform Apps with Localazy CLI: Tips and Tricks](https://dev.to/engroso/how-to-localize-multiplatform-apps-with-localazy-cli-tips-and-tricks-2p3c)
-- [GitHub](https://dev.to/msx31/github-43m6)
+- [Lightning Voice Commander - Ultra-Fast Real-Time Gaming Interface](https://dev.to/ariondev/lightning-voice-commander-ultra-fast-real-time-gaming-interface-1eaj)
+- [SearchFlow Intelligence - AI-Powered Enterprise Search with Algolia MCP](https://dev.to/ariondev/searchflow-intelligence-ai-powered-enterprise-search-with-algolia-mcp-2i2b)
+- [Crack the Code, Compete, Collaborate: AWS Jam Session with AWS User Group Toronto – July 25, 2025](https://dev.to/bansi2000/crack-the-code-compete-collaborate-aws-jam-session-with-aws-user-group-toronto-july-25-2025-30ae)
+- [La magia de un buen script: pequeños comandos, grandes resultados](https://dev.to/alejandromestizo27/la-magia-de-un-buen-script-pequenos-comandos-grandes-resultados-j0d)
+- [Red Hat Enterprise Linux: Practical Labs for File Permissions, Hard Links &amp; Disk Partitioning](https://dev.to/labex/red-hat-enterprise-linux-practical-labs-for-file-permissions-hard-links-disk-partitioning-jgj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
