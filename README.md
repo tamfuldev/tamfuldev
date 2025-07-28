@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [URL Shorteners Uncovered: How They Work and Why You Should Use Them](https://dev.to/trixsec/url-shorteners-uncovered-how-they-work-and-why-you-should-use-them-44j6)
-- [Cursor AI Tips and tricks on Medium](https://dev.to/dev_edgefl/cursor-ai-tips-and-tricks-on-medium-1gln)
-- [Provide Storage for IT Department Testing and Training](https://dev.to/biola_lawaljr_d5dc2882c89/provide-storage-for-it-department-testing-and-training-299e)
-- [⚽ Calculating Premier League Win Probabilities Using Python and the Football-Data.org API](https://dev.to/sudoruss/calculating-premier-league-win-probabilities-using-python-and-the-football-dataorg-api-11bl)
-- [Why Gen AI Isn&#39;t Optional for Your Startup Anymore](https://dev.to/viissgg/why-gen-ai-isnt-optional-for-your-startup-anymore-3g10)
+- [Trump&#39;s Anti-Bias AI Order Is Just More Bias](https://dev.to/future_ai/trumps-anti-bias-ai-order-is-just-more-bias-36hp)
+- [Amazon buys Bee AI wearable that listens to everything you say](https://dev.to/future_ai/amazon-buys-bee-ai-wearable-that-listens-to-everything-you-say-1om1)
+- [Goodbye enlightened AI](https://dev.to/future_ai/goodbye-enlightened-ai-26cl)
+- [Immersive Web Design – This Isn’t Wix, Baby!](https://dev.to/lawnwalker/immersive-web-design-this-isnt-wix-baby-2932)
+- [Meme Monday](https://dev.to/ben/meme-monday-3pe5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
