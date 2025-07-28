@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🛡️ PayShield: The Voice-Powered Shield Against $2.4B Daily Invoice Fraud](https://dev.to/kareemblessed/payshield-the-voice-powered-shield-against-24b-daily-invoice-fraud-2o1o)
-- [CSS ART](https://dev.to/bridget_amana/css-art-285f)
-- [Scaling Image Processing from Startup to Enterprise: Lessons from Processing 50M+ Images Monthly](https://dev.to/hardik_b2d8f0bca/scaling-image-processing-from-startup-to-enterprise-lessons-from-processing-50m-images-monthly-38nf)
-- [A Developer&#39;s Guide to PostgreSQL Full Text Search](https://dev.to/dbvismarketing/a-developers-guide-to-postgresql-full-text-search-4me8)
-- [building a medical ai platform that doctors actually want to use](https://dev.to/takitajwar17/algolia-mcp-server-challenge-53oo)
+- [10 Open Source AI Tools Every Developer Should Know](https://dev.to/therealmrmumba/httpsdevtotariqdotdev10-open-source-ai-tools-every-developer-should-know-5cgk-1il9)
+- [🚀 Introducing ToolBox Hub – Your All-in-One Suite of Free Online Tools](https://dev.to/sreeappt/introducing-toolbox-hub-your-all-in-one-suite-of-free-online-tools-p8n)
+- [Better MCP tools/call Error Responses: Help Your AI Recover Gracefully](https://dev.to/alpic/better-mcp-toolscall-error-responses-help-your-ai-recover-gracefully-15c7)
+- [🚀 From Zero to 800+ LeetCode Problems: My Full-Stack Development Journey](https://dev.to/atul_kumarupadhyay_638f2/from-zero-to-800-leetcode-problems-my-full-stack-development-journey-264g)
+- [欧洲程序员德国篇](https://dev.to/woodyxin/ou-zhou-cheng-xu-yuan-de-guo-pian-4an8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
