@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Lightning Voice Commander - Ultra-Fast Real-Time Gaming Interface](https://dev.to/ariondev/lightning-voice-commander-ultra-fast-real-time-gaming-interface-1eaj)
-- [SearchFlow Intelligence - AI-Powered Enterprise Search with Algolia MCP](https://dev.to/ariondev/searchflow-intelligence-ai-powered-enterprise-search-with-algolia-mcp-2i2b)
-- [Crack the Code, Compete, Collaborate: AWS Jam Session with AWS User Group Toronto – July 25, 2025](https://dev.to/bansi2000/crack-the-code-compete-collaborate-aws-jam-session-with-aws-user-group-toronto-july-25-2025-30ae)
-- [La magia de un buen script: pequeños comandos, grandes resultados](https://dev.to/alejandromestizo27/la-magia-de-un-buen-script-pequenos-comandos-grandes-resultados-j0d)
-- [Red Hat Enterprise Linux: Practical Labs for File Permissions, Hard Links &amp; Disk Partitioning](https://dev.to/labex/red-hat-enterprise-linux-practical-labs-for-file-permissions-hard-links-disk-partitioning-jgj)
+- [Why Black Lion Hospital Addis Ababa Ethiopia Leads In Patient Care](https://dev.to/manaakihealthcare/why-black-lion-hospital-addis-ababa-ethiopia-leads-in-patient-care-2ej4)
+- [🔥Try This Free JS Deobfuscator – Feedback Welcome!](https://dev.to/aksoonesec/try-this-free-js-deobfuscator-feedback-welcome-38e6)
+- [Beyond the Code: The Human Story Behind Needle &amp; Hay](https://dev.to/ariondev/beyond-the-code-the-human-story-behind-needle-hay-445n)
+- [After the Hack: What&#39;s Next for Needle &amp; Hay and My Journey](https://dev.to/ariondev/after-the-hack-whats-next-for-needle-hay-and-my-journey-174k)
+- [Congratulations to the World&#39;s Largest Hackathon Winners! Now it&#39;s time to share your full reflection.](https://dev.to/devteam/congratulations-to-the-worlds-largest-hackathon-winners-now-its-time-to-share-your-full-3df8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
