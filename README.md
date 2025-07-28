@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What I&#39;ve Gained After 6 Years Blogging on dev.to](https://dev.to/canro91/what-ive-gained-after-6-years-blogging-on-devto-4ife)
-- [How I Built EduConnect Hub – My First Full Stack Project Using React and Node.js](https://dev.to/manisshh/how-i-built-educonnect-hub-my-first-full-stack-project-using-react-and-nodejs-3id7)
-- [Gotta Search &#39;Em All, MCP!!](https://dev.to/justin_mc/gotta-search-em-all-mcp-4662)
-- [Not Just Another Wrapper：The Engineering Behind Context Space](https://dev.to/contextspace_/not-just-another-wrapperthe-engineering-behind-context-space-3ppl)
-- [Setting up Azure Container Apps and Dapr](https://dev.to/sirivarma/setting-up-azure-container-apps-and-dapr-2pjh)
+- [Code Reviewing Copilot in Power Automate](https://dev.to/wyattdave/code-reviewing-copilot-in-power-automate-410d)
+- [Use Algolia MCP Server &amp; VSCode GitHub Copilot to Submit Unique Projects in Dev Challenges! ❤️‍🔥](https://dev.to/fm/use-algolia-mcp-server-vscode-github-copilot-to-submit-unique-projects-in-dev-challenges-3ph1)
+- [Intradash - Dashboard + Bento Builder](https://dev.to/schemetastic/intradash-dashboard-bento-builder-3c60)
+- [building sales agents that know their stuff: vocallq&#39;s domain expertise approach](https://dev.to/takitajwar17/building-sales-agents-that-know-their-stuff-vocallqs-domain-expertise-approach-1d1d)
+- [Why You Should Try Coding In Rust.](https://dev.to/dumboprogrammer/why-you-should-try-coding-in-rust-2f81)
 <!-- BLOG-POST-LIST:END -->
 
 ---
