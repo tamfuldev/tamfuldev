@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [STARTING MY WEB DEV JOURNEY](https://dev.to/krish_tarwey_ac06b4fc7032/starting-my-web-dev-journey-16bl)
-- [Why Most Dev Teams Hate Project Management](https://dev.to/teamcamp/why-most-dev-teams-hate-project-management-175l)
-- [Remotely Control Any Computer with Mythic C2 and Discord | Step-by-Step Ethical Hacking Guide](https://dev.to/shadow_3/remotely-control-any-computer-with-mythic-c2-and-discord-step-by-step-ethical-hacking-guide-52eo)
-- [Enums and Pattern Matching in Rust: A Deep Dive into Type Safety and Control Flow](https://dev.to/ajtech0001/enums-and-pattern-matching-in-rust-a-deep-dive-into-type-safety-and-control-flow-1gjp)
-- [How .NET and Azure Work Together for Cloud-Native Apps](https://dev.to/zarajohnson/how-net-and-azure-work-together-for-cloud-native-apps-3h26)
+- [Visual Database Management &amp; Design Tool for IBM Db2](https://dev.to/roxana_haidiner/visual-database-management-design-tool-for-ibm-db2-1gbn)
+- [Games X Education: How EdTech Is Partnering with Game Devs to Redefine Learning](https://dev.to/red_apple_technologies/games-x-education-how-edtech-is-partnering-with-game-devs-to-redefine-learning-knc)
+- [Heater Blower Resistor: Hogwarts’ Tiny Climate Keeper 🌬️](https://dev.to/ersajay/heater-blower-resistor-hogwarts-tiny-climate-keeper-20n3)
+- [Why Every Developer Needs 5-Minute Breaks &lpar;And My Favorite Stress-Buster Game!&rpar;](https://dev.to/ravinder_e30de87b53f67bdc/why-every-developer-needs-5-minute-breaks-and-my-favorite-stress-buster-game-31on)
+- [Stop Fetching Data in useEffect: Redux Edition](https://dev.to/sibasishm/stop-fetching-data-in-useeffect-redux-edition-4gb4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
