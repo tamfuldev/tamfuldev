@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Evolution of Large Language Models: From Rule-Based Systems to Modern AI](https://dev.to/anshuman_ojha_/the-evolution-of-large-language-models-from-rule-based-systems-to-modern-ai-2bnn)
-- [How I Built a Website for Daily TV Serial Updates Using WordPress](https://dev.to/mohit_yadav108/how-i-built-a-website-for-daily-tv-serial-updates-using-wordpress-a12)
-- [Deploy MySQL to Cloudflare](https://dev.to/lanqi_gao/deploy-mysql-to-cloudflare-47p3)
-- [Google AI Overview API: The Silent Revolution Reshaping Search](https://dev.to/kervi_11_/google-ai-overview-api-the-silent-revolution-reshaping-search-5e3a)
-- [&quot;Suspense&quot; with a Promise and an Attribute Mixin](https://dev.to/dariomannu/suspense-with-a-promise-and-an-attribute-mixin-3ldn)
+- [Understanding the Middle-End Phase of the Go Compiler &lpar;Made Simple!&rpar;](https://dev.to/raymondmadara/understanding-the-middle-end-phase-of-the-go-compiler-made-simple-4j1j)
+- [Leveraging Assessment Data to Build Smarter Educational Tools](https://dev.to/amelia_brown04/leveraging-assessment-data-to-build-smarter-educational-tools-19m4)
+- [Xec - Write Once, Execute Anywhere: Universal Shell Commands in TypeScript](https://dev.to/luxquant/xec-write-once-execute-anywhere-universal-shell-commands-in-typescript-1lp4)
+- [Basic Linux command &lpar;tr&rpar;](https://dev.to/cheulong/basic-linux-command-tr-2c5p)
+- [The GO Compiler](https://dev.to/raymondmadara/the-go-compiler-cl7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
