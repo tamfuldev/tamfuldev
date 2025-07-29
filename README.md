@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Visual Database Management &amp; Design Tool for IBM Db2](https://dev.to/roxana_haidiner/visual-database-management-design-tool-for-ibm-db2-1gbn)
-- [Games X Education: How EdTech Is Partnering with Game Devs to Redefine Learning](https://dev.to/red_apple_technologies/games-x-education-how-edtech-is-partnering-with-game-devs-to-redefine-learning-knc)
-- [Heater Blower Resistor: Hogwarts’ Tiny Climate Keeper 🌬️](https://dev.to/ersajay/heater-blower-resistor-hogwarts-tiny-climate-keeper-20n3)
-- [Why Every Developer Needs 5-Minute Breaks &lpar;And My Favorite Stress-Buster Game!&rpar;](https://dev.to/ravinder_e30de87b53f67bdc/why-every-developer-needs-5-minute-breaks-and-my-favorite-stress-buster-game-31on)
-- [Stop Fetching Data in useEffect: Redux Edition](https://dev.to/sibasishm/stop-fetching-data-in-useeffect-redux-edition-4gb4)
+- [The Awesome AI Coding Tools Repo Has a New Home — and a Bigger Mission](https://dev.to/aifordevelopers/the-awesome-ai-coding-tools-repo-has-a-new-home-and-a-bigger-mission-4bj6)
+- [10 AI Skills Companies Are Looking for in 2025](https://dev.to/finalroundai/10-ai-skills-companies-are-looking-for-in-2025-2jl9)
+- [How to Install Docker Engine on Windows Server 2025 VPS &lpar;No Hyper-V&rpar;](https://dev.to/rajeshkumaryadavdotcom/how-to-install-docker-engine-on-windows-server-2025-vps-no-hyper-v-3578)
+- [Make to n8n 🙌](https://dev.to/alifar/make-to-n8n-5409)
+- [Migrating from Make.com to n8n: Lessons Learned &amp; Flow Design Tips](https://dev.to/alifar/migrating-from-makecom-to-n8n-lessons-learned-flow-design-tips-4951)
 <!-- BLOG-POST-LIST:END -->
 
 ---
