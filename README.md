@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [C# algorithm](https://dev.to/abner_lopezruiz_5f448ef1/c-algorithm-6jo)
-- [Beat the Learning Curve with One-on-One Java Job Support](https://dev.to/rkit-labs/beat-the-learning-curve-with-one-on-one-java-job-support-1kol)
-- [Building Medical AI – Technical Architecture Lessons](https://dev.to/daya_shankar_01/building-medical-ai-technical-architecture-lessons-4naj)
-- [Getting Started with C# for Unity](https://dev.to/dumboprogrammer/c-for-unity-4l8m)
-- [HTTP Logging Middleware Tips That Actually Work in ASP.NET Core](https://dev.to/abhinawkr/http-logging-middleware-tips-that-actually-work-in-aspnet-core-1mid)
+- [STARTING MY WEB DEV JOURNEY](https://dev.to/krish_tarwey_ac06b4fc7032/starting-my-web-dev-journey-16bl)
+- [Why Most Dev Teams Hate Project Management](https://dev.to/teamcamp/why-most-dev-teams-hate-project-management-175l)
+- [Remotely Control Any Computer with Mythic C2 and Discord | Step-by-Step Ethical Hacking Guide](https://dev.to/shadow_3/remotely-control-any-computer-with-mythic-c2-and-discord-step-by-step-ethical-hacking-guide-52eo)
+- [Enums and Pattern Matching in Rust: A Deep Dive into Type Safety and Control Flow](https://dev.to/ajtech0001/enums-and-pattern-matching-in-rust-a-deep-dive-into-type-safety-and-control-flow-1gjp)
+- [How .NET and Azure Work Together for Cloud-Native Apps](https://dev.to/zarajohnson/how-net-and-azure-work-together-for-cloud-native-apps-3h26)
 <!-- BLOG-POST-LIST:END -->
 
 ---
