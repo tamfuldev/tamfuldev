@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Agent Development Kit: Making it easy to build multi-agent applications](https://dev.to/googleai/agent-development-kit-making-it-easy-to-build-multi-agent-applications-4594)
-- [Injecting Environment Variables in Webpack Projects](https://dev.to/lovestaco/injecting-environment-variables-in-webpack-projects-2p2f)
-- [10 DevOps Tasks I’ve Stopped Doing Manually &lpar;Kudos to &#39;This&#39; CLI Agent&rpar;](https://dev.to/forgecode/10-devops-tasks-ive-stopped-doing-manually-kudos-to-this-cli-agent-1gc4)
-- [Hey Dev Community 👋 🚀 LaraCopilot is live on Product Hunt! Your AI Laravel engineer — turn plain English into full-stack MVPs. Show some love and upvote our launch ❤️ 👉 https://www.producthunt.com/products/laracopilot](https://dev.to/avinashvagh/hey-dev-community-laracopilot-is-live-on-product-hunt-your-ai-laravel-engineer-turn-16ok)
-- [Intorducing TracPad - A Smart Python Text Editor That Tracks Your Input](https://dev.to/zeroclick9039/intorducing-tracpad-a-smart-python-text-editor-that-tracks-your-input-2c55)
+- [🧠 Understanding the Difference Between IEnumerable and IQueryable in C#](https://dev.to/iamcymentho/understanding-the-difference-between-ienumerable-and-iqueryable-in-c-g4e)
+- [Automate Your Job Hunt 🚀 with n8n 🤖](https://dev.to/sroy8091/automate-your-job-hunt-with-n8n-1efp)
+- [The $170B Sprint: What Anthropic’s Valuation Tells Us About the New AI Game](https://dev.to/paultowers/the-170b-sprint-what-anthropics-valuation-tells-us-about-the-new-ai-game-4gc4)
+- [How to Manage tags and locks on VMs in Azure](https://dev.to/subair09/how-to-manage-tags-and-locks-on-vms-in-azure-13n9)
+- [Burned Out, But Break Coming #23](https://dev.to/0xj0n1/burned-out-but-break-coming-23-28jp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
