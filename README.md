@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Awesome AI Coding Tools Repo Has a New Home — and a Bigger Mission](https://dev.to/aifordevelopers/the-awesome-ai-coding-tools-repo-has-a-new-home-and-a-bigger-mission-4bj6)
-- [10 AI Skills Companies Are Looking for in 2025](https://dev.to/finalroundai/10-ai-skills-companies-are-looking-for-in-2025-2jl9)
-- [How to Install Docker Engine on Windows Server 2025 VPS &lpar;No Hyper-V&rpar;](https://dev.to/rajeshkumaryadavdotcom/how-to-install-docker-engine-on-windows-server-2025-vps-no-hyper-v-3578)
-- [Make to n8n 🙌](https://dev.to/alifar/make-to-n8n-5409)
-- [Migrating from Make.com to n8n: Lessons Learned &amp; Flow Design Tips](https://dev.to/alifar/migrating-from-makecom-to-n8n-lessons-learned-flow-design-tips-4951)
+- [De la Programmation Orientée Objet vers la Programmation Orientée Données - Un guide pratique](https://dev.to/onepoint/de-la-programmation-orientee-objet-vers-la-programmation-orientee-donnees-un-guide-pratique-4bh2)
+- [DynamoDB Deep Dive: Understanding WCU, RCU, LSI, and GSI](https://dev.to/aws-builders/dynamodb-deep-dive-understanding-wcu-rcu-lsi-and-gsi-582g)
+- [How to Deploy KRC Tokens Using KID &lpar;KRC‑20, KRC‑721 &amp; KRC‑1155&rpar;](https://dev.to/kalpstudio/how-to-deploy-krc-tokens-using-kid-krc-20-krc-721-krc-1155-56eb)
+- [The five rules I would follow to find a startup idea in 2025](https://dev.to/alex_deg/the-five-rules-i-would-follow-to-find-a-startup-idea-in-2025-149d)
+- [AWS in 30 Days: Your Ultimate Cloud Skill Upgrade](https://dev.to/yash_sonawane25/aws-in-30-days-your-ultimate-cloud-skill-upgrade-32ii)
 <!-- BLOG-POST-LIST:END -->
 
 ---
