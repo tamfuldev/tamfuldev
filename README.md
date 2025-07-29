@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 Understanding the Difference Between IEnumerable and IQueryable in C#](https://dev.to/iamcymentho/understanding-the-difference-between-ienumerable-and-iqueryable-in-c-g4e)
-- [Automate Your Job Hunt 🚀 with n8n 🤖](https://dev.to/sroy8091/automate-your-job-hunt-with-n8n-1efp)
-- [The $170B Sprint: What Anthropic’s Valuation Tells Us About the New AI Game](https://dev.to/paultowers/the-170b-sprint-what-anthropics-valuation-tells-us-about-the-new-ai-game-4gc4)
-- [How to Manage tags and locks on VMs in Azure](https://dev.to/subair09/how-to-manage-tags-and-locks-on-vms-in-azure-13n9)
-- [Burned Out, But Break Coming #23](https://dev.to/0xj0n1/burned-out-but-break-coming-23-28jp)
+- [Introducing Aerospike Graph Database 3.0: Faster, simpler, and built for the terabyte scale era](https://dev.to/aerospike/introducing-aerospike-graph-database-30-faster-simpler-and-built-for-the-terabyte-scale-era-4g2l)
+- [Bringing Your iOS App to Siri with Apple Intelligence](https://dev.to/arshtechpro/bringing-your-ios-app-to-siri-with-apple-intelligence-2ebp)
+- [How to Clean Up Resources in Azure](https://dev.to/arctaiwo/how-to-clean-up-resources-in-azure-47bn)
+- [CSS Blossoming Flowers at Magical Night](https://dev.to/fredy921/css-blossoming-flowers-at-magical-night-586e)
+- [Weekly update #2](https://dev.to/abytebybyte/weekly-update-2-p4h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
