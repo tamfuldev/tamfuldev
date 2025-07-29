@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Convert Any Picture into a Spreadsheet with FileConvertFree &lpar;Image to Excel Tool&rpar;](https://dev.to/fileconvertfree/convert-any-picture-into-a-spreadsheet-with-fileconvertfree-image-to-excel-tool-32i9)
-- [Say Goodbye to Unfair Performance Reviews with Team Vertex](https://dev.to/bhupinderjeet_singh_c3a7f/say-goodbye-to-unfair-performance-reviews-with-team-vertex-2nle)
-- [An Ode to Clarity — Bitcoin’s White Paper Could Have Launched Sooner &lpar;and We Missed the Rocket&rpar;.](https://dev.to/quetzalquant/an-ode-to-clarity-bitcoins-white-paper-could-have-launched-sooner-and-we-missed-the-rocket-59do)
-- [¿Por dónde empezarías un proyecto? No, no es solo por la lógica](https://dev.to/altaskur/por-donde-empezarias-un-proyecto-no-no-es-solo-por-la-logica-1dao)
-- [App Store Offers: Implementation Guide for iOS Developers](https://dev.to/arshtechpro/wwdc-app-store-offers-implementation-guide-for-ios-developers-3lbh)
+- [Why bridges keep getting hacked &amp; Why Modular Interoperability is the way out](https://dev.to/doanlonghau/why-bridges-keep-getting-hacked-why-modular-interoperability-is-the-way-out-185p)
+- [Why Most Accounting Systems Suck &lpar;and How to Not Build One That Does&rpar;](https://dev.to/abyssalbalde110/why-most-accounting-systems-suck-and-how-to-not-build-one-that-does-16ho)
+- [Using GCP Load Balancer to Handle 301 Redirects to Other Domains](https://dev.to/charlottetowell/using-gcp-load-balancer-to-handle-301-redirects-to-other-domains-3go6)
+- [Is Data Science is machine learning?](https://dev.to/danyearl/is-data-science-is-machine-learning-262d)
+- [Title: Creating the Perfect Home Office: A Step-by-Step Guide &lpar;March 2025&rpar;](https://dev.to/yagyaraj_sharma_6cd410179/title-creating-the-perfect-home-office-a-step-by-step-guide-march-2025-f0k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
