@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Reasons Why AI Agents Can’t Replace Human Developers Yet](https://dev.to/therealmrmumba/top-5-reasons-why-ai-agents-cant-replace-human-developers-yet-1gbm)
-- [IGN: Street Fighter 6 - Official Character Guide: Sagat Trailer](https://dev.to/gg_news/ign-street-fighter-6-official-character-guide-sagat-trailer-2big)
-- [IGN: WWE&#39;s Dominik Mysterio Reacts to The Best Dominik Mysterio Memes](https://dev.to/gg_news/ign-wwes-dominik-mysterio-reacts-to-the-best-dominik-mysterio-memes-46p0)
-- [IGN: Drag x Drive - Official Nintendo Switch 2 Overview Trailer](https://dev.to/gg_news/ign-drag-x-drive-official-nintendo-switch-2-overview-trailer-3jif)
-- [Ringer Movies: ‘The Fantastic Four: First Steps&#39; Is Here. Plus: Our Fall Film Festival Preview. | The Big Picture](https://dev.to/popcorn_movies/ringer-movies-the-fantastic-four-first-steps-is-here-plus-our-fall-film-festival-preview--1cdd)
+- [A Simple Cheat Sheet for JavaScript Developers Transitioning to Python](https://dev.to/distalx/a-simple-cheat-sheet-for-javascript-developers-transitioning-to-python-ecj)
+- [IGN: Reverse 1999 - Official Ezio Assassin&#39;s Creed Trailer](https://dev.to/gg_news/ign-reverse-1999-official-ezio-assassins-creed-trailer-776)
+- [IGN: Hell is Us - Official &#39;Diving into the Dungeons&#39; Overview Trailer](https://dev.to/gg_news/ign-hell-is-us-official-diving-into-the-dungeons-overview-trailer-2nef)
+- [IGN: Ninja Gaiden: Ragebound Review](https://dev.to/gg_news/ign-ninja-gaiden-ragebound-review-3do)
+- [IGN: Plushes - Official Teaser Trailer](https://dev.to/gg_news/ign-plushes-official-teaser-trailer-1m77)
 <!-- BLOG-POST-LIST:END -->
 
 ---
