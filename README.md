@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GUIA PRÁTICO DE COMANDOS DO DOCKER #3](https://dev.to/heyglonfabio/guia-pratico-de-comandos-do-docker-3-5aed)
-- [zkemsdufhcbzxjasndhfghdsvfadsbfnvtyfagntvuytanavauearveaYTNBIRATSVNYBAVSHY FN14[;6;1[6;24[6;[542[p;24;l5q4jn6qp[4jl4q[6jql6[h[pl](https://dev.to/hellolol_lolyah_7b1c74d0a/virtualbox-instructions-52d2)
-- [Title: Telegram Launches Integrated TON Wallet for 87M U.S. Users, Boosting Toncoin &lpar;TON&rpar; Rally](https://dev.to/yagyaraj_sharma_6cd410179/title-telegram-launches-integrated-ton-wallet-for-87m-us-users-boosting-toncoin-ton-rally-5dfn)
-- [Transforming Legacy Insurance with Neo4J,Redis and AI — robust, scalable, low latency — Smart Crawling Legacy Portal.](https://dev.to/roy777rajat/transforming-legacy-insurance-with-neo4jredis-and-ai-robust-scalable-low-latency-smart-2cle)
-- [Beyond the Spread: **`structuredClone`** vs `{ ...obj }` — Deep-Copy Tactics Every React + TypeScript Engineer Should Master](https://dev.to/cristiansifuentes/beyond-the-spread-structuredclone-vs-obj-deep-copy-tactics-every-react--4pip)
+- [Mastering Pointers in Doubly Linked Lists: Challenges and Solutions](https://dev.to/adityabhuyan/mastering-pointers-in-doubly-linked-lists-challenges-and-solutions-bo7)
+- [Mastering Git for Beginners – Start Your Dev Journey with Confidence!](https://dev.to/rohit_kumar_0193e4393f4bb/mastering-git-for-beginners-start-your-dev-journey-with-confidence-22dp)
+- [What is JSON.stringify&lpar;&rpar;? A Beginner’s Guide with Examples](https://dev.to/megha_m/what-is-jsonstringify-a-beginners-guide-with-examples-4hpn)
+- [Google Maps TMS Service Parameter Analysis](https://dev.to/yangholmes/google-maps-tms-service-parameter-analysis-1blb)
+- [Kubernetes App Slow? Fix DNS, Mesh &amp; Caching.Not Node Scaling](https://dev.to/ismailkovvuru/kubernetes-app-slow-fix-dns-mesh-cachingnot-node-scaling-4amj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
