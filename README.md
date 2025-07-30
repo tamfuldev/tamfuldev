@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Multimodal Face Recognition Pipeline with CocoIndex: Real-Time Image and Vector Search](https://dev.to/cocoindex/multimodal-face-recognition-pipeline-with-cocoindex-real-time-image-and-vector-search-19hi)
-- [🎮 I Built a Python Games Bundle — 3 Games + EXE + Mockups + Docs &lpar;Arabic &amp; English&rpar;](https://dev.to/codewithabdel/i-built-a-python-games-bundle-3-games-exe-mockups-docs-arabic-english-16cp)
-- [Modernizing Legacy Systems with AWS: Scalable, Secure &amp; AI-Ready](https://dev.to/emmao/modernizing-legacy-systems-with-aws-scalable-secure-ai-ready-403a)
-- [Smarter Generic Mapping in Dapper.FluentMap while using DataAnnotations](https://dev.to/shafqat_ahmed_04d479f9a03/smarter-automapping-in-dapperfluentmap-while-dataannotations-attributes-3il9)
-- [Take Out优化](https://dev.to/woodyxin/take-outyou-hua-19o9)
+- [GUIA PRÁTICO DE COMANDOS DO DOCKER #3](https://dev.to/heyglonfabio/guia-pratico-de-comandos-do-docker-3-5aed)
+- [zkemsdufhcbzxjasndhfghdsvfadsbfnvtyfagntvuytanavauearveaYTNBIRATSVNYBAVSHY FN14[;6;1[6;24[6;[542[p;24;l5q4jn6qp[4jl4q[6jql6[h[pl](https://dev.to/hellolol_lolyah_7b1c74d0a/virtualbox-instructions-52d2)
+- [Title: Telegram Launches Integrated TON Wallet for 87M U.S. Users, Boosting Toncoin &lpar;TON&rpar; Rally](https://dev.to/yagyaraj_sharma_6cd410179/title-telegram-launches-integrated-ton-wallet-for-87m-us-users-boosting-toncoin-ton-rally-5dfn)
+- [Transforming Legacy Insurance with Neo4J,Redis and AI — robust, scalable, low latency — Smart Crawling Legacy Portal.](https://dev.to/roy777rajat/transforming-legacy-insurance-with-neo4jredis-and-ai-robust-scalable-low-latency-smart-2cle)
+- [Beyond the Spread: **`structuredClone`** vs `{ ...obj }` — Deep-Copy Tactics Every React + TypeScript Engineer Should Master](https://dev.to/cristiansifuentes/beyond-the-spread-structuredclone-vs-obj-deep-copy-tactics-every-react--4pip)
 <!-- BLOG-POST-LIST:END -->
 
 ---
