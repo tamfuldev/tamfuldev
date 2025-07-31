@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AWS open source newsletter, #212](https://dev.to/aws/aws-open-source-newsletter-212-1l55)
-- [Digital Archaeologists](https://dev.to/rawveg/digital-archaeologists-2me2)
-- [Choosing a UK Application Development Company in 2025](https://dev.to/jabran_mustafa_cf7667f97a/choosing-a-uk-application-development-company-in-2025-444p)
-- [What is Schedule Variance in Project Management?](https://dev.to/oodlesplatform/what-is-schedule-variance-in-project-management-2oi8)
-- [The 2025 Developer&#39;s AI Stack: 15 Tools That Actually Save Time &lpar;With Real ROI Data&rpar;](https://dev.to/teamcamp/the-2025-developers-ai-stack-15-tools-that-actually-save-time-with-real-roi-data-598p)
+- [How to Prepare Your Data and Goals Before Building Anything with ML](https://dev.to/arbisoftcompany/how-to-prepare-your-data-and-goals-before-building-anything-with-ml-1dm7)
+- [Beyond Clean Code &amp; Architecture: Adapting Practices for Project Success](https://dev.to/alvarolorentedev/beyond-clean-code-architecture-adapting-practices-for-project-success-5eb4)
+- [Learning In Public - DevOps](https://dev.to/dharun_496b52d76f8f606a96/learning-in-public-devops-3hkb)
+- [Boas práticas para criar prompts - João Cláudio Nunes Carvalho](https://dev.to/joo_cludiojoaoclaudio/boas-praticas-para-criar-prompts-joao-claudio-nunes-carvalho-n7d)
+- [What Is Schedule Variance in Project Management?](https://dev.to/oodles-platform/what-is-schedule-variance-in-project-management-17ee)
 <!-- BLOG-POST-LIST:END -->
 
 ---
