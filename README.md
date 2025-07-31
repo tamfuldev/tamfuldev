@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: THQ Nordic Digital Showcase 2025](https://dev.to/gg_news/gamespot-thq-nordic-digital-showcase-2025-2la0)
-- [IGN: The Fantastic Four: First Steps - Official &#39;Hold On&#39; Trailer &lpar;2025&rpar; Pedro Pascal, Vanessa Kirby](https://dev.to/gg_news/ign-the-fantastic-four-first-steps-official-hold-on-trailer-2025-pedro-pascal-vanessa-kirby-56fe)
-- [IGN: No, Hideo Kojima Won&#39;t Be Playing Metal Gear Solid Delta Snake Eater - IGN Daily Fix](https://dev.to/gg_news/ign-no-hideo-kojima-wont-be-playing-metal-gear-solid-delta-snake-eater-ign-daily-fix-41mk)
-- [IGN: Donkey Kong Bananza - Every Forest Layer Fossil Location | Rare and Legendary](https://dev.to/gg_news/ign-donkey-kong-bananza-every-forest-layer-fossil-location-rare-and-legendary-4ghi)
-- [IGN: Nicktoons &amp; The Dice of Destiny - Official Extended Gameplay Reveal Trailer](https://dev.to/gg_news/ign-nicktoons-the-dice-of-destiny-official-extended-gameplay-reveal-trailer-2alc)
+- [Why Usage-Based Pricing Felt Right for My AI Tool — and How I Pulled It Of](https://dev.to/sholajegede/why-usage-based-pricing-felt-right-for-my-ai-tool-and-how-i-pulled-it-of-553n)
+- [3D Cosine Relationship Graph](https://dev.to/dan52242644dan/3d-cosine-relationship-graph-4l9h)
+- [3 Mistakes I Made Shipping My AI MVP Too Fast — and How I Fixed Them](https://dev.to/sholajegede/3-mistakes-i-made-shipping-my-ai-mvp-too-fast-and-how-i-fixed-them-300m)
+- [ShellGuard: Building an AI-Assisted Command Approval System for SSH Security](https://dev.to/rob_d_2c0d55e14e7037f2/shellguard-building-an-ai-assisted-command-approval-system-for-ssh-security-36h3)
+- [How I Built a Real-Time IoT Alert System with DynamoDB and Lambda In 4 Days](https://dev.to/christopherclemmons/i-built-an-enterprise-ready-cold-chain-alert-system-from-scratch-in-7-days-49dg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
