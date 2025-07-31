@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Prepare Your Data and Goals Before Building Anything with ML](https://dev.to/arbisoftcompany/how-to-prepare-your-data-and-goals-before-building-anything-with-ml-1dm7)
-- [Beyond Clean Code &amp; Architecture: Adapting Practices for Project Success](https://dev.to/alvarolorentedev/beyond-clean-code-architecture-adapting-practices-for-project-success-5eb4)
-- [Learning In Public - DevOps](https://dev.to/dharun_496b52d76f8f606a96/learning-in-public-devops-3hkb)
-- [Boas práticas para criar prompts - João Cláudio Nunes Carvalho](https://dev.to/joo_cludiojoaoclaudio/boas-praticas-para-criar-prompts-joao-claudio-nunes-carvalho-n7d)
-- [What Is Schedule Variance in Project Management?](https://dev.to/oodles-platform/what-is-schedule-variance-in-project-management-17ee)
+- [Mastering AWS Networking: My Journey Begins!](https://dev.to/_eve_/mastering-aws-networking-my-journey-begins-1l3j)
+- [Ekubo: A Simple Guide to Decentralized Liquidity on Starknet](https://dev.to/cherri_underwood_90a69668/ekubo-a-simple-guide-to-decentralized-liquidity-on-starknet-3fmk)
+- [i want create a small website using html and css](https://dev.to/saloni_yangundi_d8fb1e759/i-want-create-a-small-website-using-html-and-css-1041)
+- [Embracing the Chaos of a Multi-Passionate Career](https://dev.to/lois_codes_diary/embracing-the-chaos-of-a-multi-passionate-career-42n0)
+- [From Zero to Telegram AI Bot: My Experience Building with Bolt and Gemini](https://dev.to/oleg_pydev/from-zero-to-telegram-ai-bot-my-experience-building-with-bolt-and-gemini-1kbi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
