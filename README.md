@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Turned a Voice AI Demo Into a Real SaaS App — Auth, Access, and Limits](https://dev.to/sholajegede/how-i-turned-a-voice-ai-demo-into-a-real-saas-app-auth-access-and-limits-14fl)
-- [Andrew Huang: 10 free online tools for musicians!](https://dev.to/music_youtube/andrew-huang-10-free-online-tools-for-musicians-2k7m)
-- [IGN: Hela - Official Release Window Announcement Trailer | Nintendo Direct Partner Showcase 2025](https://dev.to/gg_news/ign-hela-official-release-window-announcement-trailer-nintendo-direct-partner-showcase-2025-2hdb)
-- [IGN: Just Dance 2026 Edition - Official Reveal Trailer | Nintendo Direct Partner Showcase 2025](https://dev.to/gg_news/ign-just-dance-2026-edition-official-reveal-trailer-nintendo-direct-partner-showcase-2025-4158)
-- [IGN: NBA Bounce - Official Gameplay Reveal Trailer | Nintendo Direct Partner Showcase 2025](https://dev.to/gg_news/ign-nba-bounce-official-gameplay-reveal-trailer-nintendo-direct-partner-showcase-2025-221a)
+- [TrixaHub.com – Free Tools for Devs, Designers, Creators, and Curious Minds](https://dev.to/trixahub/trixahubcom-free-tools-for-devs-designers-creators-and-curious-minds-4hkj)
+- [How Scaling AI is Driving a New Energy Crisis: Are We Prepared?](https://dev.to/jay_all_day/how-scaling-ai-is-driving-a-new-energy-crisis-are-we-prepared-125o)
+- [Building a Mailbox Pattern in Spring Boot to Decouple Your Application Layers](https://dev.to/galisetty_priyatham_c1a49/building-a-mailbox-pattern-in-spring-boot-to-decouple-your-application-layers-50ec)
+- [Indexes in MySQL: How long do you wait before calling an index &quot;unused&quot;?](https://dev.to/drupaladmin/indexes-in-mysql-how-long-do-you-wait-before-calling-an-index-unused-1do8)
+- [AI Agents for DevOps: Architect, Deploy, and Automate Like a Pro — Book Launch](https://dev.to/theopskart/ai-agents-for-devops-architect-deploy-and-automate-like-a-pro-book-launch-1n1o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
