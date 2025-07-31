@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [20 Million Users in 3 Months: What This Means for AI Coding Competition](https://dev.to/jay_all_day/20-million-users-in-3-months-what-this-means-for-ai-coding-competition-41k3)
-- [High-Performance Code Analysis Engine for Claude Code in C++17](https://dev.to/charmpic/niyacheng-zhi-itasimasitaniya-nekocode-cnoji-shu-gai-yao-nituite-ding-zhu-niying-yi-simasuniya-high-performance-code-analysis-engine-for-claude-1pci)
-- [Cost Breakdown: Outsourcing Rates by Region in 2025 &lpar;vs 2020–2025&rpar;](https://dev.to/pavel_buyeu/cost-breakdown-outsourcing-rates-by-region-in-2025-vs-2020-2025-4h01)
-- [Write Code Like Sherlock Holmes: The Art of Deductive Development 🔍](https://dev.to/vontajohnson/write-code-like-sherlock-holmes-the-art-of-deductive-development-3ghp)
-- [Running Playwright Tests on Pull Requests](https://dev.to/signadot/running-playwright-tests-on-pull-requests-4kg2)
+- [👨‍💻 Teach Yourself CS — A Self-Taught Developer’s Roadmap to Computer Science](https://dev.to/ml318097/teach-yourself-cs-a-self-taught-developers-roadmap-to-computer-science-1p19)
+- [IGN: Yakuza Kiwami 1 &amp; Kiwami 2 - Official Nintendo Switch 2 Trailer | Nintendo Direct Partner Showcase](https://dev.to/gg_news/ign-yakuza-kiwami-1-kiwami-2-official-nintendo-switch-2-trailer-nintendo-direct-partner-51md)
+- [IGN: Hello Kitty Island Adventure - Official Wheatflour Wonderland DLC Reveal Trailer | Direct 2025](https://dev.to/gg_news/ign-hello-kitty-island-adventure-official-wheatflour-wonderland-dlc-reveal-trailer-direct-2025-339c)
+- [IGN: Ninja Gaiden: Ragebound - Official Launch Trailer](https://dev.to/gg_news/ign-ninja-gaiden-ragebound-official-launch-trailer-3j57)
+- [IGN: The Conjuring: Last Rites Director on the End &lpar;and Future&rpar; of the Horror Franchise](https://dev.to/gg_news/ign-the-conjuring-last-rites-director-on-the-end-and-future-of-the-horror-franchise-1fl1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
