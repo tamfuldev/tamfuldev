@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [TrixaHub.com – Free Tools for Devs, Designers, Creators, and Curious Minds](https://dev.to/trixahub/trixahubcom-free-tools-for-devs-designers-creators-and-curious-minds-4hkj)
-- [How Scaling AI is Driving a New Energy Crisis: Are We Prepared?](https://dev.to/jay_all_day/how-scaling-ai-is-driving-a-new-energy-crisis-are-we-prepared-125o)
-- [Building a Mailbox Pattern in Spring Boot to Decouple Your Application Layers](https://dev.to/galisetty_priyatham_c1a49/building-a-mailbox-pattern-in-spring-boot-to-decouple-your-application-layers-50ec)
-- [Indexes in MySQL: How long do you wait before calling an index &quot;unused&quot;?](https://dev.to/drupaladmin/indexes-in-mysql-how-long-do-you-wait-before-calling-an-index-unused-1do8)
-- [AI Agents for DevOps: Architect, Deploy, and Automate Like a Pro — Book Launch](https://dev.to/theopskart/ai-agents-for-devops-architect-deploy-and-automate-like-a-pro-book-launch-1n1o)
+- [IGN: Marvel Tokon: Fighting Souls - Official Beginners Guide Overview](https://dev.to/gg_news/ign-marvel-tokon-fighting-souls-official-beginners-guide-overview-k8a)
+- [IGN: Exiledge - Official Gameplay Trailer](https://dev.to/gg_news/ign-exiledge-official-gameplay-trailer-1m7m)
+- [IGN: THQ Nordic Digital Showcase 2025](https://dev.to/gg_news/ign-thq-nordic-digital-showcase-2025-4348)
+- [IGN: Battlefield 6 - Official Multiplayer Gameplay Reveal Trailer](https://dev.to/gg_news/ign-battlefield-6-official-multiplayer-gameplay-reveal-trailer-5c97)
+- [IGN: Battlefield 6 Multiplayer Gameplay: Full Conquest Match on Siege of Cairo](https://dev.to/gg_news/ign-battlefield-6-multiplayer-gameplay-full-conquest-match-on-siege-of-cairo-3ego)
 <!-- BLOG-POST-LIST:END -->
 
 ---
