@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I hated React, so I created my own web framework, Nijor !](https://dev.to/debaxom/i-hated-react-so-i-created-my-own-web-framework-nijor--8cl)
-- [👋 What is SqueHub?](https://dev.to/squehub/what-is-squehub-100k)
-- [Securing REST APIs in Go &lpar;Echo Framework Edition&rpar;](https://dev.to/lovestaco/securing-rest-apis-in-go-echo-framework-edition-259g)
-- [React Native Storybook Toggle](https://dev.to/steckdev/react-native-storybook-toggle-44cp)
-- [What Happens After You Log a Bug? The QA Perspective](https://dev.to/qalogy/what-happens-after-you-log-a-bug-the-qa-perspective-ech)
+- [How I Turned a Voice AI Demo Into a Real SaaS App — Auth, Access, and Limits](https://dev.to/sholajegede/how-i-turned-a-voice-ai-demo-into-a-real-saas-app-auth-access-and-limits-14fl)
+- [Andrew Huang: 10 free online tools for musicians!](https://dev.to/music_youtube/andrew-huang-10-free-online-tools-for-musicians-2k7m)
+- [IGN: Hela - Official Release Window Announcement Trailer | Nintendo Direct Partner Showcase 2025](https://dev.to/gg_news/ign-hela-official-release-window-announcement-trailer-nintendo-direct-partner-showcase-2025-2hdb)
+- [IGN: Just Dance 2026 Edition - Official Reveal Trailer | Nintendo Direct Partner Showcase 2025](https://dev.to/gg_news/ign-just-dance-2026-edition-official-reveal-trailer-nintendo-direct-partner-showcase-2025-4158)
+- [IGN: NBA Bounce - Official Gameplay Reveal Trailer | Nintendo Direct Partner Showcase 2025](https://dev.to/gg_news/ign-nba-bounce-official-gameplay-reveal-trailer-nintendo-direct-partner-showcase-2025-221a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
