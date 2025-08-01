@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Usage-Based Pricing Felt Right for My AI Tool — and How I Pulled It Of](https://dev.to/sholajegede/why-usage-based-pricing-felt-right-for-my-ai-tool-and-how-i-pulled-it-of-553n)
-- [3D Cosine Relationship Graph](https://dev.to/dan52242644dan/3d-cosine-relationship-graph-4l9h)
-- [3 Mistakes I Made Shipping My AI MVP Too Fast — and How I Fixed Them](https://dev.to/sholajegede/3-mistakes-i-made-shipping-my-ai-mvp-too-fast-and-how-i-fixed-them-300m)
-- [ShellGuard: Building an AI-Assisted Command Approval System for SSH Security](https://dev.to/rob_d_2c0d55e14e7037f2/shellguard-building-an-ai-assisted-command-approval-system-for-ssh-security-36h3)
-- [How I Built a Real-Time IoT Alert System with DynamoDB and Lambda In 4 Days](https://dev.to/christopherclemmons/i-built-an-enterprise-ready-cold-chain-alert-system-from-scratch-in-7-days-49dg)
+- [DAY 03 - Few Days into My SDK in C++… and I&#39;m Already Switching to C](https://dev.to/estrolabz/day-03-few-days-into-my-sdk-in-c-and-im-already-switching-to-c-2p0c)
+- [Are You Really Copying in Python? 🤯 Shallow vs Deep Copy Explained](https://dev.to/moni121189/are-you-really-copying-in-python-shallow-vs-deep-copy-explained-4mal)
+- [Day 1/50 Basics on cyber security &amp; web2](https://dev.to/hills/day-150-basics-on-cyber-security-web2-1fop)
+- [Publicar un sitio web con angular en GCP AppEngine Standard](https://dev.to/jhonalvarez/publicar-un-sitio-web-con-angular-en-gcp-appengine-standard-29g2)
+- [GUIA PRÁTICO DE COMANDOS DO DOCKER #5](https://dev.to/heyglonfabio/guia-pratico-de-comandos-do-docker-5-431o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
