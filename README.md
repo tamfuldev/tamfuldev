@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Oh boy, let&#39;s see how this goes :&rpar; — Added a Meme monday re-post bot to get things rolling.](https://dev.to/ben/oh-boy-lets-see-how-this-goes-added-a-meme-monday-re-post-bot-to-get-things-rolling-3ip)
-- [Business Analyst Interview Questions with Answers:](https://dev.to/marrmorgan/business-analyst-interview-questions-with-answers-4ndp)
-- [🚀 RS Calculator v0.2.0: Safer, Smarter, and Now Supports Full Math Expressions!](https://dev.to/rasa8877/rs-calculator-v020-safer-smarter-and-now-supports-full-math-expressions-2ic1)
-- [Building a Paid MCP Server](https://dev.to/eugene_lobachev/building-a-paid-mcp-service-2nh4)
-- [The System You Cannot Install: Dismantling Reality from Code That Was Never Written](https://dev.to/sovellaperezp/the-system-you-cannot-install-dismantling-reality-from-code-that-was-never-written-34pm)
+- [IGN: IGN&#39;s Greatest Racing Game Bracket: Predict to Win a PS5 or Xbox Series X!](https://dev.to/gg_news/ign-igns-greatest-racing-game-bracket-predict-to-win-a-ps5-or-xbox-series-x-5126)
+- [IGN: Grounded 2 Mutations Guide: Everything You Need to Know!](https://dev.to/gg_news/ign-grounded-2-mutations-guide-everything-you-need-to-know-47bd)
+- [IGN: Eyes of Wakanda - Official &#39;Now Streaming&#39; Teaser Trailer &lpar;2025&rpar; Winnie Harlow, Cress Williams](https://dev.to/gg_news/ign-eyes-of-wakanda-official-now-streaming-teaser-trailer-2025-winnie-harlow-cress-williams-3b8e)
+- [IGN: SpongeBob Squarepants: Titans of the Tide - Official Announcement Trailer | THQ Nordic Digital Showc](https://dev.to/gg_news/ign-spongebob-squarepants-titans-of-the-tide-official-announcement-trailer-thq-nordic-digital-4922)
+- [IGN: Wreckreation - Official Trailer | THQ Nordic Digital Showcase 2025](https://dev.to/gg_news/ign-wreckreation-official-trailer-thq-nordic-digital-showcase-2025-46k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
