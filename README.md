@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DAY 03 - Few Days into My SDK in C++… and I&#39;m Already Switching to C](https://dev.to/estrolabz/day-03-few-days-into-my-sdk-in-c-and-im-already-switching-to-c-2p0c)
-- [Are You Really Copying in Python? 🤯 Shallow vs Deep Copy Explained](https://dev.to/moni121189/are-you-really-copying-in-python-shallow-vs-deep-copy-explained-4mal)
-- [Day 1/50 Basics on cyber security &amp; web2](https://dev.to/hills/day-150-basics-on-cyber-security-web2-1fop)
-- [Publicar un sitio web con angular en GCP AppEngine Standard](https://dev.to/jhonalvarez/publicar-un-sitio-web-con-angular-en-gcp-appengine-standard-29g2)
-- [GUIA PRÁTICO DE COMANDOS DO DOCKER #5](https://dev.to/heyglonfabio/guia-pratico-de-comandos-do-docker-5-431o)
+- [Responsive and sustainable images in markdown &lpar;commonmark&rpar; using haskell MMark](https://dev.to/injeniero/responsive-and-sustainable-images-in-markdown-commonmark-using-haskell-mmark-1gjm)
+- [Creating a Docker Image from a Running Container](https://dev.to/kevin_suchetan_6f9d783b4f/creating-a-docker-image-from-a-running-container-4g13)
+- [Best Alternatives to RapidAPI](https://dev.to/leowood/best-alternatives-to-rapidapi-n7l)
+- [Build React Components with Conversational AI](https://dev.to/atforeveryoung/build-react-components-with-conversational-ai-1mgm)
+- [Bolt TechInnovators-Intranet](https://dev.to/ignaciah/bolt-techinnovators-intranet-92n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
