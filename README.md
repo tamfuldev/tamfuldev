@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Custom React Hooks for API Calls + Lazy Loading View-Based Data](https://dev.to/maurya-sachin/custom-react-hooks-for-api-calls-lazy-loading-view-based-data-33o1)
-- [Markdown Learning](https://dev.to/namikazemar/markdown-learning-h61)
-- [Unlocking Enterprise Efficiency: A Deep Dive into Windows 10/11 Enterprise E3](https://dev.to/asim_baral_30dc94383b418b/unlocking-enterprise-efficiency-a-deep-dive-into-windows-1011-enterprise-e3-3c4j)
-- [WTF is Supabase?](https://dev.to/dailybugle33/wtf-is-supabase-1o28)
-- [How I Deal With Burnout Before It Starts](https://dev.to/vadym_info_polus/how-i-deal-with-burnout-before-it-starts-40f1)
+- [NPR Music: Sierra Hull: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-sierra-hull-tiny-desk-concert-1h5o)
+- [Exploring Real-Time Communication with WebRTC in JavaScript](https://dev.to/vjnvisakh/exploring-real-time-communication-with-webrtc-in-javascript-1dd9)
+- [Building, Securing, and Deploying a Go App with GitLab CI/CD EP 1: Getting Started with GitLab CI/CD and Docker-in-Docker](https://dev.to/mirrorsan/building-securing-and-deploying-a-go-app-with-gitlab-cicd-ep-1-getting-started-with-gitlab-56f5)
+- [Commit Patterns](https://dev.to/doccaio/commit-patterns-2dep)
+- [How I Trained an LLM to Debug My Git Workflows Intelligently](https://dev.to/leena_malhotra_355340d89c/how-i-trained-an-llm-to-debug-my-git-workflows-intelligently-3h52)
 <!-- BLOG-POST-LIST:END -->
 
 ---
