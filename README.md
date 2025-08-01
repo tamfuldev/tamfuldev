@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t Learn to Code Until You Read This](https://dev.to/thetechpreneur/dont-learn-to-code-until-you-read-this-1ohn)
-- [Pattern Printing Series: Alphabet Patterns Explained with Logic](https://dev.to/datatoinfinity/pattern-printing-series-alphabet-patterns-explained-with-logic-5enl)
-- [Mark Rober: Making MrBeast Drink His Own Pee &lpar;w/Science&rpar;](https://dev.to/maker_youtube/mark-rober-making-mrbeast-drink-his-own-pee-wscience-cm0)
-- [Class, Object, Instance](https://dev.to/emmakang123/class-object-instance-3pel)
-- [IGN: EA Sports Madden NFL 26 - Official Live-Action Launch Trailer](https://dev.to/gg_news/ign-ea-sports-madden-nfl-26-official-live-action-launch-trailer-3npk)
+- [Oh boy, let&#39;s see how this goes :&rpar; — Added a Meme monday re-post bot to get things rolling.](https://dev.to/ben/oh-boy-lets-see-how-this-goes-added-a-meme-monday-re-post-bot-to-get-things-rolling-3ip)
+- [Business Analyst Interview Questions with Answers:](https://dev.to/marrmorgan/business-analyst-interview-questions-with-answers-4ndp)
+- [🚀 RS Calculator v0.2.0: Safer, Smarter, and Now Supports Full Math Expressions!](https://dev.to/rasa8877/rs-calculator-v020-safer-smarter-and-now-supports-full-math-expressions-2ic1)
+- [Building a Paid MCP Server](https://dev.to/eugene_lobachev/building-a-paid-mcp-service-2nh4)
+- [The System You Cannot Install: Dismantling Reality from Code That Was Never Written](https://dev.to/sovellaperezp/the-system-you-cannot-install-dismantling-reality-from-code-that-was-never-written-34pm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
