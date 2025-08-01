@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: IGN&#39;s Greatest Racing Game Bracket: Predict to Win a PS5 or Xbox Series X!](https://dev.to/gg_news/ign-igns-greatest-racing-game-bracket-predict-to-win-a-ps5-or-xbox-series-x-5126)
-- [IGN: Grounded 2 Mutations Guide: Everything You Need to Know!](https://dev.to/gg_news/ign-grounded-2-mutations-guide-everything-you-need-to-know-47bd)
-- [IGN: Eyes of Wakanda - Official &#39;Now Streaming&#39; Teaser Trailer &lpar;2025&rpar; Winnie Harlow, Cress Williams](https://dev.to/gg_news/ign-eyes-of-wakanda-official-now-streaming-teaser-trailer-2025-winnie-harlow-cress-williams-3b8e)
-- [IGN: SpongeBob Squarepants: Titans of the Tide - Official Announcement Trailer | THQ Nordic Digital Showc](https://dev.to/gg_news/ign-spongebob-squarepants-titans-of-the-tide-official-announcement-trailer-thq-nordic-digital-4922)
-- [IGN: Wreckreation - Official Trailer | THQ Nordic Digital Showcase 2025](https://dev.to/gg_news/ign-wreckreation-official-trailer-thq-nordic-digital-showcase-2025-46k)
+- [PKI With No Headache &lpar;Part 1&rpar;: A Real World Example](https://dev.to/tarique-mirza/pki-with-no-headache-part-1-a-real-world-example-453d)
+- [RELAX NGとSchematronを組み合わせたTEI XMLスキーマの実装ガイド](https://dev.to/_1cdfa8d07c5ded0d81c41/relax-ngtoschematronwozu-mihe-wasetatei-xmlsukimanoshi-zhuang-gaido-2mjc)
+- [Rozwiązania zadań egzaminacyjnych INF.03 &lpar;HTML, CSS, PHP, SQL&rpar;](https://dev.to/jay_be_9ef3309da8c701acdd/rozwiazania-zadan-egzaminacyjnych-inf03-html-css-php-sql-449b)
+- [CSS oklch&lpar;&rpar; color function](https://dev.to/karenbarbe/css-oklch-color-function-959)
+- [Creating Arrays of Arrays &lpar;Nested Arrays&rpar; in JavaScript: Common Pitfalls and Best Practices](https://dev.to/byte-sized-news/creating-arrays-of-arrays-nested-arrays-in-javascript-common-pitfalls-and-best-practices-20de)
 <!-- BLOG-POST-LIST:END -->
 
 ---
