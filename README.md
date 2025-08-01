@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [PKI With No Headache &lpar;Part 1&rpar;: A Real World Example](https://dev.to/tarique-mirza/pki-with-no-headache-part-1-a-real-world-example-453d)
-- [RELAX NGとSchematronを組み合わせたTEI XMLスキーマの実装ガイド](https://dev.to/_1cdfa8d07c5ded0d81c41/relax-ngtoschematronwozu-mihe-wasetatei-xmlsukimanoshi-zhuang-gaido-2mjc)
-- [Rozwiązania zadań egzaminacyjnych INF.03 &lpar;HTML, CSS, PHP, SQL&rpar;](https://dev.to/jay_be_9ef3309da8c701acdd/rozwiazania-zadan-egzaminacyjnych-inf03-html-css-php-sql-449b)
-- [CSS oklch&lpar;&rpar; color function](https://dev.to/karenbarbe/css-oklch-color-function-959)
-- [Creating Arrays of Arrays &lpar;Nested Arrays&rpar; in JavaScript: Common Pitfalls and Best Practices](https://dev.to/byte-sized-news/creating-arrays-of-arrays-nested-arrays-in-javascript-common-pitfalls-and-best-practices-20de)
+- [Mix with the Masters: Mixing Night with Ken Lewis - DAW TRICKS NIGHT - 8/6/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-daw-tricks-night-862025-3g8m)
+- [IGN: Borderlands 4 - Official &#39;Designing Rafa&#39; Trailer](https://dev.to/gg_news/ign-borderlands-4-official-designing-rafa-trailer-9c5)
+- [IGN: EA Sports FC 26 - Official Career Overview Trailer](https://dev.to/gg_news/ign-ea-sports-fc-26-official-career-overview-trailer-1440)
+- [IGN: Shinobi: Art of Vengeance - The First 26 Minutes of Gameplay](https://dev.to/gg_news/ign-shinobi-art-of-vengeance-the-first-26-minutes-of-gameplay-2gbi)
+- [IoT Applications for Predictive Maintenance in Composite Structures](https://dev.to/emily_johnson_dev/iot-applications-for-predictive-maintenance-in-composite-structures-11j4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
