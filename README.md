@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Krish Naik: Step By Step Process To Build MultiModal RAG With Langchain&lpar;PDF And Images&rpar;](https://dev.to/vibe_youtube/krish-naik-step-by-step-process-to-build-multimodal-rag-with-langchainpdf-and-images-2bno)
-- [Get Real-Time Bangladeshi Taka Exchange Rates Without an API Key](https://dev.to/devparvez/get-real-time-bangladeshi-taka-exchange-rates-without-an-api-key-je4)
-- [🤖 What is a Parameterized Job in Jenkins?](https://dev.to/yash1307/what-is-a-parameterized-job-in-jenkins-137e)
-- [EventStream Hub - Real-Time Event Processing with Redis as Primary Database](https://dev.to/ariondev/eventstream-hub-real-time-event-processing-with-redis-as-primary-database-5ba5)
-- [Web Developer Travis McCracken on Using Async Rust Safely](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-using-async-rust-safely-f3c)
+- [Mastering React Native with TypeScript: From Basics to Brilliance - Part 3](https://dev.to/rushikeshpandit/mastering-react-native-with-typescript-from-basics-to-brilliance-part-3-p0m)
+- [🔌 Build a Native Module in React Native &lpar;Battery Level Example for Android &amp; iOS&rpar;](https://dev.to/lav_pranjale_4cdd421d464d/build-a-native-module-in-react-native-battery-level-example-for-android-ios-46i4)
+- [How Pseudocode Programming Process Leveled Up My Software Engineering Skills](https://dev.to/bikodes/how-pseudocode-programming-process-leveled-up-my-software-engineering-skills-ob3)
+- [The Honest Roadmap to Learning Machine Learning](https://dev.to/fridaycandours/the-honest-roadmap-to-learning-machine-learning-49al)
+- [Building an AI FAQ Assistant with Redis 8 and OpenAI](https://dev.to/dilumdarshana/building-an-ai-faq-assistant-with-redis-8-and-openai-5o9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
