@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Crea y Elimina Cientos de Clases de Google Classroom con un Script](https://dev.to/elprotectorado/crea-y-elimina-cientos-de-clases-de-google-classroom-con-un-script-5ddj)
-- [What is Software Developer? - I](https://dev.to/oliver_butler_a52c1be144d/what-is-software-developer-i-40lc)
-- [Creating Materialized View with FAST REFRESH](https://dev.to/mrcaption49/creating-materialized-view-with-fast-refresh-4e8p)
-- [IGN: Aggelos 2 - Official Publisher Announcement Trailer](https://dev.to/gg_news/ign-aggelos-2-official-publisher-announcement-trailer-563c)
-- [When &quot;Private&quot; Isn’t: The Security Risks of GPT Chats Leaking to Search Engines](https://dev.to/snyk/when-private-isnt-the-security-risks-of-gpt-chats-leaking-to-search-engines-443k)
+- [Progressive Web App &lpar;PWA&rpar; vs Native: Which Wins for ROI in 2025?](https://dev.to/softosync/progressive-web-app-pwa-vs-native-which-wins-for-roi-in-2025-892)
+- [I Launched My First Startup at 16 — and Nobody Came](https://dev.to/pjdeveloper896/i-launched-my-first-startup-at-16-and-nobody-came-3em1)
+- [FLUX.1 Krea: Local AI Image Generator Installation Guide](https://dev.to/localfaceswap/flux1-krea-local-ai-image-generator-installation-guide-4b64)
+- [External Tables | File Management](https://dev.to/mrcaption49/external-tables-file-management-53n2)
+- [Isaque Neri: O Jovem Mais Influente da Tecnologia Cristã](https://dev.to/godby_f4261c72ceef8b090bb/isaque-neri-o-jovem-mais-influente-da-tecnologia-crista-g4l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
