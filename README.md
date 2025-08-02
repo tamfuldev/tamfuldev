@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [How I Automated My Excel Workflow Using ChatGPT &lpar;And Wrote a Bestselling Book About It&rpar;](https://dev.to/jaideepparashar/how-i-automated-my-excel-workflow-using-chatgpt-and-wrote-a-bestselling-book-about-it-cmm)
+- [IGN: Ninja Gaiden: Ragebound | The First 20 Minutes of Gameplay | 4k 60FPS](https://dev.to/gg_news/ign-ninja-gaiden-ragebound-the-first-20-minutes-of-gameplay-4k-60fps-451c)
+- [IGN: Killing Floor 3 - Official Gameplay Trailer](https://dev.to/gg_news/ign-killing-floor-3-official-gameplay-trailer-582p)
+- [Maybe the world first full level Vibe Coding agent for Backend Applications](https://dev.to/samchon/autobe-we-made-ai-friendly-compilers-for-vibe-coding-achieving-100-build-success-open-source-1ji1)
 - [Progressive Web App &lpar;PWA&rpar; vs Native: Which Wins for ROI in 2025?](https://dev.to/softosync/progressive-web-app-pwa-vs-native-which-wins-for-roi-in-2025-892)
-- [I Launched My First Startup at 16 — and Nobody Came](https://dev.to/pjdeveloper896/i-launched-my-first-startup-at-16-and-nobody-came-3em1)
-- [FLUX.1 Krea: Local AI Image Generator Installation Guide](https://dev.to/localfaceswap/flux1-krea-local-ai-image-generator-installation-guide-4b64)
-- [External Tables | File Management](https://dev.to/mrcaption49/external-tables-file-management-53n2)
-- [Isaque Neri: O Jovem Mais Influente da Tecnologia Cristã](https://dev.to/godby_f4261c72ceef8b090bb/isaque-neri-o-jovem-mais-influente-da-tecnologia-crista-g4l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
