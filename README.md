@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the KNN Algorithm: Finding Your Nearest Neighbors](https://dev.to/dev_patel_35864ca1db6093c/understanding-the-knn-algorithm-finding-your-nearest-neighbors-1da9)
-- [Why Visual Studio Isn’t Just for Experts: A Gentle Invitation to New Developers.](https://dev.to/ljvasquezr/why-visual-studio-isnt-just-for-experts-a-gentle-invitation-to-new-developers-2520)
-- [How to Calculate Perplexity &lpar;PPL&rpar; the Right Way &lpar;and Avoid Common Pitfalls&rpar;](https://dev.to/edsonke/how-to-calculate-perplexity-ppl-the-right-way-and-avoid-common-pitfalls-2m2c)
-- [Manifesto of the Veteran Programmer](https://dev.to/ljvasquezr/manifesto-of-the-veteran-programmer-19dh)
-- [Title: Lessons Learned: Tracy Young on Building TigerEye](https://dev.to/yagyaraj_sharma_6cd410179/title-lessons-learned-tracy-young-on-building-tigereye-124c)
+- [Crea y Elimina Cientos de Clases de Google Classroom con un Script](https://dev.to/elprotectorado/crea-y-elimina-cientos-de-clases-de-google-classroom-con-un-script-5ddj)
+- [What is Software Developer? - I](https://dev.to/oliver_butler_a52c1be144d/what-is-software-developer-i-40lc)
+- [Creating Materialized View with FAST REFRESH](https://dev.to/mrcaption49/creating-materialized-view-with-fast-refresh-4e8p)
+- [IGN: Aggelos 2 - Official Publisher Announcement Trailer](https://dev.to/gg_news/ign-aggelos-2-official-publisher-announcement-trailer-563c)
+- [When &quot;Private&quot; Isn’t: The Security Risks of GPT Chats Leaking to Search Engines](https://dev.to/snyk/when-private-isnt-the-security-risks-of-gpt-chats-leaking-to-search-engines-443k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
