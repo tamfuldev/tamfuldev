@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The 5 MB Homework Limit That Turned Me Into an App-Builder](https://dev.to/3nginuity_/the-5-mb-homework-limit-that-turned-me-into-an-app-builder-222a)
-- [Best Lightweight Docusaurus Alternative? I Think It’s &quot;docmd&quot; - A Refreshingly Minimal Docs Generator](https://dev.to/bsprout431/best-lightweight-docusaurus-alternative-i-think-its-docmd-a-refreshingly-minimal-docs-47da)
-- [Toward Understanding &amp; Rethinking ITSM in the Age of AI](https://dev.to/kevinasutton/toward-understanding-rethinking-itsm-in-the-age-of-ai-939)
-- [Mix with the Masters: Mixing Night with Ken Lewis - DAW TRICKS NIGHT - 8/6/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-daw-tricks-night-862025-3g8m)
-- [IGN: Borderlands 4 - Official &#39;Designing Rafa&#39; Trailer](https://dev.to/gg_news/ign-borderlands-4-official-designing-rafa-trailer-9c5)
+- [Understanding the KNN Algorithm: Finding Your Nearest Neighbors](https://dev.to/dev_patel_35864ca1db6093c/understanding-the-knn-algorithm-finding-your-nearest-neighbors-1da9)
+- [Why Visual Studio Isn’t Just for Experts: A Gentle Invitation to New Developers.](https://dev.to/ljvasquezr/why-visual-studio-isnt-just-for-experts-a-gentle-invitation-to-new-developers-2520)
+- [How to Calculate Perplexity &lpar;PPL&rpar; the Right Way &lpar;and Avoid Common Pitfalls&rpar;](https://dev.to/edsonke/how-to-calculate-perplexity-ppl-the-right-way-and-avoid-common-pitfalls-2m2c)
+- [Manifesto of the Veteran Programmer](https://dev.to/ljvasquezr/manifesto-of-the-veteran-programmer-19dh)
+- [Title: Lessons Learned: Tracy Young on Building TigerEye](https://dev.to/yagyaraj_sharma_6cd410179/title-lessons-learned-tracy-young-on-building-tigereye-124c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
