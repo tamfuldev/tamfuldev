@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Problem of using GitHub Co-pilot](https://dev.to/ayushrajj/problem-of-using-github-co-pilot-2385)
-- [Dart Lesson 3:Collection Types &lpar;Part 1&rpar; — Using List and Set](https://dev.to/ge_ji_d617c198a4ec85231b1/dart-lesson-3collection-types-part-1-using-list-and-set-59dp)
-- [📆Byte-DatePicker: A Lightweight React Date Picker](https://dev.to/rahmannugar/byte-datepicker-a-lightweight-react-date-picker-420d)
-- [Title: The Mind-Bending Reality of the Self: How Our Brain Creates Our Identity](https://dev.to/yagyaraj_sharma_6cd410179/title-the-mind-bending-reality-of-the-self-how-our-brain-creates-our-identity-11aj)
-- [How to Use NLP to Extract Business Insights from Chat Data](https://dev.to/stephanie_ozor_1e7b693226/how-to-use-nlp-to-extract-business-insights-from-chat-data-197a)
+- [Rahasia Efisiensi AI Terungkap! Ini Cara LLM Routing Memilih LLM Paling Cerdas untuk Kebutuhan Anda](https://dev.to/tapskuy/rahasia-efisiensi-ai-terungkap-ini-cara-llm-routing-memilih-llm-paling-cerdas-untuk-kebutuhan-anda-109o)
+- [The Importance of Exoskeletons in Medical Rehabilitation and Mobility for the Disabled](https://dev.to/mdmozammelhaquejasem/the-importance-of-exoskeletons-in-medical-rehabilitation-and-mobility-for-the-disabled-3ng2)
+- [Why .env and .env.local Files Are Crucial in Modern Development Projects](https://dev.to/nk2552003/why-env-and-envlocal-files-are-crucial-in-modern-development-projects-3jop)
+- [The Science Behind Nuclear Bombs: How the Most Powerful Weapons on Earth Work](https://dev.to/xbze3/the-science-behind-nuclear-bombs-how-the-most-powerful-weapons-on-earth-work-5d1n)
+- [Toward a Smarter Future: Why Guyana Needs Sector-Specific ICT Training](https://dev.to/xbze3/toward-a-smarter-future-why-guyana-needs-sector-specific-ict-training-1gmf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
