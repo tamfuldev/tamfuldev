@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Using GORM as an ORM in Go: A Quick Overview](https://dev.to/diogojlq/using-gorm-as-an-orm-in-go-a-quick-overview-1ja2)
-- [Harnessing Ant Behavior: Secrets to Cutting-Edge Tech Solutions](https://dev.to/jay_all_day/harnessing-ant-behavior-secrets-to-cutting-edge-tech-solutions-30ed)
-- [NuPack v17.2 released](https://dev.to/cnsharp/nupack-v172-released-1aep)
-- [BFS Graph Traversal C++: Story](https://dev.to/harshm03/bfs-graph-traversal-c-story-3c5l)
-- [Redis-Powered Prayer Times App: Location-Aware Islamic Schedule](https://dev.to/siswoyo/redis-powered-prayer-times-app-location-aware-islamic-schedule-5al)
+- [Building Temperature Conversion APIs? Here&#39;s What Every Developer Should Know](https://dev.to/vacancybee/building-temperature-conversion-apis-heres-what-every-developer-should-know-23a8)
+- [🚀 Mastering the Uniface read Statement: Your Complete Guide to Database Operations](https://dev.to/petercode/mastering-the-uniface-read-statement-your-complete-guide-to-database-operations-15dd)
+- [Screenplay Pattern for Test automation: Actors - Who uses our software](https://dev.to/will_drygla/screenplay-pattern-for-test-automation-actors-who-uses-our-software-43kd)
+- [&quot;Entanglement and Emergence with AI &quot; What is this?](https://dev.to/clarityhunter/entanglement-and-emergence-with-ai-what-is-this-5d7f)
+- [What is the N+1 Query Problem and How to Solve it?](https://dev.to/namit2111/what-is-the-n1-query-problem-and-how-to-solve-it-1amg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
