@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Lost Soul Aside - Official Weapons Trailer](https://dev.to/gg_news/ign-lost-soul-aside-official-weapons-trailer-2ami)
-- [IGN: Street Fighter 6 - Official C. Viper Teaser Trailer](https://dev.to/gg_news/ign-street-fighter-6-official-c-viper-teaser-trailer-2a5l)
-- [The Future of Machine Learning: Why CPUs, GPUs, NPUs, and TPUs Are Essential for AI Success](https://dev.to/jay_all_day/the-future-of-machine-learning-why-cpus-gpus-npus-and-tpus-are-essential-for-ai-success-47hk)
-- [Hook Studio](https://dev.to/jxlee007/hook-studio-2m6)
-- [This $1 Course Helped Me Launch a Micro SaaS in 10 Days](https://dev.to/snappy_tuts/this-1-course-helped-me-launch-a-micro-saas-in-10-days-ci6)
+- [Recreating Apple’s AirTag Landing Page in React + Tailwind &lpar;8‑min speed‑run&rpar;](https://dev.to/andreu_pifarre_929397e2bb/recreating-apples-airtag-landing-page-in-react-tailwind-8-min-speed-run-3mp5)
+- [A Promising Automation Idea? #28](https://dev.to/0xj0n1/a-promising-automation-idea-28-415d)
+- [Why RuneScape Private Servers Are Still Growing in 2025](https://dev.to/stefan_apostol_d6fecb38de/why-runescape-private-servers-are-still-growing-in-2025-1lkd)
+- [A step-by-step guide on how to install PostgreSQL on a Linux server](https://dev.to/arnold_mutugi_cca4d931ecc/a-step-by-step-guide-on-how-to-install-postgresql-on-a-linux-server-46hl)
+- [Lessons Learned @ MLH Fellowship - Production Engineering Track](https://dev.to/mom_bub_28e21a2b57438f770/lessons-learned-mlh-fellowship-production-engineering-track-dea)
 <!-- BLOG-POST-LIST:END -->
 
 ---
