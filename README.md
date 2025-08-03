@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding @preconcurrency in Swift](https://dev.to/arshtechpro/understanding-preconcurrency-in-swift-33ml)
-- [From Silence to Sound: Fixing Audio on Samsung Galaxy Book running Ubuntu Linux](https://dev.to/topzyray/from-silence-to-sound-fixing-audio-on-samsung-galaxy-book-running-ubuntu-linux-4kgc)
-- [How to Launch a Scalable WordPress Site on AWS Lightsail in Under 10 Minutes](https://dev.to/fys/how-to-launch-a-scalable-wordpress-site-on-aws-lightsail-in-under-10-minutes-230p)
-- [How I Built a Chrome Extension That Connects Securely to a Flask Backend &lpar;with Google OAuth + Cloud Run&rpar;](https://dev.to/saloni28/how-i-built-a-chrome-extension-that-connects-securely-to-a-flask-backend-with-google-oauth-cloud-1307)
-- [AWS Cloud Path Week 11: AWS Networking Workshop Part 1 - Building Secure VPC Infrastructure](https://dev.to/aws-builders/aws-cloud-path-week-11-aws-networking-workshop-part-1-building-secure-vpc-infrastructure-4c5c)
+- [Problem of using GitHub Co-pilot](https://dev.to/ayushrajj/problem-of-using-github-co-pilot-2385)
+- [Dart Lesson 3:Collection Types &lpar;Part 1&rpar; — Using List and Set](https://dev.to/ge_ji_d617c198a4ec85231b1/dart-lesson-3collection-types-part-1-using-list-and-set-59dp)
+- [📆Byte-DatePicker: A Lightweight React Date Picker](https://dev.to/rahmannugar/byte-datepicker-a-lightweight-react-date-picker-420d)
+- [Title: The Mind-Bending Reality of the Self: How Our Brain Creates Our Identity](https://dev.to/yagyaraj_sharma_6cd410179/title-the-mind-bending-reality-of-the-self-how-our-brain-creates-our-identity-11aj)
+- [How to Use NLP to Extract Business Insights from Chat Data](https://dev.to/stephanie_ozor_1e7b693226/how-to-use-nlp-to-extract-business-insights-from-chat-data-197a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
