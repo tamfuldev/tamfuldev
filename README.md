@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mock Interview Questions :](https://dev.to/vigneshwaralingam/mock-interview-questions--2p9i)
-- [Mr Sunday Movies: 4 BIG changes Four Fantastic: First Steps makes to the MCU](https://dev.to/popcorn_movies/mr-sunday-movies-4-big-changes-four-fantastic-first-steps-makes-to-the-mcu-4n60)
-- [AWS Free Tier &lpar;2025&rpar;: What&#39;s Free &amp; For How Long](https://dev.to/alonshrestha/aws-free-tier-2025-whats-free-for-how-long-356i)
-- [HTMX is hard, so let&#39;s get it right](https://dev.to/bookofcooks/htmx-is-hard-so-lets-get-it-right-3flc)
-- [Passando valores com vírgulas entre páginas usando o Link Builder no Oracle APEX](https://dev.to/valter_filho_24448308265f/passando-valores-com-virgulas-entre-paginas-usando-o-link-builder-no-oracle-apex-58f8)
+- [Top 10 Agentic AI Tools for Developers to Speed Up Coding](https://dev.to/dhruvjoshi9/top-10-agentic-ai-tools-for-developers-to-speed-up-coding-3a4n)
+- [AWS WebSocket Wonders – Part 2: Build &amp; Test a WebSocket API](https://dev.to/aws-builders/aws-websocket-wonders-part-2-build-test-a-websocket-api-3j6k)
+- [Dyad: A Local-First AI App Builder That Puts You in Control](https://dev.to/aifordevelopers/dyad-a-local-first-ai-app-builder-that-puts-you-in-control-16jc)
+- [isupper, islower &amp; istitle in Python](https://dev.to/hyperkai/isupper-islower-istitle-in-python-4kd7)
+- [🚀 How I Built a Frontend-Only Telemetry Dashboard with React &amp; EdgeOne Pages](https://dev.to/soumyendu_dey_2b0d1a71bbf/how-i-built-a-frontend-only-telemetry-dashboard-with-react-edgeone-pages-54o5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
