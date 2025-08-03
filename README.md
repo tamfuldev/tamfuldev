@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Recreating Apple’s AirTag Landing Page in React + Tailwind &lpar;8‑min speed‑run&rpar;](https://dev.to/andreu_pifarre_929397e2bb/recreating-apples-airtag-landing-page-in-react-tailwind-8-min-speed-run-3mp5)
-- [A Promising Automation Idea? #28](https://dev.to/0xj0n1/a-promising-automation-idea-28-415d)
-- [Why RuneScape Private Servers Are Still Growing in 2025](https://dev.to/stefan_apostol_d6fecb38de/why-runescape-private-servers-are-still-growing-in-2025-1lkd)
-- [A step-by-step guide on how to install PostgreSQL on a Linux server](https://dev.to/arnold_mutugi_cca4d931ecc/a-step-by-step-guide-on-how-to-install-postgresql-on-a-linux-server-46hl)
-- [Lessons Learned @ MLH Fellowship - Production Engineering Track](https://dev.to/mom_bub_28e21a2b57438f770/lessons-learned-mlh-fellowship-production-engineering-track-dea)
+- [IGN: Lost Soul Aside - Official Weapons Trailer](https://dev.to/gg_news/ign-lost-soul-aside-official-weapons-trailer-27jf)
+- [IGN: Marvel Tokon: Fighting Souls - Official PS5 Closed Beta Announcement Trailer](https://dev.to/gg_news/ign-marvel-tokon-fighting-souls-official-ps5-closed-beta-announcement-trailer-532e)
+- [IGN: Invincible VS - Official Omni-Man Gameplay Trailer](https://dev.to/gg_news/ign-invincible-vs-official-omni-man-gameplay-trailer-4n4b)
+- [Efficient Concurrency in Go Using select](https://dev.to/leapcell/efficient-concurrency-in-go-using-select-27je)
+- [Java Records Constructor Validation: Beyond the Boilerplate](https://dev.to/agavrilov76/java-records-constructor-validation-beyond-the-boilerplate-5h4i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
