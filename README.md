@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Lost Soul Aside - Official Weapons Trailer](https://dev.to/gg_news/ign-lost-soul-aside-official-weapons-trailer-446o)
-- [IGN: Invincible VS High-Level Gameplay | EVO 2025](https://dev.to/gg_news/ign-invincible-vs-high-level-gameplay-evo-2025-3f18)
-- [IGN: Mortal Kombat Legacy Kollection - Developer Interview | EVO 2025](https://dev.to/gg_news/ign-mortal-kombat-legacy-kollection-developer-interview-evo-2025-1o80)
-- [Unlocking AI Potential: How Contextualized Evaluations Transform Model Assessments](https://dev.to/jay_all_day/unlocking-ai-potential-how-contextualized-evaluations-transform-model-assessments-5d9i)
-- [Are We Taking &quot;Clean Code&quot; Too Far?](https://dev.to/andyosyndoh/are-we-taking-clean-code-too-far-224j)
+- [Why You Shouldn’t Define a Component Inside Another Component in React](https://dev.to/newtonfdz/why-you-shouldnt-define-a-component-inside-another-component-in-react-30h3)
+- [Kubernetes Ingress Playlist Part 1 - Understanding Ingress Controllers](https://dev.to/aws-builders/kubernetes-ingress-playlist-part-1-understanding-ingress-controllers-1mjj)
+- [Java Inheritance](https://dev.to/a_ramesh/java-inheritance-3lcl)
+- [Turn History PDF Books into AI-Ready Q&amp;A Datasets with This Python Tool!](https://dev.to/ayabongaqwabi/turn-history-pdf-books-into-ai-ready-qa-datasets-with-this-python-tool-5dh6)
+- [LLM Hallucinations: When AI Goes Off the Rails](https://dev.to/rijultp/llm-hallucinations-when-ai-goes-off-the-rails-4ifh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
