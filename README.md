@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Agentic AI Tools for Developers to Speed Up Coding](https://dev.to/dhruvjoshi9/top-10-agentic-ai-tools-for-developers-to-speed-up-coding-3a4n)
-- [AWS WebSocket Wonders – Part 2: Build &amp; Test a WebSocket API](https://dev.to/aws-builders/aws-websocket-wonders-part-2-build-test-a-websocket-api-3j6k)
-- [Dyad: A Local-First AI App Builder That Puts You in Control](https://dev.to/aifordevelopers/dyad-a-local-first-ai-app-builder-that-puts-you-in-control-16jc)
-- [isupper, islower &amp; istitle in Python](https://dev.to/hyperkai/isupper-islower-istitle-in-python-4kd7)
-- [🚀 How I Built a Frontend-Only Telemetry Dashboard with React &amp; EdgeOne Pages](https://dev.to/soumyendu_dey_2b0d1a71bbf/how-i-built-a-frontend-only-telemetry-dashboard-with-react-edgeone-pages-54o5)
+- [Best tips to learn music?](https://dev.to/thomasbnt/best-tips-to-learn-music-4e36)
+- [Laura Kampf: What can I make with the most boring chair in the world?](https://dev.to/maker_youtube/laura-kampf-what-can-i-make-with-the-most-boring-chair-in-the-world-27lc)
+- [Auth and Billing in One API Call: A Pattern Worth Betting On](https://dev.to/sholajegede/auth-and-billing-in-one-api-call-a-pattern-worth-betting-on-57jl)
+- [Adam Savage&#39;s Tested: How Adam Savage Is Good AND Bad at Prioritization](https://dev.to/maker_youtube/adam-savages-tested-how-adam-savage-is-good-and-bad-at-prioritization-24dj)
+- [Installing Pi-hole with an LCD screen](https://dev.to/thomasbnt/installing-pi-hole-with-an-lcd-screen-2kjj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
