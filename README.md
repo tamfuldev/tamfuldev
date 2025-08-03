@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [tips to solve errors/bugs](https://dev.to/nandinishinduja/tips-to-solve-errorsbugs-2iad)
-- [tips to not break production](https://dev.to/nandinishinduja/tips-to-not-break-production-43ja)
-- [how to manage personal tasks if you have long working hours](https://dev.to/nandinishinduja/how-to-manage-personal-tasks-if-you-have-long-working-hours-3f98)
-- [What is spaced repetition?](https://dev.to/nandinishinduja/what-is-spaced-repetition-ek2)
-- [AI in Coding](https://dev.to/nandinishinduja/ai-in-coding-18j1)
+- [Using GORM as an ORM in Go: A Quick Overview](https://dev.to/diogojlq/using-gorm-as-an-orm-in-go-a-quick-overview-1ja2)
+- [Harnessing Ant Behavior: Secrets to Cutting-Edge Tech Solutions](https://dev.to/jay_all_day/harnessing-ant-behavior-secrets-to-cutting-edge-tech-solutions-30ed)
+- [NuPack v17.2 released](https://dev.to/cnsharp/nupack-v172-released-1aep)
+- [BFS Graph Traversal C++: Story](https://dev.to/harshm03/bfs-graph-traversal-c-story-3c5l)
+- [Redis-Powered Prayer Times App: Location-Aware Islamic Schedule](https://dev.to/siswoyo/redis-powered-prayer-times-app-location-aware-islamic-schedule-5al)
 <!-- BLOG-POST-LIST:END -->
 
 ---
