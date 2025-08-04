@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I learned to stop worrying and love edge computing](https://dev.to/nabilpatel4012/how-i-learned-to-stop-worrying-and-love-edge-computing-4965)
-- [Write Clean SQL: Tools That Format Your Queries for You](https://dev.to/dbvismarketing/write-clean-sql-tools-that-format-your-queries-for-you-2jl)
-- [The Future of AI: What Anthropic&#39;s Move Against OpenAI Means for the Industry](https://dev.to/jay_all_day/the-future-of-ai-what-anthropics-move-against-openai-means-for-the-industry-2216)
-- [Enabling Power Platform in a Pro-Code IT World](https://dev.to/wyattdave/enabling-power-platform-in-a-pro-code-it-world-10lj)
-- [How to find projects that are easy to contribute to?](https://dev.to/szabgab/how-to-find-projects-that-are-easy-to-contribute-to-1659)
+- [Is my phone eavesdropping on me?](https://dev.to/jottyjohn/is-my-phone-eavesdropping-on-me-3h8k)
+- [SQL migration : SPL Lightweight Multisource Mixed Computation Practice #7](https://dev.to/esproc_spl/sql-migration-spl-lightweight-multisource-mixed-computation-practice-7-5815)
+- [Bridging the Gender Gap in STEM — One Step at a Time](https://dev.to/jottyjohn/bridging-the-gender-gap-in-stem-one-step-at-a-time-2phg)
+- [IGN: Lost Soul Aside - Official Weapons Trailer](https://dev.to/gg_news/ign-lost-soul-aside-official-weapons-trailer-29ml)
+- [Quark’s Outlines: Python Long Integers](https://dev.to/mike-vincent/quarks-outlines-python-long-integers-36nl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
