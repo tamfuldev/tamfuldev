@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 13: Advance Git &amp; GitHub for DevOps Engineers](https://dev.to/udoh_deborah_b1e484c474bf/day-13-advance-git-github-for-devops-engineers-22h1)
-- [Learning CS By Building A Computer #0 - An Intro](https://dev.to/nipunattri/relearning-cs-by-building-a-computer-0-an-intro-18b2)
-- [QEMU QAPI Client for Go — Native Code-Gen Straight from QEMU](https://dev.to/krjakbrjak/qemu-qapi-client-for-go-native-code-gen-straight-from-qemu-4m13)
-- [rpartition in Python](https://dev.to/hyperkai/rpartition-in-python-1me1)
-- [partition in Python](https://dev.to/hyperkai/partition-in-python-4gn3)
+- [The Unseen Cost of Speed: What I’d change if I rebuilt my AI saas today](https://dev.to/sholajegede/the-unseen-cost-of-speed-what-id-change-if-i-rebuilt-my-ai-saas-today-455m)
+- [I Built BackupGuardian After a 3AM Production Disaster Taught Me Not to Trust &quot;Good&quot; Backups](https://dev.to/neural_drift/i-built-backupguardian-after-a-3am-production-disaster-taught-me-not-to-trust-good-backups-1l6i)
+- [Stop Using the vh Unit in CSS: Use svh, lvh, and dvh](https://dev.to/kimmyxpow/stop-using-the-vh-unit-in-css-use-svh-lvh-and-dvh-2j9c)
+- [How I Designed a Credit System That Actually Makes Users Upgrade](https://dev.to/sholajegede/how-i-designed-a-credit-system-that-actually-makes-users-upgrade-59h5)
+- [A Hands-On Guide to Supercharging Your Go Apps with pprof](https://dev.to/jones_charles_ad50858dbc0/a-hands-on-guide-to-supercharging-your-go-apps-with-pprof-57m2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
