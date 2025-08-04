@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🎨 Blender Basics: Essential Terminology for Beginners](https://dev.to/sabarish312/blender-basics-essential-terminology-for-beginners-5346)
-- [🖥️ Backend Development for Beginners: A Friendly Guide to Get Started](https://dev.to/sabarish312/backend-development-for-beginners-a-friendly-guide-to-get-started-2pp6)
-- [Online movie ticket booking web app built with Next.js, Prisma, BetterAuth, and ShadCN/UI](https://dev.to/saidmounaim/online-movie-ticket-booking-web-app-built-with-nextjs-prisma-betterauth-and-shadcnui-3gmf)
-- [Kali Linux Practical Guide: Setting Up Your Environment &amp; Starting PostgreSQL](https://dev.to/labex/kali-linux-practical-guide-setting-up-your-environment-starting-postgresql-57ja)
-- [JavaScript Local Storage](https://dev.to/visali_nedunchezhian_ee73/javascript-local-storage-35eo)
+- [My Java Full Stack Journey Learning in JavaScript](https://dev.to/dinesh_g_909f4a82c67f5bbd/my-java-full-stack-journey-learning-in-javascript-2kkd)
+- [Strategy design pattern](https://dev.to/abhishek_ahlawat_2b5d6d6d/strategy-design-pattern-3g1k)
+- [🐍 How I Built a Terminal Knowledge Crawler in Pure Python &lpar;No Frameworks&rpar;](https://dev.to/1fahadshah/how-i-built-a-terminal-knowledge-crawler-in-pure-python-no-frameworks-53hf)
+- [Grey Morality: After the Hack - WLH Challenge](https://dev.to/ariondev/grey-morality-after-the-hack-wlh-challenge-99n)
+- [How to Actually Level Up as a Developer &lpar;No BS, Just 6 Real Tips&rpar;](https://dev.to/nick-wade/how-to-actually-level-up-as-a-developer-no-bs-just-6-real-tips-5c7a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
