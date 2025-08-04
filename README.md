@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Adam Savage&#39;s Tested: Adam Savage Examines Darth Vader&#39;s Original Lightsaber Prop!](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-examines-darth-vaders-original-lightsaber-prop-2le2)
-- [COLORS: Gayathri Krishnan - Made It | A COLORS SHOW](https://dev.to/music_youtube/colors-gayathri-krishnan-made-it-a-colors-show-12ee)
-- [KEXP: Dean Wareham - Snowstorm &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-dean-wareham-snowstorm-live-on-kexp-2d7o)
-- [KEXP: Dean Wareham - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-dean-wareham-full-performance-live-on-kexp-26jn)
-- [Gareth David Studio: Why You NEED IDML Files in InDesign: Master BACKWARDS Compatibility](https://dev.to/design_youtube/gareth-david-studio-why-you-need-idml-files-in-indesign-master-backwards-compatibility-daf)
+- [How to Verify Git Commits on GitHub Using GPG Keychain Mac OS](https://dev.to/yasindehfuli/how-to-verify-git-commits-on-github-using-gpg-keychain-mac-os-272c)
+- [What NYT Crosswords Teach Us About Debugging](https://dev.to/abubakersiddique771/what-nyt-crosswords-teach-us-about-debugging-569)
+- [🧠 What “Biased Sports Fan” Taught Me About Pattern Recognition &lpar;Yes, From a NYT Crossword&rpar;](https://dev.to/abubakersiddique771/what-biased-sports-fan-taught-me-about-pattern-recognition-yes-from-a-nyt-crossword-230d)
+- [Cloud SaaS Secrets: Launch Your $99 App in 10 Days](https://dev.to/resource_bunk_1077cab07da/cloud-saas-secrets-launch-your-99-app-in-10-days-22b8)
+- [I&#39;m working on shallowing my swing — it&#39;s always been steep and I accepted and worked with this for a while, but I have too many inconsistencies. So sort of re-working a proper swing.](https://dev.to/ben/im-working-on-shallowing-my-swing-its-always-been-steep-and-i-accepted-and-worked-with-this-for-5bcc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
