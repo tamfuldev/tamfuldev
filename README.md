@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Is my phone eavesdropping on me?](https://dev.to/jottyjohn/is-my-phone-eavesdropping-on-me-3h8k)
-- [SQL migration : SPL Lightweight Multisource Mixed Computation Practice #7](https://dev.to/esproc_spl/sql-migration-spl-lightweight-multisource-mixed-computation-practice-7-5815)
-- [Bridging the Gender Gap in STEM — One Step at a Time](https://dev.to/jottyjohn/bridging-the-gender-gap-in-stem-one-step-at-a-time-2phg)
-- [IGN: Lost Soul Aside - Official Weapons Trailer](https://dev.to/gg_news/ign-lost-soul-aside-official-weapons-trailer-29ml)
-- [Quark’s Outlines: Python Long Integers](https://dev.to/mike-vincent/quarks-outlines-python-long-integers-36nl)
+- [The Art of Mocking in Backend Tests](https://dev.to/m13ha/the-art-of-mocking-in-backend-tests-ljm)
+- [I Discovered a ‘Secret’ Citation Tag in My AI Answers—Here’s Why It Matters](https://dev.to/yash_man/i-discovered-a-secret-citation-tag-in-my-ai-answers-heres-why-it-matters-j27)
+- [Is anyone interested in vibe coding on your phone?](https://dev.to/nickqiao/is-anyone-interested-in-vibe-coding-on-your-phone-5f3o)
+- [How Data Fetching Works in Next.js: Server vs Client Components](https://dev.to/sudiip__17/how-data-fetching-works-in-nextjs-server-vs-client-components-3779)
+- [How to use GitHub admonitions to make your markdown more readable](https://dev.to/mike_andreuzza/how-to-use-github-admonitions-to-make-your-markdown-more-readable-3oi6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
