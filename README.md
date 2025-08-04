@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Unseen Cost of Speed: What I’d change if I rebuilt my AI saas today](https://dev.to/sholajegede/the-unseen-cost-of-speed-what-id-change-if-i-rebuilt-my-ai-saas-today-455m)
-- [I Built BackupGuardian After a 3AM Production Disaster Taught Me Not to Trust &quot;Good&quot; Backups](https://dev.to/neural_drift/i-built-backupguardian-after-a-3am-production-disaster-taught-me-not-to-trust-good-backups-1l6i)
-- [Stop Using the vh Unit in CSS: Use svh, lvh, and dvh](https://dev.to/kimmyxpow/stop-using-the-vh-unit-in-css-use-svh-lvh-and-dvh-2j9c)
-- [How I Designed a Credit System That Actually Makes Users Upgrade](https://dev.to/sholajegede/how-i-designed-a-credit-system-that-actually-makes-users-upgrade-59h5)
-- [A Hands-On Guide to Supercharging Your Go Apps with pprof](https://dev.to/jones_charles_ad50858dbc0/a-hands-on-guide-to-supercharging-your-go-apps-with-pprof-57m2)
+- [Stepping into JavaScript](https://dev.to/kavya_s/stepping-into-javascript-3j6p)
+- [Get rid of useEffect for Data: Why React Query is a Game Changer](https://dev.to/saijamii/get-rid-of-useeffect-for-data-why-react-query-is-a-game-changer-4bh5)
+- [🚀 OpenTofu 1.10 Released: OCI Registry, Simpler S3 State Locking, and AI-Friendly Infra as Code](https://dev.to/latchudevops/opentofu-110-released-oci-registry-simpler-s3-state-locking-and-ai-friendly-infra-as-code-3dm7)
+- [endswith in Python](https://dev.to/hyperkai/endswith-in-python-1e1p)
+- [How to Validate Request Body with express-validator](https://dev.to/arasosman/how-to-validate-request-body-with-express-validator-29lo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
