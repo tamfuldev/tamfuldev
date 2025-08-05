@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Deploy and Manage Policies Across Multiple Clusters with RHACM – No Code Needed!](https://dev.to/sindhuja_ns_1e491ce1088d/deploy-and-manage-policies-across-multiple-clusters-with-rhacm-no-code-needed-2hpg)
-- [IGN: Alien: Earth | Full Season, Non-Spoiler Review](https://dev.to/gg_news/ign-alien-earth-full-season-non-spoiler-review-51lj)
-- [IGN: The First Descendant - Official Nell Character Reveal Trailer](https://dev.to/gg_news/ign-the-first-descendant-official-nell-character-reveal-trailer-19im)
-- [Kimi K2 vs Grok 4: Which AI Model Codes Better?](https://dev.to/forgecode/kimi-k2-vs-grok-4-which-ai-model-codes-better-31nb)
-- [Hit a great cursor workflow yesterday — most productive vibe coding session to date](https://dev.to/ben/hit-a-great-cursor-workflow-yesterday-most-productive-vibe-coding-session-to-date-3l1o)
+- [Introducing Bref Lambda Layers Terraform module](https://dev.to/aws-builders/introducing-bref-lambda-layers-terraform-module-1n1f)
+- [How I Finally Cracked the Code on Finding Side Hustle Ideas &lpar;Spoiler: I Was Doing It All Wrong&rpar;](https://dev.to/freeourdays/how-i-finally-cracked-the-code-on-finding-side-hustle-ideas-spoiler-i-was-doing-it-all-wrong-4e62)
+- [Setting Up EMR with Iceberg support and Integration with DBT Core](https://dev.to/ankursri/setting-up-emr-with-iceberg-support-and-integration-with-dbt-core-180i)
+- [Understanding Image APIs: What are They All About?](https://dev.to/giladmaayan/understanding-image-apis-what-are-they-all-about-4fp6)
+- [Legacy code: How bad are comments &lpar;really&rpar;?](https://dev.to/vinicoppi_dev/legacy-code-how-bad-are-comments-really-4kai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
