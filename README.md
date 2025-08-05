@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Opus 4.1 Is Here And What It Means for AI Development](https://dev.to/alifar/claude-opus-41-is-here-what-it-means-for-ai-development-40da)
-- [Onda de Palavras com C++ e SFML](https://dev.to/marcosplusplus/onda-de-palavras-com-c-e-sfml-34o3)
-- [Weekly update #3](https://dev.to/abytebybyte/weekly-update-3-5c5d)
-- [Securing a VPS: Essential Hardening Steps for Web Developers &lpar;Part 1&rpar;](https://dev.to/tomas223/securing-a-vps-essential-hardening-steps-for-web-developers-part-1-242j)
-- [How Crypto Drainers Became Criminal SaaS: A Deep Dive into Web3 Theft Infrastructure](https://dev.to/0trust0day/how-crypto-drainers-became-criminal-saas-a-deep-dive-into-web3-theft-infrastructure-15jc)
+- [IGN: World of Warcraft: The War Within - Official Ghosts of K’aresh Launch Trailer](https://dev.to/gg_news/ign-world-of-warcraft-the-war-within-official-ghosts-of-karesh-launch-trailer-2dia)
+- [IGN: Battlefield 6 Gameplay: Breakthrough on Liberation Peak](https://dev.to/gg_news/ign-battlefield-6-gameplay-breakthrough-on-liberation-peak-383k)
+- [IGN: Minecraft x Sonic - Official Sonic Add-On Super Update Trailer](https://dev.to/gg_news/ign-minecraft-x-sonic-official-sonic-add-on-super-update-trailer-1ikm)
+- [What&#39;s New in C# 14: User-Defined Compound Assignments](https://dev.to/ivankahl/whats-new-in-c-14-user-defined-compound-assignments-5eb5)
+- [How I Built an Offline AI-Powered NPC System with Godot and Gemma 3n](https://dev.to/code-forge-temple/how-i-built-an-offline-ai-powered-npc-system-with-godot-and-gemma-3n-3n8g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
