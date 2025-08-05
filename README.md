@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: World of Warcraft: The War Within - Official Ghosts of K’aresh Launch Trailer](https://dev.to/gg_news/ign-world-of-warcraft-the-war-within-official-ghosts-of-karesh-launch-trailer-2dia)
-- [IGN: Battlefield 6 Gameplay: Breakthrough on Liberation Peak](https://dev.to/gg_news/ign-battlefield-6-gameplay-breakthrough-on-liberation-peak-383k)
-- [IGN: Minecraft x Sonic - Official Sonic Add-On Super Update Trailer](https://dev.to/gg_news/ign-minecraft-x-sonic-official-sonic-add-on-super-update-trailer-1ikm)
-- [What&#39;s New in C# 14: User-Defined Compound Assignments](https://dev.to/ivankahl/whats-new-in-c-14-user-defined-compound-assignments-5eb5)
-- [How I Built an Offline AI-Powered NPC System with Godot and Gemma 3n](https://dev.to/code-forge-temple/how-i-built-an-offline-ai-powered-npc-system-with-godot-and-gemma-3n-3n8g)
+- [AI Meets Cloud: My Experience Passing Oracle’s AI Foundations Associate Exam](https://dev.to/kamaumbuguadev/ai-meets-cloud-my-experience-passing-oracles-ai-foundations-associate-exam-379)
+- [I Was Tired of Proving I Wasn’t Lying So I Built Devlog!](https://dev.to/ashutoshbhandari5/i-was-tired-of-proving-i-wasnt-lying-so-i-built-devlog-2hg5)
+- [PopOS - How to Update NVIDIA Driver](https://dev.to/harry_tanama_51571ebf90b6/popos-how-to-update-nvidia-driver-453)
+- [UV Mapping in Mini Micro](https://dev.to/joestrout/uv-mapping-in-mini-micro-2eoa)
+- [Genie 3: A New Era in Interactive World Models](https://dev.to/projedefteri/genie-3-a-new-era-in-interactive-world-models-4882)
 <!-- BLOG-POST-LIST:END -->
 
 ---
