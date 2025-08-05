@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Generics Typescript](https://dev.to/matheusgondra/generics-typescript-2m1b)
-- [USER](https://dev.to/armaankhan8270/user-2dbe)
-- [I need some help with my Flutter App](https://dev.to/raky_/i-need-some-help-with-my-flutter-app-12k2)
-- [Day 6 of #30DaysOfCode](https://dev.to/justacoder_0x/day-6-of-30daysofcode-4ba2)
-- [What is the DOM in JavaScript?](https://dev.to/svn1199/what-is-the-dom-in-javascript-4nj)
+- [CVE-2022-40799: D-Link DNR-322L Download of Code Without Integrity Check Vulnerability](https://dev.to/freedom_coder/cve-2022-40799-d-link-dnr-322l-download-of-code-without-integrity-check-vulnerability-5bkf)
+- [How AI Models Like Claude Are Changing the Way We Code](https://dev.to/deepakgupta/how-ai-models-like-claude-are-changing-the-way-we-code-3189)
+- [CVE-2020-25079: D-Link DCS-2530L and DCS-2670L Command Injection Vulnerability](https://dev.to/freedom_coder/cve-2020-25079-d-link-dcs-2530l-and-dcs-2670l-command-injection-vulnerability-19pc)
+- [CVE-2020-25078: D-Link DCS-2530L and DCS-2670L Devices Unspecified Vulnerability](https://dev.to/freedom_coder/cve-2020-25078-d-link-dcs-2530l-and-dcs-2670l-devices-unspecified-vulnerability-563g)
+- [Building NeuroStash - V](https://dev.to/devunderdog/building-neurostash-v-ad5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
