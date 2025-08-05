@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [⚡️Lynxjs Snippets &lpar;.tsx&rpar;](https://dev.to/bastndev/lynxjs-snippets-tsx-4266)
-- [Building a Production-Grade Cloud Resume: From Manual Deployment to Full CI/CD with Azure and DevOps](https://dev.to/tracywhodoesnot/building-a-production-grade-cloud-resume-from-manual-deployment-to-full-cicd-with-azure-and-devops-321e)
-- [George Pólya’s - How to Solve It.](https://dev.to/shlokaguptaa/george-polyas-how-to-solve-it-hh7)
-- [Speed up your local dev workflow with IP-Kit &lpar;macOS&rpar;](https://dev.to/rigter/speed-up-your-local-dev-workflow-with-ip-kit-macos-hoi)
-- [My Java Full Stack learning journey : JavaScript](https://dev.to/dharshinieswaran/my-java-full-stack-learning-journey-javascript-4jfl)
+- [Types of Operators in JavaScript](https://dev.to/lakshmi_g_74c225d5ca0b272/types-of-operators-in-javascript-19bp)
+- [Getting Started with Quarkus and GraalVM Native Image](https://dev.to/jungledev/getting-started-with-quarkus-and-graalvm-native-image-575i)
+- [Resources and Roadmap for Mastering Java as a Beginner](https://dev.to/sharique_siddiqui_8242dad/resources-and-roadmap-for-mastering-java-as-a-beginner-2gg6)
+- [qureus](https://dev.to/armaankhan8270/qureus-o2g)
+- [React for Web Development in 2025: Advantages, Use Cases, and Top Examples](https://dev.to/nencywilliams/react-for-web-development-in-2025-advantages-use-cases-and-top-examples-226o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
