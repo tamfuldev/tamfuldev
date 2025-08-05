@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [NPR Music: River Tiber: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-river-tiber-tiny-desk-concert-4cif)
-- [IGN: Street Fighter 6 - Official Sagat Update Launch Trailer](https://dev.to/gg_news/ign-street-fighter-6-official-sagat-update-launch-trailer-180k)
-- [Unleashing the Power of HTTP Methods: A Guide to APIs](https://dev.to/vjnvisakh/unleashing-the-power-of-http-methods-a-guide-to-apis-49cj)
-- [I&#39;ll be back. Will just finish a couple of songs with the new band.](https://dev.to/highcenburg/ill-be-back-will-just-finish-a-couple-of-songs-with-the-new-band-20ng)
-- [Code Review Best Practices: Automate with Human Touch](https://dev.to/oodles-platform/code-review-best-practices-automate-with-human-touch-372c)
+- [Building REST APIs That Play Nice with Excel](https://dev.to/saudibytes/building-rest-apis-that-play-nice-with-excel-l3d)
+- [idnex4](https://dev.to/armaankhan8270/idnex4-2443)
+- [UTF-16 to UTF-8 in Javascript](https://dev.to/vincent_corbee/utf-16-to-utf-8-in-javascript-17j7)
+- [The Tradeoffs of Technical Ownership](https://dev.to/remejuan/the-tradeoffs-of-technical-ownership-47dc)
+- [Is Cookie-Based Tracking Dying? Shift to Zero-Party Data](https://dev.to/mehwish_malik_4f29ff7fb04/is-cookie-based-tracking-dying-shift-to-zero-party-data-17le)
 <!-- BLOG-POST-LIST:END -->
 
 ---
