@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Bref Lambda Layers Terraform module](https://dev.to/aws-builders/introducing-bref-lambda-layers-terraform-module-1n1f)
-- [How I Finally Cracked the Code on Finding Side Hustle Ideas &lpar;Spoiler: I Was Doing It All Wrong&rpar;](https://dev.to/freeourdays/how-i-finally-cracked-the-code-on-finding-side-hustle-ideas-spoiler-i-was-doing-it-all-wrong-4e62)
-- [Setting Up EMR with Iceberg support and Integration with DBT Core](https://dev.to/ankursri/setting-up-emr-with-iceberg-support-and-integration-with-dbt-core-180i)
-- [Understanding Image APIs: What are They All About?](https://dev.to/giladmaayan/understanding-image-apis-what-are-they-all-about-4fp6)
-- [Legacy code: How bad are comments &lpar;really&rpar;?](https://dev.to/vinicoppi_dev/legacy-code-how-bad-are-comments-really-4kai)
+- [IGN: Beat Brush - Official Announcement Trailer](https://dev.to/gg_news/ign-beat-brush-official-announcement-trailer-4h5c)
+- [IGN: Fata Deum: Official Gameplay Explainer Trailer](https://dev.to/gg_news/ign-fata-deum-official-gameplay-explainer-trailer-1bjk)
+- [IGN: Karma: The Dark World - Official Xbox Release Date Trailer](https://dev.to/gg_news/ign-karma-the-dark-world-official-xbox-release-date-trailer-4eea)
+- [IGN: Suikoden: Star Leap - Official Battle Trailer](https://dev.to/gg_news/ign-suikoden-star-leap-official-battle-trailer-4bi3)
+- [IGN: Teenage Mutant Ninja Turtles: Tactical Takedown - Official Xbox and Nintendo Switch Reveal Trailer](https://dev.to/gg_news/ign-teenage-mutant-ninja-turtles-tactical-takedown-official-xbox-and-nintendo-switch-reveal-4bme)
 <!-- BLOG-POST-LIST:END -->
 
 ---
