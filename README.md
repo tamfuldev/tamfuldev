@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Legal Language Loses Responsibility When It Becomes Executable](https://dev.to/agustin_v_startari/how-legal-language-loses-responsibility-when-it-becomes-executable-4104)
-- [What is the interest of companies in Open Source?](https://dev.to/szabgab/what-is-the-interest-of-companies-in-open-source-5416)
-- [Living Interfaces: The Future of Web Components](https://dev.to/mihai_victor_1973/living-interfaces-the-future-of-web-components-pfh)
-- [How to Choose a Great Tech Hire: Beyond Algorithm Tests and Whiteboard Coding](https://dev.to/victoria/how-to-choose-a-great-tech-hire-beyond-algorithm-tests-and-whiteboard-coding-4mk9)
-- [Introduction To Selenium Software Testing](https://dev.to/shubhra_srivastava_2612f1/introduction-to-selenium-software-testing-526m)
+- [Itch.io are seeking out new payment processors who are more comfortable with adult material](https://dev.to/gg_news/itchio-are-seeking-out-new-payment-processors-who-are-more-comfortable-with-adult-material-5bnp)
+- [GOG&#39;s Freedom To Buy Campaign Gives Away Controversial Games For Free To Protest Censorship](https://dev.to/gg_news/gogs-freedom-to-buy-campaign-gives-away-controversial-games-for-free-to-protest-censorship-9oh)
+- [Heavy drinking raises the risk of pregnancy by 50% in women who strongly wish to avoid it, while cannabis use does not](https://dev.to/future_science/heavy-drinking-raises-the-risk-of-pregnancy-by-50-in-women-who-strongly-wish-to-avoid-it-while-4opj)
+- [Kiro: เมื่อ &quot;Spec&quot; คือทางออกของปัญหา &quot;Vibe Coding&quot; ในยุค AI](https://dev.to/ubinix_warun/kiro-emuue-spec-khuuethaangkkhngpayhaa-vibe-coding-ainyukh-ai-3e5m)
+- [Humans breathe in more than 70,000 microplastic particles every day, new research suggests](https://dev.to/future_science/humans-breathe-in-more-than-70000-microplastic-particles-every-day-new-research-suggests-4gfm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
