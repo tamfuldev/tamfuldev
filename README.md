@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Itch.io are seeking out new payment processors who are more comfortable with adult material](https://dev.to/gg_news/itchio-are-seeking-out-new-payment-processors-who-are-more-comfortable-with-adult-material-5bnp)
-- [GOG&#39;s Freedom To Buy Campaign Gives Away Controversial Games For Free To Protest Censorship](https://dev.to/gg_news/gogs-freedom-to-buy-campaign-gives-away-controversial-games-for-free-to-protest-censorship-9oh)
-- [Heavy drinking raises the risk of pregnancy by 50% in women who strongly wish to avoid it, while cannabis use does not](https://dev.to/future_science/heavy-drinking-raises-the-risk-of-pregnancy-by-50-in-women-who-strongly-wish-to-avoid-it-while-4opj)
-- [Kiro: เมื่อ &quot;Spec&quot; คือทางออกของปัญหา &quot;Vibe Coding&quot; ในยุค AI](https://dev.to/ubinix_warun/kiro-emuue-spec-khuuethaangkkhngpayhaa-vibe-coding-ainyukh-ai-3e5m)
-- [Humans breathe in more than 70,000 microplastic particles every day, new research suggests](https://dev.to/future_science/humans-breathe-in-more-than-70000-microplastic-particles-every-day-new-research-suggests-4gfm)
+- [🚀 Deploy and Manage Policies Across Multiple Clusters with RHACM – No Code Needed!](https://dev.to/sindhuja_ns_1e491ce1088d/deploy-and-manage-policies-across-multiple-clusters-with-rhacm-no-code-needed-2hpg)
+- [IGN: Alien: Earth | Full Season, Non-Spoiler Review](https://dev.to/gg_news/ign-alien-earth-full-season-non-spoiler-review-51lj)
+- [IGN: The First Descendant - Official Nell Character Reveal Trailer](https://dev.to/gg_news/ign-the-first-descendant-official-nell-character-reveal-trailer-19im)
+- [Kimi K2 vs Grok 4: Which AI Model Codes Better?](https://dev.to/forgecode/kimi-k2-vs-grok-4-which-ai-model-codes-better-31nb)
+- [Hit a great cursor workflow yesterday — most productive vibe coding session to date](https://dev.to/ben/hit-a-great-cursor-workflow-yesterday-most-productive-vibe-coding-session-to-date-3l1o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
