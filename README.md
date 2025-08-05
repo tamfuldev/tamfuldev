@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Ninja Gaiden: Ragebound Review](https://dev.to/gg_news/gamespot-ninja-gaiden-ragebound-review-ega)
-- [IGN: Rental Family - Official Trailer &lpar;2025&rpar; Brendan Fraser, Takehiro Hira, Mari Yamamoto](https://dev.to/gg_news/ign-rental-family-official-trailer-2025-brendan-fraser-takehiro-hira-mari-yamamoto-147o)
-- [IGN: Nicktoons &amp; The Dice of Destiny - Official Danny Phantom Reveal Trailer](https://dev.to/gg_news/ign-nicktoons-the-dice-of-destiny-official-danny-phantom-reveal-trailer-1h4k)
-- [IGN: Stormgate Review](https://dev.to/gg_news/ign-stormgate-review-53ko)
-- [What Vibe Coding Actually Looks Like for a Senior Engineer](https://dev.to/pmbanugo/-1617)
+- [Claude Opus 4.1 Is Here And What It Means for AI Development](https://dev.to/alifar/claude-opus-41-is-here-what-it-means-for-ai-development-40da)
+- [Onda de Palavras com C++ e SFML](https://dev.to/marcosplusplus/onda-de-palavras-com-c-e-sfml-34o3)
+- [Weekly update #3](https://dev.to/abytebybyte/weekly-update-3-5c5d)
+- [Securing a VPS: Essential Hardening Steps for Web Developers &lpar;Part 1&rpar;](https://dev.to/tomas223/securing-a-vps-essential-hardening-steps-for-web-developers-part-1-242j)
+- [How Crypto Drainers Became Criminal SaaS: A Deep Dive into Web3 Theft Infrastructure](https://dev.to/0trust0day/how-crypto-drainers-became-criminal-saas-a-deep-dive-into-web3-theft-infrastructure-15jc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
