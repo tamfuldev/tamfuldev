@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[CVE-2025-54424] Critical RCE Vulnerability in 1Panel Pro — Patch Now!](https://dev.to/sharon_42e16b8da44dabde6d/cve-2025-54424-critical-rce-vulnerability-in-1panel-pro-patch-now-37o0)
-- [The Rise of the Dog Robot: Man’s New Best Friend?](https://dev.to/benyathip_ccbc2665f3a0cd9/the-rise-of-the-dog-robot-mans-new-best-friend-5bcm)
-- [Weekly Dev Digest: OpenAI&#39;s $8.3B Round, Windows 11 Updates &amp; More](https://dev.to/shiva_shanker_k/weekly-dev-digest-openais-83b-round-windows-11-updates-more-n4p)
-- [[Boost]](https://dev.to/accioprocurement/-3cd8)
-- [News Activity Map with Redis](https://dev.to/shaikhhas/news-activity-map-with-redis-2og3)
+- [NPR Music: River Tiber: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-river-tiber-tiny-desk-concert-4cif)
+- [IGN: Street Fighter 6 - Official Sagat Update Launch Trailer](https://dev.to/gg_news/ign-street-fighter-6-official-sagat-update-launch-trailer-180k)
+- [Unleashing the Power of HTTP Methods: A Guide to APIs](https://dev.to/vjnvisakh/unleashing-the-power-of-http-methods-a-guide-to-apis-49cj)
+- [I&#39;ll be back. Will just finish a couple of songs with the new band.](https://dev.to/highcenburg/ill-be-back-will-just-finish-a-couple-of-songs-with-the-new-band-20ng)
+- [Code Review Best Practices: Automate with Human Touch](https://dev.to/oodles-platform/code-review-best-practices-automate-with-human-touch-372c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
