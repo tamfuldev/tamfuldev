@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Beat Brush - Official Announcement Trailer](https://dev.to/gg_news/ign-beat-brush-official-announcement-trailer-4h5c)
-- [IGN: Fata Deum: Official Gameplay Explainer Trailer](https://dev.to/gg_news/ign-fata-deum-official-gameplay-explainer-trailer-1bjk)
-- [IGN: Karma: The Dark World - Official Xbox Release Date Trailer](https://dev.to/gg_news/ign-karma-the-dark-world-official-xbox-release-date-trailer-4eea)
-- [IGN: Suikoden: Star Leap - Official Battle Trailer](https://dev.to/gg_news/ign-suikoden-star-leap-official-battle-trailer-4bi3)
-- [IGN: Teenage Mutant Ninja Turtles: Tactical Takedown - Official Xbox and Nintendo Switch Reveal Trailer](https://dev.to/gg_news/ign-teenage-mutant-ninja-turtles-tactical-takedown-official-xbox-and-nintendo-switch-reveal-4bme)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4pmf)
+- [Build a Livekit Telephony Agent](https://dev.to/drguthals/build-a-livekit-telephony-agent-3ibe)
+- [Machine Learning Fundamentals: Scikit-Learn, Model Selection, Pandas Bfill &amp; Kernel Ridge Regression](https://dev.to/labex/machine-learning-fundamentals-scikit-learn-model-selection-pandas-bfill-kernel-ridge-regression-54le)
+- [Finding My Way in Computer Science](https://dev.to/paritoshparashar/finding-my-way-in-computer-science-a-public-journey-begins-hpm)
+- [Day 56: When Your Nap Has Main Character Energy](https://dev.to/casperday11/day-56-when-your-nap-has-main-character-energy-26ep)
 <!-- BLOG-POST-LIST:END -->
 
 ---
