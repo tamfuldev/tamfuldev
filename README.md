@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Python LeetCode 70: Climbing Stairs - &lpar;Easy&rpar;](https://dev.to/grantdotdev/python-leetcode-70-climbing-stairs-easy-49fb)
-- [C# LeetCode 69: Sqrt&lpar;x&rpar;](https://dev.to/grantdotdev/c-leetcode-69-sqrtx-e8e)
-- [Hardening Básico de Servidor Ubuntu/Debian: Acesso SSH e Firewall](https://dev.to/joaoprd/hardening-basico-de-servidor-ubuntudebian-acesso-ssh-e-firewall-5lm)
-- [Return a response or write to the response?](https://dev.to/livioribeiro/return-a-response-or-write-to-the-response-4n7p)
-- [C# LeetCode: 27 Remove Element](https://dev.to/grantdotdev/c-leetcode-27-remove-element-1nnf)
+- [Archive Legacy Github Repos with Subtree](https://dev.to/tonymet/archive-legacy-github-repos-with-subtree-1dj3)
+- [SOC &lpar;Security Operations Center&rpar; Fundamentals: A Beginner’s Guide](https://dev.to/moh4med404/soc-security-operations-center-fundamentals-a-beginners-guide-3lf0)
+- [Deploy de funções AWS Lambda com GitHub Actions usando Organizations](https://dev.to/eudu4rdo/deploy-de-funcoes-aws-lambda-com-github-actions-usando-organizations-1p8a)
+- [Deploying your WeChat Mini Program](https://dev.to/karleeov/deploying-your-wechat-mini-program-1i03)
+- [Untitled](https://dev.to/paulo_meraki_a28ed4839662/untitled-122e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
