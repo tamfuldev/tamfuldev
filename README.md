@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2022-40799: D-Link DNR-322L Download of Code Without Integrity Check Vulnerability](https://dev.to/freedom_coder/cve-2022-40799-d-link-dnr-322l-download-of-code-without-integrity-check-vulnerability-5bkf)
-- [How AI Models Like Claude Are Changing the Way We Code](https://dev.to/deepakgupta/how-ai-models-like-claude-are-changing-the-way-we-code-3189)
-- [CVE-2020-25079: D-Link DCS-2530L and DCS-2670L Command Injection Vulnerability](https://dev.to/freedom_coder/cve-2020-25079-d-link-dcs-2530l-and-dcs-2670l-command-injection-vulnerability-19pc)
-- [CVE-2020-25078: D-Link DCS-2530L and DCS-2670L Devices Unspecified Vulnerability](https://dev.to/freedom_coder/cve-2020-25078-d-link-dcs-2530l-and-dcs-2670l-devices-unspecified-vulnerability-563g)
-- [Building NeuroStash - V](https://dev.to/devunderdog/building-neurostash-v-ad5)
+- [GameSpot: Ninja Gaiden: Ragebound Review](https://dev.to/gg_news/gamespot-ninja-gaiden-ragebound-review-ega)
+- [IGN: Rental Family - Official Trailer &lpar;2025&rpar; Brendan Fraser, Takehiro Hira, Mari Yamamoto](https://dev.to/gg_news/ign-rental-family-official-trailer-2025-brendan-fraser-takehiro-hira-mari-yamamoto-147o)
+- [IGN: Nicktoons &amp; The Dice of Destiny - Official Danny Phantom Reveal Trailer](https://dev.to/gg_news/ign-nicktoons-the-dice-of-destiny-official-danny-phantom-reveal-trailer-1h4k)
+- [IGN: Stormgate Review](https://dev.to/gg_news/ign-stormgate-review-53ko)
+- [What Vibe Coding Actually Looks Like for a Senior Engineer](https://dev.to/pmbanugo/-1617)
 <!-- BLOG-POST-LIST:END -->
 
 ---
