@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Archive Legacy Github Repos with Subtree](https://dev.to/tonymet/archive-legacy-github-repos-with-subtree-1dj3)
-- [SOC &lpar;Security Operations Center&rpar; Fundamentals: A Beginner’s Guide](https://dev.to/moh4med404/soc-security-operations-center-fundamentals-a-beginners-guide-3lf0)
-- [Deploy de funções AWS Lambda com GitHub Actions usando Organizations](https://dev.to/eudu4rdo/deploy-de-funcoes-aws-lambda-com-github-actions-usando-organizations-1p8a)
-- [Deploying your WeChat Mini Program](https://dev.to/karleeov/deploying-your-wechat-mini-program-1i03)
-- [Untitled](https://dev.to/paulo_meraki_a28ed4839662/untitled-122e)
+- [Deploy a Full Website on EC2 with Apache/Nginx &lpar;Using AWS Free Tier&rpar; 🚀](https://dev.to/yash_sonawane25/deploy-a-full-website-on-ec2-with-apachenginx-using-aws-free-tier-1nki)
+- [Project Pact: Expedition Deep-Dive](https://dev.to/magipunk/project-pact-expedition-deep-dive-35ke)
+- [How to create a Store Procedure in MySQL](https://dev.to/said_olano/how-to-create-a-store-procedure-in-mysql-4ci6)
+- [Untitled](https://dev.to/jazz_gost_6b472f93ca0a064/untitled-17nl)
+- [15 Rendering patterns for Web Application](https://dev.to/nozibul_islam_113b1d5334f/15-rendering-patterns-for-web-application-1jbk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
