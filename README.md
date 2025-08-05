@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4pmf)
-- [Build a Livekit Telephony Agent](https://dev.to/drguthals/build-a-livekit-telephony-agent-3ibe)
-- [Machine Learning Fundamentals: Scikit-Learn, Model Selection, Pandas Bfill &amp; Kernel Ridge Regression](https://dev.to/labex/machine-learning-fundamentals-scikit-learn-model-selection-pandas-bfill-kernel-ridge-regression-54le)
-- [Finding My Way in Computer Science](https://dev.to/paritoshparashar/finding-my-way-in-computer-science-a-public-journey-begins-hpm)
-- [Day 56: When Your Nap Has Main Character Energy](https://dev.to/casperday11/day-56-when-your-nap-has-main-character-energy-26ep)
+- [Generics Typescript](https://dev.to/matheusgondra/generics-typescript-2m1b)
+- [USER](https://dev.to/armaankhan8270/user-2dbe)
+- [I need some help with my Flutter App](https://dev.to/raky_/i-need-some-help-with-my-flutter-app-12k2)
+- [Day 6 of #30DaysOfCode](https://dev.to/justacoder_0x/day-6-of-30daysofcode-4ba2)
+- [What is the DOM in JavaScript?](https://dev.to/svn1199/what-is-the-dom-in-javascript-4nj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
