@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Cost of Intelligence](https://dev.to/rawveg/the-hidden-cost-of-intelligence-54b7)
-- [🚨 The UX Research Revolution Is Already Here](https://dev.to/adam/the-ux-research-revolution-is-already-here-ib0)
-- [📦 Understanding Props in React &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/himanayk/understanding-props-in-react-beginner-friendly-guide-1dbn)
-- [Designing for Enterprise as opposed to Consumer products, is it different?](https://dev.to/copods/designing-for-enterprise-as-opposed-to-consumer-products-is-it-different-31d7)
-- [I Let AI Write My Code. It Led to a Two-Day Nightmare.](https://dev.to/manikanta_ankam_fc98a7b0a/i-let-ai-write-my-code-it-led-to-a-two-day-nightmare-5abi)
+- [Mimicking the Human Brain: Neuromorphic Computing](https://dev.to/techieflynn/mimicking-the-human-brain-neuromorphic-computing-28lp)
+- [Scar - A programming language for easy concurrency and parallelism](https://dev.to/navidm/scar-a-programming-language-for-easy-concurrency-and-parallelism-4il8)
+- [KEXP: The Bouncing Souls - United &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-bouncing-souls-united-live-on-kexp-5e44)
+- [KEXP: The Bouncing Souls - Sing Along Forever &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-bouncing-souls-sing-along-forever-live-on-kexp-5aka)
+- [KEXP: The Bouncing Souls - Hopeless Romantic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-bouncing-souls-hopeless-romantic-live-on-kexp-12ce)
 <!-- BLOG-POST-LIST:END -->
 
 ---
