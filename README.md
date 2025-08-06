@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Power of Collaboration: How to Foster Better Team Dynamics in Software Development](https://dev.to/mikeover/unlocking-the-power-of-collaboration-how-to-foster-better-team-dynamics-in-software-development-46pl)
-- [OpenAI GPT-OSS Complete Guide 2025: First Reasoning Model That Runs on Laptops](https://dev.to/czmilo/openai-gpt-oss-complete-guide-2025-first-reasoning-model-that-runs-on-laptops-285f)
-- [Built a Super Slick Site + Blog with just Jekyll, Vanilla JS and CSS/Sass hosted on Github Pages](https://dev.to/anataliocs/built-a-super-slick-site-blog-with-just-jekyll-vanilla-js-and-csssass-hosted-on-github-pages-4nlo)
-- [Taming Go’s Garbage Collector with Memory Pools: A Practical Guide](https://dev.to/jones_charles_ad50858dbc0/taming-gos-garbage-collector-with-memory-pools-a-practical-guide-3h29)
-- [Building Rich Domain Models: A Practical Guide to DDD in .NET](https://dev.to/cristofima/building-rich-domain-models-a-practical-guide-to-ddd-in-net-5952)
+- [&quot;Build Your First Portfolio with React: A Beginner&#39;s Ultimate Guide&quot;](https://dev.to/abdul_fadiga_1f402d165920/build-your-first-portfolio-with-react-a-beginners-ultimate-guide-490f)
+- [🔍 Introducing AI-Powered Semantic Search in `react-data-grid-lite`](https://dev.to/sharmaricky/introducing-ai-powered-semantic-search-in-react-data-grid-lite-2jf8)
+- [Combine Blazor WebAssembly Client and Server Logs: Two-way log streaming with NLog and SignalR](https://dev.to/stewartcelani/combine-blazor-webassembly-client-and-server-logs-two-way-log-streaming-with-nlog-and-signalr-1bd9)
+- [React Native, Right Now! &lpar;RNRN&rpar; — A Starter Kit to Build Faster, Cleaner React Native Apps](https://dev.to/petertoth-dev/react-native-right-now-rnrn-a-starter-kit-to-build-faster-cleaner-react-native-apps-55c4)
+- [Table design](https://dev.to/armaankhan8270/table-design-19h6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
