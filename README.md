@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Host N8N in heroku and now I want to update n8n who I update n8n in heroku without losing data](https://dev.to/member_b807d9bf/i-host-n8n-in-heroku-and-now-i-want-to-update-n8n-who-i-update-n8n-in-heroku-without-losing-data-mkj)
-- [Why Home Elevators Aren’t Just For Mansions Anymore](https://dev.to/eurobuild_construction/why-home-elevators-arent-just-for-mansions-anymore-3fjf)
-- [How to add auth-flow between your webapp and extension](https://dev.to/agent_69/how-to-add-auth-flow-between-your-webapp-and-extension-242p)
-- [Wazuh 4.12 Slack Alert Integration](https://dev.to/0xdolan/wazuh-412-slack-alert-integration-3fm9)
-- [Exploring PhantomData: Type Safety Without Runtime Cost](https://dev.to/sgchris/exploring-phantomdata-type-safety-without-runtime-cost-3bhf)
+- [It&#39;s Alive! Project KARL is Now Open Source.](https://dev.to/theaniketraj/its-alive-project-karl-is-now-open-source-4mpb)
+- [Self-Awareness Unlocked: Build a Better, Stronger You from Within](https://dev.to/jhanvi_shukla/self-awareness-unlocked-build-a-better-stronger-you-from-within-pfm)
+- [The CAP Theorem: A Guide for Developers Who Build Real-World Systems](https://dev.to/chetansingh63/the-cap-theorem-a-guide-for-developers-who-build-real-world-systems-2d74)
+- [SafeLine vs Reblaze: Smarter WAF for Modern Web Protection?](https://dev.to/sharon_42e16b8da44dabde6d/safeline-vs-reblaze-smarter-waf-for-modern-web-protection-3bnm)
+- [Do You Know The LATERAL JOIN In SQL?](https://dev.to/mayallo/do-you-know-the-lateral-join-in-sql-489l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
