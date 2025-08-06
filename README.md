@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Concrete Cracks: What Causes Them and How to Fix Them](https://dev.to/concretecontractors/concrete-cracks-what-causes-them-and-how-to-fix-them-140l)
-- [Steps Included To Develop Spicychat.ai Platform Cloning](https://dev.to/rajdeepsuffes/steps-included-to-develop-spicychatai-platform-cloning-3jej)
-- [Mastering Memory: Real-World Examples of Crucial Stack and Heap Management in C/C++](https://dev.to/adityabhuyan/mastering-memory-real-world-examples-of-crucial-stack-and-heap-management-in-cc-4j5g)
-- [Exploring Top Canadian Dining Options: Restaurant Normandin, A&amp;W, Shelby&#39;s, and Five Guys](https://dev.to/menu_mountie_b08829f0a3c2/exploring-top-canadian-dining-options-restaurant-normandin-aw-shelbys-and-five-guys-2b7l)
-- [🔍 𝗙𝗶𝘅𝗶𝗻𝗴 𝗜𝗻𝘃𝗶𝘀𝗶𝗯𝗹𝗲, 𝗨𝗻𝗰𝗹𝗶𝗰𝗸𝗮𝗯𝗹𝗲 𝗨𝗜 𝗶𝗻 𝗮 𝗡𝗲𝘅𝘁𝗷𝘀 + 𝗦𝗵𝗮𝗱𝗖𝗡 𝗔𝗽𝗽 &lpar;1&rpar;](https://dev.to/sakutiriko/-1-bma)
+- [I Host N8N in heroku and now I want to update n8n who I update n8n in heroku without losing data](https://dev.to/member_b807d9bf/i-host-n8n-in-heroku-and-now-i-want-to-update-n8n-who-i-update-n8n-in-heroku-without-losing-data-mkj)
+- [Why Home Elevators Aren’t Just For Mansions Anymore](https://dev.to/eurobuild_construction/why-home-elevators-arent-just-for-mansions-anymore-3fjf)
+- [How to add auth-flow between your webapp and extension](https://dev.to/agent_69/how-to-add-auth-flow-between-your-webapp-and-extension-242p)
+- [Wazuh 4.12 Slack Alert Integration](https://dev.to/0xdolan/wazuh-412-slack-alert-integration-3fm9)
+- [Exploring PhantomData: Type Safety Without Runtime Cost](https://dev.to/sgchris/exploring-phantomdata-type-safety-without-runtime-cost-3bhf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
