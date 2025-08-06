@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI Meets Cloud: My Experience Passing Oracle’s AI Foundations Associate Exam](https://dev.to/kamaumbuguadev/ai-meets-cloud-my-experience-passing-oracles-ai-foundations-associate-exam-379)
-- [I Was Tired of Proving I Wasn’t Lying So I Built Devlog!](https://dev.to/ashutoshbhandari5/i-was-tired-of-proving-i-wasnt-lying-so-i-built-devlog-2hg5)
-- [PopOS - How to Update NVIDIA Driver](https://dev.to/harry_tanama_51571ebf90b6/popos-how-to-update-nvidia-driver-453)
-- [UV Mapping in Mini Micro](https://dev.to/joestrout/uv-mapping-in-mini-micro-2eoa)
-- [Genie 3: A New Era in Interactive World Models](https://dev.to/projedefteri/genie-3-a-new-era-in-interactive-world-models-4882)
+- [Unlocking the Power of Collaboration: How to Foster Better Team Dynamics in Software Development](https://dev.to/mikeover/unlocking-the-power-of-collaboration-how-to-foster-better-team-dynamics-in-software-development-46pl)
+- [OpenAI GPT-OSS Complete Guide 2025: First Reasoning Model That Runs on Laptops](https://dev.to/czmilo/openai-gpt-oss-complete-guide-2025-first-reasoning-model-that-runs-on-laptops-285f)
+- [Built a Super Slick Site + Blog with just Jekyll, Vanilla JS and CSS/Sass hosted on Github Pages](https://dev.to/anataliocs/built-a-super-slick-site-blog-with-just-jekyll-vanilla-js-and-csssass-hosted-on-github-pages-4nlo)
+- [Taming Go’s Garbage Collector with Memory Pools: A Practical Guide](https://dev.to/jones_charles_ad50858dbc0/taming-gos-garbage-collector-with-memory-pools-a-practical-guide-3h29)
+- [Building Rich Domain Models: A Practical Guide to DDD in .NET](https://dev.to/cristofima/building-rich-domain-models-a-practical-guide-to-ddd-in-net-5952)
 <!-- BLOG-POST-LIST:END -->
 
 ---
