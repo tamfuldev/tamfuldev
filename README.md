@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mimicking the Human Brain: Neuromorphic Computing](https://dev.to/techieflynn/mimicking-the-human-brain-neuromorphic-computing-28lp)
-- [Scar - A programming language for easy concurrency and parallelism](https://dev.to/navidm/scar-a-programming-language-for-easy-concurrency-and-parallelism-4il8)
-- [KEXP: The Bouncing Souls - United &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-bouncing-souls-united-live-on-kexp-5e44)
-- [KEXP: The Bouncing Souls - Sing Along Forever &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-bouncing-souls-sing-along-forever-live-on-kexp-5aka)
-- [KEXP: The Bouncing Souls - Hopeless Romantic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-bouncing-souls-hopeless-romantic-live-on-kexp-12ce)
+- [Infrastructure as Code &lpar;AWS Terraform Project&rpar;](https://dev.to/jioke/infrastructure-as-code-aws-terraform-project-3ih9)
+- [Building Scalable Web Applications with Laravel: A Comprehensive Guide](https://dev.to/ekwoster/building-scalable-web-applications-with-laravel-a-comprehensive-guide-1okb)
+- [Bridging Blockchain Technologies: Fetch.ai and ICP Integration](https://dev.to/kshipra_5d377b061342f27f8/bridging-blockchain-technologies-fetchai-and-icp-integration-4d4e)
+- [Building Scalable Web Applications with Node.js: A Fullstack Developer’s Guide](https://dev.to/ekwoster/building-scalable-web-applications-with-nodejs-a-fullstack-developers-guide-4opf)
+- [Kubernetes logs unavailable behind a proxy: Diagnosing API server communication issues](https://dev.to/u11d/kubernetes-logs-unavailable-behind-a-proxy-diagnosing-api-server-communication-issues-2af5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
