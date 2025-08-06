@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [OctoberCMS Deploy Made Simple: Fast Setup for Any Environment](https://dev.to/serveravatar/octobercms-deploy-made-simple-fast-setup-for-any-environment-1449)
-- [Kubernetes Ingress Playlist – Part 6: Securing the Kubernetes Ingress Using Cert-Manager with HTTPS](https://dev.to/aws-builders/kubernetes-ingress-playlist-part-6-securing-the-kubernetes-ingress-using-cert-manager-with-https-cde)
-- [Virtual Meetings in 2025: A Developer&#39;s Guide to Remote Meeting Success](https://dev.to/teamcamp/virtual-meetings-in-2025-a-developers-guide-to-remote-meeting-success-47ch)
-- [Kubernetes Ingress Playlist – Part 5: Secure Your App with HTTPS using Self-Signed TLS Certificates](https://dev.to/aws-builders/kubernetes-ingress-playlist-part-5-secure-your-app-with-https-using-self-signed-tls-certificates-5aa8)
-- [Kubernetes Ingress Playlist – Part 3: Routing in NGINX Ingress Controller](https://dev.to/aws-builders/kubernetes-ingress-playlist-part-3-routing-in-nginx-ingress-controller-1jib)
+- [The Hidden Cost of Intelligence](https://dev.to/rawveg/the-hidden-cost-of-intelligence-54b7)
+- [🚨 The UX Research Revolution Is Already Here](https://dev.to/adam/the-ux-research-revolution-is-already-here-ib0)
+- [📦 Understanding Props in React &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/himanayk/understanding-props-in-react-beginner-friendly-guide-1dbn)
+- [Designing for Enterprise as opposed to Consumer products, is it different?](https://dev.to/copods/designing-for-enterprise-as-opposed-to-consumer-products-is-it-different-31d7)
+- [I Let AI Write My Code. It Led to a Two-Day Nightmare.](https://dev.to/manikanta_ankam_fc98a7b0a/i-let-ai-write-my-code-it-led-to-a-two-day-nightmare-5abi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
