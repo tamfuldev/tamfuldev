@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [6 recommendations on how to use GEO for your brand](https://dev.to/matt_iscanner/6-recommendations-on-how-to-use-geo-for-your-brand-6hg)
-- [Is ChatGPT Thinking While You Type? A Glitch, a Feature, or Something More 🧐](https://dev.to/alifar/is-chatgpt-thinking-while-you-type-a-glitch-a-feature-or-something-more-18i)
-- [5 Easy Steps to Deploy Your Node.js + MongoDB App to Vercel](https://dev.to/devshefali/5-easy-steps-to-deploy-your-nodejs-mongodb-app-to-vercel-2d7k)
-- [Modern Python Package Management with UV – A Practical Developer’s Guide Featuring an Airflow Project Demo](https://dev.to/grayhat/modern-python-package-management-with-uv-a-practical-developers-guide-featuring-an-airflow-3i0d)
-- [Environment variable management with Power Automate](https://dev.to/fernandaek/environment-variable-management-with-power-automate-352k)
+- [OctoberCMS Deploy Made Simple: Fast Setup for Any Environment](https://dev.to/serveravatar/octobercms-deploy-made-simple-fast-setup-for-any-environment-1449)
+- [Kubernetes Ingress Playlist – Part 6: Securing the Kubernetes Ingress Using Cert-Manager with HTTPS](https://dev.to/aws-builders/kubernetes-ingress-playlist-part-6-securing-the-kubernetes-ingress-using-cert-manager-with-https-cde)
+- [Virtual Meetings in 2025: A Developer&#39;s Guide to Remote Meeting Success](https://dev.to/teamcamp/virtual-meetings-in-2025-a-developers-guide-to-remote-meeting-success-47ch)
+- [Kubernetes Ingress Playlist – Part 5: Secure Your App with HTTPS using Self-Signed TLS Certificates](https://dev.to/aws-builders/kubernetes-ingress-playlist-part-5-secure-your-app-with-https-using-self-signed-tls-certificates-5aa8)
+- [Kubernetes Ingress Playlist – Part 3: Routing in NGINX Ingress Controller](https://dev.to/aws-builders/kubernetes-ingress-playlist-part-3-routing-in-nginx-ingress-controller-1jib)
 <!-- BLOG-POST-LIST:END -->
 
 ---
