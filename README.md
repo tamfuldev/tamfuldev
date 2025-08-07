@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Simone Giertz: What I’ve learned from 10 years on YouTube](https://dev.to/maker_youtube/simone-giertz-what-ive-learned-from-10-years-on-youtube-3i9o)
-- [GameSpot: Ninja Gaiden 4 Is Exactly The Ninja Gaiden Game You&#39;re Hoping It Will Be | Hands-On Impressions](https://dev.to/gg_news/gamespot-ninja-gaiden-4-is-exactly-the-ninja-gaiden-game-youre-hoping-it-will-be-hands-on-37h3)
-- [IGN: Dying Light: The Beast - Official Inside Bober&#39;s Safe Zone Live-Action Trailer](https://dev.to/gg_news/ign-dying-light-the-beast-official-inside-bobers-safe-zone-live-action-trailer-305)
-- [IGN: Jurassic World Evolution 3 - Official &#39;Shaping Your Parks&#39; Feature Trailer](https://dev.to/gg_news/ign-jurassic-world-evolution-3-official-shaping-your-parks-feature-trailer-o8c)
-- [IGN: Doom: The Dark Ages - Official Update 2 Launch Trailer](https://dev.to/gg_news/ign-doom-the-dark-ages-official-update-2-launch-trailer-2gpo)
+- [Building Strands Agents with a few lines of code: Agent-to-Agent &lpar;A2A&rpar; Communication](https://dev.to/aws/building-strands-agents-with-a-few-lines-of-code-agent-to-agent-a2a-communication-18h1)
+- [Blazing Toukon HTML! A Game Born from GPT-5&#39;s Magic and Deployed Worldwide via Firebase](https://dev.to/torifukukaiou/blazing-toukon-html-a-game-born-from-gpt-5s-magic-and-deployed-worldwide-via-firebase-3fdc)
+- [Zrozumiec hooki](https://dev.to/itachiszep/zrozumiec-hooki-15j6)
+- [Como criei um protocolo descentralizado que transforma APIs em tokens reais com Proof-of-Work](https://dev.to/gustavodeoli/como-criei-um-protocolo-descentralizado-que-transforma-apis-em-tokens-reais-com-proof-of-work-2i4f)
+- [Building My First Production-Ready ELT Pipeline: A Student&#39;s Journey with Docker, PostgreSQL, dbt, and Airflow](https://dev.to/ashraf_elhoufi_7d4f413bf/building-my-first-production-ready-elt-pipeline-a-students-journey-with-docker-postgresql-dbt-1580)
 <!-- BLOG-POST-LIST:END -->
 
 ---
