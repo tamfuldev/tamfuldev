@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Deep Dive: Why and How Projects Use Multiple Programming Languages](https://dev.to/aadarsh-nagrath/the-deep-dive-why-and-how-projects-use-multiple-programming-languages-ej8)
-- [GPT 5](https://dev.to/avanichols_dev/gpt-5-513f)
-- [How to build a self-improving agent that updates your UI in real time](https://dev.to/oliver_s_516239543d897f1d/how-to-build-a-self-improving-agent-that-updates-your-ui-in-real-time-1588)
-- [Empacotando programas com Nix](https://dev.to/jjoaoll/empacotando-programas-com-nix-4g3g)
-- [SmartStay – Redis-Powered Real-Time AI Lodging Manager](https://dev.to/joupify/smartstay-redis-powered-real-time-ai-lodging-manager-51o8)
+- [Adobe Creative Cloud: Editing the Same Scenario 3 Different Ways Using Adobe Stock](https://dev.to/design_youtube/adobe-creative-cloud-editing-the-same-scenario-3-different-ways-using-adobe-stock-3gg0)
+- [IGN: Pokemon Unite - Official Latias Overview Trailer](https://dev.to/gg_news/ign-pokemon-unite-official-latias-overview-trailer-38o1)
+- [IGN: Fortnite - Official OG Season 5 &#39;Worlds Collide Again&#39; Launch Trailer](https://dev.to/gg_news/ign-fortnite-official-og-season-5-worlds-collide-again-launch-trailer-4bik)
+- [IGN: Composer Akira Yamaoka Reflects on Returning to Silent Hill 2 23 Years Later](https://dev.to/gg_news/ign-composer-akira-yamaoka-reflects-on-returning-to-silent-hill-2-23-years-later-17nl)
+- [The Complete Nginx Mastery Series: From Zero to Production Hero](https://dev.to/unkletayo/the-complete-nginx-mastery-series-from-zero-to-production-hero-5cg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
