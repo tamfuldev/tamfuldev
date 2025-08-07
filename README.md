@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Automated Mineralogical Classification via Hyperspectral Data Fusion &amp; Bayesian Inference](https://dev.to/freederia-research/automated-mineralogical-classification-via-hyperspectral-data-fusion-bayesian-inference-3kob)
-- [How to Reset Your WSL Password: A Beginner&#39;s Guide to Getting Back Into Your Linux Environment](https://dev.to/analystgatitu/how-to-reset-your-wsl-password-a-beginners-guide-to-getting-back-into-your-linux-environment-269k)
-- [Using MCP with Jupyter Notebooks: Agent‑Driven Workflow in Python](https://dev.to/om_shree_0709/using-mcp-with-jupyter-notebooks-agent-driven-workflow-in-python-1d4f)
-- [LocalStorage vs SessionStorage vs Cookies: A Complete Guide 🗄️](https://dev.to/hmpljs/localstorage-vs-sessionstorage-vs-cookies-a-complete-guide-3m6d)
-- [Structured and Unstructured Tasks in Swift](https://dev.to/arshtechpro/structured-and-unstructured-tasks-in-swift-5cgi)
+- [Title: Cognition Announces Staff Exits and Buyout Options Following Windsurf Acquisition](https://dev.to/yagyaraj_sharma_6cd410179/title-cognition-announces-staff-exits-and-buyout-options-following-windsurf-acquisition-33c1)
+- [Advanced Git Commands: Master Rebase, Cherry-Pick &amp; Bisect](https://dev.to/arasosman/advanced-git-commands-master-rebase-cherry-pick-bisect-11nl)
+- [Git Hooks for Automated Code Quality Checks Guide 2025](https://dev.to/arasosman/git-hooks-for-automated-code-quality-checks-guide-2025-372f)
+- [PHP Attributes in Laravel: Complete Guide 2025](https://dev.to/arasosman/php-attributes-in-laravel-complete-guide-2025-3bh8)
+- [The EU AI Act: A Comprehensive Approach to Artificial Intelligence Regulation](https://dev.to/yagyaraj_sharma_6cd410179/the-eu-ai-act-a-comprehensive-approach-to-artificial-intelligence-regulation-133)
 <!-- BLOG-POST-LIST:END -->
 
 ---
