@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Strands Agents with a few lines of code: Agent-to-Agent &lpar;A2A&rpar; Communication](https://dev.to/aws/building-strands-agents-with-a-few-lines-of-code-agent-to-agent-a2a-communication-18h1)
-- [Blazing Toukon HTML! A Game Born from GPT-5&#39;s Magic and Deployed Worldwide via Firebase](https://dev.to/torifukukaiou/blazing-toukon-html-a-game-born-from-gpt-5s-magic-and-deployed-worldwide-via-firebase-3fdc)
-- [Zrozumiec hooki](https://dev.to/itachiszep/zrozumiec-hooki-15j6)
-- [Como criei um protocolo descentralizado que transforma APIs em tokens reais com Proof-of-Work](https://dev.to/gustavodeoli/como-criei-um-protocolo-descentralizado-que-transforma-apis-em-tokens-reais-com-proof-of-work-2i4f)
-- [Building My First Production-Ready ELT Pipeline: A Student&#39;s Journey with Docker, PostgreSQL, dbt, and Airflow](https://dev.to/ashraf_elhoufi_7d4f413bf/building-my-first-production-ready-elt-pipeline-a-students-journey-with-docker-postgresql-dbt-1580)
+- [🍲Beginners guide to &quot;Leetcode 808: Soup Serving&quot;&lpar;C++ | JavaScript | Python&rpar;](https://dev.to/om_shree_0709/beginners-guide-to-leetcode-808-soup-servingc-javascript-python-405p)
+- [Mac Classic Daleks 1984 - in Go and Ebitengine and Webassembly](https://dev.to/aaronsaikovski/daleks-1984-in-go-and-ebitengine-and-webassemby-7nh)
+- [Exploring AI Tech Viral: Your Gateway to the Latest AI Innovations](https://dev.to/jesus_camacho_9576e55a183/exploring-ai-tech-viral-your-gateway-to-the-latest-ai-innovations-1m05)
+- [Integrating Data Tools and Models with MCP](https://dev.to/om_shree_0709/integrating-data-tools-and-models-with-mcp-1jpm)
+- [Sharing my real journey with a feature that almost didn&#39;t make it - maybe you&#39;ve been there too](https://dev.to/accioprocurement/sharing-my-real-journey-with-a-feature-that-almost-didnt-make-it-maybe-youve-been-there-too-3p33)
 <!-- BLOG-POST-LIST:END -->
 
 ---
