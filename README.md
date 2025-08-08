@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Make Money Fast with gpt-oss AI](https://dev.to/abubakersiddique761/make-money-fast-with-gpt-oss-ai-p71)
-- [IGN: Mafia: The Old Country - Official Accolades Trailer](https://dev.to/gg_news/ign-mafia-the-old-country-official-accolades-trailer-12jf)
-- [IGN: Peak - Official &#39;The Mesa Update&#39; Release Date Teaser Trailer](https://dev.to/gg_news/ign-peak-official-the-mesa-update-release-date-teaser-trailer-46ng)
-- [IGN: Noah Hawley Reveals His Process in Creating FX’s Alien: Earth | SDCC 2025](https://dev.to/gg_news/ign-noah-hawley-reveals-his-process-in-creating-fxs-alien-earth-sdcc-2025-3dmn)
-- [Create API with NestJS using TDD approach, part 3!!](https://dev.to/joedev090/create-api-with-nestjs-using-tdd-approach-part-3-4j2a)
+- [Golf.com: We Found The Most Accurate Launch Monitor In Golf](https://dev.to/youtube_golf/golfcom-we-found-the-most-accurate-launch-monitor-in-golf-531d)
+- [GameSpot: Grounded 2: Early Access First Impressions &lpar;Everything I Think&rpar;](https://dev.to/gg_news/gamespot-grounded-2-early-access-first-impressions-everything-i-think-2e17)
+- [GameSpot: Why I Can&#39;t Stop Playing Elden Ring: Nightreign](https://dev.to/gg_news/gamespot-why-i-cant-stop-playing-elden-ring-nightreign-3mi)
+- [IGN: Sky: The Two Embers - Part 1 Official Trailer &lpar;2025&rpar;](https://dev.to/gg_news/ign-sky-the-two-embers-part-1-official-trailer-2025-26em)
+- [IGN: Light of Motiram&#39;s Steam Page Quietly Altered by Tencent After Sony Lawsuit - IGN Daily Fix](https://dev.to/gg_news/ign-light-of-motirams-steam-page-quietly-altered-by-tencent-after-sony-lawsuit-ign-daily-fix-56bm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
