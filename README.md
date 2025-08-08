@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Resources for Project Managers: Essential Tools, Websites, and Communities](https://dev.to/isabella_harry_e56dfaa53c/resources-for-project-managers-essential-tools-websites-and-communities-2jab)
-- [Zero to Docs Hero: Create a Python Documentation Generator with GPT-5](https://dev.to/ayush7614/zero-to-docs-hero-create-a-python-documentation-generator-with-gpt-5-1jaj)
-- [How a late-night obsession turned into a SaaS](https://dev.to/poyashad/how-a-late-night-obsession-turned-into-a-saas-1a0e)
-- [KEXP: Black Country, New Road - For The Cold Country &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-black-country-new-road-for-the-cold-country-live-on-kexp-59e2)
-- [KEXP: Black Country, New Road - Forever Howlong &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-black-country-new-road-forever-howlong-live-on-kexp-m7f)
+- [GPT-5: The Dawn of a New Era in Artificial Intelligence](https://dev.to/srijan-xi/gpt-5-the-dawn-of-a-new-era-in-artificial-intelligence-m44)
+- [Originality, Creativity, Visibility: The Three Multipliers of Modern Success](https://dev.to/blackscripts/originality-creativity-visibility-the-three-multipliers-of-modern-success-1j8c)
+- [Best Practices for Creating Error Code Patterns](https://dev.to/siswoyo/best-practices-for-creating-error-code-patterns-25nk)
+- [📘 LAMP Stack Implementation on AWS &lpar;EC2&rpar; &gt; Linux | Apache | MySQL | PHP](https://dev.to/heritageolaleye/lamp-stack-implementation-on-aws-ec2-linux-apache-mysql-php-2k6d)
+- [cloud vs local tools?](https://dev.to/nikolas_dimitroulakis_d23/cloud-vs-local-tools-1d39)
 <!-- BLOG-POST-LIST:END -->
 
 ---
