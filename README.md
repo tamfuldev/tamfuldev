@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Project of the Week: Appwrite](https://dev.to/pullflow/project-of-the-week-appwrite-pcc)
-- [Investigating with Splunk - TryHackMe Write-up](https://dev.to/forrestcaffray/investigating-with-splunk-tryhackme-write-up-3h5e)
-- [Azure Web Apps - frontend token to work with backend](https://dev.to/andrewelans/azure-web-apps-frontend-token-to-work-with-backend-93i)
-- [What Is a Primary Key in SQL? Learn with Examples](https://dev.to/roxana_haidiner/what-is-a-primary-key-in-sql-learn-with-examples-4bbl)
-- [🚀 Base64Kit: A Lightning-Fast, Privacy-First Web Tool with Perfect Lighthouse Score!](https://dev.to/nattee_kotsomnuan_cf7db0a/base64kit-a-lightning-fast-privacy-first-web-tool-with-perfect-lighthouse-score-489n)
+- [KEXP: Black Country, New Road - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-black-country-new-road-full-performance-live-on-kexp-5epn)
+- [Rick Shiels Golf: This was the WEIRDEST Round of Golf ever!](https://dev.to/youtube_golf/rick-shiels-golf-this-was-the-weirdest-round-of-golf-ever-3a6b)
+- [IGN: Weapons: How Zach Cregger Uses Nightmares and Non-Linear Storytelling to Explore Tragedy](https://dev.to/gg_news/ign-weapons-how-zach-cregger-uses-nightmares-and-non-linear-storytelling-to-explore-tragedy-1p7g)
+- [IGN: Dungeon Stalkers - Official Cinematic Hero Trailer](https://dev.to/gg_news/ign-dungeon-stalkers-official-cinematic-hero-trailer-4i2f)
+- [IGN: Guntouchables - Official Narrated Gameplay Trailer](https://dev.to/gg_news/ign-guntouchables-official-narrated-gameplay-trailer-314a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
