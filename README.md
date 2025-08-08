@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Golf.com: We Found The Most Accurate Launch Monitor In Golf](https://dev.to/youtube_golf/golfcom-we-found-the-most-accurate-launch-monitor-in-golf-531d)
-- [GameSpot: Grounded 2: Early Access First Impressions &lpar;Everything I Think&rpar;](https://dev.to/gg_news/gamespot-grounded-2-early-access-first-impressions-everything-i-think-2e17)
-- [GameSpot: Why I Can&#39;t Stop Playing Elden Ring: Nightreign](https://dev.to/gg_news/gamespot-why-i-cant-stop-playing-elden-ring-nightreign-3mi)
-- [IGN: Sky: The Two Embers - Part 1 Official Trailer &lpar;2025&rpar;](https://dev.to/gg_news/ign-sky-the-two-embers-part-1-official-trailer-2025-26em)
-- [IGN: Light of Motiram&#39;s Steam Page Quietly Altered by Tencent After Sony Lawsuit - IGN Daily Fix](https://dev.to/gg_news/ign-light-of-motirams-steam-page-quietly-altered-by-tencent-after-sony-lawsuit-ign-daily-fix-56bm)
+- [Automated Formulation Optimization for Targeted Immunoadjuvant Peptide Delivery in Injectable Immunotherapy](https://dev.to/freederia-research/automated-formulation-optimization-for-targeted-immunoadjuvant-peptide-delivery-in-injectable-48bg)
+- [&lpar;Low&rpar;Code Maturity Model](https://dev.to/ggondim/lowcode-maturity-model-105e)
+- [NautilusTrader: The Open-Source Trading Platform](https://dev.to/kpcofgs/nautilustrader-the-open-source-trading-platform-5dji)
+- [A Beginner-Friendly Guide to Docs as Code &amp; CI/CD Pipelines](https://dev.to/uzukwu_michael_91a95b823b/a-beginner-friendly-guide-to-docs-as-code-cicd-pipelines-470l)
+- [Qyra AI - AI Customer Support Chatbot](https://dev.to/codertacina/ai-customer-support-chatbot-1pda)
 <!-- BLOG-POST-LIST:END -->
 
 ---
