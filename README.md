@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🍲Beginners guide to &quot;Leetcode 808: Soup Serving&quot;&lpar;C++ | JavaScript | Python&rpar;](https://dev.to/om_shree_0709/beginners-guide-to-leetcode-808-soup-servingc-javascript-python-405p)
-- [Mac Classic Daleks 1984 - in Go and Ebitengine and Webassembly](https://dev.to/aaronsaikovski/daleks-1984-in-go-and-ebitengine-and-webassemby-7nh)
-- [Exploring AI Tech Viral: Your Gateway to the Latest AI Innovations](https://dev.to/jesus_camacho_9576e55a183/exploring-ai-tech-viral-your-gateway-to-the-latest-ai-innovations-1m05)
-- [Integrating Data Tools and Models with MCP](https://dev.to/om_shree_0709/integrating-data-tools-and-models-with-mcp-1jpm)
-- [Sharing my real journey with a feature that almost didn&#39;t make it - maybe you&#39;ve been there too](https://dev.to/accioprocurement/sharing-my-real-journey-with-a-feature-that-almost-didnt-make-it-maybe-youve-been-there-too-3p33)
+- [Starting My IT Journey](https://dev.to/ajayr18/starting-my-it-journey-286n)
+- [Kingdee ERP Zero-Day? ScpSupRegHandler File Upload Exploit Explained](https://dev.to/sharon_42e16b8da44dabde6d/kingdee-erp-zero-day-scpsupreghandler-file-upload-exploit-explained-1jen)
+- [How to Create Your First Lambda Function &lpar;No DevOps Needed&rpar; ⚡🧑‍💻](https://dev.to/yash_sonawane25/how-to-create-your-first-lambda-function-no-devops-needed-166h)
+- [Unsupervised machine learning: Kmeans &lpar;3 blobs&rpar;](https://dev.to/ashwani_kumar_a70ee558a2c/unsupervised-machine-learning-kmeans-3-blobs-a65)
+- [Mastering APP_INITIALIZER in Angular’s Standalone Architecture — With Real-World Example](https://dev.to/vetriselvan_11/mastering-appinitializer-in-angulars-standalone-architecture-with-real-world-example-55dp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
