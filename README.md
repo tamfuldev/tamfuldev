@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of AI in Real Estate and Rentals](https://dev.to/rawveg/the-future-of-ai-in-real-estate-and-rentals-4cp8)
-- [Claude 3.7 vs 3.5 Sonnet: Key Differences You Should Know](https://dev.to/wisdomplexus_70a379ff4482/claude-37-vs-35-sonnet-key-differences-you-should-know-591n)
-- [How Machine Learning Helps Marketers Predict ABM Success](https://dev.to/leo_johnson_e34af4a6d9bd9/how-machine-learning-helps-marketers-predict-abm-success-2gpe)
-- [What is on-demand app development?](https://dev.to/maxtratechnology/-need-to-launch-an-app-like-zomato-uber-or-urbanclap-g0b)
-- [FTSOv2: The Sub-2-Second Oracle That’s Killing DeFi’s Latency Problem](https://dev.to/kaushtubh_agrawal_ecb4f34/ftsov2-the-sub-2-second-oracle-thats-killing-defis-latency-problem-2097)
+- [Resources for Project Managers: Essential Tools, Websites, and Communities](https://dev.to/isabella_harry_e56dfaa53c/resources-for-project-managers-essential-tools-websites-and-communities-2jab)
+- [Zero to Docs Hero: Create a Python Documentation Generator with GPT-5](https://dev.to/ayush7614/zero-to-docs-hero-create-a-python-documentation-generator-with-gpt-5-1jaj)
+- [How a late-night obsession turned into a SaaS](https://dev.to/poyashad/how-a-late-night-obsession-turned-into-a-saas-1a0e)
+- [KEXP: Black Country, New Road - For The Cold Country &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-black-country-new-road-for-the-cold-country-live-on-kexp-59e2)
+- [KEXP: Black Country, New Road - Forever Howlong &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-black-country-new-road-forever-howlong-live-on-kexp-m7f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
