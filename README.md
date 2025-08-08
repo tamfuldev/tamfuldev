@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Following Concord&#39;s historic failure, Sony admits its live-service push is &quot;not entirely going smoothly”](https://dev.to/gg_news/following-concords-historic-failure-sony-admits-its-live-service-push-is-not-entirely-going-1ede)
-- [EA Shutting Down Four Games Forever in October](https://dev.to/gg_news/ea-shutting-down-four-games-forever-in-october-23ci)
-- [Deus Ex Lead Does Not Want You To Steal His Voice For A Cyberpunk 2077 Mod](https://dev.to/gg_news/deus-ex-lead-does-not-want-you-to-steal-his-voice-for-a-cyberpunk-2077-mod-bhn)
-- [Valve point to Mastercard restrictions as the payment firm deny influencing adult game removals](https://dev.to/gg_news/valve-point-to-mastercard-restrictions-as-the-payment-firm-deny-influencing-adult-game-removals-31li)
-- [Baldur&#39;s Gate 3 Actor Thinks Video Game Performers Are Being &quot;Slept On&quot; In Film And TV Adaptations](https://dev.to/gg_news/baldurs-gate-3-actor-thinks-video-game-performers-are-being-slept-on-in-film-and-tv-adaptations-55gd)
+- [Project of the Week: Appwrite](https://dev.to/pullflow/project-of-the-week-appwrite-pcc)
+- [Investigating with Splunk - TryHackMe Write-up](https://dev.to/forrestcaffray/investigating-with-splunk-tryhackme-write-up-3h5e)
+- [Azure Web Apps - frontend token to work with backend](https://dev.to/andrewelans/azure-web-apps-frontend-token-to-work-with-backend-93i)
+- [What Is a Primary Key in SQL? Learn with Examples](https://dev.to/roxana_haidiner/what-is-a-primary-key-in-sql-learn-with-examples-4bbl)
+- [🚀 Base64Kit: A Lightning-Fast, Privacy-First Web Tool with Perfect Lighthouse Score!](https://dev.to/nattee_kotsomnuan_cf7db0a/base64kit-a-lightning-fast-privacy-first-web-tool-with-perfect-lighthouse-score-489n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
