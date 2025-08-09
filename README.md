@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Millennial&#39;s Bug: Healing through html](https://dev.to/davesommerville/the-millennials-bug-healing-through-html-2bod)
-- [🗼Beginners guide to &quot;Leetcode 231: Power of Two&quot;&lpar;C++ | JavaScript | Python&rpar;](https://dev.to/om_shree_0709/beginners-guide-to-leetcode-231-power-of-twoc-javascript-python-1c3g)
-- [IGN: How to Enable SecureBoot for PC &lpar;for Battlefield 6&rpar;](https://dev.to/gg_news/ign-how-to-enable-secureboot-for-pc-for-battlefield-6-k39)
-- [Is GenAI Making Us Mentally Lazy ?](https://dev.to/sushil2k4/is-genai-making-us-mentally-lazy--4jmo)
-- [Beyond the Build: How Hackathons Fuel Soft Skills and Personal Growth](https://dev.to/tamyrah/beyond-the-build-how-hackathons-fuel-soft-skills-and-personal-growth-3565)
+- [I Built a Leadership Simulator for Aspiring Tech Leads &lpar;And Why The Soft Skills Matter Most&rpar;](https://dev.to/dalenguyen/i-built-a-leadership-simulator-for-aspiring-tech-leads-and-why-the-soft-skills-matter-most-4ngo)
+- [More Thoughts on My Mental Model for Understanding Data Structures and Algorithms](https://dev.to/lusayo_ny/more-thoughts-on-my-mental-model-for-understanding-data-structures-and-algorithms-2e90)
+- [Bankrupt Clock: After the Hack - WLH Challenge](https://dev.to/ariondev/bankrupt-clock-after-the-hack-wlh-challenge-4bhb)
+- [Trixie has arrived!](https://dev.to/tracywhodoesnot/trixie-has-arrived-2299)
+- [The Shell Safety Net I Wanted GPT-5 to Be - So I Built It](https://dev.to/gitswhy/the-shell-safety-net-i-wanted-gpt-5-to-be-so-i-built-it-4h8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
