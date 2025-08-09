@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [OUTLINE: TIPS BELAJAR MENGHAFAL DENGAN CEPAT](https://dev.to/gunadarma/outline-tips-belajar-menghafal-dengan-cepat-4hik)
-- [🫆SUDO AND ACL: Basics](https://dev.to/sahillearninglinux/sudo-and-acl-basics-5cm9)
-- [The Day My Flutter IDE Went Silent](https://dev.to/bestaoui_aymen/the-day-my-flutter-ide-went-silent-3f4l)
-- [Aprendendo TI de Graça](https://dev.to/vitormours/aprendendo-ti-de-graca-34a2)
-- [Instagram&#39;s Friend Map: How Meta Just Taught Us Privacy Engineering 101 &lpar;The Hard Way&rpar;](https://dev.to/shiva_shanker_k/instagrams-friend-map-how-meta-just-taught-us-privacy-engineering-101-the-hard-way-55d2)
+- [Concerned About localStorage? Here&#39;s How to Secure It](https://dev.to/gouranga-das-khulna/concerned-about-localstorage-heres-how-to-secure-it-2plm)
+- [Celebrating 1000 Views: A Journey Through Open-Source Technology](https://dev.to/kpcofgs/celebrating-1000-views-a-journey-through-open-source-technology-ja5)
+- [kheAI: Chat-based AI Accounting for Smarter Liquidity &amp; Bitcoin Treasury with Redis 8](https://dev.to/kafechew/kheai-chat-based-ai-accounting-for-smarter-liquidity-bitcoin-treasury-with-redis-8-538l)
+- [Inside Docker: Linux Namespaces, cgroups](https://dev.to/jungledev/inside-docker-linux-namespaces-cgroups-3h27)
+- [Building a Lightning-Fast i18n Alternative: Why I Ditched i18next for Native JavaScript](https://dev.to/artalar/building-a-lightning-fast-i18n-alternative-why-i-ditched-i18next-for-native-javascript-2o06)
 <!-- BLOG-POST-LIST:END -->
 
 ---
