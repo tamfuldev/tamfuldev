@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Durable Cloud Control Systems with Temporal](https://dev.to/sergeybykov/building-durable-cloud-control-systems-with-temporal-5l7)
-- [Why Top Developers Prioritize Failure Management](https://dev.to/temporalio/why-top-developers-prioritize-failure-management-lj6)
-- [Why I Tried AWS SAM for My Portfolio Project](https://dev.to/a-k-0047/why-i-tried-aws-sam-for-my-portfolio-project-eah)
-- [printfy - printf, vprintf, sprintf, vsprintf](https://dev.to/indianmodassir/printfy-printf-vprintf-sprintf-vsprintf-2fmo)
-- [Protect Privacy Against Deepfakes Now!](https://dev.to/sebastian_reid999/protect-privacy-against-deepfakes-now-2p1i)
+- [Scroll Trigger Portfolio Template](https://dev.to/patrick_dunn_d0fcc74272b4/scroll-trigger-portfolio-template-32kb)
+- [Cloning a website taught me more than tutorials did.](https://dev.to/dshree/css-basics-you-must-master-box-model-display-property-inline-vs-block-and-making-circles-fbj)
+- [Why Android SBCs Are Gaining Momentum in Embedded Applications](https://dev.to/jasonliu112/why-android-sbcs-are-gaining-momentum-in-embedded-applications-29m7)
+- [Beyond WordPress: Lightweight PHP CMS Alternatives for Fitness Equipment E-Commerce](https://dev.to/ntaifitness/beyond-wordpress-lightweight-php-cms-alternatives-for-fitness-equipment-e-commerce-2h62)
+- [Your OOP code looks fine: The Liskov Violation SILENTLY Breaking Production!](https://dev.to/xuan_56087d315ff4f52254e6/your-oop-code-looks-fine-the-liskov-violation-silently-breaking-production-3m4k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
