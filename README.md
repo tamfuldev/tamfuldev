@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Automated Formulation Optimization for Targeted Immunoadjuvant Peptide Delivery in Injectable Immunotherapy](https://dev.to/freederia-research/automated-formulation-optimization-for-targeted-immunoadjuvant-peptide-delivery-in-injectable-48bg)
-- [&lpar;Low&rpar;Code Maturity Model](https://dev.to/ggondim/lowcode-maturity-model-105e)
-- [NautilusTrader: The Open-Source Trading Platform](https://dev.to/kpcofgs/nautilustrader-the-open-source-trading-platform-5dji)
-- [A Beginner-Friendly Guide to Docs as Code &amp; CI/CD Pipelines](https://dev.to/uzukwu_michael_91a95b823b/a-beginner-friendly-guide-to-docs-as-code-cicd-pipelines-470l)
-- [Qyra AI - AI Customer Support Chatbot](https://dev.to/codertacina/ai-customer-support-chatbot-1pda)
+- [Building Durable Cloud Control Systems with Temporal](https://dev.to/sergeybykov/building-durable-cloud-control-systems-with-temporal-5l7)
+- [Why Top Developers Prioritize Failure Management](https://dev.to/temporalio/why-top-developers-prioritize-failure-management-lj6)
+- [Why I Tried AWS SAM for My Portfolio Project](https://dev.to/a-k-0047/why-i-tried-aws-sam-for-my-portfolio-project-eah)
+- [printfy - printf, vprintf, sprintf, vsprintf](https://dev.to/indianmodassir/printfy-printf-vprintf-sprintf-vsprintf-2fmo)
+- [Protect Privacy Against Deepfakes Now!](https://dev.to/sebastian_reid999/protect-privacy-against-deepfakes-now-2p1i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
