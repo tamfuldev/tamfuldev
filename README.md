@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Scroll Trigger Portfolio Template](https://dev.to/patrick_dunn_d0fcc74272b4/scroll-trigger-portfolio-template-32kb)
-- [Cloning a website taught me more than tutorials did.](https://dev.to/dshree/css-basics-you-must-master-box-model-display-property-inline-vs-block-and-making-circles-fbj)
-- [Why Android SBCs Are Gaining Momentum in Embedded Applications](https://dev.to/jasonliu112/why-android-sbcs-are-gaining-momentum-in-embedded-applications-29m7)
-- [Beyond WordPress: Lightweight PHP CMS Alternatives for Fitness Equipment E-Commerce](https://dev.to/ntaifitness/beyond-wordpress-lightweight-php-cms-alternatives-for-fitness-equipment-e-commerce-2h62)
-- [Your OOP code looks fine: The Liskov Violation SILENTLY Breaking Production!](https://dev.to/xuan_56087d315ff4f52254e6/your-oop-code-looks-fine-the-liskov-violation-silently-breaking-production-3m4k)
+- [AI model for good governance](https://dev.to/hansik/ai-model-for-good-governance-508o)
+- [Token Bucket - Rate Limiter](https://dev.to/krishna-nayak/token-bucket-rate-limiter-3fb1)
+- [Redis-Powered Multi-Agent AI Workflow: Orchestrating Claude Code Instances for Concurrent Software Development](https://dev.to/fooooorrest/redis-powered-multi-agent-ai-workflow-orchestrating-claude-code-instances-for-concurrent-software-dbh)
+- [NOTGPT.NET - Premium AI for Everyone](https://dev.to/jaron_79b2943d7acc9e3c74e/notgptnet-premium-ai-for-everyone-1ge1)
+- [SuperClaude 核心命令快捷键指南](https://dev.to/dragon72463399/superclaude-he-xin-ming-ling-kuai-jie-jian-zhi-nan-4ckj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
