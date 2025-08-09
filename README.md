@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My New Post](https://dev.to/gokul_nathan_b9552b3fb35b/my-new-post-33h)
-- [Getting pure output from Ansible](https://dev.to/amarao/getting-pure-output-from-ansible-4g5a)
-- [Securing Your Code with AWS Inspector: A Comprehensive Guide to Code Security Scanning](https://dev.to/aws-builders/securing-your-code-with-aws-inspector-a-comprehensive-guide-to-code-security-scanning-499n)
-- [Detailed on Manual Testing ,BVA,Decision Table Testing,Future Of Manual Testing in the Age of AI](https://dev.to/kn_m_0d1ed0f47501b32f0832/detailed-on-manual-testing-bvadecision-table-testingfuture-of-manual-testing-in-the-age-of-ai-23n3)
-- [Weekly Challenge #2 - StackDAG](https://dev.to/javredstone/weekly-challenge-2-stackdag-2cn0)
+- [The Millennial&#39;s Bug: Healing through html](https://dev.to/davesommerville/the-millennials-bug-healing-through-html-2bod)
+- [🗼Beginners guide to &quot;Leetcode 231: Power of Two&quot;&lpar;C++ | JavaScript | Python&rpar;](https://dev.to/om_shree_0709/beginners-guide-to-leetcode-231-power-of-twoc-javascript-python-1c3g)
+- [IGN: How to Enable SecureBoot for PC &lpar;for Battlefield 6&rpar;](https://dev.to/gg_news/ign-how-to-enable-secureboot-for-pc-for-battlefield-6-k39)
+- [Is GenAI Making Us Mentally Lazy ?](https://dev.to/sushil2k4/is-genai-making-us-mentally-lazy--4jmo)
+- [Beyond the Build: How Hackathons Fuel Soft Skills and Personal Growth](https://dev.to/tamyrah/beyond-the-build-how-hackathons-fuel-soft-skills-and-personal-growth-3565)
 <!-- BLOG-POST-LIST:END -->
 
 ---
