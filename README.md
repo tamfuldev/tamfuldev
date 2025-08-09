@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Rick Shiels Golf: My Golf Improved!!!](https://dev.to/youtube_golf/rick-shiels-golf-my-golf-improved-4k4o)
+- [Inside gomarklint: Building a High-Performance Markdown Linter in Go](https://dev.to/_402ccbd6e5cb02871506/inside-gomarklint-building-a-high-performance-markdown-linter-in-go-2am1)
+- [231. Power of Two](https://dev.to/mdarifulhaque/231-power-of-two-5ef6)
+- [Spring Boot `application.properties` – Complete Guide to Configuring Databases, Messaging, and Security](https://dev.to/devcorner/spring-boot-applicationproperties-complete-guide-to-configuring-databases-messaging-and-j47)
 - [AI model for good governance](https://dev.to/hansik/ai-model-for-good-governance-508o)
-- [Token Bucket - Rate Limiter](https://dev.to/krishna-nayak/token-bucket-rate-limiter-3fb1)
-- [Redis-Powered Multi-Agent AI Workflow: Orchestrating Claude Code Instances for Concurrent Software Development](https://dev.to/fooooorrest/redis-powered-multi-agent-ai-workflow-orchestrating-claude-code-instances-for-concurrent-software-dbh)
-- [NOTGPT.NET - Premium AI for Everyone](https://dev.to/jaron_79b2943d7acc9e3c74e/notgptnet-premium-ai-for-everyone-1ge1)
-- [SuperClaude 核心命令快捷键指南](https://dev.to/dragon72463399/superclaude-he-xin-ming-ling-kuai-jie-jian-zhi-nan-4ckj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
