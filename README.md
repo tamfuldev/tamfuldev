@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Leadership Simulator for Aspiring Tech Leads &lpar;And Why The Soft Skills Matter Most&rpar;](https://dev.to/dalenguyen/i-built-a-leadership-simulator-for-aspiring-tech-leads-and-why-the-soft-skills-matter-most-4ngo)
-- [More Thoughts on My Mental Model for Understanding Data Structures and Algorithms](https://dev.to/lusayo_ny/more-thoughts-on-my-mental-model-for-understanding-data-structures-and-algorithms-2e90)
-- [Bankrupt Clock: After the Hack - WLH Challenge](https://dev.to/ariondev/bankrupt-clock-after-the-hack-wlh-challenge-4bhb)
-- [Trixie has arrived!](https://dev.to/tracywhodoesnot/trixie-has-arrived-2299)
-- [The Shell Safety Net I Wanted GPT-5 to Be - So I Built It](https://dev.to/gitswhy/the-shell-safety-net-i-wanted-gpt-5-to-be-so-i-built-it-4h8)
+- [Adam Savage&#39;s Tested: The Challenge of Installing Massive and Culturally Sensitive Artifacts &lpar;at @airandspace&rpar;](https://dev.to/maker_youtube/adam-savages-tested-the-challenge-of-installing-massive-and-culturally-sensitive-artifacts-at-2969)
+- [Adam Savage&#39;s Tested: When Someone You Dislike Critiques You](https://dev.to/maker_youtube/adam-savages-tested-when-someone-you-dislike-critiques-you-406d)
+- [I Like To Make Stuff: How Can It Be This Easy?](https://dev.to/maker_youtube/i-like-to-make-stuff-how-can-it-be-this-easy-1bfg)
+- [Tech With Tim: The Next Step After Learning Python Basics](https://dev.to/vibe_youtube/tech-with-tim-the-next-step-after-learning-python-basics-jeg)
+- [Rick Shiels Golf: Worst Front 9 of My Life… Then This Happened](https://dev.to/youtube_golf/rick-shiels-golf-worst-front-9-of-my-life-then-this-happened-1llh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
