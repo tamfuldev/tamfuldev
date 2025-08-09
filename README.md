@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Shiels Golf: My Golf Improved!!!](https://dev.to/youtube_golf/rick-shiels-golf-my-golf-improved-4k4o)
-- [Inside gomarklint: Building a High-Performance Markdown Linter in Go](https://dev.to/_402ccbd6e5cb02871506/inside-gomarklint-building-a-high-performance-markdown-linter-in-go-2am1)
-- [231. Power of Two](https://dev.to/mdarifulhaque/231-power-of-two-5ef6)
-- [Spring Boot `application.properties` – Complete Guide to Configuring Databases, Messaging, and Security](https://dev.to/devcorner/spring-boot-applicationproperties-complete-guide-to-configuring-databases-messaging-and-j47)
-- [AI model for good governance](https://dev.to/hansik/ai-model-for-good-governance-508o)
+- [How to setup Airtable MCP for effective work manahement 💻📊](https://dev.to/composiodev/how-to-setup-airtable-mcp-for-effective-work-manahement-1akm)
+- [Starting The Cloud Resume Challenge](https://dev.to/vishal_ghoshroy/starting-the-cloud-resume-challenge-31cl)
+- [🧠 Solving LeetCode Until I Become Top 1% — Day `54`](https://dev.to/therealrishat/solving-leetcode-until-i-become-top-1-day-54-42b6)
+- [DevOps Skills Alone Aren’t Enough - Here’s Why](https://dev.to/yoshik_karnawat/devops-skills-alone-arent-enough-heres-why-4kb5)
+- [in java throw,what,why?](https://dev.to/rajeshwari_rajeshwari_0e5/in-java-throwwhatwhy-imd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
