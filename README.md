@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Concerned About localStorage? Here&#39;s How to Secure It](https://dev.to/gouranga-das-khulna/concerned-about-localstorage-heres-how-to-secure-it-2plm)
-- [Celebrating 1000 Views: A Journey Through Open-Source Technology](https://dev.to/kpcofgs/celebrating-1000-views-a-journey-through-open-source-technology-ja5)
-- [kheAI: Chat-based AI Accounting for Smarter Liquidity &amp; Bitcoin Treasury with Redis 8](https://dev.to/kafechew/kheai-chat-based-ai-accounting-for-smarter-liquidity-bitcoin-treasury-with-redis-8-538l)
-- [Inside Docker: Linux Namespaces, cgroups](https://dev.to/jungledev/inside-docker-linux-namespaces-cgroups-3h27)
-- [Building a Lightning-Fast i18n Alternative: Why I Ditched i18next for Native JavaScript](https://dev.to/artalar/building-a-lightning-fast-i18n-alternative-why-i-ditched-i18next-for-native-javascript-2o06)
+- [My New Post](https://dev.to/gokul_nathan_b9552b3fb35b/my-new-post-33h)
+- [Getting pure output from Ansible](https://dev.to/amarao/getting-pure-output-from-ansible-4g5a)
+- [Securing Your Code with AWS Inspector: A Comprehensive Guide to Code Security Scanning](https://dev.to/aws-builders/securing-your-code-with-aws-inspector-a-comprehensive-guide-to-code-security-scanning-499n)
+- [Detailed on Manual Testing ,BVA,Decision Table Testing,Future Of Manual Testing in the Age of AI](https://dev.to/kn_m_0d1ed0f47501b32f0832/detailed-on-manual-testing-bvadecision-table-testingfuture-of-manual-testing-in-the-age-of-ai-23n3)
+- [Weekly Challenge #2 - StackDAG](https://dev.to/javredstone/weekly-challenge-2-stackdag-2cn0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
