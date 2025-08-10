@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Lusophone – Agora com Documentação Oficial](https://dev.to/arnaldo/laravel-lusophone-agora-com-documentacao-oficial-38me)
-- [Turn LLM-Generated HTML into Images Using PuppeteerSharp with .NET](https://dev.to/auyeungdavid_2847435260/turn-llm-generated-html-into-images-using-puppeteersharp-with-net-5hh8)
-- [Building a Real-Time System Health Dashboard with Powershell, HTML &amp; CSS](https://dev.to/kwamzdev/building-a-real-time-system-health-dashboard-with-powershell-html-css-j1l)
-- [How i struggle with exporting DeepSeek to PDF and make my own solution](https://dev.to/slava_bf6417e5f358b9de1e2/how-i-struggle-with-exporting-deepseek-to-pdf-and-make-my-own-solution-419p)
-- [Adam Savage&#39;s Tested: Why Adam Savage Loves His Ruler Tattoo &lpar;with @Nerdforge&rpar;](https://dev.to/maker_youtube/adam-savages-tested-why-adam-savage-loves-his-ruler-tattoo-with-nerdforge-5cd6)
+- [WebSocket Revolution in Real-Time Communication&lpar;9730&rpar;](https://dev.to/socket-use/websocket-revolution-in-real-time-communication9730-45n8)
+- [Your First Step into the World of Code with Dart](https://dev.to/mohammed_abdelmoniemkame/your-first-step-into-the-world-of-code-with-dart-463b)
+- [AI Agents + Judge + Cron Job + Self-Learning Loop = The Pathway to AGI ?](https://dev.to/adil_maqsood_2ac3c8ead50c/ai-agents-judge-cron-job-self-learning-loop-the-pathway-to-agi--3doc)
+- [Beyond the Numbers: How to Succeed as an Analyst, Grow in Your Career, and Avoid Burnout. Part 2](https://dev.to/sergome/beyond-the-numbers-how-to-succeed-as-an-analyst-grow-in-your-career-and-avoid-burnout-part-2-34af)
+- [How to Build AI-Powered .NET Apps with ML.NET and C#: A Step-by-Step Guide](https://dev.to/sana_rana_024d71d6c02c291/how-to-build-ai-powered-net-apps-with-mlnet-and-c-a-step-by-step-guide-3cdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
