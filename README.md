@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Revolutionary Performance Breakthrough in Modern Web Development&lpar;7583&rpar;](https://dev.to/socket-use/revolutionary-performance-breakthrough-in-modern-web-development7583-1240)
-- [OrKa onboarding: example suite, guided tour, and trace replay](https://dev.to/marcosomma/orka-onboarding-example-suite-guided-tour-and-trace-replay-2egf)
-- [From Punch Cards to AI Coders: The Unseen Journey of Software Creation](https://dev.to/arkhan/from-punch-cards-to-ai-coders-the-unseen-journey-of-software-creation-48g8)
-- [Essential Cybersecurity Practices for Small Businesses Without a Tech Team](https://dev.to/terminaltools/essential-cybersecurity-practices-for-small-businesses-without-a-tech-team-2blm)
-- [Rust Async Web Framework Performance Breakthrough&lpar;7140&rpar;](https://dev.to/socket-use/rust-async-web-framework-performance-breakthrough7140-2063)
+- [15 Data Engineering Core Concepts Simplified](https://dev.to/walnold/15-data-engineering-core-concepts-simplified-5fo3)
+- [Cross-Platform Web Development Without Compromise&lpar;1462&rpar;](https://dev.to/socket-use/cross-platform-web-development-without-compromise1462-3oi0)
+- [My Experience &lpar;and Struggles&rpar; with the Beelink ME Mini as a NAS](https://dev.to/sivachaitanya_sala_cb5aa/my-experience-and-struggles-with-the-beelink-me-mini-as-a-nas-26g3)
+- [IGN: Spider-Man: Brand New Day - Official ‘Day One on Set’ Featurette &lpar;2026&rpar; Tom Holland, Zendaya](https://dev.to/gg_news/ign-spider-man-brand-new-day-official-day-one-on-set-featurette-2026-tom-holland-zendaya-m7b)
+- [Towards more accountability of Raku programs](https://dev.to/lizmat/towards-more-accountability-of-raku-programs-3g2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
