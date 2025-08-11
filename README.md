@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [With the arrival of AI, authority building has become necessary for career growth. Writing a book is the most optimised way to build authority. Now, you can turn your expertise into a book with the help of AI. This article will guide you step by step.](https://dev.to/jaideepparashar/with-the-arrival-of-ai-authority-building-has-become-necessary-for-career-growth-writing-a-book-1pme)
-- [How to Turn Your Expertise into a Book with AI &lpar;Step-by-Step&rpar;](https://dev.to/jaideepparashar/how-to-turn-your-expertise-into-a-book-with-ai-step-by-step-13a0)
-- [Brane: The AI Brain for Next-Gen Data Intelligence](https://dev.to/aberthecreator/brane-the-ai-brain-for-next-gen-data-intelligence-3o5j)
-- [Building Scalable Systems](https://dev.to/datnm555_41/building-scalable-systems-27mb)
-- [6 Open-Source no-code Database Tools Like Airtable and Notion](https://dev.to/nocobase/6-open-source-no-code-database-tools-like-airtable-and-notion-457o)
+- [Production-Ready Next.js Starter Kit with Auth and Database](https://dev.to/jqueryscript/production-ready-nextjs-starter-kit-with-auth-and-database-29l3)
+- [Hashing and Salting Passwords in C#](https://dev.to/imakash/hashing-and-salting-passwords-in-c-52cm)
+- [Latency Optimization Secrets for Millisecond Response Times&lpar;5565&rpar;](https://dev.to/socket-use/latency-optimization-secrets-for-millisecond-response-times5565-51cd)
+- [Redis AI](https://dev.to/test_account_135546f0de80/redis-ai-2hc4)
+- [5 Things Every New Coder Should Watch, Ask, Read, Do, and Pass On](https://dev.to/canro91/5-things-every-new-coder-should-watch-ask-read-do-and-pass-on-2gc1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
