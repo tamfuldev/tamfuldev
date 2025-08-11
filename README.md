@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Production-Ready Next.js Starter Kit with Auth and Database](https://dev.to/jqueryscript/production-ready-nextjs-starter-kit-with-auth-and-database-29l3)
-- [Hashing and Salting Passwords in C#](https://dev.to/imakash/hashing-and-salting-passwords-in-c-52cm)
-- [Latency Optimization Secrets for Millisecond Response Times&lpar;5565&rpar;](https://dev.to/socket-use/latency-optimization-secrets-for-millisecond-response-times5565-51cd)
-- [Redis AI](https://dev.to/test_account_135546f0de80/redis-ai-2hc4)
-- [5 Things Every New Coder Should Watch, Ask, Read, Do, and Pass On](https://dev.to/canro91/5-things-every-new-coder-should-watch-ask-read-do-and-pass-on-2gc1)
+- [## 🧠 Solving LeetCode Until I Become Top 1% — Day `57`](https://dev.to/therealrishat/-solving-leetcode-until-i-become-top-1-day-57-2io6)
+- [High-Performance Routing System Design and Implementation&lpar;1534&rpar;](https://dev.to/socket-use/high-performance-routing-system-design-and-implementation1534-3m4k)
+- [Building an AI Wellness Coach with Redis 8: How Vector Search &amp; Semantic Caching Revolutionized My LLM App](https://dev.to/sanket80/building-an-ai-wellness-coach-with-redis-8-how-vector-search-semantic-caching-revolutionized-my-39an)
+- [Asguard – Blockchain-Powered Security &amp; Intelligence with Redis 8 AI 🛡️🤖](https://dev.to/asamaes/asguard-blockchain-powered-security-intelligence-with-redis-8-ai-48aa)
+- [Network Router Vs Layer 3 Switch, is layer 3 switch is eliminating the requirement of Network Router ?](https://dev.to/dhirendra_c8b2a40ed8cbeeb/network-router-vs-layer-3-switch-is-layer-3-switch-is-eliminating-the-requirement-of-network-ao0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
