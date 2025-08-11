@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Python&#39;s __mro__](https://dev.to/bharathvaj_ganesan/pythons-mro-4ghh)
-- [Modern Server-Side Event Implementation&lpar;2473&rpar;](https://dev.to/socket-use/modern-server-side-event-implementation2473-1e0d)
-- [Knowledge OS — Turning Any File into Instant, Cited Answers with Redis 8](https://dev.to/jcloud/knowledge-os-turning-any-file-into-instant-cited-answers-with-redis-8-3o1k)
-- [Title: The SWE-Lancer Benchmark: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?](https://dev.to/yagyaraj_sharma_6cd410179/title-the-swe-lancer-benchmark-can-frontier-llms-earn-1-million-from-real-world-freelance-1e0f)
-- [Blog Article:](https://dev.to/yagyaraj_sharma_6cd410179/blog-article-1a3)
+- [Basics of Investment](https://dev.to/madgan95/basics-of-investment-287d)
+- [Resource Management and Memory Efficiency in Web Servers&lpar;3569&rpar;](https://dev.to/socket-use/resource-management-and-memory-efficiency-in-web-servers3569-2e0n)
+- [AniGuess: Real-Time Multiplayer Anime Guessing Game](https://dev.to/ykimura/aniguess-real-time-multiplayer-anime-guessing-game-17n3)
+- [Design Philosophy of Zero-Dependency Web Framework&lpar;5737&rpar;](https://dev.to/socket-use/design-philosophy-of-zero-dependency-web-framework5737-1gm9)
+- [Bracket Lynx 🔎](https://dev.to/bastndev/bracket-lynx-3ejg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
