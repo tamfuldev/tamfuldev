@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing the Webdock CLI: Say hello to infrastructure as code](https://dev.to/web_learning_4de0b1e0557/introducing-the-webdock-cli-say-hello-to-infrastructure-as-code-5801)
-- [Taking The Cloud Resume Challenge: GCP Style](https://dev.to/smgestupa/taking-the-cloud-resume-challenge-gcp-style-23md)
-- [Smart Image Tagger](https://dev.to/aju21/smart-image-tagger-5afh)
-- [TCP Optimization Techniques for Web Server Performance&lpar;5234&rpar;](https://dev.to/socket-use/tcp-optimization-techniques-for-web-server-performance5234-3349)
-- [PHP-FPM Process Types: ondemand vs dynamic vs static](https://dev.to/serveravatar/php-fpm-process-types-ondemand-vs-dynamic-vs-static-3082)
+- [This is bad](https://dev.to/hermergray/this-is-bad-4cm1)
+- [Meme Monday](https://dev.to/ben/meme-monday-4oa5)
+- [Next.js &quot;Getting Started&quot; Stack](https://dev.to/jtakahashi0604/nextjs-getting-started-stack-4ihm)
+- [Application of Async Programming in Web Development&lpar;1222&rpar;](https://dev.to/socket-use/application-of-async-programming-in-web-development1222-5gcn)
+- [Side Projects: React Digital Display - The End](https://dev.to/kamil7x/side-projects-react-digital-display-the-end-50o0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
