@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Brighter V10 Release Candidate 2 - What is new?](https://dev.to/actor-dev/brighter-v10-release-candidate-v2-what-is-new-21n2)
-- [Brighter V10 RC2: Novos Recursos, Aperfeiçoamentos e Correções de Bugs](https://dev.to/actor-dev/brighter-v10-rc2-novos-recursos-aperfeicoamentos-e-correcoes-de-bugs-5cm6)
-- [TCP Optimization Techniques for Web Server Performance&lpar;8044&rpar;](https://dev.to/socket-use/tcp-optimization-techniques-for-web-server-performance8044-1pb2)
-- [HTML to PDF API Tutorial – Generate Fillable PDFs from HTML in Minutes](https://dev.to/demetrat/html-to-pdf-api-tutorial-generate-fillable-pdfs-from-html-in-minutes-129n)
-- [HTTP Request Processing with Zero-Copy Optimization&lpar;0912&rpar;](https://dev.to/socket-use/http-request-processing-with-zero-copy-optimization0912-k90)
+- [AI Stack for Solo Developers: Build an Entire Startup with These Tools](https://dev.to/mr_nova/ai-stack-for-solo-developers-build-an-entire-startup-with-these-tools-3en0)
+- [Application of Async Programming in Web Development&lpar;2861&rpar;](https://dev.to/socket-use/application-of-async-programming-in-web-development2861-li2)
+- [Kickstarting Your Week as a Developer: 5 Micro-Habits That Actually Work](https://dev.to/vadym_info_polus/kickstarting-your-week-as-a-developer-5-micro-habits-that-actually-work-3opa)
+- [Thinking Clearly in Code: What Works for Me](https://dev.to/puritanic/thinking-clearly-in-code-what-works-for-me-44ao)
+- [WTF is Omnichannel Development?](https://dev.to/dailybugle33/wtf-is-omnichannel-development-2ei4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
