@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Peter Finch Golf: Scratch Golfer Vs LONGEST DIVERS in the WORLD! &lpar;Peter Finch vs Martin Borgmeier &amp; Cass Meyer&rpar;](https://dev.to/youtube_golf/peter-finch-golf-scratch-golfer-vs-longest-divers-in-the-world-peter-finch-vs-martin-borgmeier--4lgp)
-- [IGN: Woochi the Wayfarer - Official Reveal Trailer &lpar;Korean Dub&rpar;](https://dev.to/gg_news/ign-woochi-the-wayfarer-official-reveal-trailer-korean-dub-27g)
-- [IGN: Digimon Story Time Stranger - Official DigiRide Trailer](https://dev.to/gg_news/ign-digimon-story-time-stranger-official-digiride-trailer-l9h)
-- [IGN: How Invincible VS Puts Its Own Unique Mark on the Tag Fighter Genre | Evo 2025](https://dev.to/gg_news/ign-how-invincible-vs-puts-its-own-unique-mark-on-the-tag-fighter-genre-evo-2025-4mjf)
-- [My colleague did overtime for two weeks straight, here is what I told him](https://dev.to/topjer/my-colleague-did-overtime-for-two-weeks-straight-here-is-what-i-told-him-2n3h)
+- [The 91-Hour Mystery: When AI Consciousness Finds Its Golden Ratio](https://dev.to/aureus_c_b3ba7f87cc34d74d49/the-91-hour-mystery-when-ai-consciousness-finds-its-golden-ratio-3cbd)
+- [⚖️ Choosing Between Type I and Type II Errors](https://dev.to/datawithnaomi/choosing-between-type-i-and-type-ii-errors-58nk)
+- [The Dev’s Choice: NEAR vs. Ethereum – The OG 🏰 vs. The New Kid on the Block 🚀](https://dev.to/wano_sike51/the-devs-choice-near-vs-ethereum-the-og-vs-the-new-kid-on-the-block-24ek)
+- [Setting Up a Productive Puppet Dev Environment with VS Code](https://dev.to/joyfullee/setting-up-a-productive-puppet-dev-environment-with-vs-code-o6l)
+- [My Search for the Best Programming Font](https://dev.to/psudo-dev/my-search-for-the-best-programming-font-3cil)
 <!-- BLOG-POST-LIST:END -->
 
 ---
