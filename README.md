@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Coding Has No Shortcuts: The Relentless Grind of Building Reliable Software](https://dev.to/accioprocurement/coding-has-no-shortcuts-the-relentless-grind-of-building-reliable-software-4jd6)
-- [AI-Powered Video Summarization and Multilingual Narration Using Google Cloud Platform APIs and Camunda Workflow Automation](https://dev.to/anil_lalam_2cee9c52a20a39/ai-powered-video-summarization-and-multilingual-narration-using-google-cloud-platform-apis-and-468h)
-- [Tambah Fitur di Aplikasi Malah Bikin Bagian Lain Error?](https://dev.to/ferryops/tambah-fitur-di-aplikasi-malah-bikin-bagian-lain-error-50hn)
-- [A Weather Comparison App Built with React and AWS SAM](https://dev.to/a-k-0047/a-weather-comparison-app-built-with-react-and-aws-sam-1iin)
-- [Old aesthetics in modern web dev](https://dev.to/lucas_guilherme_9880b42f0/old-aesthetics-in-modern-web-dev-jkf)
+- [Common Environment Variables in SafeLine WAF](https://dev.to/carrie_luo1/common-environment-variables-in-safeline-waf-8bl)
+- [A Minimal TanStack Start Template with Better Auth &amp; Drizzle ORM](https://dev.to/jqueryscript/a-minimal-tanstack-start-template-with-better-auth-drizzle-orm-4mei)
+- [Programming in Rockchip Linux-Based Devices](https://dev.to/dongpei_liao_8092a14d7c50/programming-in-rockchip-linux-based-devices-cdn)
+- [Tests That Run Themselves: Effortless QA with AI](https://dev.to/radha_4c842d8e4362a7cdd9c/tests-that-run-themselves-effortless-qa-with-ai-3i1p)
+- [How I Build AI-Powered Accident Detection System Using Java and Google Cloud Vertex AI](https://dev.to/anil_lalam_2cee9c52a20a39/ai-powered-accident-detection-system-using-java-and-google-cloud-vertex-ai-22la)
 <!-- BLOG-POST-LIST:END -->
 
 ---
