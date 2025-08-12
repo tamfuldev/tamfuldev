@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Web Server Security on Linux with SafeLine WAF](https://dev.to/sharon_42e16b8da44dabde6d/mastering-web-server-security-on-linux-with-safeline-waf-24em)
-- [Ever wondered how Amazon or Flipkart handles millions of orders in a single day? Here’s the system design magic behind Black Friday &amp; Big Billion Day.](https://dev.to/ravikantshukla/ever-wondered-how-amazon-or-flipkart-handles-millions-of-orders-in-a-single-day-heres-the-system-5d6g)
-- [🦀 Rust for Beginners: Going Beyond &quot;Hello, World!&quot; &lpar;Formatting &amp; Debugging Basics&rpar;](https://dev.to/vinecksie_50/rust-for-beginners-going-beyond-hello-world-formatting-debugging-basics-58e0)
-- [MongoDB Replica Set Compose OS independent](https://dev.to/user_10d6776b9ce140/mongodb-replica-set-compose-os-independent-1p8h)
-- [Scaling for Surges: How E-Commerce Giants Handle Black Friday &amp; Big Billion Day Traffic](https://dev.to/ravikantshukla/scaling-for-surges-how-e-commerce-giants-handle-black-friday-big-billion-day-traffic-32o4)
+- [Python Flask: Hello World](https://dev.to/szabgab/python-flask-hello-world-jbn)
+- [VinotesApp: A Simple and Practical Online Sticky Notes](https://dev.to/ketutdana/vinotesapp-a-simple-and-practical-online-sticky-notes-14ec)
+- [NPR Music: Mekons: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-mekons-tiny-desk-concert-5cjh)
+- [Golf.com: How The Old Course Was Originally Played](https://dev.to/youtube_golf/golfcom-how-the-old-course-was-originally-played-352l)
+- [Peter Finch Golf: Peter Finch vs LONGEST DRIVERS in the WORLD! &lpar;Martin Borgmeier &amp; Cassandra Meyer&rpar;](https://dev.to/youtube_golf/peter-finch-golf-peter-finch-vs-longest-drivers-in-the-world-martin-borgmeier-cassandra-meyer-57pg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
