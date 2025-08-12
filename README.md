@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Storage Devices; Trends and Innovations for 2025 and Beyond](https://dev.to/michael_withrow_7a6966755/the-future-of-storage-devices-trends-and-innovations-for-2025-and-beyond-118k)
-- [The hidden cost of evaluation loops](https://dev.to/vrinda_damani/the-hidden-cost-of-evaluation-loops-34ha)
-- [Adam Savage&#39;s Tested: How to Prepare a Space Shuttle Engine for Display at Smithsonian! &lpar;at @airandspace&rpar;](https://dev.to/maker_youtube/adam-savages-tested-how-to-prepare-a-space-shuttle-engine-for-display-at-smithsonian-at-2aap)
-- [KEXP: Cumulus - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cumulus-full-performance-live-on-kexp-12ni)
-- [No Laying Up Podcast: Ryder Cup Roundtable | NLU Pod, Ep 1055](https://dev.to/youtube_golf/no-laying-up-podcast-ryder-cup-roundtable-nlu-pod-ep-1055-bln)
+- [Bryan Bros Golf: Can We Make Major Cut @ Pebble Beach?!](https://dev.to/youtube_golf/bryan-bros-golf-can-we-make-major-cut-pebble-beach-79n)
+- [Rick Shiels Golf: Can’t believe this is a public golf course](https://dev.to/youtube_golf/rick-shiels-golf-cant-believe-this-is-a-public-golf-course-2528)
+- [IGN: Echoes of the End - Official Launch Trailer](https://dev.to/gg_news/ign-echoes-of-the-end-official-launch-trailer-44bi)
+- [IGN: Sausage Party: Foodtopia, Season 2 - Exclusive Clip &lpar;2025&rpar; Michael Cera, Marion Cotillard](https://dev.to/gg_news/ign-sausage-party-foodtopia-season-2-exclusive-clip-2025-michael-cera-marion-cotillard-dc9)
+- [IGN: Witchboard: Exclusive Clip &lpar;2025&rpar; Directed by Chuck Russell](https://dev.to/gg_news/ign-witchboard-exclusive-clip-2025-directed-by-chuck-russell-2046)
 <!-- BLOG-POST-LIST:END -->
 
 ---
