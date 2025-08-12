@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Common Environment Variables in SafeLine WAF](https://dev.to/carrie_luo1/common-environment-variables-in-safeline-waf-8bl)
-- [A Minimal TanStack Start Template with Better Auth &amp; Drizzle ORM](https://dev.to/jqueryscript/a-minimal-tanstack-start-template-with-better-auth-drizzle-orm-4mei)
-- [Programming in Rockchip Linux-Based Devices](https://dev.to/dongpei_liao_8092a14d7c50/programming-in-rockchip-linux-based-devices-cdn)
-- [Tests That Run Themselves: Effortless QA with AI](https://dev.to/radha_4c842d8e4362a7cdd9c/tests-that-run-themselves-effortless-qa-with-ai-3i1p)
-- [How I Build AI-Powered Accident Detection System Using Java and Google Cloud Vertex AI](https://dev.to/anil_lalam_2cee9c52a20a39/ai-powered-accident-detection-system-using-java-and-google-cloud-vertex-ai-22la)
+- [Why I Stopped Teaching Leadership and Started Teaching People How to Actually Lead](https://dev.to/williamsbayer/why-i-stopped-teaching-leadership-and-started-teaching-people-how-to-actually-lead-mmf)
+- [It&#39;s easy to access resources with the help of AI, but getting the right guidance is equally difficult now. Before starting a business journey, be clear with the intention and outcome. Only resources will not be able to save your business.](https://dev.to/jaideepparashar/its-easy-to-access-resources-with-the-help-of-ai-but-getting-the-right-guidance-is-equally-3dnk)
+- [AI Wisdom: The #1 Belief That Built My Business](https://dev.to/jaideepparashar/ai-wisdom-the-1-belief-that-built-my-business-e40)
+- [[Boost]](https://dev.to/torresroberto05/-3gok)
+- [Custom BMS for Energy Storage Batteries: Firmware, Hardware, and Real-World Insights](https://dev.to/isabella_yee_2711f063e447/custom-bms-for-energy-storage-batteries-firmware-hardware-and-real-world-insights-1349)
 <!-- BLOG-POST-LIST:END -->
 
 ---
