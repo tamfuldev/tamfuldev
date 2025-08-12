@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Background Fixed Slider with Pure JavaScript IE9+](https://dev.to/istockmarket/background-fixed-slider-with-pure-javascript-ie9-29o)
-- [Reverse-Engineering a Solar Power Station During War: Our Survival Tech Story](https://dev.to/dmytro_novoselskiy_f6de67/reverse-engineering-a-solar-power-station-during-war-our-survival-tech-story-151i)
-- [Adam Savage&#39;s Tested: Sauron&#39;s Helmet from Lord of the Rings Has a Magical Paint Finish](https://dev.to/maker_youtube/adam-savages-tested-saurons-helmet-from-lord-of-the-rings-has-a-magical-paint-finish-2k27)
-- [Peter Finch Golf: Scratch Golfer Vs LONGEST DRIVERS in the WORLD! &lpar;Peter Finch vs Martin Borgmeier &amp; Cass Meyer&rpar;](https://dev.to/youtube_golf/peter-finch-golf-scratch-golfer-vs-longest-drivers-in-the-world-peter-finch-vs-martin-borgmeier-4kjh)
-- [IGN: Dungeon Stalkers - Official Launch Story Trailer](https://dev.to/gg_news/ign-dungeon-stalkers-official-launch-story-trailer-1749)
+- [Company Overview: Hubstry &amp; GuruDev®](https://dev.to/guilhermemachadoceo/company-overview-hubstry-gurudevr-4ep2)
+- [De Kotlin e Go para Clojure: uma jornada de 8 meses no Nubank.](https://dev.to/fernandosvrosa/de-kotlin-e-go-para-clojure-uma-jornada-de-8-meses-no-nubank-e-o-prazer-de-codificar-de-um-jeito-1m34)
+- [Title: Bitcoin Mining Profitability Surges to Record Highs in July, JPMorgan Report](https://dev.to/yagyaraj_sharma_6cd410179/title-bitcoin-mining-profitability-surges-to-record-highs-in-july-jpmorgan-report-2703)
+- [Building a Zoom Meeting Bot in 2025 on AWS](https://dev.to/atsimabistov/building-a-zoom-meeting-bot-in-2025-on-aws-2k4h)
+- [Title: New SMS Text Message Fraud Operation Emerges in the Wake of a Prolific Scammer](https://dev.to/yagyaraj_sharma_6cd410179/title-new-sms-text-message-fraud-operation-emerges-in-the-wake-of-a-prolific-scammer-5d6b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
