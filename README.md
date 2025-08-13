@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: The AI Agent Tutorial That Should&#39;ve Been Your First &lpar;no code&rpar;](https://dev.to/future_ai/jeff-su-the-ai-agent-tutorial-that-shouldve-been-your-first-no-code-33oi)
-- [LeetCode #88. Merge Sorted Array](https://dev.to/desiato/leetcode-88-merge-sorted-array-2p47)
-- [GitHub Profilimi Görsel Bir Manifestoya Dönüştürdüm / I Turned My GitHub Profile into a Visual Manifesto](https://dev.to/ahmet_salih_8292ac732eaf9/github-profilimi-gorsel-bir-manifestoya-donusturdum-i-turned-my-github-profile-into-a-visual-2dke)
-- [Hiring &gt;&gt; Senior Software Engineer &lpar;Go&rpar;](https://dev.to/sashaklimova/hiring-senior-software-engineer-go-4kkm)
-- [Mastering Modern CSS: Unlock the Power of Grid, Flexbox, and More for Stunning Web Layouts](https://dev.to/okoye_ndidiamaka_5e3b7d30/mastering-modern-css-unlock-the-power-of-grid-flexbox-and-more-for-stunning-web-layouts-4cg0)
+- [Outil de Cybersécurité du Jour - Aug 13, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-aug-13-2025-21k7)
+- [AI Apps with memory or without](https://dev.to/bobur/ai-apps-with-memory-or-without-46k4)
+- [CouchDB Data Modelling: Prefer Smaller Attachments](https://dev.to/neighbourhoodie/couchdb-data-modelling-prefer-smaller-attachments-51hi)
+- [Python vs JavaScript Keywords Comparison](https://dev.to/mcheremnov/python-vs-javascript-keywords-comparison-2966)
+- [[Talk::Overflow #14] – Highlights from Better Software Conference 2025](https://dev.to/valpetaltechlabs/talkoverflow-14-highlights-from-better-software-conference-2025-eld)
 <!-- BLOG-POST-LIST:END -->
 
 ---
