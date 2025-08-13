@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: VR Games Showcase | August 2025](https://dev.to/gg_news/gamespot-vr-games-showcase-august-2025-e7l)
-- [IGN: Star Trek: Khan - Official Podcast Trailer &lpar;2025&rpar; Naveen Andrews, Wrenn Schmidt](https://dev.to/gg_news/ign-star-trek-khan-official-podcast-trailer-2025-naveen-andrews-wrenn-schmidt-5clj)
-- [Terraform.tfvars wasn’t made to be secure it was made to make Dev/Test life easier](https://dev.to/nuntin/terraformtfvars-wasnt-made-to-be-secure-it-was-made-to-make-devtest-life-easier-3poa)
-- [Learn How to Use SelfCAD’s Move Tool](https://dev.to/julia970/learn-how-to-use-selfcads-move-tool-5e4k)
-- [Some of my code](https://dev.to/stickybon/some-of-my-code-448d)
+- [Leveraging AI in Business Analytics: A Game-Changer for Smarter Decisions 🚀](https://dev.to/business_pulse_777d1c0c45/leveraging-ai-in-business-analytics-a-game-changer-for-smarter-decisions-1545)
+- [How to setup Tailwind css to your Expo project](https://dev.to/agent_69/how-to-setup-tailwind-css-to-your-expo-project-2l4i)
+- [How I Hit $1k MRR With Redesignr.ai &lpar;After Paying $400 for a Design I Didn’t Like&rpar;](https://dev.to/web5lab_938e9096be8dc3e78/how-i-hit-1k-mrr-with-redesignrai-after-paying-400-for-a-design-i-didnt-like-2ag2)
+- [Claude Sonnet 4 vs Kimi K2 vs Gemini 2.5 Pro: Which AI actually ships production code?⛵](https://dev.to/forgecode/claude-sonnet-4-vs-kimi-k2-vs-gemini-25-pro-which-ai-actually-ships-production-code-30j7)
+- [Managing Multiple Environments in AWS SAM &lpar;dev/prod&rpar;](https://dev.to/a-k-0047/managing-multiple-environments-in-aws-sam-devprod-4o6k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
