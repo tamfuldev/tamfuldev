@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Krish Naik: Everyday AI: Automate Your Social Media with AI &lpar;Live Demo + Setup Guide&rpar;](https://dev.to/vibe_youtube/krish-naik-everyday-ai-automate-your-social-media-with-ai-live-demo-setup-guide-4djh)
-- [Best Practices for Managing Multiple Vendor Dependencies](https://dev.to/isdown/best-practices-for-managing-multiple-vendor-dependencies-555a)
-- [Golf.com: How The Old Course at St. Andrews Was Meant to be Played](https://dev.to/youtube_golf/golfcom-how-the-old-course-at-st-andrews-was-meant-to-be-played-6bn)
-- [Rick Shiels Golf: How Henrik Stenson Hits So Many Fairways &lpar;Explained to Rick Shiels&rpar;](https://dev.to/youtube_golf/rick-shiels-golf-how-henrik-stenson-hits-so-many-fairways-explained-to-rick-shiels-56l5)
-- [IGN: Abyssus - Official Launch Trailer](https://dev.to/gg_news/ign-abyssus-official-launch-trailer-1ac8)
+- [Python Variables &amp; Memory: The Deep-Dive Every Beginner Needs](https://dev.to/anik_sikder_313/python-variables-memory-the-deep-dive-every-beginner-needs-425h)
+- [Docker is exactly the same everywhere... wait, not quite!](https://dev.to/boutell/docker-is-exactly-the-same-everywhere-wait-not-quite-21c7)
+- [How to set up Trello MCP server with Claude and Cursor for efficient task tracking🚀](https://dev.to/composiodev/how-to-setup-trello-mcp-server-with-claude-and-cursor-for-efficient-task-tracking-1ggm)
+- [How to setup Trello MCP server with Claude and Cursor for efficient task tracking](https://dev.to/aakash67/how-to-setup-trello-mcp-server-with-claude-and-cursor-for-efficient-task-tracking-4c60)
+- [Assurance voyage pour digital nomades : le guide complet 2025](https://dev.to/maroc_assistance_international/assurance-voyage-pour-digital-nomades-le-guide-complet-2025-31k2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
