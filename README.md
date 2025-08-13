@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Golf.com: Warming Up with Dustin Johnson](https://dev.to/youtube_golf/golfcom-warming-up-with-dustin-johnson-2hgi)
-- [IGN: Football Manager 26 - Official Reveal Trailer](https://dev.to/gg_news/ign-football-manager-26-official-reveal-trailer-3kk4)
-- [IGN: The Secret of Weepstone - Official Announcement Trailer](https://dev.to/gg_news/ign-the-secret-of-weepstone-official-announcement-trailer-1a40)
-- [IGN: Krypto Saves the Day! - Official Clip &lpar;2025&rpar;](https://dev.to/gg_news/ign-krypto-saves-the-day-official-clip-2025-4685)
-- [Top Al Tools Driving the Future of Work‼️ 🔥](https://dev.to/pushpendratips/top-al-tools-driving-the-future-of-work-24i7)
+- [How we saved $300 using GraphQL, Apollo and Nginx](https://dev.to/rodrigoeloyc/how-i-saved-300-using-graphql-apollo-and-nginx-215f)
+- [Dev Log 04](https://dev.to/asx/dev-log-04-49dg)
+- [This Open Source Python Tool Replaces Your $2,000/Month Portfolio Tracker](https://dev.to/fintechwarrior/how-i-created-a-24000-bloomberg-terminal-for-free-open-source-381l)
+- [Building the Next Generation of AI-Enabled Recruitment and a Talent Relationship Platform](https://dev.to/delaine_grace/building-the-next-generation-of-ai-enabled-recruitment-and-a-talent-relationship-platform-10bn)
+- [The brink of new AI standard](https://dev.to/aloisseckar/the-brink-of-new-ai-standard-1a1i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
