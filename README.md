@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Flask: testing hello world](https://dev.to/szabgab/flask-testing-hello-world-ej)
-- [Error Handling Strategies in High-Performance Web Servers&lpar;7837&rpar;](https://dev.to/member_fa85c472/error-handling-strategies-in-high-performance-web-servers7837-529j)
-- [Best Frameworks for RAG Observability](https://dev.to/debmckinney/best-frameworks-for-rag-observability-42e3)
-- [接手 AI 项目 5 步流程](https://dev.to/tuo_cheng_68980dbefbe1e75/jie-shou-ai-xiang-mu-5-bu-liu-cheng-2p4a)
-- [Parasite SEO vs. Traditional SEO: Which Is Better for Fast Results in 2025?](https://dev.to/bloggrai/parasite-seo-vs-traditional-seo-which-is-better-for-fast-results-in-2025-1388)
+- [Krish Naik: Everyday AI: Automate Your Social Media with AI &lpar;Live Demo + Setup Guide&rpar;](https://dev.to/vibe_youtube/krish-naik-everyday-ai-automate-your-social-media-with-ai-live-demo-setup-guide-4djh)
+- [Best Practices for Managing Multiple Vendor Dependencies](https://dev.to/isdown/best-practices-for-managing-multiple-vendor-dependencies-555a)
+- [Golf.com: How The Old Course at St. Andrews Was Meant to be Played](https://dev.to/youtube_golf/golfcom-how-the-old-course-at-st-andrews-was-meant-to-be-played-6bn)
+- [Rick Shiels Golf: How Henrik Stenson Hits So Many Fairways &lpar;Explained to Rick Shiels&rpar;](https://dev.to/youtube_golf/rick-shiels-golf-how-henrik-stenson-hits-so-many-fairways-explained-to-rick-shiels-56l5)
+- [IGN: Abyssus - Official Launch Trailer](https://dev.to/gg_news/ign-abyssus-official-launch-trailer-1ac8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
