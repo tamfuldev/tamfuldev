@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Leveraging AI in Business Analytics: A Game-Changer for Smarter Decisions 🚀](https://dev.to/business_pulse_777d1c0c45/leveraging-ai-in-business-analytics-a-game-changer-for-smarter-decisions-1545)
-- [How to setup Tailwind css to your Expo project](https://dev.to/agent_69/how-to-setup-tailwind-css-to-your-expo-project-2l4i)
-- [How I Hit $1k MRR With Redesignr.ai &lpar;After Paying $400 for a Design I Didn’t Like&rpar;](https://dev.to/web5lab_938e9096be8dc3e78/how-i-hit-1k-mrr-with-redesignrai-after-paying-400-for-a-design-i-didnt-like-2ag2)
-- [Claude Sonnet 4 vs Kimi K2 vs Gemini 2.5 Pro: Which AI actually ships production code?⛵](https://dev.to/forgecode/claude-sonnet-4-vs-kimi-k2-vs-gemini-25-pro-which-ai-actually-ships-production-code-30j7)
-- [Managing Multiple Environments in AWS SAM &lpar;dev/prod&rpar;](https://dev.to/a-k-0047/managing-multiple-environments-in-aws-sam-devprod-4o6k)
+- [New Choice for Cross-Platform Web Service Development&lpar;4215&rpar;](https://dev.to/member_fa85c472/new-choice-for-cross-platform-web-service-development4215-20cd)
+- [OWOX Data Marts - Free Open-Source Self-Service Analytics Platform](https://dev.to/owoxbi/owox-data-marts-free-open-source-self-service-analytics-platform-3bea)
+- [Evolutionary Algorithm Framework in Java](https://dev.to/koolkiyo/evolutionary-algorithm-framework-in-java-17h2)
+- [Django Has Never Let Me Down](https://dev.to/stokry/django-has-never-let-me-down-19b8)
+- [KEXP: The Wedding Present - Take Me! &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-wedding-present-take-me-live-on-kexp-4b92)
 <!-- BLOG-POST-LIST:END -->
 
 ---
