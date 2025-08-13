@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Adam Savage&#39;s Tested: Adam Savage Builds a Giant Book with @Nerdforge!](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-builds-a-giant-book-with-nerdforge-3pn4)
-- [COLORS: Lila Iké - Scatter | A COLORS SHOW](https://dev.to/music_youtube/colors-lila-ike-scatter-a-colors-show-4okb)
-- [KEXP: The Wedding Present - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-wedding-present-full-performance-live-on-kexp-ojh)
-- [Tech With Tim: Advanced Vibe Coding Tutorial w/ Warp &lpar;Build &amp; Deploy Apps&rpar;](https://dev.to/vibe_youtube/tech-with-tim-advanced-vibe-coding-tutorial-w-warp-build-deploy-apps-178j)
-- [IGN: Red Sonja: Exclusive Clip &lpar;2025&rpar; Matilda Lutz, Robert Sheehan](https://dev.to/gg_news/ign-red-sonja-exclusive-clip-2025-matilda-lutz-robert-sheehan-2ja7)
+- [Event Day&rpar;&rpar;](https://dev.to/ajayr18/event-day-3dho)
+- [Building Virtual Agents with Amazon Nova Sonic S2S](https://dev.to/aws/building-virtual-agents-with-amazon-nova-sonic-s2s-23m7)
+- [Simple Chunking Approaches: Fixed-Size and Recursive Methods](https://dev.to/uhasker/simple-chunking-approaches-fixed-size-and-recursive-methods-i0p)
+- [Build a Simple Chat Character Gallery like Character AI Tutorial](https://dev.to/jte0711/build-a-simple-chat-character-gallery-like-character-ai-tutorial-4da6)
+- [Why VPS Rocks for Quick Deployments: My Story + Build an LLM-over-DNS agent in Under 30 Mins!](https://dev.to/skeptrune/why-vps-rocks-for-quick-deployments-my-story-build-an-llm-over-dns-in-under-30-mins-3oek)
 <!-- BLOG-POST-LIST:END -->
 
 ---
