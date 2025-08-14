@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [¿Cuál es tu estilo de crianza?](https://dev.to/el_amordetvida_c4e199/cual-es-tu-estilo-de-crianza-1d4m)
-- [The 90/20 Rule for Devs: Why It Works](https://dev.to/vadym_info_polus/the-9020-rule-for-devs-why-it-works-5epl)
-- [Tunnelmole: An Open Source Tunneling Tool for Secure and Easy Access](https://dev.to/robbiecahill/tunnelmole-an-open-source-tunneling-tool-for-secure-and-easy-access-2ogi)
-- [KEXP: The Tubs - Wretched Lie &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-tubs-wretched-lie-live-on-kexp-51oh)
-- [KEXP: The Tubs - Freak Mode &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-tubs-freak-mode-live-on-kexp-j70)
+- [Super Productivity with the GTD Method](https://dev.to/johannesjo/super-productivity-with-the-gtd-method-44go)
+- [What is JWKS? JSON Web Key Set — Short Guide](https://dev.to/fung-authgear/what-is-jwks-json-web-key-set-short-guide-3j9m)
+- [How to Prevent Screenshots on a Specific Page in HarmonyOS Next](https://dev.to/harmonyos/how-to-prevent-screenshots-on-a-specific-page-in-harmonyos-next-2e4l)
+- [🔍 Web3 in 2025 — The Signals Developers Shouldn’t Ignore](https://dev.to/digitaldime/web3-in-2025-the-signals-developers-shouldnt-ignore-4p4i)
+- [Day 28: GraphQL in System Design – A Beginner-Friendly Guide](https://dev.to/vincenttommi/day-28-graphql-in-system-design-a-beginner-friendly-guide-l6h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
