@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Costs of Poor Project Tracking: Why 70% of Dev Agencies Fail in Year Two](https://dev.to/teamcamp/the-hidden-costs-of-poor-project-tracking-why-70-of-dev-agencies-fail-in-year-two-1faf)
-- [The Shadow Machines](https://dev.to/rawveg/the-shadow-machines-3ml0)
-- [Introducing WtfCode.dev: Learn from the Worst Code Examples](https://dev.to/cavewebs/introducing-wtfcodedev-learn-from-the-worst-code-examples-58o8)
-- [KDE Gear 25.08 Released with Key Improvements](https://dev.to/neerajlovecyber/kde-gear-2508-released-with-key-improvements-5hln)
-- [AI Agent Pricing Models for Developers: Subscription vs Usage-Based vs Outcome-Based &lpar;With Implementation Tips&rpar;](https://dev.to/johnsaas/ai-agent-pricing-models-for-developers-subscription-vs-usage-based-vs-outcome-based-with-4a9f)
+- [¿Cuál es tu estilo de crianza?](https://dev.to/el_amordetvida_c4e199/cual-es-tu-estilo-de-crianza-1d4m)
+- [The 90/20 Rule for Devs: Why It Works](https://dev.to/vadym_info_polus/the-9020-rule-for-devs-why-it-works-5epl)
+- [Tunnelmole: An Open Source Tunneling Tool for Secure and Easy Access](https://dev.to/robbiecahill/tunnelmole-an-open-source-tunneling-tool-for-secure-and-easy-access-2ogi)
+- [KEXP: The Tubs - Wretched Lie &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-tubs-wretched-lie-live-on-kexp-51oh)
+- [KEXP: The Tubs - Freak Mode &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-tubs-freak-mode-live-on-kexp-j70)
 <!-- BLOG-POST-LIST:END -->
 
 ---
