@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Steve - Official Trailer &lpar;2025&rpar; Cillian Murphy, Jay Lycurgo](https://dev.to/gg_news/ign-steve-official-trailer-2025-cillian-murphy-jay-lycurgo-2e4g)
-- [Free SafeLine WAF — Initial Review](https://dev.to/carrie_luo1/free-safeline-waf-initial-review-o5e)
-- [Build Better Date Pickers with ShadCN/UI Components](https://dev.to/jqueryscript/build-better-date-pickers-with-shadcnui-components-91p)
-- [Embedded SBC vs Industrial PC: A Developer’s Practical Guide](https://dev.to/lauraaa/embedded-sbc-vs-industrial-pc-a-developers-practical-guide-3g42)
-- [Building the “Hybrid Huggingface+”: How OpenCSG Is Redefining the LLMOps &amp; Agent Ecosystem](https://dev.to/opencsg/building-the-hybrid-huggingface-how-opencsg-is-redefining-the-llmops-agent-ecosystem-472e)
+- [How I Built ArchonCLI: A Free, Lightweight AI Coding CLI Tool for Developers on a Budget](https://dev.to/bitzdev/how-i-built-archoncli-a-free-lightweight-ai-coding-cli-tool-for-developers-on-a-budget-k0i)
+- [Algorithms reward only those who stay consistent, and not those who show up when they feel motivated. This article will share some of my proven ways to stay consistent without the need for motivation. Also, thank you for showing love to the last article.](https://dev.to/jaideepparashar/algorithms-reward-only-those-who-stay-consistent-and-not-those-who-show-up-when-they-feel-1l13)
+- [🌍 Understanding Google Cloud Regions, Zones &amp; Cluster](https://dev.to/latchudevops/understanding-google-cloud-regions-zones-cluster-with-simple-examples-3fb3)
+- [How to Stay Consistent as a Creator &lpar;Even Without Motivation&rpar;](https://dev.to/jaideepparashar/how-to-stay-consistent-as-a-creator-even-without-motivation-4cmi)
+- [Decoding the Metrics: Understanding Model Evaluation in Regression](https://dev.to/dev_patel_35864ca1db6093c/decoding-the-metrics-understanding-model-evaluation-in-regression-4nlf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
