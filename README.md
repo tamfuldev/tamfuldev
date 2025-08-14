@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Cross-Domain State Sharing: From Hacks to Real-Time Sync](https://dev.to/adrai/cross-domain-state-sharing-from-hacks-to-real-time-sync-1k5g)
-- [The Rise of Specialized AI Agents: How to Architect, Deploy, and Manage Them on AWS](https://dev.to/tarunsinghofficial/the-rise-of-specialized-ai-agents-how-to-architect-deploy-and-manage-them-on-aws-2hm7)
-- [ADA Title II Adopting The WCAG 2.1 AA Standard](https://dev.to/thetanweerali/ada-title-ii-adopting-the-wcag-21-aa-standard-pjj)
-- [Unlocking SEO Success: 5 Essential Tools for Better Rankings](https://dev.to/mdkawsharul_islamroyal_/unlocking-seo-success-5-essential-tools-for-better-rankings-11bn)
-- [Terraform Data Sources: What They Are &amp; How to Use Them Effectively](https://dev.to/techielass/terraform-data-sources-what-they-are-how-to-use-them-effectively-33o6)
+- [OpenTelemetry configuration gotchas](https://dev.to/nfrankel/opentelemetry-configuration-gotchas-462a)
+- [Boring Cybersecurity Theory: Security Domains From CISSP](https://dev.to/dharbachou/boring-cybersecurity-theory-security-domains-from-cissp-3c9d)
+- [Top 5 Use Cases of Apple Vision Pro for Businesses and Users](https://dev.to/brunhilde/top-5-use-cases-of-apple-vision-pro-for-businesses-and-users-4a22)
+- [SQL Learning...](https://dev.to/sourav_mahato_3900/sql-learning-1fk1)
+- [Why MCP Uses JSON-RPC Instead of REST or gRPC](https://dev.to/om_shree_0709/why-mcp-uses-json-rpc-instead-of-rest-or-grpc-1gpo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
