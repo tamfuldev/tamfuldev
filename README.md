@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Pokemon Legends Z-A - The Biggest Pokemon Shake Up In Decades!](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-the-biggest-pokemon-shake-up-in-decades-3bp8)
-- [IGN: Crimson Desert - 13 Minutes of Gameplay](https://dev.to/gg_news/ign-crimson-desert-13-minutes-of-gameplay-2di9)
-- [IGN: The Terminal List: Dark Wolf - Exclusive Behind the Scenes Clip &lpar;2025&rpar; Chris Pratt](https://dev.to/gg_news/ign-the-terminal-list-dark-wolf-exclusive-behind-the-scenes-clip-2025-chris-pratt-52c3)
-- [Creating Text Shadows in CSS: Simple to Advanced Techniques](https://dev.to/highflyer910/creating-text-shadows-in-css-simple-to-advanced-techniques-59j2)
-- [🚀 Learn In-Demand Skills with Udacity &lpar;Now Part of Accenture&rpar;](https://dev.to/ml318097/learn-in-demand-skills-with-udacity-now-part-of-accenture-1496)
+- [Log001 - 008/ From Ubuntu to Debian journey.](https://dev.to/aka_artem_dd17be93c/log001-008-from-ubuntu-to-debian-journey-3m4m)
+- [Solving Balanced Binary Tree - Leetcode problem](https://dev.to/ajithmanmu/solving-balanced-binary-tree-leetcode-problem-d0b)
+- [🔒 The Future of Authentication Is Coming](https://dev.to/thesilentknight/the-future-of-authentication-is-coming-7k0)
+- [Solving the JavaScript Execution Order Challenge](https://dev.to/ajithmanmu/solving-the-javascript-execution-order-challenge-4adp)
+- [How to think like a product designer](https://dev.to/egledigital/how-to-think-like-a-product-designer-2001)
 <!-- BLOG-POST-LIST:END -->
 
 ---
