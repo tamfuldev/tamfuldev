@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Hackathon to Production: Shipping Under Pressure Without Burning Out](https://dev.to/vadym_info_polus/from-hackathon-to-production-shipping-under-pressure-without-burning-out-1ppf)
-- [The Spirit of 15th August at Payilagam](https://dev.to/kirubagaran_k_438a86c991/the-spirit-of-15th-august-at-payilagam-10pi)
-- [Adobe Creative Cloud: Make a Basic Product Shot Look Like a Movie Trailer](https://dev.to/design_youtube/adobe-creative-cloud-make-a-basic-product-shot-look-like-a-movie-trailer-i56)
-- [IGN: Steel Ark - Official Gameplay Debut Trailer](https://dev.to/gg_news/ign-steel-ark-official-gameplay-debut-trailer-4g9)
-- [IGN: REANIMAL – The First 13 Minutes of the Mystery Horror Adventure &lpar;Exclusive Gameplay&rpar;](https://dev.to/gg_news/ign-reanimal-the-first-13-minutes-of-the-mystery-horror-adventure-exclusive-gameplay-1kn2)
+- [3D Printing Nerd: From Broken to Better Than New – How To Design](https://dev.to/maker_youtube/3d-printing-nerd-from-broken-to-better-than-new-how-to-design-4gah)
+- [Adam Savage&#39;s Tested: Five Reasons Adam Savage Loves Smithsonian&#39;s @airandspace](https://dev.to/maker_youtube/adam-savages-tested-five-reasons-adam-savage-loves-smithsonians-airandspace-352i)
+- [Marques Brownlee &lpar;MKBHD&rpar;: Top 5 Sports Tech I Actually Use!](https://dev.to/future_youtube/marques-brownlee-mkbhd-top-5-sports-tech-i-actually-use-17be)
+- [GameSpot: gamescom Opening Night Live 2025 &lpar;Black Ops 7, Resident Evil Requiem&rpar;](https://dev.to/gg_news/gamespot-gamescom-opening-night-live-2025-black-ops-7-resident-evil-requiem-e6i)
+- [GameSpot: Xbox @ gamescom Broadcast 2025 | Day 1 &lpar;Black Ops 7, ROG Xbox Ally handhelds, Grounded 2, Keeper&rpar;](https://dev.to/gg_news/gamespot-xbox-gamescom-broadcast-2025-day-1-black-ops-7-rog-xbox-ally-handhelds-grounded-2-4g2g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
