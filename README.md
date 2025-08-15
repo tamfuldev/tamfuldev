@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Boost Your Azure VM: A Step-by-Step Guide to Adding a Data Disk in Microsoft Azure](https://dev.to/arctaiwo/boost-your-azure-vm-a-step-by-step-guide-to-adding-a-data-disk-in-microsoft-azure-2a6o)
-- [Exception Hierarchy in Java: Checked, Unchecked, and Errors](https://dev.to/noel_kamphoa_e688aece0725/exception-hierarchy-in-java-checked-unchecked-and-errors-1f45)
-- [So You Want to Build Your Own Data Center](https://dev.to/sarah-railway/so-you-want-to-build-your-own-data-center-1fo8)
-- [Day 1/100 of styling](https://dev.to/ffff0000h/day-1100-of-styling-31gd)
-- [Untitled](https://dev.to/cell_a20s_46f1ed22136ae01/untitled-4ck0)
+- [Alec Steele: Making a Mini Knob](https://dev.to/maker_youtube/alec-steele-making-a-mini-knob-58e5)
+- [3D Printing Nerd: Fix ANYTHING with 3D Printing – How To Design](https://dev.to/maker_youtube/3d-printing-nerd-fix-anything-with-3d-printing-how-to-design-41gc)
+- [Veritasium: The Perfect Battery Material Is DANGEROUS](https://dev.to/future_youtube/veritasium-the-perfect-battery-material-is-dangerous-23dc)
+- [GameSpot: Pokemon Legends Z-A Hands On - The Biggest Pokemon Shake Up In Decades!](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-hands-on-the-biggest-pokemon-shake-up-in-decades-3l12)
+- [IGN: Better Than Dead - Official Announcement Trailer](https://dev.to/gg_news/ign-better-than-dead-official-announcement-trailer-4fid)
 <!-- BLOG-POST-LIST:END -->
 
 ---
