@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Reasonably Simple, Secure Password Scheme](https://dev.to/f1lt3r/a-reasonably-simple-secure-password-scheme-4890)
-- [SIEM &lpar;Security Information and Event Management system&rpar; - overview](https://dev.to/moh4med404/siem-security-information-and-event-management-system-overview-3la4)
-- [From JavaScript to Python: A Smooth Transition for Web Developers](https://dev.to/labreu00/from-javascript-to-python-a-smooth-transition-for-web-developers-1o4g)
-- [VPS Deployment Guide &lpar;NEXT JS/REACT JS + GITHUB ACTIONS&rpar;](https://dev.to/heyitsuzair/vps-deployment-guide-next-jsreact-js-github-actions-ff5)
-- [IGN: Why BioShock 4 Still Isn’t Ready - Unlocked Clips](https://dev.to/gg_news/ign-why-bioshock-4-still-isnt-ready-unlocked-clips-1gbf)
+- [Exploring Generative AI for Personal Growth and Care](https://dev.to/ujjavala/exploring-generative-ai-for-personal-growth-and-care-be8)
+- [I launched an app to the App Store and Google Play!](https://dev.to/__manucodes/i-launched-an-app-to-the-app-store-and-google-play-38a0)
+- [Первый пост на dev.to. Публичное приветствие](https://dev.to/linuxgik/piervyi-post-na-devto-publichnoie-privietstviie-1j3e)
+- [From Days to Hours—Meet HyperQ, the Quantum Virtual Machines That Could Democratize Q-Computing](https://dev.to/haider_rasheed_a1ccf45c2a/from-days-to-hours-meet-hyperq-the-quantum-virtual-machines-that-could-democratize-q-computing-4nmn)
+- [“10 Simple Python Projects for Beginners &quot;.](https://dev.to/menocode/10-simple-python-projects-for-beginners--43bi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
