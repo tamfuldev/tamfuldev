@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Embedded Displays: The Core of Modern Industrial and Commercial Devices](https://dev.to/dora_001/embedded-displays-the-core-of-modern-industrial-and-commercial-devices-1723)
-- [Node.js Installation Guide](https://dev.to/mrchiraggarg/nodejs-installation-guide-55b0)
-- [VirtualBox 7.2 Adds Linux Kernel 6.17 Support](https://dev.to/neerajlovecyber/virtualbox-72-adds-linux-kernel-617-support-33e3)
-- [AI Takes Center Stage: From Generative Tools to Agentic Systems](https://dev.to/zakkhassan97/ai-takes-center-stage-from-generative-tools-to-agentic-systems-1bd5)
-- [Why Generative AI is a Double-Edged Sword for Enterprise Security.](https://dev.to/kauldeepak78/why-generative-ai-is-a-double-edged-sword-for-enterprise-security-75b)
+- [What Startups Can Gain from the Oracle–Google Gemini AI Partnership](https://dev.to/dexxtorrrr/what-startups-can-gain-from-the-oracle-google-gemini-ai-partnership-2a6e)
+- [SmarTube: A Feature-Rich YouTube Clone Built with ReactJS](https://dev.to/hemang_b_ba8d35ae4a66339/smartube-a-feature-rich-youtube-clone-built-with-reactjs-3jc5)
+- [The Rise of AI Patent Search: A Look at IPRally and Traindex](https://dev.to/patentscanai/the-rise-of-ai-patent-search-a-look-at-iprally-and-traindex-bmh)
+- [MEDIAS IN HTML](https://dev.to/gustavo_ax/medias-in-html-54ph)
+- [React Components, Props, and JSX: A Beginner’s Guide](https://dev.to/a1guy/react-components-props-and-jsx-a-beginners-guide-50ae)
 <!-- BLOG-POST-LIST:END -->
 
 ---
