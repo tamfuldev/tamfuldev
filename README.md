@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Adam Savage&#39;s Tested: Adam Savage&#39;s Top 5 Objects at Smithsonian&#39;s @airandspace](https://dev.to/maker_youtube/adam-savages-tested-adam-savages-top-5-objects-at-smithsonians-airandspace-57b1)
-- [COLORS: Isabella Lovestory - Telenovela | A COLORS SHOW](https://dev.to/music_youtube/colors-isabella-lovestory-telenovela-a-colors-show-h9g)
-- [KEXP: Sunflower Bean - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sunflower-bean-full-performance-live-on-kexp-1366)
-- [Tech With Tim: Python programming roadmap - what skills should you learn first](https://dev.to/vibe_youtube/tech-with-tim-python-programming-roadmap-what-skills-should-you-learn-first-2j2e)
-- [Rick Shiels Golf: I played GREAT Golf!!](https://dev.to/youtube_golf/rick-shiels-golf-i-played-great-golf-43dc)
+- [From Hackathon to Production: Shipping Under Pressure Without Burning Out](https://dev.to/vadym_info_polus/from-hackathon-to-production-shipping-under-pressure-without-burning-out-1ppf)
+- [The Spirit of 15th August at Payilagam](https://dev.to/kirubagaran_k_438a86c991/the-spirit-of-15th-august-at-payilagam-10pi)
+- [Adobe Creative Cloud: Make a Basic Product Shot Look Like a Movie Trailer](https://dev.to/design_youtube/adobe-creative-cloud-make-a-basic-product-shot-look-like-a-movie-trailer-i56)
+- [IGN: Steel Ark - Official Gameplay Debut Trailer](https://dev.to/gg_news/ign-steel-ark-official-gameplay-debut-trailer-4g9)
+- [IGN: REANIMAL – The First 13 Minutes of the Mystery Horror Adventure &lpar;Exclusive Gameplay&rpar;](https://dev.to/gg_news/ign-reanimal-the-first-13-minutes-of-the-mystery-horror-adventure-exclusive-gameplay-1kn2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
