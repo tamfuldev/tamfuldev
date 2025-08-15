@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Using Ai Studio to create Crypto News &amp; Blog websites](https://dev.to/kunlexcity42/using-ai-studio-to-create-crypto-news-blog-websites-38kj)
-- [🔔How to send notifications to user while app is running on background?🔔](https://dev.to/harmonyos/how-to-send-notifications-to-user-while-app-is-running-on-background-1a8i)
-- [Copy &amp; Paste PostgreSQL Query Results into Google Sheets &lpar;No CSV Needed&rpar;](https://dev.to/montells/copy-paste-postgresql-query-results-into-google-sheets-no-csv-needed-3omb)
-- [SASE vs. SSE: What Is the Difference?](https://dev.to/clouddefenseai/sase-vs-sse-what-is-the-difference-2h8o)
-- [Migration from Pocket and Hatena Bookmark to Raindrop.io &lpar;and Creating helm-raindrop.el&rpar;](https://dev.to/masutaka/migration-from-pocket-and-hatena-bookmark-to-raindropio-and-creating-helm-raindropel-5f76)
+- [CIEM vs PAM: Key Differences, Benefits, and Use Cases in Modern Security](https://dev.to/clouddefenseai/ciem-vs-pam-key-differences-benefits-and-use-cases-in-modern-security-4ac7)
+- [KEXP: Sunflower Bean - Sunshine &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sunflower-bean-sunshine-live-on-kexp-2df9)
+- [KEXP: Sunflower Bean - I Knew Love &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sunflower-bean-i-knew-love-live-on-kexp-16me)
+- [KEXP: Sunflower Bean - Nothing Romantic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sunflower-bean-nothing-romantic-live-on-kexp-21i1)
+- [KEXP: Sunflower Bean - Champagne Taste &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sunflower-bean-champagne-taste-live-on-kexp-lg2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
