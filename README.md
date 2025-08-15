@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Sync Files Wirelessly Between Android and PC via Termux](https://dev.to/terminaltools/how-to-sync-files-wirelessly-between-android-and-pc-via-termux-4h7i)
-- [APIs for Translation: What to Know Before You Integrate](https://dev.to/colinreed/apis-for-translation-what-to-know-before-you-integrate-56bf)
-- [Stop Killing Your Database with Multiple Calls](https://dev.to/stevsharp/stop-killing-your-database-with-multiple-calls-23am)
-- [Lean UX: A Smarter Approach to Product Design for Businesses](https://dev.to/lollypopdesign/lean-ux-a-smarter-approach-to-product-design-for-businesses-mk5)
-- [Boring Cybersecurity Theory: Controls, Frameworks, and Compliance](https://dev.to/dharbachou/boring-cybersecurity-theory-controls-frameworks-and-compliance-llc)
+- [Linus Tech Tips &lpar;LTT&rpar;: Building a Gamer Living Room on a Budget - Scrapyard Wars X Home Theater Edition - Part 1](https://dev.to/future_youtube/linus-tech-tips-ltt-building-a-gamer-living-room-on-a-budget-scrapyard-wars-x-home-theater-4j7c)
+- [IGN: Ghost of Yōtei - Official Yari Gameplay Trailer](https://dev.to/gg_news/ign-ghost-of-yotei-official-yari-gameplay-trailer-5f93)
+- [🏁🍭Lollypop Designathon 2025 - The Ultimate 24-hour UI/UX Design Competition is BACK!](https://dev.to/lollypopdesign/lollypop-designathon-2025-the-ultimate-24-hour-uiux-design-competition-is-back-ng7)
+- [The Role of ICT Testers in PCB Manufacturing](https://dev.to/frank_1871bc3c55f35370df3/the-role-of-ict-testers-in-pcb-manufacturing-4pe8)
+- [An Introduction to Agentic Workflows You Need To Know](https://dev.to/lollypopdesign/an-introduction-to-agentic-workflows-you-need-to-know-25ef)
 <!-- BLOG-POST-LIST:END -->
 
 ---
