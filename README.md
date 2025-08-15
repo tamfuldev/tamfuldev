@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Generative AI for Personal Growth and Care](https://dev.to/ujjavala/exploring-generative-ai-for-personal-growth-and-care-be8)
-- [I launched an app to the App Store and Google Play!](https://dev.to/__manucodes/i-launched-an-app-to-the-app-store-and-google-play-38a0)
-- [Первый пост на dev.to. Публичное приветствие](https://dev.to/linuxgik/piervyi-post-na-devto-publichnoie-privietstviie-1j3e)
-- [From Days to Hours—Meet HyperQ, the Quantum Virtual Machines That Could Democratize Q-Computing](https://dev.to/haider_rasheed_a1ccf45c2a/from-days-to-hours-meet-hyperq-the-quantum-virtual-machines-that-could-democratize-q-computing-4nmn)
-- [“10 Simple Python Projects for Beginners &quot;.](https://dev.to/menocode/10-simple-python-projects-for-beginners--43bi)
+- [Embedded Displays: The Core of Modern Industrial and Commercial Devices](https://dev.to/dora_001/embedded-displays-the-core-of-modern-industrial-and-commercial-devices-1723)
+- [Node.js Installation Guide](https://dev.to/mrchiraggarg/nodejs-installation-guide-55b0)
+- [VirtualBox 7.2 Adds Linux Kernel 6.17 Support](https://dev.to/neerajlovecyber/virtualbox-72-adds-linux-kernel-617-support-33e3)
+- [AI Takes Center Stage: From Generative Tools to Agentic Systems](https://dev.to/zakkhassan97/ai-takes-center-stage-from-generative-tools-to-agentic-systems-1bd5)
+- [Why Generative AI is a Double-Edged Sword for Enterprise Security.](https://dev.to/kauldeepak78/why-generative-ai-is-a-double-edged-sword-for-enterprise-security-75b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
