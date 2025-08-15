@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What Startups Can Gain from the Oracle–Google Gemini AI Partnership](https://dev.to/dexxtorrrr/what-startups-can-gain-from-the-oracle-google-gemini-ai-partnership-2a6e)
-- [SmarTube: A Feature-Rich YouTube Clone Built with ReactJS](https://dev.to/hemang_b_ba8d35ae4a66339/smartube-a-feature-rich-youtube-clone-built-with-reactjs-3jc5)
-- [The Rise of AI Patent Search: A Look at IPRally and Traindex](https://dev.to/patentscanai/the-rise-of-ai-patent-search-a-look-at-iprally-and-traindex-bmh)
-- [MEDIAS IN HTML](https://dev.to/gustavo_ax/medias-in-html-54ph)
-- [React Components, Props, and JSX: A Beginner’s Guide](https://dev.to/a1guy/react-components-props-and-jsx-a-beginners-guide-50ae)
+- [Como criar uma VPS no Brasil?](https://dev.to/letscloud_team/como-criar-uma-vps-no-brasil-3lib)
+- [Automatically Generate .env.example from Your Code—No More Guesswork!](https://dev.to/silentwatcher_95/automatically-generate-envexample-from-your-code-no-more-guesswork-8i5)
+- [How to Create a VPS in Brazil?](https://dev.to/letscloud_team/how-to-create-a-vps-in-brazil-6b3)
+- [NocoBase Weekly Updates: Optimization and Bug Fixes](https://dev.to/nocobase/nocobase-weekly-updates-optimization-and-bug-fixes-4ko5)
+- [No Laying Up Podcast: Chop Session | Trap Draw, Ep 354](https://dev.to/youtube_golf/no-laying-up-podcast-chop-session-trap-draw-ep-354-54p1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
