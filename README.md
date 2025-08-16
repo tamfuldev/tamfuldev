@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Vision to Reality: AWS Community Day Addis Ababa 2025](https://dev.to/bereket_n/from-vision-to-reality-aws-community-day-addis-ababa-2025-15jc)
-- [IGN: Bad Cheese: Official Release Date Trailer](https://dev.to/gg_news/ign-bad-cheese-official-release-date-trailer-1ggj)
-- [Reducing JavaScript Bundle Size in Next.js — Practical Guide for Faster Apps](https://dev.to/maurya-sachin/reducing-javascript-bundle-size-in-nextjs-practical-guide-for-faster-apps-h0)
-- [[Article] Divooka, Where We Are, or Public Roadmap](https://dev.to/methodox/article-divooka-where-we-are-or-public-roadmap-15mh)
-- [I Just Launched My First Micro SaaS 🚀](https://dev.to/asim786521/i-just-launched-my-first-micro-saas-1d74)
+- [React Native : comment une simple mise à jour fait tout s&#39;écrouler](https://dev.to/noodle/react-native-comment-une-simple-mise-a-jour-fait-tout-secrouler-405k)
+- [Week 9: DevOps Meets Cloud – AWS Skills for Modern Engineering](https://dev.to/dev_dave_26/week-9-devops-meets-cloud-aws-skills-for-modern-engineering-1b7h)
+- [Introduction to Gang of Four &lpar;GoF&rpar; Design Patterns](https://dev.to/lovestaco/introduction-to-gang-of-four-gof-design-patterns-57m0)
+- [Building AI CI/CD Pipelines with MCP](https://dev.to/om_shree_0709/building-ai-cicd-pipelines-with-mcp-42cg)
+- [Log011 - UFW, nginx and a dream.](https://dev.to/aka_artem_dd17be93c/log011-ufw-nginx-and-a-dream-4j5l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
