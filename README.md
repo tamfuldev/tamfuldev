@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Molecular Scalpel](https://dev.to/rawveg/the-molecular-scalpel-id4)
-- [Trackable Flask API using EventSource](https://dev.to/adrianluong/trackable-flask-api-using-eventsource-365f)
-- [Understanding Map in JavaScript &lpar;The Underestimated Data Structure&rpar;](https://dev.to/oyewadkar/understanding-map-in-javascript-the-underestimated-data-structure-3k5)
-- [Deploy Dragonfly Replication](https://dev.to/arman-shafiei/deploy-dragonfly-replication-i6i)
-- [Building an Azure VM Sizer for LLMs — with Codex Doing 90% of the Work](https://dev.to/frankiey/building-an-azure-vm-sizer-for-llms-with-codex-doing-90-of-the-work-7kn)
+- [Stop Importing React This Way - Switch to the Wrapper Pattern Instead](https://dev.to/gouranga-das-khulna/stop-importing-react-this-way-switch-to-the-wrapper-pattern-instead-4l86)
+- [📝Github Notes - a browser extension for adding private notes to GitHub](https://dev.to/zjkal/github-notes-a-browser-extension-for-adding-private-notes-to-github-1c8)
+- [🎨 CSS Reference — The Free Visual Guide to CSS](https://dev.to/ml318097/css-reference-the-free-visual-guide-to-css-3a73)
+- [Basic Linux command &lpar;awk&rpar;](https://dev.to/cheulong/basic-linux-command-awk-3h0k)
+- [Just published two fresh tutorials on Djamware.com](https://dev.to/djamware_tutorial_eba1a61/just-published-two-fresh-tutorials-on-djamwarecom-3ccn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
