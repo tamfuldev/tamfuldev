@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Movibe: Mobile + vibe coding](https://dev.to/rn404/movibe-mobile-vibe-coding-5de1)
-- [Finally testing the solution](https://dev.to/darkedges/finally-testing-the-solution-3bkb)
-- [Deploying the AWS API Gateway V2 to LocalStack](https://dev.to/darkedges/deploying-the-aws-api-gateway-v2-to-localstack-49ab)
-- [Just Launched: ProxiesThatWork.com - Simple, Affordable Proxies That Actually Work](https://dev.to/proxiesthatwork/just-launched-proxiesthatworkcom-simple-affordable-proxies-that-actually-work-jc8)
-- [Deploying a custom API via AWS Fargate](https://dev.to/darkedges/deploying-api-via-aws-fargate-4noi)
+- [Como construir um computador do zero &lpar;usando Logisim&rpar; - unidade lógico aritmética](https://dev.to/renan_marquetti_9d8acb2b1/como-construir-um-computador-do-zero-usando-logisim-unidade-logico-aritmetica-6en)
+- [The OS Orchestra: How Your Computer Juggles Thousands of Tasks 🎼](https://dev.to/andresjcorrea/the-os-orchestra-how-your-computer-juggles-thousands-of-tasks-4k1e)
+- [🧠 Generative AI with JavaScript – Full Course](https://dev.to/abhishek-nexgen-dev/generative-ai-with-javascript-full-course-32f7)
+- [Public vs. Private LLMs: Another One Rides the Bus](https://dev.to/doctorew/public-vs-private-llms-another-one-rides-the-bus-37a7)
+- [Como construir um computador do zero &lpar;usando Logisim&rpar; - memoria ram](https://dev.to/renan_marquetti_9d8acb2b1/como-construir-um-computador-do-zero-usando-logisim-memoria-ram-39jp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
