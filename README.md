@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dicas práticas e lições da minha jornada até a certificação AWS Cloud Practitioner](https://dev.to/jonathasrochadesouza/dicas-praticas-e-licoes-da-minha-jornada-ate-a-certificacao-aws-cloud-practitioner-5294)
-- [Latest AI Updates: Stay Ahead in the AI Revolution](https://dev.to/jesus_camacho_f51a6edbd4f/latest-ai-updates-stay-ahead-in-the-ai-revolution-3n7j)
-- [Mengenal Earl: Bahasa Pemrograman Berbasis Bahasa Indonesia untuk Pemula](https://dev.to/dev_nazwashabrina/mengenal-earl-bahasa-pemrograman-berbasis-bahasa-indonesia-untuk-pemula-aeg)
-- [How I Built a Minimalist Productivity App to Make Time Management Easier](https://dev.to/mustafa_mercan_df9c536f9c/how-i-built-a-minimalist-productivity-app-to-make-time-management-easier-5075)
-- [Fundamentos e Projeto de Big Data](https://dev.to/alsetchannel/fundamentos-e-projeto-de-big-data-4l15)
+- [Movibe: Mobile + vibe coding](https://dev.to/rn404/movibe-mobile-vibe-coding-5de1)
+- [Finally testing the solution](https://dev.to/darkedges/finally-testing-the-solution-3bkb)
+- [Deploying the AWS API Gateway V2 to LocalStack](https://dev.to/darkedges/deploying-the-aws-api-gateway-v2-to-localstack-49ab)
+- [Just Launched: ProxiesThatWork.com - Simple, Affordable Proxies That Actually Work](https://dev.to/proxiesthatwork/just-launched-proxiesthatworkcom-simple-affordable-proxies-that-actually-work-jc8)
+- [Deploying a custom API via AWS Fargate](https://dev.to/darkedges/deploying-api-via-aws-fargate-4noi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
