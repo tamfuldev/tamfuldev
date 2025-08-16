@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [No More “How to Create Pytest HTML Reports or how to email test reports&quot;](https://dev.to/kevi019/no-more-how-to-create-pytest-html-reports-or-how-to-send-email-55j2)
-- [I Built My Developer Portfolio with Next.js 15 + Tailwind — Here’s How](https://dev.to/nishuldhakar/i-built-my-developer-portfolio-with-nextjs-15-tailwind-heres-how-35j7)
-- [Harnessing `atomFamily` and `selectorFamily` in Recoil for Dynamic Async State](https://dev.to/safal_bhandari/harnessing-atomfamily-and-selectorfamily-in-recoil-for-dynamic-async-state-2cob)
-- [Next.js HTTPS on Localhost: The Easy Way for Secure Development](https://dev.to/robbiecahill/nextjs-https-on-localhost-the-easy-way-for-secure-development-2id5)
-- [What is Executive Function? Improve Focus &amp; Planning Today](https://dev.to/fluidwave/what-is-executive-function-improve-focus-planning-today-2n93)
+- [The Molecular Scalpel](https://dev.to/rawveg/the-molecular-scalpel-id4)
+- [Trackable Flask API using EventSource](https://dev.to/adrianluong/trackable-flask-api-using-eventsource-365f)
+- [Understanding Map in JavaScript &lpar;The Underestimated Data Structure&rpar;](https://dev.to/oyewadkar/understanding-map-in-javascript-the-underestimated-data-structure-3k5)
+- [Deploy Dragonfly Replication](https://dev.to/arman-shafiei/deploy-dragonfly-replication-i6i)
+- [Building an Azure VM Sizer for LLMs — with Codex Doing 90% of the Work](https://dev.to/frankiey/building-an-azure-vm-sizer-for-llms-with-codex-doing-90-of-the-work-7kn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
