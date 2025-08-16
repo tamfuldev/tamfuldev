@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 67: When Your Bed Becomes Your Enemy and Other Developer Chronicles](https://dev.to/casperday11/day-67-when-your-bed-becomes-your-enemy-and-other-developer-chronicles-4p3a)
-- [Why Top Engineers Are Moving to Serverless &lpar;and How You Can Build One with AWS&rpar;](https://dev.to/lyushher/why-top-engineers-are-moving-to-serverless-and-how-you-can-build-one-with-aws-650)
-- [Rogers PCB: The PTFE Advantage for High-Speed, Reliable Electronics](https://dev.to/frank_1871bc3c55f35370df3/rogers-pcb-the-ptfe-advantage-for-high-speed-reliable-electronics-8bm)
-- [Database Setup for Smart Village Project: A Complete Windows Guide](https://dev.to/royson_menezes_479ed50941/database-setup-for-smart-village-project-a-complete-windows-guide-45m0)
-- [Overcoming Self-Doubt: Lessons from My First Year as a Self-Taught Developer](https://dev.to/emmanuelolusegun/overcoming-self-doubt-lessons-from-my-first-year-as-a-self-taught-developer-8cl)
+- [From Vision to Reality: AWS Community Day Addis Ababa 2025](https://dev.to/bereket_n/from-vision-to-reality-aws-community-day-addis-ababa-2025-15jc)
+- [IGN: Bad Cheese: Official Release Date Trailer](https://dev.to/gg_news/ign-bad-cheese-official-release-date-trailer-1ggj)
+- [Reducing JavaScript Bundle Size in Next.js — Practical Guide for Faster Apps](https://dev.to/maurya-sachin/reducing-javascript-bundle-size-in-nextjs-practical-guide-for-faster-apps-h0)
+- [[Article] Divooka, Where We Are, or Public Roadmap](https://dev.to/methodox/article-divooka-where-we-are-or-public-roadmap-15mh)
+- [I Just Launched My First Micro SaaS 🚀](https://dev.to/asim786521/i-just-launched-my-first-micro-saas-1d74)
 <!-- BLOG-POST-LIST:END -->
 
 ---
