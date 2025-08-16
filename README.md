@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Adam Savage&#39;s Tested: This Myth Generated the Most Personal Backlash Against Adam Savage and Jamie](https://dev.to/maker_youtube/adam-savages-tested-this-myth-generated-the-most-personal-backlash-against-adam-savage-and-jamie-292a)
-- [Burke Holland: GPT-5 Mini is a good model....if you like orbs](https://dev.to/vibe_youtube/burke-holland-gpt-5-mini-is-a-good-modelif-you-like-orbs-32do)
-- [Veritasium: The Perfect Battery Material Is Dangerous](https://dev.to/future_youtube/veritasium-the-perfect-battery-material-is-dangerous-48ap)
-- [Deploy Kubernetes On-Premises From Zero](https://dev.to/locnguyenpv/deploy-kubernetes-on-premises-from-zero-4c2i)
-- [Secure Node.js File Uploads in Minutes with Pompelmi](https://dev.to/sonotommy/secure-nodejs-file-uploads-in-minutes-with-pompelmi-3jfe)
+- [Day 67: When Your Bed Becomes Your Enemy and Other Developer Chronicles](https://dev.to/casperday11/day-67-when-your-bed-becomes-your-enemy-and-other-developer-chronicles-4p3a)
+- [Why Top Engineers Are Moving to Serverless &lpar;and How You Can Build One with AWS&rpar;](https://dev.to/lyushher/why-top-engineers-are-moving-to-serverless-and-how-you-can-build-one-with-aws-650)
+- [Rogers PCB: The PTFE Advantage for High-Speed, Reliable Electronics](https://dev.to/frank_1871bc3c55f35370df3/rogers-pcb-the-ptfe-advantage-for-high-speed-reliable-electronics-8bm)
+- [Database Setup for Smart Village Project: A Complete Windows Guide](https://dev.to/royson_menezes_479ed50941/database-setup-for-smart-village-project-a-complete-windows-guide-45m0)
+- [Overcoming Self-Doubt: Lessons from My First Year as a Self-Taught Developer](https://dev.to/emmanuelolusegun/overcoming-self-doubt-lessons-from-my-first-year-as-a-self-taught-developer-8cl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
