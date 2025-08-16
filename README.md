@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Como construir um computador do zero &lpar;usando Logisim&rpar; - unidade lógico aritmética](https://dev.to/renan_marquetti_9d8acb2b1/como-construir-um-computador-do-zero-usando-logisim-unidade-logico-aritmetica-6en)
-- [The OS Orchestra: How Your Computer Juggles Thousands of Tasks 🎼](https://dev.to/andresjcorrea/the-os-orchestra-how-your-computer-juggles-thousands-of-tasks-4k1e)
-- [🧠 Generative AI with JavaScript – Full Course](https://dev.to/abhishek-nexgen-dev/generative-ai-with-javascript-full-course-32f7)
-- [Public vs. Private LLMs: Another One Rides the Bus](https://dev.to/doctorew/public-vs-private-llms-another-one-rides-the-bus-37a7)
-- [Como construir um computador do zero &lpar;usando Logisim&rpar; - memoria ram](https://dev.to/renan_marquetti_9d8acb2b1/como-construir-um-computador-do-zero-usando-logisim-memoria-ram-39jp)
+- [The BEST Code Editor for Everything — Honest Comparison for 2025](https://dev.to/tahamjp/the-best-code-editor-for-everything-honest-comparison-for-2025-3co7)
+- [🎯 Event Delegation in JavaScript: A Complete Beginner-to-Advanced Guide](https://dev.to/rohit_singh_ee84e64941db7/event-delegation-in-javascript-a-complete-beginner-to-advanced-guide-2aj1)
+- [Using PgBouncer to improve performance and reduce the load on PostgreSQL](https://dev.to/chittrmahto/using-pgbouncer-to-improve-performance-and-reduce-the-load-on-postgresql-216j)
+- [1323. Maximum 69 Number](https://dev.to/mdarifulhaque/1323-maximum-69-number-a96)
+- [💎 .NET 9 Hidden Gems: 7 Power Features Most Developers Are Missing](https://dev.to/iamprincejkc/net-9-hidden-gems-7-power-features-most-developers-are-missing-26hk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
