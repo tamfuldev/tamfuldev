@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Server-Side Events Implementation for Real-Time Applications&lpar;8279&rpar;](https://dev.to/ltpp_universe/server-side-events-implementation-for-real-time-applications8279-1dhe)
-- [Is Business Intelligence not enough anymore?](https://dev.to/talin/is-business-intelligence-not-enough-anymore-1im4)
-- [I&#39;m trying to start learning webdev but I don&#39;t know if it&#39;s too late.](https://dev.to/eric_flores_eba19048116e5/im-trying-to-start-learning-webdev-but-i-dont-know-if-its-too-late-2713)
-- [Context Management and Request Lifecycle Optimization&lpar;5804&rpar;](https://dev.to/ltpp_universe/context-management-and-request-lifecycle-optimization5804-5g73)
-- [🚀 Turning Cybersecurity Into a Career Opportunity 🚀](https://dev.to/retro788/turning-cybersecurity-into-a-career-opportunity-1ha9)
+- [IGN: Guilty Gear Strive - Official Lucy Starter Guide Overview Trailer](https://dev.to/gg_news/ign-guilty-gear-strive-official-lucy-starter-guide-overview-trailer-50o)
+- [IGN: Delta Force - Official Console Launch Overview Trailer](https://dev.to/gg_news/ign-delta-force-official-console-launch-overview-trailer-447d)
+- [IGN: Destiny: Rising - Official Gwynn Character Trailer](https://dev.to/gg_news/ign-destiny-rising-official-gwynn-character-trailer-569)
+- [Docker Architecture: Deep Dive from Basics to Advanced](https://dev.to/srinivasamcjf/docker-architecture-deep-dive-from-basics-to-advanced-3gg8)
+- [Cozy Up with the Command Line on a PC](https://dev.to/theoriginalbpc/cozy-up-with-the-command-line-on-a-pc-9j8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
