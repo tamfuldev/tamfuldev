@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [从 COBOL 到汇编：用个税计算器带你扒光 60 年老古董语言](https://dev.to/ctkqiang/cong-cobol-dao-hui-bian-yong-ge-shui-ji-suan-qi-dai-ni-ba-guang-60-nian-lao-gu-dong-yu-yan-ga9)
-- [Showcasing My Portfolio: A Full Stack Portfolio Built with Next.js](https://dev.to/monirhrabby/building-my-portfolio-v5-a-full-stack-developers-journey-with-nextjs-tailwind-css-28l8)
-- [Context Management and Request Lifecycle Optimization&lpar;1355&rpar;](https://dev.to/ltpp_universe/context-management-and-request-lifecycle-optimization1355-349e)
-- [Dev Log 06](https://dev.to/asx/dev-log-06-5d0d)
-- [V8, the engine behind Chrome &amp; Node.js, just made JSON.stringify more than twice as fast! This is a huge win for web performance.](https://dev.to/figsify/v8-the-engine-behind-chrome-nodejs-just-made-jsonstringify-more-than-twice-as-fast-this-is-a-46bp)
+- [Adam Savage&#39;s Tested: Adam Savage Is Bad at Random](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-is-bad-at-random-2cn4)
+- [COLORS: Rodney Chrome | A COLORS SHOW](https://dev.to/music_youtube/colors-rodney-chrome-a-colors-show-4knn)
+- [Translating Business Needs into Technical Solutions](https://dev.to/igorfragadev/translating-business-needs-into-technical-solutions-3gld)
+- [GPT-5 Finally Arrives](https://dev.to/sathish/gpt-5-finally-arrives-4m11)
+- [Understanding Why LLMs Respond the Way They Do with Reverse Mechanistic Localization](https://dev.to/rijultp/understanding-why-llms-respond-the-way-they-do-with-reverse-mechanistic-localization-3381)
 <!-- BLOG-POST-LIST:END -->
 
 ---
