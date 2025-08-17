@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Guilty Gear Strive - Official Lucy Starter Guide Overview Trailer](https://dev.to/gg_news/ign-guilty-gear-strive-official-lucy-starter-guide-overview-trailer-50o)
-- [IGN: Delta Force - Official Console Launch Overview Trailer](https://dev.to/gg_news/ign-delta-force-official-console-launch-overview-trailer-447d)
-- [IGN: Destiny: Rising - Official Gwynn Character Trailer](https://dev.to/gg_news/ign-destiny-rising-official-gwynn-character-trailer-569)
-- [Docker Architecture: Deep Dive from Basics to Advanced](https://dev.to/srinivasamcjf/docker-architecture-deep-dive-from-basics-to-advanced-3gg8)
-- [Cozy Up with the Command Line on a PC](https://dev.to/theoriginalbpc/cozy-up-with-the-command-line-on-a-pc-9j8)
+- [Say Goodbye to Try-Catch Blocks Forever!](https://dev.to/andreas_nicolaou_b3b60f17/say-goodbye-to-try-catch-blocks-forever-1em4)
+- [Memory Safety Meets Extreme Performance in Web Servers&lpar;8758&rpar;](https://dev.to/ltpp_universe/memory-safety-meets-extreme-performance-in-web-servers8758-lh)
+- [Stop using CSS Class Selectors in Jasmine Tests: Here&#39;s a Better Way](https://dev.to/andreas_nicolaou_b3b60f17/stop-using-css-class-selectors-in-jasmine-tests-heres-a-better-way-37jd)
+- [How I Built VolunteerManiac with Kiro](https://dev.to/hongtran/how-i-built-volunteermaniac-with-kiro-186o)
+- [Transform DevOps with AI: Practical MLOps and Generative AI Pipeline Strategies](https://dev.to/srinivasamcjf/transform-devops-with-ai-practical-mlops-and-generative-ai-pipeline-strategies-gb1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
