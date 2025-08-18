@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Python Parameters Decoded: From Confusion to Clarity](https://dev.to/anik_sikder_313/python-parameters-decoded-from-confusion-to-clarity-1136)
-- [Os desafios de atualizar o Angular da versão 12 para a 17 em um monorepo Nx](https://dev.to/henriquealmeida/os-desafios-de-atualizar-o-angular-da-versao-12-para-a-17-em-um-monorepo-nx-1ad6)
-- [Code changes and Improvements for neural web](https://dev.to/okerew/code-changes-and-improvements-for-neural-web-f0p)
-- [What are your goals for the week? #140](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-140-4dhh)
-- [SaaS &lpar;Software as a Service&rpar;](https://dev.to/programadriano/saas-software-as-a-service-32o4)
+- [Adam Savage&#39;s Tested: Restoring the Iconic Space Shuttle Countdown Clock &lpar;at @airandspace&rpar;](https://dev.to/maker_youtube/adam-savages-tested-restoring-the-iconic-space-shuttle-countdown-clock-at-airandspace-22eh)
+- [KEXP: GIFT - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-gift-full-performance-live-on-kexp-4noj)
+- [Gareth David Studio: Design CAROUSEL Social Media Posts In InDesign | Design Tutorial](https://dev.to/design_youtube/gareth-david-studio-design-carousel-social-media-posts-in-indesign-design-tutorial-19ej)
+- [IGN: Comix Zero - Official Demo Release Trailer](https://dev.to/gg_news/ign-comix-zero-official-demo-release-trailer-4gh8)
+- [IGN: Pokemon Legends: Z-A - Official &#39;Enjoy Pokemon Battles Like Never Before&#39; Trailer](https://dev.to/gg_news/ign-pokemon-legends-z-a-official-enjoy-pokemon-battles-like-never-before-trailer-49ne)
 <!-- BLOG-POST-LIST:END -->
 
 ---
