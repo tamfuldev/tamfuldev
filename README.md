@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 10 AI-Powered VSCode Extensions That Changed My Workflow](https://dev.to/ilsa_shaikh_089e2bfab0bf4/10-ai-powered-vscode-extensions-that-changed-my-workflow-4959)
-- [When AI Needs to Show Its Working](https://dev.to/rawveg/when-ai-needs-to-show-its-working-34ff)
-- [Using Custom Metadata in Apex to Replace Hardcoded Configuration Values](https://dev.to/this8/using-custom-metadata-in-apex-to-replace-hardcoded-configuration-values-506f)
-- [🌗 Dark Mode is Dead? The Shift to Adaptive Theme Design](https://dev.to/ilsa_shaikh_089e2bfab0bf4/dark-mode-is-dead-the-shift-to-adaptive-theme-design-56la)
-- [Should Education Be Free in the Age of AI?](https://dev.to/kalinijabo/should-education-be-free-in-the-age-of-ai-1g8o)
+- [Static Site Generation &lpar;SSG&rpar; in Web Development](https://dev.to/hillaryprosper_wahua_604/static-site-generation-ssg-in-web-development-47ld)
+- [Building DevGuard AI Copilot with Kiro — Our Hackathon Journey #kiro #flutter #supabase #hackathon](https://dev.to/narisetti_chaitanyanaidu/building-devguard-ai-copilot-with-kiro-our-hackathon-journeykiro-flutter-supabase-hackathon-2aml)
+- [DOM Manipulation](https://dev.to/code_2/dom-manipulation-6e1)
+- [How to Speed Up Pull Requests: 5 Tactics for Faster Reviews](https://dev.to/pantoai/how-to-reduce-pull-request-cycle-time-5-proven-strategies-for-faster-code-reviews-fic)
+- [Building Secure Real-Time Chat with RSA + AES Hybrid Encryption](https://dev.to/artem_turlenko/building-secure-real-time-chat-with-rsa-aes-hybrid-encryption-41di)
 <!-- BLOG-POST-LIST:END -->
 
 ---
