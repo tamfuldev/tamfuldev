@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [NPR Music: Nduduzo Makhathini: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nduduzo-makhathini-tiny-desk-concert-h7p)
-- [Unveiling the Power of Node.js Process Object: Your Gateway to Runtime Control](https://dev.to/vjnvisakh/unveiling-the-power-of-nodejs-process-object-your-gateway-to-runtime-control-59kp)
-- [🚀 How to Set Up a Virtual Host in XAMPP &lpar;C:&rpar; to Run WordPress from Another Drive &lpar;G:&rpar;](https://dev.to/prantomollick/how-to-set-up-a-virtual-host-in-xampp-c-to-run-wordpress-from-another-drive-g-150m)
-- [Expert Guide to Healthy Lifestyle: Tips, Insights,and Steps](https://dev.to/harlan_5ab353c41e0d38ba0f/expert-guide-to-healthy-lifestyle-tips-insightsand-steps-43i8)
-- [Why I Stopped Using React &lpar;And You Should Too&rpar; 🔥](https://dev.to/shiva_shanker_k/why-i-stopped-using-react-and-you-should-too-6lf)
+- [🚀 10 AI-Powered VSCode Extensions That Changed My Workflow](https://dev.to/ilsa_shaikh_089e2bfab0bf4/10-ai-powered-vscode-extensions-that-changed-my-workflow-4959)
+- [When AI Needs to Show Its Working](https://dev.to/rawveg/when-ai-needs-to-show-its-working-34ff)
+- [Using Custom Metadata in Apex to Replace Hardcoded Configuration Values](https://dev.to/this8/using-custom-metadata-in-apex-to-replace-hardcoded-configuration-values-506f)
+- [🌗 Dark Mode is Dead? The Shift to Adaptive Theme Design](https://dev.to/ilsa_shaikh_089e2bfab0bf4/dark-mode-is-dead-the-shift-to-adaptive-theme-design-56la)
+- [Should Education Be Free in the Age of AI?](https://dev.to/kalinijabo/should-education-be-free-in-the-age-of-ai-1g8o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
