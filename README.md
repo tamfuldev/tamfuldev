@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Probably Secure: A Look At The Security Concerns Of Deterministic Vs Probabilistic Systems](https://dev.to/gitguardian/probably-secure-a-look-at-the-security-concerns-of-deterministic-vs-probabilistic-systems-9od)
-- [Recovery of Microsoft Dynamics NAV 2002 R2 and SQL Server](https://dev.to/ivajofranc/recovery-of-microsoft-dynamics-nav-2002-r2-and-sql-server-1n07)
-- [What is Apache Kafka, Why and When to use Kafka. Lesson 1](https://dev.to/itamartati/what-is-apache-kafka-why-and-when-to-use-kafka-lesson-1-1gkd)
-- [SaaS Had a Good Run. AI Is About to Rewrite the Playbook.](https://dev.to/paultowers/saas-had-a-good-run-ai-is-about-to-rewrite-the-playbook-nn0)
-- [LangGraph With MongoDB: Building Conversational Long-Term Memory for Intelligent AI Agents](https://dev.to/mongodb/langgraph-with-mongodb-building-conversational-long-term-memory-for-intelligent-ai-agents-2pcn)
+- [IGN: Primitive War - Official Spot | In Theaters August 21](https://dev.to/gg_news/ign-primitive-war-official-spot-in-theaters-august-21-4h51)
+- [IGN: Arctic Awakening - Official Release Date Trailer](https://dev.to/gg_news/ign-arctic-awakening-official-release-date-trailer-1l0o)
+- [IGN: Bleach Rebirth of Souls - Official Retsu Unohana Reveal Trailer](https://dev.to/gg_news/ign-bleach-rebirth-of-souls-official-retsu-unohana-reveal-trailer-52h0)
+- [[Boost]](https://dev.to/carlosdamota/-1n18)
+- [E-mails de verificação com AWS SES + Lambda &lpar;Node.js&rpar; e Terraform — do zero ao envio](https://dev.to/sertaoseracloud/e-mails-de-verificacao-com-aws-ses-lambda-nodejs-e-terraform-do-zero-ao-envio-20fo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
