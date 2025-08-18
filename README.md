@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [HTML Debugging &amp; Validation Tools: Ensuring Clean, Error-Free Web Development](https://dev.to/sharique_siddiqui_8242dad/html-debugging-validation-tools-ensuring-clean-error-free-web-development-1bcc)
-- [The weekly roundup is live! We&#39;ve got the latest in dev &amp; design, including some cool new AI tools, free design assets, and fresh articles. Find all the resources at https://www.jqueryscript.net/blog/Weekly-Web-Design-Development-News-Collective-618.html](https://dev.to/jqueryscript/the-weekly-roundup-is-live-weve-got-the-latest-in-dev-design-including-some-cool-new-ai-tools-4pa9)
-- [How I Deployed an Apache Web Server on Ubuntu and Built an Eatery Website](https://dev.to/goldenboy58/how-i-deployed-an-apache-web-server-on-ubuntu-and-built-an-eatery-website-4ce8)
-- [Mastering Go Concurrency: Taming Race Conditions Like a Pro](https://dev.to/jones_charles_ad50858dbc0/mastering-go-concurrency-taming-race-conditions-like-a-pro-1kn2)
-- [[Boost]](https://dev.to/triplemcoder/-26d6)
+- [Are You a Boiling Frog? 🐸](https://dev.to/ayush_kumawat_72c6f9b7225/are-you-a-boiling-frog-l8b)
+- [🧊 Snowflake RBAC 101 – Episode 3: Ongoing Access Management](https://dev.to/qvfagundes/snowflake-rbac-101-episode-3-ongoing-access-management-4pmi)
+- [Concurrency Duel: Async Web Crawling in Ruby vs Elixir](https://dev.to/hungle00/concurrency-duel-async-web-crawling-in-ruby-vs-elixir-c3e)
+- [Build a Netflix-Style Website with S3, CloudFront &amp; Lambda\@Edge 🎬⚡](https://dev.to/yash_sonawane25/build-a-netflix-style-website-with-s3-cloudfront-lambdaedge-2lil)
+- [Desbloquea el Desarrollo de Software: Los 6 Pilares Fundamentales para Construir Cualquier Aplicación 🚀](https://dev.to/joedev090/desbloquea-el-desarrollo-de-software-los-6-pilares-fundamentales-para-construir-cualquier-453o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
