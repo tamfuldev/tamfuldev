@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Make Your Discord Server Active and Engaged](https://dev.to/apis/how-to-make-your-discord-server-active-and-engaged-1d34)
-- [MST Blockchain: India’s First Layer-1 Platform for Web3 Developers — Quick Start Guide &amp; Ecosystem Overview](https://dev.to/mst-chain/mst-blockchain-indias-first-layer-1-platform-for-web3-developers-quick-start-guide-ecosystem-5bck)
-- [Live Examples - Modern Angular Patterns &lpar;2025&rpar;: Signals, NgRx, RxJS, Web Components, A11y &amp; Performance Testing](https://dev.to/jdavissoftware/live-examples-modern-angular-patterns-2025-signals-ngrx-rxjs-web-components-a11y--53em)
-- [Running AI Models with Docker Compose](https://dev.to/pradumnasaraf/running-ai-models-with-docker-compose-27ng)
-- [Day 70: When Your First Hater Becomes Your Best Motivator](https://dev.to/casperday11/day-70-when-your-first-hater-becomes-your-best-motivator-38kj)
+- [The Next Evolution:From Agile to Continuous Everything](https://dev.to/dct_technology/the-next-evolutionfrom-agile-to-continuous-everything-1a0e)
+- [Using IF nodes for conditional logic](https://dev.to/brook_051cd08713006b/using-if-nodes-for-conditional-logic-4m96)
+- [Deploying Express.js App on Vercel](https://dev.to/buildandcodewithraman/deploying-expressjs-app-on-vercel-1e4n)
+- [Effective Sprint Planning: Avoiding the Overcommitment Trap](https://dev.to/dct_technology/effective-sprint-planning-avoiding-the-overcommitment-trap-1fc5)
+- [AI’s Billion-Dollar Showdown: Tech Titans Clash in a Race for Supremacy](https://dev.to/nithya_iyer/ais-billion-dollar-showdown-tech-titans-clash-in-a-race-for-supremacy-54e6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
