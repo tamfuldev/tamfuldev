@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Make Your AI Agents Reliable: A Comprehensive Guide for Developers](https://dev.to/kuldeep_paul/how-to-make-your-ai-agents-reliable-a-comprehensive-guide-for-developers-i5p)
-- [Tableau Sales Dashboard Performance &lpar;Updated for 2025&rpar;](https://dev.to/vamshi_e_eebe5a6287a27142/tableau-sales-dashboard-performance-updated-for-2025-2099)
-- [LeetCode #242. Valid Anagram](https://dev.to/desiato/leetcode-242-valid-anagram-2868)
-- [Scraping JavaScript-Rendered Web Pages with Python](https://dev.to/bdilip48/scraping-javascript-rendered-web-pages-with-python-1e95)
-- [Brochure Translation Software Features to Look for [2025]](https://dev.to/colinreed/brochure-translation-software-features-to-look-for-2025-1bg7)
+- [KEXP: Blondshell - Event Of A Fire &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-blondshell-event-of-a-fire-live-on-kexp-5a21)
+- [KEXP: Blondshell - Toy &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-blondshell-toy-live-on-kexp-1enm)
+- [KEXP: Blondshell - T&amp;A &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-blondshell-ta-live-on-kexp-286h)
+- [KEXP: Blondshell - 23&#39;s A Baby &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-blondshell-23s-a-baby-live-on-kexp-3bel)
+- [Gareth David Studio: Design CAROUSEL Social Media Posts In InDesign | Design Tutorial](https://dev.to/design_youtube/gareth-david-studio-design-carousel-social-media-posts-in-indesign-design-tutorial-326e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
