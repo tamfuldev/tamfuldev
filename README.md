@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Find Profitable AI Freelancing &lpar;Tips, Tools &amp; Knowledge You Need in 2025&rpar;](https://dev.to/smartaidrop/how-to-find-profitable-ai-freelancing-tips-tools-knowledge-you-need-in-2025-4n3c)
-- [10 Best Kiosk Software Solutions for Kiosk Computers](https://dev.to/vantage-mdm/10-best-kiosk-software-solutions-for-kiosk-computers-3cgm)
-- [How to Monetize Your Startup from the First Release](https://dev.to/freshtech/how-to-monetize-your-startup-from-the-first-release-38ih)
-- [15 Web Development Project Ideas for Your Portfolio](https://dev.to/avishek_chandradas_7e892/15-web-development-project-ideas-for-your-portfolio-30jl)
-- [How Laravel Has Saved PHP Over the Years](https://dev.to/toufiqat/how-laravel-has-saved-php-over-the-years-54ai)
+- [Introducing Pomora: a minimal, focused Pomodoro timer &lpar;Next.js + Tailwind + shadcn/ui&rpar;](https://dev.to/shravzzv/introducing-pomora-a-minimal-focused-pomodoro-timer-nextjs-tailwind-shadcnui-255d)
+- [Boring Cybersecurity Theory: Playbook and Zero-day attack](https://dev.to/dharbachou/boring-cybersecurity-theory-playbook-and-zero-day-attack-1l03)
+- [Hello, World!](https://dev.to/kyusunpark/hello-world-4ch)
+- [From Concrete to Cloud: A Developer&#39;s Guide to the Physical Hardware Behind OCI](https://dev.to/smyekh/from-concrete-to-cloud-a-developers-guide-to-the-physical-hardware-behind-oci-4eh3)
+- [Games as Model Eval: 1-Click Deploy AI Town on Fly.io](https://dev.to/flyio/games-as-model-eval-1-click-deploy-ai-town-on-flyio-13n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
