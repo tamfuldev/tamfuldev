@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling the Magic of Hash Tables: Your Ultimate Guide to Efficient Data Lookup PT. 2](https://dev.to/rubenoalvarado/unveiling-the-magic-of-hash-tables-your-ultimate-guide-to-efficient-data-lookup-pt-2-1c7i)
-- [Build a Lightweight Serverless ETL Pipeline to Iceberg Tables with AWS Lambda Athena](https://dev.to/datapenguin/build-a-lightweight-serverless-etl-pipeline-to-iceberg-tables-with-aws-lambda-athena-661)
-- [Title: Selenium Syntax: The Correct Way to Send Login Information](https://dev.to/yagyaraj_sharma_6cd410179/title-selenium-syntax-the-correct-way-to-send-login-information-396j)
-- [Pyker: A Modern PM2 Alternative for Python Developers](https://dev.to/mrvi0/pyker-a-modern-pm2-alternative-for-python-developers-e8m)
-- [IGN: Inferius - Official Announcement Trailer](https://dev.to/gg_news/ign-inferius-official-announcement-trailer-1lec)
+- [Diving Deep: K-Fold Cross-Validation](https://dev.to/dev_patel_35864ca1db6093c/diving-deep-k-fold-cross-validation-3f23)
+- [Learning about MP4 and stumbled upon this great article! 😄](https://dev.to/fabianoglentini/learning-about-mp4-and-stumbled-upon-this-great-article-19j6)
+- [Building Code Retrieval for Claude Code from Scratch](https://dev.to/chen_zhang_bac430bc7f6b95/building-code-retrieval-for-claude-code-from-scratch-3n8c)
+- [2025 Latest: Complete Guide to Qwen-Image-Edit Image Editing Model](https://dev.to/czmilo/2025-latest-complete-guide-to-qwen-image-edit-image-editing-model-2kd5)
+- [How I Built a Performant Logic Puzzle Game with Next.js and a Web Worker](https://dev.to/airobus/how-i-built-a-performant-logic-puzzle-game-with-nextjs-and-a-web-worker-4381)
 <!-- BLOG-POST-LIST:END -->
 
 ---
