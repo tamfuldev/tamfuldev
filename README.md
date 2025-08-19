@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Making progress on subforem editing, just added subforem moderator role.](https://dev.to/ben/making-progress-on-subforem-editing-just-added-subforem-moderator-role-3h1l)
-- [Building an Advanced AI Agent: A Step-by-Step Guide to Integrating MCP Servers with LangGraph](https://dev.to/amol_kavitkar/building-an-advanced-ai-agent-a-step-by-step-guide-to-integrating-mcp-servers-with-langgraph-4ocf)
-- [Unlocking Hidden Cloud Superpowers: GKE Topology Manager GA &amp; Node Swap — DevOps Game Changers You Haven’t Tried](https://dev.to/lakshmikanth_reddy/unlocking-hidden-cloud-superpowers-gke-topology-manager-ga-node-swap-devops-game-changers-you-3d1g)
-- [React 19 `use` Hook Deep Dive — Using Promises Directly in Your Components](https://dev.to/a1guy/react-19-use-hook-deep-dive-using-promises-directly-in-your-components-1plp)
-- [Vibecoders Aren’t Engineers — They’re Walking Data Breaches](https://dev.to/mjlynch123/vibecoders-arent-engineers-theyre-walking-data-breaches-2e4n)
+- [Tech With Tim: Lovable FULL Tutorial - For COMPLETE Beginners &lpar;No Experience Needed&rpar;](https://dev.to/vibe_youtube/tech-with-tim-lovable-full-tutorial-for-complete-beginners-no-experience-needed-3bmg)
+- [IGN: Helldivers 2 x Halo - Official ODST Legendary Warbond Trailer](https://dev.to/gg_news/ign-helldivers-2-x-halo-official-odst-legendary-warbond-trailer-52lo)
+- [Bring Your Angular App to Life with Anime.js](https://dev.to/williamjuan27/bring-your-angular-app-to-life-with-animejs-4kkc)
+- [Detecting Depression Using Deep Learning on Facial Expression Images -Mini Project](https://dev.to/micheal_quelazar_bd7163e2/detecting-depression-using-deep-learning-on-facial-expression-images-mini-project-l01)
+- [🚀 Mercor AI: A Smarter Way for Developers to Find Opportunities](https://dev.to/devcorner/why-i-joined-mercor-ai-a-game-changer-for-software-engineers-1e3k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
