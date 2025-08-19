@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Pomora: a minimal, focused Pomodoro timer &lpar;Next.js + Tailwind + shadcn/ui&rpar;](https://dev.to/shravzzv/introducing-pomora-a-minimal-focused-pomodoro-timer-nextjs-tailwind-shadcnui-255d)
-- [Boring Cybersecurity Theory: Playbook and Zero-day attack](https://dev.to/dharbachou/boring-cybersecurity-theory-playbook-and-zero-day-attack-1l03)
-- [Hello, World!](https://dev.to/kyusunpark/hello-world-4ch)
-- [From Concrete to Cloud: A Developer&#39;s Guide to the Physical Hardware Behind OCI](https://dev.to/smyekh/from-concrete-to-cloud-a-developers-guide-to-the-physical-hardware-behind-oci-4eh3)
-- [Games as Model Eval: 1-Click Deploy AI Town on Fly.io](https://dev.to/flyio/games-as-model-eval-1-click-deploy-ai-town-on-flyio-13n)
+- [Krish Naik: Complete Detailed Roadmap To Learn AI In 2025 With Free Videos And Resources](https://dev.to/vibe_youtube/krish-naik-complete-detailed-roadmap-to-learn-ai-in-2025-with-free-videos-and-resources-4539)
+- [Boosting Efficiency: Top AI Tools Revolutionizing Productivity in 2024](https://dev.to/vjnvisakh/boosting-efficiency-top-ai-tools-revolutionizing-productivity-in-2024-2d25)
+- [Sustainable IT: Green Computing Trends Shaping the Future](https://dev.to/vidushhi/sustainable-it-green-computing-trends-shaping-the-future-2ki0)
+- [𝗗𝗲𝗰𝗶𝘀𝗶𝗼𝗻𝘀 𝗠𝗮𝘁𝘁𝗲𝗿: 𝗟𝗲𝘃𝗲𝗹 𝗨𝗽 𝗬𝗼𝘂𝗿 𝗗𝗲𝘃 𝗚𝗿𝗼𝘄𝘁𝗵](https://dev.to/supraja_tangella_b7f0738e/-1id8)
+- [Building a Robust Backend with Effect, GraphQL, and Drizzle](https://dev.to/martinpersson/building-a-robust-backend-with-effect-graphql-and-drizzle-k4j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
