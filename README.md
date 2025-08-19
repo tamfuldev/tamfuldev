@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Diving Deep: K-Fold Cross-Validation](https://dev.to/dev_patel_35864ca1db6093c/diving-deep-k-fold-cross-validation-3f23)
-- [Learning about MP4 and stumbled upon this great article! 😄](https://dev.to/fabianoglentini/learning-about-mp4-and-stumbled-upon-this-great-article-19j6)
-- [Building Code Retrieval for Claude Code from Scratch](https://dev.to/chen_zhang_bac430bc7f6b95/building-code-retrieval-for-claude-code-from-scratch-3n8c)
-- [2025 Latest: Complete Guide to Qwen-Image-Edit Image Editing Model](https://dev.to/czmilo/2025-latest-complete-guide-to-qwen-image-edit-image-editing-model-2kd5)
-- [How I Built a Performant Logic Puzzle Game with Next.js and a Web Worker](https://dev.to/airobus/how-i-built-a-performant-logic-puzzle-game-with-nextjs-and-a-web-worker-4381)
+- [shadcn-portfolio: Next.js Developer Portfolio Template with shadcn/ui](https://dev.to/jqueryscript/shadcn-portfolio-nextjs-developer-portfolio-template-with-shadcnui-8ge)
+- [Smartbi RCE Vulnerability — Patch Now Before Attackers Do](https://dev.to/sharon_42e16b8da44dabde6d/smartbi-rce-vulnerability-patch-now-before-attackers-do-10bk)
+- [Why ChatGPT Prioritizes Engagement Over Truth](https://dev.to/agustin_v_startari/why-chatgpt-prioritizes-engagement-over-truth-13p4)
+- [Push and Pull Supply Chain: Everything You Need to Know](https://dev.to/shruthi_nagaraj_e00b8e3c6/push-and-pull-supply-chain-everything-you-need-to-know-7ic)
+- [Linux vs Android SBCs: Pros and Cons for Developers and System Integrators](https://dev.to/lauraaa/linux-vs-android-sbcs-pros-and-cons-for-developers-and-system-integrators-4fi0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
