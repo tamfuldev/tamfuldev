@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Adam Savage&#39;s Tested: Adam Savage&#39;s Live Streams: Tuesday, Aug. 19, at 3 pm PT](https://dev.to/maker_youtube/adam-savages-tested-adam-savages-live-streams-tuesday-aug-19-at-3-pm-pt-5g7a)
-- [COLORS: Venna | A COLORS ENCORE](https://dev.to/music_youtube/colors-venna-a-colors-encore-11e3)
-- [IGN: The Long Walk - Exclusive Red Band Clip &lpar;2025&rpar; Cooper Hoffman, David Jonsson](https://dev.to/gg_news/ign-the-long-walk-exclusive-red-band-clip-2025-cooper-hoffman-david-jonsson-2eln)
-- [IGN: Cinder City - Official Trailer | gamescom 2025](https://dev.to/gg_news/ign-cinder-city-official-trailer-gamescom-2025-1437)
-- [IGN: Grindworm - Official Announcement Trailer](https://dev.to/gg_news/ign-grindworm-official-announcement-trailer-48c1)
+- [Launch Your First Serverless API: Hands-On with AWS Chalice on AWS Lambda](https://dev.to/shrsv/launch-your-first-serverless-api-hands-on-with-aws-chalice-on-aws-lambda-3712)
+- [Creativity Isn’t a Gift—It’s a Bank Account. Here’s How to Make Withdrawals](https://dev.to/praisejamesx/creativity-isnt-a-gift-its-a-bank-account-heres-how-to-make-withdrawals-d0k)
+- [Chrome Extension](https://dev.to/rohan2596/-4lo7)
+- [Beginner’s Guide to Wordlists and Crunch for Password Testing](https://dev.to/rijultp/beginners-guide-to-wordlists-and-crunch-for-password-testing-4j14)
+- [The Best Minimal Chrome To-Do List Extension You’ll Ever Need](https://dev.to/rohan2596/the-best-minimal-chrome-to-do-list-extension-youll-ever-need-2cgk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
