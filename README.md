@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Blackboard Pattern: A Framework for Complex Problem Solving](https://dev.to/lovestaco/the-blackboard-pattern-a-framework-for-complex-problem-solving-4o1p)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-54fg)
-- [Zero-Touch Bare Metal at Scale](https://dev.to/sarah-railway/zero-touch-bare-metal-at-scale-56e4)
-- [New Add-on for -Form Choice Limiter](https://dev.to/bahodir_amerbekov_97d36e8/new-add-on-for-form-choice-limiter-134b)
-- [How to Test Database Schema Changes in Sandboxes](https://dev.to/signadot/how-to-test-database-schema-changes-in-sandboxes-dh4)
+- [Adam Savage&#39;s Tested: Adam Savage&#39;s Live Streams: Tuesday, Aug. 19, at 3 pm PT](https://dev.to/maker_youtube/adam-savages-tested-adam-savages-live-streams-tuesday-aug-19-at-3-pm-pt-5g7a)
+- [COLORS: Venna | A COLORS ENCORE](https://dev.to/music_youtube/colors-venna-a-colors-encore-11e3)
+- [IGN: The Long Walk - Exclusive Red Band Clip &lpar;2025&rpar; Cooper Hoffman, David Jonsson](https://dev.to/gg_news/ign-the-long-walk-exclusive-red-band-clip-2025-cooper-hoffman-david-jonsson-2eln)
+- [IGN: Cinder City - Official Trailer | gamescom 2025](https://dev.to/gg_news/ign-cinder-city-official-trailer-gamescom-2025-1437)
+- [IGN: Grindworm - Official Announcement Trailer](https://dev.to/gg_news/ign-grindworm-official-announcement-trailer-48c1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
