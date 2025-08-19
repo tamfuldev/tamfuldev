@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Launching My Open-Source Blog App](https://dev.to/kiraaziz/launching-my-open-source-blog-app-4dej)
-- [Building InboxHiiv: Event-Driven Podcast Processing with Firebase Functions and Gemini AI](https://dev.to/akhilcjacob/building-inboxhiiv-event-driven-podcast-processing-with-firebase-functions-and-gemini-ai-53ff)
-- [CSS Blossoming Flowers at Magical Night](https://dev.to/immanol_jhuniorbaltazar/css-blossoming-flowers-at-magical-night-5600)
-- [Writing Maintainable AI Prompts in Rails with Promptly](https://dev.to/travelingwilbur/writing-maintainable-ai-prompts-in-rails-with-promptly-1dnf)
-- [IGN: Primitive War - Official Spot | In Theaters August 21](https://dev.to/gg_news/ign-primitive-war-official-spot-in-theaters-august-21-4h51)
+- [Unveiling the Magic of Hash Tables: Your Ultimate Guide to Efficient Data Lookup PT. 2](https://dev.to/rubenoalvarado/unveiling-the-magic-of-hash-tables-your-ultimate-guide-to-efficient-data-lookup-pt-2-1c7i)
+- [Build a Lightweight Serverless ETL Pipeline to Iceberg Tables with AWS Lambda Athena](https://dev.to/datapenguin/build-a-lightweight-serverless-etl-pipeline-to-iceberg-tables-with-aws-lambda-athena-661)
+- [Title: Selenium Syntax: The Correct Way to Send Login Information](https://dev.to/yagyaraj_sharma_6cd410179/title-selenium-syntax-the-correct-way-to-send-login-information-396j)
+- [Pyker: A Modern PM2 Alternative for Python Developers](https://dev.to/mrvi0/pyker-a-modern-pm2-alternative-for-python-developers-e8m)
+- [IGN: Inferius - Official Announcement Trailer](https://dev.to/gg_news/ign-inferius-official-announcement-trailer-1lec)
 <!-- BLOG-POST-LIST:END -->
 
 ---
