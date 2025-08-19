@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Next Evolution:From Agile to Continuous Everything](https://dev.to/dct_technology/the-next-evolutionfrom-agile-to-continuous-everything-1a0e)
-- [Using IF nodes for conditional logic](https://dev.to/brook_051cd08713006b/using-if-nodes-for-conditional-logic-4m96)
-- [Deploying Express.js App on Vercel](https://dev.to/buildandcodewithraman/deploying-expressjs-app-on-vercel-1e4n)
-- [Effective Sprint Planning: Avoiding the Overcommitment Trap](https://dev.to/dct_technology/effective-sprint-planning-avoiding-the-overcommitment-trap-1fc5)
-- [AI’s Billion-Dollar Showdown: Tech Titans Clash in a Race for Supremacy](https://dev.to/nithya_iyer/ais-billion-dollar-showdown-tech-titans-clash-in-a-race-for-supremacy-54e6)
+- [Understanding Azure Hybrid Benefit](https://dev.to/techielass/understanding-azure-hybrid-benefit-31ji)
+- [How to Register a Service Worker With Vite and Rollup Without Plugins](https://dev.to/fedtti/how-to-register-a-service-worker-with-vite-and-rollup-without-plugins-3i71)
+- [Why Slack Messages Are Killing Your Staging Environment Workflow](https://dev.to/stagingapp/why-slack-messages-are-killing-your-staging-environment-workflow-3kej)
+- [Master Dynamic Theming in Angular: Build Scalable Theme Architecture with SCSS](https://dev.to/codewithrajat/master-dynamic-theming-in-angular-build-scalable-theme-architecture-with-scss-3k6m)
+- [Agentic AI: How Autonomous Agents Are Transforming Enterprise Workflows](https://dev.to/koolkamalkishor/agentic-ai-how-autonomous-agents-are-transforming-enterprise-workflows-4oi6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
