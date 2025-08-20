@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek V3.1 Complete Evaluation Analysis: The New AI Programming Benchmark for 2025](https://dev.to/czmilo/deepseek-v31-complete-evaluation-analysis-the-new-ai-programming-benchmark-for-2025-58jc)
-- [Building Treazurex — Weeks 3–5](https://dev.to/raimi_dikamona/building-treazurex-weeks-3-5-3mla)
-- [KEXP: Barrington Levy - A FI YUH &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-barrington-levy-a-fi-yuh-live-on-kexp-22ac)
-- [In Và Xuất Dữ Liệu Trong Java - Hướng Dẫn Chi Tiết](https://dev.to/javahighlight/in-va-xuat-du-lieu-trong-java-huong-dan-chi-tiet-24gm)
-- [KEXP: Barrington Levy - Black Roses / Here I Come &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-barrington-levy-black-roses-here-i-come-live-on-kexp-2od2)
+- [VPS Performance Reality Check 2025: Who’s Actually Fast &lpar;and Worth the Money&rpar;?](https://dev.to/sst21/vps-performance-reality-check-2025-whos-actually-fast-and-worth-the-money-1g6g)
+- [Python tips and tricks](https://dev.to/mcheremnov/python-tips-and-tricks-13bj)
+- [Why Most AI Startups Will Fail in 2025 — And What the Survivors Will Have in Common](https://dev.to/koolkamalkishor/why-most-ai-startups-will-fail-in-2025-and-what-the-survivors-will-have-in-common-242c)
+- [Two new Ruby podcasts from Rails Foundation and Ruby Central](https://dev.to/lucianghinda/two-new-ruby-podcasts-from-rails-foundation-and-ruby-central-207m)
+- [Why Your AI Chatbot is Dumb — And How to Fix It with AutoGPT Agents](https://dev.to/ekwoster/why-your-ai-chatbot-is-dumb-and-how-to-fix-it-with-autogpt-agents-1kep)
 <!-- BLOG-POST-LIST:END -->
 
 ---
