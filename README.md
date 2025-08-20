@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: The Blood of Dawnwalker First Impressions: Witcher 3 + vampires = ??](https://dev.to/gg_news/gamespot-the-blood-of-dawnwalker-first-impressions-witcher-3-vampires--510o)
-- [IGN: The Blood of Dawnwalker Is a Vampire RPG in a Big Narrative Sandbox](https://dev.to/gg_news/ign-the-blood-of-dawnwalker-is-a-vampire-rpg-in-a-big-narrative-sandbox-1bda)
-- [IGN: Stalker 2 - Official PS5 Release Date Trailer](https://dev.to/gg_news/ign-stalker-2-official-ps5-release-date-trailer-5953)
-- [IGN: Operation Stutter - Official Reveal Trailer](https://dev.to/gg_news/ign-operation-stutter-official-reveal-trailer-1273)
-- [IGN: LEGO Voyagers Might Already Be My Favorite LEGO Game Ever](https://dev.to/gg_news/ign-lego-voyagers-might-already-be-my-favorite-lego-game-ever-4og4)
+- [Survey with text input example](https://dev.to/ben/survey-with-text-input-example-142p)
+- [How do I separate myself from most entry level devs?](https://dev.to/ej_salga_af7c7ffbf288c3d7/how-do-i-separate-myself-from-most-entry-level-devs-20m0)
+- [KotlinLesson 2: Kotlin Basic Syntax: Mastering Variables, Data Types, and Operators](https://dev.to/jige2025/kotlinlesson-2-kotlin-basic-syntax-mastering-variables-data-types-and-operators-4hej)
+- [Pivoting from Auth0 to PHP Symfony](https://dev.to/browsely_a899a03e6654ba38/pivoting-from-auth0-to-php-symfony-39h)
+- [How to Secure Your TanStack React Start App with Light-Auth](https://dev.to/mimetis/how-to-secure-your-tanstack-react-start-app-with-light-auth-12o0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
