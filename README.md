@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [No Laying Up Podcast: The Scottish Highlands Golf Trip | NLU Pod, Ep 1058](https://dev.to/youtube_golf/no-laying-up-podcast-the-scottish-highlands-golf-trip-nlu-pod-ep-1058-553p)
-- [Welcome Thread - v340](https://dev.to/devteam/welcome-thread-v340-3j0c)
-- [Detects Hardware Specs: What to Track and How Discovery Tools Work](https://dev.to/emily_assetloom/detects-hardware-specs-what-to-track-and-how-discovery-tools-work-29fi)
-- [Supabase WordPress Integration - Sync WordPress Posts and Pages to Supabase](https://dev.to/dalenguyen/supabase-wordpress-integration-sync-wordpress-posts-and-pages-to-supabase-28f7)
-- [Understanding Network Discovery Scan: Top Features to Look For](https://dev.to/emily_assetloom/understanding-network-discovery-scan-top-features-to-look-for-230)
+- [役員変更登記](https://dev.to/suzulabo/yi-yuan-bian-geng-deng-ji-237g)
+- [🚀 Introducing ngxsmk-stripe: A Modern Angular Stripe Plugin](https://dev.to/toozuuu/introducing-ngxsmk-stripe-a-modern-angular-stripe-plugin-2klp)
+- [React 19 Suspense Deep Dive — Data Fetching, Streaming, and Error Handling Like a Pro](https://dev.to/a1guy/react-19-suspense-deep-dive-data-fetching-streaming-and-error-handling-like-a-pro-3k74)
+- [Untitled](https://dev.to/luis_torres_310e67efe3934/untitled-1i49)
+- [Use madge to generate dependencies for frontend project](https://dev.to/huaian/use-madge-to-generate-dependencies-for-frontend-project-5766)
 <!-- BLOG-POST-LIST:END -->
 
 ---
