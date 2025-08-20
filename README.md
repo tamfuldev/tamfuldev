@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building DeFi Apps: Why I Switched from NEAR to Hyperliquid &lpar;And What You Should Know&rpar;](https://dev.to/rdbwood2/building-defi-apps-why-i-switched-from-near-to-hyperliquid-and-what-you-should-know-4f3d)
-- [AWS Lambda with Go - How to Build, Deploy, and Invoke](https://dev.to/jacktt/aws-lambda-with-go-how-to-build-deploy-and-invoke-1p0o)
-- [5 Keys to Acing Your Coding Interview &lpar;That Have Nothing to Do With Code&rpar;](https://dev.to/beyond-code/5-keys-to-acing-your-coding-interview-that-have-nothing-to-do-with-code-4dkb)
-- [Title: Revolutionizing Wound Healing: The Breakthrough of a Smart Gel](https://dev.to/yagyaraj_sharma_6cd410179/title-revolutionizing-wound-healing-the-breakthrough-of-a-smart-gel-440f)
-- [Title: The Incredible Lightning Strike: A Megaflash that Broke the Record and Traveled 515 Miles!](https://dev.to/yagyaraj_sharma_6cd410179/title-the-incredible-lightning-strike-a-megaflash-that-broke-the-record-and-traveled-515-miles-35bl)
+- [SP3232EEN: Reliable RS-232 Transceiver for Embedded Communication | Censtry](https://dev.to/censtry/sp3232een-reliable-rs-232-transceiver-for-embedded-communication-censtry-4mp7)
+- [CI/CD Pipeline for React App on S3 + CloudFront using GitHub Actions 🚀](https://dev.to/yash_sonawane25/cicd-pipeline-for-react-app-on-s3-cloudfront-using-github-actions-2973)
+- [Mastering curl: The Swiss Army Knife of the Command Line](https://dev.to/kmsaifullah/mastering-curl-the-swiss-army-knife-of-the-command-line-4077)
+- [Build an self-improving AI agent that turns documents into structured data &lpar;with LangGraph&rpar;](https://dev.to/oliver_s_516239543d897f1d/build-an-self-improving-ai-agent-that-turns-documents-into-structured-data-with-langgraph-3gcb)
+- [Personal Picks: Data Product News &lpar;August 20, 2025&rpar;](https://dev.to/sagara/personal-picks-data-product-news-august-20-2025-85j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
