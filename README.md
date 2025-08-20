@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What Port Does Ping Use?](https://dev.to/lightningdev123/what-port-does-ping-use-2n78)
-- [NPR Music: Guster: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-guster-tiny-desk-concert-oio)
-- [IGN: Project Spectrum - Exclusive Gameplay Trailer](https://dev.to/gg_news/ign-project-spectrum-exclusive-gameplay-trailer-5i3)
-- [IGN: Project Remind - Official Announcement Trailer](https://dev.to/gg_news/ign-project-remind-official-announcement-trailer-34pd)
-- [IGN: gamescom studio Tag 1 Livestream 2025: Borderlands 4, Call of Duty, Ninja Gaiden 4 und mehr](https://dev.to/gg_news/ign-gamescom-studio-tag-1-livestream-2025-borderlands-4-call-of-duty-ninja-gaiden-4-und-mehr-35mj)
+- [Few projects up. I&#39;m in the process of finding all projects I&#39;ve done since 2018. From Ghost Production to Coding Course Creation, Automation, Shopify Web Development, Webflow Web Development and Mixing Engineering https://vicentereyes.org/works](https://dev.to/highcenburg/few-projects-up-im-in-the-process-of-finding-all-projects-ive-done-since-2018-from-ghost-328g)
+- [The Great AI Capability Illusion](https://dev.to/rawveg/the-great-ai-capability-illusion-3p6i)
+- [Few projects up https://vicentereyes.org/works](https://dev.to/highcenburg/few-projects-up-httpsvicentereyesorgworks-3jik)
+- [AI-Powered Data Engineering &amp; Analytics Solutions for Enterprises](https://dev.to/razorpod_seo_0a69ce36e98f/ai-powered-data-engineering-analytics-solutions-for-enterprises-p8l)
+- [Introducing Wasapia: AI Call Agents That Answer, Book &amp; Support Customers 24/7](https://dev.to/aledb/introducing-wasapia-ai-call-agents-that-answer-book-support-customers-247-3fkh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
