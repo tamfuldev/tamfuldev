@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Boring Cybersecurity Theory: Ethics &lpar;Make Your Choice&rpar;](https://dev.to/dharbachou/boring-cybersecurity-theory-ethics-make-your-choice-4ic1)
-- [How to Build a Full-Spectrum API Testing Strategy with the Quadrant &amp; Pyramid](https://dev.to/dmitrybaraishuk/how-to-build-a-full-spectrum-api-testing-strategy-with-the-quadrant-pyramid-5439)
-- [Amazon Interview Experience: Rejected After Four Rounds of Interviews!](https://dev.to/_1c38abf3f8630eeac6180/amazon-interview-experience-rejected-after-four-rounds-of-interviews-5bb2)
-- [WSGI vs ASGI: Complete Guide](https://dev.to/mcheremnov/wsgi-vs-asgi-complete-guide-466f)
-- [The GitOps maturity model](https://dev.to/_steve_fenton_/the-gitops-maturity-model-3di2)
+- [What Port Does Ping Use?](https://dev.to/lightningdev123/what-port-does-ping-use-2n78)
+- [NPR Music: Guster: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-guster-tiny-desk-concert-oio)
+- [IGN: Project Spectrum - Exclusive Gameplay Trailer](https://dev.to/gg_news/ign-project-spectrum-exclusive-gameplay-trailer-5i3)
+- [IGN: Project Remind - Official Announcement Trailer](https://dev.to/gg_news/ign-project-remind-official-announcement-trailer-34pd)
+- [IGN: gamescom studio Tag 1 Livestream 2025: Borderlands 4, Call of Duty, Ninja Gaiden 4 und mehr](https://dev.to/gg_news/ign-gamescom-studio-tag-1-livestream-2025-borderlands-4-call-of-duty-ninja-gaiden-4-und-mehr-35mj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
