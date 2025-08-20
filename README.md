@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CLI for the Clueless, Learning AWS CLI Through Interactive Gaming](https://dev.to/aws-builders/cli-for-the-clueless-learning-aws-cli-through-interactive-gaming-2b5l)
-- [Introducing wasp-lib: A TypeScript Library for Simplified WebAssembly Memory Management](https://dev.to/ptprashanttripathi/introducing-wasp-lib-a-typescript-library-for-simplified-webassembly-memory-management-171l)
-- [ん, and?](https://dev.to/yowise/n-and-3mn1)
-- [Embedding Emotion: Emoji Integration with Froala Editor](https://dev.to/ideradevtools/embedding-emotion-emoji-integration-with-froala-editor-4i09)
-- [How I Built an AI Photo Enhancer That Makes Your Selfies Less Tragic &lpar;Using Google Gemini &amp; Python&rpar;](https://dev.to/abdellahhallou/how-i-built-an-ai-photo-enhancer-that-makes-your-selfies-less-tragic-using-google-gemini-python-1c40)
+- [Building DeFi Apps: Why I Switched from NEAR to Hyperliquid &lpar;And What You Should Know&rpar;](https://dev.to/rdbwood2/building-defi-apps-why-i-switched-from-near-to-hyperliquid-and-what-you-should-know-4f3d)
+- [AWS Lambda with Go - How to Build, Deploy, and Invoke](https://dev.to/jacktt/aws-lambda-with-go-how-to-build-deploy-and-invoke-1p0o)
+- [5 Keys to Acing Your Coding Interview &lpar;That Have Nothing to Do With Code&rpar;](https://dev.to/beyond-code/5-keys-to-acing-your-coding-interview-that-have-nothing-to-do-with-code-4dkb)
+- [Title: Revolutionizing Wound Healing: The Breakthrough of a Smart Gel](https://dev.to/yagyaraj_sharma_6cd410179/title-revolutionizing-wound-healing-the-breakthrough-of-a-smart-gel-440f)
+- [Title: The Incredible Lightning Strike: A Megaflash that Broke the Record and Traveled 515 Miles!](https://dev.to/yagyaraj_sharma_6cd410179/title-the-incredible-lightning-strike-a-megaflash-that-broke-the-record-and-traveled-515-miles-35bl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
