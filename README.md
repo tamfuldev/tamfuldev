@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps Explained: The Art of Not Fighting in Prod Anymore 🔥](https://dev.to/tavernetech/devops-explained-the-art-of-not-fighting-in-prod-anymore-13pj)
-- [n8n](https://dev.to/lexycodestudio/n8n-5aoc)
-- [第3章：Qlib监督学习模型](https://dev.to/henry_lin_3ac6363747f45b4/di-3zhang-qlibjian-du-xue-xi-mo-xing-38cg)
-- [Don’t Panic Yet: Breaking Down the Latest Apache Solr RCE Vulnerability](https://dev.to/sharon_42e16b8da44dabde6d/dont-panic-yet-breaking-down-the-latest-apache-solr-rce-vulnerability-51k4)
-- [Why does IoT Pose Challenges for User Data Privacy?](https://dev.to/shriyansh_iot_98734929139/why-does-iot-pose-challenges-for-user-data-privacy-3cj3)
+- [No Laying Up Podcast: The Scottish Highlands Golf Trip | NLU Pod, Ep 1058](https://dev.to/youtube_golf/no-laying-up-podcast-the-scottish-highlands-golf-trip-nlu-pod-ep-1058-553p)
+- [Welcome Thread - v340](https://dev.to/devteam/welcome-thread-v340-3j0c)
+- [Detects Hardware Specs: What to Track and How Discovery Tools Work](https://dev.to/emily_assetloom/detects-hardware-specs-what-to-track-and-how-discovery-tools-work-29fi)
+- [Supabase WordPress Integration - Sync WordPress Posts and Pages to Supabase](https://dev.to/dalenguyen/supabase-wordpress-integration-sync-wordpress-posts-and-pages-to-supabase-28f7)
+- [Understanding Network Discovery Scan: Top Features to Look For](https://dev.to/emily_assetloom/understanding-network-discovery-scan-top-features-to-look-for-230)
 <!-- BLOG-POST-LIST:END -->
 
 ---
