@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [VPS Performance Reality Check 2025: Who’s Actually Fast &lpar;and Worth the Money&rpar;?](https://dev.to/sst21/vps-performance-reality-check-2025-whos-actually-fast-and-worth-the-money-1g6g)
-- [Python tips and tricks](https://dev.to/mcheremnov/python-tips-and-tricks-13bj)
-- [Why Most AI Startups Will Fail in 2025 — And What the Survivors Will Have in Common](https://dev.to/koolkamalkishor/why-most-ai-startups-will-fail-in-2025-and-what-the-survivors-will-have-in-common-242c)
-- [Two new Ruby podcasts from Rails Foundation and Ruby Central](https://dev.to/lucianghinda/two-new-ruby-podcasts-from-rails-foundation-and-ruby-central-207m)
-- [Why Your AI Chatbot is Dumb — And How to Fix It with AutoGPT Agents](https://dev.to/ekwoster/why-your-ai-chatbot-is-dumb-and-how-to-fix-it-with-autogpt-agents-1kep)
+- [GameSpot: The Blood of Dawnwalker First Impressions: Witcher 3 + vampires = ??](https://dev.to/gg_news/gamespot-the-blood-of-dawnwalker-first-impressions-witcher-3-vampires--510o)
+- [IGN: The Blood of Dawnwalker Is a Vampire RPG in a Big Narrative Sandbox](https://dev.to/gg_news/ign-the-blood-of-dawnwalker-is-a-vampire-rpg-in-a-big-narrative-sandbox-1bda)
+- [IGN: Stalker 2 - Official PS5 Release Date Trailer](https://dev.to/gg_news/ign-stalker-2-official-ps5-release-date-trailer-5953)
+- [IGN: Operation Stutter - Official Reveal Trailer](https://dev.to/gg_news/ign-operation-stutter-official-reveal-trailer-1273)
+- [IGN: LEGO Voyagers Might Already Be My Favorite LEGO Game Ever](https://dev.to/gg_news/ign-lego-voyagers-might-already-be-my-favorite-lego-game-ever-4og4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
