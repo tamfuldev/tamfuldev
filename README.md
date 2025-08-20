@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Few projects up. I&#39;m in the process of finding all projects I&#39;ve done since 2018. From Ghost Production to Coding Course Creation, Automation, Shopify Web Development, Webflow Web Development and Mixing Engineering https://vicentereyes.org/works](https://dev.to/highcenburg/few-projects-up-im-in-the-process-of-finding-all-projects-ive-done-since-2018-from-ghost-328g)
-- [The Great AI Capability Illusion](https://dev.to/rawveg/the-great-ai-capability-illusion-3p6i)
-- [Few projects up https://vicentereyes.org/works](https://dev.to/highcenburg/few-projects-up-httpsvicentereyesorgworks-3jik)
-- [AI-Powered Data Engineering &amp; Analytics Solutions for Enterprises](https://dev.to/razorpod_seo_0a69ce36e98f/ai-powered-data-engineering-analytics-solutions-for-enterprises-p8l)
-- [Introducing Wasapia: AI Call Agents That Answer, Book &amp; Support Customers 24/7](https://dev.to/aledb/introducing-wasapia-ai-call-agents-that-answer-book-support-customers-247-3fkh)
+- [DeepSeek V3.1 Complete Evaluation Analysis: The New AI Programming Benchmark for 2025](https://dev.to/czmilo/deepseek-v31-complete-evaluation-analysis-the-new-ai-programming-benchmark-for-2025-58jc)
+- [Building Treazurex — Weeks 3–5](https://dev.to/raimi_dikamona/building-treazurex-weeks-3-5-3mla)
+- [KEXP: Barrington Levy - A FI YUH &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-barrington-levy-a-fi-yuh-live-on-kexp-22ac)
+- [In Và Xuất Dữ Liệu Trong Java - Hướng Dẫn Chi Tiết](https://dev.to/javahighlight/in-va-xuat-du-lieu-trong-java-huong-dan-chi-tiet-24gm)
+- [KEXP: Barrington Levy - Black Roses / Here I Come &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-barrington-levy-black-roses-here-i-come-live-on-kexp-2od2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
