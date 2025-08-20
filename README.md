@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Role of General Graphics Interface &lpar;GGI&rpar; in Enabling Portable and Secure Graphics Applications](https://dev.to/abhijith_rs_04018cf67d112/the-role-of-general-graphics-interface-ggi-in-enabling-portable-and-secure-graphics-applications-3c9p)
-- [Time Complexity &lpar;Big-O Notation&rpar; in Algorithms](https://dev.to/davinceleecode/time-complexity-big-o-notation-in-algorithms-22lf)
-- [How to secure your Azure Storage with Microsoft Defender for Storage](https://dev.to/techielass/how-to-secure-your-azure-storage-with-microsoft-defender-for-storage-2h4h)
-- [Latest Trends in Mobile App Test Automation for 2025](https://dev.to/maria_bueno/latest-trends-in-mobile-app-test-automation-for-2025-2o6d)
-- [Understanding Database Indexes: A Comprehensive Guide day 33 of sytem design basics](https://dev.to/vincenttommi/understanding-database-indexes-a-comprehensive-guide-day-33-of-sytem-design-basics-5dea)
+- [10 Clean Code Principles Every Developer Should Follow ✨](https://dev.to/fludapp/10-clean-code-principles-every-developer-should-follow-51k3)
+- [Why Testing?](https://dev.to/szabgab/why-testing-578n)
+- [Real-Time Email Notifications in .NET Using Microsoft Graph API](https://dev.to/madusanka_bandara/real-time-email-notifications-in-net-using-microsoft-graph-api-3f71)
+- [How I automated typing for coding tutorials with C# &lpar;introducing ChoreoTyper&rpar;](https://dev.to/sarmis/how-i-automated-typing-for-coding-tutorials-with-c-introducing-choreotyper-2f6f)
+- [Learn about 11 hidden HTML tags that can make your web development easier, improve your website&#39;s functionality, and boost SEO. Great for beginners and experts!](https://dev.to/web_dev-usman/learn-about-11-hidden-html-tags-that-can-make-your-web-development-easier-improve-your-websites-1459)
 <!-- BLOG-POST-LIST:END -->
 
 ---
