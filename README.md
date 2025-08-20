@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [10 Clean Code Principles Every Developer Should Follow ✨](https://dev.to/fludapp/10-clean-code-principles-every-developer-should-follow-51k3)
-- [Why Testing?](https://dev.to/szabgab/why-testing-578n)
-- [Real-Time Email Notifications in .NET Using Microsoft Graph API](https://dev.to/madusanka_bandara/real-time-email-notifications-in-net-using-microsoft-graph-api-3f71)
-- [How I automated typing for coding tutorials with C# &lpar;introducing ChoreoTyper&rpar;](https://dev.to/sarmis/how-i-automated-typing-for-coding-tutorials-with-c-introducing-choreotyper-2f6f)
-- [Learn about 11 hidden HTML tags that can make your web development easier, improve your website&#39;s functionality, and boost SEO. Great for beginners and experts!](https://dev.to/web_dev-usman/learn-about-11-hidden-html-tags-that-can-make-your-web-development-easier-improve-your-websites-1459)
+- [Boring Cybersecurity Theory: Ethics &lpar;Make Your Choice&rpar;](https://dev.to/dharbachou/boring-cybersecurity-theory-ethics-make-your-choice-4ic1)
+- [How to Build a Full-Spectrum API Testing Strategy with the Quadrant &amp; Pyramid](https://dev.to/dmitrybaraishuk/how-to-build-a-full-spectrum-api-testing-strategy-with-the-quadrant-pyramid-5439)
+- [Amazon Interview Experience: Rejected After Four Rounds of Interviews!](https://dev.to/_1c38abf3f8630eeac6180/amazon-interview-experience-rejected-after-four-rounds-of-interviews-5bb2)
+- [WSGI vs ASGI: Complete Guide](https://dev.to/mcheremnov/wsgi-vs-asgi-complete-guide-466f)
+- [The GitOps maturity model](https://dev.to/_steve_fenton_/the-gitops-maturity-model-3di2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
