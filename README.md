@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Step-by-Step Guide: Building a Smart Fence Cost Estimator Using Node.js](https://dev.to/emily_johnson_dev/step-by-step-guide-building-a-smart-fence-cost-estimator-using-nodejs-507)
-- [This was great! Had to share it.](https://dev.to/juanperez/this-was-great-had-to-share-it-530b)
-- [RustMailer: A Self-Hosted IMAP/SMTP Middleware for Developers](https://dev.to/rustmailer_39a575ac86abbf/rustmailer-a-self-hosted-imapsmtp-middleware-for-developers-27o)
-- [Gareth David Studio: Design CAROUSEL Social Media Posts In InDesign | Design Tutorial](https://dev.to/design_youtube/gareth-david-studio-design-carousel-social-media-posts-in-indesign-design-tutorial-5ff6)
-- [Hacking Hidden Paths with ffuf - Web Fuzzing Made Simple](https://dev.to/jadijadi/hacking-hidden-paths-with-ffuf-web-fuzzing-made-simple-4ne)
+- [Smart Contracts Showdown: NEAR vs. Ethereum, Who’s Got the Edge?](https://dev.to/success_65769608047ae3b47/smart-contracts-showdown-near-vs-ethereum-whos-got-the-edge-50f0)
+- [How I Built a Social Network with AI &lpar;and a 3-Person Team&rpar;](https://dev.to/sampseiol1/how-i-built-a-social-network-with-ai-and-a-3-person-team-2cnk)
+- [What happens inside the computer when you run your Go server](https://dev.to/turjoc120/what-happens-inside-the-computer-when-you-run-your-go-server-165n)
+- [The Aetherian Altar](https://dev.to/shepherd_1ec15ed8e8d85ced/the-aetherian-altar-324c)
+- [KIB in Batch](https://dev.to/benja2998/kib-in-batch-1n1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
