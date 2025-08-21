@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Waterfall Model](https://dev.to/outsourcedigest/waterfall-model-2ip4)
-- [The Journey of a 2.0 Newbie](https://dev.to/irene_githundi_fc0fcb5d1c/the-journey-of-a-20-newbie-5263)
-- [&quot;Data Analytics as the Catalyst for Business Evolution&quot;](https://dev.to/ashwin_pps_365864ef843ec2/data-analytics-as-the-catalyst-for-business-evolution-825)
-- [LeetCode #28. Find the Index of the First Occurrence in a String](https://dev.to/desiato/leetcode-28-find-the-index-of-the-first-occurrence-in-a-string-2iji)
-- [El punto de partida de DDD: Hablar el idioma del negocio](https://dev.to/boceto1/el-punto-de-partida-de-ddd-hablar-el-idioma-del-negocio-36m8)
+- [Conference Chatter: What, You Too?](https://dev.to/linkbenjamin/conference-chatter-what-you-too-523a)
+- [Part-18: Google Compute Engine Sole-Tenant Nodes in Google Cloud Platform &lpar;GCP&rpar;](https://dev.to/latchudevops/part-18-google-compute-engine-sole-tenant-nodes-in-google-cloud-platform-gcp-4lkp)
+- [Document Parsing using GPT-4o API vs Claude Sonnet 3.5 API vs Invofox API &lpar;with Code Samples&rpar;](https://dev.to/anmolbaranwal/document-parsing-using-gpt-4o-api-vs-claude-sonnet-35-api-vs-invofox-api-with-code-samples-56h2)
+- [KEXP: Khu éex&#39; - Music Heals &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-khu-eex-music-heals-live-on-kexp-4cn4)
+- [KEXP: Khu éex&#39; - T Funk &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-khu-eex-t-funk-live-on-kexp-1470)
 <!-- BLOG-POST-LIST:END -->
 
 ---
