@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Think You Know the DOM? Prove It With These 10 Exercises!](https://dev.to/codeguage/think-you-know-the-dom-prove-it-with-these-10-exercises-19gh)
-- [🎨 Code Meets Design — The Portfolio of Amelia Wattenberger](https://dev.to/ml318097/code-meets-design-the-portfolio-of-amelia-wattenberger-5843)
-- [Building an Autonomous Token Deployment Agent on Celo](https://dev.to/gaiaai/building-an-autonomous-token-deployment-agent-on-celo-30c1)
-- [What cookie consent libraries do you use? 🍪 Looking for something easy to integrate, multi-language, customizable, and GDPR-friendly. Do you prefer big tools like Cookiebot/OneTrust or lightweight open-source solutions?](https://dev.to/kunytskyi/what-cookie-consent-libraries-do-you-use-looking-for-something-easy-to-integrate-gnb)
-- [The 2025 Guide to Building Scalable React Apps](https://dev.to/bhavendra/the-2025-guide-to-building-scalable-react-apps-b5l)
+- [KEXP: Khu éex&#39; - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-khu-eex-full-performance-live-on-kexp-h6e)
+- [Noisey: Where British Music Begins: Inside the Community That Shaped Ezra Collective’s Femi Koleoso](https://dev.to/music_youtube/noisey-where-british-music-begins-inside-the-community-that-shaped-ezra-collectives-femi-koleoso-1i4h)
+- [Tech With Tim: 6 Hours of JavaScript Projects - From Beginner to Advanced](https://dev.to/vibe_youtube/tech-with-tim-6-hours-of-javascript-projects-from-beginner-to-advanced-16f6)
+- [GameSpot: 12 Minutes of Cinder City Gameplay | gamescom 2025](https://dev.to/gg_news/gamespot-12-minutes-of-cinder-city-gameplay-gamescom-2025-44j5)
+- [GameSpot: Hollow Knight: Silksong - Official Release Date Reveal Gameplay Trailer](https://dev.to/gg_news/gamespot-hollow-knight-silksong-official-release-date-reveal-gameplay-trailer-1eo2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
