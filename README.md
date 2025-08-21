@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [git create branch from main](https://dev.to/pheak_pheasa/git-create-branch-from-main-3f98)
-- [🚀 Why Every Developer Needs DevToys: The Swiss Army Knife You Didn’t Know You Needed](https://dev.to/jakpren/why-every-developer-needs-devtoys-the-swiss-army-knife-you-didnt-know-you-needed-3bo4)
-- [Exstaxio:My Brand](https://dev.to/ibukuntech07/exstaxiomy-brand-ic2)
-- [The Hidden Cost of Technical Debt: A $180K Reality Check](https://dev.to/himanshi_sharma_e00a173c2/the-hidden-cost-of-technical-debt-a-180k-reality-check-1ppj)
-- [Linus Tech Tips &lpar;LTT&rpar;: I Can&#39;t Stop You From Buying This... But I&#39;ll Try - GeForce RTX 5050 Gaming GPU Review](https://dev.to/future_youtube/linus-tech-tips-ltt-i-cant-stop-you-from-buying-this-but-ill-try-geforce-rtx-5050-gaming-1a2i)
+- [Critical SQL Injection in Kingsoft Endpoint Security V9 — Patch Now](https://dev.to/sharon_42e16b8da44dabde6d/critical-sql-injection-in-kingsoft-endpoint-security-v9-patch-now-14do)
+- [Setting up local Supabase when migration scripts error out](https://dev.to/tomokat/setting-up-local-supabase-when-migration-scripts-error-out-4k60)
+- [The Rise of Open AI Models: Privacy, Control, and a New Era](https://dev.to/semiautomatix/the-rise-of-open-ai-models-privacy-control-and-a-new-era-26j1)
+- [WebAssembly 基础（一）](https://dev.to/yangholmes/webassembly-ji-chu--32kb)
+- [Build a Serverless Contact Form with Lambda + API Gateway + SES 📩](https://dev.to/yash_sonawane25/build-a-serverless-contact-form-with-lambda-api-gateway-ses-22on)
 <!-- BLOG-POST-LIST:END -->
 
 ---
