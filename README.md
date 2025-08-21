@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Khu éex&#39; - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-khu-eex-full-performance-live-on-kexp-h6e)
-- [Noisey: Where British Music Begins: Inside the Community That Shaped Ezra Collective’s Femi Koleoso](https://dev.to/music_youtube/noisey-where-british-music-begins-inside-the-community-that-shaped-ezra-collectives-femi-koleoso-1i4h)
-- [Tech With Tim: 6 Hours of JavaScript Projects - From Beginner to Advanced](https://dev.to/vibe_youtube/tech-with-tim-6-hours-of-javascript-projects-from-beginner-to-advanced-16f6)
-- [GameSpot: 12 Minutes of Cinder City Gameplay | gamescom 2025](https://dev.to/gg_news/gamespot-12-minutes-of-cinder-city-gameplay-gamescom-2025-44j5)
-- [GameSpot: Hollow Knight: Silksong - Official Release Date Reveal Gameplay Trailer](https://dev.to/gg_news/gamespot-hollow-knight-silksong-official-release-date-reveal-gameplay-trailer-1eo2)
+- [Bryan Bros Golf: Youtube Golf ALT Shot Championship](https://dev.to/youtube_golf/bryan-bros-golf-youtube-golf-alt-shot-championship-4o5l)
+- [Peter Finch Golf: Can I BREAK 60 with Iona Stephen?!](https://dev.to/youtube_golf/peter-finch-golf-can-i-break-60-with-iona-stephen-1fd0)
+- [Linus Tech Tips &lpar;LTT&rpar;: The Final Form of this Case Looks AMAZING](https://dev.to/future_youtube/linus-tech-tips-ltt-the-final-form-of-this-case-looks-amazing-5gle)
+- [GameSpot: Dead As Disco Is Probably The Most Fun Game At Gamescom 2025](https://dev.to/gg_news/gamespot-dead-as-disco-is-probably-the-most-fun-game-at-gamescom-2025-40hd)
+- [GameSpot: 44 Minutes of High On Life 2 Gameplay from gamescom 2025](https://dev.to/gg_news/gamespot-44-minutes-of-high-on-life-2-gameplay-from-gamescom-2025-5e93)
 <!-- BLOG-POST-LIST:END -->
 
 ---
