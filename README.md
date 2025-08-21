@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [BEIDI DINA SAMUEL : Le spécialiste qui Bâtit la Cybersécurité depuis Maroua](https://dev.to/samglish/beidi-dina-samuel-le-specialiste-qui-batit-la-cybersecurite-depuis-maroua-4dfm)
 - [Polyphonic: Why Does Jazz Use Those Instruments?](https://dev.to/music_youtube/polyphonic-why-does-jazz-use-those-instruments-468c)
 - [IGN: Hollow Knight: Silksong Release Date Trailer Reaction Livestream | gamescom 2025](https://dev.to/gg_news/ign-hollow-knight-silksong-release-date-trailer-reaction-livestream-gamescom-2025-56fo)
 - [We now allow links in quickies. Any link included will show up in the post. This is the merged PR: https://github.com/forem/forem/pull/22229](https://dev.to/ben/we-now-allow-links-in-quickies-any-link-included-will-show-up-in-the-post-this-is-the-merged-pr-50kk)
 - [Let&#39;s see if this works https://dev.to](https://dev.to/ben/lets-see-if-this-works-httpsdevto-42d9)
-- [Congrats to the World&#39;s Largest Hackathon Writing Challenge Winners!](https://dev.to/devteam/congrats-to-the-worlds-largest-hackathon-writing-challenge-winners-4fa3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
