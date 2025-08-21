@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Conference Chatter: What, You Too?](https://dev.to/linkbenjamin/conference-chatter-what-you-too-523a)
-- [Part-18: Google Compute Engine Sole-Tenant Nodes in Google Cloud Platform &lpar;GCP&rpar;](https://dev.to/latchudevops/part-18-google-compute-engine-sole-tenant-nodes-in-google-cloud-platform-gcp-4lkp)
-- [Document Parsing using GPT-4o API vs Claude Sonnet 3.5 API vs Invofox API &lpar;with Code Samples&rpar;](https://dev.to/anmolbaranwal/document-parsing-using-gpt-4o-api-vs-claude-sonnet-35-api-vs-invofox-api-with-code-samples-56h2)
-- [KEXP: Khu éex&#39; - Music Heals &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-khu-eex-music-heals-live-on-kexp-4cn4)
-- [KEXP: Khu éex&#39; - T Funk &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-khu-eex-t-funk-live-on-kexp-1470)
+- [🌼 Learning Out Loud: My First Steps in Web Development](https://dev.to/akshathashivakumar/learning-out-loud-my-first-steps-in-web-development-4okn)
+- [Understanding the Conditional &lpar;Ternary&rpar; Operator in Java](https://dev.to/cal_afun_2475adb4b562023b/understanding-the-conditional-ternary-operator-in-java-4l4f)
+- [Solidity Arrays](https://dev.to/loading_blocks/solidity-arrays-4in)
+- [Closure em React na prática: criando um useDebounce em 15 linhas](https://dev.to/rogeriorioli/closure-em-react-na-pratica-criando-um-usedebounce-em-15-linhas-2bjo)
+- [Integrating Push Notifications in Android &amp; iOS in 10 Minutes](https://dev.to/literally/integrating-push-notifications-in-android-ios-in-10-minutes-5ei)
 <!-- BLOG-POST-LIST:END -->
 
 ---
