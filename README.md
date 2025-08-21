@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Zero Parades &lpar;Project C4&rpar; Preview: ZA/UM’s Latest Is A Spy Fantasy](https://dev.to/gg_news/gamespot-zero-parades-project-c4-preview-zaums-latest-is-a-spy-fantasy-36ia)
-- [GameSpot: Kirby Air Riders City Trial Meta Knight Gameplay &lpar;Off Screen Filmed Footage&rpar;](https://dev.to/gg_news/gamespot-kirby-air-riders-city-trial-meta-knight-gameplay-off-screen-filmed-footage-218f)
-- [IGN: Hollow Knight: Silksong Gameplay &lpar;Off-Screen&rpar; | gamescom 2025](https://dev.to/gg_news/ign-hollow-knight-silksong-gameplay-off-screen-gamescom-2025-2nem)
-- [IGN: Hollow Knight: Silksong - We&#39;ve Played It! | gamescom 2025](https://dev.to/gg_news/ign-hollow-knight-silksong-weve-played-it-gamescom-2025-2ol1)
-- [IGN: gamescom studio Tag 2 Livestream 2025: The Outer Worlds 2, Replaced und vieles mehr](https://dev.to/gg_news/ign-gamescom-studio-tag-2-livestream-2025-the-outer-worlds-2-replaced-und-vieles-mehr-1d2e)
+- [Waterfall Model](https://dev.to/outsourcedigest/waterfall-model-2ip4)
+- [The Journey of a 2.0 Newbie](https://dev.to/irene_githundi_fc0fcb5d1c/the-journey-of-a-20-newbie-5263)
+- [&quot;Data Analytics as the Catalyst for Business Evolution&quot;](https://dev.to/ashwin_pps_365864ef843ec2/data-analytics-as-the-catalyst-for-business-evolution-825)
+- [LeetCode #28. Find the Index of the First Occurrence in a String](https://dev.to/desiato/leetcode-28-find-the-index-of-the-first-occurrence-in-a-string-2iji)
+- [El punto de partida de DDD: Hablar el idioma del negocio](https://dev.to/boceto1/el-punto-de-partida-de-ddd-hablar-el-idioma-del-negocio-36m8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
