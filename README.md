@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Smart Contracts Showdown: NEAR vs. Ethereum, Who’s Got the Edge?](https://dev.to/success_65769608047ae3b47/smart-contracts-showdown-near-vs-ethereum-whos-got-the-edge-50f0)
-- [How I Built a Social Network with AI &lpar;and a 3-Person Team&rpar;](https://dev.to/sampseiol1/how-i-built-a-social-network-with-ai-and-a-3-person-team-2cnk)
-- [What happens inside the computer when you run your Go server](https://dev.to/turjoc120/what-happens-inside-the-computer-when-you-run-your-go-server-165n)
-- [The Aetherian Altar](https://dev.to/shepherd_1ec15ed8e8d85ced/the-aetherian-altar-324c)
-- [KIB in Batch](https://dev.to/benja2998/kib-in-batch-1n1)
+- [git create branch from main](https://dev.to/pheak_pheasa/git-create-branch-from-main-3f98)
+- [🚀 Why Every Developer Needs DevToys: The Swiss Army Knife You Didn’t Know You Needed](https://dev.to/jakpren/why-every-developer-needs-devtoys-the-swiss-army-knife-you-didnt-know-you-needed-3bo4)
+- [Exstaxio:My Brand](https://dev.to/ibukuntech07/exstaxiomy-brand-ic2)
+- [The Hidden Cost of Technical Debt: A $180K Reality Check](https://dev.to/himanshi_sharma_e00a173c2/the-hidden-cost-of-technical-debt-a-180k-reality-check-1ppj)
+- [Linus Tech Tips &lpar;LTT&rpar;: I Can&#39;t Stop You From Buying This... But I&#39;ll Try - GeForce RTX 5050 Gaming GPU Review](https://dev.to/future_youtube/linus-tech-tips-ltt-i-cant-stop-you-from-buying-this-but-ill-try-geforce-rtx-5050-gaming-1a2i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
