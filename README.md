@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Adam Savage&#39;s Tested: What Happened to the Mechanical Shark from Jaws?](https://dev.to/maker_youtube/adam-savages-tested-what-happened-to-the-mechanical-shark-from-jaws-2n89)
-- [KEXP: They Might Be Giants - Doctor Worm &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-they-might-be-giants-doctor-worm-live-on-kexp-59n5)
-- [KEXP: They Might Be Giants - Let Me Tell You About My Operation &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-they-might-be-giants-let-me-tell-you-about-my-operation-live-on-kexp-15m6)
-- [KEXP: They Might Be Giants - Moonbeam Rays / Ana Ng &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-they-might-be-giants-moonbeam-rays-ana-ng-live-on-kexp-17n2)
-- [KEXP: They Might Be Giants - Synopsis For Latecomers &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-they-might-be-giants-synopsis-for-latecomers-live-on-kexp-3553)
+- [Right-Sizing Kubernetes Resources with VPA and Karpenter](https://dev.to/devopsdaily/right-sizing-kubernetes-resources-with-vpa-and-karpenter-22ah)
+- [New Demo Videos from the n8n and Bright Data Teams for the Real-Time AI Agents Challenge!](https://dev.to/devteam/new-demo-videos-from-the-n8n-and-bright-data-teams-for-the-real-time-ai-agents-challenge-3of3)
+- [Explicit transparent bot accounts will soon be a thing — which will be a small part of moderating out AI slop. Transparently automated content has a place, but it should be clear when it occurs. https://github.com/forem/forem/pull/22232](https://dev.to/ben/explicit-transparent-bot-accounts-will-soon-be-a-thing-which-will-be-a-small-part-of-moderating-2nfc)
+- [NDC Conferences: Navigating through the Azure Messaging &lpar;over&rpar;choice -](https://dev.to/scale_youtube/ndc-conferences-navigating-through-the-azure-messaging-overchoice--5die)
+- [NDC Conferences: IaC Forged in Code: ARM/Bicep vs Terraform vs Pulumi - Mike Benkovich - NDC Oslo 2025](https://dev.to/scale_youtube/ndc-conferences-iac-forged-in-code-armbicep-vs-terraform-vs-pulumi-mike-benkovich-ndc-oslo-1k13)
 <!-- BLOG-POST-LIST:END -->
 
 ---
