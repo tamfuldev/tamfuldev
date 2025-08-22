@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Project of the Week: n8n](https://dev.to/pullflow/project-of-the-week-n8n-12g6)
-- [[Boost]](https://dev.to/ben/-3poc)
-- [Nest.js deep dive series: The simplest Nest application with JavaScript](https://dev.to/ivadyhabimana/nestjs-deep-dive-series-the-simplest-nest-application-with-javascript-27ed)
-- [Build a RAG application with LangChain and Local LLMs powered by Ollama](https://dev.to/abhirockzz/build-a-rag-application-with-langchain-and-local-llms-powered-by-ollama-3el5)
-- [Part-21: Compute Engine Storage - Key Management Service &lpar;Cloud KMS&rpar; in Google Cloud Platform &lpar;GCP&rpar;](https://dev.to/latchudevops/part-21-compute-engine-storage-key-management-service-cloud-kms-in-google-cloud-platform-gcp-39a5)
+- [Adam Savage&#39;s Tested: What Happened to the Mechanical Shark from Jaws?](https://dev.to/maker_youtube/adam-savages-tested-what-happened-to-the-mechanical-shark-from-jaws-2n89)
+- [KEXP: They Might Be Giants - Doctor Worm &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-they-might-be-giants-doctor-worm-live-on-kexp-59n5)
+- [KEXP: They Might Be Giants - Let Me Tell You About My Operation &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-they-might-be-giants-let-me-tell-you-about-my-operation-live-on-kexp-15m6)
+- [KEXP: They Might Be Giants - Moonbeam Rays / Ana Ng &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-they-might-be-giants-moonbeam-rays-ana-ng-live-on-kexp-17n2)
+- [KEXP: They Might Be Giants - Synopsis For Latecomers &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-they-might-be-giants-synopsis-for-latecomers-live-on-kexp-3553)
 <!-- BLOG-POST-LIST:END -->
 
 ---
