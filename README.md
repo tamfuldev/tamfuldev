@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Linus Tech Tips &lpar;LTT&rpar;: Who can Build the Best $1000 Gaming PC?](https://dev.to/future_youtube/linus-tech-tips-ltt-who-can-build-the-best-1000-gaming-pc-2n5h)
-- [The Game Theorists: Game Theory: Mario Kart World Should NOT Exist…](https://dev.to/gg_news/the-game-theorists-game-theory-mario-kart-world-should-not-exist-4pgg)
-- [GameSpot: 25 Minutes of Valor Mortis Gameplay with Boss Fight | gamescom 2025](https://dev.to/gg_news/gamespot-25-minutes-of-valor-mortis-gameplay-with-boss-fight-gamescom-2025-1me7)
-- [IGN: Just How BIG is gamescom? Let&#39;s Find Out | gamescom 2025](https://dev.to/gg_news/ign-just-how-big-is-gamescom-lets-find-out-gamescom-2025-5hl2)
-- [🚀 LeetCode 3197: Covering All Ones with 3 Rectangles &lpar;C++, Python &amp; Java&rpar;🚀](https://dev.to/om_shree_0709/leetcode-3197-covering-all-ones-with-3-rectangles-c-python-java-40fd)
+- [Grant Horvat: Can I Break a Course Record with Garrett Clark?](https://dev.to/youtube_golf/grant-horvat-can-i-break-a-course-record-with-garrett-clark-5c23)
+- [GameSpot: Valor Mortis Hands-On Impressions](https://dev.to/gg_news/gamespot-valor-mortis-hands-on-impressions-5a65)
+- [IGN: Hollow Knight Reaches New Franchise Record on Steam - IGN Daily Fix](https://dev.to/gg_news/ign-hollow-knight-reaches-new-franchise-record-on-steam-ign-daily-fix-45ii)
+- [Best Service Virtualization Tools: Detailed Comparison](https://dev.to/artibol/best-service-virtualization-tools-detailed-comparison-m49)
+- [Um Primeiro Olhar no Eclipse JNoSQL: Oracle NoSQL e Quarkus para Quem Está Começando](https://dev.to/dellamas/um-primeiro-olhar-no-eclipse-jnosql-oracle-nosql-e-quarkus-para-quem-esta-comecando-23c8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
