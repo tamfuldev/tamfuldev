@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How AI Agents Are Revolutionizing Workflow Automation](https://dev.to/onlineproxy/how-ai-agents-are-revolutionizing-workflow-automation-alb)
-- [My AI Blog](https://dev.to/harsh_sanghavi_25a7dc69dc/my-ai-blog-5a13)
-- [EMSCRIPTEN File System 入门](https://dev.to/yangholmes/emscripten-file-system-ru-men-43bh)
-- [How to Design Systems That Evolve With Business Needs](https://dev.to/dct_technology/how-to-design-systems-that-evolve-with-business-needs-4d6b)
-- [Introducing Palette Box: Streamline Your Design Workflow](https://dev.to/palettebox_official/introducing-palette-box-streamline-your-design-workflow-3p3p)
+- [GitOps and DevOps: Are they the same thing?](https://dev.to/techielass/gitops-and-devops-are-they-the-same-thing-2kcn)
+- [The Awareness Paradox — How Attention Makes Us Brilliant and Blind🧠🔦🤹](https://dev.to/abhishek_gautam-01/the-awareness-paradox-how-attention-makes-us-brilliant-and-blind-4icc)
+- [JustSimple.tools – A Curated Directory of Simple Tools for Indie Hackers](https://dev.to/killer_scofield_d2f41df11/justsimpletools-a-curated-directory-of-simple-tools-for-indie-hackers-4o35)
+- [Building EUDR Compliance Made Simple: A Complete Guide to www.eudr-api.eu](https://dev.to/marko_frnti_4a64e26156fc/building-eudr-compliance-made-simple-a-complete-guide-to-wwweudr-apieu-8ml)
+- [Go Coding with Asparagos: The Smartest Peanut in the Neighborhood](https://dev.to/asparagos/go-coding-with-asparagos-the-smartest-peanut-in-the-neighborhood-3o92)
 <!-- BLOG-POST-LIST:END -->
 
 ---
