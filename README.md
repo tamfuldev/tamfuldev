@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Zero to Secure: EC2 + Nginx with the Right Subnet, AZ &amp; Security Groups](https://dev.to/peter_samuel_052b9056e236/from-zero-to-secure-ec2-nginx-with-the-right-subnet-az-security-groups-33a0)
-- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_74898956/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-25a)
-- [Olá a todos! Fiz um artigo passo a passo para configurar ferramentas de arquitetura para o angular 20, como o prettier, ESlint e o husky!](https://dev.to/devgustavus/ola-a-todos-fiz-um-artigo-passo-a-passo-para-configurar-ferramentas-de-arquitetura-para-o-angular-260d)
-- [Configurando ESLint + Prettier + Husky no Angular&lpar;20&rpar;](https://dev.to/devgustavus/configurando-eslint-prettier-husky-no-angular20-2j35)
-- [🛳️ Docker Series: Episode 4 — Dockerfile for Beginners: Build Your Own Container Image](https://dev.to/yash_sonawane25/docker-series-episode-4-dockerfile-for-beginners-build-your-own-container-image-4kik)
+- [Walter Writes AI Review](https://dev.to/cblitz/walter-writes-ai-review-3i1l)
+- [8 Lucide Icons Alternatives That Offer Better Icons](https://dev.to/masumparvej/8-best-lucide-icons-alternatives-for-modern-ui-projects-52j8)
+- [Discord Fonts Generator](https://dev.to/rajesh_mondal_cded2f82459/discord-fonts-generator-3i4f)
+- [High-Brightness IPS Displays: Solving the Outdoor and Industrial Visibility Problem](https://dev.to/lauraaa/high-brightness-ips-displays-solving-the-outdoor-and-industrial-visibility-problem-apm)
+- [Why I Gave Up on Functional Programming — Twice — and Still Grateful for It](https://dev.to/xinjie_zou_d67d2805538130/why-i-gave-up-on-functional-programming-twice-and-still-grateful-for-it-4opk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
