@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Learn the Different Options to Deploy Microsoft Azure Red Hat OpenShift Clusters and Prepare Your Environment](https://dev.to/sindhuja_ns_1e491ce1088d/learn-the-different-options-to-deploy-microsoft-azure-red-hat-openshift-clusters-and-prepare-your-16ip)
-- [From Old-School to AI-Driven: Creating Professional React Code from Figma](https://dev.to/bitloops/from-old-school-to-ai-driven-creating-professional-react-code-from-figma-2139)
-- [How We Built a PaaS with Go, Kubernetes, and React](https://dev.to/pavel-hostim/how-we-built-a-paas-with-go-kubernetes-and-react-2edl)
-- [[Boost]](https://dev.to/sammyokun/-3c4j)
-- [great insights](https://dev.to/tanvir_azad/-3og9)
+- [Maker&#39;s Muse: What 3D printed gear is best? I built a machine to find out! EP1](https://dev.to/maker_youtube/makers-muse-what-3d-printed-gear-is-best-i-built-a-machine-to-find-out-ep1-3jc3)
+- [Adam Savage&#39;s Tested: The Last Surviving Batsuits from Batman &lpar;1989&rpar;](https://dev.to/maker_youtube/adam-savages-tested-the-last-surviving-batsuits-from-batman-1989-2jbj)
+- [Adam Savage&#39;s Tested: Bambu Lab H2S 3D Printer Review: $1250 Beast!](https://dev.to/maker_youtube/adam-savages-tested-bambu-lab-h2s-3d-printer-review-1250-beast-3ad8)
+- [Scalable ML Deployments Made Simple with KitOps and Kubernetes &lpar;No Hardware Required&rpar;](https://dev.to/jozu/scalable-ml-deployments-made-simple-with-kitops-and-kubernetes-no-hardware-required-5hao)
+- [KEXP: Coral Grief - Outback &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-coral-grief-outback-live-on-kexp-3il)
 <!-- BLOG-POST-LIST:END -->
 
 ---
