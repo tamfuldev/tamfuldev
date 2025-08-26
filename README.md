@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Maker&#39;s Muse: What 3D printed gear is best? I built a machine to find out! EP1](https://dev.to/maker_youtube/makers-muse-what-3d-printed-gear-is-best-i-built-a-machine-to-find-out-ep1-3jc3)
-- [Adam Savage&#39;s Tested: The Last Surviving Batsuits from Batman &lpar;1989&rpar;](https://dev.to/maker_youtube/adam-savages-tested-the-last-surviving-batsuits-from-batman-1989-2jbj)
-- [Adam Savage&#39;s Tested: Bambu Lab H2S 3D Printer Review: $1250 Beast!](https://dev.to/maker_youtube/adam-savages-tested-bambu-lab-h2s-3d-printer-review-1250-beast-3ad8)
-- [Scalable ML Deployments Made Simple with KitOps and Kubernetes &lpar;No Hardware Required&rpar;](https://dev.to/jozu/scalable-ml-deployments-made-simple-with-kitops-and-kubernetes-no-hardware-required-5hao)
-- [KEXP: Coral Grief - Outback &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-coral-grief-outback-live-on-kexp-3il)
+- [💡JavaScript Shortcuts You Wish You Knew Sooner](https://dev.to/ilsa_shaikh_089e2bfab0bf4/javascript-shortcuts-you-wish-you-knew-sooner-41o7)
+- [The Developer Productivity Paradox: More Tools, Less Flow](https://dev.to/pullflow/the-developer-productivity-paradox-more-tools-less-flow-2if2)
+- [How to Build a Strong RAG Agent &lpar;Step-by-Step Guide&rpar; by David Malick Dieng](https://dev.to/davidmalickdieng/how-to-build-a-strong-rag-agent-step-by-step-guideby-david-malick-dieng-2cdo)
+- [Team Sheets, helping you organise team games with just a swipe](https://dev.to/cchana/team-sheets-helping-you-organise-team-games-with-just-a-swipe-4aj8)
+- [Secure ArgoCD Multi-Cluster Deployment in AWS EKS with IRSA](https://dev.to/dedicatted/secure-argocd-multi-cluster-deployment-in-aws-eks-with-irsa-36mj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
