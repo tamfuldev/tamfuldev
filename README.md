@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Infrastructure pipelines: the core of Continuous Integration](https://dev.to/u11d/infrastructure-pipelines-the-core-of-continuous-integration-2emb)
-- [NestJS @Cron jobs stop firing when app runs as Windows service](https://dev.to/dhil_rohith_ec2e0e9793ea6/nestjs-cron-jobs-stop-firing-when-app-runs-as-windows-service-49k0)
-- [Innovative Case Studies of Generative AI Transforming Healthcare Services](https://dev.to/ravi_teja_4/innovative-case-studies-of-generative-ai-transforming-healthcare-services-1n39)
-- [AI Mock Interview：Real-time AI mock interviews enhance interview skills](https://dev.to/jackm_345442a09fb53b/ai-mock-interviewreal-time-ai-mock-interviews-enhance-interview-skills-43b7)
-- [Your First Day, Powered by AI: How to Welcome New Hires with a Personalized, Engaging Experience](https://dev.to/sonu_kumar_0b99b256a515bb/your-first-day-powered-by-ai-how-to-welcome-new-hires-with-a-personalized-engaging-experience-5a73)
+- [[Boost]](https://dev.to/hadil/-4a8e)
+- [I Supercharged My Browser GPT with Rust and WebAssembly: The Journey to a Dual-Engine AI](https://dev.to/xzdes/i-supercharged-my-browser-gpt-with-rust-and-webassembly-the-journey-to-a-dual-engine-ai-3ili)
+- [Angular 20 Is Here: Signals, Zoneless, and the Future of Web Development ⚡](https://dev.to/koolkamalkishor/angular-20-is-here-signals-zoneless-and-the-future-of-web-development-1eoe)
+- [What Can You Create with Particle Animation in HarmonyOS?](https://dev.to/harmonyos/what-can-you-create-with-particle-animation-in-harmonyos-4j82)
+- [Phase 4.5: Spec as Source of Truth - Rethinking Development Workflow](https://dev.to/maksim_matlakhov/phase-45-spec-as-source-of-truth-rethinking-development-workflow-40om)
 <!-- BLOG-POST-LIST:END -->
 
 ---
