@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GitOps and DevOps: Are they the same thing?](https://dev.to/techielass/gitops-and-devops-are-they-the-same-thing-2kcn)
-- [The Awareness Paradox — How Attention Makes Us Brilliant and Blind🧠🔦🤹](https://dev.to/abhishek_gautam-01/the-awareness-paradox-how-attention-makes-us-brilliant-and-blind-4icc)
-- [JustSimple.tools – A Curated Directory of Simple Tools for Indie Hackers](https://dev.to/killer_scofield_d2f41df11/justsimpletools-a-curated-directory-of-simple-tools-for-indie-hackers-4o35)
-- [Building EUDR Compliance Made Simple: A Complete Guide to www.eudr-api.eu](https://dev.to/marko_frnti_4a64e26156fc/building-eudr-compliance-made-simple-a-complete-guide-to-wwweudr-apieu-8ml)
-- [Go Coding with Asparagos: The Smartest Peanut in the Neighborhood](https://dev.to/asparagos/go-coding-with-asparagos-the-smartest-peanut-in-the-neighborhood-3o92)
+- [Infrastructure pipelines: the core of Continuous Integration](https://dev.to/u11d/infrastructure-pipelines-the-core-of-continuous-integration-2emb)
+- [NestJS @Cron jobs stop firing when app runs as Windows service](https://dev.to/dhil_rohith_ec2e0e9793ea6/nestjs-cron-jobs-stop-firing-when-app-runs-as-windows-service-49k0)
+- [Innovative Case Studies of Generative AI Transforming Healthcare Services](https://dev.to/ravi_teja_4/innovative-case-studies-of-generative-ai-transforming-healthcare-services-1n39)
+- [AI Mock Interview：Real-time AI mock interviews enhance interview skills](https://dev.to/jackm_345442a09fb53b/ai-mock-interviewreal-time-ai-mock-interviews-enhance-interview-skills-43b7)
+- [Your First Day, Powered by AI: How to Welcome New Hires with a Personalized, Engaging Experience](https://dev.to/sonu_kumar_0b99b256a515bb/your-first-day-powered-by-ai-how-to-welcome-new-hires-with-a-personalized-engaging-experience-5a73)
 <!-- BLOG-POST-LIST:END -->
 
 ---
