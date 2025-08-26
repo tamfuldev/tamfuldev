@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My AI Blog](https://dev.to/twisha_gami_f310d22de9a0e/my-ai-blog-14mp)
-- [Target SDK Updates Are Breaking Apps in 2025 — Here’s the Fix Google Won’t Tell You](https://dev.to/vaibhav_shakya_e6b352bfc4/target-sdk-updates-are-breaking-apps-in-2025-heres-the-fix-google-wont-tell-you-2mi6)
-- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_74898956/you-might-not-need-websockets-the-simple-power-of-server-sent-events-4o1g)
-- [What can i do about my consistency? one day i studied about 8 hrs, next day i feel down any suggeastions?](https://dev.to/sagardevx/what-can-i-do-about-my-consistency-one-day-i-studied-about-8-hrs-next-day-i-feel-down-any-3mee)
-- [MongoDB Hands-on: Working with a Zomato Restaurants Dataset](https://dev.to/prasanna_kumart_/mongodb-hands-on-working-with-a-zomato-restaurants-dataset-5ad4)
+- [How AI Agents Are Revolutionizing Workflow Automation](https://dev.to/onlineproxy/how-ai-agents-are-revolutionizing-workflow-automation-alb)
+- [My AI Blog](https://dev.to/harsh_sanghavi_25a7dc69dc/my-ai-blog-5a13)
+- [EMSCRIPTEN File System 入门](https://dev.to/yangholmes/emscripten-file-system-ru-men-43bh)
+- [How to Design Systems That Evolve With Business Needs](https://dev.to/dct_technology/how-to-design-systems-that-evolve-with-business-needs-4d6b)
+- [Introducing Palette Box: Streamline Your Design Workflow](https://dev.to/palettebox_official/introducing-palette-box-streamline-your-design-workflow-3p3p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
