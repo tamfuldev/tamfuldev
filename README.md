@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [College Student &amp; Course Management System](https://dev.to/krithikraja_fcc802ca9bb16/college-student-course-management-system-2am0)
-- [Kimi K2: The Game-Changing Open-Source AI That&#39;s Rewriting the Rules of Intelligent Development](https://dev.to/yashddesai/kimi-k2-the-game-changing-open-source-ai-thats-rewriting-the-rules-of-intelligent-development-2jka)
-- [Part-24: 🚀Google Compute Engine Persistent Disks &lpar;PD&rpar; Explained](https://dev.to/latchudevops/part-24-google-compute-engine-persistent-disks-pd-explained-2jo1)
-- [Walter Writes AI Review](https://dev.to/cblitz/walter-writes-ai-review-3i1l)
-- [8 Lucide Icons Alternatives That Offer Better Icons](https://dev.to/masumparvej/8-best-lucide-icons-alternatives-for-modern-ui-projects-52j8)
+- [My AI Blog](https://dev.to/twisha_gami_f310d22de9a0e/my-ai-blog-14mp)
+- [Target SDK Updates Are Breaking Apps in 2025 — Here’s the Fix Google Won’t Tell You](https://dev.to/vaibhav_shakya_e6b352bfc4/target-sdk-updates-are-breaking-apps-in-2025-heres-the-fix-google-wont-tell-you-2mi6)
+- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_74898956/you-might-not-need-websockets-the-simple-power-of-server-sent-events-4o1g)
+- [What can i do about my consistency? one day i studied about 8 hrs, next day i feel down any suggeastions?](https://dev.to/sagardevx/what-can-i-do-about-my-consistency-one-day-i-studied-about-8-hrs-next-day-i-feel-down-any-3mee)
+- [MongoDB Hands-on: Working with a Zomato Restaurants Dataset](https://dev.to/prasanna_kumart_/mongodb-hands-on-working-with-a-zomato-restaurants-dataset-5ad4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
