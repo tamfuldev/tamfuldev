@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [💡JavaScript Shortcuts You Wish You Knew Sooner](https://dev.to/ilsa_shaikh_089e2bfab0bf4/javascript-shortcuts-you-wish-you-knew-sooner-41o7)
-- [The Developer Productivity Paradox: More Tools, Less Flow](https://dev.to/pullflow/the-developer-productivity-paradox-more-tools-less-flow-2if2)
-- [How to Build a Strong RAG Agent &lpar;Step-by-Step Guide&rpar; by David Malick Dieng](https://dev.to/davidmalickdieng/how-to-build-a-strong-rag-agent-step-by-step-guideby-david-malick-dieng-2cdo)
-- [Team Sheets, helping you organise team games with just a swipe](https://dev.to/cchana/team-sheets-helping-you-organise-team-games-with-just-a-swipe-4aj8)
-- [Secure ArgoCD Multi-Cluster Deployment in AWS EKS with IRSA](https://dev.to/dedicatted/secure-argocd-multi-cluster-deployment-in-aws-eks-with-irsa-36mj)
+- [Adam Savage&#39;s Tested: Bambu Lab H2S 3D Printer Review: $1250?!](https://dev.to/maker_youtube/adam-savages-tested-bambu-lab-h2s-3d-printer-review-1250-46f1)
+- [KEXP: Coral Grief - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-coral-grief-full-performance-live-on-kexp-3jhf)
+- [What Makes a Good Website? Lessons From the Edge](https://dev.to/lewiskori/what-makes-a-good-website-lessons-from-the-edge-3aoa)
+- [No Laying Up Podcast: BallKnowers: 2025 NFL Season Preview | Trap Draw, Ep 356](https://dev.to/youtube_golf/no-laying-up-podcast-ballknowers-2025-nfl-season-preview-trap-draw-ep-356-22mc)
+- [Rick Shiels Golf: Follow this video and NEVER 3 putt again!](https://dev.to/youtube_golf/rick-shiels-golf-follow-this-video-and-never-3-putt-again-1icl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
