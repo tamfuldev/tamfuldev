@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Retrieval Algorithms Shape Better LLM Responses?](https://dev.to/busycaesar/how-retrieval-algorithms-shape-better-llm-responses-5beo)
-- [Maximizing AI Efficiency: Building Hybrid Workflows with Qwen Code and Gemini CLI](https://dev.to/samestrin/maximizing-ai-efficiency-building-hybrid-workflows-with-qwen-code-and-gemini-cli-l4c)
-- [The Bug That Taught Me More Than Any Tutorial](https://dev.to/amoreno/the-bug-that-taught-me-more-than-any-tutorial-284g)
-- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_74898956/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-35li)
-- [When is the next Gemini model coming! https://x.com/OfficialLoganK/status/1960114265810997616](https://dev.to/ben/when-is-the-next-gemini-model-coming-httpsxcomofficiallogankstatus1960114265810997616-4kdc)
+- [From Zero to Secure: EC2 + Nginx with the Right Subnet, AZ &amp; Security Groups](https://dev.to/peter_samuel_052b9056e236/from-zero-to-secure-ec2-nginx-with-the-right-subnet-az-security-groups-33a0)
+- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_74898956/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-25a)
+- [Olá a todos! Fiz um artigo passo a passo para configurar ferramentas de arquitetura para o angular 20, como o prettier, ESlint e o husky!](https://dev.to/devgustavus/ola-a-todos-fiz-um-artigo-passo-a-passo-para-configurar-ferramentas-de-arquitetura-para-o-angular-260d)
+- [Configurando ESLint + Prettier + Husky no Angular&lpar;20&rpar;](https://dev.to/devgustavus/configurando-eslint-prettier-husky-no-angular20-2j35)
+- [🛳️ Docker Series: Episode 4 — Dockerfile for Beginners: Build Your Own Container Image](https://dev.to/yash_sonawane25/docker-series-episode-4-dockerfile-for-beginners-build-your-own-container-image-4kik)
 <!-- BLOG-POST-LIST:END -->
 
 ---
