@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Project: Random Hex Color Generator](https://dev.to/s_mathavi_2fa1e3ea8514f34/javascript-project-random-hex-color-generator-53gl)
-- [The AI Revolution in Education](https://dev.to/rawveg/the-ai-revolution-in-education-5d6b)
-- [Meet Surveilr: The SQL-First Platform That Turns Any Resource Into Compliance Gold](https://dev.to/mukhtar_onif/meet-surveilr-the-sql-first-platform-that-turns-any-resource-into-compliance-gold-2cn3)
-- [The Complete Guide to AI-SEO in 2026](https://dev.to/shubhamkhatik/the-complete-guide-to-ai-seo-in-2026-1j54)
-- [Cómo optimicé mi portfolio con Astro](https://dev.to/raidrdev/como-optimice-mi-portfolio-con-astro-lnd)
+- [Guepard File System: Rethinking Database-Per-Tenant Architecture](https://dev.to/guepardrun/guepard-file-system-rethinking-database-per-tenant-architecture-4hbo)
+- [Getting Started with Python — Part 2](https://dev.to/chinyereunamba/getting-started-with-python-part-2-3km5)
+- [Supercharge Your i18next Workflow with a Real-Time, Persistent Cache](https://dev.to/adrai/supercharge-your-i18next-workflow-with-a-real-time-persistent-cache-32eb)
+- [Favorece composición sobre herencia](https://dev.to/elias404/favorece-composicion-sobre-herencia-11ie)
+- [Real-Time Sync Alternatives: Vaultrice vs. localStorage, DIY, Firebase, Pusher](https://dev.to/adrai/real-time-sync-alternatives-vaultrice-vs-localstorage-diy-firebase-pusher-36o4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
