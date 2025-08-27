@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What is cryptography in blockchain — in simple terms for developers](https://dev.to/dan_keller/what-is-cryptography-in-blockchain-in-simple-terms-for-developers-4bf8)
-- [Demystifying Go Mutex: How Synchronization Works Under the Hood](https://dev.to/medunes/demystifying-go-mutex-how-synchronization-works-under-the-hood-1ken)
-- [Dictionary Encoding and its cousins: storage optimization patterns in data systems](https://dev.to/mcadariu/dictionary-encoding-and-its-cousins-storage-optimization-patterns-in-data-systems-11k5)
-- [What in the World Is GitHub Coding Agent?](https://dev.to/anchildress1/what-in-the-world-is-github-coding-agent-2m8p)
-- [SOC-CERT: Automated Threat Intelligence System with n8n &amp; AI](https://dev.to/joupify/soc-cert-automated-threat-intelligence-system-with-n8n-ai-5722)
+- [[Boost]](https://dev.to/ben/-2ob7)
+- [Alec Steele: How the Finest Leather Bags Are Handmade in England](https://dev.to/maker_youtube/alec-steele-how-the-finest-leather-bags-are-handmade-in-england-4jek)
+- [Create ER Diagrams for MySQL with a Free GUI Tool](https://dev.to/roxana_haidiner/create-er-diagrams-for-mysql-with-a-free-gui-tool-2j4o)
+- [3D Printing Nerd: THIS PRINT BROKE My Bambu H2S!](https://dev.to/maker_youtube/3d-printing-nerd-this-print-broke-my-bambu-h2s-27lm)
+- [KEXP: Gordi - Lunch At Dune &lpar;feat. S. Carey&rpar; &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-gordi-lunch-at-dune-feat-s-carey-live-on-kexp-5e0j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
