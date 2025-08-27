@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Destiny: Rising - Official Global Launch Developer Preview Video](https://dev.to/gg_news/ign-destiny-rising-official-global-launch-developer-preview-video-b4a)
-- [IGN: Metal Gear Solid Delta - Ultimate Guide for Stealth and Combat](https://dev.to/gg_news/ign-metal-gear-solid-delta-ultimate-guide-for-stealth-and-combat-6aa)
-- [IGN: The Devil is in the Details - Official Console Announcement Trailer](https://dev.to/gg_news/ign-the-devil-is-in-the-details-official-console-announcement-trailer-2jl0)
-- [First time knowing this](https://dev.to/masterdevsabith/first-time-knowing-this-587b)
-- [💻Monolithic Architecture: All eggs in one basket, Software Development](https://dev.to/dotnetsme/monolithic-architecture-all-eggs-in-one-basket-software-development-3600)
+- [Code 101: Rat in a Maze](https://dev.to/garvit_khamesra/code-101-rat-in-a-maze-9j)
+- [Gold as Investment](https://dev.to/madgan95/gold-as-investment-17ba)
+- [Code 101: Sort a Stack using Recursion](https://dev.to/garvit_khamesra/code-101-sort-a-stack-using-recursion-157p)
+- [Code 101: Sort an Array using Recursion](https://dev.to/garvit_khamesra/code-101-sort-an-array-using-recursion-3i79)
+- [Mining Data Out of Minecraft](https://dev.to/mateusriff/mining-data-out-of-minecraft-541f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
