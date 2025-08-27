@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/ben/-2ob7)
-- [Alec Steele: How the Finest Leather Bags Are Handmade in England](https://dev.to/maker_youtube/alec-steele-how-the-finest-leather-bags-are-handmade-in-england-4jek)
-- [Create ER Diagrams for MySQL with a Free GUI Tool](https://dev.to/roxana_haidiner/create-er-diagrams-for-mysql-with-a-free-gui-tool-2j4o)
-- [3D Printing Nerd: THIS PRINT BROKE My Bambu H2S!](https://dev.to/maker_youtube/3d-printing-nerd-this-print-broke-my-bambu-h2s-27lm)
-- [KEXP: Gordi - Lunch At Dune &lpar;feat. S. Carey&rpar; &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-gordi-lunch-at-dune-feat-s-carey-live-on-kexp-5e0j)
+- [Full-Stack Interview Prep #1: SQL Injection Explained Simply &lpar;with Go &amp; Node.js Examples&rpar;](https://dev.to/davjesse/full-stack-interview-prep-1-sql-injection-explained-simply-with-go-nodejs-examples-lg6)
+- [Prevent Wrong Account Operations — AWS Official Header Color Feature Now Available](https://dev.to/aws-builders/prevent-wrong-account-operations-aws-official-header-color-feature-now-available-1lgc)
+- [Turning Complex Algorithms into Interactive Visual Stories: My Journey](https://dev.to/abidit_shrestha_fefae4cee/turning-complex-algorithms-into-interactive-visual-stories-my-journey-3l0j)
+- [Tutorial: Instalar Arch Linux en dual boot con Windows 11](https://dev.to/ivajofranc/tutorial-instalar-arch-linux-en-dual-boot-con-windows-11-4f19)
+- [Getting Started with PL/SQL Blocks and Calling Them from Spring Boot JPA](https://dev.to/jungledev/getting-started-with-plsql-blocks-and-calling-them-from-spring-boot-jpa-3192)
 <!-- BLOG-POST-LIST:END -->
 
 ---
