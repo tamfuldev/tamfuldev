@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [NPR Music: MILCK: Field Recordings x Aspen Ideas Festival](https://dev.to/music_youtube/npr-music-milck-field-recordings-x-aspen-ideas-festival-2ihk)
-- [Why Learn Computer Science in 2025](https://dev.to/olatejuthedev/why-learn-computer-science-in-2025-4410)
-- [Decision Matrix To Navigate Technology Choices](https://dev.to/meet08/decision-matrix-to-navigate-technology-choices-4ojn)
-- [[Boost]](https://dev.to/jeffdev03/-28l)
-- [Cache buster chrome extension](https://dev.to/pixeline/cache-buster-chrome-extension-2dei)
+- [Natural Language Processing in Artificial Intelligence Explained – Applify](https://dev.to/manpreet27/natural-language-processing-in-artificial-intelligence-explained-applify-7n3)
+- [How i made Qt + VTK based 3d-dicom-viewer - open-source instrument for creating 3d models from raw DICOM series](https://dev.to/ft290008buchok/how-i-made-qt-vtk-based-3d-dicom-viewer-open-source-instrument-for-creating-3d-models-from-raw-2kj7)
+- [The C# Feature That Saves You Thousands… But No One Talks About](https://dev.to/mohammad_shoeb_8cf8645287/the-c-feature-that-saves-you-thousands-but-no-one-talks-about-10d4)
+- [WinRAR 0-Day Exploit](https://dev.to/intelligence_x/winrar-0-day-exploit-148c)
+- [What is Zod and what does it bring over typescript type definitions](https://dev.to/websilvercraft/what-is-zod-and-what-does-it-bring-over-typescript-type-definitions-a94)
 <!-- BLOG-POST-LIST:END -->
 
 ---
