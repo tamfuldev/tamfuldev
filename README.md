@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL JSONB Size Limits to Prevent TOAST Slicing](https://dev.to/franckpachot/postgresql-jsonb-size-limits-to-prevent-toast-slicing-9e8)
-- [Bryan Bros Golf: Golf Match @ #1 Public Course In The World!](https://dev.to/youtube_golf/bryan-bros-golf-golf-match-1-public-course-in-the-world-b7f)
-- [IGN: Infinity Nikki Stardew Valley - Official Collaboration Trailer](https://dev.to/gg_news/ign-infinity-nikki-x-stardew-valley-official-collaboration-trailer-2041)
-- [IGN: Alien: Earth - After Ep. 4&#39;s Big Revelation, Is It Time to Bail?](https://dev.to/gg_news/ign-alien-earth-after-ep-4s-big-revelation-is-it-time-to-bail-2hfi)
-- [AI fluff generation](https://dev.to/sarabadu/ai-fluff-generation-34gb)
+- [Dev Log 12](https://dev.to/asx/dev-log-12-4c0f)
+- [Chaque bug est une opportunité. Chaque app, une solution](https://dev.to/prince_b_one/chaque-bug-est-une-opportunite-chaque-app-une-solution-190l)
+- [Multi-Environment GCP Web Application Infrastructure with Auto-Scaling](https://dev.to/benn1440/multi-environment-gcp-web-application-infrastructure-with-auto-scaling-2gf9)
+- [My Next Certification Journey Starts Not with Code, but with Logic](https://dev.to/mzunairtariq/my-next-certification-journey-starts-not-with-code-but-with-logic-1bb9)
+- [MAP ZAYRA JIMENEZ](https://dev.to/jimenz2/map-zayra-jimenez-486b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
