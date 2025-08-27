@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Time Series Reveal the Future: An Introduction to the ARIMA Model](https://dev.to/moubarakmohame4/how-time-series-reveal-the-future-an-introduction-to-the-arima-model-2k81)
-- [You Don’t Know the Depth of Your Passion Until You Step Away](https://dev.to/officialepicquotes/you-dont-know-the-depth-of-your-passion-until-you-step-away-351p)
-- [Running Flask + MySQL with Docker Compose](https://dev.to/santosh_yadav_b0f71077df8/running-flask-mysql-with-docker-compose-24cn)
-- [KEXP: Gordi - Cutting Room Floor &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-gordi-cutting-room-floor-live-on-kexp-1jhb)
-- [KEXP: Gordi - Peripheral Lover &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-gordi-peripheral-lover-live-on-kexp-28og)
+- [What is cryptography in blockchain — in simple terms for developers](https://dev.to/dan_keller/what-is-cryptography-in-blockchain-in-simple-terms-for-developers-4bf8)
+- [Demystifying Go Mutex: How Synchronization Works Under the Hood](https://dev.to/medunes/demystifying-go-mutex-how-synchronization-works-under-the-hood-1ken)
+- [Dictionary Encoding and its cousins: storage optimization patterns in data systems](https://dev.to/mcadariu/dictionary-encoding-and-its-cousins-storage-optimization-patterns-in-data-systems-11k5)
+- [What in the World Is GitHub Coding Agent?](https://dev.to/anchildress1/what-in-the-world-is-github-coding-agent-2m8p)
+- [SOC-CERT: Automated Threat Intelligence System with n8n &amp; AI](https://dev.to/joupify/soc-cert-automated-threat-intelligence-system-with-n8n-ai-5722)
 <!-- BLOG-POST-LIST:END -->
 
 ---
