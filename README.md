@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps Made Simple: A Step-by-Step Guide to Starting in 2025](https://dev.to/mrigankwastaken/devops-made-simple-a-step-by-step-guide-to-starting-in-2025-594m)
-- [Unlock Your Audience: The Ultimate Guide to SEO-Driven Content Creation 🚀](https://dev.to/rohith200589/unlock-your-audience-the-ultimate-guide-to-seo-driven-content-creation-2eif)
-- [3 Things I Learned Building a Database from Scratch &lpar;And What I&#39;d Do Differently&rpar;](https://dev.to/pauletart/3-things-i-learned-building-a-database-from-scratch-and-what-id-do-differently-339m)
-- [Generate Mock JSON APIs Instantly with JSONToAll.Tools – Free Online Tool](https://dev.to/sourav_halder_5da9b618537/generate-mock-json-apis-instantly-with-jsontoalltools-free-online-tool-4b55)
-- [🌟 Join Our Developer Community on DEV!](https://dev.to/msbala007/join-our-developer-community-on-dev-2g1f)
+- [How to Build AI-Generated Loading Messages in Rails 8 with Hotwire &amp; Stimulus](https://dev.to/untaught/how-to-build-ai-generated-loading-messages-in-rails-8-with-hotwire-stimulus-3c0o)
+- [IGN: Infinity Nikki Stardew Valley - Official Collaboration Trailer](https://dev.to/gg_news/ign-infinity-nikki-x-stardew-valley-official-collaboration-trailer-46db)
+- [IGN: The Carpenter&#39;s Son - Official Teaser Trailer &lpar;2025&rpar; Nicolas Cage, FKA twigs](https://dev.to/gg_news/ign-the-carpenters-son-official-teaser-trailer-2025-nicolas-cage-fka-twigs-3o69)
+- [IGN: Solo Leveling: Arise Overdrive - Official Release Date Trailer](https://dev.to/gg_news/ign-solo-leveling-arise-overdrive-official-release-date-trailer-1e4i)
+- [From Mid-Level to Senior: Why I Built a Product Thinking Simulator](https://dev.to/tanya_melnikova_c2049af03/from-mid-level-to-senior-why-i-built-a-product-thinking-simulator-c6n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
