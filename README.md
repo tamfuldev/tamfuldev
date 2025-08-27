@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Full-Stack Interview Prep #1: SQL Injection Explained Simply &lpar;with Go &amp; Node.js Examples&rpar;](https://dev.to/davjesse/full-stack-interview-prep-1-sql-injection-explained-simply-with-go-nodejs-examples-lg6)
-- [Prevent Wrong Account Operations — AWS Official Header Color Feature Now Available](https://dev.to/aws-builders/prevent-wrong-account-operations-aws-official-header-color-feature-now-available-1lgc)
-- [Turning Complex Algorithms into Interactive Visual Stories: My Journey](https://dev.to/abidit_shrestha_fefae4cee/turning-complex-algorithms-into-interactive-visual-stories-my-journey-3l0j)
-- [Tutorial: Instalar Arch Linux en dual boot con Windows 11](https://dev.to/ivajofranc/tutorial-instalar-arch-linux-en-dual-boot-con-windows-11-4f19)
-- [Getting Started with PL/SQL Blocks and Calling Them from Spring Boot JPA](https://dev.to/jungledev/getting-started-with-plsql-blocks-and-calling-them-from-spring-boot-jpa-3192)
+- [COLORS: Isaia Huron - I CHOSE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-isaia-huron-i-chose-you-a-colors-show-24li)
+- [KEXP: Gordi - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-gordi-full-performance-live-on-kexp-1ljl)
+- [No Laying Up Podcast: 1062: Captain Keegan&#39;s Picks](https://dev.to/youtube_golf/no-laying-up-podcast-1062-captain-keegans-picks-4aom)
+- [Grant Horvat: Can We Break a Difficult Course Record?](https://dev.to/youtube_golf/grant-horvat-can-we-break-a-difficult-course-record-4c30)
+- [Jeff Su: 3 AI Habits So Powerful It Feels Like Cheating](https://dev.to/future_ai/jeff-su-3-ai-habits-so-powerful-it-feels-like-cheating-4cm7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
