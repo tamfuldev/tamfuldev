@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Isaia Huron - I CHOSE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-isaia-huron-i-chose-you-a-colors-show-24li)
-- [KEXP: Gordi - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-gordi-full-performance-live-on-kexp-1ljl)
-- [No Laying Up Podcast: 1062: Captain Keegan&#39;s Picks](https://dev.to/youtube_golf/no-laying-up-podcast-1062-captain-keegans-picks-4aom)
-- [Grant Horvat: Can We Break a Difficult Course Record?](https://dev.to/youtube_golf/grant-horvat-can-we-break-a-difficult-course-record-4c30)
-- [Jeff Su: 3 AI Habits So Powerful It Feels Like Cheating](https://dev.to/future_ai/jeff-su-3-ai-habits-so-powerful-it-feels-like-cheating-4cm7)
+- [Day 78: When Your Brain Refuses to Rest](https://dev.to/casperday11/day-78-when-your-brain-refuses-to-rest-2lf0)
+- [Building Custom Platform Channels in Flutter: A Complete Guide to Native Integration](https://dev.to/anurag_dev/building-custom-platform-channels-in-flutter-a-complete-guide-to-native-integration-2m5g)
+- [Join the Heroku &quot;Back to School&quot; AI Challenge: $3,000 in Prizes, just for students!](https://dev.to/devteam/join-the-heroku-back-to-school-ai-challenge-3000-in-prizes-just-for-students-2me4)
+- [AWS Security: KMS Keys](https://dev.to/aws-builders/aws-security-kms-keys-380n)
+- [SEMENTIC HTML](https://dev.to/72iamvinnie/sementic-html-e7b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
