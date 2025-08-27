@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [O que é Clean Architecture?](https://dev.to/nathanndos/o-que-e-clean-architecture-36h4)
-- [Vibe coding agents- good or bad?](https://dev.to/peteteaa/vibe-coding-agents-good-or-bad-5cf0)
-- [Galene - a Simple Videoconferencing Server. Installation on VPS](https://dev.to/sledov/galene-a-simple-videoconferencing-server-installation-on-vps-g4n)
-- [Responsive Envelope and Love Letter - Valentine&#39;s Day](https://dev.to/erick_andrestop_f1aac2f2/responsive-envelope-and-love-letter-valentines-day-1jfe)
-- [IGN: Return to Silent Hill - Official Teaser Trailer &lpar;2025&rpar; Jeremy Irvine, Hannah Emily Anderson](https://dev.to/gg_news/ign-return-to-silent-hill-official-teaser-trailer-2025-jeremy-irvine-hannah-emily-anderson-36p)
+- [IGN: Destiny: Rising - Official Global Launch Developer Preview Video](https://dev.to/gg_news/ign-destiny-rising-official-global-launch-developer-preview-video-b4a)
+- [IGN: Metal Gear Solid Delta - Ultimate Guide for Stealth and Combat](https://dev.to/gg_news/ign-metal-gear-solid-delta-ultimate-guide-for-stealth-and-combat-6aa)
+- [IGN: The Devil is in the Details - Official Console Announcement Trailer](https://dev.to/gg_news/ign-the-devil-is-in-the-details-official-console-announcement-trailer-2jl0)
+- [First time knowing this](https://dev.to/masterdevsabith/first-time-knowing-this-587b)
+- [💻Monolithic Architecture: All eggs in one basket, Software Development](https://dev.to/dotnetsme/monolithic-architecture-all-eggs-in-one-basket-software-development-3600)
 <!-- BLOG-POST-LIST:END -->
 
 ---
