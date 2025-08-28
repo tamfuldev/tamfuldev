@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Puppet Continuous Delivery: New Releases!](https://dev.to/puppet/puppet-continuous-delivery-new-releases-14na)
-- [Why Human APIs fail as MCP tools &lpar;and how to fix them&rpar;](https://dev.to/arman08/why-human-apis-fail-as-mcp-tools-and-how-to-fix-them-10hm)
-- [Distributed Business Logic with Laravel Observers: Let Models Mind Their Own Business](https://dev.to/raheelshan/distributed-business-logic-with-laravel-observers-let-models-mind-their-own-business-2837)
-- [Building High-Performance Time Series on SQLite with Go: UUIDv7, sqlc, and libSQL](https://dev.to/zanzythebar/building-high-performance-time-series-on-sqlite-with-go-uuidv7-sqlc-and-libsql-3ejb)
-- [Django Signals: The Hidden Superpower Nobody Talks About](https://dev.to/jawadulhadicc/django-signals-the-hidden-superpower-nobody-talks-about-d6m)
+- [Colin Furze: Have I built the most amazing door Ever?](https://dev.to/maker_youtube/colin-furze-have-i-built-the-most-amazing-door-ever-1jlm)
+- [KEXP: Annahstasia - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-annahstasia-full-performance-live-on-kexp-13gn)
+- [Golf.com: We Tested The Launch Monitor Trusted By TGL—Here’s What We Found](https://dev.to/youtube_golf/golfcom-we-tested-the-launch-monitor-trusted-by-tgl-heres-what-we-found-4i72)
+- [IGN: Helldivers 2 - Official Dust Devils Warbond Trailer](https://dev.to/gg_news/ign-helldivers-2-official-dust-devils-warbond-trailer-31ep)
+- [IGN: Ghost of Yotei - Official Firearms Gameplay Trailer](https://dev.to/gg_news/ign-ghost-of-yotei-official-firearms-gameplay-trailer-3710)
 <!-- BLOG-POST-LIST:END -->
 
 ---
