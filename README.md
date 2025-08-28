@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Colin Furze: Have I built the most amazing door Ever?](https://dev.to/maker_youtube/colin-furze-have-i-built-the-most-amazing-door-ever-1jlm)
-- [KEXP: Annahstasia - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-annahstasia-full-performance-live-on-kexp-13gn)
-- [Golf.com: We Tested The Launch Monitor Trusted By TGL—Here’s What We Found](https://dev.to/youtube_golf/golfcom-we-tested-the-launch-monitor-trusted-by-tgl-heres-what-we-found-4i72)
-- [IGN: Helldivers 2 - Official Dust Devils Warbond Trailer](https://dev.to/gg_news/ign-helldivers-2-official-dust-devils-warbond-trailer-31ep)
-- [IGN: Ghost of Yotei - Official Firearms Gameplay Trailer](https://dev.to/gg_news/ign-ghost-of-yotei-official-firearms-gameplay-trailer-3710)
+- [How I Built an AI Tool to Read Invoices and Predict GST — Without Losing My Mind](https://dev.to/trojanmocx/how-i-built-an-ai-tool-to-read-invoices-and-predict-gst-without-losing-my-mind-14i3)
+- [Code Generation with ‘Graph RAG’, AstraDB and gpt-oss](https://dev.to/aairom/code-generation-with-graph-rag-astradb-and-gpt-oss-o01)
+- [Install n8n on Windows with Docker &lpar;Step-by-Step&rpar;](https://dev.to/swapnil-ahmmed-shishir/install-n8n-on-windows-with-docker-step-by-step-3dc3)
+- [🖥 Install n8n Locally on Windows – Step by Step](https://dev.to/swapnil-ahmmed-shishir/install-n8n-locally-on-windows-step-by-step-5aj2)
+- [How do you see AI tools like GitHub Copilot changing the role of developers over the next 5 years?](https://dev.to/kevinasutton/how-do-you-see-ai-tools-like-github-copilot-changing-the-role-of-developers-over-the-next-5-years-4a86)
 <!-- BLOG-POST-LIST:END -->
 
 ---
