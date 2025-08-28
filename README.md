@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Data Governance Gap: Securing Your ServiceNow Ecosystem in a Hybrid World 🔒](https://dev.to/sip_mjb/the-data-governance-gap-securing-your-servicenow-ecosystem-in-a-hybrid-world-3i9f)
-- [I Built GitNarrative: Turn Your Git Commits Into Stories](https://dev.to/grudged/i-built-gitnarrative-turn-your-git-commits-into-stories-ka0)
-- [GameSpot: The Outer Worlds 2 Hands-on Impressions](https://dev.to/gg_news/gamespot-the-outer-worlds-2-hands-on-impressions-2c18)
-- [🚀 Node.js + TypeScript dev](https://dev.to/dcdeploy/nodejs-typescript-dev-44m6)
-- [[SOLVED] &quot;evm: execution reverted&quot; Error](https://dev.to/metana/solved-evm-execution-reverted-error-d2)
+- [🧠 Born to Learn: A Neural Network&#39;s Guide to Growing Up Human](https://dev.to/sreeni5018/born-to-learn-a-neural-networks-guide-to-growing-up-human-46m3)
+- [Image Generation with OpenAI &lpar;Step‑by‑Step Tutorial&rpar;](https://dev.to/cathylai/image-generation-with-openai-step-by-step-tutorial-3n38)
+- [Code:Implement RAG engine with semantic search_Service](https://dev.to/yc_lee_53e583a776a9c56e3/codeimplement-rag-engine-with-semantic-searchservice-26l9)
+- [Never Lose Coding Progress Again: How I Built a Hybrid Auto-Logger for VS Code](https://dev.to/tracywhodoesnot/never-lose-coding-progress-again-how-i-built-a-hybrid-auto-logger-for-vs-code-4i7i)
+- [Code:Implement RAG engine with semantic search_Manager](https://dev.to/yc_lee_53e583a776a9c56e3/codeimplement-rag-engine-with-semantic-search-2lcg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
