@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Task:Create stream processing service for real-time data](https://dev.to/yc_lee_53e583a776a9c56e3/taskcreate-stream-processing-service-for-real-time-data-4k2e)
-- [IGN: Darkest Dungeon 2: Kingdoms - Official Curse of the Court Trailer](https://dev.to/gg_news/ign-darkest-dungeon-2-kingdoms-official-curse-of-the-court-trailer-1f62)
-- [Day 7 — FAISS empty vectors, metric mismatch, and recall collapse &lpar;ProblemMap No.8&rpar;](https://dev.to/onestardao/day-7-faiss-empty-vectors-metric-mismatch-and-recall-collapse-problemmap-no8-2akh)
-- [Why Your Website Looks Great But Still Fails to Sell](https://dev.to/shaheen_amjed_41de8050d49/why-your-website-looks-great-but-still-fails-to-sell-a4n)
-- [Hello everyone, I’d like some advice. I currently have an OLTP database for my app, but I want to build an OLAP database to speed up queries for my dashboard. Could you suggest some best practices for this case](https://dev.to/tng_b_15cde1b716df2736b/hello-everyone-id-like-some-advice-i-currently-have-an-oltp-database-for-my-app-but-i-want-to-24md)
+- [Task:Create vector database integration for RAG system](https://dev.to/yc_lee_53e583a776a9c56e3/taskcreate-vector-database-integration-for-rag-system-jdf)
+- [Task:Implement data lake storage with Apache Iceberg](https://dev.to/yc_lee_53e583a776a9c56e3/taskimplement-data-lake-storage-with-apache-iceberg-2ii5)
+- [Zero-Downtime Deployments on Kubernetes &lpar;Step-by-Step&rpar;](https://dev.to/kazeem_mohammed/zero-downtime-deployments-on-kubernetes-step-by-step-10c)
+- [Transform Your Content Game with AI-Powered Video](https://dev.to/ethan_parkx_09fc0c31cddf/transform-your-content-game-with-ai-powered-video-2em7)
+- [🛳️ Docker Series: Episode 6 — Docker Volumes: The Secret to Saving Your Data](https://dev.to/yash_sonawane25/docker-series-episode-6-docker-volumes-the-secret-to-saving-your-data-5467)
 <!-- BLOG-POST-LIST:END -->
 
 ---
