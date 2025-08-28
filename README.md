@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Foundations of AI Ethics](https://dev.to/rawveg/the-foundations-of-ai-ethics-35an)
-- [Part 2 — Training model on Raspberry Pi Pico for Edge AI Trend Alarm](https://dev.to/ertugrulmutlu/part-2-training-model-on-raspberry-pi-pico-for-edge-ai-trend-alarm-9gf)
-- [The dev’s AI vault: A 7-part series on mastering ChatGPT as a developer &lpar;400+ real coding use cases&rpar;](https://dev.to/dev_tips/the-devs-ai-vault-a-7-part-series-on-mastering-chatgpt-as-a-developer-400-real-coding-use-cases-19a4)
-- [The complete guide to Docker Offload. Beta mode was just launched.](https://dev.to/dev_tips/the-complete-guide-to-docker-offload-beta-mode-was-just-launched-1ik8)
-- [📚 My Python Roadmap Journey #1 - Basics](https://dev.to/polakk0/my-python-roadmap-journey-1-basics-i9c)
+- [Part-32: Google Compute Engine Local SSD in Google Cloud Platform &lpar;GCP&rpar;](https://dev.to/latchudevops/part-32-google-compute-engine-local-ssd-in-google-cloud-platform-gcp-lmo)
+- [5 Testing Patterns That Will Save Your Startup&#39;s Budget](https://dev.to/atechajay/5-testing-patterns-that-will-save-your-startups-budget-4phg)
+- [Have you created one yet ? Here&#39;s a simple tutorial for you to Start Now](https://dev.to/masterdevsabith/have-you-created-one-yet-heres-a-simple-tutorial-for-you-to-start-now-ndm)
+- [How to create a CLI tool in Python](https://dev.to/masterdevsabith/how-to-create-a-cli-tool-in-python-2f52)
+- [KEXP: Annahstasia - Silk And Velvet &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-annahstasia-silk-and-velvet-live-on-kexp-53aj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
