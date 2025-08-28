@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Scalable SaaS Architecture for Long-Term Success](https://dev.to/developerpartners/scalable-saas-architecture-for-long-term-success-4loj)
-- [Task:Create conversational AI chat interface](https://dev.to/yc_lee_53e583a776a9c56e3/taskcreate-conversational-ai-chat-interface-3bfl)
-- [🚀 Day 10: Subsets &lpar;Power Set&rpar; Pattern – Amazon Interview Series](https://dev.to/devcorner/day-10-subsets-power-set-pattern-amazon-interview-series-4emi)
-- [🚀 Day 8: Top K Elements Pattern &lpar;Amazon Interview Series&rpar;](https://dev.to/devcorner/day-8-top-k-elements-pattern-amazon-interview-series-3k5c)
-- [GitHub workflows tips and tricks](https://dev.to/nfrankel/github-workflows-tips-and-tricks-2gb2)
+- [NPR Music: Lucius: Field Recordings x Aspen Ideas Festival](https://dev.to/music_youtube/npr-music-lucius-field-recordings-x-aspen-ideas-festival-4p8e)
+- [The Backend Finally Makes Sense, Why I&#39;m Loving Motia](https://dev.to/jealousgx/the-backend-finally-makes-sense-why-im-loving-motia-59kb)
+- [Engineering Tomorrow, Today](https://dev.to/titto-stackobea/engineering-tomorrow-today-4cli)
+- [Good work George](https://dev.to/grayhat/good-work-george-4a2k)
+- [Will AI Take Developer Jobs?](https://dev.to/donadams50/will-ai-take-developer-jobs-cg3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
