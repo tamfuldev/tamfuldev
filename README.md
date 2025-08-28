@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Guia de python PT-BR #1: Print,Input,Type e classes de variaveis.](https://dev.to/vgermanndev/guia-de-python-1-printinputtype-e-classes-de-variaveis-33ek)
-- [Flutter Changed the Way I Build — It Can Change Yours Too in 2025](https://dev.to/kiddo4lyf/flutter-changed-the-way-i-build-it-can-change-yours-too-in-2025-3ggi)
-- [Applying KISS, DRY, and LOD Principles in Go](https://dev.to/leapcell/applying-kiss-dry-and-lod-principles-in-go-1ikf)
-- [Hosting Private AI with Railway - Tech Breakdown](https://dev.to/loudbook/hosting-private-ai-with-railway-tech-breakdown-460o)
-- [Flutter app AI centric architecture for small startups. Part 3 - Stages 3–5](https://dev.to/arenukvern/flutter-app-ai-centric-architecture-for-small-startups-part-3-stages-3-5-4jd9)
+- [Task:Create stream processing service for real-time data](https://dev.to/yc_lee_53e583a776a9c56e3/taskcreate-stream-processing-service-for-real-time-data-4k2e)
+- [IGN: Darkest Dungeon 2: Kingdoms - Official Curse of the Court Trailer](https://dev.to/gg_news/ign-darkest-dungeon-2-kingdoms-official-curse-of-the-court-trailer-1f62)
+- [Day 7 — FAISS empty vectors, metric mismatch, and recall collapse &lpar;ProblemMap No.8&rpar;](https://dev.to/onestardao/day-7-faiss-empty-vectors-metric-mismatch-and-recall-collapse-problemmap-no8-2akh)
+- [Why Your Website Looks Great But Still Fails to Sell](https://dev.to/shaheen_amjed_41de8050d49/why-your-website-looks-great-but-still-fails-to-sell-a4n)
+- [Hello everyone, I’d like some advice. I currently have an OLTP database for my app, but I want to build an OLAP database to speed up queries for my dashboard. Could you suggest some best practices for this case](https://dev.to/tng_b_15cde1b716df2736b/hello-everyone-id-like-some-advice-i-currently-have-an-oltp-database-for-my-app-but-i-want-to-24md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
