@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why “All-in-One” Productivity Tools Fail &lpar;and What Actually Works&rpar;](https://dev.to/bibhash_dutta_099/why-all-in-one-productivity-tools-fail-and-what-actually-works-3gf7)
-- [Top 7 WordPress Icon Plugins You Should Try](https://dev.to/masumparvej/top-7-wordpress-icon-plugins-you-should-try-49ed)
-- [Understanding Classification in Supervised Learning](https://dev.to/datawithnaomi/understanding-classification-in-supervised-learning-1h7e)
-- [Docker Explained: How It Really Works Under the Hood](https://dev.to/itsabhiyan/docker-explained-how-it-really-works-under-the-hood-56np)
-- [Task:Create equipment predictive maintenance models](https://dev.to/yc_lee_53e583a776a9c56e3/taskcreate-equipment-predictive-maintenance-models-4imo)
+- [The Coding Calendar](https://dev.to/tatjana_kleshnina/the-coding-calendar-5c7k)
+- [Liquefaction: A Paradigm Shift For Programmable Control Of Digital Assets](https://dev.to/dc600/liquefaction-a-paradigm-shift-for-programmable-control-of-digital-assets-5e76)
+- [How to Allow All Cloudflare IPs in SafeLine WAF](https://dev.to/sharon_42e16b8da44dabde6d/how-to-allow-all-cloudflare-ips-in-safeline-waf-3e2a)
+- [Solving Plus Minus Problem in Python &lpar;HackerRank &rpar; .](https://dev.to/sachin_nayak_5db3184afd7f/solving-plus-minus-problem-in-python-hackerrank-style--45hi)
+- [Task:Create defect classification models](https://dev.to/yc_lee_53e583a776a9c56e3/taskcreate-defect-classification-models-35do)
 <!-- BLOG-POST-LIST:END -->
 
 ---
