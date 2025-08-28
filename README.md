@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dev Log 12](https://dev.to/asx/dev-log-12-4c0f)
-- [Chaque bug est une opportunité. Chaque app, une solution](https://dev.to/prince_b_one/chaque-bug-est-une-opportunite-chaque-app-une-solution-190l)
-- [Multi-Environment GCP Web Application Infrastructure with Auto-Scaling](https://dev.to/benn1440/multi-environment-gcp-web-application-infrastructure-with-auto-scaling-2gf9)
-- [My Next Certification Journey Starts Not with Code, but with Logic](https://dev.to/mzunairtariq/my-next-certification-journey-starts-not-with-code-but-with-logic-1bb9)
-- [MAP ZAYRA JIMENEZ](https://dev.to/jimenz2/map-zayra-jimenez-486b)
+- [Guia de python PT-BR #1: Print,Input,Type e classes de variaveis.](https://dev.to/vgermanndev/guia-de-python-1-printinputtype-e-classes-de-variaveis-33ek)
+- [Flutter Changed the Way I Build — It Can Change Yours Too in 2025](https://dev.to/kiddo4lyf/flutter-changed-the-way-i-build-it-can-change-yours-too-in-2025-3ggi)
+- [Applying KISS, DRY, and LOD Principles in Go](https://dev.to/leapcell/applying-kiss-dry-and-lod-principles-in-go-1ikf)
+- [Hosting Private AI with Railway - Tech Breakdown](https://dev.to/loudbook/hosting-private-ai-with-railway-tech-breakdown-460o)
+- [Flutter app AI centric architecture for small startups. Part 3 - Stages 3–5](https://dev.to/arenukvern/flutter-app-ai-centric-architecture-for-small-startups-part-3-stages-3-5-4jd9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
