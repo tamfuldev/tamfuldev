@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [ActivityResultContract 안전하게 사용하기](https://dev.to/kingori/activityresultcontract-anjeonhage-sayonghagi-34ga)
-- [PRINT&lpar; &quot;Hello Devs!&quot;&rpar;](https://dev.to/aconway339/print-hello-devs-412)
-- [Alec Steele: These Tools Shouldn&#39;t Exist](https://dev.to/maker_youtube/alec-steele-these-tools-shouldnt-exist-14do)
-- [Mix with the Masters: Mixing Night with Ken Lewis - DAW TRICKS NIGHT - 9/3/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-daw-tricks-night-932025-2pk5)
-- [The Hottest Open-Source AI Agent Projects Shaking Up 2025](https://dev.to/benebomo/the-hottest-open-source-ai-agent-projects-shaking-up-2025-4on7)
+- [DIY Local AI Stack: Who’s Interested?](https://dev.to/ghotet/diy-local-ai-stack-whos-interested-48bc)
+- [🛳️ Docker Series: Episode 7 — Docker Networking: How Containers Talk Behind the Scenes](https://dev.to/yash_sonawane25/docker-series-episode-7-docker-networking-how-containers-talk-behind-the-scenes-5aak)
+- [🎨 Prompt Engineering for Beginners: How to Get Better AI Images](https://dev.to/raksbisht/prompt-engineering-for-beginners-how-to-get-better-ai-images-35c9)
+- [How to Manage Message History in a Chat with React](https://dev.to/werliton/how-to-manage-message-history-in-a-chat-with-react-pl1)
+- [How to Build an Accordion Component in React](https://dev.to/pradnya_hegde_060984c4c23/how-to-build-an-accordion-component-in-react-1ia9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
