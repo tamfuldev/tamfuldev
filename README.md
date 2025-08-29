@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [⚙️ From Code to Cloud: My DevOps + DevSecOps Journey](https://dev.to/akingbade_omosebi/from-code-to-cloud-my-devops-devsecops-journey-18ca)
-- [How to Securely Connect to Medusa.js Production Database on AWS?](https://dev.to/u11d/how-to-securely-connect-to-medusajs-production-database-on-aws-5efh)
-- [Designing and Implementing a Simple, Yet Powerful, Distributed Job Scheduler](https://dev.to/araldhafeeri/designing-and-implementing-a-simple-yet-powerful-distributed-job-scheduler-25fh)
-- [🧠 Solving LeetCode Until I Become Top 1% — Day `70`](https://dev.to/therealrishat/solving-leetcode-until-i-become-top-1-day-70-3o1m)
-- [How To Use LLMs: Retrieval-Augmented Generation &lpar;RAG Systems&rpar;](https://dev.to/dinakajoy/how-to-use-llms-retrieval-augmented-generation-rag-systems-2dmm)
+- [Nvidia’s nvl72 is insane but who can actually use it?](https://dev.to/dev_tips/nvidias-nvl72-is-insane-but-who-can-actually-use-it-4fl5)
+- [🌍 Understanding JavaScript Scopes &amp; Closures — Made Simple](https://dev.to/usama_dev/understanding-javascript-scopes-closures-made-simple-38dh)
+- [Building Ahead: a multi-tool AI Travel Agent with OpenAI + SerpApi](https://dev.to/james_collins/building-ahead-a-multi-tool-ai-travel-agent-with-openai-serpapi-1ce4)
+- [How Advanced File Delivery with Webpack Optimizes Web App Performance](https://dev.to/ideradevtools/how-advanced-file-delivery-with-webpack-optimizes-web-app-performance-1ka)
+- [How Jotai Atoms Are Transforming Our Front-End Architecture.](https://dev.to/giovanni786/how-jotai-atoms-are-transforming-our-front-end-architecture-42fd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
