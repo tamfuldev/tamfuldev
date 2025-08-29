@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Serverless is the Secret Weapon Every SaaS Founder Wishes They Knew About Sooner](https://dev.to/saifiimuhammad/why-serverless-is-the-secret-weapon-every-saas-founder-wishes-they-knew-about-sooner-578c)
-- [Super Apps Under Scrutiny: Regulatory and Risk Challenges](https://dev.to/foxdata/super-apps-under-scrutiny-regulatory-and-risk-challenges-4m8n)
-- [Solving the Classic Two Sum Problem &lpar;FAANG-Style&rpar;](https://dev.to/khouloudzaiter/solving-the-classic-two-sum-problem-faang-style-4kd5)
-- [How I Built a Free Shopify Products Scraper Using ElectronJS](https://dev.to/startupnoon/how-i-built-a-free-shopify-products-scraper-using-electronjs-p3m)
-- [Demystifying Promises, Async, and Await in JavaScript/TypeScript with Playwright and Cypress](https://dev.to/anirseven/demystifying-promises-async-and-await-in-javascripttypescript-with-playwright-and-cypress-2g3i)
+- [⚙️ From Code to Cloud: My DevOps + DevSecOps Journey](https://dev.to/akingbade_omosebi/from-code-to-cloud-my-devops-devsecops-journey-18ca)
+- [How to Securely Connect to Medusa.js Production Database on AWS?](https://dev.to/u11d/how-to-securely-connect-to-medusajs-production-database-on-aws-5efh)
+- [Designing and Implementing a Simple, Yet Powerful, Distributed Job Scheduler](https://dev.to/araldhafeeri/designing-and-implementing-a-simple-yet-powerful-distributed-job-scheduler-25fh)
+- [🧠 Solving LeetCode Until I Become Top 1% — Day `70`](https://dev.to/therealrishat/solving-leetcode-until-i-become-top-1-day-70-3o1m)
+- [How To Use LLMs: Retrieval-Augmented Generation &lpar;RAG Systems&rpar;](https://dev.to/dinakajoy/how-to-use-llms-retrieval-augmented-generation-rag-systems-2dmm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
