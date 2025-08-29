@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Web Wide Worlds: An Open Technology Stack for Digital Worlds](https://dev.to/dyfi/web-wide-worlds-an-open-technology-stack-for-digital-worlds-e3p)
-- [A Technical Deep Dive: Exploiting SQL Injection Vulnerabilities](https://dev.to/samueladeduntan/a-technical-deep-dive-exploiting-sql-injection-vulnerabilities-3da8)
-- [1 - Setting Up A Client Website](https://dev.to/cecilionavarro/1-setting-up-a-client-website-p7l)
-- [SEMANTIC HTML](https://dev.to/jackie-yins/semantic-html-3i0i)
-- [How to Stop Getting Lost in Endless Resources and Stay Focused as a Developer](https://dev.to/kerkox/how-to-stop-getting-lost-in-endless-resources-and-stay-focused-as-a-developer-201m)
+- [Day 8 · Retriever looks fine, answers still collapse 〔No.6 Logic Collapse〕](https://dev.to/onestardao/day-8-retriever-looks-fine-answers-still-collapse-no6-logic-collapse-1ecf)
+- [Conectar via ssh con Metasploitable 2](https://dev.to/mister_keto/conectar-via-ssh-con-metasploitable-2-3i80)
+- [Pen Testing Your Mobile Application &lpar;and Its API&rpar;](https://dev.to/jrap/pen-testing-your-mobile-application-and-its-api-4hf2)
+- [🗓️ Do You Struggle With Non-Uniform Date Formats?](https://dev.to/tomjstone/do-you-struggle-with-non-uniform-date-formats-1kk2)
+- [Spot2 CTO&#39;s Tips for Developing](https://dev.to/spot2stackmaster/spot2-ctos-tips-for-developing-587b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
