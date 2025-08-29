@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 8 · Retriever looks fine, answers still collapse 〔No.6 Logic Collapse〕](https://dev.to/onestardao/day-8-retriever-looks-fine-answers-still-collapse-no6-logic-collapse-1ecf)
-- [Conectar via ssh con Metasploitable 2](https://dev.to/mister_keto/conectar-via-ssh-con-metasploitable-2-3i80)
-- [Pen Testing Your Mobile Application &lpar;and Its API&rpar;](https://dev.to/jrap/pen-testing-your-mobile-application-and-its-api-4hf2)
-- [🗓️ Do You Struggle With Non-Uniform Date Formats?](https://dev.to/tomjstone/do-you-struggle-with-non-uniform-date-formats-1kk2)
-- [Spot2 CTO&#39;s Tips for Developing](https://dev.to/spot2stackmaster/spot2-ctos-tips-for-developing-587b)
+- [ActivityResultContract 안전하게 사용하기](https://dev.to/kingori/activityresultcontract-anjeonhage-sayonghagi-34ga)
+- [PRINT&lpar; &quot;Hello Devs!&quot;&rpar;](https://dev.to/aconway339/print-hello-devs-412)
+- [Alec Steele: These Tools Shouldn&#39;t Exist](https://dev.to/maker_youtube/alec-steele-these-tools-shouldnt-exist-14do)
+- [Mix with the Masters: Mixing Night with Ken Lewis - DAW TRICKS NIGHT - 9/3/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-daw-tricks-night-932025-2pk5)
+- [The Hottest Open-Source AI Agent Projects Shaking Up 2025](https://dev.to/benebomo/the-hottest-open-source-ai-agent-projects-shaking-up-2025-4on7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
