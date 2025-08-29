@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Colin Furze: Have I made the most AMAZING Door](https://dev.to/maker_youtube/colin-furze-have-i-made-the-most-amazing-door-2025)
-- [IGN: Acecraft x Tom and Jerry - Official Crossover Gameplay Trailer](https://dev.to/gg_news/ign-acecraft-x-tom-and-jerry-official-crossover-gameplay-trailer-f9d)
-- [IGN: Goosebumps: Terror in Little Creek - Official Launch Trailer](https://dev.to/gg_news/ign-goosebumps-terror-in-little-creek-official-launch-trailer-1m41)
-- [Fluent Brighter: A new way to setup Brighter V10](https://dev.to/actor-dev/fluent-brighter-a-new-way-to-setup-brighter-v10s-4jc6)
-- [Fluent Brighter: Uma Nova Forma de Configurar o Brighter V10](https://dev.to/actor-dev/fluent-brighter-uma-nova-forma-de-configurar-o-brighter-v10-3el0)
+- [How to Provide Light and Dark Theme Color Variants in PWA](https://dev.to/fedtti/how-to-provide-light-and-dark-theme-color-variants-in-pwa-1mml)
+- [Code is Dead. Long Live Context! Introducing AOKL — The Lingua Franca for the Human+AI Development Era](https://dev.to/evpolov/code-is-dead-long-live-context-introducing-aokl-the-lingua-franca-for-the-humanai-development-2g46)
+- [Centralized Error Handling in Go &lpar;Like Laravel&rpar;](https://dev.to/hrrydgls/centralized-error-handling-in-go-like-laravel-8je)
+- [Emerging Trends in Personal Branding for Developers: How to Stand Out in Tech Today](https://dev.to/okoye_ndidiamaka_5e3b7d30/emerging-trends-in-personal-branding-for-developers-how-to-stand-out-in-tech-today-8g3)
+- [The Code That Remembers: A Manifesto for Architectural-Oriented Commenting &lpar;AOK&rpar;](https://dev.to/evpolov/the-code-that-remembers-a-manifesto-for-architectural-oriented-commenting-aok-m0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
