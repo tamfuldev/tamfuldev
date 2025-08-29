@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Nvidia’s nvl72 is insane but who can actually use it?](https://dev.to/dev_tips/nvidias-nvl72-is-insane-but-who-can-actually-use-it-4fl5)
-- [🌍 Understanding JavaScript Scopes &amp; Closures — Made Simple](https://dev.to/usama_dev/understanding-javascript-scopes-closures-made-simple-38dh)
-- [Building Ahead: a multi-tool AI Travel Agent with OpenAI + SerpApi](https://dev.to/james_collins/building-ahead-a-multi-tool-ai-travel-agent-with-openai-serpapi-1ce4)
-- [How Advanced File Delivery with Webpack Optimizes Web App Performance](https://dev.to/ideradevtools/how-advanced-file-delivery-with-webpack-optimizes-web-app-performance-1ka)
-- [How Jotai Atoms Are Transforming Our Front-End Architecture.](https://dev.to/giovanni786/how-jotai-atoms-are-transforming-our-front-end-architecture-42fd)
+- [Your app isn’t IPv6-ready: a 30-minute checklist](https://dev.to/dev_tips/your-app-isnt-ipv6-ready-a-30-minute-checklist-1n2d)
+- [PHP: When to Enum?](https://dev.to/spo0q/php-when-to-enum-45me)
+- [&lt;3 RSS for learning](https://dev.to/johntellsall/3-rss-for-learning-720)
+- [Implementing Semantic HTML Effectively](https://dev.to/stateman_7/implementing-semantic-html-effectively-2jg1)
+- [Spring Boot Fundamentals &lpar;Deep dive for beginners&rpar;](https://dev.to/jps27cse/spring-boot-fundamentals-deep-dive-for-beginners-641)
 <!-- BLOG-POST-LIST:END -->
 
 ---
