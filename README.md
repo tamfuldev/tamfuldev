@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Configuring CSP: A Test For Django 6.0](https://dev.to/chiemezuo/configuring-csp-a-test-for-django-60-3a67)
-- [🚀Vonage Developer Newsletter, August 2025: RCS, Vibe Coding, Golang tutorials + events](https://dev.to/vonagedev/vonage-developer-newsletter-aug-2025-rcs-vibe-coding-golang-tutorials-events-4n5a)
-- [A Comprehensive Technical Guide for Developers on Implementing Semantic HTML Effectively](https://dev.to/akina_matayo_dd389ad2ee25/a-comprehensive-technical-guide-for-developers-on-implementing-semantic-html-effectively-1ofa)
-- [Project of the Week: PyTorch](https://dev.to/pullflow/project-of-the-week-pytorch-5ka)
-- [Learn Docker in 3 hours.](https://dev.to/morning_redemption_3940af/learn-docker-in-3-hours-91p)
+- [GameSpot: Phantom Blade 0 - 29 Minutes of Gameplay &lpar;Gamescom 2025 Demo&rpar;](https://dev.to/gg_news/gamespot-phantom-blade-0-29-minutes-of-gameplay-gamescom-2025-demo-3fjf)
+- [🔥 Stop Writing Boilerplate! How Formik + React Hooks Can Save You 500 Hours This Year 🔥](https://dev.to/ekwoster/stop-writing-boilerplate-how-formik-react-hooks-can-save-you-500-hours-this-year-480c)
+- [AI just killed the coding interview: Why LeetCode won’t get you hired anymore](https://dev.to/dev_tips/ai-just-killed-the-coding-interview-why-leetcode-wont-get-you-hired-anymore-1fd)
+- [This is a submission for the [Midnight Network &quot;Privacy First&quot; Challenge]](https://dev.to/davinceleecode/this-is-a-submission-for-the-midnight-network-privacy-first-challenge-41m1)
+- [IGN: Why You Should Check Out SHINOBI: Art of Vengeance](https://dev.to/gg_news/ign-why-you-should-check-out-shinobi-art-of-vengeance-21ff)
 <!-- BLOG-POST-LIST:END -->
 
 ---
