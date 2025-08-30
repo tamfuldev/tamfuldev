@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [MetalEAGLLayer](https://dev.to/maxnxi/metaleagllayer-5d0l)
-- [From Arrays to Collections: A Developer’s Guide to Smarter Data Handling in Java](https://dev.to/palak_singla/from-arrays-to-collections-a-developers-guide-to-smarter-data-handling-in-java-3fih)
-- [Building Robust Error Handling in FastAPI – and avoiding rookie mistakes](https://dev.to/buffolander/building-robust-error-handling-in-fastapi-and-avoiding-rookie-mistakes-ifg)
-- [need help with chatgpt](https://dev.to/bg3ananas/need-help-with-chatgpt-344p)
-- [iOS Development: using CAMetalLayer when legacy uses CAEAGLLayer](https://dev.to/maxnxi/ios-development-using-cametallayer-when-legacy-uses-caeagllayer-41ln)
+- [Advanced Git Commands: Tools for Smarter Version Control](https://dev.to/shrsv/advanced-git-commands-tools-for-smarter-version-control-1c07)
+- [Your First React Component: JSX, Components, and the &quot;Hello, World&quot; Program&lpar;5/Sept&rpar;](https://dev.to/mendoncamaria/your-first-react-component-jsx-components-and-the-hello-world-program5sept-3oj1)
+- [⚛️ React Native Changed the Way I Build — It Can Change Yours Too in 2025](https://dev.to/adeoti_israel_78eb9cfa5ac/react-native-changed-the-way-i-build-it-can-change-yours-too-in-2025-2aja)
+- [Adam Savage&#39;s Tested: Bambu Lab H2S 3D Printer Review: Price Is Right!](https://dev.to/maker_youtube/adam-savages-tested-bambu-lab-h2s-3d-printer-review-price-is-right-2l6f)
+- [I Like To Make Stuff: Yard Sale Junk to ULTIMATE Gear Storage!](https://dev.to/maker_youtube/i-like-to-make-stuff-yard-sale-junk-to-ultimate-gear-storage-l0b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
