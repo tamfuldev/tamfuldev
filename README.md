@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [222](https://dev.to/alikolahdoozan/222-17df)
-- [Create your own personal website for free — A guide to using GitHub Pages](https://dev.to/cat_dogrunning_in_the_s/create-your-own-personal-website-for-free-a-guide-to-using-github-pages-1f7a)
-- [揭秘 Nano Banana新玩法：Google 的 AI 图像编辑新王炸](https://dev.to/yang_ella_f2a3e16ccb54550/jie-mi-nano-bananaxin-wan-fa-google-de-ai-tu-xiang-bian-ji-xin-wang-zha-42ml)
-- [Can Minimal APIs use trusted connections?](https://dev.to/rodf/can-minimal-apis-use-trusted-connections-lia)
-- [IGN: Tron: Ares - Official Soldier Teaser Trailer &lpar;2025&rpar; Jared Leto, Greta Lee, Jeff Bridges](https://dev.to/gg_news/ign-tron-ares-official-soldier-teaser-trailer-2025-jared-leto-greta-lee-jeff-bridges-2mc)
+- [GameSpot: Phantom Blade 0 - Hard Mode, Combat, And More Explained](https://dev.to/gg_news/gamespot-phantom-blade-0-hard-mode-combat-and-more-explained-36mo)
+- [IGN: Walker - Official Announcement Trailer](https://dev.to/gg_news/ign-walker-official-announcement-trailer-28pj)
+- [Why I Back Up to Three Cloud Providers &lpar;And Monitor Them All&rpar;](https://dev.to/tomcao2012/why-i-back-up-to-three-cloud-providers-and-monitor-them-all-1ogb)
+- [What is Computer Vision?](https://dev.to/dev_patel_35864ca1db6093c/what-is-computer-vision-44ab)
+- [Built My First AI Travel Agent with OpenAI Assistants API and Real Flight Data](https://dev.to/jeffrey_39f861255ebf7c628/built-my-first-ai-travel-agent-with-openai-assistants-api-and-real-flight-data-4h5p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
