@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Git Commands: Tools for Smarter Version Control](https://dev.to/shrsv/advanced-git-commands-tools-for-smarter-version-control-1c07)
-- [Your First React Component: JSX, Components, and the &quot;Hello, World&quot; Program&lpar;5/Sept&rpar;](https://dev.to/mendoncamaria/your-first-react-component-jsx-components-and-the-hello-world-program5sept-3oj1)
-- [⚛️ React Native Changed the Way I Build — It Can Change Yours Too in 2025](https://dev.to/adeoti_israel_78eb9cfa5ac/react-native-changed-the-way-i-build-it-can-change-yours-too-in-2025-2aja)
-- [Adam Savage&#39;s Tested: Bambu Lab H2S 3D Printer Review: Price Is Right!](https://dev.to/maker_youtube/adam-savages-tested-bambu-lab-h2s-3d-printer-review-price-is-right-2l6f)
-- [I Like To Make Stuff: Yard Sale Junk to ULTIMATE Gear Storage!](https://dev.to/maker_youtube/i-like-to-make-stuff-yard-sale-junk-to-ultimate-gear-storage-l0b)
+- [🚀 Scaling React Like Big Tech: Folder Structures, Clean Code &amp; Beyond](https://dev.to/mursalfk/scaling-react-like-big-tech-folder-structures-clean-code-beyond-51bj)
+- [Agile Is Broken—But Here’s How We Fixed It](https://dev.to/kizilcakartugce/agile-is-broken-but-heres-how-we-fixed-it-41h5)
+- [DevOps Prerequisites: Mastering Linux Basics for Effective Cloud and DevOps Workflows](https://dev.to/anusha_kuppili/devops-prerequisites-mastering-linux-basics-for-effective-cloud-and-devops-workflows-16gm)
+- [DevOps Prerequisites: Mastering Linux Basics for Effective Cloud &amp; DevOps Workflows](https://dev.to/anusha_kuppili/devops-prerequisites-mastering-linux-basics-for-effective-cloud-devops-workflows-29l6)
+- [Social Presence Research Agent](https://dev.to/rakinjakaria/social-presence-research-agent-4kjg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
