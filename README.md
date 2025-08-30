@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Adam Savage&#39;s Tested: The MythBusters Episode Adam Savage Regrets Making](https://dev.to/maker_youtube/adam-savages-tested-the-mythbusters-episode-adam-savage-regrets-making-adn)
-- [IGN: eFootball x Yu-Gi-Oh! - Official Series Collaboration Teaser Trailer](https://dev.to/gg_news/ign-efootball-x-yu-gi-oh-official-series-collaboration-teaser-trailer-4k99)
-- [A Complete Guide to RxJS: From Beginner to Advanced](https://dev.to/serifcolakel/a-complete-guide-to-rxjs-from-beginner-to-advanced-448m)
-- [Milieu vriendelijke matrassen: Hoe ze passen binnen een duurzaam inkoopbeleid](https://dev.to/bremafa/milieu-vriendelijke-matrassen-hoe-ze-passen-binnen-een-duurzaam-inkoopbeleid-3d0e)
-- [Building Veloren SA: An Astro blog fed by a Google Cloud Translation Pipeline](https://dev.to/hnrq/building-veloren-sa-an-astro-blog-fed-by-google-cloud-translation-pipeline-150)
+- [MetalEAGLLayer](https://dev.to/maxnxi/metaleagllayer-5d0l)
+- [From Arrays to Collections: A Developer’s Guide to Smarter Data Handling in Java](https://dev.to/palak_singla/from-arrays-to-collections-a-developers-guide-to-smarter-data-handling-in-java-3fih)
+- [Building Robust Error Handling in FastAPI – and avoiding rookie mistakes](https://dev.to/buffolander/building-robust-error-handling-in-fastapi-and-avoiding-rookie-mistakes-ifg)
+- [need help with chatgpt](https://dev.to/bg3ananas/need-help-with-chatgpt-344p)
+- [iOS Development: using CAMetalLayer when legacy uses CAEAGLLayer](https://dev.to/maxnxi/ios-development-using-cametallayer-when-legacy-uses-caeagllayer-41ln)
 <!-- BLOG-POST-LIST:END -->
 
 ---
