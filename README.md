@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🔐 Hands-On with AWS IAM: Users, Groups, and Policies in Action](https://dev.to/chioma_nwosu_99d57862fb18/hands-on-with-aws-iam-users-groups-and-policies-in-action-ged)
-- [RAJAI](https://dev.to/raj_shah_2e9732e4c790df9a/rajai-50de)
-- [Day 17: Building Topology Visualization with AI-Assisted Health Monitoring](https://dev.to/clayroach/day-17-building-topology-visualization-with-ai-assisted-health-monitoring-55id)
-- [🧭 Master Roadmap to Problem Identification](https://dev.to/devcorner/master-roadmap-to-problem-identification-5c1)
-- [How to Identify Recursion Problems in Coding Interviews](https://dev.to/devcorner/how-to-identify-recursion-problems-in-coding-interviews-5d03)
+- [Adam Savage&#39;s Tested: Adam Savage Operates Hacksmith&#39;s Fallout Power Armor Hand!](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-operates-hacksmiths-fallout-power-armor-hand-25ac)
+- [KEXP: Valerie June - All I Really Wanna Do &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-valerie-june-all-i-really-wanna-do-live-on-kexp-3pbo)
+- [KEXP: Valerie June - Endless Tree &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-valerie-june-endless-tree-live-on-kexp-1l7j)
+- [KEXP: Valerie June - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-valerie-june-full-performance-live-on-kexp-lfj)
+- [Golf.com: How Cypress Point Stays Perfect | Super Secrets At The Walker Cup](https://dev.to/youtube_golf/golfcom-how-cypress-point-stays-perfect-super-secrets-at-the-walker-cup-5a25)
 <!-- BLOG-POST-LIST:END -->
 
 ---
