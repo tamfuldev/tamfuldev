@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Adam Savage&#39;s Tested: Adam Savage Operates Hacksmith&#39;s Fallout Power Armor Hand!](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-operates-hacksmiths-fallout-power-armor-hand-25ac)
-- [KEXP: Valerie June - All I Really Wanna Do &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-valerie-june-all-i-really-wanna-do-live-on-kexp-3pbo)
-- [KEXP: Valerie June - Endless Tree &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-valerie-june-endless-tree-live-on-kexp-1l7j)
-- [KEXP: Valerie June - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-valerie-june-full-performance-live-on-kexp-lfj)
-- [Golf.com: How Cypress Point Stays Perfect | Super Secrets At The Walker Cup](https://dev.to/youtube_golf/golfcom-how-cypress-point-stays-perfect-super-secrets-at-the-walker-cup-5a25)
+- [Stop Messing Up GA4 Events: A Type-Safe Analytics Library for React &amp; Next.js](https://dev.to/connectaryal/stop-messing-up-ga4-events-a-type-safe-analytics-library-for-react-nextjs-5em8)
+- [ChatGPT Just Got a Game-Changing New Feature — Here’s How Developers Can Leverage It](https://dev.to/smartaidrop/chatgpt-just-got-a-game-changing-new-feature-heres-how-developers-can-leverage-it-2g0l)
+- [Market Exchange: 2. The Architecture](https://dev.to/arturaronov/market-exchange-2-the-architecture-4nhj)
+- [🚨 This isn’t a hit piece. It’s a reality check for anyone building serious systems with GraphQL.](https://dev.to/amaster507_59/this-isnt-a-hit-piece-its-a-reality-check-for-anyone-building-serious-systems-with-graphql-395i)
+- [Kubernetes YAMLs Demystified: What’s the Difference?](https://dev.to/anuchito/kubernetes-yamls-demystified-whats-the-difference-hdd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
