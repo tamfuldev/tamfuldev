@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [IA e Cultura de Engenharia: Cooperação Humano–Máquina na Prática de Desenvolvimento](https://dev.to/targanski/ia-e-cultura-de-engenharia-cooperacao-humano-maquina-na-pratica-de-desenvolvimento-2lk2)
-- [My Summer 2025 Dev Journey: AI Challenges, Robot Adventures, and Community Growth 🌞](https://dev.to/prema_ananda/my-summer-2025-dev-journey-ai-challenges-robot-adventures-and-community-growth-2jka)
-- [🔄 ETL vs ELT: What’s the Difference and Why It Matters?](https://dev.to/shagun_khandelwal/etl-vs-elt-whats-the-difference-and-why-it-matters-ced)
-- [Throughput vs. Latency: The Optimization Dilemma](https://dev.to/meeth_gangwar_f56b17f5aff/throughput-vs-latency-the-optimization-dilemma-385h)
-- [GZip in Rest APi](https://dev.to/sadiul_hakim/gzip-in-rest-api-4k0e)
+- [Beyond the Prompt: How Gemini 2.5 Flash Image is Refactoring AI-Powered Creativity](https://dev.to/stellan/beyond-text-to-image-how-googles-gemini-25-flash-is-redefining-ai-powered-creation-4chd)
+- [Semantic HTML for SEO and Accessibility](https://dev.to/weddy/semantic-html-for-seo-and-accessibility-oig)
+- [The Psychology of Document Translation: Why Structure Shapes Trust](https://dev.to/lily_wilson_1374db3726315/the-psychology-of-document-translation-why-structure-shapes-trust-2hio)
+- [I built my own note-taking app as a student — now I’d love to build it further with you](https://dev.to/smaug6739/i-built-my-own-note-taking-app-as-a-student-now-id-love-to-build-it-further-with-you-3pnp)
+- [IGN: Stalker 2 On PS5 Vs. Xbox - How Different Are They?](https://dev.to/gg_news/ign-stalker-2-on-ps5-vs-xbox-how-different-are-they-2hbm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
