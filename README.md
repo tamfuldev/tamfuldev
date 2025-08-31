@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Alec Steele: I finally did it!](https://dev.to/maker_youtube/alec-steele-i-finally-did-it-446d)
-- [How I Turned My RxJS Headaches Into Rimmel.js](https://dev.to/dariomannu/how-i-turned-my-rxjs-headaches-into-rimmeljs-1kjo)
-- [WYKRA: Web You Know, Real-time Analysis](https://dev.to/olgabraginskaya/wykra-web-you-know-real-time-analysis-20i3)
-- [Why existing React color pickers frustrated me &lpar;and what I built instead&rpar;](https://dev.to/ddoemonn/why-existing-react-color-pickers-frustrated-me-and-what-i-built-instead-5ghg)
-- [What Building My Own ISP Simulation Taught Me About CGNAT and the Internet&#39;s Hidden Backbone](https://dev.to/hassamdev/what-building-my-own-isp-simulation-taught-me-about-cgnat-and-the-internets-hidden-backbone-46d6)
+- [August 2025 At Releem - Recommendations Impact &amp; Redundant Index Detection](https://dev.to/drupaladmin/august-2025-at-releem-recommendations-impact-redundant-index-detection-2cp5)
+- [Engineering Lifecycle: Circuits vs Software](https://dev.to/wale1202/engineering-lifecycle-circuits-vs-software-oeb)
+- [Go 1.25 JSON v2: Benchmarks, Raptor Escapes, and a 1.8 Speedup](https://dev.to/ryansgi/go-125-json-v2-benchmarks-raptor-escapes-and-a-18-speedup-5cf3)
+- [Terminally Curious: Diving Into Bash](https://dev.to/middledev/terminally-curious-diving-into-bash-3pda)
+- [Unlocking The Power Of Semantic HTML:Boosting SEO And Accessibility In Web Development](https://dev.to/ezra_nzioki_bf0e14e745929/unlocking-the-power-of-semantic-htmlboosting-seo-and-accessibility-in-web-development-56mp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
