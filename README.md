@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Travel Planning with n8n and Real-time scrape using Bright Data](https://dev.to/masud_ali_cc66779de0c2b2/automating-travel-planning-with-n8n-and-real-time-scrape-using-bright-data-2ao4)
-- [Core JavaScript - Expert Level Revision](https://dev.to/anmshpndy/core-javascript-expert-level-revision-42a2)
-- [Build a .NET Core Web API in minutes with AKSCodeNavAI &lpar;Visual Studio Extension&rpar;](https://dev.to/anup_kumar_51d4c4360384d4/build-a-net-core-web-api-in-minutes-with-akscodenavai-visual-studio-extension-3gok)
-- [LLMOps vs MLOps: What Every Developer Needs to Know in 2025](https://dev.to/gangatharan_gurusamy_22fb/llmops-vs-mlops-what-every-developer-needs-to-know-in-2025-24k4)
-- [My new post in DEV I hope its nice❤️❤️❤️](https://dev.to/mwaibindiete/my-new-post-in-dev-i-hope-its-nice-b84)
+- [Alec Steele: I finally did it!](https://dev.to/maker_youtube/alec-steele-i-finally-did-it-446d)
+- [How I Turned My RxJS Headaches Into Rimmel.js](https://dev.to/dariomannu/how-i-turned-my-rxjs-headaches-into-rimmeljs-1kjo)
+- [WYKRA: Web You Know, Real-time Analysis](https://dev.to/olgabraginskaya/wykra-web-you-know-real-time-analysis-20i3)
+- [Why existing React color pickers frustrated me &lpar;and what I built instead&rpar;](https://dev.to/ddoemonn/why-existing-react-color-pickers-frustrated-me-and-what-i-built-instead-5ghg)
+- [What Building My Own ISP Simulation Taught Me About CGNAT and the Internet&#39;s Hidden Backbone](https://dev.to/hassamdev/what-building-my-own-isp-simulation-taught-me-about-cgnat-and-the-internets-hidden-backbone-46d6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
