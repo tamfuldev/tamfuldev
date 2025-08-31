@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Rise of Hugging Face: How One Company Democratized AI and Transformed Machine Learning](https://dev.to/philipjohnbasile/the-rise-of-hugging-face-how-one-company-democratized-ai-and-transformed-machine-learning-2lmp)
-- [The truth is, AI isn’t here to replace developers; it’s here to accelerate it. If used correctly, developers can learn faster, deeper, and with more confidence.](https://dev.to/jaideepparashar/the-truth-is-ai-isnt-here-to-replace-developers-its-here-to-accelerate-it-if-used-correctly-pi9)
-- [4 things backend developers should consider when developing services for mobile apps](https://dev.to/marcotcdev/4-things-backend-developers-should-consider-when-developing-services-for-mobile-apps-5cnf)
-- [Are Micro-Services Wrong, or Are You Wrong About Micro-Services?](https://dev.to/ianh54/are-micro-services-wrong-or-are-you-wrong-about-micro-services-2i7g)
-- [How Coders Can Use AI to Learn Faster &lpar;Without Cheating&rpar;](https://dev.to/jaideepparashar/how-coders-can-use-ai-to-learn-faster-without-cheating-2gk0)
+- [Connect to Multiple Linux Servers via SSH Without Entering Password: Step-by-Step Guide](https://dev.to/elliot_brenya/connect-to-multiple-linux-servers-via-ssh-without-entering-password-step-by-step-guide-232d)
+- [The Complete Beginner&#39;s Guide to LangChain: Why Every Developer Needs This Framework in 2025&lpar;PART 1&rpar;](https://dev.to/fonyuygita/the-complete-beginners-guide-to-langchain-why-every-developer-needs-this-framework-in-2025part-1-2d55)
+- [Experimentando con Elm en mi trabajo](https://dev.to/agj/experimentando-con-elm-en-mi-trabajo-2c78)
+- [Simplify OTP Generation with one-time-pass 🔑](https://dev.to/haikelfazzani/simplify-otp-generation-with-one-time-pass-1dbj)
+- [ChatGPT vs. My System Cleanup Script: Who&#39;s Winning?](https://dev.to/elliot_brenya/chatgpt-vs-my-system-cleanup-script-whos-winning-fek)
 <!-- BLOG-POST-LIST:END -->
 
 ---
