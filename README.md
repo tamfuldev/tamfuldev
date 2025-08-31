@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Adam Savage&#39;s Tested: Adam Savage Wishes the News Would Cover This Subject](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-wishes-the-news-would-cover-this-subject-1d8h)
-- [🔥 DOM is Dead? How React&#39;s New Compiler Will Change Everything &lpar;And What You Should Do Now&rpar;](https://dev.to/ekwoster/dom-is-dead-how-reacts-new-compiler-will-change-everything-and-what-you-should-do-now-ph)
-- [IGN: Donkey Kong Bananza - All Style Options and Outfits &lpar;4K&rpar;](https://dev.to/gg_news/ign-donkey-kong-bananza-all-style-options-and-outfits-4k-4a52)
-- [Attack of the Messy Queries: Rise of the Query Builder](https://dev.to/killallskywalker/attack-of-the-messy-queries-rise-of-the-query-builder-4ljf)
-- [Building Interactive SDK Walkthroughs with WebGL](https://dev.to/buildvr/building-interactive-sdk-walkthroughs-with-webgl-42fp)
+- [How GPUs Organize Work: Or What are GPU Warps](https://dev.to/shrsv/how-gpus-organize-work-or-what-are-gpu-warps-2k4p)
+- [Topological Sort](https://dev.to/khushi2488/topological-sort-1hm3)
+- [Unity vs Unreal vs Godot: Finding Your Perfect Game Engine in 2025](https://dev.to/philipjohnbasile/unity-vs-unreal-vs-godot-finding-your-perfect-game-engine-in-2025-1ck9)
+- [30 Days Of Code- Day 30](https://dev.to/akshitaexe/30-days-of-code-day-30-3kdd)
+- [Instant AI Text Enhancements in React with prompt-my-client-react](https://dev.to/rajanlagah/instant-ai-text-enhancements-in-react-with-prompt-my-client-react-4gpp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
