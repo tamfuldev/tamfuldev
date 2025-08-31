@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Daily DSA and System Design Journal - 3](https://dev.to/ik_8a78062fd65be769dd835/daily-dsa-and-system-design-journal-3-2ech)
-- [Find the Next Instagram Stars Before They Explode: AI-Powered Growth Predictor](https://dev.to/vec21/find-the-next-instagram-stars-before-they-explode-ai-powered-growth-predictor-4f7c)
-- [Horizon World Tutorial - Maze Runner - Part 2 - Game and Player Controller](https://dev.to/lnationorg/horizon-world-tutorial-maze-runner-part-2-game-and-player-controller-fo7)
-- [AltSchool Of Engineering Tinyuka’24 Month 6 Week 4](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-6-week-4-5057)
-- [Animating Pixel Art Fabric with Unity Shader](https://dev.to/sarasol/animating-pixel-art-fabric-with-unity-shader-6f1)
+- [Bangun &quot;OpenAI Versi Internal&quot; dengan Dedicated AI Cluster](https://dev.to/ezzeddinp/bangun-openai-versi-internal-dengan-dedicated-ai-cluster-d5e)
+- [Object-Oriented Programming in Java: An Academic Perspective](https://dev.to/khan1203/object-oriented-programming-in-java-an-academic-perspective-1d3m)
+- [Phase of Compiler](https://dev.to/mujahida_joynab_64c7407d8/phase-of-compiler-5hbj)
+- [The Cryptographic Backdoor Hidden in Every Android Phone](https://dev.to/martijn_assie_12a2d3b1833/the-cryptographic-backdoor-hidden-in-every-android-phone-3j1m)
+- [Anatomy of Email Security Vulnerabilities: How Spoofing, Protocol Weaknesses, and Misconfigurations Power Modern Attacks](https://dev.to/mohamed_essam_27afebce427/anatomy-of-email-security-vulnerabilities-how-spoofing-protocol-weaknesses-and-misconfigurations-1ml8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
