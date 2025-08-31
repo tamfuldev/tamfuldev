@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Secure Your .NET 8 APIs in Minutes with OpenIddict: A Minimalist&#39;s Guide](https://dev.to/abdecoder/secure-your-net-8-apis-in-minutes-with-openiddict-a-minimalists-guide-2bog)
-- [Who is a senior developer?](https://dev.to/dobrenteiistvan/who-is-a-senior-developer-5di8)
-- [Solving “No Space Left on Device” with a Little Bit of AWS Trick](https://dev.to/lovestaco/solving-no-space-left-on-device-with-a-little-bit-of-aws-trick-ced)
-- [🚀 Build a Stunning Glassmorphic E-commerce Product Card with HTML &amp; CSS](https://dev.to/safdarali25/build-a-stunning-glassmorphic-e-commerce-product-card-with-html-css-3e9b)
-- [AI-Assisted Code Review: Opportunities and Pitfalls](https://dev.to/dixitgurv/ai-assisted-code-review-opportunities-and-pitfalls-llp)
+- [Automating Travel Planning with n8n and Real-time scrape using Bright Data](https://dev.to/masud_ali_cc66779de0c2b2/automating-travel-planning-with-n8n-and-real-time-scrape-using-bright-data-2ao4)
+- [Core JavaScript - Expert Level Revision](https://dev.to/anmshpndy/core-javascript-expert-level-revision-42a2)
+- [Build a .NET Core Web API in minutes with AKSCodeNavAI &lpar;Visual Studio Extension&rpar;](https://dev.to/anup_kumar_51d4c4360384d4/build-a-net-core-web-api-in-minutes-with-akscodenavai-visual-studio-extension-3gok)
+- [LLMOps vs MLOps: What Every Developer Needs to Know in 2025](https://dev.to/gangatharan_gurusamy_22fb/llmops-vs-mlops-what-every-developer-needs-to-know-in-2025-24k4)
+- [My new post in DEV I hope its nice❤️❤️❤️](https://dev.to/mwaibindiete/my-new-post-in-dev-i-hope-its-nice-b84)
 <!-- BLOG-POST-LIST:END -->
 
 ---
