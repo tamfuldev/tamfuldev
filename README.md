@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to calculate the best days for planetary observation](https://dev.to/rhannequin/how-to-calculate-the-best-days-for-planetary-observation-28k)
-- [Building Components: From Boring Buttons to Receipt-Chomping Cards](https://dev.to/klasniyparen/building-components-from-boring-buttons-to-receipt-chomping-cards-36n1)
-- [Day-88 Memory Management in Java](https://dev.to/tamilselvan1812/day-88-memory-management-in-java-3jd5)
-- [Go 1.25: The Container-Native Release](https://dev.to/klaus82/go-125-the-container-native-release-5dfd)
-- [🔍⭐What is a Primary Key and a Foreign Key in a Database?](https://dev.to/rencberakman/what-is-a-primary-key-and-a-foreign-key-in-a-database-1mmk)
+- [Gen Z and сrypto: a daily ritual](https://dev.to/kubo_sk/gen-z-and-srypto-a-daily-ritual-1jad)
+- [🧠 Understanding Large Language Models &lpar;LLMs&rpar;](https://dev.to/techstuff/understanding-large-language-models-llms-20c0)
+- [How I put clouds in my portfolio and why?](https://dev.to/akashleo/how-i-put-clouds-in-my-portfolio-and-why-b9m)
+- [AWS re/Start – My Week 3 Experience](https://dev.to/ijay/aws-restart-my-week-3-experience-5d6l)
+- [Compiling SaaS as executable binary.](https://dev.to/hugoduprez/compiling-saas-as-executable-binary-126l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
