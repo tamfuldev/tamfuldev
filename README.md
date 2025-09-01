@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [WICK-A11Y v2.2.0 x CYPRESS v15: Parabellum for Axe-ssibility Barriers](https://dev.to/sebastianclavijo/wick-a11y-v220-x-cypress-v15-parabellum-for-axe-essibility-barriers-2fam)
-- [AI Solves Taxes? How Neuro-Symbolic Systems Are Revolutionizing Financial Reasoning](https://dev.to/arvind_rajan/ai-solves-taxes-how-neuro-symbolic-systems-are-revolutionizing-financial-reasoning-1aa)
-- [learning from this great article so I can improve my infra layer :D](https://dev.to/idanielmatt/learning-from-this-great-article-so-i-can-improve-my-infra-layer-d-1bb2)
-- [Diário Dev #5 - Minha jornada no design da interface](https://dev.to/andersonvnieves/diario-dev-5-minha-jornada-no-design-da-interface-5g8f)
-- [Tuning Go&#39;s GOGC: A Practical Guide with Real-World Examples](https://dev.to/jones_charles_ad50858dbc0/tuning-gos-gogc-a-practical-guide-with-real-world-examples-4a00)
+- [🛳️ Docker Series: Episode 10 — Dockerize Your Own Project: Step-by-Step Help for Your Tech Stack](https://dev.to/yash_sonawane25/docker-series-episode-10-dockerize-your-own-project-step-by-step-help-for-your-tech-stack-3mfi)
+- [H3ravel: Bringing Laravel’s Elegance to the JavaScript Ecosystem](https://dev.to/3m1n3nc3/h3ravel-bringing-laravels-elegance-to-the-javascript-ecosystem-26n)
+- [JavaScript - String](https://dev.to/dharshinieswaran/javascript-string-bma)
+- [JavaScript - Array &amp; Methods](https://dev.to/dharshinieswaran/javascript-array-methods-4lff)
+- [IdeaBot — a YouTube-driven Viral Topic Generator.](https://dev.to/shah_pourazadi_5da55a8db5/ideabot-a-youtube-driven-viral-topic-generator-14bn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
