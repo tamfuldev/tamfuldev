@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Secret Weapon: AI as a &quot;Meta-Tool&quot; and Firebase Studio](https://dev.to/progressiveprogrammer/the-secret-weapon-ai-as-a-meta-tool-and-firebase-studio-2phb)
-- [Fixing ARC/eARC Handshakes &amp; Lip-Sync &lpar;Without Losing Your Mind&rpar;](https://dev.to/tiberius1023/fixing-arcearc-handshakes-lip-sync-without-losing-your-mind-5gl5)
-- [Got some code in on the holiday — which I kind of love. No disruptions, etc. Not everybody has to love to code when everyone is offline, but it can be cathartic!](https://dev.to/ben/got-some-code-in-on-the-holiday-which-i-kind-of-love-no-disruptions-etc-not-everybody-has-to-1bo7)
-- [The Rust Journey of a JavaScript Developer • Day 4 &lpar;1/5&rpar;](https://dev.to/fedtti/the-rust-journey-of-a-javascript-developer-day-4-15-4goh)
-- [WebGPU Engine from Scratch Part 7: Specular Lighting](https://dev.to/ndesmic/webgpu-engine-from-scratch-part-7-specular-lighting-4i8j)
+- [AI Repos Hub](https://dev.to/fahadabid545/ai-repos-hub-258)
+- [Mix with the Masters: Mixing Night with Ken Lewis - HARDWARE NIGHT - 9/3/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-hardware-night-932025-37m1)
+- [🚀 Exploring Key Trends in Tech: AI, Cloud, and Best Practices](https://dev.to/vivian_gichure_ec51d453bf/exploring-key-trends-in-tech-ai-cloud-and-best-practices-4nib)
+- [UNLOCKING THE WEB:HOW SEMANTIC HTML SUPERCHARGES SEO AND ACCESSIBILITY](https://dev.to/ica/unlocking-the-webhow-semantic-html-supercharges-seo-and-accessibility-2j8i)
+- [Why to use Medallion Architecture ?](https://dev.to/anshul_02/why-to-use-medallion-architecture--21d3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
