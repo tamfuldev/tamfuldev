@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built faynoSync: A Self-Hosted API for Automatic App Updates](https://dev.to/faynosync/i-built-faynosync-a-self-hosted-api-for-automatic-app-updates-4ocg)
-- [# The TCP 3-Way Handshake: How Connections Begin Their Life](https://dev.to/naval_kishorupadhyay_3e9/-the-tcp-3-way-handshake-how-connections-begin-their-life-4mf1)
-- [Developer experience metrics](https://dev.to/_steve_fenton_/developer-experience-metrics-39a5)
-- [Vidnoz: How to Use Free AI Tools for Videos](https://dev.to/lep/vidnoz-how-to-use-free-ai-tools-for-videos-6kn)
-- [TCP vs UDP: Why Some Apps Want Reliability and Others Want Speed](https://dev.to/naval_kishorupadhyay_3e9/tcp-vs-udp-why-some-apps-want-reliability-and-others-want-speed-17dn)
+- [Blog 2: Subset &amp; Power Set Pattern](https://dev.to/devcorner/blog-2-subset-power-set-pattern-4k1m)
+- [Building BlazeDiff: How I Made The Fastest Image Diff up-to 60% Faster with Block-Level Optimization](https://dev.to/teimurjan/building-blazediff-how-i-made-the-fastest-image-diff-up-to-60-faster-with-block-level-optimization-ok7)
+- [Rust changed my &lpar;superficial&rpar; way of thinking](https://dev.to/mateitudose/rust-changed-my-superficial-way-of-thinking-495i)
+- [Why Resorts Are the New Work-from-Home Spots](https://dev.to/go_stayresorts_/why-resorts-are-the-new-work-from-home-spots-3i6c)
+- [Meme Monday](https://dev.to/ben/meme-monday-4532)
 <!-- BLOG-POST-LIST:END -->
 
 ---
