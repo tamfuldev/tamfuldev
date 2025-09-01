@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Survive AI as a Programmer](https://dev.to/chrismbah/how-to-survive-ai-as-a-programmer-5hp)
-- [SQL for Data Professionals: From Basics to Advanced Analytics](https://dev.to/datalens/sql-for-data-professionals-from-basics-to-advanced-analytics-2nd1)
-- [Master Your Command Line: A Developer&#39;s Guide to Essential Commands](https://dev.to/vickdapro/master-your-command-line-a-developers-guide-to-essential-commands-443f)
-- [Getting Started with SvelteKit: Setup, Project Structure &amp; First App](https://dev.to/a1guy/getting-started-with-sveltekit-setup-project-structure-first-app-2jea)
-- [GameSpot: Hell Is Us Review](https://dev.to/gg_news/gamespot-hell-is-us-review-ppm)
+- [I Built faynoSync: A Self-Hosted API for Automatic App Updates](https://dev.to/faynosync/i-built-faynosync-a-self-hosted-api-for-automatic-app-updates-4ocg)
+- [# The TCP 3-Way Handshake: How Connections Begin Their Life](https://dev.to/naval_kishorupadhyay_3e9/-the-tcp-3-way-handshake-how-connections-begin-their-life-4mf1)
+- [Developer experience metrics](https://dev.to/_steve_fenton_/developer-experience-metrics-39a5)
+- [Vidnoz: How to Use Free AI Tools for Videos](https://dev.to/lep/vidnoz-how-to-use-free-ai-tools-for-videos-6kn)
+- [TCP vs UDP: Why Some Apps Want Reliability and Others Want Speed](https://dev.to/naval_kishorupadhyay_3e9/tcp-vs-udp-why-some-apps-want-reliability-and-others-want-speed-17dn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
