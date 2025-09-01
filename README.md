@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Teach AI to Remember and Share Knowledge?](https://dev.to/kagvi13/how-to-teach-ai-to-remember-and-share-knowledge-3hd9)
-- [Why Building Scalable and Resilient Systems Matters! day 42 of system design basics](https://dev.to/vincenttommi/why-building-scalable-and-resilient-systems-matters-gp5)
-- [A Decade Journey Of A Senior Software Engineer](https://dev.to/holpa/a-decade-journey-of-a-senior-software-engineer-49l7)
-- [Ton IA, c&#39;est comme une pote sortie du congélo !](https://dev.to/oclka/ton-ia-cest-comme-une-pote-sortie-du-congelo--e99)
-- [Collecting Feedback Early Saves Time, Money &amp; Headaches – Building a Lightweight Tool for It](https://dev.to/joel_d52847aa7d32e39d8f65/collecting-feedback-early-saves-time-money-headaches-building-a-lightweight-tool-for-it-23gi)
+- [WICK-A11Y v2.2.0 x CYPRESS v15: Parabellum for Axe-ssibility Barriers](https://dev.to/sebastianclavijo/wick-a11y-v220-x-cypress-v15-parabellum-for-axe-essibility-barriers-2fam)
+- [AI Solves Taxes? How Neuro-Symbolic Systems Are Revolutionizing Financial Reasoning](https://dev.to/arvind_rajan/ai-solves-taxes-how-neuro-symbolic-systems-are-revolutionizing-financial-reasoning-1aa)
+- [learning from this great article so I can improve my infra layer :D](https://dev.to/idanielmatt/learning-from-this-great-article-so-i-can-improve-my-infra-layer-d-1bb2)
+- [Diário Dev #5 - Minha jornada no design da interface](https://dev.to/andersonvnieves/diario-dev-5-minha-jornada-no-design-da-interface-5g8f)
+- [Tuning Go&#39;s GOGC: A Practical Guide with Real-World Examples](https://dev.to/jones_charles_ad50858dbc0/tuning-gos-gogc-a-practical-guide-with-real-world-examples-4a00)
 <!-- BLOG-POST-LIST:END -->
 
 ---
