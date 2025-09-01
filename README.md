@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🛳️ Docker Series: Episode 10 — Dockerize Your Own Project: Step-by-Step Help for Your Tech Stack](https://dev.to/yash_sonawane25/docker-series-episode-10-dockerize-your-own-project-step-by-step-help-for-your-tech-stack-3mfi)
-- [H3ravel: Bringing Laravel’s Elegance to the JavaScript Ecosystem](https://dev.to/3m1n3nc3/h3ravel-bringing-laravels-elegance-to-the-javascript-ecosystem-26n)
-- [JavaScript - String](https://dev.to/dharshinieswaran/javascript-string-bma)
-- [JavaScript - Array &amp; Methods](https://dev.to/dharshinieswaran/javascript-array-methods-4lff)
-- [IdeaBot — a YouTube-driven Viral Topic Generator.](https://dev.to/shah_pourazadi_5da55a8db5/ideabot-a-youtube-driven-viral-topic-generator-14bn)
+- [Stop Repeating CSS! Learn CSS Nesting](https://dev.to/devshefali/stop-repeating-css-learn-css-nesting-2cb2)
+- [Array In JavaScript](https://dev.to/bhuvanasri/array-in-javascript-387c)
+- [Mark Cuban: AI Implementation Challenges Create Opportunities for Gen Z Innovators](https://dev.to/max_mayer/mark-cuban-ai-implementation-challenges-create-opportunities-for-gen-z-innovators-281g)
+- [🚀 Vyoma for Students – Built by Us, for Us](https://dev.to/pjdeveloper896/vyoma-for-students-built-by-us-for-us-2lg0)
+- [Critical Requirements for Modern API Monitoring](https://dev.to/catchpoint/critical-requirements-for-modern-api-monitoring-58o7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
