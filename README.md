@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI Repos Hub](https://dev.to/fahadabid545/ai-repos-hub-258)
-- [Mix with the Masters: Mixing Night with Ken Lewis - HARDWARE NIGHT - 9/3/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-hardware-night-932025-37m1)
-- [🚀 Exploring Key Trends in Tech: AI, Cloud, and Best Practices](https://dev.to/vivian_gichure_ec51d453bf/exploring-key-trends-in-tech-ai-cloud-and-best-practices-4nib)
-- [UNLOCKING THE WEB:HOW SEMANTIC HTML SUPERCHARGES SEO AND ACCESSIBILITY](https://dev.to/ica/unlocking-the-webhow-semantic-html-supercharges-seo-and-accessibility-2j8i)
-- [Why to use Medallion Architecture ?](https://dev.to/anshul_02/why-to-use-medallion-architecture--21d3)
+- [Mastering Semantic HTML: SEO &amp; Accessibility Benefits for Developers](https://dev.to/lewis_nganga_ed1e01bbd7/mastering-semantic-html-seo-accessibility-benefits-for-developers-n96)
+- [Chrome DevTools: The Complete Use Case Guide for Developers](https://dev.to/gaw/chrome-devtools-the-complete-use-case-guide-for-developers-20la)
+- [Tracking outbound API calls from your application: why, what worked &lpar;and what didn’t&rpar;](https://dev.to/gaw/tracking-outbound-api-calls-from-your-application-why-what-worked-and-what-didnt-13ii)
+- [Mastering the Model Context Protocol &lpar;MCP&rpar;: A Comprehensive Guide](https://dev.to/gaw/mastering-the-model-context-protocol-mcp-a-comprehensive-guide-4m20)
+- [What does the future of coding interviews look like in the age of LLMs?](https://dev.to/gaw/what-does-the-future-of-coding-interviews-look-like-in-the-age-of-llms-4aji)
 <!-- BLOG-POST-LIST:END -->
 
 ---
