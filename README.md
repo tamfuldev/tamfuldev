@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Working with Github](https://dev.to/theoriginalbpc/working-with-github-34mm)
-- [Spring AI with Amazon Bedrock - Part 3 Exploring Model Context Protocol SSE transport](https://dev.to/aws-heroes/spring-ai-with-amazon-bedrock-part-3-exploring-model-context-protocol-sse-transport-48ah)
-- [Django vs Flask vs FastAPI](https://dev.to/atifwattoo/django-vs-flask-vs-fastapi-37n4)
-- [Turn Your Photos into String Art with Code and Creativity 🎨🧵](https://dev.to/_a4789b89e909d6bcb171e/turn-your-photos-into-string-art-with-code-and-creativity-acb)
-- [Creating bouncing animations using Sine waves &lpar;Kotlin + Jetpack Compose&rpar;: Part 2](https://dev.to/agusioma/creating-bouncing-animations-using-sine-waves-kotlin-jetpack-compose-part-2-2371)
+- [IGN: Hell is Us - Official &quot;This is Hell Is Us&quot; Overview Trailer](https://dev.to/gg_news/ign-hell-is-us-official-this-is-hell-is-us-overview-trailer-8hp)
+- [IGN: Aegis Force: The Scorian War – Official Demo Announcement Trailer](https://dev.to/gg_news/ign-aegis-force-the-scorian-war-official-demo-announcement-trailer-4dk3)
+- [The Null Awakens: Making Missing Data Harmless](https://dev.to/killallskywalker/the-null-awakens-making-missing-data-harmless-4fo6)
+- [🚀 Level Up Your Laravel Requests with DTOs &lpar;Data Transfer Objects&rpar;](https://dev.to/naveen_dev/level-up-your-laravel-requests-with-dtos-data-transfer-objects-8en)
+- [Microservices Design Patterns in Java](https://dev.to/dixitgurv/microservices-design-patterns-in-java-3pfk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
