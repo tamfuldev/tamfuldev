@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Hell is Us - Official &quot;This is Hell Is Us&quot; Overview Trailer](https://dev.to/gg_news/ign-hell-is-us-official-this-is-hell-is-us-overview-trailer-8hp)
-- [IGN: Aegis Force: The Scorian War – Official Demo Announcement Trailer](https://dev.to/gg_news/ign-aegis-force-the-scorian-war-official-demo-announcement-trailer-4dk3)
-- [The Null Awakens: Making Missing Data Harmless](https://dev.to/killallskywalker/the-null-awakens-making-missing-data-harmless-4fo6)
-- [🚀 Level Up Your Laravel Requests with DTOs &lpar;Data Transfer Objects&rpar;](https://dev.to/naveen_dev/level-up-your-laravel-requests-with-dtos-data-transfer-objects-8en)
-- [Microservices Design Patterns in Java](https://dev.to/dixitgurv/microservices-design-patterns-in-java-3pfk)
+- [Setup and Configure SSH on Ubuntu 22.04](https://dev.to/divyanshutiwari_13/setup-and-configure-ssh-on-ubuntu-2204-5d6e)
+- [USE OF SEMANTIC HTML](https://dev.to/iamimani/use-of-semantic-html-1lm)
+- [JavaScript Object Methods — Quick Revision ✨](https://dev.to/usama_dev/javascript-object-methods-quick-revision-588b)
+- [🏰 Легенда о пяти рыцарях SOLID](https://dev.to/easycat/lieghienda-o-piati-rytsariakh-solid-lj2)
+- [IMPLEMENTING SEMANTIC HTML](https://dev.to/iamimani/implementing-semantic-html-1m8o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
