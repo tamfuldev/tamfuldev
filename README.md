@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dica Java: Variáveis de Ambiente #010](https://dev.to/oigorrudel/dica-java-variaveis-de-ambiente-010-5ckk)
-- [Daily DSA and System Design Journal - 4](https://dev.to/ik_8a78062fd65be769dd835/daily-dsa-and-system-design-journal-4-2dn4)
-- [The &quot;Ordinariness&quot; of Tech](https://dev.to/marvinoka4/the-ordinariness-of-tech-33jp)
-- [BDD: Make the Business Write Your Tests](https://dev.to/jerrettdavis/bdd-make-the-business-write-your-tests-27c9)
-- [Standardizing API Responses in Django REST Framework with a Custom Response Wrapper](https://dev.to/vincenttommi/standardizing-api-responses-in-django-rest-framework-with-a-custom-response-wrapper-8ii)
+- [The Core Principles of Web Internationalization](https://dev.to/xfq/the-core-principles-of-web-internationalization-4gal)
+- [Untangling the Stack: How TypeScript and Dirty Dishes Share the Same Data Structure](https://dev.to/rubenoalvarado/untangling-the-stack-how-typescript-and-dirty-dishes-share-the-same-data-structure-32jf)
+- [GTMT Untitled](https://dev.to/_7848d33420a38c40d/gtmt-untitled-35el)
+- [Terraform CDK + Go: Building a Complete Serverless API Project &lpar;Part 1&rpar;](https://dev.to/markgerald/terraform-cdk-go-building-a-complete-serverless-api-project-part-1-1hml)
+- [3D Printing Nerd: FIRST LOOK at the Bambu Lab H2S!](https://dev.to/maker_youtube/3d-printing-nerd-first-look-at-the-bambu-lab-h2s-2h41)
 <!-- BLOG-POST-LIST:END -->
 
 ---
