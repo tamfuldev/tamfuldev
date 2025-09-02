@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to get a stripe MCC &lpar;Merchant code&rpar; with Python](https://dev.to/sayrolivares/how-to-get-a-stripe-mcc-merchant-code-with-python-4m70)
-- [IGN: The LEGO Group - Official &#39;Never Stop Playing&#39; Short &lpar;ft. Tom Holland&rpar;](https://dev.to/gg_news/ign-the-lego-group-official-never-stop-playing-short-ft-tom-holland-5gi4)
-- [🌌A Tutorial on P-adic Structures with Clojure.](https://dev.to/p_pumulo/a-tutorial-on-p-adic-structures-with-clojure-30e4)
-- [Kinde new features in August](https://dev.to/kinde/kinde-new-features-in-august-45l1)
-- [Introducing Custom Elements Runtime](https://dev.to/jshimkoski/introducing-custom-elements-runtime-4gc3)
+- [Stablecoins and Tokenized Assets: What Developers Should Know About the Next Wave of Crypto in 2025](https://dev.to/shalom_guillermo_ecc62079/stablecoins-and-tokenized-assets-what-developers-should-know-about-the-next-wave-of-crypto-in-2025-4l82)
+- [Critical Risk: Seeyon OA Arbitrary Password Reset Vulnerability](https://dev.to/sharon_42e16b8da44dabde6d/critical-risk-seeyon-oa-arbitrary-password-reset-vulnerability-22ee)
+- [Why Your AI Pipeline Breaks: The Bootstrap Ordering Mistake &lpar;ProblemMap No.14&rpar;](https://dev.to/onestardao/why-your-ai-pipeline-breaks-the-bootstrap-ordering-mistake-problemmap-no14-31he)
+- [The 10-Line Architecture That Scaled to 50+ Pages](https://dev.to/maurya-sachin/the-10-line-architecture-that-scaled-to-50-pages-4na0)
+- [PostgreSQL vs MySQL: Which One Handles High-Concurrency Continuous Authentication Systems Better?](https://dev.to/xinjie_zou_d67d2805538130/postgresql-vs-mysql-which-one-handles-high-concurrency-continuous-authentication-systems-better-1nab)
 <!-- BLOG-POST-LIST:END -->
 
 ---
