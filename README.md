@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Part 3: How to Fix Your GPU Utilization](https://dev.to/shohams/part-3-how-to-fix-your-gpu-utilization-52d4)
-- [How AWS DevOps Can 10x Your Shipping Speed and Turbocharge Team Growth](https://dev.to/heyjoshlee/how-aws-devops-can-10x-your-shipping-speed-and-turbocharge-team-growth-5f8g)
-- [a complete CI/CD learning project for DevOps beginners!](https://dev.to/mohamedelaassal/a-complete-cicd-learning-project-for-devops-beginners-52g7)
-- [Top 6 MySQL Database Management Struggles for Laravel Developers &lpar;And Smart Fixes&rpar;](https://dev.to/drupaladmin/top-6-mysql-database-management-struggles-for-laravel-developers-and-smart-fixes-37cg)
-- [Introduction to Server in Backend Development](https://dev.to/shifa_2/introduction-to-server-in-backend-development-3hkm)
+- [How to Optimize SQL Queries in High-Traffic Applications](https://dev.to/dixitgurv/how-to-optimize-sql-queries-in-high-traffic-applications-52d9)
+- [🔒 Configuring Secure Access to Workloads with Azure Firewall](https://dev.to/peter_samuel_052b9056e236/configuring-secure-access-to-workloads-with-azure-firewall-4elg)
+- [Agentic AI News Digest for August 25-29](https://dev.to/alexmercedcoder/agentic-ai-news-digest-for-august-25-29-2agj)
+- [Adam Savage&#39;s Tested: Adam Savage Bathes a 157-Year-Old Newspaper! &lpar;at @NationalParkService Museum Conservation Lab&rpar;](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-bathes-a-157-year-old-newspaper-at-nationalparkservice-museum-54p5)
+- [KEXP: Samantha Crain - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-samantha-crain-full-performance-live-on-kexp-fdg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
