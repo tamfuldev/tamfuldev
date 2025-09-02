@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Portfolio Relaunch — React, Vite, and MDX](https://dev.to/andrewteece/portfolio-relaunch-react-vite-and-mdx-mog)
-- [COLORS: rusowsky - &lpar;ecco&rpar; | A COLORS SHOW](https://dev.to/music_youtube/colors-rusowsky-ecco-a-colors-show-2jde)
-- [Rick Beato: David Gilmour: The Studio Interview 2025](https://dev.to/music_youtube/rick-beato-david-gilmour-the-studio-interview-2025-1l9m)
-- [Bryan Bros Golf: Can We Break Course Record at This Cheap Course?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-break-course-record-at-this-cheap-course-404d)
-- [IGN: Metal Eden - Official CGI Launch Trailer](https://dev.to/gg_news/ign-metal-eden-official-cgi-launch-trailer-1e6k)
+- [ArtistAssistApp Improvements – August 2025](https://dev.to/eugene-khyst/artistassistapp-improvements-august-2025-11fb)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4hd4)
+- [ChatGPT Safety: Parental Controls, GPT-5 Routing, and Crisis Handling](https://dev.to/alifar/chatgpt-safety-parental-controls-gpt-5-routing-and-crisis-handling-57n4)
+- [🧪 Test Automation Meetup – September 2025 Karate Beyond API Testing &amp; RPA in Test Automation](https://dev.to/testomatio/test-automation-meetup-september-2025karate-beyond-api-testing-rpa-in-test-automation-136h)
+- [Cómo Aprobar el Examen de AWS Solutions Architect Professional Como un Verdadero Pro](https://dev.to/aws-espanol/como-aprobar-el-examen-de-aws-solutions-architect-professional-como-un-verdadero-pro-lf5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
