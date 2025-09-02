@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [JSON.parse&lpar;&rpar; kept failing with Ollama responses on localhost - spent 3 hours debugging, here&#39;s what worked 💪](https://dev.to/manish169/jsonparse-kept-failing-with-ollama-responses-on-localhost-spent-3-hours-debugging-heres-what-1o79)
-- [Oxford’s New AI Optimizer Cuts Training Costs by 80% and Speeds Up 7x](https://dev.to/aiwithapex/oxfords-new-ai-optimizer-cuts-training-costs-by-80-and-speeds-up-7x-5cna)
-- [The Role of Infrastructure Automation in Cloud and Multi-Cloud Environments](https://dev.to/dhruvseo16/the-role-of-infrastructure-automation-in-cloud-and-multi-cloud-environments-19in)
-- [Mastering Access Tokens &amp; Refresh Tokens: From Origins to Modern Authentication](https://dev.to/yuktisays/mastering-access-tokens-refresh-tokens-from-origins-to-modern-authentication-5e3i)
-- [Flexbox Centering](https://dev.to/jyotiux/flexbox-centering-1a7a)
+- [Why is Turbo C++ still being used in Indian schools and colleges?](https://dev.to/sommukhopadhyay/why-is-turbo-c-still-being-used-in-indian-schools-and-colleges-3inf)
+- [Ringer Movies: &#39;American Gangster’ With Bill Simmons, Chris Ryan, and Van Lathan | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-american-gangster-with-bill-simmons-chris-ryan-and-van-lathan-the-rewatchables-5ffj)
+- [100 Days of DevOps: Day 30](https://dev.to/wycliffealphus/100-days-of-devops-day-30-11o1)
+- [Integrating the Helix editor and Tmux](https://dev.to/pietrangelo/integrating-the-helix-editor-and-tmux-1dmd)
+- [Untitled](https://dev.to/sharifa_ahmad_af2e7b39b15/untitled-2h9a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
