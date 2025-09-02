@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Final Fantasy Tactics - The Ivalice Chronicles Hands on Impressions](https://dev.to/gg_news/gamespot-final-fantasy-tactics-the-ivalice-chronicles-hands-on-impressions-2p72)
-- [IGN: Helldivers 2 - Official &#39;Into the Unjust&#39; Update Launch Trailer](https://dev.to/gg_news/ign-helldivers-2-official-into-the-unjust-update-launch-trailer-5dd0)
-- [Reliable Puppeteer Container Setup for PDF Generation](https://dev.to/cordlesswool/reliable-puppeteer-container-setup-for-pdf-generation-198h)
-- [Datadog, Reframed: A Simple Way to Think About Agents, Pipelines, Indexes, and More](https://dev.to/k4ji_dev/datadog-reframed-a-simple-way-to-think-about-agents-pipelines-indexes-and-more-1nfj)
-- [Compile-Time and Runtime Polymorphism in Java](https://dev.to/arun_kumar_98/compile-time-and-runtime-polymorphism-in-java-1bch)
+- [Part 3: How to Fix Your GPU Utilization](https://dev.to/shohams/part-3-how-to-fix-your-gpu-utilization-52d4)
+- [How AWS DevOps Can 10x Your Shipping Speed and Turbocharge Team Growth](https://dev.to/heyjoshlee/how-aws-devops-can-10x-your-shipping-speed-and-turbocharge-team-growth-5f8g)
+- [a complete CI/CD learning project for DevOps beginners!](https://dev.to/mohamedelaassal/a-complete-cicd-learning-project-for-devops-beginners-52g7)
+- [Top 6 MySQL Database Management Struggles for Laravel Developers &lpar;And Smart Fixes&rpar;](https://dev.to/drupaladmin/top-6-mysql-database-management-struggles-for-laravel-developers-and-smart-fixes-37cg)
+- [Introduction to Server in Backend Development](https://dev.to/shifa_2/introduction-to-server-in-backend-development-3hkm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
