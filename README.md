@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stablecoins and Tokenized Assets: What Developers Should Know About the Next Wave of Crypto in 2025](https://dev.to/shalom_guillermo_ecc62079/stablecoins-and-tokenized-assets-what-developers-should-know-about-the-next-wave-of-crypto-in-2025-4l82)
-- [Critical Risk: Seeyon OA Arbitrary Password Reset Vulnerability](https://dev.to/sharon_42e16b8da44dabde6d/critical-risk-seeyon-oa-arbitrary-password-reset-vulnerability-22ee)
-- [Why Your AI Pipeline Breaks: The Bootstrap Ordering Mistake &lpar;ProblemMap No.14&rpar;](https://dev.to/onestardao/why-your-ai-pipeline-breaks-the-bootstrap-ordering-mistake-problemmap-no14-31he)
-- [The 10-Line Architecture That Scaled to 50+ Pages](https://dev.to/maurya-sachin/the-10-line-architecture-that-scaled-to-50-pages-4na0)
-- [PostgreSQL vs MySQL: Which One Handles High-Concurrency Continuous Authentication Systems Better?](https://dev.to/xinjie_zou_d67d2805538130/postgresql-vs-mysql-which-one-handles-high-concurrency-continuous-authentication-systems-better-1nab)
+- [IT Vendor Spend Analysis](https://dev.to/dipti_moryani_08e62702314/it-vendor-spend-analysis-43a2)
+- [EchoAPIモック機能で開発効率アップ！並行開発の実践ノウハウ](https://dev.to/waterlily_0f365e5fadded0f/echoapimotukuji-neng-dekai-fa-xiao-lu-atupubing-xing-kai-fa-noshi-jian-nouhau-21nf)
+- [Inside the Hacker’s Playbook: How Your Passwords Are Cracked in 2025](https://dev.to/mohamed_essam_27afebce427/inside-the-hackers-playbook-how-your-passwords-are-cracked-in-2025-5egk)
+- [Glances vs Top: Which Is the Best Monitoring Tool for Linux Servers?](https://dev.to/letscloud/glances-vs-top-which-is-the-best-monitoring-tool-for-linux-servers-1m4g)
+- [BFF no NestJS: só DTOs, sem entities por favor](https://dev.to/3jacksonsmith/bff-no-nestjs-so-dtos-sem-entities-por-favor-1f62)
 <!-- BLOG-POST-LIST:END -->
 
 ---
