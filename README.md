@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Core Principles of Web Internationalization](https://dev.to/xfq/the-core-principles-of-web-internationalization-4gal)
-- [Untangling the Stack: How TypeScript and Dirty Dishes Share the Same Data Structure](https://dev.to/rubenoalvarado/untangling-the-stack-how-typescript-and-dirty-dishes-share-the-same-data-structure-32jf)
-- [GTMT Untitled](https://dev.to/_7848d33420a38c40d/gtmt-untitled-35el)
-- [Terraform CDK + Go: Building a Complete Serverless API Project &lpar;Part 1&rpar;](https://dev.to/markgerald/terraform-cdk-go-building-a-complete-serverless-api-project-part-1-1hml)
-- [3D Printing Nerd: FIRST LOOK at the Bambu Lab H2S!](https://dev.to/maker_youtube/3d-printing-nerd-first-look-at-the-bambu-lab-h2s-2h41)
+- [How to get a stripe MCC &lpar;Merchant code&rpar; with Python](https://dev.to/sayrolivares/how-to-get-a-stripe-mcc-merchant-code-with-python-4m70)
+- [IGN: The LEGO Group - Official &#39;Never Stop Playing&#39; Short &lpar;ft. Tom Holland&rpar;](https://dev.to/gg_news/ign-the-lego-group-official-never-stop-playing-short-ft-tom-holland-5gi4)
+- [🌌A Tutorial on P-adic Structures with Clojure.](https://dev.to/p_pumulo/a-tutorial-on-p-adic-structures-with-clojure-30e4)
+- [Kinde new features in August](https://dev.to/kinde/kinde-new-features-in-august-45l1)
+- [Introducing Custom Elements Runtime](https://dev.to/jshimkoski/introducing-custom-elements-runtime-4gc3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
