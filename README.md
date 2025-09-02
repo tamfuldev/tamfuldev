@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Enhanced Detection System Configuration Guide](https://dev.to/cag000/enhanced-detection-system-configuration-guide-376e)
-- [TensorRT Engine Model Fixes Implementation](https://dev.to/cag000/tensorrt-engine-model-fixes-implementation-296e)
-- [This is why your GitHub account could be reducing your chances of getting a job](https://dev.to/codenaveen/this-is-why-your-github-account-could-be-reducing-your-chances-of-getting-a-job-2hnk)
-- [Why Atomic Design and Component-Driven Development Are the Perfect Match 🧬](https://dev.to/tahamjp/why-atomic-design-and-component-driven-development-are-the-perfect-match-3ki3)
-- [BeeAI Framework A2A Service Implementation Guide](https://dev.to/czmilo/beeai-framework-a2a-service-implementation-guide-45ag)
+- [My Android AsyncTask implementation vis-a-vis Command Pattern...](https://dev.to/sommukhopadhyay/my-android-asynctask-implementation-vis-a-vis-command-pattern-3g0a)
+- [Build a Responsive NavBar in React with Chakra UI v3](https://dev.to/andemosa/build-a-responsive-navbar-in-react-with-chakra-ui-v3-25hb)
+- [NDC Conferences: Launch of Trumf Pay – Seamless payment and bonuses with your mobile - Bodil Ibrahim](https://dev.to/scale_youtube/ndc-conferences-launch-of-trumf-pay-seamless-payment-and-bonuses-with-your-mobile-bodil-ibrahim-314f)
+- [Ruby Triathlon starts this week](https://dev.to/lucianghinda/ruby-triathlon-starts-this-week-4131)
+- [Unleashing the Power of TypeScript Mapped Types](https://dev.to/vjnvisakh/unleashing-the-power-of-typescript-mapped-types-37cn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
