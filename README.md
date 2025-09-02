@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI on Autopilot: Automating Your AI Agents with Symfony Scheduler](https://dev.to/mattleads/ai-on-autopilot-automating-your-ai-agents-with-symfony-scheduler-55f9)
-- [Create a Fully Functional JavaScript Calculator with Dark/Light Mode &amp; Scientific Function](https://dev.to/s_mathavi_2fa1e3ea8514f34/create-a-fully-functional-javascript-calculator-with-darklight-mode-scientific-function-10en)
-- [IP Addressing and Subnetting Simplified](https://dev.to/naval_kishorupadhyay_3e9/ip-addressing-and-subnetting-simplified-4hke)
-- [Gemini 2.5 Image Preview 🍟](https://dev.to/dongnt/gemini-25-image-preview-3a0l)
-- [Solving Your Time Management Problems](https://dev.to/fluidwave/solving-your-time-management-problems-59bg)
+- [Enhanced Detection System Configuration Guide](https://dev.to/cag000/enhanced-detection-system-configuration-guide-376e)
+- [TensorRT Engine Model Fixes Implementation](https://dev.to/cag000/tensorrt-engine-model-fixes-implementation-296e)
+- [This is why your GitHub account could be reducing your chances of getting a job](https://dev.to/codenaveen/this-is-why-your-github-account-could-be-reducing-your-chances-of-getting-a-job-2hnk)
+- [Why Atomic Design and Component-Driven Development Are the Perfect Match 🧬](https://dev.to/tahamjp/why-atomic-design-and-component-driven-development-are-the-perfect-match-3ki3)
+- [BeeAI Framework A2A Service Implementation Guide](https://dev.to/czmilo/beeai-framework-a2a-service-implementation-guide-45ag)
 <!-- BLOG-POST-LIST:END -->
 
 ---
