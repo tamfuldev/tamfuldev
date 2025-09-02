@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Samantha Crain - Gumshoe &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-samantha-crain-gumshoe-live-on-kexp-aag)
-- [KEXP: Samantha Crain - Dragonfly &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-samantha-crain-dragonfly-live-on-kexp-p2l)
-- [KEXP: Samantha Crain - Dart &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-samantha-crain-dart-live-on-kexp-1f32)
-- [KEXP: Samantha Crain - B-Attitudes &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-samantha-crain-b-attitudes-live-on-kexp-50dl)
-- [No Laying Up Podcast: Future of the PGA Tour + Team Europe Finalized | NLU Pod, Ep 1064](https://dev.to/youtube_golf/no-laying-up-podcast-future-of-the-pga-tour-team-europe-finalized-nlu-pod-ep-1064-1fpp)
+- [Comparing MCP vs LangChain/ReAct for Chatbots](https://dev.to/om_shree_0709/comparing-mcp-vs-langchainreact-for-chatbots-4ci5)
+- [Literally Everything You Need to Know About System Design](https://dev.to/zorous/literally-everything-you-need-to-know-about-system-design-3a8)
+- [Introducing: @traversable/zod](https://dev.to/ahrjarrett/introducing-traversablezod-5dd4)
+- [Send emails with Vercel and Mailtrap](https://dev.to/ketbostoganashvili/send-emails-with-vercel-and-mailtrap-3m57)
+- [How to Configure monitoring for compute services](https://dev.to/subair09/how-to-configure-monitoring-for-compute-services-24p2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
