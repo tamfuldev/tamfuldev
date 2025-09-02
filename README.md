@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Angular 20 Selector-less Components Will Transform Your Development Workflow](https://dev.to/codewithrajat/why-angular-20-selector-less-components-will-transform-your-development-workflow-2edl)
-- [Excited to Join the dev.to Community!](https://dev.to/saikatmondal/excited-to-join-the-devto-community-1c1e)
-- [I Hate Dark Mode !!!!!!!](https://dev.to/masterdevsabith/i-hate-dark-mode--jn7)
-- [The Ultimate Guide to HTTP Status Codes in REST APIs](https://dev.to/gianfcop98/the-ultimate-guide-to-http-status-codes-in-rest-apis-40cp)
-- [Midnight Shield: Protect That Data prompt](https://dev.to/muhammad_zeeshan_6499a22a/midnight-shield-protect-that-data-prompt-1pc3)
+- [AI on Autopilot: Automating Your AI Agents with Symfony Scheduler](https://dev.to/mattleads/ai-on-autopilot-automating-your-ai-agents-with-symfony-scheduler-55f9)
+- [Create a Fully Functional JavaScript Calculator with Dark/Light Mode &amp; Scientific Function](https://dev.to/s_mathavi_2fa1e3ea8514f34/create-a-fully-functional-javascript-calculator-with-darklight-mode-scientific-function-10en)
+- [IP Addressing and Subnetting Simplified](https://dev.to/naval_kishorupadhyay_3e9/ip-addressing-and-subnetting-simplified-4hke)
+- [Gemini 2.5 Image Preview 🍟](https://dev.to/dongnt/gemini-25-image-preview-3a0l)
+- [Solving Your Time Management Problems](https://dev.to/fluidwave/solving-your-time-management-problems-59bg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
