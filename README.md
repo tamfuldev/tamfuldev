@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dev Experience: `doctrine:schema:update` still outputs sql, despite changes applied upon db](https://dev.to/pcmagas/dev-experience-doctrineschemaupdate-still-outputs-sql-despite-changes-applied-upon-db-3log)
-- [OCR and summarizer app](https://dev.to/crimsonkn1ght/ocr-and-summarizer-app-56o4)
-- [Hack The Box -Preignition Write-up &lpar;dir busting&rpar;](https://dev.to/er/hack-the-box-preignition-write-up-dir-busting-3eip)
-- [Eulerian Paths Explained: From Königsberg to Hierholzer’s Algorithm](https://dev.to/muhammad_taaha_90438c47f1/eulerian-paths-explained-from-konigsberg-to-hierholzers-algorithm-3p53)
-- [It&#39;s 2025. Is Anyone Still Using Python 2?](https://dev.to/lamri_abdellahramdane_15/its-2025-is-anyone-still-using-python-2-5d9f)
+- [Portfolio Relaunch — React, Vite, and MDX](https://dev.to/andrewteece/portfolio-relaunch-react-vite-and-mdx-mog)
+- [COLORS: rusowsky - &lpar;ecco&rpar; | A COLORS SHOW](https://dev.to/music_youtube/colors-rusowsky-ecco-a-colors-show-2jde)
+- [Rick Beato: David Gilmour: The Studio Interview 2025](https://dev.to/music_youtube/rick-beato-david-gilmour-the-studio-interview-2025-1l9m)
+- [Bryan Bros Golf: Can We Break Course Record at This Cheap Course?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-break-course-record-at-this-cheap-course-404d)
+- [IGN: Metal Eden - Official CGI Launch Trailer](https://dev.to/gg_news/ign-metal-eden-official-cgi-launch-trailer-1e6k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
