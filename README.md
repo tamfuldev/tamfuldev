@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The 67-Second OpenTelemetry Problem](https://dev.to/itay_from_lawrence/the-67-second-opentelemetry-problem-e0b)
-- [GameSpot: Octopath Traveler 0 First Impressions](https://dev.to/gg_news/gamespot-octopath-traveler-0-first-impressions-1ll8)
-- [IGN: Onirism - Official 1.0 Version Launch Trailer](https://dev.to/gg_news/ign-onirism-official-10-version-launch-trailer-21g7)
-- [IGN: The Grinch: Christmas Adventures Merry &amp; Mischievous Edition - Official Trailer](https://dev.to/gg_news/ign-the-grinch-christmas-adventures-merry-mischievous-edition-official-trailer-e44)
-- [Join the Google AI Studio Multimodal Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-google-ai-studio-multimodal-challenge-3000-in-prizes-58g)
+- [Embracing Cloud Independence &amp; Multi-Database in .NET Core Web API](https://dev.to/cheyzan_18dc21bbc946902fd/embracing-cloud-independence-multi-database-in-net-core-web-api-4ki4)
+- [How to Build Maintenance Sub-Workflow to Use on n8n for MySQL](https://dev.to/fedtti/how-to-build-maintenance-sub-workflow-to-use-on-n8n-for-mysql-28ag)
+- [Fixing DuckDB Extension Deadlock: From Query Strings to LIST Types](https://dev.to/nk_maker/fixing-duckdb-extension-deadlock-from-query-strings-to-list-types-10c2)
+- [How I Used Claude and Gemini to Build a Commercial Company Search Tool](https://dev.to/alingse/how-i-used-claude-and-gemini-to-build-a-commercial-company-search-tool-3of3)
+- [Authorization in Laravel](https://dev.to/ashrakt_amin/authorization-in-laravel-4j94)
 <!-- BLOG-POST-LIST:END -->
 
 ---
