@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Cache Tip: Avoid Redundant has/missing Calls](https://dev.to/tegos/laravel-cache-tip-avoid-redundant-hasmissing-calls-4hi1)
-- [Pocket-Sized Performance: Building a Network Sentinel with Reservoir Computing on a Pi by Arvind Sundararajan](https://dev.to/arvindsundararajan/pocket-sized-performance-building-a-network-sentinel-with-reservoir-computing-on-a-pi-by-arvind-2bh4)
-- [Inside an agent’s brain: Why AI Needs Open Orchestration](https://dev.to/genai-works/inside-an-agents-brain-why-ai-needs-open-orchestration-69j)
-- [Leetcode 189: Rotate Array JavaScript Solution.](https://dev.to/tochi_/leetcode-189-rotate-array-javascript-solution-2fb6)
-- [Maia - Multi-AI Agent Test Framework](https://dev.to/radoslawsz/maia-multi-ai-agent-test-framework-2opn)
+- [Exploring Cursor, Windsurf and Copilot with GPT-5](https://dev.to/fernandezbaptiste/exploring-cursor-windsurf-and-copilot-with-gpt-5-22bl)
+- [Mastering Modern Frontend Architecture: Why Component-Driven Design and SSR Are Your Superpowers in 2025](https://dev.to/krish_kakadiya_5f0eaf6342/mastering-modern-frontend-architecture-why-component-driven-design-and-ssr-are-your-superpowers-in-1oei)
+- [Dapper no .NET: simplicidade e performance no acesso a dados](https://dev.to/itagyba/dapper-no-net-simplicidade-e-performance-no-acesso-a-dados-3c1)
+- [The Illusion of Simplicity: Why &quot;Easy&quot; Never Stays Easy in Backend Development](https://dev.to/usmanzahidcode/the-illusion-of-simplicity-why-easy-never-stays-easy-in-backend-development-3p7j)
+- [Angular 20&#39;s Game-Changing Features: Mastering Tagged Template Literals and the Revolutionary &quot;in&quot; Operator](https://dev.to/codewithrajat/angular-20s-game-changing-features-mastering-tagged-template-literals-and-the-revolutionary-2njf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
