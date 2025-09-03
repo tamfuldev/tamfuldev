@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Cursor, Windsurf and Copilot with GPT-5](https://dev.to/fernandezbaptiste/exploring-cursor-windsurf-and-copilot-with-gpt-5-22bl)
-- [Mastering Modern Frontend Architecture: Why Component-Driven Design and SSR Are Your Superpowers in 2025](https://dev.to/krish_kakadiya_5f0eaf6342/mastering-modern-frontend-architecture-why-component-driven-design-and-ssr-are-your-superpowers-in-1oei)
-- [Dapper no .NET: simplicidade e performance no acesso a dados](https://dev.to/itagyba/dapper-no-net-simplicidade-e-performance-no-acesso-a-dados-3c1)
-- [The Illusion of Simplicity: Why &quot;Easy&quot; Never Stays Easy in Backend Development](https://dev.to/usmanzahidcode/the-illusion-of-simplicity-why-easy-never-stays-easy-in-backend-development-3p7j)
-- [Angular 20&#39;s Game-Changing Features: Mastering Tagged Template Literals and the Revolutionary &quot;in&quot; Operator](https://dev.to/codewithrajat/angular-20s-game-changing-features-mastering-tagged-template-literals-and-the-revolutionary-2njf)
+- [The 67-Second OpenTelemetry Problem](https://dev.to/itay_from_lawrence/the-67-second-opentelemetry-problem-e0b)
+- [GameSpot: Octopath Traveler 0 First Impressions](https://dev.to/gg_news/gamespot-octopath-traveler-0-first-impressions-1ll8)
+- [IGN: Onirism - Official 1.0 Version Launch Trailer](https://dev.to/gg_news/ign-onirism-official-10-version-launch-trailer-21g7)
+- [IGN: The Grinch: Christmas Adventures Merry &amp; Mischievous Edition - Official Trailer](https://dev.to/gg_news/ign-the-grinch-christmas-adventures-merry-mischievous-edition-official-trailer-e44)
+- [Join the Google AI Studio Multimodal Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-google-ai-studio-multimodal-challenge-3000-in-prizes-58g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
