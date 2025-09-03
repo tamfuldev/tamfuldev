@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [NPR Music: Mustafa: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-mustafa-tiny-desk-concert-1hfb)
-- [Just finished day 1 of Networking Fundamentals. Learnt switches and hubs. Hubs sent message to everyone connected, while switches not, hubs work with IP while switches MAC address. Am I wrong?](https://dev.to/masterdevsabith/just-finished-day-1-of-networking-fundamentals-learnt-switches-and-hubs-hubs-sent-message-to-4fgf)
-- [AI Watermarks: Guarding Your Million-Dollar Machines Against Data Hijackers](https://dev.to/arvindsundararajan/ai-watermarks-guarding-your-million-dollar-machines-against-data-hijackers-ign)
-- [Fort Knox for Factories: AI-Powered Watermarks for Industrial Control Code by Arvind Sundararajan](https://dev.to/arvindsundararajan/fort-knox-for-factories-ai-powered-watermarks-for-industrial-control-code-by-arvind-sundararajan-cok)
-- [[Boost]](https://dev.to/leone/-4f19)
+- [Fixing GitHub Authentication Error: &quot;erase operation not supported&quot; and &quot;Invalid username or token&quot;](https://dev.to/nutan_mishra_95d0a3808a4d/fixing-github-authentication-error-erase-operation-not-supported-and-invalid-username-or-token-47jp)
+- [The Training Imperative](https://dev.to/rawveg/the-training-imperative-4nih)
+- [Understanding Localhost:1313 - The Heart of Hugo Development](https://dev.to/lightningdev123/understanding-localhost1313-the-heart-of-hugo-development-30g6)
+- [100 Days of DevOps: Day 31](https://dev.to/wycliffealphus/100-days-of-devops-day-31-2c4f)
+- [Oops... I Locked Myself Out with UFW — Here&#39;s How I Fixed It](https://dev.to/mosesmorris/oops-i-locked-myself-out-with-ufw-heres-how-i-fixed-it-5bk2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
