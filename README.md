@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stealth Mode for Smart Factories: Protecting Machine Code with Adaptive AI](https://dev.to/arvindsundararajan/stealth-mode-for-smart-factories-protecting-machine-code-with-adaptive-ai-4dod)
-- [Helpful Settings When Running RSpec with parallel_tests](https://dev.to/hamajyotan/helpful-settings-when-running-rspec-with-paralleltests-25mh)
-- [Erdus](https://dev.to/tobiager/erdus-jia)
-- [Install NVM for Windows Without Administrator](https://dev.to/chuongmep/install-nvm-for-windows-without-administrator-3c1e)
-- [Virtual Knobs: Making human-machine interaction more intuitive and efficient](https://dev.to/ben_wu_3ff99644999594b3e8/virtual-knobs-making-human-machine-interaction-more-intuitive-and-efficient-247j)
+- [What is ACP ?](https://dev.to/sreeni5018/what-is-acp--3hh1)
+- [Angular in 2025- Still Relevant?](https://dev.to/metana/angular-in-2025-still-relevant-2kg3)
+- [The Art of Beautiful Functions in TypeScript](https://dev.to/xtareq/the-art-of-beautiful-functions-in-typescript-1eb7)
+- [How to Deploy Karpenter on Google Cloud](https://dev.to/cloudpilot-ai/how-to-deploy-karpenter-on-google-cloud-44fd)
+- [Docker Series: Episode 12 — Docker Security — Protect Your Images, Containers &amp; Secrets 🔒](https://dev.to/yash_sonawane25/docker-series-episode-12-docker-security-protect-your-images-containers-secrets-5gfo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
