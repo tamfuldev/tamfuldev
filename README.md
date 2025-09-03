@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Elon Just Broke the Internet: Tesla Robots Worth More Than Cars](https://dev.to/shiva_shanker_k/elon-just-broke-the-internet-tesla-robots-worth-more-than-cars-46ll)
-- [🚨 Tech Chaos: August 2025&#39;s Most INSANE Stories](https://dev.to/shiva_shanker_k/tech-chaos-august-2025s-most-insane-stories-1ii5)
-- [NPM v/s NPX](https://dev.to/anuradha9712/npm-vs-npx-1lj0)
-- [Building Your First Full-Stack CRUD App with FastAPI and React.js](https://dev.to/gilly7/building-your-first-full-stack-crud-app-with-fastapi-and-reactjs-3i1n)
-- [When Wi-Fi Becomes the Weakest Link in Zero Trust](https://dev.to/leonardkachi/when-wi-fi-becomes-the-weakest-link-in-zero-trust-2cib)
+- [NPR Music: Mustafa: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-mustafa-tiny-desk-concert-1hfb)
+- [Just finished day 1 of Networking Fundamentals. Learnt switches and hubs. Hubs sent message to everyone connected, while switches not, hubs work with IP while switches MAC address. Am I wrong?](https://dev.to/masterdevsabith/just-finished-day-1-of-networking-fundamentals-learnt-switches-and-hubs-hubs-sent-message-to-4fgf)
+- [AI Watermarks: Guarding Your Million-Dollar Machines Against Data Hijackers](https://dev.to/arvindsundararajan/ai-watermarks-guarding-your-million-dollar-machines-against-data-hijackers-ign)
+- [Fort Knox for Factories: AI-Powered Watermarks for Industrial Control Code by Arvind Sundararajan](https://dev.to/arvindsundararajan/fort-knox-for-factories-ai-powered-watermarks-for-industrial-control-code-by-arvind-sundararajan-cok)
+- [[Boost]](https://dev.to/leone/-4f19)
 <!-- BLOG-POST-LIST:END -->
 
 ---
