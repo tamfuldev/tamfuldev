@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Replaced Redis Locks with Database Atomicity and You Should Too](https://dev.to/gaw/i-replaced-redis-locks-with-database-atomicity-and-you-should-too-3i0m)
-- [Peter Finch Golf: First Round With My New Clubs &lpar;JUST FITTED!&rpar;](https://dev.to/youtube_golf/peter-finch-golf-first-round-with-my-new-clubs-just-fitted-49d8)
-- [IGN: Nioh 3 - Exclusive Takeda Shingen Boss Reveal Gameplay | IGN First](https://dev.to/gg_news/ign-nioh-3-exclusive-takeda-shingen-boss-reveal-gameplay-ign-first-4mae)
-- [IGN: Macabre - Official Launch Trailer](https://dev.to/gg_news/ign-macabre-official-launch-trailer-adh)
-- [IGN: Marvel Rivals - Official Season 4: The Heart of the Dragon Trailer](https://dev.to/gg_news/ign-marvel-rivals-official-season-4-the-heart-of-the-dragon-trailer-1cgm)
+- [Small Resource Server &amp; Symfony Client Bundle](https://dev.to/sebk69/small-resource-server-symfony-client-bundle-1481)
+- [Amazon Bedrock AgentCore Runtime - Part 3 AgentCore Observability](https://dev.to/aws-heroes/amazon-bedrock-agentcore-runtime-part-3-agentcore-observability-f08)
+- [How I Built a Free Google News Sitemap Generator Plugin for WordPress &lpar;with Full Code&rpar;](https://dev.to/harshitkumar/how-i-built-a-free-google-news-sitemap-generator-plugin-for-wordpress-with-full-code-41ip)
+- [Simple Cloud Security Tips for Startups](https://dev.to/heyjoshlee/simple-cloud-security-tips-for-startups-3nlm)
+- [Enriching Learning Session ✨](https://dev.to/aruna_arun_0cda4eb425bb0f/enriching-learning-session-16od)
 <!-- BLOG-POST-LIST:END -->
 
 ---
