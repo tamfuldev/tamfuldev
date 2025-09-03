@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Tencent Hunyuan Translation Model Complete Guide: The New Benchmark for Open-Source AI Translation in 2025](https://dev.to/czmilo/tencent-hunyuan-translation-model-complete-guide-the-new-benchmark-for-open-source-ai-translation-4ab)
-- [Inside the Portfolio: How Stocksimpy Tracks Trades and Value](https://dev.to/suleyman_sade/inside-the-portfolio-how-stocksimpy-tracks-trades-and-value-15b0)
-- [You May Need an Anti-Corruption Layer](https://dev.to/jesterxl/you-may-need-an-anti-corruption-layer-52pm)
-- [Daily JavaScript Challenge #JS-269: Calculate Sum of Odd-indexed Elements](https://dev.to/dpc/daily-javascript-challenge-js-269-calculate-sum-of-odd-indexed-elements-21li)
-- [Daily DSA and System Design Journal - 5](https://dev.to/ik_8a78062fd65be769dd835/daily-dsa-and-system-design-journal-5-3pm7)
+- [Stealth Mode for Smart Factories: Protecting Machine Code with Adaptive AI](https://dev.to/arvindsundararajan/stealth-mode-for-smart-factories-protecting-machine-code-with-adaptive-ai-4dod)
+- [Helpful Settings When Running RSpec with parallel_tests](https://dev.to/hamajyotan/helpful-settings-when-running-rspec-with-paralleltests-25mh)
+- [Erdus](https://dev.to/tobiager/erdus-jia)
+- [Install NVM for Windows Without Administrator](https://dev.to/chuongmep/install-nvm-for-windows-without-administrator-3c1e)
+- [Virtual Knobs: Making human-machine interaction more intuitive and efficient](https://dev.to/ben_wu_3ff99644999594b3e8/virtual-knobs-making-human-machine-interaction-more-intuitive-and-efficient-247j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
