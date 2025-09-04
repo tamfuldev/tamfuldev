@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Supabase Roadmap: Beginner to Advanced](https://dev.to/kyl67899/supabase-roadmap-beginner-to-advanced-363c)
-- [Next.js Roadmap: Beginner to Advanced](https://dev.to/kyl67899/nextjs-roadmap-beginner-to-advanced-58g3)
-- [Simulando navegação por teclado com as novas teclas do comando cy.press na versão 15.1.0 do Cypress](https://dev.to/talking-about-testing/simulando-navegacao-por-teclado-com-as-novas-teclas-do-comando-cypress-na-versao-1510-do-cypress-1ind)
-- [Whispurr&#39;s Moonhouse &lpar;A Cozy, Emotional Mystery&rpar;WIP](https://dev.to/cutieyunnytech/whispurrs-moonhouse-a-cozy-emotional-mysterywip-4ol2)
-- [🚀 Announcing polyfront-scaffold: Scaffold React &amp; Angular Apps in Minutes](https://dev.to/nirmalsamaranayaka/announcing-polyfront-scaffold-scaffold-react-angular-apps-in-minutes-3h04)
+- [Implementing a Scalable Message Buffer for Natural AI Conversations in n8n](https://dev.to/einarcesar/implementing-a-scalable-message-buffer-for-natural-ai-conversations-in-n8n-poj)
+- [No Laying Up Podcast: A Visit with Michael Bamberger | NLU Pod, Ep 1065](https://dev.to/youtube_golf/no-laying-up-podcast-a-visit-with-michael-bamberger-nlu-pod-ep-1065-89l)
+- [From Digital Oracle to Star Forger: Launching Your App into the Real World](https://dev.to/mysterious_xuanwu_5a00815/from-digital-oracle-to-star-forger-launching-your-app-into-the-real-world-aib)
+- [Level Up Your Python: From Space Explorer to Project Master &amp; Concurrency Alchemist](https://dev.to/mysterious_xuanwu_5a00815/level-up-your-python-from-space-explorer-to-project-master-concurrency-alchemist-4m49)
+- [Level Up Your Python: From Guild Master to Portal Architect &lpar;Flask Web App Tutorial&rpar;](https://dev.to/mysterious_xuanwu_5a00815/level-up-your-python-from-guild-master-to-portal-architect-flask-web-app-tutorial-2j4f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
