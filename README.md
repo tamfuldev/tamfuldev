@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [wabt 使用小记](https://dev.to/yangholmes/wabt-shi-yong-xiao-ji-1bk4)
-- [5 Absolutely Free Web Tools Every Developer Should Bookmark](https://dev.to/web_dev-usman/5-absolutely-free-web-tools-every-developer-should-bookmark-38jn)
-- [Juris.js: Debug What You Wrote](https://dev.to/professional_joe/jurisjs-debug-what-you-wrote-3dmj)
-- [Step-Audio 2 Mini: Open Speech AI You Can Deploy Today](https://dev.to/aiwithapex/step-audio-2-mini-open-speech-ai-you-can-deploy-today-26c8)
-- [🔔 Django Signals: Supercharging Your App with Event-Driven Architecture](https://dev.to/diveshkumar/django-signals-supercharging-your-app-with-event-driven-architecture-e5l)
+- [Monitoring API Usage Across Versions: From Chaos to Control](https://dev.to/zuplo/monitoring-api-usage-across-versions-from-chaos-to-control-54ed)
+- [Block Spam Signups with Zuplo and Your Identity Providers](https://dev.to/zuplo/block-spam-signups-with-zuplo-and-your-identity-providers-1bp3)
+- [How API Analytics Shapes Developer Experience](https://dev.to/zuplo/how-api-analytics-shapes-developer-experience-3edh)
+- [XML API Documentation: From Zero to Production in 10 Minutes](https://dev.to/zuplo/xml-api-documentation-from-zero-to-production-in-10-minutes-3npg)
+- [Location-Based Applications Thrive with the Yelp API](https://dev.to/zuplo/location-based-applications-thrive-with-the-yelp-api-2p7b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
