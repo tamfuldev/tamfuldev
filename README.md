@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Next Step in Cybersecurity: Internship at Young Cyber Knights Foundation](https://dev.to/seifeldienahmad/my-next-step-in-cybersecurity-internship-at-young-cyber-knights-foundation-3i1g)
-- [The Git Workflow That Will Make Your Code Reviews Actually Enjoyable 🔥](https://dev.to/c_6b7a8e65d067ddc62/the-git-workflow-that-will-make-your-code-reviews-actually-enjoyable-4gp3)
-- [13 Best GitHub Repositories Every Developer Should Bookmark 🚀](https://dev.to/kamrul_arafin/13-best-github-repositories-every-developer-should-bookmark-55lh)
-- [Yoo the v1 is suuuper amazing 🤩😻](https://dev.to/masterdevsabith/yoo-the-v1-is-suuuper-amazing-2gi9)
-- [Clustering as a Method of Unveiling Hidden Patterns in Data](https://dev.to/maureen_mukami_4268d10eac/clustering-as-a-method-of-unveiling-hidden-patterns-in-data-3c09)
+- [Cloud Resume Challenge - Chunk 0 - Access, Credentials, and Certification Prep](https://dev.to/tlklein/cloud-resume-challenge-chunk-0-access-credentials-and-certification-prep-56db)
+- [Chain Of Responsibility in Python...](https://dev.to/sommukhopadhyay/chain-of-responsibility-in-python-4588)
+- [What does it take to be a leader?](https://dev.to/daniloab/what-does-it-take-to-be-a-leader-45b0)
+- [PHP GC with Example](https://dev.to/ahmedraza_fyntune/php-gc-with-example-16c2)
+- [Game Dev Digest — Issue #297 - Rendering Breakdowns, Lighting, and more](https://dev.to/gamedevdigest/game-dev-digest-issue-297-rendering-breakdowns-lighting-and-more-254p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
