@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [One more test](https://dev.to/ben/one-more-test-4p3j)
-- [Unlocking the Power of Agentic AI with Apache Iceberg and Dremio](https://dev.to/alexmercedcoder/unlocking-the-power-of-agentic-ai-with-apache-iceberg-and-dremio-5be0)
-- [This is a test!!](https://dev.to/ben/this-is-a-test-47p2)
-- [Sveltos vs Terraform: Friends, Not Rivals, in the Cloud-Native World](https://dev.to/simone_morellato/sveltos-vs-terraform-friends-not-rivals-in-the-cloud-native-world-8jk)
-- [KEXP: Crumb - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-crumb-full-performance-live-on-kexp-901)
+- [How to Connect to Your VPN on macOS Using Tunnelblick and a Certificate](https://dev.to/icyy_bee/how-to-connect-to-your-vpn-on-macos-using-tunnelblick-and-a-certificate-5hig)
+- [Beyond Pretty Print: 8 JSON Workflows Using OnTheGoTools’ 20+ Utilities](https://dev.to/vimal-patel/beyond-pretty-print-8-json-workflows-using-onthegotools-20-utilities-5gd)
+- [ASPICE Literacy: Driving Quality Before Driving Cars 🏁](https://dev.to/abdulosman/aspice-literacy-driving-quality-before-driving-cars-4hhp)
+- [Converting audio to MP3 in the browser - Javascript tutorial](https://dev.to/tiagosilvapereira/converting-audio-to-mp3-in-the-browser-javascript-tutorial-1dcm)
+- [Softr + Airtable + Make: A Scalable No-Code Architecture](https://dev.to/alifar/softr-airtable-make-a-scalable-no-code-architecture-for-developers-c0b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
