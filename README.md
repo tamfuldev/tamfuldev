@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Cloud Resume Challenge - Chunk 0 - Access, Credentials, and Certification Prep](https://dev.to/tlklein/cloud-resume-challenge-chunk-0-access-credentials-and-certification-prep-56db)
-- [Chain Of Responsibility in Python...](https://dev.to/sommukhopadhyay/chain-of-responsibility-in-python-4588)
-- [What does it take to be a leader?](https://dev.to/daniloab/what-does-it-take-to-be-a-leader-45b0)
-- [PHP GC with Example](https://dev.to/ahmedraza_fyntune/php-gc-with-example-16c2)
-- [Game Dev Digest — Issue #297 - Rendering Breakdowns, Lighting, and more](https://dev.to/gamedevdigest/game-dev-digest-issue-297-rendering-breakdowns-lighting-and-more-254p)
+- [Introducing Codepit: A Minimal Platform to Share Code Snippets](https://dev.to/jiordiviera/introducing-codepit-a-minimal-platform-to-share-code-snippets-10bc)
+- [MCP-UI + TanStack: The React Stack That&#39;s Changing Everything](https://dev.to/shiva_shanker_k/mcp-ui-tanstack-the-react-stack-thats-changing-everything-8ah)
+- [Tipos Primitivos X Classes Wrappers em Java](https://dev.to/cassius_rocha/tipos-primitivos-x-classes-wrappers-em-java-224c)
+- [Microsoft Just Open-Sourced the Original 6502 BASIC Interpreter](https://dev.to/shiva_shanker_k/microsoft-just-open-sourced-the-original-6502-basic-interpreter-559o)
+- [Arrays, Objects, and Tuple‑Like Thinking in JavaScript](https://dev.to/anik_sikder_313/arrays-objects-and-tuple-like-thinking-in-javascript-3opi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
