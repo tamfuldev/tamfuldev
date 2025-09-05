@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Connect to Your VPN on macOS Using Tunnelblick and a Certificate](https://dev.to/icyy_bee/how-to-connect-to-your-vpn-on-macos-using-tunnelblick-and-a-certificate-5hig)
-- [Beyond Pretty Print: 8 JSON Workflows Using OnTheGoTools’ 20+ Utilities](https://dev.to/vimal-patel/beyond-pretty-print-8-json-workflows-using-onthegotools-20-utilities-5gd)
-- [ASPICE Literacy: Driving Quality Before Driving Cars 🏁](https://dev.to/abdulosman/aspice-literacy-driving-quality-before-driving-cars-4hhp)
-- [Converting audio to MP3 in the browser - Javascript tutorial](https://dev.to/tiagosilvapereira/converting-audio-to-mp3-in-the-browser-javascript-tutorial-1dcm)
-- [Softr + Airtable + Make: A Scalable No-Code Architecture](https://dev.to/alifar/softr-airtable-make-a-scalable-no-code-architecture-for-developers-c0b)
+- [Golf.com: The Soul of Cypress Point | Inside Golf&#39;s Most Mystical Club](https://dev.to/youtube_golf/golfcom-the-soul-of-cypress-point-inside-golfs-most-mystical-club-4220)
+- [Noclip: The Making of Wolfenstein - Noclip Documentary](https://dev.to/gg_news/noclip-the-making-of-wolfenstein-noclip-documentary-ldh)
+- [GameSpot: Borderlands 4 | Official Launch Week Trailer](https://dev.to/gg_news/gamespot-borderlands-4-official-launch-week-trailer-3a3k)
+- [IGN: Final Fantasy Tactics: The Ivalice Chronicles - Official Enhanced Opening Movie](https://dev.to/gg_news/ign-final-fantasy-tactics-the-ivalice-chronicles-official-enhanced-opening-movie-2kbd)
+- [IGN: Jurassic World Evolution 3 - Official &#39;A Global Campaign&#39; Feature Trailer](https://dev.to/gg_news/ign-jurassic-world-evolution-3-official-a-global-campaign-feature-trailer-766)
 <!-- BLOG-POST-LIST:END -->
 
 ---
