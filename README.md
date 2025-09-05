@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Golf.com: The Soul of Cypress Point | Inside Golf&#39;s Most Mystical Club](https://dev.to/youtube_golf/golfcom-the-soul-of-cypress-point-inside-golfs-most-mystical-club-4220)
-- [Noclip: The Making of Wolfenstein - Noclip Documentary](https://dev.to/gg_news/noclip-the-making-of-wolfenstein-noclip-documentary-ldh)
-- [GameSpot: Borderlands 4 | Official Launch Week Trailer](https://dev.to/gg_news/gamespot-borderlands-4-official-launch-week-trailer-3a3k)
-- [IGN: Final Fantasy Tactics: The Ivalice Chronicles - Official Enhanced Opening Movie](https://dev.to/gg_news/ign-final-fantasy-tactics-the-ivalice-chronicles-official-enhanced-opening-movie-2kbd)
-- [IGN: Jurassic World Evolution 3 - Official &#39;A Global Campaign&#39; Feature Trailer](https://dev.to/gg_news/ign-jurassic-world-evolution-3-official-a-global-campaign-feature-trailer-766)
+- [Getting Started with rsync: The Smarter Way to Copy Files](https://dev.to/rijultp/getting-started-with-rsync-the-smarter-way-to-copy-files-39ol)
+- [How I handled 100K requests hitting AWS Lambda at once](https://dev.to/ssh-tty/how-i-handled-100k-requests-hitting-aws-lambda-at-once-5575)
+- [Async Function&lpar;&rpar; method in Javascript](https://dev.to/dinesh_g_909f4a82c67f5bbd/async-function-method-in-javascript-gnp)
+- [A Deep Dive into CDNs, DNS, and Your Server Setup](https://dev.to/lovestaco/a-deep-dive-into-cdns-dns-and-your-ovh-setup-4g35)
+- [Building for Tomorrow: Testing, Performance &amp; the Future of File Insights 🚀](https://dev.to/vijay431/building-for-tomorrow-testing-performance-the-future-of-file-insights-3k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
