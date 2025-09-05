@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with rsync: The Smarter Way to Copy Files](https://dev.to/rijultp/getting-started-with-rsync-the-smarter-way-to-copy-files-39ol)
-- [How I handled 100K requests hitting AWS Lambda at once](https://dev.to/ssh-tty/how-i-handled-100k-requests-hitting-aws-lambda-at-once-5575)
-- [Async Function&lpar;&rpar; method in Javascript](https://dev.to/dinesh_g_909f4a82c67f5bbd/async-function-method-in-javascript-gnp)
-- [A Deep Dive into CDNs, DNS, and Your Server Setup](https://dev.to/lovestaco/a-deep-dive-into-cdns-dns-and-your-ovh-setup-4g35)
-- [Building for Tomorrow: Testing, Performance &amp; the Future of File Insights 🚀](https://dev.to/vijay431/building-for-tomorrow-testing-performance-the-future-of-file-insights-3k)
+- [Inside React Query: What’s Really Going On](https://dev.to/mohamad_msalme_38f2508ea2/inside-react-query-whats-really-going-on-31md)
+- [RC4: From Ubiquity to Collapse — and What It Taught Us About Trust](https://dev.to/dmytro_huz/rc4-from-ubiquity-to-collapse-and-what-it-taught-us-about-trust-45ld)
+- [Running Machine Learning Models in the Browser Using onnxruntime-web](https://dev.to/dinakajoy/running-machine-learning-models-in-the-browser-using-onnxruntime-web-3klc)
+- [Open Source? Open Mind!](https://dev.to/jongwan93/open-source-open-mind-2k6d)
+- [I&#39;ve built a collapsible ASCII tree generator](https://dev.to/mfilipovic/ive-built-a-collapsible-ascii-tree-generator-11m9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
