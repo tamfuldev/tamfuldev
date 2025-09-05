@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Network Enumeration with Nmap Walkthrough &lpar;Hack The Box&rpar;](https://dev.to/madhiashabih/htbs-network-enumeration-with-nmap-exercises-walkthrough-ol4)
-- [Master the &quot;find&quot; command in Linux: A practical cheatsheet](https://dev.to/xinitd/master-the-find-command-in-linux-a-practical-cheatsheet-36p0)
-- [My Journey into Agentic AI &amp; Web Development](https://dev.to/abdullah_webdev/my-journey-into-agentic-ai-web-development-4jpd)
-- [7 Reasons Flutter Devs Should Use Cristalyse for Charts](https://dev.to/lofifounder/7-reasons-flutter-devs-should-use-cristalyse-for-charts-54bf)
-- [3-Day Challenge: Build Your Own AI Assistant from Scratch 🤖](https://dev.to/creator_x/3-day-challenge-build-your-own-ai-assistant-from-scratch-3ej4)
+- [The Brutal &lpar;and Rewarding&rpar; Reality of Solo SaaS founder](https://dev.to/web5lab_938e9096be8dc3e78/the-brutal-and-rewarding-reality-of-solo-saas-founder-1lk3)
+- [This article works](https://dev.to/divyansh_pratapsingh_a47/this-article-works-3845)
+- [Backend Implementation: From &#39;It Works on My Machine&#39; to Production-Ready API](https://dev.to/klasniyparen/backend-implementation-from-it-works-on-my-machine-to-production-ready-api-f36)
+- [From Google Maps to OpenStreetMap: A Journey of Trade-offs in Location Services](https://dev.to/crimson206/from-google-maps-to-openstreetmap-a-journey-of-trade-offs-in-location-services-1cfm)
+- [KEXP: Crumb - Ice Melt &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-crumb-ice-melt-live-on-kexp-4h11)
 <!-- BLOG-POST-LIST:END -->
 
 ---
