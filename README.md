@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [No Laying Up Podcast: Chop Session with DJ Pie | Trap Draw, Ep 357](https://dev.to/youtube_golf/no-laying-up-podcast-chop-session-with-dj-pie-trap-draw-ep-357-4gcj)
-- [IGN: We played the Resident Evil: Requiem Demo | PAX West 2025](https://dev.to/gg_news/ign-we-played-the-resident-evil-requiem-demo-pax-west-2025-5g6g)
-- [IGN: Hell is Us Reveiw](https://dev.to/gg_news/ign-hell-is-us-reveiw-j8n)
-- [AI 编程与传统开发的系统性比较](https://dev.to/tuo_cheng_68980dbefbe1e75/ai-bian-cheng-yu-chuan-tong-kai-fa-de-xi-tong-xing-bi-jiao-354c)
-- [Quality vs. Efficacy: Learning with AI](https://dev.to/yaysa/quality-vs-efficacy-learning-with-ai-2b39)
+- [How I Built a Content Creation Side Hustle Using AI and Made $5,000 in a Month](https://dev.to/walker876/how-i-built-a-content-creation-side-hustle-using-ai-and-made-5000-in-a-month-ofb)
+- [🎿“Minimum Operations to Make the Integer Zero” LeetCode: 2749 [C++, JavaScript, Python]](https://dev.to/om_shree_0709/minimum-operations-to-make-the-integer-zero-leetcode-2749-c-javascript-python-4a23)
+- [Agentic AI vs Infrastructure as Code: The Future of DevOps](https://dev.to/mechcloud_academy/agentic-ai-vs-infrastructure-as-code-the-future-of-devops-2kki)
+- [Docker Series — Episode 14: Docker Networking Deep Dive &lpar;Bridge, Host, Overlay&rpar;](https://dev.to/yash_sonawane25/docker-series-episode-14-docker-networking-deep-dive-bridge-host-overlay-3j78)
+- [My first AI-assisted web game: PuzzlePave](https://dev.to/_8d31359a797ee088ecde8/my-first-ai-assisted-web-game-puzzlepave-486e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
