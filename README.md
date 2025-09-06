@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Any tips for making Google AI studio keep existing functionality?](https://dev.to/_bigblind/any-tips-for-making-google-ai-studio-keep-existing-functionality-4emk)
-- [Almost 2 Months of Gentoo, The Journey So Far!](https://dev.to/darthmoomancer/almost-2-months-of-gentoo-the-journey-so-far-1m46)
-- [How to Create a Linux Virtual Machine in Azure Portal](https://dev.to/jic/how-to-create-a-linux-virtual-machine-in-azure-portal-2482)
-- [Introducing node-hooker: WordPress Hooks for Your Node.js App](https://dev.to/mamedul_islam/introducing-node-hooker-wordpress-hooks-for-your-nodejs-app-2bn7)
-- [Why You Can’t Master Kubernetes Without Understanding Applications, Systems, and Microservices](https://dev.to/srinivasamcjf/why-you-cant-master-kubernetes-without-understanding-applications-systems-and-microservices-1h21)
+- [The Hard Truth About DevOps Learning: Practical Experience Over Presentations](https://dev.to/srinivasamcjf/the-hard-truth-about-devops-learning-practical-experience-over-presentations-103g)
+- [The Hard Truth About Real-World DevOps: What Most Engineers Are Missing](https://dev.to/srinivasamcjf/the-hard-truth-about-real-world-devops-what-most-engineers-are-missing-15cm)
+- [Why Developer Advocacy Matters in India: A Guide for Aspiring Advocates](https://dev.to/nimit2801/why-developer-advocacy-matters-in-india-a-guide-for-aspiring-advocates-4pcn)
+- [Starting Nix](https://dev.to/tsusheel/starting-nix-33hh)
+- [Creating and Configuring Virtual Networks in Azure: A Step-by-Step Guide](https://dev.to/sudaisib/creating-and-configuring-virtual-networks-in-azure-a-step-by-step-guide-2ico)
 <!-- BLOG-POST-LIST:END -->
 
 ---
