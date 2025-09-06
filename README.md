@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Island Ghost Midnight tools for the XRPL Community](https://dev.to/islandghoststephanie/island-ghost-midnight-tools-for-the-xrpl-community-1min)
-- [FlashAttention by hand](https://dev.to/lewis_won/flashattention-by-hand-34im)
-- [FLEX — The Visual Flexbox Cheat Sheet](https://dev.to/ml318097/flex-the-visual-flexbox-cheat-sheet-1jlc)
-- [My AWS Summit Toronto experience and GenAI](https://dev.to/aws-builders/my-aws-summit-toronto-experience-and-genai-27o2)
-- [📅 Week 1: Diving into Spring Boot Fundamentals:](https://dev.to/tejasvi_urkande/week-1-diving-into-spring-boot-fundamentals-3o1f)
+- [Supercharge Your PostgreSQL Queries with Materialized Views! 🚀](https://dev.to/alexrivers/supercharge-your-postgresql-queries-with-materialized-views-4g02)
+- [Futuristic Dashboards: Designing with Data, Animation, and Prediction](https://dev.to/arunacha_dinesh/futuristic-dashboards-designing-with-data-animation-and-prediction-2j6d)
+- [Learning Coding from High Skilled Professional Programmers](https://dev.to/rudolfolah/learning-coding-from-high-skilled-professional-programmers-28cj)
+- [Using React Native Components in a Next.js Web App &lpar;via @expo/next-adapter&rpar;](https://dev.to/isaacaddis/using-react-native-components-in-a-nextjs-web-app-via-exponext-adapter-3497)
+- [Fashion Time Traveler](https://dev.to/pranathi_013/fashion-time-traveler-1gfc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
