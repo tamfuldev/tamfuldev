@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Hard Truth About DevOps Learning: Practical Experience Over Presentations](https://dev.to/srinivasamcjf/the-hard-truth-about-devops-learning-practical-experience-over-presentations-103g)
-- [The Hard Truth About Real-World DevOps: What Most Engineers Are Missing](https://dev.to/srinivasamcjf/the-hard-truth-about-real-world-devops-what-most-engineers-are-missing-15cm)
-- [Why Developer Advocacy Matters in India: A Guide for Aspiring Advocates](https://dev.to/nimit2801/why-developer-advocacy-matters-in-india-a-guide-for-aspiring-advocates-4pcn)
-- [Starting Nix](https://dev.to/tsusheel/starting-nix-33hh)
-- [Creating and Configuring Virtual Networks in Azure: A Step-by-Step Guide](https://dev.to/sudaisib/creating-and-configuring-virtual-networks-in-azure-a-step-by-step-guide-2ico)
+- [🚀 Dapper vs. EF Core: Performance Showdown in 2025](https://dev.to/dev_saeid_ghaderi/dapper-vs-ef-core-performance-showdown-in-2025-4j32)
+- [What is Programming ?](https://dev.to/xetri/what-is-programming--218o)
+- [From Analog to Digital: Signal Simulation](https://dev.to/sajibpra/from-analog-to-digital-signal-simulation-31h1)
+- [Running Your Expo App on a Real Device for Testing](https://dev.to/andrewchaa/running-your-expo-app-on-a-real-device-for-testing-3ci)
+- [Must read](https://dev.to/drmikecrowe/must-read-1m1o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
