@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Nahre Sol: Fly Me to the Moon in the Styles of 6 Classical Composers](https://dev.to/music_youtube/nahre-sol-fly-me-to-the-moon-in-the-styles-of-6-classical-composers-ib4)
-- [Hibernate Performance: Boost High-Volume Queries with Read-Only Sessions](https://dev.to/vishad_patel_f54e007e16e5/hibernate-performance-boost-high-volume-queries-with-read-only-sessions-2jpn)
-- [🗓 Daily LeetCode Progress – Day 19](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-19-3074)
-- [Building a Multi-Language Code Integration Component with React &amp; TypeScript 🚀](https://dev.to/alaaio/building-a-multi-language-code-integration-component-with-react-typescript-5ehp)
-- [Lazy Loading: Do you really know what it is?](https://dev.to/sunil12738/lazy-loading-do-you-really-know-what-it-is-3l7g)
+- [From Warehouses to Libraries: Understanding Data on AWS the Easy Way](https://dev.to/jatin_goel_dac08bb6728f1e/from-warehouses-to-libraries-understanding-data-on-aws-the-easy-way-4kmi)
+- [Benchmarking PostgreSQL Drivers in Node.js: node-postgres vs postgres.js](https://dev.to/nigrosimone/benchmarking-postgresql-drivers-in-nodejs-node-postgres-vs-postgresjs-17kl)
+- [AltSchool Of Engineering Tinyuka’24 Month 7 Week 1](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-7-week-1-eh)
+- [Difference Between JDK, JRE, and JVM in Java for Developers](https://dev.to/codepractice/difference-between-jdk-jre-and-jvm-in-java-for-developers-4nke)
+- [JavaScript Array Methods: A Guide with Examples](https://dev.to/mohammedtaysser/javascript-array-methods-a-guide-with-examples-3a16)
 <!-- BLOG-POST-LIST:END -->
 
 ---
