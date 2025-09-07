@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Can We Set the Record Straight? AI, Content, and a Bit of Sanity 🙏](https://dev.to/anchildress1/can-we-set-the-record-straight-ai-content-and-a-bit-of-sanity-1inj)
-- [What is Redis Cache ?](https://dev.to/satyabrata_dd224dce47e7bc/what-is-redis-cache--435h)
-- [&quot;useMemoization&quot; in reactjs](https://dev.to/avinashmahlawat/usememoization-in-reactjs-286n)
-- [🤖 React + Next.js Pipelines: Best Practices for Modern Projects](https://dev.to/tuna_dev/react-nextjs-pipelines-best-practices-for-modern-projects-hb)
-- [🤖 React + Next.js Pipelines: Best Practices for Modern Projects](https://dev.to/tuna_dev/react-nextjs-pipelines-best-practices-for-modern-projects-28ck)
+- [Cracking Consensus Algorithms for System Design Interviews](https://dev.to/codewithved/cracking-consensus-algorithms-for-system-design-interviews-2872)
+- [Mastering Kubernetes for System Design Interviews](https://dev.to/codewithved/mastering-kubernetes-for-system-design-interviews-hp7)
+- [Conquering the CAP Theorem for System Design Interviews](https://dev.to/codewithved/conquering-the-cap-theorem-for-system-design-interviews-5faa)
+- [Unlocking Message Queues for System Design Interviews](https://dev.to/codewithved/unlocking-message-queues-for-system-design-interviews-1o2o)
+- [Navigating OAuth 2.0 for System Design Interviews](https://dev.to/codewithved/navigating-oauth-20-for-system-design-interviews-1m90)
 <!-- BLOG-POST-LIST:END -->
 
 ---
