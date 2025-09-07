@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Python Selenium architecture](https://dev.to/namrata_saha_f82d00e587b0/python-selenium-architecture-4ehj)
-- [Part 4: Migration to RsBuild](https://dev.to/verthon/part-4-migration-to-rsbuild-5368)
-- [Announcing The Singularity Workshop: A New FSM API for Unity](https://dev.to/trent_best_ca8617e4911baf/announcing-the-singularity-workshop-a-new-fsm-api-for-unity-48np)
-- [Loops in Svelte — {#each}, Keys, and Building a Todo App](https://dev.to/a1guy/loops-in-svelte-each-keys-and-building-a-todo-app-3p6d)
-- [The Fourth Leg of the Stool: JavaScript](https://dev.to/jimmyshoe85/the-fourth-leg-of-the-stool-javascript-3ggj)
+- [Building Selectorless Components: Angular&#39;s Approach to Boilerplate-Free UIs](https://dev.to/karol_modelski/building-selectorless-components-angulars-approach-to-boilerplate-free-uis-i29)
+- [𝐖𝐡𝐲 𝐰𝐨𝐮𝐥𝐝 𝐚 𝐜𝐥𝐨𝐮𝐝 𝐚𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 𝐠𝐨 𝐛𝐚𝐜𝐤 𝐭𝐨 𝐭𝐡𝐞 𝐛𝐞𝐠𝐢𝐧𝐧𝐢𝐧𝐠?](https://dev.to/figueroaeandres/-5agh)
+- [Mediator Design Pattern in Python...](https://dev.to/sommukhopadhyay/mediator-design-pattern-in-python-4gm4)
+- [From Object Oriented Analysis and Design to Language like Rust - a major paradigm shift in the programming world...](https://dev.to/sommukhopadhyay/from-object-oriented-analysis-and-design-to-language-like-rust-a-major-paradigm-shift-in-the-1fie)
+- [My tryst with Rust - through the subject of Design Pattern - implementation of Chain of Responsibility...](https://dev.to/sommukhopadhyay/my-tryst-with-rust-through-the-subject-of-design-pattern-implementation-of-chain-of-3nk0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
