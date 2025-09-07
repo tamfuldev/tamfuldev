@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Selectorless Components: Angular&#39;s Approach to Boilerplate-Free UIs](https://dev.to/karol_modelski/building-selectorless-components-angulars-approach-to-boilerplate-free-uis-i29)
-- [𝐖𝐡𝐲 𝐰𝐨𝐮𝐥𝐝 𝐚 𝐜𝐥𝐨𝐮𝐝 𝐚𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 𝐠𝐨 𝐛𝐚𝐜𝐤 𝐭𝐨 𝐭𝐡𝐞 𝐛𝐞𝐠𝐢𝐧𝐧𝐢𝐧𝐠?](https://dev.to/figueroaeandres/-5agh)
-- [Mediator Design Pattern in Python...](https://dev.to/sommukhopadhyay/mediator-design-pattern-in-python-4gm4)
-- [From Object Oriented Analysis and Design to Language like Rust - a major paradigm shift in the programming world...](https://dev.to/sommukhopadhyay/from-object-oriented-analysis-and-design-to-language-like-rust-a-major-paradigm-shift-in-the-1fie)
-- [My tryst with Rust - through the subject of Design Pattern - implementation of Chain of Responsibility...](https://dev.to/sommukhopadhyay/my-tryst-with-rust-through-the-subject-of-design-pattern-implementation-of-chain-of-3nk0)
+- [Styling in Svelte &lpar;Scoped CSS, :global, and Class Directives&rpar;](https://dev.to/a1guy/styling-in-svelte-scoped-css-global-and-class-directives-1mna)
+- [AI Genie: A Multimodal Q&amp;A Assistant with Google Gemini](https://dev.to/davinceleecode/ai-genie-a-multimodal-qa-assistant-with-google-gemini-3dnb)
+- [Stop Rewriting Prompts: Meet DevPromptly 🚀](https://dev.to/fjmorant/stop-rewriting-prompts-meet-devpromptly-4fom)
+- [Java Concurrency Model - Part III - FutureTask](https://dev.to/sommukhopadhyay/java-concurrency-model-part-iii-futuretask-j3l)
+- [Breaking Changes: Why Your API Monitoring is Failing You &lpar;And How We Fixed It&rpar;](https://dev.to/mrdubey/breaking-changes-why-your-api-monitoring-is-failing-you-and-how-we-fixed-it-2ib9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
