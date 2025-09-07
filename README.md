@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My FIRST EVER PORTFOLIO website](https://dev.to/wleahk98/my-first-ever-portfolio-website-2na2)
-- [WordPress admin menu editor - Control Dashboard - No Plugin](https://dev.to/jemeeroy/wordpress-admin-menu-editor-2peb)
-- [What I Learned Building Taco Empleos](https://dev.to/sebastian_arielbonetti_8/what-i-learned-building-taco-empleos-p7d)
-- [Three &lpar;3&rpar; Tips for efficient SQL Queries](https://dev.to/tkouleris/three-3-tips-for-efficient-sql-queries-17e3)
-- [Source Fidelity Playbook — Catch AI&#39;s Fake Citations in 90 Seconds](https://dev.to/viablemedia/source-fidelity-playbook-catch-ais-fake-citations-in-90-seconds-2jen)
+- [Mr Sunday Movies: How Disney lost Gen Z males](https://dev.to/popcorn_movies/mr-sunday-movies-how-disney-lost-gen-z-males-36fn)
+- [I Got Tired of Timesheets, So I Built My Own Tool](https://dev.to/xraytangooscar/i-got-tired-of-timesheets-so-i-built-my-own-tool-4ege)
+- [Apigee API Products, Developer, Apps and API Keys](https://dev.to/mahmoudsayed96/apigee-api-products-developer-apps-and-api-keys-2paa)
+- [Don&#39;t Let Your Database Schema Become Your API Contract](https://dev.to/thanmatt/dont-let-your-database-schema-become-your-api-contract-2nke)
+- [Early Feedback on “Build a Reasoning Model &lpar;From Scratch&rpar;”](https://dev.to/aairom/early-feedback-on-build-a-reasoning-model-from-scratch-h4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
