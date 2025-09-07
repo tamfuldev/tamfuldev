@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Styling in Svelte &lpar;Scoped CSS, :global, and Class Directives&rpar;](https://dev.to/a1guy/styling-in-svelte-scoped-css-global-and-class-directives-1mna)
-- [AI Genie: A Multimodal Q&amp;A Assistant with Google Gemini](https://dev.to/davinceleecode/ai-genie-a-multimodal-qa-assistant-with-google-gemini-3dnb)
-- [Stop Rewriting Prompts: Meet DevPromptly 🚀](https://dev.to/fjmorant/stop-rewriting-prompts-meet-devpromptly-4fom)
-- [Java Concurrency Model - Part III - FutureTask](https://dev.to/sommukhopadhyay/java-concurrency-model-part-iii-futuretask-j3l)
-- [Breaking Changes: Why Your API Monitoring is Failing You &lpar;And How We Fixed It&rpar;](https://dev.to/mrdubey/breaking-changes-why-your-api-monitoring-is-failing-you-and-how-we-fixed-it-2ib9)
+- [Security as Physics: Thinking About Networks Like Energy Systems](https://dev.to/leonardkachi/security-as-physics-thinking-about-networks-like-energy-systems-5110)
+- [Promise, Callback Hell, Synchronous and Asynchronous in Javascript](https://dev.to/vidya_varshini/promise-callback-hell-synchronous-and-asynchronous-in-javascript-21lm)
+- [Atomica- Turn Science into understandable concepts](https://dev.to/shreya111111/atomica-turn-science-into-understandable-concepts-1onj)
+- [Checkout PacGuard.](https://dev.to/sensurajit/checkout-pacguard-27aj)
+- [🧠Loop of Truth: From Loose Tricks to Structured Reasoning](https://dev.to/marcosomma/loop-of-truth-from-loose-tricks-to-structured-reasoning-2lh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
