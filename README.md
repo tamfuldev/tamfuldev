@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Tech Trend Blog list over 200 blogs](https://dev.to/0xkoji/tech-trend-blog-list-over-200-blogs-34ng)
-- [Draw and get judged by an AI](https://dev.to/adzhydra/million-dollar-idea-2859)
-- [Article 1 : Intro to Gen AI ,LLMS and LangChain Frameworks&lpar;Part B&rpar;](https://dev.to/raunaklallala/article-1-intro-to-gen-ai-llms-and-langchain-frameworkspart-b-1f84)
-- [IGN: Hollow Knight: Silksong - How to Get the Crest of Beast | Savage Beastfly Boss Guide](https://dev.to/gg_news/ign-hollow-knight-silksong-how-to-get-the-crest-of-beast-savage-beastfly-boss-guide-k4h)
-- [I Realized I Spend 30% of My Terminal Time in Chrome Tabs](https://dev.to/alen_mangattu_24317d21636/i-realized-i-spend-30-of-my-terminal-time-in-chrome-tabs-1001)
+- [HOW TO CREATE A KEYVAULT ON AZURE WITH CMD STEP BY STEP GUIDE](https://dev.to/ajayid10/how-to-create-a-keyvault-on-azure-with-cmd-step-by-step-guide-4jfp)
+- [FestFund: Private Contributions &amp; Public Recognition - A Zero-Knowledge Fundraising Solution](https://dev.to/aryprogrammer/festfund-private-contributions-public-recognition-a-zero-knowledge-fundraising-solution-g79)
+- [Step-by-Step Guide: Setting Up and Running evi-run on DigitalOcean or Other VPS &lpar;for Beginners&rpar;](https://dev.to/evi-run/step-by-step-guide-setting-up-and-running-evi-run-on-digitalocean-or-other-vps-for-beginners-hde)
+- [Built gh-pm: A GitHub CLI Extension to Manage GitHub Projects with LLMs](https://dev.to/yahsan2/i-built-gh-pm-a-github-cli-extension-to-manage-github-projects-with-llms-4pi4)
+- [Hi everyone, I&#39;ve just wrapped up my first static page and couldn&#39;t wait to share it! 👋](https://dev.to/leocoding0326/hi-everyone-ive-just-wrapped-up-my-first-static-page-and-couldnt-wait-to-share-it-3o4k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
