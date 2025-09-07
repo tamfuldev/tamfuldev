@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mr Sunday Movies: How Disney lost Gen Z males](https://dev.to/popcorn_movies/mr-sunday-movies-how-disney-lost-gen-z-males-36fn)
-- [I Got Tired of Timesheets, So I Built My Own Tool](https://dev.to/xraytangooscar/i-got-tired-of-timesheets-so-i-built-my-own-tool-4ege)
-- [Apigee API Products, Developer, Apps and API Keys](https://dev.to/mahmoudsayed96/apigee-api-products-developer-apps-and-api-keys-2paa)
-- [Don&#39;t Let Your Database Schema Become Your API Contract](https://dev.to/thanmatt/dont-let-your-database-schema-become-your-api-contract-2nke)
-- [Early Feedback on “Build a Reasoning Model &lpar;From Scratch&rpar;”](https://dev.to/aairom/early-feedback-on-build-a-reasoning-model-from-scratch-h4)
+- [Mastering Python Modules, Packages &amp; Namespaces From Basics to Behind the Scenes](https://dev.to/anik_sikder_313/mastering-python-modules-packages-namespaces-from-basics-to-behind-the-scenes-4hno)
+- [Aard 2](https://dev.to/1prasanth0/aard-2-26ff)
+- [Apigee API Product Design](https://dev.to/mahmoudsayed96/apigee-api-product-design-4pnd)
+- [Anti-Influence Suit — Armor for the Feed](https://dev.to/viablemedia/anti-influence-suit-armor-for-the-feed-4d44)
+- [Ubuntu তে কিভাবে Adguard DNS সেটাপ করে Ads ব্লক করবেন?](https://dev.to/rironib/setup-adguard-dns-in-linux-2gd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
