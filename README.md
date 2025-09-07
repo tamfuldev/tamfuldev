@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Streamlining API Development with Apidog MCP Claude Code](https://dev.to/pipipi-dev/streamlining-api-development-with-apidog-mcp-x-claude-code-5dlg)
-- [3 Tier appilcation -Day 4](https://dev.to/dev_saini_ce708cfac6b9562/3-tier-appilcation-day-4-dpb)
-- [Django Without the Mess: Repositories for Data, Services for Rules](https://dev.to/soldatov-ss/django-without-the-mess-repositories-for-data-services-for-rules-k8e)
-- [Why Your `@Transform` Decorator Doesn’t Run in class-transformer &lpar;and How to Fix It&rpar;](https://dev.to/deko39/why-your-transform-decorator-doesnt-run-in-class-transformer-and-how-to-fix-it-3ka6)
-- [A Sunday Pause: Finding Joy in the Developer Journey](https://dev.to/shubhradev/a-sunday-pause-finding-joy-in-the-developer-journey-54ko)
+- [My FIRST EVER PORTFOLIO website](https://dev.to/wleahk98/my-first-ever-portfolio-website-2na2)
+- [WordPress admin menu editor - Control Dashboard - No Plugin](https://dev.to/jemeeroy/wordpress-admin-menu-editor-2peb)
+- [What I Learned Building Taco Empleos](https://dev.to/sebastian_arielbonetti_8/what-i-learned-building-taco-empleos-p7d)
+- [Three &lpar;3&rpar; Tips for efficient SQL Queries](https://dev.to/tkouleris/three-3-tips-for-efficient-sql-queries-17e3)
+- [Source Fidelity Playbook — Catch AI&#39;s Fake Citations in 90 Seconds](https://dev.to/viablemedia/source-fidelity-playbook-catch-ais-fake-citations-in-90-seconds-2jen)
 <!-- BLOG-POST-LIST:END -->
 
 ---
