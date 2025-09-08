@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My 49-Year Journey: From a 1976 IBM 5100 to Building an AI-Powered BASIC](https://dev.to/atomijd/my-49-year-journey-from-a-1976-ibm-5100-to-building-an-ai-powered-basic-9hh)
-- [The True Cost of an AI Engineer: A Deep Dive into Replit Agent vs. Lovable.dev](https://dev.to/aaronksaunders/the-true-cost-of-an-ai-engineer-a-deep-dive-into-replit-agent-vs-lovabledev-2djh)
-- [Beyond the terminal: Gemini CLI comes to Zed](https://dev.to/googleai/beyond-the-terminal-gemini-cli-comes-to-zed-3o43)
-- [🥋 Codewars — Achieve Mastery Through Challenge](https://dev.to/ml318097/codewars-achieve-mastery-through-challenge-57ni)
-- [The Queue: Understanding FIFO Data Structures in TypeScript](https://dev.to/rubenoalvarado/the-queue-understanding-fifo-data-structures-in-typescript-2cp5)
+- [KEXP: Brittany Davis - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-brittany-davis-full-performance-live-on-kexp-4adl)
+- [IGN: Ghost of Yotei - Official &#39;Journey Through The Edge of Japan&#39; Flyover](https://dev.to/gg_news/ign-ghost-of-yotei-official-journey-through-the-edge-of-japan-flyover-fmp)
+- [IGN: Digimon Story Time Stranger: Our Thoughts After Playing 4 Hours](https://dev.to/gg_news/ign-digimon-story-time-stranger-our-thoughts-after-playing-4-hours-59ec)
+- [IGN: War Mechanic - Official Re-reveal Trailer](https://dev.to/gg_news/ign-war-mechanic-official-re-reveal-trailer-2id2)
+- [IGN: Voidling Bound - Official Splicing Feature Trailer](https://dev.to/gg_news/ign-voidling-bound-official-splicing-feature-trailer-1mac)
 <!-- BLOG-POST-LIST:END -->
 
 ---
