@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Tech Stack for IG Exporter Chrome Extension](https://dev.to/max-dev/my-tech-stack-for-ig-exporter-chrome-extension-4l51)
-- [How to be cited by ChatGPT, Gemini or Perplexity? 👾](https://dev.to/bio-ai-software-engineer/how-to-be-cited-by-chatgpt-gemini-or-perplexity-1e25)
-- [Dark Patterns in Modern Web UX: The Subtle Manipulations We Fall For Every Day](https://dev.to/ishanbagchi/dark-patterns-in-modern-web-ux-the-subtle-manipulations-we-fall-for-every-day-54pi)
-- [Apigee Logger Shared Flow - Implementation Guide](https://dev.to/mahmoudsayed96/apigee-logger-shared-flow-implementation-guide-3cbn)
-- [How to Build a Responsive Restaurant Website Using HTML, CSS &amp; JavaScript](https://dev.to/alizehcodes/how-to-build-a-responsive-restaurant-website-using-html-css-javascript-2b7o)
+- [Reactive Programming and Observables with RxJS](https://dev.to/rebekahvanwyk/reactive-programming-and-observables-with-rxjs-3efi)
+- [Nardwuar the Human Serviette: Nardwuar vs. Sabrina Carpenter](https://dev.to/music_youtube/nardwuar-the-human-serviette-nardwuar-vs-sabrina-carpenter-55dj)
+- [IGN: Xbox Game Pass Creates &quot;Weird Inner Tensions,&quot; Says Former Bethesda Exec - IGN Daily Fix](https://dev.to/gg_news/ign-xbox-game-pass-creates-weird-inner-tensions-says-former-bethesda-exec-ign-daily-fix-3pj0)
+- [Resilience of MongoDB&#39;s WiredTiger Storage Engine to Disk Failure Compared to PostgreSQL and Oracle](https://dev.to/franckpachot/resilience-of-mongodbs-wiredtiger-storage-engine-to-disk-failure-compared-to-postgresql-and-oracle-h9f)
+- [How to Configure the Auth0 MCP Server in VS Code for AI Assistant Integration](https://dev.to/auth0/how-to-configure-the-auth0-mcp-server-in-vs-code-for-ai-assistant-integration-1edm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
