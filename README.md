@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Arrays Explained: Creation, Indexing, and Common Methods](https://dev.to/wisdomudo/javascript-arrays-explained-creation-indexing-and-common-methods-3hlj)
-- [🚀 From 2–5 Minutes to &lt; 1 Second: How a Small Nginx Config Change Boosted My Website](https://dev.to/ferryops/from-2-5-minutes-to-1-second-how-a-small-nginx-config-change-boosted-my-website-4h8j)
-- [Laura Kampf: A Carry On Suitcase Made From Trash &lpar;ONE DAY BUILD&rpar;](https://dev.to/maker_youtube/laura-kampf-a-carry-on-suitcase-made-from-trash-one-day-build-knk)
-- [IGN: Genshin Impact - Official Lauma: Crown of Sacred Silver Character Trailer](https://dev.to/gg_news/ign-genshin-impact-official-lauma-crown-of-sacred-silver-character-trailer-434g)
-- [From ChatGPT Prototype to Real AI Assistant: How I Automated My Daily Planning](https://dev.to/semiautomatix/from-chatgpt-prototype-to-real-ai-assistant-how-i-automated-my-daily-planning-1ebi)
+- [🚀 Day 8 of My DevOps Journey: Docker Networking &amp; Volumes](https://dev.to/dankbhardwaj/day-8-of-my-devops-journey-docker-networking-volumes-3232)
+- [The Vercel of Midnight: I Automated the Most Painful Part of ZK Development](https://dev.to/hitakshi_arora_4789582a4f/the-vercel-of-midnight-i-automated-the-most-painful-part-of-zk-development-h8g)
+- [Automating Unit Test Generation in Java: Why I Built My Own Tool](https://dev.to/rajeev_ranjan_e54cfa19cd8/automating-unit-test-generation-in-java-why-i-built-my-own-tool-3m9k)
+- [How to Secure Different User Types in Linux: A Guide for IT Teams](https://dev.to/sebos/how-to-secure-different-user-types-in-linux-a-guide-for-it-teams-22a8)
+- [Kiro Workflow for Copilot, Claude &amp; More](https://dev.to/lazypro/kiro-workflow-for-copilot-claude-more-4ihp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
