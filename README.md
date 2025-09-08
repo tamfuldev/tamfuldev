@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Differences Between Subqueries, CTEs, and Stored Procedures](https://dev.to/patrickkinoti/understanding-the-differences-between-subqueries-ctes-and-stored-procedures-3b75)
-- [🛠️ Was tired of duct-taping APIs and breaking ETL pipelines… RavenDB just dropped an AI Agent Creator inside the database. Finally feels like AI that won’t collapse on me.](https://dev.to/thedeepseeker/was-tired-of-duct-taping-apis-and-breaking-etl-pipelines-ravendb-just-dropped-an-ai-agent-5c06)
-- [Turn Any Image into a Blog Post with AI &lpar;React, Cloudinary &amp; OpenAI&rpar;](https://dev.to/cloudinary/turn-any-image-into-a-blog-post-with-ai-react-cloudinary-openai-3cb6)
-- [The Engineering Challenge of Creating a Drone-Based Emergency Wi-Fi Network](https://dev.to/dror_rofe_272e70cf3a16b05/the-engineering-challenge-of-creating-a-drone-based-emergency-wi-fi-network-362k)
-- [Root Cause Analysis &lpar;RCA&rpar;: entendendo a causa raiz de incidentes](https://dev.to/marcos_vile/root-cause-analysis-rca-entendendo-a-causa-raiz-de-incidentes-37pp)
+- [All Data and AI Weekly #206: 08 Sept 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-206-08-sept-2025-2fd4)
+- [a11yAuditHelper – or why Excel spreadsheets were no longer enough for my accessibility audits](https://dev.to/sataru/a11yaudithelper-or-why-excel-spreadsheets-were-no-longer-enough-for-my-accessibility-audits-4k39)
+- [From 49 to 95: How Prompt Engineering Boosted Gemini MCP Image Generation](https://dev.to/shinpr/from-49-to-95-how-prompt-engineering-boosted-gemini-mcp-image-generation-19n8)
+- [Day 1: Summon Your QuestBot 🤖⚡](https://dev.to/creator_x/day-1-summon-your-questbot-2nij)
+- [Most enterprise AI projects fail due to integration and data access issues. RavenDB’s AI Agent Creator runs AI agents inside the database itself, solving these problems and enabling faster, secure AI deployment. Would love to hear if others see this as the](https://dev.to/barak_codes/most-enterprise-ai-projects-fail-due-to-integration-and-data-access-issues-ravendbs-ai-agent-3lbd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
