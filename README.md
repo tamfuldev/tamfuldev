@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [NPR Music: Michael Mayo: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-michael-mayo-tiny-desk-concert-1a5j)
-- [Mr Sunday Movies: How Disney lost Gen Z](https://dev.to/popcorn_movies/mr-sunday-movies-how-disney-lost-gen-z-ien)
-- [Famous Five Next.js SaaS Templates for Your Startup &amp; Products](https://dev.to/isanjayjoshi/top-nextjs-saas-templates-for-your-next-startup-products-m0n)
-- [How to Write Cleaner Code by Thinking Like an Architect](https://dev.to/leena_malhotra/how-to-write-cleaner-code-by-thinking-like-an-architect-1nci)
-- [Zenhub vs Jira: Why I Chose Zenhub After 100+ Sprints](https://dev.to/gsauzande/zenhub-vs-jira-why-i-chose-zenhub-after-100-sprints-3joa)
+- [JupyterHub on Kubernetes: Secure Notebook Secrets with Vault](https://dev.to/buun-ch/jupyterhub-on-kubernetes-secure-notebook-secrets-with-vault-kk5)
+- [Deploying Docling Application on ECS with Application Load Balancer](https://dev.to/bikash119/deploying-docling-application-on-ecs-with-application-load-balancer-59k3)
+- [Surfing with FP Java - Mastering Function&lt;T, R&gt;](https://dev.to/borba/-surfing-with-fp-java-mastering-functiont-r-20gf)
+- [Global Product Security Strategy: A Multi-Layered Framework &lpar;I.P. developed&rpar;](https://dev.to/d3one/global-product-security-strategy-a-multi-layered-framework-ip-developed-cb1)
+- [Effective Handling of Geospatial Data in DynamoDB](https://dev.to/ianbrumby/effective-handling-of-geospatial-data-in-dynamodb-1hmn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
