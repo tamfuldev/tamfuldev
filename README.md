@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AWS CI/CD Made Easy: Build, Deploy, Repeat.](https://dev.to/imash24/aws-cicd-made-easy-build-deploy-repeat-4fc9)
-- [Designing APIs for the AI Era with Spring AI and MCP](https://dev.to/thedavestack/designing-apis-for-the-ai-era-with-spring-ai-and-mcp-3ahg)
-- [Prompt Engineering](https://dev.to/shajam/prompt-engineering-2kne)
-- [🚀 Docker as a Smart Contract | What This Means for Developers](https://dev.to/umang_suthar_9bad6f345a8a/docker-as-a-smart-contract-what-this-means-for-developers-1co9)
-- [Securing Workloads with AWS KMS and Encryption Best Practices](https://dev.to/sudoconsultants/securing-workloads-with-aws-kms-and-encryption-best-practices-2lh1)
+- [NPR Music: Michael Mayo: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-michael-mayo-tiny-desk-concert-1a5j)
+- [Mr Sunday Movies: How Disney lost Gen Z](https://dev.to/popcorn_movies/mr-sunday-movies-how-disney-lost-gen-z-ien)
+- [Famous Five Next.js SaaS Templates for Your Startup &amp; Products](https://dev.to/isanjayjoshi/top-nextjs-saas-templates-for-your-next-startup-products-m0n)
+- [How to Write Cleaner Code by Thinking Like an Architect](https://dev.to/leena_malhotra/how-to-write-cleaner-code-by-thinking-like-an-architect-1nci)
+- [Zenhub vs Jira: Why I Chose Zenhub After 100+ Sprints](https://dev.to/gsauzande/zenhub-vs-jira-why-i-chose-zenhub-after-100-sprints-3joa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
