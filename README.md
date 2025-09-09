@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [📊 Building a simple Wireframe Chart with FSCSS](https://dev.to/fscss-ttr/building-a-simple-wireframe-chart-with-fscss-4me)
-- [Interrupts and Commands in LangGraph: Building Human-in-the-Loop Workflows](https://dev.to/jamesbmour/interrupts-and-commands-in-langgraph-building-human-in-the-loop-workflows-4ngl)
-- [Protegendo segredos com HashiCorp Vault em um cluster Kubernetes da Magalu Cloud](https://dev.to/magalucloud/protegendo-segredos-com-hashicorp-vault-em-um-cluster-kubernetes-da-magalu-cloud-2fl2)
-- [Kiroscope: A map for Your Codebase with Kiro](https://dev.to/harshit_singh_69e2727c73b/kiroscope-a-map-for-your-codebase-with-kiro-p7d)
-- [5 AI Prompting Secrets: What Big Techs Know About Talking to AI](https://dev.to/werliton/5-ai-prompting-secrets-what-big-techs-know-about-talking-to-ai-46k5)
+- [Bulldog Behavior Interpreter](https://dev.to/rob_marcarelli_29748f27f0/bulldog-behavior-interpreter-4k7)
+- [Meet Iconshelf.com: Your New Go-To Hub for Free Open Source SVG Icons](https://dev.to/goonlinetools/meet-iconshelfcom-your-new-go-to-hub-for-free-open-source-svg-icons-29fc)
+- [Exploring Azure Functions for Synthetic Monitoring with Playwright: A Complete Guide - Part 1](https://dev.to/araujosnathan/exploring-azure-functions-for-synthetic-monitoring-with-playwright-a-complete-guide-part-1-3b8c)
+- [Mau Jadi Front-End Developer? Kenalan Dulu Sama React biar Jadi Idaman HRD!](https://dev.to/mumtazhere/mau-jadi-front-end-developer-kenalan-dulu-sama-react-biar-jadi-idaman-hrd-3cc)
+- [KEXP: Gyedu-Blay Ambolley - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-gyedu-blay-ambolley-full-performance-live-on-kexp-393d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
