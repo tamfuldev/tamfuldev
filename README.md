@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The NPM Supply Chain Attack: What Happened, Why It Matters, and How to Stay Safe](https://dev.to/scofieldidehen/the-npm-supply-chain-attack-what-happened-why-it-matters-and-how-to-stay-safe-39fc)
-- [Golf.com: How to Master the 50 Yard Pitch Shot](https://dev.to/youtube_golf/golfcom-how-to-master-the-50-yard-pitch-shot-1n2j)
-- [Jeff Su: 5 iPhone AI Habits The Top 1% Use](https://dev.to/future_ai/jeff-su-5-iphone-ai-habits-the-top-1-use-44an)
-- [IGN: Unyielder - Official Release Date Trailer](https://dev.to/gg_news/ign-unyielder-official-release-date-trailer-3ho6)
-- [IGN: The Smashing Machine - Official Trailer #2 &lpar;2025&rpar; Dwayne Johnson, Emily Blunt.](https://dev.to/gg_news/ign-the-smashing-machine-official-trailer-2-2025-dwayne-johnson-emily-blunt-phi)
+- [📊 Building a simple Wireframe Chart with FSCSS](https://dev.to/fscss-ttr/building-a-simple-wireframe-chart-with-fscss-4me)
+- [Interrupts and Commands in LangGraph: Building Human-in-the-Loop Workflows](https://dev.to/jamesbmour/interrupts-and-commands-in-langgraph-building-human-in-the-loop-workflows-4ngl)
+- [Protegendo segredos com HashiCorp Vault em um cluster Kubernetes da Magalu Cloud](https://dev.to/magalucloud/protegendo-segredos-com-hashicorp-vault-em-um-cluster-kubernetes-da-magalu-cloud-2fl2)
+- [Kiroscope: A map for Your Codebase with Kiro](https://dev.to/harshit_singh_69e2727c73b/kiroscope-a-map-for-your-codebase-with-kiro-p7d)
+- [5 AI Prompting Secrets: What Big Techs Know About Talking to AI](https://dev.to/werliton/5-ai-prompting-secrets-what-big-techs-know-about-talking-to-ai-46k5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
