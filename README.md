@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Indiana Jones and the Great Circle: The Order of Giants Review](https://dev.to/gg_news/ign-indiana-jones-and-the-great-circle-the-order-of-giants-review-27bi)
-- [#DAY 3: The Cloud Brain](https://dev.to/samueladeduntan/day-3-the-cloud-brain-4od6)
-- [Fixed Window Rate Limiting: Concept, Examples, and Java Implementation](https://dev.to/vipratechsolutions/fixed-window-rate-limiting-concept-examples-and-java-implementation-5070)
-- [Rate Limiting Algorithms: Concepts, Use Cases, and Implementation Strategies](https://dev.to/vipratechsolutions/rate-limiting-algorithms-concepts-use-cases-and-implementation-strategies-33bl)
-- [গিটহাব লাইসেন্স: কোনটি কবে ব্যবহারযোগ্য?](https://dev.to/engrsakib/gitthaab-laaisens-kontti-kbe-bybhaaryogy-5aaf)
+- [Mobile development best practices](https://dev.to/claranet/mobile-development-best-practices-24on)
+- [The Developer’s Roadmap to Building and Deploying AI Models](https://dev.to/kamruljpi/the-developers-roadmap-to-building-and-deploying-ai-models-4oin)
+- [Angular&#39;s Game-Changer: Why output&lpar;&rpar; is Replacing EventEmitter in 2025](https://dev.to/codewithrajat/angulars-game-changer-why-output-is-replacing-eventemitter-in-2025-5002)
+- [Implementing PostgreSQL Replication and Automated Cloud Backups Using Docker and Rclone](https://dev.to/bharat_solanke_8e45411fa6/implementing-postgresql-replication-and-automated-cloud-backups-using-docker-and-rclone-115)
+- [Shipaton: Do0ne Journal #1 - Project Setup &amp; First Build Complete](https://dev.to/friendship_e3d5e249468fc3/shipaton-do0ne-journal-1-project-setup-first-build-complete-309l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
