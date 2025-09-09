@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [5 UX Lessons Artificial Grass Companies Can Learn from E-commerce Leaders](https://dev.to/nzs_blogs/5-ux-lessons-artificial-grass-companies-can-learn-from-e-commerce-leaders-50e2)
-- [Beyond Uptime: Why Your All Green Dashboard is Lying to You](https://dev.to/tomcao2012/beyond-uptime-why-your-all-green-dashboard-is-lying-to-you-2b5)
-- [How to proxy Flutter&#39;s network requests to the native layer](https://dev.to/huangli_huang_12f4a0530eb/how-to-proxy-flutters-network-requests-to-the-native-layer-5b3b)
-- [Hot Lapping with Cold Blood](https://dev.to/jessangelo/hot-lapping-with-cold-blood-fp9)
-- [Charlex Operating System &lpar;Charlex OS&rpar;](https://dev.to/amzyei/charlex-operating-system-charlex-os-260d)
+- [How to revert a committed &amp; pushed file](https://dev.to/viktorle1294/how-to-revert-a-committed-pushed-file-3508)
+- [## Understanding Authentication and Refresh Token Flow](https://dev.to/jjammeso/-understanding-authentication-and-refresh-token-flow-15hi)
+- [AI-Powered Social Media Engagement Manager](https://dev.to/deniskisina/ai-powered-social-media-engagement-manager-3pjl)
+- [IGN: Make Hollow Knight: Silksong MUCH Harder With This Hidden Cheat Code](https://dev.to/gg_news/ign-make-hollow-knight-silksong-much-harder-with-this-hidden-cheat-code-2lf6)
+- [Beyond Code: How to Use AI to Modernize Software Architecture](https://dev.to/johnjvester/beyond-code-how-to-use-ai-to-modernize-software-architecture-1clb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
