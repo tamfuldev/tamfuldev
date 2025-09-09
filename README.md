@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Decimal Point Dilemma](https://dev.to/rawveg/the-decimal-point-dilemma-3l4l)
-- [Understanding in simple terms: symfony lock versus symfony semaphore](https://dev.to/jeandevbr/understanding-in-simple-terms-symfony-lock-versus-symfony-semaphore-2h5d)
-- [✨React.js Hacks: Part 2 - Next-Level Tricks for Clean &amp; Powerful Code](https://dev.to/ilsa_shaikh_089e2bfab0bf4/reactjs-hacks-part-2-next-level-tricks-for-clean-powerful-code-2k27)
-- [Load Testing Microservices With C# and NBomber](https://dev.to/antonmartyniuk/load-testing-microservices-with-c-and-nbomber-dc2)
-- [How to be cited by ChatGPT, Gemini or Perplexity? 👾](https://dev.to/bio-ai-software-engineer/how-to-be-cited-by-chatgpt-gemini-or-perplexity-1pi5)
+- [Launch Faster: Free Multipurpose Templates for Your Next.js Project](https://dev.to/isanjayjoshi/launch-faster-free-multipurpose-templates-for-your-nextjs-project-3l7)
+- [Introducing react-night-toggle - A Simple Dark/Light Mode Switch for React](https://dev.to/praveenskg/introducing-react-night-toggle-a-simple-darklight-mode-switch-for-react-2da3)
+- [Mastering the &#39;this&#39; Keyword in JavaScript](https://dev.to/adrahi/mastering-the-this-keyword-in-javascript-3f7m)
+- [KEXP: Gyedu-Blay Ambolley - U Like Or U No Like &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-gyedu-blay-ambolley-u-like-or-u-no-like-live-on-kexp-5bja)
+- [KEXP: Gyedu-Blay Ambolley - Teacher &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-gyedu-blay-ambolley-teacher-live-on-kexp-jij)
 <!-- BLOG-POST-LIST:END -->
 
 ---
