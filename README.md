@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Prompt engineering isn’t optional. It’s the new literacy that will define who thrives and who struggles.](https://dev.to/jaideepparashar/prompt-engineering-isnt-optional-its-the-new-literacy-that-will-define-who-thrives-and-who-4jbe)
-- [Why Prompt Engineering is the New Literacy](https://dev.to/jaideepparashar/why-prompt-engineering-is-the-new-literacy-2lco)
-- [Structured Concurrency](https://dev.to/sadiul_hakim/what-is-structured-concurrency-21al)
-- [Navigating the Modern Job Market: AI&#39;s Role in Recruitment and Applications](https://dev.to/max_mayer/navigating-the-modern-job-market-ais-role-in-recruitment-and-applications-5d69)
-- [Feeling Stuck in Your AI Video Side Hustle? Here&#39;s a Quick Reset](https://dev.to/walker876/feeling-stuck-in-your-ai-video-side-hustle-heres-a-quick-reset-g5i)
+- [11 System Design Interview Questions Every Engineer Should Master &lpar;With Real-World Answers 🚀&rpar;](https://dev.to/renukapatil/11-system-design-interview-questions-every-engineer-should-master-with-real-world-answers--iej)
+- [99.9% Uptime with Self-Healing Components: Building Bulletproof React Applications](https://dev.to/maurya-sachin/999-uptime-with-self-healing-components-building-bulletproof-react-applications-4kpb)
+- [AI Health Companion — Making healthcare information accessible for everyone.](https://dev.to/ihossen016/ai-health-companion-making-healthcare-information-accessible-for-everyone-4nbi)
+- [30-Second Git Commits: The Micro-Habit That Saved Me 10 Hours Per Week](https://dev.to/teamcamp/30-second-git-commits-the-micro-habit-that-saved-me-10-hours-per-week-2ef1)
+- [Can an Algorithm Dream? I Built an App to Find Out.](https://dev.to/dirsebastian/can-an-algorithm-dream-i-built-an-app-to-find-out-2p8d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
