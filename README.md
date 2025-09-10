@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Responsive Design Impacts User Experience across Devices](https://dev.to/designstudiouiux/how-responsive-design-impacts-user-experience-across-devices-1fo5)
-- [Aggregation Strategies for Scalable Data Insights: A Technical Perspective](https://dev.to/capestart/aggregation-strategies-for-scalable-data-insights-a-technical-perspective-5dk8)
-- [Unlocking Hidden Content: An Introduction to hidden=&#39;until-found&#39;](https://dev.to/patrick_clancey/unlocking-hidden-content-an-introduction-to-hiddenuntil-found-1mpa)
-- [The Great Reckoning](https://dev.to/rawveg/the-great-reckoning-18nc)
-- [From Prompt to Planet: A Martian RPG Generator](https://dev.to/vero-code/from-prompt-to-planet-a-martian-rpg-generator-26o9)
+- [Desacoplando lógicas com PublishEvent + EventHandler no Spring Boot](https://dev.to/ledsonsilva/desacoplando-logicas-com-publishevent-eventhandler-no-spring-boot-57h5)
+- [🚀 Day 12 of My Python Learning Journey](https://dev.to/_adii3107/day-12-of-my-python-learning-journey-36a5)
+- [AI-Powered SEO Strategies for WordPress: Staying Ahead in Search Rankings](https://dev.to/addwebsolutionpvtltd/ai-powered-seo-strategies-for-wordpress-staying-ahead-in-search-rankings-4450)
+- [The Largest NPM Supply Chain Attack of 2025: A Deep Dive into the Compromise of Billions of Downloads](https://dev.to/om_shree_0709/the-largest-npm-supply-chain-attack-of-2025-a-deep-dive-into-the-compromise-of-billions-of-3f45)
+- [Agent As Code : BMAD-METHOD™](https://dev.to/vishalmysore/agent-as-code-bmad-method-4no9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
