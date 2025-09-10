@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Server-Side Rendering: The Security Reality Check Every Developer Needs](https://dev.to/marco_cheung_/server-side-rendering-the-security-reality-check-every-developer-needs-f13)
-- [🚀 Looking for Feedback on ClearWork: Real-World Process Mapping, Future-State Design &amp; Agentic Workflows](https://dev.to/avery_brooks_9532c2ed2452/looking-for-feedback-on-clearwork-real-world-process-mapping-future-state-design-agentic-fc)
-- [Python Mystery Quiz: Can You Crack This Code?](https://dev.to/aaron_rose_0787cc8b4775a0/python-mystery-quiz-can-you-crack-this-code-3o53)
-- [Best markup to use in GitHub as a writer based on work-flow](https://dev.to/somadinag/best-markup-to-use-in-github-as-a-writer-based-on-work-flow-3ma)
-- [From StackOverflow to Vibe Coding: The Evolution of Copy-Paste Development](https://dev.to/trackjs/from-stackoverflow-to-vibe-coding-the-evolution-of-copy-paste-development-4ngl)
+- [IGN: Chainsaw Man - Official Series Recap Video &lpar;Dub&rpar;](https://dev.to/gg_news/ign-chainsaw-man-official-series-recap-video-dub-1eb5)
+- [IGN: The Jester 2 - Exclusive Clip &lpar;2025&rpar;](https://dev.to/gg_news/ign-the-jester-2-exclusive-clip-2025-2ali)
+- [IGN: PlayStation Family App - Official Overview Trailer](https://dev.to/gg_news/ign-playstation-family-app-official-overview-trailer-3eok)
+- [IGN: The Coolest Things We Saw | PAX West 2025](https://dev.to/gg_news/ign-the-coolest-things-we-saw-pax-west-2025-4e33)
+- [IGN: Katanaut - Official Launch Trailer | Play Acclaim Showcase 2025](https://dev.to/gg_news/ign-katanaut-official-launch-trailer-play-acclaim-showcase-2025-dan)
 <!-- BLOG-POST-LIST:END -->
 
 ---
