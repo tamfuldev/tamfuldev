@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI Undressing Underage Girls - A Billion Dollar Industry](https://dev.to/scofieldidehen/ai-undressing-underage-girls-a-billion-dollar-industry-3384)
-- [smithery.yaml in mcp-mermaid codebase.](https://dev.to/ramunarasinga-11/smitheryyaml-in-mcp-mermaid-codebase-1hpg)
-- [Surfing with FP Java - Mastering Supplier&lt;T&gt;](https://dev.to/borba/surfing-with-fp-java-mastering-supplier-5fjg)
-- [Join the latest KendoReact Free Components Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-latest-kendoreact-free-components-challenge-3000-in-prizes-4fch)
-- [Decoding XRP Ledger: How Protocol Requirements Shape the Network &lpar;September 2025 Update&rpar;](https://dev.to/enchstyle/decoding-xrp-ledger-how-protocol-requirements-shape-the-network-september-2025-update-280c)
+- [Figma Variables vs Tokens Studio: Why Both Matter](https://dev.to/quintonjason/figma-variables-vs-tokens-studio-why-both-matter-2md7)
+- [CloudFront ECDSA Signed URLs: 91% Faster Generation, 53% Shorter URLs](https://dev.to/aws-builders/cloudfront-ecdsa-signed-urls-91-faster-generation-53-shorter-urls-54nf)
+- [GameSpot: ELDEN RING NIGHTREIGN | Deep of Night Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-elden-ring-nightreign-deep-of-night-gameplay-overview-trailer-45jk)
+- [IGN: Chainsaw Man - The Movie: Reze Arc - Official Trailer #2 &lpar;Sub&rpar;](https://dev.to/gg_news/ign-chainsaw-man-the-movie-reze-arc-official-trailer-2-sub-2kaj)
+- [Documentation Release Notes - August 2025](https://dev.to/pubnub/documentation-release-notes-august-2025-3odn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
