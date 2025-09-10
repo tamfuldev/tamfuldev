@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Digitalization Social Creativity Multimedia Content Creator](https://dev.to/olatunjiayodel9/digitalization-social-creativity-multimedia-content-creator-1nhn)
-- [The Most Frequently Asked Flutter Engineer Interview Questions&lpar;2025&rpar;](https://dev.to/huangli_huang_12f4a0530eb/the-most-frequently-asked-flutter-engineer-interview-questions2025-45ee)
-- [Kinde monthly office hours](https://dev.to/kinde/kinde-monthly-office-hours-1a1n)
-- [Understanding Web Rendering Strategies](https://dev.to/anthonybanion/understanding-web-rendering-strategies-2j56)
-- [Numbee &lpar;Number Arrange Puzzle&rpar;](https://dev.to/raghavendrake/numbee-number-arrange-puzzle-5gl1)
+- [IGN: 100 METERS - Official Trailer &lpar;English Subtitles&rpar;](https://dev.to/gg_news/ign-100-meters-official-trailer-english-subtitles-4pi8)
+- [Mac Headaches: External Monitors](https://dev.to/oculus42/mac-headaches-external-monitors-1ni7)
+- [🚀 Day 10 of My DevOps Journey: Docker Compose — Multi-Container Apps Made Easy](https://dev.to/dankbhardwaj/day-10-of-my-devops-journey-docker-compose-multi-container-apps-made-easy-2men)
+- [Don’t Fear the Command Line](https://dev.to/amoreno/dont-fear-the-command-line-2b8k)
+- [The Other Side of OpenAI 12 Surprising Stories You Haven’t Heard](https://dev.to/programmerraja/the-other-side-of-openai-12-surprising-stories-you-havent-heard-c9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
