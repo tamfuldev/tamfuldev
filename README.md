@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: 100 METERS - Official Trailer &lpar;English Subtitles&rpar;](https://dev.to/gg_news/ign-100-meters-official-trailer-english-subtitles-4pi8)
-- [Mac Headaches: External Monitors](https://dev.to/oculus42/mac-headaches-external-monitors-1ni7)
-- [🚀 Day 10 of My DevOps Journey: Docker Compose — Multi-Container Apps Made Easy](https://dev.to/dankbhardwaj/day-10-of-my-devops-journey-docker-compose-multi-container-apps-made-easy-2men)
-- [Don’t Fear the Command Line](https://dev.to/amoreno/dont-fear-the-command-line-2b8k)
-- [The Other Side of OpenAI 12 Surprising Stories You Haven’t Heard](https://dev.to/programmerraja/the-other-side-of-openai-12-surprising-stories-you-havent-heard-c9)
+- [Docker Series: Episode 19 — Docker Volumes &amp; Persistent Storage Deep Dive](https://dev.to/yash_sonawane25/docker-series-episode-19-docker-volumes-persistent-storage-deep-dive-kcp)
+- [Getting Started with Meilisearch: Fast Search for Your Apps](https://dev.to/rijultp/getting-started-with-meilisearch-fast-search-for-your-apps-3o40)
+- [27 Rust-based alternatives to classic CLI apps](https://dev.to/lingodotdev/27-rust-based-alternatives-to-classic-cli-apps-2350)
+- [From Theory to Practice: A Complete Guide to Kubernetes In-Place Pod Resizing](https://dev.to/cloudpilot-ai/from-theory-to-practice-a-complete-guide-to-kubernetes-in-place-pod-resizing-4glk)
+- [Vibe Coding Best Practices](https://dev.to/jolanglinais/vibe-coding-best-practices-4go7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
