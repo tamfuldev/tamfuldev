@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Flash Loans Enabled Scammers Steal $13.3M From BetterBank &amp; Bunni v2](https://dev.to/scofieldidehen/how-flash-loans-enabled-scammers-steal-133m-from-betterbank-bunni-v2-ad2)
-- [The new PostHog.com is pretty amazing ... most distinctive landing page I&#39;ve seen in a long time.](https://dev.to/peter/the-new-posthogcom-is-pretty-amazing-most-distinctive-landing-page-ive-seen-in-a-long-1kna)
-- [Building CodeMapRT: Rethinking Regression Testing with Change-Mapping](https://dev.to/yuliadrogunova/building-codemaprt-rethinking-regression-testing-with-change-mapping-2hbb)
-- [Effective Java &lpar;3rd Edition&rpar; - Chapter 2: Creating and Destroying Objects with Java and Kotlin](https://dev.to/inajar/effective-java-3rd-edition-chapter-2-creating-and-destroying-objects-with-java-and-kotlin-5965)
-- [Why the Principle of Least Privilege Is Critical for Non-Human Identities](https://dev.to/gitguardian/why-the-principle-of-least-privilege-is-critical-for-non-human-identities-3kg3)
+- [GameSpot: Borderlands 4 Opening Cinematic](https://dev.to/gg_news/gamespot-borderlands-4-opening-cinematic-10gb)
+- [IGN: Borderlands 4: The First 29 Minutes of Gameplay](https://dev.to/gg_news/ign-borderlands-4-the-first-29-minutes-of-gameplay-1pp8)
+- [IGN: Borderlands 4 Review](https://dev.to/gg_news/ign-borderlands-4-review-4hnc)
+- [IGN: 5 Fall Video Games We&#39;ve Waited 10+ Years To Play - Beyond Clips](https://dev.to/gg_news/ign-5-fall-video-games-weve-waited-10-years-to-play-beyond-clips-21ek)
+- [IGN: Ayasa: Shadows of Silence - Official Release Date Trailer](https://dev.to/gg_news/ign-ayasa-shadows-of-silence-official-release-date-trailer-emf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
