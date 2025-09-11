@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🧃 Juice Oracle: The AI That Judges Your Soul Through Your Beverages](https://dev.to/jcloud/juice-oracle-the-ai-that-judges-your-soul-through-your-beverages-3k6l)
-- [This is just a test](https://dev.to/ben/this-is-just-a-test-1b12)
-- [KEXP: Sea Lemon - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sea-lemon-full-performance-live-on-kexp-320g)
-- [IGN: Borderlands 4 – 9 Things You NEED To Do First](https://dev.to/gg_news/ign-borderlands-4-9-things-you-need-to-do-first-j0f)
-- [IGN: Delta Force - Official ‘Fault’ Warfare Map Reveal Trailer](https://dev.to/gg_news/ign-delta-force-official-fault-warfare-map-reveal-trailer-3ma)
+- [🌊 Be the Rising Tide: The Multiplying Effect of Lifting &lpar;and Pushing&rpar; Others](https://dev.to/dvddpl/be-the-rising-tide-the-multiplying-effect-of-lifting-and-pushing-others-n1h)
+- [10 Handy Online Utilities Every Developer &lpar;and Writer&rpar; Should Bookmark](https://dev.to/designpro_8c25215be381e3c/10-handy-online-utilities-every-developer-and-writer-should-bookmark-p0f)
+- [The Ultimate Ranking of Fruit-Inspired .com Brand Names](https://dev.to/flippp/the-ultimate-ranking-of-fruit-inspired-com-brand-names-2p7o)
+- [From a Roundtable Chat to an MVP Journey: Insights and Community Spirit](https://dev.to/edesantomaz/from-a-roundtable-chat-to-an-mvp-journey-insights-and-community-spirit-1icg)
+- [Links instead of repetition](https://dev.to/mcadariu/links-instead-of-repetition-4pc7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
