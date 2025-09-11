@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Angular Signal Forms &lpar;v.21&rpar;](https://dev.to/fabiobiondi/exploring-angular-signal-forms-v21-ka5)
-- [AI Ransomware Army: How 80% of Cyberattacks Are Powered by Artificial Intelligence](https://dev.to/axrisi/ai-ransomware-army-how-80-of-cyberattacks-are-powered-by-artificial-intelligence-1d69)
-- [⚡ Lightning Network: Rust, LDK, and the Future of Bitcoin Payments](https://dev.to/_56d7718cea8fe00ec1610/lightning-network-rust-ldk-and-the-future-of-bitcoin-payments-c7l)
-- [[Boost]](https://dev.to/revis047/-17am)
-- [How a Birthday Cake Accidentally Taught Me DOM 🎂](https://dev.to/lokesh_keswani/how-a-birthday-cake-accidentally-taught-me-dom-g40)
+- [Start with Vercel, Scale to VPS: The Smart Developer&#39;s Path](https://dev.to/sst21/start-with-vercel-scale-to-vps-the-smart-developers-path-245l)
+- [Integrating Pesapal API 3.0 on Django](https://dev.to/joy_nyayieka/integrating-pesapal-api-30-on-django-58i0)
+- [Building a License Plate Recognition System with Deep Learning and Edge Deployment](https://dev.to/aneesafolio3/building-a-license-plate-recognition-system-with-deep-learning-and-edge-deployment-ack)
+- [5 Common Performance Pitfalls in Mobile Apps &lpar;And How to Fix Them&rpar;](https://dev.to/data_fortune_64fa15d5eff3/5-common-performance-pitfalls-in-mobile-apps-and-how-to-fix-them-417h)
+- [Master MERN Stack Development with CoderCrafter: Building a User Authentication System](https://dev.to/himanshu_anand_b6a7606f82/master-mern-stack-development-with-codercrafter-building-a-user-authentication-system-3873)
 <!-- BLOG-POST-LIST:END -->
 
 ---
