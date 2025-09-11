@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Causal LLM or splitting LLM](https://dev.to/anonch/causal-llm-or-splitting-llm-3n2n)
-- [React Hook Form Summary: How to Easily Manage Forms Even for Beginners](https://dev.to/kazutora_hattori_66972c88/react-hook-form-summary-how-to-easily-manage-forms-even-for-beginners-m1)
-- [Get More Done with Better Contact Center Software](https://dev.to/deepijatelecom1/get-more-done-with-better-contact-center-software-985)
-- [How Do You Fix the Missing Texture Error in Blender &lpar;2025 Guide&rpar;?](https://dev.to/irender_gpu_cloud/how-do-you-fix-the-missing-texture-error-in-blender-2025-guide-1100)
-- [A Complete Picture to Make Laravel Blade Files Alive](https://dev.to/raheelshan/a-complete-picture-to-make-laravel-blade-files-alive-4go3)
+- [Exploring Angular Signal Forms &lpar;v.21&rpar;](https://dev.to/fabiobiondi/exploring-angular-signal-forms-v21-ka5)
+- [AI Ransomware Army: How 80% of Cyberattacks Are Powered by Artificial Intelligence](https://dev.to/axrisi/ai-ransomware-army-how-80-of-cyberattacks-are-powered-by-artificial-intelligence-1d69)
+- [⚡ Lightning Network: Rust, LDK, and the Future of Bitcoin Payments](https://dev.to/_56d7718cea8fe00ec1610/lightning-network-rust-ldk-and-the-future-of-bitcoin-payments-c7l)
+- [[Boost]](https://dev.to/revis047/-17am)
+- [How a Birthday Cake Accidentally Taught Me DOM 🎂](https://dev.to/lokesh_keswani/how-a-birthday-cake-accidentally-taught-me-dom-g40)
 <!-- BLOG-POST-LIST:END -->
 
 ---
