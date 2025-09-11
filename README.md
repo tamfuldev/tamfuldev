@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Banking System That Talks COBOL… and My Boss Didn&#39;t Notice](https://dev.to/obinexus/i-built-a-banking-system-that-talks-cobol-and-my-boss-didnt-notice-4gm3)
-- [Blind coding](https://dev.to/dyfet/blind-coding-70b)
-- [How to Delete and Recover a Virtual Machine Using OS Disk](https://dev.to/jic/how-to-delete-and-recover-a-virtual-machine-using-os-disk-3p2e)
-- [Awesome Robots Digest - Issue #2 - September 5, 2025](https://dev.to/bobjiang/awesome-robots-digest-issue-2-september-5-2025-8dl)
-- [Quantum Context: The Dawn of Hyper-Personalized AI](https://dev.to/arvindsundararajan/quantum-context-the-dawn-of-hyper-personalized-ai-3g5b)
+- [How do I Structure Projects for Scalability](https://dev.to/aleksandr_ryzhikov/how-do-i-structure-projects-for-scalability-4ppo)
+- [Google AI Studio Multimodal Challenge: Free-Tier My A$$](https://dev.to/ghotet/google-ai-studio-multimodal-challenge-free-tier-my-a-150a)
+- [Hello everyone!](https://dev.to/esdk/hello-everyone-165f)
+- [GameSpot: Hollow Knight: Silksong 7 Things I Wish I Knew](https://dev.to/gg_news/gamespot-hollow-knight-silksong-7-things-i-wish-i-knew-5d25)
+- [IGN: GTA 6 Delay Wasn&#39;t Bad for Everyone - IGN Daily Fix](https://dev.to/gg_news/ign-gta-6-delay-wasnt-bad-for-everyone-ign-daily-fix-2e5e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
