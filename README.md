@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/kathryngrayson/-3511)
-- [Beyond Wearables](https://dev.to/rawveg/beyond-wearables-20aj)
-- [What&#39;s New in C# 14: Null-Conditional Assignments](https://dev.to/ivankahl/whats-new-in-c-14-null-conditional-assignments-2oj4)
-- [Google Cloud Storage : Le guide du débutant pour maîtriser vos fichiers](https://dev.to/laformulenuagique/google-cloud-storage-le-guide-du-debutant-pour-maitriser-vos-fichiers-281a)
-- [The Adventures of Blink S4e2: Blink vs. The Setup Script](https://dev.to/linkbenjamin/the-adventures-of-blink-s4e2-blink-vs-the-setup-script-46a6)
+- [9 Exciting Open Source Projects You Will Be Amazed to Discover 📚✨](https://dev.to/madza/9-exciting-open-source-projects-you-will-be-amazed-to-discover-21ca)
+- [Understanding How BLE Devices Connect &lpar;and How to Simplify It with BleuIO&rpar;](https://dev.to/bleuiot/understanding-how-ble-devices-connect-and-how-to-simplify-it-with-bleuio-136j)
+- [Step-by-Step Guide to Network Routing Configuration](https://dev.to/ajayid10/step-by-step-guide-to-network-routing-configuration-1465)
+- [KEXP: Sea Lemon - Cynical &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sea-lemon-cynical-live-on-kexp-f3e)
+- [KEXP: Sea Lemon - Crystals &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sea-lemon-crystals-live-on-kexp-m4b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
