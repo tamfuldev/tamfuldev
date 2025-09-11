@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: you, infinite - Throughlines &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-you-infinite-throughlines-live-on-kexp-5flb)
-- [Golf With Aimee: This Just Broke the Launch Monitor Game | Meet the Neo-E ⛳🔥](https://dev.to/youtube_golf/golf-with-aimee-this-just-broke-the-launch-monitor-game-meet-the-neo-e-4ahm)
-- [GameSpot: 7 Things I Wish I Knew Before Playing Hollow Knight: Silksong](https://dev.to/gg_news/gamespot-7-things-i-wish-i-knew-before-playing-hollow-knight-silksong-4ckn)
-- [GameSpot: 50 Minutes of Digimon Story: Time Stranger Gameplay Demo](https://dev.to/gg_news/gamespot-50-minutes-of-digimon-story-time-stranger-gameplay-demo-p62)
-- [SVG Spritesheet builder using document fragments](https://dev.to/mardeg/svg-spritesheet-builder-using-document-fragments-5h5p)
+- [Machine Learning vs. Deep Learning: Choosing the Right Tool for the Job](https://dev.to/libin_babu_e7becad8e71af3/machine-learning-vs-deep-learning-choosing-the-right-tool-for-the-job-5f2o)
+- [TypeScript Advanced Patterns: Writing Cleaner &amp; Safer Code in 2025](https://dev.to/frontendtoolstech/typescript-advanced-patterns-writing-cleaner-safer-code-in-2025-4gbn)
+- [Docker Series: Episode 20 — Docker Security Best Practices &amp; Secrets Management 🔒](https://dev.to/yash_sonawane25/docker-series-episode-20-docker-security-best-practices-secrets-management-4e6)
+- [Critical SQL Injection Vulnerability in Weaver e-cology OA: What You Need to Know](https://dev.to/sharon_42e16b8da44dabde6d/critical-sql-injection-vulnerability-in-weaver-e-cology-oa-what-you-need-to-know-1gbp)
+- [AI and Art: How Creators Can Navigate the Evolving Landscape](https://dev.to/walker876/ai-and-art-how-creators-can-navigate-the-evolving-landscape-1gb4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
