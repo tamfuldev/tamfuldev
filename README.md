@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [9 Exciting Open Source Projects You Will Be Amazed to Discover 📚✨](https://dev.to/madza/9-exciting-open-source-projects-you-will-be-amazed-to-discover-21ca)
-- [Understanding How BLE Devices Connect &lpar;and How to Simplify It with BleuIO&rpar;](https://dev.to/bleuiot/understanding-how-ble-devices-connect-and-how-to-simplify-it-with-bleuio-136j)
-- [Step-by-Step Guide to Network Routing Configuration](https://dev.to/ajayid10/step-by-step-guide-to-network-routing-configuration-1465)
-- [KEXP: Sea Lemon - Cynical &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sea-lemon-cynical-live-on-kexp-f3e)
-- [KEXP: Sea Lemon - Crystals &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sea-lemon-crystals-live-on-kexp-m4b)
+- [How Flash Loans Enabled Scammers Steal $13.3M From BetterBank &amp; Bunni v2](https://dev.to/scofieldidehen/how-flash-loans-enabled-scammers-steal-133m-from-betterbank-bunni-v2-ad2)
+- [The new PostHog.com is pretty amazing ... most distinctive landing page I&#39;ve seen in a long time.](https://dev.to/peter/the-new-posthogcom-is-pretty-amazing-most-distinctive-landing-page-ive-seen-in-a-long-1kna)
+- [Building CodeMapRT: Rethinking Regression Testing with Change-Mapping](https://dev.to/yuliadrogunova/building-codemaprt-rethinking-regression-testing-with-change-mapping-2hbb)
+- [Effective Java &lpar;3rd Edition&rpar; - Chapter 2: Creating and Destroying Objects with Java and Kotlin](https://dev.to/inajar/effective-java-3rd-edition-chapter-2-creating-and-destroying-objects-with-java-and-kotlin-5965)
+- [Why the Principle of Least Privilege Is Critical for Non-Human Identities](https://dev.to/gitguardian/why-the-principle-of-least-privilege-is-critical-for-non-human-identities-3kg3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
