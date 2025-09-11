@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Machine Learning vs. Deep Learning: Choosing the Right Tool for the Job](https://dev.to/libin_babu_e7becad8e71af3/machine-learning-vs-deep-learning-choosing-the-right-tool-for-the-job-5f2o)
-- [TypeScript Advanced Patterns: Writing Cleaner &amp; Safer Code in 2025](https://dev.to/frontendtoolstech/typescript-advanced-patterns-writing-cleaner-safer-code-in-2025-4gbn)
-- [Docker Series: Episode 20 — Docker Security Best Practices &amp; Secrets Management 🔒](https://dev.to/yash_sonawane25/docker-series-episode-20-docker-security-best-practices-secrets-management-4e6)
-- [Critical SQL Injection Vulnerability in Weaver e-cology OA: What You Need to Know](https://dev.to/sharon_42e16b8da44dabde6d/critical-sql-injection-vulnerability-in-weaver-e-cology-oa-what-you-need-to-know-1gbp)
-- [AI and Art: How Creators Can Navigate the Evolving Landscape](https://dev.to/walker876/ai-and-art-how-creators-can-navigate-the-evolving-landscape-1gb4)
+- [Tadpole Charts: Clarity in Change](https://dev.to/datastudies/tadpole-charts-clarity-in-change-1co0)
+- [Network Reconnaissance with Nmap: The Complete Guide](https://dev.to/caffinecoder54/network-reconnaissance-with-nmap-the-complete-guide-4jp7)
+- [Open Source vs. Commercial AI Prior Art Tools: PQAI and Alternatives](https://dev.to/patentscanai/open-source-vs-commercial-ai-prior-art-tools-pqai-and-alternatives-na2)
+- [KEXP: you, infinite &lpar;THIS WILL DESTROY YOU&rpar; - Throughlines &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-you-infinite-this-will-destroy-you-throughlines-live-on-kexp-2098)
+- [SafeLine WAF Hands-On: The Free Security Tool You Didn’t Know You Needed](https://dev.to/sharon_42e16b8da44dabde6d/safeline-waf-hands-on-the-free-security-tool-you-didnt-know-you-needed-2o4j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
