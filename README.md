@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Rust vs. Your Next JavaScript Framework: Which Should You Learn?](https://dev.to/francescoxx/rust-vs-your-next-javascript-framework-which-should-you-learn-24pj)
-- [Project of the Week: Chainguard](https://dev.to/pullflow/project-of-the-week-chainguard-37cm)
-- [Struggling to Connect with Developers? Copywriting Can Transform Your Results Today! &lpar;with Practical Examples&rpar;](https://dev.to/werliton/struggling-to-connect-with-developers-copywriting-can-transform-your-results-today-with-4a3)
-- [Forward Networks - Round 1 &lpar;JavaScript&rpar;](https://dev.to/ml318097/forward-networks-round-1-javascript-310k)
-- [Securing AWS IAM Groups and RDS Permissions: Step-by-Step Policy Guide](https://dev.to/darko_kostovski_2744e790a/securing-aws-iam-groups-and-rds-permissions-step-by-step-policy-guide-hfg)
+- [GameSpot: Tomodachi Life Living The Dream - Official Release Window Reveal Gameplay Trailer](https://dev.to/gg_news/gamespot-tomodachi-life-living-the-dream-official-release-window-reveal-gameplay-trailer-2fnm)
+- [GameSpot: Donkey Kong Bananza - DK Island and Emerald Rush Launch Trailer](https://dev.to/gg_news/gamespot-donkey-kong-bananza-dk-island-and-emerald-rush-launch-trailer-1lc4)
+- [GameSpot: Resident Evil Requiem &lpar;RE9&rpar; - Official 2nd Trailer](https://dev.to/gg_news/gamespot-resident-evil-requiem-re9-official-2nd-trailer-3ol)
+- [GameSpot: Donkey Kong Bananza Emerald Rush Turns The Game Into A Roguelite And It&#39;s Awesome](https://dev.to/gg_news/gamespot-donkey-kong-bananza-emerald-rush-turns-the-game-into-a-roguelite-and-its-awesome-20i7)
+- [IGN: Pokemon Legends: Z-A - Trailer | Nintendo Direct](https://dev.to/gg_news/ign-pokemon-legends-z-a-trailer-nintendo-direct-2a68)
 <!-- BLOG-POST-LIST:END -->
 
 ---
