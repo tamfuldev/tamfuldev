@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [WorryBox](https://dev.to/gigaelk/worrybox-2hmp)
-- [IndexTTS2 Comprehensive Review: In-Depth Analysis of 2025&#39;s Most Powerful Emotional Speech Synthesis Model](https://dev.to/czmilo/indextts2-comprehensive-review-in-depth-analysis-of-2025s-most-powerful-emotional-speech-1m9e)
-- [How to reduce costs for Third party API hits](https://dev.to/naimulkarim/how-to-reduce-costs-for-third-party-api-hits-341b)
-- [Garbage Collection in Go: From Reference Counting to Tri-Color to Green Tea](https://dev.to/gkoos/garbage-collection-in-go-from-reference-counting-to-tri-color-to-green-tea-4f87)
-- [Red Star Realism](https://dev.to/brianbot/red-star-realism-pd6)
+- [How a Web Browser Works: Inside Modern Browsers](https://dev.to/giovanni786/how-a-web-browser-works-inside-modern-browsers-3j8d)
+- [IGN: Hollow Knight: Silksong Boss Fight - Widow &lpar;Shellwood&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-boss-fight-widow-shellwood-46b2)
+- [AWS Budgets and Alerts ¿Cómo crear presupuestos y recibir alertas?](https://dev.to/barbara_gaspar/aws-budgets-and-alerts-como-crear-presupuestos-y-recibir-alertas-1pgp)
+- [Introducing… Git Pushups](https://dev.to/justinprojects/introducing-git-pushups-1o35)
+- [BulkActionsBar - Part 2 - Engineering a Robust and Accessible Bulk Actions Bar in React](https://dev.to/talissoncosta/bulkactionsbar-part-2-engineering-a-robust-and-accessible-bulk-actions-bar-in-react-ac4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
