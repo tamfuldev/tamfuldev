@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Japanese Breakfast - My Baby &lpar;Got Nothing At All&rpar; &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-japanese-breakfast-my-baby-got-nothing-at-all-live-on-kexp-1eh3)
-- [KEXP: Japanese Breakfast - Honey Water &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-japanese-breakfast-honey-water-live-on-kexp-1k3d)
-- [KEXP: Japanese Breakfast - Picture Window &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-japanese-breakfast-picture-window-live-on-kexp-5fod)
-- [KEXP: Japanese Breakfast - Mega Circuit &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-japanese-breakfast-mega-circuit-live-on-kexp-11ni)
-- [Ringer Movies: The Paul Thomas Anderson Movie Character Draft](https://dev.to/popcorn_movies/ringer-movies-the-paul-thomas-anderson-movie-character-draft-2264)
+- [Exploring Azure Functions for Synthetic Monitoring with Playwright: A Complete Guide - Part 4](https://dev.to/araujosnathan/exploring-azure-functions-for-synthetic-monitoring-with-playwright-a-complete-guide-part-4-481f)
+- [Enabling Dynamics 365 Outlook App](https://dev.to/nikhildynamicsce/enabling-dynamics-365-outlook-app-5cpl)
+- [Best Workouts for Developers Who Sit All Day](https://dev.to/alexahayes/best-workouts-for-developers-who-sit-all-day-20jm)
+- [Ruby Argentina September Meetup](https://dev.to/sinaptia_dev/ruby-argentina-september-meetup-3fg)
+- [From Rules to Router: Teaching AI Your Language, Not Laws](https://dev.to/yemreak/from-rules-to-router-teaching-ai-your-language-not-laws-5cj2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
