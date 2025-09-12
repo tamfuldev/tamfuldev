@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Toggle This: Feature Flags in Angular](https://dev.to/mthobis41586080/toggle-this-feature-flags-in-angular-34jj)
-- [No Laying Up Podcast: Seamsters Union - Heading for Home | Trap Draw, Ep 358](https://dev.to/youtube_golf/no-laying-up-podcast-seamsters-union-heading-for-home-trap-draw-ep-358-508c)
-- [Bryan Bros Golf: Golf Match w/ Linkin Park!](https://dev.to/youtube_golf/bryan-bros-golf-golf-match-w-linkin-park-2kgg)
-- [GameSpot: The Super Mario Galaxy Movie | Official Title Announcement Trailer](https://dev.to/gg_news/gamespot-the-super-mario-galaxy-movie-official-title-announcement-trailer-3c5d)
-- [GameSpot: Yoshi And The Mysterious Book - Official Gameplay Reveal Trailer](https://dev.to/gg_news/gamespot-yoshi-and-the-mysterious-book-official-gameplay-reveal-trailer-1h5)
+- [Rust vs. Your Next JavaScript Framework: Which Should You Learn?](https://dev.to/francescoxx/rust-vs-your-next-javascript-framework-which-should-you-learn-24pj)
+- [Project of the Week: Chainguard](https://dev.to/pullflow/project-of-the-week-chainguard-37cm)
+- [Struggling to Connect with Developers? Copywriting Can Transform Your Results Today! &lpar;with Practical Examples&rpar;](https://dev.to/werliton/struggling-to-connect-with-developers-copywriting-can-transform-your-results-today-with-4a3)
+- [Forward Networks - Round 1 &lpar;JavaScript&rpar;](https://dev.to/ml318097/forward-networks-round-1-javascript-310k)
+- [Securing AWS IAM Groups and RDS Permissions: Step-by-Step Policy Guide](https://dev.to/darko_kostovski_2744e790a/securing-aws-iam-groups-and-rds-permissions-step-by-step-policy-guide-hfg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
