@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How a Web Browser Works: Inside Modern Browsers](https://dev.to/giovanni786/how-a-web-browser-works-inside-modern-browsers-3j8d)
-- [IGN: Hollow Knight: Silksong Boss Fight - Widow &lpar;Shellwood&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-boss-fight-widow-shellwood-46b2)
-- [AWS Budgets and Alerts ¿Cómo crear presupuestos y recibir alertas?](https://dev.to/barbara_gaspar/aws-budgets-and-alerts-como-crear-presupuestos-y-recibir-alertas-1pgp)
-- [Introducing… Git Pushups](https://dev.to/justinprojects/introducing-git-pushups-1o35)
-- [BulkActionsBar - Part 2 - Engineering a Robust and Accessible Bulk Actions Bar in React](https://dev.to/talissoncosta/bulkactionsbar-part-2-engineering-a-robust-and-accessible-bulk-actions-bar-in-react-ac4)
+- [Docker Series: Episode 21 — Docker Logging &amp; Monitoring Essentials 📊](https://dev.to/yash_sonawane25/docker-series-episode-21-docker-logging-monitoring-essentials-4f4k)
+- [Introducing db.nvim: Your Database Companion in Neovim](https://dev.to/praem90/introducing-dbnvim-your-database-companion-in-neovim-12lh)
+- [What is jsx? when we use jsx? why we use jsx?how we use jsx? difference b/w js and jsx?](https://dev.to/lakshmi_g_74c225d5ca0b272/what-is-jsx-when-we-use-jsx-why-we-use-jsxhow-we-use-jsx-difference-bw-js-and-jsx-5b9)
+- [Hiring: Full-Stack Developer – Remote, 6+ Month Contract &lpar;$10–$15/hr&rpar;](https://dev.to/dev_vd_7144a5b0f61f5ce9de/hiring-full-stack-developer-remote-6-month-contract-10-15hr-409g)
+- [XMLHttpRequest in JavaScript](https://dev.to/bhuvanasri/xmlhttprequest-in-javascript-3ac8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
