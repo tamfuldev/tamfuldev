@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering AI Logo Creation: My Proven Prompt Framework and Community Tips Exchange](https://dev.to/aariff/mastering-ai-logo-creation-my-proven-prompt-framework-and-community-tips-exchange-2ban)
-- [Adding Cache to NestJS Services Made Easy](https://dev.to/antkl/adding-cache-to-nestjs-services-made-easy-448b)
-- [AI Ethics: From Academic Curiosity to Existential Imperative](https://dev.to/rawveg/ai-ethics-from-academic-curiosity-to-existential-imperative-1nd1)
-- [Why I Switched from Burp Suite to ZeroThreat for App Security](https://dev.to/sambishop/why-i-switched-from-burp-suite-to-zerothreat-for-app-security-p2p)
-- [EdgeBERT: I Built My Own Neural Network Inference Engine in Rust](https://dev.to/olafur_aron/edgebert-i-built-my-own-neural-network-inference-engine-in-rust-3l29)
+- [KEXP: Japanese Breakfast - My Baby &lpar;Got Nothing At All&rpar; &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-japanese-breakfast-my-baby-got-nothing-at-all-live-on-kexp-1eh3)
+- [KEXP: Japanese Breakfast - Honey Water &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-japanese-breakfast-honey-water-live-on-kexp-1k3d)
+- [KEXP: Japanese Breakfast - Picture Window &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-japanese-breakfast-picture-window-live-on-kexp-5fod)
+- [KEXP: Japanese Breakfast - Mega Circuit &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-japanese-breakfast-mega-circuit-live-on-kexp-11ni)
+- [Ringer Movies: The Paul Thomas Anderson Movie Character Draft](https://dev.to/popcorn_movies/ringer-movies-the-paul-thomas-anderson-movie-character-draft-2264)
 <!-- BLOG-POST-LIST:END -->
 
 ---
