@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[For Beginners] Quickly Fix Jest Crashing with import.meta in Vite+React+TypeScript &lpar;Supabase Compatible&rpar;](https://dev.to/kazutora_hattori_66972c88/for-beginners-quickly-fix-jest-crashing-with-importmeta-in-vitereacttypescript-supabase-4b0g)
-- [MVC vs MVVM: what&#39;s the difference? &lpar;C# example&rpar;](https://dev.to/dimension-zero/mvc-vs-mvvm-whats-the-difference-c-example-45ah)
-- [⚡ DMG – Round 1 &lpar;JavaScript&rpar;](https://dev.to/ml318097/dmg-round-1-javascript-knd)
-- [I interviewed for 6 random jobs before the one I really wanted. Here’s what I did wrong.](https://dev.to/fahimulhaq/i-interviewed-for-6-random-jobs-before-the-one-i-really-wanted-heres-what-i-did-wrong-hn1)
-- [How to Design Dish Drying Rack Using 3D CAD Software](https://dev.to/julia970/how-to-design-dish-drying-rack-using-3d-cad-software-4j5e)
+- [Choosing the Best Screenshot API in 2025: A Developer’s Guide](https://dev.to/mukul_sharma/choosing-the-best-screenshot-api-in-2025-a-developers-guide-79)
+- [Bug in CloudFront&#39;s Continuous Deployment Feature](https://dev.to/aws-builders/bug-in-cloudfronts-continuous-deployment-features-47ok)
+- [The Dual Peril: Mustafa Suleyman&#39;s Stark Warning on Superintelligence and Mimicked Consciousness](https://dev.to/yathin_chandra_649b921cc6/the-dual-peril-mustafa-suleymans-stark-warning-on-superintelligence-and-mimicked-consciousness-5a8f)
+- [Your database is not elastic!](https://dev.to/nicocrm/your-database-is-not-elastic-3o18)
+- [The Secret Life of Your Files: Why Computers Store Data Like a Filing Cabinet](https://dev.to/vickdapro/the-secret-life-of-your-files-why-computers-store-data-like-a-filing-cabinet-15hm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
