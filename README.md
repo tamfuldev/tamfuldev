@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Series: Episode 21 — Docker Logging &amp; Monitoring Essentials 📊](https://dev.to/yash_sonawane25/docker-series-episode-21-docker-logging-monitoring-essentials-4f4k)
-- [Introducing db.nvim: Your Database Companion in Neovim](https://dev.to/praem90/introducing-dbnvim-your-database-companion-in-neovim-12lh)
-- [What is jsx? when we use jsx? why we use jsx?how we use jsx? difference b/w js and jsx?](https://dev.to/lakshmi_g_74c225d5ca0b272/what-is-jsx-when-we-use-jsx-why-we-use-jsxhow-we-use-jsx-difference-bw-js-and-jsx-5b9)
-- [Hiring: Full-Stack Developer – Remote, 6+ Month Contract &lpar;$10–$15/hr&rpar;](https://dev.to/dev_vd_7144a5b0f61f5ce9de/hiring-full-stack-developer-remote-6-month-contract-10-15hr-409g)
-- [XMLHttpRequest in JavaScript](https://dev.to/bhuvanasri/xmlhttprequest-in-javascript-3ac8)
+- [[Boost]](https://dev.to/varshithvhegde/-48pg)
+- [How to deploy Spring Boot Application on Google Cloud Run using Cloud Build - ANIL LALAM](https://dev.to/anil_lalam_2cee9c52a20a39/how-to-deploy-spring-boot-application-on-google-cloud-run-using-cloud-build-anil-lalam-8lc)
+- [Is it fair to fear AI?](https://dev.to/wdp/is-it-fair-to-fear-ai-22pn)
+- [IGN: Hollow Knight: Silksong Battle Arena/Locked Room - Birds Fight &lpar;Greymoor&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-battle-arenalocked-room-birds-fight-greymoor-188o)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2d93)
 <!-- BLOG-POST-LIST:END -->
 
 ---
