@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding vs. Professional Coding: A Developer’s Honest Take](https://dev.to/naresh_82de734ade4c1c66d9/vibe-coding-vs-professional-coding-a-developers-honest-take-5f16)
-- [Choosing Between On-Premises and Cloud SQL Hosting: What Businesses Should Consider](https://dev.to/kapusto/choosing-between-on-premises-and-cloud-sql-hosting-what-businesses-should-consider-4a3a)
-- [OSD600 Lab 1](https://dev.to/kphero/osd600-lab-1-3a54)
-- [How to Simulate God Proofs with React &amp; TypeScript](https://dev.to/aelassas/how-to-simulate-god-proofs-with-react-typescript-opc)
-- [Updating But Not Reflecting!? React’s Common State &#39;Stale Closure&#39; Pitfall](https://dev.to/learcise_health/updating-but-not-reflecting-reacts-common-state-stale-closure-pitfall-3f0d)
+- [How I Handle 15-Second AI Tasks Without Losing 87% of Users](https://dev.to/horushe/how-i-handle-15-second-ai-tasks-without-losing-87-of-users-2gjn)
+- [My First Open Source Code Review Experience](https://dev.to/aubreyddd/my-first-open-source-code-review-experience-5f65)
+- [Code Review and Testing – Lessons Learned &lpar;OSD600LAB_1&rpar;](https://dev.to/hsachdeva9/code-review-and-testing-lessons-learned-osd600lab1-11p8)
+- [Beyond the Label: How Python Variables Really Work with Memory](https://dev.to/aaron_rose_0787cc8b4775a0/beyond-the-label-how-python-variables-really-work-with-memory-41d1)
+- [🏆001. Wins of my week🏆](https://dev.to/0xvalacor/001-wins-of-my-week-227o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
