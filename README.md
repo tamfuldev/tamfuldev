@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Tideman Voting Algorithm: A Graph-Based Approach to Elections](https://dev.to/vivekvohra/tideman-voting-algorithm-a-graph-based-approach-to-elections-330c)
-- [IGN: Emotionless: The Last Ticket – Official New Release Date Trailer](https://dev.to/gg_news/ign-emotionless-the-last-ticket-official-new-release-date-trailer-bk6)
-- [IGN: Borderlands 4: All 9 Vault Key Fragment Locations](https://dev.to/gg_news/ign-borderlands-4-all-9-vault-key-fragment-locations-2hg3)
-- [logger.ts in mcp-mermaid codebase.](https://dev.to/ramunarasinga-11/loggerts-in-mcp-mermaid-codebase-3kcp)
-- [Deploying Tideman Election App on AWS EC2 with Docker](https://dev.to/vivekvohra/deploying-tideman-election-app-on-aws-ec2-with-docker-1ff2)
+- [Why Personas Matter: A Friendly Approach to UI/UX Design](https://dev.to/lovestaco/why-personas-matter-a-friendly-approach-to-uiux-design-4l0f)
+- [Oracle Performance Views](https://dev.to/mrcaption49/oracle-performance-views-45ed)
+- [Building an Interactive Counter with Kotlin &amp; Jetpack Compose: Animations, State Management &amp; UX Excellence](https://dev.to/blamsa0mine/building-an-interactive-counter-with-kotlin-jetpack-compose-animations-state-management-ux-1kjb)
+- [AI First Aid Assistant](https://dev.to/rogerio_lima_72d949a1fe47/ai-first-aid-assistant-18gd)
+- [Virtual Studio AI: The End of the Photoshoot](https://dev.to/naresh1511/virtual-studio-ai-the-end-of-the-photoshoot-1l3i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
