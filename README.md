@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [KAFKA - Uber-Style Trip Event Pipeline](https://dev.to/zeeshanali0704/kafka-uber-style-trip-event-pipeline-4kc2)
-- [Day 94: When Pitch Preparation Becomes Self-Discovery](https://dev.to/casperday11/day-94-when-pitch-preparation-becomes-self-discovery-3m3i)
-- [How I Send SMS From My React App Using My Own Phone and SIM Card](https://dev.to/nikola_mitrovic_922e2665f/how-i-send-sms-from-my-react-app-using-my-own-phone-and-sim-card-4n0p)
-- [🏥 Loop Health – Round 2 &lpar;JavaScript&rpar;](https://dev.to/ml318097/loop-health-round-2-javascript-21m9)
-- [Unreal Engine Coding with Neovim Plugins: Revolutionize Your UE Development Workflow](https://dev.to/taku25/unreal-engine-coding-with-neovim-plugins-revolutionize-your-ue-development-workflow-1mke)
+- [I built FireScope: a Chrome DevTools panel for Firestore &lpar;open-source&rpar;](https://dev.to/omardulaimi/i-built-firescope-a-chrome-devtools-panel-for-firestore-open-source-48g0)
+- [Image Compression Tool Comparison: Zippic vs. TinyPNG](https://dev.to/kelen/image-compression-tool-comparison-zippic-vs-tinypng-4bdc)
+- [How an Email Travels Across the Network](https://dev.to/tahsin000/how-an-email-travels-across-the-network-ggb)
+- [I Built a Custom Python Logger Module without OOP &lpar;Console, File &amp; DB Logging&rpar;](https://dev.to/estrosec/i-built-a-custom-python-logger-module-without-oop-console-file-db-logging-310e)
+- [Git Remote Error: “remote origin already exists” And How to Fix It](https://dev.to/msnmongare/git-remote-error-remote-origin-already-exists-and-how-to-fix-it-3l88)
 <!-- BLOG-POST-LIST:END -->
 
 ---
