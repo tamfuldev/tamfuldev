@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built FireScope: a Chrome DevTools panel for Firestore &lpar;open-source&rpar;](https://dev.to/omardulaimi/i-built-firescope-a-chrome-devtools-panel-for-firestore-open-source-48g0)
-- [Image Compression Tool Comparison: Zippic vs. TinyPNG](https://dev.to/kelen/image-compression-tool-comparison-zippic-vs-tinypng-4bdc)
-- [How an Email Travels Across the Network](https://dev.to/tahsin000/how-an-email-travels-across-the-network-ggb)
-- [I Built a Custom Python Logger Module without OOP &lpar;Console, File &amp; DB Logging&rpar;](https://dev.to/estrosec/i-built-a-custom-python-logger-module-without-oop-console-file-db-logging-310e)
-- [Git Remote Error: “remote origin already exists” And How to Fix It](https://dev.to/msnmongare/git-remote-error-remote-origin-already-exists-and-how-to-fix-it-3l88)
+- [Kiro: the good, bad and ugly part in my personal experience](https://dev.to/fikuri/kiro-the-good-bad-and-ugly-part-in-my-personal-experience-1neh)
+- [Tired of Generic Visuals? 5 AI Tools Everybody Should Be Using Today](https://dev.to/werliton/tired-of-generic-visuals-5-ai-tools-everybody-should-be-using-today-4c9m)
+- [Card Beam Animation](https://dev.to/ist-github/card-beam-animation-4lpo)
+- [&lpar;4/4&rpar; LLM: In-Context Learning, Hype, and the Road Ahead](https://dev.to/jiminlee/44-llm-in-context-learning-hype-and-the-road-ahead-1229)
+- [🧪 LiteWorkspace: Minimal Context Loading for Faster Spring Tests](https://dev.to/our16/liteworkspace-minimal-context-loading-for-faster-spring-tests-4ad1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
