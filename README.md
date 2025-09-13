@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building FocusQuest: How I Created a Gamified Productivity App with Kiro AI](https://dev.to/jake_joseph_1c55bb2b04b55/building-focusquest-how-i-created-a-gamified-productivity-app-with-kiro-ai-2kb6)
-- [Async Web Scraping with scrapy_cffi](https://dev.to/strange_funny_ca3065432c5/async-web-scraping-with-scrapycffi-1em3)
-- [When to Load Data Right Away vs. When to Let HTMX Handle It Later: A Senior Dev&#39;s Take](https://dev.to/sisproid/when-to-load-data-right-away-vs-when-to-let-htmx-handle-it-later-a-senior-devs-take-25nf)
-- [DBMS Tutorial: A Beginner’s Guide to Database Management Systems](https://dev.to/suraj_kumar_fb57ae0928df2/dbms-tutorial-a-beginners-guide-to-database-management-systems-4f2n)
-- [Quick Fix: How to Cache Handlebars Templates the Right Way](https://dev.to/sisproid/quick-fix-how-to-cache-handlebars-templates-the-right-way-2o5k)
+- [Building Rock-Solid Express.js Middleware: A Guide That Actually Works in Production](https://dev.to/sisproid/building-rock-solid-expressjs-middleware-a-guide-that-actually-works-in-production-25oh)
+- [Country Flags Widget](https://dev.to/joel_streich_646bdeadb455/country-flags-widget-23e)
+- [USA’s Leading Laravel Development Companies You Can Trust](https://dev.to/zubairpateljiwala/usas-leading-laravel-development-companies-you-can-trust-558h)
+- [Day 4/365 Days of Full Stack Challenge: Bringing Your Page to Life - Inserting Images in HTML](https://dev.to/code_2/day-4365-days-of-full-stack-challenge-bringing-your-page-to-life-inserting-images-in-html-1j3p)
+- [HTMX Dependent Dropdowns: 5 Strategies I Learned the Hard Way](https://dev.to/sisproid/htmx-dependent-dropdowns-5-strategies-i-learned-the-hard-way-2lj5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
