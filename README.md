@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating Auth0 Authentication with NestJS Using Organizations &lpar;Multi-Tenant Setup&rpar;](https://dev.to/gad_ishimwe/integrating-auth0-authentication-with-nestjs-using-organizations-multi-tenant-setup-1567)
-- [AI Digital Twin for Manufacturing: How Darkonium Builds Adaptive Simulations with AI](https://dev.to/urbanhawktech/how-we-build-ai-powered-digital-twins-for-manufacturing-at-darkonium-3nhi)
-- [Something against norm](https://dev.to/cutieyunnytech/something-against-norm-3pl6)
-- [Latency Numbers Every Data Streaming Engineer Should Know](https://dev.to/david_kjerrumgaard_d31d7e/latency-numbers-every-data-streaming-engineer-should-know-13lp)
-- [Set up Customer.io HTTPS links tracking with Google Cloud Platform](https://dev.to/manuelmhtr/set-up-customerio-https-links-tracking-with-google-cloud-platform-pl2)
+- [Vibe Coding vs. Professional Coding: A Developer’s Honest Take](https://dev.to/naresh_82de734ade4c1c66d9/vibe-coding-vs-professional-coding-a-developers-honest-take-5f16)
+- [Choosing Between On-Premises and Cloud SQL Hosting: What Businesses Should Consider](https://dev.to/kapusto/choosing-between-on-premises-and-cloud-sql-hosting-what-businesses-should-consider-4a3a)
+- [OSD600 Lab 1](https://dev.to/kphero/osd600-lab-1-3a54)
+- [How to Simulate God Proofs with React &amp; TypeScript](https://dev.to/aelassas/how-to-simulate-god-proofs-with-react-typescript-opc)
+- [Updating But Not Reflecting!? React’s Common State &#39;Stale Closure&#39; Pitfall](https://dev.to/learcise_health/updating-but-not-reflecting-reacts-common-state-stale-closure-pitfall-3f0d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
