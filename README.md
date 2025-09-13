@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering DOM Manipulation with Svelte Actions and Children](https://dev.to/a1guy/mastering-dom-manipulation-with-svelte-actions-and-children-238m)
-- [Best Practice API Response JSON Ringkas, Konsisten, dan Mudah Ditelusuri](https://dev.to/naandan/best-practice-api-response-ringkas-konsisten-dan-mudah-ditelusuri-21bi)
-- [**HackSpire’25: More Than Just Code – It&#39;s Where Ideas Take Flight **🚀](https://dev.to/debaditya_saha_5b45172210/hackspire25-more-than-just-code-its-where-ideas-take-flight--lll)
-- [Memory Integrity Enforcement: Apple&#39;s New Security Feature for iOS](https://dev.to/arshtechpro/memory-integrity-enforcement-apples-new-security-feature-for-ios-320b)
-- [Mastering Svelte Custom Stores](https://dev.to/a1guy/mastering-svelte-custom-stores-5c1g)
+- [Building FocusQuest: How I Created a Gamified Productivity App with Kiro AI](https://dev.to/jake_joseph_1c55bb2b04b55/building-focusquest-how-i-created-a-gamified-productivity-app-with-kiro-ai-2kb6)
+- [Async Web Scraping with scrapy_cffi](https://dev.to/strange_funny_ca3065432c5/async-web-scraping-with-scrapycffi-1em3)
+- [When to Load Data Right Away vs. When to Let HTMX Handle It Later: A Senior Dev&#39;s Take](https://dev.to/sisproid/when-to-load-data-right-away-vs-when-to-let-htmx-handle-it-later-a-senior-devs-take-25nf)
+- [DBMS Tutorial: A Beginner’s Guide to Database Management Systems](https://dev.to/suraj_kumar_fb57ae0928df2/dbms-tutorial-a-beginners-guide-to-database-management-systems-4f2n)
+- [Quick Fix: How to Cache Handlebars Templates the Right Way](https://dev.to/sisproid/quick-fix-how-to-cache-handlebars-templates-the-right-way-2o5k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
