@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Top Benefits of Using Cross Dex for Multi-Chain Traders](https://dev.to/clara_peters_40b4f8e83421/the-top-benefits-of-using-cross-dex-for-multi-chain-traders-2djm)
-- [AudioMuse-AI : Sonic Analysis for Jellyfin and Navidrome](https://dev.to/guido_colangiuli_0435a4b2/audiomuse-ai-sonic-analysis-for-jellyfin-and-navidrome-5hd)
-- [Top 11 Document Parsing AI Tools for developers in 2025](https://dev.to/anmolbaranwal/top-11-document-parsing-ai-tools-for-developers-in-2025-4m6a)
-- [Cloudflare workersのリバースプロキシ](https://dev.to/suzulabo/cloudflare-workersnoribasupurokisi-3gob)
-- [JavaScript let vs var: A Beginner&#39;s Guide to Block Scoping](https://dev.to/satyam_gupta_0d1ff2152dcc/javascript-let-vs-var-a-beginners-guide-to-block-scoping-3j32)
+- [Developer Tooling #006](https://dev.to/patinthehat/developer-tooling-006-4g55)
+- [วิธีแก้ git conflict เบื้องต้นใน Virtual Studio Code](https://dev.to/teampat/withiiaek-git-conflict-ebuuengtnain-vs-code-3325)
+- [AI Assistants and Data Privacy: Who Trains on Your Data, Who Doesn’t](https://dev.to/alifar/ai-assistants-and-data-privacy-who-trains-on-your-data-who-doesnt-njj)
+- [Introducing db2lake: A Lightweight and Powerful ETL Framework for Node.js](https://dev.to/bahador_r/introducing-db2lake-a-lightweight-and-powerful-etl-framework-for-nodejs-12b6)
+- [Оптимизация конверсии SMB: как AI и автоматизация меняют правила игры для малого бизнеса](https://dev.to/cambocom/optimizatsiia-konviersii-smb-kak-ai-i-avtomatizatsiia-mieniaiut-pravila-ighry-dlia-malogho-bizniesa-1e25)
 <!-- BLOG-POST-LIST:END -->
 
 ---
