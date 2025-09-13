@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Rock-Solid Express.js Middleware: A Guide That Actually Works in Production](https://dev.to/sisproid/building-rock-solid-expressjs-middleware-a-guide-that-actually-works-in-production-25oh)
-- [Country Flags Widget](https://dev.to/joel_streich_646bdeadb455/country-flags-widget-23e)
-- [USA’s Leading Laravel Development Companies You Can Trust](https://dev.to/zubairpateljiwala/usas-leading-laravel-development-companies-you-can-trust-558h)
-- [Day 4/365 Days of Full Stack Challenge: Bringing Your Page to Life - Inserting Images in HTML](https://dev.to/code_2/day-4365-days-of-full-stack-challenge-bringing-your-page-to-life-inserting-images-in-html-1j3p)
-- [HTMX Dependent Dropdowns: 5 Strategies I Learned the Hard Way](https://dev.to/sisproid/htmx-dependent-dropdowns-5-strategies-i-learned-the-hard-way-2lj5)
+- [The Top Benefits of Using Cross Dex for Multi-Chain Traders](https://dev.to/clara_peters_40b4f8e83421/the-top-benefits-of-using-cross-dex-for-multi-chain-traders-2djm)
+- [AudioMuse-AI : Sonic Analysis for Jellyfin and Navidrome](https://dev.to/guido_colangiuli_0435a4b2/audiomuse-ai-sonic-analysis-for-jellyfin-and-navidrome-5hd)
+- [Top 11 Document Parsing AI Tools for developers in 2025](https://dev.to/anmolbaranwal/top-11-document-parsing-ai-tools-for-developers-in-2025-4m6a)
+- [Cloudflare workersのリバースプロキシ](https://dev.to/suzulabo/cloudflare-workersnoribasupurokisi-3gob)
+- [JavaScript let vs var: A Beginner&#39;s Guide to Block Scoping](https://dev.to/satyam_gupta_0d1ff2152dcc/javascript-let-vs-var-a-beginners-guide-to-block-scoping-3j32)
 <!-- BLOG-POST-LIST:END -->
 
 ---
