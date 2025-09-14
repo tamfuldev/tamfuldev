@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Who be AI?!](https://dev.to/kizito007/who-be-ai-5180)
-- [The Rust Journey of a JavaScript Developer • Day 4 &lpar;3/5&rpar;](https://dev.to/fedtti/the-rust-journey-of-a-javascript-developer-day-4-35-1dfc)
-- [SONICS.ai 🧠🎬📚🎞️ create Comics that *speak* - your Style!](https://dev.to/ssithub/sonicsai-create-comics-that-speak-your-style-32p8)
-- [Built a 40k Line AI Platform by Having Conversations](https://dev.to/ryszardrzepa/built-a-40k-line-ai-platform-by-having-conversations-4k9b)
-- [Machine Learning: Transforming Data into Intelligent Decisions](https://dev.to/hadi_ahad_524f44ef9d635ee/machine-learning-transforming-data-into-intelligent-decisions-5fmh)
+- [Polyphonic: How Music Works in &quot;Sinners&quot;](https://dev.to/music_youtube/polyphonic-how-music-works-in-sinners-e2h)
+- [Google&#39;s Top AI Scientists Say &quot;Learning How to Learn&quot; Will Be the Next Generation&#39;s Most Needed Skill](https://dev.to/shiva_shanker_k/googles-top-ai-scientists-say-learning-how-to-learn-will-be-the-next-generations-most-needed-3f26)
+- [IGN: Miyamoto Explains How Mario World 1-1 Was Created](https://dev.to/gg_news/ign-miyamoto-explains-how-mario-world-1-1-was-created-36bm)
+- [May the Auth Be With You: Securing Mage AI](https://dev.to/killallskywalker/may-the-auth-be-with-you-securing-mage-ai-3ole)
+- [Spec Coding with Kiro: My Experience Building LiftFire](https://dev.to/devblac/spec-coding-with-kiro-my-experience-building-liftfire-g0n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
