@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Polyphonic: How Music Works in &quot;Sinners&quot;](https://dev.to/music_youtube/polyphonic-how-music-works-in-sinners-e2h)
-- [Google&#39;s Top AI Scientists Say &quot;Learning How to Learn&quot; Will Be the Next Generation&#39;s Most Needed Skill](https://dev.to/shiva_shanker_k/googles-top-ai-scientists-say-learning-how-to-learn-will-be-the-next-generations-most-needed-3f26)
-- [IGN: Miyamoto Explains How Mario World 1-1 Was Created](https://dev.to/gg_news/ign-miyamoto-explains-how-mario-world-1-1-was-created-36bm)
-- [May the Auth Be With You: Securing Mage AI](https://dev.to/killallskywalker/may-the-auth-be-with-you-securing-mage-ai-3ole)
-- [Spec Coding with Kiro: My Experience Building LiftFire](https://dev.to/devblac/spec-coding-with-kiro-my-experience-building-liftfire-g0n)
+- [AppWeaver AI](https://dev.to/ha3k/appweaver-ai-5a1m)
+- [Unlocking the Unthinkable: Convergent Flow Fields for Next-Gen Robotics](https://dev.to/arvindsundararajan/unlocking-the-unthinkable-convergent-flow-fields-for-next-gen-robotics-5oj)
+- [Understand how AI Agents work, with AWS Strands](https://dev.to/welcloud-io/understand-how-ai-agents-work-with-aws-strands-51g6)
+- [I built Element Fusion](https://dev.to/arunavmaitra/i-built-element-fusion-5ed6)
+- [Fast AI Hair + Color Preview That Actually Helped](https://dev.to/yuki_18_77ff1fd604db8ace7/fast-ai-hair-color-preview-that-actually-helped-1p2j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
