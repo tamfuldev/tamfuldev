@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AppWeaver AI](https://dev.to/ha3k/appweaver-ai-5a1m)
-- [Unlocking the Unthinkable: Convergent Flow Fields for Next-Gen Robotics](https://dev.to/arvindsundararajan/unlocking-the-unthinkable-convergent-flow-fields-for-next-gen-robotics-5oj)
-- [Understand how AI Agents work, with AWS Strands](https://dev.to/welcloud-io/understand-how-ai-agents-work-with-aws-strands-51g6)
-- [I built Element Fusion](https://dev.to/arunavmaitra/i-built-element-fusion-5ed6)
-- [Fast AI Hair + Color Preview That Actually Helped](https://dev.to/yuki_18_77ff1fd604db8ace7/fast-ai-hair-color-preview-that-actually-helped-1p2j)
+- [Why You Need to Know How a Database Works Internally?](https://dev.to/deepak_negi_f1d64e7393000/why-you-need-to-know-how-a-database-works-internally-5g6a)
+- [Learning Scala with chess #1 - Color and coordinates](https://dev.to/kaiba78987_4/learning-scala-with-chess-1-color-and-coordinates-gdj)
+- [Introducing Clprolf: a New Programming Language for Clear OOP](https://dev.to/charles_koffler_bcabc582b/introducing-clprolf-a-new-programming-language-for-clear-oop-3mjk)
+- [I Built LexKit: A Modern, Type-Safe Rich Text Editor for React](https://dev.to/codeideal/i-built-lexkit-a-modern-type-safe-rich-text-editor-for-react-3ahc)
+- [netcrypt: Secure Socket Communication &amp; Encrypted Tunneling for Python](https://dev.to/raghavachellu/netcrypt-secure-socket-communication-encrypted-tunneling-for-python-1oe9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
