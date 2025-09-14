@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/jordanadair/-l6n)
-- [Private LLM Inference: Democratizing AI with Ciphertext Computations](https://dev.to/arvindsundararajan/private-llm-inference-democratizing-ai-with-ciphertext-computations-3k43)
-- [Vision Stock-Financial Applet](https://dev.to/shakarpg/vision-stock-financial-applet-2hc6)
-- [From ASTs to RakuAST to ASTQuery](https://dev.to/fco/from-asts-to-rakuast-to-astquery-c3f)
-- [AI&#39;s Symphony of Sight and Sound: Teaching Machines to &#39;See&#39; Music](https://dev.to/arvindsundararajan/ais-symphony-of-sight-and-sound-teaching-machines-to-see-music-221c)
+- [Neat trick to Stop Retyping Arguments](https://dev.to/jessalejo/neat-trick-to-stop-retyping-arguments-9gm)
+- [Introducing: A Go package to reduce err boilerplate](https://dev.to/winstonpuckett/introducing-a-go-package-to-reduce-err-boilerplate-3o6a)
+- [From Word Predictor to Thinking Partner: The Rise of Thinking Models](https://dev.to/jiminlee/from-word-predictor-to-thinking-partner-the-rise-of-thinking-models-34e9)
+- [AI Driven Development Day: Key Insights from Industry Leaders](https://dev.to/victorsaly/ai-driven-development-day-key-insights-from-industry-leaders-f39)
+- [AI Dev Tools I Use Everyday](https://dev.to/ali_haider_3e2f954c5c0bb0/ai-dev-tools-i-use-everyday-44hd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
