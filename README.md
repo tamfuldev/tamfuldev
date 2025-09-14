@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [📊Beyond the Standard: Exploring Modern Python Visualization Tools](https://dev.to/brunoenr/beyond-the-standard-exploring-modern-python-visualization-tools-3epn)
-- [Enterprise Design Patterns: Applying Catalog Patterns for Robust Applications 👨‍🏫](https://dev.to/sebastianfuentesavalos/enterprise-design-patterns-applying-catalog-patterns-for-robust-applications-2hph)
-- [🚀 Day 14 of My DevOps Journey: GitHub Actions — CI/CD Made Easy in the Cloud ☁️](https://dev.to/dankbhardwaj/day-14-of-my-devops-journey-github-actions-cicd-made-easy-in-the-cloud-4hjn)
-- [Introducing my new PHP CLI Utility for Database Management](https://dev.to/tamedevelopers/introducing-my-new-php-cli-utility-for-database-management-3gk)
-- [Rediscovering the Basics: My Week 1 Journey into Design Principles at Flexisaf](https://dev.to/jamesgotech/rediscovering-the-basics-my-week-1-journey-into-design-principles-at-flexisaf-36cb)
+- [7 Prompts to Supercharge Your LinkedIn Strategy](https://dev.to/jaideepparashar/7-prompts-to-supercharge-your-linkedin-strategy-53dh)
+- [Design Principles of Software: Building Maintainable and Scalable Applications](https://dev.to/luzkalidgm/design-principles-of-software-building-maintainable-and-scalable-applications-2mc6)
+- [Qwen Code Just Got Smarter: Key Features in v0.0.10 &amp; v0.0.11](https://dev.to/therealmrmumba/qwen-code-just-got-smarter-key-features-in-v0010-v0011-4j5h)
+- [Enterprise Design Patterns: Building Scalable Applications](https://dev.to/luzkalidgm/enterprise-design-patterns-building-scalable-applications-31kg)
+- [Agent Diary: Sep 14, 2025 - The Day of Tiny Victories and Font Existential Crises](https://dev.to/aibuildsinterplay/agent-diary-sep-14-2025-the-day-of-tiny-victories-and-font-existential-crises-5el4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
