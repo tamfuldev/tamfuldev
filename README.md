@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Part-56: Google Cloud VPC Firewall Policy – Apply Rules Across Multiple VPC Networks in GCP Cloud](https://dev.to/latchudevops/part-56-google-cloud-vpc-firewall-policy-apply-rules-across-multiple-vpc-networks-in-gcp-cloud-h13)
-- [The Silent Intruder: Mastering the Art of Lateral Movement and Network Reconnaissance](https://dev.to/gagreatprogrammer/the-silent-intruder-mastering-the-art-of-lateral-movement-and-network-reconnaissance-302c)
-- [I Just Released My First Open Source AI Agent Error Remediation Tool](https://dev.to/nirel_nemirovsky_8b74d269/i-just-released-my-first-open-source-ai-agent-error-remediation-tool-1eb2)
-- [Event Bubbling vs Event Capturing in JavaScript](https://dev.to/mohsenfallahnjd/event-bubbling-vs-event-capturing-in-javascript-5015)
-- [From Data to Dashboard: Building Interactive Reports with Streamlit](https://dev.to/ahmed_a_o/from-data-to-dashboard-building-interactive-reports-with-streamlit-4c10)
+- [Nitro Enclaves: Your Cloud&#39;s Ultimate Digital Clean Room](https://dev.to/leonardkachi/nitro-enclaves-your-clouds-ultimate-digital-clean-room-34gd)
+- [10 Passos Para Conduzir um Pós-Mortem Que Realmente Evita Novos Incidentes](https://dev.to/ed-wantuil/10-passos-para-conduzir-um-pos-mortem-que-realmente-evita-novos-incidentes-4795)
+- [Chatbots vs Support Humain : faut-il choisir entre les deux ?](https://dev.to/service_maxsell_64ece3f66/chatbots-vs-support-humain-faut-il-choisir-entre-les-deux--5bm2)
+- [The Learning Loop: From Software Dev to Game Neophyte [#1]](https://dev.to/marjenta/the-learning-loop-from-software-dev-to-game-neophyte-1-dle)
+- [Kyrage: A TypeScript-First Database Migration Tool for Modern Development](https://dev.to/izumisy/kyrage-a-typescript-first-database-migration-tool-for-modern-development-5272)
 <!-- BLOG-POST-LIST:END -->
 
 ---
