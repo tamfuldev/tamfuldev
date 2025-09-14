@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SelfSprite Maze Game---------Take a selfie, and become an animated playable character in the game](https://dev.to/firevibe/selfsprite-maze-game-take-a-selfie-and-become-an-animated-playable-character-in-the-game-3h2h)
-- [Predictive Motion: Guiding Robots with Learned Flow Fields by Arvind Sundararajan](https://dev.to/arvindsundararajan/predictive-motion-guiding-robots-with-learned-flow-fields-by-arvind-sundararajan-44ak)
-- [Turning Music Into Art — Building a Synesthesia Simulator with Gemini](https://dev.to/sarthak_bhardwaj_05aba55d/turning-music-into-art-building-a-synesthesia-simulator-with-gemini-3459)
-- [Let Ai speak with money](https://dev.to/pavan_kumargr_aa10283b91/let-ai-speak-with-money-29ka)
-- [Hacker Games contest for beginners in cybersecurity](https://dev.to/seb-dojo/hacker-games-contest-for-beginners-in-cybersecurity-191j)
+- [COLORS: AMORE | A COLORS SHOW](https://dev.to/music_youtube/colors-amore-a-colors-show-2424)
+- [An Interview is a Conversation You Can Lead. Here&#39;s How.](https://dev.to/wsoltani/an-interview-is-a-conversation-you-can-lead-heres-how-1i1h)
+- [Transforming Daily Life with LazAI Inference APIs: Real-World Use Cases for a Decentralized Future](https://dev.to/ungest/transforming-daily-life-with-lazai-inference-apis-real-world-use-cases-for-a-decentralized-future-3dm7)
+- [Unlock Spatial AI: Build Navigational Intelligence Inspired by the Brain by Arvind Sundararajan](https://dev.to/arvindsundararajan/unlock-spatial-ai-build-navigational-intelligence-inspired-by-the-brain-by-arvind-sundararajan-2ilj)
+- [Hairstyle AI Try-On ✂️🤖](https://dev.to/devrayat000/hairstyle-ai-try-on-4p0e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
