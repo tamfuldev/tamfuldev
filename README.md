@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Asked Kiro to Understand My Verilog Codebase — It Built Me an AI-Powered EDA Assistant](https://dev.to/pawan_fe14d4bbd65e54b9a86/i-asked-kiro-to-understand-my-verilog-codebase-it-built-me-an-ai-powered-eda-assistant-41j4)
-- [Consciousness as Actor: Formalizing Human Trust in Quantum Git-RAF Systems](https://dev.to/obinexus/consciousness-as-actor-formalizing-human-trust-in-quantum-git-raf-systems-51pn)
-- [[1] Algorithm Showdown: Python vs. JavaScript - Group Anagrams](https://dev.to/sculptacode/1-algorithm-showdown-python-vs-javascript-group-anagrams-45mo)
-- [How I side-stepped a 5-year migration with 40 lines of C and a Unix daemon trick.](https://dev.to/obinexus/how-i-side-stepped-a-5-year-migration-with-40-lines-of-c-and-a-unix-daemon-trick-5chh)
-- [AI&#39;s &#39;Aha!&#39; Moment: Cracking Generalization in Reinforcement Learning](https://dev.to/arvindsundararajan/ais-aha-moment-cracking-generalization-in-reinforcement-learning-3aeb)
+- [How I Mastered SwiftUI After Years of Jetpack Compose: Tips for Android Devs](https://dev.to/ibtiikhhn/how-i-mastered-swiftui-after-years-of-jetpack-compose-tips-for-android-devs-307n)
+- [Spooky Smart AI That Designs Your Halloween Look](https://dev.to/robot254/spooky-smart-ai-that-designs-your-halloween-look-2dil)
+- [Cracking the Wireless Code: Essential CompTIA Network+ N10-009 Insights for Smarter Networking](https://dev.to/andrew_despres/cracking-the-wireless-code-essential-comptia-network-n10-009-insights-for-smarter-networking-3d4a)
+- [AI Storyline Generator](https://dev.to/adityawaslost/ai-storyline-generator-3flp)
+- [The Trials and Tribulations of Counting Visitors in the Cloud Resume Challenge](https://dev.to/sashalapommeray/the-trials-and-tribulations-of-counting-visitors-in-the-cloud-resume-challenge-5dpi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
