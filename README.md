@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The magic of messages that have always been with us](https://dev.to/smartlegionlab/the-magic-of-messages-that-have-always-been-with-us-48gp)
-- [How to Receive Inbound Emails with Amazon SES and Store Them in Amazon S3](https://dev.to/rahul_gupta_01438cd605043/how-to-receive-inbound-emails-with-amazon-ses-and-store-them-in-amazon-s3-3m73)
-- [Find The Longest Word In A Sentence: A JavaScript Solution](https://dev.to/tochi_/find-the-longest-word-in-a-sentence-a-javascript-solution-1a7n)
-- [The Ultimate Guide to API Integration: Benefits, Types, and Best Practices](https://dev.to/jennysmith7/the-ultimate-guide-to-api-integration-benefits-types-and-best-practices-55ce)
-- [The Workforce of Tomorrow: Skills Needed for the Solar + AI Energy Revolution](https://dev.to/fozlurrayhan98/the-workforce-of-tomorrow-skills-needed-for-the-solar-ai-energy-revolution-6eg)
+- [NPR Music: Fito Páez: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-fito-paez-tiny-desk-concert-4ef2)
+- [Building an AI SQL Translator with Java, Spring Boot, and OpenAI](https://dev.to/masteringbackend/building-an-ai-sql-translator-with-java-spring-boot-and-openai-18gk)
+- [Unlocking the Future: Top 50 DevOps Interview Questions You Must Know](https://dev.to/vjnvisakh/unlocking-the-future-top-50-devops-interview-questions-you-must-know-25gi)
+- [DEBIX SOM A Testing TSN Clock Synchronization with PTP](https://dev.to/debix_computers/debix-som-a-testing-tsn-clock-synchronization-with-ptp-1eln)
+- [Package naming nobody cares about &lpar;but should&rpar;](https://dev.to/y9vad9/package-naming-nobody-cares-about-but-should-3i5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
