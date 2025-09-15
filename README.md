@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Agentic AI digest &lpar;Sept 8–12, 2025&rpar;](https://dev.to/alexmercedcoder/agentic-ai-digest-sept-8-12-2025-3d5m)
-- [AWS EBS types SSD &amp; HDD](https://dev.to/wakeup_flower_8591a6cb6a9/aws-ebs-types-ssd-hdd-21hk)
-- [No Laying Up Podcast: Favorite Phil Stories and Weekly Recaps | NLU Pod, Ep 1069](https://dev.to/youtube_golf/no-laying-up-podcast-favorite-phil-stories-and-weekly-recaps-nlu-pod-ep-1069-481i)
-- [IGN: Mars Attracts! Official Early Access Launch Trailer](https://dev.to/gg_news/ign-mars-attracts-official-early-access-launch-trailer-h9d)
-- [IGN: Springsteen: Deliver Me From Nowhere - Official Trailer #2 &lpar;2025&rpar; Jeremy Allen White](https://dev.to/gg_news/ign-springsteen-deliver-me-from-nowhere-official-trailer-2-2025-jeremy-allen-white-24m)
+- [Taking Screenshots in Selenium with Python](https://dev.to/guzmanojero/taking-screenshots-in-selenium-with-python-132g)
+- [Amazon Bedrock AgentCore Runtime - Part 5 Using Custom Agent with Spring AI](https://dev.to/aws-heroes/amazon-bedrock-agentcore-runtime-part-5-using-custom-agent-with-spring-ai-4n71)
+- [How I Handled Scope Creep on a Client Project](https://dev.to/debugger360/how-i-handled-scope-creep-on-a-client-project-3fpe)
+- [Tired of Generic Visuals? These Are the 5 Most-Used AI Prompt Generators Everybody Should Know](https://dev.to/werliton/tired-of-generic-visuals-these-are-the-5-most-used-ai-prompt-generators-everybody-should-know-f6p)
+- [The B2B SaaS Plateau: Breaking Through the $10K MRR Ceiling](https://dev.to/osamame_igbinosa/the-b2b-saas-plateau-breaking-through-the-10k-mrr-ceiling-401d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
