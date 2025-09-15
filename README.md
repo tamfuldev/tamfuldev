@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Taking Screenshots in Selenium with Python](https://dev.to/guzmanojero/taking-screenshots-in-selenium-with-python-132g)
-- [Amazon Bedrock AgentCore Runtime - Part 5 Using Custom Agent with Spring AI](https://dev.to/aws-heroes/amazon-bedrock-agentcore-runtime-part-5-using-custom-agent-with-spring-ai-4n71)
-- [How I Handled Scope Creep on a Client Project](https://dev.to/debugger360/how-i-handled-scope-creep-on-a-client-project-3fpe)
-- [Tired of Generic Visuals? These Are the 5 Most-Used AI Prompt Generators Everybody Should Know](https://dev.to/werliton/tired-of-generic-visuals-these-are-the-5-most-used-ai-prompt-generators-everybody-should-know-f6p)
-- [The B2B SaaS Plateau: Breaking Through the $10K MRR Ceiling](https://dev.to/osamame_igbinosa/the-b2b-saas-plateau-breaking-through-the-10k-mrr-ceiling-401d)
+- [COLORS: AMORE - Peléame!!! | A COLORS SHOW](https://dev.to/music_youtube/colors-amore-peleame-a-colors-show-28hd)
+- [IGN: LEGO Voyagers Review](https://dev.to/gg_news/ign-lego-voyagers-review-1m9k)
+- [IGN: Fortnite - Official ‘The Power of Megazord’ Gameplay Trailer](https://dev.to/gg_news/ign-fortnite-official-the-power-of-megazord-gameplay-trailer-35m6)
+- [IGN: Halo: Reach - Official &#39;A Monument to Legends&#39; 15th Anniversary Trailer](https://dev.to/gg_news/ign-halo-reach-official-a-monument-to-legends-15th-anniversary-trailer-42i2)
+- [IGN: Cronos: The New Dawn - Official Accolades Trailer](https://dev.to/gg_news/ign-cronos-the-new-dawn-official-accolades-trailer-4da7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
