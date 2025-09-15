@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How AI is Reshaping Full Stack Development](https://dev.to/pjdeveloper896/how-ai-is-reshaping-full-stack-development-p3k)
-- [How Shared Passions Build Strong Tech Communities](https://dev.to/ian_haws_8fa94753620fa4f3/how-shared-passions-build-strong-tech-communities-3ej2)
-- [KEXP: Kevin Kaarl - San Lucas &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-kevin-kaarl-san-lucas-live-on-kexp-4dc8)
-- [KEXP: Kevin Kaarl - no me culpes por sentir &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-kevin-kaarl-no-me-culpes-por-sentir-live-on-kexp-1g6o)
-- [KEXP: Kevin Kaarl - que pasa si me voy? &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-kevin-kaarl-que-pasa-si-me-voy-live-on-kexp-dkl)
+- [How to Build a Full-Featured React Chat App in Minutes &lpar;Open-Source Starter&rpar;](https://dev.to/adrai/how-to-build-a-full-featured-react-chat-app-in-minutes-open-source-starter-1p0h)
+- [Emoji php - emoticons in your project](https://dev.to/deniskorbakov/emoji-php-emoticons-in-your-project-346a)
+- [Procedures for Deploying .NET 9 App to Azure Kubernetes Service &lpar;AKS&rpar;](https://dev.to/nelson_akpa01/procedures-for-deploying-net-9-app-to-azure-kubernetes-service-aks-ge5)
+- [How to conduct a useful technical interview &lpar;based on my personal experience &lpar;subjective opinion&rpar;&rpar;](https://dev.to/arenukvern/how-to-conduct-a-useful-technical-interview-based-on-my-personal-experience-subjective-opinion-4h3c)
+- [When Dinosaurs Survived the Meteor: From Python to Deno](https://dev.to/jjghali/when-dinosaurs-survived-the-meteor-from-python-to-deno-2oga)
 <!-- BLOG-POST-LIST:END -->
 
 ---
