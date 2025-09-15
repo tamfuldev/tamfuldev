@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CookFlow+: Turn Any YouTube Recipe Into a Hands-Free, Voice-Guided Cooking Experience](https://dev.to/otnotorious/cookflow-turn-any-youtube-recipe-into-a-hands-free-voice-guided-cooking-experience-3ce1)
-- [Applying Semgrep SAST to Any Application](https://dev.to/r3d_cr0wn/applying-semgrep-sast-to-any-application-m9)
-- [TypeScript devs, don’t let your OpenAPI client generator lie to you.](https://dev.to/danilo_spinelli_cf3d44822/typescript-devs-dont-let-your-openapi-client-generator-lie-to-you-47d6)
-- [Spatial AI: Building Minds that Understand Space Like We Do](https://dev.to/arvindsundararajan/spatial-ai-building-minds-that-understand-space-like-we-do-18bk)
-- [What is JWT? How do Secret, Public, Private Keys actually work?](https://dev.to/abdibrokhim/what-is-jwt-how-do-secret-public-private-keys-actually-work-569n)
+- [Build Your Own Infinite Carousel in React &lpar;with a Custom Hook&rpar;❗](https://dev.to/cristea_theodora_6200140b/build-your-own-infinite-carousel-in-react-with-a-custom-hook-1g29)
+- [Github-firebase](https://dev.to/istockmarket/github-firebase-50m4)
+- [Enterprise Design Patterns: Practical Examples from Martin Fowler&#39;s Catalog](https://dev.to/augusto_joaquinriveramu/enterprise-design-patterns-practical-examples-from-martin-fowlers-catalog-4m3p)
+- [Software Design Principles: A Practical Example in Python](https://dev.to/augusto_joaquinriveramu/software-design-principles-a-practical-example-in-python-1k1l)
+- [LangChain, LangGraph, and LangSmith: Untangling the Confusion](https://dev.to/naresh_82de734ade4c1c66d9/langchain-langgraph-and-langsmith-untangling-the-confusion-31m5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
