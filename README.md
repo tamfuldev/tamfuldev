@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Great Automotive Safety Reckoning](https://dev.to/rawveg/the-great-automotive-safety-reckoning-13i7)
-- [The OCI Developer&#39;s Workflow: Bridging Your Mac and Local VM with a Shared Folder](https://dev.to/smyekh/the-oci-developers-workflow-bridging-your-mac-and-local-vm-with-a-shared-folder-34ic)
-- [Bringing Open JTalk to Elixir/Nerves: Make Your Pi Speak Japanese 🇯🇵](https://dev.to/mnishiguchi/bringing-open-jtalk-to-elixirnerves-make-your-pi-speak-japanese-ml3)
-- [Why DevOps Teams Overlook Dependency Analysis &lpar;and Why You Shouldn’t&rpar;](https://dev.to/srinivasamcjf/why-devops-teams-overlook-dependency-analysis-and-why-you-shouldnt-6a0)
-- [How I Built TxLens with Kiro: From Manual HIV Reports to an Automated Web App](https://dev.to/balldash/how-i-built-txlens-with-kiro-from-manual-hiv-reports-to-an-automated-web-app-545g)
+- [How AI is Reshaping Full Stack Development](https://dev.to/pjdeveloper896/how-ai-is-reshaping-full-stack-development-p3k)
+- [How Shared Passions Build Strong Tech Communities](https://dev.to/ian_haws_8fa94753620fa4f3/how-shared-passions-build-strong-tech-communities-3ej2)
+- [KEXP: Kevin Kaarl - San Lucas &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-kevin-kaarl-san-lucas-live-on-kexp-4dc8)
+- [KEXP: Kevin Kaarl - no me culpes por sentir &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-kevin-kaarl-no-me-culpes-por-sentir-live-on-kexp-1g6o)
+- [KEXP: Kevin Kaarl - que pasa si me voy? &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-kevin-kaarl-que-pasa-si-me-voy-live-on-kexp-dkl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
