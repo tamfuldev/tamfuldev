@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [KI verändert alles: Warum deine Webseite bald unsichtbar wird &lpar;und wie du das verhinderst&rpar;](https://dev.to/ivo_sa/ki-verandert-alles-warum-deine-webseite-bald-unsichtbar-wird-und-wie-du-das-verhinderst-njg)
-- [I Built a Self-Updating ML Model That Handles Traffic With Ease - Here’s How](https://dev.to/mate32/i-built-a-self-updating-ml-model-that-handles-traffic-with-ease-heres-how-3i2k)
-- [Managing Old Node.js Versions on Windows: My Problem &amp; Solution](https://dev.to/arafatruetbd/managing-old-nodejs-versions-on-windows-my-problem-solution-1jdl)
-- [First time to Vibecode with Google AI Studio](https://dev.to/mrkp_gn/first-time-to-vibecode-with-google-ai-studio-12b7)
-- [Know what you want - Dockerfile 7GB to 1GB](https://dev.to/mroshank/know-what-u-want-dockerfile-7gb-to-1gb-4ldm)
+- [This is me for the past few Months- growth is not linear 🧨](https://dev.to/congomusah/this-is-me-for-the-past-few-months-growth-is-not-linear-4dna)
+- [That $47K AWS Bill? Yeah, It Should Be $8K](https://dev.to/arbythecoder/that-47k-aws-bill-yeah-it-should-be-8k-43ki)
+- [Maintaining Arch Linux AUR Packages: A Dual Update for Python-zconfig and Python-reparser](https://dev.to/secbyshresth/maintaining-arch-linux-aur-packages-a-dual-update-for-python-zconfig-and-python-reparser-4fdm)
+- [Kubernetes: Kubernetes API, API groups, CRDs, and the etcd](https://dev.to/setevoy/kubernetes-kubernetes-api-api-groups-crds-and-the-etcd-1can)
+- [Ngrok-github-coder](https://dev.to/istockmarket/ngrok-github-coder-3lno)
 <!-- BLOG-POST-LIST:END -->
 
 ---
