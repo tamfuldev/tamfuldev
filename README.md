@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [NPR Music: Fito Páez: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-fito-paez-tiny-desk-concert-4ef2)
-- [Building an AI SQL Translator with Java, Spring Boot, and OpenAI](https://dev.to/masteringbackend/building-an-ai-sql-translator-with-java-spring-boot-and-openai-18gk)
-- [Unlocking the Future: Top 50 DevOps Interview Questions You Must Know](https://dev.to/vjnvisakh/unlocking-the-future-top-50-devops-interview-questions-you-must-know-25gi)
-- [DEBIX SOM A Testing TSN Clock Synchronization with PTP](https://dev.to/debix_computers/debix-som-a-testing-tsn-clock-synchronization-with-ptp-1eln)
-- [Package naming nobody cares about &lpar;but should&rpar;](https://dev.to/y9vad9/package-naming-nobody-cares-about-but-should-3i5)
+- [The Great Automotive Safety Reckoning](https://dev.to/rawveg/the-great-automotive-safety-reckoning-13i7)
+- [The OCI Developer&#39;s Workflow: Bridging Your Mac and Local VM with a Shared Folder](https://dev.to/smyekh/the-oci-developers-workflow-bridging-your-mac-and-local-vm-with-a-shared-folder-34ic)
+- [Bringing Open JTalk to Elixir/Nerves: Make Your Pi Speak Japanese 🇯🇵](https://dev.to/mnishiguchi/bringing-open-jtalk-to-elixirnerves-make-your-pi-speak-japanese-ml3)
+- [Why DevOps Teams Overlook Dependency Analysis &lpar;and Why You Shouldn’t&rpar;](https://dev.to/srinivasamcjf/why-devops-teams-overlook-dependency-analysis-and-why-you-shouldnt-6a0)
+- [How I Built TxLens with Kiro: From Manual HIV Reports to an Automated Web App](https://dev.to/balldash/how-i-built-txlens-with-kiro-from-manual-hiv-reports-to-an-automated-web-app-545g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
