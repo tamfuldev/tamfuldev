@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use AI to Plan and Run Better Meetings](https://dev.to/jaideepparashar/how-to-use-ai-to-plan-and-run-better-meetings-39hd)
-- [How I Combined Strands Agents, Bedrock AgentCore Runtime, and AgentCore Browser to Automate AWS Docs](https://dev.to/aws-builders/how-i-combined-strands-agents-bedrock-agentcore-runtime-and-agentcore-browser-to-automate-aws-docs-50nd)
-- [Security in CI/CD Pipelines](https://dev.to/jrap/security-in-cicd-pipelines-i0m)
-- [Titania Programming Language](https://dev.to/technoblogger14o3/titania-programming-language-4hea)
-- [PureLanding - Beautiful Shadcn UI Landing Page for Next.js](https://dev.to/jqueryscript/purelanding-beautiful-shadcn-ui-landing-page-for-nextjs-48jn)
+- [Hidden Realms: AI-Powered Find the Hidden Objects Game](https://dev.to/sanarahman/hidden-realms-ai-powered-find-the-hidden-objects-game-jod)
+- [Stop asking for coffee chats. Do this instead 🤌](https://dev.to/sonika_onboardedhq/stop-asking-for-coffee-chats-do-this-instead-1l35)
+- [Becoming a Specialist vs. a Generalist 🕸️](https://dev.to/sonika_onboardedhq/becoming-a-specialist-vs-a-generalist-ai8)
+- [Guardian AI: Zero-Knowledge Proofs for Secure Split Learning](https://dev.to/arvindsundararajan/guardian-ai-zero-knowledge-proofs-for-secure-split-learning-npf)
+- [Part 2 Networking the proper way!](https://dev.to/robert_scott_339c35174a4d/part-2-networking-the-proper-way-436c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
