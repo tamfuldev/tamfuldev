@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build Your Own Infinite Carousel in React &lpar;with a Custom Hook&rpar;❗](https://dev.to/cristea_theodora_6200140b/build-your-own-infinite-carousel-in-react-with-a-custom-hook-1g29)
-- [Github-firebase](https://dev.to/istockmarket/github-firebase-50m4)
-- [Enterprise Design Patterns: Practical Examples from Martin Fowler&#39;s Catalog](https://dev.to/augusto_joaquinriveramu/enterprise-design-patterns-practical-examples-from-martin-fowlers-catalog-4m3p)
-- [Software Design Principles: A Practical Example in Python](https://dev.to/augusto_joaquinriveramu/software-design-principles-a-practical-example-in-python-1k1l)
-- [LangChain, LangGraph, and LangSmith: Untangling the Confusion](https://dev.to/naresh_82de734ade4c1c66d9/langchain-langgraph-and-langsmith-untangling-the-confusion-31m5)
+- [How to Use AI to Plan and Run Better Meetings](https://dev.to/jaideepparashar/how-to-use-ai-to-plan-and-run-better-meetings-39hd)
+- [How I Combined Strands Agents, Bedrock AgentCore Runtime, and AgentCore Browser to Automate AWS Docs](https://dev.to/aws-builders/how-i-combined-strands-agents-bedrock-agentcore-runtime-and-agentcore-browser-to-automate-aws-docs-50nd)
+- [Security in CI/CD Pipelines](https://dev.to/jrap/security-in-cicd-pipelines-i0m)
+- [Titania Programming Language](https://dev.to/technoblogger14o3/titania-programming-language-4hea)
+- [PureLanding - Beautiful Shadcn UI Landing Page for Next.js](https://dev.to/jqueryscript/purelanding-beautiful-shadcn-ui-landing-page-for-nextjs-48jn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
