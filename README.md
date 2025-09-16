@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [FastAPI Authentication Fundamentals](https://dev.to/masteringbackend/fastapi-authentication-fundamentals-4bdn)
-- [Optimizing the Ever-Growing Balance in the War Robots Project](https://dev.to/mygames/optimizing-the-ever-growing-balance-in-the-war-robots-project-18p)
-- [Unveiling the Top 50 Cloud Computing Interview Questions](https://dev.to/vjnvisakh/unveiling-the-top-50-cloud-computing-interview-questions-4n94)
-- [How to Install Ubuntu 25.10 &lpar;Questing Quokka&rpar; on macOS With VirtualBox](https://dev.to/fedtti/how-to-install-ubuntu-2510-questing-quokka-on-macos-with-virtualbox-2fnf)
-- [Is UI/UX the Secret Behind Customer Retention?](https://dev.to/duaryan/is-uiux-the-secret-behind-customer-retention-46b0)
+- [Artificial Remembrance](https://dev.to/rawveg/artificial-remembrance-3e4)
+- [Why Distributed Caches Can Become Single Points of Failure](https://dev.to/dct_technology/why-distributed-caches-can-become-single-points-of-failure-5a88)
+- [When Machines Learn to Delete: An 8-Week Experiment in AI Autonomy](https://dev.to/jetthoughts/when-machines-learn-to-delete-an-8-week-experiment-in-ai-autonomy-2ak)
+- [&quot;Supercharge Your WhatsApp: Introducing the AI Copilot Desktop App&quot;](https://dev.to/bhaskar_kumararya_ab8da9/supercharge-your-whatsapp-introducing-the-ai-copilot-desktop-app-2gkg)
+- [Best Rich Text Editor for react in 2025](https://dev.to/codeideal/best-rich-text-editor-for-react-in-2025-3cdb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
