@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Assassin&#39;s Creed Shadows: Claws of Awaji DLC Video Review](https://dev.to/gg_news/ign-assassins-creed-shadows-claws-of-awaji-dlc-video-review-2k74)
-- [🚀 Day 17 of My Python Learning Journey](https://dev.to/_adii3107/day-17-of-my-python-learning-journey-4ckn)
-- [Semicolon-First: A Psychotic Yet Interesting Way of Writing Code!](https://dev.to/aliaryani-security/semicolon-first-a-psychotic-yet-interesting-way-of-writing-code-52j8)
-- [What&#39;s Trending in Healthcare Projects](https://dev.to/freshtech/whats-trending-in-healthcare-projects-538o)
-- [Here’s how far I’ve come after 7 days of grinding on system design.](https://dev.to/navidreza80/heres-how-far-ive-come-after-7-days-of-grinding-on-system-design-55j3)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5e1)
+- [EZMother: Devlog #1](https://dev.to/longchau/ezmother-devlog-1-348f)
+- [Never Trust, Always Verify: Zero Trust in Action with Microsoft Security](https://dev.to/ibbus/never-trust-always-verify-zero-trust-in-action-with-microsoft-security-ome)
+- [Automate GitHub Issues with AI and n8n to Get More Time for Coding](https://dev.to/hankadev/automate-github-issues-with-ai-and-n8n-to-get-more-time-for-coding-115a)
+- [Lazy Loading in ElastiCache](https://dev.to/wakeup_flower_8591a6cb6a9/lazy-loading-in-elasticache-1ll2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
