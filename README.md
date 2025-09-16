@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Agricultural Quantum AI: Predicting Crop Yields with Subatomic Precision](https://dev.to/kushvanth_chowdarynagabh/agricultural-quantum-ai-predicting-crop-yields-with-subatomic-precision-59l3)
-- [Async Await Delay](https://dev.to/elshoddev/async-await-delay-gh7)
-- [Introduction to US Stock Market](https://dev.to/madgan95/introduction-to-us-stock-market-5g32)
-- [🎮 Fun Fact from My AR Mini-Game Experiment](https://dev.to/cutieyunnytech/fun-fact-from-my-ar-mini-game-experiment-5f6l)
-- [Top 10 Most Commonly Used Pandas Functions in Playwright Test Automation Scripts](https://dev.to/arun_dhole_c877fddec2131d/top-10-most-commonly-used-pandas-functions-in-playwright-test-automation-scripts-1a0o)
+- [Part-60: Google Cloud Networking – Cloud NAT Gateway with Internal-Only VM](https://dev.to/latchudevops/part-60-google-cloud-networking-cloud-nat-gateway-with-internal-only-vm-5c2p)
+- [How Modern Supply Chains Are Embracing Cloud-Based EDI Integration](https://dev.to/rosieschuck/how-modern-supply-chains-are-embracing-cloud-based-edi-integration-18p7)
+- [SSH Key Authentication in Linux](https://dev.to/ijas9118/ssh-key-authentication-in-linux-3aoo)
+- [Wikipedia Is Rigged: How Big Tech Silences Independent Developers](https://dev.to/owly/wikipedia-is-rigged-how-big-tech-silences-independent-developers-10fb)
+- [Next.js Ecommerce Admin Dashboard: Complete Store Management Solution](https://dev.to/jqueryscript/nextjs-ecommerce-admin-dashboard-complete-store-management-solution-1f8f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
