@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Pod with Public IP](https://dev.to/abhijeetmohanan/a-pod-with-public-ip-59m7)
-- [From Zero to CRUD - A Tiny Spring Boot H2 Boilerplate You’ll Actually Use](https://dev.to/boiler_agents/from-zero-to-crud-a-tiny-spring-boot-h2-boilerplate-youll-actually-use-15k6)
-- [Vectorization in Python for Machine Learning](https://dev.to/stephcrown/vectorization-in-python-for-machine-learning-5hne)
-- [5 Mistakes Scrum Masters Make When Using Zenhub &lpar;and How to Avoid Them&rpar;](https://dev.to/gsauzande/5-mistakes-scrum-masters-make-when-using-zenhub-and-how-to-avoid-them-4fbh)
-- [afterRenderEffect, afterNextRender, afterEveryRender &amp; Renderer2](https://dev.to/this-is-angular/afterrendereffect-afternextrender-aftereveryrender-renderer2-106o)
+- [COLORS: Bashy | A COLORS ENCORE](https://dev.to/music_youtube/colors-bashy-a-colors-encore-ef3)
+- [8-Bit Music Theory: TOP 5 Koji Kondo One-Offs](https://dev.to/music_youtube/8-bit-music-theory-top-5-koji-kondo-one-offs-3kj3)
+- [IGN: EVE Vanguard - Official 2025 Gameplay Trailer](https://dev.to/gg_news/ign-eve-vanguard-official-2025-gameplay-trailer-4ja0)
+- [CinemaSins: Everything Wrong With Pee-wee&#39;s Big Adventure In 18 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-pee-wees-big-adventure-in-18-minutes-or-less-5d14)
+- [How Email Really Works: Protocols, Systems, and Their Connections](https://dev.to/shrsv/how-email-really-works-protocols-systems-and-their-connections-pdk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
