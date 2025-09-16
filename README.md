@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Bashy | A COLORS ENCORE](https://dev.to/music_youtube/colors-bashy-a-colors-encore-ef3)
-- [8-Bit Music Theory: TOP 5 Koji Kondo One-Offs](https://dev.to/music_youtube/8-bit-music-theory-top-5-koji-kondo-one-offs-3kj3)
-- [IGN: EVE Vanguard - Official 2025 Gameplay Trailer](https://dev.to/gg_news/ign-eve-vanguard-official-2025-gameplay-trailer-4ja0)
-- [CinemaSins: Everything Wrong With Pee-wee&#39;s Big Adventure In 18 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-pee-wees-big-adventure-in-18-minutes-or-less-5d14)
-- [How Email Really Works: Protocols, Systems, and Their Connections](https://dev.to/shrsv/how-email-really-works-protocols-systems-and-their-connections-pdk)
+- [From Freestyle to Pipeline as Code: Modern CI/CD with Jenkins](https://dev.to/umaid777/from-freestyle-to-pipeline-as-code-modern-cicd-with-jenkins-447d)
+- [Loops avançados e recursividade](https://dev.to/andresdossantos/loops-avancados-e-recursividade-4afp)
+- [Mastering Slicing and Indexing in Python: Access Data with Precision](https://dev.to/aaron_rose_0787cc8b4775a0/mastering-slicing-and-indexing-in-python-access-data-with-precision-4alp)
+- [#DAY 10: Retrospective &amp; Tuning](https://dev.to/samueladeduntan/day-10-retrospective-tuning-3obg)
+- [Sleuths and Sweets - irisCTF](https://dev.to/davidonlinearchive/sleuths-and-sweets-irisctf-2dc2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
