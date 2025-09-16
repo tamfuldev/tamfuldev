@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CMK: The Master Key to Your AWS Encryption Kingdom](https://dev.to/leonardkachi/cmk-the-master-key-to-your-aws-encryption-kingdom-47j7)
-- [AWS re/Start – My Week 5 Experience](https://dev.to/ijay/aws-restart-my-week-5-experience-29ih)
-- [Building a Legal Document Intelligence Platform with BigQuery AI: 99% Efficiency Implementation Guide](https://dev.to/jaycrys/building-a-legal-document-intelligence-platform-with-bigquery-ai-99-efficiency-implementation-5ajo)
-- [Clprolf Docs #2 — A QuickSort Example: Java vs. Clprolf](https://dev.to/charles_koffler_bcabc582b/clprolf-docs-2-a-quicksort-example-java-vs-clprolf-2ha1)
-- [CDN Cache Mastery: an engineer’s checklist you can ship with](https://dev.to/t2c/cdn-cache-mastery-an-engineers-checklist-you-can-ship-with-5078)
+- [FastAPI Authentication Fundamentals](https://dev.to/masteringbackend/fastapi-authentication-fundamentals-4bdn)
+- [Optimizing the Ever-Growing Balance in the War Robots Project](https://dev.to/mygames/optimizing-the-ever-growing-balance-in-the-war-robots-project-18p)
+- [Unveiling the Top 50 Cloud Computing Interview Questions](https://dev.to/vjnvisakh/unveiling-the-top-50-cloud-computing-interview-questions-4n94)
+- [How to Install Ubuntu 25.10 &lpar;Questing Quokka&rpar; on macOS With VirtualBox](https://dev.to/fedtti/how-to-install-ubuntu-2510-questing-quokka-on-macos-with-virtualbox-2fnf)
+- [Is UI/UX the Secret Behind Customer Retention?](https://dev.to/duaryan/is-uiux-the-secret-behind-customer-retention-46b0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
