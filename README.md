@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5e1)
-- [EZMother: Devlog #1](https://dev.to/longchau/ezmother-devlog-1-348f)
-- [Never Trust, Always Verify: Zero Trust in Action with Microsoft Security](https://dev.to/ibbus/never-trust-always-verify-zero-trust-in-action-with-microsoft-security-ome)
-- [Automate GitHub Issues with AI and n8n to Get More Time for Coding](https://dev.to/hankadev/automate-github-issues-with-ai-and-n8n-to-get-more-time-for-coding-115a)
-- [Lazy Loading in ElastiCache](https://dev.to/wakeup_flower_8591a6cb6a9/lazy-loading-in-elasticache-1ll2)
+- [Top 10 Linux Commands](https://dev.to/roshan_sharma_617a6e70ff5/top-10-linux-commands-56m7)
+- [KEXP: Gouge Away - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-gouge-away-full-performance-live-on-kexp-5d41)
+- [Securing Agentic AI Systems](https://dev.to/aws-builders/securing-agentic-ai-systems-2i93)
+- [IGN: The Lift - Official Gameplay Overview Trailer](https://dev.to/gg_news/ign-the-lift-official-gameplay-overview-trailer-4gam)
+- [IGN: Dispatch - Official PC and PS5 Release Date Trailer &lpar;ft. Aaron Paul, Jeffrey Wright&rpar;](https://dev.to/gg_news/ign-dispatch-official-pc-and-ps5-release-date-trailer-ft-aaron-paul-jeffrey-wright-3g54)
 <!-- BLOG-POST-LIST:END -->
 
 ---
