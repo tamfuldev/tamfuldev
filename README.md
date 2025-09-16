@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Borderlands 4 Vault Boss Gameplay on RTX 5090 - 4K, Max Settings](https://dev.to/gg_news/ign-borderlands-4-vault-boss-gameplay-on-rtx-5090-4k-max-settings-5e30)
-- [IGN: Hollow Knight: Silksong Boss Fight - Skull Tyrant &lpar;The Marrow&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-boss-fight-skull-tyrant-the-marrow-3h1c)
-- [Ringer Movies: ‘Weapons’ is a Classic. Is It an Oscar Contender?](https://dev.to/popcorn_movies/ringer-movies-weapons-is-a-classic-is-it-an-oscar-contender-31e8)
-- [A beginner&#39;s guide to the Nano-Banana model by Google on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-nano-banana-model-by-google-on-replicate-1gl3)
-- [Understanding Neural Networks: From Neurons to LLMs](https://dev.to/siva1b3/understanding-neural-networks-from-neurons-to-llms-5057)
+- [Agricultural Quantum AI: Predicting Crop Yields with Subatomic Precision](https://dev.to/kushvanth_chowdarynagabh/agricultural-quantum-ai-predicting-crop-yields-with-subatomic-precision-59l3)
+- [Async Await Delay](https://dev.to/elshoddev/async-await-delay-gh7)
+- [Introduction to US Stock Market](https://dev.to/madgan95/introduction-to-us-stock-market-5g32)
+- [🎮 Fun Fact from My AR Mini-Game Experiment](https://dev.to/cutieyunnytech/fun-fact-from-my-ar-mini-game-experiment-5f6l)
+- [Top 10 Most Commonly Used Pandas Functions in Playwright Test Automation Scripts](https://dev.to/arun_dhole_c877fddec2131d/top-10-most-commonly-used-pandas-functions-in-playwright-test-automation-scripts-1a0o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
