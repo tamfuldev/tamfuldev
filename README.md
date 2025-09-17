@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Applying Any SAST Tools for an Infrastructure as Code Application in Terraform](https://dev.to/r3d_cr0wn/applying-any-sast-tools-for-an-infrastructure-as-code-application-in-terraform-58m8)
-- [Shai-Hulud malware attack: Tinycolor and over 40 NPM packages compromised](https://dev.to/technoblogger14o3/shai-hulud-malware-attack-tinycolor-and-over-40-npm-packages-compromised-309h)
-- [Lambda Explained: A Visual Journey from Init to Invoke](https://dev.to/mayaankvad/lambda-explained-a-visual-journey-from-init-to-invoke-3cb8)
-- [IGN: How Nioh 3 is Changing the Game with Ninja Style and the Distinctive Mist System – IGN First](https://dev.to/gg_news/ign-how-nioh-3-is-changing-the-game-with-ninja-style-and-the-distinctive-mist-system-ign-first-29o3)
-- [IGN: The Lift - Official Announcement Trailer](https://dev.to/gg_news/ign-the-lift-official-announcement-trailer-551)
+- [Automating Business Intelligence: How We Built a Multi-Agent AI System for Business Data Extraction](https://dev.to/haneeshraj/automating-business-intelligence-how-we-built-a-multi-agent-ai-system-for-business-data-extraction-jd1)
+- [Descubriendo Supabase: mi mejor aliada para proyectos pequeños — en Flik](https://dev.to/barrerasaezgonzalo/descubriendo-supabase-mi-mejor-aliada-para-proyectos-pequenos-en-flik-31o2)
+- [Inside RISC-V Verification – A Hands-On Look at RISC-V Verification for Next-Gen Designs Using Synopsys’ Flow](https://dev.to/alpinumblogs/inside-risc-v-verification-a-hands-on-look-at-risc-v-verification-for-next-gen-designs-using-l1g)
+- [Lazy Loading Images and Its Impact on SEO](https://dev.to/ivanjarkov/lazy-loading-images-and-its-impact-on-seo-3fd3)
+- [Openfire Admin Console Auth Bypass &lpar;CVE-2023-32315&rpar; — From Path Traversal to RCE](https://dev.to/sharon_42e16b8da44dabde6d/openfire-admin-console-auth-bypass-cve-2023-32315-from-path-traversal-to-rce-131a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
