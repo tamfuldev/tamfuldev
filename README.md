@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Smart Contract Upgradeability Patterns: A Developer&#39;s Guide](https://dev.to/dfkdigitals/smart-contract-upgradeability-patterns-a-developers-guide-4leo)
-- [🔎 Kubernetes Architecture Demystified: A Beginner-Friendly Guide](https://dev.to/abhishek_korde_31/understanding-kubernetes-architecture-a-complete-guide-h7n)
-- [Exploring Discrete-Time Signals with MATLAB](https://dev.to/sajibpra/exploring-discrete-time-signals-with-matlab-6j)
-- [Hackeando o Data Engineering: Os Padrões que Todo Engenheiro Precisa Conhecer](https://dev.to/guigasque/hackeando-o-data-engineering-os-padroes-que-todo-engenheiro-precisa-conhecer-334d)
-- [Fraudulent Resource Consumption Attacks and a Gatekeeper Solution](https://dev.to/rmadisetti3/fraudulent-resource-consumption-attacks-and-a-gatekeeper-solution-302)
+- [What&#39;s The Biggest Project You&#39;ve Ever Taken?](https://dev.to/javanteb23/whats-the-biggest-project-youve-ever-taken-2od6)
+- [&lpar;Day-01&rpar; Read Forex Charts as a Beginner with GPT](https://dev.to/t2s/day-01-read-forex-charts-as-a-beginner-with-gpt-29o2)
+- [Wolverine + Marten: My story and subjective take](https://dev.to/manhhungtran/wolverine-marten-my-story-and-subjective-take-1mj3)
+- [Learning to code in Nigeria](https://dev.to/inioluwa_ayodeji_310ffe27/learning-to-code-in-nigeria-2kna)
+- [Making sure your PDF compliance and privacy requirements are met with JoyDoc](https://dev.to/joyfill/making-sure-your-pdf-compliance-and-privacy-requirements-are-met-with-joydoc-349h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
