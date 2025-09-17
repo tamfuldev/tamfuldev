@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build Once and Teach Forever: Scaling Developer Content Creation with GitHub](https://dev.to/shieldstring/build-once-and-teach-forever-scaling-developer-content-creation-with-github-1a55)
-- [Como implementar um Ledger](https://dev.to/dvorlandi/como-implementar-um-ledger-5hn9)
-- [The Job Pilot Chronicles: 94 Commits, 27 Days, and the Brutal Reality of AI-Assisted Development](https://dev.to/alexretana/the-job-pilot-chronicles-94-commits-27-days-and-the-brutal-reality-of-ai-assisted-development-2cek)
-- [Guia de Python PT-BR #3: Loops &lpar;for e while&rpar; 🔄](https://dev.to/vgermanndev/guia-de-python-pt-br-3-loops-for-e-while-1gll)
-- [Building Extendable CRUD: How I Use Admiral to Create Flexible Admin Interfaces](https://dev.to/devfamdk/building-extendable-crud-how-i-use-admiral-to-create-flexible-admin-interfaces-218k)
+- [[Boost]](https://dev.to/clsource/-1k7p)
+- [Authentication Using Better-Auth &lpar;Basics Tutorial&rpar;](https://dev.to/devrayat000/authentication-using-better-auth-basics-tutorial-1bc1)
+- [How to create a MCP server and MCP tools from scratch?](https://dev.to/zeedu_dev/how-to-create-a-mcp-server-and-mcp-tools-from-scratch-fea)
+- [git rebase and squash before opening merge requests](https://dev.to/choibits/git-rebase-and-squash-before-opening-merge-requests-3o3e)
+- [Scaling Read Tracking with Redis Bitmaps](https://dev.to/jacktt/scaling-read-tracking-with-redis-bitmaps-3aip)
 <!-- BLOG-POST-LIST:END -->
 
 ---
