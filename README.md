@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CLEANING MESSY DATA: Why is it 80% of the job](https://dev.to/herniqness/cleaning-messy-data-why-is-it-80-of-the-job-fh3)
-- [How To Suppress Build Errors in Next.js with TypeScript](https://dev.to/shawon/how-to-suppress-build-errors-in-nextjs-with-typescript-1dnl)
-- [Day 2:Variables in Python](https://dev.to/sanaipei001/day-2variables-in-python-2m7k)
-- [Hey DEV community! Tired of Git chaos? My new YouTube video, 10X Your Git Workflow: 7 Pro Tips, shares advanced hacks to save time https://youtu.be/d_xZgcRJ--Q #git #versioncontrol #developerproductivity #programming #coding](https://dev.to/urvvil/hey-dev-community-tired-of-git-chaos-my-new-youtube-video-10x-your-git-workflow-7-pro-tips-2n5h)
-- [City Simulation with LLMs — Predicting Traffic &amp; Generating Natural-Language Reports](https://dev.to/preetkamal_singh_a2fe7281/city-simulation-with-llms-predicting-traffic-generating-natural-language-3f4d)
+- [No Laying Up Podcast: 2025 Airports - Pete Buttigieg | Trap Draw, Ep 359](https://dev.to/youtube_golf/no-laying-up-podcast-2025-airports-pete-buttigieg-trap-draw-ep-359-5h0k)
+- [PromptCraft: Mini AI Prompt Generator App Spring AI and Spring Boot](https://dev.to/masteringbackend/promptcraft-mini-ai-prompt-generator-app-spring-ai-and-spring-boot-58dc)
+- [🧠 From Concept to Code: Building Code Tracker AI in 9 weeks—and the commits keep coming.](https://dev.to/monahidalgo/from-concept-to-code-building-code-tracker-ai-in-9-weeks-and-the-commits-keep-coming-26d4)
+- [How Machine Learning Creates More Realistic Game Physics | Software Development Company](https://dev.to/jennysmith7/how-machine-learning-creates-more-realistic-game-physics-software-development-company-323n)
+- [How we integrate best practices in Java](https://dev.to/pvsdev/how-we-integrate-best-practices-in-java-3ja3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
