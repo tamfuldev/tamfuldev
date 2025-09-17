@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Assassin&#39;s Creed Shadows: Claws of Awaji DLC - 37 Minutes of 4K Ultra Gameplay](https://dev.to/gg_news/ign-assassins-creed-shadows-claws-of-awaji-dlc-37-minutes-of-4k-ultra-gameplay-59gf)
-- [The Invisible Price of AI: What Nobody Talks About 🤯](https://dev.to/ayusharpcoder/the-invisible-price-of-ai-what-nobody-talks-about-19io)
-- [Welcome Thread - v343](https://dev.to/devteam/welcome-thread-v343-2h5f)
-- [21 native browser APIs you might not have used before](https://dev.to/lingodotdev/21-native-browser-apis-you-might-not-have-used-before-1nbp)
-- [How to Search Electronic Components and Where to Find Them](https://dev.to/dongpei_liao_8092a14d7c50/how-to-search-electronic-components-and-where-to-find-them-2apk)
+- [Static Single Assignment &lpar;SSA&rpar;](https://dev.to/wildboar_developer/static-single-assignment-ssa-51m3)
+- [Excited to Join the DEV Community – Here’s My Intro](https://dev.to/afzal_hossain/excited-to-join-the-dev-community-heres-my-intro-425g)
+- [Automated Visual Testing with Selenium &amp; Applitools](https://dev.to/jignect-technologies/automated-visual-testing-with-selenium-applitools-192k)
+- [Something about Architecture: Layers](https://dev.to/mlodovico/something-about-architecture-layers-5808)
+- [Laravel Helpers Every Beginner Should Know](https://dev.to/rohitdhiman/laravel-helpers-every-beginner-should-know-59o1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
