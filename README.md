@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [「設計ミス」の社会を再編する：AIと共創する未来の働き方とシステム思考](https://dev.to/_6b2664c123f822f62319/she-ji-misu-noshe-hui-wozai-bian-suruaitogong-chuang-suruwei-lai-nodong-kifang-tosisutemusi-kao-2i8i)
-- [KEXP: Gold Celeste - Grand New Spin &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-gold-celeste-grand-new-spin-live-on-kexp-18o3)
-- [KEXP: Gold Celeste - The Dreamers &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-gold-celeste-the-dreamers-live-on-kexp-277)
-- [KEXP: Gold Celeste - Time of Your Life &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-gold-celeste-time-of-your-life-live-on-kexp-3k02)
-- [KEXP: Gold Celeste - Open Your Eyes &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-gold-celeste-open-your-eyes-live-on-kexp-38fh)
+- [One Attribute to Prevent Data Loss: How EF Core&#39;s `[Timestamp]` Saves Your Data](https://dev.to/abdecoder/one-attribute-to-prevent-data-loss-how-ef-cores-timestamp-saves-your-data-34cp)
+- [Wishlist Button Web Component for Shopify 🛍️](https://dev.to/sebbanfa/wishlist-button-web-component-for-shopify-57nc)
+- [White Box Testing: The Complete Guide for Software Teams](https://dev.to/alok_e75d0463248211c2ca56/white-box-testing-the-complete-guide-for-software-teams-41no)
+- [Top Banking software development companies in 2025](https://dev.to/ma_verbilo_0299821842/top-banking-software-development-companies-in-2025-2l9g)
+- [How Haowang Used Telegram to Run a $27B Scam Empire for 5 Years](https://dev.to/scofieldidehen/how-haowang-used-telegram-to-run-a-27b-scam-empire-for-5-years-3ep5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
