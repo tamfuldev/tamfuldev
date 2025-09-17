@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [No Laying Up Podcast: 2025 Airports - Pete Buttigieg | Trap Draw, Ep 359](https://dev.to/youtube_golf/no-laying-up-podcast-2025-airports-pete-buttigieg-trap-draw-ep-359-5h0k)
-- [PromptCraft: Mini AI Prompt Generator App Spring AI and Spring Boot](https://dev.to/masteringbackend/promptcraft-mini-ai-prompt-generator-app-spring-ai-and-spring-boot-58dc)
-- [🧠 From Concept to Code: Building Code Tracker AI in 9 weeks—and the commits keep coming.](https://dev.to/monahidalgo/from-concept-to-code-building-code-tracker-ai-in-9-weeks-and-the-commits-keep-coming-26d4)
-- [How Machine Learning Creates More Realistic Game Physics | Software Development Company](https://dev.to/jennysmith7/how-machine-learning-creates-more-realistic-game-physics-software-development-company-323n)
-- [How we integrate best practices in Java](https://dev.to/pvsdev/how-we-integrate-best-practices-in-java-3ja3)
+- [Three React MUI commandments](https://dev.to/techwood/three-react-mui-commandments-1lk)
+- [Why I’m Back to Web Components and Why You Should Be Too](https://dev.to/fedtti/why-im-back-to-web-components-and-why-you-should-be-too-n5h)
+- [The Algorithmic Apostles](https://dev.to/rawveg/the-algorithmic-apostles-55ff)
+- [How AI Can Predict the Success of Your Business Using Data from Google Maps](https://dev.to/noraina_nordin/how-ai-can-predict-the-success-of-your-business-using-data-from-google-maps-3821)
+- [Turning Your Ideas into Gold: Why The AI Alchemist Is About to Be Your Secret Weapon 🧙‍♂️](https://dev.to/theaialchemist2025/turning-your-ideas-into-gold-why-the-ai-alchemist-is-about-to-be-your-secret-weapon-1j8j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
