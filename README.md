@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s The Biggest Project You&#39;ve Ever Taken?](https://dev.to/javanteb23/whats-the-biggest-project-youve-ever-taken-2od6)
-- [&lpar;Day-01&rpar; Read Forex Charts as a Beginner with GPT](https://dev.to/t2s/day-01-read-forex-charts-as-a-beginner-with-gpt-29o2)
-- [Wolverine + Marten: My story and subjective take](https://dev.to/manhhungtran/wolverine-marten-my-story-and-subjective-take-1mj3)
-- [Learning to code in Nigeria](https://dev.to/inioluwa_ayodeji_310ffe27/learning-to-code-in-nigeria-2kna)
-- [Making sure your PDF compliance and privacy requirements are met with JoyDoc](https://dev.to/joyfill/making-sure-your-pdf-compliance-and-privacy-requirements-are-met-with-joydoc-349h)
+- [Building MCP Tools: A PDF Processing Server](https://dev.to/gabrielmrojas/building-mcp-tools-a-pdf-processing-server-1k38)
+- [Shopify 🚀 no es solo para grandes marcas: cómo las pymes pueden escalar su e-commerce](https://dev.to/lewiz17/shopify-no-es-solo-para-grandes-marcas-como-las-pymes-pueden-escalar-su-e-commerce-2pmc)
+- [Using Effects Effectively in React: Stop Misusing useEffect Once and For All](https://dev.to/paripsky/using-effects-effectively-in-react-stop-misusing-useeffect-once-and-for-all-5fpm)
+- [Why Everyone Says .NET Can’t Handle High Concurrency &lpar;And Why That’s Outdated&rpar;](https://dev.to/lamri_abdellahramdane_15/why-everyone-says-net-cant-handle-high-concurrency-and-why-thats-outdated-14m7)
+- [Growing Great Engineering Teams Starts With Leadership](https://dev.to/jonathan_steve_406dc6a0ab/growing-great-engineering-teams-starts-with-leadership-452b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
