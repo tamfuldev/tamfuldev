@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [One Attribute to Prevent Data Loss: How EF Core&#39;s `[Timestamp]` Saves Your Data](https://dev.to/abdecoder/one-attribute-to-prevent-data-loss-how-ef-cores-timestamp-saves-your-data-34cp)
-- [Wishlist Button Web Component for Shopify 🛍️](https://dev.to/sebbanfa/wishlist-button-web-component-for-shopify-57nc)
-- [White Box Testing: The Complete Guide for Software Teams](https://dev.to/alok_e75d0463248211c2ca56/white-box-testing-the-complete-guide-for-software-teams-41no)
-- [Top Banking software development companies in 2025](https://dev.to/ma_verbilo_0299821842/top-banking-software-development-companies-in-2025-2l9g)
-- [How Haowang Used Telegram to Run a $27B Scam Empire for 5 Years](https://dev.to/scofieldidehen/how-haowang-used-telegram-to-run-a-27b-scam-empire-for-5-years-3ep5)
+- [Comprehensive Apache POI Tutorial: Excel File Handling in Java](https://dev.to/sadiul_hakim/comprehensive-apache-poi-tutorial-excel-file-handling-in-java-7mf)
+- [My journey on AWS Region Migration: What I wished I had aware of](https://dev.to/aws-builders/my-journey-on-aws-region-migration-what-i-wished-i-had-aware-of-2dk9)
+- [How to Integrate KCB M-PESA STK Push API](https://dev.to/msnmongare/how-to-integrate-kcb-m-pesa-stk-push-api-n8j)
+- [4 Ways to Supercharge Your HLS Live Streaming App with AI-Powered Analysis](https://dev.to/aws/4-ways-to-supercharge-your-hls-live-streaming-app-with-ai-powered-analysis-4mob)
+- [Major Tech News of September 16, 2025](https://dev.to/om_shree_0709/major-tech-news-of-september-16-2025-3h19)
 <!-- BLOG-POST-LIST:END -->
 
 ---
