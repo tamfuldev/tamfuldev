@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Comprehensive Apache POI Tutorial: Excel File Handling in Java](https://dev.to/sadiul_hakim/comprehensive-apache-poi-tutorial-excel-file-handling-in-java-7mf)
-- [My journey on AWS Region Migration: What I wished I had aware of](https://dev.to/aws-builders/my-journey-on-aws-region-migration-what-i-wished-i-had-aware-of-2dk9)
-- [How to Integrate KCB M-PESA STK Push API](https://dev.to/msnmongare/how-to-integrate-kcb-m-pesa-stk-push-api-n8j)
-- [4 Ways to Supercharge Your HLS Live Streaming App with AI-Powered Analysis](https://dev.to/aws/4-ways-to-supercharge-your-hls-live-streaming-app-with-ai-powered-analysis-4mob)
-- [Major Tech News of September 16, 2025](https://dev.to/om_shree_0709/major-tech-news-of-september-16-2025-3h19)
+- [How to Build Your Own AI Agent with Conversation in 2025](https://dev.to/kniev_lenka_7d8ceefc4e93b/how-to-build-your-own-ai-agent-with-conversation-in-2025-3gnp)
+- [🚀 Scaffolder-Toolkit &lpar;dk&rpar;: Your Universal CLI for Professional Development](https://dev.to/it-wibrc/scaffolder-toolkit-dk-your-universal-cli-for-professional-development-52ap)
+- [Introducing: the pipeline framework](https://dev.to/mbarcia/introducing-the-pipeline-framework-44i)
+- [Composable Analytics with Agents: Leveraging Virtual Datasets and the Semantic Layer](https://dev.to/alexmercedcoder/composable-analytics-with-agents-leveraging-virtual-datasets-and-the-semantic-layer-535h)
+- [Nim Credit Loan App CUSTOMER Care Helpline Number ♻️ 91&rpar;&rpar;8167795701/+8167795701/+Call](https://dev.to/ram_kumar_a6321e6c46bf7a6/nim-credit-loan-app-customer-care-helpline-number-9181677957018167795701call-25o0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
