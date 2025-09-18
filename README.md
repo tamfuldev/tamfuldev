@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI Coding Is Boring — And What To Do About It](https://dev.to/datadog-frontend-dev/ai-coding-is-boring-and-what-to-do-about-it-5bji)
-- [🔁 RingCentral – Round 2: Implement `JSON.stringify&lpar;&rpar;` from scratch](https://dev.to/ml318097/ringcentral-round-2-implement-jsonstringify-from-scratch-6hn)
-- [Change Data Capture &lpar;CDC&rpar; in Data Engineering: Concepts, Tools and Real-world Implementation Strategies](https://dev.to/emwirigi/change-data-capture-cdc-in-data-engineering-concepts-tools-and-real-world-implementation-feg)
-- [Why Does a Small Reorder Require Massive Updates? Fix It with LexoRank](https://dev.to/learcise_health/why-does-a-small-reorder-require-massive-updates-fix-it-with-lexorank-j6k)
-- [𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗦𝗶𝗴𝗻𝗮𝗹𝗥 𝗦𝗲𝗿𝘃𝗶𝗰𝗲](https://dev.to/supraja_tangella_b7f0738e/-2oam)
+- [GameSpot: Sonic Racing: Crossworlds Review](https://dev.to/gg_news/gamespot-sonic-racing-crossworlds-review-4moe)
+- [GameSpot: S Rank Sonic Racing: CrossWorlds Super Sonic Speed Market Street Gameplay](https://dev.to/gg_news/gamespot-s-rank-sonic-racing-crossworlds-super-sonic-speed-market-street-gameplay-3m1a)
+- [IGN: Baby Steps: The First 15 Minutes of Gameplay](https://dev.to/gg_news/ign-baby-steps-the-first-15-minutes-of-gameplay-3ebi)
+- [IGN: How GTA 6 Could Take Over Pop Culture - Unlocked Clips](https://dev.to/gg_news/ign-how-gta-6-could-take-over-pop-culture-unlocked-clips-15k1)
+- [IGN: Nintendo Switch Online + Expansion Pack - Official Game Boy Advance September 2025 Update Trailer](https://dev.to/gg_news/ign-nintendo-switch-online-expansion-pack-official-game-boy-advance-september-2025-update-o5h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
