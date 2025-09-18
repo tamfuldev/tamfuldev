@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building NJTRX-Style Bitcoin Price Prediction Models: A Developer&#39;s Guide to $118K Analysis](https://dev.to/njtrx/building-njtrx-style-bitcoin-price-prediction-models-a-developers-guide-to-118k-analysis-3p8a)
-- [Is AI Pushing Software Engineers to the Next Efficiency Test?](https://dev.to/louis7/is-ai-pushing-software-engineers-to-the-next-efficiency-test-52de)
-- [Automating Old Partition Cleanup in Oracle with PL/SQL](https://dev.to/mrcaption49/automating-old-partition-cleanup-in-oracle-with-plsql-2hhh)
-- [KEXP: Alien Boy - Changes &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-alien-boy-changes-live-on-kexp-3igc)
-- [KEXP: Alien Boy - Everything Stays &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-alien-boy-everything-stays-live-on-kexp-b99)
+- [AI Coding Is Boring — And What To Do About It](https://dev.to/datadog-frontend-dev/ai-coding-is-boring-and-what-to-do-about-it-5bji)
+- [🔁 RingCentral – Round 2: Implement `JSON.stringify&lpar;&rpar;` from scratch](https://dev.to/ml318097/ringcentral-round-2-implement-jsonstringify-from-scratch-6hn)
+- [Change Data Capture &lpar;CDC&rpar; in Data Engineering: Concepts, Tools and Real-world Implementation Strategies](https://dev.to/emwirigi/change-data-capture-cdc-in-data-engineering-concepts-tools-and-real-world-implementation-feg)
+- [Why Does a Small Reorder Require Massive Updates? Fix It with LexoRank](https://dev.to/learcise_health/why-does-a-small-reorder-require-massive-updates-fix-it-with-lexorank-j6k)
+- [𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗦𝗶𝗴𝗻𝗮𝗹𝗥 𝗦𝗲𝗿𝘃𝗶𝗰𝗲](https://dev.to/supraja_tangella_b7f0738e/-2oam)
 <!-- BLOG-POST-LIST:END -->
 
 ---
