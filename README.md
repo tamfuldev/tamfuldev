@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dev Log 21 - Drag And Drop](https://dev.to/asx/dev-log-21-drag-and-drop-3a53)
-- [Understanding Variables and Data Types for Beginners](https://dev.to/roghaye_mohammadi_84/understanding-variables-and-data-types-for-beginners-9g7)
-- [Running Efficient MCP Servers in Production: Metrics, Patterns &amp; Pitfalls](https://dev.to/om_shree_0709/running-efficient-mcp-servers-in-production-metrics-patterns-pitfalls-42fb)
-- [From SQL to AI: A Fun Look at Conflict Detection Methods in MariaDB and PostgreSQL](https://dev.to/igornosatov_15/from-sql-to-ai-a-fun-look-at-conflict-detection-methods-in-mariadb-and-postgresql-5a7a)
-- [10+ years building WordPress plugins at getbutterfly.com — Some reflections &amp; stats](https://dev.to/wolffe/10-years-building-wordpress-plugins-at-getbutterflycom-some-reflections-stats-58p)
+- [Treat ChatGPT Like a Junior Dev: Helpful, But Needs Review](https://dev.to/heyradcode/treat-chatgpt-like-a-junior-dev-helpful-but-needs-review-88j)
+- [How EC2 Instance in Private Subnet Connects to the Internet in AWS](https://dev.to/alonshrestha/how-ec2-instance-in-private-subnet-connects-to-the-internet-in-aws-obk)
+- [Sliding Window Visualization using “KitikiPlot”, a novel Python Library](https://dev.to/boddu_sripavan_5b6c8d66d4/sliding-window-visualization-using-kitikiplot-a-novel-python-library-38in)
+- [Self-Signed TLS ile Private Docker Registry Kurulumu ve Rancher Entegrasyonu](https://dev.to/erenalpteksen/self-signed-tls-ile-private-docker-registry-kurulumu-ve-rancher-entegrasyonu-1ppc)
+- [Open-source portfolio tracker – looking for 5–7 minute beta feedback](https://dev.to/pocketportfolio/open-source-portfolio-tracker-looking-for-5-7-minute-beta-feedback-jac)
 <!-- BLOG-POST-LIST:END -->
 
 ---
