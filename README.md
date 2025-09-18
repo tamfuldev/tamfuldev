@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building the Heart of Your Java MCP Client: The MCPService Core](https://dev.to/gazolla/building-the-heart-of-your-java-mcp-client-the-mcpservice-core-1i2k)
-- [IGN: Borderlands 4 - Elemental Damage and Weaknesses Explained](https://dev.to/gg_news/ign-borderlands-4-elemental-damage-and-weaknesses-explained-516c)
-- [IGN: Battlefield 6: All-Out Warfare &lpar;and One Iconic Map&rpar; Returns – and it Rocks](https://dev.to/gg_news/ign-battlefield-6-all-out-warfare-and-one-iconic-map-returns-and-it-rocks-18cn)
-- [IGN: Allen Iv3rson - Official Teaser Trailer &lpar;2025&rpar; Documentary](https://dev.to/gg_news/ign-allen-iv3rson-official-teaser-trailer-2025-documentary-48nl)
-- [Step 4: Distributed Environment Challenges](https://dev.to/zeeshanali0704/step-4-distributed-environment-challenges-5e39)
+- [My First Steps in Competitive Programming](https://dev.to/skr0411/my-first-steps-in-competitive-programming-34jl)
+- [The DevOps Engineer&#39;s Guide to AWS Cost Explorer](https://dev.to/sreekanth_kuruba_91721e5d/the-devops-engineers-guide-to-aws-cost-explorer-4npa)
+- [AI-Generated Portfolios: Hype or the Future of Freelancing?](https://dev.to/imtaslim/ai-generated-portfolios-hype-or-the-future-of-freelancing-3i8o)
+- [Step 7: Design a Rate Limiter - Conclusion-Summary with FAQ&#39;s](https://dev.to/zeeshanali0704/step-7-design-a-rate-limiter-conclusion-summary-with-faqs-4j75)
+- [Unlocking the Potential of Vector Databases for AI Agents](https://dev.to/giasuddin90/unlocking-the-potential-of-vector-databases-for-ai-agents-40pd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
