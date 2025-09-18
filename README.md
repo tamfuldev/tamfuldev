@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: ShatterRush - Pre-Alpha Gameplay Trailer](https://dev.to/gg_news/gamespot-shatterrush-pre-alpha-gameplay-trailer-271i)
-- [IGN: EA Sports FC 26 - Official &#39;The Club is Yours&#39; Launch Trailer](https://dev.to/gg_news/ign-ea-sports-fc-26-official-the-club-is-yours-launch-trailer-pgp)
-- [IGN: The Carpenter&#39;s Son - Official Teaser Trailer &lpar;2025&rpar; Nicolas Cage, FKA twigs, Noah Jupe](https://dev.to/gg_news/ign-the-carpenters-son-official-teaser-trailer-2025-nicolas-cage-fka-twigs-noah-jupe-h2k)
-- [IGN: Demon Slayer - Kimetsu no Yaiba - The Hinokami Chronicles 2 - Official Muzan Kibutsuji Trailer](https://dev.to/gg_news/ign-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2-official-muzan-kibutsuji-trailer-1072)
-- [IGN: Vampire: The Masquerade - Bloodlines 2 - Official Malkavian Fabien Gameplay Trailer](https://dev.to/gg_news/ign-vampire-the-masquerade-bloodlines-2-official-malkavian-fabien-gameplay-trailer-42d4)
+- [Guía de Estudio: Conceptos Fundamentales y Aplicados de IA en AWS](https://dev.to/franciscojeg78/guia-de-estudio-conceptos-fundamentales-y-aplicados-de-ia-en-aws-18i0)
+- [Glosario de Términos Clave de IA y AWS](https://dev.to/franciscojeg78/glosario-de-terminos-clave-de-ia-y-aws-2aie)
+- [Vendor Certs vs. Platform-Agnostic: Which Signal Do Recruiters Trust?](https://dev.to/deborahf/vendor-certs-vs-platform-agnostic-which-signal-do-recruiters-trust-3793)
+- [How to use reduce function in Python](https://dev.to/ankitmalikg/how-to-use-reduce-function-in-python-56mk)
+- [AWS Certified AI Practitioner &lpar;AIF-C01&rpar; Study Guide](https://dev.to/franciscojeg78/aws-certified-ai-practitioner-aif-c01-study-guide-1cd6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
