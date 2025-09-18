@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My First Steps in Competitive Programming](https://dev.to/skr0411/my-first-steps-in-competitive-programming-34jl)
-- [The DevOps Engineer&#39;s Guide to AWS Cost Explorer](https://dev.to/sreekanth_kuruba_91721e5d/the-devops-engineers-guide-to-aws-cost-explorer-4npa)
-- [AI-Generated Portfolios: Hype or the Future of Freelancing?](https://dev.to/imtaslim/ai-generated-portfolios-hype-or-the-future-of-freelancing-3i8o)
-- [Step 7: Design a Rate Limiter - Conclusion-Summary with FAQ&#39;s](https://dev.to/zeeshanali0704/step-7-design-a-rate-limiter-conclusion-summary-with-faqs-4j75)
-- [Unlocking the Potential of Vector Databases for AI Agents](https://dev.to/giasuddin90/unlocking-the-potential-of-vector-databases-for-ai-agents-40pd)
+- [IGN: Town to City - Official Early Access Launch Trailer](https://dev.to/gg_news/ign-town-to-city-official-early-access-launch-trailer-5al2)
+- [IGN: Tank Havoc - Official Announcement Trailer](https://dev.to/gg_news/ign-tank-havoc-official-announcement-trailer-286b)
+- [&lpar;Spanish Version&rpar; Building MCP Tools: A PDF Processing Server](https://dev.to/gabrielmrojas/spanish-version-building-mcp-tools-a-pdf-processing-server-efk)
+- [Part-64: 🌐 Google Cloud Networking – Hands-on with VPC Network Peering in GCP Cloud](https://dev.to/latchudevops/part-64-google-cloud-networking-hands-on-with-vpc-network-peering-in-gcp-cloud-54fh)
+- [Supply Chain Management Parts: Key Components Driving Business Efficiency](https://dev.to/tushar_zoringa/supply-chain-management-parts-key-components-driving-business-efficiency-206n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
