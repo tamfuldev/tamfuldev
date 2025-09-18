@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Margin Collapse: The Invisible Force Breaking Your Layout](https://dev.to/mahmoudzaid/understanding-margin-collapse-the-invisible-force-breaking-your-layout-ljo)
-- [🔥🌲 DIAMANTS - Project 🌲🔥](https://dev.to/lololem/diamants-project-22oo)
-- [The Invisible Revolution](https://dev.to/rawveg/the-invisible-revolution-5bpa)
-- [AWS Networking, End to End: a production blueprint with diagrams and checklists](https://dev.to/t2c/aws-networking-end-to-end-a-production-blueprint-with-diagrams-and-checklists-3gmo)
-- [Should You Partner with KOLs or KOCs? A Solopreneur’s Guide to Influencer Campaigns](https://dev.to/uspeedoai/should-you-partner-with-kols-or-kocs-a-solopreneurs-guide-to-influencer-campaigns-1pij)
+- [Building NJTRX-Style Bitcoin Price Prediction Models: A Developer&#39;s Guide to $118K Analysis](https://dev.to/njtrx/building-njtrx-style-bitcoin-price-prediction-models-a-developers-guide-to-118k-analysis-3p8a)
+- [Is AI Pushing Software Engineers to the Next Efficiency Test?](https://dev.to/louis7/is-ai-pushing-software-engineers-to-the-next-efficiency-test-52de)
+- [Automating Old Partition Cleanup in Oracle with PL/SQL](https://dev.to/mrcaption49/automating-old-partition-cleanup-in-oracle-with-plsql-2hhh)
+- [KEXP: Alien Boy - Changes &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-alien-boy-changes-live-on-kexp-3igc)
+- [KEXP: Alien Boy - Everything Stays &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-alien-boy-everything-stays-live-on-kexp-b99)
 <!-- BLOG-POST-LIST:END -->
 
 ---
