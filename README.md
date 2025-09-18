@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Guía de Estudio: Conceptos Fundamentales y Aplicados de IA en AWS](https://dev.to/franciscojeg78/guia-de-estudio-conceptos-fundamentales-y-aplicados-de-ia-en-aws-18i0)
-- [Glosario de Términos Clave de IA y AWS](https://dev.to/franciscojeg78/glosario-de-terminos-clave-de-ia-y-aws-2aie)
-- [Vendor Certs vs. Platform-Agnostic: Which Signal Do Recruiters Trust?](https://dev.to/deborahf/vendor-certs-vs-platform-agnostic-which-signal-do-recruiters-trust-3793)
-- [How to use reduce function in Python](https://dev.to/ankitmalikg/how-to-use-reduce-function-in-python-56mk)
-- [AWS Certified AI Practitioner &lpar;AIF-C01&rpar; Study Guide](https://dev.to/franciscojeg78/aws-certified-ai-practitioner-aif-c01-study-guide-1cd6)
+- [What is Google AP2 Protocol : Step by Step Guide with Examples](https://dev.to/vishalmysore/what-is-google-ap2-protocol-step-by-step-guide-with-examples-2lcp)
+- [How Writing Articles and Joining Communities Can Transform Your Journey as a Developer](https://dev.to/brunompp/how-writing-articles-and-joining-communities-can-transform-your-journey-as-a-developer-2ekm)
+- [Protecting our EKS Nodes with Wazuh](https://dev.to/aws-builders/protecting-our-eks-nodes-with-wazuh-3k7f)
+- [Como escrever artigos e participar de comunidades pode transformar sua jornada como desenvolvedor](https://dev.to/brunompp/como-escrever-artigos-e-participar-de-comunidades-pode-transformar-sua-jornada-como-desenvolvedor-dje)
+- [Analysis of the ROGUE Agent-Based Automated Web Testing System](https://dev.to/tit_tut_9ed50f7e7e4ed40ee/analysis-of-the-rogue-agent-based-automated-web-testing-system-4a0g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
