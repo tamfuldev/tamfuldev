@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A beginner&#39;s guide to the Roop model by Okaris on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-roop-model-by-okaris-on-replicate-12d5)
-- [GameSpot: Dying Light: The Beast 11 Tips We Wish We Knew Before Playing](https://dev.to/gg_news/gamespot-dying-light-the-beast-11-tips-we-wish-we-knew-before-playing-40co)
-- [IGN: 3 Minutes of Psychonauts Dev&#39;s Newest Game, Keeper](https://dev.to/gg_news/ign-3-minutes-of-psychonauts-devs-newest-game-keeper-1675)
-- [IGN: Kojima Productions 10th Anniversary Livestream: Beyond the Strand](https://dev.to/gg_news/ign-kojima-productions-10th-anniversary-livestream-beyond-the-strand-15c1)
-- [IGN: Hollow Knight Silksong - How to Get Needle Upgrade 2 - Pale Oil Location Guide](https://dev.to/gg_news/ign-hollow-knight-silksong-how-to-get-needle-upgrade-2-pale-oil-location-guide-2c3o)
+- [NocoBase Weekly Updates: Optimization and Bug Fixes](https://dev.to/nocobase/nocobase-weekly-updates-optimization-and-bug-fixes-2fom)
+- [Concurrent programming in Java: ThreadPoolExecutor](https://dev.to/chanhlt/concurrent-programming-in-java-threadpoolexecutor-9e2)
+- [Families with sum of ages of a couple over 70 years old--SPL Programming Practice](https://dev.to/esproc_spl/families-with-sum-of-ages-of-a-couple-over-70-years-old-spl-programming-practice-4gfe)
+- [Excel Grid: jQuery Plugin for Interactive Data Table](https://dev.to/jqueryscript/excel-grid-jquery-plugin-for-interactive-data-table-5ahn)
+- [Introducción a las GANs](https://dev.to/victorojedaok/introduccion-a-las-gans-22ff)
 <!-- BLOG-POST-LIST:END -->
 
 ---
