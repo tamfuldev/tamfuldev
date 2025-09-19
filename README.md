@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [NPR Music: Lido Pimienta: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-lido-pimienta-tiny-desk-concert-21oj)
-- [Spring Boot REST API — Returning Response in JSON Format](https://dev.to/masteringbackend/spring-boot-rest-api-returning-response-in-json-format-2j8p)
-- [KendoReact Free Components Challenge: Invoice Management Dashboard](https://dev.to/pratik_12b3f8bf3b50e48bae/kendoreact-free-components-challenge-invoice-management-dashboard-aac)
-- [Shai-Hulud: a self-propagating npm worm hits @ctrl/tinycolor and dozens more packages](https://dev.to/clouddefenseai/shai-hulud-a-self-propagating-npm-worm-hits-ctrltinycolor-and-dozens-more-packages-4j93)
-- [Why Debian packages are saver then NPM and PyPi](https://dev.to/jverhoeks/why-debian-packages-are-saver-then-npm-and-pypi-4j21)
+- [The New Data Barons](https://dev.to/rawveg/the-new-data-barons-5bfj)
+- [Day 11 of #90DaysOfCode – Python Name Generator 🎉](https://dev.to/momina_raheelmoona_c59/day-11-of-90daysofcode-python-name-generator-1fej)
+- [Day 52: CI/CD pipeline on AWS pt 3](https://dev.to/udoh_deborah_b1e484c474bf/day-52-cicd-pipeline-on-aws-pt-3-318g)
+- [How to Boost Remote Work Productivity: A Developer-Friendly Guide for 2025](https://dev.to/teamcamp/how-to-boost-remote-work-productivity-a-developer-friendly-guide-for-2025-2bbk)
+- [Duffel vs Amadeus: Which Works Better for Modern API-First Integration?](https://dev.to/ravi_makhija/duffel-vs-amadeus-which-works-better-for-modern-api-first-integration-49p4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
