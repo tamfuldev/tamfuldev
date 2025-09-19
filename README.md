@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [You’re Already a Narrative Designer &lpar;Even If You Don’t Feel Like One&rpar;](https://dev.to/mitch-narrativeflow/youre-already-a-narrative-designer-even-if-you-dont-feel-like-one-1jb0)
-- [Connecting to LLMs: Building a Simple HTTP Client for AI Integration](https://dev.to/gazolla/connecting-to-llms-building-a-simple-http-client-for-ai-integration-p4o)
-- [A guide to using Graphite&#39;s stacked PRs for GitHub users](https://dev.to/semgrep/a-guide-to-using-graphites-stacked-prs-for-github-users-5c47)
-- [Ultimate AI Writing Tools for Content Creators 2025](https://dev.to/coding180/ultimate-ai-writing-tools-for-content-creators-2025-42gd)
-- [IGN: Tencent Defends Horizon Clone, Claiming Sony Copied Ninja Theory First - IGN Daily Fix](https://dev.to/gg_news/ign-tencent-defends-horizon-clone-claiming-sony-copied-ninja-theory-first-ign-daily-fix-3j9a)
+- [A beginner&#39;s guide to the Roop model by Okaris on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-roop-model-by-okaris-on-replicate-12d5)
+- [GameSpot: Dying Light: The Beast 11 Tips We Wish We Knew Before Playing](https://dev.to/gg_news/gamespot-dying-light-the-beast-11-tips-we-wish-we-knew-before-playing-40co)
+- [IGN: 3 Minutes of Psychonauts Dev&#39;s Newest Game, Keeper](https://dev.to/gg_news/ign-3-minutes-of-psychonauts-devs-newest-game-keeper-1675)
+- [IGN: Kojima Productions 10th Anniversary Livestream: Beyond the Strand](https://dev.to/gg_news/ign-kojima-productions-10th-anniversary-livestream-beyond-the-strand-15c1)
+- [IGN: Hollow Knight Silksong - How to Get Needle Upgrade 2 - Pale Oil Location Guide](https://dev.to/gg_news/ign-hollow-knight-silksong-how-to-get-needle-upgrade-2-pale-oil-location-guide-2c3o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
