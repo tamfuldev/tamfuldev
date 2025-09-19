@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Small Swoole Rx Events](https://dev.to/sebk69/small-swoole-rx-events-475g)
-- [Why You Need to Learn Functional Programming: And What It Is](https://dev.to/mahdi_javidi_2a7ecfb53faa/why-you-need-to-learn-functional-programming-and-what-it-is-5762)
-- [Release 0.1](https://dev.to/kkrishnan10/release-01-2eo0)
-- [The Hidden Empire of AI Grammar: Power Without Politicians](https://dev.to/agustin_v_startari/the-hidden-empire-of-ai-grammar-power-without-politicians-4on8)
-- [Python Pro Tip: Unpack Your Variables Like a Boss](https://dev.to/aaron_rose_0787cc8b4775a0/python-pro-tip-unpack-your-variables-like-a-boss-4j4b)
+- [IGN: My Status as an Assassin Obviously Exceeds the Hero’s - Official Trailer &lpar;English Subtitles&rpar;](https://dev.to/gg_news/ign-my-status-as-an-assassin-obviously-exceeds-the-heros-official-trailer-english-subtitles-5dn4)
+- [IGN: Trails in the Sky 1st Chapter - The First 20 Minutes of Gameplay](https://dev.to/gg_news/ign-trails-in-the-sky-1st-chapter-the-first-20-minutes-of-gameplay-1d3n)
+- [Meet Backend2Lab](https://dev.to/toluwap/meet-backend2lab-a-backend-playground-for-learning-backend-development-288e)
+- [TypeScript Types Are The Best Kind Of Magic](https://dev.to/kylepena/typescript-types-are-the-best-kind-of-magic-37ji)
+- [New Meme Monday Bot?](https://dev.to/mileswk/new-meme-monday-bot-485j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
