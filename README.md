@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. vs. China: The Rivalry for AI Supremacy](https://dev.to/trigma25/us-vs-china-the-rivalry-for-ai-supremacy-3mk9)
-- [Teleport a Component in Angular &lpar;and Keep Its State&rpar;](https://dev.to/brianmtreese/teleport-a-component-in-angular-and-keep-its-state-590e)
-- [Bugs wear data. Let&#39;s check Apache NiFi](https://dev.to/pvsdev/bugs-wear-data-lets-check-apache-nifi-2ehk)
-- [Shad cn vue Like Nuxt/Vue Librarys :fire:](https://dev.to/leamsigc/shad-cn-vue-like-nuxtvue-librarys-fire-23k8)
-- [Troubleshooting Common DevOps Challenges](https://dev.to/addwebsolutionpvtltd/troubleshooting-common-devops-challenges-4n0)
+- [a](https://dev.to/trang_khanh_1a4456cf74e34/a-2inf)
+- [The Ultimate Checklist for Zero‑Downtime Deployments with Docker](https://dev.to/ramer_lacida_2b58cbe46bc8/the-ultimate-checklist-for-zero-downtime-deployments-with-docker-3mk5)
+- [The Ultimate Checklist for Zero‑Downtime Deploys with Docker and Nginx](https://dev.to/ramer_lacida_2b58cbe46bc8/the-ultimate-checklist-for-zero-downtime-deploys-with-docker-and-nginx-431h)
+- [Performance Tuning for Node.js APIs with Redis Caching and CDN Edge](https://dev.to/ramer_lacida_2b58cbe46bc8/performance-tuning-for-nodejs-apis-with-redis-caching-and-cdn-edge-5be9)
+- [7 Mistakes to Avoid in Managing DNS Records for Production Apps](https://dev.to/ramer_lacida_2b58cbe46bc8/7-mistakes-to-avoid-in-managing-dns-records-for-production-apps-kn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
