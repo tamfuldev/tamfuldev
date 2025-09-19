@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: My Status as an Assassin Obviously Exceeds the Hero’s - Official Trailer &lpar;English Subtitles&rpar;](https://dev.to/gg_news/ign-my-status-as-an-assassin-obviously-exceeds-the-heros-official-trailer-english-subtitles-5dn4)
-- [IGN: Trails in the Sky 1st Chapter - The First 20 Minutes of Gameplay](https://dev.to/gg_news/ign-trails-in-the-sky-1st-chapter-the-first-20-minutes-of-gameplay-1d3n)
-- [Meet Backend2Lab](https://dev.to/toluwap/meet-backend2lab-a-backend-playground-for-learning-backend-development-288e)
-- [TypeScript Types Are The Best Kind Of Magic](https://dev.to/kylepena/typescript-types-are-the-best-kind-of-magic-37ji)
-- [New Meme Monday Bot?](https://dev.to/mileswk/new-meme-monday-bot-485j)
+- [Lost Recovery Keys with Auto Unseal – Vault](https://dev.to/terngr/lost-recovery-keys-with-auto-unseal-vault-58ih)
+- [NodeJS to n8n: A Developer&#39;s Guide to Smarter Workflow Automation](https://dev.to/shieldstring/nodejs-to-n8n-a-developers-guide-to-smarter-workflow-automation-2bjc)
+- [Compiling LLVM and Running Your First Dummy Pass](https://dev.to/cppchedy/compiling-llvm-and-running-your-first-dummy-pass-2an5)
+- [10 Common JavaScript Pitfalls &lpar;and How to Avoid Them&rpar;](https://dev.to/baransel/10-common-javascript-pitfalls-and-how-to-avoid-them-40i)
+- [Running Gemma 2B on Kubernetes &lpar;k3d&rpar; with Ollama: A Complete Local AI Setup](https://dev.to/sumit_roy9007/running-gemma-2b-on-kubernetes-k3d-with-ollama-a-complete-local-ai-setup-2knp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
