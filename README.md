@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The New Data Barons](https://dev.to/rawveg/the-new-data-barons-5bfj)
-- [Day 11 of #90DaysOfCode – Python Name Generator 🎉](https://dev.to/momina_raheelmoona_c59/day-11-of-90daysofcode-python-name-generator-1fej)
-- [Day 52: CI/CD pipeline on AWS pt 3](https://dev.to/udoh_deborah_b1e484c474bf/day-52-cicd-pipeline-on-aws-pt-3-318g)
-- [How to Boost Remote Work Productivity: A Developer-Friendly Guide for 2025](https://dev.to/teamcamp/how-to-boost-remote-work-productivity-a-developer-friendly-guide-for-2025-2bbk)
-- [Duffel vs Amadeus: Which Works Better for Modern API-First Integration?](https://dev.to/ravi_makhija/duffel-vs-amadeus-which-works-better-for-modern-api-first-integration-49p4)
+- [Fintech Security: Best Practices for Fintech Apps](https://dev.to/flutterwaveeng/fintech-security-best-practices-for-fintech-apps-4k2i)
+- [The Bid Feedback Paradox](https://dev.to/bid_solution/the-bid-feedback-paradox-3caj)
+- [Building a Simple Bank App API with Spring Boot and Spring Data JPA](https://dev.to/m_muhd8/building-a-simple-bank-app-api-with-spring-boot-and-jpa-4h9p)
+- [Rust vs. C++ : An Unbiased Comparison](https://dev.to/aliaryani-security/rust-vs-c-an-unbiased-comparison-4jcg)
+- [Is AI Pushing Software Engineers to a New Efficiency Test in 2025?](https://dev.to/jamshaid_anwar_f6ce6f39dd_15/is-ai-pushing-software-engineers-to-a-new-efficiency-test-in-2025-438b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
