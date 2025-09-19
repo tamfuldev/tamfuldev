@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Video Streaming Platform with HTML, CSS, JS, and Skapi](https://dev.to/skapi_api/how-to-create-a-video-streaming-platform-with-html-css-js-and-skapi-2f23)
-- [Build a Serverless FAQ Bot with Skapi + Vanilla JS &lpar;No Backend Needed!&rpar;](https://dev.to/skapi_api/build-a-serverless-faq-bot-with-skapi-vanilla-js-no-backend-needed-20cj)
-- [OIDC: The Web&#39;s Universal Passport for Secure Logins](https://dev.to/leonardkachi/oidc-the-webs-universal-passport-for-secure-logins-20c5)
-- [Navigate back with results in Jetpack Compose Navigation](https://dev.to/rockandnull/navigate-back-with-results-in-jetpack-compose-navigation-46hn)
-- [LLM Context Engineering](https://dev.to/jackm_345442a09fb53b/llm-context-engineering-2ai4)
+- [NPR Music: Lido Pimienta: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-lido-pimienta-tiny-desk-concert-21oj)
+- [Spring Boot REST API — Returning Response in JSON Format](https://dev.to/masteringbackend/spring-boot-rest-api-returning-response-in-json-format-2j8p)
+- [KendoReact Free Components Challenge: Invoice Management Dashboard](https://dev.to/pratik_12b3f8bf3b50e48bae/kendoreact-free-components-challenge-invoice-management-dashboard-aac)
+- [Shai-Hulud: a self-propagating npm worm hits @ctrl/tinycolor and dozens more packages](https://dev.to/clouddefenseai/shai-hulud-a-self-propagating-npm-worm-hits-ctrltinycolor-and-dozens-more-packages-4j93)
+- [Why Debian packages are saver then NPM and PyPi](https://dev.to/jverhoeks/why-debian-packages-are-saver-then-npm-and-pypi-4j21)
 <!-- BLOG-POST-LIST:END -->
 
 ---
