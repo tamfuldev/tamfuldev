@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [a](https://dev.to/trang_khanh_1a4456cf74e34/a-2inf)
-- [The Ultimate Checklist for Zero‑Downtime Deployments with Docker](https://dev.to/ramer_lacida_2b58cbe46bc8/the-ultimate-checklist-for-zero-downtime-deployments-with-docker-3mk5)
-- [The Ultimate Checklist for Zero‑Downtime Deploys with Docker and Nginx](https://dev.to/ramer_lacida_2b58cbe46bc8/the-ultimate-checklist-for-zero-downtime-deploys-with-docker-and-nginx-431h)
-- [Performance Tuning for Node.js APIs with Redis Caching and CDN Edge](https://dev.to/ramer_lacida_2b58cbe46bc8/performance-tuning-for-nodejs-apis-with-redis-caching-and-cdn-edge-5be9)
-- [7 Mistakes to Avoid in Managing DNS Records for Production Apps](https://dev.to/ramer_lacida_2b58cbe46bc8/7-mistakes-to-avoid-in-managing-dns-records-for-production-apps-kn)
+- [How to Create a Video Streaming Platform with HTML, CSS, JS, and Skapi](https://dev.to/skapi_api/how-to-create-a-video-streaming-platform-with-html-css-js-and-skapi-2f23)
+- [Build a Serverless FAQ Bot with Skapi + Vanilla JS &lpar;No Backend Needed!&rpar;](https://dev.to/skapi_api/build-a-serverless-faq-bot-with-skapi-vanilla-js-no-backend-needed-20cj)
+- [OIDC: The Web&#39;s Universal Passport for Secure Logins](https://dev.to/leonardkachi/oidc-the-webs-universal-passport-for-secure-logins-20c5)
+- [Navigate back with results in Jetpack Compose Navigation](https://dev.to/rockandnull/navigate-back-with-results-in-jetpack-compose-navigation-46hn)
+- [LLM Context Engineering](https://dev.to/jackm_345442a09fb53b/llm-context-engineering-2ai4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
