@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI represents nothing new](https://dev.to/winstonpuckett/ai-represents-nothing-new-2lb0)
-- [Apache Spark vs Apache Flink: Choosing the Right Tool for Your Data Journey](https://dev.to/sabaristacksurge/apache-spark-vs-apache-flink-choosing-the-right-tool-for-your-data-journey-h7e)
-- [Cost-Effective Log Management Strategy](https://dev.to/gu1lh3rm3_x/cost-effective-log-management-strategy-2co2)
-- [Angular vs React: What’s the Difference and Which Should You Choose in 2025?](https://dev.to/rohit_singh_ee84e64941db7/angular-vs-react-whats-the-difference-and-which-should-you-choose-in-2025-43c2)
-- [Mini project for begginers...](https://dev.to/koshintech/exam-grades-for-begginers-374l)
+- [First Pull Request](https://dev.to/elsad_humbetli_0971c995ce/first-pull-request-4l1)
+- [Success Story: Charles Tyler&#39;s Learning Journey with 101 Blockchains - 101 Blockchains #961877](https://dev.to/calgo_62400343865ec0ae72a/success-story-charles-tylers-learning-journey-with-101-blockchains-101-blockchains-961877-2ckl)
+- [Peter Finch Golf: I play the FIRST EVER Ryder Cup Course...](https://dev.to/youtube_golf/peter-finch-golf-i-play-the-first-ever-ryder-cup-course-509n)
+- [Optical Bonding in Embedded SBCs: Why It Matters for Engineers](https://dev.to/tonyhe8688/optical-bonding-in-embedded-sbcs-why-it-matters-for-engineers-36ke)
+- [Criando uma simples API RESTful com PHP e CodeIgniter](https://dev.to/matheussesso/criando-uma-api-restful-com-codeigniter-4-56b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
