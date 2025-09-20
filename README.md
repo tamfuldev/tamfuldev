@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Python Variables: A Complete Beginner&#39;s Guide with Examples &amp; Best Practices](https://dev.to/satyam_gupta_0d1ff2152dcc/python-variables-a-complete-beginners-guide-with-examples-best-practices-2hi2)
-- [My first UI based Rust application - A Skip Counter - created using iced UI library...](https://dev.to/sommukhopadhyay/my-first-ui-based-rust-application-a-skip-counter-created-using-iced-ui-library-1eb2)
-- [React Component Testing: Best Practices for 2025 🧪](https://dev.to/tahamjp/react-component-testing-best-practices-for-2025-2674)
-- [Full Guide: Integrating MongoDB with Spring Boot &lpar;CRUD, Lombok, Transactions, Atlas&rpar;](https://dev.to/jps27cse/full-guide-integrating-mongodb-with-spring-boot-crud-lombok-transactions-atlas-4c46)
-- [Blockchain as a Database: Hype or a Real Alternative?](https://dev.to/dct_technology/blockchain-as-a-database-hype-or-a-real-alternative-5c39)
+- [Understanding Deaf-Blindness](https://dev.to/a11ynews/understanding-deaf-blindness-3eep)
+- [Understanding Mixture of Experts &lpar;MoE&rpar;](https://dev.to/jiminlee/mixture-of-experts-moe-l4o)
+- [What is Zero-Knowledge Proof: Complete Guide to ZKPs, zk-SNARKs, and zk-STARKs](https://dev.to/saira_zeeshan_35fc05971fd/what-is-zero-knowledge-proof-complete-guide-to-zkps-zk-snarks-and-zk-starks-1ndp)
+- [🔐 OWASP API Security — Why Every Developer Should Care &lpar;Java + AWS Context&rpar;](https://dev.to/ankushbehera/owasp-api-security-why-every-developer-should-care-java-aws-context-20ln)
+- [Tired of complicated compilation?Integrate AeroFFmpeg with one click to make Android audio and video development easier!](https://dev.to/cat_dogrunning_in_the_s/tired-of-complicated-compilationintegrate-aeroffmpeg-with-one-click-to-make-android-audio-and-728)
 <!-- BLOG-POST-LIST:END -->
 
 ---
