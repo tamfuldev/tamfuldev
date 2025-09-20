@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Lost Recovery Keys with Auto Unseal – Vault](https://dev.to/terngr/lost-recovery-keys-with-auto-unseal-vault-58ih)
-- [NodeJS to n8n: A Developer&#39;s Guide to Smarter Workflow Automation](https://dev.to/shieldstring/nodejs-to-n8n-a-developers-guide-to-smarter-workflow-automation-2bjc)
-- [Compiling LLVM and Running Your First Dummy Pass](https://dev.to/cppchedy/compiling-llvm-and-running-your-first-dummy-pass-2an5)
-- [10 Common JavaScript Pitfalls &lpar;and How to Avoid Them&rpar;](https://dev.to/baransel/10-common-javascript-pitfalls-and-how-to-avoid-them-40i)
-- [Running Gemma 2B on Kubernetes &lpar;k3d&rpar; with Ollama: A Complete Local AI Setup](https://dev.to/sumit_roy9007/running-gemma-2b-on-kubernetes-k3d-with-ollama-a-complete-local-ai-setup-2knp)
+- [Building My Own CLI Tool: A Better Way to Share Code with LLMs](https://dev.to/jongwan93/building-my-own-cli-tool-a-better-way-to-share-code-with-llms-1708)
+- [Anyone Know anything about rawdrawandroid or c bionic for #Android as I would Like to build for Android without using #java?](https://dev.to/1negroup/anyone-know-anything-about-rawdrawandroid-or-c-bionic-for-android-as-i-would-like-to-build-for-360o)
+- [Building an ESP32-C3 WiFi MQTT Client for IoT Data Streaming &lpar;DevKitM-1 / Rust-1&rpar;](https://dev.to/jajera/building-an-esp32-c3-wifi-mqtt-client-for-iot-data-streaming-devkitm-1-rust-1-dp9)
+- [TaskPire - task management tool](https://dev.to/rayiumir/taskpire-task-management-tool-5758)
+- [LLM-Powered Query Processing: From Natural Language to Tool Execution](https://dev.to/gazolla/llm-powered-query-processing-from-natural-language-to-tool-execution-654)
 <!-- BLOG-POST-LIST:END -->
 
 ---
