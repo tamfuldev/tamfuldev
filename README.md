@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Golf.com: A Night in the Life of Bethpage Black Overnighters](https://dev.to/youtube_golf/golfcom-a-night-in-the-life-of-bethpage-black-overnighters-2olf)
-- [IGN: Our Biggest Bails and Goofiest Fails In Skate](https://dev.to/gg_news/ign-our-biggest-bails-and-goofiest-fails-in-skate-lm5)
-- [IGN: One Battle After Another Stars on Paul Thomas Anderson&#39;s Best Movies](https://dev.to/gg_news/ign-one-battle-after-another-stars-on-paul-thomas-andersons-best-movies-40gc)
-- [IGN: Endless Legend 2 - 24 Minutes of Necrophage Developer Gameplay Overview](https://dev.to/gg_news/ign-endless-legend-2-24-minutes-of-necrophage-developer-gameplay-overview-503b)
-- [IGN: Tony Hawk&#39;s Pro Skater 3+4 Developers React to Incredible Speedrun](https://dev.to/gg_news/ign-tony-hawks-pro-skater-34-developers-react-to-incredible-speedrun-386m)
+- [AlloyDB Omni: PostgreSQL Optimized for Hybrid and Multicloud Environments](https://dev.to/johnbulla/alloydb-omni-postgresql-optimized-for-hybrid-and-multicloud-environments-4991)
+- [How I Built a Serverless Data Analytics Pipeline for Customer Churn with S3, Glue, Athena, and QuickSight](https://dev.to/ajithmanmu/how-i-built-a-serverless-data-analytics-pipeline-for-customer-churn-with-s3-glue-athena-and-bfk)
+- [Next-Gen Auditing: Unlocking AWS CloudTrail with MCP Server](https://dev.to/aws-builders/next-gen-auditing-unlocking-aws-cloudtrail-with-mcp-server-5dll)
+- [Nushell: paradigm shift in shells](https://dev.to/mcheremnov/nushell-paradigm-shift-in-shells-pna)
+- [JavaScript&#39;s Event Loop](https://dev.to/mohsenfallahnjd/javascripts-event-loop-3k4o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
