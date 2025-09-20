@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Shadow of Progress](https://dev.to/rawveg/the-shadow-of-progress-be6)
-- [Django REST Framework Authentication: JWT, OAuth2, and Session](https://dev.to/djamware_tutorial_eba1a61/django-rest-framework-authentication-jwt-oauth2-and-session-npk)
-- [Event-Driven Architecture with Blockchain: Use Kafka/MSK and Blockchain Logs](https://dev.to/smritisatyan/event-driven-architecture-with-blockchain-use-kafkamsk-and-blockchain-logs-f5n)
-- [Getting fields from a &quot;linked&quot; Sitecore rendering parameter - good news, bad news](https://dev.to/kmac23va/need-fields-in-a-linked-rendering-parameter-so-close-2lo4)
-- [ByteByteGo vs DesignGurus.io? Which is better for System Design Interview Preparation?](https://dev.to/somadevtoo/bytebytego-vs-designgurusio-which-is-better-for-system-design-interview-preparation-2e1o)
+- [picoCTF RPS writeup](https://dev.to/hitanshugedam/picoctf-rps-writeup-365k)
+- [The NKTm Unit in the NKTg Law &lpar;Varying Inertia&rpar;](https://dev.to/thenktlaw/the-nktm-unit-in-the-nktg-law-varying-inertia-54e6)
+- [Engineering for Longevity: How to Build Software That Survives Hype Cycles](https://dev.to/sonia_bobrik_1939cdddd79d/engineering-for-longevity-how-to-build-software-that-survives-hype-cycles-mdk)
+- [Template Your Own Clean, Precise Boilerplate Code: No AI, No Wallet Drain. Part 3 – Enough Theory, Now We Code](https://dev.to/georgekobaidze/template-your-own-clean-precise-boilerplate-code-no-ai-no-wallet-drain-part-3-enough-theory-1e0b)
+- [IGN: GTA 6 and Witcher 4 Prove the Console Wars Are Over, Base PS5 Won.](https://dev.to/gg_news/ign-gta-6-and-witcher-4-prove-the-console-wars-are-over-base-ps5-won-4mjp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
