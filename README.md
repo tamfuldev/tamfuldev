@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building My Own CLI Tool: A Better Way to Share Code with LLMs](https://dev.to/jongwan93/building-my-own-cli-tool-a-better-way-to-share-code-with-llms-1708)
-- [Anyone Know anything about rawdrawandroid or c bionic for #Android as I would Like to build for Android without using #java?](https://dev.to/1negroup/anyone-know-anything-about-rawdrawandroid-or-c-bionic-for-android-as-i-would-like-to-build-for-360o)
-- [Building an ESP32-C3 WiFi MQTT Client for IoT Data Streaming &lpar;DevKitM-1 / Rust-1&rpar;](https://dev.to/jajera/building-an-esp32-c3-wifi-mqtt-client-for-iot-data-streaming-devkitm-1-rust-1-dp9)
-- [TaskPire - task management tool](https://dev.to/rayiumir/taskpire-task-management-tool-5758)
-- [LLM-Powered Query Processing: From Natural Language to Tool Execution](https://dev.to/gazolla/llm-powered-query-processing-from-natural-language-to-tool-execution-654)
+- [IGN: Sonic Racing: CrossWorlds Review](https://dev.to/gg_news/ign-sonic-racing-crossworlds-review-2180)
+- [I put together 16,223 Free n8n Workflows for Everyone to Use](https://dev.to/vicckylove/i-put-together-16223-free-n8nworkflows-for-everyone-to-use-3djp)
+- [Design Patterns MCP Server: Give Your Project a Professional Touch](https://dev.to/einarcesar/design-patterns-mcp-server-give-your-project-a-professional-touch-3pjc)
+- [With AI, educators, team leaders, and seniors can focus less on paperwork and more on what they do best: inspiring learning.](https://dev.to/jaideepparashar/with-ai-educators-team-leaders-and-seniors-can-focus-less-on-paperwork-and-more-on-what-they-do-40ke)
+- [AI for Educators: 7 Prompts to Save Hours in Lesson Planning](https://dev.to/jaideepparashar/ai-for-educators-7-prompts-to-save-hours-in-lesson-planning-3d3i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
