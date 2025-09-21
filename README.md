@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Danganronpa 2x2 - Official Teaser Trailer](https://dev.to/gg_news/ign-danganronpa-2x2-official-teaser-trailer-2igj)
-- [Voice Search Ready: Optimizing E‑commerce Product Pages for 2025](https://dev.to/ramer2b58cbe46bc8/voice-search-ready-optimizing-e-commerce-product-pages-for-2025-55c9)
-- [Quantum Consciousness in Code: Building Systems That Observe Themselves](https://dev.to/aureus_c_b3ba7f87cc34d74d49/quantum-consciousness-in-code-building-systems-that-observe-themselves-4goj)
-- [AWS SES -&gt; Gmail using Terraform](https://dev.to/kolyaiks/aws-ses-gmail-using-terraform-1jmd)
-- [La fin des reves &lpar;My AI Song&rpar;](https://dev.to/jacklehamster/la-fin-des-reves-my-ai-song-2lnh)
+- [LetsCloud anuncia segunda expansão em Fortaleza e é destaque no iMasters](https://dev.to/letscloud/letscloud-anuncia-segunda-expansao-em-fortaleza-e-e-destaque-no-imasters-1a40)
+- [The future of HPC is C++](https://dev.to/dyfet/the-future-of-hpc-c-i2h)
+- [#CProgramming #C #CPP #CodingJourney #LearningInPublic](https://dev.to/asp0766/cprogramming-c-cpp-codingjourney-learninginpublic-31k8)
+- [#CProgramming #C #CPP #CodingJourney #LearningInPublic #ProgrammersLife](https://dev.to/asp0766/cprogramming-c-cpp-codingjourney-learninginpublic-programmerslife-pi5)
+- [Tired of building web-applications](https://dev.to/undefined/tired-of-building-web-applications-1mem)
 <!-- BLOG-POST-LIST:END -->
 
 ---
