@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Flores amarillas](https://dev.to/colecciom_repart_782646de/flores-amarillas-3mmg)
-- [Master tmux Like a Pro: Boost Your Terminal Workflow 🚀](https://dev.to/masoomjethwa/master-tmux-like-a-pro-boost-your-terminal-workflow-5a4a)
-- [Setting Up a Scalable JupyterHub Classroom on Debian 12 LTS with DockerSpawner](https://dev.to/masoomjethwa/setting-up-a-scalable-jupyterhub-classroom-on-debian-12-lts-with-dockerspawner-2k9f)
-- [Modulax Launch Blueprint: Building with Purpose from Day One](https://dev.to/modulaxorg/modulax-launch-blueprint-building-with-purpose-from-day-one-ko1)
-- [Why Node.js Keeps Winning: The Backend Beast Everyone Loves to Hire](https://dev.to/m-a-h-b-u-b/why-nodejs-keeps-winning-the-backend-beast-everyone-loves-to-hire-3cip)
+- [Skip Livewire? Why Laravel Blade + AQC + Alpine Might Be All You Need](https://dev.to/raheelshan/skip-livewire-why-laravel-blade-aqc-alpine-might-be-all-you-need-399i)
+- [Git Config](https://dev.to/faruks/git-config-epf)
+- [[Boost]](https://dev.to/felixaschultz/-10hg)
+- [Skip JSON, Use Blade: A Simpler Way to Build Dynamic Laravel UIs Without JS Frameworks](https://dev.to/raheelshan/skip-json-use-blade-a-simpler-way-to-build-dynamic-laravel-uis-without-js-frameworks-ceh)
+- [Why you should use Docker](https://dev.to/tech_girllll/why-you-should-use-docker-1im1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
