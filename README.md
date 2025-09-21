@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [LetsCloud anuncia segunda expansão em Fortaleza e é destaque no iMasters](https://dev.to/letscloud/letscloud-anuncia-segunda-expansao-em-fortaleza-e-e-destaque-no-imasters-1a40)
-- [The future of HPC is C++](https://dev.to/dyfet/the-future-of-hpc-c-i2h)
-- [#CProgramming #C #CPP #CodingJourney #LearningInPublic](https://dev.to/asp0766/cprogramming-c-cpp-codingjourney-learninginpublic-31k8)
-- [#CProgramming #C #CPP #CodingJourney #LearningInPublic #ProgrammersLife](https://dev.to/asp0766/cprogramming-c-cpp-codingjourney-learninginpublic-programmerslife-pi5)
-- [Tired of building web-applications](https://dev.to/undefined/tired-of-building-web-applications-1mem)
+- [Backend](https://dev.to/asp0766/backend-p23)
+- [How I Saved My System Through Peak Season](https://dev.to/lowkey_dev_591/how-i-saved-my-system-through-peak-season-3m79)
+- [My Journey to the Ideal Operating System: From Ubuntu to Manjaro](https://dev.to/krikri2025/my-journey-to-the-ideal-operating-system-from-ubuntu-to-manjaro-1pej)
+- [Zendesk Too Complicated? How Nexi Bloom Chat Offers Simplicity and Efficiency](https://dev.to/jaybarker/zendesk-too-complicated-how-nexi-bloom-chat-offers-simplicity-and-efficiency-3b7i)
+- [Python – Beginner-Friendly Start](https://dev.to/asp0766/python-beginner-friendly-start-19h1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
