@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [C# HTML to PDF: Puppeteer Sharp Alternatives &lpar;A Comparison&rpar;](https://dev.to/mhamzap10/c-html-to-pdf-puppeteer-sharp-alternatives-a-comparison-4oll)
-- [🔐 Enabling Easy Auth for Azure Logic Apps &lpar;Standard&rpar;](https://dev.to/imdj/enabling-easy-auth-for-azure-logic-apps-standard-1m2i)
-- [CMD Linux-Like Toolkit &lpar;Batch + PowerShell&rpar;](https://dev.to/techy4shri/linux-command-aliases-for-windows--3oh6)
-- [Building Smarter Project Models: How We Handle Complex Cashflow Calculations in Code](https://dev.to/abdul_shamim/building-smarter-project-models-how-we-handle-complex-cashflow-calculations-in-code-2nmg)
-- [Founder’s Field Guide to PR That Engineers Can Trust](https://dev.to/sonia_bobrik_1939cdddd79d/founders-field-guide-to-pr-that-engineers-can-trust-3c47)
+- [RAGs for Dummies: The Game-Changing Power of RAG](https://dev.to/maureen_mukami_4268d10eac/rags-for-dummies-the-game-changing-power-of-rag-2j86)
+- [FormEngineer evolves into... AppMaker!](https://dev.to/_neronotte/formengineer-evolves-into-appmaker-10di)
+- [Things I Wish I Knew Before Getting Into Tech](https://dev.to/jackline_kaunda/things-i-wish-i-knew-before-getting-into-tech-2c6f)
+- [I used Python to Analyze Customer Payment Behavior](https://dev.to/bekbrace/i-used-python-to-analyze-customer-payment-behavior-1dh)
+- [The Hijacked Promise of Smart Manufacturing](https://dev.to/opensourceadvocate/the-hijacked-promise-of-smart-manufacturing-1988)
 <!-- BLOG-POST-LIST:END -->
 
 ---
