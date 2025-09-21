@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Souly | A COLORS SHOW](https://dev.to/music_youtube/colors-souly-a-colors-show-3f3g)
-- [📅 Week 2 – Spring Boot Web &amp; REST API Fundamentals](https://dev.to/tejasvi_urkande/week-2-spring-boot-web-rest-api-fundamentals-19ah)
-- [IGN: S.A.N.D.Y. - Beach Cleaner - Official Announcement Trailer](https://dev.to/gg_news/ign-sandy-beach-cleaner-official-announcement-trailer-9p5)
-- [IGN: Heartopia - Official Gameplay Trailer](https://dev.to/gg_news/ign-heartopia-official-gameplay-trailer-4k31)
-- [Message Mirror: a tiny, resilient Android notification + SMS forwarder &lpar;Flutter + Kotlin&rpar;](https://dev.to/dragonborn/message-mirror-a-tiny-resilient-android-notification-sms-forwarder-flutter-kotlin-36om)
+- [7 Tips for Hardening Nginx and Linux Servers in Environments](https://dev.to/ramer2b58cbe46bc8/7-tips-for-hardening-nginx-and-linux-servers-in-environments-33j)
+- [You don’t need NPM to ship fully-featured apps.](https://dev.to/derstruct/you-dont-need-npm-to-ship-fully-featured-apps-17ak)
+- [Big O Notation pt.1: Time Complexity](https://dev.to/talaamm/big-o-notation-pt1-time-complexity-3676)
+- [Geeks for Geeks MERN Full Stack Web Development course](https://dev.to/harsh_jain_db0c27cf5e18ff/geeks-for-geeks-mern-full-stack-web-development-course-cd9)
+- [Observability on Amazon EKS Cluster: A Complete Guide to Prometheus and Grafana with Helm](https://dev.to/aws-builders/observability-on-amazon-eks-cluster-a-complete-guide-to-prometheus-and-grafana-with-helm-5d4l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
