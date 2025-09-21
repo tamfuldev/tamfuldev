@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Got 678 users for my B2C SaaS in a month. When did you start charging for your SaaS?](https://dev.to/sisyph_4434/got-678-users-for-my-b2c-saas-in-a-month-when-did-you-start-charging-for-your-saas-38bn)
-- [A toutes les tours 20 de France](https://dev.to/s44d/a-toutes-les-tours-20-de-france-3n3e)
-- [훅 인터페이스 개선 및 프로덕션 에러 롤백시킨 경험](https://dev.to/algoorgoal/hug-inteopeiseu-gaeseon-mic-peurodeogsyeon-ereo-rolbaegsikin-gyeongheom-189j)
-- [Running Human-in-the-Loop Evals for AI Applications](https://dev.to/kuldeep_paul/running-human-in-the-loop-evals-for-ai-applications-16hd)
-- [A no-login time tracker that calculates earnings live &lpar;browser-only&rpar;](https://dev.to/ro_lax/a-no-login-time-tracker-that-calculates-earnings-live-browser-only-16bo)
+- [Beyond Functional: Writing Professional and Performant SQL Queries](https://dev.to/gregory42266270/beyond-functional-writing-professional-and-performant-sql-queries-11ac)
+- [How to Get The GIMP Working With macOS Tahoe &lpar;and What Happened&rpar;](https://dev.to/fedtti/how-to-get-the-gimp-working-with-macos-tahoe-and-what-happened-b4k)
+- [Day 53: CI/CD pipeline on AWS pt 4](https://dev.to/udoh_deborah_b1e484c474bf/day-53-cicd-pipeline-on-aws-pt-4-ejc)
+- [Single Element Loaders: Going 3D with CSS](https://dev.to/er-raj-aryan/single-element-loaders-going-3d-with-css-ikd)
+- [iFixit iPhone Air teardown](https://dev.to/technoblogger14o3/ifixit-iphone-air-teardown-1e03)
 <!-- BLOG-POST-LIST:END -->
 
 ---
