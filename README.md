@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Double-Edged Algorithm](https://dev.to/rawveg/the-double-edged-algorithm-ebh)
-- [Introduction to TrueReviewer: A Product Review Package for Laravel 🚀](https://dev.to/lakm/introduction-to-truereviewer-a-product-review-package-for-laravel-5cd7)
-- [Rust Cheat Sheet](https://dev.to/elmyrockers/rust-cheat-sheet-25i1)
-- [Chat with OpenAI: SME Fast AI Assistant](https://dev.to/iamisaackn/chat-with-openai-sme-fast-ai-assistant-4ddb)
-- [Is Your Fridge About to Order Groceries for You? Demystifying the Metaverse&#39;s Lesser-Known Cousin: the Internet of Things &lpar;IoT&rpar;](https://dev.to/karthik_n/is-your-fridge-about-to-order-groceries-for-you-demystifying-the-metaverses-lesser-known-cousin-1h8k)
+- [Got 678 users for my B2C SaaS in a month. When did you start charging for your SaaS?](https://dev.to/sisyph_4434/got-678-users-for-my-b2c-saas-in-a-month-when-did-you-start-charging-for-your-saas-38bn)
+- [A toutes les tours 20 de France](https://dev.to/s44d/a-toutes-les-tours-20-de-france-3n3e)
+- [훅 인터페이스 개선 및 프로덕션 에러 롤백시킨 경험](https://dev.to/algoorgoal/hug-inteopeiseu-gaeseon-mic-peurodeogsyeon-ereo-rolbaegsikin-gyeongheom-189j)
+- [Running Human-in-the-Loop Evals for AI Applications](https://dev.to/kuldeep_paul/running-human-in-the-loop-evals-for-ai-applications-16hd)
+- [A no-login time tracker that calculates earnings live &lpar;browser-only&rpar;](https://dev.to/ro_lax/a-no-login-time-tracker-that-calculates-earnings-live-browser-only-16bo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
