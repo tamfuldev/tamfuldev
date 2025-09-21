@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Skip Livewire? Why Laravel Blade + AQC + Alpine Might Be All You Need](https://dev.to/raheelshan/skip-livewire-why-laravel-blade-aqc-alpine-might-be-all-you-need-399i)
-- [Git Config](https://dev.to/faruks/git-config-epf)
-- [[Boost]](https://dev.to/felixaschultz/-10hg)
-- [Skip JSON, Use Blade: A Simpler Way to Build Dynamic Laravel UIs Without JS Frameworks](https://dev.to/raheelshan/skip-json-use-blade-a-simpler-way-to-build-dynamic-laravel-uis-without-js-frameworks-ceh)
-- [Why you should use Docker](https://dev.to/tech_girllll/why-you-should-use-docker-1im1)
+- [ETL: The Unsung Hero of Data-Driven Decisions](https://dev.to/leonardkachi/etl-the-unsung-hero-of-data-driven-decisions-igc)
+- [Unleashing the Power of Agentic AI: How Autonomous Agents are transforming Cybersecurity and Application Security](https://dev.to/rollbrace0/unleashing-the-power-of-agentic-ai-how-autonomous-agents-are-transforming-cybersecurity-and-2n3d)
+- [Enable Bash-Style History Search and Suggestions in PowerShell](https://dev.to/jajera/enable-bash-style-history-search-and-suggestions-in-powershell-2d52)
+- [Why do we even need change-data-capture to begin with?](https://dev.to/paragparalikar/why-do-we-even-need-change-data-capture-to-begin-with-3nj9)
+- [Comparison of ZXing QR Code Generator Alternatives to IronQR](https://dev.to/mohammedibrahimlj/comparison-of-zxing-qr-code-generator-alternatives-to-ironqr-3376)
 <!-- BLOG-POST-LIST:END -->
 
 ---
