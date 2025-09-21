@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Unpetrified: Echoes of Nature - Official Release Date Trailer](https://dev.to/gg_news/ign-unpetrified-echoes-of-nature-official-release-date-trailer-4kob)
-- [IGN: Cut That Wire - Official Reveal Trailer](https://dev.to/gg_news/ign-cut-that-wire-official-reveal-trailer-4c3c)
-- [🌱 Building Zyro: From Solo Project to Unified Growth Engine](https://dev.to/eddie_glush_60e960e585bf8/building-zyro-from-solo-project-to-unified-growth-engine-4cjk)
-- [MatrixOS v0.1.0: The Swarm Gets Its Operating System](https://dev.to/matrixswarm/matrixos-v010-the-swarm-gets-its-operating-system-4ffk)
-- [Dishonest Dave&#39;s Dishwashers? How AI Polices Your Restaurant&#39;s Performance &lpar;Before It Costs You&rpar;](https://dev.to/griddle_ai/dishonest-daves-dishwashers-how-ai-polices-your-restaurants-performance-before-it-costs-you-21kc)
+- [🏃‍♂️State management with Zustand!](https://dev.to/gustavoisensee/state-management-with-zustand-14h3)
+- [Beyond Borders: Navigating Data Sovereignty and the Illusion of “Local” Cloud Providers](https://dev.to/engrkhan001/beyond-borders-navigating-data-sovereignty-and-the-illusion-of-local-cloud-providers-oid)
+- [Show HN: AI-Powered Email Verification API with ML Risk Scoring + 50% Off for RapidAPI Users](https://dev.to/rehaanhassan/show-hn-ai-powered-email-verification-api-with-ml-risk-scoring-50-off-for-rapidapi-users-4p6f)
+- [LeetCode 8: String to Integer &lpar;atoi&rpar; - Medium](https://dev.to/grantdotdev/leetcode-8-string-to-integer-atoi-medium-33om)
+- [Big O Notation: Examples](https://dev.to/talaamm/big-o-notation-examples-4ej)
 <!-- BLOG-POST-LIST:END -->
 
 ---
