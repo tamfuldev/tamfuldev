@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Psychology of Social Engineering: A Deep Dive into Modern Manipulation Tactics](https://dev.to/gagreatprogrammer/the-psychology-of-social-engineering-a-deep-dive-into-modern-manipulation-tactics-3bid)
-- [[Boost]](https://dev.to/amrosama57/-59di)
-- [Dokploy is such a breath of fresh air in the overcrowded cloud hosting space. perfect for small projects that don&#39;t need the scale up-front.](https://dev.to/squishy/dokploy-is-such-a-breath-of-fresh-air-in-the-overcrowded-cloud-hosting-space-perfect-for-small-26le)
-- [Python Operators: The Ultimate Guide for Beginners &amp; Beyond](https://dev.to/satyam_gupta_0d1ff2152dcc/python-operators-the-ultimate-guide-for-beginners-beyond-3eh6)
-- [System Design Interview Playbook — Clear Steps to Shine](https://dev.to/robort-gabriel/system-design-interview-playbook-clear-steps-to-shine-a2o)
+- [The Double-Edged Algorithm](https://dev.to/rawveg/the-double-edged-algorithm-ebh)
+- [Introduction to TrueReviewer: A Product Review Package for Laravel 🚀](https://dev.to/lakm/introduction-to-truereviewer-a-product-review-package-for-laravel-5cd7)
+- [Rust Cheat Sheet](https://dev.to/elmyrockers/rust-cheat-sheet-25i1)
+- [Chat with OpenAI: SME Fast AI Assistant](https://dev.to/iamisaackn/chat-with-openai-sme-fast-ai-assistant-4ddb)
+- [Is Your Fridge About to Order Groceries for You? Demystifying the Metaverse&#39;s Lesser-Known Cousin: the Internet of Things &lpar;IoT&rpar;](https://dev.to/karthik_n/is-your-fridge-about-to-order-groceries-for-you-demystifying-the-metaverses-lesser-known-cousin-1h8k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
