@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [7 Tips for Hardening Nginx and Linux Servers in Environments](https://dev.to/ramer2b58cbe46bc8/7-tips-for-hardening-nginx-and-linux-servers-in-environments-33j)
-- [You don’t need NPM to ship fully-featured apps.](https://dev.to/derstruct/you-dont-need-npm-to-ship-fully-featured-apps-17ak)
-- [Big O Notation pt.1: Time Complexity](https://dev.to/talaamm/big-o-notation-pt1-time-complexity-3676)
-- [Geeks for Geeks MERN Full Stack Web Development course](https://dev.to/harsh_jain_db0c27cf5e18ff/geeks-for-geeks-mern-full-stack-web-development-course-cd9)
-- [Observability on Amazon EKS Cluster: A Complete Guide to Prometheus and Grafana with Helm](https://dev.to/aws-builders/observability-on-amazon-eks-cluster-a-complete-guide-to-prometheus-and-grafana-with-helm-5d4l)
+- [IGN: Unpetrified: Echoes of Nature - Official Release Date Trailer](https://dev.to/gg_news/ign-unpetrified-echoes-of-nature-official-release-date-trailer-4kob)
+- [IGN: Cut That Wire - Official Reveal Trailer](https://dev.to/gg_news/ign-cut-that-wire-official-reveal-trailer-4c3c)
+- [🌱 Building Zyro: From Solo Project to Unified Growth Engine](https://dev.to/eddie_glush_60e960e585bf8/building-zyro-from-solo-project-to-unified-growth-engine-4cjk)
+- [MatrixOS v0.1.0: The Swarm Gets Its Operating System](https://dev.to/matrixswarm/matrixos-v010-the-swarm-gets-its-operating-system-4ffk)
+- [Dishonest Dave&#39;s Dishwashers? How AI Polices Your Restaurant&#39;s Performance &lpar;Before It Costs You&rpar;](https://dev.to/griddle_ai/dishonest-daves-dishwashers-how-ai-polices-your-restaurants-performance-before-it-costs-you-21kc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
