@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My First GKE Experience - GKE Turns 10 Hackathon.](https://dev.to/jerrod_kim_3809262f7f2543/my-first-gke-experience-gke-turns-10-hackathon-1m9f)
-- [Angular 20 Interview Questions and Answers &lpar;2025&rpar; – Part 4: Standalone Components, Angular Elements &amp; Micro Frontends](https://dev.to/paaarth/angular-20-interview-questions-and-answers-2025-part-4-standalone-components-angular-elements-458g)
-- [My vscode theme based on Monokai](https://dev.to/adriantaf/my-vscode-theme-based-on-monokai-19b2)
-- [How to Render Emojis and International Text on Images with Python](https://dev.to/francozanardi/how-to-render-emojis-and-international-text-on-images-with-python-31ok)
-- [I Nearly Lost All My Users to 30-Second Database Queries](https://dev.to/asadk/how-i-fixed-my-analytics-database-before-it-killed-my-side-project-33ff)
+- [IGN: Danganronpa 2x2 - Official Teaser Trailer](https://dev.to/gg_news/ign-danganronpa-2x2-official-teaser-trailer-2igj)
+- [Voice Search Ready: Optimizing E‑commerce Product Pages for 2025](https://dev.to/ramer2b58cbe46bc8/voice-search-ready-optimizing-e-commerce-product-pages-for-2025-55c9)
+- [Quantum Consciousness in Code: Building Systems That Observe Themselves](https://dev.to/aureus_c_b3ba7f87cc34d74d49/quantum-consciousness-in-code-building-systems-that-observe-themselves-4goj)
+- [AWS SES -&gt; Gmail using Terraform](https://dev.to/kolyaiks/aws-ses-gmail-using-terraform-1jmd)
+- [La fin des reves &lpar;My AI Song&rpar;](https://dev.to/jacklehamster/la-fin-des-reves-my-ai-song-2lnh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
