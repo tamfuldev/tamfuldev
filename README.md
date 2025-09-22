@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI benchmarks, explain like i&#39;m five](https://dev.to/koha/ai-benchmarks-explain-like-im-five-5dno)
-- [Idempotency Keys: Your API&#39;s Safety Net Against Chaos](https://dev.to/leonardkachi/idempotency-keys-your-apis-safety-net-against-chaos-j1b)
-- [Why Does Concurrency Have to Be So Hard in Java After 20 Years?](https://dev.to/rob_d_2c0d55e14e7037f2/why-does-concurrency-have-to-be-so-hard-in-java-after-20-years-jmb)
-- [JUMIA PRODUCT PERFORMANCE DASHBOARD ANALYSIS.](https://dev.to/faybeth_robina/jumia-product-performance-dashboard-analysis-51m)
-- [The Ugly Truth About Postgres &amp; pgvector](https://dev.to/realchrissean/the-ugly-truth-about-postgres-pgvector-568c)
+- [[Boost]](https://dev.to/alazsel/-a8a)
+- [System Design Basics 🍕 + Spring Boot](https://dev.to/wastech/system-design-basics-spring-boot-2dbo)
+- [🚀 Install and Use FSCSS](https://dev.to/fscss-ttr/install-and-use-fscss-o05)
+- [Challenge React](https://dev.to/bronx1337/challenge-react-3kf1)
+- [How to Prioritize Product Development: A Practical Guide for Startups and Beyond](https://dev.to/jocanola/how-to-prioritize-product-development-a-practical-guide-for-startups-and-beyond-no7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
