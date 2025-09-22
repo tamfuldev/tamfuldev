@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Go Reflection: Taming Memory Costs for High-Performance Apps](https://dev.to/jones_charles_ad50858dbc0/go-reflection-taming-memory-costs-for-high-performance-apps-5f6e)
-- [Self-Hosting Listmonk with Coolify: Your Own Newsletter Platform in Minutes](https://dev.to/jaskarandeogan/self-hosting-listmonk-with-coolify-your-own-newsletter-platform-in-minutes-50j1)
-- [Prevent Claude Code from destroying your project: Setting up a Git stash-based checkpoint management system with &#39;Hooks&#39;](https://dev.to/ztor2/prevent-claude-code-from-destroying-your-project-setting-up-a-git-stash-based-checkpoint-1721)
-- [AI Comedy: A New Era of Hilarious Content](https://dev.to/sebastian_reid999/ai-comedy-a-new-era-of-hilarious-content-40j2)
-- [Supercharge E‑commerce SEO: Master Core Web Vitals for 2025](https://dev.to/ramer2b58cbe46bc8/supercharge-e-commerce-seo-master-core-web-vitals-for-2025-2p4p)
+- [Enforce Module Imports in FSD &lpar;using eslint-plugin-import&rpar;](https://dev.to/vavilov2212/enforce-module-imports-in-fsd-using-eslint-plugin-import-2d72)
+- [Using the gyroscope to detect wrist gestures with ArkTS](https://dev.to/harmonyos/using-the-gyroscope-to-detect-wrist-gestures-with-arkts-261e)
+- [My Kids Built 3 Apps in 3 Days - Here&#39;s What I Learned About](https://dev.to/aabyzov/my-kids-built-3-apps-in-3-days-heres-what-i-learned-about-2h6e)
+- [it’s not just a tool—it’s a companion that supports every phase of the development cycle, from ideation to deployment.](https://dev.to/monahidalgo/its-not-just-a-tool-its-a-companion-that-supports-every-phase-of-the-development-cycle-from-2h34)
+- [Sj.h: A tiny little JSON parsing library in ~150 lines of C99](https://dev.to/technoblogger14o3/sjh-a-tiny-little-json-parsing-library-in-150-lines-of-c99-4jgn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
