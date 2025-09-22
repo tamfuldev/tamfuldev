@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The New AI Trinity](https://dev.to/shieldstring/the-new-ai-trinity-a9c)
-- [Desto: A Web Dashboard for Long-Running Background Processes](https://dev.to/kalfasyan/desto-a-web-dashboard-for-long-running-background-processes-4lf2)
-- [React Native Version Matrix: The Hidden Upgrade Path](https://dev.to/qbit/react-native-version-matrix-the-hidden-upgrade-path-1p3m)
-- [Building an AI Conversation Practice App: Part 3- From Simple Prompts to Database-Driven Dynamic AI Characters](https://dev.to/yfkiwi/building-an-ai-conversation-practice-app-part-3-from-simple-prompts-to-database-driven-dynamic-ai-npg)
-- [BACK TO SCHOOL!](https://dev.to/yosef_tsegaye_3e06698542b/back-to-school-1dpd)
+- [Go Reflection: Taming Memory Costs for High-Performance Apps](https://dev.to/jones_charles_ad50858dbc0/go-reflection-taming-memory-costs-for-high-performance-apps-5f6e)
+- [Self-Hosting Listmonk with Coolify: Your Own Newsletter Platform in Minutes](https://dev.to/jaskarandeogan/self-hosting-listmonk-with-coolify-your-own-newsletter-platform-in-minutes-50j1)
+- [Prevent Claude Code from destroying your project: Setting up a Git stash-based checkpoint management system with &#39;Hooks&#39;](https://dev.to/ztor2/prevent-claude-code-from-destroying-your-project-setting-up-a-git-stash-based-checkpoint-1721)
+- [AI Comedy: A New Era of Hilarious Content](https://dev.to/sebastian_reid999/ai-comedy-a-new-era-of-hilarious-content-40j2)
+- [Supercharge E‑commerce SEO: Master Core Web Vitals for 2025](https://dev.to/ramer2b58cbe46bc8/supercharge-e-commerce-seo-master-core-web-vitals-for-2025-2p4p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
