@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/batunpc/-21j4)
-- [From 10-Week Project to Long-Term Partnership](https://dev.to/saminarp/from-10-week-project-to-long-term-partnership-551p)
-- [The Cost of Inconsistency &lpar;And the Power of Predictability&rpar;](https://dev.to/duplessisvanaswegen/the-cost-of-inconsistency-and-the-power-of-predictability-57bg)
-- [I Built a Simple Feature Flag Service Because I Was Tired of Being Afraid to Deploy](https://dev.to/el_yt/i-built-a-simple-feature-flag-service-because-i-was-tired-of-being-afraid-to-deploy-5ci)
-- [How to Install and Configure n8n on an Air-Gapped RHEL Server](https://dev.to/kaustubhyerkade/how-to-install-and-configure-n8n-on-an-air-gapped-rhel-server-47hh)
+- [AI benchmarks, explain like i&#39;m five](https://dev.to/koha/ai-benchmarks-explain-like-im-five-5dno)
+- [Idempotency Keys: Your API&#39;s Safety Net Against Chaos](https://dev.to/leonardkachi/idempotency-keys-your-apis-safety-net-against-chaos-j1b)
+- [Why Does Concurrency Have to Be So Hard in Java After 20 Years?](https://dev.to/rob_d_2c0d55e14e7037f2/why-does-concurrency-have-to-be-so-hard-in-java-after-20-years-jmb)
+- [JUMIA PRODUCT PERFORMANCE DASHBOARD ANALYSIS.](https://dev.to/faybeth_robina/jumia-product-performance-dashboard-analysis-51m)
+- [The Ugly Truth About Postgres &amp; pgvector](https://dev.to/realchrissean/the-ugly-truth-about-postgres-pgvector-568c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
