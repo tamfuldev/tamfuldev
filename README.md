@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Tableau Filtering Actions Made Easy: A Complete Guide for Analysts](https://dev.to/dipti_moryani_185c244d578/tableau-filtering-actions-made-easy-a-complete-guide-for-analysts-4oik)
-- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-2i1c)
-- [100 Days of DevOps: Day 50](https://dev.to/wycliffealphus/100-days-of-devops-day-50-3dpk)
-- [AI Project Kickoff Blueprint for Success - Best Practices for PMs](https://dev.to/sahil_aggarwal/ai-project-kickoff-blueprint-for-success-best-practices-for-pms-29ng)
-- [The power of Agentic AI: How Autonomous Agents are Revolutionizing Cybersecurity and Application Security](https://dev.to/rollbrace0/the-power-of-agentic-ai-how-autonomous-agents-are-revolutionizing-cybersecurity-and-application-iig)
+- [Supabase with Supabase CLI, React + TypeScript – Part 2: APIs and Edge Functions](https://dev.to/sukanta47/supabase-with-supabase-cli-react-typescript-part-2-apis-and-edge-functions-3k65)
+- [How Can I Make My Event Invitations Look More Professional?](https://dev.to/aamir_khan_c46082b6e804c0/how-can-i-make-my-event-invitations-look-more-professional-4k41)
+- [GameSpot: Silent Hill F Review](https://dev.to/gg_news/gamespot-silent-hill-f-review-2j66)
+- [GameSpot: 15 Minutes of Silent Hill F Gameplay](https://dev.to/gg_news/gamespot-15-minutes-of-silent-hill-f-gameplay-4mob)
+- [IGN: Silent Hill f Review](https://dev.to/gg_news/ign-silent-hill-f-review-207o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
