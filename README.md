@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 5 of Complete JavaScript in 17 days | Visual Series📚✨](https://dev.to/azaan_suhail/day-5-of-complete-javascript-in-17-days-visual-series-26ih)
-- [Day 23 - Alert Component Part 2 - Dynamic Rendering of SVG Icons](https://dev.to/railsstudent/day-23-alert-component-part-2-dynamic-rendering-of-svg-icons-3ofm)
-- [COLORS: Souly - Motte | A COLORS SHOW](https://dev.to/music_youtube/colors-souly-motte-a-colors-show-59bj)
-- [KEXP: Cardiel - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cardiel-full-performance-live-on-kexp-4iap)
-- [🚀 Building &amp; Deploying My Next.js Portfolio with Docker, AWS, and CI/CD&quot;](https://dev.to/ritesh355/building-deploying-my-nextjs-portfolio-with-docker-aws-and-cicd-54cf)
+- [Building E-commerce: Smart Shopping Assistant on GKE](https://dev.to/iklabs/building-e-commerce-smart-shopping-assistant-on-gke-5ci3)
+- [Lazy Loading in Angular &lpar;Modules &amp; Standalone&rpar;](https://dev.to/xrdev38/lazy-loading-in-angular-modules-standalone-3ic4)
+- [The Unbeatable Workhorse: Why Your Desk Needs a Monochrome Laser Printer](https://dev.to/jyoti_eb2834cf419b8c283b3/the-unbeatable-workhorse-why-your-desk-needs-a-monochrome-laser-printer-34p3)
+- [Why People Need to Learn Project Management in the Era of AI](https://dev.to/srijan-xi/why-people-need-to-learn-project-management-in-the-era-of-ai-23ei)
+- [Stop Overthinking It: The Real &quot;Laser Printer Meaning&quot; for Developers](https://dev.to/jyoti_eb2834cf419b8c283b3/stop-overthinking-it-the-real-laser-printer-meaning-for-developers-30m1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
