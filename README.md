@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic Economic Index – September 2025 📈](https://dev.to/techstuff/anthropic-economic-index-september-2025-1h55)
-- [Python Tuples: The Ultimate Guide to Immutable Sequences](https://dev.to/satyam_gupta_0d1ff2152dcc/python-tuples-the-ultimate-guide-to-immutable-sequences-4lpf)
-- [Beginner’s Guide to Making Money with Google AdSense](https://dev.to/abdaat/beginners-guide-to-making-money-with-google-adsense-1i96)
-- [AWS OpenSearch Full Documents Reindexing: When? Why? How?](https://dev.to/aws-builders/aws-opensearch-full-documents-reindexing-when-why-how-20c3)
-- [AWS-nuke controlled resources cleanup in multiple aws accounts](https://dev.to/aws-builders/aws-nuke-controlled-resources-cleanup-in-multiple-aws-accounts-313d)
+- [Tableau Filtering Actions Made Easy: A Complete Guide for Analysts](https://dev.to/dipti_moryani_185c244d578/tableau-filtering-actions-made-easy-a-complete-guide-for-analysts-4oik)
+- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-2i1c)
+- [100 Days of DevOps: Day 50](https://dev.to/wycliffealphus/100-days-of-devops-day-50-3dpk)
+- [AI Project Kickoff Blueprint for Success - Best Practices for PMs](https://dev.to/sahil_aggarwal/ai-project-kickoff-blueprint-for-success-best-practices-for-pms-29ng)
+- [The power of Agentic AI: How Autonomous Agents are Revolutionizing Cybersecurity and Application Security](https://dev.to/rollbrace0/the-power-of-agentic-ai-how-autonomous-agents-are-revolutionizing-cybersecurity-and-application-iig)
 <!-- BLOG-POST-LIST:END -->
 
 ---
