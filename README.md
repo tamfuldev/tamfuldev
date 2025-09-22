@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🔐 Fine-Grained Role Control for MCP Tools with APIM](https://dev.to/imdj/fine-grained-role-control-for-mcp-tools-with-apim-2pn7)
-- [KEXP: Cardiel - Perros &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cardiel-perros-live-on-kexp-482h)
-- [The Game Theorists: Game Theory: What is Minecraft&#39;s Suspicious Stew?](https://dev.to/gg_news/the-game-theorists-game-theory-what-is-minecrafts-suspicious-stew-39d0)
-- [IGN: Fatal Fury: City of the Wolves - Official Joe Higashi Trailer](https://dev.to/gg_news/ign-fatal-fury-city-of-the-wolves-official-joe-higashi-trailer-54g2)
-- [IGN: Endless Legend 2 - Official Early Access Launch Trailer](https://dev.to/gg_news/ign-endless-legend-2-official-early-access-launch-trailer-45d3)
+- [A supposedly fun interview I&#39;ll never do again*](https://dev.to/luc4587/a-supposedly-fun-interview-ill-never-do-again-3d60)
+- [Solidity Libraries](https://dev.to/loading_blocks/solidity-libraries-4ceo)
+- [Spring AI: Empowering Java Developers with Generative AI](https://dev.to/devcorner/spring-ai-empowering-java-developers-with-generative-ai-14p3)
+- [Advanced Strands Agents with MCP Servers: Real-World Automation Examples](https://dev.to/chetan_hirapara_c3830e396/advanced-strands-agents-with-mcp-servers-real-world-automation-examples-1i83)
+- [Trends &amp; Insights on Agentic AI &lpar;Sept 15-19, 2025&rpar;](https://dev.to/alexmercedcoder/trends-insights-on-agentic-ai-sept-15-19-2025-1bd3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
