@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Supabase with Supabase CLI, React + TypeScript – Part 2: APIs and Edge Functions](https://dev.to/sukanta47/supabase-with-supabase-cli-react-typescript-part-2-apis-and-edge-functions-3k65)
-- [How Can I Make My Event Invitations Look More Professional?](https://dev.to/aamir_khan_c46082b6e804c0/how-can-i-make-my-event-invitations-look-more-professional-4k41)
-- [GameSpot: Silent Hill F Review](https://dev.to/gg_news/gamespot-silent-hill-f-review-2j66)
-- [GameSpot: 15 Minutes of Silent Hill F Gameplay](https://dev.to/gg_news/gamespot-15-minutes-of-silent-hill-f-gameplay-4mob)
-- [IGN: Silent Hill f Review](https://dev.to/gg_news/ign-silent-hill-f-review-207o)
+- [Secure AWS Access in Kubernetes: Transitioning from Secrets to IRSA or Pod Identity](https://dev.to/u11d/secure-aws-access-in-kubernetes-transitioning-from-secrets-to-irsa-or-pod-identity-4i68)
+- [Building an AI Sales Infrastructure with Claude, n8n, and Apollo](https://dev.to/alifar/building-an-ai-sales-infrastructure-with-claude-n8n-and-apollo-4jih)
+- [What Is a Weak Pointer in Rust &lpar;and Why It Matters&rpar;?](https://dev.to/masteringbackend/what-is-a-weak-pointer-in-rust-and-why-it-matters-29m5)
+- [Máquina de hielo tubular comercial, ¿por qué elegir primero un modelo integrado?](https://dev.to/maqhielotubos/maquina-de-hielo-tubular-comercial-por-que-elegir-primero-un-modelo-integrado-4mdm)
+- [Beyond the Brand Name: What We Really Mean When We Talk About Laser Printers](https://dev.to/jyoti_eb2834cf419b8c283b3/beyond-the-brand-name-what-we-really-mean-when-we-talk-about-laser-printers-2pk7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
