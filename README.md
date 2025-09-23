@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Painkiller - Official Rogue Angel &lpar;Roguelike Mode&rpar; Trailer](https://dev.to/gg_news/ign-painkiller-official-rogue-angel-roguelike-mode-trailer-4nki)
-- [IGN: Silent Hill f: 8 Tips for Early Survival](https://dev.to/gg_news/ign-silent-hill-f-8-tips-for-early-survival-1cll)
-- [Performance Tuning for Nginx: 7 Tips to Slash TTFB and Boost Speed](https://dev.to/ramer2b58cbe46bc8/performance-tuning-for-nginx-7-tips-to-slash-ttfb-and-boost-speed-4moa)
-- [Evergreen Content: Warum deine Tech-Inhalte auch in 5 Jahren noch rocken sollten](https://dev.to/ivo_sa/evergreen-content-warum-deine-tech-inhalte-auch-in-5-jahren-noch-rocken-sollten-12io)
-- [🔍 Applying Flawfinder: A Lightweight SAST Tool to Secure C/C++ Codebases](https://dev.to/jefferson_rosas/applying-flawfinder-a-lightweight-sast-tool-to-secure-cc-codebases-p50)
+- [Would love your feedback on my Portfolio 😊](https://dev.to/moyrith/would-love-your-feedback-on-my-portfolio-bj7)
+- [Day 009 on My journey to becoming a CSS Pro with Keith Grant](https://dev.to/ffff0000h/day-009-on-my-journey-to-becoming-a-css-pro-with-keith-grant-1o15)
+- [Retrieval Augmented Generation – Generative AI Tool](https://dev.to/logicalwings/retrieval-augmented-generation-generative-ai-tool-4g5)
+- [Ted talks that everyone should hear - part 1](https://dev.to/oryaacov/ted-talks-that-everyone-should-hear-part-1-424o)
+- [Building Self-Correcting LLM Systems: The Evaluator-Optimizer Pattern](https://dev.to/clayroach/building-self-correcting-llm-systems-the-evaluator-optimizer-pattern-169p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
