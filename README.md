@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dynamic Theming in React Using Context API: Multi-Brand 🎨](https://dev.to/yorgie7/dynamic-theming-in-react-using-context-api-multi-brand-56l1)
-- [Java para Iniciantes: Começe a Programar em 2025](https://dev.to/gustavohenriquej/java-para-iniciantes-comece-a-programar-em-2025-3dh)
-- [AWS IoT Core Starter with Esp32, MQTT, Rust &amp; Terraform](https://dev.to/rammaths/aws-iot-core-starter-with-esp32-mqtt-rust-terraform-2bb)
-- [7 Tips for Securing Nginx with TLS and Fail2Ban on Production Servers](https://dev.to/ramer2b58cbe46bc8/7-tips-for-securing-nginx-with-tls-and-fail2ban-on-production-servers-31ph)
-- [Subnetting in AWS](https://dev.to/devzeuz/subnetting-in-aws-pip)
+- [🌐 Is React Really Single Page? Understanding Routing &amp; Multiple Pages in SPAs](https://dev.to/yorgie7/is-react-really-single-page-understanding-routing-multiple-pages-in-spas-4d10)
+- [Unpacking Git&#39;s Branching: A Look at the Internals](https://dev.to/shrsv/unpacking-gits-branching-a-look-at-the-internals-b4a)
+- [Headless CMS in 2025: Balancing Flexibility, SEO, and Developer Experience](https://dev.to/arkhan/headless-cms-in-2025-balancing-flexibility-seo-and-developer-experience-25lo)
+- [RAG vs fine-tuning vs prompt engineering](https://dev.to/thisismairaj/rag-vs-fine-tuning-vs-prompt-engineering-fcg)
+- [Digital First Aid Incident System — Ai‑assisted, Canada‑ready &lpar;proposal V1&rpar;](https://dev.to/shanmeiremote/digital-first-aid-incident-system-ai-assisted-canada-ready-proposal-v1-3ipn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
