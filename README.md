@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Xbox Tokyo Game Show 2025 Livestream](https://dev.to/gg_news/ign-xbox-tokyo-game-show-2025-livestream-1nda)
-- [IGN: JUJUTSU KAISEN: Execution - Official Trailer &lpar;English Subtitles&rpar;](https://dev.to/gg_news/ign-jujutsu-kaisen-execution-official-trailer-english-subtitles-5135)
-- [IGN: Robin Hood - Official Trailer &lpar;2025&rpar; Jack Patten, Sean Bean, Lauren McQueen](https://dev.to/gg_news/ign-robin-hood-official-trailer-2025-jack-patten-sean-bean-lauren-mcqueen-46mp)
-- [Why Microservices Hype Is Masking a Critical Skill Gap: The Case for Server Knowledge in Modern DevOps](https://dev.to/srinivasamcjf/why-microservices-hype-is-masking-a-critical-skill-gap-the-case-for-server-knowledge-in-modern-4e2b)
-- [Multi-Tool Execution: When One Tool Isn&#39;t Enough](https://dev.to/gazolla/multi-tool-execution-when-one-tool-isnt-enough-1bfa)
+- [Post 0/10 — Foundations: Zero to Base Setup](https://dev.to/cloud-sky-ops/post-010-foundations-zero-to-base-setup-58ni)
+- [⚓ Day 21 of My DevOps Journey: Kubernetes — Orchestrating Containers at Scale 🚀](https://dev.to/dankbhardwaj/day-21-of-my-devops-journey-kubernetes-orchestrating-containers-at-scale-27ge)
+- [[Boost]](https://dev.to/varundeva/-469k)
+- [I Gave AIs &quot;Hands&quot;. Now They Can Build Their Own Software.](https://dev.to/michael_alexander_4bcb07c/i-gave-ais-hands-now-they-can-build-their-own-software-5hgg)
+- [It&#39;s a fascinating yet unsettling phenomenon - AI algorithms](https://dev.to/drcarlosruizviquez/its-a-fascinating-yet-unsettling-phenomenon-ai-algorithms-2c5e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
