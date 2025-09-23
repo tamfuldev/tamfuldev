@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/alazsel/-a8a)
-- [System Design Basics 🍕 + Spring Boot](https://dev.to/wastech/system-design-basics-spring-boot-2dbo)
-- [🚀 Install and Use FSCSS](https://dev.to/fscss-ttr/install-and-use-fscss-o05)
-- [Challenge React](https://dev.to/bronx1337/challenge-react-3kf1)
-- [How to Prioritize Product Development: A Practical Guide for Startups and Beyond](https://dev.to/jocanola/how-to-prioritize-product-development-a-practical-guide-for-startups-and-beyond-no7)
+- [Introduction to Python Module Two Part Two Best Practices](https://dev.to/theoriginalbpc/introduction-to-python-module-two-part-two-best-practices-336b)
+- [ShadCN Rich Text Editor with Lexical + Lexkit](https://dev.to/codeideal/shadcn-rich-text-editor-with-lexical-lexkit-4gnm)
+- [Three.js: How to determine if a point is inside a box?](https://dev.to/handsometan/threejs-how-to-determine-if-a-point-is-inside-a-box-1fpi)
+- [Ask Your Video: Build a Containerized RAG Application for Visual and Audio Analysis](https://dev.to/aws/ask-your-video-build-a-containerized-rag-application-for-visual-and-audio-analysis-58bg)
+- [kelas_x3.html](https://dev.to/wish_senka_79bb3a6682ee75/kelasx3html-k0c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
