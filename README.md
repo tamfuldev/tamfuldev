@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Every Developer Needs a Portfolio in 2026](https://dev.to/aureathemes/why-every-developer-needs-a-portfolio-in-2026-40f)
-- [**Unlocking the Power of Reinforcement Learning: Discovering](https://dev.to/drcarlosruizviquez/unlocking-the-power-of-reinforcement-learning-discovering-l82)
-- [How to prompt Gemini CLI to improve your Dockerfile](https://dev.to/shipyard/how-to-prompt-gemini-cli-to-improve-your-dockerfile-2ofg)
-- [**Boosting Cybersecurity Effectiveness with AI: The Power of](https://dev.to/drcarlosruizviquez/boosting-cybersecurity-effectiveness-with-ai-the-power-of-43jo)
-- [Introducing fastapi-bgtasks-dashboard : One-liner integration on your FastAPI application](https://dev.to/harshil_jani/introducing-fastapi-bgtasks-dashboard-one-liner-integration-on-your-fastapi-application-343i)
+- [K-Means Clustering Exposed: What the Textbooks Leave Out](https://dev.to/sheep_dev/k-means-clustering-exposed-what-the-textbooks-leave-out-4k66)
+- [Bryan Bros Golf: We Challenged the US Junior Champion to a Match!](https://dev.to/youtube_golf/bryan-bros-golf-we-challenged-the-us-junior-champion-to-a-match-46pn)
+- [GameSpot: Saros Gameplay Reveal Trailer](https://dev.to/gg_news/gamespot-saros-gameplay-reveal-trailer-8bn)
+- [GameSpot: Deus Ex Remastered - Announce Trailer | PS5 Games](https://dev.to/gg_news/gamespot-deus-ex-remastered-announce-trailer-ps5-games-4b86)
+- [GameSpot: Battlefield 6 - Campaign Trailer | PS5 Games](https://dev.to/gg_news/gamespot-battlefield-6-campaign-trailer-ps5-games-4blh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
