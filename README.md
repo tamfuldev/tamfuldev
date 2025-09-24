@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Turn Any Photo Into a Cartoon with ToonlyAI](https://dev.to/web5lab_938e9096be8dc3e78/turn-any-photo-into-a-cartoon-with-toonlyai-3ned)
-- [Prometheus &amp; Grafana: The Art and Science of System Insight](https://dev.to/leonardkachi/prometheus-grafana-the-art-and-science-of-system-insight-4gea)
-- [Introducing a Game-Changer: Docling and IBM Cloud Code Engine Join Forces](https://dev.to/aairom/introducing-a-game-changer-docling-and-ibm-cloud-code-engine-join-forces-1pgj)
-- [What is data modernization and why is it critical for enterprises?](https://dev.to/naresh_gupta_xoriant/what-is-data-modernization-and-why-is-it-critical-for-enterprises-3bjf)
-- [How to Migrate ECR Docker Images Between Repositories &lpar;with Automation&rpar;](https://dev.to/aws-builders/how-to-migrate-ecr-docker-images-between-repositories-with-automation-441h)
+- [No Laying Up Podcast: BallKnowers with Bob Sturm | Trap Draw, Ep 360](https://dev.to/youtube_golf/no-laying-up-podcast-ballknowers-with-bob-sturm-trap-draw-ep-360-5ef8)
+- [How to Clear Logs of a Docker Container?](https://dev.to/ankit01oss/how-to-clear-logs-of-a-docker-container-2pa3)
+- [Rollout of granular OAuth consent for Editor add-ons](https://dev.to/googleworkspace/rollout-of-granular-oauth-consent-for-editor-add-ons-3knl)
+- [15 Essential Work From Home Tips to Stay Focused and Productive](https://dev.to/teamcamp/15-essential-work-from-home-tips-to-stay-focused-and-productive-2f31)
+- [Building a Flood Monitoring Dashboard with Django &amp; React](https://dev.to/gustipermanap/building-a-flood-monitoring-dashboard-with-django-react-2m4i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
