@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Markov chains are the original language models](https://dev.to/technoblogger14o3/markov-chains-are-the-original-language-models-2a65)
-- [COLORS: The Favors | A COLORS SHOW](https://dev.to/music_youtube/colors-the-favors-a-colors-show-f4b)
-- [Rick Beato: The John Fogerty Interview](https://dev.to/music_youtube/rick-beato-the-john-fogerty-interview-16oi)
-- [Bryan Bros Golf: Can We Beat the US Junior Champion?!](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-pd4)
-- [GameSpot: PlayStation State of Play September 2025 Livestream](https://dev.to/gg_news/gamespot-playstation-state-of-play-september-2025-livestream-3m47)
+- [Deploying Vanity URLs for Oracle APEX on OCI](https://dev.to/farisdurrani/deploying-vanity-urls-for-oracle-apex-on-oci-100l)
+- [One-Click Deployments #2: AWS EKS Fargate Cluster Using Terraform](https://dev.to/rmendoza/one-click-deployments-2-aws-eks-fargate-cluster-with-applications-using-terraform-16bk)
+- [The Hidden Revenue Leak in Manual QA](https://dev.to/radha_4c842d8e4362a7cdd9c/the-hidden-revenue-leak-in-manual-qa-3po7)
+- [How to Use Huawei Core-Speech Kit for English and Japanese Text-to-Speech &lpar;TTS&rpar;](https://dev.to/harmonyos/how-to-use-huawei-core-speech-kit-for-english-and-japanese-text-to-speech-tts-1nk6)
+- [billboard.js 3.17.0: ✨ New Axis Customization, Label Styling &amp; Image Labels!](https://dev.to/netil/billboardjs-3170-new-axis-customization-label-styling-image-labels-5ao7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
