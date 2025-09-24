@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [No Laying Up Podcast: BallKnowers with Bob Sturm | Trap Draw, Ep 360](https://dev.to/youtube_golf/no-laying-up-podcast-ballknowers-with-bob-sturm-trap-draw-ep-360-5ef8)
-- [How to Clear Logs of a Docker Container?](https://dev.to/ankit01oss/how-to-clear-logs-of-a-docker-container-2pa3)
-- [Rollout of granular OAuth consent for Editor add-ons](https://dev.to/googleworkspace/rollout-of-granular-oauth-consent-for-editor-add-ons-3knl)
-- [15 Essential Work From Home Tips to Stay Focused and Productive](https://dev.to/teamcamp/15-essential-work-from-home-tips-to-stay-focused-and-productive-2f31)
-- [Building a Flood Monitoring Dashboard with Django &amp; React](https://dev.to/gustipermanap/building-a-flood-monitoring-dashboard-with-django-react-2m4i)
+- [Let&#39;s Sketch Identity: Authentication vs. Authorization](https://dev.to/auth0/lets-sketch-identity-authentication-vs-authorization-48kb)
+- [The Plateau Problem](https://dev.to/rawveg/the-plateau-problem-5gmc)
+- [JsonX: Mapping JSON to C Structs on Embedded Systems](https://dev.to/mihail_asd/jsonx-mapping-json-to-c-structs-on-embedded-systems-5e0o)
+- [Apache Kafka Deep Dive: Core Concepts, Data Engineering Applications, and Real-World Production Practices](https://dev.to/robbin_murithi_f75005db58/apache-kafka-deep-dive-core-concepts-data-engineering-applications-and-real-world-production-1796)
+- [Tired of Passwords? Biometric Authentication is Knocking at Your Door!](https://dev.to/karthik_n/tired-of-passwords-biometric-authentication-is-knocking-at-your-door-3omh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
