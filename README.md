@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [K-Means Clustering Exposed: What the Textbooks Leave Out](https://dev.to/sheep_dev/k-means-clustering-exposed-what-the-textbooks-leave-out-4k66)
-- [Bryan Bros Golf: We Challenged the US Junior Champion to a Match!](https://dev.to/youtube_golf/bryan-bros-golf-we-challenged-the-us-junior-champion-to-a-match-46pn)
-- [GameSpot: Saros Gameplay Reveal Trailer](https://dev.to/gg_news/gamespot-saros-gameplay-reveal-trailer-8bn)
-- [GameSpot: Deus Ex Remastered - Announce Trailer | PS5 Games](https://dev.to/gg_news/gamespot-deus-ex-remastered-announce-trailer-ps5-games-4b86)
-- [GameSpot: Battlefield 6 - Campaign Trailer | PS5 Games](https://dev.to/gg_news/gamespot-battlefield-6-campaign-trailer-ps5-games-4blh)
+- [Building a Scalable AI-Powered Fintech Platform: Architecture with Java Spring Boot and Amazon Bedrock](https://dev.to/shiv-centcapital/building-a-scalable-ai-powered-fintech-platform-architecture-with-java-spring-boot-and-amazon-25kl)
+- [Built a Discord Bot to transform your community into business value and promote your socials](https://dev.to/romo_ivaldy_49821ae91768/built-a-discord-bot-to-transform-your-community-into-business-value-and-promote-your-socials-2p1p)
+- [**Unlocking the World of Artificial Intelligence: Agents and](https://dev.to/drcarlosruizviquez/unlocking-the-world-of-artificial-intelligence-agents-and-5hl4)
+- [Cómo los perfiles JSON me ayudaron a que la IA me entendiera](https://dev.to/iblancasa/como-los-perfiles-json-me-ayudaron-a-que-la-ia-me-entendiera-12)
+- [Why I Don’t Trust Default Firewall Rules on Linux Servers | by Faruk Ahmed | Sep, 2025](https://dev.to/cyberwebpen/why-i-dont-trust-default-firewall-rules-on-linux-servers-by-faruk-ahmed-sep-2025-4f4j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
