@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;s Sketch Identity: Authentication vs. Authorization](https://dev.to/auth0/lets-sketch-identity-authentication-vs-authorization-48kb)
-- [The Plateau Problem](https://dev.to/rawveg/the-plateau-problem-5gmc)
-- [JsonX: Mapping JSON to C Structs on Embedded Systems](https://dev.to/mihail_asd/jsonx-mapping-json-to-c-structs-on-embedded-systems-5e0o)
-- [Apache Kafka Deep Dive: Core Concepts, Data Engineering Applications, and Real-World Production Practices](https://dev.to/robbin_murithi_f75005db58/apache-kafka-deep-dive-core-concepts-data-engineering-applications-and-real-world-production-1796)
-- [Tired of Passwords? Biometric Authentication is Knocking at Your Door!](https://dev.to/karthik_n/tired-of-passwords-biometric-authentication-is-knocking-at-your-door-3omh)
+- [Mastering Postgres Window Functions for Data Analysis in Supabase](https://dev.to/timothy_malche_56945869fc/mastering-postgres-window-functions-for-data-analysis-in-supabase-3o5f)
+- [Part-80: 🟢Kubernetes – Pods &amp; Multi-Container Pods](https://dev.to/latchudevops/part-80-kubernetes-pods-multi-container-pods-1o76)
+- [Webship-js: Click and See &#39;operation&#39; in &quot;text&quot; row](https://dev.to/webshipco/webship-js-click-and-see-operation-in-text-row-2l15)
+- [KEXP: Derya Yıldırım &amp; Grup Şimşek - Cool Hand &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-derya-yildirim-grup-simsek-cool-hand-live-on-kexp-nib)
+- [KEXP: Derya Yıldırım &amp; Grup Şimşek - Bal &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-derya-yildirim-grup-simsek-bal-live-on-kexp-362k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
