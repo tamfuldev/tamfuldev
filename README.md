@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Postgres Window Functions for Data Analysis in Supabase](https://dev.to/timothy_malche_56945869fc/mastering-postgres-window-functions-for-data-analysis-in-supabase-3o5f)
-- [Part-80: 🟢Kubernetes – Pods &amp; Multi-Container Pods](https://dev.to/latchudevops/part-80-kubernetes-pods-multi-container-pods-1o76)
-- [Webship-js: Click and See &#39;operation&#39; in &quot;text&quot; row](https://dev.to/webshipco/webship-js-click-and-see-operation-in-text-row-2l15)
-- [KEXP: Derya Yıldırım &amp; Grup Şimşek - Cool Hand &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-derya-yildirim-grup-simsek-cool-hand-live-on-kexp-nib)
-- [KEXP: Derya Yıldırım &amp; Grup Şimşek - Bal &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-derya-yildirim-grup-simsek-bal-live-on-kexp-362k)
+- [Authentication Tokens: Your Digital VIP Pass 🎫](https://dev.to/vishdevwork/authentication-tokens-your-digital-vip-pass-3cem)
+- [Lazy vs Eager Evaluation in JavaScript: Performance Trade-offs](https://dev.to/patoliyainfotech/lazy-vs-eager-evaluation-in-javascript-performance-trade-offs-3m7j)
+- [AI Revolution Is Redesigning UX Forever](https://dev.to/dev_resources/ai-revolution-is-redesigning-ux-forever-14e3)
+- [Boosting SaaS Performance: Speed, Uptime, and Growth at Scale](https://dev.to/aditya_c90047909cf234c949/boosting-saas-performance-speed-uptime-and-growth-at-scale-57de)
+- [Setting Up Your First Multi-Agent Test with Maia](https://dev.to/radoslawsz/setting-up-your-first-multi-agent-test-with-maia-4kab)
 <!-- BLOG-POST-LIST:END -->
 
 ---
