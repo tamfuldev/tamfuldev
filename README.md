@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Are you still calling yourself DevOps? That role won’t exist in 2026.](https://dev.to/dev_tips/are-you-still-calling-yourself-devops-that-role-wont-exist-in-2026-4pk6)
-- [Hexagonal vs Clean vs Onion: which one actually survives your app in 2026?](https://dev.to/dev_tips/hexagonal-vs-clean-vs-onion-which-one-actually-survives-your-app-in-2026-273f)
-- [🚀 Deploying a Gallery App with Docker, Jenkins, and EC2..](https://dev.to/muhammad_ishaq_955f95dfa2/deploying-a-gallery-app-with-docker-jenkins-and-ec2-2p6b)
-- [Applying Bandit SAST Tool to Secure Python Applications](https://dev.to/jefferson_rosas/applying-bandit-sast-tool-to-secure-python-applications-3ci2)
-- [5 Website Design Mistakes Startups Should Avoid in 2025](https://dev.to/justin-green/5-website-design-mistakes-startups-should-avoid-in-2025-2jgl)
+- [Markov chains are the original language models](https://dev.to/technoblogger14o3/markov-chains-are-the-original-language-models-2a65)
+- [COLORS: The Favors | A COLORS SHOW](https://dev.to/music_youtube/colors-the-favors-a-colors-show-f4b)
+- [Rick Beato: The John Fogerty Interview](https://dev.to/music_youtube/rick-beato-the-john-fogerty-interview-16oi)
+- [Bryan Bros Golf: Can We Beat the US Junior Champion?!](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-pd4)
+- [GameSpot: PlayStation State of Play September 2025 Livestream](https://dev.to/gg_news/gamespot-playstation-state-of-play-september-2025-livestream-3m47)
 <!-- BLOG-POST-LIST:END -->
 
 ---
