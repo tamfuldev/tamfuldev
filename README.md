@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [For those looking to build portfolio and gain collaborative experience: GirlHacks is running the Innovate Series 2025, a multi-week program focused on building innovative tech solutions in teams. https://www.girlhacks.net/events/innovate-series-2025](https://dev.to/shuchi_agarwal_b24d7792cc/for-those-looking-to-build-portfolio-and-gain-collaborative-experience-girlhacks-is-running-the-48om)
-- [CDK Environment Management: Static vs Dynamic Stack Creation](https://dev.to/aws-heroes/cdk-environment-management-static-vs-dynamic-stack-creation-383l)
-- [GameSpot: Marvel’s Wolverine - Behind The Claws | PS5 Games](https://dev.to/gg_news/gamespot-marvels-wolverine-behind-the-claws-ps5-games-4io8)
-- [GameSpot: Halloween - Gameplay and Release Date Reveal | PS5 Games](https://dev.to/gg_news/gamespot-halloween-gameplay-and-release-date-reveal-ps5-games-3nb2)
-- [GameSpot: Best PlayStation State of Play Trailers &lpar;September 2025&rpar;](https://dev.to/gg_news/gamespot-best-playstation-state-of-play-trailers-september-2025-1dil)
+- [How to Use AI to Generate Unit Tests &lpar;That Actually Work&rpar;](https://dev.to/jaideepparashar/how-to-use-ai-to-generate-unit-tests-that-actually-work-35pf)
+- [Quicksort explained IKEA-style](https://dev.to/technoblogger14o3/quicksort-explained-ikea-style-31p4)
+- [🚀 Orbit OS – Authentication System + Theme Overhaul &lpar;Biggest Update Yet&rpar;](https://dev.to/dailker/orbit-os-authentication-system-theme-overhaul-biggest-update-yet-4ndl)
+- [# Build an Interactive Sales Chart with Plotly](https://dev.to/daisyauma/-build-an-interactive-sales-chart-with-plotly-2gg9)
+- [GameSpot: 8 Tips We Wish We Knew Before Playing Hades 2](https://dev.to/gg_news/gamespot-8-tips-we-wish-we-knew-before-playing-hades-2-4pdo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
