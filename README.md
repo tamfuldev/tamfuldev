@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [TCJSGame Movement Utilities: Complete Reference Guide](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-movement-utilities-complete-reference-guide-30o5)
-- [Enhancing quantum factorization through adaptive period finding](https://dev.to/stevenrugg/enhancing-quantum-factorization-through-adaptive-period-finding-4dil)
-- [🚀 Building a Sandbox Data Warehouse with Snowflake + GitHub Actions &lpar;Part 2&rpar;](https://dev.to/qvfagundes/building-a-sandbox-data-warehouse-with-snowflake-github-actions-part-2-51dn)
-- [AI-RateMyProfessors App](https://dev.to/tohmze/ai-ratemyprofessors-app-nfp)
-- [STM32 Internal Temperature Sensor Reading &lpar;With DMA + Timer Trigger&rpar; — Complete Guide &amp; Example Code](https://dev.to/ai_pics_6442ad429fc2ff12f/stm32-internal-temperature-sensor-reading-with-dma-timer-trigger-complete-guide-example-code-cjk)
+- [Performance Tuning for Node.js APIs: Caching, Indexes &amp; Async](https://dev.to/ramer2b58cbe46bc8/performance-tuning-for-nodejs-apis-caching-indexes-async-40p3)
+- [IGN: Petit Planet - Official Announcement Trailer](https://dev.to/gg_news/ign-petit-planet-official-announcement-trailer-4ge1)
+- [7 Tips for Hardened Nginx TLS Deployments on High‑Traffic Sites](https://dev.to/ramer2b58cbe46bc8/7-tips-for-hardened-nginx-tls-deployments-on-high-traffic-sites-56jc)
+- [AI coding anti-patterns: 6 things to avoid for better AI coding](https://dev.to/lingodotdev/ai-coding-anti-patterns-6-things-to-avoid-for-better-ai-coding-f3e)
+- [Part-81: Kubernetes — PODs &lpar;Imperative Way&rpar; Demo](https://dev.to/latchudevops/part-81-kubernetes-pods-imperative-way-demo-5al4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
