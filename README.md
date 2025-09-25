@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Thee Marloes - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-full-performance-live-on-kexp-20h3)
-- [Golf.com: The Ryder Cup&#39;s Unusual Custom Merch You Know Nothing About](https://dev.to/youtube_golf/golfcom-the-ryder-cups-unusual-custom-merch-you-know-nothing-about-4pl7)
-- [IGN: Avatar: Fire and Ash - Official Trailer #2 &lpar;2025&rpar; Sam Worthington, Zoe Saldaña, Sigourney Weaver](https://dev.to/gg_news/ign-avatar-fire-and-ash-official-trailer-2-2025-sam-worthington-zoe-saldana-sigourney-3bn3)
-- [IGN: NAMMO - Official Announcement Trailer](https://dev.to/gg_news/ign-nammo-official-announcement-trailer-2713)
-- [IGN: Fire Emblem Shadows - Official Launch Trailer](https://dev.to/gg_news/ign-fire-emblem-shadows-official-launch-trailer-jp8)
+- [Evolução da linguagem Java &lpar;parte 2&rpar;](https://dev.to/cesarpaulomp/evolucao-da-linguagem-java-parte-2-mff)
+- [5 Website Mistakes That Cost Plumbing Companies New Customers](https://dev.to/abdul_rehmandev/5-website-mistakes-that-cost-plumbing-companies-new-customers-5gc9)
+- [How I Built a Lightning-Fast Excel-Like Spreadsheet in React &lpar;That Renders 100,000+ Cells!&rpar;](https://dev.to/sojinantony01/how-i-built-a-lightning-fast-excel-like-spreadsheet-in-react-that-renders-100000-cells-1jkk)
+- [What is Power BI?](https://dev.to/e77/what-is-power-bi-ifp)
+- [How Structured Logging with AWS CloudWatch &amp; Sentry Changed the Way I Debug Laravel Apps](https://dev.to/vikaschandrab/how-structured-logging-with-aws-cloudwatch-sentry-changed-the-way-i-debug-laravel-apps-khg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
