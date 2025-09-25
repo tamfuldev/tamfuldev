@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: 10 Minutes of Yakuza Kiwami 3 Gameplay | TGS 2025](https://dev.to/gg_news/gamespot-10-minutes-of-yakuza-kiwami-3-gameplay-tgs-2025-4c3o)
-- [IGN: Color Breakers 2 – Official Switch Pre-Order Trailer](https://dev.to/gg_news/ign-color-breakers-2-official-switch-pre-order-trailer-34ek)
-- [IGN: Code Vein 2 - Official Gameplay Overview](https://dev.to/gg_news/ign-code-vein-2-official-gameplay-overview-4of4)
-- [IGN: Arknights: Endfield - Official PS5 Pro Gameplay Prologue Demo](https://dev.to/gg_news/ign-arknights-endfield-official-ps5-pro-gameplay-prologue-demo-c8a)
-- [IGN: Hades 2 - Official Gameplay Launch Trailer](https://dev.to/gg_news/ign-hades-2-official-gameplay-launch-trailer-2djn)
+- [Understanding Bias Risks in Multi-Tool AI Agents](https://dev.to/shieldstring/understanding-bias-risks-in-multi-tool-ai-agents-4m84)
+- [Blooket Bot](https://dev.to/zegham_ali_87389465b32f38/blooket-bot-63c)
+- [Why Gyms Need AI Personal Trainers: The Future of Fitness Coaching](https://dev.to/drcarlosruizviquez/why-gyms-need-ai-personal-trainers-the-future-of-fitness-coaching-56l7)
+- [Learn Bash Scripting With Me 🚀 - Day 7](https://dev.to/babsarena/learn-bash-scripting-with-me-day-7-40nc)
+- [Our Java MCP Agent in Action: A Demo and the Results](https://dev.to/gazolla/our-java-mcp-agent-in-action-a-demo-and-the-results-4dlh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
