@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Scalable AI-Powered Fintech Platform: Architecture with Java Spring Boot and Amazon Bedrock](https://dev.to/shiv-centcapital/building-a-scalable-ai-powered-fintech-platform-architecture-with-java-spring-boot-and-amazon-25kl)
-- [Built a Discord Bot to transform your community into business value and promote your socials](https://dev.to/romo_ivaldy_49821ae91768/built-a-discord-bot-to-transform-your-community-into-business-value-and-promote-your-socials-2p1p)
-- [**Unlocking the World of Artificial Intelligence: Agents and](https://dev.to/drcarlosruizviquez/unlocking-the-world-of-artificial-intelligence-agents-and-5hl4)
-- [Cómo los perfiles JSON me ayudaron a que la IA me entendiera](https://dev.to/iblancasa/como-los-perfiles-json-me-ayudaron-a-que-la-ia-me-entendiera-12)
-- [Why I Don’t Trust Default Firewall Rules on Linux Servers | by Faruk Ahmed | Sep, 2025](https://dev.to/cyberwebpen/why-i-dont-trust-default-firewall-rules-on-linux-servers-by-faruk-ahmed-sep-2025-4f4j)
+- [For those looking to build portfolio and gain collaborative experience: GirlHacks is running the Innovate Series 2025, a multi-week program focused on building innovative tech solutions in teams. https://www.girlhacks.net/events/innovate-series-2025](https://dev.to/shuchi_agarwal_b24d7792cc/for-those-looking-to-build-portfolio-and-gain-collaborative-experience-girlhacks-is-running-the-48om)
+- [CDK Environment Management: Static vs Dynamic Stack Creation](https://dev.to/aws-heroes/cdk-environment-management-static-vs-dynamic-stack-creation-383l)
+- [GameSpot: Marvel’s Wolverine - Behind The Claws | PS5 Games](https://dev.to/gg_news/gamespot-marvels-wolverine-behind-the-claws-ps5-games-4io8)
+- [GameSpot: Halloween - Gameplay and Release Date Reveal | PS5 Games](https://dev.to/gg_news/gamespot-halloween-gameplay-and-release-date-reveal-ps5-games-3nb2)
+- [GameSpot: Best PlayStation State of Play Trailers &lpar;September 2025&rpar;](https://dev.to/gg_news/gamespot-best-playstation-state-of-play-trailers-september-2025-1dil)
 <!-- BLOG-POST-LIST:END -->
 
 ---
