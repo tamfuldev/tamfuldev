@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Privacy for subdomains: the problem](https://dev.to/nfrankel/privacy-for-subdomains-the-problem-18ek)
-- [Master React :](https://dev.to/dev_abdulhaseeb/master-react--23lk)
-- [Rust Send and Sync in Simple terms](https://dev.to/masteringbackend/rust-send-and-sync-in-simple-terms-2njp)
-- [CI/CD is Dead. Platform Engineering Killed It.](https://dev.to/leonardkachi/cicd-is-dead-platform-engineering-killed-it-bmb)
-- [Docker for VMs: &quot;Works on all Machines&quot; with eryph](https://dev.to/frank_wagner_db8544544684/docker-for-vms-works-on-all-machines-with-eryph-3ce6)
+- [How to Design an Engaging Splash Page with Practical Examples](https://dev.to/lollypopdesign/how-to-design-an-engaging-splash-page-with-practical-examples-528j)
+- [NPR Music: Chuwi: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-chuwi-tiny-desk-concert-1koo)
+- [The Ultimate Checklist for Zero‑Downtime Deploys with Docker &amp; Nginx](https://dev.to/ramer2b58cbe46bc8/the-ultimate-checklist-for-zero-downtime-deploys-with-docker-nginx-50cb)
+- [Agentic AI Observability with Amazon CloudWatch: Transforming Enterprise AI Monitoring](https://dev.to/acmopm/agentic-ai-observability-with-amazon-cloudwatch-transforming-enterprise-ai-monitoring-for-the-28k6)
+- [Translation KPIs for Translation Management Success](https://dev.to/colinreed/translation-kpis-for-translation-management-success-511a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
