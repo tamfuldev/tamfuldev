@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🍲 Part 3: Advanced Iteration Tricks](https://dev.to/anik_sikder_313/part-3-advanced-iteration-tricks-2d6k)
-- [How to Create an EC2 VM in AWS &lpar;Step-by-Step Guide for Beginners&rpar;](https://dev.to/ibrahimbioabu/how-to-create-an-ec2-vm-in-aws-step-by-step-guide-for-beginners-481)
-- [Apache Kafka — Deep Dive: Core Concepts, Data-Engineering Applications, and Real-World Production Practices](https://dev.to/kemboijebby/apache-kafka-deep-dive-core-concepts-data-engineering-applications-and-real-world-production-1il3)
-- [How to Insert Sound in HTML](https://dev.to/udanielnogueira/how-to-insert-sound-in-html-3edg)
-- [Private Certificate Authorities: Building Trust Inside Your Organization](https://dev.to/dcs-soni/private-certificate-authorities-building-trust-inside-your-organization-4dkk)
+- [KEXP: Thee Marloes - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-full-performance-live-on-kexp-20h3)
+- [Golf.com: The Ryder Cup&#39;s Unusual Custom Merch You Know Nothing About](https://dev.to/youtube_golf/golfcom-the-ryder-cups-unusual-custom-merch-you-know-nothing-about-4pl7)
+- [IGN: Avatar: Fire and Ash - Official Trailer #2 &lpar;2025&rpar; Sam Worthington, Zoe Saldaña, Sigourney Weaver](https://dev.to/gg_news/ign-avatar-fire-and-ash-official-trailer-2-2025-sam-worthington-zoe-saldana-sigourney-3bn3)
+- [IGN: NAMMO - Official Announcement Trailer](https://dev.to/gg_news/ign-nammo-official-announcement-trailer-2713)
+- [IGN: Fire Emblem Shadows - Official Launch Trailer](https://dev.to/gg_news/ign-fire-emblem-shadows-official-launch-trailer-jp8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
