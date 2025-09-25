@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [When the Music Stops](https://dev.to/rawveg/when-the-music-stops-4bf0)
-- [Experimenting with Terraform in YAML](https://dev.to/totegamma/experimenting-with-terraform-in-yaml-1h37)
-- [Building coding education that actually works for Arabic speakers](https://dev.to/lubab/building-coding-education-that-actually-works-for-arabic-speakers-nmc)
-- [Video and Audio Automation: A Complete Guide with Descript + n8n](https://dev.to/alifar/video-and-audio-automation-a-complete-guide-with-descript-n8n-o6d)
-- [Implementing a Retrieval-Augmented Generation &lpar;RAG&rpar; Chatbot with LangChain, Firebase, and Pinecone](https://dev.to/tejhagargi/implementing-a-retrieval-augmented-generation-rag-chatbot-with-langchain-firebase-and-pinecone-3pm4)
+- [released: active_record_compose 1.0.0 — Wrap multiple models with an ActiveModel interface](https://dev.to/hamajyotan/released-activerecordcompose-100-wrap-multiple-models-with-an-activemodel-interface-347a)
+- [🚀 Day 25 of My Python Learning Journey](https://dev.to/_adii3107/day-25-of-my-python-learning-journey-2j8b)
+- [What is a JavaScript Bundler?](https://dev.to/izmroen/what-is-a-javascript-bundler-16h2)
+- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-b3d)
+- [KEXP: Thee Marloes - Not Today &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-not-today-live-on-kexp-26fb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
