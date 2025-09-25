@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [released: active_record_compose 1.0.0 — Wrap multiple models with an ActiveModel interface](https://dev.to/hamajyotan/released-activerecordcompose-100-wrap-multiple-models-with-an-activemodel-interface-347a)
-- [🚀 Day 25 of My Python Learning Journey](https://dev.to/_adii3107/day-25-of-my-python-learning-journey-2j8b)
-- [What is a JavaScript Bundler?](https://dev.to/izmroen/what-is-a-javascript-bundler-16h2)
-- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-b3d)
-- [KEXP: Thee Marloes - Not Today &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-not-today-live-on-kexp-26fb)
+- [Tokenization and Blockchain Building the Architecture of Future Trade Finance Infrastructure](https://dev.to/albert_beckles_a6207bb8e1/tokenization-and-blockchain-building-the-architecture-of-future-trade-finance-infrastructure-6i)
+- [Understanding Callback Functions in JavaScript](https://dev.to/rowleks/understanding-callback-functions-in-javascript-1fk0)
+- [10 Mistakes I Made Early in My Full-Stack Career &lpar;And What You Can Learn From Them](https://dev.to/sandeeppall/10-mistakes-i-made-early-in-my-full-stack-career-and-what-you-can-learn-from-them-481c)
+- [Tips for Growing Your Career as a Remote Data Scientist](https://dev.to/daniel_martin_82a44024fe2/tips-for-growing-your-career-as-a-remote-data-scientist-5d69)
+- [How I Still Partition My Drives for Streamlined Backup, Migration, and Failure Recovery](https://dev.to/pchemguy/how-i-still-partition-my-drives-for-streamlined-backup-migration-and-failure-recovery-3pj7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
