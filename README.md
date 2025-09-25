@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use AI to Generate Unit Tests &lpar;That Actually Work&rpar;](https://dev.to/jaideepparashar/how-to-use-ai-to-generate-unit-tests-that-actually-work-35pf)
-- [Quicksort explained IKEA-style](https://dev.to/technoblogger14o3/quicksort-explained-ikea-style-31p4)
-- [🚀 Orbit OS – Authentication System + Theme Overhaul &lpar;Biggest Update Yet&rpar;](https://dev.to/dailker/orbit-os-authentication-system-theme-overhaul-biggest-update-yet-4ndl)
-- [# Build an Interactive Sales Chart with Plotly](https://dev.to/daisyauma/-build-an-interactive-sales-chart-with-plotly-2gg9)
-- [GameSpot: 8 Tips We Wish We Knew Before Playing Hades 2](https://dev.to/gg_news/gamespot-8-tips-we-wish-we-knew-before-playing-hades-2-4pdo)
+- [TCJSGame Movement Utilities: Complete Reference Guide](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-movement-utilities-complete-reference-guide-30o5)
+- [Enhancing quantum factorization through adaptive period finding](https://dev.to/stevenrugg/enhancing-quantum-factorization-through-adaptive-period-finding-4dil)
+- [🚀 Building a Sandbox Data Warehouse with Snowflake + GitHub Actions &lpar;Part 2&rpar;](https://dev.to/qvfagundes/building-a-sandbox-data-warehouse-with-snowflake-github-actions-part-2-51dn)
+- [AI-RateMyProfessors App](https://dev.to/tohmze/ai-ratemyprofessors-app-nfp)
+- [STM32 Internal Temperature Sensor Reading &lpar;With DMA + Timer Trigger&rpar; — Complete Guide &amp; Example Code](https://dev.to/ai_pics_6442ad429fc2ff12f/stm32-internal-temperature-sensor-reading-with-dma-timer-trigger-complete-guide-example-code-cjk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
