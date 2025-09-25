@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [C# LeetCode 268: Missing Number - &lpar;Easy&rpar;](https://dev.to/grantdotdev/c-leetcode-268-missing-number-easy-2ogc)
-- [ChatGPT Pulse: Turning AI into a Proactive Assistant for Developers](https://dev.to/alifar/chatgpt-pulse-turning-ai-into-a-proactive-assistant-for-developers-3hk8)
-- [From Chaos to Clarity: How I Built CrammAI, the AI Study Copilot I Wish I Had in University](https://dev.to/kareemblessed/from-chaos-to-clarity-how-i-built-crammai-the-ai-study-copilot-i-wish-i-had-in-university-64m)
-- [Stategraph: Terraform state as a distributed systems problem](https://dev.to/josh_pollara_2f8bb369b3f3/stategraph-terraform-state-as-a-distributed-systems-problem-hlm)
-- [Exploring the Benefits of Using a Dedicated File Uploader Library](https://dev.to/ideradevtools/exploring-the-benefits-of-using-a-dedicated-file-uploader-library-3c4f)
+- [GameSpot: 10 Minutes of Yakuza Kiwami 3 Gameplay | TGS 2025](https://dev.to/gg_news/gamespot-10-minutes-of-yakuza-kiwami-3-gameplay-tgs-2025-4c3o)
+- [IGN: Color Breakers 2 – Official Switch Pre-Order Trailer](https://dev.to/gg_news/ign-color-breakers-2-official-switch-pre-order-trailer-34ek)
+- [IGN: Code Vein 2 - Official Gameplay Overview](https://dev.to/gg_news/ign-code-vein-2-official-gameplay-overview-4of4)
+- [IGN: Arknights: Endfield - Official PS5 Pro Gameplay Prologue Demo](https://dev.to/gg_news/ign-arknights-endfield-official-ps5-pro-gameplay-prologue-demo-c8a)
+- [IGN: Hades 2 - Official Gameplay Launch Trailer](https://dev.to/gg_news/ign-hades-2-official-gameplay-launch-trailer-2djn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
