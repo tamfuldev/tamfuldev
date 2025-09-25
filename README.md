@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Evolução da linguagem Java &lpar;parte 2&rpar;](https://dev.to/cesarpaulomp/evolucao-da-linguagem-java-parte-2-mff)
-- [5 Website Mistakes That Cost Plumbing Companies New Customers](https://dev.to/abdul_rehmandev/5-website-mistakes-that-cost-plumbing-companies-new-customers-5gc9)
-- [How I Built a Lightning-Fast Excel-Like Spreadsheet in React &lpar;That Renders 100,000+ Cells!&rpar;](https://dev.to/sojinantony01/how-i-built-a-lightning-fast-excel-like-spreadsheet-in-react-that-renders-100000-cells-1jkk)
-- [What is Power BI?](https://dev.to/e77/what-is-power-bi-ifp)
-- [How Structured Logging with AWS CloudWatch &amp; Sentry Changed the Way I Debug Laravel Apps](https://dev.to/vikaschandrab/how-structured-logging-with-aws-cloudwatch-sentry-changed-the-way-i-debug-laravel-apps-khg)
+- [📰 Major Tech News: September 25, 2025](https://dev.to/om_shree_0709/major-tech-news-september-25-2025-5h38)
+- [How Do I Integrate Teams with Office 365? &lpar;A Simple Guide with Microsoft Teams Integration&rpar;](https://dev.to/my365apps/how-do-i-integrate-teams-with-office-365-a-simple-guide-with-microsoft-teams-integration-33e9)
+- [Andrew Huang: The most innovative music tools of 2025!](https://dev.to/music_youtube/andrew-huang-the-most-innovative-music-tools-of-2025-37mg)
+- [KEXP: Thee Marloes - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-full-performance-live-on-kexp-10ei)
+- [Building a Simple Unit Converter? Learn from the Pros &lpar;and a costly mistake&rpar;](https://dev.to/unitly/building-a-simple-unit-converter-learn-from-the-pros-and-a-costly-mistake-294)
 <!-- BLOG-POST-LIST:END -->
 
 ---
