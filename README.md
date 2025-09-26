@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-16om)
-- [KEXP: Nation of Language - In Another Life &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-nation-of-language-in-another-life-live-on-kexp-5gfn)
-- [KEXP: Nation of Language - Under The Water &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-nation-of-language-under-the-water-live-on-kexp-4l56)
-- [KEXP: Nation of Language - I&#39;m Not Ready For The Change &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-nation-of-language-im-not-ready-for-the-change-live-on-kexp-50ak)
-- [KEXP: Nation of Language - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-nation-of-language-full-performance-live-on-kexp-21ng)
+- [Arquitetura REST: Conceitos e Aplicações](https://dev.to/gustavo_dias_8fec767000ad/arquitetura-rest-conceitos-e-aplicacoes-3pca)
+- [Evolução da linguagem Java &lpar;parte 3&rpar;](https://dev.to/cesarpaulomp/evolucao-da-linguagem-java-parte-3-2koo)
+- [‍ Plasma Foundation | Over USD 2.4B TVL &amp; 54.02% APY, XPL and Staking Rewards](https://dev.to/plasmafdn/plasma-foundation-over-usd-24b-tvl-5402-apy-xpl-and-staking-rewards-4828)
+- [The Dos and Don’ts of Designing an Efficient Tableau Dashboard](https://dev.to/thedatageek/the-dos-and-donts-of-designing-an-efficient-tableau-dashboard-5g73)
+- [[Boost]](https://dev.to/cescquintero/-49l1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
