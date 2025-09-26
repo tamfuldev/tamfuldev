@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Andrew Huang: The most innovative music tools of 2025!](https://dev.to/music_youtube/andrew-huang-the-most-innovative-music-tools-of-2025-c6g)
-- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-4i9f)
-- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-2gh7)
-- [KEXP: Thee Marloes - I&#39;d Be Lost &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-id-be-lost-live-on-kexp-1p77)
-- [KEXP: Thee Marloes - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-full-performance-live-on-kexp-23me)
+- [Tired of Slow Uploads? Transfer Files Instantly Over LAN with This Simple Tool](https://dev.to/__adab353d48e057eb1a1e7/tired-of-slow-uploads-transfer-files-instantly-over-lan-with-this-simple-tool-1ikd)
+- [A Vontade do Dev: Como o Open Source Está Unindo Tripulações para Encontrar o &quot;One Piece&quot; da Tecnologia](https://dev.to/melettz1/a-vontade-do-dev-como-o-open-source-esta-unindo-tripulacoes-para-encontrar-o-one-piece-da-22i3)
+- [USA Announces Thousands of New Work Visas for 2025 — What It Means](https://dev.to/trenzy360world/usa-announces-thousands-of-new-work-visas-for-2025-what-it-means-10jo)
+- [GitKraken MCP: Supercharging Your AI Development Workflow](https://dev.to/manjushsh/gitkraken-mcp-supercharging-your-ai-development-workflow-29if)
+- [Pipetype: TypeScript Unions Bitwise Operators, and My Favorite Failed Experiment](https://dev.to/overthemike/pipetype-typescript-unions-bitwise-operators-and-my-favorite-failed-experiment-1cbk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
