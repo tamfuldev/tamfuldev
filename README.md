@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Web Dev Cybersecurity: Securing Login Flows Beyond ZAP’s Reach.](https://dev.to/piyush_bhadane/web-dev-x-cybersecurity-securing-login-flows-beyond-zaps-reach-6co)
-- [7 Tips for Optimizing Docker Images and Build Times on CI/CD Pipelines](https://dev.to/ramer2b58cbe46bc8/7-tips-for-optimizing-docker-images-and-build-times-on-cicd-pipelines-54g8)
-- [Kadane&#39;s Algorithm](https://dev.to/zeyadeissa/kadanes-algorithm-3om7)
-- [Introduction to CI/CD](https://dev.to/locnguyenpv/introduction-to-cicd-2nfg)
-- [Random Refection](https://dev.to/bugsite_melancholy/random-refection-d74)
+- [Getting Started with MCP: Connecting Clients &amp; 10 Essential MCPs you should try](https://dev.to/jefreesujit/getting-started-with-mcp-connecting-clients-10-essential-mcps-you-should-try-3a5)
+- [Tracking Power Outages with Raspberry Pi + ESP32 + Telegram](https://dev.to/cray2015/tracking-power-outages-with-raspberry-pi-esp32-telegram-5hdo)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-32p8)
+- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-169a)
+- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-3jo4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
