@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Comprehensive Reddit CLI Tool: From Basic Posting to Full Reddit Management with 33+ Commands](https://dev.to/vishwaraja_pathivishwa/building-a-comprehensive-reddit-cli-tool-from-basic-posting-to-full-reddit-management-with-33-533f)
-- [A Few Simple Introductions to ZoomEye Pages](https://dev.to/rrrowan/a-few-simple-introductions-to-zoomeye-pages-5174)
-- [How to Make Your Mongoose Models Smarter and Your Code Cleaner with Setters, Getters, and More](https://dev.to/og_wunderkind/how-to-make-your-mongoose-models-smarter-and-your-code-cleaner-with-setters-getters-and-more-22ag)
-- [AI at the Edge: Why Hardware and Embedded AI Will Decide the Next Decade](https://dev.to/rikulauttia/ai-at-the-edge-why-hardware-and-embedded-ai-will-decide-the-next-decade-l57)
-- [Why Sustainable Software Engineering Should Be on Every Organization’s Agenda](https://dev.to/samira_talebi_cca34ce28b8/green-software-engineering-pii)
+- [Andrew Huang: The most innovative music tools of 2025!](https://dev.to/music_youtube/andrew-huang-the-most-innovative-music-tools-of-2025-2ahb)
+- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-37g0)
+- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-3897)
+- [KEXP: Thee Marloes - I&#39;d Be Lost &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-id-be-lost-live-on-kexp-23kd)
+- [KEXP: Thee Marloes - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-full-performance-live-on-kexp-4j7c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
