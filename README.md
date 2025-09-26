@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a Simple App on ECS with Fargate &amp; Terraform using AWS Community Modules](https://dev.to/aws-builders/deploying-a-simple-app-on-ecs-with-fargate-terraform-using-community-modules-e0b)
-- [Andrew Huang: The most innovative music tools of 2025!](https://dev.to/music_youtube/andrew-huang-the-most-innovative-music-tools-of-2025-4abm)
-- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-3dl3)
-- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-3ela)
-- [KEXP: Thee Marloes - I&#39;d Be Lost &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-id-be-lost-live-on-kexp-1c7h)
+- [Top 10 Codex CLI Tips Every Developer Should Know](https://dev.to/therealmrmumba/top-10-codex-cli-tips-every-developer-should-know-2340)
+- [使用 pm2.web 建立免費 PM2 監控系統](https://dev.to/letswrite/shi-yong-pm2web-jian-li-mian-fei-pm2-jian-kong-xi-tong-5dim)
+- [IoT Smart Irrigation: Boost Yields &amp; Cut Water Waste](https://dev.to/nirav_panchal_e531c758f1d/iot-smart-irrigation-boost-yields-cut-water-waste-309c)
+- [The Ultimate Checklist for Zero‑Downtime Deploys with Docker and Nginx](https://dev.to/ramer2b58cbe46bc8/the-ultimate-checklist-for-zero-downtime-deploys-with-docker-and-nginx-22fc)
+- [The Big AI Hype: What’s Really Behind the Name](https://dev.to/marikinyo/the-big-ai-hype-whats-really-behind-the-name-1bem)
 <!-- BLOG-POST-LIST:END -->
 
 ---
