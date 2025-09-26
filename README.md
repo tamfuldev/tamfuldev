@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Arquitetura REST: Conceitos e Aplicações](https://dev.to/gustavo_dias_8fec767000ad/arquitetura-rest-conceitos-e-aplicacoes-3pca)
-- [Evolução da linguagem Java &lpar;parte 3&rpar;](https://dev.to/cesarpaulomp/evolucao-da-linguagem-java-parte-3-2koo)
-- [‍ Plasma Foundation | Over USD 2.4B TVL &amp; 54.02% APY, XPL and Staking Rewards](https://dev.to/plasmafdn/plasma-foundation-over-usd-24b-tvl-5402-apy-xpl-and-staking-rewards-4828)
-- [The Dos and Don’ts of Designing an Efficient Tableau Dashboard](https://dev.to/thedatageek/the-dos-and-donts-of-designing-an-efficient-tableau-dashboard-5g73)
-- [[Boost]](https://dev.to/cescquintero/-49l1)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-11gi)
+- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-emh)
+- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-3073)
+- [How to generate an APK and an AAB file on a .NET 8 MAUI app and publish on the Google Play Store](https://dev.to/injamulcse15/how-to-generate-an-apk-and-an-aab-file-on-a-net-8-maui-app-and-publish-on-the-google-play-store-1igl)
+- [KEXP: Nation of Language - In Another Life &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-nation-of-language-in-another-life-live-on-kexp-4j2c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
