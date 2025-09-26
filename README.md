@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI Titans Battle for the Next Generation: Freebies Flood College Campuses](https://dev.to/aiwithapex/ai-titans-battle-for-the-next-generation-freebies-flood-college-campuses-2749)
-- [The 5-3-1 Code Review Rule: Senior Developer&#39;s Guide to Quality Control](https://dev.to/teamcamp/the-5-3-1-code-review-rule-senior-developers-guide-to-quality-control-4b5h)
-- [A TypeScript Journey: When Type Safety Feels Like a Safety Harness… and Sometimes a 10 kg Stone on Your Feet](https://dev.to/nadkarnigaurav/a-typescript-journey-when-type-safety-feels-like-a-safety-harness-and-sometimes-a-10-kg-stone-on-35kn)
-- [Useful MYSQL functions](https://dev.to/sadiul_hakim/useful-mysql-functions-4gl9)
-- [Understanding Uniface xmlsave: Exporting Data to XML Streams 🚀](https://dev.to/petercode/understanding-uniface-xmlsave-exporting-data-to-xml-streams-5h7j)
+- [Supercharge Your i18next Workflow with the All-New i18next-cli](https://dev.to/adrai/supercharge-your-i18next-workflow-with-the-all-new-i18next-cli-341p)
+- [Andrew Huang: The most innovative music tools of 2025!](https://dev.to/music_youtube/andrew-huang-the-most-innovative-music-tools-of-2025-4ed3)
+- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-2o8)
+- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-5gl1)
+- [KEXP: Thee Marloes - I&#39;d Be Lost &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-id-be-lost-live-on-kexp-1m2i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
