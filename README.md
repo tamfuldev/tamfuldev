@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Cache Multi-Nível com FusionCache em Aplicações .NET 8](https://dev.to/obrusilva/cache-multi-nivel-com-fusioncache-em-aplicacoes-net-8-4hdo)
-- [Enhancing Open-Source Security &amp; Education with AI and Gamification — OWASP BLT GSoC 2025 Highlights](https://dev.to/donnieblt/enhancing-open-source-security-education-with-ai-and-gamification-owasp-blt-gsoc-2025-highlights-22lc)
-- [Too busy for friends? Try Friendship 1:1s](https://dev.to/pedromassango/too-busy-for-friends-try-friendship-11s-g5d)
-- [IGN: Greenland 2: Migration - Official Trailer &lpar;2025&rpar; Gerard Butler](https://dev.to/gg_news/ign-greenland-2-migration-official-trailer-2025-gerard-butler-4h55)
-- [C++ References Tutorial: Complete Guide to Aliases, Performance, and Modern C++ &lpar;2025&rpar;](https://dev.to/bashtech1/c-references-tutorial-complete-guide-to-aliases-performance-and-modern-c-2025-509h)
+- [Andrew Huang: The most innovative music tools of 2025!](https://dev.to/music_youtube/andrew-huang-the-most-innovative-music-tools-of-2025-c6g)
+- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-4i9f)
+- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-2gh7)
+- [KEXP: Thee Marloes - I&#39;d Be Lost &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-id-be-lost-live-on-kexp-1p77)
+- [KEXP: Thee Marloes - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-full-performance-live-on-kexp-23me)
 <!-- BLOG-POST-LIST:END -->
 
 ---
