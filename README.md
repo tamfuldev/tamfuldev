@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Hollow Knight Silksong - How to Beat the Last Judge &lpar;Or Skip Him Entirely!&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-how-to-beat-the-last-judge-or-skip-him-entirely-1nl7)
-- [IGN: Magic: The Gathering x Star Trek - Official Teaser Trailer](https://dev.to/gg_news/ign-magic-the-gathering-x-star-trek-official-teaser-trailer-4adm)
-- [IGN: Diablo 4 x StarCraft - Official Trailer](https://dev.to/gg_news/ign-diablo-4-x-starcraft-official-trailer-12m3)
-- [IGN: Hollow Knight: Silksong Boss Fight - Battle Arena/Locked Room &lpar;High Halls, Conductor&#39;s Melody&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-boss-fight-battle-arenalocked-room-high-halls-conductors-melody-3mgb)
-- [IGN: Hollow Knight Silksong: How to Negate Poison - Wreath of Purity Location](https://dev.to/gg_news/ign-hollow-knight-silksong-how-to-negate-poison-wreath-of-purity-location-5g2l)
+- [Part-91: 🚀 Google Kubernetes Engine &lpar;GKE&rpar; - Node Pools &amp; Node Selectors](https://dev.to/latchudevops/part-91-google-kubernetes-engine-gke-node-pools-node-selectors-50k3)
+- [S — Slice to Essentials &lpar;build the thin slice&rpar;](https://dev.to/codebrainr/s-slice-to-essentials-build-the-thin-slice-4b18)
+- [Why Technical Writing is a Superpower in 2025](https://dev.to/envitab/why-technical-writing-is-a-superpower-in-2025-3ep1)
+- [🌐 Understanding CORS &lpar;Cross-Origin Resource Sharing&rpar;: A Complete Guide](https://dev.to/fazal_mansuri_/understanding-cors-cross-origin-resource-sharing-a-complete-guide-5gbg)
+- [Check out my app called pdf snippets](https://dev.to/abhishek_hadpad_6b54a621f/check-out-my-app-called-pdf-snippets-861)
 <!-- BLOG-POST-LIST:END -->
 
 ---
