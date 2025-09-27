@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [7 Tips for Web Hosting and Domain Success in Startups 2025](https://dev.to/ramer2b58cbe46bc8/7-tips-for-web-hosting-and-domain-success-in-startups-2025-300)
-- [Gettemplate.website](https://dev.to/shreyvijayvargiya/gettemplatewebsite-20pk)
-- [Understanding GitLab Scheduled Pipelines and YAML Configuration](https://dev.to/mrcaption49/understanding-gitlab-scheduled-pipelines-and-yaml-configuration-4ch3)
-- [JupyterLab Kendo Grid Extension for Pandas DataFrames](https://dev.to/member_29cf5563/jupyterlab-kendo-grid-extension-for-pandas-dataframes-57kk)
-- [Part-88: 🔄 Kubernetes Deployment Updates &amp; Rollout Verification in GCP &lpar;Google Kubernetes Engine&rpar;](https://dev.to/latchudevops/part-88-kubernetes-deployment-updates-rollout-verification-in-gcp-google-kubernetes-engine-1920)
+- [IGN: Hollow Knight Silksong - How to Beat the Last Judge &lpar;Or Skip Him Entirely!&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-how-to-beat-the-last-judge-or-skip-him-entirely-1nl7)
+- [IGN: Magic: The Gathering x Star Trek - Official Teaser Trailer](https://dev.to/gg_news/ign-magic-the-gathering-x-star-trek-official-teaser-trailer-4adm)
+- [IGN: Diablo 4 x StarCraft - Official Trailer](https://dev.to/gg_news/ign-diablo-4-x-starcraft-official-trailer-12m3)
+- [IGN: Hollow Knight: Silksong Boss Fight - Battle Arena/Locked Room &lpar;High Halls, Conductor&#39;s Melody&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-boss-fight-battle-arenalocked-room-high-halls-conductors-melody-3mgb)
+- [IGN: Hollow Knight Silksong: How to Negate Poison - Wreath of Purity Location](https://dev.to/gg_news/ign-hollow-knight-silksong-how-to-negate-poison-wreath-of-purity-location-5g2l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
