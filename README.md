@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dev Log #1 — Mirage / Apate: Field Notes from the First Brick](https://dev.to/hrisheekesh_pv_cc89484f09/dev-log-1-mirage-apate-field-notes-from-the-first-brick-3c91)
-- [Why Software Developers/Engineers Don’t Matter Anymore](https://dev.to/mosbat/why-software-developersengineers-dont-matter-anymore-j1p)
-- [Arquitetura em camadas](https://dev.to/luiz_ad03ef35bcbb722a0c44/arquitetura-em-camadas-31j4)
-- [😎5 Quick LinkedIn Hacks to Find Jobs Faster &lpar;Step-by-Step&rpar;](https://dev.to/joyobaidu/5-quick-linkedin-hacks-to-find-jobs-faster-step-by-step-8m4)
-- [How To Build A Note Taking Application With JavaScript](https://dev.to/henry_messiahtmt_099ca84/how-to-build-a-note-taking-application-with-javascript-4053)
+- [REST API](https://dev.to/octviodemos/rest-api-5h7b)
+- [Git Basic commands and use](https://dev.to/rupeshdarimisetti/git-basic-commands-and-use-1m2k)
+- [How to Use the CSS aspect-ratio Property for Responsive Layouts](https://dev.to/j3rry320/how-to-use-the-css-aspect-ratio-property-for-responsive-layouts-20pd)
+- [Dev Log 26 - Weather System Overhaul](https://dev.to/asx/dev-log-26-weather-system-overhaul-3e1)
+- [PACX: Lightweight, command line-based, PluginRegistrationTool](https://dev.to/_neronotte/pacx-lightweight-command-line-based-pluginregistrationtool-3hif)
 <!-- BLOG-POST-LIST:END -->
 
 ---
