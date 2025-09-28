@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Linux Printing with CUPS](https://dev.to/sebos/linux-printing-with-cups-39h5)
-- [Developer&#39;s View: Technical Deep Dive into RWA Protocols &lpar;Ethereum, Solana, Layer-2s&rpar;](https://dev.to/creatoruche/developers-view-technical-deep-dive-into-rwa-protocols-ethereum-solana-layer-2s-dph)
-- [WiredTigerHS.wt: MongoDB MVCC Durable History Store](https://dev.to/franckpachot/mongodb-mvcc-durable-history-store-wiredtigerhswt-mn2)
-- [A Quick Dive into Kubernetes Operators - Part 4](https://dev.to/mhmxs/a-quick-dive-into-kubernetes-operators-part-4-3ldb)
-- [A Quick Dive into Kubernetes Operators - Part 3](https://dev.to/mhmxs/a-quick-dive-into-kubernetes-operators-part-3-19pi)
+- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-39oi)
+- [GameSpot: Ghost of Yōtei Review](https://dev.to/gg_news/gamespot-ghost-of-yotei-review-50e9)
+- [GameSpot: Solving This REAL Silent Hill f Puzzle Box](https://dev.to/gg_news/gamespot-solving-this-real-silent-hill-f-puzzle-box-169p)
+- [GameSpot: C. Viper High-Level CPU Street Fighter 6 Gameplay](https://dev.to/gg_news/gamespot-c-viper-high-level-cpu-street-fighter-6-gameplay-2al0)
+- [GameSpot: Silent Hill f - All Endings With Boss Fights](https://dev.to/gg_news/gamespot-silent-hill-f-all-endings-with-boss-fights-5085)
 <!-- BLOG-POST-LIST:END -->
 
 ---
