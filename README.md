@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-44e0)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3oil)
-- [Golf.com: The Ryder Cup&#39;s Unusual Custom Merch You Know Nothing About](https://dev.to/youtube_golf/golfcom-the-ryder-cups-unusual-custom-merch-you-know-nothing-about-537g)
-- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-4l65)
-- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-ek4)
+- [How to Use Gmail +Aliases to Create Extra Email Addresses](https://dev.to/jajera/how-to-use-gmail-aliases-to-create-extra-email-addresses-1g14)
+- [Building a Serverless Dungeon Master Agent on AWS](https://dev.to/aws-builders/building-a-serverless-dungeon-master-agent-on-aws-3j7k)
+- [Genesis DB - The GDPR-ready event-sourcing database engine](https://dev.to/patriceckhart/genesis-db-the-gdpr-ready-event-sourcing-database-engine-jj1)
+- [How to Automate Sitemap Generation in Next.js](https://dev.to/lovestaco/how-to-automate-sitemap-generation-in-nextjs-3l0i)
+- [#DAY 3 - Monitoring Internal Services: FTP &amp; SSH](https://dev.to/samueladeduntan/day-3-monitoring-internal-services-ftp-ssh-31ee)
 <!-- BLOG-POST-LIST:END -->
 
 ---
