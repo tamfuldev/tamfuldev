@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why GraphQL is gaining adoption](https://dev.to/popoolatopzy/why-graphql-is-gaining-adoption-17p)
-- [Post 1/10 — Multi-Tenancy &amp; Security Baseline with Namespaces, Quotas, NetworkPolicies, and Pod Security Admission](https://dev.to/cloud-sky-ops/post-110-multi-tenancy-security-baseline-with-namespaces-quotas-networkpolicies-and-pod-2mfj)
-- [Your SOC 2 Compliance Won&#39;t Stop Supply Chain Attacks &lpar;And I Have the Data to Prove It&rpar;](https://dev.to/arbythecoder/your-soc-2-compliance-wont-stop-supply-chain-attacks-and-i-have-the-data-to-prove-it-4nid)
-- [Digital IDs Are the Trap—UBI Coins Are the Escape Plan](https://dev.to/owly/digital-ids-are-the-trap-ubi-coins-are-the-escape-plan-55ac)
-- [Privacy-Preserving AI: 7 Techniques to Protect Training Data in Cloud AI Systems](https://dev.to/abin_/privacy-preserving-ai-7-techniques-to-protect-training-data-in-cloud-ai-systems-5963)
+- [Streams de Dados: Processamento de Informações em Tempo Real](https://dev.to/programadriano/streams-de-dados-processamento-de-informacoes-em-tempo-real-2ccm)
+- [Maximizing Your Development Skills: Proven Strategies for Continuous Learning](https://dev.to/mikeover/maximizing-your-development-skills-proven-strategies-for-continuous-learning-527l)
+- [Crolite: filling the &quot;Mojolicious::Lite&quot; gap in the Cro ecosystem](https://dev.to/fco/crolite-filling-the-mojoliciouslite-gap-in-the-cro-ecosystem-4ebi)
+- [Promise Hashes](https://dev.to/oculus42/promise-hashes-394j)
+- [Architectures for Manufacturing Software: Quick Deployment in a Single Plant](https://dev.to/harshal_jaiswal_9867fe65b/architectures-for-manufacturing-software-quick-deployment-in-a-single-plant-5cj6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
