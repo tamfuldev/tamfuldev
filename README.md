@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-39oi)
-- [GameSpot: Ghost of Yōtei Review](https://dev.to/gg_news/gamespot-ghost-of-yotei-review-50e9)
-- [GameSpot: Solving This REAL Silent Hill f Puzzle Box](https://dev.to/gg_news/gamespot-solving-this-real-silent-hill-f-puzzle-box-169p)
-- [GameSpot: C. Viper High-Level CPU Street Fighter 6 Gameplay](https://dev.to/gg_news/gamespot-c-viper-high-level-cpu-street-fighter-6-gameplay-2al0)
-- [GameSpot: Silent Hill f - All Endings With Boss Fights](https://dev.to/gg_news/gamespot-silent-hill-f-all-endings-with-boss-fights-5085)
+- [Building a Real-Time Binance Data Pipeline with Kafka and PostgreSQL](https://dev.to/augo_amos/building-a-real-time-binance-data-pipeline-with-kafka-and-postgresql-5bj8)
+- [Privacy Risks of Autonomous AI Agents](https://dev.to/shieldstring/privacy-risks-of-autonomous-ai-agents-3jki)
+- [OSD600 Lab 3: Git merges and parallel branches + Some 0.2 updates](https://dev.to/david_rivera_8d845b35931e/osd600-lab-3-git-merges-and-parallel-branches-3e5b)
+- [AI-Powered Teacher Assistant: Revolutionizing Lesson Planning for Educators](https://dev.to/victor_lakra_e1910abe17fc/ai-powered-teacher-assistant-revolutionizing-lesson-planning-for-educators-56dj)
+- [Success Story: Lorenzo Limongi&#39;s Learning Journey with 101 Blockchains - 101 Blockchains #061915](https://dev.to/calgo_62400343865ec0ae72a/success-story-lorenzo-limongis-learning-journey-with-101-blockchains-101-blockchains-061915-4pij)
 <!-- BLOG-POST-LIST:END -->
 
 ---
