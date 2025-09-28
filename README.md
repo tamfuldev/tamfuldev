@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering React Hooks Rules: From Basics to Expert-Level](https://dev.to/cristiansifuentes/mastering-react-hooks-rules-from-basics-to-expert-level-53pa)
-- [Implementing Emergent Tool Use in Multi-Agent AI Systems Through Meta-Learning and Environment Scaffolding](https://dev.to/rikinptl/implementing-emergent-tool-use-in-multi-agent-ai-systems-through-meta-learning-and-environment-3h90)
-- [6 Open Source Alternatives to Microsoft Access](https://dev.to/nocobase/6-open-source-alternatives-to-microsoft-access-2b8o)
-- [Understanding the Leaky Bucket Algorithm for System Design](https://dev.to/0xtanzim/understanding-the-leaky-bucket-algorithm-for-system-design-4fpo)
-- [Git Cheatsheet](https://dev.to/ijas9118/git-cheatsheet-9j4)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-44d5)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-3o5i)
+- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-1aa6)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-4cng)
+- [Golf.com: The Ryder Cup&#39;s Unusual Custom Merch You Know Nothing About](https://dev.to/youtube_golf/golfcom-the-ryder-cups-unusual-custom-merch-you-know-nothing-about-4cik)
 <!-- BLOG-POST-LIST:END -->
 
 ---
