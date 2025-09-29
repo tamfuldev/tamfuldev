@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Tired of messy repos and unclear project structures? Check out CodeTree at code-tree.dev ! 🌲 Visualize your codebase, explore structure fast, and onboard like a pro. Perfect for devs, teams &amp; open source. #DevTools #CodeReview](https://dev.to/trukes/tired-of-messy-repos-and-unclear-project-structures-check-out-codetree-at-code-treedev--3ffh)
-- [From Sheets to Quizzes: Automating Google Forms Like a Pro](https://dev.to/rajinh24/from-sheets-to-quizzes-automating-google-forms-like-a-pro-5gbj)
-- [MIT LOBSTgER](https://dev.to/rawveg/mit-lobstger-2015)
-- [[Boost]](https://dev.to/trukes/-2nam)
-- [DeepSeek-V3.2-Exp Complete Analysis: 2025 AI Model Breakthrough and In-Depth Analysis of Sparse Attention Technology](https://dev.to/czmilo/deepseek-v32-exp-complete-analysis-2025-ai-model-breakthrough-and-in-depth-analysis-of-sparse-3gcl)
+- [Integrating Groq with Google ADK using LiteLLM](https://dev.to/mmtq/integrating-groq-with-google-adk-using-litellm-50me)
+- [Benefits of Neem: Nature’s Gift for Healthy Skin](https://dev.to/lilymin_organic_762ebc085/benefits-of-neem-natures-gift-for-healthy-skin-26b7)
+- [I Built an AI Meme Generator to Be Cheaper and Faster with a Frontend Hack](https://dev.to/hemant_manwani_4a460bde7a/i-built-an-ai-meme-generator-to-be-cheaper-and-faster-with-a-frontend-hack-3ggn)
+- [Jest: Writing Composable Tests](https://dev.to/ysfaran/jest-writing-composable-tests-2c3m)
+- [IGN: Megabonk Gameplay: The Goofy Vampire Survivors You Always Wanted](https://dev.to/gg_news/ign-megabonk-gameplay-the-goofy-vampire-survivors-you-always-wanted-111k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
