@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-4mni)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-383e)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-7ep)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-50j4)
-- [Test](https://dev.to/prime_299792/test-10ke)
+- [AWS open source newsletter, #214](https://dev.to/aws/aws-open-source-newsletter-214-ekm)
+- [How I Stopped Worrying About RAM and Learned to Love Vim](https://dev.to/joybtw/how-i-stopped-worrying-about-ram-and-learned-to-love-vim-2c07)
+- [Langchain and LangGraph](https://dev.to/ashutoshsarangi/langchain-and-langgraph-1678)
+- [Create a Simple Game with Python and JavaScript](https://dev.to/sanjaynaker/create-a-simple-game-with-python-and-javascript-4gb6)
+- [The Effect of AI on Me](https://dev.to/joybtw/the-effect-of-ai-on-me-26b5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
