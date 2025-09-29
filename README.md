@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Business Dashboard Application](https://dev.to/albert_felixl_230fec2c92/business-dashboard-application-30am)
-- [📊 Analyzing Manufacturing Downtime: Insights From My Dashboard](https://dev.to/koinpoin/analyzing-manufacturing-downtime-insights-from-my-dashboard-160c)
-- [Progressive Web Apps: Bringing App-like Experiences to the Web](https://dev.to/rgbos/progressive-web-apps-bringing-app-like-experiences-to-the-web-4fak)
-- [Building the Campfire: My Custom CMS for &#39;Campfire Logs&#39;](https://dev.to/dlseitz/building-the-campfire-my-custom-cms-for-campfire-logs-3dgb)
-- [Automating EBS Volume Upsizing on AWS](https://dev.to/davidshaek/automating-ebs-volume-upsizing-on-aws-ok0)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-1o2i)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-59i6)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-l00)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-o82)
+- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-523e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
