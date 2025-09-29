@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [10+ Pieces of Tech You Use Before Breakfast Without Even Realizing It](https://dev.to/canro91/10-pieces-of-tech-you-use-before-breakfast-without-even-realizing-it-3kpe)
-- [Web Development Without Code Editors: Is AI the New IDE?](https://dev.to/dct_technology/web-development-without-code-editors-is-ai-the-new-ide-4jij)
-- [From UI to XI: Designing eXperiential Interfaces](https://dev.to/dct_technology/from-ui-to-xi-designing-experiential-interfaces-5g2)
-- [📘 Foundation Phase Completed - Starting Phase 2 of My Journey](https://dev.to/ramyakaruturi/foundation-phase-completed-starting-phase-2-of-my-journey-5f5k)
-- [Multithreading and Thread class method](https://dev.to/preethi_nandhagopal_6d075/multithreading-and-thread-class-method-19ph)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-4mni)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-383e)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-7ep)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-50j4)
+- [Test](https://dev.to/prime_299792/test-10ke)
 <!-- BLOG-POST-LIST:END -->
 
 ---
