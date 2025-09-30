@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to get and use a free PVS-Studio license. Part 2: initial run and configuration](https://dev.to/pvsdev/how-to-get-and-use-a-free-pvs-studio-license-part-2-initial-run-and-configuration-3013)
-- [Sky Agent: A Universal Interface for Multi-Cloud Operations](https://dev.to/dinindu_suriyamudali_e604/sky-agent-a-universal-interface-for-multi-cloud-operations-mi5)
-- [🍏 macOS Portfolio – A Fun, Desktop-Inspired Portfolio Template](https://dev.to/emdadulislam/macos-portfolio-a-fun-desktop-inspired-portfolio-template-26p3)
-- [🚀 The Ultimate Algorithms &amp; Data Structures Cheat Sheet Collection](https://dev.to/harsh8088/the-ultimate-algorithms-data-structures-cheat-sheet-collection-2p2k)
-- [¿El futuro del modelado es la IA o la especialización?](https://dev.to/yomero243/el-futuro-del-modelado-es-la-ia-o-la-especializacion-240b)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-53p9)
+- [Golf.com: Secret Envelopes, Unruly Fans, Europe Domination: Unpacking the 2025 Ryder Cup](https://dev.to/youtube_golf/golfcom-secret-envelopes-unruly-fans-europe-domination-unpacking-the-2025-ryder-cup-76b)
+- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-3mlh)
+- [Bryan Bros Golf: Golf With Llama Caddies Got Out of Hand](https://dev.to/youtube_golf/bryan-bros-golf-golf-with-llama-caddies-got-out-of-hand-5g8e)
+- [Danny Maude: How To Learn Golf So Fast It Feels Illegal](https://dev.to/youtube_golf/danny-maude-how-to-learn-golf-so-fast-it-feels-illegal-2obf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
