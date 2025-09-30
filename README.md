@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-22n6)
-- [KEXP: Cory Hanson - Bad Miracles &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-bad-miracles-live-on-kexp-5e7h)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-52k)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-aj6)
-- [Golf.com: Secret Envelopes, Unruly Fans, Europe Domination: Unpacking the 2025 Ryder Cup](https://dev.to/youtube_golf/golfcom-secret-envelopes-unruly-fans-europe-domination-unpacking-the-2025-ryder-cup-41hg)
+- [Convert Excel to Text with Java](https://dev.to/jelizaveta/convert-excel-to-text-with-java-d53)
+- [Why Software Design Patterns Matter for Cybersecurity](https://dev.to/ihonchar/why-software-design-patterns-matter-for-cybersecurity-377e)
+- [Stop Your UMAP From Moving: The Pipeline Randomness You&#39;re Missing](https://dev.to/afujihara/stop-your-umap-from-moving-the-pipeline-randomness-youre-missing-gje)
+- [How to Sell QA Without Talking About Testing](https://dev.to/radha_4c842d8e4362a7cdd9c/how-to-sell-qa-without-talking-about-testing-3he7)
+- [Automating SBOM Generation and Vulnerability Analysis](https://dev.to/mdabir1203/automating-sbom-generation-and-vulnerability-analysis-54pi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
