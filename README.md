@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: My Hero Academia: All&#39;s Justice - Official Release Date Announcement Trailer](https://dev.to/gg_news/ign-my-hero-academia-alls-justice-official-release-date-announcement-trailer-302o)
-- [IGN: Trap House - Exclusive Trailer &lpar;2025&rpar; Dave Bautista, Jack Champion](https://dev.to/gg_news/ign-trap-house-exclusive-trailer-2025-dave-bautista-jack-champion-3gcj)
-- [IGN: Minecraft - Official The Copper Age Trailer](https://dev.to/gg_news/ign-minecraft-official-the-copper-age-trailer-2029)
-- [IGN: Call of Duty: Black Ops 7 - Official Launch Multiplayer Maps Flythrough Trailer](https://dev.to/gg_news/ign-call-of-duty-black-ops-7-official-launch-multiplayer-maps-flythrough-trailer-3hf1)
-- [IGN: Teenage Mutant Ninja Turtles: Splintered Fate - Official Free Update &amp; Metalhead DLC Launch Trailer](https://dev.to/gg_news/ign-teenage-mutant-ninja-turtles-splintered-fate-official-free-update-metalhead-dlc-launch-1f84)
+- [Hardening Your AI Agent Against Prompt Injection via MCP](https://dev.to/lovestaco/hardening-your-ai-agent-against-prompt-injection-via-mcp-bd7)
+- [Business value &gt; Shiny tech](https://dev.to/sylwia-lask/business-value-shiny-tech-5egj)
+- [Over the last 9 months, I built a generative video model that can take any image and build a playable world around it ✨](https://dev.to/lilshake/over-the-last-9-months-i-built-a-generative-video-model-that-can-take-any-image-and-build-a-452p)
+- [Post‑Evaluation Action Plan for AI Agents](https://dev.to/kamya_shah_e69d5dd78f831c/post-evaluation-action-plan-for-ai-agents-4ee6)
+- [Clara Denari and the Mysterious Transformations: A New Way to Explore Cloudinary](https://dev.to/cloudinary/clara-denari-and-the-mysterious-transformations-a-new-way-to-explore-cloudinary-57od)
 <!-- BLOG-POST-LIST:END -->
 
 ---
