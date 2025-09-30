@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-5953)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-1c5c)
-- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-551f)
-- [KEXP: Cory Hanson - Texas Weather &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-texas-weather-live-on-kexp-4aij)
-- [KEXP: Cory Hanson - Lou Reed &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-lou-reed-live-on-kexp-d4e)
+- [How to get and use a free PVS-Studio license. Part 2: initial run and configuration](https://dev.to/pvsdev/how-to-get-and-use-a-free-pvs-studio-license-part-2-initial-run-and-configuration-3013)
+- [Sky Agent: A Universal Interface for Multi-Cloud Operations](https://dev.to/dinindu_suriyamudali_e604/sky-agent-a-universal-interface-for-multi-cloud-operations-mi5)
+- [🍏 macOS Portfolio – A Fun, Desktop-Inspired Portfolio Template](https://dev.to/emdadulislam/macos-portfolio-a-fun-desktop-inspired-portfolio-template-26p3)
+- [🚀 The Ultimate Algorithms &amp; Data Structures Cheat Sheet Collection](https://dev.to/harsh8088/the-ultimate-algorithms-data-structures-cheat-sheet-collection-2p2k)
+- [¿El futuro del modelado es la IA o la especialización?](https://dev.to/yomero243/el-futuro-del-modelado-es-la-ia-o-la-especializacion-240b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
