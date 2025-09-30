@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-4nd0)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-470m)
-- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-1obg)
-- [KEXP: Cory Hanson - Lou Reed &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-lou-reed-live-on-kexp-57je)
-- [KEXP: Cory Hanson - Bad Miracles &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-bad-miracles-live-on-kexp-2gn6)
+- [Infrastructure testing in practice](https://dev.to/rgeraskin/infrastructure-testing-in-practice-1jpb)
+- [Day 1 - Intergrating AWS services into a parking project](https://dev.to/nyairopetronilla/day-1-intergrating-aws-services-into-a-parking-project-2n9i)
+- [How to Leave Breadcrumbs for Your Future Self &lpar;and Teammates&rpar; in Code](https://dev.to/saxmanjes/how-to-leave-breadcrumbs-for-your-future-self-and-teammates-in-code-4979)
+- [How to build Personal Blog Application Using React | TailwindCSS | TypeScript](https://dev.to/codewithsadee/how-to-build-personal-blog-application-using-react-tailwindcss-typescript-3c3e)
+- [🎯 The Challenge: Processing TBs of S3 Data Without Breaking the Bank](https://dev.to/qvfagundes/the-challenge-processing-tbs-of-s3-data-without-breaking-the-bank-bfl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
