@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-53p9)
-- [Golf.com: Secret Envelopes, Unruly Fans, Europe Domination: Unpacking the 2025 Ryder Cup](https://dev.to/youtube_golf/golfcom-secret-envelopes-unruly-fans-europe-domination-unpacking-the-2025-ryder-cup-76b)
-- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-3mlh)
-- [Bryan Bros Golf: Golf With Llama Caddies Got Out of Hand](https://dev.to/youtube_golf/bryan-bros-golf-golf-with-llama-caddies-got-out-of-hand-5g8e)
-- [Danny Maude: How To Learn Golf So Fast It Feels Illegal](https://dev.to/youtube_golf/danny-maude-how-to-learn-golf-so-fast-it-feels-illegal-2obf)
+- [Developers&#39; library for React, Next templates](https://dev.to/shreyvijayvargiya/developers-library-for-react-next-templates-4cmh)
+- [How we moved Crawlee for Python out of Beta](https://dev.to/crawlee/how-we-moved-crawlee-for-python-out-of-beta-33bi)
+- [Understanding Laravel Blade Components and Slots](https://dev.to/addwebsolutionpvtltd/understanding-laravel-blade-components-and-slots-5fbd)
+- [Why HackSpire&#39;25 Has Me Buzzing with Excitement! 🎯](https://dev.to/debaditya_saha_5b45172210/why-hackspire25-has-me-buzzing-with-excitement-22jd)
+- [Mastering NestJS: A Modern Approach to Building Scalable Node.js Applications](https://dev.to/devto_with_yog/mastering-nestjs-a-modern-approach-to-building-scalable-nodejs-applications-l6n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
