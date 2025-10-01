@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Self-host Uptime Kuma with Docker in 5 minutes &lpar;+ TLS-expiry alerts&rpar;](https://dev.to/xxbricksquadxx/self-host-uptime-kuma-with-docker-in-5-minutes-tls-expiry-alerts-229f)
-- [My first Dev post](https://dev.to/henark/my-first-dev-post-2k0o)
-- [Adam Savage&#39;s Tested: How to Replicate a Long-Lost Patterned Fabric](https://dev.to/maker_youtube/adam-savages-tested-how-to-replicate-a-long-lost-patterned-fabric-298d)
-- [Beyond Circles: Smart Geofencing with Data-Driven Shapes by Arvind Sundararajan](https://dev.to/arvind_sundararajan/beyond-circles-smart-geofencing-with-data-driven-shapes-by-arvind-sundararajan-3amp)
-- [IGN: Grounded 2 - Official Hairy and Scary Update Trailer](https://dev.to/gg_news/ign-grounded-2-official-hairy-and-scary-update-trailer-367e)
+- [Personal Picks: Data Product News &lpar;October 1, 2025&rpar;](https://dev.to/sagara/personal-picks-data-product-news-october-1-2025-2p0a)
+- [Building Hayao AI: How We Created a Next-Gen AI Photo Editor](https://dev.to/jianping_liu/building-hayao-ai-how-we-created-a-next-gen-ai-photo-editor-1di7)
+- [My League of Legends Based Developer Portfolio](https://dev.to/ctrlaltbachata/my-league-of-legends-based-developer-portfolio-5fdb)
+- [Designing agentic loops](https://dev.to/technoblogger14o3/designing-agentic-loops-4f3k)
+- [Unreal Performance Optimization Learning Path](https://dev.to/seongcheoljeon/unreal-performance-optimization-learning-path-1k90)
 <!-- BLOG-POST-LIST:END -->
 
 ---
