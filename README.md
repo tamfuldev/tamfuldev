@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Illusions of Quality—Episode 8: 📏 Measuring What Actually Matters: Quality Metrics That Don’t Lie 🤥](https://dev.to/abdulosman/the-illusions-of-quality-episode-8-measuring-what-actually-matters-quality-metrics-that-dont-3144)
-- [The AI Energy Paradox](https://dev.to/rawveg/the-ai-energy-paradox-5a1d)
-- [🚀 Fugindo do CRUD com PHP — Crypto Discord Monitor](https://dev.to/henriquesombisa/fugindo-do-crud-com-php-crypto-discord-monitor-4f28)
-- [When Brushstrokes Meet Bytes: Finding Data in Everyday Art 🎨💾](https://dev.to/l_zia_l/when-brushstrokes-meet-bytes-finding-data-in-everyday-art-36ad)
-- [Small-Scale Chaos Testing: The Missing Step Before Production](https://dev.to/gkoos/small-scale-chaos-testing-the-missing-step-before-production-30k2)
+- [How Much Should We Lean on AI?](https://dev.to/marikinyo/how-much-should-we-lean-on-ai-73p)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-46ii)
+- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-3nbf)
+- [Building a Custom Vulkan Engine: Deep Dive into M4 Advanced Rendering &amp; Resource Pipeline](https://dev.to/p3ngu1nzz/building-a-custom-vulkan-engine-deep-dive-into-m4-advanced-rendering-resource-pipeline-gpi)
+- [KEXP: Cory Hanson - Bad Miracles &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-bad-miracles-live-on-kexp-53lo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
