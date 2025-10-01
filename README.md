@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Much Should We Lean on AI?](https://dev.to/marikinyo/how-much-should-we-lean-on-ai-73p)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-46ii)
-- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-3nbf)
-- [Building a Custom Vulkan Engine: Deep Dive into M4 Advanced Rendering &amp; Resource Pipeline](https://dev.to/p3ngu1nzz/building-a-custom-vulkan-engine-deep-dive-into-m4-advanced-rendering-resource-pipeline-gpi)
-- [KEXP: Cory Hanson - Bad Miracles &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-bad-miracles-live-on-kexp-53lo)
+- [From Pocket to Wallabag: A Self-Hosted Migration Story](https://dev.to/pascal_cescato_692b7a8a20/from-pocket-to-wallabag-a-self-hosted-migration-story-2df7)
+- [How Can I Write a Movie Script?](https://dev.to/studiovity_production/how-can-i-write-a-movie-script-3f0g)
+- [Sleutel vergeten in huis: Praktische oplossingen zonder schade](https://dev.to/slotenmakerhulp-locksmith/sleutel-vergeten-in-huis-praktische-oplossingen-zonder-schade-2lld)
+- [How AI Is Transforming B2B Lead Generation and Account Targeting](https://dev.to/noah_jones_vm/how-ai-is-transforming-b2b-lead-generation-and-account-targeting-30mm)
+- [Script Writing Software: Why Studiovity Stands Out for Writers &amp; Filmmakers](https://dev.to/studiovity_production/script-writing-software-why-studiovity-stands-out-for-writers-filmmakers-4b0p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
