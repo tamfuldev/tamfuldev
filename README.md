@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Fundamentos de JavaScript - Variables: La Base de Cualquier Programa](https://dev.to/martinxcvi/fundamentos-de-javascript-variables-la-base-de-cualquier-programa-1log)
-- [Improving performance in Kotlin with string concatenation](https://dev.to/gabrielcodesolutions/improving-function-with-string-concatenation-4882)
-- [Understanding the Role of a Currency Rate API in Modern Finance](https://dev.to/rameshchauhan/understanding-the-role-of-a-currency-rate-api-in-modern-finance-432l)
-- [Sequence Dynamic Cache Resizing in Oracle 21c and 19.10](https://dev.to/vahidusefzadeh/sequence-dynamic-cache-resizing-in-oracle-21c-and-1910-4hbm)
-- [Mastering GitHub Actions: Insights and pitfalls of &quot;if conditions&quot;](https://dev.to/cloud-sky-ops/mastering-github-actions-insights-and-pitfalls-of-if-conditions-1j87)
+- [Movement-events on Mini Micro &lpar;part 1&rpar;](https://dev.to/sebnozzi/movement-events-on-mini-micro-part-1-3gm7)
+- [Untitled](https://dev.to/aer_abdelkader_88125fbfa5/untitled-2cb1)
+- [Why Most RAG Pipelines Fail in Production &lpar;and How to Fix Them&rpar;](https://dev.to/piyooshrai/why-most-rag-pipelines-fail-in-production-and-how-to-fix-them-3858)
+- [Untitled](https://dev.to/aer_abdelkader_88125fbfa5/untitled-p58)
+- [Untitled](https://dev.to/aer_abdelkader_88125fbfa5/untitled-2p5j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
