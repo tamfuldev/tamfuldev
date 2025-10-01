@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [No Laying Up Podcast: Ryder Cup Autopsy Report with Duncan Carey and Jamie Kennedy | NLU Pod, Ep 1078](https://dev.to/youtube_golf/no-laying-up-podcast-ryder-cup-autopsy-report-with-duncan-carey-and-jamie-kennedy-nlu-pod-ep-4g85)
-- [Golf.com: Secret Envelopes, Unruly Fans, Europe Domination: Unpacking the 2025 Ryder Cup](https://dev.to/youtube_golf/golfcom-secret-envelopes-unruly-fans-europe-domination-unpacking-the-2025-ryder-cup-139d)
-- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-jii)
-- [Bryan Bros Golf: Golf Match with Llama Caddies &lpar;1v1 Strokeplay&rpar;](https://dev.to/youtube_golf/bryan-bros-golf-golf-match-with-llama-caddies-1v1-strokeplay-4ona)
-- [Peter Finch Golf: The most jaw-dropping course in Scotland...](https://dev.to/youtube_golf/peter-finch-golf-the-most-jaw-dropping-course-in-scotland-4l41)
+- [O Que É DevRel? Entenda Developer Relations no Brasil](https://dev.to/pachicodes/o-que-e-devrel-entenda-developer-relations-no-brasil-45i4)
+- [O Valor de uma Comunidade: Seis pilares tangíveis para o crescimento da sua empresa](https://dev.to/pachicodes/o-valor-de-uma-comunidade-seis-pilares-tangiveis-para-o-crescimento-da-sua-empresa-3i4g)
+- [I Tested Side Hustle for 30 Days. Here&#39;s What Happened.](https://dev.to/novatayler/i-tested-side-hustle-for-30-days-heres-what-happened-9i5)
+- [Avoiding the &#39;Common&#39; Trap: How I Structure Shared Packages at HoneyDrunk](https://dev.to/tatted_dev/avoiding-the-common-trap-how-i-structure-shared-packages-at-honeydrunk-4agi)
+- [Avoiding the &#39;Common&#39; Trap: How I Structure Shared Packages at HoneyDrunk](https://dev.to/tatted_dev/avoiding-the-common-trap-how-i-structure-shared-packages-at-honeydrunk-kcg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
