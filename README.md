@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 SEO Tips for Developers Writing Technical Blogs](https://dev.to/justin-green/top-7-seo-tips-for-developers-writing-technical-blogs-m6g)
-- [Mastering TCJSGame TileMap System: Building Complex Game Worlds](https://dev.to/kehinde_owolabi_e2e54567a/mastering-tcjsgame-tilemap-system-building-complex-game-worlds-3g0f)
-- [Sparse Models and the Efficiency Revolution in AI](https://dev.to/maurizio_morri_f7f4bd128c/sparse-models-and-the-efficiency-revolution-in-ai-32ep)
-- [Dev Log 27 - Gear Registry Refactor](https://dev.to/asx/dev-log-27-gear-registry-refactor-bpf)
-- [React: Building an Independent Modal with createRoot](https://dev.to/lico/react-building-an-independent-modal-with-createroot-4p71)
+- [Self-host Uptime Kuma with Docker in 5 minutes &lpar;+ TLS-expiry alerts&rpar;](https://dev.to/xxbricksquadxx/self-host-uptime-kuma-with-docker-in-5-minutes-tls-expiry-alerts-229f)
+- [My first Dev post](https://dev.to/henark/my-first-dev-post-2k0o)
+- [Adam Savage&#39;s Tested: How to Replicate a Long-Lost Patterned Fabric](https://dev.to/maker_youtube/adam-savages-tested-how-to-replicate-a-long-lost-patterned-fabric-298d)
+- [Beyond Circles: Smart Geofencing with Data-Driven Shapes by Arvind Sundararajan](https://dev.to/arvind_sundararajan/beyond-circles-smart-geofencing-with-data-driven-shapes-by-arvind-sundararajan-3amp)
+- [IGN: Grounded 2 - Official Hairy and Scary Update Trailer](https://dev.to/gg_news/ign-grounded-2-official-hairy-and-scary-update-trailer-367e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
