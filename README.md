@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 I Built a Block-Based AI Prompt Builder with Next.js and Supabase - Here&#39;s What I Learned](https://dev.to/jaber-said/i-built-a-block-based-ai-prompt-builder-with-nextjs-and-supabase-heres-what-i-learned-1ne1)
-- [Exploring the Latest AI Models and Tools for Developers](https://dev.to/rinonten/exploring-the-latest-ai-models-and-tools-for-developers-3cac)
-- [How to Check if Code Was Made by AI](https://dev.to/marcosplusplus/how-to-check-if-code-was-made-by-ai-4n23)
-- [The Open Source World Is About to Get a Surprise 👀](https://dev.to/renderatlorg/the-open-source-world-is-about-to-get-a-surprise-5cpk)
-- [Como Verificar se um Código foi feito por IA](https://dev.to/marcosplusplus/como-verificar-se-um-codigo-foi-feito-por-ia-3inp)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-2417)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-b30)
+- [No Laying Up Podcast: Ryder Cup Autopsy Report with Duncan Carey and Jamie Kennedy | NLU Pod, Ep 1078](https://dev.to/youtube_golf/no-laying-up-podcast-ryder-cup-autopsy-report-with-duncan-carey-and-jamie-kennedy-nlu-pod-ep-55o5)
+- [Golf.com: Secret Envelopes, Unruly Fans, Europe Domination: Unpacking the 2025 Ryder Cup](https://dev.to/youtube_golf/golfcom-secret-envelopes-unruly-fans-europe-domination-unpacking-the-2025-ryder-cup-o6e)
+- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-1490)
 <!-- BLOG-POST-LIST:END -->
 
 ---
