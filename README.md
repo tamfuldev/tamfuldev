@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Personal Picks: Data Product News &lpar;October 1, 2025&rpar;](https://dev.to/sagara/personal-picks-data-product-news-october-1-2025-2p0a)
-- [Building Hayao AI: How We Created a Next-Gen AI Photo Editor](https://dev.to/jianping_liu/building-hayao-ai-how-we-created-a-next-gen-ai-photo-editor-1di7)
-- [My League of Legends Based Developer Portfolio](https://dev.to/ctrlaltbachata/my-league-of-legends-based-developer-portfolio-5fdb)
-- [Designing agentic loops](https://dev.to/technoblogger14o3/designing-agentic-loops-4f3k)
-- [Unreal Performance Optimization Learning Path](https://dev.to/seongcheoljeon/unreal-performance-optimization-learning-path-1k90)
+- [NORMALIZATION](https://dev.to/santhosh_m_7dcc3d605279c5/normalization-94j)
+- [ConfigMaps and Secrets: Managing Configuration and Sensitive Data in Kubernetes 🔐](https://dev.to/imlucky883/configmaps-and-secrets-managing-configuration-and-sensitive-data-in-kubernetes-25am)
+- [Mastering EF Core Pagination: Efficient Data Retrieval](https://dev.to/rgbos/mastering-ef-core-pagination-efficient-data-retrieval-7b8)
+- [Connecting Node.js to MongoDB: A Complete Developer&#39;s Guide](https://dev.to/satyam_gupta_0d1ff2152dcc/connecting-nodejs-to-mongodb-a-complete-developers-guide-2cfg)
+- [Steps to Transform ASP.NET Core API into AWS Lambda Functions](https://dev.to/naimulkarim/steps-to-transform-aspnet-core-api-into-aws-lambda-functions-7eb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
