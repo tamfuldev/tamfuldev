@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Development Coaches Help Unlock Hidden Potential in Professionals](https://dev.to/toby-patrick/how-development-coaches-help-unlock-hidden-potential-in-professionals-1l2c)
-- [Day 1 of 30 Days of Solidity Challenge: Build Your First Click Counter Smart Contract 🚀](https://dev.to/sauravkumar8178/day-1-of-30-days-of-solidity-challenge-build-your-first-click-counter-smart-contract-ipj)
-- [I Built an AI Resume Agent That 6x&#39;d My Interview Rate &lpar;Claude Sonnet 4.5&rpar;](https://dev.to/aabyzov/i-built-an-ai-resume-agent-that-6xd-my-interview-rate-claude-sonnet-45-4c77)
-- [TechWorld with Nana: Apache Kafka Complete Course for Beginners](https://dev.to/scale_youtube/techworld-with-nana-apache-kafka-complete-course-for-beginners-2cd3)
-- [GitLab-CI](https://dev.to/omar_ahmed/gitlab-ci-p9g)
+- [No Laying Up Podcast: Ryder Cup Autopsy Report with Duncan Carey and Jamie Kennedy | NLU Pod, Ep 1078](https://dev.to/youtube_golf/no-laying-up-podcast-ryder-cup-autopsy-report-with-duncan-carey-and-jamie-kennedy-nlu-pod-ep-4g85)
+- [Golf.com: Secret Envelopes, Unruly Fans, Europe Domination: Unpacking the 2025 Ryder Cup](https://dev.to/youtube_golf/golfcom-secret-envelopes-unruly-fans-europe-domination-unpacking-the-2025-ryder-cup-139d)
+- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-jii)
+- [Bryan Bros Golf: Golf Match with Llama Caddies &lpar;1v1 Strokeplay&rpar;](https://dev.to/youtube_golf/bryan-bros-golf-golf-match-with-llama-caddies-1v1-strokeplay-4ona)
+- [Peter Finch Golf: The most jaw-dropping course in Scotland...](https://dev.to/youtube_golf/peter-finch-golf-the-most-jaw-dropping-course-in-scotland-4l41)
 <!-- BLOG-POST-LIST:END -->
 
 ---
