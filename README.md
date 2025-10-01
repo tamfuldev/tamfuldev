@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [O Que É DevRel? Entenda Developer Relations no Brasil](https://dev.to/pachicodes/o-que-e-devrel-entenda-developer-relations-no-brasil-45i4)
-- [O Valor de uma Comunidade: Seis pilares tangíveis para o crescimento da sua empresa](https://dev.to/pachicodes/o-valor-de-uma-comunidade-seis-pilares-tangiveis-para-o-crescimento-da-sua-empresa-3i4g)
-- [I Tested Side Hustle for 30 Days. Here&#39;s What Happened.](https://dev.to/novatayler/i-tested-side-hustle-for-30-days-heres-what-happened-9i5)
-- [Avoiding the &#39;Common&#39; Trap: How I Structure Shared Packages at HoneyDrunk](https://dev.to/tatted_dev/avoiding-the-common-trap-how-i-structure-shared-packages-at-honeydrunk-4agi)
-- [Avoiding the &#39;Common&#39; Trap: How I Structure Shared Packages at HoneyDrunk](https://dev.to/tatted_dev/avoiding-the-common-trap-how-i-structure-shared-packages-at-honeydrunk-kcg)
+- [Fundamentos de JavaScript - Variables: La Base de Cualquier Programa](https://dev.to/martinxcvi/fundamentos-de-javascript-variables-la-base-de-cualquier-programa-1log)
+- [Improving performance in Kotlin with string concatenation](https://dev.to/gabrielcodesolutions/improving-function-with-string-concatenation-4882)
+- [Understanding the Role of a Currency Rate API in Modern Finance](https://dev.to/rameshchauhan/understanding-the-role-of-a-currency-rate-api-in-modern-finance-432l)
+- [Sequence Dynamic Cache Resizing in Oracle 21c and 19.10](https://dev.to/vahidusefzadeh/sequence-dynamic-cache-resizing-in-oracle-21c-and-1910-4hbm)
+- [Mastering GitHub Actions: Insights and pitfalls of &quot;if conditions&quot;](https://dev.to/cloud-sky-ops/mastering-github-actions-insights-and-pitfalls-of-if-conditions-1j87)
 <!-- BLOG-POST-LIST:END -->
 
 ---
