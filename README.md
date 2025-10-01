@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Fishbone - Party At Ground Zero &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-fishbone-party-at-ground-zero-live-on-kexp-1f8p)
-- [KEXP: Fishbone - Last Call In America &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-fishbone-last-call-in-america-live-on-kexp-3ojh)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-51en)
-- [8-Bit Music Theory: The Music Theory of Silksong&#39;s Bone Bottom Theme](https://dev.to/music_youtube/8-bit-music-theory-the-music-theory-of-silksongs-bone-bottom-theme-1ikn)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-55ip)
+- [Why LLMs Fail Without Human-Crafted Context](https://dev.to/leena_malhotra/why-llms-fail-without-human-crafted-context-1hk1)
+- [My Java Full Stack Journey Learning &lpar;Props Drilling&rpar; in React JS](https://dev.to/dinesh_g_909f4a82c67f5bbd/my-java-full-stack-journey-learning-props-drilling-in-react-js-1024)
+- [Sites vitrines vs boutiques en ligne : lequel choisir pour votre business ?](https://dev.to/service_maxsell_64ece3f66/sites-vitrines-vs-boutiques-en-ligne-lequel-choisir-pour-votre-business--4693)
+- [React-json](https://dev.to/dharshinieswaran/react-json-1h97)
+- [Angular Rome Conference](https://dev.to/lenormor/angular-rome-conference-3nkm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
