@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Privacy for subdomains: the solution](https://dev.to/nfrankel/privacy-for-subdomains-the-solution-3gbc)
-- [Audits Decoded: Your Guide to Not Panicking When the Clipboard People Arrive](https://dev.to/leonardkachi/audits-decoded-your-guide-to-not-panicking-when-the-clipboard-people-arrive-1o7a)
-- [How to Hire Backend Developers in 2025: A Comprehensive Guide](https://dev.to/masteringbackend/how-to-hire-backend-developers-in-2025-a-comprehensive-guide-25ki)
-- [Web3 Development Toolchain](https://dev.to/loading_blocks/web3-development-toolchain-2d8)
-- [Indexing, Hashing &amp; Query Optimization](https://dev.to/ganges07/indexing-hashing-query-optimization-26np)
+- [No Laying Up Podcast: Ryder Cup Autopsy Report with Duncan Carey and Jamie Kennedy | NLU Pod, Ep 1078](https://dev.to/youtube_golf/no-laying-up-podcast-ryder-cup-autopsy-report-with-duncan-carey-and-jamie-kennedy-nlu-pod-ep-2k86)
+- [Golf.com: Secret Envelopes, Unruly Fans, Europe Domination: Unpacking the 2025 Ryder Cup](https://dev.to/youtube_golf/golfcom-secret-envelopes-unruly-fans-europe-domination-unpacking-the-2025-ryder-cup-3dcp)
+- [Part-103: Understanding ClusterIP Service in Google Kubernetes Engine &lpar;GKE&rpar;](https://dev.to/latchudevops/part-103-understanding-clusterip-service-in-google-kubernetes-engine-gke-1c75)
+- [Bryan Bros Golf: Golf Match with Llama Caddies &lpar;1v1 Strokeplay&rpar;](https://dev.to/youtube_golf/bryan-bros-golf-golf-match-with-llama-caddies-1v1-strokeplay-12km)
+- [Peter Finch Golf: The most jaw-dropping course in Scotland...](https://dev.to/youtube_golf/peter-finch-golf-the-most-jaw-dropping-course-in-scotland-5999)
 <!-- BLOG-POST-LIST:END -->
 
 ---
