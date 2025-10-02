@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Battle Tested React Hooks Are Now Open Source](https://dev.to/dayvster/my-battle-tested-react-hooks-are-now-open-source-13l0)
-- [How AI Is Disrupting The Legal Field Changing Past Practices and Shaping the Future](https://dev.to/heyjoshlee/how-ai-is-disrupting-the-legal-field-changing-past-practices-and-shaping-the-future-ek9)
-- [My Monthly 1:1 Formula: 4 Health Checks + PM Feedback](https://dev.to/razoorka/my-monthly-11-formula-4-health-checks-pm-feedback-4c19)
-- [How to Use Binance &amp; Coinbase APIs for Automated Crypto Trading: Complete Step-by-Step Guide](https://dev.to/hamd_writer_8c77d9c88c188/how-to-use-binance-coinbase-apis-for-automated-crypto-trading-complete-step-by-step-guide-2jj)
-- [Replicability crisis in science](https://dev.to/leon_lin_s/replicability-crisis-in-science-240e)
+- [GameSpot: Battlefield 6 Everything To Know](https://dev.to/gg_news/gamespot-battlefield-6-everything-to-know-acd)
+- [IGN: Fortnite - Official &#39;KPop Demon Hunters&#39; Gameplay Trailer](https://dev.to/gg_news/ign-fortnite-official-kpop-demon-hunters-gameplay-trailer-1ia6)
+- [IGN: Tron Franchise Recap](https://dev.to/gg_news/ign-tron-franchise-recap-245g)
+- [IGN: Pokemon Legends: Z-A - Official Nintendo Switch 2 Edition Overview Trailer](https://dev.to/gg_news/ign-pokemon-legends-z-a-official-nintendo-switch-2-edition-overview-trailer-58fe)
+- [IGN: I’m Getting Bored of Every PlayStation Game Telling the Same Story](https://dev.to/gg_news/ign-im-getting-bored-of-every-playstation-game-telling-the-same-story-2gdc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
