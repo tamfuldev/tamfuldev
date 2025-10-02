@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-59nh)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-35ik)
-- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-1e4p)
-- [No Laying Up Podcast: Ryder Cup Autopsy Report with Duncan Carey and Jamie Kennedy | NLU Pod, Ep 1078](https://dev.to/youtube_golf/no-laying-up-podcast-ryder-cup-autopsy-report-with-duncan-carey-and-jamie-kennedy-nlu-pod-ep-1cm7)
-- [Golf.com: Secret Envelopes, Unruly Fans, Europe Domination: Unpacking the 2025 Ryder Cup](https://dev.to/youtube_golf/golfcom-secret-envelopes-unruly-fans-europe-domination-unpacking-the-2025-ryder-cup-22dj)
+- [This was not a business mistake. This was a carefully planned conspiracy involving multiple people, attorneys, and stolen funds. Amanda Frye was right in the middle of it.](https://dev.to/francisco_pana_8a21c947b7/this-was-not-a-business-mistake-this-was-a-carefully-planned-conspiracy-involving-multiple-people-3mg6)
+- [Python &lpar;I&rpar;](https://dev.to/elferrer/python-i-4cp6)
+- [Building, Testing, and Publishing Go Packages: Best Practices](https://dev.to/ticatwolves/building-testing-and-publishing-go-packages-best-practices-8k)
+- [Building a Custom NLP Model from Scratch: From Idea to Real-World Impact](https://dev.to/sunny7899/building-a-custom-nlp-model-from-scratch-from-idea-to-real-world-impact-1ojl)
+- [How to Design a Creative Towel Hook using 3D CAD Software](https://dev.to/julia970/how-to-design-a-creative-towel-hook-using-3d-cad-software-hj1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
