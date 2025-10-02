@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Eyes on change: Building a Custom Watcher With Async Notifications](https://dev.to/nabindebnath/eyes-on-change-building-a-custom-watcher-with-async-notifications-3nph)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-1ml4)
-- [COLORS: Jon Batiste | A COLORS SHOW](https://dev.to/music_youtube/colors-jon-batiste-a-colors-show-ibb)
-- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-170e)
-- [KEXP: Tunde Adebimpe - God Knows &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-god-knows-live-on-kexp-anh)
+- [Stop Spaghetti SQL: Simplify Complex Queries with Postgres CTEs in Supabase](https://dev.to/ivankahl/stop-spaghetti-sql-simplify-complex-queries-with-postgres-ctes-in-supabase-1f8h)
+- [🚀 Day 32 of My Data Journey](https://dev.to/_adii3107/day-32-of-my-data-journey-5bl1)
+- [My first E commerce website](https://dev.to/iftikhar_ali_2c143d37aeb0/my-first-e-commerce-website-19b1)
+- [Day 62: Terraform and Docker](https://dev.to/udoh_deborah_b1e484c474bf/day-62-terraform-and-docker-4247)
+- [How to Join Open Beta Programs for AI Video Generation Platforms to Access the Latest Features](https://dev.to/alex-john/how-to-join-open-beta-programs-for-ai-video-generation-platforms-to-access-the-latest-features-3gdk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
