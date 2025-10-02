@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Jon Batiste | A COLORS SHOW](https://dev.to/music_youtube/colors-jon-batiste-a-colors-show-50l6)
-- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-1mfp)
-- [KEXP: Tunde Adebimpe - God Knows &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-god-knows-live-on-kexp-301k)
-- [KEXP: Tunde Adebimpe - Drop &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-drop-live-on-kexp-pca)
-- [KEXP: Tunde Adebimpe - Ate The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-ate-the-moon-live-on-kexp-6he)
+- [Android: End Data Tracking Now](https://dev.to/dev-blogg/android-end-data-tracking-now-2dh9)
+- [Regex in CSS](https://dev.to/sejutaimpian/regex-in-css-4428)
+- [Hosting WordPress España: Máximo Rendimiento Garantizado](https://dev.to/ideidevhosting/hosting-wordpress-espana-maximo-rendimiento-garantizado-kie)
+- [The future of full-stack development is AI. Full-stack development doesn’t have to mean exhaustion. It means rewarding and fast delivery.](https://dev.to/jaideepparashar/the-future-of-full-stack-development-is-ai-full-stack-development-doesnt-have-to-mean-exhaustion-in6)
+- [How to Build a Responsive CSS Grid from Scratch &lpar;And When to Just Use a Template&rpar;](https://dev.to/mrk_/how-to-build-a-responsive-css-grid-from-scratch-and-when-to-just-use-a-template-if0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
