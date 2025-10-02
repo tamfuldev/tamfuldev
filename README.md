@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Data Formats Every Data Analyst Should Know](https://dev.to/mukhil_77/data-formats-every-data-analyst-should-know-4f72)
-- [“The AI Investment Bubble: Boom, Risks &amp; Reality Check”](https://dev.to/mourya_modugula/the-ai-investment-bubble-boom-risks-reality-check-pgj)
-- [learn documentation like Project managers](https://dev.to/rajesh_patel/learn-documentation-like-project-managers-132)
-- [How developers document like Project managers](https://dev.to/bhavy_k_5a3b6c88887b58c92/how-developers-document-like-project-managers-dfg)
-- [Gemini 2.5 Flash-Lite: Speed &gt; Scale — 887 TPS, 50% Less Verbosity, Real-World Wins](https://dev.to/aiwithapex/gemini-25-flash-lite-speed-scale-887-tps-50-less-verbosity-real-world-wins-52h3)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-59nh)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-35ik)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-1e4p)
+- [No Laying Up Podcast: Ryder Cup Autopsy Report with Duncan Carey and Jamie Kennedy | NLU Pod, Ep 1078](https://dev.to/youtube_golf/no-laying-up-podcast-ryder-cup-autopsy-report-with-duncan-carey-and-jamie-kennedy-nlu-pod-ep-1cm7)
+- [Golf.com: Secret Envelopes, Unruly Fans, Europe Domination: Unpacking the 2025 Ryder Cup](https://dev.to/youtube_golf/golfcom-secret-envelopes-unruly-fans-europe-domination-unpacking-the-2025-ryder-cup-22dj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
