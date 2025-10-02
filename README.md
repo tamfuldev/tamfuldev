@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-3gmm)
-- [Custom Property Wrappers in SwiftUI](https://dev.to/arshtechpro/custom-property-wrappers-in-swiftui-213c)
-- [COLORS: Jon Batiste | A COLORS SHOW](https://dev.to/music_youtube/colors-jon-batiste-a-colors-show-5h03)
-- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-2970)
-- [KEXP: Tunde Adebimpe - God Knows &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-god-knows-live-on-kexp-4g0b)
+- [Privacy for subdomains: the solution](https://dev.to/nfrankel/privacy-for-subdomains-the-solution-3gbc)
+- [Audits Decoded: Your Guide to Not Panicking When the Clipboard People Arrive](https://dev.to/leonardkachi/audits-decoded-your-guide-to-not-panicking-when-the-clipboard-people-arrive-1o7a)
+- [How to Hire Backend Developers in 2025: A Comprehensive Guide](https://dev.to/masteringbackend/how-to-hire-backend-developers-in-2025-a-comprehensive-guide-25ki)
+- [Web3 Development Toolchain](https://dev.to/loading_blocks/web3-development-toolchain-2d8)
+- [Indexing, Hashing &amp; Query Optimization](https://dev.to/ganges07/indexing-hashing-query-optimization-26np)
 <!-- BLOG-POST-LIST:END -->
 
 ---
