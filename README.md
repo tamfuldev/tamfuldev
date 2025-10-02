@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SE 371 Assignment 2](https://dev.to/mthom2141/se-371-assignment-2-4i2d)
-- [Alpacon: Identity, Automation, and Auditing &lpar;Part 2&rpar;](https://dev.to/baek/alpacon-identity-automation-and-auditing-part-2-43ln)
-- [Cloud Architects are Movie Directors: An OCI IAM Story](https://dev.to/smyekh/cloud-architects-are-movie-directors-an-oci-iam-story-4lni)
-- [Automate EC2 Backups on AWS with Lambda, EventBridge, and Terraform](https://dev.to/hasan_ashab/automate-ec2-backups-on-aws-with-lambda-eventbridge-and-terraform-k4n)
-- [How to serve Markdown to AI agents: Making your docs more AI-friendly](https://dev.to/lingodotdev/how-to-serve-markdown-to-ai-agents-making-your-docs-more-ai-friendly-4pdn)
+- [COLORS: Jon Batiste | A COLORS SHOW](https://dev.to/music_youtube/colors-jon-batiste-a-colors-show-50l6)
+- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-1mfp)
+- [KEXP: Tunde Adebimpe - God Knows &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-god-knows-live-on-kexp-301k)
+- [KEXP: Tunde Adebimpe - Drop &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-drop-live-on-kexp-pca)
+- [KEXP: Tunde Adebimpe - Ate The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-ate-the-moon-live-on-kexp-6he)
 <!-- BLOG-POST-LIST:END -->
 
 ---
