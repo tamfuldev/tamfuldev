@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Battlefield 6 Everything To Know](https://dev.to/gg_news/gamespot-battlefield-6-everything-to-know-acd)
-- [IGN: Fortnite - Official &#39;KPop Demon Hunters&#39; Gameplay Trailer](https://dev.to/gg_news/ign-fortnite-official-kpop-demon-hunters-gameplay-trailer-1ia6)
-- [IGN: Tron Franchise Recap](https://dev.to/gg_news/ign-tron-franchise-recap-245g)
-- [IGN: Pokemon Legends: Z-A - Official Nintendo Switch 2 Edition Overview Trailer](https://dev.to/gg_news/ign-pokemon-legends-z-a-official-nintendo-switch-2-edition-overview-trailer-58fe)
-- [IGN: I’m Getting Bored of Every PlayStation Game Telling the Same Story](https://dev.to/gg_news/ign-im-getting-bored-of-every-playstation-game-telling-the-same-story-2gdc)
+- [My First Open Source PR — Done During Hacktoberfest 2025!](https://dev.to/tpmsh/my-first-open-source-pr-done-during-hacktoberfest-2025-14p6)
+- [Report-Tutorial: Installing and Compiling u2vpodcast on an Oracle Linux VM &lpar;ARM64&rpar;](https://dev.to/ivajofranc/report-tutorial-installing-and-compiling-u2vpodcast-on-an-oracle-linux-vm-arm64-c15)
+- [Java language evolution &lpar;part 1&rpar;](https://dev.to/cesarpaulomp/java-language-evolution-part-1-52gh)
+- [ChatGPT Prompt Engineering for Developers](https://dev.to/ankur_bansal_d7487ae561e7/chatgpt-prompt-engineering-for-developers-28ha)
+- [Using Tailwind CSS with React.js](https://dev.to/saravanan_s_0fd4b60fc6b20/using-tailwind-css-with-reactjs-2b41)
 <!-- BLOG-POST-LIST:END -->
 
 ---
