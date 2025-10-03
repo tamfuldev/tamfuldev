@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Chrome Web Store Rejection Codes](https://dev.to/bdilip48/chrome-web-store-rejection-codes-4hfj)
-- [Is Your Job Safe from AI? Careers That Will Thrive in an AI World](https://dev.to/taurus_ai_e0f0d0fc1d8a2de/is-your-job-safe-from-ai-careers-that-will-thrive-in-an-ai-world-aod)
-- [When Things Start Working — The First Signs of Real Progress](https://dev.to/isme_kastrati_76f4b128b63/when-things-start-working-when-things-start-working-the-first-signs-of-real-progress-386)
-- [AI Compliance-by-Design: A CTO Guide to Model Inventory, RAG Sources, and Decision Logging under the EU AI Act](https://dev.to/rylko_roman_965498de23cd8/ai-compliance-by-design-a-cto-guide-to-model-inventory-rag-sources-and-decision-logging-under-12pd)
-- [Exploring 7 Lesser Known AI Coding Extensions for VS Code](https://dev.to/wickathou/exploring-7-lesser-known-ai-coding-extensions-for-vs-code-2nmb)
+- [Why Video Testimonials Increase Portfolio Conversions by 200%](https://dev.to/imtaslim/why-video-testimonials-increase-portfolio-conversions-by-200-72g)
+- [Building an Interactive 3D Experience with Three.js and React for Schildr](https://dev.to/touridev/building-an-interactive-3d-experience-with-threejs-and-react-for-schildr-2jbd)
+- [Why GraphQL Adoption Keeps Growing: Benefits and Limitations](https://dev.to/oluseyej/why-graphql-adoption-keeps-growing-benefits-and-limitations-252n)
+- [Building Ethical AI: A Comprehensive Guide to Responsible Artificial Intelligence](https://dev.to/aklm10barca/building-ethical-ai-a-comprehensive-guide-to-responsible-artificial-intelligence-10k5)
+- [ConfigMaps and Secrets: Managing Configuration in Kubernetes](https://dev.to/klaus82/configmaps-and-secrets-managing-configuration-in-kubernetes-3ahk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
