@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Files-are-Not-Just-Data-A-Guide-to-Robust-File-Handling](https://dev.to/member_f8c307c5/files-are-not-just-data-a-guide-to-robust-file-handling-138o)
-- [El arte de dar vida a tu web: Guía completa de animaciones con CSS](https://dev.to/aprendivzaje/el-arte-de-dar-vida-a-tu-web-guia-completa-de-animaciones-con-css-24mc)
-- [Hacktoberfest Contribution: README Creation](https://dev.to/oleksandrakordonets/hacktoberfest-contribution-readme-creation-4l24)
-- [THE AURORA PROJECT: A 40-hour AI development project demonstrating unprecedented rapid autonomy emergence,](https://dev.to/don_joe_fa45c314b98dbea71/the-aurora-project-a-40-hour-ai-development-project-demonstrating-unprecedented-rapid-autonomy-268p)
-- [With AI, I’ve been able to cut API integration time drastically, turning what used to take hours into a process of minutes. The result: faster integrations, cleaner code, and fewer headaches.](https://dev.to/jaideepparashar/with-ai-ive-been-able-to-cut-api-integration-time-drastically-turning-what-used-to-take-hours-2oo7)
+- [COLORS: Jon Batiste - LEAN ON MY LOVE | A COLORS SHOW](https://dev.to/music_youtube/colors-jon-batiste-lean-on-my-love-a-colors-show-3462)
+- [KEXP: Tunde Adebimpe - God Knows &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-god-knows-live-on-kexp-5gbc)
+- [KEXP: Tunde Adebimpe - Ate The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-ate-the-moon-live-on-kexp-hi7)
+- [KEXP: strongboi - special &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-special-live-on-kexp-iei)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-1e37)
 <!-- BLOG-POST-LIST:END -->
 
 ---
