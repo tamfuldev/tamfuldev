@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Video Testimonials Increase Portfolio Conversions by 200%](https://dev.to/imtaslim/why-video-testimonials-increase-portfolio-conversions-by-200-72g)
-- [Building an Interactive 3D Experience with Three.js and React for Schildr](https://dev.to/touridev/building-an-interactive-3d-experience-with-threejs-and-react-for-schildr-2jbd)
-- [Why GraphQL Adoption Keeps Growing: Benefits and Limitations](https://dev.to/oluseyej/why-graphql-adoption-keeps-growing-benefits-and-limitations-252n)
-- [Building Ethical AI: A Comprehensive Guide to Responsible Artificial Intelligence](https://dev.to/aklm10barca/building-ethical-ai-a-comprehensive-guide-to-responsible-artificial-intelligence-10k5)
-- [ConfigMaps and Secrets: Managing Configuration in Kubernetes](https://dev.to/klaus82/configmaps-and-secrets-managing-configuration-in-kubernetes-3ahk)
+- [Text Cleaning in Python](https://dev.to/nazanin_ashrafi/text-cleaning-in-python-3ogf)
+- [Quest about Suspense](https://dev.to/rajib18197/quest-about-suspense-41n7)
+- [ACID Properties with SQL Transactions in DBMS](https://dev.to/sugesh_appu_54958a343aaf5/acid-properties-with-sql-transactions-in-dbms-4lpa)
+- [What Exactly Is Product Management? A Simple Guide for Everyone](https://dev.to/azirotechnologies/what-exactly-is-product-management-a-simple-guide-for-everyone-3mn4)
+- [git init ~/repos/cathedral](https://dev.to/bwfiq/git-init-reposcathedral-4efe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
