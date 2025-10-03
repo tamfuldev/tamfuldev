@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Part-107: Kubernetes Ingress in Google Kubernetes Engine](https://dev.to/latchudevops/part-107-kubernetes-ingress-in-google-kubernetes-engine-121f)
-- [How to Set Up Recurring Payments in Your Online Business](https://dev.to/flutterwaveeng/how-to-set-up-recurring-payments-in-your-online-business-b6k)
-- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_06022d8b/you-might-not-need-websockets-the-simple-power-of-server-sent-events-1ln4)
-- [Part-106: 🚀Implementing Headless Services in Google Kubernetes Engine &lpar;GKE&rpar;](https://dev.to/latchudevops/part-106-implementing-headless-services-in-google-kubernetes-engine-gke-2690)
-- [Files-are-Not-Just-Data-A-Guide-to-Robust-File-Handling](https://dev.to/member_f8c307c5/files-are-not-just-data-a-guide-to-robust-file-handling-1o3l)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-3f39)
+- [No Laying Up Podcast: Chop Session with Cody | Trap Draw, Ep 361](https://dev.to/youtube_golf/no-laying-up-podcast-chop-session-with-cody-trap-draw-ep-361-1co7)
+- [Golf.com: Secret Envelopes, Unruly Fans, Europe Domination: Unpacking the 2025 Ryder Cup](https://dev.to/youtube_golf/golfcom-secret-envelopes-unruly-fans-europe-domination-unpacking-the-2025-ryder-cup-n3p)
+- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-2c7f)
+- [Bryan Bros Golf: Golf Match with Llama Caddies &lpar;1v1 Strokeplay&rpar;](https://dev.to/youtube_golf/bryan-bros-golf-golf-match-with-llama-caddies-1v1-strokeplay-69m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
