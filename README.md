@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Cómo gestionar la memoria de ChatGPT sin borrar tus chats](https://dev.to/samvuc/como-gestionar-la-memoria-de-chatgpt-sin-borrar-tus-chats-3cim)
-- [Automating My Pinterest Content Pipeline with n8n + AI &lpar;Free Setup&rpar;](https://dev.to/medpydev/automating-my-pinterest-content-pipeline-with-n8n-ai-free-setup-20nm)
-- [Deploying a Full-Stack App with Vercel vs Render: What You Need to Know](https://dev.to/wahee/deploying-a-full-stack-app-with-vercel-vs-render-what-you-need-to-know-3lm8)
-- [Learning Rust with Dev Containers and Rustlings](https://dev.to/florianheringa/learning-rust-with-dev-containers-and-rustlings-2g1p)
-- [Ethics &amp; AI: Why It’s Not Optional](https://dev.to/synergy_shock/ethics-ai-why-its-not-optional-1ifb)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3ocb)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-4op8)
+- [Zero to Production with AI Agentic Workflows – Free Hands-On Course](https://dev.to/pulumi/zero-to-production-with-ai-agentic-workflows-free-hands-on-course-21nn)
+- [First/Last per Group: PostgreSQL DISTINCT ON and MongoDB DISTINCT_SCAN Performance](https://dev.to/franckpachot/firstlast-per-group-postgresql-distinct-on-and-mongodb-distinctscan-performance-1e9d)
+- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-1cm6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
