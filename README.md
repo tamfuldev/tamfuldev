@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating AWS Neptune Graph with AI](https://dev.to/aws-builders/navigating-aws-neptune-graph-with-ai-55cm)
-- [What is React? A Beginner&#39;s Guide to the Most Popular UI Library](https://dev.to/dehemi_fabio/what-is-react-a-beginners-guide-to-the-most-popular-ui-library-3bgl)
-- [🧐 Do You Really Need Redux?](https://dev.to/mourya_modugula/do-you-really-need-redux-nig)
-- [Github Draft Pull Request is Interesting](https://dev.to/whyang9701/github-draft-pull-request-is-interesting-216d)
-- [# Tamper-Evident Ledger Systems for National Budget Transparency](https://dev.to/trinly01/-tamper-evident-ledger-systems-for-national-budget-transparency-nl1)
+- [GameSpot: Ghost of Yotei - Creative High Level Combat](https://dev.to/gg_news/gamespot-ghost-of-yotei-creative-high-level-combat-4af5)
+- [GameSpot: Battlefield 6 Everything To Know](https://dev.to/gg_news/gamespot-battlefield-6-everything-to-know-5c25)
+- [GameSpot: How Silent Hill F Is Connected To The Rest Of The Series](https://dev.to/gg_news/gamespot-how-silent-hill-f-is-connected-to-the-rest-of-the-series-2iee)
+- [GameSpot: Which Ghost of Yotei Mode Should You Play?](https://dev.to/gg_news/gamespot-which-ghost-of-yotei-mode-should-you-play-1f81)
+- [IGN: Super Mario Galaxy 1 - Enhanced Switch 2 Gameplay 4K 60FPS](https://dev.to/gg_news/ign-super-mario-galaxy-1-enhanced-switch-2-gameplay-4k-60fps-3n29)
 <!-- BLOG-POST-LIST:END -->
 
 ---
