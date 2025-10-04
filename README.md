@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a multi-tenant PaaS application: Part 1 &lpar;Architecture &amp; Initial Design&rpar;](https://dev.to/ahnafzamil/building-a-multi-tenant-paas-application-part-1-architecture-initial-design-4d49)
-- [The Great Efficiency Theatre](https://dev.to/rawveg/the-great-efficiency-theatre-4dan)
-- [🚀 JavaScript Optional Chaining &lpar;`?.`&rpar; – A Beginner’s Note](https://dev.to/usama_dev/javascript-optional-chaining-a-beginners-note-1o30)
-- [&quot;AI makes it cheaper, right?&quot; - Is this happening in your country too?](https://dev.to/_768dd7ab130016ab8b0a/ai-makes-it-cheaper-right-is-this-happening-in-your-country-too-4lgk)
-- [Configuring Multi-Language Website SEO with Hugo](https://dev.to/rosgluk/configuring-multi-language-website-seo-with-hugo-50ae)
+- [Building a Scalable React Native Super App with Re.Pack &amp; Module Federation](https://dev.to/tmayank860/building-a-scalable-react-native-super-app-with-repack-module-federation-16ko)
+- [No Laying Up Podcast: Chop Session with Cody | Trap Draw, Ep 361](https://dev.to/youtube_golf/no-laying-up-podcast-chop-session-with-cody-trap-draw-ep-361-1n6g)
+- [Bryson Dechambeau: Kevin Hart said WHAT to Bryson…? &lpar;Caddie Talk Best Moments&rpar;](https://dev.to/youtube_golf/bryson-dechambeau-kevin-hart-said-what-to-bryson-caddie-talk-best-moments-424n)
+- [Bryan Bros Golf: Golf Match with Llama Caddies &lpar;1v1 Strokeplay&rpar;](https://dev.to/youtube_golf/bryan-bros-golf-golf-match-with-llama-caddies-1v1-strokeplay-1o6)
+- [Danny Maude: If You Move Your Right Arm Like This It Can Ruin Your Golf Swing](https://dev.to/youtube_golf/danny-maude-if-you-move-your-right-arm-like-this-it-can-ruin-your-golf-swing-17ao)
 <!-- BLOG-POST-LIST:END -->
 
 ---
