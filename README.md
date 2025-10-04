@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [No Laying Up Podcast: Chop Session with Cody | Trap Draw, Ep 361](https://dev.to/youtube_golf/no-laying-up-podcast-chop-session-with-cody-trap-draw-ep-361-39mc)
-- [Golf.com: Secret Envelopes, Unruly Fans, Europe Domination: Unpacking the 2025 Ryder Cup](https://dev.to/youtube_golf/golfcom-secret-envelopes-unruly-fans-europe-domination-unpacking-the-2025-ryder-cup-383i)
-- [Peter Finch Golf: The most formidable test in Scottish golf...](https://dev.to/youtube_golf/peter-finch-golf-the-most-formidable-test-in-scottish-golf-1ce8)
-- [Danny Maude: I Wish a Golf Coach Had Told Me This Sooner](https://dev.to/youtube_golf/danny-maude-i-wish-a-golf-coach-had-told-me-this-sooner-4ig9)
-- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-31nl)
+- [Metro: The KMP DI Framework You Never Knew You Needed](https://dev.to/mastrgamr/metro-the-kmp-di-framework-you-never-knew-you-needed-64f)
+- [CRUD Operations in MongoDB](https://dev.to/nethra_loganathan_98e5233/crud-operations-in-mongodb-3810)
+- [Unleash AI Agents with Real Time MCP Data: The Ultimate Guide to Real-Time Crypto Insights](https://dev.to/dbatson/unleash-ai-agents-with-real-time-mcp-data-the-ultimate-guide-to-real-time-crypto-insights-31kn)
+- [Understanding Linear Guides in Modern Engineering](https://dev.to/danie_brooks_dc7a891322b3/understanding-linear-guides-in-modern-engineering-nk5)
+- [Indexing, Hashing &amp; Query Optimization in liveSQL](https://dev.to/boopathys_8ff57c77ea5a5e/indexing-hashing-query-optimization-in-livesql-1682)
 <!-- BLOG-POST-LIST:END -->
 
 ---
