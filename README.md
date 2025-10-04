@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [No Laying Up Podcast: Chop Session with Cody | Trap Draw, Ep 361](https://dev.to/youtube_golf/no-laying-up-podcast-chop-session-with-cody-trap-draw-ep-361-55p5)
-- [Golf.com: Secret Envelopes, Unruly Fans, Europe Domination: Unpacking the 2025 Ryder Cup](https://dev.to/youtube_golf/golfcom-secret-envelopes-unruly-fans-europe-domination-unpacking-the-2025-ryder-cup-2m39)
-- [Bryson Dechambeau: Kevin Hart said WHAT to Bryson…? &lpar;Caddie Talk Best Moments&rpar;](https://dev.to/youtube_golf/bryson-dechambeau-kevin-hart-said-what-to-bryson-caddie-talk-best-moments-45j8)
-- [Bryan Bros Golf: Golf Match with Llama Caddies &lpar;1v1 Strokeplay&rpar;](https://dev.to/youtube_golf/bryan-bros-golf-golf-match-with-llama-caddies-1v1-strokeplay-3n7d)
-- [Peter Finch Golf: The most formidable test in Scottish golf...](https://dev.to/youtube_golf/peter-finch-golf-the-most-formidable-test-in-scottish-golf-24d1)
+- [Understanding the Latent Space in LLMs: A Deep Dive](https://dev.to/kuldeep_paul/understanding-the-latent-space-in-llms-a-deep-dive-7e5)
+- [JavaScript Arrow Functions Explained: Guide to ES6+ Syntax](https://dev.to/om_u101/javascript-arrow-functions-explained-guide-to-es6-syntax-17i4)
+- [Indexing, Hashing &amp; Query Optimization in DBMS](https://dev.to/jerlin_vanessavincentpa/indexing-hashing-query-optimization-in-dbms-61m)
+- [Excel in the Era of Power BI &amp; Python](https://dev.to/maureenmuthonihue/excel-in-the-era-of-power-bi-python-o1a)
+- [Running Goose in Containers &lpar;Without Losing Your Mind&rpar;](https://dev.to/agasta/running-goose-in-containers-without-losing-your-mind-3m8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
