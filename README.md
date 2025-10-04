@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [💡 Curious about Power Apps, Power Automate, Power BI, and Power Pages? I just published a beginner-friendly guide on why Microsoft Power Platform is reshaping the future of work. Check it out 👉](https://dev.to/phylis/-45pd)
-- [Why Everyone Is Talking About Microsoft Power Platform](https://dev.to/phylis/why-everyone-is-talking-about-microsoft-power-platform-4fjj)
-- [Node.js &amp; Type Script: A Match Made for Modern Web Development](https://dev.to/satyam_gupta_0d1ff2152dcc/nodejs-type-script-a-match-made-for-modern-web-development-hnk)
-- [Handling Large JSON Files in Python: Efficient Read, Write, and Update Strategies](https://dev.to/lovestaco/handling-large-json-files-in-python-efficient-read-write-and-update-strategies-3jgg)
-- [Build Powerful CLI Tools with Node.js: A Complete Guide for Developers](https://dev.to/satyam_gupta_0d1ff2152dcc/build-powerful-cli-tools-with-nodejs-a-complete-guide-for-developers-56k)
+- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-53j9)
+- [GameSpot: Ghost Of Yotei 10 Tips We Wish We Knew Before Playing](https://dev.to/gg_news/gamespot-ghost-of-yotei-10-tips-we-wish-we-knew-before-playing-3780)
+- [GameSpot: Super Mario Galaxy And Galaxy 2 Are Still Peak 3D Platforming](https://dev.to/gg_news/gamespot-super-mario-galaxy-and-galaxy-2-are-still-peak-3d-platforming-1g87)
+- [GameSpot: Pokemon Legends: Z-A – Official Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-official-gameplay-overview-trailer-2g2f)
+- [GameSpot: Ghost of Yotei - Creative High Level Combat](https://dev.to/gg_news/gamespot-ghost-of-yotei-creative-high-level-combat-27le)
 <!-- BLOG-POST-LIST:END -->
 
 ---
