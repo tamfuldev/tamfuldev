@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-4gh7)
-- [GameSpot: Ghost Of Yotei 10 Tips We Wish We Knew Before Playing](https://dev.to/gg_news/gamespot-ghost-of-yotei-10-tips-we-wish-we-knew-before-playing-5bpo)
-- [GameSpot: How Silent Hill F Is Connected To The Rest Of The Series](https://dev.to/gg_news/gamespot-how-silent-hill-f-is-connected-to-the-rest-of-the-series-6l4)
-- [GameSpot: Which Ghost of Yotei Mode Should You Play?](https://dev.to/gg_news/gamespot-which-ghost-of-yotei-mode-should-you-play-4f8p)
-- [IGN: What Pokemon Reveals About Peacemaker&#39;s Earth-X - IGN Daily Fix](https://dev.to/gg_news/ign-what-pokemon-reveals-about-peacemakers-earth-x-ign-daily-fix-1ch7)
+- [50 Most Useful JavaScript Snippets](https://dev.to/softwaredeveloper01/50-most-useful-javascript-snippets-59on)
+- [AWS Security Token Service STS and usage](https://dev.to/wakeup_flower_8591a6cb6a9/aws-security-token-service-sts-and-usage-4f3c)
+- [AI Dealers: When Technology Meets Human Intuition](https://dev.to/vvvnetwork/ai-dealers-when-technology-meets-human-intuition-k4d)
+- [Devoxx: Investing for geeks v1.1.0 by Foivos Zakkak](https://dev.to/scale_youtube/devoxx-investing-for-geeks-v110-by-foivos-zakkak-2h1f)
+- [KEXP: Waxahatchee - Evil Spawn &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-evil-spawn-live-on-kexp-f44)
 <!-- BLOG-POST-LIST:END -->
 
 ---
