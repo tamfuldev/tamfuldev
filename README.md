@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building on LangChain, FAISS, and Next.js, I turned my mother‑in‑law’s Mexican recipes into SazónBot—a bilingual AI chef that scales dishes, offers substitutions, and even embeds cooking videos. Check out the journey!](https://dev.to/yosolita1978/building-on-langchain-faiss-and-nextjs-i-turned-my-mother-in-laws-mexican-recipes-into-pmg)
-- [Unlocking Productivity: How to Leverage AI Tools for Enhanced Development Workflows](https://dev.to/mikeover/unlocking-productivity-how-to-leverage-ai-tools-for-enhanced-development-workflows-4ng2)
-- [Building SazónBot: A Journey from Family Recipes to AI Chatbot](https://dev.to/yosolita1978/building-sazonbot-a-journey-from-family-recipes-to-ai-chatbot-3096)
-- [Ovi - Generate Videos With Audio Like VEO 3 or SORA 2 - Run Locally - Open Source for Free](https://dev.to/furkangozukara/ovi-generate-videos-with-audio-like-veo-3-or-sora-2-run-locally-open-source-for-free-564)
-- [KEXP: Waxahatchee - Much Ado About Nothing &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-much-ado-about-nothing-live-on-kexp-54fe)
+- [No Laying Up Podcast: Chop Session with Cody | Trap Draw, Ep 361](https://dev.to/youtube_golf/no-laying-up-podcast-chop-session-with-cody-trap-draw-ep-361-39mc)
+- [Golf.com: Secret Envelopes, Unruly Fans, Europe Domination: Unpacking the 2025 Ryder Cup](https://dev.to/youtube_golf/golfcom-secret-envelopes-unruly-fans-europe-domination-unpacking-the-2025-ryder-cup-383i)
+- [Peter Finch Golf: The most formidable test in Scottish golf...](https://dev.to/youtube_golf/peter-finch-golf-the-most-formidable-test-in-scottish-golf-1ce8)
+- [Danny Maude: I Wish a Golf Coach Had Told Me This Sooner](https://dev.to/youtube_golf/danny-maude-i-wish-a-golf-coach-had-told-me-this-sooner-4ig9)
+- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-31nl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
