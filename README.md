@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Which Ghost of Yotei Mode Should You Play?](https://dev.to/gg_news/gamespot-which-ghost-of-yotei-mode-should-you-play-4848)
-- [GameSpot: Ghost of Yotei - The Most Stylish Armor Combinations](https://dev.to/gg_news/gamespot-ghost-of-yotei-the-most-stylish-armor-combinations-1p64)
-- [GameSpot: skate. | Early Access Season 1 Overview Trailer](https://dev.to/gg_news/gamespot-skate-early-access-season-1-overview-trailer-2g40)
-- [GameSpot: Call of Duty Developers Share Their Favorite Loadouts](https://dev.to/gg_news/gamespot-call-of-duty-developers-share-their-favorite-loadouts-35bg)
-- [IGN: Hollow Knight: Silksong - All Flea Locations | Fleafriend Achievement Guide](https://dev.to/gg_news/ign-hollow-knight-silksong-all-flea-locations-fleafriend-achievement-guide-43in)
+- [The Secure Network Automation Playbook: Using Ansible, Python, and GitOps for Security](https://dev.to/gagreatprogrammer/the-secure-network-automation-playbook-using-ansible-python-and-gitops-for-security-457j)
+- [How to Sell Services Directly from Your Portfolio Without Third-Party Platforms](https://dev.to/imtaslim/how-to-sell-services-directly-from-your-portfolio-without-third-party-platforms-4mnf)
+- [Understanding Google Maps Grounding with ADK &lpar;Part 2/5&rpar;](https://dev.to/greyisheepai/understanding-google-maps-grounding-with-adk-part-25-476)
+- [DBMS – Transactions, Deadlocks &amp; Log-Based Recovery](https://dev.to/sugesh_appu_54958a343aaf5/dbms-transactions-deadlocks-log-based-recovery-3c4j)
+- [🚀 Day 34 of My Data Journey](https://dev.to/_adii3107/day-34-of-my-data-journey-55a0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
