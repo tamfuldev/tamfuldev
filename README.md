@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Latent Space in LLMs: A Deep Dive](https://dev.to/kuldeep_paul/understanding-the-latent-space-in-llms-a-deep-dive-7e5)
-- [JavaScript Arrow Functions Explained: Guide to ES6+ Syntax](https://dev.to/om_u101/javascript-arrow-functions-explained-guide-to-es6-syntax-17i4)
-- [Indexing, Hashing &amp; Query Optimization in DBMS](https://dev.to/jerlin_vanessavincentpa/indexing-hashing-query-optimization-in-dbms-61m)
-- [Excel in the Era of Power BI &amp; Python](https://dev.to/maureenmuthonihue/excel-in-the-era-of-power-bi-python-o1a)
-- [Running Goose in Containers &lpar;Without Losing Your Mind&rpar;](https://dev.to/agasta/running-goose-in-containers-without-losing-your-mind-3m8)
+- [GameSpot: Which Ghost of Yotei Mode Should You Play?](https://dev.to/gg_news/gamespot-which-ghost-of-yotei-mode-should-you-play-4848)
+- [GameSpot: Ghost of Yotei - The Most Stylish Armor Combinations](https://dev.to/gg_news/gamespot-ghost-of-yotei-the-most-stylish-armor-combinations-1p64)
+- [GameSpot: skate. | Early Access Season 1 Overview Trailer](https://dev.to/gg_news/gamespot-skate-early-access-season-1-overview-trailer-2g40)
+- [GameSpot: Call of Duty Developers Share Their Favorite Loadouts](https://dev.to/gg_news/gamespot-call-of-duty-developers-share-their-favorite-loadouts-35bg)
+- [IGN: Hollow Knight: Silksong - All Flea Locations | Fleafriend Achievement Guide](https://dev.to/gg_news/ign-hollow-knight-silksong-all-flea-locations-fleafriend-achievement-guide-43in)
 <!-- BLOG-POST-LIST:END -->
 
 ---
