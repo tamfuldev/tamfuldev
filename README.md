@@ -4,11 +4,16 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-53j9)
-- [GameSpot: Ghost Of Yotei 10 Tips We Wish We Knew Before Playing](https://dev.to/gg_news/gamespot-ghost-of-yotei-10-tips-we-wish-we-knew-before-playing-3780)
-- [GameSpot: Super Mario Galaxy And Galaxy 2 Are Still Peak 3D Platforming](https://dev.to/gg_news/gamespot-super-mario-galaxy-and-galaxy-2-are-still-peak-3d-platforming-1g87)
-- [GameSpot: Pokemon Legends: Z-A – Official Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-official-gameplay-overview-trailer-2g2f)
-- [GameSpot: Ghost of Yotei - Creative High Level Combat](https://dev.to/gg_news/gamespot-ghost-of-yotei-creative-high-level-combat-27le)
+- [Example Online Postgre – Rune + RedBean CLI Application](https://dev.to/anwarachilles/example-online-postgre-rune-redbean-cli-application-5b0p)
+- [Find the Maximum Area possible given different vertical lines on X-Axis &lpar;Leetcode Problem Analysis&rpar;](https://dev.to/bjorndonald_bassey_c126c/find-the-maximum-area-possible-given-different-vertical-lines-on-x-axis-leetcode-problem-analysis-2h9o)
+- [Never asked JavaScript interview question 🤪
+How will you create an object of class from other object 
+Normal way - 
+const jack = new Person&lpar;&rpar;; //using class name
+
+find a way to create tom object without using class name Person](https://dev.to/randhavevaibhav/never-asked-javascript-interview-question-how-will-you-create-an-object-of-class-from-other-37pb)
+- [NORMALIZATION](https://dev.to/sriram_pg_91a5c6c4af2ce74/normalization-58kd)
+- [🔑 NestJS Expert Series &lpar;Part 3&rpar;: Authentication &amp; Authorization with JWT and Guards your](https://dev.to/devto_with_yog/nestjs-expert-series-part-3-authentication-authorization-with-jwt-and-guards-your-1cgo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
