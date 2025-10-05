@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Game Pass Joins the Price Hike - Unlocked Clips](https://dev.to/gg_news/ign-game-pass-joins-the-price-hike-unlocked-clips-2a93)
-- [IGN: Megabonk - Official Launch Trailer](https://dev.to/gg_news/ign-megabonk-official-launch-trailer-3cj3)
-- [Ringer Movies: The Best Picture Power Rankings](https://dev.to/popcorn_movies/ringer-movies-the-best-picture-power-rankings-c0b)
-- [Ringer Movies: ‘One Battle After Another’: A Second Opinion With Van Lathan](https://dev.to/popcorn_movies/ringer-movies-one-battle-after-another-a-second-opinion-with-van-lathan-5169)
-- [CinemaSins: Everything Wrong With Dumb and Dumber In 18 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-dumb-and-dumber-in-18-minutes-or-less-b9k)
+- [Golang เรื่องที่อาจผิดพลาดกับ Array, Slice และ Map](https://dev.to/jameinprogress/golang-eruuengthiiaacchphidphlaadkab-array-slice-aela-map-42gc)
+- [Showcase skill icons badge for GitHub README profile](https://dev.to/thuongtruong/showcase-skill-icons-badge-for-github-readme-profile-8bg)
+- [The Day I Automated Web Check-in: A Tale of Wonder and Worry](https://dev.to/ankur_bansal_d7487ae561e7/the-day-i-automated-web-check-in-a-tale-of-wonder-and-worry-3fem)
+- [LUXARG](https://dev.to/amzy31/luxarg-2efb)
+- [Simple College Student Schema](https://dev.to/mbewe_catherine24cb068_6/simple-college-student-schema-3egi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
