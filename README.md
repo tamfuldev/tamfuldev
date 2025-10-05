@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Wasn&#39;t Born a Developer — I Became One the Hard Way](https://dev.to/blarzhernandez/i-wasnt-born-a-developer-i-became-one-the-hard-way-35e1)
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-47nk)
-- [GameSpot: Pokemon Legends: Z-A – Official Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-official-gameplay-overview-trailer-4jlp)
-- [GameSpot: How Silent Hill F Is Connected To The Rest Of The Series](https://dev.to/gg_news/gamespot-how-silent-hill-f-is-connected-to-the-rest-of-the-series-383n)
-- [GameSpot: skate. | Early Access Season 1 Overview Trailer](https://dev.to/gg_news/gamespot-skate-early-access-season-1-overview-trailer-44ab)
+- [How to Create an IoT App in Kotlin Multiplatform](https://dev.to/koral/how-to-create-an-iot-app-in-kotlin-multiplatform-204m)
+- [Why We Built Meku? Rethinking How Developers Turn Ideas Into Apps](https://dev.to/meku/why-we-built-meku-rethinking-how-developers-turn-ideas-into-apps-3dj6)
+- [AI Agents for Marketing: A Real-World Content Automation Case Study](https://dev.to/jucelinux/ai-agents-for-marketing-a-real-world-content-automation-case-study-24kn)
+- [How to Deploy n8n with Defang](https://dev.to/toki_hossain/how-to-deploy-n8n-with-defang-34n5)
+- [Devoxx: Hello &lpar;Virtual&rpar; World by Keren Kenzi](https://dev.to/scale_youtube/devoxx-hello-virtual-world-by-keren-kenzi-1jn0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
