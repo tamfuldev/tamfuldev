@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DBMS - Transactions, Deadlocks &amp; Log-Based Recovery](https://dev.to/reshma_devi_ba32b2f54397d/dbms-transactions-deadlocks-log-based-recovery-4173)
-- [Your Smart Home is Betraying You: How to Secure IoT Devices &lpar;Cameras, Speakers, Kettles&rpar;](https://dev.to/yanix_yanix_d22423595186a/your-smart-home-is-betraying-you-how-to-secure-iot-devices-cameras-speakers-kettles-34hg)
-- [I Spent 6 Hours Per Blog Post Until I Built This AI Content Platform](https://dev.to/setasena_randata_1cfa30f4/i-spent-6-hours-per-blog-post-until-i-built-this-ai-content-platform-2m14)
-- [🎨 Django Templates &amp; Static Files – Building Dynamic HTML](https://dev.to/gopal_ghate_5bda01b730e45/django-templates-static-files-building-dynamic-html-article-5-41cb)
-- [[Boost]](https://dev.to/trivedivatsal/-46bl)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-4ofa)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-58o0)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-1fc7)
+- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-2f51)
+- [Danny Maude: I Wish a Golf Coach Had Told Me This Sooner](https://dev.to/youtube_golf/danny-maude-i-wish-a-golf-coach-had-told-me-this-sooner-2ieb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
