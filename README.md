@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Some reflections after passing the AWS Certified Machine Learning Engineer - Associate exam:](https://dev.to/camille_chang/some-reflections-after-passing-the-aws-certified-machine-learning-engineer-associate-exam-kn4)
-- [50 Most Useful TypeScript Snippets](https://dev.to/softwaredeveloper01/50-most-useful-typescript-snippets-5c1p)
-- [Most developers end up spending time on repetitive tasks, while the best developers focus on optimisation. If you are not optimising, you are leaving space for creative work.](https://dev.to/jaideepparashar/most-developers-end-up-spending-time-on-repetitive-tasks-while-the-best-developers-focus-on-jol)
-- [Scaling Projects: How AI Transforms DevOps &amp; Continuous Integration](https://dev.to/jaideepparashar/scaling-projects-how-ai-transforms-devops-continuous-integration-45p)
-- [What Hetzner Is &lpar;and Why Developers Love It&rpar;](https://dev.to/thekarlesi/what-hetzner-is-and-why-developers-love-it-l35)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-44hc)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-24ea)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-m5d)
+- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-m63)
+- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-4486)
 <!-- BLOG-POST-LIST:END -->
 
 ---
