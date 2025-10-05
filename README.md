@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Hollow Knight: Silksong - All Mask Shard Locations](https://dev.to/gg_news/ign-hollow-knight-silksong-all-mask-shard-locations-3h9j)
-- [IGN: Lootbane - Official Announce Trailer](https://dev.to/gg_news/ign-lootbane-official-announce-trailer-328g)
-- [IGN: Lost Contact: UFOs After Wartime - Official Trailer &lpar;2025&rpar; Documentary](https://dev.to/gg_news/ign-lost-contact-ufos-after-wartime-official-trailer-2025-documentary-2eo9)
-- [IGN: Your Host - Official Trailer #2 &lpar;2025&rpar; Jackie Earle Haley, Ella-Rae Smith](https://dev.to/gg_news/ign-your-host-official-trailer-2-2025-jackie-earle-haley-ella-rae-smith-2cke)
-- [IGN: Stitch Head - Official Teaser Trailer &lpar;2025&rpar;](https://dev.to/gg_news/ign-stitch-head-official-teaser-trailer-2025-4a57)
+- [DBMS - Transactions, Deadlocks &amp; Log-Based Recovery](https://dev.to/reshma_devi_ba32b2f54397d/dbms-transactions-deadlocks-log-based-recovery-4173)
+- [Your Smart Home is Betraying You: How to Secure IoT Devices &lpar;Cameras, Speakers, Kettles&rpar;](https://dev.to/yanix_yanix_d22423595186a/your-smart-home-is-betraying-you-how-to-secure-iot-devices-cameras-speakers-kettles-34hg)
+- [I Spent 6 Hours Per Blog Post Until I Built This AI Content Platform](https://dev.to/setasena_randata_1cfa30f4/i-spent-6-hours-per-blog-post-until-i-built-this-ai-content-platform-2m14)
+- [🎨 Django Templates &amp; Static Files – Building Dynamic HTML](https://dev.to/gopal_ghate_5bda01b730e45/django-templates-static-files-building-dynamic-html-article-5-41cb)
+- [[Boost]](https://dev.to/trivedivatsal/-46bl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
