@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Diffium found 4 great Golang contributors during Hacktoberfest!](https://dev.to/kubeden/diffium-found-4-great-golang-contributors-during-hacktoberfest-2f94)
-- [1000+ Free APIs For Developers](https://dev.to/we-the-developers/1000-free-apis-for-developers-49kc)
-- [Project Ideas](https://dev.to/muhammad_ammar_42be750b7c/project-ideas-12cb)
-- [Go Microservices Boilerplate Series: From Hello World to Production &lpar;Part 1&rpar;](https://dev.to/sagarmaheshwary/go-microservices-boilerplate-series-from-hello-world-to-production-part-1-46k5)
-- [Review and Secure a Lambda Function with an IAM Least Privilege Based Security Policy: CloudTrail and Athena Approach](https://dev.to/aws-builders/review-and-secure-a-lambda-function-with-an-iam-least-privilege-based-security-policy-cloudtrail-adm)
+- [IGN: Hollow Knight: Silksong - All Mask Shard Locations](https://dev.to/gg_news/ign-hollow-knight-silksong-all-mask-shard-locations-3h9j)
+- [IGN: Lootbane - Official Announce Trailer](https://dev.to/gg_news/ign-lootbane-official-announce-trailer-328g)
+- [IGN: Lost Contact: UFOs After Wartime - Official Trailer &lpar;2025&rpar; Documentary](https://dev.to/gg_news/ign-lost-contact-ufos-after-wartime-official-trailer-2025-documentary-2eo9)
+- [IGN: Your Host - Official Trailer #2 &lpar;2025&rpar; Jackie Earle Haley, Ella-Rae Smith](https://dev.to/gg_news/ign-your-host-official-trailer-2-2025-jackie-earle-haley-ella-rae-smith-2cke)
+- [IGN: Stitch Head - Official Teaser Trailer &lpar;2025&rpar;](https://dev.to/gg_news/ign-stitch-head-official-teaser-trailer-2025-4a57)
 <!-- BLOG-POST-LIST:END -->
 
 ---
