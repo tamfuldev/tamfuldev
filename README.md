@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [100 Days of DevOps: Day 62.](https://dev.to/wycliffealphus/100-days-of-devops-day-62-31he)
-- [Hack&#39;spire25 on top 💥🔥](https://dev.to/debaditya_saha_5b45172210/hackspire25-on-top-4lco)
-- [100 Days of DevOps: Day 62](https://dev.to/wycliffealphus/100-days-of-devops-day-63-20bi)
-- [Explorando o Java 25: O Que Há de Novo na Última Versão LTS do Java](https://dev.to/ikauedev/explorando-o-java-25-o-que-ha-de-novo-na-ultima-versao-lts-do-java-50gj)
-- [Untitled](https://dev.to/play_boy_4428b260cdb2b6e5/untitled-2c6m)
+- [Testing the product as an end user.](https://dev.to/saikrishna_oggu/testing-the-product-as-an-end-user-2hll)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-1c8)
+- [KEXP: Waxahatchee - Evil Spawn &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-evil-spawn-live-on-kexp-35i5)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-1l3b)
+- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-29hc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
