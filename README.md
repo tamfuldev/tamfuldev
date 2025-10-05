@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Uma hipótese para os layoffs do Itaú](https://dev.to/talking-about-testing/uma-hipotese-para-os-layoffs-do-itau-304f)
-- [From LLMs to Liability: How Agents Grow Up](https://dev.to/narednra_reddyyadama_d64/from-llms-to-liability-how-agents-grow-up-3ndi)
-- [Working with Cursors and Triggers in Oracle Live SQL](https://dev.to/lohita_blue_d6409977eec4c/working-with-cursors-and-triggers-in-oracle-live-sql-i72)
-- [&quot;this&quot; Key word in java script](https://dev.to/arokiya_kithiyon_1f2bad36/this-key-word-in-java-script-gda)
-- [GitHub with Git: The Dynamic Duo of Developer Dreams 🚀](https://dev.to/manishpcp/github-with-git-the-dynamic-duo-of-developer-dreams-5055)
+- [IGN: Game Pass Joins the Price Hike - Unlocked Clips](https://dev.to/gg_news/ign-game-pass-joins-the-price-hike-unlocked-clips-2a93)
+- [IGN: Megabonk - Official Launch Trailer](https://dev.to/gg_news/ign-megabonk-official-launch-trailer-3cj3)
+- [Ringer Movies: The Best Picture Power Rankings](https://dev.to/popcorn_movies/ringer-movies-the-best-picture-power-rankings-c0b)
+- [Ringer Movies: ‘One Battle After Another’: A Second Opinion With Van Lathan](https://dev.to/popcorn_movies/ringer-movies-one-battle-after-another-a-second-opinion-with-van-lathan-5169)
+- [CinemaSins: Everything Wrong With Dumb and Dumber In 18 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-dumb-and-dumber-in-18-minutes-or-less-b9k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
