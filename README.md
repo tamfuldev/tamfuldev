@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Part-111: 🧱Understanding Kubernetes StatefulSets — The Right Way!](https://dev.to/latchudevops/part-111-understanding-kubernetes-statefulsets-the-right-way-331l)
-- [Building a Beautiful macOS Cleaner with Python and Rich UI](https://dev.to/qdenka/building-a-beautiful-macos-cleaner-with-python-and-rich-ui-2139)
-- [🟠 Bitcoin Breaks New ATH &lpar;$125,700+&rpar; Over the Weekend — What Does It Mean for the Market?](https://dev.to/dan_keller/bitcoin-breaks-new-ath-125700-over-the-weekend-what-does-it-mean-for-the-market-5np)
-- [Self-Adapting Data Pipelines: The Intelligent Future of Data Engineering](https://dev.to/devnotes/self-adapting-data-pipelines-the-intelligent-future-of-data-engineering-b3d)
-- [AI and Attorney-Client Privilege: Hidden Cloud Risks and How to Keep Confidentiality Safe](https://dev.to/heyjoshlee/ai-and-attorney-client-privilege-hidden-cloud-risks-and-how-to-keep-confidentiality-safe-2dh)
+- [5 Things You Must Have Before Accepting Payments Through Your Portfolio](https://dev.to/imtaslim/5-things-you-must-have-before-accepting-payments-through-your-portfolio-3252)
+- [Access Token and Refresh Token](https://dev.to/zeeshanahmad9/access-token-and-refresh-token-2i2h)
+- [OpenTelemetry OpAMP: Getting Started Guide](https://dev.to/itay_from_lawrence/opentelemetry-opamp-getting-started-guide-2gne)
+- [Unlock the Future of AI Video Development with Sora2Code](https://dev.to/wefish_8066174c22023efe5b/unlock-the-future-of-ai-video-development-with-sora2code-oc8)
+- [The Environment Sprawl Nightmare: How Disconnected Development Stages Undermine Your Microservices](https://dev.to/naveens16/the-environment-sprawl-nightmare-how-disconnected-development-stages-undermine-your-microservices-13cg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
