@@ -4,11 +4,13 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: NewDad - Pretty &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-newdad-pretty-live-on-kexp-1f0)
-- [KEXP: NewDad - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-newdad-full-performance-live-on-kexp-1d70)
-- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-1hib)
-- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-3g8g)
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-nkl)
+- [&quot;Effective September 1, 2020, certificates valid for more than 398 days will not be trusted.&quot;
+
+No vote. No consensus. Just done.](https://dev.to/toddhgardner/effective-september-1-2020-certificates-valid-for-more-than-398-days-will-not-be-trusted-no-2o67)
+- [Apple vs. The CAs: The Day One Company Changed Internet Security Forever](https://dev.to/certkit/apple-vs-the-cas-the-day-one-company-changed-internet-security-forever-2bc4)
+- [The Parameter Laboratory: Decorators with Arguments](https://dev.to/aaron_rose_0787cc8b4775a0/the-parameter-laboratory-decorators-with-arguments-40mp)
+- [UI Optimista: El Secreto de las Apps que se Sienten Instantáneas](https://dev.to/dariohg/ui-optimista-el-secreto-de-las-apps-que-se-sienten-instantaneas-2i5d)
+- [# Cloud Resume Challenge &lpar;Azure&rpar; - Part 2: Hosting My Resume Website](https://dev.to/jic/-cloud-resume-challenge-azure-part-2-hosting-my-resume-website-51pl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
