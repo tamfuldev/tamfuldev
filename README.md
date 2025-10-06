@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Deconstructing the B2B Webinar: A Developer&#39;s Checklist for High-Signal Lead Gen](https://dev.to/michaelaiglobal/deconstructing-the-b2b-webinar-a-developers-checklist-for-high-signal-lead-gen-4e57)
-- [When Machines Learn to Discriminate](https://dev.to/rawveg/when-machines-learn-to-discriminate-3dfg)
-- [Ansible Register: How to Store and Reuse Task Output](https://dev.to/spacelift/ansible-register-how-to-store-and-reuse-task-output-15c0)
-- [Badkamer renovatie Utrecht: Wat zijn de kosten per type afwerking?](https://dev.to/wwloodgietersbedrijf/badkamer-renovatie-utrecht-wat-zijn-de-kosten-per-type-afwerking-394j)
-- [Trust Engineering for Builders: A No-Fluff PR Playbook That Actually Works](https://dev.to/sonia_bobrik_1939cdddd79d/trust-engineering-for-builders-a-no-fluff-pr-playbook-that-actually-works-2eal)
+- [Convex - an alternative to Firebase and Supabase](https://dev.to/noyan_alim/convex-an-alternative-to-firebase-and-supabase-3n9e)
+- [The Stack Unpacked Episode 4: to Query or Not to Query](https://dev.to/shaq_attack/the-stack-unpacked-episode-4-to-query-or-not-to-query-4jcp)
+- [My Journey with Pipecat + Attendee &lpar;And Hacking the Infrastructure&rpar;](https://dev.to/angad_2002/my-journey-with-pipecat-attendee-and-hacking-the-infrastructure-3cea)
+- [Part-110: 🗄️Deploying PVC and PV with Pods in Google Kubernetes Engine &lpar;GKE&rpar;](https://dev.to/latchudevops/part-110-deploying-pvc-and-pv-with-pods-in-google-kubernetes-engine-gke-280h)
+- [KEXP: NewDad - Roobosh &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-newdad-roobosh-live-on-kexp-3n3l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
