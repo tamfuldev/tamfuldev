@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [5 Things You Must Have Before Accepting Payments Through Your Portfolio](https://dev.to/imtaslim/5-things-you-must-have-before-accepting-payments-through-your-portfolio-3252)
-- [Access Token and Refresh Token](https://dev.to/zeeshanahmad9/access-token-and-refresh-token-2i2h)
-- [OpenTelemetry OpAMP: Getting Started Guide](https://dev.to/itay_from_lawrence/opentelemetry-opamp-getting-started-guide-2gne)
-- [Unlock the Future of AI Video Development with Sora2Code](https://dev.to/wefish_8066174c22023efe5b/unlock-the-future-of-ai-video-development-with-sora2code-oc8)
-- [The Environment Sprawl Nightmare: How Disconnected Development Stages Undermine Your Microservices](https://dev.to/naveens16/the-environment-sprawl-nightmare-how-disconnected-development-stages-undermine-your-microservices-13cg)
+- [🔥Top 10 Make alternatives for building AI automation 🤖](https://dev.to/composiodev/top-10-make-alternatives-for-building-ai-automation-1jgc)
+- [แก้ปัญหาภาษาไทยใน Git Log | Git Diff](https://dev.to/anuchito/aekpayhaaphaasaaaithyain-git-log-git-diff-4d14)
+- [React: Effective UI Practices - State Management](https://dev.to/gokulnathp/react-effective-ui-practices-3h82)
+- [Need advice on improving filtering page performance NEXT](https://dev.to/mastermindlegion/need-advice-on-improving-filtering-page-performance-next-460n)
+- [Geolocating History with AI: How Large Language Models are Mapping Colonial Virginia Land Grants](https://dev.to/shifa_noorulain_2c5f713e9/geolocating-history-with-ai-how-large-language-models-are-mapping-colonial-virginia-land-grants-2ol4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
