@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-46jb)
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-2bob)
-- [GameSpot: How Silent Hill F Is Connected To The Rest Of The Series](https://dev.to/gg_news/gamespot-how-silent-hill-f-is-connected-to-the-rest-of-the-series-2ama)
-- [GameSpot: Which Ghost of Yotei Mode Should You Play?](https://dev.to/gg_news/gamespot-which-ghost-of-yotei-mode-should-you-play-500e)
-- [GameSpot: Call of Duty Developers Share Their Favorite Loadouts](https://dev.to/gg_news/gamespot-call-of-duty-developers-share-their-favorite-loadouts-5030)
+- [Mastering TCJSGame Audio System: Creating Immersive Soundscapes](https://dev.to/kehinde_owolabi_e2e54567a/mastering-tcjsgame-audio-system-creating-immersive-soundscapes-og2)
+- [Coding Challenge Practice - Question 22](https://dev.to/tomivan/coding-challenge-practice-question-22-4pb8)
+- [Real Results, Not Battlecard Bloat: The Outcomes Playwise HQ Delivers](https://dev.to/paultowers/real-results-not-battlecard-bloat-the-outcomes-playwise-hq-delivers-37ec)
+- [50 Most Useful Node.js Snippets](https://dev.to/softwaredeveloper01/50-most-useful-nodejs-snippets-54do)
+- [KEXP: NewDad - Roobosh &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-newdad-roobosh-live-on-kexp-42ac)
 <!-- BLOG-POST-LIST:END -->
 
 ---
