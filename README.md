@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-2nh4)
-- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-59in)
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-26pa)
-- [Hiring Part-Time Editors for .Net Programming &lpar;Medium&rpar;](https://dev.to/ssukhpinder/hiring-part-time-editors-for-net-programming-medium-jo9)
-- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-4fkb)
+- [5 Weeks of Learning: Week 3](https://dev.to/akshitaexe/5-weeks-of-learning-week-3-46id)
+- [Effortless File Conversion for Developers: Free Online Tools You’ll Actually Use](https://dev.to/formalex/effortless-file-conversion-for-developers-free-online-tools-youll-actually-use-476f)
+- [💬 Waaku: Manage Multiple WhatsApp Sessions with One Dashboard](https://dev.to/ilhamsabir/waaku-manage-multiple-whatsapp-sessions-with-one-dashboard-1d54)
+- [Codie&#39;s Cognitive Chronicals](https://dev.to/izzyfuller/codies-cognitive-chronicals-3kd8)
+- [CSS Sizing Units: The Complete Guide to Numbers, Percentages, and Relative Lengths](https://dev.to/er-raj-aryan/css-sizing-units-the-complete-guide-to-numbers-percentages-and-relative-lengths-14dl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
