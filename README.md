@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AWS re/Start – My Week 8 Experience](https://dev.to/ijay/aws-restart-my-week-8-experience-1g76)
-- [Resume Scan AI app built with Next.js 15, Tailwind CSS, BetterAuth, Open AI, Inngest, and Shadcn/ui](https://dev.to/saidmounaim/resume-scan-ai-app-built-with-nextjs-15-tailwind-css-betterauth-open-ai-inngest-and-shadcnui-1jae)
-- [Web3 Attribution Explained | The Onchain Growth Guide for Web3 Marketing Teams](https://dev.to/yos/web3-attribution-explained-the-onchain-growth-guide-for-web3-marketing-teams-5fha)
-- [Web3 Event Analytics | The Complete Guide to Analytics &amp; Attribution for Web3](https://dev.to/yos/web3-event-analytics-the-complete-guide-to-analytics-attribution-for-web3-j2h)
-- [Caching in Vector Database: What You Need to Know](https://dev.to/anthcunny/caching-in-vector-database-what-you-need-to-know-1pkj)
+- [Family Adventure on the Manaslu Circuit: A Himalayan Trek for All Ages](https://dev.to/joywinter90/family-adventure-on-the-manaslu-circuit-a-himalayan-trek-for-all-ages-3gi9)
+- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-eo0)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-4b5j)
+- [GameSpot: Pokemon Legends: Z-A – Official Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-official-gameplay-overview-trailer-2b5p)
+- [GameSpot: Battlefield 6 Everything To Know](https://dev.to/gg_news/gamespot-battlefield-6-everything-to-know-575m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
