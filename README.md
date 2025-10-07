@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-2jca)
-- [KEXP: NewDad - Roobosh &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-newdad-roobosh-live-on-kexp-51f1)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-597p)
-- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-jc2)
-- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-4ia0)
+- [Hacktoberfest 2025 - First post](https://dev.to/musaddiq625/hacktoberfest-2025-first-post-363m)
+- [How to Create Effective Termbase Glossaries for Machine Translation](https://dev.to/testjace/how-to-create-effective-termbase-glossaries-for-machine-translation-4718)
+- [A Simple Way to Grasp Dependency Injection](https://dev.to/duskoperic/a-simple-way-to-grasp-dependency-injection-41ef)
+- [ปลดล็อกพลัง ElizaOS: สร้างปลั๊กอิน AI แปลงข้อความเป็นวิดีโอ &lpar;ฉบับรวบรัด&rpar;](https://dev.to/ubinix_warun/pldlkphlang-elizaos-sraangplakin-ai-aeplngkhkhwaamepnwidiio-chbabrwbrad-47oo)
+- [CRUD Operations in MongoDB for Beginners](https://dev.to/iniko/crud-operations-in-mongodb-for-beginners-58h9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
