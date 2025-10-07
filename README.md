@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Supervising an AI Engineer: Lessons from 212 Sessions](https://dev.to/razoorka/supervising-an-ai-engineer-lessons-from-212-sessions-4gaa)
-- [Refactoring 034 - Reify Parameters](https://dev.to/mcsee/refactoring-034-reify-parameters-49ml)
-- [The Silicon Battlefield](https://dev.to/rawveg/the-silicon-battlefield-2j16)
-- [Trust Engineering for Startups: How to Build Credibility the Way You Ship Code](https://dev.to/sonia_bobrik_1939cdddd79d/trust-engineering-for-startups-how-to-build-credibility-the-way-you-ship-code-1683)
-- [DevOps Meets Quantum: The Next Frontier in Computing](https://dev.to/satyam_gupta_0d1ff2152dcc/devops-meets-quantum-the-next-frontier-in-computing-1bkj)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-1jnc)
+- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Blockage &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-blockage-live-on-kexp-4hcg)
+- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - The Wyrm &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-the-wyrm-live-on-kexp-4kn1)
+- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Carousel &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-carousel-live-on-kexp-1h1o)
+- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Stitches &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-stitches-live-on-kexp-mi6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
