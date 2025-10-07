@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [#DAY 8: Monitoring, Logs &amp; Troubleshooting](https://dev.to/samueladeduntan/day-8-monitoring-logs-troubleshooting-406d)
-- [#DAY 7: Users &amp; Authentication](https://dev.to/samueladeduntan/day-7-users-authentication-12jm)
-- [#DAY 6: Security Profiles: Web Filtering &amp; Application Control](https://dev.to/samueladeduntan/day-6-security-profiles-web-filtering-application-control-341j)
-- [#DAY 5: Firewall Policies, NAT &amp; Logging](https://dev.to/samueladeduntan/day-5-firewall-policies-nat-logging-4ofj)
-- [#DAY 4: Interfaces &amp; Internal Network Setup](https://dev.to/samueladeduntan/day-4-interfaces-internal-network-setup-3176)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-368n)
+- [KEXP: NewDad - Entertainer &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-newdad-entertainer-live-on-kexp-38ja)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-2b0h)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-4m4o)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-2048)
 <!-- BLOG-POST-LIST:END -->
 
 ---
