@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [10 Laravel Edge Cases Every Developer Should Know &lpar;Before They Hit Production&rpar;](https://dev.to/kalam714/10-laravel-edge-cases-every-developer-should-know-before-they-hit-production-14c1)
-- [GameSpot: $100 to Craft the Best Steam Sale Cart](https://dev.to/gg_news/gamespot-100-to-craft-the-best-steam-sale-cart-2fmd)
-- [GameSpot: Battlefield 6 - Official Launch Hype Trailer](https://dev.to/gg_news/gamespot-battlefield-6-official-launch-hype-trailer-55oj)
-- [IGN: Nintendo - Official &#39;Close to You&#39; Short Film](https://dev.to/gg_news/ign-nintendo-official-close-to-you-short-film-3eok)
-- [Test any website with one URL—meet Scout &lpar;an AI quality companion&rpar; 🧠](https://dev.to/fuderrpham03/test-any-website-with-one-url-meet-scout-an-ai-quality-companion-44d5)
+- [A Medium-Rare Brain Understanding the Essential Tools of Modern Cryptography Part 1](https://dev.to/ayda_ma04a645d96526b/a-medium-rare-brain-understanding-the-essential-tools-of-modern-cryptography-part-1-2nc8)
+- [Stop Writing &quot;fix bug&quot;. Clean Up Your Commits With This VS Code Extension](https://dev.to/prismcoder/stop-writing-fix-bug-clean-up-your-commits-with-this-vs-code-extension-jof)
+- [El Futuro de la Mensajería Privada | Análisis Completo y Guía de Uso](https://dev.to/oliverholiveros/el-futuro-de-la-mensajeria-privada-analisis-completo-y-guia-de-uso-3b84)
+- [Quick Debugging Techniques for Playwright Tests](https://dev.to/pranav_bharti/quick-debugging-techniques-for-playwright-tests-17kg)
+- [please give it a read](https://dev.to/guna01/please-give-it-a-read-3n8b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
