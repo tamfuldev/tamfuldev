@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Hacktoberfest 2025 - First post](https://dev.to/musaddiq625/hacktoberfest-2025-first-post-363m)
-- [How to Create Effective Termbase Glossaries for Machine Translation](https://dev.to/testjace/how-to-create-effective-termbase-glossaries-for-machine-translation-4718)
-- [A Simple Way to Grasp Dependency Injection](https://dev.to/duskoperic/a-simple-way-to-grasp-dependency-injection-41ef)
-- [ปลดล็อกพลัง ElizaOS: สร้างปลั๊กอิน AI แปลงข้อความเป็นวิดีโอ &lpar;ฉบับรวบรัด&rpar;](https://dev.to/ubinix_warun/pldlkphlang-elizaos-sraangplakin-ai-aeplngkhkhwaamepnwidiio-chbabrwbrad-47oo)
-- [CRUD Operations in MongoDB for Beginners](https://dev.to/iniko/crud-operations-in-mongodb-for-beginners-58h9)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-26ej)
+- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-2eij)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-7on)
+- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-o93)
+- [How to Add a Wishlist Count Bubble to Your Shopify Theme &lpar;No JavaScript Needed&rpar;?](https://dev.to/sebbanfa/how-to-add-a-wishlist-count-bubble-to-your-shopify-theme-no-javascript-needed-3ej9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
