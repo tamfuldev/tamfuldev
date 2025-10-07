@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GKE Pricing Demystified: Autopilot vs Standard Mode](https://dev.to/mechcloud_academy/gke-pricing-demystified-autopilot-vs-standard-mode-1441)
-- [Enabling developers in GitHub Codespaces](https://dev.to/fastly/enabling-developers-in-github-codespaces-1l3a)
-- [Conditional Dependency Injection In Spring Framework And Spring Boot](https://dev.to/ibrahimgunduz34/conditional-dependency-injection-in-spring-framework-and-spring-boot-266m)
-- [Jeff Su: The REALITY of AI Video in 2025 &lpar;it’s not what you think&rpar;](https://dev.to/future_ai/jeff-su-the-reality-of-ai-video-in-2025-its-not-what-you-think-4faa)
-- [GameSpot: How Silent Hill F Is Connected To The Rest Of The Series](https://dev.to/gg_news/gamespot-how-silent-hill-f-is-connected-to-the-rest-of-the-series-4n7e)
+- [How Game Simulations are Reshaping Military Strategy](https://dev.to/gamepill/how-game-simulations-are-reshaping-military-strategy-5h7i)
+- [How MySQL Actually Works: A Deep Dive into Database Internals](https://dev.to/mush1e/how-mysql-actually-works-a-deep-dive-into-database-internals-4o16)
+- [Network Monitoring with PRTG](https://dev.to/samueladeduntan/network-monitoring-with-prtg-3fd5)
+- [MCP servers have issues, so I built &#39;lootbox&#39; &lpar;inspired by Cloudflare&#39;s Code Mode&rpar;](https://dev.to/jm-codes/mcp-servers-have-issues-so-i-built-lootbox-inspired-by-cloudflares-code-mode-16gb)
+- [Mobile tables](https://dev.to/rossangus/mobile-tables-fj8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
