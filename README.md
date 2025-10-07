@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Game Simulations are Reshaping Military Strategy](https://dev.to/gamepill/how-game-simulations-are-reshaping-military-strategy-5h7i)
-- [How MySQL Actually Works: A Deep Dive into Database Internals](https://dev.to/mush1e/how-mysql-actually-works-a-deep-dive-into-database-internals-4o16)
-- [Network Monitoring with PRTG](https://dev.to/samueladeduntan/network-monitoring-with-prtg-3fd5)
-- [MCP servers have issues, so I built &#39;lootbox&#39; &lpar;inspired by Cloudflare&#39;s Code Mode&rpar;](https://dev.to/jm-codes/mcp-servers-have-issues-so-i-built-lootbox-inspired-by-cloudflares-code-mode-16gb)
-- [Mobile tables](https://dev.to/rossangus/mobile-tables-fj8)
+- [10 Laravel Edge Cases Every Developer Should Know &lpar;Before They Hit Production&rpar;](https://dev.to/kalam714/10-laravel-edge-cases-every-developer-should-know-before-they-hit-production-14c1)
+- [GameSpot: $100 to Craft the Best Steam Sale Cart](https://dev.to/gg_news/gamespot-100-to-craft-the-best-steam-sale-cart-2fmd)
+- [GameSpot: Battlefield 6 - Official Launch Hype Trailer](https://dev.to/gg_news/gamespot-battlefield-6-official-launch-hype-trailer-55oj)
+- [IGN: Nintendo - Official &#39;Close to You&#39; Short Film](https://dev.to/gg_news/ign-nintendo-official-close-to-you-short-film-3eok)
+- [Test any website with one URL—meet Scout &lpar;an AI quality companion&rpar; 🧠](https://dev.to/fuderrpham03/test-any-website-with-one-url-meet-scout-an-ai-quality-companion-44d5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
