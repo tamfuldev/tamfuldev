@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [10 Best Feature Flag Tools to Release New Features with Confidence](https://dev.to/samlongbottom/10-best-feature-flag-tools-to-release-new-features-with-confidence-o64)
-- [1–10 Must CSS Layout Rules &lpar;Safari + Responsive Safe&rpar;](https://dev.to/raielly/1-10-must-css-layout-rules-safari-responsive-safe-4pn8)
-- [⚡ The Future is on Your Thumb: Decoding ThumbPay, India&#39;s Boldest New UPI Concept](https://dev.to/friesforlife/the-future-is-on-your-thumb-decoding-thumbpay-indias-boldest-new-upi-concept-m7i)
-- [Women’s Health: 10 Vital Tips to Strengthen Your Physical and Mental Well-Being](https://dev.to/jhanvi_shukla/womens-health-10-vital-tips-to-strengthen-your-physical-and-mental-well-being-1856)
-- [Understanding ACID Properties in SQL with Examples](https://dev.to/kani-l/understanding-acid-properties-in-sql-with-examples-1302)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-2jca)
+- [KEXP: NewDad - Roobosh &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-newdad-roobosh-live-on-kexp-51f1)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-597p)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-jc2)
+- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-4ia0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
