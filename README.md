@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Bun-ffi - Getting started with C++ and Bun](https://dev.to/calumk/bun-ffi-getting-started-with-c-and-bun-47ea)
-- [Stop Wasting Hours: Docker Skills Every Front-End Engineer Needs](https://dev.to/devflex-pro/stop-wasting-hours-docker-skills-every-front-end-engineer-needs-2779)
-- [The unreasonable effectiveness of Postgres range types](https://dev.to/mcadariu/the-unreasonable-effectiveness-of-postgres-range-types-1ine)
-- [🚀 How I Built a Bridge Between VS Code and My Phone — VSCoder Copilot](https://dev.to/kalinux/how-i-built-a-bridge-between-vs-code-and-my-phone-vscoder-copilot-2jk0)
-- [Saving Game Data in Unity — Part 1: PlayerPrefs](https://dev.to/rahul_barate_e965377330fe/saving-game-data-in-unity-part-1-playerprefs-22hb)
+- [GKE Pricing Demystified: Autopilot vs Standard Mode](https://dev.to/mechcloud_academy/gke-pricing-demystified-autopilot-vs-standard-mode-1441)
+- [Enabling developers in GitHub Codespaces](https://dev.to/fastly/enabling-developers-in-github-codespaces-1l3a)
+- [Conditional Dependency Injection In Spring Framework And Spring Boot](https://dev.to/ibrahimgunduz34/conditional-dependency-injection-in-spring-framework-and-spring-boot-266m)
+- [Jeff Su: The REALITY of AI Video in 2025 &lpar;it’s not what you think&rpar;](https://dev.to/future_ai/jeff-su-the-reality-of-ai-video-in-2025-its-not-what-you-think-4faa)
+- [GameSpot: How Silent Hill F Is Connected To The Rest Of The Series](https://dev.to/gg_news/gamespot-how-silent-hill-f-is-connected-to-the-rest-of-the-series-4n7e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
