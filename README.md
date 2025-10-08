@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-156c)
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-40bo)
-- [IGN: Dragon Raja 2: The Mourner&#39;s Eyes - Official Trailer &lpar;English Subtitles&rpar;](https://dev.to/gg_news/ign-dragon-raja-2-the-mourners-eyes-official-trailer-english-subtitles-4960)
-- [IGN: World of Tanks Blitz - Official &#39;The Walking Dead&#39; Collaboration Trailer](https://dev.to/gg_news/ign-world-of-tanks-blitz-official-the-walking-dead-collaboration-trailer-3ohf)
-- [IGN: Tojima Wants to Be a Kamen Rider - Official Trailer 2 &lpar;English Subtitles&rpar;](https://dev.to/gg_news/ign-tojima-wants-to-be-a-kamen-rider-official-trailer-2-english-subtitles-160o)
+- [TRANSACTION](https://dev.to/balaji_5384626fc05c543d2f/transaction-3c82)
+- [JavaScript &lpar;Datatype and variable&rpar;](https://dev.to/hayesvincent14/javascript-datatype-and-variable-1no6)
+- [Building Smart Workflows with the Microsoft Agent Framework-Part -I](https://dev.to/sreeni5018/building-smart-workflows-with-the-microsoft-agent-framework-part-i-2fej)
+- [Mastering DBMS: A Practical Guide to Indexing, Hashing, and Query Optimization](https://dev.to/haresh_511/mastering-dbms-a-practical-guide-to-indexing-hashing-and-query-optimization-35p4)
+- [AI-Powered Incident Resolution Assistant: Reducing MTTR and Elevating ServiceNow Operations](https://dev.to/sip_mjb/ai-powered-incident-resolution-assistant-reducing-mttr-and-elevating-servicenow-operations-9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
