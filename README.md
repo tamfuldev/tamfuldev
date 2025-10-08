@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Powerful AI Chatbot UI in Minutes with Next.js](https://dev.to/buildandcodewithraman/build-a-powerful-ai-chatbot-ui-in-minutes-with-nextjs-511j)
-- [Dictionary in Python &lpar;3&rpar;](https://dev.to/hyperkai/dictionary-in-python-3-42e8)
-- [How to choose between the four types of safety levels and the two types of safety levels for safety curtains?](https://dev.to/daidisike/how-to-choose-between-the-four-types-of-safety-levels-and-the-two-types-of-safety-levels-for-safety-2gp7)
-- [GitHub Copilot Chat Modes: From Chaos to Command 🎛️](https://dev.to/anchildress1/github-copilot-chat-modes-from-chaos-to-command-54k0)
-- [50 Most Useful GitHub Snippets for Developers](https://dev.to/softwaredeveloper01/50-most-useful-github-snippets-for-developers-57n2)
+- [Build a Task-Running AI Agent with the New ChatGPT AgentKit: A Step-by-Step Guide](https://dev.to/dhruvjoshi9/build-a-task-running-ai-agent-with-the-new-chatgpt-agentkit-a-step-by-step-guide-55nd)
+- [Practical AI Use Cases That Are Actually Transforming Law Firms With Real Examples and Measurable ROI](https://dev.to/heyjoshlee/practical-ai-use-cases-that-are-actually-transforming-law-firms-with-real-examples-and-measurable-31og)
+- [Devlog: Building the **Price Pipeline Health** Card &lpar;so you know when data is fresh or fallback&rpar;](https://dev.to/pocketportfolioapp/devlog-building-the-price-pipeline-health-card-so-you-know-when-data-is-fresh-or-fallback-57p2)
+- [How to Find, Prevent And Solve Java.lang.NullPointerException in Mobile Apps](https://dev.to/shubham_joshi_expert/how-to-find-prevent-and-solve-javalangnullpointerexception-in-mobile-apps-4304)
+- [From Plain Functions to Reactive Streams: a mindset change with a thousand benefits](https://dev.to/dariomannu/from-plain-functions-to-reactive-streams-a-mindset-change-with-a-thousand-benefits-aoa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
