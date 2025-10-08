@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [TRANSACTION](https://dev.to/balaji_5384626fc05c543d2f/transaction-3c82)
-- [JavaScript &lpar;Datatype and variable&rpar;](https://dev.to/hayesvincent14/javascript-datatype-and-variable-1no6)
-- [Building Smart Workflows with the Microsoft Agent Framework-Part -I](https://dev.to/sreeni5018/building-smart-workflows-with-the-microsoft-agent-framework-part-i-2fej)
-- [Mastering DBMS: A Practical Guide to Indexing, Hashing, and Query Optimization](https://dev.to/haresh_511/mastering-dbms-a-practical-guide-to-indexing-hashing-and-query-optimization-35p4)
-- [AI-Powered Incident Resolution Assistant: Reducing MTTR and Elevating ServiceNow Operations](https://dev.to/sip_mjb/ai-powered-incident-resolution-assistant-reducing-mttr-and-elevating-servicenow-operations-9)
+- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-eaa)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-1i89)
+- [GameSpot: skate. | Early Access Season 1 Overview Trailer](https://dev.to/gg_news/gamespot-skate-early-access-season-1-overview-trailer-2234)
+- [GameSpot: Call of Duty Developers Share Their Favorite Loadouts in Call of Duty: Black Ops 7](https://dev.to/gg_news/gamespot-call-of-duty-developers-share-their-favorite-loadouts-in-call-of-duty-black-ops-7-123k)
+- [GameSpot: ThE BeST DEal iN GAmiNG](https://dev.to/gg_news/gamespot-the-best-deal-in-gaming-2kpi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
