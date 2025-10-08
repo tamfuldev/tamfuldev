@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-27bn)
-- [GameSpot: $100 to Craft the Best Steam Sale Cart](https://dev.to/gg_news/gamespot-100-to-craft-the-best-steam-sale-cart-3fo6)
-- [GameSpot: ROG Xbox Ally and Ally X: Everything To Know](https://dev.to/gg_news/gamespot-rog-xbox-ally-and-ally-x-everything-to-know-2gh1)
-- [Cursor and Trigger in DBMS](https://dev.to/kausi_tarun_77e6874368465/cursor-and-trigger-in-dbms-f08)
-- [IGN: 2XKO Early Access Review](https://dev.to/gg_news/ign-2xko-early-access-review-4apm)
+- [Reinventing Code Review: How Vault.fm Eliminated Major Outages with PullFlow](https://dev.to/pullflow/reinventing-code-review-how-vaultfm-eliminated-major-outages-with-pullflow-24mf)
+- [Sora 2 / Sora 2 Pro Python CLI](https://dev.to/abdibrokhim/sora-2-sora-2-pro-python-cli-4iim)
+- [Deploying An Azure Virtual Machine Scale Set Using Terraform And Pushing It To GitHub.](https://dev.to/nelson_akpa01/deploying-an-azure-virtual-machine-scale-set-using-terraform-and-pushing-it-to-github-2kh4)
+- [Ensuring Quality Control in Mechanical Manufacturing: Best Practices](https://dev.to/ayesha-diaz/ensuring-quality-control-in-mechanical-manufacturing-best-practices-23hn)
+- [From Crypto Mining to Folding@Home: Using GPU Power for Something Good](https://dev.to/michal_cichon/from-crypto-mining-to-foldinghome-using-gpu-power-for-something-good-3321)
 <!-- BLOG-POST-LIST:END -->
 
 ---
