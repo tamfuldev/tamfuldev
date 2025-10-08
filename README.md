@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [German government comes out against Chat Control](https://dev.to/technoblogger14o3/german-government-comes-out-against-chat-control-5hem)
-- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_f8c307c5/your-error-handling-is-a-mess-and-its-costing-you--obh)
-- [IGN: Roofman - Official &#39;Story&#39; Behind the Scenes Clip &lpar;2025&rpar; Channing Tatum, Peter Dinklage](https://dev.to/gg_news/ign-roofman-official-story-behind-the-scenes-clip-2025-channing-tatum-peter-dinklage-3c5l)
-- [Harmonizing AI Voices: Bridging the Gap in Intelligent Communication](https://dev.to/arvind_sundararajan/harmonizing-ai-voices-bridging-the-gap-in-intelligent-communication-4ll)
-- [Mastering Modern Infrastructure: The Power of Cloud-Native and Serverless Architectures](https://dev.to/rgbos/mastering-modern-infrastructure-the-power-of-cloud-native-and-serverless-architectures-520k)
+- [HackSpire&#39;25: Igniting Innovation, Forging Futures 🚀](https://dev.to/debaditya_saha_5b45172210/hackspire25-igniting-innovation-forging-futures-1ann)
+- [Designing Simplicity: How Developers Can Bridge the UX Gap in Crypto](https://dev.to/chikieabby/designing-simplicity-how-developers-can-bridge-the-ux-gap-in-crypto-j1a)
+- [Arquitetura em Camadas &lpar;Layered architecture&rpar;](https://dev.to/yuripeixinho/arquitetura-em-camadas-layered-architecture-a68)
+- [Code Reviews with AI: Making Feedback Fast, Fair, and Effective](https://dev.to/jaideepparashar/code-reviews-with-ai-making-feedback-fast-fair-and-effective-4aa8)
+- [RISC-V Lockstep Co-Simulation: Retirement-Level Step-and-Compare for Faster Verification &amp; Debug](https://dev.to/alpinumblogs/risc-v-lockstep-co-simulation-retirement-level-step-and-compare-for-faster-verification-debug-gpe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
