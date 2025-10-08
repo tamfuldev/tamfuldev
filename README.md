@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Human Element: Why Employees Are Still the Weakest Link in Cybersecurity](https://dev.to/chrizfasa/the-human-element-why-employees-are-still-the-weakest-link-in-cybersecurity-4aog)
-- [Doesn’t PHP-FPM Docker Image Care About Your Configuration Changes?](https://dev.to/ibrahimgunduz34/doesnt-php-fpm-docker-image-care-about-your-configuration-changes-14a1)
-- [Host wp on AWS](https://dev.to/varun_kumargola_8c9af4a0/host-wp-on-aws-2n5c)
-- [neobrutalism-vue: Brutalist UI Component Library for Vue.js](https://dev.to/jqueryscript/neobrutalism-vue-brutalist-ui-component-library-for-vuejs-5ce9)
-- [Why HTML is a platform-independent language](https://dev.to/manikandan_a8f99e0153ef77/why-html-is-a-platform-independent-language-459j)
+- [Bug-Free Multithreading: How Areg SDK Transforms Concurrency in C++](https://dev.to/aregtech/bug-free-multithreading-how-areg-sdk-transforms-concurrency-in-c-4m1d)
+- [The Relevance of Excel in the Era of Power Bi and Python](https://dev.to/raphson/the-relevance-of-excel-in-the-era-of-power-bi-and-python-31gi)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-33a2)
+- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - The Wyrm &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-the-wyrm-live-on-kexp-4b1c)
+- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Stitches &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-stitches-live-on-kexp-4gie)
 <!-- BLOG-POST-LIST:END -->
 
 ---
