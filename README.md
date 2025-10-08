@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Task-Running AI Agent with the New ChatGPT AgentKit: A Step-by-Step Guide](https://dev.to/dhruvjoshi9/build-a-task-running-ai-agent-with-the-new-chatgpt-agentkit-a-step-by-step-guide-55nd)
-- [Practical AI Use Cases That Are Actually Transforming Law Firms With Real Examples and Measurable ROI](https://dev.to/heyjoshlee/practical-ai-use-cases-that-are-actually-transforming-law-firms-with-real-examples-and-measurable-31og)
-- [Devlog: Building the **Price Pipeline Health** Card &lpar;so you know when data is fresh or fallback&rpar;](https://dev.to/pocketportfolioapp/devlog-building-the-price-pipeline-health-card-so-you-know-when-data-is-fresh-or-fallback-57p2)
-- [How to Find, Prevent And Solve Java.lang.NullPointerException in Mobile Apps](https://dev.to/shubham_joshi_expert/how-to-find-prevent-and-solve-javalangnullpointerexception-in-mobile-apps-4304)
-- [From Plain Functions to Reactive Streams: a mindset change with a thousand benefits](https://dev.to/dariomannu/from-plain-functions-to-reactive-streams-a-mindset-change-with-a-thousand-benefits-aoa)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-27bn)
+- [GameSpot: $100 to Craft the Best Steam Sale Cart](https://dev.to/gg_news/gamespot-100-to-craft-the-best-steam-sale-cart-3fo6)
+- [GameSpot: ROG Xbox Ally and Ally X: Everything To Know](https://dev.to/gg_news/gamespot-rog-xbox-ally-and-ally-x-everything-to-know-2gh1)
+- [Cursor and Trigger in DBMS](https://dev.to/kausi_tarun_77e6874368465/cursor-and-trigger-in-dbms-f08)
+- [IGN: 2XKO Early Access Review](https://dev.to/gg_news/ign-2xko-early-access-review-4apm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
