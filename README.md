@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🧩 Advanced Prompting for QA Engineers: How I Turned AI Into My Testing Partner](https://dev.to/dasha_tsion_31379cfb51dd7/advanced-prompting-for-qa-engineers-how-i-turned-ai-into-my-testing-partner-34h)
-- [Sailnote - A MIDI Media](https://dev.to/splotdev/sailnote-a-midi-media-37p0)
-- [CQRS &lpar;Command Query Responsibility Segregation&rpar;](https://dev.to/yuripeixinho/cqrs-command-query-responsibility-segregation-4idd)
-- [WinForms in 2025? Here&#39;s the Slick MSSQL Monitoring App I Built](https://dev.to/abeamar/winforms-in-2025-heres-the-slick-mssql-monitoring-app-i-built-3epf)
-- [Coding Challenge Practice - Question 23](https://dev.to/tomivan/coding-challenge-practice-question-23-2fn6)
+- [🚀 Hello DEV Community! I’m Thiyagarajan Varadharajan – Python Full Stack Developer | AI Enthusiast](https://dev.to/thiyagu26v/hello-dev-community-im-thiyagarajan-varadharajan-python-full-stack-developer-ai-enthusiast-eb7)
+- [Nvidia&#39;s AI Chips: A Geopolitical Dilemma](https://dev.to/yagyaraj_sharma_6cd410179/nvidias-ai-chips-a-geopolitical-dilemma-4nom)
+- [Pictera.co — Generate clean Open Graph images for your links](https://dev.to/hamza_chebbah_0fe9e67a52a/picteraco-generate-clean-open-graph-images-for-your-links-150f)
+- [Adam Neely: Sungazer - Whisky and Mes [Bass Playthrough]](https://dev.to/music_youtube/adam-neely-sungazer-whisky-and-mes-bass-playthrough-1359)
+- [Reviving Lost Tongues: AI-Powered Grammar for Language Preservation](https://dev.to/arvind_sundararajan/reviving-lost-tongues-ai-powered-grammar-for-language-preservation-4km)
 <!-- BLOG-POST-LIST:END -->
 
 ---
