@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Meaningfulness Gap in AI Ethics](https://dev.to/rawveg/the-meaningfulness-gap-in-ai-ethics-2d7b)
-- [n8n and OpenAI API: Creating Simple Text Processing Automations](https://dev.to/addwebsolutionpvtltd/n8n-and-openai-api-creating-simple-text-processing-automations-1i0f)
-- [How Vijil built a trust layer for my first AI agent](https://dev.to/ngrok/how-vijil-built-a-trust-layer-for-my-first-ai-agent-2fki)
-- [My Favorite Frontend Setup Libraries &lpar;Project Foundation Edition&rpar;](https://dev.to/nyaomaru/my-favorite-frontend-setup-libraries-project-foundation-edition-2j4k)
-- [Ultimate Laravel Migrations Guide 2025](https://dev.to/laracopilot/what-is-laravel-migrations-2cbe)
+- [Build a Powerful AI Chatbot UI in Minutes with Next.js](https://dev.to/buildandcodewithraman/build-a-powerful-ai-chatbot-ui-in-minutes-with-nextjs-511j)
+- [Dictionary in Python &lpar;3&rpar;](https://dev.to/hyperkai/dictionary-in-python-3-42e8)
+- [How to choose between the four types of safety levels and the two types of safety levels for safety curtains?](https://dev.to/daidisike/how-to-choose-between-the-four-types-of-safety-levels-and-the-two-types-of-safety-levels-for-safety-2gp7)
+- [GitHub Copilot Chat Modes: From Chaos to Command 🎛️](https://dev.to/anchildress1/github-copilot-chat-modes-from-chaos-to-command-54k0)
+- [50 Most Useful GitHub Snippets for Developers](https://dev.to/softwaredeveloper01/50-most-useful-github-snippets-for-developers-57n2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
