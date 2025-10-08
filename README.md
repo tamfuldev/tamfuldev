@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Hello DEV Community! I’m Thiyagarajan Varadharajan – Python Full Stack Developer | AI Enthusiast](https://dev.to/thiyagu26v/hello-dev-community-im-thiyagarajan-varadharajan-python-full-stack-developer-ai-enthusiast-eb7)
-- [Nvidia&#39;s AI Chips: A Geopolitical Dilemma](https://dev.to/yagyaraj_sharma_6cd410179/nvidias-ai-chips-a-geopolitical-dilemma-4nom)
-- [Pictera.co — Generate clean Open Graph images for your links](https://dev.to/hamza_chebbah_0fe9e67a52a/picteraco-generate-clean-open-graph-images-for-your-links-150f)
-- [Adam Neely: Sungazer - Whisky and Mes [Bass Playthrough]](https://dev.to/music_youtube/adam-neely-sungazer-whisky-and-mes-bass-playthrough-1359)
-- [Reviving Lost Tongues: AI-Powered Grammar for Language Preservation](https://dev.to/arvind_sundararajan/reviving-lost-tongues-ai-powered-grammar-for-language-preservation-4km)
+- [German government comes out against Chat Control](https://dev.to/technoblogger14o3/german-government-comes-out-against-chat-control-5hem)
+- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_f8c307c5/your-error-handling-is-a-mess-and-its-costing-you--obh)
+- [IGN: Roofman - Official &#39;Story&#39; Behind the Scenes Clip &lpar;2025&rpar; Channing Tatum, Peter Dinklage](https://dev.to/gg_news/ign-roofman-official-story-behind-the-scenes-clip-2025-channing-tatum-peter-dinklage-3c5l)
+- [Harmonizing AI Voices: Bridging the Gap in Intelligent Communication](https://dev.to/arvind_sundararajan/harmonizing-ai-voices-bridging-the-gap-in-intelligent-communication-4ll)
+- [Mastering Modern Infrastructure: The Power of Cloud-Native and Serverless Architectures](https://dev.to/rgbos/mastering-modern-infrastructure-the-power-of-cloud-native-and-serverless-architectures-520k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
