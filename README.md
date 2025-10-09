@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Working with SQL Date Comparisons](https://dev.to/dbvismarketing/working-with-sql-date-comparisons-4a9e)
-- [ListOn - Directory &amp; Listing HTML Template](https://dev.to/packmycode/liston-directory-listing-html-template-dhc)
-- [New Here: Sharing a Small Hack That Finally Fixed My Reading Chaos](https://dev.to/readsoon/new-here-sharing-a-small-hack-that-finally-fixed-my-reading-chaos-37ic)
-- [What’s Changing in NFT Development Services in 2025?](https://dev.to/whitmanmark/whats-changing-in-nft-development-services-in-2025-jf1)
-- [Veo 3.1 is Coming: Feature Upgrades and Innovation Analysis](https://dev.to/juddiy/veo-31-is-coming-feature-upgrades-and-innovation-analysis-1alp)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-481j)
+- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-16jg)
+- [GameSpot: Call of Duty Developers Share Their Favorite Loadouts in Call of Duty: Black Ops 7](https://dev.to/gg_news/gamespot-call-of-duty-developers-share-their-favorite-loadouts-in-call-of-duty-black-ops-7-g81)
+- [GameSpot: ThE BeST DEal iN GAmiNG](https://dev.to/gg_news/gamespot-the-best-deal-in-gaming-3ibo)
+- [GameSpot: Battlefield 6 - Official Launch Hype Trailer](https://dev.to/gg_news/gamespot-battlefield-6-official-launch-hype-trailer-5e5l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
