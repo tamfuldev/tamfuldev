@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [When Disaster Strikes, Be the First Call: Branding Lessons for Restoration Pros](https://dev.to/angela_ash_6da09e1fd957c1/when-disaster-strikes-be-the-first-call-branding-lessons-for-restoration-pros-25cl)
-- [Google Veo 3.1 is on the way...](https://dev.to/ahmetmertugrul/google-veo-31-is-on-the-way-4jd0)
-- [Silence Can Be Golden &lpar;If You Learn How To Paint&rpar;](https://dev.to/duplessisvanaswegen/silence-can-be-golden-if-you-learn-how-to-paint-4eb4)
-- [5 Essential Command-Line Tools for Cybersecurity Beginners](https://dev.to/orioninsist/5-essential-command-line-tools-for-cybersecurity-beginners-4nh3)
-- [🚀 Blinter The Linter - A Cross Platform Batch Script Linter](https://dev.to/tboy1337/blinter-the-linter-a-cross-platform-batch-script-linter-158b)
+- [IGN: Vicious - Official &#39;A Vicious Look&#39; Behind the Scenes Clip &lpar;2025&rpar; Dakota Fanning, Kathryn Hunter](https://dev.to/gg_news/ign-vicious-official-a-vicious-look-behind-the-scenes-clip-2025-dakota-fanning-kathryn-3o4m)
+- [IGN: Painkiller - Official Blood Pact Trailer](https://dev.to/gg_news/ign-painkiller-official-blood-pact-trailer-238l)
+- [IGN: Invincible VS - Official Cecil Reveal Trailer | NYCC 2025](https://dev.to/gg_news/ign-invincible-vs-official-cecil-reveal-trailer-nycc-2025-dld)
+- [IGN: Now You See Me: Now You Don’t - Official &#39;Magic Showdown&#39; Clip &lpar;2025&rpar; Jesse Eisenberg](https://dev.to/gg_news/ign-now-you-see-me-now-you-dont-official-magic-showdown-clip-2025-jesse-eisenberg-1m0b)
+- [CinemaSins: Everything Wrong With The Mummy: The Tomb of the Dragon Emperor In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-mummy-the-tomb-of-the-dragon-emperor-in-15-minutes-or-less-3lcp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
