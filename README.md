@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-3ko3)
-- [A Universal File Format N Times Faster Than CSV](https://dev.to/esproc_spl/a-universal-file-format-n-times-faster-than-csv-3k2b)
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-5472)
-- [GameSpot: Call of Duty Developers Share Their Favorite Loadouts in Call of Duty: Black Ops 7](https://dev.to/gg_news/gamespot-call-of-duty-developers-share-their-favorite-loadouts-in-call-of-duty-black-ops-7-ga3)
-- [GameSpot: ThE BeST DEal iN GAmiNG](https://dev.to/gg_news/gamespot-the-best-deal-in-gaming-3a9k)
+- [Working with SQL Date Comparisons](https://dev.to/dbvismarketing/working-with-sql-date-comparisons-4a9e)
+- [ListOn - Directory &amp; Listing HTML Template](https://dev.to/packmycode/liston-directory-listing-html-template-dhc)
+- [New Here: Sharing a Small Hack That Finally Fixed My Reading Chaos](https://dev.to/readsoon/new-here-sharing-a-small-hack-that-finally-fixed-my-reading-chaos-37ic)
+- [What’s Changing in NFT Development Services in 2025?](https://dev.to/whitmanmark/whats-changing-in-nft-development-services-in-2025-jf1)
+- [Veo 3.1 is Coming: Feature Upgrades and Innovation Analysis](https://dev.to/juddiy/veo-31-is-coming-feature-upgrades-and-innovation-analysis-1alp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
