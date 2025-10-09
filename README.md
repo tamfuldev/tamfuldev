@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Cross Browser Testing is Critical for Web Application Success](https://dev.to/misterankit/why-cross-browser-testing-is-critical-for-web-application-success-3mcf)
-- [[Boost]](https://dev.to/aryan_panwala/-1fg0)
-- [[Boost]](https://dev.to/nikhil_sachapara/-38ag)
-- [LLM 서빙, 왜 Ray 여야만 했을까?](https://dev.to/shingyeongseon/llm-seobing-wae-ray-yeoyaman-haesseulgga-2noa)
-- [[Boost]](https://dev.to/bhavy_k_5a3b6c88887b58c92/-1eeg)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-3ko3)
+- [A Universal File Format N Times Faster Than CSV](https://dev.to/esproc_spl/a-universal-file-format-n-times-faster-than-csv-3k2b)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-5472)
+- [GameSpot: Call of Duty Developers Share Their Favorite Loadouts in Call of Duty: Black Ops 7](https://dev.to/gg_news/gamespot-call-of-duty-developers-share-their-favorite-loadouts-in-call-of-duty-black-ops-7-ga3)
+- [GameSpot: ThE BeST DEal iN GAmiNG](https://dev.to/gg_news/gamespot-the-best-deal-in-gaming-3a9k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
