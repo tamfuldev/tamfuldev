@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: ThE BeST DEal iN GAmiNG](https://dev.to/gg_news/gamespot-the-best-deal-in-gaming-4mfe)
-- [GameSpot: Pokémon Legends Z-A Everything To Know](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-everything-to-know-4fm)
-- [GameSpot: $100 to Craft the Best Steam Sale Cart](https://dev.to/gg_news/gamespot-100-to-craft-the-best-steam-sale-cart-14f6)
-- [GameSpot: ROG Xbox Ally and Ally X: Everything To Know](https://dev.to/gg_news/gamespot-rog-xbox-ally-and-ally-x-everything-to-know-ei8)
-- [GameSpot: Will Halo be Saved or Destroyed?](https://dev.to/gg_news/gamespot-will-halo-be-saved-or-destroyed-2jk3)
+- [Building a source-inspired game engine from scratch in C++ – Project32](https://dev.to/retroboi64/building-a-source-inspired-game-engine-from-scratch-in-c-project32-2k93)
+- [🏢 Why Spring Boot, Kafka, Oracle, and Tomcat Still Power the Enterprise in 2025](https://dev.to/steven_nguyen/why-spring-boot-kafka-oracle-and-tomcat-still-power-the-enterprise-in-2025-2pie)
+- [AI&#39;s Rapid Evolution: Models, Markets, and Mounting Ethical Concerns](https://dev.to/antony_brahin_f47b663f3a0/ais-rapid-evolution-models-markets-and-mounting-ethical-concerns-2hj5)
+- [How Technical SEO Shapes SaaS Growth in 2025](https://dev.to/zhngryn/how-technical-seo-shapes-saas-growth-in-2025-6d)
+- [Setting up Automatic Deployment from one repository to another](https://dev.to/tousifizaz/setting-up-automatic-deployment-from-one-repository-to-another-33ce)
 <!-- BLOG-POST-LIST:END -->
 
 ---
