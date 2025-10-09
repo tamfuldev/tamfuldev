@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [第 10 课：Freqtrade交易对选择与测试](https://dev.to/henry_lin_3ac6363747f45b4/di-10-ke-freqtradejiao-yi-dui-xuan-ze-yu-ce-shi-3198)
-- [第 9 课：Freqtrade时间范围测试](https://dev.to/henry_lin_3ac6363747f45b4/di-9-ke-freqtradeshi-jian-fan-wei-ce-shi-1l7e)
-- [Lesson 9: Time Range Testing](https://dev.to/henry_lin_3ac6363747f45b4/lesson-9-time-range-testing-45b4)
-- [AuthAgent: Secure AI Assistant with Auth0](https://dev.to/akash_kumar_b352a965f4729/authagent-secure-ai-assistant-with-auth0-3h1g)
-- [[WEBINAR] | Building Self-Optimizing AI Agents](https://dev.to/vrinda_damani/webinar-building-self-optimizing-ai-agents-2nl7)
+- [GameSpot: ThE BeST DEal iN GAmiNG](https://dev.to/gg_news/gamespot-the-best-deal-in-gaming-4mfe)
+- [GameSpot: Pokémon Legends Z-A Everything To Know](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-everything-to-know-4fm)
+- [GameSpot: $100 to Craft the Best Steam Sale Cart](https://dev.to/gg_news/gamespot-100-to-craft-the-best-steam-sale-cart-14f6)
+- [GameSpot: ROG Xbox Ally and Ally X: Everything To Know](https://dev.to/gg_news/gamespot-rog-xbox-ally-and-ally-x-everything-to-know-ei8)
+- [GameSpot: Will Halo be Saved or Destroyed?](https://dev.to/gg_news/gamespot-will-halo-be-saved-or-destroyed-2jk3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
