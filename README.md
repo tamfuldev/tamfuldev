@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-2a56)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-33f4)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Blockage &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-blockage-live-on-kexp-i5a)
-- [KEXP: Babe Rainbow - Sunday &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-sunday-live-on-kexp-4idi)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-4604)
+- [B2B Service](https://dev.to/arjun_pandit_d2609ad8e672/b2b-service-16n5)
+- [Boekenkasten met ladder: Praktisch en stijlvol voor hoge muren](https://dev.to/wehebbenallesinhuis/boekenkasten-met-ladder-praktisch-en-stijlvol-voor-hoge-muren-dkn)
+- [Unlocking the Power of GenAI in Enterprise Analytics](https://dev.to/ravi_teja_4/unlocking-the-power-of-genai-in-enterprise-analytics-2h1o)
+- [Is Your Fridge About to Become a Mind Reader? Welcome to the World of Generative AI!](https://dev.to/karthik_n/is-your-fridge-about-to-become-a-mind-reader-welcome-to-the-world-of-generative-ai-5600)
+- [How I Built a Free Online Carcassonne Game Alt You Can Play in the Browser](https://dev.to/erol4/how-i-built-a-free-online-carcassonne-game-alt-you-can-play-in-the-browser-2mgd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
