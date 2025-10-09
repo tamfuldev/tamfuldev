@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Autocomplete: A practical guide to AI-Assisted Development](https://dev.to/jackmarchant/beyond-autocomplete-a-practical-guide-to-ai-assisted-development-ldb)
-- [🚀 Looking for collaborators to create something truly unique. Not a startup for money — a project for meaning.](https://dev.to/skyerfore/looking-for-collaborators-to-create-something-truly-unique-not-a-startup-for-money-a-project-18po)
-- [TCJSGame Advanced Architecture: Building Scalable, Maintainable Games](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-advanced-architecture-building-scalable-maintainable-games-1c5k)
-- [Understanding From and Into Traits in Rust](https://dev.to/masteringbackend/understanding-from-and-into-traits-in-rust-2mgi)
-- [From Quote to Shipment in Business Central: Are You Being Replaced?](https://dev.to/insight_works/from-quote-to-shipment-in-business-central-are-you-being-replaced-4i21)
+- [第 10 课：Freqtrade交易对选择与测试](https://dev.to/henry_lin_3ac6363747f45b4/di-10-ke-freqtradejiao-yi-dui-xuan-ze-yu-ce-shi-3198)
+- [第 9 课：Freqtrade时间范围测试](https://dev.to/henry_lin_3ac6363747f45b4/di-9-ke-freqtradeshi-jian-fan-wei-ce-shi-1l7e)
+- [Lesson 9: Time Range Testing](https://dev.to/henry_lin_3ac6363747f45b4/lesson-9-time-range-testing-45b4)
+- [AuthAgent: Secure AI Assistant with Auth0](https://dev.to/akash_kumar_b352a965f4729/authagent-secure-ai-assistant-with-auth0-3h1g)
+- [[WEBINAR] | Building Self-Optimizing AI Agents](https://dev.to/vrinda_damani/webinar-building-self-optimizing-ai-agents-2nl7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
