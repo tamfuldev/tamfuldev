@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Configuring ESP8266 Wi-Fi Network Connection Through A Web Page](https://dev.to/ibrahimgunduz34/configuring-esp8266-wi-fi-network-connection-through-a-web-page-562l)
-- [OCR vs ADE: Mechanisms Behind the Methods](https://dev.to/maigaridavid/ocr-vs-ade-mechanisms-behind-the-methods-5c45)
-- [Building a Shapes Learning Exercise in Blazor with Radzen Components](https://dev.to/benjaminsqlserver/building-a-shapes-learning-exercise-in-blazor-with-radzen-components-hfc)
-- [EFS full guide](https://dev.to/jumptotech/efs-full-guide-1ae3)
-- [Transactions and ThreadLocal in Spring](https://dev.to/nfrankel/transactions-and-threadlocal-in-spring-617)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-2a56)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-33f4)
+- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Blockage &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-blockage-live-on-kexp-i5a)
+- [KEXP: Babe Rainbow - Sunday &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-sunday-live-on-kexp-4idi)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-4604)
 <!-- BLOG-POST-LIST:END -->
 
 ---
