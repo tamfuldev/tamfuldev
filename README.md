@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Vicious - Official &#39;A Vicious Look&#39; Behind the Scenes Clip &lpar;2025&rpar; Dakota Fanning, Kathryn Hunter](https://dev.to/gg_news/ign-vicious-official-a-vicious-look-behind-the-scenes-clip-2025-dakota-fanning-kathryn-3o4m)
-- [IGN: Painkiller - Official Blood Pact Trailer](https://dev.to/gg_news/ign-painkiller-official-blood-pact-trailer-238l)
-- [IGN: Invincible VS - Official Cecil Reveal Trailer | NYCC 2025](https://dev.to/gg_news/ign-invincible-vs-official-cecil-reveal-trailer-nycc-2025-dld)
-- [IGN: Now You See Me: Now You Don’t - Official &#39;Magic Showdown&#39; Clip &lpar;2025&rpar; Jesse Eisenberg](https://dev.to/gg_news/ign-now-you-see-me-now-you-dont-official-magic-showdown-clip-2025-jesse-eisenberg-1m0b)
-- [CinemaSins: Everything Wrong With The Mummy: The Tomb of the Dragon Emperor In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-mummy-the-tomb-of-the-dragon-emperor-in-15-minutes-or-less-3lcp)
+- [PR-01 at Hacktoberfest: Google Maps E2E Testing — for hackathon-starter](https://dev.to/andersontsai/pr-01-at-hacktoberfest-google-maps-e2e-testing-for-hackathon-starter-15dk)
+- [Letting go PHP database migrations](https://dev.to/xwero/letting-go-php-database-migrations-5cpa)
+- [TCJSGame Speed.js: The 60 FPS Game Loop Revolution](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-speedjs-the-60-fps-game-loop-revolution-1ffo)
+- [My Journey As A Data Analyst](https://dev.to/oluwole_akinyele_/my-journey-as-a-data-analyst-37nj)
+- [How to Sync Git Repositories: A Complete Guide to Syncing Between Different Remote Repositories](https://dev.to/knitesh/how-to-sync-git-repositories-a-complete-guide-to-syncing-between-different-remote-repositories-2m0a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
