@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [B2B Service](https://dev.to/arjun_pandit_d2609ad8e672/b2b-service-16n5)
-- [Boekenkasten met ladder: Praktisch en stijlvol voor hoge muren](https://dev.to/wehebbenallesinhuis/boekenkasten-met-ladder-praktisch-en-stijlvol-voor-hoge-muren-dkn)
-- [Unlocking the Power of GenAI in Enterprise Analytics](https://dev.to/ravi_teja_4/unlocking-the-power-of-genai-in-enterprise-analytics-2h1o)
-- [Is Your Fridge About to Become a Mind Reader? Welcome to the World of Generative AI!](https://dev.to/karthik_n/is-your-fridge-about-to-become-a-mind-reader-welcome-to-the-world-of-generative-ai-5600)
-- [How I Built a Free Online Carcassonne Game Alt You Can Play in the Browser](https://dev.to/erol4/how-i-built-a-free-online-carcassonne-game-alt-you-can-play-in-the-browser-2mgd)
+- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-4me2)
+- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-1l3c)
+- [KEXP: Hunx and His Punx - Wild Boys &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-wild-boys-live-on-kexp-9em)
+- [KEXP: Hunx and His Punx - No Way Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-no-way-out-live-on-kexp-4174)
+- [KEXP: Hunx and His Punx - Mud In Your Eyes &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-mud-in-your-eyes-live-on-kexp-5b22)
 <!-- BLOG-POST-LIST:END -->
 
 ---
