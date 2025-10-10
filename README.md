@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stress Testing Go Memory: A Practical Guide to High-Load Scenarios](https://dev.to/jones_charles_ad50858dbc0/stress-testing-go-memory-a-practical-guide-to-high-load-scenarios-349c)
-- [Refactoring My Code and Rewriting Git History](https://dev.to/oleksandrakordonets/refactoring-my-code-and-rewriting-git-history-d2e)
-- [Architectural vs Transport Asynchrony: What Most Engineers Get Wrong About Async Systems](https://dev.to/komelgman/architectural-vs-transport-asynchrony-what-most-engineers-get-wrong-about-async-systems-5dkj)
-- [What is Dependency Injection in Laravel?](https://dev.to/laracopilot/what-is-dependency-injection-in-laravel-2fp)
-- [Mastering Vitest + React Testing Library: Fixing ‘beforeEach’, ‘toBeInTheDocument’, and JSDOM Gotchas](https://dev.to/cristiansifuentes/mastering-vitest-react-testing-library-fixing-beforeeach-tobeinthedocument-and-jsdom-2379)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-3j93)
+- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-dm3)
+- [KEXP: Hunx and His Punx - No Way Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-no-way-out-live-on-kexp-12n1)
+- [KEXP: Hunx and His Punx - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-full-performance-live-on-kexp-2hh4)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-1d87)
 <!-- BLOG-POST-LIST:END -->
 
 ---
