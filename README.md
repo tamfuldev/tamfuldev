@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Week 3 – Spring Data JPA &amp; CRUD Operations in Spring Boot](https://dev.to/tejasvi_urkande/week-3-spring-data-jpa-crud-operations-in-spring-boot-26bg)
-- [Building a Task Management MCP Server with Laravel](https://dev.to/blamsa0mine/building-a-task-management-mcp-server-with-laravel-1eed)
-- [AWS EC2 Series](https://dev.to/ntsezenelvis/aws-ec2-series-53i5)
-- [What is a Large Language Model &lpar;LLM&rpar;](https://dev.to/snehalkadwe/what-is-a-large-language-model-llm-2gca)
-- [Building a Production-Ready LMS Platform: A Complete Guide to Modern EdTech Architecture](https://dev.to/nadim_ch0wdhury/building-a-production-ready-lms-platform-a-complete-guide-to-modern-edtech-architecture-16ek)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-kj)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-koc)
+- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-2g1f)
+- [GameSpot: Why The Warriors is Rockstars BEST &lpar;non-GTA/Red Dead&rpar; Game](https://dev.to/gg_news/gamespot-why-the-warriors-is-rockstars-best-non-gtared-dead-game-29kg)
+- [GameSpot: Invincible VS. - Cecil Stedman Character Gameplay Reveal Trailer](https://dev.to/gg_news/gamespot-invincible-vs-cecil-stedman-character-gameplay-reveal-trailer-2eg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
