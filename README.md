@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-kj)
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-koc)
-- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-2g1f)
-- [GameSpot: Why The Warriors is Rockstars BEST &lpar;non-GTA/Red Dead&rpar; Game](https://dev.to/gg_news/gamespot-why-the-warriors-is-rockstars-best-non-gtared-dead-game-29kg)
-- [GameSpot: Invincible VS. - Cecil Stedman Character Gameplay Reveal Trailer](https://dev.to/gg_news/gamespot-invincible-vs-cecil-stedman-character-gameplay-reveal-trailer-2eg)
+- [&quot;Don’t Think About It&quot;: Why the Brain Thinks the Opposite &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/dont-think-about-it-why-the-brain-thinks-the-opposite-bite-size-article-1ah6)
+- [The Solo Developer&#39;s Product Stack: 4 Things I Wish I&#39;d Set Up From Day One](https://dev.to/shayy/the-solo-developers-product-stack-4-things-i-wish-id-set-up-from-day-one-158j)
+- [Book Review — The Creative Act: A Way of Being by Rick Rubin](https://dev.to/aileenvl/book-review-the-creative-act-a-way-of-being-by-rick-rubin-5eeb)
+- [Data in Everyday Life](https://dev.to/mubby042/data-in-everyday-life-15j1)
+- [🐼 Pandas DataFrame Selection, Filtering &amp; Cleaning — Hands-on Practice.](https://dev.to/ashok_kumar_564581944e3ef/pandas-dataframe-selection-filtering-cleaning-hands-on-practice-309i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
