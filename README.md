@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Local Storage: From Cookies to Web Storage and IndexedDB](https://dev.to/jackm_345442a09fb53b/local-storage-from-cookies-to-web-storage-and-indexeddb-1af7)
-- [Your First Step into Coding: A Beginner&#39;s Guide to Getting Started with Java](https://dev.to/satyam_gupta_0d1ff2152dcc/your-first-step-into-coding-a-beginners-guide-to-getting-started-with-java-1693)
-- [COLORS: Ray Vaughn - 3PM @ DAIRY | A COLORS SHOW](https://dev.to/music_youtube/colors-ray-vaughn-3pm-dairy-a-colors-show-36g3)
-- [KEXP: Hunx and His Punx - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-full-performance-live-on-kexp-3n3j)
-- [KEXP: Wet Leg - catch these fists &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-catch-these-fists-live-on-kexp-2bk8)
+- [🚀 Week 3 – Spring Data JPA &amp; CRUD Operations in Spring Boot](https://dev.to/tejasvi_urkande/week-3-spring-data-jpa-crud-operations-in-spring-boot-26bg)
+- [Building a Task Management MCP Server with Laravel](https://dev.to/blamsa0mine/building-a-task-management-mcp-server-with-laravel-1eed)
+- [AWS EC2 Series](https://dev.to/ntsezenelvis/aws-ec2-series-53i5)
+- [What is a Large Language Model &lpar;LLM&rpar;](https://dev.to/snehalkadwe/what-is-a-large-language-model-llm-2gca)
+- [Building a Production-Ready LMS Platform: A Complete Guide to Modern EdTech Architecture](https://dev.to/nadim_ch0wdhury/building-a-production-ready-lms-platform-a-complete-guide-to-modern-edtech-architecture-16ek)
 <!-- BLOG-POST-LIST:END -->
 
 ---
