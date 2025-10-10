@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Series Week 4/52 — Predictable SLAs in Oracle Database Management](https://dev.to/nabhaas/series-week-452-predictable-slas-in-oracle-database-management-1kfh)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-3a7e)
-- [Learning JS in 30 Days - Day 7](https://dev.to/tony_chase_83955825282edc/learn-js-in-30-days-day-8-5f9a)
-- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-5f3i)
-- [KEXP: Hunx and His Punx - No Way Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-no-way-out-live-on-kexp-idc)
+- [Fast Map Development: Using Context7 + Claude CLI with MapMetrics-GL](https://dev.to/mapmetrics/fast-map-development-using-context7-claude-cli-with-mapmetrics-gl-47eo)
+- [End-to-End YouTube Channel Analytics Pipeline](https://dev.to/lagat_josiah_f024a2c855bc/end-to-end-youtube-channel-analytics-pipeline-4b6n)
+- [🛡️ OCTAL ACCESS RIGHTS IN LINUX: A COMPLETE GUIDE](https://dev.to/dima853/octal-access-rights-in-linux-a-complete-guide-3kj0)
+- [That Harmless QR Code Could Be Your Next Breach.](https://dev.to/akuson/that-harmless-qr-code-could-be-your-next-breach-59dd)
+- [I Built a Real-Time Analytics Platform to Track MrBeast’s YouTube Channel](https://dev.to/augo_amos/building-a-real-time-youtube-analytics-platform-with-airflow-postgresql-grafana-1k12)
 <!-- BLOG-POST-LIST:END -->
 
 ---
