@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-566b)
-- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-19ib)
-- [Security news weekly round-up - 10th October 2025](https://dev.to/ziizium/security-news-weekly-round-up-10th-october-2025-1khb)
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-lkk)
-- [GameSpot: ROG Xbox Ally and Ally X: Everything To Know](https://dev.to/gg_news/gamespot-rog-xbox-ally-and-ally-x-everything-to-know-4g8e)
+- [[Fix] Burp Suite crashing on Kali ARM64 &lpar;Apple Silicon / QEMU&rpar;](https://dev.to/yarkhan02/fix-burp-suite-crashing-on-kali-arm64-apple-silicon-qemu-3d99)
+- [Splitting a Number into Digits](https://dev.to/ayush_mishra_be0655d6b0d6/splitting-a-number-into-digits-3a4m)
+- [50 Most Useful SASS Snippets](https://dev.to/softwaredeveloper01/50-most-useful-sass-snippets-3m8o)
+- [Getting Started with Docker Compose: A Hands-On Guide to Multi-Container Applications](https://dev.to/theodora_e6f61d02577a5f06/getting-started-with-docker-compose-a-hands-on-guide-to-multi-container-applications-4lom)
+- [Automatiser le rebalancement de portefeuille avec une API &lpar;exemple pratique&rpar;](https://dev.to/joachimdi/automatiser-le-rebalancement-de-portefeuille-avec-une-api-exemple-pratique-56ji)
 <!-- BLOG-POST-LIST:END -->
 
 ---
