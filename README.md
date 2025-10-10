@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [js13kGames 2025 criteria rankings](https://dev.to/js13kgames/js13kgames-2025-criteria-rankings-3ao0)
-- [How static analysis encourages developers to refactor code: Another look at Source SDK](https://dev.to/pvsdev/how-static-analysis-encourages-developers-to-refactor-code-another-look-at-source-sdk-2mjn)
-- [RecGen: a powerful tool to create recommendation systems](https://dev.to/rec_gen_project/recgen-a-powerful-tool-to-create-recommendation-systems-2h5m)
-- [How to remove default styles on a webpage?](https://dev.to/aj_arul/how-to-remove-default-styles-on-a-webpage-4jc9)
-- [Which AI Website Builder has impressed you the most ?](https://dev.to/amananandrai/which-ai-website-builder-has-impressed-you-the-most--4ml8)
+- [Local Storage: From Cookies to Web Storage and IndexedDB](https://dev.to/jackm_345442a09fb53b/local-storage-from-cookies-to-web-storage-and-indexeddb-1af7)
+- [Your First Step into Coding: A Beginner&#39;s Guide to Getting Started with Java](https://dev.to/satyam_gupta_0d1ff2152dcc/your-first-step-into-coding-a-beginners-guide-to-getting-started-with-java-1693)
+- [COLORS: Ray Vaughn - 3PM @ DAIRY | A COLORS SHOW](https://dev.to/music_youtube/colors-ray-vaughn-3pm-dairy-a-colors-show-36g3)
+- [KEXP: Hunx and His Punx - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-full-performance-live-on-kexp-3n3j)
+- [KEXP: Wet Leg - catch these fists &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-catch-these-fists-live-on-kexp-2bk8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
