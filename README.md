@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The &#39;Lift-and-Shift&#39; Trap: 5 Reasons Your Cloud Migration Is Doomed Before Day One](https://dev.to/jerrywarrenfc/the-lift-and-shift-trap-5-reasons-your-cloud-migration-is-doomed-before-day-one-59o3)
-- [Intelligence-Driven QA: Building Trust in the Digital Age](https://dev.to/qentelli/intelligence-driven-qa-building-trust-in-the-digital-age-jeh)
-- [It’s Never Too Early to Think About Performance](https://dev.to/mrkoubi/its-never-too-early-to-think-about-performance-18ac)
-- [From Hours to Minutes: How Dmall Cuts Data Integration Costs to 1/3 with Apache SeaTunnel?](https://dev.to/seatunnel/from-hours-to-minutes-how-dmall-cuts-data-integration-costs-to-13-with-apache-seatunnel-6ii)
-- [Python For Data Engineering](https://dev.to/gilbert_korir/python-for-data-engineering-6e4)
+- [How to Use the Flutterwave API For Bank Account Name Verification](https://dev.to/thebackendfrancium/how-to-use-the-flutterwave-api-for-bank-account-name-verification-10m7)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-36e)
+- [GameSpot: ROG Xbox Ally and Ally X: Everything To Know](https://dev.to/gg_news/gamespot-rog-xbox-ally-and-ally-x-everything-to-know-96f)
+- [GameSpot: Battlefield 6 - Good Company &lpar;Review-In-Progress&rpar;](https://dev.to/gg_news/gamespot-battlefield-6-good-company-review-in-progress-2pkn)
+- [GameSpot: Invincible VS. - Cecil Stedman Character Gameplay Reveal Trailer](https://dev.to/gg_news/gamespot-invincible-vs-cecil-stedman-character-gameplay-reveal-trailer-3bm7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
