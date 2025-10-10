@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [ZKP](https://dev.to/nairsreya/zkp-2o8j)
-- [5 Most Used Excel Functions by Data Analysts &lpar;And Why You Should Master Them&rpar;](https://dev.to/imliami0dev/5-most-used-excel-functions-by-data-analysts-and-why-you-should-master-them-3ahp)
-- [My First PR into the Hactoberfest...](https://dev.to/hsachdeva9/my-first-pr-into-the-hactoberfest-3da3)
-- [LatamBoard: Building Open, Transparent AI Evaluation for Latin America](https://dev.to/mauro_ibaez_f9e7f91f932a/latamboard-building-open-transparent-ai-evaluation-for-latin-america-2kp7)
-- [Reduce Variability and Optimize Routing Accuracy in Business Central](https://dev.to/insight_works/reduce-variability-and-optimize-routing-accuracy-in-business-central-4kdb)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-566b)
+- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-19ib)
+- [Security news weekly round-up - 10th October 2025](https://dev.to/ziizium/security-news-weekly-round-up-10th-october-2025-1khb)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-lkk)
+- [GameSpot: ROG Xbox Ally and Ally X: Everything To Know](https://dev.to/gg_news/gamespot-rog-xbox-ally-and-ally-x-everything-to-know-4g8e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
