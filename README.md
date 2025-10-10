@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Wet Leg - davina mccall &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-davina-mccall-live-on-kexp-447k)
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-44p1)
-- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-3bg9)
-- [Wallet-as-a-Service: The Secret Weapon Web3 Founders Can’t Ignore](https://dev.to/k_wilson/wallet-as-a-service-the-secret-weapon-web3-founders-cant-ignore-43m2)
-- [GameSpot: ROG Xbox Ally and Ally X: Everything To Know](https://dev.to/gg_news/gamespot-rog-xbox-ally-and-ally-x-everything-to-know-lej)
+- [js13kGames 2025 criteria rankings](https://dev.to/js13kgames/js13kgames-2025-criteria-rankings-3ao0)
+- [How static analysis encourages developers to refactor code: Another look at Source SDK](https://dev.to/pvsdev/how-static-analysis-encourages-developers-to-refactor-code-another-look-at-source-sdk-2mjn)
+- [RecGen: a powerful tool to create recommendation systems](https://dev.to/rec_gen_project/recgen-a-powerful-tool-to-create-recommendation-systems-2h5m)
+- [How to remove default styles on a webpage?](https://dev.to/aj_arul/how-to-remove-default-styles-on-a-webpage-4jc9)
+- [Which AI Website Builder has impressed you the most ?](https://dev.to/amananandrai/which-ai-website-builder-has-impressed-you-the-most--4ml8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
