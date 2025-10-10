@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Ray Vaughn | A COLORS SHOW](https://dev.to/music_youtube/colors-ray-vaughn-a-colors-show-hdm)
-- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-a2m)
-- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-2b3o)
-- [KEXP: Hunx and His Punx - No Way Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-no-way-out-live-on-kexp-50e7)
-- [KEXP: Hunx and His Punx - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-full-performance-live-on-kexp-531g)
+- [Part-2: AWS Global Infrastructure | Amazon Web Services](https://dev.to/olymahmud/part-2-aws-global-infrastructure-amazon-web-services-2n2f)
+- [How We Built KudiPod - A Fast, Modern Business Management App for Everyday Entrepreneurs](https://dev.to/cizonet/how-we-built-kudipod-a-fast-modern-business-management-app-for-everyday-entrepreneurs-54a6)
+- [11 Best App Development Courses to Take in 2026](https://dev.to/stack_overflowed/11-best-app-development-courses-to-take-in-2026-54m4)
+- [Cursor +Trigger](https://dev.to/nahuleswaran_s24cb031_b4/cursor-trigger-18mj)
+- [Picking the Right Data Format for Your Workflow](https://dev.to/haresh_kn_/picking-the-right-data-format-for-your-workflow-2ffm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
