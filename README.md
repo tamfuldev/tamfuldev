@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-4ehn)
-- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-50o6)
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-55f4)
-- [GameSpot: Battlefield 6 - Good Company &lpar;Review-In-Progress&rpar;](https://dev.to/gg_news/gamespot-battlefield-6-good-company-review-in-progress-3hcb)
-- [GameSpot: Invincible VS. - Cecil Stedman Character Gameplay Reveal Trailer](https://dev.to/gg_news/gamespot-invincible-vs-cecil-stedman-character-gameplay-reveal-trailer-2hmf)
+- [From CAP to GAP?](https://dev.to/omanfk/from-cap-to-gap-269h)
+- [Make Any Angular List Draggable in Minutes](https://dev.to/brianmtreese/make-any-angular-list-draggable-in-minutes-3fmb)
+- [Building Production-Ready AI Agents with Amazon Bedrock AgentCore.](https://dev.to/kraisorn_prasoetsang/building-production-ready-ai-agents-with-amazon-bedrock-agentcore-hdn)
+- [Every Line of Code Is a Philosophy in Disguise](https://dev.to/rohit_gavali_0c2ad84fe4e0/every-line-of-code-is-a-philosophy-in-disguise-51lf)
+- [Quillion - Python Web Framework for Backend Developers](https://dev.to/idk_286a588368add3573523c/quillion-python-web-framework-for-backend-developers-1k29)
 <!-- BLOG-POST-LIST:END -->
 
 ---
