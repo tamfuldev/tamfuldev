@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Prototyping Real-time Social Sentiment with Python](https://dev.to/delia_rue/prototyping-real-time-social-sentiment-with-python-4ldj)
-- [🧑‍⚖️ Building a Saudi Labor Law AI Assistant — Bilingual, Semantic, and Context-Aware](https://dev.to/zainalabdeen/building-a-saudi-labor-law-ai-assistant-bilingual-semantic-and-context-aware-597e)
-- [Why I&#39;m Building My Own Distributed Database](https://dev.to/namanvashistha/why-im-building-my-own-distributed-database-3lj)
-- [The Nytril Programming Language](https://dev.to/shawn_mccreight_3b07b3a16/the-nytril-programming-language-434c)
-- [HoneyDrunk.Pipelines — Treat Your CI/CD as Infrastructure](https://dev.to/tatted_dev/honeydrunkpipelines-treat-your-cicd-as-infrastructure-38p2)
+- [Golang For PHP Developer : Testing &amp; Deployment](https://dev.to/dosenngoding/golang-for-php-developer-testing-deployment-1f20)
+- [Handling 100+ Website Scrapers with Python&#39;s asyncio](https://dev.to/pradippanjiyar/handling-100-website-scrapers-with-pythons-asyncio-4905)
+- [Tutorial: Selenium WebDriver + Reqnroll](https://dev.to/emmanuelsalazar92/tutorial-selenium-webdriver-reqnroll-186i)
+- [Basic Linux Command Using Ubuntu terminal environment.](https://dev.to/onyemuche/basic-linux-command-using-ubuntu-terminal-environment-iie)
+- [Tome in the Valley](https://dev.to/shepherd_1ec15ed8e8d85ced/tome-in-the-valley-2f5a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
