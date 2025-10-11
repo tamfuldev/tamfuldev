@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-4373)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-46oe)
-- [End-to-end testing of Gen AI Apps](https://dev.to/tarekoraby/end-to-end-testing-of-gen-ai-apps-2j7j)
-- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-5b2d)
-- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-4kj5)
+- [A tangled web of deals stokes AI bubble fears in Silicon Valley](https://dev.to/mabualzait/a-tangled-web-of-deals-stokes-ai-bubble-fears-in-silicon-valley-1ll4)
+- [AI268: Developing &amp; Deploying AI/ML on OpenShift AI &lpar;with Exam&rpar;](https://dev.to/sindhuja_ns_1e491ce1088d/ai268-developing-deploying-aiml-on-openshift-ai-with-exam-21kj)
+- [AMD and Sony&#39;s PS6 chipset aims to rethink the current graphics pipeline](https://dev.to/technoblogger14o3/amd-and-sonys-ps6-chipset-aims-to-rethink-the-current-graphics-pipeline-12lm)
+- [How I Built a Sweet Niche Site About Chocolate Spreads Using WordPress + SEO Tools](https://dev.to/atif_e707a02c32c940bde497/how-i-built-a-sweet-niche-site-about-chocolate-spreads-using-wordpress-seo-tools-251j)
+- [From Creative Burnout to a Full Sketchbook: A Practical Guide to Rekindling Your Artistic Drive](https://dev.to/vincent_gay_77e325241795e/from-creative-burnout-to-a-full-sketchbook-a-practical-guide-to-rekindling-your-artistic-drive-2noh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
