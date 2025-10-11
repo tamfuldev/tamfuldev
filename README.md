@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Prototyping Real-time Social Sentiment with Python](https://dev.to/delia_rue/prototyping-real-time-social-sentiment-with-python-4ldj)
+- [🧑‍⚖️ Building a Saudi Labor Law AI Assistant — Bilingual, Semantic, and Context-Aware](https://dev.to/zainalabdeen/building-a-saudi-labor-law-ai-assistant-bilingual-semantic-and-context-aware-597e)
+- [Why I&#39;m Building My Own Distributed Database](https://dev.to/namanvashistha/why-im-building-my-own-distributed-database-3lj)
+- [The Nytril Programming Language](https://dev.to/shawn_mccreight_3b07b3a16/the-nytril-programming-language-434c)
 - [HoneyDrunk.Pipelines — Treat Your CI/CD as Infrastructure](https://dev.to/tatted_dev/honeydrunkpipelines-treat-your-cicd-as-infrastructure-38p2)
-- [[Boost]](https://dev.to/fmerian/-n16)
-- [Why I&#39;m Building My Own Distributed Database](https://dev.to/namanvashistha/why-im-building-my-own-distributed-database-and-why-you-should-too-32p5)
-- [Leveling Up in Back-End Development with Meta’s Coursera Course 🚀](https://dev.to/thiyagu26v/leveling-up-in-back-end-development-with-metas-coursera-course-37h0)
-- [Simplifiez vos workflows DevOps avec Task, le &quot;Makefile&quot; moderne](https://dev.to/laformulenuagique/simplifiez-vos-workflows-devops-avec-task-le-makefile-moderne-1coa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
