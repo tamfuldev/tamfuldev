@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Refactoring Code &amp;&amp; Git Rebase](https://dev.to/elsad_humbetli_0971c995ce/refactoring-code-git-rebase-2kpm)
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-31i4)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-5h1)
-- [KEXP: Wet Leg - mangetout &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-1543)
-- [KEXP: Wet Leg - davina mccall &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-davina-mccall-live-on-kexp-n9k)
+- [COLORS: Ray Vaughn - 3PM @ DAIRY | A COLORS SHOW](https://dev.to/music_youtube/colors-ray-vaughn-3pm-dairy-a-colors-show-1geb)
+- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-18o1)
+- [KEXP: Hunx and His Punx - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-full-performance-live-on-kexp-30hb)
+- [KEXP: Wet Leg - catch these fists &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-catch-these-fists-live-on-kexp-3347)
+- [KEXP: Wet Leg - CPR &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-cpr-live-on-kexp-k57)
 <!-- BLOG-POST-LIST:END -->
 
 ---
