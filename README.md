@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Fix] Burp Suite crashing on Kali ARM64 &lpar;Apple Silicon / QEMU&rpar;](https://dev.to/yarkhan02/fix-burp-suite-crashing-on-kali-arm64-apple-silicon-qemu-3d99)
-- [Splitting a Number into Digits](https://dev.to/ayush_mishra_be0655d6b0d6/splitting-a-number-into-digits-3a4m)
-- [50 Most Useful SASS Snippets](https://dev.to/softwaredeveloper01/50-most-useful-sass-snippets-3m8o)
-- [Getting Started with Docker Compose: A Hands-On Guide to Multi-Container Applications](https://dev.to/theodora_e6f61d02577a5f06/getting-started-with-docker-compose-a-hands-on-guide-to-multi-container-applications-4lom)
-- [Automatiser le rebalancement de portefeuille avec une API &lpar;exemple pratique&rpar;](https://dev.to/joachimdi/automatiser-le-rebalancement-de-portefeuille-avec-une-api-exemple-pratique-56ji)
+- [Refactoring Code &amp;&amp; Git Rebase](https://dev.to/elsad_humbetli_0971c995ce/refactoring-code-git-rebase-2kpm)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-31i4)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-5h1)
+- [KEXP: Wet Leg - mangetout &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-1543)
+- [KEXP: Wet Leg - davina mccall &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-davina-mccall-live-on-kexp-n9k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
