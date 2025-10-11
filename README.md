@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A tangled web of deals stokes AI bubble fears in Silicon Valley](https://dev.to/mabualzait/a-tangled-web-of-deals-stokes-ai-bubble-fears-in-silicon-valley-1ll4)
-- [AI268: Developing &amp; Deploying AI/ML on OpenShift AI &lpar;with Exam&rpar;](https://dev.to/sindhuja_ns_1e491ce1088d/ai268-developing-deploying-aiml-on-openshift-ai-with-exam-21kj)
-- [AMD and Sony&#39;s PS6 chipset aims to rethink the current graphics pipeline](https://dev.to/technoblogger14o3/amd-and-sonys-ps6-chipset-aims-to-rethink-the-current-graphics-pipeline-12lm)
-- [How I Built a Sweet Niche Site About Chocolate Spreads Using WordPress + SEO Tools](https://dev.to/atif_e707a02c32c940bde497/how-i-built-a-sweet-niche-site-about-chocolate-spreads-using-wordpress-seo-tools-251j)
-- [From Creative Burnout to a Full Sketchbook: A Practical Guide to Rekindling Your Artistic Drive](https://dev.to/vincent_gay_77e325241795e/from-creative-burnout-to-a-full-sketchbook-a-practical-guide-to-rekindling-your-artistic-drive-2noh)
+- [GameSpot: Why The Warriors is Rockstars BEST &lpar;non-GTA/Red Dead&rpar; Game](https://dev.to/gg_news/gamespot-why-the-warriors-is-rockstars-best-non-gtared-dead-game-462b)
+- [GameSpot: Invincible VS. - Cecil Stedman Character Gameplay Reveal Trailer](https://dev.to/gg_news/gamespot-invincible-vs-cecil-stedman-character-gameplay-reveal-trailer-1nio)
+- [GameSpot: Which Battlefield 6 Class is Right For You](https://dev.to/gg_news/gamespot-which-battlefield-6-class-is-right-for-you-147l)
+- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-1ab0)
+- [GameSpot: We Are So Back, It&#39;s So Over | Spot On Returns!](https://dev.to/gg_news/gamespot-we-are-so-back-its-so-over-spot-on-returns-4d48)
 <!-- BLOG-POST-LIST:END -->
 
 ---
