@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [React useFormStatus Hook , Complete Guide &lpar;Beginner to Advanced&rpar;](https://dev.to/homayunmmdy/react-useformstatus-hook-complete-guide-beginner-to-advanced-3gcg)
-- [Concurrency and Row Versioning - Part 1](https://dev.to/arturampilogov/concurrency-and-row-versioning-part-1-39hn)
-- [The Ultimate Betrayal: How Pakistan’s 50-Year Friendship Backfired Spectacularly](https://dev.to/mariasaleh/the-ultimate-betrayal-how-pakistans-50-year-friendship-backfired-spectacularly-apg)
-- [What&#39;s &quot;AWS Local Zones&quot;](https://dev.to/wakeup_flower_8591a6cb6a9/whats-aws-local-zones-474)
-- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-pm9)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-2fd8)
+- [GameSpot: Battlefield 6 - Good Company &lpar;Review-In-Progress&rpar;](https://dev.to/gg_news/gamespot-battlefield-6-good-company-review-in-progress-5c97)
+- [GameSpot: Battlefield 6 Essential Beginner Guide](https://dev.to/gg_news/gamespot-battlefield-6-essential-beginner-guide-57hg)
+- [GameSpot: Which Battlefield 6 Class is Right For You](https://dev.to/gg_news/gamespot-which-battlefield-6-class-is-right-for-you-2g07)
+- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-39b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
