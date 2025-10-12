@@ -4,11 +4,13 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Golang For PHP Developer : Testing &amp; Deployment](https://dev.to/dosenngoding/golang-for-php-developer-testing-deployment-1f20)
-- [Handling 100+ Website Scrapers with Python&#39;s asyncio](https://dev.to/pradippanjiyar/handling-100-website-scrapers-with-pythons-asyncio-4905)
-- [Tutorial: Selenium WebDriver + Reqnroll](https://dev.to/emmanuelsalazar92/tutorial-selenium-webdriver-reqnroll-186i)
-- [Basic Linux Command Using Ubuntu terminal environment.](https://dev.to/onyemuche/basic-linux-command-using-ubuntu-terminal-environment-iie)
-- [Tome in the Valley](https://dev.to/shepherd_1ec15ed8e8d85ced/tome-in-the-valley-2f5a)
+- [Choosing the Right Storage Solution](https://dev.to/cathylai/choosing-the-right-storage-solution-3log)
+- [Ollama SDKs in Go: Overview and Code Examples](https://dev.to/rosgluk/ollama-sdks-in-go-overview-and-code-examples-42n3)
+- [Title: Anthropic&#39;s Countermove: Offering Claude to Government Agencies for $1](https://dev.to/yagyaraj_sharma_6cd410179/title-anthropics-countermove-offering-claude-to-government-agencies-for-1-26do)
+- [After months of small annoyances and way too much curiosity, I finally made the switch to Linux.
+
+Here&#39;s what actually happened &lpar;spoiler: I&#39;m not going back&rpar;.](https://dev.to/realcw_bishop/after-months-of-small-annoyances-and-way-too-much-curiosity-i-finally-made-the-switch-to-linux-16le)
+- [Why I Finally Ditched Windows for Linux &lpar;And Actually Liked It&rpar;](https://dev.to/realcw_bishop/why-i-finally-ditched-windows-for-linux-and-actually-liked-it-i3f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
