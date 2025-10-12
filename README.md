@@ -4,13 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing the Right Storage Solution](https://dev.to/cathylai/choosing-the-right-storage-solution-3log)
-- [Ollama SDKs in Go: Overview and Code Examples](https://dev.to/rosgluk/ollama-sdks-in-go-overview-and-code-examples-42n3)
-- [Title: Anthropic&#39;s Countermove: Offering Claude to Government Agencies for $1](https://dev.to/yagyaraj_sharma_6cd410179/title-anthropics-countermove-offering-claude-to-government-agencies-for-1-26do)
-- [After months of small annoyances and way too much curiosity, I finally made the switch to Linux.
-
-Here&#39;s what actually happened &lpar;spoiler: I&#39;m not going back&rpar;.](https://dev.to/realcw_bishop/after-months-of-small-annoyances-and-way-too-much-curiosity-i-finally-made-the-switch-to-linux-16le)
-- [Why I Finally Ditched Windows for Linux &lpar;And Actually Liked It&rpar;](https://dev.to/realcw_bishop/why-i-finally-ditched-windows-for-linux-and-actually-liked-it-i3f)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-1phc)
+- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-1a74)
+- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-4pfl)
+- [KEXP: Wet Leg - mangetout &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-2846)
+- [KEXP: Wet Leg - davina mccall &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-davina-mccall-live-on-kexp-3kk7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
