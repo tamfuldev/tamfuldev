@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-2bf6)
-- [GameSpot: Battlefield 6 Essential Beginner Guide](https://dev.to/gg_news/gamespot-battlefield-6-essential-beginner-guide-249)
-- [GameSpot: Which Battlefield 6 Class is Right For You](https://dev.to/gg_news/gamespot-which-battlefield-6-class-is-right-for-you-535a)
-- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-eeh)
-- [GameSpot: We Are So Back, It&#39;s So Over | Spot On Returns!](https://dev.to/gg_news/gamespot-we-are-so-back-its-so-over-spot-on-returns-dhn)
+- [🚀 Unlocking Productivity: AI Tools Every Angular Developer Should Know](https://dev.to/karol_modelski/unlocking-productivity-ai-tools-every-angular-developer-should-know-1fj)
+- [Parallel PHP SOAP Client Requests](https://dev.to/andreistsiapanau/parallel-php-soap-client-requests-5glg)
+- [Evaluating Network Security With Amazon VPC Network Access Analyzer](https://dev.to/aws-builders/evaluating-network-security-with-amazon-vpc-network-access-analyzer-2h41)
+- [🚀 From Excel to Web App: How I Built a Smart Assignment Management System for 125 Students](https://dev.to/anticoder03/from-excel-to-web-app-how-i-built-a-smart-assignment-management-system-for-125-students-3jac)
+- [🌿 How My Winter Garden Inspires Better UI Design](https://dev.to/shubhradev/how-my-winter-garden-inspires-better-ui-design-4b48)
 <!-- BLOG-POST-LIST:END -->
 
 ---
