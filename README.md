@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-27p9)
-- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-26p7)
-- [KEXP: Wet Leg - mangetout &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-48ie)
-- [KEXP: Wet Leg - davina mccall &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-davina-mccall-live-on-kexp-3n30)
-- [Trash Theory: The Most Bizarre UK No. 1s of the 1990s](https://dev.to/music_youtube/trash-theory-the-most-bizarre-uk-no-1s-of-the-1990s-25mb)
+- [Part-122: 🚀Step-by-Step Guide: Create a GKE Private Cluster with Cloud NAT and Deploy an App](https://dev.to/latchudevops/part-122-step-by-step-guide-create-a-gke-private-cluster-with-cloud-nat-and-deploy-an-app-17je)
+- [October 2025 Crypto Pulse: Bullish Vibes, DeFi Surges, and Market Shifts](https://dev.to/om_shree_0709/october-2025-crypto-pulse-bullish-vibes-defi-surges-and-market-shifts-48i8)
+- [October 2025 Forem Core Update: Hacktoberfest Momentum, PR Cleanups, and Self-Hosting Tweaks](https://dev.to/om_shree_0709/october-2025-forem-core-update-hacktoberfest-momentum-pr-cleanups-and-self-hosting-tweaks-ii2)
+- [October 2025 Scale Engineering Digest: AI Shifts, Event Buzz, and SRE Evolutions](https://dev.to/om_shree_0709/october-2025-scale-engineering-digest-ai-shifts-event-buzz-and-sre-evolutions-5cdf)
+- [Ballerina vs Node.js: Building Modern APIs &lpar;Plus macOS Setup Tips&rpar;](https://dev.to/morningstarxcdcode/ballerina-vs-nodejs-building-modern-apis-plus-macos-setup-tips-582k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
