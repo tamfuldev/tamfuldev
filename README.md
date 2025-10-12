@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Part-122: 🚀Step-by-Step Guide: Create a GKE Private Cluster with Cloud NAT and Deploy an App](https://dev.to/latchudevops/part-122-step-by-step-guide-create-a-gke-private-cluster-with-cloud-nat-and-deploy-an-app-17je)
-- [October 2025 Crypto Pulse: Bullish Vibes, DeFi Surges, and Market Shifts](https://dev.to/om_shree_0709/october-2025-crypto-pulse-bullish-vibes-defi-surges-and-market-shifts-48i8)
-- [October 2025 Forem Core Update: Hacktoberfest Momentum, PR Cleanups, and Self-Hosting Tweaks](https://dev.to/om_shree_0709/october-2025-forem-core-update-hacktoberfest-momentum-pr-cleanups-and-self-hosting-tweaks-ii2)
-- [October 2025 Scale Engineering Digest: AI Shifts, Event Buzz, and SRE Evolutions](https://dev.to/om_shree_0709/october-2025-scale-engineering-digest-ai-shifts-event-buzz-and-sre-evolutions-5cdf)
-- [Ballerina vs Node.js: Building Modern APIs &lpar;Plus macOS Setup Tips&rpar;](https://dev.to/morningstarxcdcode/ballerina-vs-nodejs-building-modern-apis-plus-macos-setup-tips-582k)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-2bf6)
+- [GameSpot: Battlefield 6 Essential Beginner Guide](https://dev.to/gg_news/gamespot-battlefield-6-essential-beginner-guide-249)
+- [GameSpot: Which Battlefield 6 Class is Right For You](https://dev.to/gg_news/gamespot-which-battlefield-6-class-is-right-for-you-535a)
+- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-eeh)
+- [GameSpot: We Are So Back, It&#39;s So Over | Spot On Returns!](https://dev.to/gg_news/gamespot-we-are-so-back-its-so-over-spot-on-returns-dhn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
