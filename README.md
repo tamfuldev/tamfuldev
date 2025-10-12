@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The EU&#39;s AI Code of Practice](https://dev.to/rawveg/the-eus-ai-code-of-practice-11pj)
-- [The Journey That Just Began — From Feeling Like a Beginner to Receiving My First Stipend](https://dev.to/23aditi/the-journey-that-just-began-from-feeling-like-a-beginner-to-receiving-my-first-stipend-njn)
-- [Day 29 of python code series..](https://dev.to/momina_raheelmoona_c59/day-29-of-python-code-series-5die)
-- [Is Your Fridge About To Order Groceries For You? Demystifying the Metaverse&#39;s Sibling: The Internet of Things &lpar;IoT&rpar;](https://dev.to/karthik_n/is-your-fridge-about-to-order-groceries-for-you-demystifying-the-metaverses-sibling-the-internet-525d)
-- [What I Learned from Digging into the SolidCache Gem](https://dev.to/alisepehri/what-i-learned-from-digging-into-the-solidcache-gem-c1l)
+- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-8e1)
+- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-l7f)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-1h8m)
+- [GameSpot: Battlefield 6 - Good Company &lpar;Review-In-Progress&rpar;](https://dev.to/gg_news/gamespot-battlefield-6-good-company-review-in-progress-2jc2)
+- [GameSpot: Which Battlefield 6 Class is Right For You](https://dev.to/gg_news/gamespot-which-battlefield-6-class-is-right-for-you-dg5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
