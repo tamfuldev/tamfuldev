@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From building a Voice AI widget to mapping the entire Voice AI ecosystem &lpar;Introducing echostack&rpar;](https://dev.to/ayoolasolomon/from-building-a-voice-ai-widget-to-mapping-the-entire-voice-ai-ecosystem-introducing-echostack-ceo)
-- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_02ee41d0/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-13ca)
-- [Linux Fundamentals for DevOps](https://dev.to/whispernet/linux-fundamentals-for-devops-44ca)
-- [Portfolio First, Social Media Second: Why Platforms Come and Go but Your Website Stays](https://dev.to/imtaslim/portfolio-first-social-media-second-why-platforms-come-and-go-but-your-website-stays-4d8d)
-- [SSR vs CSR: Why Your Website Loads Like a Potato &lpar;and How to Fix It&rpar;](https://dev.to/lucasbrdt268/ssr-vs-csr-why-your-website-loads-like-a-potato-and-how-to-fix-it-1bo)
+- [IGN: Norse: Oath of Blood - Official Story Trailer](https://dev.to/gg_news/ign-norse-oath-of-blood-official-story-trailer-1aln)
+- [IGN: Lumines Arise: Exclusive Gameplay Commentary](https://dev.to/gg_news/ign-lumines-arise-exclusive-gameplay-commentary-1ga4)
+- [IGN: Jurassic World Evolution 3 - Official Caiuajara Dinosaur Showcase Trailer](https://dev.to/gg_news/ign-jurassic-world-evolution-3-official-caiuajara-dinosaur-showcase-trailer-39mc)
+- [IGN: Berserk B.I.T.S - Official Release Date Trailer](https://dev.to/gg_news/ign-berserk-bits-official-release-date-trailer-2g7m)
+- [IGN: Predator: Badlands - Official Teaser Trailer &lpar;2025&rpar; Elle Fanning, Dimitrius Schuster-Koloamatangi](https://dev.to/gg_news/ign-predator-badlands-official-teaser-trailer-2025-elle-fanning-dimitrius-j1f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
