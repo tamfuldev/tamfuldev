@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Engineers Try HTTP for Streaming — And Where It Breaks](https://dev.to/__354f265b41dafa0d901b/why-engineers-try-http-for-streaming-and-where-it-breaks-1blg)
-- [Python Packages &amp; Sub Packages](https://dev.to/srinivasuluparanduru/python-packages-sub-packages-3bff)
-- [💡 “Stop Copying Regex!” — Manage, Validate, and Extract All Your Regex with regex-center](https://dev.to/jamie_wang_5a76e661ad80fa/stop-copying-regex-manage-validate-and-extract-all-your-regex-with-regex-center-3o91)
-- [Why Tech Professionals Are Choosing European Winter Retreats: From Burnout to Intentional Mobility](https://dev.to/__5dd6ed6694d/why-tech-professionals-are-choosing-european-winter-retreats-from-burnout-to-intentional-mobility-3113)
-- [Java](https://dev.to/dharshinieswaran/java-3i4m)
+- [ChatGPT Alternative for SQL Query Optimization](https://dev.to/drupaladmin/chatgpt-alternative-for-sql-query-optimization-2mbi)
+- [AI Weekly — Seeking Honest Feedback](https://dev.to/pascal_cescato_692b7a8a20/ai-weekly-seeking-honest-feedback-443f)
+- [Why Most APIs Don&#39;t Enable CORS?](https://dev.to/reynaldi/why-most-apis-dont-enable-cors-2mp2)
+- [Bulk Upload Products to Shopify with Variants, Metafields, and Images &lpar;Step-by-Step Guide&rpar;](https://dev.to/lucy1/bulk-upload-products-to-shopify-with-variants-metafields-and-images-step-by-step-guide-25m1)
+- [7 CSCP Exam Time Traps to Avoid | Pass Your Test](https://dev.to/nancy_smith/7-cscp-exam-time-traps-to-avoid-pass-your-test-428o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
