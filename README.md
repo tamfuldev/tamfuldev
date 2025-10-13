@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Agent Framework Building a Human-in-the-Loop User Search Workflow : Part-V](https://dev.to/sreeni5018/microsoft-agent-framework-building-a-human-in-the-loop-user-search-workflow-part-v-1g0a)
-- [🛠 The MERN Stack Tools I Actually Use &lpar;Not Just the Ones That Look Good on Twitter&rpar;](https://dev.to/abrahambishopcodes/the-mern-stack-tools-i-actually-use-not-just-the-ones-that-look-good-on-twitter-31lo)
-- [Title: Google Introduces Personalized Search Results with Top Source Selection](https://dev.to/yagyaraj_sharma_6cd410179/title-google-introduces-personalized-search-results-with-top-source-selection-1p4n)
-- [Code Deconstruction: The Nested List Comprehension](https://dev.to/aaron_rose_0787cc8b4775a0/code-deconstruction-the-nested-list-comprehension-4jh8)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-5b4)
+- [Hands-On: Despliega una base de datos PostgreSQL + Bastion + VPC con AWS CDK y Python](https://dev.to/chainiz/hands-on-despliega-una-base-de-datos-postgresql-bastion-vpc-con-aws-cdk-y-python-1a38)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-54jp)
+- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-2mk9)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-9g)
+- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-27ck)
 <!-- BLOG-POST-LIST:END -->
 
 ---
