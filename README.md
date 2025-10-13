@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Battlefield 6 - Good Company &lpar;Review-In-Progress&rpar;](https://dev.to/gg_news/gamespot-battlefield-6-good-company-review-in-progress-2cnb)
-- [GameSpot: Battlefield 6 Essential Beginner Guide](https://dev.to/gg_news/gamespot-battlefield-6-essential-beginner-guide-219b)
-- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-3e9f)
-- [GameSpot: Battlefield 6 is Here And So Are We | Kurt &amp; Lucy Gotcha Covered](https://dev.to/gg_news/gamespot-battlefield-6-is-here-and-so-are-we-kurt-lucy-gotcha-covered-53dg)
-- [GameSpot: 3D Vampire Survivors? YES PLEASE | Megabonk](https://dev.to/gg_news/gamespot-3d-vampire-survivors-yes-please-megabonk-j7f)
+- [Using Translation Memory in Software Projects: A Beginner’s Guide](https://dev.to/gerry_criner/using-translation-memory-in-software-projects-a-beginners-guide-1lhg)
+- [The &lt;template&gt; Tag: A core HTML Feature That Simplified My JS](https://dev.to/richa-parekh/the-tag-a-core-html-feature-that-simplified-my-js-3m1o)
+- [Perl 🐪 Weekly #742 - Support TPRF](https://dev.to/szabgab/perl-weekly-742-support-tprf-gpa)
+- [Magic: The Gathering Explained With JavaScript Classes](https://dev.to/joespaf/magic-the-gathering-explained-with-javascript-classes-3d2)
+- [Part 5: Production Deployment and Enterprise Architecture](https://dev.to/techstuff/part-5-production-deployment-and-enterprise-architecture-a2c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
