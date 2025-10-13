@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT Alternative for SQL Query Optimization](https://dev.to/drupaladmin/chatgpt-alternative-for-sql-query-optimization-2mbi)
-- [AI Weekly — Seeking Honest Feedback](https://dev.to/pascal_cescato_692b7a8a20/ai-weekly-seeking-honest-feedback-443f)
-- [Why Most APIs Don&#39;t Enable CORS?](https://dev.to/reynaldi/why-most-apis-dont-enable-cors-2mp2)
-- [Bulk Upload Products to Shopify with Variants, Metafields, and Images &lpar;Step-by-Step Guide&rpar;](https://dev.to/lucy1/bulk-upload-products-to-shopify-with-variants-metafields-and-images-step-by-step-guide-25m1)
-- [7 CSCP Exam Time Traps to Avoid | Pass Your Test](https://dev.to/nancy_smith/7-cscp-exam-time-traps-to-avoid-pass-your-test-428o)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-l9g)
+- [KEXP: Ezra Furman - Power Of The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-power-of-the-moon-live-on-kexp-4cn5)
+- [KEXP: Ezra Furman - Jump Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-jump-out-live-on-kexp-46lc)
+- [KEXP: Ezra Furman - Veil Song &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-veil-song-live-on-kexp-15o9)
+- [KEXP: Ezra Furman - Submission &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-submission-live-on-kexp-26ml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
