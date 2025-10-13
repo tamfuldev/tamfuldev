@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Using Translation Memory in Software Projects: A Beginner’s Guide](https://dev.to/gerry_criner/using-translation-memory-in-software-projects-a-beginners-guide-1lhg)
-- [The &lt;template&gt; Tag: A core HTML Feature That Simplified My JS](https://dev.to/richa-parekh/the-tag-a-core-html-feature-that-simplified-my-js-3m1o)
-- [Perl 🐪 Weekly #742 - Support TPRF](https://dev.to/szabgab/perl-weekly-742-support-tprf-gpa)
-- [Magic: The Gathering Explained With JavaScript Classes](https://dev.to/joespaf/magic-the-gathering-explained-with-javascript-classes-3d2)
-- [Part 5: Production Deployment and Enterprise Architecture](https://dev.to/techstuff/part-5-production-deployment-and-enterprise-architecture-a2c)
+- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-43ef)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-3536)
+- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-57jn)
+- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-560j)
+- [🚀 Introducing G$HIT-Django: Build Django Apps Instantly — No Setup, No Stress](https://dev.to/gshit/introducing-ghit-django-build-django-apps-instantly-no-setup-no-stress-141f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
