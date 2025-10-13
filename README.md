@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-b0d)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-lp)
-- [KEXP: Ezra Furman - Jump Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-jump-out-live-on-kexp-31go)
-- [🔥 How I Built a High-Performance AI-Powered Chatbot with Deno and No Frameworks &lpar;Seriously!&rpar; 👨‍💻🤯](https://dev.to/ekwoster/how-i-built-a-high-performance-ai-powered-chatbot-with-deno-and-no-frameworks-seriously-5h4g)
-- [🌎 “i18n Demystified: How to Make Your App Speak Any Language Effortlessly”](https://dev.to/charan_gutti_cf60c6185074/i18n-demystified-how-to-make-your-app-speak-any-language-effortlessly-2bl8)
+- [🚀 Unlocking Data with Natural Language: Introducing QueryCraftAI](https://dev.to/abhi9720/unlocking-data-with-natural-language-introducing-querycraftai-amc)
+- [Why do you need react query ?](https://dev.to/manas_1/why-do-you-need-react-query--1pfa)
+- [I built a Terraform Navigator because I was sick of looking for resources](https://dev.to/owenrumney/i-built-a-terraform-navigator-because-i-was-sick-of-looking-for-resources-16kj)
+- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_c329f31b/your-error-handling-is-a-mess-and-its-costing-you--288g)
+- [Farewell-to-Framework-Bloat-How-I-Rediscovered-Simplicity-Without-Sacrificing-Performance](https://dev.to/member_7be3cb2a/farewell-to-framework-bloat-how-i-rediscovered-simplicity-without-sacrificing-performance-2k66)
 <!-- BLOG-POST-LIST:END -->
 
 ---
