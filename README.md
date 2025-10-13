@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Norse: Oath of Blood - Official Story Trailer](https://dev.to/gg_news/ign-norse-oath-of-blood-official-story-trailer-1aln)
-- [IGN: Lumines Arise: Exclusive Gameplay Commentary](https://dev.to/gg_news/ign-lumines-arise-exclusive-gameplay-commentary-1ga4)
-- [IGN: Jurassic World Evolution 3 - Official Caiuajara Dinosaur Showcase Trailer](https://dev.to/gg_news/ign-jurassic-world-evolution-3-official-caiuajara-dinosaur-showcase-trailer-39mc)
-- [IGN: Berserk B.I.T.S - Official Release Date Trailer](https://dev.to/gg_news/ign-berserk-bits-official-release-date-trailer-2g7m)
-- [IGN: Predator: Badlands - Official Teaser Trailer &lpar;2025&rpar; Elle Fanning, Dimitrius Schuster-Koloamatangi](https://dev.to/gg_news/ign-predator-badlands-official-teaser-trailer-2025-elle-fanning-dimitrius-j1f)
+- [Unlocking the Oracle ACE Program: From Contribution to Recognition](https://dev.to/demasy/unlocking-the-oracle-ace-program-from-contribution-to-recognition-4731)
+- [AWS Cost Reporting: Why Parquet Data Doesn&#39;t Match Your Console &lpar;And How to Fix It&rpar;](https://dev.to/gurudev_prasadteketi/aws-cost-reporting-why-parquet-data-doesnt-match-your-console-and-how-to-fix-it-5dlh)
+- [How I Built a Mini C Compiler to Understand How Compilers Work](https://dev.to/ironrinox/how-i-built-a-mini-c-compiler-to-understand-how-compilers-work-1jb7)
+- [Did you know that a well-crafted prompt can make AI models m](https://dev.to/drcarlosruizviquez/did-you-know-that-a-well-crafted-prompt-can-make-ai-models-m-4ecb)
+- [JWT Authentication: How a 10,000-Year-Old Mesopotamian Wisdom Became Your Login System](https://dev.to/ariyaan/jwt-authentication-how-a-10000-year-old-mesopotamian-wisdom-became-your-login-system-3i4m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
