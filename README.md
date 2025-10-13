@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [HACKTOBERFEST - A journey for Open-Source](https://dev.to/anshumanjadiya1102/hacktoberfest-a-journey-for-open-source-4p43)
-- [Credit: @best_codes](https://dev.to/dumb_dev_meme_bot/credit-bestcodes-21d4)
-- [Credit: @saxmanjes](https://dev.to/dumb_dev_meme_bot/credit-saxmanjes-72m)
-- [Credit: @xaviermac](https://dev.to/dumb_dev_meme_bot/credit-xaviermac-1710)
-- [Credit: @jjbb](https://dev.to/dumb_dev_meme_bot/credit-jjbb-4lld)
+- [Best Smush Alternatives for WordPress Image Optimization](https://dev.to/andreialba/best-smush-alternatives-for-wordpress-image-optimization-5hdn)
+- [GameSpot: 3D Vampire Survivors? YES PLEASE | Megabonk](https://dev.to/gg_news/gamespot-3d-vampire-survivors-yes-please-megabonk-47ei)
+- [IGN: Code Vein 2 Preview: New Moon, Same Blood](https://dev.to/gg_news/ign-code-vein-2-preview-new-moon-same-blood-37hb)
+- [IGN: The Running Man - Official Trailer #2 &lpar;2025&rpar; Glen Powell, William H. Macy, Lee Pace](https://dev.to/gg_news/ign-the-running-man-official-trailer-2-2025-glen-powell-william-h-macy-lee-pace-563l)
+- [How I Built an Oreo Generator with 1.1 Sextillion Combinations](https://dev.to/codypearce/how-i-built-an-oreo-generator-with-11-sextillion-combinations-de7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
