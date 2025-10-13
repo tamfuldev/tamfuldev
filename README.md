@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CanKit: a unified c# API for CAN bus &lpar;looking for testers &amp; feedback&rpar;](https://dev.to/pkuyo/cankit-a-unified-c-api-for-can-bus-looking-for-testers-feedback-2m8k)
-- [Building a Reliable USB-to-UART Bridge for Your Embedded Projects with FT232HQ-REEL](https://dev.to/xecor_company/building-a-reliable-usb-to-uart-bridge-for-your-embedded-projects-with-ft232hq-reel-436g)
-- [Unlocking Low-Frequency RFID Magic: Integrating ATA5577M1330C-DDB into Your IoT Projects](https://dev.to/censtry/unlocking-low-frequency-rfid-magic-integrating-ata5577m1330c-ddb-into-your-iot-projects-1nf1)
-- [TCJSgame Pro: The Ultimate JavaScript Game Engine Evolution](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-pro-the-ultimate-javascript-game-engine-evolution-1mlh)
-- [Hands-On: Despliega una base de datos PostgreSQL + Bastion + VPC con AWS CDK y Python](https://dev.to/chainiz/hands-on-despliega-una-base-de-datos-postgresql-bastion-vpc-con-aws-cdk-y-python-1a38)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4lme)
+- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-590b)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-4edh)
+- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-3hhb)
+- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-4pkp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
