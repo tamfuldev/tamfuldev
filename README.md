@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [3 Free Tools I Built Because I Couldn&#39;t Find Good Ones](https://dev.to/kristjan_retter_9f19b3176/3-free-tools-i-built-because-i-couldnt-find-good-ones-5ebk)
-- [AI Fundamentals: Puerta a la Inteligencia Artificial](https://dev.to/karinaaquinoc/ai-fundamentals-puerta-a-la-inteligencia-artificial-5b4g)
-- [Building a Redis Clone in Zig—Part 1](https://dev.to/barddoo/building-a-redis-clone-in-zig-part-1-3fk)
-- [What Building Employee Atlas Taught Me About Real Full-Stack Development](https://dev.to/haris_sejmenovic/what-building-employee-atlas-taught-me-about-real-full-stack-development-2a83)
-- [Day 1 — Understanding Generative AI: A Simple Start for Beginners](https://dev.to/shiv_darshanrathore_402a/day-1-understanding-generative-ai-a-simple-start-for-beginners-539c)
+- [Microsoft Agent Framework Building a Human-in-the-Loop User Search Workflow : Part-V](https://dev.to/sreeni5018/microsoft-agent-framework-building-a-human-in-the-loop-user-search-workflow-part-v-1g0a)
+- [🛠 The MERN Stack Tools I Actually Use &lpar;Not Just the Ones That Look Good on Twitter&rpar;](https://dev.to/abrahambishopcodes/the-mern-stack-tools-i-actually-use-not-just-the-ones-that-look-good-on-twitter-31lo)
+- [Title: Google Introduces Personalized Search Results with Top Source Selection](https://dev.to/yagyaraj_sharma_6cd410179/title-google-introduces-personalized-search-results-with-top-source-selection-1p4n)
+- [Code Deconstruction: The Nested List Comprehension](https://dev.to/aaron_rose_0787cc8b4775a0/code-deconstruction-the-nested-list-comprehension-4jh8)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-5b4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
