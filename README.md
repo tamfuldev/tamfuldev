@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [LLM&#39;ler &quot;Soru Cevaplama&quot; konusunda kabiliyetlidirler](https://dev.to/cihad/an-example-about-structuring-data-progress-by-ai-1en8)
-- [Essential Strategies for Building Accessible Web Applications That Welcome All Users](https://dev.to/aaravjoshi/essential-strategies-for-building-accessible-web-applications-that-welcome-all-users-3hfd)
-- [Best Time Tracking Software to Stay Productive](https://dev.to/tmetric_timer_2b3a575fc8b/best-time-tracking-software-to-stay-productive-5h97)
-- [🚀 Introducing JPlus – The Java Superset Language You&#39;ve Been Waiting For!](https://dev.to/cheol_jeon_9e29b98fdb7e1e/introducing-jplus-the-java-superset-language-youve-been-waiting-for-248)
-- [Polymorphic Todo App](https://dev.to/abdullah_ayasrah_4c9195da/polymorphic-todo-app-26g0)
+- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-2le9)
+- [How to Create a Telegram Bot and Send Messages Using Laravel 12](https://dev.to/akramghaleb/how-to-create-a-telegram-bot-and-send-messages-using-laravel-12-10f)
+- [Quick Tip: Fix Android Emulator DNS Issues in Arch/Linux](https://dev.to/tuliocalil/quick-tip-fix-android-emulator-dns-issues-in-archlinux-gck)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-4i02)
+- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-5bdd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
