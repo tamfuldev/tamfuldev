@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-2le9)
-- [How to Create a Telegram Bot and Send Messages Using Laravel 12](https://dev.to/akramghaleb/how-to-create-a-telegram-bot-and-send-messages-using-laravel-12-10f)
-- [Quick Tip: Fix Android Emulator DNS Issues in Arch/Linux](https://dev.to/tuliocalil/quick-tip-fix-android-emulator-dns-issues-in-archlinux-gck)
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-4i02)
-- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-5bdd)
+- [Optional Packages &amp; Features](https://dev.to/pauljlucas/optional-packages-features-59pp)
+- [A Quick Note About Hexagonal Architecture](https://dev.to/stan_somov/a-quick-note-about-hexagonal-architecture-477)
+- [Unlocking Seamless Authentication with ForgeRock AM and Security Token Service &lpar;STS&rpar;](https://dev.to/iamdevbox/unlocking-seamless-authentication-with-forgerock-am-and-security-token-service-sts-5dia)
+- [XOX Untitled](https://dev.to/harendra_godara_007/xox-untitled-58o8)
+- [Testing Oxide CMS End-to-End - Medium Export](https://dev.to/richet/testing-oxide-cms-end-to-end-medium-export-3i2o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
