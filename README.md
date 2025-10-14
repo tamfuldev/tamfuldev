@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Optional Packages &amp; Features](https://dev.to/pauljlucas/optional-packages-features-59pp)
-- [A Quick Note About Hexagonal Architecture](https://dev.to/stan_somov/a-quick-note-about-hexagonal-architecture-477)
-- [Unlocking Seamless Authentication with ForgeRock AM and Security Token Service &lpar;STS&rpar;](https://dev.to/iamdevbox/unlocking-seamless-authentication-with-forgerock-am-and-security-token-service-sts-5dia)
-- [XOX Untitled](https://dev.to/harendra_godara_007/xox-untitled-58o8)
-- [Testing Oxide CMS End-to-End - Medium Export](https://dev.to/richet/testing-oxide-cms-end-to-end-medium-export-3i2o)
+- [Private Graphs, Public Insights: Feature Propagation with a Twist by Arvind Sundararajan](https://dev.to/arvind_sundararajan/private-graphs-public-insights-feature-propagation-with-a-twist-by-arvind-sundararajan-1065)
+- [Building Event-Driven Architectures on AWS: A Modern Approach to Scalability and Decoupling](https://dev.to/brayanarrieta/building-event-driven-architectures-on-aws-a-modern-approach-to-scalability-and-decoupling-50lg)
+- [10 Global Problems AI Can Solve and Why the Future Needs Us to Build Responsibly](https://dev.to/aws-builders/10-global-problems-ai-can-solve-and-why-the-future-needs-us-to-build-responsibly-8pn)
+- [AI in Coding: The Hype That Delivered an Expensive Autocomplete – Why Devs Are Still Essential in 2025](https://dev.to/dev_michael/ai-in-coding-the-hype-that-delivered-an-expensive-autocomplete-why-devs-are-still-essential-in-4d3h)
+- [The Art of the Caption: What to Write When Sharing Your Best Shots](https://dev.to/arohiblogger/the-art-of-the-caption-what-to-write-when-sharing-your-best-shots-4mea)
 <!-- BLOG-POST-LIST:END -->
 
 ---
