@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Using sass/scss inside lit elements](https://dev.to/sanderand/using-sassscss-inside-lit-elements-ocp)
-- [Dark and Darker HWID Ban: Are You Next?](https://dev.to/monejm/dark-and-darker-hwid-ban-are-you-next-1la9)
-- [CS GO HWID Ban: Game Over for Your Account?](https://dev.to/monejm/cs-go-hwid-ban-game-over-for-your-account-4nnl)
-- [PostgreSQL](https://dev.to/aravinlinux/postgresql-1fnc)
-- [Are you hacked?](https://dev.to/shivakshi_rawat_e69cf6990/are-you-hacked-1e1h)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-hdl)
+- [KEXP: Ezra Furman - Power Of The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-power-of-the-moon-live-on-kexp-4p4i)
+- [KEXP: Ezra Furman - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-full-performance-live-on-kexp-54j8)
+- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-1j9c)
+- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-4c7c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
