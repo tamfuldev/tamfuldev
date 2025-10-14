@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding ORDS Pre-Hook Functions](https://dev.to/rajesh_vohra_e75f579b7888/understanding-ords-pre-hook-functions-1oof)
-- [Beyond Workarounds: A Journey to Refine Reactive Data Models](https://dev.to/tobi_augenstein/beyond-workarounds-a-journey-to-refine-reactive-data-models-3gdb)
-- [The Unspoken Truths of Dev Work: How I Wrestled My Data Science Project onto GitHub &lpar;and learned some secrets&rpar;](https://dev.to/daniel_githinji_6e1e402c3/the-unspoken-truths-of-dev-work-how-i-wrestled-my-data-science-project-onto-github-and-learned-5g5d)
-- [Part-126: 🔐Understanding Google Cloud IAM — Roles, Permissions, and Access Explained](https://dev.to/latchudevops/part-126-understanding-google-cloud-iam-roles-permissions-and-access-explained-2li3)
-- [CSS Animations Tutorial: A Beginner&#39;s Guide](https://dev.to/themrsami/css-animations-tutorial-a-beginners-guide-1e4j)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-1p5p)
+- [GameSpot: Battlefield 6 Essential Beginner Guide](https://dev.to/gg_news/gamespot-battlefield-6-essential-beginner-guide-575f)
+- [GameSpot: Which Battlefield 6 Class is Right For You](https://dev.to/gg_news/gamespot-which-battlefield-6-class-is-right-for-you-4a2l)
+- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-3j4m)
+- [GameSpot: Battlefield 6 is Here And So Are We | Kurt &amp; Lucy Gotcha Covered](https://dev.to/gg_news/gamespot-battlefield-6-is-here-and-so-are-we-kurt-lucy-gotcha-covered-45k9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
