@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Ezra Furman - Veil Song &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-veil-song-live-on-kexp-3gob)
-- [KEXP: Ezra Furman - Submission &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-submission-live-on-kexp-8kf)
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-3f2c)
-- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-2kho)
-- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-3l1c)
+- [Understanding ORDS Pre-Hook Functions](https://dev.to/rajesh_vohra_e75f579b7888/understanding-ords-pre-hook-functions-1oof)
+- [Beyond Workarounds: A Journey to Refine Reactive Data Models](https://dev.to/tobi_augenstein/beyond-workarounds-a-journey-to-refine-reactive-data-models-3gdb)
+- [The Unspoken Truths of Dev Work: How I Wrestled My Data Science Project onto GitHub &lpar;and learned some secrets&rpar;](https://dev.to/daniel_githinji_6e1e402c3/the-unspoken-truths-of-dev-work-how-i-wrestled-my-data-science-project-onto-github-and-learned-5g5d)
+- [Part-126: 🔐Understanding Google Cloud IAM — Roles, Permissions, and Access Explained](https://dev.to/latchudevops/part-126-understanding-google-cloud-iam-roles-permissions-and-access-explained-2li3)
+- [CSS Animations Tutorial: A Beginner&#39;s Guide](https://dev.to/themrsami/css-animations-tutorial-a-beginners-guide-1e4j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
