@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Secure Jenkins-Slack Integration with AWS Lambda - Part 2: Troubleshooting Real-World Issues](https://dev.to/aws-builders/building-secure-jenkins-slack-integration-with-aws-lambda-part-2-troubleshooting-real-world-429d)
-- [Building Secure Jenkins-Slack Integration with AWS Lambda - Part 1: Complete Setup Guide](https://dev.to/aws-builders/building-secure-jenkins-slack-integration-with-aws-lambda-part-1-complete-setup-guide-lgd)
-- [Truth as Ammunition](https://dev.to/rawveg/truth-as-ammunition-5311)
-- [Refactoring 035 - Separate Exception Types](https://dev.to/mcsee/refactoring-035-separate-exception-types-179j)
-- [Modern Warfare 2 HWID Spoofer: DON&#39;T Use One Before You Read This!](https://dev.to/tun_hunh_6164f4c1d2daf6/modern-warfare-2-hwid-spoofer-dont-use-one-before-you-read-this-f9o)
+- [Simplify Your AI Agent Development: Test and Tune MCP Servers Instantly with the ToolHive Playground](https://dev.to/stacklok/simplify-your-ai-agent-development-test-and-tune-mcp-servers-instantly-with-the-toolhive-playground-5c3a)
+- [📰 Major Tech News: Oct 14th, 2025](https://dev.to/om_shree_0709/major-tech-news-oct-14th-2025-3fjj)
+- [Dev Log 32 - Relic 001 - Plague of Rot](https://dev.to/asx/dev-log-32-relic-001-plague-of-rot-54od)
+- [⚡ Next.js Mastery — Building Fast, Scalable, and Future-Proof Apps](https://dev.to/charan_gutti_cf60c6185074/nextjs-mastery-building-fast-scalable-and-future-proof-apps-31lp)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-52a4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
