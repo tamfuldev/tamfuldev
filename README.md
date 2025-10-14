@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Role of Just-in-Time Access in Reducing Attack Surface](https://dev.to/kapusto/the-role-of-just-in-time-access-in-reducing-attack-surface-20fc)
-- [Unlocking the Power of AI in Your Development Workflow: Practical Insights and Tools](https://dev.to/mikeover/unlocking-the-power-of-ai-in-your-development-workflow-practical-insights-and-tools-3ac9)
-- [Another Data Nerd Guide to re:Invent 2025](https://dev.to/aws-heroes/another-data-nerds-guide-to-reinvent-2025-4oo6)
-- [How AI is Transforming Insurance Underwriting Beyond Risk Assessment](https://dev.to/kapusto/how-ai-is-transforming-insurance-underwriting-beyond-risk-assessment-123d)
-- [Complete Guide to Imdone Pull](https://dev.to/saxmanjes/complete-guide-to-imdone-pull-44o1)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-8n8)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-57j8)
+- [KEXP: Ezra Furman - Power Of The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-power-of-the-moon-live-on-kexp-1229)
+- [KEXP: Ezra Furman - Jump Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-jump-out-live-on-kexp-35pa)
+- [KEXP: Ezra Furman - Veil Song &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-veil-song-live-on-kexp-4999)
 <!-- BLOG-POST-LIST:END -->
 
 ---
