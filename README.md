@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s early days for Agents](https://dev.to/jldec/its-early-days-for-agents-3bl2)
-- [Why is Finding Bottleneck Important?](https://dev.to/tool_works_d3c5d34009b4b6/why-is-finding-bottleneck-important-4mhg)
-- [The Functional Toolkit: Map, Filter, and Reduce](https://dev.to/aaron_rose_0787cc8b4775a0/the-functional-toolkit-map-filter-and-reduce-2c4f)
-- [10 Essential JavaScript Performance Optimization Techniques That Every Developer Should Know](https://dev.to/boris_churzin_8418a23918c/10-essential-javascript-performance-optimization-techniques-that-every-developer-should-know-53ak)
-- [The Invisible Orchestra: Is Serverless the Conductor We&#39;ve Been Waiting For?](https://dev.to/alex_aslam/the-invisible-orchestra-is-serverless-the-conductor-weve-been-waiting-for-9pm)
+- [The Role of Just-in-Time Access in Reducing Attack Surface](https://dev.to/kapusto/the-role-of-just-in-time-access-in-reducing-attack-surface-20fc)
+- [Unlocking the Power of AI in Your Development Workflow: Practical Insights and Tools](https://dev.to/mikeover/unlocking-the-power-of-ai-in-your-development-workflow-practical-insights-and-tools-3ac9)
+- [Another Data Nerd Guide to re:Invent 2025](https://dev.to/aws-heroes/another-data-nerds-guide-to-reinvent-2025-4oo6)
+- [How AI is Transforming Insurance Underwriting Beyond Risk Assessment](https://dev.to/kapusto/how-ai-is-transforming-insurance-underwriting-beyond-risk-assessment-123d)
+- [Complete Guide to Imdone Pull](https://dev.to/saxmanjes/complete-guide-to-imdone-pull-44o1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
