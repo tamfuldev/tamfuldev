@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to maximize security as a SMB for your entire business operations](https://dev.to/estrosec/how-to-maximize-security-as-a-smb-for-your-entire-business-operations-165n)
-- [Lake Formation workflow of RDS &amp; S3](https://dev.to/wakeup_flower_8591a6cb6a9/lake-formation-workflow-of-rds-s3-5g7f)
-- [Python 3.14 Deep Dive: Revolutionary Error Messages &amp; Advanced Debugging &lpar;Part 2 - Chapter 2/3&rpar;](https://dev.to/sizan_mahmud0_e7c3fd0cb68/python-314-deep-dive-revolutionary-error-messages-advanced-debugging-part-2-chapter-23-1med)
-- [The Future of Front-End Development: Component-Driven in 2025 and Beyond 🌐](https://dev.to/tahamjp/the-future-of-front-end-development-component-driven-in-2025-and-beyond-4mni)
-- [How to Use Prisma ORM with Astro](https://dev.to/amanvarshney01/how-to-use-prisma-orm-with-astro-1m0p)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-cn0)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-40an)
+- [KEXP: Ezra Furman - Power Of The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-power-of-the-moon-live-on-kexp-19fn)
+- [KEXP: Ezra Furman - Jump Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-jump-out-live-on-kexp-pc)
+- [KEXP: Ezra Furman - Veil Song &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-veil-song-live-on-kexp-n1n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
