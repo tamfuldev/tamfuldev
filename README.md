@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-1p5p)
-- [GameSpot: Battlefield 6 Essential Beginner Guide](https://dev.to/gg_news/gamespot-battlefield-6-essential-beginner-guide-575f)
-- [GameSpot: Which Battlefield 6 Class is Right For You](https://dev.to/gg_news/gamespot-which-battlefield-6-class-is-right-for-you-4a2l)
-- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-3j4m)
-- [GameSpot: Battlefield 6 is Here And So Are We | Kurt &amp; Lucy Gotcha Covered](https://dev.to/gg_news/gamespot-battlefield-6-is-here-and-so-are-we-kurt-lucy-gotcha-covered-45k9)
+- [Using sass/scss inside lit elements](https://dev.to/sanderand/using-sassscss-inside-lit-elements-ocp)
+- [Dark and Darker HWID Ban: Are You Next?](https://dev.to/monejm/dark-and-darker-hwid-ban-are-you-next-1la9)
+- [CS GO HWID Ban: Game Over for Your Account?](https://dev.to/monejm/cs-go-hwid-ban-game-over-for-your-account-4nnl)
+- [PostgreSQL](https://dev.to/aravinlinux/postgresql-1fnc)
+- [Are you hacked?](https://dev.to/shivakshi_rawat_e69cf6990/are-you-hacked-1e1h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
