@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Simplify Your AI Agent Development: Test and Tune MCP Servers Instantly with the ToolHive Playground](https://dev.to/stacklok/simplify-your-ai-agent-development-test-and-tune-mcp-servers-instantly-with-the-toolhive-playground-5c3a)
-- [📰 Major Tech News: Oct 14th, 2025](https://dev.to/om_shree_0709/major-tech-news-oct-14th-2025-3fjj)
-- [Dev Log 32 - Relic 001 - Plague of Rot](https://dev.to/asx/dev-log-32-relic-001-plague-of-rot-54od)
-- [⚡ Next.js Mastery — Building Fast, Scalable, and Future-Proof Apps](https://dev.to/charan_gutti_cf60c6185074/nextjs-mastery-building-fast-scalable-and-future-proof-apps-31lp)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-52a4)
+- [LLM&#39;ler &quot;Soru Cevaplama&quot; konusunda kabiliyetlidirler](https://dev.to/cihad/an-example-about-structuring-data-progress-by-ai-1en8)
+- [Essential Strategies for Building Accessible Web Applications That Welcome All Users](https://dev.to/aaravjoshi/essential-strategies-for-building-accessible-web-applications-that-welcome-all-users-3hfd)
+- [Best Time Tracking Software to Stay Productive](https://dev.to/tmetric_timer_2b3a575fc8b/best-time-tracking-software-to-stay-productive-5h97)
+- [🚀 Introducing JPlus – The Java Superset Language You&#39;ve Been Waiting For!](https://dev.to/cheol_jeon_9e29b98fdb7e1e/introducing-jplus-the-java-superset-language-youve-been-waiting-for-248)
+- [Polymorphic Todo App](https://dev.to/abdullah_ayasrah_4c9195da/polymorphic-todo-app-26g0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
