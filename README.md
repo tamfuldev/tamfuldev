@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Indigo De Souza - Heartthrob &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-indigo-de-souza-heartthrob-live-on-kexp-46jg)
-- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-5777)
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-5101)
-- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-m36)
-- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-4bdg)
+- [Notes on Building CLI and GUI tools with Crystal](https://dev.to/kojix2/notes-on-building-cli-and-gui-tools-with-crystal-4pcd)
+- [Next.js in Modern Frontend Technology with Tailwind CSS](https://dev.to/sunny_sahu_f5201e84adb64a/nextjs-in-modern-frontend-technology-with-tailwind-css-2g2d)
+- [How to Fix Poor Enterprise Asset Management Without Overloading](https://dev.to/jennifer_devsamurai/how-to-fix-poor-enterprise-asset-management-without-overloading-p2d)
+- [Blame Game - picoCTF writeups](https://dev.to/mahidulhq/blame-game-picoctf-writeups-1ipn)
+- [My First Dev Project](https://dev.to/marcin_zgola_b14ff1d580dc/my-first-dev-project-1e3a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
