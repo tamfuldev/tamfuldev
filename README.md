@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Coding as Poetry: Why Every Engineer Should Write Readable Code](https://dev.to/themustaphatijani/coding-as-poetry-why-every-engineer-should-write-readable-code-4j91)
-- [The Art of the Map: Navigating the Modern ORM Landscape](https://dev.to/alex_aslam/the-art-of-the-map-navigating-the-modern-orm-landscape-3ijc)
-- [Sharing TypeScript Types in a Monorepo/BFF](https://dev.to/wantedhorizon1/sharing-typescript-types-in-a-monorepobff-2k8a)
-- [The Artisan&#39;s Journey: Sculpting JSON in Rails](https://dev.to/alex_aslam/the-artisans-journey-sculpting-json-in-rails-32ei)
-- [Building a Redis Clone in Zig—Part 2](https://dev.to/barddoo/building-a-redis-clone-in-zig-part-2-49of)
+- [Dual Write and the Transactional Outbox Pattern](https://dev.to/igor_grieder/dual-write-and-the-transactional-outbox-pattern-aid)
+- [: Issues with APIs for soccer stats and CORS when using API](https://dev.to/samuel_pea_923ed4db2832b/-issues-with-apis-for-soccer-stats-and-cors-when-using-api-64d)
+- [Integrating Bitbucket with ArgoCD](https://dev.to/durrello/integrating-bitbucket-with-argocd-114a)
+- [Unlocking the Power of Open Source: How Collaboration Fuels Innovation in Software Development](https://dev.to/mikeover/unlocking-the-power-of-open-source-how-collaboration-fuels-innovation-in-software-development-2dcn)
+- [AI Isn&#39;t Weak-It&#39;s Underused: How PromptNova Unlocks Its True Potential](https://dev.to/naresh_007/ai-isnt-weak-its-underused-how-promptnova-unlocks-its-true-potential-2fnc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
