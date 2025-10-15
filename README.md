@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How the hash was won](https://dev.to/luc4587/how-the-hash-was-won-3elb)
-- [Simplifying Auth and Role-Based Routing with Stack.Protected in Expo Router](https://dev.to/aaronksaunders/simplifying-auth-and-role-based-routing-with-stackprotected-in-expo-router-592m)
-- [Learning OpenGL Part 3:](https://dev.to/noticeablesmeh/opengl-part-3-4f05)
-- [Hiring in the Age of Agents: Why Culture Fit Will Be Decided by AI](https://dev.to/dassh_ai_d7d1d9701f089432/hiring-in-the-age-of-agents-why-culture-fit-will-be-decided-by-ai-n4k)
-- [Automation with Playwright: Building a Scalable Testing Architecture](https://dev.to/gustavomeilus/automation-with-playwright-building-a-scalable-testing-architecture-4cbo)
+- [KEXP: Ezra Furman - Jump Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-jump-out-live-on-kexp-1i8j)
+- [KEXP: Indigo De Souza - Be Like The Water &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-indigo-de-souza-be-like-the-water-live-on-kexp-4ek2)
+- [KEXP: Indigo De Souza - Not My Body &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-indigo-de-souza-not-my-body-live-on-kexp-2e63)
+- [KEXP: Circles Around the Sun &amp; Mikaela Davis - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-mikaela-davis-full-performance-live-on-kexp-1mdh)
+- [Newbies in Ubuntu](https://dev.to/dentrodailha96/newbies-in-ubuntu-189m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
