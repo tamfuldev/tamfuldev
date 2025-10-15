@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Notes on Building CLI and GUI tools with Crystal](https://dev.to/kojix2/notes-on-building-cli-and-gui-tools-with-crystal-4pcd)
-- [Next.js in Modern Frontend Technology with Tailwind CSS](https://dev.to/sunny_sahu_f5201e84adb64a/nextjs-in-modern-frontend-technology-with-tailwind-css-2g2d)
-- [How to Fix Poor Enterprise Asset Management Without Overloading](https://dev.to/jennifer_devsamurai/how-to-fix-poor-enterprise-asset-management-without-overloading-p2d)
-- [Blame Game - picoCTF writeups](https://dev.to/mahidulhq/blame-game-picoctf-writeups-1ipn)
-- [My First Dev Project](https://dev.to/marcin_zgola_b14ff1d580dc/my-first-dev-project-1e3a)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-3jo1)
+- [KEXP: Ezra Furman - Power Of The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-power-of-the-moon-live-on-kexp-3haa)
+- [KEXP: Ezra Furman - Veil Song &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-veil-song-live-on-kexp-4kn0)
+- [KEXP: Ezra Furman - Submission &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-submission-live-on-kexp-3c1b)
+- [KEXP: Ezra Furman - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-full-performance-live-on-kexp-1o9f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
