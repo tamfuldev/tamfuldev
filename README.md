@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Feature Flag Tool &lpar;Here&#39;s What I Learned&rpar;](https://dev.to/el_yt/i-built-a-feature-flag-tool-heres-what-i-learned-3n5e)
-- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-n0n)
-- [GameSpot: We Are So Back, It&#39;s So Over | 5 Industry Trends You Should Care About](https://dev.to/gg_news/gamespot-we-are-so-back-its-so-over-5-industry-trends-you-should-care-about-ipc)
-- [GameSpot: Ninja Gaiden 4 Everything To Know](https://dev.to/gg_news/gamespot-ninja-gaiden-4-everything-to-know-38m6)
-- [IGN: Plants vs. Zombies: Replanted - Official Gameplay Deep Dive Trailer](https://dev.to/gg_news/ign-plants-vs-zombies-replanted-official-gameplay-deep-dive-trailer-3oe3)
+- [How the hash was won](https://dev.to/luc4587/how-the-hash-was-won-3elb)
+- [Simplifying Auth and Role-Based Routing with Stack.Protected in Expo Router](https://dev.to/aaronksaunders/simplifying-auth-and-role-based-routing-with-stackprotected-in-expo-router-592m)
+- [Learning OpenGL Part 3:](https://dev.to/noticeablesmeh/opengl-part-3-4f05)
+- [Hiring in the Age of Agents: Why Culture Fit Will Be Decided by AI](https://dev.to/dassh_ai_d7d1d9701f089432/hiring-in-the-age-of-agents-why-culture-fit-will-be-decided-by-ai-n4k)
+- [Automation with Playwright: Building a Scalable Testing Architecture](https://dev.to/gustavomeilus/automation-with-playwright-building-a-scalable-testing-architecture-4cbo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
