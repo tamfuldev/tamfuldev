@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dual Write and the Transactional Outbox Pattern](https://dev.to/igor_grieder/dual-write-and-the-transactional-outbox-pattern-aid)
-- [: Issues with APIs for soccer stats and CORS when using API](https://dev.to/samuel_pea_923ed4db2832b/-issues-with-apis-for-soccer-stats-and-cors-when-using-api-64d)
-- [Integrating Bitbucket with ArgoCD](https://dev.to/durrello/integrating-bitbucket-with-argocd-114a)
-- [Unlocking the Power of Open Source: How Collaboration Fuels Innovation in Software Development](https://dev.to/mikeover/unlocking-the-power-of-open-source-how-collaboration-fuels-innovation-in-software-development-2dcn)
-- [AI Isn&#39;t Weak-It&#39;s Underused: How PromptNova Unlocks Its True Potential](https://dev.to/naresh_007/ai-isnt-weak-its-underused-how-promptnova-unlocks-its-true-potential-2fnc)
+- [KEXP: Indigo De Souza - Heartthrob &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-indigo-de-souza-heartthrob-live-on-kexp-46jg)
+- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-5777)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-5101)
+- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-m36)
+- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-4bdg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
