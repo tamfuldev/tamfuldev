@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Python Projects With Less Pain: Beginner&#39;s Guide to Virtual Environments](https://dev.to/julielinx/python-projects-with-less-pain-beginners-guide-to-virtual-environments-4o5a)
-- [What are the Javascript Data Types?](https://dev.to/aj_arul/what-are-the-javascript-data-types-1f5h)
-- [Simplifying SAML Authentication with ForgeRock IDM Integration](https://dev.to/iamdevbox/simplifying-saml-authentication-with-forgerock-idm-integration-4of5)
-- [Review of the Query News in 2019](https://dev.to/leon_lin_s/review-of-the-query-news-in-2019-1nfp)
-- [I&#39;m using this pattern since half a year now, and I just love how easy it is to make my UI reactive to the data.](https://dev.to/yoannfleurydev/im-using-this-pattern-since-half-a-year-now-and-i-just-love-how-easy-it-is-to-make-my-ui-reactive-1meh)
+- [COLORS: Dear Silas | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-a-colors-show-397g)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-518o)
+- [KEXP: Circles Around the Sun - Hot Pursuit &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-hot-pursuit-live-on-kexp-1hig)
+- [KEXP: Circles Around the Sun &amp; Mikaela Davis - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-mikaela-davis-full-performance-live-on-kexp-2mn4)
+- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-3dgb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
