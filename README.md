@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Contributor to Connector: What Hacktoberfest 2025 Taught Me](https://dev.to/saxenaaman628/from-contributor-to-connector-what-hacktoberfest-2025-taught-me-5ec0)
-- [Mr Sunday Movies: Tron - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-tron-caravan-of-garbage-2lb6)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-3lk8)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-57hk)
-- [KEXP: Ezra Furman - Submission &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-submission-live-on-kexp-3pb7)
+- [Top 10 Key Takeaways in Software Testing from 2025](https://dev.to/vishal_more_02990955c9358/top-10-key-takeaways-in-software-testing-from-2025-1dnc)
+- [How to remote connect to Raspberry Pi?](https://dev.to/carolineee/how-to-remote-connect-to-raspberry-pi-3nf2)
+- [On dependencies in objects](https://dev.to/nfrankel/on-dependencies-in-objects-2m2k)
+- [Multiple role-based authentication in Laravel](https://dev.to/masteringbackend/multiple-role-based-authentication-in-laravel-29e0)
+- [Why Your Drag-and-Drop Editor Feels Clunky](https://dev.to/ideradevtools/why-your-drag-and-drop-editor-feels-clunky-4km3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
