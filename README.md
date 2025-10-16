@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-4a8i)
-- [GameSpot: We Are So Back, It&#39;s So Over | 5 Industry Trends You Should Care About](https://dev.to/gg_news/gamespot-we-are-so-back-its-so-over-5-industry-trends-you-should-care-about-lb5)
-- [IGN: CRKD x Gibson - Official Les Paul Cherry Sunburst CE Trailer | IGN Fall Fan Fest 2025](https://dev.to/gg_news/ign-crkd-x-gibson-official-les-paul-cherry-sunburst-ce-trailer-ign-fall-fan-fest-2025-1bnm)
-- [IGN: Sonic Rumble - Official Release Window Trailer](https://dev.to/gg_news/ign-sonic-rumble-official-release-window-trailer-2mgl)
-- [IGN: The Pout-Pout Fish - Official Trailer &lpar;2026&rpar; Nick Offerman, Jordin Sparks, Amy Sedaris](https://dev.to/gg_news/ign-the-pout-pout-fish-official-trailer-2026-nick-offerman-jordin-sparks-amy-sedaris-3mn0)
+- [My personal blog built with Go and React](https://dev.to/joybtw/my-personal-blog-built-with-go-and-react-1pg7)
+- [Building FirstTx: A Different Approach to CSR Performance](https://dev.to/joseph0926/building-firsttx-a-different-approach-to-csr-performance-1eel)
+- [2025 Year-End Review: The Best 8 AI Image and Video Generation Tools](https://dev.to/nolan_0714/2025-year-end-review-the-best-8-ai-image-and-video-generation-tools-poc)
+- [**Understanding *args and kwargs in Python: The Complete Beginner’s Guide](https://dev.to/nomidlseo/understanding-args-and-kwargs-in-python-the-complete-beginners-guide-5dgj)
+- [🌍 Quote.Vote — An Open-Source Public Square for Respectful Dialogue &lpar;Hacktoberfest 2025&rpar;](https://dev.to/quotevote/quotevote-an-open-source-public-square-for-respectful-dialogue-hacktoberfest-2025-295i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
