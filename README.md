@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Strands Agents: A Simple Guide to Building AI Agents the Easy Way](https://dev.to/abhinav_2510/getting-started-with-strands-agents-a-simple-guide-to-building-ai-agents-the-easy-way-976)
-- [Announcing InsForge’s Hacktoberfest 2025 — Contribute, build, and win](https://dev.to/hang_huang/announcing-insforges-hacktoberfest-2025-contribute-build-and-win-1cl2)
-- [Day 1251 : I need a break](https://dev.to/dwane/day-1251-i-need-a-break-k71)
-- [How I Accidentally Made My npm Package 324MB &lpar;and Fixed It&rpar;](https://dev.to/karthikng14/how-i-accidentally-made-my-npm-package-324mb-and-fixed-it-1p14)
-- [RESTful Services 101 — A Practical Guide for Frontend and Backend Developers](https://dev.to/cathylai/restful-services-101-a-practical-guide-for-frontend-and-backend-developers-2kj7)
+- [Built UtilCraft: 15+ Free Web Tools in One Place](https://dev.to/fullmoon_a4b52e10aed483d/built-utilcraft-15-free-web-tools-in-one-place-24ik)
+- [Unlocking the Power of AI in Modern Development: A Deep Dive into Practical Applications](https://dev.to/mikeover/unlocking-the-power-of-ai-in-modern-development-a-deep-dive-into-practical-applications-5h68)
+- [📖 Flutter Flavors: Guía completa de implementación para proyectos multicliente en Android e iOS](https://dev.to/david_gonzalez_ini/guia-de-implementacion-de-flavors-en-flutter-para-proyectos-multicliente-1cjo)
+- [Title: The NASA RASC-AL 2026 Competition: Pushing the Boundaries of Human Exploration](https://dev.to/yagyaraj_sharma_6cd410179/title-the-nasa-rasc-al-2026-competition-pushing-the-boundaries-of-human-exploration-4dgk)
+- [Title: OpenAI Introduces Lower-Cost Models to Compete with Meta, Mistral, and DeepSeek](https://dev.to/yagyaraj_sharma_6cd410179/title-openai-introduces-lower-cost-models-to-compete-with-meta-mistral-and-deepseek-3h0a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
