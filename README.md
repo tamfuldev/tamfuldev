@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-2inm)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-1g4e)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-1i2c)
-- [KEXP: Ezra Furman - Veil Song &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-veil-song-live-on-kexp-1ji5)
-- [KEXP: Ezra Furman - Submission &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-submission-live-on-kexp-3p3o)
+- [Inside the Code: Building Scalable Casino Game Engines for the Modern Web](https://dev.to/bob_packer_7c9018a4d1a1f1/inside-the-code-building-scalable-casino-game-engines-for-the-modern-web-3ij9)
+- [Beyond REST: Microservices, Resilience, and Real-World Teamwork](https://dev.to/cathylai/beyond-rest-microservices-resilience-and-real-world-teamwork-478)
+- [Playdate-Inspired Portfolio Template Using Next.js and TypeScript](https://dev.to/jqueryscript/playdate-inspired-portfolio-template-using-nextjs-and-typescript-3nhj)
+- [Aimslate：Ai Image Translator](https://dev.to/demetrius_hilpert/aimslateai-image-translator-2lah)
+- [Native Mapping in .NET: Take Control with Extension Methods](https://dev.to/joaooliveiratech/native-mapping-in-net-take-control-with-extension-methods-21dh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
