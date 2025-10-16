@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Built UtilCraft: 15+ Free Web Tools in One Place](https://dev.to/fullmoon_a4b52e10aed483d/built-utilcraft-15-free-web-tools-in-one-place-24ik)
-- [Unlocking the Power of AI in Modern Development: A Deep Dive into Practical Applications](https://dev.to/mikeover/unlocking-the-power-of-ai-in-modern-development-a-deep-dive-into-practical-applications-5h68)
-- [📖 Flutter Flavors: Guía completa de implementación para proyectos multicliente en Android e iOS](https://dev.to/david_gonzalez_ini/guia-de-implementacion-de-flavors-en-flutter-para-proyectos-multicliente-1cjo)
-- [Title: The NASA RASC-AL 2026 Competition: Pushing the Boundaries of Human Exploration](https://dev.to/yagyaraj_sharma_6cd410179/title-the-nasa-rasc-al-2026-competition-pushing-the-boundaries-of-human-exploration-4dgk)
-- [Title: OpenAI Introduces Lower-Cost Models to Compete with Meta, Mistral, and DeepSeek](https://dev.to/yagyaraj_sharma_6cd410179/title-openai-introduces-lower-cost-models-to-compete-with-meta-mistral-and-deepseek-3h0a)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-2inm)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-1g4e)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-1i2c)
+- [KEXP: Ezra Furman - Veil Song &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-veil-song-live-on-kexp-1ji5)
+- [KEXP: Ezra Furman - Submission &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-submission-live-on-kexp-3p3o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
