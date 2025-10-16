@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Inside the Code: Building Scalable Casino Game Engines for the Modern Web](https://dev.to/bob_packer_7c9018a4d1a1f1/inside-the-code-building-scalable-casino-game-engines-for-the-modern-web-3ij9)
-- [Beyond REST: Microservices, Resilience, and Real-World Teamwork](https://dev.to/cathylai/beyond-rest-microservices-resilience-and-real-world-teamwork-478)
-- [Playdate-Inspired Portfolio Template Using Next.js and TypeScript](https://dev.to/jqueryscript/playdate-inspired-portfolio-template-using-nextjs-and-typescript-3nhj)
-- [Aimslate：Ai Image Translator](https://dev.to/demetrius_hilpert/aimslateai-image-translator-2lah)
-- [Native Mapping in .NET: Take Control with Extension Methods](https://dev.to/joaooliveiratech/native-mapping-in-net-take-control-with-extension-methods-21dh)
+- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-4a8i)
+- [GameSpot: We Are So Back, It&#39;s So Over | 5 Industry Trends You Should Care About](https://dev.to/gg_news/gamespot-we-are-so-back-its-so-over-5-industry-trends-you-should-care-about-lb5)
+- [IGN: CRKD x Gibson - Official Les Paul Cherry Sunburst CE Trailer | IGN Fall Fan Fest 2025](https://dev.to/gg_news/ign-crkd-x-gibson-official-les-paul-cherry-sunburst-ce-trailer-ign-fall-fan-fest-2025-1bnm)
+- [IGN: Sonic Rumble - Official Release Window Trailer](https://dev.to/gg_news/ign-sonic-rumble-official-release-window-trailer-2mgl)
+- [IGN: The Pout-Pout Fish - Official Trailer &lpar;2026&rpar; Nick Offerman, Jordin Sparks, Amy Sedaris](https://dev.to/gg_news/ign-the-pout-pout-fish-official-trailer-2026-nick-offerman-jordin-sparks-amy-sedaris-3mn0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
