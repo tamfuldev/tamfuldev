@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-ma8)
-- [COLORS: Dear Silas | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-a-colors-show-2pf0)
-- [KEXP: Circles Around the Sun - Hot Pursuit &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-hot-pursuit-live-on-kexp-g45)
-- [KEXP: Circles Around the Sun &amp; Mikaela Davis - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-mikaela-davis-full-performance-live-on-kexp-k7p)
-- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-26on)
+- [&quot;Learning by Doing: The auto_uploader Experience&quot;](https://dev.to/mohammadreza_mahdian_3841/learning-by-doing-the-autouploader-experience-a98)
+- [Requirements for M-Pesa Online Payment Setup in Kenya &lpar;2025 Guide&rpar;](https://dev.to/eric_muturi/requirements-for-m-pesa-online-payment-setup-in-kenya-2025-guide-2bjl)
+- [A Guide to Modern Browser Storage And Data Sharing Capabilities](https://dev.to/mrajaeim/a-guide-to-modern-browser-storage-and-data-sharing-capabilities-4eb8)
+- [How File Transfer Works: From Packets to Protocols](https://dev.to/lovestaco/how-file-transfer-works-from-packets-to-protocols-18f8)
+- [What Happens When You Click a Link](https://dev.to/aditi_deshmukh/what-happens-when-you-click-a-link-3ca5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
