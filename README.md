@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Librephone: The Free Software Foundation’s Plan to Reclaim Mobile Freedom](https://dev.to/karan51ngh/librephone-the-free-software-foundations-plan-to-reclaim-mobile-freedom-1le5)
-- [11 Best Express.js Courses to Learn in 2026](https://dev.to/stack_overflowed/11-best-expressjs-courses-to-learn-in-2026-1g5a)
-- [Creating a Libras Recognizer with Artificial Intelligence and Teachable Machine](https://dev.to/giovanni786/creating-a-libras-recognizer-with-artificial-intelligence-and-teachable-machine-4npa)
-- [Excelize 2.10.0 Released - Powerful open-source library for spreadsheet &lpar;Excel&rpar; document](https://dev.to/xuri/excelize-2100-released-powerful-open-source-library-for-spreadsheet-excel-document-4pb7)
-- [Day 11 of My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/day-11-of-my-ai-data-mastery-journey-from-python-to-generative-ai-395m)
+- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-4kf3)
+- [Rick Beato: Justin Hawkins Isn&#39;t Afraid To Talk Sh*t](https://dev.to/music_youtube/rick-beato-justin-hawkins-isnt-afraid-to-talk-sht-55o9)
+- [GameSpot: You NEED to play Megabonk](https://dev.to/gg_news/gamespot-you-need-to-play-megabonk-9jg)
+- [GameSpot: DISSIDIA DUELLUM FINAL FANTASY | Official Announcement Trailer](https://dev.to/gg_news/gamespot-dissidia-duellum-final-fantasy-official-announcement-trailer-2gka)
+- [GameSpot: Anno 117: Pax Romana - Official Game Overview Walkthrough Trailer](https://dev.to/gg_news/gamespot-anno-117-pax-romana-official-game-overview-walkthrough-trailer-h5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
