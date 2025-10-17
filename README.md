@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Inglorious Store: a Redux-compatible state manager inspired by ECS](https://dev.to/iceonfire/inglorious-store-a-redux-compatible-state-manager-inspired-by-ecs-58j0)
-- [Microkernel Architecture — Design Pattern](https://dev.to/kishalay_pandey_d5d0cae01f00/microkernel-architecture-design-pattern-n79)
-- [Updates in Python 3.14 Every Developer Should Know](https://dev.to/daya_r1/updates-in-python-314-every-developer-should-know-4on2)
-- [Can I Download Instagram Images in Bulk?](https://dev.to/mirfa_zainab_8b97d351bc0f/can-i-download-instagram-images-in-bulk-4780)
-- [What Type of Data Can I Download from Instagram?](https://dev.to/mirfa_zainab_8b97d351bc0f/what-type-of-data-can-i-download-from-instagram-187l)
+- [🧩 Day 16 of #30DaysOfSolidity — Building a Modular Profile System for Web3 Games with `delegatecall`](https://dev.to/sauravkumar8178/day-16-of-30daysofsolidity-building-a-modular-profile-system-for-web3-games-with-delegatecall-35e1)
+- [Flow by keystroke](https://dev.to/md_dildar_mandal/flow-by-keystroke-jj5)
+- [react-portalslots](https://dev.to/devall/react-portalslots-colocate-ui-components-without-prop-drilling-13cd)
+- [Log015_sakila_mysql_pymongo](https://dev.to/aka_artem_dd17be93c/log015sakilamysqlpymongo-9na)
+- [GameSpot: Super Meat Boy 3D. It&#39;s good... BUT | First Look](https://dev.to/gg_news/gamespot-super-meat-boy-3d-its-good-but-first-look-p3g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
