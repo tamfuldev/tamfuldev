@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Super Meat Boy 3D. It&#39;s good... BUT | Hands-On Preview](https://dev.to/gg_news/gamespot-super-meat-boy-3d-its-good-but-hands-on-preview-3eld)
-- [GameSpot: Keeper Review](https://dev.to/gg_news/gamespot-keeper-review-43k8)
-- [IGN: Silent Night, Deadly Night - Official Trailer &lpar;2025&rpar; Rohan Campbell, Ruby Modine, Mark Acheson](https://dev.to/gg_news/ign-silent-night-deadly-night-official-trailer-2025-rohan-campbell-ruby-modine-mark-acheson-56jb)
-- [IGN: Vampire: The Masquerade -Bloodlines 2 - Official Combat Guide Deep Dive #3 Trailer](https://dev.to/gg_news/ign-vampire-the-masquerade-bloodlines-2-official-combat-guide-deep-dive-3-trailer-57kg)
-- [IGN: Godbreakers - Official Story Trailer](https://dev.to/gg_news/ign-godbreakers-official-story-trailer-n54)
+- [Inglorious Store: a Redux-compatible state manager inspired by ECS](https://dev.to/iceonfire/inglorious-store-a-redux-compatible-state-manager-inspired-by-ecs-58j0)
+- [Microkernel Architecture — Design Pattern](https://dev.to/kishalay_pandey_d5d0cae01f00/microkernel-architecture-design-pattern-n79)
+- [Updates in Python 3.14 Every Developer Should Know](https://dev.to/daya_r1/updates-in-python-314-every-developer-should-know-4on2)
+- [Can I Download Instagram Images in Bulk?](https://dev.to/mirfa_zainab_8b97d351bc0f/can-i-download-instagram-images-in-bulk-4780)
+- [What Type of Data Can I Download from Instagram?](https://dev.to/mirfa_zainab_8b97d351bc0f/what-type-of-data-can-i-download-from-instagram-187l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
