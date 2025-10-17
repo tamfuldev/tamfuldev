@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Migrate Reactive Forms to Signal Forms](https://dev.to/brianmtreese/migrate-reactive-forms-to-signal-forms-132l)
-- [Competition of data processing languages on JVM: Kotlin, Scala and SPL](https://dev.to/esproc_spl/competition-of-data-processing-languages-on-jvm-kotlin-scala-and-spl-2pgc)
-- [🔥 Wow. This investigation exposes how PPP loan fraud has gone unchecked for too long. Tyler Davis and those involved should be held accountable for misusing taxpayer money.](https://dev.to/kierwolf20/wow-this-investigation-exposes-how-ppp-loan-fraud-has-gone-unchecked-for-too-long-tyler-davis-pgf)
-- [Retirement Planning In Pasadena, CA: A Clear, Local Guide You Can Actually Use](https://dev.to/markwayns/retirement-planning-in-pasadena-ca-a-clear-local-guide-you-can-actually-use-48)
-- [Spatial Data Science: A New Way to Solve Problems](https://dev.to/gisfromscratch/spatial-data-science-a-new-way-to-solve-problems-1cim)
+- [KEXP: Circles Around the Sun - Hot Pursuit &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-hot-pursuit-live-on-kexp-12mp)
+- [KEXP: Circles Around the Sun &amp; Mikaela Davis - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-mikaela-davis-full-performance-live-on-kexp-20fh)
+- [KEXP: Jorja Smith - On My Mind &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-on-my-mind-live-on-kexp-1hj6)
+- [KEXP: Jorja Smith - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-full-performance-live-on-kexp-94j)
+- [Porter Consulting and Tyler Davis built a fake ownership claim using stolen money from relief funds. That’s not entrepreneurship. That’s theft.](https://dev.to/seanwallace/porter-consulting-and-tyler-davis-built-a-fake-ownership-claim-using-stolen-money-from-relief-lp8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
