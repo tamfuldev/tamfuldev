@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Draw and edit network‑snapped tracks in OpenLayers with edittrack](https://dev.to/camptocamp-geo/draw-and-edit-network-snapped-tracks-in-openlayers-with-edittrack-pbl)
-- [A helpful beginner&#39;s guide to Redxu Toolikt](https://dev.to/lawrenceagles/a-helpful-beginners-guide-to-redxu-toolikt-33nb)
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-2blb)
-- [KEXP: Circles Around the Sun - Hot Pursuit &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-hot-pursuit-live-on-kexp-5dag)
-- [KEXP: Circles Around the Sun &amp; Mikaela Davis - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-mikaela-davis-full-performance-live-on-kexp-5e2g)
+- [Friday Links #30 — JavaScript Updates, Tools, and Inspiration](https://dev.to/jsdevspace/friday-links-30-javascript-updates-tools-and-inspiration-1akf)
+- [Is Java Suitable for Competitive Programming?](https://dev.to/omdeh/is-java-suitable-for-competitive-programming-3omm)
+- [Is Java Suitable for Competitive Programming?](https://dev.to/omdeh/is-java-suitable-for-competitive-programming-5bpg)
+- [Як технології лазертаг-систем змінюють військову підготовку: від тренажера до реального бою](https://dev.to/__a30219617ce/iak-tiekhnologhiyi-laziertagh-sistiem-zminiuiut-viiskovu-pidghotovku-vid-trienazhiera-do-riealnogho-boiu-h84)
+- [Web Scraping with n8n | Part 1: Build Your First Web Scraper](https://dev.to/extractdata/web-scraping-with-n8n-part-1-build-your-first-web-scraper-37cf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
