@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Jorja Smith - On My Mind &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-on-my-mind-live-on-kexp-22ef)
-- [KEXP: Jorja Smith - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-full-performance-live-on-kexp-207)
-- [NPR Music: Tame Impala: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-tame-impala-tiny-desk-concert-5gn2)
-- [Rick Beato: Justin Hawkins Isn&#39;t Afraid To Talk Sh*t](https://dev.to/music_youtube/rick-beato-justin-hawkins-isnt-afraid-to-talk-sht-12ad)
-- [Rick Beato: I Fried ChatGPT With ONE Simple Question](https://dev.to/music_youtube/rick-beato-i-fried-chatgpt-with-one-simple-question-2b77)
+- [Optimizing Cloud-Native Apps with Effective Kubernetes Deployment Strategies](https://dev.to/supratipb/optimizing-cloud-native-apps-with-effective-kubernetes-deployment-strategies-1gfi)
+- [Texas Rewrites the AI Rulebook](https://dev.to/rawveg/texas-rewrites-the-ai-rulebook-213n)
+- [Level Up Your Website: Diving into Immersive Experiences with WebXR](https://dev.to/karthik_n/level-up-your-website-diving-into-immersive-experiences-with-webxr-1b0j)
+- [C# for the Web: How Microsoft is Reshaping Modern Web Development](https://dev.to/iteyonikservices/c-for-the-web-how-microsoft-is-reshaping-modern-web-development-bfc)
+- [The AI Co-worker: How Generative AI is Reshaping the Modern Workplace](https://dev.to/sia_negi21/the-ai-co-worker-how-generative-ai-is-reshaping-the-modern-workplace-afh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
