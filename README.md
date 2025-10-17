@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Best Export for Instagram: Simplifying Data Management with the Instagram Export Tool](https://dev.to/mirfa_zainab_8b97d351bc0f/the-best-export-for-instagram-simplifying-data-management-with-the-instagram-export-tool-73h)
-- [🧠🤖 LangGraph4j Deep Agents &lpar;Agent 2.0&rpar;](https://dev.to/bsorrentino/langgraph4j-deep-agents-agent-20-1d74)
-- [LobeChat: Where Bots Write 23% of the Code and Reviews Take 42 Seconds](https://dev.to/pullflow/lobechat-where-bots-write-23-of-the-code-and-reviews-take-42-seconds-25in)
-- [Amazon Athena: análises SQL diretas no S3 – quando usar, quanto custa e quais os limites](https://dev.to/thiagosagara/amazon-athena-analises-sql-diretas-no-s3-quando-usar-quanto-custa-e-quais-os-limites-4lie)
-- [AI Chatbot Developers: What&#39;s the &quot;Other Safety&quot; We Should Be Thinking About Now? User Protection.](https://dev.to/_768dd7ab130016ab8b0a/ai-chatbot-developers-whats-the-other-safety-we-should-be-thinking-about-now-user-protection-38pa)
+- [GameSpot: Super Meat Boy 3D. It&#39;s good... BUT | Hands-On Preview](https://dev.to/gg_news/gamespot-super-meat-boy-3d-its-good-but-hands-on-preview-3eld)
+- [GameSpot: Keeper Review](https://dev.to/gg_news/gamespot-keeper-review-43k8)
+- [IGN: Silent Night, Deadly Night - Official Trailer &lpar;2025&rpar; Rohan Campbell, Ruby Modine, Mark Acheson](https://dev.to/gg_news/ign-silent-night-deadly-night-official-trailer-2025-rohan-campbell-ruby-modine-mark-acheson-56jb)
+- [IGN: Vampire: The Masquerade -Bloodlines 2 - Official Combat Guide Deep Dive #3 Trailer](https://dev.to/gg_news/ign-vampire-the-masquerade-bloodlines-2-official-combat-guide-deep-dive-3-trailer-57kg)
+- [IGN: Godbreakers - Official Story Trailer](https://dev.to/gg_news/ign-godbreakers-official-story-trailer-n54)
 <!-- BLOG-POST-LIST:END -->
 
 ---
