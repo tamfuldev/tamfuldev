@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Cloud-Native Apps with Effective Kubernetes Deployment Strategies](https://dev.to/supratipb/optimizing-cloud-native-apps-with-effective-kubernetes-deployment-strategies-1gfi)
-- [Texas Rewrites the AI Rulebook](https://dev.to/rawveg/texas-rewrites-the-ai-rulebook-213n)
-- [Level Up Your Website: Diving into Immersive Experiences with WebXR](https://dev.to/karthik_n/level-up-your-website-diving-into-immersive-experiences-with-webxr-1b0j)
-- [C# for the Web: How Microsoft is Reshaping Modern Web Development](https://dev.to/iteyonikservices/c-for-the-web-how-microsoft-is-reshaping-modern-web-development-bfc)
-- [The AI Co-worker: How Generative AI is Reshaping the Modern Workplace](https://dev.to/sia_negi21/the-ai-co-worker-how-generative-ai-is-reshaping-the-modern-workplace-afh)
+- [Draw and edit network‑snapped tracks in OpenLayers with edittrack](https://dev.to/camptocamp-geo/draw-and-edit-network-snapped-tracks-in-openlayers-with-edittrack-pbl)
+- [A helpful beginner&#39;s guide to Redxu Toolikt](https://dev.to/lawrenceagles/a-helpful-beginners-guide-to-redxu-toolikt-33nb)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-2blb)
+- [KEXP: Circles Around the Sun - Hot Pursuit &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-hot-pursuit-live-on-kexp-5dag)
+- [KEXP: Circles Around the Sun &amp; Mikaela Davis - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-mikaela-davis-full-performance-live-on-kexp-5e2g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
