@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Friday Links #30 — JavaScript Updates, Tools, and Inspiration](https://dev.to/jsdevspace/friday-links-30-javascript-updates-tools-and-inspiration-1akf)
-- [Is Java Suitable for Competitive Programming?](https://dev.to/omdeh/is-java-suitable-for-competitive-programming-3omm)
-- [Is Java Suitable for Competitive Programming?](https://dev.to/omdeh/is-java-suitable-for-competitive-programming-5bpg)
-- [Як технології лазертаг-систем змінюють військову підготовку: від тренажера до реального бою](https://dev.to/__a30219617ce/iak-tiekhnologhiyi-laziertagh-sistiem-zminiuiut-viiskovu-pidghotovku-vid-trienazhiera-do-riealnogho-boiu-h84)
-- [Web Scraping with n8n | Part 1: Build Your First Web Scraper](https://dev.to/extractdata/web-scraping-with-n8n-part-1-build-your-first-web-scraper-37cf)
+- [KEXP: Jorja Smith - Try Me &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-try-me-live-on-kexp-5hma)
+- [KEXP: Jorja Smith - Be Honest &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-be-honest-live-on-kexp-4l4j)
+- [KEXP: Car Seat Headrest - Gethsemane &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-car-seat-headrest-gethsemane-live-on-kexp-1ad8)
+- [KEXP: Car Seat Headrest - The Catastrophe &lpar;Good Luck With That, Man&rpar; &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-car-seat-headrest-the-catastrophe-good-luck-with-that-man-live-on-kexp-oa3)
+- [KEXP: Car Seat Headrest - Planet Desperation &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-car-seat-headrest-planet-desperation-live-on-kexp-13p7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
