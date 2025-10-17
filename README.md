@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Jorja Smith - Try Me &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-try-me-live-on-kexp-5hma)
-- [KEXP: Jorja Smith - Be Honest &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-be-honest-live-on-kexp-4l4j)
-- [KEXP: Car Seat Headrest - Gethsemane &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-car-seat-headrest-gethsemane-live-on-kexp-1ad8)
-- [KEXP: Car Seat Headrest - The Catastrophe &lpar;Good Luck With That, Man&rpar; &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-car-seat-headrest-the-catastrophe-good-luck-with-that-man-live-on-kexp-oa3)
-- [KEXP: Car Seat Headrest - Planet Desperation &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-car-seat-headrest-planet-desperation-live-on-kexp-13p7)
+- [The Best Export for Instagram: Simplifying Data Management with the Instagram Export Tool](https://dev.to/mirfa_zainab_8b97d351bc0f/the-best-export-for-instagram-simplifying-data-management-with-the-instagram-export-tool-73h)
+- [🧠🤖 LangGraph4j Deep Agents &lpar;Agent 2.0&rpar;](https://dev.to/bsorrentino/langgraph4j-deep-agents-agent-20-1d74)
+- [LobeChat: Where Bots Write 23% of the Code and Reviews Take 42 Seconds](https://dev.to/pullflow/lobechat-where-bots-write-23-of-the-code-and-reviews-take-42-seconds-25in)
+- [Amazon Athena: análises SQL diretas no S3 – quando usar, quanto custa e quais os limites](https://dev.to/thiagosagara/amazon-athena-analises-sql-diretas-no-s3-quando-usar-quanto-custa-e-quais-os-limites-4lie)
+- [AI Chatbot Developers: What&#39;s the &quot;Other Safety&quot; We Should Be Thinking About Now? User Protection.](https://dev.to/_768dd7ab130016ab8b0a/ai-chatbot-developers-whats-the-other-safety-we-should-be-thinking-about-now-user-protection-38pa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
