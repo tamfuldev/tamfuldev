@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🧩 Day 16 of #30DaysOfSolidity — Building a Modular Profile System for Web3 Games with `delegatecall`](https://dev.to/sauravkumar8178/day-16-of-30daysofsolidity-building-a-modular-profile-system-for-web3-games-with-delegatecall-35e1)
-- [Flow by keystroke](https://dev.to/md_dildar_mandal/flow-by-keystroke-jj5)
-- [react-portalslots](https://dev.to/devall/react-portalslots-colocate-ui-components-without-prop-drilling-13cd)
-- [Log015_sakila_mysql_pymongo](https://dev.to/aka_artem_dd17be93c/log015sakilamysqlpymongo-9na)
-- [GameSpot: Super Meat Boy 3D. It&#39;s good... BUT | First Look](https://dev.to/gg_news/gamespot-super-meat-boy-3d-its-good-but-first-look-p3g)
+- [Omniscience &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/omniscience-bite-size-article-5fc8)
+- [How I Fixed Lighthouse Score Drops Caused by Google Tag Manager &amp; Analytics](https://dev.to/lovestaco/how-i-fixed-lighthouse-score-drops-caused-by-google-tag-manager-analytics-2anm)
+- [e o tal do Microserviço?](https://dev.to/gabriela_mendes_428db6bb6/e-o-tal-do-microservico-51fa)
+- [Raw XPath is Dead: How XPathy&#39;s Fluent API Solves Your Flaky Test Problem](https://dev.to/volta_jebaprashanth_ac7af/raw-xpath-is-dead-how-xpathys-fluent-api-solves-your-flaky-test-problem-4h7g)
+- [Why January 1, 1970 Is the Most Important Date in programming &lpar;And You&#39;ve Probably Never Heard of It&rpar;](https://dev.to/abrahambishopcodes/why-january-1-1970-is-the-most-important-date-in-programming-and-youve-probably-never-heard-of-414i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
