@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What’s in a Name? Fuzzy Matching for Real-World Data](https://dev.to/azure/whats-in-a-name-fuzzy-matching-for-real-world-data-5b5o)
-- [🧭System Design Roadmap for Data Engineers](https://dev.to/sajjadrahman56/system-design-roadmap-for-data-engineers-36h7)
-- [Title: Debugging a Python Code: Why Won&#39;t It Return a 3-Digit Number?](https://dev.to/yagyaraj_sharma_6cd410179/title-debugging-a-python-code-why-wont-it-return-a-3-digit-number-916)
-- [HNG13 Stage 0 Task](https://dev.to/frankdev20/hng13-stage-0-task-1cp2)
-- [AI might cause over population](https://dev.to/nibezak/ai-might-cause-over-population-5no)
+- [KEXP: Jorja Smith - Try Me &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-try-me-live-on-kexp-458)
+- [KEXP: Jorja Smith - Be Honest &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-be-honest-live-on-kexp-3fb7)
+- [KEXP: Jorja Smith - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-full-performance-live-on-kexp-15b2)
+- [Rick Beato: Justin Hawkins Isn&#39;t Afraid To Talk Sh*t](https://dev.to/music_youtube/rick-beato-justin-hawkins-isnt-afraid-to-talk-sht-1b53)
+- [Rick Beato: I Fried ChatGPT With ONE Simple Question](https://dev.to/music_youtube/rick-beato-i-fried-chatgpt-with-one-simple-question-354e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
