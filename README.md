@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Power of Community: How Engaging with Developers on Reddit Can Elevate Your Skills](https://dev.to/mikeover/unlocking-the-power-of-community-how-engaging-with-developers-on-reddit-can-elevate-your-skills-3co6)
-- [How to Manage WireGuard VPN Connection in GNOME Without the wireguard-tools](https://dev.to/archerallstars/how-to-manage-wireguard-vpn-connection-in-gnome-without-the-wireguard-tools-1od5)
-- [Title: Figure Technology Solutions Submits Confidential IPO Filing to US Securities and Exchange Commission](https://dev.to/yagyaraj_sharma_6cd410179/title-figure-technology-solutions-submits-confidential-ipo-filing-to-us-securities-and-exchange-2n4p)
-- [DB Mysql/Postgres on AWS vs Hetzner](https://dev.to/devops-make-it-run/db-mysqlpostgres-on-aws-vs-hetzner-5h43)
-- [** &quot;Keynote Speaker: The Complete Guide for 2025](https://dev.to/iankhanfuturist/-keynote-speaker-the-complete-guide-for-2025-3f26)
+- [React and the City ⚡️: Nevertheless, She Persisted](https://dev.to/sagi0312/react-and-the-city-nevertheless-she-persisted-3n9a)
+- [GameSpot: Battlefield 6: Full Review](https://dev.to/gg_news/gamespot-battlefield-6-full-review-1i2g)
+- [Simple-proxy-id — A tiny yet secure proxy for Node.js &lpar;zero dependencies&rpar;](https://dev.to/ibnushahraa/simple-proxy-id-a-tiny-yet-secure-proxy-for-nodejs-zero-dependencies-1pk7)
+- [IGN: Call of Duty: Black Ops 6 and Warzone - Official The Haunting: Predator Badlands Trailer](https://dev.to/gg_news/ign-call-of-duty-black-ops-6-and-warzone-official-the-haunting-predator-badlands-trailer-4n3f)
+- [I Built an Epic Staircase Page Transition in Next.js—Here&#39;s the Code, the Z-Index Nightmare, and the A11Y Fix](https://dev.to/braimer/i-built-an-epic-staircase-page-transition-in-nextjs-heres-the-code-the-z-index-nightmare-and-1jfn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
