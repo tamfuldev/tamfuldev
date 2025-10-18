@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Great Cognitive Surrender](https://dev.to/rawveg/the-great-cognitive-surrender-2bim)
-- [Full-Stack mobile developer](https://dev.to/techwithsam/full-stack-mobile-developer-3f9b)
-- [Ontstopping Utrecht: waarom regelmatig onderhoud essentieel is](https://dev.to/wwloodgietersbedrijf/ontstopping-utrecht-waarom-regelmatig-onderhoud-essentieel-is-4ig3)
-- [**Master Rust Testing: Build Bulletproof Code with Unit, Integration, and Property-Based Testing**](https://dev.to/aaravjoshi/master-rust-testing-build-bulletproof-code-with-unit-integration-and-property-based-testing-2g33)
-- [#1 Way to Simplify Your App Development: Server-Driven UI](https://dev.to/karthik_n/1-way-to-simplify-your-app-development-server-driven-ui-20m4)
+- [GameSpot: Vampire: The Masquerade - Bloodlines 2 Everything To Know](https://dev.to/gg_news/gamespot-vampire-the-masquerade-bloodlines-2-everything-to-know-355e)
+- [GameSpot: Pokemon Legends: Z-A Review](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-review-51hi)
+- [GameSpot: Battlefield 6: Full Review](https://dev.to/gg_news/gamespot-battlefield-6-full-review-27i9)
+- [GameSpot: Pokemon Legends: Z-A - 19 Things I Wish I Knew Before Starting](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-19-things-i-wish-i-knew-before-starting-3o60)
+- [IGN: Vampire Survivors - Official Version 1.14 Westwoods Update Announcement Trailer](https://dev.to/gg_news/ign-vampire-survivors-official-version-114-westwoods-update-announcement-trailer-5478)
 <!-- BLOG-POST-LIST:END -->
 
 ---
