@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Vampire: The Masquerade - Bloodlines 2 Everything To Know](https://dev.to/gg_news/gamespot-vampire-the-masquerade-bloodlines-2-everything-to-know-47k9)
-- [GameSpot: Pokemon Legends: Z-A Review](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-review-3a0f)
-- [GameSpot: Ghost of Yotei Ending Explained With Creative Director and Co-Director](https://dev.to/gg_news/gamespot-ghost-of-yotei-ending-explained-with-creative-director-and-co-director-26fl)
-- [GameSpot: Vampire: The Masquerade - Bloodlines 2 Aged, But Still A Fine Wine - Review](https://dev.to/gg_news/gamespot-vampire-the-masquerade-bloodlines-2-aged-but-still-a-fine-wine-review-2884)
-- [IGN: Call of Duty: Black Ops 6 and Warzone - Official The Haunting: Predator Badlands Trailer](https://dev.to/gg_news/ign-call-of-duty-black-ops-6-and-warzone-official-the-haunting-predator-badlands-trailer-2757)
+- [I Tried Dozens of Udemy Python Courses — These 5 Instructors Are the Best](https://dev.to/somadevtoo/i-tried-dozens-of-udemy-python-courses-these-5-instructors-are-the-best-22bd)
+- [Signs you’ve been coding for too long &lpar;and maybe need a nap 😅&rpar;](https://dev.to/sylwia-lask/signs-youve-been-coding-for-too-long-and-maybe-need-a-nap--2n4l)
+- [Network Scanning with Python: ARP, Port, and DNS Scanner](https://dev.to/jaiminchovatia/network-scanning-with-python-arp-port-and-dns-scanner-20bh)
+- [Cybersecurity 101 : data sanitization](https://dev.to/hexfloor/cybersecurity-101-data-sanitization-cgo)
+- [Invisible Tech: The Stuff You Don&#39;t See but Can&#39;t Live Without](https://dev.to/iste-vit/invisible-tech-the-stuff-you-dont-see-but-cant-live-without-n5o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
