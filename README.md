@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Vampire: The Masquerade - Bloodlines 2 Everything To Know](https://dev.to/gg_news/gamespot-vampire-the-masquerade-bloodlines-2-everything-to-know-355e)
-- [GameSpot: Pokemon Legends: Z-A Review](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-review-51hi)
-- [GameSpot: Battlefield 6: Full Review](https://dev.to/gg_news/gamespot-battlefield-6-full-review-27i9)
-- [GameSpot: Pokemon Legends: Z-A - 19 Things I Wish I Knew Before Starting](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-19-things-i-wish-i-knew-before-starting-3o60)
-- [IGN: Vampire Survivors - Official Version 1.14 Westwoods Update Announcement Trailer](https://dev.to/gg_news/ign-vampire-survivors-official-version-114-westwoods-update-announcement-trailer-5478)
+- [The Truth About Machine Learning Most Experts Won&#39;t Tell You](https://dev.to/vikramlingam/the-truth-about-machine-learning-most-experts-wont-tell-you-n2j)
+- [Building Better YouTube Scripts: A Structured Prompt for AI Writing Assistants](https://dev.to/huizhudev/building-better-youtube-scripts-a-structured-prompt-for-ai-writing-assistants-3eb6)
+- [🚀 Building a Dynamic Profile API — My HNG Backend Internship Stage 0 Experience](https://dev.to/queen_codes/building-a-dynamic-profile-api-my-hng-backend-internship-stage-0-experience-2e9c)
+- [A Token of My Affliction: The Hidden Pain Behind Every LLM](https://dev.to/learnwithadvi/a-token-of-my-affliction-the-hidden-pain-behind-every-llm-3ecl)
+- [Andrej Karpathy – It will take a decade to work through the issues with agents](https://dev.to/technoblogger14o3/andrej-karpathy-it-will-take-a-decade-to-work-through-the-issues-with-agents-315a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
