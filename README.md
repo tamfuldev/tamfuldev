@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Nahre Sol: how to engineer nostalgia in music &lpar;studio ghibli style&rpar;](https://dev.to/music_youtube/nahre-sol-how-to-engineer-nostalgia-in-music-studio-ghibli-style-36mc)
-- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-5dj3)
-- [Rick Beato: Justin Hawkins Isn&#39;t Afraid To Talk Sh*t](https://dev.to/music_youtube/rick-beato-justin-hawkins-isnt-afraid-to-talk-sht-37n)
-- [Rick Beato: I Fried ChatGPT With ONE Simple Question](https://dev.to/music_youtube/rick-beato-i-fried-chatgpt-with-one-simple-question-3c92)
-- [The Game Theorists: Game Theory: Poké Balls Are KILLING Pokémon?!](https://dev.to/gg_news/the-game-theorists-game-theory-poke-balls-are-killing-pokemon-46je)
+- [Why curl and Your Browser Sometimes See Different Results](https://dev.to/rijultp/why-curl-and-your-browser-sometimes-see-different-results-3h2l)
+- [Building a Self-Healing Parking Detection System: MLOps on Autopilot 🚗](https://dev.to/kareemblessed/building-a-self-healing-parking-detection-system-mlops-on-autopilot-2gd8)
+- [🏆Sure AI — Winning the Meta Track at FutureStack GenAI Hackathon by WeMakeDevs](https://dev.to/hibino_reddy/sure-ai-winning-the-meta-track-at-futurestack-genai-hackathon-by-wemakedevs-5h4)
+- [Building a Smart Auth0 AI Agent for Dev](https://dev.to/elghaly/building-a-smart-auth0-ai-agent-for-dev-2c03)
+- [RAG Architecture for HR Applications: Building Context-Aware Interview Systems](https://dev.to/ambalogun/-rag-architecture-for-hr-applications-building-context-aware-interview-systems-1aep)
 <!-- BLOG-POST-LIST:END -->
 
 ---
