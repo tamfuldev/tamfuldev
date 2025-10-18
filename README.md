@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [React and the City ⚡️: Nevertheless, She Persisted](https://dev.to/sagi0312/react-and-the-city-nevertheless-she-persisted-3n9a)
-- [GameSpot: Battlefield 6: Full Review](https://dev.to/gg_news/gamespot-battlefield-6-full-review-1i2g)
-- [Simple-proxy-id — A tiny yet secure proxy for Node.js &lpar;zero dependencies&rpar;](https://dev.to/ibnushahraa/simple-proxy-id-a-tiny-yet-secure-proxy-for-nodejs-zero-dependencies-1pk7)
-- [IGN: Call of Duty: Black Ops 6 and Warzone - Official The Haunting: Predator Badlands Trailer](https://dev.to/gg_news/ign-call-of-duty-black-ops-6-and-warzone-official-the-haunting-predator-badlands-trailer-4n3f)
-- [I Built an Epic Staircase Page Transition in Next.js—Here&#39;s the Code, the Z-Index Nightmare, and the A11Y Fix](https://dev.to/braimer/i-built-an-epic-staircase-page-transition-in-nextjs-heres-the-code-the-z-index-nightmare-and-1jfn)
+- [My Tech &amp; Coding Journey](https://dev.to/ekopteach/my-tech-coding-journey-1ad3)
+- [🗂️ Accessing Remote Files Seamlessly with SSHFS](https://dev.to/ernesto_malave_285068a60e/accessing-remote-files-seamlessly-with-sshfs-46bl)
+- [Team project 1](https://dev.to/johnphan2408/team-project-1-6c1)
+- [The Special Protocols Room: Magic Methods and Operator Overloading](https://dev.to/aaron_rose_0787cc8b4775a0/the-special-protocols-room-magic-methods-and-operator-overloading-4amk)
+- [Cross-posting to DEV responsibly: canonical + summary + image SEO &lpar;quick playbook&rpar;](https://dev.to/champetsfamily/cross-posting-to-dev-responsibly-canonical-summary-image-seo-quick-playbook-53o0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
