@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Tried Dozens of Udemy Python Courses — These 5 Instructors Are the Best](https://dev.to/somadevtoo/i-tried-dozens-of-udemy-python-courses-these-5-instructors-are-the-best-22bd)
-- [Signs you’ve been coding for too long &lpar;and maybe need a nap 😅&rpar;](https://dev.to/sylwia-lask/signs-youve-been-coding-for-too-long-and-maybe-need-a-nap--2n4l)
-- [Network Scanning with Python: ARP, Port, and DNS Scanner](https://dev.to/jaiminchovatia/network-scanning-with-python-arp-port-and-dns-scanner-20bh)
-- [Cybersecurity 101 : data sanitization](https://dev.to/hexfloor/cybersecurity-101-data-sanitization-cgo)
-- [Invisible Tech: The Stuff You Don&#39;t See but Can&#39;t Live Without](https://dev.to/iste-vit/invisible-tech-the-stuff-you-dont-see-but-cant-live-without-n5o)
+- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-4age)
+- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-ipe)
+- [KEXP: Jorja Smith - Try Me &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-try-me-live-on-kexp-6le)
+- [KEXP: Jorja Smith - Be Honest &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-be-honest-live-on-kexp-57na)
+- [KEXP: Car Seat Headrest - Gethsemane &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-car-seat-headrest-gethsemane-live-on-kexp-onk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
