@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel APP_KEY vs Password Hashing: What Every Developer Should Know About Encryption &amp; Hashing.](https://dev.to/eldeeno/laravel-appkey-vs-password-hashing-what-every-developer-should-know-about-encryption-hashing-2d7d)
-- [I Tried Beating LeetCode Like a Game. It Actually Worked.](https://dev.to/trojanmocx/i-tried-beating-leetcode-like-a-game-it-actually-worked-2dh3)
-- [📰 Major Tech News: Oct 19th, 2025](https://dev.to/om_shree_0709/major-tech-news-oct-19th-2025-3o9d)
-- [UI Finder: The One-Stop Solution for Finding UI Libraries](https://dev.to/alexovn/ui-finder-the-one-stop-solution-for-finding-ui-libraries-25f)
-- [Quick C# Challenges to Keep Your Coding Skills Fresh 4.&quot;CountVowels&quot;](https://dev.to/__b63657/quick-c-challenges-to-keep-your-coding-skills-fresh-4countvowels-ggj)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-5g0a)
+- [COLORS: UMI | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-a-colors-show-1798)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-3gik)
+- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-4k88)
+- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-1aea)
 <!-- BLOG-POST-LIST:END -->
 
 ---
