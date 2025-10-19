@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Windows Shortcuts Plan Mode/Edit Mode](https://dev.to/adzhydra/claude-code-windows-shortcuts-plan-modeedit-mode-85d)
-- [🗂️ Clprolf Directory Explorer — When Breadth-First Becomes Intuitive](https://dev.to/charles_koffler_bcabc582b/clprolf-directory-explorer-when-breadth-first-becomes-intuitive-5a0f)
-- [Building The Apothecary: Learning Database Versioning Through Medieval Fantasy](https://dev.to/rami_gharbi/building-the-apothecary-learning-database-versioning-through-medieval-fantasy-4d2l)
-- [Day 6 | 50 Projects in 50 Days](https://dev.to/augusta08/day-6-50-projects-in-50-days-40h7)
-- [Improving Responsively App Documentation – Week 2 of Hacktoberfest](https://dev.to/kkrishnan10/improving-responsively-app-documentation-week-2-of-hacktoberfest-2c60)
+- [Die Zukunft von Krypto entscheidet sich über UX — nicht über den nächsten Bullrun](https://dev.to/piwa_lin_8b3155c3dd85f0f9/die-zukunft-von-krypto-entscheidet-sich-uber-ux-nicht-uber-den-nachsten-bullrun-4abl)
+- [ASP .NET Core modals](https://dev.to/karenpayneoregon/asp-net-core-modals-3dlj)
+- [Gbit Framework](https://dev.to/gislaine_cristinalopes_1/gbit-framework-5aoa)
+- [De User Story a Test Case en minutos: microservicio IA &lpar;FastAPI + Gemini + Langfuse&rpar; para QA](https://dev.to/stevenayal/de-user-story-a-test-case-en-minutos-microservicio-ia-fastapi-gemini-langfuse-para-qa-3l14)
+- [How to Use AI in Brand Journalism with Gemini to Transform Digital Information into Strategic Editorial Content?](https://dev.to/r_elena_mendez_escobar/how-to-use-ai-in-brand-journalism-with-gemini-to-transform-digital-information-into-strategic-akl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
