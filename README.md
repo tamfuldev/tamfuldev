@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Creating the Pinnacle of Niche Software: Consume Squidex Headless CMS Api&#39;s in ELM!](https://dev.to/sukkergris/creating-the-pinnacle-of-niche-software-consume-squidex-headless-cms-apis-in-elm-59i7)
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-2llj)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-52i8)
-- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-2297)
-- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-19f7)
+- [The Naive Bayes Classifier](https://dev.to/carlosrambles/the-naive-bayes-classifier-30kl)
+- [Αρχές Ομαδικής Συνεργασίας και Προϋποθέσεις Προσωπικής Συμμετοχής: Ενίσχυση της Ομαδικότητας και της Αυτοβελτίωσης](https://dev.to/__b63657/arkhes-omadikes-sunergasias-kai-proupotheseis-prosopikes-summetokhes-eniskhuse-tes-omadikotetas-kai-ege)
+- [How to Build an Agent &lpar;in JavaScript&rpar;](https://dev.to/murthyug/how-to-build-an-agent-in-javascript-5hgp)
+- [Learning Chinese Philosophy the Tech Way: A Practical Approach to the I Ching &lpar;易經&rpar; - Concepts, Culture, and a C# Console App3](https://dev.to/auyeungdavid_2847435260/learning-chinese-philosophy-the-tech-way-a-practical-approach-to-the-i-ching-yi-jing-concepts-4f5o)
+- [The writer and the bot](https://dev.to/jesstemporal/the-writer-and-the-bot-4ebm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
