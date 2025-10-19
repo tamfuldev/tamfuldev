@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-3f88)
-- [KEXP: Jorja Smith - The Way I Love You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-the-way-i-love-you-live-on-kexp-1e05)
-- [KEXP: Jorja Smith - Try Me &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-try-me-live-on-kexp-3d16)
-- [KEXP: Jorja Smith - Be Honest &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-be-honest-live-on-kexp-2dke)
-- [KEXP: Car Seat Headrest - Gethsemane &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-car-seat-headrest-gethsemane-live-on-kexp-2mj)
+- [El cambio declarativo de Angular:](https://dev.to/angularfirebase/el-cambio-declarativo-de-angular-27ai)
+- [This was a feature not a bug🐞](https://dev.to/jeet_singh_63644d9175a9f6/this-was-a-feature-not-a-bug-mc3)
+- [Build Your Own Social Network in Under a Minute: The Ultimate Guide](https://dev.to/web4/build-your-own-social-network-in-under-a-minute-the-ultimate-guide-179i)
+- [Building My First RESTful API: Backend Wizards Stage 0 Journey 🚀](https://dev.to/luvie/building-my-first-restful-api-backend-wizards-stage-0-journey-2n51)
+- [Nevatal Joins Hacktoberfest 2025: Build the Future of AI Functions Hub 🚀](https://dev.to/thirza258/nevatal-joins-hacktoberfest-2025-build-the-future-of-ai-functions-hub-49ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
