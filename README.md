@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [** &quot;Ian Khan - Top Keynote Speaker in Belo Horizonte, Brazil](https://dev.to/iankhanfuturist/-ian-khan-top-keynote-speaker-in-belo-horizonte-brazil-1anj)
-- [Writing Clean Code Without Losing Your Mind](https://dev.to/gold_roger_667d8242695024/writing-clean-code-without-losing-your-mind-136e)
-- [How I Automated Membership Fee Collection Using Stripe and Google Services](https://dev.to/yo-shi/how-i-automated-membership-fee-collection-using-stripe-and-google-services-2gd4)
-- [The Staging Ground Symbiote: A Deep Dive into Monkey Patching for Bug and Exception Simulation &lpar;Part 1: Foundations &amp; Risks&rpar;](https://dev.to/viniciuspuerto/the-staging-ground-symbiote-a-deep-dive-into-monkey-patching-for-bug-and-exception-simulation-36fn)
-- [Title: Taylor Swift&#39;s Appearance on the Travis and Jason Kelce Podcast: A Win for the Music Industry](https://dev.to/yagyaraj_sharma_6cd410179/title-taylor-swifts-appearance-on-the-travis-and-jason-kelce-podcast-a-win-for-the-music-industry-4c9)
+- [Day 1: Introduction to PostgreSQL - Your Journey Begins](https://dev.to/hardik_kanajariya/day-1-introduction-to-postgresql-your-journey-begins-hn7)
+- [Understanding the Event Loop and Concurrency in JavaScript &lpar;Beginner’s Guide&rpar;](https://dev.to/wisdomudo/understanding-the-event-loop-and-concurrency-in-javascript-beginners-guide-5ob)
+- [Laughing Through the Code: Dev&#39;s Guide to October 19&#39;s Tech Qwirks](https://dev.to/om_shree_0709/laughing-through-the-code-devs-guide-to-october-19s-tech-qwirks-1h1f)
+- [I built a real-time trading simulator with Next.js and Socket.IO](https://dev.to/midodev/i-built-a-real-time-trading-simulator-with-nextjs-and-socketio-5goj)
+- [Navigating Modern Parenthood: Insights from This Week&#39;s Conversations](https://dev.to/om_shree_0709/navigating-modern-parenthood-insights-from-this-weeks-conversations-3n38)
 <!-- BLOG-POST-LIST:END -->
 
 ---
