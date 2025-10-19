@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Watchers](https://dev.to/rawveg/the-watchers-3lmj)
-- [How to Check If Random Forests Work for Your Dataset](https://dev.to/codeneuron/how-to-check-if-random-forests-work-for-your-dataset-23e0)
-- [Level Up Your Coding: Build Your Own AI Assistant!](https://dev.to/karthik_n/level-up-your-coding-build-your-own-ai-assistant-33f2)
-- [Building My First Backend API: A Dynamic Profile Endpoint HNG 13](https://dev.to/iyktech22/building-my-first-backend-api-a-dynamic-profile-endpoint-hng-13-3mjm)
-- [Getting Started with Blazor WebAssembly in ASP.NET Core 10](https://dev.to/djamware_tutorial_eba1a61/getting-started-with-blazor-webassembly-in-aspnet-core-10-40a0)
+- [Creating the Pinnacle of Niche Software: Consume Squidex Headless CMS Api&#39;s in ELM!](https://dev.to/sukkergris/creating-the-pinnacle-of-niche-software-consume-squidex-headless-cms-apis-in-elm-59i7)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-2llj)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-52i8)
+- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-2297)
+- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-19f7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
