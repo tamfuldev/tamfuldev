@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Better Call Saul: A Multi-Agent Corporate Advisory System with Google ADK](https://dev.to/anchit/building-better-call-saul-a-multi-agent-corporate-advisory-system-with-google-adk-43io)
-- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-4jbp)
-- [Thoughts on SLA](https://dev.to/ijuren/thoughts-on-sla-5dkd)
-- [Just Helped a Student Ace HRT OA! Practical Strategies for 4 Questions](https://dev.to/net_programhelp_e160eef28/just-helped-a-student-ace-hrt-oa-practical-strategies-for-4-questions-40oa)
-- [All Data and AI Weekly #212: 20 Oct 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-212-20-oct-2025-3h6k)
+- [Multi-Layer Cinematic Scroll Scene in Pure CSS](https://dev.to/prahalad/multi-layer-cinematic-scroll-scene-in-pure-css-11dk)
+- [Introduction of Dynamic Programming](https://dev.to/rubenhtun/introduction-of-dynamic-programming-1i18)
+- [Day 68 — Scaling with Terraform](https://dev.to/udoh_deborah_b1e484c474bf/day-68-scaling-with-terraform-4ig1)
+- [Why Clean Code Matters: Lessons from Uncle Bob](https://dev.to/dionarodrigues/why-clean-code-matters-lessons-from-uncle-bob-137l)
+- [Kan [கண்] is an intelligent eye health monitoring application](https://dev.to/qainsights/kan-knn-is-an-intelligent-eye-health-monitoring-application-3mic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
