@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Zephyr RTOS on STM32 Nucleo: From Setup to Blinky](https://dev.to/ripan030/zephyr-rtos-on-stm32-nucleo-from-setup-to-blinky-43f1)
-- [Mr Sunday Movies: Tron: Legacy - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-tron-legacy-caravan-of-garbage-23li)
-- [Check If a String is Valid JSON in PHP](https://dev.to/ashallendesign/check-if-a-string-is-valid-json-in-php-26fe)
-- [Danny Maude: Everyone Is Bad At Chipping...Until They Learn This](https://dev.to/youtube_golf/danny-maude-everyone-is-bad-at-chippinguntil-they-learn-this-943)
-- [So what is Open Source Software in a Source Available Software world?](https://dev.to/unsungnovelty/so-what-is-open-source-software-in-a-source-available-software-world-3cib)
+- [从Hyperliquid获取交易数据，计算Sharpe 和 Profit Factor](https://dev.to/dragon72463399/cong-hyperliquidhuo-qu-jiao-yi-shu-ju-ji-suan-sharpe-he-profit-factor-3f3m)
+- [Building a Dynamic Profile API with FastAPI: My HNG Stage 0 Experience](https://dev.to/afeh/building-a-dynamic-profile-api-with-fastapi-my-hng-stage-0-experience-4an4)
+- [🐝 Why Hive Exists - And Why Its Complexity Is Actually Necessary](https://dev.to/mohhddhassan/why-hive-exists-and-why-its-complexity-is-actually-necessary-n92)
+- [🚀 AI Roadmap Visualizer — turning engineering plans into pixel-perfect art](https://dev.to/kasiakab/ai-roadmap-visualizer-turning-engineering-plans-into-pixel-perfect-art-1f7o)
+- [Smart Water Pump Controller using ESP32 and Firebase &lpar;IoT Project&rpar;](https://dev.to/yugeshweb/smart-water-pump-controller-using-esp32-and-firebase-iot-project-3flj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
