@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating Flyway&#39;s Unexpected Behavior in Database Evolution](https://dev.to/ijuren/navigating-flyways-unexpected-behavior-in-database-evolution-12cf)
-- [The Mind Game](https://dev.to/rawveg/the-mind-game-5762)
-- [There’s a difference between being respected and being liked. But there’s a special kind of power in being both.](https://dev.to/themustaphatijani/theres-a-difference-between-being-respected-and-being-liked-but-theres-a-special-kind-of-power-357i)
-- [¿Herencia múltiple?](https://dev.to/baltasarq/herencia-multiple-497l)
-- [Unlocking the Market: The Rise and Rationale of AI White-labels #ai #saas #webdev #startup](https://dev.to/lester_mbunga_0f0d35d7f5c/unlocking-the-market-the-rise-and-rationale-of-ai-white-labelsai-saas-webdev-startup-3c7a)
+- [Zephyr RTOS on STM32 Nucleo: From Setup to Blinky](https://dev.to/ripan030/zephyr-rtos-on-stm32-nucleo-from-setup-to-blinky-43f1)
+- [Mr Sunday Movies: Tron: Legacy - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-tron-legacy-caravan-of-garbage-23li)
+- [Check If a String is Valid JSON in PHP](https://dev.to/ashallendesign/check-if-a-string-is-valid-json-in-php-26fe)
+- [Danny Maude: Everyone Is Bad At Chipping...Until They Learn This](https://dev.to/youtube_golf/danny-maude-everyone-is-bad-at-chippinguntil-they-learn-this-943)
+- [So what is Open Source Software in a Source Available Software world?](https://dev.to/unsungnovelty/so-what-is-open-source-software-in-a-source-available-software-world-3cib)
 <!-- BLOG-POST-LIST:END -->
 
 ---
