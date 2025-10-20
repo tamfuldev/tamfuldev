@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [从Hyperliquid获取交易数据，计算Sharpe 和 Profit Factor](https://dev.to/dragon72463399/cong-hyperliquidhuo-qu-jiao-yi-shu-ju-ji-suan-sharpe-he-profit-factor-3f3m)
-- [Building a Dynamic Profile API with FastAPI: My HNG Stage 0 Experience](https://dev.to/afeh/building-a-dynamic-profile-api-with-fastapi-my-hng-stage-0-experience-4an4)
-- [🐝 Why Hive Exists - And Why Its Complexity Is Actually Necessary](https://dev.to/mohhddhassan/why-hive-exists-and-why-its-complexity-is-actually-necessary-n92)
-- [🚀 AI Roadmap Visualizer — turning engineering plans into pixel-perfect art](https://dev.to/kasiakab/ai-roadmap-visualizer-turning-engineering-plans-into-pixel-perfect-art-1f7o)
-- [Smart Water Pump Controller using ESP32 and Firebase &lpar;IoT Project&rpar;](https://dev.to/yugeshweb/smart-water-pump-controller-using-esp32-and-firebase-iot-project-3flj)
+- [Lesson 0 — 🧱 Ecommerce Enterprise Series — From Code to Cloud](https://dev.to/farrukh_rehman/lesson-0-ecommerce-enterprise-series-from-code-to-cloud-569i)
+- [How to use font family in react native expo with Nativewind](https://dev.to/abdullah_nasir_98b2b478ee/how-to-use-font-family-in-react-native-expo-with-nativewind-2njk)
+- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-4knj)
+- [CinemaSins: Everything Wrong With The Human Centipede 2 &lpar;Full Sequence&rpar; In 22 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-human-centipede-2-full-sequence-in-22-minutes-or-less-281)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-1n58)
 <!-- BLOG-POST-LIST:END -->
 
 ---
