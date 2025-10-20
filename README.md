@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Lesson 0 — 🧱 Ecommerce Enterprise Series — From Code to Cloud](https://dev.to/farrukh_rehman/lesson-0-ecommerce-enterprise-series-from-code-to-cloud-569i)
-- [How to use font family in react native expo with Nativewind](https://dev.to/abdullah_nasir_98b2b478ee/how-to-use-font-family-in-react-native-expo-with-nativewind-2njk)
-- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-4knj)
-- [CinemaSins: Everything Wrong With The Human Centipede 2 &lpar;Full Sequence&rpar; In 22 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-human-centipede-2-full-sequence-in-22-minutes-or-less-281)
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-1n58)
+- [💎 Introducing round_robin_assignment: A Reliable Round-Robin Assignment Gem for Rails](https://dev.to/mustafa_duranovic_b25293f/introducing-roundrobinassignment-a-reliable-round-robin-assignment-gem-for-rails-1dmc)
+- [Cultivating Psychological Safety in Distributed Engineering Teams](https://dev.to/stormdjent/cultivating-psychological-safety-in-distributed-engineering-teams-1kjf)
+- [Idempotence in System Design: Full example](https://dev.to/lukasniessen/idempotence-in-system-design-full-example-2acb)
+- [Turning Financial Goals into Smart Mutual Fund Recommendations](https://dev.to/emilp/turning-financial-goals-into-smart-mutual-fund-recommendations-18ig)
+- [Ekinox: Build Production-Ready AI Agent Workflows in Minutes](https://dev.to/elreco_/ekinox-build-production-ready-ai-agent-workflows-in-minutes-33k8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
