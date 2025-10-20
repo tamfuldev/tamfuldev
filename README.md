@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Go’s Network I/O: Build Scalable, High-Performance Apps](https://dev.to/jones_charles_ad50858dbc0/mastering-gos-network-io-build-scalable-high-performance-apps-579o)
-- [Modularity in Circuits and Software](https://dev.to/wale1202/modularity-in-circuits-and-software-4e66)
-- [Title: The Rise of Gold and Bitcoin ETFs: Breaking the $500 Billion Barrier](https://dev.to/yagyaraj_sharma_6cd410179/title-the-rise-of-gold-and-bitcoin-etfs-breaking-the-500-billion-barrier-5dkb)
-- [KEXP: Jorja Smith - Try Me &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-try-me-live-on-kexp-40an)
-- [Revolutionizing SQL Development with Oracle APEX AI Assistant](https://dev.to/rajesh_vohra_e75f579b7888/revolutionizing-sql-development-with-oracle-apex-ai-assistant-4ccc)
+- [Day 2: Installing PostgreSQL and Setting Up Your Environment](https://dev.to/hardik_kanajariya/day-2-installing-postgresql-and-setting-up-your-environment-2l4c)
+- [My experience with AI powered development &lpar;aka Vibe Coding&rpar;](https://dev.to/k776/my-experience-with-ai-powered-development-aka-vibe-coding-4195)
+- [KEXP: Jorja Smith - Be Honest &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-be-honest-live-on-kexp-4lai)
+- [KEXP: Car Seat Headrest - Gethsemane &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-car-seat-headrest-gethsemane-live-on-kexp-5ek5)
+- [Mainline: a Production-Ready Next.js Template with shadcn/ui and Tailwind CSS 4](https://dev.to/jqueryscript/mainline-a-production-ready-nextjs-template-with-shadcnui-and-tailwind-css-4-3kj1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
