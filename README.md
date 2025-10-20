@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [💎 Introducing round_robin_assignment: A Reliable Round-Robin Assignment Gem for Rails](https://dev.to/mustafa_duranovic_b25293f/introducing-roundrobinassignment-a-reliable-round-robin-assignment-gem-for-rails-1dmc)
-- [Cultivating Psychological Safety in Distributed Engineering Teams](https://dev.to/stormdjent/cultivating-psychological-safety-in-distributed-engineering-teams-1kjf)
-- [Idempotence in System Design: Full example](https://dev.to/lukasniessen/idempotence-in-system-design-full-example-2acb)
-- [Turning Financial Goals into Smart Mutual Fund Recommendations](https://dev.to/emilp/turning-financial-goals-into-smart-mutual-fund-recommendations-18ig)
-- [Ekinox: Build Production-Ready AI Agent Workflows in Minutes](https://dev.to/elreco_/ekinox-build-production-ready-ai-agent-workflows-in-minutes-33k8)
+- [Building Better Call Saul: A Multi-Agent Corporate Advisory System with Google ADK](https://dev.to/anchit/building-better-call-saul-a-multi-agent-corporate-advisory-system-with-google-adk-43io)
+- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-4jbp)
+- [Thoughts on SLA](https://dev.to/ijuren/thoughts-on-sla-5dkd)
+- [Just Helped a Student Ace HRT OA! Practical Strategies for 4 Questions](https://dev.to/net_programhelp_e160eef28/just-helped-a-student-ace-hrt-oa-practical-strategies-for-4-questions-40oa)
+- [All Data and AI Weekly #212: 20 Oct 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-212-20-oct-2025-3h6k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
