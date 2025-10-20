@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Word Document Creation with Python: A Practical Guide](https://dev.to/allen_yang_f905170c5a197b/automating-word-document-creation-with-python-a-practical-guide-21lf)
-- [The average dwell time of a certain type of product in the supermarket--SPL Programming Practice](https://dev.to/esproc_spl/the-average-dwell-time-of-a-certain-type-of-product-in-the-supermarket-spl-programming-practice-3if9)
-- [DNS query without nslookup command](https://dev.to/agonza05/dns-query-without-nslookup-command-10ln)
-- [Hi, do you know Rust?](https://dev.to/bearstudio/hi-do-you-know-rust-5gbn)
-- [How Shorebird Works: Breaking Down Flutter’s Over-the-Air Update Engine](https://dev.to/kiddo4lyf/how-shorebird-works-breaking-down-flutters-over-the-air-update-engine-4lc5)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-49il)
+- [COLORS: UMI | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-a-colors-show-4f8l)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-3k3d)
+- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-4o55)
+- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-cn8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
