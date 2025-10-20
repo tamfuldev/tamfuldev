@@ -4,11 +4,17 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 2: Installing PostgreSQL and Setting Up Your Environment](https://dev.to/hardik_kanajariya/day-2-installing-postgresql-and-setting-up-your-environment-2l4c)
-- [My experience with AI powered development &lpar;aka Vibe Coding&rpar;](https://dev.to/k776/my-experience-with-ai-powered-development-aka-vibe-coding-4195)
-- [KEXP: Jorja Smith - Be Honest &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-be-honest-live-on-kexp-4lai)
-- [KEXP: Car Seat Headrest - Gethsemane &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-car-seat-headrest-gethsemane-live-on-kexp-5ek5)
-- [Mainline: a Production-Ready Next.js Template with shadcn/ui and Tailwind CSS 4](https://dev.to/jqueryscript/mainline-a-production-ready-nextjs-template-with-shadcnui-and-tailwind-css-4-3kj1)
+- [Every time I speak with developers, freelancers, or tech professionals, I hear the same concern:
+
+“Will AI take my job?”
+
+The real shift isn&#39;t AI vs Humans: it’s AI-empowered humans vs humans who refuse to adapt.
+
+Let’s break this down clearly.](https://dev.to/jaideepparashar/every-time-i-speak-with-developers-freelancers-or-tech-professionals-i-hear-the-same-concern-23j7)
+- [AI Isn’t Replacing You: But the One Who Uses It Better Might](https://dev.to/jaideepparashar/ai-isnt-replacing-you-but-the-one-who-uses-it-better-might-19ga)
+- [** &quot;Keynote Speaker: The Complete Guide for 2025](https://dev.to/iankhanfuturist/-keynote-speaker-the-complete-guide-for-2025-1e2a)
+- [What you guys think of a unified deeper market place](https://dev.to/tech4future_223b059ccfabe/what-you-guys-think-of-a-unified-deeper-market-place-131o)
+- [Pages Services In-Depth Analysis: Why Regional Niche Providers Might Be Better for You](https://dev.to/tony_chase_83955825282edc/pages-services-in-depth-analysis-why-regional-niche-providers-might-be-better-for-you-36c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
