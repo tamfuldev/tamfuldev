@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Die Zukunft von Krypto entscheidet sich über UX — nicht über den nächsten Bullrun](https://dev.to/piwa_lin_8b3155c3dd85f0f9/die-zukunft-von-krypto-entscheidet-sich-uber-ux-nicht-uber-den-nachsten-bullrun-4abl)
-- [ASP .NET Core modals](https://dev.to/karenpayneoregon/asp-net-core-modals-3dlj)
-- [Gbit Framework](https://dev.to/gislaine_cristinalopes_1/gbit-framework-5aoa)
-- [De User Story a Test Case en minutos: microservicio IA &lpar;FastAPI + Gemini + Langfuse&rpar; para QA](https://dev.to/stevenayal/de-user-story-a-test-case-en-minutos-microservicio-ia-fastapi-gemini-langfuse-para-qa-3l14)
-- [How to Use AI in Brand Journalism with Gemini to Transform Digital Information into Strategic Editorial Content?](https://dev.to/r_elena_mendez_escobar/how-to-use-ai-in-brand-journalism-with-gemini-to-transform-digital-information-into-strategic-akl)
+- [Mastering Go’s Network I/O: Build Scalable, High-Performance Apps](https://dev.to/jones_charles_ad50858dbc0/mastering-gos-network-io-build-scalable-high-performance-apps-579o)
+- [Modularity in Circuits and Software](https://dev.to/wale1202/modularity-in-circuits-and-software-4e66)
+- [Title: The Rise of Gold and Bitcoin ETFs: Breaking the $500 Billion Barrier](https://dev.to/yagyaraj_sharma_6cd410179/title-the-rise-of-gold-and-bitcoin-etfs-breaking-the-500-billion-barrier-5dkb)
+- [KEXP: Jorja Smith - Try Me &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-try-me-live-on-kexp-40an)
+- [Revolutionizing SQL Development with Oracle APEX AI Assistant](https://dev.to/rajesh_vohra_e75f579b7888/revolutionizing-sql-development-with-oracle-apex-ai-assistant-4ccc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
