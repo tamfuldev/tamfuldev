@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AWS : une panne « mondiale » ?](https://dev.to/aws-builders/aws-une-panne-mondiale--37n3)
-- [Build a Discord bot to expose Raindrop.io instances](https://dev.to/gregholmes/build-a-discord-bot-to-expose-raindropio-instances-2079)
-- [⚡ Qdrant: The Engine Powering Smart Search and Production-Ready AI](https://dev.to/charan_gutti_cf60c6185074/qdrant-the-engine-powering-smart-search-and-production-ready-ai-ebn)
-- [Alibaba Cloud says it cut Nvidia AI GPU use by 82% with new pooling system](https://dev.to/technoblogger14o3/alibaba-cloud-says-it-cut-nvidia-ai-gpu-use-by-82-with-new-pooling-system-3eg0)
-- [Closing the Gap: Adding Drag-and-Drop for Bookmarks](https://dev.to/sheep_/closing-the-gap-adding-drag-and-drop-for-bookmarks-53jb)
+- [React, Nextjs Website Templates 7 in 1](https://dev.to/shreyvijayvargiya/react-nextjs-website-templates-7-in-1-5hej)
+- [Ringer Movies: The 10 Best Horror Movies of 2025](https://dev.to/popcorn_movies/ringer-movies-the-10-best-horror-movies-of-2025-56od)
+- [Ringer Movies: ‘Quiz Show’ With Bill Simmons and Brian Koppelman | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-quiz-show-with-bill-simmons-and-brian-koppelman-the-rewatchables-3f7k)
+- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-31k8)
+- [CinemaSins: Everything Wrong With The Human Centipede 2 &lpar;Full Sequence&rpar; In 22 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-human-centipede-2-full-sequence-in-22-minutes-or-less-1lld)
 <!-- BLOG-POST-LIST:END -->
 
 ---
