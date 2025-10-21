@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SendGrid Killed Their Free Plan So I Built a $1/Month SendGrid Alternative Instead](https://dev.to/babu_munavarbasha/sendgrid-killed-their-free-plan-so-i-built-a-1month-sendgrid-alternative-instead-5750)
-- [Complete guide for router and controller with debugging](https://dev.to/nimra_kosar_9885e391ac9a2/complete-guide-for-router-and-controller-with-debugging-kp9)
-- [Writing Your First LLVM Plugin Pass: Counting Add Instructions](https://dev.to/cppchedy/writing-your-first-llvm-plugin-pass-add-instruction-counter-25ib)
-- [Radial Explosion Zoom Gallery Effect](https://dev.to/prahalad/radial-explosion-zoom-gallery-effect-4fg5)
-- [i18n Check: Tips &amp; Tricks for Comparing Localization Files](https://dev.to/this-is-learning/i18n-check-tips-tricks-for-comparing-localization-files-2mih)
+- [Rick Beato: Justin Hawkins Isn&#39;t Afraid To Talk Sh*t](https://dev.to/music_youtube/rick-beato-justin-hawkins-isnt-afraid-to-talk-sht-42fe)
+- [Peter Finch Golf: Testing out Donald Trump&#39;s new golf course &lpar;18 hole vlog&rpar;](https://dev.to/youtube_golf/peter-finch-golf-testing-out-donald-trumps-new-golf-course-18-hole-vlog-kfd)
+- [How I Became a Layout Manager from a Junior Frontend Developer in Just 8 Months](https://dev.to/usman_awan/how-i-became-a-layout-manager-from-a-junior-frontend-developer-in-just-8-months-407d)
+- [How I Built Agent Skills for Claude Code](https://dev.to/nunc/how-i-built-agent-skills-for-claude-code-oj4)
+- [AWS Outage Exposed Your SaaS Stack — Here’s How to Make It Resilient](https://dev.to/aws-builders/aws-outage-exposed-your-saas-stack-heres-how-to-make-it-resilient-40gj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
