@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI Scoring Agent: Step-By-Step](https://dev.to/jessesbyers/building-an-ai-scoring-agent-step-by-step-3cbn)
-- [Analyzing the Best Diagramming Tools for the LLM Age Based on Token Efficiency](https://dev.to/_768dd7ab130016ab8b0a/analyzing-the-best-diagramming-tools-for-the-llm-age-based-on-token-efficiency-5891)
-- [Choosing Tech Stack in 2025: A Practical Guide](https://dev.to/dimeloper/choosing-tech-stack-in-2025-a-practical-guide-4gll)
-- [Understanding Docker: The Solution to Developer Conflicts](https://dev.to/karthikkorrayi/understanding-docker-the-solution-to-developer-conflicts-ona)
-- [🔥 Complete Shopify Theme Development Course in Hindi &amp; Urdu &lpar;Beginner to Advanced&rpar;](https://dev.to/saadsaif97/complete-shopify-theme-development-course-in-hindi-urdu-beginner-to-advanced-3hld)
+- [Step-by-Step Guide to Capture Heap Snapshots in Node.js on Kubernetes](https://dev.to/alessandro-grosselle/step-by-step-guide-to-capture-heap-snapshots-in-nodejs-on-kubernetes-1i2h)
+- [Actions, Not Just Chat](https://dev.to/philrez/actions-not-just-chat-14n4)
+- [How to Launch Your Startup MVP in 5 Weeks in 2025: A Step-by-Step Guide](https://dev.to/eulerhive/how-to-launch-your-startup-mvp-in-5-weeks-in-2025-a-step-by-step-guide-9ld)
+- [Our Git Workflow for Client Projects: Branching Strategy for Agencies](https://dev.to/michelle_turner/our-git-workflow-for-client-projects-branching-strategy-for-agencies-21ag)
+- [Simulating MRI Physics with the Bloch Equations](https://dev.to/glcsblog/simulating-mri-physics-with-the-bloch-equations-3n72)
 <!-- BLOG-POST-LIST:END -->
 
 ---
