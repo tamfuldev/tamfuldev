@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Project: CrystalPure Water Company – Business Plan Development](https://dev.to/loveline/project-crystal-pure-water-company-business-plan-development-1157)
-- [Unleashing the Power of AI in Your Development Workflow](https://dev.to/mikeover/unleashing-the-power-of-ai-in-your-development-workflow-3n45)
-- [Where do long-dwell attackers hide inside modern networks?](https://dev.to/sebos/where-do-long-dwell-attackers-hide-inside-modern-networks-5d5a)
-- [Project: CrystalPure Water Company – Business Plan Development](https://dev.to/loveline/project-crystalpure-water-company-business-plan-development-3jla)
-- [Title: Chargers Running Back Najee Harris Returns to Practice with a Vengeance](https://dev.to/yagyaraj_sharma_6cd410179/title-chargers-running-back-najee-harris-returns-to-practice-with-a-vengeance-40o)
+- [Mr Sunday Movies: Tron: Legacy - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-tron-legacy-caravan-of-garbage-a67)
+- [Danny Maude: Everyone Is Bad At Chipping...Until They Learn This](https://dev.to/youtube_golf/danny-maude-everyone-is-bad-at-chippinguntil-they-learn-this-174h)
+- [My journey from a chaotic, manual agility to a bureaucracy disguised as Scrum. And how we can get back on track.](https://dev.to/emilioacevedodev/my-journey-from-a-chaotic-manual-agility-to-a-bureaucracy-disguised-as-scrum-and-how-we-can-get-1h8h)
+- [Filtering Duplicates by ID &lpar;and Keeping the Rest!&rpar; in JavaScript](https://dev.to/philrez/filtering-duplicates-by-id-and-keeping-the-rest-in-javascript-26gf)
+- [Ringer Movies: The 10 Best Horror Movies of 2025](https://dev.to/popcorn_movies/ringer-movies-the-10-best-horror-movies-of-2025-3f2f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
