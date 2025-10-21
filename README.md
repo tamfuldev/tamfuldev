@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Quiz Show’ With Bill Simmons and Brian Koppelman | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-quiz-show-with-bill-simmons-and-brian-koppelman-the-rewatchables-3em0)
-- [CinemaSins: Everything Wrong With The Human Centipede 2 &lpar;Full Sequence&rpar; In 22 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-human-centipede-2-full-sequence-in-22-minutes-or-less-2pcd)
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-1de)
-- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-1el6)
-- [Code Smell 311 - Plain Text Passwords](https://dev.to/mcsee/code-smell-311-plain-text-passwords-33mg)
+- [SendGrid Killed Their Free Plan So I Built a $1/Month SendGrid Alternative Instead](https://dev.to/babu_munavarbasha/sendgrid-killed-their-free-plan-so-i-built-a-1month-sendgrid-alternative-instead-5750)
+- [Complete guide for router and controller with debugging](https://dev.to/nimra_kosar_9885e391ac9a2/complete-guide-for-router-and-controller-with-debugging-kp9)
+- [Writing Your First LLVM Plugin Pass: Counting Add Instructions](https://dev.to/cppchedy/writing-your-first-llvm-plugin-pass-add-instruction-counter-25ib)
+- [Radial Explosion Zoom Gallery Effect](https://dev.to/prahalad/radial-explosion-zoom-gallery-effect-4fg5)
+- [i18n Check: Tips &amp; Tricks for Comparing Localization Files](https://dev.to/this-is-learning/i18n-check-tips-tricks-for-comparing-localization-files-2mih)
 <!-- BLOG-POST-LIST:END -->
 
 ---
