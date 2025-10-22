@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Digital Waste: An In-Depth Study](https://dev.to/defremont/digital-waste-an-in-depth-study-4f92)
-- [Which Graphics Card Is Best for Lumion 2025?](https://dev.to/irender_gpu_cloud/which-graphics-card-is-best-for-lumion-2025-1mja)
-- [Building a High-Quality Software Product: A Step-by-Step Guide](https://dev.to/defremont/building-a-high-quality-software-product-a-step-by-step-guide-5ff2)
-- [A Tribute to the Java Pioneers: You Built the Foundation We Stand On](https://dev.to/adamthedeveloper/a-tribute-to-the-java-pioneers-you-built-the-foundation-we-stand-on-1k30)
-- [Blockchain in 2025: Evolving Beyond Cryptocurrencies](https://dev.to/defremont/blockchain-in-2025-evolving-beyond-cryptocurrencies-185m)
+- [🧠 Two “AllowedHosts” Every Developer Should Know](https://dev.to/kleinhouzin/two-allowedhosts-every-developer-should-know-ehe)
+- [Optimistic Superposition: A Quantum Leap for AI?](https://dev.to/arvind_sundararajan/optimistic-superposition-a-quantum-leap-for-ai-4me3)
+- [Welcome Thread - v348](https://dev.to/devteam/welcome-thread-v348-29i2)
+- [How to use a non-mac mouse to move between spaces and open Mission Control on MacOS](https://dev.to/husteadrobert/how-to-use-a-non-mac-mouse-to-move-between-spaces-and-open-mission-control-on-macos-3pe7)
+- [Banana Pi — Como Habilitar o SSH no Raspbian](https://dev.to/henriqueotogami/banana-pi-como-habilitar-o-ssh-no-raspbian-15n9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
