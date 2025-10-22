@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Adaptive Rank: Personalization That Learns Your Changing Mind by Arvind Sundararajan](https://dev.to/arvind_sundararajan/adaptive-rank-personalization-that-learns-your-changing-mind-by-arvind-sundararajan-1d64)
-- [Linear Programming standard form](https://dev.to/sengseng/linear-programming-standard-form-2hba)
-- [Build Apps with Google AI Studio: Your Calories Companion](https://dev.to/coffeejuseyo/build-apps-with-google-ai-studio-your-calories-companion-mdd)
-- [Passwordless SSH Setup in 5 Minutes](https://dev.to/kingyou/passwordless-ssh-setup-in-5-minutes-212p)
-- [When Claude Agent Says “Sandbox It” — What Does That Really Mean?](https://dev.to/jun_ma_6eded523cd4b29efd2/when-claude-agent-says-sandbox-it-what-does-that-really-mean-bon)
+- [Digital Waste: An In-Depth Study](https://dev.to/defremont/digital-waste-an-in-depth-study-4f92)
+- [Which Graphics Card Is Best for Lumion 2025?](https://dev.to/irender_gpu_cloud/which-graphics-card-is-best-for-lumion-2025-1mja)
+- [Building a High-Quality Software Product: A Step-by-Step Guide](https://dev.to/defremont/building-a-high-quality-software-product-a-step-by-step-guide-5ff2)
+- [A Tribute to the Java Pioneers: You Built the Foundation We Stand On](https://dev.to/adamthedeveloper/a-tribute-to-the-java-pioneers-you-built-the-foundation-we-stand-on-1k30)
+- [Blockchain in 2025: Evolving Beyond Cryptocurrencies](https://dev.to/defremont/blockchain-in-2025-evolving-beyond-cryptocurrencies-185m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
