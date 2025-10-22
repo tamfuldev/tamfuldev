@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Chingu.io: Build, Collaborate, Learn: Remote Projects V57 Showcase](https://dev.to/chingu/chinguio-build-collaborate-learn-remote-projects-v57-showcase-mmh)
-- [The Ethics Engine](https://dev.to/rawveg/the-ethics-engine-4ki2)
-- [What Are the Common Risks Businesses Face and How Can Risk Management Keep You Compliant?](https://dev.to/kibe_christine_bc01e93c1a/what-are-the-common-risks-businesses-face-and-how-can-risk-management-keep-you-compliant-444)
-- [[Boost]](https://dev.to/adamthedeveloper/-mj8)
-- [A Runtime-Typed Reference-Counted Smart Pointer and Concurrent Programming tools.](https://dev.to/sh1zen/a-runtime-typed-reference-counted-smart-pointer-and-concurrent-programming-tools-5anh)
+- [DOCKER RUN İLE SSL SERTİFİKALI KEYCLOAK KURMA](https://dev.to/emine_nurarc_ca7d62402/docker-run-ile-ssl-sertifikali-keycloak-kurma-38e4)
+- [Simple queue system](https://dev.to/brendon_oneill__/simple-queue-system-1lnk)
+- [# Self-Hosted Push Notifications Part-7](https://dev.to/bunty9/-self-hosted-push-notifications-part-7-2f82)
+- [# Self-Hosted Push Notifications Part-6](https://dev.to/bunty9/-self-hosted-push-notifications-part-6-4jc0)
+- [The Human-AI Collaboration: Redefining Creativity and Productivity](https://dev.to/natepatel/the-human-ai-collaboration-redefining-creativity-and-productivity-4el5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
