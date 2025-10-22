@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DOCKER RUN İLE SSL SERTİFİKALI KEYCLOAK KURMA](https://dev.to/emine_nurarc_ca7d62402/docker-run-ile-ssl-sertifikali-keycloak-kurma-38e4)
-- [Simple queue system](https://dev.to/brendon_oneill__/simple-queue-system-1lnk)
-- [# Self-Hosted Push Notifications Part-7](https://dev.to/bunty9/-self-hosted-push-notifications-part-7-2f82)
-- [# Self-Hosted Push Notifications Part-6](https://dev.to/bunty9/-self-hosted-push-notifications-part-6-4jc0)
-- [The Human-AI Collaboration: Redefining Creativity and Productivity](https://dev.to/natepatel/the-human-ai-collaboration-redefining-creativity-and-productivity-4el5)
+- [RAG vs Memory for AI Agents: What’s the Difference](https://dev.to/bobur/rag-vs-memory-for-ai-agents-whats-the-difference-2ad0)
+- [From Fast Code to Reliable Software: A Framework for AI-Assisted Development](https://dev.to/stanislav_komarovsky_b478/from-fast-code-to-reliable-software-a-framework-for-ai-assisted-development-2dle)
+- [Integrating SAPs](https://dev.to/ornella_fabbri/integrating-sap-51k4)
+- [From 3 Hours of Debugging to 8 Lines of Code: How I Built and Upgraded OpenLoom for Java File I/O](https://dev.to/raghul-tech/from-3-hours-of-debugging-to-8-lines-of-code-how-i-built-and-upgraded-openloom-for-java-file-io-1bn8)
+- [This Free Rails Pre-Upgrade Checklist Might Save Your Next Release](https://dev.to/raisa_kanagaraj/this-free-rails-pre-upgrade-checklist-might-save-your-next-release-cl2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
