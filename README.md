@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Monólito vs Microsserviços: Quando Usar Cada Arquitetura](https://dev.to/alexnicolascode/monolito-vs-microsservicos-quando-usar-cada-arquitetura-o0n)
-- [Python basics - Day 12](https://dev.to/ian_b838138a27a917398d181/python-basics-day-12-53kg)
-- [11 Powerful APIs for Your Next Project 🤯](https://dev.to/anmolbaranwal/11-powerful-apis-for-your-next-project-5d7d)
-- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-49de)
-- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-4j9n)
+- [Windows in 2025 for Work and Creativity: How to Build a Fast, Secure, and Comfortable System](https://dev.to/_eb7ede481eac3d7c3/windows-in-2025-for-work-and-creativity-how-to-build-a-fast-secure-and-comfortable-system-1f0a)
+- [Going Beyond Accuracy: Understanding the Balanced Accuracy, Precision, Recall and F1-score.](https://dev.to/juniorcl/going-beyond-accuracy-understanding-the-balanced-accuracy-precision-recall-and-f1-score-4kl2)
+- [Beyond the Hype: 5 Counter-Intuitive Truths About AI from Andrej Karpathy](https://dev.to/amananandrai/beyond-the-hype-5-counter-intuitive-truths-about-ai-from-andrej-karpathy-afk)
+- [What better way to understand deeply media apis provided by modern browsers than to build something cool?](https://dev.to/professor12/what-better-way-to-understand-deeply-media-apis-provided-by-modern-browsers-than-to-build-something-1733)
+- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-395)
 <!-- BLOG-POST-LIST:END -->
 
 ---
