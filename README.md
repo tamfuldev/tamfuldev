@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Close Those 20 Browser Tabs: How MCP Servers Bring Documentation into VS Code](https://dev.to/glaucia86/close-those-20-browser-tabs-how-mcp-servers-bring-documentation-into-vs-code-435f)
-- [Rowboat: The open-source alternative to Notion&#39;s new custom agents with native MCP support](https://dev.to/arjun_m_10e75b369465a68b7/the-open-source-alternative-to-notions-new-custom-agents-with-native-mcp-support-2og2)
-- [Marketing Forecasting Methods for 2025: Budgeting and ROI](https://dev.to/ryansiney1/marketing-forecasting-methods-for-2025-budgeting-and-roi-2jf5)
-- [[Help] How to collect multi-platform game pricing data &lpar;Steam, PlayStation, Nintendo eShop&rpar;](https://dev.to/hyeongkeun_park_1da913a46/help-how-to-collect-multi-platform-game-pricing-data-steam-playstation-nintendo-eshop-je9)
-- [Understanding Time vs Space Complexity: Why You Can’t Always Optimise Both](https://dev.to/giftintech/understanding-time-vs-space-complexity-why-you-cant-always-optimise-both-2k5i)
+- [Monólito vs Microsserviços: Quando Usar Cada Arquitetura](https://dev.to/alexnicolascode/monolito-vs-microsservicos-quando-usar-cada-arquitetura-o0n)
+- [Python basics - Day 12](https://dev.to/ian_b838138a27a917398d181/python-basics-day-12-53kg)
+- [11 Powerful APIs for Your Next Project 🤯](https://dev.to/anmolbaranwal/11-powerful-apis-for-your-next-project-5d7d)
+- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-49de)
+- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-4j9n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
