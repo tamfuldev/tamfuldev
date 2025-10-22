@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [BlackRock Quant Interview Guide: Full Breakdown + Tips to Avoid Mistakes](https://dev.to/net_programhelp_e160eef28/blackrock-quant-interview-guide-jk5)
-- [The Best Self-Hosted Web Application Firewalls &lpar;WAFs&rpar; in 2026](https://dev.to/carrie_luo1/the-best-self-hosted-web-application-firewalls-wafs-in-2026-4gnj)
-- [WTF is Virtual Machine Introspection?](https://dev.to/dailybugle33/wtf-is-virtual-machine-introspection-2763)
-- [Polymorphic Relationships Matter &lpar;and My ADHD Agrees&rpar;](https://dev.to/develaper/polymorphic-relationships-matter-and-my-adhd-agrees-236f)
-- [📯Introducing CUGA](https://dev.to/aairom/introducing-cuga-1p3k)
+- [Create systemd unit timers](https://dev.to/agonza05/create-systemd-unit-timers-3ble)
+- [Why Application Performance Monitoring &lpar;APM&rpar; Should Be Your DevOps Priority?](https://dev.to/olivia_madison_b0ad7090ad/why-application-performance-monitoring-apm-should-be-your-devops-priority-51oi)
+- [Ringer Movies: The 10 Best Horror Movies of 2025](https://dev.to/popcorn_movies/ringer-movies-the-10-best-horror-movies-of-2025-2j83)
+- [how i built a remote linux dev environment [homelab series p1]](https://dev.to/ashercarneiro/how-i-built-a-remote-linux-dev-environment-homelab-series-p1-114f)
+- [Ringer Movies: ‘Quiz Show’ With Bill Simmons and Brian Koppelman | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-quiz-show-with-bill-simmons-and-brian-koppelman-the-rewatchables-394p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
