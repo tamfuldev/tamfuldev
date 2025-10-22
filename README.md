@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding: The Rise of AI-First Coding Paradigms](https://dev.to/softwaredeveloper01/vibe-coding-the-rise-of-ai-first-coding-paradigms-4ab8)
-- [TCP Programming in Go: Build Reliable Network Apps with Ease](https://dev.to/jones_charles_ad50858dbc0/tcp-programming-in-go-build-reliable-network-apps-with-ease-2bgb)
-- [Test Plan and Non-Functional Requirements &lpar;NFR&rpar; Document](https://dev.to/loveline/test-plan-and-non-functional-requirements-nfr-document-519j)
-- [Unlocking the Power of Developer Communities: What Reddit Can Teach Us About Collaboration](https://dev.to/mikeover/unlocking-the-power-of-developer-communities-what-reddit-can-teach-us-about-collaboration-1nj5)
-- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_4890a1e6/your-error-handling-is-a-mess-and-its-costing-you--471d)
+- [Adaptive Rank: Personalization That Learns Your Changing Mind by Arvind Sundararajan](https://dev.to/arvind_sundararajan/adaptive-rank-personalization-that-learns-your-changing-mind-by-arvind-sundararajan-1d64)
+- [Linear Programming standard form](https://dev.to/sengseng/linear-programming-standard-form-2hba)
+- [Build Apps with Google AI Studio: Your Calories Companion](https://dev.to/coffeejuseyo/build-apps-with-google-ai-studio-your-calories-companion-mdd)
+- [Passwordless SSH Setup in 5 Minutes](https://dev.to/kingyou/passwordless-ssh-setup-in-5-minutes-212p)
+- [When Claude Agent Says “Sandbox It” — What Does That Really Mean?](https://dev.to/jun_ma_6eded523cd4b29efd2/when-claude-agent-says-sandbox-it-what-does-that-really-mean-bon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
