@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [@Value Annotation in Spring boot](https://dev.to/gaurbprajapati/value-annotation-in-spring-boot-1clf)
-- [Angular Library Linking Made Easy: Paths, Workspaces, and Symlinks](https://dev.to/sumthedeveloperwastaken/angular-library-linking-made-easy-paths-workspaces-and-symlinks-284d)
-- [No Laying Up Podcast: The Wild Life of Joey Ferrari | NLU Pod, Ep 1084](https://dev.to/youtube_golf/no-laying-up-podcast-the-wild-life-of-joey-ferrari-nlu-pod-ep-1084-2oal)
-- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-l7h)
-- [Goliat Dashboard: Mi nueva aventura en la gestión de recursos Cloud](https://dev.to/danieljsaldana/goliat-dashboard-mi-nueva-aventura-en-la-gestion-de-recursos-cloud-27gc)
+- [BlackRock Quant Interview Guide: Full Breakdown + Tips to Avoid Mistakes](https://dev.to/net_programhelp_e160eef28/blackrock-quant-interview-guide-jk5)
+- [The Best Self-Hosted Web Application Firewalls &lpar;WAFs&rpar; in 2026](https://dev.to/carrie_luo1/the-best-self-hosted-web-application-firewalls-wafs-in-2026-4gnj)
+- [WTF is Virtual Machine Introspection?](https://dev.to/dailybugle33/wtf-is-virtual-machine-introspection-2763)
+- [Polymorphic Relationships Matter &lpar;and My ADHD Agrees&rpar;](https://dev.to/develaper/polymorphic-relationships-matter-and-my-adhd-agrees-236f)
+- [📯Introducing CUGA](https://dev.to/aairom/introducing-cuga-1p3k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
