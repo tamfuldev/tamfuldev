@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Leveling Up with Supabase RPC — My “Sell Honey” Transaction Journey](https://dev.to/workfromhome130/leveling-up-with-supabase-rpc-my-sell-honey-transaction-journey-24l0)
-- [Methods and Functions in Java](https://dev.to/masteringbackend/methods-and-functions-in-java-5fo9)
-- [It&#39;s Okay If Your Biggest Hobby Isn&#39;t Coding](https://dev.to/_boweii/its-okay-if-your-biggest-hobby-isnt-coding-4bk2)
-- [Crea tu propio chat con Claude en AWS Bedrock usando AWS CDK &lpar;guía paso a paso para principiantes&rpar;](https://dev.to/chainiz/crea-tu-propio-chat-con-claude-en-aws-bedrock-usando-aws-cdk-guia-paso-a-paso-para-principiantes-20ag)
-- [Understanding Model Evaluation in Lead Scoring: A Practical Walkthrough](https://dev.to/techkene/understanding-model-evaluation-in-lead-scoring-a-practical-walkthrough-14lm)
+- [Vibe Coding: The Rise of AI-First Coding Paradigms](https://dev.to/softwaredeveloper01/vibe-coding-the-rise-of-ai-first-coding-paradigms-4ab8)
+- [TCP Programming in Go: Build Reliable Network Apps with Ease](https://dev.to/jones_charles_ad50858dbc0/tcp-programming-in-go-build-reliable-network-apps-with-ease-2bgb)
+- [Test Plan and Non-Functional Requirements &lpar;NFR&rpar; Document](https://dev.to/loveline/test-plan-and-non-functional-requirements-nfr-document-519j)
+- [Unlocking the Power of Developer Communities: What Reddit Can Teach Us About Collaboration](https://dev.to/mikeover/unlocking-the-power-of-developer-communities-what-reddit-can-teach-us-about-collaboration-1nj5)
+- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_4890a1e6/your-error-handling-is-a-mess-and-its-costing-you--471d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
