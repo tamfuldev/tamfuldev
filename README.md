@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Idea to Action: Building Practical AI Agents on AWS-Chapter-1](https://dev.to/saitejab/from-idea-to-action-building-practical-ai-agents-on-aws-chapter-1-37n)
-- [PostgreSQL: How to Show Tables Using PSQL or SQL Queries](https://dev.to/dbvismarketing/postgresql-how-to-show-tables-using-psql-or-sql-queries-2mni)
-- [Level Up Your Dev Flow with These Tools That Make Coding Fun Again](https://dev.to/badass_tech-ae2025/level-up-your-dev-flow-with-these-tools-that-make-coding-fun-again-1ndg)
-- [🧩 Two Minor UI Glitches I Came Across on DEV 🙂](https://dev.to/usman_awan/two-minor-ui-glitches-i-came-across-on-dev-af2)
-- [Check out the guide on - Tableau for Marketing: Become a Segmentation Sniper](https://dev.to/dipti_moryani_185c244d578/check-out-the-guide-on-tableau-for-marketing-become-a-segmentation-sniper-531g)
+- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-30fe)
+- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-52p8)
+- [TIL: DB constraints for column values in Rails](https://dev.to/epigene/til-db-constraints-for-column-values-in-rails-aoh)
+- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-2g94)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-43f9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
