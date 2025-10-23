@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [LLM evaluation: a quick overview of Stax](https://dev.to/lethargicpanda/llm-evaluation-a-quick-overview-of-stax-51km)
-- [How I Removed Redux Toolkit From My React Native App](https://dev.to/martyroque/how-i-removed-redux-toolkit-from-my-react-native-app-3cjk)
-- [Keep Your AWS S3 Demo Assets Live: Automating Presigned URLs with Node.js](https://dev.to/dzeitman/keep-your-aws-s3-demo-assets-live-automating-presigned-urls-with-nodejs-9b0)
-- [Harmonic RSI — Measuring Logical Resonance and Stability in AI Reasoning](https://dev.to/damjan_akelj_be1aab4a715/harmonic-rsi-measuring-logical-resonance-and-stability-in-ai-reasoning-20l7)
-- [Bubble Sort for Kids: Sorting Made Fun! 🧒✨](https://dev.to/mahmoudessam/bubble-sort-for-kids-sorting-made-fun-3bj2)
+- [Ovi: Twin backbone cross-modal fusion for audio-video generation](https://dev.to/technoblogger14o3/ovi-twin-backbone-cross-modal-fusion-for-audio-video-generation-21ce)
+- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-omi)
+- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-5e5f)
+- [What Is Full-Stack Development? &lpar;A Simple Guide for Beginners&rpar;](https://dev.to/alexpeteray/what-is-full-stack-development-a-simple-guide-for-beginners-2hp0)
+- [Clock circular calculator](https://dev.to/arivero/clock-circular-calculator-54kb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
