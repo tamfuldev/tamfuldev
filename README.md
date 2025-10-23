@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Load testing vs stress testing: How to scale performance practices with confidence](https://dev.to/gatling/load-testing-vs-stress-testing-how-to-scale-performance-practices-with-confidence-1cpl)
-- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-3lkm)
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-41ek)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-2bgo)
-- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-2eko)
+- [FlakyHunter: Revolutionizing How You Detect and Fix Flaky Tests](https://dev.to/n3on/flakyhunter-revolutionizing-how-you-detect-and-fix-flaky-tests-41c9)
+- [RNG-Aliasing: Synthetic DVFS-Driven RNG Obfuscation](https://dev.to/raghubathi_rajatk_6f274/rng-aliasing-synthetic-dvfs-driven-rng-obfuscation-5d58)
+- [Building Digital Sovereignty in the Philippines: Open-Source Solutions for Transparent, Secure Government](https://dev.to/alvinveroy/building-digital-sovereignty-in-the-philippines-open-source-solutions-for-transparent-secure-23c9)
+- [🧩 Testing Feature Support for Modern CSS — The Smart Developer’s Guide](https://dev.to/er-raj-aryan/testing-feature-support-for-modern-css-the-smart-developers-guide-56h4)
+- [**Revolutionizing Entertainment: The Rise of AI-Powered &#39;Dre](https://dev.to/drcarlosruizviquez/revolutionizing-entertainment-the-rise-of-ai-powered-dre-228m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
