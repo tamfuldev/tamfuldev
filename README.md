@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I tried 5 data extraction APIs: Here are the ones worth keeping](https://dev.to/nikolas_dimitroulakis_d23/i-tried-5-data-extraction-apis-here-are-the-ones-worth-keeping-1m4i)
-- [Graceful Shutdown with Kubernetes](https://dev.to/jinghong/graceful-shutdown-with-kubernetes-4bi5)
-- [The Present of Lodash](https://dev.to/benjaminblack/the-present-of-lodash-1ek3)
-- [Open Source Reflections – Hacktoberfest 2025](https://dev.to/mdarifulhaque/open-source-reflections-hacktoberfest-2025-260h)
-- [This Is What Fandom Feels Like](https://dev.to/junothreadborne/this-is-what-fandom-feels-like-4f0)
+- [Load testing vs stress testing: How to scale performance practices with confidence](https://dev.to/gatling/load-testing-vs-stress-testing-how-to-scale-performance-practices-with-confidence-1cpl)
+- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-3lkm)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-41ek)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-2bgo)
+- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-2eko)
 <!-- BLOG-POST-LIST:END -->
 
 ---
