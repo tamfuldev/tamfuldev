@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [We Rebuilt Our Onboarding Around MCP: The Result, 3X SDK Installs](https://dev.to/devcycle/we-rebuilt-our-onboarding-around-mcp-the-result-3x-sdk-installs-1hem)
-- [Building My First Web3 Application: A Journey into Decentralized Message Signing](https://dev.to/kumar111222rohit/building-my-first-web3-application-a-journey-into-decentralized-message-signing-1352)
-- [Music Moodboard Assistant &lpar; Auth0 AI + Spotify &rpar;](https://dev.to/akashb5/music-moodboard-assistant-auth0-ai-spotify--2apm)
-- [Centralizing SVG Handling in Angular Applications](https://dev.to/yshashi30/centralizing-svg-handling-in-angular-applications-1jno)
-- [Speed Up Your Frontend Work: AI-Powered n8n Workflows That Write Code and Save You Time](https://dev.to/yahav10/speed-up-your-frontend-work-ai-powered-n8n-workflows-that-write-code-and-save-you-time-4c7c)
+- [We need to adjust quickie posts to properly not count full URLs for characters. I know Twitter traditionally capped these at 17 chars regardless of length — we&#39;ll want to do something similar along those lines.](https://dev.to/ben/we-need-to-adjust-quickie-posts-to-properly-not-count-full-urls-for-characters-i-know-twitter-j76)
+- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-ie4)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-125n)
+- [Silent Authentication in Next.js](https://dev.to/datarockets/silent-authentication-in-nextjs-55kp)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1a1m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
