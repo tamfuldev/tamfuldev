@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Enterprise-Level Monitoring: From Prometheus to Grafana Dashboards](https://dev.to/cyberscoper/building-enterprise-level-monitoring-from-prometheus-to-grafana-dashboards-3pge)
-- [Next Greater Element &lpar;Right&rpar; using Stack](https://dev.to/we_are_broken_compilers/next-greater-element-right-using-stack-3ngn)
-- [Missing files in your Packer built image? You might be skipping graceful shutdowns](https://dev.to/u11d/missing-files-in-your-packer-built-image-you-might-be-skipping-graceful-shutdowns-4ccj)
-- [Implementing Intersite Connectivity in Azure: Seamless Communication Across Virtual Networks](https://dev.to/sudaisib/implementing-intersite-connectivity-in-azure-seamless-communication-across-virtual-networks-2jhh)
-- [LitmusChaos Community Highlights - September 2025 Recap](https://dev.to/priteshkiri/litmuschaos-community-highlights-september-2025-recap-e0c)
+- [Why Edge-Native MVNOs Are Critical for IoT Success: A Developer’s Perspective](https://dev.to/hassham_1_f5926bd173cb1a5/why-edge-native-mvnos-are-critical-for-iot-success-a-developers-perspective-43fb)
+- [From Beginner to Codex CLI Pro](https://dev.to/andyrewlee/from-beginner-to-codex-cli-pro-4no3)
+- [Developers Spend Just 1% of Coding Time Using VS Code&#39;s Debugger &lpar;11,805 Sessions Analyzed&rpar;](https://dev.to/floustate/developers-spend-just-1-of-coding-time-using-vs-codes-debugger-11805-sessions-analyzed-2b84)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 1 – Heswall GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-5997)
+- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-4k17)
 <!-- BLOG-POST-LIST:END -->
 
 ---
