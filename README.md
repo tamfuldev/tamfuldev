@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-30fe)
-- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-52p8)
-- [TIL: DB constraints for column values in Rails](https://dev.to/epigene/til-db-constraints-for-column-values-in-rails-aoh)
-- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-2g94)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-43f9)
+- [Testing the untestable](https://dev.to/nfrankel/testing-the-untestable-49k4)
+- [Exception Handling in java &lpar;try, catch &amp; finally&rpar;](https://dev.to/masteringbackend/exception-handling-in-java-try-catch-finally-1paa)
+- [🧠 Git Learning — My Structured Handbook for Mastering Git](https://dev.to/kurtpetrola/git-learning-my-structured-handbook-for-mastering-git-2cp5)
+- [Android Accessibility Guidelines: Building Inclusive Apps](https://dev.to/lucy1/android-accessibility-guidelines-building-inclusive-apps-12om)
+- [From Thoughts to Streams: Why Nigeria Needs a Space Beyond Social Media](https://dev.to/oluwoleopeyemi/from-thoughts-to-streams-why-nigeria-needs-a-space-beyond-social-media-7pa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
