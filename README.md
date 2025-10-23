@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ovi: Twin backbone cross-modal fusion for audio-video generation](https://dev.to/technoblogger14o3/ovi-twin-backbone-cross-modal-fusion-for-audio-video-generation-21ce)
-- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-omi)
-- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-5e5f)
-- [What Is Full-Stack Development? &lpar;A Simple Guide for Beginners&rpar;](https://dev.to/alexpeteray/what-is-full-stack-development-a-simple-guide-for-beginners-2hp0)
-- [Clock circular calculator](https://dev.to/arivero/clock-circular-calculator-54kb)
+- [10 Free AI Tools That Saved Me 20 Hours This Week](https://dev.to/avantek/10-free-ai-tools-that-saved-me-20-hours-this-week-1549)
+- [Made a Hacktoberfest 2025 repo](https://dev.to/xaypanya/made-a-hacktoberfest-2025-repo-321f)
+- [React, Git[Hub], and VS Code for Beginners - Video 2](https://dev.to/paxfeline/react-github-and-vs-code-for-beginners-video-2-485g)
+- [React, Git[Hub], and VS Code for Beginners - Video 1](https://dev.to/paxfeline/react-github-and-vs-code-for-beginners-video-1-18h9)
+- [Remember2Pack](https://dev.to/kuljit_aujla/remember2pack-1dk4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
