@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [ERC-8004: Building Trustless Autonomous Agents with TEEs](https://dev.to/caerlower/erc-8004-building-trustless-autonomous-agents-with-tees-3iea)
-- [How Fingerprints Identify You: The Algorithm Beneath the Biometric](https://dev.to/iste-vit/how-fingerprints-identify-you-the-algorithm-beneath-the-biometric-3gg1)
-- [A Usabilidade no Back-End](https://dev.to/dev-araujo/a-usabilidade-no-back-end-12ll)
-- [The Best FREE AI App Builder? FREE Lovable AI Alternative](https://dev.to/proflead/the-best-free-ai-app-builder-free-lovable-ai-alternative-21nm)
-- [Oasis Launches “TEE Break Challenge”, One Bitcoin Bounty for Breaking Their Secure Enclave](https://dev.to/caerlower/oasis-launches-tee-break-challenge-one-bitcoin-bounty-for-breaking-their-secure-enclave-2ea8)
+- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-1fmd)
+- [How I Finally Made TailwindCSS Work Inside the Shadow DOM &lpar;A Real Case Study&rpar;](https://dev.to/dhirajarya01/how-i-finally-made-tailwindcss-work-inside-the-shadow-dom-a-real-case-study-5gkl)
+- [Good people or bad people ?](https://dev.to/grzegorzgrzegorz/good-people-or-bad-people--4h03)
+- [From Excel to a Full-Stack Application: A Low-Code Development Workflow](https://dev.to/canonical/from-excel-to-a-full-stack-application-a-low-code-development-workflow-4b8a)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-37p3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
