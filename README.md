@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-1fmd)
-- [How I Finally Made TailwindCSS Work Inside the Shadow DOM &lpar;A Real Case Study&rpar;](https://dev.to/dhirajarya01/how-i-finally-made-tailwindcss-work-inside-the-shadow-dom-a-real-case-study-5gkl)
-- [Good people or bad people ?](https://dev.to/grzegorzgrzegorz/good-people-or-bad-people--4h03)
-- [From Excel to a Full-Stack Application: A Low-Code Development Workflow](https://dev.to/canonical/from-excel-to-a-full-stack-application-a-low-code-development-workflow-4b8a)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-37p3)
+- [I tried 5 data extraction APIs: Here are the ones worth keeping](https://dev.to/nikolas_dimitroulakis_d23/i-tried-5-data-extraction-apis-here-are-the-ones-worth-keeping-1m4i)
+- [Graceful Shutdown with Kubernetes](https://dev.to/jinghong/graceful-shutdown-with-kubernetes-4bi5)
+- [The Present of Lodash](https://dev.to/benjaminblack/the-present-of-lodash-1ek3)
+- [Open Source Reflections – Hacktoberfest 2025](https://dev.to/mdarifulhaque/open-source-reflections-hacktoberfest-2025-260h)
+- [This Is What Fandom Feels Like](https://dev.to/junothreadborne/this-is-what-fandom-feels-like-4f0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
