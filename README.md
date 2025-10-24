@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Springsteen: Deliver Me From Nowhere’ and the ‘Music Biopic’ Mount Rushmore](https://dev.to/popcorn_movies/ringer-movies-springsteen-deliver-me-from-nowhere-and-the-music-biopic-mount-rushmore-5a5f)
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-bi4)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-4p1i)
-- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-16do)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-3lod)
+- [Shopify POS Extensions: Connecting the Backend Securely](https://dev.to/dchueri/shopify-pos-extensions-connecting-the-backend-securely-5fld)
+- [Advanced Patterns for Symfony HttpClient: Streaming, Retry, and Resilience](https://dev.to/mattleads/advanced-patterns-for-symfony-httpclient-streaming-retry-and-resilience-2dg)
+- [Introducing Solana Instruction MCP — A Game-Changing Tool for Solana Developers](https://dev.to/0xlivian2581919/introducing-solana-instruction-mcp-a-game-changing-tool-for-solana-developers-336e)
+- [👋 Hey DEV community! I&#39;m a Full Stack Developer from Lahore 🇵🇰 with 12+ years in PHP, JS, and WordPress. Currently exploring Python &amp; ML. Excited to share my experiences and learn from you all! 🚀](https://dev.to/muzammildev/hey-dev-community-im-a-full-stack-developer-from-lahore-with-12-years-in-php-js-and-297a)
+- [Shopify POS Extensions: Conectando o Backend com Segurança](https://dev.to/dchueri/shopify-pos-extensions-conectando-o-backend-com-seguranca-2ljm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
