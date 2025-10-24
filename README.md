@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [.NET 9 dropped Swashbuckle — but you can still keep Swagger UI backed by OpenAPI](https://dev.to/imzihad21/net-9-dropped-swashbuckle-but-you-can-still-keep-swagger-ui-backed-by-openapi-50j3)
-- [📰 Major Tech News: Oct 24th, 2025](https://dev.to/om_shree_0709/major-tech-news-oct-24th-2025-4o78)
-- [Protege tu aplicación web On-Premises con AWS WAF: Guía paso a paso](https://dev.to/cbecerra/protege-tu-aplicacion-web-on-premises-con-aws-waf-guia-paso-a-paso-11pj)
-- [Protect Your On-Premises Web Application with AWS WAF: A Step-by-Step Guide](https://dev.to/cbecerra/protect-your-on-premises-web-application-with-aws-waf-a-step-by-step-guide-50om)
-- [DeepSeek-OCR: The New &#39;Black Tech&#39; in AI, How It&#39;s Changing Our Interaction with AI Models?](https://dev.to/baboon/deepseek-ocr-the-new-black-tech-in-ai-how-its-changing-our-interaction-with-ai-models-15mh)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-4e42)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1985)
+- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-5847)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-4g4j)
+- [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-e76)
 <!-- BLOG-POST-LIST:END -->
 
 ---
