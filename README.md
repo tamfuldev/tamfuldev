@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GitScroll I: The Unbroken Line](https://dev.to/flyingrobots/gitscroll-i-the-unbroken-line-5ba0)
-- [Tool Calling dando mãos e olhos aos modelos de linguagem &lpar;LLMs&rpar;](https://dev.to/wandealves/tool-calling-dando-maos-e-olhos-aos-modelos-de-linguagem-llms-275b)
-- [I built TrendScout in 3 days - tracking trends across Reddit, YouTube &amp; Google](https://dev.to/ilja_vandenheuvel_ce67a/i-built-trendscout-in-3-days-tracking-trends-across-reddit-youtube-google-4g1a)
-- [Things to do when bored for kids on a holiday](https://dev.to/hue_thuc_d3821160dbf5e3c1/things-to-do-when-bored-for-kids-on-a-holiday-4pjo)
-- [Things to do when bored for working professionals when you are exercising](https://dev.to/khoa_hanh_4ea7a77cb4d26f5/things-to-do-when-bored-for-working-professionals-when-you-are-exercising-a6d)
+- [Armed police swarm student after AI mistakes bag of Doritos for a weapon](https://dev.to/technoblogger14o3/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-4nfg)
+- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-5h0n)
+- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-41oe)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-1469)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-bni)
 <!-- BLOG-POST-LIST:END -->
 
 ---
