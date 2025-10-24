@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-4e42)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1985)
-- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-5847)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-4g4j)
-- [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-e76)
+- [Document Chat: Open Source AI-Powered Document Management](https://dev.to/nzouat/document-chat-open-source-ai-powered-document-management-5ba7)
+- [My First Time Vibe Coding: A Skeptic&#39;s Journey](https://dev.to/herber/my-first-time-vibe-coding-a-skeptics-journey-30gd)
+- [11 Best Android Development Courses to Learn in 2026](https://dev.to/stack_overflowed/11-best-android-development-courses-to-learn-in-2026-c6h)
+- [Java Architecture](https://dev.to/swetha_palani_1547914a082/java-architecture-174d)
+- [React Native Memory Leaks: How to Find and Fix Your App&#39;s Biggest Performance Issue](https://dev.to/rushilbhuptani/react-native-memory-leaks-how-to-find-and-fix-your-apps-biggest-performance-issue-1pak)
 <!-- BLOG-POST-LIST:END -->
 
 ---
