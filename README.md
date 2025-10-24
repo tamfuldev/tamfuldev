@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Artisan&#39;s Forge: Extending Node.js with the Power of Native Addons](https://dev.to/alex_aslam/the-artisans-forge-extending-nodejs-with-the-power-of-native-addons-5hk1)
-- [Web Design in the AI Era &lpar;2025&rpar;: Trends, Tools &amp; How We Can Help](https://dev.to/badhonaub/web-design-in-the-ai-era-2025-trends-tools-how-we-can-help-102o)
-- [The Artisan&#39;s Pursuit: Conquering the Silent Performance Killer in GraphQL and REST](https://dev.to/alex_aslam/the-artisans-pursuit-conquering-the-silent-performance-killer-in-graphql-and-rest-316m)
-- [If we want to distinguish multiple plots in the same figure in matplotlib, we use the legend function&lpar;&rpar;](https://dev.to/onaolapo11/if-we-want-to-distinguish-multiple-plots-in-the-same-figure-in-matplotlib-we-use-the-legend-98n)
-- [I vibe-coded a 30 chapter book on regex](https://dev.to/davidcanhelp/i-vibe-coded-a-30-chapter-book-on-regex-2l59)
+- [GitScroll I: The Unbroken Line](https://dev.to/flyingrobots/gitscroll-i-the-unbroken-line-5ba0)
+- [Tool Calling dando mãos e olhos aos modelos de linguagem &lpar;LLMs&rpar;](https://dev.to/wandealves/tool-calling-dando-maos-e-olhos-aos-modelos-de-linguagem-llms-275b)
+- [I built TrendScout in 3 days - tracking trends across Reddit, YouTube &amp; Google](https://dev.to/ilja_vandenheuvel_ce67a/i-built-trendscout-in-3-days-tracking-trends-across-reddit-youtube-google-4g1a)
+- [Things to do when bored for kids on a holiday](https://dev.to/hue_thuc_d3821160dbf5e3c1/things-to-do-when-bored-for-kids-on-a-holiday-4pjo)
+- [Things to do when bored for working professionals when you are exercising](https://dev.to/khoa_hanh_4ea7a77cb4d26f5/things-to-do-when-bored-for-working-professionals-when-you-are-exercising-a6d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
