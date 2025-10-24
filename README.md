@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a One-Time Payment Link and Secure Webhook Integration with Stripe](https://dev.to/canhamzacode/how-to-create-a-one-time-payment-link-and-secure-webhook-integration-with-stripe-2l4d)
-- [Inside AWS&#39;s outage - and What it teaches Developers.](https://dev.to/shimork/inside-awss-outage-and-what-it-teaches-developers-3h8a)
-- [If I Had to Learn JavaScript Again: The Real Journey From 2017 to Today](https://dev.to/elvissautet/if-i-had-to-learn-javascript-again-the-real-journey-from-2017-to-today-28fg)
-- [Protege tu dominio con DNSSEC en Amazon Route 53: Guía paso a paso](https://dev.to/cbecerra/protege-tu-dominio-con-dnssec-en-amazon-route-53-guia-paso-a-paso-2ah5)
-- [Secure Your Domain with DNSSEC in Amazon Route 53: A Step-by-Step Guide](https://dev.to/cbecerra/secure-your-domain-with-dnssec-in-amazon-route-53-a-step-by-step-guide-566o)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-3pce)
+- [Day 1258 : Street Clothes](https://dev.to/dwane/day-1258-street-clothes-1kna)
+- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-m7n)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-5c5)
+- [Security news weekly round-up - 24th October 2025](https://dev.to/ziizium/security-news-weekly-round-up-24th-october-2025-24i1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
