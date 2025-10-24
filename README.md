@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Longest Substring Without Repeating Characters](https://dev.to/gurpreet_d921f9fff6fa7442/longest-substring-without-repeating-characters-306o)
-- [Evolução da linguagem Java &lpar;parte 5&rpar;](https://dev.to/cesarpaulomp/evolucao-da-linguagem-java-parte-5-5cl2)
-- [PaddleOCR VL + RAG: Revolutionize Complex Data Extraction &lpar;Open-Source&rpar;](https://dev.to/gaodalie_ai/paddleocr-vl-rag-revolutionize-complex-data-extraction-open-source-lja)
-- [Gang of Three: Pragmatic Operations Design Patterns](https://dev.to/rosesecurity/gang-of-three-pragmatic-operations-design-patterns-a40)
-- [Open Source Reflections: Hacktoberfest 2025](https://dev.to/dipika_vamankantappapoo/open-source-reflections-hacktoberfest-2025-5b3n)
+- [The Cost of Clarity: Building Libraries For Artists](https://dev.to/bekalah/the-cost-of-clarity-building-libraries-for-artists-50g3)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-54h9)
+- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-2ob6)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-1ihc)
+- [Detect Linux Server Intrusions](https://dev.to/tshenolo/detect-linux-server-intrusions-4f3f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
