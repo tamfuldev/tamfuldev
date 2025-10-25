@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [ASP .NET Core Bootstrap Toast](https://dev.to/karenpayneoregon/asp-net-core-bootstrap-toast-1k5j)
-- [Fun, simple, NOT scalable background worker based on Django Cache](https://dev.to/climentea/fun-simple-not-scalable-background-worker-based-on-django-cache-7f5)
-- [Modern JavaScript Concurrency - 2025 Edition](https://dev.to/gkoos/modern-javascript-concurrency-2025-edition-h84)
-- [New in Vue - October 2025](https://dev.to/aloisseckar/new-in-vue-october-2025-6i7)
-- [Learning to Code like Crafting in an MMORPG](https://dev.to/skriptmonkey/learning-to-code-like-crafting-in-an-mmorpg-1ckl)
+- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_25c2e834/your-error-handling-is-a-mess-and-its-costing-you--4ep0)
+- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-3ana)
+- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_875c0744/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-3n2g)
+- [Trying to start using graphql and psql using pytthon to start a website](https://dev.to/vatsalya_rabari_2ad492f38/trying-to-start-using-graphql-and-psql-using-pytthon-to-start-a-website-32in)
+- [How I Performance Optimised My Next.js App](https://dev.to/rumendimov/how-i-performance-optimised-my-nextjs-app-3d56)
 <!-- BLOG-POST-LIST:END -->
 
 ---
