@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 1 – Heswall GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-1jf3)
-- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-3gj)
-- [Simple build and run NodeJS application on AWS &lpar;Lambda&rpar; using Architect &lpar;arc.codes&rpar;](https://dev.to/nefedov-dm/simple-build-and-run-nodejs-application-on-aws-lambda-using-architect-arccodes-3568)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-18ph)
-- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-396d)
+- [Your Own Workflow Engine in C#: Designing Flexible E-Shop Systems](https://dev.to/auyeungdavid_2847435260/your-own-workflow-engine-in-c-designing-flexible-e-shop-systems-2n1c)
+- [Hacktoberfest 2025: A Journey Through Multiple Perspectives](https://dev.to/mcruvinel/hacktoberfest-2025-a-journey-through-multiple-perspectives-51l6)
+- [📰 Major Tech News: Oct 25th, 2025](https://dev.to/om_shree_0709/major-tech-news-oct-25th-2025-3pc2)
+- [3 مسیر ورود به اقتصاد خالقان محتوا](https://dev.to/dorify/3-msyr-wrwd-bh-qtsd-khlqn-mhtw-2b0o)
+- [Accelerating Cloud App Development: Render&#39;s Implementation of the Model Context Protocol &lpar;MCP&rpar;](https://dev.to/om_shree_0709/accelerating-cloud-app-development-renders-implementation-of-the-model-context-protocol-mcp-2bdo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
