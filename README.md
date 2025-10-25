@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Game Dev Assets Supercharged My Workflow — and Why Low-Poly 3D Packs Are a Game Changer](https://dev.to/ahmedamirdev/how-game-dev-assets-supercharged-my-workflow-and-why-low-poly-3d-packs-are-a-game-changer-341o)
-- [Code That Writes Itself](https://dev.to/rawveg/code-that-writes-itself-3pbc)
-- [10 Essential AI Prompts Every SEO Needs to Master](https://dev.to/natepatel/10-essential-ai-prompts-every-seo-needs-to-master-bpn)
-- [Top 10 SaaS Development Companies in 2025](https://dev.to/technource/top-10-saas-development-companies-in-2025-4153)
-- [🚀 Optimizing Meta Data Retrieval with ThingsDB 1.7.6](https://dev.to/joente/optimizing-meta-data-retrieval-with-thingsdb-176-205k)
+- [NPR Music: Tyshawn Sorey’s powerful sounds of silence | Amplify with Lara Downes](https://dev.to/music_youtube/npr-music-tyshawn-soreys-powerful-sounds-of-silence-amplify-with-lara-downes-1lf8)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 1 – Heswall GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-h3c)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-356a)
+- [Retries](https://dev.to/faangmaster/retries-1ep2)
+- [Snap &amp; Splat: Turn Everyday Objects into 3D Models with Your Phone](https://dev.to/arvind_sundararajan/snap-splat-turn-everyday-objects-into-3d-models-with-your-phone-246i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
