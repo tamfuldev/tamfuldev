@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_25c2e834/your-error-handling-is-a-mess-and-its-costing-you--4ep0)
-- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-3ana)
-- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_875c0744/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-3n2g)
-- [Trying to start using graphql and psql using pytthon to start a website](https://dev.to/vatsalya_rabari_2ad492f38/trying-to-start-using-graphql-and-psql-using-pytthon-to-start-a-website-32in)
-- [How I Performance Optimised My Next.js App](https://dev.to/rumendimov/how-i-performance-optimised-my-nextjs-app-3d56)
+- [I built a tool to stop writing custom copilot configs from scratch](https://dev.to/joshthedevguy/i-built-a-tool-to-stop-writing-custom-copilot-from-scratch-1c6j)
+- [i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions](https://dev.to/member_25c2e834/i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions-4abo)
+- [Files-are-Not-Just-Data-A-Guide-to-Robust-File-Handling](https://dev.to/member_3bfe2e68/files-are-not-just-data-a-guide-to-robust-file-handling-5f30)
+- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_083ff294/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-14ld)
+- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_875c0744/your-projects-a-mess-its-not-you-its-your-frameworks-fault-3oeg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
