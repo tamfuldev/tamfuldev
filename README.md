@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [NPR Music: Tyshawn Sorey’s powerful sounds of silence | Amplify with Lara Downes](https://dev.to/music_youtube/npr-music-tyshawn-soreys-powerful-sounds-of-silence-amplify-with-lara-downes-1lf8)
-- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 1 – Heswall GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-h3c)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-356a)
-- [Retries](https://dev.to/faangmaster/retries-1ep2)
-- [Snap &amp; Splat: Turn Everyday Objects into 3D Models with Your Phone](https://dev.to/arvind_sundararajan/snap-splat-turn-everyday-objects-into-3d-models-with-your-phone-246i)
+- [De &quot;Faça uma Casa&quot; a um Blueprint Perfeito: 5 Maneiras de Extrair Requisitos Claros de Stakeholders Indecisos](https://dev.to/dev-sigo/de-faca-uma-casa-a-um-blueprint-perfeito-5-maneiras-de-extrair-requisitos-claros-de-stakeholders-1c2b)
+- [Perl Weekly Challenge: 344](https://dev.to/vinodk89/perl-weekly-challenge-344-1god)
+- [Span και Memory](https://dev.to/__b63657/span-kai-memory-181c)
+- [Unlocking free WiFi on British Airways](https://dev.to/technoblogger14o3/unlocking-free-wifi-on-british-airways-28e)
+- [Securely Deleting Data on Linux: rm, shred, blkdiscard, and hdparm Secure Erase Explained](https://dev.to/lovestaco/securely-deleting-data-on-linux-rm-shred-blkdiscard-and-hdparm-secure-erase-explained-3ofi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
