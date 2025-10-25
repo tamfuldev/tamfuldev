@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My journey to Go](https://dev.to/ruxozheng/my-journey-to-go-2ji2)
-- [Unleashing the Power of Collaboration: How to Harness the Right Tools for Developer Teams](https://dev.to/mikeover/unleashing-the-power-of-collaboration-how-to-harness-the-right-tools-for-developer-teams-224f)
-- [an introduction to Dask](https://dev.to/sengseng/an-introduction-to-dask-4kgi)
-- [New in BC 2024 Wave 2: Production Scrap Report for Manufacturing Teams](https://dev.to/jeffreybulanadi/new-in-bc-2024-wave-2-production-scrap-report-for-manufacturing-teams-2h5h)
-- [Microscopic Vision: AI Unlocks the Secrets of Surface Quality by Arvind Sundararajan](https://dev.to/arvind_sundararajan/microscopic-vision-ai-unlocks-the-secrets-of-surface-quality-by-arvind-sundararajan-19al)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 1 – Heswall GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-1jf3)
+- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-3gj)
+- [Simple build and run NodeJS application on AWS &lpar;Lambda&rpar; using Architect &lpar;arc.codes&rpar;](https://dev.to/nefedov-dm/simple-build-and-run-nodejs-application-on-aws-lambda-using-architect-arccodes-3568)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-18ph)
+- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-396d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
