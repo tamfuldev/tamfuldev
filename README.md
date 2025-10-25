@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GDG on Campus, Graphic Era Dehradun](https://dev.to/gdg-geu/gdg-on-campus-graphic-era-dehradun-570j)
-- [How to fix Ubuntu 24.04 NVIDIA RTX 4050 graphics driver issue in ASUS TUF A15](https://dev.to/shaikhalamin/how-to-fix-ubuntu-2404-nvidia-4050-graphics-driver-issue-in-asus-tuf-a15-34ic)
-- [Container Networking Demystified: A Deep Dive into Linux Network Namespaces](https://dev.to/ajinkya_singh_2c02bd40423/container-networking-demystified-a-deep-dive-into-linux-network-namespaces-3gll)
-- [🐍 Mastering Python Logging: A Beginner&#39;s Guide](https://dev.to/codeneuron/mastering-python-logging-a-beginners-guide-5bai)
-- [💬 Talkdo — Talk to Your Tasks, Right from Your Terminal](https://dev.to/vision2030/talkdo-talk-to-your-tasks-right-from-your-terminal-1cip)
+- [I’ve Just Launched a DNS Server in 🦀 Rust!](https://dev.to/eduardobaginskicosta/ive-just-launched-a-dns-server-in-rust-1989)
+- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-iko)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-2jd)
+- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-2k3g)
+- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-1m3a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
