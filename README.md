@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Free Developer Growth Masterclass &lpar;Yes, Really!&rpar;](https://dev.to/tlorent/free-developer-growth-masterclass-yes-really-1a65)
-- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-44a4)
-- [Security-is-Not-a-Feature-Its-a-Foundation](https://dev.to/member_25c2e834/security-is-not-a-feature-its-a-foundation-4h4d)
-- [That-Real-Time-Headache-Its-Not-The-WebSockets-Its-Your-Framework](https://dev.to/member_ece4a271/that-real-time-headache-its-not-the-websockets-its-your-framework-35ah)
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-11im)
+- [Ship Small, Learn Big—Staged Rollouts Strengthen Your Product](https://dev.to/tom-takeru/ship-small-learn-big-staged-rollouts-strengthen-your-product-4ip9)
+- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_ece4a271/your-error-handling-is-a-mess-and-its-costing-you--bk5)
+- [How to Integrate MTN Mobile Money in PHP - Complete Guide](https://dev.to/lepresk/how-to-integrate-mtn-mobile-money-in-php-complete-guide-j81)
+- [SmartSpend - Agentic Expense Management with Auth0 FGA](https://dev.to/thedreamsaver/smartspend-agentic-expense-management-with-auth0-fga-4ejf)
+- [The First AI-Powered URL Shortener - Shrinkify](https://dev.to/jordan_t/the-first-ai-powered-url-shortener-shrinkify-mah)
 <!-- BLOG-POST-LIST:END -->
 
 ---
