@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_3bfe2e68/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-29b8)
-- [Presento GozoLite — un Code Executor modular que ejecuta 29 lenguajes reales, hecho por TotyLabs](https://dev.to/darkbyte01/presento-gozolite-un-code-executor-modular-que-ejecuta-29-lenguajes-reales-hecho-por-totylabs-2amd)
-- [Post 2 — Contribution Chronicles](https://dev.to/p_thabiwa_0ca34c2f83/post-2-contribution-chronicles-3ago)
-- [Maintainer Spotlight: BINFLOW — Proof-of-Leverage for the Time-Labeled Web &lpar;Web4&rpar;](https://dev.to/p_thabiwa_0ca34c2f83/maintainer-spotlight-binflow-proof-of-leverage-for-the-time-labeled-web-web4-1a9n)
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-1k48)
+- [Day 8: Common Table Expressions &lpar;CTEs&rpar; and WITH Clause](https://dev.to/hardik_kanajariya/day-8-common-table-expressions-ctes-and-with-clause-2pa6)
+- [The Journey Before main&lpar;&rpar;](https://dev.to/technoblogger14o3/the-journey-before-main-58jm)
+- [PulseGrid: The Living Data Center](https://dev.to/p_thabiwa_0ca34c2f83/pulsegrid-the-living-data-center-3n93)
+- [Daily Artificial Intelligence Digest - Oct 26, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-oct-26-2025-jk0)
+- [LLMZ25-1 Review : Streamlit La Herramienta Perfecta para Interfaces de Proyectos LLM](https://dev.to/jesus_oviedoriquelme_084/llmz25-1-review-streamlit-la-herramienta-perfecta-para-interfaces-de-proyectos-llm-4j76)
 <!-- BLOG-POST-LIST:END -->
 
 ---
