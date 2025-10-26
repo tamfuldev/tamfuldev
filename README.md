@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built a tool to stop writing custom copilot configs from scratch](https://dev.to/joshthedevguy/i-built-a-tool-to-stop-writing-custom-copilot-from-scratch-1c6j)
-- [i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions](https://dev.to/member_25c2e834/i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions-4abo)
-- [Files-are-Not-Just-Data-A-Guide-to-Robust-File-Handling](https://dev.to/member_3bfe2e68/files-are-not-just-data-a-guide-to-robust-file-handling-5f30)
-- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_083ff294/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-14ld)
-- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_875c0744/your-projects-a-mess-its-not-you-its-your-frameworks-fault-3oeg)
+- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_3bfe2e68/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-29b8)
+- [Presento GozoLite — un Code Executor modular que ejecuta 29 lenguajes reales, hecho por TotyLabs](https://dev.to/darkbyte01/presento-gozolite-un-code-executor-modular-que-ejecuta-29-lenguajes-reales-hecho-por-totylabs-2amd)
+- [Post 2 — Contribution Chronicles](https://dev.to/p_thabiwa_0ca34c2f83/post-2-contribution-chronicles-3ago)
+- [Maintainer Spotlight: BINFLOW — Proof-of-Leverage for the Time-Labeled Web &lpar;Web4&rpar;](https://dev.to/p_thabiwa_0ca34c2f83/maintainer-spotlight-binflow-proof-of-leverage-for-the-time-labeled-web-web4-1a9n)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-1k48)
 <!-- BLOG-POST-LIST:END -->
 
 ---
