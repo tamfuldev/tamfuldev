@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 8: Common Table Expressions &lpar;CTEs&rpar; and WITH Clause](https://dev.to/hardik_kanajariya/day-8-common-table-expressions-ctes-and-with-clause-2pa6)
-- [The Journey Before main&lpar;&rpar;](https://dev.to/technoblogger14o3/the-journey-before-main-58jm)
-- [PulseGrid: The Living Data Center](https://dev.to/p_thabiwa_0ca34c2f83/pulsegrid-the-living-data-center-3n93)
-- [Daily Artificial Intelligence Digest - Oct 26, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-oct-26-2025-jk0)
-- [LLMZ25-1 Review : Streamlit La Herramienta Perfecta para Interfaces de Proyectos LLM](https://dev.to/jesus_oviedoriquelme_084/llmz25-1-review-streamlit-la-herramienta-perfecta-para-interfaces-de-proyectos-llm-4j76)
+- [Framer Motion + Tailwind: The 2025 Animation Stack](https://dev.to/manukumar07/framer-motion-tailwind-the-2025-animation-stack-1801)
+- [That-Real-Time-Headache-Its-Not-The-WebSockets-Its-Your-Framework](https://dev.to/member_25c2e834/that-real-time-headache-its-not-the-websockets-its-your-framework-lle)
+- [FlowML — Time-Labeled Programming for Machine Learning](https://dev.to/p_thabiwa_0ca34c2f83/flowml-time-labeled-programming-for-machine-learning-4l8n)
+- [EchoVerse: The Self-Generating Universe](https://dev.to/p_thabiwa_0ca34c2f83/echoverse-the-self-generating-universe-34j)
+- [EchoVerse: The Self-Generating Universe](https://dev.to/p_thabiwa_0ca34c2f83/echoverse-the-self-generating-universe-18en)
 <!-- BLOG-POST-LIST:END -->
 
 ---
