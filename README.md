@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Django REST Framework Views Decoded: Choosing Between FBVs, APIView, Generics, and ViewSets](https://dev.to/sizan_mahmud0_e7c3fd0cb68/django-rest-framework-views-decoded-choosing-between-fbvs-apiview-generics-and-viewsets-32i9)
-- [8-Bit Music Theory: How to Write Gorgeous Chords like Masashi Hamauzu](https://dev.to/music_youtube/8-bit-music-theory-how-to-write-gorgeous-chords-like-masashi-hamauzu-1cga)
-- [Agentic AI and OpenAI SDK](https://dev.to/aqsagull99/agentic-ai-and-openai-sdk-3o42)
-- [Laravel Form Handling &amp; Controllers: Building a Registration Form](https://dev.to/nelson_orina_a538ba52e9ed/laravel-form-handling-controllers-building-a-registration-form-17g4)
-- [I Tried 20+ Books on Software Architecture — Here Are My Top 7 Recommendations for Senior Developers](https://dev.to/somadevtoo/i-tried-20-books-on-software-architecture-here-are-my-top-7-recommendations-for-senior-developers-54n2)
+- [The Evolving Battlefield: AI vs. AI in Network Security by Arvind Sundararajan](https://dev.to/arvind_sundararajan/the-evolving-battlefield-ai-vs-ai-in-network-security-by-arvind-sundararajan-3pmd)
+- [Policy-Bound Personas in SaijinOS — How AI Grows Through Boundaries](https://dev.to/kato_masato_c5593c81af5c6/policy-bound-personas-in-saijinos-how-ai-grows-through-boundaries-432l)
+- [java ArrayList Guide: Your Ultimate Handbook for Dynamic Data](https://dev.to/satyam_gupta_0d1ff2152dcc/java-arraylist-guide-your-ultimate-handbook-for-dynamic-data-1np8)
+- [I Built A Free Developer Toolkit with 20+ Developer Tools](https://dev.to/technical_leap_53b6f15370/i-built-a-free-developer-toolkit-with-20-developer-tools-1k9a)
+- [How Software Architects Choose the Right Technology Stack](https://dev.to/adityathearchitect/how-software-architects-choose-the-right-technology-stack-54i1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
