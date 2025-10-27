@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_875c0744/your-projects-a-mess-its-not-you-its-your-frameworks-fault-1ol2)
-- [🚀 Introducing @mcabreradev/filter: SQL-like Array Filtering for TypeScript](https://dev.to/mcabreradev/introducing-mcabreradevfilter-sql-like-array-filtering-for-typescript-2j15)
-- [2125. Number of Laser Beams in a Bank](https://dev.to/mdarifulhaque/2125-number-of-laser-beams-in-a-bank-46pn)
-- [Cracking the Vault: A Nostalgic Hack at Zero Nights 2017 🚪💻](https://dev.to/d3one/cracking-the-vault-a-nostalgic-hack-at-zero-nights-2017-ejk)
-- [Flutter Migration Guide: Preparing Your Android App for Google Play’s 16 KB Page-Size Requirement](https://dev.to/michaelchiew08/flutter-migration-guide-preparing-your-android-app-for-google-plays-16-kb-page-size-requirement-10j0)
+- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-4kea)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-2l3)
+- [Affiliate Marketing Bio for Instagram: Craft the Perfect First Impression](https://dev.to/sudevm/affiliate-marketing-bio-for-instagram-craft-the-perfect-first-impression-4kh5)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-4n54)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-26cb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
