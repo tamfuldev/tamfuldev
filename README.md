@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Problem-Solving in Software Engineering](https://dev.to/epklein/problem-solving-in-software-engineering-3il9)
-- [Just a mom](https://dev.to/karrie_bundyhahn_1c06b/just-a-mom-178d)
-- [Manga Studio x MindFly — End-to-End Simulation](https://dev.to/p_thabiwa_0ca34c2f83/manga-studio-x-mindfly-end-to-end-simulation-33j9)
-- [String in Python &lpar;3&rpar;](https://dev.to/hyperkai/string-in-python-3-oe2)
-- [Finding Vulnerabilities on EC2 Instances Using AWS Inspector](https://dev.to/harshhp/finding-vulnerabilities-on-ec2-instances-using-aws-inspector-1940)
+- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_875c0744/your-projects-a-mess-its-not-you-its-your-frameworks-fault-1ol2)
+- [🚀 Introducing @mcabreradev/filter: SQL-like Array Filtering for TypeScript](https://dev.to/mcabreradev/introducing-mcabreradevfilter-sql-like-array-filtering-for-typescript-2j15)
+- [2125. Number of Laser Beams in a Bank](https://dev.to/mdarifulhaque/2125-number-of-laser-beams-in-a-bank-46pn)
+- [Cracking the Vault: A Nostalgic Hack at Zero Nights 2017 🚪💻](https://dev.to/d3one/cracking-the-vault-a-nostalgic-hack-at-zero-nights-2017-ejk)
+- [Flutter Migration Guide: Preparing Your Android App for Google Play’s 16 KB Page-Size Requirement](https://dev.to/michaelchiew08/flutter-migration-guide-preparing-your-android-app-for-google-plays-16-kb-page-size-requirement-10j0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
