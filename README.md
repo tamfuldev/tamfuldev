@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Most Dangerous Problem With Using AI for Coding](https://dev.to/canro91/the-most-dangerous-problem-with-using-ai-for-coding-m3l)
-- [Introducing LinuxCommandHub: Your Free Guide to Linux Mastery](https://dev.to/bdoftech/introducing-linuxcommandhub-your-free-guide-to-linux-mastery-42j0)
-- [Vibing with Side Projects.](https://dev.to/surajfale/vibing-with-side-projects-507c)
-- [Real-Time Blockchain Analytics Dashboard for Dynex Holder Incentive Program](https://dev.to/logicencoder/real-time-blockchain-analytics-dashboard-for-dynex-holder-incentive-program-487h)
-- [Complete Guide: Automating Deployment with GitHub Webhooks, Nginx, and Shell Scripts](https://dev.to/udara_dananjaya/complete-guide-automating-deployment-with-github-webhooks-nginx-and-shell-scripts-gp0)
+- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-209)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-4ed9)
+- [ESG Copilot](https://dev.to/omkar598/esg-copilot-17fn)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-17em)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-34ln)
 <!-- BLOG-POST-LIST:END -->
 
 ---
