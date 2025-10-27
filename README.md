@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [They grow up so fast: donating your open source project to a foundation &lpar;or: the CloudNativePG story&rpar;](https://dev.to/floord/they-grow-up-so-fast-donating-your-open-source-project-to-a-foundation-or-the-cloudnativepg-1999)
-- [How to Build a Portfolio as a Fresher Developer](https://dev.to/iteyonikservices/how-to-build-a-portfolio-as-a-fresher-developer-41do)
-- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_25c2e834/your-error-handling-is-a-mess-and-its-costing-you--obk)
-- [What iOS Devs Need to Know About FairPlay Streaming SDK 26](https://dev.to/arshtechpro/what-ios-devs-need-to-know-about-fairplay-streaming-sdk-26-4l60)
-- [[Boost]](https://dev.to/martinpersson/-13kd)
+- [How to Optimize Mobile Apps for Performance and Battery Life](https://dev.to/lacey_glenn_e95da24922778/how-to-optimize-mobile-apps-for-performance-and-battery-life-14hk)
+- [React Suspense - Me too I can throw Promises if I want...](https://dev.to/isaaacdotdev/react-suspense-me-too-i-can-throw-promises-if-i-want-p1h)
+- [A quiet rewrite of the Web: PureScript on the rooftops of JavaScript](https://dev.to/0x1/a-quiet-rewrite-of-the-web-purescript-on-the-rooftops-of-javascript-c61)
+- [Create Animated Borders Using Only CSS.](https://dev.to/bittokks/create-animated-borders-using-only-css-3id3)
+- [MongoDB Vector Search With EF Core](https://dev.to/mongodb/mongodb-vector-search-with-ef-core-3dbh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
