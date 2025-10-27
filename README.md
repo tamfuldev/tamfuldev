@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ship Small, Learn Big—Staged Rollouts Strengthen Your Product](https://dev.to/tom-takeru/ship-small-learn-big-staged-rollouts-strengthen-your-product-4ip9)
-- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_ece4a271/your-error-handling-is-a-mess-and-its-costing-you--bk5)
-- [How to Integrate MTN Mobile Money in PHP - Complete Guide](https://dev.to/lepresk/how-to-integrate-mtn-mobile-money-in-php-complete-guide-j81)
-- [SmartSpend - Agentic Expense Management with Auth0 FGA](https://dev.to/thedreamsaver/smartspend-agentic-expense-management-with-auth0-fga-4ejf)
-- [The First AI-Powered URL Shortener - Shrinkify](https://dev.to/jordan_t/the-first-ai-powered-url-shortener-shrinkify-mah)
+- [How to Build a Spam Detector with ML and Python](https://dev.to/hew/how-to-build-a-spam-detector-with-ml-and-python-3b5p)
+- [Learning on the Job: An Experience-Driven Self-Evolving Agent for Long-HorizonTasks](https://dev.to/paperium/learning-on-the-job-an-experience-driven-self-evolving-agent-for-long-horizontasks-38j3)
+- [PROJECT TITLE: BlueFlow — MindsEye Device Automation Protocol &lpar;MDAP&rpar;](https://dev.to/p_thabiwa_0ca34c2f83/project-title-blueflow-mindseye-device-automation-protocol-mdap-1dom)
+- [That-Real-Time-Headache-Its-Not-The-WebSockets-Its-Your-Framework](https://dev.to/member_ece4a271/that-real-time-headache-its-not-the-websockets-its-your-framework-2ha5)
+- [Fixing the BouncingBall “trail” background bug](https://dev.to/oleksandrakordonets/fixing-the-bouncingball-trail-background-bug-4p9f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
