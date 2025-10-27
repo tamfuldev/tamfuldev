@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Spam Detector with ML and Python](https://dev.to/hew/how-to-build-a-spam-detector-with-ml-and-python-3b5p)
-- [Learning on the Job: An Experience-Driven Self-Evolving Agent for Long-HorizonTasks](https://dev.to/paperium/learning-on-the-job-an-experience-driven-self-evolving-agent-for-long-horizontasks-38j3)
-- [PROJECT TITLE: BlueFlow — MindsEye Device Automation Protocol &lpar;MDAP&rpar;](https://dev.to/p_thabiwa_0ca34c2f83/project-title-blueflow-mindseye-device-automation-protocol-mdap-1dom)
-- [That-Real-Time-Headache-Its-Not-The-WebSockets-Its-Your-Framework](https://dev.to/member_ece4a271/that-real-time-headache-its-not-the-websockets-its-your-framework-2ha5)
-- [Fixing the BouncingBall “trail” background bug](https://dev.to/oleksandrakordonets/fixing-the-bouncingball-trail-background-bug-4p9f)
+- [Problem-Solving in Software Engineering](https://dev.to/epklein/problem-solving-in-software-engineering-3il9)
+- [Just a mom](https://dev.to/karrie_bundyhahn_1c06b/just-a-mom-178d)
+- [Manga Studio x MindFly — End-to-End Simulation](https://dev.to/p_thabiwa_0ca34c2f83/manga-studio-x-mindfly-end-to-end-simulation-33j9)
+- [String in Python &lpar;3&rpar;](https://dev.to/hyperkai/string-in-python-3-oe2)
+- [Finding Vulnerabilities on EC2 Instances Using AWS Inspector](https://dev.to/harshhp/finding-vulnerabilities-on-ec2-instances-using-aws-inspector-1940)
 <!-- BLOG-POST-LIST:END -->
 
 ---
