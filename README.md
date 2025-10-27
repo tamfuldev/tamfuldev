@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Optimize Mobile Apps for Performance and Battery Life](https://dev.to/lacey_glenn_e95da24922778/how-to-optimize-mobile-apps-for-performance-and-battery-life-14hk)
-- [React Suspense - Me too I can throw Promises if I want...](https://dev.to/isaaacdotdev/react-suspense-me-too-i-can-throw-promises-if-i-want-p1h)
-- [A quiet rewrite of the Web: PureScript on the rooftops of JavaScript](https://dev.to/0x1/a-quiet-rewrite-of-the-web-purescript-on-the-rooftops-of-javascript-c61)
-- [Create Animated Borders Using Only CSS.](https://dev.to/bittokks/create-animated-borders-using-only-css-3id3)
-- [MongoDB Vector Search With EF Core](https://dev.to/mongodb/mongodb-vector-search-with-ef-core-3dbh)
+- [What are your goals for the week? #150.](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-150-4119)
+- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-54lo)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-p37)
+- [🔐 JWT Tokens with Cookies and Redis/in-Memory in One Line — The Magic of auth-verify](https://dev.to/jahongir2007/jwt-tokens-with-cookies-and-redisin-memory-in-one-line-the-magic-of-auth-verify-4di0)
+- [From DevOps to Data Ethics: Why Every Engineer Needs GDPR Training](https://dev.to/mehwish_malik_4f29ff7fb04/from-devops-to-data-ethics-why-every-engineer-needs-gdpr-training-3g0b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
