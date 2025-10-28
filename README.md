@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Code Smell 312 - Too Many Asserts](https://dev.to/mcsee/code-smell-312-too-many-asserts-1lej)
-- [What is Laravel Telescope?](https://dev.to/ethanleetech/what-is-laravel-telescope-2iaf)
-- [The Digital Detox Trend: What Developers Can Learn from Slowing Down Through Tarcutta Tourist Activities](https://dev.to/amelia_brown04/the-digital-detox-trend-what-developers-can-learn-from-slowing-down-through-tarcutta-tourist-259k)
-- [Step-by-Step Guide to Configure OneLogin for SSO in BoldSign](https://dev.to/boldsign/step-by-step-guide-to-configure-onelogin-for-sso-in-boldsign-e62)
-- [Is Your CI/CD Pipeline a Security Risk? &lpar;And How to Fix It!&rpar;](https://dev.to/karthik_n/is-your-cicd-pipeline-a-security-risk-and-how-to-fix-it-57in)
+- [Dreamdolls AI Review, Pricing, Features](https://dev.to/dreamdolls/dreamdolls-ai-review-pricing-features-524m)
+- [What Happened to Web3 in Gaming](https://dev.to/evgeniipark/what-happened-to-web3-in-gaming-g5)
+- [Samsung Dev Day 2025](https://dev.to/marina_barber_9643b71d8a/samsung-dev-day-2025-411b)
+- [Rick Shiels Golf: Our Best Golf Challenge EVER](https://dev.to/youtube_golf/rick-shiels-golf-our-best-golf-challenge-ever-27ng)
+- [Organoid Intelligence &lpar;OI&rpar;: The Rise of Living Computers](https://dev.to/hariharan_r_3f8ef882cbb35/organoid-intelligence-oi-the-rise-of-living-computers-10jn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
