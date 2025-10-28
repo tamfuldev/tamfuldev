@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Marketing 101: Funnels, Campaigns, and What Marketing Actually Means](https://dev.to/mattstratton/marketing-101-funnels-campaigns-and-what-marketing-actually-means-4j81)
-- [Ringer Movies: ‘A House of Dynamite’ Is Ready to Explode](https://dev.to/popcorn_movies/ringer-movies-a-house-of-dynamite-is-ready-to-explode-i56)
-- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-38l6)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-ee0)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-4ghg)
+- [From Maintainer to Contributor - Building, Collaborating, and Reflecting this Hacktoberfest 🌿](https://dev.to/eccentriccoder01/from-maintainer-to-contributor-building-collaborating-and-reflecting-this-hacktoberfest-2oih)
+- [Por qué los desarrolladores que pasan a tech lead fracasan…](https://dev.to/bezael/por-que-los-desarrolladores-que-pasan-a-tech-lead-fracasan-305k)
+- [Beat Me If You Can](https://dev.to/liquidcode/beat-me-if-you-can-12mo)
+- [🚫 Divs Are Not Buttons , Here’s Why &lpar;and How to Fix It&rpar;](https://dev.to/homayunmmdy/divs-are-not-buttons-heres-why-and-how-to-fix-it-48lh)
+- [[Boost]](https://dev.to/deftoexplore/-3gb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
