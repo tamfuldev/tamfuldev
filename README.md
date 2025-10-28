@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🔐 Understanding SSH &lpar;Secure Shell&rpar;: The Secret Tunnel of the Internet](https://dev.to/natarajan_c_k/understanding-ssh-secure-shell-the-secret-tunnel-of-the-internet-4kff)
-- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_ece4a271/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-4nd8)
-- [New --remote feature in the Repopal](https://dev.to/whyang9701/new-remote-feature-in-the-repopal-49jc)
-- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-29g7)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-17cm)
+- [Revolutionize Content Creation: HeyDream&#39;s Free AI Image to Video Generator Powered by Seedance 1.0](https://dev.to/heydream_im/revolutionize-content-creation-heydreams-free-ai-image-to-video-generator-powered-by-seedance-10-18be)
+- [OSD600: Lab 6 — Repomix&#39;s token count tree feature and its prototyping in Rust](https://dev.to/david_rivera_8d845b35931e/osd600-lab-6-repomixs-token-count-tree-feature-and-its-prototyping-in-rust-2a2m)
+- [From Dashboards to Decisions: Building Scalable Self-Service BI for Real Impact](https://dev.to/laxmivanam/from-dashboards-to-decisions-building-scalable-self-service-bi-for-real-impact-a27)
+- [Convert Excel to SVG in Java: A Comprehensive Guide](https://dev.to/lu_liu_e3fc806354d9a952b7/convert-excel-to-svg-in-java-a-comprehensive-guide-41m1)
+- [Secure by Design in the Age of GenAI: How Devs Must Shift Their Software Security Practices in 2025](https://dev.to/ihonchar/secure-by-design-in-the-age-of-genai-how-devs-must-shift-their-software-security-practices-in-2025-1c96)
 <!-- BLOG-POST-LIST:END -->
 
 ---
