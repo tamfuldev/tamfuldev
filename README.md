@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [PNG to BMP: Understanding Legacy Format Conversion for Windows Development](https://dev.to/hardik_b2d8f0bca/png-to-bmp-understanding-legacy-format-conversion-for-windows-development-cjp)
-- [This article explores how KPIT Technologies collaborated with a design agency to revamp their digital identity using UX strategy, design thinking, and 3D animation powered by Three.js.](https://dev.to/kunj1234/this-article-explores-how-kpit-technologies-collaborated-with-a-design-agency-to-revamp-their-2mm1)
-- [Finding the Best Platform to Learn Swift in 2025 — A Developer’s Take](https://dev.to/dev_loops/finding-the-best-platform-to-learn-swift-in-2025-a-developers-take-2mf7)
-- [Stop Searching, Start Listening: Finding Clients Through Conversation Intelligence](https://dev.to/nexy/stop-searching-start-listening-finding-clients-through-conversation-intelligence-4npb)
-- [🔍 Introduction to Background Tasks in HarmonyOS Next](https://dev.to/harmonyos/introduction-to-background-tasks-in-harmonyos-next-5hnl)
+- [[Tutorial] WhatsApp Order AI Agent](https://dev.to/necatiozmen/tutorial-whatsapp-order-ai-agent-3kph)
+- [From Chaos to Clarity: How We Made Workday Data 70% Faster to Retrieve — Without Breaking Its APIs](https://dev.to/genesis_technologies/from-chaos-to-clarity-how-we-made-workday-data-70-faster-to-retrieve-without-breaking-its-apis-48h2)
+- [Ringer Movies: ‘A House of Dynamite’ Is Ready to Explode](https://dev.to/popcorn_movies/ringer-movies-a-house-of-dynamite-is-ready-to-explode-43g9)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-2odc)
+- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-1ln8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
