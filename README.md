@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why developers are leaving Next.js for TanStack Start, and loving it](https://dev.to/tessamero/why-developers-are-leaving-nextjs-for-tanstack-start-and-loving-it-459a)
-- [Remote Development Team Building Software for Remote Locations](https://dev.to/richardsandown/remote-development-team-building-software-for-remote-locations-3d45)
-- [Looking Beyond Cline? Here&#39;s The 7 Best Cline Alternatives to Check Out!](https://dev.to/matt_tanner_f9c36595644ad/looking-beyond-cline-heres-the-7-best-cline-alternatives-to-check-out-43a1)
-- [APIs, Agility, and Edge: Inside the Rise of Product-First Telcos](https://dev.to/rishabhsharma123/apis-agility-and-edge-inside-the-rise-of-product-first-telcos-40a)
-- [Beyond `{firstName}`: Engineering a Scalable B2B Personalization Engine](https://dev.to/michaelaiglobal/beyond-firstname-engineering-a-scalable-b2b-personalization-engine-3h1d)
+- [Kustomization Tutorial](https://dev.to/nahla_thabet_54e011e4cb76/kustomization-tutorial-4m32)
+- [Fixing Type Hints for Callable Objects with Custom Signatures in Dagster](https://dev.to/jongwan93/fixing-type-hints-for-callable-objects-with-custom-signatures-in-dagster-3j73)
+- [No todo código se compila: notas sobre conciencia, tecnología y supervivencia digital](https://dev.to/bernarduriza/no-todo-codigo-se-compila-notas-sobre-conciencia-tecnologia-y-supervivencia-digital-85e)
+- [Your AI won’t save to your desktop—until you teach it how: a senior guide to the Model Context Protocol in Claude Desktop](https://dev.to/onlineproxy/your-ai-wont-save-to-your-desktop-until-you-teach-it-how-a-senior-guide-to-the-model-context-27lj)
+- [Coding Challenge Practice - Question 39](https://dev.to/tomivan/coding-challenge-practice-question-39-44og)
 <!-- BLOG-POST-LIST:END -->
 
 ---
