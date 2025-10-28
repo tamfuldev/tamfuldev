@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Kustomization Tutorial](https://dev.to/nahla_thabet_54e011e4cb76/kustomization-tutorial-4m32)
-- [Fixing Type Hints for Callable Objects with Custom Signatures in Dagster](https://dev.to/jongwan93/fixing-type-hints-for-callable-objects-with-custom-signatures-in-dagster-3j73)
-- [No todo código se compila: notas sobre conciencia, tecnología y supervivencia digital](https://dev.to/bernarduriza/no-todo-codigo-se-compila-notas-sobre-conciencia-tecnologia-y-supervivencia-digital-85e)
-- [Your AI won’t save to your desktop—until you teach it how: a senior guide to the Model Context Protocol in Claude Desktop](https://dev.to/onlineproxy/your-ai-wont-save-to-your-desktop-until-you-teach-it-how-a-senior-guide-to-the-model-context-27lj)
-- [Coding Challenge Practice - Question 39](https://dev.to/tomivan/coding-challenge-practice-question-39-44og)
+- [Building a Scalable AWS Multi-Account Environment with Control Tower, Terraform AFT, and SCP Guardrails](https://dev.to/santanu_das/building-a-scalable-aws-multi-account-environment-with-control-tower-terraform-aft-and-scp-2kf8)
+- [MCUboot: Firmware Application Image Format](https://dev.to/ripan030/mcuboot-firmware-application-image-format-3084)
+- [CloudFront and AWS global accelerator](https://dev.to/jumptotech/cloudfront-and-aws-global-accelerator-48fl)
+- [Before You Learn Closures, Understand Context](https://dev.to/elfaidighassen/before-you-learn-closures-understand-context-gfd)
+- [Classic solutions architecture discussions](https://dev.to/jumptotech/classic-solutions-architecture-discussions-15bb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
