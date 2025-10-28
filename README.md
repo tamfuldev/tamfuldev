@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-4pli)
-- [Stop writing authorization code for your FHIR-based app](https://dev.to/health_samurai/stop-writing-authorization-code-for-your-fhir-based-app-3flo)
-- [Ringer Movies: ‘A House of Dynamite’ Is Ready to Explode](https://dev.to/popcorn_movies/ringer-movies-a-house-of-dynamite-is-ready-to-explode-6ca)
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-4i72)
-- [Building an Enterprise DAL: Automated Auditing for Data Integrity](https://dev.to/gigaherz/building-an-enterprise-dal-automated-auditing-for-data-integrity-1oj9)
+- [Why We Moved API Authentication from the Gateway to Our Microservices](https://dev.to/tchekda/why-we-moved-api-authentication-from-the-gateway-to-our-microservices-d4n)
+- [FastiQuran: Ketika Kesederhanaan Bertemu Tujuan](https://dev.to/cas8398/fastiquran-ketika-kesederhanaan-bertemu-tujuan-292)
+- [Your Integration Layer is Probably Over-Engineered &lpar;Let&#39;s Fix It with Camel DSL&rpar;](https://dev.to/joojodontoh/your-integration-layer-is-probably-over-engineered-lets-fix-it-with-camel-dsl-35m2)
+- [Using NVIDIA NeMo Agent Toolkit to improve data sync processes](https://dev.to/asiryi/using-nvidia-nemo-agent-toolkit-to-improve-data-sync-processes-2f1l)
+- [We built for 10x scale before we had 1,000 users](https://dev.to/isaacrubey/we-built-for-10x-scale-before-we-had-1000-users-1e51)
 <!-- BLOG-POST-LIST:END -->
 
 ---
