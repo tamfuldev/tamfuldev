@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why We Moved API Authentication from the Gateway to Our Microservices](https://dev.to/tchekda/why-we-moved-api-authentication-from-the-gateway-to-our-microservices-d4n)
-- [FastiQuran: Ketika Kesederhanaan Bertemu Tujuan](https://dev.to/cas8398/fastiquran-ketika-kesederhanaan-bertemu-tujuan-292)
-- [Your Integration Layer is Probably Over-Engineered &lpar;Let&#39;s Fix It with Camel DSL&rpar;](https://dev.to/joojodontoh/your-integration-layer-is-probably-over-engineered-lets-fix-it-with-camel-dsl-35m2)
-- [Using NVIDIA NeMo Agent Toolkit to improve data sync processes](https://dev.to/asiryi/using-nvidia-nemo-agent-toolkit-to-improve-data-sync-processes-2f1l)
-- [We built for 10x scale before we had 1,000 users](https://dev.to/isaacrubey/we-built-for-10x-scale-before-we-had-1000-users-1e51)
+- [Marketing 101: Funnels, Campaigns, and What Marketing Actually Means](https://dev.to/mattstratton/marketing-101-funnels-campaigns-and-what-marketing-actually-means-4j81)
+- [Ringer Movies: ‘A House of Dynamite’ Is Ready to Explode](https://dev.to/popcorn_movies/ringer-movies-a-house-of-dynamite-is-ready-to-explode-i56)
+- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-38l6)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-ee0)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-4ghg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
