@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Tune Your C# AI Model for Maximum Efficiency: A Step-by-Step Guide](https://dev.to/lofcz/how-to-tune-your-c-ai-model-for-maximum-efficiency-a-step-by-step-guide-1pmo)
-- [Criando seu primeiro site na AWS com EC2 e UseData](https://dev.to/sinngjpeg/criando-seu-primeiro-site-na-aws-com-ec2-e-dados-de-usuario-55j)
-- [Semgrep Newsletter | 30, 300, 3000, MCP, and Gartner](https://dev.to/semgrep/semgrep-newsletter-30-300-3000-mcp-and-gartner-1548)
-- [Entendendo o Amazon EC2](https://dev.to/sinngjpeg/entendendo-o-amazon-ec2-2460)
-- [Configurando um Budget na AWS: Como evitar sustos na fatura do seu laboratório na nuvem](https://dev.to/sinngjpeg/configurando-um-budget-na-aws-como-evitar-sustos-na-fatura-do-seu-laboratorio-na-nuvem-12fo)
+- [Why I Built lrok — A Simple, Free Tunneling Service with Custom Subdomains](https://dev.to/ethank/why-i-built-lrok-a-simple-free-tunneling-service-with-custom-subdomains-10ld)
+- [3 Easy Ways to Protect WordPress Media Files](https://dev.to/medha_bhatt_21b7dc4cc53e7/3-easy-ways-to-protect-wordpress-media-files-2daa)
+- [Self-paced Learning End-to-End Testing with Claude AI](https://dev.to/cathylai/self-paced-learning-end-to-end-testing-with-claude-ai-1c31)
+- [What “Work on Yourself” Means to Me as a Founder](https://dev.to/jaideepparashar/what-work-on-yourself-means-to-me-as-a-founder-5hno)
+- [Day 11: Functions, Procedures, and Control Flow](https://dev.to/hardik_kanajariya/day-11-functions-procedures-and-control-flow-59m5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
