@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [HactoberFest&#39;s Week 3: Fixing a Type-Casting Issue in Kestra’s Chunk Pebble Filter](https://dev.to/hsachdeva9/hactoberfests-week-3-fixing-a-type-casting-issue-in-kestras-chunk-pebble-filter-124f)
-- [Quantum Circuits: Can AI Design Better Entanglement Networks? by Arvind Sundararajan](https://dev.to/arvind_sundararajan/quantum-circuits-can-ai-design-better-entanglement-networks-by-arvind-sundararajan-4nao)
-- [The Hidden Costs of Common AI SDKs in 2025: What Developers Need to Know](https://dev.to/lofcz/the-hidden-costs-of-common-ai-sdks-in-2025-what-developers-need-to-know-4b0)
-- [Building a Production Kubernetes Cluster for $15/Month In Four Days](https://dev.to/araldhafeeri/building-a-production-kubernetes-cluster-for-15month-in-four-days-5ehf)
-- [How to onboard engineers 10x faster](https://dev.to/gentos/how-to-onboard-engineers-faster-306g)
+- [How to Tune Your C# AI Model for Maximum Efficiency: A Step-by-Step Guide](https://dev.to/lofcz/how-to-tune-your-c-ai-model-for-maximum-efficiency-a-step-by-step-guide-1pmo)
+- [Criando seu primeiro site na AWS com EC2 e UseData](https://dev.to/sinngjpeg/criando-seu-primeiro-site-na-aws-com-ec2-e-dados-de-usuario-55j)
+- [Semgrep Newsletter | 30, 300, 3000, MCP, and Gartner](https://dev.to/semgrep/semgrep-newsletter-30-300-3000-mcp-and-gartner-1548)
+- [Entendendo o Amazon EC2](https://dev.to/sinngjpeg/entendendo-o-amazon-ec2-2460)
+- [Configurando um Budget na AWS: Como evitar sustos na fatura do seu laboratório na nuvem](https://dev.to/sinngjpeg/configurando-um-budget-na-aws-como-evitar-sustos-na-fatura-do-seu-laboratorio-na-nuvem-12fo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
