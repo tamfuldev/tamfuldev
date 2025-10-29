@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Frontend Portfolio - 5 Projects Journey](https://dev.to/quiklydev/my-frontend-portfolio-5-projects-journey-b5b)
-- [Code Review Best Practices: When &lpar;and When Not&rpar; to Use &quot;Request Changes&quot;](https://dev.to/garaujodev/code-review-best-practices-when-and-when-not-to-use-request-changes-p04)
-- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-5dp1)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-2774)
-- [Agile Seaway: Το Scrum μέσα από τη Θάλασσα](https://dev.to/__b63657/agile-seaway-to-scrum-mesa-apo-te-thalassa-4dlo)
+- [Creación de un entorno de pruebas para frontend: React, TypeScript y Vitest ⚛️](https://dev.to/duxtech/creacion-de-un-entorno-de-pruebas-para-frontend-react-typescript-y-vitest-42mg)
+- [Looking for a Patner](https://dev.to/roman_60d27e756c682fc5272/looking-for-a-patner-43fj)
+- [Rethinking Security Resilience And Getting Back To Basics At CornCon 11](https://dev.to/gitguardian/rethinking-security-resilience-and-getting-back-to-basics-at-corncon-11-4lec)
+- [EuroLLM: LLM made in Europe built to support all 24 official EU languages](https://dev.to/technoblogger14o3/eurollm-llm-made-in-europe-built-to-support-all-24-official-eu-languages-4fcj)
+- [9 Useful Open Source Projects to Simplify Your Life as a Developer 🧑‍💻⚡️](https://dev.to/madza/9-useful-open-source-projects-to-simplify-your-life-as-a-developer-1111)
 <!-- BLOG-POST-LIST:END -->
 
 ---
