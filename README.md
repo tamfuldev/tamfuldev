@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Real-Time Data Streaming Pipeline on AWS](https://dev.to/sushanta_paudel/building-a-real-time-data-streaming-pipeline-on-aws-i3n)
-- [Exploring Istio Ambient Mode: Understanding the Role of Istio-CNI](https://dev.to/danielrive/exploring-istio-ambient-mode-understanding-the-role-of-istio-cni-4del)
-- [C++ Linked List Tutorial for Beginners: Concepts, Examples &amp; Logic Explained](https://dev.to/manas_ranjan/c-linked-list-tutorial-for-beginners-concepts-examples-logic-explained-4a5n)
-- [How to Convert Static PDF to Dynamic HTML with Python](https://dev.to/allen_yang_f905170c5a197b/how-to-convert-static-pdf-to-dynamic-html-with-python-55i2)
-- [Claude Code is a Beast – Tips from 6 Months of Hardcore Use](https://dev.to/diet-code103/claude-code-is-a-beast-tips-from-6-months-of-hardcore-use-572n)
+- [Gathering User Requirements Through Prototyping: Why It Works](https://dev.to/yusdirman/gathering-user-requirements-through-prototyping-why-it-works-2go8)
+- [Why You Should Use 310,000+ Iterations with PBKDF2 in 2025](https://dev.to/securebitchat/why-you-should-use-310000-iterations-with-pbkdf2-in-2025-3o1e)
+- [Part 1: The Classic Order Services on Your Hands](https://dev.to/yisusvii_crt_5e9a4aec07da/part-1-the-classic-order-services-on-your-hands-3iml)
+- [Welcome Thread - v349](https://dev.to/devteam/welcome-thread-v349-446k)
+- [The Patchbay Principle: How Audio Engineering Taught Me to Code](https://dev.to/calebstein1/the-patchbay-principle-how-audio-engineering-taught-me-to-code-1haf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
