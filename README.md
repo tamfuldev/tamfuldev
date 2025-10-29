@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Built lrok — A Simple, Free Tunneling Service with Custom Subdomains](https://dev.to/ethank/why-i-built-lrok-a-simple-free-tunneling-service-with-custom-subdomains-10ld)
-- [3 Easy Ways to Protect WordPress Media Files](https://dev.to/medha_bhatt_21b7dc4cc53e7/3-easy-ways-to-protect-wordpress-media-files-2daa)
-- [Self-paced Learning End-to-End Testing with Claude AI](https://dev.to/cathylai/self-paced-learning-end-to-end-testing-with-claude-ai-1c31)
-- [What “Work on Yourself” Means to Me as a Founder](https://dev.to/jaideepparashar/what-work-on-yourself-means-to-me-as-a-founder-5hno)
-- [Day 11: Functions, Procedures, and Control Flow](https://dev.to/hardik_kanajariya/day-11-functions-procedures-and-control-flow-59m5)
+- [Building a Real-Time Data Streaming Pipeline on AWS](https://dev.to/sushanta_paudel/building-a-real-time-data-streaming-pipeline-on-aws-i3n)
+- [Exploring Istio Ambient Mode: Understanding the Role of Istio-CNI](https://dev.to/danielrive/exploring-istio-ambient-mode-understanding-the-role-of-istio-cni-4del)
+- [C++ Linked List Tutorial for Beginners: Concepts, Examples &amp; Logic Explained](https://dev.to/manas_ranjan/c-linked-list-tutorial-for-beginners-concepts-examples-logic-explained-4a5n)
+- [How to Convert Static PDF to Dynamic HTML with Python](https://dev.to/allen_yang_f905170c5a197b/how-to-convert-static-pdf-to-dynamic-html-with-python-55i2)
+- [Claude Code is a Beast – Tips from 6 Months of Hardcore Use](https://dev.to/diet-code103/claude-code-is-a-beast-tips-from-6-months-of-hardcore-use-572n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
