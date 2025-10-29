@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling Hidden Patterns: Understanding Exploratory Factor Analysis in R](https://dev.to/dipti_moryani_9137d0a2e44/unveiling-hidden-patterns-understanding-exploratory-factor-analysis-in-r-1m37)
-- [Why JWT login breaks in WooCommerce — and how to fix it cleanly](https://dev.to/maysker/why-jwt-login-breaks-in-woocommerce-and-how-to-fix-it-cleanly-5m2)
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-534o)
-- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-4lm0)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-4h3d)
+- [On-Prem Test Intra Tools: The Complete Guide to Self-Hosted Testing Platforms](https://dev.to/jamescantor38/on-prem-test-intra-tools-the-complete-guide-to-self-hosted-testing-platforms-11np)
+- [easy-query: A Modern, Type-Safe ORM for Java That Actually Makes Sense](https://dev.to/dev-jack/easy-query-a-modern-type-safe-orm-for-java-that-actually-makes-sense-19n8)
+- [One of the most underrated skills to stand out as a coder:](https://dev.to/canro91/one-of-the-most-underrated-skills-to-stand-out-as-a-coder-2gkp)
+- [🚀 Introducing the ChatGPT Connection from Gadget](https://dev.to/gadget/introducing-the-chatgpt-connection-from-gadget-12no)
+- [CVE-2022-22947: VMware Spring Cloud Gateway Code Injection Vulnerability](https://dev.to/freedom-coder/cve-2022-22947-vmware-spring-cloud-gateway-code-injection-vulnerability-47f4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
