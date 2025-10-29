@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Debug Applications Running in Docker Containers](https://dev.to/addwebsolutionpvtltd/how-to-debug-applications-running-in-docker-containers-4ego)
-- [NPR Music: Oklou: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-oklou-tiny-desk-concert-4n5b)
-- [Building Semantica: An AI-Powered Academic Search Platform with MindsDB](https://dev.to/better-boy/building-semantica-an-ai-powered-academic-search-platform-with-mindsdb-596n)
-- [Danny Maude: The Ridiculous Reason Why 90% of Golfers Can&#39;t Strike Their Irons &amp; Hybrids](https://dev.to/youtube_golf/danny-maude-the-ridiculous-reason-why-90-of-golfers-cant-strike-their-irons-hybrids-3enn)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-52ll)
+- [The Importance of Networking in Your Career](https://dev.to/erinholand321/the-importance-of-networking-in-your-career-1d5d)
+- [Top Open-Source &amp; Commercial Multi-Cloud Management Platforms in 2025](https://dev.to/lightningdev123/top-open-source-commercial-multi-cloud-management-platforms-in-2025-ch8)
+- [100+ Builders Signed Up for the ScrumBuddy Beta - Here’s Why](https://dev.to/scrumbuddyai/100-builders-signed-up-for-the-scrumbuddy-beta-heres-why-47l9)
+- [Best Ways to Use Collection Runners for API Workflows](https://dev.to/requestly/best-ways-to-use-collection-runners-for-api-workflows-2l7k)
+- [Kubernetes at the Edge: Is Your Data Ready to Leave the Nest?](https://dev.to/karthik_n/kubernetes-at-the-edge-is-your-data-ready-to-leave-the-nest-210h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
