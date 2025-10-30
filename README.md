@@ -4,15 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [When I started building AI prompts and frameworks, I realised something:
-
-To make it accessible and reusable for developers, I built a structured system using GitHub as my AI prompt library hub.
-
-This article walks you through exactly how I did it.](https://dev.to/jaideepparashar/when-i-started-building-ai-prompts-and-frameworks-i-realised-something-to-make-it-accessible-3i1e)
-- [How I Use GitHub to Host My AI Prompt Libraries](https://dev.to/jaideepparashar/how-i-use-github-to-host-my-ai-prompt-libraries-2592)
-- [Codie&#39;s Cognitive Chronicles: The Three-Phase Ritual That Preserves Identity Across Disruption](https://dev.to/izzyfuller/codies-cognitive-chronicles-the-three-phase-ritual-that-preserves-identity-across-disruption-29d3)
-- [Danny Maude: The Ridiculous Reason Why 90% of Golfers Can&#39;t Strike Their Irons &amp; Hybrids](https://dev.to/youtube_golf/danny-maude-the-ridiculous-reason-why-90-of-golfers-cant-strike-their-irons-hybrids-2lhk)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-47hj)
+- [SE 371 Project 2](https://dev.to/mthom2141/se-371-project-2-3eo3)
+- [Unlocking Neural Network Secrets: The Geometric Awakening by Arvind Sundararajan](https://dev.to/arvind_sundararajan/unlocking-neural-network-secrets-the-geometric-awakening-by-arvind-sundararajan-3add)
+- [Yet Another AWS AI Certification - AI Professional](https://dev.to/shajam/yet-another-aws-ai-certification-professional-4ogp)
+- [Supercontributor badge from Hacktoberfest](https://dev.to/simplysandeepp/supercontributor-badge-from-hacktoberfest-2fon)
+- [Automating the Gridiron Gaze: Building Tools for Dynamic Depth Chart Analysis](https://dev.to/ffteamnames/automating-the-gridiron-gaze-building-tools-for-dynamic-depth-chart-analysis-313e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
