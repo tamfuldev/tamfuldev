@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 One-Liner Laravel + Vue.js Setup: Skip the Boilerplate, Start Coding!](https://dev.to/theweelab/one-liner-laravel-vuejs-setup-skip-the-boilerplate-start-coding-938)
-- [Asciidoc over Markdown](https://dev.to/nfrankel/asciidoc-over-markdown-4eam)
-- [MUI Search - Smart, Flexible Search for Modern React Apps](https://dev.to/boilerplate/mui-search-smart-flexible-search-for-modern-react-apps-36ba)
-- [🔥 .𝗡𝗘𝗧 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 𝘃𝘀 .𝗡𝗘𝗧 𝗖𝗼𝗿𝗲 — 𝗞𝗲𝘆 𝗗𝗶𝗳𝗳𝗲𝗿𝗲𝗻𝗰𝗲𝘀 𝗘𝘅𝗽𝗹𝗮𝗶𝗻𝗲𝗱](https://dev.to/supraja_tangella_b7f0738e/--461a)
-- [AI Recipe Generator: Turn Food Photos into Instant Recipes with AI 🍳✨](https://dev.to/nithiin7/ai-recipe-generator-turn-food-photos-into-instant-recipes-with-ai-1aib)
+- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-52j)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-1mo)
+- [The Hidden Risks of &quot;Secure by Default&quot;: Why Security Contexts in Kubernetes Matter](https://dev.to/anderson_leite/the-hidden-risks-of-secure-by-default-why-security-contexts-in-kubernetes-matter-5429)
+- [Data type in Java](https://dev.to/selvakumar_r_4bac08f5eaa6/data-type-in-java-41d2)
+- [OSPP Project Outcome: Supporting Flink Engine CDC Source Schema Evolution](https://dev.to/seatunnel/ospp-project-outcome-supporting-flink-engine-cdc-source-schema-evolution-3knm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
