@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up GitOps with Flux on a Kubernetes Cluster](https://dev.to/shankar_t/setting-up-gitops-with-flux-on-a-kubernetes-cluster-5d8l)
-- [10 Claude Skills that actually changed how I work &lpar;no fluff&rpar;](https://dev.to/varshith_krishna_f772000d/10-claude-skills-that-actually-changed-how-i-work-no-fluff-3ein)
-- [Diagnosing layer sensitivity during post training quantization](https://dev.to/embedl-hub/diagnosing-layer-sensitivity-during-post-training-quantization-115g)
-- [Η Σημασία του README σε Ένα Πρότζεκτ .NET](https://dev.to/__b63657/e-semasia-tou-readme-se-ena-protzekt-net-10kb)
-- [Final Sprint: Just 1 Day Left!](https://dev.to/havilahacademy/final-sprint-just-1-day-left-36np)
+- [Bitcoin at a Crossroads: Can the $108K Support Hold?](https://dev.to/alexnav/bitcoin-at-a-crossroads-can-the-108k-support-hold-9l)
+- [Danny Maude: The Ridiculous Reason Why 90% of Golfers Can&#39;t Strike Their Irons &amp; Hybrids](https://dev.to/youtube_golf/danny-maude-the-ridiculous-reason-why-90-of-golfers-cant-strike-their-irons-hybrids-1pbg)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-8dd)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1dm3)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-2cib)
 <!-- BLOG-POST-LIST:END -->
 
 ---
