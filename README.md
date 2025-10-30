@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Αρχιτεκτονική Ανάλυση του MySchool System: Από Μονολιθική Προσέγγιση σε Microservices](https://dev.to/__b63657/arkhitektonike-analuse-tou-myschool-system-apo-monolithike-proseggise-se-microservices-33cf)
-- [Leveling with cluster analysis in Python](https://dev.to/hilton_fernandes_eaac26ab/leveling-with-cluster-analysis-in-python-400p)
-- [I Built my own UI Library on Top of shadcn/ui](https://dev.to/akshaywritescode/i-built-my-own-ui-library-on-top-of-shadcnui-2d05)
-- [The data lakehouse evolution](https://dev.to/apachedoris/the-data-lakehouse-evolution-3a7e)
-- [Built AI Agents That Think Like Geopolitical Masters at FinceptTerminal](https://dev.to/rudra_sheth_aeda76ad708e0/built-ai-agents-that-think-like-geopolitical-masters-at-finceptterminal-2kj5)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-1l0h)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-4965)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2kn2)
+- [Instant4D: 4D Gaussian Splatting in Minutes](https://dev.to/paperium/instant4d-4d-gaussian-splatting-in-minutes-4ep8)
+- [Is This the Final Stage of AI? My Journey Toward Building a Digital Mind](https://dev.to/shravani_86c94d4b283541f3/is-this-the-final-stage-of-ai-my-journey-toward-building-a-digital-mind-5642)
 <!-- BLOG-POST-LIST:END -->
 
 ---
