@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-52j)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-1mo)
-- [The Hidden Risks of &quot;Secure by Default&quot;: Why Security Contexts in Kubernetes Matter](https://dev.to/anderson_leite/the-hidden-risks-of-secure-by-default-why-security-contexts-in-kubernetes-matter-5429)
-- [Data type in Java](https://dev.to/selvakumar_r_4bac08f5eaa6/data-type-in-java-41d2)
-- [OSPP Project Outcome: Supporting Flink Engine CDC Source Schema Evolution](https://dev.to/seatunnel/ospp-project-outcome-supporting-flink-engine-cdc-source-schema-evolution-3knm)
+- [Setting Up GitOps with Flux on a Kubernetes Cluster](https://dev.to/shankar_t/setting-up-gitops-with-flux-on-a-kubernetes-cluster-5d8l)
+- [10 Claude Skills that actually changed how I work &lpar;no fluff&rpar;](https://dev.to/varshith_krishna_f772000d/10-claude-skills-that-actually-changed-how-i-work-no-fluff-3ein)
+- [Diagnosing layer sensitivity during post training quantization](https://dev.to/embedl-hub/diagnosing-layer-sensitivity-during-post-training-quantization-115g)
+- [Η Σημασία του README σε Ένα Πρότζεκτ .NET](https://dev.to/__b63657/e-semasia-tou-readme-se-ena-protzekt-net-10kb)
+- [Final Sprint: Just 1 Day Left!](https://dev.to/havilahacademy/final-sprint-just-1-day-left-36np)
 <!-- BLOG-POST-LIST:END -->
 
 ---
