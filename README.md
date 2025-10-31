@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Shiels Golf: Our Best Golf Challenge EVER](https://dev.to/youtube_golf/rick-shiels-golf-our-best-golf-challenge-ever-277e)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-ej2)
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-kem)
-- [Ringer Movies: Is &#39;Bugonia&#39; A Best Picture Contender?](https://dev.to/popcorn_movies/ringer-movies-is-bugonia-a-best-picture-contender-4j2)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-44nd)
+- [New Feature Alert: Cost Tracker](https://dev.to/cloudwiseteam/new-feature-alert-cost-tracker-1370)
+- [Returning HTTP 404 Responses Instead of 403 for Unauthorised Access](https://dev.to/ashallendesign/returning-http-404-responses-instead-of-403-for-unauthorised-access-22ba)
+- [PET Scan Price in Delhi – Affordable and Transparent](https://dev.to/molecularit_13f33107d8ad1/pet-scan-price-in-delhi-affordable-and-transparent-2f86)
+- [Check this Xlorin AI 🤖](https://dev.to/we-the-developers/check-this-xlorin-ai-1pck)
+- [Modern C# Development: Target-Typed `new`](https://dev.to/lovelacecoding/modern-c-development-target-typed-new-468k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
