@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Find and Fix Broken Links: The Complete Guide 2025](https://dev.to/paul_molyanov/how-to-find-and-fix-broken-links-the-complete-guide-2025-591p)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-495g)
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-g4h)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-3360)
-- [Free Developer Growth Masterclass &lpar;Yes, Really!&rpar;](https://dev.to/tlorent/free-developer-growth-masterclass-yes-really-4ehk)
+- [Understanding the Cow&lt;T&gt;: Copy on Write](https://dev.to/masteringbackend/understanding-the-cow-copy-on-write-3km7)
+- [Hacktoberfest PR: Cleaning Up Code](https://dev.to/aubreyddd/hacktoberfest-pr-cleaning-up-code-44d3)
+- [Exhaustive Guide to Generative and Predictive AI in AppSec](https://dev.to/lynxfelony1/exhaustive-guide-to-generative-and-predictive-ai-in-appsec-f4)
+- [How to Add Dark Mode to Your Website Using Tailwind and JavaScript](https://dev.to/aqib_lala_58b9b4e0c90ca6c/how-to-add-dark-mode-to-your-website-using-tailwind-and-javascript-275a)
+- [WTF is Circuit Breaker Pattern?](https://dev.to/dailybugle33/wtf-is-circuit-breaker-pattern-2pii)
 <!-- BLOG-POST-LIST:END -->
 
 ---
