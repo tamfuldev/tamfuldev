@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: Live Tour Update from Norway](https://dev.to/music_youtube/rick-beato-live-tour-update-from-norway-2oho)
-- [Introducing Caelus](https://dev.to/rhannequin/introducing-caelus-569h)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1f4o)
-- [How Does React&#39;s useEffect Really Work?](https://dev.to/ctrix/how-does-reacts-useeffect-really-work-4dph)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-2bfg)
+- [The Developer’s Focus Problem: Why Your To-Do App Is Failing You &lpar;and What Actually Works&rpar;](https://dev.to/johannesjo/the-developers-focus-problem-why-your-to-do-app-is-failing-you-and-what-actually-works-go0)
+- [Προσθήκη Fluent Validator step by step](https://dev.to/__b63657/prostheke-fluent-validator-step-by-step-1pg7)
+- [Creating a Maintenance Page using a Cloudflare Worker](https://dev.to/madsstoumann/creating-a-maintenance-page-using-a-cloudflare-worker-8m6)
+- [7 AI Study Workflows Developers Use to Learn Faster &lpar;Prompt Recipes Included&rpar;](https://dev.to/jamespatterson25/7-ai-study-workflows-developers-use-to-learn-faster-prompt-recipes-included-3goj)
+- [Never Forget a Thing: Building AI Agents with Hybrid Memory Using Strands Agents](https://dev.to/aws/never-forget-a-thing-building-ai-agents-with-hybrid-memory-using-strands-agents-2g66)
 <!-- BLOG-POST-LIST:END -->
 
 ---
