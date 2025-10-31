@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Tool as Prompt: From LLM-First Docs to Teaching LLMs Domain Knowledge On The Fly](https://dev.to/francesco_marconi_282058b/from-llm-first-docs-to-teaching-llms-domain-knowledge-on-the-fly-5dma)
-- [Stop Doing Business Logic in Webhook Endpoints. I Don&#39;t Care What Your Lead Engineer Says.](https://dev.to/elvissautet/stop-doing-business-logic-in-webhook-endpoints-i-dont-care-what-your-lead-engineer-says-8o0)
-- [5 Best Go Libraries for Uploading Files to MinIO &lpar;Without Losing Your Mind&rpar;](https://dev.to/lamri_abdellahramdane_15/5-best-go-libraries-for-uploading-files-to-minio-without-losing-your-mind-5616)
-- [Spring Boot Container Kubernetes Prometheus Grafana Alerting Secrets CI/CD](https://dev.to/jumptotech/spring-boot-container-kubernetes-prometheus-grafana-alerting-secrets-cicd-5d05)
-- [No Laying Up Podcast: Chop Session with DJ | Trap Draw, Ep 367](https://dev.to/youtube_golf/no-laying-up-podcast-chop-session-with-dj-trap-draw-ep-367-16ep)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-53o9)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-5fn)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-4kjd)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-35gm)
+- [HTTP STATUS CODE, you need to know for API Development](https://dev.to/asad10/http-status-code-you-need-to-know-for-api-development-pme)
 <!-- BLOG-POST-LIST:END -->
 
 ---
