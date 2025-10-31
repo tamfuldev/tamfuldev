@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Developer’s Focus Problem: Why Your To-Do App Is Failing You &lpar;and What Actually Works&rpar;](https://dev.to/johannesjo/the-developers-focus-problem-why-your-to-do-app-is-failing-you-and-what-actually-works-go0)
-- [Προσθήκη Fluent Validator step by step](https://dev.to/__b63657/prostheke-fluent-validator-step-by-step-1pg7)
-- [Creating a Maintenance Page using a Cloudflare Worker](https://dev.to/madsstoumann/creating-a-maintenance-page-using-a-cloudflare-worker-8m6)
-- [7 AI Study Workflows Developers Use to Learn Faster &lpar;Prompt Recipes Included&rpar;](https://dev.to/jamespatterson25/7-ai-study-workflows-developers-use-to-learn-faster-prompt-recipes-included-3goj)
-- [Never Forget a Thing: Building AI Agents with Hybrid Memory Using Strands Agents](https://dev.to/aws/never-forget-a-thing-building-ai-agents-with-hybrid-memory-using-strands-agents-2g66)
+- [Rick Shiels Golf: Our Best Golf Challenge EVER](https://dev.to/youtube_golf/rick-shiels-golf-our-best-golf-challenge-ever-277e)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-ej2)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-kem)
+- [Ringer Movies: Is &#39;Bugonia&#39; A Best Picture Contender?](https://dev.to/popcorn_movies/ringer-movies-is-bugonia-a-best-picture-contender-4j2)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-44nd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
