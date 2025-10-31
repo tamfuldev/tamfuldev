@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Cow&lt;T&gt;: Copy on Write](https://dev.to/masteringbackend/understanding-the-cow-copy-on-write-3km7)
-- [Hacktoberfest PR: Cleaning Up Code](https://dev.to/aubreyddd/hacktoberfest-pr-cleaning-up-code-44d3)
-- [Exhaustive Guide to Generative and Predictive AI in AppSec](https://dev.to/lynxfelony1/exhaustive-guide-to-generative-and-predictive-ai-in-appsec-f4)
-- [How to Add Dark Mode to Your Website Using Tailwind and JavaScript](https://dev.to/aqib_lala_58b9b4e0c90ca6c/how-to-add-dark-mode-to-your-website-using-tailwind-and-javascript-275a)
-- [WTF is Circuit Breaker Pattern?](https://dev.to/dailybugle33/wtf-is-circuit-breaker-pattern-2pii)
+- [Rick Beato: Live Tour Update from Norway](https://dev.to/music_youtube/rick-beato-live-tour-update-from-norway-2oho)
+- [Introducing Caelus](https://dev.to/rhannequin/introducing-caelus-569h)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1f4o)
+- [How Does React&#39;s useEffect Really Work?](https://dev.to/ctrix/how-does-reacts-useeffect-really-work-4dph)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-2bfg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
