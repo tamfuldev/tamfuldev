@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/ben/-34g2)
-- [Why index.html? The Unexpected Story Behind the Web&#39;s Most Famous Default File](https://dev.to/varshithvhegde/why-indexhtml-the-unexpected-story-behind-the-webs-most-famous-default-file-34f5)
-- [Headless CMS Integration: Building Flexible, API-Driven Digital Infrastructures](https://dev.to/thetechinsight/headless-cms-integration-building-flexible-api-driven-digital-infrastructures-n67)
-- [Aurora DSQL, una alternativa a PostgreSQL](https://dev.to/kcatucuamba/aurora-dsql-una-alternativa-a-postgresql-4i25)
-- [Contribution Chronicles: My Epic Hacktoberfest 2025 Adventure 🚀](https://dev.to/aniruddhaadak/contribution-chronicles-my-epic-hacktoberfest-2025-adventure-4i5d)
+- [The future of healthcare is undergoing a paradigm shift, dri](https://dev.to/drcarlosruizviquez/the-future-of-healthcare-is-undergoing-a-paradigm-shift-dri-293b)
+- [No Laying Up Podcast: How an Apparrel Business Gets Built | Trap Draw, Ep 366](https://dev.to/youtube_golf/no-laying-up-podcast-how-an-apparrel-business-gets-built-trap-draw-ep-366-da8)
+- [🌳 Mastering Data Structures in Java — Part 8: TreeMap](https://dev.to/mohamad_mhana/mastering-data-structures-in-java-part-8-treemap-1mb)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-1n08)
+- [Orgs with IDPs have the best DevEx hands down.](https://dev.to/mauricedw22/orgs-with-idps-have-the-best-devex-hands-down-13h8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
