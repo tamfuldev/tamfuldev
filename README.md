@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Video Trimmer Tools for Fast Editing](https://dev.to/gerrit_cole/top-10-video-trimmer-tools-for-fast-editing-3c3)
-- [Master Rust Pattern Matching: Build Safer, More Expressive Code with Advanced Techniques](https://dev.to/aaravjoshi/master-rust-pattern-matching-build-safer-more-expressive-code-with-advanced-techniques-5b02)
-- [Top 10 AI Video Makers from YouTube Links](https://dev.to/gerrit_cole/top-10-ai-video-makers-from-youtube-links-70c)
-- [The Context Variable Vault: Advanced Patterns and Framework Integration](https://dev.to/aaron_rose_0787cc8b4775a0/the-context-variable-vault-advanced-patterns-and-framework-integration-5foj)
-- [How AI Turned Me from a Copy-Paste Coder into a Confident Full-Stack Developer](https://dev.to/sufian/how-ai-turned-me-from-a-copy-paste-coder-into-a-confident-full-stack-developer-3l36)
+- [Tool as Prompt: From LLM-First Docs to Teaching LLMs Domain Knowledge On The Fly](https://dev.to/francesco_marconi_282058b/from-llm-first-docs-to-teaching-llms-domain-knowledge-on-the-fly-5dma)
+- [Stop Doing Business Logic in Webhook Endpoints. I Don&#39;t Care What Your Lead Engineer Says.](https://dev.to/elvissautet/stop-doing-business-logic-in-webhook-endpoints-i-dont-care-what-your-lead-engineer-says-8o0)
+- [5 Best Go Libraries for Uploading Files to MinIO &lpar;Without Losing Your Mind&rpar;](https://dev.to/lamri_abdellahramdane_15/5-best-go-libraries-for-uploading-files-to-minio-without-losing-your-mind-5616)
+- [Spring Boot Container Kubernetes Prometheus Grafana Alerting Secrets CI/CD](https://dev.to/jumptotech/spring-boot-container-kubernetes-prometheus-grafana-alerting-secrets-cicd-5d05)
+- [No Laying Up Podcast: Chop Session with DJ | Trap Draw, Ep 367](https://dev.to/youtube_golf/no-laying-up-podcast-chop-session-with-dj-trap-draw-ep-367-16ep)
 <!-- BLOG-POST-LIST:END -->
 
 ---
