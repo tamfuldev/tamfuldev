@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How choose which Kubernetes Way is Right for You](https://dev.to/kartik_p/how-choose-which-kubernetes-way-is-right-for-you-1jf9)
-- [Practical Guide: How to Quickly Download Online Images to the Gallery in HarmonyOS](https://dev.to/harmonyos/practical-guide-how-to-quickly-download-online-images-to-the-gallery-in-harmonyos-338a)
-- [Generating a Custom Chakra UI v3 Theme from Design Tokens: A Complete Guide](https://dev.to/kiranmantha/generating-a-custom-chakra-ui-v3-theme-from-design-tokens-a-complete-guide-1085)
-- [Tencent&#39;s AI Revolution: How AI Development Is Done Right](https://dev.to/harris001/tencents-ai-revolution-how-ai-development-is-done-right-1mgc)
-- [Less is More: 4 design patterns for building better MCP servers](https://dev.to/klavisai/less-is-more-4-design-patterns-for-building-better-mcp-servers-3gpf)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-2dpj)
+- [How to Build Real-Time Video Chat Applications with WebRTC](https://dev.to/softheartengineer/how-to-build-real-time-video-chat-applications-with-webrtc-471n)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-2nea)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-2gh5)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-530i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
