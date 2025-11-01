@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Reactive Tree Management in Nuxt 4: How I Modeled Complex Hierarchies with Pinia](https://dev.to/smaug6739/reactive-tree-management-in-nuxt-4-how-i-modeled-complex-hierarchies-with-pinia-2m8f)
-- [Build a Telegram Bot with ESP32-CAM for Remote Image &amp; Video Capture](https://dev.to/messin_tom/build-a-telegram-bot-with-esp32-cam-for-remote-image-video-capture-4949)
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-1g60)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-273d)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-2pmd)
+- [Understanding How Computers Actually Work](https://dev.to/danishaft/understanding-how-computers-actually-work-4e0n)
+- [Integrating Doxygen into Autotools](https://dev.to/pauljlucas/integrating-doxygen-into-autotools-571m)
+- [Functor: debunk the Myth, know the Math](https://dev.to/0x1/functor-debunking-the-myth-2n5l)
+- [Build in Public: Day Zero](https://dev.to/olgabraginskaya/build-in-public-day-zero-end)
+- [Hello DEV Community! Excited to Start My Developer Journey 🚀](https://dev.to/deepjyoti_das/hello-dev-community-excited-to-start-my-developer-journey-4e65)
 <!-- BLOG-POST-LIST:END -->
 
 ---
