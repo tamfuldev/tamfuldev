@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Semantic search with embeddings in PHP: a hands-on guide using Neuron AI and Ollama](https://dev.to/robertobutti/semantic-search-with-embeddings-in-php-a-hands-on-guide-using-neuron-ai-and-ollama-16c)
-- [How to Optimize Delphi Code Performance in 2025?](https://dev.to/puratabla/how-to-optimize-delphi-code-performance-in-2025-1gnc)
-- [Did you know that AI systems have been found to have bias ag](https://dev.to/drcarlosruizviquez/did-you-know-that-ai-systems-have-been-found-to-have-bias-ag-1ig9)
-- [🏁ASPICE Literacy — Episode 9: ASPICE &amp; Functional Safety: Siblings 👫 or Strangers 👥?](https://dev.to/abdulosman/aspice-literacy-episode-9-aspice-functional-safety-siblings-or-strangers--g6j)
-- [How can I bind OLSRT to PHP?](https://dev.to/javadinteger/how-can-i-bind-olsrt-to-php-52kk)
+- [Will Developers Survive AI Takeover? Part 3: What Happens If You Stay Old School?](https://dev.to/georgekobaidze/will-developers-survive-ai-takeover-part-3-what-happens-if-you-stay-old-school-4p5g)
+- [Sistema de Control de Jobs en Tiempo Real con Channels y Background Services en .NET](https://dev.to/isaacojeda/sistema-de-control-de-jobs-en-tiempo-real-con-channels-y-background-services-en-net-529e)
+- [Building Elegant Batch Jobs in Laravel with Clean Architecture](https://dev.to/eashigaev/building-elegant-batch-jobs-in-laravel-with-clean-architecture-431d)
+- [Covering index for $group/$sum in MongoDB aggregation &lpar;with hint&rpar;](https://dev.to/franckpachot/covering-index-for-group-in-mongodb-aggregation-with-hint-4e6m)
+- [Unlock Dual Revenue Streams: Monetizing Your LLM Apps with AI Conversations](https://dev.to/monetzly/unlock-dual-revenue-streams-monetizing-your-llm-apps-with-ai-conversations-476d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
