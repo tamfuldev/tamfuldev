@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [2025 Hacktoberfest Writing Challeng](https://dev.to/paulofreitas_py/2025-hacktoberfest-writing-challeng-146o)
-- [Open Source Is Our Operating System](https://dev.to/my_god_4ca6d407c2a1fb6cca/open-source-is-our-operating-system-djn)
-- [Myths and Facts about Thread Pool in Node.js](https://dev.to/boika_boy/myths-and-facts-about-thread-pool-in-nodejs-3dl5)
-- [Evaluating the success of generative AI often involves a cru](https://dev.to/drcarlosruizviquez/evaluating-the-success-of-generative-ai-often-involves-a-cru-5hlm)
-- [💻 How to Create Stunning Websites That Truly Impress &lpar;and Convert&rpar;](https://dev.to/fshinfotech/how-to-create-stunning-websites-that-truly-impress-and-convert-hhn)
+- [Checkout my new post!](https://dev.to/jay_sheth/checkout-my-new-post-1k10)
+- [Danny Maude: 3 Golf Swing Tips That I Wish I&#39;d Told You Sooner](https://dev.to/youtube_golf/danny-maude-3-golf-swing-tips-that-i-wish-id-told-you-sooner-oe9)
+- [🌍 How to Set Up a Global HTTP Load Balancer on Google Cloud &lpar;Step-by-Step with Screenshots&rpar;](https://dev.to/jay_sheth/how-to-set-up-a-global-http-load-balancer-on-google-cloud-step-by-step-with-screenshots-3ghi)
+- [Smart Form Submissions: Only Send Changed Data with WebForms Core 2](https://dev.to/elanatframework/smart-form-submissions-only-send-changed-data-with-webforms-core-2-29f3)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-1nh4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
