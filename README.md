@@ -4,13 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The hottest new programming language is English](https://dev.to/marmariadata/the-hottest-new-programming-language-is-english-20n8)
-- [When the Market Takes Weekends Off - Devlog Stocksimpy](https://dev.to/suleyman_sade/when-the-market-takes-weekends-off-devlog-stocksimpy-2c2b)
-- [Old course getting some changes
-
-https://www.forbes.com/sites/mikefore/2025/10/31/old-course-at-st-andrews-slated-for-enhancements-prior-to-2027-open/](https://dev.to/ben/old-course-getting-some-changes-4mcj)
-- [8-Bit Music Theory: Analyzing why people like funk || Marvel vs Capcom 2](https://dev.to/music_youtube/8-bit-music-theory-analyzing-why-people-like-funk-marvel-vs-capcom-2-mcm)
-- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-504l)
+- [📰 Major Tech News: Oct 31, 2025 : Big Tech&#39;s AI Spending Surge, Nvidia&#39;s Chip Partnerships, and OpenAI&#39;s Security Innovation](https://dev.to/om_shree_0709/major-tech-news-oct-31-2025-big-techs-ai-spending-surge-nvidias-chip-partnerships-and-3884)
+- [🎓 &quot;Amodal Completion&quot; in Computer Vision: Unveiling the Powe](https://dev.to/drcarlosruizviquez/amodal-completion-in-computer-vision-unveiling-the-powe-3bpp)
+- [MCP Security: Navigating the Exploit Playbook for Agent](https://dev.to/om_shree_0709/mcp-security-navigating-the-exploit-playbook-for-agent-56m7)
+- [**Unlock the Power of AI-Powered Threat Hunting: Discovering](https://dev.to/drcarlosruizviquez/unlock-the-power-of-ai-powered-threat-hunting-discovering-g7n)
+- [Building Spokane Tech: Part 9](https://dev.to/dbslusser/building-spokane-tech-part-9-1p74)
 <!-- BLOG-POST-LIST:END -->
 
 ---
