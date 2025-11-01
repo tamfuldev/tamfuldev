@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering `Copy` and `Clone` traits in Rust](https://dev.to/amritsingh183/mastering-copy-and-clone-traits-in-rust-5be0)
-- [Mastering `Copy` and `Clone` traits in Rust](https://dev.to/amritsingh183/mastering-copy-and-clone-traits-in-rust-455e)
-- [A Complete Guide to Rust Variables, Ownership, Lifetimes, and Memory Management](https://dev.to/amritsingh183/a-complete-guide-to-rust-ownership-lifetimes-and-memory-management-4j2a)
-- [Rust vs. Go: Type-Safe State Machines Explained Through Star Wars](https://dev.to/amritsingh183/rust-vs-go-type-safe-state-machines-explained-through-star-wars-4eib)
-- [Linked Lists in Rust 1.90.0: A Comprehensive Technical Guide](https://dev.to/amritsingh183/linked-lists-in-rust-1900-a-comprehensive-technical-guide-3965)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-4ok9)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1kmp)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-18n1)
+- [Kalman Filter Algorithm: Core Principles, Advantages, Applications, and C Code Implementation](https://dev.to/tiger_smith_9f421b9131db5/kalman-filter-algorithm-core-principles-advantages-applications-and-c-code-implementation-55mf)
+- [Next.js in 2025: Why It&#39;s the Best React Framework](https://dev.to/devraj_singh_a58b5b5589de/nextjs-in-2025-why-its-the-best-react-framework-3a0c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
