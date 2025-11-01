@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 The Secret Lives of AI Agents: What Do They ‘Think’ When You’re Not Looking?](https://dev.to/pracode_2503/the-secret-lives-of-ai-agents-what-do-they-think-when-youre-not-looking-523e)
-- [Why You Should Care About Pre-Commit Hooks &lpar;and How Husky Makes It Easier&rpar;](https://dev.to/osalumense/why-you-should-care-about-pre-commit-hooks-and-how-husky-makes-it-easier-4im4)
-- [Securing Private AWS Environments with a Bastion Host — The DevOps Gateway Explained](https://dev.to/srinivasamcjf/securing-private-aws-environments-with-a-bastion-host-the-devops-gateway-explained-13i1)
-- [Why I Fell in Love with Python at 12, and How That Passion Defined the Architecture of My AI Startup](https://dev.to/kesaru_hasun/why-i-fell-in-love-with-python-at-12-and-how-that-passion-defined-the-architecture-of-my-ai-startup-4elh)
-- [Overdue Payment Reminder and Collection Automation](https://dev.to/sabbschow/overdue-payment-reminder-and-collection-automation-308a)
+- [Capture Digital Signatures Easily with Shadix UI SignaturePad](https://dev.to/gihanrangana/capture-digital-signatures-easily-with-shadix-ui-signaturepad-13po)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-42ee)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-1b7c)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-o4f)
+- [Node.js Best Practices for Building Scalable and Secure Applications](https://dev.to/msnmongare/nodejs-best-practices-for-building-scalable-and-secure-applications-434j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
