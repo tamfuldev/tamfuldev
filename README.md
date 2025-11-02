@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Symlinks](https://dev.to/walodja1987/symlinks-2gjh)
-- [📰 Major Tech News: November 2nd, 2025: Apple Vision Pro Delay, Meta&#39;s Llama 4 Debate, and EU Probes Amazon&#39;s AI Hiring Tools](https://dev.to/om_shree_0709/major-tech-news-november-2nd-2025-apple-vision-pro-delay-metas-llama-4-debate-and-eu-probes-3k6j)
-- [day 70 of 100k-before-uni: lessons, launches + looking ahead](https://dev.to/vulcanwm/day-70-of-100k-before-uni-lessons-launches-looking-ahead-ja2)
-- [The Hidden Cost of Microservices: When Complexity Kills Velocity](https://dev.to/gabrielle_eduarda_776996b/the-hidden-cost-of-microservices-when-complexity-kills-velocity-3mm3)
-- [Wildlife Photography in Udawalawe — Capturing the Spirit of the Wild](https://dev.to/traditionalwindow/wildlife-photography-in-udawalawe-capturing-the-spirit-of-the-wild-429o)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-43j)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-3hhg)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-4db0)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-la7)
+- [Rebuilding the Cathedral — From Confusion to Clarity with Rust, Godot, and Open Tools](https://dev.to/bekalah/rebuilding-the-cathedral-from-confusion-to-clarity-with-rust-godot-and-open-tools-13jk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
