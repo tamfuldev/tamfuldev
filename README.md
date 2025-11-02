@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Full-Stack Stats Utility App with Node, React, Rust, and Python](https://dev.to/stevenwallace/building-a-full-stack-stats-utility-app-with-node-react-rust-and-python-2ii2)
-- [MultiCOIN: Multi-Modal COntrollable Video INbetweening](https://dev.to/paperium/multicoin-multi-modal-controllable-video-inbetweening-k16)
-- [How to Read a &quot;Free Painting Quote in Rotorua&quot; And Find the Hidden Costs](https://dev.to/rotoruapainter/how-to-read-a-free-painting-quote-in-rotorua-and-find-the-hidden-costs-1fjm)
-- [When rest builds more structure than effort](https://dev.to/koni_jang/when-rest-builds-more-structure-than-effort-56h2)
-- [From Parrot to Partner - How Reinforcement Learning Taught LLMs to Talk Like Humans](https://dev.to/jiminlee/from-parrot-to-partner-how-reinforcement-learning-taught-llms-to-talk-like-humans-315h)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-j93)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-39ll)
+- [Navigating the Future: Mastering Dijkstra&#39;s Algorithm with Data Structures](https://dev.to/vjnvisakh/navigating-the-future-mastering-dijkstras-algorithm-with-data-structures-2618)
+- [No One Has This Problem? Just Me? OK.](https://dev.to/realvorl/no-one-has-this-problem-just-me-ok-3oon)
+- [Open Deep Research Internals: A Step-by-Step Architecture Guide](https://dev.to/bolshchikov/open-deep-research-internals-a-step-by-step-architecture-guide-2ibk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
