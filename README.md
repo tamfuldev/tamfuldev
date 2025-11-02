@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Offline-First Kiosk: Lessons from the Field](https://dev.to/drvcodenta/offline-first-kiosk-lessons-from-the-field-86e)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-40b5)
-- [HacktoberFest: Return to Animation](https://dev.to/jarvisscript/hacktoberfest-return-to-animation-i1d)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-22p9)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-2op4)
+- [Symlinks](https://dev.to/walodja1987/symlinks-2gjh)
+- [📰 Major Tech News: November 2nd, 2025: Apple Vision Pro Delay, Meta&#39;s Llama 4 Debate, and EU Probes Amazon&#39;s AI Hiring Tools](https://dev.to/om_shree_0709/major-tech-news-november-2nd-2025-apple-vision-pro-delay-metas-llama-4-debate-and-eu-probes-3k6j)
+- [day 70 of 100k-before-uni: lessons, launches + looking ahead](https://dev.to/vulcanwm/day-70-of-100k-before-uni-lessons-launches-looking-ahead-ja2)
+- [The Hidden Cost of Microservices: When Complexity Kills Velocity](https://dev.to/gabrielle_eduarda_776996b/the-hidden-cost-of-microservices-when-complexity-kills-velocity-3mm3)
+- [Wildlife Photography in Udawalawe — Capturing the Spirit of the Wild](https://dev.to/traditionalwindow/wildlife-photography-in-udawalawe-capturing-the-spirit-of-the-wild-429o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
