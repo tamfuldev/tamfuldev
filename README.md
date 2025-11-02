@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Warp&#39;s New Pricing: Your Complete Transition Guide](https://dev.to/thelazyindiantechie/understanding-warps-new-pricing-your-complete-transition-guide-j3o)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-2c0k)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-352o)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-2adc)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-2i6e)
+- [Building a Full-Stack Stats Utility App with Node, React, Rust, and Python](https://dev.to/stevenwallace/building-a-full-stack-stats-utility-app-with-node-react-rust-and-python-2ii2)
+- [MultiCOIN: Multi-Modal COntrollable Video INbetweening](https://dev.to/paperium/multicoin-multi-modal-controllable-video-inbetweening-k16)
+- [How to Read a &quot;Free Painting Quote in Rotorua&quot; And Find the Hidden Costs](https://dev.to/rotoruapainter/how-to-read-a-free-painting-quote-in-rotorua-and-find-the-hidden-costs-1fjm)
+- [When rest builds more structure than effort](https://dev.to/koni_jang/when-rest-builds-more-structure-than-effort-56h2)
+- [From Parrot to Partner - How Reinforcement Learning Taught LLMs to Talk Like Humans](https://dev.to/jiminlee/from-parrot-to-partner-how-reinforcement-learning-taught-llms-to-talk-like-humans-315h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
