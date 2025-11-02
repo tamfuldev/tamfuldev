@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AndesVL Technical Report: An Efficient Mobile-side Multimodal Large LanguageModel](https://dev.to/paperium/andesvl-technical-report-an-efficient-mobile-side-multimodal-large-languagemodel-3n1c)
-- [life is a meme!](https://dev.to/bibimbop123/life-is-a-meme-43fm)
-- [Title: Grok Imagine: xAI&#39;s Revolutionary AI Image and Video Generator](https://dev.to/yagyaraj_sharma_6cd410179/title-grok-imagine-xais-revolutionary-ai-image-and-video-generator-51fe)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-pm9)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-55me)
+- [The Shift Toward Reactive Programming in Modern Web Development](https://dev.to/softwaredeveloper01/the-shift-toward-reactive-programming-in-modern-web-development-10dd)
+- [GMX V1 Exploit Analysis: How a $42M Classic Reentrancy Attack Unfolded](https://dev.to/abdelrahman_elsaheir_11d8/gmx-v1-exploit-analysis-how-a-42m-classic-reentrancy-attack-unfolded-9o1)
+- [How to Create and Publish a Flutter Package on pub.dev](https://dev.to/mouayed_amr_91537efe31bb8/how-to-create-and-publish-a-flutter-package-on-pubdev-1dmh)
+- [Notas Conceptuales: ¿Qué Son los Genéricos?](https://dev.to/fiedric/notas-conceptuales-que-son-los-genericos-5bdd)
+- [Most developers make the mistake of storing prompts in random notes. A serious prompt engineer treats prompts like reusable components.](https://dev.to/jaideepparashar/most-developers-make-the-mistake-of-storing-prompts-in-random-notes-a-serious-prompt-engineer-2mle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
