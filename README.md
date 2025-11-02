@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Finally Understood This Magic CSS Snippet](https://dev.to/alok38/i-finally-understood-this-magic-css-snippet-5237)
-- [Build Your Own Forum with FastAPI: Step 9 - Upload Images](https://dev.to/leapcell/build-your-own-forum-with-fastapi-step-9-upload-images-46of)
-- [Java String codePointCount&lpar;&rpar; Explained: Taming Emojis &amp; Complex Text](https://dev.to/satyam_gupta_0d1ff2152dcc/java-string-codepointcount-explained-taming-emojis-complex-text-2l3f)
-- [Exploring Next.js 16 File System Conventions](https://dev.to/ganesh_tidake/exploring-nextjs-16-file-system-conventions-2akk)
-- [I&#39;m Building an AI Agent That Automates Competitor Research](https://dev.to/theweekenddev/im-building-an-ai-agent-that-automates-competitor-research-1fie)
+- [Understanding Warp&#39;s New Pricing: Your Complete Transition Guide](https://dev.to/thelazyindiantechie/understanding-warps-new-pricing-your-complete-transition-guide-j3o)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-2c0k)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-352o)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-2adc)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-2i6e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
