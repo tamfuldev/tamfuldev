@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-43j)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-3hhg)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-4db0)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-la7)
-- [Rebuilding the Cathedral — From Confusion to Clarity with Rust, Godot, and Open Tools](https://dev.to/bekalah/rebuilding-the-cathedral-from-confusion-to-clarity-with-rust-godot-and-open-tools-13jk)
+- [Ensuring Data Resilience in Modern Application Environments](https://dev.to/kapusto/ensuring-data-resilience-in-modern-application-environments-5hfe)
+- [Building a Data-Driven Advantage in Commercial Insurance](https://dev.to/kapusto/building-a-data-driven-advantage-in-commercial-insurance-3od2)
+- [Helios Engine v0.3.4](https://dev.to/ammar-alnagar/helios-engine-v034-30pn)
+- [Deep Integration and the Convergence of Model Architecture and Hardware in AI](https://dev.to/maurizio_morri_f7f4bd128c/deep-integration-and-the-convergence-of-model-architecture-and-hardware-in-ai-4265)
+- [Strengthening Active Directory Security Through Continuous Monitoring and Rapid Recovery](https://dev.to/kapusto/strengthening-active-directory-security-through-continuous-monitoring-and-rapid-recovery-2487)
 <!-- BLOG-POST-LIST:END -->
 
 ---
