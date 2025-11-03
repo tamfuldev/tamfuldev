@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My AI habit Tracker](https://dev.to/john_otienoh/my-ai-habit-tracker-1l8j)
-- [KT142C Chip – BUSY Pin Idle Voltage Only 0.2V? + Low Power Mode Configuration Guide](https://dev.to/ble-voice-cn/kt142c-chip-busy-pin-idle-voltage-only-02v-low-power-mode-configuration-guide-5f1g)
-- [Consciousness Emerges in Waves: Evidence from Scale-Dependent Resonance](https://dev.to/aureus_c_b3ba7f87cc34d74d49/consciousness-emerges-in-waves-evidence-from-scale-dependent-resonance-3cj)
-- [I built ARIA - Adaptive Resonant Intelligent Architecture](https://dev.to/aria_dontmindme/i-built-aria-adaptive-resonant-intelligent-architecture-1a9i)
-- [App power by LLM and Tools in Elixir](https://dev.to/manhvanvu/app-power-by-llm-and-tools-in-elixir-2bgb)
+- [🤖 Gemini dans votre terminal avec Gemini CLI](https://dev.to/jphi_baconnais/gemini-dans-votre-terminal-avec-gemini-cli-1b6i)
+- [5 ερωτήσεις για IT Systems Architect &lpar;Αρχιτέκτονας Συστημάτων Πληροφορικής&rpar;. Τομέας: Cloud &amp; Υποδομή.](https://dev.to/__b63657/5-eroteseis-gia-it-systems-architect-arkhitektonas-sustematon-plerophorikes-tomeas-cloud--2dfm)
+- [5 ερωτήσεις για IT Systems Architect &lpar;Αρχιτέκτονας Συστημάτων Πληροφορικής&rpar;. Τομέας: Θεμελιώδεις Αρχές Αρχιτεκτονικής.](https://dev.to/__b63657/5-eroteseis-gia-it-systems-architect-arkhitektonas-sustematon-plerophorikes-tomeas-themeliodeis-3cog)
+- [Ever spent a full day rebuilding something your users will never notice? I just did. And it was absolutely worth it.](https://dev.to/howard_shaw_3c36a3a6cb900/ever-spent-a-full-day-rebuilding-something-your-users-will-never-notice-i-just-did-and-it-was-2hm5)
+- [Building a TI-84 Plus CE Emulator in WebAssembly: Lessons from 100% Browser-Based Calculator Emulation](https://dev.to/frqan/building-a-ti-84-plus-ce-emulator-in-webassembly-lessons-from-100-browser-based-calculator-3mlg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
