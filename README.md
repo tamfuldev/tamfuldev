@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: The 1989 Movie Draft](https://dev.to/popcorn_movies/ringer-movies-the-1989-movie-draft-4lkg)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-5fj2)
-- [An Engineering Manifesto](https://dev.to/bitfootco/an-engineering-manifesto-mdk)
-- [What is Load Factor and Initial Capacity in HashMap?](https://dev.to/realnamehidden1_61/what-is-load-factor-and-initial-capacity-in-hashmap-2j11)
-- [Difference between HashMap and ConcurrentHashMap in Java](https://dev.to/realnamehidden1_61/difference-between-hashmap-and-concurrenthashmap-in-java-5cha)
+- [Log Ninja: The Ultimate VS Code Extension for Effortless Debug Logging](https://dev.to/rakeshgombi/log-ninja-the-ultimate-vs-code-extension-for-effortless-debug-logging-47fb)
+- [React Hooks: A Comprehensive Cheatsheet &amp; Guide](https://dev.to/mahdardavari/react-hooks-a-comprehensive-cheatsheet-guide-35f)
+- [Understanding LangChain and LangGraph: A Beginner’s Guide to AI Workflows](https://dev.to/manishmshiva/understanding-langchain-and-langgraph-a-beginners-guide-to-ai-workflows-1aeo)
+- [What is while loop?](https://dev.to/aj_arul/what-is-while-loop-385c)
+- [Deflanderization for Game Dialogue: Balancing Character Authenticity with TaskExecution in LLM-based NPCs](https://dev.to/paperium/deflanderization-for-game-dialogue-balancing-character-authenticity-with-taskexecution-in-2gki)
 <!-- BLOG-POST-LIST:END -->
 
 ---
