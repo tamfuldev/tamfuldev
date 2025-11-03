@@ -4,13 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Pushing Python to 20,000 Requests Sent/Second](https://dev.to/lafftar/pushing-python-to-20000-requests-sentsecond-36d2)
-- [If someone told me a few years ago that I would publish 40+ books on AI, coding, automation, and productivity, and many would become bestsellers, I would have laughed.
-
-Because I was not a traditional coder!](https://dev.to/jaideepparashar/if-someone-told-me-a-few-years-ago-that-i-would-publish-40-books-on-ai-coding-automation-and-1hm4)
-- [What I Learned Publishing Technical Books on Amazon &lpar;Without Being a Coder&rpar;](https://dev.to/jaideepparashar/what-i-learned-publishing-technical-books-on-amazon-without-being-a-coder-3co3)
-- [Malware analysis - Hancitor Loader](https://dev.to/irmch/malware-analysis-hancitor-loader-2ofn)
-- [How I Integrated an AI Agent into Free GitLab CI/CD](https://dev.to/pavel_mulin_478b0f72cc6c5/how-i-integrated-an-ai-agent-into-free-gitlab-cicd-252o)
+- [How the Flex-Basis Property Works in CSS Flexbox](https://dev.to/alok38/how-the-flex-basis-property-works-in-css-flexbox-58on)
+- [[UI Design] Markdown Viewer](https://dev.to/shelner/ui-design-markdown-viewer-2a81)
+- [How To Build and Maintain a Risk Register for Professionals](https://dev.to/taskford/how-to-build-and-maintain-a-risk-register-for-professionals-alg)
+- [Finding Today&#39;s Changed Files: A Quick Python Script for File Uploads](https://dev.to/vidyasagarmsc/finding-todays-changed-files-a-quick-python-script-for-file-uploads-13b7)
+- [Collateral Crossroads: Quantum-AI&#39;s Revolution in Risk Mitigation](https://dev.to/arvind_sundararajan/collateral-crossroads-quantum-ais-revolution-in-risk-mitigation-4fia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
