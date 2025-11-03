@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [MTSQL-R1: Towards Long-Horizon Multi-Turn Text-to-SQL via Agentic Training](https://dev.to/paperium/mtsql-r1-towards-long-horizon-multi-turn-text-to-sql-via-agentic-training-4c)
-- [Build a Website Application for Free in 2 Hours with Vibe Coding](https://dev.to/jackynote/build-a-website-application-for-free-in-2-hours-with-vibe-coding-16ci)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-4eia)
-- [Escape From Duckov Tote Bag](https://dev.to/_8e4fa938c0e4503b3e67d/escape-from-duckov-tote-bag-5cl1)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2ol9)
+- [Graphing in JavaScript](https://dev.to/eachampagne/graphing-in-javascript-4e86)
+- [Is Your Data Stuck in the Cloud? Edge Computing to the Rescue!](https://dev.to/karthik_n/is-your-data-stuck-in-the-cloud-edge-computing-to-the-rescue-42l5)
+- [Monitor Gemini CLI using OpenTelemetry for realtime usage statistics](https://dev.to/agardnerit/monitor-gemini-cli-using-opentelemetry-for-realtime-usage-statistics-3adi)
+- [CMake study](https://dev.to/minwook/cmake-study-5he3)
+- [The Ultimate AI Duo: ChatGPT + Golpo.AI Made Storytelling Effortless](https://dev.to/badass_tech-ae2025/the-ultimate-ai-duo-chatgpt-golpoai-made-storytelling-effortless-4aje)
 <!-- BLOG-POST-LIST:END -->
 
 ---
