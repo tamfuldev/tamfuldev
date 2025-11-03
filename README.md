@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Are Web Components Finally Ready to Replace Frameworks?](https://dev.to/anisubhra_sarkar/are-web-components-finally-ready-to-replace-frameworks-3fii)
-- [A Tiny Decimal That Caused Big Trouble, Until I Learned About BigDecimal](https://dev.to/marzuk16/a-tiny-decimal-that-caused-big-trouble-until-i-learned-about-bigdecimal-30ji)
-- [Tegen v0.1.0 is live!](https://dev.to/mickyas_tesfaye_551a01694/tegen-v010-is-live-28k4)
-- [Stitching Knowledge Together: Dynamic Citation Rendering Explained](https://dev.to/balagmadhu/stitching-knowledge-together-dynamic-citation-rendering-explained-50g0)
-- [The Nine Circles of a CI/CD Inferno](https://dev.to/nicoletta_bartunek/the-nine-circles-of-a-cicd-inferno-485d)
+- [How I Implemented Search for Audit Logs During My Hacktoberfest Journey](https://dev.to/elsad_humbetli_0971c995ce/how-i-implemented-search-for-audit-logs-during-my-hacktoberfest-journey-121h)
+- [😈 Dare to Commit Secrets to GitHub? With SOPS &amp; GPG, I Do! 🤫](https://dev.to/prateekwayne/dare-to-commit-secrets-to-github-with-sops-gpg-i-do-c7f)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-1e3l)
+- [Quark’s Outlines: Python Class Instances](https://dev.to/mike-vincent/quarks-outlines-python-class-instances-23cn)
+- [Micro-Interactions vs Animations: Which Converts Better &lpar;and Why It Matters in SaaS UX&rpar;](https://dev.to/hashbyt/micro-interactions-vs-animations-which-converts-better-and-why-it-matters-in-saas-ux-5d1l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
