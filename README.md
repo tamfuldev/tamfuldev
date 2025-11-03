@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building gemini-imagen with Claude Code: How AI Became My Pair Programming Partner](https://dev.to/aviad_rozenhek_cba37e0660/building-gemini-imagen-with-claude-code-how-ai-became-my-pair-programming-partner-ca9)
-- [Day 23: Python Positive Sum Function – Calculate the Sum of Positive Numbers in a List](https://dev.to/shahrouzlogs/day-23-python-positive-sum-function-calculate-the-sum-of-positive-numbers-in-a-list-30df)
-- [Predicting the FIDE Chess World Cup 2025 — Monte Carlo Analysis](https://dev.to/gowtham_e9296cf2c1012d9c0/predicting-the-fide-chess-world-cup-2025-monte-carlo-analysis-3khm)
-- [Should I wait or should I go?! Quando usar .ConfigureAwait&lpar;&rpar; em Tasks .Net?](https://dev.to/caramelo-ti/should-i-wait-or-should-i-go-quando-usar-configureawait-em-tasks-net-5k2)
-- [⚡ CQRS &amp; Use Cases: Why Your Service Layer is a Mess &lpar;And How to Fix It&rpar;](https://dev.to/igornosatov_15/cqrs-use-cases-why-your-service-layer-is-a-mess-and-how-to-fix-it-2dnm)
+- [The Silent Threat: Visually Triggered AI Hijacking](https://dev.to/arvind_sundararajan/the-silent-threat-visually-triggered-ai-hijacking-1gna)
+- [Building Trinity Protocol v3.1: A Deep Dive into 2-of-3 Multi-Chain Consensus](https://dev.to/chronosvault/building-trinity-protocol-v31-a-deep-dive-into-2-of-3-multi-chain-consensus-139j)
+- [Reflections of Hacktoberfest](https://dev.to/aloisseckar/reflections-of-hacktoberfest-3ef2)
+- [Git Basics: A Beginner&#39;s Guide to Naming Conventions](https://dev.to/michaellarocca/git-basics-a-beginners-guide-to-naming-conventions-p2j)
+- [Recording My Experiments in Spec-Driven Development](https://dev.to/imdone/recording-my-experiments-in-spec-driven-development-40e0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
