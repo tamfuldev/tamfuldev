@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Auto-Generate Flutter Translations](https://dev.to/mostafa_ead/auto-generate-flutter-translations-l81)
-- [🎧 I Built an AI That Recommends Songs Based on Your Mood](https://dev.to/sbtech24/i-built-an-ai-that-recommends-songs-based-on-your-mood-3imi)
-- [&quot;LAW-J: I Rebuilt Java With Time Built Into Every Class, Method, and Variable&quot;](https://dev.to/peacebinflow/law-j-i-rebuilt-java-with-time-built-into-every-class-method-and-variable-3b3p)
-- [AccessFix Update!](https://dev.to/aethelsoftware/accessfix-update-2aib)
-- [3DEXPERIENCE: Lista de Verificación para Eliminación Segura de Drawing &amp; CAD Family](https://dev.to/cadstore/3dexperience-lista-de-verificacion-para-eliminacion-segura-de-drawing-cad-family-5gl0)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-3gin)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2p6)
+- [Coding Challenge Practice - Question 44](https://dev.to/tomivan/coding-challenge-practice-question-44-1ad2)
+- [Another test!](https://dev.to/ben/another-test-cjc)
+- [Building MoodMatch: An AI Agent That Understands Your Emotions](https://dev.to/olaitan34/building-moodmatch-an-ai-agent-that-understands-your-emotions-2m36)
 <!-- BLOG-POST-LIST:END -->
 
 ---
