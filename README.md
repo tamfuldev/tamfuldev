@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-i1o)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-1i6)
-- [You&#39;re absolutely right!](https://dev.to/ben/youre-absolutely-right-459f)
-- [Introducing Spira - Making a Shell #0](https://dev.to/toga56784/introducing-spira-making-a-shell-0-3kl8)
-- [In AI, Everything is Meta](https://dev.to/phil-whittaker/in-ai-everything-is-meta-5c22)
+- [Auto-Generate Flutter Translations](https://dev.to/mostafa_ead/auto-generate-flutter-translations-l81)
+- [🎧 I Built an AI That Recommends Songs Based on Your Mood](https://dev.to/sbtech24/i-built-an-ai-that-recommends-songs-based-on-your-mood-3imi)
+- [&quot;LAW-J: I Rebuilt Java With Time Built Into Every Class, Method, and Variable&quot;](https://dev.to/peacebinflow/law-j-i-rebuilt-java-with-time-built-into-every-class-method-and-variable-3b3p)
+- [AccessFix Update!](https://dev.to/aethelsoftware/accessfix-update-2aib)
+- [3DEXPERIENCE: Lista de Verificación para Eliminación Segura de Drawing &amp; CAD Family](https://dev.to/cadstore/3dexperience-lista-de-verificacion-para-eliminacion-segura-de-drawing-cad-family-5gl0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
