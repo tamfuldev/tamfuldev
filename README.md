@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How the Flex-Basis Property Works in CSS Flexbox](https://dev.to/alok38/how-the-flex-basis-property-works-in-css-flexbox-58on)
-- [[UI Design] Markdown Viewer](https://dev.to/shelner/ui-design-markdown-viewer-2a81)
-- [How To Build and Maintain a Risk Register for Professionals](https://dev.to/taskford/how-to-build-and-maintain-a-risk-register-for-professionals-alg)
-- [Finding Today&#39;s Changed Files: A Quick Python Script for File Uploads](https://dev.to/vidyasagarmsc/finding-todays-changed-files-a-quick-python-script-for-file-uploads-13b7)
-- [Collateral Crossroads: Quantum-AI&#39;s Revolution in Risk Mitigation](https://dev.to/arvind_sundararajan/collateral-crossroads-quantum-ais-revolution-in-risk-mitigation-4fia)
+- [🧱 Lesson 5  - Working with PostgreSQL &lpar;Multi-Database Setup&rpar;](https://dev.to/farrukh_rehman/lesson-5-working-with-postgresql-multi-database-setup-3ngg)
+- [Understanding the Design of Optimizers with me](https://dev.to/tri_vo/understanding-the-design-of-optimizers-with-me-18f)
+- [Building the Classic 2048 Game with HTML5 and JavaScript](https://dev.to/gamh5games/building-the-classic-2048-game-with-html5-and-javascript-fk7)
+- [I independently developed three AI tool websites: Architecture, Automation Stack, and Painful Lessons Learned.](https://dev.to/charlie_s_c9de68658cfe2a/i-independently-developed-three-ai-tool-websites-architecture-automation-stack-and-painful-28gh)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-55ak)
 <!-- BLOG-POST-LIST:END -->
 
 ---
