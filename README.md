@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Connect Claude Desktop to Local MCP Servers](https://dev.to/danishashko/connect-claude-desktop-to-local-mcp-servers-2ia8)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-1jj2)
-- [Event-Driven State Management with NgRx Signal Store](https://dev.to/dimeloper/event-driven-state-management-with-ngrx-signal-store-j8i)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-1mbo)
-- [How I’d Learn Web Dev from Scratch in 2025 &lpar;Without Wasting Time&rpar;](https://dev.to/thekarlesi/how-id-learn-web-dev-from-scratch-in-2025-without-wasting-time-28hj)
+- [Transform web pages at the edge](https://dev.to/fastly/transform-web-pages-at-the-edge-1lop)
+- [EKS Networking Explained: Why am I running out of IPs? &lpar;Part 1&rpar;](https://dev.to/dap0am_/eks-networking-explained-why-am-i-running-out-of-ips-part-1-8f3)
+- [[Boost]](https://dev.to/kyl67899/-1mfa)
+- [🎥 Prototype Design Pattern video just dropped!](https://dev.to/dotnetfullstackdev/prototype-design-pattern-video-just-dropped-314i)
+- [StrengthX](https://dev.to/haroontrailblazer/strengthx-4cbe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
