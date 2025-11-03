@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🧱 Lesson 5  - Working with PostgreSQL &lpar;Multi-Database Setup&rpar;](https://dev.to/farrukh_rehman/lesson-5-working-with-postgresql-multi-database-setup-3ngg)
-- [Understanding the Design of Optimizers with me](https://dev.to/tri_vo/understanding-the-design-of-optimizers-with-me-18f)
-- [Building the Classic 2048 Game with HTML5 and JavaScript](https://dev.to/gamh5games/building-the-classic-2048-game-with-html5-and-javascript-fk7)
-- [I independently developed three AI tool websites: Architecture, Automation Stack, and Painful Lessons Learned.](https://dev.to/charlie_s_c9de68658cfe2a/i-independently-developed-three-ai-tool-websites-architecture-automation-stack-and-painful-28gh)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-55ak)
+- [Create Telegram-style Spoiler Text Effects with spoilerjs](https://dev.to/jqueryscript/create-telegram-style-spoiler-text-effects-with-spoilerjs-5bd5)
+- [Introducing metadata.party: your free and open source metadata API](https://dev.to/mr_m_262f9c3501e842103601/introducing-metadataparty-your-free-and-open-source-metadata-api-lp2)
+- [Using GNU toolchain for Windows kernel-mode drivers](https://dev.to/iprosk/using-gnu-toolchain-for-windows-kernel-mode-drivers-5cfd)
+- [🌍 Explore, Enjoy, Escape. — The Three E’s of a Beautiful Journey](https://dev.to/jatayuvai_6dcccf9b998e2ce/explore-enjoy-escape-the-three-es-of-a-beautiful-journey-48d1)
+- [Street-Smart Coding—30 Lessons to Help You Code Like a Pro &lpar;My New Book Is Here&rpar;](https://dev.to/canro91/street-smart-coding-30-lessons-to-help-you-code-like-a-pro-my-new-book-is-here-2npd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
