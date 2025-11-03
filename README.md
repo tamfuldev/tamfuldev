@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Log Ninja: The Ultimate VS Code Extension for Effortless Debug Logging](https://dev.to/rakeshgombi/log-ninja-the-ultimate-vs-code-extension-for-effortless-debug-logging-47fb)
-- [React Hooks: A Comprehensive Cheatsheet &amp; Guide](https://dev.to/mahdardavari/react-hooks-a-comprehensive-cheatsheet-guide-35f)
-- [Understanding LangChain and LangGraph: A Beginner’s Guide to AI Workflows](https://dev.to/manishmshiva/understanding-langchain-and-langgraph-a-beginners-guide-to-ai-workflows-1aeo)
-- [What is while loop?](https://dev.to/aj_arul/what-is-while-loop-385c)
-- [Deflanderization for Game Dialogue: Balancing Character Authenticity with TaskExecution in LLM-based NPCs](https://dev.to/paperium/deflanderization-for-game-dialogue-balancing-character-authenticity-with-taskexecution-in-2gki)
+- [Connect Claude Desktop to Local MCP Servers](https://dev.to/danishashko/connect-claude-desktop-to-local-mcp-servers-2ia8)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-1jj2)
+- [Event-Driven State Management with NgRx Signal Store](https://dev.to/dimeloper/event-driven-state-management-with-ngrx-signal-store-j8i)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-1mbo)
+- [How I’d Learn Web Dev from Scratch in 2025 &lpar;Without Wasting Time&rpar;](https://dev.to/thekarlesi/how-id-learn-web-dev-from-scratch-in-2025-without-wasting-time-28hj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
