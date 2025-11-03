@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Silent Threat: Visually Triggered AI Hijacking](https://dev.to/arvind_sundararajan/the-silent-threat-visually-triggered-ai-hijacking-1gna)
-- [Building Trinity Protocol v3.1: A Deep Dive into 2-of-3 Multi-Chain Consensus](https://dev.to/chronosvault/building-trinity-protocol-v31-a-deep-dive-into-2-of-3-multi-chain-consensus-139j)
-- [Reflections of Hacktoberfest](https://dev.to/aloisseckar/reflections-of-hacktoberfest-3ef2)
-- [Git Basics: A Beginner&#39;s Guide to Naming Conventions](https://dev.to/michaellarocca/git-basics-a-beginners-guide-to-naming-conventions-p2j)
-- [Recording My Experiments in Spec-Driven Development](https://dev.to/imdone/recording-my-experiments-in-spec-driven-development-40e0)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-i1o)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-1i6)
+- [You&#39;re absolutely right!](https://dev.to/ben/youre-absolutely-right-459f)
+- [Introducing Spira - Making a Shell #0](https://dev.to/toga56784/introducing-spira-making-a-shell-0-3kl8)
+- [In AI, Everything is Meta](https://dev.to/phil-whittaker/in-ai-everything-is-meta-5c22)
 <!-- BLOG-POST-LIST:END -->
 
 ---
