@@ -4,11 +4,13 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Design Innovations of NopGraphQL: From API Protocol to a General-Purpose Information Operation Engine](https://dev.to/canonical/the-design-innovations-of-nopgraphql-from-api-protocol-to-a-general-purpose-information-operation-f5g)
-- [Code, community, and copilot. AI is changing the way we contribute](https://dev.to/mishmanners/code-community-and-copilot-ai-is-changing-the-way-we-contribute-2b3n)
-- [Adding Metrics as You Write Your Logs in Node.js](https://dev.to/theogravity/adding-metrics-as-you-write-your-logs-in-nodejs-3ag0)
-- [&quot;Building Mind’s Eye &amp; BinFlow: Architecting Web4’s Temporal Intelligence Layer&quot;](https://dev.to/peacebinflow/building-minds-eye-binflow-architecting-web4s-temporal-intelligence-layer-m9f)
-- [Building LAW-T: Creating a Time-Native Programming Language from Scratch](https://dev.to/peacebinflow/building-law-t-creating-a-time-native-programming-language-from-scratch-10ok)
+- [Pushing Python to 20,000 Requests Sent/Second](https://dev.to/lafftar/pushing-python-to-20000-requests-sentsecond-36d2)
+- [If someone told me a few years ago that I would publish 40+ books on AI, coding, automation, and productivity, and many would become bestsellers, I would have laughed.
+
+Because I was not a traditional coder!](https://dev.to/jaideepparashar/if-someone-told-me-a-few-years-ago-that-i-would-publish-40-books-on-ai-coding-automation-and-1hm4)
+- [What I Learned Publishing Technical Books on Amazon &lpar;Without Being a Coder&rpar;](https://dev.to/jaideepparashar/what-i-learned-publishing-technical-books-on-amazon-without-being-a-coder-3co3)
+- [Malware analysis - Hancitor Loader](https://dev.to/irmch/malware-analysis-hancitor-loader-2ofn)
+- [How I Integrated an AI Agent into Free GitLab CI/CD](https://dev.to/pavel_mulin_478b0f72cc6c5/how-i-integrated-an-ai-agent-into-free-gitlab-cicd-252o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
