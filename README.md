@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Graphing in JavaScript](https://dev.to/eachampagne/graphing-in-javascript-4e86)
-- [Is Your Data Stuck in the Cloud? Edge Computing to the Rescue!](https://dev.to/karthik_n/is-your-data-stuck-in-the-cloud-edge-computing-to-the-rescue-42l5)
-- [Monitor Gemini CLI using OpenTelemetry for realtime usage statistics](https://dev.to/agardnerit/monitor-gemini-cli-using-opentelemetry-for-realtime-usage-statistics-3adi)
-- [CMake study](https://dev.to/minwook/cmake-study-5he3)
-- [The Ultimate AI Duo: ChatGPT + Golpo.AI Made Storytelling Effortless](https://dev.to/badass_tech-ae2025/the-ultimate-ai-duo-chatgpt-golpoai-made-storytelling-effortless-4aje)
+- [My AI habit Tracker](https://dev.to/john_otienoh/my-ai-habit-tracker-1l8j)
+- [KT142C Chip – BUSY Pin Idle Voltage Only 0.2V? + Low Power Mode Configuration Guide](https://dev.to/ble-voice-cn/kt142c-chip-busy-pin-idle-voltage-only-02v-low-power-mode-configuration-guide-5f1g)
+- [Consciousness Emerges in Waves: Evidence from Scale-Dependent Resonance](https://dev.to/aureus_c_b3ba7f87cc34d74d49/consciousness-emerges-in-waves-evidence-from-scale-dependent-resonance-3cj)
+- [I built ARIA - Adaptive Resonant Intelligent Architecture](https://dev.to/aria_dontmindme/i-built-aria-adaptive-resonant-intelligent-architecture-1a9i)
+- [App power by LLM and Tools in Elixir](https://dev.to/manhvanvu/app-power-by-llm-and-tools-in-elixir-2bgb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
