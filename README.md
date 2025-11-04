@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Common LLM Mistakes in Project Management and How to Fix Them](https://dev.to/sahil_aggarwal/common-llm-mistakes-in-project-management-and-how-to-fix-them-2d67)
-- [How JavaScript Works: The Runtime Environment](https://dev.to/adelstiti/how-javascript-works-the-runtime-environment-3e52)
-- [Why Developers Should Study Human Behavior Before Code](https://dev.to/rohit_gavali_0c2ad84fe4e0/why-developers-should-study-human-behavior-before-code-j1n)
-- [A Lightweight Web Component for Building Custom Circular Sliders](https://dev.to/jqueryscript/a-lightweight-web-component-for-building-custom-circular-sliders-3nd4)
-- [[Boost]](https://dev.to/wisdom_emmanuel_c7ccf3411/-2eji)
+- [Vibe Coding Advantages and Drawbacks for Different Types of Users](https://dev.to/momen_hq/vibe-coding-advantages-and-drawbacks-for-different-types-of-users-1fjk)
+- [How We Built the Ultimate AI Content Generator Plugin for PayloadCMS](https://dev.to/mygom/how-we-built-the-ultimate-ai-content-generator-plugin-for-payloadcms-2jb1)
+- [Automating Azure SFTP deployment with Terraform](https://dev.to/techielass/automating-azure-sftp-deployment-with-terraform-4355)
+- [Ringer Movies: ‘The Truman Show’ With Bill Simmons, Glen Powell, and Chris Ryan | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-the-truman-show-with-bill-simmons-glen-powell-and-chris-ryan-the-rewatchables-3gkl)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-1fe9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
