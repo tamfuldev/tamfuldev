@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Precise Real-Time Clock with Arduino and DS3231MZ+](https://dev.to/censtry/building-a-precise-real-time-clock-with-arduino-and-ds3231mz-1fch)
-- [用代理精准测试全球广告活动](https://dev.to/lopezjessicancmxe_e881660/yong-dai-li-jing-zhun-ce-shi-quan-qiu-yan-gao-huo-dong-2l2j)
-- [Information Gain-based Policy Optimization: A Simple and Effective Approach forMulti-Turn LLM Agents](https://dev.to/paperium/information-gain-based-policy-optimization-a-simple-and-effective-approach-formulti-turn-llm-agents-g4p)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-55gg)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-3lh3)
+- [What will the OpenAI AWS cloud computing deal change?](https://dev.to/jay_all_day/what-will-the-openai-aws-cloud-computing-deal-change-1fbi)
+- [IT Project Management 360: Methods, Metrics, and Future Trends](https://dev.to/taskford/it-project-management-360-methods-metrics-and-future-trends-46bb)
+- [Flip a Coin Online: The Technology Behind Fair Virtual Coin Tosses](https://dev.to/mramzanofficial/flip-a-coin-online-the-technology-behind-fair-virtual-coin-tosses-151o)
+- [PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-CompactVision-Language Model](https://dev.to/paperium/paddleocr-vl-boosting-multilingual-document-parsing-via-a-09b-ultra-compactvision-language-model-226l)
+- [The DynamoDB DNS Race Condition That Broke The Internet &lpar;And Why Your Self-Healing Systems Might Be Suicide-Bots&rpar;](https://dev.to/codetestfactory/the-dynamodb-dns-race-condition-that-broke-the-internet-and-why-your-self-healing-systems-might-be-24f5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
