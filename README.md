@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Challenges Startups Face with Cloud Infrastructure &lpar;From a DevOps Engineer’s Perspective&rpar;](https://dev.to/aleksandr_pliev_d30a01b0d/the-hidden-challenges-startups-face-with-cloud-infrastructure-from-a-devops-engineers-perspective-2ek8)
-- [How to Create a Vendor Management Plan: Step-by-Step Process](https://dev.to/writegenic/how-to-create-a-vendor-management-plan-step-by-step-process-1cfo)
-- [Top Tech Upgrades Developers and Project Leads Must Pursue in 2025](https://dev.to/logicverse_2025/top-tech-upgrades-developers-and-project-leads-must-pursue-in-2025-4kip)
-- [GitKarma: Review to Earn. Spend to Merge.](https://dev.to/turutupa/gitkarma-review-to-earn-spend-to-merge-453i)
-- [Monthly Partitioning and Automatic Rotation of Tables in PostgreSQL &lpar;AWS RDS&rpar;](https://dev.to/ivajofranc/monthly-partitioning-and-automatic-rotation-of-tables-in-postgresql-aws-rds-25pl)
+- [How OAuth, MCP, and the OpenAI Apps SDK, Power the Next Generation of Interactive AI Experiences &lpar;with Stytch &amp; OpenAI&rpar;](https://dev.to/codingcatdev/how-oauth-mcp-and-the-openai-apps-sdk-power-the-next-generation-of-interactive-ai-experiences-1agm)
+- [How Reasoning LLMs Are Challenging Orchestration](https://dev.to/onepoint/how-reasoning-llms-are-challenging-orchestration-42pm)
+- [🚀 A Fun Tour of Go’s Official Website!](https://dev.to/ahmed112/a-fun-tour-of-gos-official-website-47pn)
+- [Modern Card Hover Animations, CSS and JavaScript](https://dev.to/kadenwildauer/modern-card-hover-animations-css-and-javascript-3cg3)
+- [I Timed It: How I Created a 20-Step E2E Test in 6 Minutes &lpar;Using Debuggo&rpar;](https://dev.to/aragossa/i-timed-it-how-i-created-a-20-step-e2e-test-in-6-minutes-using-debuggo-33e8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
