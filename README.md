@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What will the OpenAI AWS cloud computing deal change?](https://dev.to/jay_all_day/what-will-the-openai-aws-cloud-computing-deal-change-1fbi)
-- [IT Project Management 360: Methods, Metrics, and Future Trends](https://dev.to/taskford/it-project-management-360-methods-metrics-and-future-trends-46bb)
-- [Flip a Coin Online: The Technology Behind Fair Virtual Coin Tosses](https://dev.to/mramzanofficial/flip-a-coin-online-the-technology-behind-fair-virtual-coin-tosses-151o)
-- [PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-CompactVision-Language Model](https://dev.to/paperium/paddleocr-vl-boosting-multilingual-document-parsing-via-a-09b-ultra-compactvision-language-model-226l)
-- [The DynamoDB DNS Race Condition That Broke The Internet &lpar;And Why Your Self-Healing Systems Might Be Suicide-Bots&rpar;](https://dev.to/codetestfactory/the-dynamodb-dns-race-condition-that-broke-the-internet-and-why-your-self-healing-systems-might-be-24f5)
+- [Install ISPConfig with Nginx Webserver on Ubuntu 22.04](https://dev.to/siswoyo/install-ispconfig-with-nginx-webserver-on-ubuntu-2204-492f)
+- [📰 Major Tech News: November 4th, 2025: OpenAI&#39;s $38 Billion Amazon Pact, Nvidia&#39;s AI-Fueled Surge, and China&#39;s Chip Power Play](https://dev.to/om_shree_0709/major-tech-news-november-4th-2025-openais-38-billion-amazon-pact-nvidias-ai-fueled-surge-4noc)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-31pb)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-1am7)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-32p4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
