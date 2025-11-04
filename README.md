@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Code Smell 313 - Workslop Code](https://dev.to/mcsee/code-smell-313-workslop-code-n09)
-- [Things to Avoid in Nainital—Common Tourist Mistakes](https://dev.to/nainitallakeview/things-to-avoid-in-nainital-common-tourist-mistakes-gdk)
-- [Is Quantum Computing the Future? Let&#39;s Demystify It!](https://dev.to/karthik_n/is-quantum-computing-the-future-lets-demystify-it-368d)
-- [Jamie Sinclaire Shares 5 Tips To Build Trust Through Marketing](https://dev.to/jamiesinclaire/jamie-sinclaire-shares-5-tips-to-build-trust-through-marketing-297g)
-- [How to Solve AWS WAF Challenges with Node.js](https://dev.to/ren_joyce_cd41204d5cb261f/how-to-solve-aws-waf-challenges-with-nodejs-2obe)
+- [Building Scalable Online Gaming Platforms: A Developer’s Look into Turnkey Tech Stacks](https://dev.to/bob_packer_7c9018a4d1a1f1/building-scalable-online-gaming-platforms-a-developers-look-into-turnkey-tech-stacks-3gi2)
+- [Как я разработал фильтр товаров для категории «Промышленные масла» на PiterTrade.ru](https://dev.to/nagibin/kak-ia-razrabotal-filtr-tovarov-dlia-katieghorii-na-pitertraderu-2dc9)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-2mh)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-41mk)
+- [China&#39;s AI Diplomacy](https://dev.to/rawveg/chinas-ai-diplomacy-2hf9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
