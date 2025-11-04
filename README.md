@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript Backend Toolkit V2 - the Express stack that writes its own docs, SDK, and admin UI while you code](https://dev.to/themuneebh/typescript-backend-toolkit-v2-the-express-stack-that-writes-its-own-docs-sdk-and-admin-ui-while-2lp5)
-- [The True Cost of AI Integrations: Comparing Performance and Pricing Models for C# Libraries](https://dev.to/lofcz/the-true-cost-of-ai-integrations-comparing-performance-and-pricing-models-for-c-libraries-4fg4)
-- [Building WriteRight: My Journey Creating an AI Writing Assistant with Mastra](https://dev.to/alameen_abdulrahmon_972/building-writeright-my-journey-creating-an-ai-writing-assistant-with-mastra-4b2o)
-- [See stunning first images from the Vera C. Rubin Observatory](https://dev.to/yagyaraj_sharma_6cd410179/see-stunning-first-images-from-the-vera-c-rubin-observatory-289c)
-- [System.in, Scanner, and File Descriptors – JAVA Case study](https://dev.to/siva_surya_3ccc73ef7c9833/systemin-scanner-and-file-descriptors-java-case-study-h2p)
+- [Building a Precise Real-Time Clock with Arduino and DS3231MZ+](https://dev.to/censtry/building-a-precise-real-time-clock-with-arduino-and-ds3231mz-1fch)
+- [用代理精准测试全球广告活动](https://dev.to/lopezjessicancmxe_e881660/yong-dai-li-jing-zhun-ce-shi-quan-qiu-yan-gao-huo-dong-2l2j)
+- [Information Gain-based Policy Optimization: A Simple and Effective Approach forMulti-Turn LLM Agents](https://dev.to/paperium/information-gain-based-policy-optimization-a-simple-and-effective-approach-formulti-turn-llm-agents-g4p)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-55gg)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-3lh3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
