@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building BrandGenie: An AI-Powered Brand Identity Generator with Mastra](https://dev.to/aladetanife/building-brandgenie-an-ai-powered-brand-identity-generator-with-mastra-and-telex-published-true-p6e)
-- [Agentic Entropy-Balanced Policy Optimization](https://dev.to/paperium/agentic-entropy-balanced-policy-optimization-38gm)
-- [Building JobInsightAI: An Intelligent Telex Agent for Career Growth — HNG Stage 3 Backend Task](https://dev.to/kweku_annan/building-jobinsightai-an-intelligent-telex-agent-for-career-growth-hng-stage-3-backend-task-1pa6)
-- [Provide storage for the public website](https://dev.to/daniel_shaibu_49affe8d51e/provide-storage-for-the-public-website-3gha)
-- [7 Proven Core Web Vitals Optimization Patterns That Boost Performance and User Experience](https://dev.to/aaravjoshi/7-proven-core-web-vitals-optimization-patterns-that-boost-performance-and-user-experience-5fah)
+- [TypeScript Backend Toolkit V2 - the Express stack that writes its own docs, SDK, and admin UI while you code](https://dev.to/themuneebh/typescript-backend-toolkit-v2-the-express-stack-that-writes-its-own-docs-sdk-and-admin-ui-while-2lp5)
+- [The True Cost of AI Integrations: Comparing Performance and Pricing Models for C# Libraries](https://dev.to/lofcz/the-true-cost-of-ai-integrations-comparing-performance-and-pricing-models-for-c-libraries-4fg4)
+- [Building WriteRight: My Journey Creating an AI Writing Assistant with Mastra](https://dev.to/alameen_abdulrahmon_972/building-writeright-my-journey-creating-an-ai-writing-assistant-with-mastra-4b2o)
+- [See stunning first images from the Vera C. Rubin Observatory](https://dev.to/yagyaraj_sharma_6cd410179/see-stunning-first-images-from-the-vera-c-rubin-observatory-289c)
+- [System.in, Scanner, and File Descriptors – JAVA Case study](https://dev.to/siva_surya_3ccc73ef7c9833/systemin-scanner-and-file-descriptors-java-case-study-h2p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
