@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How AI Browsers Are the New Hotness and What This Means for Us](https://dev.to/andrewbaisden/how-ai-browsers-are-the-new-hotness-and-what-this-means-for-us-38dp)
-- [The Developer&#39;s Guide to Building a Better Trading System with Scope360](https://dev.to/mikecodez/the-developers-guide-to-building-a-better-trading-system-with-scope360-5ej5)
-- [Microsoft Recall vs Recall Assist: Privacy Comparison](https://dev.to/nodminger/microsoft-recall-vs-recall-assist-privacy-comparison-16oa)
-- [Meetily vs Otter.ai: Privacy-First Alternative for 2025](https://dev.to/zackriya/meetily-vs-otterai-privacy-first-alternative-for-2025-bh5)
-- [Day 1, part II : Call by value](https://dev.to/chhavi_joshi_ede276cfcc06/day-1-part-ii-call-by-value-348p)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-3mi2)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-p3o)
+- [CinemaSins: Everything Wrong With Predator: Killer of Killers In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-predator-killer-of-killers-in-16-minutes-or-less-2m2h)
+- [It&#39;s time to start measuring accuracy of data extraction with downstream systems and usability in mind, not just vanity metrics for a marketing slide](https://dev.to/drguthals/its-time-to-start-measuring-accuracy-of-data-extraction-with-downstream-systems-and-usability-in-1a2m)
+- [Optional Is Not Optional in C++ &lpar;and Definitely Not a Pointer&rpar;](https://dev.to/kyrylorud/optional-is-not-optional-in-c-and-definitely-not-a-pointer-34jp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
