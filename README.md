@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Can a HashMap Have a Null Key? What About ConcurrentHashMap?](https://dev.to/realnamehidden1_61/can-a-hashmap-have-a-null-key-what-about-concurrenthashmap-3cjp)
-- [Java Access Modifiers &amp; Packages](https://dev.to/masteringbackend/java-access-modifiers-packages-51i)
-- [Begrijpen van Pod Pending States: Waarom je Pods niet plannen?](https://dev.to/shubhcloud/begrijpen-van-pod-pending-states-waarom-je-pods-niet-plannen-51b6)
-- [WTF is HashiCorp Nomad?](https://dev.to/dailybugle33/wtf-is-hashicorp-nomad-3op1)
-- [Building MeridianDB: Solving AI&#39;s Memory Crisis with Multi-Dimensional RAG](https://dev.to/araldhafeeri/building-meridiandb-solving-ais-memory-crisis-with-multi-dimensional-rag-26m5)
+- [Jeff Su: 4 Next-Level ChatGPT Techniques &lpar;Save 15+ Hours Weekly&rpar;](https://dev.to/future_ai/jeff-su-4-next-level-chatgpt-techniques-save-15-hours-weekly-4fnb)
+- [5 Frontend Frameworks That Will Dominate 2026 &lpar;And Fix Your SaaS UI Problems&rpar;](https://dev.to/hashbyt/5-frontend-frameworks-that-will-dominate-2026-and-fix-your-saas-ui-problems-48hj)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-2l28)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-5fn2)
+- [CinemaSins: Everything Wrong With Predator: Killer of Killers In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-predator-killer-of-killers-in-16-minutes-or-less-5d4a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
