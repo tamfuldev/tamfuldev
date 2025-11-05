@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Artificial Intelligence is Reshaping Food Production and Delivery](https://dev.to/mitchelljhonson/how-artificial-intelligence-is-reshaping-food-production-and-delivery-3c7k)
-- [Setting Up Storage for IT Department Testing and Training in Azure](https://dev.to/adebayo_ganiyatoladunjoy/setting-up-storage-for-it-department-testing-and-training-in-azure-428j)
-- [Adding a Custom Context Menu to CanvasJS Charts on Right-Click](https://dev.to/manoj_004d/adding-a-custom-context-menu-to-canvasjs-charts-on-right-click-40k2)
-- [Software Engineering vs Data Science: A Real Talk for Students](https://dev.to/mohamed-riham/software-engineering-vs-data-science-in-2025-a-real-talk-for-students-27c8)
-- [How Self-Attention Actually Works &lpar;Simple Explanation&rpar;](https://dev.to/ajith_kumar_593bb762c09ce/how-self-attention-actually-works-simple-explanation-4086)
+- [Jeff Su: 4 Next-Level ChatGPT Techniques](https://dev.to/future_ai/jeff-su-4-next-level-chatgpt-techniques-4nfc)
+- [🏗️ Full Stack Open — Modern Web Development, No Cost](https://dev.to/ml318097/full-stack-open-modern-web-development-no-cost-lfd)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-1gk5)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-3lfo)
+- [CinemaSins: Everything Wrong With Predator: Killer of Killers In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-predator-killer-of-killers-in-16-minutes-or-less-fa7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
