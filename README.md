@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [📊🔍 OpenSearch Dashboards: Optimizing Massive Data Queries &lpar;Big Data&rpar; with Asynchronous Search](https://dev.to/fonteeboa/opensearch-dashboards-optimizing-massive-data-queries-big-data-with-asynchronous-search-16ib)
-- [While Everyone Argues About AI Regulation, Data Is the Real Wild West](https://dev.to/aronchick/while-everyone-argues-about-ai-regulation-data-is-the-real-wild-west-4f8a)
-- [How to Choose the Right Tech Stack for Your SaaS &lpar;Without Overthinking It&rpar;](https://dev.to/thekarlesi/how-to-choose-the-right-tech-stack-for-your-saas-without-overthinking-it-2g9j)
-- [Rasterizer Project - Part 4: Triceratops Wireframe](https://dev.to/noticeablesmeh/rasterizer-project-part-4-triceratops-wireframe-26d1)
-- [Securing Samba at the Global Level – Controlling the Server’s DNA](https://dev.to/sebos/securing-samba-at-the-global-level-controlling-the-servers-dna-1o8g)
+- [Building TransMonkey: Lessons Learned from Creating an AI Translation Platform](https://dev.to/charlie_s_c9de68658cfe2a/building-transmonkey-lessons-learned-from-creating-an-ai-translation-platform-466e)
+- [The Secret Life of Python: The Executor - Running Blocking Code Without Blocking](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-executor-running-blocking-code-without-blocking-2nih)
+- [The older I get, the better my code becomes](https://dev.to/dev_tips/the-older-i-get-the-better-my-code-becomes-28hd)
+- [Building Definition Bot: Thinking Simple, Building Smart](https://dev.to/raji_sherifdeenayinla_a3/building-definition-bot-thinking-simple-building-smart-5bdb)
+- [Load Balancing 100,000 WebSockets &lpar;and Somehow Surviving It&rpar;](https://dev.to/dev_tips/load-balancing-100000-websockets-and-somehow-surviving-it-fm1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
