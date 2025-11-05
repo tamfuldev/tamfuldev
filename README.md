@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DORA Metrics: Measuring DevOps Success](https://dev.to/rosgluk/dora-metrics-measuring-devops-success-9fc)
-- [The Invisible Developer: Why Caring Burns You Out](https://dev.to/junothreadborne/the-invisible-developer-why-caring-burns-you-out-p8o)
-- [Celebrating All Hallow&#39;s Eve](https://dev.to/mishmanners/celebrating-all-hallows-eve-164p)
-- [How I Got My First 2,000 Followers on Dev.to With These Simple Strategies](https://dev.to/jaideepparashar/how-i-got-my-first-2000-followers-on-devto-with-these-simple-strategies-3183)
-- [I Work in Healthcare, and I Built Syda to Solve One Simple Problem: Test Data](https://dev.to/ramkumar2606/i-work-in-healthcare-and-i-built-syda-to-solve-one-simple-problem-test-data-48md)
+- [Building an AI-Powered E-Commerce Platform with Rich UI Rendering](https://dev.to/exploredataaiml/building-an-ai-powered-e-commerce-platform-with-rich-ui-rendering-11gi)
+- [DevSecOps Is Broken &lpar;and We All Kinda Know It&rpar;](https://dev.to/dev_tips/devsecops-is-broken-and-we-all-kinda-know-it-2ib7)
+- [⚔️ “Flutter vs React Native 2025: Who Wins the Cross-Platform War?”](https://dev.to/mridudixit15/flutter-vs-react-native-2025-who-wins-the-cross-platform-war-4hfh)
+- [I built a fast, distraction-free online Image Crop Tool](https://dev.to/guruwant_sharma_013d6ccaa/i-built-a-fast-distraction-free-online-image-crop-tool-3kd1)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-5o5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
