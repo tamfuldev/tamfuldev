@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Designing Data-Intensive Applications [Book Review]-The Big Ideas Behind Reliable, Scalable and Maintainable Systems](https://dev.to/hectorw_tt/designing-data-intensive-applications-book-review-the-big-ideas-behind-reliable-scalable-and-298m)
-- [Building an IMU Simulator from the Ground Up: A Journey Through Inertial Navigation](https://dev.to/pederzoli/building-an-imu-simulator-from-the-ground-up-a-journey-through-inertial-navigation-187j)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-3ojl)
-- [Why Your Healthcare Organization’s Customer Experience Feels Broken — And How CRM Could Save It](https://dev.to/chillicode/why-your-healthcare-organizations-customer-experience-feels-broken-and-how-crm-could-save-it-jh3)
-- [AI That Shows Its Work: The Transparent Revolution of PALs](https://dev.to/naresh_007/ai-that-shows-its-work-the-transparent-revolution-of-pals-59ia)
+- [How AI Browsers Are the New Hotness and What This Means for Us](https://dev.to/andrewbaisden/how-ai-browsers-are-the-new-hotness-and-what-this-means-for-us-38dp)
+- [The Developer&#39;s Guide to Building a Better Trading System with Scope360](https://dev.to/mikecodez/the-developers-guide-to-building-a-better-trading-system-with-scope360-5ej5)
+- [Microsoft Recall vs Recall Assist: Privacy Comparison](https://dev.to/nodminger/microsoft-recall-vs-recall-assist-privacy-comparison-16oa)
+- [Meetily vs Otter.ai: Privacy-First Alternative for 2025](https://dev.to/zackriya/meetily-vs-otterai-privacy-first-alternative-for-2025-bh5)
+- [Day 1, part II : Call by value](https://dev.to/chhavi_joshi_ede276cfcc06/day-1-part-ii-call-by-value-348p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
