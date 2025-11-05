@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: 4 Next-Level ChatGPT Techniques &lpar;Save 15+ Hours Weekly&rpar;](https://dev.to/future_ai/jeff-su-4-next-level-chatgpt-techniques-save-15-hours-weekly-h9n)
-- [Ringer Movies: ‘The Truman Show’ With Bill Simmons, Glen Powell, and Chris Ryan | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-the-truman-show-with-bill-simmons-glen-powell-and-chris-ryan-the-rewatchables-ekj)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-4i13)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-4089)
-- [CinemaSins: Everything Wrong With Predator: Killer of Killers In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-predator-killer-of-killers-in-16-minutes-or-less-1bog)
+- [CLI Agent Orchestrator: When One AI Agent Isn&#39;t Enough](https://dev.to/pinishv/cli-agent-orchestrator-when-one-ai-agent-isnt-enough-dc9)
+- [LeetCode: 1. Two Sum, Solución paso a paso](https://dev.to/luisangelfr/leetcode-1-two-sum-solucion-paso-a-paso-2a5c)
+- [AI and the Loss of the Flow](https://dev.to/joacod/ai-and-the-loss-of-the-flow-13hc)
+- [Master Java indexOf&lpar;&rpar;: Your Ultimate Guide to Finding Strings](https://dev.to/satyam_gupta_0d1ff2152dcc/master-java-indexof-your-ultimate-guide-to-finding-strings-1ohd)
+- [Elements in HTML](https://dev.to/s_sarumathi_a1de306480d33/elements-in-html-1ch6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
