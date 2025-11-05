@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building TransMonkey: Lessons Learned from Creating an AI Translation Platform](https://dev.to/charlie_s_c9de68658cfe2a/building-transmonkey-lessons-learned-from-creating-an-ai-translation-platform-466e)
-- [The Secret Life of Python: The Executor - Running Blocking Code Without Blocking](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-executor-running-blocking-code-without-blocking-2nih)
-- [The older I get, the better my code becomes](https://dev.to/dev_tips/the-older-i-get-the-better-my-code-becomes-28hd)
-- [Building Definition Bot: Thinking Simple, Building Smart](https://dev.to/raji_sherifdeenayinla_a3/building-definition-bot-thinking-simple-building-smart-5bdb)
-- [Load Balancing 100,000 WebSockets &lpar;and Somehow Surviving It&rpar;](https://dev.to/dev_tips/load-balancing-100000-websockets-and-somehow-surviving-it-fm1)
+- [DORA Metrics: Measuring DevOps Success](https://dev.to/rosgluk/dora-metrics-measuring-devops-success-9fc)
+- [The Invisible Developer: Why Caring Burns You Out](https://dev.to/junothreadborne/the-invisible-developer-why-caring-burns-you-out-p8o)
+- [Celebrating All Hallow&#39;s Eve](https://dev.to/mishmanners/celebrating-all-hallows-eve-164p)
+- [How I Got My First 2,000 Followers on Dev.to With These Simple Strategies](https://dev.to/jaideepparashar/how-i-got-my-first-2000-followers-on-devto-with-these-simple-strategies-3183)
+- [I Work in Healthcare, and I Built Syda to Solve One Simple Problem: Test Data](https://dev.to/ramkumar2606/i-work-in-healthcare-and-i-built-syda-to-solve-one-simple-problem-test-data-48md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
