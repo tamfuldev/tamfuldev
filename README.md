@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-15b7)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-52h2)
-- [Microsoft just updated their docs on container-based development environments for #msdyn365BC.](https://dev.to/jeffreybulanadi/microsoft-just-updated-their-docs-on-container-based-development-environments-for-msdyn365bc-42c8)
-- [How to get started with the Gemini 3 Pro Preview](https://dev.to/_37bbf0c253c0b3edec531e/how-to-get-started-with-the-gemini-3-pro-preview-2lco)
-- [Python basics - Day 20](https://dev.to/ian_b838138a27a917398d181/python-basics-day-20-416k)
+- [Building Sortable Tree — A Lightweight Drag &amp; Drop Tree in Vanilla TypeScript](https://dev.to/marcantondahmen/building-sortable-tree-a-lightweight-drag-drop-tree-in-vanilla-typescript-f7l)
+- [🧑‍🚀 Choosing the Right Engine to Launch Your LLM &lpar;LM Studio, Ollama, and vLLM&rpar;](https://dev.to/astronaut27/choosing-the-right-engine-to-launch-your-llm-lm-studio-ollama-and-vllm-195o)
+- [Reminder: EOL for Puppet CD 4.x and Puppet Comply 2.x](https://dev.to/puppet/reminder-eol-for-puppet-cd-4x-and-puppet-comply-2x-27h6)
+- [How Experiential Events Bridge the Gap Between Tech and People](https://dev.to/mmakerscafe/how-experiential-events-bridge-the-gap-between-tech-and-people-1740)
+- [Daily Artificial Intelligence Digest - Nov 07, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-nov-07-2025-220a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
