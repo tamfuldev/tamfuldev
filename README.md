@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Skeptic&#39;s Guide to Vibe Coding](https://dev.to/mollie_pettit_2fa2a4d10f7/a-skeptics-guide-to-vibe-coding-213p)
-- [Effective Terraforming: Secrets of the Pros](https://dev.to/tavernetech/effective-terraforming-secrets-of-the-pros-54a1)
-- [Laravel Log Cleaner v2.0 - Memory-Efficient Log Management with Compression &amp; Backup](https://dev.to/jiordi_kengne/laravel-log-cleaner-v20-memory-efficient-log-management-with-compression-backup-3643)
-- [Detached agent chains that work like people do](https://dev.to/antti_kaipila/detached-agent-chains-that-work-like-people-do-5h8l)
-- [Why Business Central’s Standard BOM Setup Falls Short for Complex Configurations](https://dev.to/insight_works/why-business-centrals-standard-bom-setup-falls-short-for-complex-configurations-kal)
+- [Programming Languages Lie: Variables Aren’t What You Think They Are](https://dev.to/mrasadatik/programming-languages-lie-variables-arent-what-you-think-they-are-2jc1)
+- [div diary 20251105](https://dev.to/hirooka_kazuya_d7f37d3cde/div-diary-20251105-595f)
+- [How to sign your NativePHP Android App for the Google Play Store](https://dev.to/michaelishri/how-to-sign-your-nativephp-android-app-for-the-google-play-store-4hac)
+- [Amazon Prime Day 2025: The best early deals you can shop now, dates and everything else you need to know](https://dev.to/yagyaraj_sharma_6cd410179/amazon-prime-day-2025-the-best-early-deals-you-can-shop-now-dates-and-everything-else-you-need-to-1gdl)
+- [Supercharge Your Pipeline: How to Integrate AI-Powered Code Reviews with GitHub Actions](https://dev.to/picoable/supercharge-your-pipeline-how-to-integrate-ai-powered-code-reviews-with-github-actions-1d61)
 <!-- BLOG-POST-LIST:END -->
 
 ---
