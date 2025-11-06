@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Re-Typing Terminal Commands! Boost Your Workflow with IntelliShell](https://dev.to/lasantosr/stop-re-typing-terminal-commands-boost-your-workflow-with-intellishell-530h)
-- [Migrating a Laravel Application From a Relational Database &lpar;PostgreSQL&rpar; to MongoDB](https://dev.to/mongodb/migrating-a-laravel-application-from-a-relational-database-postgresql-to-mongodb-m0m)
-- [Understanding Nodes in Godot &lpar;For Absolute Beginners&rpar;](https://dev.to/jimmymcbride/understanding-nodes-in-godot-for-absolute-beginners-ekk)
-- [Network Topology|Physical and Logical Topology and types in detail| Israh Binoj](https://dev.to/israhverse/network-topologyphysical-and-logical-topology-and-types-in-detail-israh-binoj-57e)
-- [Les Cloud Development Environments &lpar;CDE&rpar; - Embarquement immédiat !](https://dev.to/onepoint/les-cloud-development-environments-cde-embarquement-immediat--729)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-15b7)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-52h2)
+- [Microsoft just updated their docs on container-based development environments for #msdyn365BC.](https://dev.to/jeffreybulanadi/microsoft-just-updated-their-docs-on-container-based-development-environments-for-msdyn365bc-42c8)
+- [How to get started with the Gemini 3 Pro Preview](https://dev.to/_37bbf0c253c0b3edec531e/how-to-get-started-with-the-gemini-3-pro-preview-2lco)
+- [Python basics - Day 20](https://dev.to/ian_b838138a27a917398d181/python-basics-day-20-416k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
