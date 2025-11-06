@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Untapped Risk of Water Management in Sustainability](https://dev.to/esg_rating_/the-untapped-risk-of-water-management-in-sustainability-5f8n)
-- [Website Breakdown Highlights Risks of Unmanaged Plugin Updates, Says Asaaju Peter of Phemight Technologies](https://dev.to/phemight_technologies_281/website-breakdown-highlights-risks-of-unmanaged-plugin-updates-says-asaaju-peter-of-phemight-580k)
-- [MuleSoft - SFTP - Write content to file and upload to server](https://dev.to/elliot518/mulesoft-sftp-write-content-to-file-and-upload-to-server-229n)
-- [Mystery Mansion Mayhem](https://dev.to/ignaciah/mystery-mansion-mayhem-7il)
-- [Complete Guide to Credit Card Fraud Detection: How AI Protects Your Money](https://dev.to/sohan_lal_241c2d80b2705e7/complete-guide-to-credit-card-fraud-detection-how-ai-protects-your-money-4mm9)
+- [Cost Optimization in Azure: Using the FinOps Toolkit to Save Money](https://dev.to/techielass/cost-optimization-in-azure-using-the-finops-toolkit-to-save-money-3mig)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-kc5)
+- [CinemaSins: Everything Wrong With Predator: Killer of Killers In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-predator-killer-of-killers-in-16-minutes-or-less-45a)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-33d)
+- [🚀 Terraform Workspaces and Multi-Environment Deployments](https://dev.to/aws-builders/terraform-workspaces-and-multi-environment-deployments-12gb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
