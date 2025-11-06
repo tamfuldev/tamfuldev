@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why SafeLine is better than traditional WAF](https://dev.to/arina_cholee/why-safeline-is-better-than-traditional-waf-505)
-- [Understanding ARM-Based Android SBCs: Why They’re Shaping the Future of Embedded Computing](https://dev.to/kevinzhang109/understanding-arm-based-android-sbcs-why-theyre-shaping-the-future-of-embedded-computing-388k)
-- [Stop Guessing: Use the Three Tiers of TPS to Improve LLM Adherence and Predictable Output](https://dev.to/teeze_solutions/stop-guessing-use-the-three-tiers-of-tps-to-improve-llm-adherence-and-predictable-output-5e3m)
-- [Beyond Anthropomorphism: Why AI Researchers Need a Latin Taxonomy for LLM Cognitive Phenomena](https://dev.to/teeze_solutions/beyond-anthropomorphism-why-ai-researchers-need-a-latin-taxonomy-for-llm-cognitive-phenomena-2foo)
-- [Treat Your Citations Like Code: How I Refactored My Research Workflow](https://dev.to/vincent_gay_77e325241795e/treat-your-citations-like-code-how-i-refactored-my-research-workflow-141d)
+- [Introducing YasuiJS — A Modern, Minimal REST Framework for Any Runtime](https://dev.to/thomas_barkats_8d0da46be2/introducing-yasuijs-a-modern-minimal-rest-framework-for-any-runtime-4e54)
+- [A Treta do Module Federation e Next.js: Uma História de Falta de Colaboração](https://dev.to/albornozrodrigo/a-treta-do-module-federation-e-nextjs-uma-historia-de-falta-de-colaboracao-12dk)
+- [Conditional logic for jQuery formBuilder in 5 minutes](https://dev.to/jaimonorle/conditional-logic-for-jquery-formbuilder-in-5-minutes-2i8n)
+- [3607. Power Grid Maintenance](https://dev.to/mdarifulhaque/3607-power-grid-maintenance-53f3)
+- [Football Betting: Why This Platform Offers a Smarter, Safer, More Exciting Experience](https://dev.to/publish/football-betting-why-this-platform-offers-a-smarter-safer-more-exciting-experience-1bg4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
