@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Sortable Tree — A Lightweight Drag &amp; Drop Tree in Vanilla TypeScript](https://dev.to/marcantondahmen/building-sortable-tree-a-lightweight-drag-drop-tree-in-vanilla-typescript-f7l)
-- [🧑‍🚀 Choosing the Right Engine to Launch Your LLM &lpar;LM Studio, Ollama, and vLLM&rpar;](https://dev.to/astronaut27/choosing-the-right-engine-to-launch-your-llm-lm-studio-ollama-and-vllm-195o)
-- [Reminder: EOL for Puppet CD 4.x and Puppet Comply 2.x](https://dev.to/puppet/reminder-eol-for-puppet-cd-4x-and-puppet-comply-2x-27h6)
-- [How Experiential Events Bridge the Gap Between Tech and People](https://dev.to/mmakerscafe/how-experiential-events-bridge-the-gap-between-tech-and-people-1740)
-- [Daily Artificial Intelligence Digest - Nov 07, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-nov-07-2025-220a)
+- [DeckerGUI: Establishing a Hybrid AI Ecosystem for the Next Generation Workforce](https://dev.to/ctaxnagomi/deckergui-establishing-a-hybrid-ai-ecosystem-for-the-next-generation-workforce-1gbk)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-32b8)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-i85)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-1218)
+- [The Complete Guide to Your First Open Source Contribution](https://dev.to/pullflow/the-complete-guide-to-your-first-open-source-contribution-2h7c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
