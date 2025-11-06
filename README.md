@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Eksploitasi Web Laravel dan Antisipasinya](https://dev.to/ahmadasroni38/eksploitasi-web-laravel-dan-antisipasinya-2g6l)
-- [El propósito del Testing](https://dev.to/joshuacba08/el-proposito-del-testing-5571)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-1em1)
-- [The rewrite dilemma in software engineering](https://dev.to/rockandnull/the-rewrite-dilemma-in-software-engineering-446h)
-- [How to use Okta to remotely authenticate to your BigQuery MCP Server](https://dev.to/stacklok/how-to-use-okta-to-remotely-authenticate-to-your-bigquery-mcp-server-5a35)
+- [ERC-20, ERC-721,ERC-1155](https://dev.to/leyutsega_abebaw_b520050a/erc-20-erc-721erc-1155-5gel)
+- [🗺️ Engineering for Emergencies: How to Build a Real-Time Disaster Route Finder with Open Source Mapping](https://dev.to/shalinibhavi525sudo/engineering-for-emergencies-how-to-build-a-real-time-disaster-route-finder-with-open-source-5ep4)
+- [🎧 The Silent Crisis: Using Speech Recognition and Sentiment AI for Real-Time Emotional Support](https://dev.to/shalinibhavi525sudo/the-silent-crisis-using-speech-recognition-and-sentiment-ai-for-real-time-emotional-support-jn1)
+- [Build an AWESOME React Portfolio Website &lpar;Coding Bootcamp&rpar;](https://dev.to/codewithsadee/build-an-awesome-react-portfolio-website-coding-bootcamp-2mi9)
+- [Automate Your AWS Cost Audits and Cut Cloud Waste](https://dev.to/santanu_das/automate-your-aws-cost-audits-and-cut-cloud-waste-4gmp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
