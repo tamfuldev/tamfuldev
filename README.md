@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [EU Cyber Resilience Act &lpar;CRA&rpar; Explained: What WP Agencies &amp; Developers Need to Know](https://dev.to/medha_bhatt_21b7dc4cc53e7/eu-cyber-resilience-act-cra-explained-what-wp-agencies-developers-need-to-know-p1l)
-- [AI in Frontend Development: Lessons from Testing Modern Design-to-Code Tools like V0, Builder.io, and Kombai](https://dev.to/prankurpandeyy/ai-in-frontend-development-lessons-from-testing-modern-design-to-code-tools-like-v0-builderio-4g2h)
-- [How Race Conditions Can Break Your System?](https://dev.to/_satria_herman/how-race-condition-will-kill-your-system-ef5)
-- [CODECK: A PORTABLE LINUX BASED COMPUTER](https://dev.to/raghul_e7c01cc9b7219953ab/codeck-a-portable-linux-based-computer-1o18)
-- [🧪 Selur: Reclaiming the Web Contract—The Pure CSS UI Engine You Didn&#39;t Know You Needed](https://dev.to/tdjdev/selur-reclaiming-the-web-contract-the-pure-css-ui-engine-you-didnt-know-you-needed-4912)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2mo6)
+- [CinemaSins: Everything Wrong With Predator: Killer of Killers In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-predator-killer-of-killers-in-16-minutes-or-less-4pd2)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-52b0)
+- [🌐DevOps and Cloud Project: Static Website Hosting with AWS S3 + CloudFront + CI/CD](https://dev.to/ritesh355/devops-and-cloud-project-static-website-hosting-with-aws-s3-cloudfront-cicd-5hhe)
+- [XPicker - a simple and lightweight color picker for Windows](https://dev.to/fr0stxyz/xpicker-a-simple-and-lightweight-color-picker-for-windows-4p25)
 <!-- BLOG-POST-LIST:END -->
 
 ---
