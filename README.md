@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Programming Languages Lie: Variables Aren’t What You Think They Are](https://dev.to/mrasadatik/programming-languages-lie-variables-arent-what-you-think-they-are-2jc1)
-- [div diary 20251105](https://dev.to/hirooka_kazuya_d7f37d3cde/div-diary-20251105-595f)
-- [How to sign your NativePHP Android App for the Google Play Store](https://dev.to/michaelishri/how-to-sign-your-nativephp-android-app-for-the-google-play-store-4hac)
-- [Amazon Prime Day 2025: The best early deals you can shop now, dates and everything else you need to know](https://dev.to/yagyaraj_sharma_6cd410179/amazon-prime-day-2025-the-best-early-deals-you-can-shop-now-dates-and-everything-else-you-need-to-1gdl)
-- [Supercharge Your Pipeline: How to Integrate AI-Powered Code Reviews with GitHub Actions](https://dev.to/picoable/supercharge-your-pipeline-how-to-integrate-ai-powered-code-reviews-with-github-actions-1d61)
+- [Why SafeLine is better than traditional WAF](https://dev.to/arina_cholee/why-safeline-is-better-than-traditional-waf-505)
+- [Understanding ARM-Based Android SBCs: Why They’re Shaping the Future of Embedded Computing](https://dev.to/kevinzhang109/understanding-arm-based-android-sbcs-why-theyre-shaping-the-future-of-embedded-computing-388k)
+- [Stop Guessing: Use the Three Tiers of TPS to Improve LLM Adherence and Predictable Output](https://dev.to/teeze_solutions/stop-guessing-use-the-three-tiers-of-tps-to-improve-llm-adherence-and-predictable-output-5e3m)
+- [Beyond Anthropomorphism: Why AI Researchers Need a Latin Taxonomy for LLM Cognitive Phenomena](https://dev.to/teeze_solutions/beyond-anthropomorphism-why-ai-researchers-need-a-latin-taxonomy-for-llm-cognitive-phenomena-2foo)
+- [Treat Your Citations Like Code: How I Refactored My Research Workflow](https://dev.to/vincent_gay_77e325241795e/treat-your-citations-like-code-how-i-refactored-my-research-workflow-141d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
