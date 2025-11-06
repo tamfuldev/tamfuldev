@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Cost Optimization in Azure: Using the FinOps Toolkit to Save Money](https://dev.to/techielass/cost-optimization-in-azure-using-the-finops-toolkit-to-save-money-3mig)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-kc5)
-- [CinemaSins: Everything Wrong With Predator: Killer of Killers In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-predator-killer-of-killers-in-16-minutes-or-less-45a)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-33d)
-- [🚀 Terraform Workspaces and Multi-Environment Deployments](https://dev.to/aws-builders/terraform-workspaces-and-multi-environment-deployments-12gb)
+- [Choosing a dependency](https://dev.to/nfrankel/choosing-a-dependency-i20)
+- [Hijack the Back button on Android in NativePHP](https://dev.to/michaelishri/hijack-the-back-button-on-android-in-nativephp-405b)
+- [🔄 Loop Master: Menguasai Seni Algoritma Perulangan](https://dev.to/ahmadasroni38/loop-master-menguasai-seni-algoritma-perulangan-1e8e)
+- [Top AI Trends in Software Development in India: What Developers Need to Know](https://dev.to/secuodsoft/top-ai-trends-in-softwaredevelopment-in-india-what-developers-need-to-know-beb)
+- [WTF is Machine Learning Operations &lpar;MLOps&rpar;?](https://dev.to/dailybugle33/wtf-is-machine-learning-operations-mlops-1g32)
 <!-- BLOG-POST-LIST:END -->
 
 ---
