@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Missing Layer: How I Completed Our Data Lakehouse Architecture &lpar;When Everyone Else Stopped at Silver&rpar;](https://dev.to/aygul_aksyanova/the-missing-layer-how-i-completed-our-data-lakehouse-architecture-when-everyone-else-stopped-at-56hm)
-- [Why your genius agent is also brain dead: The tale of 7000 scenarios and the knowledge we almost lost](https://dev.to/aviad_rozenhek_cba37e0660/why-your-genius-agent-is-also-brain-dead-the-tale-of-7000-scenarios-and-the-knowledge-we-almost-1jdi)
-- [[Boost]](https://dev.to/tobilobaogundiyan/-15ln)
-- [[Boost]](https://dev.to/tobilobaogundiyan/-2eah)
-- [Rethinking My AWS Admin Access: Lessons Learned From Moving to Single-Sign-On](https://dev.to/tobilobaogundiyan/rethinking-my-aws-admin-access-lessons-learned-from-moving-to-single-sign-on-42gd)
+- [Explain the difference between subquery,CTE and stored procedures](https://dev.to/roy_b5001e0ff9a27dea39641/explain-the-difference-between-subquerycte-and-stored-procedures-54cf)
+- [Secure Apache with SSL in Docker](https://dev.to/tshenolo/secure-apache-with-ssl-in-docker-8k3)
+- [Scaling Laravel Queues: A Practical Guide to AWS SQS](https://dev.to/sopnonill87/scaling-laravel-queues-a-battle-tested-guide-to-aws-sqs-3ihi)
+- [Building Your Coding Skills: Effective Ways to Practice and Improve by Software Engineering Professionals like Abhishek Desikan](https://dev.to/abhishekdesikan/building-your-coding-skills-effective-ways-to-practice-and-improve-by-software-engineering-3cdf)
+- [🧪 Unit Testing Tools in WebForms Core 2](https://dev.to/elanatframework/unit-testing-tools-in-webforms-core-2-3a41)
 <!-- BLOG-POST-LIST:END -->
 
 ---
