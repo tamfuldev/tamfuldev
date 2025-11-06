@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Clamp CSS in 2025 | Why I Stopped Writing Media Queries For Small Tweaks](https://dev.to/danilo1/clamp-css-in-2025-why-i-stopped-writing-media-queries-for-small-tweaks-7fk)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2md0)
-- [Intent-Driven Assertions are Redefining How We Test Software](https://dev.to/shib_itsme/intent-driven-assertions-are-redefining-how-we-test-software-5400)
-- [Enterprise Data Access: Fully Automated Soft-Delete](https://dev.to/gigaherz/enterprise-data-access-fully-automated-soft-delete-a9b)
-- [HTTP/3: Evolução histórica e diferenças nas versões existentes.](https://dev.to/lsbrel/http3-evolucao-historica-e-diferencas-nas-versoes-existentes-36o9)
+- [Stop Re-Typing Terminal Commands! Boost Your Workflow with IntelliShell](https://dev.to/lasantosr/stop-re-typing-terminal-commands-boost-your-workflow-with-intellishell-530h)
+- [Migrating a Laravel Application From a Relational Database &lpar;PostgreSQL&rpar; to MongoDB](https://dev.to/mongodb/migrating-a-laravel-application-from-a-relational-database-postgresql-to-mongodb-m0m)
+- [Understanding Nodes in Godot &lpar;For Absolute Beginners&rpar;](https://dev.to/jimmymcbride/understanding-nodes-in-godot-for-absolute-beginners-ekk)
+- [Network Topology|Physical and Logical Topology and types in detail| Israh Binoj](https://dev.to/israhverse/network-topologyphysical-and-logical-topology-and-types-in-detail-israh-binoj-57e)
+- [Les Cloud Development Environments &lpar;CDE&rpar; - Embarquement immédiat !](https://dev.to/onepoint/les-cloud-development-environments-cde-embarquement-immediat--729)
 <!-- BLOG-POST-LIST:END -->
 
 ---
