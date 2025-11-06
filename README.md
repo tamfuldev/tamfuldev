@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [ERC-20, ERC-721,ERC-1155](https://dev.to/leyutsega_abebaw_b520050a/erc-20-erc-721erc-1155-5gel)
-- [🗺️ Engineering for Emergencies: How to Build a Real-Time Disaster Route Finder with Open Source Mapping](https://dev.to/shalinibhavi525sudo/engineering-for-emergencies-how-to-build-a-real-time-disaster-route-finder-with-open-source-5ep4)
-- [🎧 The Silent Crisis: Using Speech Recognition and Sentiment AI for Real-Time Emotional Support](https://dev.to/shalinibhavi525sudo/the-silent-crisis-using-speech-recognition-and-sentiment-ai-for-real-time-emotional-support-jn1)
-- [Build an AWESOME React Portfolio Website &lpar;Coding Bootcamp&rpar;](https://dev.to/codewithsadee/build-an-awesome-react-portfolio-website-coding-bootcamp-2mi9)
-- [Automate Your AWS Cost Audits and Cut Cloud Waste](https://dev.to/santanu_das/automate-your-aws-cost-audits-and-cut-cloud-waste-4gmp)
+- [Clamp CSS in 2025 | Why I Stopped Writing Media Queries For Small Tweaks](https://dev.to/danilo1/clamp-css-in-2025-why-i-stopped-writing-media-queries-for-small-tweaks-7fk)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2md0)
+- [Intent-Driven Assertions are Redefining How We Test Software](https://dev.to/shib_itsme/intent-driven-assertions-are-redefining-how-we-test-software-5400)
+- [Enterprise Data Access: Fully Automated Soft-Delete](https://dev.to/gigaherz/enterprise-data-access-fully-automated-soft-delete-a9b)
+- [HTTP/3: Evolução histórica e diferenças nas versões existentes.](https://dev.to/lsbrel/http3-evolucao-historica-e-diferencas-nas-versoes-existentes-36o9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
