@@ -4,11 +4,15 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Capabilities by Region](https://dev.to/aws-builders/aws-capabilities-by-region-3ffb)
-- [Nah, the Umbraco Community Hasn&#39;t Lost It&#39;s Spark - We Have](https://dev.to/nanokernel/nah-the-umbraco-community-hasnt-lost-its-spark-we-have-1lj9)
-- [Criei um Micro SaaS de Fala em Inglês em Duas Semanas — com R$ 40,00](https://dev.to/lvsouzadev/criei-um-micro-saas-de-fala-em-ingles-em-duas-semanas-com-r-4000-43g0)
-- [Getting Started with Kubernetes: A Complete Guide](https://dev.to/instadevops/getting-started-with-kubernetes-a-complete-guide-16g8)
-- [Building Sustainable Business Models for Pump.fun Projects in 2025](https://dev.to/hamd_writer_8c77d9c88c188/building-sustainable-business-models-for-pumpfun-projects-in-2025-2k9p)
+- [MathCanvas: Intrinsic Visual Chain-of-Thought for Multimodal MathematicalReasoning](https://dev.to/paperium/mathcanvas-intrinsic-visual-chain-of-thought-for-multimodal-mathematicalreasoning-2e61)
+- [dev diary 20251106](https://dev.to/hirooka_kazuya_d7f37d3cde/dev-diary-20251106-3576)
+- [AI Development Maturity Model](https://dev.to/ggondim/ai-development-maturity-model-4i47)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-21jj)
+- [I need a Co - developer based in ABUJA NIGERIA, quick to respond, creative, friendly, and quick to catch my webdev vision please. 
+No AWOL
+No unfriendliness 
+No excuses
+Just team work and excellent delivery](https://dev.to/olamide_oluwadipe_b9f0f74/i-need-a-co-developers-based-in-abuja-nigeria-quick-to-respond-creative-friendly-and-quick-to-mdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
