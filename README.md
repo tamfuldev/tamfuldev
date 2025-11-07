@@ -4,15 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [MathCanvas: Intrinsic Visual Chain-of-Thought for Multimodal MathematicalReasoning](https://dev.to/paperium/mathcanvas-intrinsic-visual-chain-of-thought-for-multimodal-mathematicalreasoning-2e61)
-- [dev diary 20251106](https://dev.to/hirooka_kazuya_d7f37d3cde/dev-diary-20251106-3576)
-- [AI Development Maturity Model](https://dev.to/ggondim/ai-development-maturity-model-4i47)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-21jj)
-- [I need a Co - developer based in ABUJA NIGERIA, quick to respond, creative, friendly, and quick to catch my webdev vision please. 
-No AWOL
-No unfriendliness 
-No excuses
-Just team work and excellent delivery](https://dev.to/olamide_oluwadipe_b9f0f74/i-need-a-co-developers-based-in-abuja-nigeria-quick-to-respond-creative-friendly-and-quick-to-mdf)
+- [How to Configure SafeLine WAF to Correctly Obtain the Source IP](https://dev.to/arina_cholee/how-to-configure-safeline-waf-to-correctly-obtain-the-source-ip-1gdd)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-2ah5)
+- [Enterprise Design Patterns: The Repository Pattern &lpar;Catalog of Patterns of EAA&rpar; — A Practical Guide with Python](https://dev.to/luzkalidgm/enterprise-design-patterns-the-repository-pattern-catalog-of-patterns-of-eaa-a-practical-guide-3b3k)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-30c3)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-3bom)
 <!-- BLOG-POST-LIST:END -->
 
 ---
