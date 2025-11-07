@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Practical Guide to React Suspense and Lazy Loading](https://dev.to/ctrix/a-practical-guide-to-react-suspense-and-lazy-loading-27km)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-p5c)
-- [👋🏾 From Ghana to Full-Stack: My Journey as a Self-Taught Developer](https://dev.to/kwesithedev/from-ghana-to-full-stack-my-journey-as-a-self-taught-developer-4a6k)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-3eo8)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-4h9k)
+- [How we build website templates](https://dev.to/shreyvijayvargiya/how-we-build-website-templates-29gi)
+- [Organizador de carpetas hecho en python](https://dev.to/fiedric/organizador-de-carpetas-hecho-en-python-56h8)
+- [positive-only developer recognition tool](https://dev.to/wayneworkman/positive-only-developer-recognition-tool-5d6c)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-41h2)
+- [Facade Pattern — Catalog of Enterprise Application Architecture Patterns 🏢](https://dev.to/sebastianfuentesavalos/facade-pattern-catalog-of-enterprise-application-architecture-patterns-chh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
