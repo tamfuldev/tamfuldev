@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-2dnb)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-56k0)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-4eee)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-5h0d)
-- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-24k)
+- [PowerBuilder - Custom window for DW properties](https://dev.to/vjonnagadla/powerbuilder-custom-window-for-dw-properties-2dee)
+- [Tailwind CSS Won the War... But We&#39;re the Losers](https://dev.to/elvissautet/tailwind-css-won-the-war-but-were-the-losers-4877)
+- [MCUboot: Bootup Journey](https://dev.to/ripan030/mcuboot-bootup-journey-315m)
+- [Designing smarter caches with Valkey 9.0&#39;s numbered databases](https://dev.to/allenheltondev/designing-smarter-caches-with-valkey-90s-numbered-databases-4d18)
+- [Snoop On Your Local Network with tcpdump](https://dev.to/picoable/snoop-on-your-local-network-with-tcpdump-14g1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
