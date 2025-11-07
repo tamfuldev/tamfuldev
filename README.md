@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Real Reason Developers Hate Meetings &lpar;It’s Not Time&rpar; 🧠💥](https://dev.to/sylwia-lask/the-real-reason-developers-hate-meetings-its-not-time-31do)
-- [Hacktoberfest 25 : l’édition Zenika Open Source](https://dev.to/zenika/hacktoberfest-25-ledition-zenika-open-source-3mh3)
-- [A Practical Guide to Flutter Accessibility - Part 1: The Basics](https://dev.to/koral/a-practical-guide-to-flutter-accessibility-part-1-the-basics-4bf1)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-1fl6)
-- [Ringer Movies: Guillermo del Toro’s ‘Frankenstein’ is Here. Is it Good?](https://dev.to/popcorn_movies/ringer-movies-guillermo-del-toros-frankenstein-is-here-is-it-good-73b)
+- [Git Worktrees: The Power Behind Cursor’s Parallel Agents](https://dev.to/arifszn/git-worktrees-the-power-behind-cursors-parallel-agents-19j1)
+- [Helios Engine v0.4.3 Update — Smarter Tooling and Easier Initialization](https://dev.to/ammar-alnagar/helios-engine-v043-update-smarter-tooling-and-easier-initialization-3i34)
+- [2528. Maximize the Minimum Powered City](https://dev.to/mdarifulhaque/2528-maximize-the-minimum-powered-city-338p)
+- [Building an HTTP Server from TCP Sockets: 250 4,000 RPS](https://dev.to/uthman_dev/building-an-http-server-from-tcp-sockets-250-4000-rps-2m93)
+- [How To Create A macOS 26 Tahoe USB Installation Drive](https://dev.to/dev_neil_a/how-to-create-a-macos-26-tahoe-usb-installation-drive-3fnj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
