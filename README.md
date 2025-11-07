@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-3039)
-- [Beyond Static: Building Interactive Depth Charts with React, D3.js, and Real-time Data](https://dev.to/ffteamnames/beyond-static-building-interactive-depth-charts-with-react-d3js-and-real-time-data-12o7)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-2pea)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-42i6)
-- [🚀 Kubernetes Architecture Explained.](https://dev.to/kynu4055/kubernetes-architecture-explained-5eom)
+- [5 Proven Lead Generation Frameworks Used by Top B2B SaaS Companies](https://dev.to/aayush_sharma_8eb92ed6bbf/5-proven-lead-generation-frameworks-used-by-top-b2b-saas-companies-5hgn)
+- [URL Shortener Using Snowflake IDs and Base62 Encoding](https://dev.to/speaklouder/url-shortener-using-snowflake-ids-and-base62-encoding-4179)
+- [CSS STYLES](https://dev.to/suma_suma/css-styles-2o23)
+- [Debugging Consent: Common Pitfalls in CMP Implementation](https://dev.to/mehwish_malik_4f29ff7fb04/debugging-consent-common-pitfalls-in-cmp-implementation-4hd4)
+- [I Thought I Knew Computers - Until I Read About Supercomputers](https://dev.to/smriti7857/i-thought-i-knew-computers-until-i-read-about-supercomputers-2kg3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
