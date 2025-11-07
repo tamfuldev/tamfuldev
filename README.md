@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Configure SafeLine WAF to Correctly Obtain the Source IP](https://dev.to/arina_cholee/how-to-configure-safeline-waf-to-correctly-obtain-the-source-ip-1gdd)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-2ah5)
-- [Enterprise Design Patterns: The Repository Pattern &lpar;Catalog of Patterns of EAA&rpar; — A Practical Guide with Python](https://dev.to/luzkalidgm/enterprise-design-patterns-the-repository-pattern-catalog-of-patterns-of-eaa-a-practical-guide-3b3k)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-30c3)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-3bom)
+- [Understanding the CPU: The Brain of the Computer](https://dev.to/farhad_rahimi_klie/understanding-the-cpu-the-brain-of-the-computer-mme)
+- [How to Map Technical Requirements in IT Project Management](https://dev.to/taskford/how-to-map-technical-requirements-in-it-project-management-2oj1)
+- [“ChatGPT Navigation Using Default Keyboard Shortcuts &lpar;No Extensions Needed&rpar;”](https://dev.to/sureshsaragadam/chatgpt-navigation-using-default-keyboard-shortcuts-no-extensions-needed-1kfj)
+- [Repository Pattern in Golang: A Practical Guide](https://dev.to/team3/repository-pattern-in-golang-a-practical-guide-1kla)
+- [How I Overlooked the Problem and Shot Myself in the Foot](https://dev.to/aws-builders/how-i-overlooked-the-problem-and-shot-myself-in-the-foot-2ok8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
