@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How we build website templates](https://dev.to/shreyvijayvargiya/how-we-build-website-templates-29gi)
-- [Organizador de carpetas hecho en python](https://dev.to/fiedric/organizador-de-carpetas-hecho-en-python-56h8)
-- [positive-only developer recognition tool](https://dev.to/wayneworkman/positive-only-developer-recognition-tool-5d6c)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-41h2)
-- [Facade Pattern — Catalog of Enterprise Application Architecture Patterns 🏢](https://dev.to/sebastianfuentesavalos/facade-pattern-catalog-of-enterprise-application-architecture-patterns-chh)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-3039)
+- [Beyond Static: Building Interactive Depth Charts with React, D3.js, and Real-time Data](https://dev.to/ffteamnames/beyond-static-building-interactive-depth-charts-with-react-d3js-and-real-time-data-12o7)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-2pea)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-42i6)
+- [🚀 Kubernetes Architecture Explained.](https://dev.to/kynu4055/kubernetes-architecture-explained-5eom)
 <!-- BLOG-POST-LIST:END -->
 
 ---
