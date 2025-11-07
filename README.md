@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-hcp)
-- [MySQL Index Optimization for Complex Laravel Queries](https://dev.to/addwebsolutionpvtltd/mysql-index-optimization-for-complex-laravel-queries-1abc)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-40om)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-2efc)
-- [Deep Dive in Transparent Proxy Code](https://dev.to/sebastien_levy_233585b9a3/deep-dive-in-transparent-proxy-code-2o45)
+- [From Repetitive Code to Clean Architecture: How the Decorator Pattern Simplified Activity Logging by 70%](https://dev.to/digvijayjadhav98/from-repetitive-code-to-clean-architecture-how-the-decorator-pattern-simplified-activity-logging-1kb3)
+- [from nothing to something](https://dev.to/johngabriel-bit/from-nothing-to-something-4lcp)
+- [The Real AI Bubble Isn’t in Models. It’s in Your Frontend](https://dev.to/hashbyt/the-real-ai-bubble-isnt-in-models-its-in-your-frontend-5cn9)
+- [Swift Concurrency: Part 2](https://dev.to/nv3212/swift-concurrency-part-2-4cob)
+- [Meet Aissist - your personal AI command line sidekick](https://dev.to/albert_nahas_cdc8469a6ae8/meet-aissist-your-personal-ai-command-line-sidekick-5hl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
