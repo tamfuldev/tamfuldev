@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the CPU: The Brain of the Computer](https://dev.to/farhad_rahimi_klie/understanding-the-cpu-the-brain-of-the-computer-mme)
-- [How to Map Technical Requirements in IT Project Management](https://dev.to/taskford/how-to-map-technical-requirements-in-it-project-management-2oj1)
-- [“ChatGPT Navigation Using Default Keyboard Shortcuts &lpar;No Extensions Needed&rpar;”](https://dev.to/sureshsaragadam/chatgpt-navigation-using-default-keyboard-shortcuts-no-extensions-needed-1kfj)
-- [Repository Pattern in Golang: A Practical Guide](https://dev.to/team3/repository-pattern-in-golang-a-practical-guide-1kla)
-- [How I Overlooked the Problem and Shot Myself in the Foot](https://dev.to/aws-builders/how-i-overlooked-the-problem-and-shot-myself-in-the-foot-2ok8)
+- [A Practical Guide to React Suspense and Lazy Loading](https://dev.to/ctrix/a-practical-guide-to-react-suspense-and-lazy-loading-27km)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-p5c)
+- [👋🏾 From Ghana to Full-Stack: My Journey as a Self-Taught Developer](https://dev.to/kwesithedev/from-ghana-to-full-stack-my-journey-as-a-self-taught-developer-4a6k)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-3eo8)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-4h9k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
