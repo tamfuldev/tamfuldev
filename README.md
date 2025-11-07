@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Repetitive Code to Clean Architecture: How the Decorator Pattern Simplified Activity Logging by 70%](https://dev.to/digvijayjadhav98/from-repetitive-code-to-clean-architecture-how-the-decorator-pattern-simplified-activity-logging-1kb3)
-- [from nothing to something](https://dev.to/johngabriel-bit/from-nothing-to-something-4lcp)
-- [The Real AI Bubble Isn’t in Models. It’s in Your Frontend](https://dev.to/hashbyt/the-real-ai-bubble-isnt-in-models-its-in-your-frontend-5cn9)
-- [Swift Concurrency: Part 2](https://dev.to/nv3212/swift-concurrency-part-2-4cob)
-- [Meet Aissist - your personal AI command line sidekick](https://dev.to/albert_nahas_cdc8469a6ae8/meet-aissist-your-personal-ai-command-line-sidekick-5hl)
+- [The Real Reason Developers Hate Meetings &lpar;It’s Not Time&rpar; 🧠💥](https://dev.to/sylwia-lask/the-real-reason-developers-hate-meetings-its-not-time-31do)
+- [Hacktoberfest 25 : l’édition Zenika Open Source](https://dev.to/zenika/hacktoberfest-25-ledition-zenika-open-source-3mh3)
+- [A Practical Guide to Flutter Accessibility - Part 1: The Basics](https://dev.to/koral/a-practical-guide-to-flutter-accessibility-part-1-the-basics-4bf1)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-1fl6)
+- [Ringer Movies: Guillermo del Toro’s ‘Frankenstein’ is Here. Is it Good?](https://dev.to/popcorn_movies/ringer-movies-guillermo-del-toros-frankenstein-is-here-is-it-good-73b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
