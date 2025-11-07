@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-1np7)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-14g9)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-11i3)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-3iei)
-- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-c4l)
+- [بهترین اپلیکیشن‌ها برای ادیت ویدیو و ساخت ریلز اینستاگرام](https://dev.to/dorify/bhtryn-plykhyshnh-bry-dyt-wydyw-w-skht-rylz-ynstgrm-5f9l)
+- [Are Your Python Fundamentals as Solid as You Think?](https://dev.to/onlineproxy/are-your-python-fundamentals-as-solid-as-you-think-3499)
+- [[Boost]](https://dev.to/wparad/-5ach)
+- [How do you handle bug reports and QA in your web or mobile app workflow?](https://dev.to/abojorges/how-do-you-handle-bug-reports-and-qa-in-your-web-or-mobile-app-workflow-433b)
+- [Entendendo o consumo de memória do Gitaly no Kubernetes](https://dev.to/camilacodes/entendendo-o-consumo-de-memoria-do-gitaly-no-kubernetes-2ha2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
