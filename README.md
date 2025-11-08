@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up an S3 Trigger for Lambda — and Kick Off a Step Functions Workflow](https://dev.to/dhavalmojidra/how-to-set-up-an-s3-trigger-for-lambda-and-kick-off-a-step-functions-workflow-6cj)
-- [Spooky Pumpkin](https://dev.to/mohammad_masud_a1b6bd20b4/spooky-pumpkin-1d2o)
-- [Building Security by Design: My AWS Project Showcasing VPC, NAT Gateway, and Private Networking Mastery](https://dev.to/odinkemelu_innocent_3b2f5/building-security-by-design-my-aws-project-showcasing-vpc-nat-gateway-and-private-networking-2la9)
-- [Mastering Testing: My journey with Jest in my project](https://dev.to/cynthia_f/mastering-testing-my-journey-with-jest-in-my-project-2bbn)
-- [I’m Aniruddha Adak, And This Is My YouWare Addiction: 27 Apps In 45 Days &lpar;All Built With Zero Code&rpar;](https://dev.to/aniruddhaadak/im-aniruddha-adak-and-this-is-my-youware-addiction-27-apps-in-45-days-all-built-with-zero-code-c0f)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-anj)
+- [Scenario 1: Deploy a simple NGINX Pod and expose it via a ClusterIP Service in Kubernetes](https://dev.to/latchudevops/scenario-1-deploy-a-simple-nginx-pod-and-expose-it-via-a-clusterip-service-219g)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-51ap)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-4pd6)
+- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-kgg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
