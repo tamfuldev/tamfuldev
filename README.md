@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-41n5)
-- [🌳 Difference Between HashSet and TreeSet in Java](https://dev.to/realnamehidden1_61/difference-between-hashset-and-treeset-in-java-324l)
-- [Compute Wars: Google’s TPU Push vs Nvidia Blackwell and China’s No‑Sell Moment](https://dev.to/0xrelogic/compute-wars-googles-tpu-push-vs-nvidia-blackwell-and-chinas-no-sell-moment-1g2p)
-- [🚀 Build Faster and Smoother Flutter Apps](https://dev.to/anju_sabharwal_8d38e86bc7/build-faster-and-smoother-flutter-apps-1c1k)
-- [Applying API Testing Frameworks with Postman: Real-World Code Examples](https://dev.to/christian_dennishinojosa/applying-api-testing-frameworks-with-postman-real-world-code-examples-j4p)
+- [5 Laravel Eloquent Secrets That Will Make You a Better Developer](https://dev.to/hussien_code_fe8e965f770e/5-laravel-eloquent-secrets-that-will-make-you-a-better-developer-2g75)
+- [DataDog Interview Experience | Full Review from Coding to System Design](https://dev.to/net_programhelp_e160eef28/datadog-interview-experience-full-review-from-coding-to-system-design-2572)
+- [Rust Traits and Generics: Build Flexible Code Without Runtime Overhead](https://dev.to/aaravjoshi/rust-traits-and-generics-build-flexible-code-without-runtime-overhead-3o1n)
+- [🫱🏾‍🫲 Quality Experience: How to Introduce QA Practices to Your Organization](https://dev.to/jmosley/quality-experience-how-to-introduce-qa-practices-to-your-organization-1dg9)
+- [The 5 Steps of Threat Modeling in a Startup](https://dev.to/ccscaesar/the-5-steps-of-threat-modeling-in-a-startup-9e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
