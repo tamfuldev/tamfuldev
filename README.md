@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SSLCommerz works with frontend, backend, and database](https://dev.to/arfan_hosenovi_10c1a1e52/sslcommerz-works-with-frontend-backend-and-database-4df8)
-- [What I Learned Building a Knowledge Graph for AI Agents](https://dev.to/trentbrew/what-i-learned-building-a-knowledge-graph-for-ai-agents-3e65)
-- [Vitest HTML Report](https://dev.to/whyang9701/vitest-html-report-333o)
-- [Building an AI News Digest Agent with Mastra and Telex.im](https://dev.to/ursulaonyi/building-an-ai-news-digest-agent-with-mastra-and-telexim-3p1h)
-- [Introducing Web3-Hooks](https://dev.to/lucascosta1996/introducing-web3-hooks-k5p)
+- [たった1枚の引き伸ばされた画像から、AWS Lambdaのコード移行とCI/CD構築に至った話](https://dev.to/kaziusan/tatuta1mei-noyin-kishen-basaretahua-xiang-kara-aws-lambdanokodoyi-xing-tocicdgou-zhu-nizhi-tutahua-252p)
+- [Building a Mini Build System in Go: Understanding How Bazel Works Under the Hood](https://dev.to/tmwakalasya/building-a-mini-build-system-in-go-understanding-how-bazel-works-under-the-hood-3gp6)
+- [Title: The Rise and Fall of ChatGPT: A Tech-Savvy Perspective](https://dev.to/yagyaraj_sharma_6cd410179/title-the-rise-and-fall-of-chatgpt-a-tech-savvy-perspective-600)
+- [Google Cloud SQL: x86 N2 vs ARM C4A](https://dev.to/dkechag/google-cloud-sql-x86-n2-vs-arm-c4a-4cga)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-h8f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
