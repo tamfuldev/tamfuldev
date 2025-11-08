@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Setup Raspberry Pi Camera Module 3 on Ubuntu 24.04](https://dev.to/minindu_pasan_8f0e03c1063/how-to-setup-raspberry-pi-camera-module-3-on-ubuntu-2404-4pme)
-- [Building an Event-Driven Architecture on AWS Using EventBridge and SNS for EC2 State Notifications](https://dev.to/marviecodes/building-an-event-driven-architecture-on-aws-using-eventbridge-and-sns-for-ec2-state-notifications-4jmn)
-- [Introducing TOON for Laravel — A Smarter, Token-Efficient Way to Talk to AI](https://dev.to/sbsaga/introducing-toon-for-laravel-a-smarter-token-efficient-way-to-talk-to-ai-36a3)
-- [Linear and Canary releases in AWS ECS](https://dev.to/ahmedadel/linear-and-canary-releases-in-aws-ecs-fhk)
-- [Mastering ILogger in .NET Core — Complete Logging Guide for Developers](https://dev.to/morteza-jangjoo/mastering-ilogger-in-net-core-complete-logging-guide-for-developers-ghf)
+- [Find Your Optimal PostgreSQL Connection Pool Size with k6 Load Testing](https://dev.to/manashjb/find-your-optimal-postgresql-connection-pool-size-with-k6-load-testing-3j6)
+- [Configuring and Enabling fail2ban to mitigate Wordpress authentication theft with Debian 12](https://dev.to/tb-development/configuring-and-enabling-fail2ban-to-mitigate-wordpress-authentication-theft-with-debian-12-f52)
+- [[Boost]](https://dev.to/mariajosearcano/-5ci7)
+- [JavaScript Ternary Operator](https://dev.to/megdiv/javascript-ternary-operator-kmo)
+- [Crushing IR-Drop: How Smart Software is Revolutionizing AI Hardware Performance](https://dev.to/arvind_sundararajan/crushing-ir-drop-how-smart-software-is-revolutionizing-ai-hardware-performance-1k6a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
