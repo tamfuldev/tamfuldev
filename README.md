@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Virtualization — Architecture Series: Part 3](https://dev.to/usman_awan/virtualization-architecture-series-part-3-38bb)
-- [Why Zig is cool and I&#39;m jumping ship to Ziglang](https://dev.to/pmbanugo/why-zig-is-cool-and-im-jumping-ship-to-ziglang-176o)
-- [Ziglang is so cool: Why I&#39;m Going All-In on Zig](https://dev.to/pmbanugo/ziglang-is-so-cool-why-im-going-all-in-on-zig-1nf9)
-- [SCas4D: Structural Cascaded Optimization for Boosting Persistent 4D Novel ViewSynthesis](https://dev.to/paperium/scas4d-structural-cascaded-optimization-for-boosting-persistent-4d-novel-viewsynthesis-47ok)
-- [Why the Web cannot beat Screen.Studio!](https://dev.to/sachindas246/why-the-web-cannot-beat-screenstudio-40kl)
+- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-41n5)
+- [🌳 Difference Between HashSet and TreeSet in Java](https://dev.to/realnamehidden1_61/difference-between-hashset-and-treeset-in-java-324l)
+- [Compute Wars: Google’s TPU Push vs Nvidia Blackwell and China’s No‑Sell Moment](https://dev.to/0xrelogic/compute-wars-googles-tpu-push-vs-nvidia-blackwell-and-chinas-no-sell-moment-1g2p)
+- [🚀 Build Faster and Smoother Flutter Apps](https://dev.to/anju_sabharwal_8d38e86bc7/build-faster-and-smoother-flutter-apps-1c1k)
+- [Applying API Testing Frameworks with Postman: Real-World Code Examples](https://dev.to/christian_dennishinojosa/applying-api-testing-frameworks-with-postman-real-world-code-examples-j4p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
