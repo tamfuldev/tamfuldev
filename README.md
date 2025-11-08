@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Creating Java Streams](https://dev.to/priyankbhardwaj1199/creating-java-streams-1727)
-- [How to Build a Bookstore App with FARM Stack &lpar;FastAPI, React, and MongoDB&rpar;](https://dev.to/masteringbackend/how-to-build-a-bookstore-app-with-farm-stack-fastapi-react-and-mongodb-544j)
-- [Getting started with SQLite using C#/Microsoft Visual Studio](https://dev.to/strangequark/getting-started-with-sqlite-using-cmicrosoft-visual-studio-226p)
-- [Harnessing the Power of Elementor Countdown Widgets: Drive Urgency and Conversions on WordPress](https://dev.to/artarasaneh2025/harnessing-the-power-of-elementor-countdown-widgets-drive-urgency-and-conversions-on-wordpress-29oi)
-- [Why JavaScript Never Adopted RxJS — It Solved a Problem JavaScript Never Had](https://dev.to/ayush_maurya_/why-javascript-never-adopted-rxjs-it-solved-a-problem-javascript-never-had-418o)
+- [Pair-Coding CleanIt.Now with AI on Cloudflare Workers](https://dev.to/valeriavg/pair-coding-cleanitnow-with-ai-on-cloudflare-workers-2967)
+- [Building an AWS Daily Helper Assistant with Strands Agents and Bedrock AgentCore](https://dev.to/aws-builders/building-an-aws-daily-helper-assistant-with-strands-agents-and-bedrock-agentcore-2290)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-1hc5)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-48a1)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-5c5m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
