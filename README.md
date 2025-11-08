@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Pair-Coding CleanIt.Now with AI on Cloudflare Workers](https://dev.to/valeriavg/pair-coding-cleanitnow-with-ai-on-cloudflare-workers-2967)
-- [Building an AWS Daily Helper Assistant with Strands Agents and Bedrock AgentCore](https://dev.to/aws-builders/building-an-aws-daily-helper-assistant-with-strands-agents-and-bedrock-agentcore-2290)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-1hc5)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-48a1)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-5c5m)
+- [Virtualization — Architecture Series: Part 3](https://dev.to/usman_awan/virtualization-architecture-series-part-3-38bb)
+- [Why Zig is cool and I&#39;m jumping ship to Ziglang](https://dev.to/pmbanugo/why-zig-is-cool-and-im-jumping-ship-to-ziglang-176o)
+- [Ziglang is so cool: Why I&#39;m Going All-In on Zig](https://dev.to/pmbanugo/ziglang-is-so-cool-why-im-going-all-in-on-zig-1nf9)
+- [SCas4D: Structural Cascaded Optimization for Boosting Persistent 4D Novel ViewSynthesis](https://dev.to/paperium/scas4d-structural-cascaded-optimization-for-boosting-persistent-4d-novel-viewsynthesis-47ok)
+- [Why the Web cannot beat Screen.Studio!](https://dev.to/sachindas246/why-the-web-cannot-beat-screenstudio-40kl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
