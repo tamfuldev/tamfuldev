@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Find Your Optimal PostgreSQL Connection Pool Size with k6 Load Testing](https://dev.to/manashjb/find-your-optimal-postgresql-connection-pool-size-with-k6-load-testing-3j6)
-- [Configuring and Enabling fail2ban to mitigate Wordpress authentication theft with Debian 12](https://dev.to/tb-development/configuring-and-enabling-fail2ban-to-mitigate-wordpress-authentication-theft-with-debian-12-f52)
-- [[Boost]](https://dev.to/mariajosearcano/-5ci7)
-- [JavaScript Ternary Operator](https://dev.to/megdiv/javascript-ternary-operator-kmo)
-- [Crushing IR-Drop: How Smart Software is Revolutionizing AI Hardware Performance](https://dev.to/arvind_sundararajan/crushing-ir-drop-how-smart-software-is-revolutionizing-ai-hardware-performance-1k6a)
+- [About Taxum, or why I wrote my own NodeJS Framework](https://dev.to/dasprid/about-taxum-or-why-i-wrote-my-own-nodejs-framework-4bom)
+- [I Built a VS Code Extension to Stop the Copy-Paste Madness](https://dev.to/couimet/i-built-a-vs-code-extension-to-stop-the-copy-paste-madness-3d7l)
+- [Coding Challenge Practice - Question 49](https://dev.to/tomivan/coding-challenge-practice-question-49-4k46)
+- [Best iPhone Camera in 2026: Which Model Wins? reviews by Tech.Feastloom](https://dev.to/clevertech88/best-iphone-camera-in-2026-which-model-wins-3i8i)
+- [Agentic Bitcoin24](https://dev.to/nadinev/agentic-bitcoin24-3946)
 <!-- BLOG-POST-LIST:END -->
 
 ---
