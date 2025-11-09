@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Async Functions: Why You Don&#39;t Need `Promise.resolve&lpar;&rpar;` in `async` Functions](https://dev.to/cathylai/understanding-async-functions-why-you-dont-need-promiseresolve-in-async-functions-210f)
-- [Meet bestax-bulma: Modern React Components for Bulma CSS v1](https://dev.to/allxsmith/meet-bestax-bulma-modern-react-components-for-bulma-css-v1-4bf2)
-- [dev diary 20251108](https://dev.to/hirooka_kazuya_d7f37d3cde/dev-diary-20251108-40b3)
-- [TelUI 1.2: TelUI with fun alignments!](https://dev.to/eotterbeep/telui-12-telui-with-fun-alignments-oo1)
-- [The 20 Most Essential Tools for Front-End Development: Transform Your UI/UX Game](https://dev.to/softwaredeveloperhub01/the-20-most-essential-tools-for-front-end-development-transform-your-uiux-game-3c82)
+- [The New YINI Homepage Is Live — A Modern, Human-Friendly Config Format](https://dev.to/marko_kseppnen_6250a7f/the-yini-homepage-is-live-a-modern-human-friendly-config-format-28al)
+- [Fine-Tune Access, Visibility, and Security](https://dev.to/sebos/fine-tune-access-visibility-and-security-1798)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-218b)
+- [MindsEye Agentic — Time-Labeled Cognitive Events on Tiger Cloud](https://dev.to/peacebinflow/mindseye-agentic-time-labeled-cognitive-events-on-tiger-cloud-2dib)
+- [Is It Worth Upgrading to React 19?](https://dev.to/ravidasari/is-it-worth-upgrading-from-react-18-to-react-19-m50)
 <!-- BLOG-POST-LIST:END -->
 
 ---
