@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [apimock-rs features: external interfaces and ipv6 support](https://dev.to/nabbisen/apimock-rs-features-external-interfaces-and-ipv6-support-59j5)
-- [GNSS Fix with RTL-SDR &lpar;in Linux!&rpar;](https://dev.to/patatez/gnss-fix-with-rtl-sdr-in-linux-224d)
-- [A free and production-ready event sourcing database engine: Meet Genesis DB CE](https://dev.to/patriceckhart/a-free-and-production-ready-event-sourcing-database-engine-meet-genesis-db-ce-2nk8)
-- [The Real AI Startup Stack: $33M Valuations, $1.2K OpenAI Bills](https://dev.to/dev_tips/the-real-ai-startup-stack-33m-valuations-12k-openai-bills-4j1i)
-- [You&#39;ve probably noticed it. You&#39;re watching a video on YouTube, and the area around the video starts to softly glow, picking up the colors from the content itself.](https://dev.to/mike-at-redspace/youve-probably-noticed-it-youre-watching-a-video-on-youtube-and-the-area-around-the-video-k66)
+- [How I Learned IaC Without Losing My Mind 🤯](https://dev.to/danlinx2004x/how-i-learned-iac-without-losing-my-mind-347c)
+- [How AI Can Help Households Reduce Food Waste and Save Money](https://dev.to/michaelihegazie/how-ai-can-help-households-reduce-food-waste-and-save-money-272n)
+- [Stop Coding in Chaos: Why You Need a Pro Dev Environment Now &lpar;And How to Set It Up&rpar;](https://dev.to/samuel_ochaba_eb9c875fa89/stop-coding-in-chaos-why-you-need-a-pro-dev-environment-now-and-how-to-set-it-up-1779)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-4c32)
+- [Leveraging Synthetic Data for Enhanced AI Agent Evaluation](https://dev.to/kuldeep_paul/leveraging-synthetic-data-for-enhanced-ai-agent-evaluation-56k7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
