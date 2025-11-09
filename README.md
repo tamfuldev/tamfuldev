@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [⭐ Scenario #5: Configure Environment Variables from ConfigMap in a Pod](https://dev.to/latchudevops/scenario-5-configure-environment-variables-from-configmap-in-a-pod-577h)
-- [TLS For AI Agents? No. Wristbands For The Idiots In Line](https://dev.to/jl03/tls-for-ai-agents-no-wristbands-for-the-idiots-in-line-2cpo)
-- [How to understand large typescript codebase](https://dev.to/vkassingh/how-to-understand-large-typescript-codebase-3e9c)
-- [Create Synthetic Data - A Comprehensive Guideline](https://dev.to/vuhung16au/create-synthetic-data-a-comprehensive-guideline-49bf)
-- [How To Create a CloudWatch Dashboard for EC2 and ELB](https://dev.to/thukhakyawe_cloud/how-to-create-a-cloudwatch-dashboard-for-ec2-and-elb-52b)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2aa)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-4e1c)
+- [Best no-code app builders for startups](https://dev.to/mattwagner/best-no-code-app-builders-for-startups-1k5e)
+- [From Vibe Coder to Vibe Architect: Evolving from Implementation to Strategy](https://dev.to/node/from-vibe-coder-to-vibe-architect-evolving-from-implementation-to-strategy-3nnk)
+- [I just finished building Pulse HMS — a full-scale Hospital Management System with over 200,000 lines of code.](https://dev.to/moeed_ul_hassan/i-just-finished-building-pulse-hms-a-full-scale-hospital-management-system-with-over-200000-5baf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
