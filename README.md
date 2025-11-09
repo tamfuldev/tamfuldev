@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2aa)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-4e1c)
-- [Best no-code app builders for startups](https://dev.to/mattwagner/best-no-code-app-builders-for-startups-1k5e)
-- [From Vibe Coder to Vibe Architect: Evolving from Implementation to Strategy](https://dev.to/node/from-vibe-coder-to-vibe-architect-evolving-from-implementation-to-strategy-3nnk)
-- [I just finished building Pulse HMS — a full-scale Hospital Management System with over 200,000 lines of code.](https://dev.to/moeed_ul_hassan/i-just-finished-building-pulse-hms-a-full-scale-hospital-management-system-with-over-200000-5baf)
+- [Choosing the correct IaC tool](https://dev.to/kaustubhyerkade/choosing-the-correct-iac-tool-p57)
+- [Building a Unique Developer Portfolio](https://dev.to/adrahi/building-a-unique-developer-portfolio-2b9a)
+- [90-Day Proven Post-Quantum TLS Readiness Sprint](https://dev.to/pentest_testing_corp/90-day-proven-post-quantum-tls-readiness-sprint-575i)
+- [Self-Healing Application Framework - Autonomous Issue Resolution with Agentic Postgres](https://dev.to/depapp/self-healing-application-framework-autonomous-issue-resolution-with-agentic-postgres-19o0)
+- [🚀 Introducing Laravel ObjectId — The Fastest MongoDB-Style Identifier for Laravel Models](https://dev.to/ihfbib/introducing-laravel-objectid-the-fastest-mongodb-style-identifier-for-laravel-models-337j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
