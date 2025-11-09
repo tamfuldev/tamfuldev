@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [About Taxum, or why I wrote my own NodeJS Framework](https://dev.to/dasprid/about-taxum-or-why-i-wrote-my-own-nodejs-framework-4bom)
-- [I Built a VS Code Extension to Stop the Copy-Paste Madness](https://dev.to/couimet/i-built-a-vs-code-extension-to-stop-the-copy-paste-madness-3d7l)
-- [Coding Challenge Practice - Question 49](https://dev.to/tomivan/coding-challenge-practice-question-49-4k46)
-- [Best iPhone Camera in 2026: Which Model Wins? reviews by Tech.Feastloom](https://dev.to/clevertech88/best-iphone-camera-in-2026-which-model-wins-3i8i)
-- [Agentic Bitcoin24](https://dev.to/nadinev/agentic-bitcoin24-3946)
+- [Understanding Async Functions: Why You Don&#39;t Need `Promise.resolve&lpar;&rpar;` in `async` Functions](https://dev.to/cathylai/understanding-async-functions-why-you-dont-need-promiseresolve-in-async-functions-210f)
+- [Meet bestax-bulma: Modern React Components for Bulma CSS v1](https://dev.to/allxsmith/meet-bestax-bulma-modern-react-components-for-bulma-css-v1-4bf2)
+- [dev diary 20251108](https://dev.to/hirooka_kazuya_d7f37d3cde/dev-diary-20251108-40b3)
+- [TelUI 1.2: TelUI with fun alignments!](https://dev.to/eotterbeep/telui-12-telui-with-fun-alignments-oo1)
+- [The 20 Most Essential Tools for Front-End Development: Transform Your UI/UX Game](https://dev.to/softwaredeveloperhub01/the-20-most-essential-tools-for-front-end-development-transform-your-uiux-game-3c82)
 <!-- BLOG-POST-LIST:END -->
 
 ---
