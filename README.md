@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Caching Strategy for RESTFUL API](https://dev.to/masteringbackend/caching-strategy-for-restful-api-2gkj)
-- [Devtool for running and benchmarking local AI](https://dev.to/elina_norling_embedl/devtool-for-running-and-benchmarking-local-ai-445e)
-- [What Is a Lua Module in Roblox in 2025?](https://dev.to/nigelsilonero/what-is-a-lua-module-in-roblox-in-2025-mkn)
-- [Rewiring Experts on the Fly:Continuous Rerouting for Better Online Adaptation inMixture-of-Expert models](https://dev.to/paperium/rewiring-experts-on-the-flycontinuous-rerouting-for-better-online-adaptation-inmixture-of-expert-4jc6)
-- [Ghostty + Zellij 👻 setup on Mac](https://dev.to/cristobal/ghostty-zellij-setup-on-mac-11la)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-kpc)
+- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-bhi)
+- [Revisiting Java: Building a Simple Functional Calculator](https://dev.to/phouchens/revisiting-java-building-a-simple-functional-calculator-dkd)
+- [How Rust Transforms Error Handling: From Crashes to Reliable Software Systems](https://dev.to/aaravjoshi/how-rust-transforms-error-handling-from-crashes-to-reliable-software-systems-3cda)
+- [yourcast! - personalized AI podcast app](https://dev.to/rohan140/yourcast-personalized-ai-podcast-app-3lp4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
