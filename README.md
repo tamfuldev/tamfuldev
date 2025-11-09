@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-5cg6)
-- [SimpSave 10: A “ready-to-use” lightweight database, now supporting multiple engine options &lpar;including SQLite&rpar;.](https://dev.to/water_run_305f6dfd401fdaf/simpsave-10-a-ready-to-use-lightweight-database-now-supporting-multiple-engine-options-1a94)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-4aa2)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2i4k)
-- [Python Web Frameworks: Crafting the Future of Web Development](https://dev.to/vjnvisakh/python-web-frameworks-crafting-the-future-of-web-development-1bi5)
+- [apimock-rs features: external interfaces and ipv6 support](https://dev.to/nabbisen/apimock-rs-features-external-interfaces-and-ipv6-support-59j5)
+- [GNSS Fix with RTL-SDR &lpar;in Linux!&rpar;](https://dev.to/patatez/gnss-fix-with-rtl-sdr-in-linux-224d)
+- [A free and production-ready event sourcing database engine: Meet Genesis DB CE](https://dev.to/patriceckhart/a-free-and-production-ready-event-sourcing-database-engine-meet-genesis-db-ce-2nk8)
+- [The Real AI Startup Stack: $33M Valuations, $1.2K OpenAI Bills](https://dev.to/dev_tips/the-real-ai-startup-stack-33m-valuations-12k-openai-bills-4j1i)
+- [You&#39;ve probably noticed it. You&#39;re watching a video on YouTube, and the area around the video starts to softly glow, picking up the colors from the content itself.](https://dev.to/mike-at-redspace/youve-probably-noticed-it-youre-watching-a-video-on-youtube-and-the-area-around-the-video-k66)
 <!-- BLOG-POST-LIST:END -->
 
 ---
