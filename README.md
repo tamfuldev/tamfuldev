@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-kpc)
-- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-bhi)
-- [Revisiting Java: Building a Simple Functional Calculator](https://dev.to/phouchens/revisiting-java-building-a-simple-functional-calculator-dkd)
-- [How Rust Transforms Error Handling: From Crashes to Reliable Software Systems](https://dev.to/aaravjoshi/how-rust-transforms-error-handling-from-crashes-to-reliable-software-systems-3cda)
-- [yourcast! - personalized AI podcast app](https://dev.to/rohan140/yourcast-personalized-ai-podcast-app-3lp4)
+- [الشبح اللي فـ الماكينة ديالك](https://dev.to/zakariaessaoudy/-lshbh-lly-f-lmkyn-dylk-imf)
+- [[Boost]](https://dev.to/m_midas/-5dd5)
+- [Theater Alpha - The Rewind Update](https://dev.to/terrillo/theater-alpha-the-rewind-update-10ji)
+- [Your SSR Isn’t Fast — Hydration Is Dragging It Down](https://dev.to/byte-sized-news/your-ssr-isnt-fast-hydration-is-dragging-it-down-4437)
+- [Agentic AI Design Patterns](https://dev.to/hanaa_abdelgawad_1684275d/agentic-ai-design-patterns-168m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
