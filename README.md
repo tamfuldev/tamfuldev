@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [✅ Scenario #4 — Debugging with Ephemeral Debug Containers in Kubernetes](https://dev.to/latchudevops/scenario-4-debugging-with-ephemeral-debug-containers-in-kubernetes-l76)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-52i2)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-59eg)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-3iek)
-- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-b95)
+- [⭐ Scenario #5: Configure Environment Variables from ConfigMap in a Pod](https://dev.to/latchudevops/scenario-5-configure-environment-variables-from-configmap-in-a-pod-577h)
+- [TLS For AI Agents? No. Wristbands For The Idiots In Line](https://dev.to/jl03/tls-for-ai-agents-no-wristbands-for-the-idiots-in-line-2cpo)
+- [How to understand large typescript codebase](https://dev.to/vkassingh/how-to-understand-large-typescript-codebase-3e9c)
+- [Create Synthetic Data - A Comprehensive Guideline](https://dev.to/vuhung16au/create-synthetic-data-a-comprehensive-guideline-49bf)
+- [How To Create a CloudWatch Dashboard for EC2 and ELB](https://dev.to/thukhakyawe_cloud/how-to-create-a-cloudwatch-dashboard-for-ec2-and-elb-52b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
