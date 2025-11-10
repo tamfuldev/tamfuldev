@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Những điều trường đại học không dạy bạn – Phần 1](https://dev.to/kimhieuwork/nhung-dieu-truong-dai-hoc-khong-day-ban-phan-1-180i)
-- [🚀 How I Taught Myself Databases From Zero to Confidence &lpar;A Practical Roadmap&rpar;](https://dev.to/farhad_rahimi_klie/how-i-taught-myself-databases-from-zero-to-confidence-a-practical-roadmap-2fb8)
-- [There’s finally a tool that can bulk delete Vercel projects and deployments](https://dev.to/skandan_v_6e11a6f70426cb4/theres-finally-a-tool-that-can-bulk-delete-vercel-projects-and-deployments-1ch3)
-- [RK3588 SBC: Kiwi Pi 5 Pro](https://dev.to/dongpei_liao_8092a14d7c50/rk3588-sbc-kiwi-pi-5-pro-4ofe)
-- [Right Approach to JSON Log Analysis: A Hands-on Guide to Efficient Practices with Alibaba Cloud SLS](https://dev.to/observabilityguy/right-approach-to-json-log-analysis-a-hands-on-guide-to-efficient-practices-with-alibaba-cloud-sls-58mf)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-3e24)
+- [Weekend Project- Building a Serverless Phishing Detector for Google&#39;s Cloud Run Hackathon](https://dev.to/mrmemory/weekend-project-building-a-serverless-phishing-detector-for-googles-cloud-run-hackathon-3b9b)
+- [Auth Series: Yet Another Password Authentication Flow.. but hear me out](https://dev.to/iordache/auth-series-yet-another-password-authentication-flow-but-hear-me-out-4mj2)
+- [Auth Series: Yet Another Password Authentication Flow.. but hear me out](https://dev.to/iordache/auth-series-yet-another-password-authentication-flow-but-hear-me-out-njb)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2hdp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
