@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/gracetyy/-39f9)
-- [Best Free SQL Database Software — What to Know Before You Choose](https://dev.to/samantha_brauer/best-free-sql-database-software-what-to-know-before-you-choose-16ik)
-- [How I built a Stock Suggestion app using React + node.js + free APIs ?](https://dev.to/aashutosh_bairagi_31/how-i-built-a-stock-suggestion-app-using-react-nodejs-free-apis--2bn9)
-- [CraftscapeHK: Building an AI + AR Platform for Cultural Heritage on Google Cloud Run](https://dev.to/gracetyy/craftscapehk-building-an-ai-ar-platform-for-cultural-heritage-on-google-cloud-run-1kfp)
-- [**Debida Diligencia y Perfilación: ¿Qué es un Perfil Transac](https://dev.to/drcarlosruizviquez/debida-diligencia-y-perfilacion-que-es-un-perfil-transac-3j9a)
+- [The Great AWS Outage: The $11 Billion Argument for Kubernetes](https://dev.to/signadot/the-great-aws-outage-the-11-billion-argument-for-kubernetes-5dod)
+- [Is AI Coming for Your Dev Job? The Truth About Code, Creativity, and Career Survival](https://dev.to/blogai/is-ai-coming-for-your-dev-job-the-truth-about-code-creativity-and-career-survival-3l1f)
+- [Understanding Kafka Consumer Lag: Causes, Risks, and How to Fix It](https://dev.to/eric_kahindi_cfbfda3bd0f7/understanding-kafka-consumer-lag-causes-risks-and-how-to-fix-it-33e0)
+- [How Machines See: The Power of Computer Vision in AI &lpar;Explained for Developers&rpar;](https://dev.to/zestminds_technologies_c1/how-machines-see-the-power-of-computer-vision-in-ai-explained-for-developers-2jei)
+- [From COBOL to Cloud: How Kiro&#39;s Spec-Driven Development Transformed Legacy Modernization](https://dev.to/shaistaaman/from-cobol-to-cloud-how-kiros-spec-driven-development-transformed-legacy-modernization-39c5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
