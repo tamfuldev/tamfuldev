@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Go DI Libraries Comparison: go-infrastructure vs. Fx](https://dev.to/jack_apolo_beb30743942cf8/go-di-libraries-comparison-go-infrastructure-vs-fx-4jni)
-- [From Frustration to Protection: The Logic of Secure Coding](https://dev.to/quantum_techzone_2a101732/from-frustration-to-protection-the-logic-of-secure-coding-47ni)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-17c4)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-44o0)
-- [Upgrade to Flutter 3.35.7 for Better Speed &amp; UI](https://dev.to/kellythomas/upgrade-to-flutter-3357-for-better-speed-ui-3ki5)
+- [🧱 “Optimizing Angular Apps for Performance — Real Techniques That Work”](https://dev.to/mridudixit15/optimizing-angular-apps-for-performance-real-techniques-that-work-1606)
+- [Automated Appointment Reminder with Voice call and SMS using n8n](https://dev.to/sabbschow/automated-appointment-reminder-with-voice-call-and-sms-using-n8n-10bi)
+- [Complete Guide to Web Scraping with Nodejs and Puppeteer](https://dev.to/masteringbackend/complete-guide-to-web-scraping-with-nodejs-and-puppeteer-5c2o)
+- [Guia de Migração: Atualizando do Brighter V9 para V10](https://dev.to/actor-dev/guia-de-migracao-atualizando-do-brighter-v9-para-v10-2354)
+- [Migration Guide: Upgrading from Brighter V9 to V10](https://dev.to/actor-dev/migration-guide-upgrading-from-brighter-v9-to-v10-5804)
 <!-- BLOG-POST-LIST:END -->
 
 ---
