@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-3j22)
-- [Understanding Integer Caching in Java, The Hidden Optimization You Might’ve Missed](https://dev.to/marzuk16/understanding-integer-caching-in-java-the-hidden-optimization-you-mightve-missed-ggi)
-- [Free university-level CS education &lpar;YC-backed&rpar;](https://dev.to/samgoldman/free-university-level-cs-education-yc-backed-4k8j)
-- [Give Your Flutter App the Power of Theme Switching &lpar;Light, Dark &amp; System&rpar;](https://dev.to/niranjantk_8a74072f217dbe/give-your-flutter-app-the-power-of-theme-switching-light-dark-system-2071)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-o3a)
+- [Building a Synthetic Data Generator: From Concept to Reality](https://dev.to/oliver_samuel_028c6f65ad6/building-a-synthetic-data-generator-from-concept-to-reality-63m)
+- [Integrating Pagy with Hanami &lpar;2025 edition&rpar;](https://dev.to/katafrakt/integrating-pagy-with-hanami-2025-edition-20f2)
+- [Role-Based Authorization for Rails: How We Built Rabarber](https://dev.to/enjaku4/role-based-authorization-for-rails-how-we-built-rabarber-ahi)
+- [Understanding Flexbox: A Beginner’s Journey to Perfect CSS Alignment](https://dev.to/shubhradev/understanding-flexbox-a-beginners-journey-to-perfect-css-alignment-h1a)
+- [From Auth to Action: The Complete Guide to Secure &amp; Scalable AI Agent Infrastructure &lpar;2026&rpar;](https://dev.to/composiodev/from-auth-to-action-the-complete-guide-to-secure-scalable-ai-agent-infrastructure-2026-2ieb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
