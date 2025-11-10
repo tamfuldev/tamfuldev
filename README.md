@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/debuggingwithsim/-1120)
-- [Building AI-Powered BSS: A Developer’s Perspective on Telecom’s Next Evolution](https://dev.to/rishabhsharma123/building-ai-powered-bss-a-developers-perspective-on-telecoms-next-evolution-343l)
-- [💼 JavaScript Jobs — The #1 Job Board for JavaScript Developers](https://dev.to/ml318097/javascript-jobs-the-1-job-board-for-javascript-developers-ji0)
-- [Cursor Composer 1 vs SWE 1.5 What Surprised Me Most After Testing Both](https://dev.to/composiodev/cursor-composer-1-vs-swe-15-what-surprised-me-most-after-testing-both-25gh)
-- [OpenTelemetry Docker Monitoring with Collector and Docker Stats](https://dev.to/uptrace/opentelemetry-docker-monitoring-with-collector-and-docker-stats-17b1)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-46hh)
+- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-41cd)
+- [Building Node.js CLI Tool.](https://dev.to/mehakb7/building-nodejs-cli-tool-l4k)
+- [💡 How to Design Better Architecture](https://dev.to/ivan-zaitsev/how-to-design-better-architecture-opn)
+- [Guide To Leverage The Built-in Barcode Scanners on Android PDAs with Flutter](https://dev.to/michaelchiew08/guide-to-leverage-the-built-in-barcode-scanners-on-android-pdas-with-flutter-15d8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
