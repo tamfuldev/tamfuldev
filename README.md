@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Synthetic Data Generator: From Concept to Reality](https://dev.to/oliver_samuel_028c6f65ad6/building-a-synthetic-data-generator-from-concept-to-reality-63m)
-- [Integrating Pagy with Hanami &lpar;2025 edition&rpar;](https://dev.to/katafrakt/integrating-pagy-with-hanami-2025-edition-20f2)
-- [Role-Based Authorization for Rails: How We Built Rabarber](https://dev.to/enjaku4/role-based-authorization-for-rails-how-we-built-rabarber-ahi)
-- [Understanding Flexbox: A Beginner’s Journey to Perfect CSS Alignment](https://dev.to/shubhradev/understanding-flexbox-a-beginners-journey-to-perfect-css-alignment-h1a)
-- [From Auth to Action: The Complete Guide to Secure &amp; Scalable AI Agent Infrastructure &lpar;2026&rpar;](https://dev.to/composiodev/from-auth-to-action-the-complete-guide-to-secure-scalable-ai-agent-infrastructure-2026-2ieb)
+- [Building a Cloud-Native App to Match Founders with the Right Hackathon](https://dev.to/abishek_muthian/building-a-cloud-native-app-to-match-founders-with-the-right-hackathon-14ae)
+- [The Next Frontier in NLP: Smarter Agents, Not Just Bigger Models](https://dev.to/capestart/the-next-frontier-in-nlp-smarter-agents-not-just-bigger-models-5ddc)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-40f5)
+- [How to Build Production-Ready RAG Systems &lpar;at Scale, with Low Latency &amp; High Accuracy&rpar;](https://dev.to/qlooptech/how-to-build-production-ready-rag-systems-at-scale-with-low-latency-high-accuracy-819)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-4efd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
