@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Quiet Collapse of $ALTD AltitudeDeFi: A Cautionary Tale of Hype, Silence, and Vanished Hopes](https://dev.to/bitnet4ever/the-quiet-collapse-of-altd-altitudedefi-a-cautionary-tale-of-hype-silence-and-vanished-hopes-1e2b)
-- [Build a Docusaurus-like Site with FastAPI: Step 4 - Parsing Frontmatter](https://dev.to/leapcell/build-a-docusaurus-like-site-with-fastapi-step-4-parsing-frontmatter-2pn8)
-- [TIA - Programming a Light Controller State Machine](https://dev.to/calumk/tia-programming-a-light-controller-state-machine-2g4l)
-- [NDC Conferences: &quot;Would YOU Survive the Titanic?&quot;, with ML and .NET - Simon Painter - NDC Copenhagen 2025](https://dev.to/scale_youtube/ndc-conferences-would-you-survive-the-titanic-with-ml-and-net-simon-painter-ndc-3o06)
-- [CSS HALLOWEEN ART - by STEFAN DONOSA](https://dev.to/stefan_donosa141714/css-halloween-art-by-stefan-donosa-597c)
+- [PiHMP Stack &lpar;v2&rpar; - The Phoenix Protocol Build Log](https://dev.to/twop0intfive/pihmp-stack-v2-the-phoenix-protocol-build-log-m1f)
+- [HPSR Proxy Stack: Tu Propio Servidor Proxy HTTPS con Docker, Squid y Certificados SSL Válidos](https://dev.to/hopsersmerk/hpsr-proxy-stack-tu-propio-servidor-proxy-https-con-docker-squid-y-certificados-ssl-validos-47a8)
+- [ChatGPT Lied to Me: A Warning to Developers](https://dev.to/todd427/chatgpt-lied-to-me-a-warning-to-developers-2ddh)
+- [Intro to Clean Architecture in Android. Example with independent features.](https://dev.to/mardsoul/intro-to-clean-architecture-in-android-example-with-independent-features-bkg)
+- [Testing While Developing &lpar;Part 5&rpar;: Collecting Coverage](https://dev.to/kevinccbsg/testing-while-developing-part-5-collecting-coverage-1gom)
 <!-- BLOG-POST-LIST:END -->
 
 ---
