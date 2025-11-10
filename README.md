@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Real-Time Crypto Data Pipeline with Debezium CDC](https://dev.to/aineahsimiyu/building-a-real-time-crypto-data-pipeline-with-debezium-cdc-1j41)
-- [Rewind AI Alternative to Windows You Can Trust](https://dev.to/nodminger/rewind-ai-alternative-to-windows-you-can-trust-51a)
-- [Modern License Metadata for Python Packages: An Introduction to PEP 639 and SPDX](https://dev.to/wagenrace/modern-license-metadata-for-python-packages-an-introduction-to-pep-639-and-spdx-2d11)
-- [We wanted Her, instead we got Tinder](https://dev.to/leon_lin_s/we-wanted-her-instead-we-got-tinder-2o8d)
-- [Accelerating AI Agent Development and Deployment Cycles](https://dev.to/kamya_shah_e69d5dd78f831c/accelerating-ai-agent-development-and-deployment-cycles-4n0j)
+- [Music Monday](https://dev.to/musicforem/music-monday-36j1)
+- [Choosing Your First Smart Devices for Home Assistant](https://dev.to/picoable/choosing-your-first-smart-devices-for-home-assistant-3474)
+- [That one missing HTTP method that broke my whole setup](https://dev.to/techwithhari/that-one-missing-http-method-that-broke-my-whole-setup-14a6)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-1k2l)
+- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-cfo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
