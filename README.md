@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Fix Common Smart Fridge Issues: A Step-by-Step DIY Tutorial](https://dev.to/picoable/fix-common-smart-fridge-issues-a-step-by-step-diy-tutorial-80l)
-- [All Data and AI Weekly #215: 10 November 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-215-10-november-2025-4c2f)
-- [I Built a URL Metadata API After Wasting Days on Manual Scraping](https://dev.to/fistonuser/i-built-a-url-metadata-api-after-wasting-days-on-manual-scraping-3m81)
-- [AI vs. AI: How Google&#39;s &#39;PROMPTFLUX&#39; Malware Rewrites Itself &lpar;And How &#39;Big Sleep&#39; Fights Back&rpar;](https://dev.to/freerave/ai-vs-ai-how-googles-promptflux-malware-rewrites-itself-and-how-big-sleep-fights-back-410d)
-- [When the mv Command “Loses” Your File in Linux — What Really Happened🚀](https://dev.to/chaitanyarai3/when-the-mv-command-loses-your-file-in-linux-what-really-happened-1186)
+- [[Boost]](https://dev.to/gracetyy/-39f9)
+- [Best Free SQL Database Software — What to Know Before You Choose](https://dev.to/samantha_brauer/best-free-sql-database-software-what-to-know-before-you-choose-16ik)
+- [How I built a Stock Suggestion app using React + node.js + free APIs ?](https://dev.to/aashutosh_bairagi_31/how-i-built-a-stock-suggestion-app-using-react-nodejs-free-apis--2bn9)
+- [CraftscapeHK: Building an AI + AR Platform for Cultural Heritage on Google Cloud Run](https://dev.to/gracetyy/craftscapehk-building-an-ai-ar-platform-for-cultural-heritage-on-google-cloud-run-1kfp)
+- [**Debida Diligencia y Perfilación: ¿Qué es un Perfil Transac](https://dev.to/drcarlosruizviquez/debida-diligencia-y-perfilacion-que-es-un-perfil-transac-3j9a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
