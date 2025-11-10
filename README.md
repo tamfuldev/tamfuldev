@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The story of Nnipa, the African business CRM](https://dev.to/aberba/the-story-of-nnipa-the-african-business-crm-m52)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-1d5p)
-- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-3jjj)
-- [How Websites Use Data Structures in the Real World](https://dev.to/lealonwolfe/how-websites-use-data-structures-in-the-real-world-5bdm)
-- [Kafka consumer lag—Measure and reduce](https://dev.to/aime-bangirahe/kafka-consumer-lag-measure-and-reduce-18df)
+- [Reflections on Life](https://dev.to/bibimbop123/reflections-on-life-157d)
+- [Personal Responsibility for Sustainability: Building a Greener Future through Individual Action](https://dev.to/bushra_23062_889499abfc6e/personal-responsibility-for-sustainability-building-a-greener-future-through-individual-action-2ca4)
+- [Searching Algorithms Part 1: Binary Search and the Art of Cutting the Search Space](https://dev.to/picciniuscodes/searching-algorithms-part-1-binary-search-and-the-art-of-cutting-the-search-space-2n08)
+- [Code Sharing: The Unsung Hero of Developer Communities and Web Innovation](https://dev.to/buysellshop/code-sharing-the-unsung-hero-of-developer-communities-and-web-innovation-dm)
+- [Como Eliminamos 4.041 Erros de TypeScript em 6 Meses](https://dev.to/monest/como-eliminamos-4041-erros-de-typescript-em-6-meses-320a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
