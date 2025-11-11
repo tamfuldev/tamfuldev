@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-2iab)
-- [100 Days of Code — My GitHub Streak Journey &lpar;Aug 4 Nov 11&rpar;](https://dev.to/aman_kureshi_/100-days-of-code-my-github-streak-journey-aug-4-nov-11-3dpj)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-enc)
-- [Mr Sunday Movies: A New High? - Predator: Badlands Review](https://dev.to/popcorn_movies/mr-sunday-movies-a-new-high-predator-badlands-review-1i98)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2ah)
+- [Build a PHP QueryBuilder from scratch!](https://dev.to/l_iadicola/build-a-php-querybuilder-from-scratch-4891)
+- [Clean up in active AD accounts](https://dev.to/thiyagarajan_thangavel/clean-up-in-active-ad-accounts-13ki)
+- [Migration Guide: Microsoft ADCS to Sectigo Certificate Manager](https://dev.to/thiyagarajan_thangavel/migration-guide-microsoft-adcs-to-sectigo-certificate-manager-fdc)
+- [Project Create a Storage Account for Public Use and Private Use](https://dev.to/baris86/project-create-a-storage-account-for-public-use-and-private-use-1hmj)
+- [Fault Tolerance](https://dev.to/igor_grieder/fault-tolerance-dgj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
