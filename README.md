@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building NetGenius Instructor Copilot: A Multi-Agent AI System on Google Cloud Run](https://dev.to/racampos/building-netgenius-instructor-copilot-a-multi-agent-ai-system-on-google-cloud-run-54if)
-- [Building Scalable, Fault-Tolerant, and Highly Available Cloud Architectures with AWS Best Practices.](https://dev.to/taiwoakinbolaji/building-scalable-fault-tolerant-and-highly-available-cloud-architectures-with-aws-best-practices-2a5f)
-- [Searching Algorithms Part 2: Pattern Matching in Strings with Z, KMP, and Rabin-Karp](https://dev.to/picciniuscodes/searching-algorithms-part-2-pattern-matching-in-strings-with-z-kmp-and-rabin-karp-178d)
-- [Building BrainBattle AI: Simulating Your Brain&#39;s Product Decision with 9 AI Agents on Google Cloud Run published](https://dev.to/anil_kumarum/building-brainbattle-ai-simulating-your-brains-product-decision-with-9-ai-agents-on-google-cloud-he9)
-- [From SEO Playbooks to GEO Architectures](https://dev.to/a_belova/from-seo-playbooks-to-geo-architectures-6a8)
+- [CSS Transitions and Animations Basics: Bringing Your UI to Life](https://dev.to/sharique_siddiqui_8242dad/css-transitions-and-animations-basics-bringing-your-ui-to-life-5b6m)
+- [Battery Cooling Plates: Does Inlet Position Really Matter? I Ran the Model.](https://dev.to/thermal/battery-cooling-plates-does-inlet-position-really-matter-i-ran-the-model-41kc)
+- [MultiVerse: A Multi-Turn Conversation Benchmark for Evaluating Large Vision andLanguage Models](https://dev.to/paperium/multiverse-a-multi-turn-conversation-benchmark-for-evaluating-large-vision-andlanguage-models-59c9)
+- [shadcn/ui Async Button with Loading and Error States](https://dev.to/jqueryscript/shadcnui-async-button-with-loading-and-error-states-1hdm)
+- [NPR Music: Nova Twins: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-3kp5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
