@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Educação financeira - aprenda a gerir a sua renda](https://dev.to/andersoncontreira/educacao-financeira-aprenda-a-gerir-a-sua-renda-eff)
-- [Projeto Sirios - Apache + Python para Acionar LEDs via Web na Banana Pi](https://dev.to/henriqueotogami/projeto-sirios-apache-python-para-acionar-leds-via-web-na-banana-pi-16p4)
-- [From Material 2 to Material You: Everything New in Material 3 for Android Developers](https://dev.to/mohitrajput987/from-material-2-to-material-you-everything-new-in-material-3-for-android-developers-4of2)
-- [How to use React with a VSCode webview.](https://dev.to/failtowinpro/how-to-use-react-with-a-vscode-webview-4o58)
-- [A Senior Developer’s Guide to Python’s Data Toolkit](https://dev.to/onlineproxy/a-senior-developers-guide-to-pythons-data-toolkit-20c2)
+- [Ringer Movies: ‘Predator: Badlands’ and the &#39;Predator&#39; Movie Rankings](https://dev.to/popcorn_movies/ringer-movies-predator-badlands-and-the-predator-movie-rankings-3l9b)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-2m93)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-hgf)
+- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-ii2)
+- [Hackathon Arc: Phase of Uncertainty](https://dev.to/namish/hackathon-arc-phase-of-uncertainty-17m7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
