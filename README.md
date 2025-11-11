@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-56en)
-- [Hands-On with Kubernetes 1.33: My PoC on In-Place Vertical Scaling](https://dev.to/robert_r_7c237256b7614328/hands-on-with-kubernetes-133-my-poc-on-in-place-vertical-scaling-147)
-- [A User Broke My AI Chatbot With Unexpected Input — Here’s What Actually Happened](https://dev.to/christechnocom/a-user-broke-my-ai-chatbot-with-unexpected-input-heres-what-actually-happened-31nb)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-2agj)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-4jfo)
+- [Design System: Building the Foundations](https://dev.to/denis_bratchikov/design-system-building-the-foundations-1l75)
+- [Mastering 3DS: Balancing Security, UX, and Authentication Rates](https://dev.to/rapyd/mastering-3ds-balancing-security-ux-and-authentication-rates-19pc)
+- [🚀 Introducing Gem Price Estimator &lpar;Open Source &amp; Free!&rpar;](https://dev.to/dmsmenula/introducing-gem-price-estimator-open-source-free-26fi)
+- [Seamless Hyperledger Fabric Network Management Using Docker Commands](https://dev.to/artarasaneh2025/seamless-hyperledger-fabric-network-management-using-docker-commands-2nkh)
+- [CommerceIQ AI -Smarter Insights, Smarter Sales](https://dev.to/emma_schmidt_/commerceiq-ai-smarter-insights-smarter-sales-17n4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
