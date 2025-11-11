@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AgriCredit Africa: Building Trust and Financial Access for African Farmers](https://dev.to/n3on/agricredit-africa-building-trust-and-financial-access-for-african-farmers-4175)
-- [Handling custom web security rules, how do you do it?](https://dev.to/thinkvalue/handling-custom-web-security-rules-how-do-you-do-it-lcl)
-- [Smooth Page Transitions with Zero Libraries: The View Transitions API](https://dev.to/highflyer910/smooth-page-transitions-with-zero-libraries-the-view-transitions-api-3o0m)
-- [How to Use AI Models Locally in VS Code with the Continue Plugin &lpar;with Multi-Model Switching Support&rpar;](https://dev.to/manikandan/how-to-use-ai-models-locally-in-vs-code-with-the-continue-plugin-with-multi-model-switching-3na0)
-- [https://youtu.be/LUYxxp5VgU4?si=hjPCd1bSwbqJ1aH5](https://dev.to/techdust/httpsyoutubeluyxxp5vgu4sihjpcd1bswbqj1ah5-24h3)
+- [One Country, Two Internets: How Edge Computing Solves Brazil&#39;s Connectivity Crisis](https://dev.to/yevheniia_mala/one-country-two-internets-how-edge-computing-solves-brazils-connectivity-crisis-g70)
+- [Enriching the Search Experience](https://dev.to/erikhatcher/enriching-the-search-experience-2gg2)
+- [Designing Blockchain #2: Accounts and State](https://dev.to/dmytro_svynarenko/designing-blockchain-2-accounts-and-state-c82)
+- [Build a Spring AI MCP Server With MongoDB](https://dev.to/timkelly/build-a-spring-ai-mcp-server-with-mongodb-1ebd)
+- [Node.js Streams Explained](https://dev.to/elanizi43998/nodejs-streams-explained-348m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
