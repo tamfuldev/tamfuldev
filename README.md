@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Searching Algorithms Part 3: Exploring Trees and Graphs with BFS and DFS](https://dev.to/picciniuscodes/searching-algorithms-part-3-exploring-trees-and-graphs-with-bfs-and-dfs-1jc0)
-- [Create a Text Editor in Go - Moving the Cursor](https://dev.to/alcb1310/create-a-text-editor-in-go-moving-the-cursor-2bnk)
-- [11 AWS Security Best Practices You Must Implement Now](https://dev.to/kevinasutton/11-aws-security-best-practices-you-must-implement-now-iok)
-- [How to Configure NGINX, and Host Your Local Website on Ubuntu Installed on VMware](https://dev.to/jic/how-to-configure-nginx-and-host-your-local-website-on-ubuntu-installed-on-vmware-pi6)
-- [**Tip práctico para prevención de lavado de dinero en México](https://dev.to/drcarlosruizviquez/tip-practico-para-prevencion-de-lavado-de-dinero-en-mexico-5hjb)
+- [Building NetGenius Instructor Copilot: A Multi-Agent AI System on Google Cloud Run](https://dev.to/racampos/building-netgenius-instructor-copilot-a-multi-agent-ai-system-on-google-cloud-run-54if)
+- [Building Scalable, Fault-Tolerant, and Highly Available Cloud Architectures with AWS Best Practices.](https://dev.to/taiwoakinbolaji/building-scalable-fault-tolerant-and-highly-available-cloud-architectures-with-aws-best-practices-2a5f)
+- [Searching Algorithms Part 2: Pattern Matching in Strings with Z, KMP, and Rabin-Karp](https://dev.to/picciniuscodes/searching-algorithms-part-2-pattern-matching-in-strings-with-z-kmp-and-rabin-karp-178d)
+- [Building BrainBattle AI: Simulating Your Brain&#39;s Product Decision with 9 AI Agents on Google Cloud Run published](https://dev.to/anil_kumarum/building-brainbattle-ai-simulating-your-brains-product-decision-with-9-ai-agents-on-google-cloud-he9)
+- [From SEO Playbooks to GEO Architectures](https://dev.to/a_belova/from-seo-playbooks-to-geo-architectures-6a8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
