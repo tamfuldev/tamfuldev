@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Predator: Badlands’ and the &#39;Predator&#39; Movie Rankings](https://dev.to/popcorn_movies/ringer-movies-predator-badlands-and-the-predator-movie-rankings-3l9b)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-2m93)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-hgf)
-- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-ii2)
-- [Hackathon Arc: Phase of Uncertainty](https://dev.to/namish/hackathon-arc-phase-of-uncertainty-17m7)
+- [Construindo um Operador Kubernetes com Go](https://dev.to/gfalves87/construindo-um-operador-kubernetes-com-go-51ld)
+- [💻 Flutter V2Ray Client Desktop Plugin — V2Ray/Xray &amp; Sing-Box VPN for Windows, macOS, Linux](https://dev.to/amirzr/flutter-v2ray-client-desktop-plugin-v2rayxray-sing-box-vpn-for-windows-macos-linux-5h9d)
+- [How To Make A Custom Type Iterable In Rust.](https://dev.to/allwelldotdev/how-to-make-a-custom-type-iterable-in-rust-c0i)
+- [Mastering Cryptography: A Senior&#39;s Guide to Design, Attack, and Defend](https://dev.to/tsaplina_elena/mastering-cryptography-a-seniors-guide-to-design-attack-and-defend-h9c)
+- [Djowda — Looking for a New Steward for an Open FoodTech Ecosystem](https://dev.to/mosescodedev/djowda-looking-for-a-new-steward-for-an-open-foodtech-ecosystem-30gc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
