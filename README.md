@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [One Country, Two Internets: How Edge Computing Solves Brazil&#39;s Connectivity Crisis](https://dev.to/yevheniia_mala/one-country-two-internets-how-edge-computing-solves-brazils-connectivity-crisis-g70)
-- [Enriching the Search Experience](https://dev.to/erikhatcher/enriching-the-search-experience-2gg2)
-- [Designing Blockchain #2: Accounts and State](https://dev.to/dmytro_svynarenko/designing-blockchain-2-accounts-and-state-c82)
-- [Build a Spring AI MCP Server With MongoDB](https://dev.to/timkelly/build-a-spring-ai-mcp-server-with-mongodb-1ebd)
-- [Node.js Streams Explained](https://dev.to/elanizi43998/nodejs-streams-explained-348m)
+- [Setting Up Solid Cache on Heroku with a Single Database](https://dev.to/mrispoli24/setting-up-solid-cache-on-heroku-with-a-single-database-49c5)
+- [I Built an API-First Document Workflow Engine &lpar;Looking for Feedback&rpar;](https://dev.to/juniorchar2025/i-built-an-api-first-document-workflow-engine-looking-for-feedback-1kdf)
+- [Trabalhar para empresas internacionais não é impossível](https://dev.to/andersoncontreira/trabalhar-para-empresas-internacionais-nao-e-impossivel-bj3)
+- [Talk Early, Fail Less: How Communication Builds Great Teams](https://dev.to/reenanms/talk-early-fail-less-how-communication-builds-great-teams-3l4b)
+- [🔥 Why Your Deep Neural Network Fails at Layer 50 &lpar;And How ResNet Fixes It&rpar;](https://dev.to/igornosatov_15/why-your-deep-neural-network-fails-at-layer-50-and-how-resnet-fixes-it-3c4f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
