@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Get Hasura Ready in 1 hour — A copy-pasteable PROD Framework I wish I had on Hasura Day 1.](https://dev.to/michalelee0609/get-hasura-ready-in-1-hour-a-copy-pasteable-prod-framework-i-wish-i-had-on-hasura-day-1-1173)
+- [Host your first AI Agent on Agentcore](https://dev.to/joshyfruit/host-your-first-ai-agent-on-agentcore-2o06)
+- [Angular Directive that Elegantly Continues Truncated Text](https://dev.to/hosembafer/angular-directive-that-elegantly-continues-truncated-text-1f1h)
 - [🎯 Scenario #13 — Encrypt Secrets Using Sealed Secrets &lpar;Bitnami&rpar; in Kubernetes](https://dev.to/latchudevops/scenario-13-encrypt-secrets-using-sealed-secrets-bitnami-in-kubernetes-32fl)
-- [Black Friday WordPress Checklist: How Agencies Can Keep Client Stores Running Smoothly](https://dev.to/medha_bhatt_21b7dc4cc53e7/black-friday-wordpress-checklist-how-agencies-can-keep-client-stores-running-smoothly-4h1c)
-- [The DevOps Blindspot: Why Reliability and Security Are Two Sides of the Same Coin](https://dev.to/taiwoakinbolaji/why-reliability-and-security-are-two-sides-of-the-same-coin-lcn)
-- [How to Use Path Aliases &#39;@&#39; in React Native with Expo](https://dev.to/cathylai/how-to-use-path-aliases-in-react-native-with-expo-1fl2)
-- [Do Parentheses Matter in Arrow Functions? A TypeScript Deep Dive](https://dev.to/cathylai/do-parentheses-matter-in-arrow-functions-a-typescript-deep-dive-4433)
+- [How To Migrate Load Balanced Application by Using a Blue Green and Canary Deployment Strategy](https://dev.to/thukhakyawe_cloud/how-to-migrate-load-balanced-application-by-using-a-blue-green-and-canary-deployment-strategy-543k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
