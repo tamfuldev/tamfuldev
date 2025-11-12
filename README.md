@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI-Powered Mini-SOC with LM Studio - Part 1: Agent Architecture](https://dev.to/chaimae_bouassab_aa411bf2/building-an-ai-powered-mini-soc-with-lm-studio-part-1-agent-architecture-366e)
-- [How to Disable HTTP Request Logs in Medusa v1 and v2?](https://dev.to/u11d/how-to-disable-http-request-logs-in-medusa-v1-and-v2-4j05)
-- [Did I just join a Hackathon](https://dev.to/rlove/did-i-just-join-a-hackathon-2700)
-- [IT Asset Management-Vulnerabilities and Patches.](https://dev.to/kiran_vedagiri_ae39372758/it-asset-management-vulnerabilities-and-patches-3i99)
-- [L&#39;Injection de Dépendances &lpar;DI&rpar; : Comment le Service Container de Laravel Vous Rend Invincible](https://dev.to/jiordiviera/linjection-de-dependances-di-comment-le-service-container-de-laravel-vous-rend-invincible-eo0)
+- [Understanding HTML Semantic Tags: Importance and Practical Uses](https://dev.to/nicholaschibueze/understanding-html-semantic-tags-importance-and-practical-uses-322l)
+- [Create Your First MCP Tool: The readFile Tool Explained](https://dev.to/ndabene/create-your-first-mcp-tool-the-readfile-tool-explained-5g73)
+- [2025 Complete Guide: In-Depth Analysis of ERNIE-4.5-VL-28B-A3B-Thinking Multimodal AI Model](https://dev.to/sienna/2025-complete-guide-in-depth-analysis-of-ernie-45-vl-28b-a3b-thinking-multimodal-ai-model-402a)
+- [Cleaner Terraform: Stop Writing Backwards Conditionals](https://dev.to/aws-builders/cleaner-terraform-stop-writing-backwards-conditionals-5862)
+- [Understanding AI Agents: A Comprehensive Guide](https://dev.to/solegaonkar/understanding-ai-agents-a-comprehensive-guide-325c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
