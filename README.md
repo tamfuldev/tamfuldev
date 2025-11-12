@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Predicting the Unpredictable: Reproducible BiLSTM Forecasting of Incident Countsin the Global Terrorism Database &lpar;GTD&rpar;](https://dev.to/paperium/predicting-the-unpredictable-reproducible-bilstm-forecasting-of-incident-countsin-the-global-2hka)
-- [Ma première extension Chrome... Synonymes Maison](https://dev.to/maison/ma-premiere-extension-chrome-synonymes-maison-2bi2)
-- [New major HMPL version 3.2.0 🕶](https://dev.to/hmpljs/new-major-version-320-79e)
-- [The Architecture of Traffic Arbitrage: A Professional&#39;s Blueprint](https://dev.to/tsaplina_elena/the-architecture-of-traffic-arbitrage-a-professionals-blueprint-3kpm)
-- [Building Your Own VPC on Linux: A DevOps Love Story 💘🐧](https://dev.to/herdeybayor/building-your-own-vpc-on-linux-a-devops-love-story-4ca1)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 5 - &#39;Lady Bird’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-5-lady-bird-40dh)
+- [2025](https://dev.to/temporalio/2025-3dmg)
+- [Tines - SOAR Tool](https://dev.to/kuljotbiring/tines-soar-tool-37fh)
+- [GoREST is dead...](https://dev.to/nicolasbonnici/gorest-is-dead-1ap9)
+- [Developer onboarding is broken in most companies.](https://dev.to/whykislay/developer-onboarding-is-broken-in-most-companies-4hhn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
