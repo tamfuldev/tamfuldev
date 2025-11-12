@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding HTML Semantic Tags: Importance and Practical Uses](https://dev.to/nicholaschibueze/understanding-html-semantic-tags-importance-and-practical-uses-322l)
-- [Create Your First MCP Tool: The readFile Tool Explained](https://dev.to/ndabene/create-your-first-mcp-tool-the-readfile-tool-explained-5g73)
-- [2025 Complete Guide: In-Depth Analysis of ERNIE-4.5-VL-28B-A3B-Thinking Multimodal AI Model](https://dev.to/sienna/2025-complete-guide-in-depth-analysis-of-ernie-45-vl-28b-a3b-thinking-multimodal-ai-model-402a)
-- [Cleaner Terraform: Stop Writing Backwards Conditionals](https://dev.to/aws-builders/cleaner-terraform-stop-writing-backwards-conditionals-5862)
-- [Understanding AI Agents: A Comprehensive Guide](https://dev.to/solegaonkar/understanding-ai-agents-a-comprehensive-guide-325c)
+- [5 projets blockchain open source qui façonnent l’avenir du Web3](https://dev.to/carlvilla/5-projets-blockchain-open-source-qui-faconnent-lavenir-du-web3-10p8)
+- [How to Build a Chrome Extension for Scanning Barcode &amp; QR Code with Multiple Input Methods](https://dev.to/yushulx/how-to-build-a-chrome-extension-for-scanning-barcode-qr-code-with-multiple-input-methods-36eo)
+- [Measuring End-to-End Latency for Robots and Cameras Over 5G &lpar;Without RF Gear&rpar;](https://dev.to/yacine_s/measuring-end-to-end-latency-for-robots-and-cameras-over-5g-without-rf-gear-lfj)
+- [i18n SEO checklist: 15 SEO tips to reach a global audience](https://dev.to/lingodotdev/the-i18n-seo-checklist-15-seo-optimization-techniques-to-reach-a-global-audience-59l0)
+- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-5e95)
 <!-- BLOG-POST-LIST:END -->
 
 ---
