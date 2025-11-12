@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Evolving Minds: Building Adaptable AI Through Strategic Response Learning](https://dev.to/arvind_sundararajan/evolving-minds-building-adaptable-ai-through-strategic-response-learning-2j24)
-- [DotCommand 1.3.0 is out. I completely rebuilt the extension.](https://dev.to/freerave/dotcommand-130-is-out-i-completely-rebuilt-the-extension-35j9)
-- [Myth: Training AI models requires enormous energy consumptio](https://dev.to/drcarlosruizviquez/myth-training-ai-models-requires-enormous-energy-consumptio-2ie8)
-- [Why I Built My Own Windows Installer in C#](https://dev.to/iamsopotatoecoder/why-i-built-my-own-windows-installer-in-c-5ap9)
-- [Terraform, but Safer — How I Built tf-safe to Protect State Files Automatically](https://dev.to/birhrt/terraform-but-safer-how-i-built-tf-safe-to-protect-state-files-automatically-2ndd)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-340l)
+- [🛠️ The Rise of the Artisan Coder — a New Breed of Developer](https://dev.to/digkill/the-rise-of-the-artisan-coder-a-new-breed-of-developer-352f)
+- [Database Indexing Explained Like You&#39;re 5 &lpar;Then Like You&#39;re a Senior Dev&rpar;](https://dev.to/adhikareeprayush/database-indexing-explained-like-youre-5-then-like-youre-a-senior-dev-57hc)
+- [Unimedvl: Unifying Medical Multimodal Understanding And Generation ThroughObservation-Knowledge-Analysis](https://dev.to/paperium/unimedvl-unifying-medical-multimodal-understanding-and-generation-1pe9)
+- [Betting on Yourself: A Quick Guide for Young Tech Entrepreneurs](https://dev.to/n3on/betting-on-yourself-a-quick-guide-for-young-tech-entrepreneurs-4k4p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
