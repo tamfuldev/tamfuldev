@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Git History Reveals Your Riskiest Code](https://dev.to/huangsam/how-git-history-reveals-your-riskiest-code-n6m)
-- [Can Sora 2 generate NSFW content? How can we try it?](https://dev.to/_37bbf0c253c0b3edec531e/can-sora-2-generate-nsfw-content-how-can-we-try-it-40gm)
-- [Deploy an Astro Blog with Cloudflare Pages and Porkbun](https://dev.to/picoable/deploy-an-astro-blog-with-cloudflare-pages-and-porkbun-m5o)
-- [In 2025, AI regulations were established in four major global regions.](https://dev.to/akari_iku/in-2025-ai-regulations-were-established-in-four-major-global-regions-1lbp)
-- [Building Your Own Cloud: Create a Virtual Private Cloud with Linux](https://dev.to/ursulaonyi/building-a-virtual-private-cloud-with-200-lines-of-bash-53hf)
+- [CNNs: from a beginner&#39;s point of view](https://dev.to/nicanor_korir/cnns-from-a-beginners-point-of-view-7ek)
+- [Introducing eventsourcing.dev: A Clear Guide to Event Sourcing](https://dev.to/patriceckhart/introducing-eventsourcingdev-a-clear-guide-to-event-sourcing-3hga)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-37me)
+- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-33m1)
+- [Git Deep Dive: Mastering rerere](https://dev.to/louis7/git-deep-dive-mastering-rerere-12jm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
