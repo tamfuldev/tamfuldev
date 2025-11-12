@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-340l)
-- [🛠️ The Rise of the Artisan Coder — a New Breed of Developer](https://dev.to/digkill/the-rise-of-the-artisan-coder-a-new-breed-of-developer-352f)
-- [Database Indexing Explained Like You&#39;re 5 &lpar;Then Like You&#39;re a Senior Dev&rpar;](https://dev.to/adhikareeprayush/database-indexing-explained-like-youre-5-then-like-youre-a-senior-dev-57hc)
-- [Unimedvl: Unifying Medical Multimodal Understanding And Generation ThroughObservation-Knowledge-Analysis](https://dev.to/paperium/unimedvl-unifying-medical-multimodal-understanding-and-generation-1pe9)
-- [Betting on Yourself: A Quick Guide for Young Tech Entrepreneurs](https://dev.to/n3on/betting-on-yourself-a-quick-guide-for-young-tech-entrepreneurs-4k4p)
+- [Predicting the Unpredictable: Reproducible BiLSTM Forecasting of Incident Countsin the Global Terrorism Database &lpar;GTD&rpar;](https://dev.to/paperium/predicting-the-unpredictable-reproducible-bilstm-forecasting-of-incident-countsin-the-global-2hka)
+- [Ma première extension Chrome... Synonymes Maison](https://dev.to/maison/ma-premiere-extension-chrome-synonymes-maison-2bi2)
+- [New major HMPL version 3.2.0 🕶](https://dev.to/hmpljs/new-major-version-320-79e)
+- [The Architecture of Traffic Arbitrage: A Professional&#39;s Blueprint](https://dev.to/tsaplina_elena/the-architecture-of-traffic-arbitrage-a-professionals-blueprint-3kpm)
+- [Building Your Own VPC on Linux: A DevOps Love Story 💘🐧](https://dev.to/herdeybayor/building-your-own-vpc-on-linux-a-devops-love-story-4ca1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
