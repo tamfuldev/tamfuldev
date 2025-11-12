@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [StackSpot AI: Transforme Seu Fluxo de Desenvolvimento com Agentes Inteligentes](https://dev.to/glaucia86/stackspot-ai-transforme-seu-fluxo-de-desenvolvimento-com-agentes-inteligentes-56lo)
-- [Pin It or Bin It &lpar;for the brewsters&rpar;](https://dev.to/jl03/pin-it-or-bin-it-for-the-brewsters-4aoe)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-4c9l)
-- [🏷️ Blazingly.fast — a framework for belief-driven benchmarking](https://dev.to/arrno/blazinglyfast-a-framework-for-belief-driven-benchmarking-1faa)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-45bp)
+- [Enclave Games Monthly Report: October 2025](https://dev.to/end3r/enclave-games-monthly-report-october-2025-12k3)
+- [Yann LeCun to depart Meta and launch AI startup focused on &#39;world models&#39;](https://dev.to/technoblogger14o3/yann-lecun-to-depart-meta-and-launch-ai-startup-focused-on-world-models-1102)
+- [Coding Challenge Practice - Question 53](https://dev.to/tomivan/coding-challenge-practice-question-53-2378)
+- [Build Your Own Virtual Private Cloud &lpar;VPC&rpar; on Linux – Beginner’s Guide](https://dev.to/miracle_ify_be2aaea8e74f8/build-your-own-virtual-private-cloud-vpc-on-linux-beginners-guide-52l)
+- [Pure Cascade — Week 4: Chrome Extension MVP](https://dev.to/__23aca6dca/pure-cascade-week-4-chrome-extension-mvp-4dd5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
