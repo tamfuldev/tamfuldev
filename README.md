@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Poem That Taught Me to Listen](https://dev.to/sarahlinwrites/the-poem-that-taught-me-to-listen-3i72)
-- [💳 Building a Lightweight PayPal Payment Gateway Service in C#](https://dev.to/auyeungdavid_2847435260/building-a-reusable-paypal-payment-gateway-service-in-c-2o91)
-- [[Boost]](https://dev.to/incitopcuoglu/-3353)
-- [Unlocking AI Reasoning: The Power of Hierarchical Skipping](https://dev.to/arvind_sundararajan/unlocking-ai-reasoning-the-power-of-hierarchical-skipping-2384)
-- [Animated Gradient Generator App](https://dev.to/shreyvijayvargiya/animated-gradient-generator-app-1486)
+- [StackSpot AI: Transforme Seu Fluxo de Desenvolvimento com Agentes Inteligentes](https://dev.to/glaucia86/stackspot-ai-transforme-seu-fluxo-de-desenvolvimento-com-agentes-inteligentes-56lo)
+- [Pin It or Bin It &lpar;for the brewsters&rpar;](https://dev.to/jl03/pin-it-or-bin-it-for-the-brewsters-4aoe)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-4c9l)
+- [🏷️ Blazingly.fast — a framework for belief-driven benchmarking](https://dev.to/arrno/blazinglyfast-a-framework-for-belief-driven-benchmarking-1faa)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-45bp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
