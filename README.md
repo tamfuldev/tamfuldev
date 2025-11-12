@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Enclave Games Monthly Report: October 2025](https://dev.to/end3r/enclave-games-monthly-report-october-2025-12k3)
-- [Yann LeCun to depart Meta and launch AI startup focused on &#39;world models&#39;](https://dev.to/technoblogger14o3/yann-lecun-to-depart-meta-and-launch-ai-startup-focused-on-world-models-1102)
-- [Coding Challenge Practice - Question 53](https://dev.to/tomivan/coding-challenge-practice-question-53-2378)
-- [Build Your Own Virtual Private Cloud &lpar;VPC&rpar; on Linux – Beginner’s Guide](https://dev.to/miracle_ify_be2aaea8e74f8/build-your-own-virtual-private-cloud-vpc-on-linux-beginners-guide-52l)
-- [Pure Cascade — Week 4: Chrome Extension MVP](https://dev.to/__23aca6dca/pure-cascade-week-4-chrome-extension-mvp-4dd5)
+- [OOP Under the Hood: Prototypes, new, and More](https://dev.to/karensantana/oop-under-the-hood-prototypes-new-and-more-4mh)
+- [Stop Blaming Doctrine - Start Understanding It](https://dev.to/jszutkowski/stop-blaming-doctrine-start-understanding-it-55k2)
+- [Mr Sunday Movies: A New High? - Predator: Badlands Review](https://dev.to/popcorn_movies/mr-sunday-movies-a-new-high-predator-badlands-review-28b1)
+- [DI containers are dead, long live context containers!](https://dev.to/flix_dubsomeone635_0/di-containers-are-dead-long-live-context-containers-3hna)
+- [What is dom?](https://dev.to/aj_arul/what-is-dom-4p4i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
