@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Storing Secrets in Your Frontend .env File](https://dev.to/elenndev/stop-storing-secrets-in-your-frontend-env-file-20i0)
-- [How Bilingual Development Teams Improve App Localization](https://dev.to/tribesquare/how-bilingual-development-teams-improve-app-localization-4ha8)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-1423)
-- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-3nba)
-- [Perfect Sims, Imperfect Worlds](https://dev.to/rawveg/perfect-sims-imperfect-worlds-1d7n)
+- [The Poem That Taught Me to Listen](https://dev.to/sarahlinwrites/the-poem-that-taught-me-to-listen-3i72)
+- [💳 Building a Lightweight PayPal Payment Gateway Service in C#](https://dev.to/auyeungdavid_2847435260/building-a-reusable-paypal-payment-gateway-service-in-c-2o91)
+- [[Boost]](https://dev.to/incitopcuoglu/-3353)
+- [Unlocking AI Reasoning: The Power of Hierarchical Skipping](https://dev.to/arvind_sundararajan/unlocking-ai-reasoning-the-power-of-hierarchical-skipping-2384)
+- [Animated Gradient Generator App](https://dev.to/shreyvijayvargiya/animated-gradient-generator-app-1486)
 <!-- BLOG-POST-LIST:END -->
 
 ---
