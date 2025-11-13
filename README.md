@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The most powerful web barcode scanner has just launched on the Edge Add-ons Store. Check it out and start scanning instantly! https://microsoftedge.microsoft.com/addons/detail/barcode-qr-code-scanner/lddfadanimbaiceehkfdngafclpodldj](https://dev.to/yushulx/the-most-powerful-web-barcode-scanner-has-just-launched-on-the-edge-add-ons-store-check-it-out-and-1pbo)
-- [Nano-Banana AI: Next-Level Image Creation with Google Gemini 2.5 Flash](https://dev.to/_9ab6f7649cd899d9b6018/nano-banana-ai-next-level-image-creation-with-google-gemini-25-flash-382e)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-g3k)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-5m1)
-- [Introducing `coderkit` — A Practical Utility Toolkit for Everyday JavaScript Work](https://dev.to/shivam_waghmare_b65078f18/introducing-coderkit-a-practical-utility-toolkit-for-everyday-javascript-work-1bl0)
+- [GitHub Copilot Model Context Sizes &lpar;Nov 2025&rpar;](https://dev.to/dr_furqanullah_8819ecd9/github-copilot-model-context-sizes-nov-2025-3nif)
+- [How I Build Books, Brands &amp; Products With ChatGPT](https://dev.to/jaideepparashar/how-i-build-books-brands-products-with-chatgpt-3em5)
+- [🚀 ¡Despídete del Caos de Configs! Mi Viaje con Azure App Configuration: Escalabilidad, Seguridad y 0 Downtimes en Microservicios](https://dev.to/francotel/despidete-del-caos-de-configs-mi-viaje-con-azure-app-configuration-escalabilidad-seguridad-y-52g7)
+- [Build Live Caption Broadcasting for Events with Next.js and Elevenlabs API](https://dev.to/jqueryscript/build-live-caption-broadcasting-for-events-with-nextjs-and-elevenlabs-api-1mbb)
+- [Taming Complexity: Unleashing Evolutionary Algorithms for System Modeling](https://dev.to/arvind_sundararajan/taming-complexity-unleashing-evolutionary-algorithms-for-system-modeling-52lb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
