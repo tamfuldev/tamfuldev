@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Step-by-Step Lab: How to Create a Resource Group in Azure Portal](https://dev.to/ojosamuel129/step-by-step-lab-how-to-create-a-resource-group-in-azure-portal-2gg0)
-- [Recreating LinkedIn’s Crossclimb Game with Angular - Part 2](https://dev.to/this-is-angular/recreating-linkedins-crossclimb-game-with-angular-part-2-4a1n)
-- [10 Years in: Why I Still Google Everything &lpar;And Why I’m Finally Okay With It&rpar;](https://dev.to/keeganu/10-years-in-why-i-still-google-everything-and-why-im-finally-okay-with-it-3ca7)
-- [Building a Production RAG System for Resume Search: What Actually Worked &lpar;and What Didn&#39;t&rpar;](https://dev.to/harrywynn/building-a-production-rag-system-for-resume-search-what-actually-worked-and-what-didnt-3jaa)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-47mc)
+- [The most powerful web barcode scanner has just launched on the Edge Add-ons Store. Check it out and start scanning instantly! https://microsoftedge.microsoft.com/addons/detail/barcode-qr-code-scanner/lddfadanimbaiceehkfdngafclpodldj](https://dev.to/yushulx/the-most-powerful-web-barcode-scanner-has-just-launched-on-the-edge-add-ons-store-check-it-out-and-1pbo)
+- [Nano-Banana AI: Next-Level Image Creation with Google Gemini 2.5 Flash](https://dev.to/_9ab6f7649cd899d9b6018/nano-banana-ai-next-level-image-creation-with-google-gemini-25-flash-382e)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-g3k)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-5m1)
+- [Introducing `coderkit` — A Practical Utility Toolkit for Everyday JavaScript Work](https://dev.to/shivam_waghmare_b65078f18/introducing-coderkit-a-practical-utility-toolkit-for-everyday-javascript-work-1bl0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
