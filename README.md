@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Basic FastAPI Application with CRUD Operations](https://dev.to/sakshi_agarwal_4c639a581c/creating-a-basic-fastapi-application-with-crud-operations-278o)
-- [[Boost]](https://dev.to/mohitrajput987/-3afh)
-- [NPR Music: Pulp: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-pulp-tiny-desk-concert-117l)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-b5a)
-- [Top Security Threats in Blockchain](https://dev.to/coinblocklab/top-security-threats-in-blockchain-409f)
+- [🚀 Building My First Full-Stack Todo App with React + Supabase ⚛️](https://dev.to/sripadh_sujith_1487e8db18/building-my-first-full-stack-todo-app-with-react-supabase-1pg8)
+- [Think. Update. Automate — PostgreSQL with Rust &lpar;Part 2&rpar;](https://dev.to/manjushaps/think-update-automate-postgresql-with-rust-part-2-4ml8)
+- [How To Build a Frontend with Lovable.dev for Your Strapi Backend](https://dev.to/strapi/how-to-build-a-frontend-with-lovabledev-for-your-strapi-backend-3f22)
+- [Closures Explained in minutes &lpar;🎒 Backpack Analogy&rpar;](https://dev.to/yahav10/closures-explained-in-minutes-backpack-analogy-54k3)
+- [How QBurst Migrated a Luxury Brand from Strapi v4 to Strapi 5](https://dev.to/strapi/how-qburst-migrated-a-luxury-brand-from-strapi-v4-to-strapi-5-1j4m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
