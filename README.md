@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to make Angular Material inputs look like simple fields](https://dev.to/dhutaryan/how-to-make-angular-material-inputs-look-like-simple-fields-3oe5)
-- [Day 10 Django Learning.](https://dev.to/stackbento/day-10-django-learning-430g)
-- [An ADHD-Friendly Task &amp; Focus Timer Built in PHP.](https://dev.to/wildshark/an-adhd-friendly-task-focus-timer-built-in-php-563h)
-- [Terraform](https://dev.to/jumptotech/terraform-4c0k)
-- [Secure and Efficient Remote File System Mounting with SSHFS: A Practical Guide](https://dev.to/autoescuelaexpres/secure-and-efficient-remote-file-system-mounting-with-sshfs-a-practical-guide-2bin)
+- [Automate NGINX Deployment on AWS EC2 Server using Bash Script](https://dev.to/taiwoakinbolaji/automate-nginx-deployment-on-aws-ec2-server-using-bash-script-5a92)
+- [Building an Enhanced PPO Trading Bot with Real-Time Data Sync and IBKR Integration](https://dev.to/jai_thumar/building-an-enhanced-ppo-trading-bot-with-real-time-data-sync-and-ibkr-integration-e0j)
+- [OmniNWM: Omniscient Driving Navigation World Models](https://dev.to/paperium/omninwm-omniscient-driving-navigation-world-models-ppi)
+- [👠 20년 만의 귀환, &lt;악마는 프라다를 입는다 2&gt;가 온다! 미란다와 앤드리아의 눈부신 재회 ✨](https://dev.to/docenty/20nyeon-manyi-gwihwan-ga-onda-mirandawa-aendeuriayi-nunbusin-jaehoe-2dlo)
+- [The Hidden Truth About the Wise Men: What the Bible Really Says About the Magi and Why It Changes Everything](https://dev.to/douglasvandergraph/the-hidden-truth-about-the-wise-men-what-the-bible-really-says-about-the-magi-and-why-it-changes-4gcd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
