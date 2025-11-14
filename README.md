@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Which DevOps certs are necessary for a Frontend Lead?](https://dev.to/kelvynthai/which-devops-certs-are-necessary-for-a-frontend-lead-5pn)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2fa1)
-- [Custom Validators in Angular Signal Forms &lpar;You Probably Need This&rpar;](https://dev.to/brianmtreese/custom-validators-in-angular-signal-forms-you-probably-need-this-2lim)
-- [Django 5.2 &lpar;LTS&rpar; Upgrade Guide - Breaking Changes, New Features, and Why You Should Upgrade](https://dev.to/devasservice/django-52-lts-upgrade-guide-breaking-changes-new-features-and-why-you-should-upgrade-1b1b)
-- [🚀 FNPM Just Became Invisible &lpar;In the Good Way&rpar;: Transparent Alias, Better Tests &amp; a Smoother Experience](https://dev.to/jairofernandez/fnpm-just-became-invisible-in-the-good-way-transparent-alias-better-tests-a-smoother-2af)
+- [Trupe: Implementing Actor Model in .NET](https://dev.to/actor-dev/trupe-implementing-actor-model-in-net-5hch)
+- [Django Tutorial: The Ultimate Guide &lpar;2023&rpar;](https://dev.to/masteringbackend/django-tutorial-the-ultimate-guide-2023-3ijd)
+- [Trupe: Implementando o Modelo de Atores no .NET](https://dev.to/actor-dev/trupe-implementando-o-modelo-de-atores-no-net-2gmk)
+- [The True Cost of a Data Breach](https://dev.to/guardingpearsoftware/the-true-cost-of-a-data-breach-5bkc)
+- [MVP Delivery Timelines in the Real World: A DevOps Engineer’s Breakdown of What’s Actually Achievable](https://dev.to/artyom_mukhopad_a9444ed6d/mvp-delivery-timelines-in-the-real-world-a-devops-engineers-breakdown-of-whats-actually-5b2h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
