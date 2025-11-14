@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Cleaning Up Triangle Shader Lab and Finally Making It Make Sense](https://dev.to/bradleymatera/cleaning-up-triangle-shader-lab-and-finally-making-it-make-sense-1p8n)
-- [The Day a Service Worker Held My Entire Site Hostage](https://dev.to/bradleymatera/the-day-a-service-worker-held-my-entire-site-hostage-21d3)
-- [Master Touch Typing: The Complete Guide for Developers and Tech Learners](https://dev.to/farhad_rahimi_klie/master-touch-typing-the-complete-guide-for-developers-and-tech-learners-44jj)
-- [Just like we debug code, we can debug prompts and consistently turn dull outputs into deep, well-reasoned, usable results. But hardly anyone knew how to do it.](https://dev.to/jaideepparashar/just-like-we-debug-code-we-can-debug-prompts-and-consistently-turn-dull-outputs-into-deep-3ibc)
-- [TanStack Starter: Complete Full-Stack Template with Authentication and Database Integration](https://dev.to/jqueryscript/tanstack-starter-complete-full-stack-template-with-authentication-and-database-integration-2g51)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-elg)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-44d5)
+- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-ne0)
+- [NeuroAda: Activating Each Neuron&#39;s Potential for Parameter-Efficient Fine-Tuning](https://dev.to/paperium/neuroada-activating-each-neurons-potential-for-parameter-efficient-fine-tuning-2b7h)
+- [Trường California State University &lpar;CSU Long Beach&rpar;: Học bổng, chương trình đào tạo và cơ hội nghề nghiệp](https://dev.to/du_hocta_184607b2075f7df/truong-california-state-university-csu-long-beach-hoc-bong-chuong-trinh-dao-tao-va-co-hoi-nghe-242f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
