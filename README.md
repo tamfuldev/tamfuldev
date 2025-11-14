@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-30d1)
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-1578)
-- [extn — A Modern CLI Framework for Building Chrome Extensions &lpar;with HMR + Live Preview&rpar;](https://dev.to/kcrazy/extn-a-modern-cli-framework-for-building-chrome-extensions-with-hmr-live-preview-2hmk)
-- [How API-First Development is Changing Full-Stack Web Development](https://dev.to/sain_bux_dev/how-api-first-development-is-changing-full-stack-web-development-84b)
-- [Custom Select Villa Selection Animated](https://dev.to/partzkoh18rgb/custom-select-villa-selection-animated-3gna)
+- [Building Logic Apps Locally with VS Code: HTTP, Blob, Queue &amp; More](https://dev.to/imdj/building-logic-apps-locally-with-vs-code-http-blob-queue-more-1agj)
+- [**Breaking the Data Silos in Federated Learning: The Rise of](https://dev.to/drcarlosruizviquez/breaking-the-data-silos-in-federated-learning-the-rise-of-2mi9)
+- [Sending Emails with Rust, Axum, and Resend: A Complete Guide](https://dev.to/mayu2008/sending-emails-with-rust-axum-and-resend-a-complete-guide-13pa)
+- [What happens when you type console.log&lpar;&rpar;?](https://dev.to/giftintech/what-happens-when-you-type-consolelog-3k4p)
+- [Recent research in AI efficiency has led to a groundbreaking](https://dev.to/drcarlosruizviquez/recent-research-in-ai-efficiency-has-led-to-a-groundbreaking-2c9l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
