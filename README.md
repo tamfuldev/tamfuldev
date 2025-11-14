@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-2cc2)
-- [Ringer Movies: What Happened With the Fall Movie Slate?](https://dev.to/popcorn_movies/ringer-movies-what-happened-with-the-fall-movie-slate-34ee)
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-pa8)
-- [Things I Wish I Knew as a Fresher Developer on My First Project](https://dev.to/manishsahu001/things-i-wish-i-knew-as-a-fresher-developer-on-my-first-project-4bjl)
-- [functools.partial](https://dev.to/saveshodhan/functoolspartial-3d49)
+- [Sonic-PI](https://dev.to/grzegorzgrzegorz/sonic-pi-2e0n)
+- [Integrando IA en aplicaciones .NET: del modelo al despliegue](https://dev.to/vicodev/integrando-ia-en-aplicaciones-net-del-modelo-al-despliegue-4ki9)
+- [Understanding XSS: A Beginner’s Guide for Developers and Pentesters](https://dev.to/alighasemi889/understanding-xss-a-beginners-guide-for-developers-and-pentesters-2knj)
+- [⚙️ Automate Tasks Easily with npm Pre and Post Scripts](https://dev.to/natarajan_c_k/automate-tasks-easily-with-npm-pre-and-post-scripts-25kj)
+- [OCaml in 5 Minutes: From Zero to &#39;Hello&#39;](https://dev.to/david2am/ocaml-in-5-minutes-from-zero-to-hello-42mm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
