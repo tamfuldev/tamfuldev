@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up Better-Auth in Next.js with Kysely + Prisma Schema](https://dev.to/golamrabbani/setting-up-better-auth-in-nextjs-with-kysely-prisma-schema-2c0p)
-- [SaijinOS Part 10 — Pandora System: Transforming Fractured Personas Into Hope](https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-10-pandora-system-transforming-fractured-personas-into-hope-4l83)
-- [building Banana AI](https://dev.to/232_123_ea31db9ef368c7c61/building-banana-ai-3ei0)
-- [PHP: Do you need async?](https://dev.to/spo0q/php-do-you-need-async-248f)
-- [Azura: local-first personal assistant &lpar;feedback wanted&rpar;](https://dev.to/criscmd/azura-local-first-personal-assistant-feedback-wanted-56dp)
+- [Application Modernization &amp; Cloud Architecture: A Strategic Approach](https://dev.to/muhammed_muddassirfarooq/application-modernization-cloud-architecture-a-strategic-approach-4mm8)
+- [Kimi K2 Thinking vs. Claude 4.5 Sonnet vs. GPT-5 Codex: Tested the best models for agentic coding](https://dev.to/composiodev/kimi-k2-thinking-vs-claude-45-sonnet-vs-gpt-5-codex-tested-the-best-models-for-agentic-coding-21e5)
+- [I just launched ReactChallenges.com](https://dev.to/duffmancc/i-just-launched-reactchallengescom-e27)
+- [Domain controller decommission SOP](https://dev.to/thiyagarajan_thangavel/domain-controller-decommission-sop-31l9)
+- [Mastering Docker Logs: A Comprehensive Tutorial](https://dev.to/dash0/mastering-docker-logs-a-comprehensive-tutorial-55l0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
