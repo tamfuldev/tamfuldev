@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Sonic-PI](https://dev.to/grzegorzgrzegorz/sonic-pi-2e0n)
-- [Integrando IA en aplicaciones .NET: del modelo al despliegue](https://dev.to/vicodev/integrando-ia-en-aplicaciones-net-del-modelo-al-despliegue-4ki9)
-- [Understanding XSS: A Beginner’s Guide for Developers and Pentesters](https://dev.to/alighasemi889/understanding-xss-a-beginners-guide-for-developers-and-pentesters-2knj)
-- [⚙️ Automate Tasks Easily with npm Pre and Post Scripts](https://dev.to/natarajan_c_k/automate-tasks-easily-with-npm-pre-and-post-scripts-25kj)
-- [OCaml in 5 Minutes: From Zero to &#39;Hello&#39;](https://dev.to/david2am/ocaml-in-5-minutes-from-zero-to-hello-42mm)
+- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-2b93)
+- [Build Your Own AI-Powered Resume Builder Using Next.js, React 19 &amp; Gemini AI &lpar;Full Source Code&rpar;](https://dev.to/pattanaik_ramswarup_a5890/build-your-own-ai-powered-resume-builder-using-nextjs-react-19-gemini-ai-full-source-code-3ln9)
+- [SAVANT: Semantic Analysis with Vision-Augmented Anomaly deTection](https://dev.to/paperium/savant-semantic-analysis-with-vision-augmented-anomaly-detection-122h)
+- [How was my experience at Lambda Days 2025](https://dev.to/marciofrayze/how-was-my-experience-at-lambda-days-2025-2kc2)
+- [Getting Started with the DEV Community: Your Coding Hub](https://dev.to/wasi_seo_09826f34bc708b14/getting-started-with-the-dev-community-your-coding-hub-35on)
 <!-- BLOG-POST-LIST:END -->
 
 ---
