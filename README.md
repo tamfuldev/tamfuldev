@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-2b93)
-- [Build Your Own AI-Powered Resume Builder Using Next.js, React 19 &amp; Gemini AI &lpar;Full Source Code&rpar;](https://dev.to/pattanaik_ramswarup_a5890/build-your-own-ai-powered-resume-builder-using-nextjs-react-19-gemini-ai-full-source-code-3ln9)
-- [SAVANT: Semantic Analysis with Vision-Augmented Anomaly deTection](https://dev.to/paperium/savant-semantic-analysis-with-vision-augmented-anomaly-detection-122h)
-- [How was my experience at Lambda Days 2025](https://dev.to/marciofrayze/how-was-my-experience-at-lambda-days-2025-2kc2)
-- [Getting Started with the DEV Community: Your Coding Hub](https://dev.to/wasi_seo_09826f34bc708b14/getting-started-with-the-dev-community-your-coding-hub-35on)
+- [GPT 5.1 API Deep Dive](https://dev.to/alifar/gpt-51-api-deep-dive-151b)
+- [n8n Is Secretly Becoming the #1 Automation Tool](https://dev.to/devmastermind/n8n-is-secretly-becoming-the-1-automation-tool-jbb)
+- [How developers can cope with pressure while remaining calm and professional](https://dev.to/artemooon/how-developers-can-cope-with-pressure-while-remaining-calm-and-professional-52n8)
+- [TEXT vs BLOB in SQLite: Best Practices for Base64 Storage](https://dev.to/rijultp/text-vs-blob-in-sqlite-best-practices-for-base64-storage-2ef4)
+- [My Experience Creating CI Workflows and Contributing Tests to an Existing Project](https://dev.to/dharam_ghevariya_0d946c37/my-experience-creating-ci-workflows-and-contributing-tests-to-an-existing-project-3hpc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
