@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-elg)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-44d5)
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-ne0)
-- [NeuroAda: Activating Each Neuron&#39;s Potential for Parameter-Efficient Fine-Tuning](https://dev.to/paperium/neuroada-activating-each-neurons-potential-for-parameter-efficient-fine-tuning-2b7h)
-- [Trường California State University &lpar;CSU Long Beach&rpar;: Học bổng, chương trình đào tạo và cơ hội nghề nghiệp](https://dev.to/du_hocta_184607b2075f7df/truong-california-state-university-csu-long-beach-hoc-bong-chuong-trinh-dao-tao-va-co-hoi-nghe-242f)
+- [Gemini Canvas vs GPT-5: Which Creates the Best Presentation?](https://dev.to/ndabene/gemini-canvas-vs-gpt-5-which-creates-the-best-presentation-53cd)
+- [AI Content Marketing: 2025 Strategy Guide](https://dev.to/synergistdigitalmedia/ai-content-marketing-2025-strategy-guide-3dbg)
+- [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-255p)
+- [Java&#39;s Funny Little Heresies](https://dev.to/vulinh64/javas-funny-little-heresies-2cng)
+- [Smarter Testing with AI: How Test Case Creation and Data Management Are Evolving](https://dev.to/aio_tests_903984883a574e9/smarter-testing-with-ai-how-test-case-creation-and-data-management-are-evolving-p1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
