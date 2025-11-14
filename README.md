@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Automate NGINX Deployment on AWS EC2 Server using Bash Script](https://dev.to/taiwoakinbolaji/automate-nginx-deployment-on-aws-ec2-server-using-bash-script-5a92)
-- [Building an Enhanced PPO Trading Bot with Real-Time Data Sync and IBKR Integration](https://dev.to/jai_thumar/building-an-enhanced-ppo-trading-bot-with-real-time-data-sync-and-ibkr-integration-e0j)
-- [OmniNWM: Omniscient Driving Navigation World Models](https://dev.to/paperium/omninwm-omniscient-driving-navigation-world-models-ppi)
-- [👠 20년 만의 귀환, &lt;악마는 프라다를 입는다 2&gt;가 온다! 미란다와 앤드리아의 눈부신 재회 ✨](https://dev.to/docenty/20nyeon-manyi-gwihwan-ga-onda-mirandawa-aendeuriayi-nunbusin-jaehoe-2dlo)
-- [The Hidden Truth About the Wise Men: What the Bible Really Says About the Magi and Why It Changes Everything](https://dev.to/douglasvandergraph/the-hidden-truth-about-the-wise-men-what-the-bible-really-says-about-the-magi-and-why-it-changes-4gcd)
+- [In-Depth Comparison of LoRaWAN Network Servers: ThinkLink, TTS, ChirpStack, Loriot, and Actility](https://dev.to/manthink/in-depth-comparison-of-lorawan-network-servers-thinklink-tts-chirpstack-loriot-and-actility-45l8)
+- [Create a Text Editor in Go - Status Bar](https://dev.to/alcb1310/create-a-text-editor-in-go-status-bar-2047)
+- [Two Hours to Find a Swapped String](https://dev.to/yrizos/two-hours-to-find-a-swapped-string-4jba)
+- [MySQL COUNT Scalar Subquery Optimization: The Complete Guide](https://dev.to/sqlflash1024/mysql-count-scalar-subquery-optimization-the-complete-guide-45e8)
+- [AI vs Generative AI vs Agentic AI: What’s the Difference in Simple Words?](https://dev.to/saaslyai/ai-vs-generative-ai-vs-agentic-ai-whats-the-difference-in-simple-words-1jhl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
