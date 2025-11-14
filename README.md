@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a Flask App Across Multiple AWS Regions](https://dev.to/techwithhari/deploying-a-flask-app-across-multiple-aws-regions-305b)
-- [Bringing the Popular codeSTACKr Theme to IntelliJ IDEA](https://dev.to/imranjankm/bringing-the-popular-codestackr-theme-to-intellij-idea-4c7j)
-- [How we unified our Terraform module repositories](https://dev.to/tom-masson/nx-monorepo-how-we-unified-our-terraform-module-repositories-2h47)
-- [How to Clean Up a Messy AWS Account: A Step-by-Step Cloud Hygiene Guide](https://dev.to/addwebsolutionpvtltd/how-to-clean-up-a-messy-aws-account-a-step-by-step-cloud-hygiene-guide-20cd)
-- [The Collapse of the Web: The Sameness &amp; Death of Difference in Tech](https://dev.to/rockyessel/the-collapse-of-the-web-the-sameness-death-of-difference-in-tech-2gkg)
+- [Setting Up Better-Auth in Next.js with Kysely + Prisma Schema](https://dev.to/golamrabbani/setting-up-better-auth-in-nextjs-with-kysely-prisma-schema-2c0p)
+- [SaijinOS Part 10 — Pandora System: Transforming Fractured Personas Into Hope](https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-10-pandora-system-transforming-fractured-personas-into-hope-4l83)
+- [building Banana AI](https://dev.to/232_123_ea31db9ef368c7c61/building-banana-ai-3ei0)
+- [PHP: Do you need async?](https://dev.to/spo0q/php-do-you-need-async-248f)
+- [Azura: local-first personal assistant &lpar;feedback wanted&rpar;](https://dev.to/criscmd/azura-local-first-personal-assistant-feedback-wanted-56dp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
