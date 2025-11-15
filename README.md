@@ -4,13 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Linux App Structure Explained: Working with /opt, Desktop Entries, and sudo tee](https://dev.to/rijultp/the-linux-app-structure-explained-working-with-opt-desktop-entries-and-sudo-tee-1fl7)
-- [Building a chatbot in Rust powered by Gemini Flash Models.
-
-It&#39;s pretty cool.](https://dev.to/btejas/building-a-chatbot-in-rust-powered-by-gemini-flash-modelsits-pretty-cool-eh6)
-- [SRT Pendulum System Recently Failed? Solutions for Programmer Energy Workers](https://dev.to/kassius_jupiter_725bb6799/srt-pendulum-system-recently-failed-solutions-for-programmer-energy-workers-bmi)
-- [AI-Powered End-to-End Testing: A New Paradigm for Software Quality Assurance](https://dev.to/pietrocontadini/ai-powered-end-to-end-testing-a-new-paradigm-for-software-quality-assurance-1f5n)
-- [Building a crypto tool as a solo developer](https://dev.to/rai_moh_c69ab6ccdf3efc528/building-a-crypto-tool-as-a-solo-developer-34eb)
+- [Open-Sourcing arkA — A Universal Video Protocol Inspired by RSS](https://dev.to/arka_project_4a91672d6a48/open-sourcing-arka-a-universal-video-protocol-inspired-by-rss-4hip)
+- [Understanding err, stdout, and stderr in Node.js](https://dev.to/tenelabs/understanding-err-stdout-and-stderr-in-nodejs-19em)
+- [Multi-Species Mayhem: Upgrading My Martian Iono-Model from CO Solo to Chemical Choir](https://dev.to/masoomjethwa/multi-species-mayhem-upgrading-my-martian-iono-model-from-co2-solo-to-chemical-choir-31ca)
+- [VS Code vs Visual Studio](https://dev.to/agunwachidiebelecalistus/vs-code-vs-visual-studio-nib)
+- [Why Utility Classes in CSS Make Modern Front-End Development Faster, Cleaner, and More Scalable](https://dev.to/rverwey/why-utility-classes-in-css-make-modern-front-end-development-faster-cleaner-and-more-scalable-1ddf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
