@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Open-Sourcing arkA — A Universal Video Protocol Inspired by RSS](https://dev.to/arka_project_4a91672d6a48/open-sourcing-arka-a-universal-video-protocol-inspired-by-rss-4hip)
-- [Understanding err, stdout, and stderr in Node.js](https://dev.to/tenelabs/understanding-err-stdout-and-stderr-in-nodejs-19em)
-- [Multi-Species Mayhem: Upgrading My Martian Iono-Model from CO Solo to Chemical Choir](https://dev.to/masoomjethwa/multi-species-mayhem-upgrading-my-martian-iono-model-from-co2-solo-to-chemical-choir-31ca)
-- [VS Code vs Visual Studio](https://dev.to/agunwachidiebelecalistus/vs-code-vs-visual-studio-nib)
-- [Why Utility Classes in CSS Make Modern Front-End Development Faster, Cleaner, and More Scalable](https://dev.to/rverwey/why-utility-classes-in-css-make-modern-front-end-development-faster-cleaner-and-more-scalable-1ddf)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-52mm)
+- [Ringer Movies: What Happened With the Fall Movie Slate?](https://dev.to/popcorn_movies/ringer-movies-what-happened-with-the-fall-movie-slate-3ld4)
+- [How to Run Efficient ClamAV Scans on a 4GB RAM Server &lpar;Without Killing Your Machine&rpar;](https://dev.to/lovestaco/how-to-run-efficient-clamav-scans-on-a-4gb-ram-server-without-killing-your-machine-14)
+- [useRef&lpar;&rpar; and how it prevents flicker in a Map component](https://dev.to/cathylai/useref-and-how-it-prevents-flicker-in-a-map-component-ckj)
+- [Resume screener app](https://dev.to/abhi278/resume-screener-app-1hig)
 <!-- BLOG-POST-LIST:END -->
 
 ---
