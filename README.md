@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [While Zapier/n8n Are Busy &#39;Wrapping APIs&#39;, Flowork Focuses on &#39;Training AI Models&#39; &lpar;A Deep Dive into AITrainingService&rpar;](https://dev.to/tarno_pon_968706448b52563/while-zapiern8n-are-busy-wrapping-apis-flowork-focuses-on-training-ai-models-a-deep-dive-55hj)
-- [Stop Trusting, Start Verifying: How Flowork&#39;s E2EE Backups Define &quot;Zero-Trust&quot; Automation](https://dev.to/tarno_pon_968706448b52563/stop-trusting-start-verifying-how-floworks-e2ee-backups-define-zero-trust-automation-42p2)
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-58ha)
-- [Not Just API Calls: How Flowork Runs Local AI &lpar;Stable Diffusion &amp; Training&rpar; On Your Server](https://dev.to/tarno_pon_968706448b52563/not-just-api-calls-how-flowork-runs-local-ai-stable-diffusion-training-on-your-server-2gce)
-- [Federated avatars in authentik](https://dev.to/timo_reusch/federated-avatars-in-authentik-4le2)
+- [🎥 SQL Server Partitioning video just dropped!](https://dev.to/dotnetfullstackdev/sql-server-partitioning-video-just-dropped-2g7a)
+- [Building Confidence: CI, Local Tests](https://dev.to/tajudeen_abdulgafar_e0363/building-confidence-ci-local-tests-1fn4)
+- [Setting Up Continuous Integration Workflow and Running Tests in Another Repository.](https://dev.to/cynthia_f/setting-up-continuous-integration-workflow-and-running-tests-in-another-repository-4d74)
+- [Quantum-Inspired Data Sculpting: Revolutionizing Offline Reinforcement Learning](https://dev.to/arvind_sundararajan/quantum-inspired-data-sculpting-revolutionizing-offline-reinforcement-learning-20bo)
+- [Understanding React Native Navigation Lifecycle](https://dev.to/cathylai/understanding-react-native-navigation-lifecycle-4g86)
 <!-- BLOG-POST-LIST:END -->
 
 ---
