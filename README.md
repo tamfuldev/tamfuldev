@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-1dii)
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-1gh1)
-- [🏁 ASPICE Literacy — Episode 10: Suppliers and ASPICE: Trust, Verify, and Collaborate 🧩](https://dev.to/abdulosman/aspice-literacy-episode-10-suppliers-and-aspice-trust-verify-and-collaborate-1o92)
-- [Deploy Rails apps for $5/month](https://dev.to/samuelbruk/deploy-rails-apps-for-5month-13in)
-- [🧠 Does Mental Health Get Worse with Age?](https://dev.to/nvelup_e92618d5196e8d9f43/does-mental-health-get-worse-with-age-13lf)
+- [The Supply Chain Ecosystem: A Guide to Building a Modern, Data-Driven Logistics Network](https://dev.to/disiplin_forml_e60c4755/the-supply-chain-ecosystem-a-guide-to-building-a-modern-data-driven-logistics-network-41if)
+- [Logic Apps Local Dev Tools: Visual Walkthrough](https://dev.to/imdj/logic-apps-local-dev-tools-visual-walkthrough-5gph)
+- [Is Your Frontend Blindfolded? Monitoring &amp; Observability for Beginners](https://dev.to/karthik_n/is-your-frontend-blindfolded-monitoring-observability-for-beginners-4e54)
+- [Mcp servers: Complete Setup for AI Agents &lpar;Step-by-Step&rpar;](https://dev.to/robort-gabriel/mcp-servers-complete-setup-for-ai-agents-step-by-step-coh)
+- [✅ Task 2 — Create a Reusable VPC Module with Environments using Terraform &lpar;dev/stage/prod&rpar;](https://dev.to/latchudevops/task-2-create-a-reusable-vpc-module-with-environments-using-terraform-devstageprod-3aa0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
