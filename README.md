@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [-AZURE BLOB STORAGE-](https://dev.to/freddie_barron_0a192c3278/-azure-blob-storage--52kd)
-- [🚀 ThinkReview Is Now Open Source — and Now Supports Ollama for Local AI Code Review](https://dev.to/jay_elsheikh_59b14ad67922/thinkreview-is-now-open-source-and-now-supports-ollama-for-local-ai-code-review-44fi)
-- [MindsEye x Google AI Stack, Part 2 — 200 Users, Ledgers as “Soft Blockchain”, and the OS Vision](https://dev.to/peacebinflow/mindseye-x-google-ai-stack-part-2-200-users-ledgers-as-soft-blockchain-and-the-os-vision-3lo9)
-- [Turning Whispers into Code: My Experience Building The Whisperbound Tome with Kiro](https://dev.to/miiussette/turning-whispers-into-code-my-experience-building-the-whisperbound-tome-with-kiro-8fo)
-- [7 Prompts to Make Google&#39;s AI Your Marketing Superpower](https://dev.to/insightful_pipe/7-prompts-to-make-googles-ai-your-marketing-superpower-3636)
+- [While Zapier/n8n Are Busy &#39;Wrapping APIs&#39;, Flowork Focuses on &#39;Training AI Models&#39; &lpar;A Deep Dive into AITrainingService&rpar;](https://dev.to/tarno_pon_968706448b52563/while-zapiern8n-are-busy-wrapping-apis-flowork-focuses-on-training-ai-models-a-deep-dive-55hj)
+- [Stop Trusting, Start Verifying: How Flowork&#39;s E2EE Backups Define &quot;Zero-Trust&quot; Automation](https://dev.to/tarno_pon_968706448b52563/stop-trusting-start-verifying-how-floworks-e2ee-backups-define-zero-trust-automation-42p2)
+- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-58ha)
+- [Not Just API Calls: How Flowork Runs Local AI &lpar;Stable Diffusion &amp; Training&rpar; On Your Server](https://dev.to/tarno_pon_968706448b52563/not-just-api-calls-how-flowork-runs-local-ai-stable-diffusion-training-on-your-server-2gce)
+- [Federated avatars in authentik](https://dev.to/timo_reusch/federated-avatars-in-authentik-4le2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
