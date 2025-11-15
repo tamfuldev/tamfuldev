@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-487l)
-- [Ringer Movies: What Happened With the Fall Movie Slate?](https://dev.to/popcorn_movies/ringer-movies-what-happened-with-the-fall-movie-slate-3f32)
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-47ee)
-- [AI-in-Shell: Secure Linux Management via Telegram and Gemini AI &lpar;Technical Deep Dive&rpar;](https://dev.to/lag_lagendary/ai-in-shell-secure-linux-management-via-telegram-and-gemini-ai-technical-deep-dive-2k8i)
-- [Declutta Backend — Case Study](https://dev.to/sparklesix/declutta-backend-case-study-4fjn)
+- [An Introduction to LangChain](https://dev.to/solegaonkar/an-introduction-to-langchain-9m6)
+- [checkout this article on Feature Selection Techniques with R: Origins, Methods, and Real-Life Applications](https://dev.to/vamshi_e_eebe5a6287a27142/checkout-this-article-on-feature-selection-techniques-with-r-origins-methods-and-real-life-43n)
+- [Feature Selection Techniques with R: Origins, Methods, and Real-Life Applications](https://dev.to/vamshi_e_eebe5a6287a27142/feature-selection-techniques-with-r-origins-methods-and-real-life-applications-4nif)
+- [Credential Optics Institutional Access: Competence is Authored, Not Conferred](https://dev.to/narnaiezzsshaa/credential-optics-institutional-access-competence-is-authored-not-conferred-bdg)
+- [Webinar Analytics Guide: Measure Success &amp; Boost Performance](https://dev.to/sujana_sanmo_9d182dd64e71/webinar-analytics-guide-measure-success-boost-performance-20h8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
