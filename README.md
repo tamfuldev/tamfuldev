@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up CI and Writing Tests for Another Project](https://dev.to/oleksandrakordonets/setting-up-ci-and-writing-tests-for-another-project-3a6)
-- [Contrary to JAVA, embedded in Python is the idea of Methods and Functions](https://dev.to/onaolapo11/contrary-to-java-embedded-in-python-is-the-idea-of-methods-and-functions-13df)
-- [Coding Challenge Practice - Question 56](https://dev.to/tomivan/coding-challenge-practice-question-56-343k)
-- [Cloud Automation: Stop Clicking Buttons and Start Shipping Faster](https://dev.to/vaibhav_bedi_82eeb9670233/cloud-automation-stop-clicking-buttons-and-start-shipping-faster-2ble)
-- [Kiro Did It: Streamlining Comments, Structure, and Logging Using Steering Docs!](https://dev.to/bhatiagirish/kiro-did-it-streamlining-comments-structure-and-logging-using-steering-docs-3hcm)
+- [React Render Optimization Mastery — From Memoization Quiz Answers to Production Patterns](https://dev.to/cristiansifuentes/react-render-optimization-mastery-from-memoization-quiz-answers-to-production-patterns-4mgd)
+- [Implementing Strictly Typed JsonRpc Method Calls in Kotlin](https://dev.to/nerzhul500/implementing-strictly-typed-jsonrpc-method-calls-in-kotlin-56pn)
+- [ai](https://dev.to/kato_masato_c5593c81af5c6/ai-58o2)
+- [Project 3](https://dev.to/misssassypants/project-3-15b8)
+- [7 Days of Learning: Surviving the Solidity Speedrun with HackQuest](https://dev.to/azharpratama/7-days-of-learning-surviving-the-solidity-speedrun-with-hackquest-2fdd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
