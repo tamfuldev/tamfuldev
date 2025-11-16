@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Weekly Challenge: The one about formatting](https://dev.to/simongreennet/weekly-challenge-the-one-about-formatting-kfp)
-- [Scale Django on Seenode: Production Architecture That Actually Works](https://dev.to/app_dev_b139d1a58b00b6516/scale-django-on-seenode-production-architecture-that-actually-works-2bkk)
-- [ROFL Proxy for HTTPS Hosting](https://dev.to/rollingindo/rofl-proxy-for-https-hosting-4796)
-- [ai coding](https://dev.to/aka17/ai-coding-171f)
-- [x402: Internet-Native Payments for the Modern Web](https://dev.to/rollingindo/x402-internet-native-payments-for-the-modern-web-mia)
+- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-326o)
+- [Meet Pulsimo - Monitor Your Systems with Precision &amp; Power](https://dev.to/abirk/meet-pulsimo-monitor-your-systems-with-precision-power-32ji)
+- [Why Modern Electronic Devices Are Rapidly Switching to Capacitive Touch Screens](https://dev.to/tonyhe8688/why-modern-electronic-devices-are-rapidly-switching-to-capacitive-touch-screens-1p9i)
+- [Practical Guide to Dynamic IP Blocking in Nginx](https://dev.to/tiger_smith_9f421b9131db5/practical-guide-to-dynamic-ip-blocking-in-nginx-3k0j)
+- [Increase my familiarity with BASE64.](https://dev.to/akari_iku/increase-my-familiarity-with-base64-1e6b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
