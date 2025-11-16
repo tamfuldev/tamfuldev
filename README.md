@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Python for DevOps: A Practical, No-Nonsense Learning Plan](https://dev.to/ajaylegion/python-for-devops-a-practical-no-nonsense-learning-plan-4l4o)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-2fkm)
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-1nli)
-- [OpenBSD 7.7 を 7.8 へ アップグレード](https://dev.to/nabbisen/openbsd-77-wo-78-he-atupuguredo-4g15)
-- [Image Dithering made fast and free](https://dev.to/kosa12/image-dithering-made-fast-and-free-9lo)
+- [Building an AI Workout Coach with Next.js, OpenAI, and Supabase](https://dev.to/dpelleri/building-an-ai-workout-coach-with-nextjs-openai-and-supabase-olp)
+- [Share Claude-created Documents Across Worktrees with dot-claude-sync](https://dev.to/ugo/share-claude-created-documents-across-worktrees-with-dot-claude-sync-cpc)
+- [🚨 Resuming Stuck Joget Workflow Tools with API](https://dev.to/exploringmylifeworks/resuming-stuck-joget-workflow-tools-with-api-kg1)
+- [Memahami KNN Algorithm dan Sistem Rekomendasi dengan Visualisasi Simpel](https://dev.to/ezzeddinp/memahami-knn-algorithm-dan-sistem-rekomendasi-dengan-visualisasi-simpel-22h0)
+- [emojis-cleaner — A npm package to remove Emojis from Any File or Codebase &lpar;CLI + JS API&rpar;](https://dev.to/pulkitgovrani/emojis-cleaner-a-npm-package-to-remove-emojis-from-any-file-or-codebase-cli-js-api-41c0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
