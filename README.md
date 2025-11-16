@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [React Render Optimization Mastery — From Memoization Quiz Answers to Production Patterns](https://dev.to/cristiansifuentes/react-render-optimization-mastery-from-memoization-quiz-answers-to-production-patterns-4mgd)
-- [Implementing Strictly Typed JsonRpc Method Calls in Kotlin](https://dev.to/nerzhul500/implementing-strictly-typed-jsonrpc-method-calls-in-kotlin-56pn)
-- [ai](https://dev.to/kato_masato_c5593c81af5c6/ai-58o2)
-- [Project 3](https://dev.to/misssassypants/project-3-15b8)
-- [7 Days of Learning: Surviving the Solidity Speedrun with HackQuest](https://dev.to/azharpratama/7-days-of-learning-surviving-the-solidity-speedrun-with-hackquest-2fdd)
+- [🔥 LLM Interview Series&lpar;6&rpar;: RLHF &lpar;Reinforcement Learning from Human Feedback&rpar; Demystified](https://dev.to/jackm_345442a09fb53b/llm-interview-series6-rlhf-reinforcement-learning-from-human-feedback-demystified-hi8)
+- [3.Fork a Git Repository](https://dev.to/thukhakyawe_cloud/3fork-a-git-repository-efk)
+- [DeepPDF Review 2025: A Practical Tool for Reading, Querying, and Understanding PDFs with AI](https://dev.to/cicisee666/deeppdf-review-2025-a-practical-tool-for-reading-querying-and-understanding-pdfs-with-ai-1o6d)
+- [Building a Real‑Time VWAP Dashboard with Bun, Binance WebSockets &amp; SQLite](https://dev.to/sivarampg/building-a-real-time-vwap-dashboard-with-bun-binance-websockets-sqlite-27c3)
+- [review of preparing dev project of aws amplify gen2 and next.js](https://dev.to/hirooka_kazuya_d7f37d3cde/review-of-preparing-dev-project-of-aws-amplify-gen2-and-nextjs-1h8i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
