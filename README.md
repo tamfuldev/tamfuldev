@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What is Ctrl+H in Excel? Master Find &amp; Replace for Data Cleaning](https://dev.to/mohammad_ehsanansari_671/what-is-ctrlh-in-excel-master-find-replace-for-data-cleaning-37mm)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-1b9l)
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-3gjb)
-- [From Imposter Syndrome to Confidence: My Journey as a Senior Angular Developer](https://dev.to/gouranga-das-khulna/from-imposter-syndrome-to-confidence-my-journey-as-a-senior-angular-developer-2bpm)
-- [The Digital Catwalk](https://dev.to/rawveg/the-digital-catwalk-5dfi)
+- [Weekly Challenge: The one about formatting](https://dev.to/simongreennet/weekly-challenge-the-one-about-formatting-kfp)
+- [Scale Django on Seenode: Production Architecture That Actually Works](https://dev.to/app_dev_b139d1a58b00b6516/scale-django-on-seenode-production-architecture-that-actually-works-2bkk)
+- [ROFL Proxy for HTTPS Hosting](https://dev.to/rollingindo/rofl-proxy-for-https-hosting-4796)
+- [ai coding](https://dev.to/aka17/ai-coding-171f)
+- [x402: Internet-Native Payments for the Modern Web](https://dev.to/rollingindo/x402-internet-native-payments-for-the-modern-web-mia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
