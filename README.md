@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-326o)
-- [Meet Pulsimo - Monitor Your Systems with Precision &amp; Power](https://dev.to/abirk/meet-pulsimo-monitor-your-systems-with-precision-power-32ji)
-- [Why Modern Electronic Devices Are Rapidly Switching to Capacitive Touch Screens](https://dev.to/tonyhe8688/why-modern-electronic-devices-are-rapidly-switching-to-capacitive-touch-screens-1p9i)
-- [Practical Guide to Dynamic IP Blocking in Nginx](https://dev.to/tiger_smith_9f421b9131db5/practical-guide-to-dynamic-ip-blocking-in-nginx-3k0j)
-- [Increase my familiarity with BASE64.](https://dev.to/akari_iku/increase-my-familiarity-with-base64-1e6b)
+- [Disaster and Emergency Response with TAK and AWS](https://dev.to/aws-builders/disaster-and-emergency-response-with-tak-3pef)
+- [How to Cut AWS Costs and Maintain Reliability Without a FinOps Team](https://dev.to/copubah/how-to-cut-aws-costs-and-maintain-reliability-without-a-finops-team-54cl)
+- [Disaster and Emergency Response with TAK and AWS](https://dev.to/awsugonair/disaster-and-emergency-response-with-tak-and-aws-53lm)
+- [A Free OpenAPI 3.2 Editor with Linting and Outline Support](https://dev.to/zeddd/a-free-openapi-32-editor-with-linting-and-outline-support-20mg)
+- [More advanced use of console logging](https://dev.to/muszynov/more-advanced-use-of-console-logging-4oi1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
