@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI Workout Coach with Next.js, OpenAI, and Supabase](https://dev.to/dpelleri/building-an-ai-workout-coach-with-nextjs-openai-and-supabase-olp)
-- [Share Claude-created Documents Across Worktrees with dot-claude-sync](https://dev.to/ugo/share-claude-created-documents-across-worktrees-with-dot-claude-sync-cpc)
-- [🚨 Resuming Stuck Joget Workflow Tools with API](https://dev.to/exploringmylifeworks/resuming-stuck-joget-workflow-tools-with-api-kg1)
-- [Memahami KNN Algorithm dan Sistem Rekomendasi dengan Visualisasi Simpel](https://dev.to/ezzeddinp/memahami-knn-algorithm-dan-sistem-rekomendasi-dengan-visualisasi-simpel-22h0)
-- [emojis-cleaner — A npm package to remove Emojis from Any File or Codebase &lpar;CLI + JS API&rpar;](https://dev.to/pulkitgovrani/emojis-cleaner-a-npm-package-to-remove-emojis-from-any-file-or-codebase-cli-js-api-41c0)
+- [What is Ctrl+H in Excel? Master Find &amp; Replace for Data Cleaning](https://dev.to/mohammad_ehsanansari_671/what-is-ctrlh-in-excel-master-find-replace-for-data-cleaning-37mm)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-1b9l)
+- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-3gjb)
+- [From Imposter Syndrome to Confidence: My Journey as a Senior Angular Developer](https://dev.to/gouranga-das-khulna/from-imposter-syndrome-to-confidence-my-journey-as-a-senior-angular-developer-2bpm)
+- [The Digital Catwalk](https://dev.to/rawveg/the-digital-catwalk-5dfi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
