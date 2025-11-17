@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Using CTEs When Your ORM Says No &lpar;The Lazy Developer&#39;s Survival Guide&rpar;](https://dev.to/pascal_cescato_692b7a8a20/using-ctes-when-your-orm-says-no-the-lazy-developers-survival-guide-2e24)
-- [Building Better on AWS: A Practical Guide to the Well-Architected Framework](https://dev.to/sauveer_ketan/building-better-on-aws-a-practical-guide-to-the-well-architected-framework-1l2p)
-- [Master JavaScript: Complete Guide for Beginners with Examples](https://dev.to/suraj_kumar_fb57ae0928df2/master-javascript-complete-guide-for-beginners-with-examples-309d)
-- [Liman Mail Ayarları](https://dev.to/aciklab/liman-mail-ayarlari-3351)
-- [Smart_Store Schema Guide: Future-Proofing Your Data with Versioning](https://dev.to/emma_vic_5c08c5a528c1513e7/smartstore-schema-guide-future-proofing-your-data-with-versioning-3cp3)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-4489)
+- [Low Latency Rust : Building a Cache-Friendly, Lock-Free SPSC Ring Buffer in Rust](https://dev.to/codeapprentice/low-latency-rust-building-a-cache-friendly-lock-free-spsc-ring-buffer-in-rust-ddm)
+- [Instagram &amp; WhatsApp Invisible Text Tricks: Creative Uses You Haven&#39;t Tried](https://dev.to/blankspacecopy/instagram-whatsapp-invisible-text-tricks-creative-uses-you-havent-tried-275b)
+- [Convert PDF to Word in Java: A Comprehensive Guide with Spire.PDF](https://dev.to/lu_liu_e3fc806354d9a952b7/convert-pdf-to-word-in-java-a-comprehensive-guide-with-spirepdf-3i04)
+- [How to implement FFT algorithm in FPGA?](https://dev.to/carolineee/how-to-implement-fft-algorithm-in-fpga-13fj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
