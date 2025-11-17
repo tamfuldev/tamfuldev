@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Apache Spark vs Apache Hadoop—10 Crucial Differences &lpar;2025&rpar;](https://dev.to/chaos-genius/apache-spark-vs-apache-hadoop-10-crucial-differences-2025-27l)
-- [Terraform Basics – Week 4: Securing Your Azure VM&#39;s with NSGs and Dynamic Blocks](https://dev.to/ozanguner/terraform-basics-week-4-securing-your-azure-vms-with-nsgs-and-dynamic-blocks-3mh0)
-- [Introducing GuardScan: 100% Free, Privacy-First AI Code Review &amp; Security Scanning CLI](https://dev.to/ntanwir10/introducing-guardscan-100-free-privacy-first-ai-code-review-security-scanning-cli-4dai)
-- [Nested Learning — My Reflections on a Model That Learns How to Learn](https://dev.to/mitanshgor/nested-learning-my-reflections-on-a-model-that-learns-how-to-learn-14b5)
-- [Session Vs. Memory in claude CLI /memory: Finally Context That Survives!](https://dev.to/nick_porter_0cfcbc03e871f/session-vs-memory-in-claude-cli-memory-finally-context-that-survives-4pb6)
+- [The Best Free Tools I Use to Run an AI-Driven Business](https://dev.to/jaideepparashar/the-best-free-tools-i-use-to-run-an-ai-driven-business-4abn)
+- [Andrew Huang: S4 2.0 is one of the most inspiring tools I&#39;ve used](https://dev.to/music_youtube/andrew-huang-s4-20-is-one-of-the-most-inspiring-tools-ive-used-33cd)
+- [Meta-Authors Note: Codie&#39;s Cognitive Chronicals](https://dev.to/izzyfuller/meta-authors-note-codies-cognitive-chronicals-2kg2)
+- [Trash Theory: Exploring Tricky &amp; Maxinquaye: The 90s Bowie? | New British Canon](https://dev.to/music_youtube/trash-theory-exploring-tricky-maxinquaye-the-90s-bowie-new-british-canon-16ed)
+- [AMAZON WEB SERVICES](https://dev.to/techwithazaria/amazon-web-services-2f65)
 <!-- BLOG-POST-LIST:END -->
 
 ---
