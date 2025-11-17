@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-15fh)
-- [How to Write Your Own Static File Server in Pure Node.js](https://dev.to/aryan015/how-to-write-your-own-static-file-server-in-pure-nodejs-486k)
-- [Transformers: The Magic Engine Behind ChatGPT, Gemini &amp; Every Modern AI Model!](https://dev.to/pavanbelagatti/transformers-the-magic-engine-behind-chatgpt-gemini-every-modern-ai-model-5abk)
-- [India’s Leading AI Development Companies: Top 20 List — Explore India’s top AI firms delivering smart, scalable solutions. InnovationM is listed among the top 5. Full post: https://www.innovationm.com/blog/top-10-ai-development-companies-in-india-2025/](https://dev.to/kritikasharma09/indias-leading-ai-development-companies-top-20-list-explore-indias-top-ai-firms-delivering-mj7)
-- [Building a Brand That Reflects Your Commitment to Ethical Tech Practices: Why Integrity Is Your New Competitive Edge](https://dev.to/okoye_ndidiamaka_5e3b7d30/building-a-brand-that-reflects-your-commitment-to-ethical-tech-practices-why-integrity-is-your-new-5hj3)
+- [Using CTEs When Your ORM Says No &lpar;The Lazy Developer&#39;s Survival Guide&rpar;](https://dev.to/pascal_cescato_692b7a8a20/using-ctes-when-your-orm-says-no-the-lazy-developers-survival-guide-2e24)
+- [Building Better on AWS: A Practical Guide to the Well-Architected Framework](https://dev.to/sauveer_ketan/building-better-on-aws-a-practical-guide-to-the-well-architected-framework-1l2p)
+- [Master JavaScript: Complete Guide for Beginners with Examples](https://dev.to/suraj_kumar_fb57ae0928df2/master-javascript-complete-guide-for-beginners-with-examples-309d)
+- [Liman Mail Ayarları](https://dev.to/aciklab/liman-mail-ayarlari-3351)
+- [Smart_Store Schema Guide: Future-Proofing Your Data with Versioning](https://dev.to/emma_vic_5c08c5a528c1513e7/smartstore-schema-guide-future-proofing-your-data-with-versioning-3cp3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
