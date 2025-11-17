@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Linen Layout](https://dev.to/rmion/linen-layout-4e4d)
-- [A Practical Guide to Profiling &amp; Optimizing React Applications for Peak Performance 🚀](https://dev.to/alisamir/a-practical-guide-to-profiling-optimizing-react-applications-for-peak-performance-273i)
-- [Reading Between the Lines: How Leaders Build Emotional Intelligence One Page &lpar;or Episode&rpar; at a Time](https://dev.to/angela_ash_6da09e1fd957c1/reading-between-the-lines-how-leaders-build-emotional-intelligence-one-page-or-episode-at-a-time-16kn)
-- [API Reference](https://dev.to/endersaka/api-reference-42fg)
-- [Making code fun again: An introduction to code golf](https://dev.to/mousetail/making-code-fun-again-an-introduction-to-code-golf-166p)
+- [My React template](https://dev.to/tkorakas/my-react-template-ho4)
+- [Building a Custom TypeScript Client for Your REST API](https://dev.to/__c75487cfa/building-a-custom-typescript-client-for-your-rest-api-ahb)
+- [Tired of Rails one-off scripts becoming a nightmare? I built something for that.](https://dev.to/a_abdellatif/tired-of-rails-one-off-scripts-becoming-a-nightmare-i-built-something-for-that-5fcb)
+- [The Hidden AI Tax on Tech Debt](https://dev.to/bwca/the-hidden-ai-tax-on-tech-debt-4k10)
+- [How to scrape websites that Selenium or Playwright can&#39;t](https://dev.to/patfinder/how-to-scrape-website-that-selenium-or-playwright-cant-4cfa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
