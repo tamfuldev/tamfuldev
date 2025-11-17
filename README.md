@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating Media Libraries to Content Hub in Xperience by Kentico – My Real Project Experience](https://dev.to/pawansharmaggc/migrating-media-libraries-to-content-hub-in-xperience-by-kentico-my-real-project-experience-5d53)
-- [ClickHouse: The Good, The Bad, and The Ugly](https://dev.to/lindesvard/clickhouse-the-good-the-bad-and-the-ugly-2pi7)
-- [How SkillHunt Uses Telegram for Faster Job Search](https://dev.to/m_midas/how-skillhunt-uses-telegram-for-faster-job-search-8g8)
-- [🚀 Stop Fighting Alembic — FastAPI &amp; Flask Migrations Can Finally Be as Simple as Django.](https://dev.to/adelodunpeter/stop-fighting-alembic-fastapi-flask-migrations-can-finally-be-as-simple-as-django-1d9k)
-- [Embedded Systems &amp; Electronics in 2025: Key Trends and What Really Changed](https://dev.to/danie_brooks_dc7a891322b3/embedded-systems-electronics-in-2025-key-trends-and-what-really-changed-238j)
+- [Transform Your Raspberry Pi into a Mini Windows 11 PC: Step-by-Step Guide](https://dev.to/messin_tom/transform-your-raspberry-pi-into-a-mini-windows-11-pc-step-by-step-guide-1c3g)
+- [Will Reasoning Become the New Turing Test? Let&#39;s play a Sherlock Holmes game](https://dev.to/auyeungdavid_2847435260/will-reasoning-become-the-new-turing-test-lets-play-a-sherlock-holmes-game-37cm)
+- [Analisando Práticas de Teste do Projeto Hollow da Netflix: Lições de Código Open Source](https://dev.to/asouza/analisando-praticas-de-teste-do-projeto-hollow-da-netflix-licoes-de-codigo-open-source-53he)
+- [What If You Could Write AJAX Without JavaScript? Meet fetchtl.](https://dev.to/jahongir2007/what-if-you-could-write-ajax-without-javascript-meet-fetchtl-2pk2)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-3m18)
 <!-- BLOG-POST-LIST:END -->
 
 ---
