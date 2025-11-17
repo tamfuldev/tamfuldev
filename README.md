@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [StatefulSets &amp; Persistent Storage in Kubernetes](https://dev.to/rosgluk/statefulsets-persistent-storage-in-kubernetes-dbi)
-- [Python Design Patterns for Clean Architecture](https://dev.to/rosgluk/python-design-patterns-for-clean-architecture-1jk0)
-- [Go Unit Testing: Structure &amp; Best Practices](https://dev.to/rosgluk/go-unit-testing-structure-best-practices-1b5n)
-- [Linux Data Science Stack: Jupyter, Pandas &amp; Tools](https://dev.to/rosgluk/linux-data-science-stack-jupyter-pandas-tools-3fof)
-- [Helm Charts: Kubernetes Package Management](https://dev.to/rosgluk/helm-charts-kubernetes-package-management-2oei)
+- [Terraform Basics Week 3: Managing Variables with tfvars Files](https://dev.to/ozanguner/terraform-basics-week-3-managing-variables-with-tfvars-files-j8i)
+- [Code Smell 314 - Model Collapse](https://dev.to/mcsee/code-smell-314-model-collapse-5ckc)
+- [Competências Essenciais para um Desenvolvedor Ruby on Rails](https://dev.to/nemuba/competencias-essenciais-para-um-desenvolvedor-ruby-on-rails-hmb)
+- [Compiling Window Maker in a Debian-based OS](https://dev.to/thiagomg/compiling-window-maker-in-a-debian-based-os-1n87)
+- [Fixing emoji support in the Linux terminal](https://dev.to/thiagomg/fixing-emoji-support-in-the-linux-terminal-34og)
 <!-- BLOG-POST-LIST:END -->
 
 ---
