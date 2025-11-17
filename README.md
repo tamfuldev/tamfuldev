@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Hunting TTPs for the EVALUSION ClickFix Campaign Delivering Amatera Stealer &amp; NetSupport RAT](https://dev.to/jenapuneet/hunting-ttps-for-the-evalusion-clickfix-campaign-delivering-amatera-stealer-netsupport-rat-22j4)
-- [How we built Hermes - a military-grade encryption tool that&#39;s ready for the quantum computing era](https://dev.to/chronocoders/how-we-built-hermes-a-military-grade-encryption-tool-thats-ready-for-the-quantum-computing-era-10b5)
-- [Setup Hashicorp Vault + Vault Agent on Docker Compose](https://dev.to/tjuliu/setup-hashicorp-vault-vault-agent-on-docker-compose-4af0)
-- [The CRO Test That Killed Our Best-Performing Page &lpar;And What We Learned&rpar;](https://dev.to/synergistdigitalmedia/the-cro-test-that-killed-our-best-performing-page-and-what-we-learned-lo8)
-- [That&#39;s what I was missing. Must-read for developers that want to build a solid software!](https://dev.to/pawel/-4e0b)
+- [Linen Layout](https://dev.to/rmion/linen-layout-4e4d)
+- [A Practical Guide to Profiling &amp; Optimizing React Applications for Peak Performance 🚀](https://dev.to/alisamir/a-practical-guide-to-profiling-optimizing-react-applications-for-peak-performance-273i)
+- [Reading Between the Lines: How Leaders Build Emotional Intelligence One Page &lpar;or Episode&rpar; at a Time](https://dev.to/angela_ash_6da09e1fd957c1/reading-between-the-lines-how-leaders-build-emotional-intelligence-one-page-or-episode-at-a-time-16kn)
+- [API Reference](https://dev.to/endersaka/api-reference-42fg)
+- [Making code fun again: An introduction to code golf](https://dev.to/mousetail/making-code-fun-again-an-introduction-to-code-golf-166p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
