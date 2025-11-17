@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Terraform Basics Week 3: Managing Variables with tfvars Files](https://dev.to/ozanguner/terraform-basics-week-3-managing-variables-with-tfvars-files-j8i)
-- [Code Smell 314 - Model Collapse](https://dev.to/mcsee/code-smell-314-model-collapse-5ckc)
-- [Competências Essenciais para um Desenvolvedor Ruby on Rails](https://dev.to/nemuba/competencias-essenciais-para-um-desenvolvedor-ruby-on-rails-hmb)
-- [Compiling Window Maker in a Debian-based OS](https://dev.to/thiagomg/compiling-window-maker-in-a-debian-based-os-1n87)
-- [Fixing emoji support in the Linux terminal](https://dev.to/thiagomg/fixing-emoji-support-in-the-linux-terminal-34og)
+- [Angular 21 is Here: Real Features That Actually Improve Your Daily Workflow](https://dev.to/mmourouh/angular-21-is-here-real-features-that-actually-improve-your-daily-workflow-ogk)
+- [How to Implement Customized Development Without Modifying the Base Product Source Code](https://dev.to/canonical/how-to-implement-customized-development-without-modifying-the-base-product-source-code-2pp5)
+- [DSL Design Essentials from the Perspective of Reversible Computation](https://dev.to/canonical/dsl-design-essentials-from-the-perspective-of-reversible-computation-374l)
+- [Created a Portfolio Website For my YouTube Channel](https://dev.to/freepirat/created-a-portfolio-website-for-my-youtube-channel-19h8)
+- [Designing Low-Code Platforms Through the Lens of Tensor Products](https://dev.to/canonical/designing-low-code-platforms-through-the-lens-of-tensor-products-1o59)
 <!-- BLOG-POST-LIST:END -->
 
 ---
