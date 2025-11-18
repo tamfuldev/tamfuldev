@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Comprehensive Guide to Observability in AI Agents: Best Practices](https://dev.to/kuldeep_paul/a-comprehensive-guide-to-observability-in-ai-agents-best-practices-4bd4)
-- [5 things to try with Gemini 3 Pro in Gemini CLI](https://dev.to/googleai/5-things-to-try-with-gemini-3-pro-in-gemini-cli-55hg)
-- [You&#39;re Stuck in &quot;Tutorial Hell.&quot; Here&#39;s Your Direct Escape Route.](https://dev.to/devhabib/youre-stuck-in-tutorial-hell-heres-your-direct-escape-route-2emm)
-- [Introducing Dolphin - new way to make Android Apps using React.](https://dev.to/lifeasaswin/introducing-dolphin-new-way-to-make-android-apps-using-react-1boa)
-- [Best Photo Organizing Software with Facial Recognition in 2025 — Based on My Experience](https://dev.to/valerie_novak/best-photo-organizing-software-with-facial-recognition-in-2025-based-on-my-experience-41p0)
+- [Setting up Kiro for Godot](https://dev.to/drutch/setting-up-kiro-for-godot-358c)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-1p5e)
+- [amazing!!](https://dev.to/elizabethfuentes12/amazing-2n1g)
+- [Create and configure a storage account for Azure Files.](https://dev.to/freddie_barron_0a192c3278/create-and-configure-a-storage-account-for-azure-files-2595)
+- [Understanding AWS Storage &amp; Recovery Services: A Complete Guide](https://dev.to/pooja_bhavani/understanding-aws-storage-recovery-services-a-complete-guide-89f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
