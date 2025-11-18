@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SafeLine: The Open-Source WAF That Actually Protects Your Web Apps](https://dev.to/arina_cholee/safeline-the-open-source-waf-that-actually-protects-your-web-apps-31hf)
-- [# 🛡️ Introduction to Security in the Cloud: Why It Matters &amp; How AWS IAM Protects Your World](https://dev.to/patdevops/-introduction-to-security-in-the-cloud-why-it-matters-how-aws-iam-protects-your-world-2g4)
-- [Empresas também evoluem](https://dev.to/andersoncontreira/empresas-tambem-evoluem-e8g)
-- [Packing Power: AI Cracks the Sphere Optimization Code](https://dev.to/arvind_sundararajan/packing-power-ai-cracks-the-sphere-optimization-code-h8m)
-- [The Year We Crossed the Threshold: A Journey Through 2025&#39;s Most Transformative Technology](https://dev.to/thebitforge/the-year-we-crossed-the-threshold-a-journey-through-2025s-most-transformative-technology-3aa5)
+- [Why Prompt Templates Are the New APIs](https://dev.to/jaideepparashar/why-prompt-templates-are-the-new-apis-2ocb)
+- [Why Most Real Estate Projects Fail — And How Developers Can Prevent It with Feasibility Analysis](https://dev.to/abdul_shamim/why-most-real-estate-projects-fail-and-how-developers-can-prevent-it-with-feasibility-analysis-3f7b)
+- [[Boost]](https://dev.to/v_b/-ikg)
+- [Daily Tech News Roundup - 2025-11-18](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-11-18-20n0)
+- [7 Best Pluralsight Alternatives for Developers](https://dev.to/stack_overflowed/7-best-pluralsight-alternatives-for-developers-32ab)
 <!-- BLOG-POST-LIST:END -->
 
 ---
