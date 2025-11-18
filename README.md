@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [SafeLine: The Open-Source WAF That Actually Protects Your Web Apps](https://dev.to/arina_cholee/safeline-the-open-source-waf-that-actually-protects-your-web-apps-31hf)
+- [# 🛡️ Introduction to Security in the Cloud: Why It Matters &amp; How AWS IAM Protects Your World](https://dev.to/patdevops/-introduction-to-security-in-the-cloud-why-it-matters-how-aws-iam-protects-your-world-2g4)
+- [Empresas também evoluem](https://dev.to/andersoncontreira/empresas-tambem-evoluem-e8g)
 - [Packing Power: AI Cracks the Sphere Optimization Code](https://dev.to/arvind_sundararajan/packing-power-ai-cracks-the-sphere-optimization-code-h8m)
 - [The Year We Crossed the Threshold: A Journey Through 2025&#39;s Most Transformative Technology](https://dev.to/thebitforge/the-year-we-crossed-the-threshold-a-journey-through-2025s-most-transformative-technology-3aa5)
-- [Você está pronto para uma demissão hoje?](https://dev.to/andersoncontreira/voce-esta-pronto-para-uma-demissao-hoje-3aia)
-- [Add Pages to PDFs with Python: A Comprehensive Guide](https://dev.to/codingco/add-pages-to-pdfs-with-python-a-comprehensive-guide-38nm)
-- [🛒 Understand Redux State Management: The Department Store analogy](https://dev.to/cathylai/understand-redux-state-management-the-department-store-analogy-4e4p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
