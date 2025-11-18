@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Prompt Templates Are the New APIs](https://dev.to/jaideepparashar/why-prompt-templates-are-the-new-apis-2ocb)
-- [Why Most Real Estate Projects Fail — And How Developers Can Prevent It with Feasibility Analysis](https://dev.to/abdul_shamim/why-most-real-estate-projects-fail-and-how-developers-can-prevent-it-with-feasibility-analysis-3f7b)
-- [[Boost]](https://dev.to/v_b/-ikg)
-- [Daily Tech News Roundup - 2025-11-18](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-11-18-20n0)
-- [7 Best Pluralsight Alternatives for Developers](https://dev.to/stack_overflowed/7-best-pluralsight-alternatives-for-developers-32ab)
+- [📻 I built an infinite 90s boombox with Gemini + Lyria &lpar;and it has an AI DJ!&rpar;](https://dev.to/googleai/i-built-an-infinite-90s-boombox-with-gemini-lyria-and-it-has-an-ai-dj-3jh8)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-1j33)
+- [Drowning in Photos? Let a VS Code AI Agent Organize Them for You &lpar;No Coding Needed&rpar;](https://dev.to/sharan_babuparamasivamm/drowning-in-photos-let-a-vs-code-ai-agent-organize-them-for-you-no-coding-needed-5ab8)
+- [Strategies to Analyze Any Size Dataset with LLMs Beyond its Context Limit](https://dev.to/exson_joseph/strategies-to-analyze-any-size-dataset-with-llms-beyond-its-context-limit-4i37)
+- [Master Java — One MCQ at a Time!](https://dev.to/quipoin_a9cb84280f6225b1e/master-java-one-mcq-at-a-time-5861)
 <!-- BLOG-POST-LIST:END -->
 
 ---
