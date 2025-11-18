@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Resource Group in Azure](https://dev.to/adebayo_ganiyatoladunjoy/how-to-create-a-resource-group-in-azure-46ma)
-- [Refactoring 036 - Replace String Concatenations with Text Blocks](https://dev.to/mcsee/refactoring-036-replace-string-concatenations-with-text-blocks-3nop)
-- [When sets are created, duplicates of elements are eliminated](https://dev.to/onaolapo11/when-sets-are-created-duplicates-of-elements-are-eliminated-2d6e)
-- [Free OTT Streaming Cheat Sheet &lpar;HLS, DASH, DRM, ABR &amp; More&rpar;](https://dev.to/braggio/free-ott-streaming-cheat-sheet-hls-dash-drm-abr-more-1ac7)
-- [Space, Pace and Probability: A Developer’s Field Guide to Modern Basketball](https://dev.to/sonia_bobrik_1939cdddd79d/space-pace-and-probability-a-developers-field-guide-to-modern-basketball-14b0)
+- [How I Passed My First Senior Backend Interview &lpar;Go&rpar; Using Educative](https://dev.to/devflex-pro/how-i-passed-my-first-senior-backend-interview-go-using-educative-35h1)
+- [How to manage Let&#39;s Encrypt certificate on EC2 instance](https://dev.to/jurijs_iv/how-to-manage-lets-encrypt-certificate-on-ec2-instance-46f4)
+- [Web Developer Travis McCracken on Statelessness in Server Architecture](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-statelessness-in-server-architecture-3d80)
+- [Mastering Docker: A Complete, Professional Guide to Containers, Networks, Volumes, Dockerfiles, and Docker Compose](https://dev.to/hajixhayjhay/mastering-docker-a-complete-professional-guide-to-containers-networks-volumes-dockerfiles-and-14cd)
+- [TypeScript Is Turning JavaScript into Java, and Nobody Wants to Admit It](https://dev.to/ofodile/typescript-is-turning-javascript-into-java-and-nobody-wants-to-admit-it-402i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
