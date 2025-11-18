@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Setting up Kiro for Godot](https://dev.to/drutch/setting-up-kiro-for-godot-358c)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-1p5e)
-- [amazing!!](https://dev.to/elizabethfuentes12/amazing-2n1g)
-- [Create and configure a storage account for Azure Files.](https://dev.to/freddie_barron_0a192c3278/create-and-configure-a-storage-account-for-azure-files-2595)
-- [Understanding AWS Storage &amp; Recovery Services: A Complete Guide](https://dev.to/pooja_bhavani/understanding-aws-storage-recovery-services-a-complete-guide-89f)
+- [Creating Storage Account for Finance Department&#39;s shared file](https://dev.to/baris86/creating-storage-account-for-finance-departments-shared-file-2d77)
+- [¿Qué WMS se adapta mejor a bodegas en Chile?](https://dev.to/cerca_technology_defb08b3/que-wms-se-adapta-mejor-a-bodegas-en-chile-1l25)
+- [LinkedIn&#39;s Algorithm Stopped Rewarding Pretty Slides &lpar;And Started Rewarding Actual Thinking&rpar;](https://dev.to/synergistdigitalmedia/linkedins-algorithm-stopped-rewarding-pretty-slides-and-started-rewarding-actual-thinking-1e7l)
+- [In this article, I dive into Next.js Route Groups — what they are, how they work, and why they can make your app structure cleaner and more maintainable. I also cover some practical tips, common pitfalls, and layout strategies you can start using today.](https://dev.to/beyondlogic/in-this-article-i-dive-into-nextjs-route-groups-what-they-are-how-they-work-and-why-they-can-177h)
+- [When a Single Company Can Break the Internet](https://dev.to/rivalmarketplace/when-a-single-company-can-break-the-internet-4fa2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
