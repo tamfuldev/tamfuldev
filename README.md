@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Passed My First Senior Backend Interview &lpar;Go&rpar; Using Educative](https://dev.to/devflex-pro/how-i-passed-my-first-senior-backend-interview-go-using-educative-35h1)
-- [How to manage Let&#39;s Encrypt certificate on EC2 instance](https://dev.to/jurijs_iv/how-to-manage-lets-encrypt-certificate-on-ec2-instance-46f4)
-- [Web Developer Travis McCracken on Statelessness in Server Architecture](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-statelessness-in-server-architecture-3d80)
-- [Mastering Docker: A Complete, Professional Guide to Containers, Networks, Volumes, Dockerfiles, and Docker Compose](https://dev.to/hajixhayjhay/mastering-docker-a-complete-professional-guide-to-containers-networks-volumes-dockerfiles-and-14cd)
-- [TypeScript Is Turning JavaScript into Java, and Nobody Wants to Admit It](https://dev.to/ofodile/typescript-is-turning-javascript-into-java-and-nobody-wants-to-admit-it-402i)
+- [How to Configure Magento Personalization Extensions for Maximum ROI](https://dev.to/sagar_panchal/how-to-configure-magento-personalization-extensions-for-maximum-roi-4k01)
+- [Slide decks with Markdown](https://dev.to/akaak/slide-decks-with-markdown-g5d)
+- [How Accurate Waste Data Strengthens ESG Reporting](https://dev.to/wastify_ai/how-accurate-waste-data-strengthens-esg-reporting-3296)
+- [Announcing Remembral - a project I built because I needed it, and now I’m opening it up to everyone](https://dev.to/goyalaman/announcing-remembral-a-project-i-built-because-i-needed-it-and-now-im-opening-it-up-to-e52)
+- [From Cancer Cures to Pornography: The Six-Month Descent of AI](https://dev.to/razoorka/from-cancer-cures-to-pornography-the-six-month-descent-of-ai-7db)
 <!-- BLOG-POST-LIST:END -->
 
 ---
