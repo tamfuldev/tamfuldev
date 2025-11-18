@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a 100% Offline “Second Brain” for Engineering Docs using Docker &amp; Llama 3 &lpar;No OpenAI&rpar;](https://dev.to/philyeh1212/how-i-built-a-100-offline-second-brain-for-engineering-docs-using-docker-llama-3-no-openai-4gcj)
-- [Inheritance in Java](https://dev.to/masteringbackend/inheritance-in-java-36dl)
-- [DeepSeek OCR in Automation Pipelines: Practical Engineering Insights and Integration Patterns](https://dev.to/alifar/deepseek-ocr-in-automation-pipelines-practical-engineering-insights-and-integration-patterns-3g4a)
-- [Realme UI 7.0 Breaks Cover With Smarter AI and a Cleaner, Faster Interface](https://dev.to/logicverse_2025/realme-ui-70-breaks-cover-with-smarter-ai-and-a-cleaner-faster-interface-4aa1)
-- [WTF is Open Source RPA &lpar;Robotic Process Automation&rpar;?](https://dev.to/dailybugle33/wtf-is-open-source-rpa-robotic-process-automation-152f)
+- [Nuxt 4.2 — A Deep, Comprehensive Guide to Everything New](https://dev.to/ahmed_niazy/nuxt-42-a-deep-comprehensive-guide-to-everything-new-fkb)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-2hd5)
+- [Pure CSS Timed Cards Opening](https://dev.to/prahalad/pure-css-timed-cards-opening-497b)
+- [How to Create Reusable Jira Templates for Cross-Department Workflows](https://dev.to/dorota_from_vilisoft/how-to-create-reusable-jira-templates-for-cross-department-workflows-3ine)
+- [Bridging Policy and Automation: Building a Compliant AWS Pipeline in a Regulated Environment](https://dev.to/neamanahmed/bridging-policy-and-automation-building-a-compliant-aws-pipeline-in-a-regulated-environment-37nm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
