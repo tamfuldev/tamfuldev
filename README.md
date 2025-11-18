@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Creating Storage Account for Finance Department&#39;s shared file](https://dev.to/baris86/creating-storage-account-for-finance-departments-shared-file-2d77)
-- [¿Qué WMS se adapta mejor a bodegas en Chile?](https://dev.to/cerca_technology_defb08b3/que-wms-se-adapta-mejor-a-bodegas-en-chile-1l25)
-- [LinkedIn&#39;s Algorithm Stopped Rewarding Pretty Slides &lpar;And Started Rewarding Actual Thinking&rpar;](https://dev.to/synergistdigitalmedia/linkedins-algorithm-stopped-rewarding-pretty-slides-and-started-rewarding-actual-thinking-1e7l)
-- [In this article, I dive into Next.js Route Groups — what they are, how they work, and why they can make your app structure cleaner and more maintainable. I also cover some practical tips, common pitfalls, and layout strategies you can start using today.](https://dev.to/beyondlogic/in-this-article-i-dive-into-nextjs-route-groups-what-they-are-how-they-work-and-why-they-can-177h)
-- [When a Single Company Can Break the Internet](https://dev.to/rivalmarketplace/when-a-single-company-can-break-the-internet-4fa2)
+- [How to Debug a Node.js App on AWS ECS Fargate Using Port Forwarding &lpar;Step-by-Step Guide&rpar;](https://dev.to/u11d/how-to-port-forward-to-an-ecs-fargate-task-to-debug-your-nodejs-46pn)
+- [Agente de IA para Advogado Autônomo: Guia Definitivo para Transformar sua Rotina Jurídica](https://dev.to/no_codestartup/agente-de-ia-para-advogado-autonomo-guia-definitivo-para-transformar-sua-rotina-juridica-k17)
+- [How to: Fix WebResources Layout in Dataverse Dashboards](https://dev.to/_neronotte/how-to-fix-webresources-layout-in-dataverse-dashboards-3646)
+- [Untitled](https://dev.to/gabriel_bogantesgomez_89/untitled-47o3)
+- [Criar Imagem com Inteligência Artificial Online: Guia Completo para Dominar a Arte Visual com IA](https://dev.to/no_codestartup/criar-imagem-com-inteligencia-artificial-online-guia-completo-para-dominar-a-arte-visual-com-ia-1gi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
