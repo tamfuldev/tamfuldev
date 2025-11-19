@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How not to disappear from the office one minute before closing time](https://dev.to/polyapolza108/how-not-to-disappear-from-the-office-one-minute-before-closing-time-51dg)
-- [TypeScript vs. JavaScript: Which One Should You Use in 2025?](https://dev.to/masteringbackend/typescript-vs-javascript-which-one-should-you-use-in-2025-3aaj)
-- [The Missing Layer Between Data and AI Agents](https://dev.to/hoshang_mehta/the-missing-layer-between-data-and-ai-agents-3316)
-- [Stop Wasting LLM Tokens: Introducing CTON &lpar;Compact Token-Oriented Notation&rpar;](https://dev.to/daviducolo/stop-wasting-llm-tokens-introducing-cton-compact-token-oriented-notation-2kj8)
-- [My views dropped like a bag of bricks the last 2 - 3 weeks](https://dev.to/alifar/my-views-dropped-like-a-bag-of-bricks-the-last-2-3-weeks-50cn)
+- [Global Expansion: Unlocking Export Opportunities for Dairy Products](https://dev.to/alyssa-miller/global-expansion-unlocking-export-opportunities-for-dairy-products-fdj)
+- [Jeff Su: Master 80% of Notion with this ONE Feature](https://dev.to/future_ai/jeff-su-master-80-of-notion-with-this-one-feature-1enb)
+- [How AI Discovers Your MCP Tools?](https://dev.to/ndabene/how-ai-discovers-your-mcp-tools-4n9o)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-1jpg)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-5gjd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
