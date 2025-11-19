@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The future of ViBE coding: 5 years ahead](https://dev.to/polyapolza108/the-future-of-vibe-coding-5-years-ahead-1la7)
-- [Value Object in PHP 8: Build your own type system](https://dev.to/cnastasi/value-object-in-php-8-build-your-own-type-system-5970)
-- [When the Internet Held Its Breath: The Day Cloudflare Took Down 20% of the Web](https://dev.to/shiva_shanker_k/when-the-internet-held-its-breath-the-day-cloudflare-took-down-20-of-the-web-3gf8)
-- [How We Built Northeast India’s First Foundational AI Model from Shillong, on Our Own Terms](https://dev.to/b_nyalang/how-we-built-northeast-indias-first-foundational-ai-model-from-shillong-on-our-own-terms-5g8h)
-- [🎉 Proud to share that I’ve been selected to join 𝗧𝗵𝗲𝗘𝗹𝗲𝘃𝗲 𝗧𝗲𝗮𝗺 for the 𝗞-𝗧𝗲𝗰𝗵𝗙𝗲𝘀𝘁 𝗛𝗮𝗰𝗸𝗮𝘁𝗵𝗼𝗻 𝟮𝟬𝟮𝟱!](https://dev.to/engripaye/proud-to-share-that-ive-been-selected-to-join-for-the--4io1)
+- [The Overwhelmed Developer: Drowning in the Deep End of the Tech Pool](https://dev.to/j4s0nc/the-overwhelmed-developer-drowning-in-the-deep-end-of-the-tech-pool-el5)
+- [A Deep Dive Into ESP-CSI: Channel State Information on ESP32 Chips](https://dev.to/pratha_maniar/a-deep-dive-into-esp-csi-channel-state-information-on-esp32-chips-5el1)
+- [I got tired of writing .cursorrules manually for every project, so I built a visual generator &lpar;Free &amp; Open&rpar;](https://dev.to/diego_b153/i-got-tired-of-writing-cursorrules-manually-for-every-project-so-i-built-a-visual-generator-free-fig)
+- [GraphBit’s Agentic AI Mechanisms Compared to Other Agent Frameworks](https://dev.to/yeahiasarker/graphbits-agentic-ai-mechanisms-compared-to-other-agent-frameworks-1141)
+- [Failure](https://dev.to/ayusharpcoder/failure-4bl2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
