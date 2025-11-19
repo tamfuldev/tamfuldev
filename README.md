@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare: Uma Plataforma Essencial para Segurança, Desempenho e Confiabilidade na Web](https://dev.to/ikauedev/cloudflare-uma-plataforma-essencial-para-seguranca-desempenho-e-confiabilidade-na-web-2o2d)
-- [Why Modern Data Centers Need a Unified Approach to Firmware, Driver, and OS Validation](https://dev.to/gopimahesh/why-modern-data-centers-need-a-unified-approach-to-firmware-driver-and-os-validation-44c2)
-- [I Built Production-Ready 2FA &lpar;TOTP&rpar; in Node.js + Angular - Here&#39;s How](https://dev.to/kohsin/i-built-production-ready-2fa-totp-in-nodejs-angular-heres-how-1deb)
-- [Context - Bridging the AI Agent&#39;s Blind Spot](https://dev.to/elbanic/context-bridging-the-ai-agents-blind-spot-38d6)
-- [Maximize Your Online Courses: How Developers Can Create and Sell Technical Courses](https://dev.to/softwaredeveloperhub01/maximize-your-online-courses-how-developers-can-create-and-sell-technical-courses-10o2)
+- [My First .NET Core Web API Project: Documenting the Rookie Mistakes and Wins on the Way to a Job.](https://dev.to/jervie_gono/my-first-net-core-web-api-project-documenting-the-rookie-mistakes-and-wins-on-the-way-to-a-job-23ci)
+- [DEV Follower Analysis](https://dev.to/annavi11arrea1/dev-follower-analysis-4dhc)
+- [How Non-Developers Are Building Apps: The Rise of Low-Code &amp; No-Code Platforms](https://dev.to/mashraf_aiman_b9a968e5c1d/how-non-developers-are-building-apps-the-rise-of-low-code-no-code-platforms-198k)
+- [Provide Storage For A New Company App](https://dev.to/cmwokocha/provide-storage-for-a-new-company-app-33eg)
+- [Web Components in Angular: Integrating React Components Across Framework Boundaries](https://dev.to/ujjavala/web-components-in-angular-integrating-react-components-across-framework-boundaries-29l5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
