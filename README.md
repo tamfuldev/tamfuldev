@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Prometheus Monitoring: Complete Setup &amp; Best Practices](https://dev.to/rosgluk/prometheus-monitoring-complete-setup-best-practices-4859)
-- [Advanced RAG: LongRAG, Self-RAG and GraphRAG Explained](https://dev.to/rosgluk/advanced-rag-longrag-self-rag-and-graphrag-explained-3ci8)
-- [Narrative Alchemist](https://dev.to/vlad_craciun_9fd3de149aa8/narrative-alchemist-33da)
-- [C# Guide: Build Dynamic Word Files with Rich Formatting and Data](https://dev.to/allen_yang_f905170c5a197b/c-guide-build-dynamic-word-files-with-rich-formatting-and-data-7hc)
-- [When Cloudflare Went Down: The Day the Internet Remembered Cloud Isn’t Invincible](https://dev.to/yaseen_tech/when-cloudflare-went-down-the-day-the-internet-remembered-cloud-isnt-invincible-1ha6)
+- [Engineering Apps to Scale &lpar;Without Breaking&rpar;](https://dev.to/kiddo4lyf/engineering-apps-to-scale-without-breaking-5gff)
+- [JSON is Costing You Money: Enter TOON - the Format Built for LLMs](https://dev.to/maikidev/json-is-costing-you-money-enter-toon-the-format-built-for-llms-4ce8)
+- [📌 How to build a context-first cloud collaboration model](https://dev.to/tarakinfracodebase/how-to-build-a-context-first-cloud-collaboration-model-52pc)
+- [How to Sync Anything: Building a Sync Engine from Scratch — Part 2](https://dev.to/moremaddy/how-to-sync-anything-building-a-sync-engine-from-scratch-part-2-hjb)
+- [Cloud-Based Android Testing: Comparing Infrastructure Options for Development Teams](https://dev.to/digitalgrowthpro/cloud-based-android-testing-comparing-infrastructure-options-for-development-teams-42e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
