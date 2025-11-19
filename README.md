@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My First .NET Core Web API Project: Documenting the Rookie Mistakes and Wins on the Way to a Job.](https://dev.to/jervie_gono/my-first-net-core-web-api-project-documenting-the-rookie-mistakes-and-wins-on-the-way-to-a-job-23ci)
-- [DEV Follower Analysis](https://dev.to/annavi11arrea1/dev-follower-analysis-4dhc)
-- [How Non-Developers Are Building Apps: The Rise of Low-Code &amp; No-Code Platforms](https://dev.to/mashraf_aiman_b9a968e5c1d/how-non-developers-are-building-apps-the-rise-of-low-code-no-code-platforms-198k)
-- [Provide Storage For A New Company App](https://dev.to/cmwokocha/provide-storage-for-a-new-company-app-33eg)
-- [Web Components in Angular: Integrating React Components Across Framework Boundaries](https://dev.to/ujjavala/web-components-in-angular-integrating-react-components-across-framework-boundaries-29l5)
+- [Methods and primitive type in JS](https://dev.to/maryam_hosseini_e3effa8e8/methods-and-primitive-type-in-js-4e0o)
+- [Vibe Coding 🌟 With Google Antigravity](https://dev.to/ranshers_53/vibe-coding-with-google-antigravity-5ej4)
+- [🐘 PHP 8.5: 10 New Features, 4 Deprecations, and Why This Release Matters to Modern PHP Developers](https://dev.to/er_bhanu_pratap_95/php-85-10-new-features-4-deprecations-and-why-this-release-matters-to-modern-php-developers-3bfn)
+- [8 Developer-Friendly SEO Workflows That Make SaaS Products More Discoverable](https://dev.to/liamtakahiro/8-developer-friendly-seo-workflows-that-make-saas-products-more-discoverable-1cfc)
+- [7 Technical SEO Practices Every Developer-Led SaaS Should Implement in 2025](https://dev.to/liamtakahiro/7-technical-seo-practices-every-developer-led-saas-should-implement-in-2025-agk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
