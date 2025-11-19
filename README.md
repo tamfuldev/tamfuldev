@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Debug a Node.js App on AWS ECS Fargate Using Port Forwarding &lpar;Step-by-Step Guide&rpar;](https://dev.to/u11d/how-to-port-forward-to-an-ecs-fargate-task-to-debug-your-nodejs-46pn)
-- [Agente de IA para Advogado Autônomo: Guia Definitivo para Transformar sua Rotina Jurídica](https://dev.to/no_codestartup/agente-de-ia-para-advogado-autonomo-guia-definitivo-para-transformar-sua-rotina-juridica-k17)
-- [How to: Fix WebResources Layout in Dataverse Dashboards](https://dev.to/_neronotte/how-to-fix-webresources-layout-in-dataverse-dashboards-3646)
-- [Untitled](https://dev.to/gabriel_bogantesgomez_89/untitled-47o3)
-- [Criar Imagem com Inteligência Artificial Online: Guia Completo para Dominar a Arte Visual com IA](https://dev.to/no_codestartup/criar-imagem-com-inteligencia-artificial-online-guia-completo-para-dominar-a-arte-visual-com-ia-1gi)
+- [[Boost]](https://dev.to/grayside/-9kb)
+- [The lumberjack paradox: From theory to practice](https://dev.to/googlecloud/the-lumberjack-paradox-from-theory-to-practice-2lb5)
+- [ES6 {Destructuring} Deep Dive](https://dev.to/senken18/es6-destructuring-deep-dive-7ch)
+- [THE LOVE THAT OUTLIVES TIME: A 1 CORINTHIANS 13 LEGACY EXPLORATION](https://dev.to/douglasvandergraph/the-love-that-outlives-time-a-1-corinthians-13-legacy-exploration-27he)
+- [COBOL on Ubuntu: Installation, Setup, and First Steps](https://dev.to/pablojavierjimenez/cobol-on-ubuntu-installation-setup-and-first-steps-3epd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
