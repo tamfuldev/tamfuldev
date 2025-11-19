@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Global Expansion: Unlocking Export Opportunities for Dairy Products](https://dev.to/alyssa-miller/global-expansion-unlocking-export-opportunities-for-dairy-products-fdj)
-- [Jeff Su: Master 80% of Notion with this ONE Feature](https://dev.to/future_ai/jeff-su-master-80-of-notion-with-this-one-feature-1enb)
-- [How AI Discovers Your MCP Tools?](https://dev.to/ndabene/how-ai-discovers-your-mcp-tools-4n9o)
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-1jpg)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-5gjd)
+- [The future of ViBE coding: 5 years ahead](https://dev.to/polyapolza108/the-future-of-vibe-coding-5-years-ahead-1la7)
+- [Value Object in PHP 8: Build your own type system](https://dev.to/cnastasi/value-object-in-php-8-build-your-own-type-system-5970)
+- [When the Internet Held Its Breath: The Day Cloudflare Took Down 20% of the Web](https://dev.to/shiva_shanker_k/when-the-internet-held-its-breath-the-day-cloudflare-took-down-20-of-the-web-3gf8)
+- [How We Built Northeast India’s First Foundational AI Model from Shillong, on Our Own Terms](https://dev.to/b_nyalang/how-we-built-northeast-indias-first-foundational-ai-model-from-shillong-on-our-own-terms-5g8h)
+- [🎉 Proud to share that I’ve been selected to join 𝗧𝗵𝗲𝗘𝗹𝗲𝘃𝗲 𝗧𝗲𝗮𝗺 for the 𝗞-𝗧𝗲𝗰𝗵𝗙𝗲𝘀𝘁 𝗛𝗮𝗰𝗸𝗮𝘁𝗵𝗼𝗻 𝟮𝟬𝟮𝟱!](https://dev.to/engripaye/proud-to-share-that-ive-been-selected-to-join-for-the--4io1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
