@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/grayside/-9kb)
-- [The lumberjack paradox: From theory to practice](https://dev.to/googlecloud/the-lumberjack-paradox-from-theory-to-practice-2lb5)
-- [ES6 {Destructuring} Deep Dive](https://dev.to/senken18/es6-destructuring-deep-dive-7ch)
-- [THE LOVE THAT OUTLIVES TIME: A 1 CORINTHIANS 13 LEGACY EXPLORATION](https://dev.to/douglasvandergraph/the-love-that-outlives-time-a-1-corinthians-13-legacy-exploration-27he)
-- [COBOL on Ubuntu: Installation, Setup, and First Steps](https://dev.to/pablojavierjimenez/cobol-on-ubuntu-installation-setup-and-first-steps-3epd)
+- [Cloudflare: Uma Plataforma Essencial para Segurança, Desempenho e Confiabilidade na Web](https://dev.to/ikauedev/cloudflare-uma-plataforma-essencial-para-seguranca-desempenho-e-confiabilidade-na-web-2o2d)
+- [Why Modern Data Centers Need a Unified Approach to Firmware, Driver, and OS Validation](https://dev.to/gopimahesh/why-modern-data-centers-need-a-unified-approach-to-firmware-driver-and-os-validation-44c2)
+- [I Built Production-Ready 2FA &lpar;TOTP&rpar; in Node.js + Angular - Here&#39;s How](https://dev.to/kohsin/i-built-production-ready-2fa-totp-in-nodejs-angular-heres-how-1deb)
+- [Context - Bridging the AI Agent&#39;s Blind Spot](https://dev.to/elbanic/context-bridging-the-ai-agents-blind-spot-38d6)
+- [Maximize Your Online Courses: How Developers Can Create and Sell Technical Courses](https://dev.to/softwaredeveloperhub01/maximize-your-online-courses-how-developers-can-create-and-sell-technical-courses-10o2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
