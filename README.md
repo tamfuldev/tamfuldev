@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GenAI for Engineers, What&#39;s Real, What&#39;s Not and What&#39;s Coming](https://dev.to/codingcatdev/genai-for-engineers-whats-real-whats-not-and-whats-coming-j7p)
-- [🌐 Deploying a Web Server VM and Installing IIS on Windows](https://dev.to/adebayo_ganiyatoladunjoy/deploying-a-web-server-vm-and-installing-iis-on-windows-1ga7)
-- [REMI Superada: evolución tras el Agentic Postgres Challenge](https://dev.to/jramone3/remi-superada-evolucion-tras-el-agentic-postgres-challenge-4iif)
-- [สร้างตัวคำนวณเบื้องต้นสำหรับคาดเดาหุ้น](https://dev.to/__08edb5b142a/sraangtawkhamnwnebuuengtnsamhrabkhaadedaahun-14ge)
-- [Codeless Test Automation Tools — Are They Worth the Hype?](https://dev.to/emilyjackson/codeless-test-automation-tools-are-they-worth-the-hype-417m)
+- [Embedding AI Inside PostgreSQL : Building a Native C++ Extension.](https://dev.to/abiji-2020/embedding-ai-inside-postgresql-building-a-native-c-extension-5b8b)
+- [🔥 Account Abstraction &lpar;ERC-4337&rpar;](https://dev.to/omniradhanexus/account-abstraction-erc-4337-55f6)
+- [What is Anti-Harassment and Anti-Discrimination Policy](https://dev.to/writegenic/what-is-anti-harassment-and-anti-discrimination-policy-4o04)
+- [CSS has become too POWERFUL](https://dev.to/andreas_mller_ecc8e88f6f/css-has-become-too-powerful-34ke)
+- [Installing Google Antigravity on Arch &lpar;And Fixing That Annoying Login Loop&rpar;](https://dev.to/pyonarch/installing-google-antigravity-on-arch-and-fixing-that-annoying-login-loop-4ji3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
