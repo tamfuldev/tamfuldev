@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Engineering Apps to Scale &lpar;Without Breaking&rpar;](https://dev.to/kiddo4lyf/engineering-apps-to-scale-without-breaking-5gff)
-- [JSON is Costing You Money: Enter TOON - the Format Built for LLMs](https://dev.to/maikidev/json-is-costing-you-money-enter-toon-the-format-built-for-llms-4ce8)
-- [📌 How to build a context-first cloud collaboration model](https://dev.to/tarakinfracodebase/how-to-build-a-context-first-cloud-collaboration-model-52pc)
-- [How to Sync Anything: Building a Sync Engine from Scratch — Part 2](https://dev.to/moremaddy/how-to-sync-anything-building-a-sync-engine-from-scratch-part-2-hjb)
-- [Cloud-Based Android Testing: Comparing Infrastructure Options for Development Teams](https://dev.to/digitalgrowthpro/cloud-based-android-testing-comparing-infrastructure-options-for-development-teams-42e)
+- [How not to disappear from the office one minute before closing time](https://dev.to/polyapolza108/how-not-to-disappear-from-the-office-one-minute-before-closing-time-51dg)
+- [TypeScript vs. JavaScript: Which One Should You Use in 2025?](https://dev.to/masteringbackend/typescript-vs-javascript-which-one-should-you-use-in-2025-3aaj)
+- [The Missing Layer Between Data and AI Agents](https://dev.to/hoshang_mehta/the-missing-layer-between-data-and-ai-agents-3316)
+- [Stop Wasting LLM Tokens: Introducing CTON &lpar;Compact Token-Oriented Notation&rpar;](https://dev.to/daviducolo/stop-wasting-llm-tokens-introducing-cton-compact-token-oriented-notation-2kj8)
+- [My views dropped like a bag of bricks the last 2 - 3 weeks](https://dev.to/alifar/my-views-dropped-like-a-bag-of-bricks-the-last-2-3-weeks-50cn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
