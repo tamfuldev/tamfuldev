@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Nuxt Tutorial 5 - Middleware](https://dev.to/aloisseckar/nuxt-tutorial-5-middleware-3e5a)
-- [What Is Learn-to-Steer? NVIDIA’s 2025 Spatial Fix for Text-to-Image Diffusion](https://dev.to/davidevans/what-is-learn-to-steer-nvidias-2025-spatial-fix-for-text-to-image-diffusion-4eoe)
-- [Embedded Swift Gets Major Upgrades in Swift 6.3](https://dev.to/arshtechpro/embedded-swift-gets-major-upgrades-in-swift-63-190m)
-- [Quick Update on EcoFurball: New Guide Published + Behind the Scenes](https://dev.to/ecofurball/quick-update-on-ecofurball-new-guide-published-behind-the-scenes-50ke)
-- [The Hidden Failure Pattern Behind the AWS, Azure and Cloudflare Outages of 2025](https://dev.to/codedetech/the-hidden-failure-pattern-behind-the-aws-azure-and-cloudflare-outages-of-2025-462n)
+- [The Tool I Finally Built to Escape My Terminal Chaos](https://dev.to/madsendev/the-tool-i-finally-built-to-escape-my-terminal-chaos-37cl)
+- [Day 16 : Rest](https://dev.to/stackbento/day-16-rest-gfa)
+- [Why Business Central’s Standard Scheduling Isn’t Enough for Complex Production Planning](https://dev.to/insight_works/why-business-centrals-standard-scheduling-isnt-enough-for-complex-production-planning-1h7i)
+- [Why Business Central’s Standard Scheduling Isn’t Enough for Complex Production Planning](https://dev.to/insight_works/why-business-centrals-standard-scheduling-isnt-enough-for-complex-production-planning-4486)
+- [Testing the Pioneer DDJ-FLX10: First Impressions from a Working DJ](https://dev.to/taylor_thomson/testing-the-pioneer-ddj-flx10-first-impressions-from-a-working-dj-2nh0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
