@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Embedding AI Inside PostgreSQL : Building a Native C++ Extension.](https://dev.to/abiji-2020/embedding-ai-inside-postgresql-building-a-native-c-extension-5b8b)
-- [🔥 Account Abstraction &lpar;ERC-4337&rpar;](https://dev.to/omniradhanexus/account-abstraction-erc-4337-55f6)
-- [What is Anti-Harassment and Anti-Discrimination Policy](https://dev.to/writegenic/what-is-anti-harassment-and-anti-discrimination-policy-4o04)
-- [CSS has become too POWERFUL](https://dev.to/andreas_mller_ecc8e88f6f/css-has-become-too-powerful-34ke)
-- [Installing Google Antigravity on Arch &lpar;And Fixing That Annoying Login Loop&rpar;](https://dev.to/pyonarch/installing-google-antigravity-on-arch-and-fixing-that-annoying-login-loop-4ji3)
+- [Puppet Core 8.16.0 Released with Several Security Updates](https://dev.to/puppet/puppet-core-8160-released-with-several-security-updates-179b)
+- [Harnessing AI for Better Trading Performance: An Active Trader’s Guide](https://dev.to/traderesona/harnessing-ai-for-better-trading-performance-an-active-traders-guide-51pp)
+- [Building a Zero-Dependency Rate Limiter in Go &lpar;Token Bucket, Leaky Bucket, Sliding Window&rpar;](https://dev.to/maksat_ramazan_fbc992ffa9/building-a-zero-dependency-rate-limiter-in-go-token-bucket-leaky-bucket-sliding-window-134n)
+- [It’s Time to End the Era of Signature-Based Malware Detection](https://dev.to/semantics-av/its-time-to-end-the-era-of-signature-based-malware-detection-4no9)
+- [Hello World!](https://dev.to/mc_e628b010/hello-world-4476)
 <!-- BLOG-POST-LIST:END -->
 
 ---
