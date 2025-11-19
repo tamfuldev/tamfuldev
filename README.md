@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-19m)
-- [**Llamado ético y convincente a los sujetos obligados para l](https://dev.to/drcarlosruizviquez/llamado-etico-y-convincente-a-los-sujetos-obligados-para-l-5745)
-- [Deploy Python Apps Without the Cloud Complexity: A Practical Ubuntu Server Guide](https://dev.to/orue/deploy-python-apps-without-the-cloud-complexity-a-practical-ubuntu-server-guide-mcb)
-- [Top 5 Container Security Books in 2026](https://dev.to/aerabi/top-5-container-security-books-in-2026-2j5d)
-- [Recent Breakthrough in Edge AI: Ultra-Low Power Consumption](https://dev.to/drcarlosruizviquez/recent-breakthrough-in-edge-ai-ultra-low-power-consumption-5444)
+- [Alchemy Reimagined: AI-Powered Atom Creation for Novel Materials](https://dev.to/arvind_sundararajan/alchemy-reimagined-ai-powered-atom-creation-for-novel-materials-28ji)
+- [A Developer’s Guide to Getting Started With Cursor](https://dev.to/thecoollearner/a-developers-guide-to-getting-started-with-cursor-op6)
+- [A Senior Developer’s Guide to Python’s High-Performance Data Structures](https://dev.to/onlineproxy/a-senior-developers-guide-to-pythons-high-performance-data-structures-548m)
+- [Optimize Python Sorting with One Little Trick](https://dev.to/tilalis/optimize-python-sorting-with-one-little-trick-2gb)
+- [Creating a shared configuration module in Terraform](https://dev.to/denis_cooper_2e25f94af904/creating-a-shared-configuration-module-in-terraform-d5f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
