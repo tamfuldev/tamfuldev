@@ -4,11 +4,13 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-354o)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 4 - &#39;Inglourious Basterds’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-4-inglourious-basterds-1o6p)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-1fmf)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-204n)
-- [Mr Sunday Movies: Biggest Disney Bombs: The Sorcerer&#39;s Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-biggest-disney-bombs-the-sorcerers-apprentice-caravan-of-garbage-41pd)
+- [What It Feels Like to Start Tech at 33 and Get Ignored](https://dev.to/bradleymatera/what-it-feels-like-to-start-tech-at-33-and-get-ignored-3b07)
+- [🌍 We are 14-year-old students from Valleyspur International School, Uganda, and we built a complete SDG website from scratch 😳🔥
+
+Our website teaches what to do during war, shows safe locations on a live map, includes emergency call buttons, videos, voic](https://dev.to/mikekeith/we-are-14-year-old-students-from-valleyspur-international-school-uganda-and-we-built-a-complete-fod)
+- [Why JWTs Make Terrible Authorization Tokens](https://dev.to/stevenstuartm/why-jwts-make-terrible-authorization-tokens-3c8g)
+- [Text Based 1-on-1s are Effective](https://dev.to/stakiran/text-based-1-on-1s-are-effective-328d)
+- [The Architect’s Mindset: Structuring Data for Robust AI Pipelines](https://dev.to/onlineproxy/the-architects-mindset-structuring-data-for-robust-ai-pipelines-3lbn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
