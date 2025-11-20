@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GraphBit vs. LangChain, LlamaIndex, Haystack, and similar tools](https://dev.to/yeahiasarker/graphbit-vs-langchain-llamaindex-haystack-and-similar-tools-26cm)
-- [Top 6 WordPress Heatmap Plugins to Decode Real User Behavior](https://dev.to/paloma_kingsley_8f28c45cb/top-6-wordpress-heatmap-plugins-to-decode-real-user-behavior-252f)
-- [Importancia y Evolución de Java](https://dev.to/devchtech/importancia-y-evolucion-de-java-1i7o)
-- [Why Millions Choose Aetna for Health Coverage](https://dev.to/aetnahealth/why-millions-choose-aetna-for-health-coverage-5eph)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 4 - &#39;Inglourious Basterds’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-4-inglourious-basterds-57fp)
+- [Why RAG and Agent Systems Are Unstable — A Minimal Deterministic Planner POC](https://dev.to/yuer/why-rag-and-agent-systems-are-unstable-a-minimal-deterministic-planner-poc-3gfb)
+- [Most Automation Isn&#39;t Really Automation](https://dev.to/michael_zelensky/most-automation-isnt-really-automation-39l)
+- [[Boost]](https://dev.to/marabesi/-4ah1)
+- [Akuna OA — “Not Hard, Just Don’t Mess Up](https://dev.to/net_programhelp_e160eef28/akuna-oa-not-hard-just-dont-mess-up-34jo)
+- [Sign Android apps using 1Password](https://dev.to/devtronic/sign-android-apps-using-1password-1meh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
