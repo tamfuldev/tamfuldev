@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Making Chaos Conversational: A Beginner-Friendly Guide to the LitmusChaos MCP Server](https://dev.to/litmus-chaos/making-chaos-conversational-a-beginner-friendly-guide-to-the-litmuschaos-mcp-server-2ia)
-- [TDD Tests Assumptions, Not Just Code](https://dev.to/stevenstuartm/tdd-tests-assumptions-not-just-code-3oa7)
-- [Databricks Implementation: Best Practices for Data Teams](https://dev.to/noahsmith5/databricks-implementation-best-practices-for-data-teams-47eh)
-- [AI Code Generation Requires the Skills It Promises to Replace](https://dev.to/stevenstuartm/ai-code-generation-requires-the-skills-it-promises-to-replace-5c3)
-- [Agile Works When People Align, Agree, and Deliver](https://dev.to/stevenstuartm/agile-works-when-people-align-agree-and-deliver-2ppl)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-354o)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 4 - &#39;Inglourious Basterds’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-4-inglourious-basterds-1o6p)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-1fmf)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-204n)
+- [Mr Sunday Movies: Biggest Disney Bombs: The Sorcerer&#39;s Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-biggest-disney-bombs-the-sorcerers-apprentice-caravan-of-garbage-41pd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
