@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [FastAPI Mongo Admin: The Admin Interface Every FastAPI Developer Needs](https://dev.to/tushortz/fastapi-mongo-admin-the-admin-interface-every-fastapi-developer-needs-4jlf)
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-49mc)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 4 - &#39;Inglourious Basterds’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-4-inglourious-basterds-35a9)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-27jb)
-- [🚀 Introducing eXo Platform 7.1: A More Intuitive, Open-Source Digital Workplace for Developers &amp; Teams](https://dev.to/wassim_zlitni_6356daf9b3b/introducing-exo-platform-71-a-more-intuitive-open-source-digital-workplace-for-developers--1epi)
+- [When the Internet Broke: What Really Happened During the Cloudflare Outage](https://dev.to/roan911/when-the-internet-broke-what-really-happened-during-the-cloudflare-outage-4lfo)
+- [How We Built The First Open-Source Rust Core Agentic AI Framework](https://dev.to/yeahiasarker/how-we-built-the-first-open-source-rust-core-agentic-ai-framework-3kfc)
+- [Exploring Extension Blocks in .NET 10](https://dev.to/rasheedmozaffar/exploring-extension-blocks-in-net-10-ijo)
+- [Engineering Trust: Understanding Systems Beyond Repairs](https://dev.to/repair_shopabbasi_24c24b/engineering-trust-understanding-systems-beyond-repairs-1jcg)
+- [MP 1.300/2025: Entenda os Prazos e Custos para Retornar ao Mercado Cativo](https://dev.to/ava_mendes/mp-13002025-entenda-os-prazos-e-custos-para-retornar-ao-mercado-cativo-2kb6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
