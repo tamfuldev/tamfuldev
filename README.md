@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Backend Routing Like a Pro](https://dev.to/yuktisays/understanding-backend-routing-like-a-pro-9id)
-- [The Difference Between Unrestricted and Restricted Integer Partitions](https://dev.to/ganesh-kumar/the-difference-between-unrestricted-and-restricted-integer-partitions-548o)
-- [overflow](https://dev.to/nikimunger/overflow-2781)
-- [Generate MCP Tool Schemas Directly From Java Code](https://dev.to/sualeh/generate-mcp-tool-schemas-directly-from-java-code-3bif)
-- [Implementing BitDT: A Step-by-Step Guide to Date-Time Lossless Compression](https://dev.to/danexcodr/implementing-bitdt-a-step-by-step-guide-to-date-time-compression-30h7)
+- [Server Side Rendering Explained for People Who Have Never Heard of It](https://dev.to/rijultp/server-side-rendering-explained-for-people-who-have-never-heard-of-it-1pef)
+- [🚀 Experience Liftoff: Google Antigravity—The Agent-First IDE Redefining Development](https://dev.to/sauravkumar8178/experience-liftoff-google-antigravity-the-agent-first-ide-redefining-development-55oe)
+- [MVP Agent — AI-powered MVP Blueprints &lpar;Gradio + Gemini + MCP&rpar;](https://dev.to/furqanahmadrao/mvp-agent-ai-powered-mvp-blueprints-gradio-gemini-mcp-2mp5)
+- [How to Create Interactive UIs with Animation and Transition Effects in ArkUI](https://dev.to/harmonyos/how-to-create-interactive-uis-with-animation-and-transition-effects-in-arkui-10hh)
+- [Free Developer Tools: How I Built a Complete Toolkit for the Community](https://dev.to/creative_brain_inc/free-developer-tools-how-i-built-a-complete-toolkit-for-the-community-3b2b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
