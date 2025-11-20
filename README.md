@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Tool I Finally Built to Escape My Terminal Chaos](https://dev.to/madsendev/the-tool-i-finally-built-to-escape-my-terminal-chaos-37cl)
-- [Day 16 : Rest](https://dev.to/stackbento/day-16-rest-gfa)
-- [Why Business Central’s Standard Scheduling Isn’t Enough for Complex Production Planning](https://dev.to/insight_works/why-business-centrals-standard-scheduling-isnt-enough-for-complex-production-planning-1h7i)
-- [Why Business Central’s Standard Scheduling Isn’t Enough for Complex Production Planning](https://dev.to/insight_works/why-business-centrals-standard-scheduling-isnt-enough-for-complex-production-planning-4486)
-- [Testing the Pioneer DDJ-FLX10: First Impressions from a Working DJ](https://dev.to/taylor_thomson/testing-the-pioneer-ddj-flx10-first-impressions-from-a-working-dj-2nh0)
+- [Best Primer For Miniatures, The Confident Choice For Perfect Coverage](https://dev.to/dragoongaminguk/best-primer-for-miniatures-the-confident-choice-for-perfect-coverage-2jf6)
+- [Introduction to GO Programming](https://dev.to/srinivasuluparanduru/introduction-to-go-programming-3blh)
+- [dev diary 20251119](https://dev.to/hirooka_kazuya_d7f37d3cde/dev-diary-20251119-g91)
+- [Cool Features in AWS CloudFormation](https://dev.to/shajam/cool-features-in-aws-cloudformation-2f0c)
+- [Real-time Metrics and Ring Balance: A Major TUI Upgrade for LimeDB](https://dev.to/namanvashistha/real-time-metrics-and-ring-balance-a-major-tui-upgrade-for-limedb-5cgh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
