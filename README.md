@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Best Primer For Miniatures, The Confident Choice For Perfect Coverage](https://dev.to/dragoongaminguk/best-primer-for-miniatures-the-confident-choice-for-perfect-coverage-2jf6)
-- [Introduction to GO Programming](https://dev.to/srinivasuluparanduru/introduction-to-go-programming-3blh)
-- [dev diary 20251119](https://dev.to/hirooka_kazuya_d7f37d3cde/dev-diary-20251119-g91)
-- [Cool Features in AWS CloudFormation](https://dev.to/shajam/cool-features-in-aws-cloudformation-2f0c)
-- [Real-time Metrics and Ring Balance: A Major TUI Upgrade for LimeDB](https://dev.to/namanvashistha/real-time-metrics-and-ring-balance-a-major-tui-upgrade-for-limedb-5cgh)
+- [I’m starting with Unity and want to create 2D games — What advice would you give me to stay motivated and learn properly?](https://dev.to/josue_chambilla_5994a4735/im-starting-with-unity-and-want-to-create-2d-games-what-advice-would-you-give-me-to-stay-eh)
+- [Mutex and Lock Guard in C++](https://dev.to/min38/mutex-and-lock-guard-in-c-17i9)
+- [My Open-Source Contribution - Working on TypeScript-ESLint](https://dev.to/oleksandrakordonets/my-open-source-contribution-working-on-typescript-eslint-gmd)
+- [API Gateway vs Service Mesh: Beyond the North–South/East–West Myth](https://dev.to/rajkundalia/api-gateway-vs-service-mesh-beyond-the-north-southeast-west-myth-2mpg)
+- [Daily AI &amp; Automation Tech News - November 20, 2025](https://dev.to/w3j/daily-ai-automation-tech-news-november-20-2025-m2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
