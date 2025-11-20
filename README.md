@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Pinduoduo API: Tutorial on Retrieving Product Details Page Data via Product Link](https://dev.to/vx_19970108018/pinduoduo-api-tutorial-on-retrieving-product-details-page-data-via-product-link-a43)
-- [A Zero-Build Web Framework with Pure JavaScript](https://dev.to/benlue/a-zero-build-web-framework-with-pure-javascript-4cpb)
-- [Are you really wasting your time in Java without these 10 libraries?](https://dev.to/nfrankel/are-you-really-wasting-your-time-in-java-without-these-10-libraries-jko)
-- [Cheat Sheet for Carbone](https://dev.to/carbone/cheat-sheet-for-carbone-2ikd)
-- [How Gemini 3 Is Changing the Way Developers Build, Document, and Automate](https://dev.to/therealmrmumba/how-gemini-3-is-changing-the-way-developers-build-document-and-automate-4f8j)
+- [FastAPI Mongo Admin: The Admin Interface Every FastAPI Developer Needs](https://dev.to/tushortz/fastapi-mongo-admin-the-admin-interface-every-fastapi-developer-needs-4jlf)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-49mc)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 4 - &#39;Inglourious Basterds’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-4-inglourious-basterds-35a9)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-27jb)
+- [🚀 Introducing eXo Platform 7.1: A More Intuitive, Open-Source Digital Workplace for Developers &amp; Teams](https://dev.to/wassim_zlitni_6356daf9b3b/introducing-exo-platform-71-a-more-intuitive-open-source-digital-workplace-for-developers--1epi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
