@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [VitePress debug: &quot;frontmatter.title&quot; is appearing in search results](https://dev.to/ahandsel/vitepress-debug-frontmattertitle-is-appearing-in-search-results-k60)
-- [Deterministic RAG: A Drop-in Replacement for GraphRAG’s Unstable Planning](https://dev.to/yuer/deterministic-rag-a-drop-in-replacement-for-graphrags-unstable-planning-3pii)
-- [Delete Paragraphs in Word Documents using C#](https://dev.to/codingco/delete-paragraphs-in-word-documents-using-c-9c7)
-- [المحامي الشاب الخلوق احمد الرضوان - اشهر محامين الكويت](https://dev.to/__f5bf0895f9bb7e/lmhmy-lshb-lkhlwq-hmd-lrdwn-shhr-mhmyn-lkwyt-17gn)
-- [Integrating Machine Learning into .NET Healthcare Apps](https://dev.to/evawilson01/integrating-machine-learning-into-net-healthcare-apps-113h)
+- [JsonTree for Mantine UI: A Delightfully Simple Way to Inspect Any Data Structure](https://dev.to/undolog/jsontree-for-mantine-ui-a-delightfully-simple-way-to-inspect-any-data-structure-25ne)
+- [Angular PDF Libraries: Free &amp; Paid Tools &lpar;In-Depth Developer Guide&rpar;](https://dev.to/mohammedibrahimlj/angular-pdf-libraries-free-paid-tools-in-depth-developer-guide-59fl)
+- [How to Fix a Commit Message](https://dev.to/david_shimon_0c086967acb5/how-to-fix-a-commit-message-14ec)
+- [Python by Structure: Decorator Chains and Execution Order](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-decorator-chains-and-execution-order-13p0)
+- [Help with Story Points Estimation](https://dev.to/eduluz1976/help-with-story-points-estimation-1k4a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
