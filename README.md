@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Face Detection App with Python OOP — From Zero to Pro&lpar;part-5&rpar;](https://dev.to/mohammadreza_mahdian_3841/build-a-face-detection-app-with-python-oop-from-zero-to-propart-5-2hpb)
-- [REMI: A Fully Auditable Autonomous Agent for Technical, Symbolic, and Financial Impact](https://dev.to/jramone3/remi-a-fully-auditable-autonomous-agent-for-technical-symbolic-and-financial-impact-ekj)
-- [How I Orchestrate Agentic Workflows With GitHub Spec-Kit and Google Antigravity](https://dev.to/prefrontalsys/how-i-orchestrate-agentic-workflows-with-github-spec-kit-and-google-antigravity-257l)
-- [Stock Price Prediction &lpar;Use 5 Model&rpar;](https://dev.to/mikihinasann_9cab577c3f19/stock-price-prediction-use-5-model-from-keras-180f)
-- [How to Sell Your Skills with a Small Project](https://dev.to/bradleymatera/how-to-sell-your-skills-with-a-small-project-1h0p)
+- [DSA Fundamentals: Linked Lists - Mastering Dynamic Data Structures](https://dev.to/jayk0001/dsa-fundamentals-linked-lists-mastering-dynamic-data-structures-195l)
+- [JS Thread, Native UI Thread, The Bridge and the Shadow Layer in React Native - analogy](https://dev.to/cathylai/js-thread-native-ui-thread-the-bridge-and-the-shadow-layer-in-react-native-analogy-167c)
+- [Building and Publishing tree2fs: A Python Package for Folders/Files Generation](https://dev.to/abdellahhallou/building-and-publishing-tree2fs-a-python-package-for-foldersfiles-generation-344b)
+- [Understanding Basic Networking Fundamentals as a Devops Engineer](https://dev.to/jic/understanding-basic-networking-fundamentals-as-a-devops-engineer-178o)
+- [Allow your team to share product analytics reports from Supabase without giving them database access](https://dev.to/kyleledbetter/allow-your-team-to-share-product-analytics-reports-from-supabase-without-giving-them-database-access-5ab)
 <!-- BLOG-POST-LIST:END -->
 
 ---
