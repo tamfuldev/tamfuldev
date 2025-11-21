@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DSA Fundamentals: Linked Lists - Mastering Dynamic Data Structures](https://dev.to/jayk0001/dsa-fundamentals-linked-lists-mastering-dynamic-data-structures-195l)
-- [JS Thread, Native UI Thread, The Bridge and the Shadow Layer in React Native - analogy](https://dev.to/cathylai/js-thread-native-ui-thread-the-bridge-and-the-shadow-layer-in-react-native-analogy-167c)
-- [Building and Publishing tree2fs: A Python Package for Folders/Files Generation](https://dev.to/abdellahhallou/building-and-publishing-tree2fs-a-python-package-for-foldersfiles-generation-344b)
-- [Understanding Basic Networking Fundamentals as a Devops Engineer](https://dev.to/jic/understanding-basic-networking-fundamentals-as-a-devops-engineer-178o)
-- [Allow your team to share product analytics reports from Supabase without giving them database access](https://dev.to/kyleledbetter/allow-your-team-to-share-product-analytics-reports-from-supabase-without-giving-them-database-access-5ab)
+- [The fastest way to start a Mithril + Ionic + Vite project in 2025](https://dev.to/dejy/the-fastest-way-to-start-a-mithril-ionic-vite-project-in-2025-2lon)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-10c0)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 4 - &#39;Inglourious Basterds’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-4-inglourious-basterds-38fo)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-lln)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-4ej)
 <!-- BLOG-POST-LIST:END -->
 
 ---
