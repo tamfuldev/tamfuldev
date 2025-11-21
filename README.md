@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/jimmymcbride/-16jb)
-- [Why the MITRE ATT&amp;CK Framework Actually Works](https://dev.to/johnjvester/why-the-mitre-attck-framework-actually-works-302i)
-- [No other Icons Library Needed 🥶](https://dev.to/unseenumair/no-other-icons-library-needed-4500)
-- [How to Connect HubSpot in SSIS](https://dev.to/zappysys/how-to-connect-hubspot-in-ssis-21hj)
-- [📸 How I Used Gemini 3 to Build a Retro Camera Tool](https://dev.to/vatsal2210/how-i-used-gemini-3-to-build-a-retro-camera-tool-53pb)
+- [7 Dumb things I&#39;d do if I started a software company](https://dev.to/ivypuckett/7-dumb-things-id-do-if-i-started-a-software-company-4khi)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-9el)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 4 - &#39;Inglourious Basterds’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-4-inglourious-basterds-1bgc)
+- [Ringer Movies: ‘Wicked: For Good’ Is No Good](https://dev.to/popcorn_movies/ringer-movies-wicked-for-good-is-no-good-pk7)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-3gbg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
