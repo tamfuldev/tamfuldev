@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build Your MVP: Find the Right Technical Co-Founder](https://dev.to/jean_chou_b0a8ad9c32addbd/build-your-mvp-find-the-right-technical-co-founder-2ok5)
-- [Um Primeiro Olhar sobre o Framework Phoenix](https://dev.to/actor-dev/um-primeiro-olhar-sobre-o-framework-phoenix-1f73)
-- [A First Look at the Phoenix Framework](https://dev.to/actor-dev/from-net-to-elixir-a-first-look-at-the-phoenix-framework-59jc)
-- [[Boost]](https://dev.to/anthonymax/-a2g)
-- [[Boost]](https://dev.to/david_bussell14/-55am)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-7lc)
+- [How to Disable Automatic Rearrangement of Desktops &lpar;Spaces&rpar; on Mac](https://dev.to/shawon/how-to-disable-automatic-rearrangement-of-desktops-spaces-on-mac-50kn)
+- [Building a DDoS Attack Simulator to Understand Defense Strategies](https://dev.to/devopsdaily/building-a-ddos-attack-simulator-to-understand-defense-strategies-lg4)
+- [Introducing Business Directory Script — A Complete Base to Build Modern Directory Websites](https://dev.to/viktoriaholikova/introducing-business-directory-script-a-complete-base-to-build-modern-directory-websites-3379)
+- [How I Started Writing Unit Tests for Vue Components - Part 2](https://dev.to/byteminds/how-i-started-writing-unit-tests-for-vue-components-part-2-2cgj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
