@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-414p)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-293l)
-- [How to Achieve 100/100 on PageSpeed Insights](https://dev.to/danieltofan/how-to-achieve-100100-on-pagespeed-insights-39e9)
-- [Building a Simple Ticket Tracker CLI in Go](https://dev.to/chris-amaechi/building-a-simple-ticket-tracker-cli-in-go-39fp)
-- [From Prototype to Production: How to Engineer Reliable LLM Systems](https://dev.to/aiden_up_b0673604178ec753/from-prototype-to-production-how-to-engineer-reliable-llm-systems-2eff)
+- [Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-4k1o)
+- [Mintlify Ignored This Feature Request for 6 Months. Here&#39;s Our Solution.](https://dev.to/realfishsam/mintlify-ignored-this-feature-request-for-6-months-heres-our-solution-1jan)
+- [Version 1.0.0 Released! My Repo Extraction Tool is now available on NPM!](https://dev.to/whyang9701/100-published-my-repo-extraction-tool-is-on-npm-now-2fbk)
+- [The Divine Algorithm: A Developer’s Confession](https://dev.to/crow004/the-divine-algorithm-a-developers-confession-30jd)
+- [Effective Communication Tips for Engineering Managers](https://dev.to/diamantino_almeida/effective-communication-tips-for-engineering-managers-11ec)
 <!-- BLOG-POST-LIST:END -->
 
 ---
