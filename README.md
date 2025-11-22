@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [PHP - instalación y configuración en Ubuntu](https://dev.to/oscarpincho/php-instalacion-y-configuracion-en-ubuntu-10n8)
-- [From Weeks to 15 Minutes: How We Built a Data Migration System That Changed Everything](https://dev.to/mr_harshkumar_jha/from-weeks-to-15-minutes-how-we-built-a-data-migration-system-that-changed-everything-9gg)
-- [GitHub Universe 2025 Recap](https://dev.to/bolt04/github-universe-2025-recap-9gl)
-- [Vasuki iTech Unveils Vasuki Cloud: A Unified, AI-Ready, Developer-First Cloud Platform for the Next Generation of Builders](https://dev.to/adamya_khairwal_9d2286eac/vasuki-itech-unveils-vasuki-cloud-a-unified-ai-ready-developer-first-cloud-platform-for-the-next-ge7)
-- [Untitled](https://dev.to/w_c_bbebf0827bbc4fbb8cbb4/untitled-11cj)
+- [How I Ended Up Building With GitHub Copilot &lpar;the Remote One&rpar; And Why It Still Feels Kinda Wild](https://dev.to/povilasjurcys/how-i-ended-up-building-with-github-copilot-the-remote-one-and-why-it-still-feels-kinda-wild-36c1)
+- [🚀 Learn to Code Like a Genius &lpar;and Not Waste Time&rpar; — A Practical Guide for Real Beginners](https://dev.to/nish2005karsh/learn-to-code-like-a-genius-and-not-waste-time-a-practical-guide-for-real-beginners-13ij)
+- [Modern Web Developer](https://dev.to/devshehzad/modern-web-developer-33pi)
+- [Why Django + Tailwind + Cursor AI is My Go-To Stack for Building MVPs Fast](https://dev.to/saad_khan_4e6e4fdf000fbf5/why-django-tailwind-cursor-ai-is-my-go-to-stack-for-building-mvps-fast-4lnj)
+- [Threat Modeling the YouTube Algorithm: A Security Researcher&#39;s Guide to Content Strategy](https://dev.to/gnomeman4201/-threat-modeling-the-youtube-algorithm-a-security-researchers-guide-to-content-strategy-1lmi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
