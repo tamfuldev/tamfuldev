@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-5896)
-- [Goodbye Green Screen: Why AI Background Removal Outperforms Traditional Editing](https://dev.to/freepixel11/goodbye-green-screen-why-ai-background-removal-outperforms-traditional-editing-3ih0)
-- [Be a Responsible Code Reviewer](https://dev.to/manojshr/be-a-responsible-code-reviewer-46ni)
-- [UK Unleashes New Cybersecurity Bill: Fortifying Digital Defenses After $28M Crypto Fraud](https://dev.to/nftsaz2025/uk-unleashes-new-cybersecurity-bill-fortifying-digital-defenses-after-28m-crypto-fraud-4j1g)
-- [Building Streaming Iceberg Tables for Real-Time Logistics Analytics](https://dev.to/awsugonair/building-streaming-iceberg-tables-for-real-time-logistics-analytics-43g4)
+- [Full-Stack Mobile Development &lpar;Flutter + Serverpod&rpar; #4 - Task CRUD Operations](https://dev.to/techwithsam/full-stack-mobile-development-flutter-serverpod-4-task-crud-operations-5fh7)
+- [How I Vibe Coded a Custom Telegram Downloader &lpar;Because Browser Throttling is the Worst&rpar;](https://dev.to/anay_pandya_bfac6bcdbb055/how-i-vibe-coded-a-custom-telegram-downloader-because-browser-throttling-is-the-worst-3alb)
+- [Building an End-to-End Monitoring Architecture in Azure for a Multi-Service Product](https://dev.to/techwithhari/building-an-end-to-end-monitoring-architecture-in-azure-for-a-multi-service-product-237j)
+- [JavaScript Clean Code Mastery: Part 2 - Functions That Do One Thing Well](https://dev.to/sizan_mahmud0_e7c3fd0cb68/javascript-clean-code-mastery-part-2-functions-that-do-one-thing-well-89f)
+- [How TV Ad Sales Work: A Complete Overview](https://dev.to/jeffkovacek/how-tv-ad-sales-work-a-complete-overview-1ij)
 <!-- BLOG-POST-LIST:END -->
 
 ---
