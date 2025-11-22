@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: Where Have All The Metalheads Gone?](https://dev.to/music_youtube/rick-beato-where-have-all-the-metalheads-gone-552d)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-517o)
-- [I built AppInfo - see what apps are actually doing on your phone 📱](https://dev.to/member_9a08d7fd/i-built-appinfo-see-what-apps-are-actually-doing-on-your-phone-35m)
-- [Common Coding Mistakes at Every Level &lpar;And How to Fix Them&rpar;](https://dev.to/thebitforge/common-coding-mistakes-at-every-level-and-how-to-fix-them-4cgb)
-- [Python Registry Pattern: A Clean Alternative to Factory Classes](https://dev.to/dentedlogic/stop-writing-giant-if-else-chains-master-the-python-registry-pattern-ldm)
+- [🧹 The Garbage Collector of Java City — A Story About Memory and Mess](https://dev.to/shweta_aee818203e9dffed84/the-garbage-collector-of-java-city-a-story-about-memory-and-mess-414d)
+- [🚀 Code Tracker AI™ — A Smarter, Healthier Way to Build Software](https://dev.to/monahidalgo/code-tracker-ai-a-smarter-healthier-way-to-build-software-7pj)
+- [Daily Times - Classic Newspaper Homepage Template](https://dev.to/preetha_vaishnavi_2b82358/daily-times-classic-newspaper-homepage-template-3b92)
+- [From image to HTTPS endpoint in one step with ECS Express Mode](https://dev.to/aws-builders/from-image-to-https-endpoint-in-one-step-with-ecs-express-mode-1oi2)
+- [Understanding the Transaction Lifecycle: A Deep Dive into Hedera SDK Documentation](https://dev.to/cynthia_f/understanding-the-transaction-lifecycle-a-deep-dive-into-hedera-sdk-documentation-lnj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
