@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 18 Django learnings](https://dev.to/stackbento/day-18-django-learings-58ng)
-- [The DoD Experiment: Trying to Fix ‘Done’ Before It Breaks Us](https://dev.to/dexluce/the-dod-experiment-trying-to-fix-done-before-it-breaks-us-5ho2)
-- [Coding Challenge Practice - Question 62](https://dev.to/tomivan/coding-challenge-practice-question-62-5fbi)
-- [Sets do not possess order](https://dev.to/onaolapo11/sets-do-not-possess-order-1cmc)
-- [WisdomFlow — An AI-Powered Inspirational App Built with Uno Platform](https://dev.to/joshua_tobi_03b6c612876f3/wisdomflow-an-ai-powered-inspirational-app-built-with-uno-platform-36no)
+- [Tiny Games, Big Feelings](https://dev.to/diegodotta/tiny-games-big-feelings-4oke)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-179c)
+- [Axelang - A Systems Programming Language with Concurrency as a First-Class feature](https://dev.to/navidm/axelang-a-systems-programming-language-with-concurrency-as-a-first-class-feature-4i3b)
+- [Nested query strings in depth — a complete technical guide](https://dev.to/silentwatcher_95/nested-query-strings-in-depth-a-complete-technical-guide-1io8)
+- [A Complete Guide to WebSockets and Socket IO](https://dev.to/afonso_faro_23584ec6be099/a-complete-guide-to-websockets-and-socket-io-2bl9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
