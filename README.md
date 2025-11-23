@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Search Engines Actually Answer Your Questions](https://dev.to/superorange0707/how-search-engines-actually-answer-your-questions-h21)
-- [Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-i03)
-- [Build a Local Kubernetes Cluster in Minutes with Terraform and Multipass](https://dev.to/todoroff/build-a-local-kubernetes-cluster-in-minutes-with-terraform-and-multipass-14e4)
-- [llm_models: keeping up with LLM frontier model versions](https://dev.to/ljbuturovic/llmmodels-keeping-up-with-llm-frontier-model-versions-1dh9)
-- [Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-hl1)
+- [The Experiment Ojalá, performed using Perplexity AI, showed the new algorithm detects triangles in large graphs over 100x faster than NetworkX, with results visualized and benchmarked for accuracy and speed.](https://dev.to/frank_vega_987689489099bf/the-ojala-experiment-performed-using-perplexity-ai-showed-the-new-algorithm-detects-triangles-in-3l47)
+- [I Solo-Built a Gamer Social Network in 9 Months](https://dev.to/ajax_selectbuttongames_/i-solo-built-a-gamer-social-network-in-9-months-3e21)
+- [Understanding PL/SQL Collections: Associative Arrays, Nested Tables, and VARRAYs](https://dev.to/ayako_yk/understanding-plsql-collections-associative-arrays-nested-tables-and-varrays-3bmp)
+- [Experiment Ojalá](https://dev.to/frank_vega_987689489099bf/experiment-ojala-22b4)
+- [Global Optimization: Finding the Needle in a Haystack – Faster by Arvind Sundararajan](https://dev.to/arvind_sundararajan/global-optimization-finding-the-needle-in-a-haystack-faster-by-arvind-sundararajan-dlb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
