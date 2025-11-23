@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-3c9j)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-l9b)
-- [ISO 27001 in 6 Months](https://dev.to/ccscaesar/iso-27001-in-6-months-2o8k)
-- [1262. Greatest Sum Divisible by Three](https://dev.to/mdarifulhaque/1262-greatest-sum-divisible-by-three-52co)
-- [Building a Contest Alarm App for Codeforces &amp; AtCoder — Need Suggestions](https://dev.to/md_shahriaswapno_ea91d1e/building-a-contest-alarm-app-for-codeforces-atcoder-need-suggestions-4560)
+- [Data Locality vs. Independence: Which Should Your Database Prioritize?](https://dev.to/franckpachot/data-locality-vs-independence-which-should-your-database-prioritize-1gjb)
+- [Real estate app built with Next.js 16, shadcn/ui, and Prisma. Browse, list, and manage properties](https://dev.to/saidmounaim/real-estate-app-built-with-nextjs-16-shadcnui-and-prisma-browse-list-and-manage-properties-32e)
+- [Building a Serverless Notes App with AWS Amplify, Cognito, Lambda, DynamoDB &amp; API Gateway](https://dev.to/siddhesmm303/building-a-serverless-notes-app-with-aws-amplify-cognito-lambda-dynamodb-api-gateway-23o1)
+- [Building a static AI friendly landing page as an experiment](https://dev.to/marcustas/building-a-static-ai-friendly-landing-page-as-an-experiment-2098)
+- [Deploy Rust Agent to AWS AgentCore Runtime with GitHub actions](https://dev.to/aws-builders/deploy-rust-agent-to-aws-agentcore-runtime-with-github-actions-3gf8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
