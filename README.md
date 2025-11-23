@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Data Locality vs. Independence: Which Should Your Database Prioritize?](https://dev.to/franckpachot/data-locality-vs-independence-which-should-your-database-prioritize-1gjb)
-- [Real estate app built with Next.js 16, shadcn/ui, and Prisma. Browse, list, and manage properties](https://dev.to/saidmounaim/real-estate-app-built-with-nextjs-16-shadcnui-and-prisma-browse-list-and-manage-properties-32e)
-- [Building a Serverless Notes App with AWS Amplify, Cognito, Lambda, DynamoDB &amp; API Gateway](https://dev.to/siddhesmm303/building-a-serverless-notes-app-with-aws-amplify-cognito-lambda-dynamodb-api-gateway-23o1)
-- [Building a static AI friendly landing page as an experiment](https://dev.to/marcustas/building-a-static-ai-friendly-landing-page-as-an-experiment-2098)
-- [Deploy Rust Agent to AWS AgentCore Runtime with GitHub actions](https://dev.to/aws-builders/deploy-rust-agent-to-aws-agentcore-runtime-with-github-actions-3gf8)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-5aaa)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-bgb)
+- [Dart on Ubuntu: Installation, Setup, and First Steps](https://dev.to/pablojavierjimenez/dart-on-ubuntu-installation-setup-and-first-steps-455j)
+- [NGINX Technical Practice: Configuration Guide for TCP Layer 4 Port Proxy and mTLS Mutual Encryption Authentication](https://dev.to/tiger_smith_9f421b9131db5/nginx-technical-practice-configuration-guide-for-tcp-layer-4-port-proxy-and-mtls-mutual-encryption-3flb)
+- [🚀 TOON for Laravel — A Complete Tutorial to Make AI Prompts Cheaper &amp; Faster](https://dev.to/sbsaga/toon-for-laravel-a-complete-tutorial-to-make-ai-prompts-cheaper-faster-4m0b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
