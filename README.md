@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Perl 🐪 Weekly #748 - Perl v5.43.5](https://dev.to/szabgab/perl-weekly-748-perl-v5435-30nl)
-- [Usando MongoDB com Brighter V10](https://dev.to/actor-dev/usando-mongodb-com-brighter-v10-53ie)
-- [Firebase Studio: Google&#39;s Game-Changer for AI App Development 🔥](https://dev.to/dvalin99/firebase-studio-googles-game-changer-for-ai-app-development-1388)
-- [Using MongoDB with Brighter V10](https://dev.to/actor-dev/using-mongodb-with-brighter-v10-39i0)
-- [INTRODUCTION TO DBT&lpar;Data Build Tool&rpar;](https://dev.to/john_analytics/introduction-to-dbtdata-build-tool-5aeg)
+- [N8N Code Node Best Practices for Python &lpar;+Task Runner Examples&rpar;](https://dev.to/yigit-konur/n8n-code-node-best-practices-for-python-task-runner-examples-k2g)
+- [Cursor’s Secret Rules &lpar;and the Folder You Need to Understand&rpar;](https://dev.to/maheshkale/cursors-secret-rules-and-the-folder-you-need-to-understand-ai4)
+- [How I Built a Pseudocode Runner &lpar;With Zero Coding Experience&rpar; Using Compyle’s Tools](https://dev.to/idrees_qazi_9a5251741d4fe/how-i-built-a-pseudocode-runner-with-zero-coding-experience-using-compyles-tools-4da3)
+- [How to Prevent Backup-related Throttling Without Losing Data &lpar;or Mind&rpar;](https://dev.to/gitprotect/how-to-prevent-backup-related-throttling-without-losing-data-or-mind-3k4k)
+- [Working with Hibernate in Java - Part 1: Using xml config](https://dev.to/mayyaannkk/working-with-hibernate-in-java-part-1-using-xml-config-44f9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
