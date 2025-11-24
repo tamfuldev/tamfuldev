@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [8-Bit Music Theory: Kirby Air Riders&#39; Music is FUN FUN FUN](https://dev.to/music_youtube/8-bit-music-theory-kirby-air-riders-music-is-fun-fun-fun-30ni)
-- [How to Build a High Availability SaaS Platform with Kubernetes](https://dev.to/lucas_wade_0596/how-to-build-a-high-availability-saas-platform-with-kubernetes-124)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-4p8k)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-25ae)
-- [AWS IAM Outbound OIDC with Google Cloud Identity Pool](https://dev.to/aws-builders/aws-iam-outbound-oidc-with-google-cloud-identity-pool-5ak7)
+- [Perl 🐪 Weekly #748 - Perl v5.43.5](https://dev.to/szabgab/perl-weekly-748-perl-v5435-30nl)
+- [Usando MongoDB com Brighter V10](https://dev.to/actor-dev/usando-mongodb-com-brighter-v10-53ie)
+- [Firebase Studio: Google&#39;s Game-Changer for AI App Development 🔥](https://dev.to/dvalin99/firebase-studio-googles-game-changer-for-ai-app-development-1388)
+- [Using MongoDB with Brighter V10](https://dev.to/actor-dev/using-mongodb-with-brighter-v10-39i0)
+- [INTRODUCTION TO DBT&lpar;Data Build Tool&rpar;](https://dev.to/john_analytics/introduction-to-dbtdata-build-tool-5aeg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
