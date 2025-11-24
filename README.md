@@ -4,14 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A 2009 IBM Patent That Solved Indoor Location Without GPS — And Got Cited 64 Times by Cisco, Microsoft, Avaya…](https://dev.to/sagar_joshi_31ac4ef39367a/a-2009-ibm-patent-that-solved-indoor-location-without-gps-and-got-cited-64-times-by-cisco-3pnn)
-- [AI-Assisted Engineering: A Senior Developer’s Framework for Speed, Quality, and Sound Technical Judgment](https://dev.to/ojsholly/ai-assisted-engineering-a-senior-developers-framework-for-speed-quality-and-sound-technical-15nh)
-- [🚀 Hello everyone
-I’ve recently launched our new website moradabads.com, where we focus on DSA, JavaScript output-based questions, articles, an online code compiler, and much more.
-
-I would really appreciate it if you could visit the website and share](https://dev.to/sumit_kumar_9fbda517e6961/hello-everyone-ive-recently-launched-our-new-website-moradabadscom-where-we-focus-on-dsa-4kbb)
-- [Packaging my Open Source Project - Release 1.0.0](https://dev.to/denisc96/packaging-my-open-source-project-release-100-5h7e)
-- [Solving React&#39;s &quot;Zombie Children,&quot; Tearing, and Context Loss with Zustand](https://dev.to/chaudharidevam/solving-reacts-zombie-children-tearing-and-context-loss-with-zustand-5d04)
+- [8-Bit Music Theory: Kirby Air Riders&#39; Music is FUN FUN FUN](https://dev.to/music_youtube/8-bit-music-theory-kirby-air-riders-music-is-fun-fun-fun-30ni)
+- [How to Build a High Availability SaaS Platform with Kubernetes](https://dev.to/lucas_wade_0596/how-to-build-a-high-availability-saas-platform-with-kubernetes-124)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-4p8k)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-25ae)
+- [AWS IAM Outbound OIDC with Google Cloud Identity Pool](https://dev.to/aws-builders/aws-iam-outbound-oidc-with-google-cloud-identity-pool-5ak7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
