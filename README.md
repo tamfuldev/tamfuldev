@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Coffee Haven - Uno Platform AI Challenge Entry](https://dev.to/shiva_shanker_k/coffee-haven-uno-platform-ai-challenge-entry-4ib)
-- [Better Agents CLI with Kilo Code and LangWatch](https://dev.to/kilocode/better-agents-cli-with-kilo-code-and-langwatch-16gc)
-- [The Rebirth of the Artist](https://dev.to/rawveg/the-rebirth-of-the-artist-213b)
-- [Rubree: A Modern Ruby Regex Editor Running Fully in Your Browser](https://dev.to/aim2bpg/rubree-a-modern-ruby-regex-editor-running-fully-in-your-browser-5g2b)
-- [From Code to Coffee: How Using Crypto in Daily Life Changed My Workflow &lpar;and What I Learned About On/Off Ramps&rpar; ☕️💸](https://dev.to/tanelith/from-code-to-coffee-how-using-crypto-in-daily-life-changed-my-workflow-and-what-i-learned-about-4k2p)
+- [A Client Asked Me to Add AI. I Spent 2 Weeks Researching the Costs. Here&#39;s What I Found.](https://dev.to/arbythecoder/a-client-asked-me-to-add-ai-i-spent-2-weeks-researching-the-costs-heres-what-i-found-nfc)
+- [Top 7 GenAI Usecases in Pharma](https://dev.to/newpagesolutions/top-7-genai-usecases-in-pharma-8o1)
+- [Why Most Salesforce Implementations in Pharma Don’t Deliver &lpar;And How to Avoid the Trap&rpar;](https://dev.to/newpagesolutions/why-most-salesforce-implementations-in-pharma-dont-deliver-and-how-to-avoid-the-trap-1nll)
+- [Microsoft и GitHub представили инструмент для устранения уязвимостей с помощью ИИ](https://dev.to/ad_layer_4acdca7d59ff763f/microsoft-i-github-priedstavili-instrumient-dlia-ustranieniia-uiazvimostiei-s-pomoshchiu-ii-3b86)
+- [Quack into Action! Building Brilliant Agents with Docling-Agent &amp; mellea](https://dev.to/aairom/quack-into-action-building-brilliant-agents-with-docling-agent-mellea-lp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
