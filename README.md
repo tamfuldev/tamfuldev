@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: Best Picture Power Rankings &amp; the Super-Sincerity of ‘Sentimental Value&#39;](https://dev.to/popcorn_movies/ringer-movies-best-picture-power-rankings-the-super-sincerity-of-sentimental-value-2m87)
-- [New DynamoDB Key Feature &amp; Why It Matters](https://dev.to/aws-builders/new-dynamodb-key-feature-why-it-matters-38ln)
-- [I compared 17 Kotlin MVI libraries across 103 criteria - here are THE BEST 4](https://dev.to/nek12/i-compared-17-kotlin-mvi-libraries-across-103-criteria-here-are-the-best-4-5g89)
-- [Why everyone fails at the California Housing dataset the same way&lpar;6 brutal reasons&rpar;](https://dev.to/mohammadreza_mahdian_3841/why-everyone-fails-at-the-california-housing-dataset-the-same-way6-brutal-reasons-4c0g)
-- [SNK WELLNESS CENTER - Uno Platform AI Challenge Entry](https://dev.to/vonyange_2036/snk-wellness-center-uno-platform-ai-challenge-entry-2k01)
+- [Devs Who Get Hired First Do One Thing Differently](https://dev.to/brandonkylebailey/devs-who-get-hired-first-do-one-thing-differently-5eok)
+- [I built a Serverless Image Host with Vue 3 &amp; Cloudflare R2 &lpar;Free &amp; No Login&rpar;](https://dev.to/zororaka/i-built-a-serverless-image-host-with-vue-3-cloudflare-r2-free-no-login-3hdm)
+- [How I Structure All My Xcode Projects.](https://dev.to/sebastienlato/how-i-structure-all-my-xcode-projects-19ic)
+- [2025: Simplicity Is Becoming a Technical Skill](https://dev.to/farhannasirdev/2025-simplicity-is-becoming-a-technical-skill-27hn)
+- [My newsletter just made it into the Top 100 Rising In Tech on Substack.](https://dev.to/mrcomputerscience/my-newsletter-just-made-it-into-the-top-100-rising-in-tech-on-substack-1lg1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
