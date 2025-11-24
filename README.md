@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Testing Reinvented: Why Test Coverage Is the Wrong Metric](https://dev.to/cleberdelima/testing-reinvented-why-test-coverage-is-the-wrong-metric-31l3)
-- [Angular - Custom MatPaginator Styling](https://dev.to/this-is-angular/angular-custom-matpaginator-styling-en6)
-- [The saltiest and wrongest article about Big O ever](https://dev.to/klauskpm/the-saltiest-and-wrongest-article-about-big-o-ever-1blm)
-- [Por qué ETH sigue siendo el favorito de los desarrolladores en 2025 &lpar;y por qué integrarlo ahora es más fácil que nunca&rpar;](https://dev.to/paddy_e4d3d274ebc7/por-que-eth-sigue-siendo-el-favorito-de-los-desarrolladores-en-2025-y-por-que-integrarlo-ahora-es-1m59)
-- [AltSchool Of Engineering Tinyuka’24 Month 9 Week 4](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-9-week-4-2pd8)
+- [Introducing brew-coffee - One Command Dev Environment Setup](https://dev.to/n4en/introducing-brew-coffee-one-command-dev-environment-setup-3g3l)
+- [Comparing Open AI MCP and Anthropic MCP](https://dev.to/aun_aideveloper/comparing-openai-mcp-and-anthropic-mcp-safeguarding-llms-with-mitigation-and-co-2c36)
+- [The Art of Software Architecture: A Desi Developer&#39;s Guide to Building Systems That Actually Work](https://dev.to/datatechbridge/the-art-of-software-architecture-a-desi-developers-guide-to-building-systems-that-actually-work-39eh)
+- [why i built yet another todo app](https://dev.to/razberry/why-i-built-yet-another-todo-app-434b)
+- [The Long Way Home: How We Left the Server, Built a Client Empire, and Came Back Again](https://dev.to/elmay/the-long-way-home-how-we-left-the-server-built-a-client-empire-and-came-back-again-18ng)
 <!-- BLOG-POST-LIST:END -->
 
 ---
