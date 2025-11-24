@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built a Lisp VM in Rust that proves its own execution trace &lpar;STARKs + Winterfell&rpar;](https://dev.to/yoozzeek/i-built-a-lisp-vm-in-rust-that-proves-its-own-execution-trace-starks-winterfell-4fi)
-- [EXPERIENCE: ZED CODE EDITOR](https://dev.to/kartik_patel/experience-zed-code-editor-2fb2)
-- [Razor Pages vs MVC: Quando escolher e por quê](https://dev.to/gustavo_viegas/razor-pages-vs-mvc-quando-escolher-e-por-que-2nie)
-- [Use Fork Git Client to Remove Passwords from Git History](https://dev.to/jjrawlins/use-fork-git-client-to-remove-passwords-from-git-history-3in)
-- [The 5 Most Common Data Quality Issues &lpar;and How Analysts Can Fix Them&rpar;](https://dev.to/pauletart/the-5-most-common-data-quality-issues-and-how-analysts-can-fix-them-3c7p)
+- [Coffee Haven - Uno Platform AI Challenge Entry](https://dev.to/shiva_shanker_k/coffee-haven-uno-platform-ai-challenge-entry-4ib)
+- [Better Agents CLI with Kilo Code and LangWatch](https://dev.to/kilocode/better-agents-cli-with-kilo-code-and-langwatch-16gc)
+- [The Rebirth of the Artist](https://dev.to/rawveg/the-rebirth-of-the-artist-213b)
+- [Rubree: A Modern Ruby Regex Editor Running Fully in Your Browser](https://dev.to/aim2bpg/rubree-a-modern-ruby-regex-editor-running-fully-in-your-browser-5g2b)
+- [From Code to Coffee: How Using Crypto in Daily Life Changed My Workflow &lpar;and What I Learned About On/Off Ramps&rpar; ☕️💸](https://dev.to/tanelith/from-code-to-coffee-how-using-crypto-in-daily-life-changed-my-workflow-and-what-i-learned-about-4k2p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
