@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [When Heaven Comes at Midnight: A Deep Journey Through John Chapter 3](https://dev.to/douglasvandergraph/when-heaven-comes-at-midnight-a-deep-journey-through-john-chapter-3-1dib)
-- [Speed up your Laravel development using CRUD Templates](https://dev.to/jcsoriano/speed-up-your-laravel-development-using-crud-templates-2k0g)
-- [dev diary 20251123](https://dev.to/hirooka_kazuya_d7f37d3cde/dev-diary-20251123-38pd)
-- [Mocked data for learning](https://dev.to/karenpayneoregon/mocked-data-for-learning-5ekm)
-- [The Regression Coefficient Was Positive… Until I Added One Variable and It Flipped Negative](https://dev.to/mohammadreza_mahdian_3841/the-regression-coefficient-was-positive-until-i-added-one-variable-and-it-flipped-negative-2360)
+- [强制浏览器 reflow（重排）](https://dev.to/nikimunger/qiang-zhi-liu-lan-qi-reflowzhong-pai--2n07)
+- [Stop Struggling with Axios! My First NPM Package &quot;axios-fluent&quot; Solves 3 Major Pain Points](https://dev.to/oharu121/stop-struggling-with-axios-my-first-npm-package-axios-fluent-solves-3-major-pain-points-33ko)
+- [Music Monday &lpar;Anything goes!&rpar;](https://dev.to/musicforem/test-1cid)
+- [Stop Coding, Start Managing: A First Look at Google&#39;s AntiGravity IDE 🚀](https://dev.to/ranand12/stop-coding-start-managing-a-first-look-at-googles-antigravity-ide-3j9h)
+- [🔍 Observability Practices: A Practical Guide With Real-World Examples](https://dev.to/cesar_nikolascamacmelen/observability-practices-a-practical-guide-with-real-world-examples-4eld)
 <!-- BLOG-POST-LIST:END -->
 
 ---
