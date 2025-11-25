@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Devs Who Get Hired First Do One Thing Differently](https://dev.to/brandonkylebailey/devs-who-get-hired-first-do-one-thing-differently-5eok)
-- [I built a Serverless Image Host with Vue 3 &amp; Cloudflare R2 &lpar;Free &amp; No Login&rpar;](https://dev.to/zororaka/i-built-a-serverless-image-host-with-vue-3-cloudflare-r2-free-no-login-3hdm)
-- [How I Structure All My Xcode Projects.](https://dev.to/sebastienlato/how-i-structure-all-my-xcode-projects-19ic)
-- [2025: Simplicity Is Becoming a Technical Skill](https://dev.to/farhannasirdev/2025-simplicity-is-becoming-a-technical-skill-27hn)
-- [My newsletter just made it into the Top 100 Rising In Tech on Substack.](https://dev.to/mrcomputerscience/my-newsletter-just-made-it-into-the-top-100-rising-in-tech-on-substack-1lg1)
+- [Learn Array Chunking in Go: A Comprehensive Algorithm Approach](https://dev.to/rubenoalvarado/learn-array-chunking-in-go-a-comprehensive-algorithm-approach-1b24)
+- [MAWA - A language as simple as Python but as powerful as Assembler, modern ASM but much simpler](https://dev.to/samuel_leonardo_37aff38b4/mawa-a-language-as-simple-as-python-but-as-powerful-as-assembler-modern-asm-but-much-simpler-1fol)
+- [How to Build a Floating Bottom Sheet in SwiftUI &lpar;Drag, Snap, Blur&rpar;](https://dev.to/sebastienlato/how-to-build-a-floating-bottom-sheet-in-swiftui-drag-snap-blur-lfp)
+- [What Fraud Taught Me About Teaching Children Digital Trust: A Retrospective](https://dev.to/narnaiezzsshaa/what-fraud-taught-me-about-teaching-children-digital-trust-a-retrospective-2150)
+- [MAWA - Un lenguaje tan simple como Python pero tan potente como Assembler, el ASM moderno pero mucho más sencillo](https://dev.to/samuel_leonardo_37aff38b4/mawa-un-lenguaje-tan-simple-como-python-pero-tan-potente-como-assembler-el-asm-moderno-pero-2i33)
 <!-- BLOG-POST-LIST:END -->
 
 ---
