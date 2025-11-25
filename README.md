@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Using Gemini CLI Through LiteLLM Proxy](https://dev.to/polar3130/using-gemini-cli-through-litellm-proxy-1627)
-- [Amazon Q - Kiro-dev](https://dev.to/gara501/amazon-q-kiro-dev-faj)
-- [Decoding AI: Unveiling Intelligence Beyond the Black Box](https://dev.to/arvind_sundararajan/decoding-ai-unveiling-intelligence-beyond-the-black-box-10kl)
-- [HTTP vs HTTPS vs TCP vs UDP](https://dev.to/sreekanth_kuruba_91721e5d/http-vs-https-vs-tcp-vs-udp-41d6)
-- [When Ordinary Water Meets a Holy God: A Legacy Reflection on John Chapter 2](https://dev.to/douglasvandergraph/when-ordinary-water-meets-a-holy-god-a-legacy-reflection-on-john-chapter-2-1o71)
+- [The Rise of AI Powered Search Engines: Which One Really Wins in 2025?](https://dev.to/hitendraa/the-rise-of-ai-powered-search-engines-which-one-really-wins-in-2025-3bm)
+- [I&#39;m writing a book: &quot;The Agent Paradigm&quot;](https://dev.to/connectonion/im-writing-a-book-the-agent-paradigm-5727)
+- [A Developer’s Technical Decision Guide to No-Code and Low-Code &lpar;2026&rpar;](https://dev.to/nocobase/a-developers-technical-decision-guide-to-no-code-and-low-code-2026-2m7h)
+- [Must-Have AI Tools for Every UX Researcher&#39;s Toolkit](https://dev.to/lollypopdesign/must-have-ai-tools-for-every-ux-researchers-toolkit-o7e)
+- [How We Achieved Up to 71% Faster Email Search with PostgreSQL Full-Text Search](https://dev.to/_877737de2d34ff8c6265/how-we-achieved-up-to-71-faster-email-search-with-postgresql-full-text-search-2mn7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
