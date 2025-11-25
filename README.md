@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I made my resume site. It wasn’t that deep.](https://dev.to/armaansucks/i-made-my-resume-site-it-wasnt-that-deep-262e)
-- [How I integrated the blockchain donation feature in my Expo project](https://dev.to/royson_menezes_479ed50941/how-i-integrated-the-blockchain-donation-feature-in-my-expo-project-3c9f)
-- [🗺️ How-To: Create a Bug Report](https://dev.to/jmosley/how-to-create-a-bug-report-1f3l)
-- [Type hints in Python &lpar;3&rpar;](https://dev.to/hyperkai/type-hints-in-python-3-4gg)
-- [Day 2/30: Understanding Terraform Providers](https://dev.to/anil_kumar_noolu/day-230-understanding-terraform-providers-3ema)
+- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-3ngf)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-681)
+- [CinemaSins: Everything Wrong With Mission: Impossible - The Final Reckoning In 27 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-mission-impossible-the-final-reckoning-in-27-minutes-or-less-2lgc)
+- [ChatGPT Atlas now has DevTools](https://dev.to/alifar/chatgpt-atlas-now-has-devtools-35h9)
+- [There’s a strange gap in web development.](https://dev.to/artemdev_/theres-a-strange-gap-in-web-development-57g7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
