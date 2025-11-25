@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Learn Array Chunking in Go: A Comprehensive Algorithm Approach](https://dev.to/rubenoalvarado/learn-array-chunking-in-go-a-comprehensive-algorithm-approach-1b24)
-- [MAWA - A language as simple as Python but as powerful as Assembler, modern ASM but much simpler](https://dev.to/samuel_leonardo_37aff38b4/mawa-a-language-as-simple-as-python-but-as-powerful-as-assembler-modern-asm-but-much-simpler-1fol)
-- [How to Build a Floating Bottom Sheet in SwiftUI &lpar;Drag, Snap, Blur&rpar;](https://dev.to/sebastienlato/how-to-build-a-floating-bottom-sheet-in-swiftui-drag-snap-blur-lfp)
-- [What Fraud Taught Me About Teaching Children Digital Trust: A Retrospective](https://dev.to/narnaiezzsshaa/what-fraud-taught-me-about-teaching-children-digital-trust-a-retrospective-2150)
-- [MAWA - Un lenguaje tan simple como Python pero tan potente como Assembler, el ASM moderno pero mucho más sencillo](https://dev.to/samuel_leonardo_37aff38b4/mawa-un-lenguaje-tan-simple-como-python-pero-tan-potente-como-assembler-el-asm-moderno-pero-2i33)
+- [Supercharging Your Styles with CSS Functions &lpar;calc&lpar;&rpar;, var&lpar;&rpar;, and More&rpar;](https://dev.to/sharique_siddiqui_8242dad/supercharging-your-styles-with-css-functions-calc-var-and-more-5bee)
+- [sam3d Under the Hood: How Meta’s Model Makes Single-Image 3D Reconstruction Accessible to Developers](https://dev.to/sophialuma/sam3d-under-the-hood-how-metas-model-makes-single-image-3d-reconstruction-accessible-to-developers-4li1)
+- [A Stranger In a New Town: CsvPath metadata fields](https://dev.to/david_kershaw_b6916404da6/a-stranger-in-a-new-town-csvpath-metadata-fields-1non)
+- [Mastering AWS CDK #3 - AWS CDK Development: Best Practices and Workflow](https://dev.to/aws-builders/mastering-aws-cdk-3-aws-cdk-development-best-practices-and-workflow-1f37)
+- [How Top 1% Engineers Solve Impossible Bugs &lpar;A Story, A Roadmap, and the Truth About AI’s Impact on Debugging&rpar;”](https://dev.to/mohammed_27c42362d82e94dd/how-top-1-engineers-solve-impossible-bugs-a-story-a-roadmap-and-the-truth-about-ais-impact-on-gp6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
