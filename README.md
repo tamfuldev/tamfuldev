@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Orchestrating Nature: AI-Powered Birdsong Soundscapes by Arvind Sundararajan](https://dev.to/arvind_sundararajan/orchestrating-nature-ai-powered-birdsong-soundscapes-by-arvind-sundararajan-bn1)
-- [Building small web tools to visualize turbo pressure and temperature data from JAC S5 engines.](https://dev.to/aseman_b7592792b239e1e916/building-small-web-tools-to-visualize-turbo-pressure-and-temperature-data-from-jac-s5-engines-20i)
-- [No More Click Click Click](https://dev.to/ekefan_e3670b2ba54dfc282e/no-more-click-click-click-26kj)
-- [PynamoDB Tutorial: Build Production-Ready DynamoDB CRUD APIs in AWS Lambda](https://dev.to/mate32/pynamodb-tutorial-build-production-ready-dynamodb-crud-apis-in-aws-lambda-i35)
-- [The Inevitable Cloud Cost Debt](https://dev.to/sravanikaipa_c5bf5/the-inevitable-cloud-cost-debt-4j82)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-mcb)
+- [A Practical Guide to Building AI Agents with Java and Spring AI - Part 4 - Add Tools](https://dev.to/yuriybezsonov/a-practical-guide-to-building-ai-agents-with-java-and-spring-ai-part-4-add-tools-3g18)
+- [Ruby on Rails AI Development: Accelerating AI Adoption](https://dev.to/devang1810/ruby-on-rails-ai-development-accelerating-ai-adoption-4g97)
+- [AI Agent Memory: From Manual Implementation to Mem0 to AWS AgentCORE](https://dev.to/sudarshangouda/ai-agent-memory-from-manual-implementation-to-mem0-to-aws-agentcore-2d7c)
+- [HTML strings vs the DOM API: from a small benchmark to a surprising result](https://dev.to/dariomannu/html-strings-vs-the-dom-api-from-a-small-benchmark-to-a-surprising-result-5fo6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
