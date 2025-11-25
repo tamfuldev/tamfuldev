@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Treated My Team Like Customers and Became a Better Manager](https://dev.to/secur3-et/i-treated-my-team-like-customers-and-became-a-better-manager-18mj)
-- [How to Align Spring Boot Validation Errors with Your JSON Property Naming Strategy](https://dev.to/ibrahimgunduz34/how-to-align-spring-boot-validation-errors-with-your-json-property-naming-strategy-4b83)
-- [Why Execution Matters More Than Ideas in Modern Software Development](https://dev.to/farhannasirdev/why-execution-matters-more-than-ideas-in-modern-software-development-4l5i)
-- [Divergent Work Using GitHub](https://dev.to/stakiran/divergent-work-using-github-2kk8)
-- [🌐 De Cero a una VPC Segura: Despliegue de Aplicaciones Web y RDS sin el Asistente](https://dev.to/franciscojeg78/de-cero-a-una-vpc-segura-despliegue-de-aplicaciones-web-y-rds-sin-el-asistente-4ph)
+- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-2d7n)
+- [Discover koalaz: a simple npm package to generate mock data about koalas!](https://dev.to/mattqdev/discover-koalaz-a-simple-npm-package-to-generate-mock-data-about-koalas-4pa3)
+- [21+ Best Free Tailwind v4 UI Kits and Component Libraries](https://dev.to/yucelfaruksahan/21-best-free-tailwind-v4-ui-kits-and-component-libraries-2blo)
+- [Deploying My First Task Automation App — Lessons Learned and Tips for Beginners](https://dev.to/dillionhuston/deploying-my-first-task-automation-app-lessons-learned-and-tips-for-beginners-4dpl)
+- [The Agent Factory podcast: 5 Episodes to Kickstart Your Journey to Production AI](https://dev.to/googleai/the-agent-factory-podcast-5-episodes-to-kickstart-your-journey-to-production-ai-35ml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
