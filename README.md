@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Refactoring If-Else Hell into a Strategy Pattern in PHP ⚙️](https://dev.to/codecraft_diary_3d13677fb/refactoring-if-else-hell-into-a-strategy-pattern-in-php-1o4p)
-- [Building an Experimental eBPF Firewall in Rust &lpar;XDP + Heuristic Risk Scoring&rpar;](https://dev.to/n1ghtm4r33/building-an-experimental-ebpf-firewall-in-rust-xdp-heuristic-risk-scoring-phn)
-- [The Secret to Faster Picking in Business Central: Automate Warehouse Picks with One Click](https://dev.to/insight_works/the-secret-to-faster-picking-in-business-central-automate-warehouse-picks-with-one-click-39a7)
-- [Why &quot;Best Practices&quot; &amp; Frameworks Are Keeping You Junior](https://dev.to/pmbanugo/why-best-practices-frameworks-are-keeping-you-junior-3ho7)
-- [Build a REAL-TIME Multiplayer Game with Laravel, Livewire &amp; Reverb!](https://dev.to/burtds/build-a-real-time-multiplayer-game-with-laravel-livewire-reverb-2mfn)
+- [Unleashing the Power of Monitoring: Master Your WordPress with New Relic](https://dev.to/newrelic/unleashing-the-power-of-monitoring-master-your-wordpress-with-new-relic-1gjg)
+- [Optimizing Kafka Tracing with OpenTelemetry: Boost Visibility &amp; Performance](https://dev.to/newrelic/optimizing-kafka-tracing-with-opentelemetry-boost-visibility-performance-442j)
+- [How to Analyze Developer Trends Using HackerNews + GitHub Data &lpar;Step-by-Step Tutorial&rpar;](https://dev.to/gittech/how-to-analyze-developer-trends-using-hackernews-github-data-step-by-step-tutorial-e2d)
+- [7 Essential API Design Patterns That Scale: Build Better Web Applications with Code Examples](https://dev.to/aaravjoshi/7-essential-api-design-patterns-that-scale-build-better-web-applications-with-code-examples-2dh)
+- [Scaling SQLite with Node worker threads and better-sqlite3](https://dev.to/lovestaco/scaling-sqlite-with-node-worker-threads-and-better-sqlite3-4189)
 <!-- BLOG-POST-LIST:END -->
 
 ---
