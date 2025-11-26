@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [PWC 349 More complex than it has to be](https://dev.to/boblied/pwc-349-more-complex-than-it-has-to-be-2c7e)
-- [General Delta Quantization Mechanism](https://dev.to/canonical/general-delta-quantization-mechanism-2oea)
-- [Java String trim&lpar;&rpar; Explained: Clean Your Strings Like a Pro](https://dev.to/satyam_gupta_0d1ff2152dcc/java-string-trim-explained-clean-your-strings-like-a-pro-10g5)
-- [A Complete Guide to MariaDB: Architecture, Features, Installation, and Best Practices](https://dev.to/farhadrahimiklie/a-complete-guide-to-mariadb-architecture-features-installation-and-best-practices-3kpf)
-- [Understanding Arithmetic and Logical Operators in Python — A Practical Guide for Developers](https://dev.to/anidigitalhub/understanding-arithmetic-and-logical-operators-in-python-a-practical-guide-for-developers-l63)
+- [I Built a &#39;Sudo&#39; Command for AI Agents &lpar;and Why You Need It&rpar;](https://dev.to/xywa23/i-built-a-sudo-command-for-ai-agents-and-why-you-need-it-3k9b)
+- [How can developers create and manage custom popup views in HarmonyOS?](https://dev.to/harmonyos/how-can-developers-create-and-manage-custom-popup-views-in-harmonyos-2aan)
+- [The Day I Learned Why Dev Environments Exist 🤯](https://dev.to/notrobot200/the-day-i-learned-why-dev-environments-exist-3l00)
+- [Ecommerce Mobile App Development Cost: Complete Pricing Guide 2025](https://dev.to/tot2019/ecommerce-mobile-app-development-cost-complete-pricing-guide-2025-4mlo)
+- [Refactoring the Audio Pipeline: From Latent Space to Production](https://dev.to/thi_ngocnguyen_877eb37e4/refactoring-the-audio-pipeline-from-latent-space-to-production-e2m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
