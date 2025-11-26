@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-4o36)
-- [I Built a Free JARVIS AI Clone &lpar;and You Can Too&rpar; 🚀](https://dev.to/cammanhhoang/i-built-a-free-jarvis-ai-clone-and-you-can-too-5846)
-- [Point de bascule des robotaxi: comment cette révolution transforme la mobilité urbaine](https://dev.to/camille_vingere_f1a536f90/point-de-bascule-des-robotaxi-comment-cette-revolution-transforme-la-mobilite-urbaine-2n9d)
-- [How the Cloudflare Outage of November 18, 2025 Exposed the Fragility of the Modern Interne](https://dev.to/lightningdev123/how-the-cloudflare-outage-of-november-18-2025-exposed-the-fragility-of-the-modern-interne-10c2)
-- [Gamifying Code Reviews](https://dev.to/goofmint/gamifying-code-reviews-3eah)
+- [🔥 How to Install GNS3 on Fedora + Your First &quot;Hello, World!&quot; in GNS3 🖥️⚡](https://dev.to/notrobot200/how-to-install-gns3-on-fedora-your-first-hello-world-in-gns3-208n)
+- [Turbocharge Your LLMs: A Breakthrough in Neural Network Optimization](https://dev.to/arvind_sundararajan/turbocharge-your-llms-a-breakthrough-in-neural-network-optimization-2fdc)
+- [Ephemeral Vulnerability Scanner: Pure Client-Side JS for Windows/Linux/macOS Vuln Analysis](https://dev.to/secbyshresth/ephemeral-vulnerability-scanner-pure-client-side-js-for-windowslinuxmacos-vuln-analysis-2cdg)
+- [How I gave my AI Agent long-term memory &lpar;without the vector DB headache&rpar;](https://dev.to/jakob_sandstrm_a11b3056c/how-i-gave-my-ai-agent-long-term-memory-without-the-vector-db-headache-4c00)
+- [10x Growth Doesn’t Come From More Tools — It Comes From Removing Friction](https://dev.to/yaseen_tech/10x-growth-doesnt-come-from-more-tools-it-comes-from-removing-friction-593k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
