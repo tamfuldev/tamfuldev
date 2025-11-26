@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Open-Weight AI for High-Quality Image Generation &amp; Editing](https://dev.to/sophialuma/open-weight-ai-for-high-quality-image-generation-editing-4l85)
-- [Git, Beginner to Master!](https://dev.to/ry444nn/git-beginner-to-master-1i8n)
-- [Using Proxy &lpar;before Middleware&rpar; in Next.js: a modern layer](https://dev.to/u11d/using-proxy-before-middleware-in-nextjs-a-modern-layer-1iik)
-- [What is Benchmark Testing? Benefits, Types, and More](https://dev.to/grjoeay/what-is-benchmark-testing-benefits-types-and-more-3nd3)
-- [LOD 400 vs. LOD 500: Choosing the Right Level of Detail for Your Industrial Fabrication Needs](https://dev.to/reetielubana/lod-400-vs-lod-500-choosing-the-right-level-of-detail-for-your-industrial-fabrication-needs-27fp)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-4o36)
+- [I Built a Free JARVIS AI Clone &lpar;and You Can Too&rpar; 🚀](https://dev.to/cammanhhoang/i-built-a-free-jarvis-ai-clone-and-you-can-too-5846)
+- [Point de bascule des robotaxi: comment cette révolution transforme la mobilité urbaine](https://dev.to/camille_vingere_f1a536f90/point-de-bascule-des-robotaxi-comment-cette-revolution-transforme-la-mobilite-urbaine-2n9d)
+- [How the Cloudflare Outage of November 18, 2025 Exposed the Fragility of the Modern Interne](https://dev.to/lightningdev123/how-the-cloudflare-outage-of-november-18-2025-exposed-the-fragility-of-the-modern-interne-10c2)
+- [Gamifying Code Reviews](https://dev.to/goofmint/gamifying-code-reviews-3eah)
 <!-- BLOG-POST-LIST:END -->
 
 ---
