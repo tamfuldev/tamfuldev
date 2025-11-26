@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Language Aggregation in OpenSearch: Selecting One Document Per Group by Language Preference](https://dev.to/aws-builders/language-aggregation-in-opensearch-selecting-one-document-per-group-by-language-preference-4kn9)
-- [The Two Programming Styles of AI — and Why Everyone Uses the Wrong One](https://dev.to/jose_crespo_phd/the-two-programming-styles-of-ai-and-why-everyone-uses-the-wrong-one-c0n)
-- [Creating IAM User, S3 Bucket and VPC](https://dev.to/adarsh_gupta_c5fecf658fd7/creating-iam-user-s3-bucket-and-vpc-3262)
-- [&quot;Dependency injection patterns in Swift&quot;](https://dev.to/michal_cichon/dependency-injection-patterns-in-swift-4lbc)
-- [Fixing React Error #306 in Next.js App Router](https://dev.to/iraycd/fixing-react-error-306-in-nextjs-app-router-49dd)
+- [The Strategic Advantage of Full Stack Developers in Modern Tech](https://dev.to/ioweb_961ddefd53bd65fce97/the-strategic-advantage-of-full-stack-developers-in-modern-tech-1294)
+- [AI Coding Just Took a Big Step with Antigravity](https://dev.to/emewoya/ai-coding-just-took-a-big-step-with-antigravity-15fg)
+- [Nest Thermostat Error Codes &amp; Complete Troubleshooting Guide [0808]](https://dev.to/bryan_collins_abcd0214d94/nest-thermostat-error-codes-complete-troubleshooting-guide-0808-360o)
+- [Starting My Journey on DEV Community](https://dev.to/gideon_great_7afc76e755cb/starting-my-journey-on-dev-community-g7f)
+- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-5ca5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
