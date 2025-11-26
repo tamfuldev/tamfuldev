@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an Open-Source Tool for Debugging Kubernetes Agentically](https://dev.to/adam_dickinson_9842266356/i-built-an-open-source-tool-for-debugging-kubernetes-agentically-341)
-- [The measure of a system’s truth is how much it reduces without losing power.](https://dev.to/suign/the-measure-of-a-systems-truth-is-how-much-it-reduces-without-losing-power-3l86)
-- [Don&#39;t get scammed on an interview.](https://dev.to/ackvf/dont-get-scammed-on-an-interview-4f92)
-- [Detecting User Frustration: Understanding rage clicks and session replay](https://dev.to/alexiskroberson/detecting-user-frustration-understanding-rage-clicks-and-session-replay-aa3)
-- [Day 1274 : From Scratch](https://dev.to/dwane/day-1274-from-scratch-2a49)
+- [What Modern Python Uses for Async API Calls: HTTPX &amp; TaskGroups](https://dev.to/dentedlogic/what-modern-python-uses-for-async-api-calls-httpx-taskgroups-3e4e)
+- [AI Specification Driven Development](https://dev.to/rillus/ai-specification-driven-development-4n93)
+- [Source Code Analysis of the Nonlinear Chinese-Style Reporting Engine NopReport](https://dev.to/canonical/source-code-analysis-of-the-nonlinear-chinese-style-reporting-engine-nopreport-2d21)
+- [Open-source Chinese-style reporting engine using Excel as the designer: NopReport](https://dev.to/canonical/open-source-chinese-style-reporting-engine-using-excel-as-the-designer-nopreport-2j20)
+- [shadcn-components-blocks: 100+ UI Components for React/Next.js](https://dev.to/jqueryscript/shadcn-components-blocks-100-ui-components-for-reactnextjs-41o7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
