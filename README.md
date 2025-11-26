@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Strategic Advantage of Full Stack Developers in Modern Tech](https://dev.to/ioweb_961ddefd53bd65fce97/the-strategic-advantage-of-full-stack-developers-in-modern-tech-1294)
-- [AI Coding Just Took a Big Step with Antigravity](https://dev.to/emewoya/ai-coding-just-took-a-big-step-with-antigravity-15fg)
-- [Nest Thermostat Error Codes &amp; Complete Troubleshooting Guide [0808]](https://dev.to/bryan_collins_abcd0214d94/nest-thermostat-error-codes-complete-troubleshooting-guide-0808-360o)
-- [Starting My Journey on DEV Community](https://dev.to/gideon_great_7afc76e755cb/starting-my-journey-on-dev-community-g7f)
-- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-5ca5)
+- [Introducing Our AI Agent: Vision-Language Automation for Real Apps](https://dev.to/gaddour/introducing-our-ai-agent-vision-language-automation-for-real-apps-131b)
+- [Europe Launches OGCR: A New Open-Source Carbon Registry for Agriculture and Forestry](https://dev.to/ogcr/europe-launches-ogcr-a-new-open-source-carbon-registry-for-agriculture-and-forestry-1i6o)
+- [2025: How to Use AI to Never Miss Anything You&#39;re Interested in](https://dev.to/mtarden/2025-how-to-use-ai-to-never-miss-anything-youre-interested-in-23nn)
+- [Stop Losing Users to Silent Crashes: Introducing crash_reporter for Flutter](https://dev.to/cas8398/stop-losing-users-to-silent-crashes-introducing-crashreporter-for-flutter-1dme)
+- [[Boost]](https://dev.to/frandev/-4hb7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
