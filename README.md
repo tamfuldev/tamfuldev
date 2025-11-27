@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Rethinking GenAI Agent: RAG &amp; MCP](https://dev.to/elianalamhost/rethinking-genai-agent-rag-mcp-12dp)
-- [Why No-Code Documentation Platforms Are the Future of Product Development](https://dev.to/therealmrmumba/why-no-code-documentation-platforms-are-the-future-of-product-development-3okg)
-- [Building an Offline-First Open Home Notes App &lpar;Because I Needed It&rpar; &quot;MyNextHome&quot;](https://dev.to/cathylai/building-an-offline-first-open-home-notes-app-because-i-needed-it-9e8)
-- [AWS Cloud Formation doing crazy](https://dev.to/andygolubev/aws-cloud-formation-doing-crazy-38gp)
-- [Understanding RAG Pipelines: Architecture, Evaluation Metrics, and Best Practices for Enterprise AI](https://dev.to/kuldeep_paul/understanding-rag-pipelines-architecture-evaluation-metrics-and-best-practices-for-enterprise-ai-4im2)
+- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-1hkm)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-lle)
+- [CinemaSins: Everything Wrong With Mission: Impossible - The Final Reckoning In 27 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-mission-impossible-the-final-reckoning-in-27-minutes-or-less-97c)
+- [Event Opening - AWS Community Day Hong Kong 2025](https://dev.to/elianalamhost/event-opening-aws-community-day-hong-kong-2025-3eod)
+- [Agent-to-Agent: Building Interoperable AI on AWS](https://dev.to/elianalamhost/agent-to-agent-building-interoperable-ai-on-aws-3bh0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
