@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-1hkm)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-lle)
-- [CinemaSins: Everything Wrong With Mission: Impossible - The Final Reckoning In 27 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-mission-impossible-the-final-reckoning-in-27-minutes-or-less-97c)
-- [Event Opening - AWS Community Day Hong Kong 2025](https://dev.to/elianalamhost/event-opening-aws-community-day-hong-kong-2025-3eod)
-- [Agent-to-Agent: Building Interoperable AI on AWS](https://dev.to/elianalamhost/agent-to-agent-building-interoperable-ai-on-aws-3bh0)
+- [My first real Rust project](https://dev.to/nfrankel/my-first-real-rust-project-4if9)
+- [7 Secrets Your Framework Docs Don&#39;t Tell You About Standalone Components](https://dev.to/karol_modelski/7-secrets-your-framework-docs-dont-tell-you-about-standalone-components-flj)
+- [Best Practices Are Not As Important As You Think They Are](https://dev.to/web_dev-usman/best-practices-are-not-as-important-as-you-think-they-are-3jb0)
+- [How SafeLine WAF Transformed Our Web Security: A Real User Case Study](https://dev.to/arina_cholee/how-safeline-waf-transformed-our-web-security-a-real-user-case-study-1m0l)
+- [The New Digital-First Shift: AI Makes Development Easy, Marketing Becomes the Hard Part](https://dev.to/mzelensky/the-new-digital-first-shift-ai-makes-development-easy-marketing-becomes-the-hard-part-500d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
