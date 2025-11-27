@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Hexagonal Architecture: Simple Introduction + Real-World Example](https://dev.to/xavier_carreragimbert/hexagonal-architecture-simple-introduction-real-world-example-49n1)
-- [The Semantic Object Factory — The Missing Layer Between AI Intent and Backend Meaning](https://dev.to/bnggbn/the-semantic-object-factory-the-missing-layer-between-ai-intent-and-backend-meaning-1pf8)
-- [UT Registration Plus: An Overview](https://dev.to/derexxd/ut-registration-plus-an-overview-45hi)
-- [Introducing Remote MCP aka MCP Tool Triggers in Azure Functions: Building Intelligent AI Assistants in the Cloud](https://dev.to/swapnil_nagar_09cd69b8e11/introducing-remote-mcp-aka-mcp-tool-triggers-in-azure-functions-building-intelligent-ai-assistants-p47)
-- [The Future Belongs to System Thinkers](https://dev.to/farhannasirdev/the-future-belongs-to-system-thinkers-2pnl)
+- [The AI Revolution Is a Lie: 5 Surprising Truths About Why Your Company&#39;s Strategy Is Failing](https://dev.to/nantero/the-ai-revolution-is-a-lie-5-surprising-truths-about-why-your-companys-strategy-is-failing-k0h)
+- [Is JSON Outdated? The Reasons Why the New LLM-Era Format &quot;TOON&quot; Saves Tokens](https://dev.to/akari_iku/is-json-outdated-the-reasons-why-the-new-llm-era-format-toon-saves-tokens-31e5)
+- [Semantic Object Factory: The Missing Layer That Aligns AI Intent With Backend Semantics](https://dev.to/bnggbn/semantic-object-factory-the-missing-layer-that-aligns-ai-intent-with-backend-semantics-2n3e)
+- [Building Resilient Cloud Infrastructure with Terraform and Azure](https://dev.to/ijeawele/building-resilient-cloud-infrastructure-with-terraform-and-azure-4637)
+- [How I Started Learning Java &amp; Spring Boot &lpar;As a Beginner Developer&rpar;](https://dev.to/venkatesh_fea1095b56dceb0/how-i-started-learning-java-spring-boot-as-a-beginner-developer-3l14)
 <!-- BLOG-POST-LIST:END -->
 
 ---
