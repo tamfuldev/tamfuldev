@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AWS ECS Managed Instances: The Middle Ground We&#39;ve Been Waiting For](https://dev.to/omarmfathy219/aws-ecs-managed-instances-the-middle-ground-weve-been-waiting-for-98f)
-- [🚀 I Just Launched My New Portfolio — Here’s What I Built](https://dev.to/yashpandav/i-just-launched-my-new-portfolio-heres-what-i-built-50a1)
-- [Has anyone built a tool to check FAB Bank balances programmatically?](https://dev.to/quinn-bailey/has-anyone-built-a-tool-to-check-fab-bank-balances-programmatically-5e8k)
-- [Encrypting Secrets in Production &lpar;Without Breaking Everything&rpar;](https://dev.to/aniefon_umanah_ac5f21311c/encrypting-secrets-in-production-without-breaking-everything-2m3f)
-- [LangChain and OpenRouter in Python](https://dev.to/vinodnextcoder1/langchain-and-openrouter-in-python-2b9f)
+- [Day F8: The Exam Everyone Failed &lpar;And Why I Don&#39;t Care&rpar;](https://dev.to/casperday11/day-f8-the-exam-everyone-failed-and-why-i-dont-care-87k)
+- [Leveling Up Your Python Logs with Structlog](https://dev.to/dash0/leveling-up-your-python-logs-with-structlog-3a5a)
+- [x402: Pay-Per-Use Internet](https://dev.to/emperorsixpacks/x402-pay-per-use-internet-4p30)
+- [GraphBit: Reliable AI Workflows with Multi-LLM Integration and Robust Tool Orchestration for Python Developers](https://dev.to/yeahiasarker/graphbit-reliable-ai-workflows-with-multi-llm-integration-and-robust-tool-orchestration-for-python-4bf4)
+- [🎯 Task #3 — Enable AutoSync + Health Checks + Self-Heal in ArgoCD](https://dev.to/latchudevops/task-3-enable-autosync-health-checks-self-heal-in-argocd-3pap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
