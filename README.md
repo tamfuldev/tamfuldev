@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-3j58)
-- [Google Doesn&#39;t Trust Your Site? My Real EEAT Story From 2025](https://dev.to/h24d7/google-doesnt-trust-your-site-my-real-eeat-story-from-2025-3l9b)
-- [AWS Explained in Simple Plain English](https://dev.to/dulmika_semal_90fb5094b87/aws-expalined-in-simple-plain-english-5h0m)
-- [Biometrics + WaaS: The Future of Crypto Wallet Security](https://dev.to/kubo_sk/biometrics-waas-the-future-of-crypto-wallet-security-328p)
-- [Custom Cursor AI IDE Rule](https://dev.to/junaaid96/custom-cursor-rule-438j)
+- [Level Up Your SQL Skills: 8 Interactive Games That Make Learning Fun](https://dev.to/nldr/level-up-your-sql-skills-8-interactive-games-that-make-learning-fun-3omd)
+- [How to provision and S3 storage with Terraform: Plan, check, Apply, approve](https://dev.to/ekefan/how-to-provision-and-s3-storage-with-terraform-plan-check-apply-approve-m5)
+- [The 2025 Humanizer Era: SafeNew AI and the Future of Human-Centric Writing](https://dev.to/safenewai/the-2025-humanizer-era-safenew-ai-and-the-future-of-human-centric-writing-eib)
+- [What can Agentic AI do that Traditional Automation cannot?](https://dev.to/aziro_tech_8cf3f347e4e95b/what-can-agentic-ai-do-that-traditional-automation-cannot-2fl0)
+- [Quartz](https://dev.to/ulysses_simmons_26c2529c0/quartz-29ni)
 <!-- BLOG-POST-LIST:END -->
 
 ---
