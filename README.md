@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🧪 05AB1E — Tiny Language, Big Chaos](https://dev.to/viz-x/05ab1e-tiny-language-big-chaos-3mma)
-- [Nano-Banana Pro: Prompting Guide &amp; Strategies](https://dev.to/googleai/nano-banana-pro-prompting-guide-strategies-1h9n)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-4oho)
-- [CinemaSins: Everything Wrong With Mission: Impossible - The Final Reckoning In 27 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-mission-impossible-the-final-reckoning-in-27-minutes-or-less-36aj)
-- [Mr Sunday Movies: John Carter - Caravan Of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-john-carter-caravan-of-garbage-4k1e)
+- [From Idea to Launch: A Business Guide to Building Successful AI Products](https://dev.to/imuller/from-idea-to-launch-a-business-guide-to-building-successful-ai-products-4hl)
+- [Aheui — The Korean Hangul-Based Programming Language](https://dev.to/viz-x/aheui-the-korean-hangul-based-programming-language-36ee)
+- [Perplexity Introduces AI Assistants With Memory for Enhanced PersonalizationAcross Conversations](https://dev.to/ytosko/perplexity-introduces-ai-assistants-with-memory-for-enhanced-personalizationacross-conversations-2co2)
+- [Day 4/30: The Heart of Terraform – State Files &amp; Remote Backends 🧠🗄️](https://dev.to/gokulprasath_n_42438fd633/day-430-the-heart-of-terraform-state-files-remote-backends-345)
+- [🧩 Brainfuck — The 8-Command Language Built to Hurt Programmers](https://dev.to/viz-x/brainfuck-the-8-command-language-built-to-hurt-programmers-31pe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
