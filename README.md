@@ -4,13 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [# Impostor Syndrome in Tech: Why You Might Feel Like a Fraud — and How to Move Forward](https://dev.to/andersoncontreira/-impostor-syndrome-in-tech-why-you-might-feel-like-a-fraud-and-how-to-move-forward-11ge)
-- [We&#39;re living in a strange moment in tech history. 
-
-Just a few years ago, adding “AI-powered” to your product was a competitive advantage. Today, it’s the bare minimum.](https://dev.to/jaideepparashar/were-living-in-a-strange-moment-in-tech-history-just-a-few-years-ago-adding-ai-powered-to-4co2)
-- [When Every App Uses AI, What Makes Yours Different?](https://dev.to/jaideepparashar/when-every-app-uses-ai-what-makes-yours-different-48bb)
-- [The Architectures of Agency](https://dev.to/webmethodman/the-architectures-of-agency-2405)
-- [Kanpeki: Accessible React Components Built on React Aria](https://dev.to/jqueryscript/kanpeki-accessible-react-components-built-on-react-aria-464c)
+- [Spinning Icon Button – Modern Hover Animation](https://dev.to/jubayid_hassan_734b7ff1de/spinning-icon-button-modern-hover-animation-3oih)
+- [Debouncing vs Throttling in JavaScript: A Simple Story-Based Guide for Interview Success](https://dev.to/sizan_mahmud0_e7c3fd0cb68/debouncing-vs-throttling-in-javascript-a-simple-story-based-guide-for-interview-success-1k7g)
+- [High-Level Kubernetes Architecture](https://dev.to/itsmecharan7/high-level-kubernetes-architecture-326)
+- [Problems with Docker](https://dev.to/itsmecharan7/problems-with-docker-4735)
+- [Sigmoid vs Softmax: Key Differences Explained Simply for Deep Learning](https://dev.to/nomidlseo/sigmoid-vs-softmax-key-differences-explained-simply-for-deep-learning-1dbm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
