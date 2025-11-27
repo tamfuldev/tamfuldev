@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Idea to Launch: A Business Guide to Building Successful AI Products](https://dev.to/imuller/from-idea-to-launch-a-business-guide-to-building-successful-ai-products-4hl)
-- [Aheui — The Korean Hangul-Based Programming Language](https://dev.to/viz-x/aheui-the-korean-hangul-based-programming-language-36ee)
-- [Perplexity Introduces AI Assistants With Memory for Enhanced PersonalizationAcross Conversations](https://dev.to/ytosko/perplexity-introduces-ai-assistants-with-memory-for-enhanced-personalizationacross-conversations-2co2)
-- [Day 4/30: The Heart of Terraform – State Files &amp; Remote Backends 🧠🗄️](https://dev.to/gokulprasath_n_42438fd633/day-430-the-heart-of-terraform-state-files-remote-backends-345)
-- [🧩 Brainfuck — The 8-Command Language Built to Hurt Programmers](https://dev.to/viz-x/brainfuck-the-8-command-language-built-to-hurt-programmers-31pe)
+- [Automate Open Graph Image Generation for Your Blog Posts](https://dev.to/amna_anjum_2f911c0a1a4640/automate-open-graph-image-generation-for-your-blog-posts-351)
+- [gRPC, Dependency Injection with Uber Fx, and Hexagonal Architecture in Go](https://dev.to/tylerasa/grpc-dependency-injection-with-uber-fx-and-hexagonal-architecture-in-go-3p0l)
+- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-11nd)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-1j0a)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-iio)
 <!-- BLOG-POST-LIST:END -->
 
 ---
