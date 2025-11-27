@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀Terraform State File Management with AWS S3](https://dev.to/amit_kumar_7db8e36a64dd45/terraform-state-file-management-with-aws-s3-22dj)
-- [Why the Directory Is the Core of IAM: The Digital Heartbeat of Every Organization](https://dev.to/sunnysinh_a/why-the-directory-is-the-core-of-iam-the-digital-heartbeat-of-every-organization-57m1)
-- [How n8n Automates Contract Review and Approvals](https://dev.to/enna/how-n8n-automates-contract-review-and-approvals-2o96)
-- [Блогер нашёл способ воспроизводить на PS5 содержимое обычных компакт-дисков](https://dev.to/ad_layer_4acdca7d59ff763f/bloghier-nashiol-sposob-vosproizvodit-na-ps5-sodierzhimoie-obychnykh-kompakt-diskov-ib5)
-- [Introducing LeanSpec: A Lightweight SDD Framework Built from First Principles](https://dev.to/tikazyq/introducing-leanspec-a-lightweight-sdd-framework-built-from-first-principles-18a3)
+- [Why Cutout Works &lpar;Even Though It Looks Like Sabotage&rpar;](https://dev.to/aniket_kuyate_15acc4e6587/why-cutout-works-even-though-it-looks-like-sabotage-25pd)
+- [Color Theory in UI Design: From Basics to Advanced Palettes](https://dev.to/frontendtoolstech/color-theory-in-ui-design-from-basics-to-advanced-palettes-mdm)
+- [7 Ways to Create High-Quality Evaluation Datasets for LLMs](https://dev.to/kamya_shah_e69d5dd78f831c/7-ways-to-create-high-quality-evaluation-datasets-for-llms-2e4m)
+- [How-to: Say you have a data lake](https://dev.to/david_kershaw_b6916404da6/how-to-say-you-have-a-data-lake-1p4l)
+- [Bicep / ARM vs Terraform](https://dev.to/teaganga/bicep-arm-vs-terraform-53k1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
