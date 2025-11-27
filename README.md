@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Level Up Your SQL Skills: 8 Interactive Games That Make Learning Fun](https://dev.to/nldr/level-up-your-sql-skills-8-interactive-games-that-make-learning-fun-3omd)
-- [How to provision and S3 storage with Terraform: Plan, check, Apply, approve](https://dev.to/ekefan/how-to-provision-and-s3-storage-with-terraform-plan-check-apply-approve-m5)
-- [The 2025 Humanizer Era: SafeNew AI and the Future of Human-Centric Writing](https://dev.to/safenewai/the-2025-humanizer-era-safenew-ai-and-the-future-of-human-centric-writing-eib)
-- [What can Agentic AI do that Traditional Automation cannot?](https://dev.to/aziro_tech_8cf3f347e4e95b/what-can-agentic-ai-do-that-traditional-automation-cannot-2fl0)
-- [Quartz](https://dev.to/ulysses_simmons_26c2529c0/quartz-29ni)
+- [AWS ECS Managed Instances: The Middle Ground We&#39;ve Been Waiting For](https://dev.to/omarmfathy219/aws-ecs-managed-instances-the-middle-ground-weve-been-waiting-for-98f)
+- [🚀 I Just Launched My New Portfolio — Here’s What I Built](https://dev.to/yashpandav/i-just-launched-my-new-portfolio-heres-what-i-built-50a1)
+- [Has anyone built a tool to check FAB Bank balances programmatically?](https://dev.to/quinn-bailey/has-anyone-built-a-tool-to-check-fab-bank-balances-programmatically-5e8k)
+- [Encrypting Secrets in Production &lpar;Without Breaking Everything&rpar;](https://dev.to/aniefon_umanah_ac5f21311c/encrypting-secrets-in-production-without-breaking-everything-2m3f)
+- [LangChain and OpenRouter in Python](https://dev.to/vinodnextcoder1/langchain-and-openrouter-in-python-2b9f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
