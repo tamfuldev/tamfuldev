@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day F8: The Exam Everyone Failed &lpar;And Why I Don&#39;t Care&rpar;](https://dev.to/casperday11/day-f8-the-exam-everyone-failed-and-why-i-dont-care-87k)
-- [Leveling Up Your Python Logs with Structlog](https://dev.to/dash0/leveling-up-your-python-logs-with-structlog-3a5a)
-- [x402: Pay-Per-Use Internet](https://dev.to/emperorsixpacks/x402-pay-per-use-internet-4p30)
-- [GraphBit: Reliable AI Workflows with Multi-LLM Integration and Robust Tool Orchestration for Python Developers](https://dev.to/yeahiasarker/graphbit-reliable-ai-workflows-with-multi-llm-integration-and-robust-tool-orchestration-for-python-4bf4)
-- [🎯 Task #3 — Enable AutoSync + Health Checks + Self-Heal in ArgoCD](https://dev.to/latchudevops/task-3-enable-autosync-health-checks-self-heal-in-argocd-3pap)
+- [From Localhost to Live: A Practical Guide to Deploying a Next.js App on AWS EC2 &lpar;With Common Errors &amp; Fixes&rpar;](https://dev.to/ajeet_sahu_bc00dce4aecf04/from-localhost-to-live-a-practical-guide-to-deploying-a-nextjs-app-on-aws-ec2-with-common-errors-3i5m)
+- [How to use Cursor to Generate API Testcases in Requestly](https://dev.to/heraldofsolace/how-to-use-cursor-to-generate-api-testcases-in-requestly-4pn)
+- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-5bfj)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-3kdb)
+- [CinemaSins: Everything Wrong With Mission: Impossible - The Final Reckoning In 27 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-mission-impossible-the-final-reckoning-in-27-minutes-or-less-7a9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
