@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My first real Rust project](https://dev.to/nfrankel/my-first-real-rust-project-4if9)
-- [7 Secrets Your Framework Docs Don&#39;t Tell You About Standalone Components](https://dev.to/karol_modelski/7-secrets-your-framework-docs-dont-tell-you-about-standalone-components-flj)
-- [Best Practices Are Not As Important As You Think They Are](https://dev.to/web_dev-usman/best-practices-are-not-as-important-as-you-think-they-are-3jb0)
-- [How SafeLine WAF Transformed Our Web Security: A Real User Case Study](https://dev.to/arina_cholee/how-safeline-waf-transformed-our-web-security-a-real-user-case-study-1m0l)
-- [The New Digital-First Shift: AI Makes Development Easy, Marketing Becomes the Hard Part](https://dev.to/mzelensky/the-new-digital-first-shift-ai-makes-development-easy-marketing-becomes-the-hard-part-500d)
+- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-3j58)
+- [Google Doesn&#39;t Trust Your Site? My Real EEAT Story From 2025](https://dev.to/h24d7/google-doesnt-trust-your-site-my-real-eeat-story-from-2025-3l9b)
+- [AWS Explained in Simple Plain English](https://dev.to/dulmika_semal_90fb5094b87/aws-expalined-in-simple-plain-english-5h0m)
+- [Biometrics + WaaS: The Future of Crypto Wallet Security](https://dev.to/kubo_sk/biometrics-waas-the-future-of-crypto-wallet-security-328p)
+- [Custom Cursor AI IDE Rule](https://dev.to/junaaid96/custom-cursor-rule-438j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
