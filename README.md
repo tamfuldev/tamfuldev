@@ -4,11 +4,13 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Revolution Is a Lie: 5 Surprising Truths About Why Your Company&#39;s Strategy Is Failing](https://dev.to/nantero/the-ai-revolution-is-a-lie-5-surprising-truths-about-why-your-companys-strategy-is-failing-k0h)
-- [Is JSON Outdated? The Reasons Why the New LLM-Era Format &quot;TOON&quot; Saves Tokens](https://dev.to/akari_iku/is-json-outdated-the-reasons-why-the-new-llm-era-format-toon-saves-tokens-31e5)
-- [Semantic Object Factory: The Missing Layer That Aligns AI Intent With Backend Semantics](https://dev.to/bnggbn/semantic-object-factory-the-missing-layer-that-aligns-ai-intent-with-backend-semantics-2n3e)
-- [Building Resilient Cloud Infrastructure with Terraform and Azure](https://dev.to/ijeawele/building-resilient-cloud-infrastructure-with-terraform-and-azure-4637)
-- [How I Started Learning Java &amp; Spring Boot &lpar;As a Beginner Developer&rpar;](https://dev.to/venkatesh_fea1095b56dceb0/how-i-started-learning-java-spring-boot-as-a-beginner-developer-3l14)
+- [# Impostor Syndrome in Tech: Why You Might Feel Like a Fraud — and How to Move Forward](https://dev.to/andersoncontreira/-impostor-syndrome-in-tech-why-you-might-feel-like-a-fraud-and-how-to-move-forward-11ge)
+- [We&#39;re living in a strange moment in tech history. 
+
+Just a few years ago, adding “AI-powered” to your product was a competitive advantage. Today, it’s the bare minimum.](https://dev.to/jaideepparashar/were-living-in-a-strange-moment-in-tech-history-just-a-few-years-ago-adding-ai-powered-to-4co2)
+- [When Every App Uses AI, What Makes Yours Different?](https://dev.to/jaideepparashar/when-every-app-uses-ai-what-makes-yours-different-48bb)
+- [The Architectures of Agency](https://dev.to/webmethodman/the-architectures-of-agency-2405)
+- [Kanpeki: Accessible React Components Built on React Aria](https://dev.to/jqueryscript/kanpeki-accessible-react-components-built-on-react-aria-464c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
