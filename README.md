@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-674)
-- [Pure-Go Race Detector - Race Detection Without CGO](https://dev.to/kolkov/pure-go-race-detector-race-detection-without-cgo-2i46)
-- [C++ - instalación y configuración en Ubuntu](https://dev.to/oscarpincho/c-instalacion-y-configuracion-en-ubuntu-56n3)
-- [Profile Card 2025: simple, responsive profile cards built with HTML, CSS &amp; JS](https://dev.to/codlico/profile-card-2025-simple-responsive-profile-cards-built-with-html-and-css-41a5)
-- [Nomor WA Tokopedia](https://dev.to/ayam_kampus_f44004d3e8825/nomor-wa-tokopedia-5eoa)
+- [User-defined networks](https://dev.to/meghasharmaaaa/user-defined-networks-1icj)
+- [Qeltrix V5: The Folder Archiver Revolution with Virtual File System](https://dev.to/hejhdiss/qeltrix-v5-the-folder-archiver-revolution-with-virtual-file-system-2foj)
+- [I Built a Free Random Data Generator — No Signup, 100% Client-Side](https://dev.to/jignesh_dhamecha_57b23398/i-built-a-free-random-data-generator-no-signup-100-client-side-31ce)
+- [Automating Database Migrations with CI/CD](https://dev.to/imdj/automating-database-migrations-with-cicd-5cdc)
+- [Exploring deboa-macros: Ergonomic HTTP Client Macros for Rust](https://dev.to/rogrio_arajo_55dae16f0d/exploring-deboa-macros-ergonomic-http-client-macros-for-rust-5ehl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
