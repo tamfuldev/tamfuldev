@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Lessons learned implementing SCIM with Microsoft Entra and the SCIM Validator](https://dev.to/eelcolos/lessons-learned-implementing-scim-with-microsoft-entra-and-the-scim-validator-20gl)
-- [useState in React Hook](https://dev.to/bharath_11/usestate-in-react-hook-2195)
-- [Self-corrective Code Generation: A Basic Understanding and Real-life Application](https://dev.to/kayson_2025/self-corrective-code-generation-a-basic-understanding-and-real-life-application-383d)
-- [KEDA HTTP Add-on: Escalonamento Dinâmico por Volume de Requisições](https://dev.to/jonas-elias/keda-http-add-on-escalonamento-dinamico-por-volume-de-requisicoes-3d88)
-- [2025 - All Posts From Product With Attitude](https://dev.to/with_attitude/2025-all-posts-from-product-with-attitude-ka7)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-674)
+- [Pure-Go Race Detector - Race Detection Without CGO](https://dev.to/kolkov/pure-go-race-detector-race-detection-without-cgo-2i46)
+- [C++ - instalación y configuración en Ubuntu](https://dev.to/oscarpincho/c-instalacion-y-configuracion-en-ubuntu-56n3)
+- [Profile Card 2025: simple, responsive profile cards built with HTML, CSS &amp; JS](https://dev.to/codlico/profile-card-2025-simple-responsive-profile-cards-built-with-html-and-css-41a5)
+- [Nomor WA Tokopedia](https://dev.to/ayam_kampus_f44004d3e8825/nomor-wa-tokopedia-5eoa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
