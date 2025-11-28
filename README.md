@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-1cep)
-- [Mr Sunday Movies: The Sorcerer&#39;s Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-sorcerers-apprentice-caravan-of-garbage-3e5b)
-- [Mr Sunday Movies: John Carter - Caravan Of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-john-carter-caravan-of-garbage-3kp8)
-- [Configure Veeam Backup for Microsoft 365: A Step-by-Step Guide](https://dev.to/itcs11/configure-veeam-backup-for-microsoft-365-a-step-by-step-guide-41d7)
-- [Top Microsoft CSP Partners in Pakistan: Get More for Less](https://dev.to/itcs11/top-microsoft-csp-partners-in-pakistan-get-more-for-less-5232)
+- [Microsoft Fixes 57 Vulnerabilities in Latest Patch Tuesday](https://dev.to/itcs11/microsoft-fixes-57-vulnerabilities-in-latest-patch-tuesday-1o0b)
+- [Efficiently Converting Word Documents to HTML in Java](https://dev.to/leondavis1991/efficiently-converting-word-documents-to-html-in-java-27l5)
+- [Free Up Your C: Drive: Move WSL2 and Docker Desktop to Another Drive](https://dev.to/raafe_asad/free-up-your-c-drive-move-wsl2-and-docker-desktop-to-another-drive-4plc)
+- [Nathbrok — Encrypted Messaging, File Storage &amp; Business Communications Platform](https://dev.to/nathbrok_b9a39198fb96ede5/nathbrok-encrypted-messaging-file-storage-business-communications-platform-3m8o)
+- [Using n8n to Automate LinkedIn Outreach &lpar;Without Getting Banned&rpar;](https://dev.to/ciphernutz/using-n8n-to-automate-linkedin-outreach-without-getting-banned-8gh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
