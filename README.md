@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Red Queen Hypothesis and The Crescendo Jailbreak Attack Explained](https://dev.to/arhodesvcu/red-queen-hypothesis-and-the-crescendo-jailbreak-attack-explained-2hdf)
-- [Small Languages, Big Impact: Building the Russian Version of Sentence Rewriter](https://dev.to/peggggykang/small-languages-big-impact-building-the-russian-version-of-sentence-rewriter-6ho)
-- [A Complete Guide to MongoDB for Developers &lpar;With Code Examples&rpar;](https://dev.to/farhadrahimiklie/a-complete-guide-to-mongodb-for-developers-with-code-examples-k23)
-- [The Skill That Separates Average Developers From Great Ones — And It’s Not Coding](https://dev.to/thebigwealth89/the-skill-that-separates-average-developers-from-great-ones-and-its-not-coding-3h76)
-- [Quality Management Plan Errors That Risk Your Project &lpar;And How to Fix Them&rpar;](https://dev.to/taskford/quality-management-plan-errors-that-risk-your-project-and-how-to-fix-them-3bka)
+- [From Hype to Impact: What AI-First Really Means](https://dev.to/jaideepparashar/from-hype-to-impact-what-ai-first-really-means-1a62)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-5211)
+- [CinemaSins: Everything Wrong With Mission: Impossible - The Final Reckoning In 27 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-mission-impossible-the-final-reckoning-in-27-minutes-or-less-14mh)
+- [Mr Sunday Movies: The Sorcerer&#39;s Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-sorcerers-apprentice-caravan-of-garbage-j9d)
+- [The Power of Code Snippets: How to Sell Your Own Code Libraries and APIs](https://dev.to/softwaredeveloperhub01/the-power-of-code-snippets-how-to-sell-your-own-code-libraries-and-apis-22ge)
 <!-- BLOG-POST-LIST:END -->
 
 ---
