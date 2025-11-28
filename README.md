@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Fixes 57 Vulnerabilities in Latest Patch Tuesday](https://dev.to/itcs11/microsoft-fixes-57-vulnerabilities-in-latest-patch-tuesday-1o0b)
-- [Efficiently Converting Word Documents to HTML in Java](https://dev.to/leondavis1991/efficiently-converting-word-documents-to-html-in-java-27l5)
-- [Free Up Your C: Drive: Move WSL2 and Docker Desktop to Another Drive](https://dev.to/raafe_asad/free-up-your-c-drive-move-wsl2-and-docker-desktop-to-another-drive-4plc)
-- [Nathbrok — Encrypted Messaging, File Storage &amp; Business Communications Platform](https://dev.to/nathbrok_b9a39198fb96ede5/nathbrok-encrypted-messaging-file-storage-business-communications-platform-3m8o)
-- [Using n8n to Automate LinkedIn Outreach &lpar;Without Getting Banned&rpar;](https://dev.to/ciphernutz/using-n8n-to-automate-linkedin-outreach-without-getting-banned-8gh)
+- [Vue tricks: smart layouts for VueJS](https://dev.to/nickpe/vue-tricks-smart-layouts-for-vuejs-8d5)
+- [get my first 1$, to prove me it&#39;s possible. I&#39;am junior front end developer from Mali in west africa.](https://dev.to/m2aml/get-my-first-1-to-prove-me-its-possible-iam-junior-front-end-developer-from-mali-in-west-1041)
+- [useState in React Hook](https://dev.to/bharath_11/usestate-in-react-hook-43bd)
+- [Ringer Movies: The Robert Redford Hall of Fame](https://dev.to/popcorn_movies/ringer-movies-the-robert-redford-hall-of-fame-61k)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-1acc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
