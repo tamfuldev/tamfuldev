@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Tariff Code Lookup for International Trade](https://dev.to/pnka_ntzv_87f464617e8d42b/mastering-tariff-code-lookup-for-international-trade-72g)
-- [Neovim x Unreal Engine: Visualizing Config Inheritance &amp; Jumping to Super Classes [Weekly Update]](https://dev.to/taku25/neovim-x-unreal-engine-visualizing-config-inheritance-jumping-to-super-classes-weekly-update-5cm2)
-- [What&#39;s left for me after AI](https://dev.to/amancalledq/whats-left-for-me-after-ai-8pa)
-- [[MyNextHome] Server Backend to add Supabase!](https://dev.to/cathylai/mynexthome-server-backend-to-add-supabase-2l5)
-- [Logs de AWS ALB with Athena](https://dev.to/cyb3rcloud8888/logs-de-aws-alb-with-athena-365h)
+- [Red Queen Hypothesis and The Crescendo Jailbreak Attack Explained](https://dev.to/arhodesvcu/red-queen-hypothesis-and-the-crescendo-jailbreak-attack-explained-2hdf)
+- [Small Languages, Big Impact: Building the Russian Version of Sentence Rewriter](https://dev.to/peggggykang/small-languages-big-impact-building-the-russian-version-of-sentence-rewriter-6ho)
+- [A Complete Guide to MongoDB for Developers &lpar;With Code Examples&rpar;](https://dev.to/farhadrahimiklie/a-complete-guide-to-mongodb-for-developers-with-code-examples-k23)
+- [The Skill That Separates Average Developers From Great Ones — And It’s Not Coding](https://dev.to/thebigwealth89/the-skill-that-separates-average-developers-from-great-ones-and-its-not-coding-3h76)
+- [Quality Management Plan Errors That Risk Your Project &lpar;And How to Fix Them&rpar;](https://dev.to/taskford/quality-management-plan-errors-that-risk-your-project-and-how-to-fix-them-3bka)
 <!-- BLOG-POST-LIST:END -->
 
 ---
