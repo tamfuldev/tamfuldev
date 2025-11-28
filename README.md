@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [User-defined networks](https://dev.to/meghasharmaaaa/user-defined-networks-1icj)
-- [Qeltrix V5: The Folder Archiver Revolution with Virtual File System](https://dev.to/hejhdiss/qeltrix-v5-the-folder-archiver-revolution-with-virtual-file-system-2foj)
-- [I Built a Free Random Data Generator — No Signup, 100% Client-Side](https://dev.to/jignesh_dhamecha_57b23398/i-built-a-free-random-data-generator-no-signup-100-client-side-31ce)
-- [Automating Database Migrations with CI/CD](https://dev.to/imdj/automating-database-migrations-with-cicd-5cdc)
-- [Exploring deboa-macros: Ergonomic HTTP Client Macros for Rust](https://dev.to/rogrio_arajo_55dae16f0d/exploring-deboa-macros-ergonomic-http-client-macros-for-rust-5ehl)
+- [How Do I Return the Response from an Asynchronous Call?](https://dev.to/sharmaprash/how-do-i-return-the-response-from-an-asynchronous-call-nl2)
+- [Clean and maintainable Git Histories – Part 2](https://dev.to/claudioaltamura/clean-and-maintainable-git-histories-part-2-iip)
+- [Ringer Movies: The Robert Redford Hall of Fame](https://dev.to/popcorn_movies/ringer-movies-the-robert-redford-hall-of-fame-4k88)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-3c05)
+- [Downloads Stalling? Not Anymore. Developing Retry Maniac for Chrome](https://dev.to/neeyatlotlikar/downloads-stalling-not-anymore-developing-retry-maniac-for-chrome-3lj3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
