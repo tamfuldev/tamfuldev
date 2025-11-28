@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Uma Abordagem Funcional para Domain-Driven Design](https://dev.to/oliverigor27/uma-abordagem-funcional-para-domain-driven-design-51ii)
-- [How I Built a Real-Time, Google Docs-like browser IDE for Python &lpar;and it&#39;s free!&rpar;](https://dev.to/sjriz/how-i-built-a-real-time-google-docs-like-browser-ide-for-python-4mj2)
-- [**Breaking Down the Cost of Healthcare: Medicare Beneficiaries to Reap Benefits from Falling Drug Prices**](https://dev.to/yagyaraj_sharma_6cd410179/breaking-down-the-cost-of-healthcare-medicare-beneficiaries-to-reap-benefits-from-falling-drug-2dj0)
-- [Why Choose Shopify: a pragmatic guide for devs, founders, and indie hackers](https://dev.to/prateekshaweb/why-choose-shopify-a-pragmatic-guide-for-devs-founders-and-indie-hackers-2a5m)
-- [Installing Ubuntu server for FTP service.](https://dev.to/freddie_barron_0a192c3278/installing-ubuntu-server-for-ftp-service-52md)
+- [Mastering Tariff Code Lookup for International Trade](https://dev.to/pnka_ntzv_87f464617e8d42b/mastering-tariff-code-lookup-for-international-trade-72g)
+- [Neovim x Unreal Engine: Visualizing Config Inheritance &amp; Jumping to Super Classes [Weekly Update]](https://dev.to/taku25/neovim-x-unreal-engine-visualizing-config-inheritance-jumping-to-super-classes-weekly-update-5cm2)
+- [What&#39;s left for me after AI](https://dev.to/amancalledq/whats-left-for-me-after-ai-8pa)
+- [[MyNextHome] Server Backend to add Supabase!](https://dev.to/cathylai/mynexthome-server-backend-to-add-supabase-2l5)
+- [Logs de AWS ALB with Athena](https://dev.to/cyb3rcloud8888/logs-de-aws-alb-with-athena-365h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
