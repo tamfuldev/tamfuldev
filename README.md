@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Vue tricks: smart layouts for VueJS](https://dev.to/nickpe/vue-tricks-smart-layouts-for-vuejs-8d5)
-- [get my first 1$, to prove me it&#39;s possible. I&#39;am junior front end developer from Mali in west africa.](https://dev.to/m2aml/get-my-first-1-to-prove-me-its-possible-iam-junior-front-end-developer-from-mali-in-west-1041)
-- [useState in React Hook](https://dev.to/bharath_11/usestate-in-react-hook-43bd)
-- [Ringer Movies: The Robert Redford Hall of Fame](https://dev.to/popcorn_movies/ringer-movies-the-robert-redford-hall-of-fame-61k)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-1acc)
+- [8 Simple Tips For Testing Payment Gateway Integrations](https://dev.to/flutterwaveeng/8-simple-tips-for-testing-payment-gateway-integrations-586a)
+- [Вэбийн хариу үйлдлийн хэмжүүр](https://dev.to/bizocci/vebiin-khariu-uildliin-khemzhuur-4mnf)
+- [I tested the top 3 AI coding models on real engineering problems. The results surprised me.](https://dev.to/composiodev/i-tested-the-top-3-ai-coding-models-on-real-engineering-problems-the-results-surprised-me-pkc)
+- [Maintenance Release 0.55.0 of the GitHub Action for Checking Spelling](https://dev.to/jonasbn/maintenance-release-0550-of-the-github-action-for-checking-spelling-2j8j)
+- [Stop Writing Plugins Like It’s 2011: Modern Architecture Guide](https://dev.to/mohamed_elgharably_9f7168/stop-writing-plugins-like-its-2011-modern-architecture-guide-1j9g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
