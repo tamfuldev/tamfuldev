@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🔐 Cryptol — The Language Designed Specifically for Cryptography and Security Proofs](https://dev.to/viz-x/cryptol-the-language-designed-specifically-for-cryptography-and-security-proofs-2c0m)
-- [FOSS4G Auckland 2025](https://dev.to/mierune/foss4g-auckland-2025-4pck)
-- [Terraform Project Structure Best Practices](https://dev.to/anil_kumar_noolu/terraform-project-structure-best-practices-3cob)
-- [Beas Kund Trek: A Stunning Adventure Through Kullu-Manali Valley](https://dev.to/tasinnew22/beas-kund-trek-a-stunning-adventure-through-kullu-manali-valley-5973)
-- [Explore My GitHub Projects — Building, Learning &amp; Shipping](https://dev.to/muhammad-huzaifa/explore-my-github-projects-building-learning-shipping-4kfe)
+- [The Great Retraining](https://dev.to/rawveg/the-great-retraining-jp)
+- [Qeltrix: One Vision, Multiple Proofs-of-Concept](https://dev.to/hejhdiss/qeltrix-one-vision-multiple-proofs-of-concept-2bgk)
+- [Debugging LLM Failures: A Practical Guide](https://dev.to/kuldeep_paul/debugging-llm-failures-a-practical-guide-2o7m)
+- [A Developer’s Daily Toolkit: Simple Online Utilities That Save Hours of Work](https://dev.to/tehreem_hassan_e55dcad5fe/a-developers-daily-toolkit-simple-online-utilities-that-save-hours-of-work-90e)
+- [My First Week Learning Python &amp; Django — Notes From a Non-CS Beginner](https://dev.to/pyopslab/my-first-week-learning-python-django-notes-from-a-non-cs-beginner-2hf6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
