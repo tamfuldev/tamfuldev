@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Node.js vs PHP: Which One Is Better for Modern Web Development in 2025](https://dev.to/afonso_faro_23584ec6be099/nodejs-vs-php-which-one-is-better-for-modern-web-development-in-2025-51h9)
-- [Connection-Management-Wisdom](https://dev.to/member_8455d9df/connection-management-wisdom-34h0)
-- [[AWS] DevTools Evangelism: CodeCommit Edition](https://dev.to/aws-builders/aws-devtools-evangelism-codecommit-edition-43e)
-- [Winning Grant Proposals: AI Illustration Techniques That Convince](https://dev.to/localfaceswap/winning-grant-proposals-ai-illustration-techniques-that-convince-5607)
-- [Mr Sunday Movies: The Sorcerer&#39;s Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-sorcerers-apprentice-caravan-of-garbage-57ih)
+- [The Secret Life of Go: Maps](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-maps-4dma)
+- [Hacia una Tipografía Web Accesible para la Dislexia: Evidencia Neurocognitiva, Guías W3C y Recomendaciones de Diseño CSS](https://dev.to/yojananyosef/hacia-una-tipografia-web-accesible-para-la-dislexia-evidencia-neurocognitiva-guias-w3c-y-3npk)
+- [Instalar JUICE SHOP &lpar;owasp&rpar; en Linux](https://dev.to/mister_keto/instalar-juice-shop-owasp-en-linux-69h)
+- [A Critique &amp; Refresh for the SXSW Community Manager Manifesto &lpar;2012&rpar;](https://dev.to/commit_confidential/a-critique-refresh-for-the-sxsw-community-manager-manifesto-2012-4741)
+- [Building a Frankenstein App in 14 Days: How Kiro Changed My Development Workflow](https://dev.to/dev_dl/building-a-frankenstein-app-in-14-days-how-kiro-changed-my-development-workflow-96a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
