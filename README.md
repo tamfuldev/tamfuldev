@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-3jbd)
-- [You&#39;re NOT doing everything wrong](https://dev.to/acoh3n/youre-not-doing-everything-wrong-4l5n)
-- [FileInsta — A Fast &amp; Free Online File Compressor Built for Developers and Creators](https://dev.to/abhiuday_maurya_083f33d4c/fileinsta-a-fast-free-online-file-compressor-built-for-developers-and-creators-31cn)
-- [🚨 PSA for Flutter Developers Using Rive Animations: Fixing Google Play’s New 16KB Page Size Error](https://dev.to/uianimation/psa-for-flutter-developers-using-rive-animations-fixing-google-plays-new-16kb-page-size-error-lnd)
-- [Farewell-to-Framework-Bloat-How-I-Rediscovered-Simplicity-Without-Sacrificing-Performance](https://dev.to/member_8455d9df/farewell-to-framework-bloat-how-i-rediscovered-simplicity-without-sacrificing-performance-2k7p)
+- [Building Modern Backends with Kaapi: API Documentation Generation](https://dev.to/shygyver/building-modern-backends-with-kaapi-api-documentation-generation-57f2)
+- [Multi-Client Configuration Binding in .NET Using the Modern Options Pattern](https://dev.to/imzihad21/multi-client-configuration-binding-in-net-using-the-modern-options-pattern-clj)
+- [Weightless Code: My 7-Day Experiment with Google Antigravity](https://dev.to/naresh_007/weightless-code-my-7-day-experiment-with-google-antigravity-9g5)
+- [Mastering Conventional Commits](https://dev.to/tenelabs/mastering-conventional-commits-2ao7)
+- [The Future of WordPress Development in 2025: Trends, Tools, and Best Practices](https://dev.to/mdjahidbinsabit/the-future-of-wordpress-development-in-2025-trends-tools-and-best-practices-51c5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
