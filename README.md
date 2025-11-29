@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Script to list MongoDB collection URI &lpar;to map to WiredTiger files&rpar;](https://dev.to/franckpachot/script-to-list-mongodb-collection-uri-to-map-to-wiredtiger-files-4k2n)
-- [Building Trinity Shield: Our Custom TEE Solution for Multi-Chain Security](https://dev.to/chronosvault/building-trinity-shield-our-custom-tee-solution-for-multi-chain-security-3cdf)
-- [How I Discovered a Truly Accessible Image‑Generation Model &lpar;and Why You Should Try It Too&rpar;](https://dev.to/heiguo88/how-i-discovered-a-truly-accessible-image-generation-model-and-why-you-should-try-it-too-nok)
-- [Best Software Options for Running a Photobooth at an Event](https://dev.to/darkstar_fury_67a2981e7eb/best-software-options-for-running-a-photobooth-at-an-event-2574)
-- [🔥 A Complete, In-Depth Guide to Trusted Types in React and Modern Web Apps](https://dev.to/abhilashlr/a-complete-in-depth-guide-to-trusted-types-in-react-and-modern-web-apps-30id)
+- [How to Upgrade to Prisma v7?](https://dev.to/manujdixit/how-to-upgrade-to-prisma-v7-zero-confusion-guide-2ljd)
+- [I wanted to code from my phone with Claude code](https://dev.to/oxonomy/i-wanted-to-code-from-my-phone-with-claude-code-31c0)
+- [Just submitted MeetSpot to the Kiro Hackathon! 🚀](https://dev.to/jasonrobertdestiny/just-submitted-meetspot-to-the-kiro-hackathon-k75)
+- [What are the Programming Languages?](https://dev.to/aj_arul/what-are-the-programming-languages-4kj8)
+- [Importance of a Feasibility Study in Project Management](https://dev.to/writegenic/importance-of-a-feasibility-study-in-project-management-34hb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
