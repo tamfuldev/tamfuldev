@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions](https://dev.to/member_8455d9df/i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions-29ca)
-- [From the Brink to the Big League: Pakistan’s $5B Crisis to $19.6B Clout](https://dev.to/skye_wright_1443d44f7b6d1/from-the-brink-to-the-big-league-pakistans-5b-crisis-to-196b-clout-4i37)
-- [Monolith vs Microservices: Making the Right Architectural Choice in 2025 🧱](https://dev.to/prateekbka/monolith-vs-microservices-making-the-right-architectural-choice-in-2025-4a27)
-- [The Sunk Cost Fallacy in Software: How to Recognize It and What to Do About It](https://dev.to/tal_shafir_49b67973e9d3b4/the-sunk-cost-fallacy-in-software-how-to-recognize-it-and-what-to-do-about-it-3l3a)
-- [Getting Started with Nop: Minimalistic Data Access Layer Development](https://dev.to/canonical/getting-started-with-nop-minimalistic-data-access-layer-development-51hc)
+- [Script to list MongoDB collection URI &lpar;to map to WiredTiger files&rpar;](https://dev.to/franckpachot/script-to-list-mongodb-collection-uri-to-map-to-wiredtiger-files-4k2n)
+- [Building Trinity Shield: Our Custom TEE Solution for Multi-Chain Security](https://dev.to/chronosvault/building-trinity-shield-our-custom-tee-solution-for-multi-chain-security-3cdf)
+- [How I Discovered a Truly Accessible Image‑Generation Model &lpar;and Why You Should Try It Too&rpar;](https://dev.to/heiguo88/how-i-discovered-a-truly-accessible-image-generation-model-and-why-you-should-try-it-too-nok)
+- [Best Software Options for Running a Photobooth at an Event](https://dev.to/darkstar_fury_67a2981e7eb/best-software-options-for-running-a-photobooth-at-an-event-2574)
+- [🔥 A Complete, In-Depth Guide to Trusted Types in React and Modern Web Apps](https://dev.to/abhilashlr/a-complete-in-depth-guide-to-trusted-types-in-react-and-modern-web-apps-30id)
 <!-- BLOG-POST-LIST:END -->
 
 ---
