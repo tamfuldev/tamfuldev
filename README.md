@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Great Retraining](https://dev.to/rawveg/the-great-retraining-jp)
-- [Qeltrix: One Vision, Multiple Proofs-of-Concept](https://dev.to/hejhdiss/qeltrix-one-vision-multiple-proofs-of-concept-2bgk)
-- [Debugging LLM Failures: A Practical Guide](https://dev.to/kuldeep_paul/debugging-llm-failures-a-practical-guide-2o7m)
-- [A Developer’s Daily Toolkit: Simple Online Utilities That Save Hours of Work](https://dev.to/tehreem_hassan_e55dcad5fe/a-developers-daily-toolkit-simple-online-utilities-that-save-hours-of-work-90e)
-- [My First Week Learning Python &amp; Django — Notes From a Non-CS Beginner](https://dev.to/pyopslab/my-first-week-learning-python-django-notes-from-a-non-cs-beginner-2hf6)
+- [i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions](https://dev.to/member_8455d9df/i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions-29ca)
+- [From the Brink to the Big League: Pakistan’s $5B Crisis to $19.6B Clout](https://dev.to/skye_wright_1443d44f7b6d1/from-the-brink-to-the-big-league-pakistans-5b-crisis-to-196b-clout-4i37)
+- [Monolith vs Microservices: Making the Right Architectural Choice in 2025 🧱](https://dev.to/prateekbka/monolith-vs-microservices-making-the-right-architectural-choice-in-2025-4a27)
+- [The Sunk Cost Fallacy in Software: How to Recognize It and What to Do About It](https://dev.to/tal_shafir_49b67973e9d3b4/the-sunk-cost-fallacy-in-software-how-to-recognize-it-and-what-to-do-about-it-3l3a)
+- [Getting Started with Nop: Minimalistic Data Access Layer Development](https://dev.to/canonical/getting-started-with-nop-minimalistic-data-access-layer-development-51hc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
