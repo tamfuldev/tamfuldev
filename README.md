@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Finding Strength in Code, Part 2: Lessons from Loss and the Power of Reflection](https://dev.to/smmd/finding-strength-in-code-part-2-lessons-from-loss-and-the-power-of-reflection-2fb2)
-- [Introducing 8-bitHero Labs: Building Neurodivergent-Optimized AI](https://dev.to/orion_burnette_2b0c416aea/introducing-8-bithero-labs-building-neurodivergent-optimized-ai-4mf8)
-- [Best AI Model 2025: Claude 4.5 vs ChatGPT 5.1 vs Gemini 3](https://dev.to/emilyfoster/best-ai-model-2025-claude-45-vs-chatgpt-51-vs-gemini-3-2amh)
-- [I built a forensic ATS scanner in 96 hours using LLMs as my backend team. Here is the stack.](https://dev.to/ryanpedram/i-built-a-forensic-ats-scanner-in-96-hours-using-llms-as-my-backend-team-here-is-the-stack-p13)
-- [What Is Claude Opus 4.5? Anthropic’s New Frontier AI](https://dev.to/isabellaking/what-is-claude-opus-45-anthropics-new-frontier-ai-3flb)
+- [Node.js vs PHP: Which One Is Better for Modern Web Development in 2025](https://dev.to/afonso_faro_23584ec6be099/nodejs-vs-php-which-one-is-better-for-modern-web-development-in-2025-51h9)
+- [Connection-Management-Wisdom](https://dev.to/member_8455d9df/connection-management-wisdom-34h0)
+- [[AWS] DevTools Evangelism: CodeCommit Edition](https://dev.to/aws-builders/aws-devtools-evangelism-codecommit-edition-43e)
+- [Winning Grant Proposals: AI Illustration Techniques That Convince](https://dev.to/localfaceswap/winning-grant-proposals-ai-illustration-techniques-that-convince-5607)
+- [Mr Sunday Movies: The Sorcerer&#39;s Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-sorcerers-apprentice-caravan-of-garbage-57ih)
 <!-- BLOG-POST-LIST:END -->
 
 ---
