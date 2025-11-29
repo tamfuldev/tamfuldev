@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Secret Life of Go: Maps](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-maps-4dma)
-- [Hacia una Tipografía Web Accesible para la Dislexia: Evidencia Neurocognitiva, Guías W3C y Recomendaciones de Diseño CSS](https://dev.to/yojananyosef/hacia-una-tipografia-web-accesible-para-la-dislexia-evidencia-neurocognitiva-guias-w3c-y-3npk)
-- [Instalar JUICE SHOP &lpar;owasp&rpar; en Linux](https://dev.to/mister_keto/instalar-juice-shop-owasp-en-linux-69h)
-- [A Critique &amp; Refresh for the SXSW Community Manager Manifesto &lpar;2012&rpar;](https://dev.to/commit_confidential/a-critique-refresh-for-the-sxsw-community-manager-manifesto-2012-4741)
-- [Building a Frankenstein App in 14 Days: How Kiro Changed My Development Workflow](https://dev.to/dev_dl/building-a-frankenstein-app-in-14-days-how-kiro-changed-my-development-workflow-96a)
+- [Is copy-pasting from the clipboard in Vim broken for you on Wayland?](https://dev.to/svhl/is-copy-pasting-from-the-clipboard-in-vim-broken-for-you-on-wayland-3lgi)
+- [Why Mixup Works &lpar;Even When It Blends Everything Into Goo&rpar;](https://dev.to/aniket_kuyate_15acc4e6587/why-mixup-works-even-when-it-blends-everything-into-goo-25g1)
+- [AI in Medicine: A Physician–Engineer’s Perspective on the Future of Healthcare](https://dev.to/alireza_minagar_99f01ecb6/ai-in-medicine-a-physician-engineers-perspective-on-the-future-of-healthcare-8gm)
+- [📁Kubernetes Project Folder Structure](https://dev.to/itsmecharan7/kubernetes-project-folder-structure-32ai)
+- [Async-Revolution-The-New-Paradigm-of-High-Concurrency-Programming](https://dev.to/member_8455d9df/async-revolution-the-new-paradigm-of-high-concurrency-programming-ggf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
