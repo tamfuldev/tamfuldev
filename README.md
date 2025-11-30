@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Code Canvas: Building a New Way to See, Explore, and Understand Code](https://dev.to/afham_shakeel_bf55efcabd5/code-canvas-building-a-new-way-to-see-explore-and-understand-code-6ab)
-- [𝐃𝐞𝐞𝐩 𝐃𝐢𝐯𝐞 𝐑𝐞𝐚𝐜𝐭 𝐍𝐚𝐭𝐢𝐯𝐞 #3: 𝐁𝐚𝐛𝐞𝐥 #2— The Real-World Battlefield](https://dev.to/trng_trnhc_cd88085f/-2-the-real-world-battlefield-1g0j)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-3cee)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-1fhi)
-- [i built a tiny mood based video picker so my lunch break doesnt disappear into scrolling](https://dev.to/prasetyanurangga/i-built-a-tiny-mood-based-video-picker-so-my-lunch-break-doesnt-disappear-into-scrolling-4hkp)
+- [Fix Damaged PDF File Online Free - 7 Best Repair Tools That Actually Work](https://dev.to/bryan_collins_abcd0214d94/fix-damaged-pdf-file-online-free-7-best-repair-tools-that-actually-work-168a)
+- [Building a High-Performance Search System for a Car Mechanic CRM with MongoDB Change Data Capture](https://dev.to/nebula2003/building-a-high-performance-search-system-for-a-car-mechanic-crm-with-mongodb-change-data-capture-1jb)
+- [How AI Makes Waste Collection Smarter: Inside GreenGuardian’s Intelligent Features](https://dev.to/ukasha_hassan_4b3da494e51/how-ai-makes-waste-collection-smarter-inside-greenguardians-intelligent-features-22g1)
+- [echo3D Now Integrates with Autodesk 3ds Max](https://dev.to/echo3d/echo3d-now-integrates-with-autodesk-3ds-max-12hd)
+- [AI Keeps Reinventing Your Components. Here&#39;s How to Stop It.](https://dev.to/vuong_ngo/ai-keeps-reinventing-your-components-heres-how-to-stop-it-580a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
