@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Construí un Gestor de Contraseñas Avanzado en Julia &lpar;oh si, Juliaaaa&rpar;](https://dev.to/rventz/construi-un-gestor-de-contrasenas-avanzado-en-julia-oh-si-juliaaaa-5foe)
-- [The Ultimate Java Setup Guide &lpar;2025&rpar;: Install JDK on Windows, Mac &amp; Linux](https://dev.to/srfdeveloper/the-ultimate-java-setup-guide-2025-install-jdk-on-windows-mac-linux-3cbd)
-- [Understanding Amazon VPC - Overview and Fundamentals](https://dev.to/jajera/understanding-amazon-vpc-overview-and-fundamentals-51ii)
-- [Building an AWS Content Delivery Stack with Terraform](https://dev.to/jajera/building-an-aws-content-delivery-stack-with-terraform-end)
-- [Testing Dev To API Integration](https://dev.to/brent_efde92993d822f19a6e/testing-dev-to-api-integration-1j6d)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-2lc4)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-3jge)
+- [🌟 SaijinOS Part 16 — Unified Persona Kernel Architecture &lpar;Silent-Civ Integration&rpar;](https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-16-unified-persona-kernel-architecture-silent-civ-integration-2d21)
+- [Beyond the Context Window: Building a Stateful &#39;Memory&#39; MCP Server on Cloudflare Workers](https://dev.to/ahmed_a_o/beyond-the-context-window-building-a-stateful-memory-mcp-server-on-cloudflare-workers-e2k)
+- [[Boost]](https://dev.to/srushti_kulkarni_ff24f6a2/-3g3n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
