@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-2lc4)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-3jge)
-- [🌟 SaijinOS Part 16 — Unified Persona Kernel Architecture &lpar;Silent-Civ Integration&rpar;](https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-16-unified-persona-kernel-architecture-silent-civ-integration-2d21)
-- [Beyond the Context Window: Building a Stateful &#39;Memory&#39; MCP Server on Cloudflare Workers](https://dev.to/ahmed_a_o/beyond-the-context-window-building-a-stateful-memory-mcp-server-on-cloudflare-workers-e2k)
-- [[Boost]](https://dev.to/srushti_kulkarni_ff24f6a2/-3g3n)
+- [🚀 Jordium Gantt Vue3 v1.4.3 — High-Performance Gantt Charts for Large Datasets](https://dev.to/nelson_li_c5265341756c7ab/jordium-gantt-vue3-v143-high-performance-gantt-charts-for-large-datasets-3ih3)
+- [🌱 Day 1 — Introduction to Terraform | 30 Days Terraform Challenge](https://dev.to/lalit192977/day-1-introduction-to-terraform-30-days-terraform-challenge-1jj8)
+- [Poems About Tech Burnout: When Senior Engineers Start Dreaming of a Simpler Life](https://dev.to/adamthedeveloper/when-senior-devs-dream-of-dirt-two-poems-from-the-tech-industry-524h)
+- [Qeltrix V6: The Future of Network-Native Encrypted Streaming](https://dev.to/hejhdiss/qeltrix-v6-the-future-of-network-native-encrypted-streaming-13k6)
+- [From Attendee to Advocate: My Journey with AWS User Group Vadodara](https://dev.to/aditmodi/from-attendee-to-advocate-my-journey-with-aws-user-group-vadodara-1948)
 <!-- BLOG-POST-LIST:END -->
 
 ---
