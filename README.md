@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-3g7d)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-4a78)
-- [Analyzing psqlrc Settings on GitHub: How PostgreSQL Engineers Configure PostgreSQL](https://dev.to/shinyakato_/analyzing-psqlrc-settings-on-github-how-postgresql-engineers-configure-postgresql-1b3f)
-- [The 2026 Computer Science Playbook: How to Learn, Where to Focus, and What It Really Takes to Get Hired in the AI Era](https://dev.to/naveens16/the-2026-computer-science-playbook-how-to-learn-where-to-focus-and-what-it-really-takes-to-get-3nm1)
-- [Somewhere here](https://dev.to/preetha_vaishnavi_2b82358/somewhere-here-25om)
+- [AWS Terraform Type Constraints Explained](https://dev.to/adarsh_gupta_c5fecf658fd7/aws-terraform-type-constraints-explained-5d2)
+- [Weekly #48-2025: AI, Enterprise Knowledge, and the Future of Engineering](https://dev.to/weekly/weekly-48-2025-ai-enterprise-knowledge-and-the-future-of-engineering-eg8)
+- [Automating My Daily Workflow with n8n, Python &amp; Gemini AI](https://dev.to/sanjaydot/automating-my-daily-workflow-with-n8n-python-gemini-ai-1a1c)
+- [I asked successful entrepreneurs about their transition from employee to founder](https://dev.to/techwood/i-asked-successful-entrepreneurs-about-their-transition-from-employee-to-founder-5881)
+- [Why LangChain Is Better Than Raw LLM APIs — A Quick Developer-Friendly Breakdown](https://dev.to/arfatapp/why-langchain-is-better-than-raw-llm-apis-a-quick-developer-friendly-breakdown-1c74)
 <!-- BLOG-POST-LIST:END -->
 
 ---
