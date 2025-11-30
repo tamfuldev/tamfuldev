@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Generate CHANGELOG.md Automatically 🤖](https://dev.to/nyaomaru/generate-changelogmd-automatically-26g1)
-- [About Babar Azam](https://dev.to/preetha_vaishnavi_2b82358/about-babar-azam-38a5)
-- [Indian Coin Toss — Childhood Cricket Flip Simulato](https://dev.to/preetha_vaishnavi_2b82358/indian-coin-toss-childhood-cricket-flip-simulato-o9i)
-- [conditional Statements in Js](https://dev.to/bharath_11/conditional-statements-in-js-3l0b)
-- [Best Official AWS Learning Programs — What They Are &amp; How to Get Started](https://dev.to/dulmika_semal_90fb5094b87/best-official-aws-learning-programs-what-they-are-how-to-get-started-1cap)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-3g7d)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-4a78)
+- [Analyzing psqlrc Settings on GitHub: How PostgreSQL Engineers Configure PostgreSQL](https://dev.to/shinyakato_/analyzing-psqlrc-settings-on-github-how-postgresql-engineers-configure-postgresql-1b3f)
+- [The 2026 Computer Science Playbook: How to Learn, Where to Focus, and What It Really Takes to Get Hired in the AI Era](https://dev.to/naveens16/the-2026-computer-science-playbook-how-to-learn-where-to-focus-and-what-it-really-takes-to-get-3nm1)
+- [Somewhere here](https://dev.to/preetha_vaishnavi_2b82358/somewhere-here-25om)
 <!-- BLOG-POST-LIST:END -->
 
 ---
