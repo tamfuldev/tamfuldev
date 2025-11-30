@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Fix Damaged PDF File Online Free - 7 Best Repair Tools That Actually Work](https://dev.to/bryan_collins_abcd0214d94/fix-damaged-pdf-file-online-free-7-best-repair-tools-that-actually-work-168a)
-- [Building a High-Performance Search System for a Car Mechanic CRM with MongoDB Change Data Capture](https://dev.to/nebula2003/building-a-high-performance-search-system-for-a-car-mechanic-crm-with-mongodb-change-data-capture-1jb)
-- [How AI Makes Waste Collection Smarter: Inside GreenGuardian’s Intelligent Features](https://dev.to/ukasha_hassan_4b3da494e51/how-ai-makes-waste-collection-smarter-inside-greenguardians-intelligent-features-22g1)
-- [echo3D Now Integrates with Autodesk 3ds Max](https://dev.to/echo3d/echo3d-now-integrates-with-autodesk-3ds-max-12hd)
-- [AI Keeps Reinventing Your Components. Here&#39;s How to Stop It.](https://dev.to/vuong_ngo/ai-keeps-reinventing-your-components-heres-how-to-stop-it-580a)
+- [The &quot;Happy Path&quot; is dead. This is the era of Defensive AI Architecture.](https://dev.to/jaliil9/the-happy-path-is-dead-this-is-the-era-of-defensive-ai-architecture-1dlc)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-127m)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-2c94)
+- [Hacking Social Proof: An Engineer&#39;s Playbook for Automated Video Testimonials](https://dev.to/michaelaiglobal/hacking-social-proof-an-engineers-playbook-for-automated-video-testimonials-4bp1)
+- [The Ultimate Guide to React Query: Supercharge Your React Apps](https://dev.to/gouranga-das-khulna/the-ultimate-guide-to-react-query-supercharge-your-react-apps-2j8a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
