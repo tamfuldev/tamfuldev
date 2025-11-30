@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The &quot;Happy Path&quot; is dead. This is the era of Defensive AI Architecture.](https://dev.to/jaliil9/the-happy-path-is-dead-this-is-the-era-of-defensive-ai-architecture-1dlc)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-127m)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-2c94)
-- [Hacking Social Proof: An Engineer&#39;s Playbook for Automated Video Testimonials](https://dev.to/michaelaiglobal/hacking-social-proof-an-engineers-playbook-for-automated-video-testimonials-4bp1)
-- [The Ultimate Guide to React Query: Supercharge Your React Apps](https://dev.to/gouranga-das-khulna/the-ultimate-guide-to-react-query-supercharge-your-react-apps-2j8a)
+- [Generate CHANGELOG.md Automatically 🤖](https://dev.to/nyaomaru/generate-changelogmd-automatically-26g1)
+- [About Babar Azam](https://dev.to/preetha_vaishnavi_2b82358/about-babar-azam-38a5)
+- [Indian Coin Toss — Childhood Cricket Flip Simulato](https://dev.to/preetha_vaishnavi_2b82358/indian-coin-toss-childhood-cricket-flip-simulato-o9i)
+- [conditional Statements in Js](https://dev.to/bharath_11/conditional-statements-in-js-3l0b)
+- [Best Official AWS Learning Programs — What They Are &amp; How to Get Started](https://dev.to/dulmika_semal_90fb5094b87/best-official-aws-learning-programs-what-they-are-how-to-get-started-1cap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
