@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Conquering the Shadow DOM: A Guide for Automation Testers](https://dev.to/godhirajcode/conquering-the-shadow-dom-a-guide-for-automation-testers-36i8)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-1hb1)
-- [That One Weird Line of Go Code That Saved My Weekend &lpar;And My Sanity&rpar;](https://dev.to/dev-tngsh/hat-one-weird-line-of-go-code-that-saved-my-weekend-and-my-sanity-4k0h)
-- [🚀 How I Cut Deep Learning Training Time by 45% — Without Upgrading Hardware](https://dev.to/ashish_ghadigaonkar_/how-i-cut-deep-learning-training-time-by-45-without-upgrading-hardware-71f)
-- [How to Convert JSON to TypeScript Interfaces Automatically &lpar;A Developer-Friendly Guide&rpar;](https://dev.to/jsontoall_tools/how-to-convert-json-to-typescript-interfaces-automatically-a-developer-friendly-guide-2nn8)
+- [Construí un Gestor de Contraseñas Avanzado en Julia &lpar;oh si, Juliaaaa&rpar;](https://dev.to/rventz/construi-un-gestor-de-contrasenas-avanzado-en-julia-oh-si-juliaaaa-5foe)
+- [The Ultimate Java Setup Guide &lpar;2025&rpar;: Install JDK on Windows, Mac &amp; Linux](https://dev.to/srfdeveloper/the-ultimate-java-setup-guide-2025-install-jdk-on-windows-mac-linux-3cbd)
+- [Understanding Amazon VPC - Overview and Fundamentals](https://dev.to/jajera/understanding-amazon-vpc-overview-and-fundamentals-51ii)
+- [Building an AWS Content Delivery Stack with Terraform](https://dev.to/jajera/building-an-aws-content-delivery-stack-with-terraform-end)
+- [Testing Dev To API Integration](https://dev.to/brent_efde92993d822f19a6e/testing-dev-to-api-integration-1j6d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
