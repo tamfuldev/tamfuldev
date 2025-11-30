@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [5 Reasons You Don’t Need to Move Away from JavaScript or TypeScript for the Backend](https://dev.to/zororaka/5-reasons-you-dont-need-to-move-away-from-javascript-or-typescript-for-the-backend-2861)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-2k12)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-1lin)
-- [AWS just changed how we log in to the CLI — By Saheed Ipaye](https://dev.to/saheed_ea3f3e90be19db2eac/aws-just-changed-how-we-log-in-to-the-cli-and-many-engineers-might-not-know-this-yet-4h5f)
-- [Day 11: Python Programming](https://dev.to/aruna_arun_0cda4eb425bb0f/day-11-python-programming-4mgi)
+- [3 mistakes that are killing your dev resume](https://dev.to/ryangst/3-mistakes-that-are-killing-your-dev-resume-l88)
+- [JavaScript: Closures Explained With Real-Life Analogies](https://dev.to/aditya_mali_648306b2e1b5d/javascript-closures-explained-with-real-life-analogies-ipk)
+- [🚀 ECS Express Mode: From an image to an HTTPS endpoint in a single step](https://dev.to/chainiz/ecs-express-mode-from-an-image-to-an-https-endpoint-in-a-single-step-2812)
+- [Top 12+ Android Emulators in 2026 Best Emulator for Android, PC, and Testing](https://dev.to/morrismoses149/top-12-android-emulators-in-2026-best-emulator-for-android-pc-and-testing-5bjh)
+- [Master RAG Evaluation with RAGAS](https://dev.to/sridhar_tondapi_d54e7e29b/master-rag-evaluation-with-ragas-5403)
 <!-- BLOG-POST-LIST:END -->
 
 ---
