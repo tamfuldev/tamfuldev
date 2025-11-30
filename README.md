@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Week 2 of 40 – My Idea Log &amp; Randomizer](https://dev.to/florianhoeppner/week-2-of-40-my-idea-log-randomizer-4hlk)
-- [Por qué me puse a explorar Cipherseek.com — y lo que pienso de la idea](https://dev.to/ernesto_malave_285068a60e/por-que-me-puse-a-explorar-cipherseekcom-y-lo-que-pienso-de-la-idea-4b4o)
-- [Week 1 of 40 – Static Idea of the Week](https://dev.to/florianhoeppner/week-1-of-40-static-idea-of-the-week-49hn)
-- [Building a Next.js Template Clone Generator: A Complete Guide to Streamlining Your Development Workflow with Kiro](https://dev.to/kirodotdev/building-a-nextjs-template-clone-generator-a-complete-guide-to-streamlining-your-development-489n)
-- [Don&#39;t Let Your Staging Server Die: Separate Task Scheduling in Laravel](https://dev.to/tegos/dont-let-your-staging-server-die-separate-task-scheduling-in-laravel-420o)
+- [Desafio Final e o Segredo do O&lpar;N&rpar; &lpar;Dois Ponteiros&rpar;](https://dev.to/gissandrogama/desafio-final-e-o-segredo-do-on-dois-ponteiros-3g4)
+- [O Padrão Ouro da Ordenação: O&lpar;N log N&rpar;](https://dev.to/gissandrogama/post-4-o-padrao-ouro-da-ordenacao-on-log-n-46jp)
+- [Otimizando landing page e-commerce: Guia definitivo 2025](https://dev.to/littlegoat/otimizando-landing-page-e-commerce-guia-definitivo-2025-56lj)
+- [**Title:** The Rise of Second-Hand Shopping: How Thrift Stores are Capitalizing on the Black Friday Phenomenon](https://dev.to/yagyaraj_sharma_6cd410179/title-the-rise-of-second-hand-shopping-how-thrift-stores-are-capitalizing-on-the-black-friday-2cc8)
+- [The Future of Coding: Navigating the Shift Towards Vibe Coding](https://dev.to/ravidasari/untitled-blog-post-404f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
