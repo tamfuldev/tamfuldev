@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-3bj3)
-- [Master Terraform in 20 Minutes: Concepts, Commands &amp; CI/CD](https://dev.to/kaustubhyerkade/master-terraform-in-20-minutes-concepts-commands-flow-cicd-4g0h)
-- [Footer TagHelper](https://dev.to/karenpayneoregon/footer-taghelper-457p)
-- [Building a File Transfer TUI Nobody Asked For: tuit](https://dev.to/mr_bloodrune/building-a-file-transfer-tui-nobody-asked-for-tuit-jge)
-- [K3S troubleshooting: Fixing K3s permission denied and port binding errors on Ubuntu Server](https://dev.to/dhiraj_shrotri_17829903ca/k3s-troubleshooting-fixing-k3s-permission-denied-and-port-binding-errors-on-ubuntu-server-422d)
+- [Enshittification: Why I’m leaving dev.to](https://dev.to/autonomousapps/enshittification-why-im-leaving-devto-3npn)
+- [Most developers use AI… but very few know how to think with AI.](https://dev.to/aldgar/most-developers-use-ai-but-very-few-know-how-to-think-with-ai-328m)
+- [Design on the Go: The Best Lightweight Browser Vector Editors for Digital Marketers](https://dev.to/buysellshop/design-on-the-go-the-best-lightweight-browser-vector-editors-for-digital-marketers-ifk)
+- [I Fully Automated Resumes](https://dev.to/frozen12/i-fully-automated-resumes-7ip)
+- [Social Listening Enhanced by Sentiment and Entity Recognition](https://dev.to/compass_solutions_cb7c065/social-listening-enhanced-by-sentiment-and-entity-recognition-4dog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
