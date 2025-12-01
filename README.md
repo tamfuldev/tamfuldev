@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an AI to Draw My Architecture Diagrams &lpar;Because My Wiki Kept Dying&rpar;](https://dev.to/juand01/how-i-built-an-ai-to-draw-my-architecture-diagrams-because-my-wiki-kept-dying-5dfl)
-- [Day 16 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-16-of-improving-my-data-science-skills-482e)
-- [AES Algorithm for beginners](https://dev.to/denizbasgoren/aes-algorithm-for-beginners-114f)
-- [Building &quot;Trickster&#39;s Table&quot;: A Card Game Suite with Gemini AI Studio &lpar;zero coding&rpar;](https://dev.to/j4s0nc/building-tricksters-table-a-card-game-suite-with-gemini-ai-studio-zero-coding-37bn)
-- [My Project 3: Building a Weather App with Python + Streamlit](https://dev.to/ian_b838138a27a917398d181/my-project-3-building-a-weather-app-with-python-streamlit-5423)
+- [DataViz Kit Weekly Update: Testing New SEO Strategies](https://dev.to/roshaan_tahir/dataviz-kit-weekly-update-testing-new-seo-strategies-45ih)
+- [Pequenos atalhos Git que deixaram meu fluxo de trabalho muito mais rápido](https://dev.to/leorodriguesdev/pequenos-atalhos-git-que-deixaram-meu-fluxo-de-trabalho-muito-mais-rapido-2556)
+- [Small shortcuts that made my Git workflow easier](https://dev.to/leorodriguesdev/small-shortcuts-that-made-my-git-workflow-easier-3bhe)
+- [Built an AI Agent That Actually Runs Agile Sprints End-to-End &lpar;Not Just Ticket Generation&rpar;](https://dev.to/ben_var_551c679bfe4787c4f/built-an-ai-agent-that-actually-runs-agile-sprints-end-to-end-not-just-ticket-generation-1853)
+- [Built an AI Agent That Actually Runs Agile Sprints End-to-End &lpar;Not Just Ticket Generation&rpar;](https://dev.to/ben_var_551c679bfe4787c4f/built-an-ai-agent-that-actually-runs-agile-sprints-end-to-end-not-just-ticket-generation-3297)
 <!-- BLOG-POST-LIST:END -->
 
 ---
