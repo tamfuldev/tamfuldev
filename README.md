@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Using Vue’s Custom Renderer API to Build Interfaces Beyond the DOM](https://dev.to/jacobandrewsky/using-vues-custom-renderer-api-to-build-interfaces-beyond-the-dom-1jjg)
-- [Stop wrapping your RabbitMQ code in runBlocking](https://dev.to/nathanfallet/stop-wrapping-your-rabbitmq-code-in-runblocking-18c2)
-- [Hashicorp Vault: An Inquiry into the Nature of Tokens](https://dev.to/admantium/hashicorp-vault-an-inquiry-into-the-nature-of-tokens-ao5)
-- [Your Full-Stack Roadmap is a Trap. Here&#39;s The AI-First Path.](https://dev.to/thinkaddict/your-full-stack-roadmap-is-a-trap-heres-the-ai-first-path-4bcn)
-- [Security Groups vs NACLs: A Simple Breakdown](https://dev.to/irfansatrio/security-groups-vs-nacls-a-simple-breakdown-391j)
+- [I trained a Robot Arm: What I failed to learn.](https://dev.to/samdude/i-trained-a-robot-arm-what-i-failed-to-learn-2cmf)
+- [LAW-N Series — Part 6: Building a Signal-Native Architecture Through Data, Not Theory](https://dev.to/peacebinflow-labs/law-n-series-part-6-building-a-signal-native-architecture-through-data-not-theory-1193)
+- [10 JavaScript Console Methods You Didn&#39;t Know Existed &lpar;And How They&#39;ll Save You Hours of Debugging&rpar;](https://dev.to/thebitforge/10-javascript-console-methods-you-didnt-know-existed-and-how-theyll-save-you-hours-of-debugging-4a7c)
+- [A Story That Touched Me Today](https://dev.to/rajesh_deswal_38e1d336cee/a-story-that-touched-me-today-3cfc)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-50o0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
