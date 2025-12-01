@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I trained a Robot Arm: What I failed to learn.](https://dev.to/samdude/i-trained-a-robot-arm-what-i-failed-to-learn-2cmf)
-- [LAW-N Series — Part 6: Building a Signal-Native Architecture Through Data, Not Theory](https://dev.to/peacebinflow-labs/law-n-series-part-6-building-a-signal-native-architecture-through-data-not-theory-1193)
-- [10 JavaScript Console Methods You Didn&#39;t Know Existed &lpar;And How They&#39;ll Save You Hours of Debugging&rpar;](https://dev.to/thebitforge/10-javascript-console-methods-you-didnt-know-existed-and-how-theyll-save-you-hours-of-debugging-4a7c)
-- [A Story That Touched Me Today](https://dev.to/rajesh_deswal_38e1d336cee/a-story-that-touched-me-today-3cfc)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-50o0)
+- [Clients care about the stack you use.](https://dev.to/codingnninja/clients-care-about-the-stack-you-use-g2g)
+- [MCP servers I use in my daily life](https://dev.to/petrashka/mcp-servers-i-use-in-my-daily-life-4kah)
+- [Illuminating Bioprocesses: Dynamic Control with Light](https://dev.to/arvind_sundararajan/illuminating-bioprocesses-dynamic-control-with-light-jmo)
+- [Building Death Dealer: How AI-Assisted Development Transformed My Halloween Horror App](https://dev.to/ansari_gufran/building-death-dealer-how-ai-assisted-development-transformed-my-halloween-horror-app-5h7j)
+- [A breakdown of why MERN is the best starting point for new developers.](https://dev.to/dhruvik_15/a-breakdown-of-why-mern-is-the-best-starting-point-for-new-developers-1o7p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
