@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DataViz Kit Weekly Update: Testing New SEO Strategies](https://dev.to/roshaan_tahir/dataviz-kit-weekly-update-testing-new-seo-strategies-45ih)
-- [Pequenos atalhos Git que deixaram meu fluxo de trabalho muito mais rápido](https://dev.to/leorodriguesdev/pequenos-atalhos-git-que-deixaram-meu-fluxo-de-trabalho-muito-mais-rapido-2556)
-- [Small shortcuts that made my Git workflow easier](https://dev.to/leorodriguesdev/small-shortcuts-that-made-my-git-workflow-easier-3bhe)
-- [Built an AI Agent That Actually Runs Agile Sprints End-to-End &lpar;Not Just Ticket Generation&rpar;](https://dev.to/ben_var_551c679bfe4787c4f/built-an-ai-agent-that-actually-runs-agile-sprints-end-to-end-not-just-ticket-generation-1853)
-- [Built an AI Agent That Actually Runs Agile Sprints End-to-End &lpar;Not Just Ticket Generation&rpar;](https://dev.to/ben_var_551c679bfe4787c4f/built-an-ai-agent-that-actually-runs-agile-sprints-end-to-end-not-just-ticket-generation-3297)
+- [Stopping Bots in Action: SafeLine WAF Real-World Traffic Case Study](https://dev.to/arina_cholee/stopping-bots-in-action-safeline-waf-real-world-traffic-case-study-120c)
+- [The Engineering Challenge of &quot;Value&quot;: Building a Real-Time Fantasy Football Trade Engine](https://dev.to/ffteamnames/the-engineering-challenge-of-value-building-a-real-time-fantasy-football-trade-engine-2pp9)
+- [From Monolith to Microservices without changing one line of code, thanks to the power of Inversion of Control &lpar;IoC&rpar;](https://dev.to/remojansen/from-monolith-to-microservices-without-changing-one-line-of-code-thanks-to-the-power-of-inversion-57l6)
+- [Quantum Granules: Taming Complexity with Effect-Based Abstraction](https://dev.to/arvind_sundararajan/quantum-granules-taming-complexity-with-effect-based-abstraction-1fib)
+- [What are the differences in control methods between RGB light strips and monochrome light strips?](https://dev.to/emma-suntech/what-are-the-differences-in-control-methods-between-rgb-light-strips-and-monochrome-light-strips-5dio)
 <!-- BLOG-POST-LIST:END -->
 
 ---
