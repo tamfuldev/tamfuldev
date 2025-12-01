@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I made a thing because taking notes from YouTube sucks](https://dev.to/ayush_jhanwar_6e501579134/i-made-a-thing-because-taking-notes-from-youtube-sucks-nod)
-- [XRPL Programmability: WASM Runtime Revisit](https://dev.to/ripplexdev/xrpl-programmability-wasm-runtime-revisit-2ak0)
-- [How To Categorize Your Tests in Playwright using Tags to Make Your Testing Suite Less Terrible](https://dev.to/arvind_mehairjan/how-to-categorize-your-tests-in-playwright-using-tags-to-make-your-testing-suite-less-terrible-4b5p)
-- [How to Embed Interactive Calculators in Modern Web Apps?](https://dev.to/josh_bell/how-to-embed-interactive-calculators-in-modern-web-apps-24e)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-301j)
+- [2026 belongs to Climate Tech — NO debate](https://dev.to/dawoodtech/2026-belongs-to-climate-tech-no-debate-hod)
+- [Enabling IOMMU for Xeon E5 v4 on Proxmox v9](https://dev.to/allig4t0r/enabling-iommu-for-xeon-e5-v4-on-proxmox-v9-5bcf)
+- [Security-First WebSockets: Protecting Real-Time Communications from Attack](https://dev.to/vanessamadison/security-first-websockets-protecting-real-time-communications-from-attack-2j8d)
+- [Building a Production-Ready GNOME Extension with Kiro: From CLI to GUI in Record Time](https://dev.to/totoshko88/building-a-production-ready-gnome-extension-with-kiro-from-cli-to-gui-in-record-time-1d2n)
+- [Droip no-code builder](https://dev.to/anshad_d48fdaddaa123659be/droip-no-code-builder-2ghl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
