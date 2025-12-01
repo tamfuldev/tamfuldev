@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Vue Reactivity Actually Works Under the Hood &lpar;A Simple Explanation With Internals&rpar;](https://dev.to/devflex-pro/how-vue-reactivity-actually-works-under-the-hood-a-simple-explanation-with-internals-3ope)
-- [Free SSL Certificates Are Now 90 Days — Can Your Ops Workflow Keep Up?](https://dev.to/james_miller_8dc58a89cb9e/free-ssl-certificates-are-now-90-days-can-your-ops-workflow-keep-up-386m)
-- [What are your goals for the week? #155](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-155-47ki)
-- [Cloud Outages: The Unpopular Truth No One Wants to Hear](https://dev.to/aws-builders/cloud-outages-the-unpopular-truth-no-one-wants-to-hear-4enl)
-- [🔓 Decrypt MIUI .sa &amp; .sav Files Using APK Certificate Hex + Python – Full Guide by TheDevOpsRite](https://dev.to/thedevopsrite/decrypt-miui-sa-sav-files-using-apk-certificate-hex-python-full-guide-by-thedevopsrite-1l7h)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-1d7)
+- [Medallion Architecture On AWS](https://dev.to/devoteng1/medallion-architecture-on-aws-2ngm)
+- [Stop That Notification! How I Built Graceful Cancellation for Mass Push Campaigns](https://dev.to/sangwoo_rhie/stop-that-notification-how-i-built-graceful-cancellation-for-mass-push-campaigns-3aij)
+- [How Time Machine saved my life*](https://dev.to/sbotto/how-time-machine-saved-my-life-1p34)
+- [Interactive Tooltips &amp; Modals: Elevate UX with CSS &amp; JavaScript &lpar;2025 Guide&rpar;](https://dev.to/frontendtoolstech/interactive-tooltips-modals-elevate-ux-with-css-javascript-2025-guide-3alp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
