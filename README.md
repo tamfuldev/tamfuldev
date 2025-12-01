@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Perl 🐪 Weekly #749 - Design Patterns in Modern Perl](https://dev.to/szabgab/perl-weekly-749-design-patterns-in-modern-perl-3899)
-- [Stay ahead in web development: latest news, tools, and insights #113](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-113-4238)
-- [Ditch Cloud WAFs: How to Migrate to Self-Hosted SafeLine WAF with Zero Downtime](https://dev.to/arina_cholee/ditch-cloud-wafs-how-to-migrate-to-self-hosted-safeline-waf-with-zero-downtime-4afh)
-- [How to Really Measure AI Agent Performance &lpar;and ROI&rpar;](https://dev.to/aiwithapex/how-to-really-measure-ai-agent-performance-and-roi-3hnc)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-56lo)
+- [Using Vue’s Custom Renderer API to Build Interfaces Beyond the DOM](https://dev.to/jacobandrewsky/using-vues-custom-renderer-api-to-build-interfaces-beyond-the-dom-1jjg)
+- [Stop wrapping your RabbitMQ code in runBlocking](https://dev.to/nathanfallet/stop-wrapping-your-rabbitmq-code-in-runblocking-18c2)
+- [Hashicorp Vault: An Inquiry into the Nature of Tokens](https://dev.to/admantium/hashicorp-vault-an-inquiry-into-the-nature-of-tokens-ao5)
+- [Your Full-Stack Roadmap is a Trap. Here&#39;s The AI-First Path.](https://dev.to/thinkaddict/your-full-stack-roadmap-is-a-trap-heres-the-ai-first-path-4bcn)
+- [Security Groups vs NACLs: A Simple Breakdown](https://dev.to/irfansatrio/security-groups-vs-nacls-a-simple-breakdown-391j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
