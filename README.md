@@ -4,13 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use AI to Write Better Blogs Faster in 2025](https://dev.to/lightningdev123/how-to-use-ai-to-write-better-blogs-faster-in-2025-4f63)
-- [Litlyx: Our new open-source launch - 10 simpler, 10 faster, 100% self-hostable](https://dev.to/antoniofromlitlyx/litlyx-our-new-open-source-launch-10x-simpler-10x-faster-100-self-hostable-2g1h)
-- [Who Needs CSP?](https://dev.to/micmath/who-needs-csp-1dmb)
-- [New version 3.2.1
-
-https://github.com/hmpl-language/hmpl/releases/tag/3.2.1](https://dev.to/anthonymax/new-version-321httpsgithubcomhmpl-languagehmplreleasestag321-2d4n)
-- [How I built a free AI Video Watermark Remover using React &amp; Firebase](https://dev.to/renming_wang_99a0c6efbd56/how-i-built-a-free-ai-video-watermark-remover-using-react-firebase-5efi)
+- [Day 12: Python Programming](https://dev.to/aruna_arun_0cda4eb425bb0f/day-12-python-programming-156n)
+- [Smart TV App Development: OTT Beyond Mobile and Web](https://dev.to/regal22/smart-tv-app-development-ott-beyond-mobile-and-web-6fc)
+- [&quot;That&#39;s Just How It Is&quot; Kills Innovation: Building Teams That Question Everything](https://dev.to/tlorent/thats-just-how-it-is-kills-innovation-building-teams-that-question-everything-28o2)
+- [Testing Angular 21 Components with Vitest: A Complete Guide](https://dev.to/olayeancarh/testing-angular-21-components-with-vitest-a-complete-guide-4db7)
+- [Testing Angular 21 Components with Vitest: A Complete Guide](https://dev.to/olayeancarh/testing-angular-21-components-with-vitest-a-complete-guide-8l2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
