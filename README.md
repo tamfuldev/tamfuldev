@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stopping Bots in Action: SafeLine WAF Real-World Traffic Case Study](https://dev.to/arina_cholee/stopping-bots-in-action-safeline-waf-real-world-traffic-case-study-120c)
-- [The Engineering Challenge of &quot;Value&quot;: Building a Real-Time Fantasy Football Trade Engine](https://dev.to/ffteamnames/the-engineering-challenge-of-value-building-a-real-time-fantasy-football-trade-engine-2pp9)
-- [From Monolith to Microservices without changing one line of code, thanks to the power of Inversion of Control &lpar;IoC&rpar;](https://dev.to/remojansen/from-monolith-to-microservices-without-changing-one-line-of-code-thanks-to-the-power-of-inversion-57l6)
-- [Quantum Granules: Taming Complexity with Effect-Based Abstraction](https://dev.to/arvind_sundararajan/quantum-granules-taming-complexity-with-effect-based-abstraction-1fib)
-- [What are the differences in control methods between RGB light strips and monochrome light strips?](https://dev.to/emma-suntech/what-are-the-differences-in-control-methods-between-rgb-light-strips-and-monochrome-light-strips-5dio)
+- [Google&#39;s New AI Tool Already Beaten? Try Alibaba&#39;s Free Local Alternative](https://dev.to/localfaceswap/googles-new-ai-tool-already-beaten-try-alibabas-free-local-alternative-hee)
+- [Challenge &lpar;Cafe&rpar; lab: Creating a Static Website for the Cafe](https://dev.to/hallomell/challenge-cafe-lab-creating-a-static-website-for-the-cafe-15k9)
+- [Cafe Business Case Introduction](https://dev.to/hallomell/cafe-business-case-introduction-573m)
+- [Macroeconomics Isn&#39;t Mid, Your Takes Are: A Hacker&#39;s Guide](https://dev.to/thinkaddict/macroeconomics-isnt-mid-your-takes-are-a-hackers-guide-4p23)
+- [Introduction to AWS IAM](https://dev.to/hallomell/introduction-to-aws-iam-3b77)
 <!-- BLOG-POST-LIST:END -->
 
 ---
