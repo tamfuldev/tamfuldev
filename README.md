@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Clients care about the stack you use.](https://dev.to/codingnninja/clients-care-about-the-stack-you-use-g2g)
-- [MCP servers I use in my daily life](https://dev.to/petrashka/mcp-servers-i-use-in-my-daily-life-4kah)
-- [Illuminating Bioprocesses: Dynamic Control with Light](https://dev.to/arvind_sundararajan/illuminating-bioprocesses-dynamic-control-with-light-jmo)
-- [Building Death Dealer: How AI-Assisted Development Transformed My Halloween Horror App](https://dev.to/ansari_gufran/building-death-dealer-how-ai-assisted-development-transformed-my-halloween-horror-app-5h7j)
-- [A breakdown of why MERN is the best starting point for new developers.](https://dev.to/dhruvik_15/a-breakdown-of-why-mern-is-the-best-starting-point-for-new-developers-1o7p)
+- [Why a Good README.md Matters More Than Your Code](https://dev.to/bhagirath00/why-a-good-readmemd-matters-more-than-your-code-1hbg)
+- [Linux firewall- iptables](https://dev.to/kingyou/linux-firewall-iptables-202c)
+- [Day -1: The Third Reset &lpar;Because Apparently I Need Multiple Attempts&rpar;](https://dev.to/casperday11/-day-1-the-third-reset-because-apparently-i-need-multiple-attempts-4e3g)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-442l)
+- [Hand-Crafted Creative Counter-Culture against Toxic Digitization](https://dev.to/ingosteinke/hand-crafted-creativity-counter-culture-against-toxic-digitization-8cf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
