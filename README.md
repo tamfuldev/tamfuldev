@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [รัน Typhoon 2.5 บน Colab ฟรี: จาก 30B &lpar;ไม่ไหว&rpar; สู่ 4B &quot;Sweet Spot&quot;](https://dev.to/ubinix_warun/ran-typhoon-25-bn-colab-frii-cchaak-30b-aimaihw-suu-4b-sweet-spot-2jdp)
-- [Stop Prompting the Hard Way: How Mellea Gives You Supercharged AI Results](https://dev.to/manikandan/stop-prompting-the-hard-way-how-mellea-gives-you-supercharged-ai-results-2080)
-- [Snapshots, Brooms, and Arch Linux Chaos Control](https://dev.to/akshay_gupta/snapshots-brooms-and-arch-linux-chaos-control-hie)
-- [Mock Elements: The Unsung Heroes of UI Design](https://dev.to/zopdev/mock-elements-the-unsung-heroes-of-ui-design-ocd)
-- [Introducing Forgetful - Shared Knowledge and Memory across Agents](https://dev.to/scott_raisbeck_24ea5fbc1e/introducing-forgetful-shared-knowledge-and-memory-across-agents-40o6)
+- [[AWS] DevTools Evangelism CDK Edition](https://dev.to/aws-builders/aws-devtools-evangelism-cdk-edition-4bih)
+- [Improve your Prompt Engineering with the help of a little Mermaid](https://dev.to/grimch/improve-your-prompt-engineering-with-the-help-of-a-little-mermaid-2j60)
+- [AI Killed the Full-Stack Roadmap. Here&#39;s the New System.](https://dev.to/thinkaddict/ai-killed-the-full-stack-roadmap-heres-the-new-system-38ba)
+- [Day 12: Python Programming](https://dev.to/aruna_arun_0cda4eb425bb0f/day-12-python-programming-a3)
+- [DebateMaster-AI](https://dev.to/abbasmir12/debatemaster-ai-2n8b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
