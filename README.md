@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🧠Maybe I Just Do Not Get It!](https://dev.to/marcosomma/maybe-i-just-do-not-get-it-5e3f)
-- [大模型微调：SFT](https://dev.to/aquareo/da-mo-xing-wei-diao-sft-1d54)
-- [Day-08: Meta Arguments in terraform](https://dev.to/bhaskara_tejabulusu_b4bf/day-08-meta-arguments-in-terraform-4gc6)
-- [Ringer Movies: ‘Rocky II’ With Bill Simmons, Chris Ryan, and Van Lathan | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-rocky-ii-with-bill-simmons-chris-ryan-and-van-lathan-the-rewatchables-4k1a)
-- [React Native Background Geolocation for Mobile Apps 2026](https://dev.to/sherry_walker_bba406fb339/react-native-background-geolocation-for-mobile-apps-2026-2ibd)
+- [How I Built a &quot;Vision-Based&quot; Web Scraper in n8n &lpar;No CSS Selectors Needed&rpar;](https://dev.to/salim_mhb/how-i-built-a-vision-based-web-scraper-in-n8n-no-css-selectors-needed-3c40)
+- [Agentic AI in Software Testing: Revolutionizing Quality Assurance](https://dev.to/pranav_s_5b1ec7cc447dcdcc/agentic-ai-in-software-testing-revolutionizing-quality-assurance-54n8)
+- [Just wrapped up Google &amp; Kaggle’s 5-Day AI Agents Intensive Course](https://dev.to/jayaramviswanathr/just-wrapped-up-google-kaggles-5-day-ai-agents-intensive-course-3l3g)
+- [The Missing Human Touch in Modern Medicine](https://dev.to/thinking_healer/the-missing-human-touch-in-modern-medicine-39gl)
+- [Agentic AI in Healthcare: Applications and Best Practices](https://dev.to/pranav_s_5b1ec7cc447dcdcc/agentic-ai-in-healthcare-applications-and-best-practices-1ha)
 <!-- BLOG-POST-LIST:END -->
 
 ---
