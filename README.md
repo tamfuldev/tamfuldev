@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Shamba-MedCare AI app for Real Users](https://dev.to/nicanor_korir/building-shamba-medcare-ai-app-for-real-users-dak)
-- [The Atomic Schlep: The Architecture of the Unstoppable Swap](https://dev.to/faruukku/the-atomic-schlep-the-architecture-of-the-unstoppable-swap-186i)
-- [JWT Token Validator Challenge](https://dev.to/fosres/jwt-token-validator-exercise-55mn)
-- [Google Antigravity: An Overview, Architecture, and Core Differentiators](https://dev.to/isaac29/google-antigravity-an-overview-architecture-and-core-differentiators-126e)
-- [Choosing the Right CMS for Your Next.js Site: Headless Versus File-Based](https://dev.to/prateekshaweb/choosing-the-right-cms-for-your-nextjs-site-headless-versus-file-based-51o7)
+- [Web App or Mobile App? Choosing Your MVP Platform](https://dev.to/sociilabs/web-app-or-mobile-app-choosing-your-mvp-platform-4n2o)
+- [Achieve Prisma-like Developer Experience in EF Core! Introduction to Linqraft](https://dev.to/arika0093/achieve-prisma-like-developer-experience-in-ef-core-introduction-to-linqraft-110p)
+- [ProofQR.xyz - a blockchain-based QR code verification system](https://dev.to/tomatoprogramming/proofqrxyz-a-blockchain-based-qr-code-verification-system-4foh)
+- [Achieve Prisma-like Developer Experience in EF Core! Introduction to Linqraft](https://dev.to/arika0093/achieve-prisma-like-developer-experience-in-ef-core-introduction-to-linqraft-2gkm)
+- [Build a Reusable SwiftUI Component Library](https://dev.to/sebastienlato/build-a-reusable-swiftui-component-library-15i3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
