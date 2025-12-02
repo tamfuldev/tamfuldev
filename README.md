@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Java Multithreading : Thread Control, Synchronization &amp; Concurrency Utilities](https://dev.to/masteringbackend/mastering-java-multithreading-thread-control-synchronization-concurrency-utilities-4fph)
-- [Workflow Deep Dive](https://dev.to/neeraja_khanapure_4a33a5f/workflow-deep-dive-1inf)
-- [Is it just me, or are AI code reviews getting noisier?](https://dev.to/allenz_1011/is-it-just-me-or-are-ai-code-reviews-getting-noisier-4033)
-- [WTF is Distributed Data Warehousing?](https://dev.to/dailybugle33/wtf-is-distributed-data-warehousing-3o2l)
-- [How a Traditional Retail Brand Transformed Its Operations With Data &amp; Automation](https://dev.to/wisecor_transformation_7b/how-a-traditional-retail-brand-transformed-its-operations-with-data-automation-li2)
+- [Sector HQ Weekly Digest - December 2, 2025](https://dev.to/sectorhqco/sector-hq-weekly-digest-december-2-2025-29n2)
+- [Revolutionizing Enterprise: How Startups Are Shaping the Future of Corporate Innovation](https://dev.to/vjnvisakh/revolutionizing-enterprise-how-startups-are-shaping-the-future-of-corporate-innovation-47o8)
+- [Handling Cold Starts in Serverless AI: Why Your First Request Fails &lpar;And How to Fix It&rpar;](https://dev.to/david_essien/handling-cold-starts-in-serverless-ai-why-your-first-request-fails-and-how-to-fix-it-527m)
+- [InvoiceQuick helps solopreneurs, freelancers, and small teams create and send invoices anywhere, anytime in seconds.](https://dev.to/iftikhar_sherwani/invoicequick-helps-solopreneurs-freelancers-and-small-teams-create-and-send-invoices-anywhere-37h)
+- [Scaling with Celery and Redis](https://dev.to/randumb/scaling-with-celery-and-redis-5aop)
 <!-- BLOG-POST-LIST:END -->
 
 ---
