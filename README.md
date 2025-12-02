@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Sector HQ Weekly Digest - December 2, 2025](https://dev.to/sectorhqco/sector-hq-weekly-digest-december-2-2025-29n2)
-- [Revolutionizing Enterprise: How Startups Are Shaping the Future of Corporate Innovation](https://dev.to/vjnvisakh/revolutionizing-enterprise-how-startups-are-shaping-the-future-of-corporate-innovation-47o8)
-- [Handling Cold Starts in Serverless AI: Why Your First Request Fails &lpar;And How to Fix It&rpar;](https://dev.to/david_essien/handling-cold-starts-in-serverless-ai-why-your-first-request-fails-and-how-to-fix-it-527m)
-- [InvoiceQuick helps solopreneurs, freelancers, and small teams create and send invoices anywhere, anytime in seconds.](https://dev.to/iftikhar_sherwani/invoicequick-helps-solopreneurs-freelancers-and-small-teams-create-and-send-invoices-anywhere-37h)
-- [Scaling with Celery and Redis](https://dev.to/randumb/scaling-with-celery-and-redis-5aop)
+- [Code Smell 315 - Cloudflare Feature Explosion](https://dev.to/mcsee/code-smell-315-cloudflare-feature-explosion-28p9)
+- [Meet Bumblebee: Agentic AI Flagging Risky Merchants in Under 90 Seconds](https://dev.to/razorpaytech/meet-bumblebee-agentic-ai-flagging-risky-merchants-in-under-90-seconds-2nlf)
+- [Businesses Are Winning with Gen AI: 13 Generative AI Use Cases That Actually Work](https://dev.to/infutrix/businesses-are-winning-with-gen-ai-13-generative-ai-use-cases-that-actually-work-4cb9)
+- [Copy and Paste on Proxmox VM](https://dev.to/woovi/copy-and-paste-on-proxmox-vm-15il)
+- [“EU AI Act: The Code is the Compliance — Why TAUGuard is Already the Architecture We Needed”](https://dev.to/michal_harcej/eu-ai-act-the-code-is-the-compliance-why-tauguard-is-already-the-architecture-we-needed-5e5m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
