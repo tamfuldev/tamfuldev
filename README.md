@@ -4,13 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering CSS Shadows and Filters: Adding Depth and Style to Your Designs](https://dev.to/sharique_siddiqui_8242dad/mastering-css-shadows-and-filters-adding-depth-and-style-to-your-designs-4n6p)
-- [We’re living in a rare moment in history, a moment where an individual can build what once required an entire startup team.
-
-In 2025, a one-person AI company isn’t just possible. It’s practical, powerful, and scalable.](https://dev.to/jaideepparashar/were-living-in-a-rare-moment-in-history-a-moment-where-an-individual-can-build-what-once-required-319c)
-- [Highlight Multiple Languages](https://dev.to/alcb1310/highlight-multiple-languages-lim)
-- [How Career Shapes a Person](https://dev.to/mikhail_dorokhovich_bd8d4/how-career-shapes-a-person-4ak4)
-- [[AWS] Modifying Infrastructure Composer policies with IAM Policy Autopilot](https://dev.to/aws-builders/aws-modifying-infrastructure-composer-policies-with-iam-policy-autopilot-hg7)
+- [Mitigating post-airdrop fud practical guide for Web3 teams](https://dev.to/wevolv3_c2aea5159adf3b85f/mitigating-post-airdrop-fud-practical-guide-for-web3-teams-3l63)
+- [Mitigating post-airdrop fud practical guide for Web3 teams](https://dev.to/wevolv3_c2aea5159adf3b85f/mitigating-post-airdrop-fud-practical-guide-for-web3-teams-3i99)
+- [Why ~40% of AI Engineering is repetitive glue work &lpar;not AI work&rpar;](https://dev.to/wehadit/why-40-of-ai-engineering-is-repetitive-glue-work-not-ai-work-497c)
+- [7 Nano Banana Pro Workflows That Actually Save You Hours As a Developer and More](https://dev.to/nitinfab/7-nano-banana-pro-workflows-that-actually-save-you-hours-as-a-developer-and-more-17bj)
+- [The Hidden Dockerfile Mistakes That Waste Hours &lpar;Thinking of Building a Tool for This&rpar;](https://dev.to/waruni_manike_30f5e1b12d9/the-hidden-dockerfile-mistakes-that-waste-hours-thinking-of-building-a-tool-for-this-2h5f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
