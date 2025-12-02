@@ -4,11 +4,13 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Web App or Mobile App? Choosing Your MVP Platform](https://dev.to/sociilabs/web-app-or-mobile-app-choosing-your-mvp-platform-4n2o)
-- [Achieve Prisma-like Developer Experience in EF Core! Introduction to Linqraft](https://dev.to/arika0093/achieve-prisma-like-developer-experience-in-ef-core-introduction-to-linqraft-110p)
-- [ProofQR.xyz - a blockchain-based QR code verification system](https://dev.to/tomatoprogramming/proofqrxyz-a-blockchain-based-qr-code-verification-system-4foh)
-- [Achieve Prisma-like Developer Experience in EF Core! Introduction to Linqraft](https://dev.to/arika0093/achieve-prisma-like-developer-experience-in-ef-core-introduction-to-linqraft-2gkm)
-- [Build a Reusable SwiftUI Component Library](https://dev.to/sebastienlato/build-a-reusable-swiftui-component-library-15i3)
+- [Mastering CSS Shadows and Filters: Adding Depth and Style to Your Designs](https://dev.to/sharique_siddiqui_8242dad/mastering-css-shadows-and-filters-adding-depth-and-style-to-your-designs-4n6p)
+- [We’re living in a rare moment in history, a moment where an individual can build what once required an entire startup team.
+
+In 2025, a one-person AI company isn’t just possible. It’s practical, powerful, and scalable.](https://dev.to/jaideepparashar/were-living-in-a-rare-moment-in-history-a-moment-where-an-individual-can-build-what-once-required-319c)
+- [Highlight Multiple Languages](https://dev.to/alcb1310/highlight-multiple-languages-lim)
+- [How Career Shapes a Person](https://dev.to/mikhail_dorokhovich_bd8d4/how-career-shapes-a-person-4ak4)
+- [[AWS] Modifying Infrastructure Composer policies with IAM Policy Autopilot](https://dev.to/aws-builders/aws-modifying-infrastructure-composer-policies-with-iam-policy-autopilot-hg7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
