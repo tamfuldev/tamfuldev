@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [LinkedIn&#39;s 2026 Algorithm: The Engagement Bait Era Is Finally Over](https://dev.to/synergistdigitalmedia/linkedins-2026-algorithm-the-engagement-bait-era-is-finally-over-68)
-- [Understanding SSH: A Beginner&#39;s Guide](https://dev.to/dcs-soni/understanding-ssh-a-beginners-guide-18lo)
-- [Feature Drift &amp; Concept Drift — Why Models Rot in Production &lpar;Part 3&rpar;](https://dev.to/ashish_ghadigaonkar_/feature-drift-concept-drift-23jj)
-- [Clean Code in ETL:How Python, Go, and SQL Each Teach You to Think Differently](https://dev.to/mohhddhassan/clean-code-in-etlhow-python-go-and-sql-each-teach-you-to-think-differently-55i6)
-- [re:Invent2025ライブストリーミングを楽しもう](https://dev.to/aws-builders/reinvent2025raibusutorimingunole-simifang-2an8)
+- [🧠Maybe I Just Do Not Get It!](https://dev.to/marcosomma/maybe-i-just-do-not-get-it-5e3f)
+- [大模型微调：SFT](https://dev.to/aquareo/da-mo-xing-wei-diao-sft-1d54)
+- [Day-08: Meta Arguments in terraform](https://dev.to/bhaskara_tejabulusu_b4bf/day-08-meta-arguments-in-terraform-4gc6)
+- [Ringer Movies: ‘Rocky II’ With Bill Simmons, Chris Ryan, and Van Lathan | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-rocky-ii-with-bill-simmons-chris-ryan-and-van-lathan-the-rewatchables-4k1a)
+- [React Native Background Geolocation for Mobile Apps 2026](https://dev.to/sherry_walker_bba406fb339/react-native-background-geolocation-for-mobile-apps-2026-2ibd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
