@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a &quot;Vision-Based&quot; Web Scraper in n8n &lpar;No CSS Selectors Needed&rpar;](https://dev.to/salim_mhb/how-i-built-a-vision-based-web-scraper-in-n8n-no-css-selectors-needed-3c40)
-- [Agentic AI in Software Testing: Revolutionizing Quality Assurance](https://dev.to/pranav_s_5b1ec7cc447dcdcc/agentic-ai-in-software-testing-revolutionizing-quality-assurance-54n8)
-- [Just wrapped up Google &amp; Kaggle’s 5-Day AI Agents Intensive Course](https://dev.to/jayaramviswanathr/just-wrapped-up-google-kaggles-5-day-ai-agents-intensive-course-3l3g)
-- [The Missing Human Touch in Modern Medicine](https://dev.to/thinking_healer/the-missing-human-touch-in-modern-medicine-39gl)
-- [Agentic AI in Healthcare: Applications and Best Practices](https://dev.to/pranav_s_5b1ec7cc447dcdcc/agentic-ai-in-healthcare-applications-and-best-practices-1ha)
+- [A high-performance, accessible, and SEO-optimized portfolio built with Next.js &amp; TypeScript](https://dev.to/saidmounaim/a-high-performance-accessible-and-seo-optimized-portfolio-built-with-nextjs-typescript-nm8)
+- [What is Chaos Engineering?](https://dev.to/techielass/what-is-chaos-engineering-254o)
+- [Terraform Meta-arguments](https://dev.to/nandan_007/terraform-meta-arguments-201i)
+- [VPN for AI Content Generation Services: Protecting Your Ideas from Copy.ai to Character.ai](https://dev.to/dev-vpn/vpn-for-ai-content-generation-services-protecting-your-ideas-from-copyai-to-characterai-2k2c)
+- [One GitHub Copilot Agent Prompt for Safer Changes](https://dev.to/petermilovcik/one-github-copilot-agent-prompt-for-safer-changes-4f88)
 <!-- BLOG-POST-LIST:END -->
 
 ---
