@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[AWS] DevTools Evangelism CDK Edition](https://dev.to/aws-builders/aws-devtools-evangelism-cdk-edition-4bih)
-- [Improve your Prompt Engineering with the help of a little Mermaid](https://dev.to/grimch/improve-your-prompt-engineering-with-the-help-of-a-little-mermaid-2j60)
-- [AI Killed the Full-Stack Roadmap. Here&#39;s the New System.](https://dev.to/thinkaddict/ai-killed-the-full-stack-roadmap-heres-the-new-system-38ba)
-- [Day 12: Python Programming](https://dev.to/aruna_arun_0cda4eb425bb0f/day-12-python-programming-a3)
-- [DebateMaster-AI](https://dev.to/abbasmir12/debatemaster-ai-2n8b)
+- [How to Prompt AI for Consistent JSON Responses](https://dev.to/cucoleadan/how-to-prompt-ai-for-consistent-json-responses-1gbm)
+- [Julia Kasper – Rewetting peatlands is the biggest climate opportunity to cut CO2](https://dev.to/ogcr/julia-kasper-rewetting-peatlands-is-the-biggest-climate-opportunity-to-cut-co2-4o5m)
+- [Seeking Career guidance](https://dev.to/abby21/seeking-career-guidance-45hb)
+- [Behind the Scenes of a “Crazy Pizza Game”: How HTML5 Casual Games Are Built](https://dev.to/gamh5games/behind-the-scenes-of-a-crazy-pizza-game-how-html5-casual-games-are-built-1hjn)
+- [AuroraCanvas — A Cross-Platform Generative Art Experience](https://dev.to/s10olamide/auroracanvas-a-cross-platform-generative-art-experience-5ac4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
