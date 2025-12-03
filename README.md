@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Got Tired of Tab-Switching for Simple Calculations, So I Built This](https://dev.to/techyowls_d6ddaf9b6de327f/i-got-tired-of-tab-switching-for-simple-calculations-so-i-built-this-5984)
-- [Using Codex &amp; Claude Code in a Real Task: A Practical Coding Example &lpar;2026&rpar;](https://dev.to/clickit_devops/using-codex-claude-code-in-a-real-task-a-practical-coding-example-2026-4l8j)
-- [Respiration](https://dev.to/pascal_cescato_692b7a8a20/respiration-1l86)
-- [Day 10— Terraform Conditional Expressions, Dynamic Blocks and Splat Expressions](https://dev.to/anil_kumar_noolu/day-10-terraform-conditional-expressions-dynamic-blocks-and-splat-expressions-b20)
-- [Build a Vision AI Agent with Gemini 3 in &lt; 3 Minutes](https://dev.to/getstreamhq/build-a-vision-ai-agent-with-gemini-3-in-3-minutes-4omh)
+- [Terraform Basics – Week 5: Exposing Infrastructure Data with Outputs](https://dev.to/ozanguner/terraform-basics-week-5-exposing-infrastructure-data-with-outputs-5h6n)
+- [🔧 Comparative Analysis of Testing Management Tools with Real CI/CD Pipelines](https://dev.to/christian_dennishinojosa/-comparative-analysis-of-testing-management-tools-with-real-cicd-pipelines-59jc)
+- [Applying API Testing Frameworks with Postman: Real-World Code Examples](https://dev.to/christian_dennishinojosa/applying-api-testing-frameworks-with-postman-real-world-code-examples-hj1)
+- [repo2](https://dev.to/query_filter_591122b53770/repo2-29lo)
+- [Terraform Expressions — Conditional, Dynamic &amp; Splat Expressions](https://dev.to/adarsh_gupta_c5fecf658fd7/terraform-expressions-conditional-dynamic-splat-expressions-5379)
 <!-- BLOG-POST-LIST:END -->
 
 ---
