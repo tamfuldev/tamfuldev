@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 UI/UX Preview from a Recently Delivered Client Mobile App Project](https://dev.to/abdul_wahab_fe886de9acd8a/uiux-preview-from-a-recently-delivered-client-mobile-app-project-5c9b)
-- [Coding Challenge Practice - Question 69](https://dev.to/tomivan/coding-challenge-practice-question-69-311a)
-- [My Project 4: Movie Search App &lpar;with Python + Streamlit&rpar;](https://dev.to/ian_b838138a27a917398d181/my-project-4-movie-search-app-with-python-streamlit-3cjj)
-- [What most devs forget when launching &lpar;and regret later&rpar;](https://dev.to/shayy/what-most-devs-forget-when-launching-and-regret-later-2fbm)
-- [Simplicity Is a Feature: Build Faster, Scale Smarter](https://dev.to/farhannasirdev/simplicity-is-a-feature-build-faster-scale-smarter-28e8)
+- [Don’t Limit Yourself: Why Broadening Your Tech Horizons Keeps You Relevant](https://dev.to/andersoncontreira/dont-limit-yourself-why-broadening-your-tech-horizons-keeps-you-relevant-51dn)
+- [🛡️Penetration Testing Services Agreement &lpar;Beginner-Friendly Guide + Open Template&rpar;](https://dev.to/ldwit/penetration-testing-services-agreement-beginner-friendly-guide-open-template-2in)
+- [The Replay Model: How AWS Lambda Durable Functions Actually Work](https://dev.to/edjgeek/the-replay-model-how-aws-lambda-durable-functions-actually-work-2a79)
+- [Automatically Merge Dependabot Patch Updates with GitHub Actions](https://dev.to/hidev1977/automatically-merge-dependabot-patch-updates-with-github-actions-316g)
+- [Extensible Design of Backend Service Functions from the Perspective of Reversible Computation](https://dev.to/canonical/extensible-design-of-backend-service-functions-from-the-perspective-of-reversible-computation-5ffe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
