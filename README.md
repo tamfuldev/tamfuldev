@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Running Microsoft&#39;s Phi-3 on CPU with Rust &amp; Candle](https://dev.to/hossein-mortazavi/running-microsofts-phi-3-on-cpu-with-rust-candle-md)
-- [Enterprise Interop Made Easy: WASM Compiled Libraries for Java Developers](https://dev.to/wordsdk/enterprise-interop-made-easy-wasm-compiled-libraries-for-java-developers-19k9)
-- [Understanding Dependency Injection Lifetimes: Singleton, Scoped, and Transient](https://dev.to/outdated-dev/understanding-dependency-injection-lifetimes-singleton-scoped-and-transient-1ilb)
-- [Frontend Is dead &lpar;For those who didn’t evolve&rpar;: The 2025 survival guide](https://dev.to/neilton_rocha_dev/frontend-is-dead-for-those-who-didnt-evolve-the-2025-survival-guide-4jnb)
-- [England&#39;s Circular Economy Strategy: What it Means for CRE](https://dev.to/wastify_ai/englands-circular-economy-strategy-what-it-means-for-cre-5761)
+- [Beyond Simple Forwarding – Practical Content Safety in AI Gateways](https://dev.to/spacewander/beyond-simple-forwarding-practical-content-safety-in-ai-gateways-545a)
+- [OTP email verification and password reset](https://dev.to/prudkohliad/otp-email-verification-and-password-reset-20pi)
+- [Make your AI prompts collaborative with VS Code and Promptitude](https://dev.to/onepoint/make-your-ai-prompts-collaborative-with-vs-code-and-promptitude-1f7)
+- [Build a Chrome Extension with React, TypeScript and Vite](https://dev.to/nefayran/build-a-chrome-extension-with-react-typescript-and-vite-31ho)
+- [The AI Boom Has a $5 Trillion Problem](https://dev.to/icybergenome_34/the-ai-boom-has-a-5-trillion-problem-2fcj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
