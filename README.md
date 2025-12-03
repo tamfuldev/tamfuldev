@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What Are Patterns in JDP?](https://dev.to/mohantammineni/what-are-patterns-in-jdp-2p6m)
-- [Why Writing About Your Failures Helps Others Ship Faster](https://dev.to/leena_malhotra/why-writing-about-your-failures-helps-others-ship-faster-3h8)
-- [Don&#39;t let your bundles go Overweight](https://dev.to/poeticgeek/dont-let-your-bundles-go-overweight-469o)
-- [Task Sequence for Software Development: How To Keep Remote Teams in Sync](https://dev.to/taskford/task-sequence-for-software-development-how-to-keep-remote-teams-in-sync-4p0n)
-- [The AI Tools Nobody Builds &lpar;But Every Developer Secretly Needs&rpar;](https://dev.to/notadevbuthere/the-ai-tools-nobody-builds-but-every-developer-secretly-needs-4bid)
+- [Running Microsoft&#39;s Phi-3 on CPU with Rust &amp; Candle](https://dev.to/hossein-mortazavi/running-microsofts-phi-3-on-cpu-with-rust-candle-md)
+- [Enterprise Interop Made Easy: WASM Compiled Libraries for Java Developers](https://dev.to/wordsdk/enterprise-interop-made-easy-wasm-compiled-libraries-for-java-developers-19k9)
+- [Understanding Dependency Injection Lifetimes: Singleton, Scoped, and Transient](https://dev.to/outdated-dev/understanding-dependency-injection-lifetimes-singleton-scoped-and-transient-1ilb)
+- [Frontend Is dead &lpar;For those who didn’t evolve&rpar;: The 2025 survival guide](https://dev.to/neilton_rocha_dev/frontend-is-dead-for-those-who-didnt-evolve-the-2025-survival-guide-4jnb)
+- [England&#39;s Circular Economy Strategy: What it Means for CRE](https://dev.to/wastify_ai/englands-circular-economy-strategy-what-it-means-for-cre-5761)
 <!-- BLOG-POST-LIST:END -->
 
 ---
