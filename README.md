@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [We Open-Sourced Our Marketing Playbook—Feel Free to Steal It, Sell It, or Feed It to Your AI](https://dev.to/alexandru_danieldimitres/we-open-sourced-our-marketing-playbook-feel-free-to-steal-it-sell-it-or-feed-it-to-your-ai-3ff1)
-- [LLM Reasoning: Why Models Hallucinate and how to reduce it?](https://dev.to/zeroshotanu/llm-reasoning-why-models-hallucinate-and-how-to-reduce-it-2joo)
-- [Why We Still Need Human-Curated Corners of the Internet &lpar;and How LinkCircle Is Building One&rpar;](https://dev.to/alexandru_danieldimitres/why-we-still-need-human-curated-corners-of-the-internet-and-how-linkcircle-is-building-one-2jcd)
-- [Transforming Visitors into Loyal Leads: Mastering Elementor&#39;s Form Widget for WordPress](https://dev.to/artarasaneh2025/transforming-visitors-into-loyal-leads-mastering-elementors-form-widget-for-wordpress-e9i)
-- [Integrate Voice AI with Salesforce for Lead Qualification](https://dev.to/callstacktech/integrate-voice-ai-with-salesforce-for-lead-qualification-66a)
+- [Blazor in .NET 10: The Features That Actually Matter](https://dev.to/mashrulhaque/blazor-in-net-10-the-features-that-actually-matter-nc1)
+- [Understanding GEO — And How It’s Different From SEO](https://dev.to/syed_aslam_8686be65c69ff8/understanding-geo-and-how-its-different-from-seo-2glh)
+- [30 HTML Form Attributes You’re Not Using &lpar;But Should&rpar;](https://dev.to/web_dev-usman/30-html-form-attributes-youre-not-using-but-should-380b)
+- [The Context-Switching Problem: Why I Built a Tracker That Lives in My Terminal.](https://dev.to/tejas1233/the-context-switching-problem-why-i-built-a-tracker-that-lives-in-my-terminal-4dpe)
+- [My Journey Creating Qeltrix: A 17-Year-Old&#39;s Approach to Cryptographic Innovation](https://dev.to/hejhdiss/my-journey-creating-qeltrix-a-17-year-olds-approach-to-cryptographic-innovation-2a52)
 <!-- BLOG-POST-LIST:END -->
 
 ---
