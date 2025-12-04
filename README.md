@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My experience with the 5-Day AI Agents Intensive A Pratice Reflection](https://dev.to/aman_thakur_05a98cf4460f4/my-experience-with-the-5-day-ai-agents-intensive-a-pratice-reflection-37jp)
-- [From Struggle to Flow: A New Paradigm for Success](https://dev.to/d3one/from-struggle-to-flow-a-new-paradigm-for-success-3gk2)
-- [Designing for KaiOS - Leveraging Kiro to build an app for the next billion mobile users](https://dev.to/mrmemory/designing-for-kaios-leveraging-kiro-to-build-an-app-for-the-next-billion-mobile-users-3o69)
-- [Google just made n8n look expensive 💰](https://dev.to/tisankan/google-just-made-n8n-look-expensive-1ma1)
-- [Set Up Your Mac Development Environment in Minutes with Hola](https://dev.to/ratazzi/set-up-your-mac-development-environment-in-minutes-with-hola-57ab)
+- [From Prompts to Pipelines: What I Learned About Building Real AI Agents](https://dev.to/komal_harshita_018ba8ae14/from-prompts-to-pipelines-what-i-learned-about-building-real-ai-agents-2b7i)
+- [My Reflection &amp; Learning Journey – AI Agents Intensive 2025](https://dev.to/adya_rajan_b29469177c2c49/my-reflection-learning-journey-ai-agents-intensive-2025-1f3g)
+- [What is Azure Resource Manager?](https://dev.to/delamywa/what-is-azure-resource-manager-3nll)
+- [C# Performance Optimization: Using Span&lt;T&gt; and stackalloc to Eliminate Allocations](https://dev.to/danqzq/c-performance-optimization-using-span-and-stackalloc-to-eliminate-allocations-ikc)
+- [🚀 How I Got 25,000+ Views in 2 Days on a YouTube Short](https://dev.to/dmsmenula/how-i-got-25000-views-in-2-days-on-a-youtube-short-1lc1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
