@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Prompts to Pipelines: What I Learned About Building Real AI Agents](https://dev.to/komal_harshita_018ba8ae14/from-prompts-to-pipelines-what-i-learned-about-building-real-ai-agents-2b7i)
-- [My Reflection &amp; Learning Journey – AI Agents Intensive 2025](https://dev.to/adya_rajan_b29469177c2c49/my-reflection-learning-journey-ai-agents-intensive-2025-1f3g)
-- [What is Azure Resource Manager?](https://dev.to/delamywa/what-is-azure-resource-manager-3nll)
-- [C# Performance Optimization: Using Span&lt;T&gt; and stackalloc to Eliminate Allocations](https://dev.to/danqzq/c-performance-optimization-using-span-and-stackalloc-to-eliminate-allocations-ikc)
-- [🚀 How I Got 25,000+ Views in 2 Days on a YouTube Short](https://dev.to/dmsmenula/how-i-got-25000-views-in-2-days-on-a-youtube-short-1lc1)
+- [I Built NimPacket, a Raw Packet Crafting Library in Nim, and It Turned Into One of My Best Cyber Projects](https://dev.to/0x57origin/i-built-nimpacket-a-raw-packet-crafting-library-in-nim-and-it-turned-into-one-of-my-best-cyber-1n0g)
+- [From Wrappers to Reasoners: Building an Iterative Research Agent](https://dev.to/kaustav_chowdhury_f3cdc47/from-wrappers-to-reasoners-building-an-iterative-research-agent-3j7l)
+- [Resuming my journey on learning the basics of AI](https://dev.to/palash90/resuming-my-journey-on-learning-the-basics-of-ai-50lj)
+- [[AWS] DevTools Evangelism Kiro&#39;s Edition](https://dev.to/aws-builders/aws-devtools-evangelism-kiros-edition-1jcp)
+- [How AI-Based Automation Reduces Manual Errors by 80% in Operations](https://dev.to/mdmamunkabir/how-ai-based-automation-reduces-manual-errors-by-80-in-operations-17b8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
