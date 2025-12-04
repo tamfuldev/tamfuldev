@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Secure Score Guide for Cloud Security](https://dev.to/john_asmith_bdd2c6cdfa0/azure-secure-score-guide-for-cloud-security-519a)
-- [From Raw Claims and Clinical Data to PCORnet CDM: End-to-End ETL on Snowflake](https://dev.to/sciforce/from-raw-claims-and-clinical-data-to-pcornet-cdm-end-to-end-etl-on-snowflake-29n0)
-- [Top 10 Easy Ways to Make Your Shopify Site Faster](https://dev.to/websitespeedy/top-10-easy-ways-to-make-your-shopify-site-faster-18l)
-- [A game that reaches the real world](https://dev.to/alis/a-game-that-reaches-the-real-world-2pn9)
-- [12 Best Remote Collaboration Tools to Supercharge Your Team in 2025](https://dev.to/gambplays/12-best-remote-collaboration-tools-to-supercharge-your-team-in-2025-345c)
+- [From Prompts to Purpose: Building AI Agents That Actually Heal Cities](https://dev.to/adrija_c9884799936f817224/from-prompts-to-purpose-building-ai-agents-that-actually-heal-cities-48fp)
+- [I Switched Shell History Tools. Here&#39;s Why](https://dev.to/nickytonline/i-switched-shell-history-tools-heres-why-m6h)
+- [How I processed 2,000 concurrent OpenAI requests using Node.js Streams &lpar;Zero 429 Errors&rpar;](https://dev.to/catmapapi/how-i-processed-2000-concurrent-openai-requests-using-nodejs-streams-zero-429-errors-341a)
+- [Qik Seek: My Modern, Fast, and Interactive Search Engine](https://dev.to/futuredev_guy/qik-seek-my-modern-fast-and-interactive-search-engine-3762)
+- [Optimizing Business Decision-Making with OptaPlanner: A Complete Guide](https://dev.to/richa_singh_11bd098df12c8/optimizing-business-decision-making-with-optaplanner-a-complete-guide-1755)
 <!-- BLOG-POST-LIST:END -->
 
 ---
