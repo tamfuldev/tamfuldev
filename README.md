@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: Give Me 9 Minutes, I&#39;ll Make You AI-Native](https://dev.to/future_ai/jeff-su-give-me-9-minutes-ill-make-you-ai-native-28ee)
-- [Introducing The Custom Elements Dev Server](https://dev.to/bennypowers/introducing-the-custom-elements-dev-server-5eog)
-- [Zero to shipped - a year in review](https://dev.to/aws/zero-to-shipped-a-year-in-review-3in9)
-- [🐳 I built a tool to find exactly which commit bloated your Docker image](https://dev.to/jtodic/i-built-a-tool-to-find-exactly-which-commit-bloated-your-docker-image-2h79)
-- [I Built SQLTranslate: An AI-Powered Tool to Convert SQL Between Database Dialects](https://dev.to/maker_labs_14b97842b854d9/i-built-sqltranslate-an-ai-powered-tool-to-convert-sql-between-database-dialects-2c2i)
+- [Google Workspace Studio Agents: A Simple Guide for Developers](https://dev.to/arsalanmeee/google-workspace-studio-agents-a-simple-guide-for-developers-105a)
+- [Microsoft AI Copilot News Today: Latest Updates and Features](https://dev.to/techdecodedly/microsoft-ai-copilot-news-today-latest-updates-and-features-2ph)
+- [From Code to Cognition: My AI Agents Intensive Journey](https://dev.to/aniket_ankushhumbe_e62dd/from-code-to-cognition-my-ai-agents-intensive-journey-4l70)
+- [The Courage to Disconnect: Why I Chose &quot;Privacy First&quot; in a Data-Hungry World](https://dev.to/elevenapril/the-courage-to-disconnect-why-i-chose-privacy-first-in-a-data-hungry-world-47b6)
+- [From Client to Server: Alova 3&#39;s Full-Stack Request Strategy Practice](https://dev.to/eddieangle/from-client-to-server-alova-3s-full-stack-request-strategy-practice-631)
 <!-- BLOG-POST-LIST:END -->
 
 ---
