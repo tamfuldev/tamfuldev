@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Concorrência, paralelismo e IA em produção: como reduzir a latência de endpoints de 40s para 8s](https://dev.to/vinidev/concorrencia-paralelismo-e-ia-em-producao-como-reduzir-a-latencia-de-endpoints-de-40s-para-8s-2ge2)
-- [Como recuperar autonomia quando a solução chega pronta](https://dev.to/thethinkingengineer/como-recuperar-autonomia-quando-a-solucao-chega-pronta-41mn)
-- [The Lie of the Global Average: Why Taming Complex SLIs Requires Bucketing](https://dev.to/parthibanrajasekaran/the-lie-of-the-global-average-why-taming-complex-slis-requires-bucketing-4mfg)
-- [KCL For Managing Infraestructure as Data](https://dev.to/segoja7/kcl-for-managing-infraestructure-as-data-n7a)
-- [Logs de Aplicações Java: Motivações e Melhores Práticas de Utilização](https://dev.to/valterlobo/logs-de-aplicacoes-java-motivacoes-e-melhores-praticas-de-utilizacao-47ma)
+- [The beginning of a journey with Kubernetes - cluster architecture](https://dev.to/cattkaizen/the-beginning-of-a-journey-with-kubernetes-cluster-architecture-2h2d)
+- [Migrating from Terraform/Helm to Database-Driven Kubernetes Without Deleting Anything](https://dev.to/selenehyun/migrating-from-terraformhelm-to-database-driven-kubernetes-without-deleting-anything-1bgm)
+- [AI x Blockchain = The New Power Couple](https://dev.to/favebs/ai-x-blockchain-the-new-power-couple-l5f)
+- [How Rust&#39;s Future Type Guarantees Scalable, Safe Asynchronous I/O](https://dev.to/_56d7718cea8fe00ec1610/how-rusts-future-type-guarantees-scalable-safe-asynchronous-io-5c5g)
+- [Underdocumented issues are the worst, especially when it&#39;s more about configuration because it&#39;s often under-error-messaged too *tear*](https://dev.to/drguthals/underdocumented-issues-are-the-worst-especially-when-its-more-about-configuration-because-its-1ink)
 <!-- BLOG-POST-LIST:END -->
 
 ---
