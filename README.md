@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Prompts to Purpose: Building AI Agents That Actually Heal Cities](https://dev.to/adrija_c9884799936f817224/from-prompts-to-purpose-building-ai-agents-that-actually-heal-cities-48fp)
-- [I Switched Shell History Tools. Here&#39;s Why](https://dev.to/nickytonline/i-switched-shell-history-tools-heres-why-m6h)
-- [How I processed 2,000 concurrent OpenAI requests using Node.js Streams &lpar;Zero 429 Errors&rpar;](https://dev.to/catmapapi/how-i-processed-2000-concurrent-openai-requests-using-nodejs-streams-zero-429-errors-341a)
-- [Qik Seek: My Modern, Fast, and Interactive Search Engine](https://dev.to/futuredev_guy/qik-seek-my-modern-fast-and-interactive-search-engine-3762)
-- [Optimizing Business Decision-Making with OptaPlanner: A Complete Guide](https://dev.to/richa_singh_11bd098df12c8/optimizing-business-decision-making-with-optaplanner-a-complete-guide-1755)
+- [Jeff Su: Give Me 9 Minutes, I&#39;ll Make You AI-Native](https://dev.to/future_ai/jeff-su-give-me-9-minutes-ill-make-you-ai-native-28ee)
+- [Introducing The Custom Elements Dev Server](https://dev.to/bennypowers/introducing-the-custom-elements-dev-server-5eog)
+- [Zero to shipped - a year in review](https://dev.to/aws/zero-to-shipped-a-year-in-review-3in9)
+- [🐳 I built a tool to find exactly which commit bloated your Docker image](https://dev.to/jtodic/i-built-a-tool-to-find-exactly-which-commit-bloated-your-docker-image-2h79)
+- [I Built SQLTranslate: An AI-Powered Tool to Convert SQL Between Database Dialects](https://dev.to/maker_labs_14b97842b854d9/i-built-sqltranslate-an-ai-powered-tool-to-convert-sql-between-database-dialects-2c2i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
