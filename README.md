@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The beginning of a journey with Kubernetes - cluster architecture](https://dev.to/cattkaizen/the-beginning-of-a-journey-with-kubernetes-cluster-architecture-2h2d)
-- [Migrating from Terraform/Helm to Database-Driven Kubernetes Without Deleting Anything](https://dev.to/selenehyun/migrating-from-terraformhelm-to-database-driven-kubernetes-without-deleting-anything-1bgm)
-- [AI x Blockchain = The New Power Couple](https://dev.to/favebs/ai-x-blockchain-the-new-power-couple-l5f)
-- [How Rust&#39;s Future Type Guarantees Scalable, Safe Asynchronous I/O](https://dev.to/_56d7718cea8fe00ec1610/how-rusts-future-type-guarantees-scalable-safe-asynchronous-io-5c5g)
-- [Underdocumented issues are the worst, especially when it&#39;s more about configuration because it&#39;s often under-error-messaged too *tear*](https://dev.to/drguthals/underdocumented-issues-are-the-worst-especially-when-its-more-about-configuration-because-its-1ink)
+- [Advent of AI 2025 - Day 3: Building Data Visualizations with Goose](https://dev.to/nickytonline/advent-of-ai-2025-day-1-building-data-visualizations-with-goose-g7f)
+- [How to customise the way GitHub Copilot responds](https://dev.to/mishmanners/how-to-customise-the-way-github-copilot-responds-3bp7)
+- [Advent.js 2025🎅🏼| Reto #1: Filtrar los regalos defectuosos](https://dev.to/duxtech/adventjs-2025-reto-1-filtrar-los-regalos-defectuosos-1ck9)
+- [How the 5-Day Intensive Felt](https://dev.to/akash_santhnusundar_13c0/how-the-5-day-intensive-felt-jlh)
+- [Classic photo](https://dev.to/dhanishlass_2007_792c8706/classic-photo-33i6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
