@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Advent of Code 2025 - December 4th](https://dev.to/robvanderleek/advent-of-code-2025-december-4th-7ik)
-- [How and Why to Integrate Salesforce with NetSuite — A Practical Approach](https://dev.to/vladam/how-and-why-to-integrate-salesforce-with-netsuite-a-practical-approach-326n)
-- [🤖 Aplikasi Machine Learning &lpar;ML&rpar; dalam Mendesain Tata Letak Ruangan Optimal](https://dev.to/ideinterior25/aplikasi-machine-learning-ml-dalam-mendesain-tata-letak-ruangan-optimal-47nd)
-- [What I learnt in the 5-Day Gen AI Intensive Course with Google](https://dev.to/ritampal26/what-i-learnt-in-the-5-day-gen-ai-intensive-course-with-google-2akn)
-- [Inside an Android SBC: CPU, GPU, RAM, Storage, and I/O Explained](https://dev.to/tonyhe8688/inside-an-android-sbc-cpu-gpu-ram-storage-and-io-explained-3po4)
+- [Separating Class Responsibilities with Clprolf](https://dev.to/charles_koffler_bcabc582b/separating-class-responsibilities-with-clprolf-7f)
+- [Microfrontends Without Frameworks: A Simple, Vanilla JavaScript Approach](https://dev.to/vimgudy/microfrontends-without-frameworks-a-simple-vanilla-javascript-approach-2c0h)
+- [How to Use vCards to Land Brand Deals and Collaborations](https://dev.to/imtaslim/how-to-use-vcards-to-land-brand-deals-and-collaborations-5em4)
+- [A Cyberpunk notification library with glitch animations and typewriter effects.](https://dev.to/hsr88/a-cyberpunk-notification-library-with-glitch-animations-and-typewriter-effects-3mo7)
+- [Recent Breakthrough: &#39;Netflix Replay&#39; AI Technology](https://dev.to/drcarlosruizviquez/recent-breakthrough-netflix-replay-ai-technology-28j8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
