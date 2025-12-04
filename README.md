@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built NimPacket, a Raw Packet Crafting Library in Nim, and It Turned Into One of My Best Cyber Projects](https://dev.to/0x57origin/i-built-nimpacket-a-raw-packet-crafting-library-in-nim-and-it-turned-into-one-of-my-best-cyber-1n0g)
-- [From Wrappers to Reasoners: Building an Iterative Research Agent](https://dev.to/kaustav_chowdhury_f3cdc47/from-wrappers-to-reasoners-building-an-iterative-research-agent-3j7l)
-- [Resuming my journey on learning the basics of AI](https://dev.to/palash90/resuming-my-journey-on-learning-the-basics-of-ai-50lj)
-- [[AWS] DevTools Evangelism Kiro&#39;s Edition](https://dev.to/aws-builders/aws-devtools-evangelism-kiros-edition-1jcp)
-- [How AI-Based Automation Reduces Manual Errors by 80% in Operations](https://dev.to/mdmamunkabir/how-ai-based-automation-reduces-manual-errors-by-80-in-operations-17b8)
+- [Finding Better BrowserStack Reporting Alternatives](https://dev.to/pratik01/finding-better-browserstack-reporting-alternatives-2639)
+- [How Low-Code Platforms Are Transforming Startup App Development](https://dev.to/eira-wexford/how-low-code-platforms-are-transforming-startup-app-development-2l3)
+- [fullcircle • A Mindful Dating App with Community Events &amp; Self-Growth &lpar;TestFlight Available!&rpar;](https://dev.to/canberkvarli/fullcircle-a-mindful-dating-app-with-community-events-self-growth-testflight-available-10el)
+- [⭐ My AI Agents Intensive Learning Journey – Challenge Submission](https://dev.to/saniya_mohammad_837c427af/my-ai-agents-intensive-learning-journey-challenge-submission-4l1e)
+- [Base44 Explained: How It Works, Key Features, and Top Alternatives](https://dev.to/nithya_iyer/base44-explained-how-it-works-key-features-and-top-alternatives-84l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
