@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Separating Class Responsibilities with Clprolf](https://dev.to/charles_koffler_bcabc582b/separating-class-responsibilities-with-clprolf-7f)
-- [Microfrontends Without Frameworks: A Simple, Vanilla JavaScript Approach](https://dev.to/vimgudy/microfrontends-without-frameworks-a-simple-vanilla-javascript-approach-2c0h)
-- [How to Use vCards to Land Brand Deals and Collaborations](https://dev.to/imtaslim/how-to-use-vcards-to-land-brand-deals-and-collaborations-5em4)
-- [A Cyberpunk notification library with glitch animations and typewriter effects.](https://dev.to/hsr88/a-cyberpunk-notification-library-with-glitch-animations-and-typewriter-effects-3mo7)
-- [Recent Breakthrough: &#39;Netflix Replay&#39; AI Technology](https://dev.to/drcarlosruizviquez/recent-breakthrough-netflix-replay-ai-technology-28j8)
+- [On Software Complexity: Why Can&#39;t We Make Simple Software?](https://dev.to/pmbanugo/on-software-complexity-why-cant-we-make-simple-software-5cbh)
+- [Workspaces, react and vite. A real-world case study for managing duplicate libraries.](https://dev.to/mattia/workspaces-react-and-vite-a-real-world-case-study-for-managing-duplicate-libraries-4ojb)
+- [Lo que más me sorprendió de re:Invent 2025 &lpar;hasta ahora&rpar;](https://dev.to/ricardoceci/lo-que-mas-me-sorprendio-de-reinvent-2025-hasta-ahora-1afa)
+- [Design System Architectures in Minutes with AI](https://dev.to/matt_frank_1c8b599c4c37bd/design-system-architectures-in-minutes-with-ai-48m8)
+- [Y&#39;all NEED to see this!!!](https://dev.to/ameena/yall-need-to-see-this-3me1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
