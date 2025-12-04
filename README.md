@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Monolithic CLIs to Modular Plugins: Applying the Strangler Fig Pattern](https://dev.to/aman_kumar_bdd40f1b711c15/from-monolithic-clis-to-modular-plugins-applying-the-strangler-fig-pattern-3gok)
-- [iOS Performance Tools Review: Comparison and recommended mixes of six common solutions &lpar;2025&rpar;.](https://dev.to/datastack/ios-performance-tools-review-comparison-and-recommended-mixes-of-six-common-solutions-2025-3nnm)
-- [My Journey Through the Kaggle Google 5-Day Intensive ML Sprint](https://dev.to/sourav_sarangi_dad0e0ae28/my-journey-through-the-kaggle-x-google-5-day-intensive-ml-sprint-2a1n)
-- [My 5-Day Journey with the Kaggle AI Agents Intensive – What I Learned &amp; Built](https://dev.to/busanamoni_sowmya_7df2431/my-5-day-journey-with-the-kaggle-ai-agents-intensive-what-i-learned-built-21hn)
-- [How to Convert Excel to HTML in C#](https://dev.to/yahey/how-to-convert-excel-to-html-in-c-4d0l)
+- [My experience with the 5-Day AI Agents Intensive A Pratice Reflection](https://dev.to/aman_thakur_05a98cf4460f4/my-experience-with-the-5-day-ai-agents-intensive-a-pratice-reflection-37jp)
+- [From Struggle to Flow: A New Paradigm for Success](https://dev.to/d3one/from-struggle-to-flow-a-new-paradigm-for-success-3gk2)
+- [Designing for KaiOS - Leveraging Kiro to build an app for the next billion mobile users](https://dev.to/mrmemory/designing-for-kaios-leveraging-kiro-to-build-an-app-for-the-next-billion-mobile-users-3o69)
+- [Google just made n8n look expensive 💰](https://dev.to/tisankan/google-just-made-n8n-look-expensive-1ma1)
+- [Set Up Your Mac Development Environment in Minutes with Hola](https://dev.to/ratazzi/set-up-your-mac-development-environment-in-minutes-with-hola-57ab)
 <!-- BLOG-POST-LIST:END -->
 
 ---
