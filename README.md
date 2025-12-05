@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built Professor Doom - A Spooky Resume Roaster Using Kiro](https://dev.to/shuvodip99/how-i-built-professor-doom-a-spooky-resume-roaster-using-kiro-1li)
-- [AWS re:Invent 2025 - Ericsson Innovation: Optimizing Mobile Networks &amp; Unified Development with AWS](https://dev.to/kazuya_dev/aws-reinvent-2025-ericsson-innovation-optimizing-mobile-networks-unified-development-with-aws-23nb)
-- [How to Implement LLM Grounding using Retrieval Augmented Generation Technique&lpar;RAG&rpar;](https://dev.to/eyitayoitalt/how-to-implement-llm-grounding-using-retrieval-augmented-generation-techniquerag-1m2p)
-- [Start with a Gravel Road: Why MVPs Beat 12‑Lane Highways](https://dev.to/wraith/start-with-a-gravel-road-why-mvps-beat-12-lane-highways-2mdk)
-- [Python for Beginners and Intermediate Developers — A Complete Guide](https://dev.to/farhadrahimiklie/python-for-beginners-and-intermediate-developers-a-complete-guide-e66)
+- [Bringing back 1960s Punch Cards Back to Life with AI!](https://dev.to/tangitozukum_d255dc9ceaa/bringing-back-1960s-punch-cards-back-to-life-with-ai-2cam)
+- [Giving AI a Memory: How I Built Consciousness Continuity for Claude Code](https://dev.to/rodrigo_luglio_f63c6051de/giving-ai-a-memory-how-i-built-consciousness-continuity-for-claude-code-5h33)
+- [A dive into npx: What happens when you run npx?](https://dev.to/rijultp/a-dive-into-npx-what-happens-when-you-run-npx-4od6)
+- [AWS re:Invent 2025 - Beyond EHR: Leveraging AWS for Maximum Clinical and Operational Impact &lpar;IND213&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-beyond-ehr-leveraging-aws-for-maximum-clinical-and-operational-impact-ind213-5f8o)
+- [AWS re:Invent 2025 - AI Agents Slash PGA TOUR&#39;s Content Cost While Boosting Coverage/Quality -SPF204](https://dev.to/kazuya_dev/aws-reinvent-2025-ai-agents-slash-pga-tours-content-cost-while-boosting-coveragequality-spf204-22kn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
