@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The difference between for...of and for...in loops in JavaScript](https://dev.to/mkbs_alaa/the-difference-between-forof-and-forin-loops-in-javascript-dh5)
-- [Coding Challenge Practice - Question 71](https://dev.to/tomivan/coding-challenge-practice-question-71-273n)
-- [From Burnout to Builder: How AI Tools Changed My Relationship with Code](https://dev.to/bdubs/from-burnout-to-builder-how-ai-tools-changed-my-relationship-with-code-3h7h)
-- [Seeking Technical Co-Founder - AI/ML Integration + Smart Contract Development &lpar;2 Revenue-Generating Projects&rpar;](https://dev.to/frederick_alonso_8e471d02/seeking-technical-co-founder-aiml-integration-smart-contract-development-2-revenue-generating-1hgk)
-- [A Deep Cybersecurity View of Encryption](https://dev.to/alvinseyidov/a-deep-cybersecurity-view-of-encryption-g4b)
+- [LocalTunnel Server Setup Documentation](https://dev.to/durrello/localtunnel-server-setup-documentation-370k)
+- [Apple App Store Keyword Rules: The Hidden Rule of Precise User Touch](https://dev.to/asorankn/apple-app-store-keyword-rules-the-hidden-rule-of-precise-user-touch-14d8)
+- [AWS and Google Cloud officially announced a jointly engineered multicloud](https://dev.to/basel5001/aws-and-google-cloud-officially-announced-a-jointly-engineered-multicloud-167)
+- [Built a tool to fix the &#39;minimum brightness is still too bright&#39; problem on Hyprland](https://dev.to/mrdrbrdr/built-a-tool-to-fix-the-minimum-brightness-is-still-too-bright-problem-on-hyprland-1p1h)
+- [SwiftUI Testing &lpar;Unit, UI &amp; Async Tests&rpar;](https://dev.to/sebastienlato/swiftui-testing-unit-ui-async-tests-1plb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
