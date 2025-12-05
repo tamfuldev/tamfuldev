@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 My Learning Journey in the Google AI Agents Intensive — Building a Multi-Agent Concierge System](https://dev.to/rajesh_kumarsingh_803a87/my-learning-journey-in-the-google-ai-agents-intensive-building-a-multi-agent-concierge-system-48gj)
-- [How Negative SEO Farms Like TraderKnows Exploit Google&#39;s Algorithm](https://dev.to/qingshieldcenter/how-negative-seo-farms-like-traderknows-exploit-googles-algorithm-35f7)
-- [Standardizing Express.js Error Handling with One Library](https://dev.to/diana05/standardizing-expressjs-error-handling-with-one-library-1ohn)
-- [Promptless Content Workflow Using Zywrap + NodeJS](https://dev.to/zywrap/promptless-content-workflow-using-zywrap-nodejs-78k)
-- [How to Build a Module Bundler: Complete Guide to 8 Core Techniques with Code Examples](https://dev.to/nithinbharathwaj/how-to-build-a-module-bundler-complete-guide-to-8-core-techniques-with-code-examples-3d9l)
+- [Transformando WordPress en una Herramienta Sostenible: Plugins y Configuraciones Eco-Amigables](https://dev.to/lontafara/transformando-wordpress-en-una-herramienta-sostenible-plugins-y-configuraciones-eco-amigables-25je)
+- [Efecto copos de nieve para dar a nuestra web un toque navideño](https://dev.to/drodero/efecto-copos-de-nieve-para-dar-a-nuestra-web-un-toque-navideno-3j01)
+- [Master Server-Sent Events &lpar;SSE&rpar; in Symfony 7.4](https://dev.to/mattleads/master-server-sent-events-sse-in-symfony-74-15co)
+- [How AWS Kiro Was Used to Build DreamWeen](https://dev.to/jeanmarc_bah_474aa3fc1b6/how-aws-kiro-was-used-to-build-dreamween-2nmh)
+- [AWS re:Invent 2025 - Using Amazon Nova Act to simplify login workflows &lpar;AIM271&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-using-amazon-nova-act-to-simplify-login-workflows-aim271-59i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
