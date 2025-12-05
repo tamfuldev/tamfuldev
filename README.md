@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Better Way to Discover Trending GitHub Repos 🚀](https://dev.to/behnam_azimi_9335d5b42517/i-built-a-better-way-to-discover-trending-github-repos-3oeg)
-- [Show HN: Visual Architecture Diagram Builder in Angular with 47+ Components](https://dev.to/samba425/show-hn-visual-architecture-diagram-builder-in-angular-with-47-components-5cmg)
-- [Resurrecting the Internet&#39;s Past: Building a Modern Gopher Browser with Kiro](https://dev.to/pooja_bhavani/resurrecting-the-internets-past-building-a-modern-gopher-browser-with-kiro-20if)
-- [Building a Multi-Agent Ghost Story: How Kiro’s Hybrid Development Changed Everything](https://dev.to/ayush_pathak_bc94618d99f0/building-a-multi-agent-ghost-story-how-kiroshybrid-development-changed-everything-12il)
-- [AWS re:Invent 2025 - Deep Dive: ECS Managed Instances &amp; Blue/Green for Resilient Services &lpar;CNS416&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-deep-dive-ecs-managed-instances-bluegreen-for-resilient-services-cns416-49g8)
+- [Known Knowns &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/known-knowns-bite-size-article-33pp)
+- [GoGPU: A Pure Go Graphics Library for GPU Programming](https://dev.to/kolkov/gogpu-a-pure-go-graphics-library-for-gpu-programming-2j5d)
+- [What IS i3rbly?](https://dev.to/darealone/i3rbly-building-an-arabic-first-ai-layer-for-search-nlp-and-zero-loss-text-understanding-29i0)
+- [FastAPI Performance: The Hidden Thread Pool Overhead You Might Be Missing](https://dev.to/bkhalifeh/fastapi-performance-the-hidden-thread-pool-overhead-you-might-be-missing-2ok6)
+- [🧟 I Gamified my Task Manager into a Zombie Shooter to Save my RAM &lpar;Built with Kiro&rpar;](https://dev.to/saicharan_lokineni_531e89/i-gamified-my-task-manager-into-a-zombie-shooter-to-save-my-ram-built-with-kiro-4kjb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
