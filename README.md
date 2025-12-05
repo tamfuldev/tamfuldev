@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Chaos to Code: ALPHALABS](https://dev.to/harshit_aggarwal_2e641193/from-chaos-to-code-alphalabs-103e)
-- [I Resurrected Encarta 1998](https://dev.to/omu/i-resurrected-encarta-1998-2f6g)
-- [AWS re:Invent 2025 - Powering Enterprise AI: Architecting and Governing Agents at Iberdrola on AWS](https://dev.to/kazuya_dev/aws-reinvent-2025-powering-enterprise-ai-architecting-and-governing-agents-at-iberdrola-on-aws-58ce)
-- [WordPress + Kiro](https://dev.to/jkoleman/wordpress-kiro-10oa)
-- [🎃 How We Built a SaaS Platform in 3 Weeks&quot; The story of Distrogent, our Kiroween Hackathon entry. Featuring Go, Kubernetes.](https://dev.to/pranavan_techiee_8e5237f2/how-we-built-a-saas-platform-in-3-weeks-the-story-of-distrogent-our-kiroween-hackathon-entry-4ja5)
+- [Cómo crear un Blog de Alto Rendimiento con Astro y Hygraph](https://dev.to/joaquin_sez_6de09e190ca1/como-crear-un-blog-de-alto-rendimiento-con-astro-y-hygraph-1d8d)
+- [SmartStudy: The Cross-Platform Rule-Based AI Coach for Students &lpar;Built with Uno Platform&rpar;](https://dev.to/emirsphere/smartstudy-the-cross-platform-rule-based-ai-coach-for-students-built-with-uno-platform-7pn)
+- [AWS re:Invent 2025 - Build resilient and low-latency hybrid telecom infrastructure at scale &lpar;HMC328&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-build-resilient-and-low-latency-hybrid-telecom-infrastructure-at-scale-hmc328-36pc)
+- [Fitness Copilot - 🎃 Kiroween 2025](https://dev.to/jgorostegui/fitness-copilot-kiroween-2025-4ggb)
+- [AWS re:Invent 2025 - Another Axiom: Migrating the backend for hit game Gorilla Tag to AWS &lpar;IND396&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-another-axiom-migrating-the-backend-for-hit-game-gorilla-tag-to-aws-ind396-lb1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
