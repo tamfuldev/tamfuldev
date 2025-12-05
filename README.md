@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Turbocharge Your Optimization: Preconditioning for the Win](https://dev.to/arvind_sundararajan/turbocharge-your-optimization-preconditioning-for-the-win-1bm0)
-- [Building SpecSync: How I Extended Kiro with Custom MCP Tools](https://dev.to/chrysostomos_koumides_bf8/building-specsync-how-i-extended-kiro-with-custom-mcp-tools-2ilg)
-- [⚙️ Membangun Protokol Smart Home: Integrasi API IoT dan Desain Interior](https://dev.to/ideinterior25/membangun-protokol-smart-home-integrasi-api-iot-dan-desain-interior-176l)
-- [Combine #2: Emisores &amp; Suscriptores](https://dev.to/david_goyes_a488f58a17a53/combine-2-emisores-suscriptores-3ad6)
-- [Universal &amp; Deep Links: 2026 Complete Guide](https://dev.to/marko_boras_64fe51f7833a6/universal-deep-links-2026-complete-guide-36c4)
+- [I Built a Better Way to Discover Trending GitHub Repos 🚀](https://dev.to/behnam_azimi_9335d5b42517/i-built-a-better-way-to-discover-trending-github-repos-3oeg)
+- [Show HN: Visual Architecture Diagram Builder in Angular with 47+ Components](https://dev.to/samba425/show-hn-visual-architecture-diagram-builder-in-angular-with-47-components-5cmg)
+- [Resurrecting the Internet&#39;s Past: Building a Modern Gopher Browser with Kiro](https://dev.to/pooja_bhavani/resurrecting-the-internets-past-building-a-modern-gopher-browser-with-kiro-20if)
+- [Building a Multi-Agent Ghost Story: How Kiro’s Hybrid Development Changed Everything](https://dev.to/ayush_pathak_bc94618d99f0/building-a-multi-agent-ghost-story-how-kiroshybrid-development-changed-everything-12il)
+- [AWS re:Invent 2025 - Deep Dive: ECS Managed Instances &amp; Blue/Green for Resilient Services &lpar;CNS416&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-deep-dive-ecs-managed-instances-bluegreen-for-resilient-services-cns416-49g8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
