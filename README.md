@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Custom JavaScript Errors Create Messy Stack Traces and How Error.captureStackTrace Fixes Them](https://dev.to/silentwatcher_95/why-custom-javascript-errors-create-messy-stack-traces-and-how-errorcapturestacktrace-fixes-them-3ahb)
-- [n8n: Credential - Microsoft Drive OAuth2 API](https://dev.to/codebangkok/n8n-credential-microsoft-drive-oauth2-api-1h1e)
-- [AWS re:Invent 2025 - Intelligent security: Protection at scale from development to production-INV214](https://dev.to/kazuya_dev/aws-reinvent-2025-intelligent-security-protection-at-scale-from-development-to-production-inv214-3da)
-- [We Spent 6 Months Breaking LinkedIn&#39;s Anti-Bot System &lpar;So You Don&#39;t Have To&rpar;](https://dev.to/romclerix/we-spent-6-months-breaking-linkedins-anti-bot-system-so-you-dont-have-to-4f63)
-- [Building a Hallucination-Proof Analytics Agent with Google’s ADK](https://dev.to/kshitij_dubey_380f7d1e26b/building-a-hallucination-proof-analytics-agent-with-googles-adk-19he)
+- [Turbocharge Your Optimization: Preconditioning for the Win](https://dev.to/arvind_sundararajan/turbocharge-your-optimization-preconditioning-for-the-win-1bm0)
+- [Building SpecSync: How I Extended Kiro with Custom MCP Tools](https://dev.to/chrysostomos_koumides_bf8/building-specsync-how-i-extended-kiro-with-custom-mcp-tools-2ilg)
+- [⚙️ Membangun Protokol Smart Home: Integrasi API IoT dan Desain Interior](https://dev.to/ideinterior25/membangun-protokol-smart-home-integrasi-api-iot-dan-desain-interior-176l)
+- [Combine #2: Emisores &amp; Suscriptores](https://dev.to/david_goyes_a488f58a17a53/combine-2-emisores-suscriptores-3ad6)
+- [Universal &amp; Deep Links: 2026 Complete Guide](https://dev.to/marko_boras_64fe51f7833a6/universal-deep-links-2026-complete-guide-36c4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
