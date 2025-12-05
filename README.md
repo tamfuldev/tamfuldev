@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Use of Excel in Payroll Management and Salary Analysis](https://dev.to/ibukunoluwa_onamakinde_99/the-use-of-excel-in-payroll-management-and-salary-analysis-1kfg)
-- [AWS re:Invent 2025 - 4x faster workload modernization with agentic AI &lpar;MAM349&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-4x-faster-workload-modernization-with-agentic-ai-mam349-1373)
-- [The Graveyard of forgotten tech by kiroween](https://dev.to/manya_gautamrajput_4c19d/the-graveyard-of-forgotten-tech-by-kiroween-52i6)
-- [AWS re:Invent 2025 - Vibe modernize your .NET applications using AWS Transform and Kiro &lpar;MAM343&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-vibe-modernize-your-net-applications-using-aws-transform-and-kiro-mam343-4amb)
-- [Functions And Arrow Functions](https://dev.to/joorch/functions-and-arrow-functions-4pc9)
+- [From Chaos to Code: ALPHALABS](https://dev.to/harshit_aggarwal_2e641193/from-chaos-to-code-alphalabs-103e)
+- [I Resurrected Encarta 1998](https://dev.to/omu/i-resurrected-encarta-1998-2f6g)
+- [AWS re:Invent 2025 - Powering Enterprise AI: Architecting and Governing Agents at Iberdrola on AWS](https://dev.to/kazuya_dev/aws-reinvent-2025-powering-enterprise-ai-architecting-and-governing-agents-at-iberdrola-on-aws-58ce)
+- [WordPress + Kiro](https://dev.to/jkoleman/wordpress-kiro-10oa)
+- [🎃 How We Built a SaaS Platform in 3 Weeks&quot; The story of Distrogent, our Kiroween Hackathon entry. Featuring Go, Kubernetes.](https://dev.to/pranavan_techiee_8e5237f2/how-we-built-a-saas-platform-in-3-weeks-the-story-of-distrogent-our-kiroween-hackathon-entry-4ja5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
