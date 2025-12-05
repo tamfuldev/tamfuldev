@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Transformando WordPress en una Herramienta Sostenible: Plugins y Configuraciones Eco-Amigables](https://dev.to/lontafara/transformando-wordpress-en-una-herramienta-sostenible-plugins-y-configuraciones-eco-amigables-25je)
-- [Efecto copos de nieve para dar a nuestra web un toque navideño](https://dev.to/drodero/efecto-copos-de-nieve-para-dar-a-nuestra-web-un-toque-navideno-3j01)
-- [Master Server-Sent Events &lpar;SSE&rpar; in Symfony 7.4](https://dev.to/mattleads/master-server-sent-events-sse-in-symfony-74-15co)
-- [How AWS Kiro Was Used to Build DreamWeen](https://dev.to/jeanmarc_bah_474aa3fc1b6/how-aws-kiro-was-used-to-build-dreamween-2nmh)
-- [AWS re:Invent 2025 - Using Amazon Nova Act to simplify login workflows &lpar;AIM271&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-using-amazon-nova-act-to-simplify-login-workflows-aim271-59i)
+- [Why Status Pages Alone Are Not Downdetector Alternatives](https://dev.to/cbartlett/why-status-pages-alone-are-not-downdetector-alternatives-en9)
+- [[Boost]](https://dev.to/ntombizakhona/-2efo)
+- [Control Your Feed, Control Your Mind: A Stoic&#39;s Guide to Digital Sanity](https://dev.to/thinkaddict/control-your-feed-control-your-mind-a-stoics-guide-to-digital-sanity-1b21)
+- [AWS re:Invent 2025 -Greenfield unlocked: Best practices for expanding new customer engagement-PEX206](https://dev.to/kazuya_dev/aws-reinvent-2025-greenfield-unlocked-best-practices-for-expanding-new-customer-engagement-pex206-3oja)
+- [EXHUMING ELIZA: How I Resurrected The 1966 AI Therapist with Kiro and Powered It With Amazon Nova Premier](https://dev.to/aws-builders/exhuming-eliza-how-i-resurrected-the-1966-ai-therapist-with-kiro-and-powered-it-with-amazon-nova-3184)
 <!-- BLOG-POST-LIST:END -->
 
 ---
