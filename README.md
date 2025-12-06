@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Securing Infrastructure as Code with Checkov: A Practical SAST Approach](https://dev.to/renzo_fernandoloyolavil/securing-infrastructure-as-code-with-checkov-a-practical-sast-approach-58co)
-- [AWS re:Invent 2025 - Behind the scenes: How AWS drives operational excellence &amp; reliability &lpar;COP415&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-behind-the-scenes-how-aws-drives-operational-excellence-reliability-cop415-1ank)
-- [Astro en Firebase hosting y conectado a GitHub](https://dev.to/joaquin_sez_6de09e190ca1/astro-en-firebase-hosting-y-conectado-a-github-ooo)
-- [AWS re:Invent 2025 - [NEW LAUNCH] Deep dive into AWS Database Savings Plans &lpar;DAT326&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-new-launch-deep-dive-into-aws-database-savings-plans-dat326-5di3)
-- [AWS re:Invent 2025 - Advanced data modeling with Amazon DynamoDB &lpar;DAT414&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-advanced-data-modeling-with-amazon-dynamodb-dat414-3g47)
+- [Migrating from Ingress NGINX to Pomerium Ingress Controller](https://dev.to/pomerium/migrating-from-ingress-nginx-to-pomerium-ingress-controller-47m6)
+- [How I Built an MCP Server in 50 Lines of Python &lpar;Auto-Generated from OpenAPI&rpar;](https://dev.to/durgaprasadbudhwani/how-i-built-an-mcp-server-in-50-lines-of-python-auto-generated-from-openapi-5apb)
+- [AWS re:Invent 2025 - Create hyper-personalized voice interactions with Amazon Nova Sonic &lpar;AIM374&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-create-hyper-personalized-voice-interactions-with-amazon-nova-sonic-aim374-3gdc)
+- [AWS re:Invent 2025 - Building scalable applications with text and multimodal understanding &lpar;AIM375&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-building-scalable-applications-with-text-and-multimodal-understanding-aim375-5fl9)
+- [AWS re:Invent 2025 - Customize models for agentic AI at scale with SageMaker AI and Bedrock &lpar;AIM381&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-customize-models-for-agentic-ai-at-scale-with-sagemaker-ai-and-bedrock-aim381-142m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
