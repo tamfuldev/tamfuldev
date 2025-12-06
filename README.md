@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AWS re:Invent 2025 - From Documents to Decisions: Unleashing AI-Powered Business Automation &lpar;SMB204&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-from-documents-to-decisions-unleashing-ai-powered-business-automation-smb204-54cg)
-- [AWS re:Invent 2025 - Move fast &amp; don&#39;t break things: Maintaining software excellence as you adopt AI](https://dev.to/kazuya_dev/aws-reinvent-2025-move-fast-dont-break-things-maintaining-software-excellence-as-you-adopt-ai-2jkc)
-- [Reflecting on Day 1A of Google&#39;s 5-Day AI Agents Intensive: From Prompt to Action](https://dev.to/nexoperose/reflecting-on-day-1a-of-googles-5-day-ai-agents-intensive-from-prompt-to-action-295e)
-- [The Secret Life of Python: Metaclasses - Classes That Make Classes](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-metaclasses-classes-that-make-classes-3lag)
-- [AWS re:Invent 2025-AWS Generative AI Innovation Center driving enterprise success with AWS Partners](https://dev.to/kazuya_dev/aws-reinvent-2025-aws-generative-ai-innovation-center-driving-enterprise-success-with-aws-partners-259f)
+- [AWS re:Invent 2025 - Customer Story: AI Adoption with Salesforce &amp; Amazon Bedrock &lpar;AIM267&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-customer-story-ai-adoption-with-salesforce-amazon-bedrock-aim267-38dg)
+- [Strands agent + Agent Core AWS](https://dev.to/kevinl/strands-agent-agent-core-aws-nho)
+- [AWS re:Invent 2025 - Agentic AI Meets Cybersecurity: eSentire’s Atlas AI Powered by Snowflake &amp; AWS](https://dev.to/kazuya_dev/aws-reinvent-2025-agentic-ai-meets-cybersecurity-esentires-atlas-ai-powered-by-snowflake-aws-30b6)
+- [AWS re:Invent 2025 - Fixing AI’s Confidently Wrong Problem in the Enterprise &lpar;AIM269&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-fixing-ais-confidently-wrong-problem-in-the-enterprise-aim269-gdi)
+- [Fixing Chaos for Small Shops](https://dev.to/vjygour/fixing-chaos-for-small-shops-50hn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
