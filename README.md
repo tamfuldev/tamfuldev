@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Cómo crear un Blog de Alto Rendimiento con Astro y Hygraph](https://dev.to/joaquin_sez_6de09e190ca1/como-crear-un-blog-de-alto-rendimiento-con-astro-y-hygraph-1d8d)
-- [SmartStudy: The Cross-Platform Rule-Based AI Coach for Students &lpar;Built with Uno Platform&rpar;](https://dev.to/emirsphere/smartstudy-the-cross-platform-rule-based-ai-coach-for-students-built-with-uno-platform-7pn)
-- [AWS re:Invent 2025 - Build resilient and low-latency hybrid telecom infrastructure at scale &lpar;HMC328&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-build-resilient-and-low-latency-hybrid-telecom-infrastructure-at-scale-hmc328-36pc)
-- [Fitness Copilot - 🎃 Kiroween 2025](https://dev.to/jgorostegui/fitness-copilot-kiroween-2025-4ggb)
-- [AWS re:Invent 2025 - Another Axiom: Migrating the backend for hit game Gorilla Tag to AWS &lpar;IND396&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-another-axiom-migrating-the-backend-for-hit-game-gorilla-tag-to-aws-ind396-lb1)
+- [Securing Infrastructure as Code with Checkov: A Practical SAST Approach](https://dev.to/renzo_fernandoloyolavil/securing-infrastructure-as-code-with-checkov-a-practical-sast-approach-58co)
+- [AWS re:Invent 2025 - Behind the scenes: How AWS drives operational excellence &amp; reliability &lpar;COP415&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-behind-the-scenes-how-aws-drives-operational-excellence-reliability-cop415-1ank)
+- [Astro en Firebase hosting y conectado a GitHub](https://dev.to/joaquin_sez_6de09e190ca1/astro-en-firebase-hosting-y-conectado-a-github-ooo)
+- [AWS re:Invent 2025 - [NEW LAUNCH] Deep dive into AWS Database Savings Plans &lpar;DAT326&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-new-launch-deep-dive-into-aws-database-savings-plans-dat326-5di3)
+- [AWS re:Invent 2025 - Advanced data modeling with Amazon DynamoDB &lpar;DAT414&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-advanced-data-modeling-with-amazon-dynamodb-dat414-3g47)
 <!-- BLOG-POST-LIST:END -->
 
 ---
