@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Chunk Boundary and Metadata Alignment: The Hidden Source of RAG Instability](https://dev.to/dowhatmatters/chunk-boundary-and-metadata-alignment-the-hidden-source-of-rag-instability-78b)
-- [Clean up your NestJS Controller: Remote API Validation inside DTOs 🧼🚀](https://dev.to/gsmatheus/clean-up-your-nestjs-controller-remote-api-validation-inside-dtos-1kdm)
-- [Stop Confusing sites-available and sites-enabled &lpar;Nginx Guide&rpar;](https://dev.to/rijultp/stop-confusing-sites-available-and-sites-enabled-nginx-guide-2ji1)
-- [RAG vs Fine-Tuning vs Prompt Engineering: The Ultimate Guide to Choosing the Right AI Strategy](https://dev.to/naresh_007/rag-vs-fine-tuning-vs-prompt-engineering-the-ultimate-guide-to-choosing-the-right-ai-strategy-3n8p)
-- [Empowering Security Teams: How Digital Scheduling Tools Are Revolutionizing Guard Work-Life Balance](https://dev.to/securitytips/empowering-security-teams-how-digital-scheduling-tools-are-revolutionizing-guard-work-life-balance-18bf)
+- [Building SkyMoment: A 4K Personalized Star Map Generator with Python, Skyfield and Astronomical Data](https://dev.to/balyakin/building-skymoment-a-4k-personalized-star-map-generator-with-python-skyfield-and-astronomical-data-11h9)
+- [How Container Governance Shapes Enterprise Deployment Strategies](https://dev.to/kapusto/how-container-governance-shapes-enterprise-deployment-strategies-eg)
+- [En los próximos 1-2 años, es previsible que la Prevención de](https://dev.to/drcarlosruizviquez/en-los-proximos-1-2-anos-es-previsible-que-la-prevencion-de-4lec)
+- [From ARM Assembly to Machine Code: A Bare-Metal Primer](https://dev.to/ripan030/from-arm-assembly-to-machine-code-a-bare-metal-primer-4c7m)
+- [En el futuro inmediato, estamos ante un escenario en el que](https://dev.to/drcarlosruizviquez/en-el-futuro-inmediato-estamos-ante-un-escenario-en-el-que-m9d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
