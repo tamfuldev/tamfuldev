@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AWS re:Invent 2025 - Customer Story: AI Adoption with Salesforce &amp; Amazon Bedrock &lpar;AIM267&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-customer-story-ai-adoption-with-salesforce-amazon-bedrock-aim267-38dg)
-- [Strands agent + Agent Core AWS](https://dev.to/kevinl/strands-agent-agent-core-aws-nho)
-- [AWS re:Invent 2025 - Agentic AI Meets Cybersecurity: eSentire’s Atlas AI Powered by Snowflake &amp; AWS](https://dev.to/kazuya_dev/aws-reinvent-2025-agentic-ai-meets-cybersecurity-esentires-atlas-ai-powered-by-snowflake-aws-30b6)
-- [AWS re:Invent 2025 - Fixing AI’s Confidently Wrong Problem in the Enterprise &lpar;AIM269&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-fixing-ais-confidently-wrong-problem-in-the-enterprise-aim269-gdi)
-- [Fixing Chaos for Small Shops](https://dev.to/vjygour/fixing-chaos-for-small-shops-50hn)
+- [Automating Business Reports with Excel for Increased Efficiency](https://dev.to/efe_freedom25/automating-business-reports-with-excel-for-increased-efficiency-m67)
+- [Order Tracking](https://dev.to/preetha_vaishnavi_2b82358/order-tracking-2lp4)
+- [Daily Tech News Roundup - 2025-12-06](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-12-06-51g3)
+- [The Smallest Tools Often Make the Biggest Impact](https://dev.to/knowadvance_c5092984a5b66/the-smallest-tools-often-make-the-biggest-impact-40hd)
+- [AWS re:Invent 2025 - Keynote with CEO Matt Garman](https://dev.to/kazuya_dev/aws-reinvent-2025-keynote-with-ceo-matt-garman-1pni)
 <!-- BLOG-POST-LIST:END -->
 
 ---
