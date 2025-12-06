@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating from Ingress NGINX to Pomerium Ingress Controller](https://dev.to/pomerium/migrating-from-ingress-nginx-to-pomerium-ingress-controller-47m6)
-- [How I Built an MCP Server in 50 Lines of Python &lpar;Auto-Generated from OpenAPI&rpar;](https://dev.to/durgaprasadbudhwani/how-i-built-an-mcp-server-in-50-lines-of-python-auto-generated-from-openapi-5apb)
-- [AWS re:Invent 2025 - Create hyper-personalized voice interactions with Amazon Nova Sonic &lpar;AIM374&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-create-hyper-personalized-voice-interactions-with-amazon-nova-sonic-aim374-3gdc)
-- [AWS re:Invent 2025 - Building scalable applications with text and multimodal understanding &lpar;AIM375&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-building-scalable-applications-with-text-and-multimodal-understanding-aim375-5fl9)
-- [AWS re:Invent 2025 - Customize models for agentic AI at scale with SageMaker AI and Bedrock &lpar;AIM381&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-customize-models-for-agentic-ai-at-scale-with-sagemaker-ai-and-bedrock-aim381-142m)
+- [AWS re:Invent 2025 - From Documents to Decisions: Unleashing AI-Powered Business Automation &lpar;SMB204&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-from-documents-to-decisions-unleashing-ai-powered-business-automation-smb204-54cg)
+- [AWS re:Invent 2025 - Move fast &amp; don&#39;t break things: Maintaining software excellence as you adopt AI](https://dev.to/kazuya_dev/aws-reinvent-2025-move-fast-dont-break-things-maintaining-software-excellence-as-you-adopt-ai-2jkc)
+- [Reflecting on Day 1A of Google&#39;s 5-Day AI Agents Intensive: From Prompt to Action](https://dev.to/nexoperose/reflecting-on-day-1a-of-googles-5-day-ai-agents-intensive-from-prompt-to-action-295e)
+- [The Secret Life of Python: Metaclasses - Classes That Make Classes](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-metaclasses-classes-that-make-classes-3lag)
+- [AWS re:Invent 2025-AWS Generative AI Innovation Center driving enterprise success with AWS Partners](https://dev.to/kazuya_dev/aws-reinvent-2025-aws-generative-ai-innovation-center-driving-enterprise-success-with-aws-partners-259f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
