@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Sync any Linux folder to Google drive using Rclone + systemd.](https://dev.to/arunkrish11/sync-any-linux-folder-to-google-drive-using-rclone-systemd-8d2)
-- [6 Must-Read Spring Boot and Spring Framework Books for Java developers in 2026](https://dev.to/somadevtoo/6-must-read-spring-boot-and-spring-framework-books-for-java-developers-in-2026-3i1m)
-- [Post 5/10 — From Ingress to Gateway API: Safer, Smarter Traffic Control](https://dev.to/cloud-sky-ops/post-510-from-ingress-to-gateway-api-safer-smarter-traffic-control-4od4)
-- [VSL Studio Reviews: Uncover Features, Pricing &amp; Bonuses](https://dev.to/nitin_kumar_17cc42ffd493d/vsl-studio-reviews-uncover-features-pricing-bonuses-kbd)
-- [Understanding Filtration Performance in Woven Wire Mesh: Aperture, Wire Diameter, and Weave Type](https://dev.to/mdwiremesh/understanding-filtration-performance-in-woven-wire-mesh-aperture-wire-diameter-and-weave-type-2n6j)
+- [New Bloggg](https://dev.to/ali_khan_22dcd9cd98a25946/new-bloggg-57f5)
+- [Content ROI for Engineers: Deconstructing the B2B Marketing Black Box](https://dev.to/michaelaiglobal/content-roi-for-engineers-deconstructing-the-b2b-marketing-black-box-434g)
+- [When Robots Care](https://dev.to/rawveg/when-robots-care-1o5g)
+- [The Invisible Bonds: Understanding Hatred’s Deep Roots](https://dev.to/drift_42_3e6b9ee4b81a41d3/the-invisible-bonds-understanding-hatreds-deep-roots-bjg)
+- [CMMC Readiness Cost: What Defense Contractors Should Expect in 2025](https://dev.to/cyber_comply_3fd55a5f72a4/cmmc-readiness-cost-what-defense-contractors-should-expect-in-2025-5fmg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
