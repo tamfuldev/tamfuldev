@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [New Bloggg](https://dev.to/ali_khan_22dcd9cd98a25946/new-bloggg-57f5)
-- [Content ROI for Engineers: Deconstructing the B2B Marketing Black Box](https://dev.to/michaelaiglobal/content-roi-for-engineers-deconstructing-the-b2b-marketing-black-box-434g)
-- [When Robots Care](https://dev.to/rawveg/when-robots-care-1o5g)
-- [The Invisible Bonds: Understanding Hatred’s Deep Roots](https://dev.to/drift_42_3e6b9ee4b81a41d3/the-invisible-bonds-understanding-hatreds-deep-roots-bjg)
-- [CMMC Readiness Cost: What Defense Contractors Should Expect in 2025](https://dev.to/cyber_comply_3fd55a5f72a4/cmmc-readiness-cost-what-defense-contractors-should-expect-in-2025-5fmg)
+- [Typescript/JavaScript Book Recommendations](https://dev.to/jmcln/typescriptjavascript-book-recommendations-4ig3)
+- [Top 13 Figma Icon Plugins For Free in 2025](https://dev.to/rojainebnaatik/figma-icon-plugins-45bk)
+- [I built a free crypto arbitrage detector with intelligent scoring - here&#39;s the tech stack](https://dev.to/carlvays/i-built-a-free-crypto-arbitrage-detector-with-intelligent-scoring-heres-the-tech-stack-2aj1)
+- [Testing Blog](https://dev.to/inupurnomo/testing-blog-1l99)
+- [RouteHaven Review: A Field-Tested Tour Booking Theme That Actually Ships](https://dev.to/sofi_morilla_c57a1e216ce6/routehaven-review-a-field-tested-tour-booking-theme-that-actually-ships-683)
 <!-- BLOG-POST-LIST:END -->
 
 ---
