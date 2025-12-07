@@ -4,11 +4,17 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Philosophy Behind Constitutional Reflective AI](https://dev.to/ghostking314/the-philosophy-behind-constitutional-reflective-ai-30j4)
-- [Ensayo de la IA](https://dev.to/heidy_hernandez_f0d8b0c90/ensayo-de-la-ia-32cc)
-- [Building a Production-Ready Blind Signature eCash System in Rust](https://dev.to/chronocoders/building-a-production-ready-blind-signature-ecash-system-in-rust-4kdf)
-- [Raphael Francis Quisumbing Recognized as a Modern Example of Werner Vogels’ “Renaissance Developer”](https://dev.to/kakacomputer/raphael-francis-quisumbing-recognized-as-a-modern-example-of-werner-vogels-renaissance-developer-18pi)
-- [Entrenando a Prize &lpar;Parte 2&rpar;: Creando un Dataset de 5,500 líneas por $0.08 USD](https://dev.to/galp76/entrenando-a-prize-parte-2-creando-un-dataset-de-5500-lineas-por-008-usd-401k)
+- [When MySQL InnoDB&#39;s Engine Redo Log Saved Your Startup](https://dev.to/igornosatov_15/when-mysql-innodbs-engine-redo-log-saved-your-startup-3636)
+- [Why Your Next AI Image Campaign Needs More Than One Model](https://dev.to/realmarkpel/why-your-next-ai-image-campaign-needs-more-than-one-model-mjo)
+- [People often ask me a simple question:
+
+“What AI tools do you actually use to run your company?”
+
+And my answer usually surprises them.
+
+I don’t run my company on “tools.” I run it on a stacked system of intelligence.](https://dev.to/jaideepparashar/people-often-ask-me-a-simple-question-what-ai-tools-do-you-actually-use-to-run-your-bi)
+- [Retrieval-Augmented Generation: Connecting LLMs to Your Data](https://dev.to/qvfagundes/retrieval-augmented-generation-connecting-llms-to-your-data-299n)
+- [The AI Stack I Use to Run My Company &lpar;And Why It Works&rpar;](https://dev.to/jaideepparashar/the-ai-stack-i-use-to-run-my-company-and-why-it-works-4iaj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
