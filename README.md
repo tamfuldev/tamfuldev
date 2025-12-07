@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Introduces New Networking Updates for Better Security and Reliability](https://dev.to/arsalanmeee/azure-introduces-new-networking-updates-for-better-security-and-reliability-5682)
-- [Prism](https://dev.to/preetha_vaishnavi_2b82358/prism-4kki)
-- [Prismatic Fractal](https://dev.to/preetha_vaishnavi_2b82358/prismatic-fractal-397i)
-- [Prevent React Context Re-renders with Redux-Style Selectors](https://dev.to/hussnain_hashmi_984f16940/prevent-react-context-re-renders-with-redux-style-selectors-fjl)
-- [In 5 minutes, I&#39;ll show you how to build AI agents from scratch](https://dev.to/proflead/in-5-minutes-ill-show-you-how-to-build-ai-agents-from-scratch-3c9m)
+- [Building a Headless Store with Next.js 16 and Shopify API](https://dev.to/saidmounaim/building-a-headless-store-with-nextjs-16-and-shopify-api-4725)
+- [I Tried 30+ AI Image Generators — These Are the Best Ones &lpar;Ranked&rpar;](https://dev.to/nnash/i-tried-30-ai-image-generators-these-are-the-best-ones-ranked-502p)
+- [Java projects of backend for beginners](https://dev.to/chaithanya_dk_75f5d575b8/java-projects-of-backend-for-beginners-2o32)
+- [From Basics to Breakthrough: My Journey Through the Kaggle Google AI Agents Intensive](https://dev.to/deepak_patil_2420671b4065/from-basics-to-breakthrough-my-journey-through-the-kaggle-x-google-ai-agents-intensive-iod)
+- [GBC Scorecard: Figma ➡️ Token-Rewarding Golf App with Uno Hot Design Agent 🏌️‍♂️💰](https://dev.to/datadr1ven/gbc-scorecard-figma-token-rewarding-golf-app-with-uno-hot-design-agent-g9m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
