@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [# Day 7 — Patch &amp; Tool Maintenance &lpar;Deeper into the Forest&rpar;](https://dev.to/aerabi/-day-7-patch-tool-maintenance-deeper-into-the-forest-501h)
-- [How to Use Google Scholar for Prior Art Discovery](https://dev.to/patentscanai/how-to-use-google-scholar-for-prior-art-discovery-170d)
-- [Cover Hero](https://dev.to/preetha_vaishnavi_2b82358/cover-hero-5264)
-- [Manhole Cover](https://dev.to/preetha_vaishnavi_2b82358/manhole-cover-5842)
-- [Course: Design Your Startup Landing Page in 1 Week](https://dev.to/whitefoxx/course-design-your-startup-landing-page-in-1-week-al6)
+- [Azure Introduces New Networking Updates for Better Security and Reliability](https://dev.to/arsalanmeee/azure-introduces-new-networking-updates-for-better-security-and-reliability-5682)
+- [Prism](https://dev.to/preetha_vaishnavi_2b82358/prism-4kki)
+- [Prismatic Fractal](https://dev.to/preetha_vaishnavi_2b82358/prismatic-fractal-397i)
+- [Prevent React Context Re-renders with Redux-Style Selectors](https://dev.to/hussnain_hashmi_984f16940/prevent-react-context-re-renders-with-redux-style-selectors-fjl)
+- [In 5 minutes, I&#39;ll show you how to build AI agents from scratch](https://dev.to/proflead/in-5-minutes-ill-show-you-how-to-build-ai-agents-from-scratch-3c9m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
