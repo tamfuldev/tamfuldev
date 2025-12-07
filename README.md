@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Breakout to Breakthrough: brkrs —The Rust Game Where Specs Become Code &lpar;and AI is Welcome!&rpar;](https://dev.to/ldrscke/breakout-to-breakthrough-brkrs-the-rust-game-where-specs-become-code-and-ai-is-welcome-4o9c)
-- [Energia Solar + Mercado Livre para MEI: Requisitos Técnicos em 2025](https://dev.to/ava_mendes/energia-solar-mercado-livre-para-mei-requisitos-tecnicos-em-2025-aig)
-- [💔 The Critical Rendering Path: A Love Story &lpar;But Mostly a Horror Story&rpar;](https://dev.to/abhinavshinoy90/the-critical-rendering-path-a-love-story-but-mostly-a-horror-story-55b2)
-- [Common IP Lookup Tools Developers and Users Actually Use](https://dev.to/myipnow/common-ip-lookup-tools-developers-and-users-actually-use-jh7)
-- [Why Your Website Is Slow &lpar;and Why It’s Probably Your Fault&rpar;](https://dev.to/abhinavshinoy90/why-your-website-is-slow-and-why-its-probably-your-fault-2k6)
+- [I Built a Fully Local Prompt Enhancer Chrome Extension with Gemini Nano](https://dev.to/harvesh_kumar/i-built-a-fully-local-prompt-enhancer-chrome-extension-with-gemini-nano-1m5m)
+- [How to Read &amp; Understand Config Files.](https://dev.to/kaustubhyerkade/how-to-read-understand-config-files-neg)
+- [Advent of Code 2025 - December 7th](https://dev.to/robvanderleek/advent-of-code-2025-december-7th-3j94)
+- [Why I built vLitejs, a fast and flexible native video and audio player](https://dev.to/yoriiis/why-i-built-vlitejs-a-fast-and-flexible-native-video-and-audio-player-2c26)
+- [🎮 *brkrs*: A Brand New Take on Classic Brick-Breaking – Play It, Tweak It, Own It!](https://dev.to/ldrscke/brkrs-a-brand-new-take-on-classic-brick-breaking-play-it-tweak-it-own-it-3254)
 <!-- BLOG-POST-LIST:END -->
 
 ---
