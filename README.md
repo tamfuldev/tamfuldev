@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Full Sail University: How Formal Training Shaped My Approach](https://dev.to/bradleymatera/full-sail-university-how-formal-training-shaped-my-approach-66k)
-- [Demystifying Scala 3 Macros: A Deep Dive with Quoting and Splicing](https://dev.to/depa_reddy_5e0e3025aa6eed/demystifying-scala-3-macros-a-deep-dive-with-quoting-and-splicing-4em7)
-- [I Spent 4 Months Trying To Build A Million Dollar AI Automation Platform. Here Is What Actually Happened.](https://dev.to/mzelensky/i-spent-4-months-trying-to-build-a-million-dollar-ai-automation-platform-here-is-what-actually-16n2)
-- [Day-13: Data sources in Terraform](https://dev.to/bhaskara_tejabulusu_b4bf/day-13-data-sources-in-terraform-3gha)
-- [HEADLESS – Story about REST and GraphQL](https://dev.to/pawe_sikora_5535c45ed2cc/headless-story-about-rest-and-graphql-plp)
+- [🚀 Breakout to Breakthrough: brkrs —The Rust Game Where Specs Become Code &lpar;and AI is Welcome!&rpar;](https://dev.to/ldrscke/breakout-to-breakthrough-brkrs-the-rust-game-where-specs-become-code-and-ai-is-welcome-4o9c)
+- [Energia Solar + Mercado Livre para MEI: Requisitos Técnicos em 2025](https://dev.to/ava_mendes/energia-solar-mercado-livre-para-mei-requisitos-tecnicos-em-2025-aig)
+- [💔 The Critical Rendering Path: A Love Story &lpar;But Mostly a Horror Story&rpar;](https://dev.to/abhinavshinoy90/the-critical-rendering-path-a-love-story-but-mostly-a-horror-story-55b2)
+- [Common IP Lookup Tools Developers and Users Actually Use](https://dev.to/myipnow/common-ip-lookup-tools-developers-and-users-actually-use-jh7)
+- [Why Your Website Is Slow &lpar;and Why It’s Probably Your Fault&rpar;](https://dev.to/abhinavshinoy90/why-your-website-is-slow-and-why-its-probably-your-fault-2k6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
