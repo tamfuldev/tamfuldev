@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My first python app: TidyBit - a simple file manager](https://dev.to/vedaswaroop/my-first-python-app-tidybit-a-simple-file-manager-5epg)
-- [Discover OfficeForge: Enhance Microsoft Office with Open-Source Automation](https://dev.to/siliconcatalyst/discover-officeforge-enhance-microsoft-office-with-open-source-automation-2cci)
-- [Mastering Istio Canary Deployments: Full CI/CD Pipeline with Jenkins, GitHub Actions &amp; ArgoCD](https://dev.to/srinivasamcjf/mastering-istio-canary-deployments-full-cicd-pipeline-with-jenkins-github-actions-argocd-l1l)
-- [5 Powerful Web Platform Features You Probably Missed in 2025](https://dev.to/netsi1964/5-powerful-web-platform-features-you-probably-missed-in-2025-2pk5)
-- [Building a Modular Serverless ETL Pipeline on AWS with Terraform &amp; Lambda](https://dev.to/copubah/building-a-modular-serverless-etl-pipeline-on-aws-with-terraform-lambda-5hmf)
+- [From Blockchain to Database: Synchronizing Soroban with PHP](https://dev.to/icolomina/from-blockchain-to-database-synchronizing-soroban-with-php-454k)
+- [Multi-Layer PCB Fabrication Support: Understanding and Benefits](https://dev.to/iyuq2/multi-layer-pcb-fabrication-support-understanding-and-benefits-5j4)
+- [Au-delà du Code Coverage : Guide pratique du Mutation Testing pour des applications robustes](https://dev.to/dgtech/au-dela-du-code-coverage-guide-pratique-du-mutation-testing-pour-des-applications-robustes-3bbo)
+- [Scrum Project Management: What It Is and the Main Principles Behind It](https://dev.to/gustavowoltmann18/scrum-project-management-what-it-is-and-the-main-principles-behind-it-32ic)
+- [Can you sell peptides on Shopify? Rules, risks, and a practical checklist for founders](https://dev.to/prateekshaweb/can-you-sell-peptides-on-shopify-rules-risks-and-a-practical-checklist-for-founders-5fl2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
