@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What *Exactly* Is a Function in Python? &lpar;And Why Devs Love Them!&rpar;](https://dev.to/halakabir234hub/what-exactly-is-a-function-in-python-and-why-devs-love-them-3dc6)
-- [PostgreSQL Log Viewing](https://dev.to/fazliakca/postgresql-log-viewing-3ok5)
-- [PostgreSQL Merge Into](https://dev.to/fazliakca/postgresql-merge-into-35o0)
-- [Oracle Merge Into](https://dev.to/fazliakca/oracle-merge-into-3gkc)
-- [Dynamic List Data Authority](https://dev.to/fazliakca/dynamic-list-data-authority-15l9)
+- [Write Once, Deploy Everywhere: Mastering Terraform&#39;s Expression Toolkit](https://dev.to/ekefan/write-once-deploy-everywhere-mastering-terraforms-expression-toolkit-48c8)
+- [Installing Paper Minecraft on Ubuntu 24.04: Issues I Ran Into &amp; How I Fixed Them](https://dev.to/navickas/installing-paper-minecraft-on-ubuntu-2404-issues-i-ran-into-how-i-fixed-them-2ik9)
+- [Why Your MySQL Database Thinks &quot;café&quot; &quot;café&quot;](https://dev.to/igornosatov_15/why-your-mysql-database-thinks-cafe-cafe-4ic7)
+- [The Narada Attack: Editorial Architecture for Chaos Injection and Adversarial Drift](https://dev.to/narnaiezzsshaa/the-narada-attack-editorial-architecture-for-chaos-injection-and-adversarial-drift-gio)
+- [How APIs Really Work: A Beginner’s Guide to Building and Understanding Backend Endpoints](https://dev.to/whoisefosa/how-apis-really-work-a-beginners-guide-to-building-and-understanding-backend-endpoints-1c30)
 <!-- BLOG-POST-LIST:END -->
 
 ---
