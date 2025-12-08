@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 3: Reflecting and pushing.](https://dev.to/blink_c5eb0afe3975/day-3-reflecting-and-pushing-542f)
-- [Anthropic Acquires Bun: Why AI Agents Need a Lightweight Runtime](https://dev.to/inboryn_99399f96579fcd705/anthropic-acquires-bun-why-ai-agents-need-a-lightweight-runtime-228d)
-- [How to Build Multi-Language React Apps with Internationalization &lpar;i18n&rpar;](https://dev.to/myogeshchavan97/how-to-build-multi-language-react-apps-with-internationalization-i18n-1o2d)
-- [How to Generate and Customize Word Charts Using C#](https://dev.to/allen_yang_f905170c5a197b/how-to-generate-and-customize-word-charts-using-c-5agi)
-- [☕Coffee Fantasy - Mythical Brews and Magic Potions](https://dev.to/sarahokolo/coffee-fantasy-mythical-brews-and-magic-potions-2elp)
+- [Best SQL Clients for ERD Modeling in 2025](https://dev.to/dbvismarketing/best-sql-clients-for-erd-modeling-in-2025-1aj6)
+- [Roast Café by GranZant](https://dev.to/granzant/roast-cafe-by-granzant-18me)
+- [Modern Cloud Data Strategies for a Scalable and Resilient Future](https://dev.to/kapusto/modern-cloud-data-strategies-for-a-scalable-and-resilient-future-468j)
+- [Understanding Boundary Value Analysis: A Key Technique in Software Testing](https://dev.to/sri_ram_af45956066fca623f/understanding-boundary-value-analysis-a-key-technique-in-software-testing-4561)
+- [Level Up Your Career: Using Copilot for Interview Prep &amp; Self-Assessment](https://dev.to/balagmadhu/level-up-your-career-using-copilot-for-interview-prep-self-assessment-4c9m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
