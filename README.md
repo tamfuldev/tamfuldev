@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 13.Create AMI from EC2 Instance](https://dev.to/thukhakyawe_cloud/day-13create-ami-from-ec2-instance-44e6)
-- [Why So Many People Say “Fuck LeetCode” — And What to Do About It](https://dev.to/alex_hunter_44f4c9ed6671e/why-so-many-people-say-fuck-leetcode-and-what-to-do-about-it-50lh)
-- [Real-Time ALB Log Analysis for Proactive Integration Recovery via Datadog Monitors, Workflows and AWS Lambda](https://dev.to/aws-builders/real-time-alb-log-analysis-for-proactive-integration-recovery-via-datadog-monitors-workflows-and-115g)
-- [How to Know When Dynamic Programming Is Needed](https://dev.to/alex_hunter_44f4c9ed6671e/how-to-know-when-dynamic-programming-is-needed-1f97)
-- [How to Explain LeetCode Solutions in Plain English for Interview Success](https://dev.to/alex_hunter_44f4c9ed6671e/how-to-explain-leetcode-solutions-in-plain-english-for-interview-success-423o)
+- [Introducing Constructivist AI: A New Approach to Machine Learning](https://dev.to/danexcodr/introducing-constructivist-ai-a-new-approach-to-machine-learning-18g4)
+- [Subscription Onboarding: 15 Patterns You Must Know](https://dev.to/paywallpro/subscription-onboarding-15-patterns-you-must-know-4n4f)
+- [Residential Proxies: Navigating Latency, IP Bans, and the Vendor Trust Crisis](https://dev.to/miller_proxy/residential-proxies-navigating-latency-ip-bans-and-the-vendor-trust-crisis-3go3)
+- [How to Send Native Crypto Tokens Across Multiple Blockchains Using FastAPI API](https://dev.to/1amkaizen/how-to-send-native-crypto-tokens-across-multiple-blockchains-using-fastapi-api-18cj)
+- [Boost Developer Revenue with Monetzly&#39;s API for AI Conversations](https://dev.to/monetzly/boost-developer-revenue-with-monetzlys-api-for-ai-conversations-3ked)
 <!-- BLOG-POST-LIST:END -->
 
 ---
