@@ -4,12 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Digital Agility: Why Application Modernisation Matters Now More Than Ever](https://dev.to/khushi_jitani_ca127abdedd/the-future-of-digital-agility-why-application-modernisation-matters-now-more-than-ever-1h1i)
-- [We Got Hacked: How CVE-2025-55182 Turned Our Next.js App Into a Crypto Mine](https://dev.to/starkprince/we-got-hacked-how-cve-2025-55182-turned-our-nextjs-app-into-a-crypto-mine-3oce)
-- [How Software Engineers Can Stay Relevant in the Age of AI](https://dev.to/taufiqul7756/how-software-engineers-can-stay-relevant-in-the-age-of-ai-37dj)
-- [Learning journey with google AI course which is agentic intensive capstone project was very amazing and informative..I feel great to had an opportunity to subscribe the course.
-Thanks and happy learning](https://dev.to/navin_99090c1cf9ead542371/learning-journey-with-google-ai-course-was-very-amazing-and-informativei-feel-great-to-had-an-3j0a)
-- [Gemini 3 is Now Available as an OCR Model in Tensorlake](https://dev.to/tensorlake/gemini-3-is-now-available-as-an-ocr-model-in-tensorlake-4kfh)
+- [Day 3: Reflecting and pushing.](https://dev.to/blink_c5eb0afe3975/day-3-reflecting-and-pushing-542f)
+- [Anthropic Acquires Bun: Why AI Agents Need a Lightweight Runtime](https://dev.to/inboryn_99399f96579fcd705/anthropic-acquires-bun-why-ai-agents-need-a-lightweight-runtime-228d)
+- [How to Build Multi-Language React Apps with Internationalization &lpar;i18n&rpar;](https://dev.to/myogeshchavan97/how-to-build-multi-language-react-apps-with-internationalization-i18n-1o2d)
+- [How to Generate and Customize Word Charts Using C#](https://dev.to/allen_yang_f905170c5a197b/how-to-generate-and-customize-word-charts-using-c-5agi)
+- [☕Coffee Fantasy - Mythical Brews and Magic Potions](https://dev.to/sarahokolo/coffee-fantasy-mythical-brews-and-magic-potions-2elp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
