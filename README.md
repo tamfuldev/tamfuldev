@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What are your Goals for the week? #156](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-156-27h6)
-- [Aspire: The Cloud-Native Framework That Finally Makes Distributed .NET Development Easy](https://dev.to/mashrulhaque/its-4-pm-and-your-microservices-still-wont-start-a-guide-to-net-aspire-4h7b)
-- [The Ultimate Guide to IPTV Benefits: Why Modern Viewers Are Making the Switch](https://dev.to/lhwa_land_e39fc318a86776c/the-ultimate-guide-to-iptv-benefits-why-modern-viewers-are-making-the-switch-odk)
-- [The KC-10 Was My First Codebase — I Just Didn’t Know It Yet](https://dev.to/bhankee/the-kc-10-was-my-first-codebase-i-just-didnt-know-it-yet-11c7)
-- [🚀 How Media Misrepresents Mental Health — And Why It Matters in a Digital World](https://dev.to/nvelup_e92618d5196e8d9f43/how-media-misrepresents-mental-health-and-why-it-matters-in-a-digital-world-2pe2)
+- [Building a Zero-Downtime CI/CD Pipeline: Blue-Green Deployments for 100K+ Daily Requests](https://dev.to/sangwoo_rhie/zero-downtime-blue-green-deployment-with-github-actions-docker-multi-stage-builds-and-nginx-695)
+- [becoming a full stack developer](https://dev.to/ujjawal_patel_9baa51e6bf5/becoming-a-full-stack-developer-2245)
+- [Apache Dev List Digest: Iceberg, Polaris, Arrow &amp; Parquet &lpar;Nov 24-Dec 8, 2025&rpar;](https://dev.to/alexmercedcoder/apache-dev-list-digest-iceberg-polaris-arrow-parquet-nov-24-dec-8-2025-42o9)
+- [[Quick Fix] Hibernate: object references an unsaved transient instance](https://dev.to/malaquiasdev/quick-fix-hibernate-object-references-an-unsaved-transient-instance-2ib8)
+- [Simple Hacking Technique for Beginners &lpar;2025 Edition&rpar;](https://dev.to/scofieldidehen/simple-hacking-technique-for-beginners-2025-edition-587d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
