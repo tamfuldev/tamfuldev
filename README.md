@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Zero-Downtime CI/CD Pipeline: Blue-Green Deployments for 100K+ Daily Requests](https://dev.to/sangwoo_rhie/zero-downtime-blue-green-deployment-with-github-actions-docker-multi-stage-builds-and-nginx-695)
-- [becoming a full stack developer](https://dev.to/ujjawal_patel_9baa51e6bf5/becoming-a-full-stack-developer-2245)
-- [Apache Dev List Digest: Iceberg, Polaris, Arrow &amp; Parquet &lpar;Nov 24-Dec 8, 2025&rpar;](https://dev.to/alexmercedcoder/apache-dev-list-digest-iceberg-polaris-arrow-parquet-nov-24-dec-8-2025-42o9)
-- [[Quick Fix] Hibernate: object references an unsaved transient instance](https://dev.to/malaquiasdev/quick-fix-hibernate-object-references-an-unsaved-transient-instance-2ib8)
-- [Simple Hacking Technique for Beginners &lpar;2025 Edition&rpar;](https://dev.to/scofieldidehen/simple-hacking-technique-for-beginners-2025-edition-587d)
+- [🚩 Red flags series #3: If-else endless tower](https://dev.to/mhamadelitawi/red-flags-series-3-if-else-endless-tower-33ch)
+- [AI Virtual Doctor: From Prompt Engineering to Agentic Workflows](https://dev.to/mannan_loomba_e9b4dccf6ae/ai-virtual-doctor-from-prompt-engineering-to-agentic-workflows-ek0)
+- [2025-12-08 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-08-daily-robotics-news-5c3i)
+- [**Unlocking Biodiversity Insights with Distributed Training*](https://dev.to/drcarlosruizviquez/unlocking-biodiversity-insights-with-distributed-training-55g)
+- [AWS re:Invent 2025 - What Database Would Your AI Agents Choose - Escape the Frankenstack &lpar;DAT203&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-what-database-would-your-ai-agents-choose-escape-the-frankenstack-dat203-58c4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
