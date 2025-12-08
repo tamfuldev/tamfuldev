@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Secret Life of JavaScript: Let, Const, and Why Variables Are Complicated](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-let-const-and-why-variables-are-complicated-2gkk)
-- [SSR on Rust: From Experiments to 95,000 RPS](https://dev.to/babasha/ssr-on-rust-from-experiments-to-95000-rps-53pi)
-- [The Evolution of Reactivity: How UI Updates Learned to Take Care of Themselves](https://dev.to/luciano0322/the-evolution-of-reactivity-how-ui-updates-learned-to-take-care-of-themselves-3ehm)
-- [VertiTab 3.4.0 Released: AI Browser Assistant - Browser sidebar uses natural language to manage browser tabs.](https://dev.to/lu_xiao_bfa77a98b4b2ad851/vertitab-340-released-ai-browser-assistant-browser-sidebar-uses-natural-language-to-manage-1e7c)
-- [GitHub Actions: Automatizando seus Fluxos de Trabalho](https://dev.to/ikauedev/github-actions-automatizando-seus-fluxos-de-trabalho-3eoe)
+- [Day 13.Create AMI from EC2 Instance](https://dev.to/thukhakyawe_cloud/day-13create-ami-from-ec2-instance-44e6)
+- [Why So Many People Say “Fuck LeetCode” — And What to Do About It](https://dev.to/alex_hunter_44f4c9ed6671e/why-so-many-people-say-fuck-leetcode-and-what-to-do-about-it-50lh)
+- [Real-Time ALB Log Analysis for Proactive Integration Recovery via Datadog Monitors, Workflows and AWS Lambda](https://dev.to/aws-builders/real-time-alb-log-analysis-for-proactive-integration-recovery-via-datadog-monitors-workflows-and-115g)
+- [How to Know When Dynamic Programming Is Needed](https://dev.to/alex_hunter_44f4c9ed6671e/how-to-know-when-dynamic-programming-is-needed-1f97)
+- [How to Explain LeetCode Solutions in Plain English for Interview Success](https://dev.to/alex_hunter_44f4c9ed6671e/how-to-explain-leetcode-solutions-in-plain-english-for-interview-success-423o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
