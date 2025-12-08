@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 8 — Threat Validation &lpar;The Girl in the Red Cloak&rpar;](https://dev.to/aerabi/day-8-threat-validation-the-girl-in-the-red-cloak-4h9a)
-- [Modern Web Development in 2025: A Practical Guide to Building Fast, Responsive &amp; Scalable Websites](https://dev.to/pixel_punch_1c96306e6efc6/modern-web-development-in-2025-a-practical-guide-to-building-fast-responsive-scalable-websites-1p5l)
-- [Using TensorFlow.js To Run On-Device AI Models in the Browser](https://dev.to/sherry_walker_bba406fb339/using-tensorflowjs-to-run-on-device-ai-models-in-the-browser-3c10)
-- [RAGFlow: Open-Source Engine for Deep Document Understanding](https://dev.to/stelixx-insider/ragflow-open-source-engine-for-deep-document-understanding-16f3)
-- [Terraform Dry Run Explained with Examples](https://dev.to/spacelift/terraform-dry-run-explained-with-examples-401i)
+- [High-Performance Web Animation: GSAP, WebGL, and the Secret to 60fps](https://dev.to/kolonatalie/high-performance-web-animation-gsap-webgl-and-the-secret-to-60fps-2l1g)
+- [Mandatory Profile in Oracle Database](https://dev.to/vahidusefzadeh/mandatory-profile-in-oracle-database-36hg)
+- [The AI Collaboration Paradox: Why Being Smart Isn&#39;t Enough Anymore](https://dev.to/ttoss/the-ai-collaboration-paradox-why-being-smart-isnt-enough-anymore-1aha)
+- [How To Audit Thousands Of H1 Tags In Minutes Using Free Tools &lpar;Step-by-Step Guide&rpar;](https://dev.to/prateekshaweb/how-to-audit-thousands-of-h1-tags-in-minutes-using-free-tools-step-by-step-guide-12ml)
+- [Sparse-K Attention in llama.cpp: Make Your LLMs Fly🚀](https://dev.to/yael_shuker_8eb04a2f572f9/sparse-k-attention-in-llamacpp-make-your-llms-fly-gdh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
