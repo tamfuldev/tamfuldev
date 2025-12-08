@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Constructivist AI: A New Approach to Machine Learning](https://dev.to/danexcodr/introducing-constructivist-ai-a-new-approach-to-machine-learning-18g4)
-- [Subscription Onboarding: 15 Patterns You Must Know](https://dev.to/paywallpro/subscription-onboarding-15-patterns-you-must-know-4n4f)
-- [Residential Proxies: Navigating Latency, IP Bans, and the Vendor Trust Crisis](https://dev.to/miller_proxy/residential-proxies-navigating-latency-ip-bans-and-the-vendor-trust-crisis-3go3)
-- [How to Send Native Crypto Tokens Across Multiple Blockchains Using FastAPI API](https://dev.to/1amkaizen/how-to-send-native-crypto-tokens-across-multiple-blockchains-using-fastapi-api-18cj)
-- [Boost Developer Revenue with Monetzly&#39;s API for AI Conversations](https://dev.to/monetzly/boost-developer-revenue-with-monetzlys-api-for-ai-conversations-3ked)
+- [🔥 21 Days of Building a Small Language Model.🔥](https://dev.to/lakhera2015/21-days-of-building-a-small-language-model-58gn)
+- [TypeScript 7 is Being Rewritten in Go. This is Microsoft&#39;s Biggest Bet on the JavaScript Ecosystem](https://dev.to/riddd/typescript-7-is-being-rewritten-in-go-this-is-microsofts-biggest-bet-on-the-javascript-ecosystem-2ijm)
+- [Music Monday &lpar;What are you listening to?&rpar;](https://dev.to/musicforem/music-monday-what-are-you-listening-to-4gk1)
+- [Re: Programming Is Becoming Prompting](https://dev.to/canro91/re-programming-is-becoming-prompting-1l2n)
+- [What I learned in my first week of writing with ai](https://dev.to/dhara_chauhan_f72af80114d/what-i-learned-in-my-first-week-of-writing-with-ai-457f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
