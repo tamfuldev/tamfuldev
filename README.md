@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The cloud lock-in trap and the loss of strategic control](https://dev.to/layerops/the-cloud-lock-in-trap-and-the-loss-of-strategic-control-50dd)
-- [Code Profiling 101: Tools and Techniques to Boost Performance – Part 1](https://dev.to/rijultp/code-profiling-101-tools-and-techniques-to-boost-performance-part-1-3o9i)
-- [How to Integrate n8n Workflow in ASP.NET Core](https://dev.to/flexyadmin/how-to-integrate-n8n-workflow-in-aspnet-core-mne)
-- [AWS re:Invent 2025 - Building software like never before with Agentic AI &lpar;DVT220&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-building-software-like-never-before-with-agentic-ai-dvt220-1g82)
-- [AWS re:Invent 2025 - Build generative and agentic AI applications on-premises &amp; at the edge &lpar;HMC308&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-build-generative-and-agentic-ai-applications-on-premises-at-the-edge-hmc308-1dod)
+- [HTTP vs HTTPS vs SSL/TLS: A Comprehensive Guide to Web Security Protocols &lpar;with HTTPS Deployment Steps&rpar;](https://dev.to/tiger_smith_9f421b9131db5/http-vs-https-vs-ssltls-a-comprehensive-guide-to-web-security-protocols-with-https-deployment-1l42)
+- [Level Up Your E-Commerce: Mastering Headless Architecture with Shopify and Next.js 16](https://dev.to/saidmounaim/level-up-your-e-commerce-mastering-headless-architecture-with-shopify-and-nextjs-16-1bng)
+- [Launching open sign up on Buildstash - the platform for managing software binaries](https://dev.to/buildstash/launching-open-sign-up-on-buildstash-the-platform-for-managing-software-binaries-55gf)
+- [Lyria RealTime: The Developer’s Guide to Infinite Music Streaming](https://dev.to/googleai/lyria-realtime-the-developers-guide-to-infinite-music-streaming-4m1h)
+- [Monetzly: Transforming AI Conversations into Developer Revenue](https://dev.to/monetzly/monetzly-transforming-ai-conversations-into-developer-revenue-4mbm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
