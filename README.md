@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built a Sankey chart to map document reading paths](https://dev.to/howard_shaw_3c36a3a6cb900/i-built-a-sankey-chart-to-map-document-reading-paths-95o)
-- [Blue Team vs Red Team vs Purple Team](https://dev.to/russell/blue-team-vs-red-team-vs-purple-team-4o8c)
-- [A Practical Guide to Color Contrast for Web Developers](https://dev.to/bridget_amana/a-practical-guide-to-color-contrast-for-web-developers-53oi)
-- [Understanding the Dow Jones Index: A Barometer of U.S. Market Performance](https://dev.to/asxstocknews/understanding-the-dow-jones-index-a-barometer-of-us-market-performance-111p)
-- [Should You Time Yourself While Practicing LeetCode as a Beginner?](https://dev.to/alex_hunter_44f4c9ed6671e/should-you-time-yourself-while-practicing-leetcode-as-a-beginner-3b0h)
+- [Day 8 — Threat Validation &lpar;The Girl in the Red Cloak&rpar;](https://dev.to/aerabi/day-8-threat-validation-the-girl-in-the-red-cloak-4h9a)
+- [Modern Web Development in 2025: A Practical Guide to Building Fast, Responsive &amp; Scalable Websites](https://dev.to/pixel_punch_1c96306e6efc6/modern-web-development-in-2025-a-practical-guide-to-building-fast-responsive-scalable-websites-1p5l)
+- [Using TensorFlow.js To Run On-Device AI Models in the Browser](https://dev.to/sherry_walker_bba406fb339/using-tensorflowjs-to-run-on-device-ai-models-in-the-browser-3c10)
+- [RAGFlow: Open-Source Engine for Deep Document Understanding](https://dev.to/stelixx-insider/ragflow-open-source-engine-for-deep-document-understanding-16f3)
+- [Terraform Dry Run Explained with Examples](https://dev.to/spacelift/terraform-dry-run-explained-with-examples-401i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
