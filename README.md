@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [runcmd and package order in Cloud-Init](https://dev.to/cod3mason/runcmd-and-package-in-cloud-init-g62)
-- [**Title:** Big 12 Takes a Stand: Iowa State and Kansas State Fined $500,000 for Skipping Bowls](https://dev.to/yagyaraj_sharma_6cd410179/title-big-12-takes-a-stand-iowa-state-and-kansas-state-fined-500000-for-skipping-bowls-2p36)
-- [**Revving Up the Future of Transportation: The Rise of Autonomous Vehicles**](https://dev.to/yagyaraj_sharma_6cd410179/revving-up-the-future-of-transportation-the-rise-of-autonomous-vehicles-34g5)
-- [I Built an Open-Source Privacy Firewall for ChatGPT &lpar;Runs 100% Locally&rpar;](https://dev.to/arnab_karsarkar_f7c29ac5d/i-built-an-open-source-privacy-firewall-for-chatgpt-runs-100-locally-4alc)
-- [**Title:** The Future of Entertainment: Netflix&#39;s Bid for Warner Bros. and the Role of Regulatory Approval](https://dev.to/yagyaraj_sharma_6cd410179/title-the-future-of-entertainment-netflixs-bid-for-warner-bros-and-the-role-of-regulatory-3fjf)
+- [The Secret Life of JavaScript: Let, Const, and Why Variables Are Complicated](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-let-const-and-why-variables-are-complicated-2gkk)
+- [SSR on Rust: From Experiments to 95,000 RPS](https://dev.to/babasha/ssr-on-rust-from-experiments-to-95000-rps-53pi)
+- [The Evolution of Reactivity: How UI Updates Learned to Take Care of Themselves](https://dev.to/luciano0322/the-evolution-of-reactivity-how-ui-updates-learned-to-take-care-of-themselves-3ehm)
+- [VertiTab 3.4.0 Released: AI Browser Assistant - Browser sidebar uses natural language to manage browser tabs.](https://dev.to/lu_xiao_bfa77a98b4b2ad851/vertitab-340-released-ai-browser-assistant-browser-sidebar-uses-natural-language-to-manage-1e7c)
+- [GitHub Actions: Automatizando seus Fluxos de Trabalho](https://dev.to/ikauedev/github-actions-automatizando-seus-fluxos-de-trabalho-3eoe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
