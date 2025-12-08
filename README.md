@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Design Two Practical Orchestration Loops for LLM Agents](https://dev.to/marcosomma/how-to-design-two-practical-orchestration-loops-for-llm-agents-513k)
-- [Advent of Cyber 2025: Day 4 Writeup AI-AI-AI | TryHackMe](https://dev.to/mahin101/advent-of-cyber-2025-day-4-writeup-ai-ai-ai-tryhackme-10dd)
-- [useTransition vs useOptimistic](https://dev.to/shieldstring/usetransition-vs-useoptimistic-1in2)
-- [Flatten a Nested List](https://dev.to/highcenburg/flatten-a-nested-list-165f)
-- [Practical Privacy and Sustainability Hacks](https://dev.to/ingosteinke/practical-privacy-and-sustainability-hacks-3pg0)
+- [I built a Sankey chart to map document reading paths](https://dev.to/howard_shaw_3c36a3a6cb900/i-built-a-sankey-chart-to-map-document-reading-paths-95o)
+- [Blue Team vs Red Team vs Purple Team](https://dev.to/russell/blue-team-vs-red-team-vs-purple-team-4o8c)
+- [A Practical Guide to Color Contrast for Web Developers](https://dev.to/bridget_amana/a-practical-guide-to-color-contrast-for-web-developers-53oi)
+- [Understanding the Dow Jones Index: A Barometer of U.S. Market Performance](https://dev.to/asxstocknews/understanding-the-dow-jones-index-a-barometer-of-us-market-performance-111p)
+- [Should You Time Yourself While Practicing LeetCode as a Beginner?](https://dev.to/alex_hunter_44f4c9ed6671e/should-you-time-yourself-while-practicing-leetcode-as-a-beginner-3b0h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
