@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚩 Red flags series #3: If-else endless tower](https://dev.to/mhamadelitawi/red-flags-series-3-if-else-endless-tower-33ch)
-- [AI Virtual Doctor: From Prompt Engineering to Agentic Workflows](https://dev.to/mannan_loomba_e9b4dccf6ae/ai-virtual-doctor-from-prompt-engineering-to-agentic-workflows-ek0)
-- [2025-12-08 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-08-daily-robotics-news-5c3i)
-- [**Unlocking Biodiversity Insights with Distributed Training*](https://dev.to/drcarlosruizviquez/unlocking-biodiversity-insights-with-distributed-training-55g)
-- [AWS re:Invent 2025 - What Database Would Your AI Agents Choose - Escape the Frankenstack &lpar;DAT203&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-what-database-would-your-ai-agents-choose-escape-the-frankenstack-dat203-58c4)
+- [Running Immich on Proxmox With a Synology NAS: A Battle‑Tested Setup](https://dev.to/3zzy/running-immich-on-proxmox-with-a-synology-nas-a-battle-tested-setup-1e42)
+- [Sentence, Word &amp; Subword Tokenisation Explained](https://dev.to/chinmaynataraj/sentence-word-subword-tokenisation-explained-3nmo)
+- [AWS re:Invent 2025 - Building the future with AWS Serverless &lpar;CNS211&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-building-the-future-with-aws-serverless-cns211-1h0k)
+- [AWS re:Invent 2025 - Build AI-powered developer experiences with MCP on ECS and EKS &lpar;CNS358&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-build-ai-powered-developer-experiences-with-mcp-on-ecs-and-eks-cns358-1p44)
+- [AWS re:Invent 2025 - Building High-Performance, Secure networks for Hybrid and Multicloud &lpar;HMC209&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-building-high-performance-secure-networks-for-hybrid-and-multicloud-hmc209-4k7a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
