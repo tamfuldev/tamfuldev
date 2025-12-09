@@ -4,13 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Streaming Agents on AWS](https://dev.to/aws/streaming-agents-on-aws-3610)
-- [Complete Tutorial: Streaming Agents on AWS](https://dev.to/aws/complete-tutorial-streaming-agents-on-aws-185g)
-- [How I cut my debugging time in half! 👩‍💻⌛🐛
-
-Debugging takes way more time than any of us wants to admit. Some studies say devs spend up to 50% of their time chasing bugs. But new tools like Code Rabbit, Greptile, and the_ORQL can be helpful. Here&#39;s how:](https://dev.to/eleftheriabatsou/how-i-cut-my-debugging-time-in-half-debugging-takes-way-more-time-than-any-of-us-wants-to-2fkp)
-- [Local AI Tools: Getting Started with Ollama &lpar;Tool 1&rpar;](https://dev.to/alexlead/local-ai-tools-getting-started-with-ollama-tool-1-30bl)
-- [Advent of Code 2025 - December 8th](https://dev.to/robvanderleek/advent-of-code-2025-december-8th-2ag3)
+- [EMI/EMC Pre-Compliance: How to Catch Failures Before Sending Products to the Lab](https://dev.to/revinetech/emiemc-pre-compliance-how-to-catch-failures-before-sending-products-to-the-lab-1l9f)
+- [Breaking the Lock: Boosting Multithreaded Performance with Atomics](https://dev.to/__af68e31ed93ef25a/breaking-the-lock-boosting-multithreaded-performance-with-atomics-1p4j)
+- [IAM Policies vs Resource Policies: Lessons from Production &lpar;and the Gym&rpar;](https://dev.to/tony_uketui_6cca68c7eba02/iam-policies-vs-resource-policies-lessons-from-production-and-the-gym-2ce9)
+- [[Boost]](https://dev.to/uliyahoo/-149i)
+- [Will WebAssembly Kill JavaScript? Let’s Find Out &lpar;+ Live Demo&rpar; 🚀](https://dev.to/sylwia-lask/will-webassembly-kill-javascript-lets-find-out-live-demo-43ln)
 <!-- BLOG-POST-LIST:END -->
 
 ---
