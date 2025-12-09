@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[AWS] DevTools Evangelism CodeBuild Edition [CodeBuild]](https://dev.to/aws-builders/aws-devtools-evangelism-codebuild-edition-codebuild-hki)
-- [Ringer Movies: ‘Shampoo’ With Bill Simmons, Cameron Crowe, and Sean Fennessey | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-shampoo-with-bill-simmons-cameron-crowe-and-sean-fennessey-the-rewatchables-18b3)
-- [What is an Epic in Agile Development](https://dev.to/noahrhenriksen/what-is-an-epic-in-agile-development-2779)
-- [Install SSL Certificates on VPS](https://dev.to/emmtekdev/install-ssl-certificates-on-vps-16m3)
-- [Step-by-Step Guide: Restoring Office 365 Exchange Item with Veeam Backup for Microsoft 365](https://dev.to/itcs11/step-by-step-guide-restoring-office-365-exchange-item-with-veeam-backup-for-microsoft-365-i5g)
+- [I Built Everything Fast… Then One Page Destroyed My Confidence](https://dev.to/random_ti/i-built-everything-fast-then-one-page-destroyed-my-confidence-ik9)
+- [From Frustration to Automation: My 3-Month Journey with i18n Translations](https://dev.to/kamilbuksakowski/from-frustration-to-automation-my-3-month-journey-with-i18n-translations-3i0)
+- [Building Professional](https://dev.to/sheri_samoon_2aec29a6e55c/building-professional-42e3)
+- [🚀 Migrating to Rive Flutter 0.14.0](https://dev.to/uianimation/migrating-to-rive-flutter-0140-5d74)
+- [How to Become a Successful Web Designer in 2026: A Complete Beginner’s Roadmap”](https://dev.to/rohit_m_93255c3f6ce281ca1/how-to-become-a-successful-web-designer-in-2026-a-complete-beginners-roadmap-4mlb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
