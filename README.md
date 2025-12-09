@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your First Marketing Dashboard: 7 Metrics That Actually Matter &lpar;And 12 You Can Ignore&rpar;](https://dev.to/synergistdigitalmedia/your-first-marketing-dashboard-7-metrics-that-actually-matter-and-12-you-can-ignore-3al6)
-- [Why Speed Is the New Competitive Advantage for Modern Apps](https://dev.to/misterankit/why-speed-is-the-new-competitive-advantage-for-modern-apps-5chl)
-- [🇺🇸 America’s Demographic Crossroads](https://dev.to/bibimbop123/americas-demographic-crossroads-b0k)
-- [Your AI Agent Config is Technical Debt You Haven&#39;t Acknowledged Yet](https://dev.to/prashamtrivedi/your-ai-agent-config-is-technical-debt-you-havent-acknowledged-yet-520a)
-- [fullcircle • Mindful Dating App](https://dev.to/canberkvarli/fullcircle-where-spiritual-practice-meets-meaningful-connection-52ab)
+- [[AWS] DevTools Evangelism CodeBuild Edition [CodeBuild]](https://dev.to/aws-builders/aws-devtools-evangelism-codebuild-edition-codebuild-hki)
+- [Ringer Movies: ‘Shampoo’ With Bill Simmons, Cameron Crowe, and Sean Fennessey | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-shampoo-with-bill-simmons-cameron-crowe-and-sean-fennessey-the-rewatchables-18b3)
+- [What is an Epic in Agile Development](https://dev.to/noahrhenriksen/what-is-an-epic-in-agile-development-2779)
+- [Install SSL Certificates on VPS](https://dev.to/emmtekdev/install-ssl-certificates-on-vps-16m3)
+- [Step-by-Step Guide: Restoring Office 365 Exchange Item with Veeam Backup for Microsoft 365](https://dev.to/itcs11/step-by-step-guide-restoring-office-365-exchange-item-with-veeam-backup-for-microsoft-365-i5g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
