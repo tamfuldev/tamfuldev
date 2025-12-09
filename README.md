@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [EMI/EMC Pre-Compliance: How to Catch Failures Before Sending Products to the Lab](https://dev.to/revinetech/emiemc-pre-compliance-how-to-catch-failures-before-sending-products-to-the-lab-1l9f)
-- [Breaking the Lock: Boosting Multithreaded Performance with Atomics](https://dev.to/__af68e31ed93ef25a/breaking-the-lock-boosting-multithreaded-performance-with-atomics-1p4j)
-- [IAM Policies vs Resource Policies: Lessons from Production &lpar;and the Gym&rpar;](https://dev.to/tony_uketui_6cca68c7eba02/iam-policies-vs-resource-policies-lessons-from-production-and-the-gym-2ce9)
-- [[Boost]](https://dev.to/uliyahoo/-149i)
-- [Will WebAssembly Kill JavaScript? Let’s Find Out &lpar;+ Live Demo&rpar; 🚀](https://dev.to/sylwia-lask/will-webassembly-kill-javascript-lets-find-out-live-demo-43ln)
+- [The False Positive Problem: Calibrating Crisis Detection Without Becoming The Boy Who Cried Wolf](https://dev.to/crisiscoresystems/the-false-positive-problem-calibrating-crisis-detection-without-becoming-the-boy-who-cried-wolf-hf)
+- [Terraform Data Source &lpar;AWS&rpar;](https://dev.to/adarsh_gupta_c5fecf658fd7/terraform-data-source-aws-49hd)
+- [How I Built a Calendly Alternative in 4 Weeks &lpar;and Why&rpar;](https://dev.to/kalman_andrasi_312b8afaaf/how-i-built-a-calendly-alternative-in-4-weeks-and-why-2840)
+- [Automating EL pipeline using Azure Functions&lpar;Python&rpar;](https://dev.to/nafisahbadmos/automating-el-pipeline-using-azure-functionspython-4p8c)
+- [I Started Coding in 2024. Here’s Why My First &quot;Hello World&quot; Came with a Carbon Footprint.](https://dev.to/qubit_abhay/i-started-coding-in-2024-heres-why-my-first-hello-world-came-with-a-carbon-footprint-5e74)
 <!-- BLOG-POST-LIST:END -->
 
 ---
