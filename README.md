@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Ethereum Needs Layer 2s &lpar;for Non‑Technical People&rpar;](https://dev.to/ribhavmodi/why-ethereum-needs-layer-2s-for-non-technical-people-hpm)
-- [Advent of Polygon Interactions](https://dev.to/yordiverkroost/advent-of-polygon-interactions-1mgp)
-- [-&gt;&gt; Terraform Conditional Expression, Splat Expression and Dynamic Block](https://dev.to/amit_kumar_7db8e36a64dd45/-terraform-conditional-expression-splat-expression-and-dynamic-block-331b)
-- [Argo CD: When You Actually Need It](https://dev.to/alexey-eshmetov/argo-cd-when-you-actually-need-it-597c)
-- [Emotional Indicators of Compromise: A New Frontier in Security Awareness](https://dev.to/narnaiezzsshaa/emotional-indicators-of-compromise-a-new-frontier-in-security-awareness-1nkf)
+- [Instagram&#39;s Discovery Feed: What Actually Works &lpar;Beyond the Usual &#39;Post More Reels&#39; Advice&rpar;](https://dev.to/synergistdigitalmedia/instagrams-discovery-feed-what-actually-works-beyond-the-usual-post-more-reels-advice-2cop)
+- [Implementing Semantic Anomaly Detection with OpenTelemetry and Redis](https://dev.to/riferrei/implementing-semantic-anomaly-detection-with-opentelemetry-and-redis-4506)
+- [How I Use Printable Planning Sheets to Improve My Dev Workflow](https://dev.to/bakhat_yar_016451bb6f3b86/how-i-use-printable-planning-sheets-to-improve-my-dev-workflow-2ebn)
+- [Building a Production-Ready Shopify App with Background Jobs: A Complete Architecture Guide](https://dev.to/mehedi_hassanshifat_072e/architecture-524d)
+- [How to Build an AI vs Human Image Detector Using Streamlit &amp; Transformers](https://dev.to/themustaphatijani/how-to-build-an-ai-vs-human-image-detector-using-streamlit-transformers-2a61)
 <!-- BLOG-POST-LIST:END -->
 
 ---
