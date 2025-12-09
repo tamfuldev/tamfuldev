@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building SVGs with the new Snap.svg &lpar;Basics - part 1&rpar;](https://dev.to/o_vakarelov/building-svgs-with-the-new-snapsvg-basics-part-1-1p84)
-- [Why Leaders Are Looking Beyond MLOps Toward Intelligence-Driven Operations](https://dev.to/vigneshjd/why-leaders-are-looking-beyond-mlops-toward-intelligence-driven-operations-4p5o)
-- [Building IRL: From a $50k AWS Horror Story to Human-Centered AI Governance](https://dev.to/lfariaus/building-irl-from-a-50k-aws-horror-story-to-human-centered-ai-governance-1jdg)
-- [⚡10 Low-Effort, High-Impact Web Performance Tips](https://dev.to/manukumar07/10-low-effort-high-impact-web-performance-tips-37aj)
-- [A Lightweight Way to Convert Text Files to PDF Without Breaking Developer Flow](https://dev.to/knowadvance_c5092984a5b66/a-lightweight-way-to-convert-text-files-to-pdf-without-breaking-developer-flow-3lee)
+- [Automating Word Document Text Extraction in Python](https://dev.to/allen_yang_f905170c5a197b/automating-word-document-text-extraction-in-python-2gc5)
+- [NextAuth.js to Better Auth: Why I Switched Auth Libraries](https://dev.to/pipipi-dev/nextauthjs-to-better-auth-why-i-switched-auth-libraries-31h3)
+- [Why &quot;Active&quot; State Actually Means You Failed](https://dev.to/junkang_li_3aeb0977d65314/why-active-state-actually-means-you-failed-19i3)
+- [Side Copilot: My Chrome Extension Alternative to Comet Browser](https://dev.to/kingyou/side-copilot-my-chrome-extension-alternative-to-comet-browser-48cm)
+- [From NestJS to malloc: My Nightly Battle with Memory](https://dev.to/fauzanfebrian/from-nestjs-to-malloc-my-nightly-battle-with-memory-460n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
