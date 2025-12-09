@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Smarter Software Architecture Builds Smarter Teams](https://dev.to/leonpennings/smarter-software-architecture-builds-smarter-teams-5548)
-- [7 AI Devtools to Watch This December](https://dev.to/fernandezbaptiste/7-ai-devtools-to-watch-this-december-25hl)
-- [From Hobby to Hackathons: My Journey into Web Development - Taha Bichouina](https://dev.to/tahabicho/from-hobby-to-hackathons-my-journey-into-web-development-taha-bichouina-5g8e)
-- [Part 2: Setting Up Your First Django Project](https://dev.to/samwitadhikary/post-2-setting-up-your-first-django-project-2ken)
-- [Como anexar um volume de Block Storage à sua VM Linux na Magalu Cloud &lpar;via CLI&rpar;](https://dev.to/magalucloud/como-anexar-um-volume-de-block-storage-a-sua-vm-linux-na-magalu-cloud-via-cli-37fl)
+- [Why GitFlow Fails at Infrastructure](https://dev.to/dortort/why-gitflow-fails-at-infrastructure-90f)
+- [🎨 I Built My Developer Portfolio at 14 — Here’s What I Learned](https://dev.to/similol3/i-built-my-developer-portfolio-at-14-heres-what-i-learned-2791)
+- [I Built an AI-Powered AWS Waste Detector &lpar;and Found $4,200 in My Own Account&rpar;](https://dev.to/cloudwiseteam/i-built-an-ai-powered-aws-waste-detector-and-found-4200-in-my-own-account-2cc4)
+- [MCP Wins, But the War Just Started: Why Standardization Won&#39;t Save Us from Lock-in](https://dev.to/fl4tlin3/mcp-wins-but-the-war-just-started-why-standardization-wont-save-us-from-lock-in-53a4)
+- [AI in Healthcare](https://dev.to/alexdavis123/ai-in-healthcare-583o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
