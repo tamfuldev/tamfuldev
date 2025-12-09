@@ -16,7 +16,7 @@
 # Latest stack oveflow activity
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><tr><td>php odbc connection to databricks returns junk bytes</td><td>https://stackoverflow.com/questions/79841587/php-odbc-connection-to-databricks-returns-junk-bytes</td></tr><tr><td>Generating terrain image from PostGIS spatial data?</td><td>https://stackoverflow.com/questions/79841351/generating-terrain-image-from-postgis-spatial-data</td></tr><tr><td>php-requests killing webserver</td><td>https://stackoverflow.com/questions/79840946/php-requests-killing-webserver</td></tr><tr><td>PHP and PHP-FPM configuration</td><td>https://stackoverflow.com/questions/79840852/php-and-php-fpm-configuration</td></tr><tr><td>Does PHP Header Location Send HTTP Referrer information?</td><td>https://stackoverflow.com/questions/79840701/does-php-header-location-send-http-referrer-information</td></tr><!-- STACKOVERFLOW:END -->
+  <!-- STACKOVERFLOW:START --><tr><td>PHP CodeSniffer won&#39;t run in VSCode</td><td>https://stackoverflow.com/questions/79841721/php-codesniffer-wont-run-in-vscode</td></tr><tr><td>php odbc connection to databricks returns junk bytes</td><td>https://stackoverflow.com/questions/79841587/php-odbc-connection-to-databricks-returns-junk-bytes</td></tr><tr><td>Generating terrain image from PostGIS spatial data?</td><td>https://stackoverflow.com/questions/79841351/generating-terrain-image-from-postgis-spatial-data</td></tr><tr><td>php-requests killing webserver</td><td>https://stackoverflow.com/questions/79840946/php-requests-killing-webserver</td></tr><tr><td>PHP and PHP-FPM configuration</td><td>https://stackoverflow.com/questions/79840852/php-and-php-fpm-configuration</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 
 ---
