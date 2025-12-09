@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DIY Bluetooth Speaker – Build a Compact Portable Audio System](https://dev.to/messin_tom/diy-bluetooth-speaker-build-a-compact-portable-audio-system-1i89)
-- [🚦 Adaptive IoT Traffic Lights: Building a Smarter Traffic System with ESP32](https://dev.to/messin_tom/adaptive-iot-traffic-lights-building-a-smarter-traffic-system-with-esp32-16dg)
-- [**NFL Catch Rule Controversy: Ravens Coach John Harbaugh Calls for Clarity**](https://dev.to/yagyaraj_sharma_6cd410179/nfl-catch-rule-controversy-ravens-coach-john-harbaugh-calls-for-clarity-12mj)
-- [EC2 Lab: Launching an Instance in a Private Subnet &lpar;Private Access&rpar;](https://dev.to/figueroaeandres/ec2-lab-launching-an-instance-in-a-private-subnet-private-access-5d1e)
-- [Are New Technologies Really New — or Just Better Versions of the Old?](https://dev.to/divya_p23mic0043_bdb26bc/are-new-technologies-really-new-or-just-better-versions-of-the-old-2fda)
+- [Cellular Bonding Architecture: How Different Protocols Handle Edge-Case Performance](https://dev.to/jason_jacob_dcfc2408b7557/cellular-bonding-architecture-how-different-protocols-handle-edge-case-performance-15a0)
+- [Unlocking Modern Layouts with CSS Logical Properties and Media Queries Level 4+](https://dev.to/sharique_siddiqui_8242dad/unlocking-modern-layouts-with-css-logical-properties-and-media-queries-level-4-3maj)
+- [From Dead Pixels to Cinematic Emotion: Why Nano Banana Pro is the Storyteller’s Dream 🍌✨](https://dev.to/juddiy/from-dead-pixels-to-cinematic-emotion-why-nano-banana-pro-is-the-storytellers-dream-2348)
+- [AWS re:Invent 2025 - Building multi-Region data lakes with Replication for Amazon S3 Tables &lpar;STG358&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-building-multi-region-data-lakes-with-replication-for-amazon-s3-tables-stg358-2cgl)
+- [𝐖𝐡𝐲 𝐓𝐢𝐜𝐤𝐞𝐭𝐦𝐚𝐬𝐭𝐞𝐫 𝐜𝐫𝐚𝐬𝐡𝐞𝐬 𝐛𝐮𝐭 𝐀𝐦𝐚𝐳𝐨𝐧 𝐬𝐮𝐫𝐯𝐢𝐯𝐞𝐬 𝐁𝐥𝐚𝐜𝐤 𝐅𝐫𝐢𝐝𝐚𝐲 – 𝐭𝐡𝐞 𝐭𝐫𝐮𝐭𝐡 𝐚𝐛𝐨𝐮𝐭 𝐥𝐨𝐚𝐝 𝐛𝐚𝐥𝐚𝐧𝐜𝐢𝐧𝐠.](https://dev.to/innovated_dev/--4d1j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
