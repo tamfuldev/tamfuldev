@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Secret Life of Python: The Import System](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-import-system-2e7j)
-- [[AWS] 2. EC2 &lpar;Elastic Compute Cloud&rpar; Instance Fundamentals, SSH](https://dev.to/sangwoo_rhie/aws-2-ec2-elastic-compute-cloud-instance-fundamentals-ssh-pg1)
-- [Advent of AI 2025 - Day 7: Goose Recipes](https://dev.to/nickytonline/advent-of-ai-2025-day-7-goose-recipes-5d1c)
-- [Visual Studio Code: The Complete Guide for Developers in 2025](https://dev.to/farhadrahimiklie/visual-studio-code-the-complete-guide-for-developers-in-2025-fd9)
-- [React2Shell RCE Vulnerability: Critical Exploit in React Server Components and Next.js — Patch Immediately](https://dev.to/rohanrajgautam/react2shell-rce-vulnerability-critical-exploit-in-react-server-components-and-nextjs-patch-3jkb)
+- [Catching Nested any in typescript-eslint](https://dev.to/oleksandrakordonets/catching-nested-any-in-typescript-eslint-3gc0)
+- [When Your Linux System Hits Emergency Mode: initramfs &amp; fsck](https://dev.to/rijultp/when-your-linux-system-hits-emergency-mode-initramfs-fsck-439)
+- [1.Troubleshoot and Create Ansible Playbook](https://dev.to/thukhakyawe_cloud/1troubleshoot-and-create-ansible-playbook-34he)
+- [Web Application Testing - A Complete Guide](https://dev.to/ishikha_rao/web-application-testing-a-complete-guide-2jm8)
+- [Transform Your SDK Integration with Monetzly&#39;s AI Ads](https://dev.to/monetzly/transform-your-sdk-integration-with-monetzlys-ai-ads-lfm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
