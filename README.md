@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to MCP Tools](https://dev.to/mcptest/introduction-to-mcp-tools-pfi)
-- [Demystifying Agentic Test Automation for QA Teams](https://dev.to/johnjvester/demystifying-agentic-test-automation-for-qa-teams-53ph)
-- [Key Differences Between setImmediate&lpar;&rpar; and process.nextTick&lpar;&rpar; in Node.js](https://dev.to/jefersoneiji/key-differences-between-setimmediate-and-processnexttick-in-nodejs-2ejj)
-- [Troubleshooting DefaultAzureCredential: Identifying Which Credential Is Used](https://dev.to/stebaker92/troubleshooting-defaultazurecredential-identifying-which-credential-is-used-1lgh)
-- [⚡ Frontend Performance in 2025: The Ultimate Checklist](https://dev.to/tahamjp/frontend-performance-in-2025-the-ultimate-checklist-49f2)
+- [DeDe Protocol: Trustless Settlement Layer for Physical Delivery](https://dev.to/pablochacon/dede-protocol-trustless-settlement-layer-for-physical-delivery-58fb)
+- [Goman.live: Guide for AI Developers and Vibe Coders](https://dev.to/petrashka/gomanlive-guide-for-ai-developers-and-vibe-coders-5a7h)
+- [My Experience in the 5-Day AI Agents Intensive Course](https://dev.to/parwati_kumari_7cf8cf4747/my-experience-in-the-5-day-ai-agents-intensive-course-25l1)
+- [How Programming Languages Are Converted into Machine Code](https://dev.to/dev-rashedin/how-programming-languages-are-converted-into-machine-code-pil)
+- [Did you know? DevOps sandbox](https://dev.to/ethernmyth/did-you-know-devops-sandbox-24ao)
 <!-- BLOG-POST-LIST:END -->
 
 ---
