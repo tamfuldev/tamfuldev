@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [std::move doesn&#39;t move anything: A deep dive into Value Categorie](https://dev.to/theghost_194/stdmove-doesnt-move-anything-a-deep-dive-into-value-categorie-1h06)
-- [Need Persuasive Presentation Topic Ideas? 100+ Interesting Topics That Would Actually Work.](https://dev.to/dhanusree_v_91cb434a13fdf/need-persuasive-presentation-topic-ideas-100-interesting-topics-that-would-actually-work-686)
-- [Ditch Weak Models; Make Your AI Stronger with Data Quality](https://dev.to/evarayner/ditch-weak-models-make-your-ai-stronger-with-data-quality-46k3)
-- [How to Access Both Company and Personal GitHub Repositories On The Same Machine](https://dev.to/myogeshchavan97/how-to-access-both-company-and-personal-github-repositories-on-the-same-machine-md2)
-- [I CHING](https://dev.to/enochian007/i-ching-22dj)
+- [How to find beta users for your SaaS?](https://dev.to/valentin_tya_327693/how-to-find-beta-users-for-your-saas-d7e)
+- [Building a Zero-Knowledge File Sharing Platform with Client-Side Encryption](https://dev.to/tamilselvi_k_31fa58602adb/building-a-zero-knowledge-file-sharing-platform-with-client-side-encryption-4g93)
+- [🔰How to Build a Real-Time Chat App in Flutter Using ZEGOCLOUD ZIMKit &lpar;No Backend Needed&rpar;](https://dev.to/hazem_hamdy_9fb/how-to-build-a-real-time-chat-app-in-flutter-using-zegocloud-zimkit-no-backend-needed-1cj4)
+- [building a web-based code runner for python &amp; c#](https://dev.to/vulcanwm/building-a-web-based-code-runner-for-python-c-4dkm)
+- [azure deployment - help!](https://dev.to/eseosarumen_efesomwan_67/azure-deployment-help-2p5i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
