@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Kaizen OCR &amp; PDF – Your Privacy-First OCR Companion](https://dev.to/sujit_singh_4a6ea64d77af0/kaizen-ocr-pdf-your-privacy-first-ocr-companion-nn5)
-- [From &quot;Why?&quot; to Wow: Building a Multi-Agent Storyteller After 5-Day AI Agents Intensive Course with Google](https://dev.to/silvestre-po/from-why-to-wow-building-a-multi-agent-storyteller-after-5-day-ai-agents-intensive-course-with-1lm7)
-- [Prompt Engineering for Software Developer](https://dev.to/speaklouder/prompt-engineering-for-software-developer-1pd0)
-- [Best Books on Agile Methodology](https://dev.to/noahrhenriksen/best-books-on-agile-methodology-20p8)
-- [How to Automate Your Entire Business: A Developer&#39;s Guide to Systems &amp; Workflows](https://dev.to/ahmed_darwish_9603181a758/how-to-automate-your-entire-business-a-developers-guide-to-systems-workflows-995)
+- [YM2149 in Rust, Part 1: Building a Cycle-Accurate Emulator](https://dev.to/markus_velten_e7807418293/ym2149-in-rust-part-1-building-a-cycle-accurate-emulator-33om)
+- [Cost of developing fintech apps in 2025](https://dev.to/it-influencer/cost-of-developing-fintech-apps-in-2025-kof)
+- [Inside the UK FPGA Landscape: Insights from the DESN Industry Survey 2025](https://dev.to/alpinumblogs/inside-the-uk-fpga-landscape-insights-from-the-desn-industry-survey-2025-52np)
+- [How do you take user inputs in Javascript&lpar;NodeJs&rpar;?](https://dev.to/caspiangrey/how-do-you-take-user-inputs-in-javascriptnodejs-181p)
+- [On-Boarding Devices on Defender for Endpoint](https://dev.to/itcs11/on-boarding-devices-on-defender-for-endpoint-33e2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
