@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Secret Language of Data: Vectors and Cosine Similarity](https://dev.to/andrewchaa/the-secret-language-of-data-vectors-and-cosine-similarity-4e2a)
-- [Using Claude Code to Pilot Kubernetes on Autodock](https://dev.to/mikesol/using-claude-code-to-pilot-kubernetes-on-autodock-3k04)
-- [Automating made easy with Kiro CLI](https://dev.to/aws/automating-made-easy-with-kiro-cli-1p78)
-- [yipm: All-in-One Package Management Command](https://dev.to/yue_872dc07dc8d940ea0544e/yipm-all-in-one-package-management-command-2h82)
-- [MAWA - A language as simple as Python but as powerful as Assembler, modern ASM but much simpler.](https://dev.to/samuel_leonardo_37aff38b4/mawa-a-language-as-simple-as-python-but-as-powerful-as-assembler-modern-asm-but-much-simpler-l7b)
+- [Uninformed Optimism and Tech Shiny Object Syndrome](https://dev.to/bobby_k_x/uninformed-optimism-and-tech-shiny-object-syndrome-5335)
+- [Stop Scripting, Start Architecting: The OOP Approach to Terraform](https://dev.to/dortort/stop-scripting-start-architecting-the-oop-approach-to-terraform-3hl0)
+- [How to Identify Varicose Veins: Expert Insights by IRfacilities &amp; Dr. Sandeep Sharma](https://dev.to/irfacilities_5f9ecbae7a22/how-to-identify-varicose-veins-expert-insights-by-irfacilities-dr-sandeep-sharma-5e23)
+- [Rethinking API Design for AI Agents: From Data Plumbing to Intelligent Interfaces](https://dev.to/akshaygupta1996/rethinking-api-design-for-ai-agents-from-data-plumbing-to-intelligent-interfaces-37jh)
+- [Tailwind CSS Best Practices &amp; Design System Patterns 🎨](https://dev.to/frontendtoolstech/tailwind-css-best-practices-design-system-patterns-54pi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
