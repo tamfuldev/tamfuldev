@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to find beta users for your SaaS?](https://dev.to/valentin_tya_327693/how-to-find-beta-users-for-your-saas-d7e)
-- [Building a Zero-Knowledge File Sharing Platform with Client-Side Encryption](https://dev.to/tamilselvi_k_31fa58602adb/building-a-zero-knowledge-file-sharing-platform-with-client-side-encryption-4g93)
-- [🔰How to Build a Real-Time Chat App in Flutter Using ZEGOCLOUD ZIMKit &lpar;No Backend Needed&rpar;](https://dev.to/hazem_hamdy_9fb/how-to-build-a-real-time-chat-app-in-flutter-using-zegocloud-zimkit-no-backend-needed-1cj4)
-- [building a web-based code runner for python &amp; c#](https://dev.to/vulcanwm/building-a-web-based-code-runner-for-python-c-4dkm)
-- [azure deployment - help!](https://dev.to/eseosarumen_efesomwan_67/azure-deployment-help-2p5i)
+- [Stop Building God Agents](https://dev.to/ejb503/stop-building-god-agents-511e)
+- [在本機安裝 Mattermost：打造自主控制的團隊通訊平台](https://dev.to/letswrite/zai-ben-ji-an-zhuang-mattermostda-zao-zi-zhu-kong-zhi-de-tuan-dui-tong-xun-ping-tai-4hk2)
+- [A Clean &amp; Scalable Spring Boot Project Structure &lpar;Shared-Domain Architecture&rpar;](https://dev.to/karthikeyan_/a-clean-scalable-spring-boot-project-structure-shared-domain-architecture-32d)
+- [How to Store Critical Secrets for 100+ Years](https://dev.to/imohamadnashaat/how-to-store-critical-secrets-for-100-years-290n)
+- [LLM Applications: From Code Generation to Autonomous Agents](https://dev.to/derrickryangiggs/llm-applications-from-code-generation-to-autonomous-agents-51f3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
