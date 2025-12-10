@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Tame Your Multi-Repo Chaos with the Terminal](https://dev.to/iam_pbk/how-to-tame-your-multi-repo-chaos-with-the-terminal-52bi)
-- [How Product Engineering Services Accelerate Scalable Digital Innovation](https://dev.to/harshada_75eaf5c6bf7a194a/how-product-engineering-services-accelerate-scalable-digital-innovation-1535)
-- [Web developer Bhupesh Singh Nitwal](https://dev.to/bhupesh_singhnitwal_d34c/web-developer-bhupesh-singh-nitwal-2dnh)
-- [Bhupesh Singh Nitwal Bachelor of science student](https://dev.to/bhupesh_singhnitwal_d34c/bhupesh-singh-nitwal-bachelor-of-science-student-4nck)
-- [How Offshore Software Engineers Help Companies Build Faster and Smarter](https://dev.to/harshada_75eaf5c6bf7a194a/how-offshore-software-engineers-help-companies-build-faster-and-smarter-3h0)
+- [Day 10 — Legacy Systems &lpar;The Old Bridge&rpar;](https://dev.to/aerabi/day-10-legacy-systems-the-old-bridge-35b8)
+- [Why I Chose GoatCounter for my GitHub Pages Site](https://dev.to/iam_pbk/why-i-chose-goatcounter-for-my-github-pages-site-7k8)
+- [AdonisJS Tutorial: The Ultimate Guide &lpar;2023&rpar;](https://dev.to/masteringbackend/adonisjs-tutorial-the-ultimate-guide-2023-1nof)
+- [A simple visual system for tracking hifz mistakes and progress](https://dev.to/dr_rajabi/a-simple-visual-system-for-tracking-hifz-mistakes-and-progress-32h3)
+- [Leetcode 13: Roman to Integer](https://dev.to/tochi_/leetcode-13-roman-to-integer-43pf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
