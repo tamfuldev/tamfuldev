@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Databases Actually Store Data &lpar;And Why You Should Care&rpar;](https://dev.to/bradmcnew/how-databases-actually-store-data-and-why-you-should-care-d70)
-- [user-scanner a cli tool written in python which helps you choose a unique username across all popular sites and games ⚡](https://dev.to/kaifcodec/user-scanner-a-cli-tool-written-in-python-which-helps-you-choose-a-unique-username-across-all-1e8i)
-- [Introducing Qyavix — a 155-byte DOM runtime](https://dev.to/yinhaoc/introducing-qyavix-a-155-byte-dom-runtime-3h01)
-- [3 Ways to Create A Floor in Godot](https://dev.to/harry_tanama_51571ebf90b6/3-ways-to-create-a-floor-in-godot-2120)
-- [Building DNS Resolution and Domain Services with Go: A Practical Guide](https://dev.to/jones_charles_ad50858dbc0/building-dns-resolution-and-domain-services-with-go-a-practical-guide-5d87)
+- [The Secret Life of Python: The Import System](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-import-system-2e7j)
+- [[AWS] 2. EC2 &lpar;Elastic Compute Cloud&rpar; Instance Fundamentals, SSH](https://dev.to/sangwoo_rhie/aws-2-ec2-elastic-compute-cloud-instance-fundamentals-ssh-pg1)
+- [Advent of AI 2025 - Day 7: Goose Recipes](https://dev.to/nickytonline/advent-of-ai-2025-day-7-goose-recipes-5d1c)
+- [Visual Studio Code: The Complete Guide for Developers in 2025](https://dev.to/farhadrahimiklie/visual-studio-code-the-complete-guide-for-developers-in-2025-fd9)
+- [React2Shell RCE Vulnerability: Critical Exploit in React Server Components and Next.js — Patch Immediately](https://dev.to/rohanrajgautam/react2shell-rce-vulnerability-critical-exploit-in-react-server-components-and-nextjs-patch-3jkb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
