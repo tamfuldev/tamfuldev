@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DeFi 101: Decentralized Finance](https://dev.to/ribhavmodi/defi-101-decentralized-finance-3h3)
-- [📅 Day 12 | AWS IAM — The Backbone of AWS Security 🔐☁️](https://dev.to/sudarshan_yadav/day-12-aws-iam-the-backbone-of-aws-security-3ib6)
-- [🔒 Inside MemCloud’s Secure Peer Authentication: How Devices Safely Share RAM Over LAN](https://dev.to/vibhanshu_garg_01741359bc/inside-memclouds-secure-peer-authentication-how-devices-safely-share-ram-over-lan-f1a)
-- [The EU AI Act: What It Means for Your Code, Your Models, and Your Users](https://dev.to/ramya_vellanki_e93288ad2f/the-eu-ai-act-what-it-means-for-your-code-your-models-and-your-users-ilm)
-- [Your API is a Product, Not a Dumpster: Architecting Production-Grade REST APIs with AI](https://dev.to/huizhudev/your-api-is-a-product-not-a-dumpster-architecting-production-grade-rest-apis-with-ai-mfd)
+- [The Unexpected Hard Parts of Building a Portfolio in Next.js 16](https://dev.to/itsugo/the-unexpected-hard-parts-of-building-a-portfolio-in-nextjs-16-12po)
+- [Is there a way to determine if a shared object &lpar; .so &rpar; file was generated from a c or c++ code?](https://dev.to/sharmaprash/is-there-a-way-to-determine-if-a-shared-object-so-file-was-generated-from-a-c-or-c-code-4a2h)
+- [Create Your Own TanStackQuery In Angular 🤝 RxJs](https://dev.to/romain_geffrault_10d88369/create-your-own-tanstackquery-in-angular-rxjs-5g97)
+- [OS and Hardware Interaction&lpar; Kernel and Drivers &rpar;](https://dev.to/sarthug/os-and-hardware-interaction-hb9)
+- [Top 10 Productivity Hacks Every Developer Should Know 🚀](https://dev.to/sharmaprash/top-10-productivity-hacks-every-developer-should-know-5ek1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
