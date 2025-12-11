@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Hashicorp Vault: Token Management via CLI and API](https://dev.to/admantium/hashicorp-vault-token-management-via-cli-and-api-3j02)
-- [I refused to pay subscriptions just to delete an ending, so I &quot;Vibe Coded&quot; a CapCut Watermark Remover &lpar;No Login&rpar;](https://dev.to/renming_wang_99a0c6efbd56/i-refused-to-pay-subscriptions-just-to-delete-an-ending-so-i-vibe-coded-a-capcut-watermark-3onb)
-- [Carific.ai: From AI Slop to Actionable Feedback - Structured Output with Zod and the AI SDK](https://dev.to/abdullahjan/carificai-from-ai-slop-to-actionable-feedback-structured-output-with-zod-and-the-ai-sdk-5d7o)
-- [🌩️From Cyber Cafés to Cloud Computing](https://dev.to/itsmeananyasrivastava/from-cyber-cafes-to-cloud-computing-1ceg)
-- [2026 Front End Roadmap: 100% Free Resources to Get Hired](https://dev.to/codersnote/2026-front-end-roadmap-100-free-resources-to-get-hired-768)
+- [Build a Dogecoin Sentiment-Driven Trading Signal CLI with Remix](https://dev.to/dbatson/build-a-dogecoin-sentiment-driven-trading-signal-cli-with-remix-2je2)
+- [Stop Shipping Fast. Build Slow, Mature Products](https://dev.to/doozieakshay/stop-shipping-fast-build-slow-mature-products-54ic)
+- [The Fastest Way to Deploy a Site in 2026](https://dev.to/skapi_api/the-fastest-way-to-deploy-a-site-in-2026-a10)
+- [Unlock the Power of Blockchain Development Services with Oodles](https://dev.to/oodlesplatform/unlock-the-power-of-blockchain-development-services-with-oodles-2bm6)
+- [Day 61: Python Queue Using Two Stacks, Amortized O&lpar;1&rpar; Unbiased FIFO with Brilliant Double-Stack Flip Trick &lpar;No Deque Cheats!&rpar;](https://dev.to/shahrouzlogs/day-61-python-queue-using-two-stacks-amortized-o1-unbiased-fifo-with-brilliant-double-stack-4f0h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
