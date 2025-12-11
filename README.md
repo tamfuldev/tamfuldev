@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How computers actually see time?](https://dev.to/rasheem/how-computers-actually-see-time-58p8)
-- [The Prompting Trick That Fixed My AI Image Generation](https://dev.to/nadinev/the-prompting-trick-that-fixed-my-ai-image-generation-3ge4)
-- [I built an open-source directory website template with Nuxt 4 🚀](https://dev.to/bing_pu_53451a26d911e5d2c/i-built-an-open-source-directory-website-template-with-nuxt-4-2eih)
-- [API Security : Understand in 3 Minutes](https://dev.to/hongster85/api-security-understand-in-3-minutes-3pjg)
-- [Angular - Standalone Component](https://dev.to/milan_karajovic_45443e6d6/angular-standalone-component-1lmh)
+- [Viewing AWS Used Resources and Costs for Finance Team: Guide to Exporting PDF Reports](https://dev.to/cloud_man/viewing-aws-used-resources-and-costs-for-finance-team-guide-to-exporting-pdf-reports-jca)
+- [Batch publishing Twitch chatroom messages - with AWS Lambda Durable Multi-Step Executions](https://dev.to/aws-builders/batch-publishing-twitch-chatroom-messages-with-aws-lambda-durable-multi-step-executions-2a30)
+- [ScrumBuddy Beta Is Live! Here’s the Real Story Behind It &lpar;For the Solopreneurs Who’ll Get It Most&rpar;](https://dev.to/guypowell/scrumbuddy-beta-is-live-heres-the-real-story-behind-it-for-the-solopreneurs-wholl-get-it-most-4b79)
+- [My PC melted while making this game...](https://dev.to/shaq_attack/my-pc-melted-while-making-this-game-4b71)
+- [My First game - Comms Under Fire](https://dev.to/shaq_attack/my-first-game-comms-under-fire-2co)
 <!-- BLOG-POST-LIST:END -->
 
 ---
