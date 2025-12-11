@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built a visual workflow tool for developers with Tauri](https://dev.to/runkids/i-built-a-visual-workflow-tool-for-developers-with-tauri-45gp)
-- [I built a Multi-Agent Support System in 5 Days &lpar;And Learned Why &quot;God Agents&quot; Don&#39;t Work&rpar;](https://dev.to/kalaiguna/i-built-a-multi-agent-support-system-in-5-days-and-learned-why-god-agents-dont-work-4e06)
-- [OpenTelemetry - stepping into gno.land&#39;s observability tools](https://dev.to/sw360cab/opentelemetry-stepping-into-gnolands-observability-tools-2fdg)
-- [Amazon Bedrock Cost Optimization: Techniques &amp; Best Practices](https://dev.to/brayanarrieta/amazon-bedrock-cost-optimization-techniques-best-practices-5om)
-- [Bug Fixed? Cool.😭](https://dev.to/aruna_hulakoti/bug-fixed-cool-ngd)
+- [DeFi 101: Decentralized Finance](https://dev.to/ribhavmodi/defi-101-decentralized-finance-3h3)
+- [📅 Day 12 | AWS IAM — The Backbone of AWS Security 🔐☁️](https://dev.to/sudarshan_yadav/day-12-aws-iam-the-backbone-of-aws-security-3ib6)
+- [🔒 Inside MemCloud’s Secure Peer Authentication: How Devices Safely Share RAM Over LAN](https://dev.to/vibhanshu_garg_01741359bc/inside-memclouds-secure-peer-authentication-how-devices-safely-share-ram-over-lan-f1a)
+- [The EU AI Act: What It Means for Your Code, Your Models, and Your Users](https://dev.to/ramya_vellanki_e93288ad2f/the-eu-ai-act-what-it-means-for-your-code-your-models-and-your-users-ilm)
+- [Your API is a Product, Not a Dumpster: Architecting Production-Grade REST APIs with AI](https://dev.to/huizhudev/your-api-is-a-product-not-a-dumpster-architecting-production-grade-rest-apis-with-ai-mfd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
