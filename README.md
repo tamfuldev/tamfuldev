@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Yet another Rust ownership tutorial](https://dev.to/nfrankel/yet-another-rust-ownership-tutorial-4de1)
-- [Here’s Exactly How I Implemented @defer for Granular Code Splitting in Days — Step-by-Step](https://dev.to/karol_modelski/heres-exactly-how-i-implemented-defer-for-granular-code-splitting-in-days-step-by-step-319g)
-- [What to Do Immediately After a Car Accident in UAE &lpar;2025&rpar;: A Step-by-Step Guide](https://dev.to/shihab_shamoon_a06aaea9f1/what-to-do-immediately-after-a-car-accident-in-uae-2025-a-step-by-step-guide-26m)
-- [The Double-Edged Sword of &quot;Flow State&quot; in Game Dev ⚔️](https://dev.to/crow004/the-double-edged-sword-of-flow-state-in-game-dev-5gbj)
-- [Deploy Hugo Site to AWS S3 with AWS CLI](https://dev.to/rosgluk/deploy-hugo-site-to-aws-s3-with-aws-cli-1bmm)
+- [Accelerating Release Cycles Through Automated Regression Testing](https://dev.to/yeahiasarker/accelerating-release-cycles-through-automated-regression-testing-1b62)
+- [10 Common Drawing Mistakes Beginners Make &amp; How to Avoid](https://dev.to/xprocad/10-common-drawing-mistakes-beginners-make-how-to-avoid-3a31)
+- [iPhone HTTPS Packet Capture: Process from Unable to Capture to Problem Localization &lpar;Charles/tcpdump/Wireshark/Sniffmaster&rpar;](https://dev.to/iphonetechie/iphone-https-packet-capture-process-from-unable-to-capture-to-problem-localization-4047)
+- [I just Launched RareUI - A Clean, Modern Component Library.](https://dev.to/swapnil_kalambe_59b037384/i-just-launched-rareui-a-clean-modern-component-library-53dc)
+- [Modernizing Enterprise IT: The Unified Internal Portal](https://dev.to/edgi/modernizing-enterprise-it-the-unified-internal-portal-37gc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
