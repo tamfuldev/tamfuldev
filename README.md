@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to send email with Django: Complete SMTP guide](https://dev.to/davecodes/how-to-send-email-with-django-complete-smtp-guide-1f19)
-- [121. Best Time to Buy and Sell Stock | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/121-best-time-to-buy-and-sell-stock-leetcode-top-interview-150-coding-questions-16m3)
-- [sql11](https://dev.to/query_filter_591122b53770/sql11-4fpg)
-- [XML / HTML tables / Web scraping &lpar;static HTML&rpar;](https://dev.to/dipti_m_2e7ba36c478d1a48a/xml-html-tables-web-scraping-static-html-13ci)
-- [sql10](https://dev.to/query_filter_591122b53770/sql10-1gb8)
+- [Building a Modern Image Gallery with Next.js 16, TypeScript &amp; Unsplash API](https://dev.to/blamsa0mine/building-a-modern-image-gallery-with-nextjs-16-typescript-unsplash-api-629)
+- [GPT 5.2 vs Gemini 3 Technical Breakdown](https://dev.to/alifar/gpt-52-vs-gemini-3-technical-breakdown-301k)
+- [# Moving from Terraform Monorepo to Multi-Repo Without Losing Your Mind &lpar;and Your Sleep&rpar;](https://dev.to/meena_nukala_1154d49b984d/-moving-from-terraform-monorepo-to-multi-repo-without-losing-your-mind-and-your-sleep-38ce)
+- [How to Convert OFX to PDF in a Few Simple Steps](https://dev.to/geoffhowto/how-to-convert-ofx-to-pdf-in-a-few-simple-steps-2gj8)
+- [DevPill #9 - IP Based Rate Limiter Middleware for native Go REST API](https://dev.to/raulsilva/devpill-8-ip-based-rate-limiter-middleware-for-native-go-rest-api-1efa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
