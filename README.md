@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Unexpected Hard Parts of Building a Portfolio in Next.js 16](https://dev.to/itsugo/the-unexpected-hard-parts-of-building-a-portfolio-in-nextjs-16-12po)
-- [Is there a way to determine if a shared object &lpar; .so &rpar; file was generated from a c or c++ code?](https://dev.to/sharmaprash/is-there-a-way-to-determine-if-a-shared-object-so-file-was-generated-from-a-c-or-c-code-4a2h)
-- [Create Your Own TanStackQuery In Angular 🤝 RxJs](https://dev.to/romain_geffrault_10d88369/create-your-own-tanstackquery-in-angular-rxjs-5g97)
-- [OS and Hardware Interaction&lpar; Kernel and Drivers &rpar;](https://dev.to/sarthug/os-and-hardware-interaction-hb9)
-- [Top 10 Productivity Hacks Every Developer Should Know 🚀](https://dev.to/sharmaprash/top-10-productivity-hacks-every-developer-should-know-5ek1)
+- [Day 2 — Beginning My 40 Days AWS DevOps Journey](https://dev.to/sakshi_more_20/day-2-beginning-my-40-days-aws-devops-journey-2g9l)
+- [🚀 How Developers Can Stop Pretending to Understand AI Buzzwords](https://dev.to/devvarsha/how-developers-can-stop-pretending-to-understand-ai-buzzwords-40cn)
+- [Building and Updating Docker Containers: A Practical Hands-On Guide for Beginners](https://dev.to/sudaisib/building-and-updating-docker-containers-a-practical-hands-on-guide-for-beginners-3bd1)
+- [Como o software é executado no computador](https://dev.to/leonardo_peixoto/como-o-software-e-executado-no-computador-3fcn)
+- [The Rise of AI-Driven Coding](https://dev.to/synergy_shock/the-rise-of-ai-driven-coding-3e98)
 <!-- BLOG-POST-LIST:END -->
 
 ---
