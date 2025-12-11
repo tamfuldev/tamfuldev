@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Developer &amp; Collaboration Partner &lpar;Interview Support + Coding Tasks&rpar;](https://dev.to/jonathan_rodriguez_bdc209/developer-collaboration-partner-interview-support-coding-tasks-46ai)
-- [Stop Writing try/except Hell: Clean Database Transactions with SQLAlchemy with the Unit Of Work](https://dev.to/dentedlogic/stop-writing-tryexcept-hell-clean-database-transactions-with-sqlalchemy-with-the-unit-of-work-hjk)
-- [I made search engines understand emojis &lpar;and it&#39;s weirdly useful&rpar;](https://dev.to/opensolr/i-made-search-engines-understand-emojis-and-its-weirdly-useful-2acp)
-- [**Title:** Reddit&#39;s New Verification System: A Step Towards Authenticity and Community Trust](https://dev.to/yagyaraj_sharma_6cd410179/title-reddits-new-verification-system-a-step-towards-authenticity-and-community-trust-2h98)
-- [From Text Cleaner to Full Toolkit: Building 30+ Free Browser Tools](https://dev.to/florentcleanuptxt/from-text-cleaner-to-full-toolkit-building-30-free-browser-tools-3mop)
+- [NocoBase Weekly Updates: Optimization and Bug Fixes](https://dev.to/nocobase/nocobase-weekly-updates-optimization-and-bug-fixes-33gi)
+- [Judgment is the conversion point between output and impact. Without it, most developers will build a searching app, not a decision engine.](https://dev.to/jaideepparashar/judgment-is-the-conversion-point-between-output-and-impact-without-it-most-developers-will-build-f6o)
+- [Dense vs Sparse Retrieval: Mastering FAISS, BM25, and Hybrid Search](https://dev.to/qvfagundes/dense-vs-sparse-retrieval-mastering-faiss-bm25-and-hybrid-search-4kb1)
+- [The Missing Layer in AI Tools: Judgment](https://dev.to/jaideepparashar/the-missing-layer-in-ai-tools-judgment-1jk0)
+- [Is LeetCode Premium Worth It? A Data-Driven Analysis for 2025](https://dev.to/alex_hunter_44f4c9ed6671e/is-leetcode-premium-worth-it-a-data-driven-analysis-for-2025-1i4c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
