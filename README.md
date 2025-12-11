@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 2 — Beginning My 40 Days AWS DevOps Journey](https://dev.to/sakshi_more_20/day-2-beginning-my-40-days-aws-devops-journey-2g9l)
-- [🚀 How Developers Can Stop Pretending to Understand AI Buzzwords](https://dev.to/devvarsha/how-developers-can-stop-pretending-to-understand-ai-buzzwords-40cn)
-- [Building and Updating Docker Containers: A Practical Hands-On Guide for Beginners](https://dev.to/sudaisib/building-and-updating-docker-containers-a-practical-hands-on-guide-for-beginners-3bd1)
-- [Como o software é executado no computador](https://dev.to/leonardo_peixoto/como-o-software-e-executado-no-computador-3fcn)
-- [The Rise of AI-Driven Coding](https://dev.to/synergy_shock/the-rise-of-ai-driven-coding-3e98)
+- [How to send email with Django: Complete SMTP guide](https://dev.to/davecodes/how-to-send-email-with-django-complete-smtp-guide-1f19)
+- [121. Best Time to Buy and Sell Stock | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/121-best-time-to-buy-and-sell-stock-leetcode-top-interview-150-coding-questions-16m3)
+- [sql11](https://dev.to/query_filter_591122b53770/sql11-4fpg)
+- [XML / HTML tables / Web scraping &lpar;static HTML&rpar;](https://dev.to/dipti_m_2e7ba36c478d1a48a/xml-html-tables-web-scraping-static-html-13ci)
+- [sql10](https://dev.to/query_filter_591122b53770/sql10-1gb8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
