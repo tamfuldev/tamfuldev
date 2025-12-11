@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Modern Image Gallery with Next.js 16, TypeScript &amp; Unsplash API](https://dev.to/blamsa0mine/building-a-modern-image-gallery-with-nextjs-16-typescript-unsplash-api-629)
-- [GPT 5.2 vs Gemini 3 Technical Breakdown](https://dev.to/alifar/gpt-52-vs-gemini-3-technical-breakdown-301k)
-- [# Moving from Terraform Monorepo to Multi-Repo Without Losing Your Mind &lpar;and Your Sleep&rpar;](https://dev.to/meena_nukala_1154d49b984d/-moving-from-terraform-monorepo-to-multi-repo-without-losing-your-mind-and-your-sleep-38ce)
-- [How to Convert OFX to PDF in a Few Simple Steps](https://dev.to/geoffhowto/how-to-convert-ofx-to-pdf-in-a-few-simple-steps-2gj8)
-- [DevPill #9 - IP Based Rate Limiter Middleware for native Go REST API](https://dev.to/raulsilva/devpill-8-ip-based-rate-limiter-middleware-for-native-go-rest-api-1efa)
+- [Untangling the Rails Monolith - quick look at the code](https://dev.to/rbglod/untangling-the-rails-monolith-quick-look-at-the-code-29e9)
+- [The Evolving Role of Cybersecurity in Product Leadership: Insights from Suzanne Alipourian Frascogna](https://dev.to/fruity_pebbles_9eb2518a6e/the-evolving-role-of-cybersecurity-in-product-leadership-insights-from-suzanne-alipourian-frascogna-4il8)
+- [Day 1 all over again](https://dev.to/abidemit/day-1-all-over-again-2pfc)
+- [The Pitfalls of Reading User Input in C: a Story About scanf and Stdin](https://dev.to/pomidoroshev/the-pitfalls-of-reading-user-input-in-c-a-story-about-scanf-and-stdin-2mj8)
+- [En el ámbito del combate al lavado de dinero &lpar;PLD&rpar; en México](https://dev.to/drcarlosruizviquez/en-el-ambito-del-combate-al-lavado-de-dinero-pld-en-mexico-3fee)
 <!-- BLOG-POST-LIST:END -->
 
 ---
