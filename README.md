@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Custom Email Notifications Using AWS SES and the BoldSign API](https://dev.to/boldsign/custom-email-notifications-using-aws-ses-and-the-boldsign-api-39jf)
-- [Navigating the Data Compliance Landscape: A Strategic Guide for Modern Organizations](https://dev.to/zopdev/navigating-the-data-compliance-landscape-a-strategic-guide-for-modern-organizations-4k2l)
-- [[Threat Thinker] Trying LLM-Based Threat Modeling](https://dev.to/melonattacker/threat-thinker-trying-llm-based-threat-modeling-17o3)
-- [React Performance Anti-Patterns: 5 Mistakes That Kill Your App&#39;s Speed!](https://dev.to/myogeshchavan97/react-performance-anti-patterns-5-mistakes-that-kill-your-apps-speed-76j)
-- [The 5 Risks of Agentic AI Most Organizations Aren’t Ready For](https://dev.to/infutrix/the-5-risks-of-agentic-ai-most-organizations-arent-ready-for-481g)
+- [Hashicorp Vault: Token Management via CLI and API](https://dev.to/admantium/hashicorp-vault-token-management-via-cli-and-api-3j02)
+- [I refused to pay subscriptions just to delete an ending, so I &quot;Vibe Coded&quot; a CapCut Watermark Remover &lpar;No Login&rpar;](https://dev.to/renming_wang_99a0c6efbd56/i-refused-to-pay-subscriptions-just-to-delete-an-ending-so-i-vibe-coded-a-capcut-watermark-3onb)
+- [Carific.ai: From AI Slop to Actionable Feedback - Structured Output with Zod and the AI SDK](https://dev.to/abdullahjan/carificai-from-ai-slop-to-actionable-feedback-structured-output-with-zod-and-the-ai-sdk-5d7o)
+- [🌩️From Cyber Cafés to Cloud Computing](https://dev.to/itsmeananyasrivastava/from-cyber-cafes-to-cloud-computing-1ceg)
+- [2026 Front End Roadmap: 100% Free Resources to Get Hired](https://dev.to/codersnote/2026-front-end-roadmap-100-free-resources-to-get-hired-768)
 <!-- BLOG-POST-LIST:END -->
 
 ---
