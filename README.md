@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Evolution of Angular](https://dev.to/mina_golzari_dalir/the-evolution-of-angular-2o0a)
-- [The 6 Best AI Code Review Tools for Pull Requests in 2025](https://dev.to/heraldofsolace/the-6-best-ai-code-review-tools-for-pull-requests-in-2025-4n43)
-- [The Evolution of Angular: Key Features and Benefits from Version 12 to 21](https://dev.to/mina_golzari_dalir/the-evolution-of-angular-key-features-and-benefits-from-version-12-to-21-12a)
-- [How I Built a Chrome Extension That Juggles Local and Cloud AI](https://dev.to/ialijr/how-i-built-a-chrome-extension-that-juggles-local-and-cloud-ai-100n)
-- [The Architect’s Guide: Integrating LLMs into Python Automation Frameworks](https://dev.to/godhirajcode/the-architects-guide-integrating-llms-into-python-automation-frameworks-23gl)
+- [Vous cherchez un métier dans le digital](https://dev.to/maximeguinard/vous-cherchez-un-metier-dans-le-digital-2gll)
+- [CSS Basics](https://dev.to/sasirekaarumugam/css-igf)
+- [The :has&lpar;&rpar; Selector: Bringing Real Logic to CSS](https://dev.to/smrpdl1991/the-has-selector-bringing-real-logic-to-css-1ej5)
+- [Integrating Realtime ZEGOCLOUD SDK in React.js](https://dev.to/abhishek61067/integrating-realtime-zegocloud-sdk-in-reactjs-19ml)
+- [🫡 Introducing Nikki: Your Offline, Uncensored AI Red Team Assistant in the Terminal](https://dev.to/toxy4ny/introducing-nikki-your-offline-uncensored-ai-red-team-assistant-in-the-terminal-oa9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
