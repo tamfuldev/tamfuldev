@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Vous cherchez un métier dans le digital](https://dev.to/maximeguinard/vous-cherchez-un-metier-dans-le-digital-2gll)
-- [CSS Basics](https://dev.to/sasirekaarumugam/css-igf)
-- [The :has&lpar;&rpar; Selector: Bringing Real Logic to CSS](https://dev.to/smrpdl1991/the-has-selector-bringing-real-logic-to-css-1ej5)
-- [Integrating Realtime ZEGOCLOUD SDK in React.js](https://dev.to/abhishek61067/integrating-realtime-zegocloud-sdk-in-reactjs-19ml)
-- [🫡 Introducing Nikki: Your Offline, Uncensored AI Red Team Assistant in the Terminal](https://dev.to/toxy4ny/introducing-nikki-your-offline-uncensored-ai-red-team-assistant-in-the-terminal-oa9)
+- [Build a YouTube Live Clone with Next.js, Clerk, and TailwindCSS - Part Two](https://dev.to/tropicolx/build-a-youtube-live-clone-with-nextjs-clerk-and-tailwindcss-part-two-5cfo)
+- [Ringer Movies: ‘Hamnet’ and the 10 Best Performances of 2025](https://dev.to/popcorn_movies/ringer-movies-hamnet-and-the-10-best-performances-of-2025-32g7)
+- [Why I Built My Personal Developer Portfolio &lpar;and What You Can Learn From It&rpar;](https://dev.to/badhonai/why-i-built-my-personal-developer-portfolio-and-what-you-can-learn-from-it-2oib)
+- [An Analysis of Arbitrage Markets Across Ethereum, Solana, Optimism, and Starknet &lpar;2024-2025&rpar;](https://dev.to/extropy/an-analysis-of-arbitrage-markets-across-ethereum-solana-optimism-and-starknet-2024-2025-269i)
+- [Build a YouTube Live Clone with Next.js, Clerk, and TailwindCSS - Part One](https://dev.to/tropicolx/build-a-youtube-live-clone-with-nextjs-clerk-and-tailwindcss-part-one-37ke)
 <!-- BLOG-POST-LIST:END -->
 
 ---
