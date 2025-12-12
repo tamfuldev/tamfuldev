@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why AI Slows Debugging 20%](https://dev.to/brian_bonet-vox/why-ai-slows-debugging-20-4792)
-- [Firecracker Virtualization Overview](https://dev.to/aws-builders/firecracker-virtualization-overview-1hif)
-- [these new messages from people just joining the community, well rest assured this time its different.](https://dev.to/john_griffin_e3df9b2ac694/these-new-messages-from-people-just-joining-the-community-well-rest-assured-this-time-its-1oo4)
-- [I Got Obsessed With 2-Byte Deltas and Built a Delta Compressor That Actually Hits Them](https://dev.to/imgajeed76/i-got-obsessed-with-2-byte-deltas-and-built-a-delta-compressor-that-actually-hits-them-4332)
-- [Building an AI-Powered Code Editor: A Journey into Structured LLM Integration](https://dev.to/francesco_marconi_282058b/building-an-ai-powered-code-editor-a-journey-into-structured-llm-integration-3mga)
+- [[Boost]](https://dev.to/torchiachristian/-26fj)
+- [Building a Searchable PowerShell Cmdlet Reference with CSV](https://dev.to/torchiachristian/building-a-searchable-powershell-cmdlet-reference-with-csv-23ac)
+- [Why I Ditched toString&lpar;&rpar; and Moved to a Pre-Bundled Bridge with Event-Driven CDP Injection](https://dev.to/johnonline35/why-i-ditched-tostring-and-moved-to-a-pre-bundled-bridge-with-event-driven-cdp-injection-5280)
+- [How Verdex Sees Inside Iframes: Event-Driven Multi-Frame Support](https://dev.to/johnonline35/how-verdex-sees-inside-iframes-event-driven-multi-frame-support-461k)
+- [Why Your API&#39;s Error Messages Fail When Called by an LLM &lpar;And How to Fix Them&rpar;](https://dev.to/johnonline35/why-your-apis-error-messages-fail-when-called-by-an-llm-and-how-to-fix-them-5a5d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
