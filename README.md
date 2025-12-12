@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Redesign Dashboards That Actually Retain Customers](https://dev.to/daisy_jones_21bdcc6b40f9d/how-to-redesign-dashboards-that-actually-retain-customers-237d)
-- [K9s Installation Script for Amazon Linux / RHEL-Based Systems-](https://dev.to/cloudgrains/k9s-installation-script-for-amazon-linux-rhel-based-systems--160f)
-- [Day 17: AWS Blue/Green with Terraform and Elastic Beanstalk](https://dev.to/anil_kumar_noolu/day-17-aws-bluegreen-with-terraform-and-elastic-beanstalk-313m)
-- [JavaScript vs. TypeScript⚡️](https://dev.to/safae_beyt/javascript-vs-typescript-19lf)
-- [Z-Image GGUF Technical Whitepaper: Deep Analysis of S3-DiT Architecture and Quantized Deployment](https://dev.to/ryan_n_a9ec3d0a1a357a89/z-image-gguf-technical-whitepaper-deep-analysis-of-s3-dit-architecture-and-quantized-deployment-1i0o)
+- [How SmartKNN Learns Feature Weights Internally.](https://dev.to/jashwanth_thatipamula_8ee/how-smartknn-learns-feature-weights-internally-5cii)
+- [Renuncio a hacer consultoría de FinOps](https://dev.to/barbara_gaspar/renuncio-a-hacer-consultoria-de-finops-399g)
+- [Day 69 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-69-of-100-days-dsa-coding-challenge-1nfo)
+- [How Many Languages Should a Website Support?](https://dev.to/baiwei/how-many-languages-should-a-website-support-51l9)
+- [The Complete Guide to Migrating Google Workspace to Microsoft 365](https://dev.to/xantheclay/the-complete-guide-to-migrating-google-workspace-to-microsoft-365-29p5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
