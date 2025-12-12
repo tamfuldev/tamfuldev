@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Meta&#39;s 2026 Ad Targeting Overhaul: The Performance Marketer&#39;s Survival Guide](https://dev.to/synergistdigitalmedia/metas-2026-ad-targeting-overhaul-the-performance-marketers-survival-guide-4cei)
-- [🚀Getting Started With Google Cloud Build](https://dev.to/latchudevops/getting-started-with-google-cloud-build-24o0)
-- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-j2p)
-- [Laravel, Symfony, Doppar in 2026 — Which PHP Framework Should You Pick](https://dev.to/mahedi1501/laravel-symfony-doppar-in-2026-which-php-framework-should-you-pick-26f8)
-- [Why I’m Learning Web3: A 60-Day Journey from Beginner to DevRel/Community](https://dev.to/ribhavmodi/why-im-learning-web3-a-60-day-journey-from-beginner-to-devrelcommunity-2n9c)
+- [Mushroom Revenue](https://dev.to/bibimbop123/mushroom-revenue-kbk)
+- [Mushroom Revenue](https://dev.to/bibimbop123/mushroom-revenue-489j)
+- [How I Built My First App with Kiro](https://dev.to/aws/how-i-built-my-first-app-with-kiro-1569)
+- [🧬 AlphaGenome Research Assistant: Solving the Multi-Function Non-Coding DNA Challenge](https://dev.to/simranshaikh20_50/alphagenome-research-assistant-solving-the-multi-function-non-coding-dna-challenge-4ihf)
+- [Ambiguity Dies, TypeScript Flies, and Browsers Confess](https://dev.to/urbanisierung/ambiguity-dies-typescript-flies-and-browsers-confess-4aic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
