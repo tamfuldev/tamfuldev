@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Zero-Click SEO: How to Make Money When Google Hoards Your Traffic](https://dev.to/synergistdigitalmedia/zero-click-seo-how-to-make-money-when-google-hoards-your-traffic-2a9c)
-- [No, MongoDB Does Not Mean Skipping Design](https://dev.to/franckpachot/no-mongodb-does-not-mean-skipping-design-2n6b)
-- [Create Your First MCP App](https://dev.to/bd_perez/create-your-first-mcp-app-2c65)
-- [From Algorithms to Agents: How My Research in Clustering Shapes My Automation Logic](https://dev.to/godhirajcode/from-algorithms-to-agents-how-my-research-in-clustering-shapes-my-automation-logic-5hja)
-- [The Hidden Infrastructure: Why &quot;Cold Data&quot; Sovereignty is the Next DevOps](https://dev.to/mission-ile-de-la-cite/the-hidden-infrastructure-why-cold-data-sovereignty-is-the-next-devops-1omi)
+- [How to Connect VAPI to Google Calendar for Appointment Scheduling](https://dev.to/callstacktech/how-to-connect-vapi-to-google-calendar-for-appointment-scheduling-kpj)
+- [The Anti-Framework Idea that turned into FUBARos - Clippy’s Revenge](https://dev.to/j4s0nc/the-anti-framework-idea-that-turned-into-fubaros-clippys-revenge-5g59)
+- [Improving navigation in long Google AI Studio chats with a userscript](https://dev.to/axl_43df979e16ffa14c/improving-navigation-in-long-google-ai-studio-chats-with-a-userscript-3pbl)
+- [𝗚𝗿𝗮𝘁𝗲𝗳𝘂𝗹 𝘁𝗼 𝗯𝗲 𝗥𝗮𝗻𝗸𝗲𝗱 𝗔𝗺𝗼𝗻𝗴 𝘁𝗵𝗲 𝗠𝗼𝘀𝘁 𝗔𝗰𝘁𝗶𝘃𝗲 𝗚𝗶𝘁𝗛𝘂𝗯 𝗨𝘀𝗲𝗿𝘀 𝗶𝗻 𝗡𝗶𝗴𝗲𝗿𝗶𝗮 🇳🇬💻](https://dev.to/engripaye/-35da)
+- [Release my PR for the project Bifrost](https://dev.to/slyang08/release-my-pr-for-the-project-bifrost-3pj8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
