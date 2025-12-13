@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to create live validation form in JavaScript](https://dev.to/jahongir2007/how-to-create-live-validation-form-in-javascript-48b6)
-- [Mr Sunday Movies: Tomorrowland - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-tomorrowland-caravan-of-garbage-31h3)
-- [Prefix Sums Keep Breaking? This Visual Guide Fixes That](https://dev.to/alex_hunter_44f4c9ed6671e/prefix-sums-keep-breaking-this-visual-guide-fixes-that-56f2)
-- [The right tool for the job](https://dev.to/luc4587/the-right-tool-for-the-job-4m32)
-- [Swift #11: Cláusula de guarda](https://dev.to/david_goyes_a488f58a17a53/swift-11-clausula-de-guarda-396p)
+- [Your Office Chair Is Ruining Your Focus &lpar;Fix It in 5 Minutes&rpar;](https://dev.to/jens_r_4ac124fba483a5d950/your-office-chair-is-ruining-your-focus-fix-it-in-5-minutes-4m5)
+- [Stop Screenshotting PDFs: A Dev&#39;s Guide to Extracting High-Res Images](https://dev.to/pdfconverlabs/stop-screenshotting-pdfs-a-devs-guide-to-extracting-high-res-images-41b3)
+- [3606. Coupon Code Validator](https://dev.to/mdarifulhaque/3606-coupon-code-validator-56b0)
+- [Pips Game – A Minimalist Logic Puzzle That Actually Makes You Think](https://dev.to/sgamer_560ef5490592e4dc9/pips-game-a-minimalist-logic-puzzle-that-actually-makes-you-think-4kio)
+- [Building A Payment Processor Backend](https://dev.to/chisimdi_ejoh_af371a63d43/building-a-payment-processor-backend-5488)
 <!-- BLOG-POST-LIST:END -->
 
 ---
