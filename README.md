@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [PayFlow —First Payment Management System Submission for the Xano AI-Powered Backend Challenge](https://dev.to/volde/payflow-first-payment-management-systemsubmission-for-the-xano-ai-powered-backend-challenge-1276)
-- [How I implemented recurring features in Trevidia](https://dev.to/uchenna_trevidia/how-i-implemented-recurring-features-in-trevidia-3lop)
-- [Write a JWT Login Test Using Cypress](https://dev.to/xb16/write-a-jwt-login-test-using-cypress-43pp)
-- [AltSchool Of Engineering Tinyuka’24 Month 10 Week 3](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-10-week-3-1ifn)
-- [From PyTorch to Shipping local AI on Android](https://dev.to/embedl-hub/from-pytorch-to-shipping-local-ai-on-android-6g9)
+- [Excited to Join the Community!](https://dev.to/godid1996/excited-to-join-the-community-1kgi)
+- [Contributing to streamplace](https://dev.to/elsad_humbetli_0971c995ce/contributing-to-streamplace-4o86)
+- [RAG for Developers — Built for Code, Not Just Text &lpar;Review Requested&rpar;](https://dev.to/demon_slayer_3e2c6835f1b2/rag-for-developers-built-for-code-not-just-text-review-requested-10d)
+- [Easy Ledger CLI: a management tool for ledger-cli ledgers](https://dev.to/mikgross/easy-ledger-cli-a-management-tool-for-ledger-cli-ledgers-fd4)
+- [I made a small, super fast code editor in C for Windows](https://dev.to/giovannicarlino04/i-made-a-small-super-fast-code-editor-in-c-for-windows-5ek5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
