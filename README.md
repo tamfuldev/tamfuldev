@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your Office Chair Is Ruining Your Focus &lpar;Fix It in 5 Minutes&rpar;](https://dev.to/jens_r_4ac124fba483a5d950/your-office-chair-is-ruining-your-focus-fix-it-in-5-minutes-4m5)
-- [Stop Screenshotting PDFs: A Dev&#39;s Guide to Extracting High-Res Images](https://dev.to/pdfconverlabs/stop-screenshotting-pdfs-a-devs-guide-to-extracting-high-res-images-41b3)
-- [3606. Coupon Code Validator](https://dev.to/mdarifulhaque/3606-coupon-code-validator-56b0)
-- [Pips Game – A Minimalist Logic Puzzle That Actually Makes You Think](https://dev.to/sgamer_560ef5490592e4dc9/pips-game-a-minimalist-logic-puzzle-that-actually-makes-you-think-4kio)
-- [Building A Payment Processor Backend](https://dev.to/chisimdi_ejoh_af371a63d43/building-a-payment-processor-backend-5488)
+- [Ai study buddy](https://dev.to/jalaj_gurjar_123014985861/ai-study-buddy-45m)
+- [Emergence vs. Engineering: The Industry Just Bet Against the God Model](https://dev.to/aronchick/emergence-vs-engineering-the-industry-just-bet-against-the-god-model-1oo9)
+- [The Hidden Engineering Behind Holiday Invites: Make Your RSVP Page Fast, Safe, and Not Creepy](https://dev.to/sonia_bobrik_1939cdddd79d/the-hidden-engineering-behind-holiday-invites-make-your-rsvp-page-fast-safe-and-not-creepy-3a2o)
+- [What Happens When Curiosity Meets AI: My Learning Reflections From the Intensive](https://dev.to/tasneem_raza_a1b843fab310/what-happens-when-curiosity-meets-ai-my-learning-reflections-from-the-intensive-1aea)
+- [I Tried to Give Memory to an AI… and Learned the Hard Way](https://dev.to/vivek_gaindhar_e79f747c46/i-tried-to-give-memory-to-an-ai-and-learned-the-hard-way-17cb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
