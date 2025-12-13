@@ -4,13 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Hello DEV community!](https://dev.to/woulgethater83/hello-dev-community-1b8b)
-- [I’ve been exploring ways organisations can actively manage entropy rather than merely react to it. This led me to outline a small set of pragmatic techniques, more as starting points.
-
-https://brihatijain.com/blog/beyond_the_bus_factor](https://dev.to/brihati_jain_8dcc09c2959c/ive-been-exploring-ways-organisations-can-actively-manage-entropy-rather-than-merely-react-to-it-5el1)
-- [☁️ How to Host Your Side Projects for $0: The Ultimate GCP Free Tier Guide](https://dev.to/jeaniscoding/how-to-host-your-side-projects-for-0-the-ultimate-gcp-free-tier-guide-3p07)
-- [JexLang: Write Once, Validate Everywhere — A Platform-Agnostic Expression Language](https://dev.to/vinaykumar0339/jexlang-write-once-validate-everywhere-a-platform-agnostic-expression-language-23m)
-- [What Is AI and How Beginners Can Use It](https://dev.to/syed_suhailbasha_344c046/what-is-ai-and-how-beginners-can-use-it-1hii)
+- [How Does Amex Process Millions of Transactions in Milliseconds](https://dev.to/evan-lausier/how-does-amex-process-millions-of-transactions-in-milliseconds-89i)
+- [KV Caching in LLMs: How It Speeds Up Text Generation](https://dev.to/rijultp/kv-caching-in-llms-how-it-speeds-up-text-generation-459j)
+- [Where to Find Elixir Jobs in 2025](https://dev.to/tspenov/where-to-find-elixir-jobs-in-2025-4hd3)
+- [Swift #13: Closures](https://dev.to/david_goyes_a488f58a17a53/swift-13-closures-4426)
+- [My hands-on experience with Qdrant and Docling &lpar;and Ollama&rpar;](https://dev.to/aairom/my-hands-on-experience-with-qdrant-and-docling-and-ollama-a09)
 <!-- BLOG-POST-LIST:END -->
 
 ---
