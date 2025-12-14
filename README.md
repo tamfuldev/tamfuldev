@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Type-Safe APIs with itty-spec: A Contract-First Approach](https://dev.to/robertpitt/building-type-safe-apis-with-itty-spec-a-contract-first-approach-4fi9)
-- [Spotify Connect, Raspberry Pi, AirPlay &amp; HomePod - because simple audio setups are boring](https://dev.to/voodu/spotify-connect-raspberry-pi-airplay-homepod-because-simple-audio-setups-are-boring-19lf)
-- [Building a Modular Starter Kit for M5StickC-Plus2: From Messy Code to Clean Architecture](https://dev.to/christopherdebray/building-a-modular-starter-kit-for-m5stickc-plus2-from-messy-code-to-clean-architecture-1mb0)
-- [Deploy TanStack Start with SQLite to Your Own Server](https://dev.to/ameistad/deploy-tanstack-start-with-sqlite-to-your-own-server-31o1)
-- [I Built an ML Platform to Monitor Africa&#39;s $700B Debt Crisis - Here&#39;s What I Learned](https://dev.to/cyusa_loic_9264210b981eaf/i-built-an-ml-platform-to-monitor-africas-700b-debt-crisis-heres-what-i-learned-154a)
+- [Neuroevolution of Augmenting Topologies in JavaScript](https://dev.to/joshuadam/neuroevolution-of-augmenting-topologies-in-javascript-2i08)
+- [Coding Challenge Practice - Question 78](https://dev.to/tomivan/coding-challenge-practice-question-78-43k0)
+- [Cassandra-Like Distributed Database](https://dev.to/dili_/cassandra-like-distributed-database-4b57)
+- [Redis Nuxt Blog: The Admin Panel Awakens ⚔️](https://dev.to/melasistema/redis-nuxt-blog-the-admin-panel-awakens-4mdk)
+- [Getting Started With Linux](https://dev.to/dvorlandi/getting-started-with-linux-4n7f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
