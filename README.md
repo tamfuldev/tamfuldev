@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Bolt.new to Production: How I built a React Native app using Copilot and MCP.](https://dev.to/petrashka/from-boltnew-to-production-how-i-built-a-react-native-app-using-copilot-and-mcp-ebg)
-- [Expose Local n8n with a Custom HTTPS Domain Using Cloudflare Tunnel](https://dev.to/muhammad_mohsin_68eb06405/expose-local-n8n-with-a-custom-https-domain-using-cloudflare-tunnel-2kc6)
-- [How We Cut SaaS Churn by 35% with a Simple, Event-Driven Engine](https://dev.to/michaelaiglobal/how-we-cut-saas-churn-by-35-with-a-simple-event-driven-engine-65c)
-- [Photovoltaic Geometry: Engineering Analysis of the Anker SOLIX PS200](https://dev.to/odvex_admin/photovoltaic-geometry-engineering-analysis-of-the-anker-solix-ps200-404)
-- [The Evolution of AI Surveillance](https://dev.to/rawveg/the-evolution-of-ai-surveillance-54ja)
+- [How Microsoft Agent Framework Can Boost Employee Training in 2026 and Beyond](https://dev.to/nayeem79/how-microsoft-agent-framework-can-boost-employee-training-in-2026-and-beyond-751)
+- [Stripe Payments in Nuxt 4 with Server Routes and Webhooks](https://dev.to/djamware_tutorial_eba1a61/stripe-payments-in-nuxt-4-with-server-routes-and-webhooks-51jo)
+- [Butterfly CSS Animation with some randomness](https://dev.to/preetha_vaishnavi_2b82358/butterfly-css-animation-with-some-randomness-1oh4)
+- [Butterfly](https://dev.to/preetha_vaishnavi_2b82358/butterfly-4g6l)
+- [The BIONZ XR Leap: A Technical Analysis of the Sony Alpha 7 IV Architecture](https://dev.to/odvex_admin/the-bionz-xr-leap-a-technical-analysis-of-the-sony-alpha-7-iv-architecture-ofh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
