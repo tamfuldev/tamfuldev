@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [JVM: A Máquina Virtual Java - Fundamentos e Funcionamento](https://dev.to/ikauedev/jvm-a-maquina-virtual-java-fundamentos-e-funcionamento-2mjj)
-- [Kubernetes Cost Monitoring: Turning Resource Usage into Financial Insight](https://dev.to/kapusto/kubernetes-cost-monitoring-turning-resource-usage-into-financial-insight-8hj)
-- [Components of Soft Skills: The 6Ts](https://dev.to/stakiran/components-of-soft-skills-the-6ts-173d)
-- [SleepSync - FullStack App made with Xano and Bubble](https://dev.to/julsr_mx/sleepsync-fullstack-app-made-with-xano-and-bubble-cjh)
-- [Title: I built a 13-app &quot;Zoo&quot; using Gemini Pro 3. The constraint: I wasn&#39;t allowed to inspect the code.](https://dev.to/natnnatn/title-i-built-a-13-app-zoo-using-gemini-pro-3-the-constraint-i-wasnt-allowed-to-inspect-the-442a)
+- [Building Type-Safe APIs with itty-spec: A Contract-First Approach](https://dev.to/robertpitt/building-type-safe-apis-with-itty-spec-a-contract-first-approach-4fi9)
+- [Spotify Connect, Raspberry Pi, AirPlay &amp; HomePod - because simple audio setups are boring](https://dev.to/voodu/spotify-connect-raspberry-pi-airplay-homepod-because-simple-audio-setups-are-boring-19lf)
+- [Building a Modular Starter Kit for M5StickC-Plus2: From Messy Code to Clean Architecture](https://dev.to/christopherdebray/building-a-modular-starter-kit-for-m5stickc-plus2-from-messy-code-to-clean-architecture-1mb0)
+- [Deploy TanStack Start with SQLite to Your Own Server](https://dev.to/ameistad/deploy-tanstack-start-with-sqlite-to-your-own-server-31o1)
+- [I Built an ML Platform to Monitor Africa&#39;s $700B Debt Crisis - Here&#39;s What I Learned](https://dev.to/cyusa_loic_9264210b981eaf/i-built-an-ml-platform-to-monitor-africas-700b-debt-crisis-heres-what-i-learned-154a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
