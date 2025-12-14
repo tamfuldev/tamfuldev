@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Prefer Simple Code Over &quot;Smart&quot; Code](https://dev.to/sareena_rahim/why-i-prefer-simple-code-over-smart-code-4je4)
-- [AI‑Assisted Writing as Search &lpar;Not Draft Generation&rpar;](https://dev.to/arthurbiensur/ai-assisted-writing-as-search-not-draft-generation-4io8)
-- [Why CAPTCHAs today are so bad &lpar;and what we should be building instead&rpar;](https://dev.to/tentari/why-captchas-today-are-so-bad-and-what-we-should-be-building-instead-3dm2)
-- [Android Security for Devs: Nocturne VPN Technical Guide](https://dev.to/mitul_chovatiya_e568824a5/android-security-for-devs-nocturne-vpn-technical-guide-4h7)
-- [A Better Way to Run MeshCommander in Your Homelab &lpar;Intel vPro + Docker&rpar;](https://dev.to/spaceterran/a-better-way-to-run-meshcommander-in-your-homelab-intel-vpro-docker-5h44)
+- [How to integrate Stripe Payments into a chrome extension &lpar;step by step&rpar;](https://dev.to/notearthian/how-to-integrate-stripe-payments-into-a-chrome-extension-step-by-step-2gf3)
+- [Breaking Down the Cloud: A Simple Guide for Beginners](https://dev.to/priya01/cloud-basics-explained-simply-50fh)
+- [Combining Python and Surveying Engineering](https://dev.to/arrebol/combining-python-and-surveying-engineering-lji)
+- [TimeSpin: How a Haptic Time-Tracking Cube Could Transform Schools and Businesses](https://dev.to/thomasdelfing_de/timespin-how-a-haptic-time-tracking-cube-could-transform-schools-and-businesses-4egb)
+- [Form content disappears after page refresh](https://dev.to/shangyunyao/form-content-disappears-after-page-refresh-4hk3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
