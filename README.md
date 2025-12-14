@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 14 — Network Boundary Monitoring &lpar;Watched from the Woods&rpar;](https://dev.to/aerabi/day-14-network-boundary-monitoring-watched-from-the-woods-35d6)
-- [HTML Tags That&#39;ll Make Your Life Easier &lpar;No, Really&rpar;](https://dev.to/varshithvhegde/html-tags-thatll-make-your-life-easier-no-really-570i)
-- [&quot;Teaching AI to Teach: My 5-Day Journey Building an AI Literacy Agent&quot;](https://dev.to/l_t_629313b57b6eddc0fbc57/teaching-ai-to-teach-my-5-day-journey-building-an-ai-literacy-agent-2ge1)
-- [The Undeniable Benefits of Python: Why It’s the Go-To Language for Developers](https://dev.to/__446a6ebfeabd5fb903ae/the-undeniable-benefits-of-python-why-its-the-go-to-language-for-developers-373h)
-- [My Love for Python: A Language That Feels Like Home](https://dev.to/__446a6ebfeabd5fb903ae/my-love-for-python-a-language-that-feels-like-home-1ime)
+- [From Bolt.new to Production: How I built a React Native app using Copilot and MCP.](https://dev.to/petrashka/from-boltnew-to-production-how-i-built-a-react-native-app-using-copilot-and-mcp-ebg)
+- [Expose Local n8n with a Custom HTTPS Domain Using Cloudflare Tunnel](https://dev.to/muhammad_mohsin_68eb06405/expose-local-n8n-with-a-custom-https-domain-using-cloudflare-tunnel-2kc6)
+- [How We Cut SaaS Churn by 35% with a Simple, Event-Driven Engine](https://dev.to/michaelaiglobal/how-we-cut-saas-churn-by-35-with-a-simple-event-driven-engine-65c)
+- [Photovoltaic Geometry: Engineering Analysis of the Anker SOLIX PS200](https://dev.to/odvex_admin/photovoltaic-geometry-engineering-analysis-of-the-anker-solix-ps200-404)
+- [The Evolution of AI Surveillance](https://dev.to/rawveg/the-evolution-of-ai-surveillance-54ja)
 <!-- BLOG-POST-LIST:END -->
 
 ---
