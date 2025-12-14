@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🖥️ SSH Manager - VS Code Extension](https://dev.to/exalandapp/ssh-manager-vs-code-extension-48p6)
-- [Eleva tu app Android: patrones de arquitectura con Jetpack Compose](https://dev.to/marlonlom/eleva-tu-app-android-patrones-de-arquitectura-con-jetpack-compose-5gh)
-- [DEVLOG – How to Move Straight in a Line?](https://dev.to/somespi/devlog-how-to-move-straight-in-a-line-3dc0)
-- [The Architecture of Agent Memory: How LangGraph Really Works](https://dev.to/sreeni5018/the-architecture-of-agent-memory-how-langgraph-really-works-59ne)
-- [Building the Ultimate Reddit Scraper: A Full-Featured, API-Free Data Collection Suite](https://dev.to/ksanjeev284/building-the-ultimate-reddit-scraper-a-full-featured-api-free-data-collection-suite-4al3)
+- [Top 5 Trình Duyệt Đa Hồ Sơ Tốt Nhất Cho Affiliate Marketing Việt Nam](https://dev.to/vietnam/top-5-trinh-duyet-da-ho-so-tot-nhat-cho-affiliate-marketing-viet-nam-1i6e)
+- [Getting started with GoLand — how do you use it for Go?](https://dev.to/kshitij_jain_bbc56d59a866/getting-started-with-goland-how-do-you-use-it-for-go-6hn)
+- [Multi-Step Reasoning and Agentic Workflows: Building AI That Plans and Executes](https://dev.to/qvfagundes/multi-step-reasoning-and-agentic-workflows-building-ai-that-plans-and-executes-6pb)
+- [In today&#39;s environment, relevance is no longer about keeping up. It’s about positioning yourself so change works for you, not against you.](https://dev.to/jaideepparashar/in-todays-environment-relevance-is-no-longer-about-keeping-up-its-about-positioning-yourself-so-1c8p)
+- [How I Stay Relevant in a World Moving Faster Than Ever](https://dev.to/jaideepparashar/how-i-stay-relevant-in-a-world-moving-faster-than-ever-1f97)
 <!-- BLOG-POST-LIST:END -->
 
 ---
