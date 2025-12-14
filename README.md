@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to integrate Stripe Payments into a chrome extension &lpar;step by step&rpar;](https://dev.to/notearthian/how-to-integrate-stripe-payments-into-a-chrome-extension-step-by-step-2gf3)
-- [Breaking Down the Cloud: A Simple Guide for Beginners](https://dev.to/priya01/cloud-basics-explained-simply-50fh)
-- [Combining Python and Surveying Engineering](https://dev.to/arrebol/combining-python-and-surveying-engineering-lji)
-- [TimeSpin: How a Haptic Time-Tracking Cube Could Transform Schools and Businesses](https://dev.to/thomasdelfing_de/timespin-how-a-haptic-time-tracking-cube-could-transform-schools-and-businesses-4egb)
-- [Form content disappears after page refresh](https://dev.to/shangyunyao/form-content-disappears-after-page-refresh-4hk3)
+- [[AWS] 4. EC2 Instance Storage Section, EBS &lpar;Elastic Block Store&rpar;, AMI &lpar;Amazon Machine Image&rpar;, EFS &lpar;Elastic File System&rpar;](https://dev.to/sangwoo_rhie/aws-4-ec2-instance-storage-section-ebs-elastic-block-store-ami-amazon-machine-image-efs-1mn5)
+- [Weekly #50-2025: Anthropic&#39;s Bun Bet, the PM Drought &amp; Seattle&#39;s AI Backlash](https://dev.to/massud1994/weekly-50-2025-anthropics-bun-bet-the-pm-drought-seattles-ai-backlash-1okk)
+- [WTF is Geo-Replication?](https://dev.to/dailybugle33/wtf-is-geo-replication-1n98)
+- [STOPSIGNAL is now available on Amazon ECS Fargate](https://dev.to/nid/stopsignal-is-now-available-on-amazon-ecs-fargate-45fa)
+- [Introducing shadcn-glass-ui: A Glassmorphism Component Library for React 🎨](https://dev.to/yhooi2/introducing-shadcn-glass-ui-a-glassmorphism-component-library-for-react-4cpl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
