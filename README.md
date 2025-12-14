@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Cómo escribir smart contracts en Midnight](https://dev.to/cardumen_c23712b080b2a053/como-escribir-smart-contracts-en-midnight-h1j)
-- [Managing Multiple Shopify Stores in 2025: Technical Solutions for Account Isolation and Security](https://dev.to/digitalgrowthpro/managing-multiple-shopify-stores-in-2025-technical-solutions-for-account-isolation-and-security-dd2)
-- [Coding Challenge Practice - Question 77](https://dev.to/tomivan/coding-challenge-practice-question-77-4a6m)
-- [Why I Can&#39;t Use Java Records as JPA Entities](https://dev.to/linda_lindo_ba3fe9cd7db16/why-i-cant-use-java-records-as-jpa-entities-e9f)
-- [&quot;How I built a &#39;Forever&#39; File Uploader with Vanilla JS and No Backend&quot;](https://dev.to/szilrd_plnagy_643c42ee2/how-i-built-a-forever-file-uploader-with-vanilla-js-and-no-backend-3g61)
+- [🖥️ SSH Manager - VS Code Extension](https://dev.to/exalandapp/ssh-manager-vs-code-extension-48p6)
+- [Eleva tu app Android: patrones de arquitectura con Jetpack Compose](https://dev.to/marlonlom/eleva-tu-app-android-patrones-de-arquitectura-con-jetpack-compose-5gh)
+- [DEVLOG – How to Move Straight in a Line?](https://dev.to/somespi/devlog-how-to-move-straight-in-a-line-3dc0)
+- [The Architecture of Agent Memory: How LangGraph Really Works](https://dev.to/sreeni5018/the-architecture-of-agent-memory-how-langgraph-really-works-59ne)
+- [Building the Ultimate Reddit Scraper: A Full-Featured, API-Free Data Collection Suite](https://dev.to/ksanjeev284/building-the-ultimate-reddit-scraper-a-full-featured-api-free-data-collection-suite-4al3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
