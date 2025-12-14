@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Authentication with node:http and better-auth](https://dev.to/danimydev/authentication-with-nodehttp-and-better-auth-2l2g)
-- [45. Jump Game II | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/45-jump-game-ii-leetcode-top-interview-150-coding-questions-2pa5)
-- [What Developers Can Learn From Exchange Security Models](https://dev.to/dan_keller/what-developers-can-learn-from-exchange-security-models-1ale)
-- [What the AWS us-east-1 Outage Taught Me About Building Resilient Systems](https://dev.to/ajithmanmu/what-the-aws-us-east-1-outage-taught-me-about-building-resilient-systems-4k59)
-- [I built a SaaS for $0 in one weekend &lpar;LAMP Stack + Free Hosting&rpar;. Here is what happened.](https://dev.to/nizarhelius/i-built-a-saas-for-0-in-one-weekend-lamp-stack-free-hosting-here-is-what-happened-4kdf)
+- [JVM: A Máquina Virtual Java - Fundamentos e Funcionamento](https://dev.to/ikauedev/jvm-a-maquina-virtual-java-fundamentos-e-funcionamento-2mjj)
+- [Kubernetes Cost Monitoring: Turning Resource Usage into Financial Insight](https://dev.to/kapusto/kubernetes-cost-monitoring-turning-resource-usage-into-financial-insight-8hj)
+- [Components of Soft Skills: The 6Ts](https://dev.to/stakiran/components-of-soft-skills-the-6ts-173d)
+- [SleepSync - FullStack App made with Xano and Bubble](https://dev.to/julsr_mx/sleepsync-fullstack-app-made-with-xano-and-bubble-cjh)
+- [Title: I built a 13-app &quot;Zoo&quot; using Gemini Pro 3. The constraint: I wasn&#39;t allowed to inspect the code.](https://dev.to/natnnatn/title-i-built-a-13-app-zoo-using-gemini-pro-3-the-constraint-i-wasnt-allowed-to-inspect-the-442a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
