@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Zero Knowledge Proofs are like a Lunar Landscape.](https://dev.to/extropy/why-zero-knowledge-proofs-are-like-a-lunar-landscape-o7b)
-- [Tokenized Treasury Bills and Tokenized Bonds: Reinventing Fixed-Income Instruments](https://dev.to/suzie_iris_65ce8070067366/tokenized-treasury-bills-and-tokenized-bonds-reinventing-fixed-income-instruments-df9)
-- [How to Vue.js: Create Your First Project &lpar;using Vite&rpar;](https://dev.to/iamrule/how-to-vuejs-create-your-first-project-using-vite-5fie)
-- [microfetch: A Lightning-Fast Alternative to fastfetch](https://dev.to/stelixx-insider/microfetch-a-lightning-fast-alternative-to-fastfetch-16nf)
-- [I Finally Added Dark Mode, and It Forced Me to Fix More Than Colors](https://dev.to/howard_shaw_3c36a3a6cb900/i-finally-added-dark-mode-and-it-forced-me-to-fix-more-than-colors-2n84)
+- [Why El Salvador&#39;s Bitcoin Experiment Looks Brilliant Through a Forex Trader&#39;s Lens](https://dev.to/dhis_is_jj/why-el-salvadors-bitcoin-experiment-looks-brilliant-through-a-forex-traders-lens-373e)
+- [Want to be a tech lead, but don’t know how to get started?](https://dev.to/gabor-till/want-to-be-a-tech-lead-but-dont-know-how-to-get-started-5fbf)
+- [Centralized vs Decentralized Exchange Listings: What Every Web3 Developer Should Know](https://dev.to/tanelith/centralized-vs-decentralized-exchange-listings-what-every-web3-developer-should-know-3djn)
+- [Optimizing Performance in Ionic Apps &lpar;Lazy Loading, AOT &amp; Bundle Size Tips&rpar;](https://dev.to/djamware_tutorial_eba1a61/optimizing-performance-in-ionic-apps-lazy-loading-aot-bundle-size-tips-1mca)
+- [The Vibe Coding Delusion](https://dev.to/ejb503/the-vibe-coding-delusion-3897)
 <!-- BLOG-POST-LIST:END -->
 
 ---
