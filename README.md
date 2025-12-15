@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [5 Browser DevTools Tricks That Cut My Debug Time in Half](https://dev.to/daisy_jones_21bdcc6b40f9d/5-browser-devtools-tricks-that-cut-my-debug-time-in-half-212c)
-- [DEV Track Spotlight: Build real-time full-stack Generative AI applications &lpar;DEV310&rpar;](https://dev.to/aws/dev-track-spotlight-build-real-time-full-stack-generative-ai-applications-dev310-fcd)
-- [Mastering Heaps: A Deep Dive into Data Structures and Algorithms](https://dev.to/vjnvisakh/mastering-heaps-a-deep-dive-into-data-structures-and-algorithms-4f8c)
-- [What Is Production Automation Software? A Complete Guide for Manufacturers](https://dev.to/itsybizz/what-is-production-automation-software-a-complete-guide-for-manufacturers-1j6c)
-- [AI Agents Deleting Home Folders? Run Your Agent in Firejail and Stay Safe](https://dev.to/robbiecahill/ai-agents-deleting-home-folders-run-your-agent-in-firejail-and-stay-safe-409d)
+- [Your 2025 Marketing Budget Probably Failed. Here&#39;s How to Fix Q1 2026](https://dev.to/synergistdigitalmedia/your-2025-marketing-budget-probably-failed-heres-how-to-fix-q1-2026-3he1)
+- [Building a dbt-UI I Wish Existed](https://dev.to/remis_haroon_230334c87790/building-a-dbt-ui-i-wish-existed-3mn9)
+- [[Boost]](https://dev.to/niroshan_dh/-28gf)
+- [Domina el uso de paquetes NuGet en .NET](https://dev.to/maadcode/domina-el-uso-de-paquetes-nuget-en-net-g4k)
+- [5 Essential Methods: How to Master Footnotes in Excel for Professional Reports.](https://dev.to/dhanusree_v_91cb434a13fdf/5-essential-methods-how-to-master-footnotes-in-excel-for-professional-reports-538m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
