@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why El Salvador&#39;s Bitcoin Experiment Looks Brilliant Through a Forex Trader&#39;s Lens](https://dev.to/dhis_is_jj/why-el-salvadors-bitcoin-experiment-looks-brilliant-through-a-forex-traders-lens-373e)
-- [Want to be a tech lead, but don’t know how to get started?](https://dev.to/gabor-till/want-to-be-a-tech-lead-but-dont-know-how-to-get-started-5fbf)
-- [Centralized vs Decentralized Exchange Listings: What Every Web3 Developer Should Know](https://dev.to/tanelith/centralized-vs-decentralized-exchange-listings-what-every-web3-developer-should-know-3djn)
-- [Optimizing Performance in Ionic Apps &lpar;Lazy Loading, AOT &amp; Bundle Size Tips&rpar;](https://dev.to/djamware_tutorial_eba1a61/optimizing-performance-in-ionic-apps-lazy-loading-aot-bundle-size-tips-1mca)
-- [The Vibe Coding Delusion](https://dev.to/ejb503/the-vibe-coding-delusion-3897)
+- [La sécurité simplement : une approche haut-niveau](https://dev.to/onepoint/la-securite-simplement-une-approche-haut-niveau-2flo)
+- [An AI Almost Deleted My Code](https://dev.to/alan_tsai_00dbd905e668f74/an-ai-almost-deleted-my-code-3cc)
+- [A lot of terminal setups look productive… until you restart your machine](https://dev.to/ssh_exe/a-lot-of-terminal-setups-look-productive-until-you-restart-your-machine-onh)
+- [Turning Visual Quran Memorization into a Lifelong Journey](https://dev.to/dr_rajabi/turning-visual-quran-memorization-into-a-lifelong-journey-3m3k)
+- [Palindrome Checker](https://dev.to/highcenburg/palindrome-checker-koe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
