@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 9: Met someone ambitious](https://dev.to/casperday11/day-9-met-someone-ambitious-1ah7)
-- [Day 9: When Streaks Break and Ambition Returns](https://dev.to/blink_c5eb0afe3975/day-9-when-streaks-break-and-ambition-returns-45cg)
-- [How Sparse-K Cuts Millions of Attention Computations in llama.cpp](https://dev.to/gitty_burstein_6199cf28cd/how-sparse-k-cuts-millions-of-attention-computations-in-llamacpp-33ie)
-- [Styling and Attributes with the new Snap.svg &lpar;Basics - part 2&rpar;](https://dev.to/o_vakarelov/styling-and-attributes-with-the-new-snapsvg-basics-part-2-2gda)
-- [HarisLab.tech: Solve Digital Challenges Before They Slow You Down](https://dev.to/muhammad_haris_7828c7aeda/harislabtech-solve-digital-challenges-before-they-slow-you-down-l3o)
+- [Single State Model Architecture](https://dev.to/adamcerny/single-state-model-architecture-1269)
+- [Why Do Simple Tasks Eat Up Hours of Your Day — And How One Hub Fixes It?](https://dev.to/muhammad_haris_7828c7aeda/why-do-simple-tasks-eat-up-hours-of-your-day-and-how-one-hub-fixes-it-1p8i)
+- [SAT approximately equals IQ: How to estimate your IQ from your SAT score](https://dev.to/isaacaddis/sat-iq-how-to-estimate-your-iq-from-your-sat-score-515f)
+- [How to Visualise and Control a ROS 2 Robot Remotely](https://dev.to/kaitungyu/how-to-visualise-and-control-a-ros-2-robot-remotely-8ek)
+- [How JOIN FETCH Reduced Database Load by 94%: A Real-World Case Study](https://dev.to/taras_antoniuk_ea6a2fe7ee/how-join-fetch-reduced-database-load-by-94-a-real-world-case-study-40c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
