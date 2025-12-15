@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Testing Legacy Laravel Code Without Refactoring First](https://dev.to/codecraft_diary_3d13677fb/testing-legacy-laravel-code-without-refactoring-first-1gmm)
-- [Building PolyScan: Free CC0 PBR Textures &amp; 3D Models for Real Projects](https://dev.to/polyscan/building-polyscan-free-cc0-pbr-textures-3d-models-for-real-projects-3jhm)
-- [Async by Default](https://dev.to/rnikolaev/async-by-default-3f9)
-- [Zero-to-Scale ML: Deploying ONNX Models on Kubernetes with FastAPI and HPA](https://dev.to/austin_deyan_6c9b2445aed6/zero-to-scale-ml-deploying-onnx-models-on-kubernetes-with-fastapi-and-hpa-l78)
-- [How to write a talk proposal that actually gets accepted](https://dev.to/soumayaerradi/how-to-write-a-talk-proposal-that-actually-gets-accepted-4nje)
+- [Day 9: Met someone ambitious](https://dev.to/casperday11/day-9-met-someone-ambitious-1ah7)
+- [Day 9: When Streaks Break and Ambition Returns](https://dev.to/blink_c5eb0afe3975/day-9-when-streaks-break-and-ambition-returns-45cg)
+- [How Sparse-K Cuts Millions of Attention Computations in llama.cpp](https://dev.to/gitty_burstein_6199cf28cd/how-sparse-k-cuts-millions-of-attention-computations-in-llamacpp-33ie)
+- [Styling and Attributes with the new Snap.svg &lpar;Basics - part 2&rpar;](https://dev.to/o_vakarelov/styling-and-attributes-with-the-new-snapsvg-basics-part-2-2gda)
+- [HarisLab.tech: Solve Digital Challenges Before They Slow You Down](https://dev.to/muhammad_haris_7828c7aeda/harislabtech-solve-digital-challenges-before-they-slow-you-down-l3o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
