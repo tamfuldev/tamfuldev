@@ -4,13 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Road to AI Agents: A Google &amp; Kaggle Intensive Course Writing Challenge](https://dev.to/ghazala_arfeen_0d4aff15ee/my-road-to-ai-agents-a-google-kaggle-intensive-course-writing-challenge-207n)
-- [Prompts and coding are the doorway into AI. But they are not the destination.
-
-If you stay at the prompt level, you remain an experimenter. If you move to products, you become a builder.](https://dev.to/jaideepparashar/prompts-and-coding-are-the-doorway-into-ai-but-they-are-not-the-destination-if-you-stay-at-the-273)
-- [The Mindset Shift That Took Me From Prompts to Products](https://dev.to/jaideepparashar/the-mindset-shift-that-took-me-from-prompts-to-products-13gj)
-- [Building Software is easy. Shipping a product isn&#39;t.](https://dev.to/viniciusmichelutti/building-software-is-easy-shipping-a-product-isnt-1igc)
-- [From Automation to Anticipation](https://dev.to/nomad_manhattan/from-automation-to-anticipation-49bm)
+- [celery-plus 🥬 — Modern Celery for Node.js](https://dev.to/member_ae0cde60/celery-plus-modern-celery-for-nodejs-6c7)
+- [The Secret Life of JavaScript: Currying vs. Partial Application](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-currying-vs-partial-application-f8c)
+- [Infinite Scroll with Zustand and React 19: Async Pitfalls](https://dev.to/pipipi-dev/infinite-scroll-with-zustand-and-react-19-async-pitfalls-57c)
+- [Revolutionize AI Monetization: A Deep Dive into Monetzly&#39;s Platform](https://dev.to/monetzly/revolutionize-ai-monetization-a-deep-dive-into-monetzlys-platform-1437)
+- [How to Quickly Build a Real System to Replace Excel: A Complete Guide](https://dev.to/nocobase/how-to-quickly-build-a-real-system-to-replace-excel-a-complete-guide-g30)
 <!-- BLOG-POST-LIST:END -->
 
 ---
