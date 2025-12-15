@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [La sécurité simplement : une approche haut-niveau](https://dev.to/onepoint/la-securite-simplement-une-approche-haut-niveau-2flo)
-- [An AI Almost Deleted My Code](https://dev.to/alan_tsai_00dbd905e668f74/an-ai-almost-deleted-my-code-3cc)
-- [A lot of terminal setups look productive… until you restart your machine](https://dev.to/ssh_exe/a-lot-of-terminal-setups-look-productive-until-you-restart-your-machine-onh)
-- [Turning Visual Quran Memorization into a Lifelong Journey](https://dev.to/dr_rajabi/turning-visual-quran-memorization-into-a-lifelong-journey-3m3k)
-- [Palindrome Checker](https://dev.to/highcenburg/palindrome-checker-koe)
+- [Back to Basics 2025 Wrapped](https://dev.to/theoriginalbpc/back-to-basics-2025-wrapped-1g5n)
+- [SvelteKit vs Next.js in 2026: Why the Underdog is Winning &lpar;A Developer’s Deep Dive&rpar;](https://dev.to/paulthedev/sveltekit-vs-nextjs-in-2026-why-the-underdog-is-winning-a-developers-deep-dive-155b)
+- [What are your Goals for the week? #157](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-157-ppn)
+- [Anansi’s Web as Neural Architecture: From Folklore to Framework](https://dev.to/narnaiezzsshaa/anansis-web-as-neural-architecture-from-folklore-to-framework-2lko)
+- [BiasAwareFeedback: Detecting Textual Bias with NLP &lpar;Mini-Research Project&rpar;](https://dev.to/ranak_ghosh_59b3080779a92/biasawarefeedback-detecting-textual-bias-with-nlp-mini-research-project-1og)
 <!-- BLOG-POST-LIST:END -->
 
 ---
