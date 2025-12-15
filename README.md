@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Applications That Survive the Real World](https://dev.to/ojsholly/how-to-build-applications-that-survive-the-real-world-omg)
-- [Enable Zephyr RTOS on STM32](https://dev.to/k_y_98d85b6e1a0c5ccd80b34/enable-zephyr-rtos-on-stm32-26ba)
-- [How a Logistics Company Used SafeLine WAF to Stop Bots from Abusing Tracking APIs](https://dev.to/arina_cholee/how-a-logistics-company-used-safeline-waf-to-stop-bots-from-abusing-tracking-apis-5eg0)
-- [What is a LoRa Gateway and Its Applications](https://dev.to/wideiot/what-is-a-lora-gateway-and-its-applications-2082)
-- [What Failure Taught Me About Building Digital Capabilities and Services](https://dev.to/balagmadhu/what-failure-taught-me-about-building-digital-capabilities-and-services-23ah)
+- [5 Browser DevTools Tricks That Cut My Debug Time in Half](https://dev.to/daisy_jones_21bdcc6b40f9d/5-browser-devtools-tricks-that-cut-my-debug-time-in-half-212c)
+- [DEV Track Spotlight: Build real-time full-stack Generative AI applications &lpar;DEV310&rpar;](https://dev.to/aws/dev-track-spotlight-build-real-time-full-stack-generative-ai-applications-dev310-fcd)
+- [Mastering Heaps: A Deep Dive into Data Structures and Algorithms](https://dev.to/vjnvisakh/mastering-heaps-a-deep-dive-into-data-structures-and-algorithms-4f8c)
+- [What Is Production Automation Software? A Complete Guide for Manufacturers](https://dev.to/itsybizz/what-is-production-automation-software-a-complete-guide-for-manufacturers-1j6c)
+- [AI Agents Deleting Home Folders? Run Your Agent in Firejail and Stay Safe](https://dev.to/robbiecahill/ai-agents-deleting-home-folders-run-your-agent-in-firejail-and-stay-safe-409d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
