@@ -4,11 +4,13 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Sentiment-to-Signal: Stock Market Intelligent Agent](https://dev.to/narabi/sentiment-to-signal-stock-market-intelligent-agent-oh3)
-- [Rapid Deployment of AI Voice Agents Using No-Code Builders](https://dev.to/callstacktech/rapid-deployment-of-ai-voice-agents-using-no-code-builders-4npi)
-- [Push-based vs. Pull-based Reactivity: The Two Driving Models Behind Fine-Grained Systems](https://dev.to/luciano0322/push-based-vs-pull-based-reactivity-the-two-driving-models-behind-fine-grained-systems-56jc)
-- [IOSM: an Algorithmic Engineering Methodology you can automate](https://dev.to/rokoss21/iosm-an-algorithmic-engineering-methodology-you-can-automate-2emi)
-- [Weaviate for RAG: When It Shines &lpar;and When It Doesn’t&rpar;](https://dev.to/eber_cruz_2f4a4aba25399b2/weaviate-for-rag-when-it-shines-and-when-it-doesnt-4ge4)
+- [My Road to AI Agents: A Google &amp; Kaggle Intensive Course Writing Challenge](https://dev.to/ghazala_arfeen_0d4aff15ee/my-road-to-ai-agents-a-google-kaggle-intensive-course-writing-challenge-207n)
+- [Prompts and coding are the doorway into AI. But they are not the destination.
+
+If you stay at the prompt level, you remain an experimenter. If you move to products, you become a builder.](https://dev.to/jaideepparashar/prompts-and-coding-are-the-doorway-into-ai-but-they-are-not-the-destination-if-you-stay-at-the-273)
+- [The Mindset Shift That Took Me From Prompts to Products](https://dev.to/jaideepparashar/the-mindset-shift-that-took-me-from-prompts-to-products-13gj)
+- [Building Software is easy. Shipping a product isn&#39;t.](https://dev.to/viniciusmichelutti/building-software-is-easy-shipping-a-product-isnt-1igc)
+- [From Automation to Anticipation](https://dev.to/nomad_manhattan/from-automation-to-anticipation-49bm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
