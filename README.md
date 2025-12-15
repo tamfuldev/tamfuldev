@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Neuroevolution of Augmenting Topologies in JavaScript](https://dev.to/joshuadam/neuroevolution-of-augmenting-topologies-in-javascript-2i08)
-- [Coding Challenge Practice - Question 78](https://dev.to/tomivan/coding-challenge-practice-question-78-43k0)
-- [Cassandra-Like Distributed Database](https://dev.to/dili_/cassandra-like-distributed-database-4b57)
-- [Redis Nuxt Blog: The Admin Panel Awakens ⚔️](https://dev.to/melasistema/redis-nuxt-blog-the-admin-panel-awakens-4mdk)
-- [Getting Started With Linux](https://dev.to/dvorlandi/getting-started-with-linux-4n7f)
+- [Sentiment-to-Signal: Stock Market Intelligent Agent](https://dev.to/narabi/sentiment-to-signal-stock-market-intelligent-agent-oh3)
+- [Rapid Deployment of AI Voice Agents Using No-Code Builders](https://dev.to/callstacktech/rapid-deployment-of-ai-voice-agents-using-no-code-builders-4npi)
+- [Push-based vs. Pull-based Reactivity: The Two Driving Models Behind Fine-Grained Systems](https://dev.to/luciano0322/push-based-vs-pull-based-reactivity-the-two-driving-models-behind-fine-grained-systems-56jc)
+- [IOSM: an Algorithmic Engineering Methodology you can automate](https://dev.to/rokoss21/iosm-an-algorithmic-engineering-methodology-you-can-automate-2emi)
+- [Weaviate for RAG: When It Shines &lpar;and When It Doesn’t&rpar;](https://dev.to/eber_cruz_2f4a4aba25399b2/weaviate-for-rag-when-it-shines-and-when-it-doesnt-4ge4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
