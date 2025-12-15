@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Part 01: Building a Sovereign Software Factory: Docker Networking &amp; Persistence](https://dev.to/warren_jitsing_dd1c1d6fc6/part-01-building-a-sovereign-software-factory-docker-networking-persistence-31pm)
-- [When a PCB Trace Becomes a Transmission Line &lpar;And Why It Broke My Design&rpar;](https://dev.to/entela_lleka_c0a20f6760/when-a-pcb-trace-becomes-a-transmission-line-and-why-it-broke-my-design-5c4o)
-- [Stay ahead in web development: latest news, tools, and insights #115](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-115-4h31)
-- [React Container &amp; Presenter Pattern in React &lpar;Beginner Guide with Real Example&rpar;](https://dev.to/rayan2228/react-container-presenter-pattern-in-react-beginner-guide-with-real-example-3gi2)
-- [Unveiling Generative AI: The Future of Creativity](https://dev.to/hkj13/unveiling-generative-ai-the-future-of-creativity-35o3)
+- [The Future of the Power Platform](https://dev.to/wyattdave/the-future-of-the-power-platform-4ocj)
+- [CSS Responsive Tables: Complete Guide with Code Examples for 2025](https://dev.to/satyam_gupta_0d1ff2152dcc/css-responsive-tables-complete-guide-with-code-examples-for-2025-225p)
+- [What a Simple LED Lighting Project Taught Me About Engineering Trade-offs](https://dev.to/emma-suntech/what-a-simple-led-lighting-project-taught-me-about-engineering-trade-offs-9dm)
+- [Build a Personal AI Assistant with n8n on Bult.ai](https://dev.to/bult/build-a-personal-ai-assistant-with-n8n-on-bultai-2ho)
+- [How to improve banking efficiency with custom software?](https://dev.to/it-influencer/how-to-improve-banking-efficiency-with-custom-software-lca)
 <!-- BLOG-POST-LIST:END -->
 
 ---
