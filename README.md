@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Synthetic Data in Marketing Analytics: How to Track Conversions Without Creeping Everyone Out](https://dev.to/synergistdigitalmedia/synthetic-data-in-marketing-analytics-how-to-track-conversions-without-creeping-everyone-out-51e8)
-- [Cracking Open Logistic Regression with Excel: ML Advent Calendar Day 12](https://dev.to/mabualzait/cracking-open-logistic-regression-with-excel-ml-advent-calendar-day-12-2em4)
-- [The Subtle Sign You&#39;re Growing as a Coder](https://dev.to/canro91/the-subtle-sign-youre-growing-as-a-coder-1bbl)
-- [Best Practices to Improve Mobile Futures Trading App Speed During High‑Volatility Sessions](https://dev.to/misterankit/best-practices-to-improve-mobile-futures-trading-app-speed-during-high-volatility-sessions-2gd8)
-- [Deploy Buttons Generator Beautiful Deployment Badges for Your GitHub Repos](https://dev.to/sudo-self/deploy-buttons-generator-beautiful-deployment-badges-for-your-github-repos-573f)
+- [Part 01: Building a Sovereign Software Factory: Docker Networking &amp; Persistence](https://dev.to/warren_jitsing_dd1c1d6fc6/part-01-building-a-sovereign-software-factory-docker-networking-persistence-31pm)
+- [When a PCB Trace Becomes a Transmission Line &lpar;And Why It Broke My Design&rpar;](https://dev.to/entela_lleka_c0a20f6760/when-a-pcb-trace-becomes-a-transmission-line-and-why-it-broke-my-design-5c4o)
+- [Stay ahead in web development: latest news, tools, and insights #115](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-115-4h31)
+- [React Container &amp; Presenter Pattern in React &lpar;Beginner Guide with Real Example&rpar;](https://dev.to/rayan2228/react-container-presenter-pattern-in-react-beginner-guide-with-real-example-3gi2)
+- [Unveiling Generative AI: The Future of Creativity](https://dev.to/hkj13/unveiling-generative-ai-the-future-of-creativity-35o3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
