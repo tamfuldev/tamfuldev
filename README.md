@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Single State Model Architecture](https://dev.to/adamcerny/single-state-model-architecture-1269)
-- [Why Do Simple Tasks Eat Up Hours of Your Day — And How One Hub Fixes It?](https://dev.to/muhammad_haris_7828c7aeda/why-do-simple-tasks-eat-up-hours-of-your-day-and-how-one-hub-fixes-it-1p8i)
-- [SAT approximately equals IQ: How to estimate your IQ from your SAT score](https://dev.to/isaacaddis/sat-iq-how-to-estimate-your-iq-from-your-sat-score-515f)
-- [How to Visualise and Control a ROS 2 Robot Remotely](https://dev.to/kaitungyu/how-to-visualise-and-control-a-ros-2-robot-remotely-8ek)
-- [How JOIN FETCH Reduced Database Load by 94%: A Real-World Case Study](https://dev.to/taras_antoniuk_ea6a2fe7ee/how-join-fetch-reduced-database-load-by-94-a-real-world-case-study-40c)
+- [I Built Production AI Agents That Handle 50K Messages/Month - Here&#39;s What the Tutorials Won&#39;t Tell You](https://dev.to/richard_sakaguchi_5809b6b/i-built-production-ai-agents-that-handle-50k-messagesmonth-heres-what-the-tutorials-wont-tell-4866)
+- [🎉 DEV Wrapped 2025 – See Your Year in Code!](https://dev.to/dev_kiran/dev-wrapped-2025-see-your-year-in-code-2aie)
+- [Apache Dev List Digest: Iceberg, Polaris, Arrow &amp; Parquet &lpar;Dec 9th - Dec15th, 2025&rpar;](https://dev.to/alexmercedcoder/apache-dev-list-digest-iceberg-polaris-arrow-parquet-dec-9th-dec15th-2025-49mj)
+- [Building Story CLI: From 30-Minute IP Registration to Under 5](https://dev.to/ola-zoll/building-story-cli-from-30-minute-ip-registration-to-under-5-22nk)
+- [Energia Solar + Mercado Livre para MEI: Requisitos Técnicos em 2025](https://dev.to/ava_mendes/energia-solar-mercado-livre-para-mei-requisitos-tecnicos-em-2025-33gk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
