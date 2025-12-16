@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built a Resume Killer using Next.js, Neo4j, and Gemini](https://dev.to/harsha_vardhanreddy_15a5/i-built-a-resume-killer-using-nextjs-neo4j-and-gemini-2abf)
-- [I built a free JSON Viewer, Formatter &amp; Converter for developers](https://dev.to/avinash_verma_dc226a5d270/i-built-a-free-json-viewer-formatter-converter-for-developers-20gf)
-- [Digital Identity Verification for Banks &amp; NBFCs](https://dev.to/verify_ekyc_cb7c756bbe01/digital-identity-verification-for-banks-nbfcs-2b7d)
-- [Transform LLM Apps with Monetzly&#39;s API Monetization Strategies](https://dev.to/monetzly/transform-llm-apps-with-monetzlys-api-monetization-strategies-2o7b)
-- [Tutorial: How to Detect VPNs and Tor Users in Node.js Express](https://dev.to/stoney_epling_da267a9f72a/tutorial-how-to-detect-vpns-and-tor-users-in-nodejs-express-2023)
+- [Part 02: Building a Sovereign Software Factory: The Local Root CA &amp; Trust Chains](https://dev.to/warren_jitsing_dd1c1d6fc6/building-a-sovereign-software-factory-the-local-root-ca-trust-chains-1igf)
+- [Data Intelligence Tokyo #21: Fighting Misinformation in the Age of AI](https://dev.to/esdk/data-intelligence-tokyo-21-fighting-misinformation-in-the-age-of-ai-3n3l)
+- [Most Nutrition APIs Hide 80% of the Data Behind Paywalls. Mine Doesn&#39;t.](https://dev.to/ra_vi_51d9667e07aa0984631/most-nutrition-apis-hide-80-of-the-data-behind-paywalls-mine-doesnt-49pl)
+- [VPN for MetaMask: Why Crypto Wallet Security Needs an Upgrade in 2025](https://dev.to/dev-vpn/vpn-for-metamask-why-crypto-wallet-security-needs-an-upgrade-in-2025-3d95)
+- [Maxing Out Mobile Devs: Manus Launches New Agent &amp; Design Tools](https://dev.to/mabualzait/maxing-out-mobile-devs-manus-launches-new-agent-design-tools-2p1l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
